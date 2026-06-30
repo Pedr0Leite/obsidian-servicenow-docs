@@ -14,11 +14,11 @@ breadcrumb: [Creating or editing catalog item template, Catalog Builder, Service
 
 # Localization Framework integration with Catalog Builder
 
-The **Translation Status** tab in the Catalog items tab on the [[catalog-builder|Catalog Builder]] dashboard enables you to view the translation status of catalog items, and translate catalog items on the fly using manual or machine translation methods.
+The **Translation Status** tab in the Catalog items tab on the Catalog Builder dashboard enables you to view the translation status of catalog items, and translate catalog items on the fly using manual or machine translation methods.
 
 Confirm that the following plugins are installed before you start using Localization Framework in Catalog Builder:
 
-1.  Localization Framework Installer plugin for [[service-catalog|Service Catalog]]: The plugin enables the Localization Framework capabilities in Service Catalog and Catalog Builder.
+1.  Localization Framework Installer plugin for Service Catalog: The plugin enables the Localization Framework capabilities in Service Catalog and Catalog Builder.
 2.  Dynamic Translation plugin: Enables on-the-fly machine translation capabilities.
 
 Translate catalog items information using one of the following modes:
@@ -68,7 +68,3 @@ For more information, see [Request ad hoc translation for Service Catalog items]
 
 **Parent Topic:**[Creating or editing catalog item template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog|Service Catalog]]

@@ -12,7 +12,7 @@ breadcrumb: [Business Portal, Configure, Sales Customer Relationship Management]
 
 # Modifying the data retention and table cleanup policy for the Sales Cart application
 
-A default data retention and table cleanup policy automatically deletes records from the Sales Cart application based on predefined conditions. You can [[Modify|modify]] these conditions to match your organization's policies.
+A default data retention and table cleanup policy automatically deletes records from the Sales Cart application based on predefined conditions. You can modify these conditions to match your organization's policies.
 
 By default, records in the complete state are deleted from the Sales Cart \[sn\_sales\_cart\] table if they meet either of the following conditions:
 
@@ -28,6 +28,3 @@ Modify the data retention and table cleanup frequency depending on your expected
 
 [Autoflush form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/atf-auto-flush.md)
 
-## Related
-
-- [[Modify|Modify]]

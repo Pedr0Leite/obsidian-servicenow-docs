@@ -22,7 +22,7 @@ Role required: appointment\_booking\_admin or admin
 
 ## About this task
 
-To use the appointment booking feature, administrators must create a configuration for each service or queue location that is available to walk-up customers. Service configurations are created within the [[walkup-experience-landing-page|Walk-up Experience]] application configuration, as part of the Appointment Booking application.
+To use the appointment booking feature, administrators must create a configuration for each service or queue location that is available to walk-up customers. Service configurations are created within the Walk-up Experience application configuration, as part of the Appointment Booking application.
 
 ## Procedure
 
@@ -65,6 +65,3 @@ You must map the defined advance configurations with the defined service configu
 
 **Parent Topic:**[Configure Variable time slots for appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/variable-time-slots.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

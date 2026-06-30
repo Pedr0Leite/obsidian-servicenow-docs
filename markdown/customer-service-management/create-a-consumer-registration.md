@@ -41,8 +41,5 @@ Ask your admin to install the External User Registration plugin \(ID: com.sn\_ex
 
 ## Result
 
-Your registration is complete. You can now [[log-in-to-consumer-service-portal|log in to the Consumer Service Portal]].
+Your registration is complete. You can now log in to the Consumer Service Portal.
 
-## Related
-
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]

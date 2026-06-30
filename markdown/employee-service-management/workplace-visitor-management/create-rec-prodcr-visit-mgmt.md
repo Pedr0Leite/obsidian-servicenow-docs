@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Visitor Management, Workplace Service Delivery
 
 # Create a record producer for visitor management
 
-Make visitor-related services available to employees as a self-service option. Create a record producer to display these services as catalog items in the [[workplace-services|Workplace Services]] catalog.
+Make visitor-related services available to employees as a self-service option. Create a record producer to display these services as catalog items in the Workplace Services catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Record producers**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Record producers**.
 
 2.  Click **New**.
 
@@ -50,7 +50,7 @@ Table name
 
 </td><td>
 
-[[register-visitors|Visitor Registration]] \(sn\_wsd\_visitor\_visitor\_registration\) table that the record producer is associated with. **Note:** Make sure that the Visitor Registration table for the record producer matches that of the associated workplace service.
+Visitor Registration \(sn\_wsd\_visitor\_visitor\_registration\) table that the record producer is associated with. **Note:** Make sure that the Visitor Registration table for the record producer matches that of the associated workplace service.
 
 </td></tr><tr><td>
 
@@ -132,8 +132,3 @@ The record producer is created.
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]

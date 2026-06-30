@@ -14,9 +14,9 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 # Enforce certificate trust \[Updated in Security Center 1.3, removed in 2.0, added in 7.0\]
 
-Use [[ca-system-properties|system properties]] to ensure that certificate expiration and trust are checked for certificates received from outbound HTTPS call endpoints when host verification is not performed.
+Use system properties to ensure that certificate expiration and trust are checked for certificates received from outbound HTTPS call endpoints when host verification is not performed.
 
-When **com.glide.[[sc-communications|communications]].trustmanager\_trust\_all** is set to **true**, then certificate expiration and trust are not checked for the certificate received from an outbound HTTPS call endpoint when host verification is not performed.
+When **com.glide.communications.trustmanager\_trust\_all** is set to **true**, then certificate expiration and trust are not checked for the certificate received from an outbound HTTPS call endpoint when host verification is not performed.
 
 Verify that the **com.glide.communications.trustmanager\_trust\_all** system property is set to the recommended value of **false**. This ensures that your instance only trusts certificates that it can verify against the JVM certificate store. Self-signed and enterprise-signed certificates are not trusted. This property only applies when **com.glide.communications.httpclient.verify\_hostname** is set to **false**.
 
@@ -42,7 +42,7 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
@@ -102,16 +102,10 @@ References
 
 </td><td>
 
-[[c_Certificates|Certificates]]
+[Certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_Certificates.md)
 
  [Verify certificate chain and hostname](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-verify-certificate-chain-and-hostname.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[ca-system-properties|System properties]]
-- [[sc-communications|Communications]]
-- [[sc-configuration|Configuration]]

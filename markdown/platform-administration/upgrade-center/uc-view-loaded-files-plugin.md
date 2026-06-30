@@ -22,15 +22,15 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade Monitor**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade Monitor**.
 
-    When the system finishes the upgrade, it displays the [[uc-complete-summary|Upgrade Summary Report]].
+    When the system finishes the upgrade, it displays the Upgrade Summary Report.
 
 2.  Scroll down to **Top 10 Plugins by Duration**.
 
 3.  Click **View all plugin duration**.
 
-    The **System Upgrade [[c_MetricDefinitionSupport|Metrics]]** list of all the plugins and their durations shows up.
+    The **System Upgrade Metrics** list of all the plugins and their durations shows up.
 
 4.  Click one of the plugins from the list to open the **System Upgrade Metrics** form view of that plugin.
 
@@ -38,8 +38,4 @@ Role required: admin.
 
     **Note:** The total plugin load duration is not the sum of the load duration of all the loaded files for that plugin.
 
-## Related
 
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[c_MetricDefinitionSupport|Metrics]]

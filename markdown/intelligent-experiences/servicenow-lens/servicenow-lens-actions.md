@@ -14,7 +14,7 @@ breadcrumb: [Configure, ServiceNow AI Lens, Enable AI experiences]
 
 # Define ServiceNow AI Lens behavior with Lens actions
 
-As a Lens admin, you can create Lens actions in [[servicenow-lens-landing-page|ServiceNow AI Lens]] to customize Lens behavior by providing default instructions, configuring context, and more.
+As a Lens admin, you can create Lens actions in ServiceNow AI Lens to customize Lens behavior by providing default instructions, configuring context, and more.
 
 Use Lens actions to define default instructions, trigger options, custom context, and post processing instructions for the Lens response. With Lens actions, you can achieve the following goals:
 
@@ -28,7 +28,7 @@ Use Lens actions to define default instructions, trigger options, custom context
 
 Whenever ServiceNow AI Lens is launched from an instance, it checks if any active Lens action is available for the table. If available, it uses the logic defined in Lens action during execution. The Lens action can only be used by the users or groups or roles that are assigned to the Lens Actions record.
 
-Refer to the following examples to understand the different use [[cases|cases]] of setting up the Lens actions.
+Refer to the following examples to understand the different use cases of setting up the Lens actions.
 
 -   [Example: Scan documents to auto-fill the Insurance Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-actions.md)
 -   [Example: Extract structured data from vendor agreements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-actions.md)
@@ -75,7 +75,7 @@ Form
 
 </td></tr><tr><td>
 
-Auto-fill a form with a custom context and default instructions when triggered from the ServiceNow AI Lens desktop app.You can [[preview-desktop-others-lens|trigger ServiceNow AI Lens from the desktop app]] directly in context of the Lens action instead of launching Lens from the instance. The default instructions are always applied and specific form fields are extracted.
+Auto-fill a form with a custom context and default instructions when triggered from the ServiceNow AI Lens desktop app.You can trigger ServiceNow AI Lens from the desktop app directly in context of the Lens action instead of launching Lens from the instance. The default instructions are always applied and specific form fields are extracted.
 
 </td><td>
 
@@ -303,7 +303,7 @@ Default Additional Directions
 
 </td><td>
 
-Default instructions that are supplied to [[platform-now-assist-landing|Now Assist]] in addition to the user-provided instructions.For example, `Summarize this paper by extracting the title, author name, publication date in the dd-mm-yyyy format, abstract, and keywords`
+Default instructions that are supplied to Now Assist in addition to the user-provided instructions.For example, `Summarize this paper by extracting the title, author name, publication date in the dd-mm-yyyy format, abstract, and keywords`
 
 </td></tr><tr><td id="transform-response">
 
@@ -405,7 +405,7 @@ Attach Captured Images To Record
 
 </td><td>
 
-Option to attach the captured images to the record that is auto-filled [[servicenow-lens-use|using ServiceNow AI Lens]].This option is enabled by default.
+Option to attach the captured images to the record that is auto-filled using ServiceNow AI Lens.This option is enabled by default.
 
 </td></tr></tbody>
 </table>7.  To assign users or groups or rolesto the Lens action, under the Assigned Users and Groups or Roles heading, select **New**, and then use any one of the following methods.
@@ -881,10 +881,4 @@ File upload procedure
 
     The Excel sheet data is inserted into the table.
 
-## Related
 
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[cases|Cases]]
-- [[preview-desktop-others-lens|Trigger ServiceNow AI Lens from the desktop app]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[servicenow-lens-use|Using ServiceNow AI Lens]]

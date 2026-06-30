@@ -22,7 +22,7 @@ Role required: assessment\_admin or admin
 
 For example, the Vendor Performance application provides the **Vendor** metric type, which defines an assessable record for each source record in the Company \[core\_company\] table that has the **Vendor** field selected. Create a metric type for each set of records you want to evaluate, such as vendors, users within an organization, or projects.
 
-In addition to defining [[c_assessable-records|assessable records]], metric types also determine how to filter decision matrix data and set the schedule type, which determines whether [[r_Assessments|assessments]] are on-demand or scheduled.
+In addition to defining assessable records, metric types also determine how to filter decision matrix data and set the schedule type, which determines whether assessments are on-demand or scheduled.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Assessment duration
 
 </td><td>
 
-Amount of time assessors have to complete their assigned questionnaires, starting from the time the assessment is generated. The assessment duration sets the **Due date** that appears on [[c_AssessmentInstances|assessment instances]]. Changes made to the duration of an attestation in the GRC Control Test Definition form are updated dynamically in this field. The default duration is 14 days.
+Amount of time assessors have to complete their assigned questionnaires, starting from the time the assessment is generated. The assessment duration sets the **Due date** that appears on [assessment instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md). Changes made to the duration of an attestation in the GRC Control Test Definition form are updated dynamically in this field. The default duration is 14 days.
 
 </td></tr><tr><td>
 
@@ -62,15 +62,15 @@ Live feed
 
 </td><td>
 
-[[check-box|Check box]] that determines whether to enable \(selected\) or disable \(cleared\) the Live Feed view in scorecards for all assessable records created from this type.
+Check box that determines whether to enable \(selected\) or disable \(cleared\) the Live Feed view in scorecards for all assessable records created from this type.
 
 </td></tr><tr><td>
 
-[[notify-landing-page|Notify]] manager if overdue
+Notify manager if overdue
 
 </td><td>
 
-Check box that determines whether to send \(selected\) [[email|email]] notifications a user's manager when that user fails to submit an assigned questionnaire on time.
+Check box that determines whether to send \(selected\) email notifications a user's manager when that user fails to submit an assigned questionnaire on time.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Scale factor
 
 </td><td>
 
-\[Required\] Number to represent the best possible score for [[r_AssessmentResults|assessment results]]. All results for assessments of this type are scaled to this number. 10 is generally a good scale factor.**Note:** This field becomes read-only when it contains a value and you save the metric type. Choose a scale factor you are satisfied with before you save the metric type.
+\[Required\] Number to represent the best possible score for assessment results. All results for assessments of this type are scaled to this number. 10 is generally a good scale factor.**Note:** This field becomes read-only when it contains a value and you save the metric type. Choose a scale factor you are satisfied with before you save the metric type.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Roles
 
 </td><td>
 
-Additional user roles that can view the results and access records associated with this type. Users with the specified roles have read access to this type record as well as to associated categories, metrics, assessable records and scorecards, category users, stakeholders, and [[r_AdministerDecisionMatrixes|decision matrixes]].**Note:** Users with these roles do not have access to Assessments modules unless they are also assessment administrators. Users with these roles can navigate to the records by other means, such as from [[reference|reference]] fields on assessment instances. This field provides the option to easily grant certain users access to specific assessment data in special cases. For example, the **Vendor** metric type provides access to users with the vendor\_manager role so they can view results and compare assessable records when they open scorecards or decision matrixes in the Vendor Performance application.
+Additional user roles that can view the results and access records associated with this type. Users with the specified roles have read access to this type record as well as to associated categories, metrics, assessable records and scorecards, category users, stakeholders, and decision matrixes.**Note:** Users with these roles do not have access to Assessments modules unless they are also assessment administrators. Users with these roles can navigate to the records by other means, such as from reference fields on assessment instances. This field provides the option to easily grant certain users access to specific assessment data in special cases. For example, the **Vendor** metric type provides access to users with the vendor\_manager role so they can view results and compare assessable records when they open scorecards or decision matrixes in the Vendor Performance application.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Signature
 
 </td><td>
 
-\[Optional\] Acknowledgement by a survey recipient of requirements, admonitions, or expectations related to an assessment. For more information, see [[t_CreateAnAssessmentSignature|Create an assessment signature]].
+\[Optional\] Acknowledgement by a survey recipient of requirements, admonitions, or expectations related to an assessment. For more information, see [Create an assessment signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md).
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Scheduled job
 
 </td><td>
 
-\[Admin only\] Scheduled job the system creates to generate assessments for this metric type. This field is populated the first time you save the record. The scheduled job name follows the format &lt;type name&gt; Assessment Creation. Administrators can configure a recurring [[c_AssessmentGeneration|assessment generation]] schedule for the metric type.This field is visible only when the schedule type is **Scheduled**.
+\[Admin only\] Scheduled job the system creates to generate assessments for this metric type. This field is populated the first time you save the record. The scheduled job name follows the format &lt;type name&gt; Assessment Creation. Administrators can configure a recurring assessment generation schedule for the metric type.This field is visible only when the schedule type is **Scheduled**.
 
 **Note:** If you change the schedule type from **Scheduled** to **On demand**, the system deletes the scheduled job. If you change the schedule type back to **Scheduled**, the system creates a new scheduled job. The previous assessment generation schedule is not saved, but can be reconfigured if desired.
 
@@ -181,7 +181,7 @@ Evaluation method
 
 [Attestations - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/c_Attestations.md).
 
--   **Survey**: For details, see [[c_SurveyDefinitions|Survey definitions]].
+-   **Survey**: For details, see [Survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md).
 
 
 </td></tr><tr><td>
@@ -198,7 +198,7 @@ Allow retake
 
 </td><td>
 
-Check box that allows users to modify their answers to a completed assessment, quiz, survey, or attestation. After the due date, the system removes the assessment from the user's My [[assessments-surveys-landing-page|Assessments and Surveys]] page.
+Check box that allows users to modify their answers to a completed assessment, quiz, survey, or attestation. After the due date, the system removes the assessment from the user's My Assessments and Surveys page.
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Introduction
 
 </td><td>
 
-Introductory content to display on [[c_AssessmentQuestionnaires|assessment questionnaires]]. Consider adding a company logo, a welcome message, background information about the survey, or instructions. You may need to configure the form to see this field.
+Introductory content to display on assessment questionnaires. Consider adding a company logo, a welcome message, background information about the survey, or instructions. You may need to configure the form to see this field.
 
 </td></tr><tr><td>
 
@@ -319,31 +319,31 @@ Assessable Records
 All assessable records associated with the type. This related list is hidden in the Attestation view of this form.
 
 </td></tr></tbody>
-</table>    The **Generate Assessments** button is visible to administrators in certain cases for [[c_ScheduledAssessments|scheduled assessments]]. Do not click the button until after completing the prerequisite tasks.
+</table>    The **Generate Assessments** button is visible to administrators in certain cases for scheduled assessments. Do not click the button until after completing the prerequisite tasks.
 
 4.  When you are satisfied with the type settings, click **Generate Assessable Records** to save the record and create assessable records.
 
     You must click **Generate Assessable Records** to create the initial set of assessable records based on the table and conditions specified on the type record. After that, the system creates an assessable record each time a new matching record is created. **Generate Assessable Records** is located under **Related Links**.
 
-    **Note:** Clicking **Generate Assessable Records** can trigger the deletion of existing assessable records under certain circumstances.For more information, see [[t_EnforceACondition|Enforce a condition to delete an assessable record]].
+    **Note:** Clicking **Generate Assessable Records** can trigger the deletion of existing assessable records under certain circumstances.For more information, see [Enforce a condition to delete an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnforceACondition.md).
 
     The page redirects to the list of assessable records created.
 
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[[r_Averages|Assessment scorecard averages]]
+[Assessment scorecard averages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_Averages.md)
 
-[[t_ScheduledAssessment|Schedule an assessment]]
+[Schedule an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ScheduledAssessment.md)
 
-[[c_ScheduleTypes|Schedule types]]
+[Schedule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduleTypes.md)
 
-[[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]
+[Set an assessment generation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetAssesstGenerationSchedule.md)
 
-[[c_OnDemandAssessments|On-demand assessments]]
+[On-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md)
 
 [Enforce a condition to delete an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnforceACondition.md)
 
@@ -351,27 +351,3 @@ All assessable records associated with the type. This related list is hidden in 
 
 [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-## Related
-
-- [[c_AssessmentInstances|Assessment instances]]
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[t_EnforceACondition|Enforce a condition to delete an assessable record]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_Averages|Assessment scorecard averages]]
-- [[t_ScheduledAssessment|Schedule an assessment]]
-- [[c_ScheduleTypes|Schedule types]]
-- [[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]
-- [[check-box|Check box]]
-- [[notify-landing-page|Notify]]
-- [[email|Email]]
-- [[r_AssessmentResults|Assessment results]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[reference|Reference]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[c_ScheduledAssessments|Scheduled assessments]]

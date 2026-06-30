@@ -12,7 +12,7 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 # Closing stale detections and findings automatically using auto-close rules
 
-Auto-close rules automatically close stale detections and findings based on predefined criteria. These rules ensure that redundant or unwanted findings are marked as closed, helping to maintain an accurate and up-to-date record of the organization's security posture. By automating this process, the rules reduce manual effort and enable teams to focus on active and critical [[vulnerabilities|vulnerabilities]].
+Auto-close rules automatically close stale detections and findings based on predefined criteria. These rules ensure that redundant or unwanted findings are marked as closed, helping to maintain an accurate and up-to-date record of the organization's security posture. By automating this process, the rules reduce manual effort and enable teams to focus on active and critical vulnerabilities.
 
 Auto-close rules can be set up to close stale detections and findings based on factors such as:
 
@@ -22,15 +22,10 @@ Auto-close rules can be set up to close stale detections and findings based on f
 
 Auto-close rules are crucial for managing stale detections and findings. When a finding is matched with the filter criteria, the auto-close rule can automatically close the associated record. This helps in maintaining a clean and accurate record of the security status, ensuring that teams can focus on new and critical exposure findings. By automating this process, organizations can improve the efficiency and accuracy of their exposure management practices.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-auto-close-rules|Configuring auto-close rules]]
+[Configuring auto-close rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-auto-close-rules.md)
 
-## Related
-
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-auto-close-rules|Configuring auto-close rules]]
-- [[vulnerabilities|Vulnerabilities]]

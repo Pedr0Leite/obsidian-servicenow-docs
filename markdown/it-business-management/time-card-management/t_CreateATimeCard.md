@@ -14,7 +14,7 @@ breadcrumb: [Time cards, Time Card management, Project Portfolio Management, Str
 
 # Create a time card
 
-You can create [[c_TimeCards|time cards]] to log time against the work you have done.
+You can create time cards to log time against the work you have done.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: timecard\_user
 
 Starting Australia release, users can select a resource assignment to associate it with time cards to calculate the actual efforts and tag them to the respective projects.
 
-The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md) determines the level at which the time cards for the [[t_CreateAProjectTask|project tasks]] can be created.
+The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md) determines the level at which the time cards for the project tasks can be created.
 
-**Note:** Time Cards created from [[create-a-project-form|Project form]] do not populate [[c_ResourcePlans|Resource plans]] automatically to avoid random allocations. For more information, see [KB0814884](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0814884) article in the Now Support Knowledge Base.
+**Note:** Time Cards created from Project form do not populate Resource plans automatically to avoid random allocations. For more information, see [KB0814884](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0814884) article in the Now Support Knowledge Base.
 
 Time cards can be created automatically or manually.
 
@@ -62,11 +62,11 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d164268e225">
 
-**From the [[worker-portal|Time Sheet Portal]]**
+**From the Time Sheet Portal**
 
 </td><td>
 
-1.  Navigate to **[[time-sheets|Time Sheets]]** &gt; **Time Sheet Portal**.
+1.  Navigate to **Time Sheets** &gt; **Time Sheet Portal**.
 2.  Open the week on the **Calendar** for which you want to create the time card.
 
 
@@ -164,7 +164,7 @@ Resource assignment
 
 </td><td>
 
-Select a resource assignment assigned to the user. When the time card is approved, the actual hours are used to view the planned vs actual hours in the heatmap view in [[project-workspace-landing-page|Project Workspace]] and [[rsrc-mgmt-wrkspc|Resource Management Workspace]].A resource assignment is associated with the time card in the following ways:
+Select a resource assignment assigned to the user. When the time card is approved, the actual hours are used to view the planned vs actual hours in the heatmap view in Project Workspace and Resource Management Workspace.A resource assignment is associated with the time card in the following ways:
 
 -   If the user has multiple resource assignments, you can select the appropriate assignment.
 -   If the user has only one resource assignment, that plan is selected by default.
@@ -219,13 +219,3 @@ As an admin, you can configure a scheduled job to generate time cards automatica
 
 [Map a time card category with operational work types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/map-time-card-category.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[worker-portal|Time Sheet Portal]]
-- [[time-sheets|Time Sheets]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

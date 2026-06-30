@@ -14,13 +14,13 @@ breadcrumb: [Create a learning library, Manage Learning, Using My Learning, Lear
 
 # Add users to learning library
 
-You can add applicable users to a [[exploring-learning-exp|learning]] library.
+You can add applicable users to a learning library.
 
 ## Before you begin
 
 Role required: admin
 
-[[create-learning-library|Create a learning library]]. For more information, see [Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-library.md)
+Create a learning library. For more information, see [Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-library.md)
 
 ## Procedure
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-library.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-learning-library|Create a learning library]]

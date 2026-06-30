@@ -12,7 +12,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 # Activity stream
 
-Learn about how the Workspace [[csm-config-ws-activity-stream|Activity stream]] functions in Configurable Workspace.
+Learn about how the Workspace Activity stream functions in Configurable Workspace.
 
 Activity stream enables agents to communicate with requesters and make internal notes about the work done on a record. Configure the Activity stream and Activity stream Compose components in UI Builder to set up Activity stream in Configurable Workspace.
 
@@ -46,6 +46,3 @@ Workspace Activity stream matched with Configurable Workspace parameters.
 | |title|
 | |useTabs|
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -22,7 +22,7 @@ Role required: sn\_si.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Utilities** &gt; **On-Demand Orchestration**
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Utilities** &gt; **On-Demand Orchestration**
 
 2.  Select **New**.
 
@@ -99,6 +99,3 @@ Modify the execution script so that it passes the correct record to the selected
 
 [Work with workflow versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_WorkflowVersions.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

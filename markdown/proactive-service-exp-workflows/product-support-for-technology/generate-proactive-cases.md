@@ -14,7 +14,7 @@ breadcrumb: [Auto-creation of cases, Use, Proactive Service Experience Workflows
 
 # Redirection to the right case type
 
-Create a proactive case from an incident in the [[psew-landing-page|Proactive Service Experience Workflows]].
+Create a proactive case from an incident in the Proactive Service Experience Workflows.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Auto-creation of cases and updates from incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-auto-creation-case.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

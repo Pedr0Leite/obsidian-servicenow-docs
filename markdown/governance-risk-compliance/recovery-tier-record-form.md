@@ -23,8 +23,5 @@ For description of the field values, see the table.
 |Name|Name for the recovery tier level.|
 |Recovery time objectives|Metric that calculates how quickly the business should recover an element after a disaster.|
 
-**Parent Topic:**[[configure-recovery-tier-bia-uib-ws|Configure recovery tiers for BIA]]
+**Parent Topic:**[Configure recovery tiers for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-recovery-tier-bia-uib-ws.md)
 
-## Related
-
-- [[configure-recovery-tier-bia-uib-ws|Configure recovery tiers for BIA]]

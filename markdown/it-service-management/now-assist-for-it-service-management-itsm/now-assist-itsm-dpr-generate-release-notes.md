@@ -19,14 +19,14 @@ Generate structured release notes for a release using AI-driven summarization, r
 
 ## Before you begin
 
--   **Required [[dex-workspace-application-tab|applications]] and plugins:**
-    -   [[dpr-landing-page|Digital Product Release]] version 2.3 or later.
+-   **Required applications and plugins:**
+    -   Digital Product Release version 2.3 or later.
 
         For more information, see [Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-landing-page.md).
 
     -   Now Assist for ITSM plugin \(sn\_itsm\_gen\_ai\) version 12.0.0 or later.
 
-        For more information, see [Now Assist for [[r_ITServiceManagement|IT Service Management]] \(ITSM\)]().
+        For more information, see [Now Assist for IT Service Management \(ITSM\)]().
 
 -   **Configuration:**
     -   The Generate Release Notes skill must be active.
@@ -48,7 +48,7 @@ The release notes are generated using the release scope data for the release:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -88,9 +88,3 @@ The release notes are generated using the release scope data for the release:
 
 [AI-powered release notes generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-ai-release-notes-generation.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dpr-workspace|Digital Product Release Workspace]]

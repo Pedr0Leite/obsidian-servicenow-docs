@@ -30,7 +30,7 @@ The system offers these extension models to store a table hierarchy on a relatio
 
 The Table per class extension model stores each table of the hierarchy in its own physical table on the relational database. Each physical table uses the table prefix of the source table each stores a different class of records. An example of the Table per class extension model is the Asset \[alm\_asset\] table, and its child tables: Hardware \[alm\_hardware\], Consumable \[alm\_consumable\], Facility \[alm\_facility\], and Software License \[alm\_license\]. The parent table of the hierarchy, Asset, stores a copy of every record in its descendant tables.
 
-To find records in the Table per class extension model, the system queries records from multiple tables and joins the [[hs-results|results]]. For example, when searching for hardware in a related facility, the system must join results from the Hardware, Facility, and Asset tables.
+To find records in the Table per class extension model, the system queries records from multiple tables and joins the results. For example, when searching for hardware in a related facility, the system must join results from the Hardware, Facility, and Asset tables.
 
 Table joins cause a performance bottleneck on relational databases. The more classes a query includes, the worse the query performance. Therefore any query for records from the top of the table hierarchy has the worst performance because it requires joining all descendant tables.
 
@@ -61,6 +61,3 @@ Determine the extension model used by a table.
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[hs-results|Results]]

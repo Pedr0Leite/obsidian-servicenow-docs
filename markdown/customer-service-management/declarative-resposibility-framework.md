@@ -12,7 +12,7 @@ breadcrumb: [Configuring customer access management, User management, Set up you
 
 # Configure access through the responsibility access configuration
 
-Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. This framework enables you to select the level of access for each responsibility by leveraging low-code or no-code capabilities, which reduces the time required for scripting.
+Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the Customer Service Management \(CSM\) application. This framework enables you to select the level of access for each responsibility by leveraging low-code or no-code capabilities, which reduces the time required for scripting.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: One of the following roles:
 
 The Responsibility Access Configuration \[sn\_customerservice\_responsibility\_access\_config\] table is used to store the metadata of the responsibility access configuration. With this configuration, you can enable different levels of access for related party users across different records of the same entity. For example, a user with a location manager role might serve as a fulfiller at one business location and as an agent at another.
 
-For more information about creating a responsibility definition, see [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]. The need for domain separation in configuring access records is determined by the domain of the referenced responsibility.
+For more information about creating a responsibility definition, see [Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md). The need for domain separation in configuring access records is determined by the domain of the referenced responsibility.
 
 ## Procedure
 
@@ -92,7 +92,7 @@ Accessible table
 
 </td><td>
 
-Entities or records accessible through this configuration, like cases or [[sold-product|sold products]].
+Entities or records accessible through this configuration, like cases or sold products.
 
 </td></tr><tr><td>
 
@@ -192,8 +192,4 @@ Provides a description of the purpose or function of the responsibility definiti
 
 5.  Select **Submit**.
 
-## Related
 
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]

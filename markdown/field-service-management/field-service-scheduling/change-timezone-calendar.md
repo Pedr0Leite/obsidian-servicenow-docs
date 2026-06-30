@@ -14,7 +14,7 @@ breadcrumb: [Time zones, Using Dispatcher Workspace, Assigning tasks from Dispat
 
 # Change the time zone in Dispatcher Workspace
 
-You can change the time zone that shows on the calendar or hybrid view in [[dispatcher-activities|Dispatcher Workspace]] to move between the time zones that agents are working in.
+You can change the time zone that shows on the calendar or hybrid view in Dispatcher Workspace to move between the time zones that agents are working in.
 
 ## About this task
 
@@ -45,6 +45,3 @@ You must have more than one time zone configured. For more information, see the 
 
 The time zone that you selected shows in Dispatcher Workspace.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

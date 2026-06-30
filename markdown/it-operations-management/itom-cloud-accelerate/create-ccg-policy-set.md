@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Create a policy set
 
-Create a policy set in [[cloud-configuration-governance|Cloud Configuration Governance]] to group policies that enforce a given security or organization standard. When the [[ccg-scan-configuration|scan configuration]] runs the policy set, it identifies the cloud resources that don’t adhere to the set standards. A policy set can contain one or more policies.
+Create a policy set in Cloud Configuration Governance to group policies that enforce a given security or organization standard. When the scan configuration runs the policy set, it identifies the cloud resources that don’t adhere to the set standards. A policy set can contain one or more policies.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_itom\_ccg.governor
 
 ## Procedure
 
-1.  Navigate to **Cloud Configuration Governance** &gt; **[[aws-policy-set|Policy Sets]]**.
+1.  Navigate to **Cloud Configuration Governance** &gt; **Policy Sets**.
 
 2.  Select **New**.
 
@@ -37,8 +37,4 @@ Role required: sn\_itom\_ccg.governor
 
 4.  Select **Submit**.
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-configuration|Scan configuration]]
-- [[aws-policy-set|Policy sets]]

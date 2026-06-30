@@ -30,7 +30,7 @@ You can create multiple diagnostic scripts to check various aspects of data. The
 
 2.  Select **New**.
 
-3.  On the [[diag-scripts-form|Diagnostics Scripts form]], fill the fields.
+3.  On the Diagnostics Scripts form, fill the fields.
 
     For a description of the field names, see [Diagnostics Scripts form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/diag-scripts-form.md).
 
@@ -47,6 +47,3 @@ You can create multiple diagnostic scripts to check various aspects of data. The
 
 **Parent Topic:**[Use Resource Diagnostics to detect corrupt resource data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-diagnostics.md)
 
-## Related
-
-- [[diag-scripts-form|Diagnostics Scripts form]]

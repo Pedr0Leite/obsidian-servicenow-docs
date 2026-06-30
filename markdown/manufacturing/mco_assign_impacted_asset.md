@@ -12,7 +12,7 @@ breadcrumb: [Recall a campaign phase, Create a campaign, Recall management, Agen
 
 # Assign an impacted asset
 
-Assign an impacted asset to the [[mco-rcl-clms|recall campaign]].
+Assign an impacted asset to the recall campaign.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Recall Campaign Phases**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Recall Campaign Phases**.
 
 2.  Select **Assign**.
 
@@ -29,10 +29,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 4.  Select **Assign**.
 
 
-**Parent Topic:**[[mco-recall-campaign-phases|Recall a campaign phase]]
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 
-## Related
-
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-recall-management|Recall management]]

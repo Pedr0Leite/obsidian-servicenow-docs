@@ -99,8 +99,5 @@ Retype the password.
 
 ## Result
 
-Your registration is complete. You can [[log-in-to-consumer-portal|log in to the Consumer Portal]].
+Your registration is complete. You can log in to the Consumer Portal.
 
-## Related
-
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

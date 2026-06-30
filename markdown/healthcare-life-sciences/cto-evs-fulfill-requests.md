@@ -14,7 +14,7 @@ breadcrumb: [Care Team Operations for Environmental Services, Healthcare Operati
 
 Healthcare EVS cases can be fulfilled one of two ways, depending on what plugin you have installed.
 
-For [[cto-evs-landing|Care Team Operations for Environmental Services]] to create work orders from Healthcare EVS cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
+For Care Team Operations for Environmental Services to create work orders from Healthcare EVS cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
 This plugin provides all roles and features needed for the Healthcare EVS case to synchronize to work orders.
 
@@ -28,6 +28,3 @@ Cases created are assigned to assignment groups based on the requesting location
 
 For information on fulfilling cases, see [Manage cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-cases.md) in Customer Service Management.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

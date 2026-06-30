@@ -14,9 +14,9 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Invoices
 
-Invoices are generated for a payment against a [[purchase-order-table|purchase order]]. A purchase order can have multiple invoices depending on the payment schedule.
+Invoices are generated for a payment against a purchase order. A purchase order can have multiple invoices depending on the payment schedule.
 
-You can manually create invoices in the ServiceNow platform or generate invoices through integration with an external [[supplier|supplier]] portal.
+You can manually create invoices in the ServiceNow platform or generate invoices through integration with an external supplier portal.
 
 **Note:** Invoice matching is either done externally in the supplier portal or manually in ServiceNow. There’s currently no logic to perform invoice matching systematically in the ServiceNow platform.
 
@@ -168,7 +168,7 @@ Accounting Details
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -223,7 +223,7 @@ Approvals
 
 </td><td>
 
-When the services acknowledgment is set to **Invoice approval**, [[invoice-approvals|invoice approvals]] act as a form of receipt before issuing the payment to a supplier.In the absence of a receipt and three-way matching, invoice approvals are used to avoid an automatic two-way match.
+When the services acknowledgment is set to **Invoice approval**, invoice approvals act as a form of receipt before issuing the payment to a supplier.In the absence of a receipt and three-way matching, invoice approvals are used to avoid an automatic two-way match.
 
  Invoice approvals are sent to the recipient of the line and the shopper can act on them as a to-do in ShoppingHub.
 
@@ -231,16 +231,16 @@ When the services acknowledgment is set to **Invoice approval**, [[invoice-appro
 
 </td></tr><tr><td>
 
-[[invoice-tasks|Invoice Tasks]]
+Invoice Tasks
 
 </td><td>
 
-When a service acknowledgment is triggered, a task is created against the invoice and listed here.**Note:** If you are a new customer, or an existing customer who has upgraded and installed the [[shopping-hub-overview|Shopping Hub]] plugin, these tasks aren't applicable for you. However, if you choose to continue with the existing Source-to-Pay Common Architecture plugin and skip the Shopping Hub plugin, these tasks are available for you to work on.
+When a service acknowledgment is triggered, a task is created against the invoice and listed here.**Note:** If you are a new customer, or an existing customer who has upgraded and installed the Shopping Hub plugin, these tasks aren't applicable for you. However, if you choose to continue with the existing Source-to-Pay Common Architecture plugin and skip the Shopping Hub plugin, these tasks are available for you to work on.
 
 </td></tr></tbody>
 </table>To create an invoice from a supplier for a received product or service, edit the **Subtotal** field in the Invoice form to the actually received amount, add an invoice line to capture the specifics of that purchase order line, and update the **Line amount invoiced** field in that Invoice Line form to reflect the same received amount. When the invoice line and the invoice are both updated to the Paid state, an expense line in auto-generated in the Project form of Project Management for which the purchase was originally made.
 
-For more information on [[psm-overview|Sourcing and Procurement Operations]]'s integration with Project Management, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-ppm.md).
+For more information on Sourcing and Procurement Operations's integration with Project Management, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-ppm.md).
 
 ## Invoice calculations and state flows
 
@@ -256,12 +256,3 @@ The invoice state on the invoice header is read-only as the state change is driv
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]
-- [[invoice-approvals|Invoice approvals]]
-- [[invoice-tasks|Invoice tasks]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]

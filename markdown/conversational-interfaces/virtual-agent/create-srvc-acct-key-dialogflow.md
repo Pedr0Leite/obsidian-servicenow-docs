@@ -14,7 +14,7 @@ breadcrumb: [Using Google Dialogflow as a secondary bot with Virtual Agent Bot I
 
 # Create a service account and private key for the Google Dialogflow project
 
-To use Google Dialogflow with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, the second step is to create a service account and private key for the new agent in Google Dialogflow.
+To use Google Dialogflow with Virtual Agent Bot Interconnect, the second step is to create a service account and private key for the new agent in Google Dialogflow.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ Role required: admin
 
 **Next topic:**[Generate a Java Keystore file from the JSON private key file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/generate-jks-from-json-dialogflow.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

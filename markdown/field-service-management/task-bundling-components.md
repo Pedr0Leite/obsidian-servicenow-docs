@@ -55,7 +55,7 @@ Field Service Task Bundling adds the following business rules.
 
 ## Script Includes for Task Bundling
 
-The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [[customizations|Advanced configurations]].
+The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customizations.md).
 
 |Script Includes|Description|
 |---------------|-----------|
@@ -66,13 +66,13 @@ The following script includes contain reusable code that supports the task bundl
 |DynamicBundlingAdvancedRuleScripts|Contains APIs used in advanced Task Grouping rules for use with Dynamic Bundling.|
 |FSMDynamicBundling|Main API for FSM Dynamic Bundling functionality.|
 |FSMDynamicBundlingAJAX|AJAX functions for FSM Dynamic Bundling.|
-|FSMDynamicBundlingAssignments|Contains APIs used to handle processing Dynamic Bundling during [[dynamic-scheduling|Dynamic Scheduling]] and Auto Assign flows.|
+|FSMDynamicBundlingAssignments|Contains APIs used to handle processing Dynamic Bundling during Dynamic Scheduling and Auto Assign flows.|
 |FSMDynamicBundlingUtil|Contains APIs used to handle various Dynamic Bundling functionality.|
 |FSMMobileBulkActionsConstants|Contains constant values used throughout the Task Bundling Mobile Bulk Actions APIs.|
 |FSMMobileBulkActionsUtil|Functions called from Mobile Bulk Actions configurations.|
 |FSMTaskBundle|Facilitates the creation and functionality of a Task Bundle.|
 |FSMTaskBundleAJAX|AJAX functions for FSM Task Bundle functionality.|
-|FSMTaskBundleCapacityUtil|Task Bundle [[capacity|capacity]] utility functions.|
+|FSMTaskBundleCapacityUtil|Task Bundle capacity utility functions.|
 |FSMTaskBundleStateFlows|Contains APIs used to handle Task Bundle state changes and subtask state changes.|
 |MatchingDimensionRejectedTechnicianForBundle|Prevents selection of a technician who has rejected a subtask on a bundle.|
 |TaskBundlingConstants|Contains constant values used throughout the Task Bundling APIs.|
@@ -201,12 +201,12 @@ Reassigns unassigned task bundles.
 |---------|--------|
 |Bundle: Ignore Rejected Technician|Ignores agents who have rejected a task from the bundle previously. Prevents bundles with rejected tasks from being assigned to the rejecting agent.|
 |Bundle: Matching Skills For Dynamic Scheduling|Matches bundles that have skill requirements with agents who have those skills.|
-|Bundle: Matching Mandatory Parts for Dynamic Scheduling|Matches bundles that have [[c_PartRequirements|part requirements]] with agents who have those parts.|
+|Bundle: Matching Mandatory Parts for Dynamic Scheduling|Matches bundles that have part requirements with agents who have those parts.|
 
--   **[[work-order-task-bundling-fields|Field Service Task Bundling fields]]**  
+-   **[Field Service Task Bundling fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-task-bundling-fields.md)**  
 The fields that are included in the details section of work order task bundles.
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
@@ -215,11 +215,3 @@ The fields that are included in the details section of work order task bundles.
 
 [Activate Field Service Task Bundling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-work-order-task-bundling.md)
 
-## Related
-
-- [[customizations|Advanced configurations]]
-- [[work-order-task-bundling-fields|Field Service Task Bundling fields]]
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[c_PartRequirements|Part requirements]]

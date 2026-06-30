@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Content Management** &gt; **[[c_ContentTypes|Content Types]]**.
+1.  Navigate to **All** &gt; **Content Management** &gt; **Content Types**.
 
 2.  Click **New**.
 
@@ -98,6 +98,3 @@ Write an XML script that determines how to display the associated information af
 </table>
 **Parent Topic:**[Content types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentTypes.md)
 
-## Related
-
-- [[c_ContentTypes|Content types]]

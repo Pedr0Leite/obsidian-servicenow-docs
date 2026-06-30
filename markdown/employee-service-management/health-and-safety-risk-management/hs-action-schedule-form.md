@@ -59,9 +59,9 @@ Type
 Type of the action.-   **Corrective**: An action to eliminate the causes of non-conformities or undesirable situations to stop them from happening again.
 -   **Preventive**: An action to help prevent the occurrence of non-conformities.
 -   **Task**: A generic task assigned as an action.
--   **[[exploring-learning-exp|Learning]]**: An action that includes a learning for the user, for example, completing a training.
+-   **Learning**: An action that includes a learning for the user, for example, completing a training.
 
-**Note:** The **Learning** option in this field appears only when the [[learning-core_overview|Learning Core]] \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+**Note:** The **Learning** option in this field appears only when the Learning Core \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 
 </td></tr><tr><td>
@@ -142,7 +142,3 @@ This field appears only when **Frequency** is set as **Monthly**.
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

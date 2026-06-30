@@ -14,13 +14,13 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Configure a profile for sightings search with the FireEye Integration
 
-Configure the [[indicator-sightings|sightings]] search profile using the following procedure.
+Configure the sightings search profile using the following procedure.
 
 ## Before you begin
 
 Role required: NowPlatform Security incident administrator \(sn\_si.admin\)
 
-Whenever a source is created, individual sightings search configurations for five types \(File, IPs\(v4\), MD5, SHA1 and SHA256\) will be created and inactive by default. You should make it active before using Sighting Search. Each Observable type is having different search query to retrieve sightings. We would be initiating a different search for each observable type. Multiple [[c_Observables|observables]] search for a sighting search is not possible in FireEye as it would perform an AND operation on the observables and the result might be inaccurate.
+Whenever a source is created, individual sightings search configurations for five types \(File, IPs\(v4\), MD5, SHA1 and SHA256\) will be created and inactive by default. You should make it active before using Sighting Search. Each Observable type is having different search query to retrieve sightings. We would be initiating a different search for each observable type. Multiple observables search for a sighting search is not possible in FireEye as it would perform an AND operation on the observables and the result might be inaccurate.
 
 **Note:** For Sightings search only five active searches can be present at once. Remaining will be queued and will start after the completion of any one of the ongoing sightings.
 
@@ -47,7 +47,4 @@ If you want to create a new sightings search profile, follow the steps below to 
 
 4.  Click **Submit** to complete the configuration.
 
-## Related
 
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

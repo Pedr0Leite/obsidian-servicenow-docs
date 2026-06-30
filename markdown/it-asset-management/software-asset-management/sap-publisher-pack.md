@@ -20,7 +20,7 @@ Use the Software Asset Management publisher pack for SAP to manage and optimize 
 
 **Note:** You can use the SAP publisher pack to manage and optimize licensing for SAP NetWeaver 7.4, SAP\_BASIS 740, and later versions.
 
-**Note:** To use the publisher pack, install the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for SAP plugin \(com.sn\_samp\_sap\).
+**Note:** To use the publisher pack, install the Software Asset Management Professional for SAP plugin \(com.sn\_samp\_sap\).
 
 ## Supported license types
 
@@ -34,7 +34,7 @@ The SAP publisher pack supports licensing for named users, engine measurement, t
 
 -   **Engines \(automated, calculated, and self-declared\)**
 
-    SAP engines, also known as packages, are optional applications that require additional licenses. Every engine has a unique license metric that is used to calculate the license usage for the engine. Examples of license metrics include the number of employees or number of [[c_Contracts|contracts]].
+    SAP engines, also known as packages, are optional applications that require additional licenses. Every engine has a unique license metric that is used to calculate the license usage for the engine. Examples of license metrics include the number of employees or number of contracts.
 
     License usage is calculated through either an automated SAP engine measurement, calculation based on multiple engine measurements plus an indicator, or a manual self-declaration process.
 
@@ -139,11 +139,11 @@ When SAP data enters the ServiceNow AI Platform, it’s initially stored in stag
 
 ## View SAP license usage and compliance
 
-View your SAP license costs, usage, and compliance using the [Software Publisher Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-sap.md) \(Software Asset Management classic application\) or [publisher overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-sap.md) \([[sam-workspace|Software Asset Workspace]]\). The dashboard and overview also show how you can optimize license consumption by reassigning user roles in your SAP system. You can view the license optimization details in the [[analytics-workspace|Software asset analytics view]]. For more details, see [Publisher optimizations for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-sap.md).
+View your SAP license costs, usage, and compliance using the [Software Publisher Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-sap.md) \(Software Asset Management classic application\) or [publisher overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-sap.md) \(Software Asset Workspace\). The dashboard and overview also show how you can optimize license consumption by reassigning user roles in your SAP system. You can view the license optimization details in the Software asset analytics view. For more details, see [Publisher optimizations for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-sap.md).
 
-Reconciliation runs weekly or on demand to determine your license compliance position for all of your SAP products. Reconciliation compares your purchased rights recorded in software entitlements with actual usage data pulled from your SAP systems. You can view reconciliation results for SAP in the [[sam-workspace-workbench|License usage view]] of the Software Asset Workspace. The License usage view shows unlicensed users and engines, digital access licenses available and required, and remediation options to make your license position compliant, potential savings, and more. For more information on the License usage view, see [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-workbench.md).
+Reconciliation runs weekly or on demand to determine your license compliance position for all of your SAP products. Reconciliation compares your purchased rights recorded in software entitlements with actual usage data pulled from your SAP systems. You can view reconciliation results for SAP in the License usage view of the Software Asset Workspace. The License usage view shows unlicensed users and engines, digital access licenses available and required, and remediation options to make your license position compliant, potential savings, and more. For more information on the License usage view, see [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-workbench.md).
 
-To view [[sam-license-position-report|Software license compliance position]] reports for SAP, navigate to **License usage** &gt; **Reports** &gt; **Software license compliance position** in the Software Asset Workspace.
+To view Software license compliance position reports for SAP, navigate to **License usage** &gt; **Reports** &gt; **Software license compliance position** in the Software Asset Workspace.
 
 -   **[Tables installed with the SAP publisher pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/component-installed-sap-plugin.md)**  
 Tables are installed with the Software Asset Management Professional for SAP plugin. The tables store data pulled from the SAP systems.
@@ -156,17 +156,17 @@ Create a connection profile to establish a connection between your SAP system an
 -   **[Create entitlements for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md)**  
 Create software entitlements to record your license information for SAP products. You can create entitlements individually or import them from a spreadsheet.
 -   **[Create software models for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-software-model-sap.md)**  
-Create [[c_CreatingSoftwareModels|software models]] to record SAP product information.
+Create software models to record SAP product information.
 -   **[Create a custom SAP named user type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-named-user.md)**  
-[[create-named-user|Create a custom SAP named user type]] so that you can track and manage your SAP licenses based on the named user type that is specific to your SAP system.
+Create a custom SAP named user type so that you can track and manage your SAP licenses based on the named user type that is specific to your SAP system.
 -   **[Map a role to a named user type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-named-user-type-role-mapping.md)**  
 You can optimize your SAP licenses by mapping roles to a named user type. During reconciliation, discovered user roles and their assigned named user types are compared against these roles to identify user that can be given a lower named user type.
 -   **[Create custom SAP price lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sap-pricelist.md)**  
-[[create-sap-pricelist|Create custom SAP price lists]] so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
+Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 -   **[Import custom SAP named user types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-custom-sap-named-user-type.md)**  
-[[import-custom-sap-named-user-type|Import custom SAP named user types]] into your ServiceNow® instance so that you can track and manage SAP licenses based on the named user types that are specific to your SAP system.
+Import custom SAP named user types into your ServiceNow® instance so that you can track and manage SAP licenses based on the named user types that are specific to your SAP system.
 -   **[Import custom SAP price lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-custom-sap-price-list.md)**  
-[[import-custom-sap-price-list|Import custom SAP price lists]] into your ServiceNow® instance so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
+Import custom SAP price lists into your ServiceNow® instance so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 -   **[SAP USMM-based optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/usmm-optimization.md)**  
 Optimize licensing through SAP User License Measurement \(USMM\) rules that map roles to the Named User Type for an SAP client.
 -   **[User transaction activity for named user types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-named-user-transaction-activity.md)**  
@@ -176,21 +176,7 @@ You can self-declare the license usage for any SAP engines that cannot be measur
 -   **[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-sap.md)**  
 View your license compliance position for SAP on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 -   **[Publisher overview for SAP in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-sap.md)**  
-View license usage information related to SAP in the [[publisher-overview-sap|publisher overview for SAP in the Software Asset Workspace]].
+View license usage information related to SAP in the publisher overview for SAP in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[analytics-workspace|Software asset analytics view]]
-- [[sam-workspace-workbench|License usage view]]
-- [[sam-license-position-report|Software license compliance position]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[create-named-user|Create a custom SAP named user type]]
-- [[create-sap-pricelist|Create custom SAP price lists]]
-- [[import-custom-sap-named-user-type|Import custom SAP named user types]]
-- [[import-custom-sap-price-list|Import custom SAP price lists]]
-- [[publisher-overview-sap|Publisher overview for SAP in the Software Asset Workspace]]

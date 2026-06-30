@@ -14,7 +14,7 @@ breadcrumb: [Configure inbound FDS as consumers, Configure for consumers, Servic
 
 # Validate foundation data sync subscription items
 
-Configure the sample data received from the provider to validate a [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) subscription item.
+Configure the sample data received from the provider to validate a foundation data sync \(FDS\) subscription item.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ After the provider sends the sample, a subscription is generated for each offeri
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **FDS Requests**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **FDS Requests**.
 
 2.  Select the request.
 
@@ -125,10 +125,5 @@ After you complete the configuration, the state of the subscription item and of 
 
 ## What to do next
 
-[[service-bridge-v2-accept-fds-subscription|Accept the subscription]].
+[Accept the subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-accept-fds-subscription.md).
 
-## Related
-
-- [[service-bridge-v2-accept-fds-subscription|Accept a foundation data sync subscription]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

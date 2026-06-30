@@ -12,7 +12,7 @@ breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platf
 
 # Track the response time of applications to monitor their performance
 
-Track the response time of applications to gauge their [[instance-observer-performance|performance]]. You can drill down to the transaction ID of each application to learn the slowest and fastest interactions in each instance.
+Track the response time of applications to gauge their performance. You can drill down to the transaction ID of each application to learn the slowest and fastest interactions in each instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ With application monitoring, you can view the number of applications in each ins
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer** &gt; **Analytics** &gt; **[[user-experience-insights|User Experience]]**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer** &gt; **Analytics** &gt; **User Experience**.
 
 2.  In the **Overview** tab of the User Experience page, select an instance from the **Instance** field.
 
@@ -55,16 +55,8 @@ With application monitoring, you can view the number of applications in each ins
 
     By default, the list of applications appear in descending order of the Average Response Time in seconds.
 
-    For more information on application monitoring, see [[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]].
+    For more information on application monitoring, see [Analyze user experience and monitor application performance in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-app-mon-perf-analy.md).
 
 
-**Parent Topic:**[[io-analytics|Analytics]]
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-analytics.md)
 
-## Related
-
-- [[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]]
-- [[io-analytics|Analytics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[user-experience-insights|User Experience]]

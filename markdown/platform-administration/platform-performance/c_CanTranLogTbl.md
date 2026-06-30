@@ -16,7 +16,7 @@ breadcrumb: [Transaction cancellation, Resolve issues, Platform performance, Mai
 
 The system logs canceled transactions to a table in addition to the transaction log.
 
-Transactions canceled manually or by a quota rule are logged to the [[transaction-cancellation|Transaction Cancellation]] Log \[syslog\_cancellation\] table. The Transaction Cancellation Log is an extra debugging feature, and doesn't contain information on all cancellations.
+Transactions canceled manually or by a quota rule are logged to the Transaction Cancellation Log \[syslog\_cancellation\] table. The Transaction Cancellation Log is an extra debugging feature, and doesn't contain information on all cancellations.
 
 **Note:** There are safeguards in place to help prevent infinite loops and issues related to synchronicity. Because of this, it's not always possible to log a cancellation to a database table.
 
@@ -42,12 +42,8 @@ Indicates whether canceled transactions are to be logged to the Transaction Canc
 
  Default value: true
 
- Location: [[t_AddAPropertyUsingSysPropsList|Add to the System Properties]] \[sys\_properties\] table
+ Location: [Add to the System Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) \[sys\_properties\] table
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Transaction cancellation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-cancellation.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[transaction-cancellation|Transaction cancellation]]

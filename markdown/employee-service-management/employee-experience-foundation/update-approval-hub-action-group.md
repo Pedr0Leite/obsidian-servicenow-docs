@@ -26,7 +26,7 @@ Action group provides quick access to action items such as approve or reject the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[action-group-framework|Action framework]]** &gt; **Action Groups**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action framework** &gt; **Action Groups**.
 
 2.  Click **New** or edit an existing record such as **Approvals action group**.
 
@@ -57,7 +57,3 @@ Action group provides quick access to action items such as approve or reject the
 
 Action group is configured to provide quick access to the actions. For example, approvals action group has a default set of actions **Approve** and **Reject** that you can use from the approval page.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[action-group-framework|Action framework]]

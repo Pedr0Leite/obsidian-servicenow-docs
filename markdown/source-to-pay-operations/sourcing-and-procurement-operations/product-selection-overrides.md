@@ -18,9 +18,9 @@ Certain scenarios such as excluded suppliers and shopping control restrictions c
 
 ## Excluded suppliers
 
-If a [[supplier|supplier]] is marked as excluded in the **Relationship status** field under the **Relationship Summary** tab on the Supplier form view, the information is displayed under the respective purchase requisitions and purchase orders.
+If a supplier is marked as excluded in the **Relationship status** field under the **Relationship Summary** tab on the Supplier form view, the information is displayed under the respective purchase requisitions and purchase orders.
 
-In your [[shopping-cart|shopping cart]], if you have any product from a excluded supplier, a message is displayed stating that the product has been removed and is no longer available for purchase. You can select the link in the message to view similar products from other suppliers, if they exist. An email with this information is also sent to your registered email. The visibility status of the removed product is updated to Supplier Excluded on the cart line.
+In your shopping cart, if you have any product from a excluded supplier, a message is displayed stating that the product has been removed and is no longer available for purchase. You can select the link in the message to view similar products from other suppliers, if they exist. An email with this information is also sent to your registered email. The visibility status of the removed product is updated to Supplier Excluded on the cart line.
 
 ## Shopping controls
 
@@ -30,7 +30,3 @@ In your shopping cart, if you have any such product that has restricted access, 
 
 **Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-cart.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-cart|Shopping cart]]

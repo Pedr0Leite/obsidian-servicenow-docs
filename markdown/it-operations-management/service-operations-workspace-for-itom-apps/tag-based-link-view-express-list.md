@@ -16,7 +16,7 @@ breadcrumb: [Viewing links between alerts in alert groups in Express List, Expre
 
 View the connections between alerts in a tag-based alert group in Express List by using Link View. Link View shows how the attributes of the alerts in the group are linked with each other.
 
-When you've set [[alert-tags|alert tags]] and [[c_EM|Event Management]] has generated an alert group based on tag-based rules, Link View offers a visual representation of the relationships between the alerts in the group. The colored tags in the view represent Configuration Items \(CIs\) and other environment items in relation to the alerts.
+When you've set alert tags and Event Management has generated an alert group based on tag-based rules, Link View offers a visual representation of the relationships between the alerts in the group. The colored tags in the view represent Configuration Items \(CIs\) and other environment items in relation to the alerts.
 
 \[Omitted image "el-link-view-tag-based.png"\] Alt text: Sample tag-based alert group in Link View.
 
@@ -35,7 +35,3 @@ The Link View legend lists the meaning of the symbols and colors used to represe
 
 [View links between alerts in a group in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-relationships-between-alerts-in-groups.md)
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[c_EM|Event Management]]

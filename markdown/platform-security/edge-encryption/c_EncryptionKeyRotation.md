@@ -14,7 +14,7 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Rotate encryption keys
 
-Perform [[encryption-landing|encryption]] key rotation from the instance. Add a new key, change the default key assignment, and then schedule a mass key rotation or a single key rotation.
+Perform encryption key rotation from the instance. Add a new key, change the default key assignment, and then schedule a mass key rotation or a single key rotation.
 
 Before setting an encryption key as the default key, make the key available to each proxy. This ensures that the proxies have the key to encrypt data when the key is assigned as the default key. All proxies must have access to a key before that key can be assigned as the default key.
 
@@ -42,7 +42,7 @@ Schedule a job to find data encrypted using a specified key alias and then re-en
 
 Role required: security\_admin
 
-Before scheduling this job, update the default key in **[[edge-encryption|Edge Encryption]] [[sc-configuration|Configuration]]** &gt; **Encryption Key Configuration** &gt; **Set Default Keys**.
+Before scheduling this job, update the default key in **Edge Encryption Configuration** &gt; **Encryption Key Configuration** &gt; **Set Default Keys**.
 
 ### Procedure
 
@@ -98,7 +98,7 @@ Process Historical Records
 
 Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. This field is read only and active.
 
- To learn more about audited fields, see [[c_AuditedTables|Auditing]].
+ To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AuditedTables.md).
 
 </td></tr><tr><td>
 
@@ -261,9 +261,4 @@ Role required: security\_admin
 
 5.  To run the job immediately, click **Execute Now**.
 
-## Related
 
-- [[c_AuditedTables|Auditing]]
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

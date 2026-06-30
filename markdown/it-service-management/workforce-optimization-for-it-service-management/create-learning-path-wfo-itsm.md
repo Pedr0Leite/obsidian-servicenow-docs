@@ -26,7 +26,7 @@ This video walks you through the steps for creating a learning path.
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|Coaching]] icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
+2.  Select the Coaching icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
 
 3.  Select the **Learning** tab.
 
@@ -85,6 +85,3 @@ This video walks you through the steps for creating a learning path.
 
 **Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-learning-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

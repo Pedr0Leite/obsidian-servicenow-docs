@@ -25,13 +25,13 @@ Role required: sn\_spend\_mgmt.sourcing\_category\_manager, sn\_spend\_mgmt.cate
 
 ## About this task
 
-Three agents create opportunity records: the Contract Optimization Opportunity Finder Agent, the [[supplier|Supplier]] Optimization Opportunity Finder Agent, and the Spend Optimization Opportunity Finder Agent. The **Learn more** action on an open opportunity card launches the Savings Opportunity Discovery use case, which routes to the correct agent based on the opportunity's lever.
+Three agents create opportunity records: the Contract Optimization Opportunity Finder Agent, the Supplier Optimization Opportunity Finder Agent, and the Spend Optimization Opportunity Finder Agent. The **Learn more** action on an open opportunity card launches the Savings Opportunity Discovery use case, which routes to the correct agent based on the opportunity's lever.
 
 While pipeline project creation is in progress, the opportunity status moves to **In progress** and the record is locked from changes by other users until the flow completes or is cancelled.
 
 ## Procedure
 
-1.  From the **Workspaces** tab, select **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  From the **Workspaces** tab, select **Source-to-Pay Workspace**.
 
 2.  Select the **Category management** tab.
 
@@ -55,7 +55,7 @@ While pipeline project creation is in progress, the opportunity status moves to 
 
 5.  Ask follow-up questions about the opportunity in the chat.
 
-    For example, ask `How were the savings calculated?` , `Show the related [[contracts|contracts]]` , or `List the pipeline projects linked to this opportunity` . The agent calls the results appear in the chat without ending the conversation .
+    For example, ask `How were the savings calculated?` , `Show the related contracts` , or `List the pipeline projects linked to this opportunity` . The agent calls the results appear in the chat without ending the conversation .
 
 6.  Select **Create pipeline project**.
 
@@ -108,8 +108,3 @@ The following fields on the draft pipeline project are prefilled from the opport
 
 **Parent Topic:**[Action or dismiss a savings opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/action-or-dismiss-savings-opportunity.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[contracts|Contracts]]

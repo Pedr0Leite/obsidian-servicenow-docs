@@ -14,7 +14,7 @@ breadcrumb: [Configuring Innovation Management, Innovation Management, Project P
 
 # Configure idea categories
 
-Map an idea category table with an Idea module to specify the category options listed on the Idea Portal and the [[create-an-idea-form|create an idea form]].
+Map an idea category table with an Idea module to specify the category options listed on the Idea Portal and the create an idea form.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Use your existing product or department table to define dynamic idea categories.
 
 **Parent Topic:**[Configuring Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/configuring-innovation-management.md)
 
-## Related
-
-- [[create-an-idea-form|Create an Idea form]]

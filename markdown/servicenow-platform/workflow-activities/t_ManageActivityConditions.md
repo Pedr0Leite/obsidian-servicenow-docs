@@ -26,7 +26,7 @@ For example, the **Approval - User** activity has two conditions, **Approved** a
 
 \[Omitted image "WFActivityConditions.png"\] Alt text:
 
-You can use a JavaScript condition check to create custom conditions on Core [[c_WorkflowActivities|workflow activities]]. Custom activities do not support this feature.
+You can use a JavaScript condition check to create custom conditions on Core workflow activities. Custom activities do not support this feature.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ Name
 
 </td><td>
 
-The [[label|label]] that is displayed on the workflow.
+The label that is displayed on the workflow.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,3 @@ The `result` value specified by an activity controls the condition through which
 
 Use the `result` value as part of the **Condition** field in the activity. For example, if the **Condition** field of an **Approval - User** activity contains `activity.result == 'rejected'`, the activity transitions through that condition when a rejection is received from the approver. Result values are set in the **Script** field of the activity definition.
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[label|Label]]

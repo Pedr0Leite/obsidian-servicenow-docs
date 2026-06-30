@@ -22,12 +22,10 @@ Role required: sn\_hr\_ws.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Playbook Experience** &gt; **[[activity-lxp|Activity]] Actions**.
+1.  Navigate to **All** &gt; **Playbook Experience** &gt; **Activity Actions**.
 
 2.  Enter or edit the form fields.
 
 3.  After editing or creating, click **Update** or **Submit**.
 
-## Related
 
-- [[activity-lxp|Activity]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the Console, navigate to **Assets &gt; [[variables|Variables]]**.
+1.  In the Console, navigate to **Assets &gt; Variables**.
 
 2.  Select the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:.
 
@@ -45,6 +45,3 @@ The new variable appears in the Variable list.
 
 **Note:** A Site can only be associated with a single Variable set, but a Variable set can contain many variables.
 
-## Related
-
-- [[variables|Variables]]

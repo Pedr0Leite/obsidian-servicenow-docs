@@ -18,9 +18,9 @@ Service Graph Connector properties control the behavior of connections.
 
 ## Connection properties
 
-These connection properties are available for the [[cmdb-integration-jamf|Service Graph Connector for Jamf]].
+These connection properties are available for the Service Graph Connector for Jamf.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Jamf** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Jamf** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_xtl_vjd_d2c"><thead><tr><th>
 
@@ -115,8 +115,3 @@ Set the property to `false` to use the Jamf Classic API instead of the Jamf Pro 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-jamf|Service Graph Connector for Jamf]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

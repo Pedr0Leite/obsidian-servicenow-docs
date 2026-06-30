@@ -35,7 +35,7 @@ The following restrictions apply to imported data:
 -   The imported `.xlsx` file must have a specified expiration date.
 -   If the owner deletes the table after import, reports based on the imported table are also deleted.
 
-**Note:** [[report-view-access-control|Report\_view access control]] lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md).
+**Note:** Report\_view access control lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md).
 
 ## About this task
 
@@ -43,7 +43,7 @@ Importing report data in this way is useful when you have information that is ma
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -86,7 +86,7 @@ Importing report data in this way is useful when you have information that is ma
 
 7.  Complete report creation as normal.
 
-    For information on specific [[report-types-creation-details-rd|report types]], see [Report types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateYourOwnReport.md).
+    For information on specific report types, see [Report types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateYourOwnReport.md).
 
 8.  Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
@@ -104,7 +104,7 @@ Importing report data in this way is useful when you have information that is ma
 
     3.  Copy the table name.
 
-    4.  Navigate to **All** &gt; **System Security** &gt; **[[access-control|Access Control]] \(ACL\)**.
+    4.  Navigate to **All** &gt; **System Security** &gt; **Access Control \(ACL\)**.
 
         The admin role with the elevated security\_admin role is required. If you're not an admin, consider passing the table name to a ServiceNow AI Platform administrator along with a request for the desired roles to have report\_view read permission.
 
@@ -124,9 +124,3 @@ You can edit imported Excel spreadsheets \(`.xlsx` files\) of data maintained ou
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[report-view-access-control|Report\_view access control]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[report-types-creation-details-rd|Report types]]
-- [[access-control|Access control]]

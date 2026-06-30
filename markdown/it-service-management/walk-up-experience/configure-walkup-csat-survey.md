@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience customer satisfaction surveys, Configu
 
 # Create or modify a Walk-up Experience customer satisfaction survey
 
-Improve your **[[walkup-experience-landing-page|Walk-up Experience]]** operations and customer service by using surveys and monitoring survey results. Walk-up surveys capture important information from users about the interaction experience provided to them at the venue.
+Improve your **Walk-up Experience** operations and customer service by using surveys and monitoring survey results. Walk-up surveys capture important information from users about the interaction experience provided to them at the venue.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Creating a new customer satisfaction survey requires that you first define a new
 
 **Parent Topic:**[Configure Walk-up Experience customer satisfaction surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-survey.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

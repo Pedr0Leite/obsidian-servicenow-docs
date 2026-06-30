@@ -18,7 +18,7 @@ The ServiceNow® Legal Investigations application enables Legal departments to a
 
 Complaints submitted to Legal, such as ethics complaints, can include bribery, financial fraud, insider trading, and other ethical violations. If employees suspect an incident of any of these violations, they can report it with specifics to the Legal department for legal investigations.
 
-Integrate Legal Investigations with ServiceNow® [[ur-landing-limitedaccess|Universal Request]] and [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] apps to provide a seamless experience for employees to submit complaints via your universal request and for legal counsels to work on them, transferring them between Legal and HR departments. For more information, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/lsd-investigations-hr-emp-relations.md).
+Integrate Legal Investigations with ServiceNow® Universal Request and HR Service Delivery Employee Relations apps to provide a seamless experience for employees to submit complaints via your universal request and for legal counsels to work on them, transferring them between Legal and HR departments. For more information, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/lsd-investigations-hr-emp-relations.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -42,7 +42,7 @@ Integrate Legal Investigations with ServiceNow® [[ur-landing-limitedaccess|Univ
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -55,9 +55,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

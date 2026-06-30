@@ -31,13 +31,13 @@ To access the agentic workflow:
 
 **Note:** The workflow can be accessed by the sn\_change\_write and itil role.
 
-To modify the create standard change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements. The create standard change request agentic workflow doesn’t have a trigger and is invoked manually.
+To modify the create standard change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements. The create standard change request agentic workflow doesn’t have a trigger and is invoked manually.
 
 **Important:** In the Edit trigger form, make sure that the **Active** button is turned on to enable the AI agent to trigger autonomously.
 
 ## AI agent used in the create standard change request agentic workflow
 
-You can access the standard change template recommender AI agent in the Define key requirements screen by scrolling to the Add AI agents that can perform these steps section. When a user asks for help in the Now Assist panel to [[t_CreateAChange|create a change request]] of type standard, the agent retrieves historical template data from previous change requests. By analyzing this data, it suggests suitable templates that closely match the user’s current scenario. Then, it generates links for users to create change records based on these suggested templates. If a user asks for help with creating a normal or emergency change request, then the agent generates a link directly to create a normal or emergency change request.
+You can access the standard change template recommender AI agent in the Define key requirements screen by scrolling to the Add AI agents that can perform these steps section. When a user asks for help in the Now Assist panel to create a change request of type standard, the agent retrieves historical template data from previous change requests. By analyzing this data, it suggests suitable templates that closely match the user’s current scenario. Then, it generates links for users to create change records based on these suggested templates. If a user asks for help with creating a normal or emergency change request, then the agent generates a link directly to create a normal or emergency change request.
 
 **Important:** In the Define availability screen for the AI agent, make sure that the **Status** field is enabled to activate the AI agent.
 
@@ -57,7 +57,4 @@ You can access the standard change template recommender AI agent in the Define k
 
     \[Omitted image "now-assist-create-change-nap.png"\] Alt text: Create standard change request agentic workflow output in the Now Assist panel.
 
-## Related
 
-- [[settings-mobile|Settings]]
-- [[t_CreateAChange|Create a change request]]

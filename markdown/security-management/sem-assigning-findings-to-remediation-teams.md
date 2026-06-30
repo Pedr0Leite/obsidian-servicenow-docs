@@ -13,9 +13,9 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 # Assigning findings to remediation teams using assignment rules
 
-Assignment rules automatically assign findings, such as vulnerable items, application [[vulnerabilities|vulnerabilities]], container vulnerabilities, and configuration test results, to the appropriate groups for remediation. This streamlined triage ensures that tasks are directed to the appropriate teams, and enhances consistency and visibility across security and compliance programs.
+Assignment rules automatically assign findings, such as vulnerable items, application vulnerabilities, container vulnerabilities, and configuration test results, to the appropriate groups for remediation. This streamlined triage ensures that tasks are directed to the appropriate teams, and enhances consistency and visibility across security and compliance programs.
 
-In the [[sem-workspace-user-interface|Security Exposure Management Workspace]], you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application vulnerabilities \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
+In the Security Exposure Management Workspace, you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application vulnerabilities \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
 
 Assignment rules apply when findings are:
 
@@ -110,20 +110,13 @@ If the assignment group of a remediation task is updated:
 |Container vulnerable Items \(CVITs\)|Only one matching rule applies. Rules ignore non-Open or manually assigned CVITs.|
 |Configuration Test Results \(CTRs\)|Uses similar logic. Default assignment rule is inactive. Terminology changes as of v14.9 \(for example, "Group Rules" → "Remediation Task Rules"\).|
 
--   **[[sem-unassigning-findings|Removing assignments from findings and remediation tasks]]**  
+-   **[Removing assignments from findings and remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-unassigning-findings.md)**  
 You can remove yourself or your group from the **Assigned to** and **Assignment group** fields on findings and remediation tasks if you believe they were incorrectly assigned.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-assignment-rules|Configuring assignment rules]]
+[Configuring assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-assignment-rules.md)
 
-## Related
-
-- [[sem-unassigning-findings|Removing assignments from findings and remediation tasks]]
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-assignment-rules|Configuring assignment rules]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

@@ -16,7 +16,7 @@ breadcrumb: [Dynatrace templates, Service Observability templates, Service Obser
 
 Dashboard and charts on the Dynatrace Observability tab of the Service Details page in the SOW.
 
-Dynatrace [[otto-aiops-dashboards|dashboards]] are the same for both managed and SaaS environments.
+Dynatrace dashboards are the same for both managed and SaaS environments.
 
 ## Application dashboard
 
@@ -207,6 +207,3 @@ These dashboards display metrics for databases related to the service.
 
 **Parent Topic:**[Dynatrace templates for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/dynatrace-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

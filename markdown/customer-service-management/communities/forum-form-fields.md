@@ -62,7 +62,7 @@ Parent
 
 </td><td>
 
-The parent forum, if required. This [[migration-lists|lists]] the forum as a sub forum of the parent forum.
+The parent forum, if required. This lists the forum as a sub forum of the parent forum.
 
 </td></tr><tr><td>
 
@@ -116,6 +116,3 @@ The knowledge base used for harvesting community discussions to knowledge articl
 
 [Create a sub forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-sub-forum.md)
 
-## Related
-
-- [[migration-lists|Lists]]

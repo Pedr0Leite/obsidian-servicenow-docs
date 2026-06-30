@@ -22,7 +22,7 @@ Role required: pf\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -83,6 +83,3 @@ From the feedback page:-   Select the existing filter card you prefer for compos
 -   [Associate feedback with a product idea](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-product-idea.md)
 -   [Associate a feedback or product idea with a planning item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-planning-item.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

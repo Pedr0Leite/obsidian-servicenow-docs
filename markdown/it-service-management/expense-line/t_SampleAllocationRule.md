@@ -40,7 +40,7 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 
 8.  Click **Submit**.
 
-    After an incident [[c_ExpenseLine|expense line]] is created, the allocation rule processes the expense line and generates an expense allocation linking the expense and amount to the caller's department. The expense is stored in the **Target** field on the Expense Allocation record.
+    After an incident expense line is created, the allocation rule processes the expense line and generates an expense allocation linking the expense and amount to the caller's department. The expense is stored in the **Target** field on the Expense Allocation record.
 
 
 **Parent Topic:**[Expense lines and expense allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/c_ExpenseLinesAndAllocations.md)
@@ -60,6 +60,3 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 
 [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_CostManagement.md)
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

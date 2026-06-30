@@ -14,9 +14,9 @@ breadcrumb: [SCIM Provider, System for Cross-domain Identity Management \(SCIM\)
 
 # Exploring SCIM Provider
 
-The Service Provider provisions [[users|users]] and groups using the SCIM API.
+The Service Provider provisions users and groups using the SCIM API.
 
-As a [[scim-provider|SCIM provider]], the ServiceNow schemas support SCIM APIs to provision users and groups.
+As a SCIM provider, the ServiceNow schemas support SCIM APIs to provision users and groups.
 
 The SCIM provider synchronizes the changes made to identities in the IdP, including creating, updating, or deleting records. These changes are automatically synchronized to the provider according to the SCIM protocol. Also, the IdP can read identities from the provider to add to the IdP directory. The IdP can then detect incorrect values in the provider that could create security vulnerabilities. The synchronization enables end users to have seamless access to applications for which they’re assigned, with up-to-date profiles and permissions.
 
@@ -24,7 +24,7 @@ The SCIM provider synchronizes the changes made to identities in the IdP, includ
 
 To configure the SCIM Provider, perform the following tasks:
 
--   Activate the **SCIM v2 - ServiceNow Cross-domain [[identity-landing|Identity]] Management** plugin. To learn more, see [Activating the SCIM plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/activate-scim-plugin.md).​
+-   Activate the **SCIM v2 - ServiceNow Cross-domain Identity Management** plugin. To learn more, see [Activating the SCIM plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/activate-scim-plugin.md).​
 -   Activate the other plugins that other plugins that are required for SCIM:
     -   [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SettingUpOAuth.md)
     -   REST API Provider
@@ -37,8 +37,3 @@ To configure the SCIM Provider, perform the following tasks:
 
 Two tables, sys\_user and sys\_group, contain the SCIM attributes that do not map to existing ServiceNow tables. To know more about the tables, see the [SCIM-specific tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scim-api.md).
 
-## Related
-
-- [[users|Users]]
-- [[scim-provider|SCIM Provider]]
-- [[identity-landing|Identity]]

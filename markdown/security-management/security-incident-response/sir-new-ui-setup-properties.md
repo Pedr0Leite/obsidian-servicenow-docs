@@ -22,8 +22,5 @@ To configure these properties, navigate to **Analyst Workspace Setup \(New UI\)*
 |--------|-------------|-----------|
 |sn\_app\_secops\_ui.poller\_interval.playbook\_tasks|10000 ms|The interval time used by the playbook component to refresh its response tasks for every configured interval time.|
 |sn\_app\_secops\_ui.poller\_interval\_count.playbook\_tasks|9 times|The number times playbook component polls for response tasks.|
-|sn\_app\_secops\_ui.poller\_interval.related\_list|30000 ms|This interval time is used by the [[threat-intelligence-security-center-overview|Explore]] component to refresh its Related List counts for every configured interval time.|
+|sn\_app\_secops\_ui.poller\_interval.related\_list|30000 ms|This interval time is used by the Explore component to refresh its Related List counts for every configured interval time.|
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]

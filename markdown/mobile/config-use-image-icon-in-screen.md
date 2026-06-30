@@ -12,7 +12,7 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Configure using an image icon in a screen
 
-Use [[mab-concept|Mobile App Builder]] to configure a screen in your mobile app to an image icon.
+Use Mobile App Builder to configure a screen in your mobile app to an image icon.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: admin
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Mobile app configs** category from the menu.
 
 4.  From the results table, select the mobile app where you want to use the image icon.
 
-5.  In the mobile app configuration, select the **[[sg-mobile-tab-bar|Navigation Bar]]** from the menu.
+5.  In the mobile app configuration, select the **Navigation Bar** from the menu.
 
 6.  Select the **Launcher tab** from the menu where you want to use the image icon.
 
@@ -44,8 +44,4 @@ Role required: admin
 
 10. Select **Save**.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-mobile-tab-bar|Navigation bar]]

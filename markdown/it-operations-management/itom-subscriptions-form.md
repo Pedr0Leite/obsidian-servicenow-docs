@@ -60,7 +60,7 @@ Allocated
 
 </td><td>
 
-Number of consumed subscription units from a bundle or application \(a la carte\). For bundles, this field shows the highest number of consumed subscription units by applications that are part of the bundle. For example, if [[itom-visibility-landing-page|ITOM Visibility]] consumed 300 subscription units and [[itom-health-landing-page|ITOM AIOps]] consumed 200 subscription units, this field shows 300 for the bundle covering these applications.
+Number of consumed subscription units from a bundle or application \(a la carte\). For bundles, this field shows the highest number of consumed subscription units by applications that are part of the bundle. For example, if ITOM Visibility consumed 300 subscription units and ITOM AIOps consumed 200 subscription units, this field shows 300 for the bundle covering these applications.
 
  The color code indicates the percentage of the subscription units that your organization consumed. By default, the color code threshold is 90%.
 
@@ -69,10 +69,5 @@ Number of consumed subscription units from a bundle or application \(a la carte\
 -   Red: Your organization has used 100% or more and exceeded the number of purchased subscriptions. Purchased subscriptions are overdrawn.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 
-## Related
-
-- [[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[itom-health-landing-page|ITOM AIOps]]

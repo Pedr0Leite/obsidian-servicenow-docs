@@ -12,9 +12,9 @@ breadcrumb: [Gauge visualizations, Create, Data visualizations, Platform Analyti
 
 # Usage Insights data options for gauge visualizations
 
-When you select a [[user-exp-analytics-landing|Usage Insights]] data source for a gauge visualization, the following Data configuration options are available.
+When you select a Usage Insights data source for a gauge visualization, the following Data configuration options are available.
 
-**Note:** If you add a [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
+**Note:** If you add a Platform Analytics data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
 
 <table id="table_wqy_sjr_qtb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [[create-dv-gauge-ac|Create a gauge data visualization in the Visualization Designer]].
+You have selected a Usage Insights data source in [Create a gauge data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-gauge-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -195,8 +195,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a gauge data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-gauge-ac.md)
 
-## Related
-
-- [[create-dv-gauge-ac|Create a gauge data visualization in the Visualization Designer]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

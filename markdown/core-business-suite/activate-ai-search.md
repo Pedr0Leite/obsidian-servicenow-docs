@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Activate AI Search
 
-Activate AI Search to enable conversational search capabilities in [[now-assist-cbs|Now Assist for Core Business Suite]].
+Activate AI Search to enable conversational search capabilities in Now Assist for Core Business Suite.
 
 ## Before you begin
 
@@ -35,9 +35,5 @@ Role required: admin
     For more information about the AI Search, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md).
 
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[now-assist-cbs|Now Assist for Core Business Suite]]

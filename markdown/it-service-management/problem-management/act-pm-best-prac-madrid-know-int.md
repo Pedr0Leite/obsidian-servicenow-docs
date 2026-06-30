@@ -14,7 +14,7 @@ breadcrumb: [Problem Management plugins, Configuring Problem Management, Problem
 
 # Activate Problem Management Best Practice — Madrid — Knowledge Integration
 
-Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — Knowledge Integration \(com.snc.best\_practice.problem.madrid.knowledge\) plugin if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+Activate the Problem Management Best Practice — Madrid — Knowledge Integration \(com.snc.best\_practice.problem.madrid.knowledge\) plugin if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The Problem Management Best Practice — Madrid – Knowledge Integration plugin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -52,7 +52,3 @@ Several types of components are installed with activation of the Problem Managem
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[dex-workspace-application-tab|Applications]]

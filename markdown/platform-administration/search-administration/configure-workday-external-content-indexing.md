@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure Workday for external content indexing
 
-Create and authorize an OAuth 2.0 API client in your Workday tenant to allow the [[workday-external-content-connector|Workday external content connector]] to access your Workday source system.
+Create and authorize an OAuth 2.0 API client in your Workday tenant to allow the Workday external content connector to access your Workday source system.
 
 ## Before you begin
 
@@ -119,6 +119,3 @@ For details on creating and configuring a Workday external content connector, se
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]

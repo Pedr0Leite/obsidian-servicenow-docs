@@ -10,7 +10,7 @@ reading_time_minutes: 4
 
 # Use non-self-served contract request
 
-Use [[cncore-cmpro-landing-page|Contract Management Pro]] to submit non self-served contract requests for review of contracts based on third-party templates.
+Use Contract Management Pro to submit non self-served contract requests for review of contracts based on third-party templates.
 
 ## Features
 
@@ -48,7 +48,7 @@ A workflow for non-self-served contract request might progress as follows:
         -   For external storage - Reviewers collaborate on the contract document revision online in real time. Once the review is complete, the fulfiller can finalize the contract document that is available online or create a new offline version with the changes.
 7.  The contract fulfiller uploads the revised contract to the contract request.
 8.  The contract fulfiller emails the revised contract document to third-party contacts.
-9.  The contract fulfiller views the responses from the third-party contacts in the [[activity-lxp|activity]] stream of the contract request.
+9.  The contract fulfiller views the responses from the third-party contacts in the activity stream of the contract request.
 
     Multiple iterations of revisions between your company and the third party might be necessary before the contract document is finalized by all parties. The review process may be conducted again with different reviewer groups.
 
@@ -76,7 +76,3 @@ As a contract fulfiller, reclassify the supporting documents submitted in the co
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[activity-lxp|Activity]]

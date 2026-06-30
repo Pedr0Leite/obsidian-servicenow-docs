@@ -12,7 +12,7 @@ breadcrumb: [VirusTotal integration, Threat Intelligence integrations, Threat In
 
 # Threat Lookup - VirusTotal workflow
 
-The Threat Lookup - VirusTotal workflow performs a lookup on selected [[c_Observables|observables]]. If the observables are of a type recognized by VirusTotal, the observables are scanned for [[threat-intelligence-malware|malware]], and the results are returned.
+The Threat Lookup - VirusTotal workflow performs a lookup on selected observables. If the observables are of a type recognized by VirusTotal, the observables are scanned for malware, and the results are returned.
 
 ## Before you begin
 
@@ -20,17 +20,9 @@ Role required: admin
 
 ## About this task
 
-This workflow is triggered by the [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]] when you perform a [[tisc-threat-lookup|threat lookup]] on one or more observables, and the VirusTotal implementation is selected. For more information, see [[perform-lookups-on-observables|Perform lookups on observables]].
+This workflow is triggered by the [Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md) when you perform a threat lookup on one or more observables, and the VirusTotal implementation is selected. For more information, see [Perform lookups on observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md).
 
 \[Omitted image "hreat-lookup-virustotal-wf.png"\] Alt text: Threat Lookup - VirusTotal workflow
 
-For information on the activities used by this workflow, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+For information on the activities used by this workflow, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-## Related
-
-- [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-threat-lookup|Threat Lookup]]

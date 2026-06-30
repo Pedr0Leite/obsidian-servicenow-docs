@@ -22,7 +22,7 @@ An independent identification rule identifies a CI based on the CI's attributes,
 
 A dependent identification rule identifies a CI by its dependent CIs and the relationships of the identified CI with those dependent CIs. Identification with a dependent identification rule is based on the dependent CIs and the relationships and qualifiers between the identified CI and its dependent CIs. Identification then requires more time than with an independent identification rule and is prone to some identification errors. Usage of dependent rules should therefore be minimized.
 
-CI modeling determines which type of [[c_IdentificationRules|identification rules]] are required for proper CI identification.
+CI modeling determines which type of identification rules are required for proper CI identification.
 
 Create identification rules using the following order of importance:
 
@@ -145,6 +145,3 @@ Create the payload using the following order of importance:
 
 [Create an identification inclusion rule]()
 
-## Related
-
-- [[c_IdentificationRules|Identification rules]]

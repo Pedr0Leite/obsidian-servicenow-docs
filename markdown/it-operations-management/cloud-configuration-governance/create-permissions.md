@@ -23,11 +23,11 @@ Assign a permission to refine the actions that are allowed or prohibited for use
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Governance** &gt; **Permission**.
+1.  Navigate to **All** &gt; **Cloud Admin Portal** &gt; **Governance** &gt; **Permission**.
 
 2.  Fill out the form fields \(see table\).
 
-    \[Omitted image "permission-form.png"\] Alt text: Read permissions on [[cloud-accounts|cloud accounts]]
+    \[Omitted image "permission-form.png"\] Alt text: Read permissions on cloud accounts
 
     |Field|Description|
     |-----|-----------|
@@ -42,7 +42,3 @@ Assign a permission to refine the actions that are allowed or prohibited for use
 
 **Parent Topic:**[Permissions management for Cloud Governance roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-permissions.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]

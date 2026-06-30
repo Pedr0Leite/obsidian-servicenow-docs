@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Renew an entitlement
 
-Renew an entitlement on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+Renew an entitlement on the CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Role required:
 
 5.  Select **Renew**.
 
-    The target entity is created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to renew the entitlement is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the entitlement is created. You can select the order number from the confirmation message to review the renewal order.
@@ -52,8 +52,3 @@ Role required:
 
 The new entitlement is created in the Draft state. You can see more details in the Renewal History related list.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-rules|Rules]]

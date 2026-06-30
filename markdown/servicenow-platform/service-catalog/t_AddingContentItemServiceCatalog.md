@@ -14,7 +14,7 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Define a content item
 
-A content item is a [[service-catalog|service catalog]] item that provides information instead of goods or services.
+A content item is a service catalog item that provides information instead of goods or services.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Content items can [[reference|reference]] knowledge articles, static blocks of text, or external web-based content.
+Content items can reference knowledge articles, static blocks of text, or external web-based content.
 
 To define content items:
 
@@ -57,7 +57,7 @@ Content type
 </td><td>
 
 The type of information to display when a user selects the item. -   **KB Article**: a ServiceNow knowledge article available to users with the specified roles.
--   **Catalog Content**: a static block of text, formatted with [[html|HTML]].
+-   **Catalog Content**: a static block of text, formatted with HTML.
 -   **External Content**: documents or web pages stored outside the base system instance.
 
 
@@ -117,8 +117,3 @@ If selected, the content item is not available on Service Portal.
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]
-- [[html|HTML]]

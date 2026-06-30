@@ -28,7 +28,7 @@ Role required: sn\_icw\_igt.standard\_author
 
 3.  On the Guided task tile, select **New standard**.
 
-4.  On the [[industrial-guided-task-standard-form|Industrial Guided Task Standard form]], fill in the fields.
+4.  On the Industrial Guided Task Standard form, fill in the fields.
 
     For a description of the field values, see [Industrial Guided Task standard form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-task-standard-form.md).
 
@@ -38,7 +38,7 @@ Role required: sn\_icw\_igt.standard\_author
 
 6.  Navigate to the **Task authoring tab**.
 
-7.  [[create-assessment-template-icw|Create an assessment template]] for your standard.
+7.  Create an assessment template for your standard.
 
     The Industrial Guided Tasks uses the Smart Assessment Engine for designing the templates for standards. To learn how to create an assessment template, see [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-populate.md).
 
@@ -67,7 +67,3 @@ Some settings configured in the Workspace have their limitations and don't apply
 
 **Parent Topic:**[Using Industrial Guided Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-guided-tasks.md)
 
-## Related
-
-- [[industrial-guided-task-standard-form|Industrial Guided Task standard form]]
-- [[create-assessment-template-icw|Create an assessment template]]

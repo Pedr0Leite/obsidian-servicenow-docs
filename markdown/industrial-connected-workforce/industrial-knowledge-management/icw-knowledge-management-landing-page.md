@@ -40,8 +40,5 @@ Industrial Knowledge Management helps you capture, organize, and share specializ
 -   **[Industrial Knowledge Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-mgmt-reference.md)**  
 Find additional information about Industrial Knowledge Management.
 
-**Parent Topic:**[[industrial-connected-workforce-overview|Industrial Connected Workforce]]
+**Parent Topic:**[Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-overview.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

@@ -14,7 +14,7 @@ breadcrumb: [Leader Hub, HR Service Delivery, Employee Service Management]
 
 # Using Leader Hub
 
-Use the [[td-lh-landing|Leader Hub]] app to access pertinent data about the talent in your organization so you can enhance employee engagement, adapt to changing circumstances, and make data-driven decisions that steer your organization toward success.
+Use the Leader Hub app to access pertinent data about the talent in your organization so you can enhance employee engagement, adapt to changing circumstances, and make data-driven decisions that steer your organization toward success.
 
 -   **[View north-star and drill-down metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-view-metrics.md)**  
 View the north-star and drill-down metrics that appear in the Growth engagement widget. Use this data to gauge the level of employee engagement with the growth tools provided in the Talent Development suite of applications.
@@ -31,6 +31,3 @@ Activate and use the Employee Summary Virtual Agent topic to access employee con
 
 **Parent Topic:**[Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-landing.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]

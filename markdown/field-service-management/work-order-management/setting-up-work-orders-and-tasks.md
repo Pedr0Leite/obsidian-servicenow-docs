@@ -16,7 +16,7 @@ breadcrumb: [Configure, Field Service Management]
 
 When work is required, create a work order to provide information for the Field Service agents to fulfill the request. Create work order tasks to break down the tasks required to complete the work order.
 
-You can use [[fsm-application-landing-page|Field Service Management]] and only set up work orders and work order tasks to [[t_StartWork|start work]]. Or you can set up additional configurations to automate some of the process around creating and managing work orders and work order tasks.
+You can use Field Service Management and only set up work orders and work order tasks to start work. Or you can set up additional configurations to automate some of the process around creating and managing work orders and work order tasks.
 
 ## Configuration overview
 
@@ -26,7 +26,7 @@ The steps for setting up work orders and tasks are:
 
     Configure Field Service Management to use a task-driven process, wherein each work order encapsulates a list of essential tasks. Upon the creation of a work order, a corresponding task record is instantly generated. Task-driven processing can provide structure and clarity for intricate projects.
 
-    Work orders in Field Service Management store information about requested work, including customer names and addresses, locations where work is to be performed, and any associated configuration items. Work orders can include one or more tasks that contain specific details about the work to be performed, such as required agent skills or [[c_PartRequirements|part requirements]]. Work orders are the driving force behind Field Service Management. They define what Field Service agents must do to complete their jobs.
+    Work orders in Field Service Management store information about requested work, including customer names and addresses, locations where work is to be performed, and any associated configuration items. Work orders can include one or more tasks that contain specific details about the work to be performed, such as required agent skills or part requirements. Work orders are the driving force behind Field Service Management. They define what Field Service agents must do to complete their jobs.
 
 2.  [Configuring work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configure-work-order-task.md)
 
@@ -38,11 +38,11 @@ The steps for setting up work orders and tasks are:
 
 4.  \(Optional\) [Configuring Planned Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configuring-planned-work-management.md)
 
-    Manage flexible work plans for any recurring activity that requires regular maintenance. For example, you can use [[planned-work-management|planned Work management]] to schedule maintenance, inspections, or audits. You can install the Planned Work Management application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.
+    Manage flexible work plans for any recurring activity that requires regular maintenance. For example, you can use planned Work management to schedule maintenance, inspections, or audits. You can install the Planned Work Management application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.
 
 5.  \(Optional\) [Configuring the auto-population of access hours in a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configuring-access-hours.md)
 
-    Define default access hours for a work order task based on customer preferences such as account, location, or asset, enables the auto-population of the access hours for the task. For example, you can set the access hours for a business to guarantee that work order tasks are only assigned to the location when it’s open. You can activate the [[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]] plugin \(com.snc.fsm\_access\_hours\) for Field Service Management if you have the admin role.
+    Define default access hours for a work order task based on customer preferences such as account, location, or asset, enables the auto-population of the access hours for the task. For example, you can set the access hours for a business to guarantee that work order tasks are only assigned to the location when it’s open. You can activate the Field Service Management Access Hours Management plugin \(com.snc.fsm\_access\_hours\) for Field Service Management if you have the admin role.
 
 6.  \(Optional\) [Activate linear assets support in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/activate-linear-assets.md)
 
@@ -76,10 +76,3 @@ Users with the wm\_agent role can work with operational records and perform acti
 
 To enforce strict separation between different departments or to separate sensitive data, domain separation is recommended. It ensures data isolation, domain-specific access controls, and controlled data sharing.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[t_StartWork|Start work]]
-- [[c_PartRequirements|Part requirements]]
-- [[planned-work-management|Planned Work Management]]
-- [[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]]

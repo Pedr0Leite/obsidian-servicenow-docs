@@ -29,16 +29,12 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 4.  Select the ADR case record that you want to see the details.
 
 
-**Parent Topic:**[[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]]
+**Parent Topic:**[Using alternative dispute resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/use-alternative-dispute-resolution-case.md)
 
 **Related topics**  
 
 
 [Create an Alternative Dispute Resolution case]()
 
-[[alternative-dispute-resolution|Alternative dispute resolution management]]
+[Alternative dispute resolution management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/alternative-dispute-resolution.md)
 
-## Related
-
-- [[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]]
-- [[alternative-dispute-resolution|Alternative dispute resolution management]]

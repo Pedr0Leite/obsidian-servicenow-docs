@@ -24,9 +24,9 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  To [[arcsight-esm-create-profile|create a profile]] that supports manual event forwarding, follow these steps.
+1.  To create a profile that supports manual event forwarding, follow these steps.
 
-    For events that you forward on-demand from your Splunk Enterprise Security console, you can base the individual field [[mapping-logrhythm|mapping]] on any existing profile. Alternatively, you can create a new mapping grid for exported attachment data. Events that you forward manually are not scheduled in the event profile.
+    For events that you forward on-demand from your Splunk Enterprise Security console, you can base the individual field mapping on any existing profile. Alternatively, you can create a new mapping grid for exported attachment data. Events that you forward manually are not scheduled in the event profile.
 
     1.  If not already selected, in the choice list for the Type field, select **Manual Event Forwarding**.
 
@@ -187,7 +187,4 @@ Text to help you distinguish this profile from other profiles.
 </td></tr></tbody>
 </table>        At the bottom of the form for selecting an existing mapping for your profile, select **Finish** to complete the profile configuration.
 
-## Related
 
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[mapping-logrhythm|Mapping]]

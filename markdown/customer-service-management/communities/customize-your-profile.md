@@ -34,7 +34,7 @@ You can only edit your community profile if you are logged in to the community.
 
 4.  In the field value pop-up window, select the desired value and click **Save**.
 
-    The following table includes a description of the fields on the [[gamification-ui-user-profile|User Profile page]].
+    The following table includes a description of the fields on the User Profile page.
 
 <table id="table_eq2_y1t_xz"><thead><tr><th>
 
@@ -136,6 +136,3 @@ Use this toggle button to enable accessibility features.
 </table>
 **Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 
-## Related
-
-- [[gamification-ui-user-profile|User profile page]]

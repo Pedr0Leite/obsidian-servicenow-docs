@@ -16,7 +16,7 @@ To maintain accurate result calculations, you may need to make minor adjustments
 
 **Note:** The assessment engine provides a built-in result calculation feature that converts each survey response to a score between 0 and 10. The configuration required to maintain accurate result calculations is advanced and is not recommended for basic survey implementations. If you do not plan to use result calculation data, ignore the information in this section.
 
-For each legacy question migrated, the system creates a survey question record on the Assessment Metric \[asmt\_metric\] table. For legacy questions of the **[[multiple-choice|Multiple Choice]]** and **[[select-box|Select Box]]** types, the system also creates a metric definition record, on the Assessment Metric Definition \[asmt\_metric\_definition\] table, for each legacy question choice.
+For each legacy question migrated, the system creates a survey question record on the Assessment Metric \[asmt\_metric\] table. For legacy questions of the **Multiple Choice** and **Select Box** types, the system also creates a metric definition record, on the Assessment Metric Definition \[asmt\_metric\_definition\] table, for each legacy question choice.
 
 |Survey question choice field|Related metric definition field|
 |----------------------------|-------------------------------|
@@ -26,7 +26,7 @@ For each legacy question migrated, the system creates a survey question record o
 
 When the system migrates legacy survey question choices, it uses the legacy **Order** to set each metric definition **Value**. For the legacy question choice with the smallest **Order**, the corresponding metric definition **Value** is set to **1**. For the legacy question choice with the next smallest **Order**, the metric definition **Value** is **2**, and so on.
 
-The **Scale definition** field on the migrated [[survey-question-form|Survey Question form]] determines whether smaller or bigger metric definition values equate to a good score in survey result calculations. By default, the scale definition is set to **High**, meaning bigger values are good. When you [[t_MigrateALegacySurvey|migrate a legacy survey]], check that the default scale definition makes sense for each question.
+The **Scale definition** field on the migrated Survey Question form determines whether smaller or bigger metric definition values equate to a good score in survey result calculations. By default, the scale definition is set to **High**, meaning bigger values are good. When you migrate a legacy survey, check that the default scale definition makes sense for each question.
 
 For example, the following tables depict a sample migrated question and the metric definitions automatically created for it. Recall that the system uses the order of the legacy survey question choices to set the metric definition value. **Excellent** has the lowest **Order** value, so when the system creates a metric definition for this question choice, the **Value** is set to **1**. In this case the default scale definition value, **High**, does not make sense, as the system will calculate the worst scores for responses of **Excellent**.
 
@@ -55,7 +55,7 @@ If there are no **Order** values for the legacy survey question choices, the sys
 
 You may also need to change the **Scale definition** setting for other migrated questions. For details, see the scale definition recommendations for each survey question data type.
 
-**Parent Topic:**[[c_MigrateSurveys|Legacy survey migration]]
+**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md)
 
 **Related topics**  
 
@@ -66,10 +66,3 @@ You may also need to change the **Scale definition** setting for other migrated 
 
 [Migrated components]()
 
-## Related
-
-- [[c_MigrateSurveys|Legacy survey migration]]
-- [[multiple-choice|Multiple choice]]
-- [[select-box|Select box]]
-- [[survey-question-form|Survey Question form]]
-- [[t_MigrateALegacySurvey|Migrate a legacy survey]]

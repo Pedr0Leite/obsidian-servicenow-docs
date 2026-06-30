@@ -16,17 +16,17 @@ breadcrumb: [PADomainUtils - Global, Domain separation, Configure advanced featu
 
 Use this method to move or copy only foundational records in a hybrid domain configuration.
 
-You can implement a hybrid approach by maintaining some types of record in a parent domain and some types in child domains. Generally, the parent domain contains foundational records and the child domain contains higher-level records, such as [[widgets|widgets]]. The following types of record are considered foundational records.
+You can implement a hybrid approach by maintaining some types of record in a parent domain and some types in child domains. Generally, the parent domain contains foundational records and the child domain contains higher-level records, such as widgets. The following types of record are considered foundational records.
 
 -   Bucket groups
 -   Buckets
 -   Scripts
--   [[breakdown-sources|Breakdown sources]]
--   [[c_IndicatorSources|Indicator sources]]
+-   Breakdown sources
+-   Indicator sources
 -   Filters
 -   Breakdowns
 -   Managed sources
--   [[manual-breakdowns|Manual breakdowns]]
+-   Manual breakdowns
 -   Breakdown mappings
 -   Breakdown relations
 
@@ -47,9 +47,3 @@ pa.copy('bb6b58b01f1310005a3637b8ec8b70dd');
 
 **Parent Topic:**[PADomainUtils - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADomainUtils.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[breakdown-sources|Breakdown sources]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[manual-breakdowns|Manual breakdowns]]

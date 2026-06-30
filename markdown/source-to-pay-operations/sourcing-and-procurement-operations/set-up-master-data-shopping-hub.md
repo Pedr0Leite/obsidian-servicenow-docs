@@ -14,20 +14,20 @@ breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply 
 
 # Setting up primary data for ShoppingHub
 
-Create primary data of your suppliers and office locations that your suppliers deliver to. Define your product catalog with data of your product categories, product models, and [[supplier|supplier]] products. Define shopping controls to control the supplier product visibility to your employees.
+Create primary data of your suppliers and office locations that your suppliers deliver to. Define your product catalog with data of your product categories, product models, and supplier products. Define shopping controls to control the supplier product visibility to your employees.
 
 -   **[Add a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md)**  
 Add suppliers and their products to populate your primary data.
 -   **[Add office locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-office-locations.md)**  
-Add all the office locations that your suppliers deliver to in your primary data. That way, your employees [[use-shoppinghub-portal|using Shopping Hub]] can select any of these pre-approved office locations for delivery while placing an order for a product.
+Add all the office locations that your suppliers deliver to in your primary data. That way, your employees using Shopping Hub can select any of these pre-approved office locations for delivery while placing an order for a product.
 -   **[Add delivery locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-delivery-locations.md)**  
 Add the address that can be selected by the user to have the product delivered. You can add multiple delivery locations.
 -   **[Setting up your product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)**  
-You can set up your product catalog by grouping the supplier products that you want to appear on the [[shopping-hub-overview|Shopping Hub]] portal into product categories and product models.
+You can set up your product catalog by grouping the supplier products that you want to appear on the Shopping Hub portal into product categories and product models.
 -   **[Lead time calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/lead-time-calculations.md)**  
-Lead time \(in days\) of a supplier product consist of the time for sourcing, supplier onboarding, purchasing, and shipping for a supplier product, product model, or a product category. Each of these durations are used to calculate the total lead time which determines the number of days to execute a [[purchase-order-table|purchase order]].
+Lead time \(in days\) of a supplier product consist of the time for sourcing, supplier onboarding, purchasing, and shipping for a supplier product, product model, or a product category. Each of these durations are used to calculate the total lead time which determines the number of days to execute a purchase order.
 -   **[Ledger assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ledger-assignment-rules.md)**  
-When a purchase line is created for a [[purchase-requisition|purchase requisition]] on the ShoppingHub portal, the details of capex account, expense account, and pre-paid account are auto-populated based on applicable [[ledger-assignment-rules|ledger assignment rules]].
+When a purchase line is created for a purchase requisition on the ShoppingHub portal, the details of capex account, expense account, and pre-paid account are auto-populated based on applicable ledger assignment rules.
 -   **[Create shopping controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-shopping-controls.md)**  
 Set conditions to control the visibility of supplier products for an employee or a department who visits the Shopping Hub portal. Shopping Hub administrators can manage access to products based on categories, suppliers, or any attribute related to a supplier product.​
 -   **[Configure delegate for a shopper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-delegate-for-a-shopper.md)**  
@@ -62,7 +62,7 @@ As a procurement administrator, you can create and modify purchase process steps
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
@@ -76,15 +76,5 @@ As a procurement administrator, you can create and modify purchase process steps
 
 [Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-[[my-purchases|My purchases on Shopping Hub]]
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[supplier|Supplier]]
-- [[use-shoppinghub-portal|Using Shopping Hub]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[ledger-assignment-rules|Ledger assignment rules]]
-- [[universal-request|Universal Request]]

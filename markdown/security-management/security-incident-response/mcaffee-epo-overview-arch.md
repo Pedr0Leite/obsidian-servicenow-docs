@@ -14,11 +14,11 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # McAfee ePO integration
 
-The McAfee ePO integration endpoint detection and response \(EDR\) capability that helps [[security-operations-landing-page|Security Operations]] Center \(SOC\) analysts identify cyberthreats and repair the damage caused by malicious files.
+The McAfee ePO integration endpoint detection and response \(EDR\) capability that helps Security Operations Center \(SOC\) analysts identify cyberthreats and repair the damage caused by malicious files.
 
 ## Overview of McAfee ePO integration
 
-There are two sets of McAfee ePO capabilities used in this integration, the capabilities that invoke actions, such as isolating a host and initiating a [[threat-intelligence-malware|malware]] scan, and the capabilities that run queries to gather system details and threat events. Both types of capabilities, the actions and the queries, are invoked from your ServiceNow AI Platform® instance. You can group these capabilities together so that they automatically run when a specific type of security event occurs, or, you can invoke them manually from a ServiceNow AI Platform® security incident.
+There are two sets of McAfee ePO capabilities used in this integration, the capabilities that invoke actions, such as isolating a host and initiating a malware scan, and the capabilities that run queries to gather system details and threat events. Both types of capabilities, the actions and the queries, are invoked from your ServiceNow AI Platform® instance. You can group these capabilities together so that they automatically run when a specific type of security event occurs, or, you can invoke them manually from a ServiceNow AI Platform® security incident.
 
 The following McAfee ePO capabilities are available for this integration.
 
@@ -44,8 +44,8 @@ The following McAfee ePO capabilities are available for this integration.
 This integration includes the following key features.
 
 -   Supports automated triggering of McAfee ePO queries that are based on incident conditions.
--   Supports launching McAfee ePO capabilities manually from ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents that perform on-demand actions.
--   The flexibility to create multiple profiles for triggering different types of McAfee ePO and ServiceNow AI Platform® Security Operations capabilities. These profiles gather [[threat-event|threat event]] information or perform actions based on the conditions of specific incident categories such as malware.
+-   Supports launching McAfee ePO capabilities manually from ServiceNow AI Platform® Security Incident Response \(SIR\) security incidents that perform on-demand actions.
+-   The flexibility to create multiple profiles for triggering different types of McAfee ePO and ServiceNow AI Platform® Security Operations capabilities. These profiles gather threat event information or perform actions based on the conditions of specific incident categories such as malware.
 -   Validate your profile configuration with a preview of the McAfee ePO results on SIR security incidents.
 -   If tagging is enabled, security tags identify which McAfee ePO capabilities are initially launched by a workflow and when the queries or actions are successfully completed.
 -   A complete audit trail of the McAfee ePO queries and actions is posted in the work notes on SIR security incidents, and commands from the ServiceNow AI Platform® are logged in the McAfee ePO console.
@@ -61,7 +61,7 @@ The following Security Operations applications must be installed and activated f
 2.  Security Support Common
 3.  Security Support Orchestration
 4.  Security Incident Response
-5.  [[sir-workspace-landing-page|Security Incident Response Workspace]]
+5.  Security Incident Response Workspace
 
 For more information on setting up your ServiceNow AI Platform instance for the integration, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-setup-now.md).
 
@@ -145,11 +145,11 @@ The following section lists the setup tasks that you’re required to complete i
 4.  [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md)  
 The following section lists the setup steps that you're required to complete in your McAfee ePO console before installing the application from the ServiceNow Store for the integration.
 5.  [Install the application and configure a server for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffe-epo-install.md)  
-Before you invoke the workflows for the integration, [[configure-cortex-xsiam-siem|install and configure]] the McAfee ePO application from the ServiceNow Store on your ServiceNow AI Platform instance. The configuration is required to connect to the McAfee ePO console.
+Before you invoke the workflows for the integration, install and configure the McAfee ePO application from the ServiceNow Store on your ServiceNow AI Platform instance. The configuration is required to connect to the McAfee ePO console.
 6.  [Edit security tags in the ServiceNow AI Platform for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-match-tags.md)  
 As part of the setup for the integration, edit the security tag names that you created in your McAfee ePO console in your ServiceNow AI Platform instance. Edit the tag names in your ServiceNow AI Platform instance so that they match the names of the tags in your McAfee ePO console.
 7.  [Create an approval group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-approval-group-mcafee.md)  
-[[create-approval-group-mcafee|Create an approval group]] for the McAfee ePO for Security Operations integration that can approve requests for isolating host machines, restoring them to the network.
+Create an approval group for the McAfee ePO for Security Operations integration that can approve requests for isolating host machines, restoring them to the network.
 8.  [McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)  
 As a user with the security incident administrator \(sn\_si.admin\) role, you create profiles for the McAfee ePO capabilities in your ServiceNow AI Platform® instance. You group queries or actions in profiles and determine which McAfee ePO capabilities you want to run when a new security incident is created.
 9.  [Trigger McAfee ePO profile manually from a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-submit-ih-fm-si.md)  
@@ -172,12 +172,3 @@ You may prefer to edit the names and colors of the start and complete tags for t
 
 [Integration architecture for McAfee ePO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-integration-architecture.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-event|Threat Event]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[create-approval-group-mcafee|Create an approval group]]

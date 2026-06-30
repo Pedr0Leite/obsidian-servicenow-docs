@@ -23,14 +23,10 @@ Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate 
 -   **[Close an enterprise asset repair task using the Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-repair-task-mobile-app-eam.md)**  
 Complete an assigned enterprise asset repair task and mark the task as closed using the Mobile Agent application.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
 **Related topics**  
 
 
-[Manage an [[enterprise-asset-management|Enterprise Asset Management]] task using the Mobile Agent application]()
+[Manage an Enterprise Asset Management task using the Mobile Agent application]()
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

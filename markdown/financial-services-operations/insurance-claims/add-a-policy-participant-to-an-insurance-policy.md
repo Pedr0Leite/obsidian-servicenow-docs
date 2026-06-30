@@ -14,11 +14,11 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Add a policy participant to an insurance policy
 
-Add a customer to an insurance policy as the insured entity by using the [[insurance-claims-flow|Insurance claims]] application.
+Add a customer to an insurance policy as the insured entity by using the Insurance claims application.
 
 ## Before you begin
 
-[[create-an-insurance-policy-for-a-consumer|Create an insurance policy]]. For more information, see [Create an insurance policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-for-a-consumer.md).
+Create an insurance policy. For more information, see [Create an insurance policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-for-a-consumer.md).
 
 Role required: admin
 
@@ -57,7 +57,3 @@ Add a related list to the insurance model's financial model view to see all the 
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[create-an-insurance-policy-for-a-consumer|Create an insurance policy]]

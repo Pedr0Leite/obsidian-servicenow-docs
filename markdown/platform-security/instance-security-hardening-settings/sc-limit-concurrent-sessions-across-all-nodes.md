@@ -14,7 +14,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Limit concurrent sessions across all nodes
 
-Use the **glide.authenticate.limit.concurrent.sessions.across.all.nodes** property with the [[limit-concurrent-sessions|Limit Concurrent Sessions]] plugin to manage the number of sessions tracked across all nodes.
+Use the **glide.authenticate.limit.concurrent.sessions.across.all.nodes** property with the Limit Concurrent Sessions plugin to manage the number of sessions tracked across all nodes.
 
 The **glide.authenticate.limit.concurrent.sessions.across.all.nodes** system property is meant to be used with the Limit Concurrent Sessions plugin \(com.glide.limit.concurrent.sessions\) plugin. When this plugin is installed and configured, the number of open sessions can be limited per user. When this property is set, the number of sessions will be tracked across all nodes instead of a single application nodes.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

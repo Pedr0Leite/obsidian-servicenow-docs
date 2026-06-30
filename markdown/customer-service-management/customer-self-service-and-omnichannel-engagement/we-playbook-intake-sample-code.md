@@ -49,7 +49,7 @@ var primaryURL = '/caseview'; // Replace with the URL of the case view page
 
  
 
-// Construct the URL for the [[case-view-web-component|Case View component]] with URL parameters 
+// Construct the URL for the Case View component with URL parameters 
 
 const caseViewURL = primaryURL + '?emb_table=' + table + '&emb_recordid=' + sysId + (playbook_experience_id === '98e09a560f2200102920c912d4767e1a' ? '' : '&emb_playbook_experience=' + playbook_experience_id); 
 
@@ -101,12 +101,7 @@ open(secondaryURL,'_self');
 
 [Embed the Playbook intake component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-playbook-intake-comp.md)
 
-[[we-playbook-intake-comp-prop|Component properties for the Playbook intake]]
+[Component properties for the Playbook intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-comp-prop.md)
 
-[[we-playbook-intake-event-handler|Event handler in the Playbook intake component]]
+[Event handler in the Playbook intake component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-event-handler.md)
 
-## Related
-
-- [[we-playbook-intake-comp-prop|Component properties for the Playbook intake]]
-- [[we-playbook-intake-event-handler|Event handler in the Playbook intake component]]
-- [[case-view-web-component|Case view component]]

@@ -28,7 +28,7 @@ An AI voice assistant enables natural, conversational voice interactions between
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Assistants** and select **Create assistant**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer** &gt; **Assistants** and select **Create assistant**.
 
 2.  Select **Voice-only** option in the Create an assistant window and select **Continue**.
 
@@ -199,7 +199,3 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
 Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/voice-agent-reference.md) for information on the tables containing transcript and logs.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]

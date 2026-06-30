@@ -14,7 +14,7 @@ breadcrumb: [Workflow validator, Workflow validation, Workflow management, Class
 
 # ValidateTransitionOut
 
-The **ValidateTransitionOut** validator finds [[conditions|activity conditions]] with no exit transitions.
+The **ValidateTransitionOut** validator finds activity conditions with no exit transitions.
 
 ## Validation summary
 
@@ -35,7 +35,7 @@ Design choices made when creating a workflow on the canvas might legitimately us
 
 \[Omitted image "ConditionOutValid.png"\] Alt text:
 
-In the second example, the **Notification** activity has no exit transition. The designer missed this because of the layout. The transition from the **Timer** activity passes behind the **Notification** activity and appears to [[c_Connect|connect]] the exit from the **Notification** activity to the **End**. In workflows with more than 10 or 15 activities, it might be difficult to see all the transitions clearly. This workflow's designer intended for the **Notification** activity to transition to the **End**.
+In the second example, the **Notification** activity has no exit transition. The designer missed this because of the layout. The transition from the **Timer** activity passes behind the **Notification** activity and appears to connect the exit from the **Notification** activity to the **End**. In workflows with more than 10 or 15 activities, it might be difficult to see all the transitions clearly. This workflow's designer intended for the **Notification** activity to transition to the **End**.
 
 \[Omitted image "ConditionOutInvalid.png"\] Alt text:
 
@@ -43,7 +43,3 @@ This validator directs the designer to the specific activity and condition that 
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[conditions|Activity conditions]]
-- [[c_Connect|Connect]]

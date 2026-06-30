@@ -12,7 +12,7 @@ breadcrumb: [Lists, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure list record count to load in the background
 
-[[configure-onboarding-modals|Configure]] [[lists-configurable-workspace|lists]] created from large tables to load the list record count in the background.
+Configure lists created from large tables to load the list record count in the background.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]

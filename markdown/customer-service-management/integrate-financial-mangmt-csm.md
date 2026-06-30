@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Financial Management, Integrate, Customer Service 
 
 # Integrate with Financial Management
 
-[[c_CustomerServiceManagement|Customer Service Management]] provides an integration with the ServiceNow® Financial Management application as well as dashboards and reports.
+Customer Service Management provides an integration with the ServiceNow® Financial Management application as well as dashboards and reports.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 3.  Click **Activate**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

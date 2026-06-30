@@ -26,12 +26,10 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  On the [[operational-toggle-level-form|Operational Toggle Level form]], fill in the fields.
+3.  On the Operational Toggle Level form, fill in the fields.
 
     For a description of the field values, see [Operational toggle level form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/operational-toggle-level-form.md).
 
 4.  Select **Submit**.
 
-## Related
 
-- [[operational-toggle-level-form|Operational toggle level form]]

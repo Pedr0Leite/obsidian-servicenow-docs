@@ -14,7 +14,7 @@ breadcrumb: [Integrating with ESM Framework, Use generative AI skills, Now Assis
 
 # Now Assist for HRSD Virtual Agent topics
 
-Use the Now Assist Virtual Agent topics in [[employee-center-landing-page|Employee Center]] to place requests to the configured HCM system, for example, view details of your time-off balance.
+Use the Now Assist Virtual Agent topics in Employee Center to place requests to the configured HCM system, for example, view details of your time-off balance.
 
 ## Get time off balance
 
@@ -108,6 +108,3 @@ You can update personal details in Virtual Agent using one of the following topi
 
 **Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/integ-now-assist-hrsd.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

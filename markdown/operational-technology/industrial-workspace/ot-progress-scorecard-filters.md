@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Operational Technology Progress Scorecard filters
 
-You can use the filters on the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard to specify the data that you want to see on your scorecard by site, business unit \(BU\), or date.
+You can use the filters on the Operational Technology \(OT\) Progress Scorecard to specify the data that you want to see on your scorecard by site, business unit \(BU\), or date.
 
 ## Scorecard filter overview
 
@@ -57,6 +57,3 @@ Use the business unit \(BU\) and site filters on the Operational Technology \(OT
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

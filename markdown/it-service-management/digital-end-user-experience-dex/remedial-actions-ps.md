@@ -14,7 +14,7 @@ breadcrumb: [DEX remedial actions, Configure, Digital End-User Experience, IT Se
 
 # Creating and executing a PowerShell script-based remedial action
 
-A custom [[remedial-action|remedial action]] can be created using a PowerShell script packaged in an Agent Client Collector \(ACC\) plugin and executed on endpoint [[dex-workspace-devices-tab|devices]] through a check definition.
+A custom remedial action can be created using a PowerShell script packaged in an Agent Client Collector \(ACC\) plugin and executed on endpoint devices through a check definition.
 
 The ACC plugin contains the PowerShell script that defines the remedial action using commands and a Ruby script that calls the PowerShell script from the ServiceNow instance. When the signed ACC plugin is uploaded to a ServiceNow instance, the ACC agent downloads the plugin and executes the remedial action through a check definition you create.
 
@@ -33,12 +33,7 @@ Create a self-signed certificate for an Agent Client Collector \(ACC\) plugin an
 -   **[Create a check definition for a custom remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-check-def-remedial-actions.md)**  
 Create a check definition and link it to the Agent Client Collector \(ACC\) plugin to enable the ACC agent to run a custom remedial action.
 -   **[Test a check definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/test-check-def.md)**  
-[[test-check-def|Test a check definition]] on an endpoint device to verify that the Agent Client Collector \(ACC\) plugin is linked and the custom remedial action defined in the Powershell script runs successfully.
+Test a check definition on an endpoint device to verify that the Agent Client Collector \(ACC\) plugin is linked and the custom remedial action defined in the Powershell script runs successfully.
 
 **Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-remedial-actions.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[test-check-def|Test a check definition]]

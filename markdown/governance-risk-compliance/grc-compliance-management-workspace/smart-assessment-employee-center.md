@@ -14,7 +14,7 @@ breadcrumb: [Control assessment through attestation, Create control objective, M
 
 # Respond to attestations from the Employee Center
 
-Respond to your attestations by logging in to the [[employee-center|Employee Center]].
+Respond to your attestations by logging in to the Employee Center.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ As an attestation respondent of a control you can log in to the Employee Center 
 
 3.  Select the new task in My to-dos section.
 
-    You can view the attestations on the left panel. The Control Attestations [[list-view-uib-ws|list view]] displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
+    You can view the attestations on the left panel. The Control Attestations list view displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
 
 4.  Select the assessment instance link in the My pending tasks related list.
 
@@ -48,7 +48,4 @@ As an attestation respondent of a control you can log in to the Employee Center 
 
     All the questions are read only now that you have submitted the response.
 
-## Related
 
-- [[employee-center|employee center]]
-- [[list-view-uib-ws|List view]]

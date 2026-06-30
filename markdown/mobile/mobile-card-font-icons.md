@@ -14,7 +14,7 @@ breadcrumb: [Mobile icon reference, Mobile icons, Mobile styles, Mobile app comp
 
 Use mobile card font icons in the body of mobile cards. Mobile card font icons are in the **now-mobile-icons-cards** font family.
 
-**Important:** These icons are available in the font element icon picker of [[mobile-card-builder|Mobile Card Builder]]. They don't need to be created as individual records in [[mab-concept|Mobile App Builder]] before you can select them in Mobile Card Builder.
+**Important:** These icons are available in the font element icon picker of Mobile Card Builder. They don't need to be created as individual records in Mobile App Builder before you can select them in Mobile Card Builder.
 
 ## Usage examples
 
@@ -100,10 +100,5 @@ Use mobile card font icons in the body of mobile cards. Mobile card font icons a
 |Calendar-Days-Outline|e93d|Australia|\[Omitted image "mab-icon-card-cal-days.png"\] Alt text: Calendar-Days-Outline example| |
 |Clipboard-Lines-Outline|e93e|Australia|\[Omitted image "mab-icon-card-clip-lines.png"\] Alt text: Clipboard-Lines-Outline example| |
 
-**Parent Topic:**[[mobile-icon-reference|Mobile icon reference]]
+**Parent Topic:**[Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md)
 
-## Related
-
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-concept|Mobile App Builder]]

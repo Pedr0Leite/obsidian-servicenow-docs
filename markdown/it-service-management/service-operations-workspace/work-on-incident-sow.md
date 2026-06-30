@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d76162e80">
 
-**[[t_CreateAChange|Create a change request]]**
+**Create a change request**
 
 </td><td>
 
@@ -46,7 +46,7 @@ Select **Create change request**. See [Create a change request in Service Operat
 
 </td></tr><tr><td id="d76162e99">
 
-**[[create-incident-task|Create an incident task]]**
+**Create an incident task**
 
 </td><td>
 
@@ -62,7 +62,7 @@ From the drop-down next to **Create outage**, select **Create outage**.
 
 </td></tr><tr><td id="d76162e129">
 
-**[[create-a-problem-v2|Create a problem]]**
+**Create a problem**
 
 </td><td>
 
@@ -286,8 +286,3 @@ From the contextual side panel, select the **Response template** icon \(\[Omitte
 
 [Incident Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]
-- [[create-incident-task|Create an incident task]]
-- [[create-a-problem-v2|Create a problem]]

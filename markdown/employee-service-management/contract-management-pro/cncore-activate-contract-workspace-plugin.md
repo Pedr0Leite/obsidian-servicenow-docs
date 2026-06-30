@@ -14,7 +14,7 @@ breadcrumb: [Configure Contract Workspace, Configure additional features in CM P
 
 # Activate Contract Workspace
 
-You can activate the [[cncore-contract-workspace|Contract Workspace]] plugin \(sn\_cm\_workspace\) for [[cncore-cmpro-landing-page|Contract Management Pro]] if you have the admin role.
+You can activate the Contract Workspace plugin \(sn\_cm\_workspace\) for Contract Management Pro if you have the admin role.
 
 ## Before you begin
 
@@ -42,7 +42,4 @@ For more information, see [Components installed with Contract Workspace](https:/
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

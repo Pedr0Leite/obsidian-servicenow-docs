@@ -14,7 +14,7 @@ breadcrumb: [Style rules definition, Change schedules, Configure, Change Managem
 
 # Define style rules from Change Schedules View
 
-You can create style rules from the [[change-schedules-view|change schedules view]] when you want the style rules to be applied to the specific change schedule where it is defined.
+You can create style rules from the change schedules view when you want the style rules to be applied to the specific change schedule where it is defined.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_wr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **Schedule** &gt; **[[change-schedule|Change Schedules]]**.
+1.  Navigate to **All** &gt; **Change** &gt; **Schedule** &gt; **Change Schedules**.
 
 2.  Click a tile to view the Change Schedule page.
 
@@ -48,7 +48,3 @@ Role required: sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_wr
 
 [Define style rules from Change Schedule Definitions]()
 
-## Related
-
-- [[change-schedules-view|Change schedules view]]
-- [[change-schedule|Change schedules]]

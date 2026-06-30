@@ -14,7 +14,7 @@ breadcrumb: [AI Search in ITSM Mobile Agent, Exploring ITSM Mobile Agent, ITSM M
 
 # Get started with AI search in new or zBoot instances
 
-Enable intelligent query features that help agents to quickly find the required answers in [[itsm-mobile-agent|ITSM Mobile Agent]] in new or restarted instances.
+Enable intelligent query features that help agents to quickly find the required answers in ITSM Mobile Agent in new or restarted instances.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ AI search is enabled by default in the base system for new and restarted instanc
 
     3.  Click **Publish**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

@@ -55,7 +55,7 @@ Account
 The name of the account associated with this contract.**Note:**
 
 -   A customer contract can be associated with either an account or a consumer.
--   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [[customer-service-account-form|Account form]].
+-   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Consumer
 
 </td><td>
 
-The name of the consumer associated with this contract.**Note:** If no consumer record is found, you can create a consumer and add it to the customer contract. For more information, see [[create-a-consumer-record|Create a consumer record]].
+The name of the consumer associated with this contract.**Note:** If no consumer record is found, you can create a consumer and add it to the customer contract. For more information, see [Create a consumer record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-consumer-record.md).
 
 </td></tr><tr><td>
 
@@ -280,8 +280,3 @@ Represents the total price of the contract line by calculating the roll-up amoun
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customer-service-account-form|Account form]]
-- [[create-a-consumer-record|Create a consumer record]]

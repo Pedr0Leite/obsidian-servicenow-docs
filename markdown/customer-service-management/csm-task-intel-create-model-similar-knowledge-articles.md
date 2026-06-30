@@ -12,11 +12,11 @@ breadcrumb: [Configure, Task Intelligence for Customer Service, Machine learning
 
 # Create a model to predict similar knowledge articles
 
-Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a machine learning model that recommends relevant knowledge articles based on the context of open incidents. The model analyzes existing data to display relevant articles when working on a current case, helping agents find useful information faster. The plugin includes a ready-to-train model for predicting similar articles and also enables you to create custom models tailored to your data.
+Use the Task Intelligence for CSM to create and train a machine learning model that recommends relevant knowledge articles based on the context of open incidents. The model analyzes existing data to display relevant articles when working on a current case, helping agents find useful information faster. The plugin includes a ready-to-train model for predicting similar articles and also enables you to create custom models tailored to your data.
 
 ## Before you begin
 
--   Ensure that the [[csm-task-intelligence|Task Intelligence for Customer Service]] plugin is installed.
+-   Ensure that the Task Intelligence for Customer Service plugin is installed.
 -   Ensure that your instance contains sufficient case and knowledge data \(minimum 10,000 recommended\) for meaningful training.
 -   Role required: ml\_admin, ti\_admin
 
@@ -26,7 +26,7 @@ Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a mac
 
 1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup**.
 
-    The [[csm-task-intel-admin-center|Task Intelligence Admin Console]] displays.
+    The Task Intelligence Admin Console displays.
 
 2.  On the Similar Knowledge Articles card, select **Ready to train**.
 
@@ -91,11 +91,6 @@ Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a mac
 
     **Result**
 
-    Once deployed, similar knowledge articles appear in the [[configure-nba|Recommended Actions]] section under the Suggested Actions tab when an agent opens a case, helping them resolve cases faster.
+    Once deployed, similar knowledge articles appear in the Recommended Actions section under the Suggested Actions tab when an agent opens a case, helping them resolve cases faster.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[configure-nba|Recommended Actions]]

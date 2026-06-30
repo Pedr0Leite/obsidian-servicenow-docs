@@ -16,7 +16,7 @@ Walk-up Experience managers and technicians can efficiently manage all aspects o
 
 Walk-up Experience provides technicians with inclusive fulfiller resources to organize and manage a walk-up queue.
 
-As a Technician you can access [[csm-workspaces-configure|CSM Configurable Workspace]] to manage a walk-up interaction. Using CSM Configurable Workspace you can:
+As a Technician you can access CSM Configurable Workspace to manage a walk-up interaction. Using CSM Configurable Workspace you can:
 
 -   Access a personal inbox to view work assigned from multiple service channels, including the Walk-up Service Channel.
 -   Get assignments automatically pushed to your inbox from the walk-up interaction queue.
@@ -25,7 +25,7 @@ As a Technician you can access [[csm-workspaces-configure|CSM Configurable Works
 -   Work with any requester in the queue at any time by pulling from anywhere in the queue list, as well as from the top of the list.
 -   Create cases for interactions
 -   Manually pick an interaction specific to a requestor
--   Use [[migration-agent-assist|Agent Assist]] to expedite fulfillment.
+-   Use Agent Assist to expedite fulfillment.
 
 As a technician you can typically fulfill interactions on a first-come-first-served basis as interactions are pushed to individual walk-up inbox. Interactions are distributed to the walk-up agent inbox based on assignment rule configurations in the Advanced Work Assignment feature.
 
@@ -106,8 +106,3 @@ View all upcoming appointments scheduled for your walk-up queue.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-agent-assist|Agent assist]]

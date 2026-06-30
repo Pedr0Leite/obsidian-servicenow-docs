@@ -14,7 +14,7 @@ breadcrumb: [Design and assign your network services, Explore, Telecommunication
 
 # Logical connections
 
-[[telecommunications-circuit-design-resource-assignment|Design and assign]] a logical connection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By using the [[using-playbooks-design-assign-inventory-record|Design and Assign function]], you can fulfill the logical connection design request of a customer.
+Design and assign a logical connection in the Telecommunications Network Inventory application. By using the Design and Assign function, you can fulfill the logical connection design request of a customer.
 
 The Design and Assign function provides the activities and tasks that an agent can perform to create a logical connection. Depending on the design request, the agent can design a logical connection and assign the related network inventories to that connection.
 
@@ -83,7 +83,7 @@ Activity cards display the details about the current activity in the activity vi
 
 </td><td>
 
-[[using-network-diagram|Network diagram]]
+Network diagram
 
 </td><td>
 
@@ -113,7 +113,7 @@ To learn more about the steps to design and assign a logical connection, see [Cr
 
 You can access the Design and Assign function for a logical connection in the Telecommunications Network Inventory Workspace as follows:
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 2.  Select the design and assign icon \(\[Omitted image "icon-design-assign.png"\] Alt text: Design and Assign Icon.\) to open the Design request overview window.
 3.  Select **New** &gt; **Create Logical Connection** or select any change request from the list.
 
@@ -124,10 +124,3 @@ You can access the Design and Assign function for a logical connection in the Te
 
 [Telecommunications Network Inventory subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subflow.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[using-network-diagram|Network diagram]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

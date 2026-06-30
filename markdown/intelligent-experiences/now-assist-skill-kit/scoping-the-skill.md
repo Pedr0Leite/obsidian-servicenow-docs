@@ -18,7 +18,7 @@ Scoping the skill before you build it helps determine the requirements needed fo
 
 ## Before you begin
 
-Before you start to build a custom skill with [[now-assist-skill-kit-landing|Now Assist Skill Kit]], you should first review the base system skills that are available in the [[platform-now-assist-landing|Now Assist]] Admin console. Use these pre-existing skills whenever possible.
+Before you start to build a custom skill with Now Assist Skill Kit, you should first review the base system skills that are available in the Now Assist Admin console. Use these pre-existing skills whenever possible.
 
 ## User prerequisites
 
@@ -29,7 +29,7 @@ Now Assist Skill Kit is meant to be used by a developer or someone with experien
     -   Having informed expectations about the behavior and capabilities of a prompted large language model \(LLM\). You should understand:
         -   The fundamentally probabilistic nature of LLMs.
         -   That performance can vary greatly across different LLMs and different target tasks.
-    -   Having experience or training with writing and evaluating [[ai-prompts|prompts]] for LLMs.
+    -   Having experience or training with writing and evaluating prompts for LLMs.
 2.  Have an in-depth understanding of the use case that they’re trying to solve and the persona that they’re building the skill for.
 
 ## Design
@@ -45,8 +45,3 @@ Before you begin building a custom skill, you must think about the overall desig
     -   It’s useful to think about the possible risks and downsides of using generative AI outputs so that you can try to guard against them during development and testing.
     -   It’s worth listing any specific model behaviors \(LLM outputs\) that would be detrimental or harmful in your specific use case.
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]

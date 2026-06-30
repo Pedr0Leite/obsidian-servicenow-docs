@@ -14,14 +14,14 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Install Agent Client Collector on a Linux system
 
-Install [[acc-landing-page|Agent Client Collector]] using a package distribution tool. Before installing, you can manually install the Agent Client Collector on a few machines to ensure that your agents contain the correct policies and checks before installing a large number of agents.
+Install Agent Client Collector using a package distribution tool. Before installing, you can manually install the Agent Client Collector on a few machines to ensure that your agents contain the correct policies and checks before installing a large number of agents.
 
 ## Before you begin
 
 -   Ensure that the Agent Client Collector Listener is configured on your MID Servers, and the service is available from your target hosts.
 -   Verify that your server's OS and version is supported. For a list of supported OS's and versions, see [Agent Client Collector installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-installation.md).
 -   Verify whether there are restrictions or requirements to be aware of during deployment, such as specifying an account other than the default servicenow account. For more information about embedding the agent into your own automated system, see [ITOM Agent Client Collector documentation material \[KB1122613\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1122613).
--   Ensure that the MID Server and its [[mid-web-server|MID Web Server]] and ACC Websocket Endpoint extensions are up and running.
+-   Ensure that the MID Server and its MID Web Server and ACC Websocket Endpoint extensions are up and running.
 -   Enable golden image mode for cloning additional agents by setting the golden image marker located at `/tmp/acc-goldenimage`. The golden image marker takes no action during new Linux installations, as there is nothing which requires cleaning.
 -   Retrieve the MID Server ACC Listener information to be specified in the agent's **backend-url** parameter.
     1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Deployment** &gt; **MID Servers**.
@@ -39,7 +39,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-During Linux installation \(and upgrade\), the agent executable file is enabled with Linux capabilities \(CAP\_SETFCAP, CAP\_SETPCAP\) by default. Store apps such as [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) can use this to grant capabilities to read the entire file system \(CAP\_DAC\_READ\_SEARCH\). The system undergoes various security measures, such as double verification of the content origination, leveraging the plugin verification process and more, to ensure that granting capabilities does not pose a security risk. This procedure assumes that you are familiar with commands for Linux capabilities.
+During Linux installation \(and upgrade\), the agent executable file is enabled with Linux capabilities \(CAP\_SETFCAP, CAP\_SETPCAP\) by default. Store apps such as Agent Client Collector Log Analytics \(ACC-L\) can use this to grant capabilities to read the entire file system \(CAP\_DAC\_READ\_SEARCH\). The system undergoes various security measures, such as double verification of the content origination, leveraging the plugin verification process and more, to ensure that granting capabilities does not pose a security risk. This procedure assumes that you are familiar with commands for Linux capabilities.
 
 To opt out of these enhanced capabilities, run the following commands, based on your Linux OS/packaging system:
 
@@ -170,7 +170,7 @@ SLES
     -   Debian-based system: `# dpkg -i agent-client-collector-<version number>-<distro>_amd64.deb`
     Verify that the package commands are configured correctly with your system administrator.
 
-    **Note:** Some file systems may have restrictions enabled; for example, `/var/` may be mounted with a **noexec** flag. Because the agent must execute [[acc-assets|Agent Client Collector plugins]] that are normally stored in the `/var/cache` directory, you must deploy the application into specific folders by customizing the installation paths using the **--relocate** option as an `.rpm` parameter.
+    **Note:** Some file systems may have restrictions enabled; for example, `/var/` may be mounted with a **noexec** flag. Because the agent must execute Agent Client Collector plugins that are normally stored in the `/var/cache` directory, you must deploy the application into specific folders by customizing the installation paths using the **--relocate** option as an `.rpm` parameter.
 
     For example: `rpm -i --relocate /var/cache=/opt/cache agent-client-collector-<version_number>-x86_64.rpm`
 
@@ -319,9 +319,3 @@ SLES
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[acc-assets|Agent Client Collector plugins]]

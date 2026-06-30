@@ -18,15 +18,15 @@ Use the stack plan to get a visual overview of the spaces in a building grouped 
 
 ## Before you begin
 
-To use the stack plan, verify that the [[workplace-space-mgmt-ovw|Workplace Space Management]] installed.
+To use the stack plan, verify that the Workplace Space Management installed.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  On the side navigation, select the **[[space-planning|Space Planning]]** module.
+2.  On the side navigation, select the **Space Planning** module.
 
     The Space Planning workspace opens with the **Floor plan** tab selected by default.
 
@@ -50,8 +50,3 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 **Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]

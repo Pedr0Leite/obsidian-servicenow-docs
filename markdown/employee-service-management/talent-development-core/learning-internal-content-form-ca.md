@@ -14,7 +14,7 @@ breadcrumb: [Career Assessment reference, Career Assessment, Growth Experiences,
 
 # Learning internal content form
 
-Use the [[learning-internal-content-form-exp|Learning internal content form]] to add exams as content items within a [[exploring-learning-exp|learning]] path from [[exam-engine|Career Assessment]].
+Use the Learning internal content form to add exams as content items within a learning path from Career Assessment.
 
 <table id="table_gcc_fth_x4b"><thead><tr><th>
 
@@ -194,9 +194,3 @@ Number of days until the content is valid.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[learning-internal-content-form-exp|Learning internal content form]]
-- [[exploring-learning-exp|Learning]]
-- [[exam-engine|Career Assessment]]

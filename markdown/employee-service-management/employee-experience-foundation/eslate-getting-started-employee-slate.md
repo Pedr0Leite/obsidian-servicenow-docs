@@ -15,7 +15,7 @@ breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Em
 
 # Get started with Employee Slate
 
-Set up [[employee-slate-landing-page|Employee Slate]] by verifying prerequisites, installing plugins, configuring branding, connecting the conversational assistant, and publishing your first announcement.
+Set up Employee Slate by verifying prerequisites, installing plugins, configuring branding, connecting the conversational assistant, and publishing your first announcement.
 
 ## Before you begin
 
@@ -29,8 +29,8 @@ Employee Slate supports two deployment paths — one with Moveworks and one with
 
 1.  Install one of the following sets of plugins from store.
 
-    -   For Moveworks deployment path, install [[employee-slate-moveworks|Employee Slate for Moveworks]] and [[employee-slate-advanced|Employee Slate Advanced]].
-    -   For Now Assist deployment path, install [[employee-slate-nowassist|Employee Slate for Now Assist]] and Employee Slate Advanced.
+    -   For Moveworks deployment path, install Employee Slate for Moveworks and Employee Slate Advanced.
+    -   For Now Assist deployment path, install Employee Slate for Now Assist and Employee Slate Advanced.
     **Note:** Employee Slate Advanced is an add-on application and requires either Employee Slate for Moveworks or Employee Slate for Now Assist to be separately downloaded.
 
 2.  [Configure branding and theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-config-admin-console.md).
@@ -39,11 +39,11 @@ Employee Slate supports two deployment paths — one with Moveworks and one with
 
 3.  [Configure tasks and requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-slate-tasks-requests.md).
 
-4.  [Configure the home page for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-home-page.md) to set the default home page layout and [Configure the default canvas dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-canvas.md) to set the [[eslate-personalized-canvas|personalized canvas]].
+4.  [Configure the home page for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-home-page.md) to set the default home page layout and [Configure the default canvas dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-canvas.md) to set the personalized canvas.
 
 5.  [Search sources for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-add-search-sources.md).
 
-6.  Configure the org chart and [[emp-slate-employee-profile|employee profile]].
+6.  Configure the org chart and employee profile.
 
     -   Set the eligible users and the card fields in [Configure the organization chart for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-org-chart.md).
     -   Set the field groups and the editable fields in [Configure the employee profile for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-employee-profile.md).
@@ -78,11 +78,3 @@ https://<instance-name>.service-now.com/aiux/employeeslate/home
 
 You can go to [Employee Slate home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-slate-home-page.md).
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[eslate-personalized-canvas|Personalized canvas]]
-- [[emp-slate-employee-profile|Employee profile]]

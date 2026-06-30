@@ -40,7 +40,7 @@ Short Name
 
 </td><td>
 
-Short description that identifies the response template when using chat in [[legal-counsel-center-landing|Legal Counsel Center]].Use the short name with a quick command \(/\) to show the text from the template body of the response template while in chat. This feature provides a fast and consistent way to populate text while in chat.
+Short description that identifies the response template when using chat in Legal Counsel Center.Use the short name with a quick command \(/\) to show the text from the template body of the response template while in chat. This feature provides a fast and consistent way to populate text while in chat.
 
  For example, the short name `gm` identifies the chat response template for a Good Morning greeting. Enter **/gm** in a chat window to show the text from this response template.
 
@@ -50,7 +50,7 @@ Table
 
 </td><td>
 
-Name of the table that the response template is associated with.**Note:** If you’re creating a response template for Legal Counsel Center chat, you must select the Interaction \[interaction\] table. For other response templates, you must select a table from the [[legal-management-overview|Legal Service Delivery]] apps.
+Name of the table that the response template is associated with.**Note:** If you’re creating a response template for Legal Counsel Center chat, you must select the Interaction \[interaction\] table. For other response templates, you must select a table from the Legal Service Delivery apps.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Template body
 
 </td><td>
 
-Text of the response template that provides instructions to the legal fulfillers on how to respond to an assigned legal request or legal matter.You can [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field values by selecting variables from the **Variables** list based on the table you select.
+Text of the response template that provides instructions to the legal fulfillers on how to respond to an assigned legal request or legal matter.You can reference field values by selecting variables from the **Variables** list based on the table you select.
 
  Place the cursor where you want the custom variable reference to appear, then click **Insert Current User** to insert the current user variable \(`${current_user}`\) or **Insert Current Date** to insert the current date variable \(`${Date}`\).
 
@@ -99,8 +99,3 @@ Fields from the selected table that you can include in the template body as vari
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

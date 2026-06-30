@@ -32,8 +32,8 @@ Use the Firewall Management Task Creation agentic workflow to request new firewa
 
 ### Before you begin
 
--   Install and configure the [[firewall-audit-reporting|Firewall Audits and Reporting]] application.
--   Install the AI Agents for [[r-discovery|Discovery]] plugin. This plugin is part of the AI Agent Bundle and requires a separate subscription.
+-   Install and configure the Firewall Audits and Reporting application.
+-   Install the AI Agents for Discovery plugin. This plugin is part of the AI Agent Bundle and requires a separate subscription.
 -   Discover the Panorama firewall managers and devices, and verify that Discovery has populated the Panorama Firewall Address Objects table.
 
 Role required: firewall\_admin
@@ -67,7 +67,7 @@ For information about how the workflow evaluates risk and determines whether to 
 
 ## Approve firewall rule requests
 
-Review AI-generated [[firewall-requests|firewall rule requests]], evaluate risk analysis, and approve or reject requests with device group assignment.
+Review AI-generated firewall rule requests, evaluate risk analysis, and approve or reject requests with device group assignment.
 
 ### Before you begin
 
@@ -142,8 +142,3 @@ The rule is created and committed on the Panorama server for the specified devic
 
 **Note:** Create saves the rule on the Panorama server without applying it to devices. Commit applies the rule to all relevant devices. The automation performs both actions in a single API call.
 
-## Related
-
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[r-discovery|Discovery]]
-- [[firewall-requests|Firewall rule requests]]

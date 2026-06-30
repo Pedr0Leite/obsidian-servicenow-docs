@@ -14,9 +14,9 @@ breadcrumb: [Security hardening, Security configuration console, Security Center
 
 # All settings
 
-Review all of your instance [[security-hardening-settings|hardening settings]] available from a single page.
+Review all of your instance hardening settings available from a single page.
 
-The **All Settings** page displays information about all instance hardening settings. Use the buttons in the upper right to refresh, filter, and [[export|export]] this information.\\
+The **All Settings** page displays information about all instance hardening settings. Use the buttons in the upper right to refresh, filter, and export this information.\\
 
 \[Omitted image "all-settings.png"\] Alt text: all settings in hardening
 
@@ -52,15 +52,9 @@ The following information about hardening settings can be found on the list.
 To learn how to configure a property hardening setting see [Increase hardening compliance score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/increase-hardening-comp-score.md).
 
 -   **[Hardening settings details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/hardening-settings-overview.md)**  
-Analyze the details of a hardening setting by selecting its link within the [[sec-center-v2|Security Center]] app.
+Analyze the details of a hardening setting by selecting its link within the Security Center app.
 -   **[Filter hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/ssc-working-list.md)**  
-Simplify your hardening review process using filters. These filters can create a working list of hardening settings for review, which restored for later use and shared with other [[users|users]].
+Simplify your hardening review process using filters. These filters can create a working list of hardening settings for review, which restored for later use and shared with other users.
 
 **Parent Topic:**[Security hardening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-hardening.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[export|Export]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]

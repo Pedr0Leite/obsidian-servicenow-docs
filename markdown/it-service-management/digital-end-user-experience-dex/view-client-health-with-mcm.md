@@ -14,7 +14,7 @@ breadcrumb: [MCM monitoring overview, Monitor, Digital End-User Experience, IT S
 
 # View client health with MCM
 
-View client health metrics with the Microsoft Configuration Manager \(MCM\) application. The metrics include MCM metrics by device count, MCM versions installed on user [[dex-workspace-devices-tab|devices]], and device count where MCM action hasn't run in the last 24 hours.
+View client health metrics with the Microsoft Configuration Manager \(MCM\) application. The metrics include MCM metrics by device count, MCM versions installed on user devices, and device count where MCM action hasn't run in the last 24 hours.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-application-tab|Applications]] icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
+2.  In the primary navigation pane, select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
 
 3.  Select **Microsoft Configuration Manager \(MCM\)**.
 
@@ -43,7 +43,4 @@ Role required: admin
 
     For more information, see [Installed application — Client health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installed-application-client-health-page.md).
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

@@ -29,7 +29,7 @@ Workspace users with the following roles can access the Cloud file configuration
 
 If you're the Workspace administrator with the sn\_grc\_workspace.admin role, you can update the following fields in the Cloud file configuration module to configure the permissions as shown in the example.
 
-\[Omitted image "cloud-file-config-file-access-permission.png"\] Alt text: [[file-access-permissions|File access permissions]].
+\[Omitted image "cloud-file-config-file-access-permission.png"\] Alt text: File access permissions.
 
 -   Name: Name of the document access record. For example, Engagement document access.
 -   Table: Table that is used for the document access record. For example, Engagement \[sn\_audit\_engagement\].
@@ -37,6 +37,3 @@ If you're the Workspace administrator with the sn\_grc\_workspace.admin role, yo
 -   Provider: Provider for the document access record. The default option for this field is Microsoft OneDrive.
 -   Cloud action condition: Filter conditions for the cloud files. Based on the configured conditions, the action buttons are rendered in the Cloud files related list.
 
-## Related
-
-- [[file-access-permissions|File access permissions]]

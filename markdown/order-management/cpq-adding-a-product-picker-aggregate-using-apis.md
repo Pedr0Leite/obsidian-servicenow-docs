@@ -64,11 +64,7 @@ In the UI, refresh the page to see the added aggregate.
 **Related topics**  
 
 
-[[product-picker-aggregates|Product picker aggregates]]
+[Product picker aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-picker-aggregates.md)
 
-[[product_picker_overview|Product pickers]]
+[Product pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product_picker_overview.md)
 
-## Related
-
-- [[product-picker-aggregates|Product picker aggregates]]
-- [[product_picker_overview|Product pickers]]

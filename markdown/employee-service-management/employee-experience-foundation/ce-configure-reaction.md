@@ -14,7 +14,7 @@ breadcrumb: [Content engagement, Setup employee communications, Configuring Empl
 
 # Configure a custom reaction
 
-[[ec-content-engagement|Content engagement]] utilizes font awesome icons to provide several out-of-the-box reactions for employees to interact with [[ec-news-articles|news articles]]. Engagement admins can customize the out-of-the-box reactions or configure their own.
+Content engagement utilizes font awesome icons to provide several out-of-the-box reactions for employees to interact with news articles. Engagement admins can customize the out-of-the-box reactions or configure their own.
 
 ## Before you begin
 
@@ -111,7 +111,4 @@ Makes the reaction available for users \(enabled by default\)
 
     The reaction is now available for use in the portal.
 
-## Related
 
-- [[ec-content-engagement|Content engagement]]
-- [[ec-news-articles|News articles]]

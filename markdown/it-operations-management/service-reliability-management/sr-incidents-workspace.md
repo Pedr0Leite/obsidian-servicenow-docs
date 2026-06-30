@@ -16,7 +16,7 @@ breadcrumb: [Exploring Service Reliability Management, Service Reliability Manag
 
 Track and collaborate on incidents in the Incidents tab, helping you and your teams resolve issues efficiently.
 
-The Incidents tab appears in the [[sr-landing-page|Service Reliability Management]] \(SRM\) Reliability tasks page. Its top header shows description information, tags, priority information, state, service, and assignment group.
+The Incidents tab appears in the Service Reliability Management \(SRM\) Reliability tasks page. Its top header shows description information, tags, priority information, state, service, and assignment group.
 
 **Note:** Tags are imported from third-party integrations and attached to incidents. However, you can also create tags to categorize data and drive system logic using the Tag icon \[Omitted image "icon-sr-tag.png"\] Alt text: Tag icon. For more information on creating and viewing tags, see [Manually create SRM tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-tags.md).
 
@@ -374,6 +374,3 @@ Start or join a Slack channel:
 
 **Parent Topic:**[Exploring Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/exploring-service-reliability-management.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

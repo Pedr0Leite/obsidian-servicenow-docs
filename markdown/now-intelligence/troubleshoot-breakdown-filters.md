@@ -12,7 +12,7 @@ breadcrumb: [Edit filters on dashboards, Filters, Platform Analytics experience,
 
 # Troubleshoot breakdown filters
 
-In [[par-workspace|Platform Analytics experience]], it's not possible to do extend the functionality of a migrated breakdown filter that doesn't have an associated indicator.
+In Platform Analytics experience, it's not possible to do extend the functionality of a migrated breakdown filter that doesn't have an associated indicator.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ This task describes how to address the error `This option is not available for t
 
 You can edit the **Data to filter** section of the filter configuration.
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]

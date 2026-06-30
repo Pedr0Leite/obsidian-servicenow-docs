@@ -14,7 +14,7 @@ breadcrumb: [Explore, Recruitment Workspace, Hiring Experiences, HR Service Deli
 
 # List view in Recruitment workspace
 
-The List view in the [[recruitment-workspace-concept|Recruitment workspace]] displays all assigned job requisitions, interviews, tasks, and their key details.
+The List view in the Recruitment workspace displays all assigned job requisitions, interviews, tasks, and their key details.
 
 Using the list categories and filters, you can quickly find the required job requisition, interview, or task that you must work on.
 
@@ -36,6 +36,3 @@ The Lists view enables you to manage your Recruitment workspace and all your own
 
 Any list that you create appear in the My Lists section. Lists in this section are only visible to you.
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

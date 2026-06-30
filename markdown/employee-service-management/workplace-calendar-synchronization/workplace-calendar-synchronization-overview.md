@@ -14,7 +14,7 @@ breadcrumb: [Workplace Calendar Synchronization, Workplace Service Delivery, Emp
 
 # Explore Workplace Calendar Synchronization
 
-Enhance your workplace reservation experience. Synchronize your reservations with your calendar provider by using the ServiceNow® [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application. Enable your employees to make reservations with ServiceNow® [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] or with your organization's calendar service providers, such as Microsoft Exchange Online.
+Enhance your workplace reservation experience. Synchronize your reservations with your calendar provider by using the ServiceNow® Workplace Calendar Synchronization application. Enable your employees to make reservations with ServiceNow® Workplace Reservation Management or with your organization's calendar service providers, such as Microsoft Exchange Online.
 
 The Workplace Calendar Synchronization application synchronizes reservation-related information based on the configuration made on the requested workplace room. When you synchronize with a calendar provider, the reservations are directly added to the calendars of your employees.
 
@@ -55,7 +55,7 @@ You can create a connection with your calendar service by using the following co
 
 As an employee, you can do the following:
 
--   [[reservation-portal|Make a reservation]] for a workplace item in both the Workplace Reservation Management application and synchronize it with your calendar service.
+-   Make a reservation for a workplace item in both the Workplace Reservation Management application and synchronize it with your calendar service.
 -   Update a reservation or cancel a reservation using the calendar provider or the Workplace Reservation Management application. View the reservation details, add attendees, change location or more.
 
     **Warning:** Reservations that are created using calendar providers cannot be edited in the Workplace Reservation Management application
@@ -79,8 +79,3 @@ When you synchronize your calendar provider and Workplace Reservation Management
 
 **Parent Topic:**[Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/workplace-calendar-sync-feat.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]

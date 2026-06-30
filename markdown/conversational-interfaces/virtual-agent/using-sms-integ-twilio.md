@@ -16,13 +16,13 @@ breadcrumb: [Conversational SMS Integration with Twilio, Integrate VA with messa
 
 Enable a requester to converse with an agent using SMS conversations with Twilio.
 
-An administrator can configure [[sms-twilio-store-app|Conversational SMS Integration with Twilio]] with a ServiceNow application.
+An administrator can configure Conversational SMS Integration with Twilio with a ServiceNow application.
 
-A requester can initiate SMS conversations with a [[virtual-agent-landing-page|virtual agent]] or a live agent.
+A requester can initiate SMS conversations with a virtual agent or a live agent.
 
 A live agent can:
 
--   Accept SMS conversations as [[awa-work-items|work items]] from their Agent Workspace Inbox to converse with a requester.
+-   Accept SMS conversations as work items from their Agent Workspace Inbox to converse with a requester.
 -   Initiate SMS chat conversations from interactions of type Chat from their Agent Workspace Inbox to converse with a requester.
 -   For logged in customers, the system automatically identifies the customer by matching their phone number against the customer contact.
 
@@ -40,13 +40,7 @@ As a live agent interacting with a requester over the SMS service channel, you c
 
 ## Initiating SMS conversations
 
-As a live agent, you can initiate an SMS conversation with a requester when the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] application is configured for the SMS messaging channel. By default, the application is configured for agent to initiate SMS conversations with consumers and customer contacts. For more information, see Initiate messaging conversations from the CSM Configurable Workspace and Initiate SMS conversations from CSM Agent Workspace.
+As a live agent, you can initiate an SMS conversation with a requester when the Agent-Initiated Messaging Interface application is configured for the SMS messaging channel. By default, the application is configured for agent to initiate SMS conversations with consumers and customer contacts. For more information, see Initiate messaging conversations from the CSM Configurable Workspace and Initiate SMS conversations from CSM Agent Workspace.
 
 **Parent Topic:**[Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sms-twilio-store-app.md)
 
-## Related
-
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-work-items|Work items]]
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

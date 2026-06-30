@@ -41,7 +41,7 @@ Child templates are only applied if the parent template is applied from a module
 7.  Refresh the application navigator to view the new module.
 
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -60,6 +60,3 @@ Child templates are only applied if the parent template is applied from a module
 
 [Scripted templates]()
 
-## Related
-
-- [[c_Templates|Using form templates]]

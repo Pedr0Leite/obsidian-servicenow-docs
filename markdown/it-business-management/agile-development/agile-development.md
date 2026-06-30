@@ -20,13 +20,13 @@ When you have multiple standalone tools for development, testing, and project tr
 
 ## Variants of ServiceNow® Agile Development
 
--   **Agile Development under [[c_ProjectApplicationOverview|Project Management]]**
+-   **Agile Development under Project Management**
 
     See [Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md) for project-based agile development.
 
 -   **Agile Development 1.0**
 
-    **Important:** The Agile Development 1.0 plugin \(com.snc.sdlc.scrum.pp\) is no longer available for activation. Activate the [[agile-landing-page|Agile Development 2.0]] plugin \(com.snc.sdlc.agile.2.0\) for enhanced agile capabilities to manage your software development efforts.
+    **Important:** The Agile Development 1.0 plugin \(com.snc.sdlc.scrum.pp\) is no longer available for activation. Activate the Agile Development 2.0 plugin \(com.snc.sdlc.agile.2.0\) for enhanced agile capabilities to manage your software development efforts.
 
 -   **Agile Development 2.0**
 
@@ -137,7 +137,7 @@ VTB \(Visual Task Board\) is used.
 The Sprint Tracking tab on the Agile board is used.
 
 </td></tr></tbody>
-</table>## Integration with Digital [[c_PortfolioManagement|Portfolio Management]]
+</table>## Integration with Digital Portfolio Management
 
 Digital Portfolio Management \(DPM\) provides a unified workspace for owners to view and collectively manage their services and applications through the full life cycle. By integrating DPM with Agile Development 2.0, DPM Managers can view Agile Development 2.0 data such as epics, stories, sprints, and releases in the context of the selected business application.
 
@@ -150,14 +150,7 @@ Plan and track the work of multiple teams that work together, either toward a co
 -   **[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)**  
 Improve your Agile processes and practices using preconfigured dashboards with data visualizations from the Platform Analytics Content Pack for Agile 2.0.
 -   **[Work Progress Status for Agile Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/work-progress-status-for-agile-teams.md)**  
-The [[work-progress-status-for-agile-teams|Work Progress Status for Agile Teams]] application provides you with indicators such as estimated completion date and progress status \(green, yellow, red\) for all your Agile Development 2.0 epics.
+The Work Progress Status for Agile Teams application provides you with indicators such as estimated completion date and progress status \(green, yellow, red\) for all your Agile Development 2.0 epics.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[work-progress-status-for-agile-teams|Work Progress Status for Agile Teams]]

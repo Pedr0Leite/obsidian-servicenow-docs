@@ -150,7 +150,7 @@ Option to activate the connection.
 
     Create a single provider or multiple providers for on-premises. If you want to create
 
-    1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configurations** &gt; **Calendar Providers**.
+    1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configurations** &gt; **Calendar Providers**.
 
     2.  Select **New**.
 
@@ -266,7 +266,7 @@ Strict mode
 
 </td><td>
 
-Select the option to enable strict mode.If you enable this option, events are not directly created in the employee's calendar, instead, they are sent to a general email address. Employees are invited to the event. They can only make changes using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+Select the option to enable strict mode.If you enable this option, events are not directly created in the employee's calendar, instead, they are sent to a general email address. Employees are invited to the event. They can only make changes using the Workplace Reservation Management application.
 
 </td></tr><tr><td>
 
@@ -294,7 +294,3 @@ Select the option to synchronize all the past reservations from the specified **
 
 Multiple connections and providers are created.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

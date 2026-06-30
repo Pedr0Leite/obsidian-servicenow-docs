@@ -16,9 +16,9 @@ Hyperjump shows you a configuration as a graphic diagram.
 
 In a configurable product, you can access Hyperjump, which gives you a graphical view of the configuration.
 
-\[Omitted image "cpq-hyperjump.png"\] Alt text: [[configurable-products-explore|Configurable products]] screen
+\[Omitted image "cpq-hyperjump.png"\] Alt text: Configurable products screen
 
-The Hyperjump view enables you to expand individual [[rules_101|rules]].
+The Hyperjump view enables you to expand individual rules.
 
 \[Omitted image "cpq-hyperjump-rules.png"\] Alt text: Individual rules
 
@@ -32,7 +32,3 @@ The following video demonstrates the Hyperjump feature for managing configuratio
 
 [Logik.io Hyperjump Demo: Visually Manage Configuration Data](https://www.youtube.com/watch?v=ULypwlR_qpE)
 
-## Related
-
-- [[configurable-products-explore|Configurable products]]
-- [[rules_101|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Defining fiscal calendars, Use, Time configuration, Configure core 
 
 # View, modify, and validate fiscal periods - Legacy
 
-After you [[t_GenerateFiscalCalendar|generate a fiscal calendar]], you can view fiscal period records, modify the start and end date, deactivate a fiscal period if necessary, and validate.
+After you generate a fiscal calendar, you can view fiscal period records, modify the start and end date, deactivate a fiscal period if necessary, and validate.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: fiscal\_calendar\_user
 
 **Parent Topic:**[Defining fiscal calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_FiscalCalendar.md)
 
-## Related
-
-- [[t_GenerateFiscalCalendar|Generate a fiscal calendar]]

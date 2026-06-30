@@ -17,7 +17,7 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 You can handle work tasks, find information, and get things done faster with the Moveworks AI assistant. Chat naturally to update records, search company content, get answers, and complete requests without switching between different systems.
 
-When your organization uses Moveworks with [[employee-slate-landing-page|Employee Slate]], you get AI-powered help for everyday work tasks. You can start any request from the same chat bar and complete everything in one place, without jumping between different tools or systems.
+When your organization uses Moveworks with Employee Slate, you get AI-powered help for everyday work tasks. You can start any request from the same chat bar and complete everything in one place, without jumping between different tools or systems.
 
 ## AI assistant reasoning engine
 
@@ -88,8 +88,8 @@ To review, act, find more content or information, you can open the chat panel in
 You can work with:
 
 -   **Catalog forms**: Request forms that you can fill out and submit right in the panel.
--   **Knowledge articles**: Company policies and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] documents that open in full.
--   **[[emp-slate-inbox|Tasks and requests]]**: Your active work items, like approvals or support tickets.
+-   **Knowledge articles**: Company policies and reference documents that open in full.
+-   **Tasks and requests**: Your active work items, like approvals or support tickets.
 -   **Canvas pages**: Personalized dashboard views with your widgets.
 
 Here's how it works to submit a request:
@@ -104,7 +104,7 @@ To review a policy or document, you can see what's covered, what's approved, and
 
 ## Moveworks notifications
 
-You can see and respond to Moveworks notifications in your [[emp-slate-notifications|Employee Slate notifications]] tray. When you get an alert, you can:
+You can see and respond to Moveworks notifications in your Employee Slate notifications tray. When you get an alert, you can:
 
 -   Ask follow-up questions about the notification in the AI assistant.
 -   Take direct action, like approving a request, right from the notification.
@@ -141,9 +141,3 @@ For a full-list of features, see [Employee Slate capabilities](https://raw.githu
 
 [Employee Slate capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-capabilities-common.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-slate-notifications|Employee Slate notifications]]

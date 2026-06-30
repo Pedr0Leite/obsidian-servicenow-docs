@@ -34,8 +34,8 @@ In the **Shifts** tab, the shifts are grouped by active and inactive shifts. The
 
 4.  Click the plus \(+\) icon.
 
-    -   To [[create-work-shift-wfo-hr|create a work shift]], see [Create a work shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-work-shift-wfo-hr.md).
-    -   To [[create-on-call-shift-wfo-hr|create an On-call shift]], see [Create an on-call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-on-call-shift-wfo-hr.md).
+    -   To create a work shift, see [Create a work shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-work-shift-wfo-hr.md).
+    -   To create an On-call shift, see [Create an on-call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-on-call-shift-wfo-hr.md).
 
 -   **[Create a work shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-work-shift-wfo-hr.md)**  
 Create a work shift.
@@ -44,7 +44,3 @@ Create on-call shift.
 
 **Parent Topic:**[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 
-## Related
-
-- [[create-work-shift-wfo-hr|Create a work shift]]
-- [[create-on-call-shift-wfo-hr|Create an on-call shift]]

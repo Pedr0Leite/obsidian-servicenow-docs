@@ -14,14 +14,14 @@ breadcrumb: [Okta integration for new hire onboarding, Lifecyle events for enter
 
 # Set up the Okta integration for new hire onboarding
 
-To set up the Okta integration for new hire onboarding, you must first set up the Okta spoke v1.1.1, next fetch the Okta groups into your instance, and last configure the required [[business-roles|business roles]].
+To set up the Okta integration for new hire onboarding, you must first set up the Okta spoke v1.1.1, next fetch the Okta groups into your instance, and last configure the required business roles.
 
 ## Before you begin
 
 This integration requires subscriptions to the following:
 
 -   [Okta spoke v1.1.1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/okta-v2-spoke.md)
--   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin
+-   Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin
 
     **Note:** The lifecycle event for new hire onboarding is included as demo data with this plugin.
 
@@ -49,7 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Okta integration for new hire onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/integrating-with-okta-service.md)
 
-## Related
-
-- [[business-roles|Business roles]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

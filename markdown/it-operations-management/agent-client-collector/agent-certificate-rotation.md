@@ -14,7 +14,7 @@ breadcrumb: [ACC certificates, ACC deployment - shared between servers and endpo
 
 # Agent certificate rotation
 
-The [[acc-landing-page|Agent Client Collector]] certificate is valid for two years and must be rotated before it expires to avoid issues with agent connectivity. When expiration is approaching, the agent initiates a certificate rotation request.
+The Agent Client Collector certificate is valid for two years and must be rotated before it expires to avoid issues with agent connectivity. When expiration is approaching, the agent initiates a certificate rotation request.
 
 When an Agent Client Collector's certificate expiration is approaching, system properties verify that a valid certificate is in place when the existing certificate expires.
 
@@ -30,6 +30,3 @@ When an Agent Client Collector's certificate expiration is approaching, system p
 
 [Configuration file options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-yml-options.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

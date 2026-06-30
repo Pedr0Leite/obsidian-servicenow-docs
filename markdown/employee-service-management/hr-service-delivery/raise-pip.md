@@ -14,17 +14,17 @@ breadcrumb: [Performance Improvement Plan \(PIP\) service, Using HR Service Deli
 
 # Initiate a PIP request
 
-Initiate a PIP request for your employee. Have structured conversations with your employee on performance improvement, and have an agreed course of action with HR or the [[hr-case-employee-relations|Employee Relations]] department.
+Initiate a PIP request for your employee. Have structured conversations with your employee on performance improvement, and have an agreed course of action with HR or the Employee Relations department.
 
 ## Before you begin
 
 -   Role required: admin
 -   Install the Human Resources Scoped App: Employee Relations, and Enterprise Onboarding and Transitions plugins.
--   Activate the HR Taxonomy, and [[document-templates-overview|Document Templates]] applications from ServiceNow Store.
+-   Activate the HR Taxonomy, and Document Templates applications from ServiceNow Store.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Click the **HR** topic.
 
@@ -48,7 +48,7 @@ Employee name
 
 </td><td>
 
-Employee for whom you are initiating the performance improvement plan.**Note:** You will be able to select an employee only if you are added as the manager in the [[c_HRProfileRecords|HR profile]] of the employee.
+Employee for whom you are initiating the performance improvement plan.**Note:** You will be able to select an employee only if you are added as the manager in the HR profile of the employee.
 
 </td></tr><tr><td>
 
@@ -90,9 +90,3 @@ Areas in which you want the employee to perform well.
 
 A PIP case is created and assigned to an ER agent. The \(PIP\) life cycle event is triggered and tasks are auto-initiated for the manager, the employee, and an ER agent.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[document-templates-overview|Document Templates]]
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -12,7 +12,7 @@ breadcrumb: [Explore, Customer Service Management]
 
 # Optimization
 
-Optimize your processes by using the [[c_CustomerServiceManagement|Customer Service Management]] application. You can analyze which processes are relevant to your key performance indicators \(KPIs\), identify the bottlenecks for your customer service cases, learn how to optimize your workforce, and manage your teams more efficiently.
+Optimize your processes by using the Customer Service Management application. You can analyze which processes are relevant to your key performance indicators \(KPIs\), identify the bottlenecks for your customer service cases, learn how to optimize your workforce, and manage your teams more efficiently.
 
 ## Process mining
 
@@ -39,7 +39,7 @@ Key Features of process mining include:
     -   Resolution rejected: Cases where a solution has been proposed by the agent but for some reason is rejected by the customer.
     -   Reassignments: Cases where the assignment group change happens at least twice.
     -   Resolution efficiency: Cases where there’s a significant time gap between the Work In Progress and Resolved cases.
-    -   Assignment efficiency: Cases where the time to [[osp-assign-case|assign a case]] is longer than usual.
+    -   Assignment efficiency: Cases where the time to assign a case is longer than usual.
     -   Undesirable transition: Cases that go from Work in progress to Work in progress-awaiting info.
 -   **Automated root cause analysis and clustering**
 
@@ -57,7 +57,7 @@ Key Features of process mining include:
 For more information about enabling the Process Mining content pack, see the following topics:
 
 -   [Activate Process Mining Content Packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-po-content-pack.md).
--   [[process-opt-csm|Integrating with Process Mining]].
+-   [Integrating with Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/process-opt-csm.md).
 
 ## Workforce Optimization
 
@@ -74,11 +74,5 @@ The advantages of Workforce Optimization for Customer Service include:
 -   Focus on all engagement channels and provide real-time help to your team members so that they can provide a better customer experience.
 -   Capture all the relevant data and apply these insights and guidance to your team.
 
-To learn more about the Workforce Optimization for Customer Service application, see [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+To learn more about the Workforce Optimization for Customer Service application, see [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
-## Related
-
-- [[process-opt-csm|Integrating with Process Mining]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-assign-case|Assign a case]]

@@ -22,10 +22,10 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 
 ## Procedure
 
-1.  Open the list of [[c_TermsAndConditions|terms and conditions]] for your [[c_Contracts|contracts]].
+1.  Open the list of terms and conditions for your contracts.
 
     -   If you are using the core UI, navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Terms &amp; Conditions**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **Terms and conditions** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **Terms and conditions** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **Terms and conditions** tab.
 2.  Click **New**.
 
@@ -51,8 +51,3 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 
 [Build a terms and conditions document within a contract]()
 
-## Related
-
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]

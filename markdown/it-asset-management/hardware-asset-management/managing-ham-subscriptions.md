@@ -15,14 +15,14 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage Hardware Asset Management subscriptions
 
-Save on [[ham-licensing|Hardware Asset Management licensing]] cost by choosing only the [[ham-landing-page|Hardware Asset Management]] Resource Categories that you use.
+Save on Hardware Asset Management licensing cost by choosing only the Hardware Asset Management Resource Categories that you use.
 
 For details on Hardware Asset Management licensing, see [Hardware Asset Management subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-subscription.md).
 
 -   **[Opt-in or opt-out of HAM license resource categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/optin-optout-ham-license-resource-categories.md)**  
 Opt in the Hardware Asset Management \(HAM\) license resource categories that are part of the HAM subscription. You can purchase and opt in the resource categories that you use, and you can opt out and not pay for the categories that you don't use.
 -   **[View the license report for the Hardware Asset Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-license-report-ham.md)**  
-View details of the subscriptions purchased and consumed by your organization for the [[managed-it-resource-ccm|managed IT resource types]] such as Server, End User Computing Device, Networking Device, Mobile Device, and Telecom Network Inventory using the ITAM License Report.
+View details of the subscriptions purchased and consumed by your organization for the managed IT resource types such as Server, End User Computing Device, Networking Device, Mobile Device, and Telecom Network Inventory using the ITAM License Report.
 -   **[Exclude assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exclude-assets.md)**  
 Exclude an asset for which you don't want to use Hardware Asset Management licensed features.
 
@@ -35,7 +35,7 @@ Exclude an asset for which you don't want to use Hardware Asset Management licen
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -57,13 +57,13 @@ Exclude an asset for which you don't want to use Hardware Asset Management licen
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -95,11 +95,3 @@ Exclude an asset for which you don't want to use Hardware Asset Management licen
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[ham-licensing|Hardware Asset Management licensing]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[managed-it-resource-ccm|Managed IT Resource types]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

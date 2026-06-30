@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Google Cloud Platform \(GCP\) Big Query
 
-[[csc-home|Cloud Services Catalog]] with Google Cloud Platform BigQuery Serverless data warehouse.
+Cloud Services Catalog with Google Cloud Platform BigQuery Serverless data warehouse.
 
 BigQuery Serverless Data Warehouse is a fully functional sample catalog item that streamlines the process of ordering a data warehouse solution powered by BigQuery from Google Cloud Provider.
 
@@ -42,6 +42,3 @@ GCP Big Query Out Of Box catalog items permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

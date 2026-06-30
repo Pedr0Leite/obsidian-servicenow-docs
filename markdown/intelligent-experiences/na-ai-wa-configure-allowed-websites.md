@@ -16,7 +16,7 @@ Specify a list of websites that AI agents configured with adaptive desktop actio
 
 ## Before you begin
 
-Set your application scope to [[platform-now-assist-landing|Now Assist]] AI web agent.
+Set your application scope to Now Assist AI web agent.
 
 Role required: admin
 
@@ -55,16 +55,9 @@ When configuring an allow list, include your organization's websites. Work with 
 
 ## What to do next
 
--   [[create-ai-agents-ad|Create an AI agent]]
--   [[create-web-actions|Add an adaptive desktop action tool to an AI agent for web-based tasks]]
--   [[na-ai-wa-configure-workflow|Create an agentic workflow for automating web tasks]]
+-   [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-agents-ad.md)
+-   [Add an adaptive desktop action tool to an AI agent for web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-web-actions.md)
+-   [Create an agentic workflow for automating web tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-workflow.md)
 
-**Parent Topic:**[[ad-adaptive-path-da|Configuration for adaptive path desktop actions]]
+**Parent Topic:**[Configuration for adaptive path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ad-adaptive-path-da.md)
 
-## Related
-
-- [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]]
-- [[create-web-actions|Add an adaptive desktop action tool to an AI agent for web-based tasks]]
-- [[na-ai-wa-configure-workflow|Create an agentic workflow for automating web tasks]]
-- [[ad-adaptive-path-da|Configuration for adaptive path desktop actions]]
-- [[platform-now-assist-landing|Now Assist]]

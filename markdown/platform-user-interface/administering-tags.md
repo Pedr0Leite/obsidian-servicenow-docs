@@ -12,11 +12,11 @@ breadcrumb: [Tags, Common UI elements, Working in Core UI, Configure UIs and por
 
 # Administering tags
 
-If you have an administrator role, you can [[configure-onboarding-modals|configure]] and manage all tags, even tags created by other users. You can also configure notifications, auto-assignment, and Zing indexing for tags.
+If you have an administrator role, you can configure and manage all tags, even tags created by other users. You can also configure notifications, auto-assignment, and Zing indexing for tags.
 
 You must have the tags\_admin role for these administrative tasks.
 
-**Parent Topic:**[[c_Tags|Tags]]
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Create a tag from the Tags list
 
@@ -141,7 +141,7 @@ Use automatically assigned tags to group high urgency incidents, overdue inciden
 
 4.  Create a row in the **Conditions for Labels** list.
 
-5.  Click the [[onboarding-modals-reference|reference]] icon in the **Table** column.
+5.  Click the reference icon in the **Table** column.
 
     The Label Table list opens in a pop-up window.
 
@@ -179,15 +179,10 @@ Role required: tags\_admin
 
 4.  Select the **Notify onchange** check box to be notified any time the record is modified.
 
-5.  Use the **Notify when** [[c_ConditionBuilder|condition builder]] to specify the conditions that must be true to trigger the notification.
+5.  Use the **Notify when** condition builder to specify the conditions that must be true to trigger the notification.
 
 6.  Select a business rule in the **Notify script** field.
 
 7.  Save the record.
 
-## Related
 
-- [[c_Tags|Tags]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_ConditionBuilder|Condition builder]]

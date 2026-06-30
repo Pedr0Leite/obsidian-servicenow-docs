@@ -18,7 +18,7 @@ You can submit, track, and manage an anonymous report and get it addressed witho
 
 The Anonymous Report Center promotes anonymous reporting of safety incidents, observations, and near-misses without fear of retaliation, discrimination, or personal consequences. This type of reporting helps maintain a safe, supportive environment while upholding the overall well-being of all employees.
 
-Use the [[employee-center-landing-page|Employee Center]] to report an anonymous concern and use the [[health-safety-core-workspace|Health and Safety Workspace]] to manage the anonymous safety concern.
+Use the Employee Center to report an anonymous concern and use the Health and Safety Workspace to manage the anonymous safety concern.
 
 The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin must be installed to enable reporting a safety concern anonymously. For more information, see [Activate the Anonymous Report Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-activate.md).
 
@@ -31,7 +31,3 @@ Only an agent with the sensitive content role \[sn\_ohs\_im.sensitive\_observati
 
 **Parent Topic:**[Manage incidents, observations, and anonymous safety concerns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-manage-incidents-observations-annonymous-concerns.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

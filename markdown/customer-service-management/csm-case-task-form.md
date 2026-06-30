@@ -94,9 +94,9 @@ Service
 
 </td><td>
 
-If a service has been selected for a case task, the service is displayed in this field. The **Service** field is a reference to the [[csm-service-definitions|Service Definitions]] table \(sn\_case\_type\_selection\).
+If a service has been selected for a case task, the service is displayed in this field. The **Service** field is a reference to the [Service Definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) table \(sn\_case\_type\_selection\).
 
- **Note:** The Customer Service plugin \(com.sn\_customerservice\) and the [[customer-service-case-types|Customer Service Case Types]] plugin \(com.snc.csm\_case\_types\) are required for the **Service** field to appear on case task [[migration-lists|lists]] and [[migration-forms|forms]].
+ **Note:** The Customer Service plugin \(com.sn\_customerservice\) and the Customer Service Case Types plugin \(com.snc.csm\_case\_types\) are required for the **Service** field to appear on case task lists and forms.
 
 </td></tr><tr><td>
 
@@ -168,10 +168,3 @@ If this check box is enabled, the case task is visible to end users from the Cus
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-service-definitions|Service definitions]]
-- [[customer-service-case-types|Customer service case types]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

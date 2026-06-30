@@ -14,7 +14,7 @@ breadcrumb: [Template Management, Work orders, Set up work orders and tasks, Con
 
 # Activate Template Management for Field Service
 
-You can activate the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The following items are installed with Field Service Template Management:
 -   Script includes
 -   Business roles
 
-For more information, see [[template-management-components|Template Management for Field Service components]].
+For more information, see [Template Management for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/template-management-components.md).
 
 ## Procedure
 
@@ -46,7 +46,4 @@ For more information, see [[template-management-components|Template Management f
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[template-management-components|Template Management for Field Service components]]
-- [[fsm-application-landing-page|Field Service Management]]

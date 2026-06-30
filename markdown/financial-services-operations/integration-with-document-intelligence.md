@@ -22,15 +22,10 @@ For information on activating Document Intelligence, see [Install Document Intel
 
 For information on how to upload and extract data from documents, and information on how to use the Document Intelligence workspace and dashboard, see [Process documents using Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/doc-intel-using.md)
 
--   **[[enable-docintel-fso|Enable Document Intelligence for FSO]]**  
+-   **[Enable Document Intelligence for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/enable-docintel-fso.md)**  
 Enable Document Intelligence for FSO Document Processor by installing and activating the required plugins.
--   **[[sync-doc-processor-intelligence|Synchronize types and categories to Document Intelligence]]**  
+-   **[Synchronize types and categories to Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/sync-doc-processor-intelligence.md)**  
 If Document Intelligence is installed after document types and categories were set up in Document Processor, run this script to synchronize these values between the two applications.
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[enable-docintel-fso|Enable Document Intelligence for FSO]]
-- [[sync-doc-processor-intelligence|Synchronize types and categories to Document Intelligence]]
-- [[fso-integrate-other-applications|Integrate applications]]

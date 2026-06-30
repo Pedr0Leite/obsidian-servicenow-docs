@@ -26,7 +26,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace**.
 
 2.  Open the security incident that you want to resolve using the AI agent.
 
@@ -66,15 +66,15 @@ The AI agent updates the state of the security incident. For example, if the sta
 
 </td></tr><tr><td>
 
-[[tisc-run-threat-lookup|Run threat lookup]] and [[tisc-observable-enrichment|observable enrichment]] on observable
+Run threat lookup and observable enrichment on observable
 
 </td><td>
 
-The AI agent initiates a [[tisc-threat-lookup|threat lookup]] and observable enrichment process. When the analyst confirms with a positive input, the AI agent provides the Observable Analysis and Enrichment summary.
+The AI agent initiates a threat lookup and observable enrichment process. When the analyst confirms with a positive input, the AI agent provides the Observable Analysis and Enrichment summary.
 
 </td></tr><tr><td>
 
-For malicious [[c_Observables|observables]], send email to management
+For malicious observables, send email to management
 
 </td><td>
 
@@ -104,7 +104,7 @@ Block the sender/email/URL on the email gateway
 
 </td><td>
 
-The AI agent requests the analyst for blocking for sender/email/URL on the email gateway. The analyst can ask the AI agent to [[create_response_task|create a response task]] for blocking sender/email/URL on the email gateway.
+The AI agent requests the analyst for blocking for sender/email/URL on the email gateway. The analyst can ask the AI agent to create a response task for blocking sender/email/URL on the email gateway.
 
 The AI agent provides the information for the response tasks and creates a response task after the analyst approves it.
 
@@ -148,12 +148,3 @@ The AI agent closes the incident. For more information, see [Close a security in
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]
-- [[create_response_task|Create a Response Task]]

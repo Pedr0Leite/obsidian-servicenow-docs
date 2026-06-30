@@ -26,13 +26,10 @@ Only a Root Administrator and a System Administrator have access to all three fi
 
 ## Procedure
 
-1.  On the [[cloudmgt-cloud-user-portal|Cloud User Portal]], select **Views** filter, towards the right side on the banner.
+1.  On the Cloud User Portal, select **Views** filter, towards the right side on the banner.
 
 2.  Select an option:
 
     -   **Mine**: View and manage only resources that are assigned to you.
     -   **My Groups**: View and manage all resources that are assigned to you and that are assigned to all members of all groups that you belong to.
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

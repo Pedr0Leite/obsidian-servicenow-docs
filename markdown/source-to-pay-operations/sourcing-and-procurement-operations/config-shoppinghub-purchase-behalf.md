@@ -14,7 +14,7 @@ breadcrumb: [ShoppingHub configuration, Setting up primary data Shopping, Config
 
 # Enable a shopper to purchase on behalf of another user
 
-Configure the [[shopping-hub-overview|Shopping Hub]] to enable a shopper to purchase on behalf of another user.
+Configure the Shopping Hub to enable a shopper to purchase on behalf of another user.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_shop.procurement\_administrator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
 2.  Select **New**.
 
@@ -45,7 +45,3 @@ Role required: sn\_shop.procurement\_administrator
 
 **Parent Topic:**[ShoppingHub configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-configurations.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]

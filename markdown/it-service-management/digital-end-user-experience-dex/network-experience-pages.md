@@ -141,7 +141,7 @@ Application
 
 </td><td>
 
-List of monitored [[dex-workspace-application-tab|applications]] to select from to see the connection performance of a specific applicationThe list contains applications with atleast one domain and only if they were used in the last seven days.
+List of monitored applications to select from to see the connection performance of a specific applicationThe list contains applications with atleast one domain and only if they were used in the last seven days.
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ Variation in time between data packet arrivals. In stable networks, packets arri
 </td></tr></tbody>
 </table>## App connection path page
 
-The app connection path is a route that consists of several hops between an end user’s device and a destination. The data packets travel through various networking [[dex-workspace-devices-tab|devices]] such as routers, switches, and gateways.
+The app connection path is a route that consists of several hops between an end user’s device and a destination. The data packets travel through various networking devices such as routers, switches, and gateways.
 
 <table id="table_mk1_yvt_rdc"><thead><tr><th>
 
@@ -290,7 +290,3 @@ Number of stops that data packets take when they travel from one network node or
 
 **Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

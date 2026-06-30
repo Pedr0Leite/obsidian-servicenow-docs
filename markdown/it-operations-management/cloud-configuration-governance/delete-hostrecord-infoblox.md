@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Click **New**.
 
@@ -54,6 +54,4 @@ Role required: sn\_cmp.cloud\_admin
 
 10. Click **Update** and republish the policy.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

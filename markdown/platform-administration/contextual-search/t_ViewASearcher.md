@@ -26,7 +26,7 @@ ServiceNow provides pre-defined searchers. You can't create, update, or delete s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Searchers**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Searchers**.
 
 2.  Edit a searcher record.
 
@@ -39,6 +39,3 @@ ServiceNow provides pre-defined searchers. You can't create, update, or delete s
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]

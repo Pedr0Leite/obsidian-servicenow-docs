@@ -28,7 +28,7 @@ Role required: it\_project\_manager
 
 1.  Create a project task and give the **Duration** field a value of **0**.
 
-2.  Open the planning console [[c_GanttChart|Gantt chart]] and verify that it appears as a diamond.
+2.  Open the planning console Gantt chart and verify that it appears as a diamond.
 
     You can also convert a task to milestone through [Planning console tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md).
 
@@ -50,7 +50,7 @@ Role required: it\_project\_manager
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -82,7 +82,3 @@ Role required: it\_project\_manager
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[c_ResourcePlans|Resource plans]]

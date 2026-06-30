@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Create a workplace performer criteria
 
-Configure the users who are permitted to perform important actions in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]. Add approvers to approve workplace cases and reservations that are created through [[workplace-services|Workplace services]].
+Configure the users who are permitted to perform important actions in Workplace Service Delivery. Add approvers to approve workplace cases and reservations that are created through Workplace services.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Configure workplace performer criteria and enable a set of users to perform acti
 
 ## Procedure
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Performer Criteria**.
+1.  Navigate to **Workplace Core** &gt; **Administration** &gt; **Performer Criteria**.
 
 2.  Select **New**.
 
@@ -144,8 +144,3 @@ Add approvers to an approval definition. The assigned approvers receive the appr
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Edit a contract template in Microsoft Word, Manage clauses, tables,
 
 # Edit or delete participants using add-in
 
-As a contract configurator, edit or delete a participant from a Microsoft Word document using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+As a contract configurator, edit or delete a participant from a Microsoft Word document using the Microsoft Word add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ The changes made to the participants are synced to the ServiceNow instance in Pa
 
 **Parent Topic:**[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct-addin.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

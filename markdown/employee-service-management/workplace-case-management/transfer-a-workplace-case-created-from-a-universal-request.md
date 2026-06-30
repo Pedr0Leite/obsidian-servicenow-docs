@@ -14,7 +14,7 @@ breadcrumb: [Integration with Universal Request, Workplace Case Management, Work
 
 # Transfer a workplace case created from a universal request
 
-Transfer a workplace case back to the [[ur-landing-limitedaccess|Universal Request]], to another department, or to another service. You can transfer the request with or without providing a resolution.
+Transfer a workplace case back to the Universal Request, to another department, or to another service. You can transfer the request with or without providing a resolution.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.case\_writer
 
 ## Procedure
 
-1.  Navigate to **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace cases** &gt; **All**.
+1.  Navigate to **Workplace Case Management** &gt; **Workplace cases** &gt; **All**.
 
 2.  Select the workplace case record that you want to transfer.
 
@@ -91,7 +91,3 @@ The case is transferred to the selected department.
 
 [Work on a workplace case from a Universal Request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

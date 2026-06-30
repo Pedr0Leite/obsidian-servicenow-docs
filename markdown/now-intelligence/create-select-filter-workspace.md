@@ -16,7 +16,7 @@ Let users filter a dashboard tab on one or more values from a set of choices, su
 
 ## Before you begin
 
-**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the Single select or Multiple select filter type. See [[select-workspace-filter-type|Create or add a filter on an inline dashboard]], [[add-filter-library|Create a filter in the Filter Designer]], or [[create-filter-group|Create a filter group]].
+**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the Single select or Multiple select filter type. See [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md), [Create a filter in the Filter Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md), or [Create a filter group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-filter-group.md).
 
 Role required: In the inline dashboard editor: dashboard\_admin, or you must be the dashboard owner or have had editing rights shared with you.
 
@@ -40,7 +40,7 @@ A Multiple select filter lets users select multiple values of a field or breakdo
 
 1.  Create a filter and select the Single or Multiple Select filter type, as described in [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md).
 
-2.  In **Filter source type**, select a Table, an Indicator breakdown, or a [[user-exp-analytics-landing|Usage Insights]] source.
+2.  In **Filter source type**, select a Table, an Indicator breakdown, or a Usage Insights source.
 
     MetricBase and Workflow Data Fabric tables are available under Tables.
 
@@ -102,8 +102,8 @@ A Multiple select filter lets users select multiple values of a field or breakdo
     -   The filter to be followed must filter data on the same table as the filter source of the following filter.
     **Note:**
 
-    -   Some filters have a many-to-many relationship, where values on both filters can match multiple values on the other filter. One such filter can follow another only through a connecting table. Only admins can set up these cascading filters. For more information, see [[set-filter-to-follow-filter|Set a filter to follow another filter in a many-to-many relationship]].
-    -   Two filters can follow each other, but there are additional requirements. For more information, see [[filters-follow-each-other|Conditions for two filters to follow each other]].
+    -   Some filters have a many-to-many relationship, where values on both filters can match multiple values on the other filter. One such filter can follow another only through a connecting table. Only admins can set up these cascading filters. For more information, see [Set a filter to follow another filter in a many-to-many relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/set-filter-to-follow-filter.md).
+    -   Two filters can follow each other, but there are additional requirements. For more information, see [Conditions for two filters to follow each other](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filters-follow-each-other.md).
 9.  Select the **Sort direction**.
 
     If you select **Ascending**, the lowest filtered values are shown first. If you select **Descending**, the highest values are shown first. The user can change this value.
@@ -170,25 +170,14 @@ Later, a dashboard viewer selects Beth Anglin in the Manager filter. Then, when 
 
 ## What to do next
 
-If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]].
+If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md).
 
 **Related topics**  
 
 
-[[applying-filters-to-process-optimization-maps|Applying filters to Process Mining maps]]
+[Applying filters to Process Mining maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/applying-filters-to-process-optimization-maps.md)
 
 [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md)
 
-[[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
+[Configure a data visualization to follow filters or not](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-dv-follow-filters-or-not.md)
 
-## Related
-
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[add-filter-library|Create a filter in the Filter Designer]]
-- [[create-filter-group|Create a filter group]]
-- [[set-filter-to-follow-filter|Set a filter to follow another filter in a many-to-many relationship]]
-- [[filters-follow-each-other|Conditions for two filters to follow each other]]
-- [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]]
-- [[applying-filters-to-process-optimization-maps|Applying filters to Process Mining maps]]
-- [[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
-- [[user-exp-analytics-landing|Usage Insights]]

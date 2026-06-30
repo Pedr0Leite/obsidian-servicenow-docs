@@ -34,8 +34,5 @@ Role required:
 3.  In **Related Links**, select **Update Set Scan**.
 
 
-**Parent Topic:**[[using-impact-scan-engine|Running on-demand scans]]
+**Parent Topic:**[Running on-demand scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/using-impact-scan-engine.md)
 
-## Related
-
-- [[using-impact-scan-engine|Running on-demand scans]]

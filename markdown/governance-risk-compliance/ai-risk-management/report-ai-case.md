@@ -23,15 +23,15 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the Technology services topics section.
+2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **AI assets** from the Technology services topics section.
 
 3.  Select the **Report an AI case** card.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the [[report-ai-case-form|Report an AI case form]], see [Report an AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case-form.md).
+    For a description of the field values on the Report an AI case form, see [Report an AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case-form.md).
 
 5.  To add attachments, select **Add attachments**.
 
@@ -44,7 +44,7 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user
 
 ## Result
 
-The case is assigned to the AI case team and it provides the insights and support you need. A user with the [[ai-risk-and-compliance|AI Risk and Compliance]] Analyst role or AI Case Analyst role works on the AI case created.
+The case is assigned to the AI case team and it provides the insights and support you need. A user with the AI Risk and Compliance Analyst role or AI Case Analyst role works on the AI case created.
 
 An AI case passes through: New, Triage, Investigate, Resolve, Post case review, and Close states.
 
@@ -57,9 +57,3 @@ Use the Report an AI case form in the Employee Center to report an AI case with 
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-assets-airc|AI assets]]
-- [[report-ai-case-form|Report an AI case form]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

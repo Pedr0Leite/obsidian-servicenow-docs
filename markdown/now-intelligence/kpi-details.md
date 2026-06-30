@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # KPI Details
 
-KPI Details page enables you to delve into the information inside your [[c_Indicators|Performance Analytics indicators]] \(KPIs\).
+KPI Details page enables you to delve into the information inside your Performance Analytics indicators \(KPIs\).
 
 ## Get started
 
@@ -44,6 +44,3 @@ KPI Details page enables you to delve into the information inside your [[c_Indic
 
 [Performance Analytics \(Indicator data sources\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]

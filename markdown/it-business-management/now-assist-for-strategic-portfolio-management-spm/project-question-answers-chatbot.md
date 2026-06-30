@@ -28,7 +28,7 @@ Ask questions about tasks, risks, resources, costs, and schedule using the Proje
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open any project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open any project.
 
 2.  Select **Ask Now Assist** to open the Now Assist panel.
 
@@ -54,6 +54,3 @@ The chatbot returns answers based on your project data. You can continue the con
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

@@ -12,12 +12,9 @@ breadcrumb: [Decorations, Reference field type, Reference, Field administration,
 
 # Reference lookup
 
-On forms, the reference lookup icon appears by editable [[reference-email-admin|reference]] fields. Selecting the reference lookup icon displays a list of records on the referenced table.
+On forms, the reference lookup icon appears by editable reference fields. Selecting the reference lookup icon displays a list of records on the referenced table.
 
 The list appears in a pop-up window when the reference lookup icon \[Omitted image "IconReferencelookup.png"\] Alt text: Reference lookup icon. is selected.
 
 \[Omitted image "image.reference-lookup-list-b20"\] Alt text: The reference lookup list opens in a pop-up window
 
-## Related
-
-- [[reference-email-admin|Reference]]

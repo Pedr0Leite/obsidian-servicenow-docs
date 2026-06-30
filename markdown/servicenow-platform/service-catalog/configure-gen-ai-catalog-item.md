@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Conversational Catalog Request, Service Catalog, Mana
 
 # Configure Now Assist in Conversational Catalog Request
 
-Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase [[self-service-landing|self-service]] and reduce operating costs.
+Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 
 ## Before you begin
 
@@ -37,24 +37,24 @@ When the generative AI experience is configured for catalog item request submiss
 
 -   Read-only questions, questions with pre-filled answers, and questions that are already answered in the requester’s search keyword are skipped.
 -   Though the following catalog item question types are supported in the conversation mode, natural language responses aren't supported for them:
-    -   [[attachment|Attachment]]
-    -   [[masked|Masked]]
+    -   Attachment
+    -   Masked
 
 ## Procedure
 
-1.  To configure the Now Assist for Virtual Agent application that installs the [[now-assist-in-conversational-catalog-request|Now Assist in Conversational Catalog Request]] application, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
+1.  To configure the Now Assist for Virtual Agent application that installs the Now Assist in Conversational Catalog Request application, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
     With this configuration, the **sn\_now\_assist\_cr.llm.conversational.request.question.limit** system property value is set to 500 by default if that property wasn't edited earlier.
 
 2.  Enable the generative AI experience for a catalog item request submission in Virtual Agent.
 
-    1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Maintain Items**.
+    1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Maintain Items**.
 
     2.  Select a catalog item that must be requested in the conversation mode.
 
         For information about catalog items that are supported in the conversation mode, see [Topic blocks to request catalog items through conversational experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-topic-blocks-va-llm.md).
 
-    3.  On the [[catalog-item-form|catalog item form]], confirm that the **Make the item non-conversational in VA** [[check-box|check box]] isn’t selected.
+    3.  On the catalog item form, confirm that the **Make the item non-conversational in VA** check box isn’t selected.
 
     4.  On the catalog item form, confirm that the **Turn off Now Assist \(LLM\)** check box isn't selected.
 
@@ -66,9 +66,9 @@ When the generative AI experience is configured for catalog item request submiss
         -   If you clear the **Make the item non-conversational in VA** check box, the item will become conversational only if all the conditions are met for making an item conversational. For more information about such conditions, see [Topic blocks to request catalog items through conversational experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-topic-blocks-va-llm.md).
     5.  Select **Update**.
 
-3.  Confirm that the fallback [[c_RecordProducer|record producer]] is configured in the **Fetch generic ticket producer for conversational catalog request** subflow.
+3.  Confirm that the fallback record producer is configured in the **Fetch generic ticket producer for conversational catalog request** subflow.
 
-    In a few cases, when a requester is searching for a catalog item, AI Search might not be able to return any results. For example, when the catalog item isn't available or when the requester has no access to view the catalog item. In such cases, the fallback mechanism is activated for the Virtual Agent conversation. Virtual Agent tries to [[c_Connect|connect]] the requester to a live agent. If a live agent isn't available, then the **Create a generic ticket** record producer, which creates an incident to resolve the issue, is triggered.
+    In a few cases, when a requester is searching for a catalog item, AI Search might not be able to return any results. For example, when the catalog item isn't available or when the requester has no access to view the catalog item. In such cases, the fallback mechanism is activated for the Virtual Agent conversation. Virtual Agent tries to connect the requester to a live agent. If a live agent isn't available, then the **Create a generic ticket** record producer, which creates an incident to resolve the issue, is triggered.
 
     -   The **Now Assist Fallback** topic controls the fallback mechanism. This topic triggers the record producer returned by the **Fetch generic ticket producer for conversational catalog request** subflow.
     -   This subflow returns the value of the **sn\_nowassist\_va.now.assist.generic.ticket.fallback.record.producer** property. By default, this property's value is the sys\_id of the **Create a generic ticket** record producer.
@@ -124,14 +124,3 @@ Description
 
 **Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[attachment|Attachment]]
-- [[masked|Masked]]
-- [[now-assist-in-conversational-catalog-request|Now Assist in Conversational Catalog Request]]
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]
-- [[check-box|Check box]]
-- [[c_RecordProducer|Record Producer]]
-- [[c_Connect|Connect]]

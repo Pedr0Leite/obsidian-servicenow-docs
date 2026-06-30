@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Configure the Matrix Loader
 
-Use the Matrix Loader to efficiently add, edit, and migrate [[fields|fields]], field options, [[rules_101|rules]], and [[layouts|layouts]] in CPQ. Upload CSV files, validate configurations, and streamline bulk updates or environment migrations with error-handling and verification support.
+Use the Matrix Loader to efficiently add, edit, and migrate fields, field options, rules, and layouts in CPQ. Upload CSV files, validate configurations, and streamline bulk updates or environment migrations with error-handling and verification support.
 
 The Matrix Loader is the most efficient means of adding and editing fields, field options, rules, and layouts, particularly when the number of elements gets large. When using the Matrix Loader, administrators define their configuration elements in a spreadsheet file. This spreadsheet artifact provides a backup of data in CPQ; it also facilitates fast test-to-production migration processes.
 
@@ -32,9 +32,9 @@ Here is a quick tutorial on how to use the Matrix Loader.
 
     We discuss the formats of these CSV files in the following articles:
 
-    -   [[cpq-matrix-loader-csv-fields-and-field-options-upload-and-export|Matrix Loader CSV fields and field options upload and export]]
-    -   [[matrix_loader_csv_rules_upload|Matrix Loader: CSV rules upload]]
-    -   [[cpq-matrix-loader-csv-table-upload|Matrix Loader: CSV table upload]]
+    -   [Matrix Loader CSV fields and field options upload and export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-fields-and-field-options-upload-and-export.md)
+    -   [Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
+    -   [Matrix Loader: CSV table upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-table-upload.md)
     Queued files are displayed. If necessary, add more files or delete files, and then click **Next**.\[Omitted image "cpq-matrix-loader-tutorial-choose-files-selected-files-shown.png"\] Alt text: Import
 
 4.  The Matrix Loader guesses at the contents of each file according to keywords in the file titles. Confirm that the Matrix Loader guessed the upload file types correctly. If necessary, make corrections.
@@ -49,14 +49,5 @@ Here is a quick tutorial on how to use the Matrix Loader.
 **Related topics**  
 
 
-[[matrix_loader_table_of_contents|Matrix Loader]]
+[Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_table_of_contents.md)
 
-## Related
-
-- [[cpq-matrix-loader-csv-fields-and-field-options-upload-and-export|Matrix Loader CSV fields and field options upload and export]]
-- [[matrix_loader_csv_rules_upload|matrix_loader_csv_rules_upload]]
-- [[cpq-matrix-loader-csv-table-upload|cpq matrix loader csv table upload]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]

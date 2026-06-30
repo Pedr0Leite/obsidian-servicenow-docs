@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Mining, Platform Analytics]
 
 # Adjust Task Mining agent parameters
 
-Modify system-level [[task-mining|Task Mining]] agent records.
+Modify system-level Task Mining agent records.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Configuration icon \[Omitted image "task-mining-configuration-icon.png"\].
 
@@ -48,7 +48,3 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 [Agent and system configuration records in Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/agent-system-configuration-records.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

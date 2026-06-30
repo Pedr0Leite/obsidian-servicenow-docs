@@ -14,7 +14,7 @@ breadcrumb: [Localization Framework reference, Localization Framework, Translati
 
 # States of Localization Framework projects and tasks
 
-In [[localization-framework-landing|Localization Framework]], the state of a [[ia-localization-il|localization]] project or of a task defines the status of the localization request. The states of the localization tasks change based on the workflow that is configured for translations.
+In Localization Framework, the state of a localization project or of a task defines the status of the localization request. The states of the localization tasks change based on the workflow that is configured for translations.
 
 |State|Definition|
 |-----|----------|
@@ -40,7 +40,3 @@ In [[localization-framework-landing|Localization Framework]], the state of a [[i
 
 [Localization Workspace Home and translation job status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-status-synchronization.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]

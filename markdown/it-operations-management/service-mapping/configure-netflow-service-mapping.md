@@ -14,7 +14,7 @@ breadcrumb: [Data collection and discovery using Netflow, Advanced Service Mappi
 
 # Configure data collection using Netflow
 
-Enable [[c_ServiceMappingOverview|Service Mapping]] to perform [[r-discovery|discovery]] based on data collected using the Netflow protocol. This setup results in fully automated data collection flow, where all involved components send, collect, and analyze data automatically.
+Enable Service Mapping to perform discovery based on data collected using the Netflow protocol. This setup results in fully automated data collection flow, where all involved components send, collect, and analyze data automatically.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin or service\_mapping\_admin
 
 ## About this task
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by [[service-mapping-setup|configuring Service Mapping]] to use the Netflow protocol. For more information about the way Service Mapping uses Netflow, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md).
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use the Netflow protocol. For more information about the way Service Mapping uses Netflow, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md).
 
 Configure the ServiceNow Netflow connector to trigger the MID Server to collect the data from the Netflow flows and process them.
 
@@ -122,8 +122,3 @@ Configure the ServiceNow Netflow connector to trigger the MID Server to collect 
 
 **Parent Topic:**[Advanced Service Mapping configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ConfigureSM.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[service-mapping-setup|Configuring Service Mapping]]

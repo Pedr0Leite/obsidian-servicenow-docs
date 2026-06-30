@@ -15,11 +15,11 @@ breadcrumb: [Upgrade Accounts Payable Operations, Components installed with Acco
 
 # Upgrade Accounts Payable Operations from version 2.0
 
-[[upgrade|Upgrade Accounts Payable Operations]] with Document Intelligence from lower to higher versions.
+Upgrade Accounts Payable Operations with Document Intelligence from lower to higher versions.
 
 ## Before you begin
 
--   Upgrade Accounts Payable Operations version 2.0 and above to [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] 4.0 by installing Document Intelligence version 4.0.
+-   Upgrade Accounts Payable Operations version 2.0 and above to Accounts Payable Operations 4.0 by installing Document Intelligence version 4.0.
 -   As part of APO 2.0 or APO 3.0, in Use cases `sys_di_task_definition` table, verify OOB Use case – “DO NOT USE- Invoice Processing v2”.
 
 Role required: Admin
@@ -32,7 +32,7 @@ Role required: Admin
 
 2.  Verify the newly added pre-trained model Use case “DO NOT USE - Invoice Processing v3” exists.
 
-3.  Execute the following script from the background script in `sn_ap_ic` [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] scope.
+3.  Execute the following script from the background script in `sn_ap_ic` Accounts Payable Operations integration with Document Intelligence scope.
 
 4.  To execute the below script, perform the following steps.
 
@@ -52,8 +52,4 @@ functionalignParentUseCaseSysIds(oldReadOnlyUseCaseSysId,newReadOnlyUseCaseSysId
     -   Use cases will be upgraded if there is at least one trained task that are manually trained by the user from Document Intelligence Workspace.
     Use cases are upgraded with latest model.
 
-## Related
 
-- [[upgrade|Upgrade Accounts Payable Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

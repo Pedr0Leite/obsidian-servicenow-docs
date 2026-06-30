@@ -27,10 +27,7 @@ Use the **Mapping Configuration** form to configure your fields and field mappin
 |**Associated Ticket Information**|
 |Associated ticket template|Select the template that you want to populate for the associated ticket creation.|
 |**Create UR Information**|
-|Create UR template|Select the template that you want to apply to the [[ur-landing-limitedaccess|universal request]] while a department ticket is created.|
+|Create UR template|Select the template that you want to apply to the universal request while a department ticket is created.|
 
 **Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

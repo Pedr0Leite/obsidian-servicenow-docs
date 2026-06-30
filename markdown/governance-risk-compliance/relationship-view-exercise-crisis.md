@@ -43,13 +43,8 @@ The configurations for the 360° view are stored in **360° View Configurations*
     -   **Tasks**: Tasks that are associated with the event.
     When you select the **Assets** capsule in the 360° view, the details of the assets for the event are displayed in the **Assets** panel on the right as shown in the example.
 
-4.  Select the event or [[list-view-uib-ws|list view]] in the [[breadcrumb-navigation|breadcrumb navigation]] to open the original event record.
+4.  Select the event or list view in the breadcrumb navigation to open the original event record.
 
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[list-view-uib-ws|List view]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]

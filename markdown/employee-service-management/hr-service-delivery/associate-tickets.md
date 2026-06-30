@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for HR Service Delivery, Integration of HR Servic
 
 # Create associated tickets from an HR case
 
-From an HR case that is the primary ticket of a [[ur-landing-limitedaccess|universal request]], create tickets for another department and associate them to the same universal request as the HR case. This feature enables agents from various departments to collaborate and work on their tickets in parallel. It also enables organizations to trace back efforts against a single universal request.
+From an HR case that is the primary ticket of a universal request, create tickets for another department and associate them to the same universal request as the HR case. This feature enables agents from various departments to collaborate and work on their tickets in parallel. It also enables organizations to trace back efforts against a single universal request.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Logged in user is the member of the **Assignment group** or **Assigned to** fiel
 
 **Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

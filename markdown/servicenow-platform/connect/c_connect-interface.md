@@ -14,12 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Connect interface
 
-Users can work in a compact view of [[c_Connect|Connect]], which overlays the standard user interface, or in a full-screen workspace.
+Users can work in a compact view of Connect, which overlays the standard user interface, or in a full-screen workspace.
 
-[[c_Collaboration|Connect Chat]] and [[c_ConnectSupport|Connect Support]] share the same interface, so support agents can keep track of all their conversations in one place.
+Connect Chat and Connect Support share the same interface, so support agents can keep track of all their conversations in one place.
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]

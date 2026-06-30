@@ -12,11 +12,11 @@ breadcrumb: [Service Management Core installation reference, Service Management]
 
 # Installed with Service Management Core
 
-Several types of components are installed with the [[c_ServiceManagement|Service Management]] Core plugin.
+Several types of components are installed with the Service Management Core plugin.
 
 Demo data is available with Service Management Core.
 
-**Parent Topic:**[[r_ServMgmtCoreInstallRef|Service Management Core installation reference]]
+**Parent Topic:**[Service Management Core installation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ServMgmtCoreInstallRef.md)
 
 ## Tables installed with Service Management Core
 
@@ -2156,8 +2156,3 @@ Template that is used to build notifications for new applications created from a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ServMgmtCoreInstallRef|Service Management Core installation reference]]
-- [[c_ServiceManagement|Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery with Ultimate Kronos Group, Integrat
 
 # Components installed with HR Service Delivery Integration with Ultimate Kronos Group
 
-Several types of components are installed with activation of the [[hr-service-delivery|HR Service Delivery]] Integration with Ultimate Kronos Group plugin, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Ultimate Kronos Group plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -36,7 +36,7 @@ UKG admin\[sn\_hr\_ukg.admin\]
 
 </td><td>
 
--   Can [[symbolic-periods-ukg|set up symbolic periods]] and accrual codes.
+-   Can set up symbolic periods and accrual codes.
 -   Can train the UKG Topics Model.
 
 </td><td>
@@ -73,7 +73,3 @@ Stores symbolic periods with their associated IDs. Symbolic periods denote the t
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference - HR Service Delivery with Ultimate Kronos Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ref-hrsd-ukg.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[symbolic-periods-ukg|Set up symbolic periods]]

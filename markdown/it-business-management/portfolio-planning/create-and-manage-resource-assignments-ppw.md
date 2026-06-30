@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Next Experience for Demand Management in Portfolio 
 
 # Create and manage resource assignments
 
-[[create-manage-resource-plans-demand|Create and manage resource assignments for a demand]] to find the availability of the resources and allocate them to the [[demand-task|demand tasks]]. Effective resource assignment ensures that demands are adequately staffed and helps demand managers track resource availability and utilization.
+Create and manage resource assignments for a demand to find the availability of the resources and allocate them to the demand tasks. Effective resource assignment ensures that demands are adequately staffed and helps demand managers track resource availability and utilization.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -36,7 +36,7 @@ Role required: it\_demand\_manager
 
     -   To add a resource assignment record, select **New**.
     -   To update the details of an existing resource assignment record, select the record.
-5.  On the Create [[create-ra-form-rmw|New Resource assignment form]], fill in the fields.
+5.  On the Create New Resource assignment form, fill in the fields.
 
     For a description of the field names, see [Create resource assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-resource-assignment-form-ppw.md).
 
@@ -58,9 +58,3 @@ Role required: it\_demand\_manager
 
 [Create resource assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-resource-assignment-form-ppw.md)
 
-## Related
-
-- [[create-manage-resource-plans-demand|Create and manage resource assignments for a demand]]
-- [[demand-task|Demand tasks]]
-- [[c_DemandManagement|Demand Management]]
-- [[create-ra-form-rmw|New Resource Assignment form]]

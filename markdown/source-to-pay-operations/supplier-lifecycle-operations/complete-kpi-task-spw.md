@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # Complete a KPI collection task from the Source-to-Pay Workspace
 
-A KPI collection task is generated automatically each time a KPI is instantiated. A [[supplier|supplier]] manager can complete the assigned KPI collection task from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+A KPI collection task is generated automatically each time a KPI is instantiated. A supplier manager can complete the assigned KPI collection task from the Source-to-Pay Workspace.
 
 \[Omitted video\] Description: Complete a KPI collection task from the Source-to-Pay Workspace.
 
@@ -34,7 +34,7 @@ A KPI collection task is also generated when an automated KPI fails to extract d
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
 
@@ -73,8 +73,3 @@ The KPI collection task is marked as complete.
 
 [View supplier performance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

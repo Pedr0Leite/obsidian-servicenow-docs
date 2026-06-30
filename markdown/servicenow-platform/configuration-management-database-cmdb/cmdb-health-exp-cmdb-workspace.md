@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # CMDB Health experience in CMDB Workspaceand in Service Graph Workspace
 
-View [[c_CMDBHealth|CMDB Health]] dashboards and use other CMDB Health-related features in CMDB Workspaceand in [[sg-workspace|Service Graph Workspace]].
+View CMDB Health dashboards and use other CMDB Health-related features in CMDB Workspaceand in Service Graph Workspace.
 
 CMDB Health is fully integrated into CMDB Workspaceand Service Graph Workspace. CMDB Workspace or Service Graph Workspace are required in order to access CMDB Health features, primarily to:
 
@@ -49,7 +49,3 @@ Access CMDB Health in CMDB Workspace by navigating to **Workspaces** &gt; **CMDB
 
 [CMDB Health reference]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[sg-workspace|Service Graph Workspace]]

@@ -32,7 +32,7 @@ Share information across your organization using a knowledge article.
 **Related topics**  
 
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -58,6 +58,3 @@ Share information across your organization using a knowledge article.
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

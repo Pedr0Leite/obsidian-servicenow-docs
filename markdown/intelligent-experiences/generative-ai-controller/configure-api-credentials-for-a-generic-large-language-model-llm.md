@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-You can connect an external LLM to the ServiceNow AI Platform by creating a connection alias to the model, create a model record that points to the alias, [[create-prompt-template|create a prompt]] record for the model, and then create a transformer record to transform the request or response from the LLM.
+You can connect an external LLM to the ServiceNow AI Platform by creating a connection alias to the model, create a model record that points to the alias, create a prompt record for the model, and then create a transformer record to transform the request or response from the LLM.
 
 ## Procedure
 
@@ -81,6 +81,3 @@ You have the connection and credential alias to use for connecting a generic LLM
 
 For more information on configuring a generic LLM, see [configure a generic LLM connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-a-generic-llm-connector.md)
 
-## Related
-
-- [[create-prompt-template|Create a prompt]]

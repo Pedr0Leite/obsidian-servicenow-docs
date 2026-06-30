@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure role-based access to the Personalize Form menu
 
-[[configure-onboarding-modals|Configure]] which roles can access the Personalize Form menu.
+Configure which roles can access the Personalize Form menu.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ The Personalize Form menu \(\[Omitted image "icon-personalize-form.png"\]\) in t
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

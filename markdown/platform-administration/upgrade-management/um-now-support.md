@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Console tools, Use, Upgrade Console, Upgrade, Administer th
 
 # Now Support in Upgrade Console
 
-Try contacting Now Support if you need any assistance regarding [[um-landing-page|Upgrade Console]].
+Try contacting Now Support if you need any assistance regarding Upgrade Console.
 
 Click [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case) for more information.
 
@@ -37,6 +37,3 @@ Click [Contact Customer Service and Support](https://support.servicenow.com/now?
 
 [Upgrade Plans tool in Upgrade Console]()
 
-## Related
-
-- [[um-landing-page|Upgrade Console]]

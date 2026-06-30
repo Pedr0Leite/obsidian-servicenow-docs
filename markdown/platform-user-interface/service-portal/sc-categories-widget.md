@@ -148,7 +148,7 @@ Verifies with each item that the user has the right roles to view the catalog it
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
@@ -156,6 +156,3 @@ Verifies with each item that the user has the right roles to view the catalog it
 
 [Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/access-categories-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

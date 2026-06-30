@@ -15,7 +15,7 @@ breadcrumb: [Configure the manage alerts autonomously agentic workflow, Configur
 
 # Configure the Dynatrace analysis AI agent
 
-Configure the Dynatrace analysis AI agent for the [[now-assist-itom-agentic-aia|analyze alert impact agentic workflow]]. This configuration also supports the Dynatrace observability skill in the [[itom-autonomous-operator-workflow|manage alerts autonomously agentic workflow]].After you configure the agent, the workflows can surface information from Dynatrace to help you investigate alerts.
+Configure the Dynatrace analysis AI agent for the analyze alert impact agentic workflow. This configuration also supports the Dynatrace observability skill in the manage alerts autonomously agentic workflow.After you configure the agent, the workflows can surface information from Dynatrace to help you investigate alerts.
 
 ## Before you begin
 
@@ -98,7 +98,3 @@ To learn more about using the Dynatrace analysis AI agent in the analyze alert i
 
 **Parent Topic:**[Configure the manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/configure-manage-alerts-autonomously-workflow.md)
 
-## Related
-
-- [[now-assist-itom-agentic-aia|Analyze alert impact agentic workflow]]
-- [[itom-autonomous-operator-workflow|Manage alerts autonomously agentic workflow]]

@@ -12,21 +12,14 @@ breadcrumb: [Order operations, Reference, Sales Customer Relationship Management
 
 # Lead-to-Cash Process Management reference
 
-Reference topics provide additional information about [[explore-lead-cash-process-management|Lead-to-Cash Process Management]].
+Reference topics provide additional information about Lead-to-Cash Process Management.
 
--   **[[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]]**  
+-   **[Components installed with Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-lead-cash-process-management.md)**  
 Several types of components are installed with activation of the Lead-to-Cash Process Management plugin, including tables and user roles.
--   **[[properties-installed-lead-cash-process-management|Properties installed with Lead-to-Cash Process Management]]**  
+-   **[Properties installed with Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/properties-installed-lead-cash-process-management.md)**  
 Properties for Lead-to-Cash Process Management node map visualization.
--   **[[components-installed-business-object-core|Components installed with Business Object Core]]**  
+-   **[Components installed with Business Object Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-business-object-core.md)**  
 Several types of components are installed with activation of the Business Object Core plugin, including tables and user roles.
 
-**Parent Topic:**[[reference-order-operations|Order operations reference]]
+**Parent Topic:**[Order operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-order-operations.md)
 
-## Related
-
-- [[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]]
-- [[properties-installed-lead-cash-process-management|Properties installed with Lead-to-Cash Process Management]]
-- [[components-installed-business-object-core|Components installed with Business Object Core]]
-- [[reference-order-operations|Order operations reference]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

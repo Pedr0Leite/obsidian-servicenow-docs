@@ -22,7 +22,7 @@ Ensure that you meet the following prerequisites before you perform this procedu
 
 -   Connect, configure the Azure DevOps tool and discover existing repositories, orchestration tasks, and pipelines.
 -   Install the following custom extension tasks on your Azure DevOps instance.
-    -   ServiceNow extension to integrate Azure Pipelines with [[devops-landing-page-new|DevOps Change Velocity]]. For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-dev-ops-extensions-azure.md).
+    -   ServiceNow extension to integrate Azure Pipelines with DevOps Change Velocity. For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-dev-ops-extensions-azure.md).
 
 Role required:
 
@@ -91,7 +91,7 @@ Get function
 -   Branch Name \(only for multi-branch pipeline\)
 **Note:** If you do not provide the change request details as input parameters, the change request number associated with the current pipeline and stage will be retrieved.
 
-Enter a [[reference-for-itsm-mobile-agent|reference]] name for the get change request task, which will be used to reference the change request number in the update task. See the following example.
+Enter a reference name for the get change request task, which will be used to reference the change request number in the update task. See the following example.
 
 \[Omitted image "ado-get-change.png"\] Alt text: ServiceNow DevOps Agent Get Change task
 
@@ -120,7 +120,3 @@ Update function
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[reference-for-itsm-mobile-agent|Reference]]

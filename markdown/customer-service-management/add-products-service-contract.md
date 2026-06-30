@@ -12,7 +12,7 @@ breadcrumb: [Customer Contracts and Entitlements, Customer management, Use, Cust
 
 # Add a sold product or install base item to a customer contract
 
-Add the [[sold-product|sold products]] or the [[install-base-item|install base items]] covered to customer contracts, contract lines, or entitlements.
+Add the sold products or the install base items covered to customer contracts, contract lines, or entitlements.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ A sold product or an install base item can be added to a Customer Contracts and 
 
 ## Procedure
 
-1.  Navigate to the ServiceNow AI Platform interface or the [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Navigate to the ServiceNow AI Platform interface or the CSM Configurable Workspace.
 
 <table id="choicetable_zqd_tnc_pzb"><thead><tr><th align="left" id="d170778e88">
 
@@ -127,16 +127,10 @@ Procedure
 
     -   You can either add a sold product or an install base item to the Customer Contracts and Entitlements entity.
     -   The state of the entity shouldn't be Expired or Canceled.
-3.  On the [[sold-product-covered-form|Sold Product Covered form]], fill in the fields.
+3.  On the Sold Product Covered form, fill in the fields.
 
-    For a description of the field values, see [[sold-product-form|Sold product form]].
+    For a description of the field values, see [Sold product form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/sold-product-form.md).
 
 4.  Select **Submit**.
 
-## Related
 
-- [[sold-product-form|Sold product form]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product-covered-form|Sold Product Covered form]]

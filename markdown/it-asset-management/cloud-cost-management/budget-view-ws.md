@@ -25,7 +25,7 @@ Use the Budget view to:
 -   Manage your cloud spend, you can define and monitor custom Budget plans.
 -   Create and manage a budget policy. For more information, see [Create or update a budget policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-cloud-budgets.md).
 
-\[Omitted image "ccm-budget-view-ws.png"\] Alt text: Budget view in [[ci-workspace|Cloud Cost Management Workspace]].
+\[Omitted image "ccm-budget-view-ws.png"\] Alt text: Budget view in Cloud Cost Management Workspace.
 
 <table id="table_est_kbv_ywb"><thead><tr><th>
 
@@ -79,6 +79,3 @@ After you create or modify a budget policy, the policies get displayed on the **
 
 \[Omitted image "all-budgets.png"\] Alt text: All budgets page in the Budgets view of Cloud Cost Management Workspace.
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

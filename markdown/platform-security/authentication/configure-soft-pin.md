@@ -14,7 +14,7 @@ breadcrumb: [Soft PIN authentication, Configure authentication factors for AI vo
 
 # Configure Soft PIN
 
-[[users|Users]] are required to configure Soft PIN before it can be used for [[c_Authentication|authentication]] with ServiceNow AI Platform.
+Users are required to configure Soft PIN before it can be used for authentication with ServiceNow AI Platform.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Perform the following:
 
         \[Omitted image "softpin-1.png"\] Alt text: Soft PIN on the Platform UI
 
-    -   **Navigation menu**: Select **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Soft PIN** &gt; **Enroll**.
+    -   **Navigation menu**: Select **All** &gt; **Authentication Factors** &gt; **Soft PIN** &gt; **Enroll**.
 
         \[Omitted image "softpin-2.png"\] Alt text: Soft PIN on the Navigation menu
 
@@ -73,8 +73,3 @@ You can use the submitted Soft PIN to authenticate various ServiceNow system or 
 
 [Authentication factors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/authentication-factors.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[authentication-factors|Authentication factors]]

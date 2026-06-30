@@ -22,9 +22,9 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Model management**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Model management**.
 
-2.  Select the **All [[c_Models|models]]** tab.
+2.  Select the **All models** tab.
 
 3.  Select the model that you want to associate with a Calculated lifecycle template.
 
@@ -43,7 +43,3 @@ The list of lifecycle phases with details such as Phase start date, Phase end da
 
 **Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-ham-lifecycle-temp.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Models|Models]]

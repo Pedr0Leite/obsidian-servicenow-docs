@@ -12,7 +12,7 @@ breadcrumb: [Create a quote, Opportunity Management, Lead and opportunity apps, 
 
 # Create a quote from an opportunity line item
 
-[[create-new-quote|Create a quote]] from the selected line items in an opportunity record.
+Create a quote from the selected line items in an opportunity record.
 
 ## Before you begin
 
@@ -31,22 +31,14 @@ Role required: sales\_agent
 
 ## What to do next
 
-To learn more about using the [[quote-management|Quote Management]] workspace, see [[quote-mgmt-using|Using Quote Management]].
+To learn more about using the Quote Management workspace, see [Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md).
 
-**Parent Topic:**[[opportunity-management-create-quote|Create a quote from an opportunity]]
+**Parent Topic:**[Create a quote from an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-quote.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[opportunity-management-create-quote|Create a quote from an opportunity]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-quote|Create a quote]]
-- [[quote-management|Quote Management]]

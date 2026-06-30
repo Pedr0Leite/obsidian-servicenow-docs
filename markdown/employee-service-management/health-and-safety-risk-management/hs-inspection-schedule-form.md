@@ -75,7 +75,7 @@ Inspection survey
 
 </td><td>
 
-Inspection survey to be completed for this inspection. Select the survey to use.Only the surveys with the **Source table** field set to Inspection \[sn\_hs\_rm\_inspection\] table are available in this list. Use surveys available with the application or build new ones with the Survey designer. You can also associate any of your pre-built surveys with inspection records in [[hs-risk-management-landing-page|Health and Safety Risk Management]]. For more information, see [Configure a safety inspection or audit survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-configure-safety-inspection-surveys.md).
+Inspection survey to be completed for this inspection. Select the survey to use.Only the surveys with the **Source table** field set to Inspection \[sn\_hs\_rm\_inspection\] table are available in this list. Use surveys available with the application or build new ones with the Survey designer. You can also associate any of your pre-built surveys with inspection records in Health and Safety Risk Management. For more information, see [Configure a safety inspection or audit survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-configure-safety-inspection-surveys.md).
 
 This field appears only when **Inspection format** is set as **Digital** and **Assessment type** is set as **Survey**.
 
@@ -165,6 +165,3 @@ Number of days for the smart assessment or survey to expire after its start date
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]

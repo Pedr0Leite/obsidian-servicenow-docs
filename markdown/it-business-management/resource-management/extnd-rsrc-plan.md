@@ -46,13 +46,10 @@ FTE or Person Days or Hours
 
 </td><td>
 
-Number of units to [[t_RequestResourcePlanApproval|request resources]].The field appears when you select one of the options in the **Request type** field. Based on the selected request type, specify the unit.
+Number of units to request resources.The field appears when you select one of the options in the **Request type** field. Based on the selected request type, specify the unit.
 
 For more information, see [Request type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourcePlans.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[t_RequestResourcePlanApproval|Request resources]]

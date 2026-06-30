@@ -16,7 +16,7 @@ breadcrumb: [Machine Identity Console, Identity]
 
 Manage your service accounts, which are used for integrations with ServiceNow.
 
-[[machine-identity-console|Machine Identity Console]] enables you to manage your non-human identities \(NHIs\) that are used to identify, authenticate, and authorize different software entities to access secured resources of ServiceNow. The entities that gain access include applications, workloads, APIs, bots, and automated systems. Unlike human identities, non-human identities \(NHIs\) aren’t governed in the same manner and aren’t directly associated with a human. Their [[identity-landing|identity]] and verification methods are distinct from the human [[users|users]], and standard human security measures are not applicable to them.
+Machine Identity Console enables you to manage your non-human identities \(NHIs\) that are used to identify, authenticate, and authorize different software entities to access secured resources of ServiceNow. The entities that gain access include applications, workloads, APIs, bots, and automated systems. Unlike human identities, non-human identities \(NHIs\) aren’t governed in the same manner and aren’t directly associated with a human. Their identity and verification methods are distinct from the human users, and standard human security measures are not applicable to them.
 
 **Note:** You need the `mi_admin` role to use the Machine Identity Console.
 
@@ -26,7 +26,7 @@ Here's what is available on the Machine Identity Console Overview page:
 
 -   Total Machine identity \(integration\) accounts and the Accounts with high privilege roles.
 -   Unique API calls - Last 7 days
--   [[c_Authentication|Authentication]] method used - Last 7 days
+-   Authentication method used - Last 7 days
 -   Machine Identity Security score and findings related to the identity.
 
 **Note:** Accounts that have the **Internal Integration User** field set to `true` in their `sys_user` record will not populate data in the Machine Identity Console.
@@ -44,9 +44,3 @@ Here's what is available on the Machine Identity Console Overview page:
 
 [Inbound integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/inbound-integrations.md)
 
-## Related
-
-- [[machine-identity-console|Machine Identity Console]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

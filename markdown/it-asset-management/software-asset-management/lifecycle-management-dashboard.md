@@ -16,11 +16,11 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 Review and track the end of life \(EOL\) software products in your asset estate to reduce risks associated with software products that are reaching or have reached EOL.
 
-The Lifecycle management dashboard displays reports on [[calculated-lifecycles|product life cycles]], the current and past EOL product life cycles, and the upcoming EOL product life cycles for the next 18 months. You can also view EOL workflow status and workflow action.
+The Lifecycle management dashboard displays reports on product life cycles, the current and past EOL product life cycles, and the upcoming EOL product life cycles for the next 18 months. You can also view EOL workflow status and workflow action.
 
-**Note:** The Lifecycle management dashboard is only visible if you activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional plugin from ServiceNow Store.
+**Note:** The Lifecycle management dashboard is only visible if you activate the Software Asset Management Professional plugin from ServiceNow Store.
 
-Access the Lifecycle management dashboard by navigating to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics** &gt; **Lifecycle management**.
+Access the Lifecycle management dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**.
 
 You can filter the dashboard reports based on a publisher or product. Select any report to view more information on product life cycles.
 
@@ -132,8 +132,3 @@ Tracking product life cycles enables you to manage software products that are re
 
 You can take required action for your EOL software products by using the Software Product Lifecycle report. The report opens when you select the **Upcoming end of life product lifecycles in next 18 months** or **Current and past end of life product lifecycles** report on the Lifecycle management dashboard. You can create an EOL request for the software products that have the Current phase as End of Support, End of Extended Support, or End of Life. For more details, see [Create an end of life workflow request for your software products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-eol-risk.md).
 
-## Related
-
-- [[calculated-lifecycles|Product life cycles]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

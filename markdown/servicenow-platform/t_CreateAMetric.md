@@ -12,7 +12,7 @@ breadcrumb: [Assessment metrics, Assessment administrator tasks, Using assessmen
 
 # Create an assessment metric for a category
 
-After you [[pace-create-category|create a category]], create metrics you can use to evaluate the [[c_assessable-records|assessable records]] for that category.
+After you create a category, create metrics you can use to evaluate the assessable records for that category.
 
 ## Before you begin
 
@@ -47,23 +47,23 @@ Open a category, and locate the **Assessment Metrics** related list.
 </td></tr></tbody>
 </table>2.  Click **New**.
 
-3.  On the [[assessment-metric-form|Assessment Metric form]], fill in the fields.
+3.  On the Assessment Metric form, fill in the fields.
 
-    For a description of the field values, see [[assessment-metric-category-form|Assessment Metric form for a category]].
+    For a description of the field values, see [Assessment Metric form for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-metric-category-form.md).
 
 4.  Save the record.
 
     When you create a **Choice** or **Likert Scale** question, reopen the Assessment Metric form after you submit it to create a metric definition. If you distribute a questionnaire without creating the answers for questions with these data types, recipients are unable to answer the quesitons. If the questions are mandatory, the recipients are unable to submit their questionnaires.
 
 
--   **[[t_CreateAMetricDefinition|Create an assessment metric definition]]**  
+-   **[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)**  
 Metrics with Choice or Likert Scale data types must have metric definitions defined to represent answer options on questionnaires.
--   **[[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]**  
+-   **[Change the order of an answer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)**  
 By default, the order of answer options is established when a question is created with a data type of **Choice** or **Likert Scale**.
--   **[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]**  
-In the [[r_Assessments|Assessments]] application, assessment administrators create and administer metric types and assessable records.
+-   **[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)**  
+In the Assessments application, assessment administrators create and administer metric types and assessable records.
 
-**Parent Topic:**[[c_AssessmentMetrics|Assessment metrics]]
+**Parent Topic:**[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
 **Related topics**  
 
@@ -72,17 +72,5 @@ In the [[r_Assessments|Assessments]] application, assessment administrators crea
 
 [Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-[[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
+[Update a metric minimum and maximum value to match a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdAMetrMinMaxValToMatchATmplate.md)
 
-## Related
-
-- [[assessment-metric-category-form|Assessment Metric form for a category]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
-- [[pace-create-category|Create a category]]
-- [[c_assessable-records|Assessable records]]
-- [[assessment-metric-form|Assessment Metric form]]
-- [[r_Assessments|Assessments]]

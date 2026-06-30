@@ -14,7 +14,7 @@ breadcrumb: [Reference, Benchmarks, IT Service Management]
 
 # Opt out of Benchmarks
 
-You can opt out of Benchmarks at any time. If you opt out, your company usage data is no longer included in the [[benchmarks-landing|Benchmarks]] data set, and you no longer see aggregate metrics.
+You can opt out of Benchmarks at any time. If you opt out, your company usage data is no longer included in the Benchmarks data set, and you no longer see aggregate metrics.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ When you opt out of the Benchmarks forum, it means that you no longer have acces
 
     The opt-out confirmation is shown. You can opt back in at any time.
 
-## Related
 
-- [[benchmarks-landing|Benchmarks]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, Unified Security Exposure Management, Security Operation
 
 # Security Exposure Management Workspace Components
 
-When you activate the [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]] and [[sem-workspace-user-interface|Security Exposure Management Workspace]] applications, the system installs specific key components including tables, user roles, and scheduled jobs to support the operations required for assessing and managing security exposures.
+When you activate the Unified Security Exposure Management \(USEM\) and Security Exposure Management Workspace applications, the system installs specific key components including tables, user roles, and scheduled jobs to support the operations required for assessing and managing security exposures.
 
 The following applications install Security Exposure Management-specific components:
 
@@ -23,7 +23,7 @@ The following applications install Security Exposure Management-specific compone
 -   Remediation for Attack Surface Management
 -   Exception Management for Unified Security Exposure Management
 
-USEM also depends on components provided by some existing [[security-operations-landing-page|security operations]] applications. For details of those existing components, see:
+USEM also depends on components provided by some existing security operations applications. For details of those existing components, see:
 
 -   [Components installed with Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/installed-with-vr.md)
 -   [Components installed with Application Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/application-vulnerability-response/installed-with-avm.md)
@@ -54,7 +54,7 @@ The following tables from the existing applications have been deprecated and hav
 |Exception Management Configuration \[sn\_sec\_cmn\_exception\_config\]|Exception Management Configuration \[sn\_sec\_exception\_config\]|
 |Exception Management Configuration \[sn\_vul\_exception\_config\]|
 |Questionnaire Configuration \[sn\_sec\_cmn\_questionnaire\_config\]|Questionnaire Configuration \[sn\_sec\_exception\_questionnaire\_config\]|
-|Policy Exception Reason [[mapping-logrhythm|Mapping]] \[sn\_sec\_cmn\_policy\_reason\_mapping\]|Policy Exception Reason Mapping \[sn\_sec\_exception\_policy\_reason\_mapping\]|
+|Policy Exception Reason Mapping \[sn\_sec\_cmn\_policy\_reason\_mapping\]|Policy Exception Reason Mapping \[sn\_sec\_exception\_policy\_reason\_mapping\]|
 |Policy Exception Reason Mapping \[sn\_vul\_policy\_reason\_mapping\]|
 |Vulnerability Assignment Rule \[sn\_vul\_assignment\_rule\]|Assignment Rule \[sn\_sec\_wf\_assign\_rule\]|
 |Assignment Rule \[sn\_vulc\_assignment\_rule\]|
@@ -98,22 +98,12 @@ The following tables from the existing applications have been deprecated and hav
 |Associate existing Container VIs with Auto Exception Rule|
 |Check Container Vulnerable Item Deferment Expiration|
 
--   **[[sem-new-roles-installed|Security Exposure Management Workspace Roles]]**  
+-   **[Security Exposure Management Workspace Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-new-roles-installed.md)**  
 List of roles installed with Security Exposure Management, defining user permissions and access for Security Exposure Management-related tasks.
--   **[[sem-new-tables-installed|Security Exposure Management Workspace Tables]]**  
+-   **[Security Exposure Management Workspace Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-new-tables-installed.md)**  
 The following are the tables installed with Security Exposure Management. These tables store Security Exposure Management-related configuration, rules, findings, and other data required for exposure assessment, remediation, scoring, and exception management.
--   **[[sem-new-scheduledjobs-installed|Security Exposure Management Workspace Scheduled Jobs]]**  
+-   **[Security Exposure Management Workspace Scheduled Jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-new-scheduledjobs-installed.md)**  
 The following are the scheduled jobs installed with Security Exposure Management. These jobs automate Security Exposure Management operations to ensure that exposure data is kept current and accurate.
 
-**Parent Topic:**[[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
+**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-reference.md)
 
-## Related
-
-- [[sem-new-roles-installed|Security Exposure Management Workspace Roles]]
-- [[sem-new-tables-installed|Security Exposure Management Workspace Tables]]
-- [[sem-new-scheduledjobs-installed|Security Exposure Management Workspace Scheduled Jobs]]
-- [[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mapping-logrhythm|Mapping]]

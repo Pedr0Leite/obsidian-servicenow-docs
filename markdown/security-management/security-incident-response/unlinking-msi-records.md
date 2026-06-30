@@ -14,19 +14,19 @@ breadcrumb: [Use, Major Security Incident Management, Security Incident Response
 
 # Unlink records from Major Security Incident
 
-Using the [[msim-workspace|Major Security Incident Management workspace]], unlink the major security incident records from the Linked Records section.
+Using the Major Security Incident Management workspace, unlink the major security incident records from the Linked Records section.
 
 ## Before you begin
 
 Role required: sn\_msi.workspace\_manager and sn\_msi.workspace\_responder
 
-**Note:** You can only unlink a single record at a time. After you unlink a record, the related rolled up information will be removed from the Incident Impact and [[threat-intel-landing-page|Threat Intelligence]] sections on the workspace and the action can't be undone.
+**Note:** You can only unlink a single record at a time. After you unlink a record, the related rolled up information will be removed from the Incident Impact and Threat Intelligence sections on the workspace and the action can't be undone.
 
 For more information on roll up records, see [Rollup Framework for MSIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/roll-up-framework-for-major-security-incident-management.md).
 
 ## Procedure
 
-1.  Navigate to **Major [[sir-landing-page|Security Incident Response]]** &gt; **MSIM Workspace**.
+1.  Navigate to **Major Security Incident Response** &gt; **MSIM Workspace**.
 
 2.  Navigate to **Lists** view, which is displayed in the left pane of the workspace.
 
@@ -80,8 +80,3 @@ For more information on roll up records, see [Rollup Framework for MSIM](https:/
 
 [Configure Rollup Records in Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/roll-up-record-configuration-in-major-security-incident-management.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-landing-page|Security Incident Response]]

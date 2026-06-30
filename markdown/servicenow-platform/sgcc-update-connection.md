@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Update a connection for a Service Graph Connector in SGC Central
 
-Update a connection configured for a Service Graph Connector within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+Update a connection configured for a Service Graph Connector within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 ## Before you begin
 
@@ -43,10 +43,5 @@ Role required: SGC-admin or admin
 
 ## What to do next
 
-If there are any errors and the Service Graph Connector diagnosis skill is enabled, you can diagnose the error using Now Assist. To learn more, see [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]];
+If there are any errors and the Service Graph Connector diagnosis skill is enabled, you can diagnose the error using Now Assist. To learn more, see [Diagnose a processing error in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-diagnose-proc-errors.md);
 
-## Related
-
-- [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

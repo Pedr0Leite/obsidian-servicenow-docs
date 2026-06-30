@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Send email to remind users to enroll for Password Reset
 
-You can automatically send messages that remind users to enrolled in the [[password-reset-landing-page|Password Reset]] process. You specify the text of the message and can configure the messages to repeat at intervals.
+You can automatically send messages that remind users to enrolled in the Password Reset process. You specify the text of the message and can configure the messages to repeat at intervals.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
-The default [[email|email]] content is:
+The default email content is:
 
 -   Subject: Reminder: Enroll in the Password Reset program
 -   Body: Click here to enroll in the Password Reset program.
@@ -35,7 +35,7 @@ To customize the email, see [Customize the Password Reset enrollment reminder em
 
 2.  Click the **Enrollment Reminder** tab, configure the following settings, and then click **Update**.
 
-    **Note:** The tab appears only when the **Password reset** [[check-box|check box]] is selected.
+    **Note:** The tab appears only when the **Password reset** check box is selected.
 
 <table id="table_ocm_jbg_wbb"><thead><tr><th>
 
@@ -113,8 +113,3 @@ Date and time to send the first message. Click the calendar button to specify th
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]
-- [[check-box|Check box]]

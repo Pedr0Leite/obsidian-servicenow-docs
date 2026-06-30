@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cl
 
 # Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline
 
-You can process the release request from the [[csc-home|Cloud Services Catalog]] workflow with Azure DevOps for end-to-end automation of the development process, including provisioning the resources, and deploying and monitoring the applications.
+You can process the release request from the Cloud Services Catalog workflow with Azure DevOps for end-to-end automation of the development process, including provisioning the resources, and deploying and monitoring the applications.
 
 The Azure DevOps and Continuous Integration-Continuous Deployment \(CI-CD tool\) pipeline integration is a release deployment process. You can use Cloud Services Catalog and the CI-CD tool to manage the deployed resources in Configuration Management Database \(CMDB\), directly through flows and actions.
 
@@ -32,15 +32,15 @@ By using the Azure DevOps pipelines with Cloud Services Catalog, your organizati
 
 Key steps in integrating Azure DevOps and CI-CD pipeline
 
-1.  Use the [[release-pipelines-and-azure-devops-by-cloud-services-catalog|release pipelines and Azure DevOps by Cloud Services Catalog]].
-2.  [[setting-up-azure-devops-console|Set up the Microsoft Azure DevOps console]].
-3.  [[running-discovery-on-ado-config-provider|Run Discovery on Azure DevOps config provider]].
-4.  [[azure-devops-pipeline-flow|Order a Microsoft Azure DevOps catalog item]].
+1.  Use the release pipelines and Azure DevOps by Cloud Services Catalog.
+2.  Set up the Microsoft Azure DevOps console.
+3.  Run Discovery on Azure DevOps config provider.
+4.  Order a Microsoft Azure DevOps catalog item.
 
 -   **[Release pipelines and Azure DevOps by Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/release-pipelines-and-azure-devops-by-cloud-services-catalog.md)**  
 Azure DevOps has release pipelines, such as the Continuous Integration-Continuous Deployment \(CI-CD\) pipelines, that offer a build, test, and deploy approach. You can use these fully automated processes to rapidly deploy build requests to the production environment.
 -   **[Set up the Microsoft Azure DevOps console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/setting-up-azure-devops-console.md)**  
-Set up the Microsoft Azure DevOps console as the first step before you run [[r-discovery|Discovery]] and order a catalog item in the Cloud Services Catalog application.
+Set up the Microsoft Azure DevOps console as the first step before you run Discovery and order a catalog item in the Cloud Services Catalog application.
 -   **[Run Discovery on Azure DevOps config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/running-discovery-on-ado-config-provider.md)**  
 Add the Azure DevOps config provider and run Discovery to discover all projects, pipelines, and pipeline variables in an organization by using the Cloud Services Catalog application.
 -   **[Order a Microsoft Azure DevOps catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/azure-devops-pipeline-flow.md)**  
@@ -48,11 +48,3 @@ Provision the Microsoft Azure DevOps catalog by using the Microsoft Azure DevOps
 
 **Parent Topic:**[Configuring Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/configuring-csc.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[release-pipelines-and-azure-devops-by-cloud-services-catalog|Release pipelines and Azure DevOps by Cloud Services Catalog]]
-- [[setting-up-azure-devops-console|Set up the Microsoft Azure DevOps console]]
-- [[running-discovery-on-ado-config-provider|Run Discovery on Azure DevOps config provider]]
-- [[azure-devops-pipeline-flow|Order a Microsoft Azure DevOps catalog item]]
-- [[r-discovery|Discovery]]

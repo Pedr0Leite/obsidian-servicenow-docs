@@ -14,7 +14,7 @@ breadcrumb: [Alert impact calculation, Manage and monitor alerts, Configuring Ev
 
 # View an alert impact on CIs in a service map
 
-You can view service maps to see active alerts for CIs and the relationship between CIs. By viewing this information, you can better understand the source of alerts and take [[ccg-remediation|remediation]] steps. The service map is available for all application services.
+You can view service maps to see active alerts for CIs and the relationship between CIs. By viewing this information, you can better understand the source of alerts and take remediation steps. The service map is available for all application services.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ You can open a service map from these places:
 
 1.  Open an application service map:
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Services** &gt; **Application Services**.
+    1.  Navigate to **Event Management** &gt; **Services** &gt; **Application Services**.
     2.  Next to the service, click **View Map**.
 2.  Do one or more of the following.
 
@@ -132,7 +132,3 @@ In the topology, right-click the CI, and then select **Remediation options**.
 
 [Understand Service Maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/Understand-Service-Maps.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

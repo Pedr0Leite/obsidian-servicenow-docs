@@ -28,7 +28,7 @@ Cases in these states can be proposed as a major case candidate:
 
 Cases that are Resolved, Closed, or Canceled can’t be proposed as a major case candidate.
 
-When proposing a case as a major case candidate, agents can specify the reason or justification for the case in the Propose Major Case pop-up window. Information provided in the **Work notes** and **Business Impact** fields are added to the [[r_CustomerServiceCaseForm|Case form]].
+When proposing a case as a major case candidate, agents can specify the reason or justification for the case in the Propose Major Case pop-up window. Information provided in the **Work notes** and **Business Impact** fields are added to the Case form.
 
 The major issue manager role receives a notification email when a case is proposed as a major case candidate. These users can select the link in the notification email to open the major case candidate in the platform interface.
 
@@ -50,6 +50,4 @@ The major issue manager role receives a notification email when a case is propos
 
     An entry is added to the **Work notes** on the Case form that the case was proposed as a major case candidate. The information entered in the Propose Major Case pop-up window is also added to the Case form.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

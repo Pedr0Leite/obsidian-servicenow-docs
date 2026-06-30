@@ -20,7 +20,7 @@ Use input attributes to define the appearance and set limitations on your inputs
 
 ## General attribute
 
-You can use this attribute with any [[parameter-input-screen|input form screen]], regardless of the input type.
+You can use this attribute with any input form screen, regardless of the input type.
 
 <table id="table_s1p_pcy_2qb"><thead><tr><th>
 
@@ -44,7 +44,7 @@ DataSourceId
 
 </td><td>
 
-Define this attribute whenever you create a data source mechanism to load input values. For more information, see [[data-sources|Data sources]].**Note:**
+Define this attribute whenever you create a data source mechanism to load input values. For more information, see [Data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-sources.md).**Note:**
 
 This attribute is not supported with signature inputs.
 
@@ -92,7 +92,7 @@ Use attachment inputs to enable users to attach files in an input form screen. A
     -   on-site via a camera
     -   from the user’s phone gallery
     -   from the user’s file system
-    In the Input attribute record, select `HiddenAttachmentSources`. Select either `camera`, `files` or `gallery`, from the **Value** field and then select **Save**. Repeat the process if you want to include more than one attachment source. For more information, see [[attachment-source-define|Define attachment sources available to users]].
+    In the Input attribute record, select `HiddenAttachmentSources`. Select either `camera`, `files` or `gallery`, from the **Value** field and then select **Save**. Repeat the process if you want to include more than one attachment source. For more information, see [Define attachment sources available to users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/attachment-source-define.md).
 
 <table id="table_qyx_sfg_zdc"><thead><tr><th>
 
@@ -141,7 +141,7 @@ Description
 Used only for configuring multi-scanning and multiple groups of barcodes. Sets the maximum number of barcodes that a user can scan at a time. For example, you can set the value to `5` to enable users to rescan 5 times.**Note:** Use this attribute for multi-scan barcode inputs only. If your barcode input is intended for single scans, no attribute is required.
 
 </td></tr></tbody>
-</table>For information about creating an input form screen with barcode inputs, see [[single-multi-barcode-input-config|Configure input form screens with single and multi-scan barcode inputs]] and [[config-grouped-scan-barcode-inputs|Configure input form screens with grouped scan barcode inputs]].
+</table>For information about creating an input form screen with barcode inputs, see [Configure input form screens with single and multi-scan barcode inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/single-multi-barcode-input-config.md) and [Configure input form screens with grouped scan barcode inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-grouped-scan-barcode-inputs.md).
 
 ## Boolean inputs
 
@@ -290,11 +290,11 @@ Defines the query used for search. The value can be `starts_with` or `contains`.
 
 Use custom map inputs to add a link to an indoor map in your mobile app. Users can use these maps to get directions to and reserve resources such as desks, meeting rooms, or lockers.
 
- Admins can also [[sg-config-parametrized-data-item|configure a parametrized data item]] with query conditions that enable sorting and filtering of the custom map input.
+ Admins can also configure a parametrized data item with query conditions that enable sorting and filtering of the custom map input.
 
  **Important:**
 
-Custom map inputs that support parametrized [[sg-data-item|data items]] must only use the **ScreenId** attribute. Don't use any other type of attribute for custom map inputs that support parametrized data items.
+Custom map inputs that support parametrized data items must only use the **ScreenId** attribute. Don't use any other type of attribute for custom map inputs that support parametrized data items.
 
 If you're modifying an existing custom map input that uses the advanced reference qualifier to use a parametrized data item, use the **ScreenId** attribute only and remove all other attributes.
 
@@ -305,7 +305,7 @@ If you're modifying an existing custom map input that uses the advanced referenc
 </td></tr></tbody>
 </table>You can use these attributes with custom map inputs.
 
-**Note:** You can add the custom map input type to your mobile app by using [[mab-concept|Mobile App Builder]], but you must configure the attributes in the platform web UI of your instance.
+**Note:** You can add the custom map input type to your mobile app by using Mobile App Builder, but you must configure the attributes in the platform web UI of your instance.
 
 <table id="table_w3f_lh4_c5b"><thead><tr><th>
 
@@ -410,9 +410,9 @@ The time zone of the mobile device where the input is being added. The value mus
 
  YYYY-MM-DD hh:mm:ss
 
- For information about setting up the IncludeTimezone attribute of date/time inputs for different action types, see [[datetime-input-setup-4-action-items|Date/time input setup for different action item types]].
+ For information about setting up the IncludeTimezone attribute of date/time inputs for different action types, see [Date/time input setup for different action item types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/datetime-input-setup-4-action-items.md).
 
- For information about action item types, see [[sg-studio-create-action-item|Configure an action item]].
+ For information about action item types, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 </td></tr><tr><td>
 
@@ -474,7 +474,7 @@ Use number inputs to enable your users to enter numerical values. Define optiona
 </td></tr></tbody>
 </table>To add additional elements to the number inputs, you can use the input attributes listed in the table. From the **Inputs attributes** field select **New** for each attribute you want to add.
 
-**Note:** The **Translated value attribute** toggle is only relevant when selecting the Decoration input attribute. The Decoration input attribute is relevant for the slider Render type. For more information see, [[configure-slider|Configure a slider option for a number input]].
+**Note:** The **Translated value attribute** toggle is only relevant when selecting the Decoration input attribute. The Decoration input attribute is relevant for the slider Render type. For more information see, [Configure a slider option for a number input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-slider.md).
 
 <table id="table_qmz_d1r_b4b"><thead><tr><th>
 
@@ -539,7 +539,7 @@ Displays the input as slider value and a box input. For more information about s
 \[Omitted image "ifs-slider-float-step-size.png"\] Alt text: The render type called slider showing an input called Weight of package in kilograms with a value of 44.25.
 
 
-**Note:** For a table showing which attributes can be used with which render type, see [[number-compatible-input-attributes|Number render types and compatible input attributes]].
+**Note:** For a table showing which attributes can be used with which render type, see [Number render types and compatible input attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/number-compatible-input-attributes.md).
 
 </td></tr><tr><td>
 
@@ -552,7 +552,7 @@ Displays the input as slider value and a box input. For more information about s
 Can be set to either `true` or `false`. It's set to `false` by default, which means that by default the associated UI rule validation is run on the hidden inputs. Only set this to `true` when you want to skip the validation on hidden inputs.
 
 </td></tr></tbody>
-</table>The following input attributes listed in this table apply only to the slider render type. For more information, see [[slider-input-attributes|Slider types and their input attributes]].
+</table>The following input attributes listed in this table apply only to the slider render type. For more information, see [Slider types and their input attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/slider-input-attributes.md).
 
 <table id="table_lx5_npt_bgc"><thead><tr><th>
 
@@ -570,7 +570,7 @@ Description
 
 The value displayed when the user first views the slider. If no value is entered, the value displayed is zero. The default value must be between the min and max values.
 
- **Note:** This defined value is the the starting point, unless a loading mechanism, which takes priority, is configured. See, [[loading-mechanisms|Loading mechanisms for input form screens]].
+ **Note:** This defined value is the the starting point, unless a loading mechanism, which takes priority, is configured. See, [Loading mechanisms for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/loading-mechanisms.md).
 
 </td></tr><tr><td>
 
@@ -688,7 +688,7 @@ Description
 Sets whether the signature input is opened in a half modal window. You can set the **Value** to `true` or `false`. A value of **true** configures the signature to open in a half modal window.**Note:** If the signature input is configured as the only input on a page and the **isOverlay** attribute is set to `true`, the **isOverlay** attribute is ignored, and the signature input is displayed in the full screen.
 
 </td></tr></tbody>
-</table>For information about creating an input form screen with signature inputs, see [[configure-signature-inputs|Configure input form screens with signature inputs]].
+</table>For information about creating an input form screen with signature inputs, see [Configure input form screens with signature inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-signature-inputs.md).
 
 **Note:** The data source loading mechanism, which uses the **DataSouceId** and **ElementIdentifier** attributes is not compatible with signature inputs.
 
@@ -714,7 +714,7 @@ Use string inputs for text input. You can define a maximum character length for 
 
 ## Screen inputs
 
-Use a screen input to transform a [[list-screen|list screen]] into selectable list input. Users can select multiple list items and perform a write-back operation to the cache.
+Use a screen input to transform a list screen into selectable list input. Users can select multiple list items and perform a write-back operation to the cache.
 
 \[Omitted image "input-screen-form-screen-input.png"\] Alt text: Screen input example in a mobile app.
 
@@ -725,21 +725,3 @@ You can use these attributes with screen inputs.
 |**ScreenId**|Configures the list screen that is used for the selectable list input. The value is the sys\_id of the list screen.|
 |**GetDataFromParent**|Transforms a list screen from a parent screen into the selectable list input. The filters that are applied to the parent list screen are carried over to the screen input. Enter `true` to enable this attribute. By default, it's turned off on the instance.|
 
-## Related
-
-- [[data-sources|Data sources]]
-- [[attachment-source-define|Define attachment sources available to users]]
-- [[single-multi-barcode-input-config|Configure input form screens with single and multi-scan barcode inputs]]
-- [[config-grouped-scan-barcode-inputs|Configure input form screens with grouped scan barcode inputs]]
-- [[datetime-input-setup-4-action-items|Date/time input setup for different action item types]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[configure-slider|Configure a slider option for a number input]]
-- [[number-compatible-input-attributes|Number render types and compatible input attributes]]
-- [[slider-input-attributes|Slider types and their input attributes]]
-- [[loading-mechanisms|Loading mechanisms for input form screens]]
-- [[configure-signature-inputs|Configure input form screens with signature inputs]]
-- [[parameter-input-screen|Input form screen]]
-- [[sg-config-parametrized-data-item|Configure a parametrized data item]]
-- [[sg-data-item|Data items]]
-- [[mab-concept|Mobile App Builder]]
-- [[list-screen|List screen]]

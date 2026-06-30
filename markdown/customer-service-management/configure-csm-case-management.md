@@ -12,7 +12,7 @@ breadcrumb: [Case management, Organize agent workspaces, Configure, Customer Ser
 
 # Configure case management
 
-Configure the [[c_CustomerServiceManagement|Customer Service Management]] features and components that agents and managers use to create and resolve cases.
+Configure the Customer Service Management features and components that agents and managers use to create and resolve cases.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The customer service case is the primary entity of the customer service applicat
 
 Case activities include any action that is taken to resolve an issue. This can include phone calls or emails, knowledge base research, conversations with subject matter experts, and dispatch requests to field service agents, as well as other activities.
 
-From the [[r_CustomerServiceCaseForm|Case form]], an agent can associate and store the related information, such as the customer's name, phone number, and company; account information; product and asset information; service contract and entitlement details, and any associated service level agreements \(SLAs\).
+From the Case form, an agent can associate and store the related information, such as the customer's name, phone number, and company; account information; product and asset information; service contract and entitlement details, and any associated service level agreements \(SLAs\).
 
 **Note:** These steps may also apply to case type configuration.
 
@@ -36,7 +36,7 @@ To configure case management, use the Customer Service guided setup. The guided 
 
 2.  On the Getting Started page of the guided setup, select **Get Started**.
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
 <table id="table_pz1_qqv_llb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-cases-case-tasks-overview|Cases and case tasks]]
+[Cases and case tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-cases-case-tasks-overview.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Cases and case tasks enable agents to capture, track, and resolve customer quest
 
 </td></tr><tr><td>
 
-[[configure-case-form|Configure a Case form view]]
+[Configure a Case form view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-form.md)
 
 </td><td>
 
@@ -64,7 +64,7 @@ The case form displays detailed information about a customer issue or problem. C
 
 </td></tr><tr><td>
 
-[[t_DefineSLAForCustServiceCase|Configure SLA definitions for customer service cases]]
+[Configure SLA definitions for customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_DefineSLAForCustServiceCase.md)
 
 </td><td>
 
@@ -74,59 +74,59 @@ Customer Service Management uses service level agreements \(SLAs\) with customer
 
 </td></tr><tr><td>
 
-[[configure-case-routing-assignment|Configure case routing and assignment]]
+[Configure case routing and assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-routing-assignment.md)
 
 </td><td>
 
-The case routing feature uses matching [[gamification-components-rules|rules]] and assignment rules to identify cases that meet certain conditions and then route those cases to customer service agents.Create matching rules to identify cases and then create assignment rules to route cases to agents.
+The case routing feature uses matching rules and assignment rules to identify cases that meet certain conditions and then route those cases to customer service agents.Create matching rules to identify cases and then create assignment rules to route cases to agents.
 
 </td></tr><tr><td>
 
-[[configure-assignment-workbench|Configure assignment workbench]]
+[Configure assignment workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-assignment-workbench.md)
 
 </td><td>
 
 The assignment workbench uses configurable criteria, such as skills and availability, to evaluate the agents in a selected group and provide an overall ranking. Managers can view these results and select one button to assign a task.To configure the assignment workbench:
 
 -   Create matching criteria.
--   [[create-assignment-wkbench-config|Create an assignment workbench configuration]].
+-   Create an assignment workbench configuration.
 
 
 </td></tr><tr><td>
 
-[[configure-major-issue-management|Configure major issue management]]
+[Configure major issue management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-major-issue-management.md)
 
 </td><td>
 
-Major issue management enables [[customer-communication|customer communication]] for issues that impact a wider audience. Use this feature to proactively identify impacted customers, create cases for these customers, provide information, and manage the resolution process.
+Major issue management enables customer communication for issues that impact a wider audience. Use this feature to proactively identify impacted customers, create cases for these customers, provide information, and manage the resolution process.
 
 </td></tr><tr><td>
 
-[[c_TargetedCommunications|Targeted communications]]
+[Targeted communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_TargetedCommunications.md)
 
 </td><td>
 
-Targeted Communications enables organizations to create and deliver articles and email communications to specific internal and external audiences. It supports targeted recipient [[migration-lists|lists]], optional email notifications, and scheduled publishing to ensure timely and relevant communication.
+Targeted Communications enables organizations to create and deliver articles and email communications to specific internal and external audiences. It supports targeted recipient lists, optional email notifications, and scheduled publishing to ensure timely and relevant communication.
 
 </td></tr><tr><td>
 
-[[configure-special-handling-notes|Configure special handling notes]]
+[Configure special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-special-handling-notes.md)
 
 </td><td>
 
-Use [[c_OnScreenAlerts|special handling notes]] to bring important case information to an agent’s attention. Create a configuration for the Case \[sn\_customerservice\_case\] table and then configure the form layout to display the notes in a pop-up window or a related list.
+Use special handling notes to bring important case information to an agent’s attention. Create a configuration for the Case \[sn\_customerservice\_case\] table and then configure the form layout to display the notes in a pop-up window or a related list.
 
 </td></tr><tr><td>
 
-[[configure-case-action-status|Configure case action status]]
+[Configure case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-action-status.md)
 
 </td><td>
 
-The [[case-action-status-csm-workspace|case action status]] feature enables customer service agents to easily identify cases that need attention and quickly prioritize their work. Visual indicators in the **Action Status** column on the case list highlight case status.
+The case action status feature enables customer service agents to easily identify cases that need attention and quickly prioritize their work. Visual indicators in the **Action Status** column on the case list highlight case status.
 
 </td></tr><tr><td>
 
-[[employee-create-case-for-customer|Create cases as a proxy contact]]
+[Create cases as a proxy contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/employee-create-case-for-customer.md)
 
 </td><td>
 
@@ -134,7 +134,7 @@ The proxy contact role allows employees to create cases on behalf of customers w
 
 </td></tr><tr><td>
 
-[[csm-extension-for-proxy-contacts|Install the CSM Extension for Proxy Contacts]]
+[Install the CSM Extension for Proxy Contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-extension-for-proxy-contacts.md)
 
 </td><td>
 
@@ -142,7 +142,7 @@ The CSM Extension for Proxy Contacts installs the components required to support
 
 </td></tr><tr><td>
 
-[[configure-auto-close-resolved-cases|Configure auto close resolved cases]]
+[Configure auto close resolved cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-auto-close-resolved-cases.md)
 
 </td><td>
 
@@ -150,7 +150,7 @@ Automatically close cases in the Resolved state if customers do not take any act
 
 </td></tr><tr><td>
 
-[[configure-escalation-management|Configure escalation management]]
+[Configure escalation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-escalation-management.md)
 
 </td><td>
 
@@ -158,12 +158,12 @@ Escalating a case or account raises awareness about important customer issues, f
 
 </td></tr><tr><td>
 
-[[configure-case-digests|Configure case digests]]
+[Configure case digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-digests.md)
 
 </td><td>
 
 Case digests enable agents to proactively communicate with customers and internal stakeholders about cases. -   Summaries: while a case is in progress, agents can send periodic case summaries that describe actions taken, next steps, and other case-related information.
--   [[case-digest-post-case-review|Post case reviews]]: when the work on a case has been completed, agents can [[create-case-review-document|create a post case review]] that includes information such as the root cause, mitigation plan, and preventive actions.
+-   Post case reviews: when the work on a case has been completed, agents can create a post case review that includes information such as the root cause, mitigation plan, and preventive actions.
 
 
 </td></tr></tbody>
@@ -171,30 +171,4 @@ Case digests enable agents to proactively communicate with customers and interna
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[configure-case-form|Configure a Case form view]]
-- [[t_DefineSLAForCustServiceCase|Configure SLA definitions for customer service cases]]
-- [[configure-case-routing-assignment|Configure case routing and assignment]]
-- [[configure-assignment-workbench|Configure assignment workbench]]
-- [[configure-major-issue-management|Configure major issue management]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[configure-special-handling-notes|Configure special handling notes]]
-- [[configure-case-action-status|Configure case action status]]
-- [[employee-create-case-for-customer|Create cases as a proxy contact]]
-- [[csm-extension-for-proxy-contacts|Install the CSM Extension for Proxy Contacts]]
-- [[configure-auto-close-resolved-cases|Configure auto close resolved cases]]
-- [[configure-escalation-management|Configure escalation management]]
-- [[configure-case-digests|Configure case digests]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[case-management|Case management]]
-- [[gamification-components-rules|Rules]]
-- [[create-assignment-wkbench-config|Create an assignment workbench configuration]]
-- [[customer-communication|Customer communication]]
-- [[migration-lists|Lists]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[case-digest-post-case-review|Post case reviews]]
-- [[create-case-review-document|Create a post case review]]

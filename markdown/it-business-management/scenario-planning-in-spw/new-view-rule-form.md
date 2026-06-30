@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # View rule form
 
-Learn about the fields of the view rule form. Use this form to define workspace view rules for the form views of new planning item types in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the view rule form. Use this form to define workspace view rules for the form views of new planning item types in Strategic Planning.
 
 <table id="table_hwm_3q3_gqb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Application
 
 </td><td>
 
-This field is automatically set to [[portfolio-planning-app-landing-page|Portfolio Planning]] based on your scope.
+This field is automatically set to Portfolio Planning based on your scope.
 
  If this field shows a different value, then ensure that your ServiceNow instance is in Portfolio Planning scope.
 
@@ -67,7 +67,3 @@ Select one of the following:-   APW Default
 
 [Create workspace view rules for new planning item forms in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-workspace-view-rules-for-planning-item-tables.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

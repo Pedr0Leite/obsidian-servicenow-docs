@@ -14,11 +14,11 @@ breadcrumb: [Override AI Search theming, AI Search in Service Portal, Configurin
 
 # Theming for AI Search in Service Portal
 
-You can customize the look and feel of the AI Search experience in [[c_ServicePortal|Service Portal]] by updating the relevant CSS variables.
+You can customize the look and feel of the AI Search experience in Service Portal by updating the relevant CSS variables.
 
 The following CSS variables control the look and feel of the AI Search features in Service Portal. For more information about AI Search features, see [Using AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/use-ais.md).
 
-You can edit these variables in the **CSS variables** field of a Theme \[sp\_theme\] record. You can also [[configure-onboarding-modals|configure]] these variables with a CSS Include associated with a portal's theme. For more information, see the following topics:
+You can edit these variables in the **CSS variables** field of a Theme \[sp\_theme\] record. You can also configure these variables with a CSS Include associated with a portal's theme. For more information, see the following topics:
 
 -   [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 -   [Create a CSS include to override theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/css-override-ais-theming-sp.md)
@@ -177,7 +177,7 @@ Selected tab underline color.
 
 </td><td>
 
-Color [[c_Filters|Filters]] label.
+Color Filters label.
 
 </td></tr><tr><td>
 
@@ -592,8 +592,3 @@ To learn about configuring settings in EVAM view templates, see [Define an EVAM 
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a CSS include to override theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/css-override-ais-theming-sp.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_Filters|Filters]]

@@ -36,7 +36,7 @@ The Document Management applications allows management of large numbers of docum
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:[[reference|Reference]] Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-document-management.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-document-management.md)
 
 </td><td>
 
@@ -48,6 +48,3 @@ The Document Management applications allows management of large numbers of docum
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[reference|Reference]]

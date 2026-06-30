@@ -16,7 +16,7 @@ breadcrumb: [Work on NDA legal requests, Non-disclosure agreement requests, Use,
 
 As a legal user or fulfiller, update and sync signatory details when the contract submission has failed, or contract document cannot be sent due to incomplete signatory information.
 
-**Note:** If you are [[cncore-use-cmpro|using Contract Management Pro]] version 1.2.1 and the document is stored on your ServiceNow instance, signatories are automatically updated when you send the document for signature or resubmit the contract request.
+**Note:** If you are using Contract Management Pro version 1.2.1 and the document is stored on your ServiceNow instance, signatories are automatically updated when you send the document for signature or resubmit the contract request.
 
 -   **[Resolve the failure to send contract documents for signature \(starting Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-sync-doc-user.md)**  
 Update signatory details in an external contract document when there is a failure in sending the document for signature due to a mismatch between the signatory information in the contract request and the contract document.
@@ -27,6 +27,3 @@ As a legal user or fulfiller, update and synchronize signatory details when send
 
 **Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 
-## Related
-
-- [[cncore-use-cmpro|Using Contract Management Pro]]

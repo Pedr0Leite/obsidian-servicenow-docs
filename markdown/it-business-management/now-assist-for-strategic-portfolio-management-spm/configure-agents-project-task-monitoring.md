@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Strategic Portfolio Management \(SPM\), S
 
 # Configure the Monitor project tasks AI agent in AI Agent Studio
 
-Monitor [[t_CreateAProjectTask|project tasks]] autonomously by configuring the AI agent in the AI Agent Studio.
+Monitor project tasks autonomously by configuring the AI agent in the AI Agent Studio.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: admin or it\_project\_manager
     5.  From the Select channels and status screen, select **Save and test**.
     The agentic workflow trigger defines the events that invoke AI agents for this agentic workflow. The trigger ensures that the AI agents can only start working upon specific key updates to project tasks.
 
-4.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and select the project.
+4.  Navigate to **Workspaces** &gt; **Project Workspace** and select the project.
 
     The admin must enable the project insights generation skill for a specific project and set up a cadence for the project insights email. For more information on how to set up an email cadence, see the [Schedule the project insights email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/email-project-summary-skill-pw.md).
 
@@ -68,7 +68,3 @@ The Monitor project tasks agents are enabled for the selected project.
 
 [Strategic Portfolio Management AI agents for the monitor project tasks agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/na-spm-task-monitoring-usecase.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]

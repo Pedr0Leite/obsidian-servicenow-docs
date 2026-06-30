@@ -22,13 +22,13 @@ Role required: Itil, sn\_incident\_write
 
 ## Procedure
 
-1.  Open the [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open the ITSM Mobile Agent app.
 
 2.  On the **On-call Schedule** tab, tap **Time-off requests**.
 
     A list of time-off requests is displayed. The list is divided into pending and completed requests.
 
-3.  Tap the filter icon \(\[Omitted image "filter-[[settings-mobile|settings]].png"\] Alt text: Filter icon.\) to view specific time-off requests.
+3.  Tap the filter icon \(\[Omitted image "filter-settings.png"\] Alt text: Filter icon.\) to view specific time-off requests.
 
 4.  Tap the menu icon \(\[Omitted image "inveted-menu-ocs.png"\] Alt text: Menu icon.\) and select **Request time-off**.
 
@@ -41,7 +41,4 @@ Role required: Itil, sn\_incident\_write
     -   Notes
 6.  Tap **Submit**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[settings-mobile|Settings]]

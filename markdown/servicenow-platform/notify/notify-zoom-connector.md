@@ -14,7 +14,7 @@ breadcrumb: [Exploring Notify, Notify, Manage service capabilities, Extend Servi
 
 # Notify Zoom connector
 
-The Notify Zoom Connector expands the [[notify-landing-page|Notify]] communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
+The Notify Zoom Connector expands the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
 
 ## Compatibility
 
@@ -38,6 +38,3 @@ New York and later.
 
 **Parent Topic:**[Exploring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/exploring-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

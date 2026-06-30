@@ -23,7 +23,7 @@ Select investment currency as an additional currency, which can be different fro
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -77,6 +77,3 @@ Edit investment currency modal is displayed with options to select investment cu
 
 Activate and run a the **Update multi-currency fields to investment currency for existing demands and projects** scheduled job to reflect the investment currenct configuration. For more information on how to activate and schedule this job, see [Activate scheduled job to populate to multicurrency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/multi-currency-scheduled-job-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

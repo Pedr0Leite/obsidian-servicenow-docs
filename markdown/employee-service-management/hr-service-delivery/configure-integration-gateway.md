@@ -14,7 +14,7 @@ breadcrumb: [Configure ESM framework, Enterprise Service Management Integrations
 
 # Create a subflow using Template Integration Gateway
 
-Use the Template Integration Gateway as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to create the supported [[flows-ukg|subflows]] for Integration Gateway.
+Use the Template Integration Gateway as a reference to create the supported subflows for Integration Gateway.
 
 ## Before you begin
 
@@ -51,7 +51,4 @@ Role required: flow\_designer, sn\_hr\_integr\_fw.admin
     2.  Click **Run Test**.
     Verify if the outputs or results generated are correct. Validate if the correct subflow has been run.
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[flows-ukg|Subflows]]

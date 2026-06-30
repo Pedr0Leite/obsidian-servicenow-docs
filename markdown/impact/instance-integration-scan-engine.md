@@ -14,7 +14,7 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 Scan Engine integrates with other ServiceNow instances and external agile systems to synchronize definitions, manage exception reasons, create user stories, and enforce governance over app deployments.
 
-Scan Engine has the ability to integrate with your other environments running [[impact-landing-page|Impact]] so that you can:
+Scan Engine has the ability to integrate with your other environments running Impact so that you can:
 
 -   Compare technical debt across instances
 -   Sync custom definitions across instances
@@ -33,7 +33,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[definitions-integrations|Definitions integration]]
+[Definitions integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/definitions-integrations.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Allows users to synchronize definition overrides and custom definitions between 
 
 </td></tr><tr><td>
 
-[[exception-reason-integration|Exception reason integration]]
+[Exception reason integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/exception-reason-integration.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Allows users to synchronize definition overrides and custom definitions between 
 
 </td></tr><tr><td>
 
-[[user-story-integration-properties|User story integration]]
+[User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Creates tasks for findings from a ServiceNow instance to:-   ServiceNow producti
 
 </td></tr><tr><td>
 
-[[deployment-sync-integrations|Deployment and synchronization integrations]]
+[Deployment and synchronization integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/deployment-sync-integrations.md)
 
 </td><td>
 
@@ -73,10 +73,10 @@ Creates tasks for findings from a ServiceNow instance to:-   ServiceNow producti
 
 Most integrations share the same foundational setup. Complete the following before configuring any specific integration.
 
--   [[task-create-integration-user|Create an integration user account]] in development and production environments.
--   [[register-your-instance|Register your instance]]: Register each participating instance in the My SN Instances table. Only one instance in your stack may be designated as Production.
--   Configure authentication using Basic or OAuth. OAuth is strongly recommended for all production environments. See [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]] and [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]] or [[configure-basic-auth-method|Configure the Basic authentication method]] for details.
--   [[validate-instance-connection|Validate your instance connection]]: Validate each instance connection using the **Validate Connection** action on each My SN Instances record.
+-   [Create an integration user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/task-create-integration-user.md) in development and production environments.
+-   [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md): Register each participating instance in the My SN Instances table. Only one instance in your stack may be designated as Production.
+-   Configure authentication using Basic or OAuth. OAuth is strongly recommended for all production environments. See [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md) and [Configure the OAuth authentication method production instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method-prod.md) or [Configure the Basic authentication method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-basic-auth-method.md) for details.
+-   [Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md): Validate each instance connection using the **Validate Connection** action on each My SN Instances record.
 
 **Note:** Azure DevOps and the Other integration type authenticate via Basic auth records and API tokens configured directly in Scan Engine Properties, as they do not use My SN Instances. AES/AEMC only requires one My SN Instances record to designate the production controller, with no Authentication Type set.
 
@@ -113,28 +113,12 @@ You can synchronize exception reasons from non-production to Production instance
 The User story integration creates agile tasks and stories directly from Scan Engine finding records in ServiceNow, Jira, Azure DevOps, or any external system.
 -   **[Deployment and synchronization integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/deployment-sync-integrations.md)**  
 The AES/AEMC and Update set integrations control how custom app deployments are governed and how scan results are synchronized across your instance stack.
--   **[[configure-other-integration-options|Configure other integration options]]**  
+-   **[Configure other integration options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-other-integration-options.md)**  
 Configure the Other integration type to create work items in any external system using a custom payload script and basic authentication.
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[initiate-migration-idi|Initiate data migration from IDI]]
+**Previous topic:**[Initiate data migration from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-migration-idi.md)
 
 **Next topic:**[Create an integration user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/task-create-integration-user.md)
 
-## Related
-
-- [[definitions-integrations|Definitions integration]]
-- [[exception-reason-integration|Exception reason integration]]
-- [[user-story-integration-properties|User story integration]]
-- [[deployment-sync-integrations|Deployment and synchronization integrations]]
-- [[task-create-integration-user|Create an integration user account]]
-- [[register-your-instance|Register your instance]]
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]
-- [[configure-basic-auth-method|Configure the Basic authentication method]]
-- [[validate-instance-connection|Validate your instance connection]]
-- [[configure-other-integration-options|Configure other integration options]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[initiate-migration-idi|Initiate data migration from IDI]]
-- [[impact-landing-page|Impact]]

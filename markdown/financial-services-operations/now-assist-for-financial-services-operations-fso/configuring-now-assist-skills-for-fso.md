@@ -19,7 +19,7 @@ Plan and configure your implementation of Now Assist for FSO. Follow the tasks l
 
 -   [Configure Financial Services Operations Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-now-assist-skills.md)
 
-    Configure Now Assist skills for [[fso-overview|Financial Services]] Operations to enable AI-powered capabilities such as case summarization, disputes intake, and customer profile summarization.
+    Configure Now Assist skills for Financial Services Operations to enable AI-powered capabilities such as case summarization, disputes intake, and customer profile summarization.
 
 -   [Configure agentic workflows in Financial Services Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configuring-agentic-workflows-in-fso.md)
 
@@ -27,7 +27,7 @@ Plan and configure your implementation of Now Assist for FSO. Follow the tasks l
 
 -   [Configure Financial Services Operations AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-ai-agents.md)
 
-    [[configure-fso-ai-agents|Configure Financial Services Operations AI agents]] for assistance with tasks such as [[work-dispute-ach|resolving ACH disputes]], and requesting support for customer research and interactions.
+    Configure Financial Services Operations AI agents for assistance with tasks such as resolving ACH disputes, and requesting support for customer research and interactions.
 
 
 ## Choosing a language model service provider
@@ -82,8 +82,3 @@ Review the inputs for each skill to see how a skill is used.
 
 [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[configure-fso-ai-agents|Configure Financial Services Operations AI agents]]
-- [[work-dispute-ach|Resolving ACH disputes]]

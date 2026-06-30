@@ -45,7 +45,7 @@ You can view the certificate of completion in the Attachment pane.
 
 6.  To view all the signed contract and the amendment requests associated with the contract repository record, navigate to **Contract requests tab**.
 
-    The [[cncore-expl-ss-nss-contracts|contract and amendment requests]] associated with the contract request is displayed.
+    The contract and amendment requests associated with the contract request is displayed.
 
 7.  To view all the revisions of the contract and amendment documents, navigate to **Contract documents**.
 
@@ -63,6 +63,3 @@ You can view the certificate of completion in the Attachment pane.
 
 **Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-amend-landing.md)
 
-## Related
-
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]

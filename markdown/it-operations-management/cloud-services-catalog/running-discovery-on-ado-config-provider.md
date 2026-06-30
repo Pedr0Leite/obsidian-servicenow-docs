@@ -14,7 +14,7 @@ breadcrumb: [Integrating Azure DevOps and CI-CD tool, Configuring Cloud Services
 
 # Run Discovery on Azure DevOps config provider
 
-Add the Azure DevOps config provider and run [[r-discovery|Discovery]] to discover all projects, pipelines, and pipeline variables in an organization by using the [[csc-home|Cloud Services Catalog]] application.
+Add the Azure DevOps config provider and run Discovery to discover all projects, pipelines, and pipeline variables in an organization by using the Cloud Services Catalog application.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ You can now order an Azure DevOps catalog item from the Azure DevOps catalog ord
 
 **Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-azure-devops-and-cicd-pipeline.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[csc-home|Cloud Services Catalog]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog scoping
 
-Scoping support is available to define the limits of entities in [[service-catalog|Service Catalog]].
+Scoping support is available to define the limits of entities in Service Catalog.
 
 -   A catalog can have categories from different scopes.
 -   A category can only be in the same scope as its parent category.
@@ -25,15 +25,10 @@ Scoping support is available to define the limits of entities in [[service-catal
 -   Catalog client scripts can only be in the same scope as the catalog item or variable set.
 -   Catalog data lookup can only be in the same scope as the catalog item or variable set.
 -   The rule base of an order guide can have items from different scopes.
--   The scope of the [[c_RecordProducer|record producer]] and the target table should be the same.
+-   The scope of the record producer and the target table should be the same.
 
 -   **[Scriptable service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ScriptableServiceCatalogVariables.md)**  
-You can use scripting to [[reference|reference]] any request item variable from a table in scoped and non-scoped environment.
+You can use scripting to reference any request item variable from a table in scoped and non-scoped environment.
 
 **Parent Topic:**[Configuring Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[reference|Reference]]

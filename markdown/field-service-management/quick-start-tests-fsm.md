@@ -12,9 +12,9 @@ breadcrumb: [Activate, Configure, Field Service Management]
 
 # Quick start tests for Field Service Management
 
-Validate that [[fsm-application-landing-page|Field Service Management]] still works after you make any configuration change, such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Field Service Management still works after you make any configuration change, such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-Field Service Management quick start tests are available when you enable the Field Service Management plugin \(com.snc.work\_management\). Enable the demo data plugin \(com.snc.work\_management.demo\) in a non-production instance to start using the quick start tests available with your application. [[activate-contractor-management-plugin|Activate Field Service Contractor Management]] plugin \(com.snc.fsm\_contractor\_management\) to execute the External contractor related tests. You can also modify existing data and customize it to run the quick tests.
+Field Service Management quick start tests are available when you enable the Field Service Management plugin \(com.snc.work\_management\). Enable the demo data plugin \(com.snc.work\_management.demo\) in a non-production instance to start using the quick start tests available with your application. Activate Field Service Contractor Management plugin \(com.snc.fsm\_contractor\_management\) to execute the External contractor related tests. You can also modify existing data and customize it to run the quick tests.
 
 <table id="table_agf_nfg_h1c"><thead><tr><th>
 
@@ -35,9 +35,9 @@ FSM: Create Initiate Qualify Dispatch and assign Work Order Task
 </td><td>
 
 -   Create a work order.
--   Initiate and [[c_QualifyWorkOrders|qualify a work order]].
+-   Initiate and qualify a work order.
 -   Dispatch a work order.
--   [[t_AssignATask|Assign a work order task]] to an agent.
+-   Assign a work order task to an agent.
 
 </td><td>
 
@@ -50,7 +50,7 @@ FSM: Part Sourcing
 </td><td>
 
 -   Source any part to an agent's stock room from the work order task.
--   [[create-transfer-order|Create a transfer order]] line for the part sourcing.
+-   Create a transfer order line for the part sourcing.
 -   Use this part for any work order to consume it using the **Part Usage** action.
 
 </td><td>
@@ -108,7 +108,7 @@ New York
 
 </td></tr><tr><td>
 
-FSM: [[appointment-booking|Appointment Booking]] Configuration
+FSM: Appointment Booking Configuration
 
 </td><td>
 
@@ -156,7 +156,7 @@ Orlando
 
 </td></tr><tr><td>
 
-FSM: [[dynamic-scheduling|Dynamic Scheduling]] - Preferred Technician assignment with mandatory parts reservation
+FSM: Dynamic Scheduling - Preferred Technician assignment with mandatory parts reservation
 
 </td><td>
 
@@ -259,7 +259,7 @@ FSM: Dynamic Scheduling - Assign technician with matching skills
 
 </td><td>
 
-With Dynamic Scheduling: Verify that a work order task is assigned to a technician who possesses all [[mandatory-skills|mandatory skills]] mentioned in the task.
+With Dynamic Scheduling: Verify that a work order task is assigned to a technician who possesses all mandatory skills mentioned in the task.
 
 </td><td>
 
@@ -306,7 +306,7 @@ San Diego
 
 </td></tr><tr><td>
 
-FSM: [[capacity|Capacity]] Scheduling - Assign work to field service agents based on capacity
+FSM: Capacity Scheduling - Assign work to field service agents based on capacity
 
 </td><td>
 
@@ -330,7 +330,7 @@ Tokyo
 
 </td></tr><tr><td>
 
-FSM: [[dispatcher-activities|Dispatcher Workspace]] - Assign crews to work order tasks that require a group of agents to work on them
+FSM: Dispatcher Workspace - Assign crews to work order tasks that require a group of agents to work on them
 
 </td><td>
 
@@ -400,7 +400,7 @@ Yokohama
 
 </td></tr><tr><td>
 
-[[t_CloneAWorkOrderTask|Clone a work order task]]
+Clone a work order task
 
 </td><td>
 
@@ -428,7 +428,7 @@ Australia
 
 </td></tr><tr><td>
 
-[[flag-a-task|Flag a work order task]] from CSM/FSM Configurable workspace
+Flag a work order task from CSM/FSM Configurable workspace
 
 </td><td>
 
@@ -447,17 +447,3 @@ Australia
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[activate-contractor-management-plugin|Activate Field Service Contractor Management]]
-- [[c_QualifyWorkOrders|Qualify a work order]]
-- [[t_AssignATask|Assign a work order task]]
-- [[create-transfer-order|Create a transfer order]]
-- [[appointment-booking|Appointment booking]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[mandatory-skills|Mandatory skills]]
-- [[capacity|Capacity]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[t_CloneAWorkOrderTask|Clone a work order task]]
-- [[flag-a-task|Flag a work order task]]

@@ -12,7 +12,7 @@ breadcrumb: [Chief Information Officer \(CIO\) Dashboard, Executive dashboard ov
 
 # Install the CIO Dashboard
 
-The [[cio-dashboard|Chief Information Officer \(CIO\) Dashboard]] provides a decision-making framework for key decisions, critical questions, and the insights to stay on course and scale your business.
+The Chief Information Officer \(CIO\) Dashboard provides a decision-making framework for key decisions, critical questions, and the insights to stay on course and scale your business.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin, platform\_analytics\_admin, cio\_dashboard\_admin
 -   Security Operations \(SecOps\)
 -   Strategic Portfolio Management \(SPM\)
 
-These professional entitlements include a license for [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+These professional entitlements include a license for Platform Analytics.
 
 These solutions consist of Platform Analytics indicators and associated data collection jobs, used by the metrics on the CIO Dashboard. If you don’t have the prerequisite licenses, the installation proceeds. However, without the required plugins \(found in the application manager\) and applications \(found in the ServiceNow store\) and the underlying data, the dashboard won’t show any relevant metrics. If you have any questions about your licensing and entitlements, consult your account executive.
 
@@ -79,7 +79,4 @@ Applications:
 
     Users must log out and log back in to enable their new roles after the admin assigns them. For more information on user roles, see .
 
-## Related
 
-- [[cio-dashboard|Chief Information Officer \(CIO\) Dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

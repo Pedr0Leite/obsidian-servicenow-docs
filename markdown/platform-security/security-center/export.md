@@ -14,22 +14,16 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 # Export
 
-Discover the data that is commonly exported, and which [[users|users]] do the exporting.
+Discover the data that is commonly exported, and which users do the exporting.
 
-This page displays cards with information on [[ca-metrics|metrics]] related to export. Each card displays a trend line for the following metrics:
+This page displays cards with information on metrics related to export. Each card displays a trend line for the following metrics:
 
 -   Total exports: Total count of table records exported by user.
--   Classified exports: Total count of table records exported, summarized by the [[data-classification|data classification]] assigned to them.
+-   Classified exports: Total count of table records exported, summarized by the data classification assigned to them.
 
 Select the cards to view the individual metrics page with additional details.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-metrics|Metrics]]
-- [[data-classification|Data Classification]]
-- [[security-task-manager|Security Tasks]]

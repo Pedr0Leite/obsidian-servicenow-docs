@@ -36,7 +36,7 @@ Description
 
 </td><td>
 
-[[service-bridge-v2-create-fds-offering-definition|Create an FDS Definition.]]
+[Create an FDS Definition.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-fds-offering-definition.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Define the data that you want to share with your consumer.After you create and p
 
 </td><td>
 
-[[service-bridge-v2-acknowledge-FDS-request|Acknowledge FDS requests and send a sample payload.]]
+[Acknowledge FDS requests and send a sample payload.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-acknowledge-FDS-request.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ After receiving an FDS request from your consumer, acknowledge it and send a sam
 
 </td><td>
 
-[[service-bridge-v2-publish-fds-subscription|Publish subscriptions.]]
+[Publish subscriptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-publish-fds-subscription.md)
 
 </td><td>
 
@@ -70,14 +70,7 @@ After the consumer accepts the subscription, publish it.After the FDS configurat
 </table>**Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[service-bridge-v2-using-foundation-data-sync-for-consumer|Configure inbound foundation data sync as a consumer]]
+[Configure inbound foundation data sync as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync-for-consumer.md)
 
-## Related
-
-- [[service-bridge-v2-create-fds-offering-definition|Create and publish an FDS offering definition]]
-- [[service-bridge-v2-acknowledge-FDS-request|Acknowledge foundation data sync offering request]]
-- [[service-bridge-v2-publish-fds-subscription|Publish a foundation data subscription]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[service-bridge-v2-using-foundation-data-sync-for-consumer|Configure inbound foundation data sync as a consumer]]

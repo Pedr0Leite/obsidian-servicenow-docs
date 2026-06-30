@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-If you don't have the UI Builder application updated to version 28.1, you can still configure the alert notifications by navigating to **All** &gt; **Now Experience Framework** &gt; **Experiences** and then select Service Operations Workspace from the list of UX [[dex-workspace-application-tab|applications]]. You can then select the **alert\_auto\_dismiss\_config** UX page property and customize the script in the **Value** field to configure the alert notifications.
+If you don't have the UI Builder application updated to version 28.1, you can still configure the alert notifications by navigating to **All** &gt; **Now Experience Framework** &gt; **Experiences** and then select Service Operations Workspace from the list of UX applications. You can then select the **alert\_auto\_dismiss\_config** UX page property and customize the script in the **Value** field to configure the alert notifications.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ If you don't have the UI Builder application updated to version 28.1, you can st
 
 2.  In the **Experiences** tab, from the application list, search and select Service Operations Workspace.
 
-3.  Select **View experience [[settings-mobile|settings]]**.
+3.  Select **View experience settings**.
 
 4.  In the Configure alerts section, fill in the following fields:
 
@@ -169,7 +169,3 @@ Select the check box to automatically expand the alert content in the alert noti
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-sow-to-improve-experience.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

@@ -15,13 +15,13 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 # Multi-source service mapping
 
-Multi-source service mapping combines data from multiple [[r-discovery|discovery]] methods to create a single, comprehensive service map that provides complete visibility into your organization's hybrid IT infrastructure.
+Multi-source service mapping combines data from multiple discovery methods to create a single, comprehensive service map that provides complete visibility into your organization's hybrid IT infrastructure.
 
 ## What is multi-source service mapping
 
 Multi-source service mapping enables you to create unified services. You can create unified services combining mapped and unmapped services from different data sources in your CMDB. Instead of managing separate service maps created through different discovery methods, you can add them into a single composite service that represents your organization's interconnected service architecture.
 
-This feature addresses the challenge of managing complex IT environments where a single service instance might be discovered through multiple methods, each providing partial visibility. For example, some components can be discovered through pattern-based top-down discovery, while others are more effectively identified through tag-based [[c_ServiceMappingOverview|Service Mapping]]. Multi-source service mapping brings together data from all available sources to create a complete picture.
+This feature addresses the challenge of managing complex IT environments where a single service instance might be discovered through multiple methods, each providing partial visibility. For example, some components can be discovered through pattern-based top-down discovery, while others are more effectively identified through tag-based Service Mapping. Multi-source service mapping brings together data from all available sources to create a complete picture.
 
 \[Omitted image "unified-service-600px.png"\] Alt text: Unified Service visualization
 
@@ -31,7 +31,7 @@ Multi-source service mapping can combine data from the following sources:
 
 -   **Discovered maps**
 
-    Horizontal or top-down discovery that identifies configuration items \(CI\) and their connections [[using-discovery|using Discovery]] and Service Mapping Patterns. These methods involves running discovery using a MID Server.
+    Horizontal or top-down discovery that identifies configuration items \(CI\) and their connections using Discovery and Service Mapping Patterns. These methods involves running discovery using a MID Server.
 
 -   **Tag-based maps**
 
@@ -89,7 +89,7 @@ The multi-source service-mapping process follows these key phases:
 
 -   **[Creating a unified service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-create-service-instance.md)**
 
-    Service Mapping administrators can access this flow through the [[sm-dashboard|Service Mapping workspace]]. They can search for services based on properties related to the services, such as server tag, or UR and choose the services to unify. They can choose mapped and unmapped services from various types. For example, they can unify a top-down service with a tag-based service. Unmapped services can be added to the unified service and converted to mapped services along the process. A ranking algorithm suggests the top recommendations of services to merge, according to the criteria provided.
+    Service Mapping administrators can access this flow through the Service Mapping workspace. They can search for services based on properties related to the services, such as server tag, or UR and choose the services to unify. They can choose mapped and unmapped services from various types. For example, they can unify a top-down service with a tag-based service. Unmapped services can be added to the unified service and converted to mapped services along the process. A ranking algorithm suggests the top recommendations of services to merge, according to the criteria provided.
 
     **Note:** The feature supports unification of 10 services maximum, by default. Service Mapping administrators can change the limit using the sn\_sm\_scoped\_app.sm.unified\_services.max\_children\_per\_service system property.
 
@@ -114,9 +114,3 @@ To use multi-source service mapping, your ServiceNow instance must have the foll
 -   Service Mapping Plus installed and updated to the latest version.
 -   At least two existing services to unify, or at least two sources of data that are actively updated. If there are no existing services on your instance, choose a method to create the services. For more information, see: [Choose the right method for discovery and mapping application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/choose-mapping-method.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[using-discovery|Using Discovery]]
-- [[sm-dashboard|Service Mapping Workspace]]

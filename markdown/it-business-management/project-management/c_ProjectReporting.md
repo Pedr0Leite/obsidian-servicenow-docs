@@ -14,11 +14,11 @@ breadcrumb: [Using Project Management, Project Management, Project Portfolio Man
 
 # Project reporting
 
-Get an at-a-glance view of projects with reports, the [[c_PortfolioManagerDashboard|portfolio dashboard]], and project views. You can see information such as projects with slipped milestones, graphs of resources by project, and projects listed by percentage complete.
+Get an at-a-glance view of projects with reports, the portfolio dashboard, and project views. You can see information such as projects with slipped milestones, graphs of resources by project, and projects listed by percentage complete.
 
 **Note:** Much of information available on reports, dashboards, and views is customizable. The examples below derive from default settings.
 
-The application provides several global reports, both lists and charts, that show the status of projects at a glance. You can also create custom reports or create reports that can be viewed by certain groups. The following [[c_ProjectApplicationOverview|Project Management]] reports are available in the base system:
+The application provides several global reports, both lists and charts, that show the status of projects at a glance. You can also create custom reports or create reports that can be viewed by certain groups. The following Project Management reports are available in the base system:
 
 -   Active Project Unassigned Tasks 30 Days: list report: list report
 -   Projects \(by priority\): bar chart
@@ -38,7 +38,3 @@ The application provides several global reports, both lists and charts, that sho
 
 [Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting-landing-page.md)
 
-## Related
-
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
-- [[c_ProjectApplicationOverview|Project Management]]

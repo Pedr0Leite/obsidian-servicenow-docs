@@ -14,7 +14,7 @@ breadcrumb: [Understanding the Vulnerability Response Integration with Palo Alto
 
 # Install and configure the Vulnerability Response Integration with Palo Alto Prisma Cloud application
 
-Install the [[vuln-landing-page|Vulnerability Response]] Integration with Palo Alto Prisma Cloud application to use the imported data from Prisma Cloud. Use this data to prioritize and remediate misconfigurations on your assets.
+Install the Vulnerability Response Integration with Palo Alto Prisma Cloud application to use the imported data from Prisma Cloud. Use this data to prioritize and remediate misconfigurations on your assets.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ API URL
 
 </td><td>
 
-URL to [[integrating-threat-intelligence-security-center|integrate]] with the Prisma Cloud.
+URL to integrate with the Prisma Cloud.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,3 @@ Private key to authenticate the access request to the Prisma Cloud.**Note:** You
 
 After you complete the installation, navigate to **Prisma Cloud Integration** &gt; **Configuration** to continue with the configuration.
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[integrating-threat-intelligence-security-center|Integrate]]

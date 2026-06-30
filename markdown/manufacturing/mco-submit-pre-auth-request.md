@@ -18,19 +18,19 @@ Submit a pre-authorization request to confirm whether certain parts, fees, or re
 
 Role required: sn\_dealer\_mgmt.dealer\_service\_advisor
 
-You can only submit a [[mco-use-repair-claim|repair claim]] while the [[mco-pre-auth-request|pre-authorization]] is valid. If the pre-authorization has expired, the system blocks the submission and displays an error message.
+You can only submit a repair claim while the pre-authorization is valid. If the pre-authorization has expired, the system blocks the submission and displays an error message.
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **Catalogs** &gt; **Customer operations** &gt; **Pre-authorization**.
+1.  Navigate to **Dealer Portal** &gt; **Catalogs** &gt; **Customer operations** &gt; **Pre-authorization**.
 
 2.  On the Submit claim case form, fill in the fields.
 
-    For a description of the field values, see [[mco-pre-auth-form|Pre-authorization form]].
+    For a description of the field values, see [Pre-authorization form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-form.md).
 
 3.  Select **Continue**.
 
-    The [[mco-pre-auth-request-use|Pre-authorization request]] number is generated.
+    The Pre-authorization request number is generated.
 
 4.  Select **Add claim jobs**.
 
@@ -40,7 +40,7 @@ You can only submit a [[mco-use-repair-claim|repair claim]] while the [[mco-pre-
     -   Goodwill: Repair services that may be free or discounted at the manufacturer's discretion.
 6.  On the Claim jobs form, fill in the fields.
 
-    For a description of the field values, see [[mco-pre-auth-job-details-form|Pre-authorization job details form]].
+    For a description of the field values, see [Pre-authorization job details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-job-details-form.md).
 
 7.  Select **Save**.
 
@@ -51,14 +51,5 @@ You can only submit a [[mco-use-repair-claim|repair claim]] while the [[mco-pre-
 
 You have successfully submitted your claim for review.
 
-**Note:** The claim is available in the Agents portal for review and approval. After the warranty advisor approves the claim, **Create claim** option is enabled. For more information on create claim, see [[repair-claim-dealer|Repair claim for the dealer]].
+**Note:** The claim is available in the Agents portal for review and approval. After the warranty advisor approves the claim, **Create claim** option is enabled. For more information on create claim, see [Repair claim for the dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-dealer.md).
 
-## Related
-
-- [[mco-pre-auth-form|Pre-authorization form]]
-- [[mco-pre-auth-job-details-form|Pre-authorization job details form]]
-- [[repair-claim-dealer|Repair claim for the dealer]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]

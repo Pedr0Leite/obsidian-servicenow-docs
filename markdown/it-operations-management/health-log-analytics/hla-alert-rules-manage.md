@@ -15,7 +15,7 @@ breadcrumb: [Controlling alert generation, prioritization, and anomaly detection
 
 # Using alert rules to control when Health Log Analytics generates alerts
 
-Alert rules enable you to set conditions that determine when [[hla-landing-page|Health Log Analytics]] \(HLA\) triggers an alert.
+Alert rules enable you to set conditions that determine when Health Log Analytics \(HLA\) triggers an alert.
 
 HLA detects anomalies automatically by learning from your log data. However, some log types need custom alert rules to generate alerts reliably. For more information, see [Alert rules in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-custom-alert-rules.md).
 
@@ -33,6 +33,4 @@ You can define, change, or delete custom alert rules:
 
     Delete a Log Analytics alert rule that you have defined if it’s no longer needed.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

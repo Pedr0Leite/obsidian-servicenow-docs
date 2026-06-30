@@ -26,9 +26,9 @@ The steps you need to complete to access the default access controls auditor sui
 
 ## Procedure
 
-1.  In [[sec-center-v2|Security Center]], select the **Scanner** tab, then select **Suites** from the panel on the left.
+1.  In Security Center, select the **Scanner** tab, then select **Suites** from the panel on the left.
 
-2.  In the **[[sec-center-suites|Scan Suites]]** page, select **Auditor** from the list.
+2.  In the **Scan Suites** page, select **Auditor** from the list.
 
 3.  To review the suite checks, select the **Checks** tab.
 
@@ -53,13 +53,8 @@ The steps you need to complete to access the default access controls auditor sui
     |Run Condition|Conditions that trigger the start of the checks.|
     |Table|The table to which the check belongs.|
     |Conditions|Conditional logic applied to the checks.|
-    |Advanced|Advanced [[sc-configuration|configuration]] options.|
+    |Advanced|Advanced configuration options.|
 
 
 **Parent Topic:**[Create a scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[sec-center-suites|Scan suites]]
-- [[sc-configuration|Configuration]]

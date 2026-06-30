@@ -28,7 +28,7 @@ Each work plan must have at least one or more records associated with it for whi
 
 **Note:** The filtered assets or activities that require work are called matching records in the work plan.
 
-You can also create a work plan through the [[planned-work-management|Planned Work Management]] Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the **List** icon \(\[Omitted image "ListIcon.png"\] Alt text: List icon\).
+You can also create a work plan through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the **List** icon \(\[Omitted image "ListIcon.png"\] Alt text: List icon\).
 
 ## Procedure
 
@@ -84,7 +84,7 @@ Forecast work orders
 
 </td><td>
 
-Option to specify if this work plan is applicable to estimate and generate the upcoming work orders.**Note:** When you check the check box, **[[generate-work-orders|Generate work orders]]** related list appears and you can generate work orders either from a work plan, a work schedule, or a schedule occurrence.
+Option to specify if this work plan is applicable to estimate and generate the upcoming work orders.**Note:** When you check the check box, **Generate work orders** related list appears and you can generate work orders either from a work plan, a work schedule, or a schedule occurrence.
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Specifies the template used for this work plan. The available options are:
 -   **Task plan template**– The work plan creates tasks like cases and incidents based on the linked task plan template. For more information on the creation and usage of task plans, see [Task Plan Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-templates.md).
 **Note:**
 
--   Activate the Task Plan Templates \(com.sn\_task\_plan\_templates\) plugin from the ServiceNow Store and configure the extension point sn\_fsm\_planned\_wm.TaskPlanTemplateOutputTasks to attach task plan templates to the work plan. For more details about the extension point, see [[extension-points-field-service|Extension points in Field Service Management]].
+-   Activate the Task Plan Templates \(com.sn\_task\_plan\_templates\) plugin from the ServiceNow Store and configure the extension point sn\_fsm\_planned\_wm.TaskPlanTemplateOutputTasks to attach task plan templates to the work plan. For more details about the extension point, see [Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md).
 -   You must update the state of the schedule occurrence when the state of the task changes.
 -   You must link the output records \(cases or incidents\) with schedule occurrences because they are not linked automatically. You can link the output records by adding new field in the output record.
 -   The **Template type** field is not available by default. The administrator can configure the form layout to add the **Template type** field.
@@ -216,8 +216,3 @@ Specify what to do when a work plan runs based on a schedule occurrence that is 
 
 After creating a work plan, configure a schedule to the work plan. For more information, see [Configure a work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configure-work-plan.md)
 
-## Related
-
-- [[extension-points-field-service|Extension points in Field Service Management]]
-- [[planned-work-management|Planned Work Management]]
-- [[generate-work-orders|Generate work orders]]

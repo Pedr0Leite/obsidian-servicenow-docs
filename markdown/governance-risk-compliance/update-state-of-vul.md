@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Update the state of the Operational vulnerability
 
-Update the state of the Operational vulnerability record to the **Assessment** or **Treatment** state. At this stage, the vulnerability is being evaluated to determine the best course of action and [[manage-reg-action-tasks|create an action task]] accordingly.
+Update the state of the Operational vulnerability record to the **Assessment** or **Treatment** state. At this stage, the vulnerability is being evaluated to determine the best course of action and create an action task accordingly.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Open the vulnerability record from the list.
 
-    The [[exploring-op-vul|Operational vulnerability]] record is in the **New** state.
+    The Operational vulnerability record is in the **New** state.
 
     \[Omitted image "op-vul-new-state.png"\] Alt text: New state.
 
@@ -40,7 +40,7 @@ Role required: sn\_oper\_res.manager
     -   **Canceled**
     \[Omitted image "new-state-transition.png"\] Alt text: State transition for New state.
 
-    For more information on the state transition model, see [[establish-state-model-record|Set up the State model and Action task model]].
+    For more information on the state transition model, see [Set up the State model and Action task model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/establish-state-model-record.md).
 
 4.  Update the state of the vulnerability record.
 
@@ -60,15 +60,7 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-When the vulnerability record is in the **Assessment** state, the task owner creates an assessment-type action task. For more information, see [[create-action-task-op-vul|Manage an assessment-type action task]].
+When the vulnerability record is in the **Assessment** state, the task owner creates an assessment-type action task. For more information, see [Manage an assessment-type action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-action-task-op-vul.md).
 
-When the vulnerability record is in the **Treatment** state, the task owner creates an investigation-type action task. For more information, see [[update-state-of-action-task|Manage an investigation-type action task]].
+When the vulnerability record is in the **Treatment** state, the task owner creates an investigation-type action task. For more information, see [Manage an investigation-type action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-state-of-action-task.md).
 
-## Related
-
-- [[establish-state-model-record|Set up the State model and Action task model]]
-- [[create-action-task-op-vul|Manage an assessment-type action task]]
-- [[update-state-of-action-task|Manage an investigation-type action task]]
-- [[manage-reg-action-tasks|Create an action task]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a CMDB remediation rule, CMDB Health, Configuration Manageme
 
 # Apply CMDB remediation
 
-Manually initiate a workflow to remediate a CI that failed a [[c_CMDBHealth|CMDB health]] test. For example, you can remediate CIs that are orphan or stale.
+Manually initiate a workflow to remediate a CI that failed a CMDB health test. For example, you can remediate CIs that are orphan or stale.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ CMDB remediation is applied in the [CMDB Workspace store app](https://raw.github
 
 1.  Open either workspace:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**. Then, in the navigation panel, select the Insights icon and in the Insights page navigation panel, select **CMDB Health**.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**. Then, in the navigation panel, select the Insights icon and in the Insights page navigation panel, select **CMDB Health**.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace**, and then in the CMDB Workspace menu bar, select **CMDB Health Dashboard**.
     Ensure that the CMDB Health Dashboard is in **Class** view.
 
@@ -62,7 +62,3 @@ CMDB remediation is applied in the [CMDB Workspace store app](https://raw.github
 
 [Create a CMDB remediation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBRemediationRule.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[sg-workspace|Service Graph Workspace]]

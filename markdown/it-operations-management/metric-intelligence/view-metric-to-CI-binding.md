@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View metric to CI and resource binding
 
-View the metric to CI and resource binding results, including details for failed bindings which you can use to mitigate the failure. If [[operational-metrics|Metric Intelligence]] cannot map and bind a metric to a CI or to a resource, then that CI or resource is not included in anomaly detection until it is properly mapped.
+View the metric to CI and resource binding results, including details for failed bindings which you can use to mitigate the failure. If Metric Intelligence cannot map and bind a metric to a CI or to a resource, then that CI or resource is not included in anomaly detection until it is properly mapped.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ If [resource binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
 ## About this task
 
-Metric Intelligence uses [[create-event-rules|event rules]] to map metric data with the specific CI or resource that is associated with the metric event. The results of these mappings are stored in the Metric to CI Mappings \[sa\_metric\_map\] table. If mapping fails, then the binding status for the metric indicates the general reason for the failure and further details about the failure are provided. Examine the details for a mapping failure and mitigate the problem to improve accurate and effective metric data processing.
+Metric Intelligence uses event rules to map metric data with the specific CI or resource that is associated with the metric event. The results of these mappings are stored in the Metric to CI Mappings \[sa\_metric\_map\] table. If mapping fails, then the binding status for the metric indicates the general reason for the failure and further details about the failure are provided. Examine the details for a mapping failure and mitigate the problem to improve accurate and effective metric data processing.
 
 -   If mapping to a CI is successful, then the mapped CI appears in the **Configuration Item** column. If resource binding was attempted but failed, then the mapped CI does not appear, even if the mapping to a CI was successful. Missing or duplicate CIs can cause CI mapping to fail.
 -   If mapping to a resource is successful, then the mapped resource appears in the **Resource** column. Missing a resource table that is mapped to the CI type to which the event is bound, or a missing **resource\_path** attribute in the event, cause resource binding to fail.
@@ -34,11 +34,11 @@ Records in the CI Mappings \[sa\_metric\_map\] table remain in effect for 24 hou
 -   The 24-hour or 5-day cycle ends.
 -   An event rule has changed — Triggering an immediate expiration of the respective mapping record.
 
-Adjusting mappings to reflect the addition or removal of CIs by [[r-discovery|Discovery]], takes effect only upon the beginning of the next cycle.
+Adjusting mappings to reflect the addition or removal of CIs by Discovery, takes effect only upon the beginning of the next cycle.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Anomaly Detection** &gt; **Metric to CI**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Anomaly Detection** &gt; **Metric to CI**.
 
     The **Metrics to CI Mappings** page appears.
 
@@ -142,7 +142,7 @@ Binding Status
 
 </th><th>
 
-[[ccg-remediation|Remediation]]
+Remediation
 
 </th></tr></thead><tbody><tr><td>
 
@@ -215,10 +215,3 @@ Group **Binding Failure Reason** by **Binding Status** to create a summary repor
 
 [Creating an event rule to map metrics to specific CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/event-rule-bind-metrics-to-ci.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[create-event-rules|Event rules]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]

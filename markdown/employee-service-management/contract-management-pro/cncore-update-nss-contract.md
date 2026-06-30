@@ -24,7 +24,7 @@ Role required: sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to the [[cncore-contract-workspace|contract workspace]] and select the contract request.
+1.  Navigate to the contract workspace and select the contract request.
 
 2.  Modify the request.
 
@@ -39,6 +39,3 @@ Role required: sn\_cm\_core.contract\_user
 
 **Parent Topic:**[Use non-self-served contract request]()
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

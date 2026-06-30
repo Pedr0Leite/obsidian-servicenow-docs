@@ -21,10 +21,10 @@ Enable the Software Bill of Materials \(SBOM\) creation and avoid duplicate SBOM
 Verify the following setup:
 
 -   ServiceNow AI Platform, at least the Utah release
--   [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns is up to date.
+-   Discovery and Service Mapping Patterns is up to date.
 -   CMDB CI Class Models, is up to date.
 -   Visibility Content is up to date.
--   MID Server requirements: 8GB RAM with 4GB JVM and the [[container-image-task|Scan container images]] capability. For more information, see [Scan container images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-task.md)
+-   MID Server requirements: 8GB RAM with 4GB JVM and the Scan container images capability. For more information, see [Scan container images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-task.md)
 
 
 Role required: discovery\_admin
@@ -67,8 +67,3 @@ Role required: discovery\_admin
 
 **Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[container-image-task|Scan container images]]

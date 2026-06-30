@@ -14,7 +14,7 @@ breadcrumb: [Category management in Security Incident Response, Configure, Secur
 
 # Create a security incident category
 
-Create a security incident category to use to classify security incidents in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Create a security incident category to use to classify security incidents in Security Incident Response Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Navigate to **Category Management** &gt; **Category**.
 
@@ -36,7 +36,7 @@ Role required: sn\_si.admin
     |-----|-----------|
     |Sequence|Controls the display order of this category within the **Category** field of the security incident's **Details** tab. Lower sequence numbers appear first.|
     |Inactive|Option for making the category inactive.|
-    |Label|Name for the category to display in the **Category** field of the security incident's **Details** tab. For example, Confidential personal [[identity|identity]] data exposure.|
+    |Label|Name for the category to display in the **Category** field of the security incident's **Details** tab. For example, Confidential personal identity data exposure.|
     |Value|A integer or string value corresponding to the label field. When you select a label, this value is stored in the database.|
     |Dependent value|Any fields on which the category is dependent \(Optional\)|
     |Hint|An optional brief description for this category to identify its usage. For example, `This category is for an security incident with confidential personal identity data exposure.`|
@@ -63,8 +63,3 @@ The newly created category is saved and appears on the Category page.
 
 [Create a security incident subcategory]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]
-- [[identity|Identity]]

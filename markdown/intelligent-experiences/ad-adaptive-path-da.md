@@ -14,15 +14,10 @@ breadcrumb: [Configure, AI Desktop Actions, Enable AI experiences]
 
 Adaptive path desktop actions automatically adjust their behavior based on user context and system conditions. Configure these settings to optimize desktop action performance and user experience across different scenarios.
 
--   **[[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]]**  
+-   **[Install the Google Chrome extension for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-install-browser-extension.md)**  
 Install the ServiceNow Web Automation Chrome extension to the Google Chrome browser. The browser extension enables AI agents to interact with web applications during task execution.
--   **[[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]]**  
+-   **[Configure allowed websites for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-allowed-websites.md)**  
 Specify a list of websites that AI agents configured with adaptive desktop actions are permitted to open and perform tasks.
 
-**Parent Topic:**[[configure-agentic-desktop|Configure AI Desktop Actions]]
+**Parent Topic:**[Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md)
 
-## Related
-
-- [[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]]
-- [[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]]
-- [[configure-agentic-desktop|configure agentic desktop]]

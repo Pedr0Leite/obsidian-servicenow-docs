@@ -14,13 +14,13 @@ breadcrumb: [Using Predictive Intelligence, Predictive Intelligence, Enable AI e
 
 # Reviewing your ML solution training jobs
 
-Use the ML Solutions \(ML Training Jobs view\) module to monitor the training status and progress for [[predictive-intelligence-landing|Predictive Intelligence]] solutions. The module displays training jobs for both user interface and API solutions.
+Use the ML Solutions \(ML Training Jobs view\) module to monitor the training status and progress for Predictive Intelligence solutions. The module displays training jobs for both user interface and API solutions.
 
 ## Background and usage
 
 When you submit an ML solution or ML solution definition for training, it goes to a ServiceNow data center for processing to predict and deliver a data outcome. Depending on the solution size, the training can take hours or sometimes days to complete. The ML Training Jobs view helps you stay on top of all in-progress and completed ML solution training jobs in your instance.
 
-To access this view, you use the admin or ml\_admin role and the following [[now-assist-global-navigation|navigation]] path: **Predictive Intelligence** &gt; **Training Jobs**.
+To access this view, you use the admin or ml\_admin role and the following navigation path: **Predictive Intelligence** &gt; **Training Jobs**.
 
 **Note:** The ML scheduler limits the number of trainings an instance can commit to 50 new ML training requests per instance within a 24 hour window. This excludes scheduled re-training requests. In addition, clustering and similarity updates are also excluded from this limit, even if the new training requests exceed 50 within a 24 hour window.
 
@@ -40,7 +40,3 @@ Select the Solution Name to see the details of the ML solution, as demonstrated 
 
 \[Omitted image "reviewing-ml-solutions-training-jobs3.png"\] Alt text: The ML solution form with details. The Solution Name highlighted here is the same as the one you selected in the previous image.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[now-assist-global-navigation|Navigation]]

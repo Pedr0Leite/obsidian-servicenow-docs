@@ -15,15 +15,15 @@ breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery,
 
 # Create cloud credentials
 
-Create cloud credentials to manage access to cloud-based applications, including Amazon Web Services, Microsoft Azure, and Google Cloud. [[r-discovery|Discovery]] uses these credentials to connect to your cloud provider accounts and discover cloud resources.
+Create cloud credentials to manage access to cloud-based applications, including Amazon Web Services, Microsoft Azure, and Google Cloud. Discovery uses these credentials to connect to your cloud provider accounts and discover cloud resources.
 
 ## Before you begin
 
 Verify the following:
 
 -   You're using the Zurich Patch 8 or later version of the ServiceNow AI Platform.
--   You have installed the [[itom-visibility-landing-page|ITOM Visibility]] plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
--   You have installed the Now Assist for [[r_ITOMApplications|IT Operations Management]] plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
+-   You have installed the ITOM Visibility plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
+-   You have installed the Now Assist for IT Operations Management plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
 -   You're on the Configure IT Operations Management page of the Configuration Console. For more information, see [Access the ITOM Configuration Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/access-itom-config-console-disco.md).
 
 Role required: discovery\_admin
@@ -36,7 +36,7 @@ For more information about cloud provider setup and permissions, see [Discovery 
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **Discovery** &gt; **[[discovery-setup|Discovery Setup]]**.
+1.  Navigate to **Configuration Summary** &gt; **Discovery** &gt; **Discovery Setup**.
 
 2.  Select **Cloud credentials**.
 
@@ -55,11 +55,11 @@ For more information about cloud provider setup and permissions, see [Discovery 
     |[Azure SSH Certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-disc-ssh.md)|SSH certificate credentials for discovering Azure Linux virtual machines. Requires a linked Azure Service Principal credential.|
     |[Cloud Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CloudManagementCredentialsForm.md)|General credentials for cloud management operations.|
     |[CloudFoundry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/pivotal-cloud-foundry.md)|Credentials for Cloud Foundry environments.|
-    |[[google-api-credentials-form|Google API]]|API credentials for Google Cloud services.|
+    |[Google API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/google-api-credentials-form.md)|API credentials for Google Cloud services.|
     |Google Cloud|Credentials for discovering Google Cloud Platform resources.|
     |[IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-cloud-platform-discovery.md)|Credentials for discovering IBM Cloud Platform resources. Requires a SoftLayer API user and key, or a Bluemix API key.|
     |[OpenStack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/openstack-discovery.md)|Credentials for OpenStack cloud environments.|
-    |[[create-oracle-api-credentials|Oracle API]]|API credentials for Oracle Cloud Infrastructure discovery.|
+    |[Oracle API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oracle-api-credentials.md)|API credentials for Oracle Cloud Infrastructure discovery.|
     |[oVirt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/red-hat-virtualization-discovery.md)|Credentials for oVirt virtualization environments.|
     |[VMWare](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vmware-cloud-discovery.md)|Credentials for VMware vCenter cloud environments.|
 
@@ -130,11 +130,3 @@ Enter the sequence in which Discovery tries this credential when it attempts to 
 
 [Get started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/credentials-getting-started.md)
 
-## Related
-
-- [[google-api-credentials-form|Google API Credentials Form]]
-- [[create-oracle-api-credentials|Create Oracle API credentials]]
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[discovery-setup|Discovery setup]]

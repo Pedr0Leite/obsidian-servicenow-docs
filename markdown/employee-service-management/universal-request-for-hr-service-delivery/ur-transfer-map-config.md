@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Configure mappings
 
-Configure the target table and [[field-mappings-sf|field mappings]] to create a department level ticket and to set the fields according to the field mappings.
+Configure the target table and field mappings to create a department level ticket and to set the fields according to the field mappings.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ur\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Administration** &gt; **Mapping Configuration**.
+1.  Navigate to **All** &gt; **Universal Request** &gt; **Administration** &gt; **Mapping Configuration**.
 
 2.  Click **New**.
 
@@ -42,7 +42,3 @@ Define the fields that you want to map between the universal request and the tar
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[field-mappings-sf|Field mappings]]
-- [[ur-landing-limitedaccess|Universal Request]]

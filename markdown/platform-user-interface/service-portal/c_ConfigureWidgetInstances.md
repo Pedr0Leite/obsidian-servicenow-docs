@@ -18,7 +18,7 @@ Create unique instances of widgets by configuring the options for each instance.
 
 ## Before you begin
 
-Create or edit a portal page and add widgets to it. You can also [[configure-onboarding-modals|configure]] the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md).
+Create or edit a portal page and add widgets to it. You can also configure the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md).
 
 Role required: sp\_admin or admin
 
@@ -28,15 +28,15 @@ You can have several instances of the same widget on a page, and each instance o
 
 Adding a widget to a page creates a record on the Widget Instances \[sp\_instance\] table with the following information:
 
--   A [[onboarding-modals-reference|reference]] to the widget
+-   A reference to the widget
 -   A reference to the column of the page where the widget is located
--   The configuration for a widget in the form of pre-defined [[c_FormFields|form fields]] and an **Additional Options** field in JSON format
+-   The configuration for a widget in the form of pre-defined form fields and an **Additional Options** field in JSON format
 
 **Note:** For widgets that do not contain any information by default, you must configure the options for their widget instances before they will appear on a portal page.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration**.
 
 2.  Select **Designer**.
 
@@ -61,9 +61,3 @@ Advanced users can define what options are available for a widget. For more info
 
 **Parent Topic:**[Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_FormFields|Form fields]]
-- [[c_ServicePortal|Service Portal]]

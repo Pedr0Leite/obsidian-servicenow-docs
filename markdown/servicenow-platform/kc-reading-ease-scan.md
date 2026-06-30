@@ -22,7 +22,7 @@ Role required: agent
 
 ## About this task
 
-The Reading Ease scan evaluates the readability of your [[knowledge-center|Knowledge Center]] articles and provides recommendations in the **Article Optimization** panel.
+The Reading Ease scan evaluates the readability of your Knowledge Center articles and provides recommendations in the **Article Optimization** panel.
 
 The configuration and prompt for running the scan follow default settings.
 
@@ -67,6 +67,3 @@ The article meets the readability threshold and no further reading ease findings
 
 **Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/using-now-assist-in-km.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]

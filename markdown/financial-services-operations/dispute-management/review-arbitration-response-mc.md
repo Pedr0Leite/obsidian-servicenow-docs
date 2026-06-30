@@ -20,22 +20,22 @@ Review the arbitration response received from Mastercard and proceed to resolve 
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
-This task displays during one of the possibilities in the [[chargeback-stage|chargeback stage]]:
+This task displays during one of the possibilities in the chargeback stage:
 
 -   An arbitration request is submitted after a pre-arbitration.
 -   Arbitration is initiated directly, skipping pre-arbitration.
 
 Review the ruling from Mastercard and choose whether to resolve the dispute or take further action.
 
-If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -77,7 +77,7 @@ Result
 
 </td><td>
 
-Select this option if you are not happy with the arbitration response from Mastercard. The next task is displayed based on [[financial-adjustments|Financial adjustments]] 2.
+Select this option if you are not happy with the arbitration response from Mastercard. The next task is displayed based on Financial adjustments 2.
 
 For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/financial-adjustments.md).
 
@@ -92,7 +92,7 @@ Select this option if you’re satisfied with the arbitration response and close
 </td></tr></tbody>
 </table>12. Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 
 
 ## What to do next
@@ -101,11 +101,3 @@ The task is marked to closure.
 
 **Parent Topic:**[Chargeback in Mastercard transaction disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage-mastercard.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[chargeback-stage|chargeback stage]]
-- [[card-data-security|Card Data Security]]
-- [[fso-overview|Financial Services]]
-- [[financial-adjustments|financial adjustments]]

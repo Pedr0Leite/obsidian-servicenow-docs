@@ -26,7 +26,7 @@ Role required: sn\_hr\_wfo.admin
 
 2.  Select the coaching icon.
 
-3.  Select **[[exploring-learning-exp|Learning]] Courses** and select **Internal Courses**.
+3.  Select **Learning Courses** and select **Internal Courses**.
 
     You can search courses based on keywords using the **Search courses** field or narrow down the display of the courses based on skills using the **Filter courses by skill** field.
 
@@ -138,6 +138,3 @@ Length of time when the course has to be completed. For example, for a video, it
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Review threat group and MITRE-ATT&amp;CK techniques mapping
 
-Review the threat group and techniques object to object relationship [[mapping-logrhythm|mapping]] information that is imported from the MITRE TAXII collections. This mapping enables you to view the technique group and the corresponding technique mapping.
+Review the threat group and techniques object to object relationship mapping information that is imported from the MITRE TAXII collections. This mapping enables you to view the technique group and the corresponding technique mapping.
 
 ## Before you begin
 
@@ -23,16 +23,16 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Threat Group-MITRE ATT&amp;CK Techniques**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Threat Group-MITRE ATT&amp;CK Techniques**.
 
-2.  Right click the **Source Object** and select **Group By Source Object** to view all the [[attack-patterns|attack patterns]] associated with a threat group.
+2.  Right click the **Source Object** and select **Group By Source Object** to view all the attack patterns associated with a threat group.
 
     The following illustration shows the threat group admin@338 and the various attack patterns adopted by this threat group which are part of the enterprise attack source.
 
     \[Omitted image "mitre-threat-group-technique.gif"\] Alt text: Illustration showing the threat group and technique mapping.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -65,7 +65,7 @@ Role required:
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -83,10 +83,3 @@ Role required:
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[attack-patterns|Attack patterns]]
-- [[data-component|Data Component]]

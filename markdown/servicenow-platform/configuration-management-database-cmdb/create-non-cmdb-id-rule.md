@@ -14,7 +14,7 @@ breadcrumb: [IRE support for non-CMDB tables, CMDB Identification and Reconcilia
 
 # Create an identification rule for a non-CMDB table
 
-To use [[ire|Identification and Reconciliation Engine \(IRE\)]] features with supported non-CMDB tables, you must first create [[c_IdentificationRules|identification rules]] that uniquely identify the table records. Each non-CMDB table can be associated with a single identification rule.
+To use Identification and Reconciliation Engine \(IRE\) features with supported non-CMDB tables, you must first create identification rules that uniquely identify the table records. Each non-CMDB table can be associated with a single identification rule.
 
 ## Before you begin
 
@@ -90,7 +90,7 @@ Search on table
 
 </td><td>
 
-Preset with the [[label|label]] of the table of the associated identifier.
+Preset with the label of the table of the associated identifier.
 
  To create:
 
@@ -99,7 +99,7 @@ Preset with the [[label|label]] of the table of the associated identifier.
 -   A Hybrid identifier entry: Set to another table \(lookup table\) and then do the following steps.
     -   Select **Criterion attributes** from the lookup table.
     -   Add **Hybrid Entry CI Criterion Attributes** from the current table using background scripts, after saving the rule. For more details, see the 'What to do next' section at the end of this task.
- A lookup table should have a [[reference|reference]] to the associated identifier table.
+ A lookup table should have a reference to the associated identifier table.
 
 </td></tr><tr><td>
 
@@ -207,7 +207,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that specifies that the related entry is active.
+Check box that specifies that the related entry is active.
 
 </td></tr><tr><td>
 
@@ -215,7 +215,7 @@ Related table
 
 </td><td>
 
-A related table \(lookup table\) that [[reference-document-management|references]] the record that is being matched.
+A related table \(lookup table\) that references the record that is being matched.
 
 </td></tr><tr><td>
 
@@ -285,11 +285,3 @@ This process requires the admin role.
 
 **Parent Topic:**[IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[label|Label]]
-- [[reference|Reference]]
-- [[check-box|Check box]]
-- [[reference-document-management|References]]

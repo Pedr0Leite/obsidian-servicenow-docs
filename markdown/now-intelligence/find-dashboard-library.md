@@ -12,21 +12,21 @@ breadcrumb: [Explore, Dashboards, Platform Analytics experience, Platform Analyt
 
 # Dashboards in the library
 
-Use [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards to access, organize, and share data in a visual format. Dashboards contain data visualizations, filters, and other visual elements.
+Use Platform Analytics dashboards to access, organize, and share data in a visual format. Dashboards contain data visualizations, filters, and other visual elements.
 
 ## Dashboards overview
 
-On Australia instances, you can find both Core UI dashboards and [[par-workspace|Platform Analytics experience]] dashboards in the Dashboards library.
+On Australia instances, you can find both Core UI dashboards and Platform Analytics experience dashboards in the Dashboards library.
 
-To find [[analytics-center-dashboards|dashboards in Platform Analytics]], navigate to the [[dashboards-glossary|library]] at **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. You can also navigate to this library from other Platform Analytics library pages.
+To find dashboards in Platform Analytics, navigate to the [library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-glossary.md) at **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. You can also navigate to this library from other Platform Analytics library pages.
 
-Library pages like this one include a navigation pane that provides access to the other libraries and the [[user-exp-analytics-landing|Usage Insights]] page. Use it to navigate between the libraries without interrupting your workflow.
+Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
-The configuration of the Dashboards page and the data access depends on the user roles. Users without an admin role have limited capabilities, as compared to the users with an admin role. For more information on the types of admin roles in Platform Analytics, see [[platform-analytics-roles|Platform Analytics roles]]. To know more about the dashboards for users with the admin roles, see [[dashboards-for-admin-users|Dashboards for analytics admins]].
+The configuration of the Dashboards page and the data access depends on the user roles. Users without an admin role have limited capabilities, as compared to the users with an admin role. For more information on the types of admin roles in Platform Analytics, see [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md). To know more about the dashboards for users with the admin roles, see [Dashboards for analytics admins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-for-admin-users.md).
 
-For users without an admin role, the navigation pane provides a direct access only to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [[explore-data-vis-library|Data Visualizations]], and [[your-kpis|Indicators]] from the Platform Analytics library.
+For users without an admin role, the navigation pane provides a direct access only to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), and [Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/your-kpis.md) from the Platform Analytics library.
 
-For information on role-based access for the left navigation pane and Platform Analytics overview page, see [[analytics-center|Roles applicable for Platform Analytics overview page]].
+For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md).
 
 The following example shows what a user can see in the Platform Analytics Dashboards library for users without an admin role.
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-Option for creating dashboards. For more information on creating dashboards, see [[create-db-in-ac|Create a dashboard with the in-line editor]].
+Option for creating dashboards. For more information on creating dashboards, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md).
 
 </td></tr><tr><td rowspan="2">
 
@@ -68,8 +68,8 @@ Option for creating dashboards. For more information on creating dashboards, see
 
 </td><td>
 
-Option for filtering the Dashboards list to display the data based on the following conditions:-   **Bookmarked**: Your bookmarked dashboards. By bookmarking your dashboards, you can find them. For more information about bookmarking dashboards, see [[bookmark-dashboard-ac|Bookmark a Platform Analytics dashboard]].
--   **Certified**: Dashboards that an administrator has certified \(company approved and recommended for use\). For more information, see [[certify-db-ac|Certify a Platform Analytics dashboard]].
+Option for filtering the Dashboards list to display the data based on the following conditions:-   **Bookmarked**: Your bookmarked dashboards. By bookmarking your dashboards, you can find them. For more information about bookmarking dashboards, see [Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md).
+-   **Certified**: Dashboards that an administrator has certified \(company approved and recommended for use\). For more information, see [Certify a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/certify-db-ac.md).
 -   **Owned by me**: Dashboards that you own.
 -   **Recently opened by me**: Dashboards that you recently opened.
 -   **Shared with me**: Dashboards that other users have shared with you.
@@ -80,7 +80,7 @@ Option for filtering the Dashboards list to display the data based on the follow
 
 </td><td>
 
-Available and applied categories for dashboards. As a user with analytics\_categories\_admin role, you can create and customize the categories for the dashboards. For more information on creating dashboard categories, see [[db-categories|Create dashboard categories]].
+Available and applied categories for dashboards. As a user with analytics\_categories\_admin role, you can create and customize the categories for the dashboards. For more information on creating dashboard categories, see [Create dashboard categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/db-categories.md).
 
 </td></tr><tr><td>
 
@@ -172,22 +172,5 @@ List of all dashboards. You can filter and sort the list by Name, Description, V
 Provides direct access to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), and [Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/your-kpis.md) libraries. Depending on your roles, you might have access to the Scheduled Exports library or the Usage Insights dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ac-elements|Exploring Platform Analytics dashboards]]
+</table>**Parent Topic:**[Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md)
 
-## Related
-
-- [[dashboards-glossary|Dashboard terms]]
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[dashboards-for-admin-users|Dashboards for analytics admins]]
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[your-kpis|Managing indicators from the Platform Analytics library]]
-- [[analytics-center|Platform Analytics overview]]
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[bookmark-dashboard-ac|Bookmark a Platform Analytics dashboard]]
-- [[certify-db-ac|Certify a Platform Analytics dashboard]]
-- [[db-categories|Platform Analytics experience dashboard categories]]
-- [[ac-elements|Exploring Platform Analytics dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]

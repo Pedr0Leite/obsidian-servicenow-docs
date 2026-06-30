@@ -22,7 +22,7 @@ Role required: sn\_grc\_metric.admin, sn\_risk.admin, and sn\_compliance.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **Metric data tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics** &gt; **Metric data tasks**.
 
 2.  Open the task for which you want to edit the data.
 
@@ -39,6 +39,3 @@ Role required: sn\_grc\_metric.admin, sn\_risk.admin, and sn\_compliance.admin
 
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

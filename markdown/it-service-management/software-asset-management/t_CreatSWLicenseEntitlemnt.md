@@ -50,12 +50,9 @@ You create software entitlements for both CIs and users from the same License En
 -   **[Create a software user license entitlement for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreateSWUserLicenseEntitlement.md)**  
 You can entitle a user to use one of your software licenses.
 -   **[Entitle a license to a configuration item using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_EntitleLicenConfigItem.md)**  
-Use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to entitle a license to a configuration item, such as a computer or server, or a location, such as a city of building.
+Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to entitle a license to a configuration item, such as a computer or server, or a location, such as a city of building.
 -   **[Entitle a license to a user or location using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_EntitleALicenseToAUser.md)**  
 Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to entitle a license to an individual user.
 
 **Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

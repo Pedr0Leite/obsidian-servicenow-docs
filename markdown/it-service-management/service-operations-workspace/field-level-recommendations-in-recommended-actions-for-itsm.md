@@ -21,10 +21,7 @@ ITSM base system includes the following field level recommendations for incident
 |Service \(Classification\)|Returns Predictive Intelligence based field recommendations. This will give field predictions in the Service field of the current incident.|
 |Assignment group \(Classification\)|Returns Predictive Intelligence based field predictions in the Assignment Group field of the current incident.|
 |Configuration item \(Classification\)|Returns Predictive Intelligence based field predictions in the Configuration item field of the current incident.|
-|Incident Fields value prediction \(TI\)|Returns [[c-itsm-task-intelligence|Task Intelligence for ITSM]] based field predictions in the Service Assignment Group, Configuration item fields of the current incident.|
+|Incident Fields value prediction \(TI\)|Returns Task Intelligence for ITSM based field predictions in the Service Assignment Group, Configuration item fields of the current incident.|
 
 **Parent Topic:**[Recommended Actions for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-reference.md)
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]

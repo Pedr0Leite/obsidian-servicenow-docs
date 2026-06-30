@@ -16,23 +16,23 @@ Create a group list to provide a view of a list of records grouped by a field yo
 
 ## Before you begin
 
-Before you can create a group [[list-screen|list screen]], you must create a data item with a group configuration. For more information on configuring a data item, see [[sg-studio-create-data-item|Configure a standard data item]], and note the optional steps for setting the **Group by** field.
+Before you can create a group list screen, you must create a data item with a group configuration. For more information on configuring a data item, see [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md), and note the optional steps for setting the **Group by** field.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **List** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **List** option in the Create a screen page, and then select **Continue**.
 
 5.  Complete the fields as needed.
 
@@ -42,7 +42,7 @@ Role required: admin
     |Name|The name of your list screen. This name appears as a tile in the mobile application.|
     |Description|Additional information about your list screen.|
     |**Screen Settings**|
-    |Available offline|Option to determine whether the screen is available in [[mobile-offline-mode|offline mode]] or not.|
+    |Available offline|Option to determine whether the screen is available in offline mode or not.|
     |Hide screen name|Option to determine whether the screen name is not shown as the screen header. This is useful if the text already appears in the header name or if it does not provide any value to the user.|
     |Hide filters|Option to prevent the list from displaying a list filter.|
     |Icon|Icon used to represent your list screen when added to a launcher screen.|
@@ -70,7 +70,7 @@ Role required: admin
     |Order|The order in which the segment appears on the screen. Segments display from the lowest to the highest value.|
     |Screen|Displays the list name from the list screen record.|
     |Max number of offline rows|The number of rows displayed for offline viewing.|
-    |Streams|Records that connect [[sg-data-item|data items]] and list item config records to the list screen.|
+    |Streams|Records that connect data items and list item config records to the list screen.|
     |**Interleave sort**|
     |Sort list stream interleave field|Determine whether the list stream interleave field is sorted in ascending or descending order.|
 
@@ -165,7 +165,7 @@ On tap function instance
 
 Determine what actions appear when a user taps on a list item.
 
- Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [[mobile-nav-functions|Navigation functions]].
+ Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-nav-functions.md).
 
  **Note:** This option only appears when **Use a function instance** is selected for **On tap**.
 
@@ -338,7 +338,7 @@ The function used within this function instance.
 </td></tr></tbody>
 </table>23. In the **Function** section, select **Choose** to use a function or select **New** to create one.
 
-    For more information on mobile functions, see [[sg-studio-mobile-button-types|Mobile functions]].
+    For more information on mobile functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 24. Select **Save**.
 
@@ -349,14 +349,3 @@ You now have an screen displaying a list of records, grouped by the field you de
 
 \[Omitted image "GroupedListApplet.png"\] Alt text: Group list screen with items from the incident table grouped by category.
 
-## Related
-
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[mobile-nav-functions|Navigation functions]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-data-item|Data items]]

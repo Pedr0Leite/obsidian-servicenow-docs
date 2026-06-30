@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Workspace, Configuration Management Database \(CMDB
 
 # Configure classes for Cloud vs Non-cloud resources in CMDB Workspace
 
-Include or exclude pairs of **CI Class**/**Type** in the [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] that appears in CMDB Workspace.
+Include or exclude pairs of **CI Class**/**Type** in the Cloud vs Non-cloud resources chart that appears in CMDB Workspace.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ A **CI Class**/**Type** pair appears or doesn't appear according to its **Active
 
 **Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-cmdb-workspace.md)
 
-## Related
-
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]

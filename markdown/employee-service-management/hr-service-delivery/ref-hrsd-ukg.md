@@ -14,15 +14,10 @@ breadcrumb: [HR Service Delivery with Ultimate Kronos Group, Integration of HR S
 
 # Reference - HR Service Delivery with Ultimate Kronos Group
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]], including lists and forms.
+Reference topics provide additional information about the HR Service Delivery with Ultimate Kronos Group, including lists and forms.
 
 -   **[Components installed with HR Service Delivery Integration with Ultimate Kronos Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-ukg-int.md)**  
-Several types of components are installed with activation of the [[hr-service-delivery|HR Service Delivery]] Integration with Ultimate Kronos Group plugin, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Ultimate Kronos Group plugin, including tables and user roles.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]]
-- [[hr-service-delivery|HR Service Delivery]]

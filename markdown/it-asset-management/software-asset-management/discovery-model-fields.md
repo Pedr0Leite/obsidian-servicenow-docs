@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Discovery models fields
 
-Discovery [[c_Models|Models]] form and related list field descriptions.
+Discovery Models form and related list field descriptions.
 
 ## Discovery Models form
 
@@ -121,7 +121,7 @@ For unknown product types, the product type can be changed to another value.
 When the product type is changed, the normalization status of the discovery model is updated to Manually Normalized.
 
 
- The reconciliation process only considers [[sam-software-discovery|software discovery]] models that are licensable.
+ The reconciliation process only considers software discovery models that are licensable.
 
 </td></tr><tr id="row_pqm_mcp_sfb"><td>
 
@@ -172,7 +172,7 @@ Exclude from content service
 
 Option that excludes the software discovery model details from being transferred to the [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md).The value is set on the [custom product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddACustomProduct.md) form.
 
- **Note:** This field is only shown for custom products when you have opted in to the [[c_SAMContentService|Software Asset Management Content Service]].
+ **Note:** This field is only shown for custom products when you have opted in to the Software Asset Management Content Service.
 
 </td></tr></tbody>
 </table>## Additional Information section
@@ -268,8 +268,3 @@ Option that excludes the software discovery model details from being transferred
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_SAMContentService|Software Asset Management Content Service]]

@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Virtual Agent URL parameters
 
-[[virtual-agent-landing-page|Virtual Agent]] provides various system parameters that admins can add to an instance URL to control how page content is rendered.
+Virtual Agent provides various system parameters that admins can add to an instance URL to control how page content is rendered.
 
 ## Virtual Agent URL structure
 
@@ -176,6 +176,3 @@ Specifies the requester's language for the conversation session when Dynamic Tra
 
 [Latency feedback in Virtual Agent]()
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

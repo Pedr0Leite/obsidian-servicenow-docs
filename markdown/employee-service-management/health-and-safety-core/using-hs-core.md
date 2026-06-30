@@ -14,14 +14,14 @@ breadcrumb: [Health and Safety Core, Health and Safety, Employee Service Managem
 
 # Using Health and Safety Core
 
-Learn how the [[hs-core-landing|Health and Safety Core]] data model provides capabilities to manage safety meetings, schedule safety actions, and manage and monitor safety records.
+Learn how the Health and Safety Core data model provides capabilities to manage safety meetings, schedule safety actions, and manage and monitor safety records.
 
 -   **[Managing safety meetings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/managing-hs-safety-meetings.md)**  
 Safety meeting management provides the safety team and safety meeting manager with a structured way to manage safety meetings, including tasks such as scheduling, tracking actions, and recording notes.
 -   **[Scheduling Health and Safety actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/scheduling-health-safety-actions.md)**  
-Use the [[health-safety-overview|Health and Safety]] action scheduler to create and schedule actions across the organization and auto-assign them to specific individuals using the condition builder.
+Use the Health and Safety action scheduler to create and schedule actions across the organization and auto-assign them to specific individuals using the condition builder.
 -   **[Managing safety knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-managing-safety-knowledge-articles.md)**  
-As a safety manager or agent, you can manage safety-related knowledge base articles in the [[health-safety-core-workspace|Health and Safety Workspace]].
+As a safety manager or agent, you can manage safety-related knowledge base articles in the Health and Safety Workspace.
 -   **[Managing safety actions in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-planner.md)**  
 The Action planner sidebar panel in the Health and Safety Workspace enables safety teams to manage actions directly from a Health and Safety record, without navigating away from the page.
 -   **[Add a new Health and Safety related document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/add-hs-related-document.md)**  
@@ -29,8 +29,3 @@ Add and store documents Health and Safety related documents so that they can be 
 
 **Parent Topic:**[Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-core-landing.md)
 
-## Related
-
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

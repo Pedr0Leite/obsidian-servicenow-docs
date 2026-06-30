@@ -15,13 +15,13 @@ breadcrumb: [Explore, Digital Factory Workspace, Industrial Connected Workforce]
 
 # Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management
 
-The ServiceNow Health and Safety Incident Management connects with the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) suite and enables you to report, triage, and eliminate safety incidents directly from the shop floor.
+The ServiceNow Health and Safety Incident Management connects with the Industrial Connected Workforce \(ICW\) suite and enables you to report, triage, and eliminate safety incidents directly from the shop floor.
 
 ## ICW Health and Safety overview
 
-The ICW Health and Safety Integration helps you to reduce recurring incidents and strengthen workplace safety by connecting by connecting safety incident reporting with ICW task flows, standards, and [[industrial-root-cause-analysis|root cause analysis]].
+The ICW Health and Safety Integration helps you to reduce recurring incidents and strengthen workplace safety by connecting by connecting safety incident reporting with ICW task flows, standards, and root cause analysis.
 
-When operators encounter safety-related issues during their work, they can report incidents directly from the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] or ICW Mobile Experience. These incidents can be linked to existing ICW tasks such as actions, deviations, and Industrial Guided Tasks, providing context for investigation and follow-up.
+When operators encounter safety-related issues during their work, they can report incidents directly from the Digital Factory Workspace or ICW Mobile Experience. These incidents can be linked to existing ICW tasks such as actions, deviations, and Industrial Guided Tasks, providing context for investigation and follow-up.
 
 Safety teams can then triage reported incidents, identify root causes, and take corrective action by updating relevant manufacturing standards or creating follow-up tasks. This closed-loop approach helps eliminate recurring safety issues and supports continuous improvement.
 
@@ -70,8 +70,3 @@ To learn more about configuring and using ICW Integration with Health and Safety
 
 **Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

@@ -90,8 +90,5 @@ sn\_coaching.coach
 
 ## Result
 
-The configured indicator replaces the existing indicator in the **Overview** tab in the Coaching application in [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]].
+The configured indicator replaces the existing indicator in the **Overview** tab in the Coaching application in Workforce Optimization for Field Service.
 
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

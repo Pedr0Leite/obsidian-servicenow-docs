@@ -23,7 +23,7 @@ Role required: admin
 ## About this task
 
 -   Activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) that provides the Virtual Agent framework.
--   Activate the [[workplace-safety-mgmt-hr|Workplace Core]] plugin \(sn\_wsd\_core\).
+-   Activate the Workplace Core plugin \(sn\_wsd\_core\).
 
 ## Procedure
 
@@ -63,6 +63,3 @@ Role required: admin
 
 [Configuring spreadsheets to import workplace data]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -18,13 +18,13 @@ Determine which fields contain the data you are looking for in each application 
 
 ## Before you begin
 
-You have enabled Performance Analytics according to your entitlement. You have also installed the relevant Analytics and [[reporting-landing-page|Reporting]] solutions, and run diagnostics.
+You have enabled Performance Analytics according to your entitlement. You have also installed the relevant Analytics and Reporting solutions, and run diagnostics.
 
 Role required: pa\_admin, admin
 
 ## About this task
 
-Ensure that the [[c_IndicatorSources|indicator sources]] that [[content-packs-in-form-analytics-published|Platform Analytics Solutions]] contain point at the correct fields for you to measure the performance of your processes.
+Ensure that the indicator sources that Platform Analytics Solutions contain point at the correct fields for you to measure the performance of your processes.
 
 ## Procedure
 
@@ -32,9 +32,9 @@ Ensure that the [[c_IndicatorSources|indicator sources]] that [[content-packs-in
 
 2.  Click the **Dashboards** link in the **Explore and Manage** tile.
 
-    \[Omitted image "pa-admin-console-dashboards.png"\] Alt text: The [[pa-admin-console|Performance Analytics admin console]] with the Dashboards link highlighted
+    \[Omitted image "pa-admin-console-dashboards.png"\] Alt text: The Performance Analytics admin console with the Dashboards link highlighted
 
-3.  Verify the names of the dashboards that have been installed with this [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution.
+3.  Verify the names of the dashboards that have been installed with this Platform Analytics Solution.
 
 4.  Open the **Indicator Sources** tab.
 
@@ -68,10 +68,3 @@ Ensure that the [[c_IndicatorSources|indicator sources]] that [[content-packs-in
 
 [Indicator sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_IndicatorSources.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[pa-admin-console|Performance Analytics Admin Console]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

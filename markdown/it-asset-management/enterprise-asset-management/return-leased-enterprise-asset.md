@@ -26,7 +26,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Contract and lease management view.
+1.  From the Enterprise Asset Workspace, open the Contract and lease management view.
 
 2.  On the **Lease-end assets** tab, select the lease contract for the enterprise asset that you want to return.
 
@@ -369,7 +369,7 @@ Settlement
 
 Option that indicates if you are receiving a settlement payout for the enterprise asset that you returned.
 
- If you select **Yes**, the **Settlement amount** field appears below the **Settlement** field. In the **Settlement amount** field, enter the total amount of money that you are receiving from the settlement payout. The [[enterprise-asset-management|Enterprise Asset Management]] application can then use this information to automatically [[t_CreateAPurchaseOrder|create a purchase order]] and purchase order line for the settlement payout.
+ If you select **Yes**, the **Settlement amount** field appears below the **Settlement** field. In the **Settlement amount** field, enter the total amount of money that you are receiving from the settlement payout. The Enterprise Asset Management application can then use this information to automatically create a purchase order and purchase order line for the settlement payout.
 
 **Note:** You can set the **Settlement amount** field to any currency of your choice.
 
@@ -425,8 +425,3 @@ After you successfully return the leased enterprise asset, the **State** and **S
 
 **Parent Topic:**[Managing expiring contracts for leased enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-expiring-contracts-leased-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]

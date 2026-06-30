@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, Microsoft SCCM, Service Graph Conn
 
 # Configure air gap solution for Microsoft SCCM in a low-secure server
 
-Configure the air gap solution for the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] in your low-secure server after you finish the configuration in your high-secure server.
+Configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your low-secure server after you finish the configuration in your high-secure server.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **[[sgcc-landing|SGC Central]]** &gt; **Create connection**.
+1.  Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **SGC Central** &gt; **Create connection**.
 
 2.  Select the air gap template.
 
@@ -66,7 +66,3 @@ Role required: admin
 
 [Configure air gap solution for Microsoft SCCM in a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-sn-instance.md)
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[sgcc-landing|SGC Central]]

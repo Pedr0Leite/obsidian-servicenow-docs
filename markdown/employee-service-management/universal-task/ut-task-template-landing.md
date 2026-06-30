@@ -14,7 +14,7 @@ breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
 
 # Universal Task templates
 
-Task templates help agents to create [[universal-task-landing|Universal Task]] records by auto-populating fields in a template.
+Task templates help agents to create Universal Task records by auto-populating fields in a template.
 
 The task template \[sn\_uni\_task\_template\] table follows data separation. For more information, see [Domain separation and Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/domain-sep-universal-task.md).
 
@@ -29,17 +29,11 @@ A task template can have static and dynamic mappings. In static mappings, the va
 -   **[Create a template using the Universal Task template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-task-template.md)**  
 Create a template for any service table to automatically populate fields on a form. Creating templates for common use cases enables agents to create universal tasks faster and ensures uniformity of field values.
 -   **[Create a task template by saving a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-tasktemplate-saveform.md)**  
-Save a populated [[universal-task-form|Universal Task form]] as a template. This is an alternative method for creating a task template.
+Save a populated Universal Task form as a template. This is an alternative method for creating a task template.
 -   **[Create dynamic template mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-dynamic-tmplt-map.md)**  
-Create dynamic templates to [[map-fields-navex|map fields]] on a Universal task form to corresponding fields on the parent table form. Dynamic templates help agents to map parent table fields to Universal task fields.
+Create dynamic templates to map fields on a Universal task form to corresponding fields on the parent table form. Dynamic templates help agents to map parent table fields to Universal task fields.
 -   **[Use Task templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-use-task-template.md)**  
-Use a task template to auto-populate a Universal Task form. Using a task template enables agents to [[create-applicant-tasks|create tasks]] faster.
+Use a task template to auto-populate a Universal Task form. Using a task template enables agents to create tasks faster.
 
 **Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[universal-task-form|Universal Task form]]
-- [[map-fields-navex|Map fields]]
-- [[create-applicant-tasks|Create tasks]]

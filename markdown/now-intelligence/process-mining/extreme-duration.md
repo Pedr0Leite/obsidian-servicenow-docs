@@ -110,7 +110,7 @@ Impacted KPIs
 
 </td><td>
 
-Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the insights panel of the [[analyst-workbench-overview|Process Mining workspace]].
+Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the insights panel of the Process Mining workspace.
 
 </td></tr></tbody>
 </table>4.  Select **Configure**.
@@ -123,7 +123,7 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
     \[Omitted image "extreme-duration-config.png"\] Alt text: Extreme duration \(Node\) Config tab
 
-    According to the example, records that meet the following conditions are available as improvement opportunities in the [[summary-insights-dashboard|Summary and insights page]]:
+    According to the example, records that meet the following conditions are available as improvement opportunities in the Summary and insights page:
 
     -   The minimum repetition is calculated as multiplier x median repetition for transition. In this example, records must meet or exceed 50 times the median repetition.
     -   A step must contain at least 20 records.
@@ -134,7 +134,3 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
 **Parent Topic:**[Setting Automated improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/automated-findings.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[summary-insights-dashboard|Summary and insights page]]

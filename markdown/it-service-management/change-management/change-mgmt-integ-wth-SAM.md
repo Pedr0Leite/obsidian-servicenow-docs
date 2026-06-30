@@ -18,11 +18,11 @@ The Change Management integration with Software Asset Management \(SAM\) display
 
 This integration focuses on the projected license cost change when a change is proposed to one or more configuration item \(CI\) processor resources \(CPU or CPU Core\) running software licensed by the processor.
 
-This integration requires the Software [[c_AssetManagement|Asset Management]] Professional \(com.snc.samp\) and [[c_ITILChangeManagement|Change Management]] - License Change Projections \(com.sn\_samp\_change\) plugins.
+This integration requires the Software Asset Management Professional \(com.snc.samp\) and Change Management - License Change Projections \(com.sn\_samp\_change\) plugins.
 
 **Note:** You need to request the activation of the Change management – License Change Projections plugin \(com.sn\_samp\_change\) through the HI Service Portal.
 
-When a change request is in the **New** state, users can propose a change to the CPU or CPU Cores of a CI using **Propose Change** or **[[bulk-ci-change|Mass Update CI]]**. Those proposed changes are captured in an XML field that is then passed to Software Asset Management when the change request transitions into its first approval state. Once Software Asset Management performs the projected licensing cost change, those results are displayed in a new form section called License change projection.
+When a change request is in the **New** state, users can propose a change to the CPU or CPU Cores of a CI using **Propose Change** or **Mass Update CI**. Those proposed changes are captured in an XML field that is then passed to Software Asset Management when the change request transitions into its first approval state. Once Software Asset Management performs the projected licensing cost change, those results are displayed in a new form section called License change projection.
 
 The License change projection form section displays the license projection change summary for every CI in scope for the change. The left side of the section displays fields relaying the current spend, projected spend, the spend change, and the number of impacted installations. On the right is a bar graph providing a visual representation of that information.
 
@@ -37,8 +37,3 @@ For a more detailed breakdown of the license change projections, a related list 
 
 [Mass Update CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/bulk-ci-change.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[bulk-ci-change|Mass Update CI]]

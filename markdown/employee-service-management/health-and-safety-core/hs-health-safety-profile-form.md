@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 # Health and Safety profile form
 
-Safety manager can use the health and safety profile form to assign the [[health-safety-overview|Health and Safety]] profile to employees, visitors, and contractor workers.
+Safety manager can use the health and safety profile form to assign the Health and Safety profile to employees, visitors, and contractor workers.
 
 For information on assigning the Health and Safety profile for a user, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
 
@@ -34,7 +34,7 @@ Type
 
 Type of the person who's assigned the Health and Safety profile.-   **Employee**: An employee of your organization.
 -   **Visitor**: A person from outside the organization who came to the site as a visitor.
--   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+-   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 </td></tr><tr><td>
 
@@ -156,7 +156,3 @@ Locations that the user works at.
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]

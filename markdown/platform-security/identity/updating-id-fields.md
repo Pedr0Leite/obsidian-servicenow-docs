@@ -24,7 +24,7 @@ Role required: iamsync\_admin
 
 ## About this task
 
-In ServiceNow, Federated IDs ensure consistent user identification across multiple instances. By default, the **User ID** and **[[email|Email]]** ID fields are used as the system's search criteria for identifying and matching [[users|users]] across instances. When you change the ID fields, the system regenerates Federated IDs \(a hash based on the selected ID fields\) for all records in the selected table based on the updated criteria. You can regenerate Federated IDs in two ways:
+In ServiceNow, Federated IDs ensure consistent user identification across multiple instances. By default, the **User ID** and **Email** ID fields are used as the system's search criteria for identifying and matching users across instances. When you change the ID fields, the system regenerates Federated IDs \(a hash based on the selected ID fields\) for all records in the selected table based on the updated criteria. You can regenerate Federated IDs in two ways:
 
 -   **Update.** Updates the system with your new search criteria when you add or remove ID fields. Use when you want to remove or add fields \(such as Employee Number\) or modify which attributes define a unique user. This approach is helpful for improving accuracy or aligning with new compliance requirements.
 -   **Regenerate Federated IDs.** Uses existing search criteria when you only need to refresh Federated IDs without changing the identification logic. This is useful after XML data imports, the instance not working correctly, or low-level database updates.
@@ -62,12 +62,8 @@ In ServiceNow, Federated IDs ensure consistent user identification across multip
     -   Fields that are updated should be a string type.
     -   Fields that cannot be select as ID fields are as follows:
         -   System level fields
-        -   [[edge-encryption|Edge encryption]] fields
+        -   Edge encryption fields
         -   Password fields
 6.  Navigate to the **sys\_user** table to view the new Federated IDs that are generated due to updating the ID fields.
 
-## Related
 
-- [[email|Email]]
-- [[users|Users]]
-- [[edge-encryption|Edge Encryption]]

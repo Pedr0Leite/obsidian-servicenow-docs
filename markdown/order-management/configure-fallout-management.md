@@ -14,14 +14,14 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 As a provider, you can use Fallout Management to identify, investigate, and resolve order processing issues so that orders can continue processing through to completion.
 
-The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, according to the requirements of your enterprise. To learn more about managing order task fallout, see [[fallout-management-overview|Managing order fallout]].
+The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, according to the requirements of your enterprise. To learn more about managing order task fallout, see [Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md).
 
-**Parent Topic:**[[order-mgt-configuring|Configuring Order Management]]
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
 [Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
@@ -59,8 +59,3 @@ The fallout type is a category that indicates the type of fallout activity. Bill
 
 [Managing order fallout]()
 
-## Related
-
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

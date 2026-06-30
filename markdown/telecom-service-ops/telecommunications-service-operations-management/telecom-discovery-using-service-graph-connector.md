@@ -14,11 +14,11 @@ breadcrumb: [Telecom Discovery, Telecom Visibility, Explore, Telecommunications 
 
 # Indirect Discovery using Service Graph Connectors
 
-ServiceNow [[exploring-telecom-discovery|Telecom Discovery]] using Service Graph Connectors \(SGC s\) enables you to seamlessly integrate network infrastructure data from external management systems, such as EMS, NMS, and SDN Controllers, into the Configuration Management Database \(CMDB\).
+ServiceNow Telecom Discovery using Service Graph Connectors \(SGC s\) enables you to seamlessly integrate network infrastructure data from external management systems, such as EMS, NMS, and SDN Controllers, into the Configuration Management Database \(CMDB\).
 
 This approach helps Communication Service Providers \(CSPs\) maintain a current and accurate view of their multivendor telecom network resources, services, and configurations.
 
-By leveraging predefined connectors and robust data transformation tools, you can unify your inventory across domains and ensure that the CMDB and Telecom Network Inventory \(TNI\) reflect real-time network insights aligned with your [[telecom-data-model|telecom data model]].
+By leveraging predefined connectors and robust data transformation tools, you can unify your inventory across domains and ensure that the CMDB and Telecom Network Inventory \(TNI\) reflect real-time network insights aligned with your telecom data model.
 
 **Note:** Telecom Service Graph Connectors are part of the TSOM Visibility subscription and extend the capabilities of the standard Service Graph Connector framework.
 
@@ -142,7 +142,3 @@ As a result, the discovered CI is in both the cmdb\_ci and tni\_entity tables.
 
 [Telecom Discovery via Fortinet SD-WAN](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/telecom-discovery-via-fortinet.md)
 
-## Related
-
-- [[exploring-telecom-discovery|Telecom Discovery]]
-- [[telecom-data-model|Telecom data model]]

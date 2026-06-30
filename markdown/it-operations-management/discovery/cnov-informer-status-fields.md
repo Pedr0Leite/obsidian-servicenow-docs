@@ -15,7 +15,7 @@ breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using K
 
 # Kubernetes Visibility Agent Informer status fields
 
-The fields in the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informers table `sn_acc_visibility_kubernetes_informer` describe the status of the Informer pods deployed in your Kubernetes clusters.
+The fields in the Kubernetes Visibility Agent Informers table `sn_acc_visibility_kubernetes_informer` describe the status of the Informer pods deployed in your Kubernetes clusters.
 
 <table id="table_vql_dsh_tyb"><thead><tr><th>
 
@@ -47,11 +47,11 @@ Reference to the cluster CI.
 
 </td></tr><tr><td>
 
-Full [[c_DiscoveryStatus|discovery status]]
+Full discovery status
 
 </td><td>
 
-Status of the current full [[r-discovery|discovery]]. Possible values are: Empty, In Progress, Queued, Completed, Failed.
+Status of the current full discovery. Possible values are: Empty, In Progress, Queued, Completed, Failed.
 
  **Note:** Full discovery is performed either periodically or on demand. By default, it is run once a day.
 
@@ -100,8 +100,3 @@ The upgrade status of Informers in the cluster. Possible values are: Upgrade Pen
 </td></tr></tbody>
 </table>**Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[r-discovery|Discovery]]

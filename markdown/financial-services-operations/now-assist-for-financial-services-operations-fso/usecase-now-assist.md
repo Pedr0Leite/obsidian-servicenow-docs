@@ -14,9 +14,9 @@ breadcrumb: [Now Assist for FSO, Financial Services Operations \(FSO\)]
 
 # Agentic AI use cases for FSO
 
-Leverage FSO's agentic workflows and AI-driven agents to transform [[fso-overview|financial services]] operations, streamlining processes, accelerate dispute resolution, and empower human agents with intelligent, context-aware assistance.
+Leverage FSO's agentic workflows and AI-driven agents to transform financial services operations, streamlining processes, accelerate dispute resolution, and empower human agents with intelligent, context-aware assistance.
 
-This table describes the use cases in [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]].
+This table describes the use cases in Now Assist for Financial Services Operations \(FSO\).
 
 |Use case|Description|
 |--------|-----------|
@@ -31,7 +31,3 @@ Use AI agents in FSO to accelerate dispute resolutionand assist with front-offic
 
 **Parent Topic:**[Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

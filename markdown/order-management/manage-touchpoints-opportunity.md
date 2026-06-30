@@ -16,7 +16,7 @@ View, create, and delete touchpoints associated with an opportunity from the tou
 
 ## Before you begin
 
-The [[explore-crm-touchpoints|CRM Touchpoints]] plugin \(sn\_crm\_touchpoint\) must be installed.
+The CRM Touchpoints plugin \(sn\_crm\_touchpoint\) must be installed.
 
 Role required: sn\_crm\_touchpoint.admin or sn\_crm\_touchpoint.touchpoint\_writer
 
@@ -45,13 +45,8 @@ The **Touchpoints** tab on an opportunity record displays all touchpoints associ
 
 Changes are saved to the opportunity. The Touchpoints tab reflects the current state of all linked touchpoints.
 
--   **[[create-touchpoint-opportunity|Create a touchpoint from an opportunity]]**  
+-   **[Create a touchpoint from an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-opportunity.md)**  
 Create a touchpoint to log a customer interaction directly from an opportunity record.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-## Related
-
-- [[create-touchpoint-opportunity|Create a touchpoint from an opportunity]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

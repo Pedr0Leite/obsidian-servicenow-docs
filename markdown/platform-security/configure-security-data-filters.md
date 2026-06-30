@@ -12,7 +12,7 @@ breadcrumb: [Security data filters, Access Management]
 
 # Create a security data filter
 
-Learn how to create security data filter rules to grant your [[users|users]]' access to records and tables.
+Learn how to create security data filter rules to grant your users' access to records and tables.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[security-data-filters|Security Data Filters]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Security Data Filters**.
 
 2.  Click **New** in the **Security Data Filters** list.
 
@@ -92,7 +92,7 @@ The filter condition that determines which records the data filter applies to. T
 
 </td></tr><tr><td>
 
-[[security-attributes-landing|Security Attributes]]
+Security Attributes
 
 </td><td>
 
@@ -106,8 +106,3 @@ The security attributes that control whether the data filter will apply.
 
 After you have saved your security data filter rule, this rule automatically applies to all records on the selected table, unless specified otherwise by the data condition.
 
-## Related
-
-- [[users|Users]]
-- [[security-data-filters|Security data filters]]
-- [[security-attributes-landing|Security Attributes]]

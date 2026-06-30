@@ -12,7 +12,7 @@ breadcrumb: [Use Microsoft Outlook with CSM, Schedules and sites, Use, Customer 
 
 # Create a new case from an email message in Microsoft Outlook
 
-If a customer whose contact details are available sends an email stating an issue, you can easily [[t_CreateACaseFromCustServApp|create a customer service case]].
+If a customer whose contact details are available sends an email stating an issue, you can easily create a customer service case.
 
 ## Before you begin
 
@@ -30,11 +30,8 @@ Role required: sn\_customerservice.contact\_manager and sn\_customerservice.prox
 
 4.  Select **Create Case** from the menu.
 
-5.  Fill in the case details on the [[r_CustomerServiceCaseForm|case form]].
+5.  Fill in the case details on the case form.
 
 6.  Click **Submit**.
 
-## Related
 
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure an entity type for a linked object, Manage Entity Based A
 
 # Entity Type Configurations form
 
-Use the Entity Type Configurations form to [[create-new-entity-type-ws|create an entity type]] configuration within the [[entity-based-access|Entity Based Access]] application.
+Use the Entity Type Configurations form to create an entity type configuration within the Entity Based Access application.
 
 |Field|Description|
 |-----|-----------|
@@ -29,7 +29,3 @@ Use the Entity Type Configurations form to [[create-new-entity-type-ws|create an
 
 **Parent Topic:**[Configure an entity type for a linked object](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-an-entity-type-configuration-for-entity-based-access.md)
 
-## Related
-
-- [[create-new-entity-type-ws|Create an entity type]]
-- [[entity-based-access|Entity Based Access]]

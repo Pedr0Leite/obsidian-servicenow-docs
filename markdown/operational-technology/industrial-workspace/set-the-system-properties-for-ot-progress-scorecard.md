@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Set the system properties for the Operational Technology Progress Scorecard
 
-[[configure-ot-incident-management-properties|Set the system properties]] for the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard so that you can enable the properties as needed.
+Set the system properties for the Operational Technology \(OT\) Progress Scorecard so that you can enable the properties as needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: configure\_industrial\_workspace
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Workspace System Properties**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Workspace System Properties**.
 
 2.  Edit the following properties as needed.
 
@@ -84,8 +84,3 @@ A color to represent the high threshold in the OT Progress Scorecard.
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[configure-ot-incident-management-properties|Set the system properties]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

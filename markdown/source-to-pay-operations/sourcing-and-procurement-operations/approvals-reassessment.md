@@ -18,7 +18,7 @@ Review the conditions for approvals reassessment and their impact on purchase au
 
 ## Resend approvals for reassessment property
 
-The sn\_shop.approval.reassessment.resend purchasing property determines if an approval needs to be reassessed as a result of a revision or a merge. The revision could be that of a [[purchase-order-table|purchase order]] or a [[purchase-requisition|purchase requisition]]. This property is only applicable if the same approval rule is triggered. If a new rule is triggered, this property is not applicable and a new approval plan is generated.
+The sn\_shop.approval.reassessment.resend purchasing property determines if an approval needs to be reassessed as a result of a revision or a merge. The revision could be that of a purchase order or a purchase requisition. This property is only applicable if the same approval rule is triggered. If a new rule is triggered, this property is not applicable and a new approval plan is generated.
 
 For information on approval rule groups and sequencing, and how these impact the property, see [Approval rule grouping and sequencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-rule-sequencing.md).
 
@@ -56,7 +56,3 @@ For approvals that are no longer required or are canceled, the breached approval
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]

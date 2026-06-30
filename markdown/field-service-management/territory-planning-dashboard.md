@@ -18,7 +18,7 @@ Use this dashboard to view and analyze performance analytics such as open work o
 
 ## Required ServiceNow AI Platform roles
 
-The wm\_admin role is needed to [[c_ManageWorkOrders|manage work orders]].
+The wm\_admin role is needed to manage work orders.
 
 ## Access the Field Service Territory Performance Analytics dashboard
 
@@ -71,9 +71,5 @@ Can manage territories, create new child territories and see how the territories
 |Territory|Reference|Multi select Input|Filter the report results based on a selected territory.|
 |Date|Date|Single select date|Filter the report based on the selected date.|
 
-**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[c_ManageWorkOrders|Manage work orders]]

@@ -17,10 +17,7 @@ breadcrumb: [Use, Risk Management, Governance, Risk, and Compliance]
 Create and manage business processes in your organization.
 
 -   **[Create a business process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-business-process.md)**  
-[[create-a-business-process|Create a business process]] and define the owners, approvers, business criticality, and review frequency for the process.
+Create a business process and define the owners, approvers, business criticality, and review frequency for the process.
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[create-a-business-process|create a business process]]

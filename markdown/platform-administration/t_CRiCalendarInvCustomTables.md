@@ -12,7 +12,7 @@ breadcrumb: [Calendar integration, Email templates, Email and SMS notifications,
 
 # Create iCalendar invitations for custom tables
 
-To generate iCalendar invitations that use field values from [[custom-tables|custom tables]], create an import export map that computes the values of the iCalendar fields.
+To generate iCalendar invitations that use field values from custom tables, create an import export map that computes the values of the iCalendar fields.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Role required: admin
     |dtstart|u\_meeting\_start\_time|field|icalendar.u\_my\_custom\_table|
     |dtend|u\_meeting\_end\_time|field|icalendar.u\_my\_custom\_table|
 
-12. [[t_CreateAnEmailTemplate|Create an email template]] that defines what to include in the iCalendar invitation.
+12. Create an email template that defines what to include in the iCalendar invitation.
 
     1.  Set the **Table** field to the custom table you created.
 
@@ -84,7 +84,7 @@ Role required: admin
         
         ```
 
-        **Note:** Mail script is not allowed or processed in meeting invitation [[c_EmailTemplates|email templates]].
+        **Note:** Mail script is not allowed or processed in meeting invitation email templates.
 
         |iCalendar template line|Required?|Notes|
         |-----------------------|---------|-----|
@@ -102,19 +102,12 @@ Role required: admin
         |END:VEVENT|Yes| |
         |END:VCALENDAR|Yes| |
 
-13. [[t_CreateANotification|Create an email notification]] to trigger the iCalendar invitation and ensure the following fields are set accordingly:
+13. Create an email notification to trigger the iCalendar invitation and ensure the following fields are set accordingly:
 
     -   **Table**: Select the custom table.
     -   **Type**: Select **Meeting Invitation**.
     -   **Content type**: Select **Plain text** only.
     -   **Email template**: Select the template you created.
 
-**Parent Topic:**[[r_CalendarIntegration|Calendar integration]]
+**Parent Topic:**[Calendar integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_CalendarIntegration.md)
 
-## Related
-
-- [[r_CalendarIntegration|Calendar integration]]
-- [[custom-tables|Custom tables]]
-- [[t_CreateAnEmailTemplate|Create an email template]]
-- [[c_EmailTemplates|Email templates]]
-- [[t_CreateANotification|Create an email notification]]

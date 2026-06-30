@@ -22,11 +22,11 @@ Use these activities to reserve, list, or delete IP addresses that are used for 
 
 ## DHCP Reserve IP v4 Address Range activity
 
-The [[r_DHCPReserveIPv4AddrRangeActivity-1|DHCP Reserve IP v4 Address Range activity]] reserves an [[ip-address|IP address]] range for DHCP use.
+The DHCP Reserve IP v4 Address Range activity reserves an IP address range for DHCP use.
 
-The DHCP activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a [[mid-server-landing|MID Server]] with REST capabilities.
+The DHCP activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DHCP**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DHCP**.
 
 ### Input variables
 
@@ -237,9 +237,3 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 |Success|Activity successfully returned an array of DHCP IP address ranges.|
 |Failure|Activity failed to return an array of DHCP IP address ranges.|
 
-## Related
-
-- [[r_DHCPReserveIPv4AddrRangeActivity-1|DHCP Reserve IP v4 Address Range activity]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

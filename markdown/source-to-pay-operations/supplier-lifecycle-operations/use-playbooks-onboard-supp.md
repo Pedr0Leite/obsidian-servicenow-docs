@@ -14,13 +14,13 @@ breadcrumb: [Create a supplier, Using Source-to-Pay Workspace, Use, Supplier Lif
 
 # Use the supplier onboarding playbook to onboard suppliers
 
-[[supplier|Supplier]] owners and supplier managers can use the supplier onboarding playbook to complete the tasks and activities that are needed to onboard new suppliers.
+Supplier owners and supplier managers can use the supplier onboarding playbook to complete the tasks and activities that are needed to onboard new suppliers.
 
 ## Playbooks overview
 
 Playbooks provide step-by-step guidance for onboarding suppliers. A playbook visualizes a workflow in a simple, task-oriented view. The workflow for a playbook is typically created using [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md).
 
-A playbook takes a workflow and breaks it into multiple stages. Each stage in a playbook includes one or more activities or steps for a supplier owner or supplier manager to complete. Stages can also include automated activities, such as sending an email to a [[supplier-contact|supplier contact]] when a stage or activity is complete. For more information, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+A playbook takes a workflow and breaks it into multiple stages. Each stage in a playbook includes one or more activities or steps for a supplier owner or supplier manager to complete. Stages can also include automated activities, such as sending an email to a supplier contact when a stage or activity is complete. For more information, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 When using a playbook, a supplier owner or supplier manager can:
 
@@ -37,11 +37,11 @@ You can use the Supplier onboarding playbook to onboard a new supplier. The Supp
 
 You can use the Supplier onboarding playbook with cases that are created using the Onboard a Supplier case type.
 
-The Supplier onboarding playbook appears in the **Playbook** tab on the Case Details page in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+The Supplier onboarding playbook appears in the **Playbook** tab on the Case Details page in the Source-to-Pay Workspace.
 
 After you submit a supplier onboarding request, the application creates a new case of type Onboard a Supplier and opens the Case Details page. You can select the **Playbook** tab and start the supplier onboarding process using playbook. For more information on creating a supplier, see [Add a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md).
 
-**Important:** [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
+**Important:** Supplier Lifecycle Operations creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
 
 The Supplier onboarding playbook includes the following stages:
 
@@ -57,7 +57,7 @@ The Supplier onboarding playbook includes the following stages:
 
 [Add a subsidiary for a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-subsidiary.md)
 
-[[perform-risk-playbook|Perform risk assessment playbook]]
+[Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)
 
 ## Registration stage
 
@@ -172,7 +172,7 @@ Invite supplier contact
 
 </td><td>
 
-Sends an email to the primary contact to register to the [[supplier-central|Supplier Collaboration Portal]].
+Sends an email to the primary contact to register to the Supplier Collaboration Portal.
 
 </td></tr><tr><td>
 
@@ -477,11 +477,3 @@ Updates the onboarding case to Closed rejected.
 
 [Activation stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-central|Supplier Collaboration Portal]]

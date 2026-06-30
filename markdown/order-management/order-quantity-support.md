@@ -20,7 +20,7 @@ An instance of a product or service refers to an ordered item with a unique set 
 
 ## Support for the order line item quantity that is provided by the customer when they order an item
 
-If your customer places an order with more than one instance, the Quantity field on the order line item captures the number of instances of your customer order line items. The [[order-mgt-order-decomposition|order decomposition]] process then creates the same number of product or service orders and manages the fulfillment process for each order independently.
+If your customer places an order with more than one instance, the Quantity field on the order line item captures the number of instances of your customer order line items. The order decomposition process then creates the same number of product or service orders and manages the fulfillment process for each order independently.
 
 ## Support for the catalog-driven characteristic quantity
 
@@ -36,12 +36,7 @@ In this scenario, you accept and support your customer order that has the inform
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-order-decomposition|Order decomposition]]

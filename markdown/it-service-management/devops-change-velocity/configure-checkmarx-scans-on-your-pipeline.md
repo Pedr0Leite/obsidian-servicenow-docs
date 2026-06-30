@@ -16,7 +16,7 @@ breadcrumb: [Checkmarx, Integrate, DevOps Change Velocity, IT Service Management
 
 Configure Checkmarx scans on your Azure DevOps, Jenkins, GitHub, GitLab, or Harness pipelines.
 
-You can configure Checkmarx scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to [[devops-landing-page-new|DevOps Change Velocity]]. If you’re using Azure DevOps or GitHub Actions orchestration tools, then you must add the custom action code in your pipeline always. If you’re using Jenkins, and your pipeline already has a Checkmarx One security scan \(checkmarxASTScanner\) step, you don’t have to add the custom action code in your pipeline. For Checkmarx SAST, the custom action code must be added in your pipeline even if it has the security scan step \(checkmarxASTScanner\).
+You can configure Checkmarx scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to DevOps Change Velocity. If you’re using Azure DevOps or GitHub Actions orchestration tools, then you must add the custom action code in your pipeline always. If you’re using Jenkins, and your pipeline already has a Checkmarx One security scan \(checkmarxASTScanner\) step, you don’t have to add the custom action code in your pipeline. For Checkmarx SAST, the custom action code must be added in your pipeline even if it has the security scan step \(checkmarxASTScanner\).
 
 If you want to configure Checkmarx for the GitLab tool, you can either use the generic Docker container image to add the Checkmarx security step or perform the steps specified in the [Integrate security tools with GitLab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-security-tool-for-gitlab.md) topic.
 
@@ -110,7 +110,7 @@ ServiceNowSecurityScanResults:
     needs: build
     # type of machine to run the job on
     runs-on: ubuntu-latest
-    name: ServiceNow [[security-tool-framework|Security Scan Results]]
+    name: ServiceNow Security Scan Results
     steps:
       - name: ServiceNow DevOps Security Results
         uses: ServiceNow/servicenow-devops-security-result@v3.0.0
@@ -226,7 +226,3 @@ Run the generic Docker Container Image to use the following script. For more inf
 
 **Parent Topic:**[Checkmarx integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/checkmarx-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[security-tool-framework|Security scan results]]

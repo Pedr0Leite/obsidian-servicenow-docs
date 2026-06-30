@@ -14,7 +14,7 @@ breadcrumb: [Exclusion Framework in Dynamic Translation, Configuring Dynamic Tra
 
 # Test Exclusion Rule
 
-Test Exclusion Rule in [[dynamic-translation|Dynamic Translation]] enables you to test your exclusion pattern manually. You can check whether the pattern accurately excludes a text string from translation.
+Test Exclusion Rule in Dynamic Translation enables you to test your exclusion pattern manually. You can check whether the pattern accurately excludes a text string from translation.
 
 ## Before you begin
 
@@ -107,6 +107,3 @@ If you chose **New exclusion rule**, you can create a rule based on the exclusio
 
 **Parent Topic:**[Exclusion Framework in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-framework.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

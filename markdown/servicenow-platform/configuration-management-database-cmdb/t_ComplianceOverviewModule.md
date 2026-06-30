@@ -24,7 +24,7 @@ The Compliance Overview module summarizes:
 -   Outstanding certification tasks
 -   Compliance discrepancies
 -   Upcoming audits
--   General state of compliance audits for [[c_DataCertification|Data Certification]], [[c_DesiredState|Desired State]], Architectural Compliance, and [[c_ScriptedAudits|Scripted audits]]
+-   General state of compliance audits for Data Certification, Desired State, Architectural Compliance, and Scripted audits
 
 Only users with certain roles can access the Overview module. The different levels of access are:
 
@@ -74,8 +74,4 @@ admin
 
     For example, select a bar in the Compliance Discrepancies chart to open a list of audit results filtered by the respective attributes.
 
-## Related
 
-- [[c_DataCertification|Data Certification]]
-- [[c_DesiredState|Desired State]]
-- [[c_ScriptedAudits|Scripted audits]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On the [[my-team-dashboard-mob|My team dashboard]], tap on **Overdue changes** on the applet.
+1.  On the My team dashboard, tap on **Overdue changes** on the applet.
 
 2.  If you want to reduce the number of records on the screen, see [Filter records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/filter-records-agent-mobile.md) to search for records that match specific search criteria.
 
@@ -76,7 +76,3 @@ View the list of all the calls related to an incident. Tap on any of the calls t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[my-team-dashboard-mob|My team dashboard]]

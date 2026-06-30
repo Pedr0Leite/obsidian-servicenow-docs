@@ -14,7 +14,7 @@ breadcrumb: [Working with SRM services, Using Service Reliability Management, Se
 
 # Remove a service from SRM
 
-Remove a service from [[sr-landing-page|Service Reliability Management]] \(SRM\) when you no longer need to track or monitor its reliability.
+Remove a service from Service Reliability Management \(SRM\) when you no longer need to track or monitor its reliability.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Removing a service from SRM doesn't affect the service reliability tasks, such a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select **Services**.
 
@@ -61,7 +61,3 @@ To learn how to monitor and manage services that remain in SRM, see [Working wit
 
 **Parent Topic:**[Working with SRM services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-services.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

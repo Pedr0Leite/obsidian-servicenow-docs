@@ -14,7 +14,7 @@ breadcrumb: [Innovation Management, Project Portfolio Management, Strategic Port
 
 # Integrating Innovation Management with Universal Request
 
-Integration of [[innovation-management-landing|Innovation Management]] with Universal Request extends the capabilities of Universal Request and enables your employees and agents to create an idea from a universal request.
+Integration of Innovation Management with Universal Request extends the capabilities of Universal Request and enables your employees and agents to create an idea from a universal request.
 
 Integrate Innovation Management with the Universal Request application to provide a consistent ticketing experience and facilitate inter-department request transfers.
 
@@ -58,11 +58,7 @@ Create an idea from a universal request after initial evaluation for a new produ
 -   **[Idea state mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-state-mapping.md)**  
 Map your idea states to the Universal Request states to provide a better user experience during the idea state transition and to track the progress of the idea.
 -   **[Transfer an Idea to another department](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/transfer-idea-ur.md)**  
-[[transfer-idea-ur|Transfer an idea to another department]] with or without resolution if the idea is rejected or cannot be implemented.
+Transfer an idea to another department with or without resolution if the idea is rejected or cannot be implemented.
 
 **Parent Topic:**[Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-landing.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]
-- [[transfer-idea-ur|Transfer an Idea to another department]]

@@ -20,7 +20,7 @@ Update the Healthcare Case record producer to point to your newly created table.
 
 Role required: admin
 
-Set your scope to [[emr-exploring|EMR Help]].
+Set your scope to EMR Help.
 
 ## About this task
 
@@ -49,6 +49,3 @@ You have configured the record producer to point to your newly created table.
 
 [Configure the request definition for your healthcare case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-request-defintion-for-your-hcls-case-type.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]

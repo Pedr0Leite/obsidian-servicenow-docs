@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Introduction to Customer Service Problem Management
 
-[[cspm-landing-page|Customer Service Problem Management]] \(CSPM\) supports domain separation at an account level. All customer data and service problem cases have account \(customer\) level separation.
+Customer Service Problem Management \(CSPM\) supports domain separation at an account level. All customer data and service problem cases have account \(customer\) level separation.
 
 ## How domain separation works in Customer Service Problem Management
 
@@ -81,6 +81,3 @@ If fulfillment agents or managers are assigned to a domain, an administrator can
 |Threshold Rule Violation|Setting domain from Test Measure.|
 |Applied Consequence|Setting domain from Threshold Rule Violation has context menu.|
 
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]

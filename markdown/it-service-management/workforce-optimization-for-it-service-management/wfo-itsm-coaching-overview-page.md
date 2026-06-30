@@ -14,7 +14,7 @@ breadcrumb: [Training your teams, Coaching, Workforce Optimization for ITSM, IT 
 
 # Coaching Overview page
 
-Monitor the progress of assessments and track learning tasks that are overdue. You can also add a [[cf-coaching-landing|coaching]] quality indicator to monitor trends. Analyze which skills have been assigned the most to your team recently and which top skills are in demand.
+Monitor the progress of assessments and track learning tasks that are overdue. You can also add a coaching quality indicator to monitor trends. Analyze which skills have been assigned the most to your team recently and which top skills are in demand.
 
 \[Omitted image "coaching-overview.png"\] Alt text: Coaching Overview
 
@@ -113,6 +113,3 @@ Trend for the top five skills that are in demand.
 </td></tr></tbody>
 </table>**Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/coaching-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

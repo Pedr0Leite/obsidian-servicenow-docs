@@ -35,8 +35,5 @@ Role required: sn\_matrix\_report.admin
 
 ## What to do next
 
-This configuration helps the [[audit-management-overview-ws|Audit Workspace]] user to see the matrix report in the Audit Workspace. As an admin you have completed all the steps of matrix report configurations. Now, as a user you can [View matrix report in landing page and record page of Audit Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/matrix-report-view-audit-ws.md).
+This configuration helps the Audit Workspace user to see the matrix report in the Audit Workspace. As an admin you have completed all the steps of matrix report configurations. Now, as a user you can [View matrix report in landing page and record page of Audit Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/matrix-report-view-audit-ws.md).
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]

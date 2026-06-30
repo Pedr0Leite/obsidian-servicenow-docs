@@ -14,7 +14,7 @@ breadcrumb: [Domain separation and Service Catalog, Service Catalog Reference, S
 
 # Request for domain separation in Service Catalog
 
-Enable [[domain-separation-relationship-formatter-editor|domain separation]] in [[service-catalog|Service Catalog]] by requesting for the activation of the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\).
+Enable domain separation in Service Catalog by requesting for the activation of the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\).
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -81,8 +81,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[Domain separation and Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/domain-separation-service-catalog-management.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

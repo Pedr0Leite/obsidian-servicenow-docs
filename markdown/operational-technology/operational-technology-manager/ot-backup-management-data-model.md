@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # Operational Technology Backup Management data model
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Backup Management provides visibility and actionable insights on the backup of the OT devices. The class tables described below are interconnected and collectively form the Backup Management data model.
+The Operational Technology \(OT\) Backup Management provides visibility and actionable insights on the backup of the OT devices. The class tables described below are interconnected and collectively form the Backup Management data model.
 
 Use the Backup Storage Information \[cmdb\_backup\_storage\_information\] class to create backup records that identify the device in internal or external backup services. The Backup Storage Information table includes the following attributes:
 
@@ -65,6 +65,3 @@ Use the OT Backup Job Execution History \[ot\_backup\_history\_and\_comparision\
 
 [Operational Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-operation-technology.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

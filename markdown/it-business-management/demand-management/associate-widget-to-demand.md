@@ -30,13 +30,10 @@ Role required: pps\_admin
 
 3.  In the Widget associations related list, select **New**.
 
-4.  On the [[widget-association-form|Widget Association form]], fill in the fields.
+4.  On the Widget Association form, fill in the fields.
 
     For a description of the field names, see [Widget Association form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/widget-association-form.md).
 
 
 **Parent Topic:**[Configure a widget for the financial metrics of a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/configure-widget-demand-financials.md)
 
-## Related
-
-- [[widget-association-form|Widget Association form]]

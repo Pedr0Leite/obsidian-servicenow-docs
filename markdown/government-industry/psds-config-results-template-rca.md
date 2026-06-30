@@ -57,8 +57,5 @@ Verify that the scope is set to **Document Templates**.
     |Operation|Execute API|
 
 
-**Parent Topic:**[[psds-config-gmp-configure-results-template|Create a Grants Program results letter template]]
+**Parent Topic:**[Create a Grants Program results letter template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-configure-results-template.md)
 
-## Related
-
-- [[psds-config-gmp-configure-results-template|Create a Grants Program results letter template]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for Health and Safety, Health and Safety, Employee 
 
 # Summarize a safety incident by using Now Assist for Health and Safety
 
-Generate a summary from the fields that you selected on the safety incident and quickly understand the incident context by using the [[health-safety-overview|Health and Safety]] incident summarization skill in the [[now-assist-hs-landing|Now Assist for Health and Safety]] application.
+Generate a summary from the fields that you selected on the safety incident and quickly understand the incident context by using the Health and Safety incident summarization skill in the Now Assist for Health and Safety application.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Role required: sn\_ohs\_im.agent or sn\_ohs\_im.manager
 
 The Health and Safety incident summarization skill provides the summary of Health and Safety incidents including the details, actions taken, and root cause analysis. The safety agent and safety manager can view a summary to understand the context, refresh the summary, and post the summary to the work notes.
 
-The incident summarization skill is available in [[health-safety-core-workspace|Health and Safety Workspace]] and in the Core UI. When this skill is enabled on an instance, the Now Assist icon \(\[Omitted image "na-hs-panel-icon.png"\] Alt text: now assist icon\) appears in the workspace.
+The incident summarization skill is available in Health and Safety Workspace and in the Core UI. When this skill is enabled on an instance, the Now Assist icon \(\[Omitted image "na-hs-panel-icon.png"\] Alt text: now assist icon\) appears in the workspace.
 
--   In Health and Safety Workspace, use the Health and Safety incident summary by Now Assist component to generate a summary. This component appears above the [[activity-lxp|activity]] stream.
+-   In Health and Safety Workspace, use the Health and Safety incident summary by Now Assist component to generate a summary. This component appears above the activity stream.
 
     **Note:** You can also generate a summary on demand from the Now Assist panel. For more information, see [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-standard.md).
 
@@ -117,9 +117,3 @@ If you want to check details about the summary, select the more info icon \(\[Om
     -   The email client is enabled for the Health and Safety incident \[sn\_ohs\_im\_incident\] table on your ServiceNow instance. For more information, see [Enable the email client for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-client.md).
     -   The user sending the email has the Email composer \[email\_composer\] role. For more information, see [Email composer \[email\_composer\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-roles-2.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

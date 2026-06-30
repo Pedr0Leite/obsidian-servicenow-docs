@@ -12,11 +12,11 @@ breadcrumb: [IoC Repository, Threat Intelligence, Enterprise security case manag
 
 # Locations
 
-A [[location|Location]] represents a geographic location. Locations are primarily used to give context to other SDOs. Locations apply for STIX 2.x.
+A Location represents a geographic location. Locations are primarily used to give context to other SDOs. Locations apply for STIX 2.x.
 
 The location may contain, some or all of the following: region \(North America\), civic address \(New York, US\), latitude, and longitude.
 
-The Location SDO may relate to an [[identity|Identity]] or [[threat-intelligence-intrusion-sets|Intrusion Set]] to indicate that the identity or intrusion set is in that location. It can also relate to a [[threat-intelligence-malware|malware]] or attack pattern to indicate that the target victim is in a particular location.
+The Location SDO may relate to an Identity or Intrusion Set to indicate that the identity or intrusion set is in that location. It can also relate to a malware or attack pattern to indicate that the target victim is in a particular location.
 
 For example, a Location could be used in a relationship to describe that the Bourgeois Swallow intrusion set originates from Eastern Europe.
 
@@ -26,10 +26,10 @@ At least one of the following properties or sets of properties must be provided:
 -   country
 -   latitude and longitude
 
--   **[[define-location|Define Location]]**  
+-   **[Define Location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-location.md)**  
 Define a geographic location to provide more context to other SDOs.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -80,11 +80,3 @@ Define a geographic location to provide more context to other SDOs.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-location|Define Location]]
-- [[ioc-repository|IoC Repository]]
-- [[location|Location]]
-- [[identity|Identity]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-malware|Malware]]

@@ -18,7 +18,7 @@ An agent can get quick visibility into the work assigned, view announcements, an
 
 ## Roles required to access the landing page
 
-A user should have the itil role to access the [[dex-workspace-dashboard-tab|landing page]]. A tier-1 agent is an itil user who belongs to a service desk group. A tier-2 agent is an itil user who doesn’t belong to a service desk group. For more information about redirection of tier-1 and tier-2 agents to the respective landing page, see [Redirect non-admin users to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-sow-landing-page.md).
+A user should have the itil role to access the landing page. A tier-1 agent is an itil user who belongs to a service desk group. A tier-2 agent is an itil user who doesn’t belong to a service desk group. For more information about redirection of tier-1 and tier-2 agents to the respective landing page, see [Redirect non-admin users to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-sow-landing-page.md).
 
 ## Use cases
 
@@ -42,7 +42,7 @@ Tier 1 agent
 -   Analyze incidents and catalog tasks that need attention and navigate to the records on which action should be taken.
 -   Monitor incidents with service level agreements \(SLAs\) that have been breached or at risk, open P1 incidents, or the ones not updated in 24 hours.
 
- To use the features in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], see the **Explore key features in Workforce Optimization for ITSM** section.
+ To use the features in Workforce Optimization for ITSM, see the **Explore key features in Workforce Optimization for ITSM** section.
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Explore key features in Service Operations Workspace
 
 </td><td>
 
-It provides an onboarding experience by specifying all key features to get started with [[sow-landing-page|Service Operations Workspace for ITSM]].
+It provides an onboarding experience by specifying all key features to get started with Service Operations Workspace for ITSM.
 
  \[Omitted image "onboarding-sow-itsm.png"\] Alt text: Onboarding experience for logged-in users
 
@@ -199,11 +199,5 @@ For more information, see [Service Operations Workspace - Learning](https://raw.
 
 [Exploring Recommended Actions for ITSM in Service Operations Workspace]()
 
-[Exploring [[c_OnCallScheduling|On-call Scheduling]] in Service Operations Workspace]()
+[Exploring On-call Scheduling in Service Operations Workspace]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

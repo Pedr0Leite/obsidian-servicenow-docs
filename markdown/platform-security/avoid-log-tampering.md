@@ -12,7 +12,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 # Avoid log tampering
 
-Configure [[r_SystemLogs|system log]] table protection rules to limit the scope of modification and deletion of application log records. The rules enable you to determine the logging of changes or attempts to changes in these tables.
+Configure system log table protection rules to limit the scope of modification and deletion of application log records. The rules enable you to determine the logging of changes or attempts to changes in these tables.
 
 If you are a security\_admin, activate the Protected Tables plugin \(com.glide.protected\_tables\) that allows the platform to restrict update, insert and delete operations on the following system log tables:
 
@@ -25,9 +25,9 @@ If you are a security\_admin, activate the Protected Tables plugin \(com.glide.p
 -   syslog\_app\_scope
 -   protected\_table\_configuration \(config not modifiable\)
 
-**Note:** The com.glide.protected\_tables plugin gives protection only to the system log tables mentioned above. Any attempt to update, insert or delete a record [[logs|logs]] a message in the protected\_table\_log table.
+**Note:** The com.glide.protected\_tables plugin gives protection only to the system log tables mentioned above. Any attempt to update, insert or delete a record logs a message in the protected\_table\_log table.
 
-See [[accept-log-protection|Installing and configuring the log protection plugin]] for more details.
+See [Installing and configuring the log protection plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/accept-log-protection.md) for more details.
 
 You can specify one of the following log protection levels for each of the system log table.
 
@@ -44,11 +44,5 @@ If there have been any attempts to modify the system log tables, they are logged
 
 **Note:** If the protection level is not specified for a table, any attempts of modification are not logged into the protected\_table\_log table.
 
-In order to disable the plugin operations on tables in the Admin Panel, set the com.glide.security.protected\_table.enabled property to false. See [[log-protection-property|Create log protection property]] for more information.
+In order to disable the plugin operations on tables in the Admin Panel, set the com.glide.security.protected\_table.enabled property to false. See [Create log protection property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/log-protection-property.md) for more information.
 
-## Related
-
-- [[accept-log-protection|Configuring the log protection plugin]]
-- [[log-protection-property|Create log protection property]]
-- [[r_SystemLogs|System log]]
-- [[logs|Logs]]

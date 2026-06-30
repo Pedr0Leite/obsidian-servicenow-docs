@@ -14,7 +14,7 @@ breadcrumb: [Create a Change model, Configure, Change Management, IT Service Man
 
 # Configure change model states
 
-Configure states for change [[c_Models|models]] and define transition between multiple states.
+Configure states for change models and define transition between multiple states.
 
 ## Before you begin
 
@@ -138,11 +138,7 @@ Option to make the condition active.
 
 Attach a process with defined conditions that enable transition between change model states. See [Attach a process for Change model states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/attach-process-change-model.md).
 
-Create [[change-templates|change templates]] based on the change model. For more information, see [Create and propose a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md).
+Create change templates based on the change model. For more information, see [Create and propose a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md).
 
 **Parent Topic:**[Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]

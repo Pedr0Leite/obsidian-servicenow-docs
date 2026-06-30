@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced configurations, Workforce Optimization for ITSM
 
 # Workforce Optimization for ITSM components
 
-The [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] application has tables to store user and application data or database views and a schedule job to collect data for indicators.
+The Workforce Optimization for ITSM application has tables to store user and application data or database views and a schedule job to collect data for indicators.
 
 ## Roles
 
@@ -66,7 +66,7 @@ Workforce Optimization ITSM Employee \[sn\_wfo\_cfg\_itsm.employee\]
 
 </td><td>
 
-Grants read rights for [[cf-coaching-landing|Coaching]], Scheduling and Teams [[dex-workspace-application-tab|applications]].
+Grants read rights for Coaching, Scheduling and Teams applications.
 
 </td><td>
 
@@ -134,7 +134,7 @@ Workforce Optimization for ITSM Manager base system role \[sn\_wfo\_cfg\_itsm.ba
 
 </td><td>
 
-Grants access to the manager workspace [[dex-workspace-dashboard-tab|landing page]] and the list module.
+Grants access to the manager workspace landing page and the list module.
 
 </td><td>
 
@@ -213,9 +213,3 @@ Manager Groups database view \[sn\_wfo\_manager\_groups\]**Note:** The filters f
 
 **Parent Topic:**[Workforce Optimization for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-reference.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-dashboard-tab|Landing page]]

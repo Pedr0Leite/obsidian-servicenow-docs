@@ -14,7 +14,7 @@ breadcrumb: [Viewing Cloud Account Management dashboards, Using Cloud Account Ma
 
 # Viewing the cloud asset explorer
 
-The dashboard helps [[cloud-governance|cloud governance]] and operations teams monitor, track, and act on compliance and asset details more efficiently. As an asset viewer, you can view all assets and drill down to see detailed information for each configuration item \(CI\).
+The dashboard helps cloud governance and operations teams monitor, track, and act on compliance and asset details more efficiently. As an asset viewer, you can view all assets and drill down to see detailed information for each configuration item \(CI\).
 
 You can access the dashboard in either of two ways.
 
@@ -25,6 +25,3 @@ You can access the dashboard in either of two ways.
 
 **Note:** You can enable or disable the Asset collection configuration to list the CIs. For more information, see [Configure cloud asset collection table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-cloud-asset-collection-table.md).
 
-## Related
-
-- [[cloud-governance|Cloud Governance]]

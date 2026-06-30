@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 You can use the Windows and SQL Server Infrastructure report to gain visibility into the infrastructure details for all physical hosts and virtual machines \(VMs\) that are running Microsoft Windows Server or Microsoft SQL Server across your on-premise and public cloud environments, such as AWS and Microsoft Azure.
 
-The Windows and SQL Server Infrastructure report is available in both the [[sam-workspace|Software Asset Workspace]] and the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+The Windows and SQL Server Infrastructure report is available in both the Software Asset Workspace and the Software Asset Management classic application.
 
 To view this report in the Software Asset Workspace, navigate to **Workspaces** &gt; **Software Asset Workspace**. From the Software Asset Workspace, navigate to **License usage** &gt; **Reports** &gt; **Windows and SQL Server Infrastructure**.
 
@@ -171,7 +171,3 @@ Cloud license type of the Microsoft SQL Server installation. The options are **B
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

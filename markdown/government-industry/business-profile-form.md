@@ -14,7 +14,7 @@ breadcrumb: [Public Service Profile Forms, Forms, Reference, Public Sector Digit
 
 Use the Business Profile form in Public Sector Digital Services to capture and display the details about a business. You can add the name and address of the business owner, trademark status, industry information, partner records, or business structure.
 
-The Business Profile form displays detailed information about a business and its contacts. This information is collected on registration for the [[gsp-overview-public-sector|Government Service Portal]].
+The Business Profile form displays detailed information about a business and its contacts. This information is collected on registration for the Government Service Portal.
 
 <table id="table_ut8_c4r_bsc"><thead><tr><th>
 
@@ -259,9 +259,5 @@ Type of identification. This field appears only when an option is selected from 
 -   Medicare ID
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]
+</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-profile-forms.md)
 
-## Related
-
-- [[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]
-- [[gsp-overview-public-sector|Government Service Portal]]

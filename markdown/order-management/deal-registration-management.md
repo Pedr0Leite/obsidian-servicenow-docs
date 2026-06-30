@@ -25,15 +25,15 @@ The Deal Registration Management application \(com.snc.deal\_registration\_manag
 
 ## Set up Deal Registration
 
-Deal registration provides channel partners exclusive rights to work on that particular deal registration or customer for a period of time. To install the Deal Registration Management plugin \(com.snc.deal\_registration\_management\), see [[install-deal-registration-management|Install Deal Registration]].
+Deal registration provides channel partners exclusive rights to work on that particular deal registration or customer for a period of time. To install the Deal Registration Management plugin \(com.snc.deal\_registration\_management\), see [Install Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-deal-registration-management.md).
 
 Deal registrations and deal registration line items help to manage and track the products that are associated with submitted deal registrations. The Deal Registration Management plugin can promote trust and transparency between enterprises and partners.
 
 |Task|Description|Role|
 |----|-----------|----|
 |[Install Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-deal-registration-management.md)|Install the Deal Registration Management application from ServiceNow® Store.|admin|
-|[[data-model-for-deal-registration-management|Data model for Deal Registration Management]]|Add data in the deal registration tables to maintain and track partner submitted deals and the line items linked to a deal registration.|Experience \(sn\_prm\_dr.deal\_reg\_ui\)|
-|[[roles-and-components-of-deal-registration-management|Roles and components of Deal Registration Management]]|The Deal Registration Management \(com.snc.deal\_registration\_management\) application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between segments and partners.|admin|
+|[Data model for Deal Registration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-deal-registration-management.md)|Add data in the deal registration tables to maintain and track partner submitted deals and the line items linked to a deal registration.|Experience \(sn\_prm\_dr.deal\_reg\_ui\)|
+|[Roles and components of Deal Registration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-deal-registration-management.md)|The Deal Registration Management \(com.snc.deal\_registration\_management\) application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between segments and partners.|admin|
 
 -   **[Install Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-deal-registration-management.md)**  
 Install the plugin \(com.snc.deal\_registration\_management\), along with the demo data and installations that are related to ServiceNow® Store applications and plugins.
@@ -42,20 +42,12 @@ The deal registration management data model provides a framework for channel par
 -   **[Roles and components of Deal Registration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-deal-registration-management.md)**  
 The Deal Registration Management application \(com.snc.deal\_registration\_management\) uses roles to provide access to information, identify internal and external users, and maintain data security.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[install-deal-registration-management|Install Deal Registration]]
-- [[data-model-for-deal-registration-management|Data model for Deal Registration Management]]
-- [[roles-and-components-of-deal-registration-management|Roles and components of Deal Registration Management]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]

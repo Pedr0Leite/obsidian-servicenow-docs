@@ -14,7 +14,7 @@ breadcrumb: [Resource Plan form, Resource Management reference, Resource Managem
 
 # Resource Plan form tabs
 
-Use the resource plan form tabs to [[t_CreateResourcePlanProjectTask|create a resource plan]].
+Use the resource plan form tabs to create a resource plan.
 
 <table id="table_cdm_dm1_mcc"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Skills
 
 </td><td>
 
-Skills that the requested resources possess to allocate them to the resource plan.**Note:** This field is only available for [[c_ResourcePlans|resource plans]] with all or any members preference.
+Skills that the requested resources possess to allocate them to the resource plan.**Note:** This field is only available for resource plans with all or any members preference.
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Confirmed/Allocated cost
 Amount of confirmed or allocated hours multiplied by the hourly rate of the confirmed or allocated resources. Provides a more accurate estimation of the cost of the plan that is confirmed or allocated.-   If the **Rate override** option is selected, the hourly rate specified in the **Resource rate** field is used.
 -   If a rate model is populated on the project or demand to which the resource plan is associated, the hourly rate is derived from the rate model.
 -   If rate model is not available, labor rate card determines the hourly rate.
--   If no labor card is found for the user, the hourly rate is taken from the following time card property: **Default hourly rate used when processing [[c_TimeCards|time cards]] if we can't get a rate from labor rate cards \(in system currency\)**.
+-   If no labor card is found for the user, the hourly rate is taken from the following time card property: **Default hourly rate used when processing time cards if we can't get a rate from labor rate cards \(in system currency\)**.
 
 </td></tr><tr><td>
 
@@ -301,8 +301,3 @@ Type of hard allocation selected during the creation of the resource plan.
 
 **Parent Topic:**[Resource Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form.md)
 
-## Related
-
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_TimeCards|Time cards]]

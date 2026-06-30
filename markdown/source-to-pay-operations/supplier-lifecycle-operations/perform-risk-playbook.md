@@ -14,7 +14,7 @@ breadcrumb: [Create a supplier, Using Source-to-Pay Workspace, Use, Supplier Lif
 
 # Perform risk assessment playbook
 
-The Perform risk assessment playbook includes activities that enable you to conduct risk assessments for the [[supplier|supplier]] that you are onboarding.
+The Perform risk assessment playbook includes activities that enable you to conduct risk assessments for the supplier that you are onboarding.
 
 The type of flow that is triggered in the Perform risk assessment playbook depends on the plugins that you have installed.
 
@@ -30,11 +30,11 @@ Playbook flow
 
 </th></tr></thead><tbody><tr><td>
 
-Risk Assessments Integration for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \[com.snc.sn\_supplier\_tprm\]
+Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\]
 
 </td><td>
 
-The Perform risk assessment playbook flow creates risk and tiering assessments to verify the eligibility of the supplier. For more information, see [[risk-flow-slo-vrm|Risk assessment flow when only Vendor Risk Management is installed]].
+The Perform risk assessment playbook flow creates risk and tiering assessments to verify the eligibility of the supplier. For more information, see [Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/risk-flow-slo-vrm.md).
 
 </td></tr><tr><td>
 
@@ -66,8 +66,3 @@ If you have installed both the Risk Assessments Integration for Supplier Lifecyc
 
 [Add a subsidiary for a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-subsidiary.md)
 
-## Related
-
-- [[risk-flow-slo-vrm|Risk assessment flow when only Vendor Risk Management is installed]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

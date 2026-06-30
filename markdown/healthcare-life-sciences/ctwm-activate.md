@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Work Management, Healthcare Operations, Health
 
 # Activate Care Team Work Management
 
-Activate the [[ctwm-landing|Care Team Work Management]] \[com.sn\_cto\] application.
+Activate the Care Team Work Management \[com.sn\_cto\] application.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: admin
 
 The application includes demo data for Care Team Work Management and installs related applications and plugins when they aren’t already installed.
 
-This application has a dependency on [[hcls-cto-app|Healthcare Operations Core]] \[com.sn\_hco\].
+This application has a dependency on Healthcare Operations Core \[com.sn\_hco\].
 
 **Note:** Installing Care Team Work Management also installs the following applications:
 
--   [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
+-   Healthcare and Life Sciences Service Management Core
 -   Healthcare Operations Core
--   [[healthcare-operations-overview|Healthcare Operations]] Orchestration
+-   Healthcare Operations Orchestration
 -   Smart Assessments
 -   Task Plan Templates
 -   Planned Work Management \(PWM\)
@@ -43,9 +43,4 @@ This application has a dependency on [[hcls-cto-app|Healthcare Operations Core]]
 
 4.  Select **Install**.
 
-## Related
 
-- [[ctwm-landing|Care Team Work Management]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]

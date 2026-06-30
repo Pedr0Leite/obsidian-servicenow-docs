@@ -14,7 +14,7 @@ breadcrumb: [Non-persistent VDI monitoring configuration, Configure, Digital End
 
 # Prepare non-persistent VDI reference device
 
-Remove the registration certificate, agent identifier, cached databases, and logs from the [[reference-for-itsm-mobile-agent|reference]] device before sealing it as a golden image. This cleanup confirms that each VDI duplicated from the image registers with a unique identity on first start.
+Remove the registration certificate, agent identifier, cached databases, and logs from the reference device before sealing it as a golden image. This cleanup confirms that each VDI duplicated from the image registers with a unique identity on first start.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ The reference device is ready to be sealed as a golden image. The Agent Client C
 
 Configure the VDI pool to use the golden image. See [Manage logon and logoff scripts for non-persistent VDIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/configure-np-vdis.md).
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

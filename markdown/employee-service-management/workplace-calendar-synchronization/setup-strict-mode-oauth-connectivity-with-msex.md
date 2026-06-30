@@ -22,7 +22,7 @@ Create a strict mode app registry for Microsoft Exchange Online with ServiceNow 
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -121,6 +121,3 @@ To configure the default alias, refer to [Configure strict mode Connection and C
 
 [Configure Microsoft Exchange Online calendar provider in strict mode]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

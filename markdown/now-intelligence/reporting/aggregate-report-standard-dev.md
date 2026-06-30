@@ -14,7 +14,7 @@ breadcrumb: [Aggregation in reporting, Reporting reference, Reporting, Reporting
 
 # Aggregate a report on standard deviation
 
-When you [[t_CreateYourOwnReport|create a report]], you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The standard deviation aggregation shows variation from average values for a duration or numeric field in a visualization.
+When you create a report, you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The standard deviation aggregation shows variation from average values for a duration or numeric field in a visualization.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Standard deviation is always expressed in the same unit as the data. In the foll
 
 The sections of the visualization are grouped by the highest or lowest value for the selected records.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]

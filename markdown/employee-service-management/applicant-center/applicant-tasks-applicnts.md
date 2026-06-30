@@ -14,7 +14,7 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 # Tasks in Applicant Center
 
-[[applicant-center-concept|Applicant Center]] provides the applicants with the necessary alerts and means to finish their assigned tasks in the portal.
+Applicant Center provides the applicants with the necessary alerts and means to finish their assigned tasks in the portal.
 
 See all your assigned tasks on the home page of your Applicant Center portal. There is a **View details** button along with the notification on the home page. When you click on it, it redirects you to the **My TO-DOs** tab in the application record page. You can complete the task from the **My TO-DOs** tab.
 
@@ -24,6 +24,3 @@ For more information on task-related notifications in the Applicant Center, see 
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

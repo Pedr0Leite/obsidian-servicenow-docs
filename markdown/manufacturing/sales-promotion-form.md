@@ -12,21 +12,14 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 # Sales promotion form
 
-Includes all the forms related to the [[mco-sales-promotion|sales promotion]].
+Includes all the forms related to the sales promotion.
 
--   **[[mco-all-promotion-form|All promotion form]]**  
+-   **[All promotion form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-all-promotion-form.md)**  
 The All promotion form enables the manufacturers to enter the promotion campaign and incentive details.
--   **[[mco-my-promotions-form|My promotions form]]**  
+-   **[My promotions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions-form.md)**  
 The My promotions form enables the manufacturers to enter the promotion campaign and incentive details.
--   **[[mco-sp-bulk-upload-form|Sales promotion bulk upload form]]**  
+-   **[Sales promotion bulk upload form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sp-bulk-upload-form.md)**  
 Bulk sales promotion upload form.
 
-**Parent Topic:**[[manufacturing-reference|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
-## Related
-
-- [[mco-all-promotion-form|All promotion form]]
-- [[mco-my-promotions-form|My promotions form]]
-- [[mco-sp-bulk-upload-form|Sales promotion bulk upload form]]
-- [[manufacturing-reference|Reference]]
-- [[mco-sales-promotion|Sales promotion]]

@@ -12,7 +12,7 @@ breadcrumb: [Full email composer, Emails, Use, Configurable Workspace UI, Config
 
 # Use response templates in the full email composer
 
-Insert common responses into your emails by using response templates in the [[activity-stream-compose-configurable-workspace|Compose]] Email page instead of manually drafting a response.
+Insert common responses into your emails by using response templates in the Compose Email page instead of manually drafting a response.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: email\_composer
 
 2.  Open the Compose Email page by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) and **Compose Email**.
 
-3.  Apply a response template from the [[agent-assist-configurable-workspace|Agent Assist]] panel.
+3.  Apply a response template from the Agent Assist panel.
 
     1.  From the Agent Assist panel, select the Response Templates icon \(\[Omitted image "xs2-response-templates-icon.png"\] Alt text: Response Templates icon\).
 
@@ -58,10 +58,6 @@ Role required: email\_composer
 
 5.  Apply a response template with a keyboard shortcut.
 
-    For instructions on applying a response template with a keyboard shortcut, see [[add-response-templates-shortcut|Add response templates with a keyboard shortcut]].
+    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-response-templates-shortcut.md).
 
-## Related
 
-- [[add-response-templates-shortcut|Use keyboard shortcuts for emails]]
-- [[activity-stream-compose-configurable-workspace|Compose]]
-- [[agent-assist-configurable-workspace|Agent assist]]

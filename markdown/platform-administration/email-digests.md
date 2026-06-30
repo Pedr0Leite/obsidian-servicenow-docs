@@ -12,19 +12,19 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Email digests
 
-An email digest is a single email that summarizes the activity for a selected notification and its target records during a specified time interval. You can enable an email digest to reduce the number of [[notifications|notifications]] received when frequent updates to the associated records occur within a short time period.
+An email digest is a single email that summarizes the activity for a selected notification and its target records during a specified time interval. You can enable an email digest to reduce the number of notifications received when frequent updates to the associated records occur within a short time period.
 
 \[Omitted image "EmailDigestExample.png"\] Alt text: Email digest example that has a summary of incident comments
 
-**Note:** Email digests apply to email notifications only and are not supported for SMS messages, [[c_PushNotifications|push notifications]], and activity streams.
+**Note:** Email digests apply to email notifications only and are not supported for SMS messages, push notifications, and activity streams.
 
 ## How email digests work
 
-In new and upgraded instances, the Email digest \(com.glide.email\_digest\) plugin is activated by default. Your instance must use the Core UI interface, since the email digest feature involves setting [[user-notification-preferences|user notification preferences]].
+In new and upgraded instances, the Email digest \(com.glide.email\_digest\) plugin is activated by default. Your instance must use the Core UI interface, since the email digest feature involves setting [user notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md).
 
 Admins determine which notifications can be delivered in an email digest and configure the digest content for those notifications. They also set the intervals for digests. An interval is the length of time that notifications are collected for the digest, such as daily or hourly.
 
-Users enable the digest and select the digest interval for a specific notification in their [[preferences-landing|notification preferences]]. The system accumulates the notifications that normally would be sent during the specified interval and summarizes them in the email digest.
+Users enable the digest and select the digest interval for a specific notification in their notification preferences. The system accumulates the notifications that normally would be sent during the specified interval and summarizes them in the email digest.
 
 When processing an email digest, the system:
 
@@ -42,17 +42,17 @@ When processing an email digest, the system:
 ## Set up email digests
 
 -   **What to do — admins**
-    1.  Review the base system digest intervals and if needed, [[create-digest-intervals|create or modify intervals]].
+    1.  Review the base system digest intervals and if needed, [create or modify intervals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-digest-intervals.md).
 
         The base system digest intervals are one day \(24 hours\), one hour, every four hours, and seven days \(weekly\).
 
-    2.  Determine the email notifications that can be delivered in a digest and [[configure-email-digest|configure the email digest content]] for those notifications.
+    2.  Determine the email notifications that can be delivered in a digest and [configure the email digest content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md) for those notifications.
 
         When determining which notifications are appropriate for an email digest, consider the notification content and intervals that your users can select. For example, digests that can be generated weekly might be better suited for notifications that are non-urgent.
 
 -   **What to do — all users**
 
-    For a notification that can be delivered in an email digest, [[enable-email-digest|enable the email digest in your notification preferences]] \(**Notifications** tab in the System Settings window\). You also specify the interval time that the notifications are accumulated.
+    For a notification that can be delivered in an email digest, [enable the email digest in your notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-digest.md) \(**Notifications** tab in the System Settings window\). You also specify the interval time that the notifications are accumulated.
 
 -   **Next step**
 
@@ -63,12 +63,12 @@ When processing an email digest, the system:
 Admins can create or modify the email digest intervals \(length of time\) during which activity for a selected notification is accumulated in an email digest. Users select a digest interval when they enable an email digest in their notification preferences.
 -   **[Configure email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md)**  
 Use the Notification form to create or modify the content of an email digest for a notification. You can also disable the email digest for a notification so that it isn’t available in the notification preferences of your users.
--   **[[enable-email-digest-next-exp|Enable email digest in Next Experience]]**  
+-   **[Enable email digest in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-digest-next-exp.md)**  
 Reduce the number of email notifications you receive by enabling email digest notifications. An email digest is a single email that summarizes the activity for a selected notification and its target record during a specified time interval.
 -   **[Enable an email digest in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-digest.md)**  
 Reduce the number of notifications you receive for a selected target record during a specified time interval by enabling an email digest. The digest is a single email that collects individual notifications for a targeted record generated during the specified interval. The email digest of two different target records will not be clubbed in a single email.
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -95,14 +95,3 @@ Reduce the number of notifications you receive for a selected target record duri
 
 [Email FAQs and troubleshooting notification emails]()
 
-## Related
-
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[create-digest-intervals|Create or modify email digest intervals]]
-- [[configure-email-digest|Configure email digests]]
-- [[enable-email-digest|Enable an email digest in Core UI]]
-- [[enable-email-digest-next-exp|Enable email digest in Next Experience]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]
-- [[c_PushNotifications|Push notifications]]
-- [[preferences-landing|Notification Preferences]]

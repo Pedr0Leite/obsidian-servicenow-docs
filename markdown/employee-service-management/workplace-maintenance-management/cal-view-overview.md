@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
 2.  Select the **Preventative Maintenance** tab and select **All Plans**.
 
@@ -32,7 +32,7 @@ Role required: admin
 
 4.  The **Overview** tab shows a weekly calendar for a selected plan record.
 
-    \[Omitted image "wsd-maint-overview-tab.png"\] Alt text: Maintenance plan calendar view showing the [[overview-lxp-widgets|Overview tab]] and maintenance cases.
+    \[Omitted image "wsd-maint-overview-tab.png"\] Alt text: Maintenance plan calendar view showing the Overview tab and maintenance cases.
 
     **Note:** The Overview tab currently supports the weekly view and the current system time zone.
 
@@ -54,7 +54,7 @@ Role required: admin
 
         -   Comments: Option to add comments for Workplace Managers.
         -   Work notes Private: Private work notes.
-    6.  [[activity-lxp|Activity]]: Activity initiated on a Workplace maintenance plan.
+    6.  Activity: Activity initiated on a Workplace maintenance plan.
 
     7.  Schedules: Search for schedules.
 
@@ -62,11 +62,11 @@ Role required: admin
 
     \[Omitted image "wsd-cal-maint-items.png"\] Alt text: Calendar view showing maintenance items for a maintenance plan.
 
-    1.  Select the record number for a maintenance item \(for example, SPCE0009004\) to view details for the [[workplace-safety-mgmt-hr|Workplace Core]] [[space-new-record-form|Space form]].
+    1.  Select the record number for a maintenance item \(for example, SPCE0009004\) to view details for the Workplace Core Space form.
 
         Floors, spaces, and areas associated for a selected building are displayed as part of the maintenance items.
 
-    2.  Case Details panel on the right shows the [[workplace-case-mgmt-feat|Workplace Case Management]] case ID number.
+    2.  Case Details panel on the right shows the Workplace Case Management case ID number.
 
         -   State: Indicates status of a maintenance case.
         -   Assigned to: Indicates the user assigned to a workplace maintenance case.
@@ -98,7 +98,7 @@ Role required: admin
 
 10. Select **Maintenance cases** tab.
 
-    The [[create-maint-cases|workplace Maintenance cases]] are created only if the corresponding plan record can pick a template by satisfying a condition in the Workplace Maintenance Service Configuration \(sn\_wsd\_maintenance\_service\_config\) table. You can construct any condition on the Workplace Maintenance Service Configuration table, and the template is assigned to a maintenance case when a condition is satisfied. For more information, see [Create plan service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md).
+    The workplace Maintenance cases are created only if the corresponding plan record can pick a template by satisfying a condition in the Workplace Maintenance Service Configuration \(sn\_wsd\_maintenance\_service\_config\) table. You can construct any condition on the Workplace Maintenance Service Configuration table, and the template is assigned to a maintenance case when a condition is satisfied. For more information, see [Create plan service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md).
 
     |Column|Description|
     |------|-----------|
@@ -122,12 +122,3 @@ Role required: admin
 
 **Next topic:**[Create or copy a maintenance schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-schedule.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[overview-lxp-widgets|Overview tab]]
-- [[activity-lxp|Activity]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-new-record-form|Space form]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[create-maint-cases|Workplace maintenance cases]]

@@ -24,20 +24,20 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[configure-csm-case-management|Configure case management]]
+[Configure case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-management.md)
 
 </td><td>
 
 Configure the case management features that enable agents and customers to create cases for issues and questions, track the activities related to resolving issues, and provide communication between the agent and customer.Some of the case management features include the following:
 
--   [[configure-case-form|Configure a Case form view]] to display the desired fields and related [[migration-lists|lists]].
--   [[t_DefineSLAForCustServiceCase|Configure SLA definitions for customer service cases]] to specify the time within which service must be provided.
--   [[configure-major-issue-management|Configure major issue management]] to manage the communication and resolution process for issues that impact multiple customers.
--   [[configure-special-handling-notes|Configure special handling notes]] to bring important case information to an agent’s attention.
+-   [Configure a Case form view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-form.md) to display the desired fields and related lists.
+-   [Configure SLA definitions for customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_DefineSLAForCustServiceCase.md) to specify the time within which service must be provided.
+-   [Configure major issue management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-major-issue-management.md) to manage the communication and resolution process for issues that impact multiple customers.
+-   [Configure special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-special-handling-notes.md) to bring important case information to an agent’s attention.
 
 </td></tr><tr><td>
 
-[[customer-service-case-types|Customer service case types]]
+[Customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Configure case types to handle different types of customer issues. When creating
 
 </td></tr><tr><td>
 
-[[task-plan-templates|Task Plan Templates]]
+[Task Plan Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-templates.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ A task plan template defines the tasks, records, and conditions used to automati
 
 </td></tr><tr><td>
 
-[[csm-case-mgmt-order-ops|Order Operations Case Management]]
+[Order Operations Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Order Operations Case Management enables agents to manage issues across multiple
 
 </td></tr><tr><td>
 
-[[csm-case-mgmt-case-lines|Case Lines and Workflows]]
+[Case Lines and Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Case Lines and Workflows enables agents and customers to manage multiple related
 
 </td></tr><tr><td>
 
-[[csm-invoice-operations|Case Management for Invoice Operations]]
+[Case Management for Invoice Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-invoice-operations.md)
 
 </td><td>
 
@@ -77,7 +77,7 @@ Case Management for Invoice Operations enables agents to manage invoice‑relate
 
 </td></tr><tr><td>
 
-[[csm-service-definitions|Service definitions]]
+[Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
 </td><td>
 
@@ -85,18 +85,3 @@ Configure service definitions that agents can use to create cases of the right t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-case-management|Configure case management]]
-- [[configure-case-form|Configure a Case form view]]
-- [[t_DefineSLAForCustServiceCase|Configure SLA definitions for customer service cases]]
-- [[configure-major-issue-management|Configure major issue management]]
-- [[configure-special-handling-notes|Configure special handling notes]]
-- [[customer-service-case-types|Customer service case types]]
-- [[task-plan-templates|Task Plan Templates]]
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-invoice-operations|Case Management for Invoice Operations]]
-- [[csm-service-definitions|Service definitions]]
-- [[migration-lists|Lists]]

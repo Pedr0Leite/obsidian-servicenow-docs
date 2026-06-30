@@ -28,9 +28,9 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 4.  Select **New**.
 
-5.  On the Create New CRM Touchpoint form, fill in the [[fields|fields]].
+5.  On the Create New CRM Touchpoint form, fill in the fields.
 
-    For a description of the field values, see [[create-crm-touchpoint-form|Create new CRM touchpoint form]].
+    For a description of the field values, see [Create new CRM touchpoint form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint-form.md).
 
 6.  Select **Save**.
 
@@ -39,28 +39,17 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 After creating a CRM touchpoint, you can plan and track the following pre-engagement activities from the touchpoint record:
 
--   Schedule a meeting with the customer or internal stakeholders to align on discovery goals or next steps. For more information, see [[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]].
--   Schedule a call to follow up on commitments made during a previous interaction or to prepare for upcoming customer engagement. For more information, see [[schedule-call-crm-touchpoint|Schedule a call from a touchpoint]].
--   Compose and send an email to share information, confirm meeting details, or follow up after a call. For more information, see [[compose-send-emails-crm-touchpoint|Send an email from a touchpoint]].
--   Create a related task to capture preparation work such as researching customer background, identifying stakeholders, or tracking commitments before closing the touchpoint. For more information, see [[create-touchpoint-related-tasks|Create a related task from a touchpoint]].
+-   Schedule a meeting with the customer or internal stakeholders to align on discovery goals or next steps. For more information, see [Schedule a meeting from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-meeting-touchpoint.md).
+-   Schedule a call to follow up on commitments made during a previous interaction or to prepare for upcoming customer engagement. For more information, see [Schedule a call from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-call-crm-touchpoint.md).
+-   Compose and send an email to share information, confirm meeting details, or follow up after a call. For more information, see [Send an email from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/compose-send-emails-crm-touchpoint.md).
+-   Create a related task to capture preparation work such as researching customer background, identifying stakeholders, or tracking commitments before closing the touchpoint. For more information, see [Create a related task from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-related-tasks.md).
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[create-crm-touchpoint-form|Create new CRM touchpoint form]]
-- [[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]]
-- [[schedule-call-crm-touchpoint|Schedule a call from a touchpoint]]
-- [[compose-send-emails-crm-touchpoint|Send an email from a touchpoint]]
-- [[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[fields|Fields]]

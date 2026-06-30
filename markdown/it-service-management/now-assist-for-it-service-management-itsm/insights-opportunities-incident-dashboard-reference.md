@@ -16,7 +16,7 @@ breadcrumb: [Insights and Opportunities for Incident dashboard, Now Assist for I
 
 # Insights and Opportunities for Incident dashboard reference
 
-[[reference-for-itsm-mobile-agent|Reference]] information for the widgets on the [[insights-opportunities-incident-dashboard|Insights and Opportunities for Incident dashboard]], including descriptions of each indicator and the data it presents.
+Reference information for the widgets on the Insights and Opportunities for Incident dashboard, including descriptions of each indicator and the data it presents.
 
 ## KPI widgets
 
@@ -30,7 +30,7 @@ breadcrumb: [Insights and Opportunities for Incident dashboard, Now Assist for I
 
 |Widget|Description|
 |------|-----------|
-|Incident trends|A sortable table listing incident trend categories, clustered by recurring themes, and ranked by total incident count. Use this table to identify recurring issues that may benefit from [[c_ProblemManagement|problem management]], knowledge articles, or automation. Select a row in the table to open the trend category view.|
+|Incident trends|A sortable table listing incident trend categories, clustered by recurring themes, and ranked by total incident count. Use this table to identify recurring issues that may benefit from problem management, knowledge articles, or automation. Select a row in the table to open the trend category view.|
 
 ## Distribution widgets
 
@@ -45,7 +45,7 @@ breadcrumb: [Insights and Opportunities for Incident dashboard, Now Assist for I
 
 |Widget|Description|
 |------|-----------|
-|Top configuration item classes|A table listing configuration item \(CI\) classes alongside the number of configuration items and total incidents associated with each class. Use this table to identify which CI types are most frequently involved in incidents and to focus [[c_AssetManagement|asset management]] or change efforts accordingly.|
+|Top configuration item classes|A table listing configuration item \(CI\) classes alongside the number of configuration items and total incidents associated with each class. Use this table to identify which CI types are most frequently involved in incidents and to focus asset management or change efforts accordingly.|
 |Top assignment groups with high reassignment count|A table listing assignment groups ranked by total reassignments, alongside the total incident count for each group. Use this table to identify routing inefficiencies, skill gaps, or capacity issues that are causing incidents to be reassigned multiple times before resolution.|
 
 ## Trend category view widgets
@@ -66,9 +66,3 @@ The trend category view includes all Dashboard view widgets scoped to the select
 |SLA-breached open incidents|A table listing open incidents that have breached their SLA, including the overdue duration, assignment group, and assignee. Use this table to identify and act on the most time-sensitive open incidents.|
 |Associated incidents|A full list of incidents in the selected trend category. Columns include incident number, opened date, short description, caller, sentiment, sentiment trend, priority, state, category, assignment group, and assignee. Select an incident number to open the incident record.|
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[insights-opportunities-incident-dashboard|Insights and Opportunities for Incident dashboard]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_AssetManagement|Asset Management]]

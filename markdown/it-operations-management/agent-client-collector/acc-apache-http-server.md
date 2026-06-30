@@ -14,7 +14,7 @@ breadcrumb: [Operating system and application monitoring using ACC, Exploring Ag
 
 # Configure Agent Client Collector Apache HTTP server monitoring
 
-To configure the [[acc-landing-page|Agent Client Collector]] to perform Apache HTTP server monitoring, set the following configurations in the Apache HTTP server application.
+To configure the Agent Client Collector to perform Apache HTTP server monitoring, set the following configurations in the Apache HTTP server application.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: agent\_client\_collector\_admin
 
 [Apache SLL/TLS Strong Encryption: How-to](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

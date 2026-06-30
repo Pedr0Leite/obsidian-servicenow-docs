@@ -17,7 +17,7 @@ breadcrumb: [CMDB dependent relationship rules, Configure, CMDB Identification a
 
 Create hosting and containment rules \(dependent relationship rules\) for CI classes to help with correctly identifying dependent CIs during the business discovery process and service mapping. Discovery calls the identification API that applies dependent relationship rules.
 
-You can create a basic hosting or containment rule in the [[ci-class-manager-landing-page|CI Class Manager]]. Or, use the Metadata Editor to create groups of hosting and containment rules, and inbound or outbound endpoints in containment rules. The CI Class Manager and the Metadata Editor are synchronized, and you can use each of those tools to display and edit a dependent rule.
+You can create a basic hosting or containment rule in the CI Class Manager. Or, use the Metadata Editor to create groups of hosting and containment rules, and inbound or outbound endpoints in containment rules. The CI Class Manager and the Metadata Editor are synchronized, and you can use each of those tools to display and edit a dependent rule.
 
 **Parent Topic:**[CMDB dependent relationship rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md)
 
@@ -142,6 +142,4 @@ Role required: sn\_cmdb\_admin or admin
 
 5.  Click **Create**.
 
-## Related
 
-- [[ci-class-manager-landing-page|CI Class Manager]]

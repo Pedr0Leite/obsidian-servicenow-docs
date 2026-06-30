@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Service Provider \(SP\) system properties
 
-These [[ca-system-properties|system properties]] define how the instance interacts with the IdP as a Service Provider.
+These system properties define how the instance interacts with the IdP as a Service Provider.
 
 Follow the sequential process to define IdP as Service Provider.
 
@@ -24,6 +24,3 @@ Follow the sequential process to define IdP as Service Provider.
 -   [\(Optional\) Enable providing an authentication context class for SAML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_OptEnableProvidingAuthContxtClass.md)
 -   [\(Optional\) Set keystore properties for signing logout requests for SAML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_OptSetKeystorePropsSignLogoutReqs.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]

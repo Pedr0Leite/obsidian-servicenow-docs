@@ -14,7 +14,7 @@ breadcrumb: [Configure conversational AI, Configure, Now Assist for Health and S
 
 # Configure Now Assist in virtual agent for Conversational AI Health and Safety Incident Report
 
-An admin can configure the default Now Assist in Virtual Agent assistants and the default Now Assist panel assistants \(Platform\). Configuring the assistants enables the Now Assist panel on the **[[employee-center-landing-page|Employee Center]]** and the [[health-safety-core-workspace|Health and Safety workspace]].
+An admin can configure the default Now Assist in Virtual Agent assistants and the default Now Assist panel assistants \(Platform\). Configuring the assistants enables the Now Assist panel on the **Employee Center** and the Health and Safety workspace.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
     For more information, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md).
 
 2.  Install the Now Assist for platform \[sn\_genai\_platform\] to enable Now Assist for the workspace.
-3.  Install the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] \[sn\_hs\_im\_incident\] plugin.
+3.  Install the Health and Safety Incident Management \[sn\_hs\_im\_incident\] plugin.
 
     For more information, see [Install Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md)
 
@@ -72,8 +72,3 @@ The Now Assist panel is enabled for the Employee center.
 
 **Parent Topic:**[Configure conversational AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-conversational-ai.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

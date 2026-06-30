@@ -26,7 +26,7 @@ Role required: resource\_user, resource\_manager
 -   When a resource assignment is moved beyond the task dates, the allocations outside the dates are cleared.
 -   You cannot move a resource assignment if actual efforts are captured for the work.
 
-    Use the **Show actuals** toggle \(\[Omitted image "rmw-show-actuals-toggle.png"\] Alt text: Toggle button to view actual hours in [[rsrc-mgmt-wrkspc|Resource Management Workspace]]\) from the settings \(\[Omitted image "rmw-settings-panel-icon.png"\] Alt text: Gear icon to view or hide settings side panel.\) side panel to view the efforts captured for an assignment via [[c_TimeCards|time cards]].
+    Use the **Show actuals** toggle \(\[Omitted image "rmw-show-actuals-toggle.png"\] Alt text: Toggle button to view actual hours in Resource Management Workspace\) from the settings \(\[Omitted image "rmw-settings-panel-icon.png"\] Alt text: Gear icon to view or hide settings side panel.\) side panel to view the efforts captured for an assignment via time cards.
 
 
 ## Procedure
@@ -54,7 +54,3 @@ Let's consider a resource assignment for Website Overhaul task is assigned to Gr
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[c_TimeCards|Time cards]]

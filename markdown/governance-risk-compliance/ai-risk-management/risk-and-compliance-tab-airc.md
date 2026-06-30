@@ -15,25 +15,25 @@ breadcrumb: [AI Risk and Compliance workspace, Explore, AI Risk and Compliance, 
 
 # Risk &amp; compliance tab
 
-The Risk &amp; compliance tab on the [[ai-risk-and-compliance|AI Risk and Compliance]] displays the risk classification of an AI asset inventory and the compliance posture for the selected authority documents and policies.
+The Risk &amp; compliance tab on the AI Risk and Compliance displays the risk classification of an AI asset inventory and the compliance posture for the selected authority documents and policies.
 
-[[ai-assets-airc|AI assets]] refer to the various components and resources that are essential for the development, deployment, and operation of artificial intelligence systems. These assets can include:
+AI assets refer to the various components and resources that are essential for the development, deployment, and operation of artificial intelligence systems. These assets can include:
 
 1.  [AI systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-system-airc.md): The complete software or hardware infrastructure that runs AI algorithms and processes. This can include machine learning platforms, natural language processing systems, and other AI-driven applications.
 2.  [AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-model-airc.md): The mathematical and computational models that are trained on data to perform specific tasks. These models can range from simple linear regression models to complex deep learning neural networks.
-3.  [Datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/dataset-airc.md): The collections of data used to train, validate, and test [[ai-model-airc|AI models]].
+3.  [Datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/dataset-airc.md): The collections of data used to train, validate, and test AI models.
 
-Understanding and managing these AI assets is crucial for ensuring that [[ai-system-airc|AI systems]] are effective, reliable, and compliant with regulatory and ethical standards as defined by your organization.
+Understanding and managing these AI assets is crucial for ensuring that AI systems are effective, reliable, and compliant with regulatory and ethical standards as defined by your organization.
 
 The Risk &amp; compliance dashboard has the following sections. You can drill down into the data on each widget in any section.
 
-**Note:** Dashboards in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]] \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** AI assets only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
+**Note:** Dashboards in the AI Risk and Compliance Workspace \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** AI assets only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
 
 ## Compliance overview
 
 -   **Regulatory risk classification**
 
-    This section displays the risk classifications of AI systems, AI models, [[dataset-airc|Datasets]] using donut charts. The risks are qualitatively classified as **High**, **Low**, **Medium**, and **Unacceptable**. These classifications are based on the [[risk-assessments|risk assessments]] of the AI assets.
+    This section displays the risk classifications of AI systems, AI models, Datasets using donut charts. The risks are qualitatively classified as **High**, **Low**, **Medium**, and **Unacceptable**. These classifications are based on the risk assessments of the AI assets.
 
 -   **Compliance by authority documents and policies**
 
@@ -56,21 +56,21 @@ This section monitors and tracks the risk posture of the AI assets in your organ
 
 -   **Risk heatmap**
 
-    The Risk heatmap widget displays the visualization of all identified risks within the AI assets. By default, a residual risk filter is applied, but you can filter it based on inherent risk level. The heatmap is segmented, and the segmentation changes based on the filter. The activities fall under the respective combination of risk and control effectiveness, or impact and likelihood. The combination is based on the selected risk classification filter. You can filter the risk heatmap by [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]], if you have more than one risk RAMs published.
+    The Risk heatmap widget displays the visualization of all identified risks within the AI assets. By default, a residual risk filter is applied, but you can filter it based on inherent risk level. The heatmap is segmented, and the segmentation changes based on the filter. The activities fall under the respective combination of risk and control effectiveness, or impact and likelihood. The combination is based on the selected risk classification filter. You can filter the risk heatmap by Risk Assessment Methodology \(RAM\), if you have more than one risk RAMs published.
 
 
 ## Regulatory landscape overview
 
-You need to install GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]] application to see this section. For more information, see [Installing Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/activate-grc-rcm.md).
+You need to install GRC: Regulatory Change Management application to see this section. For more information, see [Installing Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/activate-grc-rcm.md).
 
 -   **Overview**
     -   Alerts
 
-        This section displays the distribution of [[list-view-of-reg-alerts|regulatory alerts]] by workflow state or life cycle phase using a donut chart.
+        This section displays the distribution of regulatory alerts by workflow state or life cycle phase using a donut chart.
 
     -   Change tasks
 
-        This section displays the distribution of [[reg-change-task|regulatory change tasks]] by workflow state or life cycle phase using a donut chart.
+        This section displays the distribution of regulatory change tasks by workflow state or life cycle phase using a donut chart.
 
 -   **Assessments**
 
@@ -90,16 +90,3 @@ The following image shows the Risk &amp; compliance dashboard.
 
 [AI Risk and Compliance Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-content-pack.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-model-airc|AI models]]
-- [[ai-system-airc|AI systems]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[dataset-airc|Datasets]]
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

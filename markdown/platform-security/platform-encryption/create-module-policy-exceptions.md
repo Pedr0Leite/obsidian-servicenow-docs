@@ -64,7 +64,7 @@ Key Type
 
 </td><td>
 
-Key type that the exception [[ca-policies|policies]] are related to. **Note:** You may only select a single key type, but multiple exception policies can be created per cryptographic module.
+Key type that the exception policies are related to. **Note:** You may only select a single key type, but multiple exception policies can be created per cryptographic module.
 
 </td></tr><tr><td>
 
@@ -90,6 +90,3 @@ The result that occurs when the condition in the **Policy Condition** field is m
 
 **Parent Topic:**[Create a cryptographic module life-cycle policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module-lifecycle-policy.md)
 
-## Related
-
-- [[ca-policies|Policies]]

@@ -12,13 +12,13 @@ breadcrumb: [Antivirus Scanning]
 
 # Exploring Antivirus Scanning
 
-Use [[antivirus-protection|Antivirus Scanning]] to help protect your instance against virus infections that can be introduced by file attachments to your system records, such as incidents, problems, and stories.
+Use Antivirus Scanning to help protect your instance against virus infections that can be introduced by file attachments to your system records, such as incidents, problems, and stories.
 
-Antivirus Scanning scans file attachments stored in your attachment \[sys\_attachment\] table to help protect [[users|users]] from uploading and downloading infected files. All the document types supported by the Platform are scanned by Antivirus Scanning.
+Antivirus Scanning scans file attachments stored in your attachment \[sys\_attachment\] table to help protect users from uploading and downloading infected files. All the document types supported by the Platform are scanned by Antivirus Scanning.
 
 If Antivirus Scanning is enabled, all file attachments in the Attachments table \[sys\_attachment.do\] are scanned by default.
 
-The [[antivirus|Antivirus]] Protection plugin \(com.glide.snap\) is activated and enabled by default on your instance. As an administrator, you can deactivate and reactivate the Antivirus Scanning feature across your instance at the switch of a toggle, set [[sc-configuration|configuration]] options, and [[generate-log-report-of-quarantined-files|review antivirus activity]] on the instance.
+The Antivirus Protection plugin \(com.glide.snap\) is activated and enabled by default on your instance. As an administrator, you can deactivate and reactivate the Antivirus Scanning feature across your instance at the switch of a toggle, set configuration options, and review antivirus activity on the instance.
 
 **Note:**
 
@@ -60,7 +60,7 @@ Review these upload and download scenarios to understand how the system identifi
     2.  The system scans the file and moves it to quarantine.
     3.  The file appears in the Attachments window, where it’s marked as unavailable.
     4.  The user selects the file and this error message appears: `The file Infected_testing.txt did not pass the security scan. Please remove the file from record INC0000059 and try again.`
-    5.  The system sends an [[email|email]] notification to the user and the antivirus administrator.
+    5.  The system sends an email notification to the user and the antivirus administrator.
     6.  The user closes the Attachments window and is returned to the record. The infected file is displays in the header as unavailable. Example, `infected_testing123.txtZ [unavailable]`.
 -   **Scenario 2 - Download a file**
     1.  The user opens a record to download a file that is attached to it.
@@ -75,11 +75,3 @@ Review these upload and download scenarios to understand how the system identifi
     4.  The user opens the ZIP file and sees an “error.txt” file in addition to the successfully downloaded file. This file contains an error message specifying which file didn’t pass scanning and was therefore not included in the ZIP.
     5.  The user opens the record again, and sees that the unavailable file has been moved into the **Potential security risks** section in the Attachments window and can’t be downloaded.
 
-## Related
-
-- [[antivirus-protection|Antivirus Scanning]]
-- [[users|Users]]
-- [[antivirus|Antivirus]]
-- [[sc-configuration|Configuration]]
-- [[generate-log-report-of-quarantined-files|Review antivirus activity]]
-- [[email|Email]]

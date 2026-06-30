@@ -14,16 +14,16 @@ breadcrumb: [Time Sheet Portal, Time Card management, Project Portfolio Manageme
 
 # Create time cards and log time through Time Sheet Portal
 
-After you create [[c_TimeCards|time cards]] in [[worker-portal|Time Sheet Portal]], log time in the time cards.
+After you create time cards in Time Sheet Portal, log time in the time cards.
 
 ## Before you begin
 
--   Time sheet portal supports [resource assignments created using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in [[project-workspace-landing-page|Project Workspace]] and [[rsrc-mgmt-wrkspc|Resource Management Workspace]] heatmap view.
+-   Time sheet portal supports [resource assignments created using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in Project Workspace and Resource Management Workspace heatmap view.
 -   Role required: timecard\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Time Sheet Portal**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Create time cards in the **Logged Time Cards** section using any of the following options.
 
@@ -37,7 +37,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d321013e131">
 
-**Generate time cards for assigned projects or [[t_CreateAProjectTask|project tasks]]**
+**Generate time cards for assigned projects or project tasks**
 
 </td><td>
 
@@ -68,7 +68,7 @@ Steps
 
 </td></tr><tr><td id="d321013e234">
 
-**[[t_CreateATimeCard|Create a time card]] from the Tasks, Group Tasks, or Other tab**
+**Create a time card from the Tasks, Group Tasks, or Other tab**
 
 </td><td>
 
@@ -163,12 +163,3 @@ For issues you cannot resolve, contact your system administrator or the user wit
 
 **Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/worker-portal.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[worker-portal|Time Sheet Portal]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[time-sheets|Time Sheets]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[t_CreateATimeCard|Create a time card]]

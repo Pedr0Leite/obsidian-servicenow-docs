@@ -16,7 +16,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 Use the **NLU Prediction** tab to see how well NLU predicts intents, and to improve the intents so NLU makes better predictions.
 
-[[virtual-agent-landing-page|Virtual Agent]] \(VA\) uses the Natural Language Understanding \(NLU\) service to understand user input. **NLU Prediction** tab on the Conversational Analytics dashboard shows how well NLU is understanding user input in VA conversations. Virtual Agent comes with NLU models, but you can use the [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-nlu-workbench.md) to modify or create new models.
+Virtual Agent \(VA\) uses the Natural Language Understanding \(NLU\) service to understand user input. **NLU Prediction** tab on the Conversational Analytics dashboard shows how well NLU is understanding user input in VA conversations. Virtual Agent comes with NLU models, but you can use the [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-nlu-workbench.md) to modify or create new models.
 
 \[Omitted image "dashboard-NLU-entire-pae.png"\] Alt text: NLU Predictions page.
 
@@ -55,6 +55,3 @@ Test and modify the Virtual Agent models so they more accurately predict user in
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -22,11 +22,11 @@ Role required: timecard\_approver or timecard\_admin
 
 ## About this task
 
-You can view only those [[c_TimeCards|time cards]] that are submitted to you for approval or you have been delegated as the time card approver by one of the other user managers. The [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-time-sheet-policy.md) assigned to the user governs the approval process.
+You can view only those time cards that are submitted to you for approval or you have been delegated as the time card approver by one of the other user managers. The [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-time-sheet-policy.md) assigned to the user governs the approval process.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Time Cards** &gt; **Pending Approval**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Cards** &gt; **Pending Approval**.
 
 2.  Select the time card to approve or reject.
 
@@ -53,7 +53,3 @@ You can view only those [[c_TimeCards|time cards]] that are submitted to you for
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/c_TimeCards.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

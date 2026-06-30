@@ -14,20 +14,14 @@ breadcrumb: [Data model, Reference, Manufacturing Commercial Operations]
 
 The dealer framework helps you manage the day-to-day business activities and monitor the real-time data insight.
 
-The [[mco-dealer-portal|dealer portal]] provides you with a wide range of benefits such as claims management, fostering collaboration between OEM and dealers, service, and support. The [[manufacturing-overview|Manufacturing Commercial Operations]] dealer portal enables the dealer sales agent to raise a request for the claim reimbursement for any post sales discounts.
+The dealer portal provides you with a wide range of benefits such as claims management, fostering collaboration between OEM and dealers, service, and support. The Manufacturing Commercial Operations dealer portal enables the dealer sales agent to raise a request for the claim reimbursement for any post sales discounts.
 
 The following diagram shows the entities and their relationships within the Dealer application.
 
 \[Omitted image "Data-model-dealer.png"\] Alt text: Decorative
 
--   **[[dealer-tables|Dealer tables]]**  
+-   **[Dealer tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/dealer-tables.md)**  
 This section explains the dealer tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[[data-model|Data model]]
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 
-## Related
-
-- [[dealer-tables|Dealer tables]]
-- [[data-model|Data model]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

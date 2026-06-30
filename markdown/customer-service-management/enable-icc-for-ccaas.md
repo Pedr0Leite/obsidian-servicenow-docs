@@ -19,13 +19,13 @@ Implement prebuilt, certified integrations with Contact Center as a Service \(CC
 
 The Interaction Controls Component \(ICC\) feature enables CCaaS providers to display native voiceand callbackintegrations so agents can manage customer calls directly from their configurable workspace.
 
-For more information, see [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]] and [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]].
+For more information, see [Interaction Controls Component \(ICC\) for voice calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-controls-component-icc-callback-integration-features.md).
 
 The voice controls and callback controls display under the following conditions:
 
 -   When the interaction is a phone call, voice controls display.When the interaction is a phone call that is associated with a callback task, the callback controls display.
 -   The **Enable interaction controls** field is enabled on the OpenFrame Configuration record that allows the admin to configure the Agent Workspace to display voice interaction components.
--   The agent is a member of the user group specified on the OpenFrame Configuration record. If no user group is specified, all agents can access the [[csm-native-voice-record-page|CSM voice interaction record page]].
+-   The agent is a member of the user group specified on the OpenFrame Configuration record. If no user group is specified, all agents can access the CSM voice interaction record page.
 -   Ensure the certified third-party App Store plugin is installed. The following examples apply to voice interactions:
 
     -   [Unified Experience from Genesys](https://store.servicenow.com/store/app/cdff6b621ba46a50a85b16db234bcba3#linksAndDocuments)
@@ -64,11 +64,5 @@ Role required: admin
 
 ## What to do next
 
-Refer to [[plugin-requirements-for-external-call-routing-integration-for-contact-centers|Plugin requirements for voice and callback integrations with contact centers]] for dependencies and address all prerequisite requirements to access the ICC features.
+Refer to [Plugin requirements for voice and callback integrations with contact centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/plugin-requirements-for-external-call-routing-integration-for-contact-centers.md) for dependencies and address all prerequisite requirements to access the ICC features.
 
-## Related
-
-- [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]]
-- [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]]
-- [[plugin-requirements-for-external-call-routing-integration-for-contact-centers|Plugin requirements for voice and callback integrations with contact centers]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]

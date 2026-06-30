@@ -18,9 +18,9 @@ View agent records, agent schedules, and view or optimize the scheduled task rou
 
 ## Before you begin
 
-You must enable the sn\_fsm\_disp\_wrkspc.sn\_fsm.dispatch\_ws\_map.route\_enabled system property to display the Route icon in your [[dispatcher-activities|dispatcher workspace]].
+You must enable the sn\_fsm\_disp\_wrkspc.sn\_fsm.dispatch\_ws\_map.route\_enabled system property to display the Route icon in your dispatcher workspace.
 
-You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]].
+You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md).
 
 Role required: wm\_dispatcher and wm\_manager
 
@@ -70,7 +70,4 @@ If your organization uses schedule attribute plans with territories and your age
 
 6.  To clear the agent route from the map, select **Hide all routes** in the map view.
 
-## Related
 
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

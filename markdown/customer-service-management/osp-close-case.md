@@ -20,11 +20,11 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **My Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases** &gt; **My Cases**.
 
 2.  Open a case that you want to close.
 
-3.  Select the **Closure information** tab on the [[r_CustomerServiceCaseForm|case form]].
+3.  Select the **Closure information** tab on the case form.
 
 4.  In the **Resolution Code** field, select the appropriate code that best describes the resolution type \(for example, Solved \(Permanently\) or Workaround Provided\).
 
@@ -36,7 +36,4 @@ Role required: sn\_csm\_ocs.ext\_agent
 
     The case state changes to **Closed** state.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[r_CustomerServiceCaseForm|Case form]]

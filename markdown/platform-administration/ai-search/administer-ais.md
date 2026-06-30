@@ -14,7 +14,7 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Administering AI Search
 
-Learn how [[ia-ai-search|AI Search]] features and behavior affect indexing and search. Gain insight into AI Search behavior by reviewing log messages, ingestion history for indexed sources, and session debugging messages.
+Learn how AI Search features and behavior affect indexing and search. Gain insight into AI Search behavior by reviewing log messages, ingestion history for indexed sources, and session debugging messages.
 
 ## AI Search and performance testing
 
@@ -29,13 +29,13 @@ AI Search normalizes inflected words and Unicode glyphs during indexing and at s
 -   **[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)**  
 AI Search supports indexing and search in all languages offered by the ServiceNow AI Platform®. Search linguistic features are supported in Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French, French - Canada, German, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, and Turkish.
 -   **[Machine learning relevancy in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/machine-learning-relevancy-ais.md)**  
-AI Search displays the most relevant search [[hs-results|results]] for a query first. Machine learning automatically tunes search result relevancy scoring for search experiences based on aggregated user interactions.
+AI Search displays the most relevant search results for a query first. Machine learning automatically tunes search result relevancy scoring for search experiences based on aggregated user interactions.
 -   **[Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md)**  
 AI Search filters search query results and displays only records that the currently logged in user can access.
 -   **[Encrypted fields in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/encrypted-fields-ais.md)**  
 AI Search excludes source record fields encrypted with Encryption Support or Edge Encryption.
 -   **[Semantic vector search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-search-ais.md)**  
-Semantic vector search allows the Now LLM Service to find results based on how similar they are in meaning to your search terms. [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] and Now Assist in Virtual Agent use semantic vector search to improve recall with natural language interpretation of search queries.
+Semantic vector search allows the Now LLM Service to find results based on how similar they are in meaning to your search terms. Now Assist Q&amp;A Genius Results and Now Assist in Virtual Agent use semantic vector search to improve recall with natural language interpretation of search queries.
 -   **[AI Search logging and debugging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/logging-debugging-ais.md)**  
 Review AI Search logs and history to analyze performance and diagnose issues. View log messages and ingestion history, or use session debugging to capture detailed messages for a user session.
 -   **[Search Preview UI for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-preview-ui-new.md)**  
@@ -43,20 +43,13 @@ The Search Preview UI enables you to test AI Search queries using settings from 
 -   **[Diagnose search result access issues using the Search Preview UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/diagnose-srch-result-access-ais.md)**  
 Use the Search Preview UI and the AI Search High Security administrator elevated privilege role to determine whether filters prevent a search user from viewing a specific search result in the AI Search index.
 -   **[Debug search source and content security filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/debug-search-filters-ais.md)**  
-Use the Session Log to view search source and content security filters applied to results for a search query. Administrators can use this approach to verify search source filters and content [[ia-security-settings-il|security settings]].
+Use the Session Log to view search source and content security filters applied to results for a search query. Administrators can use this approach to verify search source filters and content security settings.
 -   **[Debug external content security filters for a ServiceNow AI Platform user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/debug-ext-security-perms-user-ais.md)**  
 Use the Session Log to view the set of externally defined user and group access permission filters associated with the current ServiceNow AI Platform user. Administrators can use this approach to verify that the proper user mappings exist for the current user.
 -   **[Review record counts for indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/record-counts-indexed-sources-ais.md)**  
 Understand where your indexed content originates by viewing record counts for your indexed sources in the AI Search Indexed Source Statistics table.
 -   **[Search query parameter evaluation framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/srch-qry-parm-eval-fw-ais.md)**  
-AI Search performs A/B test evaluations that compare result relevancy for alternate sets of search query parameter values. These evaluations determine the models that AI Search uses for machine learning relevancy and for [[genius-result-q-a-ais|Q&amp;A Genius Results]].
+AI Search performs A/B test evaluations that compare result relevancy for alternate sets of search query parameter values. These evaluations determine the models that AI Search uses for machine learning relevancy and for Q&amp;A Genius Results.
 
 **Parent Topic:**[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[ia-security-settings-il|Security Settings]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]

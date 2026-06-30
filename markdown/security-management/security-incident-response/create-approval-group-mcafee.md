@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Create an approval group
 
-Create an approval group for the McAfee ePO for [[security-operations-landing-page|Security Operations]] integration that can approve requests for isolating host machines, restoring them to the network.
+Create an approval group for the McAfee ePO for Security Operations integration that can approve requests for isolating host machines, restoring them to the network.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Approval requests submitted by the security incident analyst to isolate host mac
 
 **Next topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

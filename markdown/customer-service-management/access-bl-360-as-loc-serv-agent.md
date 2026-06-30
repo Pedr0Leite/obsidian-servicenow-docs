@@ -12,7 +12,7 @@ breadcrumb: [Using Business Location 360, Manage cases, Use, Customer Service Ma
 
 # Access Business Location 360 as a location service agent
 
-Access the business location 360 page in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application as a customer service agent. You can get a comprehensive, 360-degree view of the business location issues all in one place.
+Access the business location 360 page in the Customer Service Management \(CSM\) application as a customer service agent. You can get a comprehensive, 360-degree view of the business location issues all in one place.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ As a customer service agent \(sn\_customerservice\_agent\), you can use the busi
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  On the **[[migration-lists|Lists]]** tab, select **Cases** &gt; **All**.
+2.  On the **Lists** tab, select **Cases** &gt; **All**.
 
 3.  In the Cases list, select a case record with a business location.
 
@@ -36,16 +36,9 @@ As a customer service agent \(sn\_customerservice\_agent\), you can use the busi
 **Related topics**  
 
 
-[[ui-components-under-business-location-360|Business Location 360 components]]
+[Business Location 360 components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ui-components-under-business-location-360.md)
 
-[[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-agents.md)
 
-[[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
+[Access Business Location 360 as a customer service manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-csm-managers.md)
 
-## Related
-
-- [[ui-components-under-business-location-360|Business Location 360 components]]
-- [[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
-- [[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 # Custom interactive filter examples
 
-As an administrator, you can create custom interactive filter [[widgets|widgets]] to provide advanced filtering options on dashboards.
+As an administrator, you can create custom interactive filter widgets to provide advanced filtering options on dashboards.
 
 ## Use case
 
@@ -80,7 +80,7 @@ After you create the interactive filter, add the filtering logic.
 
 Role required: admin
 
-Filters use the [[c_DashboardMessageHandler|DashboardMessageHandler]] class to manage active filters. Instantiate DashboardMessageHandler with a unique value.
+Filters use the DashboardMessageHandler class to manage active filters. Instantiate DashboardMessageHandler with a unique value.
 
 **Note:** The ID of the custom interactive filter must be unique. If it has the same ID as another interactive filter or custom interactive filter, the filtering logic does work properly.
 
@@ -157,7 +157,7 @@ Role required: admin.
 
 2.  Open the business rule Get Date Filter Options for Date Filters.
 
-    This rule populates the list of selectable options in forms for new or existing date type [[c_HomepagePublishers|interactive filters]].
+    This rule populates the list of selectable options in forms for new or existing date type interactive filters.
 
 3.  On the **Advanced** tab, modify the **Script** field to include the JavaScript needed to add the new option.
 
@@ -233,7 +233,7 @@ You can use a custom interactive filter to filter multiple reports using differe
 
 Keep the following in mind when you create a custom interactive filter:
 
--   [[c_CustomPublishers|Custom interactive filters]] that apply to only one table use the function DashboardMessageHandler.publishFilter\(\).
+-   Custom interactive filters that apply to only one table use the function DashboardMessageHandler.publishFilter\(\).
 -   Custom interactive filters that apply to multiple tables use the function DashboardMessageHandler.publishMessage\(\).
 -   Before you publish, an interactive filter call to the SNC.canvas.interactiveFilters.setDefaultValue\(\) function is required.
 -   A call to either the SNC.canvas.interactiveFilters.removeDefaultValue\(\) or the DashboardMessageHandler.removeFilter\(\) function is required before you reset the filter.
@@ -276,9 +276,3 @@ Example of a filter that filters incident and problem table where the assignment
 </j:jelly>
 ```
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_DashboardMessageHandler|DashboardMessageHandler]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_CustomPublishers|Custom interactive filters]]

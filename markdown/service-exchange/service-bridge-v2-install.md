@@ -14,7 +14,7 @@ breadcrumb: [Service Exchange for Consumers, Service Exchange]
 
 # Configure Service Exchange for Consumers
 
-As a consumer, follow these steps to set up the [[service-bridge-consumers-landing-page|Service Exchange for Consumers]] application in your own instance.
+As a consumer, follow these steps to set up the Service Exchange for Consumers application in your own instance.
 
 ## Pre-installation checks
 
@@ -22,35 +22,20 @@ As a consumer, follow these steps to set up the [[service-bridge-consumers-landi
 
 |Task|Link|
 |----|----|
-|Install the Service Exchange for Consumers application.|See [[install-service-bridge-v2-customer|Install Service Exchange for Consumers]].|
-|Add Service Exchange roles for consumers.|See [[service-bridge-v2-customer-roles|Personas for consumers]].|
-|Register with a provider.|See [[service-bridge-v2-register|Connect to a provider]].|
-|Activate entitlements.|See [[service-bridge-v2-activate-entitlements|Activate a remote record producer in Service Exchange]].|
-|Configure consumer pre-flows.|See [[service-bridge-v2-conf-consumer-flow|Service Exchange consumer pre-flows]].|
-|Add authorized users.|See [[service-bridge-v2-create-auth-user|Add an authorized user]].|
-|Create transforms.|See [[service-bridge-v2-create-transform|Create a transform in Service Exchange]].|
-|Create [[service-bridge-v2-remote-task-overview|remote tasks]] to sync data.|See [[service-bridge-v2-remote-task-create|Create remote tasks to sync data]].|
-|Configure settings.|See [[service-bridge-v2-configure-consumer-settings|Configure settings on the consumer instance]].|
+|Install the Service Exchange for Consumers application.|See [Install Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/install-service-bridge-v2-customer.md).|
+|Add Service Exchange roles for consumers.|See [Personas for consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-customer-roles.md).|
+|Register with a provider.|See [Connect to a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-register.md).|
+|Activate entitlements.|See [Activate a remote record producer in Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-activate-entitlements.md).|
+|Configure consumer pre-flows.|See [Service Exchange consumer pre-flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-conf-consumer-flow.md).|
+|Add authorized users.|See [Add an authorized user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-auth-user.md).|
+|Create transforms.|See [Create a transform in Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-transform.md).|
+|Create remote tasks to sync data.|See [Create remote tasks to sync data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-task-create.md).|
+|Configure settings.|See [Configure settings on the consumer instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-consumer-settings.md).|
 
 **Related topics**  
 
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]]
+[Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 
-[[se-consumer-using|Use for consumers]]
+[Use for consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-consumer-using.md)
 
-## Related
-
-- [[install-service-bridge-v2-customer|Install Service Exchange for Consumers]]
-- [[service-bridge-v2-customer-roles|Personas for consumers]]
-- [[service-bridge-v2-register|Connect to a provider]]
-- [[service-bridge-v2-activate-entitlements|Activate a remote record producer in Service Exchange]]
-- [[service-bridge-v2-conf-consumer-flow|Service Exchange consumer pre-flows]]
-- [[service-bridge-v2-create-auth-user|Add an authorized user]]
-- [[service-bridge-v2-create-transform|Create a transform in Service Exchange]]
-- [[service-bridge-v2-remote-task-create|Create remote tasks to sync data]]
-- [[service-bridge-v2-configure-consumer-settings|Configure settings on the consumer instance]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-consumer-using|Use for consumers]]
-- [[service-bridge-consumers-landing-page|Service Exchange for Consumers]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]

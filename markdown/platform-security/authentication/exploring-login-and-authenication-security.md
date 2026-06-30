@@ -18,7 +18,7 @@ Configure login security options to control access to your instance.
 
 ## Security options
 
-You can control several aspects of user [[c_LoginSecurity|login and authentication security]]:
+You can control several aspects of user login and authentication security:
 
 <table id="table_nxm_qlz_k1b"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Log in and log out controls
 
 </td><td>
 
-Control several dimensions of the log in and log out process for [[users|users]], such as specifying a landing page that the user sees upon login and control how users log out.
+Control several dimensions of the log in and log out process for users, such as specifying a landing page that the user sees upon login and control how users log out.
 
 </td><td>
 
@@ -49,11 +49,11 @@ Control several dimensions of the log in and log out process for [[users|users]]
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]] security
+Authentication security
 
 </td><td>
 
-Control the [[c_SelfServicePasswordReset|password reset]] process and features like the [[c_ChSetRemMeChkbxCookie|Remember Me]] option. You can also use IP address-based controls for access to the instance and [[c_Implementation|implement a nonce]] to be used with single sign-on digest authentication.
+Control the password reset process and features like the Remember Me option. You can also use IP address-based controls for access to the instance and implement a nonce to be used with single sign-on digest authentication.
 
 </td><td>
 
@@ -65,12 +65,3 @@ Control the [[c_SelfServicePasswordReset|password reset]] process and features l
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_LoginSecurity|Login and authentication security]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[c_Implementation|Implement a nonce]]

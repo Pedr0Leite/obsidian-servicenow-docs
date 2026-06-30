@@ -17,9 +17,9 @@ You can edit dashboard and dashboard tab information in the inline editor. If th
 
 ## Before you begin
 
-You can edit the details of dashboards created in the inline editor and in the technical editor in the [[par-workspace|Platform Analytics experience]]. When you edit elements in dashboards created in the technical editor, you’re redirected to UI Builder.
+You can edit the details of dashboards created in the inline editor and in the technical editor in the Platform Analytics experience. When you edit elements in dashboards created in the technical editor, you’re redirected to UI Builder.
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [[pa-dashboard-roles|Platform Analytics dashboard roles]] for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## About this task
 
@@ -33,7 +33,7 @@ The **More actions** menu includes the option to clear the edit lock. Use this o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Select the dashboard that you want to edit.
 
@@ -75,7 +75,7 @@ To edit the details of a dashboard created in the inline editor:
 \[Omitted image "edit-tech-db-details.png"\] Alt text: Edit in UI builder menu expanded to show Edit dashboard details option
 
 3.  Edit the details of the dashboard and then select **Exit editing mode**.
- For more information, see [[config-db-in-ac|Configure Platform Analytics dashboard details]].
+ For more information, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).
 
 </td></tr><tr><td id="d166553e260">
 
@@ -188,18 +188,18 @@ Choose whether and which analytics to show in the **Insights** section.When you 
 
 </td></tr></tbody>
 </table>
--   **[[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]**  
-Populate your dashboard with a selection of [[widgets|widgets]], including data visualizations and filters.
--   **[[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]]**  
+-   **[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)**  
+Populate your dashboard with a selection of widgets, including data visualizations and filters.
+-   **[Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md)**  
 You can edit the contents of a dashboard or dashboard tab, including data visualizations and filters. Because dashboards are shared, any changes you make are applied globally.
--   **[[group-db-elements|Group dashboard elements]]**  
+-   **[Group dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/group-db-elements.md)**  
 Improve your layout control and dashboard customization capabilities, by organizing related elements into single visual and logical units. Configure backgrounds and borders according to group.
--   **[[editing-local-copy-saved-dv|Edit a copy of a shared dashboard element]]**  
+-   **[Edit a copy of a shared dashboard element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/editing-local-copy-saved-dv.md)**  
 To configure a shared element that you added to a dashboard from a library, make a local copy that is not linked to a library. You only have to do this if you do not have permission to edit the version in the library.
--   **[[add-images-db-cards-ac|Add images to Platform Analytics dashboard cards]]**  
+-   **[Add images to Platform Analytics dashboard cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-images-db-cards-ac.md)**  
 Distinguish the cards in the dashboard overview with uploaded images.
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -220,16 +220,3 @@ Distinguish the cards in the dashboard overview with uploaded images.
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[pa-dashboard-roles|Platform Analytics dashboard roles]]
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
-- [[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]]
-- [[group-db-elements|Group dashboard elements]]
-- [[editing-local-copy-saved-dv|Edit a copy of a shared dashboard element]]
-- [[add-images-db-cards-ac|Add images to Platform Analytics dashboard cards]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

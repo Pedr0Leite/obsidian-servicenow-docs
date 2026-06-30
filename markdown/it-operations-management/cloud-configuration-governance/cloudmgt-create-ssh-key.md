@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_user
 
 ## Procedure
 
-1.  On the [[cloudmgt-cloud-user-portal|Cloud User Portal]], click **Activities**.
+1.  On the Cloud User Portal, click **Activities**.
 
 2.  In the **Activities** list, select **Manage** &gt; **Keys**.
 
@@ -33,6 +33,3 @@ Role required: sn\_cmp.cloud\_service\_user
 
 The system generates the key pair with the **Name** that you specified.
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

@@ -13,7 +13,7 @@ breadcrumb: [Engage via email interactions, Using Email Interaction for CSM, Cus
 
 # Using the activity stream in an email interaction
 
-View an email conversation between an agent and a customer in the [[csm-config-ws-activity-stream|activity stream]] of the [[email-as-an-interaction|email interaction]]. The activity stream enables agents to communicate with customers and make internal notes about the work done on an interaction. The activity stream updates when an email is sent or received, or when a work note is posted.
+View an email conversation between an agent and a customer in the activity stream of the email interaction. The activity stream enables agents to communicate with customers and make internal notes about the work done on an interaction. The activity stream updates when an email is sent or received, or when a work note is posted.
 
 Agents can perform the email interaction related tasks in the activity stream.
 
@@ -35,7 +35,7 @@ View emails, work notes, and field changes associated with the email interaction
 
 The activity in the interaction shows emails and work notes by default.
 
- **Note:** In the activity stream, each email response displays only the latest message in the conversation. To view entire email thread, enable the Email Show Full Conversation property using UI Builder. For more information, see [[customize-show-full-conversation|Customize showing a full conversation in UI Builder]].
+ **Note:** In the activity stream, each email response displays only the latest message in the conversation. To view entire email thread, enable the Email Show Full Conversation property using UI Builder. For more information, see [Customize showing a full conversation in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-show-full-conversation.md).
 
 </td></tr><tr><td>
 
@@ -134,9 +134,3 @@ Select the Expand all activity post icon \(\[Omitted image "Expand\_icon\_eaai\_
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customize-show-full-conversation|Customize showing a full conversation in UI Builder]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[email-as-an-interaction|Email Interaction]]

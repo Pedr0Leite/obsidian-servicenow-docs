@@ -14,15 +14,15 @@ breadcrumb: [Audit Issues &amp; Remediation, Audit Management Overview, Audit Ma
 
 # Manually create GRC issues
 
-As a GRC user, you can manually create issues to document policy, risk, or [[audit-observations|audit observations]], or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
+As a GRC user, you can manually create issues to document policy, risk, or audit observations, or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
 
 ## Before you begin
 
 Role required: \(per product\)
 
--   In [[r_PolicyComplianceMgmt|Policy and Compliance Management]]: sn\_grc.business\_user, sn\_grc.business\_user\_lite
+-   In Policy and Compliance Management: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 -   In Risk Management: sn\_grc.business\_user
--   In [[c_GRCAudits|Audit Management]]: sn\_grc.business\_usersn\_grc.business\_user\_lite
+-   In Audit Management: sn\_grc.business\_usersn\_grc.business\_user\_lite
 
 **Note:** Starting with Version 12.0.1 of the products mentioned above, the minimum role for the **Assigned to** user on the Issues form is GRC Business User \[sn\_grc.business\_user\]. The minimum role for the **Issue manager** is GRC User \[sn\_grc.\_user\].
 
@@ -67,8 +67,3 @@ Train a similarity solution model that uses machine learning so that the system 
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[audit-observations|Audit observations]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

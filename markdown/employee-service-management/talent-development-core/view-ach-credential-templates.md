@@ -14,7 +14,7 @@ breadcrumb: [Achievements and Credentials in Talent Development Core, Administer
 
 # View achievement credential templates
 
-View achievement credential templates in [[achievements-lxp|Achievements]] and Credentials.
+View achievement credential templates in Achievements and Credentials.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Associate a skill to an achievement credential template in Achievements and Cred
 
 **Parent Topic:**[Achievements and Credentials in Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/achievements-and-credentials-in-td.md)
 
-## Related
-
-- [[achievements-lxp|Achievements]]

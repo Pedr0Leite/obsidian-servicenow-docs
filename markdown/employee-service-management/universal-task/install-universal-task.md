@@ -14,7 +14,7 @@ breadcrumb: [Setting up and configuring Universal Task, Universal Task, Employee
 
 # Install Universal Task
 
-You can install the [[universal-task-landing|Universal Task]] application \(sn\_uni\_task\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Universal Task application \(sn\_uni\_task\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Several types of components are installed with activation of the Universal Task 
 
 **Parent Topic:**[Setting up and configuring Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/set-up-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

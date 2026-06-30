@@ -14,7 +14,7 @@ breadcrumb: [Configuring Lifecycle Events, Lifecycle Events, Employee Journey Ma
 
 # Migrate Lifecycle Events workflows
 
-[[hr-lifecycle-events-landing-page-1|Lifecycle Events]] customers upgrading from the Washington DC or Xanadu release to the Yokohama release can use a system property to define the workflow technology that the Lifecycle Events app uses for its base system workflows.
+Lifecycle Events customers upgrading from the Washington DC or Xanadu release to the Yokohama release can use a system property to define the workflow technology that the Lifecycle Events app uses for its base system workflows.
 
 ## Before you begin
 
@@ -24,10 +24,10 @@ Role required: sn\_hr\_le.admin
 
 In the Yokohama release, existing customers with Lifecycle Events can use the **sn\_hr\_le.use\_flow** property to migrate each base system workflow that is installed with the app from workflow to flow. This migration enables Lifecycle Events to use flow, the current workflow technology for process automation, rather than workflow, an older workflow technology associated with a legacy product.
 
-The following [[LEWorkflow|Lifecycle Events workflows]] are migrated to flows when you set the **Value** field to **True** in the **sn\_hr\_le.use\_flow** property:
+The following Lifecycle Events workflows are migrated to flows when you set the **Value** field to **True** in the **sn\_hr\_le.use\_flow** property:
 
 -   Account Notification
--   Add LE [[activity-lxp|activity]] user to Pulse Survey
+-   Add LE activity user to Pulse Survey
 -   HR Activity Launcher
 -   HR Activity Set Launcher
 -   HR Activity Set Trigger Check
@@ -75,7 +75,7 @@ The **Value** field in the **sn\_hr\_le.use\_flow** property has different defau
 
 ## What to do next
 
-[[using-lifecycle-events|Using Lifecycle Events]] builder, delete your existing activity for an approval and recreate a new one. To help identify your existing activity for an approval, ensure the **Activity Type** field in the corresponding Activity record is set to **Approval**.
+Using Lifecycle Events builder, delete your existing activity for an approval and recreate a new one. To help identify your existing activity for an approval, ensure the **Activity Type** field in the corresponding Activity record is set to **Approval**.
 
 A new activity for an approval must be created so it can use the corresponding configuration for an approval in the Activity Configurations table. The activity for an approval that you create after setting the **Value** field to **True** in the **sn\_hr\_le.use\_flow** property uses the Activity Configuration record containing the following field values:
 
@@ -84,9 +84,3 @@ A new activity for an approval must be created so it can use the corresponding c
 
 For more information about the Lifecycle Events activity creation process, see [Configure a lifecycle event activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity.md).
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[LEWorkflow|Lifecycle Events workflows]]
-- [[activity-lxp|Activity]]
-- [[using-lifecycle-events|Using Lifecycle Events]]

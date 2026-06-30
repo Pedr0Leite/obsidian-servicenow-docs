@@ -12,7 +12,7 @@ breadcrumb: [Customize a screen, Mobile Card Builder, Building tools, Building m
 
 # Assign field values to your mobile card
 
-Use [[mobile-card-builder|Mobile Card Builder]] to show field labels and values from your tables in mobile cards.
+Use Mobile Card Builder to show field labels and values from your tables in mobile cards.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ In this example, the top three text elements display the values of the **State**
 
 <table id="choicetable_pm3_x3t_xnb"><tbody><tr><td id="d82045e97">
 
-**Open Mobile Card Builder from [[mab-concept|Mobile App Builder]]**
+**Open Mobile Card Builder from Mobile App Builder**
 
 </td><td>
 
@@ -51,7 +51,7 @@ Navigate to **System Mobile** &gt; **Mobile Card Builder**, then select the card
 </td></tr></tbody>
 </table>2.  Select a text in your mobile card, or create a new one.
 
-    For details on creating elements, see [[mcb-stage-ui|Mobile Card Builder user interface]].
+    For details on creating elements, see [Mobile Card Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-stage-ui.md).
 
     With your text element selected, you can see the configuration properties in the **Component configuration** panel on the right of the screen. If you do not see this panel, select the **Expand configuration panel** \(\[Omitted image "expand-config-panel-icon.png"\] Alt text: Expand configuration panel icon\) button. \[Omitted image "mcb-field-values-2.png"\] Alt text: Component configuration for a text element.
 
@@ -90,8 +90,4 @@ The text element displays the name of a field on your table. For example, if you
 
 7.  Select **Save**.
 
-## Related
 
-- [[mcb-stage-ui|Mobile Card Builder user interface]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-concept|Mobile App Builder]]

@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config, IT Service Management]
 
 # Analytics and reporting using the DevOps Config Insights dashboard
 
-Use the [[devops-config-landing-page|DevOps Config]] Insights dashboard with Performance Analytics to quickly identify configuration errors and take action. View snapshot validation trend, open changesets, and failed snaphots for all [[dex-workspace-application-tab|applications]] and deployables.
+Use the DevOps Config Insights dashboard with Performance Analytics to quickly identify configuration errors and take action. View snapshot validation trend, open changesets, and failed snaphots for all applications and deployables.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -109,8 +109,3 @@ If the latest snapshot validation status is passed with exception and there isn'
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

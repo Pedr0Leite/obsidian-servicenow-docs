@@ -16,9 +16,9 @@ breadcrumb: [Work orders, Set up work orders and tasks, Configure, Field Service
 
 Work order follow a specific life cycle and move through a series of states, which are displayed in the State field on the work order record.
 
-The request states displayed depend on the [[fsm-application-landing-page|Field Service Management]] application, as indicated in the table.
+The request states displayed depend on the Field Service Management application, as indicated in the table.
 
-Depending on your configuration, you can either qualify work orders after they are drafted, or they are immediately ready for dispatch. For more information on setting up qualification, see the Qualification is required for new requests section in [[t_ConfigureFieldService|Global domain configurations]].
+Depending on your configuration, you can either qualify work orders after they are drafted, or they are immediately ready for dispatch. For more information on setting up qualification, see the Qualification is required for new requests section in [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 
 Create or modify UI actions to add to work order \[wm\_order\] and work order task \[wm\_task\] forms. Use these actions to move work orders and work order tasks from one state to the next or to perform specific actions, such as launching questionnaires. For more information, see [UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 
@@ -113,7 +113,3 @@ The request was canceled.
 </td></tr></tbody>
 </table>**Note:** If you have qualification enabled and then disable it, then all existing work orders awaiting qualification, in draft, or already qualified are set to ready for dispatch.
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[fsm-application-landing-page|Field Service Management]]

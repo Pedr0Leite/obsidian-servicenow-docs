@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery scheduled discovery, Data Discovery Store, Data Disc
 
 # Review granular findings
 
-Review granular findings in [[dds-data-discovery|Data Discovery Store]]
+Review granular findings in Data Discovery Store
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Scheduled Discovery**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Scheduled Discovery**.
 
-2.  Select **[[granular-findings|Granular Findings]]** in the right side navigation pane.
+2.  Select **Granular Findings** in the right side navigation pane.
 
 3.  Review the table entries.
 
@@ -100,16 +100,11 @@ When user chosen action has been successfully applied on the finding
 
 When applying user chosen action has failed.
 
-**Warning:** Findings in Manual Review should be deleted by [[users|users]] after taking appropriate actions.
+**Warning:** Findings in Manual Review should be deleted by users after taking appropriate actions.
 
 </td></tr></tbody>
 </table>    **Warning:**
 
     Rollback is not supported for anonymization triggered from Granular Findings.
 
-## Related
 
-- [[dds-data-discovery|Data Discovery Store]]
-- [[data-discovery-landing|Data Discovery]]
-- [[granular-findings|Granular Findings]]
-- [[users|Users]]

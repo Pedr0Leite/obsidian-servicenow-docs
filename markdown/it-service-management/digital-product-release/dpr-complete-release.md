@@ -28,7 +28,7 @@ Role required: sn\_dpr\_model.release\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -47,6 +47,3 @@ The release is closed and its state is updated to Completed.
 
 **Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

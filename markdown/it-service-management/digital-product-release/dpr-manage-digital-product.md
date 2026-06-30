@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
-Watch the following video to learn how release planning in [[dpr-landing-page|Digital Product Release]] helps you define the scope of a release.
+Watch the following video to learn how release planning in Digital Product Release helps you define the scope of a release.
 
 \[Omitted video\] Description: Release planning in Digital Product Release.
 
@@ -30,11 +30,11 @@ Watch the following video to learn how release planning in [[dpr-landing-page|Di
 
 This option is available when you have selected the **Auto-create product versions from plan versions** while associating the product with a plan from ServiceNow® Agile Development 2.0, Jira, or GitLab.
 
-The mappings between plan versions and [[c_CreatingSoftwareModels|software models]] are stored in the Plan Version to Software Models \(sn\_devops\_m2m\_plan\_version\_software\_model\) table. The mappings between work items and plan versions are stored in the Work Item to Release Versions \(sn\_devops\_m2m\_work\_item\_plan\_version\) table.
+The mappings between plan versions and software models are stored in the Plan Version to Software Models \(sn\_devops\_m2m\_plan\_version\_software\_model\) table. The mappings between work items and plan versions are stored in the Work Item to Release Versions \(sn\_devops\_m2m\_work\_item\_plan\_version\) table.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -46,8 +46,3 @@ The mappings between plan versions and [[c_CreatingSoftwareModels|software model
     -   [Add an enhancement to a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-enhancement.md)
     -   [Add a product enhancement from a work item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-enhancement-from-epic.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[dpr-workspace|Digital Product Release Workspace]]

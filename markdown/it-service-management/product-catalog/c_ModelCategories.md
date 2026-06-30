@@ -14,9 +14,9 @@ breadcrumb: [Product Catalog, Asset Management, IT Service Management]
 
 # Model categories
 
-Model categories associate CI classes with asset classes. Model categories are part of the [[c_ProductCatalog|Product Catalog]] application.
+Model categories associate CI classes with asset classes. Model categories are part of the Product Catalog application.
 
-The model category configuration determines if the ServiceNow platform creates an asset from a CI, and, if so, what class of asset. Asset classes in the base system are **Hardware**, **Software License**, and **Consumable**. You can associate a model category to many [[c_Models|models]] and a model to many model categories. For example, a specific model of a computer can be a **Computer** and a **Server**.
+The model category configuration determines if the ServiceNow platform creates an asset from a CI, and, if so, what class of asset. Asset classes in the base system are **Hardware**, **Software License**, and **Consumable**. You can associate a model category to many models and a model to many model categories. For example, a specific model of a computer can be a **Computer** and a **Server**.
 
 \[Omitted image "image.mmasset0021989-models-diagram"\] Alt text: Model diagram
 
@@ -59,7 +59,3 @@ If a model category is no longer needed, you can delete it.
 
 [Create an asset class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/t_CreateAnAssetClass.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

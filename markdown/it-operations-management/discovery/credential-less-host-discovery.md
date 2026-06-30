@@ -18,7 +18,7 @@ Credential-less host discovery occurs when a scanned host is found to be alive, 
 
 ## How the host Discovery pattern is launched
 
-If the Shazzam probe scans a host that is alive but not active, and if credential-based classification probes fail, horizontal [[r-discovery|Discovery]] launches the Credentialless Discovery Network Device pattern to gather host information. If the host being scanned does not have a CI defined, [[c_ServiceMappingOverview|Service Mapping]] launches the HorizontalDiscoveryProbe probe, which in turn launches the Credentialless Discovery Network Device pattern. This pattern attempts to create a new CI if one does not already exist for the scanned host or to update an existing CI in the Hardware \[cmdb\_ci\_hardware\] table.
+If the Shazzam probe scans a host that is alive but not active, and if credential-based classification probes fail, horizontal Discovery launches the Credentialless Discovery Network Device pattern to gather host information. If the host being scanned does not have a CI defined, Service Mapping launches the HorizontalDiscoveryProbe probe, which in turn launches the Credentialless Discovery Network Device pattern. This pattern attempts to create a new CI if one does not already exist for the scanned host or to update an existing CI in the Hardware \[cmdb\_ci\_hardware\] table.
 
 **Important:** To allow the Credentialless Discovery Network Device pattern to launch, ensure that the **mid.discovery.credentialless.enable** system property is set to **true**. To disable, ensure this property is set to **false**.
 
@@ -64,7 +64,3 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifi
 
 **Parent Topic:**[Credential-less discovery with Nmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

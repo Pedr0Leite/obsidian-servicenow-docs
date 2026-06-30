@@ -14,9 +14,5 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 # Case and Knowledge Management reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information abou the lists and forms that you use to configure and use [[case-knowledge-management-landing-page|Case and Knowledge Management]].
+Reference topics provide additional information abou the lists and forms that you use to configure and use Case and Knowledge Management.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]

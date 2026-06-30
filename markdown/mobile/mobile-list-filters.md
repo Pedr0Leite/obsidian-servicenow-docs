@@ -22,22 +22,16 @@ By default, the instance automatically creates a filter and sorting functionalit
 
 ## Custom filters
 
-If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the list filter, as well as enable keyword filtering. Custom filters can include fields that are not in the list pattern. For more details on creating custom filters, see [[config-mobile-list-filter|Configure a custom filter]].
+If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the list filter, as well as enable keyword filtering. Custom filters can include fields that are not in the list pattern. For more details on creating custom filters, see [Configure a custom filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-list-filter.md).
 
 **Note:** For those who have upgraded to the Rome release, consider the following:
 
 -   If you did not define filters and are using the default setup, you automatically use the default filters and sorting capabilities after the upgrade.
--   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [[list-filter-sorting|Configure sorting capabilities within mobile filters]].
+-   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [Configure sorting capabilities within mobile filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-filter-sorting.md).
 
 ## Disabling filters
 
-To disable filters and sorting on list screens, open the [[list-screen|list screen]] record in [[mab-concept|Mobile App Builder]] and disable the **Hide filters** option. When filtering is turned off, users are unable to filter or sort records.
+To disable filters and sorting on list screens, open the list screen record in Mobile App Builder and disable the **Hide filters** option. When filtering is turned off, users are unable to filter or sort records.
 
 \[Omitted image "mab-disable-filters.png"\] Alt text: List screen record in Mobile App Builder.
 
-## Related
-
-- [[config-mobile-list-filter|Configure a custom filter]]
-- [[list-filter-sorting|list filter sorting]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]

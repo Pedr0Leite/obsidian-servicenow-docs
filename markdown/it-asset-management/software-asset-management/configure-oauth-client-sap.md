@@ -59,8 +59,5 @@ Use transaction code **SOAUTH2** to register the OAuth client and define the gra
 
 ## What to do next
 
-[[configure-roles-auth-oauth-user|Configure roles and authorizations for the OAuth user]]. For details, see [Configure roles and authorizations for the OAuth user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-roles-auth-oauth-user.md).
+Configure roles and authorizations for the OAuth user. For details, see [Configure roles and authorizations for the OAuth user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-roles-auth-oauth-user.md).
 
-## Related
-
-- [[configure-roles-auth-oauth-user|Configure roles and authorizations for the OAuth user]]

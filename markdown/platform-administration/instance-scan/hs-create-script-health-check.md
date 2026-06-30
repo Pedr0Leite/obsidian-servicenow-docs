@@ -14,7 +14,7 @@ breadcrumb: [Create a check, Using Instance Scan, Instance Scan, Maintain and mo
 
 # Create a script only check
 
-[[hs-create-health-check|Create a check]] without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, [[clone-configurations-tab|configurations]], and execute complex checks by writing your own script.
+Create a check without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, configurations, and execute complex checks by writing your own script.
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Priority
 
 </td><td>
 
-Priority at which the [[hs-findings|findings]] should be resolved.
+Priority at which the findings should be resolved.
 
 </td></tr><tr><td>
 
@@ -142,8 +142,3 @@ Option to write a custom script to generate findings.
 </table>
 **Parent Topic:**[Create a check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 
-## Related
-
-- [[hs-create-health-check|Create a check]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-findings|Findings]]

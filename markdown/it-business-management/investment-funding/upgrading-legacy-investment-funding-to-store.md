@@ -14,7 +14,7 @@ breadcrumb: [Investment Funding, Strategic Portfolio Management]
 
 # Upgrading legacy Investment Funding to Store application
 
-If you are upgrading from the legacy [[investment-funding-overview|Investment Funding]], post installation of the Investment Funding application, you can migrate your existing data to the ServiceNow Store application tables. Also, you must update the reference tables for the **Investment** and **Funding Entity** fields to the ServiceNow Store application tables.
+If you are upgrading from the legacy Investment Funding, post installation of the Investment Funding application, you can migrate your existing data to the ServiceNow Store application tables. Also, you must update the reference tables for the **Investment** and **Funding Entity** fields to the ServiceNow Store application tables.
 
 -   **[Migrate data from legacy Investment Funding to Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/migrate-data-from-legacy-investment-funding-to-store.md)**  
 With the admin role, you can migrate your existing data from the legacy Investment Funding tables to the new ServiceNow Store application tables by running the scheduled job.
@@ -23,6 +23,3 @@ Post migration of your legacy Investment Funding data, you must update the refer
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

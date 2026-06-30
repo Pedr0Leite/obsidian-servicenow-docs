@@ -26,7 +26,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  In the platform UI, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **CSS** and create a new style sheet.
+1.  In the platform UI, navigate to **Service Portal** &gt; **CSS** and create a new style sheet.
 
 2.  Attach the font-icon set to the sp\_css record you created, and use the sys\_id of the attachment as the `src` for the font icon.
 
@@ -73,6 +73,3 @@ Role required: admin or sp\_admin
 
 **Parent Topic:**[Create a widget dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dependencies.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

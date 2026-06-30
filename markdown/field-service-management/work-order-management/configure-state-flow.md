@@ -18,7 +18,7 @@ State flows control the sequence in which work orders and work order tasks trans
 
 ## About this task
 
-Define all of the possible state transitions that represent the life cycle of a work order. However, [[work-order-state-custom|customizing state flows]] requires scripting knowledge.
+Define all of the possible state transitions that represent the life cycle of a work order. However, customizing state flows requires scripting knowledge.
 
 ## Before you begin
 
@@ -152,7 +152,7 @@ Class
 
 </td><td>
 
-Available state flow classes: -   **State Flow:**Records created for state flows in all task-based tables except those in [[fsm-application-landing-page|Field Service Management]].
+Available state flow classes: -   **State Flow:**Records created for state flows in all task-based tables except those in Field Service Management.
 -   **Work Order Flow:** Records created for state flows in the Work Order \[wm\_order\] table.
 -   **Work Task Flow:** Records created for state flows in the Work Order Task \[wm\_task\] table.
  This field is required for users with the admin role. Users with the wm\_admin role can only create state flow records in the **Work Order Flow** and **Work Task Flow** classes and cannot edit this field in the record.
@@ -307,8 +307,3 @@ Fields hidden when this transition occurs or when the **Ending state** is the cu
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[work-order-state-custom|Customizing state flows]]
-- [[fsm-application-landing-page|Field Service Management]]

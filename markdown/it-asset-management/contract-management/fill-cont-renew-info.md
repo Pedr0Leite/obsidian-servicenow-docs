@@ -34,7 +34,7 @@ Each contract renewal request line has its own flow of tasks.
 
     You must fill in all the required fields before you close the task. If you are renewing the child contract, you must provide the end date and start date within the range of the start date and end date of the parent contract.
 
-    **Note:** The Contract approver field is displayed only for the parent contract. The same Contract approver value is filled in automatically for any child [[c_Contracts|contracts]].
+    **Note:** The Contract approver field is displayed only for the parent contract. The same Contract approver value is filled in automatically for any child contracts.
 
 4.  Select **Close Task**.
 
@@ -47,6 +47,3 @@ New draft contracts are created.
 
 [Add or remove assets for a contract renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-hw-asset.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]

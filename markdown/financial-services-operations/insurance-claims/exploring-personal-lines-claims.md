@@ -14,7 +14,7 @@ breadcrumb: [Personal Lines Claims, Exploring insurance claims applications, Ins
 
 # Exploring Personal Lines Claims
 
-Learn how the first-notice-of-loss \(FNOL\) representatives, processors, adjusters, special investigation agents, and managers can use the [[personal-lines-claims-landing-page|Personal Lines Claims]] application to create and manage personal [[insurance-claims-flow|insurance claims]].
+Learn how the first-notice-of-loss \(FNOL\) representatives, processors, adjusters, special investigation agents, and managers can use the Personal Lines Claims application to create and manage personal insurance claims.
 
 With the Personal Lines Claims application, your organization can manage the initiation, processing, and resolving of insurance policy claims for your customers from one centralized workflow. With this application, you can coordinate with special investigation departments and offices to manage claims tasks. You can also collect and validate the required claim documentation, investigate the claim, and settle the claim.
 
@@ -91,10 +91,5 @@ Manager who approves the reserves and payment requests and can view an overview 
 </table>**Related topics**  
 
 
-[[personal-lines-claims|Personal Lines Claims dashboard]]
+[Personal Lines Claims dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/personal-lines-claims.md)
 
-## Related
-
-- [[personal-lines-claims|Personal Lines Claims dashboard]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[insurance-claims-flow|Insurance claims]]

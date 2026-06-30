@@ -72,8 +72,5 @@ Time card admintimecard\_admin
 View, approve, and reject time cards and time sheets. Users with the wm\_manager role inherit the timecard\_admin role.**Note:** This role restricts access to the time sheets, time cards, and time worked records created by the agents in the groups assigned to the manager.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]

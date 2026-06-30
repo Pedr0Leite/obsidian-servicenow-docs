@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist in CM Pro, Contract Management
 
 # Contract metadata extraction using Now Assist in Contract Management
 
-As a contract fulfiller, use [[cncore-now-assit-landing|Now Assist in Contract Management]] Pro to extract metadata from a signed contract and add the information to the mapped fields in the contract repository.
+As a contract fulfiller, use Now Assist in Contract Management Pro to extract metadata from a signed contract and add the information to the mapped fields in the contract repository.
 
 You can review the extracted information and make necessary corrections on the Document Intelligence workspace before adding the information to the contract repository. On completion of the extraction process, the **Extraction results** tab opens on the contract repository record displaying the status of the extracted metadata.
 
@@ -49,6 +49,3 @@ The Extraction results tab in the contract repository record displays the proces
 
 [Contract analysis using Now Assist in Contract Management]()
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

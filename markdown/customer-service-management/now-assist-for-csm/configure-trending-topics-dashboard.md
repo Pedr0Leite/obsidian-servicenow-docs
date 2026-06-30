@@ -64,7 +64,7 @@ Trending topics dashboard is generated from the information that you enter in th
 
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
-8.  Toggle **Select display** to determine if trending topics dashboard skill appears in In-product desktop, displaying Now Assist skills on [[migration-forms|forms]] and workspaces.
+8.  Toggle **Select display** to determine if trending topics dashboard skill appears in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
 9.  Select roles for whom trending topics dashboard are displayed.
 
@@ -82,6 +82,3 @@ Trending topics dashboard is generated from the information that you enter in th
 
 [View trending topics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/view-trending-topics-dashboard.md)
 
-## Related
-
-- [[migration-forms|Forms]]

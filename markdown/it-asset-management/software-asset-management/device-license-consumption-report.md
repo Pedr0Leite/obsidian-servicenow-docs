@@ -22,7 +22,7 @@ The Microsoft Server Infrastructure and License Consumption report is a single r
 
 The report is updated weekly through the scheduled job **SAM - Generate Microsoft Infra Licensing Report**.
 
-To view this report in the [[sam-workspace|Software Asset Workspace]], navigate to **License usage** &gt; **Reports** and select the report titled **Microsoft Server Infrastructure and License Consumption**.
+To view this report in the Software Asset Workspace, navigate to **License usage** &gt; **Reports** and select the report titled **Microsoft Server Infrastructure and License Consumption**.
 
 ## Benefits of the Microsoft Server Infrastructure and License Consumption report
 
@@ -36,7 +36,7 @@ Organizations frequently struggle with the following problems:
 -   Cost optimization: Missed opportunities to identify over-licensing or optimize costs.
 -   Cloud migration: Uncertainty regarding license portability and cloud-specific advantages.
 
-This report helps solve these problems by providing a single, authoritative view of your Microsoft server licensing, empowering you to make informed decisions on license [[c_Procurement|procurement]], allocation, and optimization.
+This report helps solve these problems by providing a single, authoritative view of your Microsoft server licensing, empowering you to make informed decisions on license procurement, allocation, and optimization.
 
 ## Supported license metrics
 
@@ -52,7 +52,7 @@ The following license metrics are considered for all Microsoft server products:
 
 The Microsoft Server Infrastructure and License Consumption report follows a hierarchical structure designed to provide clarity and ease of navigation. The report uses a parent-child relationship where infrastructure components are nested under their logical containers:
 
--   Clusters: Clusters are presented first, containing multiple hosts and VMs, each with different [[c_CreatingSoftwareModels|software models]] installed. Based on how the installation is licensed, either on a host or on a VM, the required licenses are shown on the corresponding host or VM record.
+-   Clusters: Clusters are presented first, containing multiple hosts and VMs, each with different software models installed. Based on how the installation is licensed, either on a host or on a VM, the required licenses are shown on the corresponding host or VM record.
 -   Cloud installations:
     -   Cloud installations on hosts or VMs are displayed, including AWS, Microsoft Azure, and Google Cloud Platform.
     -   Cloud-specific licensing information is provided, such as: License Type such as BYOL or License Included, Dual Use Rights, such as Azure-specific benefits for Windows Server, and Edition Flexibility such as Azure benefits for Windows Server and SQL Server.
@@ -156,8 +156,3 @@ The following use cases are supported by the report:
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Procurement|Procurement]]
-- [[c_CreatingSoftwareModels|Software models]]

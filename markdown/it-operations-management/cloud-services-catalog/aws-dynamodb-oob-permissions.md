@@ -30,7 +30,7 @@ Permissions
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-[[csc-home|Cloud Services Catalog]] AWS DynamoDB
+Cloud Services Catalog AWS DynamoDB
 
 </td><td>
 
@@ -65,6 +65,3 @@ AWS DynamoDB deprovision
 </td></tr></tbody>
 </table>**Parent Topic:**[Amazon Web Services DynamoDB Out Of Box Catalog Items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-dynamodb-out-of-box-catalogs.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

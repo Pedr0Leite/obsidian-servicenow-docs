@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms with inventory reports in the Enterprise Asset Wo
 
 # Identify the supply and demand for models within a stockroom in the Enterprise Asset Workspace
 
-Use the Supply vs Demand report to evaluate the available and incoming quantity of [[c_Models|models]] in your stockroom and the requests for these models from different service locations. This report helps you determine if you have enough assets to meet the demand.
+Use the Supply vs Demand report to evaluate the available and incoming quantity of models in your stockroom and the requests for these models from different service locations. This report helps you determine if you have enough assets to meet the demand.
 
 ## Before you begin
 
@@ -36,11 +36,11 @@ Note the following points about the Supply vs Demand report:
     -   Refresh requests
     -   Work order parts requests
 
-The supply and demand details are stored in the Model and [[c_Stockrooms|stockrooms]] \[sn\_asset\_model\_and\_stockroom\] table. The **Populate model and stockroom data** scheduled job runs daily to populate this table.
+The supply and demand details are stored in the Model and stockrooms \[sn\_asset\_model\_and\_stockroom\] table. The **Populate model and stockroom data** scheduled job runs daily to populate this table.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -84,8 +84,3 @@ The supply and demand details are stored in the Model and [[c_Stockrooms|stockro
 
 **Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-inventory-reports.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

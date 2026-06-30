@@ -14,7 +14,7 @@ breadcrumb: [OAuth Outbound, OAuth authentication, Authentication, Access Manage
 
 # Connect to a third-party OAuth provider
 
-Configure how the client ID and secret are sent to your [[oauth-inbound-and-outbound|OAuth]] provider.
+Configure how the client ID and secret are sent to your OAuth provider.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ OAuth API Script
 
 </td><td>
 
-The script used to customize [[c_requestAPI|request]] and response to the external OAuth provider.
+The script used to customize request and response to the external OAuth provider.
 
 </td></tr><tr><td>
 
@@ -84,8 +84,8 @@ The default grant type used to establish the token. Choices include:
 
 -   **Authorization code**: The code that is granted to the client to obtain an access token, which is then used to obtain access to the resource. If you select this option, then you need an authorization URL \(the URL of the authorization server\).
 -   **Resource owner password credentials**: The user name and password of the user that is trying to obtain access to the resource.
--   **[[client-credentials|Client Credentials]]**: The client ID and client secret, which are both used to get the access token. This method does not provide refresh tokens.
--   **[[jwt-bearer|JWT Bearer]]**: An authorization server validates a JWT token which enables [[identity-landing|identity]] and security information to be shared across security domains.
+-   **Client Credentials**: The client ID and client secret, which are both used to get the access token. This method does not provide refresh tokens.
+-   **JWT Bearer**: An authorization server validates a JWT token which enables identity and security information to be shared across security domains.
 -   **SAML2 Bearer**: Generates the SAML2 assertion and then exchanges the assertion for the access tokens wit the provider.
 
 **Note:** For outbound request to SuccessFactors use the **SAML2 Bearer** as the Default Grant Type.
@@ -183,7 +183,7 @@ The OAuth callback endpoint. If blank, the instance auto-generates an entry.
 
 </td></tr><tr><td>
 
-Use mutual [[c_Authentication|authentication]]
+Use mutual authentication
 
 </td><td>
 
@@ -226,11 +226,4 @@ To know more, see [Configure client type for OAuth and SSO records](https://raw.
 
 6.  Select **Submit**.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[client-credentials|Client Credentials]]
-- [[jwt-bearer|JWT Bearer]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]

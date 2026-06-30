@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Express List Views**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Express List Views**.
 
 2.  Select the predefined Express List view that you want to assign to a user or group.
 
@@ -66,6 +66,3 @@ Procedure
 
 **Parent Topic:**[Configuring Express List views for users and user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manage-views-express-list.md)
 
-## Related
-
-- [[c_EM|Event Management]]

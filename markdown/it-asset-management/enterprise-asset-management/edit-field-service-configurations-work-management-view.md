@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Edit Field Service Management configurations for the Work management view
 
-Edit your Field Service Management configurations as needed so that you can access and use the Work management view in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Edit your Field Service Management configurations as needed so that you can access and use the Work management view in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -86,6 +86,4 @@ See [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/
 
 5.  Select **Save**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Linking documents to a parent record, Use, Document Management, Doc
 
 # Upload a document version in a parent record
 
-[[t_UploadADocument|Upload a document]] version for each document in the parent record.
+Upload a document version for each document in the parent record.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: none
 
 5.  Select the file type you want to upload and add any information related to the file under **Notes**.
 
-    -   To upload a file, select **[[attachment|Attachment]]**, select the file icon, and select the file.
+    -   To upload a file, select **Attachment**, select the file icon, and select the file.
     -   To link to a document, select **URL** and provide the link.
 6.  Select **OK**.
 
@@ -44,7 +44,3 @@ Role required: none
 
 [Create a document version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-doc-version.md)
 
-## Related
-
-- [[t_UploadADocument|Upload a document]]
-- [[attachment|Attachment]]

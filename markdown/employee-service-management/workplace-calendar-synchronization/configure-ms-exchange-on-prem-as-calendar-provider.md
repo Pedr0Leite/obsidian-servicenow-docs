@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configurations** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configurations** &gt; **Calendar Providers**.
 
 2.  Select **New**.
 
@@ -167,6 +167,3 @@ Delegated user email address that is used to create reservations and to receive 
 -   Set the scheduled job, **WSDRS Sync Calendar items** to **True**. The scheduled job is set to **False** by default and it must be enabled to start synchronizing. You can set the scheduled job time as you want. At any time, you can also manually execute it.
 -   [Add multiple Reservable Sync Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/add-reservable-sync-config.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -37,13 +37,13 @@ Define quick actions for a launcher screen so that your users can access commonl
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category from the menu.
 
@@ -125,7 +125,7 @@ Icon
 
 </td><td>
 
-Icon that displays for the quick action. Select **Choose** to use an existing icon or select **New** to add one. For more information about creating an icon, see [[sg-mobile-icon|Mobile icons]].
+Icon that displays for the quick action. Select **Choose** to use an existing icon or select **New** to add one. For more information about creating an icon, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
 </td></tr></tbody>
 </table>7.  In the **Function placement** section, for **Button emphasis color**, select the emphasis color for the button from the following options.
@@ -136,19 +136,12 @@ Icon that displays for the quick action. Select **Choose** to use an existing ic
     |Primary|The emphasis color is the color that is set as the primary color in the mobile theme that you are using.|
     |Destructive|The emphasis color is the color that is set as the destructive color in the mobile theme that you are using.|
 
-    **Note:** For more information about mobile themes, see [[sg-theme-colors|Mobile theme color guidelines]]. If you have enabled Next Experience theming for mobile, see [[explore-ne-theming|Next Experience theming for mobile]].
+    **Note:** For more information about mobile themes, see [Mobile theme color guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-theme-colors.md). If you have enabled Next Experience theming for mobile, see [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
 8.  In the **Function** section, select **Choose** to use an existing function or select **New** to create one.
 
-    For information about creating a new function, see [[sg-studio-mobile-button-types|Mobile functions]].
+    For information about creating a new function, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 9.  Select **Save**.
 
-## Related
 
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-theme-colors|Mobile theme color guidelines]]
-- [[explore-ne-theming|Next Experience theming for mobile]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -15,11 +15,11 @@ breadcrumb: [Analyze alert impact agentic workflow, Use agentic AI, Now Assist f
 
 # Analyze alert impact in the Now Assist panel
 
-Learn how to use the [[now-assist-itom-agentic-aia|analyze alert impact agentic workflow]] in the Now Assist panel. The agentic workflow helps you investigate an alert and get the context that you need to respond efficiently.
+Learn how to use the analyze alert impact agentic workflow in the Now Assist panel. The agentic workflow helps you investigate an alert and get the context that you need to respond efficiently.
 
 ## Before you begin
 
-Make sure [[now-assist-itom|Now Assist for ITOM]] is installed and observability agents are configured for third-party vendors. For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) and [Configure observability agents for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/configure-integration-agents-for-now-assist.md).
+Make sure Now Assist for ITOM is installed and observability agents are configured for third-party vendors. For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) and [Configure observability agents for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/configure-integration-agents-for-now-assist.md).
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \(\[Omitted image "express-list1.png"\] Alt text: Express list icon\).
 
@@ -48,8 +48,3 @@ Use the information that you received to understand the alert impact and respond
 
 **Note:** Your conversation in the Now Assist panel is specific to the alert that you selected in Step 3. To ask about a different alert, open that alert and select the Now Assist icon \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist icon.\) to start a new conversation.
 
-## Related
-
-- [[now-assist-itom-agentic-aia|Analyze alert impact agentic workflow]]
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

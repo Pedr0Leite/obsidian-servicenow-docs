@@ -14,9 +14,9 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 # Viewing incident details with a relationship graph
 
-Relationship graphs in the [[sir-workspace-landing-page|Security Incident Response workspace]] visually display the connections between a security incident and its related items to help you analyze the full context of a security incident.
+Relationship graphs in the Security Incident Response workspace visually display the connections between a security incident and its related items to help you analyze the full context of a security incident.
 
-Items related to a security incident could include associated [[c_Observables|observables]], configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related lists.
+Items related to a security incident could include associated observables, configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related lists.
 
 The following relationship graph example displays details for a security incident.
 
@@ -32,7 +32,7 @@ When you open a relationship graph for a security incident, the available config
 -   **[Customize a relationship graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-relationship-graph-config.md)**  
 Visualize and analyze security incidents and their associated data in a relationship graph.
 -   **[Create a relationship graph for an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-relationship-graph-sir.md)**  
-Create a node relationship graph in [[sir-landing-page|Security Incident Response]] so you can better analyze a security incident by correlating it with malicious observables, configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related information.
+Create a node relationship graph in Security Incident Response so you can better analyze a security incident by correlating it with malicious observables, configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related information.
 
 **Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
@@ -63,8 +63,3 @@ Create a node relationship graph in [[sir-landing-page|Security Incident Respons
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

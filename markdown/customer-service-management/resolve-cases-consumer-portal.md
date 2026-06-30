@@ -24,9 +24,9 @@ When an agent proposes a solution to a consumer's case, buttons for accepting or
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
-2.  Select **My [[migration-lists|Lists]]** in the portal header to view a list of cases.
+2.  Select **My Lists** in the portal header to view a list of cases.
 
 3.  Select **Action Needed**.
 
@@ -52,8 +52,3 @@ Rejects the solution proposed by the agent after entering the reason for rejecti
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]
-- [[migration-lists|Lists]]

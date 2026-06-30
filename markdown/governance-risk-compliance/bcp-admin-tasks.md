@@ -12,29 +12,18 @@ breadcrumb: [Configure, Business Continuity Management, Governance, Risk, and Co
 
 # Setup for a business continuity plan
 
-The business continuity plan \(BCP\) administrator can perform certain administrative tasks that are listed in the **General [[Administration|Administration]]** section of the [[business-continuity-mangmt-overview|Business Continuity Management]] application.
+The business continuity plan \(BCP\) administrator can perform certain administrative tasks that are listed in the **General Administration** section of the Business Continuity Management application.
 
-The administrative tasks for [[bcp-uib|business continuity planning]] are listed in the **General Administration** section in the application navigator.
+The administrative tasks for business continuity planning are listed in the **General Administration** section in the application navigator.
 
 BCP administrator with the sn\_bcp.plan\_admin role performs the administrative tasks:
 
--   Configure plan templates: For more information, see [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]].
--   Configure documentation sections in the business continuity plan: For more information, see [[configure-doc-section-for-bcp|Configure documentation section]].
--   Configure loss scenarios in the business continuity plan: For more information, see [[configure-plan-loss-scenario-uib-ws|Configure loss scenarios in the plan]].
+-   Configure plan templates: For more information, see [Configure the business continuity plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-a-bcp-template-uib-ws.md).
+-   Configure documentation sections in the business continuity plan: For more information, see [Configure documentation section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-doc-section-for-bcp.md).
+-   Configure loss scenarios in the business continuity plan: For more information, see [Configure loss scenarios in the plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-plan-loss-scenario-uib-ws.md).
 
--   **[[bcp-admin-plan-templates|Configuring plan template]]**  
-As a BCP plan manager, you can [[create-bcp-plan-in-uib-ws|create a business continuity plan]] that can be used for your respective business units during a disruptive event. The Business Continuity Management application provides pre-configured business continuity plan templates. You can streamline the process of a plan creation by using pre-configured plan templates. You can also create a plan template for your business requirement.
+-   **[Configuring plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-plan-templates.md)**  
+As a BCP plan manager, you can create a business continuity plan that can be used for your respective business units during a disruptive event. The Business Continuity Management application provides pre-configured business continuity plan templates. You can streamline the process of a plan creation by using pre-configured plan templates. You can also create a plan template for your business requirement.
 
-**Parent Topic:**[[configuring-business-continuity-management|Configuring Business Continuity Management]]
+**Parent Topic:**[Configuring Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-business-continuity-management.md)
 
-## Related
-
-- [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]]
-- [[configure-doc-section-for-bcp|configure doc section for bcp]]
-- [[configure-plan-loss-scenario-uib-ws|Configure loss scenarios in the plan]]
-- [[bcp-admin-plan-templates|Configuring plan template]]
-- [[configuring-business-continuity-management|Configuring Business Continuity Management]]
-- [[Administration|Administration]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcp-uib|Business continuity planning]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]

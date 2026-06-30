@@ -28,9 +28,9 @@ The diagram indicates the overall flow of the steps to fix a general guidelines 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health**.
 
-    This is the control center for instance quality. Diagnostics, [[io-analytics|analytics]] trending, and findings are all accessible from here.
+    This is the control center for instance quality. Diagnostics, analytics trending, and findings are all accessible from here.
 
 2.  Navigate to **Platform Health** &gt; **Findings** &gt; **Open findings**.
 
@@ -91,8 +91,3 @@ The diagram indicates the overall flow of the steps to fix a general guidelines 
 
 The finding no longer appears in **Open findings** and is listed under the **Resolved** tab.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-analytics|Analytics]]

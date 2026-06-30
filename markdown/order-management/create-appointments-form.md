@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management reference, Lead and opportunity management, 
 
 # Create new appointment form
 
-Field descriptions for editing or reviewing details on the Create New Appointment form in the [[explore-crm-touchpoints|CRM Touchpoints]] and [[opportunity-management|Opportunity Management]] modules.
+Field descriptions for editing or reviewing details on the Create New Appointment form in the CRM Touchpoints and Opportunity Management modules.
 
 <table id="table_apt_form_33c"><thead><tr><th>
 
@@ -104,19 +104,12 @@ Message
 Additional details or notes about the appointment. This field supports rich text formatting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[opportunity-management-reference|Opportunity Management reference]]
+</table>**Parent Topic:**[Opportunity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]]
+[Create an appointment from Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md)
 
-[[schedule-appointment-crm-touchpoint|Schedule an appointment from a touchpoint]]
+[Schedule an appointment from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-appointment-crm-touchpoint.md)
 
-## Related
-
-- [[opportunity-management-reference|Opportunity Management reference]]
-- [[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]]
-- [[schedule-appointment-crm-touchpoint|Schedule an appointment from a touchpoint]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[opportunity-management|Opportunity Management]]

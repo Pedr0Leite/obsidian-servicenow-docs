@@ -18,7 +18,7 @@ Configure the Now Mobile search bar to use the AI Search search engine.
 
 ## Before you begin
 
-To enable the AI Search capability to search for people and customers, ensure that you have the [[employee-center-pro-landing|Employee Center Pro]] plugin \[com.snc.employee\_center\_pro\] installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md). You must purchase a subscription before activating the plugin. For more details, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
+To enable the AI Search capability to search for people and customers, ensure that you have the Employee Center Pro plugin \[com.snc.employee\_center\_pro\] installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md). You must purchase a subscription before activating the plugin. For more details, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 Make sure you are working in a scoped application where you can add new item configurations.
 
@@ -34,7 +34,7 @@ Role required: admin
 
     3.  Select **click here** at the top of the page to edit the record.
 
-    4.  Select the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] lookup icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **Search Application Configuration** field, and select **Open Record** to open the Search Context Configuration form.
+    4.  Select the reference lookup icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **Search Application Configuration** field, and select **Open Record** to open the Search Context Configuration form.
 
     5.  Select AI Search in the **Search Engine** field.
 
@@ -103,7 +103,3 @@ The Global Search Configuration page should contain the items shown in the follo
 
 **Parent Topic:**[AI Search in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/text-search-advanced-now.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

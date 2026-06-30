@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Accept or reject a work order task on a mobile device
 
-[[accept-reject-task-on-mobile|Accept or reject a work order task]] assigned to you through the [[wot-fsc|Field Service Contractor for mobile]] application.
+Accept or reject a work order task assigned to you through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -46,7 +46,3 @@ The task is either accepted or rejected. If the task is rejected, it is reassign
 
 -   If an agent rejects the task, it is reassigned to the agent's manager.
 
-## Related
-
-- [[accept-reject-task-on-mobile|Accept or reject a work order task]]
-- [[wot-fsc|Field Service Contractor for mobile]]

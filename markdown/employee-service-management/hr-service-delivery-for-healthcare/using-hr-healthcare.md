@@ -14,13 +14,13 @@ breadcrumb: [HR Service Delivery for Healthcare, HR Service Delivery, Employee S
 
 # Using HR Service Delivery for Healthcare
 
-Use the [[healthcare-hr|HR Service Delivery for Healthcare]] application to set up and auto-create necessary tasks to onboard a healthcare professional smoothly into your organization. In addition, securely access, update, and manage the data of a healthcare professional via the [[hr-hc-profile|Healthcare Professional data model]].
+Use the HR Service Delivery for Healthcare application to set up and auto-create necessary tasks to onboard a healthcare professional smoothly into your organization. In addition, securely access, update, and manage the data of a healthcare professional via the Healthcare Professional data model.
 
-Below is an end to end explanation of how to use the HR Service Delivery for Healthcare along with [[jny-dsgnr-landing-page-1|Journey designer]] and [[employee-center-landing-page|Employee Center]]:
+Below is an end to end explanation of how to use the HR Service Delivery for Healthcare along with Journey designer and Employee Center:
 
 -   **1. [Configure application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/place-hc-request.md)**
 
-    As an HR administrator, plan and [[configure-hr-healthcare|configure HR Service Delivery for Healthcare]] by installing the necessary applications.
+    As an HR administrator, plan and configure HR Service Delivery for Healthcare by installing the necessary applications.
 
 -   **2. [Customize workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/customize-journey-hc.md)**
 
@@ -28,9 +28,9 @@ Below is an end to end explanation of how to use the HR Service Delivery for Hea
 
 -   **3. [Place onboarding request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/place-hc-request.md)**
 
-    As a [[hiring-tab-concept|hiring]] manager or an HR agent, request an onboarding journey for a healthcare professional from Employee Centre. This triggers onboarding journey for the healthcare professional, creating a set of HR tasks for healthcare professional and HR agents.
+    As a hiring manager or an HR agent, request an onboarding journey for a healthcare professional from Employee Centre. This triggers onboarding journey for the healthcare professional, creating a set of HR tasks for healthcare professional and HR agents.
 
-    -   An [[c_HRProfileRecords|HR profile]] and a Healthcare professional profile is created for the healthcare professional.
+    -   An HR profile and a Healthcare professional profile is created for the healthcare professional.
     -   An onboarding journey is auto-created for the healthcare professional, an email account is auto-created, and the employee is notified about the journey via email.
     -   HR Tasks, such as pre-hire tasks, credentialing and verification, background checks, enrollments, required learnings, are auto-triggered and assigned based on the order defined for the tasks in the journey.
     -   After the healthcare professional completes the profile intake tasks, the data is sent to the HR agents for validation and credentialing. Once the tasks in the journey are complete, the healthcare employee onboarding request is marked complete.
@@ -38,12 +38,4 @@ Below is an end to end explanation of how to use the HR Service Delivery for Hea
 
     Information provided by the healthcare professional is securely managed in the Healthcare Professional data model. The Healthcare Professional Profile data model enables the organization to access and track information of the healthcare professional throughout the period of employment. Healthcare Professional Profile records are stored confidentially and are not publicly viewable.
 
-## Related
 
-- [[healthcare-hr|HR Service Delivery for Healthcare]]
-- [[hr-hc-profile|Healthcare Professional data model]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[configure-hr-healthcare|Configure HR Service Delivery for Healthcare]]
-- [[hiring-tab-concept|Hiring]]
-- [[c_HRProfileRecords|HR Profile]]

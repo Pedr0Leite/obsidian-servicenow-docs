@@ -14,7 +14,7 @@ breadcrumb: [Time off balances in Employee Center Pro Kiosk, Configure Employee 
 
 # Customize the time off widget
 
-Customize the time off widget on the [[emp-slate-employee-profile|Employee Profile]] to display it to your preference.
+Customize the time off widget on the Employee Profile to display it to your preference.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The **Time off** tab is visible on your Employee Profile.
 
 **Parent Topic:**[Time off balances in Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/kiosk-timeoff-ec.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

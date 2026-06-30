@@ -103,7 +103,7 @@ The probable cause of the issue identified in the major incident.
 </td></tr></tbody>
 </table>4.  Click the **Post Incident Report** tab.
 
-    If you have already filled the post incident report information in the [[major-incident-workbench|major incident workbench]], the same information appears in the following fields:
+    If you have already filled the post incident report information in the major incident workbench, the same information appears in the following fields:
 
     |Field|Description|
     |-----|-----------|
@@ -114,6 +114,3 @@ The probable cause of the issue identified in the major incident.
 
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[major-incident-workbench|Major incident workbench]]

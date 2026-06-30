@@ -14,13 +14,13 @@ breadcrumb: [Software Asset Management publisher pack for Citrix, Supported soft
 
 # Create entitlements for Citrix
 
-Software entitlements enable you to define license details that are matched to [[c_CreatingSoftwareModels|software models]]. You can add an entitlement individually or import a list from a spreadsheet.
+Software entitlements enable you to define license details that are matched to software models. You can add an entitlement individually or import a list from a spreadsheet.
 
 ## Before you begin
 
 Role required: sam\_user or sam\_admin. The sam\_admin role is required to import entitlements.
 
-**Important:** You can create and import entitlements in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. The following steps provide details on how to create entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
+**Important:** You can create and import entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on how to create entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
 
 Before you can create a software entitlement, [create a software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-software-model-sap.md).
 
@@ -28,7 +28,7 @@ Before you can create a software entitlement, [create a software model](https://
 
 Manage available software and tie software installations \(software being used\) with entitlements \(software owned\) using software models. Create software models for all software to be monitored.
 
-**Note:** Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Software Models** but can’t administer all aspects of software models.
+**Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models** but can’t administer all aspects of software models.
 
 ## Procedure
 
@@ -55,9 +55,3 @@ Manage available software and tie software installations \(software being used\)
 
 **Parent Topic:**[Software Asset Management publisher pack for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/citrix-publisher-pack.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ProductCatalog|Product Catalog]]

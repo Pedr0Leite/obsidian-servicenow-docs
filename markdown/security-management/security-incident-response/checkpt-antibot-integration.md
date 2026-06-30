@@ -14,8 +14,5 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Check Point Anti-bot - Email Parser integration
 
-Check Point Anti-bot - Email Parser integration is supported using an email parser that consumes [[tisc-email-notifications|email notifications]] from Check Point Anti-bot to create security incidents and drive enrichment and response workflows.
+Check Point Anti-bot - Email Parser integration is supported using an email parser that consumes email notifications from Check Point Anti-bot to create security incidents and drive enrichment and response workflows.
 
-## Related
-
-- [[tisc-email-notifications|Email Notifications]]

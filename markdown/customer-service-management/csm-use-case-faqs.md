@@ -12,15 +12,15 @@ breadcrumb: [CSDM guidelines, Data models, Set up your environment, Configure, C
 
 # Customer Service Management considerations
 
-Consider these [[gamification-components-points|points]] while implementing the CSDM framework.
+Consider these points while implementing the CSDM framework.
 
 ## Considerations
 
 -   What is a Service-aware Install Base?
 
-    A Service-aware Install Base enables companies to track the digital products and services in use. A Service-aware Install Base also [[gamification-components-tracks|tracks]] the relationships of the products and services to dependent services and CIs that affect their health.
+    A Service-aware Install Base enables companies to track the digital products and services in use. A Service-aware Install Base also tracks the relationships of the products and services to dependent services and CIs that affect their health.
 
--   What are [[proactive-service-operations|Proactive Customer Service Operations]]?
+-   What are Proactive Customer Service Operations?
 
     Proactive Customer Service Operations bring CSM and Event Management together to enable companies to proactively trigger case workflows and notify the affected customers.
 
@@ -28,17 +28,17 @@ Consider these [[gamification-components-points|points]] while implementing the 
 
     No. The Service-aware Install Base is included in the CSM base system.
 
--   Can multiple [[sold-product|sold products]] reference the same service offering?
+-   Can multiple sold products reference the same service offering?
 
     Yes. Multiple sold products \(that is, Service Models\) purchased by different companies can reference the same service offering. For example, multiple customers can purchase the same SaaS offering with the same service commitments.
 
--   Can multiple [[install-base-item|Install Base Items]] reference the same application service?
+-   Can multiple Install Base Items reference the same application service?
 
     Yes. Multiple Install Base Items \(either for the same account or for different accounts\) can reference the same application service. For example, a multi-tenant SaaS offering where multiple customers \(each with their own Install Base Item\) are used on the same production instance \(application service\).
 
 -   When do I create an incident rather than a proactive case from an alert?
 
-    Typically, some companies create an incident so that their NOC engineers can resolving the issue. After they determine that the issue impacts multiple customers, they also proactively [[create-major-case|create a major case]] and related child cases \(one for each impacted customer\) to notify the affected customers. Thus, the alert, incident, and case are all linked.
+    Typically, some companies create an incident so that their NOC engineers can resolving the issue. After they determine that the issue impacts multiple customers, they also proactively create a major case and related child cases \(one for each impacted customer\) to notify the affected customers. Thus, the alert, incident, and case are all linked.
 
     Updates made by the resolving teams to the incident status or additional comments are reflected in the case. The customer service teams use these updates to keep customers informed.
 
@@ -64,11 +64,4 @@ Consider these [[gamification-components-points|points]] while implementing the 
 
     Service-centric organizations can leverage the tables from the CSDM Sell/Consume domain to connect the product model to the service offerings and then to sold product. These connections enable you to track the service portfolio and see a complete view of how customers are consuming services.
 
-## Related
 
-- [[gamification-components-points|Points]]
-- [[gamification-components-tracks|Tracks]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[create-major-case|Create a major case]]

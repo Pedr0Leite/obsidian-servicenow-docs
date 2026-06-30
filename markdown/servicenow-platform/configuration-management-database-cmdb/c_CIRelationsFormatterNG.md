@@ -14,9 +14,9 @@ breadcrumb: [CI relationships in the CMDB, Configuration Management Database \(C
 
 # CI relations formatter
 
-The default CI form includes a CI relations formatter from which you can examine a CI and its relationships in various views. From the CI relations formatter, you can also launch the [[c_RelationshipEditor|CI relationship editor]] for the CI.
+The default CI form includes a CI relations formatter from which you can examine a CI and its relationships in various views. From the CI relations formatter, you can also launch the CI relationship editor for the CI.
 
-If the [[domain-separation-relationship-formatter-editor|domain separation]] plugin is activated, then only relationships in which the logged on user is authorized to view both CIs, are displayed.
+If the domain separation plugin is activated, then only relationships in which the logged on user is authorized to view both CIs, are displayed.
 
 The CI relations formatter contains a list of related CIs and a toolbar with controls for viewing the relationships between the current CI and related CIs. You can configure the controls in this formatter to modify varying aspects of the view. For more information about formatters, see [Create a formatter and add it to the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md).
 
@@ -37,8 +37,8 @@ The CI relations formatter contains a list of related CIs and a toolbar with con
 
         CI1 &gt; CI2 &gt; endpoint2 \(appears as level 2 relationship – endpoint1 is hidden and endpoint2 appears as it a child and not a parent in any other relationship\).
 
--   On instances that do not meet the internet browser requirements for the CI relations formatter, the default CI form includes the [[r_LegacyCIRelationsFormatter|legacy CI relations formatter]] instead. For more information, see [Legacy CI relations formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_LegacyCIRelationsFormatter.md).
--   CIs not extended from the Configuration Item \[cmdb\_ci\] table, are not displayed in [[c_BusinesssServiceManagementMaps|Dependency Views]] maps and in CI relation formatters.
+-   On instances that do not meet the internet browser requirements for the CI relations formatter, the default CI form includes the legacy CI relations formatter instead. For more information, see [Legacy CI relations formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_LegacyCIRelationsFormatter.md).
+-   CIs not extended from the Configuration Item \[cmdb\_ci\] table, are not displayed in Dependency Views maps and in CI relation formatters.
 -   The **Applicative Flow To::Application Flow From** relationship is a special relationship type used only between Service Mapping endpoints. This relationship type is not intended for use in the CMDB as a relationship between CIs and therefore it is not displayed in the relations formatter.
 
 <table id="table_v4g_n21_1s"><thead><tr><th>
@@ -63,7 +63,7 @@ Show dependency views
 
 </td><td>
 
-Launches a [[c_NextGenBSMMaps|Dependency Views map]] in another window or tab. The CI is the central node in the map, with a configurable number of levels above and below that node in the hierarchy. Map indicators next to the nodes indicate the number of tasks, incidents, problems, changes, or outages related to that node. Right-click to expand collapsed nodes or display a list of related tasks or problems. For more information, see [Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_NextGenBSMMaps.md).
+Launches a Dependency Views map in another window or tab. The CI is the central node in the map, with a configurable number of levels above and below that node in the hierarchy. Map indicators next to the nodes indicate the number of tasks, incidents, problems, changes, or outages related to that node. Right-click to expand collapsed nodes or display a list of related tasks or problems. For more information, see [Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_NextGenBSMMaps.md).
 
 </td></tr><tr><td>
 
@@ -218,10 +218,3 @@ On instances that do not meet the internet browser requirements for the latest C
 
 [Create or edit a relationship filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateRelationshipFilter.md)
 
-## Related
-
-- [[c_RelationshipEditor|CI relationship editor]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_LegacyCIRelationsFormatter|Legacy CI relations formatter]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

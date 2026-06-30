@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Create custom SAP price lists
 
-Create custom SAP price lists so that you can track and manage SAP licenses based on the [[c_Contracts|contracts]] that are specific to your SAP system.
+Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 **Note:** The custom SAP named user types that you create directly on your ServiceNow instance aren’t reflected in your SAP system. You must make the same changes in your SAP system.
 
-**Important:** You can create custom SAP price lists in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. Use the following steps to create custom SAP price lists in the Software Asset Management classic application. For details on how to create custom SAP price lists in the Software Asset Workspace, see [Create custom SAP price lists in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-prcielists-workspace.md).
+**Important:** You can create custom SAP price lists in both the Software Asset Management classic application and the Software Asset Workspace. Use the following steps to create custom SAP price lists in the Software Asset Management classic application. For details on how to create custom SAP price lists in the Software Asset Workspace, see [Create custom SAP price lists in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-prcielists-workspace.md).
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Role required: sam\_admin
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -108,9 +108,3 @@ Role required: sam\_admin
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

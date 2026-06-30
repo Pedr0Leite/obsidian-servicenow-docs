@@ -26,7 +26,7 @@ You can create up to three private views and up to 10 shared \(public\) views pe
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a free-form roadmap to open it.
 
@@ -58,11 +58,7 @@ The shared view for the free-form roadmap is created and is visible to all stake
 ## What to do next
 
 -   Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. See [Share a free-form roadmap with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-free-form-roadmap-stakeholders-portfolio-planning.md).
--   [[edit-free-form-roadmap-view-ppw|Edit a free-form roadmap view]] to change the existing view. See [Edit a free-form roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-free-form-roadmap-view-ppw.md).
+-   Edit a free-form roadmap view to change the existing view. See [Edit a free-form roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-free-form-roadmap-view-ppw.md).
 
 **Parent Topic:**[Managing free-form roadmap views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-free-form-roadmap-views-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[edit-free-form-roadmap-view-ppw|Edit a free-form roadmap view]]

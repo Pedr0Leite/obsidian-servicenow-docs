@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Services Kiosk, Workplace Service Delivery, Em
 
 # Install Workplace Services Kiosk
 
-Install the [[workplace-services-kiosk|Workplace Services Kiosk]] application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Services Kiosk application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Complete the following setup instructions:
 
     The list displays the subscriptions that your organization has purchased.
 
-2.  Verify that the [[workplace-safety-mgmt-hr|Workplace Core]] plugin is activated.
+2.  Verify that the Workplace Core plugin is activated.
 
 Use the following details when required:
 
@@ -58,7 +58,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/configure-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

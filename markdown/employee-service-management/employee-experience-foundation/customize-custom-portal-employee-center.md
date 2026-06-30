@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center, HR Service Delivery integration, Micro
 
 # Embed a custom portal
 
-Embed your custom portal to replace the [[employee-center-landing-page|Employee Center]] tab in Microsoft Teams by configuring the system property. The custom portal shows up in the Employee Center tab in Microsoft Teams.
+Embed your custom portal to replace the Employee Center tab in Microsoft Teams by configuring the system property. The custom portal shows up in the Employee Center tab in Microsoft Teams.
 
 ## Before you begin
 
@@ -113,6 +113,3 @@ You can hide the logout option for your custom portal that appears in the Employ
 
 **Parent Topic:**[Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-dashboard-admin.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -16,13 +16,13 @@ The setup steps help you to establish a consistent connection and successful not
 
 These pre-requisite configurations must be set up for sending an emergency notification and monitoring the notification workflow:
 
--   To create a connection and authenticate your credentials with Everbridge, see [[create-conn-auth-cred-Everbridge-uib-ws|Create connections and authenticate their credentials]].
--   To get the delivery details of the contacts from Everbridge and use them to send a notification, see [[import-delivery-channels-from-everbridge-uib-ws|Import the delivery channels from Everbridge]].
--   To get the details about the type of contacts from Everbridge, see [[import-record-types-from-everbridge-uib-ws|Import record types from Everbridge]].
--   To pre-configure a notification template to send an email or SMS to your contacts, see [[define-template-emergency-noti-uib-ws|Create templates for emergency notifications]].
--   To create contacts for sending the notification, see [[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]].
--   To set up rules in filtering the contacts from the user table, see [[create-contact-import-rules|Create the contact import rules]].
--   To create a group of contacts, see [[create-notification-contact-group-uib-ws|Create notification contact groups]].
+-   To create a connection and authenticate your credentials with Everbridge, see [Create connections and authenticate their credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-conn-auth-cred-Everbridge-uib-ws.md).
+-   To get the delivery details of the contacts from Everbridge and use them to send a notification, see [Import the delivery channels from Everbridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-delivery-channels-from-everbridge-uib-ws.md).
+-   To get the details about the type of contacts from Everbridge, see [Import record types from Everbridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-record-types-from-everbridge-uib-ws.md).
+-   To pre-configure a notification template to send an email or SMS to your contacts, see [Create templates for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/define-template-emergency-noti-uib-ws.md).
+-   To create contacts for sending the notification, see [Create contacts for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contacts-emergency-noti-uib-ws.md).
+-   To set up rules in filtering the contacts from the user table, see [Create the contact import rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contact-import-rules.md).
+-   To create a group of contacts, see [Create notification contact groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-notification-contact-group-uib-ws.md).
 
 Here is a flow diagram that shows how the different setup steps are connected for the integration:
 
@@ -39,18 +39,7 @@ Create a template with pre-defined information. You can then use it to send the 
 -   **[Create contacts for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contacts-emergency-noti-uib-ws.md)**  
 Create the contacts manually to send out an emergency notification and synchronize them with the Everbridge instance.
 -   **[Create notification contact groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-notification-contact-group-uib-ws.md)**  
-[[create-notification-contact-group|Create a notification contact group]] using the ServiceNow AI Platform groups. Use the group members as the contacts for an emergency notification. Synchronize the group members as the contacts with Everbridge and track the non-synchronized members as exceptions.
+Create a notification contact group using the ServiceNow AI Platform groups. Use the group members as the contacts for an emergency notification. Synchronize the group members as the contacts with Everbridge and track the non-synchronized members as exceptions.
 
-**Parent Topic:**[[configuring-business-continuity-management|Configuring Business Continuity Management]]
+**Parent Topic:**[Configuring Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-business-continuity-management.md)
 
-## Related
-
-- [[create-conn-auth-cred-Everbridge-uib-ws|Create connections and authenticate their credentials]]
-- [[import-delivery-channels-from-everbridge-uib-ws|Import the delivery channels from Everbridge]]
-- [[import-record-types-from-everbridge-uib-ws|Import record types from Everbridge]]
-- [[define-template-emergency-noti-uib-ws|Create templates for emergency notifications]]
-- [[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]]
-- [[create-contact-import-rules|Create the contact import rules]]
-- [[create-notification-contact-group-uib-ws|Create notification contact groups]]
-- [[configuring-business-continuity-management|Configuring Business Continuity Management]]
-- [[create-notification-contact-group|Create a notification contact group]]

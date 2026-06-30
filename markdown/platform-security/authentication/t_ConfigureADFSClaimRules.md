@@ -52,7 +52,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 10. Select **Transform an Incoming Claim** as the claim rule template to use.
 
-11. Give the Claim a name such as `[[email|Email]] to Name ID`.
+11. Give the Claim a name such as `Email to Name ID`.
 
 12. Set the **Incoming claim type** to the **Outgoing Claim Type** in the previous rule.
 
@@ -60,7 +60,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 13. Set the **Outgoing claim type** to `Name ID` and the **Outgoing name ID format** to `Email`.
 
-    **Note:** These values must match the [Name ID policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpNameIDPolicy.md) you define during [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 [[sc-configuration|configuration]].
+    **Note:** These values must match the [Name ID policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpNameIDPolicy.md) you define during SAML 2.0 configuration.
 
 14. Select **Pass through all claim values**.
 
@@ -79,8 +79,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 15. Click **Finish**.
 
-## Related
 
-- [[email|Email]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]

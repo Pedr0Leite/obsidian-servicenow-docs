@@ -15,11 +15,11 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Navigation
 
-Use the navigation skill in [[platform-now-assist-landing|Now Assist]] to take you where you want to go on the ServiceNow AI Platform.
+Use the navigation skill in Now Assist to take you where you want to go on the ServiceNow AI Platform.
 
 ## Overview of navigation
 
-Navigation is a skill in the [[now-assist-center-now-assist-panel|Now Assist panel]] that handles record search requests during a chat. When you ask for records or tables in plain language Now Assist shows you links in the chat to take you to the best match to your request. For example, you could enter `Show me incident records`.
+Navigation is a skill in the Now Assist panel that handles record search requests during a chat. When you ask for records or tables in plain language Now Assist shows you links in the chat to take you to the best match to your request. For example, you could enter `Show me incident records`.
 
 In the following figure, the user entered `navigate me to incidents` in the Now Assist panel. Now Assist responds with a link to the Incidents table.
 
@@ -45,7 +45,3 @@ If Now Assist does not understand your request, you receive an error message ask
 
 \[Omitted image "na-global-nav-6.png"\] Alt text: If Now Assist receives an unclear request, you are prompted to rephrase your request.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

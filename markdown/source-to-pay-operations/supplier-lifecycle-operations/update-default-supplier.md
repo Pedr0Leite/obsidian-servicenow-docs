@@ -14,17 +14,17 @@ breadcrumb: [Raising requests, Using Supplier Collaboration Portal, Use, Supplie
 
 # Update default supplier
 
-Update the default [[supplier|supplier]] when multiple suppliers are linked with your profile.
+Update the default supplier when multiple suppliers are linked with your profile.
 
 ## Before you begin
 
 Role required: sn\_slm.contact
 
-**Important:** This catalog request item is available from the Xanadu December 2024 release onwards, only after **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled and more than one suppliers are linked with your profile.
+**Important:** This catalog request item is available from the Xanadu December 2024 release onwards, only after **M2M mapping between supplier contact and suppliers** is enabled and more than one suppliers are linked with your profile.
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -68,8 +68,3 @@ The default supplier is updated.
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

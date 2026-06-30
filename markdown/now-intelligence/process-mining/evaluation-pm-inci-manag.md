@@ -14,7 +14,7 @@ breadcrumb: [Evaluation projects, Explore, Process Mining, Platform Analytics]
 
 # Process Mining evaluation project for Incident Management
 
-Process Mining evaluation project for Incident Management enables you to familiarize with improving your process with [[process-mining|Process Mining]] capability.
+Process Mining evaluation project for Incident Management enables you to familiarize with improving your process with Process Mining capability.
 
 ITSM customers can evaluate Process Mining with their Incident Management business process in their production instance.
 
@@ -28,7 +28,7 @@ This evaluation project works on the data that you have stored in your productio
 -   Includes introduction videos, FAQs, Academy sessions, and use cases.
 -   Auto-retire is set to false.
 
-If you have the required roles \(itil, snc\_internal\), you can evaluate Process Mining for ITSM Incident Management via ITSM Incident Management Performance Analytics KPIs or through the [[analyst-workbench-overview|Process Mining Workspace]].
+If you have the required roles \(itil, snc\_internal\), you can evaluate Process Mining for ITSM Incident Management via ITSM Incident Management Performance Analytics KPIs or through the Process Mining Workspace.
 
 The promin.pa\_integration\_required\_roles is already available that would enable you to run the project. For more information, see [Process Mining properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/components-installed.md).
 
@@ -39,12 +39,7 @@ For more information, see [Run the Process Mining evaluation project](https://ra
 **Related topics**  
 
 
-[[create-db-in-ac|Create a dashboard with the in-line editor]]
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

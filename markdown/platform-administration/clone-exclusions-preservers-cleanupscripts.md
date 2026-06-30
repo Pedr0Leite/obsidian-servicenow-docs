@@ -18,19 +18,19 @@ The **Definitions** page displays an overview for exclusions, preservers, and cl
 
 ## Exclusions
 
-The exclusions page lists the tables that aren’t copied during an [[system-clone-landing|instance clone]]. When excluding a table, the clone automation truncates the entire table including its child tables. The clone process excludes \(or removes\) data from both the parent and the child tables. The child tables, however, aren't individually added to the list of excluded tables. Only the parent table is listed.
+The exclusions page lists the tables that aren’t copied during an instance clone. When excluding a table, the clone automation truncates the entire table including its child tables. The clone process excludes \(or removes\) data from both the parent and the child tables. The child tables, however, aren't individually added to the list of excluded tables. Only the parent table is listed.
 
 To view child tables of a table, you can go to the following link and input their table: **\[instance\].service-now.com/now/nav/ui/classic/params/target/generic\_hierarchy\_erd.do**.
 
-By default, the system excludes tables for logging, auditing, [[notifications|notifications]], workflow contexts, and license usage. To configure additional exclusions, see [[t_ExcludeATableFromCloning|Exclude a table from cloning]].
+By default, the system excludes tables for logging, auditing, notifications, workflow contexts, and license usage. To configure additional exclusions, see [Exclude a table from cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ExcludeATableFromCloning.md).
 
-For information on guidelines when adding exclusions see [[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]].
+For information on guidelines when adding exclusions see [General guidelines for excluding a table from cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-exclusions-guidelines.md).
 
 ## Preservers
 
 The preservers page displays a list of available data preservers, which are defined on the source instance. Preservers protect data on the target instance from being overwritten.
 
-Preservers work differently compared to exclusions. When preserving a table, the clone automation doesn’t automatically preserve the child tables. Therefore, the child tables must be individually added to the preserver list. To create a preserver see [[create-new-clone-preserver|Create a clone preserver]].
+Preservers work differently compared to exclusions. When preserving a table, the clone automation doesn’t automatically preserve the child tables. Therefore, the child tables must be individually added to the preserver list. To create a preserver see [Create a clone preserver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-new-clone-preserver.md).
 
 ## Cleanup scripts
 
@@ -42,9 +42,9 @@ All cleanup scripts run in the global scope irrespective of the scope in which y
 
 |Script|Description|
 |------|-----------|
-|Bad MID Server credentials after clone|Runs a script include called BadMIDCredentialAfterClone on a cloned instance to detect [bad MID Server user credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-post-clone-issue-resolution.md). This script include creates [[c_ScheduledJobs|scheduled jobs]] that log MID Servers in the **Down** state to the MID Server Issue \[ecc\_agent\_issue\] table after an instance clone.|
+|Bad MID Server credentials after clone|Runs a script include called BadMIDCredentialAfterClone on a cloned instance to detect [bad MID Server user credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-post-clone-issue-resolution.md). This script include creates scheduled jobs that log MID Servers in the **Down** state to the MID Server Issue \[ecc\_agent\_issue\] table after an instance clone.|
 |Clear scheduled job node association|Resets any scheduled jobs that were active on the source instance to the **Ready** state. This script also clears the value of the **System ID** and **Claimed by** fields on all scheduled jobs.|
-|Configure Email Accounts|Migrates [[c_EmailAccounts|email accounts]] that existed on the source instance to the target instance if they aren’t enabled there. This script also migrates the [[c_EmailProperties|email properties]] to the target instance.|
+|Configure Email Accounts|Migrates email accounts that existed on the source instance to the target instance if they aren’t enabled there. This script also migrates the email properties to the target instance.|
 |Disable emails|Disables email on the target instance. A default data preserver maintains other email settings from the target instance.|
 |Install deactivated plugin|Enables the Domain Separation plugin for instances that use this feature.|
 |Regenerate all text indexes|Rebuilds text indexes on the target instance after a clone. Text indexes are cloned from the source instance and then regenerated to reflect only the preserved data.|
@@ -52,7 +52,7 @@ All cleanup scripts run in the global scope irrespective of the scope in which y
 
 **Note:** After the clone completes, all active cleanup scripts are combined together as a scheduled job named **Execute Clone Cleanup Script: Execute Cleanup Scripts Sequentially** and run until completion in the global scope.
 
-To create a cleanup script see [[create-cleanup-script|Create cleanup scripts]].
+To create a cleanup script see [Create cleanup scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-cleanup-script.md).
 
 ## Clarifying exclusions and preservers combinations
 
@@ -69,14 +69,3 @@ Clone exclusions and preservers are both useful for managing your data. The grap
 
 To learn more about clone and app development tips, see the [Leveraging System Clones for Seamless Development and Deployment Whitepaper](https://learning.servicenow.com/nowcreate/en?id=nc_asset&asset_id=ce3c254697cc82d06eedb30e6253af3b&nc_source=copy_asset_link).
 
-## Related
-
-- [[t_ExcludeATableFromCloning|Exclude a table from cloning]]
-- [[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]]
-- [[create-new-clone-preserver|Create a clone preserver]]
-- [[create-cleanup-script|Create cleanup scripts]]
-- [[system-clone-landing|Instance Clone]]
-- [[notifications|Notifications]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_EmailAccounts|Email accounts]]
-- [[c_EmailProperties|Email properties]]

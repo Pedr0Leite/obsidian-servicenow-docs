@@ -12,13 +12,13 @@ breadcrumb: [Now Assist for POM, Purchase Order Management, Source-to-Pay Operat
 
 # Exploring Now Assist for Purchase Order Management \(POM\)
 
-With the ServiceNow® Now Assist for Purchase Order Management \(POM\) application, you can use generative AI to support [[purchase-order-mgmt-landing-page|purchase order management]] tasks such as converting unstructured [[supplier|supplier]] emails into a prioritized list of exceptions and providing a conversation-like experience to mitigate [[purchase-order-table|purchase order]] exceptions.
+With the ServiceNow® Now Assist for Purchase Order Management \(POM\) application, you can use generative AI to support purchase order management tasks such as converting unstructured supplier emails into a prioritized list of exceptions and providing a conversation-like experience to mitigate purchase order exceptions.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Now Assist for POM overview
 
-Now Assist for POM enables you to use agentic workflows focused on [[purchase-order-exception-table|purchase order exception]] management.
+Now Assist for POM enables you to use agentic workflows focused on purchase order exception management.
 
 ## Now Assist for POM benefits
 
@@ -57,16 +57,8 @@ Helps buyers identify and execute exception mitigation strategies by analyzing d
 -   sn\_poem\_operational\_buyer
 
 </td></tr></tbody>
-</table>-   **[[supporting-information-na-pom|Supporting information for Now Assist for Purchase Order Management \(POM\)]]**  
+</table>-   **[Supporting information for Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supporting-information-na-pom.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Purchase Order Management \(POM\) application.
 
-**Parent Topic:**[[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-purch-order-magmt.md)
 
-## Related
-
-- [[supporting-information-na-pom|Supporting information for Now Assist for Purchase Order Management \(POM\)]]
-- [[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-exception-table|Purchase Order Exception]]

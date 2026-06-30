@@ -18,7 +18,7 @@ Use the customizable single and multi-instance security posture dashboards to mo
 
 ## Accessing the Security posture dashboards
 
-To access the Security posture dashboard, open [[sec-center-v2|Security Center]] by navigating to **All** &gt; **Security Center**. Select **[[sc-posture-console|Security posture console]]** in the **Security consoles** section. On the **Security posture console** page, select **Security posture dashboards** at the top.
+To access the Security posture dashboard, open Security Center by navigating to **All** &gt; **Security Center**. Select **Security posture console** in the **Security consoles** section. On the **Security posture console** page, select **Security posture dashboards** at the top.
 
 Use the down arrow next to **Security posture dashboard** to switch between instance dashboards.
 
@@ -30,7 +30,7 @@ The dashboard is divided into multiple sections containing widgets related to an
 
 \[Omitted image "spd-at-a-glance.png"\] Alt text: At a glance
 
-The **At a glance** section displays an overview of security on an instance, such as a compliance score, [[critical-updates|Customer Actions]] due, and release information for the instance.
+The **At a glance** section displays an overview of security on an instance, such as a compliance score, Customer Actions due, and release information for the instance.
 
 -   **Compliance score**
 
@@ -48,7 +48,7 @@ The **At a glance** section displays an overview of security on an instance, suc
 
     Displays a count of customer actions due soon. Select this widget to navigate to [Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/critical-updates.md).
 
--   **[[antivirus|Antivirus]] downloaded files**
+-   **Antivirus downloaded files**
 
     Displays a count of files uploaded to your instance that have been quarantined. Select this widget to view these quarantined files in the [Antivirus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/antivirus.md) section of [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
@@ -59,7 +59,7 @@ The **At a glance** section displays an overview of security on an instance, suc
 
 ## Users
 
-\[Omitted image "spd-[[users|users]].png"\] Alt text: Users
+\[Omitted image "spd-users.png"\] Alt text: Users
 
 The **Users** section provides information on the users in your instance. The widgets on this section show user information, and a line graph showing changes to this information over time. Select a widget to view more detail.
 
@@ -71,13 +71,13 @@ The **Users** section provides information on the users in your instance. The wi
 
     Displays a count of active users on your Users \[sys\_user\] table. Active users are user records where the **Active** field is selected. Select this widget to see details on these records in the [Active Sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-active-sessions.md) section of [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
--   **Active [[integration-accounts|integration accounts]]**
+-   **Active integration accounts**
 
     Displays a count of integration accounts on your Users \[sys\_user\] table. Integration accounts are user records where the **Web service access only** field is selected. Select this widget to see details on these records in the [Active Sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-active-sessions.md) section of [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
 -   **Active privileged accounts**
 
-    Displays a count of active [[privileged-users|privileged users]] on your Users \[sys\_user\] table. Privileged users are user records where the **Active** field is true, the **Internal Integration User** is false, and **Internal Integration User** is inactive. Select this widget to see details on these records in the [Active Sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-active-sessions.md) section of [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
+    Displays a count of active privileged users on your Users \[sys\_user\] table. Privileged users are user records where the **Active** field is true, the **Internal Integration User** is false, and **Internal Integration User** is inactive. Select this widget to see details on these records in the [Active Sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-active-sessions.md) section of [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
 -   **Never logged-in users**
 
@@ -100,9 +100,9 @@ The **Login protection** section includes information on failed logins, includin
 
 -   **Privileged logins without MFA**
 
-    Displays a count of privileged accounts that aren’t configured for [[mfa-landing|multi-factor authentication]] \(MFA\). Select this widget to navigate to see a list these accounts in [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
+    Displays a count of privileged accounts that aren’t configured for multi-factor authentication \(MFA\). Select this widget to navigate to see a list these accounts in [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
--   **REST APIs without [[api-access-policy|API access policy]]**
+-   **REST APIs without API access policy**
 
     Displays a list of REST APIs that aren’t restricted with an API access policy. Select this widget to navigate to see a list these REST APIs in [Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md).
 
@@ -121,13 +121,13 @@ The **Instance trends** dashboard displays the results of the access controls au
 
 ## Data protection
 
-\[Omitted image "spd-data-protection.png"\] Alt text: [[naai-data-protection|Data protection]]
+\[Omitted image "spd-data-protection.png"\] Alt text: Data protection
 
 Use the **Data protection** section to see an overview of classified data, such as personally identifiable information \(PII\). The dashboard also tracks exports of classified data.
 
 -   **Classified data**
 
-    Displays a pie chart of classified data on your instance, separated by type. Select a section of the chart to view details on these records. For details on [[data-classification|data classification]], see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
+    Displays a pie chart of classified data on your instance, separated by type. Select a section of the chart to view details on these records. For details on data classification, see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
 
 -   **Classified data exports**
 
@@ -154,7 +154,7 @@ View the security posture of your non-production instances without leaving your 
 
 By default, the **All instances** tab displays information on the production instance you’re logged in to, and all non-production instances across all your production environments.
 
-You may add or remove instances that appear on this dashboard by modifying your trust [[sc-configuration|configuration]]. Providing data visibility between instances allows them to appear within your dashboard. For details on this process, see [Basic trust configuration for data sync applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grant-access-other-instances.md).
+You may add or remove instances that appear on this dashboard by modifying your trust configuration. Providing data visibility between instances allows them to appear within your dashboard. For details on this process, see [Basic trust configuration for data sync applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grant-access-other-instances.md).
 
 ## Dashboard customization
 
@@ -162,17 +162,3 @@ The instance security posture dashboard can’t be customized, but you can dupli
 
 **Parent Topic:**[Security posture console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-posture-console.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[sc-posture-console|Security posture console]]
-- [[critical-updates|Customer Actions]]
-- [[antivirus|Antivirus]]
-- [[users|Users]]
-- [[integration-accounts|Integration Accounts]]
-- [[privileged-users|Privileged Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[api-access-policy|API access policy]]
-- [[naai-data-protection|Data protection]]
-- [[data-classification|Data Classification]]
-- [[sc-configuration|Configuration]]

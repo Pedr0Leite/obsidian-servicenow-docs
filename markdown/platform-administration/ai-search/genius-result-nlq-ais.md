@@ -14,11 +14,11 @@ breadcrumb: [Genius Result configurations in the base system, Genius Results, Se
 
 # NLQ Genius Results
 
-NLQ \(Natural Language Query\) [[genius-results-ais|Genius Results]] use NLQ processing to surface relevant [[hs-results|results]] from tables that match your search query. Each NLQ Genius Result answer card displays a preview of records from matching tables. You can navigate to a matching table's list view or the CMDB workspace directly from the Genius Result answer card.
+NLQ \(Natural Language Query\) Genius Results use NLQ processing to surface relevant results from tables that match your search query. Each NLQ Genius Result answer card displays a preview of records from matching tables. You can navigate to a matching table's list view or the CMDB workspace directly from the Genius Result answer card.
 
 NLQ Genius Results don't use indexed sources when finding tables that match your query. You don't need to define a table as an indexed source to make it eligible to appear in NLQ Genius Result answers.
 
-When computing NLQ Genius Result answers, [[ia-ai-search|AI Search]] identifies tables that match your search using the following NLQ query types:
+When computing NLQ Genius Result answers, AI Search identifies tables that match your search using the following NLQ query types:
 
 -   Natural language queries similar to the ones made using Analytics Overview. To learn more about Analytics Overview table query capabilities, see [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md).
 -   Natural language queries similar to the ones made using the Configuration Management Database \(CMDB\). These CMDB queries only match tables that aren't defined as indexed sources. For more information about CMDB table query capabilities, see [Configuration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-cmdb.md).
@@ -73,7 +73,7 @@ Your feedback helps ServiceNow improve future versions of this Genius Result con
 
 ## Limitations
 
-Like the other base system Genius Result [[clone-configurations-tab|configurations]], NLQ Genius Results only support searches in English.
+Like the other base system Genius Result configurations, NLQ Genius Results only support searches in English.
 
 NLQ Genius Results rely on Natural Language Query processing, which can increase the time required to return results on the first search for a given set of terms. Consider this performance impact before enabling NLQ Genius Results in any of your AI Search applications.
 
@@ -93,9 +93,3 @@ A system property determines whether the system displays search result preview l
 
 **Parent Topic:**[Genius Result configurations in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/default-genius-result-configs-ais.md)
 
-## Related
-
-- [[genius-results-ais|Genius Results]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

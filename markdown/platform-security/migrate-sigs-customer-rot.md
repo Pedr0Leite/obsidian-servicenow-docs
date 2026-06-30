@@ -18,9 +18,9 @@ Run a signing job to migrate your signatures to a customer Root of Trust \(ROT\)
 
 Role required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
-[[code-signing-landing|Code Signing]] must be enabled on your protected and trusted instances. You can verify by checking that the **com.snc.kmf.signature.validation.flag** system property is set to `true`.
+Code Signing must be enabled on your protected and trusted instances. You can verify by checking that the **com.snc.kmf.signature.validation.flag** system property is set to `true`.
 
-This procedure is part of a series of procedures to change a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [[change-rot-overview|Change your Root of Trust configuration]].
+This procedure is part of a series of procedures to change a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [Change your Root of Trust configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/change-rot-overview.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ This procedure is part of a series of procedures to change a customer Root of Tr
 
 8.  Right-click the form header and select **Save** to save this record.
 
-9.  Right-click the form header and select **[[export|Export]]** &gt; **XML \(This Record\)** to export this record as an XML file.
+9.  Right-click the form header and select **Export** &gt; **XML \(This Record\)** to export this record as an XML file.
 
 10. Log in to your trusted instance.
 
@@ -103,12 +103,5 @@ This procedure is part of a series of procedures to change a customer Root of Tr
 
 ## What to do next
 
-To continue the Root of Trust [[sc-configuration|configuration]] process, see [[disable-sn-rot|Disable ServiceNow Root of Trust]].
+To continue the Root of Trust configuration process, see [Disable ServiceNow Root of Trust](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/disable-sn-rot.md).
 
-## Related
-
-- [[change-rot-overview|Change your Root of Trust configuration]]
-- [[disable-sn-rot|Disable ServiceNow Root of Trust]]
-- [[code-signing-landing|Code Signing]]
-- [[export|Export]]
-- [[sc-configuration|Configuration]]

@@ -20,11 +20,11 @@ Define threat score for the observable\(s\) records that are generated based on 
 
 Role required: sn\_sec\_tisc.admin
 
-**Note:** By default, the threat scoring rule will be inactive, you need to enable the rule to see the [[c_Observables|observables]] scoring.
+**Note:** By default, the threat scoring rule will be inactive, you need to enable the rule to see the observables scoring.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Go to **Threat Scoring Rule**.
 
@@ -98,12 +98,12 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
 
     2.  Select the **Table** for which the criteria is configured.
 
-        The list of values in the drop down list are Observables, [[threat-actor|Threat Actor]], [[campaign|Campaign]], [[location|Location]], [[identity|Identity]], Vulnerability, [[threat-event|Threat Event]], Security Incident, and Aggregates. When you select one of these options from the drop down list, a condition is applied. This condition ensures that only records related to the selected value are displayed or calculated.
+        The list of values in the drop down list are Observables, Threat Actor, Campaign, Location, Identity, Vulnerability, Threat Event, Security Incident, and Aggregates. When you select one of these options from the drop down list, a condition is applied. This condition ensures that only records related to the selected value are displayed or calculated.
 
         **Note:**
 
         -   If the selected Observable, then the condition will be applied on the observable record for which the threat score will be calculated. If the selected table is not Observable, the condition will be applied only if the records are related to the Observable for which the threat score will be calculated.
-        -   An additional Aggregates table is added to define the scores based on the number of relations that are associated to the Observables. For example, select the Table: Aggregates and the field value: [[threat-actors|Threat Actors]] then for an observable, if there are more than two threat actors, then, set the score and apply the conditions as applicable.
+        -   An additional Aggregates table is added to define the scores based on the number of relations that are associated to the Observables. For example, select the Table: Aggregates and the field value: Threat Actors then for an observable, if there are more than two threat actors, then, set the score and apply the conditions as applicable.
         -   For example, if you want to set a score for one or more threat actors associated to an observable, then, select the field as No of Threat Actors and set the desired score and apply the conditions as applicable.
     3.  Select the **Field** from the above selected table.
 
@@ -153,7 +153,7 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
 
     The advanced script field is auto populated with a function which takes the parameters **current** and **aggregates** and this function should return the threat score in the range of 0-100.
 
-    Here, the current parameter is the GlideRecord object of the entity \(observable\) for which the threat score is being calculated. For the observables, it corresponds to the GlideRecord for the sn\_sec\_tisc\_observable table. The aggregates parameter is a GlideRecord object of the sn\_sec\_tisc\_aggregates table record which is used to access the record counts of the various associated record types \(such as [[threat-intelligence-campaigns|campaigns]] or [[threat-intelligence-identities|identities]]\) to the main entity \(observable\).
+    Here, the current parameter is the GlideRecord object of the entity \(observable\) for which the threat score is being calculated. For the observables, it corresponds to the GlideRecord for the sn\_sec\_tisc\_observable table. The aggregates parameter is a GlideRecord object of the sn\_sec\_tisc\_aggregates table record which is used to access the record counts of the various associated record types \(such as campaigns or identities\) to the main entity \(observable\).
 
     Sample example of the script in the advanced option:
 
@@ -181,15 +181,3 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
 
 **Parent Topic:**[Custom Threat Score Calculator in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/using-custom-threat-score-calculator.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-actor|Threat Actor]]
-- [[campaign|Campaign]]
-- [[location|Location]]
-- [[identity|Identity]]
-- [[threat-event|Threat Event]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-identities|Identities]]

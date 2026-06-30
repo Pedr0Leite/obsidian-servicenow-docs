@@ -15,11 +15,11 @@ breadcrumb: [Employee Slate home, Employee Slate, Unified Employee Experience, E
 
 # Configure the home page for Employee Slate
 
-Configure the home page in [[employee-slate-landing-page|Employee Slate]]. Set the AI chat entry, the out-of-the-box widget lineup, and the [[emp-center-quick-link-config|quick links]] shown to employees.
+Configure the home page in Employee Slate. Set the AI chat entry, the out-of-the-box widget lineup, and the quick links shown to employees.
 
 ## Before you begin
 
-Activate [[employee-slate-nowassist|Employee Slate for Now Assist]] in the instance.
+Activate Employee Slate for Now Assist in the instance.
 
 Role required: admin or Employee Slate administrator.
 
@@ -27,9 +27,9 @@ Role required: admin or Employee Slate administrator.
 
 The home page is the personalized starting point for an employee. The page aggregates the relevant tasks, requests, and content for the day.
 
-The home page ships with five out-of-the-box widgets: [[emp-slate-inbox|Tasks and requests]], Announcements, Popular Content, Upcoming Holiday, and Quick Links. Configure each widget to scope the content for the audience.
+The home page ships with five out-of-the-box widgets: Tasks and requests, Announcements, Popular Content, Upcoming Holiday, and Quick Links. Configure each widget to scope the content for the audience.
 
-\[Omitted image "es-home-page.png"\] Alt text: [[emp-slate-home-page|Employee Slate home]]
+\[Omitted image "es-home-page.png"\] Alt text: Employee Slate home
 
 ## Procedure
 
@@ -74,10 +74,3 @@ The home page ships with five out-of-the-box widgets: [[emp-slate-inbox|Tasks an
 
 Employees view the configured chat entry at the top of the page and the five out-of-the-box widgets below. The page presents proactive nudges for tasks and surfaces popular content, the next holiday, and the quick links you configured.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-slate-home-page|Employee Slate home]]

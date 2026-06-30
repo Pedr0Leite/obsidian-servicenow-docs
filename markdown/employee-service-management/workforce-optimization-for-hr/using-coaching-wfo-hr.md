@@ -26,7 +26,7 @@ With Coaching, you can do the following:
 -   **[Skills Overview in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/skills-overview-report-wfo-hr.md)**  
 Use Skills Overview to analyze skill data such as how many skills are assigned to users and tasks. You can also see how many experts you have for a particular skill and the overall skill coverage by your teams.
 -   **[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)**  
-Use Coaching with [[exploring-learning-exp|Learning]] to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
+Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
 
 **Parent Topic:**[Using Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/use-wfo-hr.md)
 
@@ -39,6 +39,3 @@ Use Coaching with [[exploring-learning-exp|Learning]] to train your agents with 
 
 [Scheduling in Workforce Optimization for HR]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

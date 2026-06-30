@@ -12,7 +12,7 @@ breadcrumb: [Configure Partner Relationship Management, Configure, Sales Custome
 
 # Roles and components of Partner Relationship Management
 
-The [[partner-relationship-management|Partner Relationship Management]] application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between enterprises and channel partners.
+The Partner Relationship Management application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between enterprises and channel partners.
 
 The PRM plugin \(com.snc.partner\_relationship\_management\) comes with a set of functional and granular roles, each with varying levels of access to raise and address queries.
 
@@ -204,28 +204,20 @@ This role provides users with the create, read, and update access to the Program
 
 Navigate to **All** &gt; **Partner Relationship Management** &gt; **Properties**. The Enterprise Partner admin \(sn\_prm.enterprise\_partner\_admin\) has the read and write access to the following properties.
 
--   glide.ui.sn\_prm\_partner\_program\_activity.[[fields|fields]]
+-   glide.ui.sn\_prm\_partner\_program\_activity.fields
 -   glide.service\_portal.resize\_text.partner.enable\_rem\_conversion
 -   glide.ui.sn\_prm\_partner\_program\_relationship\_activity.fields
 -   glide.ui.sn\_prm\_channel\_partner\_activity.fields
 
--   **[[add-responsibilities-to-prm-roles|Add responsibilities to PRM roles]]**  
+-   **[Add responsibilities to PRM roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-responsibilities-to-prm-roles.md)**  
 A responsibility describes a role or function that supports a user. Use responsibility definitions to create relationships between any two partner entities.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[install-partner-relationship-management|Install Partner Relationship Management]]
+[Install Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-partner-relationship-management.md)
 
-[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
-## Related
-
-- [[add-responsibilities-to-prm-roles|Add responsibilities to PRM roles]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[install-partner-relationship-management|Install Partner Relationship Management]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[fields|Fields]]

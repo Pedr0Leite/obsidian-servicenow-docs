@@ -14,7 +14,7 @@ breadcrumb: [Setting up privacy consent settings, Maintaining privacy consent in
 
 # Generate location-based privacy configurations
 
-As an administrator, generate the privacy configuration for locations set up in your instance to use with [[safe-workplace|Safe Workplace]] suite applications.
+As an administrator, generate the privacy configuration for locations set up in your instance to use with Safe Workplace suite applications.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can generate a location-based, default privacy configuration for each countr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Privacy** &gt; **Location Privacy Configuration**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Privacy** &gt; **Location Privacy Configuration**.
 
 2.  Click **Generate Location Configurations**.
 
@@ -71,7 +71,3 @@ The privacy statement content from the updated template is copied into the **Pri
 
 **Parent Topic:**[Setting up privacy consent settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/set-up-privacy-consent-common.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

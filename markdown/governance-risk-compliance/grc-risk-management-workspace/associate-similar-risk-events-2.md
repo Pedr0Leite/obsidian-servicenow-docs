@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Associate similar risk events
 
-Train a similarity solution definition that uses machine learning by activating the [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Predictive Intelligence plugin. The solution enables the system to display similar risk events automatically.
+Train a similarity solution definition that uses machine learning by activating the Governance, Risk, and Compliance: Predictive Intelligence plugin. The solution enables the system to display similar risk events automatically.
 
 The Governance, Risk, and Compliance: Predictive Intelligence plugin uses Artificial Intelligence \(AI\) and Machine Learning \(ML\) to manage the risk events more efficiently. You can identify similar risk events and group them to capture and analyze the actual impact of the risk event.
 
@@ -22,11 +22,7 @@ For example, in an organization with operations in multiple locations, the risk 
 
 You can associate similar risk events only when the main risk event is in the **Analyze** state. Also, the Associate risk event button is unavailable for similar risk events that are in the **New** or **Rejected** state.\[Omitted image "similar-risk-event.png"\] Alt text: Similar risk events
 
-The platform machine learning administrator \(ml\_admin\) can create a solution definition and modify an existing one. You can navigate to **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Properties** to update the risk event property with the new solution definition name.
+The platform machine learning administrator \(ml\_admin\) can create a solution definition and modify an existing one. You can navigate to **Risk Events** &gt; **Administration** &gt; **Properties** to update the risk event property with the new solution definition name.
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[Administration|Administration]]

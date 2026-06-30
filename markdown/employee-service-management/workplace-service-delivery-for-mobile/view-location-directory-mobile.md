@@ -14,23 +14,23 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Work with Location Directory for Now Mobile app
 
-Work with Map view and Card view on the Location directory. Search for employees, locations, and neighborhoods. Filter spaces based on reservation status, occupancy status, and space types. [[get-directions-to-a-workplace|Get directions to a workplace]] location or collaborators or a workplace profile user using floor maps. Reserve a space or raise a workplace service request or an issue for a location.
+Work with Map view and Card view on the Location directory. Search for employees, locations, and neighborhoods. Filter spaces based on reservation status, occupancy status, and space types. Get directions to a workplace location or collaborators or a workplace profile user using floor maps. Reserve a space or raise a workplace service request or an issue for a location.
 
 ## Before you begin
 
 Make sure that the following applications are configured:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(Optional\)
+-   Workplace Core
+-   Indoor Mapping
+-   Workplace Reservation Management \(Optional\)
 
     Filter and display reservation status for a selected location on the Location directory.
 
--   [[workplace-connectors-landing-page|Workplace Connectors]] \(Optional\)
+-   Workplace Connectors \(Optional\)
 
     Filter and display occupancy status for a selected location on the Location directory.
 
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Space Mapping
 
 **Note:** Confirm that the map properties for the Location directory are configured by your administrator. Map properties for the Location directory provide options to:
 
@@ -45,9 +45,9 @@ Role required: sn\_wsd\_core.workplace\_user \(workplace\_user\)
 
 ## Procedure
 
-1.  Log in to the [[mobile-employee-experience|Now Mobile app]] and select the add \(+\) option on the home page.
+1.  Log in to the Now Mobile app and select the add \(+\) option on the home page.
 
-    \[Omitted image "wsd-mobile-homepage.png"\] Alt text: [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Mobile Home Screen
+    \[Omitted image "wsd-mobile-homepage.png"\] Alt text: Workplace Service Delivery Mobile Home Screen
 
 2.  Tap to select **View Location directory**.
 
@@ -266,7 +266,7 @@ Role required: sn\_wsd\_core.workplace\_user \(workplace\_user\)
     -   Space image
     -   Floor, building, and campus name and details
     -   Space Capacity
-    -   Standard [[workplace-services|workplace services]]
+    -   Standard workplace services
     -   Neighborhood
     \[Omitted image "wsd-mob-card-view-loc-directory.png"\] Alt text: Card view location directory.
 
@@ -297,14 +297,3 @@ Role required: sn\_wsd\_core.workplace\_user \(workplace\_user\)
 
 **Next topic:**[Workplace Service Delivery for Mobile references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/wsd-mobile-references.md)
 
-## Related
-
-- [[get-directions-to-a-workplace|Get directions to a workplace]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services|Workplace Services]]

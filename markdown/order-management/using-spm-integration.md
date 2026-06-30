@@ -12,7 +12,7 @@ breadcrumb: [Order Management integration with Strategic Portfolio Management, I
 
 # Tracking order tasks and associated projects
 
-With the SPM integration, project managers and fulfillment agents or managers can track projects in Strategic Portfolio Management that have associated order tasks in [[explore-order-management|Order Management]].
+With the SPM integration, project managers and fulfillment agents or managers can track projects in Strategic Portfolio Management that have associated order tasks in Order Management.
 
 ## Tracking projects for planned order tasks in SPM
 
@@ -30,7 +30,7 @@ Details
 
 </th></tr></thead><tbody><tr><td>
 
-Review an [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] project and state
+Review an order fulfillment project and state
 
 </td><td>
 
@@ -79,7 +79,3 @@ As a fulfillment agent or manager, you can view the relationship between a proje
 |View order task-to-project task relationship in order task from|\[Omitted image "order-task-proj-relationship.png"\] Alt text: Order task form that shows Project Task Oversight tab with parent child task details|
 |View **Details** tab in order task relationship to see task number, project number, and order line item number relationship|\[Omitted image "ol-relationship-details-tab.png"\] Alt text: Order line task view that shows Details tab of order line task relationship|
 
-## Related
-
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

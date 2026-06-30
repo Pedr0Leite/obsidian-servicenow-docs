@@ -14,7 +14,7 @@ breadcrumb: [Configure, Compliance Case Management, Governance, Risk, and Compli
 
 # Create an assessment template
 
-[[sae-asmnt-template-create|Create an assessment template]] to request responses from the assessor or reviewer. You can create this template by using the [[new-assessment-reference|assessment metric type form]] in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Create an assessment template to request responses from the assessor or reviewer. You can create this template by using the assessment metric type form in the GRC: Compliance Case Management application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create a questionnaire template instead of using the default template to
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Compliance Case Management** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Compliance Case Management** &gt; **Assessment Templates**.
 
 2.  Select **New**.
 
@@ -42,9 +42,3 @@ Use the Assessment Metric Type form to create an assessment questionnaire templa
 
 **Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/configure-compliance-case-management.md)
 
-## Related
-
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[new-assessment-reference|Assessment Metric Type form]]
-- [[compliance-case-management|compliance case management]]
-- [[airc-assessment-templates|Assessment templates]]

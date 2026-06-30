@@ -23,22 +23,15 @@ Unless otherwise noted, each use case accelerator requires that you have the Ser
 -   **[Cyber Risk Institute accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/cyber-risk-inst-accelerator.md)**  
 The Cyber Risk Institute \(CRI\) is focused to collaborate with the financial sectors and regulators to streamline standardization across risk management. For better cyber compliance management, CRI provides a CRI Profile with the financial sector consensus.
 -   **[Cybersecurity Controls Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/cybersecurity-controls-accelerator.md)**  
-The [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]] ™ enables users to easily adopt the CIS Controls from The Center for internet Security ™ to enhance their overall security preparedness and cyber-defense posture.
+The Cybersecurity Controls Accelerator ™ enables users to easily adopt the CIS Controls from The Center for internet Security ™ to enhance their overall security preparedness and cyber-defense posture.
 -   **[Financial Services Control accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/financial-services-control-accelerator.md)**  
-The [[financial-services-control-accelerator|Financial Services Control Accelerator]] gives customers an operational head-start when adopting the Financial Services Control. When the accelerator is downloaded and activated in the GRC applications, pre-configured authority documents, citations, and control objectives.
+The Financial Services Control Accelerator gives customers an operational head-start when adopting the Financial Services Control. When the accelerator is downloaded and activated in the GRC applications, pre-configured authority documents, citations, and control objectives.
 -   **[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-csf-usecase-accelerator.md)**  
-The [[grc-csf-usecase-accelerator|NIST CSF Use Case Accelerator]] gives customers an operational head-start when adopting the NIST CSF. When the accelerator is downloaded and activated in the GRC applications, pre-configured policies, scopes \(profiles, profile type recommendations\), indicators, risks, and other GRC elements appear.
+The NIST CSF Use Case Accelerator gives customers an operational head-start when adopting the NIST CSF. When the accelerator is downloaded and activated in the GRC applications, pre-configured policies, scopes \(profiles, profile type recommendations\), indicators, risks, and other GRC elements appear.
 -   **[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-and-nistrmf-usecase-accelerator.md)**  
-The [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] gives customers an operational head-start when adopting the NIST RMF. When the accelerator is downloaded and activated in the GRC applications, pre-configured policies, scopes \(profile, profile type recommendations\), indicators, risks and other GRC elements appear.
+The NIST RMF Use Case Accelerator gives customers an operational head-start when adopting the NIST RMF. When the accelerator is downloaded and activated in the GRC applications, pre-configured policies, scopes \(profile, profile type recommendations\), indicators, risks and other GRC elements appear.
 -   **[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)**  
-The [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] is a collection of pre-defined indicator templates designed to ease collection of data, and aid validation and continuous monitoring of technology controls. This application can be run with the Cybersecurity Controls Accelerator or as a standalone application.
+The Technology Controls Monitoring Accelerator is a collection of pre-defined indicator templates designed to ease collection of data, and aid validation and continuous monitoring of technology controls. This application can be run with the Cybersecurity Controls Accelerator or as a standalone application.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]
-- [[financial-services-control-accelerator|Financial Services Control accelerator]]
-- [[grc-csf-usecase-accelerator|NIST CSF Use Case Accelerator]]
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]

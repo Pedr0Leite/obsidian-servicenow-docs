@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Share a Visual Task Board in a Connect conversation
 
-You can share a Visual Task Board in a [[c_Collaboration|Connect Chat]] or [[c_ConnectSupport|Connect Support]] conversation.
+You can share a Visual Task Board in a Connect Chat or Connect Support conversation.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Visual Task Boards**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
-2.  Drag a task board to a [[c_Connect|Connect]] mini window.
+2.  Drag a task board to a Connect mini window.
 
-    A link to the task board appears in the conversation. The task board is also listed in the conversation tools, which are visible in the [[c_CollaborationWorkspace|Connect workspace]]. Only conversation members who are members of the board can access it. If you share a task board in a [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_StartARecordConversation.md), it appears as a URL in the record activity stream.
+    A link to the task board appears in the conversation. The task board is also listed in the conversation tools, which are visible in the Connect workspace. Only conversation members who are members of the board can access it. If you share a task board in a [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_StartARecordConversation.md), it appears as a URL in the record activity stream.
 
 
 **Related topics**  
@@ -36,10 +36,3 @@ Role required: none
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md)
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[self-service-landing|Self-service]]
-- [[c_Connect|Connect]]
-- [[c_CollaborationWorkspace|Connect workspace]]

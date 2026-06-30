@@ -14,7 +14,7 @@ breadcrumb: [MID Server, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Securing and encrypting MID Server data
 
-After configuring your [[mid-server-landing|MID Server]], you can add security by encrypting MID Server parameter values in the `config.xml` file. Encryption protects data that the MID Server returns to the ECC Queue. Other available security options include the authorization of SOAP requests, restricting access to the MID Server configuration file, and establishing secure socket layer \(SSL\) connections.
+After configuring your MID Server, you can add security by encrypting MID Server parameter values in the `config.xml` file. Encryption protects data that the MID Server returns to the ECC Queue. Other available security options include the authorization of SOAP requests, restricting access to the MID Server configuration file, and establishing secure socket layer \(SSL\) connections.
 
 <table id="table_u22_cv4_nhb"><tbody><tr><td>
 
@@ -31,7 +31,7 @@ The **username** and **password** are initially set in the `config.xml` file on 
 4.  The MID Server receives the credentials and decrypts the **password** in memory before using the credentials for remote operations. At no point is the credential password stored on the disk in an unencrypted format.
 
 -   **[MID Server certificate check policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-security-checks.md)**  
-MID Server uses four kinds of security checks to secure external traffic. The security checks use TLS/SSL certificate validation, hostname validation, Certificate Revocation List \(CRL\), and Online Certificate Status Protocol \(OCSP\) validation to improve security. Control these security checks with the [[mid-security-checks|MID Server certificate check policies]] table.
+MID Server uses four kinds of security checks to secure external traffic. The security checks use TLS/SSL certificate validation, hostname validation, Certificate Revocation List \(CRL\), and Online Certificate Status Protocol \(OCSP\) validation to improve security. Control these security checks with the MID Server certificate check policies table.
 -   **[Encrypt or decrypt MID Server configuration file values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-manual-encryption.md)**  
 The value of any MID Server parameter in the `config.xml` file can be encrypted. The attributes for all encrypted values are managed from within the configuration file, including the security attribute of the login password.
 -   **[MID Server configuration file security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)**  
@@ -39,7 +39,7 @@ Sensitive MID Server configuration data can be protected using several different
 -   **[MID Server authentication credentials and SOAP requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-authentication-soap-requests.md)**  
 Set basic authentication credentials to update the web service invocation data. For added security, you can enforce basic authentication on each incoming SOAP request to the MID Server.
 -   **[MID Server unified key store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-unified-keystore.md)**  
-The [[mid-unified-keystore|MID Server unified key store]] allows all products on the MID Server to use common certificates and key pairs. This feature allows applications to use the same secure communication channel to the MID Server that the MID Server uses to [[c_Connect|connect]] to the instance.
+The MID Server unified key store allows all products on the MID Server to use common certificates and key pairs. This feature allows applications to use the same secure communication channel to the MID Server that the MID Server uses to connect to the instance.
 -   **[Enable MID Server mutual authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/install-mid-mutual-auth.md)**  
 Configure the MID Server to use a client certificate for authenticating to the instance. This avoids the need to create a basic authentication credentials in the Key Store for the MID Server's configuration.
 -   **[MID Server Azure Key Vault integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-azure-key-vault-integration.md)**  
@@ -47,7 +47,7 @@ The MID Server integration with the Azure Key vault enables Orchestration, Disco
 -   **[MID Server command audit log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-audit-log.md)**  
 The command audit log records the commands run by the MID Server for the Discovery application. Review the commands to check for anomalies or errors.
 -   **[Rekey a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_RekeyAMIDServer.md)**  
-[[t_RekeyAMIDServer|Rekey a MID Server]] to generate a new private key. Private keys are used to decrypt automation credentials, so that MID Servers can transmit information securely. Key pairs are initially generated when a MID Server is validated, and MID Servers should be rekeyed periodically to meet security requirements.
+Rekey a MID Server to generate a new private key. Private keys are used to decrypt automation credentials, so that MID Servers can transmit information securely. Key pairs are initially generated when a MID Server is validated, and MID Servers should be rekeyed periodically to meet security requirements.
 -   **[Add SSL certificates for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/add-ssl-certificates.md)**  
 Configure the MID Server to connect to a source over SSL.
 -   **[Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-external-truststore.md)**  
@@ -61,13 +61,5 @@ The MID Server supports the National Security Cloud \(NSC\) IL-5 environment, wh
 -   **[MID Server Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-timeout.md)**  
 Improve MID Server security by setting an automatic timeout to invalidate and shut down inactive MID Servers. You can enable this feature and set the inactivity timeout period globally and for each MID Server.
 
-**Parent Topic:**[[manage-data-sources|Manage instance data sources]]
+**Parent Topic:**[Manage instance data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-data-sources.md)
 
-## Related
-
-- [[manage-data-sources|Manage instance data sources]]
-- [[mid-server-landing|MID Server]]
-- [[mid-security-checks|MID Server certificate check policies]]
-- [[mid-unified-keystore|MID Server unified key store]]
-- [[c_Connect|Connect]]
-- [[t_RekeyAMIDServer|Rekey a MID Server]]

@@ -14,7 +14,7 @@ breadcrumb: [Maximizing code reuse with topic blocks, Exploring other Virtual Ag
 
 # Maintain reusable topic blocks
 
-When you update topic blocks, [[virtual-agent-landing-page|Virtual Agent]] Designer provides built-in checks to help you identify changes to topic blocks that affect the calling topics that use them. Updates include changing input and output parameters, deleting topic blocks, and publishing inactive and active topic blocks and calling topics.
+When you update topic blocks, Virtual Agent Designer provides built-in checks to help you identify changes to topic blocks that affect the calling topics that use them. Updates include changing input and output parameters, deleting topic blocks, and publishing inactive and active topic blocks and calling topics.
 
 To help you maintain your topic blocks and associated calling topics, Virtual Agent Designer provides alerts that serve as guardrails. These alerts have many functions, including the following:
 
@@ -30,9 +30,5 @@ For example, suppose you added a new input parameter and made an existing parame
 
 When you open an affected topic, Virtual Agent Designer displays warnings and messages on the canvas indicating where you need to make changes. When you select the Topic Block node, warning messages are displayed in the properties sheet so that you can update parameters accordingly.
 
-\[Omitted image "parameter-change.png"\] Alt text: Virtual Agent Designer [[vad-topic-properties-tab|topic Properties tab]], Topic Library usages table, and conversation builder canvas with highlighted areas showing how to find topics affected by input parameter changes.
+\[Omitted image "parameter-change.png"\] Alt text: Virtual Agent Designer topic Properties tab, Topic Library usages table, and conversation builder canvas with highlighted areas showing how to find topics affected by input parameter changes.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topic-properties-tab|Topic Properties tab]]

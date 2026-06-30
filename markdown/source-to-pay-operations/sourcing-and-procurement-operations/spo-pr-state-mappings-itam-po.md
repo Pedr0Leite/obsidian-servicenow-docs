@@ -15,7 +15,7 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 # SPO PR state mappings to ITAM PO
 
-Lists the state mappings between SPO [[purchase-requisition|purchase requisition]] \(PR\) records and ITAM [[purchase-order-table|purchase order]] \(PO\) records.
+Lists the state mappings between SPO purchase requisition \(PR\) records and ITAM purchase order \(PO\) records.
 
 State alignment between SPO PR records and ITAM PO follows the mappings in this table. SPO PO states take precedent over PR states. SPO PR states take precedent over SR states.
 
@@ -44,7 +44,3 @@ State alignment between SPO PR records and ITAM PO follows the mappings in this 
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Integrating Sidebar and activity stream
 
-For agents to post [[sidebar-landing|Sidebar]] discussions in the activity stream, Sidebar must be integrated with the activity stream and Sidebar options must display in the post filters. If the Sidebar options don’t display in the post filters, you must add them.
+For agents to post Sidebar discussions in the activity stream, Sidebar must be integrated with the activity stream and Sidebar options must display in the post filters. If the Sidebar options don’t display in the post filters, you must add them.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ Role required: admin
 
     \[Omitted image "sidebar-same-post-type.png"\] Alt text: Post types menu with sidebar options highlighted.
 
-## Related
 
-- [[sidebar-landing|Sidebar]]

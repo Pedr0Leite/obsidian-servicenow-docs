@@ -14,7 +14,7 @@ breadcrumb: [Setup Splunk environment, ServiceNow Security Operations add-on for
 
 # Using ServiceNow Security Operations Integration add-on
 
-Create security events and incidents directly from Splunk alerts after setting up ServiceNow [[security-operations-landing-page|Security Operations]] Integration add-on.
+Create security events and incidents directly from Splunk alerts after setting up ServiceNow Security Operations Integration add-on.
 
 ## Before you begin
 
@@ -42,11 +42,8 @@ Role required: sn\_si.integration\_user, sn\_si.analyst
 
     -   **Create ServiceNow Security Incident**: Incidents are stored in the sn\_si\_incident table.
 
-        **Note:** The [[mapping-logrhythm|mapping]] is pre defined as we don't have a profile for this add-on.
+        **Note:** The mapping is pre defined as we don't have a profile for this add-on.
 
     \[Omitted image "splunk-event-actions.png"\] Alt text: Event actions in Splunk enterprise
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[mapping-logrhythm|Mapping]]

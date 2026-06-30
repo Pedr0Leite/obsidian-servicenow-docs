@@ -12,7 +12,7 @@ breadcrumb: [List screen, Mobile screen types, Mobile screens, Mobile app compon
 
 # List screen configuration
 
-Configure a [[list-screen|list screen]] so that your users can see a list of records from their mobile app. To access a record from the list, a user can tap the record name.
+Configure a list screen so that your users can see a list of records from their mobile app. To access a record from the list, a user can tap the record name.
 
 ## Before you begin
 
@@ -20,21 +20,21 @@ Role required: admin or delegated developer
 
 ## About this task
 
-Create a simple list screen with a single data source, single segment, default filters, and an optional embedded [[form-screen|record screen]]. When creating a list screen, you can automatically generate all downstream records you need by populating the list name, data item, and card.
+Create a simple list screen with a single data source, single segment, default filters, and an optional embedded record screen. When creating a list screen, you can automatically generate all downstream records you need by populating the list name, data item, and card.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **List** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **List** option in the Create a screen page, and then select **Continue**.
 
     \[Omitted image "mab-list-screen-creation.png"\] Alt text: blank list screen creation record
 
@@ -70,7 +70,7 @@ Create a simple list screen with a single data source, single segment, default f
     |**General settings**|
     |Name|The name of your list screen. This name appears as a tile in the mobile application.|
     |Description|Additional information about your list screen.|
-    |Available offline|Option to determine whether the screen is available in [[mobile-offline-mode|offline mode]] or not.|
+    |Available offline|Option to determine whether the screen is available in offline mode or not.|
     |Hide screen name|Option to determine whether the screen name isn’t shown as the screen header. This is useful if the text already appears in the header name or if it doesn’t provide any value to the user.|
     |Hide filters|Option to prevent the list from displaying a list filter.|
     |**Screen segments**|
@@ -81,7 +81,7 @@ Create a simple list screen with a single data source, single segment, default f
     |Empty state|Configure what displays in an empty space when no data is available to show.|
     |Top menu function instances|Option to determine whether to use top menu functions to display additional options.|
     |Footer function instances|Option to determine whether to use footer functions to display additional options.|
-    |Input form screen|Create an [[parameter-input-screen|input form screen]] that determines what records show up on your list screen based on user input.|
+    |Input form screen|Create an input form screen that determines what records show up on your list screen based on user input.|
     |UI parameters \(legacy\)|Change how a field or UI element behaves.|
     |Dynamic screen title|Allows you to create an element and map it to a UI parameter. Use it to pass a value from one screen to another and include it in the title of the destination screen.|
     |Role access|Determine which user roles can access this screen. If you have selected no roles, users with any role will have access to the screen. |
@@ -97,19 +97,7 @@ List screen primary screen
 
 ## What to do next
 
--   **Use embedded screens within your list screen**- List screens can be configured to include record screens. Adding an embedded screen enables users to tap on a record, the contents of which are displayed in a new screen. As an admin, you configure this option in the List item config record. For more information, see [[sg-configure-form-applet|Configure a record screen for use with a list screen]].
--   **Configure mobile functions for your list screen** - The List screen can include top menu functions and footer functions to determine the type of action users can perform on a list screen. As an admin, you configure this option in the List screen record. For more information see, [[sg-studio-mobile-button-types|Mobile functions]] and [[sg-studio-button-instances|Associate a function with a location in the app]].
+-   **Use embedded screens within your list screen**- List screens can be configured to include record screens. Adding an embedded screen enables users to tap on a record, the contents of which are displayed in a new screen. As an admin, you configure this option in the List item config record. For more information, see [Configure a record screen for use with a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-form-applet.md).
+-   **Configure mobile functions for your list screen** - The List screen can include top menu functions and footer functions to determine the type of action users can perform on a list screen. As an admin, you configure this option in the List screen record. For more information see, [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md) and [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 -   **Configure role access for records in your list screen** - Use the role access option to configure the records in your list screen to only display to selected roles. As an admin, you configure this option in the List screen record.
 
-## Related
-
-- [[sg-configure-form-applet|Configure a record screen for use with a list screen]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[sg-studio-button-instances|Associate a function with a location in the app]]
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[parameter-input-screen|Input form screen]]

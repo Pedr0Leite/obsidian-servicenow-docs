@@ -31,7 +31,7 @@ You cannot extend an allocation beyond the parent record's end date without firs
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[rsrc-mgmt-wrkspc|Resource Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu and open a resource card.
 
@@ -57,7 +57,7 @@ Manage the Start date, End date, Task efforts, and Resource status.Example: For 
 
 </td></tr><tr><td id="d193882e133">
 
-**Extend a [[r_AllocatingResources|resource allocation]]**
+**Extend a resource allocation**
 
 </td><td>
 
@@ -88,7 +88,3 @@ Using this window, you can directly change the dates, effort value, and status t
 </table>
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

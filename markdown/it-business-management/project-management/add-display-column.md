@@ -14,7 +14,7 @@ breadcrumb: [Custom columns in the planning console, Using Planning console - Le
 
 # Add a custom column to the planning console
 
-Define the columns that you want to make available in the project planning console, portfolio workbench, [[c_ProgramWorkbench|program workbench]], and the release management [[c_GanttChart|Gantt chart]].
+Define the columns that you want to make available in the project planning console, portfolio workbench, program workbench, and the release management Gantt chart.
 
 ## Before you begin
 
@@ -182,7 +182,3 @@ The display column appears in the column filter list \(\[Omitted image "filter\_
 
 [Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
-## Related
-
-- [[c_ProgramWorkbench|Program workbench]]
-- [[c_GanttChart|Gantt chart]]

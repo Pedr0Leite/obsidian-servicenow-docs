@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[emp-slate-employee-profile|Employee profile]]
+Employee profile
 
 </td><td>
 
@@ -134,6 +134,4 @@ The source of the job profiles.
     -   the job selected is the current job of the employee.
 4.  Select **Submit**.
 
-## Related
 
-- [[emp-slate-employee-profile|Employee profile]]

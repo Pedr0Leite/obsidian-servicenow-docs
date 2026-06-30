@@ -14,7 +14,7 @@ breadcrumb: [Instance Scan table cleanup policies, Configuring Instance Scan, In
 
 # Customize table cleanup policies
 
-Clean up previous [[hc-scan-results|scan results]] at a regular interval by customizing the table cleanup time period.
+Clean up previous scan results at a regular interval by customizing the table cleanup time period.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Table Cleanup**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Table Cleanup**.
 
 2.  Select one of the cleanup policies from the Auto Flushes list.
 
@@ -30,7 +30,4 @@ Role required: admin
 
 4.  To save the customized table cleanup policy, select **Update**.
 
-## Related
 
-- [[hc-scan-results|Scan results]]
-- [[hs-landing-page|Instance Scan]]

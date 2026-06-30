@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Upgrade Agent Client Collector on a Linux system
 
-Upgrade your existing [[acc-landing-page|Agent Client Collector]] version on a system running a Linux OS if the single-line command script is not connected to the instance or you want to use enhanced customization options.
+Upgrade your existing Agent Client Collector version on a system running a Linux OS if the single-line command script is not connected to the instance or you want to use enhanced customization options.
 
 ## Before you begin
 
@@ -72,6 +72,3 @@ Upgrade your existing [[acc-landing-page|Agent Client Collector]] version on a s
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

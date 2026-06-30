@@ -12,50 +12,32 @@ breadcrumb: [Surveys, Assessments and Surveys, Exploring Service Administration,
 
 # Surveys reference
 
-[[reference|Reference]] topics provide additional information about the forms, fields, and properties you use while working with surveys.
+Reference topics provide additional information about the forms, fields, and properties you use while working with surveys.
 
--   **[[r_SurveyManagementRoles|Survey roles]]**  
+-   **[Survey roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyManagementRoles.md)**  
 The Survey application uses the following roles.
--   **[[c_survey-key-terms|Key survey terms]]**  
+-   **[Key survey terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_survey-key-terms.md)**  
 These survey terms are used throughout the documentation to describe survey management functions and capabilities.
--   **[[survey-overview-module|Survey Overview dashboard]]**  
+-   **[Survey Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-overview-module.md)**  
 The Survey Overview dashboard displays various survey reports, such as Surveys by Metric Type and State.
--   **[[r_MetricResultFieldNames|Metric Result form]]**  
+-   **[Metric Result form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricResultFieldNames.md)**  
 Description of the field values for the Metric Result form.
--   **[[domain-separation-surveys|Domain separation and Surveys]]**  
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in Surveys. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[[survey-design-config-form|Survey Designer Configuration form]]**  
+-   **[Domain separation and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-surveys.md)**  
+Domain separation is supported in Surveys. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+-   **[Survey Designer Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-design-config-form.md)**  
 Description of the field values for the Survey Designer Configuration form.
--   **[[properties-form-survey-designer|Properties form]]**  
-Description of the field values for the Properties form of [[c_SurveyDesigner|survey designer]].
--   **[[custom-metric-form-fields|Custom Metric form]]**  
+-   **[Properties form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/properties-form-survey-designer.md)**  
+Description of the field values for the Properties form of survey designer.
+-   **[Custom Metric form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/custom-metric-form-fields.md)**  
 Description of the field values for the Custom Metric form.
--   **[[survey-instance-form|Survey Instance form]]**  
+-   **[Survey Instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-instance-form.md)**  
 Description of the field values for the on the Survey Instance form.
--   **[[survey-question-form|Survey Question form]]**  
+-   **[Survey Question form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-question-form.md)**  
 Description of the field values for the Survey Question form.
--   **[[trigger-condition-form|Trigger Condition form for surveys]]**  
+-   **[Trigger Condition form for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/trigger-condition-form.md)**  
 Description of the field values for the Trigger Condition form for surveys.
--   **[[recipients-list-form|Recipients List form]]**  
+-   **[Recipients List form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/recipients-list-form.md)**  
 Description of the field values for the Recipients List form.
 
-**Parent Topic:**[[r_SurveyManagementLandingPage|Surveys]]
+**Parent Topic:**[Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyManagementLandingPage.md)
 
-## Related
-
-- [[r_SurveyManagementRoles|Survey roles]]
-- [[c_survey-key-terms|Key survey terms]]
-- [[survey-overview-module|Survey Overview dashboard]]
-- [[r_MetricResultFieldNames|Metric Result form]]
-- [[domain-separation-surveys|Domain separation and Surveys]]
-- [[survey-design-config-form|Survey Designer Configuration form]]
-- [[properties-form-survey-designer|Properties form]]
-- [[custom-metric-form-fields|Custom Metric form]]
-- [[survey-instance-form|Survey Instance form]]
-- [[survey-question-form|Survey Question form]]
-- [[trigger-condition-form|Trigger Condition form for surveys]]
-- [[recipients-list-form|Recipients List form]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[reference|Reference]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_SurveyDesigner|Survey designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Configure Digital Portfolio Management to integrate with Process Mining
 
-Use Process Mining in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to see the status of a key performance indicators \(KPI\) on your solutions, and adjust as needed.
+Use Process Mining in Digital Portfolio Management \(DPM\) to see the status of a key performance indicators \(KPI\) on your solutions, and adjust as needed.
 
 Process Mining enables you to analyze and address KPI outputs for your solutions in DPM.
 
@@ -29,7 +29,7 @@ In general, to use Process Mining in DPM, you access the KPI group and select **
     -   Process Mining
     -   System property **sn\_dpm.enable.po.dpm**
 2.  Set the system property **sn\_dpm.enable.po.dpm** to true. By default, the system property is set to false. Admins \[sn\_dpm.dpm\_admin\] must set the system property to true.
-    1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **[[settings-mobile|Settings]]**.
+    1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **Settings**.
     2.  Enter **\*enable** in the **System Properties Name** search field, and then press **Enter**.
     3.  Verify that the system property **sn\_dpm.enable.po.dpm** is set to true. If not, then select it, and set the Value field to true \(you may get a text banner that provides a link to edit the record\).
     4.  Select **Update**.
@@ -38,7 +38,3 @@ The primary role to use Process Mining is Process Mining Analyst \[process\_opti
 
 **Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]

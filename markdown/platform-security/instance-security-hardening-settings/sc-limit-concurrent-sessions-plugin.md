@@ -16,7 +16,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 Configure the com.glide.limit.concurrent.sessions plugin to reduce the chance of session hijacking on your instance.
 
-The [[limit-concurrent-sessions|Limit Concurrent Sessions]] plugin \(com.glide.limit.concurrent.sessions\) allows an administrator to limit the number of [[sc-active-sessions|active sessions]] per user/role. It is recommended this plugin be enabled and configured to reduce the likelihood of session hijacking. If this plugin is enabled and configured, there will be a limit to the number of open sessions that can be hijacked.
+The Limit Concurrent Sessions plugin \(com.glide.limit.concurrent.sessions\) allows an administrator to limit the number of active sessions per user/role. It is recommended this plugin be enabled and configured to reduce the likelihood of session hijacking. If this plugin is enabled and configured, there will be a limit to the number of open sessions that can be hijacked.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

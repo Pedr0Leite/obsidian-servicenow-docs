@@ -28,7 +28,7 @@ You can review user additions and removals from automated alert groups and undo 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Alert Corrlelation Properties**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Alert Corrlelation Properties**.
 
 2.  Enable the following properties.
 
@@ -48,6 +48,4 @@ You can review user additions and removals from automated alert groups and undo 
 
         **Note:** Values larger than 30 days increase job processing time. For optimal performance, use values of 30 days or less.
 
-## Related
 
-- [[c_EM|Event Management]]

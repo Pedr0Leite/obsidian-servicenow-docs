@@ -22,7 +22,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -63,26 +63,21 @@ View profile
 
 </td><td>
 
-The [[emp-slate-employee-profile|employee profile]] page appears with details such as reporting structure, coworkers, designation of employee.
+The employee profile page appears with details such as reporting structure, coworkers, designation of employee.
 
 </td></tr></tbody>
 </table>4.  In the Skills Expectations section, select **Score analysis** on an employee card to view the score percentage of the employee's validated skills.
 
     1.  Hover over the tool tip in the flyout to see criteria for skill proficiency levels.
 
-    2.  Select **Assign [[exploring-learning-exp|learning]]** in the **Validated** skills section to view progress bars of skills that meet and don't meet expected proficient levels.
+    2.  Select **Assign learning** in the **Validated** skills section to view progress bars of skills that meet and don't meet expected proficient levels.
 
     3.  Select the Skill pill icon \(\[Omitted image "viewmenu.png"\] Alt text: View menu icon\) on a skill to perform one of the following:
 
-        -   **[[td-lh-view-skill-details|View skill details]]**: View a detailed description of the skill.
+        -   **View skill details**: View a detailed description of the skill.
         -   **Assign learning**: Assign a learning course to an employee. For more information, see [Assign learning form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/assign-learning-form.md).
 5.  To view all the employee cards, select **View all**.
 
 6.  If you have team members reporting from different job functions, you can filter the skill distribution by job function.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[exploring-learning-exp|Learning]]
-- [[td-lh-view-skill-details|View skill details]]

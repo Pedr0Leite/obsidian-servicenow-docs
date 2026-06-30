@@ -28,7 +28,7 @@ The **Release readiness target** lists target dates based on the product-level r
 
 |Condition|Filtered targets|All targets|
 |---------|----------------|-----------|
-|Product has release calendars defined in the release [[settings-mobile|settings]] and targets are linked to those calendars.|✓|✗|
+|Product has release calendars defined in the release settings and targets are linked to those calendars.|✓|✗|
 |Product has release calendars defined in the release settings but no targets are linked to those calendars.|✗|✓|
 |Product doesn't have release settings configured.|✗|✓|
 
@@ -44,13 +44,13 @@ The visibility of the **Out of band** check box depends on product-level release
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
 3.  Select a release from the list to open.
 
-4.  On the [[create-release-form|Release form]], select **Overview**.
+4.  On the Release form, select **Overview**.
 
 5.  Select the release action icon \(\[Omitted image "icon-actions-menu.png"\] Alt text: Release action icon.\) and then select **Retarget release**.
 
@@ -86,8 +86,3 @@ Update the planned dates on the associated change requests manually because they
 
 [Digital Product Release - PUT /sn\_dpr/digital\_product\_release/release/\{sysId\}/retarget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/digital-product-release-api.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[create-release-form|Release form]]

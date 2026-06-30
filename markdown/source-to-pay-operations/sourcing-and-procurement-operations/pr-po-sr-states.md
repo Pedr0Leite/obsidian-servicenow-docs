@@ -19,7 +19,7 @@ Purchase requisitions, purchase orders, and sourcing requests move through a ser
 
 ## How states are determined
 
-The state of a [[purchase-requisition|purchase requisition]], [[purchase-order-table|purchase order]], or [[sourcing-request|sourcing request]] is calculated automatically based on the states of its associated lines. When a line changes state, the system recalculates and updates the parent record's state. You cannot set the state of these records directly.
+The state of a purchase requisition, purchase order, or sourcing request is calculated automatically based on the states of its associated lines. When a line changes state, the system recalculates and updates the parent record's state. You cannot set the state of these records directly.
 
 When procurement cases or purchasing tasks are associated with a record, the state reflects whether those items are still open. For example, a purchase requisition remains in the Awaiting Task Completion state until all order-dependent cases and tasks are closed.
 
@@ -91,7 +91,7 @@ Set when all purchase requisition lines have cleared review and approval, at lea
 </td><td>
 
 -   Pending Submission \(when buyer submits for non-punchout suppliers\)
--   Pending [[supplier|Supplier]] Confirmation \(when buyer submits for punchout suppliers\)
+-   Pending Supplier Confirmation \(when buyer submits for punchout suppliers\)
 -   Pending Revision \(if a revision is triggered\)
 
 </td></tr><tr><td>
@@ -183,7 +183,7 @@ Not applicable. This is the last state.
 </td></tr></tbody>
 </table>## Purchase order states
 
-The following table describes each purchase order state, when the state is set, and where the purchase order can move from that state. Purchase order states are calculated based on the states of the associated [[purchase-order-lines|purchase order lines]].
+The following table describes each purchase order state, when the state is set, and where the purchase order can move from that state. Purchase order states are calculated based on the states of the associated purchase order lines.
 
 <table><thead><tr><th>
 
@@ -467,7 +467,7 @@ Negotiation in Progress
 
 </td><td>
 
-Set when a negotiation event is active and supplier bids are being collected. Also set when [[pricing|pricing]] has been obtained but a negotiation event is not yet fully completed.
+Set when a negotiation event is active and supplier bids are being collected. Also set when pricing has been obtained but a negotiation event is not yet fully completed.
 
 </td><td>
 
@@ -600,11 +600,3 @@ Not applicable. This is the last state.
 
 [Sourcing request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-request.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[pricing|Pricing]]

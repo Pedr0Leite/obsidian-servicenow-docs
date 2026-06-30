@@ -14,7 +14,7 @@ breadcrumb: [Company events, Creating employee communications, Authoring and man
 
 # Publishing company events
 
-[[ec-company-events|Company events]] can be published via a publish plan or using [[ec-content-templates|Content templates]] to auto-generate publish plans. These auto-generated publish plans are inactive by default and must be activated for company events to appear in the portal.
+Company events can be published via a publish plan or using Content templates to auto-generate publish plans. These auto-generated publish plans are inactive by default and must be activated for company events to appear in the portal.
 
 ## Before you begin
 
@@ -63,7 +63,3 @@ breadcrumb: [Company events, Creating employee communications, Authoring and man
 
 **Parent Topic:**[Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[ec-content-templates|Content templates]]

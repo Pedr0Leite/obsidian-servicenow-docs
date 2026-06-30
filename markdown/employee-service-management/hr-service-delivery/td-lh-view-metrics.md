@@ -22,9 +22,9 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  From the [[td-lh-landing|Leader hub]] drop-down list, select **At a glance**.
+2.  From the Leader hub drop-down list, select **At a glance**.
 
 3.  In the Growth engagement widget, select a north-star metric associated with an application in the Talent Development suite that you want to view and analyze.
 
@@ -39,7 +39,3 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]

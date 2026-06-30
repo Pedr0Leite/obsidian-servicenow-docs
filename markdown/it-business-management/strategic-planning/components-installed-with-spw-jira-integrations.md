@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Components installed with SPW Jira Integrations
 
-Learn about the roles and tables installed with the [[spw-jira-landing|SPW Jira Integrations]] application.
+Learn about the roles and tables installed with the SPW Jira Integrations application.
 
 ## Roles installed
 
@@ -49,7 +49,7 @@ Jira integration user\[sn\_jira\_int.user\]
 
 </td><td>
 
--   Sets up integration between Jira and [[alignment-planner-workspace-landing-page|Strategic Planning]]
+-   Sets up integration between Jira and Strategic Planning
 -   Can create new or update the existing map configurations between Jira and Strategic Planning
 
 </td><td>
@@ -184,7 +184,3 @@ Stores the list of table maps for Jira projects.
 </td></tr></tbody>
 </table>**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
-## Related
-
-- [[spw-jira-landing|SPW Jira Integrations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage asset repair in stockrooms, Use, Hardware Asset Management, 
 
 # Record time worked on asset repair tasks in the Hardware Asset Workspace
 
-Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the [[using-ham-workspace|Hardware Asset Workspace]]. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
+Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the Hardware Asset Workspace. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
 
 -   **[Record time worked on a repair task automatically in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/record-total-repair-time-ham-ws.md)**  
 Record the time that you took to complete a repair task without taking any break until you completed the task.
@@ -32,6 +32,3 @@ Record a break from a repair task in the Hardware Asset Workspace if you’re no
 
 [Repair order fulfillment in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

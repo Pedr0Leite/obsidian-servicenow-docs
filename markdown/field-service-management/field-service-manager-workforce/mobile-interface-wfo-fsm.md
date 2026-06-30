@@ -14,13 +14,13 @@ breadcrumb: [Workforce Optimization, Managing workforce, Use, Field Service Mana
 
 # Mobile experience for Workforce Optimization for Field Service
 
-[[manage-work-order-tasks-dw|Manage work order tasks]] from your mobile device with the Now Mobile Agent application. You can stay connected and access information in real time so that you can complete your tasks quickly.
+Manage work order tasks from your mobile device with the Now Mobile Agent application. You can stay connected and access information in real time so that you can complete your tasks quickly.
 
-If you're an agent \(sn\_fieldservice\_agent​\) or a manager \(sn\_wfo\_fsm.manager\), you both can use real-time notifications from the application to take action on an issue. ​Before you can do so, you must activate the Field Service Mobile plugin \(com.sn\_fsm\_mobile\). For more information, see [[mobile-experience-fsm|Mobile experience for Field Service Management]].
+If you're an agent \(sn\_fieldservice\_agent​\) or a manager \(sn\_wfo\_fsm.manager\), you both can use real-time notifications from the application to take action on an issue. ​Before you can do so, you must activate the Field Service Mobile plugin \(com.sn\_fsm\_mobile\). For more information, see [Mobile experience for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-fsm.md).
 
 -   To get started with this application, follow the instructions in [Connect to your Field Service data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/install-fsm-mobile-app.md).
 -   Field Service agents can receive their scheduled task updates and access their schedules when in offline mode. For more information, see [Scheduled offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/scheduled-offline-caching.md).
--   For information about the agent and manager tasks that you can perform, see [Completing work on the ServiceNow Agent mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Use-mobile-app-fsm.md). Additionally, you can also perform the tasks in the following table through [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]].
+-   For information about the agent and manager tasks that you can perform, see [Completing work on the ServiceNow Agent mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Use-mobile-app-fsm.md). Additionally, you can also perform the tasks in the following table through Workforce Optimization for Field Service.
 
 <table id="table_mnd_gzg_zlb"><thead><tr><th>
 
@@ -87,9 +87,3 @@ Review the task record and take appropriate action.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-experience-fsm|Mobile experience for Field Service Management]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

@@ -17,7 +17,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 Configure security incident categories and subcategories for granular classification of incidents, which helps you accurately route security incidents.
 
 -   **[Create a security incident category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-category-sir.md)**  
-[[create-category-sir|Create a security incident category]] to use to classify security incidents in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Create a security incident category to use to classify security incidents in Security Incident Response Workspace.
 -   **[Create a security incident subcategory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-subcategory-sir.md)**  
 Create subcategories for a category for a deeper classification of a security incident in Security Incident Response Workspace.
 
@@ -42,14 +42,9 @@ Create subcategories for a category for a deeper classification of a security in
 
 [On-Call scheduling in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[create-category-sir|Create a security incident category]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

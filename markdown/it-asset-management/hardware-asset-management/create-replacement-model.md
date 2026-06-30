@@ -14,7 +14,7 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Configure replacement models for a refresh model
 
-Configure replacement [[c_Models|models]] for a hardware asset model that is refreshed. When configured, employees can select replacement models for their hardware assets on the [[zero-touch-asset-refresh|Zero Touch Refresh]] form.
+Configure replacement models for a hardware asset model that is refreshed. When configured, employees can select replacement models for their hardware assets on the Zero Touch Refresh form.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  In the **Zero touch refresh** list, select **Refresh models**.
 
@@ -95,8 +95,3 @@ The refresh model with the assigned replacement models is included in the **Refr
 
 [Acknowledge receipt of an asset through the Core UI]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

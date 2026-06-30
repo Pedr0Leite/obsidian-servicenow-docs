@@ -13,7 +13,7 @@ breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Analyzing Now Assist usage
 
-Use the [[platform-now-assist-landing|Now Assist]] analytics and monitoring tools in the Overview page to review the summaries, skill usage information, and issues that need your attention.
+Use the Now Assist analytics and monitoring tools in the Overview page to review the summaries, skill usage information, and issues that need your attention.
 
 ## Now Assist Admin Overview page
 
@@ -44,7 +44,7 @@ The following diagram shows the plugin status that displays as a pie chart, and 
 
 The Skills usage section displays the metrics on your installed active skills. Select the info icon \[Omitted image "info-icon.png"\] to see the information about what each card's metrics represents, or select the option icon \[Omitted image "icon-docintel-field-options-menu.png"\] to refresh the card.
 
-Use the configuration [[controls|controls]] to configure the charts.
+Use the configuration controls to configure the charts.
 
 -   **All skills**
 
@@ -59,7 +59,7 @@ The following diagram shows the skills usage graphs and controls, which include 
 
 Data is collected once a day and uses Performance Analytics and Reporting \(PAR\) for data collection and visualization.
 
-For more detailed information about performance, see [[now-assist-analytics|Now Assist Analytics]] and
+For more detailed information about performance, see [Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics.md) and
 
 \[Omitted image "now-assist-skills-performance.png"\] Alt text: Section that displays the number of actions, average unique users per day, and the number of actions over time. Use the controls to specify skills or change the date range.
 
@@ -77,11 +77,5 @@ The Needs Attention section displays a count of items that need your attention. 
 
 \[Omitted image "needs-attention-card.png"\] Alt text: Needs Attention card that displays the number of plugins that aren't installed and the number of inactive skills.
 
-**Parent Topic:**[[using-now-assist-admin_0|Using Now Assist Admin]]
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-admin_0.md)
 
-## Related
-
-- [[now-assist-analytics|Analyzing Now Assist performance]]
-- [[using-now-assist-admin_0|Using Now Assist Admin]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]

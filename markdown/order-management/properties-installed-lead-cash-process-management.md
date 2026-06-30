@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-Cash Process Management reference, Order operations, Refere
 
 # Properties installed with Lead-to-Cash Process Management
 
-Properties for [[explore-lead-cash-process-management|Lead-to-Cash Process Management]] node map visualization.
+Properties for Lead-to-Cash Process Management node map visualization.
 
 These properties are available for Lead-to-Cash Process Management.
 
@@ -35,11 +35,11 @@ sn\_l2c\_cockpit.node\_default\_levels
 -   Type: integer
 -   Default value: 3
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [[customize-node-map-levels|Customize hierarchical node map levels for Lead-to-Cash Process Management]]
+-   Learn more: [Customize hierarchical node map levels for Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customize-node-map-levels.md)
 
 </td></tr><tr><td>
 
-glide.ui.sn\_l2c\_cockpit\_sales\_process\_record\_activity.[[fields|fields]]
+glide.ui.sn\_l2c\_cockpit\_sales\_process\_record\_activity.fields
 
 </td><td>
 
@@ -48,11 +48,5 @@ glide.ui.sn\_l2c\_cockpit\_sales\_process\_record\_activity.[[fields|fields]]
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]
+</table>**Parent Topic:**[Lead-to-Cash Process Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-cash-process-management-reference.md)
 
-## Related
-
-- [[customize-node-map-levels|Customize hierarchical node map levels for Lead-to-Cash Process Management]]
-- [[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[fields|Fields]]

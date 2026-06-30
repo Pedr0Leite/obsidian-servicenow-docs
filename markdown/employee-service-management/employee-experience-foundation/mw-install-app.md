@@ -14,7 +14,7 @@ breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employe
 
 # Install Moveworks for Employee Center app from store
 
-Install and activate the [[moveworks-for-employeecenter|Moveworks for Employee Center]] plugin to enable AI-powered conversational experience in [[employee-center-landing-page|Employee Center]] and [[employee-center-pro-landing|Employee Center Pro]].
+Install and activate the Moveworks for Employee Center plugin to enable AI-powered conversational experience in Employee Center and Employee Center Pro.
 
 ## Before you begin
 
@@ -44,8 +44,3 @@ Perform the following actions:
 -   Follow the instructions available at [JWT Certificate Generation Guide](https://docs.moveworks.com/ai-assistant/ai-assistant-web-surfaces/moveworks-for-web/moveworks-for-web-installation-servicenow#jwt-certificate-generation-guide-mac--windows) for JKS certificate file.
 -   Check your inbox for an encrypted mail from Moveworks and upload JKS certificate.
 
-## Related
-
-- [[moveworks-for-employeecenter|Moveworks for Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

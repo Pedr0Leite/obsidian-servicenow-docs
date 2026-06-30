@@ -26,24 +26,18 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the My Promotion form, fill in the fields.
 
-    For a description of the field values, see [[mco-all-promotion-form|All promotion form]].
+    For a description of the field values, see [All promotion form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-all-promotion-form.md).
 
 4.  Select **Save**.
 
 5.  Select **Create checklist**.
 
-    To learn how to create checklist, see [[mco-create-checklist|Create a checklist template]].
+    To learn how to create checklist, see [Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md).
 
 6.  Select **Publish**.
 
-    **Note:** **Copy** enables you to copy the [[mco-sales-promotion|sales promotion]] details.
+    **Note:** **Copy** enables you to copy the sales promotion details.
 
 
-**Parent Topic:**[[mco-sls-pro-mgmt|Sales promotion management]]
+**Parent Topic:**[Sales promotion management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)
 
-## Related
-
-- [[mco-all-promotion-form|All promotion form]]
-- [[mco-create-checklist|Create a checklist template]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sales-promotion|Sales promotion]]

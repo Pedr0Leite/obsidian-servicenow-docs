@@ -30,7 +30,7 @@ Role required: Custodian
 
     1.  Select the link either from the email body or from the legal hold notice attachment.
 
-    2.  In the **My Tasks** tab of [[employee-center-landing-page|Employee Center]], select the legal hold matter from the Open tasks list.
+    2.  In the **My Tasks** tab of Employee Center, select the legal hold matter from the Open tasks list.
 
     3.  Review the legal hold matter details.
 
@@ -41,11 +41,7 @@ Role required: Custodian
 
 In the Employee Center, under the **My Tasks** tab, the acknowledged legal hold matter moves from Open to Completed.
 
-In the [[legal-counsel-center-landing|Legal Counsel Center]], under the **Custodians** tab of the legal matter page, the state changes from Assigned to Acknowledged.
+In the Legal Counsel Center, under the **Custodians** tab of the legal matter page, the state changes from Assigned to Acknowledged.
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

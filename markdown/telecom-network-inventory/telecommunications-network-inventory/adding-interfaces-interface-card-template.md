@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Add a network interface template to an interface card template
 
-If the interface card supports network interfaces directly to it, create an interface template relationship between the two interfaces in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]].
+If the interface card supports network interfaces directly to it, create an interface template relationship between the two interfaces in the Network Inventory Workspace Lists view.
 
 ## Procedure
 
@@ -22,7 +22,7 @@ In the Interface template, in the **Related Templates** tab, click **New** to cr
 
 \[Omitted image "inventory-template-card-nokia=ess-m10-1gb-related-templates.png"\] Alt text: Related Templates view of the Nokia ess-m10-1gb-sfp template.
 
-In the Inventory Templates form, [[create-inventory-templates|create an inventory template]] for the interface card in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+In the Inventory Templates form, create an inventory template for the interface card in the Telecommunications Network Inventory application.
 
 \[Omitted image "inventory-template-card-port1.png"\] Alt text: Details view of Port-1 template with field information.
 
@@ -45,9 +45,3 @@ Next, add an interface card to subslots. To learn more, see [Add an interface ca
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[create-inventory-templates|Create an inventory template]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

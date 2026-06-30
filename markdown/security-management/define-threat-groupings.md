@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Threat Groupings**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Threat Groupings**.
 
 2.  Click **New**.
 
@@ -28,7 +28,7 @@ Role required: sn\_ti.admin
 
     |Field|Description|
     |-----|-----------|
-    |**Name**|Enter a name to identify the [[threat-grouping|threat grouping]].|
+    |**Name**|Enter a name to identify the threat grouping.|
     |**Context**|A description of the particular context shared by the content referenced by the grouping.|
     |**Source**|Specifies the threat source from which this record is created.|
     |**Description**|A short description that provides details and context about the grouping. This includes its purpose and its key characteristics.|
@@ -53,11 +53,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Lists objects grouped as part of the threat grouping.
 
 </td></tr><tr><td>
 
-Grouped [[indicator|Indicators]]
+Grouped Indicators
 
 </td><td>
 
@@ -77,22 +77,12 @@ Lists indicators grouped as part of the threat grouping.
 
 </td></tr><tr><td>
 
-Grouped [[c_Observables|Observables]]
+Grouped Observables
 
 </td><td>
 
 Lists observables grouped as part of the threat grouping.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-groupings|Threat groupings]]
+</table>**Parent Topic:**[Threat groupings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-groupings.md)
 
-## Related
-
-- [[threat-groupings|Threat groupings]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-grouping|Threat Grouping]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]

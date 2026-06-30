@@ -20,7 +20,7 @@ Role required: sn\_crm\_touchpoint.admin
 
 ## About this task
 
-Several touchpoint types are available by default. To view the available options, see [[create-crm-touchpoint-form|Create new CRM touchpoint form]].
+Several touchpoint types are available by default. To view the available options, see [Create new CRM touchpoint form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint-form.md).
 
 ## Procedure
 
@@ -36,11 +36,11 @@ Several touchpoint types are available by default. To view the available options
 
 6.  Select **New**.
 
-7.  On the form, fill in the [[fields|fields]].
+7.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
-    |Label|User‑visible name for the type shown in the Type drop-down menu on the [[explore-crm-touchpoints|CRM Touchpoints]] form. For example, Business Value Assessment \(BVA\).|
+    |Label|User‑visible name for the type shown in the Type drop-down menu on the CRM Touchpoints form. For example, Business Value Assessment \(BVA\).|
     |Value|Internal value stored in the database when a choice is selected.|
 
 8.  Select **Submit**.
@@ -49,14 +49,7 @@ Several touchpoint types are available by default. To view the available options
 **Related topics**  
 
 
-[[using-activity-management|Using Activity Management]]
+[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[create-crm-touchpoint-form|Create new CRM touchpoint form]]
-- [[using-activity-management|Using Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[fields|Fields]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

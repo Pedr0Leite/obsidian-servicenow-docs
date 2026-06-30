@@ -14,7 +14,7 @@ breadcrumb: [Integrate Coaching with Learning with third-party learning manageme
 
 # External Content Integration Sources
 
-When you [[integrate-learning-third-party-configurable-wfo-itsm|integrate Coaching with Learning with third-party learning management systems]], the source record for Cornerstone OnDemand, Pluralsight, Udemy, and ServiceNow University [[dex-workspace-application-tab|applications]] are automatically created in the Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services.
+When you integrate Coaching with Learning with third-party learning management systems, the source record for Cornerstone OnDemand, Pluralsight, Udemy, and ServiceNow University applications are automatically created in the Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services.
 
 <table id="table_tyz_xpj_1nb"><thead><tr><th>
 
@@ -179,7 +179,3 @@ Integration services interact with ServiceNow University application to pull lea
 </td></tr></tbody>
 </table>**Parent Topic:**[Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integrate-learning-third-party-configurable-wfo-itsm.md)
 
-## Related
-
-- [[integrate-learning-third-party-configurable-wfo-itsm|Integrate Coaching with Learning with third-party learning management systems]]
-- [[dex-workspace-application-tab|Applications]]

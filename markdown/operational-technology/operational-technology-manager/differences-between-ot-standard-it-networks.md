@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Manager, Operational Technology]
 
 # Differences between OT and standard IT networks
 
-There are differences in how the Configuration Management Database \(CMDB\) handles the devices located in [[operational-technology-overview|Operational Technology]] networks and those in standard Information Technology \(IT\) networks.
+There are differences in how the Configuration Management Database \(CMDB\) handles the devices located in Operational Technology networks and those in standard Information Technology \(IT\) networks.
 
 Configuration items \(CIs\) managed under Information Technology Operations Management \(ITOM\) are classified as type IT in the CMDB. They exist in Levels 4 and 5 of the Purdue Model, or at the Enterprise level.
 
@@ -31,6 +31,3 @@ Devices managed under the OT data model exist in Levels 0 to 3.5 of the Purdue M
 
 **Parent Topic:**[Exploring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/exploring-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

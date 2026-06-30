@@ -26,13 +26,13 @@ Public pages won't require a user login; anyone can access them. All other optio
 
 ## Procedure
 
-1.  In the [[service-portal-configuration-page|Service Portal configuration page]] \(**[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**\), open the Page Editor.
+1.  In the Service Portal configuration page \(**Service Portal** &gt; **Service Portal Configuration**\), open the Page Editor.
 
 2.  In the Select Page list, search for the page to apply page security to.
 
 3.  Select the highest level node in the tree view.
 
-4.  [[configure-onboarding-modals|Configure]] page security.
+4.  Configure page security.
 
     -   To make a page public, select the **Public** check box. All users can access pages marked as **Public**.
     -   To limit access to a certain role, add roles in a comma separated list. Users without the role listed can see links to the page if they appear in the portal. Trying to open the page results in a "page not found" error.
@@ -53,8 +53,3 @@ Follow the steps in [Configure widget security](https://raw.githubusercontent.co
 
 **Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-security.md)
 
-## Related
-
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

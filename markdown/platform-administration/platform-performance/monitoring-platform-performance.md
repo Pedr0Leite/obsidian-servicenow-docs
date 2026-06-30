@@ -14,14 +14,14 @@ breadcrumb: [Platform performance, Maintain and monitor, Administer the ServiceN
 
 # Monitoring platform performance
 
-The ServiceNow AI Platform includes tools that administrators can use to monitor [[platform-performance-landing|platform performance]]. Monitoring platform performance enables administrators to proactively identify and solve issues.
+The ServiceNow AI Platform includes tools that administrators can use to monitor platform performance. Monitoring platform performance enables administrators to proactively identify and solve issues.
 
 ## Overview of monitoring platform performance
 
 Administrators have access to various logs and dashboards that can be used to monitor how a ServiceNow AI Platform instance is performing. These logs and dashboards can be accessed and reviewed at any time to identify indicators of performance degradation. If you notice abnormally slow response times or an unusually high volume of cancelled transactions, you might have performance issues that need to be resolved.
 
 -   **[Reviewing transaction logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/c_TransactionLogResponseTimes.md)**  
-The instance automatically logs the vital statistics of every transaction that it processes, and that information is available to you as an administrator. [[c_TransactionLogResponseTimes|Reviewing transaction logs]] can help identify latency and performance issues.
+The instance automatically logs the vital statistics of every transaction that it processes, and that information is available to you as an administrator. Reviewing transaction logs can help identify latency and performance issues.
 -   **[Reviewing response time on forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/c_ResponseTimeOnForms.md)**  
 A response time indicator \(clock\) appears at the end of many forms and lists.
 -   **[Transaction call chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chains.md)**  
@@ -29,13 +29,7 @@ Identify and debug the root causes for a problematic transaction by recording, a
 -   **[Thread performance monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/c_MonitorPerformanceOnThreads.md)**  
 The instance tracks the performance of individual threads, which administrators can view in the transaction log.
 -   **[Monitoring instance usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/usage-analytics-module-subscription.md)**  
-You can track application usage on your instance through the Application Usage Overview and the [[servicenow-store|ServiceNow Store]] Usage overview dashboards.
+You can track application usage on your instance through the Application Usage Overview and the ServiceNow Store Usage overview dashboards.
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[platform-performance-landing|Platform performance]]
-- [[c_TransactionLogResponseTimes|Reviewing transaction logs]]
-- [[servicenow-store|ServiceNow Store]]

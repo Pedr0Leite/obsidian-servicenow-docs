@@ -14,7 +14,7 @@ breadcrumb: [Configuring Now Mobile, Now Mobile app, Unified Employee Experience
 
 # Configure a personalized greeting
 
-Configure the greeting that your users see when they log in to the [[mobile-employee-experience|Now Mobile app]]. For example, you can add a hello message that includes the user's first and last name.
+Configure the greeting that your users see when they log in to the Now Mobile app. For example, you can add a hello message that includes the user's first and last name.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: admin
 
     This text displays in the Now Mobile app heading.
 
-    This field uses the `{{sys_id}}` syntax to [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] a variable for the first and last name of the currently logged-in user. Changing the variable is not supported.
+    This field uses the `{{sys_id}}` syntax to reference a variable for the first and last name of the currently logged-in user. Changing the variable is not supported.
 
 6.  Click **Submit**.
 
@@ -45,7 +45,3 @@ When a user logs in to the Now Mobile app, they see your personalized greeting.
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

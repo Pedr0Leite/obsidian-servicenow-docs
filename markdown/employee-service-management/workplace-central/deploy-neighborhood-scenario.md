@@ -25,17 +25,17 @@ After publishing a scenario plan, deploy the scenario on your production.
 
 **Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md).
 
-\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about [[reviewing-allocation-changes|reviewing allocation changes]].
+\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about reviewing allocation changes.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## About this task
 
-After you [[publish-a-scenario|publish a scenario]], you must deploy the scenario to implement the changes in the production or main building data.
+After you publish a scenario, you must deploy the scenario to implement the changes in the production or main building data.
 
 **Note:**
 
--   From [[workplace-space-mgmt-ovw|Workplace Space Management]] version 1.15.0, deploying a scenario replaces existing allocations for a space with the allocations specified based on the **Group by** value.
+-   From Workplace Space Management version 1.15.0, deploying a scenario replaces existing allocations for a space with the allocations specified based on the **Group by** value.
 -   For Workplace Space Management 1.14.0 or earlier versions, deploying a scenario replaces all allocations for the space with new allocations, regardless of the **Group by** value.
 
 During deployment, you can collate all move requests raised for the scenario deployment into a single move project. Using a move project, you can track move requests and also schedule based on availability. For more information about move projects, see [Move project views, actions, and states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-project-schedule-view.md).
@@ -46,9 +46,9 @@ During deployment, you can collate all move requests raised for the scenario dep
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -64,13 +64,13 @@ During deployment, you can collate all move requests raised for the scenario dep
 
     **Note:** You can't edit it a scenario after it’s deployed. You can only view the scenario by using the **View Options**.
 
-5.  Navigate to **[[space-deployment-plan|Space Deployment plan]]** and the **User Deployment** tab.
+5.  Navigate to **Space Deployment plan** and the **User Deployment** tab.
 
     The details of all the changes that you performed in the scenario are displayed. You can view details for building and floor where the change was applied, space, the type of changes, the current and the scenario value.
 
     \[Omitted image "wsd-space-deployment-plan-use.png"\] Alt text: Space deployment plan showing changes made to a scenario.
 
-    For more information about the space deployment plan and [[user-deployment-plan|user deployment plan]], see the following topics:
+    For more information about the space deployment plan and user deployment plan, see the following topics:
 
     -   [Space Deployment Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)
     -   [User Deployment Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)
@@ -85,15 +85,15 @@ During deployment, you can collate all move requests raised for the scenario dep
 
 ## Result
 
-The scenario is deployed. After the scenario is deployed, the state of the scenario changes to **Deployed**. Each change triggers a workplace case in the [[workplace-case-mgmt-feat|Workplace Case Management]] application.
+The scenario is deployed. After the scenario is deployed, the state of the scenario changes to **Deployed**. Each change triggers a workplace case in the Workplace Case Management application.
 
-Depending on the type of change, the following [[workplace-services|workplace services]] types are created:
+Depending on the type of change, the following workplace services types are created:
 
 -   **Workplace User Assignment and Move Service via Scenario Planning**: Workplace service to update the user assignment and perform move activities related to the user.
 -   **Workplace Assignment Type Service**: Workplace service to change the assignment type of a space.
 -   **Workplace Allocation Change Service**: Workplace service to change the allocation of a space.
 
-If you want to [[work-on-a-move-project|work on a move project]] for all the move requests in a deployed scenario, track the move project in the [[move-mgmt|Move management]] workspace. To work on the move project, see [Work on a move project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-move-project.md).
+If you want to work on a move project for all the move requests in a deployed scenario, track the move project in the Move management workspace. To work on the move project, see [Work on a move project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-move-project.md).
 
 **Parent Topic:**[Working with Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-optimization.md)
 
@@ -122,17 +122,3 @@ If you want to [[work-on-a-move-project|work on a move project]] for all the mov
 
 [Map based space administration]()
 
-## Related
-
-- [[reviewing-allocation-changes|Reviewing allocation changes]]
-- [[publish-a-scenario|Publish a scenario]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[space-optimization|Space Optimization]]
-- [[space-deployment-plan|Space Deployment Plan]]
-- [[user-deployment-plan|User Deployment Plan]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[work-on-a-move-project|Work on a move project]]
-- [[move-mgmt|Move Management]]

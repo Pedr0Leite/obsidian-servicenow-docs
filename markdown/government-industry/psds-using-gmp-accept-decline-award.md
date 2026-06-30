@@ -13,7 +13,7 @@ breadcrumb: [Grants Management Portal, Portals, Use, Public Sector Digital Servi
 
 # Accept or decline a grant award
 
-As an applicant in the [[psds-gmp-overview|Grants Management Portal]], you can review the terms of your grant award and choose to accept or decline the award.
+As an applicant in the Grants Management Portal, you can review the terms of your grant award and choose to accept or decline the award.
 
 ## Before you begin
 
@@ -29,6 +29,4 @@ Role required: business contact
 
 4.  Select **Acknowledge** to accept the grant award, or **Decline** to decline it.
 
-## Related
 
-- [[psds-gmp-overview|Grants Management Portal]]

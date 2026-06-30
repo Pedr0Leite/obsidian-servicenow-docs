@@ -12,13 +12,13 @@ breadcrumb: [Add functions, Configure a details screen, Record screen, Mobile sc
 
 # Add a footer function to screen
 
-Add footer functions to the details screen in your record screens using [[mab-concept|Mobile App Builder]].
+Add footer functions to the details screen in your record screens using Mobile App Builder.
 
 ## Before you begin
 
 Role required: admin
 
-Footer functions are functions that users can by tapping a button at the bottom of a [[form-screen|record screen]]. Use this option for functions relating to the record rather than data in a specific field. You can add functions to forms by creating a function instance in any details screen that is embedded within your record screen.
+Footer functions are functions that users can by tapping a button at the bottom of a record screen. Use this option for functions relating to the record rather than data in a specific field. You can add functions to forms by creating a function instance in any details screen that is embedded within your record screen.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Footer functions are functions that users can by tapping a button at the bottom 
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select the record screen.
 
@@ -102,7 +102,7 @@ Icon
 
 Option icon used for your field function.To use an existing icon, click the **Choose** button, select an icon, and click **Apply**.
 
-To create an icon, click the **New** button. You’re redirected to the **New icon** panel. For details on creating icons see [[sg-mobile-icon|Mobile icons]].
+To create an icon, click the **New** button. You’re redirected to the **New icon** panel. For details on creating icons see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Button emphasis color
 
 </td><td>
 
-Color emphasis used for the footer function. The appearance of the color depends on your mobile theme. For details on mobile themes, see [[sg-theme-colors|Mobile theme color guidelines]].
+Color emphasis used for the footer function. The appearance of the color depends on your mobile theme. For details on mobile themes, see [Mobile theme color guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-theme-colors.md).
 
 </td></tr><tr><td>
 
@@ -120,16 +120,9 @@ Function
 
 Function to use on the field selected in the **Field Name** field.To use an existing function, click the **Choose** button, select a function, and click **Apply**.
 
-To create function, click the **New** button. You’re redirected to the **New function** panel. For details on creating functions see [[sg-studio-mobile-button-types|Mobile functions]].
+To create function, click the **New** button. You’re redirected to the **New function** panel. For details on creating functions see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 </td></tr></tbody>
 </table>7.  Click **Save** in the upper right corner to save your function instance.
 
-## Related
 
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-theme-colors|Mobile theme color guidelines]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[mab-concept|Mobile App Builder]]
-- [[form-screen|Record screen]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

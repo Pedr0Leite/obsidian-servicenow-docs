@@ -14,7 +14,7 @@ breadcrumb: [Reference, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Components installed with Recruitment workspace
 
-The following are the components installed with activation of the [[recruitment-workspace-concept|Recruitment workspace]] plugin.
+The following are the components installed with activation of the Recruitment workspace plugin.
 
 ## Scheduled jobs installed
 
@@ -61,6 +61,3 @@ Creates a feedback record to receive feedback from the interviewee.
 </td></tr></tbody>
 </table>**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

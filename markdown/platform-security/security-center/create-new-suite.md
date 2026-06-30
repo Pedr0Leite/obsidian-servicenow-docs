@@ -20,11 +20,11 @@ Create and schedule a custom suite so that you can analyze the security of your 
 
 Role required: admin or sn\_vsc.security\_center\_viewer.
 
-A suite is a collection of checks that can be used for a scan. View a list of [[sec-center-suites|scan suites]] organized in a table by navigating to **Scanner** &gt; **Suites**. Create your own suites or to use the default suite, Auditor. Auditor is a default base system suite that contains checks for [[security-best-practices-manager|security best practices]]. These checks consist of [[ca-system-properties|system properties]], plugins, and tables that can affect the security posture of your instance. The following steps show how to create a suite along with the several options available for configuring them.
+A suite is a collection of checks that can be used for a scan. View a list of scan suites organized in a table by navigating to **Scanner** &gt; **Suites**. Create your own suites or to use the default suite, Auditor. Auditor is a default base system suite that contains checks for security best practices. These checks consist of system properties, plugins, and tables that can affect the security posture of your instance. The following steps show how to create a suite along with the several options available for configuring them.
 
 ## Procedure
 
-1.  In [[sec-center-v2|Security Center]], select the **Scanner** tab, then select **Suites** in the panel on the left side of the screen.
+1.  In Security Center, select the **Scanner** tab, then select **Suites** in the panel on the left side of the screen.
 
 2.  In the **Scan Suites** page, select the **New** button.
 
@@ -32,7 +32,7 @@ A suite is a collection of checks that can be used for a scan. View a list of [[
 
     \[Omitted image "create-suite-1.png"\] Alt text: Create a new suite form
 
-    After selecting **Save**, [[sc-configuration|configuration]] options for the suite display in a tabbed interface.
+    After selecting **Save**, configuration options for the suite display in a tabbed interface.
 
 4.  Select the **Checks** tab.
 
@@ -84,10 +84,3 @@ View the checks available in the default Access Controls Auditor Suites to under
 
 **Parent Topic:**[Scan suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-suites.md)
 
-## Related
-
-- [[sec-center-suites|Scan suites]]
-- [[security-best-practices-manager|Security Best Practices]]
-- [[ca-system-properties|System properties]]
-- [[sec-center-v2|Security Center]]
-- [[sc-configuration|Configuration]]

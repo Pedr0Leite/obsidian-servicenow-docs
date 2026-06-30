@@ -15,7 +15,7 @@ breadcrumb: [Atlassian Confluence Cloud external content connector, Configure, E
 
 # Estimate document volume for Atlassian Confluence Cloud
 
-Estimate the number of documents included in your Atlassian Confluence Cloud source system. Use this information to determine crawl scope settings needed for your [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]].
+Estimate the number of documents included in your Atlassian Confluence Cloud source system. Use this information to determine crawl scope settings needed for your Atlassian Confluence Cloud external content connector.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ By estimating the count of available documents, you can determine whether you ne
 
 **Important:**
 
-By default, each external content connector can index up to one million \(1,000,000\) content items from its source system. When a connector exceeds this limit, it continues to crawl the source system, but only sends content item deletions and updates to [[ia-ai-search|AI Search]] for indexing, ignoring new content items. The connector logs an error message for every 10,000 content items it crawls beyond the indexing limit.
+By default, each external content connector can index up to one million \(1,000,000\) content items from its source system. When a connector exceeds this limit, it continues to crawl the source system, but only sends content item deletions and updates to AI Search for indexing, ignoring new content items. The connector logs an error message for every 10,000 content items it crawls beyond the indexing limit.
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -48,7 +48,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
     The URL for the Atlassian Confluence Cloud administration console is typically `https://<hostname>.atlassian.net/wiki/admin`, where `<hostname>` is your organization-specific hostname.
 
-2.  In the administration page's menu, navigate to **Settings** &gt; **[[c_DataManagement|Data management]]** &gt; **Space reports**.
+2.  In the administration page's menu, navigate to **Settings** &gt; **Data management** &gt; **Space reports**.
 
 3.  Select **Create report** and wait for the new report's **Download** link to appear.
 
@@ -75,9 +75,3 @@ For details on configuring the Atlassian Confluence Cloud connector's crawl sett
 
 **Parent Topic:**[Atlassian Confluence Cloud external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/atlassian-confluence-cloud-external-content-connector.md)
 
-## Related
-
-- [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_DataManagement|Data Management]]

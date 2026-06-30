@@ -14,7 +14,7 @@ breadcrumb: [Unfurl the web links in Microsoft Teams chat, HR Service Delivery i
 
 # Enable link unfurling
 
-[[unfurl-links-it|Enable link unfurling]] in the manifest file to preview the content of the link shared in the chat conversations.
+Enable link unfurling in the manifest file to preview the content of the link shared in the chat conversations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Create and [[download-manifest-file|download manifest file]].
+1.  Create and download manifest file.
 
     Enable the link unfurling option in the **Generic info** tab while creating the manifest file.
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Unfurl the web links in Microsoft Teams chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-link-unfurling.md)
 
-## Related
-
-- [[unfurl-links-it|Enable link unfurling]]
-- [[download-manifest-file|Download manifest file]]

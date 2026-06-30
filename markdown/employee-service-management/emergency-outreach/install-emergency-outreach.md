@@ -42,7 +42,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ After you install Emergency Outreach, no additional administration configuration
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Search for `[[emergency-outreach|Emergency Outreach]]`.
+2.  Search for `Emergency Outreach`.
 
 3.  Click **install**.
 
@@ -92,7 +92,7 @@ Emergency Outreach is installed on your instance.
 
 ## What to do next
 
-Optionally [[emp-readiness-survey-install|install Employee Readiness Surveys]] to use with Emergency Outreach. The [[employee-readiness-surveys|Employee Readiness Surveys]] app enables you to evaluate the readiness of your employees to return to the workplace using Emergency Outreach notifications.
+Optionally install Employee Readiness Surveys to use with Emergency Outreach. The Employee Readiness Surveys app enables you to evaluate the readiness of your employees to return to the workplace using Emergency Outreach notifications.
 
 **Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md)
 
@@ -150,18 +150,18 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
 -   Emergency Outreach \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
 -   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ### About this task
 
@@ -218,7 +218,7 @@ Emergency Outreach admin\[sn\_imt\_checkin.checkin\_admin\]
 
 </td><td>
 
-Can create a new Emergency Outreach notification and view the responses received from the user. Can create and manage Safe Workplace [[ecpro-audience|audiences]]. The [[employee-readiness-core|Employee Readiness Core]] app must be installed.
+Can create a new Emergency Outreach notification and view the responses received from the user. Can create and manage Safe Workplace audiences. The Employee Readiness Core app must be installed.
 
 </td><td>
 
@@ -241,7 +241,7 @@ Emergency Outreach \[sn\_imt\_checkin\_employee\_check\_in\]
 
 </td><td>
 
-Define the audience and the [[ec-notification-content|notification content]] to send to the users.
+Define the audience and the notification content to send to the users.
 
 </td></tr><tr><td>
 
@@ -313,7 +313,7 @@ Response Script\[sn\_imt\_checkin\_response\_script\]
 
 </td><td>
 
-List of all [[response-scripts|response scripts]]. Response scripts are used to automatically take actions based on employee responses to survey questions.
+List of all response scripts. Response scripts are used to automatically take actions based on employee responses to survey questions.
 
 </td></tr><tr><td>
 
@@ -325,24 +325,3 @@ List of outreach surveys with information about their creation and the status of
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emp-readiness-survey-install|Install Employee Readiness Surveys]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[ecpro-audience|Audiences]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[ec-notification-content|Notification content]]
-- [[response-scripts|Response scripts]]

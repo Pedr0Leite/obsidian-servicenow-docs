@@ -28,14 +28,14 @@ As an agent manager, you can access an interaction record of type Zoom to view t
 
 As a customer, you can join a Zoom meeting with an agent regardless of whether you have a Zoom account.
 
-To get started with the Chat Zoom Connector application, see [[config-chat-zoom-connector|Configure Chat Zoom Connector]].
+To get started with the Chat Zoom Connector application, see [Configure Chat Zoom Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-chat-zoom-connector.md).
 
 ## Key features
 
 -   Initiate Zoom meetings using the Quick Actions list in chats.
 -   Track Zoom meetings as interactions on the ServiceNow platform.
 -   Track participants in Zoom meetings.
--   Post the meeting recording to the interaction [[csm-config-ws-activity-stream|activity stream]].
+-   Post the meeting recording to the interaction activity stream.
 
 ## Example scenario
 
@@ -51,7 +51,3 @@ The following example scenario shows the use of the Chat Zoom Connector applicat
 
 4.  The customer shares the screen over Zoom and the agent guides the customer on updating the configuration and resolves the issue.
 
-## Related
-
-- [[config-chat-zoom-connector|Configure Chat Zoom Connector]]
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -15,7 +15,7 @@ breadcrumb: [Workvivo external content connector, Configure, External Content Co
 
 # Configure Workvivo for external content indexing
 
-Create and authorize a new application in your Workvivo instance to allow the [[workvivo-external-content-connector|Workvivo external content connector]] to access your source system and content.
+Create and authorize a new application in your Workvivo instance to allow the Workvivo external content connector to access your source system and content.
 
 ## Before you begin
 
@@ -101,6 +101,3 @@ For details on creating and configuring a Workvivo external content connector, s
 
 **Parent Topic:**[Workvivo external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workvivo-external-content-connector.md)
 
-## Related
-
-- [[workvivo-external-content-connector|Workvivo external content connector]]

@@ -18,7 +18,7 @@ View the current information about open incidents as a list, or as a heatmap or 
 
 **Important:**
 
-Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
+Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
 
 \[Omitted image "incident-premium-open-incidents-reports-dashboard.gif"\] Alt text: Animated gif taking you through the tabs of the Incident Premium - Open Incidents Reports dashboard
 
@@ -90,6 +90,3 @@ Heatmap that lets you explore the number of open incidents by combinations of st
 </td></tr></tbody>
 </table>**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]

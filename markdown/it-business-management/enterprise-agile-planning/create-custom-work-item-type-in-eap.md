@@ -18,7 +18,7 @@ Create a custom work item type to include in the Agile configurations for Enterp
 
 ## Before you begin
 
-Set the application scope in your instance to [[portfolio-planning-app-landing-page|Portfolio Planning]] Core.
+Set the application scope in your instance to Portfolio Planning Core.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -43,6 +43,3 @@ For any new work item type tables, create relevant form views and list views. Se
 
 If the work item type uses custom state choices as columns on the Planning board, map the custom states to state buckets so that cards display correctly after a page reload. For more information, see [Configure state bucket mapping for custom story states in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configure-state-buckets-for-custom-story-states-in-eap.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

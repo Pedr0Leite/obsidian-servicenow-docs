@@ -14,21 +14,21 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 # Actual cost and effort calculation for a demand and demand task
 
-The actual cost and effort are realized cost incurred and time spent for the work performed on a demand and demand task during a specific time period. Actual cost and effort are calculated based on the approved [[c_TimeCards|time cards]] and hourly rate for the resources and vary based on how the hourly rate for the resource is derived.
+The actual cost and effort are realized cost incurred and time spent for the work performed on a demand and demand task during a specific time period. Actual cost and effort are calculated based on the approved time cards and hourly rate for the resources and vary based on how the hourly rate for the resource is derived.
 
 Working on a demand task and demand involves cost and time, which add to the overall expenditure of converting a demand to a product, feature, or enhancement. Demand managers must therefore know the actual cost and effort incurred in assessing and planning activities for a demand. The calculation for actual cost is derived by multiplying the hours reported in the time card by the hourly rate of the resource. The actual effort for a demand task is calculated based on the hours reported in the time card.
 
-The actual effort and cost for the [[demand-task|demand tasks]] are then rolled up for calculating the actual effort and cost for the demand. The calculation of the actual cost and hourly rate for a resource is derived as follows:
+The actual effort and cost for the demand tasks are then rolled up for calculating the actual effort and cost for the demand. The calculation of the actual cost and hourly rate for a resource is derived as follows:
 
 -   If a rate model is associated with the demand, the actual cost is calculated based on the hourly rate defined in the rate model.
 -   If a rate model is absent or if an hourly rate isn’t found in the rate model, then the hourly rate is derived from the default labor rate.
 -   If an hourly rate isn’t found in the default labor rate, then the hourly rate is derived from the default system property.
 
-Don’t create and [[use-resource-assignment|use resource assignments]] for allocating resources or groups to a demand task. The resource assignments that you create in the demand are used for the resource estimation of the work entity that would be created from the demand. These resource assignments are automatically moved to the resulting work entity when a demand is qualified and converted.
+Don’t create and use resource assignments for allocating resources or groups to a demand task. The resource assignments that you create in the demand are used for the resource estimation of the work entity that would be created from the demand. These resource assignments are automatically moved to the resulting work entity when a demand is qualified and converted.
 
-When you [[submit-time-card|submit a time card]] for a demand the actual effort and cost aren’t reflected in the resource assignment, as the resource assignments aren’t associated with the demand by default. The actual cost and actual effort for the demand remains with the demand and aren’t transferred to the project created from the demand even if you manually associate a resource assignment with the demand.
+When you submit a time card for a demand the actual effort and cost aren’t reflected in the resource assignment, as the resource assignments aren’t associated with the demand by default. The actual cost and actual effort for the demand remains with the demand and aren’t transferred to the project created from the demand even if you manually associate a resource assignment with the demand.
 
-If a resource spends extra hours working on a demand that aren’t associated with demand tasks, then this time must also be recorded. The resource submits the time card for recording the extra hours spent on the demand using the [[worker-portal|Time Sheet Portal]]. This extra cost and effort is added to the demand but isn’t reflected in the actual cost and effort for the demand tasks.
+If a resource spends extra hours working on a demand that aren’t associated with demand tasks, then this time must also be recorded. The resource submits the time card for recording the extra hours spent on the demand using the Time Sheet Portal. This extra cost and effort is added to the demand but isn’t reflected in the actual cost and effort for the demand tasks.
 
 The actual cost and actual effort for the demand as derived from the time card data is added to the total actual cost and effort for the demand tasks. The values in the **Demand Actual Cost** and **Demand Actual Effort** fields are calculated as follows:
 
@@ -78,7 +78,7 @@ Scenario 3 shows how the total is calculated if the rate model isn’t associate
 
 ## Actual cost and effort roll up to a demand
 
-The **Demand Actual Cost** and **Demand Actual Effort** fields on the Financials tab of the [[demand-form|Demand form]] are populated with the sum of actual costs and actual effort of all the demand tasks.
+The **Demand Actual Cost** and **Demand Actual Effort** fields on the Financials tab of the Demand form are populated with the sum of actual costs and actual effort of all the demand tasks.
 
 1.  If the resource rate for the demand task is derived from the rate model \(Scenario 1\), the value in the Demand Actual Cost field is displayed as $4800. The value in the Demand Actual Effort field is displayed as 24 hours.
 2.  If the resource rate for the demand task is derived from the default labor rate \(Scenario 2\), the value in the Demand Actual Cost field is displayed as $3600. The value in the Demand Actual Effort field is displayed as 24 hours.
@@ -86,11 +86,3 @@ The **Demand Actual Cost** and **Demand Actual Effort** fields on the Financials
 
 **Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[demand-task|Demand tasks]]
-- [[use-resource-assignment|Use resource assignments]]
-- [[submit-time-card|Submit a time card]]
-- [[worker-portal|Time Sheet Portal]]
-- [[demand-form|Demand form]]

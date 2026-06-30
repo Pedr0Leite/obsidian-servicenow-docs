@@ -26,7 +26,7 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the Metric tasks \[Omitted image "metric-tasks-irm.png"\] Alt text: icon.
 
@@ -122,6 +122,3 @@ Press the Tab key to get the focus on to the select all check box. Press the Ent
 </table>
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

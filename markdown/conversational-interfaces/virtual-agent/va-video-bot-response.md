@@ -15,13 +15,13 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Video bot response control
 
-Use the Video bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to include a video in the conversation.
+Use the Video bot response control in a Virtual Agent topic to include a video in the conversation.
 
 The Video bot response control includes a navigation button, which gives users time to watch the video. If you want the user to the watch the video before continuing with the conversation, use this navigation button.
 
 When users have finished watching the video, they can select the navigation button to continue with the conversation.
 
-**Note:** Topic authors can also use the [Card bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-card-output.md) to include a video in conversations. However, the [[va-card-output|Card bot response control]] doesn't include the navigation button, which gives users time to watch the video.
+**Note:** Topic authors can also use the [Card bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-card-output.md) to include a video in conversations. However, the Card bot response control doesn't include the navigation button, which gives users time to watch the video.
 
 ## Video bot response control properties
 
@@ -187,7 +187,7 @@ Supported
 
 </td><td>
 
-[[mssg-slack|Conversational Integration with Slack]] version 2.0.0 and later.The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
+Conversational Integration with Slack version 2.0.0 and later.The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
 
 </td></tr><tr><td>
 
@@ -301,8 +301,3 @@ Card output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-card-output|Card bot response control]]
-- [[mssg-slack|Conversational Integration with Slack]]

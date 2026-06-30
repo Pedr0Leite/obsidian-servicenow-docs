@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Alerts in Service Operations Workspace
 
-The [[workspace-dashboard-use|Service Operations Workspace]] interface displays an alerts list and details on specific alerts.
+The Service Operations Workspace interface displays an alerts list and details on specific alerts.
 
 When clicking an alert in the alerts list, the **Details** tab of the selected alert appears and the issue that caused the alert \(the identified issue\) appears in the alert title. Only the subtabs relevant to the alert appear on the resulting page. For example, the **Alerts in Group** option appears in the **Related records** tab only for alert groups.
 
@@ -39,7 +39,7 @@ Header
 The header includes these details:
 
  -   Description: The text from the **Description** field of the alert is displayed.
--   [[alert-priority-group|Priority group]]: Priority group to which the alert belongs.
+-   Priority group: Priority group to which the alert belongs.
 -   Severity: Severity of the alert.
 -   State: The state of the alert.
 -   Initial event generation time: Date and time when the initial event was generated.
@@ -55,13 +55,7 @@ Overview tab
 
 </td><td>
 
-When viewing an alert with an assigned CI, this tab opens when selecting the alert. The information displayed varies depending on the type of alert \(grouped, secondary, or primary\).If you have installed the [[hla-landing-page|Health Log Analytics]] app, alert types include Health Log Analytics alerts and component-based alerts.
+When viewing an alert with an assigned CI, this tab opens when selecting the alert. The information displayed varies depending on the type of alert \(grouped, secondary, or primary\).If you have installed the Health Log Analytics app, alert types include Health Log Analytics alerts and component-based alerts.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[alert-priority-group|Priority group]]
-- [[hla-landing-page|Health Log Analytics]]

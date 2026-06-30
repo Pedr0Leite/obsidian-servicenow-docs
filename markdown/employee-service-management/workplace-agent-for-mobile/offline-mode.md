@@ -38,7 +38,7 @@ To turn on offline mode, perform the following steps:
 
 [Manage workplace cases and tasks]()
 
-[Edit or view case details on the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] app]()
+[Edit or view case details on the Workplace Agent for mobile app]()
 
 [Print workplace cases]()
 
@@ -50,6 +50,3 @@ To turn on offline mode, perform the following steps:
 
 [Edit or view a child task]()
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

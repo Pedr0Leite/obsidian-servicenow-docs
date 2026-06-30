@@ -22,19 +22,16 @@ Role required: access\_analyzer\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[access-analyzer|Access Analyzer]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Access Analyzer** &gt; **Settings**.
 
     \[Omitted image "simulator-settings.png"\] Alt text: Settings page
 
 2.  Toggle **Configure Simulator** to **Enable**.
 
-    Read through the legal information before enabling the [[access-simulator|Access Simulator]] \(Take actions\).
+    Read through the legal information before enabling the Access Simulator \(Take actions\).
 
 3.  Select **Accept**.
 
 4.  Click **Save**.
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[access-simulator|Access simulator]]

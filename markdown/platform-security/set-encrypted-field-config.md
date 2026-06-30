@@ -22,25 +22,25 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf.admin and security\_adm
 
 Make sure you are in the correct application scope so you can see the tables in that scope.
 
-Only [[users|users]] with access to the cryptographic module used in this [[sc-configuration|configuration]] can read the data in the encrypted table column or access the attachment.
+Only users with access to the cryptographic module used in this configuration can read the data in the encrypted table column or access the attachment.
 
 -   If a user has write access but not read access, the field displays in edit mode and the data entered displays as asterisks.
 -   If a user has read access but not write access, the field displays the decrypted data in read-only mode.
 -   If a user has all access, both read/write functionality is available on the encrypted field.
 
-See [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) or [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]] to begin.
+See [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module.md) to begin.
 
 You can create configurations in various ways:
 
--   Select the **Encrypted Fields** option from a module tile on the [[field-encryption|Field Encryption]] Experience Module page.
+-   Select the **Encrypted Fields** option from a module tile on the Field Encryption Experience Module page.
 -   Within an open module pending initial configuration, select **Configure fields encrypted in this module** or **Encrypted Fields**.
 -   Select **Create new** from the **Configurations** tab.
 
 **Important:**
 
-After encrypting a column, any new data inserted into the column is encrypted automatically. However, data that existed in the column before the [[encryption-landing|encryption]] was active is not automatically encrypted.
+After encrypting a column, any new data inserted into the column is encrypted automatically. However, data that existed in the column before the encryption was active is not automatically encrypted.
 
-In order to encrypt data that existed before the column was encrypted, you must run a separate mass encryption job. Learn more about mass encryption in [[mass-enc-dec|Run mass encryption or decryption]].
+In order to encrypt data that existed before the column was encrypted, you must run a separate mass encryption job. Learn more about mass encryption in [Run mass encryption or decryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/mass-enc-dec.md).
 
 ## Procedure
 
@@ -78,7 +78,7 @@ Type
 -   Attachments
 -   Date, Date/Time:
 
-**Note:** You can [[ekms-create-encrypted-field-config|create encrypted field configurations]] to encrypt existing Date and Date/Time fields. You can add a new encryption configuration to a parent table only. You can’t add a new encryption configuration to a child table.
+**Note:** You can create encrypted field configurations to encrypt existing Date and Date/Time fields. You can add a new encryption configuration to a parent table only. You can’t add a new encryption configuration to a child table.
 
 -   URL
 -   HTML
@@ -144,15 +144,5 @@ Indicates if the crypto module that you selected is already configured to suppor
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[[field-encryption-key-management|Encrypting fields and attachments]]
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)
 
-## Related
-
-- [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]]
-- [[mass-enc-dec|Run mass encryption or decryption]]
-- [[field-encryption-key-management|Encrypting fields and attachments]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[ekms-create-encrypted-field-config|Create Encrypted Field Configurations]]

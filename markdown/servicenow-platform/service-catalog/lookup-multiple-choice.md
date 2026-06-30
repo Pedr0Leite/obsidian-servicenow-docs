@@ -14,13 +14,13 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Lookup multiple choice
 
-The lookup multiple choice variable creates radio buttons using data from a table. Its functionality is similar to the [[lookup-select-box|lookup select box]] variable, which creates a choice list from queried data.
+The lookup multiple choice variable creates radio buttons using data from a table. Its functionality is similar to the lookup select box variable, which creates a choice list from queried data.
 
 For attributes supported by this variable, see [variable attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variable-attributes.md).
 
 **Note:**
 
--   Table with large data causes performance issues when loading the page. Use [[reference|reference]] qualifiers to reduce data or use the reference type variable.
+-   Table with large data causes performance issues when loading the page. Use reference qualifiers to reduce data or use the reference type variable.
 -   You cannot add more than 10,000 choices.
 
 \[Omitted image "VariableLookupMultChoiceG.png"\] Alt text: A lookup multiple choice variable
@@ -82,7 +82,3 @@ For attributes supported by this variable, see [variable attributes](https://raw
 
 [Variable support in various channels]()
 
-## Related
-
-- [[lookup-select-box|Lookup select box]]
-- [[reference|Reference]]

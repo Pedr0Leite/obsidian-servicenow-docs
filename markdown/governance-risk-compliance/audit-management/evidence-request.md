@@ -18,7 +18,7 @@ Evidence request is used by audit and compliance teams for requesting supporting
 
 Evidence is all the information used by an auditor in determining the audit opinion. Evidence includes the information contained in the accounting records underlying the financial statements and other information. Evidence is cumulative in nature. It includes evidence obtained from audit procedures performed during the audit. Evidence may also include audit evidence obtained from other sources such as, previous audits.
 
-An evidence request is frequently introduced during the audit preparation or the planning phase after the audit announcement. The documents requested are used by the audit team to understand the in-scope controls and processes, and to begin fieldwork testing. As an audit progresses through various stages, the audit team frequently adds new requests to the list. The compliance teams use the collected evidence for control testing. Starting with the latest release, unplanned evidence request is supported by [[c_GRCAudits|Audit Management]] and [[r_PolicyComplianceMgmt|Policy and Compliance Management]]. The following are the benefits of the evidence request feature:
+An evidence request is frequently introduced during the audit preparation or the planning phase after the audit announcement. The documents requested are used by the audit team to understand the in-scope controls and processes, and to begin fieldwork testing. As an audit progresses through various stages, the audit team frequently adds new requests to the list. The compliance teams use the collected evidence for control testing. Starting with the latest release, unplanned evidence request is supported by Audit Management and Policy and Compliance Management. The following are the benefits of the evidence request feature:
 
 -   Helps the second line and third line of defense to create and send all their evidence requests quickly.
 -   Helps in the management of requests and evidence.
@@ -35,7 +35,3 @@ An evidence request is frequently introduced during the audit preparation or the
 
 Evidence can be requested from an engagement and all audit tables. To understand how to request evidence, refer to [Request evidence for audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/request-evidence.md).
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

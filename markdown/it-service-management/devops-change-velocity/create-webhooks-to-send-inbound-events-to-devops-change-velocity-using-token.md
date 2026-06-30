@@ -14,7 +14,7 @@ breadcrumb: [Create a tool integration from the DevOps Change Workspace, User cr
 
 # Creation of webhooks to send inbound events to DevOps Change Velocity using token
 
-You must create webhooks to send inbound events to [[devops-landing-page-new|DevOps Change Velocity]] using token based authentication.
+You must create webhooks to send inbound events to DevOps Change Velocity using token based authentication.
 
 To send inbound events to a ServiceNow instance, you must use the following API endpoint structure:
 
@@ -37,6 +37,3 @@ If you have a custom tool or a different authentication method, you can implemen
 
 **Parent Topic:**[Create a tool integration from the DevOps Change Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-a-tool-integration-from-the-devops-change-workspace.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

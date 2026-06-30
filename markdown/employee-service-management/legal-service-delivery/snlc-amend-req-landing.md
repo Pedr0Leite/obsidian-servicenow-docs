@@ -19,13 +19,13 @@ The contract amendment workflow enhances contract lifecycle management by enabli
 
 Amendments can be made by adding, removing, or updating terms, without the need to replace the entire contract.
 
-You can use the **Amendment request** intake form available in the [[employee-center-landing-page|Employee Center]] to submit an amendment request.
+You can use the **Amendment request** intake form available in the Employee Center to submit an amendment request.
 
 \[Omitted image "lsd-amend-rp.png"\] Alt text: Use the Amendment request record producer from Employee Center to submit an contract amendment request
 
 ## Distinguish contract and amendment request
 
-The field, **Request type**, differentiates [[cncore-expl-ss-nss-contracts|contract and amendment requests]]. For amendment request, the value is **Amendment** and for contract request its **New contract**.
+The field, **Request type**, differentiates contract and amendment requests. For amendment request, the value is **Amendment** and for contract request its **New contract**.
 
 The Request type field is displayed in the contract details secondary header, and list pages making it easy to differentiate between the two request types.
 
@@ -97,7 +97,7 @@ The contract amendment workflow might progress as follows:
 
 ## Now Assist in Contract Management features for amendment documents
 
-For amendment documents, [[cncore-now-assit-landing|Now Assist in Contract Management]] features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling users to review and analyze amendments effectively.
+For amendment documents, Now Assist in Contract Management features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling users to review and analyze amendments effectively.
 
 For more information, see [Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md).
 
@@ -131,11 +131,5 @@ View the amendment details in the contract repository record.
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

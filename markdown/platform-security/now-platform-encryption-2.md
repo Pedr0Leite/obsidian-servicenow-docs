@@ -12,21 +12,21 @@ breadcrumb: [Exploring Column Level Encryption, Column Level Encryption, Encrypt
 
 # Column Level Encryption Enterprise
 
-Column Level Encryption Enterprise uses the [[encryption|Key Management Framework]] \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Column Level Encryption Enterprise.
+Column Level Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Column Level Encryption Enterprise.
 
 **Important:**
 
-Starting with the Zurich release, [[column-level-encryption-landing|Column Level Encryption]] \(CLE\) and Column Level Encryption Enterprise \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [[field-encryption|Field Encryption]] and [[now-platform-encryption|Field Encryption Enterprise]] provide the latest experience for this functionality.
+Starting with the Zurich release, Column Level Encryption \(CLE\) and Column Level Encryption Enterprise \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md) and [Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-platform-encryption.md) provide the latest experience for this functionality.
 
 For details, see the Deprecation Process \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] article in the Now Support knowledge base.
 
 Column Level Encryption Enterprise is premised with Column Level Encryption and uses the Key Management Framework and its full support of key management functions. Column Level Encryption Enterprise provides key-protection and key life-cycle management for application-level field encryption. All keys are protected with a key-wrapping hierarchy ultimately rooted in FIPS \(Federal Information Processing Standards\) 140-2-L3 Hardware Security Modules \(HSM\).
 
-**Important:** This topic covers the enterprise version of Column Level Encryption. For information on the standard version of Column Level Encryption, or to learn the differences between the two versions, see [[exploring-fe|Exploring Field Encryption]].
+**Important:** This topic covers the enterprise version of Column Level Encryption. For information on the standard version of Column Level Encryption, or to learn the differences between the two versions, see [Exploring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md).
 
-Field Encryption Enterprise gives you the ability to manage how supported fields are encrypted and decrypted in accordance with [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) practices. It also uses the most updated version of field-level [[encryption-landing|encryption]], including integration for proper key protection and management.
+Field Encryption Enterprise gives you the ability to manage how supported fields are encrypted and decrypted in accordance with [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) practices. It also uses the most updated version of field-level encryption, including integration for proper key protection and management.
 
-Specifically, Column Level Encryption Enterprise uses the KMF encryption modules, granting you more control of server-side encryption. KMF verifies proper data encryption key protection using key hierarchy and envelope encryption. Your instance encrypts data through cryptographic modules that you configure. You can create an access policy for each module then configure cryptographic specifications and access [[ca-policies|policies]] and control key life-cycle management control.
+Specifically, Column Level Encryption Enterprise uses the KMF encryption modules, granting you more control of server-side encryption. KMF verifies proper data encryption key protection using key hierarchy and envelope encryption. Your instance encrypts data through cryptographic modules that you configure. You can create an access policy for each module then configure cryptographic specifications and access policies and control key life-cycle management control.
 
 Column Level Encryption Enterprise supports module access policies based on:
 
@@ -68,7 +68,7 @@ Support for key managementFundamental to Column Level Encryption Enterprise is t
 -   Customer Supplied Keys \(CSK\) with key-wrapping.
 -   Non-deterministic encryption.
 -   Mass encryption/decryption.
--   [[c_AuditedTables|Auditing]] of key access/use.
+-   Auditing of key access/use.
 
  See [Key Management Framework Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/understanding-kmf.md) for details.
 
@@ -80,7 +80,7 @@ Support for key managementFundamental to Column Level Encryption Enterprise is t
 
 Support for customer supplied keysOne of the biggest benefits of Column Level Encryption Enterprise is that you can use your own keys for encryption. Administrators have the choice to use ServiceNow supplied keys or your own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform®.
 
- You can also manage the key life cycle and decide when to revoke, rotate, and inactivate the keys. After you enable customer-supplied keys and [[create-cryptographic-module|create a cryptographic module]], you download a token and public ephemeral key. You use the token and public key to wrap your key and then upload to the instance. To use customer-supplied keys, see [Configure field encryption settings to select key type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-field-encryption-settings.md) and [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]].
+ You can also manage the key life cycle and decide when to revoke, rotate, and inactivate the keys. After you enable customer-supplied keys and create a cryptographic module, you download a token and public ephemeral key. You use the token and public key to wrap your key and then upload to the instance. To use customer-supplied keys, see [Configure field encryption settings to select key type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-field-encryption-settings.md) and [Using customer-supplied keys with Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing.md).
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Support for customer supplied keysOne of the biggest benefits of Column Level En
 
 </td><td>
 
-Support for both field encryption and attachment encryptionBoth field encryption and attachment encryption use cryptographic modules and access policies through Encrypted Field Configurations. The Encrypted Field [[sc-configuration|Configuration]] form is used to choose an encryption type of column or attachment encryption. See [[set-encrypted-field-config|Set encrypted field configurations]] for more information and supported field types.
+Support for both field encryption and attachment encryptionBoth field encryption and attachment encryption use cryptographic modules and access policies through Encrypted Field Configurations. The Encrypted Field Configuration form is used to choose an encryption type of column or attachment encryption. See [Set encrypted field configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/set-encrypted-field-config.md) for more information and supported field types.
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Support for both field encryption and attachment encryptionBoth field encryption
 
 Support for non-deterministic encryptionColumn Level Encryption Enterprise supports non-deterministic encryption for enhanced security. If the system encrypts the same data more than once, the ciphertexts are different each time. Non-deterministic encryption is available with Advanced Encryption Standard \(AES\) encryption with Cipher Block Chaining \(CBC\).
 
- You can enable this feature through the Equality Preserving option on the Algorithm Definition stage of the cryptographic specification. [[create-crypto-spec|Create a cryptographic specification]] for a crypto module and define an algorithm for encryption and generate the key.
+ You can enable this feature through the Equality Preserving option on the Algorithm Definition stage of the cryptographic specification. Create a cryptographic specification for a crypto module and define an algorithm for encryption and generate the key.
 
  See [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) to define the mechanisms used for cryptographic operations and for more information on enabling non-deterministic encryption.
 
@@ -108,10 +108,10 @@ Support for non-deterministic encryptionColumn Level Encryption Enterprise suppo
 
 </td><td>
 
-Resource Exchange Column Level Encryption Enterprise keys instance to instance in a secure manner using the KMF cryptographic APIs to provide confidentiality, integrity, [[c_Authentication|authentication]], and non-repudiation. Resource Exchange is a KMF feature that gives you the capability to exchange resources between instances in a secure manner. See [Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md) for details.
+Resource Exchange Column Level Encryption Enterprise keys instance to instance in a secure manner using the KMF cryptographic APIs to provide confidentiality, integrity, authentication, and non-repudiation. Resource Exchange is a KMF feature that gives you the capability to exchange resources between instances in a secure manner. See [Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md) for details.
 
 </td></tr></tbody>
-</table>**Note:** If you choose not to [[activate-platform-encryption|activate Field Encryption]] Enterprise, you can still use Field Encryption. See [[exploring-column-level-encryption|Exploring Column Level Encryption]] for information.
+</table>**Note:** If you choose not to activate Field Encryption Enterprise, you can still use Field Encryption. See [Exploring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-column-level-encryption.md) for information.
 
 Field Encryption Enterprise supports on-premise customers. It doesn’t support Domain Separation.
 
@@ -126,7 +126,7 @@ The following field types can be encrypted:
 -   Attachments
 -   Date
 -   Date/Time
--   [[email|Email]]
+-   Email
 -   HTML
 -   Journal
 -   Journal Input
@@ -142,13 +142,13 @@ The following field types can be encrypted:
 
 -   **Attachment encryption by default**
 
-    Customers [[using-column-level-encryption-2|using Column Level Encryption]] have attachments encrypted by default in tables that have an active Encrypted Field Configuration \(EFC\) type of **Attachment**.
+    Customers using Column Level Encryption have attachments encrypted by default in tables that have an active Encrypted Field Configuration \(EFC\) type of **Attachment**.
 
     This default encryption defined by the EFC configuration means that admins don’t need to manually declare that an attachment should be encrypted on upload for these tables.
 
--   **Administrators can disallow [[users|users]] from attaching unencrypted files**
+-   **Administrators can disallow users from attaching unencrypted files**
 
-    For details, see [[attach-enc-property|Prevent users from attaching unencrypted files]].
+    For details, see [Prevent users from attaching unencrypted files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/attach-enc-property.md).
 
 -   **Opt out of default encryption**
 
@@ -323,25 +323,3 @@ When you call `getValue()` on an encrypted text field, it returns the plaintext 
 
 **Parent Topic:**[Exploring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-column-level-encryption.md)
 
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[exploring-fe|Exploring Field Encryption]]
-- [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
-- [[set-encrypted-field-config|Set encrypted field configurations]]
-- [[exploring-column-level-encryption|Exploring Column Level Encryption]]
-- [[attach-enc-property|Prevent users from attaching unencrypted files]]
-- [[encryption|Key Management Framework]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]
-- [[c_AuditedTables|Auditing]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[sc-configuration|Configuration]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[c_Authentication|Authentication]]
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[email|Email]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [SPM Benchmarks, Strategic Portfolio Management]
 
 # Exploring SPM Benchmarks
 
-The [[benchmarks-for-spm|SPM Benchmarks]] application provides clear visibility into your key performance indicators \(KPIs\) and trends, providing comparative insights relative to the industry averages of your peers. It enables you to gain deeper insights by comparing your performance with your peers based on industry, size, or region.
+The SPM Benchmarks application provides clear visibility into your key performance indicators \(KPIs\) and trends, providing comparative insights relative to the industry averages of your peers. It enables you to gain deeper insights by comparing your performance with your peers based on industry, size, or region.
 
 ## Key features
 
@@ -29,13 +29,9 @@ The [[benchmarks-for-spm|SPM Benchmarks]] application provides clear visibility 
 -   Integration with ServiceNow® Performance Analytics for daily data collection and drill-down on KPI data.
 
 -   **[SPM Benchmarks dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/spm-benchmarking-dashboard.md)**  
-View and learn about the [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]] features.
+View and learn about the SPM Benchmarks dashboard features.
 -   **[Benefits of SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benefits-of-spm-benchmarking.md)**  
 The SPM Benchmarks application provides you with an overall understanding of your performance compared to your peers.
 
 **Parent Topic:**[SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-for-spm.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]]

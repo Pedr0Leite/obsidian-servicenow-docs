@@ -14,9 +14,9 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Normalization overview for Enterprise Asset Management
 
-Use the Normalization view in the [[using-eam-workspace|Enterprise Asset Workspace]] to view information related to normalization such as normalization status, model content service download, lifecycle overview.
+Use the Normalization view in the Enterprise Asset Workspace to view information related to normalization such as normalization status, model content service download, lifecycle overview.
 
-You can also create custom enterprise model types, product [[c_Models|models]], and model libraries from this view.
+You can also create custom enterprise model types, product models, and model libraries from this view.
 
 You can access the Normalization view by navigating to **Enterprise Asset Workspace** &gt; **Normalization**.
 
@@ -87,8 +87,3 @@ The days since the content service library was last downloaded on your instance 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

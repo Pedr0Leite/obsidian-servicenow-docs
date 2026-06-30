@@ -25,15 +25,15 @@ Role required: Admin, DocIntel Admin, DocIntel Manager
 
 Follow these steps to edit a use case along with its fields, tables, questions, integrations, and flows.
 
-Use [[cases|cases]] marked as read-only can’t be edited. However, you can make a copy of a read-only use case that is editable. For more information, see [Make a copy of a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/make-copy-of-now-assist-document-intelligence-use-case.md).
+Use cases marked as read-only can’t be edited. However, you can make a copy of a read-only use case that is editable. For more information, see [Make a copy of a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/make-copy-of-now-assist-document-intelligence-use-case.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin** &gt; **Skills**.
+1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable [[document-intelligence-landing|document intelligence]] skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
 4.  In the row of the use case you want to edit, select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
@@ -47,7 +47,7 @@ Use [[cases|cases]] marked as read-only can’t be edited. However, you can make
 **Related topics**  
 
 
-[Activate a [[docintel-nowassist-landing|Now Assist in Document Intelligence]] skill]()
+[Activate a Now Assist in Document Intelligence skill]()
 
 [Set up a use case for Now Assist in Document Intelligence]()
 
@@ -61,9 +61,3 @@ Use [[cases|cases]] marked as read-only can’t be edited. However, you can make
 
 [Delete a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[cases|Cases]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]

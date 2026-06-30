@@ -24,7 +24,7 @@ Ensure **Yes** is checked under **Allow Ownership for Topics** under Content Pub
 
 ## About this task
 
-The Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, [[emp-center-quick-link-config|quick links]], [[exploring-learning-exp|learning]] content, and [[eslate-employee-comms|employee communications]]. For more information, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
+The Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, quick links, learning content, and employee communications. For more information, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
 
 ## Procedure
 
@@ -44,8 +44,4 @@ The Unified Taxonomy is a collection of hierarchical topics that brings together
 
     After a user or group is assigned to a topic, only that user or group can publish content to that topic. Removing the user or group allows all content managers to publish content to that topic.
 
-## Related
 
-- [[emp-center-quick-link-config|Quick links]]
-- [[exploring-learning-exp|Learning]]
-- [[eslate-employee-comms|Employee communications]]

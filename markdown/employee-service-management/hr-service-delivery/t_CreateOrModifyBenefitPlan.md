@@ -14,7 +14,7 @@ breadcrumb: [Managed lists, HR Administration, Configure, Case and Knowledge Man
 
 # Add or modify benefit plans
 
-You can add or modify a benefit plan and provider using the Benefit Plan for under [[c_ManagedLists|Managed Lists]]. The plan name is a combination of the provider and plan type.
+You can add or modify a benefit plan and provider using the Benefit Plan for under Managed Lists. The plan name is a combination of the provider and plan type.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Managed Lists** &gt; **Benefit Plans**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Benefit Plans**.
 
     The HR Benefit Plans list opens.
 
@@ -58,7 +58,7 @@ The name of the benefit plan.
 
 </td><td>
 
-Click and select the name of the benefit provider. For new providers, click the **[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] field** icon to enter details about the provider.
+Click and select the name of the benefit provider. For new providers, click the **Reference field** icon to enter details about the provider.
 
  This field combines with **Plan type** to create the **Plan name**.
 
@@ -110,8 +110,3 @@ Click and enter the website or link to the benefit plan.
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_ManagedLists|Managed lists]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

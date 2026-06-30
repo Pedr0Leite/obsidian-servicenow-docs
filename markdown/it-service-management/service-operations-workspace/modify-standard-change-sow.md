@@ -14,7 +14,7 @@ breadcrumb: [Standard change catalog, Change Management in Service Operations Wo
 
 # Modify a standard change template
 
-You can modify standard [[change-templates|change templates]] based on your organization's requirements.
+You can modify standard change templates based on your organization's requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, change\_manager
 
 ## Procedure
 
-1.  Create a new change request to open the [[c_StandardChangeCatalogPlugin|standard change catalog]].
+1.  Create a new change request to open the standard change catalog.
 
 2.  Select the template you want to modify.
 
@@ -33,12 +33,7 @@ Role required: admin, change\_manager
 5.  Perform one of the following actions:
 
     -   Save edits, but do not send for approval by selecting **Save**.
-    -   Send edits for approval to the [[c_ITILChangeManagement|change management]] team by selecting **Request Approval**.
+    -   Send edits for approval to the change management team by selecting **Request Approval**.
 
 **Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/standard-change-catalog-sow.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[c_ITILChangeManagement|Change Management]]

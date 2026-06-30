@@ -19,7 +19,7 @@ Information about the roles, tables, and scheduled jobs that are installed with 
 
 ## AI voice agent roles
 
-The following table [[migration-lists|lists]] the roles installed with the Voice for Now Assist plugin.
+The following table lists the roles installed with the Voice for Now Assist plugin.
 
 |Role|Description|
 |----|-----------|
@@ -46,6 +46,3 @@ The following table consists of system properties to set up AI voice agents.
 |--------|-----------|
 |`sn_aia.enable_voice_agent_setup`|The system property to enable AI voice agents. Set the value of the property to `true` to enable AI voice agents on the instance.|
 
-## Related
-
-- [[migration-lists|Lists]]

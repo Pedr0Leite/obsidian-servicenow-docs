@@ -14,7 +14,7 @@ breadcrumb: [Audit Management Overview, Audit Management, Governance, Risk, and 
 
 # Manage audit issues and remediation
 
-Issues can be created manually to document [[audit-observations|audit observations]] or remediations, or to accept any problems. They are automatically generated from indicator results, attestation results, or control test effectiveness.
+Issues can be created manually to document audit observations or remediations, or to accept any problems. They are automatically generated from indicator results, attestation results, or control test effectiveness.
 
 Various types of issues are created under the following conditions:
 
@@ -39,6 +39,3 @@ Remediating an issue marks an intention to fix the underlying issue causing the 
 
 For more information on issues and observations, see [Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md) and [Audit observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-observations.md).
 
-## Related
-
-- [[audit-observations|Audit observations]]

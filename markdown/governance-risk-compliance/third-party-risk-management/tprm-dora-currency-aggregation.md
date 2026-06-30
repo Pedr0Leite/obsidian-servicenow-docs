@@ -15,7 +15,7 @@ breadcrumb: [Use digital resilience third-party registers, Third-party Risk Mana
 
 # Currency conversion and third-party total expense aggregation
 
-During report generation, the Register of Information \(RoI\) can standardize contract annual expenses by converting amounts to a base currency and aggregating totals per eligible third-party provider or engagement. The RoI is a regulatory reporting requirement under the Digital [[grc-opres-landing-page|Operational Resilience]] Act \(DORA\) and is supported by the Digital Resilience Third-party Information Register application in the Vendor Management Workspace application.
+During report generation, the Register of Information \(RoI\) can standardize contract annual expenses by converting amounts to a base currency and aggregating totals per eligible third-party provider or engagement. The RoI is a regulatory reporting requirement under the Digital Operational Resilience Act \(DORA\) and is supported by the Digital Resilience Third-party Information Register application in the Vendor Management Workspace application.
 
 ## Currency and aggregation overview
 
@@ -77,6 +77,3 @@ Conversion-related reports appear only when currency conversion is enabled. Aggr
 
 [Register of information regulatory packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-roi.md)
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

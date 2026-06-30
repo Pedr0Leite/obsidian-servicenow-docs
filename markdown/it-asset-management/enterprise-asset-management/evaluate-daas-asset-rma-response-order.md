@@ -27,7 +27,7 @@ Role required: sn\_eam\_provider.provider\_asset\_technician
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the Asset tasks list.
 
@@ -50,7 +50,7 @@ Procedure
 3.  On the RMA response order record, select the **RMA response order lines** tab.
 4.  From the list of available RMA response order lines, select the order line that you want to evaluate the asset for.
 
-**Note:** If you are performing an on-site repair, you must select an order line that you have already completed the Schedule task for. If you are performing an off-site repair or replacement, you must select an order line that you have already completed the [[receive-rma-asset|Receive asset]] task for.
+**Note:** If you are performing an on-site repair, you must select an order line that you have already completed the Schedule task for. If you are performing an off-site repair or replacement, you must select an order line that you have already completed the Receive asset task for.
 
 5.  On the RMA response order line record, select the **Asset tasks** tab.
 
@@ -145,8 +145,3 @@ Notes about the task that are visible to all users within your organization.
 
 **Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-rma-response-order-daas-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[receive-rma-asset|Receive asset]]

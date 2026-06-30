@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 1.  Open the **Log Viewer** using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Define and run a search.
 
@@ -35,7 +35,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 3.  When a search returns log data that should generate an alert, select **Save** or **Save as** to save the search.
 
-    **Note:** If you're using [[hla-landing-page|Health Log Analytics]] application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home), you don't have to perform this step.
+    **Note:** If you're using Health Log Analytics application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home), you don't have to perform this step.
 
 4.  Access the form for creating an alert rule by selecting **Define alert** at the top right of the **Log viewer** tab.
 
@@ -110,7 +110,3 @@ The component to which this alert rule applies.By default, this is the component
 
 [Delete a custom Log Analytics alert rule in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-defined-alert-delete-sow.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[hla-landing-page|Health Log Analytics]]

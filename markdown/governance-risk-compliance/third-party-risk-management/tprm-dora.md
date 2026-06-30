@@ -24,7 +24,7 @@ The Digital Resilience Third-party Information Register application is used to d
 
 You can use Digital resilience third-party registers to create or edit the records in bulk or individually for assessments, branches, contracts, functions, legal entities, supply chains, third parties, or third-party engagements using the Microsoft Excel upload and download feature.
 
-**Note:** The IRM Professional license users can access Digital resilience third-party registers in the [[grc-opres-landing-page|Operational Resilience]] Workspace. The TPRM license users can access Digital resilience third-party registers in the TPRM Workspace.
+**Note:** The IRM Professional license users can access Digital resilience third-party registers in the Operational Resilience Workspace. The TPRM license users can access Digital resilience third-party registers in the TPRM Workspace.
 
 The Digital resilience third-party registers application fulfills multiple functions for the entities:
 
@@ -37,7 +37,7 @@ The following applications are used in the background for the Digital resilience
 -   Digital Resilience Third-party Information Register: This application is used to download the Digital resilience third-party registers application. It contains the Microsoft Excel template including all tabs for reporting purposes.
 -   Digital Operational Resilience Management: This application is used for uploading and downloading of all individual DORA tables. It’s automatically installed when the Digital Resilience Third-party Information Register is activated.
 
-For more information on configuring Digital resilience third-party registers and its possible use cases, see [[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]] and [[use-cases-for-contra-arrangements|Use cases for updating the information registers]].
+For more information on configuring Digital resilience third-party registers and its possible use cases, see [Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-dg-resi-party-regi.md) and [Use cases for updating the information registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/use-cases-for-contra-arrangements.md).
 
 ## Digital Operational Resilience
 
@@ -47,11 +47,11 @@ Digital Operational Resilience refers to the ability of a financial entity to bu
 
 Digital Operational Resilience aligns with the Digital Operational Resilience Act \(DORA\). It’s a European Union \(EU\) regulation that came into effect on 16 January 2023 and it will be applicable from January 17, 2025. It enhances the ICT security of financial entities supervised by the European Supervisory Authorities \(ESA\)s and protects Europe's financial sector from major digital disruptions.
 
-For more information on DORA and the Digital Resilience Third-party Information Register application, see [https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act) and [[exploring-digi-resi-third-party-registers|Exploring Digital resilience third-party registers]].
+For more information on DORA and the Digital Resilience Third-party Information Register application, see [https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act) and [Exploring Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/exploring-digi-resi-third-party-registers.md).
 
 ## Creating records for Digital resilience third-party registers
 
-Third-party risk \(TPR\) assessors \[sn\_vdr\_risk\_asmt.vendor\_assessor\] and TPR managers \[sn\_vdr\_risk\_asmt.vendor\_manager\] can create and update these records by navigating to the Digital resilience third-party registers in the Vendor Management Workspace. You must create or update these records in a specific sequence. For more information on this sequence, see [[order-for-creating-records|Creating and reviewing the records]].
+Third-party risk \(TPR\) assessors \[sn\_vdr\_risk\_asmt.vendor\_assessor\] and TPR managers \[sn\_vdr\_risk\_asmt.vendor\_manager\] can create and update these records by navigating to the Digital resilience third-party registers in the Vendor Management Workspace. You must create or update these records in a specific sequence. For more information on this sequence, see [Creating and reviewing the records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/order-for-creating-records.md).
 
 **Note:** TPR assessors and TPR managers can delete Third party, Third-party engagement, and Contract records. TPR administrators \[sn\_vdr\_risk\_asmt.vendor\_risk\_admin\] can delete all record types by navigating to each individual record and selecting **Delete**.
 
@@ -130,7 +130,7 @@ The following records can be manually created and updated.
     For more information see, [Create an assessment and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-reg-assmt.md) and [Create New Contractual arrangement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-new-cont-arrange-form.md).
 
 
-For more information on the roles related to [[using-dg-registers|using Digital resilience third-party registers]], see [Roles in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-roles.md).
+For more information on the roles related to using Digital resilience third-party registers, see [Roles in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-roles.md).
 
 ## Uploading and downloading records
 
@@ -152,7 +152,7 @@ The following example shows where you can view and create Excel download/upload 
 
 After upgrading the Digital Resilience Third-party Information Register application to version 21.1.x, third-party assessors \(sn\_vdr\_risk\_asmt.vendor\_assessor\) can generate regulator-ready Register of Information \(RoI\) packages using the Plain-CSV Report Package option on the download page. The resulting ZIP file includes metadata and report folders structured to regulator specifications, with filenames containing the Legal Entity Identifier \(LEI\), entity ID, and release version. This format ensures EU DORA compliance and supports automated validation workflows. Users can follow the guide provided in the Instructions section on the Download/Upload request page for step-by-step instructions and required permissions. For more information, see [Register of information regulatory packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-roi.md) and [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md).
 
-During RoI package generation, users can optionally enable [[tprm-dora-currency-aggregation|currency conversion and third-party total expense aggregation]]. When enabled, these options standardize annual expense values using historical exchange rates and consolidate eligible contract expenses at the provider or engagement level in the exported package.
+During RoI package generation, users can optionally enable currency conversion and third-party total expense aggregation. When enabled, these options standardize annual expense values using historical exchange rates and consolidate eligible contract expenses at the provider or engagement level in the exported package.
 
 Third-party risk managers \(sn\_vdr\_risk\_asmt.vendor\_manager\) can validate downloaded RoI packages using the same Plain-CSV Report Package option. The system performs validation across multiple tables, checking file format, structure, encoding, naming conventions, and field-level data. If validation warnings are detected, a report is automatically attached, including mappings to regulator fields such as Template Code, Row Code, and Column Code. These reports also include real-world field labels, rule expressions, and record identifiers. Validation errors can be cross-referenced using a downloadable Excel master template that mirrors the CSV structure, simplifying issue identification and resolution. This template can be generated using the Excel master template option on the download page. Additional enhancements include support for “Not applicable” values, enforcement of file size limits, and clearer error messages for malformed data. For more information, see [Validation framework for Register of Information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-validation-roi.md), [Validate Register of Information packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-dora.md), and [Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-lei.md).
 
@@ -162,12 +162,3 @@ Use the ITS on the Registers of Information, adopted and published in the Offici
 
 Refer to the sample files provided under the taxonomy architecture v2.0 to validate reporting structure. Download the taxonomy package and, under `instances/xBRL-CSV`, locate the DORA sample file `DUMMYLEI123456789012.CON_FR_DORA010100_DORA_2024-12-31_20241213174803429` to review the expected xBRL-CSV format.
 
-## Related
-
-- [[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
-- [[use-cases-for-contra-arrangements|Use cases for updating the information registers]]
-- [[exploring-digi-resi-third-party-registers|Exploring Digital resilience third-party registers]]
-- [[order-for-creating-records|Creating and reviewing the records]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[tprm-dora-currency-aggregation|Currency conversion and third-party total expense aggregation]]

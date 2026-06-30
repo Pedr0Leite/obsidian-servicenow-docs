@@ -42,14 +42,14 @@ Outdated content refers to obsolete, invalid, or stale content that is no longed
 
     -   **Knowledge**
     -   **Catalog**
-    -   **[[emp-center-quick-link-config|Quick links]]**
+    -   **Quick links**
     Taxonomy content configuration information appears along with the related list.
 
 3.  Select one of the following tabs:
 
     |Field|Value|
     |-----|-----|
-    |Connected Content|Connected content table, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information, and display filter of the selected record.|
+    |Connected Content|Connected content table, reference information, and display filter of the selected record.|
     |Connected Category|Category linked to the topic pages based on the content type.|
     |Outdated Connected Content|The number of outadated content records detected on the linked category.|
 
@@ -90,7 +90,3 @@ Auto-delete the outdated content by marking the schedule job active. Once the sc
 
 **Parent Topic:**[Taxonomy and connected content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/track-new-content.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

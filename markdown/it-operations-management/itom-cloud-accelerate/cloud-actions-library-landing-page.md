@@ -14,7 +14,7 @@ breadcrumb: [ITOM Cloud Accelerate, IT Operations Management]
 
 # Cloud Action Library
 
-Use the ready-to-use actions and subflows of the ServiceNow® Cloud Action Library application to interact with the cloud resources of the organization. ServiceNow® [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]] features, such as [[cloud-configuration-governance|Cloud Configuration Governance]], use these actions to operate.
+Use the ready-to-use actions and subflows of the ServiceNow® Cloud Action Library application to interact with the cloud resources of the organization. ServiceNow® ITOM Cloud Accelerate features, such as Cloud Configuration Governance, use these actions to operate.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
@@ -56,8 +56,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

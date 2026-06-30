@@ -16,7 +16,7 @@ breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Se
 
 It allows you to configure and define how an end user should be engaged to self-solve the issue.
 
-Virtual Agent and Desktop Assistant are the notification channels used to notify the user. As a fallback, an incident can be created, or the user is routed to a live agent. The following field names are displayed in the Engagement [[settings-mobile|settings]] tab while creating a [[proactive-engagement-landing-page|Proactive Engagement]] resolution from the metric rules.
+Virtual Agent and Desktop Assistant are the notification channels used to notify the user. As a fallback, an incident can be created, or the user is routed to a live agent. The following field names are displayed in the Engagement settings tab while creating a Proactive Engagement resolution from the metric rules.
 
 <table id="table_c4x_v3l_xbc"><thead><tr><th>
 
@@ -41,7 +41,7 @@ Decide if this resolution needs end user engagement or could be executed silentl
 </td><td>
 
 -   Engage user
--   Silent execution \([[remedial-action|remedial action]]\)
+-   Silent execution \(remedial action\)
 -   Notification only \(self-help instructions and URL\).
 
 </td></tr><tr><td>
@@ -120,7 +120,7 @@ Proactive Engagement notification.
 
 </td></tr><tr><td>
 
-**Issue [[reference-for-itsm-mobile-agent|reference]] name**
+**Issue reference name**
 
 </td><td>
 
@@ -147,9 +147,3 @@ Create incident/Route to live agent
 
 **Parent Topic:**[Proactive Engagement reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[remedial-action|Remedial action]]
-- [[reference-for-itsm-mobile-agent|Reference]]

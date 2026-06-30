@@ -38,7 +38,7 @@ Web Embeddables admin
 
 </td><td>
 
-Allows access to Web Embeddables for admin experience to configure component and get embed code.You can also configure the CORS [[gamification-components-rules|rules]].
+Allows access to Web Embeddables for admin experience to configure component and get embed code.You can also configure the CORS rules.
 
 </td><td>
 
@@ -47,7 +47,3 @@ Allows access to Web Embeddables for admin experience to configure component and
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[gamification-components-rules|Rules]]

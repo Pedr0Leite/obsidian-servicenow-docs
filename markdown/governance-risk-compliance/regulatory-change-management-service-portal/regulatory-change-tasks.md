@@ -20,7 +20,7 @@ The regulatory change task provides a structured process for evaluating regulato
 
 Each regulatory change task contains related [action tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/action-tasks.md). The action tasks get created to fulfill the identified requirements. This hierarchical relationship ensures traceability and accountability throughout the change implementation process.
 
-If you have the `sn_grc_reg_change.manager` role, you can assign [[reg-change-task|regulatory change tasks]] to users with the `sn_grc_reg_change.user` role. The task includes key information such as the assigned group, the designated assignee, the approver, and other essential task details.
+If you have the `sn_grc_reg_change.manager` role, you can assign regulatory change tasks to users with the `sn_grc_reg_change.user` role. The task includes key information such as the assigned group, the designated assignee, the approver, and other essential task details.
 
 You can create multiple regulatory change tasks for a single regulatory alert. Each task can represent a distinct area of regulatory impact or a specific category of required action. This approach enables organizations to break down complex regulatory updates into manageable workstreams.
 
@@ -34,7 +34,7 @@ After completing all regulatory change tasks and their associated action tasks, 
 
 ## Types of regulatory tasks
 
-The following types of regulatory tasks are available in [[reg-change-mgmt-landing-page|Regulatory Change Management]]:
+The following types of regulatory tasks are available in Regulatory Change Management:
 
 -   Business Change- for example, implementing a new process to comply with updated anti-money laundering regulations.
 -   Citation Amendment- for example, updating legal references in internal documentation due to changes in data protection laws like GDPR.
@@ -79,7 +79,3 @@ You can break down a regulatory task into smaller, manageable components so that
 
 For example, a new data privacy law requires updates across multiple departments. You break down the regulatory task into smaller components such as updating the privacy policy, revising employee training, and implementing new data access controls. This breakdown of tasks enables each team to track and complete their assigned tasks efficiently.
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

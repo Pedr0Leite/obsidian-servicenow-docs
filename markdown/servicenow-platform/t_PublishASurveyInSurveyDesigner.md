@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## Procedure
 
-1.  In the [[c_SurveyDesigner|Survey Designer]], point to the menu and select **Load Survey**.
+1.  In the Survey Designer, point to the menu and select **Load Survey**.
 
 2.  Select a survey to publish.
 
@@ -28,15 +28,8 @@ Role required: admin or survey\_admin
 
 4.  When you are satisfied with the survey, click either **Save and Publish** or **Publish** to distribute it.
 
-    When you publish a survey, the system sends [[email|email]] notifications to the recipients and to their managers. The system displays a link to the survey on a card in each recipient's My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]] portal.
+    When you publish a survey, the system sends email notifications to the recipients and to their managers. The system displays a link to the survey on a card in each recipient's My Assessments &amp; Surveys portal.
 
 
-**Parent Topic:**[[t_PublishASurvey|Publish a survey]]
+**Parent Topic:**[Publish a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurvey.md)
 
-## Related
-
-- [[t_PublishASurvey|Publish a survey]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]

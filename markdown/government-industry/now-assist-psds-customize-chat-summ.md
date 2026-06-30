@@ -12,7 +12,7 @@ breadcrumb: [Activate Now Assist skills, Configure, Now Assist for PSDS, Public 
 
 # Configure chat summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)
 
-Activate and configure the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
+Activate and configure the Now Assist for Public Sector Digital Services \(PSDS\) skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ In the Now Assist for PSDS Admin Console, admins can:
 
 9.  Select any additional portals to allow chat summaries to be generated for conversations occurring on that portal.
 
-    **Note:** If **Add Additional Data Sources** is toggled on, the admin **must** specify a portal and enable a specific channel in the Portals dropdown for the requester to be able to initiate the chat on that portal. Otherwise, the agent will receive an error message. By default, [[gsp-overview-public-sector|Government Service Portal]] \(GSP\) for PSDS is selected as the portal, and cannot be deselected.
+    **Note:** If **Add Additional Data Sources** is toggled on, the admin **must** specify a portal and enable a specific channel in the Portals dropdown for the requester to be able to initiate the chat on that portal. Otherwise, the agent will receive an error message. By default, Government Service Portal \(GSP\) for PSDS is selected as the portal, and cannot be deselected.
 
 10. Select **Save and continue**.
 
@@ -84,7 +84,3 @@ Chat summarization is active and customized for the desired workflow.
 
 Review the performance of the Now Assist for PSDS chat summarization skill on the Now Assist Admin console. Learn more about tracking your Now Assist usage at [Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md).
 
-## Related
-
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[gsp-overview-public-sector|Government Service Portal]]

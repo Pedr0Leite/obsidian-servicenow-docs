@@ -24,7 +24,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 ## Procedure
 
-1.  Navigate to a case record in the [[csm-workspaces-configure|CSM Configurable Workspace]] or Core UI where you want to generate work notes or comments using Now Assist.
+1.  Navigate to a case record in the CSM Configurable Workspace or Core UI where you want to generate work notes or comments using Now Assist.
 
 2.  Select **Compose**, then select **Compose Comments** or **Compose Work Notes** from the drop down in front line case page.
 
@@ -56,6 +56,3 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 [Configure activity response generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-activity-response-generation.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

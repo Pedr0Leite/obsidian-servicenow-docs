@@ -32,14 +32,10 @@ This functionality is supported in Firefox 3.6 or later and Chrome. Support will
 
 4.  Release the mouse button to begin the upload.
 
-    When the upload is complete, the file name is added to the [[attachments-configurable-workspace|attachments]] header. Upload speed depends on the file size and the speed of your network connection.
+    When the upload is complete, the file name is added to the attachments header. Upload speed depends on the file size and the speed of your network connection.
 
     **Warning:** Do not navigate away from the record while an upload is in progress. The upload must be completed for the file to be attached.
 
 
-**Parent Topic:**[[t_AddingAnAttachment|Add and manage attachments]]
+**Parent Topic:**[Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)
 
-## Related
-
-- [[t_AddingAnAttachment|Add and manage attachments]]
-- [[attachments-configurable-workspace|Attachments]]

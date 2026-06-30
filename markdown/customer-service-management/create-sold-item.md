@@ -22,17 +22,17 @@ Role required: sn\_customerservice\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **[[sold-product|Sold Products]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **Sold Products**.
 
 2.  Select **New**.
 
 3.  On the Sold Product form, fill in the fields.
 
-    To learn more about the descriptions, see [[sold-product-form|Sold product form]].
+    To learn more about the descriptions, see [Sold product form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/sold-product-form.md).
 
 4.  Right-click the form header and select **Save**.
 
-    The Child Sold Products, [[install-base-item|Install Base Items]], Cases, Entitlements, Contracts, Additional Contacts, and Additional Consumers related [[migration-lists|lists]] are displayed.
+    The Child Sold Products, Install Base Items, Cases, Entitlements, Contracts, Additional Contacts, and Additional Consumers related lists are displayed.
 
 5.  Fill in the related lists as required.
 
@@ -141,18 +141,9 @@ Add contacts, accounts, and consumers as related parties by selecting **New**.
 **Related topics**  
 
 
-[[create-sp-for-business-location|Create and manage sold products for a business location]]
+[Create and manage sold products for a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-sp-for-business-location.md)
 
-[[edit-contract|Edit a contract]]
+[Edit a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/edit-contract.md)
 
-[[create-entitlement|Create an entitlement]]
+[Create an entitlement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-entitlement.md)
 
-## Related
-
-- [[sold-product-form|Sold product form]]
-- [[create-sp-for-business-location|Create and manage sold products for a business location]]
-- [[edit-contract|Edit a contract]]
-- [[create-entitlement|Create an entitlement]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]

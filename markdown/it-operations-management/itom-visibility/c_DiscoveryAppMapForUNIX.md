@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Application Mapping for UNIX discovery
 
-To perform the mapping that establishes application relationships, [[r-discovery|Discovery]] must be able to detect TCP connections.
+To perform the mapping that establishes application relationships, Discovery must be able to detect TCP connections.
 
 The best way to accomplish this is to run the [lsof](http://people.freebsd.org/%7Eabe/) command on target machines. For AIX machines, Discovery is configured to use the active connection probe for AIX targets. However, the user that executes the shell script on AIX machines might require additional privileges to execute commands, such as kdb, employed in the script.
 
@@ -27,6 +27,3 @@ Use the ls of command to return active TCP connections and can be installed on S
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

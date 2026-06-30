@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Stakeholder register form
 
-The [[stakeholder-register-form|stakeholder register form]] information is used to add users to the stakeholder registry.
+The stakeholder register form information is used to add users to the stakeholder registry.
 
 |Field|Description|
 |-----|-----------|
@@ -23,12 +23,8 @@ The [[stakeholder-register-form|stakeholder register form]] information is used 
 |Portfolio|Portfolio to which the user is assigned.|
 |Level of Interest|Level of interest that the stakeholder has in pursuing the demand. The available values are High, Medium, and Low.|
 |Assessment recipient|Indicates whether the user is authorized to receive assessment questionnaires for a demand.|
-|Approver|Indicates whether the user has authority to [[approve-demands-ppw|approve demands]].|
+|Approver|Indicates whether the user has authority to approve demands.|
 |Influence|Level of influence the user has over the group assessing the demand. The available values are High, Medium, and Low.|
 |Engagement|Indicates how the user is engaged with the demand. The available values are Supportive, Resistant, Neutral, and Leading.|
 |Function|Optional description of the role or position of the stakeholder in the organization, such as portfolio manager, executive sponsor, or director of finance.|
 
-## Related
-
-- [[stakeholder-register-form|Stakeholder Register Form]]
-- [[approve-demands-ppw|Approve demands]]

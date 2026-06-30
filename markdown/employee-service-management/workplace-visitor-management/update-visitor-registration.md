@@ -22,9 +22,9 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Visitor Overview** &gt; **All visitor registrations**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Visitor Overview** &gt; **All visitor registrations**.
 
-2.  Select any of the following options to update the [[register-visitors|visitor registration]].
+2.  Select any of the following options to update the visitor registration.
 
     -   **All Visitor Registrations**
     -   **My Visitor Registrations**
@@ -70,7 +70,3 @@ The status of the visitor registration is updated.
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]

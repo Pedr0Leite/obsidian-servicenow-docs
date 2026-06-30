@@ -14,7 +14,7 @@ breadcrumb: [Configure, ITSM Success Dashboard indicators, IT Service Management
 
 # Operational Success Admin Console
 
-The [[operational-success-ref|Operational Success]] dashboard provides a consolidated view of the end-to-end performance of the IT processes that are implemented.
+The Operational Success dashboard provides a consolidated view of the end-to-end performance of the IT processes that are implemented.
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ Tabs and dashboards: Map a KPI category such as Incident, Problem, Change, Reque
 
 ## Advanced options
 
-Review and configure the data visualization available in the base system for Incident, Problem, Change, Request, Interaction, Service catalog, Major Incident, Password Reset, and [[walkup-experience-landing-page|Walk-up Experience]].
+Review and configure the data visualization available in the base system for Incident, Problem, Change, Request, Interaction, Service catalog, Major Incident, Password Reset, and Walk-up Experience.
 
 \[Omitted video\] Description: Operational Success Overview
 
@@ -35,7 +35,3 @@ Create a KPI category and map with the operational dashboard to view the perform
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-success-dashboards.md)
 
-## Related
-
-- [[operational-success-ref|Operational Success]]
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Document approval and publish process, Use, Document Management, Do
 
 # Add a reviewer
 
-Add a single or multiple reviewers to the [[r_ApprovalProcess|document approval]] and review rule for document review.
+Add a single or multiple reviewers to the document approval and review rule for document review.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The procedure described in this task applies to newly created records. For exist
 
 **Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
 
-## Related
-
-- [[r_ApprovalProcess|Document approval]]

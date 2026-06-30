@@ -27,7 +27,7 @@ The cloned store plan includes the store plan items.
 **Note:**
 
 -   The Clone button is disabled if more than one store plan is selected.
--   The clone option is available only for HQ details, HQ task details, store case details, and store task details. The clone option is not available for affected [[rahi-retail-operations-overview|retail]] stores or scheduled store plans and questionnaires.
+-   The clone option is available only for HQ details, HQ task details, store case details, and store task details. The clone option is not available for affected retail stores or scheduled store plans and questionnaires.
 
 ## Procedure
 
@@ -45,9 +45,5 @@ The cloned store plan includes the store plan items.
 
 The system creates a copy of the selected Store plan and opens the cloned store plan in a new tab.
 
-**Parent Topic:**[[rahi-retail-manage-store-plans|Manage store plans]]
+**Parent Topic:**[Manage store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 
-## Related
-
-- [[rahi-retail-manage-store-plans|Manage store plans]]
-- [[rahi-retail-operations-overview|Retail]]

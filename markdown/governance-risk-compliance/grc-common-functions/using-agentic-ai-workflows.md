@@ -48,7 +48,7 @@ Get regulatory insights
 
 </td><td>
 
-Assists [[reg-change-mgmt-landing-page|regulatory change management]] professionals by analyzing [[list-view-of-reg-alerts|regulatory alerts]], enriches context using web search, and recommends potential impacts to citations, policies, control objectives, and more.
+Assists regulatory change management professionals by analyzing regulatory alerts, enriches context using web search, and recommends potential impacts to citations, policies, control objectives, and more.
 
 </td><td>
 
@@ -57,7 +57,7 @@ Assists [[reg-change-mgmt-landing-page|regulatory change management]] profession
 
 </td></tr><tr><td>
 
-[[generate_regulatory_action_plans|Generate regulatory action plans]]
+Generate regulatory action plans
 
 </td><td>
 
@@ -78,8 +78,3 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 There may be AI agents installed with the Now Assist application that aren’t used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[generate_regulatory_action_plans|Generate regulatory action plans]]

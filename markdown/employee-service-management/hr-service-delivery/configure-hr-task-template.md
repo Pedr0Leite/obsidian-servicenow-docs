@@ -14,7 +14,7 @@ breadcrumb: [HR templates, HR services, HR Administration, Configure, Case and K
 
 # Configure an HR task template
 
-Create or modify an HR task template to automatically populate fields on the HR task form when that task is generated. You can configure an HR task template for an HR service or lifecycle event [[activity-lxp|activity]].
+Create or modify an HR task template to automatically populate fields on the HR task form when that task is generated. You can configure an HR task template for an HR service or lifecycle event activity.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**, and open the HR service.
+1.  Navigate to **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**, and open the HR service.
 
 **Note:** Make sure **Fulfillment type** is set to `Service Activity`.
 
@@ -55,7 +55,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Activities**, and open the lifecycle event activity.
+1.  Navigate to **Lifecycle Events** &gt; **Administration** &gt; **Activities**, and open the lifecycle event activity.
 
 **Note:** Make sure **Activity type** is set to `Employee` or `Fulfiller`. For fulfiller types, make sure **Fulfiller activity** is set to `HR Task`.
 
@@ -153,11 +153,11 @@ An order guide fulfills the HR task. In the **Order Guide** field, select an ord
 
 </td></tr><tr><td>
 
-[[employee-form-configuration|Collect employee input]]
+Collect employee input
 
 </td><td>
 
-Collects information from employees. In the **[[ut-emp-form|Employee form]]** field, select the employee form that the user will fill out or verify.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user will fill out or verify.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ E-signature
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR [[document-templates-overview|document templates]] with their typed or drawn signature, credentials, or as an acknowledgment. See [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md) for more information.
+-   E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR document templates with their typed or drawn signature, credentials, or as an acknowledgment. See [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md) for more information.
 -   If HR document template is the document type of the e-signature template, you must select the HR document template that the signatory will sign on the HR case form. See [Select an HR document template for an e-signature task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/select-hr-document-template-for-e-signature-task.md) for more information.
 
 
@@ -409,13 +409,4 @@ Fields to automatically populate on the HR task form when the task is generated.
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-emp-form|Employee form]]
-- [[document-templates-overview|Document Templates]]

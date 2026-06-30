@@ -14,7 +14,7 @@ breadcrumb: [Capability profiles, McAfee ePO integration, Security Incident Resp
 
 # Configure settings
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the McAfee ePO capabilities that you want the profile to run, configure the settings so that the profile is invoked only under the specific conditions that you define.
+After you create a profile and select the McAfee ePO capabilities that you want the profile to run, configure the settings so that the profile is invoked only under the specific conditions that you define.
 
 ## Configuring a profile
 
@@ -22,11 +22,11 @@ In this step, you configure a capability profile so that it runs only when the c
 
 ## Alternate configuration item \(CI\) trigger field
 
-In cases when the Configuration item \(CI\) field on the ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] \(SIR\) security incident is not populated with a value, or a match cannot be found in the database, you can select an alternate field on the security incident to display any matching CI enrichment data found during the scan of your assets. For more information about the Configuration item and the Alternate configuration item fields on a security incident, see [Defining triggering conditions with a Configuration item \(CI\) field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-alternate-ci.md).
+In cases when the Configuration item \(CI\) field on the ServiceNow AI Platform® Security Incident Response \(SIR\) security incident is not populated with a value, or a match cannot be found in the database, you can select an alternate field on the security incident to display any matching CI enrichment data found during the scan of your assets. For more information about the Configuration item and the Alternate configuration item fields on a security incident, see [Defining triggering conditions with a Configuration item \(CI\) field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-alternate-ci.md).
 
 ## Security tags
 
-To help you track the status of isolated host machines and when [[threat-intelligence-malware|malware]] scans are initiated, an optional tagging feature is available. By default, this option is disabled on the configuration form for profiles. If this option is enabled during the configuration step, security tag names are displayed on the configuration form. These are the names of the tags that are displayed on related security incidents. These tags inform you when a host isolation action is successfully initiated and when it is approved. After a host is successfully returned to the network, the security tag is automatically removed from the security incident. For malware scans, a tag is displayed on the related security incident when a scan is scheduled. After the scan is finished, the scheduled tag is automatically replaced by a tag that indicates that the scan is successfully completed.
+To help you track the status of isolated host machines and when malware scans are initiated, an optional tagging feature is available. By default, this option is disabled on the configuration form for profiles. If this option is enabled during the configuration step, security tag names are displayed on the configuration form. These are the names of the tags that are displayed on related security incidents. These tags inform you when a host isolation action is successfully initiated and when it is approved. After a host is successfully returned to the network, the security tag is automatically removed from the security incident. For malware scans, a tag is displayed on the related security incident when a scan is scheduled. After the scan is finished, the scheduled tag is automatically replaced by a tag that indicates that the scan is successfully completed.
 
 ## Auto-trigger based on incident
 
@@ -63,8 +63,3 @@ After you create a profile with the Initiate Malware Scan capability and any oth
 
 **Parent Topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]

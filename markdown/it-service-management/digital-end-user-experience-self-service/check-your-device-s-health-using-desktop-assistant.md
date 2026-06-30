@@ -34,15 +34,15 @@ The Device health check widget on Desktop Assistant is visible only if you have 
 
 3.  On the Device health check page, select the device from the drop-down list.
 
-4.  In the **Diagnose** tab, review the performance category and required actions for the device, [[dex-workspace-application-tab|applications]], and network.
+4.  In the **Diagnose** tab, review the performance category and required actions for the device, applications, and network.
 
 5.  Select a Poor or Average performance category to view the issues and suggested resolutions.
 
-    The resolutions can be [[remedial-action|remedial action]] buttons, self-help instructions, or links to resources that provide resolutions. For more information, see [Resolution for Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/resolutions.md).
+    The resolutions can be remedial action buttons, self-help instructions, or links to resources that provide resolutions. For more information, see [Resolution for Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/resolutions.md).
 
 6.  Implement the suggested resolutions to improve device, application, or network performance.
 
-    **Note:** If a remedial action was triggered in the last 24 hours from either the **Diagnose** or **[[device-actions|Device actions]]** tab, the remedial action button is inactive. It is reactivated 24 hours after the last action was triggered.
+    **Note:** If a remedial action was triggered in the last 24 hours from either the **Diagnose** or **Device actions** tab, the remedial action button is inactive. It is reactivated 24 hours after the last action was triggered.
 
 7.  Submit feedback about whether the suggested resolution helped resolve an issue.
 
@@ -72,8 +72,4 @@ The Device health check widget on Desktop Assistant is visible only if you have 
         |Remedial action is in progress|**In-progress**|
         |Remedial action fails|**Failed**|
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[remedial-action|Remedial action]]
-- [[device-actions|Device actions]]

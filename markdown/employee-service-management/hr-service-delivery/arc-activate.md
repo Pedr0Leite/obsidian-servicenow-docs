@@ -18,7 +18,7 @@ You can activate the Anonymous Report Center plugin \(com.sn\_anonymous\_report\
 
 ## Before you begin
 
-If the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, the [[employee-center-landing-page|Employee Center]] is also included. On-demand delegations can be performed with the Employee Center or the ServiceNow® mobile.
+If the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, the Employee Center is also included. On-demand delegations can be performed with the Employee Center or the ServiceNow® mobile.
 
 Role required: admin
 
@@ -36,6 +36,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

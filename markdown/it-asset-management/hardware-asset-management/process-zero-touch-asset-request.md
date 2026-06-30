@@ -14,13 +14,13 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Process a Zero Touch Refresh request
 
-Process a Zero Touch Refresh request to receive the assets from your provider and complete the [[zero-touch-asset-refresh|Zero Touch Refresh]] flow.
+Process a Zero Touch Refresh request to receive the assets from your provider and complete the Zero Touch Refresh flow.
 
 ## Before you begin
 
 The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/service-bridge-config-ztr.md).
 
-Role required: admin, asset, [[c_Procurement|procurement]]\_user, or inventory\_user.
+Role required: admin, asset, procurement\_user, or inventory\_user.
 
 ## About this task
 
@@ -33,7 +33,7 @@ After the provider ships the assets, the Zero Touch Refresh flow completes when 
 
 1.  Log in to your ServiceNow® instance.
 
-2.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+2.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 3.  From the **Zero touch refresh list**, select **Requests**.
 
@@ -48,7 +48,7 @@ After the provider ships the assets, the Zero Touch Refresh flow completes when 
     2.  Select **Close Task**.
 
     -   An email message is sent to notify the employee that the asset has arrived in the stockroom and is ready for pickup.
-    -   The [[receive-rma-asset|Receive asset]] task is created.
+    -   The Receive asset task is created.
 7.  Ensure that the Receive asset task is closed.
 
     -   If the employee has acknowledged receipt of the replacement asset online, the task is closed automatically.
@@ -96,7 +96,7 @@ The Zero Touch Refresh flow completes. The stage and state of the Zero Touch Ref
 **Related topics**  
 
 
-[Configure replacement [[c_Models|models]] for a refresh model]()
+[Configure replacement models for a refresh model]()
 
 [Request a hardware asset refresh through Zero Touch Refresh]()
 
@@ -106,10 +106,3 @@ The Zero Touch Refresh flow completes. The stage and state of the Zero Touch Ref
 
 [Acknowledge receipt of an asset through the Core UI]()
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[c_Procurement|Procurement]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[receive-rma-asset|Receive asset]]
-- [[c_Models|Models]]

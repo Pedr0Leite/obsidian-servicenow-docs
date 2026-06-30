@@ -16,7 +16,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 HR flows created in Workflow Studio use natural language to automate approvals, tasks, notifications, and record operations without coding.
 
-Three new flows are available to automate the triggering of [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]. The triggers are based on changes in the [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\] or Job \[sn\_hr\_core\_job\] tables. These flows reduce or eliminate the need to write business rules to trigger Lifecycle Events.
+Three new flows are available to automate the triggering of Lifecycle Events. The triggers are based on changes in the HR Profile \[sn\_hr\_core\_profile\] or Job \[sn\_hr\_core\_job\] tables. These flows reduce or eliminate the need to write business rules to trigger Lifecycle Events.
 
 **Note:** Customize these flows to use in other Lifecycle Events other than on boarding events.
 
@@ -41,7 +41,7 @@ The following flows are installed with the Human Resources: Core application. Th
     This flow can be used as a template to create a customized trigger. The trigger is based on a custom date check for the employee start date. The default trigger is initiated two days prior to the employee start date. For more information about flows and triggers, see [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md).
 
 
-These flows [[search-hr-case|create an HR case]] adding an entry in the HR Lifecycle Events Case \[sn\_hr\_le\_case\] table. If multiple flows are active at the same time, there is a high probability of creating duplicate records and cases.
+These flows create an HR case adding an entry in the HR Lifecycle Events Case \[sn\_hr\_le\_case\] table. If multiple flows are active at the same time, there is a high probability of creating duplicate records and cases.
 
 **Note:** Only one of these flows should be active at any given time for a particular lifecycle event.
 
@@ -50,8 +50,3 @@ HR flows help automate task and case creation.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[search-hr-case|Create an HR case]]

@@ -26,7 +26,7 @@ Delegators can assign roles that they inherit from a group. They can also assign
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Designate Role Delegator**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Designate Role Delegator**.
 
 2.  Select the group that includes the user who you want to be the role delegator.
 
@@ -39,6 +39,3 @@ Delegators can assign roles that they inherit from a group. They can also assign
 
 **Parent Topic:**[Delegating roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_DelegateRoles.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

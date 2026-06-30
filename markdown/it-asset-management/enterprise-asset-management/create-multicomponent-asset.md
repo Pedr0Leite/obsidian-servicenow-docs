@@ -18,7 +18,7 @@ Track and manage your assets by creating a multi-component asset from a multi-co
 
 ## Before you begin
 
-For details on multi-component [[c_Models|models]], see [Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complex-models.md).
+For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complex-models.md).
 
 Role required:
 
@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  Create a model by navigating to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**
+1.  Create a model by navigating to **Enterprise Asset Workspace** &gt; **Enterprise model management**
 
     For details on creating a model, see [Create enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-model-eam.md).
 
@@ -35,7 +35,7 @@ Role required:
 
     For details on creating model components, see [Create enterprise model components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-model-components-eam.md).
 
-3.  [[t_CreatingAssets|Create assets]] from the multi-component model.
+3.  Create assets from the multi-component model.
 
     You can create a pre-assembled or an user-assembled asset.
 
@@ -60,8 +60,3 @@ Role required:
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[t_CreatingAssets|Create assets]]

@@ -19,7 +19,7 @@ This accelerator provides an overview of the possibilities and capabilities of S
 
 ## Accelerator Overview
 
-Introduction to ServiceNow Vault is an education‑focused accelerator that helps customers understand how ServiceNow Vault supports security, privacy, and compliance on the ServiceNow AI Platform. The session provides an overview of Vault, how its capabilities work together to protect sensitive data used by workflows, automation, and AI‑enabled experiences, and the key decisions to consider before configuration. Leading practice guidance and supporting resources are included to [[io-help|help]] [[impact-landing-page|Impact]] customers approach implementation with clarity.
+Introduction to ServiceNow Vault is an education‑focused accelerator that helps customers understand how ServiceNow Vault supports security, privacy, and compliance on the ServiceNow AI Platform. The session provides an overview of Vault, how its capabilities work together to protect sensitive data used by workflows, automation, and AI‑enabled experiences, and the key decisions to consider before configuration. Leading practice guidance and supporting resources are included to help Impact customers approach implementation with clarity.
 
 ## Package Availability
 
@@ -68,7 +68,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]

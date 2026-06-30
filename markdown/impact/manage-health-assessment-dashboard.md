@@ -12,17 +12,17 @@ breadcrumb: [Health Assessment Dashboard, HealthScan tech KPIs, HealthScan, Impa
 
 # Manage Health Assessment Dashboard
 
-Address [[platform-health-idi|platform health]] findings from the Health Assessment Dashboard.
+Address platform health findings from the Health Assessment Dashboard.
 
 ## Before you begin
 
-Role required: [[impact-landing-page|impact]]\_admin
+Role required: impact\_admin
 
 ## Procedure
 
-1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Diagnose** &gt; **[[health-assessment|Health Assessment]]**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Diagnose** &gt; **Health Assessment**.
 
-    The Scorecard tab is also available and may be hidden by your [[impact-squad|Impact Squad]], upon request.
+    The Scorecard tab is also available and may be hidden by your Impact Squad, upon request.
 
 2.  Select to view the assessment by list view or summary view.
 
@@ -31,12 +31,5 @@ Role required: [[impact-landing-page|impact]]\_admin
 4.  Filter the findings by new, rating, or by category.
 
 
-**Parent Topic:**[[health-assessment-dashboard|Health Assessment Dashboard]]
+**Parent Topic:**[Health Assessment Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/health-assessment-dashboard.md)
 
-## Related
-
-- [[health-assessment-dashboard|Health Assessment Dashboard]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-landing-page|Impact]]
-- [[health-assessment|Health Assessment]]
-- [[impact-squad|Impact Squad]]

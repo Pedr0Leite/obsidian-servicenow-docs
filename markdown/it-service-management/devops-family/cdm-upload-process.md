@@ -16,7 +16,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 You first create a new CDM application structure and then upload the existing config data into the structure.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## How it works: Performing the initial upload of your existing config data into CDM data tables
 
@@ -54,7 +54,7 @@ You first create a new CDM application structure and then upload the existing co
 
     -   An application can contain a maximum total of 100,000 CDIs.
     -   Any single deployable can contain a maximum of 10,000 CDIs.
-    See [CDM system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property [[settings-mobile|settings]].
+    See [CDM system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
 
     **Important:** Each time you submit a POST request, the API performs the POST and also generates an upload script. You can specify one of several script languages. The purpose is for you to use the code in your pipeline system to automate the upload process for this application in future uploads.
 
@@ -75,7 +75,3 @@ You first create a new CDM application structure and then upload the existing co
 
 [Parsing of CSV files in CDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-parsing-csv-file.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

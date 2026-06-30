@@ -14,7 +14,7 @@ breadcrumb: [Configure Microsoft AD for secure LDAPS communication, LDAP integra
 
 # Test the LDAPS connectivity locally
 
-Test the LDAPS connectivity after installing the internal and third party [[c_Certificates|certificates]] when you configure Microsoft Active Directory for SSL access.
+Test the LDAPS connectivity after installing the internal and third party certificates when you configure Microsoft Active Directory for SSL access.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: admin
 
     If successful, a window displays and lists information related to the Active Directory SSL connection. If the connection is unsuccessful, try restarting your system and repeat this procedure.
 
-## Related
 
-- [[c_Certificates|Certificates]]

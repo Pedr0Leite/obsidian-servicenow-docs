@@ -14,13 +14,13 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Perform advanced risk assessment in the Risk Workspace
 
-Conduct [[risk-assessments|risk assessments]] to assess inherent risks, effectiveness of controls, residual risks, and target risks in the [[risk-workspace|Risk Workspace]] application. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
+Conduct risk assessments to assess inherent risks, effectiveness of controls, residual risks, and target risks in the Risk Workspace application. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 
 ## Before you begin
 
 Role required: sn\_grc.business\_user
 
-**Note:** You must manually assign the [[advanced-risk-assessment|advanced risk assessment]] roles to the sn\_grc.business\_user role. To understand how you can adjust the granting of roles and groups, see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base. You must log in to Now Support to view the article.
+**Note:** You must manually assign the advanced risk assessment roles to the sn\_grc.business\_user role. To understand how you can adjust the granting of roles and groups, see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base. You must log in to Now Support to view the article.
 
 ## About this task
 
@@ -31,9 +31,9 @@ A risk assessment is performed for the following:
 -   Residual risks
 -   Target risks
 
-The risk assessments yield risk scores that are automatically calculated based on the configurations made in the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]]. If you want to change the automatically calculated scores, you can overwrite the calculated scores and provide a justification. If you have no controls to assess, then the residual risk score is the same as the inherent risk score.
+The risk assessments yield risk scores that are automatically calculated based on the configurations made in the risk assessment methodology \(RAM\). If you want to change the automatically calculated scores, you can overwrite the calculated scores and provide a justification. If you have no controls to assess, then the residual risk score is the same as the inherent risk score.
 
-After performing the assessment, you can define the [[risk-response|risk response]]. Risk response refers to the process of managing identified risks. It’s a planning and decision-making process where the risk managers decide how to deal with each risk. While performing the assessment, you can view detailed reference information on the Contextual side panel. This panel provides information for the risk events, open issues, key indicator breaches, control test results, and control indicator failures.
+After performing the assessment, you can define the risk response. Risk response refers to the process of managing identified risks. It’s a planning and decision-making process where the risk managers decide how to deal with each risk. While performing the assessment, you can view detailed reference information on the Contextual side panel. This panel provides information for the risk events, open issues, key indicator breaches, control test results, and control indicator failures.
 
 If the risk assessment in being performed by an assessor's delegate, the **Assessor's delegates** field shows the delegate's name.
 
@@ -78,7 +78,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
 6.  For the Control assessment, do one of the following:
 
-    -   To assess the effectiveness of the controls, respond to all the control assessment [[factors|factors]].
+    -   To assess the effectiveness of the controls, respond to all the control assessment factors.
     -   To proceed without assessing the mitigating controls, select the **Control assessment not applicable** option.
     -   To assess the control environment without adding controls, select **I would like to change the computed score** option and refer to step 8.
     You can also change the computed control effectiveness results by providing a justification for changing the score.
@@ -87,7 +87,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
     -   To add existing controls, select **Add**.
     -   To inherit common controls, select **Inherit common controls**.
-    -   To [[t_CreateAControl|create a control]], select the down-arrow next to the **Inherit common controls** button, and select **Create control**.
+    -   To create a control, select the down-arrow next to the **Inherit common controls** button, and select **Create control**.
     -   To add controls from control taxonomy, select the down-arrow next to the **Inherit common controls** button, and select **Create from control objectives**.
 8.  To assess the control environment without adding controls, do the following:
 
@@ -101,7 +101,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
     You can also change the computed residual score by providing a justification for changing the score.
 
-10. **Note:** The availability of the [[target-risk-assessment|target risk assessment]] on the assessment form depends on the conditions outlined in the RAM.
+10. **Note:** The availability of the target risk assessment on the assessment form depends on the conditions outlined in the RAM.
 
     To assess the desired risk level that you want to achieve in the future, select **Next** and respond to the factors in the target assessment.
 
@@ -137,7 +137,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
     1.  Select **Create issue**.
 
-    2.  On the [[create-an-issue-form-mrm|Create an issue form]], fill in the required details.
+    2.  On the Create an issue form, fill in the required details.
 
     3.  Select **Save**.
 
@@ -172,14 +172,3 @@ The assessment is sent to the approver and the approval workflow starts.
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[risk-workspace|risk workspace]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-response|risk response]]
-- [[factors|factors]]
-- [[t_CreateAControl|Create a control]]
-- [[target-risk-assessment|target risk assessment]]
-- [[create-an-issue-form-mrm|Create an issue form]]

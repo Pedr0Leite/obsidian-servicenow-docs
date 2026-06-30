@@ -42,10 +42,7 @@ Role required: glas\_admin or admin
 
 ## What to do next
 
-Run [[r-discovery|discovery]] again to begin data collection in V2. To verify data population, navigate to **All** &gt; **Oracle GLAS Data Collection** &gt; **GLAS V2 - Databases** and check the **Content** field. To download the collected data, see [Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/download-oracle-glas-data.md).
+Run discovery again to begin data collection in V2. To verify data population, navigate to **All** &gt; **Oracle GLAS Data Collection** &gt; **GLAS V2 - Databases** and check the **Content** field. To download the collected data, see [Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/download-oracle-glas-data.md).
 
 **Parent Topic:**[Oracle GLAS data collection using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

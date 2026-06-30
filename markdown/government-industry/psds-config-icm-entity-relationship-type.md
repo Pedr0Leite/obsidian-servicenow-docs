@@ -16,7 +16,7 @@ As an admin, you can add or remove relationship types used to classify the relat
 
 ## About this task
 
-For more information about relating entities to a case, see [[psds-using-icm-add-entities|Add entities to an investigative case]].
+For more information about relating entities to a case, see [Add entities to an investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md).
 
 ## Before you begin
 
@@ -39,10 +39,5 @@ The relationship type definition is now created, and will display in the relatio
 
 ## What to do next
 
-An investigator can use this relationship type to define the relationship between an entity record and a case, or between two entities. For more information on how to link entities to a case, see [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]]. For more information on how to link entities to each other, see [[psds-using-icm-associate-entites|Associate and link multiple entities]].
+An investigator can use this relationship type to define the relationship between an entity record and a case, or between two entities. For more information on how to link entities to a case, see [Associate and link evidence to entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-associate-evidence-entities.md). For more information on how to link entities to each other, see [Associate and link multiple entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-associate-entites.md).
 
-## Related
-
-- [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]]
-- [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]]
-- [[psds-using-icm-associate-entites|Associate and link multiple entities]]

@@ -14,11 +14,11 @@ breadcrumb: [Use, Workplace Lease Administration, Workplace Service Delivery, Em
 
 # Working with Workplace Lease Administration from the Core UI
 
-Create and [[manage-lease-contracts|manage workplace contracts]] from **Core UI**.
+Create and manage workplace contracts from **Core UI**.
 
 ## Access Workplace Lease Administration from Core UI
 
-To access [[workplace-lease-admin-feat|Workplace Lease Administration]], navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
+To access Workplace Lease Administration, navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 For information about installing Workplace Lease Administration, see [Activate Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/install-lease-administration.md).
 
@@ -31,7 +31,3 @@ As a lease administrator or manager, you can approve or reject a workplace contr
 
 **Parent Topic:**[Using Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/use-lease-administration.md)
 
-## Related
-
-- [[manage-lease-contracts|Manage workplace contracts]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

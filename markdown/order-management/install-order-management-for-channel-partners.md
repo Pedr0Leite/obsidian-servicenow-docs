@@ -12,13 +12,13 @@ breadcrumb: [Configure Partner Relationship Management, Configure, Sales Custome
 
 # Install Order Management for Channel Partners
 
-Install the [[explore-order-management|Order Management]] for Channel Partners plugin \(com.snc.partner\_relationship\_management\_orm\), along with the demo data and installations that are related to ServiceNow® Store applications and plugins.
+Install the Order Management for Channel Partners plugin \(com.snc.partner\_relationship\_management\_orm\), along with the demo data and installations that are related to ServiceNow® Store applications and plugins.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -83,19 +83,12 @@ Load the demo data after installing the Sales Common plugin.1.  Install Order Ma
 
 You have successfully installed the Order Management for Channel Partners \(com.snc.partner\_relationship\_management\_orm\) application.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[explore-order-management|Order management]]
-- [[use-cases|Use cases]]

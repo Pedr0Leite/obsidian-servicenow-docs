@@ -14,14 +14,14 @@ breadcrumb: [Day 1 setup guide for Google Cloud through Cloud Services Catalog T
 
 # Specify the credentials that CSC Terraform Connector uses to access Google Cloud Platform data
 
-To securely access data on your provider account, the [[r-discovery|Discovery]] process must present appropriate credentials. To make the credentials available to Discovery, you open the Google Cloud Console to identify the Google Cloud Platform project that will have programmatic access to your Google Cloud Platform data. You then securely store the credentials in a service account in your instance.
+To securely access data on your provider account, the Discovery process must present appropriate credentials. To make the credentials available to Discovery, you open the Google Cloud Console to identify the Google Cloud Platform project that will have programmatic access to your Google Cloud Platform data. You then securely store the credentials in a service account in your instance.
 
 ## Before you begin
 
 Roles required:
 
 -   Operations in the Google Cloud Console require the Google administrator role.
--   Operations in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] require the sn\_cmp.cloud\_admin role.
+-   Operations in Cloud Provisioning and Governance require the sn\_cmp.cloud\_admin role.
 
 ## About this task
 
@@ -41,11 +41,11 @@ Cloud providers often use different names for accounts, regions, and credential 
 
     Specify the **JSON** key type.
 
-5.  Identify the credentials that Google Cloud, Discovery, and the [[csc-home|Cloud Services Catalog]] \(CSC\) Terraform Connector should use on your instance to access data from the Google Cloud Platform.
+5.  Identify the credentials that Google Cloud, Discovery, and the Cloud Services Catalog \(CSC\) Terraform Connector should use on your instance to access data from the Google Cloud Platform.
 
     1.  Open the JSON key file in a text editor.
 
-    2.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Credentials**, click **New** and then select **Google Credentials**.
+    2.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Credentials**, click **New** and then select **Google Credentials**.
 
     3.  Specify the **Name** of the credentials to register with the instance.
 
@@ -55,9 +55,4 @@ Cloud providers often use different names for accounts, regions, and credential 
 
     4.  Select the **Active** check box to use the credentials and then click **Submit**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

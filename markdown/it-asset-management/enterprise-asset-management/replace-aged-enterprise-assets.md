@@ -55,11 +55,11 @@ Action
 
 </td></tr><tr><td id="d272949e115">
 
-**[[using-eam-workspace|Enterprise Asset Workspace]]**
+**Enterprise Asset Workspace**
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **[[procurement-view|Procurement view]]**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Procurement view**.
 2.  Select the **Requests** tab.
 3.  Select the request number of the enterprise asset refresh request that you want to fulfill.
 
@@ -68,7 +68,7 @@ Action
 </table>    After your enterprise asset refresh request is approved, the following events happen:
 
     -   The Source Request flow is triggered to source new assets.
-    -   In the **Catalog Tasks** tab, a catalog task is created for the [[c_Procurement|procurement]] of the new enterprise asset.
+    -   In the **Catalog Tasks** tab, a catalog task is created for the procurement of the new enterprise asset.
 2.  Under the Requested Item related list, open a requested item.
 
     After your enterprise asset request is approved, the Source Request flow is triggered. Under the Catalog tasks related list, a catalog task is created for the procurement of the new enterprise assets.
@@ -153,8 +153,3 @@ After the aged enterprise asset is reclaimed, the following changes happen on th
 -   The state of the aged asset changes to In stock.
 -   The substate changes to Pending disposal.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[procurement-view|Procurement view]]
-- [[c_Procurement|Procurement]]

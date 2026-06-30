@@ -23,7 +23,7 @@ Use the stack plan to get a visual overview of the spaces in a building grouped 
 -   **[Manage neighborhoods using Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-neighborhoods-central.md)**  
 As a space planner, create and manage neighborhoods to assign groups of spaces for your organization's employees.
 -   **[Manage spaces using Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-spaces.md)**  
-As a space planner, manage the spaces, their assignments, and their allocations using the [[space-planning|Space Planning]] module.
+As a space planner, manage the spaces, their assignments, and their allocations using the Space Planning module.
 -   **[Manage workplace profiles using Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-users.md)**  
 Manage the workplace user profiles, their details, and their assignments using the Space Planning module.
 -   **[Manage scenarios using Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-scenarios.md)**  
@@ -50,6 +50,3 @@ Create, copy, or delete space planning scenarios.
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[space-planning|Space Planning]]

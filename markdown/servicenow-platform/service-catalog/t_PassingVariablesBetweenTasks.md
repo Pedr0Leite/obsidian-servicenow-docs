@@ -24,7 +24,7 @@ Role required: admin
 
 Variables can be processed by any workflow or execution plan that is associated with the requested items.
 
-**Note:** To pass a variable between tasks, select the **Global** [[check-box|check box]] when you [create a Service Catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md).
+**Note:** To pass a variable between tasks, select the **Global** check box when you [create a Service Catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md).
 
 For example, consider the following tasks within the fulfillment process for a New PC catalog item.
 
@@ -34,7 +34,7 @@ For example, consider the following tasks within the fulfillment process for a N
 
 2.  Install corporate standard software.
 
-3.  Set up [[email|email]] account.
+3.  Set up email account.
 
 4.  Deliver and set up PC for requester.
 
@@ -43,7 +43,3 @@ For example, consider the following tasks within the fulfillment process for a N
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[email|Email]]

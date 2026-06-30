@@ -15,20 +15,20 @@ breadcrumb: [Virtual agent flows, Using Supplier Collaboration Portal in APO, Us
 
 # Configure the chat channel
 
-Activate the virtual agent chatbot \(chat channel\) in the [[supplier|supplier]] portal for suppliers to complete [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] related self-service tasks.
+Activate the virtual agent chatbot \(chat channel\) in the supplier portal for suppliers to complete Accounts Payable Operations related self-service tasks.
 
 ## Before you begin
 
 Activate the following plugins for the chat channel in the supplier portal to be available to access predefined conversation topics:
 
 -   The Virtual Agent \(com.glide.cs.chatbot\)
--   [[advanced-work-assignment|Advanced Work Assignment]] with Supplier life cycle Operations \(com.snc.sn\_slm\_awa\)
+-   Advanced Work Assignment with Supplier life cycle Operations \(com.snc.sn\_slm\_awa\)
 
 Role required: Accounts payable specialist, Accounts payable agent, supplier.
 
 ## Procedure
 
-1.  Navigate to **[[supplier-central|Supplier Collaboration Portal]]** &gt; **Chat window**.
+1.  Navigate to **Supplier Collaboration Portal** &gt; **Chat window**.
 
 2.  Choose a flow, which you want to view.
 
@@ -37,9 +37,3 @@ Role required: Accounts payable specialist, Accounts payable agent, supplier.
 
 **Parent Topic:**[Virtual agent flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/virtual-agent-flows.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

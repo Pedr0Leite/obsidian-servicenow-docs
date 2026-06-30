@@ -14,21 +14,16 @@ breadcrumb: [Document Templates, HR Documents, HR Service Delivery, Employee Ser
 
 # Using Document Templates
 
-Learn how to use [[document-templates-overview|Document Templates]].
+Learn how to use Document Templates.
 
 -   **[Using Document Templates: HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/understanding-doc-templates.md)**  
-Learn how to use Document Templates along with the [[hr-service-delivery|HR Service Delivery]] application.
+Learn how to use Document Templates along with the HR Service Delivery application.
 -   **[Using Document Templates: Custom use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/doc-temp-gen.md)**  
 Understand how to use Document Templates outside of HR Service Delivery.
 -   **[Working on a document task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)**  
-Complete your document tasks from [[employee-center-landing-page|Employee Center]].
+Complete your document tasks from Employee Center.
 -   **[Using Guided Tours in Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/guided-tours-doc-temp.md)**  
 Use Guided Tours in Document Templates to get instructions on how to create a document template.
 
 **Parent Topic:**[HR Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-esigning-app.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

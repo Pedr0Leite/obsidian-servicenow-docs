@@ -29,7 +29,7 @@ Role required:
 
 2.  In Action 2, the playbook looks up the Task Observable records on the table `sn_ti_m2m_task_observable` that match the incident based on the Message ID.
 
-3.  In Action 3, the playbook compares the Task [[c_Observables|Observables]] and Email body using the Levenshtein algorithm for incidents that matched the Message ID.
+3.  In Action 3, the playbook compares the Task Observables and Email body using the Levenshtein algorithm for incidents that matched the Message ID.
 
 4.  In Action 4, based on the investigation done so far, the playbook checks whether the matching incident is found based on the Message ID or not.
 
@@ -54,6 +54,3 @@ Role required:
 
 **Parent Topic:**[Playbook for Repeat Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-repeat-detection.md)
 
-## Related
-
-- [[c_Observables|Observables]]

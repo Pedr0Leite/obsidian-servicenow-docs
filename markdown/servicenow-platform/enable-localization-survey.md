@@ -12,7 +12,7 @@ breadcrumb: [Survey distribution, Survey administration, Use surveys, Surveys, A
 
 # Enable localization for a survey
 
-Enable a survey user to [[t_TakeASurvey|take a survey]] in multiple languages.
+Enable a survey user to take a survey in multiple languages.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 The plugin for the language that you want the survey to be available in should be installed.
 
-**Note:** Localization is applicable only for public [[r_SurveyManagementLandingPage|surveys]].
+**Note:** Localization is applicable only for public surveys.
 
 ## Procedure
 
@@ -38,12 +38,12 @@ The plugin for the language that you want the survey to be available in should b
 
 6.  Save and publish the survey.
 
-    **Note:** The localization is also applicable in Service Portal if the **Assessment Properties Allow survey link from [[email|email]] to open in service portal view \(applies only for surveys\)** \(**sn\_portal\_surveys.sp\_survey.email\_redirection**\) property is enabled.
+    **Note:** The localization is also applicable in Service Portal if the **Assessment Properties Allow survey link from email to open in service portal view \(applies only for surveys\)** \(**sn\_portal\_surveys.sp\_survey.email\_redirection**\) property is enabled.
 
     -   The survey is available for survey users in the translated language.
     -   Users can change the language of the survey using the language picker.
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -64,12 +64,5 @@ The plugin for the language that you want the survey to be available in should b
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[c_SurveyDistribution|Survey distribution]]
-- [[t_TakeASurvey|Take a survey]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[email|Email]]
-- [[c_Collaboration|Connect Chat]]

@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View metric charts in Agent Workspace
 
-Agent Workspace for [[operational-metrics|Metric Intelligence]] provides easy access to metric charts for a CI. On an alert form, you can drill down to important metric charts for the CI that is associated with the alert.
+Agent Workspace for Metric Intelligence provides easy access to metric charts for a CI. On an alert form, you can drill down to important metric charts for the CI that is associated with the alert.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ All metric charts that are configured for the CI associated with the alert, and 
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

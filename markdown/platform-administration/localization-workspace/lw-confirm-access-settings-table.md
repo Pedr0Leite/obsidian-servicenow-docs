@@ -14,13 +14,13 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Confirm access to Settings table
 
-As part of the configuration for [[localization-workspace|Localization Workspace]], confirm access to the Settings table of [[localization-framework-landing|Localization Framework]].
+As part of the configuration for Localization Workspace, confirm access to the Settings table of Localization Framework.
 
 ## Before you begin
 
 Localization Framework must be installed. It is included with Localization Workspace if not already installed.
 
-Role required: admin. The [[ia-localization-il|Localization]] admin role \(localization\_admin\) can't complete this procedure.
+Role required: admin. The Localization admin role \(localization\_admin\) can't complete this procedure.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Localization Workspace requires access to a Localization Framework table, Settin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **Tables**.
+1.  Navigate to **All** &gt; **System Definitions** &gt; **Tables**.
 
 2.  In the **Name** field, search for `sn_lf_setting`.
 
@@ -41,9 +41,3 @@ Localization Workspace requires access to a Localization Framework table, Settin
 
 **Parent Topic:**[Configuring Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

@@ -14,10 +14,10 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Remote Hands Request
 
-Use [[remote-hands-request-management|Remote Hands Request Management]] to enables customers to request services for equipment housed in your datacenter by connecting them directly with your onsite agents handling the remote hands requests.
+Use Remote Hands Request Management to enables customers to request services for equipment housed in your datacenter by connecting them directly with your onsite agents handling the remote hands requests.
 
 -   **[Submit a Remote Hands Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/submit-remote-hands-request.md)**  
-[[submit-remote-hands-request|Submit a Remote Hands Request]]. Create a case record and see how customers track status and updates.
+Submit a Remote Hands Request. Create a case record and see how customers track status and updates.
 -   **[Update a Remote Hands Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update-a-remote-hands-request.md)**  
 Update a Remote Hands requests within the CSM/FSM Configurable Workspace.
 
@@ -28,7 +28,3 @@ Update a Remote Hands requests within the CSM/FSM Configurable Workspace.
 
 [Remote Hands Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remote-hands-request-management.md)
 
-## Related
-
-- [[remote-hands-request-management|Remote Hands Request Management]]
-- [[submit-remote-hands-request|Submit a Remote Hands Request]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey designer, Employee Journey Management, HR Servic
 
 # Install Journey designer
 
-Install the [[jny-dsgnr-landing-page-1|Journey designer]] version 3 \[sn\_jny\] application to enable administrators and managers to create and manage various professional and personal events and journeys.
+Install the Journey designer version 3 \[sn\_jny\] application to enable administrators and managers to create and manage various professional and personal events and journeys.
 
 ## Before you begin
 
@@ -23,9 +23,9 @@ Install the [[jny-dsgnr-landing-page-1|Journey designer]] version 3 \[sn\_jny\] 
 Dependent plugins and apps for Journey designer:
 
 -   Human Resources Scoped App: Core \[com.sn\_hr\_core\]
--   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\]
--   [[employee-center-pro-landing|Employee Center Pro]] 28.2.1 \[sn\_ex\_sp\_pro\]
--   [[journey-accelerator-1|Journey Accelerator]] 6.2.2 \[sn\_ja\]
+-   Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\]
+-   Employee Center Pro 28.2.1 \[sn\_ex\_sp\_pro\]
+-   Journey Accelerator 6.2.2 \[sn\_ja\]
 -   Admin Experience Framework 2.1.3
 
 Role required: admin.
@@ -59,9 +59,3 @@ Journey designer must be installed as a store application.
 
 **Parent Topic:**[Installation and configuration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-inst-config-overview.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[journey-accelerator-1|Journey Accelerator]]

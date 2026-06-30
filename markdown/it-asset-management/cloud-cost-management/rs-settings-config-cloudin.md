@@ -28,7 +28,7 @@ Role required: insights\_admin or insights\_owner
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
 
 2.  Select **Settings**.
 
@@ -60,7 +60,7 @@ After resize, exclude resource for \(days\)
 
 Number of days to place a resized resource in the Excluded Resources list. During this monitoring period, you can’t remove the resource from the Excluded Resources list.
 
- [[cloud-insights-landing-page|Cloud Cost Management]] monitors resized resources for the specified period to verify that the new size is appropriate. When the period expires, the resource is removed from the list and rightsizing analysis resumes.
+ Cloud Cost Management monitors resized resources for the specified period to verify that the new size is appropriate. When the period expires, the resource is removed from the list and rightsizing analysis resumes.
 
  **Note:** Microsoft Azure only: The Azure Advisor service begins to analyze usage and may again recommend resizing after seven days regardless of this setting. If you specify a value greater than seven days, the Cloud Cost Management doesn’t report the Azure Advisor recommendation for the time period that you specify.
 
@@ -149,7 +149,3 @@ To enable accurate memory usage data for use in generating Rightsizing recommend
 
 **Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/resize-res-ci.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

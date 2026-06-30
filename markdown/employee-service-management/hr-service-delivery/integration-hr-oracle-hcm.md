@@ -18,7 +18,7 @@ The ServiceNow® HR Service Delivery integration with Oracle Cloud HCM applicati
 
 ## Application setup
 
-First, you must activate the HR Service Delivery integration with Oracle Cloud HCM \[sn\_hr\_oracle\_hcm\] application, from the ServiceNow Store. This automatically activates the Oracle HCM Cloud spoke \[sn\_oracle\_hcm\_spoke\] and the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \[sn\_hr\_integr\_fw\].
+First, you must activate the HR Service Delivery integration with Oracle Cloud HCM \[sn\_hr\_oracle\_hcm\] application, from the ServiceNow Store. This automatically activates the Oracle HCM Cloud spoke \[sn\_oracle\_hcm\_spoke\] and the Enterprise Service Management Integrations Framework \[sn\_hr\_integr\_fw\].
 
 For next steps, see [Configuring HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-oracle-hcm.md).
 
@@ -40,7 +40,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

@@ -22,11 +22,11 @@ Role required: sn\_imt\_tracing.badge\_manager
 
 ## About this task
 
-You can also [[import-badge-register-data|import your badge reader data from an Excel spreadsheet]]. For more information, see [Easy import data from a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_EasyImport.md).
+You can also import your badge reader data from an Excel spreadsheet. For more information, see [Easy import data from a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_EasyImport.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Badge Management** &gt; **Badge Readers**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Badge Management** &gt; **Badge Readers**.
 
 2.  To add details of a new badge reader device, click **New**, or select an existing badge reader to edit the details.
 
@@ -47,7 +47,3 @@ You can also [[import-badge-register-data|import your badge reader data from an 
 
 **Parent Topic:**[Collecting user badge data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/badge-management.md)
 
-## Related
-
-- [[import-badge-register-data|Import your badge reader data from an Excel spreadsheet]]
-- [[contact-tracing|Contact Tracing]]

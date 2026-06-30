@@ -67,8 +67,5 @@ The **Actions** button is a drop-down menu that includes the following options.
     -   **OS Detection**: Use with caution, especially in production environments. This query can disrupt or crash poorly configured or sensitive assets. Queries Linux / Windows endpoint for any discoverable services.
     \[Omitted image "default-auto-queries-new.png"\] Alt text: Create default auto queries
 
--   **Quick Scans**: When selected, this selection displays a list of any current Quick Scans. You can create a Quick Scan by selecting the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:. Set the parameters of the Quick Scan in the Create Quick Scan page. Quick Scans are meant to run quickly and only once. Quick Scan targets can be assets selected by their URLs, IP Addresses, or IP ranges. See [[create-quick-scan|Create a Quick Scan]] for more information on Quick Scans.
+-   **Quick Scans**: When selected, this selection displays a list of any current Quick Scans. You can create a Quick Scan by selecting the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:. Set the parameters of the Quick Scan in the Create Quick Scan page. Quick Scans are meant to run quickly and only once. Quick Scan targets can be assets selected by their URLs, IP Addresses, or IP ranges. See [Create a Quick Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/create-quick-scan.md) for more information on Quick Scans.
 
-## Related
-
-- [[create-quick-scan|Create a Quick Scan]]

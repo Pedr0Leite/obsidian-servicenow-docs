@@ -12,7 +12,7 @@ breadcrumb: [Setting up project oversight conditions and decision rules, Configu
 
 # Configure project oversight for domain orders
 
-Specify the conditions and decision [[rules_101|rules]] that qualify domain orders for project oversight. You also specify the project template task used by [[explore-order-management|Order Management]] to create the project for domain orders.
+Specify the conditions and decision rules that qualify domain orders for project oversight. You also specify the project template task used by Order Management to create the project for domain orders.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Use the Project Management Oversight for Domain Order Decision Builder to add or
 
     1.  Select **Add Condition column**.
 
-    2.  On the form, fill in the [[fields|fields]].
+    2.  On the form, fill in the fields.
 
 <table id="table_uky_vvw_zxb"><thead><tr><th>
 
@@ -109,7 +109,7 @@ How every row in the condition column evaluates a user-specified value. A defaul
 
     1.  Select the **Add** action and enter the conditions and project template task to be used.
 
-        **Note:** If there are duplicate project template tasks that have the same **Short description**, it may be difficult to identify and select the appropriate project template tasks. For details on differentiating between similar project template tasks, see [[Determining-correct-project-task-template|Choosing a project template task when duplicates exist]].
+        **Note:** If there are duplicate project template tasks that have the same **Short description**, it may be difficult to identify and select the appropriate project template tasks. For details on differentiating between similar project template tasks, see [Choosing a project template task when duplicates exist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/Determining-correct-project-task-template.md).
 
     2.  Select **Save**.
 
@@ -120,9 +120,3 @@ How every row in the condition column evaluates a user-specified value. A defaul
 
 The system uses the specified project template task to create projects for domain orders that match the conditions and decision rules defined in the Project Oversight for Domain Order decision table.
 
-## Related
-
-- [[Determining-correct-project-task-template|Choosing a project template task when duplicates exist]]
-- [[rules_101|Rules]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

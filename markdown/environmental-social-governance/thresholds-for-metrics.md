@@ -14,11 +14,11 @@ breadcrumb: [Exploring GRC: Metrics, GRC: Metrics, Operational Sustainability Ma
 
 In the context of metrics, thresholds refer to predetermined values or limits used to assess the performance of a metric. These thresholds are typically defined based on specific criteria or objectives and serve as reference points to determine whether the measured value or performance meets, exceeds, or falls below the desired level.
 
-Thresholds use color-coded indicators to signify different levels of performance or status. These colors help users quickly assess metric performance at a glance. While green traditionally signifies the metric is performing well, amber signals caution, and red signifies a critical situation, you can now customize colors for each threshold level to match your organization's monitoring requirements. ESG administrators, ESG program managers, and [[esg-metrics|ESG metrics]] managers can define multiple threshold levels and assign unique colors to each level for precise performance monitoring. For example, you can create a threshold to monitor pollution levels. Using the condition builder, you can define when threshold breaches occur, such as when pollution values exceed 100 units or fall between 50 and 75 units. Each threshold level can be assigned a unique color to provide visual indicators in dashboards, list pages, and record pages. When pollution data meets these conditions, the system triggers configured actions. Thresholds only apply to quantitative metrics.
+Thresholds use color-coded indicators to signify different levels of performance or status. These colors help users quickly assess metric performance at a glance. While green traditionally signifies the metric is performing well, amber signals caution, and red signifies a critical situation, you can now customize colors for each threshold level to match your organization's monitoring requirements. ESG administrators, ESG program managers, and ESG metrics managers can define multiple threshold levels and assign unique colors to each level for precise performance monitoring. For example, you can create a threshold to monitor pollution levels. Using the condition builder, you can define when threshold breaches occur, such as when pollution values exceed 100 units or fall between 50 and 75 units. Each threshold level can be assigned a unique color to provide visual indicators in dashboards, list pages, and record pages. When pollution data meets these conditions, the system triggers configured actions. Thresholds only apply to quantitative metrics.
 
 **Important:**
 
-Threshold fields and metric status are not evaluated for ad hoc metric data tasks. For more information, see [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]].
+Threshold fields and metric status are not evaluated for ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ad-hoc-metric-data-task-limitations.md).
 
 ## Types of thresholds
 
@@ -30,13 +30,7 @@ The two types of threshold for a metric are static and dynamic:
 **Related topics**  
 
 
-[[create-a-threshold-for-a-metric|Create a threshold for a metric]]
+[Create a threshold for a metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-threshold-for-a-metric.md)
 
-[[copy-thresholds|Copy a threshold]]
+[Copy a threshold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/copy-thresholds.md)
 
-## Related
-
-- [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]]
-- [[create-a-threshold-for-a-metric|Create a threshold for a metric]]
-- [[copy-thresholds|Copy a threshold]]
-- [[esg-metrics|esg metrics]]

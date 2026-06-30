@@ -85,7 +85,7 @@ The base system provides the following quick filters for each response task:
 
 
 -   **[Add or modify quick filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add_quick_filters.md)**  
-[[add_quick_filters|Add or modify quick filters]] for security incidents or response tasks within the list view.
+Add or modify quick filters for security incidents or response tasks within the list view.
 
 **Parent Topic:**[List view in SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setting-up-list-view-in-analyst-workspace.md)
 
@@ -108,6 +108,3 @@ The base system provides the following quick filters for each response task:
 
 [Manage Shift Handover records]()
 
-## Related
-
-- [[add_quick_filters|Add or modify quick filters]]

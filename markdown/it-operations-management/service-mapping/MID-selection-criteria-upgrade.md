@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration for Service Mapping, Configuring Service M
 
 # MID Server configuration for Service Mapping in upgraded deployments
 
-For ServiceNow deployments upgraded from earlier versions to Istanbul, [[c_ServiceMappingOverview|Service Mapping]] uses the legacy algorithm to choose a MID Server for a [[r-discovery|discovery]] request.
+For ServiceNow deployments upgraded from earlier versions to Istanbul, Service Mapping uses the legacy algorithm to choose a MID Server for a discovery request.
 
 MID Servers have the following selection criteria that Service Mapping in upgraded deployments uses to choose a MID Server for a discovery request:
 
@@ -45,7 +45,3 @@ While by default Service Mapping uses the legacy algorithm in upgraded deploymen
 
 [Configure an IP address range for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureMIDIPRange.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

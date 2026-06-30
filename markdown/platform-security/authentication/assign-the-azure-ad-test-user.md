@@ -26,7 +26,7 @@ Role required: Azure admin
 
 2.  From the applications list, select ServiceNow.
 
-3.  On the app's page,in the Manage section, select **[[users|Users]] and groups**.
+3.  On the app's page,in the Manage section, select **Users and groups**.
 
 4.  Select **Add user**.
 
@@ -38,6 +38,4 @@ Role required: Azure admin
 
 8.  In the **Add Assignment** window, select **Assign**.
 
-## Related
 
-- [[users|Users]]

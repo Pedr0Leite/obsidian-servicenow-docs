@@ -12,7 +12,7 @@ breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance
 
 # Roles installed with Operational Resilience
 
-Several types of roles are installed with the [[grc-opres-landing-page|Operational Resilience]] application.
+Several types of roles are installed with the Operational Resilience application.
 
 ## Roles that are installed with Operational Resilience
 
@@ -33,7 +33,7 @@ Operational Resilience administrator\[sn\_oper\_res.admin\]
 </td><td>
 
 The Operational Resilience administrator is responsible for:-   Configuring scenarios
--   Setting up [[entity-type-in-risk-ws|entity types]], [[what-is-an-entity-filter|entity filters]], and reporting pillars based on dashboard requests from the business teams.
+-   Setting up entity types, entity filters, and reporting pillars based on dashboard requests from the business teams.
 -   Customizing reports on the Operational Resilience dashboard.
 
  The Operational Resilience administrator should have the ITIL role to add the CMDB relationship between the service and the process.
@@ -42,7 +42,7 @@ The Operational Resilience administrator role contains the following roles:
 
 -   sn\_grc.admin
 -   sn\_oper\_res.manager
--   Contains sn\_grc\_case\_mgmt.grc\_case\_admin, who inherits the ability to set up the vulnerability type, state models, vulnerability [[airc-assessment-templates|assessment templates]], and document templates.
+-   Contains sn\_grc\_case\_mgmt.grc\_case\_admin, who inherits the ability to set up the vulnerability type, state models, vulnerability assessment templates, and document templates.
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ The Operational Resilience Manager role contains the following roles:
 -   sn\_compliance.reader
 -   sn\_oper\_res.user
 -   sn\_risk.reader
--   Contains sn\_grc\_case\_mgmt.grc\_case\_manager, who inherits the ability to submit [[exploring-op-vul|operational vulnerability]] \(A type of case\).
+-   Contains sn\_grc\_case\_mgmt.grc\_case\_manager, who inherits the ability to submit operational vulnerability \(A type of case\).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ sn\_oper\_res.operational\_resilience\_business\_user
 
 </td><td>
 
-Submits "Report operational vulnerability" from the [[employee-center|employee center]] from: instancename/esc?id=emp\_taxonomy\_topic&amp;topic\_id=14aedd93a314121051b1ab18951e6150&amp;in\_context=true
+Submits "Report operational vulnerability" from the employee center from: instancename/esc?id=emp\_taxonomy\_topic&amp;topic\_id=14aedd93a314121051b1ab18951e6150&amp;in\_context=true
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ The Integrated Risk Management \(IRM\) Operational Resilience User role cannot a
 -   sn\_grc.reader
 -   sn\_oper\_res.user
 
- The following user roles are contained only when [[r_PolicyComplianceMgmt|policy and compliance management]] and risk management are installed:
+ The following user roles are contained only when policy and compliance management and risk management are installed:
 
 -   sn\_compliance.reader
 -   sn\_risk.reader
@@ -218,7 +218,7 @@ BCM
 
 </td><td rowspan="3">
 
-The sn\_bcm.viewer role is required to access the [[bcm-workspace|BCM Configurable Workspace]].​
+The sn\_bcm.viewer role is required to access the BCM Configurable Workspace.​
 
  A user with the sn\_oper\_res.bcm\_opres\_user+ role can access both Operational Resilience Workspace and BCM Configurable Workspace.
 
@@ -248,7 +248,7 @@ IRM
 
 </td><td rowspan="3">
 
-A user with the sn\_oper\_res.irm\_opres\_user+​ role can access the Operational Resilience Workspace, but cannot access the Compliance Workspace and [[risk-workspace|Risk Workspace]]. ​
+A user with the sn\_oper\_res.irm\_opres\_user+​ role can access the Operational Resilience Workspace, but cannot access the Compliance Workspace and Risk Workspace. ​
 
  Extra roles are needed to access the Compliance Workspace and Risk Workspace.
 
@@ -332,10 +332,10 @@ The following roles are used for reporting incidents in the Digital resilience i
 
 For BCM Professional, the following mandatory applications are installed with Operational Resilience.
 
--   [[bcp-uib|Business Continuity Planning]] \(com.snc.bcm.app\_bcm\_planning\)
--   [[bia-uib|Business Impact Analysis]] \(com.snc.bcm.app\_bcm\_bia\)
+-   Business Continuity Planning \(com.snc.bcm.app\_bcm\_planning\)
+-   Business Impact Analysis \(com.snc.bcm.app\_bcm\_bia\)
 -   Crisis Management \(com.snc.bcm.app\_bcm\_exercise\)
--   [[data-relationship-framework|Data Relationships Framework]] \(com.sn\_app\_grc\_relationship\_config\)
+-   Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\)
 -   Optional: Vulnerability Response \(com.snc.vulnerability\)
 
 **Note:** BCM Professional customers cannot install the IRM plugins. As a result, the sn\_grc.reader, sn\_grc.manager, and sn\_grc.admin roles are not available with BCM Professional. To obtain these roles, install the IRM Professional plugins as described in the "Plugin dependencies for IRM Professional" section. User can perform the same Operational Resilience operations previously available through sn\_grc.reader, sn\_grc.manager, and sn\_grc.admin roles via feature roles.
@@ -344,7 +344,7 @@ For BCM Professional, the following mandatory applications are installed with Op
 
 For IRM Professional, the following applications are required and must be installed manually with Operational Resilience.
 
--   [[advanced-risk-assessment|Advanced Risk Assessment]] \(com.sn\_risk\_advanced\)
+-   Advanced Risk Assessment \(com.sn\_risk\_advanced\)
 -   Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\)
 -   Policy and Compliance Management \(com.sn\_compliance\)
 -   Risk Management \(com.sn\_risk\)
@@ -352,18 +352,3 @@ For IRM Professional, the following applications are required and must be instal
 
 **Note:** Installing the IRM Professional plugins also grants the sn\_grc.reader, sn\_grc.manager, and sn\_grc.admin roles.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[employee-center|employee center]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[risk-workspace|risk workspace]]
-- [[bcp-uib|Business continuity planning]]
-- [[bia-uib|Business impact analysis]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[advanced-risk-assessment|advanced risk assessment]]

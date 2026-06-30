@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # Using Service Reliability Management
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) enables you to register services, [[t_EMViewDashboard|monitor service health]], respond to service degradations with on-call shifts and escalation policies and triggers, and onboard distributed teams with minimal governance from central IT.
+Service Reliability Management \(SRM\) enables you to register services, monitor service health, respond to service degradations with on-call shifts and escalation policies and triggers, and onboard distributed teams with minimal governance from central IT.
 
 ## Basic Tasks in SRM
 
@@ -27,7 +27,3 @@ Alerts, incidents, and change requests are reliability tasks. From creation to r
 
 **Parent Topic:**[Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-landing-page.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[t_EMViewDashboard|Monitor service health]]

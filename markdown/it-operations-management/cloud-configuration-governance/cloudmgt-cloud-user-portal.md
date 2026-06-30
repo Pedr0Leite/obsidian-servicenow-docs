@@ -31,7 +31,7 @@ Use the Cloud User Portal to perform the following actions:
 
 <table id="table_azj_4ft_bx"><tbody><tr><td>
 
-[[cloudmgt-launch-stack|Launch a Stack]]
+Launch a Stack
 
 </td><td>
 
@@ -171,7 +171,3 @@ Stack requests, change requests, cloud life cycle events \(if configured\), and 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-launch-stack|Launch a stack]]

@@ -21,7 +21,7 @@ The **Details** tab of an incident pattern record is generated automatically.
 |Number|System-generated record number.|
 |Urgency|Level of severity.|
 |Pattern type|Common category identified during the pattern analysis.|
-|Confidence score|Measure of how significant and reliable the [[health-safety-overview|health and safety]] pattern is. The score is measured between 1–100.|
+|Confidence score|Measure of how significant and reliable the health and safety pattern is. The score is measured between 1–100.|
 |Assignment group|User group responsible to work on the pattern analysis This field isn’t auto-generated and can be edited.|
 |Assigned to|User responsible to work on the pattern analysis This field isn’t auto-generated and can be edited.|
 |Identified on|Date and time when the pattern record was created.|
@@ -29,6 +29,3 @@ The **Details** tab of an incident pattern record is generated automatically.
 |Pattern Summary|Generative AI summary of all the pattern values and statistics. Gives description of key details of the pattern.|
 |Recommendations|List of recommended actions to mitigate the pattern.|
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

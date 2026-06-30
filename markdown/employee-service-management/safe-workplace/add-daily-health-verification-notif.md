@@ -14,7 +14,7 @@ breadcrumb: [Employee Health Screening, Safe Workplace, Health and Safety, Emplo
 
 # Add an email notification for daily health verification
 
-Add an [[employee-readiness-surveys|Employee Readiness Surveys]] email notification to use for sending the survey link.
+Add an Employee Readiness Surveys email notification to use for sending the survey link.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Role required: admin
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-readiness-surveys|Employee Readiness Surveys]]

@@ -14,12 +14,12 @@ breadcrumb: [Conversational Analytics dashboard in Platform Analytics experience
 
 # Using the Conversational Analytics Dashboard
 
-Use the Conversational Analytics dashboard to get insights into [[virtual-agent-landing-page|Virtual Agent]] \(VA\) conversations.
+Use the Conversational Analytics dashboard to get insights into Virtual Agent \(VA\) conversations.
 
 The following sections explain how to use the dashboard to investigate VA interactions with users. You must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role to use the Conversational Analytics dashboard.
 
 -   **[Set the date range of the data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboad-pae.md)**  
-Set the date range using the date picker on the [[overview-tab-pae|Overview tab]] to view the data visualizations for the specified date range. The date range set on this tab applies to all the other tabs on the dashboard.
+Set the date range using the date picker on the Overview tab to view the data visualizations for the specified date range. The date range set on this tab applies to all the other tabs on the dashboard.
 -   **[Overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/overview-tab-pae.md)**  
 Use the Overview tab to view key indicators that help you evaluate the performance of Virtual Agent.
 -   **[Usage tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/usage-tab-pae.md)**  
@@ -35,7 +35,7 @@ Use the **NLU Prediction** tab to see how well NLU predicts intents, and to impr
 -   **[Using user search metrics with Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/user-search-metrics-tab-pae.md)**  
 By using user search metrics with the Virtual Agent application, you can see your users' queries and the results from their searches. With these metrics, you can identify the areas where you can improve Virtual Agent to offer more meaningful search results.
 -   **[Custom Events tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/custom-events-tab-pae.md)**  
-Use the [[custom-events-tab-pae|Custom Events tab]] to view the list of custom events created for Virtual Agent.
+Use the Custom Events tab to view the list of custom events created for Virtual Agent.
 -   **[Funnels tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/funnels-tab-pae.md)**  
 Funnels provide cumulative filtering of conversation flows. Using funnels, you can identify whether your conversation flows are performing effectively when users chat with Virtual Agent.
 -   **[Issue auto-resolution tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/dashboard-auto-resolution-pae.md)**  
@@ -43,8 +43,3 @@ The **Issue auto-resolution** tab helps you understand how well your Virtual Age
 
 **Parent Topic:**[Conversational Analytics dashboard in Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[overview-tab-pae|Overview tab]]
-- [[custom-events-tab-pae|Custom Events tab]]

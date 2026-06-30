@@ -14,7 +14,7 @@ breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
 
 # Create a universal task
 
-Create a universal task for a request and assign it to the employee or create multiple tasks for a request by [[use-universal-task|using Universal Task]].
+Create a universal task for a request and assign it to the employee or create multiple tasks for a request by using Universal Task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Configurable by your service
 
 ## About this task
 
-[[universal-task-landing|Universal Task]] agents, as configured in [Define the agent criteria for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-extn-point-agent.md) can create a new universal task using the UI action available on the ticket page.
+Universal Task agents, as configured in [Define the agent criteria for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-extn-point-agent.md) can create a new universal task using the UI action available on the ticket page.
 
 **Note:** To control the access for creating a task, configure the visibility of the UI action for creating Universal Task. For more information, see [Create UI actions for your service with Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-uiactions-for-ut.md).
 
@@ -56,7 +56,3 @@ Agent experience: You can now view or edit the task. You can also add more tasks
 
 **Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 
-## Related
-
-- [[use-universal-task|Using Universal Task]]
-- [[universal-task-landing|Universal Task]]

@@ -13,7 +13,7 @@ breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
 
 # Components installed with Now Assist Center
 
-Several components are installed with the [[now-assist-center-landing-page|Now Assist Center]] application.
+Several components are installed with the Now Assist Center application.
 
 ## Roles installed
 
@@ -22,7 +22,7 @@ The following roles are installed with Now Assist Center.
 -   Now Assist Center admin \[sn\_na\_center.nac\_admin\]
 -   Now Assist Center user \[sn\_na\_center.nac\_user\]
 
-For information on the roles installed with Now Assist Center, see [[now-assist-center-roles|Now Assist Center roles]].
+For information on the roles installed with Now Assist Center, see [Now Assist Center roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-roles.md).
 
 ## Tables installed
 
@@ -46,7 +46,7 @@ nac\_aitool
 
 </td></tr><tr><td>
 
-[[now-assist-global-navigation|Navigation]] Item
+Navigation Item
 
 </td><td>
 
@@ -69,21 +69,14 @@ Now Assist Center Promoted Skills State
 nac\_promoted\_skill\_state
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[now-assist-center-reference|Now Assist Center reference]]
+</table>**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Domain separation and [[platform-now-assist-landing|Now Assist]] Center]()
+[Domain separation and Now Assist Center]()
 
 [Now Assist Center glossary]()
 
 [Now Assist Center roles]()
 
-## Related
-
-- [[now-assist-center-roles|Now Assist Center roles]]
-- [[now-assist-center-reference|Now Assist Center reference]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-global-navigation|Navigation]]
-- [[platform-now-assist-landing|Now Assist]]

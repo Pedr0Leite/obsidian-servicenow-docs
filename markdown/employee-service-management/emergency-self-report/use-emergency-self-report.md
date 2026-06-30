@@ -14,7 +14,7 @@ breadcrumb: [Emergency Self Report, Emergency Response Management, Employee Serv
 
 # Report and track health statuses during an emergency
 
-[[emergency-self-report|Emergency Self Report]] is used by users to self-report their health status, by managers to track the health status of their users, and by response teams to view the status for all users and sort the data for analysis and action.
+Emergency Self Report is used by users to self-report their health status, by managers to track the health status of their users, and by response teams to view the status for all users and sort the data for analysis and action.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ The workflow for Emergency Self Report begins with users self-reporting their he
 
 ## Procedure
 
--   To [[emp-check-in-emergency-outreach|report your health status]]:
+-   To report your health status:
 
     1.  Navigate to **Emergency Self Report** &gt; **Emergency Self Report Dashboard**.
 
-        **Note:** To report your health status in the [[mobile-employee-experience|Now Mobile app]], navigate to the **Health** tab and tap the quick action icon \(\[Omitted image "quick-action-icon.png"\] Alt text: Quick action icon.\) in the top-right corner.
+        **Note:** To report your health status in the Now Mobile app, navigate to the **Health** tab and tap the quick action icon \(\[Omitted image "quick-action-icon.png"\] Alt text: Quick action icon.\) in the top-right corner.
 
         If you're a manager, your name is automatically selected in the **Person** field so that you can report your own health status. If you're reporting the status for a direct report, select the user's name from the **Person** field.
 
@@ -46,7 +46,7 @@ The workflow for Emergency Self Report begins with users self-reporting their he
 
         The health status is updated on the left side of the screen. A message is sent to your manager, and a crisis task is generated for the response team. The crisis task can be assigned an approver, and the reporting user's assigned tasks can be reviewed.
 
-        If [[contact-tracing|Contact Tracing]] is installed and you selected the **In quarantine** option, a case is created automatically for the user. If an active case exists for the user at the time of reporting, a note is added to the case about the self-reporting. For more information, see ServiceNow® [Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md).
+        If Contact Tracing is installed and you selected the **In quarantine** option, a case is created automatically for the user. If an active case exists for the user at the time of reporting, a note is added to the case about the self-reporting. For more information, see ServiceNow® [Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md).
 
     4.  When you're ready to return to work, update your health status to **Return to Work**.
 
@@ -72,9 +72,3 @@ The workflow for Emergency Self Report begins with users self-reporting their he
 
 [View a dashboard of all user reports if you are a response team member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/view-hr-tasks-response-team.md)
 
-## Related
-
-- [[emergency-self-report|Emergency Self Report]]
-- [[emp-check-in-emergency-outreach|Report your health status]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[contact-tracing|Contact Tracing]]

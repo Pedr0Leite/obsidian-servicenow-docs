@@ -14,7 +14,7 @@ breadcrumb: [Creating users, companies, departments, User administration, Config
 
 # Add a new company
 
-You can add companies that represent vendors, manufacturers, or customers with whom you do business. These companies provide a way to categorize users, groups, and [[ia-assets|assets]].
+You can add companies that represent vendors, manufacturers, or customers with whom you do business. These companies provide a way to categorize users, groups, and assets.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: user\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Companies**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Companies**.
 
 2.  Click **New**.
 
@@ -162,7 +162,3 @@ Normalize company data to create consistency when referring to a company name, s
 
 **Parent Topic:**[Creating users, companies, and departments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/using-user-administration.md)
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[c_UserAdministration|User administration]]

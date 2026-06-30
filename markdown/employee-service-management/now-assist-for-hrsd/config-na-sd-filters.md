@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # Configure sensitivity detection
 
-Configure sensitivity detection in the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application.
+Configure sensitivity detection in the Now Assist for HR Service Delivery \(HRSD\) application.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ When an employee enters one of the configured sensitive phrases, the virtual age
 
 [Sensitivity detection filters mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/reference-sd-info-values.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]

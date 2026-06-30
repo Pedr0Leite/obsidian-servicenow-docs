@@ -14,9 +14,9 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Enforce password reset on api requests
 
-Manage how the [[c_SelfServicePasswordReset|password reset]] functionality operates on your instance.
+Manage how the password reset functionality operates on your instance.
 
-When a user is marked for Password needs reset they must provide a new password at the next [[c_Authentication|authentication]] attempt. The **glide.authenticate.api.user.reset\_password.mandatory** system property controls whether the password reset is mandatory before making API calls. If **glide.authenticate.api.user.reset\_password.mandatory** isn't set to the recommended value of **true**, then user accounts marked as Password needs reset can still perform most common operations by querying the table API through [[basic-authentication|basic authentication]].
+When a user is marked for Password needs reset they must provide a new password at the next authentication attempt. The **glide.authenticate.api.user.reset\_password.mandatory** system property controls whether the password reset is mandatory before making API calls. If **glide.authenticate.api.user.reset\_password.mandatory** isn't set to the recommended value of **true**, then user accounts marked as Password needs reset can still perform most common operations by querying the table API through basic authentication.
 
 Ensure the property **glide.authenticate.api.user.reset\_password.mandatory** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,10 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[c_Authentication|Authentication]]
-- [[basic-authentication|Basic authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

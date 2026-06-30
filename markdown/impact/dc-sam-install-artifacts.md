@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for SAM, Enabl
 
 # Review SAM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 ## Performance/Platform analytics
 
@@ -74,6 +74,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Widget|SW audit financial settlements as a % of SW spend - monthly|
 |Dashboard|Impact VM - SAM|
 
-## Related
-
-- [[io-analytics|Analytics]]

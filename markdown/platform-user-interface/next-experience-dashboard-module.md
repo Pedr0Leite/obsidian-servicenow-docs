@@ -16,7 +16,7 @@ Create custom dashboards for the All menu using the Next Experience All Menu Edi
 
 ## About this task
 
-Build custom dashboards with the Dashboard module to visualize your data at a glance. Combine charts, images, [[lists-configurable-workspace|lists]], and other components into a unified view that delivers the insights you need instantly.
+Build custom dashboards with the Dashboard module to visualize your data at a glance. Combine charts, images, lists, and other components into a unified view that delivers the insights you need instantly.
 
 Common examples of dashboards you can build with the dashboard module:
 
@@ -84,12 +84,7 @@ Role required: admin
 
 ## What to do next
 
-Continue building your dashboard by adding more elements such as additional visualizations, [[c_Filters|filters]], or text components. Arrange and resize elements to create a balanced layout that provides users with a comprehensive view of their data.
+Continue building your dashboard by adding more elements such as additional visualizations, filters, or text components. Arrange and resize elements to create a balanced layout that provides users with a comprehensive view of their data.
 
-**Parent Topic:**[[next-experience-all-menu-editing|Next Experience All Menu Editing]]
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-all-menu-editing.md)
 
-## Related
-
-- [[next-experience-all-menu-editing|Next Experience All Menu Editing]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_Filters|Filters]]

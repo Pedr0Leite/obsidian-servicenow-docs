@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related lists for a Product in Agile Development 2.0
 
-Use the related lists in the Product form for the actions that you need to perform on your product record in [[agile-landing-page|Agile Development 2.0]], such as associating releases, themes, epics, stories, or assignment groups.
+Use the related lists in the Product form for the actions that you need to perform on your product record in Agile Development 2.0, such as associating releases, themes, epics, stories, or assignment groups.
 
 The Product form related lists help you organize your agile work. Agile Development 2.0 extends the standard Scrum framework with Themes, which are a high-level organizational structure above Epics.
 
@@ -44,7 +44,7 @@ Themes
 
 </td><td>
 
-A high-level area of focus with associated business value, related to one or more company goals. Themes help [[prioritize-work-portfolio-planning-workspace|prioritize work]] and can be associated with multiple epics.
+A high-level area of focus with associated business value, related to one or more company goals. Themes help prioritize work and can be associated with multiple epics.
 
  Lists the themes that are part of the product. You can create a theme and associate it with this product by selecting **New** or add an existing theme by selecting **Add**.
 
@@ -87,7 +87,3 @@ Lists the groups assigned to the product. You can assign an existing agile group
 </td></tr></tbody>
 </table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]

@@ -15,21 +15,21 @@ breadcrumb: [Now Assist for Employee Center Pro, Unified Employee Experience, Em
 
 # Configuring Now Assist for Employee Center Pro
 
-Guidance for setting up [[na-ec-pro-landing|Now Assist for Employee Center Pro]].
+Guidance for setting up Now Assist for Employee Center Pro.
 
 In the links below, Now Assist for Employee Center Pro features are organized into categories, each with its own landing page to help guide users through the configuration process.
 
 -   [Content Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
-    [[ec-content-engagement|Content engagement]] enhances [[ec-news-articles|news articles]] by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics.
+    Content engagement enhances news articles by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics.
 
 -   [Creating employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-content.md)
 
-    Content Publishing offers robust communications creation tools that enable you to create, manage, and publish a variety of content types including [[ec-streamline-content|portal content]], notifications, [[ec-mobile-content|mobile content]], and tasks.
+    Content Publishing offers robust communications creation tools that enable you to create, manage, and publish a variety of content types including portal content, notifications, mobile content, and tasks.
 
 -   [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md)
 
-    The ServiceNow [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] application contains common components that can be used for integrating your ServiceNow application with third-party systems.
+    The ServiceNow Enterprise Service Management Integrations Framework application contains common components that can be used for integrating your ServiceNow application with third-party systems.
 
 -   [Outlook Actionable Messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-outlook-reference.md)
 
@@ -51,11 +51,3 @@ In the links below, Now Assist for Employee Center Pro features are organized in
 
 [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md)
 
-## Related
-
-- [[na-ec-pro-landing|Now Assist for Employee Center Pro]]
-- [[ec-content-engagement|Content engagement]]
-- [[ec-news-articles|News articles]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-mobile-content|Mobile content]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

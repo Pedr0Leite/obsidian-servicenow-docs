@@ -14,7 +14,7 @@ breadcrumb: [Alert management rules for resolving alerts, Manage and monitor ale
 
 # Configure alert remediation actions
 
-Run commands to perform alert [[ccg-remediation|remediation]] on remote Linux and Windows CIs.
+Run commands to perform alert remediation on remote Linux and Windows CIs.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: evt\_mgmt\_admin or flow\_designer
 
 ## About this task
 
-To automate alert responses with an easier interface, you can also create a respond automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
+To automate alert responses with an easier interface, you can also create a respond automation in Service Operations Workspace. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 ## Procedure
 
@@ -92,7 +92,3 @@ After executing an alert action, the results are noted in the **Work Notes** fie
 
 [How to Enable/Test PowerShell Remoting on Windows Host](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0813330)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Application service analysis and maintenance using classic Service Mapping
 
-[[c_ServiceMappingOverview|Service Mapping]] creates maps to help you see the architecture and organization of application services. These maps are useful for planning change or migration, as well as analyzing the continuity and availability of services.
+Service Mapping creates maps to help you see the architecture and organization of application services. These maps are useful for planning change or migration, as well as analyzing the continuity and availability of services.
 
 The maps are useful in the following cases:
 
@@ -85,6 +85,3 @@ Customize a map view to display relevant information and increase clarity.
 
 [Application service completion]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

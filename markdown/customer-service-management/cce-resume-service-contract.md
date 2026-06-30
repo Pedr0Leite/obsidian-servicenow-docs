@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Resume a customer contract
 
-Resume a customer contract and its child customer contract lines by creating an order on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By resuming a customer contract, you are restarting the services specified in that customer contract.
+Resume a customer contract and its child customer contract lines by creating an order on the CSM Configurable Workspace. By resuming a customer contract, you are restarting the services specified in that customer contract.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
 
 The customer contract and all its associated child contract lines and entitlements are back in Active or Draft state, depending on the start date of the respective entity.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

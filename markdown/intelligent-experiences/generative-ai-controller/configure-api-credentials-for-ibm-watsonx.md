@@ -18,7 +18,7 @@ Configure your API credentials to use IBM watsonx Granite models in custom workf
 
 ## Before you begin
 
-To use IBM watsonx large language models \(LLMs\), you must configure your credentials to use the [[generative-ai-controller|Generative AI Controller]] capabilities.
+To use IBM watsonx large language models \(LLMs\), you must configure your credentials to use the Generative AI Controller capabilities.
 
 Role required: admin
 
@@ -53,6 +53,3 @@ You can now use capabilities labeled with IBM watson in Flow Designer, Virtual A
 
 If you want to use generative AI capabilities through your MID Server, open the new Connection record, select the **Use MID server** check box, and save the record.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

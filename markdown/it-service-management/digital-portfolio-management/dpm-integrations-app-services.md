@@ -14,9 +14,9 @@ breadcrumb: [Integrate Digital Portfolio Management with other ServiceNow applic
 
 # View service instance data in Digital Portfolio Management
 
-See service instance data in the context of your solutions in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+See service instance data in the context of your solutions in the Digital Portfolio Management \(DPM\) Workspace.
 
-The following image shows the service instance data views when you integrate the stated [[dex-workspace-application-tab|applications]] with your DPM Workspace.
+The following image shows the service instance data views when you integrate the stated applications with your DPM Workspace.
 
 \[Omitted image "dpm-integrations-app-services.png"\] Alt text: Service instance integrations.
 
@@ -80,7 +80,3 @@ Software and hardware risk data
 
 [View service instance details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-app-service-details.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

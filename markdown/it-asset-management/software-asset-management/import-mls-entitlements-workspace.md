@@ -14,7 +14,7 @@ breadcrumb: [Importing entitlements from an MLS, Software Asset Management publi
 
 # Import Microsoft entitlements from a Microsoft License Statement \(MLS\) in the Software Asset Workspace
 
-Import entitlements from an MLS using the [[sam-workspace|Software Asset Workspace]].
+Import entitlements from an MLS using the Software Asset Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sam\_user or sam\_admin
 
 1.  From your ServiceNow instance, navigate to **Software asset** &gt; **Software Asset Workspace**.
 
-    The Software Asset Workspace launches in a new tab, displaying the [[sam-workspace-landing|Software asset overview]].
+    The Software Asset Workspace launches in a new tab, displaying the Software asset overview.
 
 2.  On the Software asset overview, select **Create entitlement**.
 
@@ -43,7 +43,7 @@ Role required: sam\_user or sam\_admin
     |Import type|Type of document that you are importing entitlements from. Set this field to **Microsoft license statement \(MLS\)**.|
     |File|File that you want to import entitlements from. Search for and select the MLS Excel file that you requested from Microsoft.|
     |Description|Description of the entitlement import. This field populates automatically based on the file that you selected in the **File** field.|
-    |Automatic creation of contracts|Option to enable automatic creation of both parent and child [[c_Contracts|contracts]] for the selected MLS. Refer to [Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Contracts.md) for more information about contracts.|
+    |Automatic creation of contracts|Option to enable automatic creation of both parent and child contracts for the selected MLS. Refer to [Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Contracts.md) for more information about contracts.|
     |Import status|Status of the import. This field populates automatically.|
 
 5.  Select **Import**.
@@ -130,7 +130,7 @@ Number of imported Microsoft Software Assurance \(SA\), Step-up, From SA, or Add
 
             3.  Update the record as needed to resolve the error.
 
-                For descriptions of the [[entitlement-import-error-fields|entitlement import error fields]], see [Entitlement import error fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-software-rights-form.md).
+                For descriptions of the entitlement import error fields, see [Entitlement import error fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-software-rights-form.md).
 
             4.  Select **Import**.
 
@@ -197,9 +197,3 @@ Number of Microsoft SA, Step-up, From SA, or Add-on rights that you want to gran
 
 **Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/importing-mls-entitlements.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]
-- [[c_Contracts|Contracts]]
-- [[entitlement-import-error-fields|Entitlement import error fields]]

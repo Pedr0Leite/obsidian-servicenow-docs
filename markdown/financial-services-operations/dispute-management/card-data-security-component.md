@@ -15,7 +15,7 @@ breadcrumb: [Configure, Card Data Security, Dispute Management, Banking applicat
 
 # Card Data Security container
 
-The Card Data Security container enables secure handling of [[payment-card-application|Payment Card]] Information \(PCI\) card data within [[fso-overview|Financial Services]] Operations card dispute workflows through integration with a tokenizer service. This allows users to work with sensitive card information without exposing PCI data directly.
+The Card Data Security container enables secure handling of Payment Card Information \(PCI\) card data within Financial Services Operations card dispute workflows through integration with a tokenizer service. This allows users to work with sensitive card information without exposing PCI data directly.
 
 **Note:** Card Data Security container requires context-aware authorization to function correctly. See [Set up OAuth for Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-oauth-for-card-data-security.md) for more information.
 
@@ -23,7 +23,7 @@ The Card Data Security container enables secure handling of [[payment-card-appli
 
 This component offers the following capabilities:
 
--   Secure card number display within the ServiceNow interface via integration with the tokenizer service \(preconfigured in [[card-data-security|Card Data Security]]\)
+-   Secure card number display within the ServiceNow interface via integration with the tokenizer service \(preconfigured in Card Data Security\)
 -   Secure viewing and download of documents stored in the tokenizer service containing PCI data \(preconfigured in Card Data Security\)
 -   Secure card number input through an embedded iframe interface
 -   Document upload functionality for files containing PCI data
@@ -119,8 +119,3 @@ For more information, see [Manage attachments in Card Data Security](https://raw
 
 [Extend your UI experience with viewport components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/viewports-overview.md)
 
-## Related
-
-- [[payment-card-application|Payment card]]
-- [[fso-overview|Financial Services]]
-- [[card-data-security|Card Data Security]]

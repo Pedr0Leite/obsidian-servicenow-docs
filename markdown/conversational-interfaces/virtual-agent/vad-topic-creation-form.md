@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Create a topic form
 
-The Create a topic form is used to set the properties for a new conversational topic for [[virtual-agent-landing-page|Virtual Agent]].
+The Create a topic form is used to set the properties for a new conversational topic for Virtual Agent.
 
 The Create a topic form layout is similar to the Edit topic properties form layout found in the [Topic Properties tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topic-properties-tab.md). When you finish creating a topic using this form, the model type and topic types are locked in the Properties tab.
 
@@ -46,7 +46,7 @@ Model Type
 
 The **LLM** value is used for topic discovery within LLMs, and the **NLU/Keywords** value is used for either keyword or NLU discovery. For more information, see [LLM topic discovery in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-llm.md).
 
- **Note:** If this field doesn't appear, verify that both the Now Assist panel and [[now-assist-in-va-landing|Now Assist in Virtual Agent]] are turned on. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md) and [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+ **Note:** If this field doesn't appear, verify that both the Now Assist panel and Now Assist in Virtual Agent are turned on. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md) and [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ For more information, see[LLM description and instruction guidelines for Virtual
 
 </td></tr><tr><td>
 
-Select [[llm-assistants|LLM assistants]] to make topics available to them and any primary assistants
+Select LLM assistants to make topics available to them and any primary assistants
 
 </td><td>
 
@@ -216,9 +216,9 @@ Live agent context variables
 
 </td><td>
 
-Live agent context variables that are defined in the [[ac-configure-context-variables|General Chat Settings]].Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
+Live agent context variables that are defined in the [General Chat Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md).Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
 
- For information about the default list of live agent variables, see [[live-agent-chat-context-vars|Live agent chat context variables]].
+ For information about the default list of live agent variables, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
 
 </td></tr><tr><td>
 
@@ -263,10 +263,3 @@ List of key phrases or terms that users enter to initiate the conversation with 
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[llm-assistants|LLM assistants]]

@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Open the communication plan where you want to add Slack as a communication channel for a communication task.
 
-3.  Open the [[communication-task-definition|communication task definition]] for which you want to add Slack as the mode of communication.
+3.  Open the communication task definition for which you want to add Slack as the mode of communication.
 
 4.  Click the **Add Channel – Slack** related links.
 
@@ -34,6 +34,4 @@ Role required: admin
 
     Slack gets added as a communication channel for the communication task.
 
-## Related
 
-- [[communication-task-definition|Communication task definition]]

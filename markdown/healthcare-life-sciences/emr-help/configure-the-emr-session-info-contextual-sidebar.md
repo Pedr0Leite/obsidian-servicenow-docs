@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emr-exploring|EMR Help]]** &gt; **Request Definitions**.
+1.  Navigate to **All** &gt; **EMR Help** &gt; **Request Definitions**.
 
 2.  Select the request definition for which you want to configure the contextual sidebar.
 
@@ -32,6 +32,4 @@ Role required: admin
 
     If a source system is defined in the request, then only the parameters for that source system will be displayed in the contextual sidebar based on their sort order. If no source system is defined in the request, then all parameters will display on the contextual sidebar.
 
-## Related
 
-- [[emr-exploring|EMR Help]]

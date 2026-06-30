@@ -14,19 +14,19 @@ breadcrumb: [Personal authentication, Authentication, Access Management]
 
 # Generate Personal Auth Initiator URL
 
-Generate the initial token for a user who doesn’t have access to the credentials page to [[configure-personal-authentication|configure personal authentication]].
+Generate the initial token for a user who doesn’t have access to the credentials page to configure personal authentication.
 
 ## Before you begin
 
-Role required: connection\_admin, [[oauth-inbound-and-outbound|oauth]]\_admin
+Role required: connection\_admin, oauth\_admin
 
 ## About this task
 
-[[users|Users]] without the **connection\_admin** role can’t access the Credentials page to generate OAuth tokens. These users must generate a personal token using the `oauth_initiator` URL with additional parameter indicating that the token is personal and requested for session user.
+Users without the **connection\_admin** role can’t access the Credentials page to generate OAuth tokens. These users must generate a personal token using the `oauth_initiator` URL with additional parameter indicating that the token is personal and requested for session user.
 
 You can also use the scoped `PersonalAuthAPI` with the `sn_personal_auth` plugin to generate the initiator URL. For more information, see [PersonalAuthAPI - getInitiatorURL\(String aliasId\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/PersonalAuthAPIScoped.md#title_PerAuth-getInitiatorURL_S)
 
-**Note:** If the [[personal-authentication|personal authentication]] plugin \(`com.snc.sn_ihub_personal_auth`\) is activated, use the scoped API to generate the initiator URL. This. API is available only if the plugin is installed.
+**Note:** If the personal authentication plugin \(`com.snc.sn_ihub_personal_auth`\) is activated, use the scoped API to generate the initiator URL. This. API is available only if the plugin is installed.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ You can also use the scoped `PersonalAuthAPI` with the `sn_personal_auth` plugin
     <credential sys_id>&sysparm_oauth_provider_profile=<OAUTH profile sys_id>&sysparm_oauth_personal=true 
     ```
 
-2.  Use the following format to construct the token generation URL for [[authorization-code-grant|Authorization Code Grant]] Type:
+2.  Use the following format to construct the token generation URL for Authorization Code Grant Type:
 
     ```
     https:// ://<instance-name>.service-now.com /oauth_initiator.do?
@@ -46,10 +46,4 @@ You can also use the scoped `PersonalAuthAPI` with the `sn_personal_auth` plugin
     <credential sys_id>&oauth_provider_profile=<OAUTH profile sys_id>&response_type=code&personal=true
     ```
 
-## Related
 
-- [[configure-personal-authentication|Configure Personal Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[users|Users]]
-- [[personal-authentication|Personal Authentication]]
-- [[authorization-code-grant|Authorization code grant]]

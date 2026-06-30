@@ -94,7 +94,7 @@ The OpenFrameAjaxUtility script include is added when you activate OpenFrame.
 
 ## Business rules installed with OpenFrame
 
-Some related business [[gamification-components-rules|rules]] are added when you activate OpenFrame.
+Some related business rules are added when you activate OpenFrame.
 
 <table id="table_i3m_5nb_kt"><thead><tr><th>
 
@@ -179,20 +179,14 @@ show\_phone\_customer\_service
 
 </td><td>
 
--   This macro requires the activation of the [[c_CustomerServiceManagement|Customer Service Management]] and the OpenFrame plugins.
--   By configuring this UI macro using the **ref\_contribution** parameter, you can display a phone icon next to the **Contact** customer\_account reference field on the [[r_CustomerServiceCaseForm|case form]] if the phone field in the Contact customer\_account record is populated with the user's contact number.
+-   This macro requires the activation of the Customer Service Management and the OpenFrame plugins.
+-   By configuring this UI macro using the **ref\_contribution** parameter, you can display a phone icon next to the **Contact** customer\_account reference field on the case form if the phone field in the Contact customer\_account record is populated with the user's contact number.
 
 </td></tr></tbody>
-</table>Displaying the phone icon enables you to make calls using the click-to-call capability in the OpenFrame window. For more information on how to use OpenFrame, see [[c_OpenFrameOverview|OpenFrame overview]].
+</table>Displaying the phone icon enables you to make calls using the click-to-call capability in the OpenFrame window. For more information on how to use OpenFrame, see [OpenFrame overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OpenFrameOverview.md).
 
 **Related topics**  
 
 
 [UI Macros](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_UIMacros.md)
 
-## Related
-
-- [[c_OpenFrameOverview|OpenFrame overview]]
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]

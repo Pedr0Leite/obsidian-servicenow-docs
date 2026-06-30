@@ -30,7 +30,7 @@ Account
 
 </td><td>
 
-Customer account for which the [[remote-hands-request|Remote Hands request]] is being raised.
+Customer account for which the Remote Hands request is being raised.
 
 </td></tr><tr><td>
 
@@ -86,6 +86,3 @@ Supporting documents, images, or reference files relevant to the request.
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[remote-hands-request|Remote Hands Request]]

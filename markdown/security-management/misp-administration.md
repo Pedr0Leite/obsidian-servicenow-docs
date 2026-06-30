@@ -12,48 +12,33 @@ breadcrumb: [MISP integration for Security Operations, Threat Intelligence integ
 
 # MISP administration
 
-You can set up MISP integration in the ServiceNow AI Platform to perform a sighting search, [[tisc-observable-enrichment|observable enrichment]], and to create and update events in MISP.
+You can set up MISP integration in the ServiceNow AI Platform to perform a sighting search, observable enrichment, and to create and update events in MISP.
 
--   **[[get-started-with-misp-integration-for-security-operations|Getting started with MISP integration for Security Operations]]**  
+-   **[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)**  
 Review the following information before you set up your MISP integration for Security Operations.
--   **[[install-and-configure-misp|Install and configure the MISP integration for Security Operations]]**  
+-   **[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-and-configure-misp.md)**  
 Install and configure the MISP integration for Security Operations from the ServiceNow Store on your ServiceNow AI Platform instance so that you can start investigating security incidents using the MISP data.
--   **[[review-the-misp-integration-settings|Review the MISP integration settings]]**  
+-   **[Review the MISP integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-the-misp-integration-settings.md)**  
 Review the MISP integration for Security Operations settings and modify the default system properties to suit your environment.
--   **[[configure-sightings-search|Configure MISP sighting searches]]**  
-Configure the ServiceNow AI Platform to do sighting searches for [[c_Observables|observables]] in the MISP instance. With this information, you can determine how often threats occur.
--   **[[configure-automatic-event-creation-profile|Configure how an automatic event is created]]**  
+-   **[Configure MISP sighting searches](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-sightings-search.md)**  
+Configure the ServiceNow AI Platform to do sighting searches for observables in the MISP instance. With this information, you can determine how often threats occur.
+-   **[Configure how an automatic event is created](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-automatic-event-creation-profile.md)**  
 Configure the ServiceNow AI Platform to automatically create events in MISP.
--   **[[misp-event-data|MISP event data]]**  
+-   **[MISP event data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-event-data.md)**  
 You can review the MISP event data so that you can see detailed information about the MISP events.
--   **[[associated-misp-events|Associated MISP events]]**  
+-   **[Associated MISP events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associated-misp-events.md)**  
 You can use the associated MISP events list view to view the events that have been created manually or automatically in the context of a security incident.
--   **[[misp-user-information|MISP user information]]**  
+-   **[MISP user information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-information.md)**  
 You can use the MISP user information page to view all the associated users for the ServiceNow AI Platform MISP integration for Security Operations.
--   **[[domain-separation-and-misp|Domain separation and MISP]]**  
+-   **[Domain separation and MISP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/domain-separation-and-misp.md)**  
 Domain separation is supported in MISP. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
--   **[[troubleshooting-misp-integration|Troubleshooting MISP integration]]**  
+-   **[Troubleshooting MISP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/troubleshooting-misp-integration.md)**  
 This section covers important troubleshooting tips that can help you resolve common issues you can encounter when setting up or running MISP integration.
 
-**Parent Topic:**[[misp-integration-for-security-operations|MISP integration for Security Operations]]
+**Parent Topic:**[MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-integration-for-security-operations.md)
 
 **Related topics**  
 
 
 [Using MISP to investigate and analyze threats]()
 
-## Related
-
-- [[get-started-with-misp-integration-for-security-operations|Getting started with MISP integration for Security Operations]]
-- [[install-and-configure-misp|Install and configure the MISP integration for Security Operations]]
-- [[review-the-misp-integration-settings|Review the MISP integration settings]]
-- [[configure-sightings-search|Configure MISP sighting searches]]
-- [[configure-automatic-event-creation-profile|Configure how an automatic event is created]]
-- [[misp-event-data|MISP event data]]
-- [[associated-misp-events|Associated MISP events]]
-- [[misp-user-information|MISP user information]]
-- [[domain-separation-and-misp|Domain separation and MISP]]
-- [[troubleshooting-misp-integration|Troubleshooting MISP integration]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[c_Observables|Observables]]

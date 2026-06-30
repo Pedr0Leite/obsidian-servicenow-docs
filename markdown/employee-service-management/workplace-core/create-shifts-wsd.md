@@ -14,7 +14,7 @@ breadcrumb: [Configuring shifts for your workplace, Manage workplace safety acti
 
 # Define shifts for your workplace
 
-Define shifts in [[workplace-safety-mgmt-hr|Workplace Core]] with specific schedules so you can designate areas or workplaces and assign employees for each shift.
+Define shifts in Workplace Core with specific schedules so you can designate areas or workplaces and assign employees for each shift.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Define shifts in [[workplace-safety-mgmt-hr|Workplace Core]] with specific sched
     -   Data of the employees who would operate from the office in this shift
     -   Data of the workplaces to be made available for this shift
 
-**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.workplace\_manager
 
@@ -38,7 +38,7 @@ You can also access the Shift form by navigating to **Workplace Core** &gt; **Sh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Select **Add a shift**.
 
@@ -173,7 +173,7 @@ Workplaces available for reservation during this shift.This field appears only o
 </table>    **Note:**
 
     -   If this shift is applicable to all office buildings on your campus, you can leave the **Building**, **Floor**, and **Area** fields empty. The shift and its schedule will be automatically applied to all the records of buildings, floors, and areas associated with this campus.
-    -   When an employee requests to [[reservation-portal|make a reservation]] with shifts, only shifts that are active on the dates that the employee selected are displayed on the reservation form.
+    -   When an employee requests to make a reservation with shifts, only shifts that are active on the dates that the employee selected are displayed on the reservation form.
 4.  Select **Submit**.
 
 5.  If you accessed the Shift form from Workplace Service Portal, on the verification page, you can define another shift or view all the existing shifts.
@@ -209,10 +209,3 @@ You can configure other information such as employees, workplaces, and maintenan
 
 **Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configuring-shifts-for-your-workplace-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reservation-portal|Make a reservation]]

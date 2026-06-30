@@ -18,7 +18,7 @@ This accelerator assesses your current ServiceNow  CoEI processes and function
 
 ## Accelerator Overview
 
-Center of Excellence and Innovation \(CoEI\) Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+Center of Excellence and Innovation \(CoEI\) Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 ## Package Availability
 
@@ -34,13 +34,13 @@ Center of Excellence and Innovation \(CoEI\) Maturity Assessment provides [[impa
 
     Your assessment participants will each be asked to independently fill out a pre-built CoEI Maturity Assessment Questionnaire that asks them to grade targeted statements that assess gaps and opportunities with your CoEI deployment.
 
--   **Questionnaire results analysis \(time as determined per [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire results analysis \(time as determined per Impact Squad\)**
 
     The Impact Squad performs the following:
 
     -   Reviews and analyzes the questionnaire scores
     -   Compiles targeted recommendations and leading practices
-    -   Provides guidance that will [[io-help|help]] you understand how to best maximize your CoEI investment
+    -   Provides guidance that will help you understand how to best maximize your CoEI investment
 -   **CoEI Maturity Assessment report**
 
     The assessment report is compiled from the responses to the questionnaire and includes the following:
@@ -142,8 +142,3 @@ We request that the CoEI Maturity questionnaire is completed by the customer vir
 -   Assessment of capabilities and processes beyond CoEI is not included.
 -   ServiceNow is not responsible for implementing the recommendations made based on the CoEI Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

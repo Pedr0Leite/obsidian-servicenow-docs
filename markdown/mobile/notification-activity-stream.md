@@ -14,16 +14,10 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 Configure your instance to send an email notification or a push notification when a user mentions a contact’s name within a mobile activity stream record.
 
--   **[[mentions-config|Configure push notifications for mobile activity stream mentions]]**  
-Enable users to alert their contacts, through the use [[sg-mobile-security-push-notif|push notifications]], that they are mentioned in a thread. The user enters the `@` character followed by the contact's name in a record's activity stream, for their contact to be alerted.
--   **[[mentions-mobile-in-email|Customize email notifications for mobile activity stream mentions]]**  
+-   **[Configure push notifications for mobile activity stream mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mentions-config.md)**  
+Enable users to alert their contacts, through the use push notifications, that they are mentioned in a thread. The user enters the `@` character followed by the contact's name in a record's activity stream, for their contact to be alerted.
+-   **[Customize email notifications for mobile activity stream mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mentions-mobile-in-email.md)**  
 Enable users to alert their contacts by email that they are mentioned in a thread. The user enters the `@` character followed by the contact's name in a record's activity stream, for their contact to be alerted. This feature is enabled by default.
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[mentions-config|Configure push notifications for mobile activity stream mentions]]
-- [[mentions-mobile-in-email|Customize email notifications for mobile activity stream mentions]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Create consumable assets in Enterprise Asset Workspace
 
-Create consumables in the [[using-eam-workspace|Enterprise Asset Workspace]] to track enterprise assets.
+Create consumables in the Enterprise Asset Workspace to track enterprise assets.
 
 ## Before you begin
 
@@ -257,12 +257,8 @@ Work notes related to the asset.
 </td></tr></tbody>
 </table>6.  Select**Save**.
 
-    The consumable asset is created and appears in the [[c_ReceiveAConsumableAsset|Consumable assets]] list.
+    The consumable asset is created and appears in the Consumable assets list.
 
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

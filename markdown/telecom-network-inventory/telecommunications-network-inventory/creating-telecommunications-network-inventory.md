@@ -14,9 +14,9 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Manually creating and reviewing your network asset instances
 
-A key function that you can perform in the [[exploring-network-inventory-workspace|network inventory workspace]] is to manually create your network assets and a digital model of your network in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. With this information, you can provision new services, modify existing services, maintain the network, and plan the forecast for your network growth.
+A key function that you can perform in the network inventory workspace is to manually create your network assets and a digital model of your network in the Telecommunications Network Inventory application. With this information, you can provision new services, modify existing services, maintain the network, and plan the forecast for your network growth.
 
-To manually create and to review your individual network inventory records, and define the relationships between each asset, you can easily access the appropriate forms from the workspace [[network-inventory-workspace-landing-page|landing page]]. For example, you can select the **Interface cards** count in the Network entities by categories widget on the Network Inventory Workspace landing page to create an interface card instance.
+To manually create and to review your individual network inventory records, and define the relationships between each asset, you can easily access the appropriate forms from the workspace landing page. For example, you can select the **Interface cards** count in the Network entities by categories widget on the Network Inventory Workspace landing page to create an interface card instance.
 
 **Note:** As an alternative to manually creating individual network asset instances, you can instead use a more automated, and potentially less labor-intensive method to do so. To learn more, see the following:
 
@@ -28,15 +28,15 @@ To manually create and to review your individual network inventory records, and 
 
 ## Process
 
-To manually create a comprehensive digital model of your telecommunications network, access the following forms from the Network Inventory Workspace landing page and the [[network-inventory-workspace-list-view|Lists view]]. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
+To manually create a comprehensive digital model of your telecommunications network, access the following forms from the Network Inventory Workspace landing page and the Lists view. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
 
 1.  In the Network Site or Data Center form, create the site records for the individual locations that house your network equipment. To learn more about network site, see [febcfe12194eeb91c09e3996e78edd4ed1efeb0b.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-sites.md). To learn more about data centers, see [Define the datacenter details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-data-center-details.md).
-2.  In the [[tni-equipment-form-configuration|Telco Equipment form]], create the individual network asset instances for your telecommunications equipment. To learn more, see [ee9363b19ca20d3f5503d82662539f1c1d1d3c8f.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment.md).
-3.  In the [[tni-equipment-holder-form-configuration|Equipment Holder form]], create the individual network asset instances for your equipment holders. To learn more, see [49fbb00d55deb1d629af60c609556de00b5cd94c.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment-holders.md).
+2.  In the Telco Equipment form, create the individual network asset instances for your telecommunications equipment. To learn more, see [ee9363b19ca20d3f5503d82662539f1c1d1d3c8f.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment.md).
+3.  In the Equipment Holder form, create the individual network asset instances for your equipment holders. To learn more, see [49fbb00d55deb1d629af60c609556de00b5cd94c.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment-holders.md).
 4.  In the Interface Cards form, create the individual network asset instances for your interface cards. To learn more, see [Define the card details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-interface-cards.md).
 5.  In the Network Interface form, create the individual network asset instances for your network interfaces. To learn more, see [Define the network interface details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-interfaces.md).
-6.  In the [[physical-connection-form|Physical connection form]], create the individual network asset instances for each physical or wired connection. To learn more, see [Define the physical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-physical-connections.md).
-7.  In the [[tni-logical-connection-forms|Logical connection form]], create the individual network asset instances for each logical connection. To learn more, see [Define the logical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-logical-connections.md).
+6.  In the Physical connection form, create the individual network asset instances for each physical or wired connection. To learn more, see [Define the physical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-physical-connections.md).
+7.  In the Logical connection form, create the individual network asset instances for each logical connection. To learn more, see [Define the logical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-logical-connections.md).
 8.  Create the logical and physical relationships between each asset in your network inventory.
 9.  Define the numbering for your virtual local-area network \(VLAN\) or link aggregation group \(LAG\) connections in the Telecommunications Network Inventory application. To learn more, see [Define your inventory numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-inventory-numbers.md).
 
@@ -47,7 +47,7 @@ Define your datacenter record in the Telecommunications Network Inventory applic
 -   **[Define the facility hardware details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-facility-hardware-details.md)**  
 Define the facility hardware record to represent power, thermal, network components and their connectivity in a datacenter. By defining the facility records, you can track and manage your network assets in the Telecommunications Network Inventory application.
 -   **[Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md)**  
-[[define-equipment-type|Create a telecommunications equipment instance]] in your network. You define the equipment instances so that you can track and manage your network assets in the Telecommunications Network Inventory application.
+Create a telecommunications equipment instance in your network. You define the equipment instances so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 -   **[Define the equipment holders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment-holders.md)**  
 Define the equipment holder that contains your telecommunications equipment, including the cabinets, racks, shelves, and slots. By defining the equipment holders, you can track and manage your network assets in the Telecommunications Network Inventory application.
 -   **[Create and maintain racks and cabinets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-and-maintain-rack-and-cabinet.md)**  
@@ -69,11 +69,11 @@ Review, update, or create a network asset instance for a logical or virtual port
 -   **[Define the power circuit details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-power-circuit-details.md)**  
 Define the power circuit record to represent the electrical pathway that delivers power in a datacenter. By defining the power circuit records, you can track and manage your network assets in the Telecommunications Network Inventory application.
 -   **[Manually create a network topology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-netowrk-topology.md)**  
-Create a topology record for the network that you want to visualize in the organization of its network elements. By creating the [[using-network-topology|network topology]], you can visualize how the network elements are organized and connected to one another in the Telecommunications Network Inventory application.
+Create a topology record for the network that you want to visualize in the organization of its network elements. By creating the network topology, you can visualize how the network elements are organized and connected to one another in the Telecommunications Network Inventory application.
 -   **[Define your inventory groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-your-inventory-groups.md)**  
 An inventory group is a collection of CIs that lets you apply CI actions collectively to all the CIs in Telecommunications Network Inventory application. By defining inventory groups, you can group different CIs, and apply actions to all CIs.
 -   **[Decommission an inventory record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decommision-an-inventory-record.md)**  
-[[decommision-an-inventory-record|Decommission an inventory record]] that you want to remove from Telecommunications Network Inventory.
+Decommission an inventory record that you want to remove from Telecommunications Network Inventory.
 
 **Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md)
 
@@ -82,16 +82,3 @@ An inventory group is a collection of CIs that lets you apply CI actions collect
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[network-inventory-workspace-landing-page|Landing page]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[tni-equipment-form-configuration|Telco Equipment form]]
-- [[tni-equipment-holder-form-configuration|Equipment Holder form]]
-- [[physical-connection-form|Physical Connection form]]
-- [[tni-logical-connection-forms|Logical Connection form]]
-- [[define-equipment-type|Create a telecommunications equipment instance]]
-- [[using-network-topology|Network topology]]
-- [[decommision-an-inventory-record|Decommission an inventory record]]

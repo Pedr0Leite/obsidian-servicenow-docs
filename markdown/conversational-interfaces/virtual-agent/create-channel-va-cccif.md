@@ -73,7 +73,7 @@ Live Agent Only
 
 </td><td>
 
-Option to initiate conversations with live agents, bypassing the [[virtual-agent-landing-page|Virtual Agent]] bot.
+Option to initiate conversations with live agents, bypassing the Virtual Agent bot.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Type
 
 </td><td>
 
-Channel type.-   **Chat**: [[nava-standard-chat|Standard chat]] experience
+Channel type.-   **Chat**: Standard chat experience
 -   **Messaging**: Long-running conversation
 -   **Phone**: Phone \(audio\) conversation
 -   **Walk-up**: In-person conversation
@@ -101,7 +101,7 @@ Conversation Idle Timeout
 
 </td><td>
 
-Number of seconds that abandoned Virtual Agent and [[ci-use-agent-chat|Agent Chat]] conversations remain open in the channel, after the requester's last response.
+Number of seconds that abandoned Virtual Agent and Agent Chat conversations remain open in the channel, after the requester's last response.
 
  This channel-specific value overrides the following settings:
 
@@ -123,7 +123,7 @@ Support typing indicator
 
 </td><td>
 
-Option to display [[ccci-typing-indicators|typing indicators]] for this channel. Flag applies to both agent and bot indicators.
+Option to display typing indicators for this channel. Flag applies to both agent and bot indicators.
 
 </td></tr><tr><td>
 
@@ -143,9 +143,3 @@ This field should be left empty.
 
 **Parent Topic:**[Create a Virtual Agent conversational custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-adapter-for-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ccci-typing-indicators|Typing indicators]]

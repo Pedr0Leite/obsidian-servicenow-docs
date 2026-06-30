@@ -14,7 +14,7 @@ breadcrumb: [Strategic Planning, Strategic Portfolio Management]
 
 # Next Experience for Demand Management in Strategic Planning
 
-Next Experience for [[c_DemandManagement|Demand Management]] enables you to create, evaluate, and prioritize demands throughout the demand life cycle.
+Next Experience for Demand Management enables you to create, evaluate, and prioritize demands throughout the demand life cycle.
 
 ## Get started
 
@@ -28,14 +28,14 @@ Next Experience for [[c_DemandManagement|Demand Management]] enables you to crea
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-manage.svg"\] Alt text:Create and manage demands, [[use-playbooks-spm-retail|use playbooks]], and manage financials and resources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-demands-dmnd-wpc.md)
+[Use\[Omitted image "bus-manage.svg"\] Alt text:Create and manage demands, use playbooks, and manage financials and resources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-demands-dmnd-wpc.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about demand components like roles, tables, properties, [[form-field-information-for-dw|forms]], and lists.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-workspace-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about demand components like roles, tables, properties, forms, and lists.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-workspace-reference.md)
 
 </td></tr></tbody>
-</table>Next Experience for Demand Management provides organizations and teams with a structured way to capture, assess, and prioritize different types of work before committing to executing them. [[use-demands-dmnd-wpc|Using Next Experience for Demand Management]], demand managers can review incoming requests, assess business cases and capacity, estimate costs, evaluate risks, and decide which demands are worth moving forward. Playbooks enable teams to define different governance processes as well.
+</table>Next Experience for Demand Management provides organizations and teams with a structured way to capture, assess, and prioritize different types of work before committing to executing them. Using Next Experience for Demand Management, demand managers can review incoming requests, assess business cases and capacity, estimate costs, evaluate risks, and decide which demands are worth moving forward. Playbooks enable teams to define different governance processes as well.
 
 Check your entitlements to determine whether you have access to Next Experience for Demand Management.
 
@@ -79,9 +79,3 @@ Some ServiceNow resources that can provide you with helpful information are:
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[use-playbooks-spm-retail|Use playbooks]]
-- [[form-field-information-for-dw|Forms]]
-- [[use-demands-dmnd-wpc|Using Next Experience for Demand Management]]

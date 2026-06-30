@@ -19,15 +19,15 @@ The Employee Center for Microsoft Viva Connections integration extends the Servi
 Before installing Employee Center for Microsoft Viva Connections, ensure that the following prerequisites are met:
 
 -   Your ServiceNow instances have been upgraded to Vancouver release.
--   You’ve installed and deployed the **IT Service Management for Microsoft 365\(sn\_now\_teams\_it\)** or **[[hr-service-delivery|HR Service Delivery]] for Microsoft 365\(sn\_now\_teams\_hr\)** plugins.
--   You’ve installed and deployed [[employee-center-landing-page|Employee Center]]. For more information, see [Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-emp-center.md).
+-   You’ve installed and deployed the **IT Service Management for Microsoft 365\(sn\_now\_teams\_it\)** or **HR Service Delivery for Microsoft 365\(sn\_now\_teams\_hr\)** plugins.
+-   You’ve installed and deployed Employee Center. For more information, see [Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-emp-center.md).
 -   You've installed and deployed **Employee Center Core \(sn\_hr\_sp\)** August 23 store release version.
 
 There are multiple admin roles required to deploy the Employee Center for Microsoft Viva Connections integrations application. The following table depicts the different admin roles required to perform various setup tasks in your environment.
 
 <table id="table_m21_sy2_tqb"><thead><tr><th>
 
-[[activity-lxp|Activity]]
+Activity
 
 </th><th>
 
@@ -141,13 +141,7 @@ Configure your ServiceNow instance and Microsoft Teams application to enable the
 -   **[Managing Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-viva.md)**  
 Download and deploy the Microsoft Viva solution package.
 -   **[Employee Center for Microsoft Viva Connections reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-viva.md)**  
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about components and forms required for Employee Center for Microsoft Viva Connections integrations.
+Reference topics provide additional information about components and forms required for Employee Center for Microsoft Viva Connections integrations.
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

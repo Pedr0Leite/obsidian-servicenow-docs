@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center Pro, Employee Center Pro, Unified Emplo
 
 # Quick start tests for Employee Center Pro
 
-Validate the continued functionality of [[employee-center-pro-landing|Employee Center Pro]] after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate the continued functionality of Employee Center Pro after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 All test suites and tests should pass on a default implementation. To validate a custom implementation, copy the automated tests and configure them for your customizations.
 
@@ -48,7 +48,7 @@ Create Adhoc Delegation for Approval Task
 
 </td><td>
 
-Ensures an adhoc delegation for an approval task can be created from the My Tasks form in the [[employee-center-landing-page|Employee Center]].
+Ensures an adhoc delegation for an approval task can be created from the My Tasks form in the Employee Center.
 
 </td><td>
 
@@ -104,7 +104,7 @@ San Diego
 
 </td></tr><tr><td>
 
-Employee center - [[emp-slate-employee-profile|Employee Profile]] Generation
+Employee center - Employee Profile Generation
 
 </td><td>
 
@@ -144,7 +144,7 @@ San Diego
 
 </td></tr><tr><td>
 
-Employee Center Pro - [[web-application-employee-about|App launcher]]
+Employee Center Pro - App launcher
 
 </td><td>
 
@@ -162,7 +162,7 @@ Employee Center Pro - Validate home page widgets
 </td><td>
 
 Validates the following widgets are present on the Employee Center Pro home page:-   Content Experience
--   [[rfy-ec|Recommended for you]]
+-   Recommended for you
 -   Popular topics
 -   Upcoming Events
 -   My Active Items
@@ -200,7 +200,7 @@ Quebec
 
 </td></tr><tr><td>
 
-ESC: Submit a Record Producer which creates [[ur-landing-limitedaccess|Universal Request]] and HR Case
+ESC: Submit a Record Producer which creates Universal Request and HR Case
 
 </td><td>
 
@@ -277,13 +277,13 @@ San Diego
 |Content Publishing: Create Banner type content in SCA|Ensures the Create Banner type can be created when using Streamlined Content Authoring \(SCA\) under the Content Publishing module.|Rome|
 |Content Publishing: Create Styled content \(Video\) type content in SCA|Verifies an admin can create styled content that is a video type using Content Publishing.|Rome|
 |Create news content via Content Library|Creates and publishes a news article to the portal.|Xanadu|
-|Content Publishing: Schedule [[ec-streamline-content|Portal Content]] \(Banner, Calendar, Event, and Rich Text|Creates and schedules test portal content.|Yokohama|
+|Content Publishing: Schedule Portal Content \(Banner, Calendar, Event, and Rich Text|Creates and schedules test portal content.|Yokohama|
 |Create and publish new styled content \(block and banner\)|Verifies that a user can create a styled content banner and block, and publish the content items to a topic page.|Yokohama|
 
 |Test|Description|Release version|
 |----|-----------|---------------|
 |Content Experiences: Create and Publish a Campaign|Creates and publishes a campaign with portal content.|Orlando|
-|Create and publish campaign - Styled content \(block\), event, and calendar|Verifies that a user can [[ecpro-create-campaign|create a campaign]] for immediate publication containing styled content \(block\), event, calendar content types.|Yokohama|
+|Create and publish campaign - Styled content \(block\), event, and calendar|Verifies that a user can create a campaign for immediate publication containing styled content \(block\), event, calendar content types.|Yokohama|
 |Create and publish Fixed Date stage campaign - Styled Content \(Block\), Event and Calendar|Verifies that a user can create a campaign with a specific publication date containing styled content \(block\), event, calendar content types.|Yokohama|
 |Content Experiences: Portal preview|Verifies that a campaign manager is able to preview portal content using the portal preview.|Rome|
 |Content Experiences: Preview individual content before Publishing a Campaign|Verifies a campaign manager can preview any individual content for a campaign.|San Diego|
@@ -297,13 +297,3 @@ San Diego
 
 [Quick start tests for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/quick-start-tests-employee-center.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[web-application-employee-about|App Launcher]]
-- [[rfy-ec|Recommended for you]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ec-streamline-content|Portal content]]
-- [[ecpro-create-campaign|Create a campaign]]

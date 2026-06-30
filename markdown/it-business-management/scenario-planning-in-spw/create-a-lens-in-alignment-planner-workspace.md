@@ -14,7 +14,7 @@ breadcrumb: [Lens configuration in Strategic Planning, Configure, Portfolio Plan
 
 # Create or modify a lens in Strategic Planning
 
-Start defining your company's planning perspectives in [[alignment-planner-workspace-landing-page|Strategic Planning]] by creating a lens.
+Start defining your company's planning perspectives in Strategic Planning by creating a lens.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Create a lens record and add the type of items \(Project, Demand, and others\) t
 
 [Lenses in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/lens-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

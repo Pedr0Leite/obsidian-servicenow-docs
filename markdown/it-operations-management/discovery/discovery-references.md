@@ -14,7 +14,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Discovery reference
 
-Reference topics provide additional information about [[r-discovery|Discovery]] lists and forms.
+Reference topics provide additional information about Discovery lists and forms.
 
 -   **[Cloud Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-reference.md)**  
 Reference topics provide additional information about the lists, forms, and cloud settings used in Cloud Discovery.
@@ -27,22 +27,15 @@ Discovery logs contain information on the horizontal discovery process based on 
 -   **[Discovery Schedule form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-schedule-form.md)**  
 The Discovery Schedule form provides details about the configuration items \(CIs\) targeted for discovery, the associated MID Server, and the schedule settings for when and how the discovery runs.
 -   **[Create a new discovery schedule form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-a-new-discovery-schedule-form.md)**  
-The Create a new discovery schedule form displays information related to the schedule and the target cloud provider. The Create a new discovery schedule form is available in the [[cow-landing-page|Cloud Discovery Workspace]].
+The Create a new discovery schedule form displays information related to the schedule and the target cloud provider. The Create a new discovery schedule form is available in the Cloud Discovery Workspace.
 -   **[Discovery Admin Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)**  
-Reference topics provide additional information about the lists, forms, and settings used in [[discovery-admin-workspace|Discovery Admin Workspace]].
+Reference topics provide additional information about the lists, forms, and settings used in Discovery Admin Workspace.
 -   **[Queue Registration form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_QueueRegistrationForm.md)**  
 The Queue Registration form displays the fields available when creating or modifying a queue.
 -   **[Quick start test for IP Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/quick-start-tests-ip-discovery.md)**  
-[[quick-start-tests-ip-discovery|Quick start test for IP discovery]] validate configuration items \(CI\) and their relationships.
+Quick start test for IP discovery validate configuration items \(CI\) and their relationships.
 -   **[Tracked Configuration file form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/tracked-configuration-file-form.md)**  
-The [[tracked-configuration-file-form|Tracked Configuration file form]] displays details about a specific configuration file.
+The Tracked Configuration file form displays details about a specific configuration file.
 
 **Parent Topic:**[Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[quick-start-tests-ip-discovery|Quick start test for IP Discovery]]
-- [[tracked-configuration-file-form|Tracked Configuration file form]]

@@ -20,7 +20,7 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 ## Business rules installed with Customer Service CTI Demo Data
 
-Business [[gamification-components-rules|rules]] are added with activation of Customer Service CTI Demo Data.
+Business rules are added with activation of Customer Service CTI Demo Data.
 
 <table id="table_jhr_czw_kt"><thead><tr><th>
 
@@ -48,7 +48,3 @@ Used to dequeue a call whenever an agent becomes available.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[gamification-components-rules|Rules]]

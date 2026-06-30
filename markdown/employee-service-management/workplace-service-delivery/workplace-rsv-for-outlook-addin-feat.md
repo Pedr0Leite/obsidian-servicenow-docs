@@ -14,7 +14,7 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Reservations for Microsoft Outlook Add-in
 
-Reserve a workplace space in less than a minute without using the Reservation portal. The ServiceNow® Workplace Reservations for Microsoft Outlook Add-in enables you to [[reservation-portal|make a reservation]] using Microsoft Outlook directly.
+Reserve a workplace space in less than a minute without using the Reservation portal. The ServiceNow® Workplace Reservations for Microsoft Outlook Add-in enables you to make a reservation using Microsoft Outlook directly.
 
 ## Get started
 
@@ -32,12 +32,7 @@ Reserve a workplace space in less than a minute without using the Reservation po
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-rsv-for-outlook-addin-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-rsv-for-outlook-addin-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

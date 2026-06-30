@@ -14,11 +14,11 @@ breadcrumb: [Use synthetic monitoring with Service Observability, Customize dash
 
 # Add synthetic monitor results to a Service Observability dashboard
 
-Add a synthetic monitor to a dashboard in [[service-observability|Service Observability]] by customizing an existing dashboard template.
+Add a synthetic monitor to a dashboard in Service Observability by customizing an existing dashboard template.
 
 ## About this task
 
-Once you have created monitors for your services, you can display those results on your Service Observability [[otto-aiops-dashboards|dashboards]] by customizing the template to include a chart that queries [[synthetic-monitoring-landing-page|synthetic monitoring]]. You can add synthetic monitoring to either the Overview dashboard or the Observability &gt; Service dashboard.
+Once you have created monitors for your services, you can display those results on your Service Observability dashboards by customizing the template to include a chart that queries synthetic monitoring. You can add synthetic monitoring to either the Overview dashboard or the Observability &gt; Service dashboard.
 
 **Note:** When you customize the template to add synthetic monitoring, you're adding it to all dashboards that use that template. Services that don't have a configured monitor display an empty chart.
 
@@ -28,7 +28,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -71,9 +71,3 @@ Role required: sn\_sow\_svcobs.admin
 
 For detailed instructions about editing dashboards, see [Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md).
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

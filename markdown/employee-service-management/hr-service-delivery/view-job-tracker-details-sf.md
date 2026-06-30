@@ -64,11 +64,7 @@ Role required: sn\_hr\_sf.admin
 
 [Field mappings]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Integration with SuccessFactors]()
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Integration with SuccessFactors]()
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

@@ -12,7 +12,7 @@ breadcrumb: [Create action buttons, Declarative actions, Administer, Configurabl
 
 # Create a form action button
 
-Create a form action button and [[configure-onboarding-modals|configure]] it to appear in a workspace.
+Create a form action button and configure it to appear in a workspace.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: admin
         -   **Server Script** applies the action to the server or database as JavaScript.
         -   **UXF Client Action** applies the action as a UI Builder page event.
         -   **Client Script** applies the action to the web browser as JavaScript.
-        -   **UI interaction** applies the action as reusable logic and UI elements. For configuration instructions, see [[configure-da-ui-interactions|Trigger a UI interaction from a declarative action]].
+        -   **UI interaction** applies the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md).
     -   **Table**
 
         Table for the action button to appear on.
@@ -82,12 +82,8 @@ Configure a button to apply an action in the following ways:
 
     Trigger a UI interaction from a declarative action to extend a page without taking ownership.
 
--   **[[configuring-an-action-button-to-open-a-custom-modal|Configure a form action to open a custom modal]]**
+-   **[Configure a form action to open a custom modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configuring-an-action-button-to-open-a-custom-modal.md)**
 
     Configure a declarative action to open a custom modal that provides information or interactive elements without navigating away from the current page.
 
-## Related
 
-- [[configure-da-ui-interactions|Trigger a UI interaction from a declarative action]]
-- [[configuring-an-action-button-to-open-a-custom-modal|Configuring a form action to open a custom modal]]
-- [[configure-onboarding-modals|Configure]]

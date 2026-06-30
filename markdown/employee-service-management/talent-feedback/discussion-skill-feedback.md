@@ -14,7 +14,7 @@ breadcrumb: [View feedback requests, Working with Skill feedback in Talent Feedb
 
 # Begin a discussion from a Talent Feedback request
 
-You can choose to begin a discussion regarding a [[talent-feedback-landing|talent feedback]] request using the Discuss option.
+You can choose to begin a discussion regarding a talent feedback request using the Discuss option.
 
 ## Before you begin
 
@@ -73,6 +73,4 @@ A message to the participants explaining the feedback/skill.
 </td></tr></tbody>
 </table>5.  Select **Start discussion**.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Expense line fields for Enterprise Asset Management
 
-A detailed description of all expense line fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all expense line fields in the Enterprise Asset Management application.
 
 ## Expense Line
 
@@ -193,7 +193,7 @@ Cost center that is financially responsible for the selected enterprise asset.
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -221,7 +221,3 @@ Cost center that is financially responsible for the selected enterprise asset.
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

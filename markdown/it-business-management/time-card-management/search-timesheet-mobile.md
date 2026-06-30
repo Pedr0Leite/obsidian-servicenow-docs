@@ -22,7 +22,7 @@ Role required: timecard\_user
 
 ## About this task
 
-You can apply filters on the time sheet lists to search for a specific time sheet in the **All**, **Rejected**, and **Recalled** groups, or while copying [[c_TimeCards|time cards]] from a previous time sheet. You can apply one or more filters while searching for a time sheet.
+You can apply filters on the time sheet lists to search for a specific time sheet in the **All**, **Rejected**, and **Recalled** groups, or while copying time cards from a previous time sheet. You can apply one or more filters while searching for a time sheet.
 
 ## Procedure
 
@@ -43,6 +43,3 @@ You can apply filters on the time sheet lists to search for a specific time shee
 
 **Parent Topic:**[Create a time sheet from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-timesheet-mobile.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]

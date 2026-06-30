@@ -23,13 +23,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Administration** &gt; **Approval rules**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Approval rules**.
 
     \[Omitted image "apo-approval-rules.png"\] Alt text: Navigate to Approval rules
 
 2.  Select **New**.
 
-3.  On the [[new-approval-rule-form|Approval Rule form]], fill in the fields.
+3.  On the Approval Rule form, fill in the fields.
 
     For a description of the field values, see [Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/new-approval-rule-form.md).
 
@@ -41,12 +41,7 @@ Role required: admin
 You can also associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. For more information, see [Approval rule grouping and sequencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-rule-sequencing.md).
 
 -   **[Approval rule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approval-rule-types.md)**  
-Reference information for the [[invoice-approval-rule-types|approval rule types]] available in the invoice approval process, including approval conditions, routing methods, and decision methods.
+Reference information for the approval rule types available in the invoice approval process, including approval conditions, routing methods, and decision methods.
 
 **Parent Topic:**[Invoice approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[new-approval-rule-form|Approval Rule form]]
-- [[invoice-approval-rule-types|Approval rule types]]

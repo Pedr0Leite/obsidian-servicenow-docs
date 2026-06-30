@@ -14,7 +14,7 @@ breadcrumb: [Reference, Loan Operations, Banking applications, Financial Service
 
 # Components installed with Financial Services Business Loan Operations
 
-Several types of components are installed with the installation of the [[fso-overview|Financial Services]] Business Loan Operations application, including tables and user roles. The application also installs related plugins and store applications if they aren’t already installed.
+Several types of components are installed with the installation of the Financial Services Business Loan Operations application, including tables and user roles. The application also installs related plugins and store applications if they aren’t already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -43,9 +43,9 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make loan service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make loan service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Financial Services Credit Operations|Enables the management of Credit service cases and tasks that are used in loan operations workflows. For more information, see [Components installed with Financial Services Credit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/installed-with-credit-assessment.md).|
-|Document Processor|Enables the management of document services tasks that are used in loan operations workflows. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Document Processor|Enables the management of document services tasks that are used in loan operations workflows. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -114,7 +114,7 @@ Loan contributor\[sn\_bom\_loan\_b2b.contributor\]
 -   View the status of loan service cases
 -   Work on loan case and collect inbound documents for accounts managed by them till the Initiate and Review stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -159,7 +159,7 @@ Loan manager\[sn\_bom\_loan\_b2b.manager\]
 
 </td><td>
 
--   View the [[business-loan-operations-dashboard|business loan operations dashboard]]
+-   View the business loan operations dashboard
 -   Use Process Mining for Business Loan Operations processes
 
 </td><td>
@@ -224,10 +224,3 @@ Stores all business loan tasks. This table extends the Financial Task \[sn\_bom\
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Loan Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/loan-operations-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[business-loan-operations-dashboard|Business Loan Operations dashboard]]

@@ -14,23 +14,23 @@ breadcrumb: [Now Assist for Process Mining, Use, Process Mining, Platform Analyt
 
 # Exploring Now Assist for Process Mining
 
-Use ServiceNow [[now-assist|Now Assist for Process Mining]] to minimize time, maximize effort, and reduce complexity in project setup, identifying bottlenecks and retrieving process inefficiencies.
+Use ServiceNow Now Assist for Process Mining to minimize time, maximize effort, and reduce complexity in project setup, identifying bottlenecks and retrieving process inefficiencies.
 
 ## Now Assist for Process Mining overview
 
 Identifying the root cause of inefficient transitions is challenging and time-consuming, requiring manually examining numerous records for each transition. With thousands of transitions in a process, this task becomes overwhelming and leads to missed opportunities.
 
-This feature is accessible to customers with both [[process-mining|Process Mining]] and GenAI.
+This feature is accessible to customers with both Process Mining and GenAI.
 
 ## Transition Work Notes Analysis skill
 
-Now Assist for Process Mining includes the Transition [[worknotes-analysis|Work Notes Analysis]] skill. This skill must be activated to use Now Assist for Process Mining to analyze work notes. For more information, see [Activate work notes analysis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-na-skill.md).
+Now Assist for Process Mining includes the Transition Work Notes Analysis skill. This skill must be activated to use Now Assist for Process Mining to analyze work notes. For more information, see [Activate work notes analysis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-na-skill.md).
 
 **Note:** You can use the Now Assist feature for work notes analysis with 5-50 eligible work notes. If there are less than 25 eligible work notes, the system will not run clustering, but will put all the work notes into one LLM call, otherwise clustering will be performed before calling the LLM.
 
 Once activated and configured, Now Assist for Process Mining uses an LLM to:
 
--   Analyze all work notes related to inefficient transitions and provide the most important reasons for the transition. This feature is visible in the [[analyst-workbench-overview|Process Mining workspace]] and [[c_performanceAnalyticsAndReporting|Platform Analytics]] Process Mining components.
+-   Analyze all work notes related to inefficient transitions and provide the most important reasons for the transition. This feature is visible in the Process Mining workspace and Platform Analytics Process Mining components.
 
     When a transition analysis job is initiated, relevant work notes from records in the transition are gathered. Work notes are grouped into clusters, and one LLM call is used for each cluster to explain why the transition occurred.
 
@@ -38,28 +38,18 @@ Once activated and configured, Now Assist for Process Mining uses an LLM to:
 
 ## Process Inefficiency Highlights skill
 
-Now Assist for Process Mining includes the Process Inefficiency Highlights skill. This skill must be activated to use Now Assist for Process Mining to [[generate-highlights|generate highlights for improvement opportunities]]. For more information, see [Activate Process Inefficiency Highlights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-highlight-skills.md).
+Now Assist for Process Mining includes the Process Inefficiency Highlights skill. This skill must be activated to use Now Assist for Process Mining to generate highlights for improvement opportunities. For more information, see [Activate Process Inefficiency Highlights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-highlight-skills.md).
 
 ## Intent and Activity Analysis skill
 
-Now Assist for Process Mining includes the [[intent-activity-analysis|Intent and Activity Analysis]] skill. This skill must be activated to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks. For more information, see [Activate Process Inefficiency Highlights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-highlight-skills.md).
+Now Assist for Process Mining includes the Intent and Activity Analysis skill. This skill must be activated to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks. For more information, see [Activate Process Inefficiency Highlights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-highlight-skills.md).
 
 ## What to explore next
 
-To learn more about configuring and [[use-na-process-mining|using Now Assist for Process Mining]], see:
+To learn more about configuring and using Now Assist for Process Mining, see:
 
 -   [Configuring Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/config-na-proc-min.md)
 -   [Using Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-na-process-mining.md)
 
 **Parent Topic:**[Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/now-assist.md)
 
-## Related
-
-- [[now-assist|Now Assist for Process Mining]]
-- [[process-mining|Process Mining]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[generate-highlights|Generate highlights for improvement opportunities]]
-- [[intent-activity-analysis|Intent and activity analysis]]
-- [[use-na-process-mining|Using Now Assist for Process Mining]]

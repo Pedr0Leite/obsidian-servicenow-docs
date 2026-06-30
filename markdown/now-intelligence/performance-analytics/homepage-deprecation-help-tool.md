@@ -22,15 +22,11 @@ On upgrade to Zurich, active homepages are converted to Core UI responsive dashb
 -   Personal homepages that are owned by inactive users are automatically deprecated.
 -   Homepages that do not have a Read role are automatically deprecated.
 
-Use the [[hp-dep-help-tool-features|Homepage deprecation help tool]] to find all of your unconverted homepages in one place and convert them to dashboards, retire them, and restore retired homepages as dashboards.
+Use the Homepage deprecation help tool to find all of your unconverted homepages in one place and convert them to dashboards, retire them, and restore retired homepages as dashboards.
 
 The Homepage deprecation help tool enables system and dashboard administrators to retire homepages or convert homepages to responsive dashboards using workflows. You can track migration status and assign tasks to users and groups. Retiring personal homepages includes a request sent to the owner for approval. The Homepage deprecation help tool is a store app for users with the admin and dashboard\_admin roles. To use this application, see [Install the Homepage deprecation help tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-hp-dep-app.md).
 
-To find the dashboard versions of converted homepages, navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+To find the dashboard versions of converted homepages, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 To access the Homepage deprecation dashboard, navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Overview**.
 
-## Related
-
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

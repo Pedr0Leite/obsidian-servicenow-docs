@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for B
 
 # Assign roles for Care Team Operations for Biomed
 
-Confirm that the correct roles are assigned to users of [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+Confirm that the correct roles are assigned to users of Care Team Operations for Biomed.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Moniotors the tasks within their organization.
 </td></tr></tbody>
 </table>**Example:**
 
-A user who must fulfill work orders created from the [[care-team-portal-landing|Care Team Portal]] using the Care Team Operations for Biomed plugin must be assigned the sn\_cto\_biomed.loc\_support\_agent role.
+A user who must fulfill work orders created from the Care Team Portal using the Care Team Operations for Biomed plugin must be assigned the sn\_cto\_biomed.loc\_support\_agent role.
 
 ## Procedure
 
@@ -67,7 +67,4 @@ A user who must fulfill work orders created from the [[care-team-portal-landing|
 
 4.  Select **Save**.
 
-## Related
 
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[care-team-portal-landing|Care Team Portal]]

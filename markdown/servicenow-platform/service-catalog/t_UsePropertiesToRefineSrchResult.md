@@ -14,7 +14,7 @@ breadcrumb: [Configure search and navigation, Service catalog home page configur
 
 # Refine search results
 
-Use properties to refine search results in [[service-catalog|Service Catalog]].
+Use properties to refine search results in Service Catalog.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Auto-completion also applies to the **Request for** field, which can be added to
 
 **Parent Topic:**[Configure search and navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ConfigSrchNavUseProps.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

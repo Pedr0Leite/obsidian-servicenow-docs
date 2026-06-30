@@ -48,7 +48,7 @@ Finally, tap the **Launch Demo** button to start using the demo. The demo automa
 </td></tr></tbody>
 </table>## Demo highlights
 
-The Mobile Agent app demo displays a launcher screen divided into sections. Tap an item in any section to open the item or tap **See All** to view all items in that section. For details on how [[sg-mobile-applet-launcher|launcher screens]], other screens, and actions work together in the mobile environment, see [[mobile-hierarchy|Mobile hierarchy]].
+The Mobile Agent app demo displays a launcher screen divided into sections. Tap an item in any section to open the item or tap **See All** to view all items in that section. For details on how launcher screens, other screens, and actions work together in the mobile environment, see [Mobile hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md).
 
 ## Customer Service Agent
 
@@ -103,7 +103,7 @@ The Mobile Agent app demo displays a launcher screen divided into sections. Tap 
 
     Conduct scheduled or ad-hoc asset inventory audits of stockrooms, data centers or office locations by scanning barcodes with the Mobile Agent app. Multiple technicians can scan against a single audit at the same time.
 
--   **Receive hardware assets with [[sg-mobile-scanning|mobile barcode scanning]]**
+-   **Receive hardware assets with mobile barcode scanning**
 
     Accurately scan and receive multiple assets against open purchase orders. Create new asset records directly from the Mobile Agent app.
 
@@ -169,13 +169,6 @@ The Mobile Agent app demo displays a launcher screen divided into sections. Tap 
 
 Use the following links to learn more about on how to use and configure the Mobile Agent app.
 
--   [[mobile-experience|Mobile Agent app]]
--   [[build-mobile-apps-landing|Building mobile apps]]
+-   [Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-experience.md)
+-   [Building mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md)
 
-## Related
-
-- [[mobile-hierarchy|Mobile hierarchy]]
-- [[mobile-experience|Mobile Agent app]]
-- [[build-mobile-apps-landing|Building mobile apps]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[sg-mobile-scanning|Mobile barcode scanning]]

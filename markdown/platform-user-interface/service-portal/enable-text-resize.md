@@ -18,7 +18,7 @@ Enable text resize to increase the size of your text up to 200% through your bro
 
 ## Before you begin
 
--   If you upgraded to a Rome instance from a prior release, the property is created for you. The property default is set to **False** for [[c_ServicePortal|Service Portal]] and Mobile Employee Service Portal \(MESP\). Follow the steps in this task to manually set the property to **True**.
+-   If you upgraded to a Rome instance from a prior release, the property is created for you. The property default is set to **False** for Service Portal and Mobile Employee Service Portal \(MESP\). Follow the steps in this task to manually set the property to **True**.
 -   If you have a new portal or a zBoot instance, the property is set to True by default. There are no actions you need to take.
 -   If you haven't upgraded to a Rome instance, the property is created, but is set to **False** by default.
 
@@ -61,6 +61,4 @@ Role required: admin
 
     **Note:** If an issue arises with resize text for custom pages coming from styling from custom CSS includes, convert those CSS values from pixels to REMs.​
 
-## Related
 
-- [[c_ServicePortal|Service Portal]]

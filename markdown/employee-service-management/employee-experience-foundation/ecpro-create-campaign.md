@@ -20,7 +20,7 @@ Create a campaign to push communications and important information to your emplo
 
 Role required: sn\_ca.campaign\_manager
 
-If you would like to use [[ecpro-content-automation-analytics|Content Analytics]] to track the success of your campaign, you must set up a tracking profile and activate it. For more information, see [Content Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-analytics.md).
+If you would like to use Content Analytics to track the success of your campaign, you must set up a tracking profile and activate it. For more information, see [Content Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-analytics.md).
 
 ## About this task
 
@@ -124,7 +124,7 @@ Re-evaluate frequency
 
 The frequency, in days, that you want to re-evaluate the audience. **Important:** To ensure that campaigns reflect any audience changes occurring since the last publication date, it is necessary to set the re-evaluation frequency.
 
-[[ecpro-audience|Audiences]] are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
+Audiences are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
 
  The value you set in this field overrides the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md).
 
@@ -156,7 +156,3 @@ Click the Lookup using list icon and select the tracking profile that you want t
 
 Click **Next** or the **Schedule of Content** tab to add stages and content to the campaign: [Create campaign stages with Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaign-builder.md)
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[ecpro-audience|Audiences]]

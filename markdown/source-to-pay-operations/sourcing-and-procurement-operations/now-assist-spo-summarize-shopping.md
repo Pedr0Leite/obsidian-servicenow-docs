@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for SPO, Sourcing and Procurement Operations, Finan
 
 # Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub
 
-As a shopper, summarize [[sourcing-request|sourcing request]], [[purchase-requisition|purchase requisition]], and [[purchase-order-table|purchase order]] records to know about their status, progress, and action items by using the record summarization skills in the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application.
+As a shopper, summarize sourcing request, purchase requisition, and purchase order records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 ## About this task
 
-You can use these record summarization skill in either Core UI or [[shopping-hub-overview|Shopping Hub]].
+You can use these record summarization skill in either Core UI or Shopping Hub.
 
 -   In Core UI, the summary appears in a banner in the record.
 -   In Shopping Hub, the summary is generated in a widget in the record.
@@ -141,10 +141,3 @@ If you want to check some details about the summary, select the more info icon \
 
 [Analyze sentiment in procurement cases]()
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[shopping-hub-overview|Shopping Hub]]

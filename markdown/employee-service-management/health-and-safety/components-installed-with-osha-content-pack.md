@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Incident Management OSHA Content Pack,
 
 # Components installed with Health and Safety Incident Management OSHA Content Pack
 
-Several types of components are installed with installation of the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] application, including tables and system properties.
+Several types of components are installed with installation of the Health and Safety Incident Management OSHA Content Pack application, including tables and system properties.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -41,6 +41,3 @@ Stores OSHA form PDF template records that are required for OSHA form generation
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reporting-reference.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]

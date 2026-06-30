@@ -24,7 +24,7 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 <table id="table_c2g_zps_nyb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text:Learn about the key features and benefits of Guided Tours.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-guided-tours.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the key features and benefits of Guided Tours.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-guided-tours.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get more information about Guided Tours.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-[[onboarding-modals-reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get more information about Guided Tours.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-reference.md)
 
 </td><td>
 
@@ -52,7 +52,3 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[exploring|Explore]]
-- [[onboarding-modals-reference|Reference]]

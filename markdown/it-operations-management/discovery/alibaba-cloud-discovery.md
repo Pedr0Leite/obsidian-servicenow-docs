@@ -15,11 +15,11 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Discovery for Alibaba Cloud
 
-Alibaba Cloud [[r-discovery|discovery]] is one of the overall Cloud discovery offerings within the [[r_ITOMApplications|IT Operations Management]] \(ITOM\) Visibility framework. It’s an automated process used to scan and identify Alibaba Cloud resources within your organization's cloud infrastructure. This discovery process is critical for maintaining an accurate and trustworthy data foundation—the Configuration Management Database \(CMDB\).
+Alibaba Cloud discovery is one of the overall Cloud discovery offerings within the IT Operations Management \(ITOM\) Visibility framework. It’s an automated process used to scan and identify Alibaba Cloud resources within your organization's cloud infrastructure. This discovery process is critical for maintaining an accurate and trustworthy data foundation—the Configuration Management Database \(CMDB\).
 
 ## Pattern-based cloud discovery
 
-[[using-discovery|Using Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns to perform horizontal discovery enables you to find and map your organization's Alibaba Cloud resources. You can discover Alibaba Cloud metadata including:
+Using Discovery and Service Mapping Patterns to perform horizontal discovery enables you to find and map your organization's Alibaba Cloud resources. You can discover Alibaba Cloud metadata including:
 
 -   Cloud service accounts.
 -   Datacenters.
@@ -80,11 +80,11 @@ Install the store applications and update them on every store release:-   Discov
 -   Discovery and Service Mapping Patterns
 -   Visibility content.
 -   CMDB CI Class Models
--   [[discovery-admin-workspace|Discovery Admin Workspace]]
+-   Discovery Admin Workspace
 
 </td><td>
 
-[[store-upgrades-landing|ITOM Store upgrades]]
+[ITOM Store upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/store-upgrades-landing.md)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ admin
 
 </td><td>
 
--   [[create-mid-server-user|Create a MID Server user]].
+-   Create a MID Server user.
 -   Assign the MID Server role to the user.
 
 </td><td>
@@ -119,7 +119,7 @@ Install a MID Server.
 
 -   [Install a MID Server on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallAMIDServerOnLinux.md)
 -   [Install a MID Server on Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-install-prereqs.md)
--   [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
+-   [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md)
 
 </td></tr><tr><td>
 
@@ -220,7 +220,7 @@ Set up a discovery schedule for Alibaba Cloud
 
 </td></tr></tbody>
 </table>-   **[Create Alibaba Cloud API Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-cloud-api-credentials.md)**  
-[[create-alibaba-cloud-api-credentials|Create Alibaba Cloud API credentials]] on the ServiceNow AI Platform to enable access to your Alibaba Cloud resources during Alibaba Cloud discovery.
+Create Alibaba Cloud API credentials on the ServiceNow AI Platform to enable access to your Alibaba Cloud resources during Alibaba Cloud discovery.
 -   **[Set up Alibaba Cloud service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-up-alibaba-cloud-service-account.md)**  
 Create Alibaba Cloud infrastructure service accounts on the ServiceNow AI Platform to access your Alibaba Cloud account during Alibaba Cloud discovery.
 -   **[Create a Discovery schedule for Alibaba Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-cloud-discovery-schedule.md)**  
@@ -230,14 +230,3 @@ Use the Discovery Admin Workspace dashboard to create an Alibaba Cloud Discovery
 
 **Parent Topic:**[Discovery for cloud environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-wizard.md)
 
-## Related
-
-- [[store-upgrades-landing|ITOM Store upgrades]]
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[r-discovery|Discovery]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[using-discovery|Using Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[create-mid-server-user|Create a MID Server user]]
-- [[create-alibaba-cloud-api-credentials|Create Alibaba Cloud API Credentials]]

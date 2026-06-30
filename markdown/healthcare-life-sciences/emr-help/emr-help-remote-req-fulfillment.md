@@ -32,7 +32,7 @@ Embed the service portal page for submitting ServiceNow IT service requests with
 
 To learn more, contact the Epic team representative of your institution.
 
-As an administrator, you can use the [[emr-exploring|EMR Help]] service portal for enabling clinicians to submit IT service requests. For more information, see [Configuring the EMR Help service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/config-emr-help-sp.md).
+As an administrator, you can use the EMR Help service portal for enabling clinicians to submit IT service requests. For more information, see [Configuring the EMR Help service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/config-emr-help-sp.md).
 
 To use a dedicated service portal, you can create a record producer to define the fields for the help form in the record producer and then embed the form in your service portal. Clinicians can use this help form to submit IT service requests.
 
@@ -50,6 +50,4 @@ When embedding the form in your service portal, note the following points:
 
     **Note:** EMR variables include workstation ID, server, patient medical record number \(MRN\), and others. You define the EMR variables as task parameters. The EMR variable values are automatically populated, if configured to be displayed on the EMR system help form. For more information, see [Configure request parameters for EMR systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-emr-help-req-parm.md).
 
-## Related
 
-- [[emr-exploring|EMR Help]]

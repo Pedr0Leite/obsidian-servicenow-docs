@@ -47,10 +47,7 @@ Control who can access external links by setting the user criteria, which allows
 
 [Create a quick link]()
 
-[Modify the [[emp-center-quick-link-config|Quick links]] widget display]()
+[Modify the Quick links widget display]()
 
 [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

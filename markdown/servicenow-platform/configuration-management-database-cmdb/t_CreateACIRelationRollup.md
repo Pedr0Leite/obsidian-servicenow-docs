@@ -54,7 +54,7 @@ CI relation rollups use the **cmdb synch event** business rule on the \[cmdb\_ci
 
 7.  Select the **Update**, **Delete**, and **Query** check boxes.
 
-    Additionally, if you wish CI relation rollups to recalculate when there is a change to a relationship, use a similar procedure to select the **Active** [[check-box|check box]] on the **cmdb\_rel\_ci synch event** business rule.
+    Additionally, if you wish CI relation rollups to recalculate when there is a change to a relationship, use a similar procedure to select the **Active** check box on the **cmdb\_rel\_ci synch event** business rule.
 
 
 **Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
@@ -78,6 +78,3 @@ CI relation rollups use the **cmdb synch event** business rule on the \[cmdb\_ci
 
 [CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
-## Related
-
-- [[check-box|Check box]]

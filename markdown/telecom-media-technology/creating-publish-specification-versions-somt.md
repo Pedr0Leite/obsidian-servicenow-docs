@@ -31,10 +31,10 @@ As a product catalog manager, you do the following actions when you create a ver
     -   Decomposition rules
     -   Quantity mappings
     -   Attribute propagation rules
-    **Note:** To learn more, see [[create-publish-new-specification-somt|Create and publish a specification version]].
+    **Note:** To learn more, see [Create and publish a specification version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-publish-new-specification-somt.md).
 
-3.  Create a product offering, and then publish it when you update your product catalog. To learn more, see [[create-publish-product-offering-version-somt|Create and publish a product offering version]].
-4.  Retire or archive old or unused specifications, and product offerings. To learn more, see [[retiring-archiving-specifications-somt|Retiring or archiving versioned specifications and product offerings]].
+3.  Create a product offering, and then publish it when you update your product catalog. To learn more, see [Create and publish a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-publish-product-offering-version-somt.md).
+4.  Retire or archive old or unused specifications, and product offerings. To learn more, see [Retiring or archiving versioned specifications and product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/retiring-archiving-specifications-somt.md).
 
 ## Updates and validations that are performed when you create and publish a specification version
 
@@ -145,9 +145,3 @@ Update or remove the invalid characteristics in the Attribute Mappings form:1.  
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-publish-new-specification-somt|Create and publish a specification version]]
-- [[create-publish-product-offering-version-somt|Create and publish a product offering version]]
-- [[retiring-archiving-specifications-somt|Retiring or archiving versioned specifications and product offerings]]

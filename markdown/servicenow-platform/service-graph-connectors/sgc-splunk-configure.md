@@ -31,13 +31,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Splunk** &gt; **Setup** in the navigation panel in your instance.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Splunk** &gt; **Setup** in the navigation panel in your instance.
 
 2.  On the Welcome to Guided Setup Home page, select **Continue**.
 
 3.  On the Experience page that is displayed, select **Best Experience** followed by **Continue**.
 
-    On the [[sgc-splunk-integration|Service Graph Connector for Splunk]] page, there are three tasks displayed:
+    On the Service Graph Connector for Splunk page, there are three tasks displayed:
 
     -   Configure the connection
     -   Add multiple instances
@@ -53,7 +53,7 @@ Role required: admin
 
     1.  Enter a name for the credentials, for example **SG-Splunk Credentials**.
 
-    2.  Verify the **Active** [[check-box|check box]] is selected.
+    2.  Verify the **Active** check box is selected.
 
     3.  Enter your User name and Password for your Splunk instance.
 
@@ -131,7 +131,7 @@ Host
 
 </td><td>
 
-Splunk domain part of the URL without the 'https'. An example might be `splunk3.com` or an [[ip-address|IP address]].
+Splunk domain part of the URL without the 'https'. An example might be `splunk3.com` or an IP address.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ https.
 
 </td></tr><tr><td>
 
-\(Optional\) Use [[mid-server-landing|MID server]]
+\(Optional\) Use MID server
 
 </td><td>
 
@@ -323,10 +323,4 @@ The query offers more information about the forwarder along with extensive asset
 
     5.  On the Service Graph Connector for Splunk page for Guided Setup, select **Complete** to finish the configuration.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgc-splunk-integration|Service Graph Connector for Splunk]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]

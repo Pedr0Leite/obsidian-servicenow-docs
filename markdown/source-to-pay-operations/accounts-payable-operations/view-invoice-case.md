@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
-3.  Navigate to **Lists** &gt; **Primary Data** &gt; **[[invoices|Invoices]]**.
+3.  Navigate to **Lists** &gt; **Primary Data** &gt; **Invoices**.
 
 4.  Open an invoice.
 
@@ -55,12 +55,7 @@ The invoice processing case opens.
 
 [Reset an invoice to the Received status]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

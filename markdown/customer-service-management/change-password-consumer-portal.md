@@ -12,7 +12,7 @@ breadcrumb: [Using the Consumer Service Portal, Customer communication, Use, Cus
 
 # Change your password from the Consumer Service Portal
 
-[[password-change-consumer-portal|Change your password from the consumer portal]].
+Change your password from the consumer portal.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ Retype the new password.
 </td></tr></tbody>
 </table>4.  Click **Change**.
 
-## Related
 
-- [[password-change-consumer-portal|Change your password from the Consumer Portal]]

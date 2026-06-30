@@ -13,7 +13,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Accessing associated cases and interaction emails
 
-Access the associated case from the [[email-as-an-interaction|email interaction]] and vice versa. From the email interaction, agents can view the linked case for additional context. While from the case, they can access all related email interactions. This smooth navigation helps agents manage customer issues more effectively.
+Access the associated case from the email interaction and vice versa. From the email interaction, agents can view the linked case for additional context. While from the case, they can access all related email interactions. This smooth navigation helps agents manage customer issues more effectively.
 
 ## Access a case from an email interaction
 
@@ -33,7 +33,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 4.  Open an email interaction.
 
-5.  From the contextual side panel, select **Related [[migration-lists|Lists]]**.
+5.  From the contextual side panel, select **Related Lists**.
 
 6.  From the Related lists section, select **Related Tasks**.
 
@@ -67,7 +67,3 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 All email interactions associated with the case and their details are shown.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]
-- [[migration-lists|Lists]]

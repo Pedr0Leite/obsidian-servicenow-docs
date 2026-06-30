@@ -14,7 +14,7 @@ breadcrumb: [Create a remediation task manually in the IT Remediation Workspace,
 
 # Use remediation task records in the IT Remediation Workspace
 
-Remediation tasks are created and assigned automatically from remediation efforts. IT teams and remediation owners can view remediation tasks in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Remediation tasks are created and assigned automatically from remediation efforts. IT teams and remediation owners can view remediation tasks in the IT Remediation Workspace.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ Role required:
 
 When vulnerability managers and analysts create remediation efforts to drive remediation, remediation tasks are created automatically and assigned to IT teams based on the group that is associated with the records in a remediation effort.
 
-See the vulnerable CIs assigned to you and your groups that have [[vulnerabilities|vulnerabilities]] on them on the **Vulnerable CIs** tab or on the Vulnerable CIs assigned to you and your group list on the List view.
+See the vulnerable CIs assigned to you and your groups that have vulnerabilities on them on the **Vulnerable CIs** tab or on the Vulnerable CIs assigned to you and your group list on the List view.
 
 ## Procedure
 
-1.  In your ServiceNow AI Platform instance, navigate to **[[vuln-landing-page|Vulnerability Response]]** &gt; **IT Remediation Workspace**.
+1.  In your ServiceNow AI Platform instance, navigate to **Vulnerability Response** &gt; **IT Remediation Workspace**.
 
     The Home landing page is displayed.
 
@@ -123,15 +123,10 @@ Select a cell in a column and refine the data displayed by choosing one:-   Show
 </td></tr></tbody>
 </table>    The Solutions tab in a host remediation task shows you both Preferred and Potential solutions information that best matches the vulnerability associated with the remediation task. Solutions are patches that your IT teams apply to resolve vulnerabilities.
 
-    If the [[vuln-solution-mgmt|Vulnerability Solution Management]] application is installed, Preferred Solutions are the highest-superseding solutions that are applied to vulnerable items. The list of solutions is based on the vulnerable items in the host remediation task.
+    If the Vulnerability Solution Management application is installed, Preferred Solutions are the highest-superseding solutions that are applied to vulnerable items. The list of solutions is based on the vulnerable items in the host remediation task.
 
     Potential solutions are the list of all solutions that are available for VITs in a host remediation task.
 
     You can view the CIs \(assets\) that are affected by this vulnerability on the remediation task by navigating to **Overview** &gt; **Affected CIs**.
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vuln-solution-mgmt|Vulnerability Solution Management]]

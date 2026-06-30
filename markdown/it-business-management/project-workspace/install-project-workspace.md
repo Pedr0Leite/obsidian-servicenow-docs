@@ -14,7 +14,7 @@ breadcrumb: [Configuring projects with Project Workspace, Configuring Project Wo
 
 # Install Project Workspace
 
-You can install the [[project-workspace-landing-page|Project Workspace]] application \(sn\_pw\) if you have the admin role.
+You can install the Project Workspace application \(sn\_pw\) if you have the admin role.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Planning attributes dependency plug-in is installed along with Project Workspace
 
 **Parent Topic:**[Configuring projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

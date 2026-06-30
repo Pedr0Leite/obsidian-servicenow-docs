@@ -14,14 +14,14 @@ breadcrumb: [System events reference, System Events, Configure core features, Ad
 
 # Event logs
 
-The event log records all [[events|system events]] that occur within the ServiceNow AI Platform.
+The event log records all system events that occur within the ServiceNow AI Platform.
 
 This log provides the following information for all events that occur:
 
 |Field|Description|
 |-----|-----------|
 |Created|Date and time of the event for the locale of the machine running the instance.|
-|Name|Name of the event as listed in the [[c_EventRegistry|Event Registry]].|
+|Name|Name of the event as listed in the Event Registry.|
 |URI|HTTP query that generated the event.|
 |Parm1|Event-specific value that depends on the event and the recipient.|
 |Parm2|Event-specific value that depends on the event and the recipient.|
@@ -32,7 +32,3 @@ This log provides the following information for all events that occur:
 
 **Parent Topic:**[System events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-reference.md)
 
-## Related
-
-- [[events|System Events]]
-- [[c_EventRegistry|Event registry]]

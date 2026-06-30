@@ -12,7 +12,7 @@ breadcrumb: [Reference, Data visualizations, Platform Analytics experience, Plat
 
 # Data visualization tables
 
-The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations and can be accessed through scripts.
+The following tables relate to Platform Analytics data visualizations and can be accessed through scripts.
 
 |Table|Description|
 |-----|-----------|
@@ -30,9 +30,5 @@ The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Ana
 |par\_visualization\_permission|Contains the role, group, and user permissions for all data visualizations in the visualization library. Extends par\_component\_permission.|
 |report\_stats|Contains usage information for migrated reports and data visualizations including run times, most recent view time, and the number of recent executions.|
 
-**Parent Topic:**[[data-visualization-reference|Data visualization reference]]
+**Parent Topic:**[Data visualization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-reference.md)
 
-## Related
-
-- [[data-visualization-reference|Data visualization reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

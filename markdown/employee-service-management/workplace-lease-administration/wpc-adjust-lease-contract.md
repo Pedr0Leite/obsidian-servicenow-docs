@@ -26,7 +26,7 @@ To adjust a contract, the **State** should be **Active**.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Click **Adjust**.
 
@@ -50,6 +50,3 @@ To adjust a contract, the **State** should be **Active**.
 
 [Cancel workplace contract in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

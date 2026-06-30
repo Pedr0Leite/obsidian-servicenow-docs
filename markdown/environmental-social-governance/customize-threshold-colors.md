@@ -43,8 +43,5 @@ The Color dictionary includes multiple color options. By default, Amber, Red, an
 
 The selected colors are now available in the **Color** field when creating thresholds for a metric.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[configuring-grc-metrics|configuring grc metrics]]

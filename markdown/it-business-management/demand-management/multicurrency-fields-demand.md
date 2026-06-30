@@ -14,7 +14,7 @@ breadcrumb: [Enable demand currency view, Multicurrency, Configure, Demand Manag
 
 # Multicurrency fields in demand-related forms
 
-When you enable the **Demand Currency** view in a Demand, Cost Plan, and [[cost-plan-breakdown|Cost Plan Breakdown]] [[form-field-information-for-dw|forms]], you can observe the multicurrency fields in the Financials section of the forms.
+When you enable the **Demand Currency** view in a Demand, Cost Plan, and Cost Plan Breakdown forms, you can observe the multicurrency fields in the Financials section of the forms.
 
 ## Financials tab of the demand form
 
@@ -46,7 +46,7 @@ Project currency
 
 Currency in which you want to implement the project when this demand is converted to a project.**Note:**
 
-The **Project currency** field in the [[create-a-project-form|Project form]] of [[c_ProjectApplicationOverview|Project Management]] is carried over from the demand when it’s converted.
+The **Project currency** field in the Project form of Project Management is carried over from the demand when it’s converted.
 
 </td></tr><tr><td>
 
@@ -118,10 +118,10 @@ Actual cost in demand currency
 
 </td><td>
 
-Total cost incurred while working on a demand and [[demand-task|demand tasks]] in the selected demand currency.
+Total cost incurred while working on a demand and demand tasks in the selected demand currency.
 
 </td></tr></tbody>
-</table>## Multicurrency fields of the [[demand-task-form|Demand Task form]]
+</table>## Multicurrency fields of the Demand Task form
 
 <table id="table_pj5_syf_dnb"><thead><tr><th>
 
@@ -137,7 +137,7 @@ Demand currency
 
 </td><td>
 
-Currency that you specified in the **Demand currency** field of the [[demand-form|Demand form]].
+Currency that you specified in the **Demand currency** field of the Demand form.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Actual cost in demand currency
 Total cost incurred while working on a demand tasks in the selected demand currency. Actual cost comes after the assignee of the demand task creates and submits a time card. When the time card is approved, the resource rate, derived from the rate card, labor rate, or system properties, is used to populate this field.
 
 </td></tr></tbody>
-</table>## Financials section of the [[demand-plan-form|Cost Plan form]]
+</table>## Financials section of the Cost Plan form
 
 |Field|Description|
 |-----|-----------|
@@ -200,13 +200,3 @@ Total cost incurred while working on a demand tasks in the selected demand curre
 
 **Parent Topic:**[Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]
-- [[create-a-project-form|Project form]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[demand-task|Demand tasks]]
-- [[demand-task-form|Demand task form]]
-- [[demand-form|Demand form]]
-- [[demand-plan-form|Cost plan form]]

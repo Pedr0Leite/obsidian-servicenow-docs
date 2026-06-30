@@ -28,7 +28,7 @@ The `glide.db.clone.allow_clone_target` system property is set to `False`.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System properties]]** &gt; **All properties**.
+1.  Navigate to **All** &gt; **System properties** &gt; **All properties**.
 
 2.  Search for `glide.db.clone.allow_clone_target` in the system properties list.
 
@@ -39,9 +39,5 @@ The `glide.db.clone.allow_clone_target` system property is set to `False`.
 5.  Select **Update**.
 
 
-**Parent Topic:**[[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]
+**Parent Topic:**[Troubleshooting for registering target instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-troubleshooting.md)
 
-## Related
-
-- [[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

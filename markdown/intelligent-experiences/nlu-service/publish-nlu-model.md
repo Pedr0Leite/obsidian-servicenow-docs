@@ -14,11 +14,11 @@ breadcrumb: [Test and publish your model, Model management, Natural Language Und
 
 # Publish your NLU model
 
-Publish your [[nlu-landing|Natural Language Understanding]] \(NLU\) model to activate it and make it available for use in other applications that consume NLU.
+Publish your Natural Language Understanding \(NLU\) model to activate it and make it available for use in other applications that consume NLU.
 
 ## Before you begin
 
--   Make sure that the - NLU Workbench - Core plugin, NLU Workbench plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated.
+-   Make sure that the - NLU Workbench - Core plugin, NLU Workbench plugin, and Predictive Intelligence plugin are all installed and activated.
 -   Have a trained and tested NLU model.
 -   Role required: admin or nlu\_admin
 
@@ -36,7 +36,7 @@ If your model is already published, you can publish it again. However, you must 
 
 2.  Select the tab corresponding to your model's application, then select the name of your model.
 
-3.  On the Model overview page, locate **[[testing-your-model|Test and publish your model]]**, then select **View phase**.
+3.  On the Model overview page, locate **Test and publish your model**, then select **View phase**.
 
     **Note:** If the model hasn't been built or trained yet, the **Test and publish your model** phase is not available.
 
@@ -50,13 +50,8 @@ If your model is already published, you can publish it again. However, you must 
 
     \[Omitted image "publish-nlu-model07.png"\] Alt text: Publish model button
 
-    **Note:** If the model hasn't been tested yet, the **Publish model** button is white. If the model has already been tested, the button is green. If the last trained model is already published, the **Publish model** button is unavailable. Return to **[[managing-model-content|Build and train your model]]** to train again.
+    **Note:** If the model hasn't been tested yet, the **Publish model** button is white. If the model has already been tested, the button is green. If the last trained model is already published, the **Publish model** button is unavailable. Return to **Build and train your model** to train again.
 
     **Result:** The most recent version of your NLU model is published. The model is active and available for use in other ServiceNow applications, such as Virtual Agent. Publishing also replaces any older versions of the model that are currently in use by those applications.
 
-## Related
 
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[testing-your-model|Test and publish your model]]
-- [[managing-model-content|Build and train your model]]

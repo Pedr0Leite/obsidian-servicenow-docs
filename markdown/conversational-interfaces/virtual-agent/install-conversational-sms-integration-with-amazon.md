@@ -28,7 +28,7 @@ Ensure that the application and all of its associated ServiceNow store applicati
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[conversational-sms-integration-amazon|Conversational SMS Integration with AWS End User Messaging]] application \(sn\_sms\_aws\_adapter\) using the filter criteria and search bar.
+2.  Find the Conversational SMS Integration with AWS End User Messaging application \(sn\_sms\_aws\_adapter\) using the filter criteria and search bar.
 
     You can search for the application by its name or ID.
 
@@ -39,6 +39,3 @@ Ensure that the application and all of its associated ServiceNow store applicati
 
 **Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-ci-sms-with-aws.md)
 
-## Related
-
-- [[conversational-sms-integration-amazon|Conversational SMS Integration with AWS End User Messaging]]

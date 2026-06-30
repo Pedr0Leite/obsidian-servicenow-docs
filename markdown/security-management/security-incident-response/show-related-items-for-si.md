@@ -22,7 +22,7 @@ Role required: sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open the security incident for which you want to view related items.
 
@@ -60,7 +60,7 @@ Related Configuration Items
 
 </td><td>
 
-Displays a list of security incidents containing configuration items with the same observable as this security incident. This list can be filtered using the **CI exclusions** filter group. When an observable is added to a security incident this list is automatically updated. By default, [[c_Observables|observables]] with a context type of Destination are excluded.
+Displays a list of security incidents containing configuration items with the same observable as this security incident. This list can be filtered using the **CI exclusions** filter group. When an observable is added to a security incident this list is automatically updated. By default, observables with a context type of Destination are excluded.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Vulnerability Groups
 
 </td><td>
 
-If [[vuln-landing-page|Vulnerability Response]] is activated, you can view vulnerability groups associated with this security incident.
+If Vulnerability Response is activated, you can view vulnerability groups associated with this security incident.
 
 </td></tr><tr><td>
 
@@ -135,8 +135,4 @@ Tab to view Customer Service case information, if Customer Service is activated.
     -   [Show Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 6.  Select **Submit**.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[vuln-landing-page|Vulnerability Response]]

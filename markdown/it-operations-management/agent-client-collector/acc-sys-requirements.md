@@ -14,7 +14,7 @@ breadcrumb: [ACC installation, ACC deployment - servers, Configuring Agent Clien
 
 # Agent Client Collector system requirements
 
-System requirements are the fundamental specifications and configuration needed to install and run [[acc-landing-page|Agent Client Collector]] \(ACC\) effectively.
+System requirements are the fundamental specifications and configuration needed to install and run Agent Client Collector \(ACC\) effectively.
 
 Before installing the Agent Client Collector, you must do the following:
 
@@ -42,7 +42,7 @@ ACC-F
 -   MID Server
 -   CMDB for scoped applications
 -   Agent Client Collector global utilities
--   [[mid-web-server|MID Web Server]]
+-   MID Web Server
 -   Service Error Management
 
 
@@ -54,7 +54,7 @@ ACC-VC
 
 -   Agent Client Collector for Visibility - Content
 -   Agent Client Collector Framework
--   [[r-discovery|Discovery]] \[com.snc.discovery\] plugin
+-   Discovery \[com.snc.discovery\] plugin
 
 
 </td></tr><tr><td>
@@ -64,9 +64,9 @@ ACC-M
 </td><td>
 
 -   Agent Client Collector Framework
--   [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
--   [[c_EM|Event Management]] and [[c_ServiceMappingOverview|Service Mapping]] Core
--   [[operational-metrics|Metric Intelligence]] - \[com.snc.sa.metric\] plugin
+-   Agent Client Collector Monitoring
+-   Event Management and Service Mapping Core
+-   Metric Intelligence - \[com.snc.sa.metric\] plugin
 
 
 </td></tr><tr><td>
@@ -76,8 +76,8 @@ ACC-L
 </td><td>
 
 -   Agent Client Collector Framework
--   [[acc-log-analytics|Agent Client Collector Log Analytics]]
--   [[hla-landing-page|Health Log Analytics]]
+-   Agent Client Collector Log Analytics
+-   Health Log Analytics
 
 
 </td></tr><tr><td>
@@ -147,14 +147,3 @@ When using ACC-L: The Agent Client Collector comes with the default **servicenow
 
 When determining the number of machines and servers needed to support your agents \(such as the number of machines requiring proxy agents\), consider the agents' performance KPIs. For details on agent performance KPIs, see [Agent Client Collector performance and footprint for URL monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-footprint-url-monitoring.md).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]
-- [[r-discovery|Discovery]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[c_EM|Event Management]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[hla-landing-page|Health Log Analytics]]

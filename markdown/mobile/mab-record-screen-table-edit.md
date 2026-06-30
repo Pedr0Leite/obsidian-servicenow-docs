@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Edit record reference entries in record screen tables
 
-Edit existing entries in the [[mab-record-screen-tables|record screen tables]] in the [[mab-concept|Mobile App Builder]].
+Edit existing entries in the record screen tables in the Mobile App Builder.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For more information about the delegated developer role, see [Delegated developm
 
     -   To open a new record, select the **New** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] Alt text: New button in categories home screen.\).
     -   To edit an existing record, select a record name.
-5.  In the [[form-screen|record screen]], select the **Choose** button \(\[Omitted image "mab-button-choose.png"\] Alt text: Choose button.\) to open a list of reference records within all the application scopes you have access to.
+5.  In the record screen, select the **Choose** button \(\[Omitted image "mab-button-choose.png"\] Alt text: Choose button.\) to open a list of reference records within all the application scopes you have access to.
 
     **Note:** You can use records from other scopes. However, you are not able to create a new record in an alternative application scope.
 
@@ -44,8 +44,4 @@ For more information about the delegated developer role, see [Delegated developm
 
 7.  Edit the fields as required and select **Save**.
 
-## Related
 
-- [[mab-record-screen-tables|Record screen tables]]
-- [[mab-concept|Mobile App Builder]]
-- [[form-screen|Record screen]]

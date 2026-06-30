@@ -12,7 +12,7 @@ breadcrumb: [Reference, Model Risk Management, Governance, Risk, and Compliance]
 
 # Default Model Risk Management email notifications
 
-Default [[model-risk-management|Model Risk Management]] notifications inform users about important events and status changes throughout the Model Risk Management workflow.
+Default Model Risk Management notifications inform users about important events and status changes throughout the Model Risk Management workflow.
 
 Default Model Risk Management notifications keep stakeholders informed about key events and status changes throughout the Model Risk Management life cycle. These notifications typically cover updates such as model creation, assignment changes, assessment or validation progress, approval requirements, and status transitions. They ensure that users receive consistent and reliable communication without requiring initial configuration.
 
@@ -40,9 +40,5 @@ To access these configurations, navigate to **All** &gt; **System Notification**
 |Notify model owner for new model|A model is created.|Model owner|
 |New model submission|A model is submitted for review.|Model Risk Governance team|
 
-**Parent Topic:**[[mrm-reference|Model Risk Management reference]]
+**Parent Topic:**[Model Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md)
 
-## Related
-
-- [[mrm-reference|Model Risk Management reference]]
-- [[model-risk-management|Model Risk Management]]

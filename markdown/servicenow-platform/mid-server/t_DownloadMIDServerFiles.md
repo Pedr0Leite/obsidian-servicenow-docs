@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Download the MID Server files
 
-Download the [[mid-server-landing|MID Server]] installer package through the instance and make it available for installation on the host. Allow the local network to access the authorized IP addresses to ensure that you can download the installation package and receive automatic upgrades.
+Download the MID Server installer package through the instance and make it available for installation on the host. Allow the local network to access the authorized IP addresses to ensure that you can download the installation package and receive automatic upgrades.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
 </td></tr></tbody>
 </table>## About this task
 
-The [[ip-address|IP address]] of the MID Server download site \(`install.service-now.com`\) can change without notice. To ensure that you can download the MID Server installation package and receive automatic [[c_UpgradeAndTestMIDServer|MID Server upgrades]], allow local network access to these IP addresses:
+The IP address of the MID Server download site \(`install.service-now.com`\) can change without notice. To ensure that you can download the MID Server installation package and receive automatic MID Server upgrades, allow local network access to these IP addresses:
 
 -   149.96.5.98
 -   149.96.6.98
@@ -69,8 +69,3 @@ Install the MID Server on the host computer.
 -   [Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md)
 -   [Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[c_UpgradeAndTestMIDServer|MID Server upgrades]]

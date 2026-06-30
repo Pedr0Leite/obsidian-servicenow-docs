@@ -22,7 +22,7 @@ Role required: contract\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
+1.  Navigate to **Contract Management** &gt; **Contract** &gt; **All**.
 
 2.  Select a contract.
 
@@ -54,6 +54,3 @@ Role required: contract\_manager or admin
 
 [Add a document to a contract]()
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

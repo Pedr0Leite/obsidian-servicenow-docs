@@ -15,7 +15,7 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # Agile work management in CWM
 
-Run your agile workflow in [[cwm-landing|Collaborative Work Management]] \(CWM\), from building and refining a backlog to planning sprints, executing work as stories and scrum tasks, and collaborating with your team.
+Run your agile workflow in Collaborative Work Management \(CWM\), from building and refining a backlog to planning sprints, executing work as stories and scrum tasks, and collaborating with your team.
 
 CWM is a unified workspace where agile teams can manage their delivery cycle. Teams transitioning to CWM can continue to run the Scrum workflow they’re familiar with, which includes managing a backlog, planning and executing sprints, and tracking daily progress, while also benefiting from CWM's flexible work item model, AI assistance, and broader collaboration features.
 
@@ -33,7 +33,7 @@ The following end-to-end workflow shows how agile teams use CWM to plan and exec
 
     Add work items to your Board through the Sprint Planning view. All unscheduled work appears in the Backlog pane, giving your team a single place to groom, prioritize, and reorder items before pulling them into a sprint. For more information, see [Add work items to Sprint planning Backlog in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-work-items-to-sprint-planning-backlog-in-cwm.md).
 
--   **[[plan-sprint-activity|Plan sprints]]**
+-   **Plan sprints**
 
     Create sprints by setting a duration, start and end dates, and story point capacity. Drag items from the Backlog into a sprint, or add them directly. Capacity indicators in each sprint section help teams avoid over-committing. For more information, see [Create a sprint in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-sprints-in-cwm.md) and [Plan work items into sprints in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/plan-work-items-into-sprints-in-cwm.md).
 
@@ -58,7 +58,7 @@ The following end-to-end workflow shows how agile teams use CWM to plan and exec
 
 Agile teams often work on more than just stories. Incidents must be resolved, defects must be fixed, and enhancement requests must be delivered. The Connected work feature in CWM lets you bring records from any ServiceNow application into your Board by defining filter conditions. Once connected, you can plan those records into sprints and manage them alongside your stories from a single backlog.
 
-Teams who previously used the Unified Backlog and triage boards in [[agile-landing-page|Agile Development 2.0]] to manage defects, incidents, and other work records can use Connected work to achieve a similar centralized view in CWM. For more information, see [Connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/unified-boards-for-connected-work-in-cwm.md).
+Teams who previously used the Unified Backlog and triage boards in Agile Development 2.0 to manage defects, incidents, and other work records can use Connected work to achieve a similar centralized view in CWM. For more information, see [Connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/unified-boards-for-connected-work-in-cwm.md).
 
 ## Comparing CWM to Agile Development 2.0
 
@@ -137,8 +137,3 @@ Increase visibility into how work is connected by linking work items directly in
 
 [Connecting EAP with Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-integration-with-eap.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[plan-sprint-activity|Plan sprints]]
-- [[agile-landing-page|Agile Development 2.0]]

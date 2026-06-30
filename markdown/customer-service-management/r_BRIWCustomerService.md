@@ -12,7 +12,7 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Business rules installed with Customer Service Management
 
-Business [[gamification-components-rules|rules]] are added with activation of [[c_CustomerServiceManagement|Customer Service Management]].
+Business rules are added with activation of Customer Service Management.
 
 The following table describes the business rules and their related tables that are added with Customer Service Management.
 
@@ -146,7 +146,7 @@ Case\[sn\_customerservice\_case\]
 
 </td><td>
 
-A display business rule on the [[r_CustomerServiceCaseForm|Case form]] which passes some values to the browser when a case is displayed.
+A display business rule on the Case form which passes some values to the browser when a case is displayed.
 
 </td></tr><tr><td>
 
@@ -446,7 +446,7 @@ Account Relationship \[account\_relationship\]
 
 </td><td>
 
-Updates the relationship labels for [[c_AccountRelationships|bi-directional account relationships]].
+Updates the relationship labels for bi-directional account relationships.
 
 </td></tr><tr><td>
 
@@ -473,12 +473,5 @@ Registration Request\[sn\_customerservice\_registration\]
 Checks if the registration is valid based on the user’s email address. If the user exists in the system or a request has already been submitted and is in the pending state, the registration request is not allowed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
-## Related
-
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_AccountRelationships|Bi-directional account relationships]]

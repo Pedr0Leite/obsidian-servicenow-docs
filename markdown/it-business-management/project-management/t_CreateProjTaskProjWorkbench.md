@@ -35,7 +35,7 @@ While creating a project task in the project workbench, the time constraint type
 
 2.  Select **New** in the detail view.
 
-3.  Fill out the [[project-task-form|Project Task form]].
+3.  Fill out the Project Task form.
 
 4.  Select **Submit**.
 
@@ -55,6 +55,3 @@ While creating a project task in the project workbench, the time constraint type
 
 [Managing Project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_UsingProjectWorkbench.md)
 
-## Related
-
-- [[project-task-form|Project task form]]

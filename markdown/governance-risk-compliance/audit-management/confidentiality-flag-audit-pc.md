@@ -24,22 +24,16 @@ Also, you can also add random users to the record, who are not audit users or GR
 
 You can also select groups as **Allowed groups** who can access the record as well.
 
-You can view all issues, remediation tasks, [[evidence-request|evidence request]] tasks, engagements, observations, and all audit tasks marked as [[confidential-records|confidential records]] from the application navigator as GRC confidential records. For more information, see Confidential records in common GRC features.
+You can view all issues, remediation tasks, evidence request tasks, engagements, observations, and all audit tasks marked as confidential records from the application navigator as GRC confidential records. For more information, see Confidential records in common GRC features.
 
-Similarly, if you are working in the Audit and Compliance workspaces, you can monitor the **Confidential records** in a separate tab in the Tasks page. For more information, see [[configuration-of-tasks|My tasks in the workspace]].
+Similarly, if you are working in the Audit and Compliance workspaces, you can monitor the **Confidential records** in a separate tab in the Tasks page. For more information, see My tasks in the workspace.
 
 To enable the Confidentiality property at the system level:
 
-1.  Navigate to **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **GRC Properties**.
+1.  Navigate to **Policy and Compliance** &gt; **Administration** &gt; **GRC Properties**.
 
     **Note:** The user must have sn\_grc.admin role.
 
 2.  Select **Yes** for **Enable record level confidentiality**.
 3.  Click **Save**.
 
-## Related
-
-- [[evidence-request|Evidence request]]
-- [[confidential-records|Confidential records]]
-- [[configuration-of-tasks|My tasks in the workspace]]
-- [[Administration|Administration]]

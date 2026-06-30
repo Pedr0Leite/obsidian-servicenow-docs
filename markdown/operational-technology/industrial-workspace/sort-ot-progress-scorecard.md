@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Sort the Operational Technology Progress Scorecard by ascending or descending order
 
-Sort the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard by ascending or descending order to customize your view of the scorecard.
+Sort the Operational Technology \(OT\) Progress Scorecard by ascending or descending order to customize your view of the scorecard.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ot\_progress\_scorecard\_viewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the **OT Progress Scorecard** \(\[Omitted image "ot-progress-scorecard-icon.png"\] Alt text: OT Progress Scorecard icon\) icon.
 
@@ -35,7 +35,3 @@ The OT Progress Scorecard is now organized by ascending or descending order. If 
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration**.
 
 2.  Select either of the following modules based on your requirement.
 
@@ -43,6 +43,3 @@ Role required: sn\_wsd\_visitor.admin
 
 **Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/config-visitor-for-kiosk.md)
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

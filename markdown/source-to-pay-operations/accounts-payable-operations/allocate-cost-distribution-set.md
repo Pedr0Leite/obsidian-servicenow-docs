@@ -15,7 +15,7 @@ breadcrumb: [Invoice cost allocation, Create an invoice manually, Work with invo
 
 # Allocate costs using distribution set
 
-Define a distribution set to split [[cost-allocations|cost allocations]] automatically for invoice lines with allocation type as [[cost-center|cost center]] or general [[ledger-account|ledger account]].
+Define a distribution set to split cost allocations automatically for invoice lines with allocation type as cost center or general ledger account.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay workspace]]** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Distribution Sets**.
+1.  Navigate to **Source-to-Pay workspace** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Distribution Sets**.
 
 2.  Select **New**.
 
-    The [[distribution-set-form|distribution set form]] view appears. For more information on the form, see [Distribution set form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/distribution-set-form.md)
+    The distribution set form view appears. For more information on the form, see [Distribution set form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/distribution-set-form.md)
 
 3.  Select the **Template** check box if you want the distribution set to be applied as a template to the cost allocation record.
 
@@ -53,11 +53,11 @@ Role required: sn\_ap\_apm.admin
 
     3.  Select **Submit**.
 
-        After a distribution line is submitted, it’s applicable for new [[invoices|invoices]] only and unavailable for existing invoices.
+        After a distribution line is submitted, it’s applicable for new invoices only and unavailable for existing invoices.
 
 8.  To apply distribution set manually for an invoice line, select **Invoice line**&gt; **Cost allocation**&gt; **New**.
 
-    Create a New [[invoice-line-cost-allocation|Invoice cost allocation]] form appears. You can choose **Allocation type** as Distribution set. For more information on the form, see [Create invoice cost allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md).\[Omitted image "distribution-set-cost-alloc.png"\] Alt text: Distribution set in invoice line
+    Create a New Invoice cost allocation form appears. You can choose **Allocation type** as Distribution set. For more information on the form, see [Create invoice cost allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md).\[Omitted image "distribution-set-cost-alloc.png"\] Alt text: Distribution set in invoice line
 
     If a distribution set is created for cost center, then for subsequent cost allocation, the allocation type is cost center by default.
 
@@ -68,7 +68,7 @@ Role required: sn\_ap\_apm.admin
 
 ## Result
 
-Distribution set automates cost allocations. Each cost allocation record displays the source whether it’s entered manually, derived from a [[purchase-order-table|purchase order]], or associated with a specific distribution set number confirming complete traceability.
+Distribution set automates cost allocations. Each cost allocation record displays the source whether it’s entered manually, derived from a purchase order, or associated with a specific distribution set number confirming complete traceability.
 
 **Parent Topic:**[Invoice cost allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-cost-allocation.md)
 
@@ -77,14 +77,3 @@ Distribution set automates cost allocations. Each cost allocation record display
 
 [Create invoice cost allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md)
 
-## Related
-
-- [[cost-allocations|Cost allocations]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[distribution-set-form|Distribution set form]]
-- [[invoices|Invoices]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]
-- [[purchase-order-table|Purchase order]]

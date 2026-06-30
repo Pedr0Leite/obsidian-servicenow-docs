@@ -14,7 +14,7 @@ breadcrumb: [Reference, Instance Data Replication, Manage instance data sources,
 
 # Excluded tables in Instance Data Replication
 
-You can't replicate certain tables in [[instance-data-replication|Instance Data Replication]] \(IDR\). Child tables of tables in the exclusion list are also excluded.
+You can't replicate certain tables in Instance Data Replication \(IDR\). Child tables of tables in the exclusion list are also excluded.
 
 ## Excluded tables
 
@@ -56,6 +56,3 @@ If you determine the CMDB tables must be replicated, you must use conditions to 
 
 [Instance Data Replication roles]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

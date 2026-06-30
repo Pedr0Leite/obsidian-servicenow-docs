@@ -18,7 +18,7 @@ When agents share links in their WhatsApp chat conversations, customize the port
 
 ## Before you begin
 
-Install the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application on your ServiceNow instance.
+Install the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application on your ServiceNow instance.
 
 Activate the Consumer Service Portal plugin \(`com.glide.service-portal.consumer-portal`\).
 
@@ -43,11 +43,7 @@ Role required: admin
 
 ## What to do next
 
-For more information on setting up URL navigation, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+For more information on setting up URL navigation, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
 **Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-configure.md)
 
-## Related
-
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Submit an edit receipt request from Shopping Hub
 
-As a shopper, you can revise previously accepted [[receipts|receipts]] to address any discrepancies, ensuring accurate updates to purchase orders, [[purchase-order-lines|purchase order lines]], and received quantities.
+As a shopper, you can revise previously accepted receipts to address any discrepancies, ensuring accurate updates to purchase orders, purchase order lines, and received quantities.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_shop.shopper
 
     Alternatively, you can return a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Edit a receipt**.
 
-2.  Search for and open the [[purchase-order-table|purchase order]] or Purchase order line you want to edit.
+2.  Search for and open the purchase order or Purchase order line you want to edit.
 
 3.  Select the kebab menu, and then select **Edit a receipt**.
 
@@ -52,16 +52,9 @@ Role required: sn\_shop.shopper
 
 ## What to do next
 
--   Shoppers can review the request details from **Employee Center** &gt; **[[my-requests|My Requests]]**.
+-   Shoppers can review the request details from **Employee Center** &gt; **My Requests**.
 -   Shoppers can review the request details from **ShoppingHub** &gt; **** &gt; **My purchases**, accessed from the profile image or from the footer.
--   Buyers can track the progress of the procurement case and procurement case line requests from **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+-   Buyers can track the progress of the procurement case and procurement case line requests from **Source-to-Pay Workspace**.
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[receipts|Receipts]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[my-requests|My requests]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

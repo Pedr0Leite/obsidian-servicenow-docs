@@ -12,7 +12,7 @@ breadcrumb: [Configure, Retail]
 
 # Configure your organizational structure
 
-Configure the structure of your [[rahi-retail-operations-overview|retail]] organization within Retail Core.
+Configure the structure of your retail organization within Retail Core.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Depending on the size of the retailer, support teams can be organized at various
 
 5.  Click **Update**.
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]

@@ -13,19 +13,19 @@ breadcrumb: [Using other Now Assist applications from Now Assist Center, Use, No
 
 # Use Now Assist Guardian features in Now Assist Center
 
-Use [[platform-now-assist-landing|Now Assist]] Guardian features in the [[now-assist-center-workspace|Now Assist Center workspace]] to detect offensive content, prompt injection attacks, and sensitive topics in generative AI interactions.
+Use Now Assist Guardian features in the Now Assist Center workspace to detect offensive content, prompt injection attacks, and sensitive topics in generative AI interactions.
 
 ## Before you begin
 
 The following applications must be installed before performing this task:
 
--   [[now-assist-center-landing-page|Now Assist Center]]
+-   Now Assist Center
 
-    For more information, see [[now-assist-center-install|Confirm installation of Now Assist Center]].
+    For more information, see [Confirm installation of Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-install.md).
 
 -   Now Assist Admin console
 
-    For more information, see [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]].
+    For more information, see [Install and configure essential Now Assist plugins using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-configure-essential-now-assist-plugins.md).
 
 
 Role required: sn\_na\_center.nac\_admin
@@ -34,7 +34,7 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to use Now Assist Guardian capabilities from Now Assist Center.
 
-Now Assist Guardian provides safety and governance [[controls|controls]] for AI-generated content. It monitors AI interactions for potentially harmful, offensive, or policy-violating content.
+Now Assist Guardian provides safety and governance controls for AI-generated content. It monitors AI interactions for potentially harmful, offensive, or policy-violating content.
 
 In Now Assist Center, the integration of Now Assist Guardian includes multi-tabbing support for working with safety and governance controls without leaving the application context.
 
@@ -44,7 +44,7 @@ For more information on Now Assist Guardian, see [Now Assist Guardian](https://r
 
 1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Admin** \(\[Omitted image "icon-now-assist-center-nav-admin.png"\] Alt text: Admin icon. \) in the [[now-assist-center-side-navigation-bar|side navigation bar]].
+2.  Select **Admin** \(\[Omitted image "icon-now-assist-center-nav-admin.png"\] Alt text: Admin icon. \) in the side navigation bar.
 
     The Admin tab opens showing Now Assist Admin options.
 
@@ -78,7 +78,7 @@ This guardrail attempts to override LLM instructions or expose restricted inform
 
 </td><td>
 
-This guardrail detects offensive or harmful content in AI inputs and outputs. It applies to specific [[now-assist-skills|Now Assist skills]] and workflows.
+This guardrail detects offensive or harmful content in AI inputs and outputs. It applies to specific Now Assist skills and workflows.
 
  Select **Offensiveness** to open the Offensiveness tab.
 
@@ -98,16 +98,5 @@ This guardrail filters subjects not suited for AI responses, such as workplace s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md)
 
-## Related
-
-- [[now-assist-center-install|Confirm installation of Now Assist Center]]
-- [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]]
-- [[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[controls|Controls]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]
-- [[now-assist-skills|Now Assist skills]]

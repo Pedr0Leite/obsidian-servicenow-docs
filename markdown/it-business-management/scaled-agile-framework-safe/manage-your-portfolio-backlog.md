@@ -22,7 +22,7 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the choice list at the top left corner, select the level as **Portfolio**.
 
@@ -94,6 +94,3 @@ Point to an epic and drag it to the required position.
 
 **Parent Topic:**[SAFe Board—Portfolio level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-tabs.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

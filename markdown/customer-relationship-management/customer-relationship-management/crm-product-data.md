@@ -14,7 +14,7 @@ Product data in the CRM portfolio gives agents, customers, and sales teams a sha
 
 ## Product data overview
 
-When an agent opens a case, the product data associated with the customer's account tells them exactly what products are in scope, how they are installed, and what the customer is entitled to. Product data is part of the shared CRM data foundation and data model and is available across [[crm-about-som-in-crm|Sales CRM]], FSM, CSM, and [[crm-about-industry-solutions-in-crm|industry solutions]] without duplication or manual synchronisation.
+When an agent opens a case, the product data associated with the customer's account tells them exactly what products are in scope, how they are installed, and what the customer is entitled to. Product data is part of the shared CRM data foundation and data model and is available across Sales CRM, FSM, CSM, and industry solutions without duplication or manual synchronisation.
 
 Product data is part of the shared data foundation of the CRM portfolio. It connects what an organization sells to cases, work orders, and service requests raised against those products. This connection is what allows agents, technicians, and sales teams to work from a consistent view of the customer's product landscape at every stage of the customer lifecycle.
 
@@ -61,7 +61,3 @@ Product data is a foundational layer of the CRM portfolio. It is the mechanism t
 
 [Configure install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
 
-## Related
-
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]

@@ -26,7 +26,7 @@ A task template can have static and dynamic mappings. In static mappings, the va
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[universal-task-landing|Universal task]]** &gt; **Task templates** &gt; **Create new**.
+1.  Navigate to **All** &gt; **Universal task** &gt; **Task templates** &gt; **Create new**.
 
 2.  On the form, fill in the fields.
 
@@ -41,6 +41,3 @@ A task template can have static and dynamic mappings. In static mappings, the va
 
 **Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-task-template-landing.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

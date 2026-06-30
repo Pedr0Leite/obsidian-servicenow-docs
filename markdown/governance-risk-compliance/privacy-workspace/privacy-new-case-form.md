@@ -211,7 +211,7 @@ Source
 
 </td><td>
 
-Source of the case creation. This field is automatically set to **Manual** when the case is manually created. If the case is reported from the [[employee-center|Employee Center]], the field displays the source as **Employee Center**.
+Source of the case creation. This field is automatically set to **Manual** when the case is manually created. If the case is reported from the Employee Center, the field displays the source as **Employee Center**.
 
 </td></tr><tr><td>
 
@@ -465,6 +465,3 @@ Additional information regarding the case for the customers.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a privacy case in the Privacy Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-privacy-case.md)
 
-## Related
-
-- [[employee-center|employee center]]

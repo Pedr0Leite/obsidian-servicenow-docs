@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Add an ad-hoc task for an Insurance claims case
 
-Create a task for an [[insurance-claims-flow|Insurance claims]] case to help prioritize and plan your claim work better.
+Create a task for an Insurance claims case to help prioritize and plan your claim work better.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the claim one of the following ways.
 
@@ -55,7 +55,7 @@ From a claims list, select the claim case that you want to create a task for.
 1.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 2.  On the **Lists** tab, navigate to one of the following applicable lists \(or the list category that is specific to your custom workflow\):
     -   As a processor, select **Insurance claim cases**, and then select **All**.
-    -   As an adjuster, select **Insurance claim [[adjuster-tasks-workspace-pers|adjuster tasks]]**, and then select **All**.
+    -   As an adjuster, select **Insurance claim adjuster tasks**, and then select **All**.
     -   As a manager, select **Insurance claim flow approvals**, and then select one of the following options:
         -   **My approvals - Reserves**
         -   **My approvals - Payments**
@@ -137,8 +137,3 @@ After a task is created, the task can move to the following statuses depending o
 -   Awaiting info: A task assignee selects **Awaiting info**.
 -   Closed complete: A task assignee selects **Close** to close the task.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

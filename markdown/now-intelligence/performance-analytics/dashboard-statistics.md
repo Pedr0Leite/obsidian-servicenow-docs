@@ -56,7 +56,7 @@ Dashboard Table
 
 The table on which the dashboard's record is stored:-   **par\_dashboard**
 
-Dashboards created in [[par-workspace|Platform Analytics experience]] or migrated to it.
+Dashboards created in Platform Analytics experience or migrated to it.
 
 -   **pa\_dashboards**
 
@@ -119,6 +119,3 @@ Sum of execution time across all runs of the dashboard.
 -   To see the viewed dashboards, filter out the value 0 from the **Runs** column.
 -   To view the most viewed dashboards, sort the **Runs** column from z-a.
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]

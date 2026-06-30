@@ -91,7 +91,7 @@ Columns
 
 Account Access\[sn\_csm\_account\_access\]
 
- Enable restricted access to account contacts for [[sold-product|sold products]] and install bases.
+ Enable restricted access to account contacts for sold products and install bases.
 
 </td><td>
 
@@ -122,7 +122,7 @@ Responsibility Definition\[sn\_customerservice\_responsibility\_def\]
 -   Type
 -   Unique
 
-For more information on the column types, see [[t_CreateAResponsibilityDefinition|Create a responsibility definition]].
+For more information on the column types, see [Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md).
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Sold Product \[sn\_install\_base\_sold\_product\]​
 
 Additional Consumers\[additional\_consumers\]​
 
- Additional consumers that are associated with the sold product. The **Additional Consumers** field isn’t exposed to customers through any [[migration-forms|forms]] or [[migration-lists|lists]] and is added for performance reasons.
+ Additional consumers that are associated with the sold product. The **Additional Consumers** field isn’t exposed to customers through any forms or lists and is added for performance reasons.
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ Account\[customer\_account\]
 
 Contact Sold Product\[sn\_install\_base\_rel\_soldproduct\_to\_contact\]​
 
- Establishes account [[c_ContactRelationships|contact relationships]] with the sold products.
+ Establishes account contact relationships with the sold products.
 
  **Note:** Starting with the Australia release, the sn\_install\_base\_rel\_soldproduct\_to\_contact table has been deprecated for new customers.
 
@@ -342,11 +342,3 @@ Responsibility\[sn\_customerservice\_responsibility\_def\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[sold-product|Sold products]]
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]
-- [[c_ContactRelationships|Contact relationships]]

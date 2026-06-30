@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Decision form on Project Workspace
 
-Learn about the fields on the [[decision-form|Decision form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to add decisions to your projects.
+Learn about the fields on the Decision form of the Project Workspace. Use this form to add decisions to your projects.
 
 <table id="table_ckc_gs2_1vb"><thead><tr><th>
 
@@ -150,7 +150,3 @@ Information to record and track the status of decision implementation or approva
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[decision-form|Decision form]]
-- [[project-workspace-landing-page|Project Workspace]]

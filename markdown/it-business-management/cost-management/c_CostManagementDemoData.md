@@ -14,7 +14,7 @@ breadcrumb: [Cost Management, Strategic Portfolio Management]
 
 # Cost Management Demo Data
 
-The demo data available with [[r_CostManagement|Cost Management]] provides samples of the data types to illustrate its use.
+The demo data available with Cost Management provides samples of the data types to illustrate its use.
 
 Demo data should be loaded only in a development or test instance to prevent conflict with production data.
 
@@ -40,6 +40,3 @@ The amount of money allocated to cost centers can be tracked against a planned b
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

@@ -22,11 +22,7 @@ The default configuration uses the **Recommendation for Case Assignment** matchi
 -   Matching Skills
 -   Assigned Cases
 
-**Note:** If using the [[mandatory-skills|mandatory skills]] feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [[configure-mandatory-skills-feature|mandatory skills]] identified for a case.
+**Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-mandatory-skills-feature.md) identified for a case.
 
 You can customize this matching rule to meet your specific need for calculating agent recommendations. This matching rule can also be used for auto assignment if you create an assignment rule.
 
-## Related
-
-- [[configure-mandatory-skills-feature|Configuring mandatory skills]]
-- [[mandatory-skills|Mandatory skills]]

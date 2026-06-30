@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Set up and [[c_Connect|connect]] Google Drive Spoke.
+1.  Set up and connect Google Drive Spoke.
 
     For more information, see [Set up Google Drive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-gdrive.md).
 
@@ -36,14 +36,10 @@ Role required: admin
 
     For more information, see [Google Docs Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/gdocs-spoke.md).
 
-4.  Activate [[document-services-landing-page|Document Services]] for Google Drive Spoke.
+4.  Activate Document Services for Google Drive Spoke.
 
     For more information, see [Document Services Framework for Google Drive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/google-drive-spoke-document-services.md).
 
 
 **Parent Topic:**[Google Drive integration with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/google-drive-integration.md)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[document-services-landing-page|Document Services]]

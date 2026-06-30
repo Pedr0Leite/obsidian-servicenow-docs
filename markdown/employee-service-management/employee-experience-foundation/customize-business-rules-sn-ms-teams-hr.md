@@ -62,7 +62,7 @@ Application
 
 </td><td>
 
-[[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams
+HR Service Delivery integration with Microsoft Teams
 
 </td></tr><tr><td>
 
@@ -108,6 +108,3 @@ Advanced
 
 **Parent Topic:**[Customize HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/customize-sn-ms-teams-hr.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

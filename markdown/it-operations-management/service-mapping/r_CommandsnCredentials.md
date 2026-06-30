@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites for performing top-down discovery using Service Mappi
 
 # Service Mapping commands requiring a privileged user
 
-[[c_ServiceMappingOverview|Service Mapping]] uses commands requiring elevated rights to discover and map Unix-based hosts in your organization. In addition to configuring necessary credentials, configure servers in your organization to allow Service Mapping to run these commands with elevated rights.
+Service Mapping uses commands requiring elevated rights to discover and map Unix-based hosts in your organization. In addition to configuring necessary credentials, configure servers in your organization to allow Service Mapping to run these commands with elevated rights.
 
 You do not run these commands directly. Service Mapping uses commands requiring elevated rights as part of the following processes:
 
@@ -1694,6 +1694,3 @@ Splits the output line.
 
 [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

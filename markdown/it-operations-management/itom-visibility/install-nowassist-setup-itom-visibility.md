@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility, IT Operations Management]
 
 # Install ITOM Visibility using Setup Hub
 
-Install all required [[itom-visibility-landing-page|ITOM Visibility]] applications and plugins from the [[r_ITOMApplications|IT Operations Management]] Product Hub.
+Install all required ITOM Visibility applications and plugins from the IT Operations Management Product Hub.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Verify the following:
 -   You have installed the Now Assist for Platform plugin \(sn\_genai\_platform\).
 -   You have installed the Generative AI Controller plugin \(sn\_generative\_ai\).
 -   You have installed the Now Assist Skill Kit plugin \(sn\_skill\_builder\).
--   You have installed the [[now-assist-itom|Now Assist for ITOM]] plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+-   You have installed the Now Assist for ITOM plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 -   You have activated the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 -   You have activated the following assistants:
 
@@ -63,8 +63,4 @@ Role required: admin
 
     **Note:** Expand the What's included section to view the applications installed with ITOM Visibility.
 
-## Related
 
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[now-assist-itom|Now Assist for ITOM]]

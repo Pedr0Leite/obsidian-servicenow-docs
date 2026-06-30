@@ -45,8 +45,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |status\_code|Determines if the request was successful. If not, displays an HTTP error code and message.|
 
-**Parent Topic:**[[secops-integration-cb-isolate-host-workflow|Security Operations Carbon Black Integration - Isolate Host Flow]]
+**Parent Topic:**[Security Operations Carbon Black Integration - Isolate Host Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-isolate-host-workflow.md)
 
-## Related
-
-- [[secops-integration-cb-isolate-host-workflow|Security Operations Carbon Black Integration - Isolate Host Flow]]

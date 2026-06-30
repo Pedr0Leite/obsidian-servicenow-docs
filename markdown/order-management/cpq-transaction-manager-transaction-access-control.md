@@ -12,9 +12,9 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Transaction Access Control
 
-Using the Transaction Access control feature, you can precisely control which users can view or [[Modify|modify]] a transaction.
+Using the Transaction Access control feature, you can precisely control which users can view or modify a transaction.
 
-The Transaction Access Control feature improves security and compliance by providing precise control over who can view and edit each transaction. In headless [[use-cases|use cases]], it can limit a list of transactions to those the current user has access to.
+The Transaction Access Control feature improves security and compliance by providing precise control over who can view and edit each transaction. In headless use cases, it can limit a list of transactions to those the current user has access to.
 
 This feature is controlled by a tenant setting and is disabled by default. When the feature is disabled, all users can access all transactions.
 
@@ -51,10 +51,5 @@ When Transaction Access Control is enabled on an instance that has transactions,
 
 ## API support
 
-Access can be granted or revoked through API calls. API can also be used to retrieve a list of transactions to which a user has access, and return a history of users who were granted or revoked access. For a Postman colleciton of [[transaction-manager|Transaction Manager]] access control API calls, contact support.
+Access can be granted or revoked through API calls. API can also be used to retrieve a list of transactions to which a user has access, and return a history of users who were granted or revoked access. For a Postman colleciton of Transaction Manager access control API calls, contact support.
 
-## Related
-
-- [[Modify|Modify]]
-- [[use-cases|Use cases]]
-- [[transaction-manager|Transaction Manager]]

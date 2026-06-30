@@ -14,7 +14,7 @@ breadcrumb: [Task Intelligence, Enable AI experiences]
 
 # Configure Task Intelligence
 
-Configure and install the [[task-intelligence|Task Intelligence]] Admin Console and its related applications.
+Configure and install the Task Intelligence Admin Console and its related applications.
 
 ## Configuration overview
 
@@ -26,9 +26,6 @@ The Task Intelligence Admin Console is installed along with Task Intelligence fo
 
 -   ****
 
-    Install the Task Intelligence for Customer Service application and configure the different features: case categorization, language detection, sentiment analysis, and [[document-intelligence-landing|Document Intelligence]] for Customer Service.
+    Install the Task Intelligence for Customer Service application and configure the different features: case categorization, language detection, sentiment analysis, and Document Intelligence for Customer Service.
 
-## Related
 
-- [[task-intelligence|Task Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]

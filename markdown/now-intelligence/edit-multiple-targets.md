@@ -18,11 +18,11 @@ Retroactively change one or more existing targets from their start date instead 
 
 Role required: pa\_target\_admin to edit all targets that were created for everyone. Any user with a target that they created for themselves can edit that target.
 
-A responsible user can edit any target that they are responsible for, regardless of role. For more information, see [[responsibiity-targets-kpi-details|Responsibility for indicator targets]].
+A responsible user can edit any target that they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/responsibiity-targets-kpi-details.md).
 
 ## About this task
 
-If you have multiple targets set on the same indicator, the Target Configuration panel in [[kpi-details|KPI Details]] lets you set them in bulk to have the same start date, review date, or value. As a manager, you can use this feature to modify targets for a set of segments.
+If you have multiple targets set on the same indicator, the Target Configuration panel in KPI Details lets you set them in bulk to have the same start date, review date, or value. As a manager, you can use this feature to modify targets for a set of segments.
 
 **Note:** The Target Configurations panel does not support native Data snapshots indicators.
 
@@ -133,7 +133,7 @@ The highest value you want the target to have, regardless of calculation. You do
     You expect to meet the target by the review date, or at least to review progress then.
 
 
-**Parent Topic:**[[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md)
 
 **Related topics**  
 
@@ -148,8 +148,3 @@ The highest value you want the target to have, regardless of calculation. You do
 
 [Responsibility for indicator targets]()
 
-## Related
-
-- [[responsibiity-targets-kpi-details|Responsibility for indicator targets]]
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
-- [[kpi-details|KPI Details]]

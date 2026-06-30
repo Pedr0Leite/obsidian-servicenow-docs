@@ -22,7 +22,7 @@ For a given group, Group Trails show:
 -   Membership changes
 -   Roles changes
 
-To access Group Trails, navigate to **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **Group Trails**. The Group Trails page is displayed with the following information.
+To access Group Trails, navigate to **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **Group Trails**. The Group Trails page is displayed with the following information.
 
 | | |
 |---|---|
@@ -35,6 +35,3 @@ To access Group Trails, navigate to **All** &gt; **System Security** &gt; **[[id
 
 \[Omitted image "group-trails.png"\] Alt text: Group Trails
 
-## Related
-
-- [[identity-audit|Identity and Access Audit]]

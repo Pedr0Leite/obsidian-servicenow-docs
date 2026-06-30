@@ -14,7 +14,7 @@ breadcrumb: [Document Management integration with external content providers, Us
 
 # Download versions from cloud
 
-Download [[document-mgt-versions|document versions]] from an external cloud to [[doc-management-landing|Document Management]].
+Download document versions from an external cloud to Document Management.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Role required: mp\_document\_admin
 
 **Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integration-external-content-providers.md)
 
-## Related
-
-- [[document-mgt-versions|Document versions]]
-- [[doc-management-landing|Document Management]]

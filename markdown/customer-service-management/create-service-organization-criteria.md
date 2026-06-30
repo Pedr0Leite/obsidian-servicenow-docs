@@ -12,7 +12,7 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Create the criteria for a service organization
 
-Define the criteria within organization criteria \[service\_organization\_criteria\] table so that you can later associate your service organizations to a service or your customers to a service organization. You do this task in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Define the criteria within organization criteria \[service\_organization\_criteria\] table so that you can later associate your service organizations to a service or your customers to a service organization. You do this task in the Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ Condition or query filter that matches a list of records in the table.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

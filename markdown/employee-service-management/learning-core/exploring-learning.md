@@ -14,7 +14,7 @@ breadcrumb: [Learning, Growth Experiences, HR Service Delivery, Employee Service
 
 # Exploring Learning
 
-Learn about the benefits of using [[exploring-learning-exp|Learning]] to proactively [[discover-lxp|discover]], manage, and engage with career development content.
+Learn about the benefits of using Learning to proactively discover, manage, and engage with career development content.
 
 ## Learning overview
 
@@ -36,7 +36,7 @@ Manager/Administrator
 
 </td><td>
 
-Learning administrators and managers can view and manage content [[activity-lxp|activity]] and history, and based on these insights they can create meaningful learning for learners with proper governance.
+Learning administrators and managers can view and manage content activity and history, and based on these insights they can create meaningful learning for learners with proper governance.
 
 </td></tr><tr><td>
 
@@ -44,9 +44,9 @@ User
 
 </td><td>
 
--   **Track [[achievements-lxp|achievements]]:**Track your learning using the achievements feature. Achievements provide badges and certifications for gamification.
--   **Share your learning:**Track Share learnings using functional lists of all content that you have interacted with from the beginning of your learning. Personal collections enable you to save content into customized folders for easy [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] and sharing.
--   Leverage [[skills-intelligence|Skills Foundation]]: Skills Foundation integrates with Learning to allow you to perform skills-driven learning search results. Review courses based on Skills Foundation recommendations and suggestions aligned with your skills.
+-   **Track achievements:**Track your learning using the achievements feature. Achievements provide badges and certifications for gamification.
+-   **Share your learning:**Track Share learnings using functional lists of all content that you have interacted with from the beginning of your learning. Personal collections enable you to save content into customized folders for easy reference and sharing.
+-   Leverage Skills Foundation: Skills Foundation integrates with Learning to allow you to perform skills-driven learning search results. Review courses based on Skills Foundation recommendations and suggestions aligned with your skills.
 
 </td></tr></tbody>
 </table>## Learning benefits
@@ -66,11 +66,3 @@ To learn more about configuring and using , see:
 -   [Using My Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md)
 -   [Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[discover-lxp|Discover]]
-- [[activity-lxp|Activity]]
-- [[achievements-lxp|Achievements]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[skills-intelligence|Skills Foundation]]

@@ -12,9 +12,9 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 # Admin APIs: Blueprint import and export
 
-You can [[cpq-export-a-blueprint|export a blueprint]] to back it up, or export and [[cpq-import-a-blueprint|import a blueprint]] to move it from one CPQ environment to another.
+You can export a blueprint to back it up, or export and import a blueprint to move it from one CPQ environment to another.
 
-The CPQ blueprint admin APIs provide the import and export API calls for working with [[blueprints|blueprints]]. Common [[use-cases|use cases]] include migrating blueprints across CPQ environments and backing up blueprints. To view the CPQ blueprint admin APIs, see:
+The CPQ blueprint admin APIs provide the import and export API calls for working with blueprints. Common use cases include migrating blueprints across CPQ environments and backing up blueprints. To view the CPQ blueprint admin APIs, see:
 
 [CPQ blueprint admin APIs](https://github.com/logikioopensource/API-Documentation/blob/main/Admin/blueprint.yml)
 
@@ -28,7 +28,7 @@ You can also view the CPQ open source API documentation on Github:
 
 To learn how to set up admin API keys for calling blueprint APIs, see:
 
-[[cpq-admin-api-keys|Intro to admin API keys]]
+[Intro to admin API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md)
 
 ## Blueprint export APIs
 
@@ -72,10 +72,3 @@ To view the source code for the Import blueprint call, see:
 
 [Import blueprint call](https://github.com/logikioopensource/API-Documentation/blob/3a6c7259ae1f6bb35f4f80c5ec6f23c86871c342/admin/blueprint.yml#L70)
 
-## Related
-
-- [[cpq-admin-api-keys|Intro to admin API keys]]
-- [[cpq-export-a-blueprint|Export a blueprint]]
-- [[cpq-import-a-blueprint|Import a blueprint]]
-- [[blueprints|Blueprints]]
-- [[use-cases|Use cases]]

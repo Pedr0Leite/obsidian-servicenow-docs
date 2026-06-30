@@ -14,7 +14,7 @@ breadcrumb: [Proactive Triggers reference, Proactive Triggers, Manage people and
 
 # Components installed with the Proactive Triggers feature
 
-When the [[proactive-triggers-landing-page|Proactive Triggers]] feature is installed, the feature includes required components, such as specific roles and tables. Admins can review these roles and tables to make sure that the feature has been installed correctly.
+When the Proactive Triggers feature is installed, the feature includes required components, such as specific roles and tables. Admins can review these roles and tables to make sure that the feature has been installed correctly.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see Find components installed with an application [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -53,7 +53,7 @@ Allows users to create proactive rules and have access to related tables and rel
 |Proactive Custom Trigger Types \[sys\_cs\_ptrigger\_trigger\_type\_list\]|Create and view custom trigger types|
 |Proactive Rules \[sys\_cs\_ptrigger\_rule\]|Stores all Proactive Triggers rules|
 |Proactive Actions \[sys\_cs\_ptrigger\_action\]|Parent action table|
-|Proactive [[virtual-agent-landing-page|Virtual Agent]] Topic Action\[sys\_cs\_ptrigger\_va\_topic\_action\] |Extended table from action for Virtual Agent action|
+|Proactive Virtual Agent Topic Action\[sys\_cs\_ptrigger\_va\_topic\_action\] |Extended table from action for Virtual Agent action|
 |Proactive Execution History  \[sys\_cs\_ptrigger\_execution\]|Execution history for the last 7 days|
 |Proactive Daily Report \[sys\_cs\_ptrigger\_report\_daily\]|Aggregated execution data by user, rule, or action per day|
 
@@ -62,7 +62,3 @@ Proactive Triggers adds the Proactive Triggers admin role.
 
 **Parent Topic:**[Proactive Triggers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-triggers-reference.md)
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[virtual-agent-landing-page|Virtual Agent]]

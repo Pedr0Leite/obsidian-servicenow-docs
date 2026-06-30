@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Definitions** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Definitions** &gt; **All**.
 
 2.  Select the test definition that you want to open.
 
@@ -43,6 +43,4 @@ Role required: admin
 
 6.  Select **Submit**.
 
-## Related
 
-- [[stm-landing-page|Service Test Management]]

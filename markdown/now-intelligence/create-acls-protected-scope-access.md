@@ -13,7 +13,7 @@ breadcrumb: [Enabling access to protected scope apps, Configure, Query Generatio
 
 # Create ACLs for AI Data Explorer and Query Generation protected scope access
 
-Create [[access-control|Access Control]] Lists \(ACLs\) in protected scopes to enable AI Data Explorer and [[query-generation|Query Generation]] to access tables within those scopes.
+Create Access Control Lists \(ACLs\) in protected scopes to enable AI Data Explorer and Query Generation to access tables within those scopes.
 
 ## Before you begin
 
@@ -84,15 +84,9 @@ AI Data Explorer and Query Generation can now access tables within the protected
 
 You must also create and approve Restricted Caller Access \(RCA\) records to enable Query Generation to fetch data from protected scope tables through API calls.
 
-**Parent Topic:**[[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
+**Parent Topic:**[Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md)
 
 **Previous topic:**[Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md)
 
-**Next topic:**[[create-rca-records-protected-scope-access|Approve RCA records for AI Data Explorer and Query Generation protected scope access]]
+**Next topic:**[Approve RCA records for AI Data Explorer and Query Generation protected scope access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-rca-records-protected-scope-access.md)
 
-## Related
-
-- [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
-- [[create-rca-records-protected-scope-access|Approve RCA records for AI Data Explorer and Query Generation protected scope access]]
-- [[access-control|Access control]]
-- [[query-generation|Query Generation]]

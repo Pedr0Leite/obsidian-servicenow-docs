@@ -14,11 +14,11 @@ breadcrumb: [Explore, Features, Now Assist Finance Supply Chain, Finance and Sup
 
 # Supporting information for Now Assist for Common Finance and Supply Chain features
 
-Get a quick overview of the important information that is related to the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 
 ## Supported versions
 
-[[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]] is supported starting with Yokohama.
+Now Assist for Common Finance and Supply Chain features is supported starting with Yokohama.
 
 ## Supported user interfaces
 
@@ -34,12 +34,12 @@ To use Now Assist for Common Finance and Supply Chain features, you need the rol
 
 |Role|Description|
 |----|-----------|
-|admin|Installs the Now Assist for SPO, Now Assist for SLO, or Now Assist for APO plugins, and activates the [[purchase-order-table|Purchase order]] summarization for fulfillers skill.|
-|sn\_fsc\_genai.now\_assist\_fulfiller|Generates summaries for purchase orders in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] workspace.|
+|admin|Installs the Now Assist for SPO, Now Assist for SLO, or Now Assist for APO plugins, and activates the Purchase order summarization for fulfillers skill.|
+|sn\_fsc\_genai.now\_assist\_fulfiller|Generates summaries for purchase orders in the Source-to-Pay Workspace workspace.|
 
 ## Licensing requirements
 
-The Now Assist for Common [[finance-supply-chain-landing|Finance and Supply Chain]] application requires the [[source-to-pay-operations-overview|Source-to-Pay Operations]] Pro Plus SKU.
+The Now Assist for Common Finance and Supply Chain application requires the Source-to-Pay Operations Pro Plus SKU.
 
 ## Application information
 
@@ -65,16 +65,7 @@ For more information, see [Configuring Now Assist for Common Finance and Supply 
 
 [Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-[[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
+[Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-slo.md)
 
 [Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/now-assist-apo.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]]
-- [[purchase-order-table|Purchase order]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

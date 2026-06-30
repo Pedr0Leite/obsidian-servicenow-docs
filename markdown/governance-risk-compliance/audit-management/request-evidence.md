@@ -18,7 +18,7 @@ Request evidence at any stage during an audit. The details about the items for w
 
 ## Before you begin
 
-Role required: The role required for [[c_GRCAudits|Audit Management]] is sn\_audit.user.
+Role required: The role required for Audit Management is sn\_audit.user.
 
 Following are the roles required for Lite Audit:
 
@@ -32,7 +32,7 @@ Following are the roles required for Lite Audit:
 An evidence can be requested in the following three ways:
 
 -   By creating an evidence record from the **My Evidence** module.
--   From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **Audit** &gt; **Engagements** &gt; **My Engagements**. Open the engagement record, and select the related list from which you want to request evidence. From the **Action on selected rows** list, select **Request Evidence**. Here, you can either create a new [[evidence-request|evidence request]] or add more requests to an existing evidence request. The Evidence request is created but not evidence request tasks.
+-   From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **Audit** &gt; **Engagements** &gt; **My Engagements**. Open the engagement record, and select the related list from which you want to request evidence. From the **Action on selected rows** list, select **Request Evidence**. Here, you can either create a new evidence request or add more requests to an existing evidence request. The Evidence request is created but not evidence request tasks.
 
     Select **Create a new evidence request task** in the **Request evidence** page to create request task.\[Omitted image "evidence-request.png"\] Alt text:
 
@@ -255,7 +255,4 @@ The object from where the evidence is initiated. Add this to the above table.
 
     The Evidence related list appears with the list of evidences and the person who is assigned the request receives an email notification to provide the requested evidence. Also, the state of the request changes to **Work in Progress**.
 
-## Related
 
-- [[c_GRCAudits|Audit Management]]
-- [[evidence-request|Evidence request]]

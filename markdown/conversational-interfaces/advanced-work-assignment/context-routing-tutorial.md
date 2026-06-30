@@ -14,9 +14,9 @@ breadcrumb: [Configure reasons for rejecting work items, Configure, Advanced Wor
 
 # Tutorial: Route interactions by context
 
-Learn how you can configure [[awa-application-landing-page|Advanced Work Assignment]] to route conversations to agents according to the context of the conversation.
+Learn how you can configure Advanced Work Assignment to route conversations to agents according to the context of the conversation.
 
-Activate the Customer Service [[management|Management]] Demo Data \(com.snc.customerservice.demo\) plugin.
+Activate the Customer Service Management Demo Data \(com.snc.customerservice.demo\) plugin.
 
 A basic understanding of context variables is required. For more information on context variables, see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md).
 
@@ -28,7 +28,3 @@ The **What can we help you with?** record producer is available by default with 
 
 Whichever category they select passes a value through the *liveagent\_csp\_category* context variable. Learn how to create queues that route conversations to agents according to the values passed through this context variable.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]

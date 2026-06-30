@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Contractor Management, Health and Safe
 
 # Assign Health and Safety profile to a contractor worker
 
-Assign the [[health-safety-overview|Health and Safety]] profile to all contractor workers who need to complete assigned tasks to work at your site.
+Assign the Health and Safety profile to all contractor workers who need to complete assigned tasks to work at your site.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -51,7 +51,3 @@ Role required: sn\_hs\_crm.contractor\_coordinator
     -   Worker form when adding a contract worker to a contractor company.
     -   Site access form when granting site access to a contract worker. For more information, see [Grant site access to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-grant-site-access-worker.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

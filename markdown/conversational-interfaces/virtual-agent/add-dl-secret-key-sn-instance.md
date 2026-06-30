@@ -14,7 +14,7 @@ breadcrumb: [Using Microsoft Power Virtual Agents as a secondary bot with Virtua
 
 # Add the Direct Line secret key to your Virtual Agent Bot Interconnect instance
 
-To use Power Virtual Agents with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, you must add the Direct Line security key as a credential in your Bot Interconnect instance.
+To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must add the Direct Line security key as a credential in your Bot Interconnect instance.
 
 ## Before you begin
 
@@ -131,6 +131,3 @@ The Direct Line key that you copied from Power Virtual Agents in the previous st
 
 **Next topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Microsoft Power Virtual Agents topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-primary-va-topic-ms-pva.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

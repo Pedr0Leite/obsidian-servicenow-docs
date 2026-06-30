@@ -16,11 +16,11 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 Configure visuals with dynamic elements to show information that applies only to the person looking at the visual on a dashboard, service portal, or Workspace canvas.
 
-A visual can display only the tickets assigned to a support agent or the number of tasks assigned to the team of a manager, for example. When you navigate to an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] from a personalized visual, the Analytics Hub is personalized as well.
+A visual can display only the tickets assigned to a support agent or the number of tasks assigned to the team of a manager, for example. When you navigate to an Analytics Hub from a personalized visual, the Analytics Hub is personalized as well.
 
-Use personalized visuals to push Performance Analytics down to the managers and line workers. It can be particularly useful to add [[widgets|widgets]] with personalized visuals to service portals. Enable managers who log in to their portal to see analytics only for records that belong to groups they own. Enable line workers who log in to their portal to see analytics only for records that belong to them or to one of their groups. Performance Analytics comes with the "One of my groups," "Groups I manage," and "Me" [[c_BreakdownElementFilters|element filters]] to let you create such personalized visuals.
+Use personalized visuals to push Performance Analytics down to the managers and line workers. It can be particularly useful to add widgets with personalized visuals to service portals. Enable managers who log in to their portal to see analytics only for records that belong to groups they own. Enable line workers who log in to their portal to see analytics only for records that belong to them or to one of their groups. Performance Analytics comes with the "One of my groups," "Groups I manage," and "Me" element filters to let you create such personalized visuals.
 
-Personalization applies to Time Series, Score, and [[breakdown-widgets|Breakdown widgets]]. When you configure personalized visuals, the personalization applies wherever the widget appears: a dashboard, landing page, or the Service Portal.
+Personalization applies to Time Series, Score, and Breakdown widgets. When you configure personalized visuals, the personalization applies wherever the widget appears: a dashboard, landing page, or the Service Portal.
 
 Technically, you personalize a visual by applying an element filter to the widget instead of specifying [breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md). The personalization comes about through using a dynamic condition on the filter, such as \[is \(dynamic\)\] \[me\].
 
@@ -28,7 +28,7 @@ Technically, you personalize a visual by applying an element filter to the widge
 
 ## Showing multiple elements
 
-When an element filter returns more than one element, the scores for these elements are shown as an aggregated value on Score and [[time-series-widgets|Time Series widgets]]. However, these scores are shown separately on Breakdown widgets. The following example shows a Time Series widget and a Breakdown widget with the same personalized visuals. The logged in viewer is a member of the Technical Services Support, SAP Support, and Marketing Systems Support groups. The Time Series widget, on top, shows an aggregate view of these groups, while the Breakdown widget underneath shows a separate view.
+When an element filter returns more than one element, the scores for these elements are shown as an aggregated value on Score and Time Series widgets. However, these scores are shown separately on Breakdown widgets. The following example shows a Time Series widget and a Breakdown widget with the same personalized visuals. The logged in viewer is a member of the Technical Services Support, SAP Support, and Marketing Systems Support groups. The Time Series widget, on top, shows an aggregate view of these groups, while the Breakdown widget underneath shows a separate view.
 
 \[Omitted image "personal-vis-time-series-vs-bkdown.png"\] Alt text: The time series widget shows the aggregate score of the three groups to which the viewer belongs, while the Breakdown widget shows the scores separately.
 
@@ -159,10 +159,3 @@ Log in as a user who is assigned incidents and open a dashboard with the My open
 
 Click the score to open the Analytics hub for this indicator, filtered on the user looking at the dashboard. \[Omitted image "my-open-incidents-drilldown.png"\] Alt text: Analytics hub for the Number of open incidents indicator filtered on the user named ITIL user.
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[c_BreakdownElementFilters|Element filters]]
-- [[breakdown-widgets|Breakdown widgets]]
-- [[time-series-widgets|Time series widgets]]

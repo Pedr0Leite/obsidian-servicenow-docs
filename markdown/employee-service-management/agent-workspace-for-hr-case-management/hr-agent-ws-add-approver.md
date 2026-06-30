@@ -14,7 +14,7 @@ breadcrumb: [Working with approvers for a case in Agent Workspace for HR Case Ma
 
 # Add or substitute an approver in a case
 
-[[agent-ws-hr-case-mgmt-use|Using Agent Workspace for HR Case Management]] you can add an approver or substitute missing approvers for cases that require approval.
+Using Agent Workspace for HR Case Management you can add an approver or substitute missing approvers for cases that require approval.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Locate and open an HR case that requires approvers.
 
@@ -34,8 +34,4 @@ Role required: sn\_hr\_core.case\_writer
 
 6.  Select **Save**.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-use|Using Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

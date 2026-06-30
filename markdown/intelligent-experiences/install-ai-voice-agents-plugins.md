@@ -20,7 +20,7 @@ Role required: sn\_aia\_admin
 
 ## About this task
 
-AI voice agents aren’t standalone applications that you can install directly. To enable AI voice agents on your instance, you must install and activate [[platform-now-assist-landing|Now Assist]] for Platform \(sn\_genai\_platform\), which is the base application for platform AI voice agents. Now Assist for Platform is auto-installed with any of your Now Assist products, for example, Now Assist for IT Service Management \(ITSM\) and Now Assist for HR Service Delivery \(HRSD\).
+AI voice agents aren’t standalone applications that you can install directly. To enable AI voice agents on your instance, you must install and activate Now Assist for Platform \(sn\_genai\_platform\), which is the base application for platform AI voice agents. Now Assist for Platform is auto-installed with any of your Now Assist products, for example, Now Assist for IT Service Management \(ITSM\) and Now Assist for HR Service Delivery \(HRSD\).
 
 ## Procedure
 
@@ -38,6 +38,3 @@ AI voice agents aren’t standalone applications that you can install directly. 
 
 AI voice agents associated with the applications are installed on your instance.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

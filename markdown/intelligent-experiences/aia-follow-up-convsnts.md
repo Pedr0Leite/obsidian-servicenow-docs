@@ -81,11 +81,9 @@ Application
 
 </td><td>
 
-The application scope for the agent property record: [[na-ai-agents|Now Assist AI agents]].
+The application scope for the agent property record: Now Assist AI agents.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[na-ai-agents|Now Assist AI agents]]

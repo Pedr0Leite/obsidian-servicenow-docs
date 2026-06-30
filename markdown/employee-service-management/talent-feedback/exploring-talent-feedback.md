@@ -14,7 +14,7 @@ breadcrumb: [Talent Feedback, Growth Experiences, HR Service Delivery, Employee 
 
 # Exploring Talent Feedback
 
-Learn about [[talent-feedback-landing|Talent Feedback]] and its benefits as managers and employees looking to leverage a feedback engine.
+Learn about Talent Feedback and its benefits as managers and employees looking to leverage a feedback engine.
 
 ## Talent Feedback overview
 
@@ -36,7 +36,7 @@ Managers
 
 </td><td>
 
--   Managers can [[request-skill-feedback-widget|request skill feedback]] for their team members on required skills, from the employee's collaborators.
+-   Managers can request skill feedback for their team members on required skills, from the employee's collaborators.
 -   Managers can view skill feedback of an employee consolidated in one page.
 -   Managers can view all the feedback received for a skill along with skill activities, during skill validation – This helps them get a full-fledged view of an employee's proficiency.
 -   Managers can also view the status of requests sent and choose to withdraw them when needed.
@@ -47,7 +47,7 @@ Employees
 
 </td><td>
 
-Employees receive feedback requests sent to them in their [[employee-center-landing-page|Employee Center]] To-dos, where they can provide feedback and skill rating for one or more skills in the request.
+Employees receive feedback requests sent to them in their Employee Center To-dos, where they can provide feedback and skill rating for one or more skills in the request.
 
 </td></tr></tbody>
 </table>## Talent Feedback benefits
@@ -108,26 +108,18 @@ Employee
 
 -   **[Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence.md)**
 
-    The ServiceNow® [[skills-intelligence|Skills Foundation]] application is an AI-driven platform that you can use in your organization to develop a workforce that is based on skills.
+    The ServiceNow® Skills Foundation application is an AI-driven platform that you can use in your organization to develop a workforce that is based on skills.
 
 -   **[Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-overview.md)**
 
-    The ServiceNow® [[manager-hub-overview|Manager Hub]] increases a manager's self-service and proactive engagement with their team by providing insights and recommended actions for what's most urgent and important to drive team success. It enables managers to grow as leaders through curated and personalized resources.
+    The ServiceNow® Manager Hub increases a manager's self-service and proactive engagement with their team by providing insights and recommended actions for what's most urgent and important to drive team success. It enables managers to grow as leaders through curated and personalized resources.
 
 
 ## What to explore next
 
-To learn more about configuring and [[using-talent-feedback|using Talent Feedback]], see:
+To learn more about configuring and using Talent Feedback, see:
 
 -   [Configuring Talent Feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/configuring-talent-feedback.md)
 -   [Using Talent Feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/using-talent-feedback.md)
 -   [Talent Feedback reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/talent-feedback-reference.md)
 
-## Related
-
-- [[talent-feedback-landing|Talent Feedback]]
-- [[request-skill-feedback-widget|Request skill feedback]]
-- [[employee-center-landing-page|Employee Center]]
-- [[skills-intelligence|Skills Foundation]]
-- [[manager-hub-overview|Manager Hub]]
-- [[using-talent-feedback|Using Talent Feedback]]

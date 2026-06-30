@@ -18,7 +18,7 @@ The **Switch** activity checks if the value of a passed field or variable is equ
 
 The switch activity behavior is similar to a switch statement in Java.
 
-When creating a switch activity, select a **Variable** or **Field** to check against [[conditions|activity conditions]] for a matching field value. When the value passed in this variable or field matches the value defined in the **Condition** field of the activity condition, the workflow progresses through that activity condition.
+When creating a switch activity, select a **Variable** or **Field** to check against activity conditions for a matching field value. When the value passed in this variable or field matches the value defined in the **Condition** field of the activity condition, the workflow progresses through that activity condition.
 
 **Note:** Condition activities run as the user whose actions match the conditions the workflow was waiting for and advances the workflow.
 
@@ -44,7 +44,7 @@ Type
 
 </td><td>
 
-Select **Variable** or **Field** as the type of value to check against available conditions. This selection sets the [[label|label]] and available options for the other field.
+Select **Variable** or **Field** as the type of value to check against available conditions. This selection sets the label and available options for the other field.
 
 </td></tr><tr><td>
 
@@ -54,8 +54,8 @@ Variable or Field
 
 Select the source of the value compared against the switch activity conditions. The field label and available options depend on the **Type** selection.
 
--   **Variable:** select any [[service-catalog|service catalog]] variable.
--   **Field:** select any field from the **Table** defined in the [[r_WorkflowProperties|workflow properties]].
+-   **Variable:** select any service catalog variable.
+-   **Field:** select any field from the **Table** defined in the workflow properties.
 
 </td></tr></tbody>
 </table>## States
@@ -88,9 +88,3 @@ Condition type \(Standard, Else, or Error\) is used. For more information, see [
 
 **Parent Topic:**[Condition Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ConditionActivites.md)
 
-## Related
-
-- [[conditions|Activity conditions]]
-- [[label|Label]]
-- [[service-catalog|Service Catalog]]
-- [[r_WorkflowProperties|Workflow properties]]

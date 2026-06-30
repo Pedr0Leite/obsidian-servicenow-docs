@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Risk configuration** &gt; **Risk score**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Risk configuration** &gt; **Risk score**.
 
 2.  Select **New**.
 
@@ -90,6 +90,3 @@ Color depicting a risk score band. Following are the values to choose from:-   G
 
 **Parent Topic:**[Managing risks scores in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-risk-scores.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

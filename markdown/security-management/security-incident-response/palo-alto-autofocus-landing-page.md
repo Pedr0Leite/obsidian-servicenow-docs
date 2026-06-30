@@ -14,11 +14,11 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Palo Alto Networks - AutoFocus integration
 
-The Palo Alto Networks - AutoFocus integration base system includes a workflow and a series of workflow activities you can use to [[integrating-threat-intelligence-security-center|integrate]] Palo Alto Networks - AutoFocus with your instance.
+The Palo Alto Networks - AutoFocus integration base system includes a workflow and a series of workflow activities you can use to integrate Palo Alto Networks - AutoFocus with your instance.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-[[threat-intelligence-security-center-overview|Explore]]
+Explore
 
  [Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
@@ -38,8 +38,8 @@ Use
 
 Develop
 
- -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+ -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -48,7 +48,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+ -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -59,11 +59,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[threat-intelligence-security-center-overview|Explore]]

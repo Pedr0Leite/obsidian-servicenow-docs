@@ -164,8 +164,5 @@ A user with the role you specify can access this skill. **Note:** For recommenda
 
 ## What to do next
 
-You can now use a recommendation skills for [[list-view-of-reg-alerts|regulatory alerts]]. You can generate recommendations for any regulatory alert that is not in the Closed or Cancelled state. For more information, see [Generate recommendations for a regulatory alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md).
+You can now use a recommendation skills for regulatory alerts. You can generate recommendations for any regulatory alert that is not in the Closed or Cancelled state. For more information, see [Generate recommendations for a regulatory alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md).
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]

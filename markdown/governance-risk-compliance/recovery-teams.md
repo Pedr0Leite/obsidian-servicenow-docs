@@ -12,7 +12,7 @@ breadcrumb: [Business continuity planning, Explore, Business Continuity Manageme
 
 # Recovery teams, loss scenarios, and recovery tasks
 
-[[bcp-uib|Business continuity planning]] workspace guides you to complete your business continuity plan. You can create a recovery team, define roles for the users, and direct the team to execute the plan. When you create a continuity plan for a department or a business unit, it is necessary to identify the loss scenarios to the business continuity plan.
+Business continuity planning workspace guides you to complete your business continuity plan. You can create a recovery team, define roles for the users, and direct the team to execute the plan. When you create a continuity plan for a department or a business unit, it is necessary to identify the loss scenarios to the business continuity plan.
 
 ## Recovery teams
 
@@ -30,7 +30,7 @@ While drafting the plan details, the business continuity plan owners can assign 
 
 Identifying a loss scenario helps your business to be prepared for future disruptive events and continue with your business functions as usual.
 
-If you have the BCM administrator role, you [[create-bcp-plan-in-uib-ws|create a business continuity plan]] by using the plan template. The loss scenarios that are identified in the plan template automatically get associated to the plan that you have created.
+If you have the BCM administrator role, you create a business continuity plan by using the plan template. The loss scenarios that are identified in the plan template automatically get associated to the plan that you have created.
 
 Your plan has a basic set of loss scenarios attached to it. You can then add additional loss scenarios to the plan as per your requirement in the BCM UIB Workspace as shown in the example.
 
@@ -42,7 +42,3 @@ You can assign the recovery task to a group by identifying an owner to execute t
 
 \[Omitted image "new-recovery-task.png"\] Alt text: Recovery task.
 
-## Related
-
-- [[bcp-uib|Business continuity planning]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]

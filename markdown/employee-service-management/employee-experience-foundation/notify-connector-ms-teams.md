@@ -36,7 +36,7 @@ You must perform the following activities to integrate Notify connector for Micr
 
 To allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams, see [Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notify-ms-teams.md).
 
-To [[c-agent-ex-use-nc|use Notify connector for Microsoft Teams]] in ServiceNow instance, see [Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md).
+To use Notify connector for Microsoft Teams in ServiceNow instance, see [Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md).
 
 **Parent Topic:**[Explore Microsoft Teams integration for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_experience.md)
 
@@ -45,6 +45,3 @@ To [[c-agent-ex-use-nc|use Notify connector for Microsoft Teams]] in ServiceNow 
 
 [Meeting Extensions for Microsoft Teams]()
 
-## Related
-
-- [[c-agent-ex-use-nc|Use Notify connector for Microsoft Teams]]

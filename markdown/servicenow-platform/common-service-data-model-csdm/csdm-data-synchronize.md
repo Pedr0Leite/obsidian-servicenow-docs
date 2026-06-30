@@ -14,7 +14,7 @@ breadcrumb: [Dynamic CI group and service type, Implement, CSDM, Configuration M
 
 # Synchronizing group assignment attributes
 
-To empower a particular user group to manage a collection of CIs or CI classes, set group assignment attributes through the Technology management offering or the [[ci-class-manager-landing-page|CI Class Manager]]. The operation synchronizes the group attribute data across all CIs that belong to the specified CI class or groups of CIs.
+To empower a particular user group to manage a collection of CIs or CI classes, set group assignment attributes through the Technology management offering or the CI Class Manager. The operation synchronizes the group attribute data across all CIs that belong to the specified CI class or groups of CIs.
 
 ## Methods for synchronizing group assignment attributes
 
@@ -37,6 +37,3 @@ To empower a particular user group to manage a collection of CIs or CI classes, 
 
 [Synchronize user groups for a technology management offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable-tso.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

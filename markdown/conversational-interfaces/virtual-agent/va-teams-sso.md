@@ -15,7 +15,7 @@ breadcrumb: [Configure link authentication and opening experience in Microsoft T
 
 # Configuring smart links in Microsoft Teams
 
-Configure smart links for your [[virtual-agent-landing-page|Virtual Agent]] app in Microsoft Teams to enable different link opening experiences.
+Configure smart links for your Virtual Agent app in Microsoft Teams to enable different link opening experiences.
 
 Smart link settings in the admin console enable admins to define one of the three link opening options in Microsoft Teams.
 
@@ -25,7 +25,7 @@ Smart link settings in the admin console enable admins to define one of the thre
 
 Through link authentication and Single Sign-On \(SSO\) support, link content can be rendered in a pop-up, Microsoft Teams tab, or a new browser tab.
 
-You can configure smart links for Microsoft Teams from the URL navigation system action under **Target Location**. For more information about configuring smart links, see [[create-smart-link-preference|Create a smart link preference]].
+You can configure smart links for Microsoft Teams from the URL navigation system action under **Target Location**. For more information about configuring smart links, see [Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md).
 
 There are three valid link opening options that are applicable to Microsoft Teams and the smart link settings in admin console enables admins to define where to open a link in Microsoft Teams.\[Omitted image "msteams-link-open-options.png"\] Alt text: Valid link opening options applicable to Microsoft Teams. Load in Place, New Browser Tab, and Popup options are highlighted.
 
@@ -53,7 +53,3 @@ If both chat widget and Microsoft Teams are valid channels for the customer, the
 
 **Parent Topic:**[Configure link authentication and opening experience in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/link-opening-authentication-msteams.md)
 
-## Related
-
-- [[create-smart-link-preference|Create a smart link preference]]
-- [[virtual-agent-landing-page|Virtual Agent]]

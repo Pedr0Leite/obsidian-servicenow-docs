@@ -20,7 +20,7 @@ Upload the manifest file that you generated to the Microsoft Teams and test your
 
 Role required: Microsoft Teams admin, Global Administrator, or roles containing Application Administrator.
 
-The self-configured bot that you created will not be available in the Microsoft global app store unlike the ServiceNow pre-published app - ServiceNow [[virtual-agent-landing-page|Virtual Agent]]. To test your app experience within Microsoft Teams, you must upload your app to Microsoft Teams. Uploading adds the app to the team that you selected and your team can participate in the end-to end conversations with the bot.
+The self-configured bot that you created will not be available in the Microsoft global app store unlike the ServiceNow pre-published app - ServiceNow Virtual Agent. To test your app experience within Microsoft Teams, you must upload your app to Microsoft Teams. Uploading adds the app to the team that you selected and your team can participate in the end-to end conversations with the bot.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ The self-configured bot that you created will not be available in the Microsoft 
 
         \[Omitted image "msteams-confirm-snow-acnt-link.png"\] Alt text: Microsoft Teams account linking confirmation dialog box.
 
-        Account linking associates your Microsoft Teams account with your ServiceNow account for the ServiceNow instance that is integrated with the [[teams-conv-integration|Conversational Integration with Microsoft Teams]]. Users with linked accounts can run Virtual Agent topics that use ServiceNow information and records.
+        Account linking associates your Microsoft Teams account with your ServiceNow account for the ServiceNow instance that is integrated with the Conversational Integration with Microsoft Teams. Users with linked accounts can run Virtual Agent topics that use ServiceNow information and records.
 
         \[Omitted image "msteams-acnt-link-snow.png"\] Alt text: ServiceNow account linked with Microsoft Teams tenant.
 
@@ -71,7 +71,3 @@ You have successfully integrated Virtual Agent with Microsoft Teams using the se
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-teams-self-configured-bot.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

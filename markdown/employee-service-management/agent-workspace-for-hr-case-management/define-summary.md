@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Generate a summary report
 
-Create and save as many templates as needed by using the ServiceNow [[document-templates-overview|Document Templates]] application. Create a summary report by selecting a document template for the report. Export the case details, in a PDF format, for documenting and sharing purposes.
+Create and save as many templates as needed by using the ServiceNow Document Templates application. Create a summary report by selecting a document template for the report. Export the case details, in a PDF format, for documenting and sharing purposes.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Role required: sn\_hr\_core.case\_writer
 Ensure the following plugins are installed:
 
 -   Document Templates \[sn\_doc\]
--   [[hr-case-employee-relations|Employee Relations]] \[com.sn\_hr\_employee\_relations\]
+-   Employee Relations \[com.sn\_hr\_employee\_relations\]
 
 You must be assigned to the case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for Case Management**.
 
-2.  [[search-hr-case|Create an HR case]] within the Employee Relations COE by selecting the **Add** icon \(plus sign\).
+2.  Create an HR case within the Employee Relations COE by selecting the **Add** icon \(plus sign\).
 
     For detailed instructions, see [Create a case in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-configurable-hr-create-case.md).
 
@@ -49,9 +49,4 @@ You must be assigned to the case.
 
     Summary report is generated with case details, including work notes, and added as an attachment to the case.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[case-management-workspace|Case management]]
-- [[search-hr-case|Create an HR case]]

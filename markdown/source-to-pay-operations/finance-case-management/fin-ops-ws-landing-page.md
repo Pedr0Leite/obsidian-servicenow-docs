@@ -28,10 +28,7 @@ The landing page has the following components.\[Omitted image "fin-ops-ws.png"\]
 |My assigned cases by type|A visual representation of the active cases assigned to you, grouped by case type. Select each segment to view the list of cases.|
 |My assigned cases by priority|A visual representation of the active cases assigned to you, grouped by priority. Select each segment to view the list of cases.|
 |Recently updated cases|
-|My active cases|View up to five of your active cases. Select **View all** to view all your active cases. The finance cases open in the Finance Operations Workspace, while the other cases and tasks that you have access to open in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].|
+|My active cases|View up to five of your active cases. Select **View all** to view all your active cases. The finance cases open in the Finance Operations Workspace, while the other cases and tasks that you have access to open in the Source-to-Pay Workspace.|
 
 **Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

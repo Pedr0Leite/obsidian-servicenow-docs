@@ -14,7 +14,7 @@ breadcrumb: [Install Supplier Case Management, Configure, Supplier Lifecycle Ope
 
 # Configure properties for Supplier Case Management
 
-Use these properties to configure settings for the [[supplier-case-management|Supplier Case Management]] application from the Properties page.
+Use these properties to configure settings for the Supplier Case Management application from the Properties page.
 
 Navigate to **All** &gt; **Supplier Case Management** &gt; **Properties**.
 
@@ -34,7 +34,7 @@ Supplier Case Management properties
 
 </td></tr><tr><td>
 
-Sys Id of the External User Registration Configuration for Onboarding a contact for a [[supplier|supplier]].**sn\_supplier.external\_registration\_profile\_id**
+Sys Id of the External User Registration Configuration for Onboarding a contact for a supplier.**sn\_supplier.external\_registration\_profile\_id**
 
 </td><td>
 
@@ -58,7 +58,7 @@ Enable acceptance flow for supplier cases.**sn.slm.isAcceptedFlowEnabled**
 
 </td><td>
 
-If enabled, supplier cases can be closed only if the [[supplier-contact|supplier contact]] accepts the case resolution. While waiting for the supplier contact's response, the case state changes to **Awaiting acceptance** and an email with the resolution details is sent to the supplier contact.
+If enabled, supplier cases can be closed only if the supplier contact accepts the case resolution. While waiting for the supplier contact's response, the case state changes to **Awaiting acceptance** and an email with the resolution details is sent to the supplier contact.
 
  If not enabled, supplier cases can be closed without requiring acceptance from the supplier contact.
 
@@ -78,7 +78,7 @@ Enter the API key that you received with your enterprise account from Craft.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[supplier-central|Supplier collaboration portal]] properties
+Supplier collaboration portal properties
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ For more information, see [Set the property to configure activity configurations
 
 </td></tr></tbody>
 </table>-   **[Enable automatic creation of supplier cases from incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-email-properties.md)**  
-The supplier administrator can set this property to [[create-supplier-case-spo|create a supplier case]] automatically from an incoming email.
+The supplier administrator can set this property to create a supplier case automatically from an incoming email.
 -   **[Email format for contacts linked with multiple suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-format-for-contacts-linked-with-multiple-suppliers.md)**  
 Contacts linked with multiple suppliers have to include the supplier's legal name while sending emails for automatic creation of cases.
 
@@ -107,10 +107,3 @@ Contacts linked with multiple suppliers have to include the supplier's legal nam
 
 [Application plugin installation sequence in Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slm-plugin-list.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[create-supplier-case-spo|Create a supplier case]]

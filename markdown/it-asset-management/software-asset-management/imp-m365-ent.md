@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 SaaS License Management success guide, Success Guides
 
 # Import Microsoft 365 subscription entitlements
 
-Import Microsoft 365 subscription entitlements into the ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Import Microsoft 365 subscription entitlements into the ServiceNow Software Asset Management application.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Core UI
 
 </td></tr><tr><td>
 
-[[sam-workspace|Software Asset Workspace]]
+Software Asset Workspace
 
 </td><td>
 
@@ -109,7 +109,7 @@ Software Asset Workspace
 
 4.  Review the imported entitlements.
 
-    1.  Confirm that the software entitlements are linked to the correct [[c_CreatingSoftwareModels|software models]].
+    1.  Confirm that the software entitlements are linked to the correct software models.
 
         |Interface|Action|
         |---------|------|
@@ -131,8 +131,3 @@ Software Asset Workspace
 
 [Reconcile for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/recon-for-comp-sg.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

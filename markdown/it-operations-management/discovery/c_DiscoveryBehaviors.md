@@ -22,7 +22,7 @@ Behaviors can be used in the following scenarios:
 
 -   Load balancing: A behavior enables load balancing in systems that use multiple MID Servers deployed across one or more domains.
 -   Multiple protocols in multiple domains: Configure one MID Server to scan for all protocols on one domain and another MID Server to perform a WMI scan on a second domain.
--   Access Control Lists \(ACL\): [[r-discovery|Discovery]] can scan SNMP devices protected by an ACL if the MID Server host machine is granted access by that ACL. Use a behavior to configure a MID Server to scan devices protected by an ACL.
+-   Access Control Lists \(ACL\): Discovery can scan SNMP devices protected by an ACL if the MID Server host machine is granted access by that ACL. Use a behavior to configure a MID Server to scan devices protected by an ACL.
 -   Devices running two protocols: Some devices might have two protocols running at the same time. Examples of this are the SSH and SNMP protocols running concurrently on one device \(most common\). A behavior can control which of the two protocols is explored for certain devices. The behavior then prevents the other protocol from being explored.
 
 Behaviors also enable the efficient Discovery of SSH and SNMP devices and WMI devices running on multiple Windows domains, using multiple MID Servers.
@@ -44,7 +44,7 @@ When creating a behavior, you select a functionality definition that determines 
 |All except Windows \(no WMI\)|Scans for all protocols except WMI, including SSH and SNMP. Use this in combination with Windows only functionality when scanning multiple domains or when non-Windows devices require a different MID Server.|
 
 -   **[Create a Discovery behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-disco-behavior.md)**  
-[[create-disco-behavior|Create a Discovery behavior]] to determine which probes Shazzam launches and which MID Server is used.
+Create a Discovery behavior to determine which probes Shazzam launches and which MID Server is used.
 -   **[Set up a load balancing behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetUpLoadBalDiscoBehavr.md)**  
 When multiple MID Servers are configured to scan the same protocol, you can set up load balancing behavior to automatically balance the work between MID Servers.
 -   **[Examples of Discovery behavior functionalities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DefineTheFunctionalities.md)**  
@@ -54,7 +54,3 @@ Access an SNMP device protected by an ACL using a Discovery behavior.
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[create-disco-behavior|Create a Discovery behavior]]

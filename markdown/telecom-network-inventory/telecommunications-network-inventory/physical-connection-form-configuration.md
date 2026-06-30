@@ -14,7 +14,7 @@ breadcrumb: [Physical Connection form, Reference, Telecommunications Network Inv
 
 # Physical Connection form - Configuration
 
-The Configuration section in the [[physical-connection-form|Physical Connection form]] enables you to create a physical connection.
+The Configuration section in the Physical Connection form enables you to create a physical connection.
 
 <table id="table_f3c_dmd_wrb"><thead><tr><th>
 
@@ -122,6 +122,3 @@ Distance is expressed in meters.
 
 [Define the physical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-physical-connections.md)
 
-## Related
-
-- [[physical-connection-form|Physical Connection form]]

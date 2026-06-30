@@ -14,7 +14,7 @@ breadcrumb: [Reset a password or unlock a user account with service desk assista
 
 # Unblock a Password Reset user
 
-If a user is manually banned or is flagged as exceeding max attempts, the user can be blocked \(not allowed to use the [[password-reset-landing-page|Password Reset]] application\). You can unblock a blocked user.
+If a user is manually banned or is flagged as exceeding max attempts, the user can be blocked \(not allowed to use the Password Reset application\). You can unblock a blocked user.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ If the number of blocked or locked users exceeds the limit within a defined time
 
 1.  To view the list of blocked users, navigate to **Password Reset** &gt; **Blocked Users**.
 
-2.  To unblock a [[self-service-landing|self-service]] user:
+2.  To unblock a self-service user:
 
     1.  Navigate to **Password Reset** &gt; **Blocked Users**.
 
@@ -66,7 +66,3 @@ If the number of blocked or locked users exceeds the limit within a defined time
 
 [Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_MonitorPasswordResetActivity.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[self-service-landing|Self-service]]

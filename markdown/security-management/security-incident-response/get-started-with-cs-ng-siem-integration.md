@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Next-Gen SIEM integration, Security Incident Response i
 
 # Get started with CrowdStrike Next-Gen SIEM integration
 
-Activate and set up the [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]] for Security Operation plug-in to interface with your ServiceNow AI Platform instance and [[sir-landing-page|Security Incident Response]] product.
+Activate and set up the CrowdStrike Next-Gen SIEM integration for Security Operation plug-in to interface with your ServiceNow AI Platform instance and Security Incident Response product.
 
 Before you can use the CrowdStrike Next-Gen SIEM integration, you must download it from the ServiceNow Store.
 
@@ -57,7 +57,7 @@ Verify that the ServiceNow core applications that are required to support the in
 
 </td><td>
 
-The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other [[security-operations-landing-page|Security Operations]] applications that are required by the integration.
+The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications that are required by the integration.
 
 </td></tr><tr><td>
 
@@ -65,14 +65,7 @@ The Security Incident Response plugin \(com.snc.security\_incident\) is required
 
 </td><td>
 
-[[configure-cortex-xsiam-siem|Install and configure]] the CrowdStrike Next-Gen SIEM integration for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure the CrowdStrike Next-Gen SIEM integration for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform instance.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

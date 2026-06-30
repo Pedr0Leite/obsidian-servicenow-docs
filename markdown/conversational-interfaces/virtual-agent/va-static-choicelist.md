@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Static Choice user input control
 
-Use the Static Choice user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to list predefined choices available to the user. You can select only one item from a choice list.
+Use the Static Choice user input control in a Virtual Agent topic to list predefined choices available to the user. You can select only one item from a choice list.
 
 ## Choice display
 
@@ -622,6 +622,3 @@ For screen devices, use touch scroll. For nonscreen devices, use voice paginatio
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -31,8 +31,5 @@ Using schedules, you can specify that the due date for a metric data task. For e
     For detailed information on Schedule form fields, see [Schedule fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ScheduleFields.md).
 
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
-## Related
-
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]

@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercise and Crisis Management, Using BCM 
 
 # Review event details and start an exercise event
 
-Review the details of an event in the **Details** tab, [[start-event|start an event]] to test your business continuity or recovery plan, and monitor completion of the event.
+Review the details of an event in the **Details** tab, start an event to test your business continuity or recovery plan, and monitor completion of the event.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon.\).
 
-3.  Click the **Pending** state in the [[exercise-management-uib|Exercises]] list.
+3.  Click the **Pending** state in the Exercises list.
 
 4.  Click the link to the event record in the **Number** column.
 
@@ -249,7 +249,4 @@ Additional information about the exercise event.
 
     **Note:** By default, the PDF is generated and attached after the event is closed.
 
-## Related
 
-- [[start-event|Start an event]]
-- [[exercise-management-uib|Exercises]]

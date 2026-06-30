@@ -14,7 +14,7 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 Use LES to review the log report dashboard.
 
-**Parent Topic:**[[les-intro|Log Export Service \(LES\)]]
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 
 ## Review log report
 
@@ -26,11 +26,11 @@ Role required: admin or sn\_logstoanalytics.admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Log [[export|Export]] Service** &gt; **Reports**.
+1.  Navigate to **All** &gt; **Log Export Service** &gt; **Reports**.
 
 2.  Review log data in the following widgets.
 
-    -   [[logs|Logs]] Exported \(Monthly\): It shows the megabytes exported per month in the initial view. You can drilldown the graph to view the data for each week or daily data. You can view data from last 395 days.
+    -   Logs Exported \(Monthly\): It shows the megabytes exported per month in the initial view. You can drilldown the graph to view the data for each week or daily data. You can view data from last 395 days.
 
         \[Omitted image "les-logs-exp-month.png"\] Alt text: Image showing logs exported monthly report
 
@@ -62,8 +62,4 @@ Role required: admin or sn\_logstoanalytics.admin
 
         **Note:** The tables from which you can view the log events are: syslog, syslog\_transaction, sys\_audit, and sys\_outbound\_http\_log.
 
-## Related
 
-- [[les-intro|Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[logs|Logs]]

@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Add-in for Microsoft 365 reference, ServiceNow Add-in fo
 
 # Office Manifest form
 
-The Office Manifest form helps you configure a manifest file for the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]].
+The Office Manifest form helps you configure a manifest file for the ServiceNow Add-in for Microsoft 365.
 
 <table id="table_yqv_5kk_pcc"><thead><tr><th>
 
@@ -117,6 +117,3 @@ List of domains that are allowed to access the add-in.This field is available on
 
 **Parent Topic:**[ServiceNow Add-in for Microsoft 365 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

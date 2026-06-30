@@ -110,8 +110,5 @@ The ServiceNow® Virtual Agent application provides user assistance through a co
 
 Virtual Agent is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[[conversational-interfaces-rn-landing|Conversational Interfaces release notes]]
+**Parent Topic:**[Conversational Interfaces release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/conversational-interfaces-rn-landing.md)
 
-## Related
-
-- [[conversational-interfaces-rn-landing|Conversational Interfaces release notes]]

@@ -28,7 +28,7 @@ Indicators enable viewing of high-level metrics that highlight data quality, com
 
 -   **CI install status vs. asset state matched**
 
-    All CI records from the Hardware \[cmdb\_ci\_hardware\] class where the installation status correctly aligns with the expected asset state, promoting accurate and reliable [[am-landing-page|asset management]].
+    All CI records from the Hardware \[cmdb\_ci\_hardware\] class where the installation status correctly aligns with the expected asset state, promoting accurate and reliable asset management.
 
 -   **CI install status vs. asset state mismatched**
 
@@ -98,6 +98,4 @@ Indicators enable viewing of high-level metrics that highlight data quality, com
 
     Total number of CI records from the Hardware \[cmdb\_ci\_hardware\] class, measured daily and grouped by model category and discovery source.
 
-## Related
 
-- [[am-landing-page|Asset Management]]

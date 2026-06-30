@@ -14,7 +14,7 @@ breadcrumb: [Explore, Asset Management, IT Asset Management]
 
 # Hardware asset overview
 
-Enhance your [[am-landing-page|Asset Management]] experience by using the modernized and user-friendly Hardware asset overview view. The Hardware asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
+Enhance your Asset Management experience by using the modernized and user-friendly Hardware asset overview view. The Hardware asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
 
 Use the Hardware asset overview view to:
 
@@ -51,6 +51,3 @@ The system property **sn\_itam\_workspace.asset\_overview\_enable\_lazy\_loading
 
 \[Omitted image "asset-workspace-overview-load.png"\] Alt text: Load report option on Hardware asset overview page
 
-## Related
-
-- [[am-landing-page|Asset Management]]

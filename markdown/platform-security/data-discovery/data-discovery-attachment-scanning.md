@@ -14,9 +14,9 @@ breadcrumb: [Configure a job, Data Discovery jobs, Exploring Data Discovery \(Cl
 
 # Attachment scanning in Data Discovery jobs
 
-Attachment scanning in [[data-discovery-landing|Data Discovery]] enables you to scan, discover, and report on sensitive data in file attachments.
+Attachment scanning in Data Discovery enables you to scan, discover, and report on sensitive data in file attachments.
 
-Sensitive data such as social security Numbers \(SSN\), credit card numbers, and other personally identifiable information \(PII\) are often contained in file attachments. [[data-discovery-jobs|Data Discovery jobs]] attachment scanning, enables you to discover and report sensitive data in certain attachments.The attachment scanning feature is only available for scheduled scans.
+Sensitive data such as social security Numbers \(SSN\), credit card numbers, and other personally identifiable information \(PII\) are often contained in file attachments. Data Discovery jobs attachment scanning, enables you to discover and report sensitive data in certain attachments.The attachment scanning feature is only available for scheduled scans.
 
 **Warning:** This feature requires sending your data to a controlled ServiceNow environment. Contact your account and support teams for enabling the attachment scanning feature
 
@@ -31,7 +31,3 @@ Sensitive data such as social security Numbers \(SSN\), credit card numbers, and
     -   XLS
     -   CSV
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]
-- [[data-discovery-jobs|Data Discovery jobs]]

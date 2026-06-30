@@ -24,7 +24,7 @@ This dashboard offers various insights for the users. These insights enable risk
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-To open the dashboard, navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **Risk Identification** &gt; **Analytics Overview**.
+To open the dashboard, navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Risk Identification** &gt; **Analytics Overview**.
 
 \[Omitted image "risk-identification-overview-dashboard-nextgen.jpg"\] Alt text: Risk Identification Overview in the Next Experience.
 
@@ -137,6 +137,3 @@ The number of upcoming questionnaires assigned to a user based on the due dates.
 </td></tr></tbody>
 </table>**Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]

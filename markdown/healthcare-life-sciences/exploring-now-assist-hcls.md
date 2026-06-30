@@ -13,13 +13,13 @@ breadcrumb: [Now Assist for Care Team Operations, Healthcare and Life Sciences]
 
 # Exploring Now Assist for Care Team Operations
 
-Use ServiceNow®[[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]] to create support requests for service departments conversationally through Virtual Agent on [[care-team-mobile-landing|Care Team Mobile]] or [[care-team-portal-landing|Care Team Portal]] or via phone using Voice AI agent capabilities.
+Use ServiceNow®Now Assist for Care Team Operations to create support requests for service departments conversationally through Virtual Agent on Care Team Mobile or Care Team Portal or via phone using Voice AI agent capabilities.
 
 ## Request care team assistance agentic workflow
 
 \[Omitted image "hco-now-assist-request-care-team-assistance.png"\] Alt text: Conversational abilities of Virtual Agent leveraged to create a support request for Care Team Operations users.
 
-The [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]] enables care teams to create support requests using the conversational abilities of Now Assist in Virtual Agent from directly within Care Team Portal or Care Team Mobile.
+The Request care team assistance agentic workflow enables care teams to create support requests using the conversational abilities of Now Assist in Virtual Agent from directly within Care Team Portal or Care Team Mobile.
 
 This workflow manages ambiguous or missing details by asking clarifying questions before creating a case \(when appropriate\). It then confirms all details and provides a confirmation of successful case creation along with the case number.
 
@@ -32,16 +32,16 @@ The following standalone AI agents are used in this workflow:
 
 The following Care Team Operations plugins are available for use with this workflow:
 
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
+-   Care Team Operations for Biomed
+-   Care Team Operations for Environmental Services
+-   Care Team Operations for Facilities
+-   Care Team Operations for Healthcare IT
 
 ## Care Team Operations Case Creation Voice AI Agent
 
 AI voice agents use generative AI to deliver natural, dynamic conversations that help users complete tasks, resolve issues, and access information—anytime, anywhere.
 
-The [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI Agent]] enables care team members to create cases entirely through voice commands.
+The Care Team Operations Case Creation Voice AI Agent enables care team members to create cases entirely through voice commands.
 
 **Note:** For the Care Team Operations Case Creation Voice AI Agent to create cases, the Care Team Operations plugin for cases of that request type must be installed.
 
@@ -55,19 +55,6 @@ The [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI Age
 
 To learn more about configuring and using Now Assist for Care Team Operations, see:
 
--   [[configuring-now-assist-hcls|Configuring Now Assist for Care Team Operations]]
--   [[hcls-agentic-ai-use-cases|Using Agentic AI in Now Assist for Care Team Operations]]
+-   [Configuring Now Assist for Care Team Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configuring-now-assist-hcls.md)
+-   [Using Agentic AI in Now Assist for Care Team Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-agentic-ai-use-cases.md)
 
-## Related
-
-- [[configuring-now-assist-hcls|Configuring Now Assist for Care Team Operations]]
-- [[hcls-agentic-ai-use-cases|Using Agentic AI in Now Assist for Care Team Operations]]
-- [[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI agent]]

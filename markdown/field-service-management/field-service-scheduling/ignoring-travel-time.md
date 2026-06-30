@@ -18,9 +18,9 @@ You can choose to assign work order tasks to the highest ranked agents without t
 
 ## Enabling ignore travel
 
-The Ignore travel option in the work order task enables [[dynamic-scheduling|dynamic scheduling]] to assign work order tasks automatically to the highest ranked agents. If the highest ranked agent is not available due to time off, the task is assigned to the next highest ranked agent.
+The Ignore travel option in the work order task enables dynamic scheduling to assign work order tasks automatically to the highest ranked agents. If the highest ranked agent is not available due to time off, the task is assigned to the next highest ranked agent.
 
-Enabling the **com.snc.dynamic.scheduling.ignoreAgentTravelTimeDuringScheduling** property displays the Ignore Travel option in work order tasks. For more information about enabling a dynamic scheduling property, see [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]].
+Enabling the **com.snc.dynamic.scheduling.ignoreAgentTravelTimeDuringScheduling** property displays the Ignore Travel option in work order tasks. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md).
 
 The Ignore Travel option does not appear in the work order task form by default so you have to add it manually. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
@@ -29,7 +29,3 @@ Note the following parameters related to dynamic scheduling when Ignore travel i
 -   Double booking must be enabled for the system to assign tasks to the agent automatically.
 -   If access hours are defined in a work order task, the system ignores the defined access hours limit when auto-assigning that task to agents.
 
-## Related
-
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

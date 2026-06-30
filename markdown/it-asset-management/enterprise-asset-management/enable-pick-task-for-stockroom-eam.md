@@ -22,9 +22,9 @@ Role required: inventory\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  From the list of available stockrooms, select the stockroom for which you want to enable the Asset pick task and Asset put away task.
 
@@ -42,7 +42,3 @@ Role required: inventory\_user
 
 [View the open enterprise asset pick tasks for your stockroom]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

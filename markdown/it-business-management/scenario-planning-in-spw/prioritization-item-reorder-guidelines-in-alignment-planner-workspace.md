@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Planning item reorder errors in Strategic Planning Workspace
 
-Review the scenarios when the reordering of items can fail in the List view of [[backlog-management-in-alignment-planner-workspace|Prioritization in Strategic Planning]] Workspace.
+Review the scenarios when the reordering of items can fail in the List view of Prioritization in Strategic Planning Workspace.
 
 To update the rank of the planning items in the work pipeline of your portfolio plan, you can reorder the items from the List view of the Prioritization page. While doing so, the reorder can fail due to an error in the ranking configuration. Following are the scenarios where reordering of planning items can fail:
 
@@ -38,6 +38,3 @@ To update the rank of the planning items in the work pipeline of your portfolio 
 
 [Rank planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/rank-and-prioritize-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[backlog-management-in-alignment-planner-workspace|Prioritization in Strategic Planning]]

@@ -22,12 +22,10 @@ You can only roll back the updates made with the last clone. Rollbacks must occu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home**.
 
 2.  Select the tile of the clone that you must roll back.
 
 3.  Select the **Rollback** option on the page.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]

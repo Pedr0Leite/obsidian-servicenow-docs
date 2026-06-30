@@ -47,7 +47,7 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[[c_MapPages|Map pages]]
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_MapPages.md)
 
 **Related topics**  
 
@@ -64,6 +64,3 @@ Role required: admin
 
 [Scripting for map pages]()
 
-## Related
-
-- [[c_MapPages|Map pages]]

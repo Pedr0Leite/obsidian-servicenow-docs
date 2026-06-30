@@ -18,8 +18,8 @@ You can install the Task Intelligence for Customer Service application \(com.snc
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Task Intelligence for Customer Service](https://store.servicenow.com/sn_appstore_store.do#!/store/application/892158dc7deec910f877d4d6a46b1d5f) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   The minimum version of the workspace required to support [[csm-task-intelligence|Task Intelligence for Customer Service]] application is CSM and FSM Configurable Workspace Foundation \(sn\_cwf\_wrkspc\): 24.2.1.
--   To enhance ML functionality, we need to set up three Access Control [[migration-lists|Lists]] \(ACLs\) within the Customer Service application. These ACLs are essential for granting the platform\_ml\_read role the necessary read access to the sn\_customerservice\_case table and its associated fields. For more information, see [KB1705485](https://support.servicenow.com/kb_knowledge.do?sys_id=4d3e9b1f93d15610f2167de86cba1061&sysparm_record_target=kb_knowledge&sysparm_record_row=1&sysparm_record_rows=228&sysparm_record_list=short_descriptionSTARTSWITHACL%5EORDERBYDESCnumber)
+-   The minimum version of the workspace required to support Task Intelligence for Customer Service application is CSM and FSM Configurable Workspace Foundation \(sn\_cwf\_wrkspc\): 24.2.1.
+-   To enhance ML functionality, we need to set up three Access Control Lists \(ACLs\) within the Customer Service application. These ACLs are essential for granting the platform\_ml\_read role the necessary read access to the sn\_customerservice\_case table and its associated fields. For more information, see [KB1705485](https://support.servicenow.com/kb_knowledge.do?sys_id=4d3e9b1f93d15610f2167de86cba1061&sysparm_record_target=kb_knowledge&sysparm_record_row=1&sysparm_record_rows=228&sysparm_record_list=short_descriptionSTARTSWITHACL%5EORDERBYDESCnumber)
 
 
 Role required: ti\_admin
@@ -35,7 +35,7 @@ The following items are installed with Task Intelligence for Customer Service:
 -   Flows
 -   Scheduled jobs
 
-For more information, see [[case-categorization-components|Components installed with Task Intelligence for Customer Service]].
+For more information, see [Components installed with Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-components.md).
 
 ## Procedure
 
@@ -59,8 +59,4 @@ For more information, see [[case-categorization-components|Components installed 
 
 6.  Select **Install**.
 
-## Related
 
-- [[case-categorization-components|Components installed with Task Intelligence for Customer Service]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[migration-lists|Lists]]

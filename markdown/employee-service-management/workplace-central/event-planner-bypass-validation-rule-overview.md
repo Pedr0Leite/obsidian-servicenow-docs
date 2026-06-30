@@ -14,7 +14,7 @@ breadcrumb: [Working with schedule view, Working with Event planner, Use, Workpl
 
 # Allow Event planners to handle reservations with more flexibility
 
-Reservation planners can bypass or overrule certain settings in the Reservable module while moving a reservation to another location in the [[event-planner|Event planner]] Scheduled View.
+Reservation planners can bypass or overrule certain settings in the Reservable module while moving a reservation to another location in the Event planner Scheduled View.
 
 Space planners with the \(sn\_wsd\_rsv.reservation\_planner\) role can move a reservation when a location or space is part of a Reservable module. Space and reservation planners \(sn\_wsd\_rsv.reservation\_planner\) with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass certain settings in the Reservable module configuration. They can move and update a reservation from one Reservable module to another without the need to recreate a reservation. Space planners can bypass the Reservable module configuration limitations to optimize reservations quickly and easily.
 
@@ -39,6 +39,3 @@ Space planners can do the following while moving a reservation in the Event plan
 
 **Parent Topic:**[Working with schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-view.md)
 
-## Related
-
-- [[event-planner|Event Planner]]

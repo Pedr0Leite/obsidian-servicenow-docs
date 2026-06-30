@@ -22,13 +22,13 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-If you have the [[legal-va-conversations|Legal Virtual Agent Conversations]] application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md).
+If you have the Legal Virtual Agent Conversations application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
-    **Note:** If you're using Legal Service Portal, you can [[submit-legal-request|submit a legal request]] by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
+    **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
 2.  Navigate to **Help center** &gt; **Legal services**.
 
@@ -63,8 +63,3 @@ If you have the [[legal-va-conversations|Legal Virtual Agent Conversations]] app
 
 [Cancel a privacy assessment request]()
 
-## Related
-
-- [[legal-va-conversations|Legal Virtual Agent Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-legal-request|Submit a legal request]]

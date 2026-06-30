@@ -12,8 +12,5 @@ breadcrumb: [Care Team Operations for Facilities, Healthcare Operations, Healthc
 
 # Care Team Operations for Facilities reference
 
-Reference topics provide additional information about [[cto-facilities-landing|Care Team Operations for Facilities]] components.
+Reference topics provide additional information about Care Team Operations for Facilities components.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

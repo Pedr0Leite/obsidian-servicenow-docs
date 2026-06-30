@@ -52,7 +52,7 @@ Configure the **glide.knowman.aqi.article\_workflow\_states** property to set th
     **Note:**
 
     -   If you perform several AQI reviews for the same version, the latest AQI score appears in the **Latest AQI** field in the article.
-    -   If you’re [[using-knowledge-management|using Knowledge Management]] within the Customer Service Management application, you can automatically make knowledge public by running the Make KM Service Portal Pages Public fix script after you install the Customer Service Management plugin \(com.sn\_customerservice\).
+    -   If you’re using Knowledge Management within the Customer Service Management application, you can automatically make knowledge public by running the Make KM Service Portal Pages Public fix script after you install the Customer Service Management plugin \(com.sn\_customerservice\).
     Standard Pagination - Displays the search results in multiple pages.
 
     Infinite Scroll - Displays the search results while scrolling.
@@ -75,7 +75,7 @@ Do This
 
 Click **Submit**. The form refreshes and the total score of the AQI review is displayed in the **AQI score** field.
 
- The system sends an [[email|email]] notification as follows:
+ The system sends an email notification as follows:
 
 -   If the AQI review was performed on the first version of the article, the system sends an email notification to the author of the article.
 -   If the AQI review was performed on subsequent versions of the article, the system sends an email notification to the author and creator of the article versions.
@@ -98,7 +98,3 @@ To view all the AQI reviews you completed, navigate to **Knowledge** &gt; **My C
 
 **Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-quality-index.md)
 
-## Related
-
-- [[using-knowledge-management|Using Knowledge Management]]
-- [[email|Email]]

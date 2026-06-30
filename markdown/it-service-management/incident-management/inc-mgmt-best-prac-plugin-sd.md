@@ -14,13 +14,13 @@ breadcrumb: [Incident Management plugins, Reference, Incident Management, IT Ser
 
 # Incident Management Best Practice – San Diego
 
-The [[c_IncidentManagement|Incident management]] best practice -San Diego plugin \(com.snc.best\_practice.incident.sandiego\) enhances the integration and workflows for incidents and problems. This plugin enables you to update the progress of the reported incident and problem to the agent and caller.
+The Incident management best practice -San Diego plugin \(com.snc.best\_practice.incident.sandiego\) enhances the integration and workflows for incidents and problems. This plugin enables you to update the progress of the reported incident and problem to the agent and caller.
 
 ## Requirements and dependencies
 
 Install these additional plugins to use the Incident management best practice — San Diego plugin:
 
--   [[c_ProblemManagement|Problem Management]] Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\).
+-   Problem Management Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\).
 
     For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Madrid](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/activate-pm-best-practice-madrid.md).
 
@@ -55,7 +55,7 @@ When the plugin is installed:
 
 This plugin enhances the incident and problem workflow to support the following activities:
 
--   **[[create-a-problem-v2|Create a problem]]**
+-   **Create a problem**
 
     When you create a problem from an existing incident, the incident **State** is set to **On Hold** and the **Reason** is set to **Awaiting Problem** until the linked problem is resolved.
 
@@ -80,8 +80,3 @@ Activate the Incident Management Best Practice — San Diego plugin \(com.snc.be
 
 **Parent Topic:**[Incident Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-mgmt-plugins.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[create-a-problem-v2|Create a problem]]

@@ -54,13 +54,10 @@ Finance specialists can create, track, and resolve finance requests efficiently.
 -   **[Finance Case Management Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-reference.md)**  
 Reference topics provide additional information about the lists and forms that you use in Finance Case Management.
 
-**Parent Topic:**[[fsc-common-apps-landing|Finance and Supply Chain applications]]
+**Parent Topic:**[Finance and Supply Chain applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/fsc-common-apps-landing.md)
 
 **Related topics**  
 
 
 [Common applications in FSC]()
 
-## Related
-
-- [[fsc-common-apps-landing|Finance and Supply Chain applications]]

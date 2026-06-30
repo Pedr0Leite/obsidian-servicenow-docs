@@ -22,13 +22,13 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Requests** &gt; **Filter definitions**.
+1.  Navigate to **Employee Center** &gt; **Requests** &gt; **Filter definitions**.
 
 2.  From the Request filter definitions list, select any one where you want to add a filter configuration to open it, like **View filter**.
 
 3.  In the filter definition page, go to the Request filter configuration section, and select **New**.
 
-    You can edit the default filters **Status** and **Updated** available with the default tabs **For you** and **For others**. You can also add new filters to the tabs as required. In the Associated tabs sections, you can associate tabs to filters according to your organizational requirement. For more information, see the details on the [[filter-config-form-req|request filter configuration form]] in Step 4.
+    You can edit the default filters **Status** and **Updated** available with the default tabs **For you** and **For others**. You can also add new filters to the tabs as required. In the Associated tabs sections, you can associate tabs to filters according to your organizational requirement. For more information, see the details on the request filter configuration form in Step 4.
 
 4.  On the New filter configuration form, fill in the fields, and select **Submit**.
 
@@ -39,7 +39,3 @@ Role required: sn\_hr\_sp.esc\_admin
 
 [Set up the Requests filter condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-con.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[filter-config-form-req|Request filter configuration form]]

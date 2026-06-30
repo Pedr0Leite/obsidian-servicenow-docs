@@ -14,7 +14,7 @@ breadcrumb: [Browser Extension for Employee Center, Setup task management, Confi
 
 # Set up browser policies
 
-Set up the browser policies to enable access to the [[ecbe-intro|Browser Extension for Employee Center]] within the supported browsers.
+Set up the browser policies to enable access to the Browser Extension for Employee Center within the supported browsers.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ The browser settings and policy page might look different for different browsers
         {
           "Instance": "",
           "Browser extension portal": "",
-          "[[employee-center-portal-overview|Employee portal]]": "",
+          "Employee portal": "",
           "Extension title": "",
           "Extension icon path": "",
           "Enable notifications": false,
@@ -57,7 +57,7 @@ The browser settings and policy page might look different for different browsers
         }
         ```
 
-2.  In the **ServiceNow [[employee-center-landing-page|Employee Center]] Browser Extension** policy, fill in the fields.
+2.  In the **ServiceNow Employee Center Browser Extension** policy, fill in the fields.
 
 3.  Enter the following field values to set up Browser Extension for your web browser.
 
@@ -115,7 +115,7 @@ Empty state action label
 
 </td><td>
 
-Open [[employee-slate-landing-page|Employee Slate]]
+Open Employee Slate
 
 </td></tr><tr><td>
 
@@ -176,9 +176,4 @@ true**Note:** Enabled this context search option to open it in the Employee Cent
 </td></tr></tbody>
 </table>    If you try to access the Browser Extension from a website where it's not configured, a link takes you back to the Employee Center portal.
 
-## Related
 
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-slate-landing-page|Employee Slate]]

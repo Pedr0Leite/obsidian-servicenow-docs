@@ -18,7 +18,7 @@ Send a brief message as a text or voice message to the participants of a confere
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, or major\_incident\_manager
+Role required: notify\_view, or major\_incident\_manager
 
 ## About this task
 
@@ -39,6 +39,3 @@ You must configure a telephony provider like Twilio so that you can use one of t
 
 **Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

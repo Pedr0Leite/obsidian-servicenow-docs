@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # Add a custom field mapping in the staging table for Service Graph Connector for Microsoft Excel
 
-With the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]], add a custom field to the staging table and map the custom field to the configuration item \(CI\) field.
+With the Service Graph Connector for Microsoft Excel, add a custom field to the staging table and map the custom field to the configuration item \(CI\) field.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Roles required:
 
 4.  If needed, manually create records by selecting **New**.
 
-5.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Manager** &gt; **Import OT Devices - Script Includes** and select the `SGOTAssetImportExcelConstants` script include.
+5.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Manager** &gt; **Import OT Devices - Script Includes** and select the `SGOTAssetImportExcelConstants` script include.
 
 6.  In the script, update the new column name from the staging table, and the new ETL column name inside the `SGOTAssetImportExcelConstants.importSetColumnsVsStagingColumnsMap` object in the format “&lt;ETL Column Name&gt;”: “&lt;Column Name from staging table&gt;”.
 
@@ -81,7 +81,7 @@ Roles required:
 
     For example, the **Comments** field is present on the Hardware \[cmdb\_ci\_hardware\] class. After the field is mapped, the **Comments** field on Hardware child classes is updated if the value for the Comments column in the staging table for that row isn’t empty.
 
-    If you're adding a mapping for a new field that isn't present, or for a field that isn't specific to the Hardware cmdb\_ci\_hardware class and instead is a field in the [[operational-technology-overview|Operational Technology]] \(cmdb\_ci\_ot\) class, you can add the field mapping in the Operational Technology \(OT\) 1 stub.
+    If you're adding a mapping for a new field that isn't present, or for a field that isn't specific to the Hardware cmdb\_ci\_hardware class and instead is a field in the Operational Technology \(cmdb\_ci\_ot\) class, you can add the field mapping in the Operational Technology \(OT\) 1 stub.
 
     1.  Add a field mapping to the Hardware 1 class.
 
@@ -115,7 +115,7 @@ Roles required:
 
 24. Follow these steps to verify the new field mappings.
 
-    1.  Navigate to the [[home-page|home page]] of the ETL Transform Map Assistant.
+    1.  Navigate to the home page of the ETL Transform Map Assistant.
 
     2.  In the Preview Sample Integration Results and Schedule Import section of the guided setup, select **Test and Rollback Integration Results**.
 
@@ -136,9 +136,3 @@ Roles required:
 
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[home-page|Home page]]

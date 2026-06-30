@@ -16,7 +16,7 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 Applications that access VMware cloud resources need access to VMware credentials.
 
-For example, the VMware credential type enables [[r-discovery|Discovery]] to explore VMware's vCenter running on a Windows machine to discover ESX machines, virtual machines, and resource pools. The VMware Discovery and automation API \(vCenter API\) now provides the globally unique serial number for computer CIs. CIM credentials aren’t needed to enable access to each VMware host.
+For example, the VMware credential type enables Discovery to explore VMware's vCenter running on a Windows machine to discover ESX machines, virtual machines, and resource pools. The VMware Discovery and automation API \(vCenter API\) now provides the globally unique serial number for computer CIs. CIM credentials aren’t needed to enable access to each VMware host.
 
 **Note:** Windows credentials aren’t necessary for vCenter Discovery, when valid VMware credentials are used.
 
@@ -84,6 +84,3 @@ Order \(sequence\) in which Discovery tries this credential as it attempts to lo
 
 [Create a VMware Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-vmware-schedule-DAW.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -12,11 +12,11 @@ breadcrumb: [Multilingual email notifications, Email and SMS notifications, Syst
 
 # Static translation
 
-Using static translation, you can customize email [[notifications|notifications]] for recipients across multiple regions based on their preferred language.
+Using static translation, you can customize email notifications for recipients across multiple regions based on their preferred language.
 
 ## About static translation for email notifications
 
-Author localized content for the various content fields on notifications, [[c_EmailTemplates|email templates]], and email layout forms using static translation after activating the [[activate-translation-plugin|translation plugin]].
+Author localized content for the various content fields on notifications, email templates, and email layout forms using static translation after activating the [translation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-translation-plugin.md).
 
 For static translation, the translation request goes to a translator. The translator provides translations for notification content in different languages.
 
@@ -37,18 +37,18 @@ Not all of the fields on the notification forms are translatable.
 
 ## Localization Framework
 
-Use the [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md) to [[language-picker-ui|request translations]] for the following [[framework-configuration|artifact configurations]]:
+Use the [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md) to request translations for the following artifact configurations:
 
 -   Email Layout Configuration
 -   Email Notification Configuration
 -   Email Template Configuration
 
--   **[[enable-static-translation|Enable static translation]]**  
+-   **[Enable static translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-static-translation.md)**  
 Enable static translation of notifications for the global application.
--   **[[request-translation-and-send-email-notification|Request a translation for an email notification, template or layout]]**  
+-   **[Request a translation for an email notification, template or layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/request-translation-and-send-email-notification.md)**  
 Request a translation to send an email in the recipient’s preferred language.
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -57,13 +57,3 @@ Request a translation to send an email in the recipient’s preferred language.
 
 [Request a translation for an email notification, template or layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/request-translation-and-send-email-notification.md)
 
-## Related
-
-- [[activate-translation-plugin|activate translation plugin]]
-- [[enable-static-translation|Enable static translation]]
-- [[request-translation-and-send-email-notification|Request a translation for an email notification, template or layout]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]
-- [[c_EmailTemplates|Email templates]]
-- [[language-picker-ui|Request translations]]
-- [[framework-configuration|Artifact configurations]]

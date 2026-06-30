@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Create capacity allocation schedule
 
-The [[capacity|capacity]] allocation schedule helps manage and distribute your resource capacity over a set period, ensuring that a certain percentage of your resources are reserved for high-priority or same-day tasks.
+The capacity allocation schedule helps manage and distribute your resource capacity over a set period, ensuring that a certain percentage of your resources are reserved for high-priority or same-day tasks.
 
 ## Before you begin
 
@@ -72,6 +72,3 @@ By creating this allocation schedule, you ensure that enough capacity is reserve
 
 \[Omitted image "capacity-allocation-schedule.png"\] Alt text: Tabular representation of capacity allocation schedule for Day 0 to Day 10
 
-## Related
-
-- [[capacity|Capacity]]

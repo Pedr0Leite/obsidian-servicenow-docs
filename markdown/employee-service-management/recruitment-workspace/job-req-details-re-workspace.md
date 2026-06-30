@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # Track a job requisition in the Recruitment workspace
 
-Track applications on a job requisition, view job details, manage the [[hiring-tab-concept|hiring]] team, and add or remove interview phases.
+Track applications on a job requisition, view job details, manage the hiring team, and add or remove interview phases.
 
 See details of a job description and communicate with the hiring manager and the applicants.
 
@@ -25,7 +25,7 @@ The **Overview** tab is the landing page for a job requisition and has the follo
 -   The Hiring team section shows all the hiring team members for the job requisition. You can add or edit the hiring team members from here.
 -   The Job details section shows the summary of the job requisition.
 
-The **Details** tab provides all the detailed field values given at the time of job requisition request. Post messages in the [[activity-lxp|Activity]] section to [[collab-hiring-manager|collaborate with the hiring manager]] and the approver for the requisition.
+The **Details** tab provides all the detailed field values given at the time of job requisition request. Post messages in the Activity section to collaborate with the hiring manager and the approver for the requisition.
 
 The **Job Description** tab shows the job description and the job requirement summary for the job requisition. You can modify the job description and send it for approval by selecting **Submit for approval**.
 
@@ -42,8 +42,3 @@ The **Prospects** tab shows all the applicants for the job requisition. You can 
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[activity-lxp|Activity]]
-- [[collab-hiring-manager|Collaborate with the hiring manager]]

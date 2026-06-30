@@ -16,10 +16,10 @@ breadcrumb: [Spend and Savings Management, Explore, Sourcing and Procurement Ope
 
 The Category management tab provides an overview of spend, savings, and pipeline projects, highlights savings opportunities, and enables creating pipeline projects directly from filtered lists.
 
-To view the Category management tab in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], you must have the sn\_spend\_mgmt.sourcing\_category\_manager role and have the following applications installed:
+To view the Category management tab in the Source-to-Pay Workspace, you must have the sn\_spend\_mgmt.sourcing\_category\_manager role and have the following applications installed:
 
--   [[spo-spend-mgmt|Spend and Savings Management]] \(sn\_spend\_mgmt\)
--   [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] \(sn\_spend\_pipeline\)
+-   Spend and Savings Management \(sn\_spend\_mgmt\)
+-   Sourcing Pipeline Management \(sn\_spend\_pipeline\)
 
 \[Omitted image "category-mgmt-tab.png"\] Alt text: Category management tab
 
@@ -53,7 +53,7 @@ Filter
 
 You can filter the data using the following filter types and sources:-   Date: Supports predefined ranges \(for example, Last 3 months, Last 6 months, Last month, Last year, This year, YTD\) and custom date ranges.
 -   Category: Multi-select drop-down list populated from the Spend category table.
--   [[supplier|Supplier]]: Multi-select drop-down populated from the 'Supplier' table.
+-   Supplier: Multi-select drop-down populated from the 'Supplier' table.
 
 To apply a filter, select a filter type \(for example, Supplier\), and choose one or more filter values \(such as Adobe Systems or Apple, Inc.\), and then move the selected filter value from the Available list to the Applied list.
 
@@ -71,7 +71,7 @@ Single Score with Line graph
 
 </td><td>
 
-Displays total spend from all settled [[invoices|invoices]] for the selected time period, along with a trend line showing spend progression over time.**Note:** The spend data covers only the last 750 days. You can run the `Populate line payments on invoice line` fix script and modify the period to retrieve spend data for their preferred date range.
+Displays total spend from all settled invoices for the selected time period, along with a trend line showing spend progression over time.**Note:** The spend data covers only the last 750 days. You can run the `Populate line payments on invoice line` fix script and modify the period to retrieve spend data for their preferred date range.
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Displays the pipeline projects by the following type for the selected time perio
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[contracts|Contracts]]
+Contracts
 
 </td></tr><tr><td>
 
@@ -151,13 +151,13 @@ List
 
 </td><td>
 
-All contracts for the selected category.When you create a pipeline project from the Contracts list by selecting **Pipeline project** &gt; **Create new** or **Add to existing**, the **Project type** field in the [[create-pipeline-project-form|Create New Pipeline Project form]] is automatically populated with Contract Optimization. You can view the contract details in the Associated Records section.
+All contracts for the selected category.When you create a pipeline project from the Contracts list by selecting **Pipeline project** &gt; **Create new** or **Add to existing**, the **Project type** field in the Create New Pipeline Project form is automatically populated with Contract Optimization. You can view the contract details in the Associated Records section.
 
 **Note:** A contract record can be associated with only one active pipeline project record at a time.
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[purchase-order-lines|Purchase order lines]]
+Purchase order lines
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ List
 
 </td><td>
 
-POLs in the selected category.When you create a pipeline project from the Purchase Orders list by selecting **Pipeline project** &gt; **Create new** or **Add to existing**, the **Project type** field in the Create New Pipeline Project form is automatically populated with Spend Optimization. You can view the [[purchase-order-table|purchase order]] details in the Associated Records section.
+POLs in the selected category.When you create a pipeline project from the Purchase Orders list by selecting **Pipeline project** &gt; **Create new** or **Add to existing**, the **Project type** field in the Create New Pipeline Project form is automatically populated with Spend Optimization. You can view the purchase order details in the Associated Records section.
 
 **Note:** A purchase order line record can be associated with only one active pipeline project record at a time.
 
@@ -223,7 +223,7 @@ Single score
 
 </td><td>
 
-Suppliers with performance score less than 95%.**Note:** The widgets in the Suppliers section vary based on whether Third-party Risk Management or [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] is installed.
+Suppliers with performance score less than 95%.**Note:** The widgets in the Suppliers section vary based on whether Third-party Risk Management or Supplier Lifecycle Operations is installed.
 
 </td></tr><tr><td>
 
@@ -266,15 +266,3 @@ List of active suppliers.When you create a pipeline project from the Suppliers l
 </td></tr></tbody>
 </table>**Parent Topic:**[Spend and Savings Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[contracts|Contracts]]
-- [[create-pipeline-project-form|Create New Pipeline Project form]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

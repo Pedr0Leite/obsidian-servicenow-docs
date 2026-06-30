@@ -87,7 +87,7 @@ Role required: personalize\_choices
 
 3.  To reuse the choice list values for another field \(Field B\) in a different table, right-click the label for Field B and select **Configure Dictionary**.
 
-4.  In the **[[r_ChoicesTable|Choice table]]** field, select the table where Field A resides.
+4.  In the **Choice table** field, select the table where Field A resides.
 
 5.  In the **Choice field** field, select Field A.
 
@@ -260,7 +260,7 @@ You may want to use this method when you are developing a new application and th
 
 ## Create a choice list for another field type
 
-You can create a choice list for a field with another type, such as an integer, string, or [[reference-email-admin|reference]] field.
+You can create a choice list for a field with another type, such as an integer, string, or reference field.
 
 ### Before you begin
 
@@ -284,7 +284,7 @@ You can use this configuration to standardize data entry and limit available opt
 
 5.  Click **Create Choice List**.
 
-    -   The **Choices** related list appears on the [[r_DictionaryEntryForm|dictionary entry form]].
+    -   The **Choices** related list appears on the dictionary entry form.
     -   If records on the table contains data for the field, a choice list value for each unique field value is created. For example, if three records exist on the table and each record has a unique value in the field, then three choices are created.
     -   If no data exists in the field, a choice list value of **-- New choice --** is created.
 
@@ -304,7 +304,7 @@ In the following example, the **Network** category has been deactivated, so it a
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Activate the check box for the **Display missing choice list entries** property.
 
@@ -333,9 +333,4 @@ Role required: admin
 
 5.  Update the Dictionary Entry form and reload the page containing the choice list.
 
-## Related
 
-- [[r_ChoicesTable|Choice table]]
-- [[reference-email-admin|Reference]]
-- [[r_DictionaryEntryForm|Dictionary entry form]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

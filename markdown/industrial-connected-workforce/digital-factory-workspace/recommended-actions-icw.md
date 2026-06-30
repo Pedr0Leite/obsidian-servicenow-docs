@@ -28,7 +28,7 @@ The following use cases are currently supported and configured:
 
 -   Attach standards from recommended actions on root cause analyses:
 
-    During a [[industrial-root-cause-analysis|root cause analysis]], you can attach applicable standards using the recommended actions. The root cause analysis must be active and related standards must be published.
+    During a root cause analysis, you can attach applicable standards using the recommended actions. The root cause analysis must be active and related standards must be published.
 
 -   View articles attached to an Industrial Guided Task \(IGT\) standard:
 
@@ -37,6 +37,3 @@ The following use cases are currently supported and configured:
 
 **Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

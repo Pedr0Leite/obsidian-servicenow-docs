@@ -12,9 +12,5 @@ breadcrumb: [Care Team Operations for Facilities, Healthcare Operations, Healthc
 
 # Creating service requests in Care Team Operations for Facilities
 
-Use [[cto-facilities-landing|Care Team Operations for Facilities]] to report Facilities issues [[care-team-portal-using|using Care Team Portal]].
+Use Care Team Operations for Facilities to report Facilities issues using Care Team Portal.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[care-team-portal-using|Using Care Team Portal]]

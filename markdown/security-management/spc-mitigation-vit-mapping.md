@@ -12,9 +12,9 @@ breadcrumb: [Use mitigation controls, Security Posture Control, Security Operati
 
 # Mitigation controls to vulnerable item mapping
 
-Mitigation controls data is mapped to vulnerable items. You can view a list of mitigation controls that are used to mitigate the [[vulnerabilities|vulnerabilities]] and underlying Common Vulnerabilities and Exposures \(CVEs\) associated with the vulnerable items.
+Mitigation controls data is mapped to vulnerable items. You can view a list of mitigation controls that are used to mitigate the vulnerabilities and underlying Common Vulnerabilities and Exposures \(CVEs\) associated with the vulnerable items.
 
-After identifying a specific mitigation control on an asset, [[spc-landing|Security Posture Control]] automatically identifies any vulnerable items that are mitigated by that control. For example, any vulnerable items with CVEs that are part of signatures in Web Application Firewall \(WAF\) policies are marked as mitigated vulnerable items. This identification might be useful for vulnerability management teams to help them automatically reduce risk scores for vulnerable items that are mitigated.
+After identifying a specific mitigation control on an asset, Security Posture Control automatically identifies any vulnerable items that are mitigated by that control. For example, any vulnerable items with CVEs that are part of signatures in Web Application Firewall \(WAF\) policies are marked as mitigated vulnerable items. This identification might be useful for vulnerability management teams to help them automatically reduce risk scores for vulnerable items that are mitigated.
 
 ## Vulnerable item mitigation controls table
 
@@ -42,7 +42,3 @@ Values:
 
 See [Define fields and weights for the risk rule for Vulnerability Response Risk Calculators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln-calc-define-risk-rule-fields.md) for more information.
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[spc-landing|Security Posture Control]]

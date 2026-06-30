@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Procurement Operations integration Employee, Integrate, So
 
 # Confirm meeting a milestone for your service from Employee Center
 
-Provide confirmation from Employee Center on whether the [[supplier|supplier]] has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can [[cancel-request|raise a cancel request]] or propose a new completion date.
+Provide confirmation from Employee Center on whether the supplier has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can raise a cancel request or propose a new completion date.
 
 ## Before you begin
 
@@ -70,7 +70,7 @@ Request to cancel the milestone altogether.On the **Request to cancel milestone*
 
 Push the milestone to a later date.On the **Propose a new expected completion date** window, pick a new completion date, provide your reason for changing the date, and select **Submit**.
 
-**Note:** [[milestones|Milestones]] can be received in percentage and amount, but can only be deferred if not complete until they’re processed for the full milestone. This is because milestones are parts of the whole, and partials aren’t supported.
+**Note:** Milestones can be received in percentage and amount, but can only be deferred if not complete until they’re processed for the full milestone. This is because milestones are parts of the whole, and partials aren’t supported.
 
 </td></tr></tbody>
 </table>
@@ -80,8 +80,3 @@ You can view the completed task in the **Completed** tab after the fulfiller has
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[cancel-request|Raise a cancel request]]
-- [[milestones|Milestones]]

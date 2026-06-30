@@ -56,7 +56,7 @@ In **Map Settings**, when you select the `Default` option for **Predefined Filte
 
 [Create or modify Map Related Items]()
 
-[Create or modify [[c_BusinesssServiceManagementMaps|Dependency Views]] menu actions]()
+[Create or modify Dependency Views menu actions]()
 
 [Condition and script parameters for menu actions]()
 
@@ -64,6 +64,3 @@ In **Map Settings**, when you select the `Default` option for **Predefined Filte
 
 [Filter the view of a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_FilterViewNGBSMMap.md)
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

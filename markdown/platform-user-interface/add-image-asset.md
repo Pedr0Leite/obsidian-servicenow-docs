@@ -30,11 +30,11 @@ Upload images associated with your theme including banner images and logos. Add 
 
 2.  In the UX Theme Assets list, select **New**.
 
-3.  Select the [[t_ManagingAttachments|Manage Attachments]] icon \[Omitted image "icon-manage-attachment.png"\] Alt text: to add an image or font.
+3.  Select the Manage Attachments icon \[Omitted image "icon-manage-attachment.png"\] Alt text: to add an image or font.
 
     Your font asset may have separate files for different characteristics such as bold or italic. Upload each of these files. Verify that your image is in SVG format.
 
-4.  When the asset is uploaded, close the [[attachments-configurable-workspace|Attachments]] window.
+4.  When the asset is uploaded, close the Attachments window.
 
 5.  Type the file name of the asset in the **Name** field and select **Submit**.\[Omitted image "next-exp-add-image-asset.png"\] Alt text: UX Theme Asset form with uploaded image asset
 
@@ -47,10 +47,5 @@ Upload images associated with your theme including banner images and logos. Add 
 
 The font or image is available to use in your theme.
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
-- [[t_ManagingAttachments|Manage attachments]]
-- [[attachments-configurable-workspace|Attachments]]

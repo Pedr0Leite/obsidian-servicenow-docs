@@ -12,7 +12,7 @@ breadcrumb: [Install and enable, Offline mode setup options, Offline mode, Befor
 
 # Deactivate offline mode on your instance
 
-Deactivate the [[mobile-offline-mode|offline mode]] by creating the property glide.sg.offline.enabled and setting the property to false.
+Deactivate the offline mode by creating the property glide.sg.offline.enabled and setting the property to false.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: mobile\_admin, admin
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[enable-offline|Install and enable offline capabilities]]
+**Parent Topic:**[Install and enable offline capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-offline.md)
 
-## Related
-
-- [[enable-offline|Install and enable offline capabilities]]
-- [[mobile-offline-mode|Offline mode]]

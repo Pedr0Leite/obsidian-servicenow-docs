@@ -14,7 +14,7 @@ breadcrumb: [Using External Legal Service Center, External Legal Service Center,
 
 # Create request from External Legal Service Center
 
-Create a request for a legal service from the [[lsd-ext-portal-landing-page|External Legal Service Center]]. You can submit a request or save it in draft to submit later.
+Create a request for a legal service from the External Legal Service Center. You can submit a request or save it in draft to submit later.
 
 ## Before you begin
 
@@ -75,7 +75,3 @@ Select **Submit**.**Note:** On submitting a request you receive an email notific
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

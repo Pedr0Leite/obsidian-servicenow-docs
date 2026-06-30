@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITSM reference, Service Operations
 
 # Components installed with Service Operations Workspace ITSM Applications
 
-Several types of components are installed with the Service Operations Workspace ITSM [[dex-workspace-application-tab|Applications]] application \(sn-sow-itsm-cont\) installation, including user role, plugins, and ServiceNow Store applications.
+Several types of components are installed with the Service Operations Workspace ITSM Applications application \(sn-sow-itsm-cont\) installation, including user role, plugins, and ServiceNow Store applications.
 
 ## Roles installed
 
@@ -106,7 +106,7 @@ Core capabilities and workspace configurations for Service Operations Workspace.
 
 </td></tr><tr><td>
 
-[[c_ITILChangeManagement|Change Management]] for Service Operations Workspace \[sn\_sow\_chg\]
+Change Management for Service Operations Workspace \[sn\_sow\_chg\]
 
 </td><td>
 
@@ -114,7 +114,7 @@ Change creation process in Service Operations Workspace.
 
 </td></tr><tr><td>
 
-[[collab-services-tcm|Collaboration services]] for Service Operations Workspace \[sn\_sow\_collab\]
+Collaboration services for Service Operations Workspace \[sn\_sow\_collab\]
 
 </td><td>
 
@@ -122,7 +122,7 @@ Collaboration between peers and requester using Microsoft Teams in Service Opera
 
 </td></tr><tr><td>
 
-[[c_IncidentManagement|Incident Management]] for Service Operations Workspace \[sn\_sow\_inc\]
+Incident Management for Service Operations Workspace \[sn\_sow\_inc\]
 
 </td><td>
 
@@ -158,7 +158,7 @@ Service Operations Workspace ITSM Common\[sn\_sow\_itsm\_common\]
 
 </td><td>
 
-Common configurations shared across [[r_ITServiceManagement|IT Service Management]] applications in Service Operations Workspace.
+Common configurations shared across IT Service Management applications in Service Operations Workspace.
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ On-call support for incidents in Service Operations Workspace.
 
 </td></tr><tr><td>
 
-[[c_ProblemManagement|Problem Management]] for Service Operations Workspace \[sn\_sow\_problem\]
+Problem Management for Service Operations Workspace \[sn\_sow\_problem\]
 
 </td><td>
 
@@ -178,7 +178,7 @@ Problem creation process to identify the cause of a service interruption reporte
 
 </td></tr><tr><td>
 
-[[c_RequestManagement|Request Management]] for Service Operations Workspace \[sn\_sow\_req\]
+Request Management for Service Operations Workspace \[sn\_sow\_req\]
 
 </td><td>
 
@@ -186,7 +186,7 @@ Request creation process and support for the entire life cycle of requests in Se
 
 </td></tr><tr><td>
 
-[[walkup-experience-landing-page|Walk-up Experience]] for Service Operations Workspace \[sn\_sow\_walkup\]
+Walk-up Experience for Service Operations Workspace \[sn\_sow\_walkup\]
 
 </td><td>
 
@@ -202,11 +202,11 @@ Framework to generate contextual, actionable, and dynamic recommendations in a c
 
 </td></tr><tr><td>
 
-[[service-level-mgmt-landing-page|Service Level Management]] Experience for Workspace\[sn\_sla\]
+Service Level Management Experience for Workspace\[sn\_sla\]
 
 </td><td>
 
-Gathers service requirements and monitors and reports with [[reference-for-itsm-mobile-agent|reference]] to agreed service levels \(SLAs\) in a configurable workspace.
+Gathers service requirements and monitors and reports with reference to agreed service levels \(SLAs\) in a configurable workspace.
 
 </td></tr><tr><td>
 
@@ -234,20 +234,7 @@ Provides quick access to ITSM related configurations in Service Operations Works
 
 [Additional roles for SOW admin]()
 
-[Version compatibility between [[sow-landing-page|Service Operations Workspace for ITSM]] and Service Operations Workspace ITOM]()
+[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM]()
 
 [Service Operations Workspace for ITSM data model]()
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[collab-services-tcm|Collaboration services]]
-- [[c_IncidentManagement|Incident Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_RequestManagement|Request Management]]
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

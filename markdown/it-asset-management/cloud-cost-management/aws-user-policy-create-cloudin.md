@@ -26,7 +26,7 @@ Roles required:
 
 On the AWS Management Console: AWS Management Console administrator.
 
-[[cloud-insights-landing-page|Cloud Cost Management]]: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
+Cloud Cost Management: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
 
 ## Procedure
 
@@ -157,7 +157,7 @@ On the AWS Management Console: AWS Management Console administrator.
             
             ```
 
-        -   **Use this policy to get AWS Auto-scale instances \(Auto-scale instances aren’t included in [[bh-cloudin|Business Hours]] recommendations\)**
+        -   **Use this policy to get AWS Auto-scale instances \(Auto-scale instances aren’t included in Business Hours recommendations\)**
 
             ```
             {
@@ -196,7 +196,4 @@ On the AWS Management Console: AWS Management Console administrator.
             }
             ```
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]

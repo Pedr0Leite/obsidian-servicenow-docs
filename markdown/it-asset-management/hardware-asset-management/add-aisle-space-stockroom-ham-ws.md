@@ -26,9 +26,9 @@ A space is associated with an aisle in the stockroom. You can add a space only a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select a stockroom.
 
@@ -80,7 +80,3 @@ A space is associated with an aisle in the stockroom. You can add a space only a
 
 [View the open hardware asset pick tasks for your stockroom]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Matter Management, Legal Service Delivery, Legal a
 
 # Install Legal Matter Management
 
-You can install the [[legal-matter-management-landing-page|Legal Matter Management]] application \(sn\_lg\_matter\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Matter Management application \(sn\_lg\_matter\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ See [Components installed with Legal Matter Management](https://raw.githubuserco
 
 You can also install the following applications:
 
--   **[[legal-counsel-center-landing|Legal Counsel Center]] application \(sn\_lg\_cf\_workspace\)**
+-   **Legal Counsel Center application \(sn\_lg\_cf\_workspace\)**
 
     The ServiceNow® Legal Counsel Center application enables lawyers to solve issues faster with a workspace built to facilitate resolutions. From a single view, get the full context of legal issues to resolve them quickly.
 
@@ -47,7 +47,7 @@ You can also install the following applications:
 
     The ServiceNow® Legal Counsel Center Components application enhances the workspace experience for the Legal Counsel Center by decoupling the components in the Legal Counsel Center to offer better performance.
 
--   **[[legal-mobile-overview|Legal Mobile]] \(sn\_lg\_mobile\)**
+-   **Legal Mobile \(sn\_lg\_mobile\)**
 
     The ServiceNow® Legal Mobile \(sn\_lg\_mobile\) application enables you to find legal information, submit and track legal requests, and work on these requests on mobile devices. For more information, see [Legal Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/legal-mobile-overview.md).
 
@@ -75,15 +75,9 @@ You can also install the following applications:
 
 ## What to do next
 
-Use the [[legal-management-overview|Legal Service Delivery]] Guided Setup to configure the application on your instance.
+Use the Legal Service Delivery Guided Setup to configure the application on your instance.
 
 To access Legal Service Delivery Guided Setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 **Parent Topic:**[Setting up Legal Matter Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/setting-up-legal-matter-managemment.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-mobile-overview|Legal Mobile]]
-- [[legal-management-overview|Legal Service Delivery]]

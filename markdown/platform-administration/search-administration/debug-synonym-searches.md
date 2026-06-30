@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug Text Search**.
+1.  Navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug Text Search**.
 
 2.  Perform a search using a term in a synonym dictionary.
 
@@ -42,9 +42,5 @@ Role required: admin
 
 [Select synonym dictionaries for a table]()
 
-[Disable [[synonyms-ais|synonyms]] for a table]()
+[Disable synonyms for a table]()
 
-## Related
-
-- [[sys-diag|System Diagnostics]]
-- [[synonyms-ais|Synonyms]]

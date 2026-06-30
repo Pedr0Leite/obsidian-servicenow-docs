@@ -16,7 +16,7 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Attributes in the Configuration Item \[cmdb\_ci\] class, which extends the Base Configuration Item \[cmdb\] class.
 
-**Warning:** Do not modify any of these attributes in the dictionary. For example, do not modify the type of the **location** attribute from [[reference|reference]] to list. Such modifications may prevent features that use the CMDB, from functioning properly.
+**Warning:** Do not modify any of these attributes in the dictionary. For example, do not modify the type of the **location** attribute from reference to list. Such modifications may prevent features that use the CMDB, from functioning properly.
 
 For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md).
 
@@ -59,7 +59,7 @@ For descriptions of common CMDB tables in a base system, see [CMDB tables descri
 |GL account|General Ledger account name/number|
 |Installed|Date and time instance was most recently installed|
 |Invoice number|Invoice number used in acquisition process|
-|IP Address|Primary [[ip-address|IP address]] used by the instance|
+|IP Address|Primary IP address used by the instance|
 |Justification|Description of the justification for the instance|
 |Lease contract|Number of current leasing contracts|
 |MAC Address|MAC address of the instance|
@@ -104,7 +104,3 @@ For descriptions of common CMDB tables in a base system, see [CMDB tables descri
 |Supported by|User|
 |Vendor|Company table|
 
-## Related
-
-- [[reference|Reference]]
-- [[ip-address|IP Address]]

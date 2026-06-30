@@ -26,7 +26,7 @@ You must create a choice record for a new translation in the Choice \[sys\_choic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Choices**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Choices**.
 
 2.  Select **New**.
 
@@ -41,7 +41,7 @@ You must create a choice record for a new translation in the Choice \[sys\_choic
     |Value|Enter an identifier that complies with [BCP 47](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). The identifier can contain a language code or language code followed by a country or region code. For example, tr for Turkish or es-MX for Spanish Mexico.|
     |Sequence|Enter a number to determine what order the option appears in the choice list if you do not want to list choices alphabetically. For example, 5.|
 
-    The following record allows a user who is using the Dutch [[ia-localization-il|localization]] of their instance to change languages to Mongolian:
+    The following record allows a user who is using the Dutch localization of their instance to change languages to Mongolian:
 
     -   **Table:** User \[sys\_user\]
     -   **Element:** preferred\_language
@@ -56,7 +56,3 @@ You must create a choice record for a new translation in the Choice \[sys\_choic
 
 [Choice table]()
 
-## Related
-
-- [[system-localization-landing|System Localization]]
-- [[ia-localization-il|Localization]]

@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The CCG Content Pack provides the base system contents such as policies, resource collectors, configuration collectors, and [[ccg-remediation|remediation]] actions for the [[cloud-configuration-governance|Cloud Configuration Governance]] app.
+The CCG Content Pack provides the base system contents such as policies, resource collectors, configuration collectors, and remediation actions for the Cloud Configuration Governance app.
 
 ## Procedure
 
@@ -44,7 +44,3 @@ The CCG Content Pack provides the base system contents such as policies, resourc
 
 **Parent Topic:**[Exploring Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/exploring-cloud-configuration-governance.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

@@ -34,7 +34,7 @@ The audit entry field is available on the following objects.
 
 The state of the audit entry check box determines whether a record is treated as third-line or second-line.
 
--   When audit entry is selected, the record is a third-line record. Only users with the sn\_audit\_ws.third\_line\_manager role can view or modify the record from the [[audit-management-overview-ws|Audit Workspace]].
+-   When audit entry is selected, the record is a third-line record. Only users with the sn\_audit\_ws.third\_line\_manager role can view or modify the record from the Audit Workspace.
 -   When audit entry is cleared, the record is a second-line record. The record behaves the same as records created before this feature was introduced, and is visible to second-line users with the corresponding compliance or risk role.
 
 After a record is saved, the audit entry field is locked and can't be changed.
@@ -54,6 +54,3 @@ Use the **Duplicate as audit entry** action to copy a second-line control, contr
 
 **Parent Topic:**[Exploring Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-management.md)
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]

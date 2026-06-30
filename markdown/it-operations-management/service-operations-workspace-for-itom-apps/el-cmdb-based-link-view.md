@@ -16,7 +16,7 @@ breadcrumb: [Viewing links between alerts in alert groups in Express List, Expre
 
 View the connections between alerts in alert groups in Express List that were created based on the proximity of Configuration Items \(CIs\) in the Configuration Management Database \(CMDB\). Link View shows how the attributes of the alerts in the group are linked with each other.
 
-When alerts on CIs that are located near each other in the CMDB topology occur within a certain time-frame, [[c_EM|Event Management]] generates a CMDB-based alert group. Event Management correlates CIs in a service map when they are separated by a maximum of three other CIs. The colored tags in Link View offer a visual representation of the CIs and other environment items in relation to the alerts in the group.
+When alerts on CIs that are located near each other in the CMDB topology occur within a certain time-frame, Event Management generates a CMDB-based alert group. Event Management correlates CIs in a service map when they are separated by a maximum of three other CIs. The colored tags in Link View offer a visual representation of the CIs and other environment items in relation to the alerts in the group.
 
 \[Omitted image "el-link-view-topology.png"\] Alt text: Sample CMDB-based alert group in Link View.
 
@@ -31,6 +31,3 @@ In this sample Link View of a CMDB-based alert group, the dashed line with the n
 
 [View links between alerts in a group in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-relationships-between-alerts-in-groups.md)
 
-## Related
-
-- [[c_EM|Event Management]]

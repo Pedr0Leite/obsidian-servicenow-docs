@@ -29,7 +29,7 @@ Edit rights granted by sharing a dashboard do not apply to the underlying data v
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**
 
 2.  Select the dashboard you want to share.
 
@@ -79,7 +79,7 @@ The roles, groups, and users you have shared the dashboard with appear when you 
 
 \[Omitted image "db-share-dialog.png"\] Alt text: Dashboard sharing dialog showing who the dashboard has been shared with and whether they can edit or only view it.
 
-**Tip:** The users, groups, and roles with which a dashboard is shared are also visible in the dashboard details. For more information, see [[config-db-in-ac|Configure Platform Analytics dashboard details]].
+**Tip:** The users, groups, and roles with which a dashboard is shared are also visible in the dashboard details. For more information, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).
 
 ## What to do next
 
@@ -87,10 +87,10 @@ You can change the rights of whom you have shared the dashboard with in the Shar
 
 \[Omitted image "db-share-rights-selector.png"\] Alt text: Rights selector for a user, group, or role that a dashboard was shared with.
 
--   **[[share-db-ref-qualifiers|Dashboard sharing reference qualifiers]]**  
+-   **[Dashboard sharing reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-db-ref-qualifiers.md)**  
 Use reference qualifiers to limit the users, groups, and roles in the recipients field of shared dashboards.
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -111,9 +111,3 @@ Use reference qualifiers to limit the users, groups, and roles in the recipients
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[share-db-ref-qualifiers|Dashboard sharing reference qualifiers]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with Coupa, Integration with t
 
 # Activate the schedule flows
 
-Activate the schedule flow that interacts with Coupa to pull information into your ServiceNow instance. You can pull information on primary data, [[supplier|supplier]] management, sourcing, invoice, and so on.
+Activate the schedule flow that interacts with Coupa to pull information into your ServiceNow instance. You can pull information on primary data, supplier management, sourcing, invoice, and so on.
 
 ## Before you begin
 
@@ -43,21 +43,21 @@ Role required: sn\_coupa\_spoke.Coupa Admin
     |Look up advance shipment notice after updated date in Coupa|Retrieves details of the advance shipment notice after updated date in Coupa.|
     |Create, update, and deactivate supplier in Coupa|Manage suppliers by creating, updating, and deactivating supplier in Coupa.|
     |Look up suppliers from Coupa|Retrieves details of the suppliers in Coupa.|
-    |Create, update, and cancel [[purchase-order-table|purchase order]] in Coupa|Manage purchase orders by creating, updating, and canceling purchase order in Coupa.|
+    |Create, update, and cancel purchase order in Coupa|Manage purchase orders by creating, updating, and canceling purchase order in Coupa.|
     |Look up purchase orders from Coupa|Retrieves details of the purchase orders in Coupa.|
     |Create and void goods receipt in Coupa|Manage goods receipt by creating and voiding goods receipt in Coupa.|
-    |Look up [[receipts|receipts]] from Coupa|Retrieves details of the receipts in Coupa.|
+    |Look up receipts from Coupa|Retrieves details of the receipts in Coupa.|
     |Look up product catalogs from Coupa|Retrieves details of the product catalogs in Coupa.|
-    |Create, update, and cancel invoice in Coupa|Manage [[invoices|invoices]] by creating, updating, and canceling invoice in Coupa.|
+    |Create, update, and cancel invoice in Coupa|Manage invoices by creating, updating, and canceling invoice in Coupa.|
     |Look up invoices details from Coupa|Retrieves details of the invoices in Coupa.|
     |Look up Invoice payment details|Retrieves details of the Invoice payment in Coupa.|
-    |Create sourcing event|Manage sourcing event by creating [[negotiation-events|sourcing events]] in Coupa.|
+    |Create sourcing event|Manage sourcing event by creating sourcing events in Coupa.|
     |Look up sourcing events from Coupa|Retrieves details of the sourcing events in Coupa.|
     |Award purchase|Retrieves details of the Award purchase in Coupa.|
 
     **Note:**
 
-    If you want to change the configurations that are shipped along with [[source-to-pay-coupa-integration|Source-to-Pay Integration with Coupa]], you can edit the subflows.
+    If you want to change the configurations that are shipped along with Source-to-Pay Integration with Coupa, you can edit the subflows.
 
     Once data is pulled into staging tables, the transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/s2p-transform-maps-flows.md).
 
@@ -69,18 +69,9 @@ Role required: sn\_coupa\_spoke.Coupa Admin
 
 [ERP Source Configuration for Coupa]()
 
-[Define an [[erp-source-configuration|ERP source configuration]] for Coupa]()
+[Define an ERP source configuration for Coupa]()
 
 [Configure integration services for Coupa]()
 
 [Looking up primary data in Coupa]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[negotiation-events|Sourcing events]]
-- [[source-to-pay-coupa-integration|Source-to-Pay integration with Coupa]]
-- [[erp-source-configuration|ERP source configuration]]

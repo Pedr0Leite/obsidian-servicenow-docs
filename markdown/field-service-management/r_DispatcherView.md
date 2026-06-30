@@ -16,7 +16,7 @@ Unique map pins and icons in the dispatch map that mark the location of tasks an
 
 |Icon|Description|
 |----|-----------|
-|\[Omitted image "agent-location.png"\] Alt text: [[c_AgentLocation|Agent location]] marker.|An agent's location.|
+|\[Omitted image "agent-location.png"\] Alt text: Agent location marker.|An agent's location.|
 |\[Omitted image "agent-static-state.png"\] Alt text: Agent static state.|An agent's last known location when their live location can't be determined. For example, if the agent has lost reception.|
 |\[Omitted image "agent-at-home.png"\] Alt text: Agent home location.|The agent is at their home location.|
 |\[Omitted image "multiple-agents.png"\] Alt text: Multiple agents marker.|Multiple agents are at this location.|
@@ -45,9 +45,5 @@ Unique map pins and icons in the dispatch map that mark the location of tasks an
 |\[Omitted image "completed-route.png"\] Alt text: Completed route.|The lighter-colored line on the dispatch map shows the route that a Field Service agent has completed.|
 |\[Omitted image "pending-route.png"\] Alt text: Pending route.|The darker-colored line on the dispatch map shows the route that a Field Service agent is planning to complete.|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[c_AgentLocation|Agent location]]

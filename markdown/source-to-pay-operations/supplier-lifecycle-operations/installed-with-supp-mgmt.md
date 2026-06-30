@@ -14,18 +14,18 @@ breadcrumb: [Install Supplier Case Management, Configure, Supplier Lifecycle Ope
 
 # Components installed with Supplier Case Management
 
-Several types of components are installed with activation of [[supplier-case-management|Supplier Case Management]], including tables and user roles.
+Several types of components are installed with activation of Supplier Case Management, including tables and user roles.
 
-The user roles and tables, even though installed along with Supplier Case Management, reside in the [[supplier-common|Supplier Common Architecture]] application. For more information, see [Supplier Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-common.md).
+The user roles and tables, even though installed along with Supplier Case Management, reside in the Supplier Common Architecture application. For more information, see [Supplier Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-common.md).
 
 **Note:** The following roles are installed with Finance Common Architecture \(com.sn\_fin\), which is installed as a dependent plugin:
 
--   sn\_fin.[[supplier|supplier]]\_payment\_info\_read: Provides read access to supplier details and supplier payment information tables
+-   sn\_fin.supplier\_payment\_info\_read: Provides read access to supplier details and supplier payment information tables
 -   sn\_fin.supplier\_payment\_info\_write: Provides write access to supplier details and supplier payment information tables
 
 ## Roles installed
 
-**Note:** Users with the Supplier Manager \[sn\_slm.manager\], Supplier Fulfiller \[sn\_slm.fulfiller\], and Supplier Owner \[sn\_slm.owner\] roles cannot access the [[supplier-central|Supplier Collaboration Portal]].
+**Note:** Users with the Supplier Manager \[sn\_slm.manager\], Supplier Fulfiller \[sn\_slm.fulfiller\], and Supplier Owner \[sn\_slm.owner\] roles cannot access the Supplier Collaboration Portal.
 
 <table id="table_u1t_gb1_wdb"><thead><tr><th>
 
@@ -140,7 +140,7 @@ sn\_slm.fulfiller
 
 </td></tr><tr><td>
 
-[[supplier-contact|Supplier Contact]]\[sn\_slm.contact\]
+Supplier Contact\[sn\_slm.contact\]
 
 </td><td>
 
@@ -261,7 +261,7 @@ Stores the supplier document references. Extends the Document References \[ds\_d
 
 </td></tr><tr><td>
 
-[[organization-tax-details|Organization Tax Details]]
+Organization Tax Details
 
  \[sn\_fin\_org\_tax\_detail\]
 
@@ -279,11 +279,3 @@ Stores the tax registration details of the supplier.**Note:** This table has bee
 
 [Explicit Roles in Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-explicit-roles-plugin.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[organization-tax-details|Organization tax details]]

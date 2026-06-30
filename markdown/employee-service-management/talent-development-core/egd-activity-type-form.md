@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Talent Activity Types reference
 
-Administrators create [[activity-lxp|activity]] types that are used by managers and employees.
+Administrators create activity types that are used by managers and employees.
 
 |Field|Description|
 |-----|-----------|
@@ -26,6 +26,3 @@ Administrators create [[activity-lxp|activity]] types that are used by managers 
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

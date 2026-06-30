@@ -16,7 +16,7 @@ breadcrumb: [Plan configuration components, Use, Journey designer, Employee Jour
 
 Plan configuration owners create and update plan configurations and publish changes.
 
-ServiceNow application administrators [assign plan configuration owners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-assign-pconfig-owner-approver.md). The owners of a plan configuration publish updates for review and approval. The decentralized approach to plan configuration ownership and approval supports a workflow for area experts to customize and maintain plan configurations. These plan configurations are called journey templates in the [[employee-center-landing-page|Employee Center]] .
+ServiceNow application administrators [assign plan configuration owners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-assign-pconfig-owner-approver.md). The owners of a plan configuration publish updates for review and approval. The decentralized approach to plan configuration ownership and approval supports a workflow for area experts to customize and maintain plan configurations. These plan configurations are called journey templates in the Employee Center .
 
 -   **Owner**
 
@@ -36,6 +36,3 @@ Owners add or update the stages in journey plan configurations.
 
 **Parent Topic:**[Journey designer plan configuration template process, owners, and maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-process-owners-maint.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

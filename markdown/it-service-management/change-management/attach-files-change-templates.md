@@ -14,7 +14,7 @@ breadcrumb: [Standard change catalog, Configure, Change Management, IT Service M
 
 # Attach files to a standard change template
 
-Attach files, such as documents, spreadsheet, and images to a standard change proposal. Standard [[change-templates|change templates]] copy any file attached to the template to a change request that the template creates.
+Attach files, such as documents, spreadsheet, and images to a standard change proposal. Standard change templates copy any file attached to the template to a change request that the template creates.
 
 ## Before you begin
 
@@ -44,13 +44,9 @@ Any attachment associated with a standard change proposal gets copied to the sta
 **Related topics**  
 
 
-[Configure [[c_StandardChangeCatalogPlugin|standard change catalog]] properties]()
+[Configure standard change catalog properties]()
 
 [Create a standard change task template]()
 
 [Modify or retire a standard change template]()
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

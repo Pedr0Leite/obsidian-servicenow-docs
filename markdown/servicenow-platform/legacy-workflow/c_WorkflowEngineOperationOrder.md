@@ -26,10 +26,7 @@ The diagram below shows the workflow engine order of operations and when Default
 
 The workflow engine caches commonly-used published workflows to improve performance.
 
-Caching significantly reduces the number of database queries per workflow. By default, the engine caches up to 300 unique [[c_WorkflowVersions|workflow versions]]. Caching very large workflows may reduce this number as the cache size cannot exceed the Java Virtual Machine \(JVM\) heap size.
+Caching significantly reduces the number of database queries per workflow. By default, the engine caches up to 300 unique workflow versions. Caching very large workflows may reduce this number as the cache size cannot exceed the Java Virtual Machine \(JVM\) heap size.
 
 To change the maximum number of cached workflow versions, navigate to **Workflow** &gt; **Administration** &gt; **Properties** and modify the value of the **The max number of models that will be concurrently held in the LRU cache** \(**glide.workflow.model.cache.max**\) property. You must restart the instance to apply this change.
 
-## Related
-
-- [[c_WorkflowVersions|Workflow versions]]

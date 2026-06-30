@@ -18,7 +18,7 @@ HR Case has a business rule called Auto Assign that invokes matching rule logic.
 
 When auto assignment is triggered, the matching rules logic obtains a list of agents. The number of agents returned is based on a parameter that specifies the length of the list. The default is one.
 
-**Note:** For specific [[hr-service-administration|HR services]], the auto-assignment functionality can be skipped. See Case options in [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
+**Note:** For specific HR services, the auto-assignment functionality can be skipped. See Case options in [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
 ## Matching Rules
 
@@ -61,13 +61,8 @@ If you have more than one HR department, you can remove the HR group assignment 
 
 If your organization is using HR skills to qualify HR case assignments, ensure that the assigned user or group members have the required skills. To determine whether skills are being used and assigned, check the following configuration options.
 
--   **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-template-configuration|HR Templates]]**: Look at the template that corresponds to the assignment rule to see what skills, if any, are required.
+-   **HR Administration** &gt; **HR Services** &gt; **HR Templates**: Look at the template that corresponds to the assignment rule to see what skills, if any, are required.
 -   **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Skills**: Find the HR user assigned to the case and click the **Skills: \#** button to see whether the required skill is assigned. If not, check the box to assign it, and click **Save**.
 
 Refer to [Create rules to route and assign customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md) for more information on matching and assignment rules.
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-template-configuration|HR templates]]

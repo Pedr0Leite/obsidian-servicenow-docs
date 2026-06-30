@@ -12,7 +12,7 @@ breadcrumb: [Expand domain scope, View domain relationships, Setup and administr
 
 # Grant visibility domains to an individual user
 
-While it is possible to add visibility domains for specific [[users|users]] on the User form, it's best to add them only via groups. This controls permissions and access should individuals change departments or leave the company.
+While it is possible to add visibility domains for specific users on the User form, it's best to add them only via groups. This controls permissions and access should individuals change departments or leave the company.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Role required: admin
     |Granted By|Name of the group that granted domain visibility.|
     |Parent visibility|Name of the parent domain and used for grouping records. If the parent record is deleted, then all records with the same parent are deleted as well.|
 
-## Related
 
-- [[users|Users]]

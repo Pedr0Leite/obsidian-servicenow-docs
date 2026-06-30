@@ -14,13 +14,13 @@ breadcrumb: [Threat Intelligence Security Center Library, Use, Threat Intelligen
 
 # Automated Correlation
 
-Automated correlation helps you identify the [[stix-relationships|relationships]] between [[c_Observables|observables]], [[indicator|indicators]], and objects.
+Automated correlation helps you identify the relationships between observables, indicators, and objects.
 
-With the correlation process, the application automatically establishes the correlation between [[threat-intel-landing-page|threat intelligence]] records based on the predefined rules. Based on the type of the rule that is applied, the relationship can be a confirmed relationship or potential relationship. If the relationships between the objects are confirmed, those objects are automatically displayed on the details view of that object under the **Related Records** section.
+With the correlation process, the application automatically establishes the correlation between threat intelligence records based on the predefined rules. Based on the type of the rule that is applied, the relationship can be a confirmed relationship or potential relationship. If the relationships between the objects are confirmed, those objects are automatically displayed on the details view of that object under the **Related Records** section.
 
-The following describes the relationships and [[potential-relationships|potential relationships]]:
+The following describes the relationships and potential relationships:
 
--   **Relationships**: Use the [[relationship-objects|relationships objects]] to link together two observables or an observable and SDO to explain how they relate to each other.
+-   **Relationships**: Use the relationships objects to link together two observables or an observable and SDO to explain how they relate to each other.
 -   **Potential Relationships**: Use the potential relationships to establish potentially possible relationships between two SDOs, two Observables or an observable and SDO by using the automated correlation.
 
     Correlation rules for potential relationships identify potential relationships between threat intelligence entities, indicators, and observables.
@@ -140,7 +140,7 @@ Based on network objects, the rule identifies all the observables \(IPV4, IPV6, 
 
 </td><td>
 
-Based on network objects, the rule identifies all the indicators that have communicated with the same destination \(IPV4, IPV6, mac-addr or domain-name\) and establishes a relationship between these indicators as connected to the same C2 [[threat-intelligence-infrastructure|infrastructure]].
+Based on network objects, the rule identifies all the indicators that have communicated with the same destination \(IPV4, IPV6, mac-addr or domain-name\) and establishes a relationship between these indicators as connected to the same C2 infrastructure.
 
 </td><td>
 
@@ -200,7 +200,7 @@ The rule analyzes the SSL certificate information associated with the domain obs
 
 </td><td>
 
-The rule analyzes the SSL certificate information associated with the indicators and identifies that both certificates are issued by the same certificate authority and share the same expiration date and establishes relationships between the indicators, indicating their connection to the same C2 infrastructure or threat [[campaign|campaign]].
+The rule analyzes the SSL certificate information associated with the indicators and identifies that both certificates are issued by the same certificate authority and share the same expiration date and establishes relationships between the indicators, indicating their connection to the same C2 infrastructure or threat campaign.
 
 </td><td>
 
@@ -290,13 +290,3 @@ Disabled
 
 [Confirm Potential Relationships from Related Records]()
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[potential-relationships|Potential Relationships]]
-- [[relationship-objects|Relationships Objects]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[campaign|Campaign]]

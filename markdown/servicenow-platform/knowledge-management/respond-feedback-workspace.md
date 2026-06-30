@@ -56,7 +56,7 @@ Knowledge gap
 
 </td><td>
 
-Knowledge gap feedback task was created for one or more tasks using the [[knowledge-demand-insights|Knowledge Demand Insights]] feature.
+Knowledge gap feedback task was created for one or more tasks using the Knowledge Demand Insights feature.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Unsuccessful search
 
 </td><td>
 
-Knowledge gap feedback task was created from the Unsuccessful Searches report in the [[self-service-analytics|Self-Service Analytics]] for Customer Service dashboard.
+Knowledge gap feedback task was created from the Unsuccessful Searches report in the Self-Service Analytics for Customer Service dashboard.
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ From the State list, select **Work in progress**. You can save the feedback task
 
 1.  From the State list, select **Awaiting information**.
 2.  In the **Additional comments** field, enter the information you need from the submitter of the feedback task.
- When you save the feedback task form, an [[email|email]] notification is sent to the feedback task submitter.
+ When you save the feedback task form, an email notification is sent to the feedback task submitter.
 
 </td></tr><tr><td id="d599136e256">
 
@@ -143,7 +143,7 @@ From the State list, select **Work in progress**. You can save the feedback task
 From the State list, select **Closed**.
 
 </td></tr></tbody>
-</table>6.  In the Compose section, enter comments, which all viewers can see, or [[c_WorkNotes|work notes]], which only internal users can see.
+</table>6.  In the Compose section, enter comments, which all viewers can see, or work notes, which only internal users can see.
 
 7.  Track the time spent on each state for a feedback task by clicking the **Knowledge Feedback Task Metrics** tab and then clicking a link to the state in the **Value** column.
 
@@ -159,9 +159,3 @@ The feedback task is updated.
 
 [View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-agent.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[self-service-analytics|Self-Service Analytics]]
-- [[email|Email]]
-- [[c_WorkNotes|Work notes]]

@@ -16,7 +16,7 @@ breadcrumb: [Application service analysis and maintenance using classic Service 
 
 Maps offer you a visualization of data on configuration items \(CIs\) comprising application services, and relations and connections between these CIs.
 
-A new map is created every time you manually create an application service or map an application service [[using-service-mapping|using Service Mapping]]. The system updates the map every time you add CIs to the application service or when [[c_ServiceMappingOverview|Service Mapping]] runs [[r-discovery|discovery]] for CIs belonging to this application service.
+A new map is created every time you manually create an application service or map an application service using Service Mapping. The system updates the map every time you add CIs to the application service or when Service Mapping runs discovery for CIs belonging to this application service.
 
 **Note:**
 
@@ -101,7 +101,7 @@ You can show additional information for a CI or service instance itself by displ
 
 Customize a map view to exclude irrelevant information and increase clarity, as described in [Modify view for an application service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/modify-map-view.md).
 
-To open this service instance in [[c_EM|Event Management]] and view alerts on CIs that are part of the service instance, click **Monitor Service** at the top of the window.
+To open this service instance in Event Management and view alerts on CIs that are part of the service instance, click **Monitor Service** at the top of the window.
 
 \[Omitted image "map-monitor-service-button.png"\] Alt text: Monitor Service button for opening the application service in Event Management.
 
@@ -120,9 +120,3 @@ To open this service instance in [[c_EM|Event Management]] and view alerts on CI
 
 [View an alert impact on CIs in a service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewTopology.md)
 
-## Related
-
-- [[using-service-mapping|Using Service Mapping]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]

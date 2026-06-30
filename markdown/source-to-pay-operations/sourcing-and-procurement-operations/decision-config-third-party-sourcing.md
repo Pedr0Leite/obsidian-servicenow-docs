@@ -14,18 +14,18 @@ breadcrumb: [Sourcing Procurement Operations integration third-party, Integrate,
 
 # Decision configuration for third-party sourcing
 
-The Sourcing Event Generation Rule decision table in [[psm-overview|Sourcing and Procurement Operations]] helps the sourcing managers and procurement teams to configure the business criteria on demand, which provides them with flexibility to decide on the types of requests that should be integrated with a third-party sourcing solution.
+The Sourcing Event Generation Rule decision table in Sourcing and Procurement Operations helps the sourcing managers and procurement teams to configure the business criteria on demand, which provides them with flexibility to decide on the types of requests that should be integrated with a third-party sourcing solution.
 
 If no decisions are configured, then sourcing requests aren’t sent to any external applications.
 
-When a shopper requests [[pricing|pricing]] for an item that must be sourced in ShoppingHub, the following decision inputs are automatically evaluated in ServiceNow:
+When a shopper requests pricing for an item that must be sourced in ShoppingHub, the following decision inputs are automatically evaluated in ServiceNow:
 
--   [[sourcing-request|Sourcing request]]
+-   Sourcing request
 -   Purchase line
 
 To configure a decision:
 
-1.  Navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Administration** &gt; **Decision Tables**.
+1.  Navigate to **Sourcing and Purchasing Automation** &gt; **Administration** &gt; **Decision Tables**.
 2.  Select the Sourcing Event Generation Rule decision table.
 3.  On the Decisions related list, select **New**.
 4.  In the **Label** field, enter a name for the label.
@@ -42,9 +42,3 @@ To configure a decision:
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[pricing|Pricing]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

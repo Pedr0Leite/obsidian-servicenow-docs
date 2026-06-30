@@ -24,11 +24,11 @@ Role required: it\_portfolio\_manager
 
 ## About this task
 
-You can create up to four planning scenarios with different combinations of projects and demands for execution. For example, you might [[create-a-scenario-in-portfolio-planning|create a scenario]] A and select all the projects and demands with your standard [[r_AllocatingResources|resource allocation]]. If you’re aware that a risk might affect the business outcome, you can create a scenario B with a reduced number of projects and demands to see whether that strategy might mitigate or avoid the risk. For more information about defining scenarios, see [Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md).
+You can create up to four planning scenarios with different combinations of projects and demands for execution. For example, you might create a scenario A and select all the projects and demands with your standard resource allocation. If you’re aware that a risk might affect the business outcome, you can create a scenario B with a reduced number of projects and demands to see whether that strategy might mitigate or avoid the risk. For more information about defining scenarios, see [Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md).
 
 ## Procedure
 
-1.  Navigate to the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to the Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d253790e78">
 
@@ -114,13 +114,7 @@ After you create a planning scenario, select the demands and projects to include
 -   **[Review external dependencies between projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/sp-review-ext-dependencies-between-prj.md)**  
 Review the external dependencies between projects in a portfolio to track projects that are dependant on each other more closely.
 -   **[Rank demands and projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/rank-demands-projects.md)**  
-[[rank-demands-projects|Rank demands and projects]] to prioritize demands and projects for their approval and execution within a portfolio.
+Rank demands and projects to prioritize demands and projects for their approval and execution within a portfolio.
 
 **Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)
 
-## Related
-
-- [[create-a-scenario-in-portfolio-planning|Create a scenario]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[rank-demands-projects|Rank demands and projects]]

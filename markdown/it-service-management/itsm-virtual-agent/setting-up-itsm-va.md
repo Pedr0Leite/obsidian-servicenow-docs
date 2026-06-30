@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent, IT Service Management]
 
 # Setting up ITSM Virtual Agent
 
-Set up the [[itsm-virtual-agent|ITSM Virtual Agent]] features and components that you need to provide support to your employees, IT teams, and customers.
+Set up the ITSM Virtual Agent features and components that you need to provide support to your employees, IT teams, and customers.
 
 ITSM Virtual Agent topics must be activated and published before your employees can use them. By default, the base system provides topics as inactive and unpublished. To view, duplicate, preview, or publish ITSM topics in the Virtual Agent Designer, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-designer-virtual-agent.md).
 
@@ -25,14 +25,9 @@ Administrators and users with the Virtual\_agent\_admin role can install and act
 -   **[Set up actionable notifications for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-actionable-notifications.md)**  
 Administrators and users with the virtual\_agent\_admin role can enable system notifications, trigger Workflow Studio flows for actionable notifications topics, and activate notifications in Virtual Agent.
 -   **[Set up Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-ar.md)**  
-Users with the virtual\_agent\_admin or admin role can configure Virtual Agent [[settings-mobile|settings]] to indicate discoverable topics, set business rules, and more.
+Users with the virtual\_agent\_admin or admin role can configure Virtual Agent settings to indicate discoverable topics, set business rules, and more.
 -   **[Enabling dialog intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/dialog-acts-itsm-va.md)**  
-Enable support for dialog intelligence in ITSM Virtual Agent to let the Virtual Agent dynamically react to user utterances and [[migration-utility-modification|modifications]] during your conversation.
+Enable support for dialog intelligence in ITSM Virtual Agent to let the Virtual Agent dynamically react to user utterances and modifications during your conversation.
 
 **Parent Topic:**[ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[settings-mobile|Settings]]
-- [[migration-utility-modification|Modifications]]

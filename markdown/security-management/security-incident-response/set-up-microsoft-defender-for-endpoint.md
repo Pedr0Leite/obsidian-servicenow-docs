@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required ServiceNow AI Platform and [[sir-landing-page|Security Incident Response]] \(SIR\) roles.
+Verify that you have assigned the required ServiceNow AI Platform and Security Incident Response \(SIR\) roles.
 
 </td><td>
 
@@ -46,7 +46,7 @@ Verify that the ServiceNow core applications that are required to support the in
 
 </td><td>
 
-Verify that the following [[security-operations-landing-page|Security Operations]] applications are installed and activated from the ServiceNow Store. If these applications are not already installed, you must install and activate each application one at a time in the following order to ensure a smooth installation:
+Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If these applications are not already installed, you must install and activate each application one at a time in the following order to ensure a smooth installation:
 
 1.  Security Incident Response
 2.  ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
@@ -64,15 +64,10 @@ An optional approval workflow is available for isolating host machines, restorin
 
  As a Security Administrator, you can set up approval while configuring the profiles and the default settings. An approval group must be available on the Groups list in your instance.
 
- To monitor and process requests submitted by the users with sn\_si.analyst role, each member of the approval group should navigate to My Approvals in the ServiceNow AI Platform®. Alternatively, the approvers can find the requests submitted exclusively for [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]] under the Approvals module. For more information on how to create a user group, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md).
+ To monitor and process requests submitted by the users with sn\_si.analyst role, each member of the approval group should navigate to My Approvals in the ServiceNow AI Platform®. Alternatively, the approvers can find the requests submitted exclusively for Microsoft Defender for Endpoint integration under the Approvals module. For more information on how to create a user group, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md).
 
 </td></tr></tbody>
 </table>## What to do next
 
 You have successfully set up your ServiceNow AI Platform® instance for the Microsoft Defender for Endpoint integration. The next step is to install the Microsoft Defender for Endpoint application from the ServiceNow Store for the integration.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]

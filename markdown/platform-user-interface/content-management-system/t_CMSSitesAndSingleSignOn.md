@@ -14,7 +14,7 @@ breadcrumb: [Content sites, Configure Content Management sites, Content Manageme
 
 # Configure CMS sites to use single sign-on \(SSO\)
 
-To [[configure-onboarding-modals|configure]] CMS to use SSO, make the view\_content page private.
+To configure CMS to use SSO, make the view\_content page private.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Because public pages do not require login, and CMS sites are public by default, 
 
 **Parent Topic:**[Content sites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentSite.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

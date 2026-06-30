@@ -25,7 +25,7 @@ Look up your schedule, create an event of custom event type, request time off fo
 -   **[Approve or reject a shift-swap in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/approve-reject-shift-swaps-sow.md)**  
 You can approve a shift swap requested by your peer if you are available to work for that time period. You can reject it if you are unable to work then.
 -   **[Request time off using ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/va-timeoff-agent-wfo-itsm-sow.md)**  
-Automate your request for time off using the [[itsm-virtual-agent|ITSM Virtual Agent]]. Type keywords into the chatbot to create and submit your request, which then gets automatically routed to your manager for approval. You can also use Natural Language Understanding to make your time-off request.
+Automate your request for time off using the ITSM Virtual Agent. Type keywords into the chatbot to create and submit your request, which then gets automatically routed to your manager for approval. You can also use Natural Language Understanding to make your time-off request.
 -   **[Clock-in and clock-out your work shift in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/clockin-clock-out-shift-sow-wfo-itsm.md)**  
 Clock in and clock out your work shifts using Service Operations Workspace. You can track details, such as time attendance and time worked summary to know how close you are adhering to your schedules.
 -   **[Sign up for your preferred shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sign-up-preferred-shifts-wfo-itsm.md)**  
@@ -33,6 +33,3 @@ Specify one or more shifts in a schedule plan for which you would prefer to sign
 
 **Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/wfo-itsm-service-operations-workspace.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

@@ -14,11 +14,11 @@ breadcrumb: [Creating Interactive Filters, Interactive Filters, Reporting, dashb
 
 # Create a date interactive filter
 
-A date interactive filter allows users to filter report [[widgets|widgets]] based on the value in a date field.
+A date interactive filter allows users to filter report widgets based on the value in a date field.
 
 ## Before you begin
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 When a user selects `All`, they do not see a report with all filter options applied, they see the unfiltered report. This example of date filter shows a number of date ranges you can filter on.
 
@@ -89,8 +89,3 @@ Repeat steps 8-11 as needed for each date field you want to filter on.
 
 **Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

@@ -14,12 +14,12 @@ breadcrumb: [Reference, HR Service Delivery Integration with Workday Learning, I
 
 # Workday learning todos staging form
 
-Use this form to create Workday [[exploring-learning-exp|learning]] todos.
+Use this form to create Workday learning todos.
 
 |Field|Description|
 |-----|-----------|
 |Domain|Name of the domain.|
-|Description|Brief description of the todo [[activity-lxp|activity]].|
+|Description|Brief description of the todo activity.|
 |Old assignee|Person who the todo was assigned to previously.|
 |Completed by admin|Activities completed by the admin.|
 |Integration user ID|Unique identification number of the integration user.|
@@ -39,12 +39,7 @@ Use this form to create Workday [[exploring-learning-exp|learning]] todos.
 
 [Components installed with workday learning]()
 
-[Edit a record in [[w-integration|HR Service Delivery Integration with Workday]] Learning]()
+[Edit a record in HR Service Delivery Integration with Workday Learning]()
 
 [Workday learning user course activity staging form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]
-- [[w-integration|HR Service Delivery Integration with Workday]]

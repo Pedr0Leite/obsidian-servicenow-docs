@@ -26,7 +26,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[create-connection-and-credential-form|Create Connection and Credential form]].
+    For more information on the fields, see [Create Connection and Credential form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-connection-and-credential-form.md).
 
 4.  Select **Create**.
 
@@ -36,9 +36,5 @@ Role required: sn\_bcm.admin
 -   **[Create Connection and Credential form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-connection-and-credential-form.md)**  
 Use the Create Connection and Credential form to establish a connection and authenticate your login credentials with an Everbridge instance.
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[create-connection-and-credential-form|Create Connection and Credential form]]
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]

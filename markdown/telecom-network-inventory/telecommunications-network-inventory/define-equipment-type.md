@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Create a telecommunications equipment instance
 
-Create a telecommunications equipment instance in your network. You define the equipment instances so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a telecommunications equipment instance in your network. You define the equipment instances so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create the equipment instances that have the inventory category set as E
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **All Equipment**.
 
@@ -69,11 +69,11 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 
     To learn more about the equipment extended classes, see [Equipment extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/equipment-extension-classes.md).
 
-4.  In the [[equipment-form|Equipment form]], fill in the fields.
+4.  In the Equipment form, fill in the fields.
 
     To learn more about the fields in the Equipment form, see [ee9363b19ca20d3f5503d82662539f1c1d1d3c8f.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment.md).
 
-5.  Create the Telecommunications Network Inventory attributes for the [[tni-equipment-form-configuration|Telco Equipment form]] by selecting **Set Inventory Attributes**.
+5.  Create the Telecommunications Network Inventory attributes for the Telco Equipment form by selecting **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates a reference in the CI table.
 
@@ -81,7 +81,7 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see the [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -122,10 +122,3 @@ Review and update a network asset instance for your telecommunications equipment
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[equipment-form|Equipment form]]
-- [[tni-equipment-form-configuration|Telco Equipment form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

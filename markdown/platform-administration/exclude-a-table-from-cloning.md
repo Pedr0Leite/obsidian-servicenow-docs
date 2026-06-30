@@ -18,7 +18,7 @@ Exclude a table to create an empty but usable table on the target instance.
 
 Role required: clone\_admin
 
-For information on excluding a table from cloning, see [[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]].
+For information on excluding a table from cloning, see [General guidelines for excluding a table from cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-exclusions-guidelines.md).
 
 ## About this task
 
@@ -26,19 +26,14 @@ Data is removed during the exclusion substage before the node repoint. The data 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-clone-landing|Instance Clone]]** &gt; **Clone [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **Exclude Tables**.
+1.  Navigate to **All** &gt; **Instance Clone** &gt; **Clone Definitions** &gt; **Exclude Tables**.
 
 2.  Select **New**.
 
 3.  Enter the table **Name**.
 
-    **Note:** Entering a parent table [[hs-results|results]] in the clone process also excluding its child tables. For example, excluding the task table would also exclude the Change, Incident, and Problem tables.
+    **Note:** Entering a parent table results in the clone process also excluding its child tables. For example, excluding the task table would also exclude the Change, Incident, and Problem tables.
 
 4.  Select **Submit**.
 
-## Related
 
-- [[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]]
-- [[system-clone-landing|Instance Clone]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[hs-results|Results]]

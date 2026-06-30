@@ -14,7 +14,7 @@ breadcrumb: [Perform a basic activity configuration, My active items widget conf
 
 # Provide basic activity configuration details
 
-After you create a basic [[activity-lxp|activity]] configuration, you must specify which records for the activity you want to retrieve from the tables.
+After you create a basic activity configuration, you must specify which records for the activity you want to retrieve from the tables.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sp\_admin, or ESC admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Activity Configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Activity Configuration**.
 
 2.  The Activity Configurations module displays the list of existing activity configurations.
 
@@ -38,7 +38,4 @@ Role required: admin, sp\_admin, or ESC admin
 
 7.  Click **Submit**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

@@ -19,41 +19,29 @@ For the system to properly generate on-demand assessments, the metric type must 
 -   Assessable record
 -   Metric
 
-By default, an assessment administrator can generate an on-demand assessment for one assessable record or [[t_GenOnDemandAssessMultAssessRec|multiple assessable records]].
+By default, an assessment administrator can generate an on-demand assessment for one assessable record or [multiple assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenOnDemandAssessMultAssessRec.md).
 
--   **[[t_OnDemandAssessment|Generate an on-demand assessment]]**  
+-   **[Generate an on-demand assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_OnDemandAssessment.md)**  
 Use on-demand assessments to familiarize yourself with the basic assessment process and test your questionnaires using minimal configuration.
--   **[[t_GenOnDemandAssessOneAssessRec|Generate an on-demand assessment for one assessable record]]**  
+-   **[Generate an on-demand assessment for one assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenOnDemandAssessOneAssessRec.md)**  
 When you generate an on-demand assessment from the Assessable Record form, the resulting assessment contains questions from the categories associated to the assessable record.
 -   **[Generate an on-demand assessment for multiple assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenOnDemandAssessMultAssessRec.md)**  
-When you generate an on-demand assessment from the Assessment Metric Type form, the resulting assessment contains questions from all categories associated to any [[c_assessable-records|assessable records]] for the metric type.
--   **[[t_GenAssessmentOnDemandAPI|Generate an assessment with the on-demand API]]**  
+When you generate an on-demand assessment from the Assessment Metric Type form, the resulting assessment contains questions from all categories associated to any assessable records for the metric type.
+-   **[Generate an assessment with the on-demand API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAssessmentOnDemandAPI.md)**  
 The Assign Assessment buttons call an API to generate on-demand assessments.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
 **Related topics**  
 
 
-[[c_AssessmentGeneration|Assessment generation]]
+[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)
 
-[[c_ScheduledAssessments|Scheduled assessments]]
+[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
 [Generate an on-demand assessment for multiple assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenOnDemandAssessMultAssessRec.md)
 
-[[t_ViewAnAssessmentInstance|View an assessment instance]]
+[View an assessment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentInstance.md)
 
-[[t_CleanUpAssessmentData|Clean up assessment data]]
+[Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 
-## Related
-
-- [[t_GenOnDemandAssessMultAssessRec|Generate an on-demand assessment for multiple assessable records]]
-- [[t_OnDemandAssessment|Generate an on-demand assessment]]
-- [[t_GenOnDemandAssessOneAssessRec|Generate an on-demand assessment for one assessable record]]
-- [[t_GenAssessmentOnDemandAPI|Generate an assessment with the on-demand API]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[t_ViewAnAssessmentInstance|View an assessment instance]]
-- [[t_CleanUpAssessmentData|Clean up assessment data]]
-- [[c_assessable-records|Assessable records]]

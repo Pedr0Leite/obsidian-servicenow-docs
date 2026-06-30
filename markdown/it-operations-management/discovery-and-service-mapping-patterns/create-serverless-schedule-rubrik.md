@@ -15,7 +15,7 @@ breadcrumb: [Rubrik Cluster, Available on-premise discovery patterns, Discovery 
 
 # Create a serverless discovery schedule for Rubrik cluster discovery
 
-Set up a dedicated [[r-discovery|discovery]] schedule for each Rubrik cluster \(Brik\) to identify cluster resources using a serverless pattern and credential alias.
+Set up a dedicated discovery schedule for each Rubrik cluster \(Brik\) to identify cluster resources using a serverless pattern and credential alias.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: discovery\_admin
 
 ## About this task
 
-Each Rubrik cluster \(Brik\) requires a separate [[serverless-discovery|serverless discovery]] schedule. Each schedule must include the IP address of one of the Rubrik nodes in that cluster, and the credential alias associated with the Rubrik basic authentication credential record.
+Each Rubrik cluster \(Brik\) requires a separate serverless discovery schedule. Each schedule must include the IP address of one of the Rubrik nodes in that cluster, and the credential alias associated with the Rubrik basic authentication credential record.
 
 ## Procedure
 
@@ -124,7 +124,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Rubrik Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/rubrik-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[serverless-discovery|Serverless Discovery]]

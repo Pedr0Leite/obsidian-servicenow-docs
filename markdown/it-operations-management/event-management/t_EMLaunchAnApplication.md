@@ -14,7 +14,7 @@ breadcrumb: [Using Event Management, Event Management, ITOM AIOps, IT Operations
 
 # Launch web application from alert
 
-You can [[operator-launch-web-app|launch a web application from an alert]] that matches the conditions set in an alert action rule.
+You can launch a web application from an alert that matches the conditions set in an alert action rule.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 ## About this task
 
-Right-click an alert in All Alerts or the Alert list in the [[c_EM|Event Management]] Dashboard \(for instances upgraded from a release before Orlando\), and choose **Quick Response**. Click the required link to launch the web application that was configured in the alert action rule. For further information, see [Migrate an alert action rule to an alert management rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateAlertRule.md).
+Right-click an alert in All Alerts or the Alert list in the Event Management Dashboard \(for instances upgraded from a release before Orlando\), and choose **Quick Response**. Click the required link to launch the web application that was configured in the alert action rule. For further information, see [Migrate an alert action rule to an alert management rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateAlertRule.md).
 
 ## Procedure
 
@@ -54,7 +54,3 @@ Other examples include to search in knowledge bases, not only within ServiceNow,
 
 [Apply a quick response in an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apply-quick-response-in-alert.md)
 
-## Related
-
-- [[operator-launch-web-app|Launch a web application from an alert]]
-- [[c_EM|Event Management]]

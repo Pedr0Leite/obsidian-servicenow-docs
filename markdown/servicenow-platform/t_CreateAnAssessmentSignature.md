@@ -20,11 +20,11 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-You can require the recipient to select a [[check-box|check box]] or provide a full signature to acknowledge acceptance of the assertion before submitting the form. You can display assertions without requiring a signature. An assessment property called **Require authentication for user signature** allows you to require users to provide their user name and password when an assessment asks for a full name signature.
+You can require the recipient to select a check box or provide a full signature to acknowledge acceptance of the assertion before submitting the form. You can display assertions without requiring a signature. An assessment property called **Require authentication for user signature** allows you to require users to provide their user name and password when an assessment asks for a full name signature.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Signatures**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Signatures**.
 
     All signatures in the system appear in this list.
 
@@ -39,10 +39,5 @@ You can require the recipient to select a [[check-box|check box]] or provide a f
     |Assertion|Text to present to recipients that requires acknowledgement.|
 
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[check-box|Check box]]
-- [[r_Assessments|Assessments]]

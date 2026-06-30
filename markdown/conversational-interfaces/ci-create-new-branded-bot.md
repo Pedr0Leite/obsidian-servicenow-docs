@@ -15,7 +15,7 @@ breadcrumb: [Branding your chat client, General chat settings, Configuring Conve
 
 # Create a new user for a branded bot
 
-The default branding configuration includes the [[virtual-agent-landing-page|Virtual Agent]] bot, which has a ServiceNow avatar. To create a new bot with your own branding, create an active user profile for the bot and link it to a Live Profile.
+The default branding configuration includes the Virtual Agent bot, which has a ServiceNow avatar. To create a new bot with your own branding, create an active user profile for the bot and link it to a Live Profile.
 
 ## Before you begin
 
@@ -96,12 +96,7 @@ Text that describes the live profile.
 
 ## Result
 
-You can associate the bot profile with a new branding configuration. For details, see [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]].
+You can associate the bot profile with a new branding configuration. For details, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md).
 
-**Parent Topic:**[[branding-chat-client|Branding your chat client]]
+**Parent Topic:**[Branding your chat client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/branding-chat-client.md)
 
-## Related
-
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[branding-chat-client|Branding your chat client]]
-- [[virtual-agent-landing-page|Virtual Agent]]

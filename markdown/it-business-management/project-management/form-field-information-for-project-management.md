@@ -14,9 +14,5 @@ breadcrumb: [Project Management reference, Project Management, Project Portfolio
 
 # Form field information for Project Management
 
-Field information for [[form-field-information-for-dw|forms]] used in the [[c_ProjectApplicationOverview|Project Management]].
+Field information for forms used in the Project Management.
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[c_ProjectApplicationOverview|Project Management]]

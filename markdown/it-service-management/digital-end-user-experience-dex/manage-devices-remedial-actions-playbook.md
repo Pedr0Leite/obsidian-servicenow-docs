@@ -27,7 +27,7 @@ Remedial actions executed from the following sources are displayed in the playbo
 -   Action library within a DEX device page
 -   Action library within an incident record associated with a DEX monitored device
 -   DEX Self-service for employees
--   [[proactive-engagement-landing-page|Proactive Engagement]]
+-   Proactive Engagement
 
 Each action card in the playbook panel displays information such as the action name, source, status, start time, and name of user who initiated the action.
 
@@ -37,7 +37,7 @@ Each action card in the playbook panel displays information such as the action n
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the [[dex-workspace-devices-tab|Devices]] icon \[Omitted image "icon-devices.png"\] Alt text:.
+2.  Select the Devices icon \[Omitted image "icon-devices.png"\] Alt text:.
 
 3.  On the Devices page, select the device to open the device page and view its details.
 
@@ -56,7 +56,3 @@ Each action card in the playbook panel displays information such as the action n
 
 **Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-remedial-actions.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-workspace-devices-tab|Devices]]

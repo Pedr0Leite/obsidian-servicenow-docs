@@ -16,9 +16,9 @@ Create execution log data for AI voice agentic assets By creating new conversati
 
 ## Before you begin
 
-The following steps are for the second step of the guided setup for executing an AI voice agentic asset evaluation. For more information about how to access the guided setup, see [[execute-voice-aia-eval|Execute a run for an AI voice agentic asset]].
+The following steps are for the second step of the guided setup for executing an AI voice agentic asset evaluation. For more information about how to access the guided setup, see [Execute a run for an AI voice agentic asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-voice-aia-eval.md).
 
-To create conversation logs for your AI voice agentic asset, it must run before the judges can evaluate it. Ensure that you have the correct permissions to run the AI voice agentic asset. For more information, see [[aia-security-implementation|Security for agentic AI]].
+To create conversation logs for your AI voice agentic asset, it must run before the judges can evaluate it. Ensure that you have the correct permissions to run the AI voice agentic asset. For more information, see [Security for agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
 Role required: sn\_voice\_aia.admin
 
@@ -45,7 +45,7 @@ The scenarios you generate are the context for creating new execution logs for y
     -   Reference data and entities
 3.  Fill in the template according to the specifics of your AI voice agentic asset.
 
-    You can use as many aspects of the default template as you like. For example, the phonetic alphabet or time expressions in the template are general enough that they may serve most use [[cases|cases]] for English-speaking AI voice agentic assets.
+    You can use as many aspects of the default template as you like. For example, the phonetic alphabet or time expressions in the template are general enough that they may serve most use cases for English-speaking AI voice agentic assets.
 
 4.  Select **Add file**, then select **Upload**.
 
@@ -116,8 +116,3 @@ The scenarios you generate are the context for creating new execution logs for y
 
 After generating your scenarios, you can move on to the final step of the guided setup. See step 9 of [Execute a run for an AI voice agentic asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-voice-aia-eval.md).
 
-## Related
-
-- [[execute-voice-aia-eval|Execute a run for an AI voice agentic asset]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[cases|Cases]]

@@ -28,7 +28,7 @@ Activity types are displayed in the Customer History view in Agent Workspace.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer History** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer History** &gt; **Guided Setup**.
 
 2.  Select **Get Started** under Activity Feed.
 
@@ -140,13 +140,10 @@ Select the second person involved in the activity. Not all activities have a sec
     if (current.contact) {
         actSubCtx.getActivityService().createActivity(current, verb, "", "", "", module);
     }
-    current: current variable in business [[gamification-components-rules|rules]] holds the GlideRecord of the table on which the business rules is triggered. If this business rule is on Case table, current will hold the GlideRecord of the case. 
+    current: current variable in business rules holds the GlideRecord of the table on which the business rules is triggered. If this business rule is on Case table, current will hold the GlideRecord of the case. 
     verb: verb that is configured in the Verb field of the created activity type
     module: module that is configured in the Module field of the created activity type
     Note: If there is already a Create Activity business rule, a notification message will also be displayed. You can update the script as required.
     ```
 
-## Related
 
-- [[customer-central|Customer Central]]
-- [[gamification-components-rules|Rules]]

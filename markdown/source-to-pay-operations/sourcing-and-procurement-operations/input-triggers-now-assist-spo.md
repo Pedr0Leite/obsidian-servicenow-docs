@@ -31,13 +31,13 @@ The Now Assist for SPO includes the following skills:
 -   Email response for negotiation
 -   Email response for procurement case
 -   Email response for procurement task
--   Email response for [[purchase-requisition|purchase requisition]]
+-   Email response for purchase requisition
 -   Email response for sourcing event
--   Email response for [[sourcing-request|sourcing request]]
+-   Email response for sourcing request
 -   Email response for sourcing task
 -   Negotiation summarization for fulfillers
 -   Procurement case summarization for fulfillers
--   [[purchase-order-table|Purchase order]] summarization for requesters
+-   Purchase order summarization for requesters
 -   Purchase requisition summarization for fulfillers
 -   Purchase requisition summarization for requesters
 -   Sentiment analysis for procurement case
@@ -227,7 +227,7 @@ Base input fields
 </td></tr></tbody>
 </table>## Email response for sourcing event skill
 
-Generates context-aware email responses and provides ready-to-use templates for [[negotiation-events|sourcing events]], enabling fulfillers to draft emails quickly while ensuring clear and professional communication.
+Generates context-aware email responses and provides ready-to-use templates for sourcing events, enabling fulfillers to draft emails quickly while ensuring clear and professional communication.
 
 The following table lists the inputs for Email response for sourcing event from Choose input for email response page in the Now Assist Admin console.
 
@@ -363,7 +363,7 @@ Base input fields
 
 -   Short description
 -   Description
--   [[supplier|Supplier]]
+-   Supplier
 -   Negotiation type
 -   Negotiation objectives
 -   Third party sourcing tool integration
@@ -685,13 +685,5 @@ Base input fields
 **Related topics**  
 
 
-[Customize a [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] skill]()
+[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill]()
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[negotiation-events|Sourcing events]]
-- [[supplier|Supplier]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]

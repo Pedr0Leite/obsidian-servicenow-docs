@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to **Active requisitions** from the recruitment dashboard.
 
@@ -66,6 +66,3 @@ The requisition is put on hold and displays the last state along with the on hol
 
 [Open a job requisition in your ATS]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

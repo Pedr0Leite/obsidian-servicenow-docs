@@ -12,7 +12,7 @@ breadcrumb: [Mobile Platform]
 
 # Building mobile apps
 
-Create and modify [[mobile-app-components-landing|mobile app components]] using ServiceNow® low-code application development tools.
+Create and modify mobile app components using ServiceNow® low-code application development tools.
 
 ## Get started
 
@@ -20,11 +20,11 @@ Select a tile to learn about how to use the application development tools, desig
 
 <table id="table_krb_fxt_g1c" class="nav-card"><tbody><tr><td>
 
-[Build a mobile app \[Omitted image "bus-start-developing.svg"\] Alt text:Build mobile apps using [[mab-concept|Mobile App Builder]] and [[mobile-card-builder|Mobile Card Builder]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/terminology-changes-rome.md)
+[Build a mobile app \[Omitted image "bus-start-developing.svg"\] Alt text:Build mobile apps using Mobile App Builder and Mobile Card Builder.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/terminology-changes-rome.md)
 
 </td><td>
 
-[Mobile app components \[Omitted image "bus-low-code-dev-tools.svg"\] Alt text: Learn more about the components used to build and configure mobile apps, including screens, functions, and [[sg-data-item|data items]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-app-components-landing.md)
+[Mobile app components \[Omitted image "bus-low-code-dev-tools.svg"\] Alt text: Learn more about the components used to build and configure mobile apps, including screens, functions, and data items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-app-components-landing.md)
 
 </td><td>
 
@@ -32,10 +32,3 @@ Select a tile to learn about how to use the application development tools, desig
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-app-components-landing|Mobile app components]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[sg-data-item|Data items]]

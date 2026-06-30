@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # ACC Log Analytics \(ACC-L\) integration configuration fields
 
-Description of the fields on the ACC Log Analytics \(ACC-L\) integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the ACC Log Analytics \(ACC-L\) integration configuration forms for Health Log Analytics.
 
 For the ACC Log Analytics \(ACC-L\) integration setup procedure, see [Set up an ACC Log Analytics integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-accl.md).
 
@@ -41,7 +41,7 @@ Port
 
 </td><td>
 
-The port on the MID Server to which the ACC-L agent connects. This field is required.**Important:** This port can't be the same as the [[mid-web-server|MID Web Server]] port.
+The port on the MID Server to which the ACC-L agent connects. This field is required.**Important:** This port can't be the same as the MID Web Server port.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,3 @@ Option to discard logs if many processes are waiting in the queue to access the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[mid-web-server|MID Web Server]]

@@ -18,9 +18,9 @@ Create a personal authentication mode application registry for Microsoft Exchang
 
 ## Before you begin
 
-[[ms-outlook-azure-cc|Configure Microsoft Azure]]. For more information, see [Configure Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md).
+Configure Microsoft Azure. For more information, see [Configure Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md).
 
-Confirm that the application scope is set to **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]**.
+Confirm that the application scope is set to **Workplace Calendar Synchronization**.
 
 Role required: admin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Select the **Microsoft Exchange Online\_personalAuth** OAuth provider created for personal authentication.
 
-3.  On the [[wsd-third-party-oauth-provider-form|Third-party OAuth Provider form]], fill in the fields:
+3.  On the Third-party OAuth Provider form, fill in the fields:
 
     For a description of the field values, see [Third-party OAuth Provider form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/wsd-third-party-oauth-provider-form.md).
 
@@ -68,8 +68,3 @@ The OAuth registration is added for Microsoft Exchange Online with personal auth
 
 [Configure the Microsoft Exchange Online calendar provider in personal authentication mode]()
 
-## Related
-
-- [[ms-outlook-azure-cc|Configure Microsoft Azure]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[wsd-third-party-oauth-provider-form|Third-party OAuth Provider form]]

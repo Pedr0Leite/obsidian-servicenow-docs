@@ -38,10 +38,8 @@ Role required: sn\_bcm.recovery\_team\_member
 
 8.  To close the task, click either **Close Complete** or **Close Incomplete** button.
 
-    For more information, see [[view-exercise-crisis-event-details|State transitions of an event task]].
+    For more information, see [State transitions of an event task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/view-exercise-crisis-event-details.md).
 
 9.  Click **Update** after your changes.
 
-## Related
 
-- [[view-exercise-crisis-event-details|View event details and monitor event task completion]]

@@ -14,11 +14,11 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 # Software Asset Management administration
 
-Software Asset Management administration tasks include adding custom part number records and custom license metrics. You can also [[t_RefreshProcessorDef|refresh processor definitions]] and [[t_MigrateSWInstalls|migrate software installations]]. [[c_SAMContentService|Software Asset Management content service]] can be enabled, and migration procedures are also included.
+Software Asset Management administration tasks include adding custom part number records and custom license metrics. You can also refresh processor definitions and migrate software installations. Software Asset Management content service can be enabled, and migration procedures are also included.
 
 The sam\_admin role is required to configure administrative tasks. However, the sam\_user role can view and read configurations.
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] job results show the status of discovery model normalization and software usage import jobs.
+Software Asset Management job results show the status of discovery model normalization and software usage import jobs.
 
 Software Asset Job Results records are listed in the navigation path **All** &gt; **Software Asset** &gt; **Administration** &gt; **Job Results** \(see table for field descriptions\).
 
@@ -41,7 +41,7 @@ You can add a pattern normalization rule to normalize specific software products
 -   **[Add a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAReclamationRule.md)**  
 Add a reclamation rule to aggregate usage records and to identify unused software.
 -   **[Create a custom file rule to manually define file sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-custom-file-rule.md)**  
-Create custom rules to manually define file sets and normalize data not recognized by the SAM API. After you have created custom rules, custom file sets can be discovered with [[sam-file-based-discovery|File Signature Normalization]] and software records can be generated.
+Create custom rules to manually define file sets and normalize data not recognized by the SAM API. After you have created custom rules, custom file sets can be discovered with File Signature Normalization and software records can be generated.
 -   **[Configure third-party discovery sources for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-third-party-discovery.md)**  
 Set up a third-party discovery source for Software Asset Management to populate the Software Installation \[cmdb\_sam\_sw\_install\] table with the software found in your environment.
 -   **[Delete uninstalled software from the Software Installation table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/delete-disco-entries-sam.md)**  
@@ -49,9 +49,9 @@ Delete installations from the Software Installation \[cmdb\_sam\_sw\_install\] t
 -   **[Create a reclamation rule to import Microsoft SCCM usage data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-reclamation-rule-sccm.md)**  
 To import your Microsoft SCCM data, create a reclamation rule for the product that you want the usage information for.
 -   **[Add a custom part number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-add-custom-part-number.md)**  
-You can [[sam-add-custom-part-number|add a custom part number]] to resolve an entitlement import error that occurs when a part number does not exist in the Software Library.
+You can add a custom part number to resolve an entitlement import error that occurs when a part number does not exist in the Software Library.
 -   **[Add a custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-custom-license-metric.md)**  
-You can [[add-custom-license-metric|add a custom license metric]] to modify the default reconciliation process.
+You can add a custom license metric to modify the default reconciliation process.
 -   **[Refresh processor definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RefreshProcessorDef.md)**  
 After activating Software Asset Management, refresh processor definitions to normalize processors on servers in the CMDB.
 -   **[Migrate software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_MigrateSWInstalls.md)**  
@@ -59,17 +59,7 @@ If you are using Discovery, run this script after installing the Software Asset 
 -   **[Revert Software Asset Management customizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/revert-sam-customizations.md)**  
 After installing the Software Asset Management application for the first time, or upgrading from the Software Asset Management Foundation plugin, you need to revert customizations for all features work. The Revert Customizations module in the Software Asset Management application can revert customized files related to Software Asset Management back to the base configurations that were skipped during the installation or upgrade process.
 -   **[Manage Software Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-sam-software-library.md)**  
-Use the [[manage-sam-software-library|Manage Software Library]] module to manually upload software library data to on-premise instances \(instances not in the cloud to receive automatic Software Library updates\). You can also choose to export your normalization content for participation in the Software Asset Management content service.
+Use the Manage Software Library module to manually upload software library data to on-premise instances \(instances not in the cloud to receive automatic Software Library updates\). You can also choose to export your normalization content for participation in the Software Asset Management content service.
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[t_RefreshProcessorDef|Refresh processor definitions]]
-- [[t_MigrateSWInstalls|Migrate software installations]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-file-based-discovery|File Signature Normalization]]
-- [[sam-add-custom-part-number|Add a custom part number]]
-- [[add-custom-license-metric|Add a custom license metric]]
-- [[manage-sam-software-library|Manage Software Library]]

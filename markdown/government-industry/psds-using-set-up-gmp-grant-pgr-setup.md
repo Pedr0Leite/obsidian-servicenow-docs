@@ -77,11 +77,7 @@ Publish opportunity
 
 </td><td>
 
-Define announcement removal and proposal close dates and publish the program announcement to the [[psds-gmp-overview|Grants Management Portal]].
+Define announcement removal and proposal close dates and publish the program announcement to the Grants Management Portal.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-gmp-overview|Grants Management Portal]]

@@ -14,9 +14,9 @@ breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and report
 
 # Customer Service Management integration with Service Management analytics
 
-The [[c_CustomerServiceManagement|Customer Service Management]] - Advanced Performance Analytics solution provides indicators for incident, problem, change, and request records associated with customer service cases.
+The Customer Service Management - Advanced Performance Analytics solution provides indicators for incident, problem, change, and request records associated with customer service cases.
 
-The Customer Service Management - Advanced Performance Analytics solution adds additional indicators. Some of these indicators are automatically displayed on the [[csm-manager-dashboard|Customer Service Manager dashboard]] in the Analysis tab. All the indicators can be viewed in the Analytics Hub or can be manually added to a dashboard.
+The Customer Service Management - Advanced Performance Analytics solution adds additional indicators. Some of these indicators are automatically displayed on the Customer Service Manager dashboard in the Analysis tab. All the indicators can be viewed in the Analytics Hub or can be manually added to a dashboard.
 
 **Note:** To view the indicators, you must activate the Customer Service with Service Management plugin \(com.sn\_cs\_sm\) and the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\).
 
@@ -49,7 +49,3 @@ To view the indicators in the Analytics Hub, navigate to **Performance Analytics
 
 To add an indicator to a dashboard, a user with the role pa\_admin can navigate to the desired dashboard and then click the **Add Widgets** icon at the top right of the dashboard. Select **Performance Analytics** from the drop down menu, then click **Insights** in the list below. Search for the indicator using the search bar. Click the indicator, and then click **Add**.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-manager-dashboard|Customer Service Manager dashboard]]

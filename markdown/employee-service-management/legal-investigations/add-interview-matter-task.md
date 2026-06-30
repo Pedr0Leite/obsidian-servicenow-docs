@@ -14,7 +14,7 @@ breadcrumb: [Work on a legal matter for a complaint, Manage, Legal Investigation
 
 # Add an interview task to a legal matter
 
-As part of your complaint investigation, add an interview task for the involved parties in the [[legal-investigations-landing-page|legal investigations]] matter.
+As part of your complaint investigation, add an interview task for the involved parties in the legal investigations matter.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required:sn\_lg\_investigate.fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Open a legal matter assigned to you in which you want to add a legal matter task.
 
@@ -39,7 +39,3 @@ Role required:sn\_lg\_investigate.fulfiller
     -   Save a legal matter task by clicking **Save**.
     -   Save the changes to an existing legal matter task by clicking **Update**.
 
-## Related
-
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

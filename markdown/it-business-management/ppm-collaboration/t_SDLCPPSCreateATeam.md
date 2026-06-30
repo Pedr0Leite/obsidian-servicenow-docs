@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Groups**.
 
 2.  Click **New**.
 
@@ -103,7 +103,7 @@ Role required: project\_manager
 
 ### About this task
 
-This section is applicable only if you have upgraded from Agile Development 1.0 to [[agile-landing-page|Agile Development 2.0]].
+This section is applicable only if you have upgraded from Agile Development 1.0 to Agile Development 2.0.
 
 ### Procedure
 
@@ -168,7 +168,4 @@ Role required: none.
 
     The new sprints are added to the **Sprints** related list on the Team form.
 
-## Related
 
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

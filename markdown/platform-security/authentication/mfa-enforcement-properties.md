@@ -32,7 +32,7 @@ Description
 
 </td><td>
 
-Number of times a user can bypass setting up [[mfa-landing|multi-factor authentication]] \(Max possible bypass count is 3, beyond that it will treated as 3\).
+Number of times a user can bypass setting up multi-factor authentication \(Max possible bypass count is 3, beyond that it will treated as 3\).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ MFA Enforcement debug logger. Helps in debugging the flows for MFA logins. **Not
 
 </td><td>
 
-Property for the tracking of hybrid [[users|users]]. The user accounts which are not marked as 'Web service access only' in corresponding sys\_user record, but still performs integrations \(For example, API logins\) using the username and password, will be tracked in the 'User Login Info' table when this property is enabled.**Note:** This property doesn't exist on the instance, you have to create and enable the property, if needed.
+Property for the tracking of hybrid users. The user accounts which are not marked as 'Web service access only' in corresponding sys\_user record, but still performs integrations \(For example, API logins\) using the username and password, will be tracked in the 'User Login Info' table when this property is enabled.**Note:** This property doesn't exist on the instance, you have to create and enable the property, if needed.
 
 </td></tr><tr><td>
 
@@ -76,8 +76,3 @@ A debug logger for the tracking of hybrid user API logins.Side **Note:** This pr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]

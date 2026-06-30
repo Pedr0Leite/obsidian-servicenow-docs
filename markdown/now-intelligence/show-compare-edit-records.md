@@ -14,7 +14,7 @@ breadcrumb: [Examining indicators, KPI Details, Platform Analytics experience, P
 
 You can view the list of records underlying an indicator score. You can create a record, edit individual records, or compare records. You can also export the list of records.
 
-The scores for [[automated-indicators|automated indicators]] are based on values collected from table records. If you are looking at an automated indicator in [[kpi-details|KPI Details]], toggle **Show records** to see a list of the records underlying the indicator score. You see the records behind the score for whichever date you have selected.
+The scores for automated indicators are based on values collected from table records. If you are looking at an automated indicator in KPI Details, toggle **Show records** to see a list of the records underlying the indicator score. You see the records behind the score for whichever date you have selected.
 
 \[Omitted image "kpid-show-records.png"\] Alt text: Indicator with a list of underlying records for the selected date
 
@@ -57,7 +57,7 @@ Between the two scores, you see the number of records that have been moved out, 
 
 You can compare records filtered on up to two [breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md), each with one element. You cannot compare records filtered on multiple level elements.
 
-You can compare records from a past period with [[real-time-scores|real-time scores]]. When real-time scores are turned on, by default you compare the score from the last collected period to the real-time score.
+You can compare records from a past period with real-time scores. When real-time scores are turned on, by default you compare the score from the last collected period to the real-time score.
 
 **Important:** Record comparison is available only for automated indicators that have record collection turned on. Also, if you apply a time aggregation, you can compare only scores, not records.
 
@@ -94,8 +94,3 @@ The records list on KPI Details has a set of buttons and icons for actions on th
     -   PDF
 -   The **New** button opens a blank form on the record table.
 
-## Related
-
-- [[automated-indicators|Automated indicators]]
-- [[kpi-details|KPI Details]]
-- [[real-time-scores|Real-time scores]]

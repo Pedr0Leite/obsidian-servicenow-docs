@@ -14,7 +14,7 @@ breadcrumb: [Connect Chat use, Connect Chat, Connect, ServiceNow AI Platform Add
 
 # Create a Connect conversation from a Visual Task Board
 
-Create a [[c_Collaboration|Connect Chat]] conversation from a Visual Task Board to collaborate with board members and keep track of activity as it happens.
+Create a Connect Chat conversation from a Visual Task Board to collaborate with board members and keep track of activity as it happens.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ When you create a conversation from a task board, all the board members become m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Visual Task Boards**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Open a task board.
 
-3.  In the board header, click the [[c_Connect|connect]] with board members icon \(\[Omitted image "image.IconVTBConnectwithBoard"\] Alt text: Connect with board members icon\).
+3.  In the board header, click the connect with board members icon \(\[Omitted image "image.IconVTBConnectwithBoard"\] Alt text: Connect with board members icon\).
 
     The system automatically opens a record conversation for the board. Each board member becomes a member of the conversation.
 
@@ -42,8 +42,3 @@ When you create a conversation from a task board, all the board members become m
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md)
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[self-service-landing|Self-service]]
-- [[c_Connect|Connect]]

@@ -22,9 +22,9 @@ Role required: sn\_cmdb\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **Saved Views**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **Saved Views**.
 
-2.  Select the [[check-box|check box]] for map view that you want to delete.
+2.  Select the check box for map view that you want to delete.
 
 3.  Select **Delete** from the **Actions on selected rows** drop-down menu.
 
@@ -48,7 +48,3 @@ Role required: sn\_cmdb\_admin or admin
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[check-box|Check box]]

@@ -16,7 +16,7 @@ breadcrumb: [Applications list, DEX Application and Device Health reference, Ref
 
 The installed application performance section presents details on the location and app version, total number of crashes and total number of freezes, as well as the CPU, memory, and I/O performance information.
 
-**Note:** Application [[perf-metrics-mob|performance metrics]] are available for the previous 2 hours, 24 hours, or 30 days. Select the required time window from the drop-down list to update the visualization.
+**Note:** Application performance metrics are available for the previous 2 hours, 24 hours, or 30 days. Select the required time window from the drop-down list to update the visualization.
 
 The chart on the right side displays the application performance metrics. The chart on the left side displays the aggregated metric data for the selected time window.
 
@@ -34,7 +34,7 @@ Total number of crashes - Last 2 hours
 
 </td><td>
 
-Total number of crashes in the last 2 hrs. This lists the aggregate value.**Note:** The number of crashes pertains to [[dex-workspace-application-tab|applications]] that emit a window app crash event \(event id = 1000\) on crashing such as Microsoft OneDrive, Microsoft Teams, Microsoft Excel, Microsoft OneNote, Microsoft PowerPoint, Microsoft Outlook, and Microsoft Word.
+Total number of crashes in the last 2 hrs. This lists the aggregate value.**Note:** The number of crashes pertains to applications that emit a window app crash event \(event id = 1000\) on crashing such as Microsoft OneDrive, Microsoft Teams, Microsoft Excel, Microsoft OneNote, Microsoft PowerPoint, Microsoft Outlook, and Microsoft Word.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,3 @@ Number of application freezes over the last 2 hours by version.
 
 **Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-application-tab|Applications]]

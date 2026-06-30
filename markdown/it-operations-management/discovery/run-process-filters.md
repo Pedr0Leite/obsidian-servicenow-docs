@@ -18,7 +18,7 @@ Filter any processes, using combinations of name and key parameters, from coming
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -129,6 +129,3 @@ There are a variety of Linux and Windows out-of-the-box running process filters 
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

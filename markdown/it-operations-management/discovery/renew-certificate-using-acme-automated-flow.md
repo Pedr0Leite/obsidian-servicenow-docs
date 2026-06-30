@@ -14,7 +14,7 @@ breadcrumb: [Using ACME, Automated Certificate Management Environment, Certifica
 
 # Renew certificate using ACME manual flow of DNS challenge
 
-Request to renew certificate and automatically retrieve the certificates for an application [[using-acme|using ACME]] manual flow of DNS challenge.
+Request to renew certificate and automatically retrieve the certificates for an application using ACME manual flow of DNS challenge.
 
 ## Before you begin
 
@@ -143,6 +143,3 @@ Name or role of the person who will own the certificate.
 -   The certificate is attached to the New certificate task.
 -   The certificate task status changes to Completed.
 
-## Related
-
-- [[using-acme|Using ACME]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating and executing a PowerShell script-based remedial action, D
 
 # Sign and verify an ACC plugin
 
-Create a self-signed certificate for an Agent Client Collector \(ACC\) plugin and verify the signature to enable validation of the signed plugin on endpoint [[dex-workspace-devices-tab|devices]].
+Create a self-signed certificate for an Agent Client Collector \(ACC\) plugin and verify the signature to enable validation of the signed plugin on endpoint devices.
 
 ## Before you begin
 
@@ -106,6 +106,3 @@ Role required: admin
 
 **Parent Topic:**[Creating and executing a PowerShell script-based remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-ps.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

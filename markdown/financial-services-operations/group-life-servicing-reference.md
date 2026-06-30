@@ -12,8 +12,5 @@ breadcrumb: [Group Life Servicing, Life Insurance Servicing, Insurance applicati
 
 # Group Life Servicing reference
 
-Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the [[group-life-servicing|Group Life Servicing]] application.
+Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the Group Life Servicing application.
 
-## Related
-
-- [[group-life-servicing|Group Life Servicing]]

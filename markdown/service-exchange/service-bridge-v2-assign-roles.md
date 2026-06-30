@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-A user role is a preconfigured role in the application consisting of multiple granular roles. The user roles are designed to correspond to the common job titles for managers, analysts, and service owners in an IT organization. For more details, see [[service-bridge-v2-personas|User roles for providers]].
+A user role is a preconfigured role in the application consisting of multiple granular roles. The user roles are designed to correspond to the common job titles for managers, analysts, and service owners in an IT organization. For more details, see [User roles for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-personas.md).
 
 ## Procedure
 
@@ -36,6 +36,4 @@ A user role is a preconfigured role in the application consisting of multiple gr
 
 5.  Select **Save**.
 
-## Related
 
-- [[service-bridge-v2-personas|User roles for providers]]

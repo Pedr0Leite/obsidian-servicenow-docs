@@ -28,25 +28,19 @@ The Approvals landing page provides a comprehensive view of all approval request
     -   A new vulnerability change approval \(VCA\) created after a previously approved VCA's finding expired. This new request is treated as a continuation of the original exception.
 -   **Repeated rejections**: Approvals where a remediation owner has resubmitted a VCA for the same deferral exception after a prior VCA was rejected.
 
-Each approval request contains interactive links that provide access to detailed information, including Record Reference for findings, Request Type, Request Number, Risk Rating, Remediation Status, Approval Assignment Group, and Current State. You can also access click-able links to view details related to associated findings. See [[sem-configure-approval-view|Configure Approval List and Form View]].
+Each approval request contains interactive links that provide access to detailed information, including Record Reference for findings, Request Type, Request Number, Risk Rating, Remediation Status, Approval Assignment Group, and Current State. You can also access click-able links to view details related to associated findings. See [Configure Approval List and Form View](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-approval-view.md).
 
 When opening a finding record \(e.g., VIT, AVIT, CVIT, Test Results\), users can view detailed attributes such as state, remediation status, assignment group, information about the finding, relevant detections, change approvals, and requested approvals.
 
-You can defer a finding or remediation task directly from its respective form in the [[sem-workspace-user-interface|Security Exposure Management workspace]]. Once submitted, the request is sent for approval. This unification offers:
+You can defer a finding or remediation task directly from its respective form in the Security Exposure Management workspace. Once submitted, the request is sent for approval. This unification offers:
 
 View the requester, purpose, impacted services, approval levels, and comments all in one place.
 
-Approvers can approve or reject requests directly within the same record. See [[sem-review-approval-request|Reviewing an Approval Request]].
+Approvers can approve or reject requests directly within the same record. See [Reviewing an Approval Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-review-approval-request.md).
 
 Every comment and approval action is recorded and attributed.
 
-You can use generative AI to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. For more information, see: [[sem-approval-recommendation-skill|Generate approval recommendations with generative AI]]
+You can use generative AI to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. For more information, see: [Generate approval recommendations with generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-recommendation-skill.md)
 
 All requests including pending, overdue, or completed, are easy to locate and manage in the single view. Links to legacy approval requests are available for items that remain in the old flow during the migration period.
 
-## Related
-
-- [[sem-configure-approval-view|Configure Approval List and Form View]]
-- [[sem-review-approval-request|Reviewing an Approval Request]]
-- [[sem-approval-recommendation-skill|Generate approval recommendations with generative AI]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

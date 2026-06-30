@@ -14,7 +14,7 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 # Client software distribution dashboard
 
-The CSD dashboard provides a collection of visual reports for the [[c_ClientSoftwareDistribution|Client Software Distribution]] application.
+The CSD dashboard provides a collection of visual reports for the Client Software Distribution application.
 
 ## CSD dashboard
 
@@ -109,6 +109,3 @@ Navigate to **Client Software Distribution** &gt; **Usage Overview** to view the
 
 **Parent Topic:**[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

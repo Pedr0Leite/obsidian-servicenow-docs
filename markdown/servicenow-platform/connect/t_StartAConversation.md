@@ -14,7 +14,7 @@ breadcrumb: [Connect Chat use, Connect Chat, Connect, ServiceNow AI Platform Add
 
 # Start a direct or group conversation
 
-You can start a conversation with one or more users in [[c_Collaboration|Connect Chat]].
+You can start a conversation with one or more users in Connect Chat.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ A conversation between two users is called a direct conversation. A conversation
 
 ## Procedure
 
-1.  In the chat view of the [[c_Connect|Connect]] sidebar, click the plus icon \(**+**\) by the filter.
+1.  In the chat view of the Connect sidebar, click the plus icon \(**+**\) by the filter.
 
     A Connect mini window appears.
 
@@ -48,7 +48,4 @@ A conversation between two users is called a direct conversation. A conversation
 
     The conversation is added to the Connect sidebar for quick access.
 
-## Related
 
-- [[c_Collaboration|Connect Chat]]
-- [[c_Connect|Connect]]

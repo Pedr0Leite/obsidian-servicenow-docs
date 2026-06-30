@@ -14,14 +14,14 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # Report a safety incident or observation in the offline mode
 
-Report a safety incident or observation in the offline mode-without an internet connection- through the [[mobile-employee-experience|Now Mobile app]]. Once you go online, the incidents or observations reported offline are synchronized automatically.
+Report a safety incident or observation in the offline mode-without an internet connection- through the Now Mobile app. Once you go online, the incidents or observations reported offline are synchronized automatically.
 
 ## Before you begin
 
 Verify the following conditions:
 
--   The system properties for the [[offline-mode|offline mode]] behavior of the mobile application are configured. For more information, see .
--   The [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application is configured for offline mobile. For more information, see [Configure offline mode in the Now Mobile app for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-offline-mode-health-safety.md).
+-   The system properties for the offline mode behavior of the mobile application are configured. For more information, see .
+-   The Health and Safety Incident Management application is configured for offline mobile. For more information, see [Configure offline mode in the Now Mobile app for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-offline-mode-health-safety.md).
 -   The offline mode for the Now Mobile app on your mobile device is turned on. For more information, see [Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md).
 -   The **glide.sg.offline.scheduled\_download.enabled** system property for scheduled offline caching is set. If the property is not set, manually update cache before you go offline. To update cache, navigate to **Settings** and tap **Update Cache**.
 
@@ -37,7 +37,7 @@ For information on how the offline mode works in the mobile app, see [Offline mo
 
 2.  In the navigation bar, tap **Home**.
 
-3.  In the **[[emp-center-quick-link-config|Quick links]]** section on the page, select an option.
+3.  In the **Quick links** section on the page, select an option.
 
     -   To report a basic incident, tap **Report safety incident**.
     -   To report an observation, tap **Report safety observation**.
@@ -50,9 +50,3 @@ For information on how the offline mode works in the mobile app, see [Offline mo
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[offline-mode|Offline mode]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[emp-center-quick-link-config|Quick links]]

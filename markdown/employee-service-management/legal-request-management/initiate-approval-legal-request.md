@@ -35,7 +35,7 @@ You can assign these approvals to any user or user group in your organization wh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -160,7 +160,7 @@ The assigned approvers get an email notification with a link to open the record 
 **Note:**
 
 -   An attachment cannot be deleted after an ad hoc approval is initiated and is in the Requested state. To remove such attachments, either cancel the ad hoc approval request or obtain the approval first.
--   When you remove an attachment from a legal request, it also deletes the associated ad hoc approval records. A work note is posted with the deletion details in the [[activity-lxp|activity]] stream of the legal request.
+-   When you remove an attachment from a legal request, it also deletes the associated ad hoc approval records. A work note is posted with the deletion details in the activity stream of the legal request.
 
 The approval details appear under the **Approvals** tab on the Standard Ticket page.
 
@@ -169,12 +169,7 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 Approvers can review and [approve or reject the requested item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/approve-reject-legal-request-attach.md).
 
 -   **[Cancel an ad hoc approval for a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/cancel-approval-legal-request.md)**  
-[[cancel-approval-legal-request|Cancel an ad hoc approval for a legal request]] if it no longer requires any action.
+Cancel an ad hoc approval for a legal request if it no longer requires any action.
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]
-- [[cancel-approval-legal-request|Cancel an ad hoc approval for a legal request]]

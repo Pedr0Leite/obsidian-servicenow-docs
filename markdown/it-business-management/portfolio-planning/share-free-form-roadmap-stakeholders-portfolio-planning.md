@@ -32,7 +32,7 @@ Grant access for the free-form roadmap to other users and stakeholders in your o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a roadmap to open it.
 
@@ -59,6 +59,3 @@ Change the access level or remove access for a user or a group.
 
 **Parent Topic:**[Create a free-form roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

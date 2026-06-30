@@ -12,7 +12,7 @@ breadcrumb: [Vaccination Status, Safe Workplace, Health and Safety, Employee Ser
 
 # Automating vaccine response reviews
 
-Your organization can automatically validate and review vaccine responses with [[vaccination-status|Vaccination Status]] by integrating third-party validator services and enabling workflows.
+Your organization can automatically validate and review vaccine responses with Vaccination Status by integrating third-party validator services and enabling workflows.
 
 Organizations may want methods to reduce the effort required to validate or approve vaccine responses in bulk. You can choose to automatically validate attachments used in vaccine reviews or automate the entire review process.
 
@@ -24,13 +24,13 @@ Validation systems work with Vaccination Status to review attachments in a user'
 -   Date received
 -   Vaccine code, such as CVX, to verify the vaccine manufacturer
 
-For more information on submitting a vaccine response, see [[report-vaccination-status|Report vaccination status to your organization]].
+For more information on submitting a vaccine response, see [Report vaccination status to your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/report-vaccination-status.md).
 
 The validation process creates work notes on the vaccine response record about the validation process to inform you whether the review was completed, and if not, why. You can also see a user's vaccine response record that details each attachment reviewed.
 
 **Note:** Work notes might not be comprehensive. If validation failed, you might want to investigate further to ensure that other information isn't also mismatched.
 
-Once the validation is completed, you can review the vaccine response record to approve or deny the response. For more information on manually reviewing a vaccine response or confirming whether the validator service is working, see [[confirm-vaccine-response|Confirm the reported vaccination status for a user]].
+Once the validation is completed, you can review the vaccine response record to approve or deny the response. For more information on manually reviewing a vaccine response or confirming whether the validator service is working, see [Confirm the reported vaccination status for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-response.md).
 
 To automate the validation process, you must do the following:
 
@@ -55,7 +55,7 @@ To enable the automation of reviews, you must do the following:
 -   Configure Vaccination Status to automatically validate vaccine responses.
 -   Activate the **Allow validation engine approvals to update Vaccine Review Outcome records** property.
 
-For more information on automating vaccine response reviews, see [[enable-automated-vaccine-response-reviews|Automate reviews of vaccine responses]].
+For more information on automating vaccine response reviews, see [Automate reviews of vaccine responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/enable-automated-vaccine-response-reviews.md).
 
 ## Provided services and integrations
 
@@ -89,23 +89,13 @@ Azure Form Recognizer service
 
 </td><td>
 
-Vaccination Status can integrate with Azure Form Recognizer. This integration enables the Azure Form Recognizer service to act as an alternate vaccine validation service. The Azure Form Recognizer service reads CDC Vaccination Cards and utilizes a trained machine-[[exploring-learning-exp|learning]] \(ML\) service, or model, to determine if there is a match for the user submitting the vaccine response.
+Vaccination Status can integrate with Azure Form Recognizer. This integration enables the Azure Form Recognizer service to act as an alternate vaccine validation service. The Azure Form Recognizer service reads CDC Vaccination Cards and utilizes a trained machine-learning \(ML\) service, or model, to determine if there is a match for the user submitting the vaccine response.
 
  Validity is by the first and last name as each of these fields generates a confidence score provided by the Azure Form Recognizer service. This score is compared to the confidence threshold set in Vaccination Status.
 
- For more information, see [[automate-vaccine-validation-with-azure-form-recognizer|Automating vaccine response reviews with the Azure Form Recognizer service]].
+ For more information, see [Automating vaccine response reviews with the Azure Form Recognizer service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/automate-vaccine-validation-with-azure-form-recognizer.md).
 
- To configure Vaccination Status to use the Azure Form Recognizer service, see [[config-azure-form-recognizer-integration|Configure Azure Form Recognizer integration for automatic vaccine response reviews]].
+ To configure Vaccination Status to use the Azure Form Recognizer service, see [Configure Azure Form Recognizer integration for automatic vaccine response reviews](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-azure-form-recognizer-integration.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[report-vaccination-status|Report vaccination status to your organization]]
-- [[confirm-vaccine-response|Confirm the reported vaccination status for a user]]
-- [[enable-automated-vaccine-response-reviews|Automate reviews of vaccine responses]]
-- [[automate-vaccine-validation-with-azure-form-recognizer|Automating vaccine response reviews with the Azure Form Recognizer service]]
-- [[config-azure-form-recognizer-integration|Configure Azure Form Recognizer integration for automatic vaccine response reviews]]
-- [[vaccination-status|Vaccination Status]]
-- [[exploring-learning-exp|Learning]]

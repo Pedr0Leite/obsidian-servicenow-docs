@@ -18,7 +18,7 @@ Install the Field Service Multi-Day Task Scheduling application to enable schedu
 
 ## Before you begin
 
--   Field Service Multi-Day Task Scheduling requires you to install the [[fsm-application-landing-page|Field Service Management]] plugin. For more information about activating Field Service Management, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+-   Field Service Multi-Day Task Scheduling requires you to install the Field Service Management plugin. For more information about activating Field Service Management, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 Role required: admin.
 
@@ -42,14 +42,6 @@ Role required: admin.
 The Field Service Multi-Day Task Scheduling plugin when activated successfully adds the following attributes:
 
 -   The **Assign across the schedule entries** option is added to the work order task form.
--   The **sn\_fsm\_multiday.minDurationForFirstWorkSchedule** property is added to the Field Service [[dynamic-scheduling|Dynamic Scheduling]] Properties page. For more information about enabling a dynamic scheduling property, see [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]].
--   The **sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.enableTwoAndFourWeeks** property is added to the Field Service [[dispatcher-activities|Dispatcher Workspace]] set of properties. For more information about enabling a Workspace Settings property, see [[configure-workspce-settings|Configure settings for Dispatcher Workspace]].
+-   The **sn\_fsm\_multiday.minDurationForFirstWorkSchedule** property is added to the Field Service Dynamic Scheduling Properties page. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md).
+-   The **sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.enableTwoAndFourWeeks** property is added to the Field Service Dispatcher Workspace set of properties. For more information about enabling a Workspace Settings property, see [Configure settings for Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-workspce-settings.md).
 
-## Related
-
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[configure-workspce-settings|Configure settings for Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

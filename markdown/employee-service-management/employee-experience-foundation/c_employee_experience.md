@@ -26,13 +26,9 @@ For upgrading existing Microsoft Teams capabilities to Microsoft 365 application
 -   **[IT Service Management integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams.md)**  
 IT Service Management integration with Microsoft Teams extends the Now Virtual Agent integration with Microsoft Teams to enable employees to more effectively request and receive service from within Microsoft Teams.
 -   **[HR Service Delivery integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-hr.md)**  
-[[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams extends the Now Virtual Agent integration with Microsoft Teams to enable employees to more effectively request and receive service from within Microsoft Teams.
+HR Service Delivery integration with Microsoft Teams extends the Now Virtual Agent integration with Microsoft Teams to enable employees to more effectively request and receive service from within Microsoft Teams.
 -   **[Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-ur.md)**  
-The ServiceNow® [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] application extends the ServiceNow integration with Microsoft Teams. You can enable employees to more effectively request and receive service from within Microsoft Teams by using this application.
+The ServiceNow® Universal Request integration with Microsoft Teams application extends the ServiceNow integration with Microsoft Teams. You can enable employees to more effectively request and receive service from within Microsoft Teams by using this application.
 
 **Parent Topic:**[Exploring ServiceNow for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-sn-teams.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

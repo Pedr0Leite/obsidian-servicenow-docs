@@ -22,9 +22,9 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 
 1.  Navigate to **All** &gt; **Opportunity Management** &gt; **Opportunity Stages**.
 
-2.  Select **New** to [[create-new-opportunity|create an opportunity]] stage or select an existing opportunity stage to make changes.
+2.  Select **New** to create an opportunity stage or select an existing opportunity stage to make changes.
 
-3.  Fill in the [[fields|fields]] in the Opportunity Stage form.
+3.  Fill in the fields in the Opportunity Stage form.
 
     |Fields|Descriptions|
     |------|------------|
@@ -41,13 +41,7 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-opportunity|Create an opportunity]]
-- [[fields|Fields]]

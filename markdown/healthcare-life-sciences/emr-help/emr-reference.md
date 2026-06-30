@@ -14,7 +14,7 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 # EMR Help reference
 
-Reference topics provide additional information about [[emr-exploring|EMR Help]] features.
+Reference topics provide additional information about EMR Help features.
 
 -   **[Encryption options in EMR Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-encryption-support.md)**  
 EMR Help provides encryption support to secure sensitive information.
@@ -27,6 +27,3 @@ Domain separation is supported for EMR Help. Domain separation enables you to se
 
 **Parent Topic:**[EMR Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-exploring.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

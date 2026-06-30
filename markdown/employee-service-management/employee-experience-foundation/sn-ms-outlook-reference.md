@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Microsoft Outlook, Unified Employee Experience, Empl
 
 # ServiceNow for Microsoft Outlook reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use to configure [[sn-ms-outlook-integration|ServiceNow for Microsoft Outlook]].
+Reference topics provide additional information about the lists and forms that you use to configure ServiceNow for Microsoft Outlook.
 
 -   **[Properties installed with ServiceNow for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-sn-ms-outlook.md)**  
 The following properties are installed with the Outlook Actionable Messages plugin.
@@ -23,7 +23,3 @@ Survey definitions must be compatible with Outlook Actionable Messages \(OAM\) t
 
 **Parent Topic:**[Unified Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-and-ecpro-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sn-ms-outlook-integration|ServiceNow for Microsoft Outlook]]

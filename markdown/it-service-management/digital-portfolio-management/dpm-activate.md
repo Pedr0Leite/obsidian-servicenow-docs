@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Activate Digital Portfolio Management
 
-The [[dpm-landing|Digital Portfolio Management]] plugin is available from the ServiceNow® ServiceNow Store.
+The Digital Portfolio Management plugin is available from the ServiceNow® ServiceNow Store.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you install the Digital Portfolio Management \(DPM\) application from the S
 
 ## Procedure
 
-1.  Navigate to **System Application** &gt; **All Available [[dex-workspace-application-tab|Applications]]** &gt; **All**.
+1.  Navigate to **System Application** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin.
 
@@ -37,7 +37,3 @@ When you install the Digital Portfolio Management \(DPM\) application from the S
 
 **Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

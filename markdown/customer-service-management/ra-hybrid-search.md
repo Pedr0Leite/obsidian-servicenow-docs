@@ -13,9 +13,9 @@ breadcrumb: [AI search, Recommended Actions configuration, Implement Intelligenc
 
 # Hybrid search in Recommended Actions
 
-Hybrid search combines keyword-based and semantic search to surface more relevant results in [[csm-workspaces-configure|CSM Configurable Workspace]], helping agents find KB articles and guided actions even when their phrasing does not match article content exactly.
+Hybrid search combines keyword-based and semantic search to surface more relevant results in CSM Configurable Workspace, helping agents find KB articles and guided actions even when their phrasing does not match article content exactly.
 
-Unlike keyword-only search, which requires exact term matches, hybrid search understands the context and intent behind a query. Agents using CSM Configurable Workspace will see more contextually relevant KB articles and guided actions in the AI search tab of the [[configure-nba|Recommended Actions]] contextual side panel.
+Unlike keyword-only search, which requires exact term matches, hybrid search understands the context and intent behind a query. Agents using CSM Configurable Workspace will see more contextually relevant KB articles and guided actions in the AI search tab of the Recommended Actions contextual side panel.
 
 ## How it works
 
@@ -38,7 +38,3 @@ This configuration is specific to the CSM AI search application. Search configur
 
 **Note:** When Hybrid Search is active, the total result counts and facet counts are not displayed in the search results tab of the Recommended Actions contextual side panel.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]

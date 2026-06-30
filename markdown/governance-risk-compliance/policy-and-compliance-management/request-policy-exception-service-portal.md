@@ -14,7 +14,7 @@ breadcrumb: [Manage policy exceptions and extensions, Classic UI, Policy and Com
 
 # Request a policy exception through Service Portal
 
-Your employees and business users within your company can [[request-policy-exception|request a policy exception]] through the ServiceNow® Service Portal.
+Your employees and business users within your company can request a policy exception through the ServiceNow® Service Portal.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: sn\_compliance.user, sn\_grc.business\_user, sn\_grc.business\_us
 
 **Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/manage-policy-exceptions.md)
 
-## Related
-
-- [[request-policy-exception|Request a policy exception]]

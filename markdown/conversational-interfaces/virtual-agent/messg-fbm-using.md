@@ -16,11 +16,11 @@ breadcrumb: [Conversational Integration with Facebook Messenger, Integrate VA wi
 
 Enable a requester to converse with an agent using the Facebook Messenger chat conversations.
 
-An administrator can configure the [[messg-fbm|Conversational Integration with Facebook Messenger]] application for integrating the Facebook Messenger app with a ServiceNow application. For more information, see [Integrating the LINE messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-line-integrating-apps.md).
+An administrator can configure the Conversational Integration with Facebook Messenger application for integrating the Facebook Messenger app with a ServiceNow application. For more information, see [Integrating the LINE messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-line-integrating-apps.md).
 
-A requester can initiate Facebook Messenger chat conversations with a [[virtual-agent-landing-page|virtual agent]] or live agent.
+A requester can initiate Facebook Messenger chat conversations with a virtual agent or live agent.
 
-A live agent can accept Facebook Messenger chat conversations as [[awa-work-items|work items]] from their Agent Workspace Inbox to converse with a requester.
+A live agent can accept Facebook Messenger chat conversations as work items from their Agent Workspace Inbox to converse with a requester.
 
 ## Accepting Facebook Messenger chat conversations
 
@@ -35,15 +35,9 @@ As a live agent interacting with a requester over the Facebook Messenger service
 **Note:** You accept a work item from the Facebook Messenger chat conversation in your Agent Workspace Inbox when an administrator has configured the Facebook Messenger service channel for transfer of chat conversations. For more information, see [Transfer Facebook Messenger chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-live-agent-conv.md) and [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
 
 -   **[Transfer Facebook Messenger chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-live-agent-conv.md)**  
-Configure the [[awa-application-landing-page|Advanced Work Assignment]] application to transfer a Facebook Messenger chat conversation initiated by a requester \(customer contact or consumer\) to a live agent.
+Configure the Advanced Work Assignment application to transfer a Facebook Messenger chat conversation initiated by a requester \(customer contact or consumer\) to a live agent.
 -   **[Capturing information from a user in a Facebook Messenger chat conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-capture-info.md)**  
 Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from the user in a Facebook Messenger chat conversation.
 
 **Parent Topic:**[Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm.md)
 
-## Related
-
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

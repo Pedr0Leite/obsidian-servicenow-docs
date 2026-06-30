@@ -22,7 +22,7 @@ Role required: SM admin
 
 ## Procedure
 
-1.  After the [[c_SMPlanMaint|Planned Maintenance]] Nightly Run scheduled job has executed for a maintenance plan, navigate to the location of the CI for which you ran the plan.
+1.  After the Planned Maintenance Nightly Run scheduled job has executed for a maintenance plan, navigate to the location of the CI for which you ran the plan.
 
     For example, **Configuration** &gt; **Servers** &gt; **Linux**.
 
@@ -35,6 +35,3 @@ Role required: SM admin
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

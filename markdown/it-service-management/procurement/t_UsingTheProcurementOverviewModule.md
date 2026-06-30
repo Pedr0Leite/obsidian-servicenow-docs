@@ -14,7 +14,7 @@ breadcrumb: [Procurement, Asset Management, IT Service Management]
 
 # Use the Procurement Overview module
 
-Use the gauges on the [[c_Procurement|Procurement]] Overview homepage to help you track and manage requests, purchase orders, and other important aspects of the procurement process.
+Use the gauges on the Procurement Overview homepage to help you track and manage requests, purchase orders, and other important aspects of the procurement process.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: procurement\_admin or procurement\_user
 
 [Domain separation and Procurement]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

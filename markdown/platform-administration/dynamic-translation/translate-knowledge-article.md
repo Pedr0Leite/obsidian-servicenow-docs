@@ -18,14 +18,14 @@ Start translating articles once they are published and assigned to you for trans
 
 ## Before you begin
 
--   Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\).
+-   Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\).
 -   Enable the **glide.knowman.translation.enable\_translation\_task** property. For more information, see [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/translation-management.md).
 
 Role required: admin, knowledge\_admin, or knowledge
 
 ## About this task
 
-**Note:** This procedure has been superseded by the [[localization-framework-landing|Localization Framework]]. For more information see [Localization Framework support for Knowledge Base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-kb-articles.md). This information is provided for legacy context.
+**Note:** This procedure has been superseded by the Localization Framework. For more information see [Localization Framework support for Knowledge Base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-kb-articles.md). This information is provided for legacy context.
 
 For information about how administrators configure the translation API, see [DynamicTranslation API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-apis.md).
 
@@ -54,7 +54,3 @@ For information about how administrators configure the translation API, see [Dyn
 
 The newly created draft is listed in the **Translated Versions** tab.
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[localization-framework-landing|Localization Framework]]

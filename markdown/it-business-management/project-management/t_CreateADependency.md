@@ -28,13 +28,13 @@ You can also create dependencies by using the Predecessor column on the Planning
 
 ## Procedure
 
-1.  Select a task on the [[c_GanttChart|Gantt chart]] portion of the planning console.
+1.  Select a task on the Gantt chart portion of the planning console.
 
     A white circle appears on either end of the task, one at the start of the task and the other at the end of the task.
 
 2.  To create a dependency, select one of the white circles and drag it to the start or end of another task.
 
-3.  Double-click the dependency line to see the dependency on the [[planned-task-relationship-form|Planned Task Relationship form]].
+3.  Double-click the dependency line to see the dependency on the Planned Task Relationship form.
 
 4.  Confirm that your dependency is correct.
 
@@ -46,7 +46,7 @@ Add an external dependency between two projects on the planning console. Use the
 -   **[Modify a project task dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyProjectTaskDependencies.md)**  
 Modify a dependency when editing the tasks that are linked in the dependency, the dependency type, or the lag time.
 -   **[Remove a dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_RemoveDependencies.md)**  
-Use the planning console to [[t_RemoveDependencies|remove a dependency]] that is no longer necessary.
+Use the planning console to remove a dependency that is no longer necessary.
 
 **Parent Topic:**[Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
@@ -69,8 +69,3 @@ Use the planning console to [[t_RemoveDependencies|remove a dependency]] that is
 
 [Modify a project task dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyProjectTaskDependencies.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[planned-task-relationship-form|Planned Task Relationship form]]
-- [[t_RemoveDependencies|Remove a dependency]]

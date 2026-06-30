@@ -37,7 +37,7 @@ Generate a preview of your schedule plan and publish it so that your agents can 
 -   **[Track and manage team schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/track-team-schedule-wfo-hr.md)**  
 Create, update, or monitor your teams' schedule from one location. You can approve or reject requests for swapping shifts or time off for agents within your assignment group.
 -   **[Monitor schedule adherence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/monitor-schedule-adherence-wfo-hr.md)**  
-Use schedule adherence to evaluate whether or not your agents are adhering to their assigned schedules. You can look for areas where low-value [[activity-lxp|activity]] can be eliminated or reduced and further analyze staffing levels throughout the day.
+Use schedule adherence to evaluate whether or not your agents are adhering to their assigned schedules. You can look for areas where low-value activity can be eliminated or reduced and further analyze staffing levels throughout the day.
 -   **[Analyze adherence and conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/analyse-time-worked-summary-wfo-hr.md)**  
 View the time worked summary of your team members to determine if your teams are adhering to the planned schedules. You can also use historical adherence, which is a reporting view of real-time adherence, to see how well your agents have followed their schedules in the past.
 -   **[Analyze staff alignment using Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/analyze-staff-alignment-wfo-hr.md)**  
@@ -58,6 +58,3 @@ Swap an agent's shift in your assignment group with another agent who can work o
 
 [Coaching in Workforce Optimization for HR]()
 
-## Related
-
-- [[activity-lxp|Activity]]

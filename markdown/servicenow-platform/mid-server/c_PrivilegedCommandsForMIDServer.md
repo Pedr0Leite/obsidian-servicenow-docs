@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server privileged commands
 
-To discover certain information on a host server, the [[mid-server-landing|MID Server]] must run SSH commands with higher privileges. The platform provides default privileged commands for the MID Server to use and the ability to add additional commands to the system.
+To discover certain information on a host server, the MID Server must run SSH commands with higher privileges. The platform provides default privileged commands for the MID Server to use and the ability to add additional commands to the system.
 
 <table id="table_y14_tv4_nhb"><tbody><tr><td>
 
@@ -220,6 +220,3 @@ Of all the privileged commands, only the **pbrun** command can be configured to 
 
 Return to [Configuring MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]

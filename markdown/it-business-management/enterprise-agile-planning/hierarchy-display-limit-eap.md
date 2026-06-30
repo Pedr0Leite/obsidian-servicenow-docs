@@ -18,7 +18,7 @@ Configure an initial load limit system property to control how many work items t
 
 ## Before you begin
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: admin
 
@@ -48,6 +48,4 @@ Creating the **sn\_apw\_advanced.eap\_hierarchy\_items\_limit** system property 
 
 4.  Select **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

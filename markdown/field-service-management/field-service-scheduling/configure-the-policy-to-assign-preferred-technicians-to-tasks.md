@@ -26,7 +26,7 @@ Dispatchers can designate preferred, secondary, or excluded technicians on the w
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Administration** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Administration** &gt; **Policies**.
 
 2.  Select the policy.
 
@@ -49,11 +49,7 @@ The policy is configured to assign preferred technicians to tasks. When the opti
 **Related topics**  
 
 
-[[hard-soft-constraints|Objectives and constraints used with Schedule Optimization]]
+[Objectives and constraints used with Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/hard-soft-constraints.md)
 
 [Set technician preferences for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/assign-preferred-agents-tasks.md)
 
-## Related
-
-- [[hard-soft-constraints|Objectives and constraints used with Schedule Optimization]]
-- [[schedule-optimization|Schedule Optimization]]

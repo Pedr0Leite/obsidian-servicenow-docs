@@ -28,12 +28,9 @@ When creating or updating the policy with a category, the category must be pre-d
 
 ## Policy tags and how to use them
 
-Policy tags enable you to define a policy with relevant [[reference|reference]] tags. These tags can be defined according to your requirements, providing an element of flexibility to your policy management. For example, if a group of users have access to some policies, you can create a meaningful tag or a set of tags only for those policies.
+Policy tags enable you to define a policy with relevant reference tags. These tags can be defined according to your requirements, providing an element of flexibility to your policy management. For example, if a group of users have access to some policies, you can create a meaningful tag or a set of tags only for those policies.
 
 You can add any number of tags to a policy, and also configure who can view the tags. You can also add tags on-the-fly as you view or edit policies.
 
 Tags can be especially useful in collaboration efforts, in turn making the entire policy life-cycle easier to manage.
 
-## Related
-
-- [[reference|Reference]]

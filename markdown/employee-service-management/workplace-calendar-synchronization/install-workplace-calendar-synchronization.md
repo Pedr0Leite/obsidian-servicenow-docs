@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Calendar Synchronization, Workplace Service De
 
 # Install Workplace Calendar Synchronization
 
-Install the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Calendar Synchronization application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -31,8 +31,8 @@ Role required: admin
 
 The following plugins are activated when you install Workplace Calendar Synchronization:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) minimum version 2.3.3
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(sn\_wsd\_rsv\) minimum version 1.3.3
+-   Workplace Core \(sn\_wsd\_core\) minimum version 2.3.3
+-   Workplace Reservation Management \(sn\_wsd\_rsv\) minimum version 1.3.3
 -   Microsoft Exchange Online
 -   Depending on the calendar provider that you want to configure, instal the following plugins:
     -   Microsoft Exchange Server Spoke
@@ -63,8 +63,3 @@ The following plugins are activated when you install Workplace Calendar Synchron
 
 **Parent Topic:**[Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

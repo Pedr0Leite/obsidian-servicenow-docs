@@ -14,11 +14,11 @@ breadcrumb: [Tanium, Service Graph Connectors, Integrating third-party data into
 
 # Configure Service Graph Connector for Tanium using the guided setup
 
-Set up scheduled import jobs to pull in data from Tanium into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in data from Tanium into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use [[sgcc-landing|SGC Central]] to configure the connection. The guided setup method for configuration is being deprecated.
+**Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -28,7 +28,7 @@ Dependencies and requirements:
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 
-**Note:** If you have an earlier version of the [[cmdb-integration-tanium|Service Graph Connector for Tanium]], then do not migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for Tanium, then do not migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: admin
 
@@ -42,7 +42,7 @@ For more information on the Service Graph Connector for Tanium setup, see [How d
 
     For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Tanium** &gt; **Setup**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Tanium** &gt; **Setup**.
 
 3.  On the Getting started page, select **Get Started**.
 
@@ -94,10 +94,10 @@ Host name
 
 </td><td>
 
-Base URL or [[ip-address|IP address]] of the Tanium server.**Note:** This field is automatically set to the URL to [[c_Connect|connect]] to the application. Leave the field value as is.
+Base URL or IP address of the Tanium server.**Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
 
 </td></tr></tbody>
-</table>            4.  \(Optional\) If a [[mid-server-landing|MID Server]] is required for the Tanium server connection, select the **Use MID Server** [[check-box|check box]]. Then, select the MID Server-related fields accordingly.
+</table>            4.  \(Optional\) If a MID Server is required for the Tanium server connection, select the **Use MID Server** check box. Then, select the MID Server-related fields accordingly.
             5.  In the Credential Information section, enter the Tanium account user name in the **Username** field and the password in the **Password** field.
             6.  Select **Edit connection**.
             7.  Return to the guided setup page.
@@ -309,13 +309,4 @@ Tanium base URL or IP address. **Note:** This field is automatically set to the 
 
     4.  Close the window and set the Advanced Settings task to complete by selecting **Mark as Complete**.
 
-## Related
 
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-tanium|Service Graph Connector for Tanium]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[ip-address|IP Address]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

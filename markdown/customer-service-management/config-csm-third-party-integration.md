@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Identify the spoke action that retrieves the desired third-party data.
 
-    You can find the list of available actions in the spoke documentation. If an action that performs the desired task does not exist, you can create your own action by copying an existing action and modifying it to suit your needs. You can find an example of the custom spoke actions in [[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve Opportunities for use in the remote table definition]].
+    You can find the list of available actions in the spoke documentation. If an action that performs the desired task does not exist, you can create your own action by copying an existing action and modifying it to suit your needs. You can find an example of the custom spoke actions in [Create Salesforce spoke actions to retrieve Opportunities for use in the remote table definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-salesforce-spoke.md).
 
     **Note:** Data Stream Actions cannot be used with the remote table.
 
@@ -46,7 +46,7 @@ Role required: admin
 
     3.  Configure ACLs to revoke CREATE, WRITE, and DELETE access on the remote table for all users.
 
-5.  Configure the [[migration-lists|lists]], [[migration-forms|forms]], and fields that pull data from the remote table.
+5.  Configure the lists, forms, and fields that pull data from the remote table.
 
     Once the remote table is set up, you can access data using the GlideRecord interface.
 
@@ -58,8 +58,4 @@ Role required: admin
 
     For example, pull in account data from a third-party application using an import set. In the example provided, the Account \(customer\_account\) table has an Account Id column, which is populated with the Id of the account in the third-party application instance. This column is used as the foreign key to pull opportunities for the corresponding account on the third-party application instance.
 
-## Related
 
-- [[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve opportunities]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

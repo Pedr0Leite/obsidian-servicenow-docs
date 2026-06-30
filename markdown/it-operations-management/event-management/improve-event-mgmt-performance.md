@@ -14,7 +14,7 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # Enhance Event Management performance
 
-The [[c_EM|Event Management]] Accelerator plugin ensures that Event Management maintains performance at a high level. This plugin is optional.
+The Event Management Accelerator plugin ensures that Event Management maintains performance at a high level. This plugin is optional.
 
 ## Before you begin
 
@@ -79,6 +79,4 @@ Select the date and time to activate the plugin.
 
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
-## Related
 
-- [[c_EM|Event Management]]

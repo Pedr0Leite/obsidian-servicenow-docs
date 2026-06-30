@@ -15,13 +15,13 @@ breadcrumb: [Notifications, Working with Employee Slate capabilities, Employee S
 
 # Configure notifications for Employee Slate
 
-Configure the content, the trigger conditions, and the recipients for the 14 out-of-the-box notifications shipped with [[employee-slate-nowassist|Employee Slate for Now Assist]].
+Configure the content, the trigger conditions, and the recipients for the 14 out-of-the-box notifications shipped with Employee Slate for Now Assist.
 
 ## Before you begin
 
 Activate Employee Slate for Now Assist in the instance.
 
-Role required: admin or [[employee-slate-landing-page|Employee Slate]] administrator.
+Role required: admin or Employee Slate administrator.
 
 ## About this task
 
@@ -31,7 +31,7 @@ Each notification has a content template, an icon, a set of trigger conditions, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Portal Notifications**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Portal Notifications**.
 
     The page lists the 14 out-of-the-box notifications shipped for Employee Slate for Now Assist.
 
@@ -39,7 +39,7 @@ Each notification has a content template, an icon, a set of trigger conditions, 
 
     The notification folder holds the content template, the icon, the trigger conditions, and the recipient list.
 
-3.  Edit the content under **[[ec-notification-content|Notification content]]**.
+3.  Edit the content under **Notification content**.
 
     Declare the sentences that appear when the notification fires. Use short sentences and active voice.
 
@@ -55,7 +55,7 @@ Each notification has a content template, an icon, a set of trigger conditions, 
 
     The recipient list resolves at run time and identifies the employees who receive the notification.
 
-7.  Open the logs table to review notification [[activity-lxp|activity]].
+7.  Open the logs table to review notification activity.
 
     The logs table records every notification sent and the state for each recipient: new, viewed, or open.
 
@@ -72,10 +72,3 @@ Each notification has a content template, an icon, a set of trigger conditions, 
 
 Employees view the configured notifications in the bell tray with the chosen content, icon, and recipient scope. Group updates collapse into one entry. The bulk mark-as-read action clears the tray. The logs table records the activity for review.
 
-## Related
-
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-notification-content|Notification content]]
-- [[activity-lxp|Activity]]

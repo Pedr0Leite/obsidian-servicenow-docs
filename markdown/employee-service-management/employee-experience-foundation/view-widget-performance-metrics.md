@@ -30,7 +30,7 @@ The **Performance Details** window provides comprehensive tracking of each widge
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Select the clock icon to open the **Performance details** window.
 
@@ -67,6 +67,3 @@ The **Performance Details** window provides comprehensive tracking of each widge
 
 **Parent Topic:**[Managing portal performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/improve-manage.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

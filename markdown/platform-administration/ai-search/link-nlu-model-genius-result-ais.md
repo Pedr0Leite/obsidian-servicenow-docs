@@ -22,13 +22,13 @@ Role required: ais\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Query Settings** &gt; **[[genius-results-ais|Genius Results]]**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Genius Results**.
 
 2.  Open the Genius Result configuration that you want to link an NLU model to.
 
 3.  In the NLU Model related list, select **Link Existing**.
 
-4.  On the [[gr-cfg-nlu-model-mapping-ais|AI Search Genius Result Configuration NLU Model Mapping form]], fill in the fields.
+4.  On the AI Search Genius Result Configuration NLU Model Mapping form, fill in the fields.
 
 5.  Select **Submit**.
 
@@ -43,8 +43,3 @@ For an NLU trigger condition to function, the NLU model must be published. You c
 
 **Parent Topic:**[Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]
-- [[gr-cfg-nlu-model-mapping-ais|AI Search Genius Result Configuration NLU Model Mapping form]]

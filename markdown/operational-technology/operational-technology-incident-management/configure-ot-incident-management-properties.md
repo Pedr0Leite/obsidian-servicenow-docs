@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Set the system properties
 
-Set the system properties for the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application so that you can enable the incident properties as needed.
+Set the system properties for the Operational Technology Incident Management application so that you can enable the incident properties as needed.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Set the system properties for the [[operational-technology-incident-management-l
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Operational Technology Incident Management** &gt; **System Properties**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Operational Technology Incident Management** &gt; **System Properties**.
 
 2.  Enable the following properties as needed for your organization.
 
@@ -49,7 +49,7 @@ Property to close the open OT incident tasks when the related incident is closed
 
 </td><td>
 
-Property to [[create-a-child-ot-incident|create a child incident]] feature for the OT incident records.If you want to create a child incident for inciden records, set this field to **Yes**.
+Property to create a child incident feature for the OT incident records.If you want to create a child incident for inciden records, set this field to **Yes**.
 
 </td></tr><tr><td id="d50265e136">
 
@@ -73,8 +73,3 @@ Fields that are visible in the activity formatter.Add any additional fields need
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[create-a-child-ot-incident|Create a child incident]]

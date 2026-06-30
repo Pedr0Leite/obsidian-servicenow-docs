@@ -17,26 +17,15 @@ breadcrumb: [Key Management Framework, Encryption]
 Create and maintain Key Management components to customize and manage how cryptographic operations are performed on your ServiceNow instance.
 
 -   **[Assign Key Management Framework roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/assign-kmf-roles.md)**  
-Administrators with the [[security-admin-role|security\_admin role]] can assign Key Management Framework \(KMF\) admins, who in turn can assign other Key Management Framework roles.
+Administrators with the security\_admin role can assign Key Management Framework \(KMF\) admins, who in turn can assign other Key Management Framework roles.
 -   **[Configure field encryption settings to select key type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-field-encryption-settings.md)**  
-Configure your [[field-encryption|field encryption]] settings to use ServiceNow supplied keys or your own customer-supplied keys \(CSK\) for [[encryption-landing|encryption]] on the ServiceNow AI Platform.
+Configure your field encryption settings to use ServiceNow supplied keys or your own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform.
 -   **[Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md)**  
-[[create-cryptographic-module|Create a cryptographic module]] to define the mechanisms used for cryptographic operations. After you create the module, you [[create-crypto-spec|create a cryptographic specification]], where you define an algorithm for encryption and generates a key.
+Create a cryptographic module to define the mechanisms used for cryptographic operations. After you create the module, you create a cryptographic specification, where you define an algorithm for encryption and generates a key.
 -   **[Create a module access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-module-access-policy.md)**  
-Create module access [[ca-policies|policies]] to decide which [[users|users]] and scripts can access data encrypted by a cryptographic module.
+Create module access policies to decide which users and scripts can access data encrypted by a cryptographic module.
 -   **[Create a cryptographic module life-cycle policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module-lifecycle-policy.md)**  
-[[create-cryptographic-module-lifecycle-policy|Create a cryptographic module life-cycle policy]] to place limits on cryptographic modules, such as how long the key is good for. Create policies to safeguard cryptographic modules by limiting their exposure.
+Create a cryptographic module life-cycle policy to place limits on cryptographic modules, such as how long the key is good for. Create policies to safeguard cryptographic modules by limiting their exposure.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[security-admin-role|Security\_admin role]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[create-cryptographic-module-lifecycle-policy|Create a cryptographic module life-cycle policy]]

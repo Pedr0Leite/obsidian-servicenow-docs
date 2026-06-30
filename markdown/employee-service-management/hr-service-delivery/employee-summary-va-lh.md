@@ -20,16 +20,16 @@ Activate and use the Employee Summary Virtual Agent topic to access employee con
 
 To access and use the Employee Summary reports topic, the following plugin must me activated:
 
--   [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] \(sn\_hr\_gen\_ai\)
+-   Now Assist for HR Service Delivery \(HRSD\) \(sn\_hr\_gen\_ai\)
 
 The following plugins are optional:
 
 -   Employee Connections \(sn\_ecn\)
--   [[egd-activities-conversations-module|Career Conversations]] \(sn\_egd\_act\)
--   [[exploring-learning-exp|Learning]] \(sn\_lep\)
--   [[learning-core_overview|Learning Core]] \(sn\_lc\)
--   [[manager-hub-overview|Manager Hub]] \(sn\_mh\)
--   [[egd-goals-landing|Employee Goals]] \(sn\_egd\_goals\)
+-   Career Conversations \(sn\_egd\_act\)
+-   Learning \(sn\_lep\)
+-   Learning Core \(sn\_lc\)
+-   Manager Hub \(sn\_mh\)
+-   Employee Goals \(sn\_egd\_goals\)
 
 Role required: admin
 
@@ -54,11 +54,3 @@ Role required: admin
 
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]
-- [[manager-hub-overview|Manager Hub]]
-- [[egd-goals-landing|Employee Goals]]

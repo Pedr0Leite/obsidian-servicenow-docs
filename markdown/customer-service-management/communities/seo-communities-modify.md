@@ -22,7 +22,7 @@ Role required: sp\_admin
 
 ## About this task
 
-The source code for this example question page \(ID **community\_question**\) shows the **description** meta tag \(highlighted in yellow\) that the [[servicenow-communities|Communities]] application injected into the page.
+The source code for this example question page \(ID **community\_question**\) shows the **description** meta tag \(highlighted in yellow\) that the Communities application injected into the page.
 
 \[Omitted image "seo-question-page.png"\] Alt text: Community question page example about a router overheating after a firmware upgrade with options for the Community to subscribe to, reply to, or upvote this question.
 
@@ -89,6 +89,3 @@ In addition to the **description** meta tag for a question page, the Communities
 
 **Parent Topic:**[Community pages that support SEO data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-seo-data.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

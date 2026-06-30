@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Service Observability template variables
 
-Understand the template variables that you can use in your queries when editing [[service-observability|Service Observability]] [[otto-aiops-dashboards|dashboards]] and charts.
+Understand the template variables that you can use in your queries when editing Service Observability dashboards and charts.
 
 You can use the following template variables in your query. Variables enable the query to be used for multiple services, hosts, and database instances, as well as for the time period currently selected for the dashboard.
 
@@ -60,7 +60,3 @@ SELECT average(convert(apm.service.transaction.duration, unit, 'ms')) as metricV
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

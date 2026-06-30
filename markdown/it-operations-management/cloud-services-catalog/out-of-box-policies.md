@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Out Of Box Policies
 
-The [[csc-home|Cloud Services Catalog]] Out of the Box Policies comprise Approval, Naming, Lease and Quota Provisioning Policies.
+The Cloud Services Catalog Out of the Box Policies comprise Approval, Naming, Lease and Quota Provisioning Policies.
 
 <table id="simpletable_mj5_24y_nxb"><thead><tr><th>
 
@@ -59,6 +59,3 @@ Quota Policy is used to decide if a request which is run once quota is exceeded,
 </td></tr></tbody>
 </table>**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

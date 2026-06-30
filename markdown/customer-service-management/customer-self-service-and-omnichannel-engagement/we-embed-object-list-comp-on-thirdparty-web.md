@@ -14,11 +14,11 @@ breadcrumb: [Object list component, Configure web components, Web Embeddables, S
 
 # Embed the Object list component on the third-party website
 
-Embed the global code and component code of the [[we-object-list-comp|Object list component]] that you configured in your instance so that you can enable your customers to start using the component on your third-party website.
+Embed the global code and component code of the Object list component that you configured in your instance so that you can enable your customers to start using the component on your third-party website.
 
 ## Before you begin
 
-You must [[we-config-object-list-comp|configure the Object list component instance]]. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
+You must configure the Object list component instance. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Object list component instance appears on your third-party website.
 
-## Related
-
-- [[we-object-list-comp|Object list component]]
-- [[we-config-object-list-comp|Configure the Object list component instance]]

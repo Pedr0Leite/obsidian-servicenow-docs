@@ -29,7 +29,7 @@ The following items are installed with Advanced Approval Management:
 -   Tables
 -   Scheduled jobs
 
-For more information, see [[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]].
+For more information, see [Components installed with Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-advanced-approval-management-for-sales.md).
 
 ## Procedure
 
@@ -49,26 +49,19 @@ For more information, see [[components-installed-advanced-approval-management-fo
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
 
 ## What to do next
 
-[[create-approval-configuration|Create an approval configuration]]
+[Create an approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-configuration.md)
 
 **Related topics**  
 
 
-[[using-advanced-approval-management|Using Advanced Approval Management]]
+[Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 
-[[explore-advanced-approval-for-sales|Advanced Approval Management]]
+[Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-advanced-approval-for-sales.md)
 
-## Related
-
-- [[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]]
-- [[create-approval-configuration|Create an approval configuration]]
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[use-cases|Use cases]]

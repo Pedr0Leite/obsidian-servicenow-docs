@@ -14,7 +14,7 @@ breadcrumb: [Requesting translations in Localization Workspace, Localization Wor
 
 # Request translations in Localization Workspace: Types
 
-Add content types to a translation request in [[localization-workspace|Localization Workspace]]. Your translation request can include multiple types of documents from tables across your instance.
+Add content types to a translation request in Localization Workspace. Your translation request can include multiple types of documents from tables across your instance.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The following procedure covers step number two in the Translation Request wizard
 
 Advance to the third step in the wizard, **Scope**, where you can select specific documents for inclusion.
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]

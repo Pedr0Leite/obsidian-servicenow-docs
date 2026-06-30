@@ -18,7 +18,7 @@ Space Management helps workplace users find and book a desk near their team memb
 
 ## Enhanced space administration
 
-The [[workplace-space-mgmt-ovw|Workplace Space Management]] application is an enhanced and upgraded version of the existing Space administration module that is available in the ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application. While you have a complete access to the Workplace Core application, the Workplace Space Management application in addition enables you to perform workplace-related forms in the Space Management view.
+The Workplace Space Management application is an enhanced and upgraded version of the existing Space administration module that is available in the ServiceNow® Workplace Core application. While you have a complete access to the Workplace Core application, the Workplace Space Management application in addition enables you to perform workplace-related forms in the Space Management view.
 
 
 
@@ -33,7 +33,7 @@ Apart from the features provided by Workplace Core, the Workplace Space Manageme
 -   Use all space administration-related actions available in the Workplace Core application.
 -   Specify the measurement details of a location such as the measuring unit and size of a space.
 -   Assign a cost center or department to a space.
--   [[assign-a-flex-perm-space|Configure a workspace or desk as flexible or permanent]].
+-   Configure a workspace or desk as flexible or permanent.
 -   Configure a space type as usable.
 -   Update or recalculate a workplace location's total and usable size whenever there are changes.
 -   View the reason for anomalies caused in a workplace profile.
@@ -42,7 +42,7 @@ For more information about each feature, refer to [Managing workplace locations]
 
 ## Optimize spaces by planning scenarios
 
-[[install-workplace-central|Install Workplace Central]] application to use the [[space-optimization|Space optimization]] feature that helps you plan scenario to your allocate spaces, change user assignment and make other space-related changes in an efficient way. Perform [[scenario-planning|scenario planning]] using stack plans and a floor map view. For more information about [[workplace-central-feat|Workplace Central]] - Space optimization, refer to [Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md).
+Install Workplace Central application to use the Space optimization feature that helps you plan scenario to your allocate spaces, change user assignment and make other space-related changes in an efficient way. Perform scenario planning using stack plans and a floor map view. For more information about Workplace Central - Space optimization, refer to [Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md).
 
 ## Use Workplace Core features
 
@@ -64,12 +64,3 @@ You can categorize the locations in your organization based on cost center, depa
 
 **Parent Topic:**[Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/workplace-space-mgmt-ovw.md)
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[assign-a-flex-perm-space|Configure a workspace or desk as flexible or permanent]]
-- [[install-workplace-central|Install Workplace Central]]
-- [[space-optimization|Space Optimization]]
-- [[scenario-planning|Scenario Planning]]
-- [[workplace-central-feat|Workplace Central]]

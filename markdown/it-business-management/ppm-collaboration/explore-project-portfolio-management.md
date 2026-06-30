@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 # Explore Project Portfolio Management
 
-Learn more about [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) with a sample workflow and review the benefits it can provide for different users in your organization.
+Learn more about Project Portfolio Management \(PPM\) with a sample workflow and review the benefits it can provide for different users in your organization.
 
 ## Project Portfolio Management overview
 
@@ -35,13 +35,13 @@ The project manager \(project\_manager role\) includes all the manager roles for
 |Manage projects, tasks, and resources.|[Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectApplicationOverview.md)|Project Manager, Project Team|
 |Manage programs, the projects under a program and its tasks.|[Program Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagement.md)|Program Manager|
 |Manage your projects and programs of different portfolios.|[Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagement.md)|Portfolio Manager|
-|Create [[c_ResourcePlans|resource plans]] and [[t_RequestResourcePlanApproval|request resources]].|[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)|Resource Manager|
+|Create resource plans and request resources.|[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)|Resource Manager|
 |Track time on a daily basis against tasks|[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)| |
 |Gain visibility into the status and health of programs, projects, and demands.|[Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md)|Project, Program, or Portfolio Manager or Business stakeholder|
 
 ## Integration with Digital Portfolio Management
 
-Digital [[c_PortfolioManagement|Portfolio Management]] \(DPM\) provides a unified workspace for owners to view and collectively manage their services and applications through the full life cycle. Installing DPM and Project Portfolio Management enables the integration with [[c_ProjectApplicationOverview|Project Management]] and [[c_DemandManagement|Demand Management]]. With this integration, DPM managers can view project data that may impact a business application and create demands on a business application in DPM.
+Digital Portfolio Management \(DPM\) provides a unified workspace for owners to view and collectively manage their services and applications through the full life cycle. Installing DPM and Project Portfolio Management enables the integration with Project Management and Demand Management. With this integration, DPM managers can view project data that may impact a business application and create demands on a business application in DPM.
 
 For more information, see [Exploring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/dpm-explore-cfw.md).
 
@@ -60,19 +60,9 @@ Domain separation provides complete data isolation for domain-specific users. Pr
 -   **[PPM Standard \(Project Portfolio Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuiteWithFinancials.md)**  
 The ServiceNow® PPM Standard, earlier known as Project Portfolio Suite with Financials, application integrates Financial Management and Project Portfolio Management.
 -   **[Test Management 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/r_TestManagementIntegrationWithPPS.md)**  
-[[r_TestManagementIntegrationWithPPS|Test Management 2.0 integration with Project Portfolio Management]] enables you to carry out testing activities on projects.
+Test Management 2.0 integration with Project Portfolio Management enables you to carry out testing activities on projects.
 -   **[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)**  
-Project Portfolio Management leverages the [[agile-landing-page|Agile Development 2.0]] application to combine the Scrum methodology with project-based IT development.
+Project Portfolio Management leverages the Agile Development 2.0 application to combine the Scrum methodology with project-based IT development.
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_TestManagementIntegrationWithPPS|Test Management 2.0 integration with Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]

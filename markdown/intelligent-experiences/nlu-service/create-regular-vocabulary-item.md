@@ -18,7 +18,7 @@ Add a word or phrase that your users might use, and match that vocabulary item t
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
 
@@ -63,6 +63,3 @@ To deploy your new vocabulary item, train and publish your model again.
 
 Add more vocabulary items to improve model coverage and accuracy.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

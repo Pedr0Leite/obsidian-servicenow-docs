@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Generate [[c_MetricTypesAndAssessableRecords|assessable records]] you want to evaluate.
+1.  Generate [assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md) you want to evaluate.
 
     For example, you might create a metric type called **Project** to assess project management records.
 
@@ -50,12 +50,12 @@ Role required: assessment\_admin or admin
 
     The scorecard appears with the title in the form of `**&lt;table display name&gt;**` **Scorecard**. For example, a scorecard for an assessable record in the Project `[pm_project]` table is named **Project Scorecard**.
 
-    **Note:** Content does not appear in the scorecard unless the associated assessable record has [[r_AssessmentResults|assessment results]] or related Live Feed conversations.
+    **Note:** Content does not appear in the scorecard unless the associated assessable record has assessment results or related Live Feed conversations.
 
 9.  Insert a new **View Scorecard** UI action record for each table where you want the related link to appear.
 
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -74,8 +74,3 @@ Role required: assessment\_admin or admin
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[r_AssessmentResults|Assessment results]]

@@ -55,7 +55,7 @@ Create and update a work set standard or create a copy of a published or retired
 -   **[Execute a work set task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/execute-work-set-task.md)**  
 Run a work set task to complete all sub-activities of the underlying work set standard as part of one guided flow.
 -   **[Publish a work set standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/publish-work-set-standard.md)**  
-[[create-work-set-standard|Create a work set standard]], add sub-activities, and request approval to publish it so that line leaders and operators can run it on the shop floor.
+Create a work set standard, add sub-activities, and request approval to publish it so that line leaders and operators can run it on the shop floor.
 
 **Parent Topic:**[Using Industrial Standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-standards.md)
 
@@ -74,6 +74,3 @@ Run a work set task to complete all sub-activities of the underlying work set st
 
 [Work set sub-activity form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-sub-activity-form.md)
 
-## Related
-
-- [[create-work-set-standard|Create a work set standard]]

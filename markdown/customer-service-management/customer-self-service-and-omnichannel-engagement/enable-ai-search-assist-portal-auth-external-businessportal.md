@@ -20,7 +20,7 @@ Enable the AI Search Assist to search knowledge articles in the Business and Con
 
 Role required: Authenticated external users with snc\_external role
 
-[[t_ActivateCustomerService|Activate Customer Service Management]]
+[Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md)
 
 You must configure AI Search for the Business and Consumer Portal. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-ais-sp.md).
 
@@ -46,6 +46,3 @@ Role required: admin
 
 **Parent Topic:**[AI Search Assist for authenticated external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/enable-ai-search-for-business-portal-auth-external.md)
 
-## Related
-
-- [[t_ActivateCustomerService|Activate Customer Service Management]]

@@ -40,7 +40,7 @@ Human Resources Scoped App: Security\[com.snc.hr.scoped\_security\]
 
 </td><td>
 
-Provides [[hr-security|HR security]].
+Provides HR security.
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Human Resources Scoped App: Integrations\[com.sn\_hr\_integrations\]
 
 </td><td>
 
-Provides [[scoped-hr-third-party-integrations|HR Integrations]].
+Provides HR Integrations.
 
 </td></tr></tbody>
 </table>## Procedure
@@ -73,7 +73,3 @@ Provides [[scoped-hr-third-party-integrations|HR Integrations]].
 
 [Components installed with Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-case-and-knowledge-management.md)
 
-## Related
-
-- [[hr-security|HR security]]
-- [[scoped-hr-third-party-integrations|HR Integrations]]

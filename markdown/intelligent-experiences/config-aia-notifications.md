@@ -16,13 +16,13 @@ Add or change recipients to email notifications triggered by unexpected or undes
 
 ## Before you begin
 
-Set your application scope to [[na-ai-agents|Now Assist AI Agents]].
+Set your application scope to Now Assist AI Agents.
 
 Role required: admin
 
 ## About this task
 
-There are different email notifications that can be configured: one for Assist usage spikes, one for failed AI agent executions, and two for latency errors. The properties for configuring the thresholds for sending these notifications can be found in the [[na-aia-reference|Now Assist AI Agents Reference]].
+There are different email notifications that can be configured: one for Assist usage spikes, one for failed AI agent executions, and two for latency errors. The properties for configuring the thresholds for sending these notifications can be found in the [Now Assist AI Agents Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-aia-reference.md).
 
 ## Procedure
 
@@ -55,7 +55,3 @@ The specified users or groups can now receive notifications for a specific trigg
 
 Repeat for any other AI agent alert notifications you want to configure.
 
-## Related
-
-- [[na-aia-reference|Now Assist AI agents reference]]
-- [[na-ai-agents|Now Assist AI agents]]

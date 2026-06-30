@@ -34,9 +34,9 @@ The Service offering \(SO1\) is related to the Business process \(BP1\) and Serv
 
 BP2 has a dependency on PS Apache02. AS1 has a dependency on AS2 and AS2 has a dependency on PS Apache03.
 
-**Note:** When you set up the Main node configurations, you must ensure that the entities are set up in [[grc-opres-landing-page|Operational Resilience]]. Only when these entities exist, relationships can be established between the CSDM objects and then data is brought into Operational Resilience for reporting.
+**Note:** When you set up the Main node configurations, you must ensure that the entities are set up in Operational Resilience. Only when these entities exist, relationships can be established between the CSDM objects and then data is brought into Operational Resilience for reporting.
 
-The **Applies to** field in a [[bia-uib|business impact analysis]] \(BIA\) shows the object that has the dependency. The example shows that the business process \(BP1\) has Acer as a dependency.
+The **Applies to** field in a business impact analysis \(BIA\) shows the object that has the dependency. The example shows that the business process \(BP1\) has Acer as a dependency.
 
 \[Omitted image "bp1.png"\] Alt text: Applies to field.\[Omitted image "bp2.png"\] Alt text: Dependency.
 
@@ -48,7 +48,7 @@ All the CMDB relationships, as shown in the example, are maintained in the CI re
 
 \[Omitted image "ci-rel-table.png"\] Alt text: CI relationships \[cmdb\_rel\_ci\] table.
 
-To bring these relationships into Operational Resilience, you must use the Main node configurations. For more information, see [[set-up-main-node|Configure the Main node configurations]].
+To bring these relationships into Operational Resilience, you must use the Main node configurations. For more information, see [Configure the Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-main-node.md).
 
 You can establish the following relationships between objects such as business services, service offerings, and business processes.
 
@@ -93,14 +93,7 @@ Business processes
 </td></tr></tbody>
 </table>The same relationship can be applied and used on multiple forms. For example, the business process relationship can be used on both Business service and Service offering forms.
 
-For information on the Main node configurations, see [[main-node-relationship-fw|Main node configurations: A component of the Data Relationships Framework]].
+For information on the Main node configurations, see [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
-**Parent Topic:**[[node-relationship-configurations|Node relationship configurations]]
+**Parent Topic:**[Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/node-relationship-configurations.md)
 
-## Related
-
-- [[set-up-main-node|Configure the Main node configurations]]
-- [[main-node-relationship-fw|main node relationship fw]]
-- [[node-relationship-configurations|Node relationship configurations]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[bia-uib|Business impact analysis]]

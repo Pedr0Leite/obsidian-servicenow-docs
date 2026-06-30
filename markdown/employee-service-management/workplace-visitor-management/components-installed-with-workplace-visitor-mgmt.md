@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Components installed with Workplace Visitor Management
 
-Several types of components are installed with the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application, including tables, user roles, and business rules.
+Several types of components are installed with the Workplace Visitor Management application, including tables, user roles, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -61,7 +61,7 @@ Workplace visitors manager\[sn\_wsd\_visitor.manager\]
 As a manager, you can:-   Perform all actions of a Visitor staff.
 -   Create, review and assign visitor policies that a visitor must accept before visiting the location.
 -   View, manage, and update visitor registrations.
--   View the [[visitor-reception-dashboard|Visitor Reception Dashboard]].
+-   View the Visitor Reception Dashboard.
 -   Register visitors.
 
 </td><td>
@@ -129,7 +129,7 @@ Stores information about all the visitors who have visited. An employee can reus
 
 </td></tr><tr><td>
 
-[[register-visitors|Visitor Registration]]\[sn\_wsd\_visitor\_visitor\_registration\]
+Visitor Registration\[sn\_wsd\_visitor\_visitor\_registration\]
 
 </td><td>
 
@@ -177,11 +177,11 @@ Stores information about all the invitations and the linked visit records.
 
 </td></tr><tr><td>
 
-Kiosk [[page-configurations|Page Configurations]]\[sn\_wsd\_visitor\_page\_configuration\]
+Kiosk Page Configurations\[sn\_wsd\_visitor\_page\_configuration\]
 
 </td><td>
 
-Stores information about the pages created for [[workplace-services-kiosk|Workplace Services Kiosk]].
+Stores information about the pages created for Workplace Services Kiosk.
 
 </td></tr><tr><td>
 
@@ -245,10 +245,3 @@ Store information about the next steps added to an end page configuration.
 
 [Additional requirement form]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[visitor-reception-dashboard|Visitor Reception Dashboard]]
-- [[register-visitors|Visitor registration]]
-- [[page-configurations|Page configurations]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

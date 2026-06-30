@@ -40,13 +40,10 @@ When the configuration for an HR service or HR task template has checklists, the
 
     Create an HR task with **Checklist** for the **HR Task Type**. See .
 
-    Go to the legacy HR [[case-management-workspace|Case Management]] and open the task you created.
+    Go to the legacy HR Case Management and open the task you created.
 
     From the **Fulfillment Instructions** tab, create your checklist.
 
 
 **Note:** These types of checklists are a one-time use and only appears for the specific case or task.
 
-## Related
-
-- [[case-management-workspace|Case management]]

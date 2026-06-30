@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**.
 
     -   **Assigned to me:** All cases assigned to the logged-in user.
     -   **Open:** All open cases.
@@ -32,12 +32,12 @@ Role required: sn\_hr\_core.case\_reader
     -   **Case SLAs:** All cases with SLAs.
     You can also view cases by HR service.
 
-    -   **[[hr-case-employee-relations|Employee Relations]] Cases**: All cases related to disciplinary issues.
+    -   **Employee Relations Cases**: All cases related to disciplinary issues.
     -   **HRIT Cases**: All cases related to HR accounts, password reset, HR Portal support, and HR reports.
     -   **Payroll Cases**: All cases related to direct deposit, payroll discrepancy, and request corporate credit card.
     -   **Total Rewards Cases**: All cases related to medical, dental, retirement, beneficiaries, leave of absence, pharmacy, relocation, vision, and tuition reimbursement.
     -   **Workforce Administration Cases**: All cases related to employment verification letters and general inquiries.
-    -   **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]] Cases**: Cases related to Onboarding or Account Notification.
+    -   **Lifecycle Events Cases**: Cases related to Onboarding or Account Notification.
 2.  Select the case to view.
 
 3.  Select a button.
@@ -45,7 +45,7 @@ Role required: sn\_hr\_core.case\_reader
     Depending on the case, different options are visible at the top.
 
     -   **Discuss**: Opens a sidebar discussion where agents can discuss the case with users who have access to the record.
-    -   **Follow**: Track [[activity-lxp|activity]] on the case or follow a record in Connect Chat to track activity as it happens. For more information, see [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_StartARecordConversation.md).
+    -   **Follow**: Track activity on the case or follow a record in Connect Chat to track activity as it happens. For more information, see [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_StartARecordConversation.md).
     -   **Update**: Save and update the record. Takes you back to the list form.
     -   **Suspend**: Suspends an HR case that does not have a state of closed or canceled. You can suspend the timing specified in the service level agreement \(SLA\) to perform additional research.
     -   **Cancel**: Cancels the case.
@@ -61,9 +61,3 @@ Role required: sn\_hr\_core.case\_reader
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

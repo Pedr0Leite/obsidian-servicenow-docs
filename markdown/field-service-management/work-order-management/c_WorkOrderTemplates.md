@@ -16,9 +16,9 @@ breadcrumb: [Work orders, Set up work orders and tasks, Configure, Field Service
 
 Work order templates allow you to quickly create well-defined work orders.
 
-These templates automatically create tasks and [[c_PartRequirements|part requirements]] on work orders for common activities, such as password reset or memory upgrades. Work order templates and work order task templates are added to the product catalog when the [[fsm-application-landing-page|Field Service Management]] plugin is activated.
+These templates automatically create tasks and part requirements on work orders for common activities, such as password reset or memory upgrades. Work order templates and work order task templates are added to the product catalog when the Field Service Management plugin is activated.
 
-You can enable the [[customizations|advanced configurations]] for work order templates by activating the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\). Activation of this plugin adds the source table mapping, attribute mapping, work order task templates, and work order templates to the product catalog that helps configure the template to work dynamically. For more information, see [Configuring Template Management for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/enabling-advanced-configurations-for-wo-template.md).
+You can enable the advanced configurations for work order templates by activating the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\). Activation of this plugin adds the source table mapping, attribute mapping, work order task templates, and work order templates to the product catalog that helps configure the template to work dynamically. For more information, see [Configuring Template Management for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/enabling-advanced-configurations-for-wo-template.md).
 
 Users with the wm\_admin or model\_manager role can create, edit, and delete work order templates and work order task templates.
 
@@ -57,8 +57,3 @@ The steps for setting up work order templates are:
 
 [Assign a knowledge article to a work order or work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-knowledge-workorder.md)
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[customizations|Advanced configurations]]

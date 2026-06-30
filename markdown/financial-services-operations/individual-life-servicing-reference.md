@@ -14,15 +14,10 @@ breadcrumb: [Individual Life Servicing, Life Insurance Servicing, Insurance appl
 
 Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the Individual Life Servicing application.
 
--   **[[components-installed-individual-life-servicing|Components installed with Individual Life Servicing]]**  
+-   **[Components installed with Individual Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-individual-life-servicing.md)**  
 Several types of components are installed with activation of the Individual Life Servicing plugin, including tables and user roles.
--   **[[components-installed-with-individual-life-underwriting|Components installed with Individual Life Underwriting]]**  
+-   **[Components installed with Individual Life Underwriting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-individual-life-underwriting.md)**  
 Several types of components are installed with activation of the Individual Life Underwriting plugin, including tables and user roles.
 
-**Parent Topic:**[[individual-life-servicing|Individual Life Servicing]]
+**Parent Topic:**[Individual Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/individual-life-servicing.md)
 
-## Related
-
-- [[components-installed-individual-life-servicing|Components installed with Individual Life Servicing]]
-- [[components-installed-with-individual-life-underwriting|Components installed with Individual Life Underwriting]]
-- [[individual-life-servicing|Individual Life Servicing]]

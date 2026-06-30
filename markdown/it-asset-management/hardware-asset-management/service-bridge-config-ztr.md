@@ -14,7 +14,7 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Service Exchange configuration for Zero Touch Refresh
 
-The [[zero-touch-asset-refresh|Zero Touch Refresh]] flow uses the Service Exchange application to connect providers with your ServiceNow instance to manage asset refresh requests. Your employees and the provider can work on requests in their own environments.
+The Zero Touch Refresh flow uses the Service Exchange application to connect providers with your ServiceNow instance to manage asset refresh requests. Your employees and the provider can work on requests in their own environments.
 
 ## Service Exchange setup for providers
 
@@ -34,6 +34,3 @@ Perform the following setup to communicate the details of Zero Touch Refresh req
 1.  [Install Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/install-service-bridge-v2-customer.md).
 2.  [Activate the remote task definitions published by the provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/activate-rtd-for-customers.md).
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

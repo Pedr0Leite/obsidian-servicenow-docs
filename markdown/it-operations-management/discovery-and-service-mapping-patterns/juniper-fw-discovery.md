@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Next-Generation Juniper Network Firewall discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Next-Generation Juniper Network Firewall discovery pattern to find Juniper network firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Next-Generation Juniper Network Firewall discovery pattern to find Juniper network firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The discovery pattern uses a set of SNMP calls to find the Juniper network firewalls. Discovery uses the pattern to run horizontal discovery.
 
@@ -124,7 +124,7 @@ The discovered data includes the following tables and fields.
 |MAC Address \[mac\_address\]|MAC address of the network adapter.|
 |Configuration Item \[cmdb\_ci\]|References the Juniper Firewall Device \[cmdb\_ci\_firewall\_device\_juniper\] associated with this network adapter.|
 
-The [[dependency-views-map|Dependency Views map]] on the Juniper Firewall Device CI shows the Juniper Firewall Cluster to which it belongs.
+The Dependency Views map on the Juniper Firewall Device CI shows the Juniper Firewall Cluster to which it belongs.
 
 \[Omitted image "juniper-fw-dependency-views.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -152,8 +152,3 @@ The Next-Generation Juniper Network Firewall pattern creates the following relat
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

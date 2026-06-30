@@ -72,7 +72,7 @@ Public Client
 
 </td><td>
 
-Option to indicate whether the application is publicly accessible. Examples of public clients include mobile apps, web [[dex-workspace-application-tab|applications]], and JavaScript-based applications.
+Option to indicate whether the application is publicly accessible. Examples of public clients include mobile apps, web applications, and JavaScript-based applications.
 
 </td></tr><tr><td>
 
@@ -135,6 +135,3 @@ Refers to the default method used by an OAuth 2.0 authorization server to grant 
 
 **Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

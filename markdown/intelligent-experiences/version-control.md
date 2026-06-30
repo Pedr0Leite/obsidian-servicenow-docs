@@ -26,9 +26,9 @@ You can create a version by selecting **View versions** &gt; **New version** in 
 
 You can choose to make the new version active immediately by selecting the **Set as active** toggle.
 
-For more information about writing effective descriptions and instructions, see [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]].
+For more information about writing effective descriptions and instructions, see [General guidelines for creating AI agents and agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/gg-creating-aia.md).
 
-When creating a new version, you also have the option to use [[platform-now-assist-landing|Now Assist]] to refine your current **List of steps**. You must already have an active version for this option to be available. Selecting **View versions** &gt; **Refine version** brings up the modal where Now Assist generates and displays a new **List of steps** for you to review. You can change any of the generated text, or you can use it as it was generated. Select **Create** to use the new, refined version.
+When creating a new version, you also have the option to use Now Assist to refine your current **List of steps**. You must already have an active version for this option to be available. Selecting **View versions** &gt; **Refine version** brings up the modal where Now Assist generates and displays a new **List of steps** for you to review. You can change any of the generated text, or you can use it as it was generated. Select **Create** to use the new, refined version.
 
 \[Omitted image "version-create.png"\] Alt text: Create a new version modal
 
@@ -36,13 +36,13 @@ When creating a new version, you also have the option to use [[platform-now-assi
 
 When you have multiple versions of the same **List of steps** field, you can switch which one is active at any time. Choosing to make a new version active enables you to test it and evaluate its effectiveness.
 
-If you’re updating an agentic workflow, you can [[execute-aia-eval|execute an agentic evaluation run]] to measure performance.
+If you’re updating an agentic workflow, you can [execute an agentic evaluation run](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md) to measure performance.
 
 You can decide which version is active by selecting **View versions** in the guided setup. Toggle the **Set as active** field and save your changes to make the new version active.
 
 ## Testing different versions
 
-You can test different versions of an agentic workflow or AI agent from the [[ai-agent-studio|AI Agent Studio]] **Testing** page. The **Version** selector dropdown displays both active and inactive versions with the currently active version marked as **\(Active\)**. You can also start evaluation runs for specific versions by selecting **Set up evaluation run**.
+You can test different versions of an agentic workflow or AI agent from the AI Agent Studio **Testing** page. The **Version** selector dropdown displays both active and inactive versions with the currently active version marked as **\(Active\)**. You can also start evaluation runs for specific versions by selecting **Set up evaluation run**.
 
 \[Omitted image "version-test.png"\] Alt text: Testing page in AI Agent Studio with a workflow and a version selected
 
@@ -54,9 +54,3 @@ When viewing the **Activity** tab at any time, you can choose to filter by versi
 
 \[Omitted image "ais-activity-versions.png"\] Alt text: Activity page of AI Agent Studio with the versions column highlighted
 
-## Related
-
-- [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]

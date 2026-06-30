@@ -12,28 +12,20 @@ breadcrumb: [Developer resources, Financial Services Operations \(FSO\)]
 
 # Working with ServiceNow REST APIs
 
-[[fso-overview|Financial Services]] Operations \(FSO\) leverages the REST Table API to enable external sources, such as bank applications, to interact with the FSO data stored on a ServiceNow instance. The Table API provides endpoints that enable you to perform all CRUD operations \(create, read, update, and delete\) on your FSO centric tables from an external source.
+Financial Services Operations \(FSO\) leverages the REST Table API to enable external sources, such as bank applications, to interact with the FSO data stored on a ServiceNow instance. The Table API provides endpoints that enable you to perform all CRUD operations \(create, read, update, and delete\) on your FSO centric tables from an external source.
 
-For example, you will use this API to locate customer records and query specific FSO information, such as customer credit cards, payments, and loans. For additional information on the available tables within FSO, see [[financial-services-operations-core-data-model|Financial Services Operations Core]] and the [[fso-int_guide-table_defs|FSO table definitions]].
+For example, you will use this API to locate customer records and query specific FSO information, such as customer credit cards, payments, and loans. For additional information on the available tables within FSO, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md) and the [FSO table definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-table_defs.md).
 
 You must ensure that the user that you use when calling these REST endpoints has the required roles assigned to them. The following are the roles required based on the table that you are trying to access:
 
--   [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
+-   Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   Financial Services Card Operations: sn\_bom\_card.admin and admin
 -   Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
 
-For a list of all of the FSO roles and descriptions, see [[fso-core-roles|User roles and FSO Business rules]].
+For a list of all of the FSO roles and descriptions, see [User roles and FSO Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-roles.md).
 
 ## Test driving ServiceNow® REST APIs
 
 The ServiceNow platform provides the [REST API Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/use-REST-API-Explorer.md), which allows you to access the available REST APIs within your instance. Use this tool to interact with the various FSO tables within your instance before trying to implement the endpoint calls within your application.
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-int_guide-table_defs|FSO table definitions]]
-- [[fso-core-roles|User roles and FSO Business rules]]
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

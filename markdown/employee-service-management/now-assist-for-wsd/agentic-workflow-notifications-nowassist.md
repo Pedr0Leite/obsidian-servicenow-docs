@@ -35,7 +35,7 @@ Role required: now\_assist\_panel\_role, sn\_wsd\_rsv.reservation\_planner, sn\_
 
     For example, an emergency maintenance request is submitted and assigned to a user in the Workplace Event Planners assignment group. When an emergency meeting request is submitted, a workplace case task is created. For more information, see [Submit an emergency maintenance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-emergency-maint-request.md) and [View emergency maintenance case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-emergency-maint-case.md).
 
-    Workplace Event planners are notified by AI agents for blocking a location and moving an existing reservation from a blocked location to another. AI agents notifies the Workplace [[event-planner|Event planner]] user using the Now Assist panel and performs the following activities in the conversational interface:
+    Workplace Event planners are notified by AI agents for blocking a location and moving an existing reservation from a blocked location to another. AI agents notifies the Workplace Event planner user using the Now Assist panel and performs the following activities in the conversational interface:
 
     -   Contacts the Workplace Event planner user and summarizes the issue.
     -   AI agent asks the Workplace Event Planner the duration for which the space should be blocked \(unavailable\) during the maintenance period.
@@ -85,6 +85,4 @@ Role required: now\_assist\_panel\_role, sn\_wsd\_rsv.reservation\_planner, sn\_
     -   AI agents then provide case resolution notes and summarization for Workplace Event planners to review.
     The team of AI agents updates an existing reservation with a new date, time, or duration. AI agents notifies Workplace Event Planners using the Now Assist panel conversational interface about the changed date and time for a reservation. If the old location is not available for reservation, AI agents move the reservation with updated date and time to a new location. For more information, see [Help manage workplace reservations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/manage-workplace-reservations-agent-ai.md).
 
-## Related
 
-- [[event-planner|Event Planner]]

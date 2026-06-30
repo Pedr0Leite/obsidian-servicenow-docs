@@ -18,11 +18,11 @@ Validation, sanitization, and encoding addresses input validation to prevent aga
 
 This control ensures input validation and output encoding are in place and correctly configured, such as encoding or escaping output data. This category also includes checks for items such as deserialization of objects and positive validation through allow lists.
 
--   **[Allow HTML Links to Trusted Domains in the Description Fields of the Impact Workspace Module \[New in [[sec-center-v2|Security Center]] 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-allow-html-links-to-trusted-domains-in-the-description-fields-of-the-impact-workspace-module.md)**  
+-   **[Allow HTML Links to Trusted Domains in the Description Fields of the Impact Workspace Module \[New in Security Center 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-allow-html-links-to-trusted-domains-in-the-description-fields-of-the-impact-workspace-module.md)**  
 Use a system property to help sanitize the HTML allowed in the descriptions fields. This property limits the allowed links to only those from the trusted domains listed in the property.
 -   **[Enable the hardened java security manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-the-hardened-java-security-manager.md)**  
 The **glide.security.manager** property contains the Java classname of the current Java security manager.
--   **[Enable [[c_HTMLSanitizer|HTML Sanitizer]] \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)**  
+-   **[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)**  
 Use the **glide.html.sanitize\_all\_fields** property to enable the HTMLSanitizer script include, which sanitizes HTML input based on exclusion listed and inclusion listed attributes configured in a script.
 -   **[Enforce HTML Sanitization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-check-unsanitized-html.md)**  
 Use the **com.glide.security.check\_unsanitized\_html** property to enforce sanitization behavior of translated\_html fields on a global level for field assignments.
@@ -47,11 +47,11 @@ Use the **glide.ui.jelly.js\_interpolation.protect** property to ensure that any
 -   **[Enable Jelly JS interpolation protection for nested expressions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-jelly-js-interpolation-protection-for-nested-expressions.md)**  
 Manage the interpolation protection on your instance.
 -   **[Enforce relative links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-relative-links.md)**  
-Use the **glide.cms.catalog\_uri\_relative** property to [[sc-enforce-relative-links|enforce relative links]] from the URI parameter on `/ess/catalog.do`.
+Use the **glide.cms.catalog\_uri\_relative** property to enforce relative links from the URI parameter on `/ess/catalog.do`.
 -   **[Enforce URL allowlist check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-url-allowlist-check.md)**  
 Use the **glide.security.url.whitelist** system property to add extra layer of validation to ensure whether any external URL introduced should be a part of inclusion listed URLs.
 -   **[Escape Excel Formulas \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-excel-formula.md)**  
-Use the **glide.[[export|export]].escape\_formulas** property to prevent Excel Injection, also, known as formula injection.
+Use the **glide.export.escape\_formulas** property to prevent Excel Injection, also, known as formula injection.
 -   **[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-html.md)**  
 Use the **glide.ui.escape\_html\_list\_field** property to force HTML escapes for HTML fields in a list view.
 -   **[Escape JavaScript \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-javascript.md)**  
@@ -65,7 +65,7 @@ Use the **glide.ui.escape\_text** property to force escape of XML values at the 
 -   **[Escape xml response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-xml-response.md)**  
 Manage how XML escapes are handled on your instance.
 -   **[Restrict access to GlideSystemUserSession scriptable API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-glidesystemusersession-scriptable-api.md)**  
-The client callable GlideSystemUserSessionSandbox scriptable API exposes GlideSystemUserSession's addErrorMessageNoSanitization and addInfoMessageNoSanitization methods to the JavaScript sandbox. This allows all [[users|users]] to call this method via script.
+The client callable GlideSystemUserSessionSandbox scriptable API exposes GlideSystemUserSession's addErrorMessageNoSanitization and addInfoMessageNoSanitization methods to the JavaScript sandbox. This allows all users to call this method via script.
 -   **[Restrict allowed Java packages \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-java-packages-allowlist.md)**  
 Configuring these properties protect from dangerous APIs being exposed to the scripting engine.
 -   **[Unset LDAP Initial distinguished name \[Updated in Security Center 1.3 and removed in 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-ldap-initial-distinguished-name.md)**  
@@ -77,13 +77,13 @@ Use the **glide.xmlutil.max\_entity\_expansion** property to change the maximum 
 -   **[Prevent Empty ACL Creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-prevent-empty-acl-creation.md)**  
 Set the **glide.security.empty\_acl.popup\_window.enabled** property to the secure value of true to block attempts to create, update, or save an invalid ACL. This setting will also provide a client-side model to configure a role or security attribute for the ACL.
 -   **[Prevent Reuse of REST API Sessions in UI/Web](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-prevent-reuse-of-rest-api-sessions-in-ui-web.md)**  
-Prevent REST API session cookies from bypassing Single Sign-On \(SSO\) and [[mfa-landing|Multi-Factor Authentication]] \(MFA\) controls using a system property.
+Prevent REST API session cookies from bypassing Single Sign-On \(SSO\) and Multi-Factor Authentication \(MFA\) controls using a system property.
 -   **[Define restricted downloadable MIME types \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-downloadable-mime-types.md)**  
 Use the **glide.ui.attachment.force\_download\_all\_mime\_types** property to download MIME types and not to render inline in the browser.
 -   **[Restrict uploaded MIME types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-upload-mime-type-restriction.md)**  
 Use the **glide.security.file.mime\_type.validation** property to activate MIME type checking for uploads. You can enable \(set the property to **true**\) or disable \(set it to **false**\) MIME type validation for file attachments.
 -   **[Restrict XML external entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-xml-entity-validation-url-allowlist.md)**  
-Configure [[ca-system-properties|system properties]] to ensure that your instance only processes XML from trusted sources to help prevent XML external entity \(XXE\) attacks.
+Configure system properties to ensure that your instance only processes XML from trusted sources to help prevent XML external entity \(XXE\) attacks.
 -   **[Require XMLdoc2 entity validation with allowlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-xmldoc2-entity-validation-with-entity-expansion.md)**  
 If customizations do not require entity expansion, use the **glide.xmlutil.max\_entity\_expansion** property to completely disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
 -   **[Sanitize All Translated HTML Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-sanitize-all-translated-html-fields.md)**  
@@ -97,12 +97,3 @@ Use a system property to prevent attachments from bypassing MIME-type restrictio
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[sc-enforce-relative-links|Enforce relative links]]
-- [[export|Export]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-system-properties|System properties]]

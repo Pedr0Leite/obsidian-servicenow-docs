@@ -14,7 +14,7 @@ breadcrumb: [Service Builder, IT Service Management]
 
 # Create a service in Service Builder
 
-Create a service in Service Builder to model, map, and document your own business and technology management services and offerings that relate to your data in [[SPM2-landing-page|Service Portfolio Management]].
+Create a service in Service Builder to model, map, and document your own business and technology management services and offerings that relate to your data in Service Portfolio Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: service\_admin, service\_author, portfolio\_admin, or portfolio\_
 
 ## About this task
 
-The [[service-builder|Service Builder]] framework offers you the option to create a business service or a technology management service. Once you select the type of service that you want to create, the workflow guides you through the process of adding information in a logical order:
+The Service Builder framework offers you the option to create a business service or a technology management service. Once you select the type of service that you want to create, the workflow guides you through the process of adding information in a logical order:
 
 1.  **Details**
 2.  **Team**
@@ -36,7 +36,7 @@ The [[service-builder|Service Builder]] framework offers you the option to creat
 
 1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Builder**.
 
-2.  From the [[dex-workspace-dashboard-tab|landing page]], select the type of service that you want to create: **Business** or **Technical**.
+2.  From the landing page, select the type of service that you want to create: **Business** or **Technical**.
 
 3.  Review the Getting Started screen, and then select **Continue**.
 
@@ -162,8 +162,4 @@ The business justification for the service. Some examples are how it reduces cos
 
 16. Select **Submit**.
 
-## Related
 
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[service-builder|Service Builder]]
-- [[dex-workspace-dashboard-tab|Landing page]]

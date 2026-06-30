@@ -12,11 +12,11 @@ breadcrumb: [Configuration items in cases, Case creation from security artifacts
 
 # Create a case from CIs
 
-You can create a security case from configuration items in the Configuration Item \[cmdb\_ci\] table. After the CIs have been used to create a new case, you can use [[case-mgmt|Security Case Management]] to analyze the data.
+You can create a security case from configuration items in the Configuration Item \[cmdb\_ci\] table. After the CIs have been used to create a new case, you can use Security Case Management to analyze the data.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use Security Case Management.
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -56,15 +56,10 @@ You need to navigate to the configuration items you want to use to create a case
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[[cases-from-cis|Configuration items in cases]]
+**Parent Topic:**[Configuration items in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-from-cis.md)
 
 **Related topics**  
 
 
 [Add CIs to existing cases]()
 
-## Related
-
-- [[cases-from-cis|Configuration items in cases]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]

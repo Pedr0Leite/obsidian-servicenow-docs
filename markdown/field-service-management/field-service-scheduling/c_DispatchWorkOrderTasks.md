@@ -14,7 +14,7 @@ breadcrumb: [Scheduling and dispatching, Use, Field Service Management]
 
 # Assigning work order tasks to agents manually
 
-When all of the work order tasks associated with a work order are qualified, you can dispatch the work order tasks. You can dispatch them from either the task form, the task map, or [[dispatcher-activities|Dispatcher Workspace]].
+When all of the work order tasks associated with a work order are qualified, you can dispatch the work order tasks. You can dispatch them from either the task form, the task map, or Dispatcher Workspace.
 
 When all of the associated work order tasks are qualified, the state of the parent work order changes to Qualified. If you have already [sourced parts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_SourceParts.md) and created [transfer order lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-transfer-order.md), then you are ready to begin dispatching the work order tasks to agents.
 
@@ -26,7 +26,7 @@ You can dispatch work order tasks to qualified work agents from these locations:
 -   [Task map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_DispatchWorkOrderTasks.md): Dispatch tasks to agents using a Google map with geolocation.
 -   Dispatcher Workspace: Dispatch tasks to agents using the drag-and-drop and auto-assign capabilities.
 
-**Note:** When [[dynamic-scheduling|dynamic scheduling]] is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [[r_InstalledWithFSM|system property]].
+**Note:** When dynamic scheduling is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md).
 
 ## Assign work order tasks to agents or crews from the dispatch queue
 
@@ -160,7 +160,7 @@ Auto-dispatch evaluates an agent's dispatch group, assignment group, location, o
 
 3.  If you need to assign the task to a crew, select the **Needs Crew** check box if it is not already selected.
 
-4.  If [[territory-planning-fsm|Field Service Territory Planning]] is enabled, perform the following steps.
+4.  If Field Service Territory Planning is enabled, perform the following steps.
 
     1.  Select a **Territory**.
 
@@ -204,11 +204,11 @@ Role required: wm\_dispatcher, wm\_initiator\_qualifier\_dispatcher, or wm\_admi
 
 The work order task is moved to the Draft state.
 
-The work order is moved to the Awaiting Qualification state. If [[fsm-application-landing-page|Field Service Management]] is configured for automatic qualification, the work order state remains at **Qualified**.
+The work order is moved to the Awaiting Qualification state. If Field Service Management is configured for automatic qualification, the work order state remains at **Qualified**.
 
 ## Suggest agents to assign to a work order task from the work order task page
 
-Quickly sort a list of the best agents to [[t_AssignATask|assign a work order task]] based on the criteria that you choose from. This feature works the same way as using assignment assistance in Dispatcher Workspace.
+Quickly sort a list of the best agents to assign a work order task based on the criteria that you choose from. This feature works the same way as using assignment assistance in Dispatcher Workspace.
 
 ### Before you begin
 
@@ -264,11 +264,4 @@ Role required: wm\_dispatcher
 
     The work order task is flagged and can be found under **All** &gt; **Field Service** &gt; **Work Order** &gt; **My Flagged Tasks**.
 
-## Related
 
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[t_AssignATask|Assign a work order task]]

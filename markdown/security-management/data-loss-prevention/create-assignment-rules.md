@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # Create assignment rules
 
-Create assignment rules and assign the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) incidents to user groups, end users, managers, or user from incident.
+Create assignment rules and assign the Data Loss Prevention Incident Response \(DLP IR\) incidents to user groups, end users, managers, or user from incident.
 
 ## Before you begin
 
@@ -254,6 +254,3 @@ For example, you can use the email address field to identify the end user.
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

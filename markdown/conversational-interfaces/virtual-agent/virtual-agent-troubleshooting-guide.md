@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Debug a Virtual Agent topic
 
-Investigate and resolve unexpected behavior in your custom [[virtual-agent-landing-page|Virtual Agent]] topics, topic blocks, and controls.
+Investigate and resolve unexpected behavior in your custom Virtual Agent topics, topic blocks, and controls.
 
 For information about topic discovery issues, see [LLM topic discovery in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-llm.md) and [Resolve Natural Language Understanding \(NLU\) topic discovery issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-topic-discovery-issues.md).
 
@@ -33,7 +33,7 @@ The test chat window displays four tabs that provide detailed information for de
 
 ## Watch for warnings on controls within your topic
 
-\[Omitted image "va-control-warning.png"\] Alt text: Number of warnings shown in red on the canvas and on the individual controls. For the [[va-text-input|Text User Input control]], Node Name and Prompt are mandatory
+\[Omitted image "va-control-warning.png"\] Alt text: Number of warnings shown in red on the canvas and on the individual controls. For the Text User Input control, Node Name and Prompt are mandatory
 
 Controls that are missing necessary information show a red incomplete badge in the upper left corner of the control. The badge shows a number indicating the number of issues in that control. Select this badge to see a list of the issues in the control.
 
@@ -43,7 +43,7 @@ Another warning badge appears in the upper left corner of the canvas to indicate
 
 \[Omitted image "va-validator.png"\] Alt text: The topic validator window giving a preview of errors on the canvas.
 
-Additional information appears in a Validation Issues tab on the [[sidebar-landing|sidebar]] of the Virtual Agent Designer canvas when an error prevents the topic from running. The total number of Issues are listed, along with details and a hyperlink for each node. Select a hyperlink to go to the node, and use the information provided to correct any errors in your conversation. You can close the tab without correcting the issues, but until the issues are corrected, the Validation Issues tab appears when you select **Publish**. The Validation Issues tab closes if you select **Publish** after correcting all issues.
+Additional information appears in a Validation Issues tab on the sidebar of the Virtual Agent Designer canvas when an error prevents the topic from running. The total number of Issues are listed, along with details and a hyperlink for each node. Select a hyperlink to go to the node, and use the information provided to correct any errors in your conversation. You can close the tab without correcting the issues, but until the issues are corrected, the Validation Issues tab appears when you select **Publish**. The Validation Issues tab closes if you select **Publish** after correcting all issues.
 
 ## Common Virtual Agent issues
 
@@ -57,7 +57,7 @@ Possible resolution
 
 </th></tr></thead><tbody><tr><td>
 
-Cannot see module designer under [[convint-landing-page|conversational interfaces]]
+Cannot see module designer under conversational interfaces
 
 </td><td>
 
@@ -92,7 +92,7 @@ One or more of your topics might be missing. Check the to ensure that topics are
 </td></tr></tbody>
 </table>## Review topics that run in a conversation flow
 
-Each Virtual Agent \(VA\) conversation in an instance automatically generates an interaction record in the Interactions \[interactions\] table, which logs the conversation between a requester and virtual and live agent. You can review the transcript of the conversation between the requester and virtual agent, including live agent transfers \(if [[ci-agent-chat-using|using Agent Chat]]\). For details, see [Virtual Agent interaction records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-interactions.md).
+Each Virtual Agent \(VA\) conversation in an instance automatically generates an interaction record in the Interactions \[interactions\] table, which logs the conversation between a requester and virtual and live agent. You can review the transcript of the conversation between the requester and virtual agent, including live agent transfers \(if using Agent Chat\). For details, see [Virtual Agent interaction records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-interactions.md).
 
 -   **[Resolve Natural Language Understanding \(NLU\) topic discovery issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-topic-discovery-issues.md)**  
 If an intent is not being chosen when expected, you can troubleshoot NLU prediction errors.
@@ -101,10 +101,3 @@ Understand how Virtual Agent returns intents and how it selects which intents to
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-text-input|Text user input control]]
-- [[sidebar-landing|Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-agent-chat-using|Using Agent Chat]]

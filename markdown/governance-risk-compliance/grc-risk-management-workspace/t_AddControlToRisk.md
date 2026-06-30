@@ -45,7 +45,7 @@ Description
 </td><td>
 
 1.  In the **Controls** related list, select **Add**.
-2.  Select the controls that are associated with the [[tprm-risk-profile-what-is|risk profile]].
+2.  Select the controls that are associated with the risk profile.
 3.  Select **Add relationship**.
  **Note:** The controls displayed after selecting the **Add** button are limited to controls where the entity of control matches the risk entity. If there are no eligible controls that can be related to the risk, the **Add** button isn’t displayed on the Controls related list.
 
@@ -83,6 +83,3 @@ Description
 
 [Associate a risk statement with a control objective in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-control-objective-ws.md)
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]

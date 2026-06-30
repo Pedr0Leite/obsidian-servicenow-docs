@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Block access for delegated developers
 
-This [[sc-configuration|configuration]] affects access for delegated developers that are updating user roles through script. When the configuration is compliant, the developer will not be able to update or insert records into the sys\_user\_has\_role table without also having the user\_admin role.
+This configuration affects access for delegated developers that are updating user roles through script. When the configuration is compliant, the developer will not be able to update or insert records into the sys\_user\_has\_role table without also having the user\_admin role.
 
-This property determines whether a delegated developer can give assign roles to [[users|users]] through scripts. If **com.glide.sys.security.delegateddev.block\_grant\_roles** is not set to the recommended value of **true**, then a delegated developer could assign roles to any user. This could lead to unapproved privilege escalation.
+This property determines whether a delegated developer can give assign roles to users through scripts. If **com.glide.sys.security.delegateddev.block\_grant\_roles** is not set to the recommended value of **true**, then a delegated developer could assign roles to any user. This could lead to unapproved privilege escalation.
 
 Ensure that the property **com.glide.sys.security.delegateddev.block\_grant\_roles** is set to **true**.
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]

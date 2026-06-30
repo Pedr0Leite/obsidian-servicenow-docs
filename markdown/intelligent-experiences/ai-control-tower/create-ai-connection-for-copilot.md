@@ -14,7 +14,7 @@ breadcrumb: [Microsoft, Service Graph Connectors for AI Control Tower, AI connec
 
 # Create an AI connection for Copilot Studio
 
-Create an AI connection for Copilot in [[ai-control-tower-landing|AI Control Tower]] using the  [[microsoft|AI Service Graph Connector for Microsoft]].
+Create an AI connection for Copilot in AI Control Tower using the  AI Service Graph Connector for Microsoft.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **Al Control Tower workspace** &gt; **[[exploring-ai-governance|Configurations]]** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **Al Control Tower workspace** &gt; **Configurations** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -79,9 +79,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for Copilot Studio is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[microsoft|AI Service Graph Connector for Microsoft]]
-- [[exploring-ai-governance|Configurations]]
-- [[enterprise-ai-discovery|AI connections]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage your expiring contracts for leased hardware assets
 
-Use the lease contract expiration flow and decide on what to do before your leased hardware asset contract expires. Get notifications about the lease [[c_Contracts|contracts]] that are nearing their expiration dates.
+Use the lease contract expiration flow and decide on what to do before your leased hardware asset contract expires. Get notifications about the lease contracts that are nearing their expiration dates.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can view a consolidated list of asset contracts that are expiring on the Har
 
 **Note:**
 
-When the [[ham-landing-page|Hardware Asset Management]] license is activated, the **Renew** UI button doesn't appear for active lease contracts that have assets covered.
+When the Hardware Asset Management license is activated, the **Renew** UI button doesn't appear for active lease contracts that have assets covered.
 
 If an asset is associated with more than one lease contract, then the **Lease contract** field on the asset record reflects the most recently associated contract.
 
@@ -81,9 +81,9 @@ Based on what lease action you selected, perform any of the following:
 -   **[Return your leased hardware asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/return-your-leased-hardware-asset.md)**  
 Return your hardware asset before the contract expires and avoid paying a penalty.
 -   **[Buy out your leased hardware asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/purchase-your-leased-hw-asset.md)**  
-[[purchase-your-leased-hw-asset|Buy out your leased hardware asset]] before the contract expires and avoid paying a penalty.
+Buy out your leased hardware asset before the contract expires and avoid paying a penalty.
 -   **[Extend your lease contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/extend-your-lease-contract.md)**  
-[[extend-your-lease-contract|Extend your lease contract]] before the contract expires and avoid paying a penalty.
+Extend your lease contract before the contract expires and avoid paying a penalty.
 
 **Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
@@ -94,7 +94,7 @@ Return your hardware asset before the contract expires and avoid paying a penalt
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -120,7 +120,7 @@ Return your hardware asset before the contract expires and avoid paying a penalt
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -154,11 +154,3 @@ Return your hardware asset before the contract expires and avoid paying a penalt
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[purchase-your-leased-hw-asset|Buy out your leased hardware asset]]
-- [[extend-your-lease-contract|Extend your lease contract]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Models|Models]]

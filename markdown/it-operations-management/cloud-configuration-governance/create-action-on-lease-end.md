@@ -24,7 +24,7 @@ A policy that is triggered by the on Lease end trigger can send a notification o
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -59,7 +59,3 @@ Select the text for the notification: -   Lease End Date Reached
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

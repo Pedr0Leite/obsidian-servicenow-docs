@@ -14,14 +14,9 @@ breadcrumb: [Data model, Reference, Healthcare Operations Core, Healthcare Opera
 
 # Tables installed with Healthcare Operations Core
 
-The [[hcls-cto-app|Healthcare Operations Core]] Case enables streamlined support for operational healthcare use cases.
+The Healthcare Operations Core Case enables streamlined support for operational healthcare use cases.
 
 It extends the Case \[sn\_customerservice\_case\] table to store all healthcare cases associated with a patient. For more information, see [Tables installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TIWCustomerService.md).
 
-It includes the Healthcare Location field, which references the [[hcls-healthcare-location-table|Healthcare Location table]] in the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]].
+It includes the Healthcare Location field, which references the Healthcare Location table in the Healthcare and Life Sciences data model.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-healthcare-location-table|Healthcare location table]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]

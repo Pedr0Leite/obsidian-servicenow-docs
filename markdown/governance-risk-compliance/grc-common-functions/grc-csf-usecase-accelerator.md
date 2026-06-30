@@ -67,7 +67,7 @@ Sys admin
 
 </td><td>
 
-Access to the following sections: **NIST CSF** &gt; **[[Administration|Administration]]**
+Access to the following sections: **NIST CSF** &gt; **Administration**
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Access to the following sections: **NIST CSF** &gt; **Administration**
 
 </td></tr></tbody>
 </table>-   **[Install the NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-nist-csf.md)**  
-The NIST Cybersecurity Framework \(CSF\) Use Case Accelerator is used with the GRC core applications: [[r_PolicyComplianceMgmt|Policy and Compliance Management]], Risk Management, and [[c_GRCAudits|Audit Management]] applications.
+The NIST Cybersecurity Framework \(CSF\) Use Case Accelerator is used with the GRC core applications: Policy and Compliance Management, Risk Management, and Audit Management applications.
 -   **[Verify the NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/verify-nist-csf.md)**  
 After installing the GRC: NIST Cybersecurity Framework \(CSF\) Use Case Accelerator, review the NIST CSF application structure, core content, and demo data, if selected during installation.
 -   **[NIST CSF supporting concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-nist-csf-key-concepts.md)**  
@@ -93,8 +93,3 @@ The NIST CSF navigation structure facilitates the management of the NIST cyberse
 
 **Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-use-case-accelerators.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

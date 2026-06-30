@@ -29,7 +29,7 @@ After you download the application, navigate to **System Applications** &gt; **A
 **Note:** To get full use of KPI Composer, you should have the appropriate entitlement to use Performance Analytics.
 
 -   **[Access to KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/access-to-kpi-composer.md)**  
-The level of [[access-to-kpi-composer|access to KPI Composer]] determines whether a user can create, edit, or only view a KPI Composer project. It also determines which projects a user can access and whether they can access the underlying records or only the UI.
+The level of access to KPI Composer determines whether a user can create, edit, or only view a KPI Composer project. It also determines which projects a user can access and whether they can access the underlying records or only the UI.
 -   **[KPI Composer projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/kpi-composer-projects.md)**  
 KPI Composer is based on projects. Each project in KPI Composer consists of Key Performance Indicator \(KPI\) trees and the functional and technical definitions of all artifacts within those trees. You can create multiple projects.
 -   **[Analysis and the KPI tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/design-kpi-tree.md)**  
@@ -50,6 +50,3 @@ For each KPI Composer artifact in your project, you can generate a task to creat
 
 [Performance Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_PARoles.md)
 
-## Related
-
-- [[access-to-kpi-composer|Access to KPI Composer]]

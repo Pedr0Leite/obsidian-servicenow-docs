@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # Approve a job requisition in the Employee Center
 
-Approve a job requisition from My tasks in the [[employee-center-landing-page|Employee Center]].
+Approve a job requisition from My tasks in the Employee Center.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: approver\_user
 
     -   To view the details of the job description, select the **Details** tab.
     -   To view the job description, select the **Job description** tab.
-    -   To communicate anything to the recruiter, select the **[[activity-lxp|Activity]]** tab.
+    -   To communicate anything to the recruiter, select the **Activity** tab.
     -   To approve a request, check the details and select **Approve**.
     -   To reject a request, select **Reject**.
     You must provide a reason in the Reject request pop-up window to reject an approval request.
@@ -49,7 +49,3 @@ Email notification for an approval request helps the approver be notified withou
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360, Configuration Management Database \(CMDB\), Configuration
 
 # Recompute CI attribute values
 
-Modify [[r_ReconciliationRulesPrinciples|reconciliation rules]], or exclude a discovery source which is found to be invalid. Then, use the updated reconciliation rules in recomputing CI attribute values, for which those reconciliation rules or discovery source are applicable to.
+Modify reconciliation rules, or exclude a discovery source which is found to be invalid. Then, use the updated reconciliation rules in recomputing CI attribute values, for which those reconciliation rules or discovery source are applicable to.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 ## About this task
 
-[[multisource-cmdb|CMDB 360]] automatically generates a recompute task for each recompute that you submit. If you submit multiple recomputes, a recompute task is generated for each operation, but only one task runs at any given time. To list all recompute tasks, enter `cmdb_multisource_recomp_task.list` in the left navigation search box.
+CMDB 360 automatically generates a recompute task for each recompute that you submit. If you submit multiple recomputes, a recompute task is generated for each operation, but only one task runs at any given time. To list all recompute tasks, enter `cmdb_multisource_recomp_task.list` in the left navigation search box.
 
 There is a maximum number of records that can be included in a single recompute operation. This number is specified by the system property [glide.identification\_engine.multisource.recompute.max.ci.limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-multisource-cmdb.md) \(100,000 by default\).
 
@@ -37,7 +37,7 @@ There is a maximum number of records that can be included in a single recompute 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select a class from the CI Classes hierarchy list.
 
@@ -82,8 +82,3 @@ You can do any of the followings:
 
 -   Enter `cmdb_multisource_recomp_task.list` in the left navigation search box, to see the status and progress of all recompute tasks.
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[multisource-cmdb|CMDB 360]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

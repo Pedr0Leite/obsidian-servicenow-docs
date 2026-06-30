@@ -20,20 +20,20 @@ Configure the Document classification skill to automatically identify and catego
 
 Role required: admin
 
-Scope: [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Scope: Accounts Payable Operations integration with Document Intelligence.
 
 Plugins required:
 
 -   Now assist in Document Intelligence
 -   Account Payable Invoice Processing
 -   Now assist for Account Payable Operations
--   Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack
+-   Document Intelligence for Accounts Payable Operations Content Pack
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills for Common Finance &amp; Supply Chain features** tab of the Now Assist Admin console.
 
-2.  Select **[[finance-supply-chain-landing|Finance and Supply Chain]]** &gt; **Accounts Payable Operations** &gt; **Accounts payable document classification** to view the skills for the APO features.
+2.  Select **Finance and Supply Chain** &gt; **Accounts Payable Operations** &gt; **Accounts payable document classification** to view the skills for the APO features.
 
 3.  Select **Activate** the skill.
 
@@ -52,11 +52,6 @@ Plugins required:
     -   Sets the DI status to Classification STP failed and the staging record status to Review required if some associated staging records are stuck in in-processing state
     The **Manual Classification on DI Error** scheduler is inactive by default. Activate the scheduler to pick invoice cases that are stuck in processing classification.
 
-    The **Accounts payable document classification** is activated and the incoming email with attached documents are automatically categorized into [[invoices|invoices]] in the workspace.
+    The **Accounts payable document classification** is activated and the incoming email with attached documents are automatically categorized into invoices in the workspace.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[invoices|Invoices]]

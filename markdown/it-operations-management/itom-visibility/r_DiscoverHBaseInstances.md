@@ -14,7 +14,7 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Apache HBase instance discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of HBase on a UNIX server.
+Discovery creates or updates a CMDB record when it detects a running instance of HBase on a UNIX server.
 
 **Note:** See the knowledge article [KB0687582](https://support.servicenow.com/kb_view.do?sysparm_article=KB0687582) for information on model\_id and manufacturer.
 
@@ -32,6 +32,3 @@ In the following table, the `HBase Instance@*hostname*` source may contain the i
 
 **Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

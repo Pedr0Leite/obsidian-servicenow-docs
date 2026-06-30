@@ -20,7 +20,7 @@ To ensure that consumers and contacts can enter a location safely after emergenc
 
 ## Roles required
 
-Users with the roles listed in the following table can use [[c_CustomerServiceManagement|Customer Service Management]] with Safe Workplace applications.
+Users with the roles listed in the following table can use Customer Service Management with Safe Workplace applications.
 
 <table id="table_w1d_534_ymb"><thead><tr><th>
 
@@ -66,7 +66,3 @@ Screen consumers entering a location to ensure compliance with entry requirement
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

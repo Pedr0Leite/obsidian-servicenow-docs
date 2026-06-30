@@ -14,11 +14,11 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Using Interview Management
 
-You can schedule and document interviews and use interview templates using the Core UI or [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+You can schedule and document interviews and use interview templates using the Core UI or HR Service Delivery Agent Workspace.
 
-Creating a record of an interview is an important part of an [[hr-case-employee-relations|employee relations]] investigation.
+Creating a record of an interview is an important part of an employee relations investigation.
 
-[[hr-er-ws-calendar|Scheduling an interview]]: There are two \(2\) methods you can use to [[schedule-interview|schedule an interview]]:
+Scheduling an interview: There are two \(2\) methods you can use to schedule an interview:
 
 -   Manual entry: You enter a start and end date/time for the interview and confirm outside the application.
 
@@ -30,9 +30,4 @@ Creating a record of an interview is an important part of an [[hr-case-employee-
     -   The **sn\_hr\_er.exchange\_online\_max\_candidate** system property determines the maximum number of meeting time slots to return when trying to schedule an interview using Microsoft Exchange. The default value is 500 slots.
     **Note:** You can use the manual method of scheduling in HR Service Delivery Agent Workspace. For more information, see [Schedule an interview in Employee Relations using the legacy UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-interview.md) or [Schedule an interview in Employee Relations using Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-interview-ws.md).
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-er-ws-calendar|Scheduling an interview]]
-- [[schedule-interview|Schedule an interview]]

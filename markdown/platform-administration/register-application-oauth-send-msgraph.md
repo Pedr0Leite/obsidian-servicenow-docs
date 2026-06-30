@@ -66,7 +66,7 @@ OAuth API Script
 
 </td><td>
 
-OAuth API script name. For more information see, [[oauth-api-script|OAuth API Script]]. **Note:** This is required only while using certificates.
+OAuth API script name. For more information see, [OAuth API Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md). **Note:** This is required only while using certificates.
 
 </td></tr><tr><td>
 
@@ -112,9 +112,5 @@ Redirect URL
 12. Select **Update**.
 
 
-**Parent Topic:**[[send-email-using-ms-graph|Sending email using Microsoft Graph]]
+**Parent Topic:**[Sending email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-using-ms-graph.md)
 
-## Related
-
-- [[oauth-api-script|Create an OAuth API script]]
-- [[send-email-using-ms-graph|Sending email using Microsoft Graph]]

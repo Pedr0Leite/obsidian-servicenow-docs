@@ -14,7 +14,7 @@ breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assi
 
 Use the Now Assist context menu to generate a record summary for the page, using Generative AI application assisted summarization capabilities in workspaces and UI16. The Now Assist context menu can generate a new summary, expand or collapse the summary card, share the summary to work notes, regenerate, or copy the summary.
 
-Go to any record page to access the Now Assist context menu icon \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist context menu icon.\) with the message `Incident Summary by [[platform-now-assist-landing|Now Assist]]`. Select **Summarize** to use generative AI to generate a record summary.
+Go to any record page to access the Now Assist context menu icon \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist context menu icon.\) with the message `Incident Summary by Now Assist`. Select **Summarize** to use generative AI to generate a record summary.
 
 \[Omitted image "nacm-summarize-record.png"\] Alt text: Summarize using Now Assist.
 
@@ -22,9 +22,5 @@ You can use the **Share to work notes** button to share the summary to work note
 
 To provide feedback, use the feedback icons \(\[Omitted image "thumbs-up-outline-24.svg"\] Alt text: Thumbs up icon.\) or \(\[Omitted image "thumbs-down-outline-24.svg"\] Alt text: Thumbs down icon.\) If you're not satisfied with the provided summary, use the regenerate icon \(\[Omitted image "ai-gov-refresh.png"\] Alt text: Regenerate icon.\) to regenerate the summary. You can also copy the summary to the clipboard using the copy icon \( \[Omitted image "icon-docintel-na-copy.png"\] Alt text: Copy icon.\)
 
-**Parent Topic:**[[now-assist-write-overview|Now Assist context menu]]
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -75,7 +75,7 @@ Published
 
 Approved policies are automatically published to a template-defined KB article, and the policy remains in a read-only state. The **Valid to** field on the policy form defines how long the policy is valid. **Note:** After the policy is published and when the valid to date on the policy is reached, then based on the value of the **Number of days after reaching a policy "Valid to" date in which the expired policy will automatically move from its Published state back to a Draft/Review state** property, the policy moves back to the Draft/Review state. For example, if the value of the property is 10, then the policy moves back to review state 10 days after the valid to date is reached.
 
- When a policy reaches the end of the **Review** state and is **Approved** for publishing, it is automatically published to the GRC knowledge base \(as defined in **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**. The **Article template** field on the policy form defines the style of the published policy.
+ When a policy reaches the end of the **Review** state and is **Approved** for publishing, it is automatically published to the GRC knowledge base \(as defined in **Policy and Compliance** &gt; **Administration** &gt; **Properties**. The **Article template** field on the policy form defines the style of the published policy.
 
 </td></tr><tr><td>
 
@@ -123,6 +123,3 @@ The **Active** option in an authority document indicates whether the authority d
 
 **Parent Topic:**[Classic UI for Policy and Control Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/using-policy-compliance-legacy-ui.md)
 
-## Related
-
-- [[Administration|Administration]]

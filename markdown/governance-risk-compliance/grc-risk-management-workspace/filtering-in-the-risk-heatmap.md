@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Filter data in the risk heatmap workbench
 
-As a risk user, filter data in the [[risk-heatmap-workbench|risk heatmap workbench]] to get a granular view of your risks.
+As a risk user, filter data in the risk heatmap workbench to get a granular view of your risks.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Using the condition builder feature, the risk heatmap workbench enables you to f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Management** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk Management** &gt; **Risk Workspace**.
 
 2.  From the Home page, select the launch workbench icon \(\[Omitted image "risk\_heatmap\_workbench.png"\] Alt text: Launch workbench icon.\).
 
@@ -55,7 +55,3 @@ Using the condition builder feature, the risk heatmap workbench enables you to f
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-heatmap-workbench|risk heatmap workbench]]
-- [[risk-workspace|risk workspace]]

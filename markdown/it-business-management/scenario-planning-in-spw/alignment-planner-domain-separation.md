@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Domain separation and Strategic Planning
 
-Domain separation is supported for [[alignment-planner-workspace-landing-page|Strategic Planning]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Strategic Planning. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -47,6 +47,3 @@ All the tables installed with Strategic Planning support domain separation. For 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

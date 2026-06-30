@@ -12,11 +12,11 @@ breadcrumb: [Exploring Secrets Management, Secrets Management, Platform Security
 
 # About client-side Secrets Management
 
-Learn how use [[secrets-management|Secrets Management]] to manage access to secrets and groups.
+Learn how use Secrets Management to manage access to secrets and groups.
 
 ## Terminology
 
-Client-side secrets management is designed to provide a method for managing secrets without the use of proxies, and without giving ServiceNow access to your decrypted data. To understand this process, begin with the following [[encryption-landing|encryption]] terms.
+Client-side secrets management is designed to provide a method for managing secrets without the use of proxies, and without giving ServiceNow access to your decrypted data. To understand this process, begin with the following encryption terms.
 
 <table id="table_qft_qw1_vvb"><thead><tr><th>
 
@@ -112,10 +112,5 @@ After being encrypted with the public key, the private key is needed to decrypt 
 \[Omitted image "sm-cse-process-5.svg"\] Alt text: The credential is now encrypted with the public key which needs the private key to decrypt
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[exploring-secrets-management|Exploring Secrets Management]]
+</table>**Parent Topic:**[Exploring Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-secrets-management.md)
 
-## Related
-
-- [[exploring-secrets-management|Exploring Secrets Management]]
-- [[secrets-management|Secrets Management]]
-- [[encryption-landing|Encryption]]

@@ -54,7 +54,7 @@ Co-hosts
 
 </td><td>
 
-Co-hosts for the visit. Co-hosts have the visit displayed on their [[host-portal|host portal]] and can edit the visit or manage visitors.
+Co-hosts for the visit. Co-hosts have the visit displayed on their host portal and can edit the visit or manage visitors.
 
 </td></tr><tr><td>
 
@@ -124,6 +124,3 @@ Additional requirements or a private note to the receptionist.
 
 [Additional requirement form]()
 
-## Related
-
-- [[host-portal|Host portal]]

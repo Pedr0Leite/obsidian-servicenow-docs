@@ -18,7 +18,7 @@ Export a snapshot to generate config data for the pipeline to use.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 -   The cdm\_secrets role is required to export snapshots that include encrypted data.
 -   The cdm\_viewer can export any snapshot that does not include encrypted data.
@@ -45,7 +45,7 @@ Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
 3.  Select a published version of the exporter to run.
 
-    The exporter opens on the **Exporter Builder** tab. The text of the exporter script appears in a view-only panel. Use the Test playground panel to specify the snapshot to export and test [[settings-mobile|settings]] before you export the config data.
+    The exporter opens on the **Exporter Builder** tab. The text of the exporter script appears in a view-only panel. Use the Test playground panel to specify the snapshot to export and test settings before you export the config data.
 
 4.  Specify the settings for the exporter execution on the **Select inputs** page.
 
@@ -104,7 +104,4 @@ Deployables for which to generate config data in addition to the primary deploya
 
     **Note:** When you are satisfied that the exporter generates complete config data and follows the required output format standards, you can publish it and activate it.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

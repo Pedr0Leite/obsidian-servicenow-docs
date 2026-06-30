@@ -18,17 +18,17 @@ As a case manager, run the diagnostic request to identify other employees who mi
 
 ## Before you begin
 
-The diagnostic request function is available in the [[emergency-exposure-management|Emergency Exposure Management]] application. Ensure that you have the Emergency Exposure Management application installed.
+The diagnostic request function is available in the Emergency Exposure Management application. Ensure that you have the Emergency Exposure Management application installed.
 
 Role required: sn\_imt\_tracing.case\_manager
 
 ## About this task
 
-**Note:** You cannot create or run a diagnostic request for affected employees who have not consented to use their data for [[contact-tracing|contact tracing]]. For more information, see [User privacy consent for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy.md).
+**Note:** You cannot create or run a diagnostic request for affected employees who have not consented to use their data for contact tracing. For more information, see [User privacy consent for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contact Tracing** &gt; **[[case-management-workspace|Case Management]]** &gt; **Cases Assigned to Me**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Case Management** &gt; **Cases Assigned to Me**.
 
 2.  Open a case from the list of assigned cases.
 
@@ -67,7 +67,7 @@ If automatic case task creation is enabled by the **sn\_imt\_tracing.auto\_creat
 
 These potentially exposed contacts also appear in the exposed contacts visualization section. For more information, see [Working on a case through contact tracing visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-case-visualization.md).
 
-If you have the [Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md) application installed and a [[health-safety-overview|health and safety]] requirement for the potentially exposed contacts activated, a record is created with the requirement status as Not Cleared for these potentially exposed employees.
+If you have the [Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md) application installed and a health and safety requirement for the potentially exposed contacts activated, a record is created with the requirement status as Not Cleared for these potentially exposed employees.
 
 ## What to do next
 
@@ -77,9 +77,3 @@ If the automatic case task creation is disabled, [create a case task for each ex
 
 **Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[contact-tracing|Contact Tracing]]
-- [[case-management-workspace|Case management]]
-- [[health-safety-overview|Health and Safety]]

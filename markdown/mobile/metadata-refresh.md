@@ -22,7 +22,7 @@ Some changes to ServiceNow mobile app made by your administrator require a refre
 
 -   Changes to push notification properties
 -   Changes to screen launchers
--   Changes to the [[sg-mobile-tab-bar|navigation bar]]
+-   Changes to the navigation bar
 
 Avoid inconsistencies in your apps by refreshing your app when instructed by your administrator.
 
@@ -39,6 +39,3 @@ Avoid inconsistencies in your apps by refreshing your app when instructed by you
 
 \[Omitted image "metadata-refresh.gif"\] Alt text: screen launcher refresh
 
-## Related
-
-- [[sg-mobile-tab-bar|Navigation bar]]

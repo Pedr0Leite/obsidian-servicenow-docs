@@ -20,7 +20,7 @@ You can use the **ERP Source** field available in tables to directly identify th
 
 **Note:**
 
--   In some scenarios, for purchase orders, [[receipts|receipts]], and [[invoice-integration|invoice integration]], the ERP source for records is still determined through the [[legal-entity|legal entity]] on those records. This is achieved by adding an **ERP Source** reference field on the Legal Entity \[sn\_fin\_legal\_entity\] table. Also, Legal Entity is added as a related list for the ERP Source table.
+-   In some scenarios, for purchase orders, receipts, and invoice integration, the ERP source for records is still determined through the legal entity on those records. This is achieved by adding an **ERP Source** reference field on the Legal Entity \[sn\_fin\_legal\_entity\] table. Also, Legal Entity is added as a related list for the ERP Source table.
 -   The ERP source column in the global table should be deprecated and migrated to local tables. Run the data migration script manually to move data from the impacted tables to the new mapping table. For more information, see [Migrate ERP source data from global tables to the mapping table \[KB1733450\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1733450).
 
     The Multi-ERP data will continue to function without migrating the ERP source column \(for up to the next two family releases from Yokohama\), but ensure migration to local tables is completed.
@@ -47,8 +47,3 @@ The following tables contain the ERP Source column.
 |Finance Common Architecture|Fixed Asset \[sn\_fin\_fixed\_asset\]|
 | |Office Location \[sn\_fin\_office\_location\]|
 
-## Related
-
-- [[receipts|Receipts]]
-- [[invoice-integration|Invoice integration]]
-- [[legal-entity|Legal entity]]

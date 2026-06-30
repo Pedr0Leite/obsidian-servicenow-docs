@@ -54,14 +54,10 @@ An API variable is created, and will pass the value to the policy whenever the p
 
 Create a data collector for a PaCE policy.
 
-**Parent Topic:**[[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
+**Parent Topic:**[Configure Eligibility Rules Engine Policies in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-eligibility.md)
 
 **Related topics**  
 
 
-[[psds-config-gmp-data-collector|Create a case data collector for a PaCE policy in Grants Management]]
+[Create a case data collector for a PaCE policy in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-data-collector.md)
 
-## Related
-
-- [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
-- [[psds-config-gmp-data-collector|Create a case data collector for a PaCE policy in Grants Management]]

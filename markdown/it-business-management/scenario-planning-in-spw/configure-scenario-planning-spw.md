@@ -14,17 +14,14 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Configuring scenario planning in Strategic Planning
 
-Configure [[scenario-planning-in-strategic-planning|scenario planning in strategic planning]] to create and compare multiple scenarios.
+Configure scenario planning in strategic planning to create and compare multiple scenarios.
 
 1.  Enable or disable scenario planning.
 
     For more information, see [Enable or disable scenario planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-scenario-planning-in-strategic-planning.md).
 
-2.  Manage financial widgets in [[compare-scenarios-in-portfolio-planning|compare scenarios]] page.
+2.  Manage financial widgets in compare scenarios page.
 
     For more information on how to add and manage widgets to the comparison view, see [Configure financial widgets in compare scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/config-compare-scenario-fin-widgets-spw.md).
 
-## Related
 
-- [[scenario-planning-in-strategic-planning|Scenario planning in Strategic Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

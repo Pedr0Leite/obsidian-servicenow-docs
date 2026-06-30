@@ -14,7 +14,7 @@ breadcrumb: [Browser Extension for Employee Center, Setup task management, Confi
 
 # Set up Now Assist search in Browser Extension for Employee Center
 
-Set up the Now Assist Virtual Agent search profile on the [[ecbe-intro|Browser Extension for Employee Center]].
+Set up the Now Assist Virtual Agent search profile on the Browser Extension for Employee Center.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Now Assist Virtual Agent plugin \(sn\_nowassist\_va\) version 9.0 must be instal
 
 3.  In the Now Assist Virtual Agent \(default\) page, go to **Display experience** to add a portal.
 
-4.  Select the **[[employee-center-landing-page|Employee Center]] Browser Extension** portal and select the check box for the **Allow the search bar to open into a full-page chat experience**.
+4.  Select the **Employee Center Browser Extension** portal and select the check box for the **Allow the search bar to open into a full-page chat experience**.
 
     **Note:** The **Allow the search bar to open into a full-page chat experience** check box must be selected to see the Now Assist search bar in the Browser Extension for Employee Center.
 
@@ -41,7 +41,3 @@ Now Assist Virtual Agent plugin \(sn\_nowassist\_va\) version 9.0 must be instal
 
 You have configured the Now Assist search bar in the Browser Extension for Employee Center.
 
-## Related
-
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[employee-center-landing-page|Employee Center]]

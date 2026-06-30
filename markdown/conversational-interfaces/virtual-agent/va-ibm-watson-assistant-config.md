@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Integrating IBM Watson Assistant conversations
 
-Use the IBM Watson Assistant topic to enable [[virtual-agent-landing-page|Virtual Agent]] to exchange information with conversations that were created in IBM Watson Assistant.
+Use the IBM Watson Assistant topic to enable Virtual Agent to exchange information with conversations that were created in IBM Watson Assistant.
 
 -   **[Integrating Virtual Agent with IBM Watson Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-watson-assistant-topic.md)**  
 Set up the IBM Watson Assistant topic to run dialog skills \(conversations created in IBM Watson Assistant\) in the web-based chat client. This topic returns information exchanged during the Virtual Agent conversation to IBM Watson Assistant.
@@ -23,6 +23,3 @@ Configure the IBM Watson Assistant Chat Integration to run a dialog skill \(conv
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

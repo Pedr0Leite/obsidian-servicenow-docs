@@ -37,7 +37,7 @@ You can report your vaccination status to meet the requirements of your organiza
 
 1.  Navigate to **All** &gt; **Vaccination Status** &gt; **Report vaccination**.
 
-    **Note:** To report your or another user's vaccination status in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Report Vaccination**.
+    **Note:** To report your or another user's vaccination status in the Now Mobile app, navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Report Vaccination**.
 
 2.  Determine the user you are submitting vaccination status for.
 
@@ -112,7 +112,7 @@ The type of attachment that you are submitting if it is required by a validator 
 5.  Click **Submit**.
 
     -   If you are a Vaccine admin, you are returned to an empty Report Vaccination form to submit another vaccination.
-    -   If you are a user, you are returned to the [[health-safety-overview|health and safety]] status page.
+    -   If you are a user, you are returned to the health and safety status page.
 
 ## What to do next
 
@@ -122,10 +122,5 @@ Your organization might require that you be vaccinated before returning to the s
 
 Depending on your organization's requirements, if your vaccine has a vaccine booster available, you might not be considered fully vaccinated until you report receiving your booster.
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[health-safety-overview|Health and Safety]]

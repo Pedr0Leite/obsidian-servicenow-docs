@@ -26,7 +26,7 @@ Because there is limited and controlled uses to the ADAM service, it is feasible
 
 ## Procedure
 
-1.  Open the [[c_Certificates|Certificates]] MMC console and create two console connections, one for Local Computer Certificates, and the other for Local Computer Services Certificates on the new ADAM service.
+1.  Open the Certificates MMC console and create two console connections, one for Local Computer Certificates, and the other for Local Computer Services Certificates on the new ADAM service.
 
     The new certificate can be found under `Certificates (Local Computer)\Personal\Certificates`.
 
@@ -34,7 +34,7 @@ Because there is limited and controlled uses to the ADAM service, it is feasible
 
 3.  Open the details tab on the certificate that you copied, note the Valid from date stamp, and assign read access to the certificate key file.
 
-    Go to `C:\Documents and Settings\All [[users|Users]]\Application Data\Microsoft\Crypto\RSA\MachineKeys` and identify the certificate with the matching time stamp. Assign Read &amp; Execute rights to the service account running ADAM. By default, this is **Network Service**.
+    Go to `C:\Documents and Settings\All Users\Application Data\Microsoft\Crypto\RSA\MachineKeys` and identify the certificate with the matching time stamp. Assign Read &amp; Execute rights to the service account running ADAM. By default, this is **Network Service**.
 
 4.  Restart the ADAM service to activate the new certificate.
 
@@ -44,7 +44,3 @@ Because there is limited and controlled uses to the ADAM service, it is feasible
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[users|Users]]

@@ -43,8 +43,5 @@ Role required: admin
 
 Perform the same actions on the Group and Role columns to limit sharing with those categories of recipient.
 
-**Parent Topic:**[[share-db-in-ac|Share a Platform Analytics dashboard]]
+**Parent Topic:**[Share a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-## Related
-
-- [[share-db-in-ac|Share a Platform Analytics dashboard]]

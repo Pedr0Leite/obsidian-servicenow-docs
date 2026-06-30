@@ -14,9 +14,9 @@ breadcrumb: [Conversational Integration with Facebook Messenger, Integrate VA wi
 
 # Exploring Conversational Integration with Facebook Messenger
 
-Use this application to enable your users to initiate a Facebook Messenger chat conversation with [[virtual-agent-landing-page|Virtual Agent]].
+Use this application to enable your users to initiate a Facebook Messenger chat conversation with Virtual Agent.
 
-The application connects a requester with Virtual Agent or a live agent using your company's Facebook Messenger account. To get started with the [[messg-fbm|Conversational Integration with Facebook Messenger]] application, see [Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md).
+The application connects a requester with Virtual Agent or a live agent using your company's Facebook Messenger account. To get started with the Conversational Integration with Facebook Messenger application, see [Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md).
 
 ## What to explore next
 
@@ -28,7 +28,3 @@ To learn more about configuring and using , see:
 
 **Parent Topic:**[Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]

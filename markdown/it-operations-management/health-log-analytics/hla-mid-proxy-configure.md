@@ -14,9 +14,9 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # MID Server proxy preconditions for streaming logs to Health Log Analytics
 
-Requirements for using a MID Server proxy to stream log data to [[hla-landing-page|Health Log Analytics]].
+Requirements for using a MID Server proxy to stream log data to Health Log Analytics.
 
--   Use a Squid MID Server proxy to enable streaming log data to Health Log Analytics. For more information, see [[mid-server-proxy|Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance]].
+-   Use a Squid MID Server proxy to enable streaming log data to Health Log Analytics. For more information, see [Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-proxy.md).
 -   Install and configure the MID Server proxy with the log ingestion capability enabled.
 
     \[Omitted image "hla-mid-log-ingestion.png"\] Alt text: MID Server configuration with Log Ingestion capability enabled.
@@ -29,7 +29,3 @@ Requirements for using a MID Server proxy to stream log data to [[hla-landing-pa
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[mid-server-proxy|Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance]]
-- [[hla-landing-page|Health Log Analytics]]

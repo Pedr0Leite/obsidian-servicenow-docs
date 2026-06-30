@@ -14,13 +14,13 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Costing add-on in Project Management
 
-The [[c_ProjectApplicationOverview|Project Management]] costing add-on connects the Project Management application to the [[r_CostManagement|Cost Management]] application to allow for estimating and tracking the costs associated with projects.
+The Project Management costing add-on connects the Project Management application to the Cost Management application to allow for estimating and tracking the costs associated with projects.
 
 This plugin enables the following project costing features:
 
 -   Estimate group resource costs during project planning.
 -   Tracking the actual cost of each user resource for a project.
--   Track actual project task costs from [[c_TimeCards|time cards]] and other project expenses.
+-   Track actual project task costs from time cards and other project expenses.
 -   Allocate project costs to the business.
 -   Represent project costs to the CIs that the project affects.
 -   Rollups of actual task expenses to parent tasks and the project record.
@@ -61,7 +61,7 @@ The following business rules are added or modified with this plugin:
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -93,9 +93,3 @@ The following business rules are added or modified with this plugin:
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[r_CostManagement|Cost Management]]
-- [[c_TimeCards|Time cards]]
-- [[c_ResourcePlans|Resource plans]]

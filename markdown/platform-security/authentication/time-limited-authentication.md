@@ -24,7 +24,7 @@ Support time limited authentication for your ServiceNow instance.
 
 </td><td>
 
-[Activate\[Omitted image "bus-optimize-manage.svg"\] Alt text: Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-time-limited-[[c_Authentication|authentication]].md)
+[Activate\[Omitted image "bus-optimize-manage.svg"\] Alt text: Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-time-limited-authentication.md)
 
  [Understand how to Activate Time limited authentication.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-time-limited-authentication.md)
 
@@ -40,7 +40,3 @@ Support time limited authentication for your ServiceNow instance.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Authentication|Authentication]]

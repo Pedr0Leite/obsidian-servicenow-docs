@@ -24,21 +24,21 @@ Role required: admin or survey\_admin, survey\_creator
 
 The **State** field on the Survey Definition form indicates whether the survey is in the **Draft** or **Published** state.
 
-**Note:** You cannot return a survey to the **Draft** state after it has been published. You do have the option to deactivate a survey by clearing the **Active** [[check-box|check box]].
+**Note:** You cannot return a survey to the **Draft** state after it has been published. You do have the option to deactivate a survey by clearing the **Active** check box.
 
 ## Procedure
 
-1.  Navigate to **Survey** **View [[r_SurveyManagementLandingPage|Surveys]]** and select a survey to publish.
+1.  Navigate to **Survey** **View Surveys** and select a survey to publish.
 
 2.  Click **Publish**.
 
-    When you publish a survey, the system generates survey instances for any associated survey users. You can [[t_SendSurveyInvitationsToUsers|assign]] the survey to other users manually.
+    When you publish a survey, the system generates survey instances for any associated survey users. You can [assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md) the survey to other users manually.
 
 
--   **[[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]**  
+-   **[Publish a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurveyInSurveyDesigner.md)**  
 You must save changes to a survey before you can publish it to the specified recipients or groups.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -57,7 +57,7 @@ You must save changes to a survey before you can publish it to the specified rec
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -75,11 +75,3 @@ You must save changes to a survey before you can publish it to the specified rec
 
 [Legacy survey migration]()
 
-## Related
-
-- [[t_SendSurveyInvitationsToUsers|Send survey invitations to users]]
-- [[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[check-box|Check box]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyDesigner|Survey designer]]

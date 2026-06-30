@@ -18,11 +18,11 @@ Notify users who are assigned a Task \[task\] record.
 
 Role required: admin
 
-Set up your email as a test email address. Navigate to **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[c_EmailProperties|Email Properties]]**, and then enter your email address under **Send all email to this test email address**.
+Set up your email as a test email address. Navigate to **System Properties** &gt; **Email Properties**, and then enter your email address under **Send all email to this test email address**.
 
 ## Procedure
 
-1.  Navigate to **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**, and then click **New**.
+1.  Navigate to **System Notification** &gt; **Email** &gt; **Notifications**, and then click **New**.
 
 2.  On the form, enter the following values:
 
@@ -52,11 +52,5 @@ Set up your email as a test email address. Navigate to **[[r_SetArchiveRuleProce
     2.  Check your email for assignment notifications.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailProperties|Email properties]]
-- [[notifications|Notifications]]

@@ -50,7 +50,7 @@ Insecure GlideRecord calls
 
 </td><td>
 
-Identifies scripts that are directly invokable by end [[users|users]] \(such as Client-Callable Script Includes, Widgets, Processors, REST Endpoints\)
+Identifies scripts that are directly invokable by end users \(such as Client-Callable Script Includes, Widgets, Processors, REST Endpoints\)
 
  These scripts should respect ACLs and use GlideRecordSecure or GlideRecord with canRead, canWrite, canCreate, canDelete.
 
@@ -64,7 +64,7 @@ Review allowed JavaScript libraries
 
 </td><td>
 
-Identifies scripts where JavaScript Content [[sc-access-control|Access Control]] is used to allow or deny specific third-party JavaScript libraries.
+Identifies scripts where JavaScript Content Access Control is used to allow or deny specific third-party JavaScript libraries.
 
  Review instance customizations to verify that libraries aren’t in use before blocking access. The JavaScript Content provider Access Tracking \[sys\_js\_content\_provider\_access\_tracking\] table can be reviewed to see the last date that the library was accessed.
 
@@ -122,9 +122,9 @@ Review fields with HTML Sanitization disabled
 
 </td><td>
 
-Identifies HTML fields where [[c_HTMLSanitizer|HTML Sanitization]] is inactive.
+Identifies HTML fields where [HTML Sanitization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md) is inactive.
 
- HTML sanitization removes or replaces potentially harmful elements and attributes within HTML code. Review HTML fields where sanitization is inactive to confirm whether this [[sc-configuration|configuration]] is necessary.
+ HTML sanitization removes or replaces potentially harmful elements and attributes within HTML code. Review HTML fields where sanitization is inactive to confirm whether this configuration is necessary.
 
 </td><td>
 
@@ -150,7 +150,7 @@ Review large allowed IP address ranges
 
 </td><td>
 
-Identifies [[t_AccessControl|IP Address Access Control]] Ranges that contain a large number of IP Addresses.
+Identifies IP Address Access Control Ranges that contain a large number of IP Addresses.
 
  **Note:**
 
@@ -172,7 +172,7 @@ Review public GraphQL schemas
 
 Identifies public GraphQL schemas in the GraphQL API \[sys\_graphql\_schema\] table.
 
- These schemas can be configured to be available without [[c_Authentication|authentication]]. Depending on the endpoint's functionality, this may allow unauthenticated users to perform unexpected actions or interact with unexpected data.
+ These schemas can be configured to be available without authentication. Depending on the endpoint's functionality, this may allow unauthenticated users to perform unexpected actions or interact with unexpected data.
 
 </td><td>
 
@@ -272,7 +272,7 @@ Identifies users with locally set passwords.
 
  Users with local passwords may interact with the instance via APIs using the local credentials, even if local logins are disallowed. This password configuration is needed for integration user accounts to function correctly.
 
- Review these user accounts to verify that only intended users \(such as [[integration-accounts|integration accounts]]\) can authenticate with [[local-authentication|local authentication]].
+ Review these user accounts to verify that only intended users \(such as integration accounts\) can authenticate with local authentication.
 
 </td><td>
 
@@ -323,13 +323,3 @@ Resolution Recommended
 </td></tr></tbody>
 </table>**Parent Topic:**[Scan suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-suites.md)
 
-## Related
-
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[t_AccessControl|IP Address Access Control]]
-- [[c_Authentication|Authentication]]
-- [[integration-accounts|Integration Accounts]]
-- [[local-authentication|Local authentication]]

@@ -45,8 +45,5 @@ The output variables contain data that can be used in subsequent activities.
 
 \[Omitted image "check-mid-status.png"\] Alt text: Check MID Server Status flow action configuration interface
 
-**Parent Topic:**[[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-get-running-processes-workflow.md)
 
-## Related
-
-- [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]

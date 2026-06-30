@@ -14,7 +14,7 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Reopen a closed growth conversation
 
-Use the [[egd-activities-conversations-module|Career Conversations]] app to reopen a closed growth conversation to modify talking points and action items.
+Use the Career Conversations app to reopen a closed growth conversation to modify talking points and action items.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When a conversation is closed, either manually by a manager or automatically by 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From the Employee Center, navigate to **Your team** &gt; **Conversations**.
 
@@ -45,7 +45,3 @@ Modify the action items, notes, and skills, then close the conversation when you
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]

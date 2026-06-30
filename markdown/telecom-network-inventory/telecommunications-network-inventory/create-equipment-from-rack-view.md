@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Create equipment from rack view
 
-The Create new [[equipment-form|equipment form]] enables you to create an equipment from the selected rack using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Create new equipment form enables you to create an equipment from the selected rack using the Telecommunications Network Inventory application.
 
 <table id="table_idw_wk4_rbc"><thead><tr><th>
 
@@ -156,7 +156,3 @@ Under optional templates section, select a template for the multi slots.**Note:*
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[equipment-form|Equipment form]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

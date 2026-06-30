@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Metric Data table columns in Health Log Analytics
 
-The Metric Data table lists all metrics that [[hla-landing-page|Health Log Analytics]] collects. Use the table to query metrics by log source, integration, source type, and metric type, review anomaly detection statistics, and view metric baselines.
+The Metric Data table lists all metrics that Health Log Analytics collects. Use the table to query metrics by log source, integration, source type, and metric type, review anomaly detection statistics, and view metric baselines.
 
 For more information about using the Metric Data table, see [View log anomaly metrics in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-metric-data-table.md).
 
@@ -36,6 +36,3 @@ Each row in the Metric Data table represents one metric that HLA collects.
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

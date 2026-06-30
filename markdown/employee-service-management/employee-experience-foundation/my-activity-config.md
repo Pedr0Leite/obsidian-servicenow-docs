@@ -14,11 +14,11 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # My active items widget configuration
 
-The My active items widget displays all user [[activity-lxp|activity]] that requires your input or review.
+The My active items widget displays all user activity that requires your input or review.
 
-In the My active items widget, tasks, surveys, and request activities are available by default in the [[employee-center-landing-page|Employee Center]]. The Tasks activity is set to primary by default. Task activities are displayed using the existing to-do configuration and the Requests activities are displayed using the existing request filters.
+In the My active items widget, tasks, surveys, and request activities are available by default in the Employee Center. The Tasks activity is set to primary by default. Task activities are displayed using the existing to-do configuration and the Requests activities are displayed using the existing request filters.
 
-**Note:** You can add additional configurations to display your activities. For example, to display activities for reservations, you must install and activate the plugin for the ServiceNow® [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+**Note:** You can add additional configurations to display your activities. For example, to display activities for reservations, you must install and activate the plugin for the ServiceNow® Workplace Reservation Management application.
 
 From **My Active Items** widget, admins can perform the following actions.
 
@@ -28,7 +28,7 @@ From **My Active Items** widget, admins can perform the following actions.
 
 ## My active items actions
 
-You can now configure [[action-group-framework|action framework]] to allow employees to perform actions from the My active items.
+You can now configure action framework to allow employees to perform actions from the My active items.
 
 ​Configure **Action group** for the primary activity to complete suitable actions. For tasks, the approve and reject actions are available out-of-the-box. For more information, see [Enable task configuration for approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-to-dos-page-filters.md)
 
@@ -48,7 +48,7 @@ To change the display options, see [Perform an advanced activity configuration](
 
 The summary view displays a count of all the activities. The count for the primary activity is shown at the top of the widget. The count for the non-primary activities is shown after that. For example, tasks \(9 Tasks\) is the primary activity and requests \(9+ Requests\) is the non-primary activity. If the number of activities is zero, the summary view displays **0** next to the activity name. For example, if there are zero tasks, then the summary view displays 0 Tasks. If the count of tasks exceeds 9 in number, the summary view displays 9+ next to the activity name. For example, If there are 10 tasks, then the summary view displays 9+ Tasks.
 
-Clicking an activity in the widget opens the page that you specified in the **Internal Link** field of the [[ec-activity-configuration-form|Activity Configuration form]].
+Clicking an activity in the widget opens the page that you specified in the **Internal Link** field of the Activity Configuration form.
 
 ## List view
 
@@ -69,10 +69,3 @@ For more information, see [Action framework](https://raw.githubusercontent.com/S
 
 [Perform an advanced activity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-my-activity.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[action-group-framework|Action framework]]
-- [[ec-activity-configuration-form|Activity Configuration form]]

@@ -14,11 +14,11 @@ breadcrumb: [Creating Interactive Filters, Interactive Filters, Reporting, dashb
 
 # Create a group interactive filter
 
-A group interactive filter allows users to select multiple [[c_HomepagePublishers|interactive filters]] to apply to reports on a dashboard.
+A group interactive filter allows users to select multiple interactive filters to apply to reports on a dashboard.
 
 ## Before you begin
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 **Note:** If the interactive filter has a default value or specifies the last selected value, non-responsive dashboards do not apply this value automatically. This feature is only available on [Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md).
 
@@ -70,7 +70,3 @@ Default values selected for child filters are not applied when using a group fil
 
 **Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md)
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

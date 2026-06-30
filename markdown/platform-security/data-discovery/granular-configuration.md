@@ -14,7 +14,7 @@ breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Priv
 
 # Scanning with Granular Configuration
 
-Granular scan can be used to scan specific table columns for discovery. Traditional [[data-discovery-jobs|Data Discovery jobs]] scan the entire table to discover data, whereas granular scan targets specific columns of the table thereby offers more control over the discovery process
+Granular scan can be used to scan specific table columns for discovery. Traditional Data Discovery jobs scan the entire table to discover data, whereas granular scan targets specific columns of the table thereby offers more control over the discovery process
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_data\_discovery\_admin, data\_privacy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-discovery-landing|Data Discovery]]\(Classic\)** &gt; **Granular [[sc-configuration|configuration]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data Discovery\(Classic\)** &gt; **Granular configuration**.
 
 2.  In the **Granular Configurations** list, select **New**.
 
@@ -86,11 +86,5 @@ Check to activate the granular configuration.
 
 ## Result
 
-The specific column of the target table will be scanned for discovery. Granular Scan makes use of [Data patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-patterns.md) from **Active Data Patterns**. You can review the findings and take action at **All** &gt; **System Security** &gt; **Data Discovery\(Classic\)** &gt; **[[granular-findings|Granular findings]]**. See [Granular Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/granular-findings.md) for more information.
+The specific column of the target table will be scanned for discovery. Granular Scan makes use of [Data patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-patterns.md) from **Active Data Patterns**. You can review the findings and take action at **All** &gt; **System Security** &gt; **Data Discovery\(Classic\)** &gt; **Granular findings**. See [Granular Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/granular-findings.md) for more information.
 
-## Related
-
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]
-- [[granular-findings|Granular Findings]]

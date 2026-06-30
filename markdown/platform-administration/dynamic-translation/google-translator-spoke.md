@@ -24,10 +24,10 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 This spoke requires one of the following subscriptions:
 
--   Any ServiceNow subscription that is Professional or above, and includes [[dynamic-translation|Dynamic Translation]].
+-   Any ServiceNow subscription that is Professional or above, and includes Dynamic Translation.
 -   Integration Hub subscription. For more information, see [Legal schedules - IntegrationHub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
 
-See the [Google Cloud Translator Service Spoke](https://store.servicenow.com/sn_appstore_store.do#!/store/application/6b0f258a73623300395108b24ff6a734/) in [[servicenow-store|ServiceNow Store]].
+See the [Google Cloud Translator Service Spoke](https://store.servicenow.com/sn_appstore_store.do#!/store/application/6b0f258a73623300395108b24ff6a734/) in ServiceNow Store.
 
 ## Supported versions
 
@@ -52,7 +52,7 @@ The Google Cloud Translator Service spoke provides subflows in the Published sta
 
 ## Spoke actions
 
-The Google Cloud Translator Service spoke provides actions to integrate with the Google translation service. [[app-installation|Available actions]] include:
+The Google Cloud Translator Service spoke provides actions to integrate with the Google translation service. Available actions include:
 
 |Action|Description|
 |------|-----------|
@@ -75,8 +75,3 @@ Integrate your Google account with your ServiceNow instance.
 
 **Parent Topic:**[Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[servicenow-store|ServiceNow Store]]
-- [[app-installation|Available actions]]

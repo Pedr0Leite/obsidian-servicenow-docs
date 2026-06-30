@@ -28,7 +28,7 @@ Where
 
 The values are entered without the curly braces \{\}. See the examples in the table.
 
-**Note:** You can also edit tasks from the [[c_GanttChart|Gantt chart]] by clicking the relationship line. See [Gantt chart options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_EditTasks.md) and [Modify a project task dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyProjectTaskDependencies.md) for details.
+**Note:** You can also edit tasks from the Gantt chart by clicking the relationship line. See [Gantt chart options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_EditTasks.md) and [Modify a project task dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyProjectTaskDependencies.md) for details.
 
 |Dependency type|Example|Additional information|
 |---------------|-------|----------------------|
@@ -58,6 +58,3 @@ The values are entered without the curly braces \{\}. See the examples in the ta
 
 [Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]

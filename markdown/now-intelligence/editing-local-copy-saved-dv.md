@@ -30,7 +30,7 @@ However, as long as you can edit the dashboard, you can unlink a visualization o
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards** and open your dashboard.
+1.  Navigate to **Platform Analytics** &gt; **Library** &gt; **Dashboards** and open your dashboard.
 
 2.  Select **Edit** to put the dashboard in edit mode.
 
@@ -48,14 +48,8 @@ However, as long as you can edit the dashboard, you can unlink a visualization o
 
 7.  Proceed as described in one of the following topics:
 
-    -   [[creating-data-visualizations|Creating data visualizations]]
-    -   [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
+    -   [Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
+    -   [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md)
 
-**Parent Topic:**[[edit-db-in-ac|Edit Platform Analytics dashboards]]
+**Parent Topic:**[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-## Related
-
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

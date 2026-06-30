@@ -12,7 +12,7 @@ breadcrumb: [Specifications and product offerings, Configuring product offerings
 
 # Updating specification versions
 
-Enterprises frequently create and update new versions of product and service specifications. When these changes occur, it's important to update the existing product specification in ServiceNow®. Failure to update the product specifications can lead to difficulties with MACD \([[Modify|Modify]], Add, Change, Delete\) operation when orders enter fulfillment.
+Enterprises frequently create and update new versions of product and service specifications. When these changes occur, it's important to update the existing product specification in ServiceNow®. Failure to update the product specifications can lead to difficulties with MACD \(Modify, Add, Change, Delete\) operation when orders enter fulfillment.
 
 Updating specification versions helps with:
 
@@ -20,7 +20,7 @@ Updating specification versions helps with:
 -   Adding new options to existing characteristics and removing existing characteristics or their options.
 -   Renaming existing characteristics and options.
 -   Incorporating new relationships and updating or removing existing relationships.
--   Adding compatibility [[rules_101|rules]].
+-   Adding compatibility rules.
 
 ## Specification version updates
 
@@ -39,27 +39,18 @@ The following list shows the types of specification version updates that can occ
 
 ## Batch specification version update
 
-A set of specification versions can be updated using the batch specification utility in [[order-mgt-overview|Sales Customer Relationship Management]]. The specification can also be scheduled.
+A set of specification versions can be updated using the batch specification utility in Sales Customer Relationship Management. The specification can also be scheduled.
 
 **What to do next**
 
-[[som-configure-specification-version-update|Configure update specification versions]]
+[Configure update specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-configure-specification-version-update.md)
 
 -   **[Configure update specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-configure-specification-version-update.md)**  
 Configure specification version updates so that product specification versions can be updated to reflect changes and updates.
--   **[[som-configure-specification-version-update-silent-batch-utility|Batch update for product specification versions]]**  
+-   **[Batch update for product specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-configure-specification-version-update-silent-batch-utility.md)**  
 Use the inventory batch update job to update product specifications when changes occur from one version to another.
--   **[[som-view-upgrade-inventory-job-status|View upgrade inventory job status]]**  
+-   **[View upgrade inventory job status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-view-upgrade-inventory-job-status.md)**  
 View the status of a specification upgrade job using the upgrade inventory Job status list form.
 
-**Parent Topic:**[[order-mgt-product-catalog|Setting up specifications and product offerings]]
+**Parent Topic:**[Setting up specifications and product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-product-catalog.md)
 
-## Related
-
-- [[som-configure-specification-version-update|Configure update specification versions]]
-- [[som-configure-specification-version-update-silent-batch-utility|Batch update for product specification versions]]
-- [[som-view-upgrade-inventory-job-status|View upgrade inventory job status]]
-- [[order-mgt-product-catalog|Setting up specifications and product offerings]]
-- [[Modify|Modify]]
-- [[rules_101|Rules]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

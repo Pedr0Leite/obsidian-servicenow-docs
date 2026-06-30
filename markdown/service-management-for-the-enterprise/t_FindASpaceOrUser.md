@@ -33,7 +33,7 @@ Role required: none
 
 3.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]].
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_WorkbenchConfiguration.md).
 
     \[Omitted image "CampusFloorSelection.png"\] Alt text: In this figure, a facilities map image displays a building floor and its designated spaces.
 
@@ -64,7 +64,7 @@ Action
 
 Click the link for the space or user. The details for that user or space open in a separate form.
 
- **Note:** If the location is a space, users and facilities staff can create [[c_FacilitiesRequests|facilities requests]] from the room information. See [[t_CreateFacReqWorkbench|Create a facility request from the floor plan]].
+ **Note:** If the location is a space, users and facilities staff can create facilities requests from the room information. See [Create a facility request from the floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateFacReqWorkbench.md).
 
 </td></tr><tr><td id="d32965e237">
 
@@ -76,9 +76,3 @@ Click the pin \[Omitted image "PinIcon.png"\] Alt text: Pin icon shows location 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]]
-- [[t_CreateFacReqWorkbench|Create a facility request from the floor plan]]
-- [[c_FacilitiesRequests|Facilities requests]]

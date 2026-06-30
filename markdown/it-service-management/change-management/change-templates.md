@@ -14,7 +14,7 @@ breadcrumb: [Explore, Change Management, IT Service Management]
 
 # Change templates
 
-Standardize the creation of change requests by creating change templates based on all available change [[c_Models|models]].
+Standardize the creation of change requests by creating change templates based on all available change models.
 
 Users with the change\_manager roles or with write access to change models can create change templates.
 
@@ -37,6 +37,3 @@ View template metrics to analyze the usage and efficiency of the templates creat
 
 [Enhanced change data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-data-model.md)
 
-## Related
-
-- [[c_Models|Models]]

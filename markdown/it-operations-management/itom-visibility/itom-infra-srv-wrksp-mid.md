@@ -53,8 +53,5 @@ The **MID Server configuration** and **Troobleshooting** sections of the context
 **Related topics**  
 
 
-[Use the [[acc-landing-page|Agent Client Collector]] \(ACC\) admin workspace]()
+[Use the Agent Client Collector \(ACC\) admin workspace]()
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

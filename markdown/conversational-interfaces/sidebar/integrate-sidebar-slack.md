@@ -14,7 +14,7 @@ breadcrumb: [Sidebar and Slack, Configuring Sidebar, Sidebar, Conversational Int
 
 # Integrate Sidebar and Slack
 
-Enable conversations between [[sidebar-slack-overview|Sidebar and Slack]] users by integrating [[sidebar-landing|Sidebar]] with Slack.
+Enable conversations between Sidebar and Slack users by integrating Sidebar with Slack.
 
 Follow these steps to integrate Sidebar and Slack.
 
@@ -25,7 +25,3 @@ Follow these steps to integrate Sidebar and Slack.
 3.  [Enable Slack from ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/enable-slack-from-servicenow.md).
 4.  [Configure event subscription and Webhook URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/configure-event-subscription-webhook-url.md).
 
-## Related
-
-- [[sidebar-slack-overview|Sidebar and Slack]]
-- [[sidebar-landing|Sidebar]]

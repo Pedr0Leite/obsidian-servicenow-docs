@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agile Development 2.0, Agile Development 2.0, Agile Devel
 
 # Enhancement requests in Agile Development 2.0
 
-Create enhancement requests for different areas of your product in [[agile-landing-page|Agile Development 2.0]]. You can then create stories for these requests so that your teams can start working on developing them.
+Create enhancement requests for different areas of your product in Agile Development 2.0. You can then create stories for these requests so that your teams can start working on developing them.
 
 Enhancement requests can be used to log feature enhancements for a product. These requests can arise from internal requirements or customer feedback. Product owners review these logged requests and decides on creating stories for them based on priority. These stories are then assigned to the relevant assignment groups for development.
 
@@ -27,7 +27,7 @@ Creating or editing enhancement requests requires one of the following roles:
 -   scrum\_admin
 -   rm\_enhancement\_admin
 
-However, a user without scrum roles can only access these requests from the **Enhancement Requests** module of the [[agile-development|Agile Development]] application and not stories that are created for this request.
+However, a user without scrum roles can only access these requests from the **Enhancement Requests** module of the Agile Development application and not stories that are created for this request.
 
 **Note:** The administrator must grant the feature\_user role to all users who are expected to create an enhancement request in the Agile Development application.
 
@@ -40,7 +40,3 @@ After an enhancement request is created, users with scrum\_story\_creator or scr
 
 **Parent Topic:**[Exploring Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/exploring-agile-development-2.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 You can use the Oracle DB Server Deployments per Agreement report to gain visibility into your Oracle Database server deployments across hybrid infrastructures, based on the agreement type.
 
-**Note:** The Oracle DB Server Deployments per Agreement report is available only in the [[sam-workspace|Software Asset Workspace]]. This report is not available in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+**Note:** The Oracle DB Server Deployments per Agreement report is available only in the Software Asset Workspace. This report is not available in the Software Asset Management classic application.
 
 To view this report, launch the Software Asset Workspace by navigating to **Workspaces** &gt; **Software Asset Workspace** on your ServiceNow instance. From the Software Asset Workspace, navigate to **License usage** &gt; **Reports** &gt; **Oracle DB Server deployments per agreement**.
 
@@ -33,7 +33,3 @@ To view this report, launch the Software Asset Workspace by navigating to **Work
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

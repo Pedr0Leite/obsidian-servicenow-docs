@@ -12,29 +12,29 @@ breadcrumb: [Evaluate, Evaluate agentic AI assets, Now Assist AI agents, Enable 
 
 # Execute an agentic evaluation run
 
-[[agentic-evals|Evaluate agentic AI assets]] against [[ai-datasets|datasets]] to monitor performance and compare benchmarks.
+Evaluate agentic AI assets against datasets to monitor performance and compare benchmarks.
 
 ## Before you begin
 
-Evaluation runs require execution log data of the agentic AI asset you want to evaluate. You can create execution log data by testing in [[ai-agent-studio|AI Agent Studio]] or triggering agentic AI in [[platform-now-assist-landing|Now Assist]]. You can also create execution log data after setting up your evaluation run.
+Evaluation runs require execution log data of the agentic AI asset you want to evaluate. You can create execution log data by testing in AI Agent Studio or triggering agentic AI in Now Assist. You can also create execution log data after setting up your evaluation run.
 
-For more information about testing agentic workflows, see [[test-aia-use-case|Manually test the execution of an agentic workflow]].
+For more information about testing agentic workflows, see [Manually test the execution of an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md).
 
-For more information about [[getting-started-aia-eval|getting started with agentic evaluations]], see [[gg-aia-eval|General guidelines for agentic evaluation runs]].
+For more information about getting started with agentic evaluations, see [General guidelines for agentic evaluation runs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/gg-aia-eval.md).
 
 Role required: sn\_aia.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
     You can also start from the testing page of the AI Agent Studio. Navigate to **All** &gt; **AI Agent Studio** &gt; **Testing**. Select **Start automated evaluation** to access the guided setup.
 
-2.  On the evaluations [[now-assist-center-home-page|home page]], select **New evaluation run** to begin the guided setup.
+2.  On the evaluations home page, select **New evaluation run** to begin the guided setup.
 
 3.  In the modal, select **Chat agent or workflow**, then select **Proceed**.
 
-    The following steps are for chat agentic [[ai-assets|AI assets]]. If you are evaluating an AI voice agentic asset, see [[execute-voice-aia-eval|Execute a run for an AI voice agentic asset]]. Many steps are similar, but there are aspects specific to AI voice agentic assets that require special attention.
+    The following steps are for chat agentic AI assets. If you are evaluating an AI voice agentic asset, see [Execute a run for an AI voice agentic asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-voice-aia-eval.md). Many steps are similar, but there are aspects specific to AI voice agentic assets that require special attention.
 
 4.  In the **Add general info** step, add a name and select the agentic AI asset that you want to evaluate.
 
@@ -54,7 +54,7 @@ Role required: sn\_aia.admin
 
     To see more information about each plan, you can expand the card for each evaluation plan by selecting the chevron icon \[Omitted image "chevron-down-outline-24.svg"\] Alt text: Chevron icon..
 
-    Any custom metrics that you have published appear as options. If you don't see your custom metric, verify that it's published. See [[create-custom-metric|Create a custom metric]] for more information.
+    Any custom metrics that you have published appear as options. If you don't see your custom metric, verify that it's published. See [Create a custom metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-custom-metric.md) for more information.
 
     \[Omitted image "aia-eval-metrics-526.png"\] Alt text: Tool performance evaluation agentic evaluation guided setup step for selecting an evaluation method with three options selected \(overall task completeness, tool performance, and tool calling\).
 
@@ -66,7 +66,7 @@ Role required: sn\_aia.admin
 
         Instead of making a new dataset from scratch, you can choose to use a past dataset that you used in a different evaluation by selecting **Select from a past dataset**. Once you select a dataset, you can review the details including source table, record count, and the last agentic AI asset that used the dataset.
 
-        **Note:** If you're evaluating an agentic AI asset created with [[ai-agent-advisor-landing-page|AI Agent Advisor]], the options for your dataset are automatically filled in for you. You can still make edits to the values.
+        **Note:** If you're evaluating an agentic AI asset created with AI Agent Advisor, the options for your dataset are automatically filled in for you. You can still make edits to the values.
 
 <table><thead><tr><th>
 
@@ -141,7 +141,7 @@ Description
 Description of the records contained within the dataset. This can be useful if you plan on using the same dataset again.
 
 </td></tr></tbody>
-</table>        **Note:** If you're creating new execution logs, the user submitting the evaluation must pass the ACLs of the agentic AI asset and its components. Without correct role requirements, execution logs report access denial and the evaluation fails. See [[aia-security-implementation|Security for agentic AI]] for more information.
+</table>        **Note:** If you're creating new execution logs, the user submitting the evaluation must pass the ACLs of the agentic AI asset and its components. Without correct role requirements, execution logs report access denial and the evaluation fails. See [Security for agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md) for more information.
 
         \[Omitted image "aia-eval-data-new-logs-1.png"\] Alt text: Generate new execution logs selected. Sample records have a state and priority filter applied
 
@@ -193,22 +193,5 @@ The maximum number of records within the dataset for evaluation. If the dataset 
 
 Your evaluation run executes. Completion time varies, but after completion you can select the evaluation from the Agentic Evaluations page to view results.
 
-For more information on the metrics on the results page, see [[aia-eval-metrics|Agentic evaluation run results]].
+For more information on the metrics on the results page, see [Agentic evaluation run results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-metrics.md).
 
-## Related
-
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[gg-aia-eval|General guidelines for agentic AI asset evaluation]]
-- [[execute-voice-aia-eval|Execute a run for an AI voice agentic asset]]
-- [[create-custom-metric|Create a custom metric for evaluating agentic workflows]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[aia-eval-metrics|Agentic evaluation run results]]
-- [[agentic-evals|Evaluate agentic AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[getting-started-aia-eval|Getting started with agentic evaluations]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-assets|AI assets]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

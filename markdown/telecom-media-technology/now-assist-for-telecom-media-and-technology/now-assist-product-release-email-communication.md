@@ -18,7 +18,7 @@ Use the product release email communication agentic workflow to automatically dr
 
 ## Prerequisites
 
-To access the agentic workflow and product release content generator skill, install the plugin AI Agents for [[account-lifecycle-events-landing|Customer Success Management]] \(sn\_cust\_succ\_ai\_ag\) in your instance.
+To access the agentic workflow and product release content generator skill, install the plugin AI Agents for Customer Success Management \(sn\_cust\_succ\_ai\_ag\) in your instance.
 
 **Important:** In the Now Assist skills page, make sure to Activate the product release content generator skill to trigger the agentic workflow. See [Activate a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-skill.md) for more details.
 
@@ -74,6 +74,3 @@ The AI agent is invoked only when the product release is marked completed by rel
 </td></tr></tbody>
 </table>To create an AI agent, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
-## Related
-
-- [[account-lifecycle-events-landing|Customer Success Management]]

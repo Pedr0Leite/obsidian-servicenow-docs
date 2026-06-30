@@ -64,8 +64,8 @@ Example URL
 
 The URL for an individual query, depending on how the query was called.
 
- -   User transactions: lists the transaction [[r_DirectJDBCProbeParameters|parameters]]. For example, if a user navigates to the incident list, the URL is `/incident_list.do` `sysparm_query=active=true`
--   [[c_ScheduledJobs|Scheduled jobs]]: lists the name of the scheduled job.
+ -   User transactions: lists the transaction parameters. For example, if a user navigates to the incident list, the URL is `/incident_list.do` `sysparm_query=active=true`
+-   Scheduled jobs: lists the name of the scheduled job.
 -   Any other method: lists an empty field.
 
 </td></tr><tr><td>
@@ -111,7 +111,3 @@ The average duration to execute one of these similar queries.
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[c_ScheduledJobs|Scheduled jobs]]

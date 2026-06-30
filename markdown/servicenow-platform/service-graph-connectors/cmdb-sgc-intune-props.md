@@ -18,9 +18,9 @@ Service Graph Connector properties control the behavior of connections.
 
 ## Connection properties
 
-These connection properties are available for [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]].
+These connection properties are available for Service Graph Connector for Microsoft Intune.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Intune** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Intune** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_xtl_vjd_d2c"><thead><tr><th>
 
@@ -59,7 +59,7 @@ include\_ip\_address\_details
 
 </td><td>
 
-Set the property to `true` to retrieve [[ip-address|IP address]] details during import and add the records to the IP Address \[cmdb\_ci\_ip\_address\] table.Set the property to `false` to skip retrieving IP addresses.
+Set the property to `true` to retrieve IP address details during import and add the records to the IP Address \[cmdb\_ci\_ip\_address\] table.Set the property to `false` to skip retrieving IP addresses.
 
 Retrieving IP addresses increases the time for importing data because of additional API calls.
 
@@ -154,9 +154,3 @@ Advanced data sources \(SG-Intune Device Reports and SG-Intune Software Reports\
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[ip-address|IP Address]]

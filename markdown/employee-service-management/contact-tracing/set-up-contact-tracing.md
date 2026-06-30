@@ -14,7 +14,7 @@ breadcrumb: [Contact Tracing, Safe Workplace, Health and Safety, Employee Servic
 
 # Setting up Contact Tracing
 
-Configure system properties, scheduled jobs, script includes, Wi-Fi access log integration, and outreach notifications to aggregate [[contact-tracing|contact tracing]] information for various data sources.
+Configure system properties, scheduled jobs, script includes, Wi-Fi access log integration, and outreach notifications to aggregate contact tracing information for various data sources.
 
 In Contact Tracing version 1.29.4. and above, the navigation path is not available in the application context menu search \(**All** &gt; **Contact Tracing**\) for Zebra MotionWorks and Devvio. The following application modules are not available in the application search context menu Contact Tracing version 1.29.4:
 
@@ -26,7 +26,7 @@ In Contact Tracing version 1.29.4. and above, the navigation path is not availab
 
 The navigation path is available if you are using Contact Tracing 1.29.2 and later versions.
 
-Get contact tracing information from various data sources such as workplace locations, work shifts and reservations, badge scans, Wi-Fi access logs, and self-reporting logs. Use these data sources to [[use-emergency-exposure-mgnt|identify potentially exposed users]] by running the diagnostic request in the [[emergency-exposure-management|Emergency Exposure Management]] application.
+Get contact tracing information from various data sources such as workplace locations, work shifts and reservations, badge scans, Wi-Fi access logs, and self-reporting logs. Use these data sources to identify potentially exposed users by running the diagnostic request in the Emergency Exposure Management application.
 
 ## Identifying potentially exposed users using tracing systems
 
@@ -43,7 +43,7 @@ As an administrator, review and modify the scheduled data import jobs used for i
 -   **[Configure the time zone setting for badge and daily log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-script-include-contact-tracing.md)**  
  Add a script include in the Global scope to consider the affected user's time zone when you run a diagnostic request using the badge reader or user daily log data source.
 -   **[Configure an email notification for the daily contact log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-daily-log-notification.md)**  
-Configure a custom email notification to use with [[emergency-outreach|Emergency Outreach]] notifications so you can request that users submit a list of other users they came in contact with throughout the workday.
+Configure a custom email notification to use with Emergency Outreach notifications so you can request that users submit a list of other users they came in contact with throughout the workday.
 -   **[Configure an Emergency Outreach notification for the daily contact log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notif-daily-log.md)**  
 As an administrator, create or configure the Emergency Outreach notification to send email and mobile push notifications to employees to ask them to submit a list of co-workers whom they have interacted with on a given day.
 -   **[Configure Contact Tracing data retention settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-contact-tracing-data-retention.md)**  
@@ -57,7 +57,7 @@ Configure an email notification to use in the Emergency Outreach to send to pote
 -   **[Configure an Emergency Outreach notification for the exposure notice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notify-exp-contact.md)**  
 Configure an Emergency Outreach notification to send email and mobile push notifications to potentially exposed employees in an exposure case to notify them of a potential exposure from an affected employee.
 -   **[Configure contact tracing visualization to show vaccination status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-vaccination-status-to-case-visualization.md)**  
-Configure Contact Tracing so case managers can view the [[vaccination-status|vaccination status]] of potentially exposed contacts in the contact tracing visualization.
+Configure Contact Tracing so case managers can view the vaccination status of potentially exposed contacts in the contact tracing visualization.
 -   **[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md)**  
 As an admin, you can configure privacy consent templates, location-based privacy configurations, email notifications, and outreach notifications for sending privacy consent alerts in Contact Tracing.
 -   **[Map handheld computing devices assigned to employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-user-handheld-devices.md)**  
@@ -69,10 +69,3 @@ Contact Tracing provides a Virtual Agent conversation to assess the health of po
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[use-emergency-exposure-mgnt|Identify potentially exposed users]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[vaccination-status|Vaccination Status]]

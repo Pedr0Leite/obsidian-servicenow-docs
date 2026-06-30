@@ -14,7 +14,7 @@ breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Managem
 
 # Approve or reject a time sheet or time card from your mobile device
 
-As a user manager, you can approve or reject from your mobile device all [[c_TimeCards|time cards]] for a user in a given week in a single step by approving or rejecting a time sheet.
+As a user manager, you can approve or reject from your mobile device all time cards for a user in a given week in a single step by approving or rejecting a time sheet.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: timecard\_approver or timecard\_admin
 
 A user manager is the one who has either of the required roles. The manager who can accept or reject the time sheet is selected in the **Manager** field on the User form of the time card user.
 
-A manager can [delegate another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the [[time-sheets|time sheets]] submitted by time card users to process.
+A manager can [delegate another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the time sheets submitted by time card users to process.
 
 ## Procedure
 
@@ -54,7 +54,3 @@ View and track the time sheets grouped according to the date of submission such 
 
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

@@ -38,7 +38,7 @@ Scoped Application Restricted Caller Access\[com.glide.scope.access.restricted\_
 
 </td><td>
 
-Allows scoped applications to [[t_ContrlAccessByCDGUOrLoc|restrict access]] to public tables and script includes.
+Allows scoped applications to restrict access to public tables and script includes.
 
 </td></tr></tbody>
 </table>## Procedure
@@ -51,24 +51,18 @@ Allows scoped applications to [[t_ContrlAccessByCDGUOrLoc|restrict access]] to p
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
--   **[[components-installed-with-response-templates|Components installed with response templates]]**  
+-   **[Components installed with response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/components-installed-with-response-templates.md)**  
 Several types of components are installed with activation of the Templated Responses \(com.sn\_templated\_snip\) plugin, including tables and user roles.
 
-**Parent Topic:**[[response-templates-templated-snippets|Response templates]]
+**Parent Topic:**[Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md)
 
 **Related topics**  
 
 
 [List of plugins \(Madrid\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[components-installed-with-response-templates|Components installed with response templates]]
-- [[response-templates-templated-snippets|Response templates]]
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

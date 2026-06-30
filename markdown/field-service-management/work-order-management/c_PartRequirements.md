@@ -18,12 +18,9 @@ After all work order tasks are qualified and the parent work order state automat
 
 If a work order was created from a [work order template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_WorkOrderTemplates.md), the part requirements are automatically added to the work order task. Part requirements can be used with any [Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagement.md).
 
-To create part requirements and [[c_SourceParts|source parts]], enable the **Part requirements are needed by agents** configuration option on the Field Service Configuration screen.
+To create part requirements and source parts, enable the **Part requirements are needed by agents** configuration option on the Field Service Configuration screen.
 
 To automatically reserve the required parts in agent stockroom, enable the **Reserve parts in agent stockroom** configuration option on the Field Service Configuration screen.
 
 **Note:** The required parts must be available in the agent personal stockroom or group stockroom to reserve them for a work order task.
 
-## Related
-
-- [[c_SourceParts|Source parts]]

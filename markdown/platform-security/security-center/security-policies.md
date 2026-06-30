@@ -14,13 +14,13 @@ breadcrumb: [Security monitoring console, Security Center, Platform Security]
 
 # Security Event Notifications
 
-View, manage, and analyze the default security event notification [[ca-policies|policies]] on your ServiceNow instance, as well as access the functionality to create custom policies.
+View, manage, and analyze the default security event notification policies on your ServiceNow instance, as well as access the functionality to create custom policies.
 
-Access Security Event Notifications from the [[sec-center-v2|Security Center]] homepage by opening the **[[sc-monitor-console|Security Monitoring Console]]** in the **Security Consoles** section, then selecting the **Security Event Notifications** tab.
+Access Security Event Notifications from the Security Center homepage by opening the **Security Monitoring Console** in the **Security Consoles** section, then selecting the **Security Event Notifications** tab.
 
 \[Omitted image "security-event-notifications-overview.png"\] Alt text: Security events notifications
 
-Customize and create notification policies that trigger [[email|email]] notifications when [[users|users]] perform actions in the ServiceNow AI Platform that might be insecure or require admin monitoring.
+Customize and create notification policies that trigger email notifications when users perform actions in the ServiceNow AI Platform that might be insecure or require admin monitoring.
 
 Admins can customize the values for the default policies, clone, and edit default policies or create their own custom ones.
 
@@ -110,10 +110,3 @@ Explore the complete history of security event notifications on your instance.
 
 **Parent Topic:**[Security monitoring console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-monitor-console.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[sec-center-v2|Security Center]]
-- [[sc-monitor-console|Security monitoring console]]
-- [[email|Email]]
-- [[users|Users]]

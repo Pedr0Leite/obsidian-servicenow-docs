@@ -14,7 +14,7 @@ breadcrumb: [Advanced Portal Navigation, Setup Employee Center browse experience
 
 # Configure advanced portal navigation
 
-[[adv-portal-navigation-overview|Advanced Portal Navigation]] \(APN\) helps you design and configure an intuitive navigation for better information architecture and topic discovery.
+Advanced Portal Navigation \(APN\) helps you design and configure an intuitive navigation for better information architecture and topic discovery.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Using the advanced portal navigation, you can enable single-click sync across al
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Advanced Portal Navigation**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Advanced Portal Navigation**.
 
 2.  Click **Take a tour** to understand the APN process.
 
@@ -54,7 +54,7 @@ Using the advanced portal navigation, you can enable single-click sync across al
 6.  On the **Start with current navigation menu**, select one of the following options.
 
     -   **Skip**: When you click skip, the existing associated navigation menu items and topics are not fetched and you can start building your hierarchy afresh.
-    -   **Yes**: When you click yes, the existing associated navigation menu items, topics, and associated [[emp-center-quick-link-config|quick links]] are fetched instantly and you can refine the hierarchy.
+    -   **Yes**: When you click yes, the existing associated navigation menu items, topics, and associated quick links are fetched instantly and you can refine the hierarchy.
     The **Menu items** related list appears.
 
     **Note:** An empty list appears when you click the skip option.
@@ -97,7 +97,7 @@ Application
 
 </td><td>
 
-Application in scope for this [[activity-lxp|activity]].
+Application in scope for this activity.
 
 </td></tr><tr><td>
 
@@ -239,9 +239,3 @@ All active navigation items associated with the portal and taxonomy are fetched 
 
 For more information, see [EC Information architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-information-architecture.md).
 
-## Related
-
-- [[adv-portal-navigation-overview|Advanced Portal Navigation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[activity-lxp|Activity]]

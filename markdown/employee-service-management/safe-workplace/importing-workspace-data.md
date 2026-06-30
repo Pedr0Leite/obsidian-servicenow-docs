@@ -14,7 +14,7 @@ breadcrumb: [Providing your workplace data, Workplace Core, Safe Workplace, Heal
 
 # Configuring spreadsheets to import workplace data
 
-Doing a bulk import of the data of all your workspaces into the [[workplace-safety-mgmt-hr|Workplace Core]] application through a spreadsheet enables you to avoid manually entering redundant data for each workspace, which saves time and effort.
+Doing a bulk import of the data of all your workspaces into the Workplace Core application through a spreadsheet enables you to avoid manually entering redundant data for each workspace, which saves time and effort.
 
 By using a spreadsheet that contains the global information for your work sites, you can enter only the distinguishing space information instead of manually repeating information such as region, site, building, and floor. You can either create an Excel spreadsheet from the data already entered into the Workplace Core application or modify an existing workplace spreadsheet.
 
@@ -103,6 +103,3 @@ If you have a large number of work sites, consider creating a spreadsheet that y
 
 [Import your workspaces data from an Excel spreadsheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/import-excel-spreadsheet-workspace-data-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

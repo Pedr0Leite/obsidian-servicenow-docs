@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Components installed with Advanced Work Assignment
 
-Several types of components are installed with activation of the [[awa-application-landing-page|Advanced Work Assignment]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Advanced Work Assignment plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -22,7 +22,7 @@ Demo data is available for this feature.
 
 ## Roles installed
 
-AWA adds the following roles for users who configure, manage, and receive [[awa-assignment|work assignments]].
+AWA adds the following roles for users who configure, manage, and receive work assignments.
 
 <table id="table_u1t_gb1_wdb"><thead><tr><th>
 
@@ -66,7 +66,7 @@ Advanced Work Assignment agent\[awa\_agent\]
 
 </td><td>
 
-Agent role for the AWA feature. Handles customer interactions and manages workload across multiple [[awa-service-channels|service channels]].
+Agent role for the AWA feature. Handles customer interactions and manages workload across multiple service channels.
 
 </td><td>
 
@@ -140,7 +140,7 @@ AWA Assignment Rule\[awa\_assignment\_rule\]
 
 </td><td>
 
-Stores the assignment rule records used to determine the [[awa-work-items|work items]] pushed to agents.
+Stores the assignment rule records used to determine the work items pushed to agents.
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ Stores the priority values for queues assigned to groups.
 
 </td></tr><tr><td>
 
-AWA [[awa-inbox-layout|Inbox Layout]]\[awa\_inbox\_layout\]
+AWA Inbox Layout\[awa\_inbox\_layout\]
 
 </td><td>
 
@@ -172,7 +172,7 @@ AWA Offer Details\[awa\_offer\_details\]
 
 </td><td>
 
-Stores whether a work item was assigned [[awa-agent-affinity-concept|using Agent Affinity]] and how the assignment was completed.
+Stores whether a work item was assigned using Agent Affinity and how the assignment was completed.
 
 </td></tr><tr><td>
 
@@ -263,12 +263,3 @@ Enables the Advanced Work Assignment cache. -   **Type**: true \| false
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-assignment|Work assignments]]
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]
-- [[awa-inbox-layout|Inbox layout]]
-- [[awa-agent-affinity-concept|Using Agent Affinity]]

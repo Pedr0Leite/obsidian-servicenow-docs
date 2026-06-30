@@ -16,7 +16,7 @@ Create a field recommendation that you can select when configuring a recommended
 
 ## Before you begin
 
-Use the [[csm-default-record-page|CSM default record page]] or the [[csm-interaction-record-page|CSM Interaction record page]] to display field recommendations in [[csm-workspaces-configure|CSM Configurable Workspace]]. For setting the CSM default record page or the CSM Interaction record page as the default page, see [[config-csm-ws-set-record-page-order|Set record page order]].
+Use the CSM default record page or the CSM Interaction record page to display field recommendations in CSM Configurable Workspace. For setting the CSM default record page or the CSM Interaction record page as the default page, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
@@ -29,7 +29,7 @@ Creating a field recommendation involves two main steps:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Action Types** &gt; **Field Recommendations**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Action Types** &gt; **Field Recommendations**.
 
 2.  Select **New** on the Field Recommendations list.
 
@@ -37,7 +37,7 @@ Creating a field recommendation involves two main steps:
 
 4.  In the **Table** field, select `Case [sn_customerservice_case]` so that you can populate field recommendation for the **Assignment group** field on a case record.
 
-5.  Save the record to display the related [[migration-lists|lists]].
+5.  Save the record to display the related lists.
 
 6.  In the Field Recommendation Inputs related list, select **New** to create an input.
 
@@ -72,11 +72,4 @@ Creating a field recommendation involves two main steps:
 
     5.  Select **Submit**.
 
-## Related
 
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]

@@ -16,11 +16,11 @@ breadcrumb: [Automated indicators, Indicators, Configure fundamentals, Performan
 
 Snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. Snapshots enable users to drill down into the records from a Performance Analytics indicator visualization.
 
-Only [[automated-indicators|automated indicators]] can have snapshots. Snapshots are made only for those automated indicators that have **Collect records** enabled. The following features require records to be collected:
+Only automated indicators can have snapshots. Snapshots are made only for those automated indicators that have **Collect records** enabled. The following features require records to be collected:
 
 -   Drilling down into individual records from the scores on a Performance Analytics widget.
--   Showing records in [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
--   Showing records in [[kpi-details|KPI Details]].
+-   Showing records in Analytics Hub.
+-   Showing records in KPI Details.
 
 ## Retention period
 
@@ -35,8 +35,3 @@ By default, snapshots are retained for 183 days. You can change this period eith
 
 **Next topic:**[Create an automated indicator with a wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtIndctrIndctrWzrd.md)
 
-## Related
-
-- [[automated-indicators|Automated indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]

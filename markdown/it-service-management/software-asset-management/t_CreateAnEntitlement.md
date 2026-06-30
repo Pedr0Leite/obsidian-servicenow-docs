@@ -22,7 +22,7 @@ Role required: asset
 
 ## About this task
 
-You can create these entitlements from the [[c_AssetManagement|Asset Management]] application. Navigate to one of these locations and click **New**:
+You can create these entitlements from the Asset Management application. Navigate to one of these locations and click **New**:
 
 -   **Asset** &gt; **Software** &gt; **Asset License Entitlements**
 -   **Asset** &gt; **Software** &gt; **User License Entitlements**
@@ -56,6 +56,3 @@ You can create these entitlements from the [[c_AssetManagement|Asset Management]
 
 **Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatSWLicenseEntitlemnt.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

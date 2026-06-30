@@ -22,7 +22,7 @@ Role required: app\_service\_admin, app\_service\_user, service\_mapping\_admin,
 
 ## About this task
 
-By default, service maps are concise and contain every detail about all CIs that you added manually or that [[c_ServiceMappingOverview|Service Mapping]] mapped. While it provides a complete picture, using such a map might be difficult. Customizing maps allows you to:
+By default, service maps are concise and contain every detail about all CIs that you added manually or that Service Mapping mapped. While it provides a complete picture, using such a map might be difficult. Customizing maps allows you to:
 
 -   make it easier to navigate the map.
 -   hide irrelevant information.
@@ -66,7 +66,7 @@ When Disabled
 
  The host view can help determine that Service Mapping discovered and mapped all hosts correctly as well as help locate connections to each host. The host view also simplifies the map especially when many applications are running on a few hosts.
 
- The Host View is useful only for service instances discovered [[using-service-mapping|using Service Mapping]]. This view does not offer additional information for manually created service instances.
+ The Host View is useful only for service instances discovered using Service Mapping. This view does not offer additional information for manually created service instances.
 
 </td><td>
 
@@ -132,7 +132,7 @@ The service instance map shows topology cycles.
 
 </td><td>
 
-The service instance map displays CIs and hosts that Service Mapping discovered using both patterns and traffic-based [[r-discovery|discovery]].
+The service instance map displays CIs and hosts that Service Mapping discovered using both patterns and traffic-based discovery.
 
  While detecting CIs inbound and outbound traffic creates an inclusive map, it may also result in mapping many redundant CIs that do not influence the service instance operation.
 
@@ -243,8 +243,3 @@ The map does not show ignored errors.
 
 [Create or modify map indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateModifyNGBSMMapIndicators.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[using-service-mapping|Using Service Mapping]]
-- [[r-discovery|Discovery]]

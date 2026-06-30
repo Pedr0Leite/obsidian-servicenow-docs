@@ -12,9 +12,9 @@ breadcrumb: [Monitor instance metrics, Instance Security Center, Platform Securi
 
 # Email metrics
 
-Analyze your email metrics to look for anomalous behaviors that are related to the incoming emails to your instance. For example, if the [[ca-metrics|metrics]] indicate a spike in spam emails from specific domains, you can define inbound actions that prevent their delivery to the instance.
+Analyze your email metrics to look for anomalous behaviors that are related to the incoming emails to your instance. For example, if the metrics indicate a spike in spam emails from specific domains, you can define inbound actions that prevent their delivery to the instance.
 
-For each [[email|email]] metric, a count appears for each type of email that is delivered or sent to the instance during the calendar day.
+For each email metric, a count appears for each type of email that is delivered or sent to the instance during the calendar day.
 
 <table id="table_rpk_b5z_4lb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Untrusted Incoming Email
 
 </td><td>
 
-Number of incoming emails to the instance for the calendar day from email domains designated as untrusted. You can designate untrusted or trusted email domains in the Untrusted And Trusted Domain form so that you can track your inbound emails that are sent from them. To learn how to designate untrusted or trusted email domains, see [[designate-untrusted-trusted-email-domains|Designate email domains as untrusted or trusted]].
+Number of incoming emails to the instance for the calendar day from email domains designated as untrusted. You can designate untrusted or trusted email domains in the Untrusted And Trusted Domain form so that you can track your inbound emails that are sent from them. To learn how to designate untrusted or trusted email domains, see [Designate email domains as untrusted or trusted](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md).
 
 </td></tr></tbody>
 </table>After you click an email metric, you can learn about the possible email security issues in your instance by clicking one of the following:
@@ -70,11 +70,5 @@ Number of incoming emails to the instance for the calendar day from email domain
 -   **[Designate email domains as untrusted or trusted](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md)**  
 Designate specific email domains as untrusted or trusted so that you can monitor the metrics for incoming emails from these sources in your instance.
 
-**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
-## Related
-
-- [[designate-untrusted-trusted-email-domains|Designate email domains as untrusted or trusted]]
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[ca-metrics|Metrics]]
-- [[email|Email]]

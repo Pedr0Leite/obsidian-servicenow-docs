@@ -22,7 +22,7 @@ Role required: itil or problem\_coordinator
 
 ## Procedure
 
-1.  [[create-a-problem-v2|Create a problem]] from any of the following sources.
+1.  Create a problem from any of the following sources.
 
 <table id="choicetable_vrd_rrt_tsb"><thead><tr><th align="left" id="d330553e52">
 
@@ -76,7 +76,7 @@ Description
 For more information, see [Configure properties for Problem Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-problem-properties-sow.md).
 
 </td></tr></tbody>
-</table>2.  On the [[problem-form|problem form]], fill the fields in the **Details** tab.
+</table>2.  On the problem form, fill the fields in the **Details** tab.
 
     For a description of the field values, see [Problem form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-form-sow.md).
 
@@ -90,7 +90,7 @@ For more information, see [Configure properties for Problem Management in Servic
 
 [Work on a problem in Service Operations Workspace]()
 
-[Problem Management [[c_Models|models]] in Service Operations Workspace]()
+[Problem Management models in Service Operations Workspace]()
 
 [Create a problem task in Service Operations Workspace]()
 
@@ -98,8 +98,3 @@ For more information, see [Configure properties for Problem Management in Servic
 
 [Problem Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[create-a-problem-v2|Create a problem]]
-- [[problem-form|Problem form]]
-- [[c_Models|Models]]

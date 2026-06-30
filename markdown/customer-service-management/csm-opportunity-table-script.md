@@ -64,7 +64,7 @@ if (v_query.isGet()) {
 
 ```
 
-Note that this script configures an information message if the Salesforce account is undefined when it’s required by the action. The undefined value comes from the relationship that is described in [[csm-related-list-opportunity-table|Using a related list to create the connection between the Customer Account and the Salesforce Opportunities]].
+Note that this script configures an information message if the Salesforce account is undefined when it’s required by the action. The undefined value comes from the relationship that is described in [Using a related list to create the connection between the Customer Account and the Salesforce Opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-related-list-opportunity-table.md).
 
 When the Salesforce account is undefined, there’s nothing to query for in this case and the function returns without calling the spoke action.
 
@@ -112,7 +112,7 @@ var opportunities = outputs.opportunities.data;
 
 ```
 
-Note that the Salesforce opportunity record Id is assigned to the remote table sys\_id. This verifies that [[migration-lists|lists]] and [[migration-forms|forms]] for the remote table function properly and that we are able to extract the record Id using `v_query.getSysId()` the next time that the remote table script is invoked.
+Note that the Salesforce opportunity record Id is assigned to the remote table sys\_id. This verifies that lists and forms for the remote table function properly and that we are able to extract the record Id using `v_query.getSysId()` the next time that the remote table script is invoked.
 
 Then display the information message if it was passed by the query.
 
@@ -148,11 +148,5 @@ The three sections of the script are included in the try-catch block to provide 
 
 ```
 
-**Parent Topic:**[[csm-integration-remote-tables|Using remote tables and the Salesforce spoke]]
+**Parent Topic:**[Using remote tables and the Salesforce spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-remote-tables.md)
 
-## Related
-
-- [[csm-related-list-opportunity-table|Connect Customer Account and Salesforce Opportunities using a related list]]
-- [[csm-integration-remote-tables|Using remote tables and the Salesforce spoke]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

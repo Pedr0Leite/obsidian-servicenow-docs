@@ -14,7 +14,7 @@ breadcrumb: [Configuring automated certificate renewal, Automated certificate re
 
 # Add the required applications and capabilities to your MID Server
 
-Enable your MID Server to auto-renew your certificates by adding the [[cert-inventory-mgmt|Certificate Inventory and Management]] and GenerateCSR applications.
+Enable your MID Server to auto-renew your certificates by adding the Certificate Inventory and Management and GenerateCSR applications.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Move the applications Certificate Inventory and Management and GenerateCSR from 
 
 2.  Select the MID Server that you want to configure.
 
-    **Note:** The MID Server must be the same MID Server that you configured for [[automated-certificate-renewal|automated certificate renewal]].
+    **Note:** The MID Server must be the same MID Server that you configured for automated certificate renewal.
 
 3.  Modify the MID Server
 
@@ -67,7 +67,3 @@ Your MID Server supports the Certificate Inventory and Management and GenerateCS
 
 [Configure System Properties for automatic certificate renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-sys-props-for-auto-cert-renewal.md), to complete the configuration for automatic certificate renewal.
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[automated-certificate-renewal|Automated certificate renewal]]

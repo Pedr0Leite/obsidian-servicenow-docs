@@ -14,13 +14,13 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Restrict report creation with an ACL rule
 
-Create an [[access-control|access control]] list rule to restrict who can [[t_CreateYourOwnReport|create a report]] on a table, data source, or database view.
+Create an access control list rule to restrict who can create a report on a table, data source, or database view.
 
 ## Before you begin
 
 Role required: security\_admin.
 
-**Note:** In addition to report\_on ACLs for specific tables, a write ACL on the \[sys\_report\] table controls write access for all reports. If this ACL prevents you from saving the current report, the **Save** button in the Report Designer is disabled. For example, when you [[t_RunAReport|view a report]] that another user shared with you. If you have the correct security settings, click **Save** &gt; **Insert** to save an editable copy of the report.
+**Note:** In addition to report\_on ACLs for specific tables, a write ACL on the \[sys\_report\] table controls write access for all reports. If this ACL prevents you from saving the current report, the **Save** button in the Report Designer is disabled. For example, when you view a report that another user shared with you. If you have the correct security settings, click **Save** &gt; **Insert** to save an editable copy of the report.
 
 ## Procedure
 
@@ -60,7 +60,7 @@ Role required: security\_admin.
     **Note:**
 
     -   Users can view and run reports on tables even if they cannot create reports due to report\_on ACL restrictions.
-    -   System tables are not reportable by default. To allow [[reporting-landing-page|reporting]] against system tables, administrators can configure the **glide.ui.permitted\_tables** property. To learn more, see [Reporting on system tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportOnSystemTables.md).
+    -   System tables are not reportable by default. To allow reporting against system tables, administrators can configure the **glide.ui.permitted\_tables** property. To learn more, see [Reporting on system tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportOnSystemTables.md).
     -   The ACL `report_on` operation grants the right to report on the target table.
     -   [Database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) have their own ACLs. If a user has `report_on` rights to all the tables in a database view, they still require report\_on rights on the database view to create reports on it. See [Database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseViews.md).
 
@@ -73,9 +73,3 @@ Role required: security\_admin.
 
 [bundle-psec.access-control-rules]
 
-## Related
-
-- [[access-control|Access control]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[t_RunAReport|View a report]]
-- [[reporting-landing-page|Reporting]]

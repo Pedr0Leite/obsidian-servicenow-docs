@@ -14,7 +14,7 @@ breadcrumb: [Customizing Desktop Assistant notifications using API parameters, S
 
 # Send a Desktop Assistant notification from server-side script
 
-Use `DesktopAppNotificationUtils` to send [[da-push-notifications|Desktop Assistant notifications]] to users from a server-side script.
+Use `DesktopAppNotificationUtils` to send Desktop Assistant notifications to users from a server-side script.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_dex\_desktop.admin or admin
 
 4.  Call sendDANotification\(\) with **notification\_message**, **recipient\_list**, and **source** as the minimum required parameters.
 
-    **Note:** The **source** parameter accepts `mim` \(Major [[c_IncidentManagement|Incident Management]]\) or `pe` \([[proactive-engagement-landing-page|Proactive Engagement]]\) as its value.
+    **Note:** The **source** parameter accepts `mim` \(Major Incident Management\) or `pe` \(Proactive Engagement\) as its value.
 
     Example of API call script structure:
 
@@ -62,8 +62,4 @@ Role required: sn\_dex\_desktop.admin or admin
 
     For more information, see [View Desktop Assistant notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-notifications.md). If the notification does not appear on the Desktop Assistant client, see [Troubleshoot Desktop Assistant notification delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/resolve-da-notification-issues.md).
 
-## Related
 
-- [[da-push-notifications|Desktop Assistant notifications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Add subslot templates to the interface card template
 
-In the Inventory Template form in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], you can add subslots to the interface card template that you created. You perform this procedure any time that you add a new card model to an existing equipment inventory template.
+In the Inventory Template form in the Network Inventory Workspace Lists view, you can add subslots to the interface card template that you created. You perform this procedure any time that you add a new card model to an existing equipment inventory template.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ Next, add a network interface to an interface card template. To learn more, see 
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]

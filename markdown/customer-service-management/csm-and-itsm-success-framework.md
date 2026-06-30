@@ -16,7 +16,7 @@ Customer Service Management \(CSM\) focuses on enhancing customer satisfaction, 
 
 ## Overview of CSM and ITSM
 
-Customer Service Management \(CSM\) is centered around external customers, spanning both business-to-business \(B2B\) and business-to-consumer \(B2C\). For instance, consider Sarah, a customer service agent at a software company that provides cloud-based solutions. Sarah’s primary goal with CSM is to ensure customer satisfaction by resolving technical issues, managing subscription inquiries, and guiding customers through product updates. Ultimately, these efforts help retain clients and enhance the customer experience. See [[c_CustomerServiceManagement|Customer Service Management]] for more information.
+Customer Service Management \(CSM\) is centered around external customers, spanning both business-to-business \(B2B\) and business-to-consumer \(B2C\). For instance, consider Sarah, a customer service agent at a software company that provides cloud-based solutions. Sarah’s primary goal with CSM is to ensure customer satisfaction by resolving technical issues, managing subscription inquiries, and guiding customers through product updates. Ultimately, these efforts help retain clients and enhance the customer experience. See [Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md) for more information.
 
 IT Service Management \(ITSM\) aims to support internal users of IT services within an organization while empowering teams that depend on these services to deliver value to external customers. Meet Alex, an IT administrator dedicated to maintaining network infrastructure. Alex's role in ITSM entails implementing and managing IT services aligned with the organization's business needs, aiming to support and enable business outcomes through efficient IT operations. See [IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md) for more information.
 
@@ -41,7 +41,7 @@ CSM and ITSM don’t need to operate independently; they can be integrated to st
 The key benefits include:
 
 -   **Efficient Collaboration**: Agents can seamlessly create incident, problem, change, and request records directly from open cases, facilitating collaboration across different parts of the organization to resolve customer issues promptly.
--   **Enhanced [[customer-communication|Customer Communication]]**: Updates to records associated with a case are automatically reflected in case work notes, enabling agents to provide timely updates to customers and fostering transparency and trust in customer interactions.
+-   **Enhanced Customer Communication**: Updates to records associated with a case are automatically reflected in case work notes, enabling agents to provide timely updates to customers and fostering transparency and trust in customer interactions.
 -   **Unified Service Experience**: Customers can submit requests directly from the customer service portal, where a case is created for each request. A unified experience ensuring consistency and ease of access for customers seeking assistance.
 -   **Insightful Dashboards**: Agents and managers can gain comprehensive insights by viewing cases with Service Management-related indicators on the Customer Service dashboards. This broad-based view enables informed decision-making and proactive management of customer interactions.
 
@@ -51,7 +51,3 @@ To deliver efficient service and enhance customer satisfaction, it’s important
 
 So, whether you're Sarah, managing customer interactions at the software company, or Alex, focusing on IT processes, leveraging the strengths of both CSM and ITSM is key to driving success in today's evolving business environment.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-communication|Customer communication]]

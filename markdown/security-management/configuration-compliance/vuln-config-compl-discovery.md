@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance imported data, Explore, Configuration Comp
 
 # Configuration Compliance discovery
 
-[[vr-config-compliance-landing|Configuration Compliance]] data is imported from third-party SCA scanner applications. They structure groups of software and hardware tests into data records to expedite conducting assessments.
+Configuration Compliance data is imported from third-party SCA scanner applications. They structure groups of software and hardware tests into data records to expedite conducting assessments.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -33,6 +33,3 @@ When an import is complete, an event is sent to indicate end-of-import actions. 
 
 **Parent Topic:**[Configuration Compliance imported data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-policies.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

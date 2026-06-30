@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Associate a service definition with a service definition category
 
-After creating a service definition category, you can associate one or more [[csm-service-definitions|service definitions]] with the category.
+After creating a service definition category, you can associate one or more service definitions with the category.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Service definition categories enable you to organize service definitions into lo
 
     The service definition is added to the Service Definition Category Relationships related list.
 
-## Related
 
-- [[csm-service-definitions|Service definitions]]

@@ -13,11 +13,11 @@ breadcrumb: [Analyzing Now Assist performance, Exploring Now Assist Admin, Now A
 
 # Exploring Now Assist Analytics
 
-Learn how [[platform-now-assist-landing|Now Assist]] Analytics enables users with the Now Assist Analytics Viewer or Now Assist Analytics Admin role to monitor the usage, value, and performance of generative AI features and capabilities offered under Now Assist.
+Learn how Now Assist Analytics enables users with the Now Assist Analytics Viewer or Now Assist Analytics Admin role to monitor the usage, value, and performance of generative AI features and capabilities offered under Now Assist.
 
 ## Now Assist Analytics overview
 
-The Now Assist Analytics dashboard is built on the Platform Analytics experience. The dashboard contains indicators and breakdowns that provide actionable insights into the usage, value, and performance of your Now Assist implementation, including Now Assist Guardian, [[now-assist-write-overview|Now Assist context menu]], and search.
+The Now Assist Analytics dashboard is built on the Platform Analytics experience. The dashboard contains indicators and breakdowns that provide actionable insights into the usage, value, and performance of your Now Assist implementation, including Now Assist Guardian, Now Assist context menu, and search.
 
 ## Now Assist Analytics users
 
@@ -46,12 +46,12 @@ Monitor usage, value, and adoption of Now Assist, skill performance, Now Assist 
 
 </td><td>
 
--   [[usage-and-adoption|Usage and adoption]]
+-   [Usage and adoption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/usage-and-adoption.md)
 -   
--   [[skill-usage|Skills performance]]
--   [[now-assist-guardian-analytics|Now Assist Guardian analytics]]
--   [[now-assist-context-menu-analytics|Now Assist context menu analytics]]
--   [[user-search-analyser|User search analyzer]]
+-   [Skills performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/skill-usage.md)
+-   [Now Assist Guardian analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-guardian-analytics.md)
+-   [Now Assist context menu analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-context-menu-analytics.md)
+-   [User search analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-search-analyser.md)
 
 </td><td>
 
@@ -62,19 +62,7 @@ Now Assist Analytics Admin or Now Assist Analytics Viewer
 
 To learn more about configuring and using Now Assist Analytics, see:
 
--   [[configuring-now-assist-analytics|Configuring Now Assist Analytics]]
--   [[using-now-assist-analytics|Using Now Assist Analytics]]
--   [[now-assist-analytics-reference|Now Assist Analytics reference]]
+-   [Configuring Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-analytics.md)
+-   [Using Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-analytics.md)
+-   [Now Assist Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-reference.md)
 
-## Related
-
-- [[usage-and-adoption|Usage and adoption]]
-- [[skill-usage|Skills performance]]
-- [[now-assist-guardian-analytics|Now Assist Guardian analytics]]
-- [[now-assist-context-menu-analytics|Now Assist context menu analytics]]
-- [[user-search-analyser|User search analyzer]]
-- [[configuring-now-assist-analytics|Configuring Now Assist Analytics]]
-- [[using-now-assist-analytics|Using Now Assist Analytics]]
-- [[now-assist-analytics-reference|Now Assist Analytics reference]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-write-overview|Now Assist context menu]]

@@ -21,10 +21,10 @@ The B2B2C model involves interactions where a business sells products or service
 ## Benefits
 
 -   Improved Data Accuracy: By structuring data methodically, it confirms that information is accurate and up-to-date, reducing errors and enhancing decision-making capabilities.
--   Enhanced Customer Insights: The [[data-models|data models]] provide a holistic view of both business customers and end consumers, enabling a better understanding of customer needs and preferences.
+-   Enhanced Customer Insights: The data models provide a holistic view of both business customers and end consumers, enabling a better understanding of customer needs and preferences.
 -   Operational Efficiency: Streamlined data management processes lead to faster service delivery and issue resolution, improving overall operational efficiency.
 -   Scalability: As businesses grow, the data models can be scaled to accommodate more customers and complex relationships without compromising on data integrity.
--   Personalized Service: With detailed [[customer-data|customer data]], businesses can offer tailored services and solutions, leading to higher customer satisfaction and loyalty.
+-   Personalized Service: With detailed customer data, businesses can offer tailored services and solutions, leading to higher customer satisfaction and loyalty.
 
 <table id="table_f5v_ypt_kdc"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[t_AssociateConsumersToAccounts|Associate an account with consumers]]
+[Associate an account with consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_AssociateConsumersToAccounts.md)
 
 </td><td>
 
@@ -44,23 +44,23 @@ Enable customer service managers to identify the end consumers who are using pro
 
 </td></tr><tr><td>
 
-[[t_AssociateSoldProduct|Associate sold products with account consumers]]
+[Associate sold products with account consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_AssociateSoldProduct.md)
 
 </td><td>
 
-Enable customer service managers to track [[sold-product|sold products]] or services by associating sold products or services with account consumers.
+Enable customer service managers to track sold products or services by associating sold products or services with account consumers.
 
 </td></tr><tr><td>
 
-[[t_AssociateInstallBaseItems|Associate install base items with account consumers]]
+[Associate install base items with account consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_AssociateInstallBaseItems.md)
 
 </td><td>
 
-Enable customer service managers to track the instances provisioned by associating [[install-base-item|install base items]] with account consumers.
+Enable customer service managers to track the instances provisioned by associating install base items with account consumers.
 
 </td></tr><tr><td>
 
-[[view-install-base-for-account-consumers|View install base information as an account consumer]]
+[View install base information as an account consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-for-account-consumers.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Track the instances provisioned for your account and which products or services 
 
 </td></tr><tr><td>
 
-[[view-sold-products-for-account-consumers|View sold products information as an account consumer]]
+[View sold products information as an account consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-products-for-account-consumers.md)
 
 </td><td>
 
@@ -76,15 +76,3 @@ Track the products or services sold to your account by viewing the list of sold 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_AssociateConsumersToAccounts|Associate an account with consumers]]
-- [[t_AssociateSoldProduct|Associate sold products with account consumers]]
-- [[t_AssociateInstallBaseItems|Associate install base items with account consumers]]
-- [[view-install-base-for-account-consumers|View install base information as an account consumer]]
-- [[view-sold-products-for-account-consumers|View sold products information as an account consumer]]
-- [[data-models|Data models]]
-- [[customer-data|Customer data]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

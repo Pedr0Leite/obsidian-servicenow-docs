@@ -26,7 +26,7 @@ When a metric crosses or falls within the range of a configured threshold, the s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Metrics** &gt; **Metric Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Metrics** &gt; **Metric Rules**.
 
 2.  Select **New Metric Rule**.
 
@@ -90,6 +90,3 @@ When a metric crosses or falls within the range of a configured threshold, the s
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[c_EM|Event Management]]

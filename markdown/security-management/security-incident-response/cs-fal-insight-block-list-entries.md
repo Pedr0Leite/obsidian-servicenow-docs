@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Block List Entries
 
-The Block List Entries display records created through Block Requests with the Block action. It lists blocked Hash [[c_Observables|observables]] with a Success or Expired status and provides key details such as observable type, source, status, active state, date added, and complete activity history, including status and expiration updates from the CrowdStrike platform.
+The Block List Entries display records created through Block Requests with the Block action. It lists blocked Hash observables with a Success or Expired status and provides key details such as observable type, source, status, active state, date added, and complete activity history, including status and expiration updates from the CrowdStrike platform.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight Integration]]** &gt; **Block List Entries**.
+1.  Navigate to **All** &gt; **CrowdStrike Falcon Insight Integration** &gt; **Block List Entries**.
 
 2.  Select **Entry Value**.
 
@@ -30,7 +30,4 @@ Role required: sn\_si.analyst
 
 3.  Select **Submit**.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]

@@ -23,7 +23,7 @@ Make sure that you have the following setup:
 -   You have read access to the domain information table for the evt\_mgmt\_integration role \(default table: core\_company\). For more information, see [Configure an ACL rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_CreateAnACLRule.md).
 -   You enabled the **evt\_mgmt.connector\_enable\_custom\_domain\_separation** .system property.
 -   You installed the following plug-ins in the ServiceNow AI Platform® instance:
-    -   [[c_EM|Event Management]] \(**com.glideapp.itom.snac**\)
+    -   Event Management \(**com.glideapp.itom.snac**\)
     -   Event Management connectors \(**sn\_em\_connector**\)
     -   Domain Support - Domain Extensions Installer \(**com.glide.domain.msp\_extensions.installer**\)
 
@@ -40,7 +40,7 @@ Role required: evt\_mgmt\_admin
 
 3.  On the **Push Connector** screen, scroll down to the **Push Connector Configurations** list and select **New**.
 
-    **Note:** If this list is not displayed, you must [[create-push-connector-configuration-parameter|create a push connector configuration parameter]]. For more information, see [Create a push connector configuration parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-push-connector-configuration-parameter.md).
+    **Note:** If this list is not displayed, you must create a push connector configuration parameter. For more information, see [Create a push connector configuration parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-push-connector-configuration-parameter.md).
 
 4.  In the **Push Connector Configurations** screen, determine whether events should be created in the provided domain or the domain provided in the payload of each event.
 
@@ -105,7 +105,3 @@ Events are created in the domain referred to by the domain identifier.
 
 [Connector domain metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connector-domain-metadata.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-push-connector-configuration-parameter|Create a push connector configuration parameter]]

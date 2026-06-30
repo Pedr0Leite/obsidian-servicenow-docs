@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for ITOM.
 
 Perform the steps in the following order:
 
-1.  [[dc-itom-install|Install the Data Collection Pack for ITOM]]
-2.  [[dc-itom-config|Configure Data Collection for ITOM]]
-3.  [[dc-itom-activate|Activate Data Collection for ITOM]]
-4.  [[dc-itom-install-artifacts|Review ITOM artifacts]]
+1.  [Install the Data Collection Pack for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itom-install.md)
+2.  [Configure Data Collection for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itom-config.md)
+3.  [Activate Data Collection for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itom-activate.md)
+4.  [Review ITOM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itom-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-upgrade|Upgrading the Data Collection Content Pack]] and [[dc-all-modify|Modifying the Data Collection configuration]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md) and [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md).
 
-## Related
-
-- [[dc-itom-install|Install the Data Collection Pack for ITOM]]
-- [[dc-itom-config|Configure Data Collection for ITOM]]
-- [[dc-itom-activate|Activate Data Collection for ITOM]]
-- [[dc-itom-install-artifacts|Review ITOM artifacts]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage work orders, Prepare work orders, Use, Field Service Managem
 
 # Apply a work order template
 
-Work order templates enable users with the proper roles to automatically create work orders, tasks, and [[c_PartRequirements|part requirements]].
+Work order templates enable users with the proper roles to automatically create work orders, tasks, and part requirements.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: wm\_admin or model\_manager
 
     -   Create the parts requirements. If a part specified is out of stock, the system displays a message naming the part.
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]

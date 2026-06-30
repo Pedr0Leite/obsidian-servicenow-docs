@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On your ServiceNow instance, navigate to the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] Guided Setup page.
+1.  On your ServiceNow instance, navigate to the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery Guided Setup page.
 
 2.  Select **Get Started**.
 
@@ -124,6 +124,4 @@ Role required: admin
     
     ```
 
-## Related
 
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]

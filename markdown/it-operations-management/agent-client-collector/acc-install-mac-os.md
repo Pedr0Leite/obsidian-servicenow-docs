@@ -14,11 +14,11 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 # Agent Client Collector installation on a macOS system
 
-Install [[acc-landing-page|Agent Client Collector]] on a system that uses macOS. You can either use a single-line command script or follow a manual installation procedure if the agent is not connected to the instance or you want enhanced customization options.
+Install Agent Client Collector on a system that uses macOS. You can either use a single-line command script or follow a manual installation procedure if the agent is not connected to the instance or you want enhanced customization options.
 
 To enable privileged access to information on the macOS system, add the **\_servcienow** user account to the admin group \(or equivalent\).
 
-[[acc-virtual-deployment|Incorporating the Agent Client Collector into a custom base image for mass deployment]] is not supported on macOS.
+Incorporating the Agent Client Collector into a custom base image for mass deployment is not supported on macOS.
 
 -   **[Perform a single-line Agent Client Collector installation on macOS when using a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-macOS-single-line.md)**  
 Use an efficient single-line command script to install Agent Client Collector on a machine that uses macOS operating system. Use the manual installation procedure if the agent is not connected to the instance or you want enhanced customization options.
@@ -29,12 +29,7 @@ Perform a manual upgrade of your existing Agent Client Collector version on a sy
 -   **[Uninstall the Agent Client Collector from macOS using a single-line command](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-uninstall-mac-single-line.md)**  
 Uninstall the Agent Client Collector from macOS machine by running an efficient single-line command. If the agent is connected to the instance, uninstall Agent Client Collector manually.
 -   **[Uninstall the Agent Client Collector from a macOS machine manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-uninstall-mac-manual.md)**  
-[[acc-uninstall-mac-manual|Uninstall the Agent Client Collector from a macOS machine manually]] instead of using the single-line procedure when the specific agent is not connected to the instance.
+Uninstall the Agent Client Collector from a macOS machine manually instead of using the single-line procedure when the specific agent is not connected to the instance.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-virtual-deployment|Incorporating the Agent Client Collector into a custom base image for mass deployment]]
-- [[acc-uninstall-mac-manual|Uninstall the Agent Client Collector from a macOS machine manually]]

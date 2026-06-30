@@ -22,7 +22,7 @@ Remedial actions executed from the following sources are displayed in the **Play
 -   Action library within the incident record
 -   Action library within a DEX device page
 -   DEX Self-service for employees
--   [[proactive-engagement-landing-page|Proactive Engagement]]
+-   Proactive Engagement
 
 Each action card in the **Playbooks** panel displays information like the action name, source, status, start time, and name of user who initiated the action.
 
@@ -33,6 +33,3 @@ You can monitor current and past remedial actions and cancel ongoing actions run
 
 For more information, see [Manage remedial actions in DEX incident investigation Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/manage-incident-remedial-actions-playbook.md).
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]

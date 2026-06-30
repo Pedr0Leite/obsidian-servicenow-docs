@@ -14,22 +14,16 @@ breadcrumb: [Notify, Manage service capabilities, Extend ServiceNow AI Platform 
 
 # Exploring Notify
 
-Use and integrate [[notify-landing-page|Notify]] with the third-party service providers as a communication channel to meet with the stakeholders to resolve the incidents.
+Use and integrate Notify with the third-party service providers as a communication channel to meet with the stakeholders to resolve the incidents.
 
 -   **[Notify Twilio Direct driver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/Notify-TwilioDirectDriver.md)**  
-The Notify-Twilio integration with the Notify-Twilio Direct driver provides APIs and [[c_WorkflowActivities|workflow activities]] for applications to handle various notification features.
+The Notify-Twilio integration with the Notify-Twilio Direct driver provides APIs and workflow activities for applications to handle various notification features.
 -   **[Notify Zoom connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-zoom-connector.md)**  
-The [[notify-zoom-connector|Notify Zoom Connector]] expands the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
+The Notify Zoom Connector expands the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
 -   **[Notify voice and SMS capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-voice-SMS-capabilities.md)**  
 Notify provides support for SMS and voice channels for communicating internally with team members and externally with customers and contractors.
 -   **[Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/cisco-webex-notify.md)**  
-[[cisco-webex-notify|Notify Cisco Webex Connector]] enables you to manage and initiate a Webex meeting directly from an incident.
+Notify Cisco Webex Connector enables you to manage and initiate a Webex meeting directly from an incident.
 
 **Parent Topic:**[Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-landing-page.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[notify-zoom-connector|Notify Zoom connector]]
-- [[cisco-webex-notify|Notify Cisco Webex Connector]]

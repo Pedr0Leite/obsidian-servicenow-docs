@@ -14,7 +14,7 @@ breadcrumb: [Create anonymization policies, Data anonymization, Data privacy, Da
 
 # Configure data anonymization clone request
 
-[[dp-clone|Data privacy clone]] integration is configured using a PostClone script to create and execute [[data-privacy-landing|data privacy]] jobs for configured [[ca-policies|policies]] on the target. After running the script, [[users|users]] will see de-identified data and will not have access to the original data.
+Data privacy clone integration is configured using a PostClone script to create and execute data privacy jobs for configured policies on the target. After running the script, users will see de-identified data and will not have access to the original data.
 
 ## Before you begin
 
@@ -30,11 +30,11 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
 2.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 3.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
-4.  Select **[[dds-new-policy|Create new policy]]**.
+4.  Select **Create new policy**.
 
     See [Create anonymization policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-policies.md) for details.
 
@@ -48,7 +48,7 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
 9.  Select the policy order to run if there are multiple clone policies.
 
-    A data privacy job for Postclone [[sc-configuration|configuration]] with a higher Application Order might start before another job of lower order, if the job with the higher order does not involve any table related to other lower order job.
+    A data privacy job for Postclone configuration with a higher Application Order might start before another job of lower order, if the job with the higher order does not involve any table related to other lower order job.
 
 10. Select **Continue**.
 
@@ -60,7 +60,7 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
     See [Create anonymization job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-job.md)for details.
 
-14. As the data privacy admin, submit a clone [[c_requestAPI|request]].
+14. As the data privacy admin, submit a clone request.
 
 
 ## Result
@@ -69,13 +69,3 @@ The data privacy PostClone script executes on the target Instance and The PostCl
 
 The elevated data privacy clone processor can log on to the target instance and monitor the post-clone federated job state on the dp\_federated\_job.list and dp\_job.list​.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[dp-clone|Data privacy clone]]
-- [[data-privacy-landing|Data Privacy]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[dds-new-policy|Create new policy]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Retail Task Management, Retail]
 
 # Exploring Retail Task Management
 
-Whether you're starting or expanding your implementation of the [[rahi-retail-task-management-overview|Retail Task Management]] application, learn more about the features available to optimize your [[rahi-retail-operations-overview|retail]] tasks.
+Whether you're starting or expanding your implementation of the Retail Task Management application, learn more about the features available to optimize your retail tasks.
 
 ## Retail Task Management overview
 
@@ -51,7 +51,7 @@ By using the Retail Task Management application, retail organizations can:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Use the multi-store case generator to assign work from HQ to multiple retail locations simultaneously. View and track these cases in the [[rahi-retail-portal|retail portal]] alongside other requests, monitoring completion status across all assigned locations.|[Retail multi-store case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-multistore-case.md)|HQ Manager, Store Manager, Store Associate|
+|Use the multi-store case generator to assign work from HQ to multiple retail locations simultaneously. View and track these cases in the retail portal alongside other requests, monitoring completion status across all assigned locations.|[Retail multi-store case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-multistore-case.md)|HQ Manager, Store Manager, Store Associate|
 
 ## What to explore next
 
@@ -62,8 +62,3 @@ To learn more about configuring and using Retail Task Management Core, see:
 -   [Create multi-store cases in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-multi-store.md)
 -   [Retail Task Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-reference.md)
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-portal|Retail portal]]

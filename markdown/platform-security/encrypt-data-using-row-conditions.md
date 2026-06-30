@@ -12,7 +12,7 @@ breadcrumb: [Using multiple encryption modules, Using Field Encryption, Field En
 
 # Encrypt data using Row Conditions
 
-Encrypt fields with multiple [[field-encryption|Field Encryption]] modules using Row Conditions to define the data being encrypted and the associated [[encryption-landing|encryption]] keys. Row Conditions can also be used to define the [[users|users]] that have access using the condition builder.
+Encrypt fields with multiple Field Encryption modules using Row Conditions to define the data being encrypted and the associated encryption keys. Row Conditions can also be used to define the users that have access using the condition builder.
 
 ## Before you begin
 
@@ -37,11 +37,11 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 1.  Create multiple cryptographic modules and an access policy for each one.
 
-    Make sure that you grant different roles to the different cryptographic modules through the access [[ca-policies|policies]].
+    Make sure that you grant different roles to the different cryptographic modules through the access policies.
 
 2.  Navigate to **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Experience** &gt; **Create new module**.
 
-    If you need more information on Encrypted Field Configurations, see [[set-encrypted-field-config|Set encrypted field configurations]].
+    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/set-encrypted-field-config.md).
 
 3.  Select the **Table** and the **Column** in the table that you want to encrypt.
 
@@ -51,7 +51,7 @@ The field is encrypted by the encryption module of the first user to enter data.
 
     If this box isn’t selected and records that are added don't meet a row condition, they aren’t encrypted.
 
-    For example, a Row Condition can be defined to encrypt records to declare that the "Department" field on the record equals "IT." Then, the records in which the "Department" field doesn’t equal "IT" wouldn’t be encrypted unless **Encrypt by default** is selected. This example utilizes a custom created "Department" Choice field on the sn\_customerservice\_case table, but other custom or default fields, if they are a supported data type of Row Conditions. The **Encrypt by default** option is selected by default. To create a [[sc-configuration|configuration]] without this option selected, create the EFC from the **Configurations** page.
+    For example, a Row Condition can be defined to encrypt records to declare that the "Department" field on the record equals "IT." Then, the records in which the "Department" field doesn’t equal "IT" wouldn’t be encrypted unless **Encrypt by default** is selected. This example utilizes a custom created "Department" Choice field on the sn\_customerservice\_case table, but other custom or default fields, if they are a supported data type of Row Conditions. The **Encrypt by default** option is selected by default. To create a configuration without this option selected, create the EFC from the **Configurations** page.
 
     \[Omitted image "fe-encrypt-by-default.png"\] Alt text: Encrypt by default and associated Crypto module selected.
 
@@ -79,7 +79,7 @@ This example explains how to encrypt the Short Description field on the Incident
 For encrypting the Short Description, you would do the following:
 
 1.  Create two Field Encryption modules A and B.
-2.  For each module, [[create-module-access-policy|create a Module Access Policy]] \(MAP\) and define access as follows:
+2.  For each module, create a Module Access Policy \(MAP\) and define access as follows:
     1.  Module A – to users with an HR role.
     2.  Module B – to users with a Sales role.
 3.  Create an Encrypted Field Configuration \(EFC\) record.
@@ -96,7 +96,7 @@ For encrypting the Short Description, you would do the following:
 
     -   Mass Encryption - Run this job when a new Row Condition is created.
     -   Mass Rekeying - Run this job when an existing Row Condition is modified.
-    See [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]].
+    See [Schedule mass encryption, decryption, and rekeying jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md).
 
 6.  Have a user from Module A and a user from Module B create an incident with a short description. Have both users view the list of incidents.
 
@@ -115,16 +115,5 @@ Perform one of the following operations:
 
 See [Schedule mass encryption, decryption, and rekeying jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md)
 
-**Parent Topic:**[[using-multiple-encryption-modules|Using multiple encryption modules]]
+**Parent Topic:**[Using multiple encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-multiple-encryption-modules.md)
 
-## Related
-
-- [[set-encrypted-field-config|Set encrypted field configurations]]
-- [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]]
-- [[using-multiple-encryption-modules|Using multiple encryption modules]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]
-- [[create-module-access-policy|Create a module access policy]]

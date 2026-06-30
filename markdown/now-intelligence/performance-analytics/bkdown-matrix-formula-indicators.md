@@ -14,7 +14,7 @@ breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance
 
 # Breakdown matrices in formula indicators
 
-[[formula-indicators|Formula indicators]] inherit breakdown matrices from indicators in the formula.
+Formula indicators inherit breakdown matrices from indicators in the formula.
 
 If all the indicators in the formula collect breakdown matrices, second-level breakdowns are available for the formula indicator. If none of the indicators in the formula collects breakdown matrices, second-level breakdowns are not available for the formula indicator. If only some of the indicators in the formula collect breakdown matrices, only those indicators can be broken down at a second level.
 
@@ -61,6 +61,3 @@ Formula: 8152/31/24=11
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[formula-indicators|Formula indicators]]

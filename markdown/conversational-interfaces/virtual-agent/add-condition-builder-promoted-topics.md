@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Add a condition builder to promoted assets
 
-You can define a condition for a given promoted [[virtual-agent-landing-page|Virtual Agent]] asset to bring it higher up on the list of promoted assets in a panel conversation.
+You can define a condition for a given promoted Virtual Agent asset to bring it higher up on the list of promoted assets in a panel conversation.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ The promoted asset also displays at the top of the list of promoted assets in a 
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

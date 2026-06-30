@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist in Document Intelligence, Enable AI experiences]
 
 # Review extracted information in the Document Intelligence workspace
 
-Use the [[document-intelligence-landing|Document Intelligence]] workspace to review the information that was extracted from a document or image file by [[docintel-nowassist-landing|Now Assist in Document Intelligence]].
+Use the Document Intelligence workspace to review the information that was extracted from a document or image file by Now Assist in Document Intelligence.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_docintel.admin, sn\_docintel.creation\_agent, or sn\_docintel
 
 ## About this task
 
-[[platform-now-assist-landing|Now Assist]] uses generative AI capabilities to make predictions on the information to extract from a file for the fields, tables, and questions defined in the use case. The Document Intelligence workspace provides document management features that enable you to quickly review and process the extracted information.
+Now Assist uses generative AI capabilities to make predictions on the information to extract from a file for the fields, tables, and questions defined in the use case. The Document Intelligence workspace provides document management features that enable you to quickly review and process the extracted information.
 
 With the Document Intelligence workspace, you can:
 
@@ -116,8 +116,3 @@ The extracted values are saved. Empty fields and answers are submitted with no v
 
 **Parent Topic:**[Using Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-using-now-assist.md)
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]

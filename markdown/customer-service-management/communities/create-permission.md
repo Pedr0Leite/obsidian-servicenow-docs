@@ -45,10 +45,7 @@ Access types for a permission determine the access that users have to certain fo
 -   **[Add content types to a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-content-types-permission.md)**  
 Content types for a permission determine the access that users have to certain content in a forum.
 -   **[Create a permission exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-permission-exceptions.md)**  
-[[manage-permission-exceptions|Create a permission exception]] for users who require specific permissions for a forum.
+Create a permission exception for users who require specific permissions for a forum.
 
 **Parent Topic:**[Forum and user permissions management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-permissions.md)
 
-## Related
-
-- [[manage-permission-exceptions|Create a permission exception]]

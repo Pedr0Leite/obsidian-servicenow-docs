@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Load required key pairs and certificates for Code Signing
 
-Establish the relationship in a designated trusted instance [[using-code-signing|using Code Signing]]. This first step loads two cryptographic keys into the trusted environment to establish a trusted source for updates to the production instance.
+Establish the relationship in a designated trusted instance using Code Signing. This first step loads two cryptographic keys into the trusted environment to establish a trusted source for updates to the production instance.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Roles required: security\_admin and sn\_kmf.cryptographic\_manager
 
 The first step in establishing the relationship is to establish the trust foundation in a designated trusted instance using Code Signing. To perform this task, you need the following.
 
--   You must have two 4096-bit RSA public/private key pairs to load into [[code-signing-landing|Code Signing]] cryptographic modules:
+-   You must have two 4096-bit RSA public/private key pairs to load into Code Signing cryptographic modules:
 
     -   One pair for the cm\_code\_signing cryptographic module
     -   One pair for the cm\_code\_attest cryptographic module
-    For more information on these keys, see [[create-key-pairs-and-certs|Create Code Signing key pairs and certificates]].
+    For more information on these keys, see [Create Code Signing key pairs and certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-key-pairs-and-certs.md).
 
     **Important:** These key pairs must be signed by a public certificate authority or signed by your organizations internal certificate authority. The certificate can't be self-signed.
 
--   A Public Key Cryptography Standard \#12 \(.p12\) file containing your leaf and intermediate [[c_Certificates|certificates]].
+-   A Public Key Cryptography Standard \#12 \(.p12\) file containing your leaf and intermediate certificates.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ The first step in establishing the relationship is to establish the trust founda
 
 3.  In the **Enter Keystore Password** field, enter the challenge password you created when generating your RSA certificate.
 
-    **Note:** The challenge password that you created is referred to here as the **keystore password**. In other parts of the process, this may be referred to as either a **import password** or **[[export|export]] password**. In all cases, this password is the same challenge password that you created in the previous steps.
+    **Note:** The challenge password that you created is referred to here as the **keystore password**. In other parts of the process, this may be referred to as either a **import password** or **export password**. In all cases, this password is the same challenge password that you created in the previous steps.
 
 4.  Select the **Browse** button next to **Import Keystore/Certificate**.
 
@@ -67,13 +67,5 @@ The first step in establishing the relationship is to establish the trust founda
 
 ## What to do next
 
-Export the certificate to production. See [[create-updateset-nonprod|Prepare Circle of Trust certificates]] for details.
+Export the certificate to production. See [Prepare Circle of Trust certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-updateset-nonprod.md) for details.
 
-## Related
-
-- [[create-key-pairs-and-certs|Create Code Signing key pairs and certificates]]
-- [[create-updateset-nonprod|Prepare Circle of Trust certificates]]
-- [[using-code-signing|Using Code Signing]]
-- [[code-signing-landing|Code Signing]]
-- [[c_Certificates|Certificates]]
-- [[export|Export]]

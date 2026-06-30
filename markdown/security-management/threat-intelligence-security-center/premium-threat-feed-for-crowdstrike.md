@@ -14,7 +14,7 @@ breadcrumb: [View Custom Feed, View Threat Intel Feeds, Threat Intelligence Feed
 
 # View Premium Threat Feed for CrowdStrike
 
-The CrowdStrike feed enables users to ingest [[indicator|indicators]], actors, reports, and their associated context from the CrowdStrike Falcon Intelligence feed into TISC.
+The CrowdStrike feed enables users to ingest indicators, actors, reports, and their associated context from the CrowdStrike Falcon Intelligence feed into TISC.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Integrations**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations**.
 
 2.  Select **Custom**.
 
@@ -43,7 +43,7 @@ Role required: sn\_sec\_tisc.admin
         -   Indicators \(Falcon intelligence\)
         -   Actors \(Falcon Intelligence\)
         -   Reports \(Falcon Intelligence\)
-        -   [[threat-intelligence-malware|Malware]] Families \(Falcon Intelligence\)
+        -   Malware Families \(Falcon Intelligence\)
 6.  Navigate to **Additional Settings** to configure the filters that will be applied while ingesting indicators from CrowdStrike.
 
     \[Omitted image "tisc-crowdstrike-additional-settings.png"\] Alt text: CrowdStrike additional settings tab
@@ -100,7 +100,7 @@ Include deleted indicators for ingestion
 
 </td><td>
 
-Select this check box to allow the ingestion of indicators that have been deleted.**Note:** Deleted indicators are created as [[c_Observables|observables]] only if they were previously ingested. A **Deleted in CrowdStrike** tag is added to indicators removed from CrowdStrike.
+Select this check box to allow the ingestion of indicators that have been deleted.**Note:** Deleted indicators are created as observables only if they were previously ingested. A **Deleted in CrowdStrike** tag is added to indicators removed from CrowdStrike.
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Enter comma-separated malware family names associated with the indicators for in
 
 </td></tr><tr><td colspan="2">
 
-**[[mapping-logrhythm|Mapping]] of Indicator Malicious confidence to TISC confidence****Note:** The High, Medium, and Low values are the source value or malicious confidence received from CrowdStrike.
+**Mapping of Indicator Malicious confidence to TISC confidence****Note:** The High, Medium, and Low values are the source value or malicious confidence received from CrowdStrike.
 
 </td></tr><tr><td>
 
@@ -245,8 +245,8 @@ Enter a confidence value \(0–100\) for indicators with unverified malicious co
         -   Email Address
         -   Username
         -   IP Address Block
-    2.  [[threat-actors|Threat Actors]] from CrowdStrike that are updated after the configured ingestion time are mapped to Threat Actors in TISC.
-    3.  Reports from CrowdStrike that are updated after the configured ingestion time are mapped to [[threat-reports|threat reports]] in TISC based on matching attributes.
+    2.  Threat Actors from CrowdStrike that are updated after the configured ingestion time are mapped to Threat Actors in TISC.
+    3.  Reports from CrowdStrike that are updated after the configured ingestion time are mapped to threat reports in TISC based on matching attributes.
     4.  Malwares from CrowdStrike that are updated after the configured ingestion time are mapped to malwares in TISC based on matching attributes.
     5.  Additionally, the following related data is also fetched:
 
@@ -260,17 +260,7 @@ Enter a confidence value \(0–100\) for indicators with unverified malicious co
 
 
 -   **[System Properties for CrowdStrike](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/premium-threat-feed-system-properties.md)**  
-The following details the [[premium-threat-feed-system-properties|system properties for CrowdStrike]].
+The following details the system properties for CrowdStrike.
 
 **Parent Topic:**[View Custom Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-custom-feeds.md)
 
-## Related
-
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-malware|Malware]]
-- [[c_Observables|Observables]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-actors|Threat actors]]
-- [[threat-reports|Threat reports]]
-- [[premium-threat-feed-system-properties|System Properties for CrowdStrike]]

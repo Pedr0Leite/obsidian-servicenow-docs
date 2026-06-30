@@ -44,17 +44,12 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 9.  Select an attachment to preview it.
 
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
+[Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-## Related
-
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

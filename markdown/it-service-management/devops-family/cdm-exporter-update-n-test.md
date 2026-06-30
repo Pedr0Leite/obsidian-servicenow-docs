@@ -14,11 +14,11 @@ breadcrumb: [Export a snapshot, Using DevOps Config, DevOps Config, IT Service M
 
 # Test an exporter and export a snapshot
 
-Set and validate input [[settings-mobile|settings]] to test an exporter before you export the config data in a snapshot.
+Set and validate input settings to test an exporter before you export the config data in a snapshot.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
@@ -28,7 +28,7 @@ Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
 ## About this task
 
-Be sure to install the exporter content pack for DevOps Config. Exporters in the content pack are good starting points for your custom exporters. Some content pack exporters generate subsets of config data and others generate data for full [[dex-workspace-application-tab|applications]]. For example, to export updated config data for a database, you might select the **returnAllDataforNodeName** exporter. In the input arguments for the exporter, you would specify the database deployable as the node and then specify the updated settings as input arguments. After you determine that the settings generate the desired config data, you can export the data to the pipeline.
+Be sure to install the exporter content pack for DevOps Config. Exporters in the content pack are good starting points for your custom exporters. Some content pack exporters generate subsets of config data and others generate data for full applications. For example, to export updated config data for a database, you might select the **returnAllDataforNodeName** exporter. In the input arguments for the exporter, you would specify the database deployable as the node and then specify the updated settings as input arguments. After you determine that the settings generate the desired config data, you can export the data to the pipeline.
 
 -   Exporters in the content pack have the **Source** value of **ServiceNow**. You can duplicate, but cannot delete or modify content pack exporters.
 -   You can run only published exporters.
@@ -113,8 +113,4 @@ Deployables for which to generate config data in addition to the primary deploya
 
     **Note:** You must set an exporter to active to enable it to be executed in a pipeline.
 
-## Related
 
-- [[settings-mobile|Settings]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

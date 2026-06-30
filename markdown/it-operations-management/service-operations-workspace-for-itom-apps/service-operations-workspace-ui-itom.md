@@ -19,13 +19,13 @@ Explore the interface to understand how an operator can prioritize tasks and off
 
 ## Access Service Operations Workspace
 
-Open the workspace by navigating to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+Open the workspace by navigating to **Workspaces** &gt; **Service Operations Workspace**.
 
 ## Home page
 
 To access information on the Home page, select the home icon \(\[Omitted image "sow-home-itom.png"\] Alt text: Home icon\).
 
-The home page provides operators with a comprehensive snapshot of the current operational landscape. The Overview section presents vital insights, including alerts assigned to the operator, team-based alerts, unassigned team alerts, monitored services, and open alerts. This Alerts Assigned to You section furnishes operators with specific details regarding alerts tailored to their responsibilities. Information includes the alert number, initial event generation time, description, [[alert-priority-group|priority group]], severity, source, group, configuration item, state, node, metric name, and last updated timestamp. Both sections streamline operations by offering operators a concise overview and personalized insights into alerts relevant to their responsibilities, facilitating swift prioritization and proactive resolution of critical issues.
+The home page provides operators with a comprehensive snapshot of the current operational landscape. The Overview section presents vital insights, including alerts assigned to the operator, team-based alerts, unassigned team alerts, monitored services, and open alerts. This Alerts Assigned to You section furnishes operators with specific details regarding alerts tailored to their responsibilities. Information includes the alert number, initial event generation time, description, priority group, severity, source, group, configuration item, state, node, metric name, and last updated timestamp. Both sections streamline operations by offering operators a concise overview and personalized insights into alerts relevant to their responsibilities, facilitating swift prioritization and proactive resolution of critical issues.
 
 \[Omitted image "home-tab-sow.png"\] Alt text: Home page information.
 
@@ -69,14 +69,9 @@ To access information on automations, select the alert automations icon \(\[Omit
 
 ## AIOps Dashboards
 
-The AIOps [[otto-aiops-dashboards|dashboards]] offer comprehensive visualizations of critical operational data. You can monitor KPIs, track service health, and gain valuable context on the IT environment, enabling proactive responses to issues.
+The AIOps dashboards offer comprehensive visualizations of critical operational data. You can monitor KPIs, track service health, and gain valuable context on the IT environment, enabling proactive responses to issues.
 
 To access information on dashboards, select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\)
 
 \[Omitted image "alops-dashboards-page-itom.png"\] Alt text: AlOps Dashboard page.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[alert-priority-group|Priority group]]
-- [[otto-aiops-dashboards|Dashboards]]

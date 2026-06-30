@@ -22,7 +22,7 @@ Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "new-task-icon.png"\] Alt text: Tasks icon\).
 
@@ -46,6 +46,4 @@ Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
 8.  Select the file's URL link attached to the record in the **Cloud files** tab to navigate to the cloud file in Microsoft.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

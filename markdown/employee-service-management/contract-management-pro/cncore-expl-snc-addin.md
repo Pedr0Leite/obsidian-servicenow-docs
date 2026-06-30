@@ -15,7 +15,7 @@ breadcrumb: [Explore, Contract Management Pro, Legal and Contract Operations, Em
 
 # Microsoft Word add-in for ServiceNow Contracts
 
-Microsoft Word add-in for ServiceNow Contracts enables you to [[cncore-word-doc-tmplt-contls|add content controls in a Microsoft Word document]] in both Windows and macOS systems. Content controls act as placeholders for content in a document template
+Microsoft Word add-in for ServiceNow Contracts enables you to add content controls in a Microsoft Word document in both Windows and macOS systems. Content controls act as placeholders for content in a document template
 
 \[Omitted image "cmpro-waddin-main-window.png"\] Alt text: Use Microsoft Word add-in for ServiceNow Contracts to add content controls
 
@@ -30,6 +30,3 @@ The Microsoft Word add-in enables you to add content controls on both macOS syst
 
 For more information on content controls and how to configure contract template, see [Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md) and [Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-setup-ct-add-in.md).
 
-## Related
-
-- [[cncore-word-doc-tmplt-contls|Add content controls in a Microsoft Word document]]

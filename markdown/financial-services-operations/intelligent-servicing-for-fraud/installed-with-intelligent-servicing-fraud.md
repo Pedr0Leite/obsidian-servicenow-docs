@@ -15,7 +15,7 @@ breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Se
 
 # Components installed with Intelligent Servicing for Fraud
 
-Several types of components are installed with the activation of the [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] \(sn\_bom\_fraud\) plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of the Intelligent Servicing for Fraud \(sn\_bom\_fraud\) plugin, including tables, user roles, and scheduled jobs.
 
 ## Plugins installed
 
@@ -33,14 +33,14 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr></tbody>
 </table>## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make complaint service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make complaint service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -207,8 +207,3 @@ Stores the fraud transaction information and outcome of business rules that are 
 |Card fraud risk evaluation rules|Rules to determine risk associated with a transaction.|
 |Fraud investigation routing rules|Rules to decide whether to route case to Fraud investigator group or not.|
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]
-- [[fso-overview|Financial Services]]

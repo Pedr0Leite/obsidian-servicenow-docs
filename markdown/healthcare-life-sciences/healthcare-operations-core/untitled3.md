@@ -18,12 +18,9 @@ Your healthcare locations should be organized based on the physical layouts of t
 
 When you’re creating a location, you can navigate the existing location hierarchy to select where the location being newly created should reside:
 
-\[Omitted image "hco-locations-hierarchy-choose.png"\] Alt text: The location selection panel within [[hcls-cto-app|Healthcare Operations Core]].
+\[Omitted image "hco-locations-hierarchy-choose.png"\] Alt text: The location selection panel within Healthcare Operations Core.
 
 When a location is created, the **Location hierarchy** panel displays up to three parent levels higher within a location's hierarchy.
 
 **Note:** The location hierarchy is only shown when the healthcare location is opened from the Healthcare Operations Core app module.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

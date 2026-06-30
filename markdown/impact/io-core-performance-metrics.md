@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Transaction or response metrics
 
-The metrics provide a [[instance-observer-performance|performance]] snapshot of classic UI transactions within the ServiceNow AI Platform®.
+The metrics provide a performance snapshot of classic UI transactions within the ServiceNow AI Platform®.
 
 ## User transaction count \(sum\)
 
@@ -35,7 +35,7 @@ In addition to these limitations, Server Response time also does NOT include:
 -   Time spent on the network back and forth to ServiceNow.
 -   Time spent on the client-side by the browser or mobile device.
 
-Server response time commonly fluctuates up and down in relation to core business hours due to the type of operations that tend to occur at any given time. Thus, it is very common that server response time appears more volatile during nights and weekends because administrators are running long reports or administrative transactions that typically take longer to execute. This, combined with the fact that fewer overall transactions are occurring, means a few slow transactions will have greater [[impact-landing-page|impact]] on the average.
+Server response time commonly fluctuates up and down in relation to core business hours due to the type of operations that tend to occur at any given time. Thus, it is very common that server response time appears more volatile during nights and weekends because administrators are running long reports or administrative transactions that typically take longer to execute. This, combined with the fact that fewer overall transactions are occurring, means a few slow transactions will have greater impact on the average.
 
 When considering long-term trends, like Week over week comparisons for example, one should consider that such changes may simply reflect usage pattern changes, such as users doing more or less of certain types of transactions that are typically faster or slower. Because each transaction type has different functional requirements, there is no arbitrary threshold for what constitutes a **slow** transaction and thus no threshold should be applied to this metric. Instead of looking at long-term trends or short spikes outside core business hours, attention should be placed on extreme deviations from the norm or where this metric coincides with another performance indicator.
 
@@ -71,7 +71,7 @@ It gives a perspective of what is the biggest contributor for the total response
 -   The network time is high, then transaction components and how much data is being streamed must be reviewed. Recommendation is to keep lightweight transactions with optimal data stream.
 -   The browser time is high, then client side scripts/components must be reviewed.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -80,7 +80,7 @@ It gives a perspective of what is the biggest contributor for the total response
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -116,9 +116,3 @@ It gives a perspective of what is the biggest contributor for the total response
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]

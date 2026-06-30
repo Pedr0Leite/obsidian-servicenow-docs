@@ -12,13 +12,13 @@ breadcrumb: [Configure responsibility access, Configuring customer access manage
 
 # Granular roles and supported entities for responsibility framework
 
-Starting with the Yokohama release, multiple module-level granular roles are introduced to simplify defining and configuring the responsibility framework. These new granular roles simplify tasks by removing the need to create custom access control [[migration-lists|lists]] \(ACLs\) on target tables when a responsibility ACL is already in place. This change promotes a more straightforward and declarative migration process.
+Starting with the Yokohama release, multiple module-level granular roles are introduced to simplify defining and configuring the responsibility framework. These new granular roles simplify tasks by removing the need to create custom access control lists \(ACLs\) on target tables when a responsibility ACL is already in place. This change promotes a more straightforward and declarative migration process.
 
 |Granular roles|Description|
 |--------------|-----------|
 |sn\_customerservice.cust\_data\_resp\_granular|Provides granular access to customer-related foundational entities \(including accounts, contacts, consumers, and households\) through the responsibility framework.|
 |sn\_customerservice.case\_mgmt\_resp\_granular|Provides granular access to case and related entities through the responsibility framework.|
-|sn\_install\_base.resp\_granular|Provides granular access to installed base items, [[sold-product|sold products]], and related entities through the responsibility framework.|
+|sn\_install\_base.resp\_granular|Provides granular access to installed base items, sold products, and related entities through the responsibility framework.|
 |sn\_customerservice.contract\_entitlement\_resp\_granular|Provides granular access to contracts, entitlements, and related entities through the responsibility framework.|
 
 <table id="table_mc1_d4v_c2c"><thead><tr><th>
@@ -35,7 +35,7 @@ Supported Tables/Entities
 
 </th></tr></thead><tbody><tr><td>
 
-[[customer-data|Customer Data]]
+Customer Data
 
 </td><td>
 
@@ -58,7 +58,7 @@ sn\_customerservice.cust\_data\_resp\_granular
 
 </td></tr><tr><td>
 
-[[case-management|Case Management]]
+Case Management
 
 </td><td>
 
@@ -139,10 +139,3 @@ sn\_customerservice.relationship\_agent
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[sold-product|Sold products]]
-- [[customer-data|Customer data]]
-- [[case-management|Case management]]

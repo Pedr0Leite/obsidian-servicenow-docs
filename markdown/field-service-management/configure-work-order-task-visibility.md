@@ -12,7 +12,7 @@ breadcrumb: [Configuring Workforce, CSM/FSM Configurable Workspace, Configure, F
 
 # Configure event visibility in Workforce when Workforce Optimization for Field Service is installed
 
-Enable users to control the visibility of events and work order tasks that appear in the Calendars tab when [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is enabled.
+Enable users to control the visibility of events and work order tasks that appear in the Calendars tab when Workforce Optimization for Field Service is enabled.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Role required: wm\_admin
 
 [View events on the Team calendar in Workforce when Workforce Optimization for Field Service is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/view-work-order-tasks-on-the-team-calendar-when-wfo-is-installed.md)
 
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

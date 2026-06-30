@@ -22,18 +22,12 @@ With Virtual Agent, you can offer continuous support, improve response times, an
 
 ## Activation
 
-Virtual Agent activates automatically when you enable it for [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\). Once activated, by default it integrates seamlessly with your CSM and CSP portals. For more information, see [[activate-virtual-agent-csm|Activate Virtual Agent for Customer Service Management]].
+Virtual Agent activates automatically when you enable it for Customer Service Management \(CSM\). Once activated, by default it integrates seamlessly with your CSM and CSP portals. For more information, see [Activate Virtual Agent for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-virtual-agent-csm.md).
 
 **Related topics**  
 
 
-[[nava-csp-csm-portals|Now Assist in Virtual Agent in self-service portal]]
+[Now Assist in Virtual Agent in self-service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nava-csp-csm-portals.md)
 
-[[nass-portal|Now Assist conversational experience in self-service portals]]
+[Now Assist conversational experience in self-service portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nass-portal.md)
 
-## Related
-
-- [[activate-virtual-agent-csm|Activate Virtual Agent for Customer Service Management]]
-- [[nava-csp-csm-portals|Now Assist in Virtual Agent in self-service portal]]
-- [[nass-portal|Now Assist conversational experience in self-service portals]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

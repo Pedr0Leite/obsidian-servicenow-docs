@@ -15,7 +15,7 @@ breadcrumb: [Support Tools application, Service Graph Connectors, Integrating th
 
 # Resolving Service Graph Connector issues
 
-You can use the [[cmdb-sgc-support-tools|Service Graph Connector Support Tools]] application to initiate a chatbot conversation with a virtual agent and resolve an issue or perform a general analysis on a Service Graph Connector installed on your instance.
+You can use the Service Graph Connector Support Tools application to initiate a chatbot conversation with a virtual agent and resolve an issue or perform a general analysis on a Service Graph Connector installed on your instance.
 
 If a user with the admin role has installed the Service Graph Connector Support Tools application, you can initiate a chat conversation with a virtual agent to resolve Service Graph Connector issues. The application includes prebuilt conversations as a response to an issue type.
 
@@ -27,22 +27,22 @@ You can use the prebuilt conversations to debug and resolve the following types 
 
 -   **Data issues**
 
-    The virtual agent suggests you to check for customizations in [[ire|Identification and Reconciliation engine \(IRE\)]] rules, [[r_ReconciliationRulesPrinciples|reconciliation rules]], business rules, and mappings. Review the field and import causing the issue, reprocess the import row, and view the complete transformation information. Also, suggests to perform additional troubleshooting steps.
+    The virtual agent suggests you to check for customizations in Identification and Reconciliation engine \(IRE\) rules, reconciliation rules, business rules, and mappings. Review the field and import causing the issue, reprocess the import row, and view the complete transformation information. Also, suggests to perform additional troubleshooting steps.
 
 -   **Performance issues**
 
-    Depending on the data source and import set selected, the virtual agent suggests you to make a basic performance check and review the history of the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] integration executions.
+    Depending on the data source and import set selected, the virtual agent suggests you to make a basic performance check and review the history of the Configuration Management Database \(CMDB\) integration executions.
 
 -   **Mapping issues**
 
-    The virtual agent suggests you to review mappings for input and output fields using the [[integrationhub-etl|IntegrationHub ETL]] store app.
+    The virtual agent suggests you to review mappings for input and output fields using the IntegrationHub ETL store app.
 
 
 **Parent Topic:**[Service Graph Connector Support Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-support-tools.md)
 
 ## Resolve a Service Graph Connector issue
 
-Resolve the Service Graph Connector issues or perform a general analysis using the Troubleshooting module available for [[cmdb-sgc-available|Service Graph Connectors]].
+Resolve the Service Graph Connector issues or perform a general analysis using the Troubleshooting module available for Service Graph Connectors.
 
 ### Before you begin
 
@@ -71,11 +71,4 @@ Role required: admin
 
 7.  Close the conversation by selecting **End the chat**.
 
-## Related
 
-- [[cmdb-sgc-support-tools|Service Graph Connector Support Tools]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

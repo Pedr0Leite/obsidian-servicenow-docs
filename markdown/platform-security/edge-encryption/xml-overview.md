@@ -14,12 +14,12 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 # XML APIs
 
-XML APIs can be used after calling getAsXmlContent\(\) on either the [[c_requestAPI|request]] object or a ParameterValue property.
+XML APIs can be used after calling getAsXmlContent\(\) on either the request object or a ParameterValue property.
 
-When using XML APIs to write your [[encryption-landing|encryption]] rule, you can follow a general format:
+When using XML APIs to write your encryption rule, you can follow a general format:
 
-1.  Call getAsXmlContent\(\) on the request object or ParameterValue property. This returns an iterable object of the [[c_XMLContentAPI|XMLContent]] underlying class.
-2.  Call getIterator\(\) or getIterator\(String xPath\) on the XMLContent object. This returns an [[c_XMLElementIteratorAPI|XMLElementIterator]] object that can be used to iterate over XML elements.
+1.  Call getAsXmlContent\(\) on the request object or ParameterValue property. This returns an iterable object of the XMLContent underlying class.
+2.  Call getIterator\(\) or getIterator\(String xPath\) on the XMLContent object. This returns an XMLElementIterator object that can be used to iterate over XML elements.
 3.  Call the hasNext\(\) method on the XMLElementIterator object to determine whether another element is available.
 4.  Call next\(\) on the XMLElementIterator object to return the next XML element. You cannot call next\(\) without first calling hasNext\(\).
 5.  Call valueFor\(String tableName, String fieldName\) on the XML element. This method tells the proxy that the value for this element maps to the specified field in the specified table. The proxy then checks if the field must be encrypted.
@@ -54,7 +54,7 @@ function sampleXmlAction1() {
     // This loop iterates over all description tags that match the given path
     var xmlElementIterator = xmlContent.getIterator('data/record/description');    
     while (xmlElementIterator.hasNext()) {
-        var [[c_XMLElementAPI|xmlElement]] = xmlElementIterator.next();
+        var xmlElement = xmlElementIterator.next();
         xmlElement.valueFor('incident', 'short_decription');
     }
 }
@@ -99,7 +99,7 @@ function encryptFieldsInRecord(xmlElement) {
 
 In the encryptFieldsInRecord\(\) function, the valueFor\(\) method is called on a table and a field that are dynamically assigned based on the request. Even though the table and field names can change, the rule asks the proxy to check whether the field in the table must be encrypted based on the encryption configurations defined.
 
-If the field is not configured for encryption, or if the tag does not match a field in the table, the proxy skips that tag. If the tag matches a field marked for encryption, then the [[edge-encryption|Edge Encryption]] proxy server encrypts the value.
+If the field is not configured for encryption, or if the tag does not match a field in the table, the proxy skips that tag. If the tag matches a field marked for encryption, then the Edge Encryption proxy server encrypts the value.
 
 ## Using an encoded query
 
@@ -160,11 +160,3 @@ Provides methods for iterating through XML elements and mapping values to fields
 
 **Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/api-overview.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[encryption-landing|Encryption]]
-- [[c_XMLContentAPI|XMLContent]]
-- [[c_XMLElementIteratorAPI|XMLElementIterator]]
-- [[c_XMLElementAPI|XMLElement]]
-- [[edge-encryption|Edge Encryption]]

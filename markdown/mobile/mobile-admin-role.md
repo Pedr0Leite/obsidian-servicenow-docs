@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
 
 # Mobile admin role
 
-Administrators can assign roles that grant specific permissions, which govern what users and groups with that role can do within the ServiceNow [[mobile-config-navigation|Mobile Platform]].
+Administrators can assign roles that grant specific permissions, which govern what users and groups with that role can do within the ServiceNow Mobile Platform.
 
 The administrative role available to administrators of the ServiceNow Mobile Platform is **mobile\_admin**.
 
@@ -28,7 +28,7 @@ The mobile\_admin role includes the following permissions:
 
 -   Provides access \(read, write, create, and delete\) to all mobile-related tables. This coverage includes all products and features that are built on or connected to the mobile platform.
 -   Grants view and edit access to mobile-relevant system properties without the need for the general sys\_properties access.
--   Enables use of publishing and builder tools including [[mab-concept|Mobile App Builder]], [[mobile-card-builder|Mobile Card Builder]], and Mobile Publishing \(if purchased from the ServiceNow Store\).
+-   Enables use of publishing and builder tools including Mobile App Builder, Mobile Card Builder, and Mobile Publishing \(if purchased from the ServiceNow Store\).
 
 **Note:** The mobile\_admin role doesn't automatically grant access to individual application scopes. For example, if you want to configure Field Service Mobile in Mobile App Builder, you need the appropriate permissions for that scope.
 
@@ -40,8 +40,3 @@ Learn about roles and how to work with them in the following topics:
 -   [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 -   [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md)
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]

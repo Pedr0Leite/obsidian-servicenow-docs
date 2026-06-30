@@ -14,9 +14,9 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Example - Dynamic Scheduling
 
-Explore how [[dynamic-scheduling|Dynamic Scheduling]] prioritizes the best agent for a task, focusing on key matching criteria.
+Explore how Dynamic Scheduling prioritizes the best agent for a task, focusing on key matching criteria.
 
-Consider a scenario in which all field technicians work in the same region. Since all technicians are going to be the same relative distance from a task, availability to perform a task is the most important criteria, followed by matching [[c_PartRequirements|part requirements]].
+Consider a scenario in which all field technicians work in the same region. Since all technicians are going to be the same relative distance from a task, availability to perform a task is the most important criteria, followed by matching part requirements.
 
 This example assumes the following information.
 
@@ -96,7 +96,3 @@ Consider how the calculation would change if the field agents were not all in th
 
 [Configure dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[c_PartRequirements|Part requirements]]

@@ -14,11 +14,11 @@ breadcrumb: [Configuring Tag Governance, Tag Governance, ITOM Visibility, IT Ope
 
 # Install Tag Governance
 
-Install the [[landing-page-tag-governance|Tag Governance]] app to execute tag audits, view the Tag Data Governance dashboard, and perform tag [[ccg-remediation|remediation]].
+Install the Tag Governance app to execute tag audits, view the Tag Data Governance dashboard, and perform tag remediation.
 
 ## Before you begin
 
--   Ensure that you use the [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns for tag-based discovery.
+-   Ensure that you use the Discovery and Service Mapping Patterns for tag-based discovery.
 -   Install the ServiceNow Cloud Access Interface app for cloud remediation.
 
 Role required: sn\_itom\_tag.tag\_governance\_admin, admin
@@ -34,9 +34,3 @@ Role required: sn\_itom\_tag.tag\_governance\_admin, admin
 
 Configure Tag Governance policies to run on discovered resources. See [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md).
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]
-- [[ccg-remediation|Remediation]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

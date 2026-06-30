@@ -107,7 +107,7 @@ The following attributes in the File System \[cmdb\_ci\_file\_system\] table are
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -200,9 +200,5 @@ The following attribute in the Virtual Machine Instance \[cmdb\_ci\_vm\_instance
 |---------------|--------------|
 |Sys ID|sys\_id|
 
-**Note:** [[cmdb-integration-tanium|Service Graph Connector for Tanium]] doesn't create a Virtual Machine Instance CI. During look-up in the Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] table, if a VM instance is found that has an object ID that matches the cloud instance ID of a server instance, a relationship is created between that VM instance and the server instance.
+**Note:** Service Graph Connector for Tanium doesn't create a Virtual Machine Instance CI. During look-up in the Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] table, if a VM instance is found that has an object ID that matches the cloud instance ID of a server instance, a relationship is created between that VM instance and the server instance.
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[cmdb-integration-tanium|Service Graph Connector for Tanium]]

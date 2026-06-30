@@ -14,7 +14,7 @@ breadcrumb: [Use, Virtual Agent API, Build and deploy, Virtual Agent, Conversati
 
 # Virtual Agent bot-to-bot integration
 
-The [[virtual-agent-api-landing-page|Virtual Agent API]] supports environments that use multiple bots. In this situation, a primary bot communicates with third-party secondary bots, such as a ServiceNow bot.
+The Virtual Agent API supports environments that use multiple bots. In this situation, a primary bot communicates with third-party secondary bots, such as a ServiceNow bot.
 
 There are two types of bot communication with the primary bot:
 
@@ -23,7 +23,7 @@ There are two types of bot communication with the primary bot:
 
 In both scenarios, the ServiceNow bot informs the primary bot when the request is completed or when it cannot continue handling the request. The primary bot can then determine whether to inform the end user that the conversation is complete or provide further assistance.
 
-\[Omitted image "bot-to-bot-ecosystem.png"\] Alt text: Diagram of a bot-to-bot ecosystem with the ServiceNow [[virtual-agent-landing-page|Virtual Agent]] as a secondary bot.
+\[Omitted image "bot-to-bot-ecosystem.png"\] Alt text: Diagram of a bot-to-bot ecosystem with the ServiceNow Virtual Agent as a secondary bot.
 
 The ServiceNow secondary bot uses a standard request and response through REST endpoints. When the request is received through the Bot Framework or an enterprise app seeking to integrate with the ServiceNow bot, the response for a request is sent asynchronously via the API to the requesting system. Virtual Agent supports Live Agent in the channel as well.
 
@@ -41,7 +41,3 @@ You can [add system properties](https://raw.githubusercontent.com/ServiceNow/Ser
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]

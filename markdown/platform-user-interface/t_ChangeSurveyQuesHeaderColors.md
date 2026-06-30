@@ -33,8 +33,5 @@ One notable exception is the survey, which has its own CSS. It is possible to ch
     The survey should now use the desired color.
 
 
-**Parent Topic:**[[customizing-instance-appearance|Customizing instance appearance]]
+**Parent Topic:**[Customizing instance appearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customizing-instance-appearance.md)
 
-## Related
-
-- [[customizing-instance-appearance|Customizing instance appearance]]

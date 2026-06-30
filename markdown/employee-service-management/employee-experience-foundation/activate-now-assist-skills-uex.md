@@ -19,10 +19,10 @@ Activate Now Assist for Employee Experience skills to enable AI-powered summariz
 
 ## Before you begin
 
-Before activating the [[now-assisit-employee-exp|Now Assist for Employee Experience]] skills, you must install the following plugins:
+Before activating the Now Assist for Employee Experience skills, you must install the following plugins:
 
 -   Now Assist for Employee Experience
--   [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] — required for the Case summarization for approvals skill
+-   Now Assist for HR Service Delivery \(HRSD\) — required for the Case summarization for approvals skill
 -   Now Assist for IT Service Management \(ITSM\) — required for the Request summarization for approvals and Requested Item summarization for approvals skills
 
 Role required: admin
@@ -34,7 +34,7 @@ Activate the Now Assist for Employee Experience plugin to enable generative AI o
 -   Admins can select the roles for whom the skill is available.
 -   When you don't have the required role to read the record, you can't see the skill summary.
 -   When you activate the skill, you can see the skill or summary.
--   The OOB Applicability record includes a filter for the [[employee-center-landing-page|Employee Center]] portal. To display a summary on any portal, add an applicability record for that portal. The filter format is `{"URL Suffix of portal" + table : <tableName>}`.
+-   The OOB Applicability record includes a filter for the Employee Center portal. To display a summary on any portal, add an applicability record for that portal. The filter format is `{"URL Suffix of portal" + table : <tableName>}`.
 -   By default, the availability filter isn't available. Any changes or customization can affect the availability of the summary widget.
 
 ## Procedure
@@ -88,8 +88,3 @@ On successful configuration, approval users can see summarization for approvals.
 
 [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[employee-center-landing-page|Employee Center]]

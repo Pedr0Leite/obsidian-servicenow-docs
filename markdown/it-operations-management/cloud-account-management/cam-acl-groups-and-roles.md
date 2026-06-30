@@ -14,7 +14,7 @@ breadcrumb: [Cloud Account Management reference, Cloud Account Management, ITOM 
 
 # Cloud Account Management ACL groups, roles, and responsibilities
 
-Access control lists \(ACLs\), groups, and roles in [[cam-landing|Cloud Account Management]] control how access permissions are organized and managed within a cloud environment.
+Access control lists \(ACLs\), groups, and roles in Cloud Account Management control how access permissions are organized and managed within a cloud environment.
 
 ## Groups and roles in Cloud Account Management
 
@@ -40,7 +40,7 @@ sn\_itom\_cam.cw\_requester
 
 </td><td>
 
--   Initiates cloud account requests: Triggers the process for creating [[cloud-accounts|cloud accounts]].
+-   Initiates cloud account requests: Triggers the process for creating cloud accounts.
 -   Justifies account creation: Provides clear and compelling reasons for why each cloud account is needed.
 -   Gathers and submits account information: Collects and submits all the necessary details required for successful cloud account creation.
 -   Manages account status: Request suspension or reactivation of cloud accounts as needed.
@@ -163,7 +163,3 @@ sn\_itom\_cam.cw\_admin
 
 **Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]

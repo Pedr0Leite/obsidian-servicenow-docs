@@ -16,7 +16,7 @@ breadcrumb: [Configuration, Hardening settings, Platform Security]
 
 Use the **com.glide.security.referrerpolicy** property to ensure that the Referrer-Policy HTTP header sends the appropriate level of data to each ServiceNow® page to help prevent data leaks.
 
-Use the **com.glide.security.referrerpolicy** system property to control what information is included in the referrer HTTP header across the Now Platform. The data included in the referrer header, according to the policy of this property, is the origin, path, and query strings of the full referrer URL. These values are the standardized Referrer-Policy values supported by the HTTP protocol with the addition of the value "default." Depending on the policy set by this property, the referrer header may include sensitive information about or from the entity making the [[c_requestAPI|request]].
+Use the **com.glide.security.referrerpolicy** system property to control what information is included in the referrer HTTP header across the Now Platform. The data included in the referrer header, according to the policy of this property, is the origin, path, and query strings of the full referrer URL. These values are the standardized Referrer-Policy values supported by the HTTP protocol with the addition of the value "default." Depending on the policy set by this property, the referrer header may include sensitive information about or from the entity making the request.
 
 Ensure that the **com.glide.security.referrerpolicy** system property is set to one of the following: `default`, `same-origin`, `origin-when-cross-origin`, or `strict-origin-when-cross-origin`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 -   CVSS score: Medium
 -   Security risk details: When the **com.glide.security.referrerpolicy** system property is set to `no-referrer-when-downgrade` or `unsafe-url`, the referrer header of a request to a site different to the origin includes the full URL for the referring page making the request. The full referrer URL shared with external sites may include sensitive information from or about your instance. This can lead to data leakage and privacy violations.
 
-When the property is set to `no-referrer`, `origin`, or `strict-origin`, the referrer header is either not included, or includes only the origin portion of the referrer URL when requests are sent to the origin. This change may impede efforts to trace attack paths in the [[logs|logs]] when a security incident occurs, as the exact origin of a request can’t be determined easily. Proper configuration of this property is essential to help prevent unauthorized disclosure of internal identifiers or confidential parameters while allowing for security incident investigations.
+When the property is set to `no-referrer`, `origin`, or `strict-origin`, the referrer header is either not included, or includes only the origin portion of the referrer URL when requests are sent to the origin. This change may impede efforts to trace attack paths in the logs when a security incident occurs, as the exact origin of a request can’t be determined easily. Proper configuration of this property is essential to help prevent unauthorized disclosure of internal identifiers or confidential parameters while allowing for security incident investigations.
 
 
 </td></tr><tr><td>
@@ -107,7 +107,7 @@ Functional impact
 
 When the **com.glide.security.referrerpolicy** system property is set to `no-referrer`, `origin`, or `strict-origin`, the referrer header is either not be included, or includes only the origin portion of the referrer URL when requests are sent to the origin. This change can break functionality that requires this data.
 
- Some sites like YouTube require embedded link requests to include at least the origin in the referrer header \(for example, the "origin-when-cross-origin" policy\). The appropriate value of this property is dependent on the instance owner and use case. Those we recommend are described here. These [[ca-policies|policies]] are secure and don’t break base system functionality. More information of these and the other standardized policies can be found at [https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy).
+ Some sites like YouTube require embedded link requests to include at least the origin in the referrer header \(for example, the "origin-when-cross-origin" policy\). The appropriate value of this property is dependent on the instance owner and use case. Those we recommend are described here. These policies are secure and don’t break base system functionality. More information of these and the other standardized policies can be found at [https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy).
 
  -   `default`: Functionally equal to setting the value to `same-origin`
 -   `same-origin`: Sends the origin, path, and query string for same-origin requests. Doesn't send the referrer header for cross-origin requests.
@@ -133,10 +133,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]
-- [[ca-policies|Policies]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Define item quantity choices
 
-In the [[service-catalog|Service Catalog]], the default quantity choices are 1–10. You can configure the quantity selector with additional choices. This configuration is also applicable in Service Portal.
+In the Service Catalog, the default quantity choices are 1–10. You can configure the quantity selector with additional choices. This configuration is also applicable in Service Portal.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: admin
 
 [Service Catalog administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ServiceCatalogAdministration.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

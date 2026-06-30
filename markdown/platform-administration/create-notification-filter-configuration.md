@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Create notification filter configuration for notification preferences
 
-Control the list of [[notifications|notifications]] that are displayed to the users under the advanced [[preferences-landing|notification preferences]] page. This capability can help narrow down and show only relevant notifications based on user criteria.
+Control the list of notifications that are displayed to the users under the advanced notification preferences page. This capability can help narrow down and show only relevant notifications based on user criteria.
 
 ## Before you begin
 
@@ -30,21 +30,14 @@ Role required: admin
 
 5.  Enter the **Name** and the **Order**, the notification filter configuration with the lowest order will take precedence.
 
-6.  Select the User Criteria from the list of target records or create a new [[user-criteria-form-notifications|user criteria]].
+6.  Select the User Criteria from the list of target records or create a new [user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-criteria-form-notifications.md).
 
 7.  Select **Notification filters** tab to create and submit filter conditions for the selected user criteria.
 
-8.  Specify filters for Classic Notifications and [[provider-notifications-landing|Provider Notifications]] to control which notifications appear on the preferences page.
+8.  Specify filters for Classic Notifications and Provider Notifications to control which notifications appear on the preferences page.
 
 9.  Select **Submit**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[user-criteria-form-notifications|User criteria form]]
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[provider-notifications-landing|Provider notifications]]

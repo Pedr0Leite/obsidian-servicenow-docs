@@ -24,7 +24,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience incident reporting** &gt; **All incident reporting cases** and open the incident reporting case from the list that you want to work on.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience incident reporting** &gt; **All incident reporting cases** and open the incident reporting case from the list that you want to work on.
 
     From the Digital resilience incident reporting \(DRIR\) cases in the instance, DRI0001003 is selected for this example.
 
@@ -82,7 +82,7 @@ Role required: sn\_oper\_res.manager
 
     The assessment submission form is shown in the example.
 
-    \[Omitted image "act-task-submit-asmt.png"\] Alt text: [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]].
+    \[Omitted image "act-task-submit-asmt.png"\] Alt text: Submit the assessment.
 
     When you complete the assessment, its state is shown as **Completed** in the **Assessment** tab.
 
@@ -172,7 +172,7 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "word-rep-1.png"\] Alt text: Word report sections.\[Omitted image "word-rep-2.png"\] Alt text: Details of Word report.
 
-    For information on Word templates and Template configurations, see [[gen-word-reports|Generating Microsoft Word reports using Document designer]].
+    For information on Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-word-reports.md).
 
     The generation of Microsoft Word reports, required by regulatory authorities for analysis in Digital resilience incident reporting, is completed with this step.
 
@@ -192,8 +192,4 @@ Role required: sn\_oper\_res.manager
 
     Saving the action task in the instance completes the required reporting workflow.
 
-## Related
 
-- [[gen-word-reports|Generating Microsoft Word reports using Document designer]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

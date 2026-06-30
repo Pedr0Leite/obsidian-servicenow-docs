@@ -14,7 +14,7 @@ breadcrumb: [Create and manage a safety audit, Safety inspections and audits, Us
 
 # Monitor safety audit progress and outcomes at a glance
 
-Use the **Overview** tab in a [[health-safety-overview|Health and Safety]] audit to quickly assess the audit completion status and outstanding items.
+Use the **Overview** tab in a Health and Safety audit to quickly assess the audit completion status and outstanding items.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.safety\_audit\_wr
 
 The **Overview** tab provides a quick and real-time visual summary of audit progress. It shows objective completion on a timeline, the distribution of objectives, items for review, and findings by state, and an overall compliance rating for the audit.
 
-\[Omitted image "hs-audit-overview.png"\] Alt text: [[overview-lxp-widgets|Overview tab]] showing the audit progress via Audit timeline, Objectives, Items for review, and Compliance cards.
+\[Omitted image "hs-audit-overview.png"\] Alt text: Overview tab showing the audit progress via Audit timeline, Objectives, Items for review, and Compliance cards.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -98,8 +98,3 @@ Percentage of audit compliance ratings based on findings. -   The percentage ins
 </table>
 **Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[overview-lxp-widgets|Overview tab]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

@@ -18,9 +18,9 @@ Use the Pallet asset class to track and manage assets in your inventory as a gro
 
 A pallet is an asset with the model category Pallet. Pallets are the parent of the assets contained in them. The predefined pallet types are pallet, bin, box, and container.
 
-**Note:** The Pallet asset class with its associated UI options are available only with the [[ham-landing-page|Hardware Asset Management]] Professional plugin \(com.sn\_hamp\).
+**Note:** The Pallet asset class with its associated UI options are available only with the Hardware Asset Management Professional plugin \(com.sn\_hamp\).
 
-You can create a pallet asset and add base, hardware, bundle, consumables, and other pallet assets to the pallet in the [[asset-estate-view-am|Asset Estate view]].
+You can create a pallet asset and add base, hardware, bundle, consumables, and other pallet assets to the pallet in the Asset Estate view.
 
 Pallet assets aren't associated with any expense lines.
 
@@ -33,12 +33,7 @@ Note the following when you plan to use pallet assets for inventory management:
     **Note:** For information on excluded assets, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 
 -   You can't add an asset that is already associated to a parent asset.
--   Pallet assets can't be a part of [[asset-bundles-concept|asset bundles]].
+-   Pallet assets can't be a part of asset bundles.
 
 For more details on pallet assets, see [Manage your inventory through pallet assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/pallets-for-inventory-management.md).
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[asset-bundles-concept|Asset bundles]]

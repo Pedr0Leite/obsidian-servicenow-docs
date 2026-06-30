@@ -22,7 +22,7 @@ Role required: auth\_factors\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Knowledge Based Factor**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Knowledge Based Factor**.
 
 2.  Perform the following:
 
@@ -30,9 +30,6 @@ Role required: auth\_factors\_admin
     -   [Create KBA answers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-answers.md)
     -   [Map KBA questions to answers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-answer-mappings.md)
     -   [AI voice agent service mapping with KBA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-service-mappings.md)
-    After creating the KBA configurations, you can use it as an identification and [[c_Authentication|authentication]] method.
+    After creating the KBA configurations, you can use it as an identification and authentication method.
 
-## Related
 
-- [[authentication-factors|Authentication factors]]
-- [[c_Authentication|Authentication]]

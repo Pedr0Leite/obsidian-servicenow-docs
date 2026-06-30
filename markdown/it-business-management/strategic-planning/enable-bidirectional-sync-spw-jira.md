@@ -14,7 +14,7 @@ breadcrumb: [Configure Jira project settings, Configure, SPW Jira Integrations, 
 
 # Enable bidirectional sync between SPW and Jira
 
-Enable import and export for a Jira project to ensure data is consistent across for all stakeholders using [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and Jira.
+Enable import and export for a Jira project to ensure data is consistent across for all stakeholders using Strategic Planning Workspace and Jira.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_jira\_int.user
 
 [Import issues from Jira to SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/import-issues-from-jira-to-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

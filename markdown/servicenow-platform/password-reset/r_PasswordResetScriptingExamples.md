@@ -65,7 +65,7 @@ function getExtensionScriptSysId(scriptName, category) {
 
 ## Define a credential store
 
-The following is an example of an extended process function in the User Account Lookup category used to define a credential store. To create this extension script, go to **[[password-reset-landing-page|Password Reset]]** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnExtensionScript.md). To configure the User Lookup in a Password Reset process, see [Credential Stores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md).
+The following is an example of an extended process function in the User Account Lookup category used to define a credential store. To create this extension script, go to **Password Reset** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnExtensionScript.md). To configure the User Lookup in a Password Reset process, see [Credential Stores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md).
 
 ```
 
@@ -283,6 +283,3 @@ SampleIdentificationProcessorExtension.prototype={
 };]]></script><sys_created_by>admin</sys_created_by><sys_created_on>2013-07-3017:00:28</sys_created_on><sys_id>3a79a503d73201002bb9af728e610349</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2013-07-3017:08:41</sys_updated_on></sys_script_include><sys_app_file action="INSERT_OR_UPDATE"><customer_update>false</customer_update><publish_override/><replace_on_upgrade>false</replace_on_upgrade><restore/><sys_app/><sys_code>!!1W5/</sys_code><sys_created_by>admin</sys_created_by><sys_created_on>2013-07-3017:00:28</sys_created_on><sys_id>4799ed03d73201002bb9af728e610333</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SampleIdentificationProcessorExtension</sys_name><sys_parent/><sys_path>!!1W5/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>3a79a503d73201002bb9af728e610349</sys_source_id><sys_source_table>sys_script_include</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_script_include_3a79a503d73201002bb9af728e610349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2013-07-3017:08:41</sys_updated_on></sys_app_file></record_update>
 ```
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

@@ -16,9 +16,9 @@ breadcrumb: [Create and test your credentials, Get started with credentials, Con
 
 The VMware credentials type manages access to vCenter credentials.
 
-Applications that access VMware cloud resources need access to VMware credentials. For example, the VMware credential type enables Discovery to explore VMware's vCenter running on a Windows machine to discover ESX machines, virtual machines, and resource pools. The VMware Discovery and automation API \(vCenter API\) now provides the globally unique serial number for computer CIs. [[r_CIMCredentialsForm|CIM credentials]] aren’t needed to enable access to each VMware host.
+Applications that access VMware cloud resources need access to VMware credentials. For example, the VMware credential type enables Discovery to explore VMware's vCenter running on a Windows machine to discover ESX machines, virtual machines, and resource pools. The VMware Discovery and automation API \(vCenter API\) now provides the globally unique serial number for computer CIs. CIM credentials aren’t needed to enable access to each VMware host.
 
-**Note:** [[r_WindowsCredentialsForm|Windows credentials]] aren’t necessary for vCenter Discovery, when valid VMware credentials are used.
+**Note:** Windows credentials aren’t necessary for vCenter Discovery, when valid VMware credentials are used.
 
 **Important:** Do not use **VMware** Type credentials for Orchestration activities that perform work on the individual virtual machines cloned by vCenter \(for example, restarting a Linux VM\). For these activities, the credential **Type** depends on the operating system of the virtual machine \(either **SSH** or **Windows**\).
 
@@ -76,13 +76,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_CIMCredentialsForm|CIM credentials]]
-- [[r_WindowsCredentialsForm|Windows credentials]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Set MID Server thread use
 
-Change the number of threads used by the [[mid-server-landing|MID Server]] according to performance requirements. MID Servers which compete with other programs for CPU time can use fewer threads than the default. MID Servers which need more speed, and have a host computer powerful enough, can use more threads.
+Change the number of threads used by the MID Server according to performance requirements. MID Servers which compete with other programs for CPU time can use fewer threads than the default. MID Servers which need more speed, and have a host computer powerful enough, can use more threads.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ Follow the steps below to change the `config.XML` file. Alternatively, use the `
 
 **Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up the Google Cloud Translator Service spoke, Google Cloud Tran
 
 # Configure the credential for the GoogleTranslation alias
 
-Authorize actions of [[google-translator-spoke|Google Cloud Translator Service spoke]] by configuring the Google OAuth 2.0 credential.
+Authorize actions of Google Cloud Translator Service spoke by configuring the Google OAuth 2.0 credential.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Next topic:**[Configure the connection attributes for the GoogleTranslation alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-connection-google.md)
 
-## Related
-
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]

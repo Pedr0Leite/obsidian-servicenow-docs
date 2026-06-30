@@ -16,13 +16,13 @@ Use the Case Playbook for Complaints to guide agents through the steps that are 
 
 A complaint case captures the information about the customer, the product, and the details about the complaint. The complaint playbook provides the activities and tasks that agents can perform to research and resolve the complaint. Agents can also create and assign tasks as needed and use the playbook to communicate with the customer.
 
-The Case Playbook for Complaints can be used with cases that are created using the complaint case type. This playbook is available for both [[csm-workspaces-configure|CSM Configurable Workspace]] and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
+The Case Playbook for Complaints can be used with cases that are created using the complaint case type. This playbook is available for both CSM Configurable Workspace and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
 
 **Note:** If you have the admin role, you can configure a playbook to use the compact mode in CSM Configurable Workspace. Use the compact mode to move the playbook from a tab in the Workspace to a tab in the contextual side panel.
 
 ## Case Playbook for Complaints application
 
-The Case Playbook for Complaints 3.0 application \(com.sn\_csm\_complaint\_caseflow\) is available from the ServiceNow® Store. For more information, see [[setting-up-csm-playbooks|Playbook plugins]].
+The Case Playbook for Complaints 3.0 application \(com.sn\_csm\_complaint\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-csm-playbooks.md).
 
 ## Case Playbook for Complaints PAD process definition
 
@@ -55,7 +55,7 @@ Create a complaint case using the Case Playbook for Complaints
 
 Feature that opens the complaint playbook and initiates the first activity in the Intake stage, which is gathering complaint details. The agent can complete and save this activity to create the record.
 
- For more information, see [[csm-playbook-create-record|Create a record using a playbook]].
+ For more information, see [Create a record using a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Focused activity view
 
 Feature that determines how the stages and activities appear in the playbook.
 
- The Case Playbook for Complaints uses the [[csm-playbook-layout|Focused activity view]], which enables agents to see
+ The Case Playbook for Complaints uses the [Focused activity view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-layout.md), which enables agents to see
 
 -   The end-to-end life cycle of the complaint workflow in the playbook life-cycle panel.
 -   The current stage is expanded and the current activity is highlighted within the playbook life-cycle panel.
@@ -79,17 +79,17 @@ Contextual side panel
 
 Feature that displays the following information in the contextual side panel:
 
--   [[csm-config-ws-activity-stream|Activity stream]]
+-   Activity stream
 -   Ribbon information, such as the case overview, customer details, timeline, and SLAs
--   [[csm-contextual-related-records|Dynamic related records]]
+-   Dynamic related records
 
 **Note:** The activity stream and ribbon information are available in CSM Configurable Workspace only.
 
  For more information about using the contextual side panel, see
 
--   [[csm-playbooks-using-activity-stream|Using activity stream in the contextual side panel]]
--   [[csm-playbooks-viewing-ribbon-info|Viewing the ribbon information in the contextual side panel]]
--   [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
+-   [Using activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
+-   [Viewing the ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+-   [Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Feature that uses the following settings to control activity visibility:
 -   Hide the activities in a stage that the logged-in user can't access.
 -   Hide the pending activities in a stage.
 
- For more information about configuring this feature, see [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]].
+ For more information about configuring this feature, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ The activity-level actions can vary depending on the type of activity and in whi
 
 ## Complaint playbook stages and activities
 
-The following table [[migration-lists|lists]] the Case Playbook for Complaints stages and activities that agents can use to resolve customer issues.
+The following table lists the Case Playbook for Complaints stages and activities that agents can use to resolve customer issues.
 
 <table id="table_nrj_z2s_llb"><thead><tr><th>
 
@@ -201,11 +201,11 @@ Gather complaint details
 
 </td><td>
 
-When an agent creates a complaint case, the workspace opens the Create New Complaint [[r_CustomerServiceCaseForm|Case form]], launches the complaint playbook, and uses the first activity to gather complaint details.
+When an agent creates a complaint case, the workspace opens the Create New Complaint Case form, launches the complaint playbook, and uses the first activity to gather complaint details.
 
  The agent can enter the information about the customer, the service, the complaint, and the expected outcome for the case. As the agent enters the complaint details, additional fields appear on the activity card such as the **Category** and **Subcategory** fields.
 
-**Note:** For more information about the service, see [[csm-service-definitions|Service definitions]].
+**Note:** For more information about the service, see [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md).
 
  Agent actions:
 
@@ -306,7 +306,7 @@ Case task that agents can assign to a different user for legal review.
 
 1.  Select the View Task icon in the activity card. This action opens the case task in a new tab.
 2.  Select the user in the **Assigned to** field.
-3.  Add information to the other fields on the [[csm-case-task-form|Case Task form]] as needed and select **Save**.
+3.  Add information to the other fields on the Case Task form as needed and select **Save**.
 
  Agent actions:
 
@@ -479,22 +479,5 @@ The Case Playbook for Complaints v5.0 application includes a process-based page 
 -   Email templates that are displayed in the contextual side panel.
 -   Customization of the start and end states of the approval flow as fields in the Approval request activity.
 
-Agents can create tasks as needed as well as view and update case details. For more information, see [[csm-playbook-pages|Playbook pages]].
+Agents can create tasks as needed as well as view and update case details. For more information, see [Playbook pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-pages.md).
 
-## Related
-
-- [[setting-up-csm-playbooks|Playbooks in Customer Service Management]]
-- [[csm-playbook-create-record|Create a record using a playbook]]
-- [[csm-playbook-layout|Playbook layout and features]]
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-playbook-pages|Playbook pages]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-case-task-form|Case task form]]

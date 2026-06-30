@@ -14,13 +14,13 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Global text search suggestions
 
-Global text search offers two types of [[search-suggestions-overview|search suggestions]].
+Global text search offers two types of search suggestions.
 
 The knowledge base and global text searches provide suggestions as you type. Type-ahead suggestions appear under the search box. Suggestions are based on similar searches that begin with the same characters.
 
 \[Omitted image "TypeAheadSuggestions.png"\] Alt text: Type-ahead search suggestions.
 
-The knowledge base and global text searches also provide suggestions for alternate search terms. Suggestions appear if your original search doesn't return any [[hs-results|results]] and an alternate spelling or similar recent search does. For example, if you misspell a search term \(such as eail\), the correct spelling \(email\) may appear as an alternate search suggestion. Suggestions appear beneath the search box on the results page.
+The knowledge base and global text searches also provide suggestions for alternate search terms. Suggestions appear if your original search doesn't return any results and an alternate spelling or similar recent search does. For example, if you misspell a search term \(such as eail\), the correct spelling \(email\) may appear as an alternate search suggestion. Suggestions appear beneath the search box on the results page.
 
 \[Omitted image "DidYouMeanSuggestions.png"\] Alt text: Alternate term suggestions.
 
@@ -54,7 +54,3 @@ The Knowledge Base and global text searches can provide "Did you mean?" suggesti
 
 [Add a workspace application to the Unified Navigation search context menu]()
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[hs-results|Results]]

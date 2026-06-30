@@ -26,7 +26,7 @@ The first time a user accesses the project workbench from the Project menu, the 
 
 After a project is opened, the header displays additional components, depending on the type of project selected.
 
--   Back \(\[Omitted image "ProjectWorkbenchBackIcon.png"\] Alt text: screenshot for back icon\): takes the user to the [[create-a-project-form|Project form]] to view the project details.
+-   Back \(\[Omitted image "ProjectWorkbenchBackIcon.png"\] Alt text: screenshot for back icon\): takes the user to the Project form to view the project details.
 -   **Select Project**: displays the current project name. Click the down arrow to select a new project.
 -   Add phase icon \(\[Omitted image "ProjectWorkbenchAddPhaseIcon.png"\] Alt text: screenshot for Add phase icon\): adds a phase or milestone to the timeline.
 -   **Apply Template**: opens a dialog box for setting a start date and adding a template to the project. This button appears for new or blank projects that have no phases.
@@ -52,11 +52,11 @@ A project phase is represented in the timeline by a horizontal bar. The bar is c
 
 The color of the horizontal bar changes incrementally to reflect the completion percentage of the phase. The percentage completion is calculated based on the phase type:
 
--   **Waterfall**: includes [[t_CreateAProjectTask|project tasks]]. The completion percentage is based on the number of project tasks that have been completed.
+-   **Waterfall**: includes project tasks. The completion percentage is based on the number of project tasks that have been completed.
 -   **Agile**: includes stories. The completion percentage is based on the number of story points that have been completed.
--   **Test**: includes [[c_TestCases|test cases]]. The completion percentage is based on the number of test cases that have been completed.
+-   **Test**: includes test cases. The completion percentage is based on the number of test cases that have been completed.
 
-The available phases depend on how [[c_ProjectApplicationOverview|Project Management]] is installed. When Project Management is installed as a standalone app, the project manager can only create and edit the Waterfall phase type. When Project Management is installed as part of the [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPS\), the project manager can create and edit all phase types \(Waterfall, Agile, and Test\).
+The available phases depend on how Project Management is installed. When Project Management is installed as a standalone app, the project manager can only create and edit the Waterfall phase type. When Project Management is installed as part of the Project Portfolio Management \(PPS\), the project manager can create and edit all phase types \(Waterfall, Agile, and Test\).
 
 When you point to a phase, the cursor changes from an arrow to a hand and a pop-up window displays the phase name and the start and end dates. Clicking a phase in the timeline displays the corresponding task information in the bottom pane of the project workbench.
 
@@ -89,10 +89,3 @@ Information in the bottom pane can be displayed in list view or in a visual task
 
 [Managing Project workbench]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TestCases|Test cases]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

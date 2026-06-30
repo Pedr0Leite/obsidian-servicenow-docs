@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # List of scan checks
 
-Multiple scan checks are available in [[tmt-service-bridge-both-landing-page|Service Exchange]] to help you identify issues and system inconsistencies, enabling you to maintain system health and reduce downtime.
+Multiple scan checks are available in Service Exchange to help you identify issues and system inconsistencies, enabling you to maintain system health and reduce downtime.
 
 |Check|Description|Suite|Check Type|Execution Type|
 |-----|-----------|-----|----------|--------------|
@@ -26,9 +26,9 @@ Multiple scan checks are available in [[tmt-service-bridge-both-landing-page|Ser
 |\[PRO\] Entitlement with invalid identity reference|Entitlement doesn’t reference a valid identity|Service Exchange Post-Upgrade, Post-Onboarding, Post-Clone|PRO|On-Demand|
 |\[PRO\] Entitlements missing connection|Entitlement doesn’t reference a consumer connection|Service Exchange Entitlements, Post-Onboarding, Post-Upgrade, Post-Clone|PRO|On-Demand, Scheduled|
 |\[PRO\] Integration user name does not start with sb\_user|Integration user name doesn’t start with "sb\_user."|Service Exchange Post-Clone, Post-Onboarding|PRO|On-Demand|
-|\[PRO\] [[service-bridge-v2-explore-magic-link|Magic Links]] is not configured|Magic Links is not correctly configured|Service Exchange Magic Links Configurations|PRO|Scheduled|
+|\[PRO\] Magic Links is not configured|Magic Links is not correctly configured|Service Exchange Magic Links Configurations|PRO|Scheduled|
 |\[PRO\] Magic Links is not fully enabled|Magic Links is not fully enabled|Service Exchange Magic Links Configurations|PRO|Scheduled|
-|\[PRO\] Process Sync Definition configuration is valid|Service Exchange [[se-connections-tab|connections]]' RPS Process Sync Definition is missing|Service Exchange Connection Health, Post-Clone, Pre-Onboarding|PRO|On-Demand, Scheduled|
+|\[PRO\] Process Sync Definition configuration is valid|Service Exchange connections' RPS Process Sync Definition is missing|Service Exchange Connection Health, Post-Clone, Pre-Onboarding|PRO|On-Demand, Scheduled|
 |\[PRO\] Provider \(sn\_sb\_pro\_provider\) is missing|Provider \(sn\_sb\_pro\_provider\) is missing|Service Exchange Pre-Onboarding|PRO|On-Demand|
 | | | | | |
 | | | | | |
@@ -89,11 +89,5 @@ Multiple scan checks are available in [[tmt-service-bridge-both-landing-page|Ser
 **Related topics**  
 
 
-[[service-bridge-v2-scan-checks|Instance scan checks]]
+[Instance scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scan-checks.md)
 
-## Related
-
-- [[service-bridge-v2-scan-checks|Instance scan checks]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-explore-magic-link|Magic links]]
-- [[se-connections-tab|Connections]]

@@ -37,7 +37,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-\[Omitted image "pol-pref-organize-[[form-configurable-workspace|forms]]-[[lists-configurable-workspace|lists]].png"\] Alt text: Organize form sections and [[c_RelatedLists|related lists]] into tabs in classic forms.
+\[Omitted image "pol-pref-organize-forms-lists.png"\] Alt text: Organize form sections and related lists into tabs in classic forms.
 
 </td><td>
 
@@ -76,7 +76,7 @@ Loads related lists in classic forms at one of the following times:-   With the 
 
 </td><td>
 
-Optimizes the spacing between [[c_FormFields|form fields]], controls, and list rows and columns, displaying more content on forms and lists.
+Optimizes the spacing between form fields, controls, and list rows and columns, displaying more content on forms and lists.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Optimizes the spacing between [[c_FormFields|form fields]], controls, and list r
 
 </td><td>
 
-Provides tooltips to use and [[configure-onboarding-modals|configure]] features in the instance.
+Provides tooltips to use and configure features in the instance.
 
 </td></tr><tr><td>
 
@@ -104,11 +104,3 @@ Shows results from all menus except the History menu when filtering from any men
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_RelatedLists|Related lists]]
-- [[c_FormFields|Form fields]]
-- [[configure-onboarding-modals|Configure]]

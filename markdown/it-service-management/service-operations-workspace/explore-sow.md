@@ -14,11 +14,11 @@ breadcrumb: [Service Operations Workspace for ITSM, IT Service Management]
 
 # Exploring Service Operations Workspace for ITSM
 
-You can have a unified and seamless experience when managing the life cycle of task records such as incidents, requests, and walk-ups in [[r_ITServiceManagement|IT Service Management]] workflows using Service Operations Workspace \(SOW\) for ITSM.
+You can have a unified and seamless experience when managing the life cycle of task records such as incidents, requests, and walk-ups in IT Service Management workflows using Service Operations Workspace \(SOW\) for ITSM.
 
 ## Service Operations Workspace for ITSM overview
 
-[[sow-landing-page|Service Operations Workspace for ITSM]] is a configurable workspace that provides a unified experience for multiple IT Service Management and IT Operations Management workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
+Service Operations Workspace for ITSM is a configurable workspace that provides a unified experience for multiple IT Service Management and IT Operations Management workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
 
 ## Accessing Service Operations Workspace for ITSM
 
@@ -73,7 +73,7 @@ User who implements and sets up Service Operations Workspace for ITSM.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Tailored [[dex-workspace-dashboard-tab|landing page]] for tier 1 and tier 2 agents. It provides an overview of outages, service announcements, and assignments to efficiently prioritize the work. Tier 1 agents can view and manage their performance and learning tasks assigned by their manager. |[Service Operations Workspace for ITSM landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-ui-landing-page.md)|Tier 1 and Tier 2 agents|
+|Tailored landing page for tier 1 and tier 2 agents. It provides an overview of outages, service announcements, and assignments to efficiently prioritize the work. Tier 1 agents can view and manage their performance and learning tasks assigned by their manager. |[Service Operations Workspace for ITSM landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-ui-landing-page.md)|Tier 1 and Tier 2 agents|
 |Agents can manage incidents effectively with contextual information and targeted actions. Streamline investigations and accelerate incident resolution with the metrics data collected from Agent Client Collector \(ACC\).|[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/incident-sow.md)|Tier 1 and Tier 2 agents|
 |Agents can use information from similar incidents and knowledge articles to accelerate incident resolution.|[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md)|Tier 1 and Tier 2 agents|
 |Agents can reach out to experts on-call for high-priority tasks. |[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)|Tier 1 and Tier 2 agents|
@@ -91,11 +91,11 @@ For information about key features in Service Operations Workspace for ITOM, see
 \[Omitted image "final-sow-workflow.png"\] Alt text: SOW workflow
 
 -   An agent can start the day by looking at an overview of assignments, outages, service announcements, and assignments in Service Operations Workspace to prioritize work based on service level agreements \(SLAs\), priority level, and urgency​.
--   The agent can [[create-an-incident|create an incident]] based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
+-   The agent can create an incident based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
 -   The agent can resolve the incident faster by using tailored recommendations.
 -   The agent can reach out to experts on-call for high-priority tasks.​
 -   The agent can collaborate easily with the requester and peers right from the task.
--   The agent can [[t_CreateAChange|create a change request]] to fix the issue.
+-   The agent can create a change request to fix the issue.
 
 ## Using guided tours to learn about Service Operations Workspace for ITSM
 
@@ -128,7 +128,7 @@ An agent can get quick visibility into the work assigned, view announcements, an
 -   **[Exploring Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)**  
 Recommended Actions for ITSM lets you set up and apply real-time actionable recommendations for speeding up the triaging process. You can resolve issues quickly across various records in the Service Operations Workspace, including Incident, Incident task, Problem, Problem task, Change request, Change task, Interaction, and Request.
 -   **[Exploring On-call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-service-operations-workspace.md)**  
-[[c_OnCallScheduling|On-Call Scheduling]] ensures that dedicated support team members are always available to resolve issues as they arise. You can set up on-call schedules, roster rotations, and escalation policies, escalate notifications for a group, and determine the current contact for an escalation.
+On-Call Scheduling ensures that dedicated support team members are always available to resolve issues as they arise. You can set up on-call schedules, roster rotations, and escalation policies, escalate notifications for a group, and determine the current contact for an escalation.
 
 **Parent Topic:**[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-landing-page.md)
 
@@ -137,11 +137,3 @@ Recommended Actions for ITSM lets you set up and apply real-time actionable reco
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[create-an-incident|Create an incident]]
-- [[t_CreateAChange|Create a change request]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **Stories**.
+1.  Navigate to **Scaled Agile Framework \(SAFe\)** &gt; **Stories**.
 2.  Click **New**.
 
 
@@ -200,6 +200,3 @@ Set dependencies to your SAFe story by adding prerequisite and dependent stories
 
 **Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/key-entities-SAFe.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

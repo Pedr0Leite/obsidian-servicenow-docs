@@ -19,7 +19,7 @@ Assign localization roles according to a user's scope in the localization proces
 The localization process follows this basic flow:
 
 1.  Topics are developed and released in the source language \(for example, English\).
-2.  Topics are translated, either by request or by editing them directly in [[virtual-agent-landing-page|Virtual Agent]] Designer.
+2.  Topics are translated, either by request or by editing them directly in Virtual Agent Designer.
 
     If you are using NLU models, the models must be translated as well. For more information about that process, see [Multilingual model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/multilingual-model-managent.md).
 
@@ -135,6 +135,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

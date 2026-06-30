@@ -14,11 +14,11 @@ breadcrumb: [Change schedules, Configure, Change Management, IT Service Manageme
 
 # Add related tasks to a change schedule
 
-Create related definitions to present related tasks for change requests in the change schedule. For example, to view the [[change-tasks|change tasks]] associated with a change request, you need to define a related definition.
+Create related definitions to present related tasks for change requests in the change schedule. For example, to view the change tasks associated with a change request, you need to define a related definition.
 
 ## Before you begin
 
--   You have activated [[c_ITILChangeManagement|Change Management]] - Change Schedule plugin \(com.snc.change\_management.soc\).
+-   You have activated Change Management - Change Schedule plugin \(com.snc.change\_management.soc\).
 -   Parent change schedule is defined.
 -   Role required: itil, sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_write roles, sn\_change\_write, or admin
 
@@ -54,7 +54,7 @@ Change schedule definition
 
 </td><td>
 
-[[reference-for-itsm-mobile-agent|Reference]] for the parent change schedule.
+Reference for the parent change schedule.
 
 </td></tr><tr><td>
 
@@ -141,15 +141,9 @@ List of fields that appear on the right column of the record summary pop-up. The
 
 [Change schedules view]()
 
-[Create a change schedule from the [[change-schedule|Change Schedules]] page]()
+[Create a change schedule from the Change Schedules page]()
 
 [Create a change schedule from the change schedule definition]()
 
 [Style rules definition]()
 
-## Related
-
-- [[change-tasks|Change tasks]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[change-schedule|Change schedules]]

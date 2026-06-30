@@ -14,9 +14,9 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Search query parameter evaluation framework
 
-[[ia-ai-search|AI Search]] performs A/B test evaluations that compare result relevancy for alternate sets of search query parameter values. These evaluations determine the models that AI Search uses for machine learning relevancy and for [[genius-result-q-a-ais|Q&amp;A Genius Results]].
+AI Search performs A/B test evaluations that compare result relevancy for alternate sets of search query parameter values. These evaluations determine the models that AI Search uses for machine learning relevancy and for Q&amp;A Genius Results.
 
-The search query parameter evaluation framework enables A/B relevancy testing on live search traffic. AI Search considers [[hs-results|results]] from this live testing along with its offline evaluation of aggregated search signal data when making the following determinations:
+The search query parameter evaluation framework enables A/B relevancy testing on live search traffic. AI Search considers results from this live testing along with its offline evaluation of aggregated search signal data when making the following determinations:
 
 -   Determining which relevancy model to publish for a search profile. For details on generation and publication of relevancy models, see [Machine learning relevancy in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/machine-learning-relevancy-ais.md).
 -   Determining which machine reading comprehension \(MRC\) model to use when validating potential Q&amp;A Genius Result answers. For more information on the MRC model used for Q&amp;A Genius Results, see [Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-q-a-ais.md).
@@ -31,7 +31,7 @@ The search query parameter evaluation framework is part of the Adaptive Telemetr
 
 ## Search query parameter evaluation framework tables
 
-The search query parameter evaluation framework for AI Search uses tables to store results and [[c_MetricDefinitionSupport|metrics]] from A/B testing of live search traffic. AI Search uses the stored data when determining which relevancy model and Q&amp;A Genius Result answer validation model to publish for a search application.
+The search query parameter evaluation framework for AI Search uses tables to store results and metrics from A/B testing of live search traffic. AI Search uses the stored data when determining which relevancy model and Q&amp;A Genius Result answer validation model to publish for a search application.
 
 ### A/B Testing Evaluation table
 
@@ -104,7 +104,7 @@ Minimum Signals for Evaluation
 
 </td><td>
 
-Minimum number of [[search-signals|search signals]] the evaluation should collect before ending.-   Type: integer
+Minimum number of search signals the evaluation should collect before ending.-   Type: integer
 -   Default value: **0** \(no minimum\)
 -   Maximum value: **30000**
 
@@ -160,7 +160,7 @@ Evaluation
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the record for the evaluation on the A/B Testing Evaluation \[evaluation\] table.
+Reference to the record for the evaluation on the A/B Testing Evaluation \[evaluation\] table.
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Date and time when the evaluation operation ended.
 </td></tr></tbody>
 </table>### A/B Testing Evaluation Parameter table
 
-The A/B Testing Evaluation Parameter \[evaluation\_parameter\] table stores details of individual search query [[r_DirectJDBCProbeParameters|parameters]] considered in A/B testing evaluations for live search traffic.
+The A/B Testing Evaluation Parameter \[evaluation\_parameter\] table stores details of individual search query parameters considered in A/B testing evaluations for live search traffic.
 
 <table><thead><tr><th>
 
@@ -270,7 +270,7 @@ Parameter Type
 Type for the search query parameter. The selected value determines how the **Parameter Values** are used during and after an A/B evaluation. Supported values:
 
 -   **Search Context Parameters**: Merge and override search profile context parameters with the **Parameter Values** for search query requests. When the evaluation ends, use the search query context parameter value set with the winning score to override or merge the relevant search profile context parameters.
--   **Search QnA Genius Result Configuration**: Apply the **Parameter Values** to Q&amp;A Genius Result [[clone-configurations-tab|configurations]] used in search query requests. When the evaluation ends, update the relevant search profile to include the Genius Result configuration parameter value with the winning score.
+-   **Search QnA Genius Result Configuration**: Apply the **Parameter Values** to Q&amp;A Genius Result configurations used in search query requests. When the evaluation ends, update the relevant search profile to include the Genius Result configuration parameter value with the winning score.
 -   **Search QnA Model**: Apply the **Parameter Values** to Q&amp;A Genius Result models used in search query requests. When the evaluation ends, update the relevant search profile to include the Q&amp;A Genius Result model parameter value with the winning score.
 -   **Search Relevancy Model**: Apply the **Parameter Values** as search relevancy models to use in search query requests. When the evaluation ends, update the relevant search profile to include the relevancy model parameter value with the winning score.
 -   **Search REST Parameters**: Merge and override search profile query parameters with the **Parameter Values** for search query requests. When the evaluation ends, use the search query parameter value set with the winning score to override or merge the relevant search profile parameters.
@@ -336,9 +336,9 @@ Search administrators can exclude individual search profiles from the search que
 
 2.  Open the record for the search profile that you want to exclude from A/B testing evaluations of live search traffic.
 
-3.  If the [[search-profile-form-ais|Search Profile form]] doesn't already display the **Exclude from evaluation** field, configure the form layout to make the field visible.
+3.  If the Search Profile form doesn't already display the **Exclude from evaluation** field, configure the form layout to make the field visible.
 
-    For details on configuring a form layout to make fields visible, see [[configure-form-layout|Configuring the form layout]].
+    For details on configuring a form layout to make fields visible, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 4.  Select the **Exclude from evaluation** option.
 
@@ -349,15 +349,3 @@ Search administrators can exclude individual search profiles from the search que
 
 AI Search no longer performs A/B testing evaluations for traffic that uses the excluded search profile. Machine learning relevancy no longer updates the relevancy model for the search profile.
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[ia-ai-search|AI Search]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[search-signals|Search signals]]
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[clone-configurations-tab|Configurations]]
-- [[search-profile-form-ais|Search Profile form]]

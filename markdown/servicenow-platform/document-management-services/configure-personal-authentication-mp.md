@@ -14,7 +14,7 @@ breadcrumb: [Personal authentication, Integrate with Document Services, Multi Pr
 
 # Configure personal authentication for Multi Provider Document Services Framework
 
-Configure and enable [[personal-authentication-documents|personal authentication]] for Microsoft OneDrive and Google Drive accounts in [[mp-document-services-framework-landing|Multi Provider Document Services Framework]].
+Configure and enable personal authentication for Microsoft OneDrive and Google Drive accounts in Multi Provider Document Services Framework.
 
 ## Before you begin
 
@@ -42,7 +42,3 @@ For Google Drive
 
 **Parent Topic:**[Personal authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/personal-authentication-documents.md)
 
-## Related
-
-- [[personal-authentication-documents|Personal authentication]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]

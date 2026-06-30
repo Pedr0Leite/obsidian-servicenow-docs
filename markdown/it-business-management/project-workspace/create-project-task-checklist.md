@@ -22,13 +22,13 @@ Role required: it\_project\_user, it\_project\_manager
 
 ## Procedure
 
-1.  Open a project from the planning page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the planning page of Project Workspace.
 
     For information on how to navigate to the planning page, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Navigate to a project task.
 
-3.  Select [[t_CreateAProjectTask|project tasks]] and then select the checklist icon \(\[Omitted image "task-checklist-icon.png"\] Alt text: checklist-icon.\) from the side panel to add checklist items.
+3.  Select project tasks and then select the checklist icon \(\[Omitted image "task-checklist-icon.png"\] Alt text: checklist-icon.\) from the side panel to add checklist items.
 
     You can add, edit, organize, or remove checklist items as needed.
 
@@ -46,7 +46,3 @@ Role required: it\_project\_user, it\_project\_manager
 
 [Project task checklist items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-task-checklist.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

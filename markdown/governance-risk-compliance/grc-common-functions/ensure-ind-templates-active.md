@@ -14,7 +14,7 @@ breadcrumb: [Technology Controls Monitoring Accelerator, GRC use case accelerato
 
 # Ensure that all the appropriate indicator templates are activated
 
-When you download the GRC: [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] application, all indicator templates are available, but they are not yet active. Before activating them, you need to ensure that you have the necessary applications activated and can access the tables that are mapped to the indicator templates.
+When you download the GRC: Technology Controls Monitoring Accelerator application, all indicator templates are available, but they are not yet active. Before activating them, you need to ensure that you have the necessary applications activated and can access the tables that are mapped to the indicator templates.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Starting with version 12.0.1 of the Technology Controls Monitoring Accelerator a
 
 **Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]

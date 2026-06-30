@@ -22,11 +22,11 @@ Role required: sn\_mgr\_workspace.admin
 
 ## About this task
 
-The landing page displays a set of reports that are the initial view of your workspace. You can enhance the Workforce [[optimization|Optimization]] experience by customizing the landing page to monitor metrics and trends that matter most to you. Use the User Interface \(UI\) Builder to add data visualization components to display widgets and reports that you want to track and monitor.
+The landing page displays a set of reports that are the initial view of your workspace. You can enhance the Workforce Optimization experience by customizing the landing page to monitor metrics and trends that matter most to you. Use the User Interface \(UI\) Builder to add data visualization components to display widgets and reports that you want to track and monitor.
 
 Using UI Builder, you can:
 
--   Clone the existing [[csm-ws-landing-page-original|CSM landing page]].
+-   Clone the existing CSM landing page.
 
     **Note:** The application scope can be set to CSM Workspace, CSM Manager Workspace or Workforce Optimization. The **Clone Page** action is not available in the Global scope.
 
@@ -234,7 +234,7 @@ The type of report that renders.
 10. Select **Update** to save changes to the landing page.
 
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
 ## Set the default landing page
 
@@ -298,8 +298,3 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 You can access the enhanced Manager Workspace as the default landing page.
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[optimization|Optimization]]
-- [[csm-ws-landing-page-original|CSM Landing Page]]

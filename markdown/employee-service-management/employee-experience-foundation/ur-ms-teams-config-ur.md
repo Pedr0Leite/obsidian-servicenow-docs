@@ -14,13 +14,10 @@ breadcrumb: [Microsoft Teams Integration for Employee Experience, Configure, Ser
 
 # Configure Universal Request integration with Microsoft Teams
 
-Complete the following procedures to configure the [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]].
+Complete the following procedures to configure the Universal Request integration with Microsoft Teams.
 
 -   **[Set up Virtual Agent for Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-setup-va.md)**  
 Publish the default Virtual Agent topics \(conversation flows\) so that they can be used in the Universal Request integration with Microsoft Teams application.
 
 **Parent Topic:**[Configuring Microsoft Teams integration for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_config.md)
 
-## Related
-
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

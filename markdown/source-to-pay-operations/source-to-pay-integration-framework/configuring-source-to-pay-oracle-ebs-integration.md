@@ -22,12 +22,12 @@ Verify that you have performed the following:
 
 -   Activated the Source-to-Pay integration with the Oracle EBS application from ServiceNow Store. This automatically activates the Oracle EBS Spoke.
 -   Set up [Oracle EBS Spoke](https://www.servicenow.com/docs/access?context=setup-oebs-spoke&version=yokohama).
--   Activated the [[source-to-pay-integration-framework|Source-to-Pay integration framework]] from ServiceNow Store. [[source-to-pay-oracle-ebs-integration|Source-to-Pay integration with Oracle EBS]] uses the Source-to-Pay integration framework to pull tasks from Oracle EBS into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
+-   Activated the Source-to-Pay integration framework from ServiceNow Store. Source-to-Pay integration with Oracle EBS uses the Source-to-Pay integration framework to pull tasks from Oracle EBS into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
 
 
 ## Primary Data Integration with Oracle EBS's Dependencies
 
-Install the following dependencies of [[master-data-integration|Primary Data integration]] with Oracle EBS. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
+Install the following dependencies of Primary Data integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
 
 Run the Trigger Oracle EBS Integration that pulls tasks into ServiceNow. For more information, see [Use schedule flows in Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-schedule-flows-oracle-ebs.md).
 
@@ -40,7 +40,7 @@ Run the Trigger Oracle EBS Integration that pulls tasks into ServiceNow. For mor
 
 ## Supplier Lifecycle Operations Integration Dependencies with Oracle EBS
 
-Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Supplier Lifecycle Operations integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -49,7 +49,7 @@ Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycl
 
 ## Sourcing and Procurement Operations Integration Dependencies with Oracle EBS
 
-Install the following dependencies of [[psm-overview|Sourcing and Procurement Operations]] integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Sourcing and Procurement Operations integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -59,7 +59,7 @@ Install the following dependencies of [[psm-overview|Sourcing and Procurement Op
 
 ## Accounts Payable Operations Integration Dependencies with Oracle EBS
 
-Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Accounts Payable Operations integration with Oracle EBS. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -68,9 +68,9 @@ Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payab
 |Source-to-Pay Integration Framework|sn\_spend\_intg|
 
 -   **[ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration-oracle.md)**  
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 -   **[Define ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-oracle.md)**  
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the Oracle EBS tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the Oracle EBS tables.
 -   **[Configure integration services for Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-oracle-ebs.md)**  
 For configuring integration services, provide the connection end point and the Oracle EBS ERP credentials that you set up for your authentication profile. Also, create a separate web service record for each service request that you want to customize.
 -   **[Load data to ERP user-mapping table for Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/load-data-erp-user-mapping-oracle-ebs.md)**  
@@ -82,14 +82,3 @@ You can schedule on-demand jobs to be run at specific intervals of time to fetch
 
 **Parent Topic:**[Source-to-Pay integration with Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-oracle-ebs-integration.md)
 
-## Related
-
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[source-to-pay-oracle-ebs-integration|Source-to-Pay integration with Oracle EBS]]
-- [[master-data-integration|Primary data integration]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

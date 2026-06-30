@@ -18,7 +18,7 @@ Use scripted extension points to call custom scripts for determining whether a m
 
 ## Before you begin
 
-Install the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] application. For more information, see [Install agent-initiated messaging interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/install-agent-init-messg.md).
+Install the Agent-Initiated Messaging Interface application. For more information, see [Install agent-initiated messaging interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/install-agent-init-messg.md).
 
 Role required: admin
 
@@ -50,6 +50,3 @@ By using extension points, you can easily integrate customizations without havin
 
 **Parent Topic:**[Configuring Agent-Initiated Messaging Interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/config-agent-init-messg-interface.md)
 
-## Related
-
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

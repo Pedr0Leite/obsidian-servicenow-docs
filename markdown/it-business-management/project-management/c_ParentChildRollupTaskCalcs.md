@@ -34,7 +34,7 @@ The following fields change on rollup tasks:
 Rollups are calculated for the following items:
 
 -   **Planned duration and planned effort**: the sum of all planned duration and planned effort values for all child tasks.
--   **Actual duration and actual effort**: the sum of all actual duration and actual effort values. Actual duration and actual effort values are calculated when all child tasks are in the **Closed Complete** state. Actual effort values can include rollups from [[c_TimeCards|time cards]].
+-   **Actual duration and actual effort**: the sum of all actual duration and actual effort values. Actual duration and actual effort values are calculated when all child tasks are in the **Closed Complete** state. Actual effort values can include rollups from time cards.
 
 **Note:** Verify that the time card property **com.snc.time\_card.update.effort** is enabled. Navigate to **System Properties** &gt; **All Properties** to enable this property.
 
@@ -48,13 +48,13 @@ Cost calculations roll up when the costing add-on is active.
     -   Associate a [rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md) to the project.
     -   Define rate cards for the task and labor expenses.
     -   Associate rate at the resource plan level.
-    These rates automatically generate expense lines showing actual expenditures, which are associated with the projects. If rate cards are defined, the task expense lines are generated as each project task closes, and labor expense lines are generated when time cards are approved. Expense lines are visible in the **Expense Lines** related list, which requires the **Advanced view** on both Project and Project Task [[form-field-information-for-dw|forms]].
+    These rates automatically generate expense lines showing actual expenditures, which are associated with the projects. If rate cards are defined, the task expense lines are generated as each project task closes, and labor expense lines are generated when time cards are approved. Expense lines are visible in the **Expense Lines** related list, which requires the **Advanced view** on both Project and Project Task forms.
 
 
 To ensure actual costs of child tasks correctly roll up to the project and added to project expense lines, the following must be true:
 
 -   The `com.snc.project.rollup.cost` property must be set to **true**. To enable this property, navigate to **Project Administration** &gt; **Settings** &gt; **Preferences - Project** and select the **Enable project cost rollup** check box.
--   The `glide.cost_mgmt.process_task_top_task` property must be set to false. Go to the costing properties in the [[r_CostManagement|Cost Management]] application. Check the **When creating a task expense line should the system also create expense lines for the task's top task box** is not checked.
+-   The `glide.cost_mgmt.process_task_top_task` property must be set to false. Go to the costing properties in the Cost Management application. Check the **When creating a task expense line should the system also create expense lines for the task's top task box** is not checked.
 -   The `glide.cost_mgmt.calc_actual_cost` property must be set to true. Go to the costing properties in the Cost Management application. Check the **For planned tasks types, calculate the actual cost field using the total of expense lines for the task** box.
 
 ## Project State Rollups and Roll Downs
@@ -102,8 +102,3 @@ Project states can also roll down. If you change the state of a project to close
 
 [Create a parent-child relationship on the Project Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateParentChildRelationship.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[form-field-information-for-dw|Forms]]
-- [[r_CostManagement|Cost Management]]

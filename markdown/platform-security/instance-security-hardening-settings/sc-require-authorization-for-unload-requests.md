@@ -14,11 +14,11 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require authorization for unload requests
 
-Use the **glide.basicauth.required.unl** \(useUnloadFormat\) property to designate if incoming unload requests should require [[basic-authentication|basic authentication]].
+Use the **glide.basicauth.required.unl** \(useUnloadFormat\) property to designate if incoming unload requests should require basic authentication.
 
-The **glide.basicauth.required.unl** system property performs [[c_Authentication|authentication]] while retrieving data from tables/pages in the form of unload data on the instance. If **glide.basicauth.required.unl** isn't set to the recommended value of **true**, then the Basic Authentication for the UNL format [[export|export]] processor is disabled. This also could be combined with a wrong role within the guest\_user related property, this will lead to unauthenticated access to instance data.
+The **glide.basicauth.required.unl** system property performs authentication while retrieving data from tables/pages in the form of unload data on the instance. If **glide.basicauth.required.unl** isn't set to the recommended value of **true**, then the Basic Authentication for the UNL format export processor is disabled. This also could be combined with a wrong role within the guest\_user related property, this will lead to unauthenticated access to instance data.
 
-Ensure the property **glide.basicauth.required.unl** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure the property **glide.basicauth.required.unl** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -102,7 +102,7 @@ Functional impact
 
 </td><td>
 
-This remediation enforces a combination of authentication methods, in the form of basic authentication and system level [[sc-access-control|access control]]. It performs this authentication while retrieving data from tables/pages in the form of unload data on the instance.
+This remediation enforces a combination of authentication methods, in the form of basic authentication and system level access control. It performs this authentication while retrieving data from tables/pages in the form of unload data on the instance.
 
 </td></tr><tr><td>
 
@@ -115,11 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[c_Authentication|Authentication]]
-- [[export|Export]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]

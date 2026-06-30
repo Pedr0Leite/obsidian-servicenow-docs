@@ -12,7 +12,7 @@ breadcrumb: [Manage, Operational Resilience, Governance, Risk, and Compliance]
 
 # Using Digital resilience incident reporting
 
-Beginning with the Yokohama release, users of the [[grc-opres-landing-page|Operational Resilience]] Workspace can report Information and Communication Technology \(ICT\) related incidents to regulators using the Digital resilience incident reporting module. This module, integrated with Incident Management and Security Incident Response, creates or updates incident case task records whenever a major incident is created or updated in these applications. The report is generated in the specified format and shared with regulators.
+Beginning with the Yokohama release, users of the Operational Resilience Workspace can report Information and Communication Technology \(ICT\) related incidents to regulators using the Digital resilience incident reporting module. This module, integrated with Incident Management and Security Incident Response, creates or updates incident case task records whenever a major incident is created or updated in these applications. The report is generated in the specified format and shared with regulators.
 
 Regulatory bodies have established a streamlined framework for reporting ICT related incidents in a compliant format specified by the regulatory authorities. The Digital resilience incident reporting \(DRIR\) application is used to report critical Digital Resilience Incidents \(DRIs\) according to regulatory requirements. When critical incidents are reported through Incident Management and Security Incident Response applications, the corresponding reporting cases are generated in Digital resilience incident reporting.
 
@@ -47,6 +47,3 @@ The Digital Resilience Incident Reporting \(DRIR\) streamlines the case reportin
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

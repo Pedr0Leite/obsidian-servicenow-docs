@@ -14,7 +14,7 @@ breadcrumb: [Using Project workbench - Legacy, Using Project Management, Project
 
 # Access the project workbench
 
-Access the project workbench from the [[create-a-project-form|Project form]] or from the application navigator.
+Access the project workbench from the Project form or from the application navigator.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to a project record in **Details** tab in [[project-workspace-landing-page|project workspace]].
+1.  Navigate to a project record in **Details** tab in project workspace.
 2.  Select the **Project Workbench** related link.
 
 
@@ -70,7 +70,3 @@ Steps
 
 [Using Project workbench - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[project-workspace-landing-page|Project Workspace]]

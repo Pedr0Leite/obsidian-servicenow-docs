@@ -61,7 +61,7 @@ Substates
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate**.
 
 2.  Open the asset record for which you want to create an onboarding process.
 
@@ -77,7 +77,7 @@ Substates
 
     **Note:** If you’re onboarding a preassembled industrial asset, the **MAC address** field is included in the Asset details. Also, the **Child assets** activity under Asset details is displayed only for preassembled industrial assets.
 
-    If you have activated the [[ot-asset-management|OT Asset Management]] application, the Asset details activity displays the **MAC address** field for preassembled industrial assets and the hardware assets.
+    If you have activated the OT Asset Management application, the Asset details activity displays the **MAC address** field for preassembled industrial assets and the hardware assets.
 
 6.  Select **Skip**, **Save**, or **Mark as complete** to proceed to the next lane.
 
@@ -93,7 +93,3 @@ View an automatically created asset onboarding task.
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]

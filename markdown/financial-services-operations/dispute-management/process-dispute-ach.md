@@ -16,7 +16,7 @@ breadcrumb: [Resolving ACH disputes, Processing, Use, Dispute Management, Bankin
 
 On the **Processing** tab of the card disputes playbook, all disputed transactions in an ACH dispute case are displayed on a dashboard. The tab also provides transaction information such as dispute amount, transaction date and time, merchant, transaction state, current activity, and activity SLA.
 
-The [[investigate-stage|Investigate stage]] displays the dispute tasks related to investigating the disputed ACH transaction.
+The Investigate stage displays the dispute tasks related to investigating the disputed ACH transaction.
 
 The Investigate stage of the disputed transaction includes the following tasks:
 
@@ -30,7 +30,7 @@ The Investigate stage of the disputed transaction includes the following tasks:
 
 </td></tr><tr><td>
 
-[[fso-ach-evaluate-merchant|Evaluate merchant analysis]]
+Evaluate merchant analysis
 
 </td><td>
 
@@ -54,7 +54,7 @@ Evaluate the Nacha \(National Automated Clearing House Association\) operating g
 
 </td></tr><tr><td>
 
-[[fso-ach-review-recommendation|Review ACH dispute return recommendation]]
+Review ACH dispute return recommendation
 
 </td><td>
 
@@ -64,7 +64,7 @@ Review the ACH dispute information and determine the final action.-   Deny: The 
 
 </td></tr><tr><td>
 
-[[fso-ach-dispute-communication|Dispute communication initiation]]
+Dispute communication initiation
 
 </td><td>
 
@@ -72,7 +72,7 @@ Provide a response and feedback to the customer for a decision made on a dispute
 
 </td></tr><tr><td>
 
-[[fso-ach-verify-customer-documents|Verify customer supporting documents]]
+Verify customer supporting documents
 
 </td><td>
 
@@ -80,7 +80,7 @@ After communicating dispute denial to a customer, if a customer denies the decis
 
 </td></tr><tr><td>
 
-[[fso-ach-verify-odfi|Verify ODFI supporting documents]]
+Verify ODFI supporting documents
 
 </td><td>
 
@@ -88,7 +88,7 @@ After following up with ODFI \(Originating Depository Financial Institution\) to
 
 </td></tr><tr><td>
 
-[[fso-ach-file-refund|File ACH return]]
+File ACH return
 
 </td><td>
 
@@ -96,7 +96,7 @@ File a refund for an ACH dispute when the dispute has been determined to be elig
 
 </td></tr><tr><td>
 
-[[fso-ach-settle-payment|Settle payment with customer]]
+Settle payment with customer
 
 </td><td>
 
@@ -104,7 +104,7 @@ Complete the financial adjustment so that the customer receives the appropriate 
 
 </td></tr><tr><td>
 
-[[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]
+Reverse provisional credit
 
 </td><td>
 
@@ -134,14 +134,3 @@ Reverse the temporary credit issued by the bank to the account holder.
 
 **Parent Topic:**[Resolving ACH disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-dispute-ach.md)
 
-## Related
-
-- [[investigate-stage|Investigate stage]]
-- [[fso-ach-evaluate-merchant|Evaluate merchant analysis]]
-- [[fso-ach-review-recommendation|Review ACH dispute return recommendation]]
-- [[fso-ach-dispute-communication|Dispute communication initiation]]
-- [[fso-ach-verify-customer-documents|Verify customer supporting documents]]
-- [[fso-ach-verify-odfi|Verify ODFI supporting documents]]
-- [[fso-ach-file-refund|File ACH return]]
-- [[fso-ach-settle-payment|Settle payment with customer]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

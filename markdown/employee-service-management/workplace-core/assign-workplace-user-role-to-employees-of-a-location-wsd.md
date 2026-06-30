@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Assign the workplace user role to employees
 
-Set rules in [[workplace-safety-mgmt-hr|Workplace Core]] to [[assign-workplace-user-role-to-employees-of-a-location-hr|assign the workplace user role to employees]] and apply conditions accordingly.
+Set rules in Workplace Core to assign the workplace user role to employees and apply conditions accordingly.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin or sn\_wsd\_core.admin
 
 1.  Navigate to **Workplace Safety Management** &gt; **Administration**.
 
-2.  Select **[[t_ClientRoleAssignRules|Client Role Assignment Rules]]**.
+2.  Select **Client Role Assignment Rules**.
 
 3.  On the form, fill in the fields.
 
@@ -88,8 +88,3 @@ The workplace user roles are assigned. If a record is created or updated on this
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[assign-workplace-user-role-to-employees-of-a-location-hr|Assign the workplace user role to employees]]
-- [[t_ClientRoleAssignRules|Client role assignment rules]]

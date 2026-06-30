@@ -32,7 +32,7 @@ If an engagement moves to the Follow Up state, and if there are no open audit ta
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -205,6 +205,4 @@ Comments that only the administrator and audit supervisor can view.
 
     You can view the description of the Milestone record and monitor its status in the **State** banner of the default Overview page.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

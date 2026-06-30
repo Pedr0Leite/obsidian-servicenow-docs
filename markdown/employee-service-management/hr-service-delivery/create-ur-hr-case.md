@@ -20,13 +20,13 @@ Restore service to a customer as soon as possible. After creating the HR case, y
 
 -   Role required: routing\_agent and sn\_hr\_core.case\_writer
 
--   Activate the [[ur-landing-limitedaccess|Universal Request]] \(com.snc.universal\_request\) and Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugins.
+-   Activate the Universal Request \(com.snc.universal\_request\) and Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugins.
 
 ## Procedure
 
 1.  Navigate to **Universal Requests** &gt; **All**.
 
-2.  Open the universal request record from which you want to [[search-hr-case|create an HR case]].
+2.  Open the universal request record from which you want to create an HR case.
 
 3.  Click **Create HR case**.
 
@@ -44,13 +44,8 @@ Restore service to a customer as soon as possible. After creating the HR case, y
 
 5.  Click **Submit**.
 
-    The universal request number from which the HR case is created appears in the**Universal Request** field on the HR case form. The HR case number appears in the **Primary Ticket** field on the [[new-ur-record-form|universal request form]] and also under the **Associated Tickets** related list.
+    The universal request number from which the HR case is created appears in the**Universal Request** field on the HR case form. The HR case number appears in the **Primary Ticket** field on the universal request form and also under the **Associated Tickets** related list.
 
 
 **Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[search-hr-case|Create an HR case]]
-- [[new-ur-record-form|Universal Request form]]

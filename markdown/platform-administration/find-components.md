@@ -12,7 +12,7 @@ breadcrumb: [Basic system configuration, Get started, Administer the ServiceNow 
 
 # Find components installed with an application
 
-Activating a plugin installs an application on your instance. Each application consists of components such as tables, user roles, and [[c_ScheduledJobs|scheduled jobs]]. To view all components that are installed with an application, see the Application Files table.
+Activating a plugin installs an application on your instance. Each application consists of components such as tables, user roles, and scheduled jobs. To view all components that are installed with an application, see the Application Files table.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ In the Application Files table, look up the components that are installed with t
 5.  Select the class of information that you want to view.
 
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[c_ScheduledJobs|Scheduled jobs]]

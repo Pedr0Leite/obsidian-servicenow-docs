@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Content Review, Legal Service Delivery Practice Ap
 
 # Legal Content Review form
 
-List of fields in the [[legal-content-review|Legal Content Review]] request in the Legal Service Portal.
+List of fields in the Legal Content Review request in the Legal Service Portal.
 
 |Field|Description|
 |-----|-----------|
@@ -28,6 +28,3 @@ List of fields in the [[legal-content-review|Legal Content Review]] request in t
 
 **Parent Topic:**[Legal Content Review reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-cr-reference.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]

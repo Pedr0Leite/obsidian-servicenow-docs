@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Management classic, Software Asset Management,
 
 # Create averages for product life cycles in Software Asset Management classic
 
-Create averages to calculate software End of Life \(EOL\) and End of Support \(EOS\) life cycles in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+Create averages to calculate software End of Life \(EOL\) and End of Support \(EOS\) life cycles in the Software Asset Management classic application.
 
 ## Before you begin
 
@@ -115,6 +115,3 @@ Indicates that the life cycle average record will be used for creating software 
 
 **Parent Topic:**[Using Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-classic.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

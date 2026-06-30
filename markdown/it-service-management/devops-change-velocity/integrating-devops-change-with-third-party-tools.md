@@ -14,7 +14,7 @@ breadcrumb: [DevOps Change Velocity, IT Service Management]
 
 # Integrating DevOps Change Velocity with third party tools
 
-Integrate your orchestration, planning, coding, artifact, software quality, and security tools with [[devops-landing-page-new|DevOps Change Velocity]] for end to end change traceability and automation.
+Integrate your orchestration, planning, coding, artifact, software quality, and security tools with DevOps Change Velocity for end to end change traceability and automation.
 
 You must onboard a minimum of one planning, one coding, and one orchestration tool to enable change outcomes.
 
@@ -29,7 +29,7 @@ Connect to your GitLab instance to discover plans, repositories, and pipeline de
 -   **[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)**  
 Connect to your Jenkins instance to discover pipeline definitions and configure real-time notifications or polling to enable change traceability and automation.
 -   **[Argo CD integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/argo-cd-integration-with-devops-change-velocity.md)**  
-Connect to your Argo CD instance to automate the deployment of [[dex-workspace-application-tab|applications]] from GitHub repositories.
+Connect to your Argo CD instance to automate the deployment of applications from GitHub repositories.
 -   **[Jira integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jira-integration-dev-ops.md)**  
 Connect to your Jira server or cloud instance to discover plans and enable real-time notifications for projects, issues, and releases.
 -   **[Rally integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/rally-devops-integration.md)**  
@@ -45,7 +45,7 @@ Connect to your SonarQube instance that is integrated with your CI/CD pipelines 
 -   **[Split.io integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/split-integration-devops-classic.md)**  
 Connect to your Split.io instance to manage feature flags requests directly from you ServiceNow instance.
 -   **[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/veracode-integration-with-devops-change-velocity.md)**  
-Connect to your Veracode instance that is integrated with your CI/CD pipelines to retrieve [[security-tool-framework|security scan results]]. This helps you determine how vulnerable your code is.
+Connect to your Veracode instance that is integrated with your CI/CD pipelines to retrieve security scan results. This helps you determine how vulnerable your code is.
 -   **[Checkmarx integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/checkmarx-integration-with-devops-change-velocity.md)**  
 Connect to your Checkmarx instance that is integrated with your CI/CD pipelines to retrieve security scan results. This helps you determine how vulnerable your code is.
 -   **[Harness integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/harness-integration-with-devops-change-velocity.md)**  
@@ -57,8 +57,3 @@ If your tool credential has changed, you must update the credentials in your Ser
 
 **Parent Topic:**[DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-landing-page-new.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[security-tool-framework|Security scan results]]

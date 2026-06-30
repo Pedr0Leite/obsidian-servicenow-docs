@@ -15,7 +15,7 @@ breadcrumb: [Administer, Card Data Security, Dispute Management, Banking applica
 
 # Create new connections in Card Data Security
 
-Configure settings in our tokenizer service and your ServiceNow instance to set up new tokenized connections, routes, and methods in [[card-data-security|Card Data Security]].
+Configure settings in our tokenizer service and your ServiceNow instance to set up new tokenized connections, routes, and methods in Card Data Security.
 
 To create a new tokenized connection to another core system other than Visa and Mastercard, refer to the following task list.
 
@@ -45,7 +45,7 @@ Tokenizer service
 
 </td></tr><tr><td>
 
-[[fso-integrate-other-applications|Set up integration with the Third-Party System]]
+[Set up integration with the Third-Party System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
 </td><td>
 
@@ -132,7 +132,3 @@ ServiceNow
 </td></tr></tbody>
 </table>**Parent Topic:**[Managing Card data security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-data-security.md)
 
-## Related
-
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[card-data-security|Card Data Security]]

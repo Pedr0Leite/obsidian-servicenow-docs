@@ -14,7 +14,7 @@ breadcrumb: [Legacy Oracle process pack, Legacy Software Asset Management plugin
 
 # Request the legacy Oracle Process Pack
 
-The legacy Software [[c_AssetManagement|Asset Management]] - Oracle Process Pack \(com.snc.sam.oracle.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the [[c_OracleProcessPack|legacy Oracle Process Pack]].
+The legacy Software Asset Management - Oracle Process Pack \(com.snc.sam.oracle.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the legacy Oracle Process Pack.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -81,8 +81,3 @@ Select the date and time to activate the plugin.
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_OracleProcessPack|Legacy Oracle process pack]]
-- [[dex-workspace-application-tab|Applications]]

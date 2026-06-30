@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 # Components installed with DEX Self-service
 
-Several components are [[components-installed-with-dex|installed with DEX]] Self-service.
+Several components are installed with DEX Self-service.
 
 ## Device health categories and subcategories
 
@@ -96,7 +96,7 @@ macOS
 
 </td><td>
 
-**Reinstall application**This device action is available for the following [[dex-workspace-application-tab|applications]]:
+**Reinstall application**This device action is available for the following applications:
 
 -   Microsoft Teams
 -   Microsoft Outlook
@@ -112,8 +112,3 @@ Windows
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[components-installed-with-dex|Installed with DEX]]
-- [[dex-workspace-application-tab|Applications]]

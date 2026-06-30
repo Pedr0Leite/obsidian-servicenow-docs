@@ -12,7 +12,7 @@ breadcrumb: [Playbooks, Configure, Financial Services Operations \(FSO\)]
 
 # Playbooks for Financial Services Operations applications
 
-Several playbooks are installed with [[fso-overview|Financial Services]] Operations applications that you can use to run your digitized business process.
+Several playbooks are installed with Financial Services Operations applications that you can use to run your digitized business process.
 
 By using [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md), you can review and configure these predefined playbooks for your own business needs.
 
@@ -28,7 +28,7 @@ Playbook
 
 </th></tr></thead><tbody><tr><td>
 
-[[card-ops-landing-page|Financial Services Card Operations]]
+Financial Services Card Operations
 
 </td><td>
 
@@ -36,7 +36,7 @@ Dispute card transactions
 
 </td></tr><tr><td>
 
-[[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
+Financial Services Complaint Management
 
 </td><td>
 
@@ -91,7 +91,7 @@ Financial Services Personal Deposit Operations
 
 </td></tr><tr><td>
 
-[[commercial-lines-claims-landing-page|Commercial Lines Claims]]
+Commercial Lines Claims
 
 </td><td>
 
@@ -100,7 +100,7 @@ Financial Services Personal Deposit Operations
 
 </td></tr><tr><td>
 
-[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]] and Commercial Lines Underwriting
+Commercial Lines Servicing and Commercial Lines Underwriting
 
 </td><td>
 
@@ -109,7 +109,7 @@ Financial Services Personal Deposit Operations
 
 </td></tr><tr><td>
 
-[[individual-life-servicing|Individual Life Servicing]] and Individual Life Underwriting
+Individual Life Servicing and Individual Life Underwriting
 
 </td><td>
 
@@ -122,7 +122,7 @@ Financial Services Personal Deposit Operations
 
 </td></tr><tr><td>
 
-[[group-life-servicing|Group Life Servicing]] and Group Life Underwriting
+Group Life Servicing and Group Life Underwriting
 
 </td><td>
 
@@ -147,7 +147,7 @@ Loan Deferment
 
 </td></tr><tr><td>
 
-[[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
+Financial Services Treasury Operations
 
 </td><td>
 
@@ -156,7 +156,7 @@ Loan Deferment
 
 </td></tr><tr><td>
 
-[[individual-life-claims-landing-page|Individual Life Claims]]
+Individual Life Claims
 
 </td><td>
 
@@ -164,7 +164,7 @@ Individual death claim
 
 </td></tr><tr><td>
 
-[[insurance-claims-flow|Insurance claims]]
+Insurance claims
 
 </td><td>
 
@@ -172,16 +172,3 @@ First notice of loss
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

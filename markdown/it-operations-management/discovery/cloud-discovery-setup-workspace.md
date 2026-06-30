@@ -16,9 +16,9 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 Perform the necessary procedures to prepare for discovering resource CIs on the cloud.
 
-**Important:** [[cow-landing-page|Cloud Discovery Workspace]] is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Cloud Discovery Workspace is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-Setting up Cloud [[r-discovery|Discovery]] is the first stage in performing cloud discovery and using [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] for managing discovered cloud resources.
+Setting up Cloud Discovery is the first stage in performing cloud discovery and using Cloud Provisioning and Governance for managing discovered cloud resources.
 
 Cloud Discovery is part of the ServiceNow AI Platform and deploys some of its platform-wide mechanisms and features. At the same time, there are some configurations that are specific to Cloud Discovery only.
 
@@ -33,7 +33,7 @@ Perform the following tasks in the exact order they are listed below:
 1.  Evaluate your cloud deployment and plan how you're going to discover it.
 2.  [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 3.  [Install Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/install-cloud-ops-wrksp.md).
-4.  [[mid-server-configuration-cloud|Install and configure the MID Servers]].
+4.  [Install and configure the MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 5.  \(For Amazon AWS Cloud and Microsoft Azure Cloud\) Configure notifications and alerts from the Amazon AWS Cloud and Microsoft Azure Cloud to make the necessary updates to your CMDB without additional scanning.
 
     -   [AWS events-driven discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/aws-events-driven-discovery.md)
@@ -43,7 +43,7 @@ Perform the following tasks in the exact order they are listed below:
     **Note:** Event-driven discovery does not require Cloud Provisioning and Governance.
 
 6.  Ensure that your ServiceNow instance has the relevant patterns and CI classes \(types\) for cloud resources. You may need to deploy the latest version of the following applications from the ServiceNow Store.
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
 7.  [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-operations-disco-create-schedule.md).
 
@@ -52,10 +52,3 @@ Perform the following tasks in the exact order they are listed below:
 
 [Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/cow-landing-page.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

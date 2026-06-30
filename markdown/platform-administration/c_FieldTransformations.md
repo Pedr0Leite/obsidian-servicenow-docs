@@ -16,7 +16,7 @@ Transforms update field values by applying a transformation definition to the fi
 
 ## Transform definitions
 
-Transform [[clone-exclusions-preservers-cleanupscripts|definitions]] define the transformation actions available for a given field type. Administrators select a definition when they transform a field, and then provide the definition with the specific [[r_DirectJDBCProbeParameters|parameters]] that are applied to the transformation. For example, a definition can round up an integer or insert a value at a defined position in a string.
+Transform definitions define the transformation actions available for a given field type. Administrators select a definition when they transform a field, and then provide the definition with the specific parameters that are applied to the transformation. For example, a definition can round up an integer or insert a value at a defined position in a string.
 
 The system provides a number of definitions that are designed to meet the needs of most organizations, but administrators can create new definitions as needed. Transform definitions can be associated with existing Transform Categories or to new categories.
 
@@ -55,10 +55,5 @@ Transformation is a powerful tool that can cause data issues if used incautiousl
 
 All transformation records open in **Test** mode by default, which blocks administrators from running manual data jobs that apply changes to existing data. Only users with the normalization\_tester role can transform data when a record is in the **Test** mode. This is limited to new records opened by the tester or records in which the transformed field is updated by the tester.
 
-To apply transformations to the CMDB after testing, change the mode to **Active** in the transformation record and run the appropriate data job. For information on testing transforms, see [[t_TransformAField|Test a transform]].
+To apply transformations to the CMDB after testing, change the mode to **Active** in the transformation record and run the appropriate data job. For information on testing transforms, see [Test a transform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_TransformAField.md).
 
-## Related
-
-- [[t_TransformAField|Transform a field]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

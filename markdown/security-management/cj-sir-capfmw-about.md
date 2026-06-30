@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration Reference, Security Operations comm
 
 # Integrations Capabilities framework 2.0
 
-The new [[integration-capabilities|Integration Capabilities]] Framework 2.0 has been redesigned to enable implementation of integrations in a simple and consistent manner. This ensures a consistent experience for similar types of integrations \(for example: observable reputation lookup\).
+The new Integration Capabilities Framework 2.0 has been redesigned to enable implementation of integrations in a simple and consistent manner. This ensures a consistent experience for similar types of integrations \(for example: observable reputation lookup\).
 
 The new framework has capabilities implemented using [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md).
 
@@ -24,15 +24,15 @@ Benefits from the enhanced framework implementation include:
 -   Enhanced auditing and execution tracking capabilities now enable better reporting and easier troubleshooting.
 -   Robust error handling functions are built into the capability flows to avoid duplicating implementation routines.
 -   Ability to configure conditional triggering of the capabilities or the integrations. This provides flexibility to automatically launch automations based on incident category.
--   A default filter condition has been introduced on all capabilities to filter allow listed [[c_Observables|observables]] before inputs are provided to the integrations.
+-   A default filter condition has been introduced on all capabilities to filter allow listed observables before inputs are provided to the integrations.
 
 **Note:** This new capability framework does not upgrade the current capability framework. Both frameworks can work in parallel. For instructions on how to leverage the new capability framework, see [Using the new Capability Framework with an installed integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md) and [Using the new Capability Framework with a Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md).
 
-**Parent Topic:**[[secops-integ-ref|Security Operations Integration Reference]]
+**Parent Topic:**[Security Operations Integration Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-ref.md)
 
 ## Supported integrations and components
 
-The [[sir-landing-page|Security Incident Response]] plugin includes all the capability flows listed in Integration Capabilities Framework 2.0, and standard high-level filters that you can enable or disable depending on your requirement.
+The Security Incident Response plugin includes all the capability flows listed in Integration Capabilities Framework 2.0, and standard high-level filters that you can enable or disable depending on your requirement.
 
 **Note:** If you want to use the new Capability Integration Framework with the New York release, you must install the ServiceNow IntegrationHub Starter Pack Installer plugin. Contact Customer Support for assistance with the installation.
 
@@ -76,13 +76,13 @@ The new Capability Integration Framework includes the following components:
     -   **Email Search and Delete**: Provides a way to search an email server during a security investigation and if necessary, delete emails from the server.
     -   **Enrich Configuration Item**: Provides a general way to enrich configuration items with additional information from a variety of sources. This capability is used during incident response investigations to enrich data associated with a security incident.
     -   **Enrich Observable**: Provides a general way to enrich observables with additional information from a variety of sources. This capability is used during incident response investigations to contain an identified threat.
-    -   **Event Ingestion**: Provides a general way to create a security incident by [[mapping-logrhythm|mapping]] events from an integration source to a security incident.
+    -   **Event Ingestion**: Provides a general way to create a security incident by mapping events from an integration source to a security incident.
     -   **Get Network Statistics**: Retrieves a list of active network connections from an endpoint or host. This capability is used for incident enrichment during investigations.
     -   **Get Running Processes**: Retrieves a list of running processes from an endpoint or host. This capability is used for incident enrichment during investigations.
     -   **Isolate Host**: Provides a way to isolate an endpoint or a host associated with a security incident. Isolate host is executed against a configuration item \(CI\).
     -   **Publish to Watchlist**: Provides a way to add observables associated with a security incident to a watchlist that monitors for security events and generates alerts. This capability is used as part of incident response during investigations.
-    -   **[[indicator-sightings|Sightings]] Search**: Searches various SIEMs or other log stores for instances of observables. This capability is used to determine the presence of malicious IoCs in your environment.
-    -   **[[tisc-threat-lookup|Threat Lookup]]**: Performs [[threat-intel-landing-page|threat intelligence]] lookups to determine whether a certain observable is associated with a known security threat. This capability is used as part of incident response during investigations.
+    -   **Sightings Search**: Searches various SIEMs or other log stores for instances of observables. This capability is used to determine the presence of malicious IoCs in your environment.
+    -   **Threat Lookup**: Performs threat intelligence lookups to determine whether a certain observable is associated with a known security threat. This capability is used as part of incident response during investigations.
 -   **New tables**:
     -   sn\_sec\_cmn\_capability: Capability and flow that implements the capability.
     -   sn\_sec\_cmn\_capability\_implementation: The actual implementation flow that provides the services of the capability.
@@ -106,7 +106,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Capabilities \(Flows\)**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Capabilities \(Flows\)**.
 
 2.  The capabilities available with the base system are displayed.
 
@@ -365,14 +365,3 @@ Navigate to the security incident record page and click on these worknotes to vi
 
 \[Omitted image "cj-sir-capfmw-worknotes.png"\] Alt text: Capability Framework: Security Incident: Worknotes
 
-## Related
-
-- [[secops-integ-ref|Security Operations Integration Reference]]
-- [[integration-capabilities|Integration capabilities]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]

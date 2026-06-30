@@ -14,7 +14,7 @@ breadcrumb: [Search Suggestions, Search administration, Configure core features,
 
 # Configuring Search Suggestions
 
-You can configure [[search-suggestions-overview|Search Suggestions]] settings to control the creation of auto-complete suggestions and search suggestions on your instance.
+You can configure Search Suggestions settings to control the creation of auto-complete suggestions and search suggestions on your instance.
 
 ## Configuration overview
 
@@ -60,7 +60,3 @@ Disable generation of suggestions from specific search strings to keep unhelpful
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]

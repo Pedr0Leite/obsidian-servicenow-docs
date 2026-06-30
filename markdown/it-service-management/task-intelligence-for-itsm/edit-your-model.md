@@ -30,13 +30,13 @@ You have two options for editing your model: view the current training results o
 
 Resetting your prediction preferences enables you to change how visible the predictions are for agents. Retraining your model enables you to select new data for training, which changes the prediction capabilities of the model.
 
-While you can retest your prediction model, it doesn’t change the prediction skills. Edit your prediction model to reset your prediction preferences. Edit your prediction [[c_Models|models]] to retrain the models with new data, predict different fields, or change the prediction preferences.
+While you can retest your prediction model, it doesn’t change the prediction skills. Edit your prediction model to reset your prediction preferences. Edit your prediction models to retrain the models with new data, predict different fields, or change the prediction preferences.
 
 Changes aren’t saved until you redeploy the model. The updated model replaces the previous model.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c-itsm-task-intelligence|Task Intelligence for ITSM]]** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Task Intelligence for ITSM** &gt; **Setup**.
 
 2.  From the **Models** list, select the menu \(\[Omitted image "menu-icon.png"\] Alt text: Menu icon\) icon of the model you want to edit, and then select **Edit Model**.
 
@@ -73,7 +73,3 @@ Your updated model is deployed.
 
 **Parent Topic:**[Managing Task Intelligence for ITSM models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/using-task-intelligence-itsm.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]

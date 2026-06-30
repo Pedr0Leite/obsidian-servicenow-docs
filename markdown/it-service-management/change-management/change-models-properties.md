@@ -14,7 +14,7 @@ breadcrumb: [Change model management, Explore, Change Management, IT Service Man
 
 # Change Models properties
 
-Configure the Change Models properties to access the Change [[c_Models|models]] capabilities when creating a Change request.
+Configure the Change Models properties to access the Change models capabilities when creating a Change request.
 
 The following properties enable you to access the Change Models features. For upgrade users, these properties are set to **true**.
 
@@ -57,6 +57,3 @@ Determine what kind of change requests \(type or model-based\) are created. Enab
 
 **Parent Topic:**[Change model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-change-models.md)
 
-## Related
-
-- [[c_Models|Models]]

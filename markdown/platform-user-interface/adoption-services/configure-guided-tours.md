@@ -14,14 +14,14 @@ breadcrumb: [Guided Tours, Adoption services, Configure user experiences]
 
 # Configuring Guided Tours
 
-Guided tour configurations allow you to enable, create, modify, and customize tours, as well as [[configure-onboarding-modals|configure]] them to launch automatically and customize the tour experience.
+Guided tour configurations allow you to enable, create, modify, and customize tours, as well as configure them to launch automatically and customize the tour experience.
 
 -   **[Plan Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/plan-a-guided-tour.md)**  
 Planning is essential before entering a guided tour into the system. Create an outline and include any assumptions to assist you during the tour creation.
 -   **[Enable Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/activate-guidedtours-service-portal.md)**  
-[[activate-guidedtours-service-portal|Enable guided tours]] for Standard platform UI, Workspace, [[c_ServicePortal|Service Portal]] pages, and Custom UI.
+Enable guided tours for Standard platform UI, Workspace, Service Portal pages, and Custom UI.
 -   **[Create Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-guided-tour.md)**  
-After you outline the guided tour, use the [[guided-tours-designer|Guided Tour Designer]] \(GTD\) to enter the steps using callouts and triggers.
+After you outline the guided tour, use the Guided Tour Designer \(GTD\) to enter the steps using callouts and triggers.
 -   **[Edit Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md)**  
 You can modify the settings of a guided tour by using the Guided Tour Designer \(GTD\).
 -   **[Test Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/testing-guided-tours.md)**  
@@ -37,9 +37,3 @@ The Guided Tour Designer has accessibility features so that users can design tou
 
 **Parent Topic:**[Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tours.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[activate-guidedtours-service-portal|Enable Guided Tours]]
-- [[c_ServicePortal|Service Portal]]
-- [[guided-tours-designer|Guided Tour Designer]]

@@ -36,7 +36,7 @@ Role required: none
 
     **Note:** Applies to Live Feed only.
 
-4.  Select the **[[c_WorkNotes|Work Notes]]** [[check-box|check box]] to post the message as a work note.
+4.  Select the **Work Notes** check box to post the message as a work note.
 
     Only users with access to work notes on the record can post and see work notes. This option is only available for records that have a journal field.
 
@@ -47,7 +47,3 @@ Role required: none
 
 **Parent Topic:**[Working with record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_WorkingWithRecordFeeds.md)
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[check-box|Check box]]

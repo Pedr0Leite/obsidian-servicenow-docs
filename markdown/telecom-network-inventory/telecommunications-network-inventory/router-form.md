@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Router, Switch, Firewall, Virtual Machine, Load Balancer, and Server forms
 
-The [[equipment-form|equipment form]] enables you to create, review, and modify the network asset details in the [[telecom-network-inventory|Telecommunications Network Inventory]] application for the router, switch, firewall, virtual machine, load balancer, or server.
+The equipment form enables you to create, review, and modify the network asset details in the Telecommunications Network Inventory application for the router, switch, firewall, virtual machine, load balancer, or server.
 
 <table id="table_f3c_dmd_wrb"><thead><tr><th>
 
@@ -354,7 +354,3 @@ To learn about the remaining configuration fields that are common to most of the
 
 [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md)
 
-## Related
-
-- [[equipment-form|Equipment form]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

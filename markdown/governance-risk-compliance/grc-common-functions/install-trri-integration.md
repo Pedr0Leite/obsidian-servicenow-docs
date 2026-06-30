@@ -20,7 +20,7 @@ Install the GRC integration with Thomson Reuters Regulatory Intelligence applica
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-The [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]] requires the ServiceNow® [[reg-change-mgmt-landing-page|Regulatory Change Management]] application from the ServiceNow Store. Ensure that this application is installed before you install the GRC integration with Thomson Reuters Regulatory Intelligence application.
+The GRC integration with Thomson Reuters Regulatory Intelligence requires the ServiceNow® Regulatory Change Management application from the ServiceNow Store. Ensure that this application is installed before you install the GRC integration with Thomson Reuters Regulatory Intelligence application.
 
 Role required: sn\_grc\_reg\_change.admin
 
@@ -51,7 +51,3 @@ The following items are installed with the GRC integration with Thomson Reuters 
 
 **Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md)
 
-## Related
-
-- [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

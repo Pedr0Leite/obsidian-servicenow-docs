@@ -24,7 +24,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **To-dos Configuration**, click an existing to-dos configuration, and navigate to the **Task Configuration** related list.
+1.  Go to **All** &gt; **Employee Center** &gt; **Administration** &gt; **To-dos Configuration**, click an existing to-dos configuration, and navigate to the **Task Configuration** related list.
 
 2.  Click **New** or edit an existing task configuration record such as **workday**.
 
@@ -48,7 +48,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Result
 
-Based on this configuration, the approvers see the in-context information about the Workday approval and process the approval. For more [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] info, see [Approvals experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-ootb.md).
+Based on this configuration, the approvers see the in-context information about the Workday approval and process the approval. For more reference info, see [Approvals experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-ootb.md).
 
 ## What to do next
 
@@ -56,7 +56,3 @@ Based on the configuration, the approver can see information and process the app
 
 **Parent Topic:**[Approvals hub integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/wd-ec-integration.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -15,7 +15,7 @@ breadcrumb: [Recommended Actions for HRSD, Agent Workspace, HR Service Delivery,
 
 # Exploring Recommended Actions for HRSD
 
-The [[recommended-actions-hrsd|Recommended Actions for HRSD]] provides real‑time, actionable guidance, and relevant resources that help HR agents speed up case resolution.
+The Recommended Actions for HRSD provides real‑time, actionable guidance, and relevant resources that help HR agents speed up case resolution.
 
 ## Recommended Actions for HRSD overview
 
@@ -29,9 +29,5 @@ HR Agents can access Recommended Actions in HR Agent Workspace by selecting the 
 
 ## Recommended Actions for HRSD workflow
 
-The workflow for Recommended Actions for HRSD includes the HR Case Context. Use the context to find and use the recommendations in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+The workflow for Recommended Actions for HRSD includes the HR Case Context. Use the context to find and use the recommendations in Agent Workspace for HR Case Management.
 
-## Related
-
-- [[recommended-actions-hrsd|Recommended Actions for HRSD]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

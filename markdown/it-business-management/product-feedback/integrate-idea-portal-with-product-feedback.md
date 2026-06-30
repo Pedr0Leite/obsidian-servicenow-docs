@@ -28,18 +28,14 @@ One-way synchronization is supported and mapping is done from the idea portal to
 
 1.  Go to your ServiceNow instance.
 
-2.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Integrations**.
+2.  Navigate to **All** &gt; **Strategic Planning** &gt; **Integrations**.
 
 3.  View the alignment integrations for the internal applications by selecting **ServiceNow Internal**.
 
-4.  Create the table map between feedback and idea table by selecting **[[generate-mapping-configurations-ppw|Generate Default Mapping Configurations]]**.
+4.  Create the table map between feedback and idea table by selecting **Generate Default Mapping Configurations**.
 
     Mapping configurations consist of table, field, and choice maps for each record. For more information on creating custom mapping configurations between feedback and other tables, see [Create custom mapping configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/generate-custom-mapping-configurations.md).
 
 
 **Parent Topic:**[Configuring Feedback application in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/configuring-product-feedback-in-sp.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[generate-mapping-configurations-ppw|Generate default mapping configurations]]

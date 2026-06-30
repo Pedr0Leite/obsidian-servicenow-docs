@@ -22,7 +22,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Suites**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Suites**.
 
     A list of suites shows up.
 
@@ -67,6 +67,3 @@ Role required: admin.
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]

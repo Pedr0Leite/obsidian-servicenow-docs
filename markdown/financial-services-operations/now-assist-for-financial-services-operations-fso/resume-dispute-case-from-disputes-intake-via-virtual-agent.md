@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent, sn\_bom\_credit\_card.dispu
 
 ## About this task
 
-When a customer initiates a dispute intake by selecting **Report a dispute** in the chat window, a card dispute case is created. If a customer ends a conversation with Virtual Agent before submitting the card dispute, the case remains open in the case list. You can resume the case in [[fso-overview|Financial Services]] Workspace and submit it on the customer's behalf.
+When a customer initiates a dispute intake by selecting **Report a dispute** in the chat window, a card dispute case is created. If a customer ends a conversation with Virtual Agent before submitting the card dispute, the case remains open in the case list. You can resume the case in Financial Services Workspace and submit it on the customer's behalf.
 
 ## Procedure
 
@@ -71,6 +71,3 @@ Select the card account and disputed transactions.
 
 [Create a case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-a-case-with-virtual-agent.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

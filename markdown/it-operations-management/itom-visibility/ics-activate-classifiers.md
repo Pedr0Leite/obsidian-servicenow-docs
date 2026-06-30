@@ -14,14 +14,14 @@ breadcrumb: [ITOM Content Service, ITOM Visibility, IT Operations Management]
 
 # Enable discovery with ITOM Content Service
 
-Review the [[discovery-content-services|ITOM Content Service]] suggestions for application [[r-discovery|discovery]] and activate the [[discovery-classifiers|discovery classifiers]] to enable the creation of configuration items.
+Review the ITOM Content Service suggestions for application discovery and activate the discovery classifiers to enable the creation of configuration items.
 
 ## Before you begin
 
 Ensure that the following application and plugin are installed:
 
 -   ITOM Content Service \(sn\_smart\_content\)
--   [[discovery-admin-workspace|Discovery Admin Workspace]] \(com.snc.itom.daw\)
+-   Discovery Admin Workspace \(com.snc.itom.daw\)
 
 Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md).
 
@@ -63,9 +63,3 @@ The new configuration items are added to the CMDB the next time Discovery runs a
 
 [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md)
 
-## Related
-
-- [[discovery-content-services|ITOM Content Service]]
-- [[r-discovery|Discovery]]
-- [[discovery-classifiers|Discovery classifiers]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

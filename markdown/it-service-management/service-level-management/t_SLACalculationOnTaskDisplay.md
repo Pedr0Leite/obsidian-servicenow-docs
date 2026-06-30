@@ -26,7 +26,7 @@ You can enable this information to be automatically recalculated each time the t
 
 ## Procedure
 
-1.  Go to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Properties** &gt; **SLA Engine**.
+1.  Go to **Service Level Management** &gt; **Properties** &gt; **SLA Engine**.
 
 2.  For the **Recalculate Task SLA records when a task's form is displayed** property, select the **Yes** check box.
 
@@ -37,6 +37,3 @@ You can enable this information to be automatically recalculated each time the t
 
 **Parent Topic:**[SLA calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_SLAAutomation.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

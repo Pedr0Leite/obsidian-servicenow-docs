@@ -14,7 +14,7 @@ breadcrumb: [Manage your network functions, Define inventory records, Use, Telec
 
 # Update or delete a service record
 
-Review, update, or delete a service record by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or delete a service record by using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-This task enables you to review, update, or [[delete-inventory-record|delete a record]] of any business, application, technical service, or business application.
+This task enables you to review, update, or delete a record of any business, application, technical service, or business application.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[inventory_number_allocation|Inventory number allocation]]**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory number allocation**.
 
 3.  Select one of the following items of the inventory number allocation:
 
@@ -66,9 +66,3 @@ This task enables you to review, update, or [[delete-inventory-record|delete a r
 
 **Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/services.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[delete-inventory-record|Delete a record]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]

@@ -30,7 +30,7 @@ The steps for how each user uses the Review and Feedback application according t
 
 -   **Create the feedback**
 
-    A user with the sn\_rvw\_feedback.reviewer role can [[create-feedback|create feedback]] on a record they're reviewing, suggesting overall improvements, or changes to specific fields in the record. You can create feedback on both ServiceNow® and external records. For more information, see [Create feedback in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-feedback.md) and [Create Feedback from the record side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-feedback-from-record-side-panel.md).
+    A user with the sn\_rvw\_feedback.reviewer role can create feedback on a record they're reviewing, suggesting overall improvements, or changes to specific fields in the record. You can create feedback on both ServiceNow® and external records. For more information, see [Create feedback in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-feedback.md) and [Create Feedback from the record side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-feedback-from-record-side-panel.md).
 
 -   **Respond to the feedback**
 
@@ -49,6 +49,3 @@ The steps for how each user uses the Review and Feedback application according t
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[create-feedback|create feedback]]

@@ -14,9 +14,9 @@ breadcrumb: [Case type selector, Customer service case types, Case management, O
 
 With the Product Service select version of the case type selector, agents can create cases of the correct type based on the selected product or service.
 
-The Product Service select version of the case type selector supports services as well as case types. This version of the [[csm-case-type-select-modals|case type selector]] makes it easier for agents to find the available services for a product. This version of the case type selector enables the agent to do the following:
+The Product Service select version of the case type selector supports services as well as case types. This version of the case type selector makes it easier for agents to find the available services for a product. This version of the case type selector enables the agent to do the following:
 
--   Select a product from a list of products owned by the account or consumer and see the available services for that product. This list includes [[sold-product|sold products]] and [[install-base-item|install base items]].
+-   Select a product from a list of products owned by the account or consumer and see the available services for that product. This list includes sold products and install base items.
 -   Select a category of services and see the available services within that category.
 -   Search for a service by entering keywords in the search box.
 -   Browse the available services using scroll bars and pagination.
@@ -42,7 +42,7 @@ Select **New**
 
 </td><td>
 
-Select this action from case [[migration-lists|lists]] and case type lists such as My Cases or My Complaint Cases.
+Select this action from case lists and case type lists such as My Cases or My Complaint Cases.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ The Product Service select version of the case type selector displays the availa
 -   Description
 -   Image
 
-When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [[create-csm-service-definition|Create a service definition]].
+When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [Create a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-definition.md).
 
 ## Browsing services in the case type selector
 
@@ -210,7 +210,7 @@ If a customer hasn't activated the install base:
 
 The Product Service select version of the case type selector includes a product filter. If you have the administrator role, you can configure the case type selector to hide this filter.
 
-By default, this configuration setting is false. The case type selector displays the product filter, the **Only show services related to owned products** check box is empty, and the case type selector shows all available [[csm-service-definitions|service definitions]].
+By default, this configuration setting is false. The case type selector displays the product filter, the **Only show services related to owned products** check box is empty, and the case type selector shows all available service definitions.
 
 To hide the filter:
 
@@ -221,11 +221,3 @@ To hide the filter:
 
 When this configuration setting is true, the case type selector doesn't display the product filter. The case type selector shows all available service definitions.
 
-## Related
-
-- [[create-csm-service-definition|Create a service definition]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]
-- [[csm-service-definitions|Service definitions]]

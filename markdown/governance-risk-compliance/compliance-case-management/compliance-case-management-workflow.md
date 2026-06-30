@@ -14,7 +14,7 @@ breadcrumb: [Explore, Compliance Case Management, Governance, Risk, and Complian
 
 # Compliance case workflow
 
-The workflow in the [[compliance-case-management|Compliance Case Management]] application is a process that enables you to report and manage cases that need the compliance team's attention.
+The workflow in the Compliance Case Management application is a process that enables you to report and manage cases that need the compliance team's attention.
 
 The following diagram shows the workflow of the GRC: Compliance Case Management application.
 
@@ -30,7 +30,7 @@ The different stages of the workflow are described as follows:
 
 ## Report a compliance case
 
-A business user or a compliance team can report a compliance violation in the [[employee-center|Employee Center]] application. Compliance case team can report cases in the Compliance Workspace application. For more information, see [Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reporting-compliance-case.md).
+A business user or a compliance team can report a compliance violation in the Employee Center application. Compliance case team can report cases in the Compliance Workspace application. For more information, see [Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reporting-compliance-case.md).
 
 ## Triage the compliance case
 
@@ -57,7 +57,3 @@ The case analyst analyzes the causes and consequences of the case. Then, the cas
 
 **Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]

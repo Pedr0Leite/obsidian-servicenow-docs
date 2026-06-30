@@ -16,7 +16,7 @@ breadcrumb: [Run the automated phishing response playbook flow, Playbook for Aut
 
 You can drill down to the Action Designer to view detailed information about the actions being performed for a specific step in the automated phishing response playbook flow.
 
-This page describes the Action Designer page for the Get [[c_Observables|Observables]] from Task step. Select a task in the Action Outline panel to view the details.
+This page describes the Action Designer page for the Get Observables from Task step. Select a task in the Action Outline panel to view the details.
 
 ## Action Input
 
@@ -40,6 +40,3 @@ This section shows the script used to retrieve observables based on the specifie
 
 **Parent Topic:**[Run the automated phishing response playbook flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/run-phishing-playbook.md)
 
-## Related
-
-- [[c_Observables|Observables]]

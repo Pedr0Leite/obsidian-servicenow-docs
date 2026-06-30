@@ -34,7 +34,7 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  View the resource assignment pane by enabling the Resource assignments toggle button.
 
@@ -59,6 +59,3 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

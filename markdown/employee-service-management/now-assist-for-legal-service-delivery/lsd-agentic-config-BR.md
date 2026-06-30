@@ -14,7 +14,7 @@ breadcrumb: [Configure agentic workflow, Configure, Now Assist for Legal Service
 
 # Activate the business rule for the Triage legal requests agentic workflow
 
-Activate the business rules for the [[trans-legal-request-agent|Triage legal requests agentic workflow]] in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application.
+Activate the business rules for the Triage legal requests agentic workflow in the Now Assist for Legal Service Delivery \(LSD\) application.
 
 ## Before you begin
 
@@ -55,7 +55,3 @@ By default, the script include in this business rule contains the sys\_id of the
 
 The Triage legal requests agentic workflow is activated for Now Assist for Legal Service Delivery \(LSD\).
 
-## Related
-
-- [[trans-legal-request-agent|Triage legal requests agentic workflow]]
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]

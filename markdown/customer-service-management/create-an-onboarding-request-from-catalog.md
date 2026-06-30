@@ -55,13 +55,9 @@ The system processes the request, creates the request and any other related reco
 **Related topics**  
 
 
-[[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
+[Creating an onboarding case with Playbooks for Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-case-with-portal-playbook.md)
 
-[[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]
+[Creating a guided onboarding case from CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-guided-onboarding-case-from-workspace.md)
 
 [Create an onboarding request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-request-from-catalog.md)
 
-## Related
-
-- [[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
-- [[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]

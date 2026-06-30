@@ -19,7 +19,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Software Asset Management \(SAM\) provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration to support the effective implementation and adoption of ServiceNow Software Asset Management. It enables customers to manage software assets throughout their entire life cycle, from planning to retirement, and includes key resources and leading practice guides to [[io-help|help]] them get started.
+Jumpstart Your Software Asset Management \(SAM\) provides Impact customers with an overview and applied demonstration to support the effective implementation and adoption of ServiceNow Software Asset Management. It enables customers to manage software assets throughout their entire life cycle, from planning to retirement, and includes key resources and leading practice guides to help them get started.
 
 ## Package Availability
 
@@ -78,7 +78,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

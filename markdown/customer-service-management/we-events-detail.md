@@ -18,7 +18,7 @@ Events that Web Embeddables components trigger to track user interactions and co
 |----------|-----------|
 |\[WE\] Case List - Component Ready|Triggers when the Case list macroponent has fully loaded and is ready for user interaction.|
 |\[WE\] Case List - Component Error|Triggers when the Case list macroponent encounters an error during initialization or data loading or internet error.|
-|\[WE\] Case List- Record Selected|Triggers when a user selects a record in the [[case-list-component|case list component]].|
+|\[WE\] Case List- Record Selected|Triggers when a user selects a record in the case list component.|
 |\[WE\] Case List - Filter Applied|Triggers when a user applies a filter to the case list records.|
 |\[WE\] Case List - Search Applied|Triggers when a user performs a search within the case list.|
 
@@ -39,7 +39,7 @@ Events that Web Embeddables components trigger to track user interactions and co
 |\[WE\] Case Create - Component Ready|Triggers when the Case create macroponent has fully loaded and is ready for user input.|
 |\[WE\] Case Create - Component Error|Triggers when the Case create macroponent encounters an error during initialization or internet error.|
 |\[WE\] Case Create - Record Creation Succeeded|Triggers when a new case record is successfully created.|
-|\[WE\] Case Create - Record Creation Failed|Triggers when an attempt to create a case record fails due to [[ra-validation-errors|validation errors]] or system issues.|
+|\[WE\] Case Create - Record Creation Failed|Triggers when an attempt to create a case record fails due to validation errors or system issues.|
 |\[WE\] Case Create - Primary Button Selected|Triggers when the user selects the primary action button after the case creation|
 |\[WE\] Case Create - Secondary Button Selected|Triggers when the user selects a secondary action button after the case creation|
 
@@ -83,7 +83,3 @@ Events that Web Embeddables components trigger to track user interactions and co
 |\[WE\] Object List - Hierarchical List Expanded Collapsed|Triggers when a user expands or collapses a hierarchical node in the object list \(for tree-structured data\).|
 |\[WE\] Object List - Footer Link Selected|Triggers when a user selects a link in the footer of the object list, for example, **View All**.|
 
-## Related
-
-- [[case-list-component|Case list component]]
-- [[ra-validation-errors|Validation errors]]

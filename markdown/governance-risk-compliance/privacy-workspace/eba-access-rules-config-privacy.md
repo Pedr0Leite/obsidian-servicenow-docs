@@ -14,7 +14,7 @@ breadcrumb: [Configuring access control, Access control by legal entity, Use, Pr
 
 # Set Entity based record access rules
 
-Use [[continuous-monitoring-of-entity-based-access|entity-based record access rules]] to secure records and enable continuous monitoring. These rules automatically apply restrictions to new or modified records, ensuring access settings stay enforced without manual updates. When entities or [[ropa-record|processing activities]] change, the system updates access controls automatically.
+Use entity-based record access rules to secure records and enable continuous monitoring. These rules automatically apply restrictions to new or modified records, ensuring access settings stay enforced without manual updates. When entities or processing activities change, the system updates access controls automatically.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ This task explains how to activate entity-based record access rules for continuo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity based record access rules**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity based record access rules**.
 
 2.  In the Entity based record access rules list, do the following:
 
@@ -45,8 +45,3 @@ EBA rules are automatically applied to records whenever changes occur in the ent
 
 **Parent Topic:**[Configuring access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-access-control-by-legal-entity.md)
 
-## Related
-
-- [[continuous-monitoring-of-entity-based-access|Entity-based record access rules]]
-- [[ropa-record|Processing activities]]
-- [[entity-based-access|Entity Based Access]]

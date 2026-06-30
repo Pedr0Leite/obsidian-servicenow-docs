@@ -18,8 +18,8 @@ Currently, HR Service Delivery Playbook offers you a single pane to view and wor
 
 **Important:**
 
--   [[hr-service-delivery|HR Service Delivery]] Agent Workspace \(Classic\) is now deprecated and no longer supported or available for new activation. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
--   If you are an existing user of HR Service Delivery Agent Workspace \(Classic\), you can migrate to the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] \(Configurable\) for enhanced features and capabilities. See [Migration Guidelines](https://www.servicenow.com/community/hrsd-articles/hr-agent-workspace-migration-guidelines-from-classic-to/ta-p/2310606).
+-   HR Service Delivery Agent Workspace \(Classic\) is now deprecated and no longer supported or available for new activation. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+-   If you are an existing user of HR Service Delivery Agent Workspace \(Classic\), you can migrate to the Agent Workspace for HR Case Management \(Configurable\) for enhanced features and capabilities. See [Migration Guidelines](https://www.servicenow.com/community/hrsd-articles/hr-agent-workspace-migration-guidelines-from-classic-to/ta-p/2310606).
 
 **Note:** Only lifecycle event cases are supported at this time.
 
@@ -31,17 +31,11 @@ Having all case information in a single pane allows you to quickly and easily de
 
 ## Lifecycle event cases
 
-Because there can be multiple [[activity-lxp|activity]] sets in a lifecycle event case that also contain multiple activities, being able to view all aspects is crucial to an HR agent.
+Because there can be multiple activity sets in a lifecycle event case that also contain multiple activities, being able to view all aspects is crucial to an HR agent.
 
 Using an accordion button, you can expand or collapse activity sets to view the activities within.
 
 Within an activity set, you can view all tasks, state, owners, and have the ability to take action.
 
-**Note:** For more information about [[hr-lifecycle-events-landing-page-1|lifecycle events]], see [Lifecyle events for enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/enterprise-onboarding-transitions-landing-page.md).
+**Note:** For more information about lifecycle events, see [Lifecyle events for enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/enterprise-onboarding-transitions-landing-page.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

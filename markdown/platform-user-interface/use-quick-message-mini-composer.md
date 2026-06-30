@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the mini email composer by selecting the **Email** tab under the [[activity-stream-compose-configurable-workspace|Compose]] panel.
+2.  Open the mini email composer by selecting the **Email** tab under the Compose panel.
 
 3.  From the email footer, select the Apply templates icon \(\[Omitted image "x-apply-templates-icon.png"\] Alt text: Apply templates icon\).
 
@@ -38,6 +38,4 @@ Role required: email\_composer
 
 6.  Add the template to your email by selecting **Insert**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]

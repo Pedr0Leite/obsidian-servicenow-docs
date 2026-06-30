@@ -14,7 +14,7 @@ breadcrumb: [Conflict calendar, Conflict detection, Configure, Change Management
 
 # Manage your change schedules and resolve conflicts
 
-Prevent schedule conflicts by using the [[change-conflict-calendar|conflict calendar]] to manage your change schedule details, customize views, and resolve conflicts.
+Prevent schedule conflicts by using the conflict calendar to manage your change schedule details, customize views, and resolve conflicts.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The conflicts are reviewed and resolved.
 
 **Parent Topic:**[Conflict calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-conflict-calendar.md)
 
-## Related
-
-- [[change-conflict-calendar|Conflict calendar]]

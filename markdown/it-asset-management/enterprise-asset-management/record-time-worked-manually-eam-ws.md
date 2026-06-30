@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on asset repair tasks in the Enterprise Asset Wo
 
 # Record time worked on a repair task manually in the Enterprise Asset Workspace
 
-Create an entry for the time worked on a repair task manually in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Create an entry for the time worked on a repair task manually in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ The Time Worked form is saved and the time card is added to the Time Worked tab 
 
 [Pause a repair task in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud Configuration Governance roles and system properties
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] users require the appropriate roles and system properties to perform various activities. These roles and system properties are installed with the activation of the application.
+Cloud Configuration Governance users require the appropriate roles and system properties to perform various activities. These roles and system properties are installed with the activation of the application.
 
 Only users with the user\_admin or admin role can create users with these roles:
 
@@ -41,7 +41,7 @@ A scheduling admin can perform the following actions:-   Create scan schedules.
 
 </td><td>
 
-[[r-discovery|discovery]]\_admin
+discovery\_admin
 
 </td></tr><tr><td>
 
@@ -50,10 +50,10 @@ sn\_itom\_ccg.governor
 </td><td>
 
 A governor can perform the following actions:-   Create policies by using condition builder, Integration Hub flows, or script.
--   [[create-ccg-policy-set|Create a policy set]].
+-   Create a policy set.
 -   Create resource collectors.
 -   Create configuration keys.
--   Create [[ccg-remediation|remediation]].
+-   Create remediation.
 -   Create CI finder mappings.
 
 </td><td>
@@ -69,7 +69,7 @@ sn\_itom\_ccg.ccg\_operator
 </td><td>
 
 An operator can perform the following actions:-   View the audit issue reports.
--   [[ccg-run-remediation|Run remediation]].
+-   Run remediation.
 -   Run scan configurations.
 -   View the dashboard.
 
@@ -124,10 +124,3 @@ When you enable this property, Cloud Configuration Governance writes the logs to
 
 [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[r-discovery|Discovery]]
-- [[create-ccg-policy-set|Create a policy set]]
-- [[ccg-remediation|Remediation]]
-- [[ccg-run-remediation|Run remediation]]

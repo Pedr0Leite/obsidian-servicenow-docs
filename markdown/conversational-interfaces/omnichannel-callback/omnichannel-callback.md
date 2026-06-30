@@ -18,7 +18,7 @@ ServiceNow® Omnichannel Callback app enables other ServiceNow® apps to display
 
 ## Get started with Omnichannel Callback
 
-Select a tile to [[get-started-with-omnichannel-callback|get started with Omnichannel Callback]].
+Select a tile to get started with Omnichannel Callback.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -42,6 +42,3 @@ Select a tile to [[get-started-with-omnichannel-callback|get started with Omnich
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[get-started-with-omnichannel-callback|Get started with Omnichannel Callback]]

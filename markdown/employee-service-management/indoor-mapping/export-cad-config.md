@@ -14,11 +14,11 @@ breadcrumb: [Autocad import tool, Manage CAD source files, Indoor Mapping, Workp
 
 # Export CAD configuration
 
-Export the updated CAD changes to your CAD file. Exporting the updated changes creates a copy of the modified CAD file in [[Indoor-mapping|Indoor Mapping]].
+Export the updated CAD changes to your CAD file. Exporting the updated changes creates a copy of the modified CAD file in Indoor Mapping.
 
 ## About this task
 
-Make configuration changes to your CAD source file using the CAD Editor and Map Configuration tabs. [[autocad-v2-config-layout|CAD configuration]] changes are updated in the Autocad Source \(sn\_map\_core\_autocad\_source\) table.
+Make configuration changes to your CAD source file using the CAD Editor and Map Configuration tabs. CAD configuration changes are updated in the Autocad Source \(sn\_map\_core\_autocad\_source\) table.
 
 **Note:** Exporting the CAD configuration changes is an optional step. The updated CAD configuration changes reside in Indoor Mapping as an updated CAD file \(a copy\).
 
@@ -65,7 +65,3 @@ Role required: admin
 
 **Next topic:**[Import CAD configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-cad-config.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[autocad-v2-config-layout|CAD configuration]]

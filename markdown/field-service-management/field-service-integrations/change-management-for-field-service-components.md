@@ -154,7 +154,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[fsm-application-landing-page|Field Service Management]] Agent\[wm\_agent\]
+Field Service Management Agent\[wm\_agent\]
 
 </td><td>
 
@@ -166,7 +166,3 @@ sn\_change\_read
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

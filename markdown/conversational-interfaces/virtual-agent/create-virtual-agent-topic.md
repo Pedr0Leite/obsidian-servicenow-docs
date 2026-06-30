@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Creating a Virtual Agent topic
 
-Use [[virtual-agent-landing-page|Virtual Agent]] Designer to create and modify Virtual Agent topics \(conversations\). Build your topic to meet a specific objective or goal, such as fulfilling a user's request or helping a user complete a task.
+Use Virtual Agent Designer to create and modify Virtual Agent topics \(conversations\). Build your topic to meet a specific objective or goal, such as fulfilling a user's request or helping a user complete a task.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Use [[virtual-agent-landing-page|Virtual Agent]] Designer to create and modify V
 Do the following:
 
 -   Review [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
--   Configure Virtual Agent settings. For example, if you're creating large language model \(LLM\) topics, turn on [[now-assist-in-va-landing|Now Assist in Virtual Agent]]. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). If you're creating Natural Language Understanding \(NLU\) topics, configure NLU settings. For more information, see [Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md).
+-   Configure Virtual Agent settings. For example, if you're creating large language model \(LLM\) topics, turn on Now Assist in Virtual Agent. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). If you're creating Natural Language Understanding \(NLU\) topics, configure NLU settings. For more information, see [Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md).
 -   Plan your conversation before you begin. For more information, see [Designing a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/design-va-topic.md).
 -   Verify that you're in the appropriate application scope before you create or update a topic. For example, if you're creating ITSM topics, verify that you're in the **ITSM Virtual Agent Conversations** scope \(and not the scope for the ITSM NLU Model for Virtual Agent Conversations\). For details, see [Change the application scope for Virtual Agent Designer topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/change-application-scope-vad.md).
 
@@ -40,7 +40,7 @@ When NLU is enabled, the Set up Natural Language Understanding \(NLU\) section i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Select **LLM** or **NLU/keyword** depending on the type of topic you're creating.
 
@@ -57,7 +57,7 @@ When NLU is enabled, the Set up Natural Language Understanding \(NLU\) section i
 
     -   For NLU/Keyword topics, select **Create topic**.
 
-        \[Omitted image "vad-home-nlu.png"\] Alt text: [[vad-topics-page|Assistant Designer Asset library]] set to NLU/Keyword view, with NLU/Keyword selection switch and Create topic button highlighted.
+        \[Omitted image "vad-home-nlu.png"\] Alt text: Assistant Designer Asset library set to NLU/Keyword view, with NLU/Keyword selection switch and Create topic button highlighted.
 
 4.  On the form, fill in the fields.
 
@@ -140,15 +140,15 @@ View, test, and modify NLU utterances for a Virtual Agent topic on the **NLU Int
 -   **[Add NLU to an existing keyword topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-nlu-existing-keyword-topic.md)**  
 Create and map an NLU model group and intent for the topic from Assistant Designer.
 -   **[Add nodeless NLU entities as input variables to a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-nodeless-entities-input-vars.md)**  
-You can [[add-nodeless-entities-input-vars|add nodeless NLU entities as input variables to a topic]] if NLU is enabled for Virtual Agent. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
+You can add nodeless NLU entities as input variables to a topic if NLU is enabled for Virtual Agent. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
 -   **[Branch a Virtual Agent conversation with a Decision utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-decision-utility-va-topic.md)**  
-Your conversations may need to branch depending on end user input or choices. Use the [[va-decision|Decision utility]] to branch the conversation when certain conditions are met.
+Your conversations may need to branch depending on end user input or choices. Use the Decision utility to branch the conversation when certain conditions are met.
 -   **[Insert a header card in a Static Choice or Dynamic Choice control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/insert-header-card-user-input-control.md)**  
 When you create a Virtual Agent topic, you can include images and YouTube videos on Static Choice and Dynamic Choice user input controls.
 -   **[Change the application scope for Virtual Agent Designer topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/change-application-scope-vad.md)**  
 Set the application scope before you create or update a topic. For example, if you're creating ITSM topics, verify that you're in the **ITSM Virtual Agent Conversations** scope \(and not the scope for the ITSM NLU \(Natural Language Understanding\) Model for Virtual Agent Conversations\).
 -   **[Define script variables for a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-script-variables-topic.md)**  
-Use the Variables [[sidebar-landing|sidebar]] to [[define-script-variables-topic|define script variables for a topic]]. Script variables can store information that is not found in ServiceNow tables. This information can then be shared elsewhere in a topic.
+Use the Variables sidebar to define script variables for a topic. Script variables can store information that is not found in ServiceNow tables. This information can then be shared elsewhere in a topic.
 -   **[Create a small talk topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-small-talk.md)**  
 Build small talk topics that let Virtual Agent engage in casual conversation with users. A small talk topic provides a response to a casual question that users might ask during a conversation, such as the time or date. A small talk topic can occur anytime within a conversation session and can be unrelated to the original conversation intent.
 -   **[Control topic discovery and visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/manage-topics-task.md)**  
@@ -158,14 +158,3 @@ Associate system-derived entities such as such as date, time, duration, or locat
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[add-nodeless-entities-input-vars|Add nodeless NLU entities as input variables to a topic]]
-- [[va-decision|Decision utility]]
-- [[sidebar-landing|Sidebar]]
-- [[define-script-variables-topic|Define script variables for a topic]]

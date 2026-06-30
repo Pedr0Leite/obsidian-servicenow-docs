@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
@@ -33,6 +33,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     -   Display matching alerts by selecting **Show Matching** from the context menu.
     -   Filter out matching alerts by selecting **Filter Out** from the context menu.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

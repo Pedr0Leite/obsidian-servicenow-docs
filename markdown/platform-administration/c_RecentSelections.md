@@ -12,7 +12,7 @@ breadcrumb: [Reference field type, Reference, Field administration, Forms, field
 
 # Recent selections
 
-[[reference-email-admin|Reference]] fields store a list of each user's recent selections to enable you to quickly select past values when filling in a reference field.
+Reference fields store a list of each user's recent selections to enable you to quickly select past values when filling in a reference field.
 
 By default, the system stores up to 15 selections from a reference field for each user in the Recent Selection \[sys\_ui\_recent\_selection\] table. You can see the recent selections list by selecting an empty reference field.
 
@@ -37,9 +37,5 @@ The system adds a Recent Selection record whenever you insert or update a refere
 **Related topics**  
 
 
-[[r_AvailableSystemProperties|Available system properties]]
+[Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
 
-## Related
-
-- [[r_AvailableSystemProperties|Available system properties]]
-- [[reference-email-admin|Reference]]

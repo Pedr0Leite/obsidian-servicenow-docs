@@ -14,7 +14,7 @@ breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people a
 
 # Create rules and actions for Proactive Triggers
 
-Create rules and related actions for [[proactive-triggers-landing-page|Proactive Triggers]]. These rules and their related actions determine the messages that end users see on the ServiceNow portal.
+Create rules and related actions for Proactive Triggers. These rules and their related actions determine the messages that end users see on the ServiceNow portal.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
 
 ## Procedure
 
-1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General**, and then select **View All** next to Proactive Triggers **Rules**.
+1.  Navigate to **Conversational Interfaces** &gt; **Settings** &gt; **General**, and then select **View All** next to Proactive Triggers **Rules**.
 
     The list of default rules included with Proactive Triggers is displayed.
 
-2.  Select **New** to display the [[proactive-rule-new-record-form|Proactive Rule form]].
+2.  Select **New** to display the Proactive Rule form.
 
 3.  On the Proactive Rule form, fill in the fields.
 
@@ -49,12 +49,12 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
     |Action type|Description|
     |-----------|-----------|
     |Message only|End users see an HTML pop-up message.|
-    |Message that launches a [[virtual-agent-landing-page|virtual agent]] topic|End users see an HTML pop-up message that directs them to an available Virtual Agent topic.|
+    |Message that launches a virtual agent topic|End users see an HTML pop-up message that directs them to an available Virtual Agent topic.|
     |Message that launches a selection of virtual agent topics|End users see an HTML pop-up message with up to three suggested action buttons that direct them to a relevant Virtual Agent topic.|
 
     **Note:** If you've created [Live Agent rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-rule-actions.md), you can only select Message action types for those rules.
 
-7.  On the [[proactive-action-new-record-form|Proactive Action form]], fill in the fields.
+7.  On the Proactive Action form, fill in the fields.
 
     For a description of the field values, see [Proactive Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-action-new-record-form.md).
 
@@ -82,10 +82,3 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
 
 The triggering rules and actions are ready for you to validate and test.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[proactive-rule-new-record-form|Proactive Rule form]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[proactive-action-new-record-form|Proactive Action form]]

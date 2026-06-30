@@ -13,7 +13,7 @@ breadcrumb: [Purchase Order Management, Source-to-Pay Operations, Finance and Su
 
 # Now Assist for Purchase Order Management \(POM\)
 
-Use the ServiceNow® Now Assist for Purchase Order Management \(POM\) application to convert unstructured email messages from the [[supplier|supplier]]’s inbox into a prioritized list of exceptions, and leverage a conversation-like experience to mitigate [[purchase-order-table|purchase order]] exceptions.
+Use the ServiceNow® Now Assist for Purchase Order Management \(POM\) application to convert unstructured email messages from the supplier’s inbox into a prioritized list of exceptions, and leverage a conversation-like experience to mitigate purchase order exceptions.
 
 ## Get started
 
@@ -57,7 +57,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

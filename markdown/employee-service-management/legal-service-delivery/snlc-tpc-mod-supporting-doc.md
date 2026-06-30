@@ -24,7 +24,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -56,7 +56,7 @@ Steps
 The available storage types are:
 
     -   **Computer** - Select **Attach File** and upload the revised document.
-    -   **[[activity-lxp|Activity]] stream** - In the **Document** field, select the document that is displayed based on an attachment in the activity stream.
+    -   **Activity stream** - In the **Document** field, select the document that is displayed based on an attachment in the activity stream.
     -   **External Storage** - In the **Document** field, select the document. This option is displayed only if external storage is configured.
 3.  \(Optional\) Add more information about the document in the **Work notes** field.
 
@@ -86,7 +86,3 @@ The available storage types are:
 
 **Parent Topic:**[Work on a third-party contract review request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

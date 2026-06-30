@@ -23,7 +23,7 @@ Role required: admin
 1.  Configure the token by doing one of the following, depending on the token type:
 
     -   Static token:
-        1.  Navigate to **All**, and then enter `token_verification.list` in the [[now-assist-global-navigation|navigation]] filter.
+        1.  Navigate to **All**, and then enter `token_verification.list` in the navigation filter.
         2.  Select **New**.
         3.  On the form, fill in the fields.
 
@@ -99,7 +99,7 @@ Authentication token that is used to authenticate the provider application. Ente
 
     2.  Select the **AI Voice Agent Provider Application** record to open it.
 
-        If you want to use an existing application or create a new provider application, be sure to update the existing configuration according to the values mentioned in [[voice-agent-reference|Configuration for custom AI voice agent provider]] before proceeding further.
+        If you want to use an existing application or create a new provider application, be sure to update the existing configuration according to the values mentioned in [Configuration for custom AI voice agent provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/voice-agent-reference.md) before proceeding further.
 
     3.  In the Provider Channel Identity form, locate the **Message auth** field and select the message auth that you set up previously.
 
@@ -107,7 +107,4 @@ Authentication token that is used to authenticate the provider application. Ente
 
     4.  Select **Update**.
 
-## Related
 
-- [[voice-agent-reference|AI voice agent reference]]
-- [[now-assist-global-navigation|Navigation]]

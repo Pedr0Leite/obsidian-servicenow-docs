@@ -154,10 +154,7 @@ Approvers can view and [Approve or reject a contract document](https://raw.githu
 -   **[Approve or reject a contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-approve-reject-request-docs.md)**  
 Review a contract request or attachment and approve or reject it.
 -   **[Cancel an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-cancel-approval-request.md)**  
-[[cmpro-cancel-approval-request|Cancel an ad hoc approval for a contract document revision]] if it no longer requires any action.
+Cancel an ad hoc approval for a contract document revision if it no longer requires any action.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cmpro-cancel-approval-request|Cancel an ad hoc approval for a contract document revision]]

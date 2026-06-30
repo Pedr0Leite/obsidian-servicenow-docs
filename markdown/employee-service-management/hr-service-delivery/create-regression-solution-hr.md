@@ -18,7 +18,7 @@ View the examples of ETTR views across the journey of a case which indicates the
 
 Once you configure ETTR, you can see the **HR Case Resolution Time** option. See the **Estimated time to resolve** value from:
 
--   [[employee-center-portal-overview|Employee portal]] view
+-   Employee portal view
 
 
 
@@ -44,6 +44,3 @@ Based on the configuration, the views may be different for your implementation.
 
 [Estimated time to resolve HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/train-model-ettr.md)
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]

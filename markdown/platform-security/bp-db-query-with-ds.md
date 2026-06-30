@@ -12,13 +12,13 @@ breadcrumb: [Recommended practices for service providers, Domain separation for 
 
 # How a database query works with domain separation
 
-Using database queries with domain separation in your customers' applications help them protect their data. These queries then speed up the [[sc-configuration|configuration]] and build processes.
+Using database queries with domain separation in your customers' applications help them protect their data. These queries then speed up the configuration and build processes.
 
 ## How domain separation protects data
 
-In the following figure, the Incident table \[incident\] has a domain field that is inherited from the incident's task. When you see this domain field, you know that the records in the table can have [[bp-domain-assignment|domain assignments]].
+In the following figure, the Incident table \[incident\] has a domain field that is inherited from the incident's task. When you see this domain field, you know that the records in the table can have domain assignments.
 
-When [[users|users]] log in, their home domain appears with the set of domains they may access. This is known as the user’s session context. For more information about session contexts, see [[bp-domain-sep-context|Context and domain separation]].
+When users log in, their home domain appears with the set of domains they may access. This is known as the user’s session context. For more information about session contexts, see [Context and domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-context.md).
 
 ## Database query with domain separation
 
@@ -38,7 +38,7 @@ To learn more about contextual security, see [Context and domain separation](htt
 
 **Note:** This processing logic applies for all queries to the database, including those queries that are triggered using integrations.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -75,7 +75,7 @@ To learn more about contextual security, see [Context and domain separation](htt
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -93,11 +93,3 @@ To learn more about contextual security, see [Context and domain separation](htt
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-context|Context and domain separation]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-configuration|Configuration]]
-- [[bp-domain-assignment|Domain assignments]]
-- [[users|Users]]
-- [[logs|Logs]]

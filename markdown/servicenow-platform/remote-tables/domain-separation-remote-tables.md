@@ -14,7 +14,7 @@ breadcrumb: [Remote tables, Manage instance data sources, Extend ServiceNow AI P
 
 # Domain separation and remote tables
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported in [[remote-tables|remote tables]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in remote tables. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -42,7 +42,3 @@ However, script definitions that you create and associate with a remote table ca
 
 [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[remote-tables|Remote tables]]

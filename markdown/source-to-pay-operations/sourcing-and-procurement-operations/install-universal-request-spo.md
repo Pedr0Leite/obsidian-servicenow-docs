@@ -14,7 +14,7 @@ breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply 
 
 # Install Universal Request for Sourcing and Procurement Operations
 
-Install the [[universal-request|Universal Request]] for [[source-to-pay-operations-overview|Source-to-Pay Operations]] \[sn\_fsc\_ur\_common\] plugin to enable the [[universal-request-spo|Universal Request in Sourcing and Procurement Operations]].
+Install the Universal Request for Source-to-Pay Operations \[sn\_fsc\_ur\_common\] plugin to enable the Universal Request in Sourcing and Procurement Operations.
 
 ## Before you begin
 
@@ -62,8 +62,3 @@ A confirmation message appears when installation is complete. For information ab
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[universal-request-spo|Universal Request in Sourcing and Procurement Operations]]

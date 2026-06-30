@@ -22,13 +22,13 @@ Role required: catalog\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **[[c_ServiceCatalogOrderGuides|Order Guides]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Order Guides**.
 
 2.  Click **New**.
 
 3.  Fill in the fields as appropriate.
 
-    For more information about the fields and their descriptions on the [[order-guide-form|Order guide form]], see [Order guide form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/order-guide-form.md).
+    For more information about the fields and their descriptions on the Order guide form, see [Order guide form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/order-guide-form.md).
 
 4.  Right-click the form header and click **Save**.
 
@@ -48,8 +48,3 @@ Configure a sequence in Playbooks to fulfill items in order guides. Once you def
 
 **Parent Topic:**[Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[order-guide-form|Order guide form]]

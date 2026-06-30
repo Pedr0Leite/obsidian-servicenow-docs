@@ -21,11 +21,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**.
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure Alerts**.
 
-    For more information on how to configure alerts, see [[configuring-io-alerts|Configure Key Alerts]].
+    For more information on how to configure alerts, see [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 3.  In the **Search** field of the **All Alerts** tab that displays by default, enter `long pending jobs`.
 
@@ -74,11 +74,5 @@ Role required: admin
     The alert is active after you save. When a configured condition is met, you receive a notification that includes the job priority and the specific job names that breached the threshold. For example, Job X \(Priority 100\) has been pending for more than 100 minutes.
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[configuring-io-alerts|Configure Key Alerts]]
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

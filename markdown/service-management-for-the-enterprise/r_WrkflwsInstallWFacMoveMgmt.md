@@ -14,17 +14,12 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 Workflows provide a drag-and-drop interface for automating multi-step processes.
 
-[[c_FacMoveMgmt|Facilities Move Management]] adds the following workflows.
+Facilities Move Management adds the following workflows.
 
 |Workflow|Description|
 |--------|-----------|
 |Single User Move|Handles single user move requests|
-|Enterprise Move|Handles [[c_EnterpriseMove|enterprise move]] requests|
+|Enterprise Move|Handles enterprise move requests|
 
-**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_EnterpriseMove|Enterprise move]]

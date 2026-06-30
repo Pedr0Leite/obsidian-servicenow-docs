@@ -19,7 +19,7 @@ Integration tables are used to interact with the third-party sourcing applicatio
 The following integration tables are used:
 
 -   Sourcing Outbound Queue, which stores the sourcing requests. It captures the items that must be sourced along with the shopper, employee, or requester's requirements from sourcing intake.
--   Sourcing Line Outbound Queue, which stores the [[purchase-lines|purchase lines]] associated with the sourcing requests. It captures the [[supplier|supplier]] details that the shopper, employee, or requester wanted to source from. Additionally, ServiceNow sends any other suppliers that supply the same product model as the item that must be sourced.
+-   Sourcing Line Outbound Queue, which stores the purchase lines associated with the sourcing requests. It captures the supplier details that the shopper, employee, or requester wanted to source from. Additionally, ServiceNow sends any other suppliers that supply the same product model as the item that must be sourced.
 -   Sourcing Event Outbound Queue, which stores the negotiation type, objectives, third party sourcing event record, sourcing event number, and supplier response close associated with the sourcing requests.
 -   Sourcing Bid Stage, which is an inbound table used as part of the RFx process. It’s used to get the supplier responses to the RFx in real time from the third-party tool, back into the ServiceNow instance.
 -   Awarded Supplier Outbound Queue, which stores the awarded suppliers. It captures the supplier details that are awarded in ServiceNow, and shares this data with the third-party tool for them to share the award business wins or losses with the suppliers.
@@ -30,7 +30,7 @@ The following integration tables are used:
 |Country|String|Delivery country|
 |End date|Other Date|End date of the service|
 |Expected delivery date|Other Date|Expected delivery date of the good|
-|Grouped [[sourcing-request|sourcing request]] number|String|ServiceNow's sourcing event record number|
+|Grouped sourcing request number|String|ServiceNow's sourcing event record number|
 |Integration status|String|Integration processing status|
 |Manufacturer|String|Name of the manufacturer|
 |Manufacturer part number|String|Part number of the manufacturer|
@@ -137,7 +137,7 @@ The following integration tables are used:
 |Integration status|String|Status of the integration process.|
 |Processing message|String|Describes the current processing status.|
 |Purchase line number|String|ServiceNow's purchase line record number.|
-|Purchase requisition number|String|ServiceNow's [[purchase-requisition|purchase requisition]] record number created after awarding|
+|Purchase requisition number|String|ServiceNow's purchase requisition record number created after awarding|
 |Quantity|Integer|Quantity of the goods or service awarded to the supplier.|
 |Sourcing request number|String|Unique identifier of the sourcing request created inServiceNow's.|
 |Supplier company name|String|Name of the supplier company that is awarded the quote.|
@@ -148,9 +148,3 @@ The following integration tables are used:
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]

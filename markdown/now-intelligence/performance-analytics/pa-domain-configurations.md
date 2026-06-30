@@ -18,7 +18,7 @@ When using Performance Analytics with domain separation, you can collect domain-
 
 ## Global approach and collecting domain-specific scores
 
-You can keep all Performance Analytics records, such as indicators, breakdowns, and [[widgets|widgets]], in the Global domain. In this case, you apply domain separation through domain-specific [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md).
+You can keep all Performance Analytics records, such as indicators, breakdowns, and widgets, in the Global domain. In this case, you apply domain separation through domain-specific [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md).
 
 To configure a data collection job to be domain-specific, add a **Run as** user to the job. The **Run as** user determines the domain context of where the data collection job runs. For more information, see [Create or schedule a data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreatASchedDataCollJob.md).
 
@@ -30,7 +30,7 @@ If you specify only a **Run as** user, scores from all child domains are rolled 
 
 Only users with the pa\_admin role who are members of one of the domains that the job collects scores for can modify domain-separated data collection jobs. Global users with pa\_admin can modify any job.
 
-By default, [[content-packs-in-form-analytics-published|Platform Analytics Solutions]] use the global approach.
+By default, Platform Analytics Solutions use the global approach.
 
 **Note:** Domain configurations require a global approach to domain separation. For more information, see [Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-domain-separation-msp.md).
 
@@ -44,11 +44,11 @@ You can quickly copy an indicator or breakdown and related data from a different
 
 To collect scores, create a new data collector job associated with the domain-specific indicators.
 
-**Note:** Domain users cannot set [[pa-properties|Performance Analytics properties]] that begin with `com.snc.pa`. Only users with the admin or pa\_admin roles in the global domain can see or set these properties.
+**Note:** Domain users cannot set Performance Analytics properties that begin with `com.snc.pa`. Only users with the admin or pa\_admin roles in the global domain can see or set these properties.
 
 ## Hybrid approach
 
-A hybrid approach keeps reusable, foundational Performance Analytics records such as [[c_IndicatorSources|indicator sources]] within the global domain or a parent domain. At the same time, administrators in other domains create domain-specific higher-level Performance Analytics records such as indicators and widgets.
+A hybrid approach keeps reusable, foundational Performance Analytics records such as indicator sources within the global domain or a parent domain. At the same time, administrators in other domains create domain-specific higher-level Performance Analytics records such as indicators and widgets.
 
 **Note:** The hybrid approach is an advanced option. Implement either the global or domain-specific approaches successfully before attempting to use a hybrid approach.
 
@@ -57,12 +57,12 @@ When using a hybrid approach, foundational records should be managed only within
 -   Bucket groups
 -   Buckets
 -   Scripts
--   [[breakdown-sources|Breakdown sources]]
+-   Breakdown sources
 -   Indicator sources
 -   Filters
 -   Breakdowns
 -   Managed sources
--   [[manual-breakdowns|Manual breakdowns]]
+-   Manual breakdowns
 -   Breakdown mappings
 -   Breakdown relations
 
@@ -72,11 +72,3 @@ You can reuse Performance Analytics records in multiple domains. The PADomainUti
 
 **Parent Topic:**[Domain separation and Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWithDomainSeparation.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[pa-properties|Performance Analytics properties]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]
-- [[manual-breakdowns|Manual breakdowns]]

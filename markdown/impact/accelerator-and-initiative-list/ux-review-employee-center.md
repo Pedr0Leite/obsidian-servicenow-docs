@@ -14,11 +14,11 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 # UX: Portal Experience Review
 
-This accelerator evaluates the UX of a customer’s ServiceNow portal, focusing on usability, design, and leading practices to enhance overall [[user-experience-insights|user experience]] and engagement.
+This accelerator evaluates the UX of a customer’s ServiceNow portal, focusing on usability, design, and leading practices to enhance overall user experience and engagement.
 
 ## Accelerator overview
 
-UX: Portal Experience Review provides [[impact-landing-page|Impact]] customers with an assessment of the user experience of their ServiceNow portal implementation. Through careful review against ServiceNow leading practices, we identify UX issues and provide actionable recommendations to improve design, enhance user satisfaction, and increase portal adoption and efficiency.
+UX: Portal Experience Review provides Impact customers with an assessment of the user experience of their ServiceNow portal implementation. Through careful review against ServiceNow leading practices, we identify UX issues and provide actionable recommendations to improve design, enhance user satisfaction, and increase portal adoption and efficiency.
 
 ## Package Availability
 
@@ -61,7 +61,3 @@ One or more customer resources are requested.The specific number of resources pr
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[user-experience-insights|User Experience]]
-- [[impact-landing-page|Impact]]

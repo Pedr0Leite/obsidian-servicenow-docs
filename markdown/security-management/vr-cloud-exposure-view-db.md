@@ -12,7 +12,7 @@ breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security E
 
 # Viewing the Cloud Exposure View dashboard
 
-The Cloud Exposure View is a module that is supported by [[sem-workspace-user-interface|Security Exposure Management workspace]]. Select interactive visualizations and filter aggregated data for your cloud assets by category to view findings for your security exposures. Cloud security teams can monitor and act on all their cloud-related security findings from multiple vendors across their cloud environments from within the workspace.
+The Cloud Exposure View is a module that is supported by Security Exposure Management workspace. Select interactive visualizations and filter aggregated data for your cloud assets by category to view findings for your security exposures. Cloud security teams can monitor and act on all their cloud-related security findings from multiple vendors across their cloud environments from within the workspace.
 
 ## Locating the Cloud Exposure View
 
@@ -24,7 +24,7 @@ Roles required:
 -   sn\_vul\_cmn.usem\_admin to configure workspace rules
 -   For vulnerability findings remediation by product:
 
-See [[sem-new-roles-installed|Security Exposure Management Workspace Roles]]
+See [Security Exposure Management Workspace Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-new-roles-installed.md)
 
 ## Top-level filters
 
@@ -34,9 +34,9 @@ Locate and organize findings based on the following top-level filters to help yo
 
     **Note:** Finding types are listed by product. You must install the corresponding applications before you can view the imported data for the following finding types:
 
-    -   **Host**[[vuln-landing-page|Vulnerability Response]] supports findings for [[vulnerabilities|vulnerabilities]] in virtual machines and servers.
-    -   **Misconfiguration** [[vr-config-compliance-landing|Configuration Compliance]] supports findings for misconfigurations in cloud resource services such as S3 and EC2. Configuration Compliance also supports findings for `Issues`, such as assets that are involved in toxic combinations of vulnerabilities and misconfigurations.
-    -   **Container** - [[cvr-landing|Container Vulnerability Response]] supports container vulnerability findings.
+    -   **Host**Vulnerability Response supports findings for vulnerabilities in virtual machines and servers.
+    -   **Misconfiguration** Configuration Compliance supports findings for misconfigurations in cloud resource services such as S3 and EC2. Configuration Compliance also supports findings for `Issues`, such as assets that are involved in toxic combinations of vulnerabilities and misconfigurations.
+    -   **Container** - Container Vulnerability Response supports container vulnerability findings.
 -   **Source** - View security exposures organized by the third-party scanner product integrations you have installed in your instance.
 -   **Risk rating** - View security exposures by their criticality \(Critical, High, or Medium\). Multi-select is supported.
 
@@ -102,11 +102,4 @@ Select a card and then select the filters on the new tabs that are displayed to 
     -   Yellow
     Select **View more** to view a list of up to 1,000 records.
 
-## Related
 
-- [[sem-new-roles-installed|Security Exposure Management Workspace Roles]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[cvr-landing|Container Vulnerability Response]]

@@ -51,7 +51,7 @@ Enter a record number into the Unified Navigation search field but don't press E
 
 ## Access your most recent search queries and results
 
-When you select the empty Unified Navigation search field, the system displays [[lists-configurable-workspace|lists]] showing your most recent search queries and your most recently viewed search results. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
+When you select the empty Unified Navigation search field, the system displays lists showing your most recent search queries and your most recently viewed search results. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
 
 \[Omitted image "pol-search-recent-srch-view.png"\] Alt text: Unified Navigation search field showing Recently Searched and Recently Viewed lists.
 
@@ -67,6 +67,3 @@ Exact matches open in the selected workspace application. For example, if you se
 
 For information adding a workspace to the Unified Navigation search menu, see [Add a workspace application to the Unified Navigation search context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-app-search-context-polaris-ui.md).
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Gamification user interface components, Gamification, Using communi
 
 # User profile page
 
-The user profile page displays [[communities-gamification|gamification]] information that showcases the user's expertise.
+The user profile page displays gamification information that showcases the user's expertise.
 
 The gamification information is shown in three sections of the user profile page:
 
@@ -26,8 +26,8 @@ The gamification information is shown in three sections of the user profile page
 
 When the gamification feature is enabled, the user profile header area includes the user's current gamification achievements. This information appears just below the user name and title:
 
--   The top three [[gamification-components-badges|badges]] that have been awarded to the user. Pointing to a badge displays the badge name.
--   The total number of [[gamification-components-points|points]] earned by the user.
+-   The top three badges that have been awarded to the user. Pointing to a badge displays the badge name.
+-   The total number of points earned by the user.
 -   The current global level achieved.
 
 ## Achievements tab
@@ -40,7 +40,7 @@ Levels
 
 </td><td>
 
-A list of the levels available to the user, with the current level highlighted. This tab includes a link to the Community page **[[gamification-ui-how-to-earn-points|How to Earn Points]]**.
+A list of the levels available to the user, with the current level highlighted. This tab includes a link to the Community page **How to Earn Points**.
 
 </td></tr><tr><td>
 
@@ -73,9 +73,3 @@ Clicking the info icon displays the forum or topic levels and the point ranges.
 
 **Parent Topic:**[Gamification user interface components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-UI.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]
-- [[gamification-components-points|Points]]
-- [[gamification-ui-how-to-earn-points|How to earn points]]

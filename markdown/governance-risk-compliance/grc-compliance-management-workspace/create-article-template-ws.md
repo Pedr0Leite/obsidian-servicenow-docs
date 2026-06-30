@@ -22,7 +22,7 @@ Role required: sn\_audit.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Article Templates**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Article Templates**.
 
 2.  Click **New**.
 
@@ -90,6 +90,4 @@ Option to indicate that this template is used as the default template for all KB
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

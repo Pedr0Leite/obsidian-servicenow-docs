@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_manager
 
 Sold products are products and components that have been sold to an account or a consumer and can have multiple contracts. An install base item is an instance of sold product that has been provisioned for an account or consumer.
 
-Associating sold products or install base items to a [[exploring-post-sales-support|Customer Contracts and Entitlements]] entity helps keep a track of the products or install base items that are serviced to a customer under that entity.
+Associating sold products or install base items to a Customer Contracts and Entitlements entity helps keep a track of the products or install base items that are serviced to a customer under that entity.
 
 A sold product or an install base item can be added to a Customer Contracts and Entitlements entity in the Draft, Active, or Suspended states.
 
@@ -127,18 +127,12 @@ Procedure
 
     -   You can either add a sold product or an install base item to the Customer Contracts and Entitlements entity.
     -   The state of the entity shouldn't be Expired or Canceled.
-3.  On the [[sold-product-covered-form|Sold Product Covered form]], fill in the [[fields|fields]].
+3.  On the Sold Product Covered form, fill in the fields.
 
     For a description of the field values, see [Sold product form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/sold-product-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[using-post-sales-support|Using Customer Contracts and Entitlements]]
+**Parent Topic:**[Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-post-sales-support.md)
 
-## Related
-
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]
-- [[sold-product-covered-form|Sold Product Covered form]]
-- [[fields|Fields]]

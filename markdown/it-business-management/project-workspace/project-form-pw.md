@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Project form in Project Workspace
 
-Learn about the fields on the [[create-a-project-form|project form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to create a project.
+Learn about the fields on the project form of the Project Workspace. Use this form to create a project.
 
 ## Project form
 
@@ -69,7 +69,3 @@ Template to apply for your project. If the template you need is not available in
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[project-workspace-landing-page|Project Workspace]]

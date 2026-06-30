@@ -20,7 +20,7 @@ Record producers and catalogs ensure the accuracy and availability of the requir
 
 As a procurement administrator or procurement manager, you can create a record producer for tables and database views that are in the same scope and define the procurement-specific records and standardize the procurement workflows. To set up record producers, perform the following steps:
 
--   Create a new record producer for the [[psd-overview|Procurement Case Management]] application.
+-   Create a new record producer for the Procurement Case Management application.
 -   Assign a table name as a procurement case.
 -   Select **Procurement** as the target catalog under **Accessibility** &gt; **Catalogs**.
 -   Select **Procurement** under **Accessibility** &gt; **Category**.
@@ -43,6 +43,3 @@ Catalog and catalog items ensure the accuracy and availability of the required i
 
 [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RecordProducer.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]

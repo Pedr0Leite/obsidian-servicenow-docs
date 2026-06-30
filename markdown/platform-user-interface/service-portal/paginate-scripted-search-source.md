@@ -28,7 +28,7 @@ If adding pagination to a simple search source, set **Paginate results** on the 
 
 ## Procedure
 
-1.  In the platform UI, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Search Sources**.
+1.  In the platform UI, navigate to **Service Portal** &gt; **Search Sources**.
 
 2.  Open a search source to add pagination to.
 
@@ -97,7 +97,7 @@ If adding pagination to a simple search source, set **Paginate results** on the 
 
     For an additional example, see the Knowledge Base search source.
 
-5.  Define the maximum number of results per query for the search source in the [[search-page-widget|Search Page widget]] or [[faceted-search|Faceted Search widget]] instance options.
+5.  Define the maximum number of results per query for the search source in the Search Page widget or Faceted Search widget instance options.
 
     For more information, see [Faceted Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/faceted-search.md) or [Legacy: Search Page widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-page-widget.md).
 
@@ -110,8 +110,3 @@ The search page only returns the defined number of results at one time. When a u
 
 **Parent Topic:**[Define a search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[search-page-widget|search page widget]]
-- [[faceted-search|Faceted Search widget]]

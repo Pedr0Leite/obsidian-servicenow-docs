@@ -14,7 +14,7 @@ breadcrumb: [NLU entities, Build and train your model, Model management, Natural
 
 # Using regular expressions in entities
 
-Learn how to use regular expressions in your [[entities|NLU entities]] to establish patterns that help the system locate, match, and manage text.
+Learn how to use regular expressions in your NLU entities to establish patterns that help the system locate, match, and manage text.
 
 Pattern entities use regular expressions \(regex\) to match any pattern of text, such as the format of an email address, a phone number, or an incident or case ID.
 
@@ -30,7 +30,7 @@ The following four examples provide the format and regex code for different patt
 
     ServiceNow Knowledge Base \(KB\) articles use the format KB1234567. The regex code is KB\\d\{7\}, where KB = knowledge base record and d\{7\} = 7 digits.
 
-    \[Omitted image "regex1.png"\] Alt text: [[create-pattern-entity|Create a pattern entity]] for a KB article.
+    \[Omitted image "regex1.png"\] Alt text: Create a pattern entity for a KB article.
 
 -   **Case number**
 
@@ -60,7 +60,3 @@ For further information on regular expressions, see the following external links
 -   [Pattern \(Java Platform SE7\)](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
 -   [Java regex match abbreviations](https://blog.softhints.com/java-regex-extract-abbriviations/)
 
-## Related
-
-- [[entities|NLU entities]]
-- [[create-pattern-entity|Create a pattern entity]]

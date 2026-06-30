@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Configure an agent's maximum universal capacity
 
-Prevent an agent from being assigned too many [[awa-work-items|work items]] by configuring the agent's maximum universal capacity. If the agent's maximum universal capacity has been reached, additional work items won’t be assigned to the agent.
+Prevent an agent from being assigned too many work items by configuring the agent's maximum universal capacity. If the agent's maximum universal capacity has been reached, additional work items won’t be assigned to the agent.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to the universal capacity settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Additional settings section, select **Set up universal capacity**.
 
@@ -35,7 +35,7 @@ Role required: admin
 
         |Field|Definition|
         |-----|----------|
-        |Max Universal Capacity|Maximum capacity for an agent across all [[awa-service-channels|service channels]]. If an agent's current capacity equals the maximum universal capacity, additional work items won’t be assigned to the agent.|
+        |Max Universal Capacity|Maximum capacity for an agent across all service channels. If an agent's current capacity equals the maximum universal capacity, additional work items won’t be assigned to the agent.|
         |Users|The max universal capacity is assigned to the users \(agents\) in the Selected list. Select agents in the Available list and then select the right-pointing arrow to add them to the Selected list. To filter the agents in the Available list, create a filter by selecting **Add Filter** or run an existing filter by selecting **Run Filter**.|
 
     -   To update an existing maximum universal capacity for an agent, select the maximum universal capacity to update:
@@ -48,8 +48,4 @@ Role required: admin
 
 3.  Select **Submit** for a new universal capacity or **Update** for an existing universal capacity.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

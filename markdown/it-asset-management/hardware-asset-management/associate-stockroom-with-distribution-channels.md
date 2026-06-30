@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Link stockrooms into a distribution channel
 
-Link two geographically related [[c_Stockrooms|stockrooms]] to create a distribution channel and make the distribution of assets more efficient. You can assign a preference order for each channel to source assets to the stockroom.
+Link two geographically related stockrooms to create a distribution channel and make the distribution of assets more efficient. You can assign a preference order for each channel to source assets to the stockroom.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ You can't create distribution channels for a stockroom that doesn't support sour
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -117,7 +117,3 @@ Option that indicates whether the distribution channel is active for sourcing as
 
 [Source requests from local stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/consume-local-asset-stock.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

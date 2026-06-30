@@ -28,7 +28,7 @@ The following procedure describes how to assign HR skills in the Manage HR Skill
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **Manage HR Skills**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Skills**.
 
     \[Omitted image "HRSkillsAssignment.png"\] Alt text: HR skills
 
@@ -71,6 +71,3 @@ The following procedure describes how to assign HR skills in the Manage HR Skill
 
 **Parent Topic:**[HR skills management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSkillsManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

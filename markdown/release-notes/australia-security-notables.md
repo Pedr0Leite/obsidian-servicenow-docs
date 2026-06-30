@@ -18,7 +18,7 @@ The Australia release contains important problem fixes.
     -   03-04-2026\_1355
     -   glide-australia-02-11-2026\_\_patch0-02-24-2026
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -6891,12 +6891,7 @@ Refer to the listed KB article for details.
 </td></tr></tbody>
 </table>## All Other Fixes
 
-To view a list of all other PRBs fixed in Australia, refer to [[australia-all-other-fixes|All other Australia fixes]].
+To view a list of all other PRBs fixed in Australia, refer to [All other Australia fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-all-other-fixes.md).
 
-**Parent Topic:**[[available-versions|Available patches and hotfixes]]
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/available-versions.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[australia-all-other-fixes|All other Australia fixes]]
-- [[available-versions|Available patches and hotfixes]]

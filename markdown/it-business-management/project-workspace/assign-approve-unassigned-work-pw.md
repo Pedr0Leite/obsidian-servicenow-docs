@@ -14,7 +14,7 @@ breadcrumb: [Resource assignments in Project Workspace, Resource planning with P
 
 # Access, assign, and approve unassigned work in Project Workspace
 
-View, assign and authorize resources directly from [[project-workspace-landing-page|Project Workspace]] without navigating to [[rsrc-mgmt-wrkspc|Resource Management Workspace]].
+View, assign and authorize resources directly from Project Workspace without navigating to Resource Management Workspace.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ In Project Workspace, when you select **Resources** page from the left menu, you
 
     \[Omitted image "resource-board-pw.png"\] Alt text: Resource board viewof a Project in Project Workspace.
 
-    You can [[create-rsrc-asgnmnts-ppm|create resource assignments]] based on the primary attributes \(Group, Skill, or Role\). You can see a comprehensive view of resource allocations and group them by primary group, skill, role, owner, and parent item.
+    You can create resource assignments based on the primary attributes \(Group, Skill, or Role\). You can see a comprehensive view of resource allocations and group them by primary group, skill, role, owner, and parent item.
 
 4.  From unassigned tasks pane, select the context menu row \(\[Omitted image "row-context-menu-icon.png"\] Alt text: 3 vertical dots denoting the row context menu.\) for any task and select **Assign Work**.
 
@@ -88,7 +88,7 @@ Enables you to choose specific resources and decide how much effort to allocate.
 
 9.  Double-click in the Resource status column and select **Approve** to confirm the assigned work so the resource can start working.
 
-    While assigning the work, you can easily identify if a resource is available \(\[Omitted image "rmw-green-tick.png"\] Alt text: Green tick mark within a green circle indicating the [[r_AllocatingResources|resource allocation]] is within the available bandwidth.\) or overutilized \(\[Omitted image "rmw-red-warning.png"\] Alt text: Red exclamation mark within a red triangle indication the resource is overallocated.\), even for the future periods, using the iconography.
+    While assigning the work, you can easily identify if a resource is available \(\[Omitted image "rmw-green-tick.png"\] Alt text: Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.\) or overutilized \(\[Omitted image "rmw-red-warning.png"\] Alt text: Red exclamation mark within a red triangle indication the resource is overallocated.\), even for the future periods, using the iconography.
 
 10. You can change the status of any assigned assignments using one of the following options.
 
@@ -110,9 +110,3 @@ The assigned work items are Approved \(\[Omitted image "rmw-approved-state.png"\
 
 **Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/resource-assignments-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[r_AllocatingResources|Resource allocation]]

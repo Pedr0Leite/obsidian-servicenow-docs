@@ -16,7 +16,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 Enable employee's data export, which can be used by any other agency or department for tracking, compliance, and regulatory purposes.
 
-This feature makes [[emp-slate-employee-profile|employee profile]] data, such as employment history and progression to be made available across different ServiceNow instances.
+This feature makes employee profile data, such as employment history and progression to be made available across different ServiceNow instances.
 
 As an HR agent, you can extract the employment history of an employee by performing the following steps:
 
@@ -28,6 +28,3 @@ As an HR agent, you can extract the employment history of an employee by perform
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

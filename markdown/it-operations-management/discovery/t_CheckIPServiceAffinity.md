@@ -24,7 +24,7 @@ Role required: admin
 
 The IP Services table maps a port to a protocol. Several mappings are provided by default for commonly used port-protocol combinations, such as port 80 for HTTP, port 22 for SSH, and port 161 for SNMP.
 
-A system property called **glide.[[r-discovery|discovery]].ip\_service\_affinity** allows Discovery to remember the last port of the IP address that was discovered.
+A system property called **glide.discovery.ip\_service\_affinity** allows Discovery to remember the last port of the IP address that was discovered.
 
 **Important:** You should not modify IP services unless your organization uses custom ports.
 
@@ -38,6 +38,4 @@ A system property called **glide.[[r-discovery|discovery]].ip\_service\_affinity
 
 4.  Select the **IP Service Affinities** tab for the list of IP addresses associated with that service.
 
-## Related
 
-- [[r-discovery|Discovery]]

@@ -14,14 +14,14 @@ breadcrumb: [Modeling an Operational Technology system service, Use, Operational
 
 # View the dependency map for an Operational Technology system service
 
-View the dependency map for an [[operational-technology-overview|Operational Technology]] \(OT\) system service to see the graphical representation of the hierarchical structure of the selected OT system service and its relationship with other entities in the production process.
+View the dependency map for an Operational Technology \(OT\) system service to see the graphical representation of the hierarchical structure of the selected OT system service and its relationship with other entities in the production process.
 
 ## About this task
 
 You can view the dependency map for an OT system service in the following locations:
 
 -   ServiceNow AI Platform in an OT system service record
--   [[industrial-workspace-for-operational-technology|Industrial Workspace]] in an OT system service record
+-   Industrial Workspace in an OT system service record
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ Role required: cmdb\_ot\_editor
 
 **Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/modeling-ot-system.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

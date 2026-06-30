@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Components installed with Service Observability
 
-Several types of components are installed with activation of the [[service-observability|Service Observability]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Service Observability plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -62,7 +62,7 @@ Configures data sources and adds data mappings. Customizes dashboard templates.
 </td></tr></tbody>
 </table>## Store applications installed
 
-The following are installed when you [[install-service-observability|install Service Observability]].
+The following are installed when you install Service Observability.
 
 <table id="table_kq3_shb_d2c"><thead><tr><th>
 
@@ -82,7 +82,7 @@ The Overview and Observability tabs in the Service Details page of the SOW.
 
 </td></tr><tr><td>
 
-[[sr-landing-page|Service Reliability Management]]
+Service Reliability Management
 
 </td><td>
 
@@ -94,7 +94,7 @@ Platform Analytics
 
 </td><td>
 
-Enables customizing the [[otto-aiops-dashboards|dashboards]].
+Enables customizing the dashboards.
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -178,9 +178,3 @@ Contains reference information for customized dashboards.
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[install-service-observability|Install Service Observability]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[otto-aiops-dashboards|Dashboards]]

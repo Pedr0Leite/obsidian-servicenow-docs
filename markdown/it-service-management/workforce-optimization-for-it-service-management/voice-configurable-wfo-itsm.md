@@ -20,7 +20,7 @@ This video provides an overview of the Voice application:
 
 With the Voice application, you can:
 
--   Enable your workforce to use the voice channel and get call recordings, call transcripts, and reports of sentiment analysis when agents interact with callers. You can visualize all of this information within the Channels application in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+-   Enable your workforce to use the voice channel and get call recordings, call transcripts, and reports of sentiment analysis when agents interact with callers. You can visualize all of this information within the Channels application in Workforce Optimization for ITSM.
 -   Analyze the call transcripts and sentiments of users after an interaction is complete so that you can create assessments and provide feedback and training for agents.
 -   Synchronize agent presence within the queue.
 
@@ -58,6 +58,3 @@ Analyze your agent's call recordings, transcripts, and sentiment reports. With t
 
 **Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-channels-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

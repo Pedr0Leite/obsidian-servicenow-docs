@@ -12,7 +12,7 @@ breadcrumb: [Configure, Using Digital resilience incident reporting, Manage, Ope
 
 # Set up the flows in Workflow Studio
 
-Set up the flows and conditions for Digital resilience incident reporting in Workflow Studio. As administrators of the [[grc-opres-landing-page|Operational Resilience]] application, you can update \(customize\) the flow configurations to meet your organizational requirements.
+Set up the flows and conditions for Digital resilience incident reporting in Workflow Studio. As administrators of the Operational Resilience application, you can update \(customize\) the flow configurations to meet your organizational requirements.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ The Workflow Studio lists the preconfigured flows and conditions for Digital res
     5.  DRI Business Service Trigger For Multiple Regulators
     \[Omitted image "trigger-flows-wf-studio.png"\] Alt text: Digital resilience incident reporting flows. For the text description, refer to the text that precedes this image.
 
-    **Note:** If the Security Incident Response application is installed in your instance, flows related to security incidents \(SIR\) are listed in the Flows [[list-view-uib-ws|list view]].
+    **Note:** If the Security Incident Response application is installed in your instance, flows related to security incidents \(SIR\) are listed in the Flows list view.
 
 2.  To update \(customize\) the flow configurations to meet your organizational requirements, select **Edit flow** in the desired flow, update the conditions, and select **Done**.
 
@@ -61,7 +61,4 @@ The Workflow Studio lists the preconfigured flows and conditions for Digital res
 
     Published flows are available to the users of the Digital resilience incident reporting application.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

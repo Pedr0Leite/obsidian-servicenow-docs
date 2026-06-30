@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -50,7 +50,7 @@ Role required: admin
     |Orientation|Orientation of the record section. You can select either**Horizontal** or **Vertical** based on the amount of space available on your screen.|
     |Hide section if empty|Option for hiding empty UI sections when there's no content to display.|
     |Max items display count|Maximum number of cards that are displayed on the launcher screen. Enter a number in this field. If the number of available records in the destination screen exceed the number set in this field, users must tap **See all** in the header to see the remaining records.|
-    |Destination screen|Destination screen determines which records are displayed as cards in the record section. Selecting the card enables you to navigate to the [[form-screen|record screen]] for a record. Selecting **See all** displays the full [[list-screen|list screen]] that you selected for your destination screen.|
+    |Destination screen|Destination screen determines which records are displayed as cards in the record section. Selecting the card enables you to navigate to the record screen for a record. Selecting **See all** displays the full list screen that you selected for your destination screen.|
     |Role access|User roles that can access this UI section. This field is an optional setting.|
 
 7.  Select **Save**.
@@ -58,12 +58,5 @@ Role required: admin
 
 ## What to do next
 
-After creating record UI sections, you must add the UI sections to a launcher screen so they're displayed. For more information, see [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]].
+After creating record UI sections, you must add the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 
-## Related
-
-- [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

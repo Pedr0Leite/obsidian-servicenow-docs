@@ -24,7 +24,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, select a Board that you want to create automations for.
 
@@ -59,6 +59,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Work item automations in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/implementing-automations-in-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

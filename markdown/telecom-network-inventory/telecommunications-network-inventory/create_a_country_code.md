@@ -14,7 +14,7 @@ breadcrumb: [Create the components of a telephone number, Configure, Telecommuni
 
 # Create a country code
 
-Create, review, update, or delete a country code by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. A country can have multiple phone formats and phone validations.
+Create, review, update, or delete a country code by using the Telecommunications Network Inventory application. A country can have multiple phone formats and phone validations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create a country code and add conditions to it so that you can manage, review, o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Administration** &gt; **Country code**.
 
@@ -49,12 +49,7 @@ Create a country code and add conditions to it so that you can manage, review, o
 
 ## What to do next
 
-[[create_an_area_code|Create an area code]]. For information, see [Create an area code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_an_area_code.md).
+Create an area code. For information, see [Create an area code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_an_area_code.md).
 
 **Parent Topic:**[Create the components of a telephone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_components_of_a_telephone_number.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[create_an_area_code|Create an area code]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Delete an NLU model
 
-Delete a [[nlu-landing|Natural Language Understanding]] \(NLU\) model permanently.
+Delete a Natural Language Understanding \(NLU\) model permanently.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Deleting an NLU model removes the model and its contents, including its default 
 
     The system deletes your model and reloads the page.
 
-## Related
 
-- [[nlu-landing|Natural Language Understanding]]

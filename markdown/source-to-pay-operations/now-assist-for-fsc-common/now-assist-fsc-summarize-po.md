@@ -14,7 +14,7 @@ breadcrumb: [Use, Features, Now Assist Finance Supply Chain, Finance and Supply 
 
 # Summarize a purchase order by using Now Assist for Common Finance and Supply Chain features in Source-to-Pay Workspace
 
-As a fulfiller, summarize purchase orders and keep fulfillers informed of their status, progress, and required actions by using the [[purchase-order-table|Purchase order]] summarization for fulfillers skill in the [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]] application.
+As a fulfiller, summarize purchase orders and keep fulfillers informed of their status, progress, and required actions by using the Purchase order summarization for fulfillers skill in the Now Assist for Common Finance and Supply Chain features application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_fsc\_genai.now\_assist\_fulfiller
 
 ## About this task
 
-You can use these record summarization skill in either Core UI or [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can use these record summarization skill in either Core UI or Source-to-Pay Workspace.
 
 -   In Core UI, the summary appears in a banner in the record record.
 -   In Source-to-Pay Workspace, the summary is generated in the **Details** tab.
@@ -130,8 +130,3 @@ If you want to refresh the summary, select the refresh icon \(\[Omitted image "i
 
 [Using Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-now-assist-apo.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

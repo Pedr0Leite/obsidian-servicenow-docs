@@ -24,13 +24,9 @@ With the sn\_piwb\_hr\_content.admin role, you can activate and configure the ap
 -   **[Activate HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-HRSD-WB.md)**  
 You can activate the Predictive Intelligence Workbench HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] if you have the admin role.
 -   **[HR Predictive Intelligence Workbench notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-notifications.md)**  
-[[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]] includes several email notifications that alert users throughout the use-case model implementation.
+HR Predictive Intelligence Workbench includes several email notifications that alert users throughout the use-case model implementation.
 -   **[Create an HR Predictive Intelligence Workbench user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-user-group.md)**  
-[[hr-piwb-user-group|Create an HR Predictive Intelligence Workbench user group]] and add users or roles to the group to receive email notifications when the use-case model training and testing phase are complete.
+Create an HR Predictive Intelligence Workbench user group and add users or roles to the group to receive email notifications when the use-case model training and testing phase are complete.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-wb.md)
 
-## Related
-
-- [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]]
-- [[hr-piwb-user-group|Create an HR Predictive Intelligence Workbench user group]]

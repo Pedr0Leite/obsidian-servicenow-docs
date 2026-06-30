@@ -14,7 +14,7 @@ breadcrumb: [Integrating with external procurement applications, Procurement, IT
 
 # Domain separation and Asset Management - Procurement Integration
 
-Domain separation is supported for [[am-landing-page|Asset Management]] - [[c_Procurement|Procurement]] Integration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Asset Management - Procurement Integration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Enhanced
 
@@ -55,7 +55,3 @@ However, each procurement integration job is associated with a procurement integ
 
 Service Catalog – Domain Separation \(com.glideapp.servicecatalog.domain\_separation\)
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[c_Procurement|Procurement]]

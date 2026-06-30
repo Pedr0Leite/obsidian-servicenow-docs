@@ -20,7 +20,7 @@ Set up Agile team structures in Enterprise Agile Planning \(EAP\) for teams asso
 
 [Activate Jira configuration in Enterprise Agile Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/activate-jira-configuration-in-eap.md).
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -57,6 +57,3 @@ An Agile structure is defined for Jira Configuration in EAP.
 
 [Start using SPW and EAP with Jira integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/using-eap-with-spw-jira-integrations.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

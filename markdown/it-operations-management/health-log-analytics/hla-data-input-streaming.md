@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Streaming Sources**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Streaming Sources**.
 
     The Streaming Sources page shows all data inputs and the MID Servers that are receiving logs from them.
 
@@ -90,6 +90,3 @@ When the logs are streaming properly, proceed to [map your raw log data](https:/
 
 **Parent Topic:**[Set up data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-manual.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -36,25 +36,17 @@ The configuration session opens with the product you launched as the solution ro
 
 After launching a solution:
 
--   To trigger a configurable product action and add a child configuration, see [[add-configurable-products-solution|Add configurable products to a solution]] .
--   To move between configurations once child configurations are added, see [[navigate-solution|Navigate within a solution]].
+-   To trigger a configurable product action and add a child configuration, see [Add configurable products to a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-configurable-products-solution.md) .
+-   To move between configurations once child configurations are added, see [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md).
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
 
-[[solution-configurations|Solution configurations]]
+[Solution configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-configurations.md)
 
-[[solution-navigation-layout|Solution navigation and layout]]
+[Solution navigation and layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-navigation-layout.md)
 
-[[create-configurable-product-action|Create a configurable product action]]
+[Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md)
 
-## Related
-
-- [[add-configurable-products-solution|Add configurable products to a solution]]
-- [[navigate-solution|Navigate within a solution]]
-- [[cpq-using|Using CPQ]]
-- [[solution-configurations|Solution configurations]]
-- [[solution-navigation-layout|Solution navigation and layout]]
-- [[create-configurable-product-action|Create a configurable product action]]

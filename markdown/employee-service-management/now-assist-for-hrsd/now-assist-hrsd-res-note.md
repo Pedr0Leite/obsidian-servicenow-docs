@@ -30,7 +30,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
 
 ## Procedure
 
-1.  **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**
+1.  **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**
 
 2.  Open an HR case that is assigned to you.
 
@@ -83,7 +83,7 @@ Skip adding resolution notes to the case.
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -113,8 +113,3 @@ Skip adding resolution notes to the case.
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

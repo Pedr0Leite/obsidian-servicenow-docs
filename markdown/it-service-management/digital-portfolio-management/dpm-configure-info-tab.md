@@ -22,11 +22,11 @@ Role required: sn\_dpm.dpm\_admin
 
 ## About this task
 
-Each solution has a **Info** tab that displays information about the solution. For example, for a service, the **Info** tab includes the **General info**, **Offerings**, **[[dpm-personal-portfolio|Personal portfolios]]**, **Service description** sections, and more. You can choose to show or hide each of these sections. Additionally, the **General info** section displays the associated service portfolio, service classification \(technical or business\), phase, status, and more. You can configure the **General info** section to best suit the needs of your organization.
+Each solution has a **Info** tab that displays information about the solution. For example, for a service, the **Info** tab includes the **General info**, **Offerings**, **Personal portfolios**, **Service description** sections, and more. You can choose to show or hide each of these sections. Additionally, the **General info** section displays the associated service portfolio, service classification \(technical or business\), phase, status, and more. You can configure the **General info** section to best suit the needs of your organization.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dpm-landing|Digital Portfolio Management]]** &gt; **DPM Admin Center** &gt; **[[settings-mobile|Settings]]**.
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center** &gt; **Settings**.
 
 2.  Select the **Info** tab for the solution.
 
@@ -36,7 +36,7 @@ Each solution has a **Info** tab that displays information about the solution. F
 
     -   Turn on the toggle key to show each section of the **Info** tab.
     -   Turn off the toggle key to hide each section of the **Info** tab.
-    For example, for Service and offerings, you can show or hide the **Service description**, **General info**, **Offerings**, **Personal portfolios**, **Service scope**, **Business case**, **Service [[c_Contracts|contracts]]**, **Subscribers**, or **Commitments** sections. For Business [[dex-workspace-application-tab|applications]], you can show or hide the **Application description**, **General info**, **Enterprise** or **Personal portfolios** list, **Relationships**, **Contract**, or **Additional information**.
+    For example, for Service and offerings, you can show or hide the **Service description**, **General info**, **Offerings**, **Personal portfolios**, **Service scope**, **Business case**, **Service contracts**, **Subscribers**, or **Commitments** sections. For Business applications, you can show or hide the **Application description**, **General info**, **Enterprise** or **Personal portfolios** list, **Relationships**, **Contract**, or **Additional information**.
 
 4.  Select **Configure** to configure the information displayed in the **General info** section of the **Info** tab.
 
@@ -69,10 +69,3 @@ Each solution has a **Info** tab that displays information about the solution. F
 
 **Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]
-- [[c_Contracts|Contracts]]
-- [[dex-workspace-application-tab|Applications]]

@@ -22,7 +22,7 @@ Role required: sn\_rvw\_feedback.reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "ListsIcon.jpg"\] Alt text: list icon. icon.
 
@@ -82,6 +82,3 @@ Brief summary about the feedback to be discussed in the sidebar discussion.
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

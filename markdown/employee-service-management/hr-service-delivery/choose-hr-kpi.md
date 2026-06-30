@@ -20,21 +20,16 @@ Choose HR KPIs based on your business requirements.
 
 Role required: sn\_hr\_core.case\_writer
 
-**Note:** The [[hr-benchmarks|HR benchmarks]] feature is available by default when the Human Resources Scoped App: Core \[com.sn\_hr\_core\] and Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\] plugins are installed.
+**Note:** The HR benchmarks feature is available by default when the Human Resources Scoped App: Core \[com.sn\_hr\_core\] and Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\] plugins are installed.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Administration** &gt; **Setup**.
 
-2.  Select **Human Resource** to view the list of [[hr-benchmarks-kpi|HR Benchmarks KPIs]].
+2.  Select **Human Resource** to view the list of HR Benchmarks KPIs.
 
 3.  Select KPIs that you need for your organization.
 
     -   To opt out from using a KPI, select **Opt out**.
     -   To modify Key Performance Indicators \(KPIs\) formula according to your requirement and analysis criteria, select **Modify**.
 
-## Related
-
-- [[hr-benchmarks|HR Benchmarks]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-benchmarks-kpi|HR Benchmarks KPIs]]

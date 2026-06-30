@@ -21,7 +21,7 @@ Administrators can assign one or more base system user roles to grant access to 
 -   **[System roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/base-system-roles.md)**  
 Administrators can control access to features and capabilities on a ServiceNow instance by assigning roles to users.
 -   **[Create a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)**  
-[[t_CreateARole|Create a role]] to control access to features and capabilities in applications and modules. The new role doesn’t have access to any application or module until you add other roles to it, or add it to the appropriate applications and modules.
+Create a role to control access to features and capabilities in applications and modules. The new role doesn’t have access to any application or module until you add other roles to it, or add it to the appropriate applications and modules.
 -   **[Audit user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/audit-user-roles.md)**  
 Changes to user roles are tracked in the Audit Roles \[sys\_audit\_role\] table.
 -   **[Delegating roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_DelegateRoles.md)**  
@@ -29,9 +29,5 @@ Administrators can grant users the ability to assign roles within groups. Howeve
 -   **[Time-limited role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/time-limited-role-overview.md)**  
 Time-limited roles give users the defined role during the defined time period.
 
-**Parent Topic:**[[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
+**Parent Topic:**[Configure ServiceNow AI Platform core features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-now-platform-core-features.md)
 
-## Related
-
-- [[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
-- [[t_CreateARole|Create a role]]

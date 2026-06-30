@@ -14,7 +14,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # About Report Templates in TISC
 
-Report templates in TISC help you generate standardized reports for cases and [[threat-intel-landing-page|threat intelligence]] investigations. Use these templates to track ongoing security investigations and communicate threat information to different audiences.
+Report templates in TISC help you generate standardized reports for cases and threat intelligence investigations. Use these templates to track ongoing security investigations and communicate threat information to different audiences.
 
 Use this feature to create different types of report templates. You can apply templates to cases and threat intelligence to track ongoing investigations. The templates help generate reports about threats to your organization.
 
@@ -30,7 +30,7 @@ The following table explains case and threat intelligence report templates that 
 
 |Name|Description|
 |----|-----------|
-|Case Status Report - [[threat-actor|Threat Actor]] Profile|This report provides status about ongoing case investigations related to [[threat-actors|threat actors]]. It helps understand the context and relevance of threats to the organization, adversary behavior, potential goals, IOC enrichment, associated [[threat-intelligence-malware|malware]] and [[tools|tools]], observed TTPs, and differences from existing TTPs.|
+|Case Status Report - Threat Actor Profile|This report provides status about ongoing case investigations related to threat actors. It helps understand the context and relevance of threats to the organization, adversary behavior, potential goals, IOC enrichment, associated malware and tools, observed TTPs, and differences from existing TTPs.|
 |Executive Summary|This report informs senior decision makers about a particular risk. The focus is on executive audiences and strategic problems, explaining why and how rather than what and when. Technical details and appendices are not included.|
 |Post Investigation Summary - Threat Actor Profile|This report provides context and relevance of threats to the organization. It covers adversary behavior, potential goals, IOC enrichment, associated malware and tools, observed TTPs, and differences from existing TTPs.|
 |Threat Intelligence - Alert|An Alert Report is a generic and user-configurable report that lists specific security alerts meeting user-defined criteria. It is often used to manage non-critical notifications.|
@@ -39,10 +39,3 @@ The following table explains case and threat intelligence report templates that 
 
 **Note:** By default, these reports are in the published state and are read-only. Users cannot edit the templates, and analysts cannot generate reports because the templates are turned off.
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]

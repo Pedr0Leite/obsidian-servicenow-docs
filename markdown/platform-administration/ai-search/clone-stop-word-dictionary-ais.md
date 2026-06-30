@@ -26,7 +26,7 @@ Cloning a stop word dictionary copies the source dictionary's settings and all o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Query Settings** &gt; **Dictionaries**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Dictionaries**.
 
 2.  Expand the Stop Word record group if necessary and open the stop word dictionary that you want to clone.
 
@@ -37,11 +37,7 @@ Cloning a stop word dictionary copies the source dictionary's settings and all o
 
 ## Result
 
-The new stop word [[dictionary-form-ais|dictionary form]] opens. All stop word terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
+The new stop word dictionary form opens. All stop word terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
 
 **Parent Topic:**[Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[dictionary-form-ais|Dictionary form]]

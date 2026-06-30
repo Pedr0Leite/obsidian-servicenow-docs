@@ -24,11 +24,11 @@ Role required: it\_demand\_user, it\_demand\_manager
 
 Typically, the stakeholders associated with a demand request have insights into what the requirements are for a demand request to be completed. The demand manager can create requirements from their inputs.
 
-Demand managers use the [[requirement-form|Requirement form]] to describe the requirement and assign an owner who is responsible for making sure that the requirement is met. When a requirement is complex, demand managers can associate planned tasks, such as [[t_CreateAProjectTask|project tasks]], with the requirement. The demand manager assigns and tracks the tasks until they’re complete.
+Demand managers use the Requirement form to describe the requirement and assign an owner who is responsible for making sure that the requirement is met. When a requirement is complex, demand managers can associate planned tasks, such as project tasks, with the requirement. The demand manager assigns and tracks the tasks until they’re complete.
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -52,8 +52,4 @@ Demand managers use the [[requirement-form|Requirement form]] to describe the re
 
     After completing your work on the requirement record, use the breadcrumb navigation to return to the **Requirements** tab.
 
-## Related
 
-- [[requirement-form|Requirement form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_DemandManagement|Demand Management]]

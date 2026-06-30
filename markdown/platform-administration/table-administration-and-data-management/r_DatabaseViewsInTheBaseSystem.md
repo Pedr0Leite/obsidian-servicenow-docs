@@ -18,11 +18,11 @@ Certain views are included in the base system with the Database Views and Databa
 
 |Name|Description|Label|
 |----|-----------|-----|
-|change\_request\_metric|Join change to metric definition to [[c_MetricInstance|metric instance]], creating a view that can be reported on for things like: Changes that were closed by category.|Change Metric|
+|change\_request\_metric|Join change to metric definition to metric instance, creating a view that can be reported on for things like: Changes that were closed by category.|Change Metric|
 |change\_request\_sla|Join change\_request to sla\(task\_sla\), creating a view that can be reported on for things like change request resolved by sla per change category.|Change Request SLA|
 |change\_task\_metric|Join change task to metric definition to metric instance, creating a view that can be reported on for things like: Change tasks that were closed by change state|Change Task Metric|
 |change\_task\_sla|Join change\_task to sla\(task\_sla\), creating a view that can be reported on for things like change tasks resolved by sla.|Change Task SLA|
-|change\_task\_time\_worked|Join change task to task [[c_TimeWorked|time worked]] to pull time worked entries associated with incidents.|Change Task Time Worked|
+|change\_task\_time\_worked|Join change task to task time worked to pull time worked entries associated with incidents.|Change Task Time Worked|
 |incident\_metric|Join incident to metric definition to metric instance creating a view that can be reported on for things like: Incidents that were resolved on the first call by category|Incident Metric|
 |incident\_sla|Join incident to sla\(task\_sla\) to report on things like incidents resolved by sla per incident category.|Incident SLA|
 |incident\_time\_worked|Join incident to task time worked to pull time worked entries associated with incidents.|Incident Time Worked|
@@ -51,12 +51,7 @@ Certain views are included in the base system with the Database Views and Databa
 
 [Joining tables using database views]()
 
-[Displaying function [[hs-results|results]] in a database view]()
+[Displaying function results in a database view]()
 
 [Using disjunctions in complex queries]()
 
-## Related
-
-- [[c_MetricInstance|Metric instance]]
-- [[c_TimeWorked|Time worked]]
-- [[hs-results|Results]]

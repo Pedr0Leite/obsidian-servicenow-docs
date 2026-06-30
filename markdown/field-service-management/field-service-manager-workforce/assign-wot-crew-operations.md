@@ -39,7 +39,7 @@ Key factors for task assignment:
 Task assignment methods:
 
 1.  Manual Assignment: The dispatcher selects the best crew for the task, ensuring their effective dates align with the task window start and end dates. The dispatcher also checks agent availability within the crew based on their territory membership dates.
-2.  Dynamic Assignment: [[dynamic-scheduling|Dynamic Scheduling]] automatically assigns tasks to crews based on factors like crew availability, agent skills, and task requirements. If a suitable crew exists, it is assigned the task; otherwise, a new crew is created. When the dynamically created crew is assigned for a work order task within a territory, the crew membership is updated and appears in the Crew Membership related list of the territory.
+2.  Dynamic Assignment: Dynamic Scheduling automatically assigns tasks to crews based on factors like crew availability, agent skills, and task requirements. If a suitable crew exists, it is assigned the task; otherwise, a new crew is created. When the dynamically created crew is assigned for a work order task within a territory, the crew membership is updated and appears in the Crew Membership related list of the territory.
 
 ## Procedure
 
@@ -88,9 +88,5 @@ The Confirm Assignment dialog box is displayed.
 </table>
 ## Result
 
-The task is assigned to the crew. All crew members receive a push notification that the work order task is assigned. The Task Assignees table is added to the work order task for more information see, [[task-assignees-table|Task assignees table for crew members or equipment]].
+The task is assigned to the crew. All crew members receive a push notification that the work order task is assigned. The Task Assignees table is added to the work order task for more information see, [Task assignees table for crew members or equipment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/task-assignees-table.md).
 
-## Related
-
-- [[task-assignees-table|Task assignees table for crew members or equipment]]
-- [[dynamic-scheduling|Dynamic scheduling]]

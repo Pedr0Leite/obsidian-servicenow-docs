@@ -21,11 +21,8 @@ The Service Test Management product enables the you with the ability to precisel
 ## Additional resources
 
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Technology Product Support case features at [Now Create](https://learning.servicenow.com/nowcreate).
--   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [[tmt-api-reference|TMF APIs for TMT]].
+-   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [TMF APIs for TMT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-api-reference.md).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Technology Product Support case users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[tmt-api-reference|TMF APIs for TMT]]

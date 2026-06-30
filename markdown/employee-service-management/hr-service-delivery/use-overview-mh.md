@@ -22,11 +22,11 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
-2.  Navigate to **Your team** &gt; **[[manager-hub-overview|Manager Hub]]**.
+2.  Navigate to **Your team** &gt; **Manager Hub**.
 
 3.  View the time zones of employees across the globe.
 
@@ -54,7 +54,4 @@ Role required: sn\_mh.manager\_hub\_user
 
     For more details, select **All team members**. You will be navigated to the **Team members** tab.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]

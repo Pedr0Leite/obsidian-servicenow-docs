@@ -12,7 +12,7 @@ breadcrumb: [Engagement Messenger reference, Reference, Customer Service Managem
 
 # Knowledge feature configuration
 
-Understand the configuration and related [[migration-lists|lists]] of the Knowledge feature in Engagement Messenger to configure the field values.
+Understand the configuration and related lists of the Knowledge feature in Engagement Messenger to configure the field values.
 
 <table id="table_opq_wb1_g4b"><thead><tr><th>
 
@@ -67,7 +67,7 @@ Option for enabling your customer to copy the permalink of a knowledge article.
 </td></tr></tbody>
 </table>\[Omitted image "em-knowledge-feature-widget.png"\] Alt text: Knowledge feature widget displaying a list of featured articles with the article count set to 2.
 
-Note the following [[gamification-components-points|points]] while you are configuring the Knowledge feature on your Engagement Messenger module:
+Note the following points while you are configuring the Knowledge feature on your Engagement Messenger module:
 
 -   To add knowledge bases to your messenger module, verify that the knowledge\_admin role is manually assigned to the user with Engagement Messenger admin \[sn\_csm\_ec.ec\_admin\] role.
 -   If the knowledge base that you added to the Engagement Messenger has no articles, then the homepage of the messenger UI does not display any knowledge article widget even when you select a value for the **Show articles by** and **Article count** fields.
@@ -80,7 +80,3 @@ Note the following points regarding the live preview of Knowledge feature. Howev
 
 -   Changing the value of the **Show articles by** field refreshes only the title and not the content in the messenger preview.
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[gamification-components-points|Points]]

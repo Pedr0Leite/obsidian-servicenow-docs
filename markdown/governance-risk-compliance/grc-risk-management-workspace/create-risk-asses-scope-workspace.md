@@ -26,7 +26,7 @@ Creating a risk assessment scope ensures that assessments are effectively carrie
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. icon.
 
@@ -34,14 +34,14 @@ Creating a risk assessment scope ensures that assessments are effectively carrie
 
 4.  Select **New**.
 
-    The Risk assessment scope playbook opens and initiates the first activity for defining the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] and assessable entity, which is the Scope definition stage.
+    The Risk assessment scope playbook opens and initiates the first activity for defining the risk assessment methodology \(RAM\) and assessable entity, which is the Scope definition stage.
 
 5.  On the Scope definition activity card, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
     |Risk assessment methodology|Risk assessment methodology \(RAM\) that you use to assess risks.|
-    |Assessable entity|Entities associated with the selected [[entity-class-in-risk-ws|entity classes]] defined in the **Applicable entity classes** field on the RAM. The value of this field changes based on the entity classes specified in your selected RAM. Only those entities that belong to the selected classes are displayed in this field.|
+    |Assessable entity|Entities associated with the selected entity classes defined in the **Applicable entity classes** field on the RAM. The value of this field changes based on the entity classes specified in your selected RAM. Only those entities that belong to the selected classes are displayed in this field.|
     |Owner|Owner of the entity. This field is automatically set based on the assessable entity.|
 
 6.  Select **Continue**.
@@ -188,8 +188,3 @@ Number of days within which the assessment should be completed after it is initi
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[entity-class-in-risk-ws|Entity classes]]

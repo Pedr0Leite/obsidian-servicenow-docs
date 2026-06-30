@@ -14,7 +14,7 @@ breadcrumb: [Explore, Cloud Account Management, ITOM Cloud Accelerate, IT Operat
 
 # About policies in Cloud Account Management
 
-[[cam-landing|Cloud Account Management]] provides policy-driven rules to automate account provisioning, approvals, and security. These policies improve governance, control costs, enhance security, and promote sustainability in cloud operations. Regular reviews promote consistency and efficiency in managing cloud infrastructure.
+Cloud Account Management provides policy-driven rules to automate account provisioning, approvals, and security. These policies improve governance, control costs, enhance security, and promote sustainability in cloud operations. Regular reviews promote consistency and efficiency in managing cloud infrastructure.
 
 Cloud Account Management provides policies that you can use for the following purposes:
 
@@ -31,13 +31,9 @@ Cloud Account Management provides policies that you can use for the following pu
 
 ## Benefits of Cloud Account Management request policies
 
--   Improved governance: Promotes consistent policies across all [[cloud-accounts|cloud accounts]].
+-   Improved governance: Promotes consistent policies across all cloud accounts.
 -   Cost savings: Helps prevent overspending by managing accounts efficiently.
 -   Enhanced security: Includes security controls as part of performance and availability.
 
 You can automate the account approval process, budget approval process, and configuration assignment process. To help promote consistency with the cloud subscription account creation process, regularly review and update your policies. For more information, see [Review request policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-pace-policy.md).
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]

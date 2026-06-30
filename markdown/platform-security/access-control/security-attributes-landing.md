@@ -14,7 +14,7 @@ breadcrumb: [Access Management]
 
 # Security Attributes
 
-Security Attributes offer a flexible alternative to [[sc-access-control|access control]] lists.
+Security Attributes offer a flexible alternative to access control lists.
 
 ## Get started
 
@@ -36,7 +36,3 @@ Security Attributes offer a flexible alternative to [[sc-access-control|access c
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-access-control|Access control]]

@@ -12,11 +12,11 @@ breadcrumb: [IT Asset Management content request process, IT Asset Management]
 
 # Create IT Asset Management content request
 
-Create request for new content via the Service Catalog application for the [[it-asset-management|IT Asset Management]] content service.
+Create request for new content via the Service Catalog application for the IT Asset Management content service.
 
 ## Before you begin
 
-Content request can be made for the [[c_SAMContentService|Software Asset Management content service]] and the [[ham-landing-page|Hardware Asset Management]] content service.
+Content request can be made for the Software Asset Management content service and the Hardware Asset Management content service.
 
 Role required: customer user or partner user
 
@@ -26,7 +26,7 @@ Role required: customer user or partner user
 
 2.  Navigate to **Automation Store** &gt; **Service Catalog**.
 
-3.  Search and select the catalog item **[[am-landing-page|Asset Management]] Content Request**.
+3.  Search and select the catalog item **Asset Management Content Request**.
 
     On the Catalog Item form, the **Catalog Request number \(CR\)**, **Requested by**, and the **Company** fields populate automatically.
 
@@ -95,9 +95,4 @@ Attach an excel sheet with the needed information about the content requested.
 
     The default filter only shows your active requests. If you want to see all your requests \(including closed ones\), you need to adjust the filter.
 
-## Related
 
-- [[it-asset-management|IT Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]

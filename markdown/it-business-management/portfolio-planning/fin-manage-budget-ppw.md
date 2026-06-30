@@ -24,7 +24,7 @@ Allocate, manage, and approve budget for your planning items. Lean budgeting ena
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and open a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and open a planning item.
 
 2.  Select the **Financials** tab.
 
@@ -51,6 +51,3 @@ Allocate, manage, and approve budget for your planning items. Lean budgeting ena
 
 Budget widget is updated to reflect the latest approved budget. Project Manager can view the approved budget and compare it with the planned costs using the **budget vs cost** view by cost type.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

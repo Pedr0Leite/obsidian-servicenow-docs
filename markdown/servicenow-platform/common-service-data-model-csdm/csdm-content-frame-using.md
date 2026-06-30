@@ -22,7 +22,7 @@ Navigate to the modules that assist you in implementing and managing the CSDM do
 
 \[Omitted image "csdm-nav-pane-v5.png"\] Alt text: Navigating to CSDM modules.
 
--   **[[csdm-data-foundations-dashboard|CSDM Data Foundations Dashboard]]**
+-   **CSDM Data Foundations Dashboard**
 
     The CSDM Data Foundations dashboard displays key CSDM indicators on a single page to help you get the full benefit from your ServiceNow AI Platform products. See [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-data-foundations-dashboard.md).
 
@@ -72,6 +72,3 @@ The Service instance dashboard enables you to monitor and manage service instanc
 
 **Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 
-## Related
-
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

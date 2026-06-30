@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Monitor tool in Upgrade Console, Upgrade Console tools, Use
 
 # Monitor an upgrade to an instance
 
-Monitor the progress of an ongoing upgrade in an instance with the Upgrade Monitor. When the upgrade is done, you can view a summary of the [[hs-results|results]] on the [[uc-complete-summary|Upgrade Summary Report]].
+Monitor the progress of an ongoing upgrade in an instance with the Upgrade Monitor. When the upgrade is done, you can view a summary of the results on the Upgrade Summary Report.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
 
     **Note:** If an upgrade is in progress, the user is automatically directed to the Upgrade Monitor page.
@@ -45,15 +45,9 @@ Role required: admin
 From the Upgrade Summary Report, [resolve any conflicts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-process-skipped-records.md) that prevented the system from upgrading records.
 
 -   **[Upgrade Progress](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-monitor-progress.md)**  
-When an upgrade is underway, [[uc-monitor-progress|Upgrade Progress]] displays progress bars and other information to help you monitor the process.
+When an upgrade is underway, Upgrade Progress displays progress bars and other information to help you monitor the process.
 -   **[Upgrade Summary Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-complete-summary.md)**  
 The Upgrade Summary report summarizes the actions taken, provides tools to resolve conflicts between customizations and changes that are part of the upgrade, and provides information to help estimate time for upgrades to other instances.
 
 **Parent Topic:**[Upgrade Monitor tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-monitor-tool.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[admin-center-intro|Admin Center]]
-- [[uc-monitor-progress|Upgrade Progress]]

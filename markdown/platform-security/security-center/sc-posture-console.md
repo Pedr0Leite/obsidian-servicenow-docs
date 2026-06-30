@@ -18,7 +18,7 @@ Improve your ability to identify, respond to, and recover from security threats 
 
 \[Omitted image "sc-posture-console-1.png"\] Alt text: Security posture console
 
-The security posture console is divided into sections to provide information about [[best-practices|best practices]] and [[scc-sec-posture-dashboard|security posture dashboards]]. Find additional details by selecting any of the cards in these sections. You can also use the bar at the top of the page to navigate between this page and the best practices and security posture dashboards section of [[sec-center-v2|Security Center]].
+The security posture console is divided into sections to provide information about best practices and security posture dashboards. Find additional details by selecting any of the cards in these sections. You can also use the bar at the top of the page to navigate between this page and the best practices and security posture dashboards section of Security Center.
 
 ## Best Practices
 
@@ -26,7 +26,7 @@ This section displays the count of best practices, and how many you have applied
 
 ## Security posture dashboards
 
-This section displays the number of active [[integration-accounts|integration accounts]], active privileged accounts, and [[users|users]] that have never logged in.
+This section displays the number of active integration accounts, active privileged accounts, and users that have never logged in.
 
 -   **Active integration accounts**
 
@@ -34,7 +34,7 @@ This section displays the number of active [[integration-accounts|integration ac
 
 -   **Active privileged accounts**
 
-    [[privileged-users|Privileged users]] are users who have been assigned additional roles by admins to access the features like [[c_HighSecuritySettings|High Security Settings]], Import, and Portal users.
+    Privileged users are users who have been assigned additional roles by admins to access the features like High Security Settings, Import, and Portal users.
 
 -   **Never logged-in users**
 
@@ -43,28 +43,16 @@ This section displays the number of active [[integration-accounts|integration ac
 
 ## My Security Tasks
 
-View the most urgent [[security-task-manager|Security Tasks]] assigned to you. Select a task to view its details, or select **See all Security Tasks** to view a complete list of Security Tasks.
+View the most urgent Security Tasks assigned to you. Select a task to view its details, or select **See all Security Tasks** to view a complete list of Security Tasks.
 
 ## Additional resources
 
 Use the additional resources section on the edge of the screen to navigate to documentation and videos relevant to learning Security Center as well as information on managing instance security.
 
 -   **[Security Best Practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-best-practices-manager.md)**  
-Use [[security-best-practices-manager|Security Best Practices]] to implement privacy and security [[sc-configuration|configuration]] tasks on your ServiceNow instance.
+Use Security Best Practices to implement privacy and security configuration tasks on your ServiceNow instance.
 -   **[Security posture dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/scc-sec-posture-dashboard.md)**  
 Use the customizable single and multi-instance security posture dashboards to monitor your security KPIs. These dashboards consolidate the important information regarding the security of your instances in a single location and include a number of base system dashboard widgets.
 
 **Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[best-practices|Best Practices]]
-- [[scc-sec-posture-dashboard|Security posture dashboards]]
-- [[sec-center-v2|Security Center]]
-- [[integration-accounts|Integration Accounts]]
-- [[users|Users]]
-- [[privileged-users|Privileged Users]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[security-task-manager|Security Tasks]]
-- [[security-best-practices-manager|Security Best Practices]]
-- [[sc-configuration|Configuration]]

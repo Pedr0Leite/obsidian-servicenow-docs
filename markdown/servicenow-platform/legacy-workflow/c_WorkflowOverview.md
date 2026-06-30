@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow AI Platform Additional Capabilities, Extend ServiceNow A
 
 # Classic Workflow
 
-Workflow is a legacy application that provided a drag-and-drop interface for automating multi-step processes across the platform. Each workflow consists of a sequence of activities, such as generating records, notifying users of pending approvals, or running scripts. The graphical [[workflow-editor|Workflow Editor]] represents workflows visually as a type of flowchart. It shows activities as boxes labeled with information about that activity and transitions from one activity to the next as lines connecting the boxes.
+Workflow is a legacy application that provided a drag-and-drop interface for automating multi-step processes across the platform. Each workflow consists of a sequence of activities, such as generating records, notifying users of pending approvals, or running scripts. The graphical Workflow Editor represents workflows visually as a type of flowchart. It shows activities as boxes labeled with information about that activity and transitions from one activity to the next as lines connecting the boxes.
 
 **Important:** As of the Zurich release, new customers no longer receive the legacy workflows created and published by ServiceNow, Inc.. All legacy workflow functionality has been replaced by Workflow Studio content. Only customers who upgraded from prior versions retain the ability to use and edit existing legacy workflows. While all customers retain the ability to create legacy workflows, you are strongly encouraged to instead use Workflow Studio to create process automation content. Only Workflow Studio will receive new features and enhancements.
 
@@ -69,7 +69,3 @@ Workflow is a legacy application that provided a drag-and-drop interface for aut
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workflow-editor|Workflow editor]]

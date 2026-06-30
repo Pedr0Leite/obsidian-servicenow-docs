@@ -12,7 +12,7 @@ breadcrumb: [Generating Microsoft Word reports using Document designer, Manage, 
 
 # Create Content configurations
 
-[[create-content-config-for-temp-config|Set up the content configurations]] in the Template Configurations module to define the data you want to view or fetch when creating a report template. You can configure it to display a list of records or aggregated data, such as a list of remediation tasks or top priority issues. You can fetch up to 200 records from any table.
+Set up the content configurations in the Template Configurations module to define the data you want to view or fetch when creating a report template. You can configure it to display a list of records or aggregated data, such as a list of remediation tasks or top priority issues. You can fetch up to 200 records from any table.
 
 ## Before you begin
 
@@ -123,12 +123,7 @@ To specify table or data that you want to insert in the content block as a table
 **Related topics**  
 
 
-[[create-reporting-configurations|Create reporting configurations]]
+[Create reporting configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-reporting-configurations.md)
 
-[[download-manifest-file|Download the manifest file]]
+[Download the manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-manifest-file.md)
 
-## Related
-
-- [[create-reporting-configurations|Create reporting configurations]]
-- [[download-manifest-file|Download the manifest file]]
-- [[create-content-config-for-temp-config|Set up the content configurations]]

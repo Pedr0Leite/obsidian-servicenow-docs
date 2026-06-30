@@ -34,7 +34,7 @@ Ensure the scope is set to **Service Applicant Program Management**.
 
 4.  Enter the details of your scoring framework in the **Description** field.
 
-5.  Select the checkbox next to **Active** to make the framework available for use with the [[psds-rsp-overview|Reviewer service portal]].
+5.  Select the checkbox next to **Active** to make the framework available for use with the Reviewer service portal.
 
 6.  Select **Submit**.
 
@@ -43,7 +43,7 @@ Ensure the scope is set to **Service Applicant Program Management**.
 
 [Create a merit review scoring framework attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-create-scoring-framework.md)
 
-**Parent Topic:**[[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]]
+**Parent Topic:**[Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-scoring-framework.md)
 
 ## Create merit review scoring framework attributes for a Grant Program in the Reviewer Service Portal
 
@@ -132,10 +132,5 @@ Role required: admin
 
 ### What to do next
 
-[[psds-config-gmp-create-rubric|Configure a merit review scoring rubric for a grants proposal]]
+[Configure a merit review scoring rubric for a grants proposal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-create-rubric.md)
 
-## Related
-
-- [[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]]
-- [[psds-config-gmp-create-rubric|Configure a merit review scoring rubric for a grants proposal]]
-- [[psds-rsp-overview|Reviewer Service Portal]]

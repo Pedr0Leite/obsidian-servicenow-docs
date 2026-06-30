@@ -38,7 +38,7 @@ Work order task bundles are groups of work order tasks created manually by a dis
 
 ## Creating bundles
 
-Dispatchers create task bundles in [[dispatcher-activities|Dispatcher Workspace]]. You can combine any number of work-order tasks into a bundle. You can group tasks by various criteria, such as a territory or an agent’s route.
+Dispatchers create task bundles in Dispatcher Workspace. You can combine any number of work-order tasks into a bundle. You can group tasks by various criteria, such as a territory or an agent’s route.
 
 When a bundle is created, a work order task and work order number are assigned. Bundles must be assigned to an agent after they’re created.
 
@@ -84,11 +84,11 @@ Like work order tasks, work order task bundles can be optimized by route, schedu
 
 -   **Dynamic scheduling**
 
-    Dynamic scheduling automatically schedules work order tasks and work order tasks bundles to agents. For more information, see [[dynamic-scheduling|Dynamic scheduling]].
+    Dynamic scheduling automatically schedules work order tasks and work order tasks bundles to agents. For more information, see [Dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md).
 
     To ensure dynamic bundling runs before dynamic scheduling, admins can enable the **Dynamic Bundling before Dynamic Scheduling**\(**com.snc.dynamic.scheduling.bundle\_before\_scheduling**\) property.
 
--   **[[fsm-task-recommendation|Intelligent Task Recommendation]]**
+-   **Intelligent Task Recommendation**
 
     Task recommendations only show for the task bundle, not for subtasks within a bundle.
 
@@ -110,8 +110,4 @@ Like work order tasks, work order task bundles can be optimized by route, schedu
 
     Task bundling considers the agent's start and end locations from the **Resource Schedule Attributes** table for the given day.
 
-## Related
 
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]

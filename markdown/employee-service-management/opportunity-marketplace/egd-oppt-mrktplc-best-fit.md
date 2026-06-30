@@ -14,7 +14,7 @@ breadcrumb: [Explore, Opportunity Marketplace, Hiring Experiences, HR Service De
 
 # Opportunity Marketplace best fit recommendations
 
-Based on your current roles, aspirations, and skills [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \(OPM\) recommends opportunities for you.
+Based on your current roles, aspirations, and skills Opportunity Marketplace \(OPM\) recommends opportunities for you.
 
 ## Based on your current role
 
@@ -42,12 +42,8 @@ You can read more about best fit recommendations and match analysis in these top
 
 -   [Career tab in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/manage-skills-profile.md)
 
-    View, update, and manage all aspects of your career using the Career tab in [[emp-slate-employee-profile|Employee Profile]]. Opportunity Marketplace looks at to skills to identify opportunities for you.
+    View, update, and manage all aspects of your career using the Career tab in Employee Profile. Opportunity Marketplace looks at to skills to identify opportunities for you.
 
 
 **Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[emp-slate-employee-profile|Employee profile]]

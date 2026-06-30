@@ -14,7 +14,7 @@ breadcrumb: [Use, Individual Life Claims, Exploring insurance claims application
 
 # Create an ad-hoc task on a claim
 
-Create a task in a [[individual-life-claims-landing-page|Individual Life Claims]] case to help prioritize, check the case progress, and plan your claim work. An example is that you can request additional supporting documentation.
+Create a task in a Individual Life Claims case to help prioritize, check the case progress, and plan your claim work. An example is that you can request additional supporting documentation.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create additional tasks as needed on a claim by using the **Add task** b
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Create a task from the **claim workspace** tab in a case or from the tasks list.
 
@@ -85,7 +85,3 @@ After a task is created, the task can move to the following statuses depending o
 -   Awaiting info: A task assignee selects **Awaiting info**.
 -   Closed complete: A task assignee selects **Close** to close the task.
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-overview|Financial Services]]

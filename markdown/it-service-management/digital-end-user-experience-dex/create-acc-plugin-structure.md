@@ -14,7 +14,7 @@ breadcrumb: [Creating and executing a PowerShell script-based remedial action, D
 
 # Create an ACC plugin package
 
-Create an Agent Client Collector \(ACC\) plugin package that includes the PowerShell script defining the [[remedial-action|remedial action]], a Ruby script, and an allowlist to enable execution of the remedial action on an endpoint device.
+Create an Agent Client Collector \(ACC\) plugin package that includes the PowerShell script defining the remedial action, a Ruby script, and an allowlist to enable execution of the remedial action on an endpoint device.
 
 ## Before you begin
 
@@ -127,7 +127,7 @@ Role required: admin
 
         If the PowerShell script is configured to accept input parameters from the ServiceNow instance, the Ruby script passes these parameters to the PowerShell script during execution.
 
-5.  Create an allowlist file and specify the Ruby script permitted for execution on endpoint [[dex-workspace-devices-tab|devices]].
+5.  Create an allowlist file and specify the Ruby script permitted for execution on endpoint devices.
 
     1.  In the `allowlist` sub-folder, create an allowlist JSON file.
 
@@ -144,7 +144,3 @@ Role required: admin
 
 **Parent Topic:**[Creating and executing a PowerShell script-based remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-ps.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-devices-tab|Devices]]

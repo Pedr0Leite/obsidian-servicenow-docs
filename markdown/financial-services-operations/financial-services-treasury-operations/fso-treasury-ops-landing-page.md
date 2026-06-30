@@ -14,7 +14,7 @@ breadcrumb: [Banking applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Treasury Operations
 
-The ServiceNow® Financial Services Treasury Operations application is a solution in [[fso-overview|Financial Services]] Operations that enables financial organizations to digitize the end-to-end onboarding of treasury products through automated workflows.
+The ServiceNow® Financial Services Treasury Operations application is a solution in Financial Services Operations that enables financial organizations to digitize the end-to-end onboarding of treasury products through automated workflows.
 
 ## Request apps on the Store
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: [[configure-fso-treasury-ops|Configure Financial Services Treasury Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/configure-fso-treasury-ops.md)
+[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: Configure Financial Services Treasury Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/configure-fso-treasury-ops.md)
 
 </td><td>
 
@@ -46,8 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[configure-fso-treasury-ops|Configure Financial Services Treasury Operations]]

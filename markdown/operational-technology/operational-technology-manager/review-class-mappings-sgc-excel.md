@@ -14,11 +14,11 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # Review class mappings
 
-Review and update the class mappings available for the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]].
+Review and update the class mappings available for the Service Graph Connector for Microsoft Excel.
 
 ## Before you begin
 
--   Ensure that the [[industrial-core-plugin|Industrial Core plugin]] is installed so you can view the class mapping tables available.
+-   Ensure that the Industrial Core plugin is installed so you can view the class mapping tables available.
 -   Role required: admin or cmdb\_ot\_admin
 
 ## About this task
@@ -85,7 +85,3 @@ When checked, the class mapping is set to **Active**.
 </table>
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[industrial-core-plugin|Industrial Core plugin]]

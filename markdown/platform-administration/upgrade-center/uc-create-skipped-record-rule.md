@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Administration** &gt; **Skipped Record Rules Editor**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Administration** &gt; **Skipped Record Rules Editor**.
 
     A list of available rules shows up.
 
@@ -115,6 +115,3 @@ You can now run the skipped record rules either automatically during an upgrade 
 
 [Execute a skipped record rule]()
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

@@ -14,21 +14,21 @@ breadcrumb: [User administration, Configure core features, Administer the Servic
 
 # Exploring user administration
 
-Learn more about [[c_UserAdministration|user administration]] for your instance.
+Learn more about user administration for your instance.
 
 ## Overview
 
-[[ua-creating-users|Creating users]], groups, and roles provide a flexible and scalable way to manage access to features on the ServiceNow AI Platform. By creating user accounts, assigning users to groups, and defining roles and permissions, administrators can ensure that users have the appropriate level of access to applications and data. This enables organizations to control access to sensitive data, maintain conformance with regulatory requirements, and improve overall security. Additionally, users, groups, and roles can be easily managed and modified over time as organizational needs change.
+Creating users, groups, and roles provide a flexible and scalable way to manage access to features on the ServiceNow AI Platform. By creating user accounts, assigning users to groups, and defining roles and permissions, administrators can ensure that users have the appropriate level of access to applications and data. This enables organizations to control access to sensitive data, maintain conformance with regulatory requirements, and improve overall security. Additionally, users, groups, and roles can be easily managed and modified over time as organizational needs change.
 
 ## Work flow
 
 Subscriptions, users, groups, and roles work together to help you define who can access features on your instance.
 
-1.  [[subscription-management-landing-page-v2|Subscription Management]]
+1.  [Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-landing-page-v2.md)
 
     Understand your subscriptions. Subscription management enables you to manage your subscriptions proactively and monitor subscription usage on your instances.
 
-    Subscriptions may include per-user subscriptions. For more information, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]].
+    Subscriptions may include per-user subscriptions. For more information, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md).
 
 2.  [Creating users, companies, and departments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/using-user-administration.md)
 
@@ -50,11 +50,11 @@ Subscriptions, users, groups, and roles work together to help you define who can
 
 5.  [Monitoring instance usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/usage-analytics-module-subscription.md)
 
-    Users with the admin or usage\_admin role can view the **Application usage overview** and [[servicenow-store|ServiceNow Store]] **usage overview** dashboards to track instance usage.
+    Users with the admin or usage\_admin role can view the **Application usage overview** and ServiceNow Store **usage overview** dashboards to track instance usage.
 
 6.  [Monitoring user activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/user-admin-tools-landing.md)
 
-    Users with the admin role can impersonate users, manage user sessions, and leverage [[c_NonInteractiveSessions|non-interactive sessions]].
+    Users with the admin role can impersonate users, manage user sessions, and leverage non-interactive sessions.
 
 
 \[Omitted image "users-groups-roles.png"\] Alt text: Create users and add them to groups. Create and assign roles to both users and groups.
@@ -65,7 +65,7 @@ Users can configure many UI features. Some examples include the number of rows p
 
 ## User groups
 
-A group is a set of users who share a common purpose. Groups may perform tasks such as approving change requests, resolving incidents, receiving email [[notifications|notifications]], or performing work order tasks. Any business rules, assignment rules, [[base-system-roles|system roles]], or attributes that refer to the group apply to all group members automatically. Users with the user\_admin role can create and edit groups.
+A group is a set of users who share a common purpose. Groups may perform tasks such as approving change requests, resolving incidents, receiving email notifications, or performing work order tasks. Any business rules, assignment rules, system roles, or attributes that refer to the group apply to all group members automatically. Users with the user\_admin role can create and edit groups.
 
 When possible, simplify user administration by assigning roles to groups. Create groups that contain all the roles necessary for specific personas, and then assign users to those groups.
 
@@ -87,13 +87,3 @@ When possible, simplify user administration by assigning roles to groups. Create
 
 Role records are stored in the Roles \[sys\_user\_role\] table.
 
-## Related
-
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[c_UserAdministration|User administration]]
-- [[ua-creating-users|Creating users]]
-- [[servicenow-store|ServiceNow Store]]
-- [[c_NonInteractiveSessions|Non-interactive sessions]]
-- [[notifications|Notifications]]
-- [[base-system-roles|System roles]]

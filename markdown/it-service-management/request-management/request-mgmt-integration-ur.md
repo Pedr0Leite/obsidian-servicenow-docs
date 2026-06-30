@@ -14,7 +14,7 @@ breadcrumb: [Configure, Request Management, IT Service Management]
 
 # Request Management integration with Universal Request
 
-Integration of [[c_RequestManagement|Request Management]] with the Universal Request application extends the capabilities of Universal Request and enables your employees and agents to create a universal request by submitting a request from a catalog item or record producer. This integration provides a consistent ticketing experience and facilitate inter-department request transfers.
+Integration of Request Management with the Universal Request application extends the capabilities of Universal Request and enables your employees and agents to create a universal request by submitting a request from a catalog item or record producer. This integration provides a consistent ticketing experience and facilitate inter-department request transfers.
 
 **Note:** To use this capability, enable the **sn\_uni\_req.com.snc.ur.request\_integration** property under Universal Request properties in the Universal Request application. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/ur-properties.md).
 
@@ -25,7 +25,7 @@ Configure the catalog item or record producer to create a universal request. The
 The integration enables you to perform the following actions:
 
 -   Create a request directly from the Universal Request application using the **Create Request** option.
--   [[req-transfer-ur|Transfer a request to another department]] or back to the Universal Request queue by using the **Transfer** option.
+-   Transfer a request to another department or back to the Universal Request queue by using the **Transfer** option.
 -   Configure a catalog item as Universal Request and automatically associate the request as a primary ticked for the universal request. For more information, see [Configure a catalog item or record producer to create a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-ur-recordproducer.md).
 -   View all the associated requests and request items as a related list for a universal request.
 -   Employees can view the details related to their Universal Request from Employee Center.
@@ -45,7 +45,3 @@ Transfer a request to another department with or without resolution to fulfill t
 
 **Parent Topic:**[Configuring Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/configuring-request-management.md)
 
-## Related
-
-- [[c_RequestManagement|Request Management]]
-- [[req-transfer-ur|Transfer a request to another department]]

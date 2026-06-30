@@ -22,7 +22,7 @@ Role required: admin, sn\_cbs.admin
 
 1.  Navigate to **Admin** &gt; **Admin Home**.
 
-2.  On the [[cbs-landing|Core Business Suite]] Foundation card, select **View product overview**.
+2.  On the Core Business Suite Foundation card, select **View product overview**.
 
 3.  In the configuration insights section, select **Configure**.
 
@@ -99,9 +99,5 @@ Role required: admin, sn\_cbs.admin
     -   To create Portal or Workspace notification, see [Trigger conditions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/notif-trigger-form.md).
     -   After configuring notifications, select **Mark as configured**.
 
-**Parent Topic:**[[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
+**Parent Topic:**[Configure Core Business Suite using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-cbs-using-guided-setup.md)
 
-## Related
-
-- [[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
-- [[cbs-landing|Core Business Suite]]

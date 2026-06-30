@@ -38,7 +38,7 @@ You can subscribe different entities to a service offering. This data is then us
 
 ## Technical service offerings
 
-Technical service offerings can be shown as inherited relationships to business services and offerings. They are not included in metric [[c_Models|models]] and do not use the weighting model.
+Technical service offerings can be shown as inherited relationships to business services and offerings. They are not included in metric models and do not use the weighting model.
 
 ## Re-parenting service offering types
 
@@ -52,7 +52,7 @@ You can change a service offering parent from one type of service to another. Fo
 ## Service offering topics in this section
 
 -   **[View a service offering in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-view-service-offering.md)**  
-View service offerings in Service Portfolio Management to find offerings that add value to your organization and external users. You can also view service offerings in the [[service-builder|Service Builder]] application.
+View service offerings in Service Portfolio Management to find offerings that add value to your organization and external users. You can also view service offerings in the Service Builder application.
 -   **[Create a service offering in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/create-or-mod-SPM2-service-offerings.md)**  
 Create service offerings to define services, document them, track performance against defined availability commitments, and relay the performance information in real time to your end users.
 -   **[Add a commitment to a service offering in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/define-SPM2-service-commitments.md)**  
@@ -64,14 +64,9 @@ Subscribe users to a service offering so they can order it from the catalog. You
 -   **[Create catalog items for service offering subscribers in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-create-catalog-items.md)**  
 As a service owner or service offering subscriber, you can create one or more catalog items for your service regardless of the offering phase or status. You can also relate an existing catalog item to a service offering.
 -   **[Reporting for services and service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-reporting.md)**  
-See what's impacting your services and service offerings and report on them by using related list information in [[SPM2-landing-page|Service Portfolio Management]].
+See what's impacting your services and service offerings and report on them by using related list information in Service Portfolio Management.
 -   **[Service Portfolio Management service offering price](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-set-service-offer-price.md)**  
 Service offerings inherit the pricing structure of the associated parent service. If the price model for each service offering in Service Portfolio Management is defined in the parent service as per unit, then each service offering must also have an associated price unit. The actual price for that unit is established in the service offering record.
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]

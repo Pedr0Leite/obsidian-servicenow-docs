@@ -18,7 +18,7 @@ Currency values can be converted to other currencies when stored and accessed.
 
 Conversions can happen in these situations.
 
--   The currency value converts to the [[reference-email-admin|reference]] currency when stored, whether on insert or update. The reference currency value is saved as well as the currency value.
+-   The currency value converts to the reference currency when stored, whether on insert or update. The reference currency value is saved as well as the currency value.
 -   The currency value converts to the user’s session currency for display.
 -   The value entered into a filter converts to the reference currency using the currency specified in the filter.
 
@@ -29,7 +29,7 @@ A currency conversion from one currency to another involves two rates.
 -   Actual: In the Exchange Rate table, each record contains the conversion rate from a given currency to the Euro.
 -   Expected: In the Exchange Rate table, each record contains the conversion rate from the Euro to the given currency.
 
-Whenever you perform a conversion, it uses the latest conversion rates. Therefore, calculations can potentially yield unexpected [[hs-results|results]]. For example:
+Whenever you perform a conversion, it uses the latest conversion rates. Therefore, calculations can potentially yield unexpected results. For example:
 
 -   Different currency values can have different rates applied to them while storing the reference currency value. Therefore, aggregation can combine values at different rates and convert back at another rate.
 -   A filter value is converted at current rates while the values it filters in the database can be converted at different rates. A filter for $100 at today's rate can match a value of $99 obtained at yesterday’s rates.
@@ -43,7 +43,3 @@ All currency conversions are based on the rates stored in the Exchange Rate tabl
 
 **Parent Topic:**[Setting up defaults required for standard currency use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/setting-up-standard-currency-defaults.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

@@ -14,14 +14,14 @@ breadcrumb: [Explore, Contract Management Pro, Legal and Contract Operations, Em
 
 # Optimizing Sales Customer Relationship Management through Contract Lifecycle Automation
 
-Sales Customer Relationship Management integration with [[cncore-cmpro-landing-page|Contract Management Pro]] enables seamless integration between sales professionals and legal teams by enabling sales agents to create legal sales contracts from a quote.
+Sales Customer Relationship Management integration with Contract Management Pro enables seamless integration between sales professionals and legal teams by enabling sales agents to create legal sales contracts from a quote.
 
 ## Benefits of integrating Contract Management Pro and Sales Customer Relationship Management
 
 The integration provides the following benefits:
 
 -   Accelerate revenue recognition: Speed up the contract turnaround time to ensure a more predictable revenue stream
--   Mitigate risk to the organization: Ensure contract compliance and consistency with pre-approved templates and proactive [[cncore-obligation-management|obligation management]]
+-   Mitigate risk to the organization: Ensure contract compliance and consistency with pre-approved templates and proactive obligation management
 -   Optimize the quote-to-contract workflow: Streamline quote-to-contract processes with agile contract management
 -   Boost legal team productivity: Utilize common contract processes like review and signature to boost productivity.
 -   Reduce manual review work by using generative AI: Use AI to identify missing and non-standard clauses for reducing manual review work
@@ -90,13 +90,13 @@ Get started with initiating contract request by completing these tasks:
 2.  Configure Contract Management Pro
     -   **[Create a contract type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-type.md)**
 
-        [[cncore-create-contract-type|Create a contract type]] for defining different types of contract requests and associate it to a contract model.
+        Create a contract type for defining different types of contract requests and associate it to a contract model.
 
         Role:contract administrator.
 
     -   **[Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-document-templates.md)**
 
-        [[cncore-create-contract-template|Create a contract template]] of type .docx that can be used when submitting a contract request to generate a standard contract with predefined content.
+        Create a contract template of type .docx that can be used when submitting a contract request to generate a standard contract with predefined content.
 
         Role:contract configurator.
 
@@ -114,7 +114,7 @@ Get started with initiating contract request by completing these tasks:
 
     -   **[Create document template categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-tmplt-cat.md)**
 
-        [[cncore-create-doc-tmplt-cat|Create document template categories]] to easily identify similar documents and find the correct document template more easily.
+        Create document template categories to easily identify similar documents and find the correct document template more easily.
 
         Role:contract configurator.
 
@@ -126,10 +126,3 @@ Get started with initiating contract request by completing these tasks:
 
 3.  [Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-create-contract.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-create-contract-type|Create a contract type]]
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-create-doc-tmplt-cat|Create document template categories]]

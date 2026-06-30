@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog widgets, Widget library, Using portal widgets, Conf
 
 # SC Category Page widget
 
-[[lists-configurable-workspace|Lists]] the catalog items available within a certain category. Categories are determined within the Service Catalog module. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Lists the catalog items available within a certain category. Categories are determined within the Service Catalog module. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 **Note:** Catalog items are sorted in ascending order by their **Order** value. If catalog items have the same order, they are sorted by the **Name** field.
 
@@ -54,7 +54,7 @@ Show items from Child Categories
 
 </td><td>
 
-Displays items in the child categories along with those in the parent category.**Note:** If the **Category Layout** instance options is set to `Flat` in the [[sc-categories-widget|SC Categories widget]], then set this instance option to `False`.
+Displays items in the child categories along with those in the parent category.**Note:** If the **Category Layout** instance options is set to `Flat` in the SC Categories widget, then set this instance option to `False`.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Catalog widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-widgets.md)
@@ -94,14 +94,9 @@ Displays items in the child categories along with those in the parent category.*
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[sc-categories-widget|SC Categories widget]]
-- [[c_ServicePortal|Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Procurement Operations integration Employee, Integrate, So
 
 # Provide more details on your purchase from Employee Center
 
-Provide additional information on your purchase from Employee Center by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the [[sourcing-request|sourcing request]].
+Provide additional information on your purchase from Employee Center by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the sourcing request.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can provide more information on the queries that the procurement buyer has p
 
 2.  Select the task that you want to work with.
 
-3.  View details of the task, such as task number, due date, state, primary contact, requested [[supplier|supplier]], requested product, quantity, total line amount, and so on.
+3.  View details of the task, such as task number, due date, state, primary contact, requested supplier, requested product, quantity, total line amount, and so on.
 
     You can track the updates on the selected task from the **Activity** tab. You can also view and upload attachments associated with the task from the **Attachments** tab.
 
@@ -47,7 +47,3 @@ You can view the completed task in the **Completed** tab.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]

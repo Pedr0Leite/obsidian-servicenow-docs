@@ -14,12 +14,12 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # Advanced configuration
 
-Advanced configuration options provide additional customization capabilities beyond standard [[settings-mobile|settings]]. These options allow you to fine-tune system behavior and optimize performance for specific organizational requirements.
+Advanced configuration options provide additional customization capabilities beyond standard settings. These options allow you to fine-tune system behavior and optimize performance for specific organizational requirements.
 
 -   **[Map a device user to a ServiceNow DEX user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/map-a-device-user-to-a-servicenow-dex-user.md)**  
 Complete this procedure to map a device user to a DEX user so you can notify the user about any of the device metrics breaching a predetermined threshold.
 -   **[Device location determination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/location-determination.md)**  
-Identify and determine the number of impacted [[dex-workspace-devices-tab|devices]] based on the location by defining a custom logic.
+Identify and determine the number of impacted devices based on the location by defining a custom logic.
 -   **[Configure ACC to use a proxy for all traffic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/configure-acc-to-use-proxy.md)**  
 Configure the Agent Client Collector \(ACC\) to use a proxy for all traffic by setting environment variables. Using a proxy helps you enhance security, monitor and control internet usage, improve performance through caching, protect privacy, and enforce compliance with your organization's policies.
 -   **[Switch ACC from one instance to another](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/convert-agent-instance.md)**  
@@ -29,12 +29,7 @@ Use a single-line command to set up a MID-less Agent Client Collector. You can a
 -   **[Convert MID-based ACC to MID-less](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/convert-midbased-acc.md)**  
 Convert MID-based Agent Client Collector \(ACC\) to MID-less ACC by adjusting the configuration in acc.yml, decoupling from a specific MID to enhance flexibility and adaptability.
 -   **[Sudo banner validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/sudo-banner-validation.md)**  
-[[sudo-banner-validation|Sudo banner validation]] flags missing sudo permissions on managed devices so you know when the DEX agent's capabilities are limited.
+Sudo banner validation flags missing sudo permissions on managed devices so you know when the DEX agent's capabilities are limited.
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[sudo-banner-validation|Sudo banner validation]]

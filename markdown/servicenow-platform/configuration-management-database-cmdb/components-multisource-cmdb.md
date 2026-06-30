@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360, Configuration Management Database \(CMDB\), Configuration
 
 # Components related to CMDB 360
 
-Several types of components are related to [[multisource-cmdb|CMDB 360]] \(included in the com.snc.cmdb plugin\), such as tables and properties.
+Several types of components are related to CMDB 360 \(included in the com.snc.cmdb plugin\), such as tables and properties.
 
 ## Properties
 
@@ -135,7 +135,7 @@ sn\_cmdb\_ws.ms.report\_class\_ci\_count\_max\_threshold
 
 </td><td>
 
-Threshold number of CMDB 360 records that when exceeded for a class, CMDB 360 Coverage charts in CMDB Workspaceand in [[sg-workspace|Service Graph Workspace]] stop populating data for that class \(CMDB or non-CMDB tables\).
+Threshold number of CMDB 360 records that when exceeded for a class, CMDB 360 Coverage charts in CMDB Workspaceand in Service Graph Workspace stop populating data for that class \(CMDB or non-CMDB tables\).
 
  When the specified threshold number is reached for a class, the system creates a record in the CMDB 360 Analytics Skipped Class \[sn\_cmdb\_ws\_ms\_skip\_class\] table causing that class to be skipped in future job runs.
 
@@ -258,7 +258,3 @@ Internally used to store records of classes for which the threshold number of CM
 |cmdb\_ms\_editor|Can create and run a query, has full read and write access, but can't do Recompute. Contains cmdb\_ms\_read role.|
 |cmdb\_ms\_admin|Can create and run a query, and can modify CMDB 360 properties. Contains cmdb\_ms\_write role.|
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]

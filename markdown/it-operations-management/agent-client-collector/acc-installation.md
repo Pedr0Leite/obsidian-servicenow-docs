@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Agent Client Collector installation
 
-You can install the [[acc-landing-page|Agent Client Collector]] on any supported host machine. The Agent Client Collector connects to a MID Server using the HTTP/S protocol, and the connection remains active after being established. One MID Server may handle several agents simultaneously, while a single agent works with one MID Server at a time and switches to a different MID Server when necessary to provide failover protection.
+You can install the Agent Client Collector on any supported host machine. The Agent Client Collector connects to a MID Server using the HTTP/S protocol, and the connection remains active after being established. One MID Server may handle several agents simultaneously, while a single agent works with one MID Server at a time and switches to a different MID Server when necessary to provide failover protection.
 
 When an agent's IP address changes, it selects a MID Server to connect to based on the agent's MID Server list.
 
@@ -163,7 +163,7 @@ Not supported
 
 Agents whose **Status = Down** or **Disconnected** which haven't been deleted are deleted automatically after 30 days. You can modify this setting on the Autoflush form page \(see [Autoflush form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/atf-auto-flush.md)\).
 
-Use the Manual Transport Layer Security protocol \(mTLS\) for secure authentication between your [[mid-web-server|MID Web Server]] and the agent \(the client\). For details, see [Connect the agent to the MID Server using mTLS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/enable-tls-agent.md).
+Use the Manual Transport Layer Security protocol \(mTLS\) for secure authentication between your MID Web Server and the agent \(the client\). For details, see [Connect the agent to the MID Server using mTLS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/enable-tls-agent.md).
 
 For details on using Agent Client Collector in an air-gapped environment, see the [Agent Client Collector Framework Air Gapped Configuration Item Management Solution \[KB1585753\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585753) article in the Now Support Knowledge Base.
 
@@ -180,7 +180,3 @@ Agent Client Collector supports domain separation. The domain of the agent and t
 
 [Agent Client Collector installation on a macOS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-mac-os.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

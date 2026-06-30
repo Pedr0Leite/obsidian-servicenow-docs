@@ -14,7 +14,7 @@ breadcrumb: [Integrating Field Service Management with other applications, Confi
 
 # Integration with Virtual Conferencing
 
-With ServiceNow [[fsm-application-landing-page|Field Service Management]] Virtual Conferencing Integration, collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Zoom and Microsoft Teams from the Now Agent mobile application. Provide timely support while away from your office or desktop computer.
+With ServiceNow Field Service Management Virtual Conferencing Integration, collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Zoom and Microsoft Teams from the Now Agent mobile application. Provide timely support while away from your office or desktop computer.
 
 ## Request apps on the Store
 
@@ -37,6 +37,3 @@ View details for a recorded Zoom and Microsoft Teams meetings initiated from the
 
 **Parent Topic:**[Integrating Field Service Management with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/integrate-fsm-other-applications.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

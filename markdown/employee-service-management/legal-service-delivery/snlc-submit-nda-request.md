@@ -24,9 +24,9 @@ Submit a legal request for a non-disclosure agreement \(NDA\) with third parties
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
-    **Note:** If you're using Legal Service Portal, you can [[submit-legal-request|submit a legal request]] by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
+    **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
 2.  Navigate **Help center** &gt; **Legal services**.
 
@@ -122,7 +122,7 @@ Signature type
 
 Type of signature.-   Electronic signature: The signatory electronically signs the contract.
 -   Wet signature: The signatory manually signs the physical version of the contract.
--   Offline signature: The contract is signed outside [[cncore-cmpro-landing-page|Contract Management Pro]] — for example, on paper or through a third-party application.
+-   Offline signature: The contract is signed outside Contract Management Pro — for example, on paper or through a third-party application.
 The default signature type is Electronic Signature.
 
 </td></tr></tbody>
@@ -166,8 +166,3 @@ For more information on how to view and track a legal request, see [View and tra
 
 **Parent Topic:**[Non-disclosure agreement requests]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-legal-request|Submit a legal request]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

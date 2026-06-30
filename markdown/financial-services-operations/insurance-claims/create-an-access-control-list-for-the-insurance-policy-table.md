@@ -14,7 +14,7 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Create an access control list for an insurance policy table
 
-Create an access control list \(ACL\) for a table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table by using the [[insurance-claims-flow|Insurance claims]] application. By creating an ACL, you ensure that users with specific roles can interact with tables for a particular insurance policy.
+Create an access control list \(ACL\) for a table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table by using the Insurance claims application. By creating an ACL, you ensure that users with specific roles can interact with tables for a particular insurance policy.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Grant the Insurance claims contributor \(sn\_ins\_gen\_claim.fnol\_representativ
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

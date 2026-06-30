@@ -48,7 +48,7 @@ Short name
 
 </td><td>
 
-Name of your application. For example, ServiceNow [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]].
+Name of your application. For example, ServiceNow Meeting Extensions for Microsoft Teams.
 
 </td></tr><tr><td>
 
@@ -205,6 +205,3 @@ Option to allow users to reconfigure the Meeting Extensions app.
 
 **Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-single-tenant.md)
 
-## Related
-
-- [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]]

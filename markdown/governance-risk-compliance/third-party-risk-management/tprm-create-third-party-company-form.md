@@ -14,7 +14,7 @@ breadcrumb: [Create a third party and enhance digital resilience data, Use digit
 
 # Create New Company form
 
-On the [[create-new-legal-entity-form|Create New Company form]], fill in the fields for the third party.
+On the Create New Company form, fill in the fields for the third party.
 
 <table id="table_cyz_r34_ycc"><thead><tr><th>
 
@@ -98,7 +98,3 @@ Additional details of the third party.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-legal-entity-form|Create New Company form]]

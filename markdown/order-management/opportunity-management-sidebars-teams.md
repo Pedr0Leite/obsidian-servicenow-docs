@@ -18,7 +18,7 @@ Initiate a discussion with internal and external stakeholders, such as sales age
 
 Role required: sales\_agent or sales\_manager
 
-Before [[layout_sidebar|using the sidebar]] integration, you must first complete configuring the sidebar integration with your opportunity. To learn more, see [Configuring Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-sidebar.md).
+Before using the sidebar integration, you must first complete configuring the sidebar integration with your opportunity. To learn more, see [Configuring Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-sidebar.md).
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Before [[layout_sidebar|using the sidebar]] integration, you must first complete
 
 3.  Select **Discuss** on the opportunity header.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -46,19 +46,12 @@ Before [[layout_sidebar|using the sidebar]] integration, you must first complete
 
 Make your collaboration more effective by sharing emojis, messages, and attachments.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[layout_sidebar|Using the sidebar]]
-- [[fields|Fields]]

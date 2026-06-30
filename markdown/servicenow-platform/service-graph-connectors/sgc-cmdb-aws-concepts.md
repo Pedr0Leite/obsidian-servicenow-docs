@@ -14,7 +14,7 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 # AWS resources used by the Service Graph Connector for AWS
 
-Get familiar with the AWS concepts to learn how the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] is integrated with Amazon Web Services \(AWS\).
+Get familiar with the AWS concepts to learn how the Service Graph Connector for AWS is integrated with Amazon Web Services \(AWS\).
 
 ## AWS Config service and configuration recorder
 
@@ -74,6 +74,3 @@ The advantages of using AWS Systems Manager and AWS Systems Manager Inventory ar
 -   The AWS Systems Manager enables getting the detailed server data such as host name, serial number, CPU data, TCP data, and process information.
 -   The AWS Systems Manager Inventory enables the server classification and getting the software data.
 
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

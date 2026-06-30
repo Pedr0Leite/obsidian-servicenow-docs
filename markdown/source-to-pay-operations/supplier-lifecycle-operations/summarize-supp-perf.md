@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # Summarize supplier performance in Source-to-Pay Workspace
 
-Generate comprehensive performance summary including overall performance scores, trends, and action items by using the [[supplier|supplier]] performance summarization skill in the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application.
+Generate comprehensive performance summary including overall performance scores, trends, and action items by using the supplier performance summarization skill in the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_kpi.admin, slm manager
 
 ## About this task
 
-You can use the supplier performance summarization skill in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] in the **KPI Management** tab.
+You can use the supplier performance summarization skill in the Source-to-Pay Workspace in the **KPI Management** tab.
 
 ## Procedure
 
@@ -50,8 +50,3 @@ You can use the supplier performance summarization skill in the [[purch-order-mg
     -   **Historical context**: Lists the number of action plans created, targets achieved, and previous focus areas.
     -   **Steps ahead**: Lists the actions that the supplier managers must take next.
 
-## Related
-
-- [[supplier|Supplier]]
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

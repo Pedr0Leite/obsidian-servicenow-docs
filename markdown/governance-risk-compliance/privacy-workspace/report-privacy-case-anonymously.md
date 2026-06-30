@@ -14,13 +14,13 @@ breadcrumb: [Report a privacy case, Use, Privacy Case Management, Privacy Manage
 
 # Report a privacy case anonymously
 
-Use the [[grc-anonymous-reporting-center|Anonymous Reporting Center]] \(ARC\) to submit any suspected or confirmed privacy case without disclosing your identity.
+Use the Anonymous Reporting Center \(ARC\) to submit any suspected or confirmed privacy case without disclosing your identity.
 
 ## Before you begin
 
 Role required: sn\_privacy\_case.privacy\_case\_business\_user
 
-**Note:** This role is only required to access the **[[employee-center|Employee Center]]**. No role is required to submit a report directly through ARC.
+**Note:** This role is only required to access the **Employee Center**. No role is required to submit a report directly through ARC.
 
 ## About this task
 
@@ -70,7 +70,3 @@ The fields in the **Report a privacy case** form capture information about the s
 
 **Parent Topic:**[Reporting a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-a-privacy-case.md)
 
-## Related
-
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]

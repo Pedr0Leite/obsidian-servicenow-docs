@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # HTML bot response control
 
-Use the HTML bot response control to display static HTML text in the [[virtual-agent-landing-page|Virtual Agent]] bot response.
+Use the HTML bot response control to display static HTML text in the Virtual Agent bot response.
 
 **Note:** If you created conversations in earlier releases that use this bot response control to generate card layouts, consider updating your conversations to use the [Card bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-card-output.md). The Card displays information from a record in your instance and contains a link to that related record.
 
@@ -128,6 +128,3 @@ HTML bot response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

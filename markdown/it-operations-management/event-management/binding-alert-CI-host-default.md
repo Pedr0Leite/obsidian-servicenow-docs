@@ -20,7 +20,7 @@ Binding alerts to Configuration Items \(CIs\) using the **Node** field or the **
 
 The system can perform default binding using the **Node** field or the **CI Identifier** field from the event record.
 
-When an event enters the system, a key field like **Node** is available in the event record. However, there is no **Node** field in the CI. Instead, the node value from the event is compared with various attributes in the host CI, such as Name, Fully Qualified Domain Name \(FQDN\), IP, or MAC address. If a match is found, the alert is linked to the corresponding CI. This is the default method for [[ci-binding-alert|binding alerts to CIs]].
+When an event enters the system, a key field like **Node** is available in the event record. However, there is no **Node** field in the CI. Instead, the node value from the event is compared with various attributes in the host CI, such as Name, Fully Qualified Domain Name \(FQDN\), IP, or MAC address. If a match is found, the alert is linked to the corresponding CI. This is the default method for binding alerts to CIs.
 
 The property **sa.active\_operation\_status** is used by the default binding mechanism, specifically when binding via IP/MAC using the node field in the event. When an event attempts to bind to a host through the node field \(using IP/MAC\), the system ignores hosts whose operational status is not included in this property and the operational status of the host must also not be null. By default, the property value is "1", which corresponds to Operational. You can extend the list to include additional statuses, and any status in the list is not ignored during binding.
 
@@ -40,7 +40,7 @@ If no match is found using node, the system looks at the **CI Identifier** field
 
 In default binding, the system considers all fields in the **Additional Information** field and attempts to match their values with the CI table. The **CI Identifier** field allows specifying particular fields for matching, even if they are not present in **Additional Information**. This process uses a predefined JSON structure and applies only when the CI is a host.
 
-**Note:** Even if the **Node** or the **CI Identifier** successfully binds the alert with the CI, [[create-event-rules|event rules]] further determine how the binding occurs using the **Override default binding** check box available in Event rules. This ensures that alerts are bound correctly based on business logic, not just direct matches. This ensures that alerts are bound correctly based on business logic, not just direct matches.
+**Note:** Even if the **Node** or the **CI Identifier** successfully binds the alert with the CI, event rules further determine how the binding occurs using the **Override default binding** check box available in Event rules. This ensures that alerts are bound correctly based on business logic, not just direct matches. This ensures that alerts are bound correctly based on business logic, not just direct matches.
 
 ## Example: Resolving a CI Using Node and Event Rules
 
@@ -52,10 +52,5 @@ Imagine a server \(Server-123\) in your network generates an event. The event re
     3.  If a match is found \(e.g., FQDN in the CMDB is also "Server-123.example.com"\), the alert is linked to that CI.
 2.  Applying Event Rules: Even if the Node resolves to Server-123, additional event rules might determine if the alert should be linked differently. For example, an event rule may specify that alerts from Server-123 should be linked to a parent CI \(like a cluster\) instead of the individual server.
 
-**Note:** You can also use [[workspace-dashboard-use|Service Operations Workspace]] to bind alerts. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+**Note:** You can also use Service Operations Workspace to bind alerts. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
-## Related
-
-- [[ci-binding-alert|Binding alerts to CIs]]
-- [[create-event-rules|Event rules]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

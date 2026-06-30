@@ -12,7 +12,7 @@ breadcrumb: [Portals, Use, Public Sector Digital Services \(PSDS\)]
 
 # Using the Government Service Portal in Public Sector Digital Services
 
-By using the [[gsp-overview-public-sector|Government Service Portal]], constituents and businesses can report issues, access and view the status of existing service requests, and request public records. You can also search for information about a question or issue, view and update their contact information, and request assistance from a government service agent— all within a customizable interface.
+By using the Government Service Portal, constituents and businesses can report issues, access and view the status of existing service requests, and request public records. You can also search for information about a question or issue, view and update their contact information, and request assistance from a government service agent— all within a customizable interface.
 
 ## Using the Government Service Portal as a constituent
 
@@ -29,7 +29,7 @@ Constituents on the Government Service default home page can select the followin
 3.  Discuss issues with neighbors and share perspectives by asking the community.
 4.  View your recent services and see the popular services on the site.
 
-**Note:** Administrators can customize Government Service Portal home pages in Service Portal, so home pages may differ visually across government agencies. For more information on customization, see [[customize-government-service-portal|Customize the Government Service Portal]].
+**Note:** Administrators can customize Government Service Portal home pages in Service Portal, so home pages may differ visually across government agencies. For more information on customization, see [Customize the Government Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/customize-government-service-portal.md).
 
 The following table lists what constituents can access through the home page.
 
@@ -97,7 +97,7 @@ Live Chat
 
 </td><td>
 
-Chat with a virtual agent or a government service agent. For more information on using Virtual Agent to get help, see [[psds-get-help-va|Get help with Public Service requests using Virtual Agent]].
+Chat with a virtual agent or a government service agent. For more information on using Virtual Agent to get help, see [Get help with Public Service requests using Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-get-help-va.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Engagement Messenger
 
 </td><td>
 
-Use Engagement Messenger to submit service requests from a third-party web application outside of the ServiceNow environment. For more information, see [[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]].
+Use Engagement Messenger to submit service requests from a third-party web application outside of the ServiceNow environment. For more information, see [Configure Engagement Messenger for Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configure-engagement-messenger.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ After registering and logging in to the Government Service Portal, constituents 
 -   View existing cases.
 -   View publications and notifications including government pamphlets and newsletters about services as well as government notifications.
 
-For more information on the services that are offered in the Government Service Portal service catalog, see [[psds-service-catalog-list|Government Service Portal service catalog]].
+For more information on the services that are offered in the Government Service Portal service catalog, see [Government Service Portal service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-service-catalog-list.md).
 
 ## Using the Government Service Portal as a business
 
@@ -189,10 +189,3 @@ Business contacts have the same functionality as a constituent user, with a few 
 
 To customize this portal, navigate to **Service Portal** &gt; **Portals** and select Government Service. See [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md) for more information about creating a custom interface.
 
-## Related
-
-- [[customize-government-service-portal|Customize the Government Service Portal]]
-- [[psds-get-help-va|Get help with Public Service requests using Virtual Agent]]
-- [[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]]
-- [[psds-service-catalog-list|Government Service Portal service catalog]]
-- [[gsp-overview-public-sector|Government Service Portal]]

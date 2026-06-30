@@ -14,13 +14,13 @@ breadcrumb: [Discovery commands for probes and patterns, Configuring Discovery, 
 
 # View Patterns commands through the Discovery Patterns module
 
-View all the commands required for an infrastructure or application pattern to verify you have sufficient permissions to run [[r-discovery|discovery]].
+View all the commands required for an infrastructure or application pattern to verify you have sufficient permissions to run discovery.
 
 ## Before you begin
 
 -   Confirm that the following applications have been installed:
     -   Pattern Designer Enhancements \(sn\_itom\_pde\)
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns \(sn\_itom\_pattern\)
+    -   Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)
 -   If you’re viewing commands for the first time, have upgraded Discovery and Service Mapping Patterns, or have customized any pattern, refresh the command list by navigating to **All** &gt; **Pattern Designer** &gt; **Command Validation Tool** &gt; **Commands List** and selecting **Refresh Command List**.
 
 Role required: discovery\_admin
@@ -53,7 +53,3 @@ For more information on the Command List form fields, see [Command List form for
 
 [View command validation task results in pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/view-command-validation-task-results.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

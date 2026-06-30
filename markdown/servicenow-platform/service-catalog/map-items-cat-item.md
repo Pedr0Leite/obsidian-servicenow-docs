@@ -33,7 +33,7 @@ You cannot specify these types of items as related items for a catalog item.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definitions** &gt; **Maintain Items**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**.
 
 2.  Select the required catalog item.
 
@@ -63,6 +63,3 @@ You cannot specify these types of items as related items for a catalog item.
 
 [Map related articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/map-related-articles.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

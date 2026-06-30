@@ -16,7 +16,7 @@ breadcrumb: [Managing roles, User administration, Configure core features, Admin
 
 Administrators can assign one or more base system user roles to grant access to base system platform features and applications.
 
-To learn more about managing per-user subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
@@ -115,7 +115,7 @@ Agent administrators can download and administer the built-in system agent. They
 
 ## AI search administrator \[ais\_admin\]
 
-[[ia-ai-search|AI search]] administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md) application.
+AI search administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md) application.
 
 -   **Contains Roles**
 
@@ -254,7 +254,7 @@ Approver users can modify requests for approval routed to them. They also have a
 
 ## Asset user \[asset\]
 
-Asset users can manage hardware and software [[ia-assets|assets]].
+Asset users can manage hardware and software assets.
 
 -   **Contains Roles**
 
@@ -1233,7 +1233,7 @@ Import set loader users can load import set \[sys\_import\_set\] records.
 
 ## Import transformer \[import\_transformer\]
 
-Import transformer users can manage import set transform map \[sys\_transform\_map\] records and run [[c_FieldTransformations|transforms]].
+Import transformer users can manage import set transform map \[sys\_transform\_map\] records and run transforms.
 
 -   **Contains Roles**
 
@@ -1314,7 +1314,7 @@ Inventory users have access to stock information.
 
 ## ITIL
 
-Information Technology Infrastructure Library \(ITIL\) users can open, update, close incidents, problems, changes, and read some rules, [[clone-exclusions-preservers-cleanupscripts|definitions]], and CIs related to CMDB features. This role is the base system technician role. Users with the ITIL role can have tasks assigned to them.
+Information Technology Infrastructure Library \(ITIL\) users can open, update, close incidents, problems, changes, and read some rules, definitions, and CIs related to CMDB features. This role is the base system technician role. Users with the ITIL role can have tasks assigned to them.
 
 -   **Contains Roles**
 
@@ -1390,7 +1390,7 @@ ITIL administrators can delete incidents, problems, changes, and other related r
 
 ## Knowledge \[knowledge\]
 
-Knowledge users can write, edit, and review [[ia-knowledge-mgmt|knowledge management]] articles.
+Knowledge users can write, edit, and review knowledge management articles.
 
 -   **Contains Roles**
 
@@ -2129,7 +2129,7 @@ Search application administrators can insert, update, and delete search user exp
 -   sys\_search\_facet
 -   sys\_search\_filter
 
-Search application admin is granted the ais\_admin role to enable [[ai-search-configuration|AI search configuration]].
+Search application admin is granted the ais\_admin role to enable AI search configuration.
 
 -   **Contains Roles**
 
@@ -2589,7 +2589,7 @@ Timecard administrators can access all timecard records.
 
 ## Timecard approver \[timecard\_approver\]
 
-Timecard approvers approve or reject [[c_TimeCards|time cards]] for users.
+Timecard approvers approve or reject time cards for users.
 
 -   **Contains Roles**
 
@@ -2863,20 +2863,9 @@ Users with the ts\_admin role can administer the [Zing text indexing and search 
 -   **[Special administrative roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_SpecialAdministrativeRoles.md)**  
 Certain roles grant specific administrative rights without the full privileges of the admin role. For example, an administrator can grant a user the right to change UI policy but not client scripts.
 -   **[Read-only role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ReadOnlyRole.md)**  
-The [[c_ReadOnlyRole|read-only role]] \(snc\_read\_only\) restricts a user or a group of users to read-only access on the tables to which the user already has access.
+The read-only role \(snc\_read\_only\) restricts a user or a group of users to read-only access on the tables to which the user already has access.
 -   **[Application specific roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/application-specific-roles.md)**  
 Applications you install on your instance may include additional roles. Follow the links in this section to see roles installed along with applications.
 
 **Parent Topic:**[Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-roles.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[ia-ai-search|AI Search]]
-- [[ia-assets|Assets]]
-- [[c_FieldTransformations|Transforms]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[c_TimeCards|Time cards]]
-- [[c_ReadOnlyRole|Read-only role]]

@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Installing the Salesforce Transaction Manager Integration Package extension
 
-To use [[transaction-manager|Transaction Manager]] with Salesforce, you must first follow these steps to install and configure the Salesforce Transaction Manager Integration Package Extension.
+To use Transaction Manager with Salesforce, you must first follow these steps to install and configure the Salesforce Transaction Manager Integration Package Extension.
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ The CPQ Transaction Manager Extension is a package of components that Salesforce
 
 Contact ServiceNow customer support for information on the latest version and how to access the managed package for installation.
 
-Admins can install the package for admins only, for all users, or for specific profiles. The package includes permission [[cpq-sets|sets]] for Transaction Manager that can be assigned to individuals or replicated on profiles. To view the permissions sets, in Setup, go to **Users**, and then see the **Logik.ai Full Access** option in **Permission Sets**.
+Admins can install the package for admins only, for all users, or for specific profiles. The package includes permission sets for Transaction Manager that can be assigned to individuals or replicated on profiles. To view the permissions sets, in Setup, go to **Users**, and then see the **Logik.ai Full Access** option in **Permission Sets**.
 
 After it is installed, you can view the version of the package in the **Installed Packages** section of Salesforce Setup.
 
@@ -38,7 +38,7 @@ After it is installed, you can view the version of the package in the **Installe
 
 ## Salesforce: Enable custom address fields
 
-The Salesforce environment must have Custom Address [[fields|Fields]] enabled. If this feature is not enabled, see this article for more information: [Enable Custom Address Fields](https://help.salesforce.com/s/articleView?id=sf.fields_caf_enable.htm&type=5)
+The Salesforce environment must have Custom Address Fields enabled. If this feature is not enabled, see this article for more information: [Enable Custom Address Fields](https://help.salesforce.com/s/articleView?id=sf.fields_caf_enable.htm&type=5)
 
 ## Salesforce: Allow security exceptions for CPQ
 
@@ -74,7 +74,7 @@ Optionally, allow microphone access for Cosmo Converse \(currently in beta\). Co
 
 ## CPQ: Set up the runtime client token
 
-The CPQ runtime client token facilitates authentication for communications from Salesforce to CPQ. For steps to create a runtime client token in CPQ, see [[cpq-set-up-a-runtime-client|Set up a runtime client]]. For this Transaction Manager use case, please be sure to enable permissions on this runtime client for TRANSACTION, and add a valid User ID that is recognized by the corresponding Salesforce environment.
+The CPQ runtime client token facilitates authentication for communications from Salesforce to CPQ. For steps to create a runtime client token in CPQ, see [Set up a runtime client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-runtime-client.md). For this Transaction Manager use case, please be sure to enable permissions on this runtime client for TRANSACTION, and add a valid User ID that is recognized by the corresponding Salesforce environment.
 
 Note that in CPQ Admin, the runtime client token must be updated to include TRANSACTION in its permissions and itself as an origin. \(For example, the runtime client token for `https://test-txn.test02.logik.io` must have an origin of `https://test-txn.test02.logik.io`.\) Also, when a runtime client token includes TRANSACTION, a user must be included. Make sure that the user has permission to perform the Create Transaction event.
 
@@ -93,12 +93,12 @@ When you have set up the runtime client token, copy it to your local clipboard f
 ## Salesforce: Update the Opportunity layout to Open Transaction Manager
 
 1.  In Salesforce, click the gear icon in the top right corner.
-2.  Navigate to **Setup** &gt; **Object Manager** &gt; **Opportunity** &gt; **Page [[layouts|Layouts]]**.
+2.  Navigate to **Setup** &gt; **Object Manager** &gt; **Opportunity** &gt; **Page Layouts**.
 3.  Select the page layout to edit. \(If you have multiple layouts, choose the one associated with the relevant record type or user profiles.\)
 
     \[Omitted image "cpq-salesforce-opp-layout-1.jpg"\] Alt text: Page layouts screen
 
-4.  Scroll down in the [[layout_editor|layout editor]] until you see the **Related Lists** section.
+4.  Scroll down in the layout editor until you see the **Related Lists** section.
 
     \[Omitted image "cpq-salesforce-opp-layout-2.jpg"\] Alt text: Page layouts screen
 
@@ -127,7 +127,7 @@ If the transaction button is missing from the buyside opportunity detail page, f
 
 1.  In the top right corner of the page, click the gear icon, and then click **Edit Page**. This opens the Lightning App Builder for the Opportunity record page.
 
-    \[Omitted image "cpq-txn-mgr-[[troubleshooting|troubleshooting]]-1.jpg"\] Alt text: Edit page option
+    \[Omitted image "cpq-txn-mgr-troubleshooting-1.jpg"\] Alt text: Edit page option
 
 2.  Select the Related Lists component of the page. In the **Assign Page Layouts** section, find the name of the page layout currently assigned. \(In the image, the correct layout is indicated with the word "\(previewed\)."\)
 
@@ -325,20 +325,9 @@ View: access to each event, per stage
 
 </td><td>
 
-For information about how to perform fine-grained access administration \(recommended\), see the Events CSV File section in [[transaction-manager-views|Transaction Manager: Views]].
+For information about how to perform fine-grained access administration \(recommended\), see the Events CSV File section in [Transaction Manager: Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-views.md).
 
  To administer access in a less precise way, go to Events in CPQ Transaction Admin, click the **Create Transaction** event, click **Edit Event Access**, and set the event access to Active. By default, the event is active across all stages and views.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cpq-set-up-a-runtime-client|Set up a runtime client]]
-- [[transaction-manager-views|transaction manager views]]
-- [[transaction-manager|Transaction Manager]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]
-- [[layouts|Layouts]]
-- [[layout_editor|Layout editor]]
-- [[troubleshooting|Troubleshooting]]

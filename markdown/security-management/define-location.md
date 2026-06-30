@@ -12,7 +12,7 @@ breadcrumb: [Locations, IoC Repository, Threat Intelligence, Enterprise security
 
 # Define Location
 
-Define a geographic [[location|location]] to provide more context to other SDOs.
+Define a geographic location to provide more context to other SDOs.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Locations**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Locations**.
 
 2.  Click **New**.
 
@@ -112,7 +112,7 @@ Specifies the threat source from which this record is created.
 
 </td><td>
 
-A description that provides more details and context about the [[threat-intelligence-intrusion-sets|intrusion set]], potentially including its purpose and its key characteristics.
+A description that provides more details and context about the intrusion set, potentially including its purpose and its key characteristics.
 
 </td></tr><tr><td id="d210536e187">
 
@@ -156,11 +156,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -172,7 +172,7 @@ Lists external references which refer to non-STIX information. This property is 
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -180,7 +180,7 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -188,7 +188,7 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -196,7 +196,7 @@ List of identities associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -212,7 +212,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -220,7 +220,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -228,28 +228,12 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
 Lists legitimate software that is used by threat actors to perform attacks associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-locations|Locations]]
+</table>**Parent Topic:**[Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-locations.md)
 
-## Related
-
-- [[threat-intelligence-locations|Locations]]
-- [[location|Location]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-identities|Identities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]

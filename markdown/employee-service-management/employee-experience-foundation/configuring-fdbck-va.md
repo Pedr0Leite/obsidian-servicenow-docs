@@ -28,7 +28,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**
 
 2.  Select the feedback definition that you created for the Virtual Agent channel.
 
@@ -70,6 +70,3 @@ Role required: admin
 
 The service feedback is set up for the Virtual Agent.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

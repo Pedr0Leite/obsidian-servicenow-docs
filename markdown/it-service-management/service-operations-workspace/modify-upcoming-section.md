@@ -36,7 +36,7 @@ Using an extension point, you can call the custom scripts to extend the function
 
 3.  Create an implementation using the **Create Implementation** related link or edit an implementation from the Implementations related list.
 
-    Following is an example of how to add a new announcement type for [[change-tasks|change tasks]].
+    Following is an example of how to add a new announcement type for change tasks.
 
     -   Name: MyCustomUpcomingLinkProvider\_ChangeTask
     -   Script:
@@ -175,7 +175,7 @@ Using an extension point, you can call the custom scripts to extend the function
 
 5.  Create a task to verify if it is displayed as an upcoming task.
 
-    For example, [[create-a-change-task|create a change task]].
+    For example, create a change task.
 
     1.  From the **All** menu, navigate to **change\_task.list**.
 
@@ -189,13 +189,8 @@ Using an extension point, you can call the custom scripts to extend the function
         -   Assigned to. Specify the user for whom the upcoming task should appear.
     4.  Select **Submit**.
 
-    5.  Verify that the task appears in the **Upcoming** section of the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]] for the selected user.
+    5.  Verify that the task appears in the **Upcoming** section of the Service Operations Workspace landing page for the selected user.
 
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]
-- [[create-a-change-task|Create a change task]]
-- [[dex-workspace-dashboard-tab|Landing page]]

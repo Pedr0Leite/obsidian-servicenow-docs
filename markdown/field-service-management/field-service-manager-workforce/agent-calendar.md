@@ -14,11 +14,11 @@ breadcrumb: [Managing agent skills,schedules, and tasks, Managing workforce, Use
 
 # Managing agent calendar
 
-Customer service agents and field service technicians can [[use-agent-calendar|use the agent calendar]] to see work schedules and assignments and also add personal events such as meetings or appointments.
+Customer service agents and field service technicians can use the agent calendar to see work schedules and assignments and also add personal events such as meetings or appointments.
 
 The agent calendar provides a tool for maintaining different work schedules or shifts and assigning agents and technicians to shifts for specific time periods. The calendar has the flexibility to accommodate work schedules that are fixed or varied and shifts that rotate by week, month, or other patterns. The agent calendar administrator creates the calendar configuration, including a schedule configuration for each calendar user and the types of tasks to display on the calendar.
 
-The schedule information stored in the agent calendar is used by other ServiceNow applications and features, such as the assignment workbench, central dispatch, and auto assignment. The assignment workbench uses agent availability, based on upcoming work schedules and personal time off, when evaluating predefined criteria and recommending agents for case assignment. Auto assignment in Service Management core applications, such as [[fsm-application-landing-page|Field Service Management]] and Facilities Service Management, evaluate agent work schedules before assigning tasks.
+The schedule information stored in the agent calendar is used by other ServiceNow applications and features, such as the assignment workbench, central dispatch, and auto assignment. The assignment workbench uses agent availability, based on upcoming work schedules and personal time off, when evaluating predefined criteria and recommending agents for case assignment. Auto assignment in Service Management core applications, such as Field Service Management and Facilities Service Management, evaluate agent work schedules before assigning tasks.
 
 The agent calendar administrator has access to the Agent Schedule menu in the application navigator. This menu includes the following modules:
 
@@ -144,7 +144,3 @@ Allows customer service agents and field service technicians to access and updat
 
 [Configuring an agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configure-agent-calendar.md)
 
-## Related
-
-- [[use-agent-calendar|Use the agent calendar]]
-- [[fsm-application-landing-page|Field Service Management]]

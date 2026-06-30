@@ -14,11 +14,11 @@ breadcrumb: [Configuring Problem Management in Service Operations Workspace, Get
 
 # View the SLA details for problems
 
-View the SLA details of a problem in the contextual side panel of Service Operations Workspace so that you can prioritize the problem and resolve it within the defined [[c_SLATimeline|SLA timeline]].
+View the SLA details of a problem in the contextual side panel of Service Operations Workspace so that you can prioritize the problem and resolve it within the defined SLA timeline.
 
 ## Before you begin
 
-You must configure the Service Level Agreement \(SLA\) timer for [[c_ProblemManagement|Problem Management]]. Select from the existing **Problem resolution** and **Problem response** configurations, or create your own. For more information, see [Configure the SLA timer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/sla-timer-configurations.md) and [Create an SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_CreateAnSLADefinition.md).
+You must configure the Service Level Agreement \(SLA\) timer for Problem Management. Select from the existing **Problem resolution** and **Problem response** configurations, or create your own. For more information, see [Configure the SLA timer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/sla-timer-configurations.md) and [Create an SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_CreateAnSLADefinition.md).
 
 Role required: admin
 
@@ -33,7 +33,3 @@ Role required: admin
 
 The **SLAs and timings** card is visible within **Record information** in the Service Operations Workspace contextual sidebar.
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]
-- [[c_ProblemManagement|Problem Management]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the **List of system tables \(beginning with "sys\_", comma separated\) that will have the delete audited** property.
 
@@ -28,10 +28,6 @@ Role required: admin
 
 4.  Click **Save**.
 
-    **Note:** For more information about [[c_AuditedTables|auditing]], see [[c_UnderstandingTheSysAuditTable|Understanding the sys audit Table]].
+    **Note:** For more information about auditing, see [Understanding the sys audit Table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_UnderstandingTheSysAuditTable.md).
 
-## Related
 
-- [[c_UnderstandingTheSysAuditTable|Viewing Sys Audit and Audit Relationship Change tables]]
-- [[ca-system-properties|System properties]]
-- [[c_AuditedTables|Auditing]]

@@ -28,16 +28,16 @@ Results are not calculated for the survey until the configured duration has elap
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SurveyManagementLandingPage|Surveys]]** &gt; **View Surveys**.
+1.  Navigate to **All** &gt; **Surveys** &gt; **View Surveys**.
 
 2.  Select a survey from the list.
 
-3.  Select the **Allow retake** [[check-box|check box]].
+3.  Select the **Allow retake** check box.
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[[c_SurveyUsersAndGroups|Survey users and groups]]
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
@@ -50,8 +50,3 @@ Results are not calculated for the survey until the configured duration has elap
 
 [Designate or remove multiple survey users at one time]()
 
-## Related
-
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]

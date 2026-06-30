@@ -36,7 +36,7 @@ Description
 
 AI agents used in this agentic workflow:-   Journey information retrieval AI agent
 -   Employee skill gap AI agent
--   [[exploring-learning-exp|Learning]] content AI agent
+-   Learning content AI agent
 -   Teammates learning content AI agent
 -   Trending learning content AI agent
 -   Ramp up plan generation AI agent
@@ -44,7 +44,7 @@ AI agents used in this agentic workflow:-   Journey information retrieval AI age
 
 </td><td>
 
-Provides an efficient process for helping managers generate personalized onboarding plans for new employees who are joining their organization. The workflow uses [[jny-dsgnr-landing-page-1|Journey designer]] to create a plan and tasks associated with the employee's onboarding journey. The manager uses Now Assist in Virtual Agent to review, revise, and publish the onboarding ramp-up plan that was curated by the AI agent.
+Provides an efficient process for helping managers generate personalized onboarding plans for new employees who are joining their organization. The workflow uses Journey designer to create a plan and tasks associated with the employee's onboarding journey. The manager uses Now Assist in Virtual Agent to review, revise, and publish the onboarding ramp-up plan that was curated by the AI agent.
 
 </td></tr></tbody>
 </table>**Important:** By default, all agentic workflows and AI agent records are read only.
@@ -67,7 +67,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 **Parent Topic:**[Using Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/using-jny-dsnr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

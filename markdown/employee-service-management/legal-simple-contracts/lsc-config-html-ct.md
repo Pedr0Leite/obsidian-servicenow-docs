@@ -18,7 +18,7 @@ Configure a contract template of HTML format.
 
 ## Document template blocks for legal contract HTML templates
 
-Document template blocks are dynamic blocks of content that you can use when only a section of a template has to be changed for different requirements or request types. For example, say in an NDA contract document, only one section needs to be changed based on the geographic region of the signing legal entity. Ideally, you would create multiple [[document-templates-overview|document templates]] with the identical content with the only difference being location-related content. The condition-based document template blocks, on the other hand, enable you to create only one document template that can generate documents for different locations.
+Document template blocks are dynamic blocks of content that you can use when only a section of a template has to be changed for different requirements or request types. For example, say in an NDA contract document, only one section needs to be changed based on the geographic region of the signing legal entity. Ideally, you would create multiple document templates with the identical content with the only difference being location-related content. The condition-based document template blocks, on the other hand, enable you to create only one document template that can generate documents for different locations.
 
 The following are the key features of using document template blocks in document templates:
 
@@ -38,6 +38,4 @@ The following are the key features of using document template blocks in document
 
     Create a document template of type HTML.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

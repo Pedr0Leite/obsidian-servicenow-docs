@@ -28,18 +28,14 @@ Role required: admin or it\_project\_manager
 
 3.  Click **Execute Now** to upgrade all your existing active projects to project currency.
 
-    On execution of the job, all amounts in the cost-related fields of the Project, Project Task, Baseline, Cost Plan, [[cost-plan-breakdown|Cost Plan Breakdown]], Benefit Plan, Benefit Plan Breakdown [[form-field-information-for-dw|forms]] are copied from functional currency to project currency fields. Once the values of functional currency fields are copied to the project currency fields project currency cannot be edited since the financial costs already exist.
+    On execution of the job, all amounts in the cost-related fields of the Project, Project Task, Baseline, Cost Plan, Cost Plan Breakdown, Benefit Plan, Benefit Plan Breakdown forms are copied from functional currency to project currency fields. Once the values of functional currency fields are copied to the project currency fields project currency cannot be edited since the financial costs already exist.
 
 4.  To upgrade your inactive projects, click **PM upgrade project currency for inactive projects**.
 
 5.  Click **Execute Now**.
 
-    On executing the scheduled job, the project currency value for all existing projects is set to the functional currency. The project currency in the [[t_CreateAProjectTask|Project Tasks]], Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, Expense Lines forms is set to functional currency.
+    On executing the scheduled job, the project currency value for all existing projects is set to the functional currency. The project currency in the Project Tasks, Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, Expense Lines forms is set to functional currency.
 
     **Note:** The jobs may have performance impact depending on the number of projects and cost plans, hence run the jobs only when necessary.
 
-## Related
 
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]
-- [[t_CreateAProjectTask|Project tasks]]

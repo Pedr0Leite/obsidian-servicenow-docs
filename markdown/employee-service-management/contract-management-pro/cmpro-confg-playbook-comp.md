@@ -30,7 +30,7 @@ Role required: admin
 
 4.  Select the page on your workspace where you want to configure the **Playbook** tab.
 
-    \[Omitted image "cmpro-uib-page.png"\] Alt text: Pages in the [[legal-counsel-center-landing|Legal Counsel Center]] experience on the UI Builder
+    \[Omitted image "cmpro-uib-page.png"\] Alt text: Pages in the Legal Counsel Center experience on the UI Builder
 
 5.  Select the **Main Tab** component.
 
@@ -85,6 +85,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

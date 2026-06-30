@@ -14,7 +14,7 @@ breadcrumb: [MID Server upgrades, MID Server reference, MID Server, Manage insta
 
 # MID Server pre-upgrade check
 
-Prior to an upgrade, the [[mid-server-landing|MID Server]] runs tests to identify issues that could cause the upgrade process to fail or result in a MID Server outage.
+Prior to an upgrade, the MID Server runs tests to identify issues that could cause the upgrade process to fail or result in a MID Server outage.
 
 Each MID Server contains an AutoUpgrade monitor that compares the MID Server version with that of the instance to determine if the MID Server needs to upgrade. If the AutoUpgrade monitor discovers that the MID Server version is out of date, the monitor runs pre-upgrade validation tests for that MID Server. If an issue is detected, a message is logged to the MID Server Issue \[ecc\_agent\_issue\] table, and the upgrade is blocked. The AutoUpgrade monitor continues to run every hour, until all the tests pass. If there are no blocking issues, the MID Server downloads the appropriate upgrade package and begins the upgrade process. The MID Server pre-upgrade check also runs for the upgrades triggered by the instance when the instance was upgraded, as well as for manual upgrades.
 
@@ -127,6 +127,3 @@ A MID Server configuration parameter called **mid.upgrade.run\_precheck** is set
 
 **Parent Topic:**[MID Server upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

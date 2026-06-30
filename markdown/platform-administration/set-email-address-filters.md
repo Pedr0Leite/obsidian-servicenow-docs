@@ -29,7 +29,7 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
 ## Procedure
 
-1.  Navigate to **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Email Address Filters**, and then select **New**.
+1.  Navigate to **System Mailboxes** &gt; **Administration** &gt; **Email Address Filters**, and then select **New**.
 
 2.  Enter the **Name** of the address filter.
 
@@ -45,7 +45,7 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
         -   If the filter **Type** is Allow List, select the Search icon. Select the domains for which all email addresses are allowed. To add a new domain, select **New**, enter the **Domain**, and select **Submit**.
         -   If the filter **Type** is Deny List, select the Search icon. Select the domains for which all email addresses are disallowed. To add a new domain, select **New**, enter the **Domain**, and select **Submit**.
-        **Note:** You can specify a wildcard \(\*\) in the domain name, for example`*.com`. If you create an email configuration that has multiple email address filters, all the filters evaluate the given email addresses. The filters determine whether the addresses are valid and the message can be sent as [[ia-outbound-email-il|outbound email]].
+        **Note:** You can specify a wildcard \(\*\) in the domain name, for example`*.com`. If you create an email configuration that has multiple email address filters, all the filters evaluate the given email addresses. The filters determine whether the addresses are valid and the message can be sent as outbound email.
 
         By default, the maximum number of domains that you can associate with an email address filter is 100. You can reconfigure this limit by setting the **glide.email\_address\_filter.max\_domains** property.
 
@@ -74,9 +74,9 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
 ## Email address filter
 
-**Note:** After the email address filter is added to the Email Address Filters \[sys\_email\_address\_filter\] table, [[create-email-client-config|Create an email client configuration]].
+**Note:** After the email address filter is added to the Email Address Filters \[sys\_email\_address\_filter\] table, [Create an email client configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-client-config.md).
 
-\[Omitted image "whitelist-example.png"\] Alt text: Allowed exception in the email address filter and how it appears in the [[c_EnableTheEmailClient|email client]].
+\[Omitted image "whitelist-example.png"\] Alt text: Allowed exception in the email address filter and how it appears in the email client.
 
 \[Omitted image "blacklist-example.png"\] Alt text: Disallowed exception in the email address filter and how it appears in the email client.
 
@@ -88,15 +88,7 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
 ## What to do next
 
-Apply the email address filter to a system address filter. For more information, see [[create-system-address-filter|Create a system address filter]].
+Apply the email address filter to a system address filter. For more information, see [Create a system address filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-system-address-filter.md).
 
-**Parent Topic:**[[system-address-filters|System address filters]]
+**Parent Topic:**[System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md)
 
-## Related
-
-- [[create-email-client-config|Create an email client configuration]]
-- [[create-system-address-filter|Create a system address filter]]
-- [[system-address-filters|System address filters]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[c_EnableTheEmailClient|Email client]]

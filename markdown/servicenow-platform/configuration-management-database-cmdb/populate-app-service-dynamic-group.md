@@ -23,7 +23,7 @@ The Dynamic CI Group is one of several methods for populating an application ser
 **Note:**
 
 -   The number of CIs in an application service that is populated by the Dynamic CI Group method, is limited to 10,000, even if the associated CMDB group has more than 10,000 CIs.
--   A CMDB group can be used to populate only a single application service. For more information about populating and using [[cmdb-groups|CMDB groups]], see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
+-   A CMDB group can be used to populate only a single application service. For more information about populating and using CMDB groups, see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
 -   A dynamic CI group contains CIs but can't contain other groups.
 
 For information about the different types of application services and the different methods you can use to populate application services, including Dynamic CI Group, see [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md).
@@ -86,6 +86,3 @@ For more information, see [alert impact calculation](https://raw.githubuserconte
 
 Complete the generic procedure [Create an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
-## Related
-
-- [[cmdb-groups|CMDB groups]]

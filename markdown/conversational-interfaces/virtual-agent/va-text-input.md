@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Text user input control
 
-The Text user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic prompts the user for a text string.
+The Text user input control in a Virtual Agent topic prompts the user for a text string.
 
 ## Text user input control properties for LLM topic discovery
 
@@ -338,6 +338,3 @@ No-code condition statement or low-code script that specifies a condition for le
 
 **Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

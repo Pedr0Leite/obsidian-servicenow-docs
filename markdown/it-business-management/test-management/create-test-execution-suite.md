@@ -22,7 +22,7 @@ Role required: sn\_test\_management.test\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[test-management2-landing-page|Test Management 2.0]]** &gt; **Test Execution Suites**.
+1.  Navigate to **All** &gt; **Test Management 2.0** &gt; **Test Execution Suites**.
 
 2.  In the form, fill in the fields:
 
@@ -48,7 +48,7 @@ Role required: sn\_test\_management.test\_manager
 
 ## What to do next
 
--   To add [[c_Tests|tests]] to the test execution suite, click **Add tests**. From the **Tests** list, select the required tests, and click **Add to Execution Suite**.
+-   To add tests to the test execution suite, click **Add tests**. From the **Tests** list, select the required tests, and click **Add to Execution Suite**.
 -   To add test sets to the test execution suite, click **Add test sets**. From the **Test Sets** list, select the required test sets, and click **Add to Execution Suite**.
 -   In the **Test execution assignments** related list, select the test and assign it to a user.
 
@@ -65,7 +65,3 @@ Role required: sn\_test\_management.test\_manager
 
 [Run your test assignments in Test Management 2.0]()
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]

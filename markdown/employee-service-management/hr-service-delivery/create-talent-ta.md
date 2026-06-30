@@ -14,7 +14,7 @@ breadcrumb: [Use, Talent Profile, Hiring Experiences, HR Service Delivery, Emplo
 
 # Create talent profiles
 
-Create talent profiles to add it to the [[talent-profile-landing|talent profile]] repository of your organization. Use it for an optimized [[hiring-tab-concept|hiring]] process.
+Create talent profiles to add it to the talent profile repository of your organization. Use it for an optimized hiring process.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
-2.  Go to the **[[talent-pool-overview|Talent pool]]** tab.
+2.  Go to the **Talent pool** tab.
 
 3.  Create a talent profile either from the All talent section or from the **Talent** tab in a Talent pool page.
 
@@ -46,9 +46,3 @@ You have created a talent profile.
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[hiring-tab-concept|Hiring]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-pool-overview|Talent pool]]

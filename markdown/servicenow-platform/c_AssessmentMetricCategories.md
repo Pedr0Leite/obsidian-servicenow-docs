@@ -12,7 +12,7 @@ breadcrumb: [View an assessment metric category, Assessment administrator tasks,
 
 # Assessment metric categories
 
-In the [[r_Assessments|Assessments]] application, a metric category represents a theme for evaluating [[c_assessable-records|assessable records]] in a given metric type.
+In the Assessments application, a metric category represents a theme for evaluating assessable records in a given metric type.
 
 Each category has a numeric weight value to indicate its importance relative to other categories. Within a category, records called metrics are the traits or values used to evaluate assessable records. For example, there are many categories within the **Vendor** metric type, including Support Rating, which contains metrics that measure the quality of vendors' customer support services. Assessable records must be associated to categories to be eligible for evaluation. Assessment administrators create categories and manage which assessable records each category is associated to.
 
@@ -20,47 +20,32 @@ Each category has a numeric weight value to indicate its importance relative to 
 
 When you create a metric category or metric, you must specify a weight, a numeric value that indicates the importance of the category or metric relative to other categories and metrics.
 
-The greater the weight value, the more important the item is. The system uses weight values in [[r_AssessmentResults|assessment result]] calculations. Consider these recommendations when choosing weight values.
+The greater the weight value, the more important the item is. The system uses weight values in [assessment result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentResults.md) calculations. Consider these recommendations when choosing weight values.
 
 -   Determine a weighting scale and use it consistently. In general, use a scale with a small numeric range. A standard 1-10 scale is usually appropriate, where 1 is least and 10 most important. Understand that increasing the maximum value of a weighting scale impacts all related result calculations.
 -   Use the same weighting scale for metric categories and metrics. Though there is no limitation, consider using the same or very similar weighting scales for both categories and metrics to make it easier to remember which values to use. A scale of 1-10 is an effective and simple weighting system, but may not be suitable for all organizations.
 
 **Note:** If you do not want to use weighting, set the same weight value for all categories and metrics. The default weight value is 10.
 
--   **[[t_CreateACategoryAR|Create a category for assessable records]]**  
+-   **[Create a category for assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryAR.md)**  
 After you create a metric type and generate assessable records, create categories for the themes you are interested in using to evaluate the assessable records.
--   **[[r_ManageAssessablRecordAssociation|Assessable record associations]]**  
+-   **[Assessable record associations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ManageAssessablRecordAssociation.md)**  
 Only the assessable records associated to a category can be evaluated using metrics in that category. Manage which assessable records you evaluate for each category by creating and removing the associations.
--   **[[t_DeleteACategory|Delete a category]]**  
-When you delete a category, the system also deletes the associated [[r_CategoryUsersAndStakeholders|category users and stakeholders]].
+-   **[Delete a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DeleteACategory.md)**  
+When you delete a category, the system also deletes the associated category users and stakeholders.
 
-**Parent Topic:**[[t_CreateAnAssessmentCategory|View an assessment metric category]]
+**Parent Topic:**[View an assessment metric category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentCategory.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateAMetric|Create an assessment metric for a category]]
+[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
-[[t_CreateAMetricDefinition|Create an assessment metric definition]]
+[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-[[r_MetricTemplates|Metric templates]]
+[Metric templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricTemplates.md)
 
-[[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
+[Update a metric minimum and maximum value to match a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdAMetrMinMaxValToMatchATmplate.md)
 
-## Related
-
-- [[r_AssessmentResults|Assessment results]]
-- [[t_CreateACategoryAR|Create a category for assessable records]]
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[t_DeleteACategory|Delete a category]]
-- [[t_CreateAnAssessmentCategory|View an assessment metric category]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[r_MetricTemplates|Metric templates]]
-- [[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]

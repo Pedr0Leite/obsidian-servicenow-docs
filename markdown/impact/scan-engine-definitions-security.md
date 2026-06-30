@@ -40,7 +40,7 @@ Short Description
 
 </th><th>
 
-Business [[impact-landing-page|Impact]]
+Business Impact
 
 </th><th>
 
@@ -900,7 +900,7 @@ Act
 
 </td><td>
 
-[[instance-observer-performance|Performance]] Monitoring ACL should be enabled
+Performance Monitoring ACL should be enabled
 
 </td><td>
 
@@ -1704,7 +1704,7 @@ ValidatePasswordStronger should be enabled
 
 </td><td>
 
-Weak password being enabled on the instance is a critical security risk due to ease of access and extremely high likelihood for an adversary to get access to the instance with the [[io-help|help]] of simple password guessing/brute-forcing techniques.
+Weak password being enabled on the instance is a critical security risk due to ease of access and extremely high likelihood for an adversary to get access to the instance with the help of simple password guessing/brute-forcing techniques.
 
 </td><td>
 
@@ -2536,7 +2536,7 @@ Cross Scope Privileges in requested status should be reviewed
 
 </td><td>
 
-Possibility for bugs in the application resulting in inaccurate data and/or poor [[user-experience-insights|user experience]].
+Possibility for bugs in the application resulting in inaccurate data and/or poor user experience.
 
 </td><td>
 
@@ -4725,10 +4725,3 @@ Search for business rule **Restrict guest user to knowledge base** with SysId **
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]
-- [[user-experience-insights|User Experience]]

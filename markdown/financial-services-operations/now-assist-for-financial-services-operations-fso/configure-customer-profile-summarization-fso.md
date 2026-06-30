@@ -14,11 +14,11 @@ breadcrumb: [Configure AI skills, Configure, Now Assist for FSO, Financial Servi
 
 # Configure banking customer profile summarization in Now Assist for FSO
 
-Configure the Customer Profile Summarization skill in Now Assist for FSO to enable AI-powered summaries of banking customer information in [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]].
+Configure the Customer Profile Summarization skill in Now Assist for FSO to enable AI-powered summaries of banking customer information in Agentic Contact Center for Banking.
 
 ## Before you begin
 
-Verify the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] plugin \(sn\_fso\_gen\_ai\) is installed.
+Verify the Now Assist for Financial Services Operations \(FSO\) plugin \(sn\_fso\_gen\_ai\) is installed.
 
 -   For information about the plugin dependencies and plugin activation order, see [Application information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md).
 -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -60,7 +60,3 @@ You can choose which service provider to use for this skill [in the Now Assist A
 
 **Parent Topic:**[Configure Financial Services Operations Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-now-assist-skills.md)
 
-## Related
-
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

@@ -18,7 +18,7 @@ Indoor positioning enables end users to see their live location on an Indoor Way
 
 Before you can configure indoor positioning, you must have completed the following configurations:
 
--   Configure Indoor Wayfinding. For more information, see [[indoor-wayfinding-config|Indoor Wayfinding configuration]].
+-   Configure Indoor Wayfinding. For more information, see [Indoor Wayfinding configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/indoor-wayfinding-config.md).
 -   Set up at least one custom map provider in the Custom Map Provider \[sys\_sg\_custom\_map\_provider\] table. For more information, see [Configure a custom map provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-custom-map-provider.md)
 
 Role required: admin
@@ -30,17 +30,17 @@ Consider the following requirements that are related to this task.
 -   If all buildings use the same location provider, only one custom map provider record is needed.
 -   If different location providers are needed for each building, create a custom map provider record for each building and select the building as the key. Then assign location providers to your mobile devices.
 
-For information about the features this configuration enables for end users, see [[indoor-positioning-end-user|Indoor positioning]].
+For information about the features this configuration enables for end users, see [Indoor positioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/indoor-positioning-end-user.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you’re working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** in the menu.
 
@@ -61,9 +61,3 @@ For information about the features this configuration enables for end users, see
 
 **Parent Topic:**[Indoor Wayfinding configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/indoor-wayfinding-config.md)
 
-## Related
-
-- [[indoor-wayfinding-config|Indoor Wayfinding configuration]]
-- [[indoor-positioning-end-user|Indoor positioning]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

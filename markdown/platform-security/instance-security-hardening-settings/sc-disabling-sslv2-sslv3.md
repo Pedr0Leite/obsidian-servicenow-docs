@@ -16,9 +16,9 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 Use the **glide.outbound.sslv3.disabled** property to force the MID Server to use TLS when making outbound connections, such as REST and SOAP requests. Normally, outbound connections from an instance are forced to use TLS instead of SSL.
 
-The **glide.outbound.sslv3.disabled** system property controls the desired transport [[encryption-landing|encryption]] protocol. If **glide.outbound.sslv3.disabled** is not set to the recommended value of **true**, then outbound MID server connections such as REST and SOAP requests will use SSL as the transport protocol. SSL was proven to be insecure in 2014.
+The **glide.outbound.sslv3.disabled** system property controls the desired transport encryption protocol. If **glide.outbound.sslv3.disabled** is not set to the recommended value of **true**, then outbound MID server connections such as REST and SOAP requests will use SSL as the transport protocol. SSL was proven to be insecure in 2014.
 
-Ensure that the **glide.outbound.sslv3.disabled** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to the value **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+Ensure that the **glide.outbound.sslv3.disabled** system property exists in the System Properties \[sys\_properties\] table and is set to the value **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,8 +117,3 @@ None
 
 **Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

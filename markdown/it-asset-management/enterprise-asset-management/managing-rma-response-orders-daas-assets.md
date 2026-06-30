@@ -23,15 +23,11 @@ To successfully fulfill an RMA request, you must perform the following tasks in 
 3.  [Complete the RMA response order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-rma-response-order-daas-assets.md)
 
 -   **[Create a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-rma-response-order-daas-assets.md)**  
-[[create-rma-response-order|Create an RMA response order]] to track and manage the process of repairing or replacing the defective DaaS assets that are associated with an RMA request.
+Create an RMA response order to track and manage the process of repairing or replacing the defective DaaS assets that are associated with an RMA request.
 -   **[Create a Return Merchandise Authorization \(RMA\) response order line for a defective Device as a Service \(DaaS\) asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-rma-response-order-line-daas-asset.md)**  
-[[create-rma-response-order-line|Create an RMA response order line]] for each defective DaaS asset that you want to repair or replace through an RMA response order. Use each order line to track and manage the tasks that you must complete to repair or replace the given asset.
+Create an RMA response order line for each defective DaaS asset that you want to repair or replace through an RMA response order. Use each order line to track and manage the tasks that you must complete to repair or replace the given asset.
 -   **[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-rma-response-order-daas-assets.md)**  
 After you create an RMA response order with corresponding RMA response order lines, you must perform various tasks to complete and close the order.
 
 **Parent Topic:**[Enterprise Asset Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-providers.md)
 
-## Related
-
-- [[create-rma-response-order|Create an RMA response order]]
-- [[create-rma-response-order-line|Create an RMA response order line]]

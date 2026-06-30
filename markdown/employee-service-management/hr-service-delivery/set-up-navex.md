@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations integration with Navex Ethicspoint, Integration 
 
 # Set up Employee Relations integration with Navex Ethicspoint
 
-Understand how to set up the [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]] application for pulling and pushing [[hr-case-employee-relations|employee relations]] case data from the Navex EthicsPoint system into the ServiceNow system.
+Understand how to set up the Employee Relations integration with Navex Ethicspoint application for pulling and pushing employee relations case data from the Navex EthicsPoint system into the ServiceNow system.
 
 ## Before you begin
 
@@ -40,7 +40,4 @@ Role required: sn\_hr\_navex\_ep.admin
 
 6.  [Map fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/map-fields-navex.md).
 
-## Related
 
-- [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]]
-- [[hr-case-employee-relations|Employee Relations]]

@@ -18,8 +18,5 @@ These properties control settings for several different features, including comm
 
 You can also access Public Sector Digital Services properties using the system property \[sys\_properties\] table. Start by entering **sys\_properties.list** in the application navigator and selecting **Enter**. You can then filter the properties by application.
 
-For more information on the properties that are installed with Public Sector Digital Services, see [[properties-installed-with-psds|Properties installed with Public Sector Digital Services]]
+For more information on the properties that are installed with Public Sector Digital Services, see [Properties installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/properties-installed-with-psds.md)
 
-## Related
-
-- [[properties-installed-with-psds|Properties installed with Public Sector Digital Services]]

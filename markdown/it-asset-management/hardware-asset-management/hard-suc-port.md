@@ -14,7 +14,7 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # Success portal view in Hardware Asset Workspace
 
-Use the Success portal view in Hardware Asset Workspace to track the progress of your [[ham-landing-page|Hardware Asset Management]] \(HAM\) application with success goals, assign activities to track the success of your goals, and mature your HAM program with predefined maturity items.
+Use the Success portal view in Hardware Asset Workspace to track the progress of your Hardware Asset Management \(HAM\) application with success goals, assign activities to track the success of your goals, and mature your HAM program with predefined maturity items.
 
 Success portal helps you perform the following actions:
 
@@ -40,7 +40,7 @@ Email notifications are sent when the following conditions are met:
 -   To an owner, when a success goal is marked as Pending Review.
 -   To an assigned user or an assignment group, when a success activity is assigned.
 
-Access the Success portal by navigating to **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Success portal**.
+Access the Success portal by navigating to **Hardware Asset Workspace** &gt; **Success portal**.
 
 The Success portal supports domain separation when the Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\) is activated. To filter the data by domain, select a domain at the top of the dashboard.
 
@@ -117,7 +117,3 @@ Open success goal activities.
 </td></tr></tbody>
 </table>**Important:** The **HAM maturity**, **Total success savings**, **Projected savings**, and **All goals** fields are available with the Hardware Asset Management 10.0.0 version or later.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

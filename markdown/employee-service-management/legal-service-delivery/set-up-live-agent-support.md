@@ -14,14 +14,14 @@ breadcrumb: [Live agent support for legal services, Legal Virtual Agent Conversa
 
 # Configure live agent support settings for legal services
 
-Configure settings to enable [[legal-va-live-agent|live agent support for legal services]].
+Configure settings to enable live agent support for legal services.
 
 ## Before you begin
 
 -   Ensure that you have the following applications installed:
-    -   [[legal-request-management-landing-page|Legal Request Management]]
-    -   [[legal-va-conversations|Legal Virtual Agent Conversations]]
-    -   [[legal-counsel-center-landing|Legal Counsel Center]]
+    -   Legal Request Management
+    -   Legal Virtual Agent Conversations
+    -   Legal Counsel Center
 -   Ensure you select **Load demo data** while installing Agent Chat.
 -   Ensure the user has legal fulfiller \(sn\_lg\_ops.legal\_fulfiller\) role to use the Agent Chat.
 
@@ -66,9 +66,3 @@ Role required: admin
 
 **Parent Topic:**[Live agent support for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-live-agent.md)
 
-## Related
-
-- [[legal-va-live-agent|Live agent support for legal services]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-va-conversations|Legal Virtual Agent Conversations]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

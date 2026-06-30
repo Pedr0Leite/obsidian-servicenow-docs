@@ -14,13 +14,13 @@ breadcrumb: [Smart Assessment Engine, Governance, Risk, and Compliance]
 
 # Exploring Smart Assessment Engine
 
-The ServiceNow®[[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\) helps you reduce the manual burden and costs of your assessment processes through automation.
+The ServiceNow®Smart Assessment Engine \(SAE\) helps you reduce the manual burden and costs of your assessment processes through automation.
 
 \[Omitted video\] Description: Smart Assessmemnt Engine Overview
 
 ## Smart Assessment Engine
 
-In [[r_WhatIsGRC|Governance, Risk, and Compliance]] \(GRC\) workflows such as compliance management, vendor risk management, [[privacy-management|privacy management]], [[c_GRCAudits|audit management]], business continuity, and operational risk management, organizations face challenges in gathering input from employees and making informed decisions. Manual processes can be inefficient, time-consuming, and prone to errors, leading to increased operational costs and compliance risks.
+In Governance, Risk, and Compliance \(GRC\) workflows such as compliance management, vendor risk management, privacy management, audit management, business continuity, and operational risk management, organizations face challenges in gathering input from employees and making informed decisions. Manual processes can be inefficient, time-consuming, and prone to errors, leading to increased operational costs and compliance risks.
 
 SAE is designed to automate and optimize assessment processes, reducing manual efforts and costs. It provides an intuitive, configurable, and access-controlled assessment experience, enabling organizations to design and execute assessments seamlessly while ensuring compliance and efficiency. SAE is a versatile and business-friendly assessment engine that simplifies data collection, risk analysis, and compliance management. It supports a drag-and-drop template designer for effortless assessment creation and includes predefined roles to align with standard user personas. SAE ensures end-to-end workflow automation, post-assessment actions, and seamless collaboration.
 
@@ -44,7 +44,7 @@ Users
 
 </th></tr></thead><tbody><tr><td>
 
-See an overview of all your assessment template-related information. You can review the published and unpublished [[airc-assessment-templates|assessment templates]] and access the template designer.
+See an overview of all your assessment template-related information. You can review the published and unpublished assessment templates and access the template designer.
 
 </td><td>
 
@@ -60,7 +60,7 @@ Use the template designer for the following tasks:
 
  -   Create and customize the assessment templates that support a range of types including Control Attestation and Risk Identification.
 -   Set the assessment parameters such as the question types, justifications, and conditional visibility.
--   Add the instructions, questions, and reference information by [[sae-template-designer|using the template designer]].
+-   Add the instructions, questions, and reference information by using the template designer.
 
 </td><td>
 
@@ -182,11 +182,3 @@ sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_manager and sn\_s
 
 For more information, see [Roles installed in Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-roles-defined.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[privacy-management|privacy management]]
-- [[c_GRCAudits|Audit Management]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[sae-template-designer|Using the template designer]]

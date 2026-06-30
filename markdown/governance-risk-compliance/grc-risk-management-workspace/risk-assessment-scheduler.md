@@ -14,7 +14,7 @@ breadcrumb: [Advanced Risk Assessment, Explore, Risk Management, Governance, Ris
 
 # Manage risk assessment scheduler
 
-Create a risk assessment scheduler and assign it to the risk manager. A risk manager can then identify the entities and the risks within the entities for bulk initiation of [[risk-assessments|risk assessments]].
+Create a risk assessment scheduler and assign it to the risk manager. A risk manager can then identify the entities and the risks within the entities for bulk initiation of risk assessments.
 
 In most organizations, the second line of risk managers coordinates the risk assessments. This second line of risk managers identifies the entities and the risks within those entities for risk assessment. They also identify who must assess the identified risks. This process is like a risk assessment campaign the risk managers must manage until the first line of risk managers reach the level of maturity where this is no longer required and the first line of risk managers can self-assess and report these risks. Because of this cycle of risk assessment, the risk managers are expected to create individual risk assessment scopes and initiate risk assessments​. This repetitive activity results in loss of time for risk managers. To address this issue, a new form called Risk Assessment Scheduler has been introduced in the Quebec release. The risk assessment scheduler enables the risk manager to select the:
 
@@ -36,6 +36,3 @@ The following figure shows the states, the descriptions, and the expected outcom
 
 [Schedule risk assessments in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/schedule-risk-assessment-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

@@ -22,7 +22,7 @@ Role required: map admin, map editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Indoor Mapping Properties**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Indoor Mapping Properties**.
 
     Indoor Mapping properties are displayed. Customize the map component properties as required.
 
@@ -128,6 +128,3 @@ Threshold to simplify complex shapes or geometries that have 20 or more coordina
 
 **Next topic:**[Manage CAD source files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-autocad-files.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

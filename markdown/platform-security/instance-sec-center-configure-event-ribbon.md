@@ -22,10 +22,10 @@ Role required: security\_dashboard\_user or admin
 
 The security event ribbon is initially populated with a full set of standard security events. You can customize it by removing the events that are not relevant to your organization.
 
--   For example, if you suspect that security issues are due to the actions of internal personnel, include the Admin Logins, Admin [[users|Users]] added, and Security Elevations event indicators.
--   These indicators monitor how many times users with admin roles attempted to log in and, if admin users were added, what attempts were made to elevate [[security-roles|security roles]].
+-   For example, if you suspect that security issues are due to the actions of internal personnel, include the Admin Logins, Admin Users added, and Security Elevations event indicators.
+-   These indicators monitor how many times users with admin roles attempted to log in and, if admin users were added, what attempts were made to elevate security roles.
 
-**Note:** To learn about the types of security events that appear in the event ribbon, see [[instance-sec-center-event-ribbon|Monitor security events]].
+**Note:** To learn about the types of security events that appear in the event ribbon, see [Monitor security events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md).
 
 ## Procedure
 
@@ -53,11 +53,5 @@ The security event ribbon is initially populated with a full set of standard sec
 **Related topics**  
 
 
-[[instance-security-center|Instance Security Center]]
+[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
-## Related
-
-- [[instance-sec-center-event-ribbon|Monitor security events]]
-- [[instance-security-center|Instance Security Center]]
-- [[users|Users]]
-- [[security-roles|Security Roles]]

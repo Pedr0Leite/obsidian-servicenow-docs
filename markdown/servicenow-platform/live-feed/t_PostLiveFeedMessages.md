@@ -30,13 +30,10 @@ Role required: none
 
     Use hashtags, if you want.
 
-4.  As needed, click the poll, [[attachment|attachment]], or screenshot icon , , to add a poll, attachment, or screenshot image, respectively.
+4.  As needed, click the poll, attachment, or screenshot icon , , to add a poll, attachment, or screenshot image, respectively.
 
 5.  Click **Post**.
 
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[attachment|Attachment]]

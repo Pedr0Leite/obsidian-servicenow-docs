@@ -12,7 +12,7 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Use Guided Setup to onboard users to the Impact Store Application
 
-Onboard new and existing users to the [[impact-landing-page|Impact]] Store Application.
+Onboard new and existing users to the Impact Store Application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: impact app admin
 
     The Assign users to group assignment table contains a list of available Impact groups to assign users to. You can also create a new group.
 
-    **Note:** For information on Impact groups and roles, see [[impact-roles|Roles installed with Impact]].
+    **Note:** For information on Impact groups and roles, see [Roles installed with Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-roles.md).
 
 3.  Select a **\[Group name\]** to open the user assignment page for the selected group.
 
@@ -50,24 +50,16 @@ Role required: impact app admin
 
     This will complete user setup for the Impact Store App and unlock the next step in Guided Setup. If you select **Close**, you will return to Guided Setup and other steps are locked until the Impact User assignment task is marked as complete.
 
-9.  Select **Next** to continue to Assign [[platform-health-idi|Platform Health]] Users.
+9.  Select **Next** to continue to Assign Platform Health Users.
 
 
 ## What to do next
 
-[[assign-users-scan-engine-groups|Assign users to Platform Health groups]]
+[Assign users to Platform Health groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/assign-users-scan-engine-groups.md)
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[guided-setup-impact-in-app|Run Impact Guided Setup]]
+**Previous topic:**[Run Impact Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/guided-setup-impact-in-app.md)
 
 **Next topic:**[Assign users to Platform Health groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/assign-users-scan-engine-groups.md)
 
-## Related
-
-- [[impact-roles|Roles installed with Impact]]
-- [[assign-users-scan-engine-groups|Assign users to Platform Health groups]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[guided-setup-impact-in-app|Run Impact Guided Setup]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

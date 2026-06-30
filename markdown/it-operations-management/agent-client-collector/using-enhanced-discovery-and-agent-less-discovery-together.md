@@ -15,11 +15,11 @@ breadcrumb: [ACC Discovery, ACC deployment - servers, Configuring Agent Client C
 
 # Using push-based Discovery and horizontal IP-based Discovery together
 
-[[r-discovery|Discovery]] performed by [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) is compatible and can coexist with horizontal IP-based Discovery. You may have ACC installed on a given target host and still have that host as part of a horizontal IP-based Discovery schedule as well.
+Discovery performed by Agent Client Collector for Visibility - Content \(ACC-VC\) is compatible and can coexist with horizontal IP-based Discovery. You may have ACC installed on a given target host and still have that host as part of a horizontal IP-based Discovery schedule as well.
 
 To avoid conflicts, ACC-VC does not perform Discovery when the target host’s IP already has a CI that has been discovered by horizontal IP-based Discovery \(discovery\_source is ServiceNow\). To override this behavior, set the system property \[**sn\_agent.disco\_disable\_ci\_clobber\_of\_agentless\_disco**\] to false. This setting is ignored if horizontal IP-based Discovery was not performed over a specific time. Update the system property \[**sn\_agent.disco\_ci\_clobber\_of\_agentless\_disco\_threshold\_days**\] if necessary. The default is 14 days. See [System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) for more details.
 
-To enable Discovery using Agent Client Collector, enable the following [[r_DiscoveryProperties|Discovery properties]] on the Discovery properties page \(**All** &gt; **Discovery Definition** &gt; **Properties**\):
+To enable Discovery using Agent Client Collector, enable the following Discovery properties on the Discovery properties page \(**All** &gt; **Discovery Definition** &gt; **Properties**\):
 
 <table id="table_vsm_bjb_4fc"><thead><tr><th>
 
@@ -52,8 +52,3 @@ Enables cleanup for software’s name and version. If set to **true**, it remove
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[r_DiscoveryProperties|Discovery properties]]

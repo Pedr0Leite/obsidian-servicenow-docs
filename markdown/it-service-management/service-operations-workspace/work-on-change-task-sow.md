@@ -24,7 +24,7 @@ Role required: itil or admin
 
 1.  Open a change.
 
-2.  From the **[[change-tasks|Change tasks]]** tab, open the required change task.
+2.  From the **Change tasks** tab, open the required change task.
 
 3.  To find and work on records that help in quick resolution of the change task, perform the following actions.
 
@@ -54,6 +54,3 @@ Role required: itil or admin
 
 [Conduct a CAB meeting in the CAB workbench]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

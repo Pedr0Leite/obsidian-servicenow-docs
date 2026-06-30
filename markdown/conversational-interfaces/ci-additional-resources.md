@@ -12,7 +12,7 @@ breadcrumb: [Conversational Interfaces]
 
 # Additional resources for Conversational Interfaces
 
-If you’re looking for [[convint-landing-page|Conversational Interfaces]] \(CI\) best practices, troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow® resources on other relevant websites.
+If you’re looking for Conversational Interfaces \(CI\) best practices, troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow® resources on other relevant websites.
 
 <table id="table_v41_hxt_bzb" class="custom-rows"><thead><tr><th class="filter">
 
@@ -28,7 +28,7 @@ Resources
 
 </th></tr></thead><tbody><tr><td>
 
-[[ci-use-agent-chat|Agent Chat]]
+Agent Chat
 
 </td><td>
 
@@ -52,7 +52,7 @@ FAQs
 
 </td></tr><tr><td>
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]]
+Now Assist in Virtual Agent
 
 </td><td>
 
@@ -82,7 +82,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[sidebar-landing|Sidebar]]
+Sidebar
 
 </td><td>
 
@@ -118,7 +118,7 @@ FAQs
 
 </td></tr><tr><td>
 
-[[virtual-agent-landing-page|Virtual Agent]]
+Virtual Agent
 
 </td><td>
 
@@ -182,11 +182,3 @@ FAQs
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[sidebar-landing|Sidebar]]
-- [[virtual-agent-landing-page|Virtual Agent]]

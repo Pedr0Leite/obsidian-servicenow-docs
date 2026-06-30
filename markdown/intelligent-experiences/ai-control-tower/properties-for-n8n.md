@@ -14,11 +14,11 @@ breadcrumb: [n8n, Service Graph Connectors for AI Control Tower, AI connections,
 
 # Properties for n8n
 
-[[n8n|AI Service Graph Connector for n8n]]  properties control the behavior of the connector.
+AI Service Graph Connector for n8n  properties control the behavior of the connector.
 
 ## System properties
 
-**Note:** To open the System Properties \[sys\_properties\] table, enter sys\_properties.list  in the [[now-assist-global-navigation|navigation]] filter.
+**Note:** To open the System Properties \[sys\_properties\] table, enter sys\_properties.list  in the navigation filter.
 
 <table id="table_ujl_vck_m3c"><thead><tr><th>
 
@@ -50,8 +50,3 @@ The maximum number of items to return in each page of sn\_n8n\_integ.sgn8n\_list
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[n8n|AI Service Graph Connector for n8n]]
-- [[now-assist-global-navigation|Navigation]]

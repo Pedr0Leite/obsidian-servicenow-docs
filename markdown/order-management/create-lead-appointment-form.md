@@ -12,7 +12,7 @@ breadcrumb: [Lead Management reference, Lead and opportunity management, Referen
 
 # Create new appointment form
 
-Field descriptions for editing or reviewing details on the [[create-appointments-form|Create New Appointment form]] in the [[lead-management|Lead Management]] and [[explore-crm-touchpoints|CRM Touchpoints]] modules.
+Field descriptions for editing or reviewing details on the Create New Appointment form in the Lead Management and CRM Touchpoints modules.
 
 |Field|Description|
 |-----|-----------|
@@ -26,17 +26,10 @@ Field descriptions for editing or reviewing details on the [[create-appointments
 |Location|Location of your appointment.|
 |Message|Additional information for your appointment.|
 
-**Parent Topic:**[[lead-management-reference|Lead Management reference]]
+**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-reference.md)
 
 **Related topics**  
 
 
-[[lead-management-create-appointment|Create appointments for lead tasks]]
+[Create appointments for lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-create-appointment.md)
 
-## Related
-
-- [[lead-management-reference|Lead Management reference]]
-- [[lead-management-create-appointment|Create appointments for lead tasks]]
-- [[create-appointments-form|Create new appointment form]]
-- [[lead-management|Lead Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

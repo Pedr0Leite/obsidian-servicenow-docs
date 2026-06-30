@@ -14,7 +14,7 @@ breadcrumb: [Manage issues using the Compliance Workspace, Use, GRC Compliance w
 
 # Manually create GRC issues using the Compliance Workspace
 
-Using the Compliance Workspace, GRC you can manually create issues to document policy, risk, or [[audit-observations|audit observations]], or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
+Using the Compliance Workspace, GRC you can manually create issues to document policy, risk, or audit observations, or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
 
 ## Before you begin
 
@@ -32,9 +32,9 @@ Role required: compliance\_admin, compliance\_manager, or sn\_compliance.user
 
 4.  Click **New**.
 
-    For field descriptions of the [[create-new-issue-opres-ws|Create New Issue form]], see [Compliance workspace issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/new-issue-form-compliance-ws.md).
+    For field descriptions of the Create New Issue form, see [Compliance workspace issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/new-issue-form-compliance-ws.md).
 
-    **Note:** Starting with Version 12.0.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the minimum role for the **Assigned to** user on the Issues form is GRC Business User \[sn\_grc.business\_user\]. The minimum role for the **Issue manager** is GRC User \[sn\_grc.\_user\].
+    **Note:** Starting with Version 12.0.1 of the Policy and Compliance Management application, the minimum role for the **Assigned to** user on the Issues form is GRC Business User \[sn\_grc.business\_user\]. The minimum role for the **Issue manager** is GRC User \[sn\_grc.\_user\].
 
 5.  Save the issue record.
 
@@ -51,7 +51,7 @@ Role required: compliance\_admin, compliance\_manager, or sn\_compliance.user
     -   Link the issue to multiple records of the same object type such as a control. For example, if there are three controls that monitor Google Cloud, Microsoft Azure cloud, and AWS cloud and there are three different issues raised for them being down, you can link all the three controls to one issue as cloud services is down.
     -   Link the issue to different objects such as controls, control objectives, policies, and engagements.
     -   Relate the issue to different type of objects.
-    **Note:** If the issue is closed, then you cannot create, add, or remove any of the objects from the [[issue-form|issue form]]. You can view the Control, Control objective, Authority document, Policy, Engagement related lists in the Issue Overview page. However, the UI action buttons in each of these related lists such as New, Add, and Remove are inactive.
+    **Note:** If the issue is closed, then you cannot create, add, or remove any of the objects from the issue form. You can view the Control, Control objective, Authority document, Policy, Engagement related lists in the Issue Overview page. However, the UI action buttons in each of these related lists such as New, Add, and Remove are inactive.
 
     \[Omitted image "IssueFormRelatedLists.png"\] Alt text: Related lists in Issue form.
 
@@ -61,9 +61,3 @@ Role required: compliance\_admin, compliance\_manager, or sn\_compliance.user
     -   Help identify the root cause of the issue and group similar issues.
     -   Solve one issue, which resolves the related issues.
 
-## Related
-
-- [[audit-observations|Audit observations]]
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[issue-form|Issue form]]

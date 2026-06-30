@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Composing emails with predefined content from the Source-to-Pay Workspace
 
-Insert predefined email content in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] email client to send consistent, professional responses to invoice inquiries.
+Insert predefined email content in the Source-to-Pay Workspace email client to send consistent, professional responses to invoice inquiries.
 
 You can use this feature to compose and send emails directly from an invoice case. To open the email client, select **Compose Email** from the more actions icon \(\[Omitted image "more-actions-icon.png"\] Alt text: More actions\) from an invoice case. A draft email appears with pre-populated data in the **To** and **Subject** fields.
 
@@ -58,7 +58,7 @@ Compose and send emails directly from an invoice inquiry case or an invoice proc
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -70,10 +70,5 @@ Compose and send emails directly from an invoice inquiry case or an invoice proc
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

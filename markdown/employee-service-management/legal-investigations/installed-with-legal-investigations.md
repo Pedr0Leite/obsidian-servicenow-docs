@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Investigations, Legal Service Delivery Practice Ap
 
 # Components installed with Legal Investigations
 
-Several types of components are installed with activation of the [[legal-investigations-landing-page|Legal Investigations]] application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Legal Investigations application, including tables, user roles, and scheduled jobs.
 
 ## Roles
 
@@ -133,6 +133,3 @@ Association between an allegation and its subjects of allegation. One allegation
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 
-## Related
-
-- [[legal-investigations-landing-page|Legal Investigations]]

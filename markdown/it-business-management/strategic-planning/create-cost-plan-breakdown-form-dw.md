@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Create cost plan breakdown form
 
-The [[cost-plan-breakdown-form|cost plan breakdown form]] information is used to create and edit a [[cost-plan-breakdown|cost plan breakdown]] record for a cost plan of a demand.
+The cost plan breakdown form information is used to create and edit a cost plan breakdown record for a cost plan of a demand.
 
 <table id="table_ibz_kkp_c3c"><thead><tr><th>
 
@@ -90,8 +90,3 @@ First date of the fiscal period corresponding to the cost plan breakdown.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cost-plan-breakdown-form|Cost plan breakdown form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

@@ -33,7 +33,7 @@ Complete the troubleshooting task to assess the issues with the defective asset.
 -   **[Complete the repair asset task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-eam-assets-ws.md)**  
 Complete the repair of the asset and confirm if the asset is repaired, unrepairable, or redeployable.
 -   **[Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/evaluate-repaired-eam-asset-ws.md)**  
-[[evaluate-asset|Evaluate the repaired asset]] and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
+Evaluate the repaired asset and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
 -   **[Bulk close asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/bulk-close-repair-tasks-eam-ws.md)**  
 Complete and close multiple repair tasks at one go to process a repair order with multiple repair order lines.
 -   **[Cancel a repair order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-orders-eam-ws.md)**  
@@ -43,6 +43,3 @@ Cancel a repair order line that no longer needs to be fulfilled.
 
 **Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/fulfilling-repair-orders-eam.md)
 
-## Related
-
-- [[evaluate-asset|Evaluate the repaired asset]]

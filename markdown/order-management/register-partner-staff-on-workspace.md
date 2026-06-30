@@ -30,9 +30,9 @@ The Enterprise Partner Relationship Manager \[sn\_prm.enterprise\_partner\_rel\_
 
 3.  Open a channel partner record from the list and select **Register Partner Staff**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
-    To learn more about the fields on the Register member form, see [[member-registration-form|Member registration form]].
+    To learn more about the fields on the Register member form, see [Member registration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/member-registration-form.md).
 
 5.  Upload a file or document in the **Add attachments** section.
 
@@ -41,19 +41,12 @@ The Enterprise Partner Relationship Manager \[sn\_prm.enterprise\_partner\_rel\_
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[create-channel-partner-record|Create Channel Partner record]]
+**Parent Topic:**[Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[member-registration-form|Member registration form]]
-- [[create-channel-partner-record|Create Channel Partner record]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

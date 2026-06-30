@@ -14,15 +14,15 @@ breadcrumb: [OAuth authentication, Authentication, Access Management]
 
 # OAuth Inbound
 
-OAuth Inbound [[c_Authentication|authentication]] allows trusted external applications to securely access ServiceNow APIs, ensuring controlled and authorized connections.
+OAuth Inbound authentication allows trusted external applications to securely access ServiceNow APIs, ensuring controlled and authorized connections.
 
-You must have one of the following roles to configure or manage [[oauth-inbound-and-outbound|OAuth]] integrations in the system:
+You must have one of the following roles to configure or manage OAuth integrations in the system:
 
 -   `oauth_admin`
 -   `mi_admin`
 -   `admin`
 
-Inbound authentication enables external applications such as third-party systems or other ServiceNow® instances to connect securely to ServiceNow APIs. Inbound authentication confirms that only trusted clients can access your ServiceNow instance in a controlled and secure manner. ServiceNow supports several [[c_OAuthApplications|OAuth 2.0]] grant types, each designed for specific integration scenarios. Use the following information to choose the grant type that best fits your use case:
+Inbound authentication enables external applications such as third-party systems or other ServiceNow® instances to connect securely to ServiceNow APIs. Inbound authentication confirms that only trusted clients can access your ServiceNow instance in a controlled and secure manner. ServiceNow supports several OAuth 2.0 grant types, each designed for specific integration scenarios. Use the following information to choose the grant type that best fits your use case:
 
 ## Authorization Code Grant
 
@@ -40,10 +40,10 @@ Applications that must access user data on behalf of user with the user’s cons
 
 </td><td>
 
-The user initiates the login process from the client application, which redirects them to a ServiceNow login page. After the user [[logs|logs]] in and grants consent, the client application receives an authorization code. The client application exchanges the authorization code with the ServiceNow instance for an access token. [[authorization-code-grant|Authorization code grant]] is the most secure and widely used workflow for user-facing integrations. It supports both confidential clients \(with a client secret\) and public clients using Proof Key for Code Exchange \(PKCE\).
+The user initiates the login process from the client application, which redirects them to a ServiceNow login page. After the user logs in and grants consent, the client application receives an authorization code. The client application exchanges the authorization code with the ServiceNow instance for an access token. Authorization code grant is the most secure and widely used workflow for user-facing integrations. It supports both confidential clients \(with a client secret\) and public clients using Proof Key for Code Exchange \(PKCE\).
 
 </td></tr></tbody>
-</table>For more information about [[authorization-workflow|Authorization code grant workflow]] and [[sc-configuration|configuration]], see 
+</table>For more information about Authorization code grant workflow and configuration, see 
 
 ## Client Credentials Grant
 
@@ -51,13 +51,13 @@ The user initiates the login process from the client application, which redirect
 |--------------------|-------------|
 |Client applications such as back-end services or automated system integrations that must access ServiceNow APIs without user involvement.|The client application authenticates directly with the ServiceNow instance using its own credentials \(client ID and secret\). Once authenticated, the application receives an access token to access the ServiceNow APIs.|
 
-For more information about [[client-credentials-grant-workflow|Client credentials grant workflow]] and configuration, see .
+For more information about Client credentials grant workflow and configuration, see .
 
 ## Third party ID Token Flow
 
 |Ideal Usage Scenario|Functionality|
 |--------------------|-------------|
-|Federated authentication scenarios where ServiceNow trusts [[identity-landing|identity]] tokens issued by external identity providers such as Azure AD or Okta.|The client application obtains an ID or access token from a trusted third-party identity provider, and includes it in the authorization header when making API requests to the ServiceNow instance. ServiceNow validates the token and, if trusted, grants access based on the identity it asserts. This enables seamless single sign-on \(SSO\) and federated authentication across systems.|
+|Federated authentication scenarios where ServiceNow trusts identity tokens issued by external identity providers such as Azure AD or Okta.|The client application obtains an ID or access token from a trusted third-party identity provider, and includes it in the authorization header when making API requests to the ServiceNow instance. ServiceNow validates the token and, if trusted, grants access based on the identity it asserts. This enables seamless single sign-on \(SSO\) and federated authentication across systems.|
 
 For more information about Third party token flow and configuration, see.
 
@@ -73,7 +73,7 @@ Functionality
 
 </th></tr></thead><tbody><tr><td>
 
-Client applications that need secure access to ServiceNow resources, either on behalf of a user or as themselves, without requiring user interaction or storing a shared secret.The client application creates a signed JSON Web Token \(JWT\) that includes identity-related claims, such as the user or system it represents. It then presents it to the ServiceNow instance to [[c_requestAPI|request]] for access token.
+Client applications that need secure access to ServiceNow resources, either on behalf of a user or as themselves, without requiring user interaction or storing a shared secret.The client application creates a signed JSON Web Token \(JWT\) that includes identity-related claims, such as the user or system it represents. It then presents it to the ServiceNow instance to request for access token.
 
 </td><td>
 
@@ -83,11 +83,11 @@ The token represents a previously authenticated user. This enables secure, seaml
 
 -   **When acting as itself:**
 
-The token identifies and authenticates the client application directly. Instead of using a shared secret, the client signs the token with a private key, making it a more secure alternative to the [[client-credential-grant|client credentials grant]].
+The token identifies and authenticates the client application directly. Instead of using a shared secret, the client signs the token with a private key, making it a more secure alternative to the client credentials grant.
 
 
 </td></tr></tbody>
-</table>For more information about [[jwt-bearer|JWT bearer]] grant workflow and configuration, see .
+</table>For more information about JWT bearer grant workflow and configuration, see .
 
 ## Resource Owner Password Credentials Grant
 
@@ -122,17 +122,3 @@ The user logs in through a browser. The client application receives the access t
 
 You can scope the OAuth authentication scope support for REST API. OAuth Scope provides access to only the particular REST APIs. For more information, see [REST API Auth Scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/rest-api-auth-scope.md).
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[logs|Logs]]
-- [[authorization-code-grant|Authorization code grant]]
-- [[authorization-workflow|Authorization code grant workflow]]
-- [[sc-configuration|Configuration]]
-- [[client-credentials-grant-workflow|Client credentials grant workflow]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]
-- [[client-credential-grant|Client credentials grant]]
-- [[jwt-bearer|JWT Bearer]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage information objects, Configure, Privacy Management, Governan
 
 # Configure information object categories
 
-Configure information object categories to classify [[information-objects|information objects]] effectively. For example, attributes like iris scans and fingerprints are often referred to as biometric data, or email addresses and phone numbers can be grouped as contact information. Information object categories enable you to categorize these information objects under these broader classifications.
+Configure information object categories to classify information objects effectively. For example, attributes like iris scans and fingerprints are often referred to as biometric data, or email addresses and phone numbers can be grouped as contact information. Information object categories enable you to categorize these information objects under these broader classifications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **List** &gt; **Lists** &gt; **Privacy elements** &gt; **Information object category**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **List** &gt; **Lists** &gt; **Privacy elements** &gt; **Information object category**.
 
 2.  Select **New**.
 
@@ -49,7 +49,3 @@ Role required: sn\_privacy.admin
 
 **Parent Topic:**[Manage the Privacy Management library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-library-setup.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[privacy-management|privacy management]]

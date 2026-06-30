@@ -12,13 +12,13 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # Layouts: Field grid setup
 
-A field grid collects multiple [[fields|fields]] in a single layout, but unlike a set, it can reference other rows.
+A field grid collects multiple fields in a single layout, but unlike a set, it can reference other rows.
 
-A field grid presents numerous fields in a matrixed layout. These are helpful when you need to request the same set of information a predetermined number of times. Field grids allow users to create a table of repeated values. In a field grid, rows can reference other rows, while in a set a user cannot write [[rules_101|rules]] between indexes.
+A field grid presents numerous fields in a matrixed layout. These are helpful when you need to request the same set of information a predetermined number of times. Field grids allow users to create a table of repeated values. In a field grid, rows can reference other rows, while in a set a user cannot write rules between indexes.
 
 Field grids can expand in columnar or row direction \(that is, horizontally or vertically\).
 
-Define all fields that are intended to be displayed in the field grid. [[matrix_loader_table_of_contents|Matrix Loader]] is a good tool for this. Associate the fields with the blueprint in which they will be used.
+Define all fields that are intended to be displayed in the field grid. Matrix Loader is a good tool for this. Associate the fields with the blueprint in which they will be used.
 
 ## Field grid layout setup
 
@@ -71,8 +71,3 @@ Field grids default to 100% width, but if even one width value is specified for 
 
 [Example field grid width CSV file](https://drive.google.com/file/d/130w2Cz-5R7z1BwFO7_o1rD9IIlPol3DQ/view?usp=share_link)
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

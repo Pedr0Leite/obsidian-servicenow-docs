@@ -18,8 +18,5 @@ The summary displays the assessable record's average score for each category in 
 
 \[Omitted image "BubbleChartScoreSummary.png"\] Alt text: Bubble chart score summary
 
-**Parent Topic:**[[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
+**Parent Topic:**[View a bubble chart for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_view-bubble-chart-assessments.md)
 
-## Related
-
-- [[t_view-bubble-chart-assessments|View a bubble chart for assessments]]

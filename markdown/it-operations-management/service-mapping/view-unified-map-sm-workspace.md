@@ -14,14 +14,14 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Access the Unified Map feature from the Service Mapping Workspace
 
-View a hierarchical map of CIs and the relationships between them by adding access to the Unified Map feature to the [[sm-dashboard|Service Mapping Workspace]].
+View a hierarchical map of CIs and the relationships between them by adding access to the Unified Map feature to the Service Mapping Workspace.
 
 ## Before you begin
 
 Ensure that you have the following:
 
 -   Vancouver release or later
--   [[c_ServiceMappingOverview|Service Mapping]] Plus, November 2023 release
+-   Service Mapping Plus, November 2023 release
 -   CMDB Workspace, v. 4.0.1 or later.
 
 Role required: service\_mapping\_admin
@@ -64,7 +64,3 @@ Review [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
 [View historical changes for a CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map-show-ci-changes.md)
 
-## Related
-
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]

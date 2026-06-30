@@ -14,7 +14,7 @@ breadcrumb: [Privacy Workspace for the privacy manager, Explore, Privacy Managem
 
 # Processing activity tab
 
-The Processing activity tab on the [[privacy-management|Privacy management]] dashboard provides a comprehensive and real-time overview of all data [[ropa-record|processing activities]] across the organization.
+The Processing activity tab on the Privacy management dashboard provides a comprehensive and real-time overview of all data processing activities across the organization.
 
 The Processing activity tab on the Privacy management dashboard supports privacy teams, compliance officers, and data protection professionals. This dashboard consolidates key metrics and visualizations to track the status, criticality, compliance levels, and categorization of processing activities.
 
@@ -30,7 +30,7 @@ This dashboard displays the following widgets.
 
     The gauge chart displays the total number of active processing activities segmented by criticality score: High and Low. This chart enables stakeholders to prioritize efforts based on regulatory risk classification levels.
 
-    If any criticality factor under Regulatory details is marked Yes and criticality is assessed, the processing activity’s criticality score is set to High. If all [[factors|factors]] are answered as No, then the score is Low. The score is determined using the Automated criticality factors RAM and can be configured according to requirements.
+    If any criticality factor under Regulatory details is marked Yes and criticality is assessed, the processing activity’s criticality score is set to High. If all factors are answered as No, then the score is Low. The score is determined using the Automated criticality factors RAM and can be configured according to requirements.
 
 -   **Processing activities by department**
 
@@ -38,11 +38,11 @@ This dashboard displays the following widgets.
 
 -   **Least compliant processing activities**
 
-    This widget highlights activities with the lowest compliance scores in a [[list-view-uib-ws|list view]]. Each entry shows criticality score and aggregated residual risk. With the filter, the analysts can focus on processing activities having low compliance and high criticality score or low compliance and high aggregated residual risk.
+    This widget highlights activities with the lowest compliance scores in a list view. Each entry shows criticality score and aggregated residual risk. With the filter, the analysts can focus on processing activities having low compliance and high criticality score or low compliance and high aggregated residual risk.
 
 -   **Processing activities by data subject type**
 
-    The bar chart illustrates activities grouped by [[data-subjects|data subject types]] such as Employees, Candidates, Customers, Internal Staff, Job Applicants, and so on. It helps in assessing which categories of data subjects are most involved in processing activities and take appropriate measures to safeguard the data of these data subjects. You can apply a filter to focus specifically on vulnerable data subjects.
+    The bar chart illustrates activities grouped by data subject types such as Employees, Candidates, Customers, Internal Staff, Job Applicants, and so on. It helps in assessing which categories of data subjects are most involved in processing activities and take appropriate measures to safeguard the data of these data subjects. You can apply a filter to focus specifically on vulnerable data subjects.
 
 -   **Processing activities by information object category**
 
@@ -59,15 +59,7 @@ This dashboard displays the following widgets.
 
 The following image shows the Processing activity dashboard.
 
-\[Omitted image "processing-activity-tab.png"\] Alt text: Processing activity tab on the [[privacy-manager-dashboard|privacy management home page]].
+\[Omitted image "processing-activity-tab.png"\] Alt text: Processing activity tab on the privacy management home page.
 
 **Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[factors|factors]]
-- [[list-view-uib-ws|List view]]
-- [[data-subjects|Data subject types]]
-- [[privacy-manager-dashboard|Privacy Management home page]]

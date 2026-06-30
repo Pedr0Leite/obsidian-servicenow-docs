@@ -16,7 +16,7 @@ Policies audit your assets based on data imported from your service graph connec
 
 ## Policies
 
-[[spc-landing|Security Posture Control]] policies are built on an asset-[[stix-relationships|relationships]]-properties data model. There are policies that are included with the application, and you can create your own policies to look for specific criteria.
+Security Posture Control policies are built on an asset-relationships-properties data model. There are policies that are included with the application, and you can create your own policies to look for specific criteria.
 
 The criteria for policies can be specified either in the form of conditions on that asset’s properties or on a related entity's properties. From the policy builder in the Policy and findings module in the workspace, you can define policies to look for an asset type \(Hardware, Software\) and a Connection \(Reported by, Not reported by\), or an Entity \(Asset source, service graph connector product, or CMDB Metadata\), or you can match other types of specific criteria.
 
@@ -66,7 +66,7 @@ For example, say a policy looks for all the hardware assets that are reported by
 
 1.  Security Posture Control identifies which CI classes in the CMDB are mapped to the class 'Hardware Asset' for Jamf Pro.
 
-    **Note:** Different Service Graph Connectors populate different CI classes in the CMDB, and the [[mapping-logrhythm|mapping]] to CI classes from 'Hardware Asset' varies from one Service Graph Connector to another.
+    **Note:** Different Service Graph Connectors populate different CI classes in the CMDB, and the mapping to CI classes from 'Hardware Asset' varies from one Service Graph Connector to another.
 
 2.  Security Posture Control determines that the CI classes, Computer, Server, and Printer in the CMDB are mapped to the ‘Hardware Asset’ asset class for the Service Graph Connector Jamf Pro.
 3.  Security Posture Control then queries for any asset records populated in any of these three CI classes: Server, Computer, and Printer by the Jamf Pro Service Graph Connector in the CMDB and returns those assets.
@@ -76,34 +76,21 @@ For example, say a policy looks for all the hardware assets that are reported by
 
 ## Policies included with the application
 
-Activate the asset proﬁles and policies in the Security Posture Control workspace that are [[spc-polices-included|Included with the application]] so that you can identify gaps in configuration or coverage for security [[tools|tools]].
+Activate the asset proﬁles and policies in the Security Posture Control workspace that are [Included with the application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-polices-included.md) so that you can identify gaps in configuration or coverage for security tools.
 
 ## Creating your own policies
 
-See [[spc-creating-policies|Creating your own policies in the Security Posture Control application]] for more information about how to create your own policies.
+See [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-creating-policies.md) for more information about how to create your own policies.
 
-For example policies, see [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]].
+For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policy-examples.md).
 
-See [[spc-create-policy|Create and activate custom policies for Security Posture Control]] for more information about the steps required to create a policy.
+See [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md) for more information about the steps required to create a policy.
 
 ## Supported SGCs
 
-For a list of some of the supported service graph connectors, see [[scp-hw-connectors-ci-classes|Supported hardware service graph connectors for Security Posture Control]] and [[spc-connector-types-ci-classes|Supported software service graph connectors for Security Posture Control]].
+For a list of some of the supported service graph connectors, see [Supported hardware service graph connectors for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-connector-types-ci-classes.md).
 
 ## Mitigation Controls policies
 
-From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured. See [[spc-mitigation-policies|Mitigation controls policies]] for more information.
+From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured. See [Mitigation controls policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-policies.md) for more information.
 
-## Related
-
-- [[spc-polices-included|Policies included with the Security Posture Control application]]
-- [[spc-creating-policies|Creating your own policies in the Security Posture Control application]]
-- [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]]
-- [[spc-create-policy|Create and activate custom policies for Security Posture Control]]
-- [[scp-hw-connectors-ci-classes|Supported hardware service graph connectors for Security Posture Control]]
-- [[spc-connector-types-ci-classes|Supported software service graph connectors for Security Posture Control]]
-- [[spc-mitigation-policies|Mitigation controls policies]]
-- [[spc-landing|Security Posture Control]]
-- [[stix-relationships|Relationships]]
-- [[mapping-logrhythm|Mapping]]
-- [[tools|Tools]]

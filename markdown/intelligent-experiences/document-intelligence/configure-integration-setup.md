@@ -16,7 +16,7 @@ breadcrumb: [Integrate, Document Intelligence, Enable AI experiences]
 
 Configure an integration to trigger document task processing or value extraction. Integrations can be used to quickly set up flows with other applications.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Configure an integration to trigger document task processing or value extraction
 
 ## About this task
 
-Define integration points for your Document Intelligence solution. Two integration points are provided for data extraction use [[cases|cases]]: one to automatically create and process Document Intelligence document tasks, and one to automatically propagate the field values to another application when extraction has been completed in Document Intelligence. For document classification use cases, there’s also an integration point to map to a data extraction use case.
+Define integration points for your Document Intelligence solution. Two integration points are provided for data extraction use cases: one to automatically create and process Document Intelligence document tasks, and one to automatically propagate the field values to another application when extraction has been completed in Document Intelligence. For document classification use cases, there’s also an integration point to map to a data extraction use case.
 
 ## Procedure
 
@@ -170,8 +170,3 @@ For more information, see .
 
 **Parent Topic:**[Integrating Document Intelligence with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/integrating-docintel.md)
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

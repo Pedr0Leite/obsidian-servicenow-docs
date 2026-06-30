@@ -14,7 +14,7 @@ breadcrumb: [Activate Service Level Management - SLA Timer Config API, Service L
 
 # Script Includes installed with SLA Timer Config API
 
-When [[sla-timer|SLA Timer]] Config API is activated, script includes are installed.
+When SLA Timer Config API is activated, script includes are installed.
 
 SLA Timer Config API adds the following script includes.
 
@@ -24,6 +24,3 @@ SLA Timer Config API adds the following script includes.
 
 **Parent Topic:**[Activate Service Level Management - SLA Timer Config API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/activate-sla-timer-config-api.md)
 
-## Related
-
-- [[sla-timer|SLA timer]]

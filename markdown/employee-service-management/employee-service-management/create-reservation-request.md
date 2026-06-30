@@ -10,19 +10,19 @@ reading_time_minutes: 37
 
 # Create a reservation
 
-Create reservations across multiple buildings, campuses, neighborhoods, or sites. [[create-reservation-request-1|Create a reservation]] spanning across multiple days. Add attendees or visitors to a reservation. Synchronize reservation details and resolve conflicts when scheduling recurring reservation events. Add [[workplace-services|workplace services]] \(room configurations, catering, and so on\) to your reservation.
+Create reservations across multiple buildings, campuses, neighborhoods, or sites. Create a reservation spanning across multiple days. Add attendees or visitors to a reservation. Synchronize reservation details and resolve conflicts when scheduling recurring reservation events. Add workplace services \(room configurations, catering, and so on\) to your reservation.
 
 ## Before you begin
 
 Install and configure the following:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
--   [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
+-   Workplace Core
+-   Workplace Central
+-   Workplace Space Management
+-   Workplace Case Management
+-   Workplace Indoor Mapping
+-   Workplace Visitor Management
+-   Workplace Maintenance Management
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -58,7 +58,7 @@ Navigation path
 
 </th></tr></thead><tbody><tr><td id="d272188e144">
 
-**From [[employee-center-landing-page|Employee Center]] Portal**
+**From Employee Center Portal**
 
 </td><td>
 
@@ -66,7 +66,7 @@ Navigation path
 -   On the Employee Center portal, select **Workplace Services** &gt; **Browse Workplace Services**.
 -   Select the **New general reservation** card.
 
-[[reservation-portal|Make a reservation]] portal page opens for you to make workplace reservations.
+Make a reservation portal page opens for you to make workplace reservations.
 
 </td></tr></tbody>
 </table>    The Make a Reservation page opens in a new tab.
@@ -127,7 +127,7 @@ Floor of a building where you want to make a reservation.The floor names are eit
 
 </td></tr><tr><td>
 
-From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the [[mobile-employee-experience|Now Mobile app]].
+From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the Now Mobile app.
 
 </td><td>
 
@@ -370,7 +370,7 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
 
     When you create a reservation in a sync-enabled space or location using Personal Authentication mode, a valid OAuth token is required to access your Microsoft Outlook or Google Calendar account.
 
-    **Note:** If you have activated Personal Authentication mode in [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] and attempt to reserve a sync-enabled space or location without a token, a pop-up notification is displayed informing you that the token is unavailable. To retrieve the token, log in using the respective email credentials: Microsoft Exchange Server credentials for Microsoft Outlook or Google Calendar credentials for Google Calendar.
+    **Note:** If you have activated Personal Authentication mode in Workplace Calendar Synchronization and attempt to reserve a sync-enabled space or location without a token, a pop-up notification is displayed informing you that the token is unavailable. To retrieve the token, log in using the respective email credentials: Microsoft Exchange Server credentials for Microsoft Outlook or Google Calendar credentials for Google Calendar.
 
     Selected space is added to reservable items. The Reservation Details page opens.
 
@@ -490,7 +490,7 @@ Option to invite an external visitor.**Note:** This option appears only when Wor
 
 You can also preview the visitor details and modify any details if necessary. The details are updated automatically in all the visitor-related records and registration records.
 
--   If you're [[registerring-a-visitor|registering a visitor]] for the first time, do the following:
+-   If you're registering a visitor for the first time, do the following:
     1.  Select **Add new visitor**.
     2.  Select the **Visitor type**.
     3.  If the guest is a special guest, enable **VIP**.
@@ -525,7 +525,7 @@ From the list options, select Space arrangement as an extra service. Select the 
 -   Select the Number of seats.
 -   Add additional comments for the service item.
 -   Select **Add**.
--   A new case is created when a reservation or services are updated. A [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] is added to the old and new service.
+-   A new case is created when a reservation or services are updated. A reference is added to the old and new service.
 -   Application tries to retain the services when you update a location.
 
 When updating a reservation, if the location isn’t updated, the services are visible and you can update the reservation after changing the date and time.
@@ -573,7 +573,7 @@ Select **Remove** to remove the services from a reservation. A confirmation mess
 
         **Note:** You must check in within 30 minutes before the reservation start time. If the reservation isn’t checked in within 30 minutes before the reservation start time, your reservation is canceled. An email notification is sent for the canceled reservation. The Check-in option is also available on the My Reservations page.
 
-        In case, if you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notification on the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app when your reserved spaces are checked in automatically. If the workplace location or space state is Occupied, the application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You’re automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is Unoccupied or Invalid, the application sends a push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-rsv-check-in.md).
+        In case, if you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notification on the Workplace Service Delivery for Mobile app when your reserved spaces are checked in automatically. If the workplace location or space state is Occupied, the application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You’re automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is Unoccupied or Invalid, the application sends a push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-rsv-check-in.md).
 
     2.  Select **Check out** to check out a reservation.
 
@@ -762,25 +762,6 @@ While reserving or viewing a space, the employee can see if a space is part of a
 -   To edit or cancel your reservations, see [Share, modify, or cancel a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/modify-cancel-res-request.md).
 -   To download an iCalendar, see [Download an iCalendar for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-ical.md).
 -   -   If you want to reserve a space using a shared reservation, after you select **Reserve a space for me**, the application automatically reserves one of your favorite locations that has the closest proximity to the space reserved in the shared reservation details.
--   Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Reservation Overview** &gt; **All Reservations** to view all workplace reservations.
+-   Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **All Reservations** to view all workplace reservations.
 -   Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **My Reservations** to view all reservations made by you.
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reservation-portal|Make a reservation]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[registerring-a-visitor|Registering a visitor]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

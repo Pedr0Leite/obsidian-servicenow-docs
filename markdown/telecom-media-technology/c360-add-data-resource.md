@@ -21,7 +21,7 @@ Role required: sn\_telecom\_c360.admin
 
 ## About this task
 
-The Setup Customer360 Context data resource resolves the record on the page to the associated account or consumer and provides the table name and sys ID to the [[c360-add-component|Telecom Customer 360 component]]. The data resource reads the account and consumer fields on the record and returns the populated reference.
+The Setup Customer360 Context data resource resolves the record on the page to the associated account or consumer and provides the table name and sys ID to the [Telecom Customer 360 component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-add-component.md). The data resource reads the account and consumer fields on the record and returns the populated reference.
 
 -   If only the account field is populated, the data resource returns the account table and the account sys ID. The component displays the 360 view for that account.
 -   If only the consumer field is populated, the data resource returns the consumer table and the consumer sys ID. The component displays the 360 view for that consumer.
@@ -41,12 +41,7 @@ The Setup Customer360 Context data resource resolves the record on the page to t
 
 ## What to do next
 
-Configure the Telecom Customer 360 component properties. For more information, see [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]].
+Configure the Telecom Customer 360 component properties. For more information, see [Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md).
 
-**Parent Topic:**[[c360-component|Telecommunications Customer 360 component]]
+**Parent Topic:**[Telecommunications Customer 360 component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-component.md)
 
-## Related
-
-- [[c360-add-component|Add the Telecom Customer 360 component to a record page]]
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-component|Telecommunications Customer 360 component]]

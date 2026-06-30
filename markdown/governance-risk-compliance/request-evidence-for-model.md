@@ -12,7 +12,7 @@ breadcrumb: [Perform model validation, Use, Model Risk Management, Governance, R
 
 # Request evidence for model
 
-Send evidence collection request for all the required documents to complete the model validation. [[evidence-request|Evidence request]] helps validators to electronically request the information that they need from the model owner to perform model validation.
+Send evidence collection request for all the required documents to complete the model validation. Evidence request helps validators to electronically request the information that they need from the model owner to perform model validation.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_model\_risk\_mgmt.model\_validator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -32,7 +32,7 @@ Role required: sn\_model\_risk\_mgmt.model\_validator
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Evidence request form, see [[request-evidence-form-mrm|Request evidence form]].
+    For a description of the field values on the Evidence request form, see [Request evidence form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-form-mrm.md).
 
 7.  Select **Request**.
 
@@ -40,11 +40,5 @@ Role required: sn\_model\_risk\_mgmt.model\_validator
 -   **[Request evidence form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-form-mrm.md)**  
 Use this form to electronically request the information needed from the model owner to perform model validation.
 
-**Parent Topic:**[[perform-model-risk-validation|Perform model validation]]
+**Parent Topic:**[Perform model validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-validation.md)
 
-## Related
-
-- [[request-evidence-form-mrm|Request evidence form]]
-- [[perform-model-risk-validation|Perform model validation]]
-- [[evidence-request|Evidence request]]
-- [[model-risk-workspace|Model Risk Workspace]]

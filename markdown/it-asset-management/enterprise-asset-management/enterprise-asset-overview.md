@@ -14,12 +14,12 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Enterprise asset overview for Enterprise Asset Workspace
 
-Use the Enterprise asset overview as the landing page for the [[using-eam-workspace|Enterprise Asset Workspace]] to get insights into key metrics.
+Use the Enterprise asset overview as the landing page for the Enterprise Asset Workspace to get insights into key metrics.
 
 Use the Enterprise asset overview dashboard to perform the following tasks:
 
 -   Identify and attend to critical action items that require your immediate attention such as entering missing manufacture data, model number, or asset tag information.
--   Search for and track asset requests, transfer orders, stock orders, asset refresh requests, disposal orders, and [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) orders.
+-   Search for and track asset requests, transfer orders, stock orders, asset refresh requests, disposal orders, and Return Merchandise Authorization \(RMA\) orders.
 
 \[Omitted image "enterprise-overview.png"\] Alt text: Enterprise asset overview
 
@@ -36,7 +36,3 @@ To access detailed information and take relevant action, select the relevant wid
 |Loaner asset orders|Number of requested loaner asset orders.|
 |RMA orders|Number of open Return Merchandise Authorization \(RMA\) orders.|
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

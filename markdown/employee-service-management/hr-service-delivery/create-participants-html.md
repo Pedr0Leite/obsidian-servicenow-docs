@@ -19,7 +19,7 @@ Define actions and the order of actions for participants. The type of action and
 ## Before you begin
 
 -   Role required: sn\_hr\_core.admin
--   This content applies only to the [[document-templates-overview|document templates]] that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
+-   This content applies only to the document templates that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
 
 ## About this task
 
@@ -171,6 +171,4 @@ Option to indicate the width of signature.
 </td></tr></tbody>
 </table>6.  Click **Submit**.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

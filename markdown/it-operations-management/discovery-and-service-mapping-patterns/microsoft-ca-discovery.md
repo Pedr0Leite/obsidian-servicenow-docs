@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Microsoft Certificate Authority \(CA\) certificates discovery
 
-The ServiceNow [[r-discovery|Discovery]] application can discover Microsoft Certificate Authority \(CA\) certificates using the Microsoft CA - Certificate Management pattern. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application can discover Microsoft Certificate Authority \(CA\) certificates using the Microsoft CA - Certificate Management pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -32,11 +32,11 @@ Starting with version 1.27.0, Discovery and Service Mapping Patterns supports di
 
     Ensure that the CA process is up and running on the host machine.
 
--   **Verify previous [[r_DataCollDiscoWindowsComputers|Windows discovery]]**
+-   **Verify previous Windows discovery**
 
     Verify a Windows host was discovered during a previous horizontal discovery. For more information, see [Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md).
 
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     Create a discovery schedule to perform targeted discovery of Microsoft CA certificates using the host on which the CA process is running. For more information, see [Create a serverless schedule for Microsoft CA discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-ms-ca.md).
 
@@ -327,9 +327,3 @@ The Microsoft CA - Certificate Management pattern doesn’t create any CI relati
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DataCollDiscoWindowsComputers|Windows discovery]]
-- [[serverless-discovery|Serverless Discovery]]

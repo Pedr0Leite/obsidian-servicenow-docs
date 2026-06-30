@@ -22,15 +22,15 @@ Role required: pa\_data\_collector or higher
 
 ## About this task
 
-The limitations of Data snapshots could make an indicator unusable. In this case, you can deactivate Data snapshots on that indicator. You can re-[[activate-unlimited-breakdowns|activate Data snapshots]] on that indicator later. For more information, see [Limitations and requirements for Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/limitations-mlb.md).
+The limitations of Data snapshots could make an indicator unusable. In this case, you can deactivate Data snapshots on that indicator. You can re-activate Data snapshots on that indicator later. For more information, see [Limitations and requirements for Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/limitations-mlb.md).
 
 **Important:** An admin can disable Data snapshots across an instance by setting the system property com.snc.pa.dm.enable.mlb to false. They should also turn off the Instance Eligibility Check for Data Snapshots job.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Indicators** &gt; **[[automated-indicators|Automated indicators]]** or **All** &gt; **Indicators** &gt; **[[formula-indicators|Formula indicators]]**, depending on the indicator.
+1.  Navigate to **All** &gt; **Indicators** &gt; **Automated indicators** or **All** &gt; **Indicators** &gt; **Formula indicators**, depending on the indicator.
 
-2.  Open the indicator that you want to restore to the previous indicator and [[breakdown-sources|breakdown sources]] and breakdown matrix.
+2.  Open the indicator that you want to restore to the previous indicator and breakdown sources and breakdown matrix.
 
 3.  Select **Disable Data snapshots**.
 
@@ -43,9 +43,3 @@ At any time in the future, you can reverse this procedure. The indicator is then
 
 **Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md)
 
-## Related
-
-- [[activate-unlimited-breakdowns|Activate Data snapshots]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[breakdown-sources|Breakdown sources]]

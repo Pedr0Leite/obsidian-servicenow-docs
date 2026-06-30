@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-[[search-suggestions-overview|Search Suggestions]] generates auto-complete suggestions and search suggestions from the search strings that users enter. You may not want to create suggestions from all search strings. You can prevent the generation of suggestions using one of the following approaches:
+Search Suggestions generates auto-complete suggestions and search suggestions from the search strings that users enter. You may not want to create suggestions from all search strings. You can prevent the generation of suggestions using one of the following approaches:
 
 -   Exclude words or regular expression patterns from auto-complete suggestions and search suggestions.
 
@@ -71,7 +71,7 @@ Role required: admin
 
 4.  To assign someone a role that prevents them from seeing auto-complete suggestions and search suggestions, or to prevent their search strings from becoming suggestions:
 
-    1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users** and select the name of a user.
+    1.  Navigate to **All** &gt; **User Administration** &gt; **Users** and select the name of a user.
 
     2.  In the Roles related list, select **Edit**.
 
@@ -79,7 +79,4 @@ Role required: admin
 
     4.  To prevent a user's search strings from generating auto-complete suggestions and search suggestions, move **suggestion\_exempt** from the Collections column to the Roles List column and select **Save**.
 
-## Related
 
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_UserAdministration|User administration]]

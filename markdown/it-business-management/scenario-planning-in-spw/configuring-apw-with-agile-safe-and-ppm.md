@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Configuring Strategic Planning with PPM, Agile 2.0, and SAFe
 
-Understand the process required to set up [[alignment-planner-workspace-landing-page|Strategic Planning]] to work with [[agile-landing-page|Agile Development 2.0]], Scaled Agile Framework, Next Experience for [[c_DemandManagement|Demand Management]], and [[c_ProjectPortfolioSuite|Project Portfolio Management]].
+Understand the process required to set up Strategic Planning to work with Agile Development 2.0, Scaled Agile Framework, Next Experience for Demand Management, and Project Portfolio Management.
 
 ## Configuration workflow
 
@@ -28,9 +28,3 @@ Use the following steps as guidelines for your Strategic Planning with PPM, Agil
 
 After installing Strategic Planning, you can use the guided setup to help you with the required configuration. To open the guided setup, navigate to **Strategic Planning** &gt; **Guided Setup**.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

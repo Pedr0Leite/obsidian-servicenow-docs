@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System UI** &gt; **Messages**.
 
-2.  To filter all the [[advanced-risk-assessment|advanced risk assessment]] messages, select the Key column and search for `advanced_risk_assessment_component`.
+2.  To filter all the advanced risk assessment messages, select the Key column and search for `advanced_risk_assessment_component`.
 
     Messages related to advanced risk assessment appear.
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-mgmt.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]

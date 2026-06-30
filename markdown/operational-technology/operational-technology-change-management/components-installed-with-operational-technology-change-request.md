@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Change Management, Operational Te
 
 # Components installed with Operational Technology Change Management
 
-Several types of components may be installed with activation of the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] \(sn\_ot\_chg\_mgmt\) application, including the user roles.
+Several types of components may be installed with activation of the Operational Technology Change Management \(sn\_ot\_chg\_mgmt\) application, including the user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -90,6 +90,3 @@ Can only view OT change records.
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]

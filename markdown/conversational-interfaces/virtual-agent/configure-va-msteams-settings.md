@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Microsoft Teams, Integrate VA with 
 
 # Configure Virtual Agent for Microsoft Teams
 
-Configure your Microsoft Teams bots that are integrated with [[virtual-agent-landing-page|Virtual Agent]] to enable notifications, to link ServiceNow user profiles, and to set up system messages and contextual actions.
+Configure your Microsoft Teams bots that are integrated with Virtual Agent to enable notifications, to link ServiceNow user profiles, and to set up system messages and contextual actions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -46,7 +46,7 @@ Role required: admin
 
     -   **System Messages**: Customize the default system messages displayed during Virtual Agent conversations.
 
-        For more information about changing or updating a system message, see [[ac-change-system-messages|Change system messages]].
+        For more information about changing or updating a system message, see [Change system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md).
 
     -   **Contextual Actions**: Customize the supported actions per user command inputs.
 
@@ -65,27 +65,19 @@ Enable users to configure branding for the published Microsoft Teams bot app, th
 -   **[Configure link authentication and opening experience in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/link-opening-authentication-msteams.md)**  
 Link authentication and opening experience in Microsoft Teams provides a seamless experience for end users to interact with ServiceNow links when you use Virtual Agent on Microsoft Teams.
 -   **[Installing Microsoft Teams for all Virtual Agent users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prelink-va-users-integ-msteams.md)**  
-Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the [[teams-conv-integration|Conversational Integration with Microsoft Teams]]. Batch pre-linking enables your Virtual Agent users to immediately chat with a virtual agent and receive notifications without going through the initial authentication linking process.
+Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the Conversational Integration with Microsoft Teams. Batch pre-linking enables your Virtual Agent users to immediately chat with a virtual agent and receive notifications without going through the initial authentication linking process.
 -   **[Customize auto-linking for Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/customize-autolink-msteams.md)**  
 Customize auto-linking for user profiles by defining the email Id of the user in any custom table rather than just the User \[sys\_user\] table.
 -   **[Configure promoted topics for Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-teams-promoted-topics.md)**  
 Configure promoted topics to push out important, common topics for users' quick consumption during a conversation with the Microsoft Teams bot. You can configure up to six different promoted topics to be displayed on the Microsoft Teams channel greeting message.
 -   **[Configure Microsoft Teams Message Extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-msteams-msg-extension.md)**  
-[[configure-msteams-msg-extension|Configure Microsoft Teams Message Extension]] to enable users to use AI Search to find content \(Knowledge articles and catalog items\), and share information in a one-on-one or group chat. For the base system Virtual Agent integration with Microsoft Teams, this feature is enabled by default.
+Configure Microsoft Teams Message Extension to enable users to use AI Search to find content \(Knowledge articles and catalog items\), and share information in a one-on-one or group chat. For the base system Virtual Agent integration with Microsoft Teams, this feature is enabled by default.
 -   **[Configure Microsoft Azure Conditional Access for Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/msteams-setup-conditional-access.md)**  
 You must configure conditional access in Microsoft Azure to restrict users from accessing the production applications. Conditional access helps you from accidentally overriding your production integration with a custom or personal instance integration.
 -   **[Set up your language preferences for your Virtual Agent integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-msteams-localization.md)**  
 Set language preferences so that Virtual Agent is in the same language as the user's preferred Microsoft Teams language.
 -   **[Localize the bot messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-bot-messg.md)**  
-[[localize-bot-messg|Localize the bot messages]] to receive them in a language of your choice during your conversations with the bot.
+Localize the bot messages to receive them in a language of your choice during your conversations with the bot.
 
 **Parent Topic:**[Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md)
 
-## Related
-
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[configure-msteams-msg-extension|Configure Microsoft Teams Message Extension]]
-- [[localize-bot-messg|Localize the bot messages]]

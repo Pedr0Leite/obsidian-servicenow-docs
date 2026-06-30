@@ -24,7 +24,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Scheduled Jobs** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Scheduled Jobs** &gt; **Create New**.
 
 2.  On the Scheduled Process Mining Job form, populate the applicable fields for the job you want to create, then select **Submit**.
 
@@ -46,6 +46,3 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -14,11 +14,11 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Define a custom encryption rule
 
-It may be necessary to identify and encrypt sensitive information in HTTP requests on the way to your instance. You can write [[encryption-landing|encryption]] rules to identify, interpret, and encrypt data in such requests, mapping fields in the [[c_requestAPI|request]] to table-field names on your instance.
+It may be necessary to identify and encrypt sensitive information in HTTP requests on the way to your instance. You can write encryption rules to identify, interpret, and encrypt data in such requests, mapping fields in the request to table-field names on your instance.
 
 ## What is an encryption rule
 
-Encryption rules are scripts executed on the [[edge-encryption|Edge Encryption]] proxy server to map fields in a request to fields in a table on your ServiceNow instance. An encryption rule tells the Edge Encryption proxy server how to encrypt data in custom payloads.
+Encryption rules are scripts executed on the Edge Encryption proxy server to map fields in a request to fields in a table on your ServiceNow instance. An encryption rule tells the Edge Encryption proxy server how to encrypt data in custom payloads.
 
 **Note:** Encryption rules only support ECMAScript 3 and below.
 
@@ -47,7 +47,7 @@ Rules include three parts:
 -   **Action**: Maps fields in the request to fields in a table, encrypting values that map to fields with encryption configurations defined.
 -   **Order**: Priority of the rule. The lowest priority rule with a satisfied condition is the only rule that runs. Like business rules, rules run from lowest to highest.
 
-Except for attachment requests, HTTP requests are evaluated by the Edge Encryption proxy server. The Edge Encryption proxy server evaluates all [[c_EncryptionRuleConditions|encryption rule conditions]] in priority order until either all conditions return false, or one condition returns true. When a condition returns true, the action is executed on the request, and the result is forwarded to the instance. No other conditions are evaluated. As a result, encryption rule conditions should be as specific as possible. A generic rule might evaluate as true for a request meant to be processed by another rule, causing the request to be processed by the wrong action. If a generic condition is unavoidable, the rule should be marked with a high-order value so that more specific rules are evaluated first.
+Except for attachment requests, HTTP requests are evaluated by the Edge Encryption proxy server. The Edge Encryption proxy server evaluates all encryption rule conditions in priority order until either all conditions return false, or one condition returns true. When a condition returns true, the action is executed on the request, and the result is forwarded to the instance. No other conditions are evaluated. As a result, encryption rule conditions should be as specific as possible. A generic rule might evaluate as true for a request meant to be processed by another rule, causing the request to be processed by the wrong action. If a generic condition is unavoidable, the rule should be marked with a high-order value so that more specific rules are evaluated first.
 
 ## Guidelines for creating encryption rules
 
@@ -92,9 +92,3 @@ Use encryption rule APIs to parse and encrypt values in requests moving through 
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[edge-encryption|Edge Encryption]]
-- [[c_EncryptionRuleConditions|Encryption rule conditions]]

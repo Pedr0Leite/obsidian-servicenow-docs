@@ -52,10 +52,7 @@ The state transitions are a list of conditions for entering or exiting each stat
 
 
 -   **[GRC model state transition condition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pcm-state-model-transition-condition-form.md)**  
-Use the [[grc-model-state-transition-condition-form|GRC Model State Transition Condition form]] to define the transition conditions to control how a compliance case traverses through the different workflow states by using the Privacy Case Management application.
+Use the GRC Model State Transition Condition form to define the transition conditions to control how a compliance case traverses through the different workflow states by using the Privacy Case Management application.
 
 **Parent Topic:**[Configuring Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-privacy-case-management.md)
 
-## Related
-
-- [[grc-model-state-transition-condition-form|grc model state transition condition form]]

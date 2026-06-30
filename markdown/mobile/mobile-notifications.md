@@ -20,7 +20,7 @@ Mobile notifications appear as badges on your ServiceNow mobile app screen. The 
 
 The badges that appear on your device contain a number. This number shows how many unread notifications and unread Virtual Agent messages that a user has. Notification message counts and Virtual Agent message counts are added. A combined count displays on the ServiceNow mobile app icon on your device as shown in the following image:
 
-\[Omitted image "notification-badge-count-behavior.png"\] Alt text: Shows how Virtual Agent messages and [[sg-mobile-security-push-notif|push notifications]] are added together to produce a total notification count on the ServiceNow mobile app notification badge.
+\[Omitted image "notification-badge-count-behavior.png"\] Alt text: Shows how Virtual Agent messages and push notifications are added together to produce a total notification count on the ServiceNow mobile app notification badge.
 
 After you read a notification, the badge notification count decreases. Notifications can be read, not read, or dismissed as described in the following situations:
 
@@ -35,9 +35,5 @@ Notification counts on badges are tracked per user, not per device. If you are c
 
 ## Offline mode behavior
 
-When a mobile client goes into [[mobile-offline-mode|offline mode]], the client reflects the last number of notifications on the badge count before the device went offline. The read and unread status of notifications does not update while the device is offline.
+When a mobile client goes into offline mode, the client reflects the last number of notifications on the badge count before the device went offline. The read and unread status of notifications does not update while the device is offline.
 
-## Related
-
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-offline-mode|Offline mode]]

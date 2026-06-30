@@ -14,7 +14,7 @@ breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
 
 # Common errors in DevOps Change Velocity
 
-Identify the root cause of errors that occur in [[devops-landing-page-new|DevOps Change Velocity]], and see the corresponding steps that might resolve them.
+Identify the root cause of errors that occur in DevOps Change Velocity, and see the corresponding steps that might resolve them.
 
 ## Tool connection
 
@@ -241,7 +241,7 @@ Tool cannot be connected because the GitHub app slug name is incorrect. Enter th
 
 </td><td>
 
-You can find the GitHub app slug name on the [[settings-mobile|settings]] page of your GitHub app. The GitHub app slug name is the URL-friendly name of your GitHub app. For example, if you have created a GitHub app with the name **Test App**, the corresponding URL-friendly GitHub app slug name will be **test-app**. In your GitHub url - "https://github.com/settings/apps/test-app", "test-app" is the GitHub app slug name. For more information, see [GitHub documentation](https://docs.github.com/en/rest/apps/apps?apiVersion=2022-11-28#get-an-app).
+You can find the GitHub app slug name on the settings page of your GitHub app. The GitHub app slug name is the URL-friendly name of your GitHub app. For example, if you have created a GitHub app with the name **Test App**, the corresponding URL-friendly GitHub app slug name will be **test-app**. In your GitHub url - "https://github.com/settings/apps/test-app", "test-app" is the GitHub app slug name. For more information, see [GitHub documentation](https://docs.github.com/en/rest/apps/apps?apiVersion=2022-11-28#get-an-app).
 
 </td></tr><tr><td>
 
@@ -484,7 +484,7 @@ Retry Inbound events that fail or error out due to REST API TimeoutException/Flo
 
 </td><td>
 
-Update the **[[config-retry-schedule-job-inbound|Retry Errored Inbound Events]]** scheduled job to retry processing inbound events that are in **Error** state.
+Update the **Retry Errored Inbound Events** scheduled job to retry processing inbound events that are in **Error** state.
 
 -   Update the errors or exceptions list to specify exceptions that you want to retry event processing for.
 -   Modify the default **Maximum Retry** count.
@@ -514,8 +514,3 @@ Navigate to **Task Executions** and ensure that the Upstream executions column h
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]
-- [[config-retry-schedule-job-inbound|Retry errored inbound events]]

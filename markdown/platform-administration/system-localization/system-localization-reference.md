@@ -14,17 +14,12 @@ breadcrumb: [System Localization, Translation and localization, Configure core f
 
 # System Localization reference
 
-[[reference-email-admin|Reference]] topics provide additional information about configuration properties, tables, and more.
+Reference topics provide additional information about configuration properties, tables, and more.
 
 -   **[System Localization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/set-localization-props.md)**  
-[[set-localization-props|System Localization properties]] configure translation, currency, and [[locales|locale settings]] on the instance for users from multiple countries.
+System Localization properties configure translation, currency, and locale settings on the instance for users from multiple countries.
 -   **[Translation tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)**  
 ServiceNow stores translation information in these tables.
 
 **Parent Topic:**[System Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-landing.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[set-localization-props|System Localization properties]]
-- [[locales|Locale settings]]

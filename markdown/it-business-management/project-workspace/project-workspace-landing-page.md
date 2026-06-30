@@ -20,9 +20,9 @@ The new Project Workspace comes with a Planning, Details, Financials, RIDAC, Ana
 
 ## Project Workspace Overview
 
-The Project Workspace enables you to collaborate, plan, organize, and execute tasks in a single workspace. This application provides the ability to create and monitor projects, tasks, sub-projects, dependencies, and timelines. Project managers can allocate and optimize resources within the Project Workspace and make sure that the right individuals are assigned to the right tasks. With Project Workspace, you can plan and track your project finances, budgets, and cost plans. This [[c_ProjectApplicationOverview|project management]] application helps in making informed and timely decisions by providing relevant project information in one place.
+The Project Workspace enables you to collaborate, plan, organize, and execute tasks in a single workspace. This application provides the ability to create and monitor projects, tasks, sub-projects, dependencies, and timelines. Project managers can allocate and optimize resources within the Project Workspace and make sure that the right individuals are assigned to the right tasks. With Project Workspace, you can plan and track your project finances, budgets, and cost plans. This project management application helps in making informed and timely decisions by providing relevant project information in one place.
 
-[[use-playbooks-spm-retail|Use playbooks]] to deliver a guided, stage-based experience within the project workspace.
+Use playbooks to deliver a guided, stage-based experience within the project workspace.
 
 Create a status report for your projects and run analytics for your projects. Experience the Gen AI feature in Project Workspace. Summarize, elaborate, or shorten the selected content on Docs to quickly understand the key information in documents using Project Gen AI Docs skill.
 
@@ -44,7 +44,7 @@ Refine planning item descriptions using write items skill to improve the clarity
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[form-field-information-for-dw|forms]] and fields of Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about forms and fields of Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -59,7 +59,7 @@ Set up and configure the Project Workspace application to initiate and plan your
 -   **[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)**  
 Use the features of Project Workspace to plan and manage your project.
 -   **[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)**  
-Manage budget, cost plans as forecasts, actual expenses as expense lines, [[generate-labor-cost-demand|generate labor costs]], [[create-financial-baselines-ppw|create financial baselines]], and view, analyze, and compare the financial performance of your projects at required cadence in Project Workspace.
+Manage budget, cost plans as forecasts, actual expenses as expense lines, generate labor costs, create financial baselines, and view, analyze, and compare the financial performance of your projects at required cadence in Project Workspace.
 -   **[Resource planning with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-resource-mgmt-prj-wksp.md)**  
 Use the Resource Management application to allocate and manage your resources in the Project Workspace.
 -   **[Project Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)**  
@@ -67,10 +67,3 @@ Reference information to provide additional details about Project Workspace, suc
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[use-playbooks-spm-retail|Use playbooks]]
-- [[form-field-information-for-dw|Forms]]
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[create-financial-baselines-ppw|Create financial baselines]]

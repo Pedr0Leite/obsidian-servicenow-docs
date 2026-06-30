@@ -16,7 +16,7 @@ The repair claims framework enables the dealer to raise a reimbursement claim re
 
 When a customer approaches the dealer with an equipment or product issue, the dealer diagnoses the issue and fixes it. The dealer can submit the claim to the manufacturers for reimbursement based on the following scenarios.
 
--   [[mco-use-repair-claim|Repair claim]], covered under the warranty
+-   Repair claim, covered under the warranty
 -   Recall of the defective products or parts
 
     **Note:** Good will and Service contracts can be customized based on the customer requirement.
@@ -28,14 +28,8 @@ The following diagram shows the entities and their relationships within the repa
 
 \[Omitted image "Data-model-repair-claim.png"\] Alt text: Decorative
 
--   **[[repair-claims-tables|Repair claims tables]]**  
-This section explains the repair claim tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+-   **[Repair claims tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claims-tables.md)**  
+This section explains the repair claim tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[[data-model|Data model]]
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 
-## Related
-
-- [[repair-claims-tables|Repair claims tables]]
-- [[data-model|Data model]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

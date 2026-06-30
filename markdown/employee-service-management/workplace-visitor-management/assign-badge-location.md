@@ -22,7 +22,7 @@ Role required: sn\_wsd\_visitor.manager, sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor badge templates**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor badge templates**.
 
 2.  On the Html Templates list, select the badge template that you want to use.
 
@@ -39,7 +39,7 @@ Role required: sn\_wsd\_visitor.manager, sn\_wsd\_core.workplace\_manager
 
 ## Result
 
-The badge template is assigned to the selected locations. After a visitor is checked-in, you can print a badge from the [[register-visitors|visitor registration]] record.
+The badge template is assigned to the selected locations. After a visitor is checked-in, you can print a badge from the visitor registration record.
 
 You can verify the badge template that is assigned to a location in the **Badge template** field of the workplace location record. If the **Badge template** field isn’t available on the workplace location record, you can add it by configuring the form layout.
 
@@ -49,7 +49,3 @@ If the visitor picture is not found, a default avatar is used for the badge temp
 
 **Parent Topic:**[Create a visitor badge template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-badge-template.md)
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]

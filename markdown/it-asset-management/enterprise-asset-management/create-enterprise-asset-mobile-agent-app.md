@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-**Important:** The enterprise assets that you create through the Mobile Agent application can be associated only with enterprise [[c_Models|models]] that are classified through the Enterprise good model \[sn\_ent\_model\] class within the Configuration Management Database \(CMDB\) class hierarchy. See [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md) for more information on enterprise model classes.
+**Important:** The enterprise assets that you create through the Mobile Agent application can be associated only with enterprise models that are classified through the Enterprise good model \[sn\_ent\_model\] class within the Configuration Management Database \(CMDB\) class hierarchy. See [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md) for more information on enterprise model classes.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
     The navigation bar displays tabs for the ServiceNow applications and applets that you have access to through the Mobile Agent application. The navigation bar also displays tabs for your Mobile Agent application settings and notifications.
 
-    The home screen for the [[enterprise-asset-management|Enterprise Asset Management]] application opens.
+    The home screen for the Enterprise Asset Management application opens.
 
     \[Omitted image "eam-mobile-agent-app-home-screen.png"\] Alt text: Enterprise Asset Management home screen in the ServiceNow Mobile Agent application.
 
@@ -159,7 +159,3 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 The enterprise asset is created along with a corresponding configuration item \(CI\).
 
-## Related
-
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

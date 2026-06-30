@@ -14,7 +14,7 @@ breadcrumb: [Reference for Skills Management, Skills Management, Manage people a
 
 # Domain separation and Skills Management
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the [[skills-management|Skills Management]] app, and configured to apply to all features of the application. Separation of data is configured along with separation of logic and process.
+Domain separation is supported in the Skills Management app, and configured to apply to all features of the application. Separation of data is configured along with separation of logic and process.
 
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
@@ -53,10 +53,5 @@ Use cases:
 -   A Skill Manager that belongs to a parent domain tries to view a skill in a child domain. The user of a parent domain can view a skill record of the parent as well as all child domains of that parent.
 -   A Skill Manager that belongs to a parent domain wants to create/associate a skill on behalf of another user in the Acme domain. A user must belong to the same domain as the user for which the skill record is created.
 -   A Skill Manager wants to associate a record for an integrated application in the Acme domain. A user must belong to the domain of the integrated application from which a record is associated.
--   A Skill Manager has access to multiple domains but wants to update a record with content within a specific domain. The domain specified for the current record drives the functionality of that record and [[reference|reference]] fields.
+-   A Skill Manager has access to multiple domains but wants to update a record with content within a specific domain. The domain specified for the current record drives the functionality of that record and reference fields.
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[skills-management|Skills Management]]
-- [[reference|Reference]]

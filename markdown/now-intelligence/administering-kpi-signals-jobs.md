@@ -12,9 +12,9 @@ breadcrumb: [Configure, KPI Signals, Platform Analytics experience, Platform Ana
 
 # KPI Signals automated detection jobs
 
-The [[process-behavior-charts-for-kpis|KPI Signals]] application includes jobs that detect signals automatically. These jobs run so responsible users can be notified of new signals without opening the application. The job for signals on [[formula-indicators|formula indicators]] requires scheduling.
+The KPI Signals application includes jobs that detect signals automatically. These jobs run so responsible users can be notified of new signals without opening the application. The job for signals on formula indicators requires scheduling.
 
-When you view an indicator in [[kpi-details|KPI Details]] and open the KPI Signals panel, that indicator is checked for signals. You therefore always have the most up-to-date signals. However, the KPI Signals application also has automated signal detection jobs. These jobs send notifications about signals to subscribed users without them having the application open.
+When you view an indicator in KPI Details and open the KPI Signals panel, that indicator is checked for signals. You therefore always have the most up-to-date signals. However, the KPI Signals application also has automated signal detection jobs. These jobs send notifications about signals to subscribed users without them having the application open.
 
 For [automated indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md), these jobs run whenever a [data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) runs. The KPI Signals application checks all indicator and [breakdown element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) combinations that it is active for. The data collection jobs are domain specific, so the signals are also domain specific.
 
@@ -94,9 +94,3 @@ Date and time to start the periodic updates. This field appears when **Periodica
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[formula-indicators|Formula indicators]]
-- [[kpi-details|KPI Details]]

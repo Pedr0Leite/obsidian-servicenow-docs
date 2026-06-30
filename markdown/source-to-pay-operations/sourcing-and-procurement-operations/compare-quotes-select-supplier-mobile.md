@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Compare quotes and select a supplier from your mobile device
 
-When you raise a [[sourcing-request|sourcing request]], the procurement team works with suppliers to get quotes for the good or service you are looking for. When you receive these quotes, you can review them from your mobile application. You can choose to award the [[supplier|supplier]] with the quote that best fulfills your requirements.
+When you raise a sourcing request, the procurement team works with suppliers to get quotes for the good or service you are looking for. When you receive these quotes, you can review them from your mobile application. You can choose to award the supplier with the quote that best fulfills your requirements.
 
 ## Before you begin
 
-To review the quotes that you have received from suppliers, you should have received at least one quote from a supplier for your product or service, and then have a compare quote task assigned to you. Then, the to-do is displayed on the Now Mobile **My Tasks** tab, in addition to the [[shopping-hub-overview|Shopping Hub]] desktop to-dos page.
+To review the quotes that you have received from suppliers, you should have received at least one quote from a supplier for your product or service, and then have a compare quote task assigned to you. Then, the to-do is displayed on the Now Mobile **My Tasks** tab, in addition to the Shopping Hub desktop to-dos page.
 
 Role required: sn\_shop.shopper
 
@@ -46,8 +46,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

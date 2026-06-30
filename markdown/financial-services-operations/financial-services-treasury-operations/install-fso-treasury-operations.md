@@ -14,7 +14,7 @@ breadcrumb: [Treasury Operations, Banking applications, Financial Services Opera
 
 # Install Financial Services Treasury Operations
 
-You can install the [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] application \(sn\_bom\_treasury\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Financial Services Treasury Operations application \(sn\_bom\_treasury\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -53,6 +53,4 @@ For more information, see [Components installed with Financial Services Treasury
 
 5.  Select **Install**.
 
-## Related
 
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

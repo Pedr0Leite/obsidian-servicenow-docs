@@ -36,14 +36,14 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\)
 
     Create one basic auth record per user who will create Jira work items. Set **Username** to the user's Jira email address and paste the API token in **Password**.
 
-6.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
+6.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
 
 7.  Set **Integration Type** to `Jira` and populate the following fields: **Project key**, **Domain name**, **Work item type**.
 
 8.  Select **Update**.
 
 
-**Parent Topic:**[[user-story-integration-properties|User story integration]]
+**Parent Topic:**[User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md)
 
 ## Jira integration script leading practices
 
@@ -78,7 +78,4 @@ The Jira field mapping script runs on the ServiceNow instance at the time a work
 
     To use modern JavaScript syntax, enable **ECMAScript 2021 \(ES12\) mode** in Scan Engine Properties before writing your mapping script.
 
-## Related
 
-- [[user-story-integration-properties|User story integration]]
-- [[impact-landing-page|Impact]]

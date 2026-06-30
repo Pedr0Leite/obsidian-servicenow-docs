@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure knowledge base tile widget instance options
 
-Configure widget instance options for the knowledge base tile widgets on the [[knowledge-management|Knowledge Management]] Service Portal homepage.
+Configure widget instance options for the knowledge base tile widgets on the Knowledge Management Service Portal homepage.
 
 ## Before you begin
 
@@ -40,8 +40,8 @@ The homepage uses the Knowledge Bases Browse widget to display knowledge base ti
     |Bootstrap color|The color of the widget.|
     |CSS|Custom configurations that determine the look and feel of the elements in the widget. For more information, see [Service Portal SCSS Primer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/scss-primer.md).|
     |Order By|The order in which the knowledge base tiles appear on the homepage. Use any field on the Knowledge table. If this field is empty, tiles are displayed in alphabetical order. Other available options include article\_count.|
-    |Reverse Order|Enable this [[check-box|check box]] to display knowledge base tiles in the reverse order.|
-    |Post Question Label|The [[label|label]] on the button used to post a question. The default is **Ask a Question**.|
+    |Reverse Order|Enable this check box to display knowledge base tiles in the reverse order.|
+    |Post Question Label|The label on the button used to post a question. The default is **Ask a Question**.|
     |Create Article Label|The label on the button used to create an article. The default is **Create Article**.|
     |Post Question URL|The parameters that appear in the URL when posting a question.|
     |Create Article URL|The parameters that appear in the URL when creating an article.|
@@ -51,8 +51,3 @@ The homepage uses the Knowledge Bases Browse widget to display knowledge base ti
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]
-- [[label|Label]]

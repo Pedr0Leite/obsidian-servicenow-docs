@@ -30,7 +30,7 @@ For more accurate SLA calculations, enable the SLA engine property for using the
 
 ## Procedure
 
-1.  Go to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Properties** &gt; **SLA Engine**.
+1.  Go to **Service Level Management** &gt; **Properties** &gt; **SLA Engine**.
 
 2.  For the **Use field "business\_time\_left" to calculate breach time instead of "business\_percentage" field** property, select the **Yes** check box.
 
@@ -39,6 +39,3 @@ For more accurate SLA calculations, enable the SLA engine property for using the
 
 **Parent Topic:**[SLA calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_SLAAutomation.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

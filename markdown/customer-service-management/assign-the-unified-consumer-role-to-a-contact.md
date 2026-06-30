@@ -12,7 +12,7 @@ breadcrumb: [Setting up a contact as a consumer, Configuring a contact as a cons
 
 # Assign the consumer role to a contact
 
-Assign the Consumer \(sn\_customerservice.consumer\) role to the customer\_contact to designate them as a consumer in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Assign the Consumer \(sn\_customerservice.consumer\) role to the customer\_contact to designate them as a consumer in the Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -38,9 +38,5 @@ Selected contact is now both a consumer and a contact.
 **Related topics**  
 
 
-[[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
+[Configuring a contact as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-contact-as-a-unified-consumer.md)
 
-## Related
-
-- [[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
 
 # Add tools and information to an AI agent
 
-[[add-a-tool|Add a tool]] to an AI agent to enable different functionalities and help your AI agents achieve their objectives.
+Add a tool to an AI agent to enable different functionalities and help your AI agents achieve their objectives.
 
 ## Tool overview
 
@@ -30,7 +30,7 @@ Once you have added the tools to your AI agent, you can select **Save and contin
 
 ## Knowledge graphs
 
-In this step, you can also add Knowledge graphs. Knowledge graphs give the AI agent information to understand the relationships between real-world entities to improve its outputs. For example, you could add a [[knowledge-graph-landing|Knowledge Graph]] to an approval AI agent that maps users to their location, company, and department to help the AI agent understand the specific approval process to apply.
+In this step, you can also add Knowledge graphs. Knowledge graphs give the AI agent information to understand the relationships between real-world entities to improve its outputs. For example, you could add a Knowledge Graph to an approval AI agent that maps users to their location, company, and department to help the AI agent understand the specific approval process to apply.
 
 \[Omitted image "add-tools-2.png"\] Alt text: Knowledge Graph options
 
@@ -38,10 +38,5 @@ In this step, you can also add Knowledge graphs. Knowledge graphs give the AI ag
 
 You can minimize the potential negative impact of an AI agent not executing as expected by configuring AI agents' tools to run in supervised mode. Running in supervised mode means that the tools use human oversight when executing actions. You can use the Supervised mode to enhance security for agents with the capability to perform sensitive or critical actions.
 
-You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [[add-catalog-ai-agent|Add a catalog item to an AI agent]].
+You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-catalog-ai-agent.md).
 
-## Related
-
-- [[add-catalog-ai-agent|Add a catalog item to an AI agent]]
-- [[add-a-tool|Add a tool]]
-- [[knowledge-graph-landing|Knowledge Graph]]

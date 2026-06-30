@@ -15,7 +15,7 @@ breadcrumb: [Managing indexed sources, Using AI Search Admin console, AI Search 
 
 # Set up an indexed source attribute for indexing the search content
 
-Set up an indexed source attribute to control how [[ia-ai-search|AI Search]] indexes content for all records in a source table.
+Set up an indexed source attribute to control how AI Search indexes content for all records in a source table.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ An indexed source attribute defines how records from an indexed source table are
 
 1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  On the **Shared [[clone-configurations-tab|Configurations]]** tab, select **Indexed Sources**.
+2.  On the **Shared Configurations** tab, select **Indexed Sources**.
 
 3.  Select the indexed source that you want to configure the attributes for.
 
@@ -57,7 +57,7 @@ Attribute
 
 Options to adjust indexing settings for an AI Search indexed source. You can select an attribute from the following list of options:-   **Index tags**: Control indexing of tags from indexed records.
 -   **Translated fields**: Control indexing of translated fields from indexed records.
--   **Translated [[reference-email-admin|reference]] fields**: Control the indexing of translated reference fields from the indexed records.
+-   **Translated reference fields**: Control the indexing of translated reference fields from the indexed records.
 -   **Attachments**: Control the indexing of attachments from indexed records.
 
 
@@ -95,8 +95,3 @@ The new indexed source attribute is added in the Advanced configurations form.
 
 **Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]

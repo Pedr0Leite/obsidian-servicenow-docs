@@ -14,7 +14,7 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Install the application and configure a source for the integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the application from ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure the application from ServiceNow Store on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: NowPlatform administrator \(admin\)
 
 **Note:** An active MID Server is mandatory to configure a source.
 
-Download the [[sir-landing-page|Security Incident Response]] integration with FireEye HX application from the ServiceNow Store and install.
+Download the Security Incident Response integration with FireEye HX application from the ServiceNow Store and install.
 
 After you have successfully installed the application, follow the following steps to configure it:
 
@@ -51,7 +51,4 @@ After you have successfully installed the application, follow the following step
 
     The FireEye Configurations list is displayed with your new configuration record. You have completed the configuration for a FireEye server. If you cannot connect to the FireEye, or your credentials are incorrect, a validation error message is displayed. Verify that your credentials are correct and try again.
 
-## Related
 
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[sir-landing-page|Security Incident Response]]

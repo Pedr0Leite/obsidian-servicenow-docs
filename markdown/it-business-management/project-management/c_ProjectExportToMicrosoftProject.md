@@ -19,10 +19,10 @@ If you are using Microsoft Project to manage project activities, you can export 
 Users with the project manager role can export a project using:
 
 -   Export module
--   [[create-a-project-form|Project form]]
+-   Project form
 -   Planning Console
 
-You can also specify the format in which you want to [[t_ExportAProjectWithTheProjectForm|export project data]], the available options are:
+You can also specify the format in which you want to export project data, the available options are:
 
 -   **XML**: Suitable, if you want to import the project data into other ServiceNow instance.
 -   **CSV**: Suitable for exporting project data from Planning Console as is and viewing project data using other applications.
@@ -54,14 +54,9 @@ Export the project data using the Export module, Project form, or Planning Conso
 
 [Project import from Microsoft Project]()
 
-[Import [[t_CreateAProjectTask|project tasks]] for multiple projects]()
+[Import project tasks for multiple projects]()
 
 [Calendars and schedules- Limitations]()
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_ExportAProjectWithTheProjectForm|Export project data]]
-- [[t_CreateAProjectTask|Project tasks]]

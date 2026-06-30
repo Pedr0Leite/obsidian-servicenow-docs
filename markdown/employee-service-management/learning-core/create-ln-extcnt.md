@@ -18,7 +18,7 @@ View details of all the courses items that are pulled from external sources into
 
 ## Before you begin
 
-Role required: sb\_lc.[[exploring-learning-exp|learning]]\_admin
+Role required: sb\_lc.learning\_admin
 
 ## Procedure
 
@@ -44,6 +44,3 @@ Role required: sb\_lc.[[exploring-learning-exp|learning]]\_admin
 
 [Create a learning task]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

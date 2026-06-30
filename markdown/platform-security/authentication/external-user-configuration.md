@@ -14,7 +14,7 @@ breadcrumb: [Self-register to ServiceNow instance, Authentication, Access Manage
 
 # Configure a user registration configuration for external users
 
-Create a user registration [[sc-configuration|configuration]] record to bootstrap the onboarding process of external [[users|users]] to custom ServiceNow applications. This form guides the external users through the self-registration process.
+Create a user registration configuration record to bootstrap the onboarding process of external users to custom ServiceNow applications. This form guides the external users through the self-registration process.
 
 ## Before you begin
 
@@ -121,7 +121,7 @@ Option to add a CAPTCHA to the registration form. The default CAPTCHA provider i
 
     You can also add custom registration form fields. For more information, see [Add a custom registration form field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/add-custom-reg-form-field.md).
 
-5.  Configure the **Verification** tab to verify the [[identity-landing|identity]] of the registered users. When the user verification flow triggers, an activation link is sent to the user's registered [[email|email]] address.
+5.  Configure the **Verification** tab to verify the identity of the registered users. When the user verification flow triggers, an activation link is sent to the user's registered email address.
 
 <table id="table_bwt_ckb_vlb"><thead><tr><th>
 
@@ -195,9 +195,4 @@ The number of hours after which an activation link expires. The default value is
 
     While making changes or after completing all changes in the user registration configuration, you can use the **Preview Registration Form** button to preview changes in the registration form.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[email|Email]]

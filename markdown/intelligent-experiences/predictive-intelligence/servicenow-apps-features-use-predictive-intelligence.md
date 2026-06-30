@@ -14,7 +14,7 @@ breadcrumb: [Explore Predictive Intelligence, Predictive Intelligence, Enable AI
 
 # ServiceNow apps and features that use Predictive Intelligence
 
-Learn about ServiceNow applications and features that leverage [[predictive-intelligence-landing|Predictive Intelligence]]. Solutions that you can adapt are available for various business units and industries.
+Learn about ServiceNow applications and features that leverage Predictive Intelligence. Solutions that you can adapt are available for various business units and industries.
 
 ServiceNow teams work together to offer models that apply the artificial intelligence and machine learning capabilities provided by Predictive Intelligence. For example, Customer Service Management \(CSM\) partners with Predictive Intelligence to deliver BU-specific solutions to ServiceNow CSM customers.
 
@@ -39,6 +39,3 @@ Following is a listing of some ServiceNow products that use Predictive Intellige
 
 [Predictive Intelligence frameworks]()
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

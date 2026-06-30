@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Monitoring and analyzing connections added for Service Graph Connectors in SGC Central
 
-The Overview page in the Service Graph Connector Central \([[sgcc-landing|SGC Central]]\) view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace provides a centralized dashboard view for administrators to monitor the installation, performance, and error handling of [[cmdb-sgc-available|Service Graph Connectors]].
+The Overview page in the Service Graph Connector Central \(SGC Central\) view of the Service Graph Workspace or CMDB Workspace provides a centralized dashboard view for administrators to monitor the installation, performance, and error handling of Service Graph Connectors.
 
 \[Omitted image "sgc-central-overview.png"\] Alt text: SGC Central overview page.
 
@@ -160,7 +160,7 @@ Displays the number of import set runs that ended in an error, including those i
 
 -   **Error summary**
 
-Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]].
+Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [Diagnose a processing error in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-diagnose-proc-errors.md).
 
 -   **Last processed on**
 
@@ -525,10 +525,3 @@ Displays the breakdown of updated and inserted CIs for a class.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

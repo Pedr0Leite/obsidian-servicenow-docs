@@ -18,19 +18,12 @@ An example of a state transition is when the **State** field in an incident chan
 
 State transitions in the Field Service Management application were reimplemented to use state flows. For information about customizing Field Service Management state flows, see [State flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md).
 
--   **[[r_InstalledWithStateFlows|Installed with state flows]]**  
+-   **[Installed with state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_InstalledWithStateFlows.md)**  
 Several types of components are installed with state flows.
--   **[[c_UseStateFlows|Use state flows]]**  
+-   **[Use state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)**  
 You can create custom state flows for any table that uses states.
--   **[[domain-separation-state-flows|Domain separation and State Flows]]**  
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported in State Flows. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+-   **[Domain separation and State Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-state-flows.md)**  
+Domain separation is unsupported in State Flows. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[c_ServiceAdministration|Exploring Service Administration]]
+**Parent Topic:**[Exploring Service Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceAdministration.md)
 
-## Related
-
-- [[r_InstalledWithStateFlows|Installed with state flows]]
-- [[c_UseStateFlows|Use state flows]]
-- [[domain-separation-state-flows|Domain separation and State Flows]]
-- [[c_ServiceAdministration|Exploring Service Administration]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

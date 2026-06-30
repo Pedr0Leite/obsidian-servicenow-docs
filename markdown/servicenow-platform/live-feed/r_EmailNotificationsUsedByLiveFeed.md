@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Live Feed, Live Feed reference, Live Feed
 
 # Email notifications installed with Live Feed
 
-The Live Feed plugin includes the following [[email|email]] notifications.
+The Live Feed plugin includes the following email notifications.
 
 |Email notification|Description|
 |------------------|-----------|
@@ -27,7 +27,7 @@ The Live Feed plugin includes the following [[email|email]] notifications.
 |Live Feed Feed Member Request Accepted|Sends an email to the user when their request to join a feed is accepted.|
 |Live Feed Feed Request Rejected|Sends an email to the user when their request to join a feed has been rejected by an administrator.|
 |Live Feed MsgReply Subscription|Sends an email when a reply or reply\_to\_reply message is inserted into the thread of a message in a feed.|
-|Live Feed Team Member Accepted|Sends an email to administrators when a user accepts an invitation to [[t_JoinATeam|join a team]].|
+|Live Feed Team Member Accepted|Sends an email to administrators when a user accepts an invitation to join a team.|
 |Live Feed Team Member Declined|Sends an email to administrators when a user declines an invitation to join a team.|
 |Live Feed Team Member Invited|Sends an email when a user is invited to join a team.|
 |Live Feed Team Member Left|Sends an email when a user leaves a team.|
@@ -44,7 +44,3 @@ The Live Feed plugin includes the following [[email|email]] notifications.
 
 **Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 
-## Related
-
-- [[email|Email]]
-- [[t_JoinATeam|Join a team]]

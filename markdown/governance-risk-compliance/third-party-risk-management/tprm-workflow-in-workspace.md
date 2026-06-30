@@ -25,7 +25,7 @@ Each task in a process must be completed before the next task can be started. Th
 -   **Request process: Ask to start a new engagement, reassess, or offboard an existing one**
 
     1.  An employee at your organization requests due diligence for a third-party engagement.
-        1.  The employee logs in to [[employee-center|Employee Center]] on their instance. They open the due diligence request form and specify the name of the third party and the reason for the request:
+        1.  The employee logs in to Employee Center on their instance. They open the due diligence request form and specify the name of the third party and the reason for the request:
 
             -   Onboard a new engagement
             -   Reassess a risk for an existing engagement
@@ -61,7 +61,7 @@ Each task in a process must be completed before the next task can be started. Th
         2.  The TPR manager either rejects the due diligence request or approves it. When the request is approved, the system sends the IRQ to the IRQ assessor, which is an internal stakeholder at an organization.
         3.  The IRQ assessor is notified of the IRQ both by email and by a new task in their queue.
 
-            **Note:** The system can also auto-send third-party [[risk-assessments|risk assessments]] when changes to a risk score occur.
+            **Note:** The system can also auto-send third-party risk assessments when changes to a risk score occur.
 
     2.  Internal users respond to the IRQ:
         1.  In the Employee Center, any user interested in the engagement opens and responds to the IRQ.
@@ -82,7 +82,7 @@ Each task in a process must be completed before the next task can be started. Th
         1.  In the Vendor Management Workspace, if third-party elements are needed the TPR manager or owner selects **Start collection** and a collection task is created.
         2.  The TPR manager or owner navigates to the collection task tab and assigns the relevant third-party element collection questionnaires to the external assessment.
 
-            **Note:** As part of the base system, [[tprm-questionnaire-types|sample questionnaires]] for collection and assessment are available for third-party elements classified as a Facility, Principal, Products, or Other.
+            **Note:** As part of the base system, sample questionnaires for collection and assessment are available for third-party elements classified as a Facility, Principal, Products, or Other.
 
         3.  The TPR manager or owner reviews and approves the questionnaires and they're sent to the third party.
     2.  The system sends out an email notification to persons at the third party. The messages notify the third-party contact to respond to the third-party element collection questionnaires.
@@ -143,8 +143,3 @@ Each task in a process must be completed before the next task can be started. Th
 
 **Note:** Starting with version 19.1.x of the Third-party Risk Management application, the tiering questionnaire and external assessment reminders workflows are deprecated and migrated to Workflow Studio. If you have customized these workflows, they won't be deprecated or migrated as part of this change.
 
-## Related
-
-- [[employee-center|employee center]]
-- [[risk-assessments|risk assessments]]
-- [[tprm-questionnaire-types|Sample questionnaires]]

@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 ## About this task
 
-[[bcp-uib|Business continuity planning]] workspace guides you step by step to complete your plan by creating a recovery team, defining roles and responsibilities for users, assigning the users and groups appropriately to the recovery team, and directing the team to execute the plan.
+Business continuity planning workspace guides you step by step to complete your plan by creating a recovery team, defining roles and responsibilities for users, assigning the users and groups appropriately to the recovery team, and directing the team to execute the plan.
 
 ## Procedure
 
@@ -40,6 +40,4 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 7.  Click **Submit**.
 
-## Related
 
-- [[bcp-uib|Business continuity planning]]

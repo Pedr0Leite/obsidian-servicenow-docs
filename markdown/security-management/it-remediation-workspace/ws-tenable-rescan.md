@@ -14,11 +14,11 @@ breadcrumb: [Rescan vulnerable items and remediation tasks in the IT Remediation
 
 # Rescan Tenable.io and Tenable.sc vulnerable items from the Vulnerability Response workspaces
 
-Verify your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Tenable.io and Tenable.sc products on-demand from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]] in your ServiceNow AI Platform instance.
+Verify your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Tenable.io and Tenable.sc products on-demand from the IT Remediation Workspace in your ServiceNow AI Platform instance.
 
 ## Before you begin
 
-To initiate a rescan for the Tenable.io and Tenable.sc products from the classic environment of [[vuln-landing-page|Vulnerability Response]], see [Initiate rescan for the Tenable.sc integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-tenable-rescan.md) and [Initiate rescan for the Tenable.io integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-tenable-rescan-tenable-io.md).
+To initiate a rescan for the Tenable.io and Tenable.sc products from the classic environment of Vulnerability Response, see [Initiate rescan for the Tenable.sc integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-tenable-rescan.md) and [Initiate rescan for the Tenable.io integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-tenable-rescan-tenable-io.md).
 
 To perform rescans from your ServiceNow AI Platform, you need your Tenable credentials. For more information about setting up your Tenable.io and Tenable.sc scanners and importing your credentials from Tenable, see [Configure the Tenable Vulnerability Integration using Setup Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-tenable-config-in-SA.md).
 
@@ -29,7 +29,7 @@ To perform rescans from your ServiceNow AI Platform, you need your Tenable crede
 Roles required:
 
 -   sn\_vul.remediation\_owner for the IT Remediation Workspace
--   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
+-   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the Vulnerability Manager Workspace
 
 ## Procedure
 
@@ -101,8 +101,4 @@ These are the available scanner credentials imported from the Tenable.io or Tena
 
     All VIs that have transitioned, or will transition, to Closed/Fixed are imported with the next scheduled import of the Tenable.io or Tenable.sc integrations.
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

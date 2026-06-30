@@ -18,7 +18,7 @@ Create a requirement for potentially exposed employees to meet to verify that th
 
 ## Before you begin
 
--   [[health-safety-overview|Health and safety]] requirements are available in the ServiceNow® [[employee-readiness-core|Employee Readiness Core]] application, which must be installed.
+-   Health and safety requirements are available in the ServiceNow® Employee Readiness Core application, which must be installed.
 -   Health and safety requirements are built with ServiceNow® Workflow Studio, so make sure you're familiar with the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) basics.
 
 Role required: sn\_imt\_core.admin
@@ -129,7 +129,7 @@ This procedure describes how to create a requirement using the base system Expos
 
 2.  Create an exposed contacts requirement.
 
-    1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Health and Safety Requirements**.
+    1.  Navigate to **Employee Health and Safety Status** &gt; **Health and Safety Requirements**.
 
     2.  Click **New**.
 
@@ -249,8 +249,3 @@ You must activate the requirement before you can track whether employees have fu
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

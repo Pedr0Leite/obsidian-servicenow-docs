@@ -14,7 +14,7 @@ breadcrumb: [Chief Procurement Officer \(CPRO\) Dashboard, Executive dashboard o
 
 Indicators provide the data used in most of the dashboard’s visualizations. The indicators are used across the dashboard.
 
-This dashboard employs Automated and [[formula-indicators|Formula indicators]]. For more information about configuring these indicators, see
+This dashboard employs Automated and Formula indicators. For more information about configuring these indicators, see
 
 -   [Automated indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/automated-indicators.md)
 -   [Formula indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/formula-indicators.md)
@@ -321,7 +321,3 @@ Source: RequisitionToContract.Open
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[formula-indicators|Formula indicators]]

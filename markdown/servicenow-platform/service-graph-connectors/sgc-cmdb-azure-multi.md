@@ -15,7 +15,7 @@ breadcrumb: [Additional features, Microsoft Azure, Service Graph Connectors, Int
 
 # Setting up multiple connections in Service Graph Connector for Microsoft Azure
 
-The [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] supports multiple Azure connections.
+The Service Graph Connector for Microsoft Azure supports multiple Azure connections.
 
 **Important:** Add multiple connections by selecting **Add connection** on the Connections page of the Workflow Studio in the guided setup. For more information, see [Configure Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md).
 
@@ -31,6 +31,3 @@ You can set up a workspace when adding a software connection using the guided se
 
 For example, if you have 10 workspaces, you must add 10 software connections for each workspace and 10 hardware connections for each corresponding software connection.
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]

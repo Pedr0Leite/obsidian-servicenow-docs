@@ -12,11 +12,11 @@ breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capa
 
 # Integrate Box in Knowledge Center
 
-Configure a Box application and [[c_Connect|connect]] it to your ServiceNow instance so that knowledge authors can use Box as an external content source for knowledge article creation using Now Assist.
+Configure a Box application and connect it to your ServiceNow instance so that knowledge authors can use Box as an external content source for knowledge article creation using Now Assist.
 
-To integrate your Box account with [[knowledge-center|Knowledge Center]], you must have an admin access to the Box Dev Console for your organization. To use Box, each author must have a Box user account.
+To integrate your Box account with Knowledge Center, you must have an admin access to the Box Dev Console for your organization. To use Box, each author must have a Box user account.
 
-Complete this two-part configuration to enable the Box integration for knowledge article creation from Now Assist, in the Knowledge Center. First, create and authorize a Box application. Then, connect your ServiceNow instance to Box by configuring an OAuth entity and linking it to the REST message record. After you complete these steps, knowledge authors can [[select-box|select Box]] as a content source when they create articles with Now Assist.
+Complete this two-part configuration to enable the Box integration for knowledge article creation from Now Assist, in the Knowledge Center. First, create and authorize a Box application. Then, connect your ServiceNow instance to Box by configuring an OAuth entity and linking it to the REST message record. After you complete these steps, knowledge authors can select Box as a content source when they create articles with Now Assist.
 
 ## Configure Box application
 
@@ -115,11 +115,5 @@ The Box integration is active. The **Box** option appears under the Integration 
 **Related topics**  
 
 
-[[kc-create-article-with-Box|Create knowledge articles using Now Assist and Box]]
+[Create knowledge articles using Now Assist and Box](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-create-article-with-Box.md)
 
-## Related
-
-- [[kc-create-article-with-Box|Create knowledge articles using Now Assist and Box]]
-- [[c_Connect|Connect]]
-- [[knowledge-center|Knowledge Center]]
-- [[select-box|Select box]]

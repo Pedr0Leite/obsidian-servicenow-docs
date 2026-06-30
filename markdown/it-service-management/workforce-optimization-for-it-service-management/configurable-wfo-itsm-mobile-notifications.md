@@ -16,13 +16,13 @@ breadcrumb: [Requesting time-off using the ITSM Mobile Agent, Advanced configura
 
 Receive notifications when you manage shift-swap and time-off requests. Enable notifications for the actions that are most relevant to you. For example, get notified when you receive a request for approval from an agent who wants to swap shifts with a peer.
 
-As a [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] agent \(sn\_shift\_planning.agent\) and a Workforce Optimization for ITSM manager \(sn\_wfo\_cfg\_ws.manager\), you can [[enable-notification|enable or disable notifications]] for shift-swap and time-off requests and approvals. Agents can request a shift-swap with their peers and get approval from their manager. They can also request approval for time-off from their managers.
+As a Workforce Optimization for ITSM agent \(sn\_shift\_planning.agent\) and a Workforce Optimization for ITSM manager \(sn\_wfo\_cfg\_ws.manager\), you can enable or disable notifications for shift-swap and time-off requests and approvals. Agents can request a shift-swap with their peers and get approval from their manager. They can also request approval for time-off from their managers.
 
-You must set your notification preferences in your desktop application to receive the notifications in your [[itsm-mobile-agent|ITSM Mobile Agent]] application.
+You must set your notification preferences in your desktop application to receive the notifications in your ITSM Mobile Agent application.
 
 To enable the notifications:
 
-1.  On your desktop application instance, click the gear icon \[Omitted image "gear-icon.png"\] Alt text: Gear icon in the top-right corner. The **System [[settings-mobile|Settings]]** screen appears.
+1.  On your desktop application instance, click the gear icon \[Omitted image "gear-icon.png"\] Alt text: Gear icon in the top-right corner. The **System Settings** screen appears.
 2.  Click **Notifications**.
 3.  Enable **Allow Notifications**.
 4.  In the **Notifications Category** section, click **Mobile - Shift Planning**.
@@ -109,9 +109,3 @@ Manager rejects your time-off request.
 
 [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[enable-notification|Enable or disable notifications]]
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[settings-mobile|Settings]]

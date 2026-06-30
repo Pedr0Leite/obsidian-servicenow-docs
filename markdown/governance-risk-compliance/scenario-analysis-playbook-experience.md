@@ -13,16 +13,16 @@ breadcrumb: [Scenario analysis using simulation, Scenario analysis, Manage, Oper
 
 # Building a scenario analysis using simulation
 
-Use the scenario analysis process to assess how critical services perform under adverse conditions using statistical simulation. Starting with [[grc-opres-landing-page|Operational Resilience]], version 22.3.1, Operational Resilience application, you can follow a guided playbook to perform a scenario analysis.
+Use the scenario analysis process to assess how critical services perform under adverse conditions using statistical simulation. Starting with Operational Resilience, version 22.3.1, Operational Resilience application, you can follow a guided playbook to perform a scenario analysis.
 
 The playbook flow guides you from scoping a service and dependencies through to a treatment decision and, optionally, logging vulnerabilities and issues.
 
-**Note:** For the objectives, benefits, and known limitations of advanced scenario analysis, see [[scenario-analysis-ov|Scenario analysis]].
+**Note:** For the objectives, benefits, and known limitations of advanced scenario analysis, see [Scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-ov.md).
 
 Each scenario analysis runs in one of two methods, set in the **Method** field on the record:
 
--   **Statistical Modelling** — Default. Runs the simulation as described in [[complete-sca-scenario-testing|Start simulation and run scenario testing]].
--   **Manual** — Uses an SME-driven assessment template on the Scenario Testing step instead of a simulation as described in [[run-sca-manual-method|Run a scenario analysis using the manual method]]. Omits the Reference Data and Results steps. All other playbook steps \(Scope, Scenarios, Treatment Decision, Operational Vulnerabilities, Issues\) are identical.
+-   **Statistical Modelling** — Default. Runs the simulation as described in [Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md).
+-   **Manual** — Uses an SME-driven assessment template on the Scenario Testing step instead of a simulation as described in [Run a scenario analysis using the manual method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/run-sca-manual-method.md). Omits the Reference Data and Results steps. All other playbook steps \(Scope, Scenarios, Treatment Decision, Operational Vulnerabilities, Issues\) are identical.
 
 ## Playbook interface
 
@@ -41,13 +41,13 @@ The scenario analysis playbook contains required and optional stages. Scenario t
 
 The playbook guides you through the following steps:
 
-1.  Create a scenario analysis record \([[create-sca-record|Create a scenario analysis record using simulation]]\)
-2.  Add service and dependencies as part of the scope: \([[add-sca-scope-service-dep|Define the scope and dependencies]]\)
-3.  Add scenarios and review reference data \([[add-sca-scenarios-review-refdata|Add scenarios and review reference data]]\)
+1.  Create a scenario analysis record \([Create a scenario analysis record using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sca-record.md)\)
+2.  Add service and dependencies as part of the scope: \([Define the scope and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-scope-service-dep.md)\)
+3.  Add scenarios and review reference data \([Add scenarios and review reference data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-scenarios-review-refdata.md)\)
 4.  Complete scenario testing \([Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md)\)
-5.  Review results and make a treatment decision \([[review-sca-results-treatment-decision|Review results and decide the treatment]]\)
-6.  Log operational vulnerabilities and issues \(optional\) \([[add-sca-op-vul-and-issues|Log operational vulnerabilities and issues]]\)
-7.  Complete the scenario analysis \([[complete-sca-analysis|Mark the scenario analysis as complete]]\)
+5.  Review results and make a treatment decision \([Review results and decide the treatment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/review-sca-results-treatment-decision.md)\)
+6.  Log operational vulnerabilities and issues \(optional\) \([Log operational vulnerabilities and issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-op-vul-and-issues.md)\)
+7.  Complete the scenario analysis \([Mark the scenario analysis as complete](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-analysis.md)\)
 
 The following table describes each stage in the scenario analysis playbook.
 
@@ -144,7 +144,7 @@ The Statistical model profile is set by an administrator and controls how the si
 
 One statistical model profile is shipped with the base version: **Annual loss model driven by risk events**.
 
-**Note:** The **Statistical model profile** field on the [[create-sca-record-form|Create Scenario Analysis form]] is a reference picker, not a drop-down. You can select only one profile per analysis.
+**Note:** The **Statistical model profile** field on the Create Scenario Analysis form is a reference picker, not a drop-down. You can select only one profile per analysis.
 
 |UI Component|Description|
 |------------|-----------|
@@ -157,7 +157,7 @@ One statistical model profile is shipped with the base version: **Annual loss mo
 
 ## Scenario analysis profile — parameter and questions
 
-A Scenario Analysis Profile links a Statistical Model Profile to the input and output [[airc-assessment-templates|assessment templates]] and maps model parameters to plain-language questions. The profile translates Lambda, Mu, Sigma, and other Monte Carlo parameters into questions that business users can understand and answer.
+A Scenario Analysis Profile links a Statistical Model Profile to the input and output assessment templates and maps model parameters to plain-language questions. The profile translates Lambda, Mu, Sigma, and other Monte Carlo parameters into questions that business users can understand and answer.
 
 |Parameter|Mapped question|Direction|
 |---------|---------------|---------|
@@ -231,22 +231,7 @@ Playbook are created in Workflow Studio and displayed in workspace pages built i
 **Related topics**  
 
 
-[[set-up-sae-templates-for-sca|Verify the Smart Assessment templates setup]]
+[Verify the Smart Assessment templates setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-sae-templates-for-sca.md)
 
 [Create a scenario analysis record using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sca-record.md)
 
-## Related
-
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[complete-sca-scenario-testing|Start simulation and run scenario testing]]
-- [[run-sca-manual-method|Run a scenario analysis using the manual method]]
-- [[create-sca-record|Create a scenario analysis record using simulation]]
-- [[add-sca-scope-service-dep|Define the scope and dependencies]]
-- [[add-sca-scenarios-review-refdata|Add scenarios and review reference data]]
-- [[review-sca-results-treatment-decision|Review results and decide the treatment]]
-- [[add-sca-op-vul-and-issues|Log operational vulnerabilities and issues]]
-- [[complete-sca-analysis|Mark the scenario analysis as complete]]
-- [[set-up-sae-templates-for-sca|Verify the Smart Assessment templates setup]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[create-sca-record-form|Create Scenario Analysis form]]
-- [[airc-assessment-templates|Assessment templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Prevent the creation of suggestions in special cases, Configuring S
 
 # Test regular expression patterns in Search Suggestion Exclusion List Rule entries
 
-Regular expression patterns are powerful and often require editing to get the correct behavior. When using regular expression patterns to exclude search strings, test the patterns thoroughly so as not to have unintended [[hs-results|results]].
+Regular expression patterns are powerful and often require editing to get the correct behavior. When using regular expression patterns to exclude search strings, test the patterns thoroughly so as not to have unintended results.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The Exclusion List Rule and Search Suggestion Relations \[m2m\_blacklist\_search
 
 1.  In your browser, navigate to `https://<instance name>.service-now.com/m2m_blacklist_search_suggestion_list`.
 
-    A list of words excluded from [[search-suggestions-overview|search suggestions]] appears in the Exclusion List Rule and Search Suggestion Relations table. The Suggestion column shows the search string that was eliminated in the creation of suggestions.
+    A list of words excluded from search suggestions appears in the Exclusion List Rule and Search Suggestion Relations table. The Suggestion column shows the search string that was eliminated in the creation of suggestions.
 
 2.  Add a regular expression pattern to the exclusion list table.
 
@@ -50,7 +50,4 @@ The Exclusion List Rule and Search Suggestion Relations \[m2m\_blacklist\_search
 
 8.  Revise the regular expression patterns if necessary and repeat the procedure.
 
-## Related
 
-- [[hs-results|Results]]
-- [[search-suggestions-overview|Search Suggestions]]

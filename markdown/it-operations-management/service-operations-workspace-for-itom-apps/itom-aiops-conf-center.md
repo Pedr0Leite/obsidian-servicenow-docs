@@ -14,9 +14,9 @@ breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, IT
 
 # ITOM AIOps configuration center
 
-The ITOM AIOps configuration center is a centralized hub to manage AIOps settings. It helps you integrate monitoring tools, optimize alerts, metrics, and logs, manage services, [[otto-aiops-dashboards|dashboards]], teams, and authorization—streamlining event-to-response workflows for better visibility, noise reduction, and operational efficiency.
+The ITOM AIOps configuration center is a centralized hub to manage AIOps settings. It helps you integrate monitoring tools, optimize alerts, metrics, and logs, manage services, dashboards, teams, and authorization—streamlining event-to-response workflows for better visibility, noise reduction, and operational efficiency.
 
-You can access ITOM AIOps configuration center by navigating to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then selecting the ITOM AIOps configuration center icon \(\[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon\) that is available at the bottom of the left navigation pane.
+You can access ITOM AIOps configuration center by navigating to **Workspaces** &gt; **Service Operations Workspace** and then selecting the ITOM AIOps configuration center icon \(\[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon\) that is available at the bottom of the left navigation pane.
 
 The ITOM AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select the dashboard.
 
@@ -27,21 +27,13 @@ The AIOps configuration center provides a single interface to configure and admi
 -   Integrate monitoring tools to bring in events, logs, and metrics.
 -   Optimize how alerts are enriched, grouped, ignored, and responded to.
 -   Fine-tune metrics and log rules for accurate anomaly detection and alerting.
--   Set up [[synthetic-monitoring-landing-page|synthetic monitoring]] for app uptime.
--   Manage services \(service monitoring dashboards, SLIs/SLOs, error budgets\) for [[service-observability|Service Observability]] and [[sr-landing-page|Service Reliability Management]].
+-   Set up synthetic monitoring for app uptime.
+-   Manage services \(service monitoring dashboards, SLIs/SLOs, error budgets\) for Service Observability and Service Reliability Management.
 -   Access AIOps dashboards to track performance, operations, and business value.
 -   Configure authorization for admins, integrations, APIs, and notifications.
 -   Govern teams and approvals for service creation and on-call schedules.
 
-The AIOps configuration center consolidates all administrative tasks needed to set up and operate [[itom-health-landing-page|ITOM AIOps]] effectively—making it easier to streamline monitoring, improve incident response, and maintain service reliability.
+The AIOps configuration center consolidates all administrative tasks needed to set up and operate ITOM AIOps effectively—making it easier to streamline monitoring, improve incident response, and maintain service reliability.
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[service-observability|Service Observability]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[itom-health-landing-page|ITOM AIOps]]

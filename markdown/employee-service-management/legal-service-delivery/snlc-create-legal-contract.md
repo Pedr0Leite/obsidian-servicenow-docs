@@ -56,7 +56,7 @@ Role required: sn\_lg\_cnt.contract\_config, admin
             For more information on creating variables, see [Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAVariableForACatalogItem.md).
 
         2.  Map the variable to the corresponding column in the Legal Contract Request \[sn\_lg\_ops\_contract\_request\] table.
-    3.  If the intake form requires user input for the type of contract, in the Variables related list, select **New**, and then add a variable of type [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]].
+    3.  If the intake form requires user input for the type of contract, in the Variables related list, select **New**, and then add a variable of type Reference.
 
         Map the variable to the Contract type table \[sn\_cm\_core\_contract\_type\] in the **Type Specifications** tab.
 
@@ -86,19 +86,19 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
     For more information, see [Configure a practice area table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/configure-pa-tables-for-reporting.md).
 
-6.  For Non-disclosure agreement intake form that use own-papers, [[cncore-create-contract-template|create a contract template]].
+6.  For Non-disclosure agreement intake form that use own-papers, create a contract template.
 
     For more information, see [Create a contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-template.md).
 
     In the **Conditions**, you must select the new category added for the new contract.
 
-7.  For Non-disclosure agreement intake form that use own-papers, [[cncore-config-template-rules|configure contract template rules]] when a legal contract request is being created by a legal user.
+7.  For Non-disclosure agreement intake form that use own-papers, configure contract template rules when a legal contract request is being created by a legal user.
 
     For more information, see [Configure contract template rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-template-rules.md).
 
 8.  Configure the settings in the Standard Ticket Page for legal requests.
 
-    **Note:** The following settings must be updated in the [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] application scope.
+    **Note:** The following settings must be updated in the Contract Management Pro for Legal Service Delivery application scope.
 
     1.  Navigate to **Standard Ticket** &gt; **Standard Ticket Configuration**.
 
@@ -114,9 +114,4 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
     For more information, see [Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-st-page.md).
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-config-template-rules|Configure contract template rules]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 # KB Article Page widget
 
-Use the Article page widget to view Knowledge Base articles within [[c_ServicePortal|Service Portal]]. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Use the Article page widget to view Knowledge Base articles within Service Portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 Any specialized font or formatting added in the text field for the knowledge article within the platform, appears the same way in the portal.
 
@@ -40,6 +40,3 @@ Any specialized font or formatting added in the text field for the knowledge art
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

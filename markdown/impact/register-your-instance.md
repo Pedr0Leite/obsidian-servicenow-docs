@@ -26,7 +26,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\)
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** and open the **My SN Instances** related list tab.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** and open the **My SN Instances** related list tab.
 
 2.  Select **New** for each instance and populate the following fields.
 
@@ -68,10 +68,10 @@ Authentication Type
 
 </td><td>
 
--   Basic: See [[configure-basic-auth-method|Configure the Basic authentication method]]
+-   Basic: See [Configure the Basic authentication method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-basic-auth-method.md)
 -   OAuth:
-    -   [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-    -   [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]
+    -   [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md)
+    -   [Configure the OAuth authentication method production instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method-prod.md)
 
 
 </td></tr><tr><td>
@@ -92,7 +92,7 @@ The authentication record for this instance.
 
 ## What to do next
 
-If validation fails, resolve the root cause before retrying. Repeated failed attempts can trigger the account lockout policy. Refer to [[validate-instance-connection|Validate your instance connection]] for additional information.
+If validation fails, resolve the root cause before retrying. Repeated failed attempts can trigger the account lockout policy. Refer to [Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md) for additional information.
 
 -   **[Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md)**  
 Set up OAuth authentication for instance-to-instance Scan Engine integrations using several stages, an integration user account, an OAuth2 configuration record, and provider and client application registries.
@@ -100,17 +100,8 @@ Set up OAuth authentication for instance-to-instance Scan Engine integrations us
 Confirm an integration user, create a Basic authentication record, then connect your instances using basic authentication. Basic authentication is supported but OAuth is recommended for production environments.
 -   **[Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md)**  
 Validate the connection between registered instances to confirm that authentication and My SN Instances configuration are correct before enabling integrations.
--   **[[recover-from-account-lockout|Recover from account lockout]]**  
+-   **[Recover from account lockout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/recover-from-account-lockout.md)**  
 Unlock the integration user account and clear the password reset flag after repeated failed validation attempts trigger the account lockout policy.
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[configure-basic-auth-method|Configure the Basic authentication method]]
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]
-- [[validate-instance-connection|Validate your instance connection]]
-- [[recover-from-account-lockout|Recover from account lockout]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]
-- [[impact-landing-page|Impact]]

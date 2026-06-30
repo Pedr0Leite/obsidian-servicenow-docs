@@ -14,7 +14,7 @@ breadcrumb: [Applying CSDM guidelines to Incident Management, Configuring Incide
 
 # Set up the Incident Management form
 
-Configure the Incident form to see the impact of an incident and then restore affected services. The CSDM framework enables you to view rich context for incidents: the CIs involved in the incident and the service offerings, business [[dex-workspace-application-tab|applications]], and business services that the incident affects.
+Configure the Incident form to see the impact of an incident and then restore affected services. The CSDM framework enables you to view rich context for incidents: the CIs involved in the incident and the service offerings, business applications, and business services that the incident affects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[c_IncidentManagement|Incident Management]] leverages the CSDM data structure to display information that assists in solving the incident.
+Incident Management leverages the CSDM data structure to display information that assists in solving the incident.
 
 [Go to the 1:00:00 mark on this video](https://www.youtube.com/watch?v=EbuHgr10P98&list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK&index=57) to learn about setting up the Incident form to include the related lists that leverage the CSDM framework.
 
@@ -90,7 +90,3 @@ The CI or the affected service. \(Hardware, application, and cloud \[physical CI
 
 **Parent Topic:**[Applying CSDM guidelines to Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-product-view.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]

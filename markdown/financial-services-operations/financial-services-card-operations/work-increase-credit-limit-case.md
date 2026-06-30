@@ -14,7 +14,7 @@ breadcrumb: [Use, Card Operations, Banking applications, Financial Services Oper
 
 # Increasing the credit limit of a card
 
-As a credit card agent, you can work on a credit card case to [[increase-credit-limit|increase the credit limit for a customer]]'s credit card based on the findings from the customer's credit assessment.
+As a credit card agent, you can work on a credit card case to increase the credit limit for a customer's credit card based on the findings from the customer's credit assessment.
 
 When a customer requests to increase a credit limit, a credit card service case is created and the Increase Credit Limit flow is triggered. This flow triggers the following tasks from the credit card service case. A new task is created when an agent closes the previous task.
 
@@ -33,10 +33,5 @@ When a customer requests to increase a credit limit, a credit card service case 
     The **sn\_bom\_credit\_card.reserverd\_hours\_to\_update\_credit\_limit** [card property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/properties-installed-card-ops.md) defines the number of hours before the end date when the system creates a case to revert the credit limit.
 
 
-For more information on the flows that are installed with the [[card-ops-landing-page|Financial Services Card Operations]] application, see [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]].
+For more information on the flows that are installed with the Financial Services Card Operations application, see [Designer flows for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/flow-designer-flows-fso-apps.md).
 
-## Related
-
-- [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]]
-- [[increase-credit-limit|Increase the credit limit for a customer]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

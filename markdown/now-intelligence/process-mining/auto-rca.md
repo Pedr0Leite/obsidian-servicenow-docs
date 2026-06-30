@@ -25,7 +25,7 @@ Run root cause analysis from your Insights or on specific map connections within
 Process owners and admins can customize automated root cause analysis to specify which fields are analysed, and optionally configure the analysis to run automatically.
 
 -   **[Configure automated root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/config-finding-def-auto-rca.md)**  
-[[config-finding-def-auto-rca|Configure automated root cause analysis]] from the process configuration record.
+Configure automated root cause analysis from the process configuration record.
 -   **[Run automated root cause analysis reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/run-view-arca.md)**  
 Execute automated root cause analysis to optimize your processes.
 -   **[Review and interpret automated root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/review-rca.md)**  
@@ -33,6 +33,3 @@ Review the analysis report and understand the root cause of performance issues. 
 
 **Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
-## Related
-
-- [[config-finding-def-auto-rca|Configure automated root cause analysis]]

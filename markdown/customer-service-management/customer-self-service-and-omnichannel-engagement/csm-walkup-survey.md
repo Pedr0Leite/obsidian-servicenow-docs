@@ -20,7 +20,7 @@ The Walk-up Experience application includes two base-system predefined surveys.
 
 -   **Walk-up CSAT survey**
 
-    This survey is an onsite, one-click [[case-sentiment-analysis|sentiment analysis]] survey where you can quickly rate service based on a 1–3 scale, where 1 is a negative experience and 3 is a positive experience. The survey uses an image scale of three faces with different sentiments: sad, neutral, and smiling.
+    This survey is an onsite, one-click sentiment analysis survey where you can quickly rate service based on a 1–3 scale, where 1 is a negative experience and 3 is a positive experience. The survey uses an image scale of three faces with different sentiments: sad, neutral, and smiling.
 
     \[Omitted image "WalkupSentimentSurveyFaces.png"\] Alt text: Sad, neutral, and smiling faces used in the Walk-up CSAT survey to express sentiments relating to user experience.
 
@@ -33,6 +33,3 @@ Walk-up administrators and managers can modify these surveys and the associated 
 
 For more detailed information about working with surveys, sentiment analysis, trigger conditions, and survey questions, see [Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md).
 
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]

@@ -28,7 +28,7 @@ The voice AI assistant needs to be activated before you can add it the AI agent 
 
 1.  Navigate to **AI Agent Studio** &gt; **Create and manage** &gt; **AI agents**.
 
-2.  Select **[[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI Agent]]**.
+2.  Select **Care Team Operations Case Creation Voice AI Agent**.
 
 3.  Navigate to **Select channels and status**.
 
@@ -45,6 +45,3 @@ The voice AI assistant needs to be activated before you can add it the AI agent 
 
 The Care Team Operations Case Creation Voice AI Agent is now activated for use with Care Team Operations.
 
-## Related
-
-- [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI agent]]

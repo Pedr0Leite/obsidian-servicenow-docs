@@ -43,7 +43,7 @@ To create a Microsoft Excel spreadsheet that properly populates the Configuratio
 
 You can import data from multiple sites in a single spreadsheet. The example image shows data for two sites: ATL and CTL.
 
-\[Omitted image "aug-23-sample-import-equipment-model-data-source.png"\] Alt text: Sample [[operational-technology-overview|Operational Technology]] data, columns A through J.
+\[Omitted image "aug-23-sample-import-equipment-model-data-source.png"\] Alt text: Sample Operational Technology data, columns A through J.
 
 <table id="table_mch_2cc_txb"><thead><tr><th>
 
@@ -276,6 +276,3 @@ If you're an ISA SGC user upgrading from v1 to v2, you can import new ISA equipm
 
 **Parent Topic:**[Importing equipment model data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/importing-isa95-equipment-model-etl.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

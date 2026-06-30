@@ -12,7 +12,7 @@ breadcrumb: [Decorations, Reference field type, Reference, Field administration,
 
 # Configure the related incidents icon
 
-You can configure an icon to appear beside a [[reference-email-admin|reference]] field in a form, such as the **Caller** field, to display related incidents.
+You can configure an icon to appear beside a reference field in a form, such as the **Caller** field, to display related incidents.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ The show related incidents icon \(\[Omitted image "icon-workflow.png"\] Alt text
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Docs for planning items, Portfolio Planning in Strategic Planning W
 
 # Create and manage pages and subpages for planning items
 
-Flexibly organize information for your planning items by creating, duplicating, and deleting pages and subpages in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Flexibly organize information for your planning items by creating, duplicating, and deleting pages and subpages in Strategic Planning Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -52,7 +52,4 @@ Role required: sn\_align\_core.apw\_user
 
 7.  To delete a page or a subpage, select the **Page Actions** menu \(\[Omitted image "eap-doc-page-actions-icon.png"\] Alt text: Page Actions icon.\) and select **Delete**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

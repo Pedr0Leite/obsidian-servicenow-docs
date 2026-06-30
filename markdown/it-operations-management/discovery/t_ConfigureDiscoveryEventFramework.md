@@ -14,13 +14,13 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Configure Discovery to use Event Framework
 
-Configure [[r-discovery|Discovery]] to process jobs using the Event Framework method, which enables you to manage discovery throttling effectively and prioritize tasks based on their importance in the queue.
+Configure Discovery to process jobs using the Event Framework method, which enables you to manage discovery throttling effectively and prioritize tasks based on their importance in the queue.
 
 ## Before you begin
 
 Confirm the following:
 
--   [[discovery-admin-workspace|Discovery Admin Workspace]] is using version 1.9.0 or later.
+-   Discovery Admin Workspace is using version 1.9.0 or later.
 -   ServiceNow AI Platform is using version XP9, YP4, or later than YP4.
 
 Role required: discovery\_admin
@@ -49,12 +49,7 @@ When an input record is added to the ECC Queue, a business rule is triggered, wh
 **Note:** To update a job priority, configure the **com.glide.queue.discovery.sensors.processing\_jobs.priority** and **com.glide.queue.discovery.cloud.sensors.processing\_jobs.priority** system properties. For more information, see [Configure background worker job priority for Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigureBackgroundWorkerJobPriorityEF.md).
 
 -   **[Optimizing Discovery load for Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_FineTuneDiscoLoadEF.md)**  
-You can optimize [[r_DiscoveryProperties|Discovery properties]] to adjust throughput and enhance safety when pinning jobs.
+You can optimize Discovery properties to adjust throughput and enhance safety when pinning jobs.
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r_DiscoveryProperties|Discovery properties]]

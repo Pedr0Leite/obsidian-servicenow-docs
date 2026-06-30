@@ -15,7 +15,7 @@ breadcrumb: [Enable conversational demand creation using Now Assist in Virtual A
 
 # Configure the questions for demand creation in Now Assist for Strategic Portfolio Management \(SPM\)
 
-Add a new or modify an existing question for Now Assist in Virtual Agent while creating a demand in the [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] application.
+Add a new or modify an existing question for Now Assist in Virtual Agent while creating a demand in the Now Assist for Strategic Portfolio Management \(SPM\) application.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Ensure that the following plugins are installed:
 -   Activate the Conversational experience skill.
 -   Configure Now Assist in Virtual Agent. For more information, see [Configure Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-    **Note:** If Microsoft Teams and Mobile are enabled as a display location for Now Assist in Virtual Agent, your end user can use the conversational experience to [[t_CreatingDemands|create a demand]] in those applications too.
+    **Note:** If Microsoft Teams and Mobile are enabled as a display location for Now Assist in Virtual Agent, your end user can use the conversational experience to create a demand in those applications too.
 
 
 Role required: admin or catalog\_admin
@@ -47,7 +47,4 @@ Role required: admin or catalog\_admin
 
 4.  Review the existing questions in the Variables related list and add or modify questions by selecting **Edit in advanced view**.
 
-## Related
 
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[t_CreatingDemands|Create a demand]]

@@ -16,14 +16,14 @@ breadcrumb: [Using Visual Task Boards, Visual Task Boards, Configure UIs and por
 
 You can customize the information in a Visual Task Board, as well as the way this information is displayed.
 
-You can customize individual [[c_VisualTaskBoards|Visual Task Boards]] to display your tasks in whatever way works best for you. You can change the look and feel of the board, add labels and swimlanes, set lane limits, or modify the query.
+You can customize individual Visual Task Boards to display your tasks in whatever way works best for you. You can change the look and feel of the board, add labels and swimlanes, set lane limits, or modify the query.
 
 -   **[Customize the look and feel of a task board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureTheTaskBoard.md)**  
-By default, the visual task board inherits the look-and-feel from the user's Theme preference. You can, however, [[configure-onboarding-modals|configure]] several options in the Visual Task Boards to customize the look-and-feel of the board.
+By default, the visual task board inherits the look-and-feel from the user's Theme preference. You can, however, configure several options in the Visual Task Boards to customize the look-and-feel of the board.
 -   **[Sort Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/sort-visual-task-boards.md)**  
-You can [[sort-visual-task-boards|sort Visual Task Boards]] using criteria that you create with a Sort-Filter option, grouping items by properties to help organize your cards.
+You can sort Visual Task Boards using criteria that you create with a Sort-Filter option, grouping items by properties to help organize your cards.
 -   **[Configure Visual Task Boards labels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureLabels.md)**  
-Labels help categorize tasks and visually distinguish them on the task board. You can disable or rename labels using the labels tab of the [[activity-stream-configurable-workspace|activity stream]].
+Labels help categorize tasks and visually distinguish them on the task board. You can disable or rename labels using the labels tab of the activity stream.
 -   **[Configure a Visual Task Board with swimlanes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/configureswimlanes.md)**  
 Swimlanes enable you to create an environment with horizontal lanes in addition to vertical lanes. Swimlanes use only compact cards in Visual Task Board.
 -   **[Modify the query or lane field for an existing Visual Task Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ModifyQueryForExistingBoard.md)**  
@@ -33,9 +33,3 @@ You can set a limit to the number of cards added to a lane on a Visual Task Boar
 
 **Parent Topic:**[Using Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/working-in-vtb.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[configure-onboarding-modals|Configure]]
-- [[sort-visual-task-boards|Sort Visual Task Boards]]
-- [[activity-stream-configurable-workspace|Activity stream]]

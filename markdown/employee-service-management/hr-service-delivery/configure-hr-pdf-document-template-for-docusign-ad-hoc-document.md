@@ -26,7 +26,7 @@ You can use an existing or create a new HR PDF document template. You can add si
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[document-templates-overview|Document Templates]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Document Templates**.
 
 2.  Click **New** or open a record
 
@@ -55,7 +55,3 @@ You can use an existing or create a new HR PDF document template. You can add si
 
 **Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[document-templates-overview|Document Templates]]

@@ -33,7 +33,7 @@ Person type
 Type of the person involved in the safety incident or observation. If an incident or observation involves more than one person, you must add a record for each.-   **Employee**: An employee of the organization where the safety incident or observation happened.
 -   **Visitor**: A person from outside the organization who came to the site as a visitor.
 -   **Public**: A person from public who was present at the site of safety incident or observation.
--   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \(sn\_hs\_crm\) application is installed on your instance.
+-   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance.
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Visitor
 
 Email id of the visitor involved.This field appears only when **Visitor** is selected from **Person type**.
 
-**Note:** This field only lists visitors who have [[health-safety-overview|Health and Safety]] profile assigned to them. For more information, see [Add a Health and Safety visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md).
+**Note:** This field only lists visitors who have Health and Safety profile assigned to them. For more information, see [Add a Health and Safety visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,3 @@ Method to contact the involved person such as email or phone number.
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
-## Related
-
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-overview|Health and Safety]]

@@ -26,7 +26,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **Insight builder**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Insight builder**.
 
     On this landing page, there are three tabs:
 
@@ -71,6 +71,4 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
     Data is gathered from the next scheduled import for the Service Graph Connectors that are associated with the insight's policies, and data is displayed on the Custom insights dashboard module in the workspace.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

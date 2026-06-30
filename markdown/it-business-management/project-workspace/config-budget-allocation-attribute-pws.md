@@ -14,7 +14,7 @@ breadcrumb: [Enable financial budget allocation for projects in Project Workspac
 
 # Configure budget attribute at instance-level to allocate budget
 
-Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your projects using [[project-workspace-landing-page|Project Workspace]].
+Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your projects using Project Workspace.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Configure the budget attribute by expense type or cost type as an instance-level
 
 **Parent Topic:**[Enable financial budget allocation for projects in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-fin-budget-pws.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

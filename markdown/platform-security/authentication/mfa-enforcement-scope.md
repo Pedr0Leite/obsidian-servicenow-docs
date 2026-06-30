@@ -20,16 +20,16 @@ FAQ related to MFA enforcement scope and why it’s important.
 
     From the Yokohama release onwards, with the new default secure MFA policy MFA enforced for the following scenarios:
 
-    -   All the [[users|users]] except the users having **snc\_external** role.
-    -   All the users performing user name and password based local or Lightweight Directory Access Protocol \(LDAP\) [[c_Authentication|authentication]].
+    -   All the users except the users having **snc\_external** role.
+    -   All the users performing user name and password based local or Lightweight Directory Access Protocol \(LDAP\) authentication.
     -   All customer instances, including production, subprod, and test instances, that didn’t already have an active MFA policy before the upgrade.
     The instance admin can modify the enforcement scope by changing the MFA context policy, policy criteria, or policy conditions.
 
 2.  Is MFA required for Single-Sign-On \(SSO\) logins?
 
-    No. With the default secure MFA policy, MFA isn’t required for SSO \([[c_SAML2.0WebBrowserSSOProfile|SAML]], OIDC, [[certificate-api-auth|Certificate Based Authentication]]\) login.
+    No. With the default secure MFA policy, MFA isn’t required for SSO \(SAML, OIDC, Certificate Based Authentication\) login.
 
-    Customers can collaborate with their Single Sign-On \(SSO\) provider \([[identity-landing|Identity]] Provider, or IdP\) to enforce [[mfa-landing|multi-factor Authentication]] \(MFA\) on the IdP side. If enforcing MFA on the IdP side isn’t feasible, customers also have the option to enable the ServiceNow platform's MFA for SSO logins by following the instructions provided in [Multi-factor Authentication with Single Sign-On](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-sso.md).
+    Customers can collaborate with their Single Sign-On \(SSO\) provider \(Identity Provider, or IdP\) to enforce multi-factor Authentication \(MFA\) on the IdP side. If enforcing MFA on the IdP side isn’t feasible, customers also have the option to enable the ServiceNow platform's MFA for SSO logins by following the instructions provided in [Multi-factor Authentication with Single Sign-On](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-sso.md).
 
 3.  Is MFA required for external users?
 
@@ -50,9 +50,9 @@ FAQ related to MFA enforcement scope and why it’s important.
 
     Yes. MFA is enforced for all developer instances that are on Yokohama or later release versions.
 
-7.  Is MFA required for [[api-authentication|API authentication]]?
+7.  Is MFA required for API authentication?
 
-    No. From Yokohama or a later release, MFA is only required for the user name and password-based interactive user logins. This means API authentication with basic auth works without requiring MFA. It’s recommended to customers use alternative secure API authentication methods such as [[oauth-inbound-and-outbound|OAuth]] or mTLS. More details here.
+    No. From Yokohama or a later release, MFA is only required for the user name and password-based interactive user logins. This means API authentication with basic auth works without requiring MFA. It’s recommended to customers use alternative secure API authentication methods such as OAuth or mTLS. More details here.
 
     1.  Clone
     2.  Update set retrieval
@@ -73,16 +73,6 @@ FAQ related to MFA enforcement scope and why it’s important.
 
 11. Is MFA required for the OAuth-based integrations?
 
-    The OAuth Resource owner password credential \(ROPC\) works with user name and password without requiring MFA. For [[authorization-code-grant|Authorization code grant]] type MFA is required as part of the user login flow before giving the OAuth consent.
+    The OAuth Resource owner password credential \(ROPC\) works with user name and password without requiring MFA. For Authorization code grant type MFA is required as part of the user login flow before giving the OAuth consent.
 
-## Related
 
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[certificate-api-auth|Certificate based authentication]]
-- [[identity-landing|Identity]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[api-authentication|API Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[authorization-code-grant|Authorization code grant]]

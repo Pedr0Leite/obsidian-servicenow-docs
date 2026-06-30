@@ -30,7 +30,7 @@ The default table on which the contact import rule is applied is the User table 
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[contact-import-rules-form|Contact Import Rules form]].
+    For more information, see [Contact Import Rules form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/contact-import-rules-form.md).
 
 4.  Select **Submit**.
 
@@ -38,9 +38,5 @@ The default table on which the contact import rule is applied is the User table 
 -   **[Contact Import Rules form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/contact-import-rules-form.md)**  
 Use the Contact Import Rules form to create a contact import rule that you can apply on the User table.
 
-**Parent Topic:**[[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]]
+**Parent Topic:**[Create contacts for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contacts-emergency-noti-uib-ws.md)
 
-## Related
-
-- [[contact-import-rules-form|Contact Import Rules form]]
-- [[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]]

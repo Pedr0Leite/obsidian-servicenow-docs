@@ -14,13 +14,13 @@ breadcrumb: [HR services, HR Administration, Configure, Case and Knowledge Manag
 
 # HR templates
 
-HR templates allow you to automatically populate fields on an HR case or task form. You can configure HR templates for [[hr-service-administration|HR services]], HR catalog items, HR service activities, and lifecycle event activities.
+HR templates allow you to automatically populate fields on an HR case or task form. You can configure HR templates for HR services, HR catalog items, HR service activities, and lifecycle event activities.
 
 |For|Configure|
 |---|---------|
 |HR service|[Configure an HR case template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-case-template.md) to automatically populate fields on the HR case form when a request for that service is made.|
 |HR catalog item|[Edit the HR case template for an HR catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/edit-hr-case-template-for-hr-catalog-item.md) to automatically populate fields on the HR case form when a request for that item is made.|
-|HR service activity|[Configure an HR task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-task-template.md) to automatically populate fields on the HR task form when the HR service [[activity-lxp|activity]] is triggered.|
+|HR service activity|[Configure an HR task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-task-template.md) to automatically populate fields on the HR task form when the HR service activity is triggered.|
 |Lifecycle event activity|[Configure an HR task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-task-template.md) to automatically populate fields on the HR task form when the lifecycle event activity is triggered.|
 
 **Related topics**  
@@ -28,7 +28,3 @@ HR templates allow you to automatically populate fields on an HR case or task fo
 
 [Form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[activity-lxp|Activity]]

@@ -24,7 +24,7 @@ By default, attachment indexing is enabled for the Knowledge Base. You can enabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index [[clone-configurations-tab|Configurations]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index Configurations**.
 
 2.  Edit the record for the table that you want to enable attachment indexing for.
 
@@ -61,11 +61,7 @@ By default, attachment indexing is enabled for the Knowledge Base. You can enabl
 
 The system begins text indexing for the table. When it is complete, attachments can be searched on that table.
 
-**Parent Topic:**[[r_AdministeringAttachments|Administering attachments]]
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md)
 
 **Parent Topic:**[Zing can include attachments in search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_SearchingForAttachments.md)
 
-## Related
-
-- [[r_AdministeringAttachments|Administering attachments]]
-- [[clone-configurations-tab|Configurations]]

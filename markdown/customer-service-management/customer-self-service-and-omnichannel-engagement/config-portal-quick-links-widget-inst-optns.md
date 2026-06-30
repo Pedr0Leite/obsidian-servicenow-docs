@@ -14,7 +14,7 @@ breadcrumb: [Portal Quick Links widget, Configurable Portal widgets, Set up self
 
 # Add and configure the Portal Quick Links widget
 
-Add a [[portal-quick-links-widget|Portal Quick Links widget]] to the portal and modify its presentation and behavior. You can use the Portal Quick Links widget to display knowledge articles, external URLs, catalog items, or custom pages on your portal.
+Add a Portal Quick Links widget to the portal and modify its presentation and behavior. You can use the Portal Quick Links widget to display knowledge articles, external URLs, catalog items, or custom pages on your portal.
 
 ## Before you begin
 
@@ -48,11 +48,8 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[r-portal-quick-links-instan-options|Portal Quick Links widget instance options form]].
+    For a description of the field values, see [Portal Quick Links widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r-portal-quick-links-instan-options.md).
 
 12. Select **Save**.
 
-## Related
 
-- [[r-portal-quick-links-instan-options|Portal Quick Links widget instance options form]]
-- [[portal-quick-links-widget|Portal Quick Links widget]]

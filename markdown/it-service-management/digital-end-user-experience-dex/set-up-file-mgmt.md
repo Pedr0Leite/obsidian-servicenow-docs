@@ -14,7 +14,7 @@ breadcrumb: [DEX Insights, Configure, Digital End-User Experience, IT Service Ma
 
 # Set up file management
 
-Set up files you want to track and manage with DEX on your organization [[dex-workspace-devices-tab|devices]]. For example, you can identify and remove any dangerous `.exe` files that pose a security risk.
+Set up files you want to track and manage with DEX on your organization devices. For example, you can identify and remove any dangerous `.exe` files that pose a security risk.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  Select **Configure** on the File management card.
 
@@ -53,7 +53,3 @@ Role required: admin
 
 The data for the files you set up appears after the next policy run.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

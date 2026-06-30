@@ -33,7 +33,7 @@ Details
 
 Details about the task.-   Number- Unique error identification task number
 -   Sub type- auto populates Invoice ERP Integration
--   State- Displays the state of the error task. By default the task is **Open**. Once you fix the [[integration-errors-during-erp-posting|integration errors]], change the state to Closed.
+-   State- Displays the state of the error task. By default the task is **Open**. Once you fix the integration errors, change the state to Closed.
 -   Assignment group- The default assigned group is AP- Invoice operations
 -   Assigned to- Name of the Accounts Payable admin
 -   Short description- Brief description of the integration error
@@ -66,6 +66,3 @@ Invoice related emails are created
 </td></tr></tbody>
 </table>**Parent Topic:**[Invoice processing case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-## Related
-
-- [[integration-errors-during-erp-posting|Integration errors]]

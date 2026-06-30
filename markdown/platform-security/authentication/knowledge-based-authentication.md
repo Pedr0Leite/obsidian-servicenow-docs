@@ -15,7 +15,7 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Knowledge-based authentication \(Security Questions\)
 
-Knowledge-based [[c_Authentication|authentication]] \(KBA\) is an identification and authentication method that verifies callers by prompting them to answer preconfigured questions across conversational AI channels, such as AI voice agents. KBA can be used to identify a caller, authenticate a caller, or both within the same interaction.
+Knowledge-based authentication \(KBA\) is an identification and authentication method that verifies callers by prompting them to answer preconfigured questions across conversational AI channels, such as AI voice agents. KBA can be used to identify a caller, authenticate a caller, or both within the same interaction.
 
 KBA validates answers against records in ServiceNow AI Platform tables. For callers whose data resides outside ServiceNow, admins can configure scripts to validate answers against external systems in real-time. External data is never imported or stored in ServiceNow AI Platform.
 
@@ -25,7 +25,7 @@ KBA validates answers against records in ServiceNow AI Platform tables. For call
 
 **Authentication** verifies that the caller is who they claim to be. The caller answers one or more questions, and the system validates those answers against stored or externally sourced data.
 
-KBA questions can be configured for identification, authentication, or both phases, depending on admin [[sc-configuration|configuration]].
+KBA questions can be configured for identification, authentication, or both phases, depending on admin configuration.
 
 ## External source validation
 
@@ -34,7 +34,7 @@ When caller data is not stored in ServiceNow AI Platform, admins can configure a
 -   For identification, the script returns the matched record.
 -   For authentication, the script returns a `true` or `false` result.
 
-**Note:** Only `snc_external` [[users|users]] can be authenticated using external source.
+**Note:** Only `snc_external` users can be authenticated using external source.
 
 Script execution is limited to 15 seconds by default. To learn more configuration properties, see [System Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-answers.md).
 
@@ -62,8 +62,3 @@ For detailed configuration instructions, see:
 -   [Map KBA questions to answers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-answer-mappings.md)
 -   [AI voice agent service mapping with KBA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-service-mappings.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage financials for planning items, Portfolio Planning, Strategic
 
 # Generate labor costs
 
-[[generate-labor-cost-demand|Generate labor costs]] in the Financials view for attribute-based resource assignments based on the financial attributes configured in the planning attributes page.
+Generate labor costs in the Financials view for attribute-based resource assignments based on the financial attributes configured in the planning attributes page.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select a planning item.
 
 2.  Select the **Financials** tab.
 
@@ -34,7 +34,4 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
     **Note:** Alternatively, you can [activate a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
 
-## Related
 
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -12,11 +12,11 @@ breadcrumb: [Install base items, Configure install base, Configure product data,
 
 # Synchronizing an asset class with a configuration item class and install base class
 
-You can synchronize the asset class, configuration item \(CI\) class, and the install base class by mapping the model categories in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. With this synchronization, the data can flow between the different entities because the same information is replicated on both entities.
+You can synchronize the asset class, configuration item \(CI\) class, and the install base class by mapping the model categories in the Customer Service Management \(CSM\) application. With this synchronization, the data can flow between the different entities because the same information is replicated on both entities.
 
 ## Overview
 
-By mapping the install base class, configuration item class, and asset class fields, you can synchronize the information on both the install base item and the [[customer-service-asset-form|asset form]]. This mapping creates a bidirectional synchronization. For example, you can update any one of the **Location**, **Install date**, **Consumer**, **Account**, **State**, and **Contact** fields on the install base item form to create a synchronization between the install base item and the asset form. For more information on the different fields on the install base form, see [[create-install-base-item|Create an install base item]].
+By mapping the install base class, configuration item class, and asset class fields, you can synchronize the information on both the install base item and the asset form. This mapping creates a bidirectional synchronization. For example, you can update any one of the **Location**, **Install date**, **Consumer**, **Account**, **State**, and **Contact** fields on the install base item form to create a synchronization between the install base item and the asset form. For more information on the different fields on the install base form, see [Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md).
 
 **Note:** You must update the **Consumer** and **Account** fields from the install base item to synchronize the updates to the asset form. Updating the fields on the asset form doesn’t synchronize the updates to the install base item.
 
@@ -32,7 +32,7 @@ assetIBIntegrationUtil.syncExistingInstallBaseRecordsToAsset(ibClasses)
 
 ## Product instance identifier
 
-The product instance identifier helps to avoid creating duplicate records by tracking [[install-base-item|install base items]] and their corresponding assets. The product instance identifier applies to all the extensions of the install base \[sn\_install\_base\_item\] table.
+The product instance identifier helps to avoid creating duplicate records by tracking install base items and their corresponding assets. The product instance identifier applies to all the extensions of the install base \[sn\_install\_base\_item\] table.
 
 **Note:** The **Is product instance** flag on the Model Category form is read-only by default and is marked true for selective model categories only. The product instance identifier is a hash value and not a user-friendly field.
 
@@ -44,9 +44,3 @@ Enable the product instance to create a synchronization for all changes that occ
 
 **Note:** All the instances in the hierarchy must belong to the same model category.
 
-## Related
-
-- [[create-install-base-item|Create an install base item]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-service-asset-form|Asset form]]
-- [[install-base-item|Install base items]]

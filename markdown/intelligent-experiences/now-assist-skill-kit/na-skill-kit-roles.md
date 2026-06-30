@@ -14,14 +14,14 @@ breadcrumb: [Now Assist Skill Kit reference, Now Assist Skill Kit, Enable AI exp
 
 # Now Assist Skill Kit roles
 
-Certain roles are required to use [[now-assist-skill-kit-landing|Now Assist Skill Kit]] functionality.
+Certain roles are required to use Now Assist Skill Kit functionality.
 
 Now Assist Skill Kit uses two distinct roles that map to the two main user types. AI developers who create and manage skills require the **sn\_skill\_builder.admin** role. Platform administrators who install Now Assist Skill Kit and activate published skills require the **admin** role. These are separate responsibilities that may be held by the same person or by different people depending on your organization.
 
 |Role|User type|Used for|
 |----|---------|--------|
-|**sn\_skill\_builder.admin**|AI developer|Creating, configuring, and publishing skills and [[ai-prompts|prompts]]. Required for all skill authoring tasks including adding tools, testing, evaluating, and configuring security [[controls|controls]].|
-|**admin**|Now Assist admin|Installing Now Assist Skill Kit, activating published skills in [[platform-now-assist-landing|Now Assist]] Admin, and calling custom skills from scripts.|
+|**sn\_skill\_builder.admin**|AI developer|Creating, configuring, and publishing skills and prompts. Required for all skill authoring tasks including adding tools, testing, evaluating, and configuring security controls.|
+|**admin**|Now Assist admin|Installing Now Assist Skill Kit, activating published skills in Now Assist Admin, and calling custom skills from scripts.|
 |**sn\_skill\_builder.sb\_model\_admin**|AI developer|Creating and updating custom large language models for use with Now Assist Skill Kit.|
 
 **Note:** The **sn\_skill\_builder.admin** role must be assigned to AI developers after Now Assist Skill Kit is installed. It is not assigned automatically. To learn more about installation, see .
@@ -82,9 +82,3 @@ This role is only required when working with custom large language models. AI de
 
 This role does not replace the **sn\_skill\_builder.admin** role. AI developers who create skills using custom large language models require both roles.
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-prompts|Prompts]]
-- [[controls|Controls]]
-- [[platform-now-assist-landing|Now Assist]]

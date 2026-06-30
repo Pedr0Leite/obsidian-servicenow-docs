@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Mandatory fields in the bulk import spreadsheets
 
-A list of the mandatory fields in the model, asset, and model and asset templates for bulk import in the [[using-eam-workspace|Enterprise Asset Workspace]].
+A list of the mandatory fields in the model, asset, and model and asset templates for bulk import in the Enterprise Asset Workspace.
 
 ## Mandatory fields for model template
 
@@ -24,7 +24,7 @@ Field/column
 
 </th><th>
 
-Mandatory for creating [[c_Models|models]]
+Mandatory for creating models
 
 </th><th>
 
@@ -714,7 +714,7 @@ No
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Normalization status for enterprise models]()
 
@@ -742,8 +742,3 @@ No
 
 [Asset put away task fields]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]

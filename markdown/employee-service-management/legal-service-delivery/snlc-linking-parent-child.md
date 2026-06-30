@@ -50,7 +50,7 @@ To link a contract as a parent, the following conditions must be met:
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
 [Link parent contract requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-link-parent-cmr.md)
 
@@ -60,6 +60,3 @@ To link a contract as a parent, the following conditions must be met:
 
 [Configure field mapping for parent-child contract linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncor-conf-parent-child.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

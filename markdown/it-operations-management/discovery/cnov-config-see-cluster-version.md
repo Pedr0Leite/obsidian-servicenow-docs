@@ -15,11 +15,11 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Display the Kubernetes cluster version in the CMDB
 
-Make the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer populate the relevant field in the cmdb\_ci\_kubernetes\_cluster CI to display the Kubernetes cluster version.
+Make the Kubernetes Visibility Agent Informer populate the relevant field in the cmdb\_ci\_kubernetes\_cluster CI to display the Kubernetes cluster version.
 
 ## Before you begin
 
-Use ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application version 1.11.0 or higher.
+Use ServiceNow Discovery and Service Mapping Patterns application version 1.11.0 or higher.
 
 Role required: none
 
@@ -35,8 +35,3 @@ Role required: none
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

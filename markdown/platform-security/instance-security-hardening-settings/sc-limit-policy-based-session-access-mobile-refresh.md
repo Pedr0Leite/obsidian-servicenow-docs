@@ -16,7 +16,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 Use the **glide.authenticate.session\_access.mobile.refresh\_token\_interval** property to govern the length of time that must elapse before a mobile device user will be forced to re-authenticate.
 
-The **glide.authenticate.session\_access.mobile.refresh\_token\_interval** suystem property governs the length of time after which a mobile device user will be forced to re-authenticate. This only applies if the admin has configured the [[identity-landing|Identity]] Provider attributes \(which can vary for each login\) in the session access policy and the user authenticates via Single Sign On \(SSO\). The property value is an integer in seconds. The recommended value is `1800` \(30 minutes\).
+The **glide.authenticate.session\_access.mobile.refresh\_token\_interval** suystem property governs the length of time after which a mobile device user will be forced to re-authenticate. This only applies if the admin has configured the Identity Provider attributes \(which can vary for each login\) in the session access policy and the user authenticates via Single Sign On \(SSO\). The property value is an integer in seconds. The recommended value is `1800` \(30 minutes\).
 
 Ensure that the **glide.authenticate.session\_access.mobile.refresh\_token\_interval** property is set to a value of `1800` or below.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -110,14 +110,8 @@ Functional impact
 
 </td><td>
 
-This setting governs the time in seconds after login, that [[users|users]] will be forced to logout from mobile devices if they are using Single Sign On to authenticate, and admin has configured the Identify provider attributes in the session access policy.
+This setting governs the time in seconds after login, that users will be forced to logout from mobile devices if they are using Single Sign On to authenticate, and admin has configured the Identify provider attributes in the session access policy.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

@@ -14,22 +14,18 @@ breadcrumb: [Reusable components, Setup employee communications, Configuring Emp
 
 # Audiences
 
-Target [[ec-streamline-content|portal content]] and lifecycle event activities to specified audiences with audience records.
+Target portal content and lifecycle event activities to specified audiences with audience records.
 
 |For|Use case|
 |---|--------|
 |Portal content|Defines the conditions or criteria that a user must meet to see content in the portal. See [Scheduling the delivery of content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-schedule-content.md) for more information.|
 |Org chart page and my team widget|Defines when new hires display on the org chart page and my team widget in the portal.|
-|Lifecycle event activity|\(Enterprise Onboarding and Transitions\) Defines whether the [[activity-lxp|activity]] should trigger for the lifecycle event case.|
+|Lifecycle event activity|\(Enterprise Onboarding and Transitions\) Defines whether the activity should trigger for the lifecycle event case.|
 
 -   **Scoped cache**
 
-    You can add scoped cache for [[hr-criteria|HR criteria]] to optionally save the evaluation results in cache. This is an optional feature that is available by passing a Boolean "true" as the "useCache" parameter.
+    You can add scoped cache for HR criteria to optionally save the evaluation results in cache. This is an optional feature that is available by passing a Boolean "true" as the "useCache" parameter.
 
     You can also define how long in minutes to retain the cached entries via the sn\_hr\_core.cache.hrcriteria.ttl system property.
 
-## Related
 
-- [[ec-streamline-content|Portal content]]
-- [[activity-lxp|Activity]]
-- [[hr-criteria|HR criteria]]

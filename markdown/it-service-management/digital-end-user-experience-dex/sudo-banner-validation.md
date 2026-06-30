@@ -14,7 +14,7 @@ breadcrumb: [Advanced configuration, Configure, Digital End-User Experience, IT 
 
 # Sudo banner validation
 
-Sudo banner validation flags missing sudo permissions on managed [[dex-workspace-devices-tab|devices]] so you know when the DEX agent's capabilities are limited.
+Sudo banner validation flags missing sudo permissions on managed devices so you know when the DEX agent's capabilities are limited.
 
 The DEX agent requires specific sudo permissions to perform actions such as restarting services \(`restart_service`\) or removing files \(`rm`\). The agent flags missing required permissions.
 
@@ -27,6 +27,3 @@ Add the appropriate commands to the sudo banner exclusion list so the system doe
 
 **Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # Employee Profile table
 
-The [[emp-slate-employee-profile|Employee Profile]] \(sn\_employee\) plugin provides an Employee Profile \(sn\_employee\_profile\) table that makes the employment start date and employment end date fields available outside of [[hr-service-delivery|HR Service Delivery]]. For example, the table can be used with Strategic Portfolio Management to update the resource capacity of users.
+The Employee Profile \(sn\_employee\) plugin provides an Employee Profile \(sn\_employee\_profile\) table that makes the employment start date and employment end date fields available outside of HR Service Delivery. For example, the table can be used with Strategic Portfolio Management to update the resource capacity of users.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Learn more about the [Employee profile](https://raw.githubusercontent.com/Servic
 
 ## If you are using Employee Profile with HR Service Delivery
 
-When you activate the Employee Profile plugin, the following fields are pulled from the [[c_HRProfileRecords|HR Profile]] \(sn\_hr\_core\_profile\) table to populate the Employee Profile \(sn\_employee\_profile\) table.
+When you activate the Employee Profile plugin, the following fields are pulled from the HR Profile \(sn\_hr\_core\_profile\) table to populate the Employee Profile \(sn\_employee\_profile\) table.
 
 |Field|Description|
 |-----|-----------|
@@ -52,8 +52,3 @@ You can activate the Employee Profile plugin \[sn\_employee\] if you have the ad
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

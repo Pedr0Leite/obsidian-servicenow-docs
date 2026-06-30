@@ -14,7 +14,7 @@ breadcrumb: [Password Reset script includes, Password Reset reference, Password 
 
 # Create a Password Reset extension script
 
-Create extension scripts only from the [[password-reset-landing-page|Password Reset]] Extension Script form. Do not create extension scripts in the **System Definition** &gt; **Script Includes** interface.
+Create extension scripts only from the Password Reset Extension Script form. Do not create extension scripts in the **System Definition** &gt; **Script Includes** interface.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Role required: password\_reset\_admin or admin
 
 [Password Reset script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_InstalledPasswordResetScripts.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

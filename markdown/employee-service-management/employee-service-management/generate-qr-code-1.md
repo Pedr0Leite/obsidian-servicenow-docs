@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Generate and print QR code for a space or room
 
-Generate and print a QR code for a single space or room, or for multiple spaces or rooms. Employees can scan the QR code to view their reservation details using the [[mobile-employee-experience|Now Mobile app]].
+Generate and print a QR code for a single space or room, or for multiple spaces or rooms. Employees can scan the QR code to view their reservation details using the Now Mobile app.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[qr-code-mgmt|QR code management]]** &gt; **Create QR codes**.
+1.  Navigate to **Workplace Core** &gt; **QR code management** &gt; **Create QR codes**.
 
     If needed, other possible navigation options include the following:
 
-    -   Navigate to **Workplace Core** &gt; **QR code management** &gt; **[[manage-qr-codes|Manage QR codes]]** and click **New**.
+    -   Navigate to **Workplace Core** &gt; **QR code management** &gt; **Manage QR codes** and click **New**.
     -   Navigate to **Workplace Core** &gt; **Administration** &gt; **Space type configuration**.
 
         Select a space type for which you want to generate and print QR code and click **Create QR codes**.
@@ -123,9 +123,3 @@ Click **download** to download the PDF file.
 
 **Parent Topic:**[QR code management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/qr-code-mgmt.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[qr-code-mgmt|QR code management]]
-- [[manage-qr-codes|Manage QR codes]]

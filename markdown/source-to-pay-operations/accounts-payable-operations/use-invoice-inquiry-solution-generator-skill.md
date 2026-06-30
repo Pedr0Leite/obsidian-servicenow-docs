@@ -25,19 +25,14 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-2.  Expand the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group and select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.\[Omitted image "invoice-inquiry-solution-generate.png"\] Alt text: Invoice inquiry solution generator skill
+2.  Expand the **Finance and Supply Chain** workflow group and select **Accounts Payable Operations**.\[Omitted image "invoice-inquiry-solution-generate.png"\] Alt text: Invoice inquiry solution generator skill
 
 3.  Select **Invoice inquiry solution generator skill**&gt; **Turn on**to activate the skill.
 
-    Activate the skill in the **Turn on skill** pop-up. The skill works in relation with the Inquiry resolution provider agent. For more information on the [[apo-help-resolve-supplier-questions-agentic|Inquiry resolution provider AI agent]], see [Inquiry resolution provider AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-help-resolve-supplier-questions-agentic.md).
+    Activate the skill in the **Turn on skill** pop-up. The skill works in relation with the Inquiry resolution provider agent. For more information on the Inquiry resolution provider AI agent, see [Inquiry resolution provider AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-help-resolve-supplier-questions-agentic.md).
 
 
 ## Result
 
 The invoice and related inquiry data is analyzed by AI skills, AI agent, and case and auto-recommends resolution, which will be reviewed by the AP agent resulting in automatic updating of case closure notes.
 
-## Related
-
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[apo-help-resolve-supplier-questions-agentic|Inquiry resolution provider AI agent]]

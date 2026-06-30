@@ -62,7 +62,7 @@ Acceptance criteria define the boundaries of a user story, and are used to confi
     -   Functionality: Identify specific user tasks, business processes, or functions that must be in place at the end of the project. A functional requirement might be: The user can choose from multiple sizes.
     -   Error handling: Enumerate error cases and how each should be handled. For example, if a user performs the steps in the wrong order, how will the software handle it?
     -   Performance: Test system performance from the perspective of an individual user. For example: Is the UI responsive?
-    -   Stress [[c_Tests|tests]]: Describe how the system responds when it is under stress because there are many users, transactions, or queries. Acceptance criteria should define acceptable thresholds for stress testing. For example: Does the system respond within a 250-millisecond threshold when 100 users submit queries simultaneously?
+    -   Stress tests: Describe how the system responds when it is under stress because there are many users, transactions, or queries. Acceptance criteria should define acceptable thresholds for stress testing. For example: Does the system respond within a 250-millisecond threshold when 100 users submit queries simultaneously?
 -   **Example of Good Acceptance Criteria**
 
     Description: As a customer, I want to order and pay for the book via a secure web-based form, so that my credit card information is safe.
@@ -95,6 +95,3 @@ Acceptance criteria define the boundaries of a user story, and are used to confi
 
 **Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[c_Tests|Tests]]

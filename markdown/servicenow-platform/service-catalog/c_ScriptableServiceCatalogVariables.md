@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog scoping, Configuring Service Catalog, Service Catal
 
 # Scriptable service catalog variables
 
-You can use scripting to [[reference|reference]] any request item variable from a table in scoped and non-scoped environment.
+You can use scripting to reference any request item variable from a table in scoped and non-scoped environment.
 
 An example of a variable reference follows.
 
@@ -28,7 +28,7 @@ Where current refers to the current record, and *&lt;variable\_name&gt;* is the 
 
 When a variable is part of a variable set, you can reference it as current.variables.&lt;variable\_name&gt; or current.variables.&lt;variable\_set\_name&gt;.&lt;variable\_name&gt;.
 
-Variable set is also a first-class citizen in [[service-catalog|Service Catalog]]. Like variables, a variable set has read, write, and create roles. If roles are provided for a variable set, the roles are applicable for the variables within the set. Roles of an individual variable are overridden by the roles of the variable set.
+Variable set is also a first-class citizen in Service Catalog. Like variables, a variable set has read, write, and create roles. If roles are provided for a variable set, the roles are applicable for the variables within the set. Roles of an individual variable are overridden by the roles of the variable set.
 
 ## Print a variable
 
@@ -85,7 +85,7 @@ now_GR.variables.getElements();
 now_GR.variables.getElements(true);
 ```
 
-**Note:** The getElements\(\) method returns all the variables present on the given task record except for the formatter variables like [[label|label]], [[break|break]], container end, container split, and so on.
+**Note:** The getElements\(\) method returns all the variables present on the given task record except for the formatter variables like label, break, container end, container split, and so on.
 
 ## APIs for GlideElementVariable
 
@@ -94,7 +94,7 @@ now_GR.variables.getElements(true);
 -   now\_GR.variables.&lt;var\_name&gt;.getLabel\(\): Get the label of the GlideElementVariable. For a variable, the label of the variable is returned. For multi-row variable set, the title of the variable set is returned.
 -   now\_GR.variables.&lt;var\_name&gt;.canRead\(\): Get whether the user can view a variable or multi-row variable set.
 -   now\_GR.variables.&lt;var\_name&gt;.canWrite\(\): Get whether the user can edit a variable or multi-row variable set.
--   now\_GR.variables.&lt;var\_name&gt;.getDecryptedValue\(\): Get the decrypted value for a [[masked|masked]] variable. Applicable only for a masked variable.
+-   now\_GR.variables.&lt;var\_name&gt;.getDecryptedValue\(\): Get the decrypted value for a masked variable. Applicable only for a masked variable.
 -   now\_GR.variables.&lt;var\_name&gt;.getRows\(\): Get the list of row objects for a multi-row variable set. Applicable only for a multi-row variable set \(isMultiRow\(\) is true\).
 -   now\_GR.variables.&lt;var\_name&gt;.getRowCount\(\): Get the number of rows for multi-row variable set. Applicable only for a multi-row variable set \(isMultiRow\(\) is true\).
 
@@ -280,10 +280,3 @@ row.deleteRow()
 
 **Parent Topic:**[Service Catalog scoping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/scoping-support-catalog.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]
-- [[break|Break]]
-- [[masked|Masked]]

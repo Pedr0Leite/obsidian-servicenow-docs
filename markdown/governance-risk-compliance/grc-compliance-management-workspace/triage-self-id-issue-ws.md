@@ -131,7 +131,7 @@ Issue owner
 Ability to resolve the reportable issue assigned to them
 
 </td></tr></tbody>
-</table>**Note:** The triage user/manager and Issue manager roles were introduced in GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] version 11.1.0.
+</table>**Note:** The triage user/manager and Issue manager roles were introduced in GRC: Policy and Compliance Management version 11.1.0.
 
 ## Procedure
 
@@ -174,6 +174,4 @@ Ability to resolve the reportable issue assigned to them
 
     One significant change on the **Issue** form is the addition of an **Issue Triages** related list. Opening the triage record provides the analyst with the details of the triage that resulted in the creation of this issue.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -12,17 +12,17 @@ breadcrumb: [Using MISP to investigate and analyze threats, MISP integration for
 
 # Observable enrichment in MISP
 
-By enriching [[c_Observables|observables]] with additional information from various MISP sources during incident response investigations, you can contain identified threats.
+By enriching observables with additional information from various MISP sources during incident response investigations, you can contain identified threats.
 
-**Parent Topic:**[[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
+**Parent Topic:**[Using MISP to investigate and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-misp-to-detect-and-analyze-threats.md)
 
 ## Enable automatic observable enrichment in MISP
 
-Enable automatic [[tisc-observable-enrichment|observable enrichment]] in the ServiceNow AI Platform MISP when new observables are associated with the security incident.
+Enable automatic observable enrichment in the ServiceNow AI Platform MISP when new observables are associated with the security incident.
 
 ### Before you begin
 
--   Enable the [[sir-landing-page|Security Incident Response]] system property for the **Enables or Disables the scheduled job, Lookup Security Incident Observables** option to trigger the observable enrichment capability in SIR.
+-   Enable the Security Incident Response system property for the **Enables or Disables the scheduled job, Lookup Security Incident Observables** option to trigger the observable enrichment capability in SIR.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -33,7 +33,7 @@ Enable automatic [[tisc-observable-enrichment|observable enrichment]] in the Ser
 
 3.  Review the work notes after new observables have been associated with the security incident.
 
-    The following example shows that a work note posts when the [[secops-integration-enrich-observ-wf|Security Operations Integration - Enrich Observable flow]] triggers.
+    The following example shows that a work note posts when the [Security Operations Integration - Enrich Observable flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-enrich-observ-wf.md) triggers.
 
     \[Omitted image "flows-misp-worknotes-start.png"\] Alt text: View the work notes of the Observable Enrichment status.
 
@@ -169,7 +169,7 @@ Select individual or multiple observables and perform a manual observable enrich
 
 ### Before you begin
 
--   [[misp-user-roles-and-permissions|Review the MISP user role and permissions]] for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -180,7 +180,7 @@ Select individual or multiple observables and perform a manual observable enrich
 
 3.  Click **Show All Related Lists** and the **Associated Observables** tab.
 
-4.  Select the observable and from the Actions menu, click **[[tisc-run-observable-enrichment|Run Observable Enrichment]]**.
+4.  Select the observable and from the Actions menu, click **Run Observable Enrichment**.
 
     You can select multiple observables for a sighting search.
 
@@ -248,7 +248,7 @@ Event
 
 </td><td>
 
-Event ID that is assigned by the MISP server when the event was first created or imported into MISP.Preview the event or click the record to view the event data in the [[misp-event-data|MISP Event Data]] page.
+Event ID that is assigned by the MISP server when the event was first created or imported into MISP.Preview the event or click the record to view the event data in the MISP Event Data page.
 
 </td></tr><tr><td>
 
@@ -446,13 +446,3 @@ Add comments for the MISP attributes. The comments that you add are for informat
 
 The comment is successfully updated in the MISP server.
 
-## Related
-
-- [[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
-- [[secops-integration-enrich-observ-wf|Security Operations Integration - Enrich Observable flow]]
-- [[misp-user-roles-and-permissions|MISP user roles and permissions]]
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
-- [[misp-event-data|MISP event data]]

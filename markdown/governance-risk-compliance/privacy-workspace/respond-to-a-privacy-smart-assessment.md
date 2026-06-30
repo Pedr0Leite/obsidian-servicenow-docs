@@ -28,11 +28,11 @@ A screening assessment is the first assessment that is sent to any responder to 
 -   **Hierarchy**: In this section, the responders specify the source and the destination of data.
 -   **Legal basis**: In this section, the responders specify the lawful basis on which the data is processed. For example, an information is processed for legal obligations. Here, you can specify the granular levels of the create, read, update, delete operations that can be performed on the data and also where is the data coming from and where is being sent.
 
-Because the assessments use the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], the responders can see the detailed description of each question and the guidance that helps the responder in answering the questions.
+Because the assessments use the Smart Assessment Engine, the responders can see the detailed description of each question and the guidance that helps the responder in answering the questions.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center|Employee Center]]** &gt; **My active items** &gt; **GRC tasks** &gt; **My to-dos** &gt; **My pending tasks** &gt; **Privacy assessments**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center** &gt; **My active items** &gt; **GRC tasks** &gt; **My to-dos** &gt; **My pending tasks** &gt; **Privacy assessments**.
 
 2.  Select and open the assessment you want to take.
 
@@ -42,7 +42,7 @@ Because the assessments use the [[smart-asmnt-engine-landing-page|Smart Assessme
 
 4.  To reassign the assessment, select **Reassign**.
 
-    You can only reassign the assessment to a user who has the privilege to [[sae-asmnt-respond|respond to an assessment]] and is a key stakeholder.
+    You can only reassign the assessment to a user who has the privilege to respond to an assessment and is a key stakeholder.
 
 5.  If responding to a screening assessment, respond to the questions in the questionnaire.
 
@@ -67,8 +67,3 @@ After an assessment is submitted, the privacy team receives a notification about
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[employee-center|employee center]]
-- [[sae-asmnt-respond|Respond to an assessment]]

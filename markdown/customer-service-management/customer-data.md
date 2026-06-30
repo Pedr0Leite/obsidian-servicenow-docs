@@ -12,7 +12,7 @@ breadcrumb: [Set up your environment, Configure, Customer Service Management]
 
 # Customer data
 
-Customer data for [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) consists of information about people who aren’t part of your organization, including accounts, contacts, consumers, and households.
+Customer data for Customer Service Management \(CSM\) consists of information about people who aren’t part of your organization, including accounts, contacts, consumers, and households.
 
 ## Different entities within Customer Data
 
@@ -26,8 +26,8 @@ Customer data for [[c_CustomerServiceManagement|Customer Service Management]] \(
     -   Active - Indicates whether an account record is currently active for filtering and workflow purposes.
     There are two types of accounts: customer accounts and partner accounts.
 
-    -   A partner is a supported external customer that sells to and supports other customers. A partner can report and [[manage-cases|manage cases]] on behalf of customers. A partner can also be a customer.
-    -   An account can be a customer account, a partner account, or both. The **Customer** and **Partner** fields on the [[customer-service-account-form|Account form]] denote the account type.
+    -   A partner is a supported external customer that sells to and supports other customers. A partner can report and manage cases on behalf of customers. A partner can also be a customer.
+    -   An account can be a customer account, a partner account, or both. The **Customer** and **Partner** fields on the Account form denote the account type.
 -   **Contacts**
 
     A contact is an employee of an account and can be associated with only one account. Contacts can have multiple assets and service contracts and can log in to the Customer Service Portal.
@@ -55,8 +55,3 @@ Implemented new administrative roles that provide fine-grained access control ac
 
 For detailed information on the granular admin roles in CDF and their associated privileges, see [Platform security granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-granular-roles.md).
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[manage-cases|Manage cases]]
-- [[customer-service-account-form|Account form]]

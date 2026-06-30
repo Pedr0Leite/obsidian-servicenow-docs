@@ -14,7 +14,7 @@ breadcrumb: [Add a target for goal, Manage enterprise goals, Strategy and Goals,
 
 # Update the progress of an automated target
 
-Update the progress of a target using the **Update Actual value** related link on the [[target-form|Target form]].
+Update the progress of a target using the **Update Actual value** related link on the Target form.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the strategy-based board or goal-based board for which your target belongs to.
 
@@ -95,8 +95,3 @@ The goal details page opens.
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[target-form|Target form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

@@ -38,7 +38,7 @@ Event-generating business rules use the GlideSystem eventQueue method to insert 
 |Table|Table to which the event applies. This is the same table on which the business rule ran.|
 |Instance|Sys ID of the record to which this event applies.|
 
-[[c_ScheduledJobs|Scheduled jobs]] periodically read the event queue and forward them to the appropriate handler for processing. The handler uses information from event records to take some kind of action such as:
+Scheduled jobs periodically read the event queue and forward them to the appropriate handler for processing. The handler uses information from event records to take some kind of action such as:
 
 -   Run a script action
 -   Send a notification
@@ -49,7 +49,7 @@ By default, the system provides events covering a broad view of application acti
 
 For developer training, see [Scheduled Script Executions and Events Objectives](https://developer.servicenow.com/dev.do#!/learn/courses/xanadu/app_store_learnv2_automatingapps_xanadu_automating_application_logic/app_store_learnv2_automatingapps_xanadu_scheduled_script_executions_and_events/app_store_learnv2_automatingapps_xanadu_scheduled_script_executions_and_events_objectives) on the ServiceNow® Developer Site.
 
-Use the [[track-events|System Events and Jobs Dashboard]] to monitor the system event processing system and the scheduled jobs processing system.
+Use the [System Events and Jobs Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/track-events.md) to monitor the system event processing system and the scheduled jobs processing system.
 
 ## Event processing during platform upgrade
 
@@ -60,7 +60,4 @@ Determine which events are to be processed during a platform upgrade by configur
 
     This property is relevant only when **glide.event\_processor.all\_events\_upgrade\_safe = false**.
 
-## Related
 
-- [[track-events|Monitor System Events and Scheduled Jobs dashboards]]
-- [[c_ScheduledJobs|Scheduled jobs]]

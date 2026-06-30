@@ -15,7 +15,7 @@ breadcrumb: [IT Operations Management]
 
 # Now Assist for ITOM
 
-Use the ServiceNow® Now Assist for ITOM application to analyze alerts in [[c_EM|Event Management]]. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
+Use the ServiceNow® Now Assist for ITOM application to analyze alerts in Event Management. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
 
 ## Get started
 
@@ -99,6 +99,3 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 [Explore Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summary-now-assist.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -26,7 +26,7 @@ By default, the Rank By Score list ranks demands and projects based on system-ge
 
 ## Procedure
 
-1.  Navigate to [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d189939e58">
 
@@ -211,6 +211,3 @@ If initial rank &lt; edited rank and there is a gap in rank sequence, then after
 </td></tr></tbody>
 </table>**Parent Topic:**[Create planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

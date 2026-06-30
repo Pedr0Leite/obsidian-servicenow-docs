@@ -12,7 +12,7 @@ breadcrumb: [Configuring External Key Management Service, External Key Managemen
 
 # Set up Module Access Policies
 
-Configure module access [[ca-policies|policies]] in [[ekms-external-key-management|External Key Management Service]] \(EKMS\) to control who can view encrypted data in clear text.
+Configure module access policies in External Key Management Service \(EKMS\) to control who can view encrypted data in clear text.
 
 ## Before you begin
 
@@ -20,12 +20,12 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 Confirm that you have:
 
--   [[ekms-configure-external-key-definition|Created a cryptographic module with external key wrapping enabled]]
--   [[ekms-create-encrypted-field-config|Created an Encrypted Field Configuration]]
+-   [Created a cryptographic module with external key wrapping enabled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configure-external-key-definition.md)
+-   [Created an Encrypted Field Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-create-encrypted-field-config.md)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies**.
 
     **Note:** For additional information, refer to [Configure module access policies for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-module-access-policy.md).
 
@@ -58,11 +58,11 @@ Type
 </td><td>
 
 Decide who or what should have access to this MAP to encrypt or decrypt data.-   Scope- Anything within the specified Application Scope has access to this MAP.
--   Role- Only [[users|users]] with the specific role can access this MAP.
+-   Role- Only users with the specific role can access this MAP.
 -   Script- Ensure a specified script can access this MAP.
 -   System Access- Allows processes running in “System Context” access to this MAP.
 -   Resource Exchange- Allows for the Resource Exchange feature access to this MAP.
-For more information on how these different types of MAP work, see [[exploring-fe|Exploring Field Encryption]].
+For more information on how these different types of MAP work, see [Exploring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md).
 
 </td></tr><tr><td>
 
@@ -117,20 +117,8 @@ The Module Access Policy for the script is available in the system.
 
 Next steps:
 
--   [[ekms-test-external-key-definition|Test an external key definition]]
--   [[ekms-change-status-aws-kms-key|Learn how to change the status of an AWS KMS Key]]
+-   [Test an external key definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-test-external-key-definition.md)
+-   [Learn how to change the status of an AWS KMS Key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-status-aws-kms-key.md)
 
-**Parent Topic:**[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
-## Related
-
-- [[ekms-configure-external-key-definition|Configure an external key definition]]
-- [[ekms-create-encrypted-field-config|Create Encrypted Field Configurations]]
-- [[exploring-fe|Exploring Field Encryption]]
-- [[ekms-test-external-key-definition|Test an external key definition]]
-- [[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[ca-policies|Policies]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[field-encryption|Field Encryption]]
-- [[users|Users]]

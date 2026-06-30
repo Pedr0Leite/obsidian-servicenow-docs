@@ -22,7 +22,7 @@ Role required: Modifier \[sn\_jny.writer\]
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], select **Journeys**.
+1.  From the Employee Center, select **Journeys**.
 
 2.  Select the **Involved journeys** tab, and select the journey you want to update.
 
@@ -47,18 +47,12 @@ Role required: Modifier \[sn\_jny.writer\]
 
 With the correct permissions, Journey mentors can edit existing journeys. Mentors can:
 
--   Add [[journey-accelerator-1|Journey Accelerator]] tasks to a Journey.
+-   Add Journey Accelerator tasks to a Journey.
 -   Add Journey Accelerator stages to a journey.
 -   Drag stages and tasks within a journey to change the order.
 -   Add a mentor.
 -   Publish the journey.
--   Add recommended [[exploring-learning-exp|learning]] and [[emp-center-quick-link-config|quick links]].
+-   Add recommended learning and quick links.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[exploring-learning-exp|Learning]]
-- [[emp-center-quick-link-config|Quick links]]

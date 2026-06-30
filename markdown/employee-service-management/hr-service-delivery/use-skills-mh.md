@@ -14,17 +14,17 @@ breadcrumb: [Use, Manager Hub, HR Service Delivery, Employee Service Management]
 
 # Know your team's skills
 
-Understand the current skills and the targeted skills of the team so that you’re empowered to develop the right skill-set in the team for today's and tomorrow's business requirements.​ Help your employees utilize different tools of Talent Development such as [[exploring-learning-exp|learning]], growth plans, [[mentoring-egd-overview|mentoring]] to build new skills or bridge existing skill gaps.
+Understand the current skills and the targeted skills of the team so that you’re empowered to develop the right skill-set in the team for today's and tomorrow's business requirements.​ Help your employees utilize different tools of Talent Development such as learning, growth plans, mentoring to build new skills or bridge existing skill gaps.
 
 ## Before you begin
 
 -   Role required: sn\_mh.manager\_hub\_user
--   Ensure that the [[skills-intelligence|Skills Foundation]] application is installed.
--   Skills or job role implementation is mandatory. This is driven by a system property. If this is set to false, the Skills tab does not appear in [[manager-hub-overview|Manager Hub]].
+-   Ensure that the Skills Foundation application is installed.
+-   Skills or job role implementation is mandatory. This is driven by a system property. If this is set to false, the Skills tab does not appear in Manager Hub.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -44,15 +44,8 @@ Understand the current skills and the targeted skills of the team so that you’
 
 6.  In the Skills being learned section, view employees who are pursuing a specific skill.
 
-    For more information about a skill being learned, select \[Omitted image "viewmenu.png"\] Alt text: View menu icon and select **[[td-lh-view-skill-details|View skill details]]**. To view all the skill learning cards, select **View all**.
+    For more information about a skill being learned, select \[Omitted image "viewmenu.png"\] Alt text: View menu icon and select **View skill details**. To view all the skill learning cards, select **View all**.
 
     **Note:** For the Skills being learned section to surface data, you must install Learning and Talent Development applications and associate them with skills.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]
-- [[mentoring-egd-overview|Mentoring]]
-- [[skills-intelligence|Skills Foundation]]
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-view-skill-details|View skill details]]

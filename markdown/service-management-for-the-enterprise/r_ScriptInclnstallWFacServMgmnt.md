@@ -14,7 +14,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 Script includes are used to store JavaScript that runs on the server.
 
-[[FacilitiesLandingPage|Facilities Service Management]] adds the following script includes.
+Facilities Service Management adds the following script includes.
 
 <table id="table_wtf_krf_2t"><thead><tr><th>
 
@@ -142,7 +142,7 @@ FacilitiesUtils
 
 </td><td>
 
-Contains utility methods for [[r_SpaceManagement|space management]], including rollup calculations from spaces to levels and levels to building.
+Contains utility methods for space management, including rollup calculations from spaces to levels and levels to building.
 
 </td></tr><tr><td>
 
@@ -185,10 +185,5 @@ FacilitiesViewerUtils
 Contains utility methods for the floor plan viewer.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[r_SpaceManagement|Space management]]

@@ -18,7 +18,7 @@ Request electronic signatures through the DocuSign service with the DocuSign int
 
 **Important:**
 
-Starting with the Australia release, HR [[document-templates-overview|Document Templates]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported.
+Starting with the Australia release, HR Document Templates is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported.
 
 Use [Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/document-templates-overview.md) and [Document Template integration with Docusign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-doc.md) that provide the latest experience for this functionality. For migration guidelines, see [Migrating from HR Document Templates to Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/migration-hrdt-dt.md).
 
@@ -73,7 +73,7 @@ DocuSign template flow
 </td></tr></tbody>
 </table>The ad hoc document flow is for the signing of static documents that originate from a managed document in the ServiceNow system. Each ad hoc document is configured as a standard HR PDF document template. You can add signers to the document with **Mark Signatures**, and then map each signature field to an appropriate user field in a table. \(The positioning of the markings are not used, and the DocuSign integration allows the signer to sign anywhere in the document.\) You can also parse the PDF to map document fields to corresponding table fields to auto-populate the document when it is generated for signing. The generated document is static, which means that it is read-only and the signatory cannot update any of the fields.
 
-The DocuSign template flow is for the signing of dynamic documents that originate from the DocuSign system. Each DocuSign template is brought into the ServiceNow system, and then configured into an HR PDF document template to enable mappings. You must map each signature field from the DocuSign template to an appropriate user field in a table. You can also [[map-fields-navex|map fields]] from the DocuSign template to corresponding table fields to auto-populate the document for signing. The generated document is dynamic, which means that the signatory can write in editable fields, such as to update an address or provide W-4 information. However, any updates made are saved to the document only. They are not mapped back to the source table.
+The DocuSign template flow is for the signing of dynamic documents that originate from the DocuSign system. Each DocuSign template is brought into the ServiceNow system, and then configured into an HR PDF document template to enable mappings. You must map each signature field from the DocuSign template to an appropriate user field in a table. You can also map fields from the DocuSign template to corresponding table fields to auto-populate the document for signing. The generated document is dynamic, which means that the signatory can write in editable fields, such as to update an address or provide W-4 information. However, any updates made are saved to the document only. They are not mapped back to the source table.
 
 ## Requesting electronic signatures through the DocuSign service
 
@@ -90,7 +90,3 @@ Create or modify an HR service to request electronic signatures through the Docu
 
 **Parent Topic:**[HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[map-fields-navex|Map fields]]

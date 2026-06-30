@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # View system compliance
 
-View whether the [[dex-workspace-devices-tab|devices]] are adhering to your organization's application and policy compliance rules. Use this data to identify potential security risks.
+View whether the devices are adhering to your organization's application and policy compliance rules. Use this data to identify potential security risks.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
     For more information about the system compliance metrics, see [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md).
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]

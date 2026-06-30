@@ -32,7 +32,7 @@ The base system includes the Advanced Work Assignment solution for General Legal
 
     For more information, see [Create or configure a service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-service-channel.md).
 
-    The following service channels are available in the base system [[lsd-awa-landing|Advanced Work Assignment for Legal Service Delivery]].
+    The following service channels are available in the base system Advanced Work Assignment for Legal Service Delivery.
 
     -   Legal Request
     -   Chat
@@ -88,6 +88,4 @@ The base system includes the Advanced Work Assignment solution for General Legal
         -   Legal Department
     For detailed instructions on how to configure Advanced Work Assignment, see [Configuring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/installing-awa.md).
 
-## Related
 
-- [[lsd-awa-landing|Advanced work assignment for Legal Service Delivery]]

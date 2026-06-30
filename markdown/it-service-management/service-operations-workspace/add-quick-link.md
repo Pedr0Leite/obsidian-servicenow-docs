@@ -14,7 +14,7 @@ breadcrumb: [Operating IT services in your organization, Service Operations Work
 
 # Add a user-specific quick link on the ITSM landing page
 
-Refer to a URL quickly from the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]].
+Refer to a URL quickly from the Service Operations Workspace landing page.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Role required: itil
 
 [Change Management in Service Operations Workspace]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

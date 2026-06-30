@@ -22,7 +22,7 @@ Role required: admin
 
 1.  In the main menu, select the **Settings** option.
 
-2.  On the [[settings-page-console|Settings page]], select the **Exports** tab.
+2.  On the Settings page, select the **Exports** tab.
 
 3.  Select and export data into JSON files.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 The scheduled exports are saved to `/apiexports`.
 
-## Related
-
-- [[settings-page-console|Settings page]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Software asset overview
 
-Enhance your [[c_SoftwareAssetMgmt|software asset management]] experience by using the modernized and user-friendly software asset overview view. The software asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
+Enhance your software asset management experience by using the modernized and user-friendly software asset overview view. The software asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
 
 Use the software asset overview view to:
 
@@ -65,7 +65,7 @@ Product Results \[samp\_product\_result\]
 
 </td><td>
 
-The number of publishers that have at least one software model out of compliance.Select the report to view the results in the [[sam-workspace-workbench|License usage view]].
+The number of publishers that have at least one software model out of compliance.Select the report to view the results in the License usage view.
 
 </td></tr><tr><td>
 
@@ -183,7 +183,7 @@ Software installs normalization status
 
 </td><td>
 
-[[sam-software-discovery|Software Discovery]] [[c_Models|Models]] \[cmdb\_sam\_sw\_discovery\_model\]
+Software Discovery Models \[cmdb\_sam\_sw\_discovery\_model\]
 
 </td><td>
 
@@ -336,7 +336,7 @@ Entitlement Import Errors \[samp\_entitlement\_import\]
 
 </td><td>
 
-The number of entitlement import errors where the purchase orders have an associated [[c_Procurement|procurement]] integration profile.**Note:** This alert appears only when the [[am-landing-page|Asset Management]] - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
+The number of entitlement import errors where the purchase orders have an associated procurement integration profile.**Note:** This alert appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
 
 </td></tr><tr><td>
 
@@ -505,12 +505,3 @@ Number of entitlements created from purchase orders that have an associated proc
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace-workbench|License usage view]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[am-landing-page|Asset Management]]

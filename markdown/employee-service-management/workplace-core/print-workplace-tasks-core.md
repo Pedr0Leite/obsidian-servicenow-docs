@@ -20,11 +20,11 @@ Workplace coordinators can print the workplace task details and the associated w
 
 Role required: sn\_wsd\_core.task\_reader
 
-**Note:** Enable the Print task feature by installing the [[document-templates-overview|Document Templates]] plugin.
+**Note:** Enable the Print task feature by installing the Document Templates plugin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace Tasks**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace Tasks**.
 
 2.  To view all the workplace tasks, select **All**.
 
@@ -39,7 +39,3 @@ Role required: sn\_wsd\_core.task\_reader
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

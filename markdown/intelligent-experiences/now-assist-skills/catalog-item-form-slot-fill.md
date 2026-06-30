@@ -14,7 +14,7 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Catalog item form slot-fill
 
-With the catalog item form slot-fill skill, [[platform-now-assist-landing|Now Assist]] can automatically complete catalog item forms based on what users search for.
+With the catalog item form slot-fill skill, Now Assist can automatically complete catalog item forms based on what users search for.
 
 For instance, if requester looks up a standard laptop with 256 GB storage in silver color, the resulting form will have those specifications already filled in provided they’re part of the form. Requester can quickly review these pre-filled forms, making requests faster and more efficient.
 
@@ -33,6 +33,3 @@ Pre-filled fields show AI icons to help users validate values populated by Now A
 -   UI page
 -   HTML
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

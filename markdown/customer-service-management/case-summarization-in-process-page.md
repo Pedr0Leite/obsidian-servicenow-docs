@@ -30,9 +30,9 @@ Agents can use the case summarization skill to generate a case summary that incl
 -   Priority
 -   State
 
-The summary also includes information from the case [[csm-config-ws-activity-stream|activity stream]]. Agents generate a case summary by using the Case summary by Now Assist component on the case record in [[csm-workspaces-configure|CSM Configurable Workspace]].
+The summary also includes information from the case activity stream. Agents generate a case summary by using the Case summary by Now Assist component on the case record in CSM Configurable Workspace.
 
-**Note:** The case summary component appears below the playbook activity picker in the side panel in the process-based pages and it appears above the activity stream in the [[csm-default-record-page|CSM default record page]].
+**Note:** The case summary component appears below the playbook activity picker in the side panel in the process-based pages and it appears above the activity stream in the CSM default record page.
 
 ## Case summary by Now Assist component
 
@@ -43,8 +43,3 @@ In CSM Configurable Workspace, agents use the Case summary by Now Assist compone
 -   Add the summary information to the case work notes.
 -   Copy the summary information to the clipboard.
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]

@@ -12,7 +12,7 @@ breadcrumb: [Examples of using AI agents, Now Assist AI agents, Enable AI experi
 
 # Review and update tickets with the Ticket Status AI agent
 
-Review the status of your tickets and take standard ticket actions, such as adding comments, using the Ticket Status AI agent in [[platform-now-assist-landing|Now Assist]] in Virtual Agent.
+Review the status of your tickets and take standard ticket actions, such as adding comments, using the Ticket Status AI agent in Now Assist in Virtual Agent.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: By default, any authenticated user with access to the portal the 
 
 1.  Navigate to your Service Portal and open Virtual Agent to start a new conversation.
 
-    Depending on the configuration, you may also be able to access this AI agent in the [[now-assist-center-now-assist-panel|Now Assist panel]] or Microsoft Teams with myBot.
+    Depending on the configuration, you may also be able to access this AI agent in the Now Assist panel or Microsoft Teams with myBot.
 
 2.  Enter one of the following utterances:
 
@@ -37,7 +37,3 @@ Role required: By default, any authenticated user with access to the portal the 
 
 The Ticket Status AI agent used various tools to check and update your tickets.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

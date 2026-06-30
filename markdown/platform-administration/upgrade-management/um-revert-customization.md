@@ -30,7 +30,7 @@ To identify customized objects, the system adds a corresponding record in the Cu
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade History**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade History**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade History**.|
 
     A list of upgrades is displayed.
@@ -48,11 +48,7 @@ To identify customized objects, the system adds a corresponding record in the Cu
 6.  Click **Revert to base system** to overwrite your customized object with the system default version.
 
     -   The **Disposition** changes from **Skipped** to **Reverted**.
-    -   After you [[uc-revert-customization|revert a customization]], you have the option to click **Reapply Changes** to reapply your customizations \(undo the revert\).
+    -   After you revert a customization, you have the option to click **Reapply Changes** to reapply your customizations \(undo the revert\).
 
 **Parent Topic:**[Reviewing upgrade history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-history.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[uc-revert-customization|Revert a customization]]

@@ -18,7 +18,7 @@ Create an email notification using the Notification agent in Now Assist by descr
 
 Confirm the notification details before deployment.
 
-**Note:** The [[notification-creation-agent|Notification Agent]] requires the Implementation Agent \(IA\) Orchestration framework and is not supported as a standalone feature.
+**Note:** The Notification Agent requires the Implementation Agent \(IA\) Orchestration framework and is not supported as a standalone feature.
 
 Role required: admin
 
@@ -32,7 +32,7 @@ Role required: admin
 
     The configure page opens in the Configuration Console.
 
-4.  Select **[[notifications|Notifications]]** under the business unit you want to configure \(for example, Legal, Workplace Services, or Finance for Core Business Suite\).
+4.  Select **Notifications** under the business unit you want to configure \(for example, Legal, Workplace Services, or Finance for Core Business Suite\).
 
 5.  Select **Configure with Now Assist**.
 
@@ -65,7 +65,4 @@ Role required: admin
 
     Now Assist creates the notification and displays a success message.
 
-## Related
 
-- [[notification-creation-agent|Notification agent]]
-- [[notifications|Notifications]]

@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration Reference, Security Operations comm
 
 # REST APIs for third-party integration with Security Operations
 
-The [[security-operations-landing-page|Security Operations]] base system includes a series of scripted REST APIs that allow customers and partners to easily [[integrating-threat-intelligence-security-center|integrate]] with an existing Security Operations deployment. The APIs allow you to gather data from outside of your system \(for example, a Python script is used to receive data from VirusTotal\) and send it back to your instance.
+The Security Operations base system includes a series of scripted REST APIs that allow customers and partners to easily integrate with an existing Security Operations deployment. The APIs allow you to gather data from outside of your system \(for example, a Python script is used to receive data from VirusTotal\) and send it back to your instance.
 
 Scripts written in almost any language \(Python, for example\) can be used with the APIs to perform customer-specific processes. The scripts must be written in a language able to make an outside-facing HTTP Post call. For example, if you have a Java application, you must use a library, such as the `java.net.HttpUrlConnection` package, to construct an HTTP call and pass in a JSON string as Body for the message.
 
@@ -20,7 +20,7 @@ The API is solely used to add data that was gathered outside of our system. For 
 
 ## Authentication
 
-All operations within the API definitions use platform authentication provided by the [Scripted REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_CustomWebServices.md) operation feature. To access, navigate to **System Web Services** &gt; **Scripted Web Services** &gt; **Scripted REST APIs** and locate the **SecOps [[integration-capabilities|Integration Capabilities]]** API.
+All operations within the API definitions use platform authentication provided by the [Scripted REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_CustomWebServices.md) operation feature. To access, navigate to **System Web Services** &gt; **Scripted Web Services** &gt; **Scripted REST APIs** and locate the **SecOps Integration Capabilities** API.
 
 The user and the user’s domain are readily available within the context of the API. Records can be tied to a user, an audit path to be established, and domain separation accomplished. Also, since you are authenticated as a specific user, you can use [Using GlideRecordSecure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/p_GlideServerAPIs.md) to prevent any unauthorized access to data.
 
@@ -63,7 +63,7 @@ Sample request and responses for the CI enrichment use case are shown here.
 
 ## Observable enrichment use case
 
-Using your third-party scripts, you can write to the [[tisc-observable-enrichment|Observable Enrichment]] Result `[sn_ti_observable_enrichment_result]` table for observable enrichment. The enrichment records are based on existing capabilities that provide detailed information about a record from a third-party source.
+Using your third-party scripts, you can write to the Observable Enrichment Result `[sn_ti_observable_enrichment_result]` table for observable enrichment. The enrichment records are based on existing capabilities that provide detailed information about a record from a third-party source.
 
 Sample request and responses for the observable enrichment use case are shown here.
 
@@ -71,11 +71,11 @@ Sample request and responses for the observable enrichment use case are shown he
 
 \[Omitted image "ObservableEnrichmentCreateResponse.png"\] Alt text: Observable Enrichment: Create Response
 
-**Note:** In addition to enriching existing records, you can also use [[enrichment-data-mapping|Security Operations enrichment data mapping]] to add new records to tables by passing in an **enrichment\_mapping\_id** for an existing enrichment [[mapping-logrhythm|mapping]] and a corresponding **raw\_data** string that can be parsed by the mapping process.
+**Note:** In addition to enriching existing records, you can also use [Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md) to add new records to tables by passing in an **enrichment\_mapping\_id** for an existing enrichment mapping and a corresponding **raw\_data** string that can be parsed by the mapping process.
 
 ## Threat lookup use case
 
-Using your third-party scripts, you can write to the [[tisc-threat-lookup|Threat Lookup]] Result \[sn\_ti\_lookup\_result\] table for threat lookup results. The lookup records are based on existing capabilities that provide detailed information about a record from a third-party source.
+Using your third-party scripts, you can write to the Threat Lookup Result \[sn\_ti\_lookup\_result\] table for threat lookup results. The lookup records are based on existing capabilities that provide detailed information about a record from a third-party source.
 
 Sample request and responses for the threat lookup use case are shown here.
 
@@ -83,15 +83,5 @@ Sample request and responses for the threat lookup use case are shown here.
 
 \[Omitted image "ThreatLookupCreateResponse.png"\] Alt text: Create-Response for threat lookups
 
-**Parent Topic:**[[secops-integ-ref|Security Operations Integration Reference]]
+**Parent Topic:**[Security Operations Integration Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-ref.md)
 
-## Related
-
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[secops-integ-ref|Security Operations Integration Reference]]
-- [[security-operations-landing-page|Security Operations]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[integration-capabilities|Integration capabilities]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-threat-lookup|Threat Lookup]]

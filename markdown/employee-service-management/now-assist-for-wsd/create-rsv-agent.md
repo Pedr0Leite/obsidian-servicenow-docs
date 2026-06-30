@@ -14,7 +14,7 @@ breadcrumb: [Making reservations using the Create a reservation agent, Using Now
 
 # Reserve a space using the reservation agent
 
-The [[create-reservation-request-1|Create a reservation]] agent enables employees to reserve a space with a single prompt query or utterance.
+The Create a reservation agent enables employees to reserve a space with a single prompt query or utterance.
 
 ## Before you begin
 
@@ -22,14 +22,14 @@ Make sure that you have installed and configured the following applications:
 
 -   Now Assist in Virtual Agent.
 
-    Confirm that the enhanced chat is configured for the [[employee-center-landing-page|Employee Center]] portal by virtual\_agent\_admin. Select Employee Center from the Portals tab and select the enhanced chat. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
+    Confirm that the enhanced chat is configured for the Employee Center portal by virtual\_agent\_admin. Select Employee Center from the Portals tab and select the enhanced chat. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Workplace Indoor Mapping
+-   Workplace Core
 
-**Note:** Adding [[workplace-services|workplace services]] to a reservation, creating group reservations, multi-building reservations, making a reservation by using the Browse near a person reservable path option, or recurring reservations are currently not supported by the workplace reservation AI agent.
+**Note:** Adding workplace services to a reservation, creating group reservations, multi-building reservations, making a reservation by using the Browse near a person reservable path option, or recurring reservations are currently not supported by the workplace reservation AI agent.
 
 Role required: admin
 
@@ -70,12 +70,3 @@ Role required: admin
 
 **Parent Topic:**[Making reservations using the Create a reservation agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/using-reservation-agent.md)
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]

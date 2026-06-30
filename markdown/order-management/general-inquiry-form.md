@@ -22,17 +22,12 @@ Use the general inquiry form on the Partner portal to raise queries and get in t
 |Subject|Overview of the inquiry.|
 |What can we help you with|Detailed explanation of the inquiry.|
 
-**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-[[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]]
+[Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/raise-an-inquiry-on-partner-portal.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]]

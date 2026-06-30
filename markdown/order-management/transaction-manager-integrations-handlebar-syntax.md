@@ -39,7 +39,7 @@ Handlebars is a lightweight templating language used to generate dynamic content
 
             This snippet renders "Inactive" if `user.isActive` is false.
 
-    -   Iteration helpers let you loop through lists or [[Modify|modify]] scope.
+    -   Iteration helpers let you loop through lists or modify scope.
         -   **\#each** loops through an array and renders content for each item.
 
             ```
@@ -118,7 +118,7 @@ In some of the examples above, a leading tilde before **\#each** removes whitesp
 
 ## The zeroIfMissing custom helper
 
-The zeroIfMissing helper prevents errors due to missing values and ensures numerical [[fields|fields]] always have a valid default value.
+The zeroIfMissing helper prevents errors due to missing values and ensures numerical fields always have a valid default value.
 
 ```
 Custom Helper 'zeroIfMissing'
@@ -193,7 +193,7 @@ When you use **"LGK\_\_TransactionId\_\_c": "@\{parentTransaction.id\}"**, the `
 
 ## Conditional assignment example
 
-The line **"LGK\_\_ParentTransactionLineId\_\_c": \{\{\#if txn.line.custom.parentLineReferenceId\}\} "@\{line\_\{\{txn.line.custom.parentReferenceId\}\}.id\}" \{\{else\}\} null \{\{/if\}\}** is part of a Handlebars template and conditionally [[cpq-sets|sets]] the value of the field `LGK__ParentTransactionLineId__c`.
+The line **"LGK\_\_ParentTransactionLineId\_\_c": \{\{\#if txn.line.custom.parentLineReferenceId\}\} "@\{line\_\{\{txn.line.custom.parentReferenceId\}\}.id\}" \{\{else\}\} null \{\{/if\}\}** is part of a Handlebars template and conditionally sets the value of the field `LGK__ParentTransactionLineId__c`.
 
 -   `LGK__ParentTransactionLineId__c` is the key where the resulting value will be placed.
 -   **\{\{\#if txn.line.custom.parentLineReferenceId\}\}** checks whether `txn.line.custom.parentLineReferenceId` exists and has a value.
@@ -232,8 +232,3 @@ For more information on Handlebars syntax, see the [Handlebars documentation](ht
 
 **Note:** Handlebars syntax does not support all the features described in this external document.
 
-## Related
-
-- [[Modify|Modify]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

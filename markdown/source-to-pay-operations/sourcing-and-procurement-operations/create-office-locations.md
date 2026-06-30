@@ -14,7 +14,7 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 # Add office locations
 
-Add all the office locations that your suppliers deliver to in your primary data. That way, your employees [[use-shoppinghub-portal|using Shopping Hub]] can select any of these pre-approved office locations for delivery while placing an order for a product.
+Add all the office locations that your suppliers deliver to in your primary data. That way, your employees using Shopping Hub can select any of these pre-approved office locations for delivery while placing an order for a product.
 
 ## About this task
 
@@ -26,7 +26,7 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Primary Data**.
 
 2.  Select **Office Locations**.
 
@@ -72,11 +72,11 @@ Default
 
 </td><td>
 
-Option to make this office location default. If you select this option, this office location appears as the default delivery address for a new user of [[shopping-hub-overview|Shopping Hub]].
+Option to make this office location default. If you select this option, this office location appears as the default delivery address for a new user of Shopping Hub.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal Entity]]
+Legal Entity
 
 </td><td>
 
@@ -89,14 +89,7 @@ Legal entity that is responsible for this office location.
 
 
 -   **[Manage delivery to valid address](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/manage-shipping-address.md)**  
-As an administrator, you can define one or multiple valid countries where a [[supplier|supplier]] can deliver the products.
+As an administrator, you can define one or multiple valid countries where a supplier can deliver the products.
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[use-shoppinghub-portal|Using Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]

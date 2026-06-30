@@ -85,7 +85,7 @@ Action Behavior
 The selected behavior for the guidance action:-   **Single click**: The action is initiated and completed with one click and the card moves to the **History** tab in the side panel. Useful for simple actions such as escalating a case.
 -   **Open in Contextual Side Panel**: The action opens in a detailed view within the side panel. The agent can review the details in the side panel, such as reviewing the content of a knowledge base article.
 -   **Open in Sub Tab**: The action opens in a separate tab.
-You can configure the preview experience for all the action behaviour types and configure the detail view for the actions that open in the sub tab or contextual side panel. For more information, see [[configure-guidance-preview-detail-experiences-ga|Configure guidance detail experience]].
+You can configure the preview experience for all the action behaviour types and configure the detail view for the actions that open in the sub tab or contextual side panel. For more information, see [Configure guidance detail experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-preview-detail-experiences-ga.md).
 
  **Note:** Actions that open in the contextual side panel or in the subtab don’t move to the in-progress state. The action moves to the in-progress or completed state only when the agent clicks the action button in the detail view.
 
@@ -101,7 +101,7 @@ Primary
 
 Denotes the guidance action as a primary action. This field is enabled by default.
 
- A primary action [[migration-form-highlights|highlights]] the action that the agent should take and makes that action available as a button on the recommendation card.
+ A primary action highlights the action that the agent should take and makes that action available as a button on the recommendation card.
 
 **Note:** A guidance can have only one primary guidance action.
 
@@ -170,7 +170,4 @@ The transaction tracking is initiated.
     -   In the **Guidance Outputs** tab, select the Pill-picker icon \(\[Omitted image "icon-pill-picker.png"\] Alt text: Pill-picker icon\) next to the field and select the flow output from the list.\[Omitted image "gd-subflow-outputs.png"\] Alt text: Guidance outputs tab displaying guidance output that is linked to the Automation subflow output.
 7.  Select **Submit**.
 
-## Related
 
-- [[configure-guidance-preview-detail-experiences-ga|Configure guidance detail experience]]
-- [[migration-form-highlights|Highlights]]

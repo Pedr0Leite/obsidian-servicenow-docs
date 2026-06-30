@@ -14,7 +14,7 @@ breadcrumb: [Manage security threats using the Security Analyst Workspace, Secur
 
 # Resolve security threats with the playbook
 
-Use the Playbook to resolve certain types of security threats in a step-by-step manner. For example, you can resolve phishing attacks and threats caused by malicious code activity [[tisc-playbooks-analyst|using playbooks]].
+Use the Playbook to resolve certain types of security threats in a step-by-step manner. For example, you can resolve phishing attacks and threats caused by malicious code activity using playbooks.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.admin or admin
 
 Each group of tasks \(Analysis, Contain, and so forth\) leads you through a series of questions and other activities for resolving the threat.
 
-As you work through each task, enter work notes to help analyze similar attacks in the future. After a threat is identified, you can also use information in the playbook to quarantine the threat, isolate similarly affected assets, and remove [[threat-intelligence-malware|malware]].
+As you work through each task, enter work notes to help analyze similar attacks in the future. After a threat is identified, you can also use information in the playbook to quarantine the threat, isolate similarly affected assets, and remove malware.
 
 Knowledge articles, included in each task, provide tips and other information to help you perform the needed steps.
 
@@ -56,9 +56,9 @@ The base system includes knowledge articles for each of the playbook tasks. You 
 
 6.  Follow the prompts in the task.
 
-    -   Some tasks ask a question, such as "Is Email Part of [[campaign|Campaign]]?" Perform the necessary analysis to answer the question, and select **Yes** or **No**.
+    -   Some tasks ask a question, such as "Is Email Part of Campaign?" Perform the necessary analysis to answer the question, and select **Yes** or **No**.
     -   If you have [defined knowledge articles and associated them with playbook tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-the-playbook.md), the articles appear when you start work on a task.
-    -   Some tasks are transitional. They simply instruct you to perform an action, such as adding [[c_Observables|observables]] to a security incident. After you complete the action, click **Mark as Completed**.
+    -   Some tasks are transitional. They simply instruct you to perform an action, such as adding observables to a security incident. After you complete the action, click **Mark as Completed**.
     As you complete tasks, subsequent tasks are presented to you based on the choices you make. Grayed out groups \(such as **Recover**, **Review**, and so forth\) may be activated by your choices.
 
 7.  Continue working on each task presented to you until you have completed all tasks to resolve the threat and close the security incident.
@@ -75,7 +75,7 @@ The Phishing playbook guides you through the tasks necessary for analyzing and r
 
 ### How security incidents are created from user-reported phishing attacks
 
-During [[setup-sir|Security Incident Response setup]], your system administrator creates a series of [email matching rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md) that can identify emails that contain signs of a phishing attack. When employees receive a suspicious email that contains the common signs of a phishing attack \(as defined by your security policies\), they can send it as an .EML attachment to the phishing email address defined by your organization.
+During Security Incident Response setup, your system administrator creates a series of [email matching rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md) that can identify emails that contain signs of a phishing attack. When employees receive a suspicious email that contains the common signs of a phishing attack \(as defined by your security policies\), they can send it as an .EML attachment to the phishing email address defined by your organization.
 
 When the email is received at the phishing email address, the .EML attachment is parsed and its information is compared to the email matching rules. If a match is found, a security incident containing the following information is created:
 
@@ -99,7 +99,7 @@ As you work through the tasks:
 
 -   Familiarize yourself with the knowledge articles.
 -   Open the email attachment and examine it for signs of common phishing elements.
--   Review [[tisc-threat-lookup|threat lookup]] results.
+-   Review threat lookup results.
 
 ### Containing the security incident
 
@@ -141,7 +141,7 @@ When a security incident is in the **Review** state, and you have successfully i
 
 ## Associate a knowledge article with a playbook task
 
-As you analyze security threats using the [[sir-landing-page|Security Incident Response]] playbook, you can view knowledge articles for each task if defined by your organization. If knowledge articles are not present, you can create them and associate them with playbook tasks.
+As you analyze security threats using the Security Incident Response playbook, you can view knowledge articles for each task if defined by your organization. If knowledge articles are not present, you can create them and associate them with playbook tasks.
 
 ### Before you begin
 
@@ -309,7 +309,7 @@ Short description
 
 </td><td>
 
-A description of the [[security-incident-playbook|Security Incident playbook]] task.
+A description of the Security Incident playbook task.
 
 </td></tr><tr><td>
 
@@ -324,13 +324,4 @@ Enter a description for the selected task.
 
     The task is inserted in the playbook following the current task.
 
-## Related
 
-- [[tisc-playbooks-analyst|Using playbooks]]
-- [[threat-intelligence-malware|Malware]]
-- [[campaign|Campaign]]
-- [[c_Observables|Observables]]
-- [[setup-sir|Security Incident Response setup]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-incident-playbook|Security Incident Playbook]]

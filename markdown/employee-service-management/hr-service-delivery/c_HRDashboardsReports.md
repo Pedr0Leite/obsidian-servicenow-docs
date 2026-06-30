@@ -20,7 +20,7 @@ Depending on your HR job function, you can use any of the following tools to hel
 
 -   Dashboards, including the Overview, Case, and Manager Dashboard. Dashboards are a type of homepage containing reports and other widgets. You click a listed record or a segment in a report to see details.
 -   HR reports, including reports that are available on the dashboards. Several HR reports are predefined for you, and you can create more reports.
--   Survey response charts and detail for the HR case satisfaction survey or other [[c_HRSurveysIst|HR surveys]] that you create.
+-   Survey response charts and detail for the HR case satisfaction survey or other HR surveys that you create.
 
 You can customize any dashboard that you can access to add or remove reports and other widgets. For example, an HR benefits administrator adds a report to the Overview dashboard that displays the status of HR cases in the **Benefits** service.
 
@@ -36,7 +36,7 @@ The HR Dashboards &amp; Reports provide:
 -   Manager Dashboard
 -   HR Case Dashboard
 -   Reports
--   [[t_SatisfactionSurvey|Satisfaction Survey Scorecard]]
+-   Satisfaction Survey Scorecard
 
 ## Migrating HR dashboards to Platform Analytics Workspace
 
@@ -51,7 +51,7 @@ You can use the Manager Dashboard to monitor HR team effectiveness based on metr
 -   **[View HR Case Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseDashboard.md)**  
 The HR Case Dashboard is a central place for HR users to monitor ongoing HR operations. The dashboard contains reports that query the database and display the results.
 -   **[Run Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_RunningHRReports.md)**  
-You can [[t_RunningHRReports|run reports]] to view and monitor the status of HR cases.
+You can run reports to view and monitor the status of HR cases.
 -   **[Evaluate HR survey responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_EvaluateHRSurveyResponses.md)**  
 After you have collected responses to an HR survey, you can review the survey responses and scorecard.
 -   **[Satisfaction Survey Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_SatisfactionSurvey.md)**  
@@ -59,8 +59,3 @@ Apply filters to refine the predefined HR satisfaction surveys results to analys
 
 **Parent Topic:**[Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/case-knowledge-management-landing-page.md)
 
-## Related
-
-- [[c_HRSurveysIst|HR surveys]]
-- [[t_SatisfactionSurvey|Satisfaction Survey Scorecard]]
-- [[t_RunningHRReports|Run Reports]]

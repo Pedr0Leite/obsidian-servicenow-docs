@@ -14,15 +14,15 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Employee Health Screening
 
-Screen users before entering the workplace to ensure compliance with the organization's entry requirements, such as a temperature check and PPE. Require that users agree to comply with [[health-safety-overview|health and safety]] policies before they return to the workplace.
+Screen users before entering the workplace to ensure compliance with the organization's entry requirements, such as a temperature check and PPE. Require that users agree to comply with health and safety policies before they return to the workplace.
 
 The ServiceNow® Employee Health Screening application enables organizations to screen users before entering the workplace to ensure compliance with the organization's entry requirements, such as a temperature check and personal protective equipment \(PPE\). Based on their own criteria, organizations can determine whether it’s safe for the user to enter the workplace. Organizations can use a reporting dashboard  to view trends by sites and record the return of users into  their  facilities.
 
 \[Omitted image "health-screen-overview.png"\] Alt text: Screen employees for fever and PPE before allowing them to enter the workplace
 
--   **Use guided setup to implement [[safe-workplace|Safe Workplace]] suite apps**
+-   **Use guided setup to implement Safe Workplace suite apps**
 
-    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and [[emergency-response-management|Emergency Response Management]] applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
+    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and Emergency Response Management applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 
 ## Integrate with Customer Service Management
@@ -114,7 +114,7 @@ Set properties to specify the global maximum temperature thresholds in Fahrenhei
 -   **[Add message for users during health screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-screening-information-message.md)**  
 Add an optional custom message for people to read during their health screenings with additional information or guidelines.
 -   **[Add an email notification for daily health verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-daily-health-verification-notif.md)**  
-Add an [[employee-readiness-surveys|Employee Readiness Surveys]] email notification to use for sending the survey link.
+Add an Employee Readiness Surveys email notification to use for sending the survey link.
 -   **[Verify your health status and compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/agree-compliance-return.md)**  
 Verify that you understand and will comply with your organization's safety requirements and policies before you can be allowed entry to the location.
 -   **[Conduct a health screen for entry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/screen-returning-employee.md)**  
@@ -128,9 +128,3 @@ Filter the list of entry requests that were completed to evaluate different area
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]

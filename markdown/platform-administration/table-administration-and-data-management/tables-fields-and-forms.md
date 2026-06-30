@@ -26,20 +26,20 @@ ServiceNow provides options for managing your data on the ServiceNow AI Platform
 
 </td><td>
 
-[Export data \[Omitted image "bus-share.svg"\] Alt text: Learn about [[c_ExportData|exporting data]] from the ServiceNow AI Platform.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md)
+[Export data \[Omitted image "bus-share.svg"\] Alt text: Learn about exporting data from the ServiceNow AI Platform.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md)
 
 </td><td>
 
 [Roll back and delete recovery\[Omitted image "bus-rewind.svg"\] Alt text:Learn how to roll back actions and recover deleted records.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/rollback-delete-recovery.md)
 
 </td></tr></tbody>
-</table>## [[c_TableAdministration|Table administration]]
+</table>## Table administration
 
-Handle data and process management for all your ServiceNow applications. Administrative roles on the ServiceNow AI Platform give you access to tables and records to manage incidents, problems, database changes, and more. Build graphical representations of tables and their relationships \(such as parent or child tables\) using Schema maps, and define elements in your database with [[c_DataDictionaryTables|Data Dictionary tables]]. Work with complex relationships between multiple sets of records using Many-to-Many Task Relations.
+Handle data and process management for all your ServiceNow applications. Administrative roles on the ServiceNow AI Platform give you access to tables and records to manage incidents, problems, database changes, and more. Build graphical representations of tables and their relationships \(such as parent or child tables\) using Schema maps, and define elements in your database with Data Dictionary tables. Work with complex relationships between multiple sets of records using Many-to-Many Task Relations.
 
 ## Data Management
 
-Manage the growth of data on your instance with our set of [[c_DataManagement|Data Management]] tools. Keep performance smooth by archiving records, delete older records using [[table-cleaner|table cleaner]], and manage large tables with database rotations.
+Manage the growth of data on your instance with our set of Data Management tools. Keep performance smooth by archiving records, delete older records using table cleaner, and manage large tables with database rotations.
 
 ## Exporting data
 
@@ -49,10 +49,3 @@ Export individual or multiple records from the ServiceNow AI Platform in a varie
 
 Roll back a software upgrade or plugin activation. Recover deleted records and related changes.
 
-## Related
-
-- [[c_ExportData|Exporting data]]
-- [[c_TableAdministration|Table administration]]
-- [[c_DataDictionaryTables|Data dictionary tables]]
-- [[c_DataManagement|Data Management]]
-- [[table-cleaner|Table cleaner]]

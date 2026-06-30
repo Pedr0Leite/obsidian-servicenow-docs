@@ -57,7 +57,7 @@ Resource type
 
 </td><td>
 
-Cloud resource type that you want to import through the resource collector.If [[cloud-configuration-governance|Cloud Configuration Governance]] doesn't contain the required resource type, you can create it as follows:
+Cloud resource type that you want to import through the resource collector.If Cloud Configuration Governance doesn't contain the required resource type, you can create it as follows:
 
  1.  Select the lookup using list icon \(\[Omitted image "lookup-using-list.png"\] Alt text: Lookup using list icon.\).
 2.  Select **New**.
@@ -75,6 +75,3 @@ Resource collector flow that can import the given resource type.
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

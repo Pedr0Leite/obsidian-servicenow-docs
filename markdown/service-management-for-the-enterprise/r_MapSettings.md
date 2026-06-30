@@ -14,8 +14,5 @@ breadcrumb: [Interactive facility maps, Facilities Service Management overview, 
 
 Map settings allow the facilities staff or users to choose the appearance of their floor plan.
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

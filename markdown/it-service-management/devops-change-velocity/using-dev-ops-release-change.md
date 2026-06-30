@@ -14,7 +14,7 @@ breadcrumb: [Accelerate your DevOps change process, DevOps Change Velocity, IT S
 
 # Artifacts and packages
 
-Artifacts and packages enable [[devops-landing-page-new|DevOps Change Velocity]] to track development and testing activities across a wide range of deployment and release [[c_Models|models]]. This feature ensures that pipeline activity stored in the DevOps data model can be retrieved and applied when artifacts are created and released at different times or in different pipelines.
+Artifacts and packages enable DevOps Change Velocity to track development and testing activities across a wide range of deployment and release models. This feature ensures that pipeline activity stored in the DevOps data model can be retrieved and applied when artifacts are created and released at different times or in different pipelines.
 
 **Artifacts**
 
@@ -22,7 +22,7 @@ When an artifact version is registered, related activities like commits, tests, 
 
 When you associate commits with an artifact version \(CI pipeline\), and define an artifact package \(CD pipeline\), all artifact versions generated since the last time the app was deployed to production are included in the list of commits for the change. Consolidation of these items is helpful, especially when there are multiple CI builds before the deployment.
 
-[[apis-for-change-actions-in-devops|DevOps change request attributes]]:
+DevOps change request attributes:
 
 -   **Category** DevOps or the **Categorize DevOps change requests on "DevOps Change" field** check box is selected in DevOps properties. For more information, see [DevOps change request without mandating category as DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-devops-change-any-category.md).
 -   Commits and Work Items related lists
@@ -637,8 +637,3 @@ The DevOps artifact package and its associated artifact versions are used to det
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_Models|Models]]
-- [[apis-for-change-actions-in-devops|DevOps change request attributes]]

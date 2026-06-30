@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0, Agile Development, Strategic Portfolio Manag
 
 # Quick start tests for Agile Development 2.0
 
-Validate that [[agile-landing-page|Agile Development 2.0]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that Agile Development 2.0 still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 **Danger**
 
@@ -170,7 +170,7 @@ Verify create and edit functionality of an epic backlog on the scrum program boa
 
 </td><td>
 
--   Verify that you can [[create-epic-backlog|create an epic backlog]] for scrum programs from the Backlog tab of Agile Board.
+-   Verify that you can create an epic backlog for scrum programs from the Backlog tab of Agile Board.
 -   Verify that you can update an existing epic backlog for scrum programs from the Backlog tab of Agile Board.
 -   The epics listed in the backlog must belong to the selected epic backlog.
 
@@ -184,7 +184,7 @@ Verify a Demand is converted to a scrum story
 
 </td><td>
 
-If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to an Agile 2.0 story using the **Create Story** related link on the [[demand-form|Demand form]]. For more information on how to create an Agile 2.0 story from a demand, see [Create an artifact from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md).
+If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to an Agile 2.0 story using the **Create Story** related link on the Demand form. For more information on how to create an Agile 2.0 story from a demand, see [Create an artifact from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md).
 
 </td><td>
 
@@ -208,9 +208,3 @@ Quebec
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]
-- [[create-epic-backlog|Create an epic backlog]]
-- [[demand-form|Demand form]]

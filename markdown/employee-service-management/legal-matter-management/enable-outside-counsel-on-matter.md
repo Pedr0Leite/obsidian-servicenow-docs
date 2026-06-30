@@ -31,7 +31,7 @@ Role required: sn\_lg\_ops.legal\_config
 
 ## About this task
 
-While working on matters, you may want to [[lmm-eng-outcounsel|engage with outside counsel]] to get additional services. You can submit a request to engage with the outside counsel. To view the **Add outside counsel for Legal Tracker** option in a legal matter, you must enable Outside Counsel on Matter for the Practice Areas.
+While working on matters, you may want to engage with outside counsel to get additional services. You can submit a request to engage with the outside counsel. To view the **Add outside counsel for Legal Tracker** option in a legal matter, you must enable Outside Counsel on Matter for the Practice Areas.
 
 ## Procedure
 
@@ -58,6 +58,3 @@ The **Add Outside Counsel for Legal Tracker** button is available in the **Outsi
 
 **Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md)
 
-## Related
-
-- [[lmm-eng-outcounsel|Engage with outside counsel]]

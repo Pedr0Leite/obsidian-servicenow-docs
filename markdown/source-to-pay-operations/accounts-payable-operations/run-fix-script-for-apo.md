@@ -15,14 +15,14 @@ breadcrumb: [Components installed with Accounts Payable Invoice Processing, Inst
 
 # Run the fix script for Accounts Payable Operations
 
-Run the fix script for the successful installation of [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Run the fix script for the successful installation of Accounts Payable Operations.
 
 ## Before you begin
 
--   Install `[[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]` plugin.
+-   Install `Accounts Payable Invoice Processing` plugin.
 -   Run fix script for Insufficient funds \(header amount variance\) exception to work.
 -   Set the **Application scope** to **Source-to-Pay Common Architecture**.
--   All the [[invoices|invoices]] associated with [[purchase-order-table|purchase order]] must be available in the system for Insufficient funds \(header amount variance\) exception to work.
+-   All the invoices associated with purchase order must be available in the system for Insufficient funds \(header amount variance\) exception to work.
 -   Ensure that invoices have same currency as that of associated with purchase order currency for exception to run successfully.
 -   You can run the fix script in batches by adding the command `gr.setLimit(100000)` after the command line`gr.addEncodedQuery("in_process_invoiced_amountISEMPTY"`. Run the script in batches of 100k or 200k.
 -   Ensure POs are updated with **In process invoice amount**and **Invoice amount** fields.
@@ -118,9 +118,4 @@ function getInvoicedAmount(poSysId) {
 
 9.  Click **Proceed in Background**.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]

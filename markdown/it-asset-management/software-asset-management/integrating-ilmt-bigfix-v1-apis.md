@@ -18,7 +18,7 @@ You can use version 1 of the IBM License Metric Tool \(ILMT\) and BigFix Invento
 
 This connection enables you to import software installation data into your ServiceNow instance so that you can track and optimize full capacity and sub-capacity processor value unit \(PVU\) and resource value unit \(RVU\) licensing for your IBM software products.
 
-**Important:** Version 1 of the ILMT and BigFix Inventory integration APIs have been deprecated by IBM. However, the [[c_SoftwareAssetMgmt|Software Asset Management]] application continues to support integrations that are using this version of the APIs. If you are setting up an ILMT or BigFix Inventory integration for the first time, use version 2 of the APIs instead. For more information on setting up the integration using version 2 of the APIs, see [Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md). For more information on the deprecation of these APIs, see [Deprecated REST APIs](https://www.ibm.com/docs/en/license-metric-tool?topic=api-deprecated-rest-apis).
+**Important:** Version 1 of the ILMT and BigFix Inventory integration APIs have been deprecated by IBM. However, the Software Asset Management application continues to support integrations that are using this version of the APIs. If you are setting up an ILMT or BigFix Inventory integration for the first time, use version 2 of the APIs instead. For more information on setting up the integration using version 2 of the APIs, see [Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md). For more information on the deprecation of these APIs, see [Deprecated REST APIs](https://www.ibm.com/docs/en/license-metric-tool?topic=api-deprecated-rest-apis).
 
 \[Omitted image "ibm-pvu-rvu-licensing.png"\] Alt text: Integration between ILMT and ServiceNow.
 
@@ -48,6 +48,3 @@ When you import data from the IBM License Metric Tool \(ILMT\) or BigFix Invento
 
 **Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-ilmt-bigfix-inventory-integration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

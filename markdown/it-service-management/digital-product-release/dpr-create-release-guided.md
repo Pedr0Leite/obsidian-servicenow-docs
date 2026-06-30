@@ -31,7 +31,7 @@ Releases can follow a timeline-oriented and stage-oriented release process. For 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -70,7 +70,7 @@ Releases can follow a timeline-oriented and stage-oriented release process. For 
 
     The templates listed are based on the **Validates product or service version** field. If it’s selected, the templates with the validate version setting on are only available to choose.
 
-    **Note:** When product-level release [[settings-mobile|settings]] are configured, only the templates defined in the release settings are available for selection. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+    **Note:** When product-level release settings are configured, only the templates defined in the release settings are available for selection. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
     A release structure is generated based on the selected release template. For more information about a release template, see [Create a release template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release-template.md).
 
@@ -121,7 +121,3 @@ Releases can follow a timeline-oriented and stage-oriented release process. For 
 
 **Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-using-digital-product-release.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[settings-mobile|Settings]]

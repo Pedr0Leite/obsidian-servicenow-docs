@@ -16,7 +16,7 @@ breadcrumb: [Overview of RSS feeds, Integrate, Regulatory Change Management, Gov
 
 Regulatory taxonomy simplifies identifying necessary changes in a customer’s regulatory library by enabling algorithms to match incoming regulatory intelligence to existing content using taxonomy terms.
 
-[[reg-change-mgmt-landing-page|Regulatory change management]] products can integrate intelligence data from multiple vendors. However, these vendors differ in:
+Regulatory change management products can integrate intelligence data from multiple vendors. However, these vendors differ in:
 
 1.  Delivery mode: File-based feeds vs. stream-based feeds.
 2.  Data format: XML, JSON, CSV, and so on
@@ -40,6 +40,3 @@ Users of Regulatory Change Management often use their own terms for business rea
 
 **Parent Topic:**[RSS feeds overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rss-feeds.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

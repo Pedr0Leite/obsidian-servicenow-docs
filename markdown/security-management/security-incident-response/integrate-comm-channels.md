@@ -30,7 +30,7 @@ Verify you’ve installed the following Integration Hub plugins on your ServiceN
 -   Notify UI Components for Configurable Workspaces
 -   For integrating Microsoft Teams as a communication channel:
     -   Microsoft Teams Communications spoke plugin \(sn\_msteams\_com\_spk\).
-    -   Azure Active Directory User [[mapping-logrhythm|Mapping]] plugin \(sn\_now\_azure\).
+    -   Azure Active Directory User Mapping plugin \(sn\_now\_azure\).
 -   For integrating Zoom as a communication channel:
     -   Zoom Spoke \(sn\_zoom\_spoke\)
     -   Notify Zoom \(sn\_notify\_zoom\)
@@ -55,6 +55,3 @@ Perform the following configuration for the communication channels you want use:
 
 **Parent Topic:**[Security Incident Response conference call integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-conf-call-capability.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

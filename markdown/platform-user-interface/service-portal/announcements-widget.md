@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Users can view all active announcements. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-This widget [[lists-configurable-workspace|lists]] the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md).
+This widget lists the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **Service Portal** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md).
 
 \[Omitted image "announcement-widget.png"\] Alt text:
 
@@ -110,7 +110,3 @@ Control who can and cannot view a widget instance with [user criteria](https://r
 
 [Clone a widget]()
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[c_ServicePortal|Service Portal]]

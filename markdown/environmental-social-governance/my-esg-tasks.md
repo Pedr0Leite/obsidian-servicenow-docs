@@ -40,8 +40,5 @@ A typical My tasks page for a logged-in user is shown in the following example.
 
 If you have the Operational Sustainability Management administrator role, you can customize the Operational Sustainability Workspace by updating the Tasks page configurations module.
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
-## Related
-
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]

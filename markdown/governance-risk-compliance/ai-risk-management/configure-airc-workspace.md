@@ -14,7 +14,7 @@ breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Configure AI Risk and Compliance Workspace
 
-Configure the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]] using UI Builder.
+Configure the AI Risk and Compliance Workspace using UI Builder.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ ServiceNow offers prebuilt Configurable Workspace experiences to target specific
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**.
 
-2.  To edit the configuration of the workspace, set the **Application scope** to **[[ai-risk-and-compliance|AI Risk and Compliance]] Management**.
+2.  To edit the configuration of the workspace, set the **Application scope** to **AI Risk and Compliance Management**.
 
 3.  Select **Page collections**.
 
@@ -53,7 +53,3 @@ Your changes reflect in the AI Risk and Compliance Workspace under the correspon
 
 Receive additional, detailed documentation on configuring and using UI Builder.
 
-## Related
-
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

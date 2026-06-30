@@ -23,7 +23,7 @@ Name your clusters to help identify and organize them.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solutions**.
 
 2.  Select a solution.
 
@@ -35,6 +35,4 @@ Name your clusters to help identify and organize them.
 
 5.  Select **Update**.
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]

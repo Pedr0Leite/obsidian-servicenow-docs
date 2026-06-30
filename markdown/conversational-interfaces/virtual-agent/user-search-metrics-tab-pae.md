@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Using user search metrics with Virtual Agent
 
-By using user search metrics with the [[virtual-agent-landing-page|Virtual Agent]] application, you can see your users' queries and the results from their searches. With these metrics, you can identify the areas where you can improve Virtual Agent to offer more meaningful search results.
+By using user search metrics with the Virtual Agent application, you can see your users' queries and the results from their searches. With these metrics, you can identify the areas where you can improve Virtual Agent to offer more meaningful search results.
 
 Use the **User Search Metrics** tab in the Conversational Analytics dashboard to view key indicators about the queries that users searched on and the corresponding search results. By using this tab, you can get the answers to the following questions:
 
@@ -56,6 +56,3 @@ The following table describes user search indicators visualized on the **User Se
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

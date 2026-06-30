@@ -14,26 +14,21 @@ breadcrumb: [Migration Utility, Configuring Problem Management, Problem Manageme
 
 # Activities to clean up after migration
 
-After you complete your main migration, you must do some manual clean-up to make your instance similar to the base version of [[c_ProblemManagement|problem management]].
+After you complete your main migration, you must do some manual clean-up to make your instance similar to the base version of problem management.
 
 Manual clean-up involves the following activities:
 
--   Reactivate problem state [[c_Models|models]]
+-   Reactivate problem state models
 -   Remove old module menus
 -   Remove old filters
 -   Remove old UI actions
 -   Remove old business rules
 -   Remove old UI policies
 -   Update the dashboard overview
--   Reset [[problem-form|problem form]] layouts
+-   Reset problem form layouts
 
     **Note:** You can skip this action if you have not modified your form.
 
 -   Search for problems from incidents
 -   Remove old process fromatters
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_Models|Models]]
-- [[problem-form|Problem form]]

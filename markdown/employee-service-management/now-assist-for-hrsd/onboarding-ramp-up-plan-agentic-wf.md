@@ -35,7 +35,7 @@ This workflow employs AI agents to perform the following functions:
 
 -   Collect data on the employee, their onboarding journey, and the assigned team.
 -   Analyze required role-specific skills from the job description and interview notes, and compare them with the employee’s existing skills from their resume.
--   Recommend targeted [[exploring-learning-exp|learning]] courses to address identified skill gaps.
+-   Recommend targeted learning courses to address identified skill gaps.
 -   Generate a personalized ramp-up plan for the new hire.
 -   Provide an interactive review process, enabling managers to modify the plan as needed.
 -   Deliver personalized guidance through an assistant-like interface.
@@ -96,16 +96,9 @@ This AI agent allows managers to review the AI-generated personalized onboarding
 
 To achieve optimum output of the Generate Onboarding ramp-up plan agent, the following plugins are essential. Installing the recommended plugins helps maximize efficiency and overall output quality.
 
--   Now Assist for [[hr-service-delivery|HR Service Delivery]] \(sn\_hr\_gen\_ai\)
--   [[skills-intelligence|Skills Foundation]] \(sn\_skills\_int\)
+-   Now Assist for HR Service Delivery \(sn\_hr\_gen\_ai\)
+-   Skills Foundation \(sn\_skills\_int\)
 -   Learning \(sn\_lep\)
--   [[hiring-core|Hiring Core]] \(sn\_ta\_hiring\_core\)
--   [[jny-dsgnr-landing-page-1|Journey Designer]] \(sn\_jny\)
+-   Hiring Core \(sn\_ta\_hiring\_core\)
+-   Journey Designer \(sn\_jny\)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[skills-intelligence|Skills Foundation]]
-- [[hiring-core|Hiring Core]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

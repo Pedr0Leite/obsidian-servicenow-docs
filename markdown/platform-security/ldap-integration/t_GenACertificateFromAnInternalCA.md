@@ -14,7 +14,7 @@ breadcrumb: [Configure Microsoft AD for secure LDAPS communication, LDAP integra
 
 # Generate a certificate from an internal certificate authority
 
-When you configure Microsoft Active Directory for SSL access, you must generate an internal certificate and [[c_requestAPI|request]] the external certificate.
+When you configure Microsoft Active Directory for SSL access, you must generate an internal certificate and request the external certificate.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ These steps apply to Microsoft CA services. If you have a different internal CA 
     |Field|Entry|
     |-----|-----|
     |Name|The fully qualified domain name \(FQDN\) of the DC that is requesting the certificate.|
-    |E-Mail|The [[email|email]] address of the person responsible for the certificate.|
+    |E-Mail|The email address of the person responsible for the certificate.|
     |Company|Your company name.|
     |Key Options settings|
     |Create new key set|Select it.|
@@ -72,11 +72,5 @@ These steps apply to Microsoft CA services. If you have a different internal CA 
 
 ## What to do next
 
-You need to request a third party certificate. [[c_Certificates|Certificates]] from external CAs can be purchased for as little as $30 per year. For detailed procedures on requesting a certificate from an external CA, see Microsoft article [321051](http://support.microsoft.com/kb/321051). After it is received, installed, and tested, follow the [[export|export]] procedure.
+You need to request a third party certificate. Certificates from external CAs can be purchased for as little as $30 per year. For detailed procedures on requesting a certificate from an external CA, see Microsoft article [321051](http://support.microsoft.com/kb/321051). After it is received, installed, and tested, follow the export procedure.
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[email|Email]]
-- [[c_Certificates|Certificates]]
-- [[export|Export]]

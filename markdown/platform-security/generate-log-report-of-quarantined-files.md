@@ -12,7 +12,7 @@ breadcrumb: [Reviewing quarantined files, Antivirus Scanning]
 
 # Review antivirus activity
 
-Review the [[antivirus|Antivirus]] Activities log that tracks all activities that occur on potentially-infected files from the point that they are discovered and placed into quarantine.
+Review the Antivirus Activities log that tracks all activities that occur on potentially-infected files from the point that they are discovered and placed into quarantine.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ This log functions as a report that captures antivirus activity, such as discove
 
 ## What to do next
 
-Determine which records you want to delete, restore, download, or keep in the log. See [[resolve-infected-file|Review quarantined files]]
+Determine which records you want to delete, restore, download, or keep in the log. See [Review quarantined files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/resolve-infected-file.md)
 
-## Related
-
-- [[resolve-infected-file|Reviewing quarantined files]]
-- [[antivirus|Antivirus]]

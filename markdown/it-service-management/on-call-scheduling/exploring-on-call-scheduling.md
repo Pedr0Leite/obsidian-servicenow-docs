@@ -14,7 +14,7 @@ breadcrumb: [On-Call Scheduling, IT Service Management]
 
 # Exploring On-Call Scheduling
 
-The [[c_OnCallScheduling|On-Call Scheduling]] application helps you ensure that dedicated support team members are available to resolve issues as they arise. Learn more about On-Call Scheduling and the benefits it can provide for the different user roles in your organization.
+The On-Call Scheduling application helps you ensure that dedicated support team members are available to resolve issues as they arise. Learn more about On-Call Scheduling and the benefits it can provide for the different user roles in your organization.
 
 ## On-Call Scheduling overview
 
@@ -71,7 +71,7 @@ itil, rota\_manager
 
 </td></tr><tr><td>
 
-Create your own escalation policies and path. On-Call Scheduling allows you to [[create-trigger-rule-oncall|create an escalation trigger rule]] using the templates available, based on your requirement.
+Create your own escalation policies and path. On-Call Scheduling allows you to create an escalation trigger rule using the templates available, based on your requirement.
 
 </td><td>
 
@@ -141,12 +141,7 @@ The key features and capabilities of On-Call Scheduling can be used by the vario
 -   **[On-Call Scheduling new schedule engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/oncall-schedule-engine.md)**  
 Introducing the new On-call schedule engine with enhanced capabilities and user experience.
 -   **[On-Call Scheduling new trigger engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/on-call-new-trigger-engine.md)**  
-[[on-call-new-trigger-engine|On-Call Scheduling new trigger engine]] enables the on-call subflows to get launched via the flow runner queue instead of the event queue. Launching via the flow runner queue improves the on-call performance and helps to alert the on-call members faster than launching via event queue.
+On-Call Scheduling new trigger engine enables the on-call subflows to get launched via the flow runner queue instead of the event queue. Launching via the flow runner queue improves the on-call performance and helps to alert the on-call members faster than launching via event queue.
 
 **Parent Topic:**[On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[create-trigger-rule-oncall|Create an escalation trigger rule]]
-- [[on-call-new-trigger-engine|On-Call Scheduling new trigger engine]]

@@ -151,7 +151,7 @@ S3 bucket name for storing outbound media.
 </td></tr></tbody>
 </table>    **Note:** The provider properties' values can be provided at a provider channel. However, to override any property to make it specific to a provider channel identity record, then you must add the corresponding provider property at the provider channel identity.
 
-5.  Add the Identity Access [[management|Management]] \(IAM\) user credentials.
+5.  Add the Identity Access Management \(IAM\) user credentials.
 
     1.  In the navigation filter, enter `Connection & Credential Aliases` and add the **AWS credentials** for both **AWS\_EUM.** and **Amazon S3**.
 
@@ -223,6 +223,3 @@ AWS IAM Auth.
 
 **Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-ci-sms-with-aws.md)
 
-## Related
-
-- [[management|Management]]

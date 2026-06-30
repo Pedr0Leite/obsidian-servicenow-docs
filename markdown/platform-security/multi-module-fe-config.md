@@ -12,17 +12,17 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Configure multi-module encrypted field configurations
 
-Create an encrypted field [[sc-configuration|configuration]] that uses more than one [[encryption-landing|encryption]] module.
+Create an encrypted field configuration that uses more than one encryption module.
 
 ## Before you begin
 
 Role required: security\_admin, sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
-You must have a configured [[field-encryption|field encryption]] module with a ServiceNow or customer-supplied key. If you have not yet configured a module, see [[configure-fe-modules|Configure Field Encryption modules]].
+You must have a configured field encryption module with a ServiceNow or customer-supplied key. If you have not yet configured a module, see [Configure Field Encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-fe-modules.md).
 
 ## About this task
 
-Use multiple encryption modules for a single encrypted field configuration to encrypt different rows within a column \(or different attachments on the same table\) using different module keys. For example, [[users|users]] with different roles can encrypt data on the same table, but still be prevented from decrypting each other's encrypted data.
+Use multiple encryption modules for a single encrypted field configuration to encrypt different rows within a column \(or different attachments on the same table\) using different module keys. For example, users with different roles can encrypt data on the same table, but still be prevented from decrypting each other's encrypted data.
 
 **Warning:**
 
@@ -42,7 +42,7 @@ Note these limitations on multi-module encrypted field configuration before proc
 
 3.  Confirm that each of your modules has a module access policy.
 
-    If you have not done so, see [[maps-for-fe|Configure module access policies for Field Encryption]].
+    If you have not done so, see [Configure module access policies for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/maps-for-fe.md).
 
 4.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations**.
 
@@ -64,7 +64,7 @@ After the record is saved, and the **Active** field is enabled, new data created
 ## Encrypting the Short Description column on the Incident table using a multi-module encrypted field configuration
 
 1.  Create two field encryption modules, referred to A and B in this example.
-2.  For each field encryption module, [[create-module-access-policy|create a module access policy]] \(MAPs A and B\).
+2.  For each field encryption module, create a module access policy \(MAPs A and B\).
     1.  For field encryption module A, give users with an HR role access to Module Access Policy A.
     2.  For field encryption module B, give users with a Sales role access to Module Access Policy B.
 3.  Create an encrypted field configuration record specifying the Short Description column on the Incident table, and make sure that you select **Multiple Modules** in the **Method** field.
@@ -80,15 +80,5 @@ After the record is saved, and the **Active** field is enabled, new data created
 
 \[Omitted image "MultipleModules.png"\] Alt text: Shows a diagram of multiple modules.
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[configure-fe-modules|Configure Field Encryption modules]]
-- [[maps-for-fe|Configure module access policies for Field Encryption]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[users|Users]]
-- [[create-module-access-policy|Create a module access policy]]

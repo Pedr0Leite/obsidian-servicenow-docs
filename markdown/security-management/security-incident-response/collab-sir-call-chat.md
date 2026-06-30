@@ -14,7 +14,7 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 # Collaborate using conference call or chat in Security Incident Response
 
-You can collaborate with analysts and affected users to resolve or discuss about an incident in [[sir-landing-page|Security Incident Response]] application.
+You can collaborate with analysts and affected users to resolve or discuss about an incident in Security Incident Response application.
 
 -   **[Start a conference call in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/initiate-conf-call-sir.md)**  
 Using conference call, security analysts can collaborate with other analysts and affected users in real-time. These calls facilitate the exchange of information to help resolve incidents.
@@ -56,6 +56,3 @@ Using Sidebar, security analysts can collaborate with others in real-time based 
 
 [Start a Sidebar chat in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/initiate-chat-sidebar-sir.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

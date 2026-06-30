@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Ensure dashboards creation/deletion requires access check \[New in Security Center 1.3 and updated in 2.0\]
 
-The **glide.processors.check\_access\_before\_process** system property enables [[sc-access-control|access control]] list \(ACL\) enforcement for creating or deleting dashboards when a user is logged in.
+The **glide.processors.check\_access\_before\_process** system property enables access control list \(ACL\) enforcement for creating or deleting dashboards when a user is logged in.
 
-Set the **glide.processors.check\_access\_before\_process** system property to **true**. If the property does not appear in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the fallback value is **true**.
+Set the **glide.processors.check\_access\_before\_process** system property to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, the fallback value is **true**.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -92,7 +92,7 @@ Security risk
 
 -   Severity score: 6.3
 -   CVSS score: Medium
--   Security risk details: Disabling this property by setting it to false, enables an ACL bypass on dashboards. This allows all authenticated [[users|users]] with low privileges to delete and add dashboards.
+-   Security risk details: Disabling this property by setting it to false, enables an ACL bypass on dashboards. This allows all authenticated users with low privileges to delete and add dashboards.
 
 </td></tr><tr><td>
 
@@ -113,9 +113,3 @@ This property controls the ability to create new sys\_dashboards and delete exis
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

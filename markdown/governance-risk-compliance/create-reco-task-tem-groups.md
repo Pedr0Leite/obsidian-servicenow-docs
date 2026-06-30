@@ -34,7 +34,7 @@ When applying a template group to a plan, use the **Add groups** toolbar control
 
 \[Omitted image "select-task-templates-groups-list.png"\] Alt text: Select task template groups dialog listing available groups such as TG1 with their description and active status.
 
-**Note:** Verify that Task templates and Task template groups are set up in the application. For more information, see [[create-task-temp-temp-groups|Configure Task templates and Task template groups]].
+**Note:** Verify that Task templates and Task template groups are set up in the application. For more information, see [Configure Task templates and Task template groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-task-temp-temp-groups.md).
 
 ## Procedure
 
@@ -61,9 +61,5 @@ When applying a template group to a plan, use the **Add groups** toolbar control
         The template is now available for reuse in other plans.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[create-task-temp-temp-groups|Configure Task templates and Task template groups]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]

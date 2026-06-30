@@ -14,7 +14,7 @@ breadcrumb: [DEX remedial actions, Configure, Digital End-User Experience, IT Se
 
 # DEX system tables for remedial actions
 
-Definitions for any [[remedial-action|remedial action]] are predetermined based on the rules and criteria that store configuration [[settings-mobile|settings]] for remedial actions. Each execution of the remedial action is maintained in the DEX tables to track the progress of remedial action executions.
+Definitions for any remedial action are predetermined based on the rules and criteria that store configuration settings for remedial actions. Each execution of the remedial action is maintained in the DEX tables to track the progress of remedial action executions.
 
 ## Remedial action configuration
 
@@ -53,7 +53,3 @@ Maps the relationship between tracking and actual execution.
 
 **Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-remedial-actions.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[settings-mobile|Settings]]

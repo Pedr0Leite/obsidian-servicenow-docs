@@ -14,9 +14,9 @@ breadcrumb: [Product Catalog, Asset Management, IT Service Management]
 
 # Components installed with Product Catalog
 
-The following components are installed with the [[c_ProductCatalog|Product Catalog]] plugin.
+The following components are installed with the Product Catalog plugin.
 
-Demo data is available with the product catalog. The demo data provides various [[c_Models|models]], [[c_ModelCategories|model categories]], [[c_ManagingProductCatalogItems|product catalog items]], [[c_ManageVendorCatalogItems|vendor catalog items]], and vendors.
+Demo data is available with the product catalog. The demo data provides various models, model categories, product catalog items, vendor catalog items, and vendors.
 
 -   **[Tables installed with Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_TablesProductCatalog.md)**  
 Product Catalog plugin adds the following tables.
@@ -44,10 +44,3 @@ Product Catalog plugin adds the following business rules.
 
 [Domain separation and Product Catalog]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[c_ModelCategories|Model categories]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

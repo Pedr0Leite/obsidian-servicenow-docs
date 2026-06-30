@@ -27,7 +27,7 @@ Role required: admin or sn\_appclient.app\_client\_user
 
 ## Procedure
 
-1.  Navigate to the **Updates** tab of [[application-manager|Application Manager]] in one of the following ways.
+1.  Navigate to the **Updates** tab of Application Manager in one of the following ways.
 
     -   Navigate to **Admin** &gt; **Application Manager** &gt; **Updates**.
     -   Navigate to **All** &gt; **Admin** &gt; **Application Manager** &gt; **Updates**.
@@ -47,9 +47,9 @@ Role required: admin or sn\_appclient.app\_client\_user
 
 6.  If the application or plugin has dependencies, verify that all necessary dependencies can be updated or installed.
 
-    If any dependencies are categorized as "Needs to be procured from store" or "Installation blocked," procure the necessary dependencies and sync the Application Manager with the [[servicenow-store|ServiceNow Store]] before continuing. For more information about unavailable dependencies that block updates, see [Updating applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/updating-apps-app-manager.md).
+    If any dependencies are categorized as "Needs to be procured from store" or "Installation blocked," procure the necessary dependencies and sync the Application Manager with the ServiceNow Store before continuing. For more information about unavailable dependencies that block updates, see [Updating applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/updating-apps-app-manager.md).
 
-7.  Install the update now or [[schedule-installation|schedule installation]] for a later time.
+7.  Install the update now or schedule installation for a later time.
 
 <table id="choicetable_a33_l3m_yfc"><thead><tr><th align="left" id="d95854e223">
 
@@ -88,8 +88,3 @@ If you choose to install the update now, the application or plugin and its depen
 
 **Parent Topic:**[Updating applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/updating-apps-app-manager.md)
 
-## Related
-
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]
-- [[schedule-installation|Schedule installation]]

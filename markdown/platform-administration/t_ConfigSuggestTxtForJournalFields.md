@@ -12,7 +12,7 @@ breadcrumb: [Suggestion field type, Reference, Field administration, Forms, fiel
 
 # Configure suggested text for journal fields
 
-You can configure the suggested text options for [[r_JournalFields|journal fields]], such as work notes or the activity stream. Suggested text options for journal fields are unavailable in Core UI.
+You can configure the suggested text options for journal fields, such as work notes or the activity stream. Suggested text options for journal fields are unavailable in Core UI.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: personalize\_responses
 
 5.  Select **Save**.
 
-## Related
 
-- [[r_JournalFields|Journal fields]]

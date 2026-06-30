@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with Financial Management
 
-[[c_CustomerServiceManagement|Customer Service Management]] and Field Service Management provide an integration with the ServiceNow® Financial Management application as well as dashboards and reports.
+Customer Service Management and Field Service Management provide an integration with the ServiceNow® Financial Management application as well as dashboards and reports.
 
 The Financial Management application enables you to allocate, track, and report on expenses in your organization. When the Financial Management application allocates an expense, it breaks down the expense into detailed amounts of money called allocations. These allocations can be associated with specific segments and accounts for a specific cost model. The integration with Financial Management provides cost allocations for Customer Service Management and Field Service Management.
 
@@ -31,7 +31,7 @@ The Performance Analytics - Content Pack - Financial Management for Customer Ser
 
 ## Cost models
 
-A cost model is a set of [[gamification-components-rules|rules]], methods, and metrics that determines the allocation of expenses. Select cost models on the Data Definitions tab of the Financial Management workbench.
+A cost model is a set of rules, methods, and metrics that determines the allocation of expenses. Select cost models on the Data Definitions tab of the Financial Management workbench.
 
 For Customer Service Management, the integration with Financial Management provides these cost models:
 
@@ -107,7 +107,3 @@ The Performance Analytics - Content Pack - Financial Management for Customer Ser
 
 Navigate to **Performance Analytics** &gt; **Dashboards** and select the desired dashboard from the Dashboard menu.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

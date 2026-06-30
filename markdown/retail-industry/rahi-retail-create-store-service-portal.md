@@ -12,7 +12,7 @@ breadcrumb: [Manage store inquiries, Retail]
 
 # Create a store inquiry case from the Retail portal
 
-Create a [[rahi-retail-operations-overview|retail]] [[rahi-retail-retail-store-services|store inquiry case]] from the [[rahi-retail-portal|Retail portal]] to report issues on behalf of the store that you're associated with. By using the Retail portal to create a case, you can more efficiently get updated information about your case in real time.
+Create a retail store inquiry case from the Retail portal to report issues on behalf of the store that you're associated with. By using the Retail portal to create a case, you can more efficiently get updated information about your case in real time.
 
 ## Before you begin
 
@@ -44,11 +44,5 @@ Store Inquiry Case \(sn\_rtl\_stre\_servcs\_inquiry\_case\) is extended from the
 3.  Select **Submit**.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-portal|Retail portal]]

@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Select **Relationship Graph**, and then **Relationship Graph Configurations**.
 
@@ -44,6 +44,3 @@ Role required: sn\_si.admin
 
 **Parent Topic:**[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-relationship-graph.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

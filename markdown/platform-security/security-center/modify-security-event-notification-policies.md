@@ -14,7 +14,7 @@ breadcrumb: [Security Event Notifications, Security monitoring console, Security
 
 # Modify security event notification policies
 
-Learn how to modify the settings of your security event notification [[ca-policies|policies]].
+Learn how to modify the settings of your security event notification policies.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Security Event Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-policies.md)
 
-## Related
-
-- [[ca-policies|Policies]]

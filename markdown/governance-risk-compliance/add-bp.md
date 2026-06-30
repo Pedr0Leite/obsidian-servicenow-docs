@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-Beginning with [[grc-opres-landing-page|Operational Resilience]], Release 21.0.x, records in the Services, Business services, Offerings, Business processes, and Application services modules feature a vertical layout.
+Beginning with Operational Resilience, Release 21.0.x, records in the Services, Business services, Offerings, Business processes, and Application services modules feature a vertical layout.
 
 ## Procedure
 
@@ -32,12 +32,8 @@ Beginning with [[grc-opres-landing-page|Operational Resilience]], Release 21.0.x
     -   Business Services
     -   Service Offerings
     -   Business Process
-2.  To add a business process to the Operational Resilience application, select **New** in the Business processes [[list-view-uib-ws|list view]] and fill in the details regarding the business process on the [[create-new-business-process-form|Create New Business Process form]].
+2.  To add a business process to the Operational Resilience application, select **New** in the Business processes list view and fill in the details regarding the business process on the [Create New Business Process form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-business-process-form.md).
 
 3.  Select **Save**.
 
-## Related
 
-- [[create-new-business-process-form|Create New Business Process form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

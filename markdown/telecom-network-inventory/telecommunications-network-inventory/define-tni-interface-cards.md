@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the card details
 
-Review, update, or create a network asset instance for a card that you use in your telecommunications equipment. You define these attributes so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or create a network asset instance for a card that you use in your telecommunications equipment. You define these attributes so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The equipment ports can be physical or logical \(virtual\). The network interfac
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Cards**.
 
@@ -34,9 +34,9 @@ The equipment ports can be physical or logical \(virtual\). The network interfac
 
 4.  On the **Details** tab, in the Card section, fill in the general information for the card.
 
-    [Card form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-interface-card-form.md) describes fields that are unique to the [[tni-interface-card-form|Card form]].
+    [Card form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-interface-card-form.md) describes fields that are unique to the Card form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the card.
 
@@ -93,7 +93,7 @@ Version of the firmware that is used in this network asset.
 
     If you click **Save** without clicking **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -136,10 +136,3 @@ Version of the firmware that is used in this network asset.
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-interface-card-form|Card form]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]

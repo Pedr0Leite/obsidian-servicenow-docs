@@ -14,7 +14,7 @@ breadcrumb: [Software models and Software entitlements, Exploring Software Asset
 
 # Custom publisher part numbers \(PPN\)
 
-Propagate changes to entitlements and [[c_CreatingSoftwareModels|software models]] by replacing your custom PPNs and custom discovery maps \(DMAPs\) with the [[c_SAMContentService|Software Asset Management Content Service]] PPNs and DMAPs.
+Propagate changes to entitlements and software models by replacing your custom PPNs and custom discovery maps \(DMAPs\) with the Software Asset Management Content Service PPNs and DMAPs.
 
 **Note:** Custom PPNs that use a part number that is not a valid SKU from the publisher can't be replaced.
 
@@ -29,7 +29,7 @@ You can accept or reject the suggestions. If you accept the suggestion, the cust
 The propagation of the content service PPN results in the following changes:
 
 -   All impacted entitlements are updated with the new PPN.
--   [[downgrade-rights|Downgrade rights]] associated with the content service DMAP gets copied to the entitlement.
+-   Downgrade rights associated with the content service DMAP gets copied to the entitlement.
 -   Downgrade rights that are copied overwrite any existing entries made by you.
 -   Values for license type and license metric get modified based on the PPN \(where needed\).
 -   Entitlement remains in the **In use**state.
@@ -45,8 +45,3 @@ The propagation of the Content Service DMAP results in the following changes:
 
 **Parent Topic:**[Software models and Software entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-models-and-entitlements.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[downgrade-rights|Downgrade Rights]]

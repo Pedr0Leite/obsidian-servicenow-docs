@@ -12,7 +12,7 @@ breadcrumb: [Avoid log tampering, System logs, Logs, Platform Security]
 
 # Configuring the log protection plugin
 
-Configure the protection rules for each table and operation to complete the [[sc-configuration|configuration]] of the log protection plugin.
+Configure the protection rules for each table and operation to complete the configuration of the log protection plugin.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: security\_admin
 
     **Note:** You can disable this plugin only by changing the com.glide.security.protected\_table.enabled property in the sys\_properties table.
 
-## Related
 
-- [[sc-configuration|Configuration]]

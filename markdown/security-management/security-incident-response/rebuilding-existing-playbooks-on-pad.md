@@ -14,9 +14,9 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 # Rebuilding existing playbooks in Workflow Studio
 
-You can’t convert existing flows directly into [[tisc-playbooks-admin|playbooks]] in Workflow Studio. Each flow designer step that creates a response task to guide the analyst must be broken down into separate actions or subflows.
+You can’t convert existing flows directly into playbooks in Workflow Studio. Each flow designer step that creates a response task to guide the analyst must be broken down into separate actions or subflows.
 
-You are not allowed to convert existing flows directly into playbooks in Workflow Studio. Each flow designer step that creates a response task to guide the analyst must be broken down into separate actions or subflows. By using these granular subflows or actions, you must create [[build-activities|activity definitions]]. After you build these activity definitions, they get added as activities within stage in the process definition. You can reuse activity definitions across multiple playbooks.
+You are not allowed to convert existing flows directly into playbooks in Workflow Studio. Each flow designer step that creates a response task to guide the analyst must be broken down into separate actions or subflows. By using these granular subflows or actions, you must create activity definitions. After you build these activity definitions, they get added as activities within stage in the process definition. You can reuse activity definitions across multiple playbooks.
 
 You can customize each activity to render the required actions within them and how the card should look while building the activity definition. The activity can show email clients, tables, actions, KB articles, URLs, and so on. You can define how the activity definition and underlying action or subflows are created.
 
@@ -48,7 +48,3 @@ For more information, refer to the following sections.
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[build-activities|Activity Definitions]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Domain separation and Advanced Work Assignment
 
-Domain separation is supported in the [[awa-application-landing-page|Advanced Work Assignment]] feature. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Advanced Work Assignment feature. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -27,7 +27,7 @@ Sample use case: An admin must be able to make comments required when a record c
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-Advanced Work Assignment enables the automatic assignment of [[awa-work-items|work items]] to qualified agents using [[awa-queues|work item queues]] defined for specific [[awa-service-channels|service channels]]. Managed Service Providers can create domain-specific queues by specifying a particular domain as a queue routing condition.
+Advanced Work Assignment enables the automatic assignment of work items to qualified agents using work item queues defined for specific service channels. Managed Service Providers can create domain-specific queues by specifying a particular domain as a queue routing condition.
 
 ## How domain separation works in Advanced Work Assignment
 
@@ -53,9 +53,3 @@ When an instance has a domain hierarchy where users and groups belong to differe
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-queues|Work item queues]]
-- [[awa-service-channels|Service channels]]

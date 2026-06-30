@@ -19,9 +19,9 @@ Get a quick overview of the skill inputs and triggers for Now Assist for IT Serv
 
 ## Now Assist for IT Service Management \(ITSM\) overview
 
-Depending on the selected skill, you can configure the inputs or triggers. These [[settings-mobile|settings]] determine how and when a skill is used. An input identifies the data that is used for a skill, such as the table and fields that are used to generate an incident summary. A trigger initiates an action, such as when the system generates a chat summary.
+Depending on the selected skill, you can configure the inputs or triggers. These settings determine how and when a skill is used. An input identifies the data that is used for a skill, such as the table and fields that are used to generate an incident summary. A trigger initiates an action, such as when the system generates a chat summary.
 
-You can use Now LLM Service, Now LLM Long Term Stable [[c_Models|models]] \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
+You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
 
 ## Incident sentiment analysis skill
 
@@ -134,7 +134,7 @@ Filter conditions to generate the suggested steps.Similar incidents closed withi
 </td></tr></tbody>
 </table>## Major Incident email content recommendation skill
 
-**Note:** When you [[create-a-major-incident|create a Major Incident]] email content recommendation using the default templates, you can use the corresponding Gen AI variables to compose the content.
+**Note:** When you create a Major Incident email content recommendation using the default templates, you can use the corresponding Gen AI variables to compose the content.
 
 <table id="table_cfn_tpt_t2c"><thead><tr><th>
 
@@ -1079,9 +1079,3 @@ Input fields
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_Models|Models]]
-- [[create-a-major-incident|Create a major incident]]

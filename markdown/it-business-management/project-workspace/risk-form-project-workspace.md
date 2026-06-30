@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Risk form of Project Workspace
 
-Learn about the fields on the [[risk-form|Risk form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to add risk to your projects.
+Learn about the fields on the Risk form of the Project Workspace. Use this form to add risk to your projects.
 
 <table id="table_mxx_gvp_z5b"><thead><tr><th>
 
@@ -190,7 +190,3 @@ Brief description of efforts taken to mitigate the risk.
 
 **Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[risk-form|Risk form]]
-- [[project-workspace-landing-page|Project Workspace]]

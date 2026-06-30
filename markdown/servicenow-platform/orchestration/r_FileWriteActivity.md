@@ -36,7 +36,7 @@ hostname
 
 </td><td>
 
-Hostname or [[ip-address|IP address]] of destination server for SSH activity.
+Hostname or IP address of destination server for SSH activity.
 
 </td></tr><tr><td>
 
@@ -89,6 +89,3 @@ What to write or append \(depending on the behavior\) to the file
 
 **Parent Topic:**[SSH activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSSHCustomActivities.md)
 
-## Related
-
-- [[ip-address|IP Address]]

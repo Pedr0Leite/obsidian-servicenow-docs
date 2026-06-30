@@ -22,7 +22,7 @@ Role required: Admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Static Content**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Static Content**.
 
 2.  Click **New** or open an existing record.
 
@@ -43,6 +43,3 @@ Role required: Admin
 
 You can add the useful static content in the [Get support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/apn-config-getsupport.md) section.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

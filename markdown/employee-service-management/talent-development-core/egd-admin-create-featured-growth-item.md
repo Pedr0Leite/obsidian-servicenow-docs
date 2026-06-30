@@ -22,7 +22,7 @@ Role required: sn\_egd\_shared\_lib.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Administration** &gt; **Featured Growth Items**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Administration** &gt; **Featured Growth Items**.
 
 2.  Select **New**.
 
@@ -108,11 +108,7 @@ The feature growth item that you defined appears in the Featured by your company
 
 The Featured by your company widget appears on the Aspirations landing page.
 
-**Important:** Only job titles and skills that you define using the Featured Growth Items table will appear in the Featured by your company widget on the Aspirations landing page. The opportunities that you define will appear in the Featured by your company widget on the [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] landing page.
+**Important:** Only job titles and skills that you define using the Featured Growth Items table will appear in the Featured by your company widget on the Aspirations landing page. The opportunities that you define will appear in the Featured by your company widget on the Opportunity Marketplace landing page.
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

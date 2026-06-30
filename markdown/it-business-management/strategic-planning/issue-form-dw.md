@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Create issue form
 
-The [[issue-form|issue form]] information is used to create an issue for the demand.
+The issue form information is used to create an issue for the demand.
 
 <table id="table_kxv_nr2_1vb"><thead><tr><th>
 
@@ -122,7 +122,3 @@ Information to record and track the work accomplished for resolving the issue.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[issue-form|Issue form]]

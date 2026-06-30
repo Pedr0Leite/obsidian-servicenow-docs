@@ -27,28 +27,18 @@ These workspaces can be modified as required through the UI Builder. Certain fea
 -   Public Sector landing page
 -   Customer Central
 
-**Note:** You can use guided setup to configure these configurable workspace features. For details, see [[configure-psds-foundation-data|Configure Public Sector Digital Services Core using guided setup]].
+**Note:** You can use guided setup to configure these configurable workspace features. For details, see [Configure Public Sector Digital Services Core using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md).
 
--   **[[public-sector-configure-list-menu|Configure the List Menu for Public Sector Digital Services]]**  
+-   **[Configure the List Menu for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-configure-list-menu.md)**  
 Add public sector-related menu options to the List Menu in the CSM Configurable Workspace.
--   **[[public-sector-configure-landing-page|Configure the Public Sector landing page with UI Builder]]**  
+-   **[Configure the Public Sector landing page with UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-configure-landing-page.md)**  
 Use the UI Builder to change certain fields in the Public Sector landing page of the CSM Configurable Workspace.
--   **[[public-sector-enable-customer-central|Activate Customer Central for viewing profile information]]**  
+-   **[Activate Customer Central for viewing profile information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-enable-customer-central.md)**  
 Install Customer Central using Customer Service Guided Setup so that agents can have a complete view of constituent, business, or agency information in Public Sector Digital Services.
--   **[[psds-relabel-after-upgrading|Relabel CSM Configurable Workspace items after upgrade]]**  
+-   **[Relabel CSM Configurable Workspace items after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-relabel-after-upgrading.md)**  
 After you upgrade your instance for the first time, you can relabel certain items in the CSM Configurable Workspace for public sector use.
--   **[[blsp-relabeling-instructions|Relabel Business Location Services portal \(BLSP\) items after upgrade]]**  
-Using Guided Setup, you can optionally modify the "Business Location Details" page in the Business Location Services Portal to be relabeled "Agency Location Details" [[using-public-sector-digital-services|using Public Sector Digital Services]] terms during configuration.
+-   **[Relabel Business Location Services portal \(BLSP\) items after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/blsp-relabeling-instructions.md)**  
+Using Guided Setup, you can optionally modify the "Business Location Details" page in the Business Location Services Portal to be relabeled "Agency Location Details" using Public Sector Digital Services terms during configuration.
 
-**Parent Topic:**[[psds-config-organize-agent-workspaces|Configure Agent Workspaces in Public Sector Digital Services]]
+**Parent Topic:**[Configure Agent Workspaces in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-organize-agent-workspaces.md)
 
-## Related
-
-- [[configure-psds-foundation-data|Configure Public Sector Digital Services foundational data and workflows]]
-- [[public-sector-configure-list-menu|Configure the List Menu for Public Sector Digital Services]]
-- [[public-sector-configure-landing-page|Configure the Public Sector landing page with UI Builder]]
-- [[public-sector-enable-customer-central|Activate Customer Central for viewing profile information]]
-- [[psds-relabel-after-upgrading|Relabel CSM Configurable Workspace items after upgrade]]
-- [[blsp-relabeling-instructions|Relabel Business Location Services portal \(BLSP\) items after upgrade]]
-- [[psds-config-organize-agent-workspaces|Configure Agent Workspaces in Public Sector Digital Services]]
-- [[using-public-sector-digital-services|Using Public Sector Digital Services]]

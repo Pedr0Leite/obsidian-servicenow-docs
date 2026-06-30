@@ -18,7 +18,7 @@ In the chart, point to any part \(bar, pie, data point, and so on\) to view gene
 
 ## Access the Integration Dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]** &gt; **Administration** and select **Review** on any integration.
+To open the dashboard, navigate to **Workspaces** &gt; **Security Exposure Management Workspace** &gt; **Administration** and select **Review** on any integration.
 
 ## Data visualization
 
@@ -99,9 +99,5 @@ During integration execution, multiple processes are generated, and data is rece
 -   sn\_sec\_cmn.record\_threshold\_heartbeat: Defines the number of processed records, after which the heartbeat \(timestamp\) is sent to the import queue entry.
 -   sn\_sec\_cmn.maximum\_heartbeat\_delay: Defines the time after which the import queue entry must be timed out.
 
-**Parent Topic:**[[integrating-usem|Unified Security Exposure Management integrations]]
+**Parent Topic:**[Unified Security Exposure Management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integrating-usem.md)
 
-## Related
-
-- [[integrating-usem|Unified Security Exposure Management integrations]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

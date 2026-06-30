@@ -14,7 +14,7 @@ breadcrumb: [Smart Assessment Engine assessments, Configure, Third-party Risk Ma
 
 # Migrating from Classic Assessment Engine to Smart Assessment Engine
 
-Learn what changes when you migrate from the Classic Assessment Engine to the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], including feature differences, limitations, and setup requirements. This overview can help you and your team evaluate the impact before enabling the new engine.
+Learn what changes when you migrate from the Classic Assessment Engine to the Smart Assessment Engine, including feature differences, limitations, and setup requirements. This overview can help you and your team evaluate the impact before enabling the new engine.
 
 ## Enabling SAE in TPRM
 
@@ -79,7 +79,7 @@ The following diagram shows the questionnaire to TPRM SAE template migration wor
 2.  Review each migrated questionnaire template individually to confirm that they’re accurate and complete.
 3.  Publish TPRM SAE questionnaire templates. After publishing, the following actions occur automatically:
 
-    -   All the related [[airc-assessment-templates|assessment templates]] are updated to use the migrated questionnaire template. If all the questionnaire templates in an assessment template are published, the assessment template is automatically marked as Support smart assessment.
+    -   All the related assessment templates are updated to use the migrated questionnaire template. If all the questionnaire templates in an assessment template are published, the assessment template is automatically marked as Support smart assessment.
     -   All issue generation rules are automatically marked as Support smart assessment if their related questionnaire template is published.
     -   All automation rules \(tier-based rules, provider-based rules, event-driven rules and issue generation rules\) are automatically marked as Support smart assessment after their related assessment template is marked as Support smart assessment.
     **Note:** For Issue-generation rules to work as expected when applied to an TPRM SAE questionnaire template, at least one question must have the option, Enable preferred response, set to true.
@@ -142,7 +142,3 @@ The following diagram shows the relationship between assessment templates and qu
 
 [Normalization in assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/normalization-in-assessment.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

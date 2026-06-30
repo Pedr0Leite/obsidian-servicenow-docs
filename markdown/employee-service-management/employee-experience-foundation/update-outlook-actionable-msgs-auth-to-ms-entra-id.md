@@ -58,7 +58,7 @@ To ensure uninterrupted functionality with actionable message, you must migrate 
 
     2.  Set the **User Claim** field to **upn**.
 
-        \[Omitted image "outlookactionable-metadaturl.png"\] Alt text: OIDC [[wsd-calendar-provider-form-fields|Provider form]].
+        \[Omitted image "outlookactionable-metadaturl.png"\] Alt text: OIDC Provider form.
 
     3.  Save the form.
 
@@ -71,6 +71,3 @@ You are now migrated to Microsoft Entra ID token authentication and the Outlook 
 
 **Parent Topic:**[Using ServiceNow for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-sn-ms-outlook.md)
 
-## Related
-
-- [[wsd-calendar-provider-form-fields|Provider form]]

@@ -14,9 +14,9 @@ breadcrumb: [Upgrade Center references, Upgrade Center, Upgrade, Administer the 
 
 # Upgrade Center roles
 
-[[uc-landing-page|Upgrade Center]] is installed with these roles.
+Upgrade Center is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System administrator \[admin\]
 
@@ -59,7 +59,3 @@ Access all tables and information within Upgrade Center on your instance.
 
 [Default skipped rules]()
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[uc-landing-page|Upgrade Center]]

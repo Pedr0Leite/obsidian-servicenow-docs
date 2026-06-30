@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Edit an email notification for the search results
 
-Include search [[hs-results|results]] in an email notification sent to users.
+Include search results in an email notification sent to users.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**.
 
 2.  Open the email template that you want to modify to include search results.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[notifications|Notifications]]

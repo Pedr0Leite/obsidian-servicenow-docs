@@ -68,13 +68,13 @@ To open the workspace, navigate to **Workspaces** &gt; **Digital Product Release
 
 ## Landing page
 
-On the workspace [[dex-workspace-dashboard-tab|landing page]], get a quick overview of the active releases, open approval tasks, and policies compliance status.
+On the workspace landing page, get a quick overview of the active releases, open approval tasks, and policies compliance status.
 
 As a release manager, you can use the onboarding tool to create and manage release processes.
 
 **Note:** The widgets and the data that are displayed in the widgets depend on your role.
 
-The following is an example of the workspace landing page for the [[dpr-landing-page|Digital Product Release]] application.
+The following is an example of the workspace landing page for the Digital Product Release application.
 
 \[Omitted image "dpr-workspace-homepage.png"\] Alt text: The homepage of Digital Product Release Workspace.
 
@@ -88,7 +88,3 @@ The following is an example of a release template playbook. For more information
 
 **Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[dpr-landing-page|Digital Product Release]]

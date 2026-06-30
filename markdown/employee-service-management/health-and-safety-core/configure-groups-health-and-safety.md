@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Configure groups for Health and Safety
 
-Configure user groups for [[health-safety-overview|Health and Safety]] for assignment of safety records. You can assign roles to groups to provide access to all group members or assign roles to individual users.
+Configure user groups for Health and Safety for assignment of safety records. You can assign roles to groups to provide access to all group members or assign roles to individual users.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ These groups are available for assignment.
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

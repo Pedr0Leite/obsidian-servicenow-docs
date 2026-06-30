@@ -25,7 +25,7 @@ Guests can take the following actions:
 
 For information about configuring access for guest users, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
-Guest access configuration is applicable to the following tables in both IT Service Management integration with Microsoft Teams and [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams applications:
+Guest access configuration is applicable to the following tables in both IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications:
 
 -   HR Core task \(sn\_hr\_core\_task\)
 -   HR Life events Case \(sn\_hr\_le\_case\)
@@ -43,11 +43,7 @@ Assign permissions to guest users to initiate and import chat conversations with
 -   **[Enable authentication of guest users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-verify-app-registry-guest.md)**  
 Verify and update application registry values to authenticate guest users in the Microsoft Teams application to start and import chats for a self-configured app.
 -   **[Enable chat access for guest users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-guest-chat-access-st.md)**  
-[[enable-guest-chat-access-mt|Enable chat access for a guest user]] while configuring ServiceNow® for Microsoft Teams settings for a self-configured app.
+Enable chat access for a guest user while configuring ServiceNow® for Microsoft Teams settings for a self-configured app.
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_s_tnt.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[enable-guest-chat-access-mt|Enable chat access for a guest user]]

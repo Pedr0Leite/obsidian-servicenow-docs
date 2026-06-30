@@ -28,7 +28,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Workplace Rooms**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Workplace Rooms**.
 
 2.  Click **New**.
 
@@ -88,6 +88,3 @@ The room is added and is available for reservation in the application.
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

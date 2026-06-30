@@ -26,7 +26,7 @@ You can share certain entities while excluding specific records within those ent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Outbound Intel Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Outbound Intel Sharing**.
 
 2.  Select **Outbound Intel Data Exclusion Rules**.
 
@@ -74,6 +74,3 @@ You can share certain entities while excluding specific records within those ent
 
 [Working on the Redaction Library]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

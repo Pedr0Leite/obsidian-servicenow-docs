@@ -27,7 +27,7 @@ Role required: mid\_admin
 </td></tr></tbody>
 </table>## About this task
 
-[[mid-server-landing|MID Server]] cannot access servers using the WinRM protocol unless these servers are configured as trusted hosts for this MID Server.
+MID Server cannot access servers using the WinRM protocol unless these servers are configured as trusted hosts for this MID Server.
 
 Perform this procedure on each MID Server used by Service Mapping or Discovery.
 
@@ -48,6 +48,3 @@ Perform this procedure on each MID Server used by Service Mapping or Discovery.
 
 **Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

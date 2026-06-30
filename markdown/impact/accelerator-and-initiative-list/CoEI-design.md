@@ -18,7 +18,7 @@ The Center of Excellence and Innovation Design \(CoEI\) Accelerator provides gui
 
 ## Accelerator overview
 
-Center of Excellence &amp; Innovation \(CoEI\) Design provides [[impact-landing-page|Impact]] customers with leading practices content and prescriptive guidance and support to build a CoEI within their organization. This Accelerator aims to [[io-help|help]] customers use a CoEI as a vehicle to realize and accelerate the value they receive from their ServiceNow platform.
+Center of Excellence &amp; Innovation \(CoEI\) Design provides Impact customers with leading practices content and prescriptive guidance and support to build a CoEI within their organization. This Accelerator aims to help customers use a CoEI as a vehicle to realize and accelerate the value they receive from their ServiceNow platform.
 
 ## Package Availability
 
@@ -69,7 +69,3 @@ One or more customer resources are requested. The specific number of resources p
 
 ServiceNow resources are not responsible for implementation or management of the ServiceNow CoEI.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

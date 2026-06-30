@@ -14,24 +14,16 @@ breadcrumb: [Operational Sustainability Management \(formerly Environmental, Soc
 
 The following sections show the roles, tables, and properties installed with the Operational Sustainability Management application.
 
--   **[[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]]**  
+-   **[Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md)**  
 Several types of components such as roles, tables, and properties are installed with the Operational Sustainability Management application and the GRC: Metrics application.
--   **[[tables-installed-with-goals|Roles installed with the Goal Framework]]**  
+-   **[Roles installed with the Goal Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/tables-installed-with-goals.md)**  
 Several roles are installed with activation of the Goal Framework plugin.
--   **[[esg-domain-separation|Domain separation and Operational Sustainability Management]]**  
+-   **[Domain separation and Operational Sustainability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-domain-separation.md)**  
 Domain separation is supported for Operational Sustainability Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[[socialsuite-material-topic-fields|Socialsuite material topic fields]]**  
+-   **[Socialsuite material topic fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/socialsuite-material-topic-fields.md)**  
 Fields added to the Material Topic \(sn\_esg\_material\_topic\) table for Socialsuite integration.
--   **[[socialsuite-import-log|Socialsuite import log]]**  
+-   **[Socialsuite import log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/socialsuite-import-log.md)**  
 The Socialsuite import log table \(sn\_osm\_ma\_import\_log\) tracks material topic data imported from Socialsuite into your ServiceNow instance. When you sync material topics, the assessment data is first imported into this table before the system creates corresponding material topic records. The import log is read-only and automatically maintained by the system.
 
-**Parent Topic:**[[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
+**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-landing-page.md)
 
-## Related
-
-- [[components-installed-with-esg|components installed with esg]]
-- [[tables-installed-with-goals|Roles installed with the Goal Framework]]
-- [[esg-domain-separation|Domain separation and Operational Sustainability Management]]
-- [[socialsuite-material-topic-fields|Socialsuite material topic fields]]
-- [[socialsuite-import-log|Socialsuite import log]]
-- [[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]

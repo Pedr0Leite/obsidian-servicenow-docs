@@ -14,7 +14,7 @@ breadcrumb: [Managing inbound asset orders for requested DaaS assets, Enterprise
 
 # Create an inbound asset order for requested Device as a Service \(DaaS\) assets
 
-[[create-inbound-order|Create an inbound asset order]] to track and manage the process of providing your customers with the DaaS assets that are requested through your [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) response orders.
+Create an inbound asset order to track and manage the process of providing your customers with the DaaS assets that are requested through your Return Merchandise Authorization \(RMA\) response orders.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  From the navigation menu of the Asset operations view, navigate to **Provider** &gt; **Provider inbound orders**.
 
@@ -47,9 +47,3 @@ Create corresponding inbound asset order lines for the DaaS assets that you want
 
 **Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-inbound-asset-orders-daas-assets.md)
 
-## Related
-
-- [[create-inbound-order|Create an inbound asset order]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

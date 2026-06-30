@@ -28,7 +28,7 @@ When you export a model or template by downloading a copy of it for offline refe
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\).
 
@@ -66,6 +66,3 @@ When you export a model or template by downloading a copy of it for offline refe
 
 [Export hierarchy of models and templates as JSON](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-templates-as-json.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

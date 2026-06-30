@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-entitlement-template-characteristic|Create a characteristic]]
+[Create a characteristic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-entitlement-template-characteristic.md)
 
 </td><td>
 
@@ -46,11 +46,11 @@ Add a user to your instance to enable them to log in and use designated applicat
 
 </td><td>
 
-[[configure-data-model-roles|Assign roles]] to users. Use this feature to grant the sn\_customerservice\_manager \(CSM manager\) role to a newly added user and authorize them to make an informed judgment to review a customer contract.
+Assign roles to users. Use this feature to grant the sn\_customerservice\_manager \(CSM manager\) role to a newly added user and authorize them to make an informed judgment to review a customer contract.
 
 </td></tr><tr><td>
 
-[[import-create-csm-accounts|Create customer accounts]]**Note:** On the Accounts form, to view the customer contracts, remove the contract-related [[migration-lists|lists]] and configure the customer contracts related list.
+[Create customer accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-create-csm-accounts.md)**Note:** On the Accounts form, to view the customer contracts, remove the contract-related lists and configure the customer contracts related list.
 
 </td><td>
 
@@ -58,15 +58,15 @@ Create an account and associate it to a customer contract.
 
 </td></tr><tr><td>
 
-[[create-a-consumer-record|Create a consumer record]]
+[Create a consumer record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-consumer-record.md)
 
 </td><td>
 
-Create a consumer record in [[c_CustomerServiceManagement|Customer Service Management]]. A consumer can be associated with a customer contract in the Customer Contracts and Entitlements application.
+Create a consumer record in Customer Service Management. A consumer can be associated with a customer contract in the Customer Contracts and Entitlements application.
 
 </td></tr><tr><td>
 
-[[create-sold-item|Create a sold product]]
+[Create a sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-sold-item.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Create a record for a product that is sold to an account or a consumer. A sold p
 
 </td></tr><tr><td>
 
-[[create-install-base-item|Create an install base item]]
+[Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md)
 
 </td><td>
 
@@ -82,14 +82,3 @@ Create a record for an install base item that is sold to an account or a consume
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-entitlement-template-characteristic|Create a characteristic]]
-- [[import-create-csm-accounts|Create customer accounts]]
-- [[create-a-consumer-record|Create a consumer record]]
-- [[create-sold-item|Create a sold product]]
-- [[create-install-base-item|Create an install base item]]
-- [[configure-data-model-roles|Assign roles]]
-- [[migration-lists|Lists]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

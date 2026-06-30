@@ -26,7 +26,7 @@ The details of the action task and assessment history are displayed in the recor
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **My items** and open the action task listed in **Vulnerability action tasks**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **My items** and open the action task listed in **Vulnerability action tasks**.
 
 2.  To complete the assessment for the action task, select **Take assessment**.
 
@@ -51,10 +51,5 @@ The details of the action task and assessment history are displayed in the recor
 
 ## What to do next
 
-[[submit-vul-for-approval|Request an approval]] on the action task and complete its workflow. For more information, see [[request-approval-for-action-task|Request an approval for the action task]].
+Request an approval on the action task and complete its workflow. For more information, see [Request an approval for the action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-approval-for-action-task.md).
 
-## Related
-
-- [[request-approval-for-action-task|Request an approval for the action task]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-vul-for-approval|Request an approval]]

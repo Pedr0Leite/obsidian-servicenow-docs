@@ -12,7 +12,7 @@ breadcrumb: [Using ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions,
 
 # View subscription statistics for ITOM
 
-View how many subscriptions for [[r_ITOMApplications|IT Operations Management]] applications your organization purchased and consumed.
+View how many subscriptions for IT Operations Management applications your organization purchased and consumed.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Review the configuration item \(CI\) allocation and allocation level to see how 
 
     Use subscription names to differentiate between subscriptions bought in bundles and a la carte.
 
-2.  Review the information on the form as covered in [[itom-subscriptions-form|Subscriptions form for the ITOM products]].
+2.  Review the information on the form as covered in [Subscriptions form for the ITOM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-subscriptions-form.md).
 
 
 **Related topics**  
@@ -40,10 +40,5 @@ Review the configuration item \(CI\) allocation and allocation level to see how 
 
 [KB0748149: ITOM Subscription Unit license calculation logic](https://support.servicenow.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0748149%26sysparm_stack%3D%26sysparm_view%3D)
 
-[[itom-license-module|Subscriptions for IT Operations Management]]
+[Subscriptions for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md)
 
-## Related
-
-- [[itom-subscriptions-form|Subscriptions form for the ITOM products]]
-- [[itom-license-module|itom license module]]
-- [[r_ITOMApplications|IT Operations Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Case and Knowledge Management, HR Service Delivery, Empl
 
 # Components installed with Case and Knowledge Management
 
-Several types of components install with the activation of the [[case-knowledge-management-landing-page|Case and Knowledge Management]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the Case and Knowledge Management plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -241,7 +241,7 @@ None
 
 </td></tr><tr><td>
 
-[[c_HRProfileRecords|HR profile]] reader\[sn\_hr\_core.profile\_reader\]
+HR profile reader\[sn\_hr\_core.profile\_reader\]
 
 </td><td>
 
@@ -325,7 +325,7 @@ Auto-close case
 
 </td><td>
 
-Automatically closes HR cases based on the configuration of the HR service for service [[activity-lxp|activity]] and lifecycle event fulfillment types. This scheduled job runs daily.
+Automatically closes HR cases based on the configuration of the HR service for service activity and lifecycle event fulfillment types. This scheduled job runs daily.
 
 </td></tr><tr><td>
 
@@ -345,7 +345,7 @@ Sends reminder notifications to users based on certain HR task parameters. This 
 
 </td></tr><tr><td>
 
-Migrate [[hr-e-signature|HR e-signature]] tasks
+Migrate HR e-signature tasks
 
 </td><td>
 
@@ -353,7 +353,7 @@ Migrates HR task templates and open HR tasks to the new HR task type for e-signa
 
 </td></tr><tr><td>
 
-Update [[c_ClientRoles|Client Roles]]
+Update Client Roles
 
 </td><td>
 
@@ -364,7 +364,7 @@ Updates role assignments for HR profiles that are beginning or ending their empl
 
 ## Tables installed
 
-The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the [[hr-case-employee-relations|Employee Relations]] feature. For more information, see [Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
+The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
 
 <table id="table_pfy_pqk_hbb"><thead><tr><th>
 
@@ -626,7 +626,7 @@ HR corporate communications case table.**Note:** This table is an extension of t
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR Criteria]]\[sn\_hr\_core\_criteria\]
+HR Criteria\[sn\_hr\_core\_criteria\]
 
 </td><td>
 
@@ -822,7 +822,7 @@ HR Service\[sn\_hr\_core\_service\]
 
 </td><td>
 
-[[hr-service-administration|HR services]] table.
+HR services table.
 
 </td></tr><tr><td>
 
@@ -898,7 +898,7 @@ HRIT operations case table.**Note:** This table is an extension of the HR Case t
 
 </td></tr><tr><td>
 
-HR [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] Case\[sn\_hr\_le\_case\]
+HR Lifecycle Events Case\[sn\_hr\_le\_case\]
 
 </td><td>
 
@@ -1082,7 +1082,7 @@ User fields on case table.
 
 </td></tr><tr><td>
 
-[[t_WhosCovered|Who is covered]]\[sn\_hr\_core\_who\_is\_covered\]
+Who is covered\[sn\_hr\_core\_who\_is\_covered\]
 
 </td><td>
 
@@ -1091,15 +1091,3 @@ Who is covered table.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableAdministration.md).
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[activity-lxp|Activity]]
-- [[hr-e-signature|HR e-signature]]
-- [[c_ClientRoles|Client roles]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-administration|HR services]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[t_WhosCovered|Who is covered]]

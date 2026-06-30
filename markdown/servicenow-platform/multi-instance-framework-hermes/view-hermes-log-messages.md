@@ -39,7 +39,7 @@ Role required: admin
 
 ## Result
 
-The Log \[syslog\] table displays only the [[hermes-messaging-service|Hermes Messaging Service]] log messages.
+The Log \[syslog\] table displays only the Hermes Messaging Service log messages.
 
 **Parent Topic:**[Administering Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-administration.md)
 
@@ -56,6 +56,3 @@ The Log \[syslog\] table displays only the [[hermes-messaging-service|Hermes Mes
 
 [Cloning with Hermes Messaging Service enabled]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

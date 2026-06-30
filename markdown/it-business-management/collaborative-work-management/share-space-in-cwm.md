@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Spaces, Use, Collaborative Work Management, Strate
 
 # Share a Space in CWM and manage sharing permissions
 
-Invite cross-team members to [[cwm-landing|Collaborative Work Management]] Spaces to collaborate on tasks or projects. You can also manage permissions for users with existing access to your Space.
+Invite cross-team members to Collaborative Work Management Spaces to collaborate on tasks or projects. You can also manage permissions for users with existing access to your Space.
 
 ## Before you begin
 
@@ -108,6 +108,3 @@ Start working on tasks for your team using Boards. See [Managing work using Boar
 
 **Parent Topic:**[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-spaces.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

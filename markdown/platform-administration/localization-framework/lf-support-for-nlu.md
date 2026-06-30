@@ -14,17 +14,17 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Localization Framework support for Natural Language Understanding models
 
-[[localization-framework-landing|Localization Framework]] integrates with NLU Workbench to translate the Natural Language Understanding models along with their associated intents, utterances, and entities into multiple languages.
+Localization Framework integrates with NLU Workbench to translate the Natural Language Understanding models along with their associated intents, utterances, and entities into multiple languages.
 
 ## Localizing Natural Language Understanding models
 
 The integration of Localization Framework with NLU Workbench enables you to do the following tasks.
 
--   Auto-configure the NLU Model artifact in the Artifacts Configuration \[sn\_lf\_config\] table with the activation of the Localization Framework plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\).
+-   Auto-configure the NLU Model artifact in the Artifacts Configuration \[sn\_lf\_config\] table with the activation of the Localization Framework plugin \(com.glide.localization\_framework.installer\).
 -   Select multiple languages from the available languages in the instance to configure settings with Natural Language Understanding models artifacts. To configure localization settings, see [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
--   [[language-picker-ui|Request translations]] for Natural Language Understanding Models and translate the content of the localization task using the [[translation-modes|translation modes]].
+-   Request translations for Natural Language Understanding Models and translate the content of the localization task using the translation modes.
 
-    **Note:** Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
+    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
 
 -   Translate the content of the Natural Language Understanding models directly from the NLU Workbench.
 
@@ -38,10 +38,3 @@ For more information about localizing Natural Language Understanding models, see
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]
-- [[translation-modes|Translation modes]]
-- [[dynamic-translation|Dynamic translation]]

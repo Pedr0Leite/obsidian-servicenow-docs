@@ -26,7 +26,7 @@ Action
 
 </th></tr></thead><tbody><tr><td>
 
-The **ART** and **ART Iteration Path** fields are not displayed in the Azure DevOps [[create-a-project-form|project form]].
+The **ART** and **ART Iteration Path** fields are not displayed in the Azure DevOps project form.
 
 </td><td>
 
@@ -74,6 +74,3 @@ Features can be linked to the PI but not with the sprints, as it's not supported
 
 [Troubleshooting issues for Azure DevOps integration with Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/troubleshooting-issues-agile-azure-int.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

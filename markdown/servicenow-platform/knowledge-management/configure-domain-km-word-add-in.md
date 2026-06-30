@@ -14,7 +14,7 @@ breadcrumb: [Configure Knowledge Management - Add-in for Microsoft Word, Configu
 
 # Configure the security for Knowledge Management add-in for Microsoft Word
 
-Use the **sn\_km\_word.glide.knowman.word.xframe** property to specify all the parent domains in the Microsoft Word Online application in which [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word is embedded.
+Use the **sn\_km\_word.glide.knowman.word.xframe** property to specify all the parent domains in the Microsoft Word Online application in which Knowledge Management - Add-in for Microsoft Word is embedded.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ The domains you specify for the Microsoft Word application in the **sn\_km\_word
 
 4.  Click **Update**.
 
-## Related
 
-- [[knowledge-management|Knowledge Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog and CSDM, Configuring Service Catalog, Service Cata
 
 # Service Catalog use case
 
-You can create customized catalogs where you can request items such as a specific service or product. With this use case, CSDM provides [[service-catalog|Service Catalog]] connection to the service offerings and services.
+You can create customized catalogs where you can request items such as a specific service or product. With this use case, CSDM provides Service Catalog connection to the service offerings and services.
 
 ## Service Catalog use case
 
@@ -33,7 +33,7 @@ Digital Portfolio Management \(DPM\) uses the CSDM framework to navigate the Ser
 
 A catalog item is an item or a service that you can request from the catalog. A service can contain multiple catalog items. Catalog items are listed on the catalog portal and are available to the users who need them \(either through subscription or job responsibility\). Each catalog item is linked to one service offering.
 
-The [[catalog-item-form|Catalog Item form]] includes the following tabs.
+The Catalog Item form includes the following tabs.
 
 -   Item Details: Description of the catalog item.
 -   Process Engine: The defined process used to fulfill the catalog Item request.
@@ -61,7 +61,3 @@ The CSDM framework ensures that product models are available in the catalog and 
 
 **Parent Topic:**[Service Catalog and CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-use-case-product-view.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]

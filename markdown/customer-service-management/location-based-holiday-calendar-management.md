@@ -32,8 +32,5 @@ Holiday Visibility in Calendars:
 
 Managers and agents can easily view shifts and holidays in unified team and personal calendars, with support for location-based filters. The system automatically removes holiday assignments when a location-level schedule is deleted, ensuring data remains accurate and schedules stay consistent.
 
-Location-based Holiday Calendar Management is supported by schema updates—including a new location field in the **Location Schedule** \(sn\_shift\_planning\_location\_schedule\) table—and enhancements across APIs and UI components. The solution is optimized for performance, accessibility, and seamless integration with existing Workforce [[optimization|Optimization]] and Scheduling modules, ensuring a scalable and reliable experience.
+Location-based Holiday Calendar Management is supported by schema updates—including a new location field in the **Location Schedule** \(sn\_shift\_planning\_location\_schedule\) table—and enhancements across APIs and UI components. The solution is optimized for performance, accessibility, and seamless integration with existing Workforce Optimization and Scheduling modules, ensuring a scalable and reliable experience.
 
-## Related
-
-- [[optimization|Optimization]]

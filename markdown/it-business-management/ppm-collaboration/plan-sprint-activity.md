@@ -22,7 +22,7 @@ Role required: scrum\_admin, scrum\_master, or scrum\_sprint\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Groups**.
 
 2.  Open the desired group.
 
@@ -76,6 +76,3 @@ This option can be used to move stories only within a backlog or a sprint.
 
 **Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

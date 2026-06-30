@@ -26,13 +26,11 @@ When you add credentials to an image template, the credentials are inherited by 
 1.  Perform one of the following actions:
 
     -   If an OS profile is mapped to the virtual machine template:
-        1.  Open the OS profile \(**Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**\).
+        1.  Open the OS profile \(**Manage** &gt; **Resource Profiles**\).
         2.  In the OS Profile Mappings related list, click the **Name** of the template in the **Image Template** column.
     -   For VMware templates, navigate to **All** &gt; **Configuration** &gt; **VMware** &gt; **Virtual Machine Templates**.
 2.  On the Image form, select the basic authentication **Credentials**.
 
 3.  Click **Update**.
 
-## Related
 
-- [[cloud-resource-profiles|Resource Profiles]]

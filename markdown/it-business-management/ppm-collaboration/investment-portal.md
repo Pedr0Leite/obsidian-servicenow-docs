@@ -14,15 +14,15 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 # Investment Portal
 
-Completing projects and demands on time within budget is a challenge. Investment Portal gives you a comprehensive view of project and demand financials, deadlines, and other important metrics in an intuitive user interface that makes project and [[c_DemandManagement|demand management]] more efficient.
+Completing projects and demands on time within budget is a challenge. Investment Portal gives you a comprehensive view of project and demand financials, deadlines, and other important metrics in an intuitive user interface that makes project and demand management more efficient.
 
 **Important:**
 
-Starting with the Australia release, the Investment Portal is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use [[portfolio-planning-app-landing-page|Portfolio Planning]] module in [[alignment-planner-workspace-landing-page|Strategic Planning]] \(for Pro license\) or Portfolio Planning Workspace \(for standard license\) to experience a more interactive and strategically aligned way to manage portfolios.
+Starting with the Australia release, the Investment Portal is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use Portfolio Planning module in Strategic Planning \(for Pro license\) or Portfolio Planning Workspace \(for standard license\) to experience a more interactive and strategically aligned way to manage portfolios.
 
 Tracking and managing your investments \(both projects and demands\) and then creating investment reports and sharing them through email is time consuming and inefficient. To generate a report you must obtain the status of projects and demands from project and demand managers, produce the report, and then email it.
 
-With Investment Portal you can [[create-an-investment-report|create an investment board]] through filter definition, and share it with other stakeholders. You can save time on new investments by creating, cloning, or modifying boards as needed. Filtering makes it easy to surface information on the fly and for reporting.
+With Investment Portal you can create an investment board through filter definition, and share it with other stakeholders. You can save time on new investments by creating, cloning, or modifying boards as needed. Filtering makes it easy to surface information on the fly and for reporting.
 
 Here are a few examples showing how Investment Portal can make managing and reporting more efficient:
 
@@ -46,7 +46,7 @@ Investment Portal is divided into the following sections:
 
     You can track important aspects of your projects and demands in one location using the following tabs.
 
-    -   **Overview**: A high-level summary of your projects and demands. The information in the grid is based on the project and [[demand-form|demand form]] fields.
+    -   **Overview**: A high-level summary of your projects and demands. The information in the grid is based on the project and demand form fields.
     -   **Timeline**: Key milestones in a Gantt view. Gantt view provides an overview of projects using graphical elements such as lines and bars to show dependencies and lengths of tasks.
 
         The Work Breakdown Structure \(WBS\) in the tab displays only milestones and key milestones.
@@ -73,10 +73,3 @@ Configure investment metrics based on your business requirements. These metrics 
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-an-investment-report|Create an investment board]]
-- [[demand-form|Demand form]]

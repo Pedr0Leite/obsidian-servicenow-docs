@@ -24,7 +24,7 @@ The CSDM is the data model that admins should follow when they set up ServiceNow
 
 -   **[Activate the CSDM plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable.md)**
 
-    [[csdm-enable|Activate the CSDM plugin]] so you can begin implementing the CSDM data model.
+    Activate the CSDM plugin so you can begin implementing the CSDM data model.
 
 -   **[Enabling life-cycle synchronization from legacy to asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cycle-standard-values.md)**
 
@@ -41,7 +41,7 @@ It's best to use a staged approach when you implement the CSDM framework. Each i
 
 \[Omitted image "csdm-phases.png"\] Alt text: CSDM stages: foundation, crawl, walk, run, and fly.
 
-**Note:** Business applications [[reference|reference]] information objects in the information portfolio. You might implement the Information Object \[cmdb\_ci\_information\_object\] table earlier than the Fly stage. Your business requirements determine the correct stage for implementing the table.
+**Note:** Business applications reference information objects in the information portfolio. You might implement the Information Object \[cmdb\_ci\_information\_object\] table earlier than the Fly stage. Your business requirements determine the correct stage for implementing the table.
 
 -   **[CSDM implementation stage — Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implement-foundation-stage.md)**
 
@@ -94,7 +94,3 @@ When you reach the Fly stage, you have accomplished all or most of the process o
 
 **Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 
-## Related
-
-- [[csdm-enable|Activate the CSDM plugin]]
-- [[reference|Reference]]

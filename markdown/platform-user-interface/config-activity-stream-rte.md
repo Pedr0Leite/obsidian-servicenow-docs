@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure rich text editor for the Activity stream
 
-[[configure-onboarding-modals|Configure]] a rich text editor for journal fields in the [[activity-stream-configurable-workspace|Activity stream]].
+Configure a rich text editor for journal fields in the Activity stream.
 
 ## Before you begin
 
@@ -30,7 +30,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]

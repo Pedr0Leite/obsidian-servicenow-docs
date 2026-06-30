@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Success portal view in Software Asset Workspace
 
-Use the Success portal view in Software Asset Workspace to track the progress of your [[c_SoftwareAssetMgmt|Software Asset Management]] \(SAM\) application with success goals, assign activities to track the success of your goals, run health checks on your software, maximize the usage of your SAM capabilities, and mature your SAM program with predefined maturity items.
+Use the Success portal view in Software Asset Workspace to track the progress of your Software Asset Management \(SAM\) application with success goals, assign activities to track the success of your goals, run health checks on your software, maximize the usage of your SAM capabilities, and mature your SAM program with predefined maturity items.
 
 Success portal helps you perform the following actions:
 
@@ -26,11 +26,11 @@ Success portal helps you perform the following actions:
 
     Track the success of your goals by creating success activities for the goals. For more information, see [Create success activities for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-activity.md).
 
--   **Perform a [[health-check-dboard|health check]] on your software**
+-   **Perform a health check on your software**
 
     Run health checks to review the health of licenses, permissions, and configurations to get the best out of each software suite. For more information, see [Health check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/health-check-dboard.md).
 
--   **Keep your software up to date using [[sam-value-builder|Value builder]] tasks**
+-   **Keep your software up to date using Value builder tasks**
 
     Get an overview of which software upgrades, publisher packs, and integrations you must set up with Value builder tasks. These tasks are created automatically, but you can create your own as necessary. For more information, see [Value builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-value-builder.md).
 
@@ -46,7 +46,7 @@ Email notifications are sent when the following conditions are met:
 -   To an owner, when a success goal is marked as Pending Review.
 -   To an assigned user or an assignment group, when a success activity is assigned.
 
-Access the Success portal view by navigating to **[[sam-workspace|Software Asset Workspace]]** &gt; **Success portal**.
+Access the Success portal view by navigating to **Software Asset Workspace** &gt; **Success portal**.
 
 The Success portal supports domain separation when the Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\) is activated. To filter the data by domain, select a domain at the top of the dashboard.
 
@@ -138,10 +138,3 @@ Open success goal activities.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[health-check-dboard|Health check]]
-- [[sam-value-builder|Value builder]]
-- [[sam-workspace|Software Asset Workspace]]

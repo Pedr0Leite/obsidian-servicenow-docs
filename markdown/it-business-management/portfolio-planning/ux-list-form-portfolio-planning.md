@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # UX List form
 
-Learn about the fields of the UX List form. Use this form to create additional lists in the Lists menu of [[portfolio-planning-app-landing-page|Portfolio Planning]] workspaces.
+Learn about the fields of the UX List form. Use this form to create additional lists in the Lists menu of Portfolio Planning workspaces.
 
 <table id="id_flh_kdd_vwb"><thead><tr><th>
 
@@ -130,6 +130,3 @@ View to determine which columns are displayed in the list in the workspace. If y
 
 [Customize Lists in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customize-lists-in-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

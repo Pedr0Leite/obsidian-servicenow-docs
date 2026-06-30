@@ -14,7 +14,7 @@ breadcrumb: [Normalization in assessment, Scoring assessments, Use template desi
 
 # Score normalization
 
-In [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] normalization maps the actual scores to a standardized scale, typically from 0 through 100, enabling for a unified evaluation framework.
+In Smart Assessment Engine normalization maps the actual scores to a standardized scale, typically from 0 through 100, enabling for a unified evaluation framework.
 
 ## Normalization approach overview
 
@@ -53,6 +53,3 @@ Minimize the value when lower values are better. The following formula is used t
 
 **Note:** This approach is applicable only when the linear normalization strategy is used. The formulas may vary if a different strategy is selected.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

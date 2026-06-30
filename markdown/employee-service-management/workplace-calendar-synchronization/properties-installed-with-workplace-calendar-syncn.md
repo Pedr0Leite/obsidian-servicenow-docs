@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Calendar Synchronization, Workplace Service De
 
 # Properties installed with Workplace Calendar Synchronization
 
-Customize the properties available with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Customize the properties available with Workplace Calendar Synchronization.
 
 These properties are available for Workplace Calendar Synchronization.
 
@@ -34,7 +34,7 @@ sn\_wsd\_rsvsync.sync\_integration\_mode
 
 </td><td>
 
-This property enables you to specify the Exchange Online sync integration mode to Strict, Personal Authentication, or Normal mode to synchronize reservation between Microsoft Exchange Online and [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].-   **Type**: string
+This property enables you to specify the Exchange Online sync integration mode to Strict, Personal Authentication, or Normal mode to synchronize reservation between Microsoft Exchange Online and Workplace Reservation Management.-   **Type**: string
 -   **Default value**: Normal
 
 </td></tr><tr><td>
@@ -43,7 +43,7 @@ sn\_wsd\_rsvsync.use\_user\_default\_tz
 
 </td><td>
 
-This property enables you to synchronize reservations created by users according to their time zone. Either the system's time zone or the user's time zone is used to update and synchronize reservation. First, the property checks if the user has a time zone specified or not. If the user has not specified any time zone, the system's time zone is used. Again, if the system has no time zone specified, then the property uses the UTC time zone.Reservations synchronized from Microsoft Exchange and Google Calendarto [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] are not affected.
+This property enables you to synchronize reservations created by users according to their time zone. Either the system's time zone or the user's time zone is used to update and synchronize reservation. First, the property checks if the user has a time zone specified or not. If the user has not specified any time zone, the system's time zone is used. Again, if the system has no time zone specified, then the property uses the UTC time zone.Reservations synchronized from Microsoft Exchange and Google Calendarto Workplace Service Delivery are not affected.
 
  -   Type: true/false
 -   Default value: **false**
@@ -115,9 +115,3 @@ This property enables you specify the number of months that you want a sync to r
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

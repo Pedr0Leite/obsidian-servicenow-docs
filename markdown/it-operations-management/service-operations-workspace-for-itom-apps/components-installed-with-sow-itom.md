@@ -64,7 +64,7 @@ evt\_team\_operator
 
 </td><td>
 
-Manages [[c_EM|Event Management]] operations within a specific team as defined in the **Assignment Group** field. This role allows the operator to read and write alerts exclusively for their assigned team. Additionally, the operator can make configuration changes specific to their team, including updates to Alert Automation and the Integrations Launchpad.**Note:** The evt\_team\_operator role must be assigned to an assignment group to view and manage alerts for that group. If the role is created but not associated with any groups that have alerts assigned, the operator cannot see any alerts.
+Manages Event Management operations within a specific team as defined in the **Assignment Group** field. This role allows the operator to read and write alerts exclusively for their assigned team. Additionally, the operator can make configuration changes specific to their team, including updates to Alert Automation and the Integrations Launchpad.**Note:** The evt\_team\_operator role must be assigned to an assignment group to view and manage alerts for that group. If the role is created but not associated with any groups that have alerts assigned, the operator cannot see any alerts.
 
 </td><td>
 
@@ -124,6 +124,3 @@ Includes core out-of-the-box Key Performance Indicators \(KPIs\). Activating thi
 
 **Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-reference-itom.md)
 
-## Related
-
-- [[c_EM|Event Management]]

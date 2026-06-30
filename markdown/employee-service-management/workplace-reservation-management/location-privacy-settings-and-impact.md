@@ -14,11 +14,11 @@ breadcrumb: [Reference, Workplace Reservation Management, Workplace Service Deli
 
 # Location privacy settings and impact
 
-Set location privacy on workplace reservations and workplace profiles in your organization. Implement privacy throughout the organization or only on a building using the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] location privacy settings.
+Set location privacy on workplace reservations and workplace profiles in your organization. Implement privacy throughout the organization or only on a building using the Workplace Service Delivery location privacy settings.
 
 ## System property settings
 
-Using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] system properties you can specify your location privacy preferences on workplace profiles and workplace reservations that belong to your organization.
+Using the Workplace Reservation Management system properties you can specify your location privacy preferences on workplace profiles and workplace reservations that belong to your organization.
 
 You can set the location privacy using the following navigation:
 
@@ -98,7 +98,7 @@ The location privacy is processed as follows:
 
 When a reservation is requested, to know more about privacy-related setting, open the list of reservations through one of the following:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]: Navigate to **All** &gt; **Workplace Core** &gt; **Space Reservations** &gt; **All reservations**.
+-   Workplace Core: Navigate to **All** &gt; **Workplace Core** &gt; **Space Reservations** &gt; **All reservations**.
 -   Workplace Reservation Management: Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **All Reservations**.
 
 From the list view of the reservations, you can know the following:
@@ -124,7 +124,7 @@ Depending on the location privacy preferences, the following areas are affected.
 
 -   **Location directory**
 
-    When an employee uses the [[workplace-services-portal-hr|Workplace Service Portal]] Location directory to search for a colleague or a space, depending on the privacy setting, the following happens:
+    When an employee uses the Workplace Service Portal Location directory to search for a colleague or a space, depending on the privacy setting, the following happens:
 
     -   If the colleague for which an employee is searching for has their workplace profile set as private, then their location details aren’t displayed.
     -   If there’s an ongoing private reservation of Employee A on a workspace/desk Space 123, on then
@@ -132,7 +132,7 @@ Depending on the location privacy preferences, the following areas are affected.
         -   If Employee B searches for Space 123, then the details of Employee A who reserved this space won’t be displayed in the search results. A **Private profile** tag is displayed on the search result card.
     -   If a reservation is made by Employee B for Employee A, or if Employee B is invited to the reservation, or if the reservation is shared with Employee B, only then, the employee-related details appear in the Location directory for Employee B.
 
--   **[[wsd-mobile-overview|Workplace Service Delivery for Mobile]]**
+-   **Workplace Service Delivery for Mobile**
 
     If Employee A's workplace profile is set as private or has an ongoing private reservation, then when an Employee B searches for Employee A, or tries to get directions, the details related to the Employee A's location aren’t displayed. Also, the **Get directions** option isn’t displayed to Employee B.
 
@@ -144,11 +144,11 @@ Depending on the location privacy preferences, the following areas are affected.
 
     The option **Mark space details private** is displayed only if the employees are allowed to override their privacy preference for the space. Whether an employee can override privacy or not depends on the location privacy setup.
 
--   **[[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]**
+-   **Workplace Reservations for Microsoft Outlook Add-in**
 
     In the add-in, the privacy of the spaces that are displayed in the search results depends on their privacy setup. The option **Mark all space details private** is displayed only if the employees are allowed to override their privacy preference for the selected space. Whether an employee can override privacy or not depends on the location privacy setup.
 
--   **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]**
+-   **Workplace Calendar Synchronization**
 
     If a reservation is made using the Reservable Sync Configuration, then the privacy is implemented on the reservation based on the privacy setup made on the building to which the space belongs.
 
@@ -172,12 +172,3 @@ Depending on the location privacy preferences, the following areas are affected.
 
 [Additional details record producer - Mapping Variable types and limitations]()
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -27,7 +27,7 @@ FTP integration helps when you intend to transfer files between ServiceNow and y
 Use Procurement File Transfer Framework for the following activities:
 
 -   Support the FTP-based integration for suppliers.
--   Standardize the file structure, formats, and naming conventions for each [[supplier|supplier]].
+-   Standardize the file structure, formats, and naming conventions for each supplier.
 -   Manage large-scale data through FTP import and export.
 -   Simplify the import and export operations with mid server and flow designer.
 -   Use the file transfer workflows to control the data operations.
@@ -46,7 +46,7 @@ Currently, the following integrations are supported:
 Your suppliers can upload the files with the recommended [folder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/data-sources-info.md) structure and format on the server. ServiceNow imports and exports all the details automatically through scheduled data imports and exports.
 
 -   **[Third‑party registration for PIF and PFTF integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/third-party-registration-for-pif-pftf.md)**  
-Third‑party registration enables you to configure supplier integrations for [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \(PIF\) and Procurement File Transfer Framework \(PFTF\).
+Third‑party registration enables you to configure supplier integrations for Source-to-Pay Integration Framework \(PIF\) and Procurement File Transfer Framework \(PFTF\).
 -   **[Import data using FTP server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ftp-data-import.md)**  
 Import a file from a local source, a remote network server, or another instance by providing a path and authentication information. Transfer and manage procurement data in a principled structure that administrators can use for various data management operations.
 -   **[Perform export steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/validate-errors.md)**  
@@ -75,12 +75,7 @@ The following information can help you with the FTP import and export data.
 
 [Source-to-Pay Operations integration with Contract Management Pro]()
 
-[ERP source validation on [[psm-overview|Sourcing and Procurement Operations]] objects]()
+[ERP source validation on Sourcing and Procurement Operations objects]()
 
 [SpendInt APIs]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[psm-overview|Sourcing and Procurement Operations]]

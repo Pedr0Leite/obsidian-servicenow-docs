@@ -12,13 +12,13 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Roles installed with Customer Service Management
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between users.
+The Customer Service Management application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between users.
 
 ## Primary roles
 
 Customer Service Management provides several primary roles that support the following business models:
 
--   Business-to-business \(B2B\): With this business model, you can support accounts and contacts. Additionally, you can [[configure-data-model-relationships|create relationships]] and account teams to support your customers.
+-   Business-to-business \(B2B\): With this business model, you can support accounts and contacts. Additionally, you can create relationships and account teams to support your customers.
 -   Business-to-consumer \(B2C\): With this business model, you can support individual consumers.
 
 These roles ensure access to data while maintaining data security for different types of business relationships.
@@ -89,12 +89,12 @@ For more information about the CSM primary role structure and included roles, se
 
 ## Explicit roles
 
-You may have business requirements that change the use of these roles. In addition, the [[explicit-roles-in-csm|Explicit Roles in CSM]] feature may assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
+You may have business requirements that change the use of these roles. In addition, the [Explicit Roles in CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explicit-roles-in-csm.md) feature may assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
 
 For more information about reviewing and updating user role assignments, see:
 
 -   [KB0829930](https://support.servicenow.com/kb_view.do?sysparm_article=KB0829930)
--   [[fixing-external-role-assignment|Fix external user role assignments]]
+-   [Fix external user role assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/fixing-external-role-assignment.md)
 
 ## CSM roles and descriptions
 
@@ -164,7 +164,7 @@ Customer service agent with the additional responsibility for managing agents or
 
 -   notify\_view
 
-**Note:** The notify\_view role is added to the sn\_customerservice\_manager role only when the [[chat-zoom-connector|Chat Zoom Connector]] application is installed.
+**Note:** The notify\_view role is added to the sn\_customerservice\_manager role only when the Chat Zoom Connector application is installed.
 
 
 </td></tr><tr><td>
@@ -238,7 +238,7 @@ Partner who is serving customer accounts. A partner can create a case for their 
 -   For their own account.
 -   On behalf of customer accounts that they are related to.
 
-**Note:** If you are establishing a new relationship between a partner and a customer, the partner or partner admin does not have access to historic cases created for the customer. This is because the historic cases do not have the **Partner** or **Partner Contact** fields populated on the [[r_CustomerServiceCaseForm|Case form]].
+**Note:** If you are establishing a new relationship between a partner and a customer, the partner or partner admin does not have access to historic cases created for the customer. This is because the historic cases do not have the **Partner** or **Partner Contact** fields populated on the Case form.
 
 </td><td>
 
@@ -304,7 +304,7 @@ This role provides limited write access to the fields on the Case form. It provi
 -   Additional comments
 -   Attachments
 -   State or stage changes
--   [[customer-service-contributor-users|Contributor users]]
+-   Contributor users
 -   Contributor groups
 -   Watchlist
 -   Work notes list
@@ -319,7 +319,7 @@ Case contributor viewer\[sn\_customerservice.case\_contributor\_viewer\]
 
 </td><td>
 
-This role provides read-only access to all of the tables associated with a case.With this role, a user can view the information in the related [[migration-lists|lists]] for a case if:
+This role provides read-only access to all of the tables associated with a case.With this role, a user can view the information in the related lists for a case if:
 
  -   The user has been added to the **Contributor User** field or the **Contributor Group** field on the Case form.
 -   The user has read-only access to cases through another role, such as the case viewer role \(sn\_customerservice.case\_viewer\) or the case task agent role \(sn\_customerservice.case\_task\_agent\).
@@ -428,11 +428,11 @@ A user who is responsible for activities that require viewing customer project d
 
 </td></tr><tr><td>
 
-[[customer-data|Customer Data]] viewer\[sn\_customerservice.customer\_data\_viewer\]
+Customer Data viewer\[sn\_customerservice.customer\_data\_viewer\]
 
 </td><td>
 
-User with read-only access to customer data entities such as:-   [[install-base-item|Install base items]]
+User with read-only access to customer data entities such as:-   Install base items
 -   Contracts
 -   Entitlements
 -   Accounts, contacts, and account team members
@@ -527,7 +527,7 @@ This role provides access to case tasks from the following modules in CSM Agent 
 
  Users can also:
 
--   Use [[migration-agent-assist|Agent Assist]] to search for knowledge articles \(if the User Criteria is set to provide access to knowledge\).
+-   Use Agent Assist to search for knowledge articles \(if the User Criteria is set to provide access to knowledge\).
 -   Create email \(if the user has write access to the record and the email\_composer role\).
 -   View response templates \(if response templates have been configured for the record.
 
@@ -695,39 +695,21 @@ Role required to create, view, update and delete records in the following tables
 sn\_csm\_case\_type.config\_viewer
 
 </td></tr></tbody>
-</table>-   **[[customer-service-internal-user-data|Internal user data]]**  
+</table>-   **[Internal user data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-internal-user-data.md)**  
 Internal user data includes information about the users who are internal to your organization, such as managers, agents, and other employees. Internal users can also belong to user groups.
--   **[[business-stakeholder-for-csm|Business Stakeholder for Customer Service Management]]**  
+-   **[Business Stakeholder for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/business-stakeholder-for-csm.md)**  
 Business Stakeholder for Customer Service Management includes plugins and roles that provide access to business stakeholder features.
 -   **[Explicit Roles in CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explicit-roles-in-csm.md)**  
 You can give both internal users and external users access to your instance. However, you might not want both types of users to have the same level of access. To provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.
--   **[[t_ProvideExternalUsersAccessToTables|Provide external users access to a table]]**  
+-   **[Provide external users access to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ProvideExternalUsersAccessToTables.md)**  
 To enable users with only the snc\_external role to access the list view of a table, you must create a series of ACLs.
--   **[[creating-custom-csm-user-roles|Creating custom user roles]]**  
+-   **[Creating custom user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/creating-custom-csm-user-roles.md)**  
 System administrators can create custom roles or modify the access of existing roles by using script includes and extension points/instances.
 
-**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
 **Related topics**  
 
 
 [Fix external user role assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/fixing-external-role-assignment.md)
 
-## Related
-
-- [[explicit-roles-in-csm|Explicit Roles in CSM]]
-- [[fixing-external-role-assignment|Fix external user role assignments]]
-- [[customer-service-internal-user-data|Internal user data]]
-- [[business-stakeholder-for-csm|Business Stakeholder for Customer Service Management]]
-- [[t_ProvideExternalUsersAccessToTables|Provide external users access to a table]]
-- [[creating-custom-csm-user-roles|Creating custom user roles]]
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[chat-zoom-connector|Chat Zoom Connector]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[migration-lists|Lists]]
-- [[customer-data|Customer data]]
-- [[install-base-item|Install base items]]
-- [[migration-agent-assist|Agent assist]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist, Third-party Risk Management, Governance, Ris
 
 # Activate TPRM issue recommendation skill
 
-Activate the [[issue-recommendation-tprm|TPRM issue recommendation skill]] from Now Assist for TPRM to generate recommendations for TPRM issues.
+Activate the TPRM issue recommendation skill from Now Assist for TPRM to generate recommendations for TPRM issues.
 
 ## Before you begin
 
@@ -92,6 +92,3 @@ sn\_tprm\_genai.nowassist\_user
 
 You can now use the recommendation for TPRM issues skill. You can generate issue recommendations for questionnaires that are part of an external assessment with responses received. For more information, see [Generate issue recommendations for TPRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md).
 
-## Related
-
-- [[issue-recommendation-tprm|TPRM issue recommendation skill]]

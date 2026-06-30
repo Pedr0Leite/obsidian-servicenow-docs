@@ -20,7 +20,7 @@ The Vaccinations widget displays a list of vaccines recommended for the logged-i
 
 ## Key features
 
--   Displayed only for a logged-in user with the personal information completed and when the [[hcls-vam|Vaccine Administration Management]] application is installed.
+-   Displayed only for a logged-in user with the personal information completed and when the Vaccine Administration Management application is installed.
 -   By default, shows maximum of three programs from the vaccination programs list that the user is eligible for in ascending order by the date administered.
 -   Shows all the suggested and completed vaccinations in the respective sections when a user clicks **View all** on the widget.
 
@@ -45,6 +45,3 @@ Maximum number of vaccination programs that appear on the widget. The default va
 </td></tr></tbody>
 </table>**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

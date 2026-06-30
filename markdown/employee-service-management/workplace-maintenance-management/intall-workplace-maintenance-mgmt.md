@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Maintenance Management, Workplace Service Deli
 
 # Install Workplace Maintenance Management
 
-Install the [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] \( application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Maintenance Management \( application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Installing Workplace Maintenance Management \(sn\_wsd\_maintenance\) activates/i
     The list displays the subscriptions that your organization has purchased.
 
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
-    -   [[workplace-central-feat|Workplace Central]] \(sn\_wsd\_central\)
+    -   Workplace Core \(sn\_wsd\_core\)
+    -   Workplace Central \(sn\_wsd\_central\)
     -   Enterprise Model and Asset Classes \(sn\_ent\)
-    -   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
-    -   [[workplace-move-mgmt-overview|Workplace Move Management]]
+    -   Workplace Case Management \(sn\_wsd\_case\)
+    -   Workplace Move Management
 
 Use the following details when required:
 
@@ -67,10 +67,3 @@ Workplace Maintenance Management is installed.
 
 **Next topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/manage-maintenance-plans.md)
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

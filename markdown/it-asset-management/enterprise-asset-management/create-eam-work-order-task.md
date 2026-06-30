@@ -14,7 +14,7 @@ breadcrumb: [Create a work order for an enterprise asset, Managing work orders f
 
 # Create a work order task for an Enterprise Asset Management work order
 
-Create a work order task to track and manage an individual task for your [[enterprise-asset-management|Enterprise Asset Management]] work order.
+Create a work order task to track and manage an individual task for your Enterprise Asset Management work order.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  On the **Work orders** tab, select the work order to which you want to add a work order task.
 
@@ -186,7 +186,3 @@ Actual completion date and time of the work order task.
 -   The work order task is created in the **Draft** state.
 -   Assets associated with the work order are added to the work order task and listed on the **Affected assets** tab.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

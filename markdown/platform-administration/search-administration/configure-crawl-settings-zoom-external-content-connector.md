@@ -15,7 +15,7 @@ breadcrumb: [Zoom external content connector, Configure, External Content Connec
 
 # Configure crawl settings for a Zoom external content connector
 
-Specify the content types you want your [[zoom-external-content-connector|Zoom external content connector]] to retrieve.
+Specify the content types you want your Zoom external content connector to retrieve.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. By default, the Zoom external content connector crawls all webinars and meetings found in its specified source system and sends their searchable content and metadata to [[ia-ai-search|AI Search]] for indexing. Only perform this task if you want the connector to exclude content from webinars or from meetings.
+This task is optional. By default, the Zoom external content connector crawls all webinars and meetings found in its specified source system and sends their searchable content and metadata to AI Search for indexing. Only perform this task if you want the connector to exclude content from webinars or from meetings.
 
 Content is only retrieved from the source system if it passes all of your configured crawl setting filters. If any crawl setting filter excludes a content item, the external content connector doesn't retrieve it.
 
@@ -35,7 +35,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -90,8 +90,3 @@ To retrieve content from your Zoom source system using your modified crawl setti
 
 **Parent Topic:**[Zoom external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zoom-external-content-connector.md)
 
-## Related
-
-- [[zoom-external-content-connector|Zoom external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

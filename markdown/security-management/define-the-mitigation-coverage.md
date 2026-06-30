@@ -21,13 +21,13 @@ Define the mitigation coverage for each mitigation that is associated with a tec
 
 ## About this task
 
-The mitigation coverage definitions are used in the overall mitigation and technique coverage [[mapping-logrhythm|mapping]]. You can use the base system mitigation coverage. The base system mitigation coverage consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system mitigation coverage is also associated with pre-defined colors, and coverage percentages. You can customize the coverage types \(add or remove coverage types\), coverage percentages for lower limits and higher limits, and colors, or create your custom mitigation coverage.
+The mitigation coverage definitions are used in the overall mitigation and technique coverage mapping. You can use the base system mitigation coverage. The base system mitigation coverage consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system mitigation coverage is also associated with pre-defined colors, and coverage percentages. You can customize the coverage types \(add or remove coverage types\), coverage percentages for lower limits and higher limits, and colors, or create your custom mitigation coverage.
 
-The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [[mitre-att-ck-heatmap-and-navigator|heat map]].
+The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [heat map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Mitigation Coverage Definition**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Mitigation Coverage Definition**.
 
 2.  Review the mitigation detection entries and customize the entries for your environment.
 
@@ -45,7 +45,7 @@ Overall Technique Mitigation Coverage
 
 </td><td>
 
-Name of the technique mitigation coverage. The [[technique-mitigation-coverage-definitions|base system mitigation coverage]] consists of None, Poor, Fair, Good, Very Good, or Excellent.
+Name of the technique mitigation coverage. The [base system mitigation coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/technique-mitigation-coverage-definitions.md) consists of None, Poor, Fair, Good, Very Good, or Excellent.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Overall mitigation detection coverage. See the base system definition in the [te
 -   **[Technique mitigation coverage definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/technique-mitigation-coverage-definitions.md)**  
 Define your organization's mitigation coverage so that you can effectively measure and detect specific adversary techniques.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -125,7 +125,7 @@ Define your organization's mitigation coverage so that you can effectively measu
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -143,11 +143,3 @@ Define your organization's mitigation coverage so that you can effectively measu
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[technique-mitigation-coverage-definitions|Technique mitigation coverage definitions]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

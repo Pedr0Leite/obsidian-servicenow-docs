@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
 2.  On the Service Catalog Configuration form, select the **Mobile** section.
 
@@ -80,7 +80,7 @@ Option to define the non-availability behavior of a catalog item. Possible optio
 
 </td></tr><tr><td>
 
-Primary color for buttons in the catalog [[now-mobile-catalog|request experience in Now Mobile]] \(**glide.sc.mobile.primary\_color**\). If Next Experience is turned on, the property will be ignored.
+Primary color for buttons in the catalog request experience in Now Mobile \(**glide.sc.mobile.primary\_color**\). If Next Experience is turned on, the property will be ignored.
 
 </td><td>
 
@@ -168,10 +168,5 @@ Not viewable in search and browse experience
 
 [Enable the cart in Now Mobile]()
 
-[Edit the [[label|label]] of Submit button for a record producer]()
+[Edit the label of Submit button for a record producer]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[now-mobile-catalog|Request experience in Now Mobile]]
-- [[label|Label]]

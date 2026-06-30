@@ -14,9 +14,9 @@ breadcrumb: [Health and Safety Core, Health and Safety, Employee Service Managem
 
 # Working with the Health and Safety dashboard
 
-With the [[health-safety-overview|Health and Safety]] dashboard, you can actively monitor and manage workplace safety performance across different locations in your organization and identify areas needing attention.
+With the Health and Safety dashboard, you can actively monitor and manage workplace safety performance across different locations in your organization and identify areas needing attention.
 
-When you have the Generative AI plugin installed, you can view the [[hs-incident-pattern-analysis|incident pattern analysis]] tab on the dashboard. For more information, see [Incident pattern analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md).
+When you have the Generative AI plugin installed, you can view the incident pattern analysis tab on the dashboard. For more information, see [Incident pattern analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md).
 
 \[Omitted image "hs-health-safety-dashboard.gif"\] Alt text: Health and Safety dashboard showing safety incidents metrics in the Highlights, Incident Management, and Risk Management tabs.
 
@@ -64,7 +64,7 @@ You can customize the widgets in the dashboard to display relevant metrics by us
 
 ## Access the Health and Safety dashboard
 
-To open the Health and Safety dashboard, navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+To open the Health and Safety dashboard, navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 **Related topics**  
 
@@ -73,8 +73,3 @@ To open the Health and Safety dashboard, navigate to **Workspaces** &gt; **[[hea
 
 [Monitoring and analyzing safety risk metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-monitoring-analyzing-safety-risk-metrics.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-pattern-analysis|Incident pattern analysis]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

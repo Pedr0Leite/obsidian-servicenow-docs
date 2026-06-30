@@ -12,7 +12,7 @@ breadcrumb: [Retail organization data model, Reference, Retail]
 
 # Retail organization data model tables
 
-Tables configured within the [[rahi-retail-operations-overview|Retail]] Operations application enable you to determine the data model, tasks, and product offerings for your Retail Operations workflows.
+Tables configured within the Retail Operations application enable you to determine the data model, tasks, and product offerings for your Retail Operations workflows.
 
 ## Retail organization table
 
@@ -80,7 +80,7 @@ Indicates whether this is considered a flagship retail organization location.
 </td></tr></tbody>
 </table>## Retail case table
 
-The Retail case \[sn\_retail\_case\] table stores information about your [[rahi-retail-retail-case-types|retail case types]] and provides the basis for retail case creation.
+The Retail case \[sn\_retail\_case\] table stores information about your retail case types and provides the basis for retail case creation.
 
 The Retail case \[sn\_retail\_case\] table extends the Customer Service Management case table. All functionality used through the Customer Service Management case remains intact.
 
@@ -99,10 +99,5 @@ The Retail case \[sn\_retail\_case\] table can be extended to expand the flow an
 |Assignment Group|The associated assignment group responsible for working on this request.|
 |Assigned to|Person primarily responsible for working on this request.|
 
-**Parent Topic:**[[rahi-retail-data-model|Retail organization data model]]
+**Parent Topic:**[Retail organization data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-data-model.md)
 
-## Related
-
-- [[rahi-retail-data-model|Retail organization data model]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-case-types|Retail case types]]

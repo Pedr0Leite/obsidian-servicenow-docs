@@ -14,8 +14,5 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Integration of Health and Safety applications with third-party services
 
-Extend the capabilities of the [[health-safety-overview|Health and Safety]] applications by integrating it with other third-party systems.
+Extend the capabilities of the Health and Safety applications by integrating it with other third-party systems.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

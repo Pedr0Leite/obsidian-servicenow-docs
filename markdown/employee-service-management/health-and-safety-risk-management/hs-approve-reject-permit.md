@@ -14,7 +14,7 @@ breadcrumb: [Permit-to-work system, Use, Health and Safety Risk Management, Heal
 
 # Approve or reject a permit-to-work request
 
-Review the permit and approve or reject it through [[employee-center-landing-page|Employee Center]].
+Review the permit and approve or reject it through Employee Center.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ The permit is approved or rejected in the system and the permit requestor can vi
 
 **Parent Topic:**[Permit-to-work system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-permit-to-work.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

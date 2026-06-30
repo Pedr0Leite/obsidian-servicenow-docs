@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Use the Agent Client Collector Health Dashboard
 
-The [[acc-landing-page|Agent Client Collector]] Health Dashboard enables you to monitor the status of the agents in your system.
+The Agent Client Collector Health Dashboard enables you to monitor the status of the agents in your system.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **[[agent-health-dashboard|Agent Health Dashboard]]**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agent Health Dashboard**.
 
     The **Agent Health Dashboard** page appears and displays information about the configured agents in the dashboard widgets.
 
@@ -37,7 +37,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[agent-health-dashboard|Agent Health dashboard]]

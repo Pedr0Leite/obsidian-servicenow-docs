@@ -14,9 +14,9 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 # Client software distribution from SCCM
 
-You can use [[c_ClientSoftwareDistribution|Client Software Distribution]] \(CSD\) to deploy and revoke software deployments from Microsoft System Center [[manage-cmdb|Configuration Management]] \(SCCM\) and manage distributions on SCCM hosts.
+You can use Client Software Distribution \(CSD\) to deploy and revoke software deployments from Microsoft System Center Configuration Management \(SCCM\) and manage distributions on SCCM hosts.
 
-The [SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md) contains Orchestration activities that CSD uses to deploy software from a [[service-catalog|service catalog]] request and manage user and device collections on SCCM servers. In addition, CSD can manage license counts for deployed software using ServiceNow Software Asset Management, revoke software deployed by SCCM without user interaction, and manage lease periods.
+The [SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md) contains Orchestration activities that CSD uses to deploy software from a service catalog request and manage user and device collections on SCCM servers. In addition, CSD can manage license counts for deployed software using ServiceNow Software Asset Management, revoke software deployed by SCCM without user interaction, and manage lease periods.
 
 -   **[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)**  
 Follow the SCCM configuration procedures in the order shown.
@@ -29,8 +29,3 @@ An administrator can revoke software without any user interaction using Microsof
 
 **Parent Topic:**[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[manage-cmdb|Configuration Management]]
-- [[service-catalog|Service Catalog]]

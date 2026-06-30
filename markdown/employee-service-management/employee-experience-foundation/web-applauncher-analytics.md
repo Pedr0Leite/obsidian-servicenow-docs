@@ -16,7 +16,7 @@ breadcrumb: [App Launcher, Setup task management, Configuring Employee Center Pr
 
 Visually analyze app usage, user behavior, and other information from the user experience dashboard.
 
-You can use the dashboard to view the information about application usage, application engagement, and [[web-application-employee-about|app launcher]] adoption. You can track the App launcher usage, analyze app adoption rate, and user [[activity-lxp|activity]] to drive future business decisions.
+You can use the dashboard to view the information about application usage, application engagement, and app launcher adoption. You can track the App launcher usage, analyze app adoption rate, and user activity to drive future business decisions.
 
 Navigate to **User Experience Analytics** &gt; **Dashboard** for a detailed view and analysis. Click the respective widget or chart for more information.
 
@@ -47,7 +47,3 @@ View and analyze the information available in your dashboard by each app source,
 -   Analyze the trend of user activity periodically.
 -   Assess the user behavior and insights and drive business decisions.
 
-## Related
-
-- [[web-application-employee-about|App Launcher]]
-- [[activity-lxp|Activity]]

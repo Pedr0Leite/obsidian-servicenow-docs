@@ -12,13 +12,13 @@ breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
 
 # Install Vault plugins
 
-Learn how to review and install the necessary plugins for [[servicenow-vault-landing|ServiceNow Vault]].
+Learn how to review and install the necessary plugins for ServiceNow Vault.
 
 ## Before you begin
 
 Role required: Elevate to sn\_vault\_console.vault\_console\_admin role.
 
-ServiceNow Vault is best used with other ServiceNow security products. Make the most of your tools and [[ca-metrics|metrics]] by installing and configuring the plugins listed in step 3.
+ServiceNow Vault is best used with other ServiceNow security products. Make the most of your tools and metrics by installing and configuring the plugins listed in step 3.
 
 ## Procedure
 
@@ -65,7 +65,7 @@ Included with the platform.
 
 </td><td>
 
-[Activate data privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-activate-data-privacy.md)**Note:** [[dps-data-anonymization|Data anonymization]] is installed as part of [Data privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-privacy.md).
+[Activate data privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-activate-data-privacy.md)**Note:** Data anonymization is installed as part of [Data privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-privacy.md).
 
 </td></tr><tr><td>
 
@@ -73,40 +73,27 @@ Included with the platform.
 
 </td><td>
 
-[Requesting Cloud [[encryption-landing|Encryption]] for instances with Now Support Service Catalog \[KB1117369\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1117369) article in the Now Support Knowledge Base
+[Requesting Cloud Encryption for instances with Now Support Service Catalog \[KB1117369\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1117369) article in the Now Support Knowledge Base
 
 </td></tr><tr><td>
 
-[[field-encryption|Field Encryption]]
+[Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)
 
 </td><td>
 
-[[activate-platform-encryption|Activate Field Encryption]]
+[Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md)
 
 </td></tr><tr><td>
 
--   [[session-access|Zero Trust Access \(ZTA\)]]
--   [[ca-homepage|Continuous Authentication \(CA\)]]
+-   [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md)
+-   [Continuous Authentication \(CA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-homepage.md)
 
 
 </td><td>
 
--   [[activate-session-access|Activating Zero Trust Access]]
--   [[activate-continuous-authentication|Activating Continuous Authentication]]
+-   [Activating Zero Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-session-access.md)
+-   [Activating Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-continuous-authentication.md)
 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[activate-session-access|Activating Zero Trust Access]]
-- [[activate-continuous-authentication|Activating Continuous Authentication]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[ca-metrics|Metrics]]
-- [[dps-data-anonymization|Data anonymization]]
-- [[encryption-landing|Encryption]]

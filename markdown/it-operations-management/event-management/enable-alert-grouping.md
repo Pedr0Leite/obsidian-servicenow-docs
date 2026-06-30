@@ -26,7 +26,7 @@ The scheduled job Service Analytics: Group Alerts Using RCA/Alert Aggregation he
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Alert Correlation Properties**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Alert Correlation Properties**.
 
 2.  On the Alert Correlation Properties page, enable the relevant properties.
 
@@ -34,7 +34,7 @@ The scheduled job Service Analytics: Group Alerts Using RCA/Alert Aggregation he
     -   Enable Network Traffic correlation \(**sa\_analytics.agg.query\_network\_traffic\_correlation\_enabled**\).
     -   Enable ML based Automation correlation \(**sa\_analytics.specific\_patterns\_enabled**\).
     -   Enable Text based correlation \(**sa\_analytics.text\_based\_group\_enabled**\).
-    -   “Group by” property, with comma-separated list of field names that need to have matching values across alerts to allow alerts to be grouped together. The property can contain alert field names \(such as assignment\_group\), CI field names \(such as alert\_cmdb\_ci.location\), alert additional info field names \(such as additional\_info.state\) or [[alert-tags|alert tags]] \(such as t\_data\_center\). When the specified field values match each other between alerts, those alerts can be grouped together \(**sa\_analytics.agg.group\_alert\_with\_same\_group\_by\_fields**\).
+    -   “Group by” property, with comma-separated list of field names that need to have matching values across alerts to allow alerts to be grouped together. The property can contain alert field names \(such as assignment\_group\), CI field names \(such as alert\_cmdb\_ci.location\), alert additional info field names \(such as additional\_info.state\) or alert tags \(such as t\_data\_center\). When the specified field values match each other between alerts, those alerts can be grouped together \(**sa\_analytics.agg.group\_alert\_with\_same\_group\_by\_fields**\).
     -   Max number of relations between CIs in a topology which form a CMDB group \(**sa\_analytics.agg.query\_cmdb\_graph\_walk\_nodes**\).
     -   Use all CMDB relations for CMDB group correlation \(**evt\_mgmt.related\_cis\_get\_all\_relation\_types**\).
 3.  Select **Save**.
@@ -57,7 +57,3 @@ The scheduled job Service Analytics: Group Alerts Using RCA/Alert Aggregation he
 
 [Tag cluster alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-clustering-tag-definitions-concept.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-tags|Alert tags]]

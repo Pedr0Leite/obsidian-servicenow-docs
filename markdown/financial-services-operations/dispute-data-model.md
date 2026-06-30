@@ -63,13 +63,8 @@ The following diagram shows the tables and their relationships within the card d
 |Consumer|csm\_consumer|Store information for B2C \(individual\) customers.|
 |Contact|customer\_contact|Maintain customer contact information.|
 
--   **[[dispute-decision-tables|Dispute decision tables]]**  
-Decision tables in [[dispute-management|Dispute Management]] provide decision logic for card dispute processing.
+-   **[Dispute decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-decision-tables.md)**  
+Decision tables in Dispute Management provide decision logic for card dispute processing.
 
-**Parent Topic:**[[data-models|Data Models]]
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/data-models.md)
 
-## Related
-
-- [[dispute-decision-tables|Dispute decision tables]]
-- [[data-models|Data Models]]
-- [[dispute-management|Dispute Management]]

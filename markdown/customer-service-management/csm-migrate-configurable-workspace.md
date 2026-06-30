@@ -12,7 +12,7 @@ breadcrumb: [Migrating to Configurable Workspace, CSM Configurable Workspace, Or
 
 # Migrate to CSM Configurable Workspace
 
-Follow the instructions in this topic to migrate from CSM Agent Workspace to [[csm-workspaces-configure|CSM Configurable Workspace]].
+Follow the instructions in this topic to migrate from CSM Agent Workspace to CSM Configurable Workspace.
 
 If you are currently using CSM Agent Workspace and want to migrate to CSM Configurable Workspace, you can continue using most of your existing configurations. Some features, however, need to be configured specifically for CSM Configurable Workspace. You can migrate some of the configurations using lists and forms and others using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md) tool.
 
@@ -53,36 +53,18 @@ This section provides information, parameters, and steps to complete the migrati
 
 |Feature|Description|
 |-------|-----------|
-|[[migration-activity-stream|Activity stream]]|Activity Stream enables agents to communicate with requesters and make internal notes about the work done on a record.|
-|[[migration-agent-assist|Agent assist]]|Agent assist provides agents with automatic search results that show possible solutions for records they open.|
-|[[migration-agent-chat|Agent Chat for Customer Service Management Configurable Workspace]]|Agent Chat enables agents to interact with customers, create incident or case records, or transfer chats to another agent or queue.|
-|[[migration-branding-theming|Branding and theming]]|Branding and theming enables you to customize your Configurable Workspace to your company branding and theming.|
-|[[migration-compose-preview-email|Email Composer and Email Viewer]]|The Email Composer enables requestors and fulfillers to use email to communicate.|
-|[[migration-custom-central|Customer Central]]|Customer Central displays all the touch [[gamification-components-points|points]] that a customer has had with a contact center in the form of information cards.|
-|[[migration-form-declarative-actions|Declarative actions]]|Declarative actions add custom functionality to your Workspace forms, fields, lists, and related lists without writing custom scripts or learning APIs.|
-|[[migration-forms|Forms]]|The form is the user interface where agents do most of their work.|
-|[[migration-form-headers|Form headers]]|Form headers provide an overview of the record.|
-|[[migration-search-config|Global Search in configurable workspaces]]|Global Search provides users with the ability to search for information within the defined search sources.|
-|[[migration-form-highlights|Highlights]]|Highlights provide background color that visually expresses the status of a highlighted value.|
-|[[migration-lists|Lists]]|The list view displays filtered lists of records, such as All tasks, Open tasks, and My tasks.|
-|[[migration-form-ribbons|Ribbons]]|Ribbons help agents quickly scan relevant information about a record, such as a timeline, a user, or a customer summary.|
-|[[migration-form-ui-actions|UI Action Bar]]|UI actions include custom buttons, menu items, and limiting access to forms based on user role.|
+|[Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-activity-stream.md)|Activity Stream enables agents to communicate with requesters and make internal notes about the work done on a record.|
+|[Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-agent-assist.md)|Agent assist provides agents with automatic search results that show possible solutions for records they open.|
+|[Agent Chat for Customer Service Management Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-agent-chat.md)|Agent Chat enables agents to interact with customers, create incident or case records, or transfer chats to another agent or queue.|
+|[Branding and theming](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-branding-theming.md)|Branding and theming enables you to customize your Configurable Workspace to your company branding and theming.|
+|[Email Composer and Email Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-compose-preview-email.md)|The Email Composer enables requestors and fulfillers to use email to communicate.|
+|[Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-custom-central.md)|Customer Central displays all the touch points that a customer has had with a contact center in the form of information cards.|
+|[Declarative actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-declarative-actions.md)|Declarative actions add custom functionality to your Workspace forms, fields, lists, and related lists without writing custom scripts or learning APIs.|
+|[Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-forms.md)|The form is the user interface where agents do most of their work.|
+|[Form headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-headers.md)|Form headers provide an overview of the record.|
+|[Global Search in configurable workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-search-config.md)|Global Search provides users with the ability to search for information within the defined search sources.|
+|[Highlights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-highlights.md)|Highlights provide background color that visually expresses the status of a highlighted value.|
+|[Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-lists.md)|The list view displays filtered lists of records, such as All tasks, Open tasks, and My tasks.|
+|[Ribbons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-ribbons.md)|Ribbons help agents quickly scan relevant information about a record, such as a timeline, a user, or a customer summary.|
+|[UI Action Bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-ui-actions.md)|UI actions include custom buttons, menu items, and limiting access to forms based on user role.|
 
-## Related
-
-- [[migration-activity-stream|Activity stream]]
-- [[migration-agent-assist|Agent assist]]
-- [[migration-agent-chat|Agent Chat for Customer Service Management Configurable Workspace]]
-- [[migration-branding-theming|Branding and theming]]
-- [[migration-compose-preview-email|Email Composer and Email Viewer]]
-- [[migration-custom-central|Customer Central]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[migration-forms|Forms]]
-- [[migration-form-headers|Form headers]]
-- [[migration-search-config|Global Search in configurable workspaces]]
-- [[migration-form-highlights|Highlights]]
-- [[migration-lists|Lists]]
-- [[migration-form-ribbons|Ribbons]]
-- [[migration-form-ui-actions|UI Action Bar]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]

@@ -38,7 +38,7 @@ The following list is a high-level overview of the workflow to get started local
 
 5.  [Set up locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_LocationSetup.md)
 
-    Configure the locations that your organization supports to help identify users, [[ia-assets|assets]], incidents, and more by location.
+    Configure the locations that your organization supports to help identify users, assets, incidents, and more by location.
 
 6.  [Create regions for language selection in portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/create-regions.md)
 
@@ -49,9 +49,5 @@ The following list is a high-level overview of the workflow to get started local
     If you activate other application plugins after having activated language plugins, translated choices in lists might not appear for the applications or features installed by their plugins. Ensure that translated choices appear for those applications by activating translated choice records after corresponding English choice records have been added by plugins.
 
 
-After you configure your instance using the [[ia-localization-il|localization]] options and supported languages, you might need to translate custom content or translate the instance to an unsupported language. For more information, see [Translating custom content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translating-applications.md) and [Translating to an unsupported language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md).
+After you configure your instance using the localization options and supported languages, you might need to translate custom content or translate the instance to an unsupported language. For more information, see [Translating custom content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translating-applications.md) and [Translating to an unsupported language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md).
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[ia-localization-il|Localization]]

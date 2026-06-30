@@ -45,7 +45,7 @@ By default, a TPRM issue in the Third-party Risk Management application shows th
 
     1.  Review the data that the LLM considers while creating the summary, such as the Base table and Input templates used to collect data by selecting **Choose input**.
 
-        The Base table and Input templates define how data is structured and transmitted to a large language model \(LLM\) for generating responses as part of the [[issue-summarization-tprm|TPRM issue summarization skill]]. These fields are read-only.
+        The Base table and Input templates define how data is structured and transmitted to a large language model \(LLM\) for generating responses as part of the TPRM issue summarization skill. These fields are read-only.
 
     2.  Select **Define availability** review or update the conditions when the skill becomes available.
 
@@ -65,6 +65,4 @@ By default, a TPRM issue in the Third-party Risk Management application shows th
 
 8.  Select **Activate** and then select **Risk &amp; Sustainability**.
 
-## Related
 
-- [[issue-summarization-tprm|TPRM issue summarization skill]]

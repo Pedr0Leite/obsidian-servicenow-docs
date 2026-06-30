@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in AI Search reference, Now Assist in AI Search, Service
 
 # Components installed with Now Assist in AI Search
 
-The [[now-assist-ais|Now Assist in AI Search]] application installs new system components including [[c_ScheduledJobs|scheduled jobs]] and Entity View Action Mapping \(EVAM\) [[clone-configurations-tab|configurations]] and templates.
+The Now Assist in AI Search application installs new system components including scheduled jobs and Entity View Action Mapping \(EVAM\) configurations and templates.
 
 ## Scheduled jobs installed with Now Assist in AI Search
 
@@ -33,7 +33,7 @@ Update Semantic Cache
 
 </td><td>
 
--   Populate the second-level [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] cache with [[hs-results|results]] for the most frequently submitted queries found in the Search Event \[sys\_search\_event\] search signal table. For more information on this table, see [Search signal tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-signal-tables.md).
+-   Populate the second-level Now Assist Q&amp;A Genius Results cache with results for the most frequently submitted queries found in the Search Event \[sys\_search\_event\] search signal table. For more information on this table, see [Search signal tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-signal-tables.md).
 -   Purge all unpinned entries in the Now Assist Q&amp;A Genius Results second-level cache that have not been used in the past seven days. Search administrators can pin results in the second-level cache table to prevent them from being purged. For more details on this procedure, see [Pin cached answers for Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/caching-now-assist-q-a-gr.md).
 
 </td></tr></tbody>
@@ -49,12 +49,12 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ia-ai-search|AI Search]] Global - Now Assist Q&amp;A Genius Result
+AI Search Global - Now Assist Q&amp;A Genius Result
 
 </td><td>
 
-Contains the view configuration settings for the Now Assist Q&amp;A Genius Result configuration in [[ais-next-experience-app|AI Search for Next Experience]] global search.-   Application scope: Now Assist in AI Search
--   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **View Configurations**
+Contains the view configuration settings for the Now Assist Q&amp;A Genius Result configuration in AI Search for Next Experience global search.-   Application scope: Now Assist in AI Search
+-   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Configurations**
 
 </td></tr><tr><td>
 
@@ -124,18 +124,7 @@ Contains the component, static value, field-mapping, and action-mapping settings
 </td></tr></tbody>
 </table>## List of all components installed with Now Assist in AI Search
 
-To view the complete list of components installed with Now Assist in AI Search, follow the steps in [[find-components|Find components installed with an application]]. The application's package name is **Now Assist in AI Search**.
+To view the complete list of components installed with Now Assist in AI Search, follow the steps in [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md). The application's package name is **Now Assist in AI Search**.
 
 **Parent Topic:**[Now Assist in AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-now-assist-ais.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[clone-configurations-tab|Configurations]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

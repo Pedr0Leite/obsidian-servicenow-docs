@@ -16,9 +16,9 @@ breadcrumb: [Setup task management, Configuring Employee Center Pro, Employee Ce
 
 Using org chart, learn more about other employees and understand team structures at the organization.
 
-You can offer a better org chart experience with the new org chart functionality available in the [[employee-center-pro-landing|Employee Center Pro]] application. The newer org chart provides an updated UI experience and more configuration capabilities than the older org chart available in the Content Publishing application.
+You can offer a better org chart experience with the new org chart functionality available in the Employee Center Pro application. The newer org chart provides an updated UI experience and more configuration capabilities than the older org chart available in the Content Publishing application.
 
-**Note:** Ensure that you install [[emp-slate-employee-profile|Employee Profile]] plugin 5.0.1 and [[profile-opt-in|opt in to the Employee Profile]].
+**Note:** Ensure that you install Employee Profile plugin 5.0.1 and opt in to the Employee Profile.
 
 As an admin, you can perform the following org chart configuration steps:
 
@@ -39,8 +39,3 @@ As an admin, you can perform the following org chart configuration steps:
 
 [Modify the org chart widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-orgchart-instanceoptions.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[profile-opt-in|Opt in to the employee profile]]

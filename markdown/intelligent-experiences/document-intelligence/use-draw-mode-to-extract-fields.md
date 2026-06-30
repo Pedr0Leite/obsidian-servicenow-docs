@@ -16,13 +16,13 @@ breadcrumb: [Complete a document task, Use, Document Intelligence, Enable AI exp
 
 Use the draw tool to extract information directly from text andtables on the document image.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the draw tool
 
 When viewing a processed document in the Document Intelligence workspace, you can use the draw tool to extract and review fields from the document image.
 
-Especially in [[cases|cases]] when there are no recommendations yet or incorrect recommendations, the draw tool is useful for selecting the specific area on the document you want to extract.
+Especially in cases when there are no recommendations yet or incorrect recommendations, the draw tool is useful for selecting the specific area on the document you want to extract.
 
 Any extracted table fields should already appear in a grid over the table. An extracted single field appears as a labeled box over the text.You can review the extracted fields right from the grid or boxand make adjustments as needed. If the table fields are empty or there is no grid, you can create one or more grids over the table to extract the fields.
 
@@ -48,7 +48,7 @@ If the field is auto-filled, a box already appears over the extracted text. You 
 
 2.  Select a field.
 
-    The Draw Tool icon \(\[Omitted image "icon-docintel-draw-mode2.png"\] Alt text: Draw Tool icon.\) is enabled in the document [[controls|controls]] toolbar.
+    The Draw Tool icon \(\[Omitted image "icon-docintel-draw-mode2.png"\] Alt text: Draw Tool icon.\) is enabled in the document controls toolbar.
 
     If the field is already auto-filled and the box appears over the field, or if you’ve already drawn a box, proceed to step 5.
 
@@ -357,9 +357,4 @@ Use the following steps to change to a field by editing the recommendation on th
 
 3.  Select **Save**.
 
-## Related
 
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]
-- [[controls|Controls]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Care Team Operations for Biomed, Healthcare Operations, He
 
 Use the Healthcare Biomed case to create case types for biomed related healthcare operational requests.
 
-\[Omitted image "hco\_biomed\_case.png"\] Alt text: A healthcare biomed case created for [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+\[Omitted image "hco\_biomed\_case.png"\] Alt text: A healthcare biomed case created for Care Team Operations for Biomed.
 
 If the Field Service Management \[com.snc.work\_management\] plugin is installed, Healthcare Biomed cases automatically generate related work orders which are assigned to supporting agents with the fulfiller role. If this plugin isn’t installed, support agents must fulfill the case itself.
 
@@ -38,11 +38,7 @@ Comments on the Healthcare Biomed case are viewable on the work order, and comme
 
 \[Omitted image "cto-it-state-sync.png"\] Alt text: State sync between work orders and healthcare biomed cases.
 
-The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the [[care-team-portal-landing|Care Team Portal]] to track your case state in real time through viewing case details in the portal.
+The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details in the portal.
 
 **Note:** In Care Team Operations for Biomed, case data only synchronizes with work orders and does not synchronize with work order tasks. Only updates made to the work order affects the associated case data.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[care-team-portal-landing|Care Team Portal]]

@@ -18,7 +18,7 @@ Learn how to create and manage critical event tickets, assign tasks to on-site r
 
 ## Critical Event Management overview
 
-[[critical-event-management|Critical Event Management]] offers a platform to report and manage critical situations. Employees or operators report an event, and on-site responders assist the impacted people. The operator monitors the critical event closely until it’s resolved.
+Critical Event Management offers a platform to report and manage critical situations. Employees or operators report an event, and on-site responders assist the impacted people. The operator monitors the critical event closely until it’s resolved.
 
 ## Critical Event Management Users
 
@@ -53,7 +53,7 @@ Learn how to create and manage critical event tickets, assign tasks to on-site r
 
 6.  Close the critical event
 
-    Once the situation is resolved, the agent resolves the critical event, creates [[health-safety-overview|Health and Safety]] incidents if needed, and then closes the event.
+    Once the situation is resolved, the agent resolves the critical event, creates Health and Safety incidents if needed, and then closes the event.
 
 
 ## Critical Event Management benefits
@@ -80,7 +80,3 @@ To learn more about configuring and using Critical Event Management, see:
 -   [Sending notifications during a critical event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/notify-impacted-people.md)
 -   [Critical Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management-reference.md)
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]

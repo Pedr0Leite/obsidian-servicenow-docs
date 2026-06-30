@@ -14,7 +14,7 @@ breadcrumb: [Workflow concepts, Classic Workflow, ServiceNow AI Platform Additio
 
 # Domain separation and Workflow
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the Workflow application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Workflow application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard\*
 
@@ -26,7 +26,7 @@ Use case: As an admin, I need the ability to make comments mandatory on close of
 
 ## Overview
 
-When domain separation is enabled, workflows and [[c_WorkflowActivities|workflow activities]] inherit the domain of the user who publishes or creates them.
+When domain separation is enabled, workflows and workflow activities inherit the domain of the user who publishes or creates them.
 
 ## How domain separation works in the Workflow application
 
@@ -37,7 +37,7 @@ While workflows are managed by multiple tables, only the following tables are us
 
 **Note:** The Workflow Version table \[wf\_workflow\_version\] table does not contain a domain field; Workflow Version records inherit their domain from the parent Workflow record.
 
-The [[workflow-editor|Workflow Editor]] displays a workflow's domain in the title bar after the workflow name.
+The Workflow Editor displays a workflow's domain in the title bar after the workflow name.
 
 \[Omitted image "WorkflowEditorDomain.png"\] Alt text:
 
@@ -64,8 +64,3 @@ When a user starts a new workflow, the workflow runs with that user's domain and
 
 The workflow preserves a user's domain and credentials until an activity causes the workflow to wait, such as an approval activity waiting for approval or rejection. When the stopped workflow resumes, such as when a user approves a request, the workflow uses the credentials of the approving user, but continues to run within the domain of the original user.
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[workflow-editor|Workflow editor]]

@@ -25,15 +25,11 @@ The cards show aggregate information for all monitors, whether they're active or
 |Failed|Number of total monitors that returned a value other than what was configured as the assertion.|
 |Pending|Number of total monitors that are in the Pending state. Monitors are set to **Pending** before the first test runs.|
 |Paused|Number of total monitors that are in the Paused state. Paused monitors are monitors that have been set to **Monitor disabled** on the Configuration page.|
-|Unknown|Number of total monitors that aren't running due to an issue with the related [[acc-landing-page|Agent Client Collector]] \(ACC\) proxy.|
+|Unknown|Number of total monitors that aren't running due to an issue with the related Agent Client Collector \(ACC\) proxy.|
 
 ## Monitor list
 
 By default, this list displays all monitors that have been created. You can select a card at the top of the page to filter to a list of monitors with that state. Select a monitor to view its details page.
 
-**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
-## Related
-
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[acc-landing-page|Agent Client Collector]]

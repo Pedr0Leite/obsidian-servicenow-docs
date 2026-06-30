@@ -38,7 +38,7 @@ Type
 
 </td><td>
 
-Defines the field type of the column or, if the **Type** is **Collection**, indicates that the dictionary entry represents the table. For more information, see [[c_IntroductionToFields|Field administration]].You can change the type of a field. To preserve existing data, only change between logical types that map to the same physical type on the database. For example, Choice and String.
+Defines the field type of the column or, if the **Type** is **Collection**, indicates that the dictionary entry represents the table. For more information, see [Field administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md).You can change the type of a field. To preserve existing data, only change between logical types that map to the same physical type on the database. For example, Choice and String.
 
 </td></tr><tr><td>
 
@@ -57,11 +57,11 @@ Enables or disables the field. When this check box is cleared, the field is hidd
 
 </td></tr><tr><td>
 
-[[platform-support-functions|Function field]]
+Function field
 
 </td><td>
 
-If selected, creates a field that displays the [[hs-results|results]] of a database function, such as a mathematical operation, field length computation, or day of the week calculation.Once the new function record is saved, you cannot clear the check box to make the field a regular field.
+If selected, creates a field that displays the results of a database function, such as a mathematical operation, field length computation, or day of the week calculation.Once the new function record is saved, you cannot clear the check box to make the field a regular field.
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Mandatory
 
 </td><td>
 
-Determines whether this field must contain a value to save a record. For more information, see [[t_MakingAFieldMandatory|Make a field mandatory]].**Note:** You can override this option for extended tables.
+Determines whether this field must contain a value to save a record. For more information, see [Make a field mandatory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_MakingAFieldMandatory.md).**Note:** You can override this option for extended tables.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Display
 
 </td><td>
 
-Indicates that this field is the [[c_DisplayValues|Display values]] for [[reference-email-admin|reference]] fields. Set this to true for the one field whose value you want to use as the text displayed in links to this table on lists and forms. By default, the **Number** field is the display value for all task tables.**Note:**
+Indicates that this field is the [Display values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) for reference fields. Set this to true for the one field whose value you want to use as the text displayed in links to this table on lists and forms. By default, the **Number** field is the display value for all task tables.**Note:**
 
 -   This option does not control whether a list or form displays this field as part of the layout. Instead, see [List configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/c_ListConfiguration.md) and Personalizing Forms.
 -   The display value becomes part of the form title when viewing an individual record from a table.
@@ -163,7 +163,7 @@ Function definition
 
 </td><td>
 
-Defines the function that the field performs.Starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function [[r_DirectJDBCProbeParameters|parameters]]. Constants must be enclosed in single quotes.
+Defines the function that the field performs.Starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function parameters. Constants must be enclosed in single quotes.
 
 For example, the following function definition creates a field that shows the short description, followed by a space, followed by the caller name:
 
@@ -217,7 +217,7 @@ Reference
 
 </td><td>
 
-Makes the field into a [[c_ReferenceField|Reference field type]].If you enter a name that does not match an existing table, a new table is created when you save your changes to the dictionary record. If the current table has a module in the application navigator, a module for the new table is automatically created in the same application menu.
+Makes the field into a [Reference field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md).If you enter a name that does not match an existing table, a new table is created when you save your changes to the dictionary record. If the current table has a module in the application navigator, a module for the new table is automatically created in the same application menu.
 
 </td></tr><tr><td>
 
@@ -251,7 +251,7 @@ Reference qual \[Advanced view\]
 
 </td><td>
 
-Filters the records available for a reference field if the **Advanced** qualifier type is selected. [[c_ReferenceQualifiers|Reference qualifiers]] can be overridden with [dictionary overrides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryOverrides.md).
+Filters the records available for a reference field if the **Advanced** qualifier type is selected. Reference qualifiers can be overridden with [dictionary overrides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryOverrides.md).
 
 </td></tr><tr><td>
 
@@ -306,7 +306,7 @@ Dependent on field \[Advanced view\]
 
 </td><td>
 
-Specifies a field on which the current field depends. For more information, see [[t_MakingAFieldDependent|Make a field dependent]] **Note:** You can override this value for extended tables.
+Specifies a field on which the current field depends. For more information, see [Make a field dependent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_MakingAFieldDependent.md) **Note:** You can override this value for extended tables.
 
 .
 
@@ -322,13 +322,13 @@ Choice
 
 Allows users to see a list of suggested values in one of the following ways:-   List menu without -- None --
 -   List menu with -- None --
--   [[t_AddingASuggestionField|Suggestion field type]]
+-   [Suggestion field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddingASuggestionField.md)
 
- If a choice is used, either define a [[c_ChoiceLists|Choice list field type]] or use the fields **Choice** table and **Choice** field to copy choices from another field elsewhere in the dictionary.
+ If a choice is used, either define a [Choice list field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ChoiceLists.md) or use the fields **Choice** table and **Choice** field to copy choices from another field elsewhere in the dictionary.
 
 </td></tr><tr><td>
 
-[[r_ChoicesTable|Choice table]] \[Advanced view\]
+Choice table \[Advanced view\]
 
 </td><td>
 
@@ -456,7 +456,7 @@ Provides access to the options in the choice list field you are editing.
 
 </td></tr><tr><td>
 
-[[c_DictionaryOverrides|Dictionary overrides]]
+Dictionary overrides
 
 </td><td>
 
@@ -481,19 +481,3 @@ Provides access to the labels used for the table or field you are editing.
 </td></tr></tbody>
 </table>**Parent Topic:**[Modify dictionary entries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ModifyADictionaryEntryFromAForm.md)
 
-## Related
-
-- [[c_IntroductionToFields|Exploring field administration]]
-- [[t_MakingAFieldMandatory|Make a field mandatory]]
-- [[c_DisplayValues|Display values]]
-- [[c_ReferenceField|Reference field type]]
-- [[t_MakingAFieldDependent|Make a field dependent]]
-- [[t_AddingASuggestionField|Suggestion field type]]
-- [[c_ChoiceLists|Choice list field type]]
-- [[platform-support-functions|Function field]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[r_ChoicesTable|Choice table]]
-- [[c_DictionaryOverrides|Dictionary overrides]]

@@ -14,7 +14,7 @@ breadcrumb: [Qualys, Service Graph Connectors, Integrating third-party data into
 
 # Configure the Service Graph Connector for Qualys
 
-Set up the Qualys environment and scheduled jobs to import in Qualys data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up the Qualys environment and scheduled jobs to import in Qualys data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
@@ -40,13 +40,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Qualys** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Qualys** &gt; **Setup**.
 
 2.  Select **Continue** on the Home page.
 
 3.  Select **Best Experience** and **Continue** on the Experience page.
 
-    On the [[sgc-qualys-integration|Service Graph Connector for Qualys]] page in the Configure the connection page, three tasks are displayed:
+    On the Service Graph Connector for Qualys page in the Configure the connection page, three tasks are displayed:
 
     -   Configure the connection
     -   Add multiple instances
@@ -62,7 +62,7 @@ Role required: admin
 
     1.  In the **Username** and **Password** fields, enter your Qualys user name and password.
 
-    2.  Select the **Active** [[check-box|check box]] to activate the record.
+    2.  Select the **Active** check box to activate the record.
 
     3.  Right-click in the gray header titled Basic Auth Credentials and select **Save**.
 
@@ -76,7 +76,7 @@ Role required: admin
 
         Domain part of the URL without the 'https'. An example might be `qualysapi.qualys.com`.
 
-    2.  If the API is accessible through a [[mid-server-landing|MID Server]], activate the **Use MID Server** check box.
+    2.  If the API is accessible through a MID Server, activate the **Use MID Server** check box.
 
     3.  In the advanced MID Server configuration section select the appropriate MID Server from the MID Selection list.
 
@@ -340,10 +340,4 @@ Leave check box selected. Specifies a script to run after the import is performe
 
 15. On the Service Graph Connector for Qualys page for Guided Setup, select **Complete** to finish the configuration.
 
-## Related
 
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgc-qualys-integration|Service Graph Connector for Qualys]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]

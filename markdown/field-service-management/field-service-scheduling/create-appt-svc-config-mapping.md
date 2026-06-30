@@ -21,7 +21,7 @@ An appointment service configuration mapping contains the service configuration,
 
 Role required: appointment\_booking\_admin
 
-Ensure that the Advanced [[appointment-booking|Appointment Booking]] plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
+Ensure that the Advanced Appointment Booking plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
 
 Ensure you have already created a **Service Configuration**. For more information see, [Create or modify service configuration for Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appt-booking-create-service-config.md).
 
@@ -117,11 +117,7 @@ The schedule that defines which days are considered as holidays and excluded fro
 
 ## What to do next
 
-Both a service configuration mapping and an appointment window configuration are required to [[create-appt-sched|create an Appointment schedule]]. For more information on appointment window configurations, see [Create an Appointment window configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-window-config.md).
+Both a service configuration mapping and an appointment window configuration are required to create an Appointment schedule. For more information on appointment window configurations, see [Create an Appointment window configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-window-config.md).
 
 If a service configuration mapping already exists, see [Create an Appointment schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched.md).
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[create-appt-sched|Create an Appointment schedule]]

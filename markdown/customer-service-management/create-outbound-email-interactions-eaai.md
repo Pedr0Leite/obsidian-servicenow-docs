@@ -12,13 +12,13 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Create outbound email interactions
 
-Initiate an outbound [[email-as-an-interaction|email interaction]] from a contact or consumer record to proactively engage with a customer. The system automatically creates and [[gamification-components-tracks|tracks]] the interaction.
+Initiate an outbound email interaction from a contact or consumer record to proactively engage with a customer. The system automatically creates and tracks the interaction.
 
 ## Before you begin
 
 The Email Interaction for CSM application must be installed and activated.
 
-When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]] [[c_CustomerServiceManagement|Customer Service Management]].
+When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [Using Email Interaction for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-email-interaction-customer-service-management.md) Customer Service Management.
 
 Role required: sn\_customerservice\_agent
 
@@ -53,9 +53,3 @@ Role required: sn\_customerservice\_agent
 -   If a reminder is configured, the system sends an automatic reminder email to the customer if no response is received within the configured period.
 -   If the email remains in draft state for more than 30 days, the interaction is automatically closed with a state of Closed Abandoned. The 30-day period resets each time the agent opens the draft or creates a new draft.
 
-## Related
-
-- [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[gamification-components-tracks|Tracks]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

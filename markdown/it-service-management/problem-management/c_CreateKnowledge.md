@@ -14,9 +14,9 @@ breadcrumb: [Communicating the outcome of a problem, Problem Management, IT Serv
 
 # Knowledge articles from problems
 
-Knowledge bases house the information an organization wants to keep and share. The [[problem-form|Problem form]] includes four options for creating knowledge and communicating information.
+Knowledge bases house the information an organization wants to keep and share. The Problem form includes four options for creating knowledge and communicating information.
 
-**Note:** If you have [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\) activated, see [Create a known error article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-known-error-from-problem.md). The topic applies to legacy Problem \(London or a prior release\) only.
+**Note:** If you have Problem Management Best Practice — Madrid — Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\) activated, see [Create a known error article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-known-error-from-problem.md). The topic applies to legacy Problem \(London or a prior release\) only.
 
 -   You can select the **Knowledge** check box and automatically submit a knowledge article when a problem is closed.
 -   You can enter a workaround note into a problem record, and then post the information into every associated incident.
@@ -32,7 +32,3 @@ As with incidents, problems often generate information that may be needed in the
 
 **Parent Topic:**[Communicating the outcome of a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/communicate-outcome-of-problem.md)
 
-## Related
-
-- [[problem-form|Problem form]]
-- [[c_ProblemManagement|Problem Management]]

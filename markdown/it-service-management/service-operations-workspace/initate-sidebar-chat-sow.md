@@ -68,7 +68,7 @@ Add participants
 
 Options to add participants for the sidebar discussion.**Note:**
 
-If [[c_OnCallScheduling|On-Call Scheduling]] is defined for a group, only members who are on-call will be added as participants. If it is not set up, then all members of the group will be included as participants.
+If On-Call Scheduling is defined for a group, only members who are on-call will be added as participants. If it is not set up, then all members of the group will be included as participants.
 
 Additionally, if On-Call Scheduling is active, and no members are available in a shift, no one will be added to the chat.
 
@@ -90,6 +90,3 @@ Provide a brief summary about the issue to be discussed in the sidebar discussio
 
 **Parent Topic:**[Collaboration in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaboration-sow.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

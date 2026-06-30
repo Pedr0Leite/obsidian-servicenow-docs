@@ -91,7 +91,7 @@ This function enables authenticated users to seamlessly log out from Engagement 
 
     For example, if your customer support portal is **https://www.example.com/support**, then update the code to **guestWalkupBaseUrl = https://www.example.com/support**
 
-    \[Omitted image "em-embed-code-with-walk-up.png"\] Alt text: [[create-engagement-messenger-module|Configure Engagement Messenger]] module with the help of the highlighted steps. For the implementation, use the embed code to fix any unauthenticated user issues.
+    \[Omitted image "em-embed-code-with-walk-up.png"\] Alt text: Configure Engagement Messenger module with the help of the highlighted steps. For the implementation, use the embed code to fix any unauthenticated user issues.
 
 9.  To modify the embed code to set the preferred language in which Engagement Messenger is displayed, do one of the following.
 
@@ -120,6 +120,3 @@ You can also embed Engagement Messenger in your native iOS and android applicati
 -   [Embed Engagement Messenger in a native iOS app using Now Mobile SDK \[KB1587276\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1587276)
 -   [Embed Engagement Messenger in a native android app using Now Mobile SDK \[KB1587611\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1587611)
 
-## Related
-
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

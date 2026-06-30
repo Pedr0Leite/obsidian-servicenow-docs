@@ -34,7 +34,7 @@ Role required: admin
 
     Select the **Field Query Restrict Record Access** attribute.
 
-6.  Enter `true` in the **Value** field to restrict record access to only [[users|users]] who can who can view the field, otherwise enter `false`.
+6.  Enter `true` in the **Value** field to restrict record access to only users who can who can view the field, otherwise enter `false`.
 
 7.  Select **Update**
 
@@ -43,6 +43,3 @@ Role required: admin
 
 The table column will restrict the results of any queries. Restricted users will be informed how many results a query returned, but no further information.
 
-## Related
-
-- [[users|Users]]

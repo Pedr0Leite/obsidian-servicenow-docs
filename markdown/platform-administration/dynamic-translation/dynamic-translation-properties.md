@@ -16,7 +16,7 @@ breadcrumb: [Reference for Dynamic Translation, Dynamic Translation, Translation
 
 Use the Dynamic Translation properties to customize, configure, and control the translation features.
 
-Using the admin role, navigate to **[[dynamic-translation|Dynamic Translation]]** &gt; **Properties** to view and edit these properties.
+Using the admin role, navigate to **Dynamic Translation** &gt; **Properties** to view and edit these properties.
 
 **Note:** Some properties, such as Virtual Agent properties, appear in this module only when related plugins are activated.
 
@@ -91,6 +91,3 @@ Enables dynamic translation for messages that contain URLs.Installed with the Dy
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference for Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

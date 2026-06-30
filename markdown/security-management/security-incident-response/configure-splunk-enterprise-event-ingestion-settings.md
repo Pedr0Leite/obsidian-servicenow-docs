@@ -132,7 +132,7 @@ The delimiter character to split the values in field mappings.sn\_sec\_splunk\_v
 
 </td><td>
 
-Option to specify the delimiter character used to split values in field [[mapping-logrhythm|mapping]].
+Option to specify the delimiter character used to split values in field mapping.
 
 </td></tr></tbody>
 </table>3.  Select **Save**.
@@ -140,6 +140,3 @@ Option to specify the delimiter character used to split values in field [[mappin
 
 **Parent Topic:**[Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-install-and-configure.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

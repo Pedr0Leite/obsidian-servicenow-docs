@@ -14,7 +14,7 @@ breadcrumb: [Service portal configuration for ShoppingHub, Configure, Sourcing a
 
 # Add a Shopping Hub icon link to your service portal
 
-You can add a Shopping Hub icon link to your service portal icons menu so that shoppers can navigate from the service portal to the [[shopping-hub-overview|Shopping Hub]] portal with a single select.
+You can add a Shopping Hub icon link to your service portal icons menu so that shoppers can navigate from the service portal to the Shopping Hub portal with a single select.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: sn\_shop.shopping\_hub\_admin and sp\_admin
     1.  On the **Type** field, select **URL**.
     2.  In the **HREF / URL** field, enter **/now/shopnow?ref=sp\_icon**.
     3.  In the **Title** field, enter **Buy something**.
-    4.  In the **Short description** field, enter **Visit our procurement portal to purchase goods or services from any [[supplier|supplier]]**.
+    4.  In the **Short description** field, enter **Visit our procurement portal to purchase goods or services from any supplier**.
     5.  On the **Glyph** field, select the **Basket** icon.
     6.  On the **Template** field, select **Circle icon**.
     **Note:** It is recommended that you use these settings. However, you can configure this otherwise as well.
@@ -49,7 +49,3 @@ Role required: sn\_shop.shopping\_hub\_admin and sp\_admin
 
 **Parent Topic:**[Service portal configuration for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/service-portal-configuration-for-shoppinghub.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

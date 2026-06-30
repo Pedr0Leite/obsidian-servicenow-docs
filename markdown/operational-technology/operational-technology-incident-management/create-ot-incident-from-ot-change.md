@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Create an Operational Technology incident from an Operational Technology change request
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) incident related to an OT change request directly from the OT change record in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Create an Operational Technology \(OT\) incident related to an OT change request directly from the OT change record in the Industrial Workspace.
 
 ## Before you begin
 
@@ -77,7 +77,3 @@ After you create the incident from the change request, you can view the incident
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

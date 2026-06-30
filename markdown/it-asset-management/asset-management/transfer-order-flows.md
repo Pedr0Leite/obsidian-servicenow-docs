@@ -19,7 +19,7 @@ Use the Transfer Order flow to track asset movement from one stockroom to the ot
 
 ## Prerequisites
 
-The [[am-landing-page|Asset Management]] \(com.snc.asset\_management\) plugin is installed.
+The Asset Management \(com.snc.asset\_management\) plugin is installed.
 
 ## Transfer Order
 
@@ -48,6 +48,3 @@ In the asset life cycle automation process, when multiple assets are transferred
 
 [Create transfer order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-transfer-order-line.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]

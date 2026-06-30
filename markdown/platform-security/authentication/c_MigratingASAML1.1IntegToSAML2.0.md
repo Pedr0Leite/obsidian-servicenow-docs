@@ -14,8 +14,5 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Migrating an existing SAML 1.1 integration to SAML 2.0
 
-To migrate from a [[c_SAML2.0WebBrowserSSOProfile|SAML]] 1.1 integration to a SAML 2.0 integration, contact customer support.
+To migrate from a SAML 1.1 integration to a SAML 2.0 integration, contact customer support.
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

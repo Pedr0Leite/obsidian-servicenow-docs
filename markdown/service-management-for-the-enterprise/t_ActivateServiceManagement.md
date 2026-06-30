@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For information on subscribing to a service management application, see [[t_ActivateFacilitiesSM|Activate Facilities Service Management]].
+For information on subscribing to a service management application, see [Activate Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacilitiesSM.md).
 
 The Service Management Core plugin also activates the following plugins if they are not already active.
 
@@ -38,10 +38,10 @@ The Service Management Core plugin also activates the following plugins if they 
 -   Workbench
 -   Checklist
 
--   **[[r_ActivateOtherSMApplications|Activate other Service Management applications]]**  
-After the Service Management Core plugin has been activated, you can activate other SM applications, such as Field Service management and [[FacilitiesLandingPage|facilities service management]]. You can also activate CMS portals for each of these SM applications to add them to the Service Management Portal.
+-   **[Activate other Service Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ActivateOtherSMApplications.md)**  
+After the Service Management Core plugin has been activated, you can activate other SM applications, such as Field Service management and facilities service management. You can also activate CMS portals for each of these SM applications to add them to the Service Management Portal.
 
-**Parent Topic:**[[c_ServiceManagement|Service Management]]
+**Parent Topic:**[Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagement.md)
 
 **Related topics**  
 
@@ -52,9 +52,3 @@ After the Service Management Core plugin has been activated, you can activate ot
 
 [Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ManagedDocuments.md)
 
-## Related
-
-- [[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
-- [[r_ActivateOtherSMApplications|Activate other Service Management applications]]
-- [[c_ServiceManagement|Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

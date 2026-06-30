@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # MID Server Resource Reservation
 
-This feature allows resources to be reserved before a task is assigned to a thread. If the resources the task needs aren’t available, then that task waits in the [[mid-server-landing|MID Server]] work queue while other tasks are assigned to the thread.
+This feature allows resources to be reserved before a task is assigned to a thread. If the resources the task needs aren’t available, then that task waits in the MID Server work queue while other tasks are assigned to the thread.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
@@ -30,7 +30,7 @@ Using the MID Server Resource Reservation allows for better use of threads since
 Features:
 
 -   Resource reservations apply to a single MID Server only
--   Resources can depend on system or [[r_MIDServerProperties|MID Server properties]]
+-   Resources can depend on system or MID Server properties
 -   Resources can depend on probe parameters, allowing you to limit the number of active probes and patterns against a given IP
 -   Reports resource usage
 -   Extensible \(the customer defines their own resources\)
@@ -52,7 +52,7 @@ A resource is just a name and a count. Define the name of the resource, which pr
 Role required: admin
 
 -   Make sure the MID Server property **mid.probe.wait.resources** is set to true to enable MID Server Resource Reservation. Changing this property requires restarting the MID Server.
--   Choose a resource name. Anything in \{ \} in the name is replaced by the probe parameter with that name. This name is typically used for per-host resources, for example, ssh\{source\} means a separate resource named “ssh” is available on every host being discovered. \(“source” is the name of the probe parameter that contains the [[ip-address|IP address]] being probed.\)
+-   Choose a resource name. Anything in \{ \} in the name is replaced by the probe parameter with that name. This name is typically used for per-host resources, for example, ssh\{source\} means a separate resource named “ssh” is available on every host being discovered. \(“source” is the name of the probe parameter that contains the IP address being probed.\)
 -   Decide how to specify the number of the resource used by probes or patterns.
     -   Every probe uses a constant number of the resource: Create a “simple value” resource.
     -   The number of resources used depends on a system property: Create an “expanding” resource.
@@ -81,7 +81,7 @@ Role required: admin
 
 5.  Navigate to **Discovery Definition** &gt; **Limited Resources** &gt; **MID Resources**.
 
-    -   Resource: This is the [[reference|reference]] to the resource.
+    -   Resource: This is the reference to the resource.
     -   Available: Number available. Anything inside brackets, is replaced by the system or MID Server property.
     -   MID Server: MID Server to apply this to. \(Empty\) means all.
 6.  Set the resource order.
@@ -159,9 +159,3 @@ The first probe or pattern in the queue is offered available resources. It takes
 |Order|order|Integer| |Order in which resources are allocated|
 |Resource|resource|Reference| |Reference to the resource|
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]
-- [[ip-address|IP Address]]
-- [[reference|Reference]]

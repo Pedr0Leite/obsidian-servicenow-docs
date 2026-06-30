@@ -14,16 +14,16 @@ breadcrumb: [Service Mapping, ITOM Visibility, IT Operations Management]
 
 # Service Mapping reference
 
-Reference topics provide additional information about mapping and fine-tuning application services [[using-service-mapping|using Service Mapping]] lists and forms.
+Reference topics provide additional information about mapping and fine-tuning application services using Service Mapping lists and forms.
 
 -   **[Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/sm-dashboard.md)**  
-The [[sm-dashboard|Service Mapping workspace]] provides a central location to streamline the process of mapping your application services. Use the visualizations and reports to analyze, monitor, and update your resources, create application services, and manage your [[c_ServiceMappingOverview|service mapping]] tasks efficiently.
+The Service Mapping workspace provides a central location to streamline the process of mapping your application services. Use the visualizations and reports to analyze, monitor, and update your resources, create application services, and manage your service mapping tasks efficiently.
 -   **[Predefined traversal rules for application services in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/default-traversal-rules.md)**  
 Service Mapping uses traversal rules to bring in related configuration items and expand the application service map. Several predefined rules are provided by default to help find and correctly map these relationships.
 -   **[Traversal Rules for Application Services form completion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traversal_rules_form_completion.md)**  
-To edit an existing CI relationship or add a new CI relationship during the tag-based [[r-discovery|discovery]] process, complete the Traversal Rules for Application Services form.
+To edit an existing CI relationship or add a new CI relationship during the tag-based discovery process, complete the Traversal Rules for Application Services form.
 -   **[Name suggestions for application service candidates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/app-services-name-suggestions.md)**  
-[[auto-serv-suggest|Automated Service Suggestions]] provides meaningful name suggestions for service identification, which you can access on the **Application Service Suggestions** tab in the Service Mapping workspace.
+Automated Service Suggestions provides meaningful name suggestions for service identification, which you can access on the **Application Service Suggestions** tab in the Service Mapping workspace.
 -   **[Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md)**  
 Review the information on the dashboard to confirm that you’re ready to discover and map application services based on machine learning \(ML\). Service Mapping uses data processed by Predictive Intelligence to generate suggestions for traffic-based connections.
 -   **[Components installed with Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/components-installed-with-service-mapping-plus.md)**  
@@ -53,10 +53,3 @@ Refer to this chart for information about traffic-based connections when you rem
 
 **Parent Topic:**[Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md)
 
-## Related
-
-- [[using-service-mapping|Using Service Mapping]]
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[auto-serv-suggest|Automated Service Suggestions]]

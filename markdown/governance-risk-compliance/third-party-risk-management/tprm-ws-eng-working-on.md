@@ -40,8 +40,5 @@ On most reports, you can select an item to view the underlying data.
     The **Details** tab displays overview and process tracking information and offers actions for managing the third party or engagement. See [Viewing general information on a third party](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-tab-tp-details.md)
 
 
-**Note:** When you select the More tab, you can view additional tabs that will show other types of relevant information such as, associated assessments, issues, tasks, risk components, [[entity-type-in-risk-ws|entity types]], and more.
+**Note:** When you select the More tab, you can view additional tabs that will show other types of relevant information such as, associated assessments, issues, tasks, risk components, entity types, and more.
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

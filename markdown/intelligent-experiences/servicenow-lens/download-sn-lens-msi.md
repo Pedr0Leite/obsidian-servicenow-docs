@@ -14,7 +14,7 @@ breadcrumb: [Configure, ServiceNow AI Lens, Enable AI experiences]
 
 # Download the ServiceNow AI Lens installer
 
-Download the ServiceNow AI Lens installer so that you can install the [[servicenow-lens-landing-page|ServiceNow AI Lens]] on your system for scanning visual data.
+Download the ServiceNow AI Lens installer so that you can install the ServiceNow AI Lens on your system for scanning visual data.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: admin
 
 Use ServiceNow AI Lens to capture screens, extract and comprehend data, and take further actions. For more information, see [Using ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-use.md).
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

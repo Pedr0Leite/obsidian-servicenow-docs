@@ -28,9 +28,9 @@ When you clone a request that contains a multi-row variable set, the information
 
 ## Procedure
 
-1.  Create a [[service-catalog|Service Catalog]] request.
+1.  Create a Service Catalog request.
 
-2.  On the checkout page, enter the users for whom to copy the request, up to a maximum of 10, in the **Copy this Request for:** [[reference|reference]] fields.
+2.  On the checkout page, enter the users for whom to copy the request, up to a maximum of 10, in the **Copy this Request for:** reference fields.
 
     \[Omitted image "clone-request-checkout.png"\] Alt text: Cloning a request in the checkout page
 
@@ -39,7 +39,3 @@ When you clone a request that contains a multi-row variable set, the information
 
 **Parent Topic:**[Service Catalog for managers and end users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]

@@ -16,11 +16,11 @@ Use the condition builder to help you create a custom filter for a visualization
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an inline dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an inline dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -58,17 +58,10 @@ Role required: Anyone with access to data can create a visualization of that dat
 12. Select **Add this source** to use the filtered source for your visualization.
 
 
--   **[[create-dynamic-js-filter-pae|Add a dynamic JavaScript filter]]**  
+-   **[Add a dynamic JavaScript filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dynamic-js-filter-pae.md)**  
 Add a dynamic JavaScript statement for evaluation as part of a report visualization's filter criteria.
--   **[[filter-dv-condition-builder-rel-list|Related list conditions example]]**  
+-   **[Related list conditions example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filter-dv-condition-builder-rel-list.md)**  
 Related list conditions enable you to include a relationship with another table in the filter.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[create-dynamic-js-filter-pae|Add a dynamic JavaScript filter]]
-- [[filter-dv-condition-builder-rel-list|Related list conditions example]]
-- [[configure-data-visualizations|Configure data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -13,15 +13,15 @@ breadcrumb: [Set up Oracle Cloud infrastructure \(OCI\) service accounts, Set up
 
 # Create OCI service accounts
 
-Create Oracle Cloud Infrastructure \(OCI\) service accounts on the ServiceNow AI Platform to access your Oracle account during Oracle [[r-discovery|discovery]].
+Create Oracle Cloud Infrastructure \(OCI\) service accounts on the ServiceNow AI Platform to access your Oracle account during Oracle discovery.
 
 ## Before you begin
 
-Verify that Oracle API credentials have been created. For more information, see [[create-oracle-api-credentials|Create Oracle API credentials]].
+Verify that Oracle API credentials have been created. For more information, see [Create Oracle API credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oracle-api-credentials.md).
 
 Retrieve the Compartment ID, which can be found under **Identity &amp; Security** &gt; **Compartments** in the Oracle Cloud Console.
 
-For GovCloud accounts, confirm that Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns is using at least version 1.29.0.
+For GovCloud accounts, confirm that Discovery and Service Mapping Patterns is using at least version 1.29.0.
 
 Role required: discovery\_admin
 
@@ -87,11 +87,5 @@ Type of the datacenter where the account is hosted, which should be OCI Datacent
 
 Schedule an OCI cloud discovery. For more information, see [Create an OCI Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-oci-schedule-DAW.md).
 
-**Parent Topic:**[[set-up-oracle-cloud-infrastructure-oci-service-accounts|Set up Oracle Cloud infrastructure \(OCI\) service accounts]]
+**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
 
-## Related
-
-- [[create-oracle-api-credentials|Create Oracle API credentials]]
-- [[set-up-oracle-cloud-infrastructure-oci-service-accounts|Set up Oracle Cloud infrastructure \(OCI\) service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

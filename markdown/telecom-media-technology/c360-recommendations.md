@@ -14,10 +14,10 @@ breadcrumb: [Use, Telecommunications Customer 360, Telecommunications, Media, an
 
 The Recommendations panel displays Knowledge Base article suggestions and enables you to search for Knowledge Base articles and trigger agentic workflows.
 
-The Recommendations panel is available in the contextual side panel on the [[c360-home-page|Telecommunications Customer 360 home page]]. It contains two tabs:
+The Recommendations panel is available in the contextual side panel on the [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md). It contains two tabs:
 
 -   Suggested actions: Knowledge Base articles that are available as part of demo data.
--   Search: Enter a search term to find Knowledge Base articles and, when the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application is installed, agentic workflows that match the term.
+-   Search: Enter a search term to find Knowledge Base articles and, when the Now Assist for Telecommunications, Media and Technology \(TMT\) application is installed, agentic workflows that match the term.
 
 ## Suggested actions
 
@@ -52,7 +52,7 @@ Select **Trigger Workflow** to open the Now Assist panel and run the workflow. Y
 
 For example, if you search for `suggest configuration items for change request CHG0001234` and select **Trigger Workflow**, the workflow opens in the Now Assist panel with that full string as the initial prompt and uses the change request number directly to find relevant configuration items.
 
-**Parent Topic:**[[c360-use|Use Telecommunications Customer 360]]
+**Parent Topic:**[Use Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-use.md)
 
 **Related topics**  
 
@@ -61,8 +61,3 @@ For example, if you search for `suggest configuration items for change request C
 
 [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-home-page|Telecommunications Customer 360 home page]]
-- [[c360-use|Use Telecommunications Customer 360]]
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]

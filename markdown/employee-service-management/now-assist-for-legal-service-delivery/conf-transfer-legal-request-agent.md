@@ -15,11 +15,11 @@ breadcrumb: [Configure, Now Assist for Legal Service Delivery \(LSD\), Legal Ser
 
 # Configure Triage legal requests agentic workflow
 
-You can configure the [[trans-legal-request-agent|Triage legal requests agentic workflow]] in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application to analyze the general legal requests, predict the appropriate legal category, and initiate a transfer when a legal fulfiller or group manager confirms the request.
+You can configure the Triage legal requests agentic workflow in the Now Assist for Legal Service Delivery \(LSD\) application to analyze the general legal requests, predict the appropriate legal category, and initiate a transfer when a legal fulfiller or group manager confirms the request.
 
 You must complete the following tasks to activate and use the Triage legal requests agentic workflow:
 
-1.  Install the [[legal-management-overview|Legal Service Delivery]] - Prime plugin \(sn\_lg\_ai\_prime\).
+1.  Install the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\).
 2.  Confirm the Now Assist panel is turned on. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 3.  Confirm the **Now Assist Panel - Platform \(default\)** assistant in the CI Admin Experience is turned on. For more information, see [Manage LLM virtual agents on the Assistants screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/manage-llm-va.md).
 4.  Configure AI Search. For more information, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md).
@@ -36,8 +36,3 @@ You can access the Now Assist panel by navigating to **All** &gt; **Now Assist A
 
 The skills are available in an active state in the base system and should not be modified.
 
-## Related
-
-- [[trans-legal-request-agent|Triage legal requests agentic workflow]]
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-management-overview|Legal Service Delivery]]

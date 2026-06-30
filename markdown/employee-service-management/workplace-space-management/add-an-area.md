@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Areas**.
 
@@ -306,7 +306,7 @@ You can add an allocation if there is none. For more information on how to add a
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -314,7 +314,3 @@ You can add an allocation if there is none. For more information on how to add a
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

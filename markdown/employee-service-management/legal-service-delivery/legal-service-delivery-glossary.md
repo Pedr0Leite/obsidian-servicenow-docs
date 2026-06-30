@@ -14,7 +14,7 @@ breadcrumb: [Legal Service Delivery reference, Legal Service Delivery, Legal and
 
 # Legal Service Delivery glossary
 
-Learn about the terms and concepts used in [[legal-management-overview|Legal Service Delivery]].
+Learn about the terms and concepts used in Legal Service Delivery.
 
 Glossary terms are grouped alphabetically.
 
@@ -40,7 +40,7 @@ Replacing old, slow ways of working with digital tools to make legal work faster
 
 ### digital forensics
 
-The process of collecting and analyzing electronic data for [[legal-investigations-landing-page|legal investigations]], such as emails or files, to uncover important information.
+The process of collecting and analyzing electronic data for legal investigations, such as emails or files, to uncover important information.
 
 ## G
 
@@ -156,7 +156,3 @@ A conversational bot platform that provides user assistance through conversation
 
 Defined sequence of steps automating processes in Sales Customer Relationship Management.
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-investigations-landing-page|Legal Investigations]]

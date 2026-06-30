@@ -12,7 +12,7 @@ breadcrumb: [Reference, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Unsupported field types in Query Generation
 
-[[query-generation|Query Generation]] explicitly does not support some field types.
+Query Generation explicitly does not support some field types.
 
 ## Unsupported field types
 
@@ -21,9 +21,5 @@ breadcrumb: [Reference, Query Generation, Now Assist in Platform Analytics, Plat
 -   Tags
 -   Domain Path
 
-**Parent Topic:**[[query-generation-reference|Query Generation reference]]
+**Parent Topic:**[Query Generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 
-## Related
-
-- [[query-generation-reference|Query Generation reference]]
-- [[query-generation|Query Generation]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB Workspace, Configuration Management Database \(CMDB\), Configu
 
 # Edit a data source from CMDB performance insights
 
-Edit a data source for your [[cmdb-sgc-available|Service Graph Connectors]] to specify the data that an import set should ingest. Consider configuring a batch process to make ingestion more efficient and improve performance.
+Edit a data source for your Service Graph Connectors to specify the data that an import set should ingest. Consider configuring a batch process to make ingestion more efficient and improve performance.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and import\_admin.
 
 4.  Select the Sources with batch processing turned off card in the Service Graph connectors tab.
 
-5.  On the Data sources list view, select a [[check-box|check box]] next to a record.
+5.  On the Data sources list view, select a check box next to a record.
 
 6.  Select **Edit**.
 
@@ -45,7 +45,3 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and import\_admin.
 
 **Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]

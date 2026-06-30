@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Learning Core
 
-The ServiceNow Learning Core application enables you to build a [[exploring-learning-exp|learning]] content repository by integrating with third-party Learning Management Systems, such as Cornerstone OnDemand, Udemy, PluralSight, Sumtotal and Saba learning systems. It allows you to configure learning catalogs that contain course items from both external learning systems and internal learning systems.
+The ServiceNow Learning Core application enables you to build a learning content repository by integrating with third-party Learning Management Systems, such as Cornerstone OnDemand, Udemy, PluralSight, Sumtotal and Saba learning systems. It allows you to configure learning catalogs that contain course items from both external learning systems and internal learning systems.
 
 Learning Core provides the base set of tables, content, learning bases, roles, and access configuration that are used in the Learning Posts application and other coaching applications. Learning Core can be activated only as a dependent plugin.
 
@@ -36,7 +36,7 @@ Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Use. Create, curate, and [[manage-learning-achievements|manage learning]] content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
+[Use \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Use. Create, curate, and manage learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: More information on other [[learning-core-components-installed|components installed with Learning Core]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: More information on other components installed with Learning Core.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -55,9 +55,3 @@ Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[manage-learning-achievements|Manage Learning]]
-- [[learning-core-components-installed|Components installed with Learning Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

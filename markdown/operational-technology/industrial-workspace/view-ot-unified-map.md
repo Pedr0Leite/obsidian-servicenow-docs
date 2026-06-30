@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # View an Operational Technology Unified Map
 
-View an [[operational-technology-overview|Operational Technology]] \(OT\) Unified Map in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] that displays the relationships between devices and other CIs.
+View an Operational Technology \(OT\) Unified Map in the Industrial Workspace that displays the relationships between devices and other CIs.
 
 ## Before you begin
 
@@ -66,7 +66,3 @@ You can now view the OT Unified Map. On the Unified Map, you can also see the hi
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

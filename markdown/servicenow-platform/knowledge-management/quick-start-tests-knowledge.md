@@ -14,9 +14,9 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Quick start tests for Knowledge Management
 
-Validate that [[knowledge-management|Knowledge Management]] still works after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Knowledge Management still works after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-Knowledge Management quick start tests require activating the Knowledge Management Core plugin \(com.glideapp.knowledge\), the Knowledge Management Advanced Installer plugin \(com.snc.knowledge\_advanced.installer\), the [[knowledge-blocks|Knowledge Blocks]] plugin \(com.snc.knowledge\_blocks\), and the Customer Service Management Demo Data plugin \(com.snc.customerservice.demo\).
+Knowledge Management quick start tests require activating the Knowledge Management Core plugin \(com.glideapp.knowledge\), the Knowledge Management Advanced Installer plugin \(com.snc.knowledge\_advanced.installer\), the Knowledge Blocks plugin \(com.snc.knowledge\_blocks\), and the Customer Service Management Demo Data plugin \(com.snc.customerservice.demo\).
 
 <table id="table_whf_nfg_h1c"><thead><tr><th>
 
@@ -60,7 +60,7 @@ KM: Article level subscription
 
 </td><td>
 
-Verify that users can [[subscribe-to-knowledge-article|subscribe to a knowledge article]].**Note:** Requires the Knowledge Management Advanced Installer plugin.
+Verify that users can subscribe to a knowledge article.**Note:** Requires the Knowledge Management Advanced Installer plugin.
 
 </td><td>
 
@@ -96,7 +96,7 @@ KM: Knowledge Base Level Subscriptions
 
 </td><td>
 
-Verify that users can [[subscribe-to-knowledge-base|subscribe to a Knowledge Base]].**Note:** Requires the Knowledge Management Advanced Installer plugin.
+Verify that users can subscribe to a Knowledge Base.**Note:** Requires the Knowledge Management Advanced Installer plugin.
 
 </td><td>
 
@@ -300,9 +300,3 @@ Quebec
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[subscribe-to-knowledge-article|Subscribe to a knowledge article]]
-- [[subscribe-to-knowledge-base|Subscribe to a knowledge base]]

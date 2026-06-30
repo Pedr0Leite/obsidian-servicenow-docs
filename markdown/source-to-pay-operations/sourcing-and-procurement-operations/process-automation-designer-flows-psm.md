@@ -14,7 +14,7 @@ breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Oper
 
 # Process Automation Designer flows for playbook
 
-The [[purch-order-mgmt-ws|Source-to-Pay Workspace]] helps you automate the entire process, right from tracking the requests, fulfillment, and to order revision flows.
+The Source-to-Pay Workspace helps you automate the entire process, right from tracking the requests, fulfillment, and to order revision flows.
 
 As a process owner or administrator, you can use Playbooks to enable cross-enterprise workflows and create a task-oriented view:
 
@@ -37,6 +37,3 @@ You can customize this behavior by customizing the Playbook experience with your
 
 [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -20,12 +20,12 @@ An accurate and complete vendor catalog can make it easier to keep items in stoc
 
 You can link multiple vendor catalog items to a single [product catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManagingProductCatalogItems.md), which allows you to track information about a single item at different vendors.
 
-For example, for an iPhone 5 [[c_ProductCatalog|product catalog]] item, you can create separate vendor catalog items from Apple and from Amazon. Select the vendor with the best price when you [source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_SourcingRequestItems.md) an item. Users need the model\_manager role to work with vendor catalog items.
+For example, for an iPhone 5 product catalog item, you can create separate vendor catalog items from Apple and from Amazon. Select the vendor with the best price when you [source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_SourcingRequestItems.md) an item. Users need the model\_manager role to work with vendor catalog items.
 
 -   **[Synchronize information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_SynchronizeInformation.md)**  
-Certain information is synchronized between [[c_Models|models]], [[c_ManagingProductCatalogItems|product catalog items]], and vendor catalog items.
+Certain information is synchronized between models, product catalog items, and vendor catalog items.
 -   **[Create a vendor catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreateAVendorCatalogItem.md)**  
-[[t_CreateAVendorCatalogItem|Create a vendor catalog item]] to associate product models with a vendor.
+Create a vendor catalog item to associate product models with a vendor.
 -   **[View a vendor list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewAVendorList.md)**  
 You can view a list of vendors from the product catalog.
 
@@ -44,9 +44,3 @@ You can view a list of vendors from the product catalog.
 
 [Domain separation and Product Catalog]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[t_CreateAVendorCatalogItem|Create a vendor catalog item]]

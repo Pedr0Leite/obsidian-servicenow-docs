@@ -34,7 +34,7 @@ You can send useful information such as **Schedule** or **Article** to self as a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Send to self configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Send to self configuration**.
 
 2.  Click **New** or open an existing record.
 
@@ -94,7 +94,7 @@ Number to send SMS. This field is visible only when you select **SMS** or **Emai
 
 ## Result
 
-On configuration, [[deskless-kiosk-overview|Employee Center Pro Kiosk]] portal displays the **Send to self** option.
+On configuration, Employee Center Pro Kiosk portal displays the **Send to self** option.
 
 ## What to do next
 
@@ -114,7 +114,3 @@ Employee can send the mail and SMS using the default Email and SMS template.
 
 [Modify email notification layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-notification-template.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

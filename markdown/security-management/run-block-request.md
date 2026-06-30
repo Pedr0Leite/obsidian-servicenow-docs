@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Block Request capability, Integrat
 
 # Run Block Request
 
-Blocks communication with [[c_Observables|observables]] associated with a security incident.
+Blocks communication with observables associated with a security incident.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
-The **[[security-operations-landing-page|Security Operations]] Integration - Block Request** flow can be triggered from an observable form, or from the **Security Incident Observables** related list on a security incident.
+The **Security Operations Integration - Block Request** flow can be triggered from an observable form, or from the **Security Incident Observables** related list on a security incident.
 
 This example shows a Block Request from a security incident.
 
@@ -89,10 +89,5 @@ Option to specify the severity assigned to the indicator in CrowdStrike when the
     \[Omitted image "run-block-request-worknote.png"\] Alt text: Block Request work note example
 
 
-**Parent Topic:**[[block-request-capability|Security Operations Integration- Block Request capability]]
+**Parent Topic:**[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/block-request-capability.md)
 
-## Related
-
-- [[block-request-capability|Security Operations Integration- Block Request capability]]
-- [[c_Observables|Observables]]
-- [[security-operations-landing-page|Security Operations]]

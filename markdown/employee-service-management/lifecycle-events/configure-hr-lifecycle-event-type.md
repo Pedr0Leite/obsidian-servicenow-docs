@@ -14,7 +14,7 @@ breadcrumb: [Building a lifecycle event, Using Lifecycle Events, Lifecycle Event
 
 # Configure a lifecycle event
 
-Build a lifecycle event and its associated [[activity-lxp|activity]] sets and activities with the lifecycle event builder.
+Build a lifecycle event and its associated activity sets and activities with the lifecycle event builder.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Begin by defining the event type, such as new hire onboarding. Each lifecycle ev
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**.
 
 2.  Click **New** or open a record.
 
@@ -68,7 +68,7 @@ Display activity sets to subject person
 
 </td><td colspan="2">
 
-\([[employee-center-landing-page|Employee Center]] only\) Option to show the activity sets timeline on the HR ticket page to the subject person of the lifecycle event case. This is a two-part process. In addition to selecting the box here, you must also select **Show case to subject person** for the HR service that the lifecycle event is associated with. To select the latter, see [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).**Note:**
+\(Employee Center only\) Option to show the activity sets timeline on the HR ticket page to the subject person of the lifecycle event case. This is a two-part process. In addition to selecting the box here, you must also select **Show case to subject person** for the HR service that the lifecycle event is associated with. To select the latter, see [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).**Note:**
 
 -   If **Show case to subject person** for the corresponding HR service is not selected, then the activity sets timeline will not display for the subject person.
 -   The progress bar for each activity set does not appear for the subject person. It only appears for the opened for person.
@@ -119,7 +119,7 @@ Transitions
 
 </td></tr><tr><td>
 
-[[hr-service-administration|HR Services]]
+HR Services
 
 </td><td>
 
@@ -150,9 +150,3 @@ Cancel and revert work done in a lifecycle event case with the rescind process. 
 
 **Next topic:**[Configure a lifecycle event activity set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity-set.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-administration|HR services]]

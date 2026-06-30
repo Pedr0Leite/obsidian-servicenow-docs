@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enable policy based session access for mobile
 
-Use the The Zero Trust- Policy Based Session Access plugin to control if [[users|users]] authenticating through a mobile app will have their roles reduced.
+Use the The Zero Trust- Policy Based Session Access plugin to control if users authenticating through a mobile app will have their roles reduced.
 
-The **Zero Trust - Policy Based Session Access** plugin allows security admins to reduce user access in a session based on IP, Location, [[identity-landing|Identity]] provider attributes and user attributes using [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]]. When this property is set to **true**, then users logging in via mobile device will have their roles restricted as configured by the plugin policies.
+The **Zero Trust - Policy Based Session Access** plugin allows security admins to reduce user access in a session based on IP, Location, Identity provider attributes and user attributes using adaptive authentication policies. When this property is set to **true**, then users logging in via mobile device will have their roles restricted as configured by the plugin policies.
 
 Set the Glide Property **glide.authenticate.session\_access.mobile.enabled** to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,11 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

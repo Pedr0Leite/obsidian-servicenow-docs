@@ -14,12 +14,12 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # Managed lists
 
-You can use the **Managed Lists** module to view and manage administrative areas like departments, locations, positions, and details about [[hr-service-administration|HR services]].
+You can use the **Managed Lists** module to view and manage administrative areas like departments, locations, positions, and details about HR services.
 
-To access managed lists, go to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Managed Lists**.
+To access managed lists, go to **HR Administration** &gt; **Managed Lists**.
 
 -   **[Add or modify departments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewADepartment.md)**  
-You can use departments to categorize users. Departments are assigned to an employee user profile, and are synchronized to the [[c_HRProfileRecords|HR profile]].
+You can use departments to categorize users. Departments are assigned to an employee user profile, and are synchronized to the HR profile.
 -   **[Add or modify locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewALocationIst.md)**  
 If your company has multiple offices, location records store the address and contact details for each site, and are assigned in the employee HR profile and user records. The location of an HR agent can be used for automatic assignment of HR cases.
 -   **[Add or modify employee positions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_DefiningOrganizationPositions.md)**  
@@ -45,8 +45,3 @@ You can add or modify a visa category using the HR Administrations module.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRProfileRecords|HR Profile]]

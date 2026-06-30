@@ -19,13 +19,13 @@ The ServiceNow® Scaled Agile Framework \(SAFe\) application helps you apply lea
 ## SAFe overview
 
 -   Provides a broader, high-level perspective as well as the ability to manage development processes throughout all levels of your organization.
--   Facilitates collaboration and streamlines the planning and monitoring of activities across [[c_BusinessUnits|business units]], departments, and teams.
+-   Facilitates collaboration and streamlines the planning and monitoring of activities across business units, departments, and teams.
 
 **Note:** SAFe and Scaled Agile Framework are registered trademarks of [Scaled Agile, Inc](https://scaledagileframework.com), and ServiceNow is a Scaled Agile, Inc. Platform Partner.
 
 ## Configurations of SAFe
 
-ServiceNow provides applications that support two different configurations of SAFe: [[essential-overview|Essential SAFe]] and [[portfolio-overview|Portfolio SAFe]]. The sections below explain the features of each configuration, and will help you choose the right configuration for your organization.
+ServiceNow provides applications that support two different configurations of SAFe: Essential SAFe and Portfolio SAFe. The sections below explain the features of each configuration, and will help you choose the right configuration for your organization.
 
 -   **[Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/essential-overview.md)**
 
@@ -35,8 +35,4 @@ ServiceNow provides applications that support two different configurations of SA
 
     With Portfolio SAFe, you can align your organizational goals and strategies with your portfolios, and apply lean and agile principles to seamlessly manage and deliver your portfolio work.
 
-## Related
 
-- [[c_BusinessUnits|Business units]]
-- [[essential-overview|Essential SAFe]]
-- [[portfolio-overview|Portfolio SAFe]]

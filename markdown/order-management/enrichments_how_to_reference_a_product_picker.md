@@ -14,7 +14,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 You can reference a product picker in the On BOM, Pricing, and Validation enrichments by modifying your enrichment script.
 
-[[product_picker_overview|Product pickers]] are available for reference in On BOM, Pricing, and Validation Enrichments.
+Product pickers are available for reference in On BOM, Pricing, and Validation Enrichments.
 
 When referencing a product picker in any of these scenarios, use the `pkr.<Product Picker varname>` notation in your enrichment script. As an example, the following snippet iterates over the options in `somePicker` and creates a map where each record's option value and quantity are stored.
 
@@ -41,6 +41,3 @@ pleRequest.forEach((option) => {
 });
 ```
 
-## Related
-
-- [[product_picker_overview|Product pickers]]

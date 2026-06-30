@@ -14,7 +14,7 @@ breadcrumb: [Qualys, Service Graph Connectors, Integrating third-party data into
 
 # Targeted CMDB classes in the Service Graph Connector for Qualys
 
-When you complete setting up the connection, you can configure the integration to periodically pull data. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table. The [[sgc-qualys-integration|Service Graph Connector for Qualys]] identifies and classifies information about various configuration Items \(CIs\).
+When you complete setting up the connection, you can configure the integration to periodically pull data. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table. The Service Graph Connector for Qualys identifies and classifies information about various configuration Items \(CIs\).
 
 ## SGC Qualys Asset Cloud Tag
 
@@ -476,6 +476,3 @@ SGC Qualys Asset Service Details \[sn\_sec\_sgc\_qualys\_asset\_service\_details
 |Software Instance \[cmdb\_software\_instance\]|Reference|Server \[cmdb\_ci\_server\]|
 |Software \[cmdb\_ci\_spkg\]|Reference|Software Instance \[cmdb\_software\_instance\]|
 
-## Related
-
-- [[sgc-qualys-integration|Service Graph Connector for Qualys]]

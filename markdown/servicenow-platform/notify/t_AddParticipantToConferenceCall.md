@@ -14,11 +14,11 @@ breadcrumb: [Using Notify for making conference calls, Using Notify, Notify, Man
 
 # Add participants to a conference call
 
-Add a participant to a conference call [[using-notify|using Notify]].
+Add a participant to a conference call using Notify.
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, notify\_admin, major\_incident\_manager, or communication\_manager
+Role required: notify\_view, notify\_admin, major\_incident\_manager, or communication\_manager
 
 ## About this task
 
@@ -56,7 +56,3 @@ You can add the following participants:
 
 [Mute or remove a conference call participant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_MuteOrKickAConfCallParty.md)
 
-## Related
-
-- [[using-notify|Using Notify]]
-- [[notify-landing-page|Notify]]

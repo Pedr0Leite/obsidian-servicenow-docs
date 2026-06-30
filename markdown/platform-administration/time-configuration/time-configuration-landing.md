@@ -30,11 +30,7 @@ Time configuration includes the scheduling of events and tracking of time. There
 
 </td><td>
 
-[References \[Omitted image "bus-datasheet.svg"\] Alt text:Find useful time configuration [[reference-email-admin|reference]] materials and information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/reference-time-configuration.md)
+[References \[Omitted image "bus-datasheet.svg"\] Alt text:Find useful time configuration reference materials and information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/reference-time-configuration.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Manual flow for certificate requests, Configuring Certificate Inven
 
 # Archive certificate tasks
 
-In Version 1.1.7 [[cert-inventory-mgmt|Certificate Inventory and Management]], the Data Archiver \[com.glide.auxdb\] plug-in performs daily operations to transfer data that is no longer required from primary tables to a designated set of archive tables.
+In Version 1.1.7 Certificate Inventory and Management, the Data Archiver \[com.glide.auxdb\] plug-in performs daily operations to transfer data that is no longer required from primary tables to a designated set of archive tables.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Upon activation, this rule archives data from the Certificate Task table \[sn\_d
 -   State is Closed Complete
 -   Last update occurred more than twelve months ago
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

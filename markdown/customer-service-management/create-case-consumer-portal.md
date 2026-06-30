@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Select **Get Help** in the portal header.
 
@@ -36,7 +36,7 @@ Role required: sn\_customerservice.consumer
 
 7.  Add a description in the **Description** field and add any attachment.
 
-    **Note:** Currently, the **Save as Draft** option isn't optimized for [[c_CustomerServiceManagement|Customer Service Management]], and it’s inactive by default.
+    **Note:** Currently, the **Save as Draft** option isn't optimized for Customer Service Management, and it’s inactive by default.
 
 8.  Select **Submit**.
 
@@ -45,7 +45,3 @@ Role required: sn\_customerservice.consumer
 
 The new case is created and added to the Cases list. To view the case, select the link in the case creation message or select **Cases** in the portal header, and then select the case number.
 
-## Related
-
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

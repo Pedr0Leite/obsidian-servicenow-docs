@@ -24,7 +24,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 1.  [Create a Service Provider key store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreatingAServiceProviderKeyStore.md).
 
-2.  Navigate to **[[c_SAML2.0WebBrowserSSOProfile|SAML]] 2 Single Sign-on** &gt; **Certificate** or **Multi-provider** &gt; **Administrator** &gt; **x509 Certificate**.
+2.  Navigate to **SAML 2 Single Sign-on** &gt; **Certificate** or **Multi-provider** &gt; **Administrator** &gt; **x509 Certificate**.
 
 3.  Click **SAML 2.0 Keystore\_Key2048\_SHA256**.
 
@@ -34,7 +34,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 6.  Click **Remove**.
 
-7.  Click **Choose Files** and select the Keystore containing your signed [[c_Certificates|certificates]].
+7.  Click **Choose Files** and select the Keystore containing your signed certificates.
 
 8.  Click **Attach**.
 
@@ -46,7 +46,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 11. Click **Update**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Certificates|Certificates]]

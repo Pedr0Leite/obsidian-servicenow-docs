@@ -14,11 +14,11 @@ breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Managem
 
 # Exploring Strategy and Goals in Strategic Planning Workspace
 
-Use [[strategy-goals-landing-page|Strategy and Goals]] in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to create boards that organize your organization's strategic plans, strategic priorities, goals, and targets in a single, focused view.
+Use Strategy and Goals in Strategic Planning Workspace to create boards that organize your organization's strategic plans, strategic priorities, goals, and targets in a single, focused view.
 
 ## Strategy and Goals key components
 
-Understanding the key components of Strategy and Goals in Strategic Planning Workspace helps you structure your organization's strategic vision and [[t_SDLCPPSTrackProgress|track progress]] toward meaningful outcomes.
+Understanding the key components of Strategy and Goals in Strategic Planning Workspace helps you structure your organization's strategic vision and track progress toward meaningful outcomes.
 
 The key components for managing enterprise goals in Strategy and Goals are strategic plans, strategic priorities, goals, targets, and any work items associated with goals or targets.
 
@@ -30,7 +30,7 @@ For an example of the structure of a strategy from the strategic plan level down
 
 ## Board types
 
-When you [[create-board-strategy|create a board]], you can choose whether to base it on strategic plans, goals, or both.
+When you create a board, you can choose whether to base it on strategic plans, goals, or both.
 
 -   A strategy-based board lets you create and manage strategic plans and priorities, aligning high-level direction with the priorities your teams are executing against.
 -   A goals-based board lets you create goals and targets that align with your strategic priorities, with the ability to tailor the board by entity type and entity to focus on the goals that matter most.
@@ -42,7 +42,7 @@ For any board type, you can define what items appear using advanced filter condi
 
 ## Now Assist for Strategic Portfolio Management \(SPM\) capabilities for Strategy and Goals
 
-If [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] is installed, you can use the following capabilities to enhance your strategic planning and goal management:
+If Now Assist for Strategic Portfolio Management \(SPM\) is installed, you can use the following capabilities to enhance your strategic planning and goal management:
 
 -   With the Goals insights skill, you can generate AI-powered insights for goals and review the results to identify at-risk goals, assess forecasted statuses, and act on recommendations before goals fall off track. For details, see [Generate insights for a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/generate-insights-for-goal-strategy.md).
 -   With the Target generation skill, you can generate measurable targets for your goals, reducing the effort required to define quantifiable success criteria. For details, see [Generate targets for a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-targets-for-goal.md).
@@ -79,10 +79,3 @@ If you are already managing goals in portfolio plans, you can create correspondi
 
 **Note:** Strategic plans and strategic priorities for portfolio plans can still be created using the list view within the Strategic Planning Workspace or the classic UI. The key difference is that in Strategy and Goals, you can create these directly within the workspace — whereas for portfolio plans, they must be created outside the workspace and then associated with goals inside it.
 
-## Related
-
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[create-board-strategy|Create a board]]
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]

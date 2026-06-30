@@ -16,9 +16,9 @@ breadcrumb: [Integrate, Risk Management, Governance, Risk, and Compliance]
 
 Manage your project risks by using the Project Risk Assessment capability. Risk administrators, projects managers, and risk owners can manage the complete project risk life cycle by using the Project Risk Assessment capability.
 
-As your organization grows, it is important to perform [[risk-assessments|risk assessments]] of your projects. Because each project is unique, it is important to customize the project risk management process according to the unique project requirements. Determining the right level of project risk management process constitutes the risk management plan. The project risk life cycle consists of phases such as project risk identification, project risk assessment, project risk mitigation, and project risk monitoring.
+As your organization grows, it is important to perform risk assessments of your projects. Because each project is unique, it is important to customize the project risk management process according to the unique project requirements. Determining the right level of project risk management process constitutes the risk management plan. The project risk life cycle consists of phases such as project risk identification, project risk assessment, project risk mitigation, and project risk monitoring.
 
-With version 11.0.1, you can use Governance, Risk, and Compliance \(GRC\) [[advanced-risk-assessment|Advanced Risk Assessment]] to assess your project risks. The feature is integrated with a strong risk assessment engine which you can use with strong project risk management requirements. This feature also provides efficient visibility and reporting of the project risks posture by using tools such as aggregated project risk ratings and heatmaps. The integration also ensures that when a project risk threatens to affect the enterprise, the risk can be easily reported to the enterprise risk team. The enterprise risk team can then define the necessary mitigating actions.
+With version 11.0.1, you can use Governance, Risk, and Compliance \(GRC\) Advanced Risk Assessment to assess your project risks. The feature is integrated with a strong risk assessment engine which you can use with strong project risk management requirements. This feature also provides efficient visibility and reporting of the project risks posture by using tools such as aggregated project risk ratings and heatmaps. The integration also ensures that when a project risk threatens to affect the enterprise, the risk can be easily reported to the enterprise risk team. The enterprise risk team can then define the necessary mitigating actions.
 
 ## Benefits of the GRC and Project Portfolio Management integration for managers
 
@@ -53,20 +53,14 @@ Use the Project Integration Configuration form to set up the risk assessment. Yo
 -   **[Assign project risks to stakeholders for assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-project-risk-using-ara.md)**  
 Assign the project risks to the relevant stakeholder for assessment. You must manually assign the risks to the stakeholders.
 -   **[Assess project risks using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assessing-proj-risk-by-projmanager.md)**  
-Assess the project risks by responding to predefined [[factors|factors]] or questions. Arrive at a risk score for the project.
+Assess the project risks by responding to predefined factors or questions. Arrive at a risk score for the project.
 -   **[Elevate a project risk to enterprise risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/Elevating-a-risk.md)**  
 Elevate a project risk to an enterprise risk if the project risk has an impact on the enterprise.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
 **Related topics**  
 
 
 [About Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[factors|factors]]

@@ -34,7 +34,7 @@ The risk appetite statuses that are shipped by default are as follows:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Risk Appetite Status**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Appetite Status**.
 
 2.  Open the risk appetite status that you want to change.
 
@@ -78,7 +78,3 @@ Icon that appears for the risk appetite status.**Note:** To make this change on 
 
 **Parent Topic:**[Risk appetite setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-appetite-setup.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]

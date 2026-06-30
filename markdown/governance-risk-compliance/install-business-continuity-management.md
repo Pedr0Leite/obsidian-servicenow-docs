@@ -12,7 +12,7 @@ breadcrumb: [BCM and ServiceNow Store, Configure, Business Continuity Management
 
 # Install Business Continuity Management from ServiceNow Store
 
-You can install the [[business-continuity-mangmt-overview|Business Continuity Management]] application if you have the admin role. This application includes demo data and installs the related store applications if they are not already installed.
+You can install the Business Continuity Management application if you have the admin role. This application includes demo data and installs the related store applications if they are not already installed.
 
 ## Before you begin
 
@@ -71,14 +71,8 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
 
 6.  Select **Install**.
 
-    **Note:** Installing GRC: [[bia-uib|Business Impact Analysis]], GRC: [[bcp-uib|Business Continuity Planning]], or GRC: Crisis Management automatically installs GRC: Business Continuity Management – Core and GRC: Business Continuity Management – Components.
+    **Note:** Installing GRC: Business Impact Analysis, GRC: Business Continuity Planning, or GRC: Crisis Management automatically installs GRC: Business Continuity Management – Core and GRC: Business Continuity Management – Components.
 
 
-**Parent Topic:**[[bcm-and-store|Business Continuity Management and ServiceNow Store]]
+**Parent Topic:**[Business Continuity Management and ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-and-store.md)
 
-## Related
-
-- [[bcm-and-store|Business Continuity Management and ServiceNow Store]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[bcp-uib|Business continuity planning]]

@@ -12,15 +12,11 @@ breadcrumb: [Reference, Retail]
 
 # Retail unified case and task data model
 
-Learn about the unified [[rahi-retail-operations-overview|retail]] case and task data model which helps understand the relationships between various case and task tables within retail. These extensions are designed to support distinct operational needs such as managing customer complaints, store inquiries, in-store operations, and HQ communications.
+Learn about the unified retail case and task data model which helps understand the relationships between various case and task tables within retail. These extensions are designed to support distinct operational needs such as managing customer complaints, store inquiries, in-store operations, and HQ communications.
 
 ## Data model
 
 \[Omitted image "unified-data-model.png"\] Alt text: Data model showing how unified cases and tasks interact.
 
-**Parent Topic:**[[rahi-retail-operations-reference|Retail reference]]
+**Parent Topic:**[Retail reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-reference.md)
 
-## Related
-
-- [[rahi-retail-operations-reference|Retail reference]]
-- [[rahi-retail-operations-overview|Retail]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Request Management, Operational T
 
 # Assign roles to your Operational Technology Request Management users
 
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data for [[operational-technology-request-management-landing-page|Operational Technology Request Management]].
+Assign roles to your users so that you can control their access to the features, capabilities, and data for Operational Technology Request Management.
 
 ## Before you begin
 
@@ -36,7 +36,3 @@ For more information about the Operational Technology Request Management roles y
 
 **Parent Topic:**[Configuring Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/configuring-operational-technology-request-management.md)
 
-## Related
-
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]

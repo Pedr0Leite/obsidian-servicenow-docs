@@ -28,7 +28,7 @@ To create service commitments, each service needs at least one associated servic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Offerings**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings**.
 
     Alternatively, you can navigate to **Service Portfolio Management** &gt; **Commitments**.
 
@@ -87,7 +87,7 @@ Allows commitments defined by a service level agreement \(SLA\) that tracks whet
 
     This information is used when creating vendor credit records.
 
-    **Tip:** If you don't see task \(SLAs for incidents related to service commitments\), then contact your Administrator. When **Contract** is entered in the [[reference-for-itsm-mobile-agent|Reference]] field of the incident, then the Use reference qualifier field should be set to **Advanced**, and the global business rule **contractFilter** must be entered in the **Reference qual** field.
+    **Tip:** If you don't see task \(SLAs for incidents related to service commitments\), then contact your Administrator. When **Contract** is entered in the Reference field of the incident, then the Use reference qualifier field should be set to **Advanced**, and the global business rule **contractFilter** must be entered in the **Reference qual** field.
 
 7.  Enter the information to calculate credit owed by the vendor for any contract breaches.
 
@@ -105,7 +105,3 @@ Allows commitments defined by a service level agreement \(SLA\) that tracks whet
 
 **Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

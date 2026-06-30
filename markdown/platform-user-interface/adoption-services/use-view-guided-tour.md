@@ -38,7 +38,7 @@ To assign a view to a tour step, you must know the view name. The name you see i
 
     2.  Locate the view by its **Title**, and note the value in the **Name** column.
 
-2.  Navigate to **All** &gt; **[[guided-tours|Guided Tours]] Designer** &gt; **Guided Tours**.
+2.  Navigate to **All** &gt; **Guided Tours Designer** &gt; **Guided Tours**.
 
 3.  Open the tour to be modified.
 
@@ -56,14 +56,10 @@ To assign a view to a tour step, you must know the view name. The name you see i
 
     1.  In the Guided Tours form, select **Edit with Designer**.
 
-    2.  In the [[guided-tours-designer|Guided Tour Designer]] tab or window, select **Play**.
+    2.  In the Guided Tour Designer tab or window, select **Play**.
 
     3.  Verify that the step you modified displays the correct view.
 
 
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[guided-tours|Guided Tours]]
-- [[guided-tours-designer|Guided Tour Designer]]

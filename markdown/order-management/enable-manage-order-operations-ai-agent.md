@@ -13,13 +13,13 @@ breadcrumb: [Configure, Now Assist for Order Management, Sales Customer Relation
 
 # Enable the manage order operations agent on the Business Portal
 
-Activate and associate the manage [[order-operations-landing|order operations]] agent on the Business Portal so that your customers can use this agent to submit order cases autonomously using Now Assist.
+Activate and associate the manage order operations agent on the Business Portal so that your customers can use this agent to submit order cases autonomously using Now Assist.
 
 ## Before you begin
 
 Activate and enable a chat assistant such as Now Assist in Virtual Agent to use in the Business Portal. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for [[please_share_your_feedback_on_admin_assist_responses|user access]], you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
+AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
 Role required: sn\_aia.admin
 
@@ -56,9 +56,9 @@ The chat assistant is activated in the Business Portal.
 
 ## What to do next
 
-Customize the subject, content, or formatting of the default email templates for order cases. For more information, see [[order-case-email-notifications|Email notifications for order cases]].
+Customize the subject, content, or formatting of the default email templates for order cases. For more information, see [Email notifications for order cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-case-email-notifications.md).
 
-**Parent Topic:**[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 
@@ -69,9 +69,3 @@ Customize the subject, content, or formatting of the default email templates for
 
 [Assistant Designer Asset library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/vad-topics-page.md)
 
-## Related
-
-- [[order-case-email-notifications|Email notifications for order cases]]
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[order-operations-landing|Order operations]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]

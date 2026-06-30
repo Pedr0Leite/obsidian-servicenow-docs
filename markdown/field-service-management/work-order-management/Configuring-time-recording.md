@@ -16,7 +16,7 @@ breadcrumb: [Work order tasks, Set up work orders and tasks, Configure, Field Se
 
 Agents record time worked on tasks and activities. Time recorded entries automatically generate time cards and time sheets for approval by managers. Configuring time recording is optional, but will save Field Service agents from having to record their time manually.
 
-The time recording feature extends the functionality of the Time card management application to [[fsm-application-landing-page|Field Service Management]]. Agents can record time worked on tasks from the Work Order Task form and time spent on other activities, such as meetings or training, from the Time Worked form. Time worked entries automatically create time cards for each selected work category. Time cards are automatically included in a weekly time sheet.
+The time recording feature extends the functionality of the Time card management application to Field Service Management. Agents can record time worked on tasks from the Work Order Task form and time spent on other activities, such as meetings or training, from the Time Worked form. Time worked entries automatically create time cards for each selected work category. Time cards are automatically included in a weekly time sheet.
 
 The time recording feature also extends the functionality of the [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_CostManagement.md) application to Field Service Management. Managers can view and create rate types and labor rate cards and also view expense lines. Time sheets use [labor rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_TaskAndLaborRateCards.md) to determine costs.
 
@@ -47,6 +47,4 @@ The steps for setting up Time Recording for Field Service are:
 
     Create time recording categories to accurately track the work that Field Service technicians do. For example, you may want to create a category called Training if there are regular trainings technicians complete.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

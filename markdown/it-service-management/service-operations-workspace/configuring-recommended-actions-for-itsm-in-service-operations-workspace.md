@@ -14,7 +14,7 @@ breadcrumb: [Contextual side panel configurations in Service Operations Workspac
 
 # Configuring Recommended Actions for ITSM in Service Operations Workspace
 
-[[r_ITServiceManagement|IT Service Management]] \(ITSM\) includes the following base system components used to configure Recommended Actions for various records in the Service Operations Workspace, including Incident, Incident Tasks, Problem, Problem Tasks, Change Request, Change Request Task, Interaction, and Request.
+IT Service Management \(ITSM\) includes the following base system components used to configure Recommended Actions for various records in the Service Operations Workspace, including Incident, Incident Tasks, Problem, Problem Tasks, Change Request, Change Request Task, Interaction, and Request.
 
 ## Contexts in Recommended Actions for ITSM
 
@@ -93,7 +93,7 @@ The ITSM base system includes the following field-level recommendations:
     -   Assignment Group \(Classification\)
     -   Configuration Item \(Classification\)
     -   Service \(Classification\)
--   [[c-itsm-task-intelligence|Task Intelligence for ITSM]] -based recommendation: Incident Fields value prediction \(TI\)
+-   Task Intelligence for ITSM -based recommendation: Incident Fields value prediction \(TI\)
 
     **Note:** All Predictive Intelligence -based recommendations included in the ITSM base system are inactive by default. To activate them, navigate to the Recommendations screen, edit the corresponding Active column to the required recommendation of **true**, and select **Update**.
 
@@ -200,13 +200,13 @@ For more information, see [Task Intelligence for ITSM](https://raw.githubusercon
 
 To use recommendations powered by Predictive Intelligence, install the following plugins:
 
--   Install the [[pi-for-incident|Predictive Intelligence for Incident]] \(com.snc.incident.ml\) plugin to install the Relevant problems solution definition-Similar open PRBs \(Similarity\). For information about this plugin installation, see [[request-predictive-intelligence-for-im|Request Predictive Intelligence for Incident]].
--   Install the [[c_ProblemManagement|Problem Management]] for Service Operations Workspace \(**com.snc.uib.sow\_problem**\) plugin to install the solution definition-Create Problem for Major incident.
--   Install the Predictive Intelligence for Major [[c_IncidentManagement|Incident Management]] \(com.snc.incident.mim.ml\_solution\) plugin to install the following IT Service Management solution definitions.
+-   Install the Predictive Intelligence for Incident \(com.snc.incident.ml\) plugin to install the Relevant problems solution definition-Similar open PRBs \(Similarity\). For information about this plugin installation, see [Request Predictive Intelligence for Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-predictive-intelligence-for-im.md).
+-   Install the Problem Management for Service Operations Workspace \(**com.snc.uib.sow\_problem**\) plugin to install the solution definition-Create Problem for Major incident.
+-   Install the Predictive Intelligence for Major Incident Management \(com.snc.incident.mim.ml\_solution\) plugin to install the following IT Service Management solution definitions.
 
     -   Propose major incident \(Trend\)
     -   Similar major incident \(Trend\)
-    For information about this plugin installation, see [[request-pred-intelli-mim|Request Predictive Intelligence for Major Incident Management]].
+    For information about this plugin installation, see [Request Predictive Intelligence for Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-pred-intelli-mim.md).
 
 -   Install the Predictive Intelligence for Incident Management \(com.snc.incident.ml\_solution\) plugin to install the following IT Service Management solution definitions.
 
@@ -220,21 +220,10 @@ To use recommendations powered by Predictive Intelligence, install the following
 
         **Note:** Similar Incidents \(TI\) recommendation is available only from Service Operations Workspace version 6.0.
 
-    For more information, see [[request-pred-intelli-inc-mgmt|Request Predictive Intelligence for Incident Management]].
+    For more information, see [Request Predictive Intelligence for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-pred-intelli-inc-mgmt.md).
 
 
-Train solution definitions to predict recommendations for an incident. For information about training solution definitions, see [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]]
+Train solution definitions to predict recommendations for an incident. For information about training solution definitions, see [Predictive Intelligence for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/predictive-intelligence-for-incident.md)
 
 **Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/contextual-side-panel-configurations-sow-itsm.md)
 
-## Related
-
-- [[request-predictive-intelligence-for-im|Request Predictive Intelligence for Incident]]
-- [[request-pred-intelli-mim|Request Predictive Intelligence for Major Incident Management]]
-- [[request-pred-intelli-inc-mgmt|Request Predictive Intelligence for Incident Management]]
-- [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[pi-for-incident|Predictive Intelligence for Incident]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_IncidentManagement|Incident Management]]

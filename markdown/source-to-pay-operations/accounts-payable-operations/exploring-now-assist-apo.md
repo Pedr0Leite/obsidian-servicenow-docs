@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for APO, Accounts Payable Operations, Finance and Supply
 
 # Exploring Now Assist for Accounts Payable Operations \(APO\)
 
-[[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] provides AP fulfillers with generative AI skills to summarize invoice cases, extract invoice data, map [[purchase-order-lines|purchase order lines]], and generate inquiry resolutions.
+Now Assist for Accounts Payable Operations \(APO\) provides AP fulfillers with generative AI skills to summarize invoice cases, extract invoice data, map purchase order lines, and generate inquiry resolutions.
 
 ## Now Assist for APO overview
 
@@ -30,7 +30,7 @@ Cases can be complex and a case summary may enable an AP fulfiller to provide a 
 The Now Assist for APO application includes the following:
 
 -   The generative AI skills enable an AP fulfiller to extract the details of an invoice case or inquiry case and suggest resolutions.
--   The generative AI skills perform the [[purchase-order-table|purchase order]] line-mapping and enable an AP fulfiller to review the mapping results.
+-   The generative AI skills perform the purchase order line-mapping and enable an AP fulfiller to review the mapping results.
 
 -   **Purchase order line mapping**
 
@@ -42,9 +42,9 @@ The Now Assist for APO application includes the following:
 
     The summary skill reviews the issue, actions completed, status, and next steps. An AP fulfiller can refresh the summary as case updates happen and post the summary to work notes.
 
-    The invoice case summary displays above the [[activity-stream|activity stream]].
+    The invoice case summary displays above the activity stream.
 
-    For [[working-with-ingestion-cases|invoice processing cases]], the summary skill also reviews the invoice status and invoice information located in the applicable document.
+    For invoice processing cases, the summary skill also reviews the invoice status and invoice information located in the applicable document.
 
     For inquiry cases, the invoice case summarization skill generates a case summary by checking the short description, description, and tasks that were created for the case.
 
@@ -52,19 +52,19 @@ The Now Assist for APO application includes the following:
 
 -   **Invoice data extraction**
 
-    The Invoice data extraction skill helps in extracting invoice details from PDFs submitted through email or [[supplier|supplier]] portal. The digitized invoice is processed within [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] automatically. [[invoices|Invoices]] are extracted in languages \(English, Dutch, French, German, Japanese, Italian, Portuguese, Spanish\) supported by GPT-4o.
+    The Invoice data extraction skill helps in extracting invoice details from PDFs submitted through email or supplier portal. The digitized invoice is processed within Accounts Payable Operations automatically. Invoices are extracted in languages \(English, Dutch, French, German, Japanese, Italian, Portuguese, Spanish\) supported by GPT-4o.
 
     With the Invoice data extraction skill, customers can achieve higher invoice extraction accuracy by leveraging GPT-4o and significantly reducing manual effort. Customers are provided with the flexibility of turning on the manual review of extraction results or can let invoice be processed through the workflow automatically without manual review.
 
 -   **Invoice inquiry solution generator**
 
-    The Invoice inquiry solution generator skill identifies, extracts the invoice inquiry details from the invoice data and related records. Automates the resolution for [[work-with-inquiry-cases|invoice inquiry cases]].
+    The Invoice inquiry solution generator skill identifies, extracts the invoice inquiry details from the invoice data and related records. Automates the resolution for invoice inquiry cases.
 
     The skill suggests appropriate resolutions for inquiry cases by analyzing case details such as description, short description, related tasks and knowledge articles.
 
     Resolve supplier questions use case uses the field extractor skills, which extracts the invoice number and supplier \(from the description and short description\) and updates the case. The inquiry classifier categorizes the case by reading description, short description and updates the subcategory in the case. The Inquiry resolution provider agent automatically provides resolution for the inquiry submitted by suppliers or employees by analyzing the invoice, invoice lines, and other invoice-related tables \(tax, exceptions, approval history tables, purchase order tables, and knowledge base tables\).
 
-    The skill is activated upon assignment of an inquiry case to an AP agent. The skill is used by the [[apo-help-resolve-supplier-questions-agentic|Inquiry resolution provider AI agent]] to generate invoice inquiry case resolution in the Now Assist panel \(Now Assist panel\) reviewed by an agent. The Agent is prompted with an input to close the case in the Now Assist panel. Upon confirmation, the case is closed with the appropriate closure code and closure details. If the agent chooses to respond with a "No", then the Now Assist panel chat window is terminated for manual closure. The resolution is updated in the activity history \(work notes\) of the case. For more information on the AI agent, see [Inquiry resolution provider AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-help-resolve-supplier-questions-agentic.md).
+    The skill is activated upon assignment of an inquiry case to an AP agent. The skill is used by the Inquiry resolution provider AI agent to generate invoice inquiry case resolution in the Now Assist panel \(Now Assist panel\) reviewed by an agent. The Agent is prompted with an input to close the case in the Now Assist panel. Upon confirmation, the case is closed with the appropriate closure code and closure details. If the agent chooses to respond with a "No", then the Now Assist panel chat window is terminated for manual closure. The resolution is updated in the activity history \(work notes\) of the case. For more information on the AI agent, see [Inquiry resolution provider AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-help-resolve-supplier-questions-agentic.md).
 
 -   **Relevant invoice finder**
 
@@ -72,7 +72,7 @@ The Now Assist for APO application includes the following:
 
     The skill compares the current invoice and its line descriptions with previously processed invoices along with its line descriptions, and generates a relevance score from 0 through 1 for each item. These invoices are then returned in a ranked list, ordered by relevance.
 
-    The [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]] uses this match score to suggest a [resolution plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/resolution-plan-scenarios.md) for Missing or invalid business owner exceptions.
+    The Recommend invoice owner AI agent uses this match score to suggest a [resolution plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/resolution-plan-scenarios.md) for Missing or invalid business owner exceptions.
 
 -   **Email response for invoice case**
 
@@ -92,7 +92,7 @@ The Now Assist for APO application includes the following:
 
 -   **Accounts payable document classification**
 
-    The Accounts payable document classification skill automatically identifies and categorizes supplier sent email attachments as invoice, [[invoice-type-credit-memo|credit memo]], and supporting documents. The system supports configurable confidence thresholds and an AI solution with confidence score. Documents are auto-approved if the AI-confidence score is greater than the configured threshold, and auto-approval is enabled in the APO properties page. AP specialist manually reviews the document if the AI confidence score is lesser than the configured threshold. After the documents are successfully categorized, the invoice data extraction skill triggers the extraction of invoices.
+    The Accounts payable document classification skill automatically identifies and categorizes supplier sent email attachments as invoice, credit memo, and supporting documents. The system supports configurable confidence thresholds and an AI solution with confidence score. Documents are auto-approved if the AI-confidence score is greater than the configured threshold, and auto-approval is enabled in the APO properties page. AP specialist manually reviews the document if the AI confidence score is lesser than the configured threshold. After the documents are successfully categorized, the invoice data extraction skill triggers the extraction of invoices.
 
     If the email contains more than one invoice or credit memo, the system handles them as follows:
 
@@ -100,7 +100,7 @@ The Now Assist for APO application includes the following:
     -   For each additional invoice or credit memo, the system creates a separate invoice processing case. These cases are available under the **Linked Cases** related list on the parent case.
     -   All supporting documents are automatically copied to both the parent case and each linked case, ensuring every case has the context it needs for processing.
     -   **Supporting documents only**: If no invoices or credit memos are found, you can either cancel the case or convert it into an inquiry case.
-    This skill accelerates invoice processing and manages substantial volumes of data across various formats, thereby reducing errors, enabling audit transparency, and eliminating manual intervention. The AI solution accurately classifies document types prior to invoice extraction, confirming that non-invoice documents such as [[contracts|contracts]] and [[receipts|receipts]] aren’t inadvertently processed as invoices. For more information on configuring the skill, see [Configure Accounts payable document classification skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-doc-classification-skill-apo.md).
+    This skill accelerates invoice processing and manages substantial volumes of data across various formats, thereby reducing errors, enabling audit transparency, and eliminating manual intervention. The AI solution accurately classifies document types prior to invoice extraction, confirming that non-invoice documents such as contracts and receipts aren’t inadvertently processed as invoices. For more information on configuring the skill, see [Configure Accounts payable document classification skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-doc-classification-skill-apo.md).
 
 
 **Related topics**  
@@ -112,19 +112,3 @@ The Now Assist for APO application includes the following:
 
 [Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-case-mgmt-overview.md)
 
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[activity-stream|Activity stream]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[apo-help-resolve-supplier-questions-agentic|Inquiry resolution provider AI agent]]
-- [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[contracts|Contracts]]
-- [[receipts|Receipts]]

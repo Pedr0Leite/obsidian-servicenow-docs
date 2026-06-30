@@ -22,7 +22,7 @@ Role required: None
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  From onboarding, select the **Healthcare Employee Onboarding** catalog.
 
@@ -36,6 +36,4 @@ Role required: None
 
 6.  Click **Submit**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

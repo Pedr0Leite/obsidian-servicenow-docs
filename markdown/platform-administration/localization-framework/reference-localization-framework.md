@@ -14,10 +14,10 @@ breadcrumb: [Localization Framework, Translation and localization, Configure cor
 
 # Localization Framework reference
 
-[[reference-email-admin|Reference]] topics provide information on components and technical aspects of the [[localization-framework-landing|Localization Framework]].
+Reference topics provide information on components and technical aspects of the Localization Framework.
 
 -   **[Translation modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/translation-modes.md)**  
-Localization Framework offers several [[translation-modes|translation modes]] for completing [[ia-localization-il|localization]] tasks. As a localization admin, you can select one or more of these modes when configuring the procedures for localization tasks.
+Localization Framework offers several translation modes for completing localization tasks. As a localization admin, you can select one or more of these modes when configuring the procedures for localization tasks.
 -   **[States of Localization Framework projects and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-task-states.md)**  
 In Localization Framework, the state of a localization project or of a task defines the status of the localization request. The states of the localization tasks change based on the workflow that is configured for translations.
 -   **[Error messages in the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/error-messages.md)**  
@@ -25,9 +25,3 @@ Error messages are displayed when the appropriate settings are not configured fo
 
 **Parent Topic:**[ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[localization-framework-landing|Localization Framework]]
-- [[translation-modes|Translation modes]]
-- [[ia-localization-il|Localization]]

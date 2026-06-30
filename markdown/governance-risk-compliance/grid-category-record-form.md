@@ -22,11 +22,7 @@ For description of the field values, see the table.
 |-----|-----------|
 |Name|Name of the grid category.|
 |Code|Code for the grid category.|
-|Enable element context|Option to enable the element context for the grid category. For information on custom columns and grid configuration for BIA dependency groups in the [[bcm-workspace|BCM Configurable Workspace]], see [[configure-grid-category|Configure grid categories]].|
+|Enable element context|Option to enable the element context for the grid category. For information on custom columns and grid configuration for BIA dependency groups in the BCM Configurable Workspace, see [Configure grid categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-grid-category.md).|
 
 **Parent Topic:**[Configure grid categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-grid-category.md)
 
-## Related
-
-- [[configure-grid-category|Configure grid categories]]
-- [[bcm-workspace|BCM Configurable Workspace]]

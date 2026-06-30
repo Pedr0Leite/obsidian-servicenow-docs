@@ -14,15 +14,15 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 # Traffic-based discovery in Service Mapping
 
-[[c_ServiceMappingOverview|Service Mapping]] can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping.
+Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping.
 
 ## What is traffic-based mapping
 
 Traffic-based mapping can be seen as an enhancement to pattern-based mapping. While pattern-based mapping relies on predefined rules and patterns to identify connections, traffic-based mapping analyzes network traffic to automatically discover connections between CIs in your environment. This approach allows Service Mapping to find those CIs not discovered using patterns alone.
 
-Depending on your configuration, the behavior of traffic-based [[r-discovery|discovery]] can vary. If Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated using traffic-related data from the Configuration Management Database \(CMDB\) and the analysis of application fingerprints, CIs, and processes by Predictive Intelligence.
+Depending on your configuration, the behavior of traffic-based discovery can vary. If Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated using traffic-related data from the Configuration Management Database \(CMDB\) and the analysis of application fingerprints, CIs, and processes by Predictive Intelligence.
 
-If [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]] isn't enabled, Service Mapping automatically adds traffic-based connections using data from the CMDB to the service instances. However, to keep your service instances well-organized, you might need to manually remove connections to irrelevant CIs.
+If discovery based on Predictive Intelligence isn't enabled, Service Mapping automatically adds traffic-based connections using data from the CMDB to the service instances. However, to keep your service instances well-organized, you might need to manually remove connections to irrelevant CIs.
 
 Typically, if the connection suggestions feature is turned off, you use traffic-based discovery at the initial stages of discovering application services. To maintain a clean, organized service map, you can opt to turn off traffic-based discovery after you have completed the discovery and fine-tuning of your application services. For more information, see [Fine-tune application services to implement owner requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-implement-business-service-maps.md).
 
@@ -89,8 +89,3 @@ Traffic-based discovery using commands is available in Service Mapping for use a
 
 [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]

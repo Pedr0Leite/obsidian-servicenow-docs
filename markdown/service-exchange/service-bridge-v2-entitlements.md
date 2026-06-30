@@ -14,7 +14,7 @@ breadcrumb: [Create remote catalogs, Configure for providers, Service Exchange f
 
 # Creating entitlements in Service Exchange for Providers
 
-Using consumer criteria associated with record producers and other configurations, [[tmt-service-bridge-both-landing-page|Service Exchange]] automatically generates the entitlement records that are replicated to eligible consumer instances.
+Using consumer criteria associated with record producers and other configurations, Service Exchange automatically generates the entitlement records that are replicated to eligible consumer instances.
 
 Consumer Criteria records are used to entitle Service Exchange content, such as Remote Record Producers and Remote Task Definitions, to Service Exchange consumers. Consumer criteria enables you to ensure that a consumer has access only to the appropriate Service Exchange content. Using consumer criteria, you can entitle content explicitly to a single customer or to multiple customers.
 
@@ -34,14 +34,9 @@ You can update Service Exchange entitlements in the following ways:
 
 -   Define the consumer criteria in the Remote Record Producer.
 -   Register a new consumer in Service Exchange.
--   Click the **Refresh Entitlements** related link in the Consumer [[se-connections-tab|Connections]] record or the Provider record.
+-   Click the **Refresh Entitlements** related link in the Consumer Connections record or the Provider record.
 
 ## Define a consumer criteria
 
-To define a consumer criteria, see [[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]].
+To define a consumer criteria, see [Create a consumer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-consumer-criteria.md).
 
-## Related
-
-- [[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

@@ -14,7 +14,7 @@ breadcrumb: [Build and train your model, Model management, Natural Language Unde
 
 # NLU entities
 
-Entities provide your model with additional context when receiving user input. Add entities to your utterances and intents to improve the predictions of your [[nlu-landing|Natural Language Understanding]] \(NLU\) model.
+Entities provide your model with additional context when receiving user input. Add entities to your utterances and intents to improve the predictions of your Natural Language Understanding \(NLU\) model.
 
 Think of entities as the object of the action that the user wants to perform. The model interprets the utterance by matching it with an intent, but also uses entities to gather more details on the request.
 
@@ -23,7 +23,7 @@ For example, if a user types in `I have a critical issue with a slow laptop`, th
 -   HARDWARE \(entity\) - laptop \(value\)
 -   urgency \(entity\) - High \(value\)
 
-\[Omitted image "entities01U.png"\] Alt text: The Entities tab of the [[managing-model-content|Build and train your model]] phase.
+\[Omitted image "entities01U.png"\] Alt text: The Entities tab of the Build and train your model phase.
 
 NLU entities fall into two categories: system and user-defined. System entities such as DATE, TIME, and LOCATION are available by default in your instance. You can create your own user-defined entities to provide context relevant to your business.
 
@@ -53,7 +53,3 @@ On the Model details page, select **Entities**. Select the name of the entity to
 
 \[Omitted image "entities02.png"\] Alt text: Settings tab of the Entity details page. Check the Model Availability box to make it available to all intents in the model.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[managing-model-content|Build and train your model]]

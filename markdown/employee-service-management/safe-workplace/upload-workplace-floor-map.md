@@ -18,12 +18,12 @@ Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can config
 
 ## Before you begin
 
-Use workplace floor maps to find and reserve a space within [[workplace-safety-mgmt-hr|Workplace Core]]. To view the maps in the Location directory and within [[workplace-rsv-mgmt-feat|Workplace Reservation Management]], use Mappedin and [[Indoor-mapping|Indoor Mapping]]. For more information on how to use floor maps, refer to [[wsm-mappedin-admin|Workplace Space Mapping]].
+Use workplace floor maps to find and reserve a space within Workplace Core. To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-admin.md).
 
 To avoid issues while rendering your floor plan, verify that the dxf.json attachment size is 5 MB or smaller. To view the size, download the dxf.json file and view the file properties. If the file size is larger than 5 MB, you can:
 
 -   Work with your AutoCAD designers to ensure that spaces are represented as blocks \(not single or multi-line text\).
--   Ensure that the block [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] attributes are appropriately set and try to import the dxf.json file again.
+-   Ensure that the block reference attributes are appropriately set and try to import the dxf.json file again.
 -   Set the **com.glide.attachment.max\_get\_size** property to a size that is greater or equal to the dxf.json file size. For more information, see [Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md).
 
 Role required: sn\_wsd\_core.workplace\_manager
@@ -189,10 +189,3 @@ A new floor record is created with the floor plan attached to it. The Spaces rel
 
 **Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/providing-your-workplace-data.md)
 
-## Related
-
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

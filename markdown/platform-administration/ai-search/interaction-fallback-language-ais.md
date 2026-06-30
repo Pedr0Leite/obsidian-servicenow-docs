@@ -14,13 +14,13 @@ breadcrumb: [Internationalization support, Administer, AI Search, Search adminis
 
 # AI Search interaction with fallback languages
 
-When a fallback language is configured for the user's session language, [[ia-ai-search|AI Search]] searches translated documents in both languages. Search uses the appropriate stop word, synonym, and [[typo-handling-ais|typo handling]] dictionaries for the fallback language.
+When a fallback language is configured for the user's session language, AI Search searches translated documents in both languages. Search uses the appropriate stop word, synonym, and typo handling dictionaries for the fallback language.
 
-Starting in the Tokyo release, you can [[set-fallback-language|set a fallback language]] for each language enabled in your instance. The system uses this fallback language for elements of user interface text that aren't translated in the specified language. For details on configuring fallback languages, see [Set a fallback language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/set-fallback-language.md).
+Starting in the Tokyo release, you can set a fallback language for each language enabled in your instance. The system uses this fallback language for elements of user interface text that aren't translated in the specified language. For details on configuring fallback languages, see [Set a fallback language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/set-fallback-language.md).
 
-If you set a fallback language for the user's ServiceNow AI Platform® session language, AI Search returns [[hs-results|results]] for translated content, such as knowledge articles, in both the session language and your configured fallback language. When searching content in the fallback language, AI Search uses the stop word, synonym, and typo handling dictionaries for the fallback language.
+If you set a fallback language for the user's ServiceNow AI Platform® session language, AI Search returns results for translated content, such as knowledge articles, in both the session language and your configured fallback language. When searching content in the fallback language, AI Search uses the stop word, synonym, and typo handling dictionaries for the fallback language.
 
-As an example, suppose you configure Spanish as the fallback language for Mexican Spanish. With this configuration, users searching in Mexican Spanish sessions can find knowledge articles in both Mexican Spanish and Spanish. AI Search uses the Mexican Spanish and Spanish dictionaries and [[result-improvement-rules-ais|result improvement rules]] when matching articles in Mexican Spanish. It uses the Spanish dictionaries and result improvement rules when matching articles in Spanish.
+As an example, suppose you configure Spanish as the fallback language for Mexican Spanish. With this configuration, users searching in Mexican Spanish sessions can find knowledge articles in both Mexican Spanish and Spanish. AI Search uses the Mexican Spanish and Spanish dictionaries and result improvement rules when matching articles in Mexican Spanish. It uses the Spanish dictionaries and result improvement rules when matching articles in Spanish.
 
 \[Omitted image "diagram-fallback-language.png"\] Alt text: Diagram showing es-MX user session language and es fallback language.
 
@@ -32,10 +32,3 @@ For details on configuring a global fallback locale, see [Enable a global fallba
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[typo-handling-ais|Typo handling]]
-- [[set-fallback-language|Set a fallback language]]
-- [[hs-results|Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]

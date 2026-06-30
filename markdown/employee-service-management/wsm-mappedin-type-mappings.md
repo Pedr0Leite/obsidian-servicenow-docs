@@ -12,13 +12,13 @@ breadcrumb: [Convert Mappedin data to Workplace Space Mapping data, Configure Ma
 
 # Maintain type mappings
 
-Use **Type mappings** to convert the Type and Subtype locations in Mappedin to the Table and Space type used in [[wsm-mappedin-admin|Workplace Space Mapping]].
+Use **Type mappings** to convert the Type and Subtype locations in Mappedin to the Table and Space type used in Workplace Space Mapping.
 
 ## Before you begin
 
 Role required: sn\_wsd\_mappedin.admin
 
-**Important:** In the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Suite, from [[workplace-safety-mgmt-hr|Workplace Core]] version 2.5.3, the **Space type \(space\_type\)** choice field is depreciated. After the upgrade, Space types are configured in the **Space Type Configuration**. The **Space type \(space\_type\)** field is migrated as **Space type \(location\_type\)** field in the Space table \[sn\_wsd\_core\_space\]. Customers having customization on the depreciated **Space type \(space\_type\)** field are advised to manually migrate their flow to use the new **Space type \(location\_type\)** field. A new fix script, **Populate Location Type from Space Type**, is introduced to execute the schedule job, **Populate location\_type from space\_type**, on the Space table \[sn\_wsd\_core\_space\] to migrate the depreciated **Space type \(space\_type\)** field value to the new **Space type \(location\_type\)** field.
+**Important:** In the Workplace Service Delivery Suite, from Workplace Core version 2.5.3, the **Space type \(space\_type\)** choice field is depreciated. After the upgrade, Space types are configured in the **Space Type Configuration**. The **Space type \(space\_type\)** field is migrated as **Space type \(location\_type\)** field in the Space table \[sn\_wsd\_core\_space\]. Customers having customization on the depreciated **Space type \(space\_type\)** field are advised to manually migrate their flow to use the new **Space type \(location\_type\)** field. A new fix script, **Populate Location Type from Space Type**, is introduced to execute the schedule job, **Populate location\_type from space\_type**, on the Space table \[sn\_wsd\_core\_space\] to migrate the depreciated **Space type \(space\_type\)** field value to the new **Space type \(location\_type\)** field.
 
 ## Procedure
 
@@ -78,11 +78,5 @@ The space type you are associating a Mappedin location.**Note:** The Location ty
 </table>3.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-table.md)
 
-## Related
-
-- [[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

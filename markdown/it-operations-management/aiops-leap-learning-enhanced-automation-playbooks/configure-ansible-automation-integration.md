@@ -15,7 +15,7 @@ breadcrumb: [Configuring LEAP, Learning Enhanced Automation Platform \(LEAP\), N
 
 # Configure Ansible automation integration
 
-Connect LEAP to Ansible Automation Platform so the Ansible [[r-discovery|Discovery]] and Execution Agents can automatically identify job templates and launch them during incident [[ccg-remediation|remediation]].
+Connect LEAP to Ansible Automation Platform so the Ansible Discovery and Execution Agents can automatically identify job templates and launch them during incident remediation.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: **sn\_itom\_leap.leap\_admin**
 
 ## About this task
 
-The [[ansible-automation-integration-overview|Ansible Automation Integration]] requires configuration of the MCP Server Console connection and agent to enable communication between LEAP and Ansible Automation Platform.
+The Ansible Automation Integration requires configuration of the MCP Server Console connection and agent to enable communication between LEAP and Ansible Automation Platform.
 
 ## Procedure
 
@@ -56,12 +56,5 @@ The [[ansible-automation-integration-overview|Ansible Automation Integration]] r
 
 ## Result
 
-After you configure the Ansible Automation Integration, the [[ansible-discovery-agent|Ansible discovery agent]] analyzes [[automation-opportunities|automation opportunities]] and identifies relevant job templates, and the Ansible execution agent launches mapped automations during incident remediation.
+After you configure the Ansible Automation Integration, the Ansible discovery agent analyzes automation opportunities and identifies relevant job templates, and the Ansible execution agent launches mapped automations during incident remediation.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]
-- [[ansible-automation-integration-overview|Ansible automation integration]]
-- [[ansible-discovery-agent|Ansible discovery agent]]
-- [[automation-opportunities|Automation opportunities]]

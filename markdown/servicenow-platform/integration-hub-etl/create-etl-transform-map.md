@@ -14,7 +14,7 @@ breadcrumb: [IntegrationHub ETL, Integrating third-party data into CMDB, Configu
 
 # Create an ETL transform map
 
-[[integrationhub-etl|IntegrationHub ETL]] provides a guided setup which walks you through the completion of all necessary tasks for creating an ETL transform map for a specific integration.
+IntegrationHub ETL provides a guided setup which walks you through the completion of all necessary tasks for creating an ETL transform map for a specific integration.
 
 ## Guided setup
 
@@ -51,7 +51,7 @@ Role required: cmdb\_inst\_admin
 
         **Note:** In this situation, any corresponding metadata records in RTE are no longer valid and are automatically deleted. Records such as field mappings and transform operations that are associated with the missing table columns in the import set, are deleted.
 
-    -   Missing an [[ire|Identification and Reconciliation Engine \(IRE\)]] lookup rule for a lookup class
+    -   Missing an Identification and Reconciliation Engine \(IRE\) lookup rule for a lookup class
 3.  On the ETL Transform Map Assistant page, in the Specify Basic Details section of the guided setup, select the **Import Source Data and Provide Basic Details** task.
 
 4.  Fill out the form.
@@ -212,7 +212,7 @@ For a demo about working with nested payload data, watch the [Integration Hub - 
 
     You can't create new transforms for nested objects at this top-level view of the data. A nested object column contains number links which indicate the number of nested items for the record. To create a new transform for nested objects, click that number link to drill down to the actual nested data. Alternatively, navigate in the Data Structure panel to the nested object for which you want to create a transform.
 
-    A transform of nested data can [[reference|reference]] parent objects of the nested data being transformed. Using the [sample payload for nested data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) as an example, a transform for an interface object can reference the parent computer object but can't reference a software object.
+    A transform of nested data can reference parent objects of the nested data being transformed. Using the [sample payload for nested data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) as an example, a transform for an interface object can reference the parent computer object but can't reference a software object.
 
     1.  In the New Transform sidebar on the right, select a **Transform Type** and modify the **Transform Description** if appropriate.
 
@@ -290,7 +290,7 @@ Values to extract from the **Lookup Table** when there is a match with the mappe
 
  **Then output values from the following columns**: The lookup table columns to extract values from, when values from the lookup table and the mapped data, satisfy the **Lookup Condition**.
 
- You can specify multiple lookup table columns to extract values from. For every column that you specify, a corresponding **Output Column Name** field automatically appears. Specify a [[label|label]] for the column that will be added with the extracted values.
+ You can specify multiple lookup table columns to extract values from. For every column that you specify, a corresponding **Output Column Name** field automatically appears. Specify a label for the column that will be added with the extracted values.
 
 </td></tr><tr><td>
 
@@ -322,7 +322,7 @@ You must map data to all required attributes of the target class in addition to 
 
 -   **Source Native Key**
 
-    IRE uses to uniquely identify a record and for building relationships and [[reference-document-management|references]]. Also, improves performance of insert and update operations. When processing a payload, IRE generates an error if this field is empty.
+    IRE uses to uniquely identify a record and for building relationships and references. Also, improves performance of insert and update operations. When processing a payload, IRE generates an error if this field is empty.
 
 -   **Source Recency Timestamp**
 
@@ -347,7 +347,7 @@ An associated class lets you select the CMDB class to be associated with a targe
 
 The software Instance is a non-CMDB class but it does not have IRE rules associated with it. So, things we said about it here pre-Utah are still valid. But for non-CMDB classes with IRE rules it's not mandatory to have an association. For example “If the target class for mapping is a non-CMDB class with a reference to a CMDB class, you must select the CMDB class to associate the non-CMDB target class with” non-CMDB class with IRE rules Instead of “you must” it should be. “You can”. Same with the Example it's not valid for non-CMDB with IRE rules.
 
-If the target class for mapping is a non-CMDB class with a reference to a CMDB class, you must select the CMDB class to associate the non-CMDB target class with. A non-CMDB class refers to a class, such Serial Number \[cmdb\_serial\_number\], that does not extend the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]. The Related Entry \[cmdb\_related\_entry\] class might contain multiple CMDB class associations for the same non-CMDB class. Therefore, select the appropriate association to allow IRE processes to update the target non-CMDB class.
+If the target class for mapping is a non-CMDB class with a reference to a CMDB class, you must select the CMDB class to associate the non-CMDB target class with. A non-CMDB class refers to a class, such Serial Number \[cmdb\_serial\_number\], that does not extend the Configuration Item \[cmdb\_ci\] class. The Related Entry \[cmdb\_related\_entry\] class might contain multiple CMDB class associations for the same non-CMDB class. Therefore, select the appropriate association to allow IRE processes to update the target non-CMDB class.
 
 For example, the Related Entry \[cmdb\_related\_entry\] class has a record which associates the non-CMDB Software Instance \[cmdb\_software\_instance\] class with the CMDB Software Package \[cmdb\_ci\_spkg\] class. If you select Software Instance as a target class, you must associate the Software Instance class with the Software Package \[cmdb\_ci\_spkg\] class.
 
@@ -507,7 +507,7 @@ Role required: cmdb\_inst\_admin
 
 When creating relationships with nested data, you can't create a relationship between sibling objects from the nested data. Using the [sample payload for nested data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) as an example, you can't create a relationship between interfaces and software.
 
-ITOM Visibility, if available, uses enhanced discovery patterns to identify and add CI relationships to the Suggested Relationships table in the base system. When applicable, use the Suggested Relationships table to select relationships that are in compliance with [[csdm-landing-page|Common Service Data Model]] \(CSDM\) standards.
+ITOM Visibility, if available, uses enhanced discovery patterns to identify and add CI relationships to the Suggested Relationships table in the base system. When applicable, use the Suggested Relationships table to select relationships that are in compliance with Common Service Data Model \(CSDM\) standards.
 
 ### Procedure
 
@@ -1640,12 +1640,3 @@ Combines both the Uppercase and the Trim transforms.
 |Input|“ value1 ”|
 |Result|“VALUE1”|
 
-## Related
-
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[reference|Reference]]
-- [[label|Label]]
-- [[reference-document-management|References]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]
-- [[csdm-landing-page|Common Service Data Model]]

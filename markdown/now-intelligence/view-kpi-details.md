@@ -12,7 +12,7 @@ breadcrumb: [Exploring, KPI Details, Platform Analytics experience, Platform Ana
 
 # View KPI Details
 
-From a list of indicators, select an indicator to open its [[kpi-details|KPI Details]] page.
+From a list of indicators, select an indicator to open its KPI Details page.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ The following actions open KPI Details:
 
 ## Procedure
 
--   Select an indicator in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] indicator library, **Platform Analytics** &gt; **Library** &gt; **Indicators**.
+-   Select an indicator in the Platform Analytics indicator library, **Platform Analytics** &gt; **Library** &gt; **Indicators**.
 
-    For an indicator to appear in that list, the **Show in library** setting in the [[access-control|Access Control]] tab of that indicator record must be selected \(true\).
+    For an indicator to appear in that list, the **Show in library** setting in the Access Control tab of that indicator record must be selected \(true\).
 
 -   Select a point on the graph of an indicator in a data visualization.
 
@@ -41,8 +41,3 @@ The following actions open KPI Details:
 
 The KPI Details page on the selected indicator opens.
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[access-control|Access control]]

@@ -28,14 +28,10 @@ Field descriptions for creating a contact record from the ServiceNow CRM for Out
 |Language|Preferred language of the contact. This field is set to the system setting by default.|
 |Notification|Option to enable notifications for this contact.|
 
-**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[associate-email-crm-outlook|Associate an email with an existing CRM record]]
+[Associate an email with an existing CRM record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-email-crm-outlook.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[associate-email-crm-outlook|Associate an email with an existing CRM record]]

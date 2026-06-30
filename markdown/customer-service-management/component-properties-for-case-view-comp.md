@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Case view
 
-Component properties enable you to configure the behavior of the [[case-view-web-component|Case view component]] instance on a third-party website.
+Component properties enable you to configure the behavior of the Case view component instance on a third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -84,7 +84,7 @@ Option to show or hide attachment tab on the case detailed view.By default, it s
 
 </td></tr><tr><td>
 
-Hide all related [[migration-lists|lists]]
+Hide all related lists
 
 </td><td>
 
@@ -172,12 +172,7 @@ Option to show or hide error messages for the end user on the third-party websit
 
 [Embed the Case view component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-view-comp-on-third-party-website.md)
 
-[[we-case-view-event-handler|Event handler in the enhanced Case view component]]
+[Event handler in the enhanced Case view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-view-event-handler.md)
 
 [Sample code to handle the Case view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-view-sample-code.md)
 
-## Related
-
-- [[we-case-view-event-handler|Event handler in the enhanced Case view component]]
-- [[case-view-web-component|Case view component]]
-- [[migration-lists|Lists]]

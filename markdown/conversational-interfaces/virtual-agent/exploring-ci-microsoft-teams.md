@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Microsoft Teams, Integrate VA with 
 
 # Exploring Conversational Integration with Microsoft Teams
 
-Use the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] application to connect your end users with [[virtual-agent-landing-page|Virtual Agent]] or live agents through your company’s Microsoft Teams account.
+Use the Conversational Integration with Microsoft Teams application to connect your end users with Virtual Agent or live agents through your company’s Microsoft Teams account.
 
 ## Conversational Integration with Microsoft Teams users
 
@@ -25,7 +25,7 @@ Use the [[teams-conv-integration|Conversational Integration with Microsoft Teams
 
 ## Conversational Integration with Microsoft Teams workflow
 
-Ensure that you have a Microsoft 365 account with admin privileges \(admin.microsoft.com accessible\). To [[teams-install|install Conversational Integration with Microsoft Teams]], you need the admin or virtual\_agent\_admin role.
+Ensure that you have a Microsoft 365 account with admin privileges \(admin.microsoft.com accessible\). To install Conversational Integration with Microsoft Teams, you need the admin or virtual\_agent\_admin role.
 
 \[Omitted image "workflow-ci-ms-teams.png"\] Alt text: Workflow describing the sequence of processes carried out in Conversational Integration with Microsoft Teams.
 
@@ -37,7 +37,7 @@ Ensure that you have a Microsoft 365 account with admin privileges \(admin.micro
 
     -   **[Integrate with a self-configured bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-teams-self-configured-bot.md).**
 
-        [[create-bot-msteams|Create a bot in Microsoft Teams]]. Manage and configure the self-configured bot, then generate the manifest file. Upload the manifest file to Microsoft Teams. Configure Virtual Agent settings.
+        Create a bot in Microsoft Teams. Manage and configure the self-configured bot, then generate the manifest file. Upload the manifest file to Microsoft Teams. Configure Virtual Agent settings.
 
         **Note:** Verify that you enabled Message Extensions when generating the manifest file, and verify your bot name is one word.
 
@@ -61,9 +61,3 @@ Activate the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin, the Conversati
 
 **Parent Topic:**[Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md)
 
-## Related
-
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-install|Install Conversational Integration with Microsoft Teams]]
-- [[create-bot-msteams|Create a bot in Microsoft Teams]]

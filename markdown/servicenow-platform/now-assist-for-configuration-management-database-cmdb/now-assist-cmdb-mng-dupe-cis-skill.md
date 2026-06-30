@@ -28,7 +28,7 @@ When a Now Assist skill is enabled, the Now Assist icon \[Omitted image "icon-no
 
 ## Procedure
 
-1.  On the [[sg-workspace|Service Graph Workspace]] orCMDB Workspace or in any form or list view, select the Now Assist icon \[Omitted image "icon-now-assist-sparkle.png"\] and then select **Manage duplicate CIs** in the Now Assist panel \(or enter similar text\).
+1.  On the Service Graph Workspace orCMDB Workspace or in any form or list view, select the Now Assist icon \[Omitted image "icon-now-assist-sparkle.png"\] and then select **Manage duplicate CIs** in the Now Assist panel \(or enter similar text\).
 
 2.  Follow the guidance on the Now Assist panel to remediate duplication.
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-Review root causes for duplication: The analysis [[r_SurveyManagementLandingPage|surveys]] IRE [[c_IdentificationRules|identification rules]] \(including criterion attributes\) and discovery sources and responds by grouping causes to suggest related groups of tasks.
+Review root causes for duplication: The analysis surveys IRE identification rules \(including criterion attributes\) and discovery sources and responds by grouping causes to suggest related groups of tasks.
 
  **Tip:** Use this information to help avoid further creation of duplicate CIs.
 
@@ -93,7 +93,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d510532e269">
 
@@ -127,9 +127,3 @@ If you think that data might have changed after you viewed the response, select 
 
 [View CMDB Health Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_MonitorCMDBHealth.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_IdentificationRules|Identification rules]]
-- [[email|Email]]

@@ -23,20 +23,15 @@ With list configuration, you can add, remove, and reorder list columns. You can 
 -   **[Configure the list layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ConfigureTheListLayout.md)**  
 You can configure a list to choose which columns appear in a list, create list views, and create fields on the table.
 -   **[Configure list calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ConfigureListCalculations.md)**  
-You can [[t_ConfigureListCalculations|configure list calculations]] for columns, which calculate column totals, minimums, maximums, and averages.
+You can configure list calculations for columns, which calculate column totals, minimums, maximums, and averages.
 -   **[Omit record count in a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/omit-record-count.md)**  
 Speed up how fast lists load by removing the calculation of the total number of records in a list.
 -   **[Configure list controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ConfigureListControls.md)**  
-You can [[t_ConfigureListControls|configure list controls]], such as buttons and filters.
+You can configure list controls, such as buttons and filters.
 -   **[Advanced list control with scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/c_AdvancedListControlWithScripts.md)**  
 You can write scripts to specify which list elements, such as links, filters, and buttons, are present.
 -   **[Show/hide filter controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/show-hide-filter.md)**  
 The Show/hide filter used in the list configuration, lists the fields to configure in the filter conditions.
 
-**Parent Topic:**[[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]]
+**Parent Topic:**[ServiceNow AI Platform forms, fields, and lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-platform-forms-fields-lists.md)
 
-## Related
-
-- [[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]]
-- [[t_ConfigureListCalculations|Configure list calculations]]
-- [[t_ConfigureListControls|Configure list controls]]

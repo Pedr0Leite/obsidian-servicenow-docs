@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-You create [[demand-task|demand tasks]] to plan the work for demands rather than for the target work entity such as a project, change, defect, or enhancement. The resources assigned to a demand task can submit the time spent on it using a time card.
+You create demand tasks to plan the work for demands rather than for the target work entity such as a project, change, defect, or enhancement. The resources assigned to a demand task can submit the time spent on it using a time card.
 
 **Note:** If you’re creating a demand task with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, additional fields are available. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Next Experience for Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/multicurrency-in-dw-reference.md).
 
@@ -30,7 +30,7 @@ For more information about demand tasks, see [Demand tasks](https://raw.githubus
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -44,7 +44,7 @@ For more information about demand tasks, see [Demand tasks](https://raw.githubus
 
     -   To add a demand task, select **New**.
     -   To update the details of an existing demand task, select the record.
-5.  On the Create New [[demand-task-form|Demand Task form]], fill in the fields.
+5.  On the Create New Demand Task form, fill in the fields.
 
     For a description of the field names, see [Create demand task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-task-form-dw.md).
 
@@ -56,7 +56,7 @@ For more information about demand tasks, see [Demand tasks](https://raw.githubus
     -   Alternatively, you can create, edit, or delete demand tasks using the **Add demand tasks** playbook activity. For more information, see [Use Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
     After completing your work on the demand task, use the breadcrumb navigation to return to the **Demand Tasks** tab.
 
-    **Note:** Team members can access demand tasks assigned to them from [[cwm-landing|Collaborative Work Management]]. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
+    **Note:** Team members can access demand tasks assigned to them from Collaborative Work Management. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
 
 
 **Related topics**  
@@ -68,9 +68,3 @@ For more information about demand tasks, see [Demand tasks](https://raw.githubus
 
 [Create demand task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-task-form-dw.md)
 
-## Related
-
-- [[demand-task|Demand tasks]]
-- [[c_DemandManagement|Demand Management]]
-- [[demand-task-form|Demand task form]]
-- [[cwm-landing|Collaborative Work Management]]

@@ -22,7 +22,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or sn\_imt\_tracing.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Daily Contact Log** &gt; **Contact Logs**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Daily Contact Log** &gt; **Contact Logs**.
 
     Responses to notifications are listed in the Daily Log Acknowledgements list. Because employees respond to the notification by submitting their daily contact log, their records are updated with their acknowledgement status.
 
@@ -33,6 +33,3 @@ Role required: sn\_imt\_checkin.checkin\_admin or sn\_imt\_tracing.admin
 
 **Parent Topic:**[Tracking employee contacts using daily logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/employee-daily-log.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

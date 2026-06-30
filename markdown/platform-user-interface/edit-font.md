@@ -56,14 +56,9 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 ## Result
 
-Your new font is displayed as the Default font family and applied globally to your theme. If you want to upload a custom font, see [[upload-custom-font|Upload a custom font to your theme]].
+Your new font is displayed as the Default font family and applied globally to your theme. If you want to upload a custom font, see [Upload a custom font to your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md).
 
-If your theme is published, your edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[working-with-global-styles|Working with Global styles]]
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-global-styles.md)
 
-## Related
-
-- [[upload-custom-font|Upload a custom font to your theme]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[working-with-global-styles|Working with Global styles]]

@@ -34,7 +34,7 @@ You can view the certificate of completion from the Attachment pane.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -46,7 +46,7 @@ You can view the certificate of completion from the Attachment pane.
 
 6.  To view all the signed contract and the amendment requests associated with the contract repository record, navigate to **Contract requests tab**.
 
-    The [[cncore-expl-ss-nss-contracts|contract and amendment requests]] associated with the contract request is displayed.
+    The contract and amendment requests associated with the contract request is displayed.
 
 7.  To view all the revisions of the contract and amendment documents, navigate to **Contract documents**.
 
@@ -64,7 +64,3 @@ You can view the certificate of completion from the Attachment pane.
 
 **Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-amend-req-landing.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]

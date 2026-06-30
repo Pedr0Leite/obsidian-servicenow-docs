@@ -32,7 +32,7 @@ Script includes are added with activation of CTI Softphone.
 
 ## Business rules installed with CTI Softphone
 
-Business [[gamification-components-rules|rules]] are added with activation of CTI Softphone.
+Business rules are added with activation of CTI Softphone.
 
 <table id="table_jhr_czw_kt"><thead><tr><th>
 
@@ -60,7 +60,3 @@ Demo business rule to dequeue a call based on matching rules whenever an agent b
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[gamification-components-rules|Rules]]

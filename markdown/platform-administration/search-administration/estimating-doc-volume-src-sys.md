@@ -15,7 +15,7 @@ breadcrumb: [Explore, External Content Connectors, Search administration, Config
 
 # Estimating document volume for source systems
 
-Source system tools allow you to estimate the number of documents available for retrieval by [[ext-cont-connectors-landing-page|external content connectors]]. By estimating the available document count for a source system, you can determine whether you need to apply crawl scope restrictions when configuring an external content connector for that source system.
+Source system tools allow you to estimate the number of documents available for retrieval by external content connectors. By estimating the available document count for a source system, you can determine whether you need to apply crawl scope restrictions when configuring an external content connector for that source system.
 
 **Parent Topic:**[Exploring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/exploring-ext-cont-connectors.md)
 
@@ -26,6 +26,3 @@ Source system tools allow you to estimate the number of documents available for 
 
 [Estimate document volume for Microsoft SharePoint Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/estimate-doc-volume-mspo.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 # Components installed with Digital Experience Score​
 
-Several types of components are installed with activation of the [[dexscr-digital-experience-score|Digital Experience Score​]] app, including tables and user roles.
+Several types of components are installed with activation of the Digital Experience Score​ app, including tables and user roles.
 
 ## Roles installed
 
@@ -122,6 +122,3 @@ Stores the metric definition with predefined values for the upper bound, lower b
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

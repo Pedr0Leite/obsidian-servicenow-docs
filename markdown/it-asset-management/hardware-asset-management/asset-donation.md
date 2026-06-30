@@ -14,7 +14,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Asset donation
 
-You can easily donate hardware and [[c_ReceiveAConsumableAsset|consumable assets]] in stock in your organization to charity organizations through an Asset Donation Order.
+You can easily donate hardware and consumable assets in stock in your organization to charity organizations through an Asset Donation Order.
 
 The Asset Donation flow handles the various stages in the asset donation process. After you submit the Asset Donation Order, the asset manager reviews the asset donation order and, if it is approved, processes the donation. The asset donation process completes when the charity organization acknowledges the delivery of the assets.
 
@@ -22,6 +22,3 @@ The Asset Donation flow handles the various stages in the asset donation process
 
 For more details on asset donation, see [Donate assets to charity organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/donate-asset-to-charity-organizations.md).
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

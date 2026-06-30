@@ -12,7 +12,7 @@ breadcrumb: [Lead and opportunity management apps, Configure, Sales Customer Rel
 
 # Configuring Buying Group
 
-Learn how to configure [[explore-buying-group|Buying Group]] to organize multiple contacts within Sales CRM by account and product offering family, and link them to opportunities.
+Learn how to configure Buying Group to organize multiple contacts within Sales CRM by account and product offering family, and link them to opportunities.
 
 ## Activate Buying Group
 
@@ -41,7 +41,7 @@ sn\_buying\_groups
 
 </td><td>
 
--   [[product-catalog-managment|Product Catalog Management]] Core - \(com.sn\_prd\_pm\)​
+-   Product Catalog Management Core - \(com.sn\_prd\_pm\)​
 -   Sales common - \(com.sn\_l2c\_sales\_common\)
 -   Customer service - \(com.sn\_customer\_service\)
 
@@ -60,26 +60,18 @@ sn\_buying\_groups
 </td></tr></tbody>
 </table>## What to do next
 
-[[create-new-buying-group-engagement-metrics|View buying group engagement metrics]]
+[View buying group engagement metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-buying-group-engagement-metrics.md)
 
 View a buying group engagement metrics to track how individual members and the group as a whole interact across marketing and sales activities, providing a consolidated view of participation, engagement levels, and buying readiness throughout the buying group lifecycle.
 
 **Related topics**  
 
 
-[[using-buying-group|Using Buying Group]]
+[Using Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
 [configure-SOM-roles]
 
-## Related
-
-- [[create-new-buying-group-engagement-metrics|View buying group engagement metrics]]
-- [[using-buying-group|Using Buying Group]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[explore-buying-group|Buying Group]]
-- [[product-catalog-managment|Product Catalog Management]]

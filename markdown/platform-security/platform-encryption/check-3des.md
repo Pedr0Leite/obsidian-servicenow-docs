@@ -14,7 +14,7 @@ breadcrumb: [Key Management Framework, Encryption]
 
 # Prepare your instance for GlideEncrypter deprecation
 
-Use an instance scan script to find and remove GlideEncrypter API calls on your instance. Removing these calls is a necessary step in deprecating 3DES [[encryption-landing|encryption]] on your instance.
+Use an instance scan script to find and remove GlideEncrypter API calls on your instance. Removing these calls is a necessary step in deprecating 3DES encryption on your instance.
 
 ## Before you begin
 
@@ -30,17 +30,17 @@ The GlideEncrypter API is planned for deprecation as of the Zurich release of Se
 
 3.  In the **Suites** record, select **Execute Suite Scan**.
 
-4.  In the **[[sec-center-suites|Scan Suites]] Now** window, select **Full Instance**, then select **Execute Scan**.
+4.  In the **Scan Suites Now** window, select **Full Instance**, then select **Execute Scan**.
 
     The suite scan executes. During the scan execution a **Execute Test Scan**, a window displays the progress of the scan.\[Omitted image "scan-progress.png"\] Alt text: Scan progress window
 
-    **Note:** This [[scan-checks|scan checks]] only records that have been created or modified by the customer.
+    **Note:** This scan checks only records that have been created or modified by the customer.
 
 5.  When the scan is complete, select **Go to Result** to view the **Scan Result** record.
 
     \[Omitted image "scan-progress-2.png"\] Alt text: Completed scan with one finding
 
-6.  In the **Scan Result** record, select the **Count** field on the **[[scan-findings|Scan Findings]]** list to navigate to a record.
+6.  In the **Scan Result** record, select the **Count** field on the **Scan Findings** list to navigate to a record.
 
     \[Omitted image "scan-progress-3.png"\] Alt text: Completed scan
 
@@ -62,12 +62,5 @@ Learn how to remove the use legacy GlideEncrypter calls from the scripts on your
 -   **[Deprecate GlideEncrypter usage of 3DES for password2 fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password2-3des-deprecation.md)**  
 Deprecate GlideEncrypter usage of 3DES encryption standard on your instance ensure that your instance uses the more secure Advanced Encryption Standard \(AES\) exclusively for the encryption and decryption of your Password2 data.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[sec-center-suites|Scan suites]]
-- [[scan-checks|Scan checks]]
-- [[scan-findings|Scan findings]]

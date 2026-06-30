@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Properties installed with BCM
 
-Properties are added with the activation of [[business-continuity-mangmt-overview|Business Continuity Management]].
+Properties are added with the activation of Business Continuity Management.
 
 <table id="table_lvc_3h5_bcc"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Default plan template name for generating the PDF for the plan\[sn\_bcp.default\
 
 </td><td>
 
--   Scope: GRC: [[bcp-uib|Business Continuity Planning]]
+-   Scope: GRC: Business Continuity Planning
 -   Type: string
 -   Default value: Business continuity plan template \(Default\)
 
@@ -60,7 +60,7 @@ Interval between two task IDs for a recovery task in Business Continuity Plannin
 
 </td><td>
 
-Option to control client-script's strict mode that disables direct DOM access. This property is used to override it for the [[bia-uib|Business Impact Analysis]] \(BIA\).\[sn\_bia.glide.script.block.client.globals\]
+Option to control client-script's strict mode that disables direct DOM access. This property is used to override it for the Business Impact Analysis \(BIA\).\[sn\_bia.glide.script.block.client.globals\]
 
 </td><td>
 
@@ -279,11 +279,5 @@ Default limit for IRM GlideRecord getter. \[sn\_irm\_shared\_cmn.config.get\_gli
 -   Default value: 1000
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+</table>**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcp-uib|Business continuity planning]]
-- [[bia-uib|Business impact analysis]]

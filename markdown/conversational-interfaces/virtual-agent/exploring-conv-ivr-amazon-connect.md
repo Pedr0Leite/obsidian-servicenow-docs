@@ -14,7 +14,7 @@ breadcrumb: [Conversational IVR with Amazon Connect, Integrating Virtual Agent w
 
 # Exploring Conversational IVR with Amazon Connect
 
-Use this application to build an integration with Amazon Connect. This allows your users to initiate an IVR \(Interactive Voice Response\) conversation with [[virtual-agent-landing-page|Virtual Agent]]. This integration also allows the user to connect with an agent [[using-awa|using Advanced Work Assignment]] \(AWA\) over SoftPhone.
+Use this application to build an integration with Amazon Connect. This allows your users to initiate an IVR \(Interactive Voice Response\) conversation with Virtual Agent. This integration also allows the user to connect with an agent using Advanced Work Assignment \(AWA\) over SoftPhone.
 
 ## Conversational IVR with Amazon Connect overview
 
@@ -54,7 +54,3 @@ For information about supported controls, see [Input Collector user input contro
 
 **Parent Topic:**[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[using-awa|Using Advanced Work Assignment]]

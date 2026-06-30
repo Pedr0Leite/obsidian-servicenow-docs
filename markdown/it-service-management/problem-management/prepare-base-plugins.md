@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-**Note:** You cannot move back to any earlier stage because in the previous stage you activated the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) on this instance and the old states are invalid.
+**Note:** You cannot move back to any earlier stage because in the previous stage you activated the Problem Management Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) on this instance and the old states are invalid.
 
 ## Procedure
 
-1.  [[resolve-blocking-modifications|Resolve blocking modifications]].
+1.  Resolve blocking modifications.
 
     1.  For each blocking modification, click **View Modification**.
     2.  Select the **Replace on upgrade** check box.
@@ -42,7 +42,3 @@ Role required: admin
 
 [Restore base plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/restore-base-plugins.md).
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[resolve-blocking-modifications|Resolve blocking modifications]]

@@ -14,9 +14,9 @@ breadcrumb: [Key Management Framework, Encryption]
 
 # Key management actions
 
-One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date [[encryption-landing|encryption]] materials and life cycle operations.
+One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date encryption materials and life cycle operations.
 
-The following table provides a summary of the key life cycle operations and management actions. The cryptographic module purpose is applied to the data with the cryptographic module [[sc-configuration|configuration]] and has no impact on data.
+The following table provides a summary of the key life cycle operations and management actions. The cryptographic module purpose is applied to the data with the cryptographic module configuration and has no impact on data.
 
 <table id="table_mvb_drb_smb"><thead><tr><th>
 
@@ -82,10 +82,5 @@ Review the status of any key to determine further key action, such as when to re
 -   **[Rotate keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/rotate-cust-supplied-keys.md)**  
 For increased security, you can rotate your cryptographic keys on a pre-determined schedule. Key rotation is when you retire an encryption key and replace that old key by generating a new cryptographic key.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

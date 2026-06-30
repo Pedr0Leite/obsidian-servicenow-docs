@@ -14,7 +14,7 @@ breadcrumb: [Set up access to AWS billing and usage data, Configure Cloud Cost M
 
 # Cancel an AWS Billing download job
 
-A Billing download job obtains billing and usage data from each payer account for AWS. The Rightsizing, [[um-cloudin|Unused resources]], and [[bh-cloudin|Business hours]] processes use billing and usage data when generating recommendations. You can cancel any Billing download job individually.
+A Billing download job obtains billing and usage data from each payer account for AWS. The Rightsizing, Unused resources, and Business hours processes use billing and usage data when generating recommendations. You can cancel any Billing download job individually.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Cloud Integrations Admin \[sn\_cld\_intg\_core.cloud\_integration
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Billing download jobs**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Billing download jobs**.
 
 2.  Select the **AWS** tab.
 
@@ -30,8 +30,4 @@ Role required: Cloud Integrations Admin \[sn\_cld\_intg\_core.cloud\_integration
 
 4.  On the AWS Billing Download page, select **Cancel execution**.
 
-## Related
 
-- [[um-cloudin|Unused resources]]
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

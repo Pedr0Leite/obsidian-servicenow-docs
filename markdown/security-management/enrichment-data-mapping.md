@@ -12,20 +12,12 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 # Security Operations enrichment data mapping
 
-Enrichment [[cc-prisma-import-data|Data Mapping]] transforms data from XML, JSON, or Properties files to ServiceNow records. [[security-operations-landing-page|Security Operations]] workflows use enrichment data maps and provide output data to security incidents.
+Enrichment Data Mapping transforms data from XML, JSON, or Properties files to ServiceNow records. Security Operations workflows use enrichment data maps and provide output data to security incidents.
 
-Security Operations includes several enrichment data maps, triggered by various workflows, for example, [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]] and [[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]. Enrichment data map output from Security Operations workflows is displayed in the **Enrichment Data** tab on the security incident form.
+Security Operations includes several enrichment data maps, triggered by various workflows, for example, [Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-network-stats-workflow.md) and [Security Operations System Command Integration- Get Running Processes flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/obtain-WMI-retrieval-workflow.md). Enrichment data map output from Security Operations workflows is displayed in the **Enrichment Data** tab on the security incident form.
 
--   **[[create-enrichment-data-map|Create a Security Operations enrichment data map]]**  
+-   **[Create a Security Operations enrichment data map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-enrichment-data-map.md)**  
 Transform data from JSON, XML, or Properties file format to ServiceNow records using enrichment data maps.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
-## Related
-
-- [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]
-- [[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]
-- [[create-enrichment-data-map|Create a Security Operations enrichment data map]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[cc-prisma-import-data|Data mapping]]
-- [[security-operations-landing-page|Security Operations]]

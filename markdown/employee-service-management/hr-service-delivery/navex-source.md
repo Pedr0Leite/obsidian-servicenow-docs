@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations integration with Navex Ethicspoint, Integration 
 
 # Source for Employee Relations integration with Navex Ethicspoint
 
-Once you set up the [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]] application, the source record for NAVEX EthicsPoint application is automatically created in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]], Source module. The Navex EthicsPoint source record in the Enterprise Service Management Integrations Framework application contains a predefined set of HR Integration Services.
+Once you set up the Employee Relations integration with Navex Ethicspoint application, the source record for NAVEX EthicsPoint application is automatically created in Enterprise Service Management Integrations Framework, Source module. The Navex EthicsPoint source record in the Enterprise Service Management Integrations Framework application contains a predefined set of HR Integration Services.
 
 ## HR services
 
@@ -25,7 +25,3 @@ After you set up the Employee Relations integration with Navex Ethicspoint appli
 |Update Employee Relation Cases|Pushes data from ServiceNow Platform into Navex EthicsPoint. For example, when an employee relation case is closed its status is pushed to Navex EthicsPoint.|
 |Get Employee Relation Cases|Pulls employee relation cases from Navex EthicsPoint into ServiceNow Platform.|
 
-## Related
-
-- [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

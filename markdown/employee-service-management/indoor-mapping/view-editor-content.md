@@ -22,7 +22,7 @@ Role required: map admin, map editor, map editor limited
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Select a campus for which you want to customize the view editor content.
 
@@ -110,6 +110,3 @@ Click on the Default camera button to position it on the map.Set the default lat
 
 **Parent Topic:**[Edit with view editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

@@ -46,8 +46,5 @@ When you create a disclosure, that disclosure is the primary document. While you
 7.  To view the document details, select the document and on the Attachments side panel, the details are displayed.
 
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

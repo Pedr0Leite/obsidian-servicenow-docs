@@ -14,7 +14,7 @@ breadcrumb: [Emergency Exposure Management, Emergency Response Management, Emplo
 
 # Identify potentially exposed users
 
-When a user has indicated a health condition on a self-report, use [[emergency-exposure-management|Emergency Exposure Management]] to identify other users who might have come in contact with the affected user. You can analyze multiple data sources, such as location, meetings, workspace reservations, badge scans, and Wi-Fi access data of the affected user to identify potentially exposed users.
+When a user has indicated a health condition on a self-report, use Emergency Exposure Management to identify other users who might have come in contact with the affected user. You can analyze multiple data sources, such as location, meetings, workspace reservations, badge scans, and Wi-Fi access data of the affected user to identify potentially exposed users.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ To query through multiple data sources, the Emergency Exposure Management requir
 
     Badge reader scan, user daily contact log, Wi-Fi access log, handheld or wearable device proximity data,and visitor data.
 
--   **[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/install-emp-health-screening.md) and [[contact-tracing|Contact Tracing]]**
+-   **[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/install-emp-health-screening.md) and Contact Tracing**
 
     Scans visitor data.
 
@@ -85,7 +85,7 @@ Users who accepted the same meetings as the affected user during the specified t
 
 </td></tr><tr><td>
 
-**Workplace reservations** \( [[workplace-safety-mgmt-hr|Workplace Core]]\)
+**Workplace reservations** \( Workplace Core\)
 
 </td><td>
 
@@ -109,7 +109,7 @@ The list of users with whom the affected users interacted during the specified t
 
 </td></tr><tr><td>
 
-**Visitor log** \( Contact Tracing and [[employee-health-screening|Employee Health Screening]]\)
+**Visitor log** \( Contact Tracing and Employee Health Screening\)
 
 </td><td>
 
@@ -275,9 +275,3 @@ Work on the diagnostic request task to get information about potentially impacte
 
 **Parent Topic:**[Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/emergency-exposure-management.md)
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[contact-tracing|Contact Tracing]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-health-screening|Employee Health Screening]]

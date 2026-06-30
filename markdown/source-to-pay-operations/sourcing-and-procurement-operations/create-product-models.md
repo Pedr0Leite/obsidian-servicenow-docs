@@ -14,7 +14,7 @@ breadcrumb: [Setting up your product catalog, Setting up primary data Shopping, 
 
 # Create product models to group supplier products
 
-Create product models to group your [[supplier|supplier]] products.
+Create product models to group your supplier products.
 
 ## Before you begin
 
@@ -258,7 +258,7 @@ Acknowledgment type
 
 </td><td>
 
-Receipt of confirmation and the type of receipt. The options available are **[[milestones|Milestones]]**, **Service Acknowledgment**, and **Two Way Match**.The default value is based on the selected product category but the value provided here can override it.
+Receipt of confirmation and the type of receipt. The options available are **Milestones**, **Service Acknowledgment**, and **Two Way Match**.The default value is based on the selected product category but the value provided here can override it.
 
  This field appears only if the product type selected is **Service.**
 
@@ -278,7 +278,7 @@ Purchasing time in days
 
 </td><td>
 
-Number of days that are required to complete a [[purchase-order-table|purchase order]] for products in this category. This field is auto-populated based on the selected product category.
+Number of days that are required to complete a purchase order for products in this category. This field is auto-populated based on the selected product category.
 
  For details, see [Lead time calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/lead-time-calculations.md).
 
@@ -288,15 +288,8 @@ Number of days that are required to complete a [[purchase-order-table|purchase o
 
 ## What to do next
 
--   Use the related lists of the model category form to view the product models, supplier products, and [[ledger-assignment-rules|ledger assignment rules]] that are associated with this category.
--   [[create-ledger-assignment-rules|Create ledger assignment rules]] for this product model. See [add a ledger assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-ledger-assignment-rules.md).
+-   Use the related lists of the model category form to view the product models, supplier products, and ledger assignment rules that are associated with this category.
+-   Create ledger assignment rules for this product model. See [add a ledger assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-ledger-assignment-rules.md).
 
 **Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[milestones|Milestones]]
-- [[purchase-order-table|Purchase order]]
-- [[ledger-assignment-rules|Ledger assignment rules]]
-- [[create-ledger-assignment-rules|Create ledger assignment rules]]

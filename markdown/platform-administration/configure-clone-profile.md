@@ -20,7 +20,7 @@ Role required: clone\_admin or clone\_profile\_admin
 
 Here are a few basics about clone profiles:
 
--   Clone profiles can be duplicated via the [[Clone-UI|clone admin console]] when opening any clone profile.
+-   Clone profiles can be duplicated via the clone admin console when opening any clone profile.
 -   The system profile is provided by default and can't be changed.
 -   You can choose to prepare different profiles for individual use cases. For example, a different profile for upgrades, dev testing, IT app testing, HR app testing and so on.
 
@@ -28,13 +28,10 @@ Here are a few basics about clone profiles:
 
 1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Home**.
 
-2.  Navigate to **[[clone-configurations-tab|Configurations]]** &gt; **Clone Profiles**
+2.  Navigate to **Configurations** &gt; **Clone Profiles**
 
 3.  Select **New**.
 
 4.  Fill in the new clone profile form.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-configurations-tab|Configurations]]

@@ -14,11 +14,11 @@ breadcrumb: [Using Notify for making conference calls, Using Notify, Notify, Man
 
 # Start a conference call
 
-[[t_StartAConferenceCallFromATask|Start a conference call from a task]] or an incident communication plan by inviting one or more users to join a call. The conference will not start until at least two participants join.
+Start a conference call from a task or an incident communication plan by inviting one or more users to join a call. The conference will not start until at least two participants join.
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, incident\_communication\_manager
+Role required: notify\_view, incident\_communication\_manager
 
 ## About this task
 
@@ -52,7 +52,7 @@ Call participants can include:
 
 <table id="choicetable_b2f_p4c_lq"><tbody><tr><td id="d171397e151">
 
-**Click the [[reference|reference]] lookup icon, and select the relevant user.**
+**Click the reference lookup icon, and select the relevant user.**
 
 </td><td>
 
@@ -80,8 +80,3 @@ Click **Add to selected**.
 
 **Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)
 
-## Related
-
-- [[t_StartAConferenceCallFromATask|Start a conference call from a task]]
-- [[notify-landing-page|Notify]]
-- [[reference|Reference]]

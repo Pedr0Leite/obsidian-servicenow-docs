@@ -12,9 +12,9 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Customer and service order line items forms
 
-The Order Line Items form enables you to select, review, and [[Modify|modify]] the captured customer or service order line items.
+The Order Line Items form enables you to select, review, and modify the captured customer or service order line items.
 
-**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 ## Order Line items form - Details fields
 
@@ -84,9 +84,9 @@ State
 
 </td><td>
 
-Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon \[Omitted image "field-selection-list.png"\] Alt text:. **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [[order-mgt-state-values|Order line item form states]].
+Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon \[Omitted image "field-selection-list.png"\] Alt text:. **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [Order line item form states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md).
 
-For service order line item states, see [[service-order-mgt-state-values|Service order states]].
+For service order line item states, see [Service order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/service-order-mgt-state-values.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ PONR
 Option that indicates if this order line item is past the Point of No Return.
 
 -   If selected, it indicates that you can't revise the order line item or request a cancellation for it while the fulfillment process is in progress.
-    -   You can't select **Revise Order** or **[[cancel|Cancel]] Order** to attempt to change the order line item or to request a cancellation for it.
+    -   You can't select **Revise Order** or **Cancel Order** to attempt to change the order line item or to request a cancellation for it.
     -   If any of the order line items are designated as PONR, the parent order is also designated as PONR. If the parent order is designated as PONR, the associated line items are also designated as PONR. If any of the line items on an order reaches PONR, you can't revise the other line items on the same order.
 -   If cleared, you can still revise the order line item or request a cancellation for it.
 
@@ -127,11 +127,11 @@ Type of action that is taking place in the order line item. The available option
 -   Add
 -   Change
 -   Disconnect
--   [[Suspend|Suspend]]
--   [[Resume|Resume]]
+-   Suspend
+-   Resume
 -   No change
 
- For more information, see [[order-mgt-customer-order-types|Action types for customer and service orders]].
+ For more information, see [Action types for customer and service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-types.md).
 
 </td></tr><tr><td>
 
@@ -235,7 +235,7 @@ Sales agreement line
 
 </td><td>
 
-If you're using the [[sales-agreement-mgmt|Sales Agreement Management]] application and one or more sales agreement were created by an agent, this field shows the system-generated number for the corresponding sales agreement line.
+If you're using the Sales Agreement Management application and one or more sales agreement were created by an agent, this field shows the system-generated number for the corresponding sales agreement line.
 
 </td></tr><tr><td>
 
@@ -256,7 +256,7 @@ Indicates the action taken on the contract line, determined by the action type o
 -   Upsell
 -   Amend
 -   Cancel
--   [[Renew|Renew]]
+-   Renew
 
 </td></tr><tr><td>
 
@@ -267,7 +267,7 @@ Short Description
 Short description of the purchased product offering.
 
 </td></tr></tbody>
-</table>## Order line items form - date [[fields|fields]]
+</table>## Order line items form - date fields
 
 The Order Line Items form - dates section enables you to review and modify crucial date details for a customer order line item.
 
@@ -479,17 +479,3 @@ Price calculated with the adjustment amount from the specific pricing plan step.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[order-mgt-state-values|Customer order states]]
-- [[service-order-mgt-state-values|Service order states]]
-- [[order-mgt-customer-order-types|Action types for customer and service orders]]
-- [[Modify|Modify]]
-- [[cancel|Cancel]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]
-- [[Renew|Renew]]
-- [[fields|Fields]]

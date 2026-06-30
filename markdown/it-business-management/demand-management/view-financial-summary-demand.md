@@ -30,7 +30,7 @@ View a detailed breakdown of the cost components of a demand using the **Financi
 
 2.  Open a demand.
 
-3.  On the [[demand-form|Demand form]], select the **Cost Plans** or **Monetary Benefit Plans** related list.
+3.  On the Demand form, select the **Cost Plans** or **Monetary Benefit Plans** related list.
 
 4.  Select **Manage**.
 
@@ -143,6 +143,3 @@ Select the expand icon \[Omitted image "new-expand-icon.png"\] Alt text:or colla
 </table>
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]

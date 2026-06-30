@@ -26,7 +26,7 @@ The Map existing campus with locations fix script creates the initial mapping en
 
 Use the default setting **active=false** to avoid incorrect mappings in the Campus \[sn\_wsd\_core\_campus\] table.
 
-Run this script after activating the [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\) plugin and ensuring that your existing campuses have sites and regions populated.
+Run this script after activating the Safe Workplace Dashboard \(sn\_imt\_dashboard\) plugin and ensuring that your existing campuses have sites and regions populated.
 
 After running the Map existing campus with locations fix script, validate that all campuses and locations are accurate. For inaccurate data, remove entries and see [Manually map a location and campus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/man-create-campus.md) for more information.
 
@@ -54,7 +54,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -79,19 +79,19 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 
 If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
 -   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
@@ -173,7 +173,7 @@ The data collector jobs installed with the Safe Workplace Dashboard are set to r
 
 |Scheduled job|Description|
 |-------------|-----------|
-|\[PA [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]\] Daily Data Collection|Collects metrics from Safe Workplace suite apps starting from the previous day to the current day. A user with the pa\_data\_collector role can change the parameters.|
+|\[PA Workplace Service Delivery\] Daily Data Collection|Collects metrics from Safe Workplace suite apps starting from the previous day to the current day. A user with the pa\_data\_collector role can change the parameters.|
 |Aggregate campus status data|Collects data from check-ins and campus statuses to populate the Reopening Check-In Count \[sn\_imt\_dashboard\_reopening\_checkin\_count\] table. Runs daily at 23:00 instance time.|
 
 ### Tables installed
@@ -232,7 +232,7 @@ Reopening Check-In Audience\[sn\_imt\_dashboard\_reopening\_checkin\_audience\]
 
 </td><td>
 
-Table containing check-in [[ecpro-audience|audiences]] and their criteria based on the organization's configurations. Administrators can create Check-In Audiences using the condition builder to create users. Users are uniquely counted across tables even if they have the same user ID. Check-In Audiences are required to provide information to populate widgets in the Safe Workplace Dashboard Reopening page.
+Table containing check-in audiences and their criteria based on the organization's configurations. Administrators can create Check-In Audiences using the condition builder to create users. Users are uniquely counted across tables even if they have the same user ID. Check-In Audiences are required to provide information to populate widgets in the Safe Workplace Dashboard Reopening page.
 
 </td></tr><tr><td>
 
@@ -339,20 +339,3 @@ For information about customizing Service Portal widgets, see [Service Portal wi
 
 For information about using Performance Analytics, see [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-overview.md).
 
-## Related
-
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[ecpro-audience|Audiences]]

@@ -12,7 +12,7 @@ breadcrumb: [Business locations, Configure Service Model Foundation, Data models
 
 # Create and manage cases for a business location
 
-As a staff member with the location agent role, create and [[manage-cases|manage cases]] for your business locations.
+As a staff member with the location agent role, create and manage cases for your business locations.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Staff members with the location agent role can do the following:
 
 -   View information for the customers at their location.
 -   Create cases for the accounts, contacts, households, and consumers at their location.
--   [[import-create-csm-consumers|Create consumers]].
+-   Create consumers.
 -   Update cases created at their location.
 
 A case belongs to one business location. When a case is created by a location agent or manager, the **Service Organization** field on the Case form is automatically updated with the business location that the agent or manager belongs to. If the case is reassigned, this field is updated to show the new agent or manager.
@@ -43,7 +43,7 @@ Location agents and managers can create cases for business locations without add
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [[r_CustomerServiceCaseForm|Case form]].
+    For a description of the field values, see [Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustomerServiceCaseForm.md).
 
 4.  Select **Submit**.
 
@@ -51,20 +51,11 @@ Location agents and managers can create cases for business locations without add
 **Related topics**  
 
 
-[[industry-data-model-cases|Service Model Foundation cases]]
+[Service Model Foundation cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/industry-data-model-cases.md)
 
-[[csm-assign-responsibilities|Assign responsibilities]]
+[Assign responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-assign-responsibilities.md)
 
-[[configure-data-model-roles|Assign roles]]
+[Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-roles.md)
 
-[[t_CreateACaseFromCustServApp|Create a customer service case]]
+[Create a customer service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustServApp.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[industry-data-model-cases|Service Model Foundation cases]]
-- [[csm-assign-responsibilities|Assign responsibilities]]
-- [[configure-data-model-roles|Assign roles]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[manage-cases|Manage cases]]
-- [[import-create-csm-consumers|Create consumers]]

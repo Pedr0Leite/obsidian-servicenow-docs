@@ -14,7 +14,7 @@ breadcrumb: [Report on service catalog variables, Advanced Core UI reporting top
 
 # Group a report by service catalog variables
 
-You can create reports grouped by variable on a selected service catalog item. In addition, you can create filters on the same variable. For example, if a mobile phone item has a storage variable, you can [[t_CreateYourOwnReport|create a report]] that only shows those phones with 32 GB of storage.
+You can create reports grouped by variable on a selected service catalog item. In addition, you can create filters on the same variable. For example, if a mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 
 ## Before you begin
 
@@ -24,17 +24,17 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 You can apply these steps to any report type as long as the report source has variables associated with it. If the report source doesn’t have variables, the **Variables** option doesn’t display in the **Group by** and **Stack by** fields.
 
-**Note:** List, Box, Trendbox, and Pivot reports can’t use service catalog variables as a primary or secondary **Group by**. Single Score, Calendar, Control, and [[c_MapReport|Map reports]] don’t support **Group by** on any fields. [[list-reports|List reports]] can use service catalog variables as columns.
+**Note:** List, Box, Trendbox, and Pivot reports can’t use service catalog variables as a primary or secondary **Group by**. Single Score, Calendar, Control, and Map reports don’t support **Group by** on any fields. List reports can use service catalog variables as columns.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
 3.  Select a report source that has variables associated with it.
 
-    There are two kinds of [[c_ReportSources|report sources]].
+    There are two kinds of report sources.
 
     |Report source|Description|
     |-------------|-----------|
@@ -58,10 +58,3 @@ You can apply these steps to any report type as long as the report source has va
 
 **Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/rep-service-catalog-variables.md)
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_MapReport|Map reports]]
-- [[list-reports|List reports]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]

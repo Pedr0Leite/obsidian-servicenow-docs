@@ -14,7 +14,7 @@ breadcrumb: [Types of privacy assessments, Use, Privacy Management, Governance, 
 
 # Initiating privacy assessments for an entity or a processing activity
 
-To discover whether a business process or an application is processing personal data, you can use privacy screening assessments. To regularly assess how [[ropa-record|processing activities]] are processing personal data, you can use privacy assessments such as privacy impact assessment \(PIA\).
+To discover whether a business process or an application is processing personal data, you can use privacy screening assessments. To regularly assess how processing activities are processing personal data, you can use privacy assessments such as privacy impact assessment \(PIA\).
 
 ## Privacy screening assessment
 
@@ -23,7 +23,7 @@ Conducting a privacy screening assessment helps you discover whether the entity 
 You can send the privacy screening assessments in the following ways:
 
 -   From the entity record only when a processing activity is not available.
--   From the entities related list in [[entity-type-in-risk-ws|entity types]].
+-   From the entities related list in entity types.
 
 When you initiate privacy screening assessments for entities, processing activities are created based on the responses submitted by the entity owners.
 
@@ -31,7 +31,7 @@ When you initiate privacy screening assessments for entities, processing activit
 
 After a processing activity is created, based on the assessment configurations, the following events occur:
 
-1.  The necessary [[information-objects|information objects]] are mapped to the processing activity record. To understand more about information objects and their uses, see [Information objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/information-objects.md).
+1.  The necessary information objects are mapped to the processing activity record. To understand more about information objects and their uses, see [Information objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/information-objects.md).
 2.  The necessary controls are mapped to the processing activity record.
 3.  Critical assessment responses such as the purpose of the processing activity, data subject type and so on are copied over to the processing activity record.
 
@@ -39,7 +39,7 @@ After a processing activity is created, based on the assessment configurations, 
 
 ## Privacy assessments
 
-When processing activity records are identified, to understand how a processing activity is processing personal information, various [[privacy-assessments|types of privacy assessments]] such as privacy impact assessments \(PIA\) and transfer impact assessment \(TIA\) are sent. You can trigger PIAs from a single processing activity record. For more information, see [Send a privacy assessment from a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-asmt-from-pa.md). Alternatively, you can send privacy impact assessments to multiple processing activities, using the Entity type capability or from the processing activity [[list-view-uib-ws|list view]]. For more information on how to send an assessment to multiple entities, see [Send a privacy assessment to multiple entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-assessment.md).
+When processing activity records are identified, to understand how a processing activity is processing personal information, various types of privacy assessments such as privacy impact assessments \(PIA\) and transfer impact assessment \(TIA\) are sent. You can trigger PIAs from a single processing activity record. For more information, see [Send a privacy assessment from a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-asmt-from-pa.md). Alternatively, you can send privacy impact assessments to multiple processing activities, using the Entity type capability or from the processing activity list view. For more information on how to send an assessment to multiple entities, see [Send a privacy assessment to multiple entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-assessment.md).
 
 -   **[Send a privacy assessment from an entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-assessmt-entity.md)**  
 Send a privacy assessment to an entity owner to determine if there's personal data involved in the processing activities.
@@ -53,10 +53,3 @@ Send the privacy screening assessment or the Privacy impact assessment \(PIA\) a
 
 [Send a privacy assessment to multiple entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-assessment.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[information-objects|information objects]]
-- [[privacy-assessments|Types of privacy assessments]]
-- [[list-view-uib-ws|List view]]

@@ -14,12 +14,12 @@ breadcrumb: [Capacity management, Configure, Telecommunications Network Inventor
 
 # Create capacity definition
 
-Create a capacity definition in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use multiple functions in the capacity definition to calculate the capacity of your network assets.
+Create a capacity definition in the Telecommunications Network Inventory application. You can use multiple functions in the capacity definition to calculate the capacity of your network assets.
 
 ## Before you begin
 
--   Make sure that the [[capacity-management-reporting|Capacity Management]] plugin is installed with the Telecommunications Network Inventory application.
--   You [[create-capacity-function|create capacity function]] records.
+-   Make sure that the Capacity Management plugin is installed with the Telecommunications Network Inventory application.
+-   You create capacity function records.
 
 Role required: sn\_ni\_core.inventory\_admin
 
@@ -55,8 +55,3 @@ You can use the definition for capacity calculation. When you run the capacity d
 
 [Capacity management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/capacity-management-reporting.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[capacity-management-reporting|Capacity management]]
-- [[create-capacity-function|Create capacity function]]

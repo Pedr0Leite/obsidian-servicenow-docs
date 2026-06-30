@@ -12,7 +12,7 @@ breadcrumb: [Approval recommendations using generative AI, Use, Unified Security
 
 # Generate approval recommendations with generative AI
 
-Use a generative AI skill to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. Reduce manual effort and improve decision accuracy for your approvers in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Use a generative AI skill to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. Reduce manual effort and improve decision accuracy for your approvers in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -44,9 +44,5 @@ Role required: sn\_sec\_exception.approver
 -   **Refresh** the recommendation with the refresh icon. Refresh generates a fresh recommendation by analyzing latest data related to the request.
 -   **Provide feedback** using the thumbs up/down icons to rate the usefulness of the recommendation.
 
-**Parent Topic:**[[now-assist-vr-generating-approvals|Approval recommendations using generative AI]]
+**Parent Topic:**[Approval recommendations using generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-vr-generating-approvals.md)
 
-## Related
-
-- [[now-assist-vr-generating-approvals|Approval recommendations using generative AI]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

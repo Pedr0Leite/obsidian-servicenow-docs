@@ -18,7 +18,7 @@ Configure **glide.sys.log\_impersonation** to control if user-impersonating even
 
 If **glide.sys.log\_impersonation** is not set to the recommended value of **true**, then user-impersonating events are no longer logged.
 
-Ensure that the property **glide.sys.log\_impersonation** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+Ensure that the property **glide.sys.log\_impersonation** exists in the System Properties \[sys\_properties\] table and is set to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

@@ -18,7 +18,7 @@ Use update sets to migrate your translations to another instance. Configure prop
 
 Update sets enable you to transfer your artifact translations to other instances. For background information on update sets, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md).
 
-For [[ia-localization-il|localization]] tasks, previously the default was to create a dedicated update set per task in the scope of the artifact. Alternatively, with sys properties you can specify your update set strategy: bundle translations into one update set, or distribute into granular update sets.
+For localization tasks, previously the default was to create a dedicated update set per task in the scope of the artifact. Alternatively, with sys properties you can specify your update set strategy: bundle translations into one update set, or distribute into granular update sets.
 
 The settings for update set strategies vary according to the type of translation, defined as follows:
 
@@ -85,11 +85,7 @@ Save translations in 'LF: Translations' update set
 The system creates or reuses one update set named 'LF: Translations', and all adhoc translations are written to it.
 
 </td></tr></tbody>
-</table>To set these properties, navigate to **[[localization-framework-landing|Localization Framework]]** &gt; **Properties**. Choose the appropriate strategy and select **Save**.
+</table>To set these properties, navigate to **Localization Framework** &gt; **Properties**. Choose the appropriate strategy and select **Save**.
 
 **Parent Topic:**[Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

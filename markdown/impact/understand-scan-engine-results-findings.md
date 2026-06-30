@@ -17,12 +17,12 @@ After a scan runs, you can monitor its progress in real-time, review the complet
 
 Reviewing scan results and acting on findings is a two-phase process.
 
-1.  View scan results: Monitor an active scan or open a completed scan record to see its status, duration, and batch progress. See [[viewing-scan-results-scan-engine|View scan results for Scan Engine]].
-2.  Work with findings: Open individual findings from the scan record to understand their enforcement level and [[impact-landing-page|impact]], then apply fixes or submit exceptions for review. See [[work-with-scan-engine-findings|Work with Scan Engine findings]].
+1.  View scan results: Monitor an active scan or open a completed scan record to see its status, duration, and batch progress. See [View scan results for Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/viewing-scan-results-scan-engine.md).
+2.  Work with findings: Open individual findings from the scan record to understand their enforcement level and impact, then apply fixes or submit exceptions for review. See [Work with Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/work-with-scan-engine-findings.md).
 
 ## How findings are evaluated
 
-Every finding in your instance is evaluated along two critical dimensions to [[io-help|help]] your team prioritize remediation efforts and maintain compliance standards.
+Every finding in your instance is evaluated along two critical dimensions to help your team prioritize remediation efforts and maintain compliance standards.
 
 -   **Level of finding**
 
@@ -81,12 +81,12 @@ RECOMMEND
 
 </td><td>
 
-High severity issues that may degrade [[instance-observer-performance|performance]], stability, or security. Exceptions with governance are allowed.
+High severity issues that may degrade performance, stability, or security. Exceptions with governance are allowed.
 
 </td><td>
 
 -   The record can not be saved until the issue is resolved or and exception reason is provided formal approval.
--   For more information, refer to [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]].
+-   For more information, refer to [Submit exceptions for Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
 </td></tr><tr><td>
 
@@ -137,11 +137,3 @@ These two metrics work together to help teams balance enforcement and risk prior
 
 [Work with Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/work-with-scan-engine-findings.md)
 
-## Related
-
-- [[viewing-scan-results-scan-engine|View scan results for Scan Engine]]
-- [[work-with-scan-engine-findings|Work with Scan Engine findings]]
-- [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

@@ -18,7 +18,7 @@ Activate the UI Components of Collaboration for Configurable Workspaces \(com.sn
 
 ## About this task
 
-If you’re upgrading to Zurich, you must install the UI Components of Collaboration for Configurable Workspaces \(com.snc.uib.collaboration\) plugin to use the component in across other workspaces. The existing [[collab-services-tcm|Collaboration services]] for Service Operations Workspace \(SOW\) \(com.snc.uib.sow\_collaboration\) is still supported. However, to use the latest collaboration services component, you must update the system properties to implement the functionality. The UI Components of Collaboration for Configurable Workspaces \(com.snc.uib.collaboration\) plugin is installed by default for zBoot users. For more information about updating the system property, see [Migrate the collaborate and Microsoft Teams import screens to new Collaboration services screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-new-screens-collab-v2.md).
+If you’re upgrading to Zurich, you must install the UI Components of Collaboration for Configurable Workspaces \(com.snc.uib.collaboration\) plugin to use the component in across other workspaces. The existing Collaboration services for Service Operations Workspace \(SOW\) \(com.snc.uib.sow\_collaboration\) is still supported. However, to use the latest collaboration services component, you must update the system properties to implement the functionality. The UI Components of Collaboration for Configurable Workspaces \(com.snc.uib.collaboration\) plugin is installed by default for zBoot users. For more information about updating the system property, see [Migrate the collaborate and Microsoft Teams import screens to new Collaboration services screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-new-screens-collab-v2.md).
 
 Additionally, if you have made any customizations, you must apply those customizations again when you install the UI Components of Collaboration for Configurable Workspaces \(com.snc.uib.collaboration\) plugin.
 
@@ -28,7 +28,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Enter `com.snc.uib.collaboration` in the search bar.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 [Migrate the collaborate and Microsoft Teams import screens to new Collaboration services screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-new-screens-collab-v2.md)
 
-## Related
-
-- [[collab-services-tcm|Collaboration services]]
-- [[dex-workspace-application-tab|Applications]]

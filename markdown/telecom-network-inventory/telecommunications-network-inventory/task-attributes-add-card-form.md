@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task attributes in Add Card form
 
-The Task attributes in Add Card form enables you to add a card to an equipment record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Add Card form enables you to add a card to an equipment record in the Telecommunications Network Inventory application.
 
 <table id="table_htp_wkd_wrb"><thead><tr><th>
 
@@ -80,6 +80,3 @@ Multiple slot selector to select multiple slots if it's required for the selecte
 
 [Add a card to equipment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-card-equipment-design-assign-function.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

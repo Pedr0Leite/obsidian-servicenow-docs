@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro, Unified Employee Experience, Employee Service 
 
 # Authoring and managing employee communications
 
-Content managers and admins use [[employee-center-pro-landing|Employee Center Pro]] capabilities to create [[eslate-employee-comms|employee communications]], assemble multi-stage and multi-channel campaigns, manage content requests, and measure impact.
+Content managers and admins use Employee Center Pro capabilities to create employee communications, assemble multi-stage and multi-channel campaigns, manage content requests, and measure impact.
 
 <table id="table_b4h_hzv_sdc" class="nav-card presentation"><tbody><tr><td>
 
@@ -40,7 +40,3 @@ Content managers and admins use [[employee-center-pro-landing|Employee Center Pr
 
 [Setup continuous improvement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-continuous-improvement.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[eslate-employee-comms|Employee communications]]

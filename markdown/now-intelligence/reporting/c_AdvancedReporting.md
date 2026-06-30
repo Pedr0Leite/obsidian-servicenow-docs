@@ -45,7 +45,7 @@ While regular fields store a value in the database, a function field displays th
 -   **[Report on questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-on-questions.md)**  
 Report on selected questions by grouping or filtering on them.
 -   **[Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md)**  
-Depending on the type and configuration of the report, you can select one color, a predefined color palette, or predefined [[c_ChartColors|chart colors]]. All three options are built on a customizable set of individual colors.
+Depending on the type and configuration of the report, you can select one color, a predefined color palette, or predefined chart colors. All three options are built on a customizable set of individual colors.
 -   **[Scoped reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ScopedReports.md)**  
 When editing a report from a different application scope than the current scope, actions modifying the original report are unavailable.
 -   **[Value formatting in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/value-formatting-reports.md)**  
@@ -53,6 +53,3 @@ In most reports, you can configure how numerical values look when you publish th
 
 **Parent Topic:**[Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-landing-page.md)
 
-## Related
-
-- [[c_ChartColors|Chart colors]]

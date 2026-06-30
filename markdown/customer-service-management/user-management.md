@@ -12,7 +12,7 @@ breadcrumb: [Set up your environment, Configure, Customer Service Management]
 
 # User management
 
-Configure the internal and external users for [[c_CustomerServiceManagement|Customer Service Management]] to provide the correct access to features, capabilities, and case data. [[configure-data-model-relationships|Create relationships]] that facilitate [[case-management|case management]] and fulfill support roles for specific accounts.
+Configure the internal and external users for Customer Service Management to provide the correct access to features, capabilities, and case data. Create relationships that facilitate case management and fulfill support roles for specific accounts.
 
 <table id="table_hh2_f55_41c"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[configure-csm-users-groups|Configure users and groups]]
+[Configure users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-users-groups.md)
 
 </td><td>
 
@@ -32,15 +32,15 @@ Configure the individual users and the user groups who can access your instance.
 
 </td></tr><tr><td>
 
-[[assign-csm-roles|Assign roles to CSM users]]
+[Assign roles to CSM users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-roles.md)
 
 </td><td>
 
-[[configure-data-model-roles|Assign roles]] to individual users and user groups to control access to features, capabilities, and data.
+Assign roles to individual users and user groups to control access to features, capabilities, and data.
 
 </td></tr><tr><td>
 
-[[consumer-profiles-configuration|Create multiple consumer profiles for a user]]
+[Create multiple consumer profiles for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/consumer-profiles-configuration.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Individual consumers can have multiple profiles for different needs. You can cre
 
 </td></tr><tr><td>
 
-[[configuring-unified-user|Configure a unified user]]
+[Configure a unified user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-unified-user.md)
 
 </td><td>
 
@@ -56,17 +56,17 @@ Enable users to maintain multiple profiles within the Customer Service Managemen
 
 </td></tr><tr><td>
 
-[[c_CustomerServiceRelationships|Create customer relationships]]
+[Create customer relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceRelationships.md)
 
 </td><td>
 
-Establish different types of relationships between partners, customers, and contacts, to make case and account management easy and flexible:-   [[c_AccountRelationships|Bi-directional account relationships]]
--   [[c_ContactRelationships|Contact relationships]]
+Establish different types of relationships between partners, customers, and contacts, to make case and account management easy and flexible:-   Bi-directional account relationships
+-   Contact relationships
 -   Account hierarchies
 
 </td></tr><tr><td>
 
-[[configure-csm-account-teams|Create account teams]]
+[Create account teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-account-teams.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Create teams made up of employees and customer contacts who fulfill the roles an
 
 </td></tr><tr><td>
 
-[[config-contributor-user|Configure Contributor Users]]
+[Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md)
 
 </td><td>
 
@@ -82,15 +82,15 @@ Configure contributor users to engage middle office teams in resolving customer 
 
 </td></tr><tr><td>
 
-[[configuring-cam|Configuring customer access management]]
+[Configuring customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-cam.md)
 
 </td><td>
 
-Configure customer access management to support multiple contacts and consumers on cases and [[sold-product|sold products]], providing them with varying levels of access to the case.
+Configure customer access management to support multiple contacts and consumers on cases and sold products, providing them with varying levels of access to the case.
 
 </td></tr><tr><td>
 
-[[fixing-external-role-assignment|Fix external user role assignments]]
+[Fix external user role assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/fixing-external-role-assignment.md)
 
 </td><td>
 
@@ -98,22 +98,3 @@ Fix the issue with external users assigned with internal user roles.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-users-groups|Configure users and groups]]
-- [[assign-csm-roles|Assign roles to CSM users]]
-- [[consumer-profiles-configuration|Creating multiple consumer profiles for a user]]
-- [[configuring-unified-user|Configuring a Unified User]]
-- [[c_CustomerServiceRelationships|Create customer relationships]]
-- [[configure-csm-account-teams|Creating an account team]]
-- [[config-contributor-user|Configure Contributor Users]]
-- [[configuring-cam|Configuring customer access management]]
-- [[fixing-external-role-assignment|Fix external user role assignments]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[case-management|Case management]]
-- [[configure-data-model-roles|Assign roles]]
-- [[c_AccountRelationships|Bi-directional account relationships]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[sold-product|Sold products]]

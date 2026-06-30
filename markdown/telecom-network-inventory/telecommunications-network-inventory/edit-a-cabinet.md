@@ -14,7 +14,7 @@ breadcrumb: [Create a cabinet, Create and maintain racks and cabinets, Manually 
 
 # Edit a cabinet
 
-Edit a cabinet to remove, add, or move the equipment from the selected cabinet. Organize and upgrade the components within the cabinet using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Edit a cabinet to remove, add, or move the equipment from the selected cabinet. Organize and upgrade the components within the cabinet using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Cabinet**.
 
@@ -108,7 +108,3 @@ To perform further actions, see [Optimizing rack and cabinet usage](https://raw.
 
 **Parent Topic:**[Create a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cabinet.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

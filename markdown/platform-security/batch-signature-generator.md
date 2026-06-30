@@ -17,7 +17,7 @@ Automatically generate batch update sets for records with invalid or missing sig
 
 ## Before you begin
 
-You need the guardrail scan CSV report generated during CoT setup. To rerun the guardrail check, navigate to the **[[signature-verification-status|Signature Verification Status]]** tab in the Health and Status Dashboard. Select the **Rescan** button to start the scan.
+You need the guardrail scan CSV report generated during CoT setup. To rerun the guardrail check, navigate to the **Signature Verification Status** tab in the Health and Status Dashboard. Select the **Rescan** button to start the scan.
 
 Roles required:
 
@@ -60,6 +60,3 @@ Upload a CSV file of invalid records from guardrail checks. The utility creates 
 
 You can import the downloaded update sets on the protected instance to complete further signing steps.
 
-## Related
-
-- [[signature-verification-status|Signature Verification Status]]

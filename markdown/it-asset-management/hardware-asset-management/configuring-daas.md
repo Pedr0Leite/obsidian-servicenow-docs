@@ -14,7 +14,7 @@ breadcrumb: [Device as a Service, Hardware Asset Management, IT Asset Management
 
 # Configuring DaaS
 
-Plan and configure the [[exploring-daas|Device as a Service]] \(DaaS\) features and functionalities.
+Plan and configure the Device as a Service \(DaaS\) features and functionalities.
 
 ## Configuration overview
 
@@ -34,7 +34,7 @@ Resource
 
 </th></tr></thead><tbody><tr><td>
 
-\[Omitted image "bus-download.svg"\] Alt text: Install Hardware Asset ManagementInstall [[ham-landing-page|Hardware Asset Management]]
+\[Omitted image "bus-download.svg"\] Alt text: Install Hardware Asset ManagementInstall Hardware Asset Management
 
 </td><td>
 
@@ -70,7 +70,7 @@ Mark your assets as DaaS assets on the Hardware Asset Details form.
 
 </td></tr><tr><td>
 
-\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Explore [[daas-workspace|DaaS Provider view]] in [[using-ham-workspace|Hardware Asset Workspace]].Explore DaaS provider view in Hardware Asset Workspace
+\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Explore DaaS Provider view in Hardware Asset Workspace.Explore DaaS provider view in Hardware Asset Workspace
 
 </td><td>
 
@@ -86,7 +86,7 @@ Explore the intuitive DaaS provider view in Hardware Asset Workspace to manage t
 
 </td><td>
 
-Use Hardware Asset Management for DaaS to offer assets and [[am-landing-page|asset management]] services to the customers of DaaS providers.
+Use Hardware Asset Management for DaaS to offer assets and asset management services to the customers of DaaS providers.
 
 </td><td>
 
@@ -95,11 +95,3 @@ Use Hardware Asset Management for DaaS to offer assets and [[am-landing-page|ass
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-daas|Device as a Service]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[daas-workspace|DaaS provider view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[am-landing-page|Asset Management]]

@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Configure an ongoing notification for email interactions
 
-Configure an ongoing notification for email interactions. Configure the ongoing menu item on the toolbar in the [[csm-workspaces-configure|CSM Configurable workspace]] for agents.
+Configure an ongoing notification for email interactions. Configure the ongoing menu item on the toolbar in the CSM Configurable workspace for agents.
 
 ## Before you begin
 
@@ -29,6 +29,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

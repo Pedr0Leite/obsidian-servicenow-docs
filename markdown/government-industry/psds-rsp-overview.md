@@ -34,8 +34,5 @@ Merit reviewers can do the following tasks in the Reviewer Service Portal:
 -   Provide comments for rationale, strengths, or concerns about their evaluation of the proposal.
 -   Submit or decline a review along with justifications.
 
-For more information on how to use the Reviewer Service Portal, see [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal in Public Sector Digital Services]].
+For more information on how to use the Reviewer Service Portal, see [Using the Reviewer Service Portal in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-merit-review-portal-agent.md).
 
-## Related
-
-- [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal]]

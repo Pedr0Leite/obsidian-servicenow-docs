@@ -14,7 +14,7 @@ breadcrumb: [MFA criteria, Configuring MFA, Multi-factor authentication, Authent
 
 # Configure role-based multi-factor criteria
 
-Use role based multi-factor criteria to enforce [[mfa-landing|Multi-factor authentication]] for all [[users|users]] assigned to specific roles.
+Use role based multi-factor criteria to enforce Multi-factor authentication for all users assigned to specific roles.
 
 ## Before you begin
 
@@ -54,7 +54,3 @@ Your instance enforces multi-factor authentication for all users who are members
 
 **Important:** The record must be active to enforce role-based multi-factor authentication.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]

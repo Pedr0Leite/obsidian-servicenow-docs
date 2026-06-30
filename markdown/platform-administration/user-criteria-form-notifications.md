@@ -111,8 +111,5 @@ Match All
 Option to make every condition required when the user criteria is applied. The conditions are set in the previous fields, such as Companies, Locations, Departments, and so on.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-email-admin|Reference]]
+</table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reference-email-admin.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

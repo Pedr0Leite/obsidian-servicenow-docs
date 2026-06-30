@@ -20,7 +20,7 @@ Create an upgrade schedule to enable the instance to upgrade an out-of-date prox
 
 To schedule an upgrade, you must be logged in to your instance through the proxy server.
 
-If using AES 256-bit [[encryption-landing|encryption]] with Java 8 update 141 \(8u141\) or lower, you must install the Java Cryptography Extension \(JCE\) jurisdiction policy files by copying them into the system Java home directory of each [[edge-encryption|Edge Encryption]] proxy server host. Add these files to the `<Java-home-directory>/jre/lib/security` folder before performing a scheduled or manual upgrade. To install the AES 256-bit encryption policy files, see [Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md).
+If using AES 256-bit encryption with Java 8 update 141 \(8u141\) or lower, you must install the Java Cryptography Extension \(JCE\) jurisdiction policy files by copying them into the system Java home directory of each Edge Encryption proxy server host. Add these files to the `<Java-home-directory>/jre/lib/security` folder before performing a scheduled or manual upgrade. To install the AES 256-bit encryption policy files, see [Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md).
 
 Role required: security\_admin
 
@@ -30,14 +30,14 @@ Once the upgrade is scheduled, the proxy server automatically upgrades at the sc
 
 **Note:** Because the proxy server restarts during the upgrade, it is offline for a short time. The amount of time is determined by your environment and how long it takes to stop and restart the proxy service.
 
-During the scheduled upgrade, a new proxy directory is created and your [[sc-configuration|configuration]] files are copied to the new directory. New properties are written to your existing properties file. The following files or directories in your old proxy directory are copied to the new proxy directory.
+During the scheduled upgrade, a new proxy directory is created and your configuration files are copied to the new directory. New properties are written to your existing properties file. The following files or directories in your old proxy directory are copied to the new proxy directory.
 
 -   `/conf` directory
 -   `/keys` directory
 -   `/keystore` directory
 -   `java/jre/lib/security/cacerts` file
 
-As a result, your keys, keystores, settings, and [[c_Certificates|certificates]] are preserved.
+As a result, your keys, keystores, settings, and certificates are preserved.
 
 **Note:** Only the above files are copied to the new proxy directory. Any other customized files in the proxy server directory will not be preserved during a scheduled upgrade. The upgrade log file can be found in the original proxy directory in the following folder: `<original-proxy-directory>/tmp/upgrade-wrapper/bin`.
 
@@ -123,9 +123,3 @@ The typical time for an upgrade is less that 15 minutes. After an upgrade is exe
 
 **Parent Topic:**[Upgrading Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_UpdateEdgeEncryptionProxy.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[c_Certificates|Certificates]]

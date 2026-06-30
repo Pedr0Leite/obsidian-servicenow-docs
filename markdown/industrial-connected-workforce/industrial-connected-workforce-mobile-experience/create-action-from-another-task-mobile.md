@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create an action from another task
 
-[[create-industrial-action|Create an action]] as a child task to another task [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+Create an action as a child task to another task Industrial Connected Workforce Mobile Experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 ## About this task
 
-You can create an action from an existing action, deviation, breakdown, or [[industrial-root-cause-analysis|root cause analysis]].
+You can create an action from an existing action, deviation, breakdown, or root cause analysis.
 
 ## Procedure
 
@@ -49,8 +49,3 @@ The action is created and can be found in the **Actions** related list of the pa
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[create-industrial-action|Create an action]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

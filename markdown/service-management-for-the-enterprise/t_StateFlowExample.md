@@ -56,8 +56,5 @@ Create a new state flow record that automates the transition from Pending Dispat
     This action deactivates the transition that allows agents to accept tasks and moves the state flow directly from **Pending Dispatch** to **Accepted**.
 
 
-**Parent Topic:**[[c_ServiceManagementStates|Service management states]]
+**Parent Topic:**[Service management states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagementStates.md)
 
-## Related
-
-- [[c_ServiceManagementStates|Service management states]]

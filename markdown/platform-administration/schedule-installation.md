@@ -18,7 +18,7 @@ Schedule the installation of a plugin, application, or product at the required t
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -59,7 +59,7 @@ Role required: admin
 
 ## What to do next
 
-Click the schedule summary icon \(\[Omitted image "schedule-summ-icon.png"\] Alt text: Schedule summary icon. \) to view the installation status and [[schedule-calendar|schedule calendar]].
+Click the schedule summary icon \(\[Omitted image "schedule-summ-icon.png"\] Alt text: Schedule summary icon. \) to view the installation status and schedule calendar.
 
 \[Omitted image "schedule-summary.png"\] Alt text: Schedule summary.
 
@@ -74,11 +74,5 @@ Click the schedule summary icon \(\[Omitted image "schedule-summ-icon.png"\] Alt
 
 -   To view the schedule of installations, click **Full schedule**. A calendar displays the details of the scheduled installations.
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]
-- [[schedule-calendar|Schedule calendar]]

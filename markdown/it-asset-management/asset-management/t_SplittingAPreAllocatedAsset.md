@@ -22,7 +22,7 @@ Role required: asset
 
 ## About this task
 
-For example, a group of 100 pre-allocated computers is in Stockroom A. Split the group into two groups of 50 and move one group to Stockroom B. Allocate the computers from the two different [[c_Stockrooms|stockrooms]].
+For example, a group of 100 pre-allocated computers is in Stockroom A. Split the group into two groups of 50 and move one group to Stockroom B. Allocate the computers from the two different stockrooms.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ For example, a group of 100 pre-allocated computers is in Stockroom A. Split the
 
 **Parent Topic:**[Manage pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-preallocated-asset.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]

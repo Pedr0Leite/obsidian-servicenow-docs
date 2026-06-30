@@ -20,7 +20,7 @@ Role required: sn\_st\_mgmt.test\_def\_creator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Groups** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Groups** &gt; **All**.
 
 2.  Select **New**.
 
@@ -95,6 +95,4 @@ Description for the test group.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[stm-landing-page|Service Test Management]]

@@ -14,30 +14,23 @@ breadcrumb: [Playbook Resources, Security Incident Response, Enterprise security
 
 # Security Incident Response playbooks
 
-You can invoke the [[security-incident-playbook|security incident playbook]] flow automatically or manually.
+You can invoke the security incident playbook flow automatically or manually.
 
 A Playbook is visible only if at least one playbook is associated with a security incident. The playbook component works only for the Process Automation Designer \(PAD\) built processes and not for the flow designer-built flows. For the existing flow designer enabled flows, it will continue to work, and the activities will be continuing to be rendered as response tasks.
 
-[[sir-landing-page|Security Incident Response]] supports two types of [[tisc-playbooks-admin|Playbooks]]:
+Security Incident Response supports two types of Playbooks:
 
 -   [Process-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbooks-process-based.md)
 -   [Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-In addition to the listed playbooks, there are also subflows in [[security-operations-landing-page|Security Operations]] Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
+In addition to the listed playbooks, there are also subflows in Security Operations Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
 
 Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/getting-started-phishing-playbook.md).
 
 -   **[Process-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbooks-process-based.md)**  
-The playbook component works only for playbooks built in Workflow Studio and not for flows. However, existing [[playbook-flow-based|flow-based playbooks]] will continue to work and the activities will be continuing to be rendered as response tasks.
+The playbook component works only for playbooks built in Workflow Studio and not for flows. However, existing flow-based playbooks will continue to work and the activities will be continuing to be rendered as response tasks.
 -   **[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)**  
 Using the Flow Designer, security administrators and flow design authors can more easily transition from manual or undocumented playbooks to automated and repeatable playbooks. The drag-and-drop feature provides flexibility in moving objects, condition checks, parallel branching, decision tables, and more.
 
 **Parent Topic:**[Playbook Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-flow-library.md)
 
-## Related
-
-- [[security-incident-playbook|Security Incident Playbook]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[security-operations-landing-page|Security Operations]]
-- [[playbook-flow-based|Flow-based Playbooks]]

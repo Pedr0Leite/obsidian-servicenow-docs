@@ -12,7 +12,7 @@ breadcrumb: [Managing order fallout, Order Management, Use, Sales Customer Relat
 
 # Resolve order fallouts
 
-Learn how to close the order fallout tasks in Order Management so that you can progress with [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]].
+Learn how to close the order fallout tasks in Order Management so that you can progress with order fulfillment.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_fallout\_mgmt.fallout\_manager, sn\_fallout\_mgmt.fallout\_ag
 
 4.  Select the fallout record you want to view.
 
-    For information about field descriptions, see the Fallout workspace [[fields|fields]] section in [[fields-create-fallout-form|Fallout form fields]].
+    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-create-fallout-form.md).
 
 5.  Enter a work note to as you work with the fallout task.
 
@@ -41,23 +41,14 @@ Role required: sn\_fallout\_mgmt.fallout\_manager, sn\_fallout\_mgmt.fallout\_ag
 
 ## What to do next
 
-After resolving a fallout task, review and close the order fulfillment task. For more information, see [[order-mgt-customer-order-tasks|Review and close fulfillment tasks]].
+After resolving a fallout task, review and close the order fulfillment task. For more information, see [Review and close fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-tasks.md).
 
-**Parent Topic:**[[fallout-management-overview|Managing order fallout]]
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[fields-create-fallout-form|Fallout form fields]]
-- [[order-mgt-customer-order-tasks|Review and close fulfillment tasks]]
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]

@@ -26,11 +26,11 @@ By default, the toggle for live updates is off, and you must enable it to receiv
 
 To update the alert list manually, you can switch the live updates toggle to off. Manual updates are useful when many alerts are being processed continuously, to avoid excessive refreshing.
 
-**Note:** Set Read Role permissions to the [[c_EM|Event Management]] user \(evt\_mgmt\_user\). Otherwise, the property won't be available.
+**Note:** Set Read Role permissions to the Event Management user \(evt\_mgmt\_user\). Otherwise, the property won't be available.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the List icon: \[Omitted image "list-icon-sow-itom.png"\] Alt text: List icon.
 
@@ -47,7 +47,3 @@ To update the alert list manually, you can switch the live updates toggle to off
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

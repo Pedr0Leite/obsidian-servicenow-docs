@@ -36,16 +36,12 @@ The following are the main components needed to create a service definition:
 -   Flows are only needed for more complex use cases, such as ones with multiple tasks or subtasks.
 -   A new record producer for customer/requester to create via service catalog. Only use record producers if you want an end user to create the request.
 
-**Parent Topic:**[[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 
 **Related topics**  
 
 
 [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
-[[configure-service-definitions|Configure service definitions]]
+[Configure service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md)
 
-## Related
-
-- [[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
-- [[configure-service-definitions|Configure service definitions]]

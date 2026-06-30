@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Use CMDB groups to add OT context to IT CIs
 
-Use Configuration Management Database \(CMDB\) groups to group IT configuration items \(CIs\) based on additional information, like installed software. Then you can add [[operational-technology-overview|Operational Technology]] \(OT\) context to the IT CIs.
+Use Configuration Management Database \(CMDB\) groups to group IT configuration items \(CIs\) based on additional information, like installed software. Then you can add Operational Technology \(OT\) context to the IT CIs.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Follow these general guidelines:
 
 3.  To create a record in **sn\_automated\_it\_ot\_bulk\_contextualization\_m2m\_cmdb\_group**, complete the following actions.
 
-    1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Manager Admin** &gt; **Automated IT OT Bulk Contextualization - Using CMDB groups**.
+    1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Manager Admin** &gt; **Automated IT OT Bulk Contextualization - Using CMDB groups**.
     2.  Select **New**.
     3.  In the **Automated IT to OT Bulk Contextualization** field, select the record created in step 2.
     4.  In the **CMDB Group** field, select the CMDB created in step 1.
@@ -84,7 +84,3 @@ Follow these general guidelines:
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # Domain separation and Digital Portfolio Management
 
-Domain separation is supported in [[dpm-landing|Digital Portfolio Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Digital Portfolio Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level Standard
 
@@ -36,6 +36,3 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 **Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]

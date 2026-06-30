@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset analytics**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset analytics**.
 
 2.  In the Comparative reports section, select **New**.
 
@@ -60,7 +60,7 @@ Report table
 
 </td><td>
 
-Table for [[ham-landing-page|Hardware Asset Management]], Hardware \(alm\_hardware\).
+Table for Hardware Asset Management, Hardware \(alm\_hardware\).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,3 @@ Create a Total Cost of Ownership \(TCO\) report source for TCO reports.
 
 **Parent Topic:**[Configure the Total Cost of Ownership of assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/configure-ham-tco.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]

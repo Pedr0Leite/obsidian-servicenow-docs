@@ -105,8 +105,5 @@ Materiality Decision
 Decision outcome from the materiality assessment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]
+</table>**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/reference-data-esg.md)
 
-## Related
-
-- [[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]

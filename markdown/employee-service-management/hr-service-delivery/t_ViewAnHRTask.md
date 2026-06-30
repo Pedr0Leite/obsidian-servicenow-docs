@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.case\_writer
 
 ## About this task
 
-You can view HR tasks from the parent HR case or by going to **HR [[case-management-workspace|Case Management]]** &gt; **HR Tasks**.
+You can view HR tasks from the parent HR case or by going to **HR Case Management** &gt; **HR Tasks**.
 
 ## Procedure
 
@@ -82,7 +82,7 @@ Stage
 
 </td><td colspan="2">
 
-The stage \(bundle\) of a lifecycle event case.Use this field to define what [[activity-lxp|activity]] set in a lifecycle event case you want to add an ad hoc task to.
+The stage \(bundle\) of a lifecycle event case.Use this field to define what activity set in a lifecycle event case you want to add an ad hoc task to.
 
  For more information, see [Ad hoc cases and tasks for lifecycle event cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-ad-hoc-task.md).
 
@@ -108,7 +108,7 @@ Reminder template
 
 </td><td colspan="2">
 
-Select the email template used for reminder notifications. Email templates are set up from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Email Content**.Refer to [Add or modify email content for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModEmailTemplate.md).
+Select the email template used for reminder notifications. Email templates are set up from **HR Administration** &gt; **Email Content**.Refer to [Add or modify email content for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModEmailTemplate.md).
 
 </td></tr><tr><td>
 
@@ -160,11 +160,11 @@ An order guide fulfills the HR task. In the **Order Guide** field, select an ord
 
 </td></tr><tr><td>
 
-[[employee-form-configuration|Collect Employee Input]]
+Collect Employee Input
 
 </td><td>
 
-Collects information from employees. In the **[[ut-emp-form|Employee form]]** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ E-signature
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR [[document-templates-overview|document templates]]. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md) for more information.
+-   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md) for more information.
 -   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. See [Select an HR document template for an e-signature task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/select-hr-document-template-for-e-signature-task.md) for more information.
 
 
@@ -509,11 +509,3 @@ As part of the onboarding process, you can find and reserve an office space for 
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[activity-lxp|Activity]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-emp-form|Employee form]]
-- [[document-templates-overview|Document Templates]]

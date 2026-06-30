@@ -14,7 +14,7 @@ breadcrumb: [Request experience in Now Mobile, Service Catalog in mobile, Integr
 
 # Edit the label of Submit button for a record producer
 
-For a [[c_RecordProducer|record producer]] submission experience that you can relate to, edit the [[label|label]] of the **Submit** button.
+For a record producer submission experience that you can relate to, edit the label of the **Submit** button.
 
 ## Before you begin
 
@@ -60,7 +60,3 @@ Role required: admin
 
 [Configure Now Mobile properties]()
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[label|Label]]

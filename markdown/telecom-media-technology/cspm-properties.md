@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Problem Management, Telecommunications,
 
 # Customer Service Problem Management properties
 
-[[cspm-landing-page|Customer Service Problem Management]] uses the following system properties, which are located in the System Properties \[sys\_properties\] table.
+Customer Service Problem Management uses the following system properties, which are located in the System Properties \[sys\_properties\] table.
 
 <table id="table_c3f_vvk_sbc"><thead><tr><th>
 
@@ -28,7 +28,7 @@ sn\_st\_mgmt.logging
 
 </td><td>
 
-[[stm-landing-page|Service Test Management]] logging. Enables or disables logging.-   Type: True/false
+Service Test Management logging. Enables or disables logging.-   Type: True/false
 -   Default value: false
 
 </td></tr><tr><td>
@@ -83,8 +83,3 @@ The numberÂ of records set by you to receive in that particular page of resultsÂ
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[stm-landing-page|Service Test Management]]

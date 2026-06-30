@@ -26,7 +26,7 @@ Translation tasks are automatically assigned once the assignment rules are creat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[translation-management|Translation Management]]** &gt; **Translator Mapping**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Translation Management** &gt; **Translator Mapping**.
 
 2.  Click **New** to create a new assignment rule.
 
@@ -49,11 +49,7 @@ Translation tasks are automatically assigned once the assignment rules are creat
 
 ## Result
 
-An [[email|email]] notification is sent to the user or group that has been assigned the task with a link to the translation task and source article.
+An email notification is sent to the user or group that has been assigned the task with a link to the translation task and source article.
 
 **Parent Topic:**[Use translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-translation-management.md)
 
-## Related
-
-- [[translation-management|Translation management]]
-- [[email|Email]]

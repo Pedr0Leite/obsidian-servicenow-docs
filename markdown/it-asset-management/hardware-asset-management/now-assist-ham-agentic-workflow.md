@@ -39,17 +39,17 @@ Introduced inNow Assist for HAM version
 
 </td><td>
 
-Automatically fulfills hardware asset requests by either using the available local stock, or by generating transfer orders to move assets from other [[c_Stockrooms|stockrooms]], or purchase orders to acquire assets from vendors.
+Automatically fulfills hardware asset requests by either using the available local stock, or by generating transfer orders to move assets from other stockrooms, or purchase orders to acquire assets from vendors.
 
 </td><td>
 
--   [[ham-landing-page|Hardware asset management]] sourcing AI agent
+-   Hardware asset management sourcing AI agent
 -   Transfer order creation AI agent
 -   Purchase order creation AI agent
 
 </td><td>
 
-[[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] v1.0
+Now Assist for Hardware Asset Management \(HAM\) v1.0
 
 </td></tr><tr><td>
 
@@ -84,8 +84,3 @@ You can implement security in AI agents and the agentic workflow using Access Co
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]

@@ -19,7 +19,7 @@ Performance overview details all the KPIs and metrics that help you analyse the 
 -   **Self-solved percentage:** Calculated from the daily average number of times your users achieved a resolution without intervention from Tier 1 Agents in the report range. Includes numbers from Self-solved using Virtual Agent, Self-solved using Knowledge and Automated resolutions \(For example, Incident auto-resolution via Virtual Agent\). See the formula:
 
     ```
-    [Self-solved (VA, KB, QnA, [[proactive-engagement-landing-page|Proactive Engagement]]) + Automated resolutions] / [Total Tickets Resolution + Self-solved (VA, KB, QnA, Proactive Engagement) + Self service using Password Reset apps]*100 
+    [Self-solved (VA, KB, QnA, Proactive Engagement) + Automated resolutions] / [Total Tickets Resolution + Self-solved (VA, KB, QnA, Proactive Engagement) + Self service using Password Reset apps]*100 
     ```
 
     -   **Self-solved using Virtual Agent:** Number of automated conversations that helped the user solve their problem. This is determined when users completes a virtual agent conversation and or engages \(Interactions\) with a human agent in a 24-hour window.
@@ -28,7 +28,7 @@ Performance overview details all the KPIs and metrics that help you analyse the 
 
         **Note:** To use a different method to determine this KPI, see [Configure Success Dashboard indicators KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/config-kpis-sdb.md).
 
-        To [[update-live-agent-script-include|update the live agent script include]] see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
+        To update the live agent script include see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
 
     -   **ITSM issues solved using NOW Assist VA \(LLM\):** This is a contributing indicator for the **Self-solved using Virtual Agent**. The **Self-solved using QnA** KPI in the ITSM Success Dashboard uses Now Assist and AI search QnA as contributing indicators. The number of times users were able to solve their issues by analysing a summarized response from AI Search. This is determined when users are presented with a AI Search QnA result and do not create a ticket or engage with a human agent in the next 24-hour window.
 
@@ -44,7 +44,7 @@ Performance overview details all the KPIs and metrics that help you analyse the 
 
         To update the live agent script include see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
 
-    -   **Self-solved [[using-proactive-engagement|using Proactive Engagement]] for DEX** The number of digital experience issues **Self-solved using Proactive Engagement for DEX**. This is determined when DEX proactively detects issues and Proactive Engagement helps users self-solve them.
+    -   **Self-solved using Proactive Engagement for DEX** The number of digital experience issues **Self-solved using Proactive Engagement for DEX**. This is determined when DEX proactively detects issues and Proactive Engagement helps users self-solve them.
 
         To know more about the Proactive Engagement see, [Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-landing-page.md).
 
@@ -79,7 +79,7 @@ Performance overview details all the KPIs and metrics that help you analyse the 
         -   **Incident summarization - Now Assist** Number of times Now Assist helped the agents by summarizing the Incidents that they worked on.
         -   **Interaction summarization - Now Assist** Number of times Now Assist helped the agents by summarizing the Interactions that they worked on.
         -   **Incident resolution note Generation - Now Assist** Number of times Now Assist helped the agents by providing resolution note and code.
-        -   **Successful Change Risk Explanation - Now Assist** Number of times Now Assist helped the agents by explaining the [[c_RskAsmtCalc|Risk Assessment]] for a Change Request that they worked on.
+        -   **Successful Change Risk Explanation - Now Assist** Number of times Now Assist helped the agents by explaining the Risk Assessment for a Change Request that they worked on.
         -   **Successful Change Summarization - Now Assist** Number of times Now Assist helped the agents by summarizing the Change Request that they worked on.
     -   **Productivity in knowledge articles generation** Includes the number of knowledge articles drafted and published using Now Assist.
 
@@ -90,9 +90,3 @@ Performance overview details all the KPIs and metrics that help you analyse the 
 
 **Parent Topic:**[ITSM Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[update-live-agent-script-include|Update the live agent script include]]
-- [[using-proactive-engagement|Using Proactive Engagement]]
-- [[c_RskAsmtCalc|Risk assessment]]

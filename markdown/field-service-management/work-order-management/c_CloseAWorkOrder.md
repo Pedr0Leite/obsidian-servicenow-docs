@@ -14,7 +14,7 @@ breadcrumb: [Manage work orders, Prepare work orders, Use, Field Service Managem
 
 # Closing work orders and next steps
 
-In [[fsm-application-landing-page|Field Service Management]], work orders are closed automatically depending on the states of the associated work order tasks. Work orders are closed when all the tasks reach the closed state. It's helpful to understand what happens after an agent closes a work order task.
+In Field Service Management, work orders are closed automatically depending on the states of the associated work order tasks. Work orders are closed when all the tasks reach the closed state. It's helpful to understand what happens after an agent closes a work order task.
 
 Role required: wm\_agent, wm\_ext\_agent.
 
@@ -30,6 +30,3 @@ After an order has been assigned to an agent, that agent can complete and close 
 -   When the **Request lifecycle is task driven** configuration option is enabled, all states of the work order are driven by the task. The agent can click the **Close Complete** button on the Work Order Task form to close any tasks that need to be closed manually. After all of the work order's tasks are closed, the work order is closed automatically.
 -   When the **Request lifecycle is request driven** configuration option is set and all of the work order's tasks are closed, the agent to whom the work order is assigned can click the **Close Complete** button on the Request form to close and complete the order.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

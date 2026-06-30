@@ -32,7 +32,7 @@ Each task configuration is associated with a table that is an extension of the T
 
 Here is a sample illustration of how these configurations appear on the approvals page.
 
-\[Omitted image "approval-hub-sap-workday.png"\] Alt text: Approval hub workflow in [[employee-center-landing-page|Employee Center]] portal and NowMobile
+\[Omitted image "approval-hub-sap-workday.png"\] Alt text: Approval hub workflow in Employee Center portal and NowMobile
 
 The information displayed on each section of the page depends on the individual approval request type. When a configurable section has no specified value or when a user does not have permission; information isn’t displayed.
 
@@ -98,7 +98,7 @@ Conditions that a task must meet to apply configuration. You can dot-walk to the
 
 </td></tr><tr><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] column
+Reference column
 
 </td><td>
 
@@ -274,7 +274,7 @@ Type
 
 </td><td>
 
-Tab type based on which a widget is displayed. Possible options are:-   [[activity-lxp|Activity]] Stream: To display activity from the source task or request.
+Tab type based on which a widget is displayed. Possible options are:-   Activity Stream: To display activity from the source task or request.
 -   Line Items: To display parent-child relationship in multi-lines.
 -   Attachments: To add or display the attachments from the source task or request.
 -   Custom: To select a widget and parameters.
@@ -401,8 +401,3 @@ Use the out-of-the-box **Approvals action group** to display the actions such as
 
 [Action framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/action-group-framework.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

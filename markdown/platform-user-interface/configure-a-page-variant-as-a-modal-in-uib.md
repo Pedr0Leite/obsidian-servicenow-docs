@@ -12,16 +12,16 @@ breadcrumb: [Configure a custom form modal, Configure action buttons, Declarativ
 
 # Configure a page variant as a modal in UIB
 
-Define your page variant to appear as a modal using UI Builder configurations. This steps acts as part of the process to [[configure-onboarding-modals|configure]] an action button to open a custom modal.
+Define your page variant to appear as a modal using UI Builder configurations. This steps acts as part of the process to configure an action button to open a custom modal.
 
 ## Before you begin
 
 Complete the following actions:
 
--   [[create-a-new-form-action|Create a form action]]
+-   [Create a form action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)
 -   [Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md)
 -   Open your record page in UIB or create a page variant in UIB
--   [[design-a-page-variant-in-uib|Design your page variant in UIB]]
+-   [Design your page variant in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/design-a-page-variant-in-uib.md)
 
 Role required: admin
 
@@ -31,7 +31,7 @@ Role required: admin
 
 2.  Open the **sys\_ux\_screen\_type** by selecting the menu icon \(\[Omitted image "menu-icon-save.png"\] Alt text: menu icon\) and navigating to **Developer** &gt; **Open variant collection record**.
 
-3.  Select the **UX App Route** tab under [[c_RelatedLists|Related Lists]] and select your page variant.
+3.  Select the **UX App Route** tab under Related Lists and select your page variant.
 
 4.  Open UI Builder in a new browser tab and open your configurable workspace experience.
 
@@ -49,9 +49,4 @@ Role required: admin
 
 11. Select **Update**.
 
-## Related
 
-- [[create-a-new-form-action|Create a form action button]]
-- [[design-a-page-variant-in-uib|Design a page variant in UIB]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]

@@ -22,7 +22,7 @@ Managers can:
 
 -   View agent schedules and team calendars.
 -   Create personal events.
--   Track [[c_AgentLocation|agent location]] history.
+-   Track agent location history.
 -   View tasks on a map.
 
 **Note:** You must be a manager of a group or territory to view schedules.
@@ -50,6 +50,4 @@ To manage agents and tasks effectively, explore these topics:
 
     Track historical movements of agents for planning and analysis.
 
-## Related
 
-- [[c_AgentLocation|Agent location]]

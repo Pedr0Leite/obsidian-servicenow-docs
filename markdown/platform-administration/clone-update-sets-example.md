@@ -12,7 +12,7 @@ breadcrumb: [Manage, Instance Clone, Configure core features, Administer the Ser
 
 # Handling a large amount of in-progress update sets
 
-You can batch a large group of update sets in the [[Clone-UI|Clone Admin Console]].
+You can batch a large group of update sets in the Clone Admin Console.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ Role required: clone\_admin
 
 12. On the source instance, the retrieved parent update set can be cleaned up or deleted.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]

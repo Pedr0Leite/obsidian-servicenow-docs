@@ -26,15 +26,15 @@ Description
 
 </th></tr></thead><tbody><tr><td class="sub-head" colspan="2">
 
-Admin [[clone-configurations-tab|configurations]]
+Admin configurations
 
 </td></tr><tr><td>
 
-[[ai-search-configuration|AI Search Configuration]] Agent
+AI Search Configuration Agent
 
 </td><td>
 
-Configures [[ia-ai-search|AI search]] for ServiceNow internal tables by defining internal search sources, search profiles, and table mappings through conversation.
+Configures AI search for ServiceNow internal tables by defining internal search sources, search profiles, and table mappings through conversation.
 
 </td></tr><tr><td>
 
@@ -42,13 +42,13 @@ AI Search XCC Agent
 
 </td><td>
 
-Configures [[ext-cont-connectors-landing-page|external content connectors]] for AI Search for public websites \(for example, Zoom, Apple Support, and Okta\) and SharePoint repositories.
+Configures external content connectors for AI Search for public websites \(for example, Zoom, Apple Support, and Okta\) and SharePoint repositories.
 
  The agent guides with connector discovery that aligns with user requirements, authentication, content scope, crawl scheduling, search profile mapping, and error recovery.
 
 </td></tr><tr><td>
 
-Group and [[ia-roles-assignment|roles assignment]] agent
+Group and roles assignment agent
 
 </td><td>
 
@@ -56,7 +56,7 @@ Provides user access through group-based associations. Creates a user group, man
 
 </td></tr><tr><td>
 
-IA [[ia-operational-data-il|Operational Data]] Workflow Agent
+IA Operational Data Workflow Agent
 
 </td><td>
 
@@ -71,14 +71,5 @@ SSO Configuration Agent
 Automates Single Sign-On setup \(OIDC and SAML\) in ServiceNow using identity provider configuration data. Supports Q&amp;A and troubleshooting throughout the setup process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ia-reference|Setup Hub references]]
+</table>**Parent Topic:**[Setup Hub references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 
-## Related
-
-- [[ia-reference|Setup Hub references]]
-- [[clone-configurations-tab|Configurations]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-roles-assignment|Roles assignment]]
-- [[ia-operational-data-il|Operational data]]

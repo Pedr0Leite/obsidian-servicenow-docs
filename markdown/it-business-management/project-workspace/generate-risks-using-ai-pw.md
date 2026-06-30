@@ -16,13 +16,13 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 Use generative AI to identify, generate, and manage potential risks in your project based on insights, resources, financials, and milestones.
 
-\[Omitted video\] Description: AI identified risks in [[project-workspace-landing-page|Project Workspace]].
+\[Omitted video\] Description: AI identified risks in Project Workspace.
 
 ## Before you begin
 
 Role required: it\_project\_manager
 
--   Install [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] plugin.
+-   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   Verify risk generation skill is active.
 -   The risk generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
@@ -54,7 +54,3 @@ If no risks are identified during generation or regeneration, the AI Identified 
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]

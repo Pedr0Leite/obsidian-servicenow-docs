@@ -22,11 +22,11 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-**Note:** Starting with [[enterprise-asset-management|Enterprise Asset Management]] version 10.0, work orders can be created for asset groups, enabling technicians to execute a single work order for an entire group of related assets.
+**Note:** Starting with Enterprise Asset Management version 10.0, work orders can be created for asset groups, enabling technicians to execute a single work order for an entire group of related assets.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  On the **Work orders** tab, select **New**.
 
@@ -72,7 +72,7 @@ Asset
 
 </td><td>
 
-Asset that you want to manage work for through this work order.Starting with Enterprise Asset Management version 10.0, you can [[select-daas-asset|select an asset]] group.
+Asset that you want to manage work for through this work order.Starting with Enterprise Asset Management version 10.0, you can select an asset group.
 
 **Note:** You can also select linear assets and linear segments from this field.
 
@@ -200,8 +200,3 @@ Date and time at which the work order must be completed.
 
 Work with the assigned agent to complete and close all subsequent tasks for your work order.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

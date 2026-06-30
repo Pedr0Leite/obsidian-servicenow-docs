@@ -22,7 +22,7 @@ Role required: kafka\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Topics**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Topics**.
 
 2.  Select the topic record that you want to update.
 
@@ -47,6 +47,3 @@ If an error occurs when updating the partition count, you can synchronize the to
 
 **Parent Topic:**[Managing topics in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-topics-hermes.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

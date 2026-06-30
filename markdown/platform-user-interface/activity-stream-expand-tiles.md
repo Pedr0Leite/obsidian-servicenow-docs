@@ -24,7 +24,7 @@ Role required: workspace\_user
 
 2.  Select **Preferences** &gt; **Workspace**.
 
-3.  Select the toggle for the **Expand [[activity-stream-configurable-workspace|activity stream]] items by default** preference.
+3.  Select the toggle for the **Expand activity stream items by default** preference.
 
     \[Omitted image "y-workspace-activity-stream-expand-tiles.png"\] Alt text: Expand activity stream items by default toggle
 
@@ -35,6 +35,3 @@ All activities in the Activity stream expand by default.
 
 \[Omitted image "y-activity-stream-expand-result.png"\] Alt text: Activities in Activity stream expanded by default
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]

@@ -34,7 +34,7 @@ Role required: wm\_admin
     |Name|Unique and descriptive name for this task.|
     |Short Description|Summary of this task|
     |Description|A description of this task.|
-    |Parts and quantities|Parts requirements and quantities, as needed. If you selected **[[c_PartRequirements|Part requirements]] are not needed by agents** on the Field Service Configuration screen, the **Parts and quantities** fields are not displayed.|
+    |Parts and quantities|Parts requirements and quantities, as needed. If you selected **Part requirements are not needed by agents** on the Field Service Configuration screen, the **Parts and quantities** fields are not displayed.|
     |Checklist template|Select a checklist template from the list to add a checklist to the tasks created from this work order template.|
     |Dispatch group|The dispatch group used to select the individuals who fulfill the task.|
 
@@ -49,6 +49,3 @@ A standalone task template is created and ready to be mapped it to any work orde
 
 After creating a standalone task template, map it to a work order template. This enables the work order template to create similar tasks for different work orders, if required. See [Enable a work order template to create relevant tasks for a work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-stand-alone-task-template-to-wo-template.md).
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]

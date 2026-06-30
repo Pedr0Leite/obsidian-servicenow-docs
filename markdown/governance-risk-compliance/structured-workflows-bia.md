@@ -12,7 +12,7 @@ breadcrumb: [Using BCM Classic Workspace, Manage, Business Continuity Management
 
 # Structured workflows for Business Impact Analysis
 
-[[bia-uib|Business impact analysis]] helps you to predict the consequences of a disruption on a business process or business function.
+Business impact analysis helps you to predict the consequences of a disruption on a business process or business function.
 
 A business process is a set of tasks done by a business organization to deliver a business service or product to customers. When a business process is disrupted, the impact to the organization can be huge in terms of revenue and reputation. Business impact analysis \(BIA\) is performed to identify and prioritize critical processes, quantify or qualify the impacts, and identify recovery dependencies. Ideally, business impact analysis on critical processes must be performed annually.
 
@@ -22,7 +22,7 @@ The assessment of a business critical process disruption helps you to estimate t
 
 ## Impact ratings for your business impact analysis
 
-The [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) administrator of your organization defines the impact ratings for your business impact analysis \(BIA\) and decides if the impact is tolerable for your business process. For more information on the impact ratings, see [[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]]. According to the configuration set up by BCM administrator, the questions are displayed in the **RTO Impact Assessment** tab.
+The Business Continuity Management \(BCM\) administrator of your organization defines the impact ratings for your business impact analysis \(BIA\) and decides if the impact is tolerable for your business process. For more information on the impact ratings, see [Configure an impact rating to assess an impact category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-rating-bcp.md). According to the configuration set up by BCM administrator, the questions are displayed in the **RTO Impact Assessment** tab.
 
 Consider the example where BCM administrator has configured an intolerable impact rating for the Revenue impact category. BCM administrator has defined what qualifies to be an intolerable impact. As a BIA owner, you must identify the timeline at which the revenue impact may go beyond $1M.
 
@@ -133,8 +133,4 @@ If the administrator has set all the impact ratings as tolerable, the value spec
     |2 Weeks|Non-Essential|
     |1 Month|Non-Essential|
 
-## Related
 
-- [[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

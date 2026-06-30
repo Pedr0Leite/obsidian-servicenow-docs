@@ -30,7 +30,7 @@ LDAP integrations are usually done before the instance Go Live, but can be integ
 
 ## LDAP server data integrity
 
-Some [[users|users]] are concerned about a third party \(the instance in this case\) making changes \(writing\) to your LDAP server. In an LDAP integration, your instance does not write to the internal LDAP directory. The instance queries for information, and updates its database accordingly.
+Some users are concerned about a third party \(the instance in this case\) making changes \(writing\) to your LDAP server. In an LDAP integration, your instance does not write to the internal LDAP directory. The instance queries for information, and updates its database accordingly.
 
 No changes are made to the internal LDAP server by the instance. The service account is read only.
 
@@ -40,11 +40,11 @@ To keep LDAP records synchronized, schedule a periodic scan of the LDAP server t
 
 The instance does not synchronize department records. Users and group memberships are kept up-to-date by the LDAP Listener mechanism and a daily full LDAP Browse, but the instance does not delete any of these entries once they disappear from LDAP.
 
-If an entry were to be deleted, the entire history would also get deleted, and any references to it would be cleared or deleted. [[sc-configuration|Configuration]] Items \(CIs\), SLA Agreements, Software Licenses, Purchase Orders, and Service Catalog Entries all have a reference to Department, and if Department is deleted, then those references get cleared. There are many references to Users, and so deleting a user would lose all history of what that user did. Currently, the decision to delete or not to delete is made by our customers.
+If an entry were to be deleted, the entire history would also get deleted, and any references to it would be cleared or deleted. Configuration Items \(CIs\), SLA Agreements, Software Licenses, Purchase Orders, and Service Catalog Entries all have a reference to Department, and if Department is deleted, then those references get cleared. There are many references to Users, and so deleting a user would lose all history of what that user did. Currently, the decision to delete or not to delete is made by our customers.
 
 ## Security
 
-The connection is made from a single machine using a fixed IP address through a specific port on your firewall. [[c_Authentication|Authentication]] is done with a read-only LDAP account of your choosing. You can use standard LDAP, or load the public side of an [SSL certificate installed on your directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_UploadTheX509SSLCertificate.md), in which case we can use LDAPS. To add another layer of security, we also offer the option of a point-to-point IPSEC VPN tunnel. Speak to your account manager for details and pricing.
+The connection is made from a single machine using a fixed IP address through a specific port on your firewall. Authentication is done with a read-only LDAP account of your choosing. You can use standard LDAP, or load the public side of an [SSL certificate installed on your directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_UploadTheX509SSLCertificate.md), in which case we can use LDAPS. To add another layer of security, we also offer the option of a point-to-point IPSEC VPN tunnel. Speak to your account manager for details and pricing.
 
 |Connection|Description|
 |----------|-----------|
@@ -72,7 +72,7 @@ Along with the data population functionality provided with the LDAP import, you 
 
 The recommended method for handling multiple domains is to create a separate LDAP server record for each domain. Each LDAP server record must point to a domain controller for that domain. This means the local network must allow connections to each of the domain controllers.
 
-After expanding to more than one network domain, it is critical that you identify unique LDAP attributes for the application usernames and import coalesce values. A common unique coalesce attribute for Active Directory is [objectSid](http://msdn.microsoft.com/en-us/library/windows/desktop/ms679024(v=vs.85).aspx). Unique usernames may vary based on the LDAP data design. Common attributes are `[[email|email]]` or `userPrincipalName`.
+After expanding to more than one network domain, it is critical that you identify unique LDAP attributes for the application usernames and import coalesce values. A common unique coalesce attribute for Active Directory is [objectSid](http://msdn.microsoft.com/en-us/library/windows/desktop/ms679024(v=vs.85).aspx). Unique usernames may vary based on the LDAP data design. Common attributes are `email` or `userPrincipalName`.
 
 ## Handling query limits
 
@@ -99,9 +99,3 @@ These fields on the user record pertain to LDAP:
 -   **Source**: The Source field identifies whether or not a user is validated using LDAP. If the source field starts with "ldap", then the user is validated via LDAP. If the Source field does not start with "ldap", then the password on the user record is used to validate the user upon login.
 -   **LDAP Server**: The instance supports multiple LDAP servers, so the LDAP Server field determines which server should be used to authenticate the user.
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[email|Email]]

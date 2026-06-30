@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Workplace from Facebook, Integrate 
 
 # Configuring Conversational Integration with Workplace from Facebook
 
-Install [[mssg-workplace|Conversational Integration with Workplace from Facebook]] from the ServiceNow Store, integrate it with [[virtual-agent-landing-page|Virtual Agent]], and then configure it.
+Install Conversational Integration with Workplace from Facebook from the ServiceNow Store, integrate it with Virtual Agent, and then configure it.
 
 ## Configuration overview
 
@@ -36,7 +36,7 @@ Install [[mssg-workplace|Conversational Integration with Workplace from Facebook
 
 
 -   **[Install the Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-install-workplace.md)**  
-You can [[va-install-workplace|install the Conversational Integration with Workplace from Facebook]] \(sn\_va\_fb\_workplace\) application with the admin role.
+You can install the Conversational Integration with Workplace from Facebook \(sn\_va\_fb\_workplace\) application with the admin role.
 -   **[Integrate ServiceNow Virtual Agent with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-facebook.md)**  
 Add Virtual Agent to your Workplace from Facebook integration.
 -   **[Manage Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/manage-workplace-integ.md)**  
@@ -44,13 +44,7 @@ Manage your Conversational Integration with Workplace from Facebook application,
 -   **[Configure Virtual Agent settings for Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-workplace-settings.md)**  
 Enable notifications, link ServiceNow user profiles, and set up system messages and contextual actions.
 -   **[Uninstall the Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/uninstall-virtual-agent-fb.md)**  
-[[uninstall-virtual-agent-fb|Uninstall the Conversational Integration with Workplace from Facebook]] and disassociate the app with your instance.
+Uninstall the Conversational Integration with Workplace from Facebook and disassociate the app with your instance.
 
 **Parent Topic:**[Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-workplace.md)
 
-## Related
-
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-install-workplace|Install the Conversational Integration with Workplace from Facebook]]
-- [[uninstall-virtual-agent-fb|Uninstall the Conversational Integration with Workplace from Facebook]]

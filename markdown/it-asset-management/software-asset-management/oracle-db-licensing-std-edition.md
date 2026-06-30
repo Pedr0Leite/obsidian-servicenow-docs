@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 Oracle Database Standard Editions are licensed on servers having a value less than the maximum capacity of sockets to help ensure risk-free license compliance.
 
-Sockets are slots on which processors or CPUs are placed. You must manually enter socket information under the non-discoverable field **Socket count** in the **cmdb\_hardware\_product\_model** hardware model table. ITOM Discovery discovers only the occupied slots and [[c_SoftwareAssetMgmt|Software Asset Management]] reconciles and provides compliance.
+Sockets are slots on which processors or CPUs are placed. You must manually enter socket information under the non-discoverable field **Socket count** in the **cmdb\_hardware\_product\_model** hardware model table. ITOM Discovery discovers only the occupied slots and Software Asset Management reconciles and provides compliance.
 
 <table id="table_spb_45j_1rb"><thead><tr><th>
 
@@ -59,6 +59,3 @@ The following example shows the message that would appear for a reclamation or r
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

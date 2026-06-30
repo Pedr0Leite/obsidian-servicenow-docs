@@ -14,7 +14,7 @@ breadcrumb: [Recommended for you, Setup Employee Center browse experience featur
 
 # Configure the Recommended for you
 
-The [[rfy-ec|Recommended for you]] widget displays catalog items and knowledge articles, enabling you to view information that is most relevant to you based on the taxonomy.
+The Recommended for you widget displays catalog items and knowledge articles, enabling you to view information that is most relevant to you based on the taxonomy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **Portal configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Administration** &gt; **Portal configuration**.
 
 2.  Edit the portal to suit your needs.
 
@@ -49,7 +49,3 @@ From the content associated to the taxonomy, most viewed or recommended articles
 
 You can proceed to configure the instance options to control the appearance of the widget, see [Modify the Recommended for you widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-recommended-for-you.md)
 
-## Related
-
-- [[rfy-ec|Recommended for you]]
-- [[employee-center-landing-page|Employee Center]]

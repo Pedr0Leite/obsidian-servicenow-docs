@@ -26,7 +26,7 @@ When you drop a custom activity onto the workflow canvas, the system assigns it 
 
 ## Reuse data in the activity designer
 
-The **Data** tab in the [[workflow-editor|Workflow Editor]] lists all custom activities used in the current workflow that produce data and displays that data for reuse in other custom activities.
+The **Data** tab in the Workflow Editor lists all custom activities used in the current workflow that produce data and displays that data for reuse in other custom activities.
 
 ### Before you begin
 
@@ -50,6 +50,4 @@ Activities are categorized by application in this tab and are available for use 
 
     \[Omitted image "DatabusPop-up.png"\] Alt text: Databus output information screen
 
-## Related
 
-- [[workflow-editor|Workflow editor]]

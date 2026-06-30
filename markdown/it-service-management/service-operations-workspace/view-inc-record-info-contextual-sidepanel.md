@@ -20,7 +20,7 @@ Select the **Record information** \(\[Omitted image "mim-record-info.png"\] Alt 
 
 ## Active calls
 
-The Active calls card displays active conference calls that are currently in progress for major incidents. This card is displayed only for major incident records and if the Major [[c_IncidentManagement|Incident Management]] for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-mim-sow.md).
+The Active calls card displays active conference calls that are currently in progress for major incidents. This card is displayed only for major incident records and if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-mim-sow.md).
 
 A maximum of five collaboration records are displayed on this card. You can select the call record links displayed on this card to join the calls. You can use the **Collaborate** side panel tab to view and manage additional call record information.
 
@@ -28,14 +28,14 @@ A maximum of five collaboration records are displayed on this card. You can sele
 
 For Twilio calls, plain text is displayed instead of a link. In such case, you can join the call using the **Collaborate** side panel tab.
 
-The collaboration information is retrieved from the [[collab-services-tcm|Collaboration services]] integration with Service Operations Workspace.
+The collaboration information is retrieved from the Collaboration services integration with Service Operations Workspace.
 
 ## SLAs and timings
 
 The SLAs and timings card includes the following information:
 
 -   Major incident duration – Time duration since the incident has been promoted, created, or accepted as a major incident. This field is visible only if Major Incident Management for Service Operations Workspace is installed and active.
--   Response SLA – The Task service level agreement \(SLA\) stage according to the configured Incident Response [[sla-timer|SLA timer]] configuration. Displays the time left to respond to an incident before the task SLA is breached.
+-   Response SLA – The Task service level agreement \(SLA\) stage according to the configured Incident Response SLA timer configuration. Displays the time left to respond to an incident before the task SLA is breached.
 -   Resolution SLA – The Task SLA stage according to the configured Incident Resolution SLA timer configuration. Displays the time left to resolve an incident before the task SLA is breached.
 -   View all SLAs – All SLAs associated with the incident record.
 
@@ -115,8 +115,3 @@ You can view a list of five collaborators on a page at a time.
 
 [Incident Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[collab-services-tcm|Collaboration services]]
-- [[sla-timer|SLA timer]]

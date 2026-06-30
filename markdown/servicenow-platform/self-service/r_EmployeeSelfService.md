@@ -14,22 +14,14 @@ breadcrumb: [Self-service, Manage service capabilities, Extend ServiceNow AI Pla
 
 # Exploring Self-service
 
-The [[self-service-landing|Self-Service]] application gives supported end users a clean, simple front end to their IT support organization.
+The Self-Service application gives supported end users a clean, simple front end to their IT support organization.
 
-By default, the Self-Service application provides access to common actions, such as viewing your homepage, accessing the [[service-catalog|Service Catalog]], viewing knowledge articles, working with incidents, and taking [[r_SurveyManagementLandingPage|surveys]].
+By default, the Self-Service application provides access to common actions, such as viewing your homepage, accessing the Service Catalog, viewing knowledge articles, working with incidents, and taking surveys.
 
 -   **[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)**  
-This page contains links to content on [[p_ServiceCatalogRequests|service catalog requests]].
+This page contains links to content on service catalog requests.
 -   **[Service Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_ServiceDelegation.md)**  
-[[c_ServiceDelegation|Service delegation]] is the ability to designate other users to view and interact with approvals sent or tasks assigned to you, and to receive copies of all [[email|email]] notifications sent to you.
+Service delegation is the ability to designate other users to view and interact with approvals sent or tasks assigned to you, and to receive copies of all email notifications sent to you.
 
 **Parent Topic:**[Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/self-service-landing.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[service-catalog|Service Catalog]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[p_ServiceCatalogRequests|Service catalog requests]]
-- [[c_ServiceDelegation|Service Delegation]]
-- [[email|Email]]

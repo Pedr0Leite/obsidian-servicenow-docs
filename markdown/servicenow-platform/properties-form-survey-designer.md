@@ -12,7 +12,7 @@ breadcrumb: [Surveys reference, Surveys, Assessments and Surveys, Exploring Serv
 
 # Properties form
 
-Description of the field values for the Properties form of [[c_SurveyDesigner|survey designer]].
+Description of the field values for the Properties form of survey designer.
 
 <table id="table_bmb_svh_br"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Question
 
 </td><td>
 
-Text to display as the question on [[r_SurveyManagementLandingPage|surveys]]. Enter a clear, straightforward question that is easy to understand.
+Text to display as the question on surveys. Enter a clear, straightforward question that is easy to understand.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Type
 
 </td><td>
 
-Data type selected for this question. See the table in [[c_SurveyDesignerElements|Controls]] for the available data types.
+Data type selected for this question. See the table in [Controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md) for the available data types.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this question is available on a survey. A question does not appear on surveys that are generated after the question becomes inactive.
+Check box that determines whether this question is available on a survey. A question does not appear on surveys that are generated after the question becomes inactive.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Allow Additional Information
 
 </td><td>
 
-If selected, the **Additional Information [[label|Label]]** field is enabled. The **Additional Information Label** field value is displayed as a field on the survey response page to provide additional information for a question.**Note:** This is not applicable for the String and Template data types.
+If selected, the **Additional Information Label** field is enabled. The **Additional Information Label** field value is displayed as a field on the survey response page to provide additional information for a question.**Note:** This is not applicable for the String and Template data types.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Boolean option
 
 </td><td>
 
-Whether a check box or a **[[yes-no|Yes/No]]** list appears as the option for a Boolean question.
+Whether a check box or a **Yes/No** list appears as the option for a Boolean question.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ String option
 
 </td><td>
 
-Setting for the appearance of a string field in a question. This field is available when the question type is **String**. The string options include the following. -   **Single line**: [[single-line-text|Single-line text]] field 40 characters in length that allows strings of any length.
+Setting for the appearance of a string field in a question. This field is available when the question type is **String**. The string options include the following. -   **Single line**: Single-line text field 40 characters in length that allows strings of any length.
 -   **String line wide**: Full page width text field that allows a single-line entry of any length.
 -   **Multiline**: Full page width multiline text field that allows word wrap and returns
 
@@ -94,7 +94,7 @@ Min
 
 </td><td>
 
-Lowest positive whole number that users can enter or select to answer the question. This field is available when the question type is **Number**, **Percentage**, or **[[numeric-scale|Numeric Scale]]**.
+Lowest positive whole number that users can enter or select to answer the question. This field is available when the question type is **Number**, **Percentage**, or **Numeric Scale**.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Source table field that appears as a dynamic value for the question in a trigger
 
  If the record table specified in the trigger condition does not match the source table specified for the survey, or if the system fails to get the dynamic value from the source record, the **$\{param\}** placeholder is not replaced by any value and is displayed as is in the question.
 
-For example, if the survey is triggered from a **PRB** record and the survey question is configured with a dynamic value from **Incident**, the **$\{param\}** placeholder in the survey question label is not replaced by any dynamic value and is displayed as is.When [[c_SurveyQuestion|survey questions]] are translated to other languages by a survey admin, the **$\{param\}**placeholder should not be translated.
+For example, if the survey is triggered from a **PRB** record and the survey question is configured with a dynamic value from **Incident**, the **$\{param\}** placeholder in the survey question label is not replaced by any dynamic value and is displayed as is.When survey questions are translated to other languages by a survey admin, the **$\{param\}**placeholder should not be translated.
 
 </td></tr><tr><td>
 
@@ -171,17 +171,5 @@ Options for a question with a data type of **Choice** or **Scale**. The system a
  \[Omitted image "SurveyDesignerChoiceValue.png"\] Alt text: Survey designer question choice values
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
-## Related
-
-- [[c_SurveyDesignerElements|Survey designer elements]]
-- [[survey-reference|Surveys reference]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[yes-no|Yes/No]]
-- [[single-line-text|Single-line text]]
-- [[numeric-scale|Numeric scale]]
-- [[c_SurveyQuestion|Survey questions]]

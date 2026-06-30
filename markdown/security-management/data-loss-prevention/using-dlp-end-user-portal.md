@@ -14,7 +14,7 @@ breadcrumb: [Manage incidents, Data Loss Prevention Incident Response, Security 
 
 # Data Loss Prevention Incident Response User Workspace
 
-The [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) User Workspace is a workspace where end users, managers, and approvers can respond to the assigned DLP incidents. The end users, managers, and approvers can then respond to the incidents by specifying the correct actions.
+The Data Loss Prevention Incident Response \(DLP IR\) User Workspace is a workspace where end users, managers, and approvers can respond to the assigned DLP incidents. The end users, managers, and approvers can then respond to the incidents by specifying the correct actions.
 
 You can also create and manage assessments to enable end users to respond to DLP incidents. The workspace consists of a landing page and list views that let you see the assigned DLP incidents.
 
@@ -32,6 +32,3 @@ My Approvals module will be available on DLP Users Workspace to the logged in us
 
 [Data Loss Prevention Incident Response Dashboard]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

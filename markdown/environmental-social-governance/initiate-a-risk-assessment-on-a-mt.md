@@ -31,8 +31,5 @@ Role required: sn\_esg.program.manager
 
 The risk assessment is sent to the owner of the material topic. The assessor then responds to the assessment.
 
-**Parent Topic:**[[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-risk-management.md)
 
-## Related
-
-- [[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]

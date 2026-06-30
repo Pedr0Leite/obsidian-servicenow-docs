@@ -14,7 +14,7 @@ breadcrumb: [Offboarding knowledge transfer plan generation agentic workflow, Us
 
 # Configure the AI agent triggers for offboarding to use Employee Center
 
-Add the [[employee-center-landing-page|Employee Center]] portal to the AI agent trigger configuration used in the [[offboarding-knowledge-x-agentic-wf|offboarding knowledge transfer plan generation agentic workflow]]. This configuration change enables managers and employees to interact with AI agents through Now Assist in Virtual Agent.
+Add the Employee Center portal to the AI agent trigger configuration used in the offboarding knowledge transfer plan generation agentic workflow. This configuration change enables managers and employees to interact with AI agents through Now Assist in Virtual Agent.
 
 ## Before you begin
 
@@ -51,7 +51,4 @@ This task applies to the following triggers associated with the offboarding know
 
 7.  Repeat this task to configure the following trigger: Knowledge transfer record created.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]

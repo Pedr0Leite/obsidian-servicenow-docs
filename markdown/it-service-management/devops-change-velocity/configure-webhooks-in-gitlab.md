@@ -20,7 +20,7 @@ Configure webhooks in GitLab manually to send job, push, and issues notification
 
 Role required:
 
--   sn\_devops.admin or sn\_devops.tool\_owner in [[devops-landing-page-new|DevOps Change Velocity]]
+-   sn\_devops.admin or sn\_devops.tool\_owner in DevOps Change Velocity
 -   Maintainer \(or higher\) for the GitLab projects.
 
 ## About this task
@@ -35,7 +35,7 @@ You can also access manual configuration from the GitLab tool record in DevOps C
 
 ## Procedure
 
-1.  In GitLab, navigate to **Project** &gt; **[[settings-mobile|Settings]]** &gt; **Webhooks** and add a webhook.
+1.  In GitLab, navigate to **Project** &gt; **Settings** &gt; **Webhooks** and add a webhook.
 
 2.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
@@ -89,7 +89,3 @@ You can also access manual configuration from the GitLab tool record in DevOps C
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

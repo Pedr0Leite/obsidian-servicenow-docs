@@ -12,7 +12,7 @@ breadcrumb: [Explore, Manufacturing Commercial Operations]
 
 # Manufacturing Commercial Operations landing page \(Agents or CSM/FSM configurable workspace\)
 
-[[manufacturing-overview|Manufacturing Commercial Operations]] enables OEMs or manufacturers to use Agents workspace as a landing page to create [[mco-sales-promotion|sales promotion]] and recall campaigns. It also enables the agents to view, submit, review, and approve claims.
+Manufacturing Commercial Operations enables OEMs or manufacturers to use Agents workspace as a landing page to create sales promotion and recall campaigns. It also enables the agents to view, submit, review, and approve claims.
 
 Manufacturing Commercial Operations provides personalized landing pages for key Manufacturing Commercial Operations personas—Recall Manager, Sales Promotions Manager, Claims Agent, MCO admin, and Warranty Assessor—each displaying role-relevant case summaries, charts, and performance analytics widgets.
 
@@ -29,7 +29,7 @@ The agent workspace landing page includes different sections and components. It 
 |Tabs/Fields|Description|
 |-----------|-----------|
 |Active claims|Number of active repair and sales promotion claims.|
-|Active [[mco-pre-auth-request|pre-authorization]] requests|Number of active [[mco-agents-pre-auth-requests|pre-authorization requests]] received from the dealers.|
+|Active pre-authorization requests|Number of active pre-authorization requests received from the dealers.|
 |Active campaigns|Number of active recall and sales promotion campaigns published by OEMs.|
 
 ## Repair claim
@@ -90,7 +90,7 @@ Each request displays the following information:
 
 |Field|Description|
 |-----|-----------|
-|Number|Unique identifier for the [[mco-pre-auth-request-use|pre-authorization request]].|
+|Number|Unique identifier for the pre-authorization request.|
 |State|Current status of the request.|
 |Dealer|Dealer that submitted the request.|
 |Updated|Date and time the request was last updated.|
@@ -103,7 +103,7 @@ Displays all recall campaigns accessible to the logged-in user. Use the filter t
 
 |Filters|Description|
 |-------|-----------|
-|All|Displays all the [[mco-rcl-clms|recall campaign]] regardless of status.|
+|All|Displays all the recall campaign regardless of status.|
 |Approved|Displays campaigns that have been approved.|
 |Rejected|Displays campaigns that have been declined.|
 |Pending Review|Displays campaigns that are awaiting review.|
@@ -130,20 +130,9 @@ Displays all sales promotions accessible to the logged-in user. Use the filter t
 **Related topics**  
 
 
-[[mco-setup|Set up Manufacturing Commercial Operations]]
+[Set up Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-setup.md)
 
-[[mco-set-up-sls-prom|Set up sales promotion]]
+[Set up sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-set-up-sls-prom.md)
 
-[[mco-agent-management|Agent management]]
+[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-setup|Set up Manufacturing Commercial Operations]]
-- [[mco-set-up-sls-prom|Set up sales promotion]]
-- [[mco-agent-management|Agent management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-agents-pre-auth-requests|Pre-authorization requests]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]
-- [[mco-rcl-clms|Recall campaign]]

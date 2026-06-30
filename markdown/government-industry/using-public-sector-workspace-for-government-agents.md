@@ -20,7 +20,7 @@ Public Sector Digital Services provides agents across government agencies with a
 
 -   **Grants Management**
 
-    Use Grants Management for Public Sector Digital Services to set up and award grants, and screen proposals for them​. The Grants Application Workflow in the [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]] Grants Management Playbook provides a structured process for managing grant applications from submission for the pre-award phase.
+    Use Grants Management for Public Sector Digital Services to set up and award grants, and screen proposals for them​. The Grants Application Workflow in the Public Sector Digital Services \(PSDS\) Grants Management Playbook provides a structured process for managing grant applications from submission for the pre-award phase.
 
 -   **Playbooks**
 
@@ -32,7 +32,7 @@ Public Sector Digital Services provides agents across government agencies with a
     -   License and Permit Playbook
     -   Information Request Playbook
     -   Service Request Playbook
-    To learn more about playbooks, see [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]].
+    To learn more about playbooks, see [Playbooks for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/playbooks-psds-exploring.md).
 
 -   **CSM Configurable Workspace**
 
@@ -50,17 +50,12 @@ Public Sector Digital Services provides agents across government agencies with a
 
     The Mobile Agent is currently only supported by the Service Request Playbook.
 
-    To learn more about the Mobile Agent application, see [[psds-using-mobile-agent|Mobile Agent experience for Public Sector Digital Services]].
+    To learn more about the Mobile Agent application, see [Mobile Agent experience for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-mobile-agent.md).
 
 -   **Advanced Work Assignment**
 
     Use the Advanced Work Assignment \(AWA\) application to automatically route and assign public sector work items, such as non-emergency requests, to the best-equipped agents, based on their availability, capacity, and skills.
 
-    To learn more about Advanced Work Assignment, see [[awa-psds-overview|Automatically route service requests using Advanced Work Assignment]].
+    To learn more about Advanced Work Assignment, see [Automatically route service requests using Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md).
 
-## Related
 
-- [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]]
-- [[psds-using-mobile-agent|Mobile Agent experience for Public Sector Digital Services]]
-- [[awa-psds-overview|Configure Advanced Work Assignment for Public Sector Digital Services]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

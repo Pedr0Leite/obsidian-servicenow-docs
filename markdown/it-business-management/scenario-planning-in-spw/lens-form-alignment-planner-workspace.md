@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Lens form
 
-Learn about the fields of the [[lens-form-portfolio-planning|Lens form]]. Use this form to create a lens in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the Lens form. Use this form to create a lens in Strategic Planning.
 
 <table id="table_ef4_vjt_fvb"><thead><tr><th>
 
@@ -66,7 +66,3 @@ Type of work that can be planned using this lens.Move the desired planning item 
 
 [Create or modify a lens in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-lens-in-alignment-planner-workspace.md)
 
-## Related
-
-- [[lens-form-portfolio-planning|Lens Form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

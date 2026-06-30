@@ -20,7 +20,7 @@ Role required: admin, nlu\_admin, or sn\_auto\_discovery.DiscoveryAuthor
 
 ## About this task
 
-**Important:** Starting with the Zurich release, [[automation-discovery|Automation Discovery]] is deprecated. It will be hidden and no longer installed on new instances but will continue to be supported in Australia. Support will be withdrawn in a future release. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Zurich release, Automation Discovery is deprecated. It will be hidden and no longer installed on new instances but will continue to be supported in Australia. Support will be withdrawn in a future release. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 ## Procedure
 
@@ -105,6 +105,4 @@ Name of the report.
 
     Your report appears at the top of the list on the **Discovery Reports** page. The page lists the **Status** of your report. After the analysis completes, you can select the report to view the results.
 
-## Related
 
-- [[automation-discovery|Automation Discovery]]

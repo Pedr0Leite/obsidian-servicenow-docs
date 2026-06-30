@@ -14,7 +14,7 @@ breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Priv
 
 # Activating Data Discovery
 
-The application installs [[data-discovery-landing|Data Discovery]] and related ServiceNow® Store applications and plugins if they aren't already installed.
+The application installs Data Discovery and related ServiceNow® Store applications and plugins if they aren't already installed.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To purchase a subscription, contact your ServiceNow account manager. When you pu
 
 Before purchasing a subscription, you can evaluate the feature on a non-production instance without charge by requesting it from the Now Support Service Catalog.
 
-Installing the [[dds-data-discovery|Data Discovery Store]] App will auto install the Data Discovery APIs plugin
+Installing the Data Discovery Store App will auto install the Data Discovery APIs plugin
 
 Role required: admin
 
@@ -43,9 +43,9 @@ For more information on the roles and tables installed, see [Data Discovery role
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Data Discovery plugin \(sn\_data\_discovery\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Data Discovery plugin \(sn\_data\_discovery\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -53,9 +53,4 @@ For more information on the roles and tables installed, see [Data Discovery role
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[data-discovery-landing|Data Discovery]]
-- [[dds-data-discovery|Data Discovery Store]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

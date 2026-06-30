@@ -14,7 +14,7 @@ breadcrumb: [Universal Request plugins, Setting up and configuring Universal Req
 
 # Activate Universal Request Integration for Incident management
 
-You can activate the [[ur-landing-limitedaccess|Universal Request]]: Integration for Incident management plugin \(com.snc.incident.universal\_request\) if you have the admin role. Activating this plugin enables ServiceNow Incident Management application integration with Universal Request. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Universal Request: Integration for Incident management plugin \(com.snc.incident.universal\_request\) if you have the admin role. Activating this plugin enables ServiceNow Incident Management application integration with Universal Request. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## About this task
 
@@ -48,6 +48,3 @@ Role required: admin
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

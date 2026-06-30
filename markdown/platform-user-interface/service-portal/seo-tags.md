@@ -14,7 +14,7 @@ breadcrumb: [Improving search engine optimization for portals, Service Portal, C
 
 # Add meta tags to a public page
 
-Improve the searchability of [[c_ServicePortal|Service Portal]] pages by adding meta [[c_Tags|tags]]. You can add the meta name and description attributes to a page, define the robots attribute, or create dynamic meta tags for pages that load record data based on a URL parameter.
+Improve the searchability of Service Portal pages by adding meta tags. You can add the meta name and description attributes to a page, define the robots attribute, or create dynamic meta tags for pages that load record data based on a URL parameter.
 
 ## Before you begin
 
@@ -155,7 +155,7 @@ URL query parameter
 
 </td><td>
 
-URL parameter to indicate the record that is being displayed. You can enter any string.**Tip:** To create a URL parameter that is meaningful and easily identifiable, use a field name from the record. For example, to refer to a knowledge article, you can enter `number` to [[onboarding-modals-reference|reference]] the article by its number.
+URL parameter to indicate the record that is being displayed. You can enter any string.**Tip:** To create a URL parameter that is meaningful and easily identifiable, use a field name from the record. For example, to refer to a knowledge article, you can enter `number` to reference the article by its number.
 
 </td></tr><tr><td>
 
@@ -202,8 +202,3 @@ Select a field from the table defined in the **Table** field. This field is used
 
 [Create and edit a page using the Service Portal Designer]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_Tags|Tags]]
-- [[onboarding-modals-reference|Reference]]

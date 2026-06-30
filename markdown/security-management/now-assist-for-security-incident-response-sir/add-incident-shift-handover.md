@@ -26,13 +26,13 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace**.
 
 2.  Open the security incident that you want to add to a shift handover report using the AI agent.
 
 3.  Select the Now Assist \(\[Omitted image "ai-icon-now-assist.png"\] Alt text: Now Assist panel for AI agent icon.\) icon.
 
-    The [[add-incidents-shifthandover-ai-agent|Generate SIR Shift Handover Report]] agentic workflow is on-demand. You can enter a query in natural language to add a security incident to a shift handover report.
+    The Generate SIR Shift Handover Report agentic workflow is on-demand. You can enter a query in natural language to add a security incident to a shift handover report.
 
 4.  On the Now Assist panel, ask the agent to add a security incident to a shift handover report `Add this security incident to shift handover`, or `Add this incident to shift handover: SIR0012345` and press the Enter key.
 
@@ -61,7 +61,3 @@ The AI agent displays the summary of all the updated and skipped sections.
 
 \[Omitted image "shifthandover-report-update.png"\] Alt text: Shift handover workflow result
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[add-incidents-shifthandover-ai-agent|Generate SIR Shift Handover Report]]

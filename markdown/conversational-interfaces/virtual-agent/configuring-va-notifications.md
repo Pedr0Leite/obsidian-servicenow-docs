@@ -15,11 +15,11 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Configuring Virtual Agent notifications
 
-Send ServiceNow notifications directly to users via the [[virtual-agent-landing-page|Virtual Agent]] chatbot on supported messaging channels. Notifications can be simple informational messages for review, or actionable messages with buttons that users can select to perform certain actions.
+Send ServiceNow notifications directly to users via the Virtual Agent chatbot on supported messaging channels. Notifications can be simple informational messages for review, or actionable messages with buttons that users can select to perform certain actions.
 
 Notifications are sent to recipients via the Virtual Agent bot in the chat widget, pre-built messaging integrations \(for example, SMS Twilio, Slack, Microsoft Teams, Workplace from Facebook services, and Facebook Messenger messaging platform\), and custom chat integrations.
 
-Notification functionality is included with the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin and also with [[va-lite|Virtual Agent Lite]], which is included with the ServiceNow AI Platform. However, Virtual Agent Lite users can receive only simple notifications, while Virtual Agent users can receive both actionable notifications and simple notifications. Users with no associated ServiceNow profiles in the \[sys\_user\] table can receive non-actionable Virtual Agent notifications.
+Notification functionality is included with the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin and also with Virtual Agent Lite, which is included with the ServiceNow AI Platform. However, Virtual Agent Lite users can receive only simple notifications, while Virtual Agent users can receive both actionable notifications and simple notifications. Users with no associated ServiceNow profiles in the \[sys\_user\] table can receive non-actionable Virtual Agent notifications.
 
 ## How Virtual Agent notifications work
 
@@ -53,7 +53,7 @@ As an admin, you can define different types of notifications that have specific 
 
 -   **Advanced notifications with dynamic content**
 
-    You can [[create-va-notifications|create Virtual Agent notifications]] that use a script to add dynamic content in message headers and messages. The content can come from multiple data sources and include third-party services, such as URL shortening.
+    You can create Virtual Agent notifications that use a script to add dynamic content in message headers and messages. The content can come from multiple data sources and include third-party services, such as URL shortening.
 
 -   **Variables in notifications**
 
@@ -178,13 +178,7 @@ Create the actions for a Virtual Agent chat or messaging channel to send actiona
 -   **[Define the Virtual Agent link actions to notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-va-notif-link-actions.md)**  
 Create the link actions for Virtual Agent notification content to be delivered in a chat or messaging channel as actionable notifications.
 -   **[Enable Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md)**  
-[[enable-va-notifications|Enable Virtual Agent notifications]] so that your end users can receive notifications in supported Virtual Agent channels.
+Enable Virtual Agent notifications so that your end users can receive notifications in supported Virtual Agent channels.
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[create-va-notifications|Create Virtual Agent notifications]]
-- [[enable-va-notifications|Enable Virtual Agent notifications]]

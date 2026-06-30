@@ -18,7 +18,7 @@ If the unit cost, quantity, or fiscal period of a cost plan are updated, then al
 
 -   **Changes in Unit cost, Quantity, and Recurring check box of a cost plan**
 
-    When you modify the **Unit cost** field, **Quantity** field, or **Recurring** check box of the [[demand-plan-form|Cost Plan form]], the Total planned cost is recalculated in project currency. Similarly, the **Cost in project currency** in the [[cost-plan-breakdown|Cost Plan Breakdown]] is also recalculated. Therefore, the values in the **Planned capital in project currency**, **Planned operating in project currency**, and the **Total planned cost in project currency** fields of the project are also recalculated.
+    When you modify the **Unit cost** field, **Quantity** field, or **Recurring** check box of the Cost Plan form, the Total planned cost is recalculated in project currency. Similarly, the **Cost in project currency** in the Cost Plan Breakdown is also recalculated. Therefore, the values in the **Planned capital in project currency**, **Planned operating in project currency**, and the **Total planned cost in project currency** fields of the project are also recalculated.
 
 -   **Changes in the fiscal period of a cost plan**
 
@@ -32,7 +32,4 @@ If the unit cost, quantity, or fiscal period of a cost plan are updated, then al
 
     If you manually add cost plan breakdowns to a cost plan, then the **Total planned cost** of the cost plan is recalculated in project currency. Therefore, the values in the **Planned capital in project currency**, **Planned operating in project currency**, and the **Total planned cost in project currency** fields of the project are also recalculated.
 
-## Related
 
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

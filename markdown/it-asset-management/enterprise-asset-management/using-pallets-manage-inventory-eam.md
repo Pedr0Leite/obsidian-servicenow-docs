@@ -26,7 +26,7 @@ For more information about transfer orders, see [Create a transfer order in Ente
 
 When a pallet is nearing the end of its life cycle or is no longer functional, you can dispose of it using a disposal order. If the pallet contains any assets, you can choose to dispose of the pallet and its assets using any of the following options:
 
-**Note:** You can dispose of only the enterprise assets and enterprise-based [[c_ReceiveAConsumableAsset|consumable assets]] that are contained within your pallets. If a pallet contains any hardware, bundle, or hardware-based consumable assets, those assets are automatically updated with a State of Invalid and can’t be processed as part of a disposal order.
+**Note:** You can dispose of only the enterprise assets and enterprise-based consumable assets that are contained within your pallets. If a pallet contains any hardware, bundle, or hardware-based consumable assets, those assets are automatically updated with a State of Invalid and can’t be processed as part of a disposal order.
 
 -   Dispose of both the pallet and all assets that are contained within that pallet.
 -   Dispose of both the pallet and only certain assets that are contained within that pallet. Any assets that you choose to retain are automatically removed from the corresponding pallet asset record.
@@ -40,7 +40,7 @@ For more information about disposal orders, see [Create a disposal order in the 
 
 To help reduce waste and save costs, you can use resale orders to resell any pallets that you’re no longer using. If a pallet contains any assets, you can choose to resell the pallet and its assets using any of the following options:
 
-**Note:** You can’t resell any hardware assets, [[asset-bundles-concept|asset bundles]], and non-enterprise consumable assets that are contained within your pallets.
+**Note:** You can’t resell any hardware assets, asset bundles, and non-enterprise consumable assets that are contained within your pallets.
 
 -   Resell both the pallet and all assets that are contained within that pallet.
 -   Resell both the pallet and only certain assets that are contained within that pallet. Any assets that you choose to retain are automatically removed from the corresponding pallet asset record.
@@ -54,7 +54,7 @@ For more information on resale orders, see [Create an asset resale flow](https:/
 
 Assets that are contained within a pallet can be consumed through various asset workflows.
 
--   **[[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) flow**
+-   **Return Merchandise Authorization \(RMA\) flow**
 
     A Return Merchandise Authorization \(RMA\) is an agreement between a buyer and seller that allows the buyer to return, replace, or request the repair of a defective product within the specified warranty period. When an asset within a pallet becomes defective, you can initiate its replacement or repair by using an RMA order. Any assets that you include in an RMA order are automatically removed from the corresponding pallet asset record.
 
@@ -64,7 +64,7 @@ Assets that are contained within a pallet can be consumed through various asset 
 
     You can source and fulfill asset requests using assets that are available in the requester's local stockroom. When an asset within a pallet is sourced and consumed locally as part of an asset request, it’s automatically removed from the corresponding pallet asset record after the Enterprise Confirm asset task is closed.
 
-    For more information on sourcing assets from local [[c_Stockrooms|stockrooms]], see [Source requests from Enterprise Asset workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/source-requests-from-workspace.md).
+    For more information on sourcing assets from local stockrooms, see [Source requests from Enterprise Asset workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/source-requests-from-workspace.md).
 
 -   **Loaner Request flow**
 
@@ -78,7 +78,7 @@ Assets that are contained within a pallet can be consumed through various asset 
 
     For more information about returning leased assets, see [Return a leased enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/return-leased-enterprise-asset.md).
 
--   **Swap tasks from the IT Service Management [[am-landing-page|Asset Management]] application**
+-   **Swap tasks from the IT Service Management Asset Management application**
 
     The ServiceNow® Asset Management application enables you to track and manage your assets. If you use the application to swap an asset within a pallet, that asset is automatically removed from the corresponding pallet asset record after it’s swapped.
 
@@ -87,10 +87,3 @@ Assets that are contained within a pallet can be consumed through various asset 
 
 **Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[c_Stockrooms|Stockrooms]]
-- [[am-landing-page|Asset Management]]

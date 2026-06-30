@@ -18,7 +18,7 @@ Activate the Performance Analytics Content Pack for the Cloud Resources ServiceN
 
 ## Before you begin
 
-Make sure the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] Core \(com.snc.cloud.core\) plugin is installed and activated and that you have upgraded to Orlando or later release. Cloud Provisioning and Governance Core is available with [[r-discovery|Discovery]] as well as the Cloud Provisioning and Governance Core plugin.
+Make sure the Cloud Provisioning and Governance Core \(com.snc.cloud.core\) plugin is installed and activated and that you have upgraded to Orlando or later release. Cloud Provisioning and Governance Core is available with Discovery as well as the Cloud Provisioning and Governance Core plugin.
 
 Role required: Admin
 
@@ -34,7 +34,4 @@ Role required: Admin
 
 3.  Install the `Performance Analytics Content Pack for Cloud Resources`application.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]

@@ -28,11 +28,11 @@ By default, if a UI string is not translated in the preferred language of an ins
 
 For example, you could set the fallback language for Mexican Spanish to Spanish. If a UI string is not translated in Mexican Spanish, it displays in Spanish instead. If a Spanish translation is not available either, the UI string displays in English. As an admin, you would need to provide custom translations of UI strings in Mexican Spanish only when the translation differs from the Spanish translation.
 
-**Note:** To turn off fallback languages and always fall back to English, add the **glide\_i18n.language\_fallback\_enabled** property to the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table and set the value to `false` .
+**Note:** To turn off fallback languages and always fall back to English, add the **glide\_i18n.language\_fallback\_enabled** property to the System Properties \[sys\_properties\] table and set the value to `false` .
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Languages**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Languages**.
 
 2.  In the Languages \[sys\_language\] table, select the name of an active language.
 
@@ -42,7 +42,4 @@ For example, you could set the fallback language for Mexican Spanish to Spanish.
 
 4.  Select **Update**.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]

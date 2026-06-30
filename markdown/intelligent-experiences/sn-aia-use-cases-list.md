@@ -17,13 +17,13 @@ Agentic workflows are AI‑driven workflow orchestrations that use one or more A
 
 Unlike traditional workflows that follow a fixed, predefined path, agentic workflows are designed to handle routine but variable procedures, such as investigation, remediation, and analysis, where the exact steps may differ from case to case.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Agentic workflows overview
 
-Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [[activate-aia-use-case|Activate an agentic workflow template]] and [[clone-aia-usecase|Duplicate an agentic workflow]].
+Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md) and [Duplicate an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md).
 
-For more information about the in-product agentic AI experience, see [[in-product-agentic-ai|In-product agentic AI]]. You can create UI actions for your agentic workflows in [[ai-agent-studio|AI Agent Studio]]. Open the agentic workflow, navigate to the [[channels-access-aw|Select channels and access]] step in the guided setup, and create a UI action.
+For more information about the in-product agentic AI experience, see [In-product agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md). You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md) step in the guided setup, and create a UI action.
 
 ## What an agentic workflow does
 
@@ -59,7 +59,7 @@ Depending on the product and configuration, agentic workflows can be triggered a
 
 ## Available agentic workflows by product
 
-The following table describes the available agentic workflows that are included in [[platform-now-assist-landing|Now Assist]] applications.
+The following table describes the available agentic workflows that are included in Now Assist applications.
 
 <table id="table_tw1_t4n_g2c"><thead><tr><th class="filter">
 
@@ -120,7 +120,7 @@ Now Assist for Creator
 
 -   Accelerate complaint case handling
 -   Provide Customer 360 insights
--   Triage [[cases|cases]]
+-   Triage cases
 
 </td></tr><tr><td>
 
@@ -406,42 +406,21 @@ Explore ERP models
 
 </td></tr><tr><td>
 
-[[na-ai-agents|Now Assist Platform]]
+[Now Assist Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
 
 </td><td>
 
--   [[incident-trends|Analyze incident trends]]
--   [[classify-tasks|Classify tasks]]
+-   [Analyze incident trends](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/incident-trends.md)
+-   [Classify tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/classify-tasks.md)
 -   [Error Analysis and Remediation workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/error-framework-daw.md)
--   [[generate-work-plan|Generate my work plan]]
--   [[resolve-requests|Generate resolution plans]]
--   [[help-optimize-productivity|Help optimize team productivity]]
--   [[service-improvement|Identify ways to improve services]]
--   [[problem-investigation|Investigate IT problems]]
+-   [Generate my work plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generate-work-plan.md)
+-   [Generate resolution plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/resolve-requests.md)
+-   [Help optimize team productivity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/help-optimize-productivity.md)
+-   [Identify ways to improve services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/service-improvement.md)
+-   [Investigate IT problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/problem-investigation.md)
 -   [Notification agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-creation-agent.md)
--   [[images-tasks|Process images for tasks]]
--   [[survey-suggest|Suggest survey responses]]
+-   [Process images for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/images-tasks.md)
+-   [Suggest survey responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/survey-suggest.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[activate-aia-use-case|Activate an agentic workflow template]]
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[channels-access-aw|Select channels and access for an agentic workflow]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[incident-trends|Platform Analyze task trends agentic workflow]]
-- [[classify-tasks|Platform Classify tasks agentic workflow]]
-- [[generate-work-plan|Platform Generate my work plan agentic workflow]]
-- [[resolve-requests|Platform Generate resolution plan agentic workflow]]
-- [[help-optimize-productivity|Platform Help optimize team productivity agentic workflow]]
-- [[service-improvement|Platform Identify ways to improve service agentic workflow]]
-- [[problem-investigation|Platform Investigate problems agentic workflow]]
-- [[images-tasks|Platform Process images for new tasks agentic workflow]]
-- [[survey-suggest|Platform Propose survey responses agentic workflow]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

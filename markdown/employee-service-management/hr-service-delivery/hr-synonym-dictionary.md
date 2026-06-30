@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR synonym dictionary
 
-[[hr-service-delivery|HR Service Delivery]] provides a Synonym Dictionary that helps expand text searches with additional keywords.
+HR Service Delivery provides a Synonym Dictionary that helps expand text searches with additional keywords.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ You can edit the HR Synonym Dictionary to reflect your business and terminology.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

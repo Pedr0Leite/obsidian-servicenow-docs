@@ -22,7 +22,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[jny-dsgnr-landing-page-1|Journey designer]]** &gt; **Manage Journey Configurations**.
+1.  Navigate to **All** &gt; **Journey designer** &gt; **Manage Journey Configurations**.
 
 2.  Select the journey configuration or create a new one.
 
@@ -45,6 +45,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

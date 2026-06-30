@@ -12,9 +12,9 @@ breadcrumb: [Using agentic workflows in Now Assist for Purchase Order Management
 
 # Automated purchase order exception creation from emails
 
-Emails sent by a registered [[supplier-contact|supplier contact]] are automatically converted to [[purchase-order-table|purchase order]] exceptions or universal requests by using the Email Intent to Action Agentic workflow.
+Emails sent by a registered supplier contact are automatically converted to purchase order exceptions or universal requests by using the Email Intent to Action Agentic workflow.
 
-The Email Intent to Action Agentic workflow analyzes incoming [[supplier|supplier]] emails, identifies the email intent, and executes associated actions using the Intent Identification and Intent Executor agents. For more information on the Email Intent to Action Agentic workflow, see [Email Intent to Action Agentic Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-agentic-workflow.md).
+The Email Intent to Action Agentic workflow analyzes incoming supplier emails, identifies the email intent, and executes associated actions using the Intent Identification and Intent Executor agents. For more information on the Email Intent to Action Agentic workflow, see [Email Intent to Action Agentic Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-agentic-workflow.md).
 
 The workflow can process supplier emails in any of these languages: English, French, Canadian French, German, Japanese, or Dutch.
 
@@ -33,16 +33,16 @@ To use this functionality, verify that the following steps are completed:
 
 -   Deactivate the Create Supplier case for email inbound action. For more information, see [Deactivate Create supplier case from email inbound action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/deactivate-create-supplier-case-from-email-inbound-action.md).
 -   Activate the Trigger Intent to Action inbound action. To learn how to enable and configure intent to action workflow to invoke the agentic workflow from inbound actions, see [Enable intent to action workflow from inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-intent-to-action.md).
--   Set the **sn\_uni\_req.universal\_request\_portal** property value to **Supplier**. This step supports supplier user experience cases where a supplier email can't be automatically converted to a [[purchase-order-exception-table|purchase order exception]]. Instead, a [[universal-request|universal request]] is created in the [[supplier-central|Supplier Collaboration Portal]] and the supplier receives an email with a link to the universal request created. For the link to correctly direct the supplier to the Supplier Collaboration Portal, the **sn\_uni\_req.universal\_request\_portal** property value must be set to **Supplier**.
+-   Set the **sn\_uni\_req.universal\_request\_portal** property value to **Supplier**. This step supports supplier user experience cases where a supplier email can't be automatically converted to a purchase order exception. Instead, a universal request is created in the Supplier Collaboration Portal and the supplier receives an email with a link to the universal request created. For the link to correctly direct the supplier to the Supplier Collaboration Portal, the **sn\_uni\_req.universal\_request\_portal** property value must be set to **Supplier**.
 
 When a supplier sends an email to the configured email address, the Intent Executor Agent then implements the associated action based on the following conditions:
 
 -   If the email contains a purchase order line related information, a purchase order exception is created.
--   If an email includes details for multiple [[purchase-order-lines|purchase order lines]], separate purchase order exceptions are generated for each line.
+-   If an email includes details for multiple purchase order lines, separate purchase order exceptions are generated for each line.
 -   If the email contains unclear information or questions not related to purchase order exceptions, a universal request is created.
 -   If the purchase orders and purchase order lines mentioned by the supplier can't be found in the system, a universal request is created.
 
-The supplier receives an email notification when a purchase order exception or a universal request is created. A banner appears on purchase order exceptions created by the agentic workflow, indicating that an agent created them. The originating email content is added as an entry in the [[activity-stream|Activity stream]], allowing operational buyers to review agent actions and flag any discrepancies.
+The supplier receives an email notification when a purchase order exception or a universal request is created. A banner appears on purchase order exceptions created by the agentic workflow, indicating that an agent created them. The originating email content is added as an entry in the Activity stream, allowing operational buyers to review agent actions and flag any discrepancies.
 
 **Note:**
 
@@ -52,21 +52,10 @@ The supplier receives an email notification when a purchase order exception or a
     -   ServiceNow® purchase order number when it contains only one line
 -   The workflow processes emails in any of these languages: English, French, Canadian French, German, Japanese, or Dutch.
 
-**Parent Topic:**[[using-agentic-wf-na-for-pom|Using agentic workflows in Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Using agentic workflows in Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/using-agentic-wf-na-for-pom.md)
 
 **Related topics**  
 
 
 [Identify and execute mitigation strategies for purchase order exceptions]()
 
-## Related
-
-- [[using-agentic-wf-na-for-pom|Using agentic workflows in Now Assist for Purchase Order Management \(POM\)]]
-- [[supplier-contact|Supplier contact]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[universal-request|Universal Request]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[activity-stream|Activity stream]]

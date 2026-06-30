@@ -26,7 +26,7 @@ Create the status reports by selecting the desired report template that was init
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Major Security Incidents**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management** &gt; **Major Security Incidents**.
 
 2.  Select the **Lists** view.
 
@@ -139,7 +139,7 @@ Provide specific details relevant to the status update.
 
 </td><td>
 
-Select the visualizations that best help communicate the status update. -   **Incident Impact**: Select the Incident Impact metrics like Affected Assets, Affected [[location|Location]], Affected Users that are related to the status update.
+Select the visualizations that best help communicate the status update. -   **Incident Impact**: Select the Incident Impact metrics like Affected Assets, Affected Location, Affected Users that are related to the status update.
 -   **Filter elements**: Select the report elements to be included in the report. For example, Incident Impact.
 
 
@@ -257,7 +257,3 @@ Body of the email message.
 
 [Configure Major Security Incident status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-status-reports-for-major-security-incident-management.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[location|Location]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for SPO, Sourcing and Procurement Operations, Finance an
 
 # Configure Now Assist for Sourcing and Procurement Operations \(SPO\)
 
-If you have the sn\_nowassist\_admin.nsa\_admin role, you can configure the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application so that your requesters, procurement specialists, and sourcing managers can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]], [[shopping-hub-overview|Shopping Hub]], and Core UI.
+If you have the sn\_nowassist\_admin.nsa\_admin role, you can configure the Now Assist for Sourcing and Procurement Operations \(SPO\) application so that your requesters, procurement specialists, and sourcing managers can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and Core UI.
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ The following Now Assist for Sourcing and Procurement Operations \(SPO\) fulfill
 -   Email response for negotiation
 -   Email response for procurement case
 -   Email response for procurement task
--   Email response for [[purchase-requisition|purchase requisition]]
+-   Email response for purchase requisition
 -   Email response for sourcing event
--   Email response for [[sourcing-request|sourcing request]]
+-   Email response for sourcing request
 -   Email response for sourcing task
 -   Sentiment analysis for procurement case
 -   Sourcing request summarization for fulfillers
@@ -51,11 +51,11 @@ The following table lists the features and skills that you can access from the N
 |-------------------------|-----------|
 |Document extraction|Enables requesters to define and customize the fields that Now Assist extracts from uploaded Statements of Work \(SOWs\), quotes, and other supporting attachments.|
 |Email response for acknowledgement task|Generate email responses and suggest templates for acknowledgement tasks based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
-|Email response for negotiation|Generate email responses and suggest templates for [[negotiations|negotiations]] based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
+|Email response for negotiation|Generate email responses and suggest templates for negotiations based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Email response for procurement case|Generate email responses and suggest templates for procurement cases based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Email response for procurement task|Generate email responses and suggest templates for procurement tasks based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Email response for purchase requisition|Generate email responses and suggest templates for purchase requisitions based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
-|Email response for sourcing event|Generate email responses and suggest templates for [[negotiation-events|sourcing events]] based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
+|Email response for sourcing event|Generate email responses and suggest templates for sourcing events based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Email response for sourcing request|Generate email responses and suggest templates for sourcing requests based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Email response for sourcing task|Generate email responses and suggest templates for sourcing tasks based on conversation context to help fulfillers draft emails quickly and maintain clear communication.|
 |Negotiation summarization for fulfillers|Summarize negotiations to keep fulfillers informed on their status, progress, and action items.|
@@ -70,7 +70,7 @@ The following table lists the features and skills that you can access from the N
 |Sourcing request summarization for requesters|Summarize sourcing requests to keep requesters informed about their status, progress, and action items.|
 |Spend category predictor|Suggests the appropriate spend category for a fulfiller when primary ML-based category prediction doesn’t meet the confidence threshold.|
 
-\[Omitted image "now-assist-spo-explore.png"\] Alt text: Skills available on Now Assist for [[psm-overview|Sourcing and Procurement Operations]].
+\[Omitted image "now-assist-spo-explore.png"\] Alt text: Skills available on Now Assist for Sourcing and Procurement Operations.
 
 ## Procedure
 
@@ -80,7 +80,7 @@ The following table lists the features and skills that you can access from the N
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-3.  Expand the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group and select **Sourcing and Procurement Operations**.
+3.  Expand the **Finance and Supply Chain** workflow group and select **Sourcing and Procurement Operations**.
 
     The Sourcing and Procurement Operations features are grouped under the Finance and Supply Chain workflow group. Each feature has its associated skills.
 
@@ -98,7 +98,7 @@ Action
 
 -   Sourcing request summarization for requesters
 -   Purchase requisition summarization for requesters
--   [[purchase-order-table|Purchase order]] summarization for requesters
+-   Purchase order summarization for requesters
 -   Document extraction
 
 
@@ -207,22 +207,9 @@ Now Assist skills are available in the Now Assist panel. Now Assist skills are a
 
 
 -   **[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/cust-now-assist-spo-skill.md)**  
-If you have the sn\_nowassist\_admin.nsa\_admin role, you can [[cust-now-assist-spo-skill|customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill]] so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
+If you have the sn\_nowassist\_admin.nsa\_admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
 -   **[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/input-triggers-now-assist-spo.md)**  
 You can configure some of the inputs for a generative AI skill. Inputs permit you to determine how and when a skill is used.
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[purchase-order-table|Purchase order]]
-- [[cust-now-assist-spo-skill|Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill]]

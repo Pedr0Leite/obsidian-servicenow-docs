@@ -18,7 +18,7 @@ The Third Party Unit Mapping \[sn\_spend\_intg\_third\_party\_uom\_map\] staging
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Supplier Product|Reference|Reference to the [[supplier|Supplier]] Product.|
+|Supplier Product|Reference|Reference to the Supplier Product.|
 |Third-party unit|Reference|Reference to the Third Party Unit.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
@@ -98,6 +98,3 @@ The Third Party Unit Mapping \[sn\_spend\_intg\_third\_party\_uom\_map\] staging
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

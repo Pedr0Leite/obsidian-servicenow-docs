@@ -14,7 +14,7 @@ breadcrumb: [Coaching, Workforce Optimization for ITSM, IT Service Management]
 
 # Coaching components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] installs the roles and tables when you enable the Workforce Optimization for ITSM plugin \(sn\_wfo\_cfg\_itsm\).
+Workforce Optimization for ITSM installs the roles and tables when you enable the Workforce Optimization for ITSM plugin \(sn\_wfo\_cfg\_itsm\).
 
 ## Roles
 
@@ -32,7 +32,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[cf-coaching-landing|Coaching]] Admin \[sn\_coaching.admin\]
+Coaching Admin \[sn\_coaching.admin\]
 
 </td><td>
 
@@ -402,7 +402,3 @@ Course activity records are used for learning recommendations and are retained f
 2.  In the **Tablename** column, select the Learning User Course Activity \[sn\_lc\_user\_course\_activity\] table.
 3.  In the **Age in seconds** field, change the value to the time you desire to retain the records.
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

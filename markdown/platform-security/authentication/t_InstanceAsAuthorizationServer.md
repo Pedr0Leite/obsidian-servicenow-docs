@@ -20,13 +20,13 @@ You can use an instance as an authorization server to issue tokens to a client u
 
 Role required: none.
 
-This example uses two instances: one as the authorization server and the other as the client. One instance uses a REST call to [[c_requestAPI|request]] tokens from another instance.
+This example uses two instances: one as the authorization server and the other as the client. One instance uses a REST call to request tokens from another instance.
 
 You must [Activate OAuth](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ActivateOAuth.md) on both instances.
 
 ## Procedure
 
-1.  On the authorization server instance \(running the Istanbul or later release\), navigate to **System [[oauth-inbound-and-outbound|OAuth]]** &gt; **Application Registry** and then click **New**.
+1.  On the authorization server instance \(running the Istanbul or later release\), navigate to **System OAuth** &gt; **Application Registry** and then click **New**.
 
 2.  Click **Create an OAuth API endpoint for external clients**.
 
@@ -52,10 +52,6 @@ You must [Activate OAuth](https://raw.githubusercontent.com/ServiceNow/ServiceNo
     -   **Redirect URL**: URL of the instance: the client server instance. Remember to append `oauth_redirect.do` at the end of the URL.
 7.  Create a profile for the record with the **Authorization code** grant type.
 
-    The client server is setup. You can now [[create-an-outbound-rest-message|create an outbound REST message]] and get an OAuth token.
+    The client server is setup. You can now create an outbound REST message and get an OAuth token.
 
-## Related
 
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[create-an-outbound-rest-message|Create an outbound REST message]]

@@ -14,7 +14,7 @@ breadcrumb: [Automatically map all OT devices, Automated Mapping Across Zone-bas
 
 # Map OT devices to equipment model entities from the Equipment Model Manager
 
-Map [[operational-technology-overview|Operational Technology]] \(OT\) devices to equipment model entities from the Equipment Model Manager in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Map Operational Technology \(OT\) devices to equipment model entities from the Equipment Model Manager in the Industrial Workspace.
 
 ## Before you begin
 
@@ -55,7 +55,3 @@ To view the newly mapped devices, you can select the link provided in the messag
 
 **Parent Topic:**[Automatically map all OT devices to an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automatedly-map-all-ot-assets.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

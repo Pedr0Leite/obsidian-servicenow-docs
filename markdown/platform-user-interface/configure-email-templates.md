@@ -12,7 +12,7 @@ breadcrumb: [Emails, Administer, Configurable Workspace UI, Configure UIs and po
 
 # Configure an email template
 
-[[configure-onboarding-modals|Configure]] email templates to quickly create emails for common issues.
+Configure email templates to quickly create emails for common issues.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: email\_client\_admin
 
 6.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

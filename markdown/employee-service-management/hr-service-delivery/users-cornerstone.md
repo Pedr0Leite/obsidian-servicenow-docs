@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Users for HR Service Delivery Integration with Cornerstone OnDemand
 
-Users from the Cornerstone OnDemand system are mapped to the users in ServiceNow system using email Ids. User mapping helps in assigning [[exploring-learning-exp|learning]] tasks to the correct user in the ServiceNow system.
+Users from the Cornerstone OnDemand system are mapped to the users in ServiceNow system using email Ids. User mapping helps in assigning learning tasks to the correct user in the ServiceNow system.
 
 When the Trigger CSOD Sync schedule flow is run, users are pulled from the Cornerstone OnDemand system to the User Mapping Staging \[sn\_hr\_cornerstone\_user\_mapping\_staging\] table. Once the transformation scripts are run, mapped users are displayed in **HR Cornerstone Integrations** &gt; **Users**.
 
@@ -34,7 +34,7 @@ When the Trigger CSOD Sync schedule flow is run, users are pulled from the Corne
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Cornerstone OnDemand]()
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand]()
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand]()
 
@@ -46,7 +46,3 @@ When the Trigger CSOD Sync schedule flow is run, users are pulled from the Corne
 
 [Transform maps for HR Service Delivery Integration with Cornerstone OnDemand]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]

@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Assistant Designer controls
 
-A [[virtual-agent-landing-page|Virtual Agent]] topic consists of a collection of controls within a topic flow. Use these controls to collect, process, and present information to your users. Controls can also read, create, and update records on your instance.
+A Virtual Agent topic consists of a collection of controls within a topic flow. Use these controls to collect, process, and present information to your users. Controls can also read, create, and update records on your instance.
 
 Each set of controls performs specific functions in a conversation flow.
 
@@ -51,7 +51,7 @@ The first example uses the data pill selector to choose **Get Name**, an input v
 
 ## Hide or skip this node \(condition property\)
 
-Almost all controls have a condition property. The exceptions are the [[va-decision|Decision utility]] and the Start and End nodes.
+Almost all controls have a condition property. The exceptions are the Decision utility and the Start and End nodes.
 
 In user input controls, the condition property determines whether the control is used or skipped in a conversation. To always use the control, leave the condition field empty. To determine the conditions under which the control is used, do one of the following:
 
@@ -88,7 +88,3 @@ Sample script for conditionally showing the node:
 
 **Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-decision|Decision utility]]

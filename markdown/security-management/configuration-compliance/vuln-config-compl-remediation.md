@@ -16,7 +16,7 @@ breadcrumb: [Configuration Compliance, Unified Security Exposure Management, Sec
 
 Configuration Compliance remediation is primarily a manual process augmented by scheduled jobs \(integrations\), remediation tasks, workflows, and change requests.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -51,6 +51,3 @@ The states of remediation tasks automatically transition as associated change re
 
 [Configure approval rules for Exception Management in Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-exception-mgt-approval-rules.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

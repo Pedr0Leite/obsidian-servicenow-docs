@@ -15,17 +15,17 @@ breadcrumb: [Localization options for Virtual Agent, Build and deploy, Virtual A
 
 # Specify a fallback language for locale-specific languages and NLU prediction
 
-Provide language locale support by specifying a fallback language for [[virtual-agent-landing-page|Virtual Agent]] to use for topics, keywords, and NLU prediction. For example, the ServiceNow® platform doesn't support Mexican Spanish \(mx-es\), but it does support Spanish \(es\), which you can designate as the fallback language for a better user experience.
+Provide language locale support by specifying a fallback language for Virtual Agent to use for topics, keywords, and NLU prediction. For example, the ServiceNow® platform doesn't support Mexican Spanish \(mx-es\), but it does support Spanish \(es\), which you can designate as the fallback language for a better user experience.
 
 ## Before you begin
 
-**Note:** The fallback language plugin must be installed on the instance. Once installed, the language is available in the Languages \[sys\_language\] table. If [[now-assist-in-va-landing|Now Assist in Virtual Agent]] is on and you work with LLM-enabled conversations, you can only establish a fallback language in the Languages \[sys\_language\] table rather than use the following steps.
+**Note:** The fallback language plugin must be installed on the instance. Once installed, the language is available in the Languages \[sys\_language\] table. If Now Assist in Virtual Agent is on and you work with LLM-enabled conversations, you can only establish a fallback language in the Languages \[sys\_language\] table rather than use the following steps.
 
 Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select **Virtual Agent**.
 
@@ -52,8 +52,3 @@ Custom locales appear in the Languages \[sys\_language\] table, along with their
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

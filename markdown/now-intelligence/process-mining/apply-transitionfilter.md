@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Open a project for which you want to set the process step filter.
 
@@ -47,6 +47,3 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 **Parent Topic:**[Applying a process step filter on an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/node-to-node-conditions.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

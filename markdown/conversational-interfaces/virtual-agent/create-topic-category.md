@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Create or modify custom Virtual Agent categories
 
-Create or change custom categories for organizing and grouping related [[virtual-agent-landing-page|Virtual Agent]] assets, such as topics. You can also make category labels visible in the Topic picker menu displayed to end users.
+Create or change custom categories for organizing and grouping related Virtual Agent assets, such as topics. You can also make category labels visible in the Topic picker menu displayed to end users.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-Use [[category-page-pae|topic categories]] to group related conversation topics. When your create or update a topic, you can assign one or more categories to which the topic belongs. You can also view your topics by category in Virtual Agent Designer.
+Use topic categories to group related conversation topics. When your create or update a topic, you can assign one or more categories to which the topic belongs. You can also view your topics by category in Virtual Agent Designer.
 
 For your end users, you can make the custom category label visible in the Topic picker menu so that associated topics are displayed by category.
 
-Before you create a new category, review the existing categories \(**All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Categories**\) to determine if you need a new category.
+Before you create a new category, review the existing categories \(**All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Categories**\) to determine if you need a new category.
 
 **Note:** Pre-built topics have associated, default categories that can't be changed or deleted. Also, you can delete a custom category only when the category does not have any topics assigned to it.
 
@@ -99,8 +99,3 @@ Option to display the category label in the Topic picker menu for end users. **N
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[category-page-pae|Topic categories]]
-- [[convint-landing-page|Conversational Interfaces]]

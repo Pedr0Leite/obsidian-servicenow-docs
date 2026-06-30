@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning Blueprints, Cloud Admin Portal, Cloud Provisioni
 
 # Build a Cloud Provisioning blueprint
 
-Use the blueprint designer to create custom blueprints for the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application. Blueprints are deprecated in the Orlando release.
+Use the blueprint designer to create custom blueprints for the Cloud Provisioning and Governance application. Blueprints are deprecated in the Orlando release.
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 **Note:**
 
--   Starting with Orlando, [[blueprints|Cloud Provisioning blueprints]] are available on instances upgraded from a previous release but you cannot create new blueprints. [[cloud-resource-profiles|Resource profiles]] and custom-created blueprints will no longer be supported starting with the Australia release.
+-   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Resource profiles and custom-created blueprints will no longer be supported starting with the Australia release.
 -   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Blueprints**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Blueprints**.
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then specify the service **Category**.
 
@@ -79,7 +79,7 @@ You can execute your blueprint resource operations to run in a linear or in a pa
 -   **[Blueprint attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/blueprint-attributes.md)**  
 When you add a blueprint operation to a resource, the system adds the appropriate attributes. You can choose whether or not to make the attributes available as catalog properties on the form when the system performs the operation.
 -   **[Configure a blueprint rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md)**  
-Configure a rule that contains actions the system can take on [[blueprint-attributes|blueprint attributes]].
+Configure a rule that contains actions the system can take on blueprint attributes.
 
 **Parent Topic:**[Cloud Provisioning Blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/blueprints.md)
 
@@ -88,10 +88,3 @@ Configure a rule that contains actions the system can take on [[blueprint-attrib
 
 [Form configuration with blueprints]()
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[blueprints|Cloud Provisioning Blueprints]]
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[blueprint-attributes|Blueprint attributes]]

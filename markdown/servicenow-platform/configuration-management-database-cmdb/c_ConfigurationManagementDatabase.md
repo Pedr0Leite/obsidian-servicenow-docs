@@ -16,17 +16,17 @@ breadcrumb: [Explore, Configuration Management Database \(CMDB\), Configuration 
 
 The CMDB schema model is a series of connected tables that contain all the assets and business services controlled by a company and its configurations.
 
-Related ServiceNow® Store apps and [[reference|reference]] information:
+Related ServiceNow® Store apps and reference information:
 
 -   [CMDB tables descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md): Descriptions of key CMDB tables in the base system.
--   [CMDB CI Class Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md): A ServiceNow Store app that adds class models that extend the base CMDB class hierarchy. This includes class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and dependent relationships if applicable. You can then use the added classes as any other CMDB base class.
--   [Populating the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_OptionsToPopulateCMDB.md): Information about the various options for [[c_OptionsToPopulateCMDB|populating the CMDB]].
+-   [CMDB CI Class Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md): A ServiceNow Store app that adds class models that extend the base CMDB class hierarchy. This includes class descriptions, identification rules, identifier entries, and dependent relationships if applicable. You can then use the added classes as any other CMDB base class.
+-   [Populating the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_OptionsToPopulateCMDB.md): Information about the various options for populating the CMDB.
 -   [Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_MappingPatternsCustomization.md): A ServiceNow Store app that provides a library of Discovery patterns for discovering specific devices and applications in the industry.
 -   [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md): ServiceNow Store apps that provide pre-defined integrations for importing and integrating common third-party data into CMDB classes. Also includes the [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) wizard for creating new ETL transform maps.
 
 CMDB tables contain information about computers and devices on the network, software contracts and licenses, business services, and so on. The IT desk can use the CMDB to better understand their network users' equipment, and the relationships between them. The CMDB can also be referenced by other processes within the system.
 
-Applications such as Asset Management and Contract Management, operate in conjunction with the CMDB. Asset Management and Software Asset Management link to CMDB all assets, hardware, software, assets in stock, as well as records for manufacturers and vendors. The Contract Management application contains information about contracts, including leases, service contracts, purchase orders, warranties, and software licenses. The [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application has a focus on operation.
+Applications such as Asset Management and Contract Management, operate in conjunction with the CMDB. Asset Management and Software Asset Management link to CMDB all assets, hardware, software, assets in stock, as well as records for manufacturers and vendors. The Contract Management application contains information about contracts, including leases, service contracts, purchase orders, warranties, and software licenses. The Configuration Management Database \(CMDB\) application has a focus on operation.
 
 For more background information about the CMDB, see the ServiceNow Community post at [CMDB 101- What is a configuration management database and why do you need one?](https://community.servicenow.com/community?id=community_blog&sys_id=e913125fdbd9d7404837f3231f9619de).
 
@@ -45,10 +45,10 @@ The following items are class categories that are typically key in organizations
 Key classes in the CMDB:
 
 -   The Base Configuration Item \[cmdb\] class, which is the core CMDB table for non IT CIs \(descending classes are non IT CIs\).
--   The core [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]], which stores the basic attributes of all the CIs. The sn\_cmdb\_admin, sn\_cmdb\_editor, asset, admin, or itil user role is required to access this table \(descending classes are IT CIs\).
+-   The core Configuration Item \[cmdb\_ci\] class, which stores the basic attributes of all the CIs. The sn\_cmdb\_admin, sn\_cmdb\_editor, asset, admin, or itil user role is required to access this table \(descending classes are IT CIs\).
 -   The CI Relationship \[cmdb\_rel\_ci\] class, which defines all relationships between CIs.
 
-The Configuration Item class is extended to other classes, such as Database \[cmdb\_ci\_database\] and Computer \[cmdb\_ci\_computer\]. The Computer class is extended to the [[class-server|Server \[cmdb\_ci\_server\] class]], which is extended to the UNIX Server \[cmdb\_ci\_unix\_server\] class, and so on.
+The Configuration Item class is extended to other classes, such as Database \[cmdb\_ci\_database\] and Computer \[cmdb\_ci\_computer\]. The Computer class is extended to the Server \[cmdb\_ci\_server\] class, which is extended to the UNIX Server \[cmdb\_ci\_unix\_server\] class, and so on.
 
 **Note:** The Base Configuration Item \[cmdb\] class uses the table per partition extension model, which has different behaviors for replicating and deriving information than other extended tables. See [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-extension-and-classes.md).
 
@@ -57,7 +57,7 @@ You can use the schema map to view more details of tables and their relationship
 1.  Navigate to **System Definition** &gt; **Tables &amp; Columns**.
 2.  Select a table and then select **Schema Map**.
 
-**Note:** CIs not extended from the Configuration Item \[cmdb\_ci\] table, are not displayed in [[c_BusinesssServiceManagementMaps|Dependency Views]] maps and in CI relation formatters.
+**Note:** CIs not extended from the Configuration Item \[cmdb\_ci\] table, are not displayed in Dependency Views maps and in CI relation formatters.
 
 ## CI attributes
 
@@ -67,12 +67,3 @@ The position of a CI in a classification hierarchy is determined by the attribut
 
 For example, servers have different attributes from computers, which include workstations and laptops. Linux servers and UNIX servers have different attributes from the parent server classification and from each other, so they occupy separate branches in the hierarchy.
 
-## Related
-
-- [[reference|Reference]]
-- [[c_IdentificationRules|Identification rules]]
-- [[c_OptionsToPopulateCMDB|Populating the CMDB]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]
-- [[class-server|Server \[cmdb\_ci\_server\] class]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

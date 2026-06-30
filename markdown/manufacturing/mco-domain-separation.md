@@ -12,7 +12,7 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 # Domain separation for MCO
 
-Domain separation is supported for [[manufacturing-overview|Manufacturing Commercial Operations]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including the users who can see and access data.
+Domain separation is supported for Manufacturing Commercial Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including the users who can see and access data.
 
 ## Support level: Standard
 
@@ -29,9 +29,5 @@ For more information on support levels, see [Application support for domain sepa
 
 **Note:** All Manufacturing Commercial Operations tables support domain separation.
 
-**Parent Topic:**[[manufacturing-reference|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
-## Related
-
-- [[manufacturing-reference|Reference]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

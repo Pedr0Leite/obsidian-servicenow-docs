@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d336945e136">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -173,7 +173,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your GitLab tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your GitLab tool to DevOps Change Velocity.
 
 **Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-third-party-tool-credentials-in-devops-change-velocity.md).
 
@@ -184,7 +184,3 @@ You’ve successfully onboarded your GitLab tool to [[devops-landing-page-new|De
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

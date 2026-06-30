@@ -14,7 +14,7 @@ breadcrumb: [Administer, Unified Map, Configuration Management Database \(CMDB\)
 
 # Create or manage a shared preset
 
-Admins can save a set of [[cmdb-workspace-unified-map|Unified Map]] map filter settings \(layer, CI class, relationship type, and other CI attribute settings\) as a shared preset that any user can apply to their map view.
+Admins can save a set of Unified Map map filter settings \(layer, CI class, relationship type, and other CI attribute settings\) as a shared preset that any user can apply to their map view.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ The new shared preset is listed in the **Unified map shared presets** related li
 
 [Create a class profile of visible layers for classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-class-profile.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

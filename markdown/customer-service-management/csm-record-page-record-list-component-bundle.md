@@ -14,9 +14,9 @@ breadcrumb: [Components, Record pages and page templates, CSM Configurable Works
 
 The Record List component bundle is a list component bundle that uses a dedicated controller to configure list actions such as sorting, filtering, and grouping.
 
-The Record List component bundle includes a record list header with [[migration-form-declarative-actions|declarative actions]] as well as pagination control for navigating list pages.
+The Record List component bundle includes a record list header with declarative actions as well as pagination control for navigating list pages.
 
-Starting with the Zurich release, [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]] use the Record List component bundle. This list component bundle is the default experience for both new \(zboot\) and upgrade customers.
+Starting with the Zurich release, CSM Configurable Workspace record pages use the Record List component bundle. This list component bundle is the default experience for both new \(zboot\) and upgrade customers.
 
 For more information, see the following topics:
 
@@ -38,7 +38,7 @@ To continue using the previous list bundle component in place of the Record List
 
 ## Example
 
-This example uses the [[customer-service-case-types|Customer Service Case Types]] application, which includes multiple page variants under a single route. This example details the steps needed to configure a customer declarative action for **Create Case** that opens a modal on the list page:
+This example uses the Customer Service Case Types application, which includes multiple page variants under a single route. This example details the steps needed to configure a customer declarative action for **Create Case** that opens a modal on the list page:
 
 -   Create the mapping for a declarative action to open a modal.
 -   Make the modal available on the list bundle component.
@@ -81,8 +81,3 @@ To make the modal available, add it to the List Page Modals page collection.
     3.  In the create\_case app route record, add the required **Fields** parameters: table,sysId.
     4.  Set the **Screen Collection** field on the create\_case app route record to **Create Case** and then select **Update**.
 
-## Related
-
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[customer-service-case-types|Customer service case types]]

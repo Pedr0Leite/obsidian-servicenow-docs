@@ -14,17 +14,17 @@ breadcrumb: [Indexed sources, Configuring AI Search, AI Search, Search administr
 
 # Semantic index configuration for indexed sources
 
-The [[ia-ai-search|AI Search]] generalized RAG \(Retrieval-Augmented Generation\) framework offers a streamlined way to configure semantic indexing settings for records indexed from ServiceNow AI Platform® tables.
+The AI Search generalized RAG \(Retrieval-Augmented Generation\) framework offers a streamlined way to configure semantic indexing settings for records indexed from ServiceNow AI Platform® tables.
 
 ## Semantic index configuration overview
 
-AI Search admins can [[configure-semantic-indexing-ais|configure semantic indexing settings for an indexed source]]. These settings specify how AI Search indexes content from the indexed source for use with semantic vector search. The group of semantic indexing settings for a particular indexed source is called a semantic index configuration.
+AI Search admins can configure semantic indexing settings for an indexed source. These settings specify how AI Search indexes content from the indexed source for use with semantic vector search. The group of semantic indexing settings for a particular indexed source is called a semantic index configuration.
 
 Each semantic index configuration includes the following elements:
 
 -   **Indexed source**
 
-    A [[reference-email-admin|reference]] to an existing indexed source with field values or attachments that you want indexed for semantic vector search.
+    A reference to an existing indexed source with field values or attachments that you want indexed for semantic vector search.
 
     For more information on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md). To learn more about semantic vector search, see [Semantic vector search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-search-ais.md).
 
@@ -32,9 +32,9 @@ Each semantic index configuration includes the following elements:
 
     A list of one or more embedding models for the system to use when indexing content from the indexed source for semantic vector search.
 
-    An embedding model specifies how information found in your indexed content is encoded in a vector map. Semantic vector search uses the encoded information from the vector map to find search [[hs-results|results]] that have meanings similar to those of your search terms.
+    An embedding model specifies how information found in your indexed content is encoded in a vector map. Semantic vector search uses the encoded information from the vector map to find search results that have meanings similar to those of your search terms.
 
--   **Chunking strategy and related [[r_DirectJDBCProbeParameters|parameters]]**
+-   **Chunking strategy and related parameters**
 
     A chunking strategy and related parameter values that together determine how content from the indexed source's selected fields and attachments is handled during indexing for semantic vector search.
 
@@ -49,13 +49,13 @@ Each semantic index configuration includes the following elements:
     Each semantic index field defines semantic indexing settings for a single field from the indexed source table, or for attachments from that table. You can specify the order in which semantic index fields are evaluated when indexing content from the indexed source for semantic vector search.
 
 
-**Note:** You can define multiple semantic index [[clone-configurations-tab|configurations]] for an indexed source, but each configuration after the first imposes an additional performance cost at indexing time.
+**Note:** You can define multiple semantic index configurations for an indexed source, but each configuration after the first imposes an additional performance cost at indexing time.
 
 ## Activating semantic index configuration
 
 Semantic index configuration functionality is provided by the AI Search Semantic Controller plugin \(com.glide.ais.semantic\_search\). This plugin is automatically activated for your instance when you install any [Now Assist application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-You can verify whether semantic index configuration is activated by navigating to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources** and selecting an indexed source record. If you see the Semantic Index Configuration related list on the [[indexed-source-form-ais|Indexed Source form]], the plugin is activated.
+You can verify whether semantic index configuration is activated by navigating to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources** and selecting an indexed source record. If you see the Semantic Index Configuration related list on the Indexed Source form, the plugin is activated.
 
 -   **[Configure semantic indexing settings for an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-semantic-indexing-ais.md)**  
 Specify the semantic indexing configuration settings you want to apply when AI Search indexes records from your indexed sources.
@@ -64,12 +64,3 @@ Specify the semantic indexing configuration settings you want to apply when AI S
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[configure-semantic-indexing-ais|Configure semantic indexing settings for an indexed source]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[clone-configurations-tab|Configurations]]
-- [[indexed-source-form-ais|Indexed Source form]]

@@ -14,11 +14,11 @@ breadcrumb: [Reference, Health and Safety Case Management, Health and Safety, Em
 
 # Health and Safety case form
 
-Safety case manager can use the safety case form to resolve [[health-safety-overview|health and safety]] questions that they receive from employees.
+Safety case manager can use the safety case form to resolve health and safety questions that they receive from employees.
 
 When a health and safety question is submitted, it creates a safety case. Some of the fields on the case form are populated from the request from which it is created.
 
-After the case is assigned, a safety agent fills out the fields on the case from [[health-safety-core-workspace|Health and Safety Workspace]].
+After the case is assigned, a safety agent fills out the fields on the case from Health and Safety Workspace.
 
 <table id="table_iqx_xtw_ybc"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Related incidents / observations
 
 </td><td>
 
-Safety incident or observation this case is related to.This field appears only when the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] \(sn\_hs\_im\_incident\) application is installed on your ServiceNow instance. For more information, see [Install Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+Safety incident or observation this case is related to.This field appears only when the Health and Safety Incident Management \(sn\_hs\_im\_incident\) application is installed on your ServiceNow instance. For more information, see [Install Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 </td></tr><tr><td>
 
@@ -161,8 +161,3 @@ Only a user with the Return to work case writer \[sn\_hs\_cm.rtw\_writer\] role 
 
 **Parent Topic:**[Health and Safety Case Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-reference.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

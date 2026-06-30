@@ -14,7 +14,7 @@ breadcrumb: [Manage RMA requests, Use, Hardware Asset Management, IT Asset Manag
 
 # Closing an RMA request
 
-After you [[submit-rma-request|submit an RMA request]] for a defective asset, you must go through various tasks to finalize repairing or replacing the asset.
+After you submit an RMA request for a defective asset, you must go through various tasks to finalize repairing or replacing the asset.
 
 To close an RMA request, you have to close each of its request lines separately. To close a line, you have to complete all of the line's RMA tasks, and you must provide any necessary information about the line. You close a line by first closing its Assessment task. Then the defective asset is sent for either off-site or on-site repair. The line is closed after all these tasks are finished.
 
@@ -34,7 +34,7 @@ The asset, inventory\_user, or itil role can only access the reports of the RMA 
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Inventory** &gt; **[[return-merchandise-authorization|Return Merchandise Authorization]]** &gt; **All RMA Requests**.
+1.  Navigate to **All** &gt; **Inventory** &gt; **Return Merchandise Authorization** &gt; **All RMA Requests**.
 
     The RMA Request page appears and shows a list of RMA requests.
 
@@ -361,7 +361,4 @@ If you have the inventory user or itil role, then you can cancel an RMA request 
 
         In the Asset form, the state of the asset changes to In stock and the substate changes to Pending repair.
 
-## Related
 
-- [[submit-rma-request|Submit an RMA request]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

@@ -14,9 +14,9 @@ breadcrumb: [Use, Hiring tab, Hiring Experiences, HR Service Delivery, Employee 
 
 # View hiring content
 
-See different [[hiring-tab-concept|hiring]] materials available in the [[hiring-dashboard|Hiring tab]].
+See different hiring materials available in the Hiring tab.
 
-Access relevant hiring content, as a hiring manager, from the [[rfy-ec|Recommended for you]] section.
+Access relevant hiring content, as a hiring manager, from the Recommended for you section.
 
 Get a better understanding of the region-specific hiring policies and processes.
 
@@ -24,8 +24,3 @@ For more information on setting up Recommended for you in Hiring, see [Configure
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[hiring-dashboard|Hiring tab]]
-- [[rfy-ec|Recommended for you]]

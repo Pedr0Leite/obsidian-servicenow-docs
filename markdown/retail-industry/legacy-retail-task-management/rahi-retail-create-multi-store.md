@@ -14,12 +14,9 @@ breadcrumb: [Retail Task Management, Retail]
 
 # Create multi-store cases in Retail Task Management Core
 
-Create multi-store cases that assign work from HQ to multiple [[rahi-retail-operations-overview|retail]] locations simultaneously.
+Create multi-store cases that assign work from HQ to multiple retail locations simultaneously.
 
 1.  [Create a parent multi-store case in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-parent-multi-store-case.md)
 2.  [Manage child cases in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-manage-child-cases.md)
 3.  [Retail multi-store case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-case-states.md)
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]

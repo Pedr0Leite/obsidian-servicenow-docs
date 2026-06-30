@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Search for a record in the Industrial Workspace
 
-Search for a record in the Industrial Workspace related to [[operational-technology-overview|Operational Technology]] \(OT\) data, or Configuration Management Database \(CMDB\) data.
+Search for a record in the Industrial Workspace related to Operational Technology \(OT\) data, or Configuration Management Database \(CMDB\) data.
 
 ## Before you begin
 
@@ -23,18 +23,18 @@ Search for a record in the Industrial Workspace related to [[operational-technol
 
 ## About this task
 
-The [[industrial-workspace-for-operational-technology|Industrial Workspace]] search is configured to show Natural Language Query \(NLQ\) Genius Results for each search. For more information about how NLQ Genius Results are used in the Industrial Workspace, see [NLQ Genius Results used in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/nlq-genius-results-industrial-workspace.md). For more information about NLQ Genius Results, see [NLQ Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/genius-result-nlq-ais.md).
+The Industrial Workspace search is configured to show Natural Language Query \(NLQ\) Genius Results for each search. For more information about how NLQ Genius Results are used in the Industrial Workspace, see [NLQ Genius Results used in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/nlq-genius-results-industrial-workspace.md). For more information about NLQ Genius Results, see [NLQ Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/genius-result-nlq-ais.md).
 
 Using the search bar in the Industrial Workspace, you can search and find results for the following records.
 
 -   IT Incident
 -   OT Incident and Incident Task
 
-    **Note:** OT Incident and Incident Task records are only available if you have [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] installed.
+    **Note:** OT Incident and Incident Task records are only available if you have Operational Technology Incident Management installed.
 
 -   OT Change and Change Task
 
-    **Note:** OT Change and Change Task records are only available if you have [[operational-technology-change-management-landing-page|Operational Technology Change Management]] installed.
+    **Note:** OT Change and Change Task records are only available if you have Operational Technology Change Management installed.
 
 -   Catalog Task
 -   Knowledge
@@ -60,9 +60,3 @@ Using the search bar in the Industrial Workspace, you can search and find result
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]

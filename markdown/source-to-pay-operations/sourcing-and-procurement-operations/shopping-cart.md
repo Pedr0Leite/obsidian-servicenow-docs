@@ -23,9 +23,9 @@ If you have credits allocated to you for a product or category, you can use them
 If you want to switch to shopping as a delegate, the items in your cart are saved and an alert message stating the same is displayed.
 
 -   **[Add products to your shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-products-to-shopping-cart.md)**  
-Use your shopping cart to add multiple products that you have shortlisted and want to purchase when you are done shopping on [[shopping-hub-overview|Shopping Hub]].
+Use your shopping cart to add multiple products that you have shortlisted and want to purchase when you are done shopping on Shopping Hub.
 -   **[Review your shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-shopping-cart.md)**  
-When you are done with your shopping, [[review-shopping-cart|review your shopping cart]] to ensure that you have the right products from the right suppliers in the right quantities in your cart.
+When you are done with your shopping, review your shopping cart to ensure that you have the right products from the right suppliers in the right quantities in your cart.
 -   **[Cart line update scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/cart-line-update-scenarios.md)**  
 Cart lines are created, updated, or deleted based on the updates that you make to the products in your shopping cart.
 -   **[Product selection overrides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/product-selection-overrides.md)**  
@@ -33,7 +33,3 @@ Certain scenarios such as excluded suppliers and shopping control restrictions c
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[review-shopping-cart|Review your shopping cart]]

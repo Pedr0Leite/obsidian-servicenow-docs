@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Agent Topology Mapping, ITOM Visibility, IT Operation
 
 # Microsoft Foundry \(Classic\) pattern-based discovery
 
-[[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]] discovers Microsoft Foundry \(Classic\) services, agents, and models during horizontal [[r-discovery|discovery]].
+AI Agent Topology Mapping discovers Microsoft Foundry \(Classic\) services, agents, and models during horizontal discovery.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -39,7 +39,7 @@ The following diagram illustrates the tables and relationships that the AI Agent
     Discovering these resources may require updating to the latest version of the following applications from the ServiceNow Store:
 
     -   AI Agent Topology Mapping
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   Visibility Content
     -   CMDB CI Class Models
 -   **Activate the cloud-related CI relationships**
@@ -58,7 +58,7 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
     Enable Cloud Discovery to access your Azure environment.
 
-    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [[setup-azure-service-accounts|Set up Azure service accounts]].
+    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-azure-service-accounts.md).
 
 -   **Create an Azure cloud discovery schedule**
 
@@ -374,7 +374,7 @@ Install Status \[install\_status\]
 Install status of the resource. Default value is Installed.
 
 </td></tr></tbody>
-</table>## [[dependency-views-map|Dependency Views map]]
+</table>## Dependency Views map
 
 On the Dependency Views map, you can view discovered Microsoft Foundry resources and the relationships between them.
 
@@ -437,10 +437,3 @@ The Azure - AI Service Foundry Project pattern collects tags and populates them 
 
 [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[setup-azure-service-accounts|Set up Azure service accounts]]
-- [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

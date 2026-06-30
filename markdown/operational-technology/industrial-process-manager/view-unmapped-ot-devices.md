@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # View unmapped OT devices
 
-View a list of [[operational-technology-overview|Operational Technology]] \(OT\) devices with IP addresses that aren't mapped to any equipment model entity.
+View a list of Operational Technology \(OT\) devices with IP addresses that aren't mapped to any equipment model entity.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: cmdb\_ot\_isa\_editor and cmdb\_ot\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the Industrial Workspace list view under the **Operational Technology \(OT\)** module, select the **Unmapped OT Devices** list.
 
@@ -44,7 +44,3 @@ Now, you can map the OT devices to equipment model entities. For more informatio
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

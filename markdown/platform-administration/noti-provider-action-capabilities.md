@@ -12,7 +12,7 @@ breadcrumb: [Create, Provider notifications, Notifications, Configure core featu
 
 # Select provider notification action capabilities
 
-Enable [[notification-provider|provider notification]] [[clone-exclusions-preservers-cleanupscripts|definitions]] to accept actions as scriptable action, flow actions, and virtual agent.
+Enable provider notification definitions to accept actions as scriptable action, flow actions, and virtual agent.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **Notifications**.
 
     A list of notifications shows up.
 
@@ -40,18 +40,10 @@ Role required: admin
     -   Flow Action
     -   Virtual Agent
 
--   **[[noti-scriptable-action|Create a scriptable notification action]]**  
+-   **[Create a scriptable notification action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-scriptable-action.md)**  
 Select **Scriptable Action** from the Notification Action wizard to create a scriptable notification action.
--   **[[noti-flow-action|Create a flow notification action]]**  
+-   **[Create a flow notification action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-flow-action.md)**  
 Select **Flow Action** from the Notification Action wizard to create a flow notification action.
 
-**Parent Topic:**[[create-provider-notification-using|Create provider notification]]
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-provider-notification-using.md)
 
-## Related
-
-- [[noti-scriptable-action|Create a scriptable notification action]]
-- [[noti-flow-action|Create a flow notification action]]
-- [[create-provider-notification-using|Create provider notification]]
-- [[notification-provider|Provider notification]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[notifications|Notifications]]

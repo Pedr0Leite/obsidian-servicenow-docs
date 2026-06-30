@@ -30,7 +30,7 @@ For example, to meet the monthly audit requirement of inspecting multiple stores
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open a plan from the list of work plans.
 
@@ -88,6 +88,3 @@ Filter conditions to determine the task plan template to be used to tasks based 
 
 Task plan templates are linked to schedules, and when generating tasks for a specific work plan, the corresponding template is used.
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]

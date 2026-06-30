@@ -14,13 +14,13 @@ breadcrumb: [CMDB 360 experience in a workspace, CMDB 360, Configuration Managem
 
 # Schedule a CMDB 360 query for a report
 
-Set up a schedule to regularly query for [[multisource-cmdb|CMDB 360]] data. Use scheduled queries to provide CMDB 360 data to reports you create, which can provide insight into how discovery sources populate the CMDB and the reliability of those discovery sources.
+Set up a schedule to regularly query for CMDB 360 data. Use scheduled queries to provide CMDB 360 data to reports you create, which can provide insight into how discovery sources populate the CMDB and the reliability of those discovery sources.
 
 ## Before you begin
 
 Ensure that you run the CMDB 360 query at least once.
 
-To access CMDB 360 in [[sg-workspace|Service Graph Workspace]], you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md).
+To access CMDB 360 in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md).
 
 Role required: sn\_cmdb\_user and either cmdb\_ms\_admin or cmdb\_ms\_editor.
 
@@ -58,7 +58,3 @@ Create a CMDB 360 report to integrate CMDB 360 query results with platform [Repo
 
 [Create a Compare Attribute Values query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-query-comp-attr-value.md)
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]

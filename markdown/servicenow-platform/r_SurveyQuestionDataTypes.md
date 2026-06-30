@@ -12,9 +12,9 @@ breadcrumb: [Survey designer, Survey administration, Use surveys, Surveys, Asses
 
 # Survey question data types
 
-You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on [[c_SurveyQuestionnairesForUsers|survey questionnaires]].
+You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on survey questionnaires.
 
-The following data types are available for [[r_SurveyManagementLandingPage|surveys]]:
+The following data types are available for surveys:
 
 ## Attachment data type
 
@@ -37,7 +37,7 @@ See [Administering attachments](https://raw.githubusercontent.com/ServiceNow/Ser
 
 ## Boolean data type
 
-On questionnaires, users select a [[check-box|check box]] beside a statement or leave it cleared.
+On questionnaires, users select a check box beside a statement or leave it cleared.
 
 \[Omitted image "CheckboxDataType.png"\] Alt text: Boolean data type question
 
@@ -68,7 +68,7 @@ The **Date** and **Date/Time** data types are similar.
 
 ## Likert Scale data type
 
-On questionnaires, users select a [[multiple-choice|multiple choice]] value from a custom Likert scale. Each answer option is represented by a radio button on the scale. A Likert scale question that evaluates an application's ease of use might have the answer options **Easy**, **Average**, and **Difficult**.
+On questionnaires, users select a multiple choice value from a custom Likert scale. Each answer option is represented by a radio button on the scale. A Likert scale question that evaluates an application's ease of use might have the answer options **Easy**, **Average**, and **Difficult**.
 
 \[Omitted image "SurveyDataTypeScale.png"\] Alt text: Likert scale data type question
 
@@ -100,7 +100,7 @@ If you select **Percentage**, you must fill in these additional fields:
 
 ## Reference data type
 
-On questionnaires, users select a value from a list that is generated from a specified [[reference|reference]] table. The response field supports auto-completion.
+On questionnaires, users select a value from a list that is generated from a specified reference table. The response field supports auto-completion.
 
 **Note:** Reference qualifiers are not supported.
 
@@ -132,7 +132,7 @@ If you select **Template**, you must fill in these additional fields:
 
 On questionnaires, users select **Yes** or **No** from a list.
 
-\[Omitted image "SurveyDataTypeYesNo.png"\] Alt text: [[yes-no|Yes/no]] data type question
+\[Omitted image "SurveyDataTypeYesNo.png"\] Alt text: Yes/no data type question
 
 If you select **Yes/No**, you must fill in the **Scale definition** field. Select **High** if **Yes** is the best answer.
 
@@ -172,9 +172,9 @@ On questionnaires, users can select a different order number for each option to 
 
 One order number cannot be selected twice. This question can be mandatory and it can also be dependent on a parent question, but not vice versa.
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
-**Parent Topic:**[[c_SurveyQuestion|Survey questions]]
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
 **Related topics**  
 
@@ -203,16 +203,5 @@ One order number cannot be selected twice. This question can be mandatory and it
 
 [Change the order of survey questions]()
 
-[[c_SurveyQuestionTemplate|Survey question template]]
+[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)
 
-## Related
-
-- [[c_SurveyDesigner|Survey designer]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[multiple-choice|Multiple choice]]
-- [[reference|Reference]]
-- [[yes-no|Yes/No]]

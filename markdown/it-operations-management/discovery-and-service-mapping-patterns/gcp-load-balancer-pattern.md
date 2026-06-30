@@ -15,7 +15,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # GCP Load Balancer pattern-based discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns finds GCP Load Balancers on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns finds GCP Load Balancers on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Discovery patterns discover GCP Load Balancing infrastructure:
 
@@ -272,7 +272,7 @@ Request path for HTTP and HTTPS health checks.This field is populated only by th
 </td></tr></tbody>
 </table>## CI relationships
 
-Both Load Balancer patterns create these relationships to support GCP [[c_LoadBalancers|Load Balancer discovery]].
+Both Load Balancer patterns create these relationships to support GCP Load Balancer discovery.
 
 |CI|Relationship|CI|
 |---|------------|---|
@@ -303,8 +303,3 @@ The Google Cloud Platform \(GCP\) - Load Balancer - TCP - UDP pattern creates re
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_LoadBalancers|Load balancer discovery]]

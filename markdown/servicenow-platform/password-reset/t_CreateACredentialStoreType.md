@@ -22,7 +22,7 @@ Role required: password\_reset\_credential\_manager
 
 ## About this task
 
-You can also configure a credential store type to work independently with the [[password-reset-landing-page|password reset]], password change, and unlock password actions.
+You can also configure a credential store type to work independently with the password reset, password change, and unlock password actions.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ You can also configure a credential store type to work independently with the [[
 
 4.  In the **Description** field, enter the description for the credential store type.
 
-5.  To use password reset subflows in Integration Hub, leave the **Use Flow** [[check-box|check box]] selected.
+5.  To use password reset subflows in Integration Hub, leave the **Use Flow** check box selected.
 
     **Note:** See [Customize password reset processes and integrate third-party credential services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/setup-pwd-reset-ihub.md) for information on creating provider-specific subflows.
 
@@ -130,7 +130,7 @@ Supports Force Password Change On First Log In
 
 When selected, notifies the user to change the password when the user signs in for the first time with the new password that the user receives after the password reset action is completed.
 
- **Note:** Based on this setting, the fields on the [[configure-password-reset-form|Password Reset Process form]] change. For example, when a password reset administrator selects the **Auto-generate password** check box on the Password Reset Process form, the form displays the **User must reset password** field. So, it depends on the password reset administrator whether to prompt users to change their auto-generated password or not even if the **Supports Force Password Change On First Log In** check box is selected.
+ **Note:** Based on this setting, the fields on the Password Reset Process form change. For example, when a password reset administrator selects the **Auto-generate password** check box on the Password Reset Process form, the form displays the **User must reset password** field. So, it depends on the password reset administrator whether to prompt users to change their auto-generated password or not even if the **Supports Force Password Change On First Log In** check box is selected.
 
 </td></tr></tbody>
 </table>8.  If you want to use workflows, clear the **Use Flow** check box to use the password reset workflows in Orchestration.
@@ -141,7 +141,7 @@ When selected, notifies the user to change the password when the user signs in f
     -   The workflows are available only if you have upgraded from the previous releases.
     |Field|Description|
     |-----|-----------|
-    |Password Reset workflow|Defines the credential store processing. Password Reset workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more information about how to [[t_CreateAWorkflow|create a workflow]], see [Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).|
+    |Password Reset workflow|Defines the credential store processing. Password Reset workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more information about how to create a workflow, see [Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).|
     |Connection test workflow|Defines how to test the connection. Connection test workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).|
     |Get user lock state workflow|Defines how to get the user lock state. Get user lock state workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more on how to create a workflow, see [Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).|
     |Unlock user workflow|Defines how to unlock a user. Unlock user workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).|
@@ -151,9 +151,3 @@ When selected, notifies the user to change the password when the user signs in f
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[configure-password-reset-form|Password Reset Process form]]
-- [[t_CreateAWorkflow|Create a workflow]]

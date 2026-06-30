@@ -12,7 +12,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 # Add help to a field label on a form
 
-You can create field-level help in [[form-configurable-workspace|forms]] by placing help icons in individual fields and converting the field labels to links to external or internal URLs.
+You can create field-level help in forms by placing help icons in individual fields and converting the field labels to links to external or internal URLs.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can link to any type of file, document, or wiki, and open it in a separate b
 
 1.  Open the form.
 
-2.  Right-click the label for the field and select **[[configure-onboarding-modals|Configure]] Label**.
+2.  Right-click the label for the field and select **Configure Label**.
 
 3.  Complete the form.
 
@@ -68,10 +68,5 @@ Not used. The help file opens in a new tab regardless of the **URL target** valu
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]

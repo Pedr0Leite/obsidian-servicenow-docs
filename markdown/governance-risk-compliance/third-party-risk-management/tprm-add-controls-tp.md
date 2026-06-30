@@ -14,7 +14,7 @@ breadcrumb: [TPRM with Policy and Compliance Management, Integrate, Third-party 
 
 # Manually add a control to a third party or engagement
 
-If you’re using both [[r_PolicyComplianceMgmt|Policy and Compliance Management]] and Third-party Risk Management, you can associate controls with third parties and engagements. Controls can be marked as compliant or non-compliant.
+If you’re using both Policy and Compliance Management and Third-party Risk Management, you can associate controls with third parties and engagements. Controls can be marked as compliant or non-compliant.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ To understand the difference between a control objective and a control, see [Str
 
 
 -   **[Create new control form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-control-record-form.md)**  
-Use the [[tprm-control-record-form|create new control form]] to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application.
+Use the create new control form to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application.
 
 **Parent Topic:**[Integrating Third-party Risk Management with GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/pc-assessment-integration.md)
 
@@ -69,7 +69,3 @@ Use the [[tprm-control-record-form|create new control form]] to capture all the 
 
 [Control objectives form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-control-objective-form.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tprm-control-record-form|Create new control form]]

@@ -12,7 +12,7 @@ breadcrumb: [Manage your teams, Navigate the Care Team Portal, Navigate, Care Te
 
 # View your teams using the Care Team Portal
 
-View your teams from directly within the [[care-team-portal-landing|Care Team Portal]].
+View your teams from directly within the Care Team Portal.
 
 ## Before you begin
 
@@ -24,6 +24,4 @@ Role required: sn\_hco.care\_team\_member or sn\_hco.care\_team\_manager
 
 2.  Select the team that you want to view.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

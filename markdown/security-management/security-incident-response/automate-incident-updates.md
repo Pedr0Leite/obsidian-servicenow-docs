@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure Sentinel integration, Security Incident Response in
 
 # Automate the incident updates and closures by the SIR incident status
 
-Automate the incident updates and closures by the SIR incident status. The [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]] has a bi-directional interface that enables both incidents to create security incidents and to update the incidents after the security incident is created or closed.
+Automate the incident updates and closures by the SIR incident status. The Microsoft Azure Sentinel integration has a bi-directional interface that enables both incidents to create security incidents and to update the incidents after the security incident is created or closed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Automate the incident updates and closures by the SIR incident status. The [[mic
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 Role required: sn\_si.ingestion\_profile\_admin
 
@@ -40,7 +40,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 2.  On the form, fill in the details.
 
-    Follow the instructions to complete the configuration for updating incidents when you create or [[close-sir-incident-aiagent|close a security incident]] in SIR.
+    Follow the instructions to complete the configuration for updating incidents when you create or close a security incident in SIR.
 
 <table id="table_kyc_qbg_p4b"><thead><tr><th>
 
@@ -118,7 +118,7 @@ Incident classification and closing reason
 
 Method for the incident classification and closing reason that is used to close the incident in the Microsoft Azure Sentinel environment.Select the **Default incident classification and closing reason** method to close the incident in the Microsoft Azure Sentinel environment. When you select this method, you must define the **Default incident classification and closing reason**. When you close an incident in SIR, the incident status in Azure Sentinel is also closed with the specified **Default incident classification and closing reason**.
 
- Select the **Incident classification and closing reason-SIR close code [[mapping-logrhythm|mapping]]** method to close the incidents and to map the classification reasons with the SIR close codes. You can map multiple SIR close codes to a single classification reason. After you close an incident in SIR using the close code, the incident status in Azure Sentinel is also closed with the mapped incident classification and closing reason.
+ Select the **Incident classification and closing reason-SIR close code mapping** method to close the incidents and to map the classification reasons with the SIR close codes. You can map multiple SIR close codes to a single classification reason. After you close an incident in SIR using the close code, the incident status in Azure Sentinel is also closed with the mapped incident classification and closing reason.
 
  If the classification reason and SIR close codes are not mapped, or a match is not found, then the incident is closed using the default classification reason as 'Undetermined' in the Microsoft Azure Sentinel environment.
 
@@ -154,9 +154,3 @@ Option that you can select to update your SIR work notes in the Microsoft Azure 
 
 The profile moves to the Waiting state. When the confirmation message shows that the setup and configuration is complete, you can activate the profile.
 
-## Related
-
-- [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[close-sir-incident-aiagent|Close a security incident]]
-- [[mapping-logrhythm|Mapping]]

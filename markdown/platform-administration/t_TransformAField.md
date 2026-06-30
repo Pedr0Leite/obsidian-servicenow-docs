@@ -41,7 +41,7 @@ Creating a transformation record is the first step in transforming a field.
 
 1.  Activate the Field Normalization plugin.
 
-2.  Navigate to **Field Normalization** &gt; **[[clone-configurations-tab|Configurations]]** &gt; **Transformations**.
+2.  Navigate to **Field Normalization** &gt; **Configurations** &gt; **Transformations**.
 
 3.  Click **New**.
 
@@ -61,7 +61,7 @@ Name
 
 </td><td>
 
-Unique name for this transformation record. This value is for [[reference-email-admin|reference]] only and is not used in any processing.
+Unique name for this transformation record. This value is for reference only and is not used in any processing.
 
 </td></tr><tr><td>
 
@@ -101,12 +101,12 @@ Raw field
 
 </td><td>
 
-Select the field to use to display the original input \(non-normalized\) values on a form in which a field value has been normalized. For the selection to appear in the drop-down list, add a custom field to the form for the table selected. For instructions on adding a field for raw data, see [[t_CreateARawField|Create a raw field]].
+Select the field to use to display the original input \(non-normalized\) values on a form in which a field value has been normalized. For the selection to appear in the drop-down list, add a custom field to the form for the table selected. For instructions on adding a field for raw data, see [Create a raw field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateARawField.md).
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-    The **[[c_FieldTransformations|Transforms]]** and **Data Jobs** Related Lists appear on the form.
+    The **Transforms** and **Data Jobs** Related Lists appear on the form.
 
 
 ## Create one or more related transform records
@@ -123,7 +123,7 @@ Each related transform record performs a specific transformation type such as ad
 
     \[Omitted image "TransformTypes.png"\] Alt text: Transform types
 
-3.  Select a transform type and provide the appropriate [[r_DirectJDBCProbeParameters|parameters]].
+3.  Select a transform type and provide the appropriate parameters.
 
 4.  Select an **Order** number for this transform.
 
@@ -188,10 +188,4 @@ New transformation records open in the **Test** mode by default, enabling admini
 
     7.  When testing is complete, change the **Mode** to **Active** and run the data job.
 
-## Related
 
-- [[t_CreateARawField|Create a raw field]]
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]
-- [[c_FieldTransformations|Transforms]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

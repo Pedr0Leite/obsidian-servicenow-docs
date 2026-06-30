@@ -24,7 +24,7 @@ Role required: ts\_admin or admin
 
 Text index groups enable you to index and search across multiple tables.
 
-Performing searches across multiple tables requires normalizing the tables first so the relevance scores mean the same thing for all tables. V4 indexing provides that normalization. Zing uses the [Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25) ranking function to calculate the relevancy score of search [[hs-results|results]].
+Performing searches across multiple tables requires normalizing the tables first so the relevance scores mean the same thing for all tables. V4 indexing provides that normalization. Zing uses the [Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25) ranking function to calculate the relevancy score of search results.
 
 The V4 table indexing format is optimized for documentation, such as knowledge base articles. You don't need to reindex tables that use this format when you change the value of an indexing attribute, such as the weight of a field. If you want to use the BM25 ranking function on a single table, you can convert it to the V4 format.
 
@@ -45,7 +45,7 @@ To enable search across multiple tables, you:
 
     **Note:** Upgrading from V3 to V4 is easy. Downgrading from V4 to V3 is more difficult and discouraged.
 
-    1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index [[clone-configurations-tab|Configurations]]**.
+    1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index Configurations**.
 
     2.  Open the record for the table that you want to upgrade to the V4 index format.
 
@@ -61,7 +61,7 @@ To enable search across multiple tables, you:
 
     5.  Select the **Upgrade to V4** related link, then select **OK**.
 
-        The system [[c_UseSchedules|schedules]] a task to upgrade the text index from V3 to V4, enabling this table to participate in multiple-table indexing.
+        The system schedules a task to upgrade the text index from V3 to V4, enabling this table to participate in multiple-table indexing.
 
 2.  Create a text index group that specifies the tables you want to index together so you can search them together.
 
@@ -108,13 +108,13 @@ To enable search across multiple tables, you:
 
     8.  In **Attribute name**, select the magnifying glass and select an attribute.
 
-        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute [[clone-exclusions-preservers-cleanupscripts|definitions]], see [Zing index and search attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-attributes.md).
+        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-attributes.md).
 
     9.  In **Value** enter a value and select **Submit**.
 
         Valid values depend on the attribute. For information on valid values, see [Zing index and search attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-attributes.md).
 
-    10. Repeat this procedure to define additional search engine [[r_DirectJDBCProbeParameters|parameters]] for other tables in the text index group.
+    10. Repeat this procedure to define additional search engine parameters for other tables in the text index group.
 
     11. Under **Related Links**, select **Generate Text Index**.
 
@@ -148,7 +148,7 @@ To enable search across multiple tables, you:
 
 5.  Add a synonym dictionary.
 
-    Specifying a dictionary enables searches on the search term and [[synonyms-ais|synonyms]] of the search term, such as `car` and its synonym `auto`. Zing provides a default synonym dictionary.
+    Specifying a dictionary enables searches on the search term and synonyms of the search term, such as `car` and its synonym `auto`. Zing provides a default synonym dictionary.
 
     1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index Configurations**.
 
@@ -156,7 +156,7 @@ To enable search across multiple tables, you:
 
     3.  On the **Index synonym Dictionaries** tab, select **New**.
 
-    4.  In **Index**, select the table index to add the [[stop-words-ais|stop words]] to.
+    4.  In **Index**, select the table index to add the stop words to.
 
     5.  In **Synonym dictionary**, select the dictionary to use.
 
@@ -202,12 +202,3 @@ You can query the tables in the text index group for string matches using the `G
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_UseSchedules|Schedules]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[synonyms-ais|Synonyms]]
-- [[stop-words-ais|Stop words]]

@@ -17,7 +17,7 @@ You can manage certain workflows based on system properties, such as enabling or
 
 Navigate to **All****&gt;System Properties****&gt;All Properties**.
 
-Alternatively, in your instance, enter `sys_properties.list` in the filter navigator and customize the [[email-as-an-interaction|Email Interaction]] system properties.
+Alternatively, in your instance, enter `sys_properties.list` in the filter navigator and customize the Email Interaction system properties.
 
 <table id="table_qbv_3d4_pwb"><thead><tr><th>
 
@@ -128,6 +128,3 @@ Enable or disable agent notifications when a customer email reply is linked to t
 
 [Display the most recent reply in the Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-last-viewed-timestamps-activity-stream.md)
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

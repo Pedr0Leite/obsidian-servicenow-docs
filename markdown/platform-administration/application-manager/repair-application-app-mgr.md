@@ -14,7 +14,7 @@ breadcrumb: [Repairing apps and plugins, Application Manager, Administering appl
 
 # Repair an application or plugin
 
-Repair an application procured through the [[servicenow-store|ServiceNow Store]] or a plugin included in your instance. Repairing apps or plugins can resolve issues caused by unintentional modifications, corrupted files, or partial deletion.
+Repair an application procured through the ServiceNow Store or a plugin included in your instance. Repairing apps or plugins can resolve issues caused by unintentional modifications, corrupted files, or partial deletion.
 
 ## Before you begin
 
@@ -22,10 +22,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the **Installed** tab of [[application-manager|Application Manager]] in one of the following ways.
+1.  Navigate to the **Installed** tab of Application Manager in one of the following ways.
 
     -   Navigate to **Admin** &gt; **Application Manager** &gt; **Installed**.
-    -   Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Application Manager** &gt; **Installed**.
+    -   Navigate to **All** &gt; **Admin Center** &gt; **Application Manager** &gt; **Installed**.
 2.  Find and select the application or plugin you want to repair.
 
     You can search for an application or plugin by name, or use the sort and filter options available in the Application Manager.
@@ -35,8 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Repairing applications and plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/repairing-apps-app-manager.md)
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]
-- [[admin-center-intro|Admin Center]]

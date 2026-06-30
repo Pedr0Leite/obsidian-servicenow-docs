@@ -22,7 +22,7 @@ Role required: All employees with direct reports
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Action plans**, and open an action plan.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action plans**, and open an action plan.
 
 2.  Click **Add to-do** or open an existing task in a stage.
 
@@ -44,6 +44,3 @@ Role required: All employees with direct reports
 
 **Parent Topic:**[Manage action plan to-do tasks and create templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/manage-todo-tasks-as-manager.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

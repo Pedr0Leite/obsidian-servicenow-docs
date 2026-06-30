@@ -22,9 +22,9 @@ Security Center is a free application that administrators can download from the 
 
 **Important:**
 
-[[instance-security-center|Instance Security Center]] \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for activation.
+Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for activation.
 
-Security Center \(SSC\) is the recommended solution going forward. For more information, see [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]].
+Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md).
 
 ## Get started
 
@@ -44,7 +44,7 @@ Security Center \(SSC\) is the recommended solution going forward. For more info
 
 </td></tr><tr><td>
 
-[Security [[sc-configuration|configuration]] console\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
+[Security configuration console\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
 
  [Use the Security configuration console to get a quick overview of the security posture of your instance on the overview page.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
 
@@ -82,38 +82,23 @@ Security Center \(SSC\) is the recommended solution going forward. For more info
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
 -   **[Security Center landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-landing.md)**  
-Use the [[sec-center-landing|Security Center landing page]] to find the information and tools you need to [[platsec-landing|secure your instance]].
+Use the Security Center landing page to find the information and tools you need to secure your instance.
 -   **[Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md)**  
-Use [[security-task-manager|Security Tasks]] to monitor, prioritize, and assign all your security-related tasks in one place.
+Use Security Tasks to monitor, prioritize, and assign all your security-related tasks in one place.
 -   **[Security posture console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-posture-console.md)**  
 Improve your ability to identify, respond to, and recover from security threats with comprehensive visibility and step-by-step instructions.
 -   **[Access Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/identity-and-access-management.md)**  
-Use the tools in the [[access-management-landing|Access Management]] section verify that your data is only accessible to the [[users|users]] and processes that need it.
+Use the tools in the Access Management section verify that your data is only accessible to the users and processes that need it.
 -   **[Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)**  
-Use the security configuration page to get an overview of the security posture of your instance. View your hardening compliance score, discover graphical trends, analyze the top non-compliant [[security-hardening-settings|hardening settings]], and see the results of your security scans.
+Use the security configuration page to get an overview of the security posture of your instance. View your hardening compliance score, discover graphical trends, analyze the top non-compliant hardening settings, and see the results of your security scans.
 -   **[Security monitoring console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-monitor-console.md)**  
-Supervise security notifications and [[ca-metrics|metrics]] to stay informed about potential security risks on your instance.
+Supervise security notifications and metrics to stay informed about potential security risks on your instance.
 -   **[Security learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/learning.md)**  
-Access [[learning|security learning]] materials from a single page.
+Access security learning materials from a single page.
 -   **[Security banner announcements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/scc-banner.md)**  
-Enable [[scc-banner|security banner announcements]] to stay informed about urgent and critical security alerts using high visibility banners visible to administrators within the instance UI.
+Enable security banner announcements to stay informed about urgent and critical security alerts using high visibility banners visible to administrators within the instance UI.
 -   **[Granular roles for Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/granular-sc-roles.md)**  
 Use the new Security Center admin role to grant users security center administrative capability without using the admin role.
 
-**Parent Topic:**[[platsec-sublanding|Platform Security]]
+**Parent Topic:**[Platform Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-sublanding.md)
 
-## Related
-
-- [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]]
-- [[platsec-sublanding|Platform Security]]
-- [[instance-security-center|Instance Security Center]]
-- [[sc-configuration|Configuration]]
-- [[sec-center-landing|Security Center landing page]]
-- [[platsec-landing|Secure your instance]]
-- [[security-task-manager|Security Tasks]]
-- [[access-management-landing|Access Management]]
-- [[users|Users]]
-- [[security-hardening-settings|Hardening settings]]
-- [[ca-metrics|Metrics]]
-- [[learning|Security learning]]
-- [[scc-banner|Security banner announcements]]

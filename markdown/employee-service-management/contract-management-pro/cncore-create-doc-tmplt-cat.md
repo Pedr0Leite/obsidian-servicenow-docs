@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_config
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **[[document-types-document-templates|Document Template Categories]]**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **Document Template Categories**.
 
 2.  In the **Name** field, enter the name for the category.
 
@@ -37,7 +37,3 @@ Role required: sn\_cm\_core.contract\_config
 
 The document template category is activated and can be associated with a document template.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[document-types-document-templates|Document template categories]]

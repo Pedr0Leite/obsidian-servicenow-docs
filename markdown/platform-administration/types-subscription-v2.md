@@ -81,7 +81,7 @@ Manually allocated
 
 </td><td>
 
-Provides entitlements to users according to their assigned roles and associated access rights. You allocate per-user subscriptions manually by adding groups with measured roles or access rights to a product subscription. [[subscription-management-landing-page-v2|Subscription Management]] helps you with the allocation process by recommending groups based on their role assignments.
+Provides entitlements to users according to their assigned roles and associated access rights. You allocate per-user subscriptions manually by adding groups with measured roles or access rights to a product subscription. Subscription Management helps you with the allocation process by recommending groups based on their role assignments.
 
 </td></tr><tr><td>
 
@@ -116,9 +116,5 @@ Automatically allocated by your instance
 Provides entitlements for an organization's number of active users regardless of their role assignments. An active user is any user whose record in the Users \[sys\_user\] table has a value in the **User ID** field and has the **Active** field set to true.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[subscription-management-reference-v2|Subscription Management reference]]
+</table>**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
-## Related
-
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

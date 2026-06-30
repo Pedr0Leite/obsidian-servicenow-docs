@@ -31,7 +31,7 @@ The Case Digests application includes two types of case communication:
 
 2.  On the Getting Started page of the guided setup, select **Get Started**
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
 <table id="table_pz1_qqv_llb"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[activate-case-digests|Activate Case Digests]]
+Activate Case Digests
 
 </td><td>
 
@@ -51,13 +51,13 @@ Activate the Case Digests \(com.sn\_csm\_case\_digest\) plugin.
 
 </td></tr><tr><td>
 
-Create Assignment [[gamification-components-rules|Rules]]
+Create Assignment Rules
 
 </td><td>
 
 Assignment rules automatically assign tasks to users and groups when the rule conditions are met. Two rules are provided with the case digests feature that assigns the post case review and case action summary records to the case agent:-   Auto- assign the CAS to case agent
 -   Auto- assign the PCR to case agent
- For more information, see [[case-digests-assignment-rules|Case action summary and post case review assignment rules]].
+ For more information, see [Case action summary and post case review assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-digests-assignment-rules.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Create Approval Workflows
 
 </td><td>
 
-The case digests feature includes one approval workflow that triggers the approval process for [[case-digest-post-case-review|post case reviews]]. This workflow provides a one-step process that obtains a list of approvers from the **Approval group** and **Approval users** fields on the Post Case Review form.
+The case digests feature includes one approval workflow that triggers the approval process for post case reviews. This workflow provides a one-step process that obtains a list of approvers from the **Approval group** and **Approval users** fields on the Post Case Review form.
 
 </td></tr><tr><td>
 
@@ -73,11 +73,11 @@ Create Document Templates
 
 </td><td>
 
-Document templates identify, organize, and format the content from the case digest record that is included in generated documents. Two document templates are provided with the case digests feature, one for post case reviews and one for [[case-digest-case-action-summary|case action summaries]].
+Document templates identify, organize, and format the content from the case digest record that is included in generated documents. Two document templates are provided with the case digests feature, one for post case reviews and one for case action summaries.
 
 </td></tr><tr><td>
 
-[[create-case-review-type|Create a Case Digest Configuration]]
+Create a Case Digest Configuration
 
 </td><td>
 
@@ -100,15 +100,5 @@ Create the mapping that identifies the case type fields that are copied to post 
 **Related topics**  
 
 
-[[customer-service-case-digests|Customer Service case digests]]
+[Customer Service case digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-digests.md)
 
-## Related
-
-- [[case-digests-assignment-rules|Case action summary and post case review assignment rules]]
-- [[customer-service-case-digests|Customer Service case digests]]
-- [[case-management|Case management]]
-- [[activate-case-digests|Activate Case Digests]]
-- [[gamification-components-rules|Rules]]
-- [[case-digest-post-case-review|Post case reviews]]
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[create-case-review-type|Create a case digest configuration]]

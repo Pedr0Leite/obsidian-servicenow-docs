@@ -24,7 +24,7 @@ Role required: admin, nlq\_admin, or pa\_analyst
 
 NLQ synonyms enable you to map common words in your users' requests to the columns in your instance tables. When these words are detected in natural-language queries, NLQ replaces them with actual column and table names, then submits the formal query.
 
-Several synonyms are provided in the base system, and you can add more for your use [[cases|cases]] and business requirements. Review NLQ logs of actual user utterances to find possible synonyms to add. For more information, see [View NLQ logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md).
+Several synonyms are provided in the base system, and you can add more for your use cases and business requirements. Review NLQ logs of actual user utterances to find possible synonyms to add. For more information, see [View NLQ logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md).
 
 You can create a new synonym, or modify an existing synonym, as follows.
 
@@ -148,6 +148,3 @@ With this synonym record, a user can type `show open change requests` or `change
 
 [View NLQ Table Guesser logs]()
 
-## Related
-
-- [[cases|Cases]]

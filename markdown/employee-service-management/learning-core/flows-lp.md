@@ -14,7 +14,7 @@ breadcrumb: [Integrating Learning Core with third-party learning management syst
 
 # Activate Learning Core flows
 
-Activate the flows that run on a schedule basis to pull [[exploring-learning-exp|learning]] course items from the Cornerstone OnDemand, Udemy, Pluralsight, Sumtotal, and Saba applications into the ServiceNow application.
+Activate the flows that run on a schedule basis to pull learning course items from the Cornerstone OnDemand, Udemy, Pluralsight, Sumtotal, and Saba applications into the ServiceNow application.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ By default, runs on a scheduled basis to pull course items from the Saba system 
 </table>
 **Parent Topic:**[Integrating Learning Core with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/setup-learning-third-party-1.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on asset repair tasks, Manage asset repair in st
 
 # Record time worked on a repair task manually in the Hardware Asset Workspace
 
-Create an entry for the time worked on an asset repair task manually in the [[using-ham-workspace|Hardware Asset Workspace]].
+Create an entry for the time worked on an asset repair task manually in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ The Time Worked form is saved and the time card is added to the Time Worked tab 
 
 [Pause a repair task in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

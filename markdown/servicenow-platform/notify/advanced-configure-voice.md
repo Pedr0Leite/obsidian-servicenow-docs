@@ -18,7 +18,7 @@ Configure Answering Machine Detection \(AMD\) to determine if a human has picked
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_admin
+Role required: notify\_admin
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Role required: [[notify-landing-page|notify]]\_admin
 
 3.  Enter your **Auth Token**.
 
-4.  Click **[[c_Connect|Connect]]**.
+4.  Click **Connect**.
 
 5.  On the **Advance Voice Features** tab, check the **Detect answering machine**box.
 
@@ -37,7 +37,3 @@ Role required: [[notify-landing-page|notify]]\_admin
 
 **Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_Connect|Connect]]

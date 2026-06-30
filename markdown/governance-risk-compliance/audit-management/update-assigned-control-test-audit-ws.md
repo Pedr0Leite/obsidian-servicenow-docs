@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace for the Auditor, Audit Workspace Overview, Audit Ma
 
 # Update an assigned control test in Audit Workspace
 
-Use the [[audit-management-overview-ws|Audit Workspace]] to ensure compliance with the established internal control procedures by reviewing records, reports, operating practices, and documentation.
+Use the Audit Workspace to ensure compliance with the established internal control procedures by reviewing records, reports, operating practices, and documentation.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ Role required: sn\_audit\_ws.auditor, sn\_audit.user
 
 7.  Click **Save**.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

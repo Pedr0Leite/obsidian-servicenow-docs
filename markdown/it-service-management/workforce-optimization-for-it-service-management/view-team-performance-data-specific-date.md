@@ -22,7 +22,7 @@ Role required: sn\_wfo\_cfg\_itsm.manager and sn\_team\_perf.team\_performance\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
 2.  Select the teams icon.
 
@@ -53,6 +53,3 @@ Role required: sn\_wfo\_cfg\_itsm.manager and sn\_team\_perf.team\_performance\_
 
 **Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/teams-workforce-optimization-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

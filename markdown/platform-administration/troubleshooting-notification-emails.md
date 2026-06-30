@@ -33,7 +33,7 @@ Need to check whether an individual notification email was successfully sent
 
 </td><td>
 
-Check the **Sent** System Mailbox for that email. Also check the **Failed** System Mailbox for failure [[notifications|notifications]].
+Check the **Sent** System Mailbox for that email. Also check the **Failed** System Mailbox for failure notifications.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Email not received by end user
 
 ## Troubleshooting resources
 
-See the following resources on troubleshooting inbound and [[ia-outbound-email-il|outbound email]] problems.
+See the following resources on troubleshooting inbound and outbound email problems.
 
 <table id="table_rhh_2tr_n4"><thead><tr><th>
 
@@ -77,7 +77,7 @@ Solution
 
 </th></tr></thead><tbody><tr><td>
 
-[[ia-inbound-email-il|Inbound Email]] FAQ
+Inbound Email FAQ
 
 </td><td>
 
@@ -189,7 +189,7 @@ The SMTPSender job is responsible for sending emails from the instance and at ti
 
  Emails that aren't successfully delivered might need retries. Exponential back-off retries is a mechanism to redeliver them in the interval \(1, 5, 10, 20, 40, 60, 120, 120\) between the retries. The exponential retries continue until the lookback period mentioned in the **glide.email.smtp.claim.lookback.hrs** system property is lapsed.
 
- The retries are attempted for 4xx status codes and for all other status codes such as 5xx are considered as permanent failure. The **glide.smtp.fail\_message\_ids** and **glide.smtp.defer\_retry\_ids** [[r_SetArchiveRuleProcessingBehavior|system properties]] aren't considered.
+ The retries are attempted for 4xx status codes and for all other status codes such as 5xx are considered as permanent failure. The **glide.smtp.fail\_message\_ids** and **glide.smtp.defer\_retry\_ids** system properties aren't considered.
 
  Retried emails type is set to **send-retry-backoff**.
 
@@ -204,14 +204,14 @@ Retried emails type is set to **send-retry-backoff**.
 
 **Note:** Address validation errors that occur during the email delivery are handled differently. The type of email record is set to **send-retry-delayed** and the email delivery is retried in fixed intervals of 30 minutes until the lookback period is lapsed.
 
--   **[[r_MailDiagnostics|Email diagnostics]]**  
-The Diagnostics and Connection page provides information on the current state of your email configuration. This page includes status on [[c_EmailProperties|email properties]], [[c_ScheduledJobs|scheduled jobs]], and email account connections that affect how your instance receives and sends email.
--   **[[r_EmailLogs|System email log and mailboxes]]**  
-The system email log records all emails that the instance creates or receives. [[c_SystemMailboxes|System mailboxes]] are filtered views of this log.
--   **[[message-logs-individual-emails|Message logs for individual emails]]**  
+-   **[Email diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_MailDiagnostics.md)**  
+The Diagnostics and Connection page provides information on the current state of your email configuration. This page includes status on email properties, scheduled jobs, and email account connections that affect how your instance receives and sends email.
+-   **[System email log and mailboxes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EmailLogs.md)**  
+The system email log records all emails that the instance creates or receives. System mailboxes are filtered views of this log.
+-   **[Message logs for individual emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/message-logs-individual-emails.md)**  
 The email log entries for an individual notification email are accessible as a related list in the email record. The **Error string** field in the email record can provide additional information.
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -238,16 +238,3 @@ The email log entries for an individual notification email are accessible as a r
 
 [Domain separation and Notifications]()
 
-## Related
-
-- [[r_MailDiagnostics|Email diagnostics]]
-- [[r_EmailLogs|System email log and mailboxes]]
-- [[message-logs-individual-emails|Message logs for individual emails]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailProperties|Email properties]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_SystemMailboxes|System mailboxes]]

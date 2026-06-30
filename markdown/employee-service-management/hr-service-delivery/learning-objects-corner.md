@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Learning objects for HR Service Delivery Integration with Cornerstone OnDemand
 
-View details of [[exploring-learning-exp|learning]] objects that are pulled from the Cornerstone OnDemand system to ServiceNow system. Learning objects help in navigating users to the correct learning to-do details.
+View details of learning objects that are pulled from the Cornerstone OnDemand system to ServiceNow system. Learning objects help in navigating users to the correct learning to-do details.
 
 When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings service pulls learning objects from the Cornerstone OnDemand system into the CSOD Learning Object Staging \[sn\_hr\_cornerstone\_lo\_staging\] table. After the transformation scripts are run, learning objects are displayed in**HR Cornerstone Integrations** &gt; **Learning Objects**.
 
@@ -30,7 +30,7 @@ When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings 
 **Note:**
 
 -   These type of learning objects are not displayed in the Learning Objects page: Session, Cohort, Program, and Library type. These type of learning objects appear in the CSOD Learning Object Staging \[sn\_hr\_cornerstone\_lo\_staging\] table, but do not appear in the Learning Objects page after transformation.
--   Only the child topics of a certification are displayed as tasks in the To-dos page in [[employee-center-landing-page|Employee Center]], and not the certification itself.
+-   Only the child topics of a certification are displayed as tasks in the To-dos page in Employee Center, and not the certification itself.
 
 
 **Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-ondemand.md)
@@ -38,7 +38,7 @@ When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings 
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Cornerstone OnDemand]()
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand]()
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand]()
 
@@ -50,8 +50,3 @@ When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings 
 
 [Transform maps for HR Service Delivery Integration with Cornerstone OnDemand]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

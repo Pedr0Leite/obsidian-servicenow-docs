@@ -18,7 +18,7 @@ Instantly republish a retired article.
 
 ## Before you begin
 
-You must activate the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) plugin.
+You must activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin.
 
 Role required: admin or knowledge admin
 
@@ -41,6 +41,3 @@ The article is instantly published as the previous last published version.
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

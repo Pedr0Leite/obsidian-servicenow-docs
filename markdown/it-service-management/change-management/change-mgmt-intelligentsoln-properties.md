@@ -14,12 +14,12 @@ breadcrumb: [Predictive Intelligence for Change Management, Configure, Change Ma
 
 # Intelligent solutions system properties
 
-Administrators can configure the [[c_ITILChangeManagement|Change Management]] Intelligent solutions system properties to use predictive intelligence \(PI\) capabilities.
+Administrators can configure the Change Management Intelligent solutions system properties to use predictive intelligence \(PI\) capabilities.
 
 By configuring these properties, you enable the Change Management application to:
 
 -   Predict the risk of the proposed change.
--   Use similarity and clustering to identify and suggest potential standard [[change-templates|change templates]].
+-   Use similarity and clustering to identify and suggest potential standard change templates.
 
 Navigate to **Change** &gt; **Intelligent Solution Configuration** to view and edit the properties.
 
@@ -81,7 +81,3 @@ The minimum confidence value for the returned results.
 
 **Parent Topic:**[Predictive Intelligence for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-intelligent-solutions.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-templates|Change templates]]

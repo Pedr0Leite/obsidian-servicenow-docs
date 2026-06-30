@@ -16,7 +16,7 @@ breadcrumb: [Advanced Work Assignment for Supplier Lifecycle Operations, Configu
 
 Use the agent inbox to manage your incoming work items, such as chats, cases, incidents, and more.
 
-To open the agent inbox, select the Inbox icon \(\[Omitted image "agent-inbox-icon.png"\] Alt text: Inbox icon\) in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+To open the agent inbox, select the Inbox icon \(\[Omitted image "agent-inbox-icon.png"\] Alt text: Inbox icon\) in the Source-to-Pay Workspace.
 
 The agent inbox displays the queues that are assigned to you, the number of active chats in each queue, and the average wait time for chats in the queue. For more information, see [Inbox layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-inbox-layout.md).
 
@@ -29,14 +29,9 @@ When you accept a chat, an interaction record is automatically created and captu
 
 [Activate Agent Chat and load demo data]()
 
-[Setting up [[advanced-work-assignment|Advanced Work Assignment]] for [[supplier|Supplier]] Lifecycle Operations]()
+[Setting up Advanced Work Assignment for Supplier Lifecycle Operations]()
 
 [Using Advanced Work Assignment for Supplier Lifecycle Operations]()
 
 [Activate Agent Chat and load demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-demo-agent-chat.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier|Supplier]]

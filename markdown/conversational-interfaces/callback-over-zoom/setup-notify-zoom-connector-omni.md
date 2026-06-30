@@ -24,7 +24,7 @@ Configure the Notify Zoom connector in Zoom to receive event information in your
 
 ### Before you begin
 
--   Ensure that Notify Zoom Connector and [[omnichannel-callback|Omnichannel Callback]] are installed on your instance.
+-   Ensure that Notify Zoom Connector and Omnichannel Callback are installed on your instance.
 -   Ensure that you have the Zoom spoke installed on your instance.
 -   Make sure you have the required credentials for and connections to Zoom on your instance.
 -   The Notify Zoom connector must have been configured with the same Zoom account with which you created the OAuth app for the Zoom spoke.
@@ -97,6 +97,3 @@ Role required: admin
 
 [Configure a Zoom webhook for Zoom extension for Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/callback-over-zoom/configure-zoom-webhook-omni.md)
 
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]

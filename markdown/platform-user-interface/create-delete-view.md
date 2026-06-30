@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to the application or module you want to create or delete the view for.
 
-2.  Select and hold \(or right-click\) the header and select **[[configure-onboarding-modals|Configure]]** &gt; **List Layout**.
+2.  Select and hold \(or right-click\) the header and select **Configure** &gt; **List Layout**.
 
 3.  If you're creating a view for a form, open a record, then select and hold \(or right-click\) the header and select **Configure** &gt; **Form Layout**.
 
@@ -57,9 +57,5 @@ Role required: admin
     Do not delete the base system views.
 
 
-**Parent Topic:**[[view-management-overview|View management]]
+**Parent Topic:**[View management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md)
 
-## Related
-
-- [[view-management-overview|View management]]
-- [[configure-onboarding-modals|Configure]]

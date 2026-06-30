@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[sites-page|Sites page]].
+1.  Navigate to the Sites page.
 
 2.  Edit a site, complete the following.
 
@@ -38,6 +38,4 @@ Role required: admin
 
         **Note:** If devices are associated to a site, it cannot be deleted.
 
-## Related
 
-- [[sites-page|Sites page]]

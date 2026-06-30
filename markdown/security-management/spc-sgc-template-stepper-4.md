@@ -18,7 +18,7 @@ Provide input parameters to make a valid API call, test the connection, and rece
 
 For all templates, you can select the information icon \(\[Omitted image "circle-info-outline-24.svg"\] Alt text: lower case letter i for more information\) to learn more about each parameter. You can use the API samples provided with each template. After you define your input parameters, you must test your connection.
 
-You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [[using-now-assist-api-connector|Creating an API connector with generative ai]] about using the skill in connector framework.
+You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with generative ai](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-now-assist-api-connector.md) about using the skill in connector framework.
 
 Roles required:
 
@@ -29,7 +29,7 @@ Roles required:
 
 1.  Fill in the fields.
 
-    **Note:** If you change any input parameters after testing the connection, you must test the connection again before you can continue on to [[spc-sgc-stepper-5|Map API response to SPC attributes]].
+    **Note:** If you change any input parameters after testing the connection, you must test the connection again before you can continue on to [Map API response to SPC attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-stepper-5.md).
 
 <table id="table_j1c_st4_sfc"><thead><tr><th>
 
@@ -91,7 +91,7 @@ Pagination parameters
 
 </td><td>
 
-Dynamic parameters used to retrieve subsequent pages of API data. Specify the parameter name, its [[location|location]] in the request \(Query, Header, or Body\), the path to extract its next value from the API response, and an optional default value.
+Dynamic parameters used to retrieve subsequent pages of API data. Specify the parameter name, its location in the request \(Query, Header, or Body\), the path to extract its next value from the API response, and an optional default value.
 
 </td><td>
 
@@ -144,8 +144,4 @@ Default value \[1\]
 
     You must save your changes before you can continue.
 
-## Related
 
-- [[using-now-assist-api-connector|Creating an API connector with generative ai]]
-- [[spc-sgc-stepper-5|Map API response to SPC attributes]]
-- [[location|Location]]

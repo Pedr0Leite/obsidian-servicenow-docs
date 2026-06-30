@@ -14,7 +14,7 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # CMDB success advisor reference
 
-[[reference|Reference]] topics provide additional information about [[cmdb-sa|CMDB success advisor]] components, configuration reviews, and data integration checklists.
+Reference topics provide additional information about CMDB success advisor components, configuration reviews, and data integration checklists.
 
 -   **[Components installed with CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-components-installed.md)**  
 Several types of components are installed with activation of the CMDB success advisor plugin, including tables and scheduled jobs.
@@ -23,7 +23,3 @@ Familiarize yourself with the key terms and concepts to work with CMDB success a
 
 **Parent Topic:**[CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[cmdb-sa|CMDB success advisor]]

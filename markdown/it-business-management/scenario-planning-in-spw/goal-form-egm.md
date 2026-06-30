@@ -14,9 +14,9 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Goal form
 
-Use the [[goal-form|Goal form]] to create goals for your organizational strategic priorities.
+Use the Goal form to create goals for your organizational strategic priorities.
 
-**Note:** For Operational Sustainability Workspace and [[alignment-planner-workspace-landing-page|Strategic Planning]] users, to view the other fields \(that are not added to the default or your custom form view\) on the form in the workspace, configure the default/custom form layout. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
+**Note:** For Operational Sustainability Workspace and Strategic Planning users, to view the other fields \(that are not added to the default or your custom form view\) on the form in the workspace, configure the default/custom form layout. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -151,7 +151,7 @@ Assigned entity
 
 </td><td>
 
-Entity to which the goal is assigned. For example,if the portfolio plan is created with [[c_BusinessUnits|Business Units]], HR and IT, populate the Assigned entity type as Business Unit and Assigned entity type as HR or IT.**Note:** Populating the Assigned entity type and Assigned entity fields are required to display the goals in the portfolio plan.
+Entity to which the goal is assigned. For example,if the portfolio plan is created with Business Units, HR and IT, populate the Assigned entity type as Business Unit and Assigned entity type as HR or IT.**Note:** Populating the Assigned entity type and Assigned entity fields are required to display the goals in the portfolio plan.
 
 </td></tr><tr><td>
 
@@ -188,8 +188,3 @@ Users who contribute to the achievement of the goal.
 
 [Iteration goals and work item goals in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/iteration-goals-in-eap.md)
 
-## Related
-
-- [[goal-form|Goal form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_BusinessUnits|Business units]]

@@ -14,9 +14,9 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Search profiles in AI Search
 
-Search profiles contain settings for a search experience, including [[synonyms-ais|synonyms]], [[stop-words-ais|stop words]], [[typo-handling-ais|typo handling]], [[genius-results-ais|Genius Results]], and [[result-improvement-rules-ais|result improvement rules]]. Define a search profile for each unique search experience that you want to offer in a ServiceNow AI Platform® application. Publish search profiles to make them available in your search applications.
+Search profiles contain settings for a search experience, including synonyms, stop words, typo handling, Genius Results, and result improvement rules. Define a search profile for each unique search experience that you want to offer in a ServiceNow AI Platform® application. Publish search profiles to make them available in your search applications.
 
-A search profile contains settings that determine how [[ia-ai-search|AI Search]] generates search [[hs-results|results]] for a given search experience. Publishing a search profile makes it available so you can link it to one or more [[defining-search-app-cfgs-ais|search application configurations]].
+A search profile contains settings that determine how AI Search generates search results for a given search experience. Publishing a search profile makes it available so you can link it to one or more search application configurations.
 
 A search application configuration specifies a search profile to use, and also determines how generated search results are displayed in the application. To learn about search application configuration display settings, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
 
@@ -81,7 +81,7 @@ Define rules with configurable triggers to modify search results for specific se
 </td></tr></tbody>
 </table>## Publishing search profile settings
 
-To make a search profile's settings active in search queries, you must publish it. Publishing propagates the following settings to search application configurations that [[reference-email-admin|reference]] the search profile.
+To make a search profile's settings active in search queries, you must publish it. Publishing propagates the following settings to search application configurations that reference the search profile.
 
 -   The set of synonym and stop word dictionaries linked to the search profile
 -   Settings, blocked terms, and derived auto-correction terms for typo handling dictionaries linked to the search profile
@@ -98,7 +98,7 @@ In the **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profi
 -   **[Create a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-profile-ais.md)**  
 Create a new search profile to store search experience settings for a search application.
 -   **[Clone a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/clone-search-profile-ais.md)**  
-Create a copy of an existing search profile. The cloned search profile retains search sources, stop word and synonym dictionaries, Genius Result [[clone-configurations-tab|configurations]], and result improvement rules from the original search profile.
+Create a copy of an existing search profile. The cloned search profile retains search sources, stop word and synonym dictionaries, Genius Result configurations, and result improvement rules from the original search profile.
 -   **[Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md)**  
 Publish a search profile to make pending changes to its settings take effect in linked search applications.
 -   **[Link a search source to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-search-source-profile-ais.md)**  
@@ -116,15 +116,3 @@ Define rules with configurable trigger conditions to boost, block, or promote se
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[synonyms-ais|Synonyms]]
-- [[stop-words-ais|Stop words]]
-- [[typo-handling-ais|Typo handling]]
-- [[genius-results-ais|Genius Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[reference-email-admin|Reference]]
-- [[clone-configurations-tab|Configurations]]

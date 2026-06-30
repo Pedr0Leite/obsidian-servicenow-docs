@@ -12,8 +12,5 @@ breadcrumb: [Customer Service Problem Management, Telecommunications, Media, and
 
 # Customer Service Problem Management reference
 
-Reference topics provide additional information about [[cspm-landing-page|Customer Service Problem Management]].
+Reference topics provide additional information about Customer Service Problem Management.
 
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]

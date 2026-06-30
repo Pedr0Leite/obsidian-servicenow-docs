@@ -163,8 +163,5 @@ Provides a checklist of tasks that must be completed before the case is closed.C
     \[Omitted image "WarrantyCheck.png"\] Alt text: Task form for a facilities request.
 
 
-**Parent Topic:**[[r_FacilitiesRequestCreation|Facilities request creation]]
+**Parent Topic:**[Facilities request creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_FacilitiesRequestCreation.md)
 
-## Related
-
-- [[r_FacilitiesRequestCreation|Facilities request creation]]

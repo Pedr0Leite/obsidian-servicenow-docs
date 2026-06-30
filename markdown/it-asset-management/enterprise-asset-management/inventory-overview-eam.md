@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Inventory overview for Enterprise Asset Workspace
 
-Use the [[inventory-view-am|Inventory view]] in the [[using-eam-workspace|Enterprise Asset Workspace]] to optimize inventory thresholds and automate re-order process. You can create workflows and view detailed information on your inventory.
+Use the Inventory view in the Enterprise Asset Workspace to optimize inventory thresholds and automate re-order process. You can create workflows and view detailed information on your inventory.
 
 Take care of any urgent inventory related action items such as entering a missing stockroom type or stockroom name.
 
@@ -27,13 +27,13 @@ To access detailed information and take relevant action, select any widget. You 
 Use the following tabs to view your inventory:
 
 -   **Overview**: Get a glimpse of all your inventory data such as open transfer order lines, open asset audits, and loaner asset orders by status.
--   **All [[c_Stockrooms|stockrooms]]**: Create new stockroom and view stockrooms where your inventory is stored.
--   **[[r_StockroomTypes|Stockroom types]]**: Create new storeroom types and view the various types of storerooms available for your inventory.
--   **[[c_StockRules|Stock rules]]**: Create new stock rules and view a list of existing stock rules.
+-   **All stockrooms**: Create new stockroom and view stockrooms where your inventory is stored.
+-   **Stockroom types**: Create new storeroom types and view the various types of storerooms available for your inventory.
+-   **Stock rules**: Create new stock rules and view a list of existing stock rules.
 -   **Asset audits**: Create new asset audit records and view existing ones.
 -   **Disposal orders**: Create disposal order workflows for assets that have reached their end of life cycle or are no longer functional.
 -   **Loaner asset orders**: View all loaner asset orders and take appropriate actions.
--   **RMA orders**: View all [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) orders for your defective assets and take appropriate actions.
+-   **RMA orders**: View all Return Merchandise Authorization \(RMA\) orders for your defective assets and take appropriate actions.
 -   **RMA order lines**: View all Return Merchandise Authorization \(RMA\) order lines within your RMA orders and take appropriate actions.
 -   **Transfer orders**: Create transfer order workflows for moving assets between your stockrooms.
 -   **Recall orders**: Create recall order workflows for assets that have been recalled by the asset vendor.
@@ -42,11 +42,3 @@ Use the following tabs to view your inventory:
 -   **Move orders**: Create and view move orders for assets that need to be moved from one location to another.
 -   **Repair orders**: View the list of repair orders submitted for repair of assets with your stockroom. You can also create repair orders.
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]
-- [[r_StockroomTypes|Stockroom types]]
-- [[c_StockRules|Stock rules]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

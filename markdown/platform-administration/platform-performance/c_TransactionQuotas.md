@@ -24,8 +24,8 @@ The Transaction Quotas plugin is active by default on all new and upgraded insta
 
 Transactions use the Quota Manager, which is a background thread that cancels transactions according to transaction quota rules. The Quota Manager performs the following actions.
 
-1.  Obtains a list of active transactions, similar to the list under **[[c_UserAdministration|User Administration]]** &gt; **Active Transactions**.
-2.  Cycles through each transaction and checks all quota rules with conditions matching the transaction. The first occurrence that exceeds any of the quota limitations triggers a [[transaction-cancellation|transaction cancellation]]. If a transaction changes or there is a new quota rule, the Quota Manager re-evaluates the transaction.
+1.  Obtains a list of active transactions, similar to the list under **User Administration** &gt; **Active Transactions**.
+2.  Cycles through each transaction and checks all quota rules with conditions matching the transaction. The first occurrence that exceeds any of the quota limitations triggers a transaction cancellation. If a transaction changes or there is a new quota rule, the Quota Manager re-evaluates the transaction.
 
     **Note:** The **Order** field on a quota rule affects the order in which the quota rules are checked. The Quota Manager checks lower-order rules first \(for example, order 80 before order 90\), but ultimately checks all rules. This might have marginal performance implications, depending on the conditions of the rules involved.
 
@@ -55,7 +55,3 @@ Cancelling transaction /home.do - Default-thread-11.0 (maximum execution time ex
 
 .
 
-## Related
-
-- [[c_UserAdministration|User administration]]
-- [[transaction-cancellation|Transaction cancellation]]

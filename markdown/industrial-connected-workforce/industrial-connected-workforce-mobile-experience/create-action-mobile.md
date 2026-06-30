@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create an action in the Industrial Connected Workforce Mobile application
 
-[[create-industrial-action|Create an action]] in [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] to manage all ad-hoc tasks that don't fit into any of the standard processes.
+Create an action in Industrial Connected Workforce Mobile Experience to manage all ad-hoc tasks that don't fit into any of the standard processes.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Creating an action can help automate one or more steps of an industrial process.
 
     \[Omitted image "actions-icw-mobile.png"\] Alt text: New action menu option
 
-3.  On the [[action-form|Action form]], fill in the fields.
+3.  On the Action form, fill in the fields.
 
     For a description of the field values, see [Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/action-form-mobile.md).
 
@@ -55,14 +55,7 @@ The action is displayed in the list of industrial tasks and can be edited or com
 
 ## What to do next
 
-From the three-dot menu you can [[create-industrial-deviation|create a deviation]], [[create-follow-up-action|create a follow-up action]], or cancel the action. A follow-up action can also be created from the **Related** tab.
+From the three-dot menu you can create a deviation, create a follow-up action, or cancel the action. A follow-up action can also be created from the **Related** tab.
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[create-industrial-action|Create an action]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[action-form|Action form]]
-- [[create-industrial-deviation|Create a deviation]]
-- [[create-follow-up-action|Create a follow-up action]]

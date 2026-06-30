@@ -22,11 +22,11 @@ Additional assistance with Domain Separation
 
 </td><td>
 
-[[bp-domain-sep-recommended|Recommended practices]]
+[Recommended practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
  Tips and tricks for creating and developing your domain structure wisely
 
- [[sp-concepts|Concepts for service providers]]
+ [Concepts for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 
  Concepts that work with the ServiceNow platform to help you solve for common use cases
 
@@ -36,7 +36,7 @@ Additional assistance with Domain Separation
 
 </td><td>
 
-[[domain-separated-apps|Support levels by application]]
+[Support levels by application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md)
 
  Is your application supported for domain separation? See support levels and use cases.
 
@@ -69,12 +69,12 @@ Classes
 
 </td><td>
 
-[[c_DomainSeparationSetup|Setup and administration]]
+[Setup and administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationSetup.md)
 
  -   [Upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md)
--   [[t_ActivateDomainSeparation|Request domain separation]]
--   [[t_CreateADomain|Create a domain]]
--   [[ds-before-you-begin|Configuration that can be delegated to internal or external customers]]
+-   [Request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md)
+-   [Create a domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_CreateADomain.md)
+-   [Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ds-before-you-begin.md)
 
 </td><td>
 
@@ -90,13 +90,3 @@ Troubleshoot
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sp-concepts|Concepts for service providers]]
-- [[domain-separated-apps|Application support for domain separation]]
-- [[c_DomainSeparationSetup|Domain separation setup and administration]]
-- [[t_ActivateDomainSeparation|Request domain separation]]
-- [[t_CreateADomain|Create a domain]]
-- [[ds-before-you-begin|Configuration that can be delegated to internal or external customers]]

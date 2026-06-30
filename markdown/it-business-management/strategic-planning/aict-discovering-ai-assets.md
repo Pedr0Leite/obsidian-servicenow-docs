@@ -35,7 +35,7 @@ The Goal insights generation scheduled job is inactive by default. After activat
 
     A list of all scheduled jobs appears.
 
-2.  Search for and select the **[[configure-goal-insights-generation-job|Goal insights generation job]]** scheduled job.
+2.  Search for and select the **Goal insights generation job** scheduled job.
 
 3.  Select the **Active** check box to run the job at a scheduled time.
 
@@ -58,6 +58,3 @@ The Goal insights generation job is active and configured. The job automatically
 
 To generate insights for goals outside the filter criteria, users can manually select **Goal insights** on the Goals page for the required goal. For details, see [Generate insights for a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/generate-insights-for-goal-strategy.md).
 
-## Related
-
-- [[configure-goal-insights-generation-job|Goal insights generation job]]

@@ -12,7 +12,7 @@ breadcrumb: [Basic system configuration, Get started, Administer the ServiceNow 
 
 # Available system properties
 
-Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system properties]] form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table. Sometimes, the property does not exist in a base instance, but can be added if you change the value.
+Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table. Sometimes, the property does not exist in a base instance, but can be added if you change the value.
 
 **Note:** The Instance Security Hardening Settings content contains detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform. To learn more about each of these properties, see [Instance Security Hardening Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/update-security-hardening-params.md).
 
@@ -36,7 +36,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
 
     -   Type: true \| false
     -   Default value: false
-    -   Location: [[t_AddAPropertyUsingSysPropsList|Add the property]] to the System Property \[sys\_properties\] table.
+    -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **com.glide.attachment.max\_size**
 
     Sets the maximum file attachment size in megabytes. An empty value in this field allows attachments up to a maximum of 1 KB.
@@ -84,7 +84,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **com.glide.cs.gen\_ai.enable\_mid\_topic\_ai\_search**
 
-    Enables or disables [[ia-ai-search|AI Search]] result in Mid Topic Discovery using this flag.
+    Enables or disables AI Search result in Mid Topic Discovery using this flag.
 
     -   Type: true \| false
     -   Default value: true
@@ -98,7 +98,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **com.glide.cs.notification.create\_llm\_actions\_after\_topic\_migration**
 
-    Enables \(`true`\) or disables \(`false`\) whether actions for Virtual Agent [[notifications|notifications]] and Proactive Triggers are created after LLM topics are published during the NLU to LLM topic migration workflow.
+    Enables \(`true`\) or disables \(`false`\) whether actions for Virtual Agent notifications and Proactive Triggers are created after LLM topics are published during the NLU to LLM topic migration workflow.
 
     -   Type: true \| false
     -   Default: true
@@ -238,7 +238,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **com.snc.apps.publish.include\_inactive\_choices**
 
-    Specifies whether [[r_ChoicesTable|choice table]] selections marked as inactive \(`sys_choice inactive attribute = true`\) should be included when publishing an application \(**true**\) or not \(**false**\).
+    Specifies whether choice table selections marked as inactive \(`sys_choice inactive attribute = true`\) should be included when publishing an application \(**true**\) or not \(**false**\).
 
     -   Type: true \| false
     -   Default value: true
@@ -437,7 +437,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **com.snc.pa.xmr.processes.limit**
 
-    The maximum number of KPI Signals [[clone-configurations-tab|Configurations]] \(pa\_xmr\_processes\) that can be evaluated by the KPI Signals Insight Job. After this number of processes have been evaluated, the remaining processes are ignored.
+    The maximum number of KPI Signals Configurations \(pa\_xmr\_processes\) that can be evaluated by the KPI Signals Insight Job. After this number of processes have been evaluated, the remaining processes are ignored.
 
     -   Type: Integer
     -   Default: 1000
@@ -491,7 +491,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **com.snc.time\_worked.update\_task\_timer**
 
-    Enables \(**true**\) or disables \(**false**\) updating the task timer value based on changes to the task [[c_TimeWorked|time worked]] records. Uses the Update task time business rule.
+    Enables \(**true**\) or disables \(**false**\) updating the task timer value based on changes to the task time worked records. Uses the Update task time business rule.
 
     -   Type: true \| false
     -   Default value: false
@@ -879,7 +879,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **glide.cmdb.query.batch\_time\_limit\_in\_sec**
 
-    Time limit \(in seconds\) for running one batch to get one batch of query [[hs-results|results]] \(100 results\).
+    Time limit \(in seconds\) for running one batch to get one batch of query results \(100 results\).
 
     -   Type: integer
     -   Default value: 300
@@ -1014,7 +1014,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **glide.cmdb.logger.source.identification\_engine**
 
-    Enable and configure what type of details the system logs when using IRE outside the scope of identification simulation. For example, when using an API, ECC queue or [[c_ScheduledJobs|scheduled jobs]].
+    Enable and configure what type of details the system logs when using IRE outside the scope of identification simulation. For example, when using an API, ECC queue or scheduled jobs.
 
     -   Type: string
     -   Default value: info, warn, error, debug, or debugVerbose
@@ -1322,7 +1322,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Type: true\|false
     -   Default value: true
     -   Location: System Properties
--   **glide.element.[[reference-email-admin|reference]].use\_actual\_display\_value**
+-   **glide.element.reference.use\_actual\_display\_value**
 
     It controls the display value of GlideElementGlideObject fields like glide\_date\_time on Forms and Lists, and you would need to opt-in \(set property value to true\) to see the correct display value in these views.
 
@@ -1350,7 +1350,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: **System Properties** &gt; **Email**
 -   **__glide.email\_client.quick\_message.insert__**
 
-    Controls how quick messages are inserted in the [[c_EnableTheEmailClient|email client]]. If the property is set to **true**, quick message content is inserted at the place of the cursor. If **false**, quick message content replaces existing content in an email draft.
+    Controls how quick messages are inserted in the email client. If the property is set to **true**, quick message content is inserted at the place of the cursor. If **false**, quick message content replaces existing content in an email draft.
 
     -   Type: true \| false
     -   Default value: true
@@ -1433,7 +1433,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **__glide.email\_system\_address\_filter.max\_address\_filters__**
 
-    Sets the maximum number of [[c_EmailFilters|email filters]] that can be associated with a single system address filter.
+    Sets the maximum number of email filters that can be associated with a single system address filter.
 
     -   Type: integer
     -   Default value: 100
@@ -1504,7 +1504,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.export.csv.raw.value**
 
-    When **true**, raw database values are exported instead of the [[c_DisplayValues|display values]] when you export to CSV. When **false**, display values are exported.
+    When **true**, raw database values are exported instead of the display values when you export to CSV. When **false**, display values are exported.
 
     -   Type: true \| false
     -   Default value: false
@@ -1722,7 +1722,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.http.proxy\_bypass\_list**
 
-    Specifies the semicolon-separated list of addresses that [[r_BypassTheProxyServer|bypass the proxy server]]. Use an asterisk \(\*\) as a wildcard character to specify all or part of an address.
+    Specifies the semicolon-separated list of addresses that bypass the proxy server. Use an asterisk \(\*\) as a wildcard character to specify all or part of an address.
 
     -   Type: string
     -   Default value: none
@@ -1736,7 +1736,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **glide.http.proxy\_ntdomain**
 
-    Specifies the domain used to authenticate the proxy server with [[r_NTLMAuthentication|NTLM authentication]].
+    Specifies the domain used to authenticate the proxy server with NTLM authentication.
 
     -   Type: string
     -   Default value: none
@@ -1868,7 +1868,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: **Configuration** &gt; **CMDB Properties** &gt; **Identification/Reconciliation Properties**.
 -   **glide.image\_provider.security\_enabled**
 
-    Controls the [[ia-security-settings-il|security settings]] for images. If **true**, images are visible only to authenticated and authorized users. If **false**, images are visible to anyone with a URL to the attachment.
+    Controls the security settings for images. If **true**, images are visible only to authenticated and authorized users. If **false**, images are visible to anyone with a URL to the attachment.
 
     -   Type: true \| false
     -   Default value: true
@@ -2056,7 +2056,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **glide.knowman.search.default\_language**
 
-    \([[ia-knowledge-mgmt|Knowledge Management]] Internationalization Plugin v2\) Default language for knowledge articles. If empty, defaults to the language of the logged-in user.
+    \(Knowledge Management Internationalization Plugin v2\) Default language for knowledge articles. If empty, defaults to the language of the logged-in user.
 
     -   Type: string
     -   Default value: empty
@@ -2224,7 +2224,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Default value: true
 -   **glide.notification.recipient.exclude\_logging.user\_calendar\_integration\_disabled**
 
-    Logs recipients of calendar invitations who are excluded because the **[[r_CalendarIntegration|Calendar Integration]]** field is set to **None** on [[user|the user record]].
+    Logs recipients of calendar invitations who are excluded because the **Calendar Integration** field is set to **None** on the user record.
 
     -   Type: true \| false
     -   Default value: true
@@ -2308,7 +2308,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Default value: true
 -   **glide.notification.recipient.include\_logging.subscription**
 
-    Logs recipients because they are subscribed via User [[preferences-landing|Notification Preferences]].
+    Logs recipients because they are subscribed via User Notification Preferences.
 
     To modify this property, you must enable the glide.notification.recipient.include\_logging property in the **System Properties** &gt; **Email** module.
 
@@ -2429,7 +2429,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: **System Properties** &gt; **Email**
 -   **glide.pop3.parse\_end**
 
-    \[Legacy\] Text indicating the end of the email body section where the instance should parse name:value pairs to change field values when processing [[actions-inbound-email|inbound email actions]]. This property is no longer required to set field values from the email body.
+    \[Legacy\] Text indicating the end of the email body section where the instance should parse name:value pairs to change field values when processing inbound email actions. This property is no longer required to set field values from the email body.
 
     -   Type: string
     -   Default value: none
@@ -2642,7 +2642,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.rest.sampling.enabled**
 
-    Enables request sampling from scripted REST API resources. Request samples can be used to automatically generate [[clone-exclusions-preservers-cleanupscripts|definitions]] for request headers, query [[r_DirectJDBCProbeParameters|parameters]], and schemas. General guidance to help limit performance problems is to only enable this property in non-production instances.
+    Enables request sampling from scripted REST API resources. Request samples can be used to automatically generate definitions for request headers, query parameters, and schemas. General guidance to help limit performance problems is to only enable this property in non-production instances.
 
     -   Type: true \| false
     -   Default value: false
@@ -2675,7 +2675,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Type: true \| false
     -   Default value: false
     -   Location: System Property \[sys\_properties\] table
--   **glide.[[c_UseSchedules|schedules]].repeat\_nth**
+-   **glide.schedules.repeat\_nth**
 
     Controls how a schedule entry with **Repeats** set to **Monthly** and **Monthly Type** set to **Day of the Week** is defined. Choices are **Week** or **Day**. The **Week** option is defined as choosing a day of the month in the nth week selects the nth day of the month. The **Day** option is defined as choosing the nth day of the month selects the nth day of the month.
 
@@ -2769,7 +2769,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.search.suggestions.enabled**
 
-    Set it to **true** \(default\) to enable [[search-suggestions-overview|search suggestions]], or set it to **false** to disable search suggestions everywhere. For more information about search suggestions, see [Enable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-search-suggestions.md).
+    Set it to **true** \(default\) to enable search suggestions, or set it to **false** to disable search suggestions everywhere. For more information about search suggestions, see [Enable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-search-suggestions.md).
 
 -   **glide.secondary.query.sysid**
 
@@ -2949,7 +2949,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.soap.import\_set\_insert\_serialized**
 
-    Controls the processing of web service inserts. If **true**, the instance processes multiple simultaneous inserts one at a time \(serially across nodes\) to ensure an accurate transform. Serialized processing slows the speed at which the instance processes inserts. If **false**, multiple simultaneous inserts into an import set table result in simultaneous [[c_FieldTransformations|transforms]] that may produce duplicate target records due to the coalesce value being created at the same time.
+    Controls the processing of web service inserts. If **true**, the instance processes multiple simultaneous inserts one at a time \(serially across nodes\) to ensure an accurate transform. Serialized processing slows the speed at which the instance processes inserts. If **false**, multiple simultaneous inserts into an import set table result in simultaneous transforms that may produce duplicate target records due to the coalesce value being created at the same time.
 
     **Note:** Set this value to **false** only to optimize performance when the related transform map does not have a coalesce value that may be present simultaneously.
 
@@ -3132,7 +3132,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: [Add the property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to the System Property \[sys\_properties\] table.
 -   **glide.ui.activity.displayname**
 
-    Specifies whether the [[c_ActivityFormatter|activity formatter]] shows **name** values \(true\) or **user\_name** values \(false\).
+    Specifies whether the activity formatter shows **name** values \(true\) or **user\_name** values \(false\).
 
     -   Type: true \| false
     -   Default value: false
@@ -3331,7 +3331,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
 -   **glide.ui.clickthrough.popup**
 
     -   For reference fields, enables \(**true**\) or disables \(**false**\) display of the pop-up diamond icon for reference fields, and opening a new window when clicking the icon.
-    -   For document ID fields, enables \(**true**\) or disables \(**false**\) displaying the information icon and opening a pop-up window with the document's form. To learn more [[t_CreatingADocumentIDField|Document ID field]].
+    -   For document ID fields, enables \(**true**\) or disables \(**false**\) displaying the information icon and opening a pop-up window with the document's form. To learn more [Document ID field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingADocumentIDField.md).
     **Note:** Related lists do not appear on forms opened in the pop-up window.
 
     -   Type: true \| false
@@ -3579,7 +3579,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Properties \[sys\_properties\] table
 -   **glide.ui.journal.use\_html**
 
-    Specifies whether TinyMCE is available for [[r_JournalFields|journal fields]] \(**true**\) or not \(**false**\).
+    Specifies whether TinyMCE is available for journal fields \(**true**\) or not \(**false**\).
 
     -   Type: true \| false
     -   Default value: false
@@ -3765,7 +3765,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: **System Properties** &gt; **UI Properties**
 -   **glide.ui.show\_template\_bar**
 
-    Controls whether the [[template-bar|template bar]] can be displayed on the specified table. For example: `glide.ui.show_template_bar.incident = false`.
+    Controls whether the template bar can be displayed on the specified table. For example: `glide.ui.show_template_bar.incident = false`.
 
     -   Type: true \| false
     -   Default value: true
@@ -3940,7 +3940,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **glide.user.trusted\_domain**
 
-    Comma-separated list of trusted domains for which the instance automatically creates a guest user based on incoming emails. Use an asterisk \(\*\) to trust all domains. If an email is not from a trusted domain, the instance processes the [[ia-inbound-email-il|inbound email]] as a "guest user" but does not create a guest user in the instance.
+    Comma-separated list of trusted domains for which the instance automatically creates a guest user based on incoming emails. Use an asterisk \(\*\) to trust all domains. If an email is not from a trusted domain, the instance processes the inbound email as a "guest user" but does not create a guest user in the instance.
 
     -   Type: string
     -   Default value: \*
@@ -4505,7 +4505,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
 
     Hides \(**true**\) or displays \(**false**\) the number of matching records for search groups and tables on the [Global search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/global-search-polaris-ui.md) page.
 
-    To modify this property, select **Enhanced Global Search UI** from the [[t_SelectAnAppFromTheAppPicker|application picker]] before opening the System Properties table.
+    To modify this property, select **Enhanced Global Search UI** from the [application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md) before opening the System Properties table.
 
     -   Type: true \| false
     -   Default value: false
@@ -4605,7 +4605,7 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Location: System Property \[sys\_properties\] table
 -   **subscription.custom\_table.enforce\_entitlement**
 
-    You can enable guardrails around [[custom-tables|custom tables]] when using certain applications, such as Mobile Studio, in a production or non-production environment.
+    You can enable guardrails around custom tables when using certain applications, such as Mobile Studio, in a production or non-production environment.
 
     When set to **true**, the property limits the list of custom tables available in applications such as Mobile Studio to those you are entitled to use, based on the active subscriptions present on your instance. If you want to remove these guardrails, setting the property to **false** enables you to access to all custom tables, regardless of your active subscription entitlements.
 
@@ -4637,41 +4637,5 @@ Some properties are available on a [[r_SetArchiveRuleProcessingBehavior|system p
     -   Default value: ServiceNow
     -   Location: **System Properties** &gt; **Tablet UI Properties**
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[t_CreatingADocumentIDField|Document ID field]]
-- [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]]
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[ia-ai-search|AI Search]]
-- [[notifications|Notifications]]
-- [[r_ChoicesTable|Choice table]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_TimeWorked|Time worked]]
-- [[hs-results|Results]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[reference-email-admin|Reference]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[c_EmailFilters|Email filters]]
-- [[c_DisplayValues|Display values]]
-- [[r_BypassTheProxyServer|Bypass the proxy server]]
-- [[r_NTLMAuthentication|NTLM authentication]]
-- [[ia-security-settings-il|Security Settings]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[r_CalendarIntegration|Calendar integration]]
-- [[user|The User record]]
-- [[preferences-landing|Notification Preferences]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[c_UseSchedules|Schedules]]
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_FieldTransformations|Transforms]]
-- [[c_ActivityFormatter|Activity formatter]]
-- [[r_JournalFields|Journal fields]]
-- [[template-bar|Template bar]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[custom-tables|Custom tables]]

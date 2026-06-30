@@ -14,7 +14,7 @@ breadcrumb: [HR service catalog management, HR services, HR Administration, Conf
 
 # HR service catalog categorization
 
-HR catalog items in the HR service catalog are organized into categories. The categories define the organizational structure for the catalog so that employees can more easily browse and request the [[hr-service-administration|HR services]] they need.
+HR catalog items in the HR service catalog are organized into categories. The categories define the organizational structure for the catalog so that employees can more easily browse and request the HR services they need.
 
 You can manage the creation or modification of categories in the HR service catalog, as well as assign or remove HR catalog items from a category or assign or remove categories from an HR catalog item.
 
@@ -22,8 +22,8 @@ You can manage the creation or modification of categories in the HR service cata
 
 -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
 -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md) instead. Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not [[create-hr-catalog-item|create an HR catalog item]]. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
--   The [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] is highly configurable for HR agents. It supports the same functionality in the Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
 **Parent Topic:**[HR service catalog management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-catalog-management.md)
 
@@ -37,7 +37,7 @@ Role required: sn\_hr\_core.admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **Manage HR Catalog**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **Manage HR Catalog**.
 
 2.  Click **New Category**.
 
@@ -116,10 +116,4 @@ Role required: sn\_hr\_core.admin
 
 5.  Click **Save**.
 
-## Related
 
-- [[hr-service-administration|HR services]]
-- [[create-hr-catalog-item|Create an HR catalog item]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

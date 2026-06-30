@@ -50,10 +50,7 @@ Text searches on this table use the selected synonym dictionaries.
 
 [Create synonym dictionaries]()
 
-[Disable [[synonyms-ais|synonyms]] for a table]()
+[Disable synonyms for a table]()
 
 [Debug synonym searches]()
 
-## Related
-
-- [[synonyms-ais|Synonyms]]

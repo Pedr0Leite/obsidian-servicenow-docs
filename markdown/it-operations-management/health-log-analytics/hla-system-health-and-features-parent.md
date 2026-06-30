@@ -15,11 +15,11 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 
 # Viewing system features and system health alerts in Health Log Analytics
 
-View all [[hla-landing-page|Health Log Analytics]] system features that your admin can activate or deactivate for you. In addition, you can view a model of the Health Log Analytics core components and the system health alerts that affect them.
+View all Health Log Analytics system features that your admin can activate or deactivate for you. In addition, you can view a model of the Health Log Analytics core components and the system health alerts that affect them.
 
 ## Overview of Health Log Analytics system features and system health alerts
 
-Health Log Analytics enables you to view all of its system features and their description. The admin can enable or disable a feature for you. You can also view a model of the core components of Health Log Analytics and the system health alerts that could impact them. Health Log Analytics and the [[c_EM|Event Management]] application together form a single service. Examining the configuration items \(CIs\) that comprise Health Log Analytics and their relationships helps you understand the impact of HLA system health issues on the service.
+Health Log Analytics enables you to view all of its system features and their description. The admin can enable or disable a feature for you. You can also view a model of the core components of Health Log Analytics and the system health alerts that could impact them. Health Log Analytics and the Event Management application together form a single service. Examining the configuration items \(CIs\) that comprise Health Log Analytics and their relationships helps you understand the impact of HLA system health issues on the service.
 
 -   [View the settings of Health Log Analytics system features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-features-view-settings.md)
 
@@ -29,7 +29,4 @@ Health Log Analytics enables you to view all of its system features and their de
 
     The ServiceNow Event Management service instance map includes a model of the Health Log Analytics core components and the system health alerts that affect them.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

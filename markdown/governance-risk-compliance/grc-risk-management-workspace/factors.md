@@ -16,7 +16,7 @@ breadcrumb: [Advanced Risk Assessment, Explore, Risk Management, Governance, Ris
 
 Factors are questions that you can use to analyze risks. Factors appear on a risk assessment instance.
 
-Factors are questions that appear during the risk assessment. To [[use-advanced-risk-assessment|use Advanced Risk Assessment]], you must first define these factors and configure a [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]]. For more information on RAMs, see [Configure a risk assessment methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-ram.md). Each factor or question has a response. There are different types of factors:
+Factors are questions that appear during the risk assessment. To use Advanced Risk Assessment, you must first define these factors and configure a risk assessment methodology \(RAM\). For more information on RAMs, see [Configure a risk assessment methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-ram.md). Each factor or question has a response. There are different types of factors:
 
 -   Manual factor: A factor that requires human input. The response is a manual response. An example is your name.
 -   Automated factor: A factor whose response is automatically calculated. An example is the temperature in your city today. The information is fetched from external sources.
@@ -98,7 +98,3 @@ Now, assume that two controls failed and one control passed. Thus, the control d
 
 **Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
-## Related
-
-- [[use-advanced-risk-assessment|use advanced risk assessment]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

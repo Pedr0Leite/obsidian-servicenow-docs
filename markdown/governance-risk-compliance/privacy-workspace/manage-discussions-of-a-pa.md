@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Manage chat collaborations of a processing activity
 
-Initiate quick discussions with key stakeholders while working on a processing activity, privacy case, or a [[personal-data-rights|personal data rights]] request. The chat feature is integrated with Microsoft Teams and a group is automatically created on Microsoft Teams when a discussion is initiated.
+Initiate quick discussions with key stakeholders while working on a processing activity, privacy case, or a personal data rights request. The chat feature is integrated with Microsoft Teams and a group is automatically created on Microsoft Teams when a discussion is initiated.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_privacy.analyst
 
 ## About this task
 
-Because privacy cases are time-sensitive, they sometimes need quick collaborations. The Discuss button facilitates these collaborations and the chats are stored making it simpler for the privacy teams to refer to them when working on a task. Apart from [[ropa-record|processing activities]], the Discuss feature is available for privacy cases, and personal data rights requests. For more information, refer to [Sidebar and Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar-teams-overview.md).
+Because privacy cases are time-sensitive, they sometimes need quick collaborations. The Discuss button facilitates these collaborations and the chats are stored making it simpler for the privacy teams to refer to them when working on a task. Apart from processing activities, the Discuss feature is available for privacy cases, and personal data rights requests. For more information, refer to [Sidebar and Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar-teams-overview.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **List** &gt; **My items** &gt; **Processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **List** &gt; **My items** &gt; **Processing activities**.
 
 2.  Open the processing activity that you want to discuss.
 
@@ -45,8 +45,3 @@ The chat gets stored and can be viewed under Activity on the side panel.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]

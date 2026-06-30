@@ -14,7 +14,7 @@ breadcrumb: [Integration architecture and external systems connection, Splunk En
 
 # Using ServiceNow Event Ingestion Integration add-on
 
-Map alerts from Splunk console to create a [[sir-landing-page|Security Incident Response]] \(SIR\) on the ServiceNow instance.
+Map alerts from Splunk console to create a Security Incident Response \(SIR\) on the ServiceNow instance.
 
 ## Before you begin
 
@@ -47,11 +47,7 @@ Role required: sn\_sec\_splunk\_v2.api\_account\_access
 
 ## Result
 
-A Security Incident Response \(SIR\) record is created on the ServiceNow instance as per the [[mapping-logrhythm|mapping]] specified in the Manual event forwarding profile. For instructions on how to set up a Manual event forwarding profile, see [Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
+A Security Incident Response \(SIR\) record is created on the ServiceNow instance as per the mapping specified in the Manual event forwarding profile. For instructions on how to set up a Manual event forwarding profile, see [Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
 **Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]

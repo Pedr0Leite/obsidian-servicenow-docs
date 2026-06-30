@@ -26,11 +26,11 @@ Role required: Admin
 
 ## Procedure
 
-1.  In the [[layout_wizard|layout wizard]], turn off the Show Size Field setting.
+1.  In the layout wizard, turn off the Show Size Field setting.
 
     \[Omitted image "cpq-layout-wizard-settings-show-size-field.png"\] Alt text: Size settings
 
-    Although the set size field still exists, it no longer appears in the layout. For more information about [[cpq-sets|sets]] and [[layouts|layouts]], see [[layouts-sets|Using sets in layouts]].
+    Although the set size field still exists, it no longer appears in the layout. For more information about sets and layouts, see [Using sets in layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md).
 
 2.  Create your replacement number field and add it to the layout.
 
@@ -57,12 +57,6 @@ Role required: Admin
 
 4.  Deploy and test your updated blueprint.
 
-    When you [[Modify|modify]] the values of the field that you created, the size of the Set should be updated accordingly.
+    When you modify the values of the field that you created, the size of the Set should be updated accordingly.
 
-## Related
 
-- [[layouts-sets|Using sets in layouts]]
-- [[layout_wizard|Layout Wizard]]
-- [[cpq-sets|Sets]]
-- [[layouts|Layouts]]
-- [[Modify|Modify]]

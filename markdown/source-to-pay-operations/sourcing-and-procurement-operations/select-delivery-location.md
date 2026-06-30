@@ -22,7 +22,7 @@ Role required: sn\_shop.shopper.
 
 ## Procedure
 
-1.  From your [[shopping-cart|shopping cart]], select **Proceed to checkout**.
+1.  From your shopping cart, select **Proceed to checkout**.
 
     The Checkout page appears.
 
@@ -51,6 +51,3 @@ As a shopper, you can view, add, and select the delivery locations and office lo
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[shopping-cart|Shopping cart]]

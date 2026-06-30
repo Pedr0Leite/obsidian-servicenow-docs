@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Install Patient Support Services
 
-You can install the [[pss-app|Patient Support Services]] application \(sn\_patientservice\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Patient Support Services application \(sn\_patientservice\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ The following items are installed with Patient Support Services:
 -   ServiceNow Store applications
 -   Business rules
 
-For more information, see [[pss-components-installed|Components installed with Patient Support Services]].
+For more information, see [Components installed with Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-components-installed.md).
 
 ## Procedure
 
@@ -51,7 +51,4 @@ For more information, see [[pss-components-installed|Components installed with P
 
 4.  Select **Install**.
 
-## Related
 
-- [[pss-components-installed|Components installed with Patient Support Services]]
-- [[pss-app|Patient Support Services]]

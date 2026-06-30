@@ -90,7 +90,7 @@ Description
 
 5.  Select the **Channel partner**.
 
-    -   The Channel Partner field is available only when the [[order-managment-for-business-location|Order Management for Business Location]] store app \(sn\_bus\_org\_orm\) is installed.
+    -   The Channel Partner field is available only when the Order Management for Business Location store app \(sn\_bus\_org\_orm\) is installed.
     -   The field is automatically prefilled if the agent is assigned to a single business location.
 
         **Note:** If the agent is assigned to multiple business locations, the field remains empty and must be selected manually.
@@ -103,6 +103,3 @@ Description
 
 The order is started and the Order Catalog opens.
 
-## Related
-
-- [[order-managment-for-business-location|Order Management for business location]]

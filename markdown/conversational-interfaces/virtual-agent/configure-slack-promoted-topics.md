@@ -23,9 +23,9 @@ Role required: admin or va\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
-2.  On the [[virtual-agent-landing-page|Virtual Agent]] settings page, navigate to the Custom greetings and setup and select **View All**.
+2.  On the Virtual Agent settings page, navigate to the Custom greetings and setup and select **View All**.
 
     The promoted topics that you have previously configured reside in the default chat experience. For more information, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md). If default chat experience is the only row that you have on your instance, then you observe that the promoted topics will be applied to chat widget, Microsoft Teams, and Slack \(unless you configure something unique for Slack as instructed below.\)
 
@@ -156,7 +156,3 @@ In you have not configured the promoted topics for Slack, then the promoted topi
 
 **Parent Topic:**[Configure Virtual Agent settings for Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-slack-settings.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

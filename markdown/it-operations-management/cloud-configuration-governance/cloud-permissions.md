@@ -14,7 +14,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Permissions management for Cloud Governance roles
 
-Permissions are user group-level access rights to features in the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application and to specific records in the instance, such as blueprints or [[cloud-accounts|cloud accounts]].
+Permissions are user group-level access rights to features in the Cloud Provisioning and Governance application and to specific records in the instance, such as blueprints or cloud accounts.
 
 You can refine the actions that are allowed or prohibited for users based on user group. By default, each role includes access rights, but not all users with the same role can see or edit each others records. For example, by default users with the cloud\_designer role have full read and write access to their own blueprints, but they do not have read or write access to blueprints created by other cloud designers. If you want them to have access, you must put the users into a group that has the cloud\_designer role, then give that group read and write access to particular blueprints.
 
@@ -67,7 +67,7 @@ Catalog user groupCloud user `[sn_cmp.cloud_service_user]`
 
 </td><td>
 
-Users who order similar items from the catalog in the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+Users who order similar items from the catalog in the Cloud User Portal.
 
 </td><td>
 
@@ -107,7 +107,7 @@ Manage \[Create and update\]
 
 </td><td>
 
-Cloud admins must map templates to appropriate [[cloud-resource-profiles|resource profiles]]. To collaborate or reuse existing resource profiles and templates.
+Cloud admins must map templates to appropriate resource profiles. To collaborate or reuse existing resource profiles and templates.
 
 </td></tr></tbody>
 </table>-   **[Assign a cloud permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-permissions.md)**  
@@ -115,9 +115,3 @@ Assign a permission to refine the actions that are allowed or prohibited for use
 
 **Parent Topic:**[Cloud Admin Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]

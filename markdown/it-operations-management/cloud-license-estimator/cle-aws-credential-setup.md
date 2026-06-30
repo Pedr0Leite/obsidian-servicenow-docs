@@ -26,13 +26,13 @@ You can configure IAM roles to generate temporary credentials using STS API for 
 
 ## Procedure
 
-1.  Navigate to **Filter Navigator** &gt; **All** &gt; **ITOM [[cloud-license-estimator-landing|Cloud LIcense Estimator]]** &gt; **Home**.
+1.  Navigate to **Filter Navigator** &gt; **All** &gt; **ITOM Cloud LIcense Estimator** &gt; **Home**.
 
-2.  On the Home Page, select **Go to Credentials** to open the **Credentials \([[r-discovery|discovery]]\_credentials\)** page.
+2.  On the Home Page, select **Go to Credentials** to open the **Credentials \(discovery\_credentials\)** page.
 
 3.  Select **New** &gt; **AWS Credentials** and enter the requisite information.
 
-    A **Credential ID** is generated, which is used when [[cam-config|creating configurations]].
+    A **Credential ID** is generated, which is used when creating configurations.
 
 
 **Parent Topic:**[Configure Cloud License Estimator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/configure-cloud-license-estimator.md)
@@ -159,8 +159,3 @@ Role required: admin
 
 [Generate Cloud License Estimator Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cle-generate-reports.md)
 
-## Related
-
-- [[cloud-license-estimator-landing|Cloud License Estimator]]
-- [[r-discovery|Discovery]]
-- [[cam-config|Creating configurations]]

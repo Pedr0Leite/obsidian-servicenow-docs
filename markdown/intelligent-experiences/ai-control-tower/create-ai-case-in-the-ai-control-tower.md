@@ -22,22 +22,18 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_analyst or sn\_ai\_case\_mgmt.ai\_ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **All** &gt; **AI Control Tower**.
 
-2.  Go to the **AI [[cases|cases]]** dashboard.
+2.  Go to the **AI cases** dashboard.
 
 3.  On the AI cases dashboard, on the **AI cases** tab, select **Create AI case**.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the [[create-new-ai-case-form|Create New AI case form]], see [Create new AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-new-ai-case-form.md).
+    For a description of the field values on the Create New AI case form, see [Create new AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-new-ai-case-form.md).
 
 5.  Select **Save**.
 
     After you submit this form, the AI case team will provide the insights and support you need.
 
-## Related
 
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[cases|Cases]]
-- [[create-new-ai-case-form|Create new AI case form]]

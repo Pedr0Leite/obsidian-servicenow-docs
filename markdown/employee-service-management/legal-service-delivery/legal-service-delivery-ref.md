@@ -14,9 +14,5 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 # Legal Service Delivery reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about [[legal-management-overview|Legal Service Delivery]].
+Reference topics provide additional information about Legal Service Delivery.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-management-overview|Legal Service Delivery]]

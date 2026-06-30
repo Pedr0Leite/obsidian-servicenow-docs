@@ -55,7 +55,7 @@ After running the scripts and evaluating the data, you will have a better idea o
 
 3.  Move CIs from existing classes to CMDB classes.
 
-    **Note:** Don’t forget about non-conforming tables and their dependencies. You could have hundreds of reports, business rules, scripts, table [[reference-document-management|references]], and more that need the data in your non-conforming tables.
+    **Note:** Don’t forget about non-conforming tables and their dependencies. You could have hundreds of reports, business rules, scripts, table references, and more that need the data in your non-conforming tables.
 
     Moving CIs to a new table does not automatically move reports, business rules, and so on. As described in the following steps, the fix script identifies dependencies that you must refactor. You can [download the fix script](https://community.servicenow.com/community?id=community_article&sys_id=a777f564db9dbfc4d58ea345ca961996) from the ServiceNow Community.
 
@@ -97,6 +97,3 @@ Several legacy statuses are automatically mapped to the **Life Cycle Stage** and
 
 **Parent Topic:**[Configuring CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/configure-csdm.md)
 
-## Related
-
-- [[reference-document-management|References]]

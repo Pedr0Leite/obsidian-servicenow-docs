@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Field Service Agent Efficiency components
 
-Several types of components are installed with the [[agent-efficiency|Field Service Agent Efficiency]] feature, including tables, roles, script includes, and business rules.
+Several types of components are installed with the Field Service Agent Efficiency feature, including tables, roles, script includes, and business rules.
 
 ## Tables
 
@@ -154,7 +154,7 @@ MatchingDimensionAgentEfficiency
 
 </td><td>
 
-Contains a custom script to rank agents by their efficiency and assign work order tasks for [[dynamic-scheduling|Dynamic Scheduling]].
+Contains a custom script to rank agents by their efficiency and assign work order tasks for Dynamic Scheduling.
 
 </td></tr></tbody>
 </table>## Business Rules
@@ -210,10 +210,5 @@ Agent efficiency determination rule\[sn\_agent\_effcy\_det\_rule\]
 Validates Agent Efficiency determination rules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[agent-efficiency|Field Service Agent Efficiency]]
-- [[dynamic-scheduling|Dynamic scheduling]]

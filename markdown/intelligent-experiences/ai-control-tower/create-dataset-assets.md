@@ -15,7 +15,7 @@ breadcrumb: [Creating AI assets, Use, AI Control Tower, Enable AI experiences]
 
 # Create dataset assets
 
-Create [[ai-assets|AI assets]] to track and manage the life cycles of your [[ai-datasets|datasets]].
+Create AI assets to track and manage the life cycles of your datasets.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Role required: sn\_ai\_governance\_ai\_steward or sn\_ai\_asset\_mgmt.ai\_asset\
 
 ## About this task
 
-A dataset is a collection of structured or unstructured data that you can use to train and test [[ai-models|AI models]]. Datasets can help you improve the performance and efficacy of your AI models.
+A dataset is a collection of structured or unstructured data that you can use to train and test AI models. Datasets can help you improve the performance and efficacy of your AI models.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
 2.  From the AI Control Tower, open the AI assets view.
 
-3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, navigate to either **[[ai-inventory|AI asset inventory]] - Managed** &gt; **Datasets** or **AI asset inventory - Unmanaged** &gt; **Datasets**.
+3.  From the navigation menu of the AI assets view, navigate to either **AI asset inventory - Managed** &gt; **Datasets** or **AI asset inventory - Unmanaged** &gt; **Datasets**.
 
 4.  Select **Add dataset**.
 
@@ -176,11 +176,3 @@ Users who are assigned the AI steward \(sn\_ai\_governance.ai\_steward\) role ca
 
 **Parent Topic:**[Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-models|AI models]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-inventory|AI asset inventory]]

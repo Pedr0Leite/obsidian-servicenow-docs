@@ -14,7 +14,7 @@ breadcrumb: [Setting up Sidebar, Configuring Sidebar, Sidebar, Conversational In
 
 # Sidebar discussion subject mapping
 
-Create a requester mapping to customize which field is used as the discussion title in [[sidebar-landing|Sidebar]] conversations. The discussion title defaults to the short description field.
+Create a requester mapping to customize which field is used as the discussion title in Sidebar conversations. The discussion title defaults to the short description field.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select Sidebar.
 
@@ -91,7 +91,4 @@ Domain for the record.
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
 
-- [[sidebar-landing|Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]

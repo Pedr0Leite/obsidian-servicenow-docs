@@ -24,7 +24,7 @@ Step 2 - Create Credential for connecting to the SAP system.
 
 Step 3 - Add MID Server and credentials to the connection.
 
-Step 4 - Create [[erp-source|ERP Source]] is an [[erp-source-configuration|ERP source configuration]] table.
+Step 4 - Create ERP Source is an ERP source configuration table.
 
 Step 5 - Create a Service, add flow and give the necessary inputs in the fields.
 
@@ -133,7 +133,4 @@ Reason for error. Populated only when an error occurs. Error returned from SAP i
 
     \[Omitted image "structure-editor-display-it.png"\] Alt text: Results Data
 
-## Related
 
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]

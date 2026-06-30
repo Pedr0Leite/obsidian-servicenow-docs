@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select **Lease Administration**.
 
@@ -46,6 +46,3 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 **Parent Topic:**[Create workplace contracts in Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-create-lease-contracts.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

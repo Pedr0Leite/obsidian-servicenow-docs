@@ -12,7 +12,7 @@ breadcrumb: [Add a reference field, Reference field type, Reference, Field admin
 
 # Configure cascade delete rules
 
-When a record is deleted, there are different options for how the deletion will affect records that [[reference-email-admin|reference]] the deleted record. You can configure what happens to records that reference a record when that record is deleted.
+When a record is deleted, there are different options for how the deletion will affect records that reference the deleted record. You can configure what happens to records that reference a record when that record is deleted.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ For example, if you delete a user record that is referenced in the **Caller ID**
 
 5.  In the **Reference cascade rule** field, select one of the following options.
 
-    **Note:** The option for this field have no effect for tables with m2m relationships, meaning that in this example, if the tables have an m2m relationship, [[user|the user record]] is deleted.
+    **Note:** The option for this field have no effect for tables with m2m relationships, meaning that in this example, if the tables have an m2m relationship, the user record is deleted.
 
 <table id="choicetable_vwv_kpx_rt"><thead><tr><th align="left" id="d362466e114">
 
@@ -87,7 +87,3 @@ Deleting a record does not change records that reference the record.
 
 [Modify dictionary entries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ModifyADictionaryEntryFromAForm.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[user|The User record]]

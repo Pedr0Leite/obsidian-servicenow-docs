@@ -12,17 +12,17 @@ breadcrumb: [Multiple email readers, Email accounts, Create, Email Administratio
 
 # Enable email account group processing
 
-Enable the email reader job to start processing your email account groups so that you can reduce the time it takes to process [[ia-inbound-email-il|inbound email]] accounts.
+Enable the email reader job to start processing your email account groups so that you can reduce the time it takes to process inbound email accounts.
 
 ## Before you begin
 
-[[create-email-account-group|Create email account groups]].
+[Create email account groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-group.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  [[t_AddAPropertyUsingSysPropsList|Add a system property]] with the following settings:
+1.  [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) with the following settings:
 
     -   Name: **glide.email.inbound.account\_group\_processing**
     -   Type: true \| false
@@ -30,14 +30,7 @@ Role required: admin
 
 ## What to do next
 
-Check the status of your email account groups to see if processing time has been reduced. For more information, see [[monitor-email-account-groups|Monitor email account groups]].
+Check the status of your email account groups to see if processing time has been reduced. For more information, see [Monitor email account groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitor-email-account-groups.md).
 
-To further reduce processing time, consider creating another email reader job to process inbound email accounts. For more information, see [[create-email-reader-job|Create an email reader job]].
+To further reduce processing time, consider creating another email reader job to process inbound email accounts. For more information, see [Create an email reader job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-reader-job.md).
 
-## Related
-
-- [[create-email-account-group|Create email account groups]]
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[monitor-email-account-groups|Monitor email account groups]]
-- [[create-email-reader-job|Create an email reader job]]
-- [[ia-inbound-email-il|Inbound email]]

@@ -18,7 +18,7 @@ Connect to your Jenkins instance to discover pipeline definitions and configure 
 
 ## Jenkins integration overview
 
-[[devops-landing-page-new|DevOps Change Velocity]] supports Orchestration capability for the Jenkins tool and various kinds of pipeline types like Single Pipeline, Multibranch Pipeline, Folder, and Freestyle project types. For Folder, three levels are supported by default. Integrating Jenkins with DevOps Change Velocity enables you to retrieve the data from your Jenkins pipeline for end-to-end traceability and policy creation for change automation.
+DevOps Change Velocity supports Orchestration capability for the Jenkins tool and various kinds of pipeline types like Single Pipeline, Multibranch Pipeline, Folder, and Freestyle project types. For Folder, three levels are supported by default. Integrating Jenkins with DevOps Change Velocity enables you to retrieve the data from your Jenkins pipeline for end-to-end traceability and policy creation for change automation.
 
 ## Get started
 
@@ -39,7 +39,7 @@ Connect to your Jenkins instance to discover pipeline definitions and configure 
 
     **Note:**
 
-    -   If you're [[devops-config-using|using DevOps Config]], it’s recommended to connect to Jenkins using basic authentication.
+    -   If you're using DevOps Config, it’s recommended to connect to Jenkins using basic authentication.
     -   You must ensure that the basic authentication credentials and secret token used are valid.
 
 **Note:** Jenkins also supports testing capabilities with J Unit. [Test tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-test-tool-integration.md) lets you view test results in DevOps for Jenkins unit, functional, and performance tests.
@@ -55,7 +55,3 @@ Connect your Jenkins instance to discover and track your pipelines, and import y
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[devops-config-using|Using DevOps Config]]

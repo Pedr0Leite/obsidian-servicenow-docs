@@ -26,7 +26,7 @@ For example, you could see records for employees in San Diego who were not grant
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-screening|Employee Health Screening]]** &gt; **Entry Requests**.
+1.  Navigate to **All** &gt; **Employee Health Screening** &gt; **Entry Requests**.
 
     \[Omitted image "entry-request-list.png"\] Alt text: List of requests for entries.
 
@@ -35,6 +35,3 @@ For example, you could see records for employees in San Diego who were not grant
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]

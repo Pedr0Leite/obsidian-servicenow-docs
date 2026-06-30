@@ -14,7 +14,7 @@ breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now
 
 # Configure a generic large language model \(LLM\) connector
 
-Connect an external LLM to the ServiceNow AI Platform by using a generic LLM connector. With a connector, you can write your own [[ai-prompts|prompts]] to send to the LLM and create your own generative AI capabilities.
+Connect an external LLM to the ServiceNow AI Platform by using a generic LLM connector. With a connector, you can write your own prompts to send to the LLM and create your own generative AI capabilities.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: admin
 
 ## About this task
 
-[[generative-ai-controller|Generative AI Controller]] offers several base system connections to popular AI service providers such as Azure OpenAI and Google Vertex. However, you might want to incorporate an industry LLM, a case-specific LLM into your custom workflows, or an LLM that adheres to your organization's data handling policies.
+Generative AI Controller offers several base system connections to popular AI service providers such as Azure OpenAI and Google Vertex. However, you might want to incorporate an industry LLM, a case-specific LLM into your custom workflows, or an LLM that adheres to your organization's data handling policies.
 
 **Note:** Generative AI Controller only supports text generation.
 
 ## Procedure
 
-1.  In the [[now-assist-global-navigation|navigation]] filter, go to the Generative AI Model Configuration \[sys\_generative\_ai\_model\_config\] table by entering `sys_generative_ai_model_config.list`.
+1.  In the navigation filter, go to the Generative AI Model Configuration \[sys\_generative\_ai\_model\_config\] table by entering `sys_generative_ai_model_config.list`.
 
 2.  Select **New**.
 
@@ -66,7 +66,7 @@ Role required: admin
 
 13. In the **Prompt template** field, enter the prompt for the capability.
 
-    The prompt template is the instruction that is sent to the LLM to execute a capability. Use two braces around the capability attribute names to incorporate them into the prompt template. For example, if you're configuring a Summarize capability, your prompt template could be `Summarize the following for me in a friendly and helpful tone: {{textToSummarize}}`. To learn which attributes are available to include in the prompt, go to the OneExtend Capability \[sys\_one\_extend\_capability\] table, find the record for the capability you're configuring, and look at the OneExtend Capability Attributes related list. \[Omitted image "gai-connector-2.png"\] Alt text: Generative AI Configuration record with Definition, Model, and Prompt template fields filled in. \[Omitted image "gai-connector-3.png"\] Alt text: Summarize capability record open with OneExtend Capability Attributes related list highlighted and the attributes identified: error, errorCode, provider, response, status, and textToSummarize. You might need to experiment with different prompts to determine what works best for your use [[cases|cases]].
+    The prompt template is the instruction that is sent to the LLM to execute a capability. Use two braces around the capability attribute names to incorporate them into the prompt template. For example, if you're configuring a Summarize capability, your prompt template could be `Summarize the following for me in a friendly and helpful tone: {{textToSummarize}}`. To learn which attributes are available to include in the prompt, go to the OneExtend Capability \[sys\_one\_extend\_capability\] table, find the record for the capability you're configuring, and look at the OneExtend Capability Attributes related list. \[Omitted image "gai-connector-2.png"\] Alt text: Generative AI Configuration record with Definition, Model, and Prompt template fields filled in. \[Omitted image "gai-connector-3.png"\] Alt text: Summarize capability record open with OneExtend Capability Attributes related list highlighted and the attributes identified: error, errorCode, provider, response, status, and textToSummarize. You might need to experiment with different prompts to determine what works best for your use cases.
 
 14. Create the new Generative AI Configuration by selecting **Submit**.
 
@@ -184,9 +184,3 @@ After you connect the LLM, you can set a provider for the generative AI capabili
 
 [Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 
-## Related
-
-- [[ai-prompts|Prompts]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-global-navigation|Navigation]]
-- [[cases|Cases]]

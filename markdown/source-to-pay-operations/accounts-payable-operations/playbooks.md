@@ -19,7 +19,7 @@ Playbooks provide a visual, step-by-step view of invoice processing workflows to
 
 Playbook provides a visual representation of step by step process involved in processing an invoice processing case. The structured workflow helps Accounts Payable admins or specialists to visualize and understand the status of an invoice processing case and take necessary action when required. With playbooks, it is easier to know what to do next, and also understand what happened in the past with the invoice processing case. With playbooks, the Accounts Payable admins or specialists quickly view and analyze the state of an invoice processing case leading to quicker turn around with suppliers and results in enhanced business operations.
 
-Playbooks in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] provides step by step process involved in processing an invoice processing case such as validating the invoice, checking for duplicates, matching invoice lines and purchase orders, validating exceptions, checking for approvals, and processing the payment of the invoice.
+Playbooks in Accounts Payable Operations provides step by step process involved in processing an invoice processing case such as validating the invoice, checking for duplicates, matching invoice lines and purchase orders, validating exceptions, checking for approvals, and processing the payment of the invoice.
 
 You can perform the following actions using playbook:
 
@@ -33,7 +33,7 @@ Playbooks in Accounts Payable Operations display the stages and activities for p
 -   **[Using Playbook in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/how-to-use-playbook.md)**  
 Configure a playbook and visualize the step-by-step actions performed by an Accounts Payable specialist while processing an invoice.
 -   **[Document Intelligence processing with playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-di-with-playbook.md)**  
-[[invoices|Invoices]] ingested through Document Intelligence may require manual actions by Accounts Payable specialists or administrators when automated processing is unavailable or requires intervention.
+Invoices ingested through Document Intelligence may require manual actions by Accounts Payable specialists or administrators when automated processing is unavailable or requires intervention.
 
 **Parent Topic:**[Use Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md)
 
@@ -50,7 +50,7 @@ Configure a playbook and visualize the step-by-step actions performed by an Acco
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -62,11 +62,5 @@ Configure a playbook and visualize the step-by-step actions performed by an Acco
 
 [Universal Request in Accounts Payable Operations]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

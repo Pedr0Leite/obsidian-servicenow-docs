@@ -26,7 +26,7 @@ Role required: admin
 
     The Countries page displays.
 
-2.  In the page header, right-click to display a menu and select **View** &gt; **[[user-exp-analytics-landing|Usage Insights]]**
+2.  In the page header, right-click to display a menu and select **View** &gt; **Usage Insights**
 
     \[Omitted image "uxa-countries-view.png"\] Alt text: How to view Usage Insights polices according to country.
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

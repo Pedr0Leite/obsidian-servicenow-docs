@@ -14,7 +14,7 @@ breadcrumb: [Integrating Ansible with Cloud Services Catalog, Configuring Cloud 
 
 # Order an Ansible job template
 
-Use [[csc-home|Cloud Services Catalog]] to order an Ansible job template called from the catalog item.
+Use Cloud Services Catalog to order an Ansible job template called from the catalog item.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Choose Service Account
 
 </td><td>
 
-Pipeline. For Amazon Web Services, the Location list is displayed when you select **Service Account**. The location is not required for [[r-discovery|Discovery]] in Microsoft Azure.**Tip:**
+Pipeline. For Amazon Web Services, the Location list is displayed when you select **Service Account**. The location is not required for Discovery in Microsoft Azure.**Tip:**
 
 You can expose an extra variable that was saved in a JSON format at the Ansible tower location or region and use it in the template for provisioning. This extra variable is overridden by the value that you selected in the Location list. By using this extra variable, you ensure that provisioning and Discovery are at the same location.
 
@@ -100,7 +100,3 @@ Verify that a blueprint approval policy \(CSC Content Approval Policy Ansible\) 
 
 **Parent Topic:**[Integrating Ansible with Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-ansible-with-cloud-services-catalog.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[r-discovery|Discovery]]

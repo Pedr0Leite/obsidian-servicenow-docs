@@ -18,7 +18,7 @@ Activate the Jira configuration so that EAP teams integrated with Jira projects 
 
 ## Before you begin
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -41,6 +41,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 [Define Agile structure in EAP for Jira Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/define-agile-structure-eap-teams-spw-jira-integrations.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

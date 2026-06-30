@@ -14,7 +14,7 @@ breadcrumb: [Configure self-registration for external users, Install Supplier Co
 
 # Configure the Vendor Contact table to send invitation emails during self-registration
 
-Configure the Vendor Contact \[vm\_vdr\_contact\] table to send invitation emails to [[supplier|supplier]] contacts during the self-registration process.
+Configure the Vendor Contact \[vm\_vdr\_contact\] table to send invitation emails to supplier contacts during the self-registration process.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin
 
 [Enable notifications about self-registration errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-supp-admin-emails.md)
 
-## Related
-
-- [[supplier|Supplier]]

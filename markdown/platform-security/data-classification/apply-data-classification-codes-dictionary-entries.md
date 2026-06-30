@@ -14,7 +14,7 @@ breadcrumb: [Data Classification, Platform Privacy]
 
 # Assigning data classifications to dictionary entries
 
-Assign data classifications to specific table columns in the Dictionary \[sys\_dictionary\] table. When you assign data classifications, it creates entries in the Dictionary-Data Class \[m2m\_dictionary\_dataclass\] table, which you can then review in the [[overview|Overview dashboard]].
+Assign data classifications to specific table columns in the Dictionary \[sys\_dictionary\] table. When you assign data classifications, it creates entries in the Dictionary-Data Class \[m2m\_dictionary\_dataclass\] table, which you can then review in the Overview dashboard.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: data\_classification\_admin and admin
 
     See [Data dictionary tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataDictionaryTables.md) for additional information.
 
-## Related
 
-- [[overview|Overview Dashboard]]

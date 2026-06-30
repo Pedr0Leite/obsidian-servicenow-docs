@@ -18,13 +18,13 @@ This section explains the options for air-gapped and non-air-gapped network, ins
 
 During the installation of the Discovery Console for OT, you must have access to the internet to download and install dependent third-party packages such as MongoDB and RabbitMQ. The Console installation automatically installs these packages as long as there's an internet connection. After installation of the third-party packages, the internet connection is unnecessary.
 
-When using the installation for a non-air-gapped network, the Discovery Console for OT not only needs access to dependent third-party packages, but it also needs to communicate with the Sensors, the Collectors, the MID Server, the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]], and your ServiceNow instance.
+When using the installation for a non-air-gapped network, the Discovery Console for OT not only needs access to dependent third-party packages, but it also needs to communicate with the Sensors, the Collectors, the MID Server, the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery, and your ServiceNow instance.
 
 For these specific steps see the documentation on configuring the individual OT Discovery components. Start with .
 
 ## Air-gapped networks
 
-If you plan to [[install-discovery-console-ot|install the Discovery Console for OT]] on an air-gapped network, additional steps are needed to move your queried data from your OT components and environment to your ServiceNow instance.
+If you plan to install the Discovery Console for OT on an air-gapped network, additional steps are needed to move your queried data from your OT components and environment to your ServiceNow instance.
 
 One way to work around this type of network is to first install the OT Discovery component packages on your network. The challenge is then how to get the data from your network to the Mid Server so that it is uploaded to the ServiceNow instance. To do this:
 
@@ -37,10 +37,5 @@ One way to work around this type of network is to first install the OT Discovery
 
 ## What to do next
 
-To install the containerized packages, see [[install-containerized-ot-discovery-packages|Install containerized OT Discovery packages]].
+To install the containerized packages, see [Install containerized OT Discovery packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-containerized-ot-discovery-packages.md).
 
-## Related
-
-- [[install-containerized-ot-discovery-packages|Install containerized OT Discovery packages]]
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]

@@ -16,7 +16,7 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP, Integration with thi
 
 You can run a job to look up primary data \(for example, Currencies\) from different ERP sources into ServiceNow.
 
-Before you start the ERP integration, you must configure the integration services record for the target [[erp-source|ERP source]] using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating an integration service record, see [Create Integration Service record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/create-integration-service-record.md).
+Before you start the ERP integration, you must configure the integration services record for the target ERP source using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating an integration service record, see [Create Integration Service record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/create-integration-service-record.md).
 
 \[Omitted image "sap-integration-full-pull.png"\] Alt text: Look up currencies in SAP
 
@@ -50,7 +50,7 @@ To learn more about the Transformation maps and subflows, see [Source-to-Pay int
 
 [ERP Source Configuration for SAP]()
 
-[Define [[erp-source-configuration|ERP source configuration]] for SAP]()
+[Define ERP source configuration for SAP]()
 
 [Configure integration services for SAP]()
 
@@ -58,7 +58,3 @@ To learn more about the Transformation maps and subflows, see [Source-to-Pay int
 
 [Scheduled jobs to look up primary data in SAP]()
 
-## Related
-
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]

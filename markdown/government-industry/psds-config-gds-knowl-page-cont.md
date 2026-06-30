@@ -16,7 +16,7 @@ The knowledge pages provide the basic, GDS-compliant structure for displaying kn
 
 By default, the GOV.UK Developer Toolkit comes with base system knowledge pages, which contain the following widgets.
 
-Most widgets can be configured by cloning and modifying, or you can use the instance options where available to configure widgets for a portal page. For more information on the instance options available for each widget, see [[psds-config-govuk-widget-lib|Portal Widget Library.]]
+Most widgets can be configured by cloning and modifying, or you can use the instance options where available to configure widgets for a portal page. For more information on the instance options available for each widget, see [Portal Widget Library.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-widget-lib.md)
 
 ## Knowledge Home
 
@@ -86,9 +86,5 @@ The Knowledge homepage contains the following widgets:
     **Note:** Add or edit a footer for your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-header-menu.md).
 
 
-**Parent Topic:**[[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]
+**Parent Topic:**[Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md)
 
-## Related
-
-- [[psds-config-govuk-widget-lib|GOV.UK Developer Toolkit GDS Service Portal Widget Library]]
-- [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]

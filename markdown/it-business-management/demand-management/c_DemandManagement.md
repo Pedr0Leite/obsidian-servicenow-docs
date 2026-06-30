@@ -24,7 +24,7 @@ Demands are available in the Next Experience for Demand Management. For more inf
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -45,7 +45,7 @@ If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the [[form-field-information-for-dw|forms]] and fields of Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the forms and fields of Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -56,7 +56,7 @@ If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace
 A typical workflow for you as the demand manager is as follows:
 
 -   Work on a demand to assess the feasibility, effort, and cost of the demand and create a business case for approval of the demand.
--   Create [[demand-task|demand tasks]], such as an initial feasibility review, cost estimate, and effort estimate, to delegate activities to specialized resources or groups. For example, a demand manager can create demand tasks for assessing the cost associated with a software upgrade and the resources required.
+-   Create demand tasks, such as an initial feasibility review, cost estimate, and effort estimate, to delegate activities to specialized resources or groups. For example, a demand manager can create demand tasks for assessing the cost associated with a software upgrade and the resources required.
 -   Assign demand tasks to a business analyst, resource user, or an appropriate group. The assigned resource or group then creates a cost plan and resource assignment to help the demand manager assess and qualify the demand. For more information, see [Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
 
 Basics of Demand Management
@@ -64,7 +64,7 @@ Basics of Demand Management
 -   Set up the application: Plan, create stakeholders and assessment categories, and create bubble charts.
 -   Assess ideas: Review and analyze submitted ideas before promoting ideas to demands.
 -   Create and add details to the demands: Create demands and add demand tasks, stakeholders and assessments, and evaluate and qualify demands.
--   Use the Demand Management application or the [[c_DemandWorkbench|demand workbench]] to compare and [[c_AssessingDemands|assess demands]], and promote demands to projects, enhancements, changes, or defects.
+-   Use the Demand Management application or the demand workbench to compare and assess demands, and promote demands to projects, enhancements, changes, or defects.
 
 -   **[Exploring Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/exploring-demand-management.md)**  
 Learn more about Demand Management and its process flow, and reviewing its benefits to your organization.
@@ -77,11 +77,3 @@ Reference information to provide additional details about Demand Management such
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[form-field-information-for-dw|Forms]]
-- [[demand-task|Demand tasks]]
-- [[c_DemandWorkbench|Demand workbench]]
-- [[c_AssessingDemands|Assess demands]]

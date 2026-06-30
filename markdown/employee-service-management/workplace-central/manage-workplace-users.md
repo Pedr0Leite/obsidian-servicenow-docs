@@ -14,7 +14,7 @@ breadcrumb: [Working with Space Planning, Use, Workplace Central, Workplace Serv
 
 # Manage workplace profiles using Space Planning
 
-Manage the workplace user profiles, their details, and their assignments using the [[space-planning|Space Planning]] module.
+Manage the workplace user profiles, their details, and their assignments using the Space Planning module.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
 2.  On the side navigation, select the **Space Planning** module.
 
@@ -51,7 +51,7 @@ Steps
 </td><td>
 
 1.  On the Workplace users list, select **New**.
-2.  On the [[user-workplace-profile-form|User Workplace Profile form]], fill in the fields.
+2.  On the User Workplace Profile form, fill in the fields.
 
 For a description of the field values, see [User Workplace Profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md).
 
@@ -135,8 +135,3 @@ If you select email, you must enter the email address of the recipient.
 </table>
 **Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-## Related
-
-- [[space-planning|Space Planning]]
-- [[workplace-central-feat|Workplace Central]]
-- [[user-workplace-profile-form|User Workplace Profile form]]

@@ -96,8 +96,5 @@ To enable end users to access links on different platforms that use the same SSO
 6.  Select **Update** to save your changes.
 
 
-**Parent Topic:**[[mobile-authentication|Mobile authentication]]
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[mobile-authentication|Mobile authentication]]

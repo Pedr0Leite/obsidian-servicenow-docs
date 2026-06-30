@@ -14,7 +14,7 @@ breadcrumb: [Configure coaching, Configure, Workforce Optimization overview, HR 
 
 # Configure a list menu to display in the Learning tab in Workforce Optimization for HR
 
-Add list or list categories to modify the list menu for Coaching with [[exploring-learning-exp|Learning]] in the Coaching application in Workforce Optimization for HR.
+Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in Workforce Optimization for HR.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Role required: sn\_hr\_wfo.admin
 
 **Parent Topic:**[Configure Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-coaching-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

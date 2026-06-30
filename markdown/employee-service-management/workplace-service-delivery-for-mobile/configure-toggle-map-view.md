@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service
 
 # Configure the Toggle map view property
 
-Configure the Toggle map view option on the [[mobile-employee-experience|Now Mobile app]] app while reserving a space.
+Configure the Toggle map view option on the Now Mobile app app while reserving a space.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsv.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[wsd-mobile-overview|Workplace Service Delivery for Mobile]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Workplace Service Delivery for Mobile** &gt; **Properties**.
 
 2.  Enable the edit options on the Mobile Properties page.
 
@@ -55,7 +55,3 @@ Role required: sn\_wsd\_rsv.admin
 
 **Next topic:**[Configure AI search for Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-ai-search-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

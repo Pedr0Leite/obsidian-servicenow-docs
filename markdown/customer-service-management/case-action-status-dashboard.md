@@ -12,7 +12,7 @@ breadcrumb: [Case action status, Configure case management, Case management, Org
 
 # Case action status analytics
 
-The [[csm-manager-dashboard|Customer Service Manager dashboard]] displays the percentage of the case backlog that is waiting for an agent response, customer input, or a response for other users.
+The Customer Service Manager dashboard displays the percentage of the case backlog that is waiting for an agent response, customer input, or a response for other users.
 
 The dashboard includes the **Open Backlog - Blocked** widget which breaks down the remaining work to show cases that are with the following users:
 
@@ -20,14 +20,9 @@ The dashboard includes the **Open Backlog - Blocked** widget which breaks down t
 -   Customer
 -   Other Internal Stakeholder
 
-As [[case-action-status-blocking-tasks|blocking tasks]] for a case get created and resolved, this dashboard widget [[gamification-components-tracks|tracks]] the case time spent with each of these users. The breakdown is set for:
+As blocking tasks for a case get created and resolved, this dashboard widget tracks the case time spent with each of these users. The breakdown is set for:
 
 -   Blocked internally
 -   Blocked by customer
 -   Blocked internally and by customer
 
-## Related
-
-- [[csm-manager-dashboard|Customer Service Manager dashboard]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[gamification-components-tracks|Tracks]]

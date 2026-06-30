@@ -38,7 +38,7 @@ OT asset manager
 
 </td><td>
 
-Manages Operational Technology-specific [[c_Models|models]] and assets in the [[ot-asset-ws-otam|OT Asset Workspace]].
+Manages Operational Technology-specific models and assets in the OT Asset Workspace.
 
 </td><td>
 
@@ -64,9 +64,9 @@ sn\_eam.asset\_technician
 |Name|Description|
 |----|-----------|
 |Asset Management \(com.snc.asset\_management\)|Provides functionalities to integrate the physical, technological, contractual, and financial aspects of information technology assets.|
-|Procurement \(com.snc.[[c_Procurement|procurement]]\)|Provides the capability to source and receive requested assets so that you can fulfill service catalog requests.|
+|Procurement \(com.snc.procurement\)|Provides the capability to source and receive requested assets so that you can fulfill service catalog requests.|
 |Enterprise model normalization \(com.sn\_eam\_core\)|Provides information related to normalization such as normalization status, model content service download, and life-cycle overview.|
-|Asset Management Workspace - Recommendations \(com.sn\_itam\_recomm\)|Provides actionable recommendations for users in [[medical-facility-workspaces|configurable workspaces]].|
+|Asset Management Workspace - Recommendations \(com.sn\_itam\_recomm\)|Provides actionable recommendations for users in configurable workspaces.|
 |SM Planned Maintenance \(com.snc.planned\_maintenance\)|Provides the capability to manage regular preventative maintenance of assets.|
 |Work Management \(com.snc.work\_management\)|Provides the capability to manage your work orders, work order tasks, maintenance plans, and other relevant work order information.|
 |Performance Analytics \(com.snc.pa\)|Provides dashboards containing actionable data visualizations that help you improve your business processes and practices.|
@@ -78,11 +78,11 @@ sn\_eam.asset\_technician
 
 |Name|Description|
 |----|-----------|
-|Enterprise [[am-landing-page|Asset Management]] \(com.sn\_eam\)|Manages the complete life cycle of your connected and non-connected enterprise assets.|
-|Expanded Model and Asset Classes \(com.sn\_ent\)|Adds [[enterprise-model-asset-classes|enterprise model and asset classes]] that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates [[model-hierarchy|model categories]] that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes.|
+|Enterprise Asset Management \(com.sn\_eam\)|Manages the complete life cycle of your connected and non-connected enterprise assets.|
+|Expanded Model and Asset Classes \(com.sn\_ent\)|Adds enterprise model and asset classes that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates model categories that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes.|
 |CMDB CI Class Models \(com.sn\_cmdb\_ci\_class\)|Adds class models that extend the CMDB class hierarchy, including class descriptions, identification rules, identifier entries, and dependent relationships.|
-|Hardware Asset Management \(sn\_hamp\)|Provides advanced workflow, automation, and mobile capabilities that enable you to manage the complete life cycle of your organizational assets, including hardware and [[c_ReceiveAConsumableAsset|consumable assets]].|
-|Asset Management Common \(com.sn\_itam\_common\)|Provides features that are common to the [[ham-landing-page|Hardware Asset Management]], [[c_SoftwareAssetMgmt|Software Asset Management]], and [[enterprise-asset-management|Enterprise Asset Management]] applications, including the catalog item to request [[reclaim-asset|asset reclamation]].|
+|Hardware Asset Management \(sn\_hamp\)|Provides advanced workflow, automation, and mobile capabilities that enable you to manage the complete life cycle of your organizational assets, including hardware and consumable assets.|
+|Asset Management Common \(com.sn\_itam\_common\)|Provides features that are common to the Hardware Asset Management, Software Asset Management, and Enterprise Asset Management applications, including the catalog item to request asset reclamation.|
 |Physical Assets \(sn\_phy\_assets\)|Marker that aligns features for physical asset-based applications, including the Hardware Asset Management and Enterprise Asset Management applications.|
 |Risk Heat Map \(com.sn\_risk\_heatmap\)|Provides a heatmap component that enables you to visualize the risk posture of your organization.|
 |Geo Map Component \(com.sn\_geo\_map\)|Provides the capability to track the location of the assets using indoor maps.|
@@ -100,17 +100,3 @@ sn\_eam.asset\_technician
 
 [Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[c_Procurement|Procurement]]
-- [[medical-facility-workspaces|Configurable workspaces]]
-- [[am-landing-page|Asset Management]]
-- [[enterprise-model-asset-classes|Enterprise model and asset classes]]
-- [[model-hierarchy|Model categories]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[reclaim-asset|Asset reclamation]]

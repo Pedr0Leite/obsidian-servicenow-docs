@@ -22,7 +22,7 @@ The following table lists fields for the Availability Error \[sn\_spend\_intg\_a
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Supplier part number|String|Unique number that is used by the [[supplier|supplier]] to identify this product.|
+|Supplier part number|String|Unique number that is used by the supplier to identify this product.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
 
@@ -101,6 +101,3 @@ The following table lists fields for the Availability Error \[sn\_spend\_intg\_a
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

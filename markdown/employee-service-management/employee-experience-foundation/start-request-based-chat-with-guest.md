@@ -32,7 +32,7 @@ For information about starting a chat with an external user who is not added in 
 
 1.  Launch Microsoft Teams.
 
-2.  Navigate to **ServiceNow for Microsoft Teams** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My Requests**.
+2.  Navigate to **ServiceNow for Microsoft Teams** &gt; **Employee Center** &gt; **My Requests**.
 
 3.  Open the ticket that you want to work on in your ServiceNow instance.
 
@@ -68,6 +68,3 @@ A tag with the label **External** indicates that a user is guest and not present
 
 **Parent Topic:**[Agent actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/agent-sn-ms-teams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

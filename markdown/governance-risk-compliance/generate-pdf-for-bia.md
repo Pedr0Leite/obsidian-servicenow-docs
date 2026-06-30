@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Generate BIA reports in PDF or Microsoft Word formats
 
-Generate a PDF or Microsoft Word copy of a [[bia-uib|business impact analysis]] in the [[bcm-workspace|BCM Configurable Workspace]] and save it for a future reference.
+Generate a PDF or Microsoft Word copy of a business impact analysis in the BCM Configurable Workspace and save it for a future reference.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner
 
 ## About this task
 
-To format the PDF for your business needs, see [[update-pdf-format-for-bia-bcp-event|Format PDF templates for BIAs, BCPs, and Events]].
+To format the PDF for your business needs, see [Format PDF templates for BIAs, BCPs, and Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-pdf-format-for-bia-bcp-event.md).
 
 Beginning with the Xanadu release, the content in PDFs of Business Impact Analyses, Plans, and Events is improved by implementing a new layout:
 
@@ -33,7 +33,7 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Business Impact Analysis** and select any business impact analysis record that is in the **Review** or next state.
+2.  In the List view, navigate to **Business Impact Analysis** and select any business impact analysis record that is in the **Review** or next state.
 
 3.  Select **Generate PDF** in the form.
 
@@ -59,18 +59,10 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     Generate a report of the BIA record in Microsoft Word format. The Microsoft Word copy of the BIA record is successfully generated that you can download.
 
-    For more information on generating reports in Microsoft Word format using Document designer, see [[integrating-document-designer-with-bcm|Generating reports using Document designer]].
+    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/integrating-document-designer-with-bcm.md).
 
 8.  To print the BIA report, open the saved PDF or Microsoft Word copy and select **Print**.
 
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[update-pdf-format-for-bia-bcp-event|Format PDF templates for BIAs, BCPs, and Events]]
-- [[integrating-document-designer-with-bcm|Generating reports using Document designer]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[list-view-uib-ws|List view]]

@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Notify, Notify reference, Notify, Manage 
 
 # Tables installed with Notify
 
-[[notify-landing-page|Notify]] adds the following tables.
+Notify adds the following tables.
 
 <table id="table_fn1_3kq_4y"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Notify Conference Calls\[notify\_conference\_call\]
 
 </td><td>
 
-A list of conference calls started [[using-notify|using Notify]]
+A list of conference calls started using Notify
 
 </td></tr><tr><td>
 
@@ -106,11 +106,11 @@ List of phone number groups used by Notify to make calls and send messages
 
 </td></tr><tr><td>
 
-[[c_NotifyLanguages|Notify Languages]]\[notify\_language\]
+Notify Languages\[notify\_language\]
 
 </td><td>
 
-List of the languages that Notify supports when using text-to-speech [[c_WorkflowActivities|workflow activities]].
+List of the languages that Notify supports when using text-to-speech workflow activities.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Notify Workflow Activity\[notify\_wf\_activity\]
 
 </td><td>
 
-List of [[c_NotifyActivities|Notify workflow activities]]
+List of Notify workflow activities
 
 </td></tr><tr><td>
 
@@ -157,10 +157,3 @@ Contains the templates which are used while sending a Notify SMS.
 
 **Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[using-notify|Using Notify]]
-- [[c_NotifyLanguages|Notify languages]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[c_NotifyActivities|Notify workflow activities]]

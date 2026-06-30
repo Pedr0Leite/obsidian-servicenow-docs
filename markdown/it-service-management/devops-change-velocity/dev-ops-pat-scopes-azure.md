@@ -16,7 +16,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 Scope access levels are required when using a personal access token \(PAT\) to access Azure DevOps during setup.
 
-Scope access level [[settings-mobile|settings]] are based on the capability you have configured. Set the corresponding access level for seamless functionality. For information on creating a PAT, see [Personal access token \(PAT\)](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page).
+Scope access level settings are based on the capability you have configured. Set the corresponding access level for seamless functionality. For information on creating a PAT, see [Personal access token \(PAT\)](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page).
 
 **Important:** With the access level permissions specified in the following table in Azure DevOps, and the ServiceNow DevOps extension, you can connect to Azure DevOps from ServiceNow. Your Azure DevOps admin does not have to manually configure webhooks and service connections in Azure DevOps.
 
@@ -164,6 +164,3 @@ If you create an Azure tool with custom defined access level, and you reconfigur
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

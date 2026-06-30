@@ -14,7 +14,7 @@ breadcrumb: [Create a profile, Secureworks CTP Ticket Ingestion Integration, Sec
 
 # Preview the mapped values in the security incident
 
-After you complete the [[mapping-logrhythm|mapping]] step, preview the values that you mapped in a SIR security incident. This preview step permits you to verify that you have mapped all the ticket fields that you want displayed on the security incident.
+After you complete the mapping step, preview the values that you mapped in a SIR security incident. This preview step permits you to verify that you have mapped all the ticket fields that you want displayed on the security incident.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-Preview a security incident and edit the mapping again as required to fix fields with errors or to populate any missing data. If the preview is not successfully completed, you cannot proceed to the scheduling step. Previews of SIR security incidents are not saved as actual incidents in the [[sir-landing-page|Security Incident Response]] product.
+Preview a security incident and edit the mapping again as required to fix fields with errors or to populate any missing data. If the preview is not successfully completed, you cannot proceed to the scheduling step. Previews of SIR security incidents are not saved as actual incidents in the Security Incident Response product.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ Preview a security incident and edit the mapping again as required to fix fields
 
 If no error messages are displayed, and you are satisfied with the field mapping on the security incident. Define the schedule.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

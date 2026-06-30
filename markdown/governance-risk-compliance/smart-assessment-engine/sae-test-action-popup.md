@@ -14,7 +14,7 @@ breadcrumb: [Reference, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Settings in the Test action pop-up window
 
-You can select **Test** on the [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]] to test the design of an [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessment. You then specify the settings for the test in the Test action pop-up window.
+You can select **Test** on the Trigger Smart Assessment action form to test the design of an Smart Assessment Engine assessment. You then specify the settings for the test in the Test action pop-up window.
 
 ## Test action pop-up window
 
@@ -82,8 +82,3 @@ Table records that are selected to be assessed — the assessment's scope items.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

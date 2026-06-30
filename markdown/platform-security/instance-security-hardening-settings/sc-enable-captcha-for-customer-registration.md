@@ -18,7 +18,7 @@ Reduce the risk of requests by malicious bots by enabling CAPTCHA for customer r
 
 The **sn\_customerservice.captchaEnabled** system property determines if CAPTCHA validation is enabled or disabled for customer registration on the Customer Service Management Portal.
 
-Set the system property **sn\_customerservice.captchaEnabled** to **true** to enable CAPTCHA validation. If the property isn’t on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **true**.
+Set the system property **sn\_customerservice.captchaEnabled** to **true** to enable CAPTCHA validation. If the property isn’t on the System Properties \[sys\_properties\] table, the default value is **true**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -102,7 +102,7 @@ Functional impact
 
 </td><td>
 
-Registering [[users|users]] may have a negative experience from having to pass the CAPTCHA validation.
+Registering users may have a negative experience from having to pass the CAPTCHA validation.
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

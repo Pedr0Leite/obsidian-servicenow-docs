@@ -24,7 +24,7 @@ You may want to find a relationship between linear assets to associate them with
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Linear assets**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Linear assets**.
 
 2.  Open a linear asset record for which you want to find relationships with other linear assets.
 
@@ -45,6 +45,3 @@ You may want to find a relationship between linear assets to associate them with
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

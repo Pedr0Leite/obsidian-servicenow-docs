@@ -14,7 +14,7 @@ breadcrumb: [Third-party contract review requests, Requests, Legal Simple Contra
 
 # Submit a legal request for a third-party contract review
 
-[[submit-legal-request|Submit a legal request]] for review of third-party contracts by the legal team.
+Submit a legal request for review of third-party contracts by the legal team.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Employee Center**
 2.  Select **Legal** &gt; **Browse all Legal** from the header.
 3.  Search for and open the **Third-party Contract Review** request item.
 
@@ -60,7 +60,7 @@ Description
 
 
 </td></tr></tbody>
-</table>2.  On the [[tpc-request-intake-form-fields|Third Party Contract Review form]], fill in the fields.
+</table>2.  On the Third Party Contract Review form, fill in the fields.
 
     For a description of the field values, see [Third Party Contract Review form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/tpc-request-intake-form-fields.md).
 
@@ -79,8 +79,3 @@ As a member of the legal department contract support team, you can work on the r
 
 **Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-third-party-contract.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]
-- [[employee-center-landing-page|Employee Center]]
-- [[tpc-request-intake-form-fields|Third Party Contract Review form]]

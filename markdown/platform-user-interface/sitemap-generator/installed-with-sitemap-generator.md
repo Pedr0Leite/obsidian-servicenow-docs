@@ -14,7 +14,7 @@ breadcrumb: [Activate Sitemap Generator, Sitemap Generator, Improving search eng
 
 # Components installed with Sitemap Generator
 
-Several types of components are installed with activation of the [[sitemap-generator|Sitemap Generator]] plugin, including tables and scheduled jobs.
+Several types of components are installed with activation of the Sitemap Generator plugin, including tables and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -76,6 +76,3 @@ Definitions that specify the content to include in a sitemap.
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/activate-sitemap-generator.md)
 
-## Related
-
-- [[sitemap-generator|Sitemap Generator]]

@@ -56,11 +56,11 @@ State of the action.
 
 </td></tr><tr><td>
 
-[[mco-rcl-clms|Recall campaign]]
+Recall campaign
 
 </td><td>
 
-Recall campaign details that are fetched from [[mco-recall-campaign-form|Recall campaign form]].
+Recall campaign details that are fetched from [Recall campaign form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-form.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Remedy type
 </td><td>
 
 Remedy type specifies the corrective action as to what type of correction is being performed.-   If remedy type is repair: only one corrective action charge is required.
--   If the remedy type is replacement: add the affected part. In the [[mco_corrective_action_charges_form|Corrective action charges form]], select the **Type** as "Part" and the **Main part**.
+-   If the remedy type is replacement: add the affected part. In the [Corrective action charges form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_corrective_action_charges_form.md), select the **Type** as "Part" and the **Main part**.
 
 </td></tr><tr><td>
 
@@ -93,15 +93,8 @@ Details
 
 </td><td>
 
-Brief detail about the [[mco-corrective-actions|corrective actions]].
+Brief detail about the corrective actions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
-## Related
-
-- [[mco-recall-campaign-form|Recall campaign form]]
-- [[mco_corrective_action_charges_form|Corrective action charges form]]
-- [[repair-form|Repair form]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-corrective-actions|Corrective actions]]

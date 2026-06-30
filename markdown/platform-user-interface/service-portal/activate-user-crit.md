@@ -14,7 +14,7 @@ breadcrumb: [User criteria for Service Portal, Managing portal access, Configuri
 
 # Set the user criteria for Service Portal system property
 
-After activating the [[c_ServicePortal|Service Portal]] User Criteria Support plugin, you must set the system property to true.
+After activating the Service Portal User Criteria Support plugin, you must set the system property to true.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Setting the system property activates [[user-criteria|user criteria for Service Portal]]. When the system property is set to true, any existing roles defined for a page, widget, or search source are automatically converted into user criteria records. To disable user criteria and continue using role-based permissions, set the system property to false.
+Setting the system property activates user criteria for Service Portal. When the system property is set to true, any existing roles defined for a page, widget, or search source are automatically converted into user criteria records. To disable user criteria and continue using role-based permissions, set the system property to false.
 
 ## Procedure
 
@@ -37,7 +37,3 @@ Setting the system property activates [[user-criteria|user criteria for Service 
 
 **Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[user-criteria|User criteria for Service Portal]]

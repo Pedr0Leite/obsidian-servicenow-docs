@@ -14,7 +14,7 @@ breadcrumb: [Add cause and consequence, Use, Compliance Case Management, Governa
 
 # Cause and Consequence form
 
-Use the [[cause-and-consequence-form|Cause and Consequence form]] to define the cause and consequence that a case has on your organization in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Use the Cause and Consequence form to define the cause and consequence that a case has on your organization in the GRC: Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -94,7 +94,3 @@ Record overall observations, if any.
 </td></tr></tbody>
 </table>**Parent Topic:**[Add a cause and consequence to a compliance case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/add-causes-consequences-to-compliance-case.md)
 
-## Related
-
-- [[cause-and-consequence-form|Cause and consequence form]]
-- [[compliance-case-management|compliance case management]]

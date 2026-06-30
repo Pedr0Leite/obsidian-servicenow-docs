@@ -14,7 +14,7 @@ breadcrumb: [Metric Intelligence, IT Operations Management]
 
 # Configuring Metric Intelligence
 
-Plan and configure your [[operational-metrics|Metric Intelligence]] implementation.
+Plan and configure your Metric Intelligence implementation.
 
 ## Configuration overview
 
@@ -29,6 +29,3 @@ Metric Intelligence configuration typically follows these steps:
 7.  [Configure the action level for anomaly detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-level-anomaly-detection.md).
 8.  [Define an advanced promotion rule, to determine the conditions for promoting an anomaly alert to an IT alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-advanced-promotion-engine.md).
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

@@ -50,7 +50,7 @@ Steps
 
 </td></tr><tr><td id="d44292e166">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -174,7 +174,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your Jenkins tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your Jenkins tool to DevOps Change Velocity.
 
 **Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)
 
@@ -183,7 +183,3 @@ You’ve successfully onboarded your Jenkins tool to [[devops-landing-page-new|D
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

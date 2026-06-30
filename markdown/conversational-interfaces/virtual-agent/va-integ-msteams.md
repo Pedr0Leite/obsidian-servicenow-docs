@@ -15,7 +15,7 @@ breadcrumb: [Conversational Integration with Microsoft Teams, Integrate VA with 
 
 # Integrate Virtual Agent with Microsoft Teams
 
-Enable ServiceNow [[virtual-agent-landing-page|Virtual Agent]] to integrate with the Microsoft Teams application.
+Enable ServiceNow Virtual Agent to integrate with the Microsoft Teams application.
 
 ## Before you begin
 
@@ -28,11 +28,7 @@ Override Virtual Agent integration with Microsoft Teams.
 -   **[Manage the ServiceNow Virtual Agent integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-teams.md)**  
 Manage your ServiceNow® Virtual Agent bot branding and customize the bot messages in your ServiceNow instance after integration with Microsoft Teams.
 -   **[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)**  
-The [[specialized-va-integs-msteams|specialized Virtual Agent integrations for Microsoft Teams]] support different users as per their need.
+The specialized Virtual Agent integrations for Microsoft Teams support different users as per their need.
 
 **Parent Topic:**[Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[specialized-va-integs-msteams|Specialized Virtual Agent integrations for Microsoft Teams]]

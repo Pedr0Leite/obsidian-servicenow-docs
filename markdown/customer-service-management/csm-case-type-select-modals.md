@@ -26,7 +26,7 @@ The selections that an agent can make is determined by the case type selector co
 
 -   Multi-select \(default\)
 -   single-select
--   [[csm-case-type-select-modals-product-service|Product Service select]]
+-   [Product Service select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals-product-service.md)
 
 \[Omitted image "case-type-multi-select.png"\] Alt text: Multi-select version of the case type selector with fields for selecting a category and case type
 
@@ -48,7 +48,7 @@ Select **New**
 
 </td><td>
 
-Select this action from case [[migration-lists|lists]] and case type lists such as My Cases or My Complaint Cases.
+Select this action from case lists and case type lists such as My Cases or My Complaint Cases.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Select this action from the following records:-   Interaction
 -   Child Case
 
 </td></tr></tbody>
-</table>Some [[migration-form-declarative-actions|declarative actions]] available with the [[customer-service-case-types|Customer Service Case Types]] plugin are disabled by default. For more information, see [[config-case-type-declarative-action|Configure case type declarative actions]].
+</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-case-type-declarative-action.md).
 
 ## Case type selector versions
 
@@ -94,7 +94,7 @@ With the multi-select version, the agent selects a case type and optionally sele
 
  The multi-select version of the case type selector is the default functionality.
 
- For more information, see [[manage-csm-case-types|Select a category and subtype for a case type]].
+ For more information, see [Select a category and subtype for a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-csm-case-types.md).
 
 </td></tr><tr><td>
 
@@ -102,19 +102,19 @@ Single-select
 
 </td><td>
 
-With the single-select version, the agent selects a case type from a list of available case types and creates a case with one click. The system uses configured field mapping to fill in some of the fields on the [[r_CustomerServiceCaseForm|Case form]].
+With the single-select version, the agent selects a case type from a list of available case types and creates a case with one click. The system uses configured field mapping to fill in some of the fields on the Case form.
 
  The display of the single-select version is controlled by the **sn\_csm\_case\_types.case\_type\_single\_field\_select** system property.
 
 -   When enabled, the system displays the single-select version.
 -   When disabled, the system displays the multi-select version.
 
-**Note:** The single-select version is only available in [[csm-workspaces-configure|CSM Configurable Workspace]].
+**Note:** The single-select version is only available in CSM Configurable Workspace.
 
  For more information, see the following topics:
 
--   [[enable-case-type-single-select-prop|Enable the case type single select property]]
--   [[create-case-type-single-selection|Create a configuration for case type single-select]]
+-   [Enable the case type single select property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-case-type-single-select-prop.md)
+-   [Create a configuration for case type single-select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-type-single-selection.md)
 
 </td></tr><tr><td>
 
@@ -182,24 +182,9 @@ Determines the number of the products and services displayed in the Product Serv
 -   **Location:** System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>## Configuring service definitions for [[csm-cases-case-tasks-overview|cases and case tasks]]
+</table>## Configuring service definitions for cases and case tasks
 
-The system administrator creates the [[csm-service-definitions|service definitions]] for cases and case tasks, along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
+The system administrator creates the [service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) for cases and case tasks, along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
 
-For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [[csm-service-definitions-configure|Configuring service definitions]].
+For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md).
 
-## Related
-
-- [[csm-case-type-select-modals-product-service|Product Service select version of the case type selector]]
-- [[config-case-type-declarative-action|Configure case type declarative actions]]
-- [[manage-csm-case-types|Manage customer service case types]]
-- [[enable-case-type-single-select-prop|Enable the case type single select property]]
-- [[create-case-type-single-selection|Create a configuration for case type single-select]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-service-definitions-configure|Configuring service definitions]]
-- [[migration-lists|Lists]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[customer-service-case-types|Customer service case types]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]

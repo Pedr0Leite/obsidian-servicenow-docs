@@ -14,7 +14,7 @@ breadcrumb: [Use self-served contract request, Use, Contract Management Pro, Leg
 
 # Reviewing and finalizing a self-serve contract document
 
-[[finalize-contract-document-nda|Review and finalize the contract document]] generated after the self-serve contract request is submitted, then send it for signature.
+Review and finalize the contract document generated after the self-serve contract request is submitted, then send it for signature.
 
 After submitting a self-serve contract request, a contract document is generated based on the contract template and contract template rules. A workflow for reviewing and finalizing a self-serve contract document might progress as follows:
 
@@ -36,6 +36,3 @@ As a contract fulfiller, review the change request, update the contract document
 
 **Parent Topic:**[Use self-served contract request]()
 
-## Related
-
-- [[finalize-contract-document-nda|Review and finalize the contract document]]

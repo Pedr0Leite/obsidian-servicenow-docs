@@ -22,7 +22,7 @@ When a metric is collected, the platform runs the following sequence to associat
 
 1.  The connector pulls metric data from the vendor and stores it in the metric base \(Clotho\).
 2.  If the metric is not yet bound to a CI, the metric base framework automatically creates an event to record the request for a binding.
-3.  An event field mapping rule fires on the new event. [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] ships pre-configured event field mapping rules for each supported connector source.
+3.  An event field mapping rule fires on the new event. Telecommunications Service Operations Management ships pre-configured event field mapping rules for each supported connector source.
 4.  The rule delegates to a scripted extension that resolves the appropriate CI for the event. The script updates the `cmdb_ci` field on the event with the resolved CI.
 5.  The binding appears in the Metric to CI mappings table. From that point on, all subsequent metric data for that source-resource pair is associated with the bound CI directly, without creating another event.
 
@@ -69,6 +69,3 @@ For the procedure, see [Override default metric-to-CI binding](https://raw.githu
 
 [Resource binding](https://www.servicenow.com/docs/r/it-operations-management/metric-intelligence/resource-binding.html)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

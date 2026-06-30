@@ -14,7 +14,7 @@ breadcrumb: [Reverse Whois integration, Security Incident Response integrations,
 
 # Initiate the lookup for Reverse Whois
 
-Initiate domain lookups using search terms in [[c_Observables|observables]] that you manually attach to a security incident record.
+Initiate domain lookups using search terms in observables that you manually attach to a security incident record.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Verify the lookup results on the security incident. See [Verify expected results
 
 **Next topic:**[Verify expected results for Reverse Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md)
 
-## Related
-
-- [[c_Observables|Observables]]

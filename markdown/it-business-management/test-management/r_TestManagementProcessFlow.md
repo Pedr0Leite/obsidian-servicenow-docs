@@ -18,25 +18,17 @@ The tasks associated with manual software testing can be divided into several st
 
 The test manager and the tester are involved in the following activities in a manual testing process for a product or feature:
 
--   Build the test repository by creating [[c_TestSuites|test suites]], [[c_TestCases|test cases]], and [[c_Tests|tests]].
--   [[t_CreateATestPlan|Create a test plan]] to test a specific product or feature
+-   Build the test repository by creating test suites, test cases, and tests.
+-   Create a test plan to test a specific product or feature
 -   Adds test cases to the test plan.
 -   Assign a tester to each test case.
 -   If required, define a test environment.
 -   Perform tests for the assigned test cases.
 -   Record the results and update the status of each test.
 -   Update the status of test cases.
--   Monitor the progress of the [[c_TestPlans|test plans]], test cases, and tests.
+-   Monitor the progress of the test plans, test cases, and tests.
 
 Stakeholders review the test results and any open issues to decide on the sign-off of the test plan.
 
-Except for completing the [[c_TestPlanSignOff|test plan sign-off]] form at the end, there is no required order for performing these testing tasks. Each task can be independently performed.
+Except for completing the test plan sign-off form at the end, there is no required order for performing these testing tasks. Each task can be independently performed.
 
-## Related
-
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]
-- [[t_CreateATestPlan|Create a test plan]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestPlanSignOff|Test plan sign-off]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The Service Model Foundation plugins add the following roles to [[c_CustomerServiceManagement|Customer Service Management]].
+The Service Model Foundation plugins add the following roles to Customer Service Management.
 
 <table id="table_tls_5tk_2mb"><thead><tr><th>
 
@@ -145,7 +145,7 @@ Relationship agent\[sn\_customerservice.relationship\_agent\]
 
 </td><td>
 
-[[manage-cases|Manage cases]] for the accounts, contacts, consumers, and households that the agent has relationships with. It includes the following relationships that are provided with the Service Model Foundation plugins:
+Manage cases for the accounts, contacts, consumers, and households that the agent has relationships with. It includes the following relationships that are provided with the Service Model Foundation plugins:
 
 -   Account Manager: Creates a relationship between an internal user and an account.
 -   Relationship Manager: Creates a relationship between an internal user and a consumer or a household.
@@ -194,8 +194,8 @@ Location support agent\[sn\_bus\_loc.svc\_location\_support\_agent\]
 
 A location support agent is a service organization member who acts as a fulfiller and can perform the following tasks:-   View all CSM entities.
 -   Create and resolve cases.
--   Access the [[csm-workspaces-configure|CSM Configurable Workspace]].
--   Use business location 360 to view details of internal and external business locations that they support, [[sold-product|sold products]], location members, [[install-base-item|install base items]], and available services.
+-   Access the CSM Configurable Workspace.
+-   Use business location 360 to view details of internal and external business locations that they support, sold products, location members, install base items, and available services.
 
 **Note:** The role of location support agent isn’t supported for external business locations since case fulfillment isn't enabled for these locations.
 
@@ -205,7 +205,7 @@ A location support agent is a service organization member who acts as a fulfille
 -   sn\_csm\_case\_types.service\_definition\_viewer
 
 </td></tr></tbody>
-</table>**Note:** If [[customer-service-contributor-users|contributor users]], like relationship contributors, account contributors, or consumer contributors associated with business locations, have a location contributor \(sn\_customerservice.service\_organization\_contributor\) role, they can access the business locations.
+</table>**Note:** If contributor users, like relationship contributors, account contributors, or consumer contributors associated with business locations, have a location contributor \(sn\_customerservice.service\_organization\_contributor\) role, they can access the business locations.
 
 ## Procedure
 
@@ -213,11 +213,4 @@ A location support agent is a service organization member who acts as a fulfille
 
 -   You can also assign roles to users using the ServiceNow AI Platform user administration feature: [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[manage-cases|Manage cases]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[customer-service-contributor-users|Contributor users]]

@@ -14,9 +14,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # OpenStack extension classes
 
-The [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates classes for OpenStack.
+The CMDB CI Class Models app adds or updates classes for OpenStack.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -49,7 +49,7 @@ CMDB CI Class Models: Release 1.8.0 adds the following columns to the respective
 |Added columns|Description|
 |-------------|-----------|
 |type|The Service type, which describes the API implemented by the Service. Possible values: Compute, ec2, identity, image, network, or volume.|
-|enabled|Defines if the service and its endpoints appear in the [[service-catalog|Service catalog]] \(true/false\).|
+|enabled|Defines if the service and its endpoints appear in the Service catalog \(true/false\).|
 
 <table id="table_ob4_kyf_pkb"><thead><tr><th>
 
@@ -87,8 +87,3 @@ Defines if the Service and its endpoints appear in the Service catalog \(true/fa
 
 [CMDB schema model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_IdentificationRules|Identification rules]]
-- [[service-catalog|Service Catalog]]

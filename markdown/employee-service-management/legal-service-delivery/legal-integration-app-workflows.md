@@ -14,9 +14,9 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 # Workflows in Legal Service Delivery
 
-The [[legal-request-management-landing-page|Legal Request Management]] application installs automated workflows for electronic signature and external storage. These workflows enable support for multiple integrations and accounts at the same time.
+The Legal Request Management application installs automated workflows for electronic signature and external storage. These workflows enable support for multiple integrations and accounts at the same time.
 
-These workflows available in [[legal-management-overview|Legal Service Delivery]] are built using [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
+These workflows available in Legal Service Delivery are built using [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
 
 **Note:** All workflows for Legal Service Delivery applications are read-only by default.
 
@@ -32,7 +32,7 @@ The following predefined workflows for electronic signing of documents are avail
     -   Electronic Signature Core – AdobeSign
 -   **NDA Signature workflows**
 
-    The following electronic signature workflows are installed with [[legal-simple-contracts-landing-page|Legal Simple Contracts]] and are used for sending the Non-disclosure Agreement \(NDA\) documents for electronic signature.
+    The following electronic signature workflows are installed with Legal Simple Contracts and are used for sending the Non-disclosure Agreement \(NDA\) documents for electronic signature.
 
     -   NDA Electronic Signature \(Dynamic Flow\)
     -   NDA Electronic Signature - DocuSign
@@ -40,7 +40,7 @@ The following predefined workflows for electronic signing of documents are avail
 
 ## External storage workflows
 
-The Legal External Storage Core flow for storing documents in external storage systems is installed with Legal Request Management. The following [[flows-ukg|subflows]] are installed within the core workflow for each external storage system integration.
+The Legal External Storage Core flow for storing documents in external storage systems is installed with Legal Request Management. The following subflows are installed within the core workflow for each external storage system integration.
 
 -   Legal External Storage Core - Microsoft OneDrive
 -   Legal External Storage Core – Google Drive
@@ -52,9 +52,3 @@ The Legal External Storage Core flow for storing documents in external storage s
 
 The Legal Contracts External Storage Flow is the core external storage workflow installed with Legal Simple Contracts.
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[flows-ukg|Subflows]]

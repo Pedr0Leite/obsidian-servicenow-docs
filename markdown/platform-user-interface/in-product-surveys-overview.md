@@ -47,8 +47,5 @@ Survey content shown is an example. Actual surveys reflect the ServiceNow produc
 
 The survey asks users to rate their experience on a 5-star scale and optionally provide additional feedback.
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]

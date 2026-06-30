@@ -14,7 +14,7 @@ breadcrumb: [Applications, DevOps Change Velocity, IT Service Management]
 
 # Create an application - Workspace
 
-Create [[dex-workspace-application-tab|applications]] using the DevOps Change Workspace and associate pipelines, plans, and repositories to it.
+Create applications using the DevOps Change Workspace and associate pipelines, plans, and repositories to it.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ New application
 
 -   The system generates a new DevOps application, a new application model, and a new SDLC component \(SDLC-C\) in the CMDB.
 -   The SDLC-C is assigned the same name as the new application.
--   If the [[devops-config-landing-page|DevOps Config]] application is installed, then DevOps associates the application to the CDM application.
+-   If the DevOps Config application is installed, then DevOps associates the application to the CDM application.
 
 
 </td></tr><tr><td>
@@ -148,7 +148,4 @@ The system generates a new DevOps application from that application model.
 
     If you skipped associating objects to the application or if you want to associate other objects, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]

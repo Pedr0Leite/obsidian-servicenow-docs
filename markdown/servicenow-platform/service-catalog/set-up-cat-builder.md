@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  To direct users from the [[catalog-builder|Catalog Builder]] homepage to your organization-specific catalog building process documentation, perform the following steps.
+1.  To direct users from the Catalog Builder homepage to your organization-specific catalog building process documentation, perform the following steps.
 
     1.  Navigate to sys\_properties.list.
 
@@ -151,6 +151,3 @@ Add a step, section, or question to a catalog item wizard so catalog item editor
 
 **Parent Topic:**[Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]

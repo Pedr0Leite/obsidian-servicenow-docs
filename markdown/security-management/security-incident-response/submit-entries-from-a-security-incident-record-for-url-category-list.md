@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Submit observables from a security incident record to a URL category list
 
-Submit [[c_Observables|observables]] that are attached to a security incident record to a configured URL category list by using the allow or block request. Adding observables to the allow or block list for security scans allows users to review content from these URLs and gain access to trusted content.
+Submit observables that are attached to a security incident record to a configured URL category list by using the allow or block request. Adding observables to the allow or block list for security scans allows users to review content from these URLs and gain access to trusted content.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ You submit observable entries by using the allow or block request action from th
 
 9.  In the Zscaler URL Category List Entries page, select the observable to view the record.
 
-## Related
 
-- [[c_Observables|Observables]]

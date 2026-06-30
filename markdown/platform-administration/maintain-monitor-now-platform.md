@@ -27,9 +27,9 @@ Keep your instance running smoothly, improve performance, and find issues before
 [System Diagnostics\[Omitted image "sys\_diag.png"\] Alt text: Monitor health and performance of your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/sys-diag.md)
 
 </td></tr></tbody>
-</table>## [[hs-landing-page|Instance Scan]]
+</table>## Instance Scan
 
-Get detailed analysis of your instance [[clone-configurations-tab|configurations]], and stop potential system health issues before they arise. Use ServiceNow's Instance Scan any time and ensure system stability, whether you are developing, releasing, or upgrading your application. Schedule, execute, and track scans from single-point to full-suite tests, and review the data they provide with dashboards.
+Get detailed analysis of your instance configurations, and stop potential system health issues before they arise. Use ServiceNow's Instance Scan any time and ensure system stability, whether you are developing, releasing, or upgrading your application. Schedule, execute, and track scans from single-point to full-suite tests, and review the data they provide with dashboards.
 
 See [Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-landing-page.md).
 
@@ -41,12 +41,7 @@ See [System Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/
 
 ## Platform performance
 
-Keep your system optimized and running smoothly. Use diagnostics to track processing and response times, network speeds and behaviors, and browser settings. Monitor [[platform-performance-landing|platform performance]], set quotas and control system bandwidth to ensure stable operations for users, set up test modules, and more.
+Keep your system optimized and running smoothly. Use diagnostics to track processing and response times, network speeds and behaviors, and browser settings. Monitor platform performance, set quotas and control system bandwidth to ensure stable operations for users, set up test modules, and more.
 
 See [Platform performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-landing.md).
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[clone-configurations-tab|Configurations]]
-- [[platform-performance-landing|Platform performance]]

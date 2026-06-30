@@ -14,7 +14,7 @@ breadcrumb: [Setting and tracking arrivals at the workplace, Workplace Core, Saf
 
 # Schedule your arrival time at a workplace location
 
-Schedule your arrival in [[workplace-safety-mgmt-hr|Workplace Core]] at locations at your workplace so you can prevent long lines and safely enter the location.
+Schedule your arrival in Workplace Core at locations at your workplace so you can prevent long lines and safely enter the location.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 **Note:**
 
-In Workplace Core\[var.workplace-safety-management\] \[sn\_wsd\_core\] version 2.19.0 and above, the navigation path for [[workplace-services|Workplace Services]] Portal is not available in the application search context menu **All** &gt; **Workplace Core**. The Workplace Services Portal is currently being deprecated. You can access the Workplace Services Portal capabilities from the [[employee-center-landing-page|Employee Center]] portal home page **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**. For more information, [[workplace-services-on-employee-center|Workplace services on the Employee Center portal]]\[workplace-services-on-employee-center\].
+In Workplace Core\[var.workplace-safety-management\] \[sn\_wsd\_core\] version 2.19.0 and above, the navigation path for Workplace Services Portal is not available in the application search context menu **All** &gt; **Workplace Core**. The Workplace Services Portal is currently being deprecated. You can access the Workplace Services Portal capabilities from the Employee Center portal home page **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**. For more information, Workplace services on the Employee Center portal\[workplace-services-on-employee-center\].
 
 ## Procedure
 
@@ -53,16 +53,9 @@ The arrival request is created. The web page or your mobile screen is refreshed 
 You can check the details of your arrival schedule anytime.
 
 1.  Depending on your platform, do one of the following to view your requests:
-    -   On the [[workplace-services-portal-hr|Workplace Service Portal]], go to the **Requests** tab to view your requests and reservations.
+    -   On the Workplace Service Portal, go to the **Requests** tab to view your requests and reservations.
     -   On the Now Mobile navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 2.  If you want to cancel your arrival, select the arrival request and select **Cancel arrival**.
 
 **Parent Topic:**[Setting and tracking arrivals at the workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/scheduling-employees-arrival-to-the-workplace.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services-on-employee-center|Workplace services on the Employee Center portal]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

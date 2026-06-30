@@ -20,8 +20,5 @@ As a user with the admin role, you can create a record producer to define the fi
 
 By default, the **Enter personal Info** record producer is available for submitting key personal information. You can use the default record producer to add more fields or create your own record producer. For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RecordProducer.md).
 
-**Note:** When the [[hcls-vam|Vaccine Administration Management]] application is installed, a different record producer is available for submitting personal information for vaccines. For more information, see [Setting up the process for submitting personal information for vaccines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-config.-personal-info.md).
+**Note:** When the Vaccine Administration Management application is installed, a different record producer is available for submitting personal information for vaccines. For more information, see [Setting up the process for submitting personal information for vaccines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-config.-personal-info.md).
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

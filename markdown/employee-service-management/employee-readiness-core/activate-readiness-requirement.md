@@ -22,13 +22,13 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-Use [[health-safety-overview|health and safety]] requirements to define the requirements that employees must fulfill before they can return to the workplace, safely travel to another site , or that visitors must fulfill before entering the workplace. [[employee-readiness-core|Employee Readiness Core]] includes pre-built requirements. For more information, see [Included health and safety requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/included-health-safety-requirements.md).
+Use health and safety requirements to define the requirements that employees must fulfill before they can return to the workplace, safely travel to another site , or that visitors must fulfill before entering the workplace. Employee Readiness Core includes pre-built requirements. For more information, see [Included health and safety requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/included-health-safety-requirements.md).
 
 Requirements are not active by default. A requirement must be activated before you can track whether employeesor visitors have fulfilled the requirement.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Health and Safety Requirements**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Health and Safety Requirements**.
 
 2.  Click the requirement that you want to activate.
 
@@ -36,7 +36,7 @@ Requirements are not active by default. A requirement must be activated before y
 
 3.  Click **Activate**.
 
-    After the requirement is activated, health and safety user records are created for employeesor visitors who have [[activity-lxp|activity]] for the requirement. Health and safety user records are also created for employeesor visitors who have activity for the requirement before it was activated.
+    After the requirement is activated, health and safety user records are created for employeesor visitors who have activity for the requirement. Health and safety user records are also created for employeesor visitors who have activity for the requirement before it was activated.
 
 
 ## What to do next
@@ -47,9 +47,3 @@ You can also look up the requirements status for individual employeesor visitors
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[activity-lxp|Activity]]

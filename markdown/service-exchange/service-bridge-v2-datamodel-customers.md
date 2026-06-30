@@ -14,7 +14,7 @@ breadcrumb: [Data model, Reference, Service Exchange]
 
 # Service Exchange for Consumers data model
 
-The Service Exchange for Consumers data model provides insight into how the tables that are used in the [[service-bridge-consumers-landing-page|Service Exchange for Consumers]] application relate to each other.
+The Service Exchange for Consumers data model provides insight into how the tables that are used in the Service Exchange for Consumers application relate to each other.
 
 The Service Exchange for Consumers data model uses a combination of the following types of tables to store data:
 
@@ -22,7 +22,7 @@ The Service Exchange for Consumers data model uses a combination of the followin
 -   Customer Service Management application tables.
 -   ServiceNow AI Platform standard tables.
 
-The following table lists the Access Control Rights \(ACR\) for specific [[tmt-service-bridge-both-landing-page|Service Exchange]] for Consumer tables.
+The following table lists the Access Control Rights \(ACR\) for specific Service Exchange for Consumer tables.
 
 <table id="table_umg_zc4_gzb"><thead><tr><th>
 
@@ -492,8 +492,3 @@ admin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-bridge-consumers-landing-page|Service Exchange for Consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

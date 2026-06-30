@@ -53,7 +53,7 @@ Category of the selected workflow automation. The following categories are provi
 -   **Datacenter Automation**
 -   **IT Service Management**
 -   **Other**
- **Note:** To [[pace-create-category|create a category]], open the dictionary record for the Automation Entry Form \[automation\_entry\_form\] table and add an option to the choice list.
+ **Note:** To create a category, open the dictionary record for the Automation Entry Form \[automation\_entry\_form\] table and add an option to the choice list.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Item
 
 </td><td>
 
-Unique name for the specific task within the category. This value represents the work to which the labor rate card applies, such as **[[password-reset-landing-page|Password Reset]]**.
+Unique name for the specific task within the category. This value represents the work to which the labor rate card applies, such as **Password Reset**.
 
 </td></tr><tr><td>
 
@@ -139,7 +139,3 @@ Actual average number of times this task is performed manually per month.
 
 **Parent Topic:**[Orchestration ROI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationROI.md)
 
-## Related
-
-- [[pace-create-category|Create a category]]
-- [[password-reset-landing-page|Password Reset]]

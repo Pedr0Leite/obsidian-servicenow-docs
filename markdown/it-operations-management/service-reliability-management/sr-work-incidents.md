@@ -14,9 +14,9 @@ breadcrumb: [Working with SRM reliability tasks, Using Service Reliability Manag
 
 # Working with incidents in SRM
 
-Plan ahead of service disruptions and have SRM send notifications and create status when incidents occur. Distractions are minimized and teams stay focused on [[ccg-remediation|remediation]].
+Plan ahead of service disruptions and have SRM send notifications and create status when incidents occur. Distractions are minimized and teams stay focused on remediation.
 
-You can manually [[create-incidents|create incidents]] within SRM or create an error budget action to do so. See [Manually create an SRM incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-incident.md) or [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md) for more information.
+You can manually create incidents within SRM or create an error budget action to do so. See [Manually create an SRM incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-incident.md) or [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md) for more information.
 
 -   [Manual creation from an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/open-incident.md).
 -   [Manual creation from the incident view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-incident.md).
@@ -80,7 +80,3 @@ Reopen a closed incident if you think the issue is not yet resolved.
 
 **Parent Topic:**[Working with SRM reliability tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-reliability-tasks.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[create-incidents|Create incidents]]

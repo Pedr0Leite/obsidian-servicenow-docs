@@ -142,7 +142,7 @@ Read, Write, Delete
 
 </td></tr><tr><td>
 
-Delegates through [[granular-delegation|granular delegation]]
+Delegates through granular delegation
 
 </td><td>
 
@@ -159,7 +159,7 @@ User is delegated
 
     **Note:** Requesters can delete only those documents from the request that they've attached.
 
--   The legal fulfiller assigned to the legal request can access documents from the **Documents** tab of the request record in the [[legal-counsel-center-landing|Legal Counsel Center]].
+-   The legal fulfiller assigned to the legal request can access documents from the **Documents** tab of the request record in the Legal Counsel Center.
 -   Users added to the matter can request on-demand access to documents if they need access before the scheduled job is run.
 -   The legal fulfiller can revoke a user's access to documents.
 -   Ad hoc approvers lose document access after they approve or reject the requested item.
@@ -223,7 +223,3 @@ Role required: sn\_lg\_ops.request\_admin
 
 The document access of the selected users is removed, and they're also removed from the list. The user will no longer be able to view the request's documents.
 
-## Related
-
-- [[granular-delegation|Granular Delegation]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

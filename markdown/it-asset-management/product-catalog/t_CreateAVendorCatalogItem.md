@@ -14,7 +14,7 @@ breadcrumb: [Vendor catalog items, Product Catalog, IT Asset Management]
 
 # Create a vendor catalog item
 
-Create a vendor catalog item to associate product [[c_Models|models]] with a vendor.
+Create a vendor catalog item to associate product models with a vendor.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Catalog Definition** &gt; **Vendor Items**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Catalog Definition** &gt; **Vendor Items**.
 
 2.  Click **New**.
 
@@ -69,7 +69,3 @@ After you create a software item for the vendor catalog, publish it to the softw
 
 [View a vendor list]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

@@ -26,7 +26,7 @@ The Default overrides related list is available only if you select **Default ove
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_IncidentAlertManagement|Incident Communications Management]]** &gt; **Contact Administration** &gt; **Contact Definitions**.
+1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Contact Administration** &gt; **Contact Definitions**.
 
     **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-ui16-module-links-sow.md).
 
@@ -97,6 +97,3 @@ The conditions defining whether the default override values are to be applied. I
 
 [Add a user as a contact]()
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

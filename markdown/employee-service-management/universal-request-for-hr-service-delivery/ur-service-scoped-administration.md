@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Register application administration enabled scoped application
 
-If your application is an application admin enabled scoped application, register the application with [[ur-landing-limitedaccess|Universal Request]] \(UR\) to make your application’s service and service set data available for the Universal Request application to work.
+If your application is an application admin enabled scoped application, register the application with Universal Request \(UR\) to make your application’s service and service set data available for the Universal Request application to work.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ After granting access, define the **sn\_uni\_req.min\_admin\_count** property in
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

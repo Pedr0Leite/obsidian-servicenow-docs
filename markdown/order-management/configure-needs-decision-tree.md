@@ -32,7 +32,7 @@ Role required: sn\_prd\_pm.product\_catalog\_manager, sn\_prd\_pm.product\_catal
 
 3.  Select **New**.
 
-    On the form, fill in the [[fields|fields]].
+    On the form, fill in the fields.
 
     |FIeld|Description|
     |-----|-----------|
@@ -49,18 +49,12 @@ Role required: sn\_prd\_pm.product\_catalog\_manager, sn\_prd\_pm.product\_catal
 
 ## What to do next
 
-[[build-needs-decision-tree|Build a needs decision tree]] using Decision Tree Builder.
+[Build a needs decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/build-needs-decision-tree.md) using Decision Tree Builder.
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[build-needs-decision-tree|Build a needs decision tree]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

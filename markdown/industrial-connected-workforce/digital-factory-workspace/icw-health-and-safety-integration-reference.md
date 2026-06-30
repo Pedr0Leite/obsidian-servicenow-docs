@@ -17,12 +17,9 @@ breadcrumb: [Reference, Digital Factory Workspace, Industrial Connected Workforc
 Reference topics provide additional information about ICW Health and Safety Integration.
 
 -   **[Safety Incident form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-safety-incident-form.md)**  
-The following table describes the field values for the [[icw-safety-incident-form|safety incident form]].
+The following table describes the field values for the safety incident form.
 -   **[Components installed with ICW integration with Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/components-installed-with-icw-health-and-safety-integration.md)**  
 Components are installed with activation of the application. This includes tables, user roles, and scheduled jobs.
 
 **Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 
-## Related
-
-- [[icw-safety-incident-form|Safety Incident form]]

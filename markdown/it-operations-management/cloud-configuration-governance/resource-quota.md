@@ -26,7 +26,7 @@ To see the quota you have consumed for provisioning resources compared to the ma
 -   Storage Volume Size
 -   Network Count
 
-**Note:** The Stack Count is a default base system quota limit available beginning with the Australia release. It is displayed on the Overview page if your [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] administrator has set a Stack Count quota for you or your user group.
+**Note:** The Stack Count is a default base system quota limit available beginning with the Australia release. It is displayed on the Overview page if your Cloud Provisioning and Governance administrator has set a Stack Count quota for you or your user group.
 
 The Quota section on the Overview page displays the quota limits in a graph.
 
@@ -44,6 +44,3 @@ The quota limit for a resource type appears as either a sum or count. For exampl
 
 You can also view quota limits when launching stacks. For more information, see [Launch a stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-launch-stack.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

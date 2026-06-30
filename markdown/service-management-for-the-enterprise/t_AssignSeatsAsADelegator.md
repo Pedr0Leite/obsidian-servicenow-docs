@@ -41,8 +41,5 @@ Role required: admin
     \[Omitted image "UsersAssigned.png"\] Alt text: In this figure, the users have all been moved to the Assigned destination section of the Moves tab.
 
 
-**Parent Topic:**[[r_EnterMoveScenarios|Enterprise move scenarios]]
+**Parent Topic:**[Enterprise move scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveScenarios.md)
 
-## Related
-
-- [[r_EnterMoveScenarios|Enterprise move scenarios]]

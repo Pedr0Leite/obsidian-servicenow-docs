@@ -14,17 +14,17 @@ breadcrumb: [About Rules Engine in TISC, Administer, Threat Intelligence Securit
 
 # Defining Expiration Rules
 
-Define expiration rules for various [[c_Observables|observables]] or a combination of various source objects or [[indicator|indicators]] source that are created in TISC.
+Define expiration rules for various observables or a combination of various source objects or indicators source that are created in TISC.
 
 ## Before you begin
 
-Every source that is created in the application has an expiry period. The data feeds use the techniques such as time-based expiration period to boost the data ingestion. In TISC, the expiration rules defines the expiration time for a particular set of [[data-sources|data sources]] or set of types of objects or types of observables.
+Every source that is created in the application has an expiry period. The data feeds use the techniques such as time-based expiration period to boost the data ingestion. In TISC, the expiration rules defines the expiration time for a particular set of data sources or set of types of objects or types of observables.
 
 Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Expiration Rules**.
 
@@ -111,9 +111,3 @@ Select the type of records.
 -   **[Expiration rules for source records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-expiration-source.md)**  
 Expiration rules are basically helpful to set the expiration time for the source records. The aggregate record inherits the highest expiration time from its corresponding sources records.
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[data-sources|Data Sources]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

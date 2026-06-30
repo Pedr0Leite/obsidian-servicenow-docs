@@ -15,7 +15,7 @@ breadcrumb: [Explore, Portfolio Planning in Strategic Planning Workspace, Strate
 
 # Prioritization in Strategic Planning
 
-[[prioritize-work-portfolio-planning-workspace|Prioritize work]] that is relevant for your portfolio using a centralized workspace in [[alignment-planner-workspace-landing-page|Strategic Planning]]. Review and determine the right work to invest in.
+Prioritize work that is relevant for your portfolio using a centralized workspace in Strategic Planning. Review and determine the right work to invest in.
 
 Before scheduling the roadmap for your portfolio plan, it’s helpful to first know the existing and upcoming workload. Having all the work items listed at one place helps you understand the overall work pipeline. The consolidated view enables smoother backlog grooming so that you easily review and decide which items must be prioritized.
 
@@ -25,7 +25,7 @@ Using the Prioritization tab in the workspace, you can review all the new and ex
 
     Planning items are listed in a grid format. You can stack-rank the items, group them by a desired attribute, and sort them based on their priority by using the drag functionality.
 
-    \[Omitted image "prioritization-rank-group.png"\] Alt text: Prioritization list view in Strategic Planning workspace and [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace
+    \[Omitted image "prioritization-rank-group.png"\] Alt text: Prioritization list view in Strategic Planning workspace and Portfolio Planning Workspace
 
 
 Alternatively, you can also use the Kanban or Hierarchy tab to review and manage your backlog.
@@ -47,8 +47,3 @@ To get started with managing your work pipeline in Strategic Planning, see [Prio
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -16,16 +16,16 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 The following diagram shows the tables and their relationships that comprise the Supplier Lifecycle Operations data model.
 
-\[Omitted image "slo-data-model.png"\] Alt text: This figure illustrates the data model diagram for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]].
+\[Omitted image "slo-data-model.png"\] Alt text: This figure illustrates the data model diagram for Supplier Lifecycle Operations.
 
-**Note:** The table [[supplier-contact|Supplier Contact]] \[sn\_slm\_contact\_m2m\_supplier\] is added after the Xanadu December 2024 release.
+**Note:** The table Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] is added after the Xanadu December 2024 release.
 
 **Parent Topic:**[Supplier Lifecycle Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Create New [[supplier|Supplier]] Case form]()
+[Create New Supplier Case form]()
 
 [Create new task form]()
 
@@ -49,8 +49,3 @@ The following diagram shows the tables and their relationships that comprise the
 
 [Supplier Lifecycle Operations glossary]()
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

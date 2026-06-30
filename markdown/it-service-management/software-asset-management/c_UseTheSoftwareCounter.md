@@ -14,7 +14,7 @@ breadcrumb: [Software license reconciliation counters for the legacy Software As
 
 # Use a software counter for the legacy Software Asset Management plugin
 
-Use a software counter for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to count the licenses for a specific version of software and receive summary or detailed results.
+Use a software counter for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to count the licenses for a specific version of software and receive summary or detailed results.
 
 When a software counter runs for the first time, it can take several minutes to process records. The license counts are cached so that on subsequent runs, the counter processes only changed records, both those from Discovery or altered entitlements, making it faster. The Software Counter form contains check boxes to enable faster counting through the use of quick counters. For more information on using quick counters, see [Setting Up Quick Counters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetUpQuickCounters.md).
 
@@ -39,6 +39,3 @@ The Software Counters list is color coded:
 
 **Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

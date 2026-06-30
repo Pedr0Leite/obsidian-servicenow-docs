@@ -34,13 +34,13 @@ In the base system, certification\_admin users have limited system rights and do
 
 Perform these tasks in this order to certify configuration items with Architecture Compliance.
 
-1.  [[t_CreatingFilters|Create a filter]].
+1.  Create a filter.
 
     Create a filter that defines a subset of configuration items to certify. You can create multiple versions of a filter, and then activate the version you want to use for compliance checking. Architecture compliance only supports filters on the Configuration Item \[cmdb\_ci\] table and all tables that extend it.
 
 2.  Create a template.
 
-    Create template conditions using values from [[reference|reference]] fields in a related list or conditions that define the expected physical attributes of each CI in an audit. The template uses a filter to determine which configuration items the system examines based on these conditions.
+    Create template conditions using values from reference fields in a related list or conditions that define the expected physical attributes of each CI in an audit. The template uses a filter to determine which configuration items the system examines based on these conditions.
 
 3.  Create and run an audit.
 
@@ -54,7 +54,4 @@ Perform these tasks in this order to certify configuration items with Architectu
 
     Correct the discrepancies the audit found by completing the follow-on tasks created by the system.
 
-## Related
 
-- [[t_CreatingFilters|Create a filter]]
-- [[reference|Reference]]

@@ -16,61 +16,50 @@ Administrators can configure several settings that control form functionality.
 
 -   **Form personalization**
 
-    Control how users configure forms. You can also change the role that is necessary to configure a form and disable the form [[clone-configurations-tab|configurations]] that specific users already made.
+    Control how users configure forms. You can also change the role that is necessary to configure a form and disable the form configurations that specific users already made.
 
-    See [[c_FormPersonalizationAdmin|Administering form personalization]] for instructions.
+    See [Administering form personalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormPersonalizationAdmin.md) for instructions.
 
 -   **Form annotations**
 
     Choose the types of annotations that are available on forms and save localized versions of form annotations.
 
-    See [[c_FormAnnotation|Administering form annotations]] for instructions.
+    See [Administering form annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormAnnotation.md) for instructions.
 
 -   **Attachments**
 
     Control several aspects of form attachments, such as attachment size, allowed file extensions, and the roles that are allowed to attach files.
 
-    See [[r_AdministeringAttachments|Administering attachments]] for instructions.
+    See [Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md) for instructions.
 
 -   **Formatters**
 
-    Create and edit formatters, such as the [[c_ActivityFormatter|activity formatter]], which displays information on the form that is not a field in the record. You can also configure formatter settings such as the maximum number of formatter entries.
+    Create and edit formatters, such as the activity formatter, which displays information on the form that is not a field in the record. You can also configure formatter settings such as the maximum number of formatter entries.
 
-    See [[c_Formatters|Using formatters]] for more information.
+    See [Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md) for more information.
 
 -   **Form templates**
 
     Create templates that automatically populate form fields based on settings you configure.
 
-    See [[c_Templates|Using form templates]] for more information.
+    See [Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md) for more information.
 
 -   **UI actions**
 
     Add buttons, links, and context menu items on forms to the UI more interactive, customizable, and specific to user activities.
 
-    See [[c_UIActions|Defining UI actions]] for more information.
+    See [Defining UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md) for more information.
 
 -   **UI policies**
 
     Configure the policies that dynamically change information on a form.
 
-    See [[t_CreateAUIPolicy|Create a UI policy]] for more information.
+    See [Create a UI policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUIPolicy.md) for more information.
 
 -   **Other advanced options**
 
     Configure advanced form features, such as form focus, form splits, and derived fields.
 
-    See [[advanced-form-administration|Advanced form configuration]] for instructions.
+    See [Advanced form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-form-administration.md) for instructions.
 
-## Related
 
-- [[c_FormPersonalizationAdmin|Administering form personalization]]
-- [[c_FormAnnotation|Administering form annotations]]
-- [[r_AdministeringAttachments|Administering attachments]]
-- [[c_Formatters|Using formatters]]
-- [[c_Templates|Using form templates]]
-- [[c_UIActions|Defining UI actions]]
-- [[t_CreateAUIPolicy|Using UI policies]]
-- [[advanced-form-administration|Advanced form configuration]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_ActivityFormatter|Activity formatter]]

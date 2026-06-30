@@ -14,7 +14,7 @@ breadcrumb: [Working with Space Planning, Use, Workplace Central, Workplace Serv
 
 # Manage spaces using Space Planning
 
-As a space planner, manage the spaces, their assignments, and their allocations using the [[space-planning|Space Planning]] module.
+As a space planner, manage the spaces, their assignments, and their allocations using the Space Planning module.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
 2.  On the side navigation, select the **Space Planning** module.
 
@@ -51,9 +51,9 @@ Steps
 </td><td>
 
 1.  On the Spaces list, select **New**.
-2.  On the Create New [[space-new-record-form|Space form]], fill in the fields based on your requirement.
+2.  On the Create New Space form, fill in the fields based on your requirement.
 3.  Select **Save**.
- **Important:** If you have [[workplace-space-mgmt-ovw|Workplace Space Management]] installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md).
+ **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md).
 
 </td></tr><tr><td id="d320080e156">
 
@@ -139,9 +139,3 @@ If you select email, you must enter the email address of the recipient.
 </table>
 **Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-## Related
-
-- [[space-planning|Space Planning]]
-- [[workplace-central-feat|Workplace Central]]
-- [[space-new-record-form|Space form]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

@@ -14,11 +14,11 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Create an incident state model
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) incident state model for your sites. By using an incident state model, you can manage the life cycle of the related incidents.
+Create an Operational Technology \(OT\) incident state model for your sites. By using an incident state model, you can manage the life cycle of the related incidents.
 
 ## Before you begin
 
--   Set the application scope to **[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]**.
+-   Set the application scope to **Operational Technology Incident Management**.
 -   Role required: admin or state\_model\_admin
 
 ## About this task
@@ -50,7 +50,3 @@ Now, the state model accurately describes the expected record workflow through t
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

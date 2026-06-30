@@ -14,7 +14,7 @@ breadcrumb: [Using Career Assessment, Career Assessment, Growth Experiences, HR 
 
 # Add exams to a learning path from Career Assessment
 
-[[create-internal-learning-content|Create internal learning content]] to add exams as content items within a [[exploring-learning-exp|learning]] path from [[exam-engine|Career Assessment]].
+Create internal learning content to add exams as content items within a learning path from Career Assessment.
 
 ## Before you begin
 
@@ -46,8 +46,3 @@ Role required: sn\_lc.catalog\_manager
 
 [Learning internal content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/learning-internal-content-form-ca.md)
 
-## Related
-
-- [[create-internal-learning-content|Create internal Learning content]]
-- [[exploring-learning-exp|Learning]]
-- [[exam-engine|Career Assessment]]

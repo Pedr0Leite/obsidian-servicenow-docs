@@ -81,8 +81,5 @@ Password
 Password to validate and establish the connection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-conn-auth-cred-Everbridge-uib-ws|Create connections and authenticate their credentials]]
+</table>**Parent Topic:**[Create connections and authenticate their credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-conn-auth-cred-Everbridge-uib-ws.md)
 
-## Related
-
-- [[create-conn-auth-cred-Everbridge-uib-ws|Create connections and authenticate their credentials]]

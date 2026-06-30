@@ -12,7 +12,7 @@ breadcrumb: [Managing per-user subscriptions, Subscription Management, Get start
 
 # Remove a group from a product subscription in Subscription Management
 
-Fix an over-allocated subscription and free up entitlements by removing a group from a product subscription in [[subscription-management-landing-page-v2|Subscription Management]].
+Fix an over-allocated subscription and free up entitlements by removing a group from a product subscription in Subscription Management.
 
 ## Before you begin
 
@@ -51,9 +51,5 @@ If you have manually allocated user-based subscriptions before, you can still ma
 
 The group is removed from the subscription. If the group still has a measured-role that requires a subscription, add the group to a different subscription or remove the measured-role from the group.
 
-**Parent Topic:**[[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
+**Parent Topic:**[Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

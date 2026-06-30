@@ -14,13 +14,13 @@ breadcrumb: [Community Service Portal, Configuring communities, Communities, Cus
 
 # Community pages that support SEO data
 
-To improve search results for community members using external search engines, the [[servicenow-communities|Communities]] application generates SEO meta tags and injects the tags into questions, topics, forums, and other page types.
+To improve search results for community members using external search engines, the Communities application generates SEO meta tags and injects the tags into questions, topics, forums, and other page types.
 
 **Note:** If the auto-generated SEO tags in a page does not meet your needs, you can change the SEO tags. See [Modify SEO in community pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/seo-communities-modify.md).
 
 ## Pages that include auto-generated SEO data
 
-The Communities application auto-generates SEO meta tags for the following pages in the [[community-service-portal|Community service portal]]. The table provides details on the data that is generated.
+The Communities application auto-generates SEO meta tags for the following pages in the Community service portal. The table provides details on the data that is generated.
 
 -   community\_question
 -   community\_blog
@@ -67,7 +67,7 @@ Topic
 
 </td></tr><tr><td>
 
-[[gamification-ui-leaderboard|Leaderboard page]]
+Leaderboard page
 
 </td><td>
 
@@ -79,8 +79,3 @@ If an auto-generated SEO meta tag does not meet your needs, you can modify or re
 
 **Parent Topic:**[Community Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-service-portal.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[community-service-portal|Community Service Portal]]
-- [[gamification-ui-leaderboard|Leaderboard page]]

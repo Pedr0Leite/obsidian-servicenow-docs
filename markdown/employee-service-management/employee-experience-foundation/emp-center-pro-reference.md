@@ -14,16 +14,16 @@ breadcrumb: [Employee Center Pro, Unified Employee Experience, Employee Service 
 
 # Employee Center Pro reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use to configure and manage [[employee-center-pro-landing|Employee Center Pro]].
+Reference topics provide additional information about the lists and forms that you use to configure and manage Employee Center Pro.
 
 -   **[Block content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/block-content-form.md)**  
-[[block-content-form|Block content form]]
+Block content form
 -   **[Campaign overview and Campaign analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md)**  
-[[ecpro-content-automation-analytics|Content Analytics]] collects data on user interactions and generates visualizations to help campaign managers determine the effectiveness of campaigns.
--   **[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()**  
+Content Analytics collects data on user interactions and generates visualizations to help campaign managers determine the effectiveness of campaigns.
+-   **[Components installed with Employee Center Pro]()**  
 Several types of components install with the activation of the Employee Center Pro plugin, including user roles and tables.
 -   **[Components installed with Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/installed-content-engagement.md)**  
-Several types of components are installed with activation of the [[ec-content-engagement|Content engagement]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Content engagement plugin, including tables, user roles, and scheduled jobs.
 -   **[Components installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/installed-with-content-auto.md)**  
 Several types of components install with the activation of the Content Experiences \[sn\_cd\] plugin, including tables, user roles, and scheduled jobs.
 -   **[Components installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/installed-with-content-delivery.md)**  
@@ -35,19 +35,19 @@ Several types of components install with the activation of the Content Analytics
 -   **[Content Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-analytics-dashboards.md)**  
 Content Analytics display data visualizations for portal data collected in the default tracking profile.
 -   **[Content engagement dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-pro-content-engagement-dashboard.md)**  
-Content analytics displays data visualizations of engagement metrics for content published to the portal or [[mobile-employee-experience|Now mobile app]] in the [[ec-pro-content-engagement-dashboard|Content Engagement dashboard]].
+Content analytics displays data visualizations of engagement metrics for content published to the portal or Now mobile app in the Content Engagement dashboard.
 -   **[Content Library Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-library-overview-dashboard.md)**  
-Content analytics displays data visualizations of performance metrics for content published to the portal or Now mobile app in the [[content-library-overview-dashboard|Content Library Overview dashboard]].
+Content analytics displays data visualizations of performance metrics for content published to the portal or Now mobile app in the Content Library Overview dashboard.
 -   **[Employee Center Pro widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-pro-widgets-list.md)**  
 You can use base system widgets as-is in the portal or clone them to suit your own business needs.
 -   **[Feedback configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-feedback-new-record.md)**  
-Description of the [[ex-feedback-new-record|feedback configuration form]] fields to target a portal for feedback responses.
+Description of the feedback configuration form fields to target a portal for feedback responses.
 -   **[Feedback definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-dfnition-record.md)**  
-Description of the [[fdbck-dfnition-record|feedback definition form]] fields to curate the experience and service feedback widgets in the portal pages.
+Description of the feedback definition form fields to curate the experience and service feedback widgets in the portal pages.
 -   **[Link content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/link-content-form.md)**  
-[[link-content-form|Link content form]].
+Link content form.
 -   **[Notification content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notification-content-form.md)**  
-[[notification-content-form|Notification content form]]
+Notification content form
 -   **[Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md)**  
 The Content Experiences \[sn\_ca\] plugin adds properties that determine how a campaign runs related to scheduled jobs and performance.
 -   **[Properties installed with Content Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-content-governance.md)**  
@@ -57,23 +57,7 @@ The Content Publishing \[com.sn\_content\_delivery\] plugin adds the following p
 -   **[Standard banner and icon sizes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-portal-images-size.md)**  
 Use the following sizes for the banner and icons for optimal portal performance.
 -   **[To-do content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/to-do-content-form.md)**  
-Use the [[to-do-content-form|To-do content form]] to add to-dos to your portal page.
+Use the To-do content form to add to-dos to your portal page.
 
 **Parent Topic:**[Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-pro-landing.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[block-content-form|Block content form]]
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-content-engagement|Content engagement]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ec-pro-content-engagement-dashboard|Content engagement dashboard]]
-- [[content-library-overview-dashboard|Content Library Overview dashboard]]
-- [[ex-feedback-new-record|Feedback configuration form]]
-- [[fdbck-dfnition-record|Feedback definition form]]
-- [[link-content-form|Link content form]]
-- [[notification-content-form|Notification content form]]
-- [[to-do-content-form|To-do content form]]

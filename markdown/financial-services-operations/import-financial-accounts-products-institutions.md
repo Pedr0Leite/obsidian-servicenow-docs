@@ -12,7 +12,7 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Import your financial data using import sets
 
-Import your financial accounts, financial products, financial institutions, and financial transactions into ServiceNow Financial Services Operations Core tables. You need this foundation data to make the [[fso-overview|Financial Services]] Operations applications work.
+Import your financial accounts, financial products, financial institutions, and financial transactions into ServiceNow Financial Services Operations Core tables. You need this foundation data to make the Financial Services Operations applications work.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: sn\_bom.admin
 
 5.  [Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreateATransformMap.md) to define the field mapping between columns of the import set and columns of the target table.
 
-    For information on target tables, see the table topics in [[financial-services-operations-core-data-model|Financial Services Operations Core]].
+    For information on target tables, see the table topics in [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).
 
 6.  Transform the data from the import set table to the target table.
 
@@ -51,7 +51,3 @@ Role required: sn\_bom.admin
     -   For financial products, navigate to **Financial Services Operations** &gt; **Financial Products** and click the product to which you imported the financial products. For example, to view imported records for deposit model, click **Deposit Model**.
     -   For financial institutions, navigate to **Financial Services Operations** &gt; **Financial Institutions**.
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-overview|Financial Services]]

@@ -12,7 +12,7 @@ breadcrumb: [Maintaining Digital resilience third-party registers, Manage, Opera
 
 # Configuring Digital resilience third-party registers
 
-Set up Digital resilience third-party registers in the [[grc-opres-landing-page|Operational Resilience]] Workspace to manage the records of ICT third-party service providers.
+Set up Digital resilience third-party registers in the Operational Resilience Workspace to manage the records of ICT third-party service providers.
 
 ## List of DORA applications
 
@@ -23,19 +23,12 @@ The following applications are used in the background for the Digital resilience
 -   Digital Resilience Third-party Information Register: This application is used to download the Digital resilience third-party registers application. It contains the Microsoft Excel template including all tabs for reporting purposes.
 -   Digital Operational Resilience Management: This application is used for uploading and downloading of all individual DORA tables. It is automatically installed when the Digital Resilience Third-party Information Register is activated.
 
--   **[[order-for-creating-records|Creating and reviewing the records]]**  
+-   **[Creating and reviewing the records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/order-for-creating-records.md)**  
 The Operational Resilience administrators and managers can access the Digital Resilience Choices records in an instance. For best results, it is important to create or update the records such as legal entities, branches, functions, contracts, and so on in a specific order into the Digital resilience third-party registers application. Those specifics are outlined in this section.
--   **[[opres-drtp-validate-roi|Validate the Register of Information packages]]**  
+-   **[Validate the Register of Information packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-validate-roi.md)**  
 Run real-time validation on Register of Information \(RoI\) packages to help ensure compliance with DORA requirements.
--   **[[display-help-tips-on-forms|Display the help tips on the forms]]**  
+-   **[Display the help tips on the forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/display-help-tips-on-forms.md)**  
 Display the help tips on the forms by updating the preferences. Help tips provide extra details about the fields and their related actions.
 
-**Parent Topic:**[[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
+**Parent Topic:**[Maintaining Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-third-party-registers.md)
 
-## Related
-
-- [[order-for-creating-records|Creating and reviewing the records]]
-- [[opres-drtp-validate-roi|Validate the Register of Information packages]]
-- [[display-help-tips-on-forms|Display the help tips on the forms]]
-- [[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

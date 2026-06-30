@@ -17,23 +17,23 @@ breadcrumb: [Configurations, AI Control Tower dashboard, Explore, AI Control Tow
 
 Explore the Data sharing, Data processing, and Security &amp; privacy sections.
 
-These settings help you improve [[ai-models|AI models]], manage datacenter traffic, and enabling metrics to measure the integrity of your data model and monitor potential threats in large language model \(LLM\) input and output.
+These settings help you improve AI models, manage datacenter traffic, and enabling metrics to measure the integrity of your data model and monitor potential threats in large language model \(LLM\) input and output.
 
 ## Data sharing
 
-By default, Data sharing is active. You can opt out to deactivate [[ai-control-tower-landing|AI Control Tower]] and share your data with ServiceNow to improve AI accuracy, enhance user experiences, and gain a better understanding of business needs.
+By default, Data sharing is active. You can opt out to deactivate AI Control Tower and share your data with ServiceNow to improve AI accuracy, enhance user experiences, and gain a better understanding of business needs.
 
-\[Omitted image "aict-data-sharing.png"\] Alt text: Data sharing on the [[exploring-ai-governance|Configurations]] screen.
+\[Omitted image "aict-data-sharing.png"\] Alt text: Data sharing on the Configurations screen.
 
 Data sharing helps enhance ServiceNow products, but if you choose to opt out of the ServiceNow data sharing program, you’ll no longer be able to contribute data to improve ServiceNow AI products.
 
-For information on data sharing opt-out, see [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing]].
+For information on data sharing opt-out, see [Opt out of data sharing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
 ## Data overflow processing
 
-By default, all [[platform-now-assist-landing|Now Assist]] traffic is managed within ServiceNow datacenters. If there are traffic spikes, the system automatically redirects to Microsoft Azure datacenters to maintain performance. You can opt out of this feature to keep all Now Assist traffic exclusively within ServiceNow datacenters. By default, data overflow processing is inactive.
+By default, all Now Assist traffic is managed within ServiceNow datacenters. If there are traffic spikes, the system automatically redirects to Microsoft Azure datacenters to maintain performance. You can opt out of this feature to keep all Now Assist traffic exclusively within ServiceNow datacenters. By default, data overflow processing is inactive.
 
-**Note:** The Data sharing and Data overflow processing features are available for a sub-prod instance in read-only mode, when [[multi-instance-management|Multi-instance setup]] is configured and active.
+**Note:** The Data sharing and Data overflow processing features are available for a sub-prod instance in read-only mode, when Multi-instance setup is configured and active.
 
 ## Security &amp; privacy
 
@@ -73,23 +73,12 @@ By default, all [[platform-now-assist-landing|Now Assist]] traffic is managed wi
     -   **Output PII Violation** – Collect and show data in the AI agent output with PII detected chart. The data is collected by analyzing LLM output for potential PII sensitive data patterns specified in Data Privacy. For example, U.S. phone number or credit card number.
 -   **Sensitive data input and anonymization**
 
-    This section shows the data patterns enabled in Data Privacy to detect and anonymize information in LLM [[ai-prompts|prompts]]. Use this view as a quick reference when troubleshooting Sensitive data detected and Sensitive data anonymized charts. This feature requires the Data privacy plugin to be installed. For more information on how the data is sent and stored, see [[user-data-usage-policy-now-assist|User data usage policy for Now Assist]].
+    This section shows the data patterns enabled in Data Privacy to detect and anonymize information in LLM prompts. Use this view as a quick reference when troubleshooting Sensitive data detected and Sensitive data anonymized charts. This feature requires the Data privacy plugin to be installed. For more information on how the data is sent and stored, see [User data usage policy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-data-usage-policy-now-assist.md).
 
 -   **Score weight**
 
-    This setting [[controls|controls]] how the LLM guardrail categories that comprise the score are weighted. You can change the default weights or remove categories from the score by deactivating them. The score formula is an average across all managed [[ai-assets|AI assets]].
+    This setting controls how the LLM guardrail categories that comprise the score are weighted. You can change the default weights or remove categories from the score by deactivating them. The score formula is an average across all managed AI assets.
 
     \[Omitted image "sp-tab-ai-score-config.png"\] Alt text: AI asset security score configuration with default weights shown.
 
-## Related
 
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[user-data-usage-policy-now-assist|User data usage policy for Now Assist]]
-- [[ai-models|AI models]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[exploring-ai-governance|Configurations]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[multi-instance-management|Multi-instance Setup]]
-- [[ai-prompts|Prompts]]
-- [[controls|Controls]]
-- [[ai-assets|AI assets]]

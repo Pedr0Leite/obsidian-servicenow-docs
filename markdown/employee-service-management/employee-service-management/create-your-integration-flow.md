@@ -14,7 +14,7 @@ Create the integration flow with your preferred ATS to send job requisition data
 
 ## Use Integration Hub
 
-Use the Integration Hub to integrate [[hiring-experiences-landing|Hiring Experiences]] with your preferred ATS. For more information, see [Integration Hub spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/spokes-list.md).
+Use the Integration Hub to integrate Hiring Experiences with your preferred ATS. For more information, see [Integration Hub spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/spokes-list.md).
 
 ## Supporting actions
 
@@ -28,6 +28,3 @@ For more information, see [Exporting data](https://raw.githubusercontent.com/Ser
 
 **Parent Topic:**[Send job requisitions to the ATS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/send-a-job-requisition-to-the-ats.md)
 
-## Related
-
-- [[hiring-experiences-landing|Hiring Experiences]]

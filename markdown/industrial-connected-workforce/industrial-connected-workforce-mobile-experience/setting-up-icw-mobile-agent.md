@@ -14,14 +14,10 @@ breadcrumb: [Configure, Industrial Connected Workforce Mobile Experience, Indust
 
 # Setting up the Industrial Connected Workforce Mobile Agent
 
-Setting up the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] mobile application involves configuring the Mobile Agent application, customizing UI actions, and other functionalities to enable task management from your phone or other mobile device.
+Setting up the Industrial Connected Workforce mobile application involves configuring the Mobile Agent application, customizing UI actions, and other functionalities to enable task management from your phone or other mobile device.
 
 -   **[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)**  
-[[configure-now-mobile-agent-application-icw-mobile|Configure the Now Mobile Agent application]] and customize it for Industrial Connected Workforce \(ICW\) users.
+Configure the Now Mobile Agent application and customize it for Industrial Connected Workforce \(ICW\) users.
 
 **Parent Topic:**[Configuring the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configuring-icw-mobile-experience.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[configure-now-mobile-agent-application-icw-mobile|Configure the Now Mobile Agent application]]

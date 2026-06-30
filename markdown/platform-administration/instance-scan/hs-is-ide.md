@@ -14,12 +14,9 @@ breadcrumb: [Exploring Instance Scan, Instance Scan, Maintain and monitor, Admin
 
 # Instance Scan extension for IDE
 
-Access [[hs-landing-page|Instance Scan]] directly from your integrated development environment \(IDE\) on the ServiceNow AI Platform.
+Access Instance Scan directly from your integrated development environment \(IDE\) on the ServiceNow AI Platform.
 
 \[Omitted image "hs-ide.png"\] Alt text:
 
 See [ServiceNow IDE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-landing.md) for more information.
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]

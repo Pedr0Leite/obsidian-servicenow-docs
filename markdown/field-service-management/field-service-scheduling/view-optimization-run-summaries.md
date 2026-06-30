@@ -14,7 +14,7 @@ breadcrumb: [View Schedule Optimization task assignments, Scheduling and dispatc
 
 # View Schedule Optimization run summaries
 
-View run summaries to monitor the status and results of [[schedule-optimization|Schedule Optimization]] runs.
+View run summaries to monitor the status and results of Schedule Optimization runs.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ The run summary details help you identify successful runs and address any issues
 
 [Optimizing technician schedules at set intervals throughout the day](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/optimize-your-schedules-intraday.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

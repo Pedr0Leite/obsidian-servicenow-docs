@@ -26,7 +26,7 @@ You can import the taxonomies using the data from the spreadsheet. This enables 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Taxonomies**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Taxonomies**.
 
 2.  Select **Import** button.
 
@@ -50,6 +50,4 @@ You can import the taxonomies using the data from the spreadsheet. This enables 
 
 9.  Click **My Imports** to see the taxonomy imports for the current logged in user.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]

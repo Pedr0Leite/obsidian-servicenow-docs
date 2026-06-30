@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # IP network discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about IP networks.
+Discovery identifies and classifies information about IP networks.
 
 |Label|Table Name|Field Name|Source|
 |-----|----------|----------|------|
@@ -33,6 +33,3 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 [Network discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

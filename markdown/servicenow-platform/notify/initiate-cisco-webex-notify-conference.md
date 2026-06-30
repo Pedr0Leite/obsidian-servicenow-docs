@@ -18,7 +18,7 @@ Initiate a Webex conference from the MIM workbench to work towards the resolutio
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, or major\_incident\_manager
+Role required: notify\_view, or major\_incident\_manager
 
 ## Procedure
 
@@ -62,7 +62,7 @@ Option to add the users and the stakeholders to work towards the resolution of t
 
  -   **Users**: Enter the name of the user to include in the call.
 -   **Group**: Enter the group of users to be included in the call.
--   **[[email|Email]]**: Enter a valid email of the participant to be included in the call.
+-   **Email**: Enter a valid email of the participant to be included in the call.
  After adding the required stakeholders, click **Add to selected**.
 
 </td></tr><tr><td>
@@ -91,7 +91,3 @@ Option to provide an opening message to the user before beginning the interactio
 
 **Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/use-cisco-webex-notify-mi.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage Journey designer task updates in bulk, Work with journeys in
 
 # Update similar tasks in bulk
 
-Managers, mentors, and other journey participants with access to certain [[jny-dsgnr-landing-page-1|Journey designer]] task types are able to update similar tasks identified by Journey designer in a single action.
+Managers, mentors, and other journey participants with access to certain Journey designer task types are able to update similar tasks identified by Journey designer in a single action.
 
 ## About this task
 
@@ -33,7 +33,7 @@ Role required: you can use bulk update for any available Journey designer tasks 
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], navigate to **My Tasks**.
+1.  From the Employee Center, navigate to **My Tasks**.
 
 2.  Select a task to update.
 
@@ -58,7 +58,3 @@ Role required: you can use bulk update for any available Journey designer tasks 
 
 **Parent Topic:**[Manage Journey designer task updates in bulk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-bulk-task-update.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]

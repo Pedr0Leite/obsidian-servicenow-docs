@@ -79,7 +79,7 @@ The **Total coverage/demand** row has indicators for the staff alignment.
 
     |If the row displays|Then|
     |-------------------|----|
-    |An arrow [[gamification-components-points|points]] downward|The predicted forecast is lower than the number of agents you need for that day|
+    |An arrow points downward|The predicted forecast is lower than the number of agents you need for that day|
     |An arrow points upward|The predicated forecast is higher than the number of agents you need for that day|
     |A checkmark|The perfect alignment of the predicted forecast and the required number of agents.|
 
@@ -125,9 +125,5 @@ Up to four weeks starting the week containing this date appear on the team calen
     \[Omitted image "demand\_forecast\_and\_scheduling.gif"\] Alt text: Demand Forecast to analyze staff alignment.
 
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
-- [[gamification-components-points|Points]]

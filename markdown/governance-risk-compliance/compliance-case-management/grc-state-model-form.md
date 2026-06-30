@@ -14,7 +14,7 @@ breadcrumb: [Create compliance state model, Configure, Compliance Case Managemen
 
 # GRC State Model form
 
-Use the [[grc-state-model-form-for-op-vul|GRC State Model form]] to define the workflow states and transition conditions in the [[compliance-case-management|Compliance Case Management]] application.
+Use the GRC State Model form to define the workflow states and transition conditions in the Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -30,7 +30,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Create a compliance state model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-state-model.md)
 
-## Related
-
-- [[grc-state-model-form-for-op-vul|GRC state model form]]
-- [[compliance-case-management|compliance case management]]

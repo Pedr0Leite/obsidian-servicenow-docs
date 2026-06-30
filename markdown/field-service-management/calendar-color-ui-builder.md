@@ -12,7 +12,7 @@ breadcrumb: [Customize Dispatcher Workspace with UI Builder, Dispatcher Workspac
 
 # Customizing the calendar grid in Dispatcher Workspace with UI Builder
 
-Change or add colors to the calendar grid to update your [[dispatcher-activities|Dispatcher Workspace]] display so dispatchers can easily see when agents are available.
+Change or add colors to the calendar grid to update your Dispatcher Workspace display so dispatchers can easily see when agents are available.
 
 In Dispatcher Workspace, the default colors for the calendar grid are white to show that agents are available and gray that the agent is unavailable. You can customize these colors.
 
@@ -24,6 +24,3 @@ The following image shows an example of markspans in UI Builder that are used to
 
 \[Omitted image "calendar-mark-span.png"\] Alt text: UI Builder displaying the color markspans
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

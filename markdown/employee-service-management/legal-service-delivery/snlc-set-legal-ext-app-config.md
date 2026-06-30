@@ -16,7 +16,7 @@ breadcrumb: [Configure, Contract Management Pro for Legal Service Delivery, Inte
 
 Set up external applications that provide services such as electronically signing contract documents and saving signed contracts or the documents related to legal requests in an external storage system.
 
-The [[legal-management-overview|Legal Service Delivery]] applications use spokes from Integration Hub to integrate with external applications. The legal configurator can complete configuring these external apps after the administrator has installed and configured these spokes.
+The Legal Service Delivery applications use spokes from Integration Hub to integrate with external applications. The legal configurator can complete configuring these external apps after the administrator has installed and configured these spokes.
 
 ## Integration with external storage systems
 
@@ -45,13 +45,9 @@ The [[legal-management-overview|Legal Service Delivery]] applications use spokes
 
 
 -   **[Configure an external storage system for legal contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-integrate-ext-storage.md)**  
-[[cncore-integrate-ext-storage|Configure an external storage system]] to store signed contract documents.
+Configure an external storage system to store signed contract documents.
 -   **[Configure an e-signature provider for legal contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-integrate-esign.md)**  
 Configure an electronic signature provider to enable users to sign contract documents electronically.
 
 **Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[cncore-integrate-ext-storage|Configure an external storage system]]

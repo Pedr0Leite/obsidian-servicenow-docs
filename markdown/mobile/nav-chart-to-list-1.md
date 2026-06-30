@@ -12,7 +12,7 @@ breadcrumb: [Configure a navigation from a chart to a list screen, Chart screen,
 
 # Create a parameterized list for your chart
 
-Create the list that users see when they tap on your [[chart-screen|chart screen]].
+Create the list that users see when they tap on your chart screen.
 
 ## Before you begin
 
@@ -26,17 +26,17 @@ Create a parameterized list to provide your users with the option to view the re
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **List** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **List** option in the Create a screen page, and then select **Continue**.
 
 5.  Complete the following fields as needed.
 
@@ -44,7 +44,7 @@ Create a parameterized list to provide your users with the option to view the re
     |-----|-----------|
     |Name|The name of your list screen. This name appears as a tile in the mobile application.|
     |Description|Additional information about your list screen.|
-    |Available offline|Option to determine whether the screen is available in [[mobile-offline-mode|offline mode]] or not.|
+    |Available offline|Option to determine whether the screen is available in offline mode or not.|
     |Hide screen name|Option to determine whether the screen name isn't shown as the screen header. This option is useful if the text already appears in the header name or if it doesn't provide any value to the user.|
     |Hide filters|Option to avoid the list from displaying a list filter.|
     |Icon|Icon used to represent your list screen when added to a launcher screen.|
@@ -109,7 +109,7 @@ Streams
 
 </td><td>
 
-Records that connect [[sg-data-item|data items]] and list item config records to the list screen.
+Records that connect data items and list item config records to the list screen.
 
 </td></tr><tr><td>
 
@@ -303,20 +303,9 @@ Determine which specific values you want to pass to this screen.
 
 ## What to do next
 
-Configure the List item config for your list screen to choose the cards and fields that will appear on this list. For more information, see [[list-screen|List screen]].
+Configure the List item config for your list screen to choose the cards and fields that will appear on this list. For more information, see [List screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-screen.md).
 
-If you're adding an analytics preview to the launcher screen UI section. See, [[sg-ui-section-config-reports|Configure an analytics UI section]].
+If you're adding an analytics preview to the launcher screen UI section. See, [Configure an analytics UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-reports.md).
 
-**Parent Topic:**[[nav-chart-to-list|Configure a navigation from a chart to a list screen]]
+**Parent Topic:**[Configure a navigation from a chart to a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/nav-chart-to-list.md)
 
-## Related
-
-- [[list-screen|List screen]]
-- [[sg-ui-section-config-reports|Configure an analytics UI section]]
-- [[nav-chart-to-list|Configure a navigation from a chart to a list screen]]
-- [[chart-screen|Chart screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-data-item|Data items]]

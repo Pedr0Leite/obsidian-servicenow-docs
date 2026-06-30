@@ -14,7 +14,7 @@ breadcrumb: [Working with demo data, Configure, MetricBase, Manage instance data
 
 # View demo data in MetricBase
 
-After ServiceNow personnel install the [[metricbase|MetricBase]] and MetricBase Demo plugins, you can use the demo to get familiar with MetricBase.
+After ServiceNow personnel install the MetricBase and MetricBase Demo plugins, you can use the demo to get familiar with MetricBase.
 
 ## Prerequisites
 
@@ -110,6 +110,3 @@ The following table summarizes the modules in the MetricBase demo.
 
 **Parent Topic:**[Working with MetricBase demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/working-with-metricbase-demo-data.md)
 
-## Related
-
-- [[metricbase|MetricBase]]

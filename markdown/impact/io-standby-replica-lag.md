@@ -18,7 +18,7 @@ Technical Support will see alert incidents created for database replication lag 
 
 **Note:** The cause will be DELETE or UPDATE statements. In the rare case, the cause is INSERT statements.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -27,13 +27,13 @@ Technical Support will see alert incidents created for database replication lag 
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
 [Transaction or response metrics]()
 
-[Database [[instance-observer-performance|performance]] metrics]()
+[Database performance metrics]()
 
 [Semaphores performance metrics]()
 
@@ -63,8 +63,3 @@ Technical Support will see alert incidents created for database replication lag 
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-availability|Availability]]
-- [[instance-observer-performance|Performance]]

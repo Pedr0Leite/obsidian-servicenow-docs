@@ -47,8 +47,6 @@ You must not assign internal roles to external users. Use this procedure to revi
 
     -   For users with the snc\_internal role and one or more additional internal roles, it removes the snc\_internal role and all other internal roles, and adds the snc\_external role.
     -   For users with the snc\_internal role and one or more additional internal and external roles, it removes the snc\_internal role and all other internal roles.
-    This scheduled job runs all the deleted business [[gamification-components-rules|rules]] on the User Role \[sys\_user\_has\_role\] table.
+    This scheduled job runs all the deleted business rules on the User Role \[sys\_user\_has\_role\] table.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

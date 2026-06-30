@@ -14,9 +14,9 @@ breadcrumb: [SIR Workspace Orchestration, Working with Security Incident Records
 
 # SIR Workspace Investigation Canvas
 
-[[sir-workspace-landing-page|Security Incident Response Workspace]] allows the Security Analysts to view the key information associated with the security incident during the incident remediation process. The key information also includes the related lists such as [[c_Observables|Observables]], [[tisc-threat-lookup|Threat Lookup]] Results, Sighting Search, [[tisc-observable-enrichment|Observable Enrichment]], and so on.
+Security Incident Response Workspace allows the Security Analysts to view the key information associated with the security incident during the incident remediation process. The key information also includes the related lists such as Observables, Threat Lookup Results, Sighting Search, Observable Enrichment, and so on.
 
-In the classic UI, most of the orchestration actions associated with the out of the box integrations are available against the related lists. For example, [[tisc-run-threat-lookup|Run Threat Lookup]], [[tisc-run-observable-enrichment|Run Observable Enrichment]], etc. are present against Associated Observables related list. Similarly Get Host Details, Get Network Statistics and so on, are available against Configuration Items related list.
+In the classic UI, most of the orchestration actions associated with the out of the box integrations are available against the related lists. For example, Run Threat Lookup, Run Observable Enrichment, etc. are present against Associated Observables related list. Similarly Get Host Details, Get Network Statistics and so on, are available against Configuration Items related list.
 
 When a Security Analyst performs these actions, results are populated in a different related list. For example, when a user performs Run Threat Lookup, the results are available in Threat Lookup Results table. Sometimes, results are available in multiple different tables. During this process, the Security Analysts has a disjointed and unorganized user experience in co-relating the information from multiple places.
 
@@ -32,11 +32,3 @@ The primary objective of the investigation canvas is to present the necessary se
 
 [Unified experience framework for integrations powered by Capability Framework]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

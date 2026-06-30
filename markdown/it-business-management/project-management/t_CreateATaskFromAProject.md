@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Create a project task from a project
 
-Create tasks from the [[create-a-project-form|project form]] to break down project objectives into manageable units of work.
+Create tasks from the project form to break down project objectives into manageable units of work.
 
 ## Before you begin
 
@@ -26,18 +26,18 @@ Role required: it\_project\_manager
 
 2.  Select the project from the list.
 
-3.  In the **[[t_CreateAProjectTask|Project Tasks]]** related list, select **New**.
+3.  In the **Project Tasks** related list, select **New**.
 
 4.  On the form, fill in the fields.
 
-    For more information on [[project-task-form|project task form]], see [Project task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-task-form.md).
+    For more information on project task form, see [Project task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-task-form.md).
 
 5.  Select **Submit**.
 
 
 ## Result
 
-The new task appears in the **Project Task** related list on the Project form. If [[c_TimeCards|time cards]] are in use, the application creates a time card for the resource.
+The new task appears in the **Project Task** related list on the Project form. If time cards are in use, the application creates a time card for the resource.
 
 ## What to do next
 
@@ -45,12 +45,12 @@ The value in the **Percent complete** field is related to the **State** field in
 
 If you change the state of a project task from **Work in progress** to **Closed Skipped** or **Closed Incomplete**, the **Percent complete** field retains the current value and becomes read-only.
 
-The **Percent complete** field appears in the [[c_GanttChart|Gantt chart]] for parent tasks as a light-colored bar \(the part of the task that is complete\). The bar overlaps the darker, underlying bar \(the full task\). For example, a Demo project is 5.41% complete as shown in a pop-up window. The **Phase 1** task is about 50% complete \(not shown in the pop-up window\).
+The **Percent complete** field appears in the Gantt chart for parent tasks as a light-colored bar \(the part of the task that is complete\). The bar overlaps the darker, underlying bar \(the full task\). For example, a Demo project is 5.41% complete as shown in a pop-up window. The **Phase 1** task is about 50% complete \(not shown in the pop-up window\).
 
 The Project Tasks list and the Project Tasks related list on the Project form include a **Dependency** field. Any dependencies for a task, such as a parent task, are displayed in this field. Click a dependency record. See [Predecessor dependencies in the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_ProjectTaskDependencyValues.md) for a description of what you see in this column.
 
 -   **[Create a task from an incident, problem, or change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTaskIntPrblmChange.md)**  
-You can create a new project task from the Project Task related list on the Incident, Problem, and Change Request [[form-field-information-for-dw|forms]]. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
+You can create a new project task from the Project Task related list on the Incident, Problem, and Change Request forms. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
 -   **[Create tasks from project task creator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UseTheProjectTaskCreator.md)**  
 Use the project task creator to create multiple tasks at once.
 -   **[Insert a row into the project tasks list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_InsertARowIntoTheProjectTasksList.md)**  
@@ -60,7 +60,7 @@ Save time when building a project by copying tasks from other projects.
 -   **[Create a task from a project task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UseAProjectTaskTemplate.md)**  
 You can save a project task as a template and reuse it when creating a task.
 -   **[View default project and project task state categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/view-default-project-task-states.md)**  
-View category information for the default [[project-and-project-task-states|project and project task states]]. In the base system, the states in project and project task inherit the states in Task table.
+View category information for the default project and project task states. In the base system, the states in project and project task inherit the states in Task table.
 -   **[Link change requests to a project task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_LinkChangesToAProjectTask.md)**  
 Link change requests to tasks on the Project Task form. You can link change requests only to project tasks that have no child tasks.
 -   **[Accept or reject project task notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/accept-project-task-notifications.md)**  
@@ -83,7 +83,7 @@ You can create a checklist in a project task to track items that must be complet
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -117,13 +117,3 @@ You can create a checklist in a project task to track items that must be complet
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]
-- [[c_TimeCards|Time cards]]
-- [[c_GanttChart|Gantt chart]]
-- [[form-field-information-for-dw|Forms]]
-- [[project-and-project-task-states|Project and project task states]]
-- [[c_ResourcePlans|Resource plans]]

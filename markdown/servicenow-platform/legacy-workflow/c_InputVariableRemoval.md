@@ -26,7 +26,7 @@ An existing workflow already contains two input variables.
 
 1.  The workflow was migrated to a production instance with the two variables.
 2.  On a development instance, User A selects Update Set A and checks out the workflow.
-3.  User A removes one input variable and all [[reference-document-management|references]] to it in the workflow.
+3.  User A removes one input variable and all references to it in the workflow.
 
     The system enters into Update Set A one customer update record reflecting the deletion of the input variable. No record is added for the new workflow version which no longer depends on the input. This does not happen until the workflow is published.
 
@@ -50,6 +50,3 @@ Prior to publishing a workflow version, the system validates the workflow model 
 
 This validation warns of critical errors that can prevent a workflow from running successfully, but also warns of dependencies and conflicts in update sets. See [ValidateUpdateSetDependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_VldtUpdtStDpnd.md) for more details.
 
-## Related
-
-- [[reference-document-management|References]]

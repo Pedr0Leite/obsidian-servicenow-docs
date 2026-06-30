@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Create a Link Aggregation Group using design and assign function
 
-[[telecommunications-circuit-design-resource-assignment|Design and assign]] a Link Aggregation Group \(LAG\) with the creation of Ethernet connections in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By creating a LAG connection, you can fulfill an order request from the customer.
+Design and assign a Link Aggregation Group \(LAG\) with the creation of Ethernet connections in the Telecommunications Network Inventory application. By creating a LAG connection, you can fulfill an order request from the customer.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Changes** &gt; **All**.
 
@@ -32,7 +32,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 5.  Select **Next**.
 
-6.  On the [[provision-lag-form|Provision LAG form]], fill in the fields.
+6.  On the Provision LAG form, fill in the fields.
 
     To learn more about the fields, see [Provision LAG form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/provision-lag-form.md).
 
@@ -63,9 +63,3 @@ Add or remove a member to LAG using [Add or remove a member to Link Aggregation]
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[provision-lag-form|Provision LAG form]]

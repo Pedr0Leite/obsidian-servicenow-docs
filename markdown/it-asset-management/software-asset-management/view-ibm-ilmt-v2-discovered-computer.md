@@ -22,9 +22,9 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  Open the [[operations-workspace|License operations view]].
+2.  Open the License operations view.
 
 3.  From the left navigation menu of the License operations view, navigate to **IBM ILMT V2 Integration** &gt; **ILMT Discovered Computer**.
 
@@ -35,7 +35,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

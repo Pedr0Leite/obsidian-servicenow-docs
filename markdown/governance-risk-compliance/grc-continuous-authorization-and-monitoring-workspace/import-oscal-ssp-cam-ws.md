@@ -14,7 +14,7 @@ breadcrumb: [Import in OSCAL format, CAM OSCAL, Continuous authorization and mon
 
 # Import OSCAL SSP
 
-From the New Import playbook experience page, you can [[import-oscal|import OSCAL]] files in the System Security Plan \(SSP\) model into CAM workspace. This action enables you to seamlessly upload authorization package data in OSCAL format.
+From the New Import playbook experience page, you can import OSCAL files in the System Security Plan \(SSP\) model into CAM workspace. This action enables you to seamlessly upload authorization package data in OSCAL format.
 
 ## Before you begin
 
@@ -131,6 +131,3 @@ The OSCAL SSP import is a synchronous process.
 
 **Parent Topic:**[Import in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal.md)
 
-## Related
-
-- [[import-oscal|import oscal]]

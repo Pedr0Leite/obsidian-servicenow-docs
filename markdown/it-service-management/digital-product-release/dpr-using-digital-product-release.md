@@ -14,14 +14,14 @@ breadcrumb: [Digital Product Release, IT Service Management]
 
 # Using Digital Product Release
 
-[[dpr-landing-page|Digital Product Release]] helps you streamline the process of delivering digital products and services by managing the entire release life cycle from planning to delivery.
+Digital Product Release helps you streamline the process of delivering digital products and services by managing the entire release life cycle from planning to delivery.
 
-Use [[dpr-workspace|Digital Product Release Workspace]] to perform these tasks to manage the release cycle of your digital products and services.
+Use Digital Product Release Workspace to perform these tasks to manage the release cycle of your digital products and services.
 
 -   **[Request a new product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-request-product.md)**  
-[[dpr-request-product|Request a new product or service]] to manage features and enhancements.
+Request a new product or service to manage features and enhancements.
 -   **[Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md)**  
-Configure release [[settings-mobile|settings]] for a product or service that are applied whenever a release is created or executed for that product.
+Configure release settings for a product or service that are applied whenever a release is created or executed for that product.
 -   **[Manage product hierarchy using Included products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-included-products.md)**  
 Add products that you manage​ as Included products within a product or service to create a product hierarchy.
 -   **[Create a release for a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release.md)**  
@@ -41,9 +41,3 @@ View and track all product releases that are planned in a release readiness targ
 
 **Parent Topic:**[Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-landing-page.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[dpr-request-product|Request a new product or service]]
-- [[settings-mobile|Settings]]

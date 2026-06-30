@@ -14,7 +14,7 @@ breadcrumb: [Configuring the classic Software Asset Management Foundation plugin
 
 # Create a SAM Foundation software model
 
-[[c_CreatingSoftwareModels|Software models]] are used to connect purchased software rights with discovered software installations. Additionally, software models can be used to manage suites of software as well as to publish requestable software to the Service Catalog.
+Software models are used to connect purchased software rights with discovered software installations. Additionally, software models can be used to manage suites of software as well as to publish requestable software to the Service Catalog.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_user or model\_manager
 
 Manage software available and tie software installations \(software being used\) with entitlements \(software owned\) using software models. Create software models for all software to be monitored.
 
-**Note:** Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
+**Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
 
 Predefined suites are used so suite components are automatically created for known suite parent software models. Discovery maps indicate whether a suite is defined for the product.
 
@@ -56,7 +56,7 @@ Publisher
 
 </td><td>
 
-Publisher of the software. You can use the lookup list provided.**Note:** Publisher is a [[reference-for-itsm-mobile-agent|reference]] to the company \[core\_company\]. Only companies you are using internally are shown.
+Publisher of the software. You can use the lookup list provided.**Note:** Publisher is a reference to the company \[core\_company\]. Only companies you are using internally are shown.
 
  If the publisher and product do not exist, you can [Add a Software Asset Management Foundation plugin custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/add-custom-license-metric-samf.md).
 
@@ -66,7 +66,7 @@ Product
 
 </td><td>
 
-Software product name. The same lookup list provided on the Software Discovery [[c_Models|Models]] form.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] is not correct, products for that publisher may not be shown.
+Software product name. The same lookup list provided on the Software Discovery Models form.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] is not correct, products for that publisher may not be shown.
 
 </td></tr><tr><td>
 
@@ -433,9 +433,3 @@ Check box for setting the attribute as unlimited.
 
 **Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/samf-plugin-configuration.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_Models|Models]]

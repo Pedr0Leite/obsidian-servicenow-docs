@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Using the More icon in Agent Workspace for HR Case Management
 
-You can use the \[Omitted image "more-icon.png"\] Alt text: More icon more icon from [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to perform many duties related to working on an HR case.
+You can use the \[Omitted image "more-icon.png"\] Alt text: More icon more icon from Agent Workspace for HR Case Management to perform many duties related to working on an HR case.
 
 More icon is displayed at the top right corner of the Details tab when working on a case.
 
@@ -31,6 +31,3 @@ From here, you can:
 -   Escalate case: Assign important cases to another tier or agent with more expertise. For more information, see [Escalating a case in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-escalate-case.md).
 -   Delete: Delete the case you are working on.
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

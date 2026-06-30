@@ -24,7 +24,7 @@ Role required: none
 
 ## About this task
 
-When you know what KPIs you need, you can begin to create indicators and breakdowns and, if necessary, their data sources. The following workflow applies to [[automated-indicators|automated indicators]], which are the implementation of KPIs that collect scores from ServiceNow AI Platform database tables. \(Remember that you can combine and apply operations to automated indicators in [[formula-indicators|formula indicators]]. You can also have [[t_CreateAManualIndicator|manual indicators]] and external indicators, which do not refer to the ServiceNow AI Platform database at all.\)
+When you know what KPIs you need, you can begin to create indicators and breakdowns and, if necessary, their data sources. The following workflow applies to automated indicators, which are the implementation of KPIs that collect scores from ServiceNow AI Platform database tables. \(Remember that you can combine and apply operations to automated indicators in formula indicators. You can also have manual indicators and external indicators, which do not refer to the ServiceNow AI Platform database at all.\)
 
 **Important:** Performance Analytics should be implemented by qualified personnel. Several training courses are available, as described in this [ServiceNow Community article](https://community.servicenow.com/community?id=community_article&sys_id=44c3a3ecdbf43f84d82ffb24399619c2). This documentation is not meant to substitute for training.
 
@@ -46,7 +46,7 @@ Whereas designing KPIs for Performance Analytics is a top-down process, the tech
 
     Again, if you use KPI Composer to design your KPIs, you already have this information.
 
-3.  Decide which [[c_IndicatorSources|indicator sources]] you need, based on the conditions that define the subsets of records that are relevant to your KPIs.
+3.  Decide which indicator sources you need, based on the conditions that define the subsets of records that are relevant to your KPIs.
 
     Minimum Role: pa\_data\_collector.
 
@@ -78,7 +78,7 @@ Whereas designing KPIs for Performance Analytics is a top-down process, the tech
 
     If you can find indicator sources that meet your needs, see if there are already indicators on those sources that match your designed KPIs.
 
-    **Note:** KPI Composer incorporates a search for suitable existing [[c_Indicators|Performance Analytics indicators]] into the design process.
+    **Note:** KPI Composer incorporates a search for suitable existing Performance Analytics indicators into the design process.
 
 5.  Create any missing indicator sources that you need.
 
@@ -96,7 +96,7 @@ Whereas designing KPIs for Performance Analytics is a top-down process, the tech
 
     Minimum role: pa\_power\_user.
 
-    When you designed your indicators, you also should have designed any breakdowns to apply to the indicators. Breakdown design is included in KPI Composer. You may need to create new breakdowns or [[breakdown-sources|breakdown sources]], but that is outside the scope of this workflow.
+    When you designed your indicators, you also should have designed any breakdowns to apply to the indicators. Breakdown design is included in KPI Composer. You may need to create new breakdowns or breakdown sources, but that is outside the scope of this workflow.
 
 8.  Collect and manage a matrix of breakdowns.
 
@@ -108,7 +108,7 @@ Whereas designing KPIs for Performance Analytics is a top-down process, the tech
 
     Minimum role: pa\_data\_collector.
 
-    Add one scheduled and \(usually\) one unscheduled data collection job to the indicator. Run an unscheduled job to [[t_RunHistoricalDataCollection|collect historical data]] for the indicator, if historical data exists. Usually you only run this job when you create an indicator and never again. Activate the scheduled job to collect periodic data moving forward, usually following the frequency of the indicator. Collect only for one period. For example, when you have an indicator with the Daily frequency, set the scheduled job to collect every day for the previous \(last completed\) day.
+    Add one scheduled and \(usually\) one unscheduled data collection job to the indicator. Run an unscheduled job to collect historical data for the indicator, if historical data exists. Usually you only run this job when you create an indicator and never again. Activate the scheduled job to collect periodic data moving forward, usually following the frequency of the indicator. Collect only for one period. For example, when you have an indicator with the Daily frequency, set the scheduled job to collect every day for the previous \(last completed\) day.
 
 
 ## Result
@@ -117,15 +117,5 @@ At the end of this workflow, you have an automated indicator that is populated w
 
 ## What to do next
 
-You can include this indicator in a formula indicator. You can also design [[widgets|widgets]] to visualize the indicator and create dashboards to share these visualizations with the appropriate stakeholders.
+You can include this indicator in a formula indicator. You can also design widgets to visualize the indicator and create dashboards to share these visualizations with the appropriate stakeholders.
 
-## Related
-
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[breakdown-sources|Breakdown sources]]
-- [[t_RunHistoricalDataCollection|Collect historical data]]
-- [[widgets|Widgets]]

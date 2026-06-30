@@ -131,7 +131,7 @@ ProductPickerGrid
 </td></tr></tbody>
 </table>## Text component display type
 
-Text [[fields|fields]] accept a maximum of 2000 entered characters. Administrators can specify minimum and maximum field lengths and a static default value. Text fields can have the following component display types.
+Text fields accept a maximum of 2000 entered characters. Administrators can specify minimum and maximum field lengths and a static default value. Text fields can have the following component display types.
 
 Text: A single-line input. Examples demonstrate unpopulated and populated text fields because they are displayed on to the end user.
 
@@ -177,7 +177,7 @@ Checkbox: Displays either checked or unchecked.
 
 Numbers fields accept only numeric characters. Administrator must specify whether the field will be used as a number, as currency, or as a percentage. Optional settings include minimum, maximum, and default values. The unit label setting is not used in the application.
 
-Number: Users can enter a number using the keyboard or [[Modify|modify]] it by using the up and down buttons.
+Number: Users can enter a number using the keyboard or modify it by using the up and down buttons.
 
 \[Omitted image "cpq-fields-number-116.png"\] Alt text: Target number
 
@@ -259,7 +259,7 @@ SingleSelectPicklistGrid, MultiSelectPicklistGrid, andSingleSelectPicklistGridCh
 
 ## Product picker component display type
 
-[[product_picker_overview|Product pickers]] are similar to a picklists with extended data. Product pickers can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard [[rules_101|rules]].
+Product pickers are similar to a picklists with extended data. Product pickers can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard rules.
 
 ProductPickerGrid: Shows the product picker and its subfields in a grid format, much like a picklist extension.
 
@@ -272,12 +272,5 @@ VisualProductPicker: Shows the product picker and its subfields as a Visual Pick
 **Related topics**  
 
 
-[[fields_101|Configure fields]]
+[Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 
-## Related
-
-- [[fields_101|Configure fields]]
-- [[fields|Fields]]
-- [[Modify|Modify]]
-- [[product_picker_overview|Product pickers]]
-- [[rules_101|Rules]]

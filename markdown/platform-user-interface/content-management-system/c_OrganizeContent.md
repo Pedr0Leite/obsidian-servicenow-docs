@@ -25,7 +25,7 @@ A site created in CMS relies on two different types of content.
 
 Begin by listing all the content you want to host on the CMS pages. Examples include help pages, My Requests, My Approvals, and specific catalog items. Think about current solutions that you can implement immediately, and note ideas for future implementation phases.
 
-Within CMS, you group pages to define the top-down menu structure. You establish a home or starting page, and other pages in the site [[onboarding-modals-reference|reference]] the home page in the **Parent Page** reference field.
+Within CMS, you group pages to define the top-down menu structure. You establish a home or starting page, and other pages in the site reference the home page in the **Parent Page** reference field.
 
 There are several ways to group, such as by audience or the purpose of the website. After listing the content to host, group it logically and identify a common name for each group, as shown in the following examples.
 
@@ -41,7 +41,7 @@ There are several ways to group, such as by audience or the purpose of the websi
 
 ## System content
 
-Organize the content so the interface is easy to navigate and understandable to the user. Determine the organization based on the data that you are leveraging, both in the CMS \(using sites, parent pages, pages, and navigational menus\) and throughout the rest of the system. For example, within the catalog you have "category," and in the knowledge base you have "category" and "subcategory." You can use these hierarchies with filtered [[lists-configurable-workspace|lists]] for good search results.
+Organize the content so the interface is easy to navigate and understandable to the user. Determine the organization based on the data that you are leveraging, both in the CMS \(using sites, parent pages, pages, and navigational menus\) and throughout the rest of the system. For example, within the catalog you have "category," and in the knowledge base you have "category" and "subcategory." You can use these hierarchies with filtered lists for good search results.
 
 Organizing CMS content logically is important for long-term maintenance of the site, however, the data typically comes from other ServiceNow applications. Communicate with the administrators for these applications, such as the knowledge base, service catalog, and business service portfolio. Work with them to offer the application data appropriately through the CMS pages you create. For example, the team that created the ServiceNow corporate website in CMS began by evaluating the naming conventions used in the corporate knowledge base.
 
@@ -59,12 +59,12 @@ Branding refers to the logo, name, colors, and symbols that identify an organiza
 
 During planning, consider providing a core set of features with a standard appearance throughout the site. The following web design elements are often used to create a consistent look.
 
--   [[r_PageTemplates|Page templates]]
+-   Page templates
 -   Navigation schemes
 -   Header
 -   Breadcrumbs
 -   Footer
--   [[form-configurable-workspace|Forms]]
+-   Forms
 
 ## ServiceNow features
 
@@ -73,14 +73,7 @@ Analyze and organize the following ServiceNow features in your instance if you p
 -   Account settings
 -   Email
 -   Workflow approvals
--   [[c_Filters|Filters]]
+-   Filters
 
 **Parent Topic:**[Content Management design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[lists-configurable-workspace|Lists]]
-- [[r_PageTemplates|Page templates]]
-- [[form-configurable-workspace|Forms]]
-- [[c_Filters|Filters]]

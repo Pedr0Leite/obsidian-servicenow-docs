@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # Search for security incidents with the Security Incident Response Mobile app
 
-Search for [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents on a ServiceNow AI Platform® instance. Only incidents that match the specific search criteria that you enter are displayed.
+Search for Security Incident Response \(SIR\) security incidents on a ServiceNow AI Platform® instance. Only incidents that match the specific search criteria that you enter are displayed.
 
 ## Before you begin
 
@@ -70,7 +70,7 @@ Short Description
 
 </td><td>
 
-Enter text in the field for example, `[[threat-intelligence-malware|malware]]`. The feature searches on text strings and partial text strings from the Short Description field. For more refined searches, enter more text. Wild cards \(\*\) are not accepted.
+Enter text in the field for example, `malware`. The feature searches on text strings and partial text strings from the Short Description field. For more refined searches, enter more text. Wild cards \(\*\) are not accepted.
 
  Tap a new field to enter more criteria or \[Omitted image "mobile\_instances\_send\_droid.png"\] Alt text: Send icon in Android. to submit a search.
 
@@ -201,7 +201,4 @@ With the Search Incidents screen displayed with your entered search criteria, ta
 </td></tr></tbody>
 </table>5.  If your search returns multiple records, you can [Filter records with the Security Incident Response Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sire-filters.md) to refine the search results.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]

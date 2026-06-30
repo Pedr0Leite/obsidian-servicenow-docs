@@ -24,7 +24,7 @@ Role required: sn\_hr\_er.config\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-case-employee-relations|Employee Relations]]** &gt; **Accommodation Types**.
+1.  Navigate to **All** &gt; **Employee Relations** &gt; **Accommodation Types**.
 
 2.  Select **New**.
 
@@ -65,6 +65,4 @@ The scope application you are in when creating the accommodation type.
 </td></tr></tbody>
 </table>4.  Select **Save** or **Submit**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]

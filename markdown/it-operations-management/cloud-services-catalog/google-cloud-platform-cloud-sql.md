@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Google Cloud Platform Cloud SQL
 
-[[csc-home|Cloud Services Catalog]] with GCP Cloud SQL Database.
+Cloud Services Catalog with GCP Cloud SQL Database.
 
 Cloud SQL database is a sample catalog item you can use to order a Cloud SQL database solution.
 
@@ -42,6 +42,3 @@ Google Cloud Platform Cloud SQL Out Of Box catalog items permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

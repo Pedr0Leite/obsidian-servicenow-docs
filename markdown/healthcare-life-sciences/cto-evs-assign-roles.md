@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for E
 
 # Set up roles for Care Team Operations for Environmental Services
 
-Assign the correct roles to users of [[cto-evs-landing|Care Team Operations for Environmental Services]].
+Assign the correct roles to users of Care Team Operations for Environmental Services.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Monitors the tasks within their organizations.
 </td></tr></tbody>
 </table>**Example:**
 
-To fulfill work orders created from the [[care-team-portal-landing|Care Team Portal]] using the Care Team Operations for Environmental Services plugin, you must be assigned the sn\_cto\_evs.loc\_support\_agent role.
+To fulfill work orders created from the Care Team Portal using the Care Team Operations for Environmental Services plugin, you must be assigned the sn\_cto\_evs.loc\_support\_agent role.
 
 ## Procedure
 
@@ -67,7 +67,4 @@ To fulfill work orders created from the [[care-team-portal-landing|Care Team Por
 
 4.  Select **Save**.
 
-## Related
 
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[care-team-portal-landing|Care Team Portal]]

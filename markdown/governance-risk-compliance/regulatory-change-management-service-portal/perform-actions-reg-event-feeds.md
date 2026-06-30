@@ -14,7 +14,7 @@ breadcrumb: [Regulatory alerts, Regulatory Change Management Core UI, Use, Regul
 
 # Perform actions on regulatory alerts
 
-Perform various actions on unassigned and other types of [[list-view-of-reg-alerts|regulatory alerts]]. For example, you can assign an unassigned alert, initiate impact assessment on an alert, and mark an alert as applicable, among other actions.
+Perform various actions on unassigned and other types of regulatory alerts. For example, you can assign an unassigned alert, initiate impact assessment on an alert, and mark an alert as applicable, among other actions.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ In the following procedure, steps 3 and after describe the various actions that 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Regulatory Alerts**.
+1.  Navigate to **All** &gt; **Application** &gt; **Regulatory Change Management** &gt; **Regulatory Alerts**.
 
 2.  To assign an unassigned alert, select an alert in the Unassigned Alerts module.
 
@@ -88,7 +88,3 @@ In the following procedure, steps 3 and after describe the various actions that 
 
 [Manage and assign source document alerts]()
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

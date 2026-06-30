@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Pivotal Cloud Foundry discovery
 
-The ServiceNow [[r-discovery|Discovery]] application finds Pivotal Cloud Foundry \(PCF\) version 3 components using the Pivotal Cloud Foundry pattern. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application finds Pivotal Cloud Foundry \(PCF\) version 3 components using the Pivotal Cloud Foundry pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 You can use this pattern on the ServiceNow AI Platform starting Kingston version.
 
@@ -136,7 +136,7 @@ Alternate name for these credentials. As an example, `cf` If this field is close
     -   -/v3/droplets
     **Note:** The Pivotal Cloud Foundry Pattern also supports the PCF V2 APIs.
 
--   **Create a [[serverless-discovery|serverless Discovery]] schedule**
+-   **Create a serverless Discovery schedule**
     1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
     2.  Select **New**.
     3.  On the form, fill in the fields:
@@ -1033,8 +1033,3 @@ BOSH Deployment \[cmdb\_ci\_bosh\_deployment\]
 </td></tr></tbody>
 </table>**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]

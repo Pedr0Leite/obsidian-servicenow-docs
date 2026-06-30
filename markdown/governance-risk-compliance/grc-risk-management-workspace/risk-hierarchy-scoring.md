@@ -43,7 +43,7 @@ The **Tolerance Status** and the **Calculated Score** are based on the Calculate
 \[Omitted image "risk-rollup-tolerance-tab.png"\] Alt text: screen shows calculations on the Risk Rollup and Tolerance tab
 
 -   **[Association of entities at any level of a risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/associate-entity-types-at-any-level-of-risk-stmt.md)**  
-You can associate entities, [[entity-type-in-risk-ws|entity types]], and indicator templates, at any level of the risk statement hierarchy. Creating this association is useful for risk managers while [[assessing-risks|assessing risks]].
+You can associate entities, entity types, and indicator templates, at any level of the risk statement hierarchy. Creating this association is useful for risk managers while assessing risks.
 
 **Parent Topic:**[Manage risks, risk statements, and risk frameworks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_RiskRegister.md)
 
@@ -54,7 +54,3 @@ You can associate entities, [[entity-type-in-risk-ws|entity types]], and indicat
 
 [Manage risks linked to the same risk statement]()
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[assessing-risks|assessing risks]]

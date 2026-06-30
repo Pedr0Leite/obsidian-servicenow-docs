@@ -44,7 +44,7 @@ Matching rules identify a subset of relevant tasks and technicians to optimize b
 
 You can configure the maximum search radius and distance unit at the qualifier level to control the scope of optimization for each territory.
 
-If you installed the [[fsm-application-landing-page|Field Service Management]] Demo Data plugin, two example matching rules are available: Filter technicians for prioritized events and Filter tasks for prioritized events. These rules include criteria for affected technicians and affected tasks. You can use these example rules or create your own.
+If you installed the Field Service Management Demo Data plugin, two example matching rules are available: Filter technicians for prioritized events and Filter tasks for prioritized events. These rules include criteria for affected technicians and affected tasks. You can use these example rules or create your own.
 
 For more information about matching rules, see [Set up prioritized intraday optimization with matching rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/set-up-prioritized-intraday-optimization-with-matching-rules.md).
 
@@ -53,9 +53,5 @@ For more information about matching rules, see [Set up prioritized intraday opti
 **Related topics**  
 
 
-[[schedule-optimization-properties|Schedule Optimization properties]]
+[Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md)
 
-## Related
-
-- [[schedule-optimization-properties|Schedule Optimization properties]]
-- [[fsm-application-landing-page|Field Service Management]]

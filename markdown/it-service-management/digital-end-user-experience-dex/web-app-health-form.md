@@ -49,7 +49,7 @@ Page views
 Frequency with which the users access or view a specific page within the application. Each visit to a page is recorded as one page view, whether it is by a first-time visitor or a returning user.
 
 </td></tr></tbody>
-</table>**Note:** Web application [[perf-metrics-mob|performance metrics]] are available for the previous 2 hours, 24 hours, or 30 days. Select the required time window from the drop-down list to update the visualization.
+</table>**Note:** Web application performance metrics are available for the previous 2 hours, 24 hours, or 30 days. Select the required time window from the drop-down list to update the visualization.
 
 <table id="table_mrg_fpf_4wb"><thead><tr><th>
 
@@ -110,6 +110,3 @@ Measure of the system's operational performance and its ability to be accessible
 </td></tr></tbody>
 </table>**Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]

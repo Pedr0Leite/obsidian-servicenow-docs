@@ -30,7 +30,7 @@ ServiceNow has extensive models of cloud environments including Amazon Web Servi
 
 Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\] is the main class for tracking cloud accounts such as AWS, GCP, and Azure \(replacing for example, use of the cmdb\_ci\_aws\_account table for AWS\).
 
-For example, you can represent a Linux guest host running on Amazon EC2 by the [[class-server|Server \[cmdb\_ci\_server\] class]], with the **IsVirtual** attribute set to **true** and with the relationship Runs on:Runs to the EC2 instance. Integrating the AWS Config Service or the Amazon CloudWatch application, provides information on the EC2 object ID. Running Discovery or another discovery program on the guest Linux host, provides the **hostname**.
+For example, you can represent a Linux guest host running on Amazon EC2 by the Server \[cmdb\_ci\_server\] class, with the **IsVirtual** attribute set to **true** and with the relationship Runs on:Runs to the EC2 instance. Integrating the AWS Config Service or the Amazon CloudWatch application, provides information on the EC2 object ID. Running Discovery or another discovery program on the guest Linux host, provides the **hostname**.
 
 Ensure the following:
 
@@ -41,7 +41,7 @@ Ensure the following:
 
 ## Identification rule
 
-The base system contains pre-defined [[c_IdentificationRules|identification rules]] for cloud schema classes. A cloud object requires the following identification items:​
+The base system contains pre-defined identification rules for cloud schema classes. A cloud object requires the following identification items:​
 
 -   Object ID: Which is synonymous with the IDs that cloud vendors use for each type of cloud resource, such as Azure Compute, EC2, and Amazon Simple Storage Service \(S3\).
 -   Object ID is unique per region and therefore has dependent relationship requiring information from the Logical Datacenter \[cmdb\_ci\_logical\_data\_center\] table, about the region where the cloud resource is being hosted. For example, AWS Datacenter \[cmdb\_ci\_aws\_datacenter\], Azure Datacenter \[cmdb\_ci\_azure\_datacenter\], Google Datacenter \[cmdb\_ci\_google\_datacenter\] that are extended from Logical Datacenter.
@@ -57,7 +57,3 @@ The base system contains pre-defined [[c_IdentificationRules|identification rule
 
 For more information, see [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md).
 
-## Related
-
-- [[class-server|Server \[cmdb\_ci\_server\] class]]
-- [[c_IdentificationRules|Identification rules]]

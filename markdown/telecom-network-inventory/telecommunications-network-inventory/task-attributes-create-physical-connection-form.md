@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task attributes in Create physical connection form
 
-The Task attributes in Create physical connection form enables you to create a logical connection between network interfaces in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Create physical connection form enables you to create a logical connection between network interfaces in the Telecommunications Network Inventory application.
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ The Task attributes in Create physical connection form enables you to create a l
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

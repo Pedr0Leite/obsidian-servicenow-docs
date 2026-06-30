@@ -14,7 +14,7 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Internationalization support
 
-[[ia-ai-search|AI Search]] supports indexing and search for all languages offered by the ServiceNow AI Platform®. Search administrators can configure AI Search search features for languages activated in your instance.
+AI Search supports indexing and search for all languages offered by the ServiceNow AI Platform®. Search administrators can configure AI Search search features for languages activated in your instance.
 
 For full details on language support in AI Search search features, see [Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md).
 
@@ -111,7 +111,7 @@ All other ServiceNow AI Platform languages activated in your instance
 </td></tr></tbody>
 </table>## Translated content search
 
-By default, AI Search only returns [[hs-results|results]] for records with translated content, such as knowledge articles, that are in the user's ServiceNow AI Platform session language. You can modify this default behavior in several ways:
+By default, AI Search only returns results for records with translated content, such as knowledge articles, that are in the user's ServiceNow AI Platform session language. You can modify this default behavior in several ways:
 
 -   **[Assign Knowledge article search languages by country](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/assign-kb-srch-langs-country-ais.md)**
 
@@ -134,7 +134,3 @@ By default, AI Search only returns [[hs-results|results]] for records with trans
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

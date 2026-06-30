@@ -14,7 +14,7 @@ breadcrumb: [Cluster analysis, Analyzing and getting process insights, Use, Proc
 
 # Configure a process for a clustering solution
 
-Configure a process to be able to generate a [[cluster-analysis|cluster analysis]].
+Configure a process to be able to generate a cluster analysis.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Configure a process to be able to generate a [[cluster-analysis|cluster analysis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Process Configurations**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations**.
 
 2.  Open the process configuration for which you want to configure the cluster analysis.
 
@@ -52,7 +52,3 @@ Configure a process to be able to generate a [[cluster-analysis|cluster analysis
 
 **Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md)
 
-## Related
-
-- [[cluster-analysis|Cluster analysis]]
-- [[process-mining|Process Mining]]

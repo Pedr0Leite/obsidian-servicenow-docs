@@ -14,25 +14,16 @@ breadcrumb: [Now Assist for Mobile, Mobile Platform]
 
 Install and configure skills for Now Assist in Mobile.
 
--   **[[configure-resolution-notes|Configure mobile resolution notes generation]]**  
+-   **[Configure mobile resolution notes generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-resolution-notes.md)**  
 Generate the resolution notes that summarize work orders for mobile.
--   **[[config-na-agent-skills-mobile-va|Enable Now Assist Agent skills for Virtual Agent on Mobile]]**  
+-   **[Enable Now Assist Agent skills for Virtual Agent on Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-na-agent-skills-mobile-va.md)**  
 Enable Now Assist Agent skills in Virtual Agent on Mobile to leverage the power of generative AI.
--   **[[configuring-prominent-action-button|Configuring a prominent action button]]**  
+-   **[Configuring a prominent action button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-prominent-action-button.md)**  
 Configure a prominent action button for quick access to Now Assist.
--   **[[configure-lens-launcher-button|Configure a Lens launcher button]]**  
+-   **[Configure a Lens launcher button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-lens-launcher-button.md)**  
 Add a ServiceNow AI Lens button to input form screens to enable users to quickly extract data from attachments and complete forms faster.
--   **[[config-mobile-ai-voice-agent|Configure Mobile AI Voice Agent]]**  
-Follow these steps to enable the [[mobile-voice-agent|Mobile AI Voice Agent]] feature for your mobile app users. The AI Voice Agent can also be configured for a custom app.
--   **[[configure-now-assist-button-search|Configure Now Assist button in search]]**  
+-   **[Configure Mobile AI Voice Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-ai-voice-agent.md)**  
+Follow these steps to enable the Mobile AI Voice Agent feature for your mobile app users. The AI Voice Agent can also be configured for a custom app.
+-   **[Configure Now Assist button in search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-now-assist-button-search.md)**  
 Add a conversational chat button to standard catalog search results in mobile. The chat button redirects users to a new Virtual Agent conversation for eligible catalog items.
 
-## Related
-
-- [[configure-resolution-notes|Configure mobile resolution notes generation]]
-- [[config-na-agent-skills-mobile-va|Enable Now Assist Agent skills for Virtual Agent on Mobile]]
-- [[configuring-prominent-action-button|Configuring a prominent action button]]
-- [[configure-lens-launcher-button|Configure a Lens launcher button]]
-- [[config-mobile-ai-voice-agent|Configure Mobile AI Voice Agent]]
-- [[configure-now-assist-button-search|Configure Now Assist button in search]]
-- [[mobile-voice-agent|Mobile AI Voice Agent]]

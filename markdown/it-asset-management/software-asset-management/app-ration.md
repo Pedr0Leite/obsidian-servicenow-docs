@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Overlapping usage view
 
-Use the Overlapping usage view in [[sam-workspace|Software Asset Workspace]] to get insights into the feature level usage and rationalize your SaaS and Single sign-on \(SSO\) applications.
+Use the Overlapping usage view in Software Asset Workspace to get insights into the feature level usage and rationalize your SaaS and Single sign-on \(SSO\) applications.
 
 The Overlapping usage view displays reports showing the spend on your applications based on application category - SaaS or spend detection. You can also view the list of applications grouped by categories based on the main function of the software application, such as video conferencing, project management, and email marketing. This list of applications includes the following details:
 
@@ -25,7 +25,7 @@ The Overlapping usage view displays reports showing the spend on your applicatio
 
 Access the Overlapping usage view by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Overlapping usage**.
 
-**Note:** Request the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] Integrations application from the [ServiceNow Store](https://store.servicenow.com/) to view the Overlapping usage view.
+**Note:** Request the Software Asset Management - SaaS License Management Integrations application from the [ServiceNow Store](https://store.servicenow.com/) to view the Overlapping usage view.
 
 **Note:** The Overlapping usage dashboard supports domain separation when Domain Extension Installer \(com.glide.domain.msp\_extensions.installer\) and Domain Support \(com.snc.pa.domain\_support\) plugins are activated. To filter the data, select a domain from the Domain drop-down list.
 
@@ -149,7 +149,7 @@ Graphical representation of monthly spending trends on the application.
 
 ## SaaS feature usage
 
-The SaaS feature usage page includes the event details for each integration, such as the event ID, event name, last activity, subscription, product, subscription profile, and publisher. Navigate to the SaaS feature usage page in the [[operations-workspace|License operations view]] by selecting the **SaaS feature usage** link.
+The SaaS feature usage page includes the event details for each integration, such as the event ID, event name, last activity, subscription, product, subscription profile, and publisher. Navigate to the SaaS feature usage page in the License operations view by selecting the **SaaS feature usage** link.
 
 **Note:** The SaaS feature usage page displays event details for up to one year from the current date.
 
@@ -163,9 +163,3 @@ Creating demands enables you to take meaningful action against any redundant sof
 
 Select **Create demand** to rationalize software applications. For more information, see [Create demand to rationalize software applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/soft-asset-demand.md).
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[operations-workspace|License operations view]]

@@ -26,7 +26,7 @@ Complete the steps to [Create a campaign](https://raw.githubusercontent.com/Serv
 
 You can add content to the campaign from the Content Library or create new content using the Content Experience Builder.
 
-**Note:** You must [[ec-content-library-portal-rich-content|create rich content]] in the Content Library Rich Content Editor, since the Content Experience Builder does not currently support rich content creation. See [Microsites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content.md)
+**Note:** You must create rich content in the Content Library Rich Content Editor, since the Content Experience Builder does not currently support rich content creation. See [Microsites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content.md)
 
 ## Procedure
 
@@ -41,7 +41,7 @@ You can add content to the campaign from the Content Library or create new conte
 
     A list of existing content appears. You can drag-and-drop the content into a stage. \[Omitted image "campaign-content-drag-drop.png"\] Alt text: Campaign content - Drag content into a stage
 
-    You can use the Filter field to search for content by title \(for example "Travel policy update"\) or content type \(such as Mobile or [[ec-streamline-content|Portal content]]\).
+    You can use the Filter field to search for content by title \(for example "Travel policy update"\) or content type \(such as Mobile or Portal content\).
 
     Click **Create new** to create new content. For more information on the New Content form fields, refer to the links in the table below:
 
@@ -55,15 +55,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ec-mobile-content|Mobile Content]]
+Mobile Content
 
 </td><td>
 
-Announcement banners that you can send to your employee's mobile devices. The banner can be an image that links to your ServiceNow® [[employee-center-landing-page|Employee Center]] or ServiceNow® Service Portal content.For information on creating mobile content, see [Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-delivery-mobile.md).
+Announcement banners that you can send to your employee's mobile devices. The banner can be an image that links to your ServiceNow® Employee Center or ServiceNow® Service Portal content.For information on creating mobile content, see [Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-delivery-mobile.md).
 
 </td></tr><tr><td>
 
-[[ec-notification-content|Notification Content]]
+Notification Content
 
 </td><td>
 
@@ -81,11 +81,11 @@ Content that appears on your Employee Center or Service Portal.For information o
 
 </td></tr><tr><td>
 
-[[ec-to-do-content|To-do Content]]
+To-do Content
 
 </td><td>
 
-Content that assigns tasks to your employees and can be sent via email, SMS, or posted to your Employee Center or Service Portal.For information on [[ecpro-content-to-dos|creating to-do content]], see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
+Content that assigns tasks to your employees and can be sent via email, SMS, or posted to your Employee Center or Service Portal.For information on creating to-do content, see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
 
 </td></tr></tbody>
 </table>5.  Click **Update**.
@@ -94,17 +94,7 @@ Content that assigns tasks to your employees and can be sent via email, SMS, or 
 ## What to do next
 
 -   Continue adding stages and content to the campaign
--   Use [[ecpro-campaign-preview|Campaign preview]] to see how the campaign will appear to the audience. See [Campaign preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaign-preview.md)
+-   Use Campaign preview to see how the campaign will appear to the audience. See [Campaign preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaign-preview.md)
 -   If you are creating more than one campaign with similar features, use the **Clone campaign** button to clone the campaign, stages, and content.
 -   When you are ready to publish the campaign, click **Publish**.
 
-## Related
-
-- [[ec-content-library-portal-rich-content|Create rich content]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-mobile-content|Mobile content]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-notification-content|Notification content]]
-- [[ec-to-do-content|To-do content]]
-- [[ecpro-content-to-dos|Creating to-do content]]
-- [[ecpro-campaign-preview|Campaign preview]]

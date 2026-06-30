@@ -22,7 +22,7 @@ You can source a request by using assets from the requester's local stockroom.
 
 -   If stock is available in the local stockroom, the asset is reserved and follows the fulfillment task to source the request.
 -   If the requester's location is supported by another stockroom as part of service locations, the asset can also be sourced from this stockroom.
--   If stock in the local stockroom is unavailable, you can get the assets transferred from other stockrooms or [[t_CreateAPurchaseOrder|create a purchase order]].
+-   If stock in the local stockroom is unavailable, you can get the assets transferred from other stockrooms or create a purchase order.
 
  
 
@@ -32,7 +32,7 @@ The Workflow Studio application is used to create the Asset Local Stock subflow 
 
 Role required:
 
--   [[c_Procurement|procurement]]\_user or procurement\_admin
+-   procurement\_user or procurement\_admin
 -   inventory\_user or inventory\_admin
 -   procurement\_system\_admin \(access to Consume and Close task\)
 
@@ -92,7 +92,7 @@ Role required:
 16. Change that you need and then close the task when you’re done.
 
     -   For hardware assets: Assets are auto-assigned to sourcing tasks but you can change an asset by selecting the **Asset** list. After you’re done, select **Close Task**.
-    -   For [[c_ReceiveAConsumableAsset|consumable assets]]: The model for the asset appears on the form layout instead of the asset. Select **Close Task** or **Consume and Close**. If you select **Consume and Close**, the reserved asset is automatically picked up and assigned to the user. If you select **Close Task**, you must go to the Consumable form layout and assign an asset to the user manually.
+    -   For consumable assets: The model for the asset appears on the form layout instead of the asset. Select **Close Task** or **Consume and Close**. If you select **Consume and Close**, the reserved asset is automatically picked up and assigned to the user. If you select **Close Task**, you must go to the Consumable form layout and assign an asset to the user manually.
 
 **Parent Topic:**[Sourcing items in a service catalog request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_SourcingRequestItems.md)
 
@@ -105,8 +105,3 @@ Role required:
 
 [Add an assignment from a request]()
 
-## Related
-
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[c_Procurement|Procurement]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

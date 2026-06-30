@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create a service set
 
-Create your service set \(department\) name in the [[ur-landing-limitedaccess|Universal Request]] \(UR\) application to use the UR capabilities for a specific service set in your organization. Service sets are the various departments in your organization.
+Create your service set \(department\) name in the Universal Request \(UR\) application to use the UR capabilities for a specific service set in your organization. Service sets are the various departments in your organization.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Your organisation must have one service set without any services that is marked 
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

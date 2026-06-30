@@ -19,7 +19,7 @@ Use the Scripting Governance Tool to provide a single, centralised control for m
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore [[c_Authentication|Authentication]] factorsLearn the features and business value of Scripting Governance Tool.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/explore-sgt.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore Authentication factorsLearn the features and business value of Scripting Governance Tool.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/explore-sgt.md)
 
 </td><td>
 
@@ -27,7 +27,3 @@ Use the Scripting Governance Tool to provide a single, centralised control for m
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Authentication|Authentication]]

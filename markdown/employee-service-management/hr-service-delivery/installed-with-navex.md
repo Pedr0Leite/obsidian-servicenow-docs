@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations integration with Navex Ethicspoint, Integration 
 
 # Components installed with Employee Relations integration with Navex Ethicspoint
 
-Several types of components are installed with activation of the [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Employee Relations integration with Navex Ethicspoint plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -58,7 +58,7 @@ Description
 
 Field Value Map\[sn\_hr\_integr\_fw\_field\_value\_map\]
 
- **Note:** This table is visible in the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] application scope.
+ **Note:** This table is visible in the Enterprise Service Management Integrations Framework application scope.
 
 </td><td>
 
@@ -66,8 +66,3 @@ Stores mappings between Navex EthicsPoint fields and ServiceNow platform fields.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[emp-nav-int|Employee Relations integration with Navex Ethicspoint]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

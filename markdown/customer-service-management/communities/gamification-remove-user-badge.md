@@ -14,7 +14,7 @@ breadcrumb: [Moderate gamification, Gamification, Using communities, Communities
 
 # Remove a badge from a user
 
-Remove a [[communities-gamification|gamification]] badge from a community user if it is no longer relevant for that user.
+Remove a gamification badge from a community user if it is no longer relevant for that user.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_gamification.moderator, sn\_gamification.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Community** &gt; **Gamification Data** &gt; **Profile [[gamification-components-badges|Badges]]**.
+1.  Navigate to **All** &gt; **Community** &gt; **Gamification Data** &gt; **Profile Badges**.
 
 2.  Select the **Active** field for the desired user and badge.
 
@@ -35,7 +35,3 @@ Role required: sn\_gamification.moderator, sn\_gamification.admin
 
 **Parent Topic:**[Moderate gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-moderate.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]

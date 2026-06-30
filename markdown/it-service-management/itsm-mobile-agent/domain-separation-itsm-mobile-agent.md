@@ -14,7 +14,7 @@ breadcrumb: [Reference, ITSM Mobile Agent, IT Service Management]
 
 # Domain Separation for ITSM Mobile Agent
 
-This is an overview of domain separation and [[itsm-mobile-agent|ITSM Mobile Agent]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and ITSM Mobile Agent. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level - Basic
 
@@ -34,7 +34,7 @@ Before extending the domain separation functionality to mobile, the feature must
 
 You can use the company or account fields to display appropriate records by domain. These fields are available in tables when the domain separation plugin is enabled. Because each company or account is linked to a single domain, when you create a record, you can use these fields to specify the domain in which you want to create the record.
 
-After the feature has been set up through the platform web-based interface, a two-part process is required to further extend the domain separation functionality on mobile. For additional information about configuring domain separation on mobile [[dex-workspace-devices-tab|devices]], contact Customer Service and Support.
+After the feature has been set up through the platform web-based interface, a two-part process is required to further extend the domain separation functionality on mobile. For additional information about configuring domain separation on mobile devices, contact Customer Service and Support.
 
 ## Domain separated tables
 
@@ -47,10 +47,5 @@ After the feature has been set up through the platform web-based interface, a tw
 -   An ITIL user belonging to a parent domain can see incidents of all its child domains as well.
 -   An ITIL user belonging to a specific domain can create incidents only on behalf of the domains that they have access to.
 -   An ITIL user can associate child incidents only of those domains that they have access to.
--   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and [[reference-for-itsm-mobile-agent|reference]] fields.
+-   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and reference fields.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[reference-for-itsm-mobile-agent|Reference]]

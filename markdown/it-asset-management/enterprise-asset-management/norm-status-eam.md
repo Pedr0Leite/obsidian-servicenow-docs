@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Normalization status for enterprise models
 
-Description of the [[normalization-status|normalization statuses]] for enterprise [[c_Models|models]].
+Description of the normalization statuses for enterprise models.
 
 <table id="table_eg4_myc_cjb"><thead><tr><th>
 
@@ -82,7 +82,7 @@ The normalization process could not match any of the fields of the model.**Match
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -110,8 +110,3 @@ The normalization process could not match any of the fields of the model.**Match
 
 [Asset put away task fields]()
 
-## Related
-
-- [[normalization-status|Normalization statuses]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]

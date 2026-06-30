@@ -20,11 +20,11 @@ Using AQI feature, a knowledge administrator \(a user with knowledge\_admin role
 
 A knowledge reviewer \(a user with knowledge\_coach and knowledge\_domain\_expert role\) performs AQI review on knowledge articles attached to the knowledge base by answering the true or false questions in the checklist. The article quality is then scored based on the cumulative weight of all answers set to true in the checklist.
 
-The average AQI scoring is displayed on the Content Quality tab of the [[knowledge-management-dashboard|Knowledge Management dashboard]] \(see [Knowledge Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-dashboard.md)\).
+The average AQI scoring is displayed on the Content Quality tab of the Knowledge Management dashboard \(see [Knowledge Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-dashboard.md)\).
 
 ## Activating article quality index
 
-The article quality index feature is activated with the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) plugin. For details see, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).
+The article quality index feature is activated with the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. For details see, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).
 
 **Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
@@ -33,7 +33,3 @@ The article quality index feature is activated with the [[knowledge-management|K
 
 [Use Article Quality Index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-quality-index.md)
 
-## Related
-
-- [[knowledge-management-dashboard|Knowledge Management dashboard]]
-- [[knowledge-management|Knowledge Management]]

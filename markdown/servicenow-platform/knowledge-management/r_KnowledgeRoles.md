@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Knowledge Management roles
 
-Certain roles are required to use [[knowledge-management|Knowledge Management]] functionality.
+Certain roles are required to use Knowledge Management functionality.
 
 **Note:** The user criteria determine the access to knowledge articles. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md).
 
@@ -84,7 +84,7 @@ None.
 
 ## Knowledge coach \[knowledge\_coach\]
 
-Knowledge coaches can perform Article Quality Index \(AQI\) [[r_SurveyManagementLandingPage|surveys]] on articles, write, edit and review knowledge articles, and coach the team on best practices. Knowledge role comes as a subordinate role.
+Knowledge coaches can perform Article Quality Index \(AQI\) surveys on articles, write, edit and review knowledge articles, and coach the team on best practices. Knowledge role comes as a subordinate role.
 
 ### Contains Roles
 
@@ -124,7 +124,7 @@ None.
 
 ## Administrator \[admin\]
 
-Administrators can configure [[r_KnowledgeWorkflows|knowledge workflows]], set knowledge properties, and manage knowledge forms and dashboards.
+Administrators can configure knowledge workflows, set knowledge properties, and manage knowledge forms and dashboards.
 
 ### Contains Roles
 
@@ -147,7 +147,7 @@ None.
 
 ## Knowledge group manager \[knowledge\_group\_manager\]
 
-Knowledge group managers can add or remove members in [[enable-ownership-group|ownership groups]] managed by them. They cannot change the manager assigned in their groups. The manager can only be reassigned by the knowledge administrator. Knowledge group managers are assigned feedback tasks by default. They can reassign tasks to another group member, or group members can assign a feedback task to themselves. Knowledge\_group\_member role comes as a subordinate role.
+Knowledge group managers can add or remove members in ownership groups managed by them. They cannot change the manager assigned in their groups. The manager can only be reassigned by the knowledge administrator. Knowledge group managers are assigned feedback tasks by default. They can reassign tasks to another group member, or group members can assign a feedback task to themselves. Knowledge\_group\_member role comes as a subordinate role.
 
 ### Contains Roles
 
@@ -245,9 +245,3 @@ None.
 
 None.
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_KnowledgeWorkflows|Knowledge workflows]]
-- [[enable-ownership-group|Ownership groups]]

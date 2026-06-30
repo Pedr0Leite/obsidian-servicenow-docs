@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Create a Discovery CI classification
 
-A CI classification allows [[r-discovery|Discovery]] to discover most common operating systems, network devices, and processes.
+A CI classification allows Discovery to discover most common operating systems, network devices, and processes.
 
 ## Before you begin
 
@@ -136,7 +136,7 @@ On classification script
 
 </td><td>
 
-Script that runs if classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to [[t_SetProbeParameters|set probe parameters]] for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes:```
+Script that runs if classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes:```
 (JS), g_probe_parameters['node_port'] = 16001; //
 ```
 
@@ -168,7 +168,7 @@ Triggers probes
 
 Exploration probes that Discovery launches to gather detailed information about a CI that it has classified in the network. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column.
 
-**Warning:** Do not specify your pattern in **Probe** column. Choose the [[r-HorizontalPatternProbe|Horizontal Pattern probe]], which launches the specified pattern.
+**Warning:** Do not specify your pattern in **Probe** column. Choose the Horizontal Pattern probe, which launches the specified pattern.
 
 </td></tr><tr><td>
 
@@ -183,8 +183,4 @@ Lists versions of this classifier. A new version is created whenever you modify 
 
     \[Omitted image "DiscoveryClassificationForm.png"\] Alt text: Discovery classification form
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[t_SetProbeParameters|Set probe parameters]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure picklist extensions, CPQ app, Configure, price, quote app
 
 Learn to use an associated picklist instead of a set field when you create a new set.
 
-**Note:** Be sure to read about product pickers and their functionality before building associated picklists, as they may be better suited to your use case. See [[product_picker_overview|Product pickers]].
+**Note:** Be sure to read about product pickers and their functionality before building associated picklists, as they may be better suited to your use case. See [Product pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product_picker_overview.md).
 
 The New Set dialog box includes an option for size type. **Set Field** is the default. If you select **Associated picklist**, a new field appears where you can select the picklist field that will be associated with the set.
 
@@ -24,11 +24,11 @@ This associated picklist must be a multi-select picklist field. This field deter
 
 For example, a “Condiments” picklist could let users choose to include specific condiments, such as ketchup, mustard, or relish. A “Packets” associated picklist set could then let users specify the quantity of each item using set subfields.
 
-Unlike a regular set where a user can add as many rows as they want, each non-excluded field option of a picklist generates a row and index of the set. Inclusion and exclusion [[rules_101|rules]] still work on the associated field, which can dynamically change the number of rows in the associated picklist set. The following is the sample picklist field we will use in this example. \(Note that the labels and values differ.\)
+Unlike a regular set where a user can add as many rows as they want, each non-excluded field option of a picklist generates a row and index of the set. Inclusion and exclusion rules still work on the associated field, which can dynamically change the number of rows in the associated picklist set. The following is the sample picklist field we will use in this example. \(Note that the labels and values differ.\)
 
 \[Omitted image "cpq-associated-picklist-field-sample.png"\] Alt text: picklist set
 
-Once we select Condiments as the associated picklist, the normal set UI appears. Associated picklist [[cpq-sets|sets]] automatically create three [[fields|fields]] in the set:
+Once we select Condiments as the associated picklist, the normal set UI appears. Associated picklist sets automatically create three fields in the set:
 
 -   Index: the row number of the set, starting at 1
 -   Option Value: the associate picklistʼs field option values
@@ -76,9 +76,3 @@ Another customer has effectively used the picklist extension to filter field opt
 
 They put the picklist extension grid on a single tab tier, and then they put the set, which shows all the field options selected on the first Tab Tier, on the second tab tier. Using the associated picklist set, the end user can customize for each customer the quantity added to the BOM.
 
-## Related
-
-- [[product_picker_overview|Product pickers]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

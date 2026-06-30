@@ -12,7 +12,7 @@ breadcrumb: [High Security Settings]
 
 # Activating High Security Settings
 
-The High Security Settings plugin is active by default on all new instances. If it is not active on your instance, you can [[c_requestAPI|request]] the plugin.
+The High Security Settings plugin is active by default on all new instances. If it is not active on your instance, you can request the plugin.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Before [activating High Security Settings](https://raw.githubusercontent.com/Ser
 
 1.  Review the following information to understand the new behavior:
     -   [Access Control List Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md)
-    -   [[c_HighSecuritySettings|High Security Settings]]
+    -   [High Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
     -   [Default deny property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/c_DefaultDenyProperty.md)
 2.  Enable the plugin on a non-production instance. A recent clone of production is preferable.
-3.  Test the revised functionality, especially the added ACLs and default-deny functionality. Continue testing until the system performs as expected. If [[users|users]] cannot access expected resources, ensure they have appropriate roles and ACL rules to grant them the access.
+3.  Test the revised functionality, especially the added ACLs and default-deny functionality. Continue testing until the system performs as expected. If users cannot access expected resources, ensure they have appropriate roles and ACL rules to grant them the access.
 4.  Create update sets of any needed changes so you can apply them to production.
 
-**Note:** To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-high-security-plugin.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+**Note:** To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-high-security-plugin.md) in Instance Security Hardening Settings.
 
 Role required: admin
 
@@ -81,9 +81,4 @@ Select the date and time to activate the plugin.
 
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
-## Related
 
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[sc-hardening|Security hardening]]

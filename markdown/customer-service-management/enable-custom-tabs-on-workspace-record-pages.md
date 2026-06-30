@@ -12,7 +12,7 @@ breadcrumb: [Configure install base, Configure product data, Product data, Set u
 
 # Enable custom tabs on CSM workspace record page
 
-Enable custom tabs which appear after details tab, on [[csm-default-record-page|CSM default Record page]] of [[csm-workspaces-configure|CSM Configurable Workspace]] CSM configurable to get access to multiple list and form views for various sold product and product inventory entities.
+Enable custom tabs which appear after details tab, on CSM default Record page of CSM Configurable Workspace CSM configurable to get access to multiple list and form views for various sold product and product inventory entities.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: ui\_builder\_admin
 
 5.  From the pages and variants list, select the page that you want to view on the CSM default record page.
 
-    For instance, you can select [[sold-product|Sold Products]], Product Inventories, or Account information.
+    For instance, you can select Sold Products, Product Inventories, or Account information.
 
 6.  Expand the entity that you want to customize and select the settings icon.
 
@@ -47,8 +47,3 @@ Role required: ui\_builder\_admin
 
 You have now enabled custom tabs for your entities on the CSM Configurable Workspace.
 
-## Related
-
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

@@ -22,7 +22,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order\_fulfillm
 
 When you approve a revised order, it enables it to continue in its modified state through the rest of the fulfillment process. When you approve a cancellation request, it finalizes the cancellation and prevents the order from continuing through fulfillment processing.
 
-To learn more about how the states of orders change when you approve them, see [[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]].
+To learn more about how the states of orders change when you approve them, see [Key inflight order change and cancellation request fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/key-inflight-order-change-cancellation-request-fields.md).
 
 ## Procedure
 
@@ -45,18 +45,12 @@ To learn more about how the states of orders change when you approve them, see [
 
 Orders with unapproved revisions have a Revision in Progress state. When you approve them, their state changes to In Progress. Orders with unapproved cancellation requests have an Assessing the Cancellation state. When you approve them, their order state changes to Cancellation in Progress.
 
-**Parent Topic:**[[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
+**Parent Topic:**[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]]
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

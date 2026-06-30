@@ -15,7 +15,7 @@ breadcrumb: [Configure AWS account, Configuring Conversational IVR with Amazon C
 
 # Configure localization in Conversational IVR with Amazon Connect
 
-Configure localization in Conversational IVR to use localization with [[virtual-agent-landing-page|Virtual Agent]] in other supported languages.
+Configure localization in Conversational IVR to use localization with Virtual Agent in other supported languages.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
 
 ## Procedure
 
-1.  Log in to the AWS [[management|Management]] Console and open the **Amazon Lex** bot named **SN\_CI\_CC\_LexBot**.
+1.  Log in to the AWS Management Console and open the **Amazon Lex** bot named **SN\_CI\_CC\_LexBot**.
 
 2.  Change the language of the amazon IVR Contact.
 
@@ -62,7 +62,3 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
 
 **Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

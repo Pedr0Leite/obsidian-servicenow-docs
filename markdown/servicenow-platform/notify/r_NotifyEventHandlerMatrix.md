@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Available Notify activity event handlers
 
-When creating [[c_NotifyActivities|Notify workflow activities]], you can use event-handler functions to respond to events from a telephony provider.
+When creating Notify workflow activities, you can use event-handler functions to respond to events from a telephony provider.
 
 Not all activities or telephony providers support all events. For example, the **Reject** activity ends the call before the caller connects so the onNoAnswer function is never invoked from this activity.
 
@@ -27,7 +27,7 @@ The following table describes available event handlers and lists the Notify work
 |onExecute|Runs when the activity first runs.|All call-related activities|
 |onUpdate|Runs when the call record associated with the workflow is updated.|All call-related activities|
 |onCompleted|Runs when a call ends.|All call-related activities|
-|onRinging|Runs when a call starts ringing.|Forward call, call, join conference call, forward to [[notify-landing-page|notify]] client|
+|onRinging|Runs when a call starts ringing.|Forward call, call, join conference call, forward to notify client|
 |onInProgress|Runs when both parties are connected on a call.|Forward call, call, join conference call, forward to notify client|
 |onNoAnswer|Runs when a call is not answered.|Forward call, call, join conference call, forward to notify client|
 |onBusy|Runs when a called number is busy.|Forward call, call, join conference call, forward to notify client|
@@ -35,7 +35,3 @@ The following table describes available event handlers and lists the Notify work
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[c_NotifyActivities|Notify workflow activities]]
-- [[notify-landing-page|Notify]]

@@ -20,7 +20,7 @@ Role required: survey\_admin or survey\_reader
 
 ## About this task
 
-A scorecard displays charts for survey results, in which category and question responses are analyzed and current ratings are compared with previous ratings. Users can examine ratings over time, compare question ratings, or compare the ratings of all categories. All ratings are averages for the time range selected. The system dynamically updates a scorecard each time you view it, so the ratings reflect recently completed [[r_SurveyManagementLandingPage|surveys]].
+A scorecard displays charts for survey results, in which category and question responses are analyzed and current ratings are compared with previous ratings. Users can examine ratings over time, compare question ratings, or compare the ratings of all categories. All ratings are averages for the time range selected. The system dynamically updates a scorecard each time you view it, so the ratings reflect recently completed surveys.
 
 ## Procedure
 
@@ -34,24 +34,24 @@ A scorecard displays charts for survey results, in which category and question r
 
     The interactive scorecard displays the following filters:
 
-    -   [[r_QuestionResults|Question Results]]: Displays the result of all questions or an individual question.
-    -   [[r_CategoryResults|Category Results]]: Displays the results of all questions associated with an individual category or all categories.
-    -   [[r_AverageRatings|Average Ratings]]: Displays the result of weighted average rating for each survey question in an individual category or all categories.
+    -   Question Results: Displays the result of all questions or an individual question.
+    -   Category Results: Displays the results of all questions associated with an individual category or all categories.
+    -   Average Ratings: Displays the result of weighted average rating for each survey question in an individual category or all categories.
     -   History: Displays the result of all questions in comparison with their history \(by calendar year or quarters\).
-    -   [[sentiment-analysis-results|Sentiment Analysis Results]]: Displays the results of sentiment analysis for the survey.
+    -   Sentiment Analysis Results: Displays the results of sentiment analysis for the survey.
 
--   **[[r_SurveyScorecardCategoryResults|Survey scorecard category results]]**  
+-   **[Survey scorecard category results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardCategoryResults.md)**  
 The Category Results view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
--   **[[r_SurveyScorecardQuestionResults|Survey scorecard question results]]**  
-The Question Results filter displays the result of all questions or an individual question using charts or lists. For the String, [[attachment|Attachment]], Date, Date/time, [[reference|Reference]], and Ranking data types, the results are displayed in the list view. The results of all other data types are displayed in the pie chart view.
--   **[[r_SurveyScorecardAverageRatings|Survey scorecard average ratings]]**  
+-   **[Survey scorecard question results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardQuestionResults.md)**  
+The Question Results filter displays the result of all questions or an individual question using charts or lists. For the String, Attachment, Date, Date/time, Reference, and Ranking data types, the results are displayed in the list view. The results of all other data types are displayed in the pie chart view.
+-   **[Survey scorecard average ratings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardAverageRatings.md)**  
 The Average Ratings view displays the weighted average rating for each survey question in an individual category or all categories.
--   **[[r_SurveyScorecardHistory|Survey scorecard history]]**  
+-   **[Survey scorecard history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardHistory.md)**  
 The History view compares the current ratings for the categories and their questions with ratings from the previous three years or four quarters.
--   **[[t_ExportAScorecardAsAnImage|Export a survey scorecard as an image]]**  
+-   **[Export a survey scorecard as an image](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ExportAScorecardAsAnImage.md)**  
 You can export a scorecard as an image to use in presentations or other documents.
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -68,18 +68,3 @@ You can export a scorecard as an image to use in presentations or other document
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[r_SurveyScorecardCategoryResults|Survey scorecard category results]]
-- [[r_SurveyScorecardQuestionResults|Survey scorecard question results]]
-- [[r_SurveyScorecardAverageRatings|Survey scorecard average ratings]]
-- [[r_SurveyScorecardHistory|Survey scorecard history]]
-- [[t_ExportAScorecardAsAnImage|Export a survey scorecard as an image]]
-- [[c_SurveyResults|Survey responses and results]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_QuestionResults|Question results]]
-- [[r_CategoryResults|Category results]]
-- [[r_AverageRatings|Average ratings]]
-- [[sentiment-analysis-results|Sentiment analysis results]]
-- [[attachment|Attachment]]
-- [[reference|Reference]]

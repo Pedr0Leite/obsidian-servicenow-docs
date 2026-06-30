@@ -32,7 +32,7 @@ Field service agents have the ability to view and monitor their own location his
     -   Agents, navigate to **All** &gt; **Field Service** &gt; **Agent** &gt; **Workforce**.
 2.  Select the location history icon on the agent card.
 
-    The **[[c_AgentLocation|Agent Location]] History Map** highlights the agent's tracked locations on the selected date.
+    The **Agent Location History Map** highlights the agent's tracked locations on the selected date.
 
 3.  Select a marker to open a geolocation history record.
 
@@ -40,6 +40,4 @@ Field service agents have the ability to view and monitor their own location his
 
     **Note:** The work order task number appears if the agent activity is a task. You can open the work order task record to view the details.
 
-## Related
 
-- [[c_AgentLocation|Agent location]]

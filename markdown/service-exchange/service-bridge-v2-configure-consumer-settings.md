@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  Click the Number link on the Provider Connections page.
 
@@ -43,7 +43,4 @@ Role required: admin
     -   Auto approve authorized users: If this check box is selected, authorized users created on the consumer instance are automatically approved.
 9.  Click **Update**.
 
-## Related
 
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

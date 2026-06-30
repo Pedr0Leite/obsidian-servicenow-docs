@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Managing enterprise models and assets
 
-Create and manage your enterprise [[c_Models|models]] and assets throughout their life cycle.
+Create and manage your enterprise models and assets throughout their life cycle.
 
 ## Overview of managing assets and models
 
@@ -48,7 +48,7 @@ Create multi-component models and assets
 
 </td></tr><tr><td>
 
-[[create-model-eam|Create enterprise models]] and assets
+Create enterprise models and assets
 
 </td><td>
 
@@ -62,7 +62,7 @@ Create multi-component models and assets
 
 </td></tr><tr><td>
 
-[[create-model-components-eam|Create enterprise model components]]
+Create enterprise model components
 
 </td><td>
 
@@ -75,7 +75,7 @@ Create multi-component models and assets
 
 </td></tr><tr><td>
 
-Create and [[import-class-codes-eam|import classification codes]]
+Create and import classification codes
 
 </td><td>
 
@@ -89,7 +89,7 @@ Create and [[import-class-codes-eam|import classification codes]]
 
 </td></tr><tr><td>
 
-Add or [[clone-calibration-attributes-enterprise-model|clone calibration attributes to an enterprise model]] and asset
+Add or clone calibration attributes to an enterprise model and asset
 
 </td><td>
 
@@ -105,7 +105,7 @@ Add or [[clone-calibration-attributes-enterprise-model|clone calibration attribu
 
 </td></tr><tr><td>
 
-[[create-linear-asset|Create linear assets]] and linear asset types
+Create linear assets and linear asset types
 
 </td><td>
 
@@ -118,7 +118,7 @@ sn\_eam.enterprise\_asset\_manager
 
 </td></tr><tr><td>
 
-[[create-pallet-assets|Create pallet assets]]
+Create pallet assets
 
 </td><td>
 
@@ -241,13 +241,3 @@ sn\_eam.enterprise\_admin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Models|Models]]
-- [[create-model-eam|Create enterprise models]]
-- [[create-model-components-eam|Create enterprise model components]]
-- [[import-class-codes-eam|Import classification codes]]
-- [[clone-calibration-attributes-enterprise-model|Clone calibration attributes to an enterprise model]]
-- [[create-linear-asset|Create linear assets]]
-- [[create-pallet-assets|Create pallet assets]]

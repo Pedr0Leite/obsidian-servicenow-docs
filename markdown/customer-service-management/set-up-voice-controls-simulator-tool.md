@@ -12,11 +12,11 @@ breadcrumb: [Voice Controls Simulator tool, ICC for voice calls, Integrating wit
 
 # Set up the Voice Controls Simulator tool
 
-Integrate with Interaction Controls Component \(ICC\) to manage voice call features. Then, use the [[voice-control-simulator-tool|Voice Controls Simulator tool]] to set up your call experience.
+Integrate with Interaction Controls Component \(ICC\) to manage voice call features. Then, use the Voice Controls Simulator tool to set up your call experience.
 
 1.  Open the tool: Launch the Voice Controls Simulator tool from your workspace.
 2.  Explore call flows: Use the simulator to try out different voice call scenarios.
-3.  Customize your experience: Configure call scenarios in the [[csm-workspaces-configure|CSM Configurable Workspace]] as required.
+3.  Customize your experience: Configure call scenarios in the CSM Configurable Workspace as required.
 
 ## Voice Controls Simulator tool dependencies
 
@@ -40,10 +40,5 @@ Before you start, make sure you have the following:
     -   sn\_int\_control\_sim.voice\_test\_tool\_user
 4.  Supported workspaces: This tool works only in the CSM Configurable Workspace.
 
-You are now ready to launch the Voice Controls Simulator tool. See [[launch-voice-controls-simulator|Launching the simulator]].
+You are now ready to launch the Voice Controls Simulator tool. See [Launching the simulator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/launch-voice-controls-simulator.md).
 
-## Related
-
-- [[launch-voice-controls-simulator|Launching the simulator]]
-- [[voice-control-simulator-tool|Voice Controls Simulator tool]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

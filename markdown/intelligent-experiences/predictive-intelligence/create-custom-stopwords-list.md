@@ -24,7 +24,7 @@ Role required: admin or ml\_admin
 
 Stopwords lists enable the system to exclude extraneous words that can impede search and the overall natural language processing of your data.
 
-[[predictive-intelligence-landing|Predictive Intelligence]] provides you with default stopwords lists for each language the system supports. Examples of stopwords include words such as in, the, and the names of people and companies. You can also define your own stopwords list that's comprised of words specific to your organization and industry.
+Predictive Intelligence provides you with default stopwords lists for each language the system supports. Examples of stopwords include words such as in, the, and the names of people and companies. You can also define your own stopwords list that's comprised of words specific to your organization and industry.
 
 The custom list you provide works alongside those that the system already uses by default. For example, if incident records are used in a classification solution, and a company name is used in those records, consider adding that name to your list, as it's unlikely to provide any relevant information for the solution you're building.
 
@@ -65,6 +65,3 @@ Assign a custom or default stopwords list to a classification, similarity, clust
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

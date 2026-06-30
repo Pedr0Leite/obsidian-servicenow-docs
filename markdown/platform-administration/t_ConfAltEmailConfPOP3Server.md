@@ -18,13 +18,13 @@ You can use your own POP3 server to store and receive email for the instance.
 
 -   Role required: admin
 -   Email server required: POP3
--   [[t_ConfiguringStandardEmail|Basic email properties:]] enabled
+-   [Basic email properties:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md) enabled
 
 ## Procedure
 
 1.  On your POP3 server, create a mailbox for your instance that has a custom email address. For example, create a mailbox for `service-desk@company.com`.
 
-2.  Navigate to **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+2.  Navigate to **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
     The system displays the list of available email accounts.
 
@@ -36,7 +36,7 @@ You can use your own POP3 server to store and receive email for the instance.
 
     The system displays an empty email Account form.
 
-5.  [[t_ConfigureAnEmailAccount|Create an email account]] record for your POP3 server where the **Type** is **POP3**.
+5.  Create an email account record for your POP3 server where the **Type** is **POP3**.
 
 6.  On the form, fill in the fields.
 
@@ -134,9 +134,9 @@ System Address Filter
 
 </td><td>
 
-System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or [[ia-outbound-email-il|outbound email]].
+System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [[system-address-filters|System address filters]].
+ For more information, see [System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -176,14 +176,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 \[Omitted image "AlternateEmailConfigurationUsingYourOwnPOP3Server.png"\] Alt text: Flow diagram that shows the steps that show how email is received on your POP3 server
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
-## Related
-
-- [[t_ConfiguringStandardEmail|Enable basic email]]
-- [[system-address-filters|System address filters]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[ia-outbound-email-il|Outbound email]]

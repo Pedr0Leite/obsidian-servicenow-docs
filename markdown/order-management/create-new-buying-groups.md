@@ -24,7 +24,7 @@ Role required: bg\_admin; bg\_writer
 
 2.  Select  **New**.
 
-3.  On the form, fill in the [[fields|fields]]:
+3.  On the form, fill in the fields:
 
     |Fields|Description|
     |------|-----------|
@@ -51,12 +51,7 @@ Role required: bg\_admin; bg\_writer
 **Related topics**  
 
 
-[[using-buying-group|Using Buying Group]]
+[Using Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 
-[[explore-buying-group|Buying Group]]
+[Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-buying-group.md)
 
-## Related
-
-- [[using-buying-group|Using Buying Group]]
-- [[explore-buying-group|Buying Group]]
-- [[fields|Fields]]

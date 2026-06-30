@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # Filter report assessment scans
 
-Especially on large instances, the [[report-view-acl-dashboard|ACL Assessment for Reports]] can take a long time. To reduce the assessment time, you can use system properties to filter the reports that the assessment applies to.
+Especially on large instances, the ACL Assessment for Reports can take a long time. To reduce the assessment time, you can use system properties to filter the reports that the assessment applies to.
 
 ## Before you begin
 
@@ -152,7 +152,3 @@ Captures report fields on extended tables that cause a report to be blocked. Thi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

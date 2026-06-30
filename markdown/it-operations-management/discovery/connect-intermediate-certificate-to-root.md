@@ -20,7 +20,7 @@ Connect intermediate certificates to recently imported certificates or to root c
 
 If your root certificate is outside your server, you must first [Discover root certificates hosted outside your server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discover-root-certificate-browser.md). If you need to import certificate files, [Run Certificate Discovery via certificate file import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/run-cert-inventory-mgmt-import.md).
 
-**Note:** If your root certificates are already in your servers, they're discovered and connected to the certificate chain using the standard [[r-discovery|Discovery]] probes deployed to your servers.
+**Note:** If your root certificates are already in your servers, they're discovered and connected to the certificate chain using the standard Discovery probes deployed to your servers.
 
 Role required: Admin, discovery\_admin, Certificate administrator
 
@@ -47,6 +47,3 @@ Your intermediate certificate and your end-entity certificate are on your server
 
 Your intermediate certificate identifies its root certificate, completing Discovery of your certificate chain of trust.
 
-## Related
-
-- [[r-discovery|Discovery]]

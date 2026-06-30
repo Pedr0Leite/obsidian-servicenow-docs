@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 # Migrate to Employee Center from Service Portal
 
-Migrate to the [[employee-center-landing-page|Employee Center]] portal to provide employees with a unified portal experience.
+Migrate to the Employee Center portal to provide employees with a unified portal experience.
 
 ## Before you begin
 
@@ -66,6 +66,4 @@ Role required: admin
 
         If analytics are already set up, the button updates to View Analytics Settings
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Receive alert notification in Slack or Microsoft Teams channels, Ad
 
 # Set up Health Log Analytics alert notifications in a Microsoft Teams channel
 
-Set up notifications for new [[hla-landing-page|Health Log Analytics]] anomaly alerts in a Microsoft Teams channel.
+Set up notifications for new Health Log Analytics anomaly alerts in a Microsoft Teams channel.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 3.  Activate the Health Log Analytics Alert Management rule for submitting alerts to the Microsoft Teams channel.
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Management Rules**.
+    1.  Navigate to **Event Management** &gt; **Rules** &gt; **Alert Management Rules**.
 
     2.  Locate the appropriate rule: Submit HLA alerts to teams.
 
@@ -57,7 +57,3 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 **Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-alert-notification-in-channel.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Scheduling and dispatching, Use, Field Service Management]
 
 # Viewing task assignments from Schedule Optimization runs
 
-View the results of [[schedule-optimization|Schedule Optimization]] runs to understand how tasks were processed and assigned.
+View the results of Schedule Optimization runs to understand how tasks were processed and assigned.
 
 ## How Schedule Optimization runs
 
@@ -91,6 +91,3 @@ Each run summary provides:
 
 [Run optimization for your groups or territories from Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

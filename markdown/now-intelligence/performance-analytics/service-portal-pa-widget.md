@@ -14,7 +14,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 # Performance Analytics widgets on Service Portal
 
-You can show [[c_Indicators|Performance Analytics indicators]] and breakdowns using Service Portal.
+You can show Performance Analytics indicators and breakdowns using Service Portal.
 
 When you edit a portal, add the **Performance Analytics** widget. Use the widget options to select an existing Performance Analytics widget to show on the portal and whether to show its title.
 
@@ -22,11 +22,11 @@ When you edit a portal, add the **Performance Analytics** widget. Use the widget
 
 ## Security requirements for viewing widgets
 
-Starting with Quebec, [[widgets|widgets]] follow indicator and breakdown [[access-control|access control]] lists \(ACLs\). Outside of ACLs, no roles are required for viewing widgets.
+Starting with Quebec, widgets follow indicator and breakdown access control lists \(ACLs\). Outside of ACLs, no roles are required for viewing widgets.
 
 However, if you upgrade an instance from a version earlier than Quebec, by default the rules from before Quebec still apply. Indicator and breakdown ACLs are followed only in these areas:
 
--   [[list-widgets|List widgets]] follow indicator ACLs.
+-   List widgets follow indicator ACLs.
 -   When viewing breakdowns, breakdown ACLs apply.
 
 Furthermore, on an upgraded instance, the following widgets may require users to have the pa\_viewer role:
@@ -48,7 +48,7 @@ Upgraded instances cannot automatically follow the rules introduced in Quebec be
 
 ## Activate the Performance Analytics and Reporting - Service Portal Widgets plugin
 
-You can activate the Performance Analytics and [[reporting-landing-page|Reporting]] - Service Portal Widgets plugin \(com.snc.pa.sp.widget\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Performance Analytics and Reporting - Service Portal Widgets plugin \(com.snc.pa.sp.widget\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ### Before you begin
 
@@ -95,10 +95,3 @@ Core Service Portal functionality.
 
 [bundle-platadm.list-of-plugins]
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[widgets|Widgets]]
-- [[access-control|Access control]]
-- [[list-widgets|List widgets]]
-- [[reporting-landing-page|Reporting]]

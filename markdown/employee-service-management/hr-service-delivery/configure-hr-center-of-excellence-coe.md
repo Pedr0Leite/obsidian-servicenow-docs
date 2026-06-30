@@ -14,7 +14,7 @@ breadcrumb: [HR service categorization, HR Centers of Excellence data model, HR 
 
 # Enable or disable an HR Center of Excellence \(COE\)
 
-Enable or disable an HR Center of Excellence \(COE\) for use. COEs are tables that extend the HR Case \[sn\_hr\_core\_case\] table and part of a functional discipline, such as total rewards or talent management. COEs are also part of [[hr-service-administration|HR services]] that contain topic category and detail.
+Enable or disable an HR Center of Excellence \(COE\) for use. COEs are tables that extend the HR Case \[sn\_hr\_core\_case\] table and part of a functional discipline, such as total rewards or talent management. COEs are also part of HR services that contain topic category and detail.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Deactivate COEs manually on all your environments, if your company:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **COE Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **COE Configuration**.
 
 2.  Enable or disable the applicable HR Center of Excellence \(COE\).
 
@@ -39,9 +39,9 @@ Deactivate COEs manually on all your environments, if your company:
 
     -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
     -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
-    -   If you have an existing HR service that you want to make available for employee self-service, do not [[create-hr-catalog-item|create an HR catalog item]]. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
-    -   The [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] is highly configurable for HR agents. It supports the same functionality in the Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
-    \[Omitted image "coe-enable-disable.png"\] Alt text: COE Configuration page displaying a list of HR cases like "[[hr-case-employee-relations|Employee Relations]]," "HR Benefits," and "HR Payroll," each with an adjacent toggle switch for enabling or disabling.
+    -   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+    -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
+    \[Omitted image "coe-enable-disable.png"\] Alt text: COE Configuration page displaying a list of HR cases like "Employee Relations," "HR Benefits," and "HR Payroll," each with an adjacent toggle switch for enabling or disabling.
 
     COEs that are not associated with any HR services, topic details, categories, or record producers are automatically disabled.
 
@@ -52,11 +52,3 @@ Deactivate COEs manually on all your environments, if your company:
 
 **Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[create-hr-catalog-item|Create an HR catalog item]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]

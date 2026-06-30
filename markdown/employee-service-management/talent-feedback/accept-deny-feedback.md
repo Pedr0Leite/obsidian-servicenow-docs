@@ -22,7 +22,7 @@ Role required: employee
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My tasks**.
 
 2.  Select the feedback request that you want to view or submit feedback.
 
@@ -32,6 +32,4 @@ Role required: employee
 
 4.  Add a reason for declination in the pop-up and select **Decline**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # MID Server properties used by Service Mapping
 
-[[c_ServiceMappingOverview|Service Mapping]] uses the MID Server parameters during [[r-discovery|discovery]] and mapping. Do not change default values for these parameters unless you are troubleshooting the discovery process.
+Service Mapping uses the MID Server parameters during discovery and mapping. Do not change default values for these parameters unless you are troubleshooting the discovery process.
 
 ## General properties
 
@@ -669,7 +669,3 @@ OID indicating the Failed status. If an SNMP result starts with this OID, the MI
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

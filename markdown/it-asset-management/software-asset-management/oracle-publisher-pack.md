@@ -24,7 +24,7 @@ The Oracle publisher pack supports the following Oracle products:
 -   Oracle WebLogic Server
 -   Oracle Java
 
-To use the publisher pack, activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Oracle plugin \(com.snc.samp.oracle\).
+To use the publisher pack, activate the Software Asset Management Professional for Oracle plugin \(com.snc.samp.oracle\).
 
 ## Oracle licensing
 
@@ -97,7 +97,7 @@ The Software Asset Management application supports the following license metrics
     |Oracle WebLogic Server Enterprise Edition|Minimum 10 NUP licenses per processor core.|
     |Oracle WebLogic Suite Edition|Minimum 10 NUP licenses per processor core.|
 
-    Licensing minimums are automatically applied to the [[c_CreatingSoftwareModels|software models]] for your Oracle products using the following metric attributes:
+    Licensing minimums are automatically applied to the software models for your Oracle products using the following metric attributes:
 
     -   **Minimum users per processor** \(Oracle Database products\)
     -   **Minimum NUPs for WebLogic on-premise deployments** \(Oracle WebLogic Server products in on-premise environments\)
@@ -135,7 +135,7 @@ The Software Asset Management application supports the following license metrics
 
     Additionally, for the Employee license metric, the true-up cost is shown for a subscription period of one year.
 
-    When you run reconciliation for a software model that has one or more entitlements with the Employee license metric, a right is consumed for each employee recorded in the resource value records. You can [[create-resource-value-record|create a resource value record]] for the Java SE software model keeping the value of units consumed the same as the number of employees consuming the licenses. For details, see [Create a resource value record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-resource-value-record.md).
+    When you run reconciliation for a software model that has one or more entitlements with the Employee license metric, a right is consumed for each employee recorded in the resource value records. You can create a resource value record for the Java SE software model keeping the value of units consumed the same as the number of employees consuming the licenses. For details, see [Create a resource value record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-resource-value-record.md).
 
     When you're using a custom tier table, you can update the override license cost records associated with the Java SE software model. For details, see [Create or update an override license cost record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-edit-override-license-cost.md).
 
@@ -146,11 +146,11 @@ To collect installation and usage data for the Oracle products that are deployed
 
 During contract renewals and audits, Oracle requires you to provide specific usage data for your Oracle products.​ You can collect this data by running scripts that are provided by Oracle. These scripts collect data about the Oracle products that are deployed in your environment, as well as the physical and virtual hardware that supports those products.​ However, the process of collecting and reviewing this data can be very time consuming.
 
-The ServiceNow Discovery application uses Oracle-verified Discovery patterns and reporting to collect the same data that is provided in the script output. You can collect this data regularly to track your compliance and minimize unexpected [[audit-results-eam|audit results]].
+The ServiceNow Discovery application uses Oracle-verified Discovery patterns and reporting to collect the same data that is provided in the script output. You can collect this data regularly to track your compliance and minimize unexpected audit results.
 
 For more information on Oracle discovery, see [Oracle Global License Advisory Services \(GLAS\) data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/oracle-glas-discovery.md).
 
-**Note:** To access all the benefits of ServiceNow Discovery, request and install the CMDB CI Class [[c_Models|Models]] application from the ServiceNow Store. See [CMDB CI Class Models store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models.md) for more information on this application.
+**Note:** To access all the benefits of ServiceNow Discovery, request and install the CMDB CI Class Models application from the ServiceNow Store. See [CMDB CI Class Models store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models.md) for more information on this application.
 
 -   **[Oracle Database and WebLogic Server licensing in partitioned environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-partitioned-environments.md)**  
 The Software Asset Management application supports Oracle licensing rules for Oracle Database and WebLogic Server in both soft- and hard-partitioned environments. You can use partitioning to help reduce the number of licenses that are required for your installations.
@@ -161,29 +161,17 @@ The Software Asset Management application supports licensing rules for Oracle da
 -   **[Oracle Database licensing for Standard Editions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-db-licensing-std-edition.md)**  
 Oracle Database Standard Editions are licensed on servers having a value less than the maximum capacity of sockets to help ensure risk-free license compliance.
 -   **[Oracle Database options and management packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-options.md)**  
-You can use the Software Asset Management publisher pack for Oracle to track licensing positions for your [[oracle-options|Oracle Database options and management packs]]. The Licensable Oracle Options \[samp\_oracle\_option\_set\] table provides the complete list of database options and management packs that you can create software models for.
+You can use the Software Asset Management publisher pack for Oracle to track licensing positions for your Oracle Database options and management packs. The Licensable Oracle Options \[samp\_oracle\_option\_set\] table provides the complete list of database options and management packs that you can create software models for.
 -   **[Oracle reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-recon.md)**  
-[[oracle-recon|Oracle reconciliation]] keeps your Oracle license positions accurate and up-to-date without requiring manual calculations. Reconciliation runs weekly or on-demand.
+Oracle reconciliation keeps your Oracle license positions accurate and up-to-date without requiring manual calculations. Reconciliation runs weekly or on-demand.
 -   **[Oracle Infrastructure report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-infrastructure-report.md)**  
-You can use the [[oracle-infrastructure-report|Oracle Infrastructure report]] to gain visibility into your Oracle infrastructure. This report includes information about the Oracle databases and WebLogic Server editions that you’re running and the configuration items that are supporting them.
+You can use the Oracle Infrastructure report to gain visibility into your Oracle infrastructure. This report includes information about the Oracle databases and WebLogic Server editions that you’re running and the configuration items that are supporting them.
 -   **[Oracle DB Server Deployments per Agreement report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-server-agreement.md)**  
-You can use the [[oracle-server-agreement|Oracle DB Server Deployments per Agreement report]] to gain visibility into your Oracle Database server deployments across hybrid infrastructures, based on the agreement type.
+You can use the Oracle DB Server Deployments per Agreement report to gain visibility into your Oracle Database server deployments across hybrid infrastructures, based on the agreement type.
 -   **[Software Publisher Analytics dashboard for Oracle in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-oracle.md)**  
 View compliance analysis results related to Oracle on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 -   **[Publisher overview for Oracle in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-oracle.md)**  
-View license usage information related to Oracle in the [[publisher-overview-oracle|publisher overview for Oracle in the Software Asset Workspace]].
+View license usage information related to Oracle in the publisher overview for Oracle in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[create-resource-value-record|Create a resource value record]]
-- [[audit-results-eam|Audit results]]
-- [[c_Models|Models]]
-- [[oracle-options|Oracle Database options and management packs]]
-- [[oracle-recon|Oracle reconciliation]]
-- [[oracle-infrastructure-report|Oracle Infrastructure report]]
-- [[oracle-server-agreement|Oracle DB Server Deployments per Agreement report]]
-- [[publisher-overview-oracle|Publisher overview for Oracle in the Software Asset Workspace]]

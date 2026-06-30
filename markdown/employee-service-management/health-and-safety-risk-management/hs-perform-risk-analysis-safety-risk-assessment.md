@@ -26,7 +26,7 @@ A risk analysis can be associated with job steps in a job and have their inheren
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -88,6 +88,3 @@ To add a risk analysis manually,1.  In the **Risk analyses** list, select **New*
 
 **Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-assessment.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Create and manage enterprise models, Managing enterprise models and
 
 # Enterprise Asset Management normalization
 
-The Enterprise Asset Management normalization process enables you to normalize your manufacturer, model name, model number, and model type data of your enterprise [[c_Models|models]].
+The Enterprise Asset Management normalization process enables you to normalize your manufacturer, model name, model number, and model type data of your enterprise models.
 
 ## Normalization overview
 
-The normalization process compares the discovered manufacturer, discovered model, discovered model type, and the discovered model number values against the ServiceNow repository of normalized equivalents in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service.
+The normalization process compares the discovered manufacturer, discovered model, discovered model type, and the discovered model number values against the ServiceNow repository of normalized equivalents in the Enterprise Asset Management Content Service.
 
 To standardize your enterprise models, the data must be normalized. You can manually update the model records with the normalization content, or you can compare your data against the Enterprise Asset Management Content Service.
 
@@ -98,13 +98,8 @@ Several normalization tables are installed with the activation of the Enterprise
 |Enterprise Model Library \[sn\_eam\_cd\_model\_library\]|Stores enterprise model library records.|
 |Enterprise Lifecycle Definition \[sn\_eam\_cd\_lifecycle\_definition\]|Stores lifecycle phase of an enterprise model and associated dates.|
 |EAM Content Audit \[sn\_eam\_content\_audit\]|Stores the content values that changed.|
-|Manage Enterprise Library \[sn\_eam\_manage\_cd\_library\]|Stores [[import-export-ham|import and export content data]].|
+|Manage Enterprise Library \[sn\_eam\_manage\_cd\_library\]|Stores import and export content data.|
 |Enterprise Asset Configurations \[sn\_eam\_configuration\]|Stores opt-in and opt-out data.|
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[import-export-ham|Import and export content data]]

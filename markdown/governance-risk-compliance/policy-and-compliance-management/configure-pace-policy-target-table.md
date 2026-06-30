@@ -30,7 +30,7 @@ Incidentally, entities are people, processes, departments, applications, or obje
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Compliance data source registry**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Compliance data source registry**.
 
 2.  Click **New**.
 
@@ -112,7 +112,7 @@ Is the assessed object table equivalent to entities?
 
 </td><td>
 
-Flag to [[create-new-entity-ws|create an entity]] in the target table.
+Flag to create an entity in the target table.
 
 </td></tr><tr><td>
 
@@ -163,7 +163,4 @@ Owner of the entity in the entity table.
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]
-- [[create-new-entity-ws|Create an entity]]

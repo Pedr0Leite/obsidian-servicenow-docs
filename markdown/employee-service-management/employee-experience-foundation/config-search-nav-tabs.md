@@ -14,7 +14,7 @@ breadcrumb: [AI Search for Curated Experiences, Setup search experience, Configu
 
 # Configure search navigation tabs
 
-In [[employee-center-landing-page|Employee Center]], the AI search navigation tabs are enabled by default. You can configure a search navigation tab on the search results.
+In Employee Center, the AI search navigation tabs are enabled by default. You can configure a search navigation tab on the search results.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The search navigation tabs help you to refine their search query results by sear
 
 The configured sources appear on AI search results in a tab. For more info on how tabs appear in AI search, see [Configure application visibility and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/applauncher-enable-availability.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

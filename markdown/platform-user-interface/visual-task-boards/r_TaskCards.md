@@ -23,7 +23,7 @@ Task cards are used to do the following:
 -   Drag and drop cards
 -   Customize labels
 
-**Note:** Each board can display up to 1,000 cards by default. When the number of tasks exceeds the maximum, a warning appears and the system determines which cards to show by most recent update time. Administrators can [[configure-onboarding-modals|configure]] a different maximum card limit. For details, see [Configure the card limit for Visual Task boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_CardLimitFFB.md).
+**Note:** Each board can display up to 1,000 cards by default. When the number of tasks exceeds the maximum, a warning appears and the system determines which cards to show by most recent update time. Administrators can configure a different maximum card limit. For details, see [Configure the card limit for Visual Task boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_CardLimitFFB.md).
 
 -   **[Edit Visual Task Board card details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_EditCardDetails.md)**  
 Edit the details of the card if you need to assign tasks, add comments, change the due date, or change other features of the card.
@@ -48,6 +48,3 @@ You can move a card from one freeform board to another.
 
 **Parent Topic:**[Using Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/working-in-vtb.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

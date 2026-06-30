@@ -26,7 +26,7 @@ You can send email summaries to an authenticated user or users who are verified 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select the **General** tab.
 
@@ -49,6 +49,3 @@ Email notifications of missed chat messages are automatically sent at the specif
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]

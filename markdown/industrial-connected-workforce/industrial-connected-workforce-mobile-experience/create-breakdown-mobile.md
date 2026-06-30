@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create a breakdown in the Industrial Connected Workforce Mobile Experience
 
-[[create-breakdown|Create a breakdown]] when the impact of the anomaly increases. For example, when the duration of production impairment increases as the problem remains unresolved.
+Create a breakdown when the impact of the anomaly increases. For example, when the duration of production impairment increases as the problem remains unresolved.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 4.  Select **Next**.
 
-5.  On the [[deviation-form|Deviation form]], fill in the fields.
+5.  On the Deviation form, fill in the fields.
 
     For a description of the field values, see [Deviation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/deviation-form-mobile.md).
 
@@ -53,12 +53,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 ## Result
 
-The breakdown is created and displayed in the list of industrial tasks. You can choose to [[initiate-breakdown-analysis|initiate a breakdown analysis]] from the newly created breakdown.
+The breakdown is created and displayed in the list of industrial tasks. You can choose to initiate a breakdown analysis from the newly created breakdown.
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[create-breakdown|Create a breakdown]]
-- [[deviation-form|Deviation form]]
-- [[initiate-breakdown-analysis|Initiate a breakdown analysis]]

@@ -17,7 +17,7 @@ Create or edit a synthetic monitor to test the availability and performance of y
 ## Before you begin
 
 -   A configuration item \(CI\) for the endpoint you want to test.
--   If you're testing private endpoints or want to run the monitors from your environment, one or more locations must be created to host the monitor. To create a location, see [[create-synthetic-monitoring-locations|Create synthetic monitoring locations]].
+-   If you're testing private endpoints or want to run the monitors from your environment, one or more locations must be created to host the monitor. To create a location, see [Create synthetic monitoring locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md).
 
 **Note:** For information about how to bulk create synthetic monitors, see the [Synthetic Monitoring Developer Guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/developer-guides/synth-monitor_dev-guide.md).
 
@@ -25,7 +25,7 @@ Role required: sn\_sow\_synthetics.synthetics\_editor or sn\_sow\_synthetics.syn
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the [[synthetic-monitoring-landing-page|synthetic monitoring]] icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
 
 2.  On the Overview page, either create a synthetic monitor or edit an existing one.
 
@@ -112,7 +112,7 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 </td></tr></tbody>
 </table>    3.  In the Locations section, select one or more locations.
 
-        Choose a MID Server or [[acc-landing-page|Agent Client Collector]] location, or to run this monitor's test from your ServiceNow instance, choose ServiceNow hosted location.
+        Choose a MID Server or Agent Client Collector location, or to run this monitor's test from your ServiceNow instance, choose ServiceNow hosted location.
 
         **Note:** When running tests from your instance, only six tests can be run every minute for performance reasons.
 
@@ -132,7 +132,7 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 
     5.  In the Frequency section, enter the number of minutes between each test run.
 
-    6.  To have an alert sent through [[c_EM|Event Management]] when a test fails:
+    6.  To have an alert sent through Event Management when a test fails:
 
         -   In the Alert settings section, activate the toggle switch.
         -   Select an alert severity for a test failure.
@@ -142,16 +142,7 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 
 ## Result
 
-The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [[identifying-system-issues|Identifying system issues with synthetic monitoring]] for more information.
+The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [Identifying system issues with synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md) for more information.
 
-**Parent Topic:**[[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
-## Related
-
-- [[create-synthetic-monitoring-locations|Create synthetic monitoring locations]]
-- [[identifying-system-issues|Identifying system issues with synthetic monitoring]]
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_EM|Event Management]]

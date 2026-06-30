@@ -15,7 +15,7 @@ breadcrumb: [Work with invoices, Using Accounts Payable Invoice Processing, Use,
 
 # Create an invoice manually
 
-Manually create an invoice from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] when the automated invoice creation process encounters issues or is unavailable.
+Manually create an invoice from the Source-to-Pay Workspace when the automated invoice creation process encounters issues or is unavailable.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-[[invoices|Invoices]] are created automatically by integration with Document Intelligence. However, you can also create invoices manually.
+Invoices are created automatically by integration with Document Intelligence. However, you can also create invoices manually.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Create New Invoice**.\[Omitted image "create-invoice-manually.png"\] Alt text: Create invoice manually
 
-3.  On the [[create-new-invoice-form|Create New Invoice form]], fill in the fields.
+3.  On the Create New Invoice form, fill in the fields.
 
     For a description of the field values, see [Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md).
 
@@ -51,15 +51,7 @@ Create invoice lines manually for an invoice when the invoice automation process
 -   **[Invoice cost allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-cost-allocation.md)**  
 Cost allocation distributes invoice line costs across multiple cost centers or ledger accounts to ensure accurate financial reporting and proper expense tracking in Accounts Payable Operations.
 -   **[Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-calculations-in-apo.md)**  
-[[tax-calculations-in-apo|Tax calculations]] in Accounts Payable Operations validate [[supplier|supplier]]-provided taxes against system-calculated amounts to determine the final tax for invoices.
+Tax calculations in Accounts Payable Operations validate supplier-provided taxes against system-calculated amounts to determine the final tax for invoices.
 
 **Parent Topic:**[Work with invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[create-new-invoice-form|Create New Invoice form]]
-- [[tax-calculations-in-apo|Tax calculations]]
-- [[supplier|Supplier]]

@@ -14,9 +14,9 @@ breadcrumb: [Schedule a top-down discovery by Service Mapping, Application servi
 
 # Top-down discovery schedules
 
-Learn about schedules that trigger top-down [[r-discovery|discovery]] of application services.
+Learn about schedules that trigger top-down discovery of application services.
 
-When you define a new application service, [[c_ServiceMappingOverview|Service Mapping]] performs discovery of all CIs that participate in this application service and creates its map. After the initial mapping is complete, Service Mapping regenerates application service maps regularly by rediscovering the CIs making up an application service.
+When you define a new application service, Service Mapping performs discovery of all CIs that participate in this application service and creates its map. After the initial mapping is complete, Service Mapping regenerates application service maps regularly by rediscovering the CIs making up an application service.
 
 By default, Service Mapping is preconfigured with these generic schedules:
 
@@ -113,7 +113,3 @@ For rare cases of rediscovering a specific CI that causes discovery errors frequ
 
 [Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

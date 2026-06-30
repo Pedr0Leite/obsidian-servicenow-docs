@@ -14,7 +14,7 @@ breadcrumb: [Manage, DevOps Change Velocity, IT Service Management]
 
 # Disable recommendation prompts
 
-Disable the prompts recommending the use of DevOps Change Workspace from appearing while creating tools and [[dex-workspace-application-tab|applications]] using Classic UI, Service Catalog, Service Portal, and Employee Service Center.
+Disable the prompts recommending the use of DevOps Change Workspace from appearing while creating tools and applications using Classic UI, Service Catalog, Service Portal, and Employee Service Center.
 
 1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items** and search for DevOps.
 2.  For each of the following 4 DevOps catalog items, you must edit the catalog client scripts to comment out the call to `showWorkspaceAdvertisement`.
@@ -33,6 +33,3 @@ Disable the prompts recommending the use of DevOps Change Workspace from appeari
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

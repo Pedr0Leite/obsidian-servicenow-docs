@@ -12,7 +12,7 @@ breadcrumb: [Reference, Core Business Suite]
 
 # Components installed with Core Business Suite
 
-Various components are installed with [[cbs-landing|Core Business Suite]].
+Various components are installed with Core Business Suite.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -85,9 +85,5 @@ Grants permissions to submit requests for services included in the Core Business
 |Supplier Lifecycle Operations|[Components installed with Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/installed-with-supp-mgmt.md)|
 |Accounts Payable Operations|[Components installed with Accounts Payable Invoice Processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/installed-with-acc-pay-mgmt.md)|
 
-**Parent Topic:**[[cbs-reference-parent|Core Business Suite reference]]
+**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-reference-parent|Core Business Suite reference]]
-- [[cbs-landing|Core Business Suite]]

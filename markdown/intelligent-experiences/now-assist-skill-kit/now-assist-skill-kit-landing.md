@@ -14,7 +14,7 @@ breadcrumb: [Enable AI experiences]
 
 # Now Assist Skill Kit
 
-Use ServiceNow® Now Assist Skill Kit to create and publish custom [[ai-prompts|prompts]] and skills for [[platform-now-assist-landing|Now Assist]]. Creating custom skills and prompts enables you to have greater flexibility with Now Assist's generative AI capabilities.
+Use ServiceNow® Now Assist Skill Kit to create and publish custom prompts and skills for Now Assist. Creating custom skills and prompts enables you to have greater flexibility with Now Assist's generative AI capabilities.
 
 \[Omitted video\] Description: Now Assist Skill Kit video that shows how to build a custom skill.
 
@@ -56,10 +56,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[ai-prompts|Prompts]]
-- [[platform-now-assist-landing|Now Assist]]

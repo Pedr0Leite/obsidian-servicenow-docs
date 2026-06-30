@@ -14,7 +14,7 @@ breadcrumb: [Discovered Items for Configuration Compliance, Configuration Compli
 
 # Reconcile unmatched discovered items for Configuration Compliance
 
-Create a schedule job to [[reapply-reconcile-unmatched-discovered-items|reconcile unmatched discovered items]]. When a test result is created, the configuration item \(CI\) added to it at the time of creation might be an outdated one.
+Create a schedule job to reconcile unmatched discovered items. When a test result is created, the configuration item \(CI\) added to it at the time of creation might be an outdated one.
 
 ## Before you begin
 
@@ -24,15 +24,15 @@ Role required: admin
 
 If the information in the CMDB changes, unmatched CI information is not reconciled. To reconcile, apply CI lookup rules on the test results that are in an unmatched state when the CMDB is updated with the latest CIs.
 
-A schedule job is run on demand to reapply the CI matching rule for the [[cj-discovered-items|discovered items]] in an unmatched state. If the CI changes after reapplying the lookup rules, the discovered items are updated with the new CI. Impacted test results are also updated. For details, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-discovered-items-ci-changes-cc.md).
+A schedule job is run on demand to reapply the CI matching rule for the discovered items in an unmatched state. If the CI changes after reapplying the lookup rules, the discovered items are updated with the new CI. Impacted test results are also updated. For details, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-discovered-items-ci-changes-cc.md).
 
 **Note:**
 
-Starting with [[vr-config-compliance-landing|Configuration Compliance]] v24, you can skip the reapplication of CI lookup rules on discovered items with the substate ‘CI Decommissioned’ by enabling the system property **sn\_sec\_cmn.skipItemsWithCIDecommissioned**.
+Starting with Configuration Compliance v24, you can skip the reapplication of CI lookup rules on discovered items with the substate ‘CI Decommissioned’ by enabling the system property **sn\_sec\_cmn.skipItemsWithCIDecommissioned**.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]] &gt; Reconcile Unmatched Discovered Items**.
+1.  Navigate to **All** &gt; **Security Operations &gt; Reconcile Unmatched Discovered Items**.
 
 2.  On the Background Jobs page, click **Create reconciliation job**.
 
@@ -146,9 +146,3 @@ Number of records processed.
     -   To stop running the job, click **Cancel**.
     -   You cannot reconcile unmatched CIs or reapply CI lookup rules while importing hosts or test results.
 
-## Related
-
-- [[reapply-reconcile-unmatched-discovered-items|Reconcile unmatched discovered items]]
-- [[cj-discovered-items|Discovered Items]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[security-operations-landing-page|Security Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Post-upgrade tasks, Install Supplier Case Management, Configure, Su
 
 # Run fix script to update the KPI Instruction field in the Supplier Task table
 
-Run this fix script to update the new field **KPI Instruction** added in the [[supplier|Supplier]] Task \(sn\_slm\_task\) table in the Australia release.
+Run this fix script to update the new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) table in the Australia release.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 After the upgrade, a new field **KPI Instruction** is added in the Supplier Task \(sn\_slm\_task\) table.
 
-The new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) table is derived from the [[kpi-table|KPI table]] \(sn\_kpi\_kpi\) **Instructions** field. Run this fix script to transfer data from the dot-walked **kpi\_data.kpi.instructions** field to the **KPI Instruction** field in the Supplier Task table.
+The new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) table is derived from the KPI table \(sn\_kpi\_kpi\) **Instructions** field. Run this fix script to transfer data from the dot-walked **kpi\_data.kpi.instructions** field to the **KPI Instruction** field in the Supplier Task table.
 
 ## Procedure
 
@@ -69,7 +69,3 @@ The new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) t
 
 [Restructured Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[kpi-table|KPI table]]

@@ -28,7 +28,7 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
-2.  Open the required [[demand-form|demand form]].
+2.  Open the required demand form.
 
 3.  Select **Reset to Draft**.
 
@@ -36,7 +36,7 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
     -   Active assessments pending with stakeholders, or
     -   Resource assignments are created for the demand
-4.  Select the check box to replan the allocated [[c_ResourcePlans|resource plans]] that have no actual hours reported.
+4.  Select the check box to replan the allocated resource plans that have no actual hours reported.
 
 5.  Select **OK**.
 
@@ -66,19 +66,13 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
 [Move and resize a demand]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

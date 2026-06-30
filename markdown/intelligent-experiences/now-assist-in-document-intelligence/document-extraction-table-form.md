@@ -15,7 +15,7 @@ breadcrumb: [Forms, Reference, Now Assist in Document Intelligence, Enable AI ex
 
 # Table form for use casesetup
 
-The [[table-form|Table form]] enables you to define a table for extraction.
+The Table form enables you to define a table for extraction.
 
 The Table form includes the following fields.
 
@@ -41,7 +41,7 @@ Table name
 
 </td><td>
 
-The name for the table as it appears in the [[document-intelligence-landing|Document Intelligence]] workspace.
+The name for the table as it appears in the Document Intelligence workspace.
 
 </td></tr><tr><td>
 
@@ -143,7 +143,3 @@ Option to keep the form displayed on the screen. Enable this option if you’re 
 
 [Field form for use case setup]()
 
-## Related
-
-- [[table-form|Table form]]
-- [[document-intelligence-landing|Document Intelligence]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Knowledge Management Service Portal article view page features
 
-The knowledge article view page in [[knowledge-management|Knowledge Management]] Service Portal displays the knowledge article details, including the article number, short description, and article content. You can also give feedback or comment on an article.
+The knowledge article view page in Knowledge Management Service Portal displays the knowledge article details, including the article number, short description, and article content. You can also give feedback or comment on an article.
 
 <table id="table_qtz_wzp_kbb"><thead><tr><th>
 
@@ -120,7 +120,7 @@ Attachments
 
 </td><td>
 
-View a list of article attachments if the **Display [[attachment|Attachment]]** field for the article is enabled.
+View a list of article attachments if the **Display Attachment** field for the article is enabled.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,3 @@ You can add parameters to an article URL to view the latest version and an exist
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[attachment|Attachment]]

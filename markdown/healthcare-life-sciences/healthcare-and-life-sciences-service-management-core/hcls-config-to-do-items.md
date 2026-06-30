@@ -18,7 +18,7 @@ Add a to-do item that patients in your healthcare organization must complete as 
 
 ## Before you begin
 
-Set the application scope to [[hcls-overview|Healthcare and Life Sciences]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Healthcare and Life Sciences using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -38,6 +38,3 @@ Role required: admin
 
 [Healthcare and Life Sciences Service Management Core properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-properties.md)
 
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]

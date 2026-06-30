@@ -18,8 +18,5 @@ Facilities visualization workbench adds the following system property categories
 |------------------------|-----------|
 |Floor Plan Properties|Grouping for interactive floor map properties|
 
-**Parent Topic:**[[r_InstallWFacVisWorkbench|Installed with Facilities Visualization Workbench]]
+**Parent Topic:**[Installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacVisWorkbench.md)
 
-## Related
-
-- [[r_InstallWFacVisWorkbench|Installed with Facilities Visualization Workbench]]

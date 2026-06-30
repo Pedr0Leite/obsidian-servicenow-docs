@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Calendar Synchronization, Workplace Service De
 
 # Troubleshooting Workplace Calendar Synchronization
 
-This section helps administrators troubleshoot connection setup issues in [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]. Calendar sync integrates ServiceNow Workplace with external calendar providers — Microsoft Exchange Online and Google Calendar — to synchronize room and resource availability.
+This section helps administrators troubleshoot connection setup issues in Workplace Calendar Synchronization. Calendar sync integrates ServiceNow Workplace with external calendar providers — Microsoft Exchange Online and Google Calendar — to synchronize room and resource availability.
 
 Calendar sync establishes two types of connections that must both be correctly configured for the integration to function:
 
@@ -110,6 +110,3 @@ The user-level connection is established per user when they interact with the Wo
 
 **Important:** Do not select **Get OAuth Token** on the Personal credential record. In Personal mode, each user’s OAuth token is generated automatically via a pop-up or in-application prompt the first time they interact with the calendar feature. Manually generating the token on this credential will interfere with per-user token management.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

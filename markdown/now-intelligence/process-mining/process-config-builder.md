@@ -14,7 +14,7 @@ breadcrumb: [Creating process configuration, Use, Process Mining, Platform Analy
 
 # Create process configuration using Process Configuration Builder
 
-Process configuration helps you configure preferences for a process table. This configuration assists you when creating projects using the configured table. It streamlines the project creation process by providing a ready-made framework tailored to your organization's needs. Importantly, completing the process configuration allows you to independently create projects, even if you do not have prior experience with [[process-mining|process mining]].
+Process configuration helps you configure preferences for a process table. This configuration assists you when creating projects using the configured table. It streamlines the project creation process by providing a ready-made framework tailored to your organization's needs. Importantly, completing the process configuration allows you to independently create projects, even if you do not have prior experience with process mining.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the left of the page, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -70,7 +70,7 @@ Describe the process to get help with further configuration and enhance the qual
 -   **[Configure recommendations setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/reco-setup.md)**  
 Set up recommendations to simplify project creation and get help in the analysis.
 -   **[Configure investigative features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/investigative-features.md)**  
-[[investigative-features|Configure investigative features]] to set advanced analytics features for a process.
+Configure investigative features to set advanced analytics features for a process.
 -   **[Configure impact metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/impact-metrics.md)**  
 Configure the Key Performance Indicators \(KPIs\) for this process.
 -   **[Configure improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improvement-opportunities.md)**  
@@ -78,8 +78,3 @@ Create a library of inefficiencies to identify the improvement opportunities for
 
 **Parent Topic:**[Creating process configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/creating-process-config.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[investigative-features|Configure investigative features]]

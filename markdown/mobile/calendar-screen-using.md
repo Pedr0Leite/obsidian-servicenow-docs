@@ -12,7 +12,7 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 # Using the calendar screen
 
-Use the [[calendar-screen|calendar screen]] to create and view events related to specified dates. Scroll in either the calendar interface or the events list, to view corresponding information for the selected date or event.
+Use the calendar screen to create and view events related to specified dates. Scroll in either the calendar interface or the events list, to view corresponding information for the selected date or event.
 
 Use the calendar screen to create your daily schedule, list when tasks are due, or even view the timetable of colleagues within your team. You can view dates up to three years in the future or three years in the past, from the current date.
 
@@ -54,7 +54,7 @@ New event button - Android
 
 </td><td>
 
-New event button. Tap to display [[sg-config-quick-actions|quick actions]] in order to create a new event.
+New event button. Tap to display quick actions in order to create a new event.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Today button. Tap to return the calendar to the current day and to refresh the c
 
 </td><td>
 
-Filter button. Use the filter option to help you search for specific content in the calendar. For more information about filtering, see [[filter-sort-results-using|Filtering and sorting results in mobile]].
+Filter button. Use the filter option to help you search for specific content in the calendar. For more information about filtering, see [Filtering and sorting results in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/filter-sort-results-using.md).
 
 </td></tr><tr><td>
 
@@ -97,8 +97,3 @@ Saved items button. Use this option to save the current filter setting.
 
 To define the first day of the week in your calendar screen, go to the **Settings** area and select **Preferences**. Tap the **Start day of the week** option and then select the appropriate start day of the week.
 
-## Related
-
-- [[filter-sort-results-using|Filtering and sorting results in mobile]]
-- [[calendar-screen|Calendar screen]]
-- [[sg-config-quick-actions|Quick actions]]

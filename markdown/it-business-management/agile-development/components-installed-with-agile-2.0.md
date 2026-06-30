@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Components installed with Agile Development 2.0
 
-Several types of components are installed with activation of the [[agile-landing-page|Agile Development 2.0]] plugin, including tables, user roles, and properties.
+Several types of components are installed with activation of the Agile Development 2.0 plugin, including tables, user roles, and properties.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -204,7 +204,7 @@ Scrum user\[scrum\_user\]
 
 </td><td>
 
-Basic scrum role that all other roles inherit. It confers read-only rights to the [[agile-development|Agile Development]] application.
+Basic scrum role that all other roles inherit. It confers read-only rights to the Agile Development application.
 
  A scrum user can view all elements of agile, but cannot create, edit, or manage records of any type.
 
@@ -463,8 +463,3 @@ Specify a default sprint duration that should be used when creating a sprint, if
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

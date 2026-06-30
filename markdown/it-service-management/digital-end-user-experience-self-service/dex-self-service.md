@@ -14,7 +14,7 @@ breadcrumb: [Digital End-User Experience, IT Service Management]
 
 # Digital End-user Experience Self-service
 
-Digital End-user Experience Self-service \(DEX Self-service\) enables you to monitor real-time performance of your [[dex-workspace-devices-tab|devices]] and [[dex-workspace-application-tab|applications]], and address detected issues by using suggested resolutions.
+Digital End-user Experience Self-service \(DEX Self-service\) enables you to monitor real-time performance of your devices and applications, and address detected issues by using suggested resolutions.
 
 ## Get started
 
@@ -32,7 +32,7 @@ Digital End-user Experience Self-service \(DEX Self-service\) enables you to mon
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:[[reference-for-itsm-mobile-agent|Reference]] for [[dex-landing|Digital End-user Experience]] Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/dex-self-service-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference for Digital End-user Experience Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/dex-self-service-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -41,9 +41,3 @@ Digital End-user Experience Self-service \(DEX Self-service\) enables you to mon
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-landing|Digital End-User Experience]]

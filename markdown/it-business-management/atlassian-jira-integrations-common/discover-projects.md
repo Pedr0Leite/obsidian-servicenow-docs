@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Jira and Agile Development 2.0, 
 
 # Discover and import Jira projects and boards
 
-Discover and import all available Jira projects and boards into [[agile-landing-page|Agile Development 2.0]] to start using the integration between the two applications.
+Discover and import all available Jira projects and boards into Agile Development 2.0 to start using the integration between the two applications.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Once the status of each import request changes to **Complete**, you can see that
 
 Import your issues from Jira to Agile Development 2.0. For more information, see [Importing issues and sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md).
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

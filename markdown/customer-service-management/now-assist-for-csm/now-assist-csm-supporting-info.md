@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for CSM, Customer Service Management]
 
 # Supporting information for Now Assist for Customer Service Management \(CSM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Supported versions
 
@@ -40,11 +40,11 @@ Skill
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-workspaces-configure|CSM Configurable Workspace]]
+CSM Configurable Workspace
 
 </td><td>
 
--   [[csm-config-ws-chat-summary|Chat summarization]]
+-   Chat summarization
 -   Case summarization
 -   Resolution notes generation
 -   Knowledge article generation
@@ -52,7 +52,7 @@ Skill
 -   Sidebar discussion
 -   Chat recommendation
 -   Email response
--   [[case-sentiment-analysis|Sentiment analysis]]
+-   Sentiment analysis
 -   Suggested steps generation
 -   Sentiment analysis dashboard
 -   Trending topics dashboard
@@ -92,7 +92,7 @@ Role masking is used to restrict user access to agentic workflows, standalone AI
 
 **How Role Masking Works**
 
-Imagine a user assigned roles A, B, and C, where each role grants access to a specific set of data. Normally, only if using Access Control [[migration-lists|Lists]] \(ACLs\), the user could access any data or functions available to roles A, B, and C. With role masking applied, the user can only access data tied to the active role, limiting exposure to unnecessary information.
+Imagine a user assigned roles A, B, and C, where each role grants access to a specific set of data. Normally, only if using Access Control Lists \(ACLs\), the user could access any data or functions available to roles A, B, and C. With role masking applied, the user can only access data tied to the active role, limiting exposure to unnecessary information.
 
 **Role Masking Considerations for Now Assist in CSM Skills**
 
@@ -130,10 +130,3 @@ For more information, see [Configuring Now Assist for Customer Service Managemen
 
 **Parent Topic:**[Exploring Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-exploring.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[migration-lists|Lists]]

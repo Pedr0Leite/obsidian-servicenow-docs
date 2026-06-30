@@ -12,12 +12,12 @@ breadcrumb: [Integrating Voice with other applications, ServiceNow Voice, Manage
 
 # Integrating ServiceNow Voice for HR
 
-The [[cloud-call-center-overview|ServiceNow Voice]] for HR Agent Workspace provides seamless interactive voice response \(IVR\) and calling experiences for your employees and agents by integrating a cloud contact center provider with the robust capabilities of the Agent Workspace for HR Case Management.
+The ServiceNow Voice for HR Agent Workspace provides seamless interactive voice response \(IVR\) and calling experiences for your employees and agents by integrating a cloud contact center provider with the robust capabilities of the Agent Workspace for HR Case Management.
 
 The ServiceNow Voice for HR provides the following capabilities:
 
 -   An inbound contact flow to define the employee experience in an IVR.
--   An outbound contact flow to [[c_Connect|connect]] with employee contacts from the phone number field displayed in any of the ServiceNow application interfaces.
+-   An outbound contact flow to connect with employee contacts from the phone number field displayed in any of the ServiceNow application interfaces.
 -   Operation handlers to configure automated interactions for employee service cases.
 
 ## Employee experience with ServiceNow Voice for HR
@@ -66,7 +66,7 @@ ServiceNow Voice with Amazon Connect \[sn\_cti\_amzn\_cct\]
 
 </td><td>
 
-Integrates the ServiceNow instance with the Amazon Connect server. For information about the components installed with this application, see [[instld-with-amazn-cnct-integ|Components installed with Amazon Connect Integration with ServiceNow Voice]]
+Integrates the ServiceNow instance with the Amazon Connect server. For information about the components installed with this application, see [Components installed with Amazon Connect Integration with ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-amazn-cnct-integ.md)
 
 </td></tr><tr><td>
 
@@ -85,22 +85,14 @@ ServiceNow Voice for HR Agent Workspace\[sn\_cti\_hr\_cnt\]
 Provides the framework that supports the integration with your third-party phone system.
 
 </td></tr></tbody>
-</table>You must install the dependency applications first, then install ServiceNow Voice for HR. For more information, see [[install-voice-hr|Install ServiceNow Voice for HR]].
+</table>You must install the dependency applications first, then install ServiceNow Voice for HR. For more information, see [Install ServiceNow Voice for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-voice-hr.md).
 
-ServiceNow Voice for HR creates an interaction record for every call between an employee and an HR agent with the IMS prefix. These records contain related lists of details relating to the employee and interaction. To maximize the full feature capability, add the Interaction record to the HR Agent workspace. For more information, see [[add-interaction-related-records|Add Interaction Related Records to HR Agent workspace]].
+ServiceNow Voice for HR creates an interaction record for every call between an employee and an HR agent with the IMS prefix. These records contain related lists of details relating to the employee and interaction. To maximize the full feature capability, add the Interaction record to the HR Agent workspace. For more information, see [Add Interaction Related Records to HR Agent workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-interaction-related-records.md).
 
 -   **[Install ServiceNow Voice for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-voice-hr.md)**  
 You can install ServiceNow Voice for HR if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Add Interaction Related Records to HR Agent workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-interaction-related-records.md)**  
 ServiceNow Voice for HR creates an interaction record for every call between an employee and an HR agent, which contain related lists of details relating to the employee and interaction. To maximize the full feature capability, add the Interaction record to the HR Agent workspace.
 
-**Parent Topic:**[[integrate-ccc-other-apps|Integrating Voice with other applications]]
+**Parent Topic:**[Integrating Voice with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-other-apps.md)
 
-## Related
-
-- [[instld-with-amazn-cnct-integ|Components installed with Amazon Connect Integration with ServiceNow Voice]]
-- [[install-voice-hr|Install ServiceNow Voice for HR]]
-- [[add-interaction-related-records|Add Interaction Related Records to HR Agent workspace]]
-- [[integrate-ccc-other-apps|Integrating Voice with other applications]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]

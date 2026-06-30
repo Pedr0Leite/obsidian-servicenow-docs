@@ -20,7 +20,7 @@ Use the Service Graph Connector for ExtraHop to pull data from the ExtraHop appl
 
 The Service Graph Connector for ExtraHop provides real-time network visibility across your enterprise by implementing stream processing, so that you can transform your network data into structured wire data.
 
-The Service Graph Connector for ExtraHop pulls network visibility data into the ServiceNow® [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application. The connector enriches discovered device data and establishes relationships between devices based on network traffic flow.
+The Service Graph Connector for ExtraHop pulls network visibility data into the ServiceNow® Configuration Management Database \(CMDB\) application. The connector enriches discovered device data and establishes relationships between devices based on network traffic flow.
 
 ## Request apps on the Store
 
@@ -30,7 +30,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Dependencies and requirements:
 
--   [[mid-server-landing|MID Server]] that is installed on Linux or Windows, unless the ExtraHop appliance is publicly accessible.
+-   MID Server that is installed on Linux or Windows, unless the ExtraHop appliance is publicly accessible.
 -   ExtraHop Discover appliance with firmware version 7.2 or later with a user account that has unlimited privileges.
 
 -   Supported versions: ExtraHop v7.9.
@@ -54,11 +54,11 @@ The guided setup for the Service Graph Connector for ExtraHop provides an organi
 
 ## CMDB Integrations Dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed [[cmdb-sgc-available|Service Graph Connectors]]. You can see metrics for all integration runs. You can also filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring ExtraHop integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed Service Graph Connectors. You can see metrics for all integration runs. You can also filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring ExtraHop integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from data sources in the ExtraHop application is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from data sources in the ExtraHop application is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from the ExtraHop application. The data is loaded into the following staging tables:
 
@@ -69,7 +69,7 @@ The data is then inserted into the following target tables:
 
 -   CI Relationship \[cmdb\_rel\_ci\]
 -   Hardware \[cmdb\_ci\_hardware\]
--   [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+-   IP Address \[cmdb\_ci\_ip\_address\]
 -   Network Adapter \[cmdb\_ci\_network\_adapter\]
 
 **Related topics**  
@@ -77,12 +77,3 @@ The data is then inserted into the following target tables:
 
 [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[mid-server-landing|MID Server]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[ip-address|IP Address]]

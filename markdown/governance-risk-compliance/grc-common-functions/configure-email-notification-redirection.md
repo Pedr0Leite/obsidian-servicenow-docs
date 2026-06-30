@@ -26,7 +26,7 @@ Notification routing rules determine which workspace a user is directed to when 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[email-notification-redirection|GRC Notification Redirection]]** &gt; **Notification Routing Rules**.
+1.  Navigate to **All** &gt; **GRC Notification Redirection** &gt; **Notification Routing Rules**.
 
 2.  **New**.
 
@@ -96,6 +96,3 @@ The notification routing rule is active. Users with access to the configured wor
 
 **Parent Topic:**[GRC notification redirection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/email-notification-redirection.md)
 
-## Related
-
-- [[email-notification-redirection|GRC notification redirection]]

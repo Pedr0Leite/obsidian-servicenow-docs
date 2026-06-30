@@ -12,7 +12,7 @@ breadcrumb: [Scheduled assessments, Assessment administrator tasks, Using assess
 
 # Generate a vendor type assessment manually
 
-The Vendor Performance feature provides a direct method of generating [[r_Assessments|assessments]] for the Vendor metric type.
+The Vendor Performance feature provides a direct method of generating assessments for the Vendor metric type.
 
 ## Before you begin
 
@@ -25,9 +25,5 @@ Role required: admin
 2.  Click **Generate Assessments** to execute the scheduled job for the **Vendor** type.
 
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-## Related
-
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[r_Assessments|Assessments]]

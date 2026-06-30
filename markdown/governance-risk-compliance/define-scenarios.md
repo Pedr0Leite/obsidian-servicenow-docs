@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create a scenario and link it to an event
 
-Create a scenario in the [[grc-opres-landing-page|Operational Resilience]] application so that you can associate it with an event and assess its impact on your business services.
+Create a scenario in the Operational Resilience application so that you can associate it with an event and assess its impact on your business services.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ A scenario helps you to determine the risks that are applicable to your business
 
 3.  On the form, fill in the fields.
 
-    For the description of the field values, see [[scenario-reference|Scenario New record form]].
+    For the description of the field values, see [Scenario New record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-reference.md).
 
 4.  Click **Submit**.
 
@@ -44,7 +44,4 @@ A scenario helps you to determine the risks that are applicable to your business
 
     The order for the event is tied to the scenario and it is auto-filled by default in the related list.
 
-## Related
 
-- [[scenario-reference|Scenario New record form]]
-- [[grc-opres-landing-page|Operational Resilience]]

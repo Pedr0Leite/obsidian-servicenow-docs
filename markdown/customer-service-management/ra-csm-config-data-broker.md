@@ -67,7 +67,7 @@ Rule Context SysIds
 
 </td><td>
 
-Sysid of the rule context records that must be applied to the UI component. The recommendations of these [[gamification-components-rules|rules]] are reflected in the recommendations tab when the event is triggered. This property is of String array type.
+Sysid of the rule context records that must be applied to the UI component. The recommendations of these rules are reflected in the recommendations tab when the event is triggered. This property is of String array type.
 
 </td></tr><tr><td>
 
@@ -120,6 +120,3 @@ Triggers the refresh when the defined condition is met.Define the condition in t
 
 When the configured component is triggered, the recommendations are refreshed and updated accordingly in the CSM/FSM Configurable Workspace.
 
-## Related
-
-- [[gamification-components-rules|Rules]]

@@ -240,7 +240,7 @@ Build Agent
 
 Build Agent is a ServiceNow AI Platform feature that is active by default.
 
-**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [[now-assist-for-creator-rn|Now Assist for Creator release notes]].
+**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [Now Assist for Creator release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-creator-rn.md).
 
 </td></tr><tr><td>
 
@@ -664,7 +664,7 @@ Enterprise Service Management Foundation
 
 </td><td>
 
-Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [[cbs-rn|Core Business Suite release notes]] and [[ai-native-it-service-desk-rn|IT Service Management release notes]].
+Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [Core Business Suite release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/cbs-rn.md) and [IT Service Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/ai-native-it-service-desk-rn.md).
 
 </td></tr><tr><td>
 
@@ -1974,11 +1974,5 @@ Install Zero Copy Connector Hub by requesting it from the ServiceNow Store. Visi
 Zero Copy Connector Hub is also available with activation of the Zero Copy Connectors app \(sn\_data\_fabric\_zcc\), which requires a separate subscription. For details, see [Request Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-zcc.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[release-notes-summaries|Release notes summaries for Australia features]]
+</table>**Parent Topic:**[Release notes summaries for Australia features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes-summaries.md)
 
-## Related
-
-- [[now-assist-for-creator-rn|Now Assist for Creator release notes]]
-- [[cbs-rn|Core Business Suite release notes]]
-- [[ai-native-it-service-desk-rn|IT Service Management release notes]]
-- [[release-notes-summaries|Release notes summaries for Australia features]]

@@ -20,25 +20,25 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder appears in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  From the menu on the left side, select **Screens** to display the [[sg-data-item|data items]] for the scope.
+3.  From the menu on the left side, select **Screens** to display the data items for the scope.
 
 4.  Click the **New** button.
 
-5.  Choose the **List** card from the **[[sg-studio-configure-applet-screens|Create a screen]]** window.
+5.  Choose the **List** card from the **Create a screen** window.
 
 6.  Use the **Properties** section to give your list a name and description.
 
 7.  Select an icon by clicking the **Choose** button in the **Icon** section.
 
-8.  Click the **Save** button in the upper right corner to save the [[list-screen|list screen]].
+8.  Click the **Save** button in the upper right corner to save the list screen.
 
 9.  In the **Screen segments** section, click **New** to create a section.
 
@@ -48,7 +48,7 @@ Role required: admin
 
     A new **New list stream** panel displays.
 
-11. In the **Data item** section, click **Choose**, and select the parametrized data item you created in [[sg-create-related-list|Create a parametrized data item for your related list]].
+11. In the **Data item** section, click **Choose**, and select the parametrized data item you created in [Create a parametrized data item for your related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list.md).
 
 12. Return to the list screen record by selecting it in the configuration tree.
 
@@ -73,14 +73,5 @@ Role required: admin
 
 ## Example
 
-Continuing the preceding example, you create an list screen to display incidents for your problem record. This list screen uses the data item created in the previous steps. This list screen needs a parameter to contain the problem record from your problem [[form-screen|record screen]]. To make it easy to identify, the parameter name is also named `Problem`. In the IU Parameter Mapping section, you create a mapping between the data item parameter and the screen parameter, so the value can pass between them.
+Continuing the preceding example, you create an list screen to display incidents for your problem record. This list screen uses the data item created in the previous steps. This list screen needs a parameter to contain the problem record from your problem record screen. To make it easy to identify, the parameter name is also named `Problem`. In the IU Parameter Mapping section, you create a mapping between the data item parameter and the screen parameter, so the value can pass between them.
 
-## Related
-
-- [[sg-create-related-list|Create a parametrized data item for your related list]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]

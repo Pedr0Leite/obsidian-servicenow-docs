@@ -14,7 +14,7 @@ breadcrumb: [Federal plugin, HR Service Delivery, Employee Service Management]
 
 # Federal plugin reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about tables in [[fed-view|Federal plugin]].
+Reference topics provide additional information about tables in Federal plugin.
 
 ## Components installed with Federal plugin
 
@@ -742,7 +742,7 @@ A2-3 Candidate Assessment and Selection
 
  A2-6 New Hire In-Processing and Onboarding
 
- A3-3 [[exploring-learning-exp|Learning]] Administration
+ A3-3 Learning Administration
 
 </td></tr><tr><td>
 
@@ -6024,9 +6024,3 @@ Single table to house all Domain Values
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[fed-view|Federal plugin]]
-- [[exploring-learning-exp|Learning]]

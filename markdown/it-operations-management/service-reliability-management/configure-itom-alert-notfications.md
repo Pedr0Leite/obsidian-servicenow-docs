@@ -14,7 +14,7 @@ breadcrumb: [Configure, ITOM Mobile Agent, Service Reliability Management, ITOM 
 
 # Configure when to send alert notifications for ITOM Mobile
 
-Keep your teams informed by configuring when [[itom-mobile-landing|ITOM Mobile Agent]] sends a notification about an alert.
+Keep your teams informed by configuring when ITOM Mobile Agent sends a notification about an alert.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ By default, ITOM Mobile Agent sends a push notification and email when an alert 
 
 You can update those conditions as needed. For example, the ITOM Mobile Agent app can send notifications for both critical and major alerts. However, if you customize the conditions, the conditions don't receive future release updates. That behavior is intentional to avoid overwriting your work.
 
-**Note:** To get push notifications, you must [[log-in-itom-mobile|log in to ITOM Mobile Agent]]. If you log out, you only get email notifications.
+**Note:** To get push notifications, you must log in to ITOM Mobile Agent. If you log out, you only get email notifications.
 
 This procedure is for admins configuring alert push notifications and emails. To manage other notification features, see [Customizing other mobile settings for ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-other-customizations.md).
 
@@ -55,7 +55,3 @@ This procedure is for admins configuring alert push notifications and emails. To
 
 To customize who receives emails about alerts, see [Customize ITOM Mobile Agent email recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/customize-itom-email-recipients.md). You can also customize other notification features, such as setting custom notification tones and overriding the Do Not Disturb setting for critical issues. See [Customizing other mobile settings for ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-other-customizations.md) for more information.
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[log-in-itom-mobile|Log in to ITOM Mobile Agent]]

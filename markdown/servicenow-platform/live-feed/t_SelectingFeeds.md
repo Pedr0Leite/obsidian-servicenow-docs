@@ -14,7 +14,7 @@ breadcrumb: [Live Feed UI overview, Using Live Feed, Live Feed Core UI, Manage p
 
 # Select feeds
 
-A feed is a stream of related messages. You can use the feed selector to switch between feed types and to view specific group feeds and [[c_RecordFeeds|record feeds]].
+A feed is a stream of related messages. You can use the feed selector to switch between feed types and to view specific group feeds and record feeds.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ Allows you to add a group feed.
 </table>
 **Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedUIOverview.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]

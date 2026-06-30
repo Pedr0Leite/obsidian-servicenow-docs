@@ -14,7 +14,7 @@ breadcrumb: [Workflow activities, Classic Workflow, ServiceNow AI Platform Addit
 
 # Using variables in Notify workflow activities
 
-Certain [[c_NotifyActivities|Notify workflow activities]] support variable substitution for reading text to callers.
+Certain Notify workflow activities support variable substitution for reading text to callers.
 
 Certain Notify workflow activities allow you to use variables, such as those from the workflow scratchpad, to determine the activity behavior. Each activity supports a maximum of 20 variables. The following activities allow variable substitution:
 
@@ -35,6 +35,3 @@ You can get values from objects on the scratchpad using the format $\{object.val
 
 The **Input** activity exposes the $\{digit\} variable. Use this variable in each condition presented by the activity. The number read to the user is determined automatically by each condition. The caller can press that number to cause the activity to transition through that condition.
 
-## Related
-
-- [[c_NotifyActivities|Notify workflow activities]]

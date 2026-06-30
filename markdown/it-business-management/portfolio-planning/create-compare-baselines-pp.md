@@ -22,7 +22,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select a planning item.
 
 2.  Select **Financials** from the left menu.
 
@@ -51,7 +51,7 @@ Create financial baseline window appears with the Name field is auto-populated w
 2.  In the Description field, enter a brief description to identify this baseline and select **Save**.
  A baseline is created capturing the planned costs and expense is captured.
 
-**Note:** You can [activate a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/baseline-scheduler-job.md) to automatically [[create-financial-baselines-ppw|create financial baselines]].
+**Note:** You can [activate a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/baseline-scheduler-job.md) to automatically create financial baselines.
 
 </td></tr><tr><td id="d210826e147">
 
@@ -70,7 +70,4 @@ Create financial baseline window appears with the Name field is auto-populated w
 
     For more information on how to migrate financial baselines of projects, see [Migrate financial baselines of projects to Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/migrate-fin-baselines-projects.md).
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-financial-baselines-ppw|Create financial baselines]]

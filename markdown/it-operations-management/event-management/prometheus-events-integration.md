@@ -14,19 +14,19 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Prometheus events
 
-Integrate Prometheus with [[c_EM|Event Management]] by adding a standard webhook in Prometheus's Alert Manager.
+Integrate Prometheus with Event Management by adding a standard webhook in Prometheus's Alert Manager.
 
 ## Before you begin
 
 -   Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
--   Verify Configuration Items for the hosts managed by Prometheus exist in ServiceNow. These CIs can be physical or virtual, and can be either manually created or discovered using IP [[r-discovery|discovery]] or Cloud discovery.
+-   Verify Configuration Items for the hosts managed by Prometheus exist in ServiceNow. These CIs can be physical or virtual, and can be either manually created or discovered using IP discovery or Cloud discovery.
 -   Role required: evt\_mgmt\_integration
 
 ## About this task
 
 Configure the Event Management environment for the collection of events from Prometheus.
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -56,8 +56,3 @@ To map hosts to the **cmdb\_ci\_vm\_object** record instead of **cmdb\_ci\_hardw
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]

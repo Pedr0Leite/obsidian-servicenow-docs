@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Define agent pools eligible for assignment
 
-Specify pools of agents eligible to receive overflow [[awa-assignment|work assignments]] for a queue. An eligible assignment pool can consist of one or more groups of agents available to work on items in the queue. This feature enables [[awa-application-landing-page|Advanced Work Assignment]] to find a qualified agent from a wider pool of agents.
+Specify pools of agents eligible to receive overflow work assignments for a queue. An eligible assignment pool can consist of one or more groups of agents available to work on items in the queue. This feature enables Advanced Work Assignment to find a qualified agent from a wider pool of agents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Use the **Assignment Eligibility** related link to expand the pool of agents eligible to work on items in the queue when other agents are busy or unavailable. For each agent pool, select the assignment rule that determines the assignment eligibility. If you don’t define an eligible assignment pool for a queue, [[awa-work-items|work items]] are routed to the queue but AWA doesn't assign them.
+Use the **Assignment Eligibility** related link to expand the pool of agents eligible to work on items in the queue when other agents are busy or unavailable. For each agent pool, select the assignment rule that determines the assignment eligibility. If you don’t define an eligible assignment pool for a queue, work items are routed to the queue but AWA doesn't assign them.
 
 ## Procedure
 
@@ -80,8 +80,4 @@ The set of groups eligible for assignment. -   Click the lock icon to unlock it 
 
     The Queues \[awa\_queues\] table is updated with the eligible assignment pool.
 
-## Related
 
-- [[awa-assignment|Work assignments]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]

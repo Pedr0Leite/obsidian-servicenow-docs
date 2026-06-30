@@ -46,7 +46,7 @@ Fields on the Asset put away task form help you create a put away task for the i
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -74,6 +74,3 @@ Fields on the Asset put away task form help you create a put away task for the i
 
 [Scheduled jobs and tables installed with normalization of firmware models]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]

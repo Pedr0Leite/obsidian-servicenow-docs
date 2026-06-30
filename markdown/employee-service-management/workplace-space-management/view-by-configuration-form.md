@@ -50,7 +50,7 @@ View by field
 
 </td><td>
 
-Field that is used to filter the view of the scenario planner or building overview.You can dot-walk to a maximum of two fields. You can only select fields that are of the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], choice, or true/false type.
+Field that is used to filter the view of the scenario planner or building overview.You can dot-walk to a maximum of two fields. You can only select fields that are of the reference, choice, or true/false type.
 
 </td></tr><tr><td>
 
@@ -76,11 +76,11 @@ Mode
 
 Mode where the view by configuration is enabled.**Note:**
 
--   [[space-planning|Space Planning]] is not supported for the Scenario Plan Space Detail \[sn\_wsd\_spcmgmt\_scenario\_plan\_space\_detail\] table.
+-   Space Planning is not supported for the Scenario Plan Space Detail \[sn\_wsd\_spcmgmt\_scenario\_plan\_space\_detail\] table.
 
 -   Building overview is not supported for the Scenario Plan Space Detail \[sn\_wsd\_spcmgmt\_scenario\_plan\_space\_detail\] table.
 
--   [[scenario-planning|Scenario planning]] is not supported for the Space Detail \[sn\_wsd\_spcmgmt\_space\_detail\] table.
+-   Scenario planning is not supported for the Space Detail \[sn\_wsd\_spcmgmt\_space\_detail\] table.
 
 
 </td></tr><tr><td>
@@ -111,8 +111,3 @@ Domain for the view by configuration.This field is automatically set to global a
 
 [KPI Configuration form]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[space-planning|Space Planning]]
-- [[scenario-planning|Scenario Planning]]

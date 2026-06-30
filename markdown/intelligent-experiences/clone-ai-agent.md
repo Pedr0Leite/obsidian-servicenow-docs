@@ -12,7 +12,7 @@ breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
 
 # Duplicate an AI agent
 
-Duplicate an existing AI agent in [[ai-agent-studio|AI Agent Studio]] so that you can save time by not having to manually configure or create AI agents.
+Duplicate an existing AI agent in AI Agent Studio so that you can save time by not having to manually configure or create AI agents.
 
 ## Before you begin
 
@@ -57,9 +57,5 @@ Custom columns, such as the Tools and Knowledge sources, Status, and a column wi
 
 ## Result
 
-You’re redirected to the AI Agent Studio [[now-assist-center-home-page|home page]]. In the Manage and configure AI Agents to solve agentic workflow section on the **AI Agents** tab, you see the duplicated AI agent.
+You’re redirected to the AI Agent Studio home page. In the Manage and configure AI Agents to solve agentic workflow section on the **AI Agents** tab, you see the duplicated AI agent.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-home-page|Home page]]

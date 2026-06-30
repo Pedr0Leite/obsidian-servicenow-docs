@@ -49,7 +49,7 @@ Proposed delivery date
 
 </td><td>
 
-Revised delivery date proposed by the [[supplier|supplier]].
+Revised delivery date proposed by the supplier.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Delivery date gap
 
 </td><td>
 
-Difference between delivery date in the [[purchase-order-table|purchase order]] and the proposed delivery date in the exception.
+Difference between delivery date in the purchase order and the proposed delivery date in the exception.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Delivery quantity gap
 
 </td><td>
 
-Difference between quantity in the purchase order and the [[purchase-order-exception-table|purchase order exception]].
+Difference between quantity in the purchase order and the purchase order exception.
 
 </td></tr><tr><td>
 
@@ -146,10 +146,10 @@ Unit price
 Price per unit of the item.
 
 </td></tr></tbody>
-</table>-   **[[purch-order-exception-form-tabs|Purchase order exception form tabs]]**  
+</table>-   **[Purchase order exception form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form-tabs.md)**  
 The Purchase order exception form includes tabs that store exception information, which an Operational Buyer can use to perform related tasks.
 
-**Parent Topic:**[[purchase-order-mgmt-reference|Purchase Order Management reference]]
+**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
@@ -160,10 +160,3 @@ The Purchase order exception form includes tabs that store exception information
 
 [Master data tables for Purchase Order Management]()
 
-## Related
-
-- [[purch-order-exception-form-tabs|Purchase order exception form tabs]]
-- [[purchase-order-mgmt-reference|Purchase Order Management reference]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-exception-table|Purchase Order Exception]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Components installed with Contract Management Pro
 
-Several types of components are installed with activation of the Contracts Core application that includes the components for [[cncore-expl-wdt|Word Document Templates]], including tables and user roles.
+Several types of components are installed with activation of the Contracts Core application that includes the components for Word Document Templates, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -120,7 +120,7 @@ Contract report viewer\[sn\_cm\_core.contract\_report\_viewer\]
 
 </td><td>
 
-Provides access to view reports for contract requests and signed contracts data on the [[cncore-contracts-dashboard|Contracts Dashboard]].
+Provides access to view reports for contract requests and signed contracts data on the Contracts Dashboard.
 
 </td><td>
 
@@ -174,7 +174,7 @@ Obligation user\[sn\_cm\_obligation.obligation\_user\]
 
 </td><td>
 
-This role is required to update and [[cncore-work-on-ob-tasks|submit obligation tasks]].
+This role is required to update and submit obligation tasks.
 
 </td><td>
 
@@ -206,7 +206,7 @@ Obligation administrator\[sn\_cm\_obligation.obligation\_admin\]
 
 </td><td>
 
-Provides administrative access to [[cncore-obligation-management|Obligation management]] and underlying data.
+Provides administrative access to Obligation management and underlying data.
 
 </td><td>
 
@@ -460,7 +460,7 @@ Store details of obligation tasks.
 </td></tr></tbody>
 </table>## Scheduled jobs
 
-There are several properties that you can use to configure integrations for [[cncore-cmpro-landing-page|Contract Management Pro]]. These properties are used while executing the following scheduled jobs. For more information, see [Properties installed to configure contracts integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties.md).
+There are several properties that you can use to configure integrations for Contract Management Pro. These properties are used while executing the following scheduled jobs. For more information, see [Properties installed to configure contracts integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties.md).
 
 <table id="id_zbt_hcj_k1c"><thead><tr><th>
 
@@ -546,10 +546,3 @@ Validate schedule and create recurring obligation tasks
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[cncore-contracts-dashboard|Contracts Dashboard]]
-- [[cncore-work-on-ob-tasks|Submit obligation tasks]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance, ITOM Visibility, IT Operations Management]
 
 # Configuring Tag Governance
 
-Install the [[landing-page-tag-governance|Tag Governance]] app to execute tag audits, view the Tag Data Governance dashboard, and perform tag [[ccg-remediation|remediation]].
+Install the Tag Governance app to execute tag audits, view the Tag Data Governance dashboard, and perform tag remediation.
 
 ## Configuration overview
 
@@ -28,7 +28,4 @@ Install the [[landing-page-tag-governance|Tag Governance]] app to execute tag au
 
     To view the list of plugins and applications installed with Tag Governance, including any dependencies, see [Plugins or applications installed with ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-visibility.md).
 
-## Related
 
-- [[landing-page-tag-governance|Tag Governance]]
-- [[ccg-remediation|Remediation]]

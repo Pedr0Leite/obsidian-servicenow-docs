@@ -14,7 +14,7 @@ breadcrumb: [Configure report templates in Security Incident Response, Configure
 
 # System properties for reports
 
-The system properties for [[sir-landing-page|Security Incident Response]] reports are explained below.
+The system properties for Security Incident Response reports are explained below.
 
 |Property|Description|Value|
 |--------|-----------|-----|
@@ -29,6 +29,3 @@ The system properties for [[sir-landing-page|Security Incident Response]] report
 
 **Parent Topic:**[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

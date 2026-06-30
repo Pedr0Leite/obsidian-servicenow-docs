@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Hide per-table search result counts in Next Experience UI
 
-Suppress display of per-table search result counts in the Next Experience UI search [[hs-results|results]] page.
+Suppress display of per-table search result counts in the Next Experience UI search results page.
 
 ## Before you begin
 
@@ -78,6 +78,3 @@ Per-table search result counts no longer display on the search results page.
 
 [Global text search suggestions]()
 
-## Related
-
-- [[hs-results|Results]]

@@ -26,7 +26,7 @@ You can also add a user or modify a user's neighborhood assignment from their wo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Workplace profiles**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Workplace profiles**.
 
 2.  Select the user whose neighborhood assignment you want to add or edit.
 
@@ -34,7 +34,7 @@ You can also add a user or modify a user's neighborhood assignment from their wo
 
     2.  Select **Open Record**.
 
-3.  On the [[user-workplace-profile-form|User Workplace Profile form]], go to the Workplace Profile Location Assignments related list.
+3.  On the User Workplace Profile form, go to the Workplace Profile Location Assignments related list.
 
 4.  To edit the existing user assignment, do the following:
 
@@ -48,7 +48,7 @@ You can also add a user or modify a user's neighborhood assignment from their wo
 
     1.  Select **New**.
 
-    2.  On the [[wsd-location-assignment-form|Workplace Profile Location Assignment form]], do the following:
+    2.  On the Workplace Profile Location Assignment form, do the following:
 
         1.  Set the **Profile type** as **Neighborhood assignment**.
         2.  In the **Neighborhood** field, select the neighborhood to which you want to assign the user.
@@ -65,8 +65,3 @@ The user's neighborhood assignment and the neighborhood to which the user belong
 
 **Parent Topic:**[Managing Neighborhoods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/neighborhoods.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[user-workplace-profile-form|User Workplace Profile form]]
-- [[wsd-location-assignment-form|Workplace Profile Location Assignment form]]

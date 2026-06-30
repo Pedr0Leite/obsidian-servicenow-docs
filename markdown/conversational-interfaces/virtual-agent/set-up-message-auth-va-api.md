@@ -14,7 +14,7 @@ breadcrumb: [Review inbound response REST endpoint and configure inbound authent
 
 # Configure Message Authentication for inbound communication
 
-You can configure Message Authentication for the [[virtual-agent-api-landing-page|Virtual Agent API]] instead of Basic or OAuth. Message Authentication involves configuring either Static or Hash tokens, setting up Provider Authentication, and setting the channel identity.
+You can configure Message Authentication for the Virtual Agent API instead of Basic or OAuth. Message Authentication involves configuring either Static or Hash tokens, setting up Provider Authentication, and setting the channel identity.
 
 ## Before you begin
 
@@ -105,6 +105,3 @@ Role required: admin
 
 **Parent Topic:**[Review the inbound REST endpoint and configure inbound authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-send-request.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

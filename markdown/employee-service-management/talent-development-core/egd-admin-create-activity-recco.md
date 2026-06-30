@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Create Talent Development Activity Recommendations
 
-As an Talent admin you create **[[activity-lxp|Activity]] Template Recommendations** that are used in growth plans.
+As an Talent admin you create **Activity Template Recommendations** that are used in growth plans.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Controls whether the activity is **Required** or **Recommended** for the growth 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Activity Template Recommendation**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Activity Template Recommendation**.
 
 2.  Select **New**.
 
@@ -39,7 +39,3 @@ Controls whether the activity is **Required** or **Recommended** for the growth 
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[egd-landing-page|Talent Development Core]]

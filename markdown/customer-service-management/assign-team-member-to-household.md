@@ -12,7 +12,7 @@ breadcrumb: [Configuring households, Customer data, Set up your environment, Con
 
 # Assign a team member to a household
 
-Assign a team member to a household by selecting an employee. You can then select the employee’s role or responsibility in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Assign a team member to a household by selecting an employee. You can then select the employee’s role or responsibility in the Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Type
 
 </td><td>
 
-Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations. **Note:** Starting with the Zurich release, the **Type** field is added to the Household Team Member form. For more information on how to populate the **Type** field for existing data, see [[migration-of-account-manager-responsibility-access|Populate the Type field in relationship tables using the fix script]].
+Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations. **Note:** Starting with the Zurich release, the **Type** field is added to the Household Team Member form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-of-account-manager-responsibility-access.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,4 @@ Specifies the sequence in which records are displayed, organized according to bu
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[migration-of-account-manager-responsibility-access|Populate the Type field in relationship tables using the fix script]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

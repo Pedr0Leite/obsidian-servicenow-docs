@@ -12,9 +12,5 @@ breadcrumb: [Manufacturing Commercial Operations]
 
 # Integrating Manufacturing Commercial Operations with other applications
 
-Extend the capabilities of [[manufacturing-overview|Manufacturing Commercial Operations]] and connect with other departments to assist with [[mco-quality-issue-management|quality issue management]] by integrating with other applications.
+Extend the capabilities of Manufacturing Commercial Operations and connect with other departments to assist with quality issue management by integrating with other applications.
 
-## Related
-
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-quality-issue-management|Quality issue management]]

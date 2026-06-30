@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** The dynamic titles don’t apply to the knowledge article view page in the Knowledge Management [[c_ServicePortal|Service Portal]].
+**Note:** The dynamic titles don’t apply to the knowledge article view page in the Knowledge Management Service Portal.
 
 ## Procedure
 
@@ -88,7 +88,7 @@ URL query parameter
 
 </td><td>
 
-URL parameter to indicate the record that is being displayed. You can enter any string.**Tip:** To create a URL parameter that is meaningful and easily identifiable, use a field name from the record. For example, to refer to a knowledge article, you can enter `number` to [[onboarding-modals-reference|reference]] the article by its number.
+URL parameter to indicate the record that is being displayed. You can enter any string.**Tip:** To create a URL parameter that is meaningful and easily identifiable, use a field name from the record. For example, to refer to a knowledge article, you can enter `number` to reference the article by its number.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,3 @@ When the page loads, the record defined in the URL query parameter displays. The
 
 [Create and edit a page using the Service Portal Designer]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]

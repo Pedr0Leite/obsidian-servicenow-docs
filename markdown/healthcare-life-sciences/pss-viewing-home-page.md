@@ -16,7 +16,7 @@ As a care coordinator, you can use the landing page of the Workspace to quickly 
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -24,7 +24,7 @@ The landing page of the Workspace provides an overview of the enrollment cases a
 
 ## Role required
 
-Care coordinators must have the sn\_patientservice.agent role to use the Workspace. For more information, see [[pss-assign-roles|Assign roles for Patient Support Services users]].
+Care coordinators must have the sn\_patientservice.agent role to use the Workspace. For more information, see [Assign roles for Patient Support Services users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-assign-roles.md).
 
 ## Accessing and using the landing page
 
@@ -44,7 +44,3 @@ The Workspace landing page for enrollment cases is same as the landing page of W
 
 **Note:** Your administrator can customize the landing page for Workspace and change the data that appears on it.
 
-## Related
-
-- [[pss-assign-roles|Assign roles for Patient Support Services users]]
-- [[pss-app|Patient Support Services]]

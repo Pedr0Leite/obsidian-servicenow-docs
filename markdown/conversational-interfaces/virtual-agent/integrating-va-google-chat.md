@@ -15,7 +15,7 @@ breadcrumb: [Configuring your Conversational Integration with Google Chat, Conve
 
 # Integrate Virtual Agent with Google Chat
 
-Add either the Now [[virtual-agent-landing-page|Virtual Agent]] bot or self-configured bot to your ServiceNow instance to integrate with Google Chat.
+Add either the Now Virtual Agent bot or self-configured bot to your ServiceNow instance to integrate with Google Chat.
 
 ## Before you begin
 
@@ -27,14 +27,14 @@ Role required: admin or virtual\_agent\_admin.
 
 ## About this task
 
-**Note:** The two bot types for [[integrate-virtual-agent|integrating Virtual Agent with other channels]] have notable differences. Use the appropriate bot for your instance.
+**Note:** The two bot types for integrating Virtual Agent with other channels have notable differences. Use the appropriate bot for your instance.
 
 -   The Now Virtual Agent bot is prebuilt, and is faster and easier to deploy, but is limited to one instance per tenant.
 -   The self-configured bot takes more time to create and deploy, but you have full control over the bot's registration, and it's available for multiple instances per tenant.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 2.  In the Available Channels section, select the **Add Integration** drop-down menu on the Google Chat tile.\[Omitted image "add-google-chat-integration.png"\] Alt text: Google chat tile with integration options under drop-down menu.
 
@@ -49,8 +49,3 @@ If an automated welcome message displays in the chat window, Google Chat is read
 
 **Parent Topic:**[Configuring your Conversational Integration with Google Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-google-chat.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[integrate-virtual-agent|Integrating Virtual Agent with other channels]]
-- [[convint-landing-page|Conversational Interfaces]]

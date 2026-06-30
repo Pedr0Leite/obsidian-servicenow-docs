@@ -34,7 +34,7 @@ Number
 
 </td><td colspan="2">
 
-Unique number that is generated for the [[universal-task-landing|Universal Task]]. The Universal Task number starts with UNT.
+Unique number that is generated for the Universal Task. The Universal Task number starts with UNT.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Type of task being assigned. The available options are:-   Submit Catalog Item
 -   Upload Documents
 -   Mark When Complete
 -   Checklist
--   [[employee-form-configuration|Collect Employee Input]]
+-   Collect Employee Input
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Collect Employee Input
 
 </td><td>
 
-In the **[[ut-emp-form|Employee form]]** field, select the employee form that the user will fill out. **Note:** Employee forms can be built using the survey designer. See [Create an employee form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-employee-form.md) for more information.
+In the **Employee form** field, select the employee form that the user will fill out. **Note:** Employee forms can be built using the survey designer. See [Create an employee form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-employee-form.md) for more information.
 
 </td></tr><tr><td>
 
@@ -302,8 +302,3 @@ Information about how to resolve the Universal Task or steps taken to resolve it
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Task reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-emp-form|Employee form]]

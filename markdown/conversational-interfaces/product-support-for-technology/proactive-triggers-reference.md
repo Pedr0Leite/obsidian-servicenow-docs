@@ -14,19 +14,14 @@ breadcrumb: [Proactive Triggers, Manage people and work, Conversational Interfac
 
 # Proactive Triggers reference
 
-The following section details the installed components for [[proactive-triggers-landing-page|Proactive Triggers]].
+The following section details the installed components for Proactive Triggers.
 
 -   **[Components installed with the Proactive Triggers feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/components-installed-with-proactive-triggers.md)**  
 When the Proactive Triggers feature is installed, the feature includes required components, such as specific roles and tables. Admins can review these roles and tables to make sure that the feature has been installed correctly.
 -   **[Domain separation and Proactive Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/domain-separation-proactive-triggers.md)**  
 Domain separation is supported for Proactive Triggers. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Proactive Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-rule-new-record-form.md)**  
-When creating a Proactive Triggers rule, the [[proactive-rule-new-record-form|Proactive Rule form]] includes the following fields.
+When creating a Proactive Triggers rule, the Proactive Rule form includes the following fields.
 -   **[Proactive Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-action-new-record-form.md)**  
-When creating a Proactive Triggers rule, the [[proactive-action-new-record-form|Proactive Action form]] includes the following fields.
+When creating a Proactive Triggers rule, the Proactive Action form includes the following fields.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[proactive-rule-new-record-form|Proactive Rule form]]
-- [[proactive-action-new-record-form|Proactive Action form]]

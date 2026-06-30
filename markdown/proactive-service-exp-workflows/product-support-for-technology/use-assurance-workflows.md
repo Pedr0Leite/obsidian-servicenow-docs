@@ -14,7 +14,7 @@ breadcrumb: [Proactive Service Experience Workflows, Product Support for Technol
 
 # Using Proactive Service Experience Workflows
 
-By using ServiceNow® [[psew-landing-page|Proactive Service Experience Workflows]], you can help resolve network-initiated incidents and proactively notify impacted customers. This application enhances the Incident Management application for common SD-WAN service issues that are detected by network management systems.
+By using ServiceNow® Proactive Service Experience Workflows, you can help resolve network-initiated incidents and proactively notify impacted customers. This application enhances the Incident Management application for common SD-WAN service issues that are detected by network management systems.
 
 -   **[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-identify-act-incident.md)**  
 An incident record is created when an event management system generates an alert and the affected accounts can be viewed in the Service Operations Workspace.
@@ -27,7 +27,7 @@ Cases are created from the incidents.
 -   **[Diagnose and resolve a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/diagnose-resolve-case-change-request.md)**  
 As a customer service agent, review, diagnose, resolve, and close a change request for the service-related issue experienced by the customer.
 -   **[Create a case from a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-impact-change.md)**  
-[[psew-impact-change|Create a case from a change request]] in Proactive Service Experience Workflows so that you can notify your customers about a service outage and its resolution after the change implementation is complete.
+Create a case from a change request in Proactive Service Experience Workflows so that you can notify your customers about a service outage and its resolution after the change implementation is complete.
 -   **[About messages used in escalation workflows in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-about-msgs.md)**  
 Multiple messages that are used within the incident escalation flows are available with the base Proactive Service Experience Workflows application.
 -   **[Diagnose and resolve an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/diagnose-reslove-incident-psew.md)**  
@@ -37,7 +37,3 @@ As a customer service agent, review, diagnose, resolve, and close a service case
 
 **Parent Topic:**[Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-landing-page.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]
-- [[psew-impact-change|Create a case from a change request]]

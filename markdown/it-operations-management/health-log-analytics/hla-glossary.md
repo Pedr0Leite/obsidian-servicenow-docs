@@ -15,7 +15,7 @@ breadcrumb: [Exploring, Health Log Analytics, ITOM AIOps, IT Operations Manageme
 
 # Health Log Analytics terminology
 
-Before getting started with [[hla-landing-page|Health Log Analytics]], it's important to familiarize yourself with some key concepts used in the application.
+Before getting started with Health Log Analytics, it's important to familiarize yourself with some key concepts used in the application.
 
 <table><thead><tr><th>
 
@@ -31,7 +31,7 @@ Alert
 
 </td><td>
 
-A notification that HLA generates when it finds a statistically significant anomaly in metrics based on your system's log data, indicating a potential IT issue. HLA sends these alerts to [[c_EM|Event Management]], where you can see them in the **All Alerts** list.
+A notification that HLA generates when it finds a statistically significant anomaly in metrics based on your system's log data, indicating a potential IT issue. HLA sends these alerts to Event Management, where you can see them in the **All Alerts** list.
 
 </td></tr><tr><td>
 
@@ -317,8 +317,3 @@ The process of identifying and extracting dynamic, user-defined fields from log 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

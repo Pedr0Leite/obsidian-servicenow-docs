@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with Workday Learning, Integra
 
 # View track approval for Workday Learning
 
-Track every pull that has been performed from ServiceNow to Workday [[exploring-learning-exp|Learning]]. View or edit details of the job, such as when did the job begin and end, when did the records start loading into staging tables, or did the job run completely or fail in between.
+Track every pull that has been performed from ServiceNow to Workday Learning. View or edit details of the job, such as when did the job begin and end, when did the records start loading into staging tables, or did the job run completely or fail in between.
 
 ## Before you begin
 
@@ -36,14 +36,9 @@ Role required: sn\_lrn\_workday.admin
 **Related topics**  
 
 
-[View user [[activity-lxp|activity]] for Workday Learning]()
+[View user activity for Workday Learning]()
 
 [Use transform maps]()
 
-[Import set tables in [[w-integration|HR Service Delivery Integration with Workday]] Learning]()
+[Import set tables in HR Service Delivery Integration with Workday Learning]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]
-- [[w-integration|HR Service Delivery Integration with Workday]]

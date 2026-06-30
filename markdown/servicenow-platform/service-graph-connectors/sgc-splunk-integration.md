@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 # Service Graph Connector for Splunk
 
-The Service Graph Connector for Splunk pulls in asset inventory data \(hardware and software\) from the Splunk database into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application in your ServiceNow AI Platform® instance.
+The Service Graph Connector for Splunk pulls in asset inventory data \(hardware and software\) from the Splunk database into the Configuration Management Database \(CMDB\) application in your ServiceNow AI Platform® instance.
 
 ## Request apps on the Store
 
@@ -37,7 +37,7 @@ By default, the Service Graph Connector for Splunk pulls the following basic for
 -   Forwarder's last check-in time
 -   OS
 -   Host
--   Host [[ip-address|IP address]]
+-   Host IP address
 
 With the [Service Graph Connector for Splunk add-on](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-splunk-add-on.md), you have the option to import extended data for your Windows and Linux assets with the Service Graph Connector for Splunk that includes the following details:
 
@@ -53,16 +53,9 @@ This data is stored in the Configuration Management Database \(CMDB\) and Splunk
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for Splunk provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see the section titled [[sgc-splunk-configure|Configure the Service Graph Connector for Splunk]].
+The guided setup for the Service Graph Connector for Splunk provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see the section titled Configure the Service Graph Connector for Splunk.
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ip-address|IP Address]]
-- [[sgc-splunk-configure|Configure the Service Graph Connector for Splunk]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]

@@ -30,7 +30,7 @@ Name
 
 </td><td>
 
-The descriptive name for the [[c_RecordProducer|record producer]].**Note:** The list shows only tables and database views that meet the scope protections for field styles.
+The descriptive name for the record producer.**Note:** The list shows only tables and database views that meet the scope protections for field styles.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Active
 
 </td><td>
 
-A [[check-box|check box]] for making the record producer active. Only active record producers are available to users if they meet the role criteria.
+A check box for making the record producer active. Only active record producers are available to users if they meet the role criteria.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Catalogs
 
 </td><td>
 
-The [[service-catalog|service catalog]] this record producer belongs to.
+The service catalog this record producer belongs to.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Icon
 
 </td><td>
 
-The small icon that appears on the list of [[c_IntroductionToCatalogItems|service catalog items]]. Click the **Click to add** link and upload the photo.
+The small icon that appears on the list of service catalog items. Click the **Click to add** link and upload the photo.
 
 </td></tr><tr><td>
 
@@ -227,7 +227,7 @@ Portal Settings
 
 </td></tr><tr><td>
 
-Hide [[attachment|Attachment]]
+Hide Attachment
 
 </td><td>
 
@@ -268,7 +268,7 @@ UR certified/enabled item
 
 </td><td>
 
-Option to specify that a universal request should also be created along with a task-based record. In the universal request, a [[reference|reference]] is created to the associated task-based record, which becomes the primary task of the universal request.
+Option to specify that a universal request should also be created along with a task-based record. In the universal request, a reference is created to the associated task-based record, which becomes the primary task of the universal request.
 
 </td></tr><tr><td>
 
@@ -283,11 +283,3 @@ Option to automatically select the **Needs resolution review** check box on the 
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[check-box|Check box]]
-- [[service-catalog|Service Catalog]]
-- [[c_IntroductionToCatalogItems|Service Catalog items]]
-- [[attachment|Attachment]]
-- [[reference|Reference]]

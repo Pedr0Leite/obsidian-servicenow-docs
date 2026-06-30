@@ -20,13 +20,13 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **Catalogs** &gt; **Customer operations** &gt; **[[mco-sales-promotion|Sales Promotion]] Bulk Upload**.
+1.  Navigate to **Dealer Portal** &gt; **Catalogs** &gt; **Customer operations** &gt; **Sales Promotion Bulk Upload**.
 
 2.  Select **Download template**.
 
 3.  On the Sales promotion bulk upload form, fill in the fields.
 
-    For a description of the field values, see [[mco-sp-bulk-upload-form|Sales promotion bulk upload form]].
+    For a description of the field values, see [Sales promotion bulk upload form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sp-bulk-upload-form.md).
 
 4.  Select **Dealer**.
 
@@ -34,8 +34,4 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 6.  Select **Submit**.
 
-## Related
 
-- [[mco-sp-bulk-upload-form|Sales promotion bulk upload form]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-sales-promotion|Sales promotion]]

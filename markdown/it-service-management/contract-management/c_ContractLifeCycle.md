@@ -14,7 +14,7 @@ breadcrumb: [Contract Management use, Contract Management, Asset Management, IT 
 
 # Contract life cycle
 
-From creation until closure, [[c_Contracts|contracts]] follow a life cycle that determines which fields can be edited.
+From creation until closure, contracts follow a life cycle that determines which fields can be edited.
 
 When a contract is in **Draft** state, almost all fields on the contract record can be edited. After a contract moves past the **Draft** state, certain date, renewal, extension, and financial fields become read-only. The **State** field and **Substate** field are read-only.
 
@@ -50,7 +50,7 @@ In addition to a state, a contract can also have a substate.
 |Rejected|Contract reviewed and declined by the approver.|
 |Renewal Approved|Contract renewal approved by the approver.|
 |Renewal Rejected|Contract renewal rejected by the approver.|
-|Renewal in process|Contract renewal is in progress through the [[cont-renew-wf|contract renewal workflow]].|
+|Renewal in process|Contract renewal is in progress through the contract renewal workflow.|
 |Renewed|Contract renewal is complete through the contract renewal workflow.|
 |Extension Approved|Contract extension approved by the approver.|
 |Extension Rejected|Contract extension rejected by the approver.|
@@ -63,7 +63,3 @@ In addition to a state, a contract can also have a substate.
 
 [Contracts]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[cont-renew-wf|Contract renewal workflow]]

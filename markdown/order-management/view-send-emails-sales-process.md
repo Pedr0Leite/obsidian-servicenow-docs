@@ -12,11 +12,11 @@ breadcrumb: [Lead-to-Cash Process Management, Order operations apps, Use, Sales 
 
 # View and send emails in Lead-to-Cash Process Management
 
-View consolidated emails for all hard-linked entities monitored in a sales process record and [[lead-management-use-emails-tab|compose emails]] from the sales process dashboard.
+View consolidated emails for all hard-linked entities monitored in a sales process record and compose emails from the sales process dashboard.
 
 ## Before you begin
 
-You can compose and send emails related to a sales process record by default. To compose emails for child entities such as an opportunity or quote, you must be granted access to those entities. For more information, see [[enabling-email-l2c-process-management|Setting conditions for enabling email access in Lead-to-Cash Process Management]].
+You can compose and send emails related to a sales process record by default. To compose emails for child entities such as an opportunity or quote, you must be granted access to those entities. For more information, see [Setting conditions for enabling email access in Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enabling-email-l2c-process-management.md).
 
 Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\]
 
@@ -43,19 +43,12 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
     4.  Select **Send email**.
 
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
+[Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-## Related
-
-- [[enabling-email-l2c-process-management|Setting conditions for enabling email access in Lead-to-Cash Process Management]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[lead-management-use-emails-tab|Compose emails]]

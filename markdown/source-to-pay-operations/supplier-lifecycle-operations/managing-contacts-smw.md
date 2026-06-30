@@ -14,10 +14,10 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Manage supplier contacts from the Source-to-Pay Workspace
 
-Add or remove [[supplier|supplier]] contacts, elevate access or remove elevated access to contacts from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Add or remove supplier contacts, elevate access or remove elevated access to contacts from the Source-to-Pay Workspace.
 
 -   **[Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md)**  
-Add supplier contacts so that they can access the [[supplier-central|Supplier Collaboration Portal]] and start working on the most important tasks.
+Add supplier contacts so that they can access the Supplier Collaboration Portal and start working on the most important tasks.
 -   **[Remove a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supp-contact-ws.md)**  
 Remove non-essential supplier contacts for a supplier from the Source-to-Pay Workspace.
 -   **[Elevate a contact to the primary contact role from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/elevate-contact-ws.md)**  
@@ -62,8 +62,3 @@ Remove the primary contact role for a contact to prevent them from accessing all
 
 [Restrict the primary contact role for a contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/restrict-contact-ws.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-central|Supplier Collaboration Portal]]

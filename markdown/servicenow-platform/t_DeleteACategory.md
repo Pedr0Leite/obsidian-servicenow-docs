@@ -12,7 +12,7 @@ breadcrumb: [Assessment metric categories, View an assessment metric category, A
 
 # Delete a category
 
-When you delete a category, the system also deletes the associated [[r_CategoryUsersAndStakeholders|category users and stakeholders]].
+When you delete a category, the system also deletes the associated category users and stakeholders.
 
 ## Before you begin
 
@@ -20,33 +20,25 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Categories**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Categories**.
 
     Alternatively, navigate to a record that contains a related list for categories.
 
 2.  Open a record from the list.
 
-3.  On the [[metric-category-form|Metric Category form]], click **Delete**.
+3.  On the Metric Category form, click **Delete**.
 
 4.  Click **OK** when asked to confirm the action.
 
     The system displays messages at the top of the form describing the actions taken.
 
 
-**Parent Topic:**[[c_AssessmentMetricCategories|Assessment metric categories]]
+**Parent Topic:**[Assessment metric categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetricCategories.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateACategoryAR|Create a category for assessable records]]
+[Create a category for assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryAR.md)
 
-## Related
-
-- [[c_AssessmentMetricCategories|Assessment metric categories]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateACategoryAR|Create a category for assessable records]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[r_Assessments|Assessments]]
-- [[metric-category-form|Metric Category form]]

@@ -14,7 +14,7 @@ breadcrumb: [Audit assets using Asset Attestation, Use, Hardware Asset Managemen
 
 # View open asset attestations in the Hardware Asset Workspace
 
-Get the details of all asset attestations that are awaiting action from your employees in the [[using-ham-workspace|Hardware Asset Workspace]].
+Get the details of all asset attestations that are awaiting action from your employees in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ The list of asset attestations with **Status** as **Open** is displayed.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

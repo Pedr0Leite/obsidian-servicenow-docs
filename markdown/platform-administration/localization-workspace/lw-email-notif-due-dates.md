@@ -14,19 +14,19 @@ breadcrumb: [Creating email notifications for Localization Workspace, Configurin
 
 # Create email notifications for translation request due dates
 
-As an admin, you can create email [[notifications|notifications]] triggered by translation request due dates.
+As an admin, you can create email notifications triggered by translation request due dates.
 
 ## Before you begin
 
-Create your own notification category to identify and group your notifications related to [[localization-workspace|Localization Workspace]] translation projects. For instructions see [[create-notification-categories|Create notification categories]].
+Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-notification-categories.md).
 
 Role required: admin
 
 ## About this task
 
-From version 2.0.2, your users may set a due date when [[requesting-translations-localization-workspace|requesting translations in Localization Workspace]]. You can [[reference-email-admin|reference]] these due dates to send email notifications.
+From version 2.0.2, your users may set a due date when requesting translations in Localization Workspace. You can reference these due dates to send email notifications.
 
-For more information see [Request translations in Localization Workspace: Estimate and Due Date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-estimate.md). For background information about configuring email notifications, see [[t_CreateANotification|Create an email notification]].
+For more information see [Request translations in Localization Workspace: Estimate and Due Date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-estimate.md). For background information about configuring email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 The following procedure is specific to notifications for Localization Workspace translation request due dates. In the example scenario, a notification is sent when a translation request is past due \(the request is still in progress after its due date\).
 
@@ -41,7 +41,7 @@ The following procedure is specific to notifications for Localization Workspace 
     |Field|Description|
     |-----|-----------|
     |**Name**|Enter a unique, descriptive name for these notifications.|
-    |**Table**|Select the [[ia-localization-il|Localization]] Project \[sn\_lf\_project\] table from the list of tables.|
+    |**Table**|Select the Localization Project \[sn\_lf\_project\] table from the list of tables.|
     |**Category**|If you have already set up your own category for these notifications, you can select it from the drop-down list. For information see [Create notification categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-notification-categories.md).|
 
     \[Omitted image "lw-email-notif-due-dates-main.png"\] Alt text: An email notification form with the Table field set to Localization Project. Includes a reminder to preconfigure the notification Category.
@@ -183,17 +183,7 @@ After creating or updating a notification, review its record in the Notification
 
 \[Omitted image "lw-email-notif-due-dates-preview.png"\] Alt text: In the top menu bar of the example's notification form, the Preview Notification button is highlighted.
 
-For more information, see [[t_PreviewingNotifications|Preview email notifications]].
+For more information, see [Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md).
 
 **Parent Topic:**[Creating email notifications for Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-email-notifications.md)
 
-## Related
-
-- [[create-notification-categories|Create notification categories]]
-- [[t_CreateANotification|Create an email notification]]
-- [[t_PreviewingNotifications|Preview email notifications]]
-- [[notifications|Notifications]]
-- [[localization-workspace|Localization Workspace]]
-- [[requesting-translations-localization-workspace|Requesting translations in Localization Workspace]]
-- [[reference-email-admin|Reference]]
-- [[ia-localization-il|Localization]]

@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # Close an external work order task as incomplete
 
-[[t_CloseAWorkOrderTaskAsIncomplete|Close a work order task as incomplete]] if there is work pending on the task.
+Close a work order task as incomplete if there is work pending on the task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Open a work order task that is already in progress.
 
@@ -101,7 +101,3 @@ All follow-on tasks generated from any of the work order tasks are in **Closed C
 
 The task is closed successfully and follow-up task is created if you have selected **Yes** from the Create a follow on task? list.
 
-## Related
-
-- [[t_CloseAWorkOrderTaskAsIncomplete|Close a work order task as incomplete]]
-- [[field-service-contractor-portal|Contractor Portal]]

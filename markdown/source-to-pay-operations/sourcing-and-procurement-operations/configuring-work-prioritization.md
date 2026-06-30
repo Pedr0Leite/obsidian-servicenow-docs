@@ -47,8 +47,5 @@ Configure the **Priority defaulting for sourcing requests** decision table to au
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[universal-request|Universal Request]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure alert collection from SCOM, Configure a pull connector, C
 
 # Configure the SCOM connector instance
 
-Configure the Microsoft System Center Operations Manager \(SCOM\) connector instance to receive alerts and [[operational-metrics|Metric Intelligence]] raw data from the SCOM server.
+Configure the Microsoft System Center Operations Manager \(SCOM\) connector instance to receive alerts and Metric Intelligence raw data from the SCOM server.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ If **Bi-directional** is selected, ensure that:
 
 To upgrade an existing SCOM connector:
 
-1.  On the Connector Instance - SCOM connector page \(**All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**\), clear the **Collect Metrics** check box.
+1.  On the Connector Instance - SCOM connector page \(**All** &gt; **Event Management** &gt; **Integrations** &gt; **Connector Instances**\), clear the **Collect Metrics** check box.
 2.  Install the **em-connectors** plugin from the store.
 
 Role required: evt\_mgmt\_admin
@@ -242,7 +242,3 @@ These scenarios describe the default bi-directional functionality for SCOM conne
 
 **Parent Topic:**[Configure alert collection from SCOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSCOMConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

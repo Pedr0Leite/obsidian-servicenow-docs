@@ -12,7 +12,7 @@ breadcrumb: [Navigate the Care Team Portal, Navigate, Care Team Portal, Healthca
 
 # Track requests in the Care Team Portal
 
-Track requests created by you or your team from directly within the [[care-team-portal-landing|Care Team Portal]].
+Track requests created by you or your team from directly within the Care Team Portal.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: sn\_hco.care\_team\_member or sn\_hco.care\_team\_manager
 
 3.  Select the request number of a request to see more information about that request as needed.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

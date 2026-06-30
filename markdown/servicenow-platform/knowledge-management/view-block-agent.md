@@ -26,7 +26,7 @@ Role required: agent\_workspace\_user and knowledge
 
 1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home**.
 
-2.  View [[knowledge-blocks|knowledge blocks]] authored by you or by other people.
+2.  View knowledge blocks authored by you or by other people.
 
     -   View all blocks by navigating to **Lists** &gt; **Knowledge Blocks** &gt; **All**.
     -   View blocks authored by you by navigating to either **Lists** &gt; **Knowledge Blocks** &gt; **Published** or **Lists** &gt; **Knowledge Blocks** &gt; **Unpublished**.
@@ -34,7 +34,7 @@ Role required: agent\_workspace\_user and knowledge
 
 4.  View another version of the knowledge block by selecting the version in the Version list.
 
-    **Note:** The Version list appears only when the [[article-versioning|article versioning]] feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+    **Note:** The Version list appears only when the article versioning feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 
 ## Result
@@ -52,7 +52,3 @@ The selected version of the knowledge block opens within Agent Workspace. Any ea
 
 [Publish a knowledge block in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/publish-block-agent.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[article-versioning|Article versioning]]

@@ -40,7 +40,7 @@ Use case
 
 The use case used to extract obligations from a signed contract.**Note:** Only active use cases for the contract obligation extraction skill are displayed in the list.
 
-The **CM Pro - Contract Obligation Extraction** use case is available with the [[cncore-now-assit-landing|Now Assist in Contract Management]] base system.
+The **CM Pro - Contract Obligation Extraction** use case is available with the Now Assist in Contract Management base system.
 
 </td></tr><tr><td>
 
@@ -113,6 +113,3 @@ For more information on using the condition builder, see [Create a condition sta
 </td></tr></tbody>
 </table>**Parent Topic:**[Map a use case for contract obligation extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-usecase-obext.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

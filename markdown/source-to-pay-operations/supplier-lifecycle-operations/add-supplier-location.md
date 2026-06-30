@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier details, Using Source-to-Pay Workspace, Use, Suppli
 
 # Add a supplier location from the Source-to-Pay Workspace
 
-[[create-supplier|Add a supplier]] location to visualize the geographical location that suppliers run their operations from.
+Add a supplier location to visualize the geographical location that suppliers run their operations from.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## About this task
 
--   If a [[supplier|supplier]] has multiple locations, at least one location should be set as headquarters.
+-   If a supplier has multiple locations, at least one location should be set as headquarters.
 -   If a new supplier location is set as headquarters \(HQ\) or if any updates are made to the existing HQ supplier location, the location details of the HQ supplier location is updated in the supplier record.
 -   When you update the supplier location details in a supplier record, the location details are updated in the supplier location record as well.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Manage my suppliers**.
 
@@ -38,7 +38,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 4.  On the **About** tab, under Supplier Locations, select the add supplier location icon \(\[Omitted image "add-key-contacts.png"\] Alt text: Add supplier location icon\).
 
-5.  On the [[supplier-location-form|Add New Location form]], fill in the fields.\[Omitted image "add-supplier-location-from-source-to-pay-workspace.png"\] Alt text: Completed form for adding a new location.
+5.  On the Add New Location form, fill in the fields.\[Omitted image "add-supplier-location-from-source-to-pay-workspace.png"\] Alt text: Completed form for adding a new location.
 
     For more information about the form fields and descriptions, see [Add New Location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-location-form.md).
 
@@ -58,10 +58,3 @@ The new supplier location is added in the system.
 
 [Edit supplier details from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/edit-supplier-details.md)
 
-## Related
-
-- [[create-supplier|Add a supplier]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-location-form|Add New Location form]]

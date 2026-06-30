@@ -31,7 +31,7 @@ Role required: admin
 
 4.  In the **View** list, select the workspace view that should include the Obligations tab.
 
-5.  Add access to [[cncore-obligation-management|obligation management]] by moving **Obligation** from the Available list to the Selected list.
+5.  Add access to obligation management by moving **Obligation** from the Available list to the Selected list.
 
 6.  Select **Save**.
 
@@ -73,6 +73,3 @@ For more information on roles required to work on obligation management, see [Co
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

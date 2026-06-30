@@ -14,7 +14,7 @@ breadcrumb: [Microsoft OneDrive integration with Document Services, Integrate wi
 
 # Document Services Framework for Microsoft OneDrive
 
-Integrate the [[document-services-landing-page|Document Services]] Framework with Microsoft OneDrive.
+Integrate the Document Services Framework with Microsoft OneDrive.
 
 ## Request apps on the Store
 
@@ -47,7 +47,7 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 
 -   Complex Object \(com.glide.cobject\)
 -   IHUB Spoke Util Pack \(com.snc.ihub\_spoke\_util\_pack\)
--   [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] \(com.snc.multiprovider\_documents\)
+-   Multi Provider Document Services Framework \(com.snc.multiprovider\_documents\)
 -   Remote Directory Sync \(com.snc.remote\_directory\_sync\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
@@ -95,7 +95,7 @@ Associates a document with a specified Recipient Type
 
 </td></tr><tr><td>
 
-[[c_Connect|Connect]] Document From OneDrive Using Path
+Connect Document From OneDrive Using Path
 
 </td><td>
 
@@ -107,7 +107,7 @@ Copy OneDrive Document Version
 
 </td><td>
 
-Copies the document with the specified version from Microsoft OneDrive to an [[attachment|attachment]] in the ServiceNow instance.
+Copies the document with the specified version from Microsoft OneDrive to an attachment in the ServiceNow instance.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Get All Document Version
 
 </td><td>
 
-Retrieves all [[document-mgt-versions|document versions]] from Microsoft OneDrive and creates and updates records in the Multi Provider Document Version \[mp\_document\_version\] table.
+Retrieves all document versions from Microsoft OneDrive and creates and updates records in the Multi Provider Document Version \[mp\_document\_version\] table.
 
 </td></tr><tr><td>
 
@@ -456,10 +456,3 @@ For information about setting up the spoke, see [Set up Microsoft OneDrive spoke
 
 **Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/one-drive-integration.md)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[c_Connect|Connect]]
-- [[attachment|Attachment]]
-- [[document-mgt-versions|Document versions]]

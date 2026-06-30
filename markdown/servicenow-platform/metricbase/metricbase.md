@@ -40,12 +40,7 @@ The MetricBase application stores time-series data, which is data that is sample
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Access [[developer-resources|developer resources]] and learn about [[domain-separation-relationship-formatter-editor|domain separation]] with MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/reference-metricbase.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Access developer resources and learn about domain separation with MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/reference-metricbase.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[developer-resources|Developer resources]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

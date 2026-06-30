@@ -14,7 +14,7 @@ breadcrumb: [Applying CSDM guidelines to Change Management, Configure, Change Ma
 
 # Change Management and CSDM tables
 
-[[c_ITILChangeManagement|Change Management]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Change Management.
+Change Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Change Management.
 
 ## CSDM tables managed by Change Management
 
@@ -54,15 +54,15 @@ When you use Change Management with other ServiceNow products, you increase the 
 
 ## Products that benefit from Change Management
 
--   **[[SPM2-landing-page|Service Portfolio Management]] \(Service Portfolio Management\)**
+-   **Service Portfolio Management \(Service Portfolio Management\)**
 
-    Services have the context of the business and [[dex-workspace-application-tab|applications]], along with the information and technologies that underpin them.
+    Services have the context of the business and applications, along with the information and technologies that underpin them.
 
--   **[[r_ITServiceManagement|IT Service Management]] \(ITSM\)**
+-   **IT Service Management \(ITSM\)**
 
     Incidents caused by, impacted by, or fixed by Change Management.
 
--   **[[c_AssetManagement|Asset Management]]**
+-   **Asset Management**
 
     Updates assets.
 
@@ -81,10 +81,3 @@ When you use Change Management with other ServiceNow products, you increase the 
 
 **Parent Topic:**[Applying CSDM guidelines to Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/itsm-change-use-case-product-view.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_AssetManagement|Asset Management]]

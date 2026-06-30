@@ -93,7 +93,7 @@ Look up field
 
 </td><td>
 
-The field against which you want to match the Source field value. For example, if you select **User principal name** in **Source field** and **Email** in **Look up field**, [[c_SoftwareAssetMgmt|Software Asset Management]] tries to match these two fields. The match must be exact. If it isn’t, you can change the value to **User ID** in **Look up field**.
+The field against which you want to match the Source field value. For example, if you select **User principal name** in **Source field** and **Email** in **Look up field**, Software Asset Management tries to match these two fields. The match must be exact. If it isn’t, you can change the value to **User ID** in **Look up field**.
 
 **Note:** User resolution rules created for non-indexed Look up fields in the sys\_user table are automatically marked as inactive. This applies to both manually created and AI-generated user resolution rules.
 
@@ -134,6 +134,3 @@ Script
 
 [Associate a user with subscription records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/map-user-data.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

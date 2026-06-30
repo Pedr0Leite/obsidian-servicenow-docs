@@ -12,7 +12,7 @@ breadcrumb: [Adding an MCP Server in AI Agent Studio, Configuring Model Context 
 
 # Add an MCP Server with API Key
 
-Add an MCP Server with an API Key in the [[ai-agent-studio|AI Agent Studio]].
+Add an MCP Server with an API Key in the AI Agent Studio.
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ API Key
 A unique code or password to identify and authenticate the user or application when accessing the API.**Note:** The API Key adds a Connection alias dynamically at runtime and maps with the MCP Server.
 
 </td></tr></tbody>
-</table>    \[Omitted image "add-mcp-server-apikey.png"\] Alt text: [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]] with a API Key.
+</table>    \[Omitted image "add-mcp-server-apikey.png"\] Alt text: Adding an MCP Server in AI Agent Studio with a API Key.
 
 4.  Select **Add**.
 
@@ -76,7 +76,3 @@ A unique code or password to identify and authenticate the user or application w
 
 An MCP Server with the name you provided appears in the list of MCP Servers.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]]

@@ -12,7 +12,7 @@ breadcrumb: [Working with in-line dashboards, Dashboards, Platform Analytics exp
 
 # Export a Platform Analytics dashboard
 
-Export a [[par-workspace|Platform Analytics experience]] dashboard to PDF or Microsoft PowerPoint.
+Export a Platform Analytics experience dashboard to PDF or Microsoft PowerPoint.
 
 ## Before you begin
 
@@ -20,18 +20,18 @@ Role required: Any, if the user has access to the dashboard.
 
 **Note:**
 
--   This task only applies to dashboards created in the inline editor. [[technical-dashboards|Technical dashboards]] do not have the **Export** option in the **More actions** menu. For more information, see [[technical-vs-in-line-dashboards|Technical dashboards compared to inline dashboards]].
+-   This task only applies to dashboards created in the inline editor. Technical dashboards do not have the **Export** option in the **More actions** menu. For more information, see [Technical dashboards compared to inline dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-vs-in-line-dashboards.md).
 -   Calendar report, geomap, and indicator scorecard visualizations are not supported for export. Lists are not supported for export to PowerPoint. These visualization types will not appear in the exported file.
 -   Only the supported data visualizations and Lists \(PDF\) are exported, not Headings or Rich Text or any other element.
 -   Content is not necessarily exported in the order it appears on the dashboard.
--   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]].
+-   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md).
 -   Dashboards exported to PowerPoint include the title above and the description below each visualization in an editable format if this information is provided in the source visualization.
 
--   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [[export-data-vis-from-dboard|Download a data visualization from a dashboard]].
+-   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [Download a data visualization from a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-data-vis-from-dboard.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Select the dashboard that you want to export.
 
@@ -104,7 +104,7 @@ You can select whether to apply to the export any values that have been set in f
 
 The dashboard with selected tabs and filters is exported to a PDF or PowerPoint file and delivered by the chosen method.
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -125,12 +125,3 @@ The dashboard with selected tabs and filters is exported to a PDF or PowerPoint 
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[technical-vs-in-line-dashboards|Technical dashboards compared to inline dashboards]]
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[export-data-vis-from-dboard|Download a data visualization from a dashboard]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[par-workspace|Platform Analytics experience]]
-- [[technical-dashboards|Technical dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

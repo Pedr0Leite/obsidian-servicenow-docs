@@ -18,13 +18,13 @@ Define a BOMA type using which you can classify a space based on its BOMA standa
 
 ## Before you begin
 
-Ensure that [[workplace-space-mgmt-ovw|Workplace Space Management]] application is installed.
+Ensure that Workplace Space Management application is installed.
 
 Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 ## About this task
 
-Classify a space based on Building Owners and Managers Association \(BOMA\) standards. Based on the BOMA type of a space, the organization derives what type of a space it is, plans real-estate, calculates chargebacks, performs vendor management and more. Similar to [[workplace-safety-mgmt-hr|Workplace Core]] Space type configuration, additionally, you can categorize a space with respect to the BOMA standard and map both.
+Classify a space based on Building Owners and Managers Association \(BOMA\) standards. Based on the BOMA type of a space, the organization derives what type of a space it is, plans real-estate, calculates chargebacks, performs vendor management and more. Similar to Workplace Core Space type configuration, additionally, you can categorize a space with respect to the BOMA standard and map both.
 
 ## Procedure
 
@@ -72,7 +72,7 @@ The BOMA type is configured. To map the BOMA type with a Space type, refer to [M
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -80,8 +80,3 @@ The BOMA type is configured. To map the BOMA type with a Space type, refer to [M
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

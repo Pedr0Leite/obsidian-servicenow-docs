@@ -14,7 +14,7 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # Extend classes and rules for third-party integrations
 
-Extend and update [[cmdb-ci-class-models|CMDB CI Class Models app]] classes and rules when using third-party integration tools.
+Extend and update CMDB CI Class Models app classes and rules when using third-party integration tools.
 
 When using a third-party tool to integrate with ServiceNow apps, gaps can occur between the integration and different CIs. Some of the integrated tables and classes may be missing classes and rules that are not included with the CMDB CI Class Models store app.
 
@@ -208,6 +208,3 @@ Related Entries \(cmdb\_related\_entry\):
 
 [CMDB schema model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]

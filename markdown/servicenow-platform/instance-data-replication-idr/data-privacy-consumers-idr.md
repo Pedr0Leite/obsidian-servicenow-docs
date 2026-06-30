@@ -14,7 +14,7 @@ breadcrumb: [Reference, Instance Data Replication, Manage instance data sources,
 
 # Data privacy in Instance Data Replication
 
-The ability of replication sets to host multiple remote consumers in [[instance-data-replication|Instance Data Replication]] \(IDR\) means that there are potential data privacy issues to consider.
+The ability of replication sets to host multiple remote consumers in Instance Data Replication \(IDR\) means that there are potential data privacy issues to consider.
 
 Replications sets in IDR serve multiple instances with multiple consumers. A replication set can have a single customer or can have multiple customers. A consumer could also be located within the same geographic region as the producer or located in a different geographical region.
 
@@ -43,6 +43,3 @@ If you set bi-direction between a producer and consumer instance, the consumer c
 
 [Instance Data Replication roles]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

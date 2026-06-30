@@ -14,7 +14,7 @@ breadcrumb: [Explore, Project Workspace, Project Portfolio Management, Strategic
 
 # Project types in Project Workspace
 
-[[project-workspace-landing-page|Project Workspace]] supports that let administrators define custom fields and form layouts for each project type. This enables configuration independence across different types of projects without affecting default fields or other project types.
+Project Workspace supports that let administrators define custom fields and form layouts for each project type. This enables configuration independence across different types of projects without affecting default fields or other project types.
 
 Each project type configuration consists of two components:
 
@@ -38,6 +38,3 @@ Project type configurations allows you to define dynamic categories and custom f
 
 [Configure project type fields and layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-project-type-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

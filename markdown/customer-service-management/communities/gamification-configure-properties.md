@@ -22,11 +22,11 @@ Role required: sn\_gamification.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Community** &gt; **[[communities-gamification|Gamification]] Administration** &gt; **Gamification Properties**.
+1.  Navigate to **All** &gt; **Community** &gt; **Gamification Administration** &gt; **Gamification Properties**.
 
 2.  Enter the number of days to store the gamification activity history.
 
-    The default is 180 days. A scheduled job purges the [[gamification-components-points|points]] history that is older than 180 days. This purge does not delete the aggregated data.
+    The default is 180 days. A scheduled job purges the points history that is older than 180 days. This purge does not delete the aggregated data.
 
 3.  Enter the maximum number of levels that can be defined.
 
@@ -37,7 +37,3 @@ Role required: sn\_gamification.admin
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-points|Points]]

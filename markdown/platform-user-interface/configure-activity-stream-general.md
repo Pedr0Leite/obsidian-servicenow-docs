@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure stacked view for the Activity stream
 
-[[configure-onboarding-modals|Configure]] a stacked view option for journal fields in the [[activity-stream-configurable-workspace|Activity stream]].
+Configure a stacked view option for journal fields in the Activity stream.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: admin
 
 4.  To give agents the option of using a rich text editor, search for and set the **glide.ui.journal.use\_html** property to **true** .
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]

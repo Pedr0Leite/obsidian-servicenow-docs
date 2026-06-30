@@ -14,7 +14,7 @@ breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), 
 
 # Filter the view of a Dependency Views map
 
-Filter a [[c_NextGenBSMMaps|Dependency Views map]] to display specific types or categories of configuration items.
+Filter a Dependency Views map to display specific types or categories of configuration items.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Use the filter panel to control which elements of the map are displayed and to s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **View Map**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **View Map**.
 
 2.  Click the Map settings icon \[Omitted image "dv-map-settings.png"\] Alt text: Map Settings. to open map settings.
 
@@ -118,7 +118,7 @@ Designate what CI manufacturers display in the map.
 
 </td><td>
 
-Hides CIs that failed the [[c_CMDBHealth|CMDB health]] staleness test. This option is available only if there are any such CIs.
+Hides CIs that failed the CMDB health staleness test. This option is available only if there are any such CIs.
 
 </td></tr><tr><td>
 
@@ -183,8 +183,3 @@ Designate what types of tasks display and get counted in the map.
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_CMDBHealth|CMDB Health]]

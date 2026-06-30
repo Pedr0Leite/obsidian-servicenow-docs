@@ -12,7 +12,7 @@ breadcrumb: [Configure, Customer Service Problem Management, Telecommunications,
 
 # Activate Customer Service Problem Management
 
-Activate the [[cspm-landing-page|Customer Service Problem Management]] plugin \(sn\_sprb\_mgmt\) for Customer Service Problem Management if you have the admin role. The application includes demo data and activate related ServiceNow® Store applications and plugins if they aren't already installed.
+Activate the Customer Service Problem Management plugin \(sn\_sprb\_mgmt\) for Customer Service Problem Management if you have the admin role. The application includes demo data and activate related ServiceNow® Store applications and plugins if they aren't already installed.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Ensure that the application and all of its associated ServiceNow Store applicati
 
 -   Role required: admin
 -   Plugins required: The following plugins must have been installed:
-    -   [[stm-landing-page|Service Test Management]] \(sn\_st\_mgmt\)
+    -   Service Test Management \(sn\_st\_mgmt\)
     -   Customer Service \(com.sn\_customerservice\)
     -   Customer Service Case Types \(com.snc.csm\_case\_types\)
     -   Playbook Experience Core \(com.glide.playbook\_experience.config\)
@@ -39,7 +39,7 @@ The following items are installed with Customer Service Problem Management:
 -   Tables
 -   Properties
 
-For more information, see [[spm-components|Components installed with Customer Service Problem Management]] and [[cspm-properties|Customer Service Problem Management properties]].
+For more information, see [Components installed with Customer Service Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/spm-components.md) and [Customer Service Problem Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/cspm-properties.md).
 
 ## Procedure
 
@@ -63,9 +63,4 @@ For more information, see [[spm-components|Components installed with Customer Se
 
 5.  Select **Install**.
 
-## Related
 
-- [[spm-components|Components installed with Customer Service Problem Management]]
-- [[cspm-properties|Customer Service Problem Management properties]]
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[stm-landing-page|Service Test Management]]

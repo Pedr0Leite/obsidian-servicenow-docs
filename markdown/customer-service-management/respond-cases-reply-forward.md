@@ -20,13 +20,13 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-You can read and respond to large emails easily in a full screen which opens up in a new tab. Responding to a customer's email from within a case using the reply, reply all, or forward options, includes the content from previous conversation thread. These options are available by default. An admin can disable these options. For more information, see [[enable-email-response-from-case|Disable email responses from the case activity stream]].
+You can read and respond to large emails easily in a full screen which opens up in a new tab. Responding to a customer's email from within a case using the reply, reply all, or forward options, includes the content from previous conversation thread. These options are available by default. An admin can disable these options. For more information, see [Disable email responses from the case activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-email-response-from-case.md).
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
-2.  Select and open the case from the [[csm-config-ws-activity-stream|activity stream]] for which you want to send or forward a response.
+2.  Select and open the case from the activity stream for which you want to send or forward a response.
 
     The case opens up in a new tab.
 
@@ -46,8 +46,3 @@ You can read and respond to large emails easily in a full screen which opens up 
 
 [Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
-## Related
-
-- [[enable-email-response-from-case|Disable email responses from the case activity stream]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]

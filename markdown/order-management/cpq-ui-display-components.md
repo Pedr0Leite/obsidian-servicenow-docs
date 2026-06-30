@@ -12,7 +12,7 @@ breadcrumb: [CPQ, Configure, price, quote, Reference, Sales Customer Relationshi
 
 # UI display components
 
-View examples of picklist, text, and number [[fields|fields]] as they appear to end users in the CPQ UI.
+View examples of picklist, text, and number fields as they appear to end users in the CPQ UI.
 
 ## Picklist fields
 
@@ -314,7 +314,7 @@ Multi-select using images; picklist extension
 -   Set column alignment
 -   Control image size
 
- Automatically creates product [[rules_101|rules]]
+ Automatically creates product rules
 
  Price display \(currency code or symbol\) follows layout settings
 
@@ -489,7 +489,3 @@ Button label
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]

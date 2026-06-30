@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management for Data Center and Network Asset Manag
 
 # View your subscription consumption for the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application
 
-Use the ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table to gain insight into your subscription consumption for the [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]] application.
+Use the ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table to gain insight into your subscription consumption for the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The EAM Populate Licensing Data scheduled job runs daily to generate subscriptio
 
     The ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table opens.
 
-3.  In the table, locate all entries for the [[enterprise-asset-management|Enterprise Asset Management]] for DCNAM application.
+3.  In the table, locate all entries for the Enterprise Asset Management for DCNAM application.
 
     \[Omitted image "itam-licensing-resource-counts-table.png"\] Alt text: ITAM Licensing Resource Counts table.
 
@@ -81,7 +81,3 @@ The EAM Populate Licensing Data scheduled job runs daily to generate subscriptio
 
 **Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-dcnam.md)
 
-## Related
-
-- [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

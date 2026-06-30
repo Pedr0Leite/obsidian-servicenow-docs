@@ -22,11 +22,11 @@ Use these activities to create, list, or delete networks on an Infoblox server.
 
 ## Create Network activity
 
-The [[r_CreateNetworkActivity-1|Create Network activity]] creates new networks on a specified Infoblox server.
+The Create Network activity creates new networks on a specified Infoblox server.
 
-The network activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a [[mid-server-landing|MID Server]] with REST capabilities.
+The network activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 
 ### Input variables
 
@@ -178,12 +178,12 @@ NetworkOptions
 
 </td><td>
 
-The **NetworkOptions** array contains these attributes:-   **[[reference|reference]]**: Reference value for the network requested. This value is in the form of `network/ZG5zLm5ldHdvcmskMTAuMS4wLjAvMTYvMA:10.1.0.0%2F1`
+The **NetworkOptions** array contains these attributes:-   **reference**: Reference value for the network requested. This value is in the form of `network/ZG5zLm5ldHdvcmskMTAuMS4wLjAvMTYvMA:10.1.0.0%2F1`
 -   **options**: The **options** array contains these attributes:
     -   **name**: Name of the network option returned, such as **domain-name-server**.
     -   **num**: Index number of the option. For example, the index for **domain-name-server** is **6**.
     -   **use\_option**: Indicates whether a DHCP option is used at that level in the network heirarchy. Set this value to **True** to override the Grid Level DHCP option with this option at the network level.
-    -   **value**: Value to use for this option. For example, the value for the **domain-name-server** option is the [[ip-address|IP address]] of the server machine.
+    -   **value**: Value to use for this option. For example, the value for the **domain-name-server** option is the IP address of the server machine.
     -   **vendor\_class**: The class of the network object. The options are **DHCP**, **DNS**, or **IPAM**.
 
 </td></tr></tbody>
@@ -326,10 +326,3 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 |Success|Activity successfully retrieved the list of registered networks available on the Infoblox server.|
 |Failure|Activity failed to retrieve the list of registered networks available on the Infoblox server.|
 
-## Related
-
-- [[r_CreateNetworkActivity-1|Create Network activity]]
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]
-- [[reference|Reference]]
-- [[ip-address|IP Address]]

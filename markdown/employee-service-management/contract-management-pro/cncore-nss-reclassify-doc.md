@@ -24,7 +24,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 ## Procedure
 
-1.  Navigate to the [[cncore-contract-workspace|contract workspace]] and select the contract request.
+1.  Navigate to the contract workspace and select the contract request.
 
 2.  In the **Contract Documents** related list, select **Reclassify**.
 
@@ -43,6 +43,3 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 **Parent Topic:**[Use non-self-served contract request]()
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

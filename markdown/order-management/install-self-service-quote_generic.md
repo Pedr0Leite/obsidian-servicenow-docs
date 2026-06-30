@@ -12,7 +12,7 @@ breadcrumb: [Quote creation via Self-Service, Configure, price, quote apps, Conf
 
 # Install Quote Self-Service
 
-Quote Self-Service is automatically installed when you install the [[quote-management|Quote Management]] application. If you install a different application, you must add the Quote Self-Service as a plugin dependency before installation.
+Quote Self-Service is automatically installed when you install the Quote Management application. If you install a different application, you must add the Quote Self-Service as a plugin dependency before installation.
 
 ## Before you begin
 
@@ -76,7 +76,3 @@ Load the demo data after installing.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[quote-management|Quote Management]]

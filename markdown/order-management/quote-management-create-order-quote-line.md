@@ -29,8 +29,5 @@ Role required: sales\_agent
     A dialog box indicates the creation of a new order. Select the new order record to view it. Or you can also navigate to the Customer Orders tab to view the new order record.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]

@@ -27,7 +27,7 @@ Role required: sn\_cmdb\_admin or sn\_cmdb\_editor
 The map editor does not support the following actions:
 
 -   Editing mapped application services \(service instances\).
--   Deleting [[reference|reference]] or endpoint connections or removing from the map a CI that has reference or endpoint connections.
+-   Deleting reference or endpoint connections or removing from the map a CI that has reference or endpoint connections.
 -   Updating the applicative flow relationship type \(connection between endpoint CIs\).
 
 -   When you delete a connection, the connection is removed from the map \(hidden\). The relationship is deleted from the \[cmdb\_ci\_rel\] table only when you save your changes.
@@ -65,6 +65,3 @@ At any time, select the reset icon \[Omitted image "icon-um-reset-map.png"\] to 
 
 [Create or modify a connection using the map editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-edit-connection.md)
 
-## Related
-
-- [[reference|Reference]]

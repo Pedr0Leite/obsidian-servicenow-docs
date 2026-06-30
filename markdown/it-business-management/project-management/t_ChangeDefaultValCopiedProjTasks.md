@@ -33,7 +33,7 @@ Actual duration and the actual start and end dates are reset to null values. The
 3.  Use the following script if in the **Processing script** field:
 
     ```
-    /* resetFields is the array containing the list of names of fields that need to be erased from the copied [[t_CreateAProjectTask|project tasks]]
+    /* resetFields is the array containing the list of names of fields that need to be erased from the copied project tasks
     	   * defaultFields is the array containing the key, value pairs of field names and values that need to be set on the copied tasks
     	   */var resetFields =new Array();var defaultFields ={};
     	  resetFields.push("work_start","work_end","work_duration");
@@ -49,6 +49,3 @@ Actual duration and the actual start and end dates are reset to null values. The
 
 [Copy an existing task or project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyExistingTaskorProject.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

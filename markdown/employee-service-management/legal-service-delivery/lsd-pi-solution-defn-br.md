@@ -18,9 +18,9 @@ Solution definitions and business rules are defined to train, test, and monitor 
 
 ## Solution definitions
 
-The solution definition for [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]] is available when you activate Predictive Intelligence plugin \(com.glide.platform\_ml\) and Predictive Intelligence for Legal Service Delivery \(sn\_lg\_pi\) plugin. You can customize the solution definition to meet your business requirements.
+The solution definition for Predictive Intelligence for Legal Service Delivery is available when you activate Predictive Intelligence plugin \(com.glide.platform\_ml\) and Predictive Intelligence for Legal Service Delivery \(sn\_lg\_pi\) plugin. You can customize the solution definition to meet your business requirements.
 
-You can also create and train machine-[[exploring-learning-exp|learning]] solutions as per your requirement. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence-landing.md).
+You can also create and train machine-learning solutions as per your requirement. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence-landing.md).
 
 The following solution definitions are available in the base system. You can access the solution definition by navigating to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
@@ -55,7 +55,3 @@ You can create your own solution for any fields based on your requirement. For a
 |Predict legal request assignment group|Predicts the assignment group for general legal request based on short description, description, and subcategory.|
 |Predict legal request subcategory|Predicts the subcategory for general legal request based on short description and description.|
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]
-- [[exploring-learning-exp|Learning]]

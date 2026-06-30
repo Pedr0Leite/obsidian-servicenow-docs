@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Operational Technology Manager, Operational Technology]
 
 # Service Graph Connector Integration for Claroty CTD
 
-Integrate Claroty Continuous Threat Detection \(CTD\) with the ServiceNow [[operational-technology-manager|Operational Technology Manager]] application to import detected devices and Claroty CTD sites \(sensor or Network Intrusion Detection System appliances\).
+Integrate Claroty Continuous Threat Detection \(CTD\) with the ServiceNow Operational Technology Manager application to import detected devices and Claroty CTD sites \(sensor or Network Intrusion Detection System appliances\).
 
 ## Request apps on the Store
 
@@ -98,6 +98,3 @@ When you complete the setup tasks, you can configure the integration periodicall
 
 **Parent Topic:**[Operational Technology Manager Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/otm_integrations.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]

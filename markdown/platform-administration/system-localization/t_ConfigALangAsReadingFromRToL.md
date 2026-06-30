@@ -28,7 +28,7 @@ Right-to-left language support is available only in the main user interface and 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Languages**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Languages**.
 
 2.  Select **New**.
 
@@ -42,6 +42,4 @@ Right-to-left language support is available only in the main user interface and 
 
 6.  Select **Submit**.
 
-## Related
 
-- [[system-localization-landing|System Localization]]

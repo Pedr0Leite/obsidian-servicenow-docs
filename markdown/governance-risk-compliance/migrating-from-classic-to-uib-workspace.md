@@ -12,7 +12,7 @@ breadcrumb: [Using BCM Classic Workspace, Manage, Business Continuity Management
 
 # Migrating reports and custom changes to BCM UIB Workspace
 
-If you are an existing customer of the [[business-continuity-mangmt-overview|Business Continuity Management]] application and you have customized UI actions, you must migrate those actions to BCM UIB Workspace.
+If you are an existing customer of the Business Continuity Management application and you have customized UI actions, you must migrate those actions to BCM UIB Workspace.
 
 The UI actions that were shipped with the Business Continuity Management application have been migrated to the BCM UIB Workspace as part of the Business Continuity Management application software.
 
@@ -20,6 +20,3 @@ If you have customized few UI actions for your specific requirements, you must m
 
 For information on how to migrate reports and custom changes to BCM UIB Workspace, see the [KB1444397](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1444397) article.
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

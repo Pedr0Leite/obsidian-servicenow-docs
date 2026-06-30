@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for SLO, Supplier Lifecycle Operations, Finan
 
 # Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat
 
-If you have the admin role, you can configure the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application so that suppliers can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and in Core UI.
+If you have the admin role, you can configure the Now Assist for Supplier Lifecycle Operations \(SLO\) application so that suppliers can use the generative AI skills in Source-to-Pay Workspace and in Core UI.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Use the Now Assist Admin console to configure Now Assist for SLO. This console c
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
-3.  From the list of existing LLM Virtual Agents, select **Now Assist in Virtual Agent - [[supplier|Supplier]]**.
+3.  From the list of existing LLM Virtual Agents, select **Now Assist in Virtual Agent - Supplier**.
 
 4.  Review the details about Virtual Agent by selecting **Overview** and then selecting **Save and continue** to go to the next step in Guided Setup.
 
@@ -57,8 +57,3 @@ Use the Now Assist Admin console to configure Now Assist for SLO. This console c
 
 [Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-skill-input-triggers.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

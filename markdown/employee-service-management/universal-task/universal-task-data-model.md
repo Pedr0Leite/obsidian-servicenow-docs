@@ -14,9 +14,9 @@ breadcrumb: [Exploring Universal Task, Universal Task, Employee Service Manageme
 
 # Universal Task data model
 
-The [[universal-task-landing|Universal Task]] is a tasking framework that you can append to the ticketing system of any department in your organization. The Universal Task data model explains the tasking framework and its customizations.
+The Universal Task is a tasking framework that you can append to the ticketing system of any department in your organization. The Universal Task data model explains the tasking framework and its customizations.
 
-You can create Universal Task for any department or service, such as a [[ur-landing-limitedaccess|universal request]], an incident, an HR case, or a legal matter. You can also assign multiple universal tasks for a single request.
+You can create Universal Task for any department or service, such as a universal request, an incident, an HR case, or a legal matter. You can also assign multiple universal tasks for a single request.
 
 The following diagram is a high-level overview of the Universal Task data model.
 
@@ -38,7 +38,7 @@ The Universal Task \[sn\_uni\_task\_universal\_task\] table extends the Task \[t
 
     **Note:** The catalog item, generated table, and generated ID are only applicable for the Submit Catalog item task type.
 
--   The [[ut-emp-form|employee form]] that is used to request information for the [[employee-form-configuration|Collect Employee Input]] task type.
+-   The employee form that is used to request information for the Collect Employee Input task type.
 -   The survey instance that stores the instance ID of the employee form for the Collect Employee Input task type.
 -   Task template to be used, if any, to auto-fill the Universal Task \[universal-task\] form.
 
@@ -74,9 +74,3 @@ The Universal task configuration \[sn\_uni\_task\_config\] table and the Catalog
 
 **Parent Topic:**[Exploring Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/explore-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ut-emp-form|Employee form]]
-- [[employee-form-configuration|Collect employee input]]

@@ -17,7 +17,7 @@ Use the Now Assist Center Overview dashboard to monitor key metrics for AI asset
 
 ## Now Assist Center Overview dashboard
 
-The Now Assist Center Overview dashboard displays a summary of AI asset activation, adoption, and usage across your organization. Use the dashboard to monitor the state of your [[ai-assets|AI assets]] and track user engagement across departments.
+The Now Assist Center Overview dashboard displays a summary of AI asset activation, adoption, and usage across your organization. Use the dashboard to monitor the state of your AI assets and track user engagement across departments.
 
 Use the **Date** filter at the top of the Overview dashboard to set the time range for all metrics on the page. The default time range is **Last 3 months**.
 
@@ -35,7 +35,7 @@ The Activation section displays the current number of active AI assets and their
 
 -   **Active assistants**
 
-    This area of the dashboard displays the total number of assistants that are currently active in your instance. Use this count to track the scale of your deployed assistant [[exploring-ai-governance|configurations]].
+    This area of the dashboard displays the total number of assistants that are currently active in your instance. Use this count to track the scale of your deployed assistant configurations.
 
 -   **Active AI agents**
 
@@ -92,10 +92,5 @@ The **Usage** section displays the total number of executions for each AI asset 
     This area of the dashboard displays a trend line chart showing the total executions for skills, assistants, and AI agents over the selected time range. Use the trend lines to compare usage volumes across asset types and monitor changes in execution patterns over time.
 
 
-**Parent Topic:**[[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]
+**Parent Topic:**[View AI assets usage and performance in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-ai-usage.md)
 
-## Related
-
-- [[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]
-- [[ai-assets|AI assets]]
-- [[exploring-ai-governance|Configurations]]

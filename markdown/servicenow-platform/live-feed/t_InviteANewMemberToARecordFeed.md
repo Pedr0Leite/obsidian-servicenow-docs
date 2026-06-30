@@ -30,7 +30,7 @@ When users are invited, their membership state is initially **Invited**. When th
 
 1.  Navigate to **Live Feed** &gt; **Live Feed**.
 
-2.  Click **[[c_RecordFeeds|Record Feeds]]** and select the record feed name.
+2.  Click **Record Feeds** and select the record feed name.
 
 3.  Click the **Pending members** tab.
 
@@ -38,12 +38,8 @@ When users are invited, their membership state is initially **Invited**. When th
 
     If you invite a team, the individual members of the team are invited.
 
-    The invited users receive an [[email|email]] notification.
+    The invited users receive an email notification.
 
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]
-- [[email|Email]]

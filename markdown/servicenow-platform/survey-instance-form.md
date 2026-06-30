@@ -36,7 +36,7 @@ Metric type
 
 </td><td>
 
-Survey definition this survey instance was created from. [[c_SurveyDefinitions|Survey definitions]] are stored on the Assessment Instance table, and the field [[label|label]] on that table is **Metric type**.
+Survey definition this survey instance was created from. Survey definitions are stored on the Assessment Instance table, and the field label on that table is **Metric type**.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Due date
 
 Date by which the survey instance should be completed. The system populates the due date based on the **Assessment duration** of the associated survey definition, which is set to 14 days by default.The survey due date is not enforced in the base system. If you want to enforce the due date, consider using a workflow or other mechanism to send survey recipients reminders when a survey is overdue.
 
- **Note:** By default, the system runs the **Cancel Expired [[r_Assessments|Assessments]]** script every 30 days to cancel expired survey, assessment, and quiz instances that are in the Work in progress or Ready to take states.
+ **Note:** By default, the system runs the **Cancel Expired Assessments** script every 30 days to cancel expired survey, assessment, and quiz instances that are in the Work in progress or Ready to take states.
 
 </td></tr><tr><td>
 
@@ -110,24 +110,14 @@ Assessment Instance Questions
 
 </td><td>
 
-All instance question records, which store user response values for each question on the survey questionnaire. The following columns are relevant to [[r_SurveyManagementLandingPage|surveys]]:-   **Category**: Displays the [[c_SurveyCategory|survey categories]] the questions belong to.
--   **Metric**: Displays the [[c_SurveyQuestion|survey questions]].
+All instance question records, which store user response values for each question on the survey questionnaire. The following columns are relevant to surveys:-   **Category**: Displays the survey categories the questions belong to.
+-   **Metric**: Displays the survey questions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[[t_ViewSurveyInstance|View a survey instance]]
+[View a survey instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewSurveyInstance.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[t_ViewSurveyInstance|View a survey instance]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[label|Label]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyCategory|Survey categories]]
-- [[c_SurveyQuestion|Survey questions]]

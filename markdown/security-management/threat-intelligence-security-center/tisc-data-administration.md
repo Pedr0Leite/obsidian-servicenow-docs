@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center, Security Operations]
 
 # Administer
 
-Use the left navigation to navigate to the Administration module within [[tisc-landing-page|Threat Intelligence Security Center]]. View the following modules of TISC data administration to set filtering rules, approval rules, define threat score, and manage notifications.
+Use the left navigation to navigate to the Administration module within Threat Intelligence Security Center. View the following modules of TISC data administration to set filtering rules, approval rules, define threat score, and manage notifications.
 
 <table id="table_uch_cwt_jyb"><thead><tr><th>
 
@@ -30,9 +30,9 @@ Description
 
 </td><td>
 
-This section contains rules required for data management:1.  **Data Imports Approval Rules**: Define the approval rules and [[integrating-threat-intelligence-security-center|integrate]] the approval flow within the Import Intelligence section after submitting the data import.
+This section contains rules required for data management:1.  **Data Imports Approval Rules**: Define the approval rules and integrate the approval flow within the Import Intelligence section after submitting the data import.
 2.  **Inbound Filtering Rules**: Create filter rules to filter the incoming source records data.
-3.  **Threat Scoring Rule**: Customize threat score calculator that assigns threat score to the [[c_Observables|observables]].
+3.  **Threat Scoring Rule**: Customize threat score calculator that assigns threat score to the observables.
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ This module helps you to create taxonomies for the data source records.
 
 </td></tr><tr><td>
 
-**[[tisc-threat-lookup|Threat Lookup]] Reputation Calculator**
+**Threat Lookup Reputation Calculator**
 
 </td><td>
 
@@ -66,7 +66,7 @@ Configures logic for calculating reputation scores of observables.
 
 </td><td>
 
-Manages sharing of [[threat-intel-landing-page|threat intelligence]] with external systems.
+Manages sharing of threat intelligence with external systems.
 
 </td></tr><tr><td>
 
@@ -126,11 +126,3 @@ Describes how to create and manage report templates in both design-time and runt
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]

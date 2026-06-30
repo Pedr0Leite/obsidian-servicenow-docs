@@ -13,13 +13,13 @@ breadcrumb: [AI Agent Advisor, Enable AI experiences]
 
 # Exploring AI Agent Advisor
 
-[[ai-agent-advisor-landing-page|AI Agent Advisor]] automatically discovers automation opportunities in your instance and helps you to deploy AI agents to implement them.
+AI Agent Advisor automatically discovers automation opportunities in your instance and helps you to deploy AI agents to implement them.
 
 ## AI Agent Advisor overview
 
 AI Agent Advisor analyzes your instance data to identify the most frequent and impactful opportunities for efficiency gains in your workflows. For each identified opportunity, it proposes AI agents that can automate the solution, and generates new agents when no existing match is available.
 
-This gives the [[platform-now-assist-landing|Now Assist]] administrator a data-driven starting point for AI adoption, eliminating the guesswork of deciding where to apply automation.
+This gives the Now Assist administrator a data-driven starting point for AI adoption, eliminating the guesswork of deciding where to apply automation.
 
 ## AI Agent Advisor users
 
@@ -81,7 +81,7 @@ AI Agent Advisor operates through three sequential phases:
     When no existing agent is a strong match for a resolution step, the system generates a new AI agent tailored to that specific problem.
 
 
-The result is a prioritized list of automation opportunities. Each opportunity displays the estimated time and cost savings, number of records analyzed, and available [[ai-assets|AI assets]]. AI Agent Advisor generates the resolution steps using the data from existing records on your instance. You can use this list to decide which opportunities to act on first.
+The result is a prioritized list of automation opportunities. Each opportunity displays the estimated time and cost savings, number of records analyzed, and available AI assets. AI Agent Advisor generates the resolution steps using the data from existing records on your instance. You can use this list to decide which opportunities to act on first.
 
 ## AI Agent Advisor benefits
 
@@ -105,7 +105,7 @@ Quickly discover automation opportunities for your instance. AI Agent Advisor an
 
 </td><td>
 
-[[now-assist-center-using-ai-agent-advisor|Automation discovery with AI Agent Advisor]]
+[Automation discovery with AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Matches identified automation opportunities to existing AI agents on the platfor
 
 </td><td>
 
-[[activate-automation-opportunity-now-assist-center|AI agent matching and automated deployment]]
+[AI agent matching and automated deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-automation-opportunity-now-assist-center.md)
 
 </td><td>
 
@@ -130,17 +130,7 @@ Now Assist administrator
 
 To learn more about configuring and using AI Agent Advisor, see:
 
--   [[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
--   [[using-ai-agent-advisor|Using AI Agent Advisor]]
--   [[ai-agent-advisor-reference|AI Agent Advisor reference]]
+-   [Configuring AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agent-advisor.md)
+-   [Using AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-ai-agent-advisor.md)
+-   [AI Agent Advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-reference.md)
 
-## Related
-
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[activate-automation-opportunity-now-assist-center|Implement an automation opportunity from Now Assist Center]]
-- [[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
-- [[using-ai-agent-advisor|Using AI Agent Advisor]]
-- [[ai-agent-advisor-reference|AI Agent Advisor reference]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-assets|AI assets]]

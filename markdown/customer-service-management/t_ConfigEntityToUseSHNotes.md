@@ -20,7 +20,7 @@ Role required: sn\_shn.admin
 
 ## About this task
 
-Configuring an entity to use [[c_OnScreenAlerts|special handling notes]] adds the **Create Special Handling Notes** related link to the corresponding form.
+Configuring an entity to use special handling notes adds the **Create Special Handling Notes** related link to the corresponding form.
 
 ## Procedure
 
@@ -32,13 +32,10 @@ Configuring an entity to use [[c_OnScreenAlerts|special handling notes]] adds th
 
 4.  If desired, select one or more **Related Fields**.
 
-    You can also display notes from related entities by including those fields in the configuration. For example, you can display notes for the account and contact associated with a customer service case by selecting the **Account** and **Contact** fields on the [[r_CustomerServiceCaseForm|Case form]].
+    You can also display notes from related entities by including those fields in the configuration. For example, you can display notes for the account and contact associated with a customer service case by selecting the **Account** and **Contact** fields on the Case form.
 
 5.  Click **Submit**.
 
     The configuration is added to the Special Handling Configuration list.
 
-## Related
 
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[r_CustomerServiceCaseForm|Case form]]

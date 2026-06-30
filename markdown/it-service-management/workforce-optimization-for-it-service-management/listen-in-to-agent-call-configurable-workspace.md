@@ -14,7 +14,7 @@ breadcrumb: [Using Voice, Routing work items, Channels, Workforce Optimization f
 
 # Listen in to an agent call
 
-Monitor agent calls when they are resolving issues for external callers by using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+Monitor agent calls when they are resolving issues for external callers by using Workforce Optimization for ITSM.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ When the Amazon Connect application answers a call from an external source, an i
 
 **Parent Topic:**[Using Voice with Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/voice-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

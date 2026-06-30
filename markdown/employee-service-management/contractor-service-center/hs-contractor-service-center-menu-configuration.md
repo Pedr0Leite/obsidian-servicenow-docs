@@ -14,7 +14,7 @@ breadcrumb: [Configure, Contractor Service Center, Health and Safety, Employee S
 
 # Configure the menu for Contractor Service Center
 
-As an admin you can configure the menu for the [[hs-contractor-service-center-landing-page|contractor service center]]. You can update the **[[emp-center-quick-link-config|Quick links]] to get you started** or the **Explore our categories** menu items, or create a menu item.
+As an admin you can configure the menu for the contractor service center. You can update the **Quick links to get you started** or the **Explore our categories** menu items, or create a menu item.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]
-- [[emp-center-quick-link-config|Quick links]]

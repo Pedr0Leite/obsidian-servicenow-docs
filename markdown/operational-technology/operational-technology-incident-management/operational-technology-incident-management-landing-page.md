@@ -18,7 +18,7 @@ Operational Technology Incident Management enables manufacturers to manage OT de
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Exploring [[operational-technology-overview|Operational Technology]] Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/exploring-operational-technology-incident-mgt.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Exploring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/exploring-operational-technology-incident-mgt.md)
 
 </td><td>
 
@@ -30,12 +30,7 @@ Operational Technology Incident Management enables manufacturers to manage OT de
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/oper-tech-incident-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/oper-tech-incident-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

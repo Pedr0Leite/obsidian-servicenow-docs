@@ -18,7 +18,7 @@ Heatmap reports display aggregate data visually using colors to represent differ
 
 **Note:** When accessibility is enabled, this visualization includes a report that screen readers can interpret. For more information, see Enabling accessibility features.
 
-On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[explore-data-vis-library|Exploring the Data Visualizations library]].
+On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
 In the figure, the cell for confirmed low priority problems is filled to highlight the large value.\[Omitted image "heatmapExample.png"\] Alt text: A heatmap report
 
@@ -58,7 +58,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d222739e254">
 
@@ -176,7 +176,7 @@ Check box to include the Other group in the report. The Other group contains dat
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 8.  On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -412,11 +412,3 @@ Enable this option to left-align the legend text when the report is viewed in a 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[list-reports|List reports]]

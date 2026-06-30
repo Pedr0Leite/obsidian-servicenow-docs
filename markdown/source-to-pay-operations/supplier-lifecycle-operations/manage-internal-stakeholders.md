@@ -14,9 +14,9 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Manage internal stakeholders
 
-Internal stakeholders represent key relationship types associated with a [[supplier|supplier]] such as Business owner, Category manager, or Procurement manager. Mapping internal stakeholders to a unique relationship type enhances governance data visibility and facilitates effective relationship management with a supplier.
+Internal stakeholders represent key relationship types associated with a supplier such as Business owner, Category manager, or Procurement manager. Mapping internal stakeholders to a unique relationship type enhances governance data visibility and facilitates effective relationship management with a supplier.
 
-You can add internal stakeholders with unique relationship types and remove non-essential internal stakeholders from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can add internal stakeholders with unique relationship types and remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 
 Each internal stakeholder can be assigned only one of the following relationship types:
 
@@ -69,7 +69,3 @@ Remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 
 [Remove internal stakeholders from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-internal-stakeholders.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

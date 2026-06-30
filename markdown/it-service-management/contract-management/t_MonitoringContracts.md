@@ -14,7 +14,7 @@ breadcrumb: [Contracts, Contract Management use, Contract Management, Asset Mana
 
 # Monitor a contract
 
-You can monitor [[c_Contracts|contracts]] by viewing contract history and creating contract reports.
+You can monitor contracts by viewing contract history and creating contract reports.
 
 ## Before you begin
 
@@ -22,14 +22,14 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 
 ## About this task
 
-If changes are made to a contract start date, end date, or [[c_TermsAndConditions|terms and conditions]], a copy of the contract is automatically saved and placed in contract history. This is useful for tracking changes to a contract and keeping an audit trail. Configure the **Contract History** related list or tab to include columns for creation and update so you can easily see who edited the contract.
+If changes are made to a contract start date, end date, or terms and conditions, a copy of the contract is automatically saved and placed in contract history. This is useful for tracking changes to a contract and keeping an audit trail. Configure the **Contract History** related list or tab to include columns for creation and update so you can easily see who edited the contract.
 
 ## Procedure
 
 1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -58,8 +58,3 @@ A variety of contract reports are available to help track and manage contracts.
 
 [Create a contract rate card]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_ContractManagement|Contract Management]]

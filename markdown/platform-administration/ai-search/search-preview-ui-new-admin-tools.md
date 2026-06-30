@@ -47,7 +47,7 @@ Query Rules Triggered
 
 </td><td>
 
-Count and names of [[result-improvement-rules-ais|result improvement rules]] triggered by the search query.
+Count and names of result improvement rules triggered by the search query.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Total time
 
 </td><td>
 
-Total time the [[ia-ai-search|AI Search]] back end spent processing the search query. This time includes the pre-processing time, search query time, Genius Result computation time, and security processing time values that are reported separately. It does not include time spent sending the search query [[hs-results|results]] across the network to the user's browser.
+Total time the AI Search back end spent processing the search query. This time includes the pre-processing time, search query time, Genius Result computation time, and security processing time values that are reported separately. It does not include time spent sending the search query results across the network to the user's browser.
 
 </td></tr><tr><td>
 
@@ -101,11 +101,11 @@ Time spent filtering inaccessible records out of the search query's result set b
 </table>
 ## Genius Results tool
 
-The [[genius-results-ais|Genius Results]] tool \[Omitted image "search-preview-new-icon-genius-results.png"\] Alt text: displays these sections:
+The Genius Results tool \[Omitted image "search-preview-new-icon-genius-results.png"\] Alt text: displays these sections:
 
 -   **Genius Result status**
 
-    In full result view, this section shows a list of Genius Result [[clone-configurations-tab|configurations]] activated in the active search profile. A checkmark and status text indicate whether or not each Genius Result configuration generated an answer for the search query.
+    In full result view, this section shows a list of Genius Result configurations activated in the active search profile. A checkmark and status text indicate whether or not each Genius Result configuration generated an answer for the search query.
 
 -   **LLM Context**
 
@@ -118,7 +118,7 @@ The Details tool \[Omitted image "search-preview-new-icon-details.png"\] Alt tex
 
 -   **Dictionary**
 
-    This section shows how the stop word, [[typo-handling-ais|typo handling]], and synonym dictionaries defined in the active search profile affected the previewed search query.
+    This section shows how the stop word, typo handling, and synonym dictionaries defined in the active search profile affected the previewed search query.
 
     |Entry|Description|
     |-----|-----------|
@@ -155,7 +155,7 @@ Search as user
 
 To submit search preview queries as another user, enter the user's name from the User \[sys\_users\] table. You must have the impersonator role.Use this control to see how content security affects search query results for specific user accounts.
 
-Searches performed while impersonating another user don't affect the **Search users** metric, trend, and report on the [[ai-search-analytics-dashboard|AI Search Analytics dashboard]].
+Searches performed while impersonating another user don't affect the **Search users** metric, trend, and report on the AI Search Analytics dashboard.
 
 **Note:** Changing the value of this field terminates elevated privileges for the ais\_high\_security\_admin role. To bypass filters after changing this field's value, you must re-elevate to the ais\_high\_security\_admin role.
 
@@ -228,12 +228,3 @@ To set a role in the user context for search preview, enter the name of a role f
 
 **Parent Topic:**[Search Preview UI for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-preview-ui-new.md)
 
-## Related
-
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[typo-handling-ais|Typo handling]]
-- [[ai-search-analytics-dashboard|AI Search analytics dashboard]]

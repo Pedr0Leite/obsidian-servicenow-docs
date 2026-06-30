@@ -20,7 +20,7 @@ Role required: sn\_cto.care\_team\_agent or sn\_cto.care\_team\_agent\_manager
 
 ## About this task
 
-For more information on care team cases and tasks, see [[ctwm-care-team-case|Care team cases and tasks]].
+For more information on care team cases and tasks, see [Care team cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-care-team-case.md).
 
 ## Procedure
 
@@ -36,6 +36,4 @@ For more information on care team cases and tasks, see [[ctwm-care-team-case|Car
 
 5.  Use **Close case** or **Close task** to close out the case or task.
 
-## Related
 
-- [[ctwm-care-team-case|Care team cases and tasks]]

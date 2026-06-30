@@ -26,7 +26,7 @@ If you are not using multi-provider single sign-on, configure standard single si
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  Fill in the fields of Digest Properties form.
 
@@ -76,7 +76,7 @@ Enter the secret key to use for encoding digest keys. For example, `32 or more c
 
 </td><td>
 
-Enter the URL to redirect [[users|users]] after a failed [[c_Authentication|authentication]].
+Enter the URL to redirect users after a failed authentication.
 
 </td></tr><tr><td id="d47785e163">
 
@@ -100,7 +100,7 @@ Select **MultiSSO\_DigestedToken**.
 
 </td><td>
 
-Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your [[sc-configuration|configuration]], you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/client-type.md).
+Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/client-type.md).
 
 </td></tr></tbody>
 </table>3.  Click **Update**.
@@ -111,9 +111,4 @@ Choose the client type, based on the type of your client. Options:**Iframe Embed
 
     Digest token records which exist in digest properties table can be individually called by appending the Sys\_ID of the IdP. For example, a digest token record in the following authentication URL: `https://<instance_name>.service-now.com/login_with_sso.do?glide_sso_id=<sys_id_of_Digest_token_record>&SM_USER=<user_name>&DE_USER=<digested_token>`
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]

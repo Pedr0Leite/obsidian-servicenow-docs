@@ -22,7 +22,7 @@ Role required: knowledge\_admin, knowledge\_manager
 
 ## About this task
 
-Knowledge logs capture information from all the available sources where users can access knowledge articles, such as Customer Service Portal, [[knowledge-management|Knowledge Management]] Service Portal, Now Mobile, Agent Workspace, and Knowledge Management v3.
+Knowledge logs capture information from all the available sources where users can access knowledge articles, such as Customer Service Portal, Knowledge Management Service Portal, Now Mobile, Agent Workspace, and Knowledge Management v3.
 
 **Note:**
 
@@ -75,6 +75,3 @@ Remove unwanted and older data from the Knowledge Use \[kb\_use\] table through 
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

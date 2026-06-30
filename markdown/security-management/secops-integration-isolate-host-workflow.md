@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Isolate Host capability, Integrati
 
 # Security Operations - Isolate Host Flow
 
-The **[[security-operations-landing-page|Security Operations]] - Isolate Host** flow is a high-level flow independent of integrations. It uses the configured queries to search for a set of configuration items. Use it to fulfill an integration, such as Carbon Black.
+The **Security Operations - Isolate Host** flow is a high-level flow independent of integrations. It uses the configured queries to search for a set of configuration items. Use it to fulfill an integration, such as Carbon Black.
 
 ## Before you begin
 
@@ -24,12 +24,7 @@ This flow is triggered from the **Configuration Items** tab on a security incide
 
 \[Omitted image "isolate-host-flow.png"\] Alt text: Flow Designer for Security Operations - Isolate Host
 
-Activities specific to this flow are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-**Parent Topic:**[[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-- [[security-operations-landing-page|Security Operations]]

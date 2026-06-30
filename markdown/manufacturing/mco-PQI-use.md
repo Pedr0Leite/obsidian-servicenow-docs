@@ -14,12 +14,8 @@ breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
 
 The Agents workspace enables you to create and view product quality investigation cases.
 
--   **[[mco-create-product-quality-investigation|Create a product quality investigation]]**  
+-   **[Create a product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-product-quality-investigation.md)**  
 Create a product quality investigation report.
 
-**Parent Topic:**[[mco-agent-management|Agent management]]
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-create-product-quality-investigation|Create a product quality investigation]]
-- [[mco-agent-management|Agent management]]

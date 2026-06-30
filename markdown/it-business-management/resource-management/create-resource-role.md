@@ -26,7 +26,7 @@ Role required: resource\_manager
 
 2.  Select **New**.
 
-3.  On the [[rsrc-role-form|Resource Role form]], fill the fields.
+3.  On the Resource Role form, fill the fields.
 
     For a description of the field names, see [Resource Role form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-role-form.md).
 
@@ -44,6 +44,3 @@ Role required: resource\_manager
 
 [Reject a resource plan from the Resource Plan form]()
 
-## Related
-
-- [[rsrc-role-form|Resource Role form]]

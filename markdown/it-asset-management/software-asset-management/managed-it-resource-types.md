@@ -14,7 +14,7 @@ breadcrumb: [Subscriptions for Software Asset Management, Software Asset Managem
 
 # Managed IT Resource types
 
-There are five IT Resource categories in ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] - Server, End User Computing Device, SaaS Subscription User, PaaS Resources, and IaaS Storage.
+There are five IT Resource categories in ServiceNow Software Asset Management - Server, End User Computing Device, SaaS Subscription User, PaaS Resources, and IaaS Storage.
 
 -   Server is any physical or virtual server that is represented as a configuration item \(CI\) in the CMDB tables listed in the following license resource categories and managed by the Software Asset Management application.
 -   End User Computing Device is any physical or virtual non-server CI in the CMDB tables listed in the following license resource categories and managed by the Software Asset Management application.
@@ -115,6 +115,3 @@ cmdb\_ci\_storage\_volumeAny child classes of the above listed classes.
 </td></tr></tbody>
 </table>**Parent Topic:**[Subscriptions for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-subscription.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

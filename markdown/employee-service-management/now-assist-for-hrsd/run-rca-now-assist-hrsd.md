@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # RCA approvals for Now Assist for HR Service Delivery \(HRSD\)
 
-After you install [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]], you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
+After you install Now Assist for HR Service Delivery \(HRSD\), you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ After you install [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]

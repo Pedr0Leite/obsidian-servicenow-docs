@@ -14,7 +14,7 @@ breadcrumb: [Location Filter, Filter criteria, Adaptive authentication, Authenti
 
 # Create Location filter criteria
 
-[[use-location-filter-criteria|Use location filter criteria]] to filter input for [[users|users]] [[c_Authentication|authentication]] based on the user location.
+Use location filter criteria to filter input for users authentication based on the user location.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-Property: Enable the [[adaptive-authentication|Adaptive authentication]] property.
+Property: Enable the Adaptive authentication property.
 
 **Note:** Administrators can only create the policy based on location filters if the location is available for the current user session.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[adaptive-auth-filter-criteria|Filter Criteria]]** &gt; **[[location-filter|Location Filter]] Criteria**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Filter Criteria** &gt; **Location Filter Criteria**.
 
 2.  Select **New**.
 
@@ -48,11 +48,4 @@ Property: Enable the [[adaptive-authentication|Adaptive authentication]] propert
 
 6.  Select **Submit**.
 
-## Related
 
-- [[use-location-filter-criteria|use location filter criteria]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[location-filter|Location Filter]]

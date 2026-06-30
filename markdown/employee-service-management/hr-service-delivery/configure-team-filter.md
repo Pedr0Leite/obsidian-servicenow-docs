@@ -22,7 +22,7 @@ Role required: sn\_mh.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[manager-hub-overview|Manager Hub]]** &gt; **Administration** &gt; **Team Filter Configuration**.
+1.  Navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Team Filter Configuration**.
 
 2.  Click **New**.
 
@@ -76,7 +76,7 @@ Team data configuration
 
 </td><td>
 
-Contains configurations applied on table and fields of the table and so on. For example, for Employee Type the team data configuration is [[c_HRProfileRecords|HR profile]] and [[emp-slate-employee-profile|Employee profile]].
+Contains configurations applied on table and fields of the table and so on. For example, for Employee Type the team data configuration is HR profile and Employee profile.
 
 </td></tr><tr><td>
 
@@ -160,8 +160,3 @@ Option to display **No data** as a filter value so that managers can filter thei
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]

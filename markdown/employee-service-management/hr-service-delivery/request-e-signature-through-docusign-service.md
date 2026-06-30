@@ -18,13 +18,13 @@ Request an electronic signature through the DocuSign service. When the case stat
 
 ## Before you begin
 
-An [[scoped-hr-third-party-integrations|HR integrations]] administrator must have set up the integration between [[hr-service-delivery|HR Service Delivery]] and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  In the **Search for Employee** field, select the employee you are creating the case for.
 
@@ -50,7 +50,7 @@ When the case state changes to **Ready**, the flow triggers and creates DocuSign
 
 -   The tasks are created using the HR task template named DocuSign Task Template.
 -   Users with the sn\_hr\_core.admin role can track the flow execution with the **Show Flow** related link. If a case is cancelled from platform, you must manually cancel the associated flow. Otherwise, the flow will remain in waiting. To cancel the flow, click the **Show Flow** related link to open the flow designer in a new window, and then click **Cancel Flow**.
--   Signers must complete their DocuSign tasks through a self-service portal such as the [[employee-center-landing-page|Employee Center]]. Signing in platform is not supported.
+-   Signers must complete their DocuSign tasks through a self-service portal such as the Employee Center. Signing in platform is not supported.
 
 <table id="table_gkn_cs4_f3b"><thead><tr><th>
 
@@ -91,9 +91,3 @@ Document voided or flow errored
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]

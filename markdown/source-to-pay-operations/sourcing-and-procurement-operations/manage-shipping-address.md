@@ -14,7 +14,7 @@ breadcrumb: [Add office locations, Setting up primary data Shopping, Configure, 
 
 # Manage delivery to valid address
 
-As an administrator, you can define one or multiple valid countries where a [[supplier|supplier]] can deliver the products.
+As an administrator, you can define one or multiple valid countries where a supplier can deliver the products.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_fin.procurement\_primary\_data\_admin and sn\_shop.procuremen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Suppliers**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Suppliers**.
 
 2.  Alternatively, navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier Product**.
 
@@ -48,7 +48,3 @@ Role required: sn\_fin.procurement\_primary\_data\_admin and sn\_shop.procuremen
 
 [Select a delivery location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-delivery-location.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

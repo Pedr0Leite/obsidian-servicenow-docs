@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Enable and configure a CMDB Health Dashboard job
 
-Enable and configure the [[c_CMDBHealth|CMDB Health]] Dashboard jobs that process CMDB Health tests, to start calculating CMDB Health scores for the **completeness**, **compliance**, **correctness** KPIs, associated metrics, and relationships.
+Enable and configure the CMDB Health Dashboard jobs that process CMDB Health tests, to start calculating CMDB Health scores for the **completeness**, **compliance**, **correctness** KPIs, associated metrics, and relationships.
 
 ## Before you begin
 
@@ -108,6 +108,3 @@ The job's script. **Note:** Changes to the script might result in unexpected beh
 
 After you enable a CMDB Health Dashboard job, the results for the KPI are aggregated and appear in the CMDB Health dashboard and CI Health widget on CI forms, at the CMDB, class, and CI levels.
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

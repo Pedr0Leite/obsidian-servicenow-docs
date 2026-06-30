@@ -24,7 +24,7 @@ Role required: sn\_si.admin, sn\_si.manager, sn\_si.analyst
 
 ## About this task
 
-The ServiceNow [[sir-landing-page|Security Incident Response]] application can automate the collection of post incident review information from everyone involved with a security incident by using questionnaires. If you decide to use a questionnaire as part of a post incident review, a list of questions, relevant to the security incident, is sent to the user-defined list of participants. As each user completes the questionnaire, the post incident report is automatically generated. The report compiles all the information related to the security incident, as well as all responses to the post incident review.
+The ServiceNow Security Incident Response application can automate the collection of post incident review information from everyone involved with a security incident by using questionnaires. If you decide to use a questionnaire as part of a post incident review, a list of questions, relevant to the security incident, is sent to the user-defined list of participants. As each user completes the questionnaire, the post incident report is automatically generated. The report compiles all the information related to the security incident, as well as all responses to the post incident review.
 
 While an initial list of questions is provided with the base system, they are customizable. You can create categories and add new questions to them, or you can change individual questions within existing categories. You can ask questions based on roles. You can define when certain questions are asked. There can be questions you ask only for your UNIX servers, for example, or only when there is criminal activity. You can define questions that are asked depending on the answer to another question or on the value in a field on the form. There can even be questions that are filled in entirely by querying the database.
 
@@ -56,6 +56,4 @@ To start a post incident review:
 
     As users complete their questionnaires, the post incident report compiles the data and displays the report in the **Post Incident Review** tab. The questionnaire data is displayed in the **Findings** tab.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

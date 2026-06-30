@@ -14,7 +14,7 @@ breadcrumb: [Integrating Virtual Agent with Workflow Studio workflows, Exploring
 
 # Workflow Studio scoped application requirements for secure inputs
 
-Adhere to the following scoped application requirements to implement secure \(password2\) inputs in your [[virtual-agent-landing-page|Virtual Agent]] topics.
+Adhere to the following scoped application requirements to implement secure \(password2\) inputs in your Virtual Agent topics.
 
 You can add secure inputs to Virtual Agent topics in two ways:
 
@@ -48,6 +48,3 @@ For more information about password2 encryption with KMF, see [Password2 encrypt
 
 **Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

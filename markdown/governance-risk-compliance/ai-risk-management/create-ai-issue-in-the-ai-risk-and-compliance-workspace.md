@@ -15,7 +15,7 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Create an AI issue in the AI Risk and Compliance workspace
 
-Identify and [[manage-issues-common-core|manage issues]] related to the impacted areas for the reported AI case in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]].
+Identify and manage issues related to the impacted areas for the reported AI case in the AI Risk and Compliance workspace.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ For information about issue management life cycle, see [Manage issues](https://r
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance|AI Risk and Compliance]]** &gt; **AI Risk and Compliance Workspace**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  On the AI cases dashboard, on the **AI cases** tab, select **Create issue**.
 
@@ -49,13 +49,7 @@ The created AI issue is assigned to the owner of the control. An AI issue transi
 [Initiate AI assessment on an AI asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-assessment-on-an-ai-asset.md)
 
 -   **[Create New AI Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-new-ai-issue-form.md)**  
-Use the [[create-new-issue-opres-ws|Create New Issue form]] to identify and manage issues related to the impacted areas for the reported AI case.
+Use the Create New Issue form to identify and manage issues related to the impacted areas for the reported AI case.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[manage-issues-common-core|Manage issues]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[create-new-issue-opres-ws|Create New Issue form]]

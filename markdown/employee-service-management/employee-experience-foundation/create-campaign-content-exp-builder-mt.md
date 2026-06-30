@@ -19,12 +19,9 @@ If you have the admin role, you can create campaigns using the Content Experienc
 For information about campaigns and campaign bundles and stages, see [Creating campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md).
 
 -   **[Create Microsoft Teams notification content with Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-notification-content-exp-builder-mt.md)**  
-Create or place [[ec-notification-content|notification content]] into a bundle or stage for a Microsoft Teams campaign using Content Experience Builder.
+Create or place notification content into a bundle or stage for a Microsoft Teams campaign using Content Experience Builder.
 -   **[Create Microsoft Teams campaign stages using the Campaign Builder Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-stage-content-exp-mt.md)**  
 Use the Campaign Experience Builder to create stages for your campaign. Campaign builder provides a simple, single-page view for managing content and assembling your campaign.
 
 **Parent Topic:**[Sending notifications to employees using Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-campaigns-ms-teams-mt.md)
 
-## Related
-
-- [[ec-notification-content|Notification content]]

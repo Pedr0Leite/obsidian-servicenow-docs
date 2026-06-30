@@ -15,7 +15,7 @@ breadcrumb: [Use agentic workflows, Now Assist in CM Pro, Contract Management Pr
 
 # Reviewing AI-extracted results in the playbook
 
-The playbook in a contract repository enables you to review information extracted by the [[cmpro-na-reminder-agentic-wf|manage contract repository agentic workflow]], and configure reminders for your contract renewals or terminations.
+The playbook in a contract repository enables you to review information extracted by the manage contract repository agentic workflow, and configure reminders for your contract renewals or terminations.
 
 The manage contract repository agentic workflow extracts key metadata and obligations from signed contracts. After the extraction process is complete, you can open the **Playbook** tab in the contract repository to review the AI extracted results.
 
@@ -23,11 +23,7 @@ In the playbook, you can do the following:
 
 -   Review the metadata extracted from signed contracts, make necessary changes, and submit it to update the mapped fields of a contract repository.
 -   Review the AI calculated contract reminder date, adjust it if needed, and specify recipients who will receive notifications to either renew or terminate the contract.
--   Review the obligations extracted from signed contracts, and edit, approve, or reject them to [[cncore-create-obligations|create obligation records]] in the contract repository.
+-   Review the obligations extracted from signed contracts, and edit, approve, or reject them to create obligation records in the contract repository.
 
 \[Omitted image "cmpro-na-playbook.png"\] Alt text: Contract playbook displaying extracted obligations details.
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[cncore-create-obligations|Create obligation records]]

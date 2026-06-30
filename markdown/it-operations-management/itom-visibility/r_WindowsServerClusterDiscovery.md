@@ -14,7 +14,7 @@ breadcrumb: [Windows, Operating systems discovery, Data collected by ITOM Visibi
 
 # Windows server cluster discovery
 
-[[r-discovery|Discovery]] establishes the relationships between a Windows server cluster and its nodes.
+Discovery establishes the relationships between a Windows server cluster and its nodes.
 
 When a Windows server is found, and Discovery detects that it is part of a cluster, the system launches the Windows - Cluster probe. Navigate to **Discovery Definition** &gt; **Probes** and open the record for the Windows - Cluster probe to see the specific data Discovery collects.
 
@@ -59,6 +59,3 @@ Discovery creates the following cluster references:
 
 **Parent Topic:**[Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

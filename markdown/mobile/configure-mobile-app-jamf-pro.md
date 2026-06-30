@@ -58,13 +58,10 @@ Role required: admin
 
 After the instance is configured for the mobile app, configure the app settings to distribute the app to mobile devices in the scope.
 
-**Parent Topic:**[[jamf-mdm|Jamf Pro mobile device management \(MDM\)]]
+**Parent Topic:**[Jamf Pro mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/jamf-mdm.md)
 
 **Related topics**  
 
 
 [Configure app scope](https://docs.jamf.com/10.1.0/jamf-pro/administrator-guide/Scope.html)
 
-## Related
-
-- [[jamf-mdm|Jamf Pro mobile device management \(MDM\)]]

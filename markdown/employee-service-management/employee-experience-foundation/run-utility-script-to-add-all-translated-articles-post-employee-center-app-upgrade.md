@@ -14,7 +14,7 @@ breadcrumb: [Translated Knowledge Base article attachment behaviour, Dynamic top
 
 # Add all translated Knowledge Base articles after an upgrade
 
-Complete bulk tagging after you upgrade [[employee-center-landing-page|Employee Center]] by running the utility script. You can determine how many disassociated Knowledge Base article translations and unlinked topics that you have, using this script.
+Complete bulk tagging after you upgrade Employee Center by running the utility script. You can determine how many disassociated Knowledge Base article translations and unlinked topics that you have, using this script.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ You can run the utility script to bulk tag all translated versions of Knowledge 
 
 3.  To update the count before linking, select **Refresh list**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

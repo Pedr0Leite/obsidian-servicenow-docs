@@ -14,7 +14,7 @@ breadcrumb: [Create templates in Microsoft Word, Configure contract templates, C
 
 # Add document content controls using Microsoft Word add-in for ServiceNow Contracts
 
-Add content controls using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]. Content controls act as placeholders in contract templates.
+Add content controls using the Microsoft Word add-in for ServiceNow Contracts. Content controls act as placeholders in contract templates.
 
 The Microsoft Word add-in for ServiceNow Contracts enables you to add content controls for metadata, signatories, clauses, and table into the contract document from the following tabs.
 
@@ -54,6 +54,3 @@ Use the ServiceNow Contracts add-in to map a contract table to a source table in
 
 [Complete clause mapping to build a clause library]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

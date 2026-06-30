@@ -22,7 +22,7 @@ Role required: scrum\_product\_owner, scrum\_release\_planner, scrum\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Products**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Products**.
 
 2.  Select **New**.
 
@@ -45,6 +45,3 @@ Use the related lists of the Product record to associate releases, themes, epics
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

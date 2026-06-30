@@ -88,7 +88,7 @@ No.The issue must be corrected before the topic can be published.
 
 </td></tr><tr><td>
 
-`The topic description couldn’t be generated. Edit the description field on the Publish page or from the topic properties page in [[virtual-agent-landing-page|Virtual Agent]] Designer before publishing.`
+`The topic description couldn’t be generated. Edit the description field on the Publish page or from the topic properties page in Virtual Agent Designer before publishing.`
 
 </td><td>
 
@@ -197,6 +197,3 @@ No. The issue must be corrected before the topic can be published. Edit the desc
 </td></tr></tbody>
 </table>**Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/llm-topic-migration.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

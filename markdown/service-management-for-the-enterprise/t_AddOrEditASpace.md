@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Space**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Space**.
 
 2.  Continue with one of the following options.
 
@@ -91,7 +91,7 @@ Area unit
 
 Select the unit used for defining the space size: square feet or square meters.
 
- **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [[c_SpaceRollupCalculations|Space roll up calculations]].
+ **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_SpaceRollupCalculations.md).
 
 </td></tr><tr><td>
 
@@ -178,10 +178,5 @@ Select this check box if the space can be occupied. See [Space roll up calculati
     |**To update the space details**|Select **Update**.|
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[c_SpaceRollupCalculations|Space roll up calculations]]
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

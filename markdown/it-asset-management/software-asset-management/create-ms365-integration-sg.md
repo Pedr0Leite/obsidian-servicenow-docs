@@ -22,8 +22,8 @@ Role required: Navigate to the linked topics in each step for the required roles
 
 Enable the following plugins:
 
--   [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Microsoft \(com.snc.samp.microsoft\)
--   Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\)
+-   Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\)
+-   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\)
 -   
 Complete the steps in the [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) topic.
 
@@ -51,7 +51,3 @@ Complete the steps in the [Request Software Asset Management](https://raw.github
 
 [Validate subscription, installation, and usage data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/validate-sub-sg.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Execution Plans, Service Catalog request fulfillment, Configuring S
 
 # Create an execution plan
 
-Administrators and catalog administrators can create and manage [[c_ExecutionPlans|execution plans]] and the associated variable tasks.
+Administrators and catalog administrators can create and manage execution plans and the associated variable tasks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Execution Plans**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Execution Plans**.
 
 2.  Click **New**.
 
@@ -57,7 +57,7 @@ Each catalog item can contain one or more variables for gathering information fr
 
 2.  Open an execution plan.
 
-3.  In the [[c_ExecutionPlanTasks|Execution Plan Tasks]] related list, open a task.
+3.  In the Execution Plan Tasks related list, open a task.
 
     Ensure that the form shows the Plan view. If not, right-click the header bar and select **View** &gt; **Plan**.
 
@@ -65,13 +65,8 @@ Each catalog item can contain one or more variables for gathering information fr
 
 5.  Use the slushbucket to select the variables that are appropriate for the task.
 
-    Consider all the [[r_ExtendedCatalogItemFunctions|types of catalog items]] that could use this execution plan, and select all the variables that can be assigned to them.
+    Consider all the types of catalog items that could use this execution plan, and select all the variables that can be assigned to them.
 
 6.  Click **Save** to associate these variables to the execution plan task, making them accessible.
 
-## Related
 
-- [[c_ExecutionPlans|Execution Plans]]
-- [[service-catalog|Service Catalog]]
-- [[c_ExecutionPlanTasks|Execution plan tasks]]
-- [[r_ExtendedCatalogItemFunctions|Types of catalog items]]

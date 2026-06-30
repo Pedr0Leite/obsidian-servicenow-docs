@@ -19,13 +19,13 @@ The base Orchestration system includes packs of custom activities you can use to
 Activity packs allow you to automate several common business processes, such as managing Active Directory accounts and Exchange server mailboxes. Activity packs can also automate IT functions such as starting and stopping Windows servers, joining domains, assigning IP addresses, and configuring load balancers.
 
 -   **[Use an activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_UseAnActivityDesignerPack.md)**  
-The **Packs** tab of the [[workflow-editor|Workflow Editor]] contains any activity packs downloaded from the ServiceNow Store and any activity packs that you create.
+The **Packs** tab of the Workflow Editor contains any activity packs downloaded from the ServiceNow Store and any activity packs that you create.
 -   **[Active Directory activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md)**  
 The Active Directory \(AD\) activity pack enables an administrator to create, delete, and manage objects in Windows Active Directory, such as users, groups, and computers, using a ServiceNow Orchestration workflow.
 -   **[Azure AD activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_AzureADActivityPack.md)**  
-The [[c_AzureADActivityPack|Azure AD activity pack]] enables an administrator to automate employee onboarding and offboarding functions on Azure AD and manage Office 365 licensing.
+The Azure AD activity pack enables an administrator to automate employee onboarding and offboarding functions on Azure AD and manage Office 365 licensing.
 -   **[Exchange activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExchangeActivities.md)**  
-The [[c_OrchestrationExchangeActivities|Exchange activity pack]] allows workflows to manage Microsoft Exchange mail systems.
+The Exchange activity pack allows workflows to manage Microsoft Exchange mail systems.
 -   **[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)**  
 Orchestration provides custom activities for configuring elements of an F5 load balancer, including pools, pool members, and the virtual servers contained in the pool.
 -   **[Infoblox DDI activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDDIActivityPack.md)**  
@@ -35,21 +35,13 @@ PowerShell is built on the Windows .NET Framework and is designed to control and
 -   **[Probe activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/probe_activity-pack.md)**  
 Orchestration provides an activity pack customized using the ServiceNow activity designer that runs probes on target hosts to return specific information.
 -   **[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)**  
-The Microsoft System Center [[manage-cmdb|Configuration Management]] \(SCCM\) activity pack provides Orchestration activities you can use to manage software deployments and collections on an SCCM server.
+The Microsoft System Center Configuration Management \(SCCM\) activity pack provides Orchestration activities you can use to manage software deployments and collections on an SCCM server.
 -   **[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)**  
 Use the SFTP File Transfer activities to manage files and directories on an SFTP server and to move files from one SFTP server to another.
 -   **[SSH activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSSHCustomActivities.md)**  
-Orchestration provides an activity pack of [[c_OrchestrationSSHActivities|SSH activities]] that were customized using the ServiceNow activity designer.
+Orchestration provides an activity pack of SSH activities that were customized using the ServiceNow activity designer.
 -   **[Global activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/global-activity-pack.md)**  
-[[global-activity-pack|Global activities]] are Orchestration activities created in the global scope.
+Global activities are Orchestration activities created in the global scope.
 
 **Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r-orchestration.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_AzureADActivityPack|Azure AD activity pack]]
-- [[c_OrchestrationExchangeActivities|Exchange activity pack]]
-- [[manage-cmdb|Configuration Management]]
-- [[c_OrchestrationSSHActivities|SSH activities]]
-- [[global-activity-pack|Global activities]]

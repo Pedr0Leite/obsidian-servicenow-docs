@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The threshold [[settings-mobile|settings]] for adherence and conformance indicate how many minutes early or late an agent can clock in or clock out to a scheduled work shift without being considered as non-adherent.
+The threshold settings for adherence and conformance indicate how many minutes early or late an agent can clock in or clock out to a scheduled work shift without being considered as non-adherent.
 
 ## Procedure
 
@@ -49,6 +49,3 @@ The threshold [[settings-mobile|settings]] for adherence and conformance indicat
 
 [Schedule Adherence in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/schedule-adherence-configurable-itsm.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

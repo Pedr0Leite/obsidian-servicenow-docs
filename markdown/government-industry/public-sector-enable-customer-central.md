@@ -38,8 +38,5 @@ Customer Central displays all the touchpoints that a constituent, business, or a
     You can perform other changes to this layout, as needed. For more information, see [Configure the Customer Information view using the CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cust-central-configure-info-tab.md).
 
 
-**Parent Topic:**[[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md)
 
-## Related
-
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]

@@ -22,7 +22,7 @@ The following list is a list of key entities in the Public Sector Digital Servic
 
 -   **Contacts**
 
-    A contact is an employee of an account and can be associated with only one account. Contacts can have multiple assets and service contracts, can have one or various roles associated with them, and has a user ID and can log in to the [[gsp-overview-public-sector|Government Service Portal]], as well as view and work from the consumer instance in Service Bridge for [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]].
+    A contact is an employee of an account and can be associated with only one account. Contacts can have multiple assets and service contracts, can have one or various roles associated with them, and has a user ID and can log in to the Government Service Portal, as well as view and work from the consumer instance in Service Bridge for Public Sector Digital Services \(PSDS\).
 
     An employee of a company is an example of a contact.
 
@@ -38,10 +38,6 @@ The following list is a list of key entities in the Public Sector Digital Servic
 
     Household information is stored in the Household table, and also includes the relationships between household members.
 
-    For more information on households in Public Sector, see [[psds-config-customer-data-household|Configure households in Public Sector Digital Services]].
+    For more information on households in Public Sector, see [Configure households in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-customer-data-household.md).
 
-## Related
 
-- [[psds-config-customer-data-household|Configure households in Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

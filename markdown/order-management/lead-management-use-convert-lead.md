@@ -24,7 +24,7 @@ Role required: sales\_agent
 
 2.  In the **Leads - All** list, select the lead that you’re working with.
 
-    -   For a business customer, select **Convert lead** &gt; **to an account** and fill in the [[fields|fields]] in the form.
+    -   For a business customer, select **Convert lead** &gt; **to an account** and fill in the fields in the form.
 
 <table id="table_ysf_l2l_dcc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Opportunity
 
 </td><td>
 
-Details to create an opportunity. To learn more, see [[create-new-opportunity|Create an opportunity]].-   Create new: Select if you want to create a new opportunity.
+Details to create an opportunity. To learn more, see [Create an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-opportunity.md).-   Create new: Select if you want to create a new opportunity.
 -   Choose existing: Select if you already have an existing opportunity.
 **Note:** Select the check box if you don't want to create an opportunity for the lead.
 
@@ -101,19 +101,12 @@ Details to create an opportunity. To learn more, see [Create an opportunity](htt
     A dialog box appears for the successful conversion of your lead into an opportunity. You can select the new opportunity record that was created.
 
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[create-new-opportunity|Create an opportunity]]
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]
-- [[fields|Fields]]

@@ -26,7 +26,7 @@ Modify feedback or product idea records within the list view or side panel using
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the feedback or product idea list, select the feedback or product idea record that you want to edit.
 
@@ -80,6 +80,4 @@ From the full details page:
 </td></tr></tbody>
 </table>    Information of certain columns that aren't editable in the full details page can't be edited inline either. For example, product ideas count and votes. If you group the feedback or product idea records by any attribute, you can’t edit the short description of the items directly from the list view.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

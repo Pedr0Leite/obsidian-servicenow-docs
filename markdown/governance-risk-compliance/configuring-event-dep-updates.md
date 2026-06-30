@@ -12,7 +12,7 @@ breadcrumb: [Dependency Configuration records, General administration setup for 
 
 # Configuring sources for adding event dependencies
 
-The BCM administrators configure the sources in the Event dependency source configuration record so that the impacted assets are added in the events and [[exercise-management-uib|exercises]] based on the source data and relationships in the BIA, CMDB, and plans.
+The BCM administrators configure the sources in the Event dependency source configuration record so that the impacted assets are added in the events and exercises based on the source data and relationships in the BIA, CMDB, and plans.
 
 ## Event dependency source configuration record
 
@@ -32,15 +32,10 @@ Dependencies are fetched from these sources for the events:
 
 **Note:** In an event, the dependencies of all assets are added manually where the source is Manual.
 
-For more information on configuring the Event dependency source configuration record, see [[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]].
+For more information on configuring the Event dependency source configuration record, see [Configure Event dependency source configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-event-dep-source-confi-module.md).
 
 -   **[Configure Event dependency source configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-event-dep-source-confi-module.md)**  
 Configure the sources for adding the event dependencies in the Event dependency source configuration record.
 
-**Parent Topic:**[[dependency-config-modules|Dependency Configuration records]]
+**Parent Topic:**[Dependency Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/dependency-config-modules.md)
 
-## Related
-
-- [[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]]
-- [[dependency-config-modules|Dependency Configuration records]]
-- [[exercise-management-uib|Exercises]]

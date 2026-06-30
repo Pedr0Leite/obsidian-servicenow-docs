@@ -14,7 +14,7 @@ breadcrumb: [Service portal configuration for ShoppingHub, Configure, Sourcing a
 
 # Add a Shopping Hub Navbar link to your service portal
 
-You can add a Shopping Hub Navbar link to your service portal header menu so that shoppers can navigate from the service portal to the [[shopping-hub-overview|Shopping Hub]] portal with a single select.
+You can add a Shopping Hub Navbar link to your service portal header menu so that shoppers can navigate from the service portal to the Shopping Hub portal with a single select.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: sn\_shop.shopping\_hub\_admin and sp\_admin
 
 **Parent Topic:**[Service portal configuration for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/service-portal-configuration-for-shoppinghub.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

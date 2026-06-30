@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Control Tower, Enable AI experiences]
 
 # AI connections
 
-AI connection is a core feature of the [[ai-control-tower-landing|AI Control Tower]]. It provides a unified view of all [[ai-assets|AI assets]] across hyperscalers, AI apps, and agentic AI frameworks via Service Graph Connectors.
+AI connection is a core feature of the AI Control Tower. It provides a unified view of all AI assets across hyperscalers, AI apps, and agentic AI frameworks via Service Graph Connectors.
 
 ## Key Benefits
 
@@ -35,7 +35,7 @@ AI connection is a core feature of the [[ai-control-tower-landing|AI Control Tow
 
     **Note:** We identify Assets and CIs \(configuration item\) using their unique source IDs, such as ARN \(Amazon Resource Names\) for AWS and Product Models are identified by the associated asset
 
--   Automatic Discovery: Seamlessly discover and incorporate agents, models, [[ai-prompts|prompts]], and tools into the AI Control Tower's [[ai-inventory|AI asset inventory]]
+-   Automatic Discovery: Seamlessly discover and incorporate agents, models, prompts, and tools into the AI Control Tower's AI asset inventory
 -   Comprehensive Meta data: Capture detailed information for each asset, including relationships, versions, and operational status
 -   Visibility &amp; Control: Eliminates silos by aggregating AI assets from all major platforms, enabling holistic management and oversight, across cloud, on-premises, and hybrid environments. The AI steward has visibility into all the connections and integrations that the admin has set to be able to maintain oversight and get access to active connections. Enabling AI stewards to selectively synchronize assets and environments
 
@@ -47,7 +47,7 @@ This capability helps organizations achieve comprehensive visibility of their AI
 
 ## Business Impact
 
-AI connections help organizations reduce AI deployment risks by automatically finding AI assets and simplifying compliance. This feature improves governance by showing AI deployments across different environments, helping executives make informed decisions with full transparency. It also tracks AI [[usage-and-adoption|usage and adoption]], allowing organizations to measure productivity gains.
+AI connections help organizations reduce AI deployment risks by automatically finding AI assets and simplifying compliance. This feature improves governance by showing AI deployments across different environments, helping executives make informed decisions with full transparency. It also tracks AI usage and adoption, allowing organizations to measure productivity gains.
 
 For customers using both ServiceNow and cloud platforms, AI connections are unified. This simplifies operations and ensures strong visibility.
 
@@ -55,10 +55,3 @@ AI connection in the AI Control Tower enables enterprises to automatically find,
 
 This setup can be accessed through the [AI connections setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-discovery-setup.md) page in AI Control Tower using Service Graph Connectors to discover AI assets, and usage.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-prompts|Prompts]]
-- [[ai-inventory|AI asset inventory]]
-- [[usage-and-adoption|Usage and adoption]]

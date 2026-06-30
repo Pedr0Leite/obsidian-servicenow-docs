@@ -14,7 +14,7 @@ breadcrumb: [3E Regulatory Intelligence, 3E, Integration with third-party servic
 
 # Configure OAuth authentication for the 3E Regulatory Intelligence API
 
-Configure the 3E Regulatory credentials alias with the **Client ID** and **Client Secret** required to authenticate with the [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]] API.
+Configure the 3E Regulatory credentials alias with the **Client ID** and **Client Secret** required to authenticate with the 3E Regulatory Intelligence API.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The 3E regulatory intelligence integration uses OAuth 2.0 client credentials to 
 
 **Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-regulatory-intelligence.md)
 
-## Related
-
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]

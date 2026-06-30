@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Approve a reserve or payment amount for an Insurance claims case
 
-Approve an assigned claim reserve or a payment amount that is higher than an adjuster's approval authority for [[insurance-claims-flow|Insurance claims]] cases. A reserve or payment may be rejected if the requested amount doesn't support the findings from the claim investigation.
+Approve an assigned claim reserve or a payment amount that is higher than an adjuster's approval authority for Insurance claims cases. A reserve or payment may be rejected if the requested amount doesn't support the findings from the claim investigation.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the task in one of the following ways.
 
@@ -100,7 +100,3 @@ Approve the reserve or payment amount by selecting **Approve**.
 -   If the claims manager rejects the reserve or payment amount, the manager provides another recommendation. A notification of the rejected status triggers to the adjuster.
 -   System-generated entries for the reserve or payment amount approval or rejection are added to the activity stream. These automated entries support auditing and tracking.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

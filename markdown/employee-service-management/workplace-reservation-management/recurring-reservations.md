@@ -14,7 +14,7 @@ breadcrumb: [Reserve workplace items, Workplace Reservation Management, Workplac
 
 # Auto-resolve recurring reservations
 
-While making a recurring reservation, only the availability of the first occurrence is checked. It’s possible that a future occurrence of the meeting may run into conflicts. To avoid such conflicts, while scheduling a recurring reservation, the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application tries to auto-resolve any recurring conflicts.
+While making a recurring reservation, only the availability of the first occurrence is checked. It’s possible that a future occurrence of the meeting may run into conflicts. To avoid such conflicts, while scheduling a recurring reservation, the Workplace Reservation Management application tries to auto-resolve any recurring conflicts.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The application tries to find an alternative space automatically for conflicted 
 -   When no floor map is available, the application finds an alternative space in the same area or on the same floor.
 -   Favorite spaces are prioritized over 'location' \(within the same area or within proximity\).
 -   Application searches for a space of the same type.
--   Application searches for a space with similar [[standard-service|standard services]].
+-   Application searches for a space with similar standard services.
 -   Employee is notified through the Reservation Summary page and via email when the application assigns an alternative space.
 
 **Note:** Adding extra services option isn’t available for Recurring reservations.
@@ -43,9 +43,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
-2.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[workplace-services-portal-hr|Workplace service portal]]** &gt; **Workplace Service Portal Home** &gt; **[[reservation-portal|Make a Reservation]]**.
+2.  Navigate to **Workplace Core** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home** &gt; **Make a Reservation**.
 
-3.  [[create-reservation-request-1|Create a reservation]].
+3.  Create a reservation.
 
     For more information about how to create a reservation, see [Create a reservation]().
 
@@ -127,11 +127,3 @@ Role required: admin
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[standard-service|Standard services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[reservation-portal|Make a reservation]]
-- [[create-reservation-request-1|Create a reservation]]

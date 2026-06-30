@@ -68,13 +68,10 @@ ServiceNow® Service Exchange connects multiple ServiceNow instances to provide 
 </table>## Additional resources
 
 -   Learn more about what's new and changed, see the [Service Exchange \(formerly Service Bridge\) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/service-bridge-rn.md).
--   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [[tmt-api-reference|TMF APIs for TMT]].
+-   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [TMF APIs for TMT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-api-reference.md).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 -   Connect with other Service Exchange users at [Now Community](https://www.servicenow.com/community/).
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   View KB articles at [Service Exchange Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1509053)
 -   Access Service Exchange product page from [Service Exchange product](https://www.servicenow.com/products/service-bridge.html).
 
-## Related
-
-- [[tmt-api-reference|TMF APIs for TMT]]

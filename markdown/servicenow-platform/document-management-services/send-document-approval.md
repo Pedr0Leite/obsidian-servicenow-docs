@@ -14,7 +14,7 @@ breadcrumb: [Document Management in Workspace, Use, Document Management, Documen
 
 # Send a document version for approval
 
-Add a single or multiple reviewers and approvers for the [[r_ApprovalProcess|document approval]] and review.
+Add a single or multiple reviewers and approvers for the document approval and review.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ For more information, see [Document approval and publish process](https://raw.gi
 
 9.  Select **Create a new version**.
 
-10. Select **Upload [[attachment|attachment]]** to attach the new version.
+10. Select **Upload attachment** to attach the new version.
 
 11. Select **Save version**.
 
@@ -57,7 +57,3 @@ For more information, see [Document approval and publish process](https://raw.gi
 
 **Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-management-workspace.md)
 
-## Related
-
-- [[r_ApprovalProcess|Document approval]]
-- [[attachment|Attachment]]

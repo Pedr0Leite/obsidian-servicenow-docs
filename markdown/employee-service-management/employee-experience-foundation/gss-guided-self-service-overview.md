@@ -16,7 +16,7 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 Empower employees with easier self-serve capabilities through guided experiences to improve productivity and efficiency.
 
-A new plugin **Guided Self-Service** \(sn\_ex\_sp\_gd\_help\) in [[employee-center-landing-page|Employee Center]] enables employees with an intuitive Question-and-Answer \(QnA\) powered self-service.
+A new plugin **Guided Self-Service** \(sn\_ex\_sp\_gd\_help\) in Employee Center enables employees with an intuitive Question-and-Answer \(QnA\) powered self-service.
 
 ## Guided Self-Service \(GSS\) overview
 
@@ -25,7 +25,7 @@ With an in-context visual way to navigate the complex work scenarios, admins can
 Using the Guided Self-Service, employees can self-serve with step-by-step assistance and navigate their way to the relevant article or catalog item. Guided Self-Service can
 
 -   Self-serve with easy access to information, processes, and resolutions for day-to-day work.
--   [[discover-lxp|Discover]] and use the GSS processes through AI-powered search.
+-   Discover and use the GSS processes through AI-powered search.
 -   Make information and solutions easily accessible to employees with varying levels of knowledge or experience.
 -   Guide employees to the relevant article or catalog form through a visual Question-and-Answer \(QnA\) experience.
 -   Leverage prebuilt activities and templates for self-service help use cases, powered by playbooks.
@@ -72,7 +72,3 @@ Understand the basics of playbooks and workflow studio. Ensure you have working 
 
 [Use Guided Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-homepage.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[discover-lxp|Discover]]

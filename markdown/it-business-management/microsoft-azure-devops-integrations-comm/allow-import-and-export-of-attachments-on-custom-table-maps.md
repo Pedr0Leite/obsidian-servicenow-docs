@@ -14,7 +14,7 @@ breadcrumb: [Customizing your map configuration for Azure DevOps integration, Se
 
 # Allow import and export of attachments on a custom table
 
-Enable import and export of attachments between Azure DevOps and [[agile-landing-page|Agile Development 2.0]] for a custom table that you added to the map configuration of a process type.
+Enable import and export of attachments between Azure DevOps and Agile Development 2.0 for a custom table that you added to the map configuration of a process type.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/customizing-map-config-agile-azure.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

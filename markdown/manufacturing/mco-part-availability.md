@@ -20,17 +20,17 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns**.
 
 2.  Select the corresponding campaign record in which you want to generate the part requirements.
 
-    To generate the part requirement, see [[mco-part-requirements|Generate a part requirement]].
+    To generate the part requirement, see [Generate a part requirement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-part-requirements.md).
 
 3.  Select **Parts requirements**.
 
 4.  Select the corresponding part requirement record in which you want to create the part availability.
 
-5.  Select **[[mco-rcl-clms|Recall Campaign]] Part Availability**.
+5.  Select **Recall Campaign Part Availability**.
 
 6.  Select **New**.
 
@@ -51,8 +51,3 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 **Parent Topic:**[Generate a part requirement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-part-requirements.md)
 
-## Related
-
-- [[mco-part-requirements|Generate a part requirement]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

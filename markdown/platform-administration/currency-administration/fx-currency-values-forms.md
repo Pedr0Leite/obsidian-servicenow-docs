@@ -16,7 +16,7 @@ breadcrumb: [FX Currency fields, Explore, Currency administration, Configure cor
 
 In forms, the FX Currency field behaves like a dot walkable field in script. It consists of an entry field, and an accompanying list for selection of a currency code.
 
-Specifically, [[fx-currency|FX Currency fields]] that appear on forms contain the following: \[Omitted image "currency2-field.png"\] Alt text: Fx currency field
+Specifically, FX Currency fields that appear on forms contain the following: \[Omitted image "currency2-field.png"\] Alt text: Fx currency field
 
 -   An empty field for entry of a numeric currency value, formatted according to your assigned user locale. For example, in the US, it is formatted with two decimal places, for entry of cents.
 
@@ -30,6 +30,3 @@ Specifically, [[fx-currency|FX Currency fields]] that appear on forms contain th
 
 **Parent Topic:**[FX Currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md)
 
-## Related
-
-- [[fx-currency|FX Currency fields]]

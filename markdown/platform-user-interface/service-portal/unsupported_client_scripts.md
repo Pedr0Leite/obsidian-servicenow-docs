@@ -14,7 +14,7 @@ breadcrumb: [Supported features in Service Portal, Exploring Service Portal, Ser
 
 # Service Portal and client scripts
 
-You can use client scripts and catalog client scripts in the [[c_ServicePortal|Service Portal]] if the UI Type is set to **Mobile / Service Portal** or **All**. Client scripts and catalog client scripts are used with the [[form-widget|Form widget]] and [[sc-catalog-item-widget|SC Catalog Item widget]], as opposed to a widget client controller.
+You can use client scripts and catalog client scripts in the Service Portal if the UI Type is set to **Mobile / Service Portal** or **All**. Client scripts and catalog client scripts are used with the Form widget and SC Catalog Item widget, as opposed to a widget client controller.
 
 Before flagging a script as **Mobile/Service Portal** or **All**, make sure that you are only using the mobile APIs. Setting a client script to **Mobile** does not ensure that it will work, it simply flags that the script should be attempted by the mobile app or the Service Portal. Many of your existing client scripts can be set to **All** as long as the API calls are supported by the mobile client scripting environment.
 
@@ -85,8 +85,3 @@ Some client scripts are not supported in Service Portal. Others must have a UI t
 
 **Parent Topic:**[Supported features in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported-features-sp.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[form-widget|Form widget]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]

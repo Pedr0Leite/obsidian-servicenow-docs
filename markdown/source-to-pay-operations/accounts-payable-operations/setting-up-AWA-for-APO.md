@@ -14,11 +14,11 @@ breadcrumb: [Advanced Work Assignment in Accounts Payable Operations, Use, Accou
 
 # Setting up Advanced Work Assignment for Accounts Payable Operations
 
-Set up [[advanced-work-assignment|Advanced Work Assignment]] \(AWA\) and required plugins to automatically route incoming work items to qualified agents in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Set up Advanced Work Assignment \(AWA\) and required plugins to automatically route incoming work items to qualified agents in Accounts Payable Operations.
 
 Set up the following components for AWA in Accounts Payable Operations
 
--   Service channels- A means of assigning specific tasks to APO agents and specialists. You can configure base channels which define the means through which a query is answered by the agents. Base channels may include chats, [[work-with-inquiry-cases|invoice inquiry cases]], messenger, and walk-up centers. You can create service channel of your choice and set attributes such as agent capacity, agent skills for each service channel which will define the work handled by the agent or agent group.
+-   Service channels- A means of assigning specific tasks to APO agents and specialists. You can configure base channels which define the means through which a query is answered by the agents. Base channels may include chats, invoice inquiry cases, messenger, and walk-up centers. You can create service channel of your choice and set attributes such as agent capacity, agent skills for each service channel which will define the work handled by the agent or agent group.
 -   Work item- Work handled by the agent from start to completion.
 -   Work item queue- Queue that stores work items for a service channel.
 -   Assignment groups- Agents belonging to specific groups categorized by the type of work assigned to them.
@@ -30,8 +30,3 @@ For more information about AWA components, refer [Exploring Advanced Work Assign
 
 **Parent Topic:**[Advanced Work Assignment in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/advanced-work-assignment.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360 experience in a workspace, CMDB 360, Configuration Managem
 
 # Create a Find Gap query
 
-Create a Find Gap query from the [[multisource-cmdb|CMDB 360]] dashboard in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]] to help you find CIs that are not being reported by a discovery source.
+Create a Find Gap query from the CMDB 360 dashboard in CMDB Workspaceor in Service Graph Workspace to help you find CIs that are not being reported by a discovery source.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Gaps in discovery source reporting occur when at least one discovery source repo
     |-----|-----------|
     |Show unique CMDB 360 records|Select if you want to see only unique CMDB 360 records. Records for the same CIs from different discovery sources are consolidated.|
     |Show CI records by discovery source|Select if you want to see records for each CI and discovery source pair.|
-    |Limit results to|Limits the query results to CIs that belong to a service or CMDB group. When you select **Application Services**, **Technical Services**, or **[[cmdb-groups|CMDB Groups]]**, a prompt appears where you can specify the service or CMDB group that you want the query to filter for.|
+    |Limit results to|Limits the query results to CIs that belong to a service or CMDB group. When you select **Application Services**, **Technical Services**, or **CMDB Groups**, a prompt appears where you can specify the service or CMDB group that you want the query to filter for.|
 
 11. Select **Continue**.
 
@@ -81,8 +81,3 @@ On the CMDB 360 Query Results page:
 -   After creating a schedule, you can select **Create Report** to configure a report that you can manage using [Reporting capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting-landing-page.md).
 -   On the Query Results page, access a record to view further details.
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]

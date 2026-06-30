@@ -12,7 +12,7 @@ breadcrumb: [Explore, Customer Service Management]
 
 # Intelligence
 
-Use the Intelligence solutions for the [[c_CustomerServiceManagement|Customer Service Management]] application to access machine learning frameworks, search and automation functions, and natural language processing to automate and enhance your agent and customer experience.
+Use the Intelligence solutions for the Customer Service Management application to access machine learning frameworks, search and automation functions, and natural language processing to automate and enhance your agent and customer experience.
 
 ## Intelligence solutions
 
@@ -24,34 +24,34 @@ Intelligence solutions use artificial intelligence \(AI\) to support machine lea
 
 -   **Machine learning**
 
-    [[machine-learning-csm|Machine learning solutions for Customer Service Management]] help with case creation, case assignment, and case resolution.
+    [Machine learning solutions for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/machine-learning-csm.md) help with case creation, case assignment, and case resolution.
 
 -   **Natural Language Understanding**
 
-    [Natural Language Understanding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-landing.md) helps with features such as [[case-sentiment-analysis|sentiment analysis]], which analyzes customer interactions for positive, negative, or neutral tone. NLU can also interpret customer intent when interacting with a virtual agent to automatically fulfill requests. For example: a customer asks "I need access to the XYZ environment", and NLU interprets "Grant access" as the intent and "XYZ environment" as the entity.
+    [Natural Language Understanding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-landing.md) helps with features such as sentiment analysis, which analyzes customer interactions for positive, negative, or neutral tone. NLU can also interpret customer intent when interacting with a virtual agent to automatically fulfill requests. For example: a customer asks "I need access to the XYZ environment", and NLU interprets "Grant access" as the intent and "XYZ environment" as the entity.
 
 
 ## Task Intelligence for Customer Service
 
-The Task Intelligence for Customer Service application offers you several AI capabilities. You can use [[case-language-detection|language detection]], [[case-categorization-overview|record categorization]], Sentiment Analysis, and Document Intelligence to automate your routine tasks across a case's life cycle. These capabilities also enable your agents to focus on resolving complex cases.
+The Task Intelligence for Customer Service application offers you several AI capabilities. You can use language detection, record categorization, Sentiment Analysis, and Document Intelligence to automate your routine tasks across a case's life cycle. These capabilities also enable your agents to focus on resolving complex cases.
 
-To learn more about Task Intelligence, see [[csm-task-intelligence|Task Intelligence for Customer Service]].
+To learn more about Task Intelligence, see [Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md).
 
 ## Recommended Actions application for Customer Service Management
 
-By [[ra-csm-using-recommended-actions|using the Recommended Actions application]] for Customer Service Management, you can configure and display the relevant, [[configure-nba|recommended actions]] for your agents. These actions are based on the context of the record. Your agents can quickly follow these recommended actions to assist customers and to resolve issues.
+By using the Recommended Actions application for Customer Service Management, you can configure and display the relevant, recommended actions for your agents. These actions are based on the context of the record. Your agents can quickly follow these recommended actions to assist customers and to resolve issues.
 
 The following example shows the recommended actions on the case record. The panel offers the agent options to assist with a home loan application, such as getting a credit report, determining eligibility, and gathering documents.
 
 \[Omitted image "recommended-actions-workspace.png"\] Alt text: Recommended Actions dashboard that shows machine learning.
 
-To learn more about Recommended Actions, see [[nba|Recommended Actions application]].
+To learn more about Recommended Actions, see [Recommended Actions application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md).
 
 ## Predictive Intelligence for case management
 
 You can assist your agents when they are creating cases by limiting the amount of information that they have to enter. For example, an agent only has to enter a short description of the case. Based on the agent's input in the short description field, Predictive Intelligence predicts the category, priority, and assignment group, routing the case to the correct queue.
 
-To learn more about Predictive Intelligence, see [[agent-intelligence-case-mgmt|Predictive Intelligence for case management]].
+To learn more about Predictive Intelligence, see [Predictive Intelligence for case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-intelligence-case-mgmt.md).
 
 ## Guided Decisions for Customer Service Management
 
@@ -66,18 +66,5 @@ Guided Decisions can help customer service agents by offering step-by-step dynam
 -   Increase customer satisfaction with consistent agent processes and responses.
 -   Improve first contact resolution by guiding agents along the optimal path to resolve complex cases.
 
-To learn more about Guided Decisions, see [[setting-up-guided-decisions|Configuring Guided Decisions]].
+To learn more about Guided Decisions, see [Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md).
 
-## Related
-
-- [[machine-learning-csm|Machine learning solutions for Customer Service Management]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[nba|Configuring Recommended Actions]]
-- [[agent-intelligence-case-mgmt|Predictive Intelligence for case management]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[case-language-detection|Language detection]]
-- [[case-categorization-overview|Record categorization]]
-- [[ra-csm-using-recommended-actions|Using the Recommended Actions application]]
-- [[configure-nba|Recommended Actions]]

@@ -26,7 +26,7 @@ Role required: itil, sn\_change\_write, or admin
 
 1.  Navigate to **All** &gt; **Change** &gt; **Create New** and select **Normal** or **Emergency** change.
 
-2.  Select the **[[bulk-ci-change|Mass update CI]] class** check box.
+2.  Select the **Mass update CI class** check box.
 
     The **Mass update CI class** tab or form section appears.
 
@@ -54,7 +54,7 @@ Role required: itil, sn\_change\_write, or admin
 
     If you change the CI class after selecting affected CIs, the list is cleared when you save the record.
 
-9.  Continue with the [[c_ITILChangeManagement|change management]] process for this change request.
+9.  Continue with the change management process for this change request.
 
 10. When the record reaches the Implement or Review states, click **Apply Proposed Changes**.
 
@@ -74,7 +74,3 @@ Role required: itil, sn\_change\_write, or admin
 
 [Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
-## Related
-
-- [[bulk-ci-change|Mass Update CI]]
-- [[c_ITILChangeManagement|Change Management]]

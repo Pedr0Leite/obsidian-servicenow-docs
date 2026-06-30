@@ -20,13 +20,13 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
 ## Procedure
 
-1.  Open an invoice case In [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open an invoice case In CSM Configurable Workspace.
 
 2.  Select the Invoice Case Lines tab and then select an invoice case line.
 
 3.  Select **Create case line task**.
 
-    The system opens a Create New [[case-line-task-form|Case Line Task form]] in a separate sub tab.
+    The system opens a Create New Case Line Task form in a separate sub tab.
 
 4.  Add information to the Create New Case Line Task form.
 
@@ -34,7 +34,4 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
     The system adds the new task record to the Tasks tab on the Invoice Case Line record.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-line-task-form|Case line task form]]

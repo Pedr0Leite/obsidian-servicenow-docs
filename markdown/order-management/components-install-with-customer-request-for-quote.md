@@ -113,16 +113,12 @@ Stores product specifications and configurable attributes for each RFQ line item
 The following applications are installed as dependencies with the Customer Request for Quote application \(sn\_cust\_rfq\):
 
 -   Customer Request for Quote Data Model \(com.sn\_cust\_rfq\_core\)
--   [[product-catalog-managment|Product Catalog Management]] Core \(com.sn\_prd\_pm\)
+-   Product Catalog Management Core \(com.sn\_prd\_pm\)
 -   Price Management \(com.sn\_csm\_pricing\)
 -   Sales common \(com.sn\_l2c\_sales\_common\)
 -   Product Catalog Management Portal \(com.prd\_pm\_portal\)
 -   Agent Workspace \(com.agent\_workspace\)
 -   Playbooks for CSM \(com.sn\_csm\_playbook\)
 
-**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[product-catalog-managment|Product Catalog Management]]

@@ -14,11 +14,11 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 # SPO SR field mappings to ITAM PO
 
-Lists the field mappings between SPO [[sourcing-request|sourcing request]] \(SR\) records and ITAM [[purchase-order-table|purchase order]] \(PO\) records.
+Lists the field mappings between SPO sourcing request \(SR\) records and ITAM purchase order \(PO\) records.
 
-The SR initiates the sourcing workflow, and quantity, price, and delivery location mappings defined at the SR line level are carried into the [[purchase-requisition|purchase requisition]] \(PR\).
+The SR initiates the sourcing workflow, and quantity, price, and delivery location mappings defined at the SR line level are carried into the purchase requisition \(PR\).
 
-These same PR line mappings are reused to create purchase order line \(POL\) records after [[supplier|supplier]] award, automatically populating the **Quantity**, **Price**, and **Delivery Address**/**Ship To** fields.
+These same PR line mappings are reused to create purchase order line \(POL\) records after supplier award, automatically populating the **Quantity**, **Price**, and **Delivery Address**/**Ship To** fields.
 
 **Parent Topic:**[SPO and ITAM data model mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-data-model.md)
 
@@ -39,9 +39,3 @@ These same PR line mappings are reused to create purchase order line \(POL\) rec
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

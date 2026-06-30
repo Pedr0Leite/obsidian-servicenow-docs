@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create demand task form
 
-The [[demand-task-form|demand task form]] information is used to [[create-demand-task|create a demand task]] for the demand.
+The demand task form information is used to create a demand task for the demand.
 
 <table id="demand_task_form_fields"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Assigned to
 
 Primary resource responsible for executing or progressing the task. The following conditions apply:-   If an assignment group is defined, users in the assignment group are listed.
 -   If skills are defined, users with those skills are listed.
--   If no assignment groups or skills are defined, users with one of the [[c_ProjectApplicationOverview|Project Management]] application user roles are listed.
+-   If no assignment groups or skills are defined, users with one of the Project Management application user roles are listed.
 -   Users with the timecard\_user role are also listed.
 
 </td></tr><tr><td>
@@ -142,14 +142,7 @@ Work notes
 
 </td><td>
 
-Information about the demand task. Work notes are added throughout the [[c_DemandManagement|demand management]] life cycle to communicate with other users associated with the demand.
+Information about the demand task. Work notes are added throughout the demand management life cycle to communicate with other users associated with the demand.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[demand-task-form|Demand task form]]
-- [[create-demand-task|Create a demand task]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_DemandManagement|Demand Management]]

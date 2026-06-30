@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-A number of configuration settings determine the behavior of [[operational-metrics|Metric Intelligence]] MID Servers. In the base system, these configuration settings are configured with default values, data types, and range of valid values. You cannot directly modify these configuration settings or add new ones. However, you can create a metric configuration rule with new configuration settings that override the default values on the MID Servers.
+A number of configuration settings determine the behavior of Metric Intelligence MID Servers. In the base system, these configuration settings are configured with default values, data types, and range of valid values. You cannot directly modify these configuration settings or add new ones. However, you can create a metric configuration rule with new configuration settings that override the default values on the MID Servers.
 
 Then, manually apply these rules to all Metric Intelligence MID Servers in a single synchronization operation, or rely on an hourly system job to perform the synchronization.
 
@@ -36,9 +36,9 @@ It is valid to have multiple rules for a setting that affect the same CIs, in wh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Anomaly Detection** &gt; **Metric Config Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Anomaly Detection** &gt; **Metric Config Rules**.
 
-2.  On the [[metric-configuration-rule|Metric Configuration Rules]] pane, click **New**, and fill out the form.
+2.  On the Metric Configuration Rules pane, click **New**, and fill out the form.
 
 <table id="table_lss_mpv_lz"><thead><tr><th>
 
@@ -1318,8 +1318,3 @@ Metric Intelligence configuration settings rules contain user specified values t
 
 [Configure multiple MID Servers to work with Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-multiple-mid-acc-monitoring.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]
-- [[metric-configuration-rule|Metric Configuration Rules]]

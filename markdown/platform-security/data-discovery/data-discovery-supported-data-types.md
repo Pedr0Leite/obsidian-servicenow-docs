@@ -14,7 +14,7 @@ breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Priv
 
 # Data Discovery supported data types
 
-Check which field types are supported when using [[data-discovery-landing|Data Discovery]].
+Check which field types are supported when using Data Discovery.
 
 **Note:** Not all field types that have been classified are available for Data Discovery.
 
@@ -55,6 +55,3 @@ Some high risk field types are turned off by default, as detailed in the table. 
 |video|No|
 |wiki\_text|No|
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure a browser warning for unsaved changes
 
-[[configure-onboarding-modals|Configure]] a browser warning to display when you navigate away from a Configurable Workspace page with unsaved changes.
+Configure a browser warning to display when you navigate away from a Configurable Workspace page with unsaved changes.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 When you navigate away from a Configurable Workspace page using back or forward buttons, a browser warning can display to alert you of unsaved changes.
 
-This browser warning relies on popstate event handling to detect browser navigation actions. It applies to the entire page, not only the form. For example, even if all [[c_FormFields|form fields]] are saved, the warning would still appear if other components such as the email composer or [[activity-stream-configurable-workspace|Activity stream]] contain unsaved data.
+This browser warning relies on popstate event handling to detect browser navigation actions. It applies to the entire page, not only the form. For example, even if all form fields are saved, the warning would still appear if other components such as the email composer or Activity stream contain unsaved data.
 
 ## Procedure
 
@@ -52,8 +52,4 @@ This browser warning relies on popstate event handling to detect browser navigat
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[c_FormFields|Form fields]]
-- [[activity-stream-configurable-workspace|Activity stream]]

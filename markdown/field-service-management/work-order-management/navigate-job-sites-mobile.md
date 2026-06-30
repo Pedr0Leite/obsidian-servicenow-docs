@@ -18,7 +18,7 @@ View a map of the job site and get directions to the specific on-site location.
 
 ## Before you begin
 
-The Site Mapping for [[fsm-application-landing-page|Field Service Management]] plugin \(com.\[complete-plugin-id\]\) must be activated before viewing site maps. Only one job can be displayed at the site at a time. For more information, see [Activate Site Mapping for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sitemap-fsm.md).
+The Site Mapping for Field Service Management plugin \(com.\[complete-plugin-id\]\) must be activated before viewing site maps. Only one job can be displayed at the site at a time. For more information, see [Activate Site Mapping for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sitemap-fsm.md).
 
 Role required: wm\_agent
 
@@ -32,6 +32,4 @@ Role required: wm\_agent
 
 4.  Select **Get directions**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

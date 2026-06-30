@@ -22,10 +22,10 @@ Support: Basic.
 
 Follow these steps to achieve domain separation:
 
--   Create a user with the [[get-started-with-misp-integration-for-security-operations|required roles]] in your domain.
--   Perform the [[misp-integration-for-security-operations|MISP integration for Security Operations]] procedures in your domain.
+-   Create a user with the [required roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md) in your domain.
+-   Perform the MISP integration for Security Operations procedures in your domain.
 
-**Parent Topic:**[[misp-administration|MISP administration]]
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -48,8 +48,3 @@ Follow these steps to achieve domain separation:
 
 [Troubleshooting MISP integration]()
 
-## Related
-
-- [[get-started-with-misp-integration-for-security-operations|Getting started with MISP integration for Security Operations]]
-- [[misp-administration|MISP administration]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]

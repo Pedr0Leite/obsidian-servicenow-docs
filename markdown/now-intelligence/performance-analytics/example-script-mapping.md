@@ -36,7 +36,7 @@ The resulting numbers of days are sorted into the buckets of the bucket group.
 
 Here is the result of running this script on the Number of open incidents indicator.
 
-\[Omitted image "detailed-scorecard-age-breakdown.png"\] Alt text: [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] for the Number of open incidents indicator showing the Age breakdown.
+\[Omitted image "detailed-scorecard-age-breakdown.png"\] Alt text: Analytics Hub for the Number of open incidents indicator showing the Age breakdown.
 
 **Parent Topic:**[Create a breakdown mapping on a breakdown record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtBkdnBreakdownMpngs.md)
 
@@ -45,6 +45,3 @@ Here is the result of running this script on the Number of open incidents indica
 
 [Scripting in Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-scripts.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

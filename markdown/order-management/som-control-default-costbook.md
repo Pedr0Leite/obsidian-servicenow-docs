@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Control the default cost book on transaction header or header line
 
-Set the default cost book displayed to your sales agents on the transaction header or header line for a [[order-mgt-overview|Sales Customer Relationship Management]] application by using the Cost Book Defaulting Matrix.
+Set the default cost book displayed to your sales agents on the transaction header or header line for a Sales Customer Relationship Management application by using the Cost Book Defaulting Matrix.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ The transaction header is a record that contains general information about an en
 
     The default cost book is displayed in the transaction header or header line for the application.
 
-## Related
 
-- [[order-mgt-overview|Sales Customer Relationship Management]]

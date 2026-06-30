@@ -14,7 +14,7 @@ breadcrumb: [Conversational Interfaces]
 
 # Conversational Interfaces Console
 
-Explore, implement, and maintain your [[convint-landing-page|Conversational Interfaces]] using a home-page or console experience. All the settings and configurations you need to set up and launch your interfaces, such as [[virtual-agent-landing-page|Virtual Agent]] and [[ci-use-agent-chat|Agent Chat]], are consolidated in the ServiceNow® Conversational Interfaces console.
+Explore, implement, and maintain your Conversational Interfaces using a home-page or console experience. All the settings and configurations you need to set up and launch your interfaces, such as Virtual Agent and Agent Chat, are consolidated in the ServiceNow® Conversational Interfaces console.
 
 For an introduction to the Conversational Interfaces console, and to get familiar with the product, watch this video.
 
@@ -34,14 +34,7 @@ For an introduction to the Conversational Interfaces console, and to get familia
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get technical information about records in the Interactions table and [[va-data-mgmt|data management in Conversational Interfaces]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-reference-parent.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get technical information about records in the Interactions table and data management in Conversational Interfaces.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-reference-parent.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[va-data-mgmt|Data management in Conversational Interfaces]]

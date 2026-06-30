@@ -14,7 +14,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 Use an API call to obtain user views, user session time, and time spent at a stage.
 
-[[transaction-manager|Transaction Manager]] provides an API to retrieve metrics on transactions. Metrics include views by user, session time by user, and stage time.
+Transaction Manager provides an API to retrieve metrics on transactions. Metrics include views by user, session time by user, and stage time.
 
 You can query a single transaction by sending the transaction ID. If no transaction ID is provided, all transaction data is returned.
 
@@ -53,6 +53,3 @@ Stage time:
 
 If filtered to a single transaction, the metric reflects the time that the transaction was in the specified stage.
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]

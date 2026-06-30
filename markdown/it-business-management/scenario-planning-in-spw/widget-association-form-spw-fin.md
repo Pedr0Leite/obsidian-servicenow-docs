@@ -54,7 +54,7 @@ Order
 
 </td><td>
 
-Position of the widget in relation to other widgets in the **Financials** tab of the [[project-workspace-landing-page|Project Workspace]]. Widgets appear in numeric order with the smallest number listed first.
+Position of the widget in relation to other widgets in the **Financials** tab of the Project Workspace. Widgets appear in numeric order with the smallest number listed first.
 
 </td></tr><tr><td>
 
@@ -75,6 +75,3 @@ Option to show the widget by default in the **Financials** tab.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

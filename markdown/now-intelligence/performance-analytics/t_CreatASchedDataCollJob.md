@@ -18,7 +18,7 @@ Schedule a data collection job to regularly collect Performance Analytics indica
 
 ## Before you begin
 
-Before defining data collection jobs, make sure that [[c_IndicatorSources|indicator sources]], [[breakdown-sources|breakdown sources]], and indicators have been defined. Otherwise, jobs cannot return any results.
+Before defining data collection jobs, make sure that indicator sources, breakdown sources, and indicators have been defined. Otherwise, jobs cannot return any results.
 
 Roles required: pa\_data\_collector or admin
 
@@ -35,7 +35,7 @@ Data collection jobs run different steps to collect scores and to collect text a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Jobs** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs** and select **New**.
 
     You can instead edit an existing data collection job, for example to change the schedule of when the job runs. In this case, navigate to **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs** and select the job name.
 
@@ -92,7 +92,7 @@ Run as tz
 
 </td><td>
 
-Select the time zone that the queries use when they are executed from the job. Use the [[reporting-landing-page|reporting]] time zone of your company if one exists. By default the System time zone is used. This time zone determines what day is "Today" for conditions like \[\[Opened\]\[on\]\[Today\]\].
+Select the time zone that the queries use when they are executed from the job. Use the reporting time zone of your company if one exists. By default the System time zone is used. This time zone determines what day is "Today" for conditions like \[\[Opened\]\[on\]\[Today\]\].
 
 </td></tr><tr><td>
 
@@ -211,9 +211,3 @@ The `com.snc.pa.dc.script.use.sandbox` system property controls whether data col
 
 **Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
 
-## Related
-
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]

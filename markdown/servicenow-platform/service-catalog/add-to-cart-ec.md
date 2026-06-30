@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog in Employee Center portal, Integrating Service Cata
 
 # Add a catalog item to the shopping cart in Employee Center
 
-[[t_AssignItemToAddlCatalogsCategory|Add a catalog item]] or order guide to the shopping cart to store at one place and checkout.
+Add a catalog item or order guide to the shopping cart to store at one place and checkout.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: requester
 
 1.  Navigate to **All** &gt; **Employee Center** &gt; **IT**.
 
-2.  Select a topic to view the catalog items and then select catalog item or [[c_RecordProducer|record producer]] from the Catalog.
+2.  Select a topic to view the catalog items and then select catalog item or record producer from the Catalog.
 
 3.  Click **Add to Cart** in the Ordering widget.
 
@@ -48,7 +48,7 @@ Role required: requester
 
     The item is removed from the cart. You can access the saved drafts from the My Request widget in the **Drafts** tab.
 
-9.  To navigate to the [[service-catalog|Service Catalog]] landing page, click **Continue Shopping**.
+9.  To navigate to the Service Catalog landing page, click **Continue Shopping**.
 
 10. To clear all the items from your cart, click **Clear Cart**.
 
@@ -72,7 +72,7 @@ Role required: requester
 
 15. Specify the **Delivery Information** and **Special instructions**.
 
-16. To add one or more attachments for the cart, click the add [[attachment|attachment]] icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: add attachment icon\).
+16. To add one or more attachments for the cart, click the add attachment icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: add attachment icon\).
 
     You can browse and choose the files, drag the files, or copy and paste them in the Add attachments window.
 
@@ -88,9 +88,3 @@ Role required: requester
 
 [Save a draft of a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/save-draft-catalog-item.md)
 
-## Related
-
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]
-- [[attachment|Attachment]]

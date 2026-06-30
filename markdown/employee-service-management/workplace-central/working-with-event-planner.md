@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Working with Event planner
 
-Monitor all the reservations created in your organization from a single workspace. [[create-reservation-request-1|Create a reservation]], open a reservation, schedule a reservation to another time or move to another location. Open the Location directory portal from the [[event-planner|Event planner]] home and the Scheduled view.
+Monitor all the reservations created in your organization from a single workspace. Create a reservation, open a reservation, schedule a reservation to another time or move to another location. Open the Location directory portal from the Event planner home and the Scheduled view.
 
 -   **[Track reservations using the Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-reservation-details-in-the-event-planner.md)**  
 As a reservation planner and a reservation viewer, the Event planner enables you to monitor the reservations that are requested in your workplace.
@@ -52,7 +52,3 @@ Open and view the location directory portal from the Event planner home page and
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[event-planner|Event Planner]]

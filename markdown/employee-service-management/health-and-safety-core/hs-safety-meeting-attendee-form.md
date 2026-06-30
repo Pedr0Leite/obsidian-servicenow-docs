@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 # Health and Safety meeting attendee form
 
-A safety team such as a safety meeting manager can use the [[hs-safety-meeting-form|Health and Safety meeting form]] to add an external attendee or a single internal attendee to a safety meeting.
+A safety team such as a safety meeting manager can use the Health and Safety meeting form to add an external attendee or a single internal attendee to a safety meeting.
 
 For more information, see [Add attendees to a safety meeting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/add-attendees-safety-meeting.md).
 
@@ -48,7 +48,7 @@ Attendee profile
 
 </td><td>
 
-User with the [[health-safety-overview|Health and Safety]] profile in your organization.This field appears only when the **Public attendee** option is not selected.
+User with the Health and Safety profile in your organization.This field appears only when the **Public attendee** option is not selected.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,3 @@ Notes for the meeting attendee.
 
 [Health and Safety meeting form]()
 
-## Related
-
-- [[hs-safety-meeting-form|Health and Safety meeting form]]
-- [[health-safety-overview|Health and Safety]]

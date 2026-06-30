@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Summarize a dispute or claims case with case summarization
 
-Generate a summary from the defined fields on the case record and quickly understand the case context by using the case summarization skill in the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application.
+Generate a summary from the defined fields on the case record and quickly understand the case context by using the case summarization skill in the Now Assist for Financial Services Operations \(FSO\) application.
 
 ## Before you begin
 
@@ -25,12 +25,12 @@ Role required: sn\_bom\_credit\_card.dispute\_agent, sn\_bom\_credit\_card.dispu
 
 ## About this task
 
-The case summarization skill provides you with a concise summary of a banking card dispute or [[insurance-claims-flow|insurance claims]] case. With this skill, you can do the following tasks:
+The case summarization skill provides you with a concise summary of a banking card dispute or insurance claims case. With this skill, you can do the following tasks:
 
 -   Generate an initial summary of a case so that you can understand the case context.
 -   Summarize the actions taken and any resolutions for a case.
 
-The case summarization skill is available in [[fso-overview|Financial Services]] Workspace and in Core UI.
+The case summarization skill is available in Financial Services Workspace and in Core UI.
 
 -   In Financial Services Workspace, use the Case summary by Now Assist component to generate a summary. The component appears in the following areas:
     -   Insurance: Next to the claim details panel in the claim summary page, claim workspace, and claim details page
@@ -121,8 +121,3 @@ If you want to check some details about the summary, select the more info icon \
 </table>
 **Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/using-now-assist-for-financial-services-operations-fso.md)
 
-## Related
-
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

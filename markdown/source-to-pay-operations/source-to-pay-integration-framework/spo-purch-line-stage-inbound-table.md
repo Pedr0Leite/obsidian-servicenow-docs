@@ -54,7 +54,7 @@ String
 
 </td><td>
 
-Acknowledgment type of the purchase line. Applicable only if product type is Service or Handling fee. The values are:-   [[milestones|Milestones]]
+Acknowledgment type of the purchase line. Applicable only if product type is Service or Handling fee. The values are:-   Milestones
 -   Service acknowledgement
 -   Two way match
 
@@ -104,7 +104,7 @@ String
 
 </td><td>
 
-Indicates if the [[purchase-requisition|purchase requisition]] is after the fact or not.
+Indicates if the purchase requisition is after the fact or not.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ String
 
 </td><td>
 
-Indicates who is the awarded [[supplier|supplier]] for the purchase line.
+Indicates who is the awarded supplier for the purchase line.
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ String
 
 </td><td>
 
-[[ledger-account|Ledger account]] to post the capital expenses of this product after the purchase completion.
+Ledger account to post the capital expenses of this product after the purchase completion.
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ String
 
 </td><td>
 
-[[shopping-cart|Shopping cart]] line ID of the purchase line.
+Shopping cart line ID of the purchase line.
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Contract price of the purchase line.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -336,7 +336,7 @@ Internal order number of the purchase line.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -452,7 +452,7 @@ String
 
 </td><td>
 
-Amount included as a cost allocation on the [[purchase-order-table|purchase order]]. This doesn’t include any estimates.
+Amount included as a cost allocation on the purchase order. This doesn’t include any estimates.
 
 </td></tr><tr><td>
 
@@ -564,7 +564,7 @@ General ledger account where purchases of this product are posted when they are 
 
 </td></tr><tr><td>
 
-[[pre-payments|Pre-payments]] required
+Pre-payments required
 
 </td><td>
 
@@ -576,7 +576,7 @@ Option to mark if pre-payments is required for this product.
 
 </td></tr><tr><td>
 
-[[pricing|Pricing]] obtained on
+Pricing obtained on
 
 </td><td>
 
@@ -804,7 +804,7 @@ Brief description about the purchase line.
 
 </td></tr><tr><td>
 
-[[sourcing-request|Sourcing request]]
+Sourcing request
 
 </td><td>
 
@@ -912,7 +912,7 @@ Indicates if a supplier case is created for the supplier or not.
 
 </td></tr><tr><td>
 
-[[supplier-contact|Supplier contact]]
+Supplier contact
 
 </td><td>
 
@@ -1264,17 +1264,3 @@ Zip code of the purchase line.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[milestones|Milestones]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[ledger-account|Ledger account]]
-- [[shopping-cart|Shopping cart]]
-- [[cost-center|Cost center]]
-- [[legal-entity|Legal entity]]
-- [[purchase-order-table|Purchase order]]
-- [[pre-payments|Pre-payments]]
-- [[pricing|Pricing]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier-contact|Supplier contact]]

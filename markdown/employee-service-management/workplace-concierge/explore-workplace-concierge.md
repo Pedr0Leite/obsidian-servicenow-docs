@@ -14,9 +14,9 @@ breadcrumb: [Workplace Concierge, Workplace Service Delivery, Employee Service M
 
 # Explore Workplace Concierge
 
-The [[workplace-concierge-feat|Workplace Concierge]] application is a [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application designed to provide employees with real-time insights to optimize their workplace experience.
+The Workplace Concierge application is a Workplace Service Delivery application designed to provide employees with real-time insights to optimize their workplace experience.
 
-The Workplace Concierge application helps employees plan their on-site presence, improve in-person interactions using team collaboration, and set a routine to indicate the days that they plan to be in the office. The Concierge experience, that is, the Employee Presence module is available in the [[workplace-services-portal-hr|Workplace Service Portal]], [[employee-center-landing-page|Employee Center]], and also on the [[mobile-employee-experience|Now Mobile app]].
+The Workplace Concierge application helps employees plan their on-site presence, improve in-person interactions using team collaboration, and set a routine to indicate the days that they plan to be in the office. The Concierge experience, that is, the Employee Presence module is available in the Workplace Service Portal, Employee Center, and also on the Now Mobile app.
 
 ## Presence dashboard
 
@@ -60,16 +60,7 @@ As an admin using the Employee Presence module in the Workplace Concierge applic
 
 ## Workplace reservation suggestions
 
-Workplace Concierge and [[workplace-safety-mgmt-hr|Workplace Core]] administrators can configure workplace suggestions while suggesting a space to an employee for reservation. For more information, see [Configure workplace space suggestions for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-suggestions.md).
+Workplace Concierge and Workplace Core administrators can configure workplace suggestions while suggesting a space to an employee for reservation. For more information, see [Configure workplace space suggestions for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-suggestions.md).
 
-The employee can set their workplace schedule and in-office preferences in [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]. When suggesting a space to an employee using the Workplace Service Delivery for Mobile, application uses these preferences. For more information see, [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preference-schedule.md).
+The employee can set their workplace schedule and in-office preferences in Workplace Service Delivery for Mobile. When suggesting a space to an employee using the Workplace Service Delivery for Mobile, application uses these preferences. For more information see, [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preference-schedule.md).
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

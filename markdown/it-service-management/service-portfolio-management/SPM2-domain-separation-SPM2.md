@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Portfolio Management, IT Service Management]
 
 # Domain separation and Service Portfolio Management
 
-Domain separation is supported in [[SPM2-landing-page|Service Portfolio Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Service Portfolio Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic\*
 
@@ -37,6 +37,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

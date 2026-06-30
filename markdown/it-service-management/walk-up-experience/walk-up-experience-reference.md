@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Walk-up Experience reference
 
-Explore comprehensive and additional information about the [[walkup-experience-landing-page|Walk-up Experience]] services.
+Explore comprehensive and additional information about the Walk-up Experience services.
 
 The following topics offer additional information on Walk-up Experience, which assists you in customizing the application to address IT-related issues faced by your employees.
 
@@ -22,6 +22,3 @@ The following topics offer additional information on Walk-up Experience, which a
 -   [Quick start tests for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/quick-start-tests-walkup-experience.md)
 -   [Components installed with Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/installed-with-walkup-experience.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

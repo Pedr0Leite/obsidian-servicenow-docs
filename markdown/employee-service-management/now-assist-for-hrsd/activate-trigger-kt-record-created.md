@@ -58,7 +58,7 @@ Role required: admin \[virtual\_agent\_admin\]
 
     The toggle changes to **Trigger is ON**.
 
-11. Set the **Portal** field to **[[employee-center-landing-page|Employee Center]]**.
+11. Set the **Portal** field to **Employee Center**.
 
 12. Select **Save**.
 
@@ -75,6 +75,3 @@ Role required: admin \[virtual\_agent\_admin\]
 
 The following trigger is now active: Knowledge transfer record created. When a knowledge transfer record is generated, the system automatically engages the departing employee through Now Assist in Virtual Agent to review and approve the knowledge transfer content.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -37,7 +37,7 @@ Role required: admin
 8.  Select **Submit**.
 
 
-**Parent Topic:**[[now-support-administration|Now Support administration]]
+**Parent Topic:**[Now Support administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-support-administration.md)
 
 **Related topics**  
 
@@ -46,6 +46,3 @@ Role required: admin
 
 [Manage user access in Now Support]()
 
-## Related
-
-- [[now-support-administration|Now Support administration]]

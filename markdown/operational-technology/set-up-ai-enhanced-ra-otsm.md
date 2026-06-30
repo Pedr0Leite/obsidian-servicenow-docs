@@ -12,7 +12,7 @@ breadcrumb: [Configure, AI Enhanced Recommended Actions for OTSM, Operational Te
 
 # Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) so that you can contextualize external sources related to an [[operational-technology-overview|Operational Technology]] \(OT\) incident.
+Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) so that you can contextualize external sources related to an Operational Technology \(OT\) incident.
 
 ## Before you begin
 
@@ -51,13 +51,7 @@ Role required: admin
 
 ## What to do next
 
-After you set up AI Enhanced Recommended Actions for OTSM, you can use the feature in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. For more information see, [[using-ai-enhanced-ra-otsm|Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]].
+After you set up AI Enhanced Recommended Actions for OTSM, you can use the feature in the Industrial Workspace. For more information see, [Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-ai-enhanced-ra-otsm.md).
 
-**Parent Topic:**[[configure-ai-enhanced-ra-otsm|Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configure-ai-enhanced-ra-otsm.md)
 
-## Related
-
-- [[using-ai-enhanced-ra-otsm|Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[configure-ai-enhanced-ra-otsm|Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

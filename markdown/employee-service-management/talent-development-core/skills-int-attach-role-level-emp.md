@@ -18,10 +18,10 @@ Mapping a role level to the employee is a critical step that links the job archi
 
 ## About this task
 
-The standard method to assign a role level is to create a [[proactive-prompts-for-hrsd|Proactive Prompts]] configuration that is triggered when the job architecture tables are loaded and checks whether employees have one or more relevant role levels based on employee profiles and job profiles.
+The standard method to assign a role level is to create a Proactive Prompts configuration that is triggered when the job architecture tables are loaded and checks whether employees have one or more relevant role levels based on employee profiles and job profiles.
 
 -   If an employee has more than one role level, a prompt with a list of relevant roles is sent to the employee. The employee selects suitable role levels from the list that are then added to the employee's profile.
--   If an employee has a single relevant role, a scheduled job triggered in set intervals that checks for employees who do not have a primary role assigned automatically attaches the primary role to the [[emp-slate-employee-profile|employee profile]].
+-   If an employee has a single relevant role, a scheduled job triggered in set intervals that checks for employees who do not have a primary role assigned automatically attaches the primary role to the employee profile.
 
 This procedure describes how to run this scheduled job on demand.
 
@@ -42,7 +42,3 @@ Role required: sn\_skills\_int.job\_arch\_admin, sn\_skills\_int.admin
 
 The primary role of employees with a single role level are updated automatically in their profiles.
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[emp-slate-employee-profile|Employee profile]]

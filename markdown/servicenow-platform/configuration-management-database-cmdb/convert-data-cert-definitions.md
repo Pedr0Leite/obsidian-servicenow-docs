@@ -14,7 +14,7 @@ breadcrumb: [Data Certification, CMDB data management, Configuration Management 
 
 # Convert legacy certification schedules into Data Manager certification policies in CMDB Workspaceor in Service Graph Workspace
 
-Convert certification schedules created in the legacy [[c_DataCertification|Data Certification]] application \(running on Core UI\), into draft Data Manager certification policies available in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]].
+Convert certification schedules created in the legacy Data Certification application \(running on Core UI\), into draft Data Manager certification policies available in CMDB Workspaceor in Service Graph Workspace.
 
 ## Before you begin
 
@@ -64,7 +64,3 @@ Important things to know:
 -   The legacy certification schedules are deactivated.
 -   The legacy certification tasks are unchanged and you can review and resolve them as needed.
 
-## Related
-
-- [[c_DataCertification|Data Certification]]
-- [[sg-workspace|Service Graph Workspace]]

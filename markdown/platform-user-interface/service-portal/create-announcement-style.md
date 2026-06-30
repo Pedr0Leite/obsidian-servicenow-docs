@@ -22,11 +22,11 @@ Role required: admin, sp\_admin, or announcement\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Announcements**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Announcements**.
 
 2.  Open an existing announcement or create a new announcement.
 
-3.  In the **Display style** field, click the [[onboarding-modals-reference|reference]] lookup icon to open the referenced table.
+3.  In the **Display style** field, click the reference lookup icon to open the referenced table.
 
     The Announcement Styles \[announcement\_style\] list view opens.
 
@@ -90,7 +90,7 @@ Text alignment. Options include:-   Left align
 
 ## Result
 
-By default, the announcement appears in both the portal banner and the [[announcements-widget|Announcements widget]], but only the banner uses your new display style. You can [[configure-onboarding-modals|configure]] the widget to use the display style also. For more information, see the instance options in [Announcements widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/announcements-widget.md).
+By default, the announcement appears in both the portal banner and the Announcements widget, but only the banner uses your new display style. You can configure the widget to use the display style also. For more information, see the instance options in [Announcements widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/announcements-widget.md).
 
 **Parent Topic:**[Posting announcements to portal users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/announcements.md)
 
@@ -101,9 +101,3 @@ By default, the announcement appears in both the portal banner and the [[announc
 
 [Create an announcement type]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]
-- [[announcements-widget|Announcements widget]]
-- [[configure-onboarding-modals|Configure]]

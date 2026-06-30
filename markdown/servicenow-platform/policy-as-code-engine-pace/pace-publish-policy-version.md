@@ -40,7 +40,7 @@ Role required: sn\_pace.code\_editor
 
     \[Omitted image "pace-activate-publish-2.jpg"\] Alt text: Activate and publish draft.
 
-5.  Select the **Activate this policy** [[check-box|check box]] to activate the policy when it is published.
+5.  Select the **Activate this policy** check box to activate the policy when it is published.
 
 6.  In the displayed confirmation message, click **Publish**.
 
@@ -48,6 +48,4 @@ Role required: sn\_pace.code\_editor
 
     **Note:** If the policy has an existing mapping to document IDs, when you publish a new version it verifies that all mandatory inputs for mapping inputs are provided. If you changed a mapping input, it must be updated. If you changed a caller input, you must update the PaCE API call to ensure that the policy is executed. If there is no mapping associated with the policy, or the policy is in an Inactive state, the mapping inputs are not verified.
 
-## Related
 
-- [[check-box|Check box]]

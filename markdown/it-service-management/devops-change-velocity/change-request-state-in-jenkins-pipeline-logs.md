@@ -55,7 +55,7 @@ The following change request details are displayed:
 
 \[Omitted image "jenkins-change-state.png"\] Alt text: Change state logs in Jenkins pipeline console
 
-The logs for policy conditions will be displayed for the base system [[change-flows|change flows]] as follows:
+The logs for policy conditions will be displayed for the base system change flows as follows:
 
 -   DevOps Model Change Policy: Only logs will be displayed on change creation and when the change state is updated.
 -   DevOps Change Request Minimal Automation Policy: Logs along with change decision and policy conditions corresponding to the change decision will be displayed.
@@ -99,6 +99,3 @@ If a change request does not get created due to any issue, then the reason for t
 
 **Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)
 
-## Related
-
-- [[change-flows|Change flows]]

@@ -22,8 +22,8 @@ In new and upgraded instances, the Index Suggestion Engine plugin \(com.glide.in
 
 Administrators use the ISE to:
 
--   [[generate-index-suggestion|Generate an index suggestion for a slow query]].
--   [[review-index-suggestions|Review index suggestions]] for slow queries in your instance.
+-   Generate an index suggestion for a slow query.
+-   Review index suggestions for slow queries in your instance.
 -   Export an index suggestion to a non-production instance for evaluation and testing.
 -   Schedule an index for creation.
 -   Monitor the effectiveness of an index during the index evaluation period.
@@ -236,7 +236,3 @@ A recent index suggestion replaced the index for the same table and slow query.
 </td></tr></tbody>
 </table>**Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[generate-index-suggestion|Generate an index suggestion for a slow query]]
-- [[review-index-suggestions|review index suggestions]]

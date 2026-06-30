@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Configure Password Reset properties
 
-You can specify properties that configure the [[password-reset-landing-page|Password Reset]] experience for end users.
+You can specify properties that configure the Password Reset experience for end users.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ For example, you would not want to allow 100 attempts for users to verify their 
 
 [Enable users to enroll for Password Reset]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
@@ -60,7 +60,3 @@ For example, you would not want to allow 100 attempts for users to verify their 
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]

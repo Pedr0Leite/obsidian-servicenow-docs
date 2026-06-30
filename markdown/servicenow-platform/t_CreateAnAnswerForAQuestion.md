@@ -31,34 +31,24 @@ When you create a question with one of these data types, the Assessment Metric D
 3.  Set the order in which the answers appear in the quiz by providing a hierarchical number in the **Value** field.
 
 
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
 [Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[t_SetUpACategory|Set up a category]]
+[Set up a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpACategory.md)
 
-[[t_SelectAUserForACategory|Select a user for a category]]
+[Select a user for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectAUserForACategory.md)
 
-[[r_AvailableDataTypes|Data types for quizzes]]
+[Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md)
 
-[[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
+[Change the order of an answer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 
-[[t_DistributeAQuiz|Distribute a quiz]]
+[Distribute a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DistributeAQuiz.md)
 
-[[t_ModifyAPublishedQuiz|Modify a published quiz]]
+[Modify a published quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 
-## Related
-
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_SetUpACategory|Set up a category]]
-- [[t_SelectAUserForACategory|Select a user for a category]]
-- [[r_AvailableDataTypes|Data types for quizzes]]
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[t_DistributeAQuiz|Distribute a quiz]]
-- [[t_ModifyAPublishedQuiz|Modify a published quiz]]

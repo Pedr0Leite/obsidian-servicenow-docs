@@ -26,7 +26,7 @@ For more information about the terms that are used in these sections or why you 
 
 The following infographic shows the due diligence request process.
 
-\[Omitted image "mmasset0020740-request-process-square.png"\] Alt text: Infographic that shows the due diligence request process in the [[tprm-workflow-in-workspace|due diligence workflow]]. For the text description, refer to the process steps that follow.
+\[Omitted image "mmasset0020740-request-process-square.png"\] Alt text: Infographic that shows the due diligence request process in the due diligence workflow. For the text description, refer to the process steps that follow.
 
 The following are the steps of the due diligence request process.
 
@@ -61,6 +61,3 @@ The following example shows how a new due diligence request appears.
 
 For more information on the different processes that make up the overall due diligence workflow, see [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md) and [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md).
 
-## Related
-
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

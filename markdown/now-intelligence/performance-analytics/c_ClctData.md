@@ -23,7 +23,7 @@ For ongoing data collection, choose one of the following methods to collect indi
 -   If you need to measure an indicator once a month, quarter, or year, enter scores manually or import scores.
 -   If you need to measure indicators more frequently, or you want to eliminate any human involvement, use a scheduled data collection job.
 
-**Note:** [[pa-snapshots|Performance Analytics snapshots]] are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for [[automated-indicators|automated indicators]] with **Collect records** selected.
+**Note:** Performance Analytics snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected.
 
 Performance Analytics data collection jobs do not collect scores older than specified in the property **com.snc.pa.dc.keep\_snapshots\_for**. Scores or snapshots older than this value are not collected during data collection.
 
@@ -36,12 +36,7 @@ Increase the efficiency of data collection by configuring job indicators to coll
 -   **[Cancel a data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/cancel-pa-dc-job.md)**  
 Cancel an active data collection job to stop the job from collecting scores.
 -   **[Add or edit indicator scores manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ManuallyAddingScoresForIndicators.md)**  
-You can manually enter score data for automated and [[t_CreateAManualIndicator|manual indicators]]. Exercise care when editing scores for automated indicators.
+You can manually enter score data for automated and manual indicators. Exercise care when editing scores for automated indicators.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
-## Related
-
-- [[pa-snapshots|Performance Analytics snapshots]]
-- [[automated-indicators|Automated indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]

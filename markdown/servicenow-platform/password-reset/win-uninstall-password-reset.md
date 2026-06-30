@@ -26,7 +26,7 @@ Role required: Windows Local Administrator
 
 <table id="choicetable_or2_xw4_tx"><tbody><tr><td id="d378268e55">
 
-**[[win-install-pwr-exe|Use an EXE file from the command line]]**
+**Use an EXE file from the command line**
 
 </td><td>
 
@@ -41,7 +41,7 @@ C:\Program Files\ServiceNow\uninstall\
 
 </td></tr><tr><td id="d378268e78">
 
-**[[win-install-pwr-msi|Use an MSI file from the command line]]**
+**Use an MSI file from the command line**
 
 </td><td>
 
@@ -56,7 +56,3 @@ msiexec.exe /x PasswordResetWinAppInstall.msi /quiet
 </table>
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-install-pwr-exe|Use an EXE file from the command line]]
-- [[win-install-pwr-msi|Use an MSI file from the command line]]

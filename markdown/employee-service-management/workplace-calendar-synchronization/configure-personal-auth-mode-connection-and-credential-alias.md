@@ -18,7 +18,7 @@ Establish a personal authentication mode connection and credential alias for Mic
 
 ## Before you begin
 
-Confirm that the application scope is set to **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]**.
+Confirm that the application scope is set to **Workplace Calendar Synchronization**.
 
 Role required: admin
 
@@ -92,6 +92,3 @@ The Connection and credential alias is set.
 
 [Configure the Microsoft Exchange Online calendar provider in personal authentication mode]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

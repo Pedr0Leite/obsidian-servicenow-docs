@@ -34,7 +34,7 @@ Project Portfolio Suite\[com.snc.project\_portfolio\_suite\]
 
 </td><td>
 
-Activates an integrated set of applications for [[c_ProjectPortfolioSuite|project portfolio management]] and IT software development.
+Activates an integrated set of applications for project portfolio management and IT software development.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Ideation with PPM\[com.snc.ppm\_innovation\_management\]
 
 </td><td>
 
-Enables your organization to collect new ideas, [[collaborate-on-an-idea|collaborate on ideas]], and identify great ideas for implementation. Convert selected ideas to demands, stories, projects, and epics.
+Enables your organization to collect new ideas, collaborate on ideas, and identify great ideas for implementation. Convert selected ideas to demands, stories, projects, and epics.
 
 </td></tr></tbody>
 </table>## Project Portfolio Suite plugins
@@ -75,7 +75,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_DemandManagement|Demand Management]]\[com.snc.demand\_management\]
+Demand Management\[com.snc.demand\_management\]
 
 </td><td>
 
@@ -83,7 +83,7 @@ Enables capturing the demands and provide tools to screen, assess and prioritize
 
 </td></tr><tr><td>
 
-[[c_ProjectApplicationOverview|Project Management]]\[com.snc.project\_management\_v3\]
+Project Management\[com.snc.project\_management\_v3\]
 
 </td><td>
 
@@ -157,7 +157,7 @@ Checklists for tasks.
 
 </td></tr><tr><td>
 
-[[r_CostManagement|Cost Management]] \[com.snc.cost\_management\]
+Cost Management \[com.snc.cost\_management\]
 
 </td><td>
 
@@ -189,7 +189,7 @@ Enables graphical representation of activities over time.
 
 </td></tr><tr><td>
 
-[[time-card-management|Time card management]] \[com.snc.time\_card\]
+Time card management \[com.snc.time\_card\]
 
 </td><td>
 
@@ -227,11 +227,3 @@ Displays the different stages in a linear process flow across the top of a recor
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Project Portfolio Management \(PPM\) Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/r_InstalledWithProjectPortfolioSuiteWithFinancials.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[collaborate-on-an-idea|Collaborate on ideas]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[r_CostManagement|Cost Management]]
-- [[time-card-management|Time Card Management]]

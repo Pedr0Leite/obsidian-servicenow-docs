@@ -15,13 +15,13 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Discovery for Google Cloud Platform
 
-[[r-discovery|Discovery]] finds Google Cloud Platform and its components. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+Discovery finds Google Cloud Platform and its components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/06a71b1367e4130051c9027e2685ef1e/1.6.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DPatterns&sl=sh) to view all the available updates and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-Data discovered for the Google Cloud Platform components offers visibility for multiple ServiceNow products, including [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+Data discovered for the Google Cloud Platform components offers visibility for multiple ServiceNow products, including Cloud Provisioning and Governance.
 
 Discovery uses multiple patterns to find GCP components.
 
@@ -46,7 +46,7 @@ You can discover global and regional resources.
 -   **Verify the MID Server requirements**
     -   Use a dedicated MID Server for cloud discovery. The MID Server must have 16 Cores, 8 GB with 4 GB Java Virtual Machine \(JVM\) memory allocation. For information on verifying MID Server specifications, see KB article [KB2156327](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2156327).
     -   Deploy and connect the dedicated MID Server with internet access.
-    -   For more information on the MID Server configurations, see [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]].
+    -   For more information on the MID Server configurations, see [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 -   **Verify Google Cloud BigQuery and Google Cloud Bigtable requirements**
 
     To discover Google Cloud BigQuery and Google Cloud Bigtable, navigate to **All** &gt; **Discovery** &gt; **MID Server** &gt; **Properties** and ensure that the **sn\_itom\_pattern.google\_dbservice\_table\_collection** property is set to **True**.
@@ -61,11 +61,11 @@ You can discover global and regional resources.
     4.  Click **Save**.
 -   **Configure Google API Credentials**
 
-    For more information, see [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]].
+    For more information, see [Configure the Google API credentials for Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-create-google-api-credentials.md).
 
 -   **Create a Google Cloud Platform service account**
 
-    For more information, see [[create-gcp-service-accounts|Create GCP service accounts]].
+    For more information, see [Create GCP service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-gcp-service-accounts.md).
 
 -   **Enable collecting cloud logging events**
 
@@ -100,15 +100,6 @@ Service Mapping uses tag-based discovery to create service instance maps includi
 ## Useful information
 
 -   [GCP discovery solutions comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/gcp-discovery-methods.md)
--   [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
+-   [Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md)
 -   [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]
-- [[create-gcp-service-accounts|Create GCP service accounts]]
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

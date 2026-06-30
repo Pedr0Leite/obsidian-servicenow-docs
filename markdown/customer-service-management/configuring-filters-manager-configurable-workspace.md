@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Configure filters for Manager Workspace
 
-Configure filters for scheduling and coaching applications and use the default filter for channel management to [[refine-search-results|refine your search results]].
+Configure filters for scheduling and coaching applications and use the default filter for channel management to refine your search results.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ View and analyze data in scheduling and coaching applications based on the filte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configurable-wfo-cs|Workforce Optimization for Customer Service]]** &gt; **Manager Workspace Configuration** &gt; **Filter Configurations**.
+1.  Navigate to **All** &gt; **Workforce Optimization for Customer Service** &gt; **Manager Workspace Configuration** &gt; **Filter Configurations**.
 
 2.  Select **New**.
 
@@ -54,7 +54,7 @@ Table
 
 Table for which the filter is configured. **Note:** You can filter only on specific tables or database views for each module.
 
-Refer to Filter Configuration Tables in [[components-installed-configurable-wfo-cs|Manager Workspace]] for a list of tables and database views you can use for each application.
+Refer to Filter Configuration Tables in [Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) for a list of tables and database views you can use for each application.
 
 </td></tr><tr><td>
 
@@ -118,11 +118,5 @@ Metadata defined seismic component.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[refine-search-results|Refine your search results]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

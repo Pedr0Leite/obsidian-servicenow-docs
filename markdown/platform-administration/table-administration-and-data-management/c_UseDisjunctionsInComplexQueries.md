@@ -80,7 +80,7 @@ P1 OR \(P2 AND Closed\)
 ALL P1 incidents + only closed P2
 
 </td></tr></tbody>
-</table>Always use parentheses around OR conditions when combining them with AND conditions. This ensures your query returns the expected [[hs-results|results]].
+</table>Always use parentheses around OR conditions when combining them with AND conditions. This ensures your query returns the expected results.
 
 **Parent Topic:**[Working with database views for reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DatabaseViews.md)
 
@@ -93,6 +93,3 @@ ALL P1 incidents + only closed P2
 
 [Database views in the base system]()
 
-## Related
-
-- [[hs-results|Results]]

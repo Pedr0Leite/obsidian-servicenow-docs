@@ -69,7 +69,7 @@ Closing an incident from **Actions** list adds the same close note to all the in
         <?xml version="1.0" encoding="utf-8" ?>
         <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
             <style>
-                #content_row .[[reference-for-itsm-mobile-agent|reference]]-label {
+                #content_row .reference-label {
                     padding-right: 15px;
                 }
         
@@ -202,6 +202,3 @@ Service desk agents can close multiple incidents using **Close incidents** in th
 
 **Parent Topic:**[Incident resolution and closure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentResolutionAndRecovery.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

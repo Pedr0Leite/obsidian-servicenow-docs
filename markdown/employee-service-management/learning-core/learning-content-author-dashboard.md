@@ -16,13 +16,9 @@ breadcrumb: [Reporting solutions for Learning, Learning, Growth Experiences, HR 
 
 Learning content author overview dashboard provides a detailed report of user activities to the content author.
 
-[[exploring-learning-exp|Learning]] content author dashboard is also shared with the Learning admin.
+Learning content author dashboard is also shared with the Learning admin.
 
-\[Omitted image "learning-catalog-overview.png"\] Alt text: [[learning-catalog-overview|Learning catalog overview]]
+\[Omitted image "learning-catalog-overview.png"\] Alt text: Learning catalog overview
 
 **Parent Topic:**[Reporting solutions for Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/reporting-solutions-learning.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-catalog-overview|Learning catalog overview]]

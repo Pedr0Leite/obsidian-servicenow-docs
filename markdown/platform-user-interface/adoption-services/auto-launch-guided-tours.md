@@ -14,13 +14,13 @@ breadcrumb: [Configure Guided Tours, Guided Tours, Adoption services, Configure 
 
 # Configure auto-launch for Guided Tours
 
-[[configure-onboarding-modals|Configure]] one or more tours to launch automatically when a user lands on a page.
+Configure one or more tours to launch automatically when a user lands on a page.
 
 ## Before you begin
 
 Role required: guided\_tour\_admin and embedded\_help\_admin
 
-**Note:** [[guided-tours|Guided tours]] are only available for logged-in users.
+**Note:** Guided tours are only available for logged-in users.
 
 ## About this task
 
@@ -28,7 +28,7 @@ You can set auto-launch for any guided tour starting page. Select this option if
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[guided-tours-designer|Guided Tour Designer]]** &gt; **Configure Auto Launch**.
+1.  Navigate to **All** &gt; **Guided Tour Designer** &gt; **Configure Auto Launch**.
 
     The Configure Auto Launch page shows tiles for each page that has one or more configured tours. You can filter the tiles by part of or the entire page name, and sort them by name or by the most recently edited tours.
 
@@ -89,8 +89,3 @@ You can set auto-launch for any guided tour starting page. Select this option if
 
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[guided-tours|Guided Tours]]
-- [[guided-tours-designer|Guided Tour Designer]]

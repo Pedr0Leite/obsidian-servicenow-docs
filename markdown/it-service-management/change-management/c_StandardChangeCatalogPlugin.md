@@ -14,7 +14,7 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Standard change catalog
 
-Standard changes are pre-approved, low risk changes with a proven history of success. The standard change catalog contains the changes that have been approved by the [[c_ITILChangeManagement|Change Management]] application as standard changes.
+Standard changes are pre-approved, low risk changes with a proven history of success. The standard change catalog contains the changes that have been approved by the Change Management application as standard changes.
 
 Users with the ITIL role can view the list of available standard changes and submit change requests.
 
@@ -24,7 +24,7 @@ Standard changes are logically grouped under specific categories. The Change Man
 
 The standard change catalog enables you to perform the following activities:
 
--   Request, review, and approve standard [[change-templates|change templates]].
+-   Request, review, and approve standard change templates.
 -   Request preapproved standard changes.
 -   Determine access to standard change templates at the user level.
 
@@ -45,7 +45,7 @@ Standard change templates are logically grouped under specific categories. These
 -   **[Configure standard change catalog properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md)**  
 Configure the standard change catalog through the standard change properties.
 -   **[Create a standard change task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-standard-change-task-template.md)**  
-You can [[create-a-change-task|create a change task]] template to add to a standard change proposal. If the standard change proposal is approved, the related [[change-tasks|change tasks]] are created when the standard change request is created.
+You can create a change task template to add to a standard change proposal. If the standard change proposal is approved, the related change tasks are created when the standard change request is created.
 -   **[Attach files to a standard change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/attach-files-change-templates.md)**  
 Attach files, such as documents, spreadsheet, and images to a standard change proposal. Standard change templates copy any file attached to the template to a change request that the template creates.
 -   **[Modify or retire a standard change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-standard-change-template.md)**  
@@ -53,9 +53,3 @@ You can modify and retire standard change templates based on your organization's
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-templates|Change templates]]
-- [[create-a-change-task|Create a change task]]
-- [[change-tasks|Change tasks]]

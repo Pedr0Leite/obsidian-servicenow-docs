@@ -16,15 +16,10 @@ breadcrumb: [ShoppingHub configuration, Setting up primary data Shopping, Config
 
 As an admin, you can configure the conditions that must be met for the purchase modification records to be available to the shopper for editing or canceling.
 
-The **Appearance conditions** condition builder for each purchase modification record allows you to define these conditions based on your requirements and business needs. You can add conditions pertaining to credit purchase, [[purchase-requisition|purchase requisition]] or [[purchase-order-table|purchase order]] states, purchase requisition line or purchase order line states, product type, and much more.
+The **Appearance conditions** condition builder for each purchase modification record allows you to define these conditions based on your requirements and business needs. You can add conditions pertaining to credit purchase, purchase requisition or purchase order states, purchase requisition line or purchase order line states, product type, and much more.
 
 -   **[Configure purchase modification record producers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-purchase-modification.md)**  
-Configure the conditions to make the purchase modification records available for the shopper to edit or cancel. You can leverage the condition builder to set specific conditions from the [[shoppinghub-configurations|ShoppingHub Configuration]] table.
+Configure the conditions to make the purchase modification records available for the shopper to edit or cancel. You can leverage the condition builder to set specific conditions from the ShoppingHub Configuration table.
 
 **Parent Topic:**[ShoppingHub configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-configurations.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]

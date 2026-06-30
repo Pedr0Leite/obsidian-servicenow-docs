@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Connect** &gt; **Support Administration** &gt; **Queues**.
 
-2.  Click **New** or open the default **[[ur-landing-limitedaccess|Universal Request]] Chat queue**.
+2.  Click **New** or open the default **Universal Request Chat queue**.
 
 3.  On the form, update or fill in the details.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Chat queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-chat-queues.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

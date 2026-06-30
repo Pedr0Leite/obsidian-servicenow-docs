@@ -28,7 +28,7 @@ The ServiceNow® Microsoft Outlook Add-In for Legal Service Delivery enables you
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:[[lsd-outlook-addin-use|Use Microsoft Outlook Add-In for Legal Service Delivery]] to submit legal requests and matters from within Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
+[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Use Microsoft Outlook Add-In for Legal Service Delivery to submit legal requests and matters from within Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 
 </td><td>
 
@@ -41,6 +41,3 @@ The ServiceNow® Microsoft Outlook Add-In for Legal Service Delivery enables you
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[lsd-outlook-addin-use|Use Microsoft Outlook Add-In for Legal Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Collect data from your system devices, ACC deployment - shared betw
 
 # View the Agent feature matrix
 
-The [[acc-landing-page|Agent Client Collector]] Agent feature matrix displays the availability of Agent Client Collector features. The matrix displays data in a graph and a table.
+The Agent Client Collector Agent feature matrix displays the availability of Agent Client Collector features. The matrix displays data in a graph and a table.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The Agent feature matrix displays the granularity of Agent Client Collector feat
     -   Sections indicating the support status of the feature, and the various instance requirements of the feature. The **Action Items** field displays the actions you need to take to fully support a feature that is either partially supported or unsupported.
     -   Instance requirements and agent framework version requirements that have been met by the agent feature.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

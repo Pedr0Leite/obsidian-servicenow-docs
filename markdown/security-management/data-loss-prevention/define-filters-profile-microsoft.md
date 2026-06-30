@@ -36,7 +36,7 @@ This type of filtering helps you to isolate Microsoft DLP  events to limit the
 
     The options in the first field in the **Filter Conditions** match the fields that are available in the Microsoft DLP event. The criteria that you enter are case-sensitive. Verify that the criteria you define match the values of the event.
 
-    \[Omitted image "filtering-microsoftdlp.gif"\] Alt text: [[define-filters-for-incidents|Define filters to apply for the Incident creation]].
+    \[Omitted image "filtering-microsoftdlp.gif"\] Alt text: Define filters to apply for the Incident creation.
 
 3.  Add more conditions by clicking  **AND**  or  **OR**.
 
@@ -49,6 +49,3 @@ This type of filtering helps you to isolate Microsoft DLP  events to limit the
 
 **Parent Topic:**[Create a new incident profile for Microsoft DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-microsoft-dlp-integration.md)
 
-## Related
-
-- [[define-filters-for-incidents|Define filters to apply for the Incident creation]]

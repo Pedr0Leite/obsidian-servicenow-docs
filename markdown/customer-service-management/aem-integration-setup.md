@@ -18,7 +18,7 @@ You have to set up your ServiceNow services and components to integrate with you
 
 You can define the following types of configuration settings for ServiceNow services in AEM:
 
--   Authentication settings with a third-party OIDC provider \(see [[aem-setup-servicenow-authentication|Configure OIDC provider details in Adobe Experience Manager]]\).
+-   Authentication settings with a third-party OIDC provider \(see [Configure OIDC provider details in Adobe Experience Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-setup-servicenow-authentication.md)\).
 -   Specific settings for ServiceNow services \(see [Define OSGi configuration settings for ServiceNow services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md)\).
 -   Log file settings for ServiceNow services \(see [Configure log file settings for ServiceNow services in Adobe Experience Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md)\).
 
@@ -28,7 +28,7 @@ To use the Knowledge API endpoint on your AEM instance, you have to define the c
 
 ## Define OSGi configuration settings for ServiceNow services
 
-Define OSGi configuration settings for ServiceNow services used by [[servicenow-web-components-overview|ServiceNow components]] in Adobe Experience Manager \(AEM\).
+Define OSGi configuration settings for ServiceNow services used by ServiceNow components in Adobe Experience Manager \(AEM\).
 
 ### Before you begin
 
@@ -119,7 +119,7 @@ Ensure that you have configured the API for which you are defining the CORS rule
 
 -   Activate the Knowledge API plugin \(sn\_km\_api\) to use the Knowledge Management REST API endpoints for knowledge articles. For more information, see [Knowledge Management REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/knowledge-api.md).
 -   Activate the Customer Service plugin \(com.sn\_customerservice\) to use the Case API endpoints for customer service cases. For more information, see [Case API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/case-api.md).
--   Configure the **glide.rest.attachment\_csm\_api.allowed\_tables** system property and include the Case \[sn\_customerservice\_case\] table to use the CSM Attachment API end [[gamification-components-points|points]] for case attachments. For more information, see [CSM Attachment API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/attachment_csm-api.md).
+-   Configure the **glide.rest.attachment\_csm\_api.allowed\_tables** system property and include the Case \[sn\_customerservice\_case\] table to use the CSM Attachment API end points for case attachments. For more information, see [CSM Attachment API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/attachment_csm-api.md).
 
 Role required: web\_service\_admin
 
@@ -127,7 +127,7 @@ Role required: web\_service\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **CORS [[gamification-components-rules|Rules]]**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **CORS Rules**.
 
 2.  Click **New**.
 
@@ -186,9 +186,4 @@ Number of seconds to cache the client session.
 
 6.  Click **Submit**.
 
-## Related
 
-- [[aem-setup-servicenow-authentication|Configuring authentication settings for ServiceNow services and components in AEM]]
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[gamification-components-points|Points]]
-- [[gamification-components-rules|Rules]]

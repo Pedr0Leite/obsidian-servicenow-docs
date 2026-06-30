@@ -14,7 +14,7 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Potential Relationships
 
-The application uses [[automated-correlation-rules|automated correlation]] to establish potentially possible [[stix-relationships|relationships]] between two SDOs, two [[c_Observables|Observables]] or an observable and SDO.
+The application uses automated correlation to establish potentially possible relationships between two SDOs, two Observables or an observable and SDO.
 
 1.  Select one or more potentially related records and apply this action on the UI, which will further change the records to the confirmed relationships and visible in Related records section.
 2.  Any confirmed correlations ingested or manually created by an analyst will override the potential relationships created by auto correlation.
@@ -51,8 +51,3 @@ Define the potential relationships between the objects.
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[automated-correlation-rules|Automated Correlation]]
-- [[stix-relationships|Relationships]]
-- [[c_Observables|Observables]]

@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center, Security Operations]
 
 # Explore
 
-[[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) enables you to collaborate with [[threat-intel-landing-page|threat intelligence]] teams by collecting, processing, and analyzing [[threat-intelligence-feeds|threat intelligence feeds]] in a centralized workspace.
+Threat Intelligence Security Center \(TISC\) enables you to collaborate with threat intelligence teams by collecting, processing, and analyzing threat intelligence feeds in a centralized workspace.
 
 TISC manages data collection and processing, including deduplication, normalization, and aggregation. It analyzes and disseminates threat intelligence and provides an administration workspace Threat Intelligence Security Center.
 
@@ -32,19 +32,19 @@ Threat Intelligence Security Center \(TISC\) key features:
 -   **Premium Feed Integration**: Enhances the quality of threat intelligence by integrating premium feeds.
 -   **Automated Observable Extraction**: Automatically identifies and extracts the commonly used observable types from uploaded files, streamlining the threat data ingestion process.
 -   **Diverse Data Aggregation**: Supports multiple data formats including STIX, MISP, JSON, and others, enabling seamless feed consolidation.
--   **Enrichment Capabilities &amp; Validation**: Provides enrichment and validation capabilities by removing false positives, assigning confidence scores, validating [[indicator|indicators]], and adding contextual information.
+-   **Enrichment Capabilities &amp; Validation**: Provides enrichment and validation capabilities by removing false positives, assigning confidence scores, validating indicators, and adding contextual information.
 
-**[[integration-capabilities|Integration capabilities]]:**
+**Integration capabilities:**
 
--   Enrich [[c_Observables|observables]] with threat intelligence using [[tisc-threat-lookup|Threat Lookup]], Sighting Search, and [[tisc-observable-enrichment|Observable Enrichment]] to assess whether an observable is malicious.
+-   Enrich observables with threat intelligence using Threat Lookup, Sighting Search, and Observable Enrichment to assess whether an observable is malicious.
 -   CrowdStrike Falcon EDR: Supports continuous monitoring and real time alerting.
--   Security [[tools|tools]] integrations: Orchestrates security tools including SIEMs, EDRs, and firewalls.
--   Correlation Rules Engine: Automatically establishes [[stix-relationships|relationships]] between intelligence records, enabling deeper insight into threat patterns.
+-   Security tools integrations: Orchestrates security tools including SIEMs, EDRs, and firewalls.
+-   Correlation Rules Engine: Automatically establishes relationships between intelligence records, enabling deeper insight into threat patterns.
 
 **Threat Intelligence Analysis and operations:**
 
 -   Customizable Threat Scoring: Enables fine-tuning of threat scores for more nuanced and accurate threat assessment.
--   Internal Intelligence integration: Enables integration of internal intelligence sources, including [[vuln-landing-page|Vulnerability Response]] \(VR\), [[sir-landing-page|Security Incident Response]] \(SIR\), and Configuration Management Database \(CMDB\).
+-   Internal Intelligence integration: Enables integration of internal intelligence sources, including Vulnerability Response \(VR\), Security Incident Response \(SIR\), and Configuration Management Database \(CMDB\).
 -   User-Specific Dashboards: Tailors visualizations and data views according to Threat Intelligence personas, improving user experience and relevance.
 -   Graphical Visualization Tools: Provides intuitive graphical visualizations such as relationship graphs and interactive investigation canvases to simplify analysis of complex threat intelligence data.
 -   Dedicated Analyst Workspace: Provides a dedicated, streamlined Threat Intelligence Analyst workspace that enables threat intelligence analysts to focus on investigation and analysis.
@@ -77,7 +77,7 @@ Administrator
 
 </td><td>
 
-Administers and configures the initial setup and ongoing maintenance of the Threat Intelligence Security Center, including configuring [[data-sources|data sources]] and managing settings.
+Administers and configures the initial setup and ongoing maintenance of the Threat Intelligence Security Center, including configuring data sources and managing settings.
 
 </td><td>
 
@@ -162,7 +162,7 @@ Integrations
 
 </td><td>
 
-[[tisc-integrations|TISC integrations]] module centrally manages and configures all Threat Intelligence feed sources and enrichment integrations from a single [[location|location]], enabling automated and scheduled ingestion of Threat Intelligence data.
+TISC integrations module centrally manages and configures all Threat Intelligence feed sources and enrichment integrations from a single location, enabling automated and scheduled ingestion of Threat Intelligence data.
 
 </td><td>
 
@@ -214,11 +214,11 @@ Imports/Exports
 
 </td></tr><tr><td>
 
-[[threat-analyst-workbench|Threat Analyst Workbench]]
+Threat Analyst Workbench
 
 </td><td>
 
-Manage end-to-end threat investigations from a single workspace to create and track cases and case tasks. Collect internal intelligence records such as observables, [[threat-actors|threat actors]], and [[threat-intelligence-campaigns|campaigns]], and visualize complex relationships using the Investigation Canvas.Accelerate analysis by adding artifacts, running enrichment actions, generating investigation and executive summary reports, and creating security incidents directly from cases.
+Manage end-to-end threat investigations from a single workspace to create and track cases and case tasks. Collect internal intelligence records such as observables, threat actors, and campaigns, and visualize complex relationships using the Investigation Canvas.Accelerate analysis by adding artifacts, running enrichment actions, generating investigation and executive summary reports, and creating security incidents directly from cases.
 
 </td><td>
 
@@ -265,23 +265,3 @@ View a centralized dashboard of threat intelligence data including feeds overvie
 
 [Set up Threat Intelligence Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/set-up-threat-intelligence-security-center.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[indicator|Indicators]]
-- [[integration-capabilities|Integration capabilities]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tools|Tools]]
-- [[stix-relationships|Relationships]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[sir-landing-page|Security Incident Response]]
-- [[data-sources|Data Sources]]
-- [[tisc-integrations|TISC Integrations]]
-- [[location|Location]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-campaigns|Campaigns]]

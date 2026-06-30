@@ -37,8 +37,6 @@ Role required: wm\_agent
     -   Tap the **Details** tab to view the install base item information.
     -   Tap the **Related** tab to view the child install base items and upcoming work order tasks.
 
-        **Note:** Upcoming work order tasks are available only if the [[planned-work-management|Planned Work Management]] plugin is installed and upcoming work orders are generated.
+        **Note:** Upcoming work order tasks are available only if the Planned Work Management plugin is installed and upcoming work orders are generated.
 
-## Related
 
-- [[planned-work-management|Planned Work Management]]

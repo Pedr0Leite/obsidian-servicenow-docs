@@ -14,14 +14,14 @@ breadcrumb: [Use, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Using Supplier Payment Optimization
 
-Use [[supplier-pmnt-opt|Supplier Payment Optimization]] for identifying, prioritizing, and tracking suppliers with high potential of accepting credit card payments. The saving estimation tool can be used to calculate potential savings from credit card payments.
+Use Supplier Payment Optimization for identifying, prioritizing, and tracking suppliers with high potential of accepting credit card payments. The saving estimation tool can be used to calculate potential savings from credit card payments.
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
 -   **[Add propensity score for a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-propensity-score.md)**  
-The propensity score is used to identify the likelihood of a [[supplier|supplier]] to accept credit card payments. The supplier managers can manually update the propensity score for suppliers from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+The propensity score is used to identify the likelihood of a supplier to accept credit card payments. The supplier managers can manually update the propensity score for suppliers from the Source-to-Pay Workspace.
 -   **[Create a case for supplier credit card enablement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-credit-card-enblmnt-case.md)**  
-[[create-supplier-case-spo|Create a supplier case]] to request for the credit card information from a supplier.
+Create a supplier case to request for the credit card information from a supplier.
 -   **[Supplier credit card enablement playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/credit-card-enblmnt-playbook.md)**  
 Source-to-Pay Workspace includes a playbook to complete the supplier cases for initiating credit card acceptance requests.
 -   **[Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/estimate-savings.md)**  
@@ -44,9 +44,3 @@ The Payment optimization dashboard provides an overview of the total spend and p
 
 [Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/estimate-savings.md)
 
-## Related
-
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-supplier-case-spo|Create a supplier case]]

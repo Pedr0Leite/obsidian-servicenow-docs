@@ -32,7 +32,7 @@ Suppose you are on call until Monday, March 21. You can update your greetings to
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
 2.  On the **Overview** tab, from the **Initial Setup** section, select the **Configure the landing page** option.
 
@@ -509,6 +509,3 @@ Suppose you are on call until Monday, March 21. You can update your greetings to
 
 **Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-sow-landing-page-itom.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

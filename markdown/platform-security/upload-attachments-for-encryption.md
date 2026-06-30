@@ -12,13 +12,13 @@ breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field En
 
 # Upload attachments for encryption
 
-Protect sensitive files by encrypting record attachments [[using-column-level-encryption|using Field Encryption]] and Row Conditions.
+Protect sensitive files by encrypting record attachments using Field Encryption and Row Conditions.
 
 ## Before you begin
 
 Role required: Any role that aligns with the module access policy \(MAP\) created by the admin.
 
-**Note:** Additional setup is required when an [[email|email]] is matched to a record and the matched record's table has an [[encryption-landing|encryption]] [[sc-configuration|configuration]]. In this case, the attachments from the email are associated with that record. You need a module access policy \(MAP\) for the system user. If the sender is matched to a user in your instance, you also need a separate MAP that grants that user access to use the cryptographic module. This MAP is also required to permit impersonation. See [[fe-maps-inbound-email-attachment-encryption|Module access policies for encrypting associated attachments]].
+**Note:** Additional setup is required when an email is matched to a record and the matched record's table has an encryption configuration. In this case, the attachments from the email are associated with that record. You need a module access policy \(MAP\) for the system user. If the sender is matched to a user in your instance, you also need a separate MAP that grants that user access to use the cryptographic module. This MAP is also required to permit impersonation. See [Module access policies for encrypting associated attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-maps-inbound-email-attachment-encryption.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: Any role that aligns with the module access policy \(MAP\) create
 
 ## Result
 
-Attached files display at the top of the form. Encrypted attachments are denoted by a lock icon. Only [[users|users]] with the encryption module to view encrypted files will see them listed.
+Attached files display at the top of the form. Encrypted attachments are denoted by a lock icon. Only users with the encryption module to view encrypted files will see them listed.
 
 ## What to do next
 
@@ -49,14 +49,5 @@ The hash field stores a SHA-256 fingerprint of an attachment's content. Even tho
 
 Because of this, duplicate detection doesn't work for encrypted attachments, since ServiceNow uses the hash field to prevent identical attachments from being added to a record.
 
-**Parent Topic:**[[field-encryption-key-management|Encrypting fields and attachments]]
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)
 
-## Related
-
-- [[fe-maps-inbound-email-attachment-encryption|Module access policies for inbound email attachment encryption]]
-- [[field-encryption-key-management|Encrypting fields and attachments]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[email|Email]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

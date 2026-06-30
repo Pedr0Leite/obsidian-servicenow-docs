@@ -37,7 +37,7 @@ Canvas enables you to personalize your workspace by adding widgets from the libr
 
 3.  Select the widget you want to add from the available options.
 
-    Available widgets depend on administrator configuration and may include [[emp-center-quick-link-config|Quick Links]], Announcements, or other custom widgets.
+    Available widgets depend on administrator configuration and may include Quick Links, Announcements, or other custom widgets.
 
     The selected widget appears on the canvas.
 
@@ -47,14 +47,10 @@ Canvas enables you to personalize your workspace by adding widgets from the libr
 
 5.  Select **Save changes** to preserve your canvas configuration.
 
-    Your [[eslate-personalized-canvas|personalized canvas]] layout is saved and will appear the same way when you return to Canvas.
+    Your personalized canvas layout is saved and will appear the same way when you return to Canvas.
 
 
 ## Result
 
 Your canvas now displays widgets in your preferred arrangement and sizes. The customized layout persists across sessions and provides quick access to the tools and information most relevant to your work.
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-personalized-canvas|Personalized canvas]]

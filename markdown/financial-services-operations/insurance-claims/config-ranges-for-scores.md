@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** Any configuration changes made here appears at the [[financial-services-operations-core-data-model|Financial Services Operations Core]] level and will apply to all FSO Core applications.
+**Note:** Any configuration changes made here appears at the Financial Services Operations Core level and will apply to all FSO Core applications.
 
 ## Procedure
 
@@ -46,6 +46,3 @@ Role required: admin
 
 [CSM Configurable Workspace record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

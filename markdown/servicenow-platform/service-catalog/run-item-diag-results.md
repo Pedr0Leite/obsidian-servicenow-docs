@@ -26,7 +26,7 @@ This report runs every weekend on all catalog items of all types.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Request Reports**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Request Reports**.
 
 2.  Select the \[Catalog\] Item Diagnostics Results report.
 
@@ -47,6 +47,3 @@ This report runs every weekend on all catalog items of all types.
 
 **Parent Topic:**[Item diagnostic report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ItemDiagnostic.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

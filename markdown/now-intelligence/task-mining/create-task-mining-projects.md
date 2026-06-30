@@ -22,7 +22,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select **New project**.
 
@@ -37,7 +37,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
     \[Omitted image "tm-project-details.png"\] Alt text: Screenshot showing project details interface
 
-5.  Select the analysis you want to use for this project to determine how the [[task-mining|Task Mining]] project aggregates your workstation data.
+5.  Select the analysis you want to use for this project to determine how the Task Mining project aggregates your workstation data.
 
     The available options are:
 
@@ -78,7 +78,3 @@ Group actions as a task for a Task activity or Task timeline analysis. For more 
 
 Select workstation users you want to collect activity data from and create data requests. For more information, see [Add workstation users to a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/add-users-to-task-mining-project.md).
 
-## Related
-
-- [[task-mining-workspace|Task Mining Workspace]]
-- [[task-mining|Task Mining]]

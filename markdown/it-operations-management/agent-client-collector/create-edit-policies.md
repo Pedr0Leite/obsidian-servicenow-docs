@@ -14,7 +14,7 @@ breadcrumb: [Collect data from your system devices, ACC deployment - shared betw
 
 # Create an Agent Client Collector policy
 
-Policies consist of the CIs monitored by the [[acc-landing-page|Agent Client Collector]] and the checks that run on those CIs. When creating a policy, you configure a filter which determines the CIs on which the checks are to run. For example, a policy to run checks on all Apache web servers. You can create new policies or edit the default policies.
+Policies consist of the CIs monitored by the Agent Client Collector and the checks that run on those CIs. When creating a policy, you configure a filter which determines the CIs on which the checks are to run. For example, a policy to run checks on all Apache web servers. You can create new policies or edit the default policies.
 
 ## Before you begin
 
@@ -121,6 +121,3 @@ You assign a credential alias in the policy's **Credentials** tab, as described 
 
 [Create a policy hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-create-policy-hierarchy.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

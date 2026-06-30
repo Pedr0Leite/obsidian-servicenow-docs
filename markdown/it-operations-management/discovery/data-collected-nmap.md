@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-TCP SYN option determines if the host is online. This option that sends an empty, raw TCP packet with the SYN flag set to all the specified ports on the scan list. Nmap reports the host is online if a SYN/ACK TCP packet is returned and if an RST is returned, indicating that the port is closed. The Nmap host machine tears down the nascent connection with an RST, instead of an ACK, since the SYN/ACK response is unexpected from its perspective. If multiple [[r_PortProbes|port probes]] are specified, they are sent in parallel.Requirements:
+TCP SYN option determines if the host is online. This option that sends an empty, raw TCP packet with the SYN flag set to all the specified ports on the scan list. Nmap reports the host is online if a SYN/ACK TCP packet is returned and if an RST is returned, indicating that the port is closed. The Nmap host machine tears down the nascent connection with an RST, instead of an ACK, since the SYN/ACK response is unexpected from its perspective. If multiple port probes are specified, they are sent in parallel.Requirements:
 
 -   Raw packet privileges.
 -   Must run as root on UNIX.
@@ -53,7 +53,7 @@ TCP SYN option determines if the host is online. This option that sends an empty
 
 </td><td>
 
-Detects packet-filtering devices. This option is a TCP ACK host [[r-discovery|Discovery]], using a specified list of ports. If no list is defined, the default port 80 is used.Nmap sends an empty, raw TCP packet with the ACK flag set. This action acknowledges data over an established TCP connection, causing the remote host to respond with an RST packet. If the remote host does respond with an RST packet, Nmap knows the host is online. The ACK ping probe may get past packet filtering of TCP SYN packets by stateless packet filtering, network entities, such as firewalls, routers, and host routing tables/firewall software. Stateful firewalls drop unexpected packets, causing the ACK packet to be dropped, which increases the likelihood of the SYN TCP probe getting through.
+Detects packet-filtering devices. This option is a TCP ACK host Discovery, using a specified list of ports. If no list is defined, the default port 80 is used.Nmap sends an empty, raw TCP packet with the ACK flag set. This action acknowledges data over an established TCP connection, causing the remote host to respond with an RST packet. If the remote host does respond with an RST packet, Nmap knows the host is online. The ACK ping probe may get past packet filtering of TCP SYN packets by stateless packet filtering, network entities, such as firewalls, routers, and host routing tables/firewall software. Stateful firewalls drop unexpected packets, causing the ACK packet to be dropped, which increases the likelihood of the SYN TCP probe getting through.
 
  Requirements:
 
@@ -292,7 +292,3 @@ Redirects errors messages written by Nmap to `stderr` to the specified file.
 </td></tr></tbody>
 </table>**Parent Topic:**[Credential-less discovery with Nmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md)
 
-## Related
-
-- [[r_PortProbes|Port probes]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Knowledge Management - Add-in for Microsoft Word, Configu
 
 # Deploy Knowledge Management - Add-in for Microsoft Word
 
-Deploy the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word for authoring knowledge articles from within the Microsoft Word.
+Deploy the Knowledge Management - Add-in for Microsoft Word for authoring knowledge articles from within the Microsoft Word.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin, sn\_outlook\_addin.outlook\_addin\_setup
 
 3.  Select **Download Manifest** to download the add-in manifest file to your desktop.
 
-4.  Open your [[email|email]] account in Microsoft Outlook.
+4.  Open your email account in Microsoft Outlook.
 
 5.  On the ribbon, select **Get Add-ins** &gt; **My add-ins** &gt; **Add a custom add-in** &gt; **Add from file**.
 
@@ -44,7 +44,7 @@ Role required: admin, sn\_outlook\_addin.outlook\_addin\_setup
 
 9.  From the more items menu, select **ServiceNow for Knowledge Management**, and log in with your credentials.
 
-    You can [[c_Connect|connect]] to your Microsoft Outlook account with your instance.
+    You can connect to your Microsoft Outlook account with your instance.
 
 
 **Related topics**  
@@ -54,8 +54,3 @@ Role required: admin, sn\_outlook\_addin.outlook\_addin\_setup
 
 [Import a Word document to a knowledge base using Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[email|Email]]
-- [[c_Connect|Connect]]

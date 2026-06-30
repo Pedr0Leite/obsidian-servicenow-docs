@@ -25,7 +25,7 @@ The  enables departments across the enterprise to do more with the ServiceNow AI
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure [[preferences-landing|notification preferences]] for each application you procure from the ServiceNow Store.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-servicenow-store.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure notification preferences for each application you procure from the ServiceNow Store.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-servicenow-store.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ The  enables departments across the enterprise to do more with the ServiceNow AI
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about [[guest-review-form-fields|guest review form fields]] and types of ServiceNow Store listings.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about guest review form fields and types of ServiceNow Store listings.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 
 </td><td>
 
@@ -58,8 +58,3 @@ The  enables departments across the enterprise to do more with the ServiceNow AI
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[preferences-landing|Notification Preferences]]
-- [[guest-review-form-fields|Guest review form fields]]
-- [[reference-email-admin|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Administer and Troubleshoot, Code Signing, Platform Security]
 
 # Properties installed with Code Signing
 
-[[code-signing-landing|Code Signing]] adds the following properties.
+Code Signing adds the following properties.
 
 <table id="table_fck_z3z_mzb"><thead><tr><th>
 
@@ -180,7 +180,7 @@ true\|false
 
 </td><td>
 
-Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build [[c_Certificates|certificates]] are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [[change-rot-overview|Change your Root of Trust configuration]].
+Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build certificates are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [Change your Root of Trust configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/change-rot-overview.md).
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ true\|false
 
 </td><td>
 
-When true, enables Code Signing on your instance.**Important:** This property can only be changed via a [[c_requestAPI|request]] to Customer Service and Support.
+When true, enables Code Signing on your instance.**Important:** This property can only be changed via a request to Customer Service and Support.
 
 </td></tr><tr><td>
 
@@ -219,12 +219,5 @@ true\|false
 When true, enables RESTMessageV2 Code Signing tracking.**Important:** Elevated Security is needed to modify this property.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[code-signing-reference|Code Signing reference]]
+</table>**Parent Topic:**[Code Signing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-reference.md)
 
-## Related
-
-- [[change-rot-overview|Change your Root of Trust configuration]]
-- [[code-signing-reference|Code Signing reference]]
-- [[code-signing-landing|Code Signing]]
-- [[c_Certificates|Certificates]]
-- [[c_requestAPI|request]]

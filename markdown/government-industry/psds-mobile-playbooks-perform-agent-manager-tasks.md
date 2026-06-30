@@ -38,7 +38,7 @@ View the details of a case and determine if you need to make any changes or take
 3.  Select a case to view its details.
 4.  Determine if you need to make any changes or take other actions. If so, perform any of the tasks in this table.
 
- For details on viewing a case in the Mobile Agent, see [[psds-mobile-playbook-view-service-requests-agent|Track government service requests with the Mobile Agent app]].
+ For details on viewing a case in the Mobile Agent, see [Track government service requests with the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-mobile-playbook-view-service-requests-agent.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Edit a case
 1.  From the Service Requests list, open a case.
 2.  Tap the More actions icon \(\[Omitted image "psds-mobile-agent-top-menu.png"\] Alt text: Mobile Agent More actions icon.\) and select **Edit Case**.
 
-For details on the case fields, see [[service-request-case-form-new|Service Request case form]].
+For details on the case fields, see [Service Request case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/service-request-case-form-new.md).
 
 
 </td></tr><tr><td>
@@ -62,7 +62,7 @@ Add comments to a case
 2.  Tap the More actions icon \(\[Omitted image "psds-mobile-agent-top-menu.png"\] Alt text: More actions icon.\) and select **Add Comments**.
 3.  In the**Work Notes** or **Additional Comments** fields, add your work notes or comments about the case.
 
-You can also add comments through the activity stream related list. For more information, see [[psds-mobile-playbook-using-activity-stream|Using the activity stream in the Mobile Agent]].
+You can also add comments through the activity stream related list. For more information, see [Using the activity stream in the Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-mobile-playbook-using-activity-stream.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ View the details of a case and determine if you need to make any changes or take
 3.  Select a case to view its details.
 4.  Determine if you need to make any changes or take other actions. If so, perform any of the tasks in this table.
 
- For details on viewing a case in the Mobile Agent, see [[psds-mobile-playbook-view-info-requests-agent|Track information requests with the Mobile Agent]].
+ For details on viewing a case in the Mobile Agent, see [Track information requests with the Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-mobile-playbook-view-info-requests-agent.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Edit a case
 1.  From the Information Requests list, open a case.
 2.  Tap the More actions icon \(\[Omitted image "psds-mobile-agent-top-menu.png"\] Alt text: Mobile Agent More actions icon.\) and select **Edit Case**.
 
-For details on the case fields, see [[information-request-case-form|Information Request case form]].
+For details on the case fields, see [Information Request case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/information-request-case-form.md).
 
 
 </td></tr><tr><td>
@@ -246,11 +246,3 @@ Tap the More actions icon \(\[Omitted image "psds-mobile-agent-top-menu.png"\] A
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-mobile-playbook-view-service-requests-agent|Track government service requests with the Mobile Agent app]]
-- [[service-request-case-form-new|Service Request case form]]
-- [[psds-mobile-playbook-using-activity-stream|Using the activity stream in the Mobile Agent]]
-- [[psds-mobile-playbook-view-info-requests-agent|Track information requests with the Mobile Agent]]
-- [[information-request-case-form|Information Request case form]]

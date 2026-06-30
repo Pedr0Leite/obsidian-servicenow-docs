@@ -12,7 +12,7 @@ breadcrumb: [Configure special handling notes, Configure case management, Case m
 
 # Configure a form to show special handling notes
 
-Display special handling notes on a form, such as the [[r_CustomerServiceCaseForm|Case form]], in either a form list or a pop-up window.
+Display special handling notes on a form, such as the Case form, in either a form list or a pop-up window.
 
 ## Before you begin
 
@@ -38,9 +38,5 @@ Role required: sn\_shn.admin
 **Related topics**  
 
 
-[[c_OnScreenAlerts|Special handling notes]]
+[Special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OnScreenAlerts.md)
 
-## Related
-
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[r_CustomerServiceCaseForm|Case form]]

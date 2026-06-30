@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Components installed with Care Team Operations for Biomed
 
-Several types of components such as tables, user roles, and business rules are installed when you install the [[care-team-operations-for-biomed|Care Team Operations for Biomed]] plugin.
+Several types of components such as tables, user roles, and business rules are installed when you install the Care Team Operations for Biomed plugin.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -114,7 +114,7 @@ Monitors the tasks within their organizations.
 
 </td></tr><tr><td>
 
-[[care-team-portal-landing|Care Team Portal]]
+Care Team Portal
 
  \(com.sn\_cto\_sp​\)
 
@@ -124,7 +124,7 @@ Provides a portal experience for Care Team Operations for Biomed users to create
 
 </td></tr><tr><td>
 
-[[hcls-cto-app|Healthcare Operations Core]]
+Healthcare Operations Core
 
  \[com.sn\_hco\]
 
@@ -134,9 +134,3 @@ Healthcare Operations Core provides clinicians a uniform interface to report and
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]

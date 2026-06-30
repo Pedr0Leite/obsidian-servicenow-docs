@@ -12,7 +12,7 @@ breadcrumb: [Administer the ServiceNow AI Platform]
 
 # Configure ServiceNow AI Platform core features
 
-The ServiceNow AI Platform provides for a multitude of customization options to your applications. Customize your UI, handle user and data administration, and localize your instance for [[r_TimeZones|time zones]], currencies, and more.
+The ServiceNow AI Platform provides for a multitude of customization options to your applications. Customize your UI, handle user and data administration, and localize your instance for time zones, currencies, and more.
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ The ServiceNow AI Platform provides for a multitude of customization options to 
 
 </td></tr><tr><td>
 
-[Search administration \[Omitted image "bus-scan.svg"\] Alt text: Enable users to find the information through Zing or [[ia-ai-search|AI search]] engines and specialized search experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md)
+[Search administration \[Omitted image "bus-scan.svg"\] Alt text: Enable users to find the information through Zing or AI search engines and specialized search experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ The ServiceNow AI Platform provides for a multitude of customization options to 
 
 </td><td>
 
-[ServiceNow AI Platform translation and [[ia-localization-il|localization]] \[Omitted image "bus-global.svg"\] Alt text: Match languages and currency everywhere on the globe.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
+[ServiceNow AI Platform translation and localization \[Omitted image "bus-global.svg"\] Alt text: Match languages and currency everywhere on the globe.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ The ServiceNow AI Platform provides for a multitude of customization options to 
 [Events \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Get in-depth analysis for all displays and user-based events in your application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/events.md)
 
 </td></tr></tbody>
-</table>## [[c_UserAdministration|User administration]]
+</table>## User administration
 
 Create account access types and related roles to work within your instance. User records give you control over individual single account types and the records or actions that they can access. Group records expand control further, to assign access to teams or departments, as well as to subgroups or by skill associations. Customize instances even more with Roles, and assign access to various apps or modules. Troubleshoot and test it all with Tools that provide auditing, impersonation, and more.
 
@@ -59,7 +59,7 @@ See [User administration](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 ## ServiceNow AI Platform tables and data
 
-Manage and use your business information effectively on the ServiceNow AI Platform. Take advantage of [[c_DataManagement|Data Management]] to store, transfer, import, and archive data. Work with multiple records at once using [[c_TableAdministration|Table Administration]], and connect with third-party or external instances to handle data with Financial Services Remote Tables.
+Manage and use your business information effectively on the ServiceNow AI Platform. Take advantage of Data Management to store, transfer, import, and archive data. Work with multiple records at once using Table Administration, and connect with third-party or external instances to handle data with Financial Services Remote Tables.
 
 See [ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md).
 
@@ -67,11 +67,11 @@ See [ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/S
 
 Take control of every aspect of data collection and usage in your instance. Forms on the ServiceNow AI Platform are fully customizable, with options for personalization, templates, attachments, UI, and more. Create and modify Fields, used in forms and displayed in lists or tables. Define user access to all your data with Lists, including custom controls and functions.
 
-See [[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]].
+See [ServiceNow AI Platform forms, fields, and lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-platform-forms-fields-lists.md).
 
 ## Search administration
 
-Help your users find information with ease using ServiceNow [[search-administration|search administration]] products. AI Search and the Zing search engine provide intelligent search [[hs-results|results]] and proper indexing. Focus your data requests with Table searches, and go wider with Global searches, all with configurable search systems across the ServiceNow AI Platform. Improve search assistance with [[search-suggestions-overview|search suggestions]], [[c_ContextualSearch|Contextual Search]] based on intent, and search data analysis.
+Help your users find information with ease using ServiceNow search administration products. AI Search and the Zing search engine provide intelligent search results and proper indexing. Focus your data requests with Table searches, and go wider with Global searches, all with configurable search systems across the ServiceNow AI Platform. Improve search assistance with search suggestions, Contextual Search based on intent, and search data analysis.
 
 See [Search administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md).
 
@@ -83,7 +83,7 @@ See [Time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 
 ## Currency administration
 
-Monitor currency values with ServiceNow [[currency|currency administration]] systems. Configure [[configure-and-use-default-currency-fields|Standard Currency fields]] for financial and non-financial records and applications, or use expanded Foreign Exchange \(FX\) Currency fields for added configuration options.
+Monitor currency values with ServiceNow currency administration systems. Configure Standard Currency fields for financial and non-financial records and applications, or use expanded Foreign Exchange \(FX\) Currency fields for added configuration options.
 
 See [Currency administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency.md).
 
@@ -95,7 +95,7 @@ See [Service Level Management](https://raw.githubusercontent.com/ServiceNow/Serv
 
 ## ServiceNow AI Platform translation and localization
 
-Communicate effectively with users and customers around the world. The [[localization-framework-landing|Localization Framework]] provides info to users in a variety of languages and currencies across a multitude of apps—all within the same instance. [[dynamic-translation|Dynamic Translation]] helps accommodate users even more fully, by actively translating text in forms and other applications.
+Communicate effectively with users and customers around the world. The Localization Framework provides info to users in a variety of languages and currencies across a multitude of apps—all within the same instance. Dynamic Translation helps accommodate users even more fully, by actively translating text in forms and other applications.
 
 See [ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md).
 
@@ -103,41 +103,17 @@ See [ServiceNow AI Platform translation and localization](https://raw.githubuser
 
 Bring ServiceNow and external applications together with integrations on the ServiceNow AI Platform. Make onboarding and service configuration easy by adding to your instance. Integrate other instances, third-party apps, and data sources, and make helpful features such as Single Sign-on available throughout your enterprise.
 
-See [[integrations|ServiceNow AI Platform integrations]].
+See [ServiceNow AI Platform integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/integrations.md).
 
 ## Notifications
 
-Use Notifications to automate status updates by email, system, or user \(through individual providers\). Set up [[c_EmailConfiguration|Email administration]] and your instance [[c_EnableTheEmailClient|email client]] to work with notifications, and proper sending and receiving of email. [[system-notifications-landing|System notifications]] enable real-time updates through [[c_PushNotifications|push notifications]], SMS, chat messages, and more.
+Use Notifications to automate status updates by email, system, or user \(through individual providers\). Set up Email administration and your instance email client to work with notifications, and proper sending and receiving of email. System notifications enable real-time updates through push notifications, SMS, chat messages, and more.
 
-See [[notifications|Notifications]].
+See [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md).
 
 ## State Management
 
-Monitor workflow in your instance with [[state-model|State Management]]. Define state models and transitions to determine your business's service processes, as well as UI actions possible based on state.
+Monitor workflow in your instance with State Management. Define state models and transitions to determine your business's service processes, as well as UI actions possible based on state.
 
 See [State Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/state-management/state-model.md).
 
-## Related
-
-- [[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]]
-- [[integrations|ServiceNow AI Platform integrations]]
-- [[notifications|Notifications]]
-- [[r_TimeZones|Time zones]]
-- [[ia-ai-search|AI Search]]
-- [[ia-localization-il|Localization]]
-- [[c_UserAdministration|User administration]]
-- [[c_DataManagement|Data Management]]
-- [[c_TableAdministration|Table administration]]
-- [[search-administration|Search administration]]
-- [[hs-results|Results]]
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_ContextualSearch|Contextual search]]
-- [[currency|Currency administration]]
-- [[configure-and-use-default-currency-fields|Standard currency fields]]
-- [[localization-framework-landing|Localization Framework]]
-- [[dynamic-translation|Dynamic translation]]
-- [[c_EmailConfiguration|Email administration]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[system-notifications-landing|System notifications]]
-- [[c_PushNotifications|Push notifications]]
-- [[state-model|State Management]]

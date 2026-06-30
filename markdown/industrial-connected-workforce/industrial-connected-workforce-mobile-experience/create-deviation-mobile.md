@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create a deviation in the Industrial Connected Workforce Mobile application
 
-[[create-industrial-deviation|Create a deviation]] in the mobile app to report an issue that deviates from standard operations, such as an equipment malfunction. This way the issue can be tracked, investigated, and resolved.
+Create a deviation in the mobile app to report an issue that deviates from standard operations, such as an equipment malfunction. This way the issue can be tracked, investigated, and resolved.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ A deviation is any type of equipment or work anomaly that has an impact on work 
 
     \[Omitted image "actions-icw-mobile.png"\] Alt text: New deviation menu option
 
-3.  On the [[deviation-form|Deviation form]], fill in the fields.
+3.  On the Deviation form, fill in the fields.
 
     For a description of the field values, see [Deviation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/deviation-form-mobile.md).
 
@@ -75,15 +75,9 @@ The opened deviation can be:
 **Note:** The actions Close, Cancel, and Reopen are restricted to users with the sn\_icw.deviation\_expert role. Other actions are supported for both the sn\_icw.deviation\_user and sn\_icw.deviation\_expert role.
 
 -   **[Contextualize an external document using AI Enhanced recommended actions for ICW Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/use-ai-enhanced-ra-icw-mobile.md)**  
-With the [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]] Mobile Experience, you can contextualize an external document to get an explanation of why the document is relevant to a deviation.
+With the AI Enhanced recommended actions for Industrial Connected Workforce Mobile Experience, you can contextualize an external document to get an explanation of why the document is relevant to a deviation.
 -   **[Generate an action plan using AI Enhanced recommended actions for ICW Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/generate-action-plan-ai-enhanced-ra-icw-mobile.md)**  
-Generate an action plan to document and track remediation steps for an [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] \(ICW Mobile\) deviation. Action plans help you organize tasks, assign responsibilities, and monitor progress toward resolution.
+Generate an action plan to document and track remediation steps for an Industrial Connected Workforce Mobile Experience \(ICW Mobile\) deviation. Action plans help you organize tasks, assign responsibilities, and monitor progress toward resolution.
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[create-industrial-deviation|Create a deviation]]
-- [[deviation-form|Deviation form]]
-- [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

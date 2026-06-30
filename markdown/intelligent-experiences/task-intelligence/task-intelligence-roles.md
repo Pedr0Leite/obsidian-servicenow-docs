@@ -14,7 +14,7 @@ breadcrumb: [Task Intelligence references, Task Intelligence, Enable AI experien
 
 # Task Intelligence roles
 
-[[task-intelligence|Task Intelligence]] is installed with these roles.
+Task Intelligence is installed with these roles.
 
 To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -75,6 +75,3 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[task-intelligence|Task Intelligence]]

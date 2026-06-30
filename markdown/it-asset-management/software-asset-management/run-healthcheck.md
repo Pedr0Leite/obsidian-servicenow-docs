@@ -14,7 +14,7 @@ breadcrumb: [Health check, Success portal view in Software Asset Workspace, Soft
 
 # Run a health check scan for Software Asset Management
 
-Run a [[health-check-dboard|health check]] scan on your [[c_SoftwareAssetMgmt|Software Asset Management]] configurations and get recommendations on fixing any errors that might exist.
+Run a health check scan on your Software Asset Management configurations and get recommendations on fixing any errors that might exist.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can run a health check scan to find the health score for the complete config
 
 ## Procedure
 
-1.  Navigate to **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Success portal** &gt; **Health check**.
+1.  Navigate to **Software asset** &gt; **Software Asset Workspace** &gt; **Success portal** &gt; **Health check**.
 
 2.  Select the **Health check** tab.
 
@@ -62,8 +62,3 @@ You can run a health check scan to find the health score for the complete config
 
 [Health check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/health-check-dboard.md)
 
-## Related
-
-- [[health-check-dboard|Health check]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -46,7 +46,7 @@ With the updated decimal type **KPI weighted score** field, all performance scor
 
 [Run fix script to update the Aggregation method field in the KPI table]()
 
-[Run fix script to update the KPI Instruction field in the [[supplier|Supplier]] Task table]()
+[Run fix script to update the KPI Instruction field in the Supplier Task table]()
 
 [Run fix scripts to enable Automated KPI collection]()
 
@@ -58,6 +58,3 @@ With the updated decimal type **KPI weighted score** field, all performance scor
 
 [Processing the skipped supplier catalog item records after upgrade]()
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Talent Profile, Hiring Experiences, HR Service Delivery, Emplo
 
 # Filter talent profiles
 
-Use filter options to find relevant talent profiles quickly in the [[talent-pool-overview|Talent pool]] tab.
+Use filter options to find relevant talent profiles quickly in the Talent pool tab.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to the **Talent pool** tab.
 
@@ -37,7 +37,3 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

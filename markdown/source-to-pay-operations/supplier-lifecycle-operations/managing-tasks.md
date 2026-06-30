@@ -14,12 +14,12 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Manage supplier tasks from the Source-to-Pay Workspace
 
-You can create and manage tasks for suppliers and internal users in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can create and manage tasks for suppliers and internal users in the Source-to-Pay Workspace.
 
 -   **[Configure due dates for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-task-due-date.md)**  
 Configure due dates for different task types so that the **Due date** field is auto-populated when you create tasks for internal users and suppliers.
 -   **[Create a task for a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-task-for-supp-case.md)**  
-You can create a task for a [[supplier|supplier]] case and assign it to a [[supplier-contact|supplier contact]].
+You can create a task for a supplier case and assign it to a supplier contact.
 -   **[Submit a task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-supplier-task.md)**  
 Submit a task in Draft state to indicate that it is ready to be worked on.
 -   **[Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)**  
@@ -62,8 +62,3 @@ You can mark a supplier task as complete when you finish all the activities rela
 
 [Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

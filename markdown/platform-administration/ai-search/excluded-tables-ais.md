@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # ServiceNow AI Platform tables excluded from AI Search indexing
 
-[[ia-ai-search|AI Search]] excludes the following ServiceNow AI Platform tables when indexing content. You can't configure these tables, or tables derived from them, as AI Search indexed sources.
+AI Search excludes the following ServiceNow AI Platform tables when indexing content. You can't configure these tables, or tables derived from them, as AI Search indexed sources.
 
 -   AI Search External Search User Mapping Base \[ais\_external\_search\_user\_mapping\]
 -   Base Configuration Item \[cmdb\]
@@ -28,6 +28,3 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

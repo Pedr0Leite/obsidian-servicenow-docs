@@ -12,11 +12,11 @@ breadcrumb: [Set up self-service, Configure, Public Sector Digital Services \(PS
 
 # Customize the Government Service Portal
 
-Modify the [[gsp-overview-public-sector|Government Service Portal]] to meet your needs, for example to set the portal branding.
+Modify the Government Service Portal to meet your needs, for example to set the portal branding.
 
 ## Before you begin
 
-You can customize the Government Service Portal by following this procedure or by using [[configure-psds-foundation-data|guided setup for Public Sector Digital Services Core application]].
+You can customize the Government Service Portal by following this procedure or by using [guided setup for Public Sector Digital Services Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md).
 
 Role required: admin
 
@@ -32,7 +32,3 @@ Role required: admin
     -   **Widgets**: [Use Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md) to define the content in your portal.
     -   **Roles**: [Configure page security by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-page-security.md) to either set up pages to be public \(no login required\) or to filter them by user role.
 
-## Related
-
-- [[configure-psds-foundation-data|Configure Public Sector Digital Services foundational data and workflows]]
-- [[gsp-overview-public-sector|Government Service Portal]]

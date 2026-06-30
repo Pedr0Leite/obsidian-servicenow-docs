@@ -14,7 +14,7 @@ breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT O
 
 # Storage space for log retention in Health Log Analytics
 
-The [[hla-landing-page|Health Log Analytics]] base system typically provides 1,000 GB storage space for log source retention, although the storage capacity may vary depending on your license. The default retention time for logs is three days, but you can modify that period.
+The Health Log Analytics base system typically provides 1,000 GB storage space for log source retention, although the storage capacity may vary depending on your license. The default retention time for logs is three days, but you can modify that period.
 
 This feature is supported in the Health Log Analytics application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). To activate it, contact your ServiceNow account manager or ServiceNow Support.
 
@@ -38,6 +38,3 @@ Modify the period that Health Log Analytics retains logs from a specific source.
 
 [Modify the log source retention period in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-retention.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

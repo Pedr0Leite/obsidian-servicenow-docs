@@ -18,19 +18,19 @@ Your instance requires certificates to establish secure connections and validate
 
 [Explore \[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-certificates.md)
 
- [[exploring-certificates|Learn the key features and business value of Certificates.]]
+ [Learn the key features and business value of Certificates.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-certificates.md)
 
 </td><td>
 
 [Configure \[Omitted image "icon-set-up.png"\] Alt text: Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAnLDAPClientCertificate.md)
 
- [[t_GenerateAnLDAPClientCertificate|Plan your core configurations.]]
+ [Plan your core configurations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAnLDAPClientCertificate.md)
 
 </td></tr><tr><td>
 
 [Upload \[Omitted image "icon-manage.png"\] Alt text: Upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)
 
- [[t_UploadACertificateToAnInstance|Plan and set-up the application.]]
+ [Plan and set-up the application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)
 
 </td><td>
 
@@ -40,16 +40,9 @@ Your instance requires certificates to establish secure connections and validate
 </table>-   **[Exploring Certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-certificates.md)**  
 Your instance requires certificates to establish secure connections and validate signatures.
 -   **[Generating an LDAP client certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAnLDAPClientCertificate.md)**  
-Generate an LDAP client certificate for mutual [[c_Authentication|authentication]] using OpenSSL. The final output is a PKCS\#12 certificate stored within a Java keystore.
+Generate an LDAP client certificate for mutual authentication using OpenSSL. The final output is a PKCS\#12 certificate stored within a Java keystore.
 -   **[Uploading a certificate to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)**  
 Add a certificate to the instance from the Certificates module.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[exploring-certificates|Exploring Certificates]]
-- [[t_GenerateAnLDAPClientCertificate|Generating an LDAP client certificate]]
-- [[t_UploadACertificateToAnInstance|Uploading a certificate to an instance]]
-- [[encryption-landing|Encryption]]
-- [[c_Authentication|Authentication]]

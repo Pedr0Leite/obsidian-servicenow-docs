@@ -14,7 +14,7 @@ breadcrumb: [Regenerate a text index for a table, Zing indexes words, Zing text 
 
 # Reindex a table without impacting text search results
 
-Rebuild text search indexes without adversely impacting search [[hs-results|results]]. You can continue to perform text searches on a table while the index regeneration takes place.
+Rebuild text search indexes without adversely impacting search results. You can continue to perform text searches on a table while the index regeneration takes place.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ The system reindexes the text search for the specified table. For large tables, 
 
 **Parent Topic:**[Regenerate a text index for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)
 
-## Related
-
-- [[hs-results|Results]]

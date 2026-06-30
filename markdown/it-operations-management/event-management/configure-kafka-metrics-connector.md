@@ -18,13 +18,13 @@ Configure the Kafka metric consumer connector instance to read message send to K
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the [[operational-metrics|Metric Intelligence]] extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-itoa-metric-extension.md).
 
 -   For PLAINTEXT in the Credential field, create a Basic authentication credential.
 
     Select the Search icon \(\[Omitted image "search-icon.png"\] Alt text: search icon\) next to the Credential field.
 
--   ServiceNow does not support [[r-discovery|discovery]] for Kafka. Therefore, create the CI entry manually in the respective table.
+-   ServiceNow does not support discovery for Kafka. Therefore, create the CI entry manually in the respective table.
 
 Role required: evt\_mgmt\_admin
 
@@ -46,7 +46,7 @@ Role required: evt\_mgmt\_admin
     2.  On the Credentials screen, select **New**.
     3.  From the list of available credentials, select **Kafka SSL Credentials**.
 
-        For the [[hla-data-input-kafka-credentials|Kafka SSL credentials fields]] descriptions, see [Kafka SSL credentials fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md).
+        For the Kafka SSL credentials fields descriptions, see [Kafka SSL credentials fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md).
 
         **Note:** If you clear the **Disable hostname verification** field, then in the **Additional Kafka consumer properties** field, enter the value of the **ssl.endpoint.identification.algorithm** parameter the same as of the Kafka server parameter value. For example:
 
@@ -59,8 +59,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[r-discovery|Discovery]]
-- [[hla-data-input-kafka-credentials|Kafka SSL credentials fields]]

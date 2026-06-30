@@ -36,7 +36,7 @@ Role required: admin
 
 
 -   **[Components installed with HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-HRSD-WB.md)**  
-Several types of components are installed with activation of the [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]] HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] plugin, including user roles.
+Several types of components are installed with activation of the HR Predictive Intelligence Workbench HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] plugin, including user roles.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-administration.md)
 
@@ -45,6 +45,3 @@ Several types of components are installed with activation of the [[hr-predictive
 
 [List of plugins \(Tokyo\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]]

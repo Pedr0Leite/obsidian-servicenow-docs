@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # Installed software for Operational Technology Management
 
-The installed software for the [[operational-technology-overview|Operational Technology]] Management solution comes from [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]] or from the OT-certified Service Graph Connectors that support installed software.
+The installed software for the Operational Technology Management solution comes from IT Discovery for Operational Technology \(OT\) Networks or from the OT-certified Service Graph Connectors that support installed software.
 
 ## Installed software overview
 
@@ -30,7 +30,7 @@ You can also configure a computer CI to display Software Asset Management data. 
 
 ## View installed software for OT devices
 
-You can view the installed software for OT devices in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] in the following locations:
+You can view the installed software for OT devices in the Industrial Workspace in the following locations:
 
 -   The **Software Installed on OT Devices** list by navigating to **All** &gt; **Operational Technology \(OT\)** &gt; **Software Installed on OT Devices**.
 -   The **Software Installed on OT Devices** list in the Industrial Workspace list view under the **Operational Technology \(OT\)** module.
@@ -38,8 +38,3 @@ You can view the installed software for OT devices in the [[industrial-workspace
 
 **Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -22,9 +22,9 @@ Here's a quick breakdown of the playbooks and their associated tasks.
 
 ## Sourcing intake playbook
 
-The [[sourcing-request|sourcing request]] playbook, also known as the sourcing intake playbook, enables you to:
+The sourcing request playbook, also known as the sourcing intake playbook, enables you to:
 
--   Review an employee or requester’s requirements, which include details of the sourcing intake, [[purchase-lines|purchase lines]], and approvals.
+-   Review an employee or requester’s requirements, which include details of the sourcing intake, purchase lines, and approvals.
 -   Request clarifications or more information from the requester, if necessary.
 -   Collaborate with cross-functional teams and create other work such as tasks and cases for them, if necessary.​
 
@@ -32,7 +32,7 @@ The [[sourcing-request|sourcing request]] playbook, also known as the sourcing i
 
 -   Decide if you should negotiate in a sourcing event or not.
 
-    Here, as the sourcing manager, you can select a sourcing approach to source with similar employee requests. You can decide whether to work on [[negotiations|negotiations]] with suppliers right away or at a later stage. In case of the former, you must add the sourcing request to a new or existing sourcing event​ to proceed.
+    Here, as the sourcing manager, you can select a sourcing approach to source with similar employee requests. You can decide whether to work on negotiations with suppliers right away or at a later stage. In case of the former, you must add the sourcing request to a new or existing sourcing event​ to proceed.
 
     For more information on how to perform these actions on the sourcing intake playbook, see [Select a sourcing approach in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-sourcing-approach.md).
 
@@ -54,7 +54,7 @@ The sourcing event playbook, also known as the negotiation setup playbook, enabl
 
 ## Configurations
 
-The playbook stages and activities of sourcing requests and [[negotiation-events|sourcing events]] can be modified by the customer from Playbooks. ​The Declarative Actions can be edited or newly created, and their mappings modified in the Activity Definition section. The look and feel of the activities can also be configured from Activity Experience in the Activity Definition section.​
+The playbook stages and activities of sourcing requests and sourcing events can be modified by the customer from Playbooks. ​The Declarative Actions can be edited or newly created, and their mappings modified in the Activity Definition section. The look and feel of the activities can also be configured from Activity Experience in the Activity Definition section.​
 
 For details on how administrators, agents, and fulfillers can configure playbooks, see [Running Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-agents-and-fulfillers.md). For more information on Playbooks stages and activities, see [Stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer-lanes-activities.md).
 
@@ -83,9 +83,9 @@ Work on a negotiation setup playbook to manage qualification work, and review th
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a return request in playbook]()
 
@@ -101,14 +101,5 @@ Work on a negotiation setup playbook to manage qualification work, and review th
 
 [Reviewing and updating general ledger details in playbook]()
 
-[Streamlining the [[supplier|supplier]] risk assessment workflow]()
+[Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-lines|Purchase lines]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

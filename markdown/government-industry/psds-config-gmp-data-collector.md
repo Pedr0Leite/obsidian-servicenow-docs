@@ -102,11 +102,7 @@ A data collector for a policy version is now created.
 
 ## What to do next
 
-[[psds-config-gmp-create-eligibility-policy|Create an eligibility policy using PaCE]]
+[Create an eligibility policy using PaCE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-create-eligibility-policy.md)
 
-**Parent Topic:**[[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
+**Parent Topic:**[Configure Eligibility Rules Engine Policies in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-eligibility.md)
 
-## Related
-
-- [[psds-config-gmp-create-eligibility-policy|Create an eligibility policy in Grants Management using PaCE]]
-- [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]

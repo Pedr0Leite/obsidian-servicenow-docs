@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Configure Agent Affinity rules
 
-Create or change the Agent Affinity rules that route [[awa-work-items|work items]] in [[awa-application-landing-page|Advanced Work Assignment]].
+Create or change the Agent Affinity rules that route work items in Advanced Work Assignment.
 
 ## Before you begin
 
@@ -105,7 +105,4 @@ Agent who is part of the account team. This field appears when you select **Acco
 </td></tr></tbody>
 </table>4.  Click **Submit** for a new affinity rule or **Update** to modify an existing affinity rule.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

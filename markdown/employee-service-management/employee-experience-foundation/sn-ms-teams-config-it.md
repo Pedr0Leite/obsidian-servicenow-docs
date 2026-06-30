@@ -19,15 +19,15 @@ Complete the procedures outlined to configure IT Service Management integration 
 -   **[Review the active notifications for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-notifications-teams.md)**  
 The notifications added by ServiceNow for Microsoft Teams, might duplicate existing notifications in your instance. Review and disable any duplicate notifications to avoid notifying users multiple times for the same event.
 -   **[Enable Virtual Agent notifications for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-va-notifications-it.md)**  
-Configure system properties to enable [[va-notification-ta|Virtual Agent notifications]] in Microsoft Teams.
+Configure system properties to enable Virtual Agent notifications in Microsoft Teams.
 -   **[Configure LLM based provider notifications for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-llm-based-actional-notifications-for-itsm.md)**  
 Enable LLM-based actionable provider notifications for ITSM.
 -   **[Customizing approval notification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/customizing-approval-notifications.md)**  
 You can customize the approval notification fields by creating the methods in a script include.
 -   **[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/auto-import-messages-it.md)**  
-Configure request-based chats for IT Service Management integration with Microsoft Teams and [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
+Configure request-based chats for IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
 -   **[Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-dashboard-admin-it.md)**  
-Use the [[employee-center-landing-page|Employee Center]] within Microsoft Teams or [[customize-custom-portal-employee-center-it|embed a custom portal]] in Microsoft Teams.
+Use the Employee Center within Microsoft Teams or embed a custom portal in Microsoft Teams.
 -   **[Microsoft Teams Chat widget in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-std-ticket-page-teams-it.md)**  
 The Teams Chat widget enables employees to view or continue chats with agents and view and access the content of attached files in the Employee Center. This widget is available through the IT Service Management integration with the Microsoft Teams application.
 -   **[Include On-call scheduling users to initiate Microsoft Teams chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/on-call-users-start-chat-it.md)**  
@@ -43,9 +43,3 @@ ServiceNow for Microsoft Teams supports link unfurling. Link unfurling generates
 
 **Parent Topic:**[Configuring Microsoft Teams integration for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_config.md)
 
-## Related
-
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[customize-custom-portal-employee-center-it|Embed a custom portal]]

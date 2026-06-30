@@ -20,7 +20,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Open Findings**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Open Findings**.
 
 2.  Open the record you want to work with by selecting its **Short Description**.
 
@@ -28,7 +28,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
     |Field|Description|
     |-----|-----------|
-    |**Definition**|Displays the scan definition that detected this finding. Select the definition name to view full definition details. See [[scan-engine-definitions|Scan Engine definitions]] for more information.|
+    |**Definition**|Displays the scan definition that detected this finding. Select the definition name to view full definition details. See [Scan Engine definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/scan-engine-definitions.md) for more information.|
     |**Level of Finding**|Measures the potential severity of the finding on the overall instance on a scale of 0-10.|
     |**Applies to**|A reference to the specific record flagged by the scan \(for example, a business rule, script include, or ACL record\). Select it to open the record directly and review or fix the issue.|
     |**Short Description**|Brief description of the finding|
@@ -76,21 +76,15 @@ Suggested method for resolving the finding
 
 </td><td>
 
-Link to supporting documentation that may [[io-help|help]] in resolving the finding
+Link to supporting documentation that may help in resolving the finding
 
 </td></tr></tbody>
 </table>3.  Apply the recommended changes in the record that triggered the finding.
 
 4.  Submit an exception for review to request to bypass a fix for the finding.
 
-    For more information, refer to [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]].
+    For more information, refer to [Submit exceptions for Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
     The finding will be marked as resolved once the next scan validates the changes.
 
-## Related
 
-- [[scan-engine-definitions|Scan Engine definitions]]
-- [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]

@@ -18,7 +18,7 @@ Assign a proxy agent cluster to a policy when monitoring services external to th
 
 ## Before you begin
 
-Ensure that you have a policy containing the checks that monitor external services. For details on these [[checks-policies|checks and policies]], see [Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md).
+Ensure that you have a policy containing the checks that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md).
 
 Role required: agent\_client\_collector\_admin
 
@@ -28,7 +28,7 @@ Only one app should be run on a given proxy agent because running multiple apps 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents** &gt; **Policies**.
 
 2.  Select the policy containing the checks that you want to run on a proxy server.
 
@@ -73,7 +73,7 @@ Only one app should be run on a given proxy agent because running multiple apps 
 
 
 -   **[Enable load balancing between proxy agents in a cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/view-proxy-ci-distribution.md)**  
-[[view-proxy-ci-distribution|Enable load balancing between proxy agents in a cluster]] so that if an agent is not functioning properly, monitored CIs are redistributed to another agent. After enabling load balancing, you can view the CIs monitored by each proxy agent in a policy.
+Enable load balancing between proxy agents in a cluster so that if an agent is not functioning properly, monitored CIs are redistributed to another agent. After enabling load balancing, you can view the CIs monitored by each proxy agent in a policy.
 
 **Parent Topic:**[Using proxy agents in Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/proxy-agent.md)
 
@@ -82,8 +82,3 @@ Only one app should be run on a given proxy agent because running multiple apps 
 
 [Enable load balancing between proxy agents in a cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/view-proxy-ci-distribution.md)
 
-## Related
-
-- [[checks-policies|Checks and policies]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[view-proxy-ci-distribution|Enable load balancing between proxy agents in a cluster]]

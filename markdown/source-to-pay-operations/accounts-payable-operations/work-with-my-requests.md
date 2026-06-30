@@ -15,7 +15,7 @@ breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable O
 
 # Working with My Requests
 
-View and manage [[work-with-inquiry-cases|invoice inquiry cases]] assigned to you as a [[supplier|supplier]], including responding to requests from the Accounts Payable team.
+View and manage invoice inquiry cases assigned to you as a supplier, including responding to requests from the Accounts Payable team.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: Supplier
 
 ## Procedure
 
-1.  Navigate to the header on the home page &gt; **[[my-requests|My Requests]]**.
+1.  Navigate to the header on the home page &gt; **My Requests**.
 
     Lists all the invoice inquiry cases assigned to supplier. For more information on invoice inquiry cases, see [Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md).
 
@@ -55,8 +55,3 @@ Role required: Supplier
 
 **Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-supplier-collaboration-portal.md)
 
-## Related
-
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[supplier|Supplier]]
-- [[my-requests|My requests]]

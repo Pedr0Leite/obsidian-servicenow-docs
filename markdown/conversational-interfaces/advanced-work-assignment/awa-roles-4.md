@@ -14,7 +14,7 @@ breadcrumb: [Advanced Work Assignment roles, Reference, Advanced Work Assignment
 
 # AWA manager \[awa\_manager\]
 
-The AWA manager monitors the performance of agents across all [[awa-service-channels|service channels]].
+The AWA manager monitors the performance of agents across all service channels.
 
 ## Contains Roles
 
@@ -33,6 +33,3 @@ None.
 
 None.
 
-## Related
-
-- [[awa-service-channels|Service channels]]

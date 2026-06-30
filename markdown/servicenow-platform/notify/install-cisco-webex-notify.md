@@ -14,13 +14,13 @@ breadcrumb: [Configure Notify Cisco Webex Connector, Configuring Notify, Notify,
 
 # Install Notify Cisco Webex Connector
 
-You can install the [[cisco-webex-notify|Notify Cisco Webex Connector]] application \(sn\_notify\_webex\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Notify Cisco Webex Connector application \(sn\_notify\_webex\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Role required: [[notify-landing-page|notify]]\_setup\_admin
+Role required: notify\_setup\_admin
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Role required: [[notify-landing-page|notify]]\_setup\_admin
 
 4.  If you're prompted, follow the links to the ServiceNow Store to get any additional entitlements for dependencies.
 
-5.  If demo data is available and you want to install it, select the **Load demo data** [[check-box|check box]].
+5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
@@ -47,8 +47,3 @@ Role required: [[notify-landing-page|notify]]\_setup\_admin
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[cisco-webex-notify|Notify Cisco Webex Connector]]
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]

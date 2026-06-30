@@ -18,7 +18,7 @@ Ensure that the right EAP configuration which suits your current SAFe configurat
 
 ## Before you begin
 
-Check the SAFe application \([[essential-overview|Essential SAFe]] or [[portfolio-overview|Portfolio SAFe]]\) that is currently in use in your ServiceNow instance.
+Check the SAFe application \(Essential SAFe or Portfolio SAFe\) that is currently in use in your ServiceNow instance.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -28,7 +28,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Enterprise Agile Planning** &gt; **EAP Configurations**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Enterprise Agile Planning** &gt; **EAP Configurations**.
 
 2.  Activate the EAP configuration that you need and verify that the required work types are allowed.
 
@@ -47,8 +47,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 [Verify table, field, and choice mapping between SAFe and EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/verify-table-field-and-choice-mapping-between-safe-and-eap.md).
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[portfolio-overview|Portfolio SAFe]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

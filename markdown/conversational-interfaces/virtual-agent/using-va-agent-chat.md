@@ -14,16 +14,12 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Using Virtual Agent with a live agent
 
-Sometimes a conversation requires human intervention. When this occurs, you can transfer the user to a live agent in [[ci-use-agent-chat|Agent Chat]].
+Sometimes a conversation requires human intervention. When this occurs, you can transfer the user to a live agent in Agent Chat.
 
 -   **[Transferring Virtual Agent conversations to a live agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/transfer-to-live-agent.md)**  
-Manage live chat support, including the chat support interface used when a [[virtual-agent-landing-page|Virtual Agent]] conversation is transferred to a live agent.
+Manage live chat support, including the chat support interface used when a Virtual Agent conversation is transferred to a live agent.
 -   **[Closing Virtual Agent and Agent Chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-open-conversations.md)**  
 Virtual Agent and Agent Chat conversations that are abandoned by requesters remain open until they are automatically closed by the scheduled job, **Time Out Abandoned VA Conversations**. This job runs hourly each day.
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

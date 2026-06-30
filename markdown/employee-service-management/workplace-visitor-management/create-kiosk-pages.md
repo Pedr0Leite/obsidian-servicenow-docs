@@ -14,7 +14,7 @@ breadcrumb: [Configuring Workplace Visitor Management for Workplace Services Kio
 
 # Configure pages for Workplace Services Kiosk
 
-Configure pages that you want to display for check-in or check-out flows on the [[workplace-services-kiosk|Workplace Services Kiosk]].
+Configure pages that you want to display for check-in or check-out flows on the Workplace Services Kiosk.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **[[page-configurations|Page Configurations]]**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Page Configurations**.
 
 2.  On the Kiosk Page Configurations list, select **New**.
 
-3.  On the [[kiosk-page-config-form|Kiosk Page Configuration form]], fill in the fields.
+3.  On the Kiosk Page Configuration form, fill in the fields.
 
     For a description of the field values, see [Kiosk Page Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-config-form.md).
 
@@ -41,9 +41,3 @@ Pages that have the Authentication or End page type can be further customized by
 
 **Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/config-visitor-for-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[page-configurations|Page configurations]]
-- [[kiosk-page-config-form|Kiosk Page Configuration form]]

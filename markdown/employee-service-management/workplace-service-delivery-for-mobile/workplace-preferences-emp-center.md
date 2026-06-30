@@ -19,18 +19,18 @@ Employees can customize and manage their in-office or workday presence preferenc
 
 ## Before you begin
 
-Employees can reserve a space and get space suggestions based on their preferred locations, neighborhoods, [[workplace-services|workplace services]], and collaborators. Employees can modify or update their workplace preferences as and when required using the In-office preferences option in the mobile app.
+Employees can reserve a space and get space suggestions based on their preferred locations, neighborhoods, workplace services, and collaborators. Employees can modify or update their workplace preferences as and when required using the In-office preferences option in the mobile app.
 
 Make sure you have the following applications:
 
--   [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Service Delivery for Mobile
+-   Workplace Core
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Indoor Mapping
+-   Workplace Central
+-   Workplace Space Management
+-   Workplace Space Mapping
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -48,7 +48,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     Search for preferred workplace services to be added to a reservation if these services are available in a location.\[Omitted image "wsd-mobile-workplace-schedule-add-services.jpeg"\] Alt text: Select and add a workplace services to your in-office preferences.
 
-    **Note:** The option to manage your workplace preferences is also available on the [[employee-center-landing-page|Employee Center]] portal \(**All** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Site safety** &gt; **Workplace Preferences**\). Employees are recommended to use the Workplace Service Delivery for Mobile to manage their hybrid work schedule and reserve a space before coming to office.
+    **Note:** The option to manage your workplace preferences is also available on the Employee Center portal \(**All** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Site safety** &gt; **Workplace Preferences**\). Employees are recommended to use the Workplace Service Delivery for Mobile to manage their hybrid work schedule and reserve a space before coming to office.
 
 4.  Fill in the form fields.
 
@@ -68,7 +68,7 @@ Campus
 
 Campus name. If an employee has a workplace profile, this field value is automatically set to employee's primary location.**Note:** If an employee doesn't have a workplace profile, the Campus, Building, Floor fields are empty. This is a mandatory field information and employees should search for and select their preferred campus from the available list.
 
-Application provides workspace suggestions based on your preferred campus locations. Employee's location preferences are used while searching for a space to [[create-reservation-request-1|create a reservation]].
+Application provides workspace suggestions based on your preferred campus locations. Employee's location preferences are used while searching for a space to create a reservation.
 
 </td></tr><tr><td>
 
@@ -114,24 +114,11 @@ Services
 
 </td><td>
 
-Available workplace services for a reservation and a selected location. Option to add preferred workplace services to a reservation. The employee can search for and select multiple [[standard-service|standard services]] as required. The employee can remove or add available standard services as required. They can search for a new service and add a service if it is available for a selected location. For example, wheel chair, video conferencing, whiteboard, water bottles, projector, furniture, and so on.
+Available workplace services for a reservation and a selected location. Option to add preferred workplace services to a reservation. The employee can search for and select multiple standard services as required. The employee can remove or add available standard services as required. They can search for a new service and add a service if it is available for a selected location. For example, wheel chair, video conferencing, whiteboard, water bottles, projector, furniture, and so on.
 
 </td></tr></tbody>
 </table>5.  Select **Apply**.
 
     You can now manage your workplace schedule and reserve a space using the desk suggestions and presence data. For more information, see [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/manage-schedule-emp-center.md).
 
-## Related
 
-- [[workplace-services|Workplace Services]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[employee-center-landing-page|Employee Center]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[standard-service|Standard services]]

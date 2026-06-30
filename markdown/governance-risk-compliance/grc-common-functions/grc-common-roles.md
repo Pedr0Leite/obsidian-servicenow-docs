@@ -36,7 +36,7 @@ GRC Business User\[sn\_grc.business\_user\]
 
 Role that is a part of the GRC Profiles application. Assign this role to users who require access only to GRC applications for performing their assigned tasks, providing them limited access to data and information relevant to those tasks. For example, assign this role to a business user who must respond to an attestation or risk assessment, or who must remediate an issue.Starting with the 14.x release, the following permissions are available to the users with the sn\_grc.business\_user role:
 
- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]:
+ Policy and Compliance Management:
 
 -   Create issues or view all issues that are assigned to them or their group.
 -   Accept and approve evidence responses.
@@ -57,8 +57,8 @@ Role that is a part of the GRC Profiles application. Assign this role to users w
 -   Assign issues.
 -   Assign remediation tasks.
 -   Assign risk event tasks.
--   Assign [[risk-response|risk response]] tasks.
--   Approve or assess an [[advanced-risk-assessment|advanced risk assessment]].
+-   Assign risk response tasks.
+-   Approve or assess an advanced risk assessment.
 -   Respond to indicator tasks.
 -   Respond to the risk identification questionnaire.
 -   Respond to the metrics data task.
@@ -101,13 +101,13 @@ GRC Business User – Lite \[sn\_grc.business\_user\_lite\]
 
 </td><td>
 
-Role that enables a user to perform only a subset of the tasks that can be performed by the sn\_grc.business\_user. This role is applicable only for customers who are entitled to and have installed the GRC: Business User – Lite application from the ServiceNow Store. Risk Lite Operators are users who have the right to perform only one or more of the listed operations. The users with this role can perform the following activities:-   Read or update the policy acknowledgment, control attestation, take attestation, issues that are assigned to them, remediation task, or [[evidence-request|evidence request]].
+Role that enables a user to perform only a subset of the tasks that can be performed by the sn\_grc.business\_user. This role is applicable only for customers who are entitled to and have installed the GRC: Business User – Lite application from the ServiceNow Store. Risk Lite Operators are users who have the right to perform only one or more of the listed operations. The users with this role can perform the following activities:-   Read or update the policy acknowledgment, control attestation, take attestation, issues that are assigned to them, remediation task, or evidence request.
 -   Report or read the submitted issues, risk events, or policy exceptions.
 
 Risk Management
 
 -   Update issues or view all the issues that are assigned to them or their group.
--   Approve advanced [[risk-assessments|risk assessments]].
+-   Approve advanced risk assessments.
 
 **Note:** To enable lite operators to approve advanced risk assessments, the administrator must manually add the sn\_risk\_advanced.ara\_approver role to GRC: Business User Lite.
 
@@ -207,7 +207,7 @@ GRC Developer\[sn\_grc.developer\]
 
 </td><td>
 
-Role that enables a user to perform script-based work such as write scripted [[factors|factors]], scripted formulae for advanced risk assessment, scripted indicators, and so on in GRC.
+Role that enables a user to perform script-based work such as write scripted factors, scripted formulae for advanced risk assessment, scripted indicators, and so on in GRC.
 
 </td><td>
 
@@ -219,7 +219,7 @@ GRC Confidential User\[sn\_grc.confidential\_user\]
 
 </td><td>
 
-Role that provides a user with access to the GRC [[confidential-records|confidential records]].
+Role that provides a user with access to the GRC confidential records.
 
 </td><td>
 
@@ -227,7 +227,7 @@ None
 
 </td></tr><tr><td>
 
-GRC [[user-hierarchy|User Hierarchy]] Reader \[sn\_grc.user\_hierarchy\_reader\]
+GRC User Hierarchy Reader \[sn\_grc.user\_hierarchy\_reader\]
 
 </td><td>
 
@@ -291,7 +291,7 @@ Document Designer Reader \[sn\_grc\_doc\_design.reader\]
 
 </td><td>
 
-Role that provides a user with read access to the [[ai-reporting-assistant|AI Reporting Assistant]] in Document Designer.
+Role that provides a user with read access to the AI Reporting Assistant in Document Designer.
 
 </td><td>
 
@@ -311,7 +311,7 @@ GRC Employee \[sn\_grc\_emp\_user.grc\_employee\]
 
 </td><td>
 
-Role that is applicable only to customers who are entitled to and have installed the GRC Employee User application from the ServiceNow Store. The users with this role can perform the following activities from [[employee-center|Employee Center]]:
+Role that is applicable only to customers who are entitled to and have installed the GRC Employee User application from the ServiceNow Store. The users with this role can perform the following activities from Employee Center:
 
 -   Read and acknowledge organizational policies.
 -   Report risk events and issues.
@@ -336,15 +336,3 @@ Role that is applicable only to customers who are entitled to and have installed
 
 **Parent Topic:**[Governance, Risk, and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-reference.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-response|risk response]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[evidence-request|Evidence request]]
-- [[risk-assessments|risk assessments]]
-- [[factors|factors]]
-- [[confidential-records|Confidential records]]
-- [[user-hierarchy|User hierarchy]]
-- [[ai-reporting-assistant|AI reporting assistant]]
-- [[employee-center|employee center]]

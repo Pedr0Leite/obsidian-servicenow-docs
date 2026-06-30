@@ -13,7 +13,7 @@ breadcrumb: [Configure, Agentic Contact Center for Banking, Banking applications
 
 # Install Agentic Contact Center for Banking
 
-If you have the admin role, you can install the [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]] application \(app\_fso\_csr\).
+If you have the admin role, you can install the Agentic Contact Center for Banking application \(app\_fso\_csr\).
 
 ## Before you begin
 
@@ -43,11 +43,7 @@ Role required: admin
 
 ## What to do next
 
-Configure Agentic Contact Center for Banking for your workspace. For more information, see [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]].
+Configure Agentic Contact Center for Banking for your workspace. For more information, see [Configuring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-agentic-contact-center-for-banking.md).
 
 **Parent Topic:**[Configuring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-agentic-contact-center-for-banking.md)
 
-## Related
-
-- [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]

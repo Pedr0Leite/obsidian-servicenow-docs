@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Summarize a chat conversation by using Now Assist for IT Service Management \(ITSM\)
 
-Summarize the Virtual Agent chat conversation between a live agent and a requester in [[sow-landing-page|Service Operations Workspace for ITSM]]. You can generate the summary by using the chat summarization skill in [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]].
+Summarize the Virtual Agent chat conversation between a live agent and a requester in Service Operations Workspace for ITSM. You can generate the summary by using the chat summarization skill in Now Assist for IT Service Management \(ITSM\).
 
 ## Before you begin
 
@@ -57,15 +57,10 @@ You can also summarize the chat interaction when the chat ends or when an incide
 
 7.  Select **Save**.
 
-8.  If you think that you need further help after the initial troubleshooting before or after ending the chat, [[create-an-incident|create an incident]] from the interaction by selecting **Create incident**.
+8.  If you think that you need further help after the initial troubleshooting before or after ending the chat, create an incident from the interaction by selecting **Create incident**.
 
     -   When you create an incident before ending the chat, the **Short Description** and **Description** fields of the incident are updated with the interaction summary and saved.
     -   When you create an incident after ending the chat, the following information is generated:
         -   The **Chat summary** field of the interaction is updated with the interaction summary.
         -   The **Short Description** and **Description** fields of the incident are updated with the interaction summary and saved.
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[create-an-incident|Create an incident]]

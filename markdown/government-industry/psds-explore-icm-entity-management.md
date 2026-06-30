@@ -86,8 +86,5 @@ Investigators and supervisors will mainly interact with case entities through th
 
 In the Entity Management form, not every field is mandatory, and is designed to capture as much information as possible, without imposing strict restrictions on the information that can be added. However, each entity record contains a completeness field that tracks whether the record has sufficient data to be searchable within ICM.
 
-An entity is only returned in search results when its completeness field is set to true. Completeness is recalculated automatically whenever relevant fields are updated, ensuring search visibility reflects the current state of the record. To see completeness rules for each entity type, see [[psds-icm-ref-entity-man-completeness-rules|Completeness Rules by Entity Type]].
+An entity is only returned in search results when its completeness field is set to true. Completeness is recalculated automatically whenever relevant fields are updated, ensuring search visibility reflects the current state of the record. To see completeness rules for each entity type, see [Completeness Rules by Entity Type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-entity-man-completeness-rules.md).
 
-## Related
-
-- [[psds-icm-ref-entity-man-completeness-rules|Completeness Rules by Investigative Case Management Entity Type]]

@@ -116,7 +116,7 @@ Template that links a child table with the template for the parent table. In the
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -135,6 +135,3 @@ Template that links a child table with the template for the parent table. In the
 
 [Scripted templates]()
 
-## Related
-
-- [[c_Templates|Using form templates]]

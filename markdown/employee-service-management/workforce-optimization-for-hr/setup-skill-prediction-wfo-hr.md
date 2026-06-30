@@ -14,7 +14,7 @@ breadcrumb: [Configure coaching, Configure, Workforce Optimization overview, HR 
 
 # Setting up skill prediction in Workforce Optimization for HR
 
-Collect skill data based on skills agents have used for case resolution. Use supervised [[exploring-learning-exp|learning]] to recommend these skills for agents to resolve similar open case. You can also find patterns in how skills are used for case resolution and use unsupervised learning to recommend skills for agents.
+Collect skill data based on skills agents have used for case resolution. Use supervised learning to recommend these skills for agents to resolve similar open case. You can also find patterns in how skills are used for case resolution and use unsupervised learning to recommend skills for agents.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Use scripted extension points to customize skill prediction for tasks.
 
 **Parent Topic:**[Configure Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-coaching-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

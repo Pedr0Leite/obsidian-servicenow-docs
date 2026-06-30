@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with WhatsApp \(WhatsApp Cloud API\), In
 
 # Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)
 
-Install and set up the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application to enable requesters to interact with virtual and live agents.
+Install and set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application to enable requesters to interact with virtual and live agents.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ This task provides the general steps to integrate the WhatsApp messaging app wit
 -   **[Install Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-install.md)**  
 Install the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) so that your business can interact with requesters on the WhatsApp app. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 -   **[Set up Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-setup.md)**  
-Set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application so that you can engage requesters in bot conversations. Integrating with ServiceNowVirtual Agent enables you to interact on WhatsApp chat with a [[virtual-agent-landing-page|Virtual Agent]] or Live Agent.
+Set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application so that you can engage requesters in bot conversations. Integrating with ServiceNowVirtual Agent enables you to interact on WhatsApp chat with a Virtual Agent or Live Agent.
 -   **[Set the URL navigation for WhatsApp chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-urlnav.md)**  
 When agents share links in their WhatsApp chat conversations, customize the portal that those links point to. For example, you can configure links to point to your brand’s portal, or to the ServiceNow portal.
 -   **[Closing idle WhatsApp chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-open-conv.md)**  
@@ -52,7 +52,3 @@ You can customize the behavior of the Conversational Integration with WhatsApp \
 
 **Parent Topic:**[Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp.md)
 
-## Related
-
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]
-- [[virtual-agent-landing-page|Virtual Agent]]

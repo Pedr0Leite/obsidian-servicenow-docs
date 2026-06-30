@@ -269,12 +269,12 @@ The global code generated for Web Embeddables includes key identifiers that enab
     -   Enables tracking of multiple embedded component instances that belong to the same module across different pages or contexts.
 -   Page title:
     -   Captures page-level analytics to identify where components are embedded.
-    -   [[gamification-components-tracks|Tracks]] user interactions based on the hosting page context.
+    -   Tracks user interactions based on the hosting page context.
     -   Helps you understand component performance across different external website locations.
 
 ## Enable Usage Insights
 
-Usage Insights is enabled by default for Web Embeddables. When you [[create-we-module|create a module]], it registers with Usage Insights and begins to track component events. Sometimes it can take several hours for the module to get registered. This automatic registration ensures that usage data collection starts from the moment of deployment and allows you to monitor user interactions without additional configuration. For more information, see [Enable Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-user-experience-analytics.md).
+Usage Insights is enabled by default for Web Embeddables. When you create a module, it registers with Usage Insights and begins to track component events. Sometimes it can take several hours for the module to get registered. This automatic registration ensures that usage data collection starts from the moment of deployment and allows you to monitor user interactions without additional configuration. For more information, see [Enable Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-user-experience-analytics.md).
 
 You can also turn off the module by navigating to **Platform Analytics Administration** &gt; **Usage Insights Apps** &gt; **Settings**. Search and select your module, and uncheck the **Active** checkbox.
 
@@ -285,10 +285,5 @@ Users can opt in or opt out of Usage Insights advanced tracking at any time thro
 **Related topics**  
 
 
-[[we-events-detail|Web Embeddables component events]]
+[Web Embeddables component events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-events-detail.md)
 
-## Related
-
-- [[we-events-detail|Web Embeddables component events]]
-- [[gamification-components-tracks|Tracks]]
-- [[create-we-module|Create a module]]

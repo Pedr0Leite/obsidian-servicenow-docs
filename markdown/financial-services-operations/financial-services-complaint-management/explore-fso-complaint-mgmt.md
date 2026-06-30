@@ -14,7 +14,7 @@ breadcrumb: [Complaint Management, Common applications, Financial Services Opera
 
 # Exploring Financial Services Complaint Management
 
-You can use ServiceNow® [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] to manage a streamlined resolution of complaints within the complaint servicing team, or to route to business units \(BUs\) for decisioning and response.
+You can use ServiceNow® Financial Services Complaint Management to manage a streamlined resolution of complaints within the complaint servicing team, or to route to business units \(BUs\) for decisioning and response.
 
 ## Key features
 
@@ -75,7 +75,3 @@ Agents in the middle or back office of financial institutions who work with comp
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

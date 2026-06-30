@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on Drop off and Receive tasks, Delivering enterp
 
 # Record time worked on a Drop off task or Receive task manually
 
-Create an entry for the time worked on a Drop off or a Receive task manually in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Create an entry for the time worked on a Drop off or a Receive task manually in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The Time Worked form is saved and the time card is added to the Time Worked tab 
 
 [Pause a Drop off task or Receive task for enterprise assets]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

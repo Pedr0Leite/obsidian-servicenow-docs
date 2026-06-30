@@ -28,7 +28,7 @@ Data management is critical to success in all aspects of your business. Platform
 
 </td></tr><tr><td>
 
-[Financial Services [[remote-tables|Remote Tables]] \[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text: [[c_Connect|Connect]] your instance on the ServiceNow AI Platform to third-party sources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md)
+[Financial Services Remote Tables \[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text: Connect your instance on the ServiceNow AI Platform to third-party sources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md)
 
 </td><td>
 
@@ -39,17 +39,17 @@ Data management is critical to success in all aspects of your business. Platform
  
 
 </td></tr></tbody>
-</table>## [[instance-data-replication|Instance Data Replication]] \(IDR\)
+</table>## Instance Data Replication \(IDR\)
 
 Keep your records consistent across any instances or organizations in your business. Instance Data Replication lets you transfer data from one producer instance to one or more consumer instances. Bidirectional \(consumer-to-producer\) replication is available with IDR, along with specific data table selection, localization or translation, and other options.
 
 ## MetricBase
 
-Make large data easier to handle with [[metricbase|MetricBase]]. This app summarizes information from larger data sources, and provides time-based records, analytics, and timed or event-based actions. Create graphs of data over time with Reporting to analyze system trends or incidents, or use Workflow Studio to trigger automated data flows.
+Make large data easier to handle with MetricBase. This app summarizes information from larger data sources, and provides time-based records, analytics, and timed or event-based actions. Create graphs of data over time with Reporting to analyze system trends or incidents, or use Workflow Studio to trigger automated data flows.
 
 ## MID Server
 
-Communicate and share data with external servers, databases, and applications. The Java-based Management, Instrumentation, and Discovery \(MID\) Server handles various communications from your instance to third-party systems. Maintain optimum performance with automated upgrades, active server monitoring, and a full troubleshooting knowledge base—all included in the [[mid-server-landing|MID Server]] package.
+Communicate and share data with external servers, databases, and applications. The Java-based Management, Instrumentation, and Discovery \(MID\) Server handles various communications from your instance to third-party systems. Maintain optimum performance with automated upgrades, active server monitoring, and a full troubleshooting knowledge base—all included in the MID Server package.
 
 ## Financial Services Remote Tables
 
@@ -59,10 +59,3 @@ Bring external data into your instance and process it to your specifications wit
 
 Get a standard view of all the data that you work with, using Entity View Action Mapping. The EVAM application enables you to bring multiple data sources together into one view, create templates to map data to UX components, write scripts for triggers based on user interaction, and more.
 
-## Related
-
-- [[remote-tables|Remote tables]]
-- [[c_Connect|Connect]]
-- [[instance-data-replication|Instance Data Replication]]
-- [[metricbase|MetricBase]]
-- [[mid-server-landing|MID Server]]

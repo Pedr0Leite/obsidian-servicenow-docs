@@ -14,7 +14,7 @@ breadcrumb: [3E Protect, 3E, Integration with third-party services, Health and S
 
 # Configure OAuth authentication for the 3E Protect API
 
-Configures the 3E Credentials record and obtains the OAuth access token required to authenticate with the [[hs-3e-protect|3E Protect]] API.
+Configures the 3E Credentials record and obtains the OAuth access token required to authenticate with the 3E Protect API.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The 3E Protect integration uses OAuth 2.0 client credentials to authenticate wit
 
 3.  In the **Credentials** column, open the **3E Credentials** record.
 
-4.  Verify that the **OAuth Entity Profile** field references the correct profile for your [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]] subscription.
+4.  Verify that the **OAuth Entity Profile** field references the correct profile for your 3E Regulatory Intelligence subscription.
 
 5.  Under **Related Links**, select **Get OAuth Token**.
 
@@ -46,7 +46,3 @@ The 3E Protect integration uses OAuth 2.0 client credentials to authenticate wit
 
 **Parent Topic:**[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)
 
-## Related
-
-- [[hs-3e-protect|3E Protect]]
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]

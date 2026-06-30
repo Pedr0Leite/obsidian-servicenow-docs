@@ -26,7 +26,7 @@ If a case task is of type **Assessment**, a case requires the case task owner to
 
 ## Procedure
 
-1.  Navigate to **Self Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **Self Service** &gt; **Employee Center**.
 
 2.  Access your task from the **My tasks** module.
 
@@ -90,6 +90,3 @@ Review a case task after a case task owner provides their responses and observat
 
 **Parent Topic:**[Case task workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/case-task-workflow.md)
 
-## Related
-
-- [[employee-center|employee center]]

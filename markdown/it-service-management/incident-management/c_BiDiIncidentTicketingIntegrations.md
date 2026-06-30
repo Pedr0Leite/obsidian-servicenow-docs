@@ -20,7 +20,7 @@ This integration is more complex than a uni-directional integration because it h
 
 -   Comprehensive definitions of field mappings.
 -   Standardization of where transformations take place: inbound, outbound, or both.
--   Consideration of the ownership of [[reference-for-itsm-mobile-agent|reference]] data.
+-   Consideration of the ownership of reference data.
 -   How updates are performed on an ongoing basis.
 
 Implement error handling. Include all these implementations in the integration plan.
@@ -30,7 +30,7 @@ While bi-directional implementations are developed on their own merits, you can 
 ## Integration plan contents
 
 -   Plan contents for all the aspects needed for a bi-directional integration.
--   State [[c_Models|models]] for each organization.
+-   State models for each organization.
 -   Business rule definitions for keeping the tickets synchronized.
 -   Requirements to store history of individual transactions. If this form of audit is a requirement, consider creating an interface table which is populated prior to creating and updating the destination table.
 -   Transformation rules for all data elements.
@@ -46,12 +46,7 @@ In this implementation, data authentication is done before insertion into the im
 
 An implementation variation for the inbound path would be to use an import set table \(in our example, the Incident Interface table\) to store historical data. Data validation is also done now, and you can clear exceptions with processing or manual intervention. The Incident table uses a Third-Party Information table as a reference, and messages are generated based on business rules.
 
-Implementing this type of integration involves a web-service component for third-party [[dex-workspace-application-tab|applications]] for inbound data. The ECC queue is recommended for outbound data.
+Implementing this type of integration involves a web-service component for third-party applications for inbound data. The ECC queue is recommended for outbound data.
 
 **Parent Topic:**[Incident ticketing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentTicketingIntegrations.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_Models|Models]]
-- [[dex-workspace-application-tab|Applications]]

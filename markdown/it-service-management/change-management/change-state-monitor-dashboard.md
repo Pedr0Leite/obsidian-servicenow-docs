@@ -18,7 +18,7 @@ This workbench dashboard enables you to view and assess all open changes separat
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[change|Change dashboard]] to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change.md) to view, and track the open changes.
 
 \[Omitted image "change-open-changes-state-monitor.png"\] Alt text: Open Changes State Monitor dashboard
 
@@ -50,6 +50,3 @@ Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[
 
 **Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[change|Change dashboard]]

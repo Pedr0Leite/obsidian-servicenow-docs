@@ -14,12 +14,12 @@ breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operation
 
 # Certificate Inventory and Management reference
 
-Reference topics provide additional information about [[cert-inventory-mgmt|Certificate Inventory and Management]] dashboard and components, including tables, patterns, and terms.
+Reference topics provide additional information about Certificate Inventory and Management dashboard and components, including tables, patterns, and terms.
 
 -   **[Certificate Inventory and Management tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-tables.md)**  
-This framework supports security, compliance, and streamlined operations. [[cert-invt-mgmt-tables|Certificate Inventory and Management tables]] provide a centralized system to track and manage digital certificates. They capture key details, including discovered certificates, installation locations, historical data, and associated tasks such as renewals and requests.
+This framework supports security, compliance, and streamlined operations. Certificate Inventory and Management tables provide a centralized system to track and manage digital certificates. They capture key details, including discovered certificates, installation locations, historical data, and associated tasks such as renewals and requests.
 -   **[Certificate Routing Policy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/certificate-routing-policy-form.md)**  
-The [[certificate-routing-policy-field-values|Certificate Routing Policy form]] enables you to configure routing policies for CyberArk Certificate Manager SaaS.
+The Certificate Routing Policy form enables you to configure routing policies for CyberArk Certificate Manager SaaS.
 -   **[Certificate Inventory and Management patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-patterns.md)**  
 Efficiently manage your Certificate Inventory with patterns to streamline the management of digital certificates. Patterns reduce the risk of vulnerabilities by bolstering security, compliance, and efficient lifecycle control.
 -   **[Certificate Inventory and Management terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-terms.md)**  
@@ -27,7 +27,7 @@ The Certificate Inventory Management glossary comprises a set of concise definit
 -   **[Certificate authorities pattern API elements and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ca-api-permission.md)**  
 Explore the Certificate Authorities \(CA\) pattern API elements and permissions for comprehensive insights into the associated functionalities and authorization requirements.
 -   **[Setting Your IP Addresses Form and Fields Table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/setting-up-your-ip-addresses.md)**  
-A table of the fields and values to establish the IP address, range of IP addresses, or list of IP addresses for Certificate [[r-discovery|Discovery]].
+A table of the fields and values to establish the IP address, range of IP addresses, or list of IP addresses for Certificate Discovery.
 -   **[IP-Based Discovery Schedule Form Table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ip-based-cert-discovery-schedule-table.md)**  
 A table of the fields and values to set up an IP-based Certificate Discovery schedule.
 -   **[Quick start test for Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/quick-start-tests-certificate-inventory-and-management.md)**  
@@ -39,9 +39,3 @@ The Request New Certificate \(Automated\) and Renew Certificate \(Automated\) fo
 
 **Parent Topic:**[Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[cert-invt-mgmt-tables|Certificate Inventory and Management tables]]
-- [[certificate-routing-policy-field-values|Certificate Routing Policy form]]
-- [[r-discovery|Discovery]]

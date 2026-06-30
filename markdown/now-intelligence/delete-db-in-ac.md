@@ -25,7 +25,7 @@ Role required: You can delete any dashboard that you created. Users with the adm
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Open the dashboard that you want to delete.
 
@@ -42,10 +42,10 @@ Role required: You can delete any dashboard that you created. Users with the adm
     3.  Select the More actions menu button \[Omitted image "icon-vert-3dot-p.png"\] Alt text: More actions menu icon and choose **Repair**.
     4.  Select **Repair** in the Activate Plugin window.
 
--   **[[delete-db-in-ac-wf|Configure dashboard deletion actions in the Workflow Studio]]**  
+-   **[Configure dashboard deletion actions in the Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac-wf.md)**  
 Using the Workflow Studio, you can add actions to the dashboard deletion process. Actions may include sending an email to the dashboard's users or generating an approval request.
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -66,8 +66,3 @@ Using the Workflow Studio, you can add actions to the dashboard deletion process
 
 [Bookmark a Platform Analytics dashboard]()
 
-## Related
-
-- [[delete-db-in-ac-wf|Configure dashboard deletion actions in the Workflow Studio]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

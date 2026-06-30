@@ -16,7 +16,7 @@ breadcrumb: [ExtraHop, Service Graph Connectors, Integrating third-party data in
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from ExtraHop. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
-**Important:** ServiceNow hosted [[cmdb-integration-extrahop|Service Graph Connector for ExtraHop]] is now deprecated and no longer supported or available for new activation. ExtraHop hosted Service Graph Connector for ExtraHop provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** ServiceNow hosted Service Graph Connector for ExtraHop is now deprecated and no longer supported or available for new activation. ExtraHop hosted Service Graph Connector for ExtraHop provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 The following attributes in the Hardware \[cmdb\_ci\_hardware\] table are populated by collected data:
 
@@ -31,7 +31,7 @@ The following attributes in the Hardware \[cmdb\_ci\_hardware\] table are popula
 |Hardware \[cmdb\_ci\_hardware\]|Owns::Owned by|Network Adapter \[cmdb\_ci\_network\_adapter\]|
 |Hardware \[cmdb\_ci\_hardware\]|Receives data from::Sends data to|Hardware \[cmdb\_ci\_hardware\]|
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -56,7 +56,3 @@ The following attributes in the Network Adapter \[cmdb\_ci\_network\_adapter\] t
 |------------|-----------------|-----------|
 |Network Adapter \[cmdb\_ci\_network\_adapter\]|Reference|Hardware \[cmdb\_ci\_hardware\]|
 
-## Related
-
-- [[cmdb-integration-extrahop|Service Graph Connector for ExtraHop]]
-- [[ip-address|IP Address]]

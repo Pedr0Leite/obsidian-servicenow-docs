@@ -36,7 +36,7 @@ These indicators collect data at a daily frequency. Data is only available for d
 |-------------|--------------|--------------|----------------------|-----------|--------------------|-------------------------|----|---------|
 |Total Conversations by Assistant|Assistant Conversations|Automated|Conversation\[sys\_cs\_conversation\]|Count of conversations|By Context Profiles, Conversation Channels, Conversation State, Assistant|Daily|\#|0|
 |Total Conversations by Channel|Assistant Conversations|Automated|Conversation\[sys\_cs\_conversation\]|Count of conversations|By Context Profiles, Conversation Channels, Conversation State, Assistant|Daily|\#|0|
-|Result Types Offered|Now Assist in [[virtual-agent-landing-page|Virtual Agent]] Results returned|Automated|CI Analytics\[sys\_ci\_analytics\]|Count of [[now-assist-in-va-landing|Now Assist in Virtual Agent]] search results returned|By Now Assist in Virtual Agent Result Type, Assistant|Daily|\#|0|
+|Result Types Offered|Now Assist in Virtual Agent Results returned|Automated|CI Analytics\[sys\_ci\_analytics\]|Count of Now Assist in Virtual Agent search results returned|By Now Assist in Virtual Agent Result Type, Assistant|Daily|\#|0|
 |Conversation State Flow|Assistant Conversations|Automated|Conversation\[sys\_cs\_conversation\]|Count of conversations in each of conversation states: Open, Canceled, Faulted, Completed.|By Context Profiles, Conversation Channels, Conversation State, Assistant|Daily|\#|0|
 
 ## Adoption and Engagement page indicator details
@@ -912,7 +912,7 @@ Daily
 |Total conversations over time|Now Assist Analytics Assistant Ims|Automated|Now Assist Analytics Assistant Ims \[sn\_na\_analytics\_conv\_ims\]|Count of all voice calls|None|Daily|\#|0|
 |AI Voice Agents in use|Now Assist Analytics Insights|Automated|Now Assist Analytics Insights \[sn\_na\_analytics\_insights\]|Count of AI agents where Assistant Type = Voice|None|Daily|\#|0|
 |AI Voice Agents in use over time|Now Assist Analytics Insights|Automated|Now Assist Analytics Insights \[sn\_na\_analytics\_insights\]|Count of AI agents where Assistant Type = Voice|None|Daily|\#|0|
-|Conversations transferred to a live agent|Now Assist Analytics Assistant Ims|Automated|Now Assist Analytics Assistant Ims \[sn\_na\_analytics\_conv\_ims\]|Count of voice calls where [[ci-use-agent-chat|Agent chat]]=true|None|Daily|\#|0|
+|Conversations transferred to a live agent|Now Assist Analytics Assistant Ims|Automated|Now Assist Analytics Assistant Ims \[sn\_na\_analytics\_conv\_ims\]|Count of voice calls where Agent chat=true|None|Daily|\#|0|
 |Number of tickets created|Now Assist Analytics Ims Related Record|Automated|Now Assist Analytics Ims Related Record \[sn\_na\_analytics\_conv\_ims\_related\_record\]|Count of Interaction Related Records where Agent chat = false and Interaction Virtual agent = true and Interaction Type = Phone and Interaction AI Voice = true|None|Daily|\#|0|
 |Conversations disconnected|Now Assist Analytics Assistant Ims|Automated|Now Assist Analytics Assistant Ims \[sn\_na\_analytics\_conv\_ims\]|Count of voice calls where State=Closed Abandoned|None|Daily|\#|0|
 |Immediate live agent transfers|None|None|Single score|Count of conversations where live agent transfer = yes and call duration &lt; 30 secs|None|Daily|\#|0|
@@ -933,8 +933,3 @@ Daily
 |Use of AI agents|
 |Voice AI agent summary|Agent Conversations|Automated|Now Assist Analytics Insights \[sn\_na\_analytics\_insights\]|Count of agents where Assistant Type = Voice and Resolved in \(Yes, No\)\)|None|Daily|\#|0|
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

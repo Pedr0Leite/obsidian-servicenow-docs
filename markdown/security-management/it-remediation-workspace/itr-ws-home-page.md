@@ -31,7 +31,7 @@ The Home page consists of the following cards and list of remediation tasks assi
 
 -   **Preferred solutions on VIs card**
 
-    Number of preferred solutions available to remediate the host vulnerable items. The Solutions list is displayed if the [[vuln-solution-mgmt|Vulnerability Solution Management]] application is installed. This card shows you solution data, potential and preferred solutions, from third-party vendors about your vulnerable items.
+    Number of preferred solutions available to remediate the host vulnerable items. The Solutions list is displayed if the Vulnerability Solution Management application is installed. This card shows you solution data, potential and preferred solutions, from third-party vendors about your vulnerable items.
 
 -   **Impacted CIs card**
 
@@ -53,6 +53,4 @@ The Home page consists of the following cards and list of remediation tasks assi
 
     For more information about what you can do on the home page, see [Use remediation task records in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-remed-task.md).
 
-## Related
 
-- [[vuln-solution-mgmt|Vulnerability Solution Management]]

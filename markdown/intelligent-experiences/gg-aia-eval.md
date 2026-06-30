@@ -13,7 +13,7 @@ breadcrumb: [Explore, Evaluate agentic AI assets, Now Assist AI agents, Enable A
 
 # General guidelines for agentic AI asset evaluation
 
-Learn about agentic evaluation runs and different recommendations for evaluating your agentic [[ai-assets|AI assets]] against [[ai-datasets|datasets]] to check for completion, performance, and tool execution.
+Learn about agentic evaluation runs and different recommendations for evaluating your agentic AI assets against datasets to check for completion, performance, and tool execution.
 
 ## Overview of agentic evaluation runs
 
@@ -27,11 +27,11 @@ Run agentic evaluations at key points in your development and maintenance cycle 
 
 -   **Run after you have manually tested basic execution**
 
-    Before running an automated evaluation, manually test the execution of an [[test-ai-agent|AI agent]] or [[test-aia-use-case|agentic workflow]]. Manual testing helps you identify obvious issues and verify that the basic functionality works before investing time in automated evaluation.
+    Before running an automated evaluation, manually test the execution of an [AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) or [agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md). Manual testing helps you identify obvious issues and verify that the basic functionality works before investing time in automated evaluation.
 
 -   **Run agentic evaluations when you make significant changes**
 
-    After making updates to the agentic workflow, [[execute-aia-eval|execute an agentic evaluation run]] to track the efficacy of the new version. This includes changes to [[ai-prompts|prompts]] and tool [[exploring-ai-governance|configurations]] that might affect performance.
+    After making updates to the agentic workflow, execute an agentic evaluation run to track the efficacy of the new version. This includes changes to prompts and tool configurations that might affect performance.
 
 -   **Run evaluations before deploying to production**
 
@@ -81,7 +81,7 @@ Create targeted datasets that represent the scenarios and data your agentic AI a
 
 -   **Include diverse scenarios in your dataset**
 
-    Create datasets that include various scenarios your agentic AI assets might encounter, including edge [[cases|cases]] and error conditions. Comprehensive datasets help identify potential issues before they affect users.
+    Create datasets that include various scenarios your agentic AI assets might encounter, including edge cases and error conditions. Comprehensive datasets help identify potential issues before they affect users.
 
 -   **Maintain dataset quality and relevance**
 
@@ -125,13 +125,4 @@ Follow these general guidelines to maximize the value of your agentic evaluation
 
     Periodically review and validate your evaluation methods to ensure they continue to provide meaningful insights. Update methods as your agentic AI assets evolve and requirements change.
 
-## Related
 
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[ai-prompts|Prompts]]
-- [[exploring-ai-governance|Configurations]]
-- [[cases|Cases]]

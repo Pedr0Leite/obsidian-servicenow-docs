@@ -14,7 +14,7 @@ breadcrumb: [Migration from ITSM Agent Workspace to Service Operations Workspace
 
 # Create a basic authentication configuration to migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Authenticate the Table API that the [[migration-utility|migration utility]] uses to perform creation, updating, and deletion of records.
+Authenticate the Table API that the migration utility uses to perform creation, updating, and deletion of records.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ This configuration must contain the credentials of the user who is logged in and
 
 **Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migration-from-itsm-aw-sow.md)
 
-## Related
-
-- [[migration-utility|Migration Utility]]

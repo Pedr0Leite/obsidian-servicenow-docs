@@ -22,13 +22,13 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]** &gt; **Select Lists view icon** \(\[Omitted image "icon-list-menu-icw.png"\] Alt text:\).
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Select Lists view icon** \(\[Omitted image "icon-list-menu-icw.png"\] Alt text:\).
 
-2.  From the list of breakdowns, select the breakdown task for which you want to initiate the [[industrial-root-cause-analysis|root cause analysis]].
+2.  From the list of breakdowns, select the breakdown task for which you want to initiate the root cause analysis.
 
 3.  Select the three-dot menu in the top corner and select **Start breakdown analysis**.
 
-4.  On the [[breakdown-analysis-form|Breakdown analysis form]], fill in the field Description and change other fields as needed.
+4.  On the Breakdown analysis form, fill in the field Description and change other fields as needed.
 
     For a description of the field values, see [Root cause analysis form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/root-cause-analysis-form.md).
 
@@ -56,7 +56,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 10. After you're done with this step, select **Mark complete**.
 
-    The Follow-up actions page opens, where you can [[create-follow-up-action|create a follow-up action]] as a consequence of this event.
+    The Follow-up actions page opens, where you can create a follow-up action as a consequence of this event.
 
 11. To create a follow-up action, select **Create New Follow-up Action** and fill in the fields.
 
@@ -81,9 +81,3 @@ The state of the analysis moves to Closed and the record is displayed in **Lists
 
 **Parent Topic:**[Breakdown Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/breakdown-analysis.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[breakdown-analysis-form|Breakdown analysis form]]
-- [[create-follow-up-action|Create a follow-up action]]

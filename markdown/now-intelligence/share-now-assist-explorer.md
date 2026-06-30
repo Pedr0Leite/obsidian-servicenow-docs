@@ -26,7 +26,7 @@ Participants \(shared with editing rights\) in an exploration can work together 
 
 1.  Launch AI Data Explorer.
 
-    See [[launch-now-assist-explorer|Launch AI Data Explorer]].
+    See [Launch AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md).
 
 2.  Create or open the exploration that you want to work on with others.
 
@@ -76,9 +76,5 @@ Grant editing rights to the users you are sharing the exploration with. They are
 
 You can add or remove users to share the exploration with. You can also change the rights of the users who you have shared the exploration with.
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]

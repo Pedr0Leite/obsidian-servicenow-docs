@@ -18,8 +18,8 @@ Troubleshoot connectivity and alarm ingestion issues.
 
 Refer to the following topics for troubleshooting:
 
--   [[verify-connectivity|Verify connectivity for LogRhythm]]
--   [[script-execution-logrhythm|Script execution and system log for LogRhythm]]
+-   Verify connectivity for LogRhythm
+-   Script execution and system log for LogRhythm
 
 -   **[Verify connectivity for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-connectivity.md)**  
 Verify your connection to the LogRhythm Client Console by sending curl requests to test the LogRhythm REST API. The verification process is optional.
@@ -32,7 +32,3 @@ If you are troubleshooting an alarm ingestion issue, you can override the defaul
 
 **Next topic:**[Verify connectivity for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-connectivity.md)
 
-## Related
-
-- [[verify-connectivity|Verify connectivity for LogRhythm]]
-- [[script-execution-logrhythm|Script execution and system log for LogRhythm]]

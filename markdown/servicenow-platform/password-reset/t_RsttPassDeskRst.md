@@ -14,7 +14,7 @@ breadcrumb: [Enrolling in the Password Reset application to reset your password,
 
 # Reset your password on Windows systems
 
-If your organization uses the [[win-password-reset-overview|Password Reset Windows Application]], you can reset your password directly from your Windows login screen.
+If your organization uses the Password Reset Windows Application, you can reset your password directly from your Windows login screen.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: none
         -   You can enter a new password and click **Reset password** to reset the password and unlock the account.
         -   If your administrator has selected **Enable account unlock** for the password process, you can unlock the account without resetting the password by clicking **Unlock account**.
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]

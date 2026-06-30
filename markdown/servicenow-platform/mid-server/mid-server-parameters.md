@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server parameters
 
-Parameters control the behavior of a particular [[mid-server-landing|MID Server]] and have lower precedence than [[r_MIDServerProperties|MID Server properties]].
+Parameters control the behavior of a particular MID Server and have lower precedence than MID Server properties.
 
 <table id="table_ibb_fsf_khb"><tbody><tr><td>
 
@@ -125,7 +125,7 @@ Parameters control the behavior of a particular [[mid-server-landing|MID Server]
     -   Default: Path to the JRE trustStore bundled with the MID Server
 -   **mid.instance.skip\_basic\_auth**
 
-    Allows the MID Server to [[c_Connect|connect]] to an instance using cookies instead of basic authentication credentials. When set to **true**, it uses cookies first. However, if the connection fails, the MID Server will try to connect again using basic authentication credentials.
+    Allows the MID Server to connect to an instance using cookies instead of basic authentication credentials. When set to **true**, it uses cookies first. However, if the connection fails, the MID Server will try to connect again using basic authentication credentials.
 
     -   Type: true \| false
     -   Default value: true
@@ -1166,8 +1166,4 @@ Role required: admin
 
     **Note:** The sample file here is from a Firefox browser. Conventional text editors, such as Notepad, WordPad, or TextEdit, do not display colors and variable fonts.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]
-- [[c_Connect|Connect]]

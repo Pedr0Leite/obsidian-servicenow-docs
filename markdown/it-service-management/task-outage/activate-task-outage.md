@@ -26,7 +26,7 @@ The Task-Outage Relationship plugin creates a many-to-many relationship between 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -40,7 +40,7 @@ The Task-Outage Relationship plugin creates a many-to-many relationship between 
 
 
 -   **[Components installed with Task-Outage Relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-outage/components-instld-with-task-outage.md)**  
-The [[task-outage|Task Outage]] table is installed with activation of the Task-Outage Relationship plugin \(com.snc.task\_outage\).
+The Task Outage table is installed with activation of the Task-Outage Relationship plugin \(com.snc.task\_outage\).
 
 **Parent Topic:**[Task Outage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-outage/task-outage.md)
 
@@ -49,7 +49,3 @@ The [[task-outage|Task Outage]] table is installed with activation of the Task-O
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[task-outage|Task Outage]]

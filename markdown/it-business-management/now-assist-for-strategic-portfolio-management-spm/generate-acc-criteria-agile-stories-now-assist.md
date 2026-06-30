@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # Generate acceptance criteria for stories in Agile Development 2.0
 
-Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in [[agile-landing-page|Agile Development 2.0]]. Review and refine suggested options to ensure they meet your requirements.
+Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in Agile Development 2.0. Review and refine suggested options to ensure they meet your requirements.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ For an Agile 2.0 story, you can generate acceptance criteria by selecting **Gene
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Stories**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Stories**.
 
 2.  Open your story record.
 
@@ -64,7 +64,3 @@ For an Agile 2.0 story, you can generate acceptance criteria by selecting **Gene
 
 [Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/skill-inputs-for-now-assist-for-spm.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

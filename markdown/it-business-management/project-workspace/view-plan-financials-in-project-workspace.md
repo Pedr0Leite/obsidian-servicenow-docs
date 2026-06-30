@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # View forecasts and manage financial plans for a project in classic Project Workspace
 
-Use the **Financials** tab in [[project-workspace-landing-page|Project Workspace]] to capture the costs and benefits of a project.
+Use the **Financials** tab in Project Workspace to capture the costs and benefits of a project.
 
 **Important:**
 
@@ -102,6 +102,3 @@ Configure a widget to view and track the financial metrics of a project on the *
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

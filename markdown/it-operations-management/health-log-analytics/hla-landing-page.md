@@ -17,7 +17,7 @@ breadcrumb: [ITOM AIOps, IT Operations Management]
 
 The ServiceNow® Health Log Analytics application helps prevent IT issues before your users are affected. It helps you identify the root cause of an issue by enabling you to triage related logs and analyze the raw data.
 
-Health Log Analytics collects raw log data streaming into your instance and structures textual data into key-value pairs. It detects meaningful patterns in the data, and when it discovers an anomaly, it sends an event to the [[c_EM|Event Management]] application.
+Health Log Analytics collects raw log data streaming into your instance and structures textual data into key-value pairs. It detects meaningful patterns in the data, and when it discovers an anomaly, it sends an event to the Event Management application.
 
 Health Log Analytics is available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/06a71b1367e4130051c9027e2685ef1e/1.6.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DPatterns&sl=sh).
 
@@ -62,11 +62,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 </td></tr></tbody>
 </table>## Health Log Analytics licensing
 
-The ServiceNow AI Platform® uses a licensing method where your organization is billed for using Health Log Analytics, which is available as a separate license from [[itom-health-landing-page|ITOM AIOps]]. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]].
+The ServiceNow AI Platform® uses a licensing method where your organization is billed for using Health Log Analytics, which is available as a separate license from ITOM AIOps. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-landing-page.md).
 
 ## Dependencies
 
-For a list of Health Log Analytics plugin dependencies, see [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]].
+For a list of Health Log Analytics plugin dependencies, see [Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md).
 
 ## Troubleshoot and get help
 
@@ -74,9 +74,3 @@ For a list of Health Log Analytics plugin dependencies, see [[plugin-app-itom-he
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]]
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]

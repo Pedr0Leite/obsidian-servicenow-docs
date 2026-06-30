@@ -154,7 +154,7 @@ Allocation spread
 
 </td><td>
 
-Type of hard allocation. The value in this field determines the manner in which the allocated hours are spread while creating hard allocations. Select either option:-   **Even**: Create [[c_ResourceEvents|resource events]] for the resource by splitting the hours evenly across all working days for the allocation duration.
+Type of hard allocation. The value in this field determines the manner in which the allocated hours are spread while creating hard allocations. Select either option:-   **Even**: Create resource events for the resource by splitting the hours evenly across all working days for the allocation duration.
 -   **Front load**: Create resource events for the resource by filling up all available slots of the resource from the start date of the allocation.
 
  For example, if a resource is requested for 30 hours in Week 10:
@@ -204,12 +204,7 @@ Hourly rate of resource that overrides the hourly rate returned from the rate mo
 </table>**Note:** The **Members Preference**, **Allocation spread**, and **State** fields are not available by default on the form when opened from the resource grid. If required, you can configure these fields. If the resource plan is created from the list view, the fields are already available.
 
 -   **[Resource Plan form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form-tabs.md)**  
-Use the [[rsrc-plan-form-tabs|resource plan form tabs]] to [[t_CreateResourcePlanProjectTask|create a resource plan]].
+Use the resource plan form tabs to create a resource plan.
 
 **Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[c_ResourceEvents|Resource events]]
-- [[rsrc-plan-form-tabs|Resource Plan form tabs]]
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]

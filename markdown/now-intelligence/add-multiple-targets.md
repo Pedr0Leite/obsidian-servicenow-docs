@@ -12,7 +12,7 @@ breadcrumb: [Targets and thresholds, KPI Details, Platform Analytics experience,
 
 # Add a target to multiple breakdown elements in KPI Details
 
-Select multiple breakdown elements in the [[kpi-details|KPI Details]] target configuration panel. Add the same target to each element. This target can be an improvement on a baseline instead of an absolute value.
+Select multiple breakdown elements in the KPI Details target configuration panel. Add the same target to each element. This target can be an improvement on a baseline instead of an absolute value.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Role required: pa\_admin, pa\_target\_admin, pa\_power\_user, or admin
 
     **Tip:** If you have many elements to scroll through, sort or filter on a value in any of the columns. You can also click **Filter** and use the condition builder to narrow down the selection.
 
-7.  Set targets for the elements as described in Step [[edit-multiple-targets|7]] in [Edit multiple targets in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md).
+7.  Set targets for the elements as described in Step [7](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md) in [Edit multiple targets in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md).
 
 8.  Set a start date, when the targets come into effect, and a review date.
 
@@ -108,7 +108,7 @@ Here is a table with the targets you created and their values. All targets take 
 |Assignment Group: Technical Services Support|50|
 |Assignment Group: Financial Systems Support|43|
 
-**Parent Topic:**[[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md)
 
 **Related topics**  
 
@@ -123,8 +123,3 @@ Here is a table with the targets you created and their values. All targets take 
 
 [Responsibility for indicator targets]()
 
-## Related
-
-- [[edit-multiple-targets|Edit multiple targets in KPI Details]]
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
-- [[kpi-details|KPI Details]]

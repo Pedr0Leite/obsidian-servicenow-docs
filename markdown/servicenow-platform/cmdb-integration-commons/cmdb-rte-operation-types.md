@@ -16,7 +16,7 @@ breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMD
 
 The Robust Transform Engine \(RTE\) operation types are common operation methods for use in ETL without having to write your own complex data transformations.
 
-The following operation types are available in the [[integration-commons-for-cmdb|Integration Commons for CMDB]] app.
+The following operation types are available in the Integration Commons for CMDB app.
 
 ## Concatenation
 
@@ -263,7 +263,7 @@ Additional fields
 </td><td>
 
 -   **decimal\_places** \(optional, number\) : Forces the output to have a specified number of decimal places.
--   **remainder\_target\_field** \(optional, [[reference|reference]] to field\): Set to the trimmed remainder of the source field, after removing the first numeric value.
+-   **remainder\_target\_field** \(optional, reference to field\): Set to the trimmed remainder of the source field, after removing the first numeric value.
 
 </td></tr></tbody>
 </table>|Input|Result|
@@ -919,7 +919,3 @@ Output field
 |-----|------|
 |"      value1    "|"VALUE1"|
 
-## Related
-
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[reference|Reference]]

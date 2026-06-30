@@ -14,12 +14,9 @@ breadcrumb: [Incident Communications Management, IT Service Management]
 
 # Configuring Incident Communications Management
 
-Configure [[c_IncidentAlertManagement|Incident Communications Management]] to create and manage communications related to major business issues or incidents.
+Configure Incident Communications Management to create and manage communications related to major business issues or incidents.
 
 ## Configuration overview
 
 Configure Incident Communications Management by installing and activating the Incident Communications Management \(com.snc.iam\) plugin.
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

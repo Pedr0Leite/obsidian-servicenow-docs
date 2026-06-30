@@ -34,7 +34,7 @@ When a project task is deleted, the members in the corresponding Slack channel o
 
 ## Deletion of the project channel or team
 
-If the channel is deleted in the Slack application, or the team is deleted in the Microsoft Teams application, the PPM Collaboration application does not handle the deletion of the project's reference in the Entity Channel \[sn\_collab\_common\_entity\_channel\] table automatically. So, the project manager cannot see the **Enable Slack Collaboration** or **Enable MS Teams Collaboration** related link on the [[create-a-project-form|project form]] again.
+If the channel is deleted in the Slack application, or the team is deleted in the Microsoft Teams application, the PPM Collaboration application does not handle the deletion of the project's reference in the Entity Channel \[sn\_collab\_common\_entity\_channel\] table automatically. So, the project manager cannot see the **Enable Slack Collaboration** or **Enable MS Teams Collaboration** related link on the project form again.
 
 If the project manager wants to create a channel or team again for this project, administrator must manually delete the project's reference from the Entity Channel table. Then, the related link to enable collaboration appears on the project form.
 
@@ -45,6 +45,3 @@ If the project manager wants to create a channel or team again for this project,
 
 [Collaborate with your project teams using PPM Collaboration application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-collab-overview.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

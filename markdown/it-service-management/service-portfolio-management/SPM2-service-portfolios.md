@@ -20,13 +20,13 @@ A service portfolio presents an overall top-level view of your currently availab
 
 Gain valuable knowledge about your service portfolios, including an overall performance score and estimated spend. This knowledge helps you budget for your services and make informed decisions about adding new services and retiring services that no longer benefit your business.
 
-Think of a service portfolio as a container that holds a hierarchical organization of definable nodes, services, and service offerings. Taxonomy in [[SPM2-landing-page|Service Portfolio Management]] refers to the classification of your portfolio layers and associated services \(legacy portfolios use layers; see the **Note**\). Typically, taxonomy is structured from a general, high-level perspective to a specific level, such as a service offering. With this dynamic taxonomy structure, you can organize your service portfolios in various ways.
+Think of a service portfolio as a container that holds a hierarchical organization of definable nodes, services, and service offerings. Taxonomy in Service Portfolio Management refers to the classification of your portfolio layers and associated services \(legacy portfolios use layers; see the **Note**\). Typically, taxonomy is structured from a general, high-level perspective to a specific level, such as a service offering. With this dynamic taxonomy structure, you can organize your service portfolios in various ways.
 
 ## Standard and legacy portfolio structures
 
 Prior to the Utah release, Service Portfolio Management provided one portfolio structure. With the Utah release and after, existing customers can move from the legacy structure to the improved standard structure by opting in via a system property.
 
-As an existing customer, opting in to the standard portfolio structure upgrades all your service portfolios. Your existing portfolios remain intact, but [[perf-metrics-mob|performance metrics]], scores, and weights are no longer available. With the improved standard service portfolios, you can use key performance indicator \(KPI\) groups in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to report on services, nodes, and portfolio performance.
+As an existing customer, opting in to the standard portfolio structure upgrades all your service portfolios. Your existing portfolios remain intact, but performance metrics, scores, and weights are no longer available. With the improved standard service portfolios, you can use key performance indicator \(KPI\) groups in Digital Portfolio Management \(DPM\) to report on services, nodes, and portfolio performance.
 
 The standard portfolio structure provides new features and capabilities for your service portfolios so that you can:
 
@@ -56,7 +56,7 @@ Don't opt in — keep legacy service portfolios
 
 </td><td>
 
--   Layered records are required, so you assign nodes to a layer and then [[reference-for-itsm-mobile-agent|reference]] the parent/child node.
+-   Layered records are required, so you assign nodes to a layer and then reference the parent/child node.
 -   Report using portfolio performance metrics, scores, and weights from Service Owner Workspace \(and not KPI groups from DPM\).
 
 </td></tr></tbody>
@@ -84,9 +84,3 @@ As a portfolio\_admin user, you can create a single service portfolio or multipl
 
 **Parent Topic:**[Exploring Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/c_ServicePortfolioManagementv2.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

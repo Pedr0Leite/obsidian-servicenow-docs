@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Assessable Records**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Assessable Records**.
 
 2.  Open a record from the list.
 
@@ -42,7 +42,7 @@ Name
 
 </td><td>
 
-\[Read-Only\] Assessable record name based on the [Select a field as the table display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectTheDisplayValue.md) of the source record. The name appears on [[c_AssessmentQuestionnaires|assessment questionnaires]].
+\[Read-Only\] Assessable record name based on the [Select a field as the table display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectTheDisplayValue.md) of the source record. The name appears on assessment questionnaires.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Live feed
 
 </td><td>
 
-[[check-box|Check box]] that, when selected, creates a Live Feed group for the assessable record, which appears on the scorecard. If you clear the check box after a Live Feed group has been created, the system deletes the Live Feed group and all its messages.
+Check box that, when selected, creates a Live Feed group for the assessable record, which appears on the scorecard. If you clear the check box after a Live Feed group has been created, the system deletes the Live Feed group and all its messages.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Decision matrix
 
 </td><td>
 
-Check box that, when selected, enables this assessable record's results data to appear on [[r_AdministerDecisionMatrixes|decision matrixes]] of the same metric type. Decision matrixes are graphs that plot the [[r_AssessmentResults|assessment results]] for multiple assessable records. If you clear the check box, the assessable record still appears on the default decision matrixes if you click the **View Matrix** related link on the assessable record's scorecard.
+Check box that, when selected, enables this assessable record's results data to appear on decision matrixes of the same metric type. Decision matrixes are graphs that plot the assessment results for multiple assessable records. If you clear the check box, the assessable record still appears on the default decision matrixes if you click the **View Matrix** related link on the assessable record's scorecard.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Category
 
 </td><td>
 
-All metric categories associated with the assessable record. An assessable record must be associated to a category to be evaluated. Click **Edit** to add or remove category associations. Note that it is often more efficient to [[r_ManageAssessablRecordAssociation|associate assessable records]] to categories using the [[metric-category-form|Metric Category form]].
+All metric categories associated with the assessable record. An assessable record must be associated to a category to be evaluated. Click **Edit** to add or remove category associations. Note that it is often more efficient to [associate assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ManageAssessablRecordAssociation.md) to categories using the Metric Category form.
 
 </td></tr><tr><td>
 
@@ -114,28 +114,16 @@ Category users
 
 </td><td>
 
-All stakeholders who can take assessment questionnaires about this assessable record. Click **Edit** to create and delete stakeholders. For more information about this and other methods of creating stakeholders, see [[r_CategoryUsersAndStakeholders|Stakeholders]]. This related list is available only when the associated metric type has the **Scheduled** schedule type.
+All stakeholders who can take assessment questionnaires about this assessable record. Click **Edit** to create and delete stakeholders. For more information about this and other methods of creating stakeholders, see [Stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md). This related list is available only when the associated metric type has the **Scheduled** schedule type.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_assessable-records|Assessable records]]
+**Parent Topic:**[Assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md)
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
 [Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[c_assessable-records|Assessable records]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[check-box|Check box]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[r_AssessmentResults|Assessment results]]
-- [[metric-category-form|Metric Category form]]

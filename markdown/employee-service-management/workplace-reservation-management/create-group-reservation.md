@@ -30,7 +30,7 @@ For example, if you are reserving four workplaces for four different employees. 
 
 ## Procedure
 
-1.  Navigate to the [[reservation-portal|Make a Reservation]] page from any of the following starting points.
+1.  Navigate to the Make a Reservation page from any of the following starting points.
 
 <table id="choicetable_ewc_11d_vrb"><thead><tr><th align="left" id="d548998e73">
 
@@ -46,15 +46,15 @@ Steps
 
 </td><td>
 
-Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d548998e106">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
-1.  Navigate to Employee Center \(**All** &gt; **Self-service** &gt; **Employee Center\)**\). On the home page, navigate to **[[workplace-services|Workplace Services]]** &gt; **Browse all Workplace Services**.
+1.  Navigate to Employee Center \(**All** &gt; **Self-service** &gt; **Employee Center\)**\). On the home page, navigate to **Workplace Services** &gt; **Browse all Workplace Services**.
 2.  Select **New general Reservation**.
 
 
@@ -83,7 +83,7 @@ Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Manag
 
     **Note:** You can select a space using **Card view**, **Map view** or **Schedule view**.
 
-    Map view displays workspace on a floor map. Make sure that you have configured [[Indoor-mapping|Indoor Mapping]] as your map provider.
+    Map view displays workspace on a floor map. Make sure that you have configured Indoor Mapping as your map provider.
 
 5.  Select the workplace item that you want to reserve using any of the following options.
 
@@ -161,10 +161,3 @@ The group reservation is created. You can view the reservation details on the Re
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[Indoor-mapping|Indoor Mapping]]

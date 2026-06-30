@@ -14,7 +14,7 @@ breadcrumb: [Non-disclosure agreement requests in Legal Simple Contracts, Reques
 
 # Submit a legal request for a NDA
 
-[[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]] with third parties such as vendors, customers, or partners.
+Submit a legal request for a non-disclosure agreement with third parties such as vendors, customers, or partners.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Employee Center**
 2.  Select **Legal** &gt; **Browse all Legal** from the header.
 3.  Search for and open the **Non-disclosure agreement** request item.
 
@@ -169,7 +169,3 @@ List of people from the selected third-party who would sign the agreement.
 
 **Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-nda.md)
 
-## Related
-
-- [[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]]
-- [[employee-center-landing-page|Employee Center]]

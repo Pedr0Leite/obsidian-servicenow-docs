@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Facebook Messenger, Integrate VA wi
 
 # Configure Conversational Integration with Facebook Messenger
 
-Install and set up the [[messg-fbm|Conversational Integration with Facebook Messenger]] application to enable your users to interact with virtual and live agents.
+Install and set up the Conversational Integration with Facebook Messenger application to enable your users to interact with virtual and live agents.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Set up and configure Conversational Integration with Facebook Messenger \(Legacy
 
 **Parent Topic:**[Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm.md)
 
-## Related
-
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]

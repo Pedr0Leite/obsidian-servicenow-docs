@@ -49,14 +49,14 @@ Each option in a choice list is defined with a column label and a value. For exa
 5.  Press the Enter key to execute the search.
 
 
-**Parent Topic:**[[c_UseLists|Lists in the classic environment]]
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 **Related topics**  
 
 
 [Enable text searches](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TextSearchesInRecordLists.md)
 
-[[c_PersonalLists|Personal lists]]
+[Personal lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md)
 
 ## Available list search wildcards
 
@@ -129,7 +129,7 @@ Search for values that start end with search-term.
 Search for values that don't equal search-term.
 
 </td></tr></tbody>
-</table>**Note:** [[onboarding-modals-reference|Reference]] fields support a different set of wildcard operators. For details on using wildcards to search reference field auto-complete values, see [Auto-complete for reference fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AutoCompleteForReferenceFields.md).
+</table>**Note:** Reference fields support a different set of wildcard operators. For details on using wildcards to search reference field auto-complete values, see [Auto-complete for reference fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AutoCompleteForReferenceFields.md).
 
 **Related topics**  
 
@@ -219,8 +219,4 @@ Role required: admin
     |---------|-----------|
     |**goto\_use\_starts\_with=true**|Changes the default search behavior to use the starts with operator for a specific field. Applying starts with to a non-text field returns any data starting with that search, which can cause performance degradation.|
 
-## Related
 
-- [[c_UseLists|Lists in the classic environment]]
-- [[c_PersonalLists|Personal lists]]
-- [[onboarding-modals-reference|Reference]]

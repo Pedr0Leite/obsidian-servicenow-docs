@@ -14,7 +14,7 @@ breadcrumb: [Reference, Process Mining, Platform Analytics]
 
 # Project definition form
 
-Use the Project definition form to [[create-project|create a project]].
+Use the Project definition form to create a project.
 
 <table id="table_bsh_kb3_3yb"><thead><tr><th>
 
@@ -142,6 +142,3 @@ The PAR dashboard \[par\_dashboard\] associated with this project. Select an exi
 </td></tr></tbody>
 </table>**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-reference.md)
 
-## Related
-
-- [[create-project|Create a project]]

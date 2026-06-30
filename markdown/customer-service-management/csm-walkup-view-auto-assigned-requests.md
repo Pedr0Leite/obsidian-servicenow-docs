@@ -12,7 +12,7 @@ breadcrumb: [Manage queues and interactions, Using Walk-up Experience, Customer 
 
 # Manage automatically assigned Walk-up Experience interactions
 
-Technicians supporting CSM Walk-up Experience locations can view and manage interactions automatically pushed to the [[csm-workspaces-configure|CSM Configurable Workspace]] inbox.
+Technicians supporting CSM Walk-up Experience locations can view and manage interactions automatically pushed to the CSM Configurable Workspace inbox.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_csm\_walkup.walkup\_technician
 
 Walk-up Experience interactions can be automatically pushed to a personal inbox in CSM Configurable Workspace based on agent schedules and assignment rule configurations in the Advanced Work Assignment feature. Technicians fulfill interactions on a first-come-first-served basis as they appear in the inbox.
 
-To manually assign and manage interactions using the CSM Walk-up Experience Technician modules found in the application navigator, refer to [[csm-walkup-view-assigned-requests|Manage Walk-up Experience interactions manually]].
+To manually assign and manage interactions using the CSM Walk-up Experience Technician modules found in the application navigator, refer to [Manage Walk-up Experience interactions manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-view-assigned-requests.md).
 
 Technicians set a status in the CSM Configurable Workspace inbox to indicate readiness to accept interactions. Status choices are **Available**, **Away**, and **Offline**.
 
@@ -30,7 +30,7 @@ Even though interactions are automatically pushed to the walk-up inbox, agents c
 
 View walk-up queue interactions assigned to you automatically in your walk-up inbox or in your **My Assigned Walk-ups** list. You can also view all **Open - Unassigned** interactions for the queue you support.
 
-With CSM Configurable Workspace you can view [[migration-lists|lists]] of all your related walk-up interactions and appointments, your cases, customer accounts and contacts, incidents, requests, and more using one convenient interface. The Walk-up Experience related interaction list includes the following items:
+With CSM Configurable Workspace you can view lists of all your related walk-up interactions and appointments, your cases, customer accounts and contacts, incidents, requests, and more using one convenient interface. The Walk-up Experience related interaction list includes the following items:
 
 <table id="table_x1b_z4b_qdb"><thead><tr><th>
 
@@ -69,7 +69,7 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 </td></tr></tbody>
 </table>## Procedure
 
-1.  To begin supporting a walk-up queue guest, [[csm-workspaces-open|open CSM Configurable Workspace]].
+1.  To begin supporting a walk-up queue guest, open CSM Configurable Workspace.
 
 2.  Select **Inbox** and ensure your status is set to **Available**.
 
@@ -77,7 +77,7 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
 3.  Select the interaction at the top of the list and begin resolving the issue or fulfilling the request.
 
-    When you create an associated case, a **New Case** tab opens next to the **Details** tab of the original interaction. Fill out the new [[r_CustomerServiceCaseForm|case form]]. Select **Save** to save the new case.
+    When you create an associated case, a **New Case** tab opens next to the **Details** tab of the original interaction. Fill out the new case form. Select **Save** to save the new case.
 
     If an interaction requires an unusual amount of time to resolve or fulfill, you can place the interaction on hold. The requester does not lose position in the queue and you can help another requester simultaneously. Placing an interaction on hold does not affect your capacity for new interactions.
 
@@ -93,10 +93,4 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
     Closing an interaction affects your capacity and can result in new interactions being pushed to your inbox.
 
-## Related
 
-- [[csm-walkup-view-assigned-requests|Manage Walk-up Experience interactions manually]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

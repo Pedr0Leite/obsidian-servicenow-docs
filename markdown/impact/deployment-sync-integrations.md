@@ -28,18 +28,12 @@ This integration is configured on the production controller instance only. Deplo
 
 The Update set integration automatically synchronizes update set scan results from developer instances to all Production instances registered in My SN Instances when a scan is marked complete. Optionally, enable summary scan synchronization to keep update set summaries in sync across instances.
 
-**Note:** The Update set integration requires the `admin` role, not the Scan Engine-specific roles used by other integrations. My SN Instances registration and authentication must be complete before configuring this integration. See [[register-your-instance|Register your instance]].
+**Note:** The Update set integration requires the `admin` role, not the Scan Engine-specific roles used by other integrations. My SN Instances registration and authentication must be complete before configuring this integration. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
--   **[[aes-aemc-integration-properties|Configure AES/AEMC integration properties]]**  
+-   **[Configure AES/AEMC integration properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/aes-aemc-integration-properties.md)**  
 Configure the AES/AEMC integration to enforce automated Scan Engine compliance checks on custom app deployment requests from App Engine Studio and ServiceNow Studio.
--   **[[update-set-integration|Configure update set integration]]**  
+-   **[Configure update set integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/update-set-integration.md)**  
 Configure the update set integration to automatically synchronize update set scan results from developer instances to the production instance.
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[aes-aemc-integration-properties|Configure AES/AEMC integration properties]]
-- [[update-set-integration|Configure update set integration]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]

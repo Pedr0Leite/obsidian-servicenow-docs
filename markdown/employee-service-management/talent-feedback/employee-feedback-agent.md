@@ -14,13 +14,13 @@ breadcrumb: [Using Talent Feedback, Talent Feedback, Growth Experiences, HR Serv
 
 # Using Employee feedback collection AI agent
 
-As a manager, use the Employee feedback collection AI agent to collect feedback and track feedback requests. This agent recommends collaborators from [[emp-slate-employee-profile|Employee Profile]], [[egd-employee-growth-developemnt-suite|Growth Experiences]] apps, journeys from [[employee-journey-management|Employee Journey Management]], and also suggests frequent collaborators from Microsoft Graph.
+As a manager, use the Employee feedback collection AI agent to collect feedback and track feedback requests. This agent recommends collaborators from Employee Profile, Growth Experiences apps, journeys from Employee Journey Management, and also suggests frequent collaborators from Microsoft Graph.
 
 Role required: sn\_mh.manager\_hub\_user
 
 **Note:**
 
--   For the Employee feedback collection agent to work, you need to have the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin which will install Now Assist for Talent and HR Talent AI Agent Collection.
+-   For the Employee feedback collection agent to work, you need to have the Now Assist for HR Service Delivery \(HRSD\) plugin which will install Now Assist for Talent and HR Talent AI Agent Collection.
 -   To enable Microsoft Graph suggestions you must configure the Microsoft Exchange Online and the Look up Relevant Users action.
 
 <table id="table_qz2_z22_1fc"><thead><tr><th>
@@ -45,17 +45,9 @@ Employee feedback collection AI agent
 
 </td><td>
 
--   The **Employee feedback collection AI agent** helps managers gather feedback efficiently from key colleagues. It identifies relevant collaborators based on Talent Development applications, journeys, and interaction patterns in Microsoft, automates feedback requests with reminders, and leverages existing [[employee-center-landing-page|Employee Center]] To-Dos to deliver feedback requests to providers and manage the process seamlessly.
--   The **Employee feedback collection AI agent** enables managers select scenario-specific feedback templates to improve the relevance and actionability of the feedback collected. These templates configured by an admin using the Platform Surveys tool. Managers can review a summarized view of a reportee’s recent feedback and navigate to the Feedback page in [[manager-hub-overview|Manager Hub]] to view all feedback received for any employee.
+-   The **Employee feedback collection AI agent** helps managers gather feedback efficiently from key colleagues. It identifies relevant collaborators based on Talent Development applications, journeys, and interaction patterns in Microsoft, automates feedback requests with reminders, and leverages existing Employee Center To-Dos to deliver feedback requests to providers and manage the process seamlessly.
+-   The **Employee feedback collection AI agent** enables managers select scenario-specific feedback templates to improve the relevance and actionability of the feedback collected. These templates configured by an admin using the Platform Surveys tool. Managers can review a summarized view of a reportee’s recent feedback and navigate to the Feedback page in Manager Hub to view all feedback received for any employee.
 
 </td></tr></tbody>
 </table>There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[egd-employee-growth-developemnt-suite|Growth Experiences]]
-- [[employee-journey-management|Employee Journey Management]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]

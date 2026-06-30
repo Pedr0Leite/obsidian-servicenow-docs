@@ -14,7 +14,7 @@ breadcrumb: [Execute work in PPM, Agile 2.0, and SAFe, Portfolio Planning in Str
 
 # View error logs
 
-[[view-error-logs-in-ppw|View error logs]] to understand the cause of any issues that might have occurred during the integration process.
+View error logs to understand the cause of any issues that might have occurred during the integration process.
 
 ## Before you begin
 
@@ -22,11 +22,8 @@ Role required: sn\_align\_core.apw\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Integrations**.
 
 2.  To view the error logs, select the **Integrations Errors** tab.
 
-## Related
 
-- [[view-error-logs-in-ppw|View error logs]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

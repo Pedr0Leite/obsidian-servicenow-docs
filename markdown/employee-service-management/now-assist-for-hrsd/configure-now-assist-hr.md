@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 # Configure Now Assist for HR Service Delivery \(HRSD\)
 
-If you have the admin role, you can configure the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application so that your agents can use the generative AI capabilities in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] and Core UI.
+If you have the admin role, you can configure the Now Assist for HR Service Delivery \(HRSD\) application so that your agents can use the generative AI capabilities in Agent Workspace for HR Case Management and Core UI.
 
 Role required: sn\_hr\_core.admin
 
@@ -71,7 +71,7 @@ Get a quick overview of the skill inputs and triggers for Now Assist for HR Serv
 -   **[RCA approvals for Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/run-rca-now-assist-hrsd.md)**  
 After you install Now Assist for HR Service Delivery \(HRSD\), you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 -   **[Restrict Now Assist capabilities for employee relations cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/restrict-now-assist-skills-er-cases.md)**  
-Restrict the Now Assist capabilities for your [[hr-case-employee-relations|employee relations]] cases and define the availability.
+Restrict the Now Assist capabilities for your employee relations cases and define the availability.
 -   **[Customize the Now Assist for HRSD skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/customize-nahr-skill.md)**  
 Customize a Now Assist skill so you can experiment with skill settings and configure the skill to fit your business needs.
 -   **[Configure attachment summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configue-attachment-summary.md)**  
@@ -79,28 +79,19 @@ Customize the case summarization skill in Now Assist for HRSD to include summari
 -   **[Configure resolution notes generation for Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/resolution-notes-nacm-config.md)**  
 Configure the resolution notes generation skill to create concise summaries of case resolutions and enable agents to use the Now Assist context menu to elaborate or shorten the notes.
 -   **[Configure sensitivity detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/config-na-sd-filters.md)**  
-[[config-na-sd-filters|Configure sensitivity detection]] in the Now Assist for HR Service Delivery \(HRSD\) application.
+Configure sensitivity detection in the Now Assist for HR Service Delivery \(HRSD\) application.
 -   **[Configure Gen AI Virtual Agent for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/use-genai-ec.md)**  
 Enable your requesters to have a streamlined, conversational experience that is based on generative AI as they submit a catalog item request in Virtual Agent. By offering this generative AI experience, your organization can increase self-service and reduce operating costs.
 -   **[Configure the Now Assist for HRSD Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/config-va-topics.md)**  
-Complete the configuration steps to enable your employees place requests to the Human Capital Management \(HCM\) system using the [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]] in [[employee-center-landing-page|Employee Center]].
+Complete the configuration steps to enable your employees place requests to the Human Capital Management \(HCM\) system using the Now Assist for HRSD Virtual Agent topics in Employee Center.
 -   **[Configure HCM AI agents from the HR Service Delivery AI Agent Collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-hcm-agents.md)**  
 Enable your employees to place requests to the Human Capital Management \(HCM\) system using the Now Assist for HR Service Delivery \(HRSD\) agent collection.
 -   **[Configure HR AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-voice-agents.md)**  
 Enable employees to complete tasks, resolve issues, and access information through a conversational experience.
 -   **[Configure manager insights for Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/config-manager-insights.md)**  
-Configure the manager insights skill in Now Assist for HRSD to generate a summary of team data in [[manager-hub-overview|Manager Hub]].
+Configure the manager insights skill in Now Assist for HRSD to generate a summary of team data in Manager Hub.
 -   **[Configure Now Assist for HR - Galileo Inside](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configuring-galileo-inside.md)**  
 Enable users to access functionality and benefits of the Now Assist for HR - Galileo Inside \[sn\_hr\_na\_galileo\] plugin by completing a short installation and configuration process.
 
 **Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[config-na-sd-filters|Configure sensitivity detection]]
-- [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]

@@ -21,14 +21,10 @@ The Open requests widget displays a list of open requests including healthcare-r
 ## Key features
 
 -   Displayed only for a logged-in user with the personal information completed.
--   By default, shows maximum of two records from the application case table that extends the Healthcare case \[sn\_hcls\_case\] table in ascending order by the date created. Examples for the application case table include the Procedure request \[sn\_previsit\_procedure\_request\] table available with the [[pre-visit-mgmt-app|Pre-Visit Management]] application and the Enrollment case \[sn\_patientservice\_enroll\_case\] table available with the [[pss-app|Patient Support Services]] application.
+-   By default, shows maximum of two records from the application case table that extends the Healthcare case \[sn\_hcls\_case\] table in ascending order by the date created. Examples for the application case table include the Procedure request \[sn\_previsit\_procedure\_request\] table available with the Pre-Visit Management application and the Enrollment case \[sn\_patientservice\_enroll\_case\] table available with the Patient Support Services application.
 -   Shows all the pending and closed requests in the respective sections when a user clicks **View all** on the widget.
 
 The Open requests widget does not include instance options.
 
 **Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]
-- [[pss-app|Patient Support Services]]

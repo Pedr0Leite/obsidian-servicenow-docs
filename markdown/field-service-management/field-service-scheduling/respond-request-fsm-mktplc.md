@@ -14,7 +14,7 @@ breadcrumb: [Allowing contractors to bid on work orders and tasks, Scheduling an
 
 # Respond to a request on Field Service Marketplace
 
-Respond to or decline requests on [[fsm-marketplace|Field Service Marketplace]].
+Respond to or decline requests on Field Service Marketplace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_mktplace\_core.mktplace\_fulfiller
 
 Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
-Fulfilling requests on Field Service Marketplace is only available via the Mobile experience. This requires the [[wot-fsc|Field Service Contractor for mobile]] plugin \(com.snc.fsm\_ext\_mobile\).
+Fulfilling requests on Field Service Marketplace is only available via the Mobile experience. This requires the Field Service Contractor for mobile plugin \(com.snc.fsm\_ext\_mobile\).
 
 ## Procedure
 
@@ -66,7 +66,3 @@ After responding or accepting, the requestor decides who to award the task to. I
 
 Wait for the request window to close. If you want to withdraw from the request, see [Withdraw from a request on Field Service Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/withdraw-fsm-marketplace.md).
 
-## Related
-
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[wot-fsc|Field Service Contractor for mobile]]

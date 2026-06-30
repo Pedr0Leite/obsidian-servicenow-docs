@@ -14,15 +14,15 @@ breadcrumb: [Employee Relations, Case and Knowledge Management, HR Service Deliv
 
 # Employee Relations integration with Universal Request and Legal Investigations
 
-Employees can submit complaints through the [[employee-center-landing-page|Employee Center]] portal without worrying about who should investigate the complaint. During the triaging or investigation process, fulfillers working on these issues can transfer them back and forth between the Legal and HR departments as necessary for resolution.
+Employees can submit complaints through the Employee Center portal without worrying about who should investigate the complaint. During the triaging or investigation process, fulfillers working on these issues can transfer them back and forth between the Legal and HR departments as necessary for resolution.
 
 ## Better together solutions
 
-Use [[legal-investigations-landing-page|Legal Investigations]] and [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] with [[ur-landing-limitedaccess|Universal Request]] together for the following key features:
+Use Legal Investigations and HR Service Delivery Employee Relations with Universal Request together for the following key features:
 
--   Omni-channel modes for submitting complaints via the Employee Center portal, and [[arc-portal|Anonymous Report Center \(ARC\)]] portal.
+-   Omni-channel modes for submitting complaints via the Employee Center portal, and Anonymous Report Center \(ARC\) portal.
 -   Single triaging queue for all complaints through Universal Request.
--   Inter-departmental transfer of case details between [[legal-management-overview|Legal Service Delivery]] Legal Investigations and HR Service Delivery Employee Relations.
+-   Inter-departmental transfer of case details between Legal Service Delivery Legal Investigations and HR Service Delivery Employee Relations.
 
 Complete the necessary configurations to start using the integration. See [Set up Legal Investigations with HR Service Delivery Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/integrate-lsd-hrsd.md).
 
@@ -40,12 +40,4 @@ Use case explaining how routing agents, legal fulfillers, and HR agents can use 
 
     The HR ticket is closed and a legal ticket is created which is handled by a legal agent.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[legal-management-overview|Legal Service Delivery]]

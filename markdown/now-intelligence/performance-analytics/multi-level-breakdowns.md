@@ -14,7 +14,7 @@ breadcrumb: [Configure fundamentals, Performance Analytics \(Indicator data sour
 
 # Data snapshots and multiple breakdowns
 
-The Data snapshots feature in [[c_performanceAnalyticsAndReporting|Platform Analytics]] allows for multiple breakdowns while analyzing your indicators \(KPIs\). This architecture uses a change data capture \(CDC\) process, which captures data changes from configurable tables that are optimized for generating scores and time series at run-time.
+The Data snapshots feature in Platform Analytics allows for multiple breakdowns while analyzing your indicators \(KPIs\). This architecture uses a change data capture \(CDC\) process, which captures data changes from configurable tables that are optimized for generating scores and time series at run-time.
 
 Classic Performance Analytics calculates multiple breakdowns applied to an indicator through a matrix. Mathematically, the number of calculations increases geometrically with the number of breakdowns. Practically, this approach limits you to a maximum of two breakdowns that can be applied to an indicator simultaneously.
 
@@ -26,14 +26,14 @@ The Data snapshots feature does not use breakdown matrixes. Thanks to the use of
 -   Domain-separated instances are not supported.
 -   To get Data snapshots and enable multiple levels of breakdown, activate the Data Snapshots \(com.snc.pa.mlb\) plugin. A Performance Analytics subscription and the admin role are required. If you have Australia Patch 3 or later, the plugin is installed automatically on qualified instances.
 -   Consider testing the Data snapshots feature in a development environment before activating it on a production instance.
--   To convert classic [[c_Indicators|Performance Analytics indicators]] to Data snapshots, check whether the indicator supports Data snapshots. Then [[activate-unlimited-breakdowns|activate Data snapshots]] for the indicator if it does. For more information, see [Activate Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/activate-unlimited-breakdowns.md).
--   Only [[par-workspace|Platform Analytics experience]] components \(Data visualizations, [[kpi-details|KPI Details]]\) support Data snapshots. You cannot show more than two levels of breakdowns in Core UI components like PA [[widgets|widgets]] and the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+-   To convert classic Performance Analytics indicators to Data snapshots, check whether the indicator supports Data snapshots. Then activate Data snapshots for the indicator if it does. For more information, see [Activate Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/activate-unlimited-breakdowns.md).
+-   Only Platform Analytics experience components \(Data visualizations, KPI Details\) support Data snapshots. You cannot show more than two levels of breakdowns in Core UI components like PA widgets and the Analytics Hub.
 -   Data snapshots collection jobs may result in increased storage use by Performance Analytics. The jobs copy subsets of the source tables and store every daily change for related records.
 
 The following indicators support the Data snapshots feature:
 
--   [[automated-indicators|Automated indicators]] that do not use scripted aggregations \(non-scripted indicators\).
--   [[formula-indicators|Formula indicators]] with only non-scripted, automated [contributing indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md)
+-   Automated indicators that do not use scripted aggregations \(non-scripted indicators\).
+-   Formula indicators with only non-scripted, automated [contributing indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md)
 -   Formula indicators that contain other formula indicators, provided that ultimately the underlying indicators are non-scripted, automated indicators.
 
 If an indicator does not support Data snapshots, the reasons appear in a warning on the indicator's record page.
@@ -71,9 +71,9 @@ Several features of indicators and breakdowns are not supported with Data snapsh
 -   **[Data snapshots sources and collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/tables-unlimited-breakdowns.md)**  
 Data snapshots include data sources for indicator score collection and the mapping between indicators and these sources.
 -   **[Create a Data snapshots automated indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-ds-automated-indicator.md)**  
-To analyze the performance of a business process that is recorded in a ServiceNow table, use an automated indicator. If you have Data snapshots enabled on your instance, you can [[create-ds-automated-indicator|create a Data snapshots automated indicator]].
+To analyze the performance of a business process that is recorded in a ServiceNow table, use an automated indicator. If you have Data snapshots enabled on your instance, you can create a Data snapshots automated indicator.
 -   **[Create a Data snapshots formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-ds-formula-ind.md)**  
-[[t_CreateAFormulaIndicator|Create a formula indicator]] to calculate a score from two or more Data snapshots indicators.
+Create a formula indicator to calculate a score from two or more Data snapshots indicators.
 -   **[Deactivate Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/deactivate-mlb-for-indicator.md)**  
 You can turn Data snapshots off or back on for an indicator, provided that indicator supports Data snapshots. An admin can turn the feature off for an instance.
 -   **[Data snapshots jobs and tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/ds-jobs-tables.md)**  
@@ -81,16 +81,3 @@ Several types of components are installed with activation of the Data snapshots 
 
 **Parent Topic:**[Configure Performance Analytics fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWidgetsAndDashboards.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[activate-unlimited-breakdowns|Activate Data snapshots]]
-- [[par-workspace|Platform Analytics experience]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[create-ds-automated-indicator|Create a Data snapshots automated indicator]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]

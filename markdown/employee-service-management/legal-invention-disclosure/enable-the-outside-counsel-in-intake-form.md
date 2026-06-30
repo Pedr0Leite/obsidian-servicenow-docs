@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Enable Outside Counsel to be added to Legal Invention Disclosure matters
 
-Enable outside counsels to be added to matters related to [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request.
+Enable outside counsels to be added to matters related to Legal Invention Disclosure request.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: sn\_lg\_ip.patent\_config, sn\_lg\_matter.matter\_config
 
 **Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

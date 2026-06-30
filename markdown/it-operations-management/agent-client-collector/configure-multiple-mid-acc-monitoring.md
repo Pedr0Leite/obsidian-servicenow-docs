@@ -14,7 +14,7 @@ breadcrumb: [Configure a MID Server to work with ACC Monitoring, ACC deployment 
 
 # Configure multiple MID Servers to work with Agent Client Collector Monitoring
 
-Connect agents to multiple MID Servers to enable [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] functionality. Multiple MID Servers can support each other with load balancing and domain separation.
+Connect agents to multiple MID Servers to enable Agent Client Collector Monitoring functionality. Multiple MID Servers can support each other with load balancing and domain separation.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When configuring multiple MID Servers, use the same port for all MID Servers. Us
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **MID Servers**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **MID Servers**.
 
 2.  Select the check boxes corresponding to the MID Servers you want to connect to your agent.
 
@@ -39,7 +39,3 @@ When configuring multiple MID Servers, use the same port for all MID Servers. Us
 
 A confirmation window appears, indicating that the selected MID Servers are connected to the agent.
 
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[acc-landing-page|Agent Client Collector]]

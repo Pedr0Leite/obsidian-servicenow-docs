@@ -18,11 +18,11 @@ Learn more about generative AI concepts and how to integrate third-party generat
 
 ## Generative AI Controller overview
 
-Complex algorithms and deep learning models learn patterns and use that knowledge to generate new outputs. With [[generative-ai-controller|Generative AI Controller]], you can generate content directly within the ServiceNow AI Platform.
+Complex algorithms and deep learning models learn patterns and use that knowledge to generate new outputs. With Generative AI Controller, you can generate content directly within the ServiceNow AI Platform.
 
 Generative AI Controller integrates with external LLMs, including ones by OpenAI, Azure OpenAI, Google Cloud \(AI Studio and Vertex\), BM watsonx, and Amazon Bedrock. These capabilities are available in Workflow Studio flows, Virtual Agent topics, and scripting like background scripts and business rules.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Generative AI Controller benefits
 
@@ -32,7 +32,7 @@ Generative AI Controller integrates with external LLMs, including ones by OpenAI
 
 ## Get started with Generative AI Controller
 
--   The Generative AI Controller application is installed with any [[platform-now-assist-landing|Now Assist application]].
+-   The Generative AI Controller application is installed with any [Now Assist application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 -   Sign up and create an account with a generative AI provider.
     -   To sign up with OpenAI, go to their [official platform website](https://platform.openai.com/).
     -   To get started with Azure OpenAI, go to their [documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart).
@@ -42,8 +42,3 @@ Generative AI Controller integrates with external LLMs, including ones by OpenAI
     -   To get started with Amazon Bedrock, [set up an IAM user with the correct permissions](https://repost.aws/knowledge-center/create-access-key) and then [explore the Converse API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html).
 -   [Configure credentials for your preferred AI service provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configuring-api-credentials-for-generative-ai-capabilities.md) for the Generative AI Controller capabilities.
 
-## Related
-
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[generative-ai-controller|Generative AI Controller]]

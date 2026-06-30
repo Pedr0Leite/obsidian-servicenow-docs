@@ -14,7 +14,7 @@ breadcrumb: [Using breakdowns on dashboards, Indicator breakdowns, Configure fun
 
 # Showing breakdown relations on dashboards
 
-A breakdown widget can display 1st level breakdown elements that are related to the element selected for the dashboard. The widget must be on a breakdown dashboard, and that dashboard must include the [[breakdown-sources|breakdown sources]] of the related breakdowns.
+A breakdown widget can display 1st level breakdown elements that are related to the element selected for the dashboard. The widget must be on a breakdown dashboard, and that dashboard must include the breakdown sources of the related breakdowns.
 
 **Note:** You cannot select more than one element on the dashboard for a widget that shows breakdown relations.
 
@@ -28,7 +28,7 @@ Consider an indicator such as Number of open incidents. This indicator uses the 
 
 Now consider a widget that displays the Number of open incidents indicator scores grouped by Location. You set the widget to follow an element selected in a breakdown dashboard. Now you must select which of the breakdown relations to follow.
 
-\[Omitted image "bkdown-scorecard-widget-w-bkdown-rel.png"\] Alt text: Form for creating a breakdown widget with an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] visualization showing the choice of breakdown relations to follow
+\[Omitted image "bkdown-scorecard-widget-w-bkdown-rel.png"\] Alt text: Form for creating a breakdown widget with an Analytics Hub visualization showing the choice of breakdown relations to follow
 
 **Important:** The **Followed breakdown relation** menu works only when the **Scorecard** visualization is selected. To allow the user to follow breakdown relations with other visualizations, select **Show visualization selector** on the widget form.
 
@@ -51,7 +51,7 @@ If you edit the widget to display the Parent Location instead of the Child Locat
 
 [Add breakdown sources to a dashboard]()
 
-[Configure [[widgets|widgets]] for breakdown dashboards]()
+[Configure widgets for breakdown dashboards]()
 
 [Showing multiple elements separately or aggregated]()
 
@@ -61,8 +61,3 @@ If you edit the widget to display the Parent Location instead of the Child Locat
 
 [Create a scorecard visualization for a breakdown widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-scorecard-widget.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]

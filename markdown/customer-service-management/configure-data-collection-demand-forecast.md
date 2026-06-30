@@ -16,7 +16,7 @@ Define the data you want to collect for cases, interactions, or any table to for
 
 ## Before you begin
 
-You must have the MetricBase plugin \[com.snc.clotho\] enabled to use [[explore-demand-forecast-configurable-wfo-cs|Demand Forecast in Workforce Optimization for Customer Service]]. For more information, see [Requesting the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
+You must have the MetricBase plugin \[com.snc.clotho\] enabled to use Demand Forecast in Workforce Optimization for Customer Service. For more information, see [Requesting the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
 
 **Note:**
 
@@ -27,13 +27,13 @@ Role required: sn\_agent\_forecast.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configurable-wfo-cs|Workforce Optimization for Customer Service]]** &gt; **Demand Forecast**.
+1.  Navigate to **All** &gt; **Workforce Optimization for Customer Service** &gt; **Demand Forecast**.
 
 2.  Define the data you want to collect for forecasting agents to resolve cases.
 
     1.  Select **Data Collection Definitions**.
 
-        See the [[components-installed-configurable-wfo-cs|Forecast Configuration table in Scheduling]] for the list of configurations that are available by default.
+        See the [Forecast Configuration table in Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) for the list of configurations that are available by default.
 
     2.  Select **New**.
     3.  On the form, fill in the fields:
@@ -162,16 +162,10 @@ Formula to calculate the forecasted number of agents that you need.In the Relate
 
 Run the **Collect historical data for demand forecast data collection definitions** scheduled job. For more information, see [Schedule jobs for Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md).
 
-**Parent Topic:**[[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-demand-forecast-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
 [Use Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md)
 
-## Related
-
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]
-- [[explore-demand-forecast-configurable-wfo-cs|Demand Forecast in Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

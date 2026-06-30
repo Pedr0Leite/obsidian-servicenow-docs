@@ -35,13 +35,13 @@ Copy is not a substitute for split or reassign. Copying creates an independent n
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[rsrc-mgmt-wrkspc|Resource Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu and open a resource card.
 
 3.  Select the row context menu \(\[Omitted image "icon-row-context-menu.png"\] Alt text: Three vertical dots icon for row context menu.\) for the required task and select **Copy resource assignment**.
 
-    Copy [[pw-resource-assignment-form|Resource Assignment form]] opens with values inherited from the source assignment.
+    Copy Resource Assignment form opens with values inherited from the source assignment.
 
 4.  Review and update the inherited fields as needed, including the date range and allocated effort.
 
@@ -56,7 +56,3 @@ A new resource assignment is created. The source assignment is unchanged.
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[pw-resource-assignment-form|Resource assignment form]]

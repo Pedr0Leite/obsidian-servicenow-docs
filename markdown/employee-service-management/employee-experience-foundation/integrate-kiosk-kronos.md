@@ -14,15 +14,15 @@ breadcrumb: [Employee Center Pro Kiosk, Employee Center Integrations, Unified Em
 
 # Integrate with the UKG spoke
 
-Integrate with the UKG spoke to use the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] in your organization.
+Integrate with the UKG spoke to use the Employee Center Pro Kiosk in your organization.
 
 ## Before you begin
 
 Activate the following plugins in their required versions or later versions to use the Employee Center Pro kiosk.
 
--   Activate [[employee-center-pro-landing|Employee Center Pro]] plugin version 31.0.4 \(sn\_ex\_sp\_pro\).
--   [[activate-employee-profile|Activate Employee Profile]] plugin version 11.0.3 \(sn\_employee\).
--   Activate the [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]] plugin \(sn\_hr\_ukg\).
+-   Activate Employee Center Pro plugin version 31.0.4 \(sn\_ex\_sp\_pro\).
+-   Activate Employee Profile plugin version 11.0.3 \(sn\_employee\).
+-   Activate the HR Service Delivery with Ultimate Kronos Group plugin \(sn\_hr\_ukg\).
 
 **Note:** Installation of the HR Service Delivery with Ultimate Kronos Group plugin \(com.sn\_hr\_ukg\) provides a default setup of the UKG spoke.
 
@@ -49,9 +49,3 @@ Map the employee IDs between the UKG system and the Employee Center Pro Kiosk to
 
 **Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[activate-employee-profile|Activate Employee Profile]]
-- [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]]

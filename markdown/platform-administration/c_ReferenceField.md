@@ -12,7 +12,7 @@ breadcrumb: [Reference, Field administration, Forms, fields, and lists, Configur
 
 # Reference field type
 
-A [[reference-email-admin|reference]] field stores a reference to a field on another table. For example, the **Caller** field on the Incident table is a reference to the User \[sys\_user\] table.
+A reference field stores a reference to a field on another table. For example, the **Caller** field on the Incident table is a reference to the User \[sys\_user\] table.
 
 When you define a reference field, the system creates a relationship between the two tables. Adding a reference field to a form makes the other fields in the referenced table available to the form.
 
@@ -33,6 +33,3 @@ Administrators can create new reference fields and configure several options for
 
 **Tip:** For troubleshooting information, see the [Reference field is not showing the expected display value when selected or it appears blank \[KB0693859\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0693859) article in the Now Support Knowledge Base.
 
-## Related
-
-- [[reference-email-admin|Reference]]

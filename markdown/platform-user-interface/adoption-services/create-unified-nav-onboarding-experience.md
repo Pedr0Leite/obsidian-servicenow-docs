@@ -14,7 +14,7 @@ breadcrumb: [Configure, Onboarding modals, Adoption services, Configure user exp
 
 # Create an onboarding modal
 
-Create your own [[next-experience-onboarding|onboarding modals]] to introduce your users to a new experience or application.
+Create your own onboarding modals to introduce your users to a new experience or application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adoption-services|Adoption Services]]** &gt; **Create Guidance**.
+1.  Navigate to **All** &gt; **Adoption Services** &gt; **Create Guidance**.
 
 2.  To create your onboarding modal, do the following:
 
@@ -40,7 +40,7 @@ Role required: admin
 
     2.  Select **Submit**.
 
-3.  To [[launch-onboarding-modal|launch an Onboarding modal]] once created, do the following:
+3.  To launch an Onboarding modal once created, do the following:
 
     1.  Create a client script in UIB.
 
@@ -60,7 +60,7 @@ Role required: admin
 
     9.  Select **Save**.
 
-4.  To create [[embedded-help|embedded help]] guidance steps, do the following:
+4.  To create embedded help guidance steps, do the following:
 
     1.  Select your guidance from the Guidances list.
 
@@ -139,7 +139,7 @@ The guidance that this Help Guidance Step applies to.
 
     2.  On the Help Contents related list, select **New**.
 
-    3.  **Note:** [[c_FormFields|Form fields]] are different for each type of guidance. Refer to the correct form for your guidance.
+    3.  **Note:** Form fields are different for each type of guidance. Refer to the correct form for your guidance.
 
         On the text form, fill in the fields.
 
@@ -365,10 +365,3 @@ The question is Mandatory when selected.
 
 **Parent Topic:**[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-onboarding-modals.md)
 
-## Related
-
-- [[next-experience-onboarding|Onboarding modals]]
-- [[adoption-services|Adoption services]]
-- [[launch-onboarding-modal|Launch an Onboarding Modal]]
-- [[embedded-help|Embedded Help]]
-- [[c_FormFields|Form fields]]

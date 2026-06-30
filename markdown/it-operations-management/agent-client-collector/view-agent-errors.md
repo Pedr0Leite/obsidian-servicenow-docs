@@ -14,7 +14,7 @@ breadcrumb: [Collect data from your system devices, ACC deployment - shared betw
 
 # View agent errors
 
-[[acc-landing-page|Agent Client Collector]] \(ACC\) errors are visible in logs related to the agent and the ServiceNow instance. This feature provides improved visibility of agent errors, enabling faster error resolution.
+Agent Client Collector \(ACC\) errors are visible in logs related to the agent and the ServiceNow instance. This feature provides improved visibility of agent errors, enabling faster error resolution.
 
 ## Before you begin
 
@@ -141,6 +141,3 @@ A reference to the **ecc\_queue** record that was processed and triggered the er
 
 If an error causes an agent's registration to fail, the agent's **Status** column displays **Registration Failure** on the Agent Client Collectors page \(**All** &gt; **Agent Client Collector** &gt; **Agents**\).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

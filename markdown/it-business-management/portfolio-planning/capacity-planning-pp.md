@@ -23,7 +23,7 @@ Analyzing the Capacity Planning screen, you can easily:
 -   Effectively forecast the supply of resources and the demand of work in your portfolio.
 -   Understand and get an overview of the resource capacity allocations by using the color indicators.
 -   Plan for resources with specific skills or roles for future assignments.
--   View the [[r_AllocatingResources|resource allocation]] health instantly with the new intuitive user interface that gives you a detailed breakdown of portfolio duration by month having over allocations.
+-   View the resource allocation health instantly with the new intuitive user interface that gives you a detailed breakdown of portfolio duration by month having over allocations.
 
     \[Omitted image "cp-capacity-planning-screen.png"\] Alt text: Capacity Planning screen.
 
@@ -33,7 +33,7 @@ Analyzing the Capacity Planning screen, you can easily:
     -   Resources grouped by primary attributes.
 -   The bottom tray of the screen displays:
     -   Prioritized planning items.
-    -   Interactive [[c_GanttChart|Gantt chart]] for the duration of planning items.
+    -   Interactive Gantt chart for the duration of planning items.
 
         You can click a Gantt chart bar to see the capacity for that specific planning item only.
 
@@ -43,7 +43,3 @@ Analyzing the Capacity Planning screen, you can easily:
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[c_GanttChart|Gantt chart]]

@@ -14,41 +14,24 @@ breadcrumb: [Sales Customer Relationship Management]
 
 Reference topics provide additional information about the Sales Customer Relationship Management applications.
 
--   **[[som-rest-apis|Sales Customer Relationship Management REST APIs]]**  
+-   **[Sales Customer Relationship Management REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-rest-apis.md)**  
 Sales Customer Relationship Management \(Sales CRM\) APIs provide endpoints to create and manage Sales CRM entities such as leads, quotes, and orders from external systems.
--   **[[reference-lead-opportunity-mgt|Lead and opportunity management reference]]**  
-Reference for [[lead-opportunity-landing|lead and opportunity management]] applications.
--   **[[reference-cpq|Configure, price, quote reference]]**  
+-   **[Lead and opportunity management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-opportunity-mgt.md)**  
+Reference for lead and opportunity management applications.
+-   **[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)**  
 Reference for configure, price, and quote applications.
--   **[[order-mgt-reference|Order Management reference]]**  
-Reference topics provide additional information about [[explore-order-management|Order Management]].
--   **[[reference-order-operations|Order operations reference]]**  
-Reference for [[order-operations-landing|order operations]] applications.
--   **[[partner-relationship-management-reference|Partner Relationship Management reference]]**  
-Reference topics provide additional information about [[partner-relationship-management|Partner Relationship Management]].
--   **[[reference-lead-cash-foundation|Lead-to-cash foundation reference]]**  
-Reference for [[lead-to-cash-foundation-landing|lead-to-cash foundation]] applications.
--   **[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]**  
+-   **[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)**  
+Reference topics provide additional information about Order Management.
+-   **[Order operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-order-operations.md)**  
+Reference for order operations applications.
+-   **[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)**  
+Reference topics provide additional information about Partner Relationship Management.
+-   **[Lead-to-cash foundation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)**  
+Reference for lead-to-cash foundation applications.
+-   **[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)**  
 Reference topics provide additional information about the components such as roles and tables that are installed with various Business Portal plugins.
--   **[[som-glossary|Sales Customer Relationship Management glossary]]**  
+-   **[Sales Customer Relationship Management glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-glossary.md)**  
 Learn about terms and concepts that are unique to Sales Customer Relationship Management.
 
-**Parent Topic:**[[order-mgt-overview|Sales Customer Relationship Management]]
+**Parent Topic:**[Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-overview.md)
 
-## Related
-
-- [[som-rest-apis|Sales Customer Relationship Management REST APIs]]
-- [[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
-- [[reference-cpq|Configure, price, quote reference]]
-- [[order-mgt-reference|Order Management reference]]
-- [[reference-order-operations|Order operations reference]]
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[som-glossary|Sales Customer Relationship Management glossary]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[lead-opportunity-landing|Lead and opportunity management]]
-- [[explore-order-management|Order management]]
-- [[order-operations-landing|Order operations]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]

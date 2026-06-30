@@ -14,7 +14,7 @@ breadcrumb: [Identity Provider \(IdP\) system properties, SAML, Multi-Provider s
 
 # Set the AuthnRequest service URL
 
-Using the IdP's metadata, set the [[c_requestAPI|request]] service URLs for the integration's IdP.
+Using the IdP's metadata, set the request service URLs for the integration's IdP.
 
 ## Before you begin
 
@@ -22,16 +22,12 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  In the property The base URL to the [[identity-landing|Identity]] Provider's AuthnRequest service. The AuthnRequest will be posted to this URL as the SAMLRequest parameter, enter the URL to the HTTP-Redirect binding obtained from the `SingleSignOnService` element.
+1.  In the property The base URL to the Identity Provider's AuthnRequest service. The AuthnRequest will be posted to this URL as the SAMLRequest parameter, enter the URL to the HTTP-Redirect binding obtained from the `SingleSignOnService` element.
 
 2.  Select the check box next to Sign AuthnRequest to enable the Identity Provider's single-sign on service to receive a signed AuthnRequest.
 
-3.  In the property When [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 single sign-on fails because the session is not authenticated, or this is the first login, redirect to this URL. This is the base URL where the initial SAML 2.0 AuthnRequest is sent using the SAMLRequest parameter, enter the URL to the HTTP-Redirect binding obtained from the `SingleSignOnService` element.
+3.  In the property When SAML 2.0 single sign-on fails because the session is not authenticated, or this is the first login, redirect to this URL. This is the base URL where the initial SAML 2.0 AuthnRequest is sent using the SAMLRequest parameter, enter the URL to the HTTP-Redirect binding obtained from the `SingleSignOnService` element.
 
     By default, the integration contains the URL to the SSOCircle service.
 
-## Related
 
-- [[c_requestAPI|request]]
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

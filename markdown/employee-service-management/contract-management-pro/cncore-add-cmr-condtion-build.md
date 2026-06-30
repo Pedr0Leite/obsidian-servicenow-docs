@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select the application table whose variables should be used in condition builders.
 
-3.  Add the contract request as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field to the table.
+3.  Add the contract request as a reference field to the table.
 
     1.  Select the **Columns** tab and select **New**.
 
@@ -77,7 +77,7 @@ The contract request fields are available for selection in the condition builder
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -85,7 +85,3 @@ The contract request fields are available for selection in the condition builder
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-obligation-management|Obligation Management]]

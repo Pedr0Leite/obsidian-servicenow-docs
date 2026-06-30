@@ -12,7 +12,7 @@ breadcrumb: [User preferences, User interface configuration, Working in Core UI,
 
 # Turn off the Next Experience welcome screen after upgrading your instance
 
-You can turn off the Next Experience welcome splash screen that appears in the [[c_UI16|Core UI]] after upgrading your instance by creating a user preference.
+You can turn off the Next Experience welcome splash screen that appears in the Core UI after upgrading your instance by creating a user preference.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-A Next Experience welcome splash screen appears in the Core UI when you upgrade your instance but haven't turned on the [[next-experience-landing-page|Next Experience UI]] on the instance.
+A Next Experience welcome splash screen appears in the Core UI when you upgrade your instance but haven't turned on the Next Experience UI on the instance.
 
 This welcome splash screen appears for admins only. It informs you about the Next Experience UI so you can enable it. After the welcome splash screen has notified you about the Next Experience UI, you can use the following steps to turn off the splash screen.
 
@@ -94,7 +94,7 @@ Select this check box to apply this user preference system wide.
     **Note:** In the User Preferences table, verify that there is only one user preference record where the **System** field and **Value** field is set to `true`.
 
 
-**Parent Topic:**[[c_UserPreferences|User preferences]]
+**Parent Topic:**[User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
 
 **Related topics**  
 
@@ -103,8 +103,3 @@ Select this check box to apply this user preference system wide.
 
 [Configure available keyboard shortcuts]()
 
-## Related
-
-- [[c_UserPreferences|User preferences]]
-- [[c_UI16|Core UI]]
-- [[next-experience-landing-page|Next Experience UI]]

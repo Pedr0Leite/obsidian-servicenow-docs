@@ -14,7 +14,7 @@ breadcrumb: [Managed lists, HR Administration, Configure, Case and Knowledge Man
 
 # Add or modify HR systems
 
-You can add or modify an HR operations system using the [[c_AdministerHRServiceManagement|HR Administration]] module.
+You can add or modify an HR operations system using the HR Administration module.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR Administration** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **HR Systems**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **HR Systems**.
 
     The HR Operating Systems list opens.
 
@@ -53,7 +53,3 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.manager
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

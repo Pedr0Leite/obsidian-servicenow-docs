@@ -14,13 +14,13 @@ breadcrumb: [Service Catalog request fulfillment, Configuring Service Catalog, S
 
 # Service Catalog checkout models
 
-The [[service-catalog|service catalog]] defaults to one-step checkout model, but also allows two-step checkout. Administrators and users with the catalog\_admin role can enable and configure the two-step checkout model and control how the delivery address is populated.
+The service catalog defaults to one-step checkout model, but also allows two-step checkout. Administrators and users with the catalog\_admin role can enable and configure the two-step checkout model and control how the delivery address is populated.
 
 The service catalog defaults to a one-step checkout model. When a user clicks **Proceed to checkout** or **Order now**, items in the shopping cart are ordered and the order summary or status screen appears. The one-step checkout model runs in the following order:
 
 **Press Checkout** &gt; **Order Summary**
 
-The service catalog also supports a two-step checkout model. Under this model, when a user clicks **Proceed to checkout** or **Order now**, an order confirmation screen appears. You can edit the order, choose a delivery location, or upload an [[attachment|attachment]] before submitting the order. The two-step checkout model runs in the following order:
+The service catalog also supports a two-step checkout model. Under this model, when a user clicks **Proceed to checkout** or **Order now**, an order confirmation screen appears. You can edit the order, choose a delivery location, or upload an attachment before submitting the order. The two-step checkout model runs in the following order:
 
 **Press Checkout Order** &gt; **Confirmation Screen** &gt; **Submit Order** &gt; **Order Summary**.
 
@@ -42,7 +42,7 @@ Role required: admin
 
 2.  Locate the property Use the two step catalog checkout model \(default false\).
 
-3.  Select the **Yes** [[check-box|check box]] to enable the two-step process.
+3.  Select the **Yes** check box to enable the two-step process.
 
 4.  Locate the property Show the 'Back to Catalog' button on the two step checkout screen.
 
@@ -57,8 +57,3 @@ Administrators can control how the delivery address is populated. By default the
 
 When the two-step checkout process is enabled, the `set location` script retrieves the address of the user and enters formatted details in the Deliver to field.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]

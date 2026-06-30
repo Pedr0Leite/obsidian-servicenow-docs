@@ -33,7 +33,7 @@ Role required: admin
     **Note:** If you want to disable the note banner, set the **glide.email.translation.dynamic.note.enabled** system property to false.
 
 
-**Parent Topic:**[[dynamic-translation|Dynamic translation]]
+**Parent Topic:**[Dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
 
 **Related topics**  
 
@@ -42,6 +42,3 @@ Role required: admin
 
 [Enable dynamic translation for email notifications]()
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

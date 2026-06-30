@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events employee requests, Using Lifecycle Events, Lifecyc
 
 # Verify Lifecycle Events Employee requests configuration
 
-Use the Preview and Test capabilities to verify that the employee request [[activity-lxp|activity]] has been configured correctly.
+Use the Preview and Test capabilities to verify that the employee request activity has been configured correctly.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_le.admin or admin
 
 Verify that the Employee request menu item for "Request Change in Start Date" is available in an activity set.
 
-This task requires that you download the demo data that is provided with the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise.
+This task requires that you download the demo data that is provided with the Human Resources Scoped App: Lifecycle Events for Enterprise.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ This task requires that you download the demo data that is provided with the Hum
 
     **Note:** In preview mode, all employee requests appear regardless of audience, Opened for, or Subject person settings. Employee requests for the appropriate configuration appear in the completed test results.
 
-5.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** and click **To-dos**.
+5.  Navigate to **Self-Service** &gt; **Employee Center** and click **To-dos**.
 
 6.  Open the "New Hire Onboarding - administrator" activity set.
 
@@ -57,8 +57,3 @@ This task requires that you download the demo data that is provided with the Hum
 
 **Parent Topic:**[Lifecycle Events employee requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/employee-requests.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]

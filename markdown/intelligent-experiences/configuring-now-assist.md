@@ -13,7 +13,7 @@ breadcrumb: [Exploring Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Overview tab in Now Assist Admin
 
-The [[platform-now-assist-landing|Now Assist]] Admin console provides quick and effortless access to the important information that you need to set up, configure, and monitor Now Assist applications and features.
+The Now Assist Admin console provides quick and effortless access to the important information that you need to set up, configure, and monitor Now Assist applications and features.
 
 x\[Omitted video\] Description: Now Assist Admin overview
 
@@ -35,15 +35,15 @@ Take five steps to begin using the Now Assist Admin console.
 
     \[Omitted image "explore-now-assist-3.png"\] Alt text: Available plugins are displayed in the Settings page.
 
--   **2. \(Optional\) Turn on the [[now-assist-center-now-assist-panel|Now Assist panel]].**
+-   **2. \(Optional\) Turn on the Now Assist panel.**
 
-    The Now Assist panel integrates the [[now-assist-skills|Now Assist skills]] into the Next Experience UI. By turning on the Now Assist panel directly from the Now Assist Admin console, you enable agents to access skills from anywhere on the ServiceNow AI Platform.
+    The Now Assist panel integrates the Now Assist skills into the Next Experience UI. By turning on the Now Assist panel directly from the Now Assist Admin console, you enable agents to access skills from anywhere on the ServiceNow AI Platform.
 
-    For more information about the Now Assist panel, see [[now-assist-panel-overview|Now Assist panel overview]].
+    For more information about the Now Assist panel, see [Now Assist panel overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
     This step is optional because the skills can also display in-product in the Core UI and in Workspaces.
 
-    You can turn the Now Assist panel on from the [[now-assist-experiences|Now Assist Experiences]] page of the Admin console.
+    You can turn the Now Assist panel on from the Now Assist Experiences page of the Admin console.
 
     \[Omitted image "turn-on-now-assist-panel-experiences-page.png"\] Alt text: Now Assist panel settings on the Now Assist Experiences page
 
@@ -80,19 +80,9 @@ You can consult the following checklist from the Now Assist Admin console Overvi
 
 ## Learn more about the Now Assist journey
 
--   Get an overview of [[exploring-now-assist-platform|the Now Assist framework]].
+-   Get an overview of [the Now Assist framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md).
 -   Discover the [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 -   Explore the [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md) available.
--   [[configure-a-now-assist-skill|Activate and configure a Now Assist skill]] using the Now Assist Admin console.
--   [[now-assist-analytics-and-monitoring|Analyze and monitor]] Now Assist skill usage and performance.
+-   [Activate and configure a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md) using the Now Assist Admin console.
+-   [Analyze and monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-and-monitoring.md) Now Assist skill usage and performance.
 
-## Related
-
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[exploring-now-assist-platform|Exploring Now Assist Admin]]
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[now-assist-analytics-and-monitoring|Analyzing Now Assist usage]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-experiences|Now Assist Experiences]]

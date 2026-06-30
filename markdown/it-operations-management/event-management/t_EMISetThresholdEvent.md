@@ -14,7 +14,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # Set a threshold to suppress alert generation
 
-The event threshold is the rate upon which [[c_EM|Event Management]] generates an alert. Receiving multiple events for a device over a short interval may warrant creating an alert, as the condition may be serious. However, receiving events over a longer interval may indicate a less serious situation which would not warrant creating an alert.
+The event threshold is the rate upon which Event Management generates an alert. Receiving multiple events for a device over a short interval may warrant creating an alert, as the condition may be serious. However, receiving events over a longer interval may indicate a less serious situation which would not warrant creating an alert.
 
 ## Before you begin
 
@@ -90,7 +90,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Create or open an event rule.
 
@@ -152,7 +152,3 @@ To create an alert when a specific event occurs 5 times in 10 minutes with a met
 
 [Filter the events that an event rule applies to](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

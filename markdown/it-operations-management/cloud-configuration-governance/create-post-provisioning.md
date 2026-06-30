@@ -26,7 +26,7 @@ You can create post-provision operations only for catalog items that are based o
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Catalog Items**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Catalog Items**.
 
 2.  Open the catalog item, click the **Post Provisioning Operation** tab, and then click **New**.
 
@@ -138,6 +138,4 @@ $\{CloudScript.scripts.`<Script Name>`\}
 
         All configurations are saved and the Cloud Catalog Items page opens.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

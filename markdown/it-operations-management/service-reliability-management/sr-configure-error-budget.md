@@ -22,9 +22,9 @@ Role required: srm\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Configurations**.
 
-2.  Select **[[sr-landing-page|Service Reliability Management]]** &gt; **Governance and autonomy** &gt; **Error budgets**.
+2.  Select **Service Reliability Management** &gt; **Governance and autonomy** &gt; **Error budgets**.
 
 3.  Select **Configure error budget actions** to edit the Process Error Budget Policy Threshold subflow in Workflow Studio.
 
@@ -37,7 +37,3 @@ Role required: srm\_admin or admin
 
 **Next topic:**[Approve a change request for SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-approve-change-req.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-landing-page|Service Reliability Management]]

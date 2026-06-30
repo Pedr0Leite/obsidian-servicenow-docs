@@ -52,7 +52,7 @@ Related list for the entity, such as a quote, which displays the approval workfl
 
 </td><td>
 
-Grouping of approval steps that are run in sequential order, based on the order specified for the steps in the approval [[rules_101|rules]]. Each step card represents an approval rule.
+Grouping of approval steps that are run in sequential order, based on the order specified for the steps in the approval rules. Each step card represents an approval rule.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Grouping of approval steps that are run in sequential order, based on the order 
 
 Card that provides information about the approval step and the rules and conditions for that step. -   If the request was previously recalled during the approval process, an Auto-approved flag indicates at least one or more previously completed approvals are automatically reapplied.
 -   Depending on the approval request state and the user role, the card displays the More options \(\[Omitted image "icon-three-dots.png"\] Alt text: \) menu for approvers to approve or reject the request in the step.
--   For approval admins that also have the requester role, the More options \(\[Omitted image "icon-three-dots.png"\] Alt text: \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [[override-approval-step|Override an approver]].
+-   For approval admins that also have the requester role, the More options \(\[Omitted image "icon-three-dots.png"\] Alt text: \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [Override an approver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/override-approval-step.md).
 
 </td></tr><tr><td>
 
@@ -73,14 +73,8 @@ Card that provides information about the approval step and the rules and conditi
 Options displayed for different approval actions, depending on the user role.For example:
 
 -   Requesters have the option to **Recall an approval request**.
--   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [[add-approver|Add approvers to an approval request]].
+-   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [Add approvers to an approval request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-approver.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[using-advanced-approval-management|Using Advanced Approval Management]]
+</table>**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 
-## Related
-
-- [[override-approval-step|Override an approver]]
-- [[add-approver|Add approvers to an approval request]]
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[rules_101|Rules]]

@@ -21,11 +21,11 @@ Configure Microsoft Exchange Online as a calendar provider in strict mode to syn
 Ensure the following:
 
 -   As a delegated user, you must have valid mailbox in the Microsoft Exchange Online. The user is identified by the email address. The same email address must be specified in the delegated user email address where it is necessary.
--   [[configure-strict-mode-connection-and-credential-alias-for-msex|Configure strict mode Connection and Credential alias for Microsoft Exchange Online]]. If you want to use your own alias, then refer to [Create your own credential and connection alias for strict mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-credential-and-connection-alias-for-strict-mode.md).
+-   Configure strict mode Connection and Credential alias for Microsoft Exchange Online. If you want to use your own alias, then refer to [Create your own credential and connection alias for strict mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-credential-and-connection-alias-for-strict-mode.md).
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -36,7 +36,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Calendar Providers**.
 
 2.  Select **New**.
 
@@ -140,11 +140,11 @@ Delegated user email address that is used to create reservations and to receive 
 
 The calendar provider is added.
 
-**Warning:** Reservations that are created using calendar providers cannot be edited in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+**Warning:** Reservations that are created using calendar providers cannot be edited in the Workplace Reservation Management application.
 
 ## What to do next
 
-[[run-instance-scan-on-your-workplace-cal-sync-configs|Run Instance scan to check Microsoft Exchange Online synchronization configuration]]. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
+Run Instance scan to check Microsoft Exchange Online synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
 **Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/strict-mode-configurations-for-connection-with-msex.md)
 
@@ -163,10 +163,3 @@ The calendar provider is added.
 
 [Create your own credential and connection alias for strict mode]()
 
-## Related
-
-- [[configure-strict-mode-connection-and-credential-alias-for-msex|Configure strict mode Connection and Credential alias for Microsoft Exchange Online]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[run-instance-scan-on-your-workplace-cal-sync-configs|Run Instance scan to check Microsoft Exchange Online synchronization configuration]]

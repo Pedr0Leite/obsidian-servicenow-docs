@@ -14,7 +14,7 @@ breadcrumb: [Configure, DevOps Change Velocity, IT Service Management]
 
 # Onboard to DevOps Change Velocity using Workspace
 
-After installing [[devops-landing-page-new|DevOps Change Velocity]], you can integrate with your DevOps toolchain and automate change requests directly from the DevOps Change Workspace.
+After installing DevOps Change Velocity, you can integrate with your DevOps toolchain and automate change requests directly from the DevOps Change Workspace.
 
 You can onboard as a DevOps admin, a tool owner, or an app owner.
 
@@ -142,7 +142,7 @@ The getting started guide will be marked as complete when the first automated ch
     -   DevOps admins and tool owners can connect to a tool from the widget.
     \[Omitted image "workspace-01.png"\] Alt text: Tools widget.
 
--   **[[dex-workspace-application-tab|Applications]] widget**
+-   **Applications widget**
 
     The Applications widget gives an overview of your applications, with the following details:
 
@@ -165,7 +165,4 @@ The getting started guide will be marked as complete when the first automated ch
     -   Number of tools grouped by their tool types. You can select an integration type to see the list of tools connections created for that particular tool type.
     \[Omitted image "workspace-03.png"\] Alt text: Automated change requests widget.
 
-## Related
 
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

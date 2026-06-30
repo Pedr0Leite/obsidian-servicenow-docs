@@ -14,7 +14,7 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 # Resolve EMR Help requests
 
-You can use a ServiceNow instance to resolve requests generated in the [[emr-exploring|EMR Help]] service portal.
+You can use a ServiceNow instance to resolve requests generated in the EMR Help service portal.
 
 Work on task records that are automatically created when clinicians submit ServiceNow service requests from an EMR system.
 
@@ -31,6 +31,3 @@ Use EMR Help for the following:
 -   [Viewing and resolving ServiceNow IT service requests submitted from EMR systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-resolve.md)
 -   [Viewing and resolving healthcare cases submitted from EMR systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/viewing-and-resolving-healthcare-cases-submitted-from-emr-systems.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

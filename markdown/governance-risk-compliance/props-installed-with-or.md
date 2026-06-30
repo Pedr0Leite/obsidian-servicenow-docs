@@ -12,7 +12,7 @@ breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance
 
 # Properties installed with Operational Resilience
 
-When you install the [[grc-opres-landing-page|Operational Resilience]] application, several system properties are added to your instance. You may not need to modify these properties. The user with the sn\_oper\_res.admin role can maintain these properties.
+When you install the Operational Resilience application, several system properties are added to your instance. You may not need to modify these properties. The user with the sn\_oper\_res.admin role can maintain these properties.
 
 ## Operational Resilience properties
 
@@ -203,7 +203,7 @@ glide.ui.sn\_oper\_res\_scenario\_analysis\_activity.fields
 
 </td><td>
 
-[[scenario-analysis-ov|Scenario Analysis]] activity formatter fields.
+Scenario Analysis activity formatter fields.
 
  Type: string
 
@@ -211,8 +211,3 @@ glide.ui.sn\_oper\_res\_scenario\_analysis\_activity.fields
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

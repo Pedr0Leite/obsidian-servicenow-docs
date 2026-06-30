@@ -20,20 +20,16 @@ Enrolled Mentees can instantly view Mentor suggestions based on their enrollment
 
 Enroll as a mentee. See [Enroll as a mentor or mentee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
-[[add-preferences-mentee|Add mentee preferences]]. See [Add mentee preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/add-preferences-mentee.md).
+Add mentee preferences. See [Add mentee preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/add-preferences-mentee.md).
 
 Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your career** &gt; **[[mentoring-egd-overview|Mentoring]]** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your career** &gt; **Mentoring** &gt; **Overview**.
 
 2.  In the **Suggested mentors** section, view a list of relevant matches based on your preferences.
 
 3.  You can either connect with a suggested mentor or use the search option to search for other mentors.
 
-## Related
 
-- [[add-preferences-mentee|Add mentee preferences]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

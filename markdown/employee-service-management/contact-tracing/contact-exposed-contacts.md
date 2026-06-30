@@ -28,7 +28,7 @@ The Exposure Case Task Survey is available for contact tracers to use to assess 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **[[case-management-workspace|Case Management]]** &gt; **Case Tasks**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Case Management** &gt; **Case Tasks**.
 
 2.  Open a task from the list.
 
@@ -66,15 +66,9 @@ The case manager can review the closed task and update the health status of the 
 
 **Note:** The case manager can update the health status of an exposed contact only if there is no active case for the user.
 
-If [[employee-readiness-core|Employee Readiness Core]] is installed and the potentially exposed contacts requirement activated, the user's [[health-safety-overview|health and safety]] requirement status is also updated.
+If Employee Readiness Core is installed and the potentially exposed contacts requirement activated, the user's health and safety requirement status is also updated.
 
 After all the case tasks in the case have been closed, the case manager can close the case.
 
 **Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[case-management-workspace|Case management]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[health-safety-overview|Health and Safety]]

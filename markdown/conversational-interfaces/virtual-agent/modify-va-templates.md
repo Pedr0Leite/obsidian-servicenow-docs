@@ -14,7 +14,7 @@ breadcrumb: [Configure Virtual Agent for a mobile application, Configure, Virtua
 
 # View and modify Virtual Agent style templates
 
-[[virtual-agent-landing-page|Virtual Agent]] provides optimized templates for the mobile experience. You can view and modify the style sheets in the Adapter Cards \[sys\_cs\_adapter\_card\] table.
+Virtual Agent provides optimized templates for the mobile experience. You can view and modify the style sheets in the Adapter Cards \[sys\_cs\_adapter\_card\] table.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-mobile-web-client.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

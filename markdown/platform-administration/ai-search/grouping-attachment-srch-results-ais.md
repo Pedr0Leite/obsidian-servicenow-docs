@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Grouping attachment search results with their parent search results
 
-Search application administrators can control whether attachment search [[hs-results|results]] appear grouped with their parent search results or whether they display on their own. By default, [[ia-ai-search|AI Search]] displays attachments grouped with their parent search results.
+Search application administrators can control whether attachment search results appear grouped with their parent search results or whether they display on their own. By default, AI Search displays attachments grouped with their parent search results.
 
 By default, AI Search displays separate search results for the parent record and each of its attachments that matches the user's search. Search administrators can enable grouping of attachment search results with the results for their parent records. With this option enabled, search results for attachments that match a user's search display inline with the search results for their parent record.
 
@@ -51,7 +51,3 @@ Configure your AI Search applications to display attachment search results group
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]

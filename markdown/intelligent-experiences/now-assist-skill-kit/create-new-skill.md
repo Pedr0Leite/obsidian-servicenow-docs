@@ -14,13 +14,13 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Create a skill
 
-Create a custom skill for [[platform-now-assist-landing|Now Assist]]. Creating a custom skill enables you to have greater flexibility with Now Assist's generative AI capabilities.
+Create a custom skill for Now Assist. Creating a custom skill enables you to have greater flexibility with Now Assist's generative AI capabilities.
 
 ## Before you begin
 
 Role required: sn\_skill\_builder.admin
 
-**Note:** When you update [[now-assist-skill-kit-landing|Now Assist Skill Kit]] you should also update [[generative-ai-controller|Generative AI Controller]] to ensure that your skills continue to perform correctly.
+**Note:** When you update Now Assist Skill Kit you should also update Generative AI Controller to ensure that your skills continue to perform correctly.
 
 ## Procedure
 
@@ -65,7 +65,7 @@ Default provider
 Available providers:-   Now LLM Service
 -   External LLM
 
-You can use Now LLM Service, Now LLM [[long-term-stable-models|Long Term Stable models]] \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all [[now-assist-skills|Now Assist skills]] and AI agents. Use the Configuration [[controls|Controls]] in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [[manage-large-language-models|Now Assist Admin console]]. For more information, see [Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
+You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
     -   Spokes
     -   Custom LLM
@@ -137,7 +137,7 @@ Role restrictions define the specific roles under which a skill in ServiceNow ex
 
 After you create the skill, you must configure it. To learn more about configuring a skill, see [Configure a skill prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-prompt.md).
 
-If you don't need to set any [[exploring-ai-governance|configurations]] for your skill, you can create your skill prompt and tools. To learn more, see [Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md) and [Add a tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-a-tool.md).
+If you don't need to set any configurations for your skill, you can create your skill prompt and tools. To learn more, see [Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md) and [Add a tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-a-tool.md).
 
 -   **[Clone a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/clone-and-edit-servicenow-skill.md)**  
 Clone an existing skill to use it as a starting point for a new one. You can clone both base system ServiceNow skills and custom skills you have created.
@@ -161,13 +161,3 @@ Clone an existing skill to use it as a starting point for a new one. You can clo
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[long-term-stable-models|Long term stable models]]
-- [[now-assist-skills|Now Assist skills]]
-- [[controls|Controls]]
-- [[exploring-ai-governance|Configurations]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring Service Exchange for Providers, Service Exchange, Case 
 
 # Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services
 
-As a government agency provider, you can create remote task definitions that trigger the assignment of remote task\(s\) to your constituent. Remote tasks originate in the agency provider instance \(where they auto-create an associated government case record\), and are pushed to your constituent through the [[gsp-overview-public-sector|Government Service Portal]], enabling both provider and consumer to keep case records and details in sync.
+As a government agency provider, you can create remote task definitions that trigger the assignment of remote task\(s\) to your constituent. Remote tasks originate in the agency provider instance \(where they auto-create an associated government case record\), and are pushed to your constituent through the Government Service Portal, enabling both provider and consumer to keep case records and details in sync.
 
 ## Before you begin
 
@@ -395,6 +395,3 @@ Select this check box to enable virtual inbound field mapping. A virtual field i
 
 A remote task definition record is created on your instance. This record is also synchronized with your customer's instance and is now pending activation on your consumer's instance. If the **Auto activate remote task definition** field has been enabled by the consumer, the remote task definition is automatically activated on your consumer's instance.
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

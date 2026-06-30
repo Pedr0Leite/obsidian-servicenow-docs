@@ -48,13 +48,9 @@ In this example, `a719743e0f703210e83019e800d1b29d` is the sys\_id of the **sys\
 
 `76d03b43ff6c721057e9ffffffffff1f` is the sys\_id of the **sys\_sg\_icon**.
 
-**PresentationStyle** should be **screen** to support a button instance on an [[parameter-input-screen|input form screen]] or scripted screen.
+**PresentationStyle** should be **screen** to support a button instance on an input form screen or scripted screen.
 
 The third parameter in `ButtonInstanceBuilder()` is the location. The location can be either `top_icon` or `top`.
 
-**Parent Topic:**[[configure-lens-launcher-button|Configure a Lens launcher button]]
+**Parent Topic:**[Configure a Lens launcher button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-lens-launcher-button.md)
 
-## Related
-
-- [[configure-lens-launcher-button|Configure a Lens launcher button]]
-- [[parameter-input-screen|Input form screen]]

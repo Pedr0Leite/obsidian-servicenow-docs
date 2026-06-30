@@ -14,7 +14,7 @@ breadcrumb: [Network diagram, Use, Telecommunications Network Inventory]
 
 # Create a protection path
 
-Create a protection path for the logical connection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this protection path as an alternative route in case the primary path \(logical connection\) fails or experiences significant issues.
+Create a protection path for the logical connection in the Telecommunications Network Inventory application. You can use this protection path as an alternative route in case the primary path \(logical connection\) fails or experiences significant issues.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\).
 
-3.  Go to **Inventory** &gt; **[[design-logical-connection-design-assign-playbook|Logical Connections]]**.
+3.  Go to **Inventory** &gt; **Logical Connections**.
 
 4.  Open a record and then select **View connection**.
 
@@ -43,7 +43,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## What to do next
 
-You can view the protection path in the [[using-network-diagram|network diagram]]. To learn more, see [View the details of a network diagram](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/show-a-ci-related-details-network-diagram.md).
+You can view the protection path in the network diagram. To learn more, see [View the details of a network diagram](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/show-a-ci-related-details-network-diagram.md).
 
 **Parent Topic:**[Network diagram](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-diagram.md)
 
@@ -54,9 +54,3 @@ You can view the protection path in the [[using-network-diagram|network diagram]
 
 [Download a network diagram]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[using-network-diagram|Network diagram]]

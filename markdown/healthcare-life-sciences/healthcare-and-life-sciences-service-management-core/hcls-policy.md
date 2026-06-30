@@ -14,7 +14,7 @@ breadcrumb: [Data model tables, Reference, Healthcare and Life Sciences Service 
 
 # Policy table
 
-The Policy \[sn\_hcls\_policy\] table stores the details of a policy shared with patients in the [[hcls-overview|Healthcare and Life Sciences]] applications.
+The Policy \[sn\_hcls\_policy\] table stores the details of a policy shared with patients in the Healthcare and Life Sciences applications.
 
 ## Key features
 
@@ -189,7 +189,3 @@ Number of days the policy is valid for after a patient signs the policy.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]

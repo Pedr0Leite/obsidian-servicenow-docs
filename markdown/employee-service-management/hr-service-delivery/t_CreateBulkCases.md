@@ -26,7 +26,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Bulk Case Requests**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Bulk Case Requests**.
 
 2.  Select **New**.
 
@@ -54,7 +54,7 @@ HR service
 
 </td><td>
 
-The HR service associated with the bulk case request.**Note:** When you [[bulk-case-segment|create a user segment group]], the fields from the HR service you select can appear similar to creating a new HR case. For more information, see [Create a user segment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case-segment.md).
+The HR service associated with the bulk case request.**Note:** When you create a user segment group, the fields from the HR service you select can appear similar to creating a new HR case. For more information, see [Create a user segment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case-segment.md).
 
 </td></tr><tr><td>
 
@@ -112,7 +112,3 @@ Shows the date and time your bulk case request was submitted to create cases.**N
 
 **Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[bulk-case-segment|Create a user segment group]]

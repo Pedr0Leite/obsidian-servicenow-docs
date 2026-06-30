@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery setup
 
-After you activate the [[r-discovery|Discovery]] application, you have several ways to get started.
+After you activate the Discovery application, you have several ways to get started.
 
 **Note:** If the Discovery \(com.snc.discovery\) plugin is activated on the instance and a language plugin \(for example, Spanish\) is also activated, make sure that the MID Server language is also set to English/None on the user record.
 
@@ -42,7 +42,7 @@ Use this method for a faster way to install and update apps, with interactive co
 
 </td><td>
 
-Use this method if you want to set up everything you need to use Discovery, including a MID Server. ITOM [[discovery-guided-setup|Discovery Guided Setup]] provides a sequence of tasks that help you configure Discovery on your ServiceNow instance. To access the guided setup, navigate to **All** &gt; **ITOM Guided Setup** &gt; **ITOM Discovery Guided Setup**.
+Use this method if you want to set up everything you need to use Discovery, including a MID Server. ITOM Discovery Guided Setup provides a sequence of tasks that help you configure Discovery on your ServiceNow instance. To access the guided setup, navigate to **All** &gt; **ITOM Guided Setup** &gt; **ITOM Discovery Guided Setup**.
 
  For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
@@ -68,7 +68,3 @@ Use this wizard to configure everything you need to perform subnet and CI Discov
 
 [Discovery monitoring and issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-guided-setup|Discovery Guided Setup]]

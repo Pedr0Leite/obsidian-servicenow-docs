@@ -20,13 +20,13 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager
 
 ## About this task
 
-If you didn't find an existing major case to add the [[trending-case-topics|trending case topics]] to and you think the cluster qualifies as a major case, you can [[create-major-case|create a major case]], as applicable.
+If you didn't find an existing major case to add the trending case topics to and you think the cluster qualifies as a major case, you can create a major case, as applicable.
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
-2.  Navigate to **[[migration-lists|Lists]]** &gt; **Trending Case Topics** &gt; **Last 1 week**.
+2.  Navigate to **Lists** &gt; **Trending Case Topics** &gt; **Last 1 week**.
 
 3.  Click a **Cluster Id**.
 
@@ -43,9 +43,3 @@ If you didn't find an existing major case to add the [[trending-case-topics|tren
 
 To access the major case, click the link in the confirmation message that a major case has been created.
 
-## Related
-
-- [[trending-case-topics|Trending case topics]]
-- [[create-major-case|Create a major case]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

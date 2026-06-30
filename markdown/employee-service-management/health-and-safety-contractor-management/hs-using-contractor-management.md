@@ -14,11 +14,11 @@ breadcrumb: [Health and Safety Contractor Management, Health and Safety, Employe
 
 # Managing contractors for health and safety
 
-Using [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]], contract coordinators can manage contractors for [[health-safety-overview|health and safety]] and know who is on site at all times.
+Using Health and Safety Contractor Management, contract coordinators can manage contractors for health and safety and know who is on site at all times.
 
 ## Overview of Health and Safety Contractor Management workflow
 
--   **[[health-safety-core-workspace|Health and Safety Workspace]] ​**
+-   **Health and Safety Workspace ​**
 
     In the workspace, the safety contractor coordinator performs the following tasks:
 
@@ -26,7 +26,7 @@ Using [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]
 
         Add and keep track of all contractor companies' details including their name, address, their primary contact, and overall rating. Additionally, list all the contractor workers including their areas of expertise and contact details.
 
-        Employees or Line managers can also register contractor companies from the [[employee-center-landing-page|Employee Center]] to initiate their health and safety pre-qualification process. For more information, see [Register a contractor company through Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-register-contractor-company-emp-center.md).
+        Employees or Line managers can also register contractor companies from the Employee Center to initiate their health and safety pre-qualification process. For more information, see [Register a contractor company through Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-register-contractor-company-emp-center.md).
 
     2.  [Assign a task to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-tasks-contractor-worker.md)
 
@@ -50,9 +50,3 @@ Using [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]
         -   Mark tasks as complete​
     2.  When prerequisite tasks have been completed, the contractor coordinator grants them access to the site. Contract worker receives another email with an access code that can be used to access the company locations.​
 
-## Related
-
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

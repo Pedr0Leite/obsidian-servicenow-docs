@@ -20,7 +20,7 @@ The OAuth 2.0 implementation requires you to obtain an access and refresh token 
 
 OAuth 2.0 support is available starting with the Geneva release. The OAuth implementation supports IMAP and SMTP accounts only. POP3 is not supported. OAuth 1.0 is no longer supported.
 
-**Note:** Customer [[c_EmailAccounts|email accounts]] configured to use OAuth 1.0 authentication with Gmail cease to function as of April 20, 2015. See [KB0546976](https://support.servicenow.com/kb_view.do?sysparm_article=KB0546976) for more information.
+**Note:** Customer email accounts configured to use OAuth 1.0 authentication with Gmail cease to function as of April 20, 2015. See [KB0546976](https://support.servicenow.com/kb_view.do?sysparm_article=KB0546976) for more information.
 
 Activating the Email - OAuth support for IMAP and SMTP plugin allows you to use OAuth with email. If you upgrade to Geneva or later instances and are already using OAuth 1.0, activate the plugin again.
 
@@ -28,17 +28,10 @@ Activating the Email - OAuth support for IMAP and SMTP plugin allows you to use 
 
 See [Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OAuth2ProfileTutorialGoogle.md) for an example of using an OAuth 2.0 profile to authenticate an outbound REST message with Google to retrieve contact information. Also see [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_OAuthApplications.md) for more information on OAuth 2.0 support in the instance.
 
--   **[[t_ActOAuthEmailAuthPlugin|Activate OAuth email authentication]]**  
-You can activate the Email:OAUTH support for IMAP, Microsoft Graph \(Receiving\), and SMTP plugin \(com.glide.email.oauth\) for [[notifications|Notifications]] if you have the admin role.
--   **[[t_SetUpOAuth2ForEmail|Enable OAuth 2.0 for email]]**  
+-   **[Activate OAuth email authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActOAuthEmailAuthPlugin.md)**  
+You can activate the Email:OAUTH support for IMAP, Microsoft Graph \(Receiving\), and SMTP plugin \(com.glide.email.oauth\) for Notifications if you have the admin role.
+-   **[Enable OAuth 2.0 for email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SetUpOAuth2ForEmail.md)**  
 Setting up OAuth 2.0 for email requires you to obtain access and refresh tokens from your email provider.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
-## Related
-
-- [[t_ActOAuthEmailAuthPlugin|t_ActOAuthEmailAuthPlugin]]
-- [[t_SetUpOAuth2ForEmail|Enable OAuth 2.0 for email]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[c_EmailAccounts|Email accounts]]
-- [[notifications|Notifications]]

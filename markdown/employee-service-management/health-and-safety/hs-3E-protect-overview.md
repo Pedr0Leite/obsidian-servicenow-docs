@@ -14,9 +14,9 @@ breadcrumb: [3E Protect, 3E, Integration with third-party services, Health and S
 
 # 3E service provider overview
 
-[[hs-3e-protect|3E Protect]] is an external API service that provides access to a vast database of chemical metadata and Safety Data Sheets \(SDS\).
+3E Protect is an external API service that provides access to a vast database of chemical metadata and Safety Data Sheets \(SDS\).
 
-It’s integrated into the [[health-safety-overview|Health and Safety]] system through a dedicated connector plugin, enabling organizations to retrieve and update chemical safety information automatically for their chemical records.
+It’s integrated into the Health and Safety system through a dedicated connector plugin, enabling organizations to retrieve and update chemical safety information automatically for their chemical records.
 
 The service functions by enabling you to import or add new chemicals to the system, after which 3E service provider supplies detailed hazard identification, ingredient data, and SDS documents in multiple languages. If a chemical isn’t found in the 3E database, an obtainment process is triggered, where 3E staff actively source the required SDS from manufacturers.
 
@@ -36,7 +36,3 @@ With 3E service provider integration you can obtain the following benefits:
 
 **Parent Topic:**[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)
 
-## Related
-
-- [[hs-3e-protect|3E Protect]]
-- [[health-safety-overview|Health and Safety]]

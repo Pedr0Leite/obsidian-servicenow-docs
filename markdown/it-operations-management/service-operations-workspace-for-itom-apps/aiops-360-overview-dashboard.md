@@ -18,7 +18,7 @@ The AIOps 360 Overview dashboard offers a unified view of value and performance 
 
 ## Prerequisites
 
-Ensure that the [[c_EM|Event Management]] application is installed.
+Ensure that the Event Management application is installed.
 
 ## Required ServiceNow AI Platform roles
 
@@ -27,7 +27,7 @@ Ensure that the [[c_EM|Event Management]] application is installed.
 
 ## Access the AIOps 360 overview dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **[[otto-aiops-dashboards|Dashboards]]** section, select **View AIOps 360 overview dashboard**.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps 360 overview dashboard**.
 
 ## Breakdowns
 
@@ -40,7 +40,7 @@ Breakdowns available in the AIOps 360 overview dashboard are:
 
 Use filters such as **Date** and **Assignment Group** to customize the dashboard view and focus on specific time periods and teams. This helps you pinpoint trends, identify areas for improvement, and make data-driven decisions tailored to your operational needs.
 
-The Value overview section highlights the overall impact of AIOps on operational efficiency. It showcases how much manual effort has been reduced through automation and intelligent [[c_ServiceAnalyticsOverview|alert grouping]]. It also reflects noise reduction levels, outage history, and overall workload savings—giving a clear picture of time and cost benefits realized.
+The Value overview section highlights the overall impact of AIOps on operational efficiency. It showcases how much manual effort has been reduced through automation and intelligent alert grouping. It also reflects noise reduction levels, outage history, and overall workload savings—giving a clear picture of time and cost benefits realized.
 
 \[Omitted image "sow-aiops-360-overview-dashboard-1.png"\] Alt text: Value overview section in the AIOps 360 overview dashboard.
 
@@ -159,10 +159,3 @@ Closure reasons by top assignment groups, highlighting automation closures \(wit
 
 If you want to know about funnel visualization, see [Create a funnel visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-funnel-visualization.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

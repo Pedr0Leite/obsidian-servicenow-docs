@@ -70,7 +70,7 @@ Application
 
 </td><td>
 
-Application scope of the trigger rule. The trigger rule is available for all [[dex-workspace-application-tab|applications]] or for scoped applications.
+Application scope of the trigger rule. The trigger rule is available for all applications or for scoped applications.
 
 </td></tr><tr><td>
 
@@ -127,6 +127,3 @@ Conditions that must be met to execute the trigger rule.
 
 **Parent Topic:**[Managing major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

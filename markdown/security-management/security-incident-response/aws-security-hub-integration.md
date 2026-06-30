@@ -18,11 +18,11 @@ AWS Security Hub is a cloud security posture management \(CSPM\) service that pr
 
 ## Overview of the AWS Security Hub integration
 
-AWS Security Hub enables you to identify issues in your configurations. Security Hub aggregates your security alerts, which are referred as findings. AWS Security Hub generates these findings in a standardized format and prioritizes them so that you can more easily enrich, investigate, and remediate them. You can use the AWS Security Hub integration to ingest Security Hub findings and automatically create security incidents in [[sir-landing-page|Security Incident Response]].
+AWS Security Hub enables you to identify issues in your configurations. Security Hub aggregates your security alerts, which are referred as findings. AWS Security Hub generates these findings in a standardized format and prioritizes them so that you can more easily enrich, investigate, and remediate them. You can use the AWS Security Hub integration to ingest Security Hub findings and automatically create security incidents in Security Incident Response.
 
 AWS Security Hub integration in SIR follows a bidirectional architecture. SIR ingests Security Hub findings data to create a security incident and simultaneously updates a Security Hub finding with any updates in the corresponding security incident.
 
-See the following diagram to learn how AWS Security Hub integrates with the ServiceNow AI Platform [[security-operations-landing-page|Security Operations]] applications.
+See the following diagram to learn how AWS Security Hub integrates with the ServiceNow AI Platform Security Operations applications.
 
 \[Omitted image "aws-security-hub-overview.png"\] Alt text: How AWS Security Hub integrates with the ServiceNow AI Platform.
 
@@ -38,7 +38,7 @@ Use the key features of this integration to do the following actions:
 -   Map AWS Security Hub findings and entity fields to SIR security incident fields.
 -   Filter AWS Security Hub findings.
 -   Aggregate findings to existing open security incidents so that you don't have to create duplicate security incidents.
--   Automate AWS Security Hub findings status updates for Security Incident Response so that you can create and [[t_ClosingSecIncidents|close security incidents]].
+-   Automate AWS Security Hub findings status updates for Security Incident Response so that you can create and close security incidents.
 
     **Note:** ServiceNow also updates the status of AWS Security Hub findings based on the creation, progress, or closure of the security incident. This update also includes comments of aggregated and new findings.
 
@@ -52,8 +52,3 @@ Use the key features of this integration to do the following actions:
 |AWS Security Hub product documentation website|[AWS Security Hub Documentation website](https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html)|
 |ServiceNow product documentation website|[ServiceNow Product Documentation website](https://www.servicenow.com/docs)|
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[t_ClosingSecIncidents|Close security incidents]]

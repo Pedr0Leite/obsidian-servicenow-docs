@@ -14,7 +14,7 @@ The ServiceNow® Smart Assessment Engine \(SAE\) enables you to create customiza
 
 ## Smart Assessment Engine highlights for the Australia release
 
-[[australia-patch-2|Australia Patch 2]]
+[Australia Patch 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2.md)
 
 -   Collaborate inline with question-level flags, question-level comments, and a new Work Notes tab.
 -   Draft assessment responses automatically with AI Response Assist, which suggests answers from prior assessments and attached documents with full source traceability.
@@ -22,7 +22,7 @@ The ServiceNow® Smart Assessment Engine \(SAE\) enables you to create customiza
 -   Update published templates safely with template versioning while preserving auditability of in-flight assessments.
 -   Streamline the responder experience with continuous scrolling inside sections and sub-sections, fully hidden conditional questions, multi-filter support on the question list, and scope item fields visible directly in the assessment task list.
 
-[[australia-patch-1|Australia Patch 1]]
+[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 
 -   Edit published templates quickly with inline edits and built‑in audit tracking.
 -   Enable efficient, role-based collaboration by allowing primary owners to delegate assessment sections to subject matter experts \(SMEs\).
@@ -99,10 +99,5 @@ See [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/Servi
 
 Install Smart Assessment Engine by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[[grc-rn-landing|Governance, Risk, and Compliance release notes]]
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-rn-landing.md)
 
-## Related
-
-- [[australia-patch-2|Australia Patch 2]]
-- [[australia-patch-1|Australia Patch 1]]
-- [[grc-rn-landing|Governance, Risk, and Compliance release notes]]

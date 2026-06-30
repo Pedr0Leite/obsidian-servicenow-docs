@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with Facebook Messenger, Inte
 
 # Remove Conversational Integration with Facebook Messenger
 
-Users can remove the [[messg-fbm|Conversational Integration with Facebook Messenger]] application when the app is no longer needed.
+Users can remove the Conversational Integration with Facebook Messenger application when the app is no longer needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+1.  Go to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 2.  On the Facebook Messenger integration section, click **Manage**.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md)
 
-## Related
-
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[convint-landing-page|Conversational Interfaces]]

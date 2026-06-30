@@ -14,13 +14,10 @@ breadcrumb: [Retail Task Management, Retail]
 
 # Retail Task Management reference
 
-Reference topics provide additional information about [[rahi-retail-task-management-overview|Retail Task Management]] components.
+Reference topics provide additional information about Retail Task Management components.
 
 -   **[Components installed with Retail Task Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-components.md)**  
 Several types of components such as tables, user roles, and business rule are installed when you activate the Retail Task Management plugin.
 -   **[Retail Task Management Core data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-data-model.md)**  
 Learn about the Retail Task Management application by viewing the data model and role relationship diagrams. These diagrams show the relationships between the tables and roles within the application and provide an overall picture of how the Retail Task Management application operates.
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]

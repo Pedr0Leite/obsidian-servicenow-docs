@@ -12,7 +12,7 @@ breadcrumb: [Indicators of compromise, IoC Repository, Threat Intelligence, Ente
 
 # Add a related observable to an IoC
 
-In addition to importing [[c_Observables|observables]] as STIX data, you can add related observables to an IoC manually.
+In addition to importing observables as STIX data, you can add related observables to an IoC manually.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **[[indicator|Indicators]]**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
-2.  Click the indicator to which you want to [[t_AddRelatedObservable|add a related observable]].
+2.  Click the indicator to which you want to add a related observable.
 
 3.  Click the **Related Observables** related list.
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.write
 7.  Click **Save**.
 
 
-**Parent Topic:**[[c_IoCs|Indicators of compromise]]
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
 **Related topics**  
 
@@ -50,11 +50,3 @@ Role required: sn\_ti.write
 
 [Add associated tasks to an IoC]()
 
-## Related
-
-- [[c_IoCs|Indicators of compromise]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[indicator|Indicators]]
-- [[t_AddRelatedObservable|Add a related observable]]

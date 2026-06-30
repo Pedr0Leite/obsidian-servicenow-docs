@@ -14,7 +14,7 @@ breadcrumb: [Work item automations in CWM, Use, Collaborative Work Management, S
 
 # Manage or delete automations in CWM
 
-Edit, disable, or delete automations for your Boards in [[cwm-landing|Collaborative Work Management]] based on the changing conditions of your team's workflow.
+Edit, disable, or delete automations for your Boards in Collaborative Work Management based on the changing conditions of your team's workflow.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Work item automations in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/implementing-automations-in-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

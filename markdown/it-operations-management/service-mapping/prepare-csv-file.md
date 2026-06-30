@@ -26,7 +26,7 @@ Role required: service\_mapping\_admin
 
 1.  Create an .xlsx file.
 
-2.  Define [[r_EntryPointsforBizSvcDef|entry point attributes]] for service candidates in the .xlsx file.
+2.  Define entry point attributes for service candidates in the .xlsx file.
 
     Customers use these entry points to access services. For example, they use http://www.google.com:8080 to access the Google page.
 
@@ -46,7 +46,7 @@ A
 
 </td><td>
 
-Enter a unique name of the planned service instance. For example, NY Public Library or Google.**Warning:** [[c_ServiceMappingOverview|Service Mapping]] imports only application services with unique names.
+Enter a unique name of the planned service instance. For example, NY Public Library or Google.**Warning:** Service Mapping imports only application services with unique names.
 
  If there is more than one entry with the same name in CSV files you use, the latest imported record overwrites the previous ones.
 
@@ -94,7 +94,3 @@ E
 
 **Parent Topic:**[Map multiple application services from a CSV file using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/import-business-services-csv.md)
 
-## Related
-
-- [[r_EntryPointsforBizSvcDef|Entry point attributes]]
-- [[c_ServiceMappingOverview|Service Mapping]]

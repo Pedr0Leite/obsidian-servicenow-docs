@@ -14,15 +14,15 @@ breadcrumb: [Exploring the Key Management Framework, Key Management Framework, E
 
 # Module access policy overview
 
-Module access [[ca-policies|policies]] \(MAPs\) are access controls that you apply to your cryptographic modules. Use these access policies to decide which [[users|users]] and scripts can access data encrypted by a cryptographic module.
+Module access policies \(MAPs\) are access controls that you apply to your cryptographic modules. Use these access policies to decide which users and scripts can access data encrypted by a cryptographic module.
 
 ## Module access policies
 
-**Note:** A subscription is required to utilize the [[now-platform-encryption|Field Encryption Enterprise]] functionality. See [[activate-platform-encryption|Activate Field Encryption]] for more information on Field Encryption Enterprise.
+**Note:** A subscription is required to utilize the Field Encryption Enterprise functionality. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information on Field Encryption Enterprise.
 
-Module access policies are introduced with the [[encryption|Key Management Framework]] \(KMF\) in the base system.
+Module access policies are introduced with the Key Management Framework \(KMF\) in the base system.
 
-Module access policies expand on the role-based designations that were provided with the [[encryption-landing|encryption]] modules. Module access policies can be based on the following:
+Module access policies expand on the role-based designations that were provided with the encryption modules. Module access policies can be based on the following:
 
 -   Basic \(scope\)
 -   Role
@@ -37,7 +37,7 @@ In a cryptographic module, you must configure the correct module access policies
 
 In this example, the absence of a module access policy on the encrypted Short Description field hides the content from all users accessing the Incident table. With a module access policy in place, only users with a specific role are able to see the encrypted data.
 
-\[Omitted image "encryption-field-[[sc-configuration|configuration]]-example.png"\] Alt text: Data with and without module access policies.
+\[Omitted image "encryption-field-configuration-example.png"\] Alt text: Data with and without module access policies.
 
 **Note:** The data in the column also appears empty to users without the correct role specified in the module access policy.
 
@@ -49,17 +49,7 @@ Autogen policies are automatically system generated based on the default module 
 
 **Important:**
 
-Autogen policy rules aren’t applied for scheduled jobs types, or [[field-encryption|field encryption]] modules \(modules where the parent module is Field Encryption\).
+Autogen policy rules aren’t applied for scheduled jobs types, or field encryption modules \(modules where the parent module is Field Encryption\).
 
 **Parent Topic:**[Exploring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/explore-kmf.md)
 
-## Related
-
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[field-encryption|Field Encryption]]

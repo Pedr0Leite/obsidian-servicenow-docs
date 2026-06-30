@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your Subscription Management
 
-This accelerator provides a demonstration on how to efficiently manage your ServiceNow [[subscriptions|subscriptions]] in the Subscription Management Application.
+This accelerator provides a demonstration on how to efficiently manage your ServiceNow subscriptions in the Subscription Management Application.
 
 ## Accelerator Overview
 
-Jumpstart Your Subscription Management provides [[impact-landing-page|Impact]] customers with an  overview of Subscription Management's key capabilities and features. This offering explores core functionalities and leading practices to [[io-help|help]] customers understand how to proactively manage their subscriptions using the Subscription Management Application. Additionally, this Accelerator includes key resources for getting started with ServiceNow Subscription Management.
+Jumpstart Your Subscription Management provides Impact customers with an  overview of Subscription Management's key capabilities and features. This offering explores core functionalities and leading practices to help customers understand how to proactively manage their subscriptions using the Subscription Management Application. Additionally, this Accelerator includes key resources for getting started with ServiceNow Subscription Management.
 
 ## Package Availability
 
@@ -66,8 +66,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[subscriptions|Subscriptions]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

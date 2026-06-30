@@ -90,7 +90,7 @@ One-Time Retrieval
 
 Select this checkbox to allow one-time retrieval of historical AWS Security Hub findings and then do the reconciliation of the data. When you select this checkbox, the application will pull all the open and closed AWS Security Hub findings for the period up to 90 days approximately.When processing the data both ongoing findings and historical data are pulled, but the processing of the ongoing findings takes precedence over historical pull. Otherwise, the historical pull may take some time based on the duration as well as the number of findings that are ingested.
 
-**Note:** The retrieved historical AWS Security Hub findings undergo de-duplication checks to prevent any duplicates within the [[sir-landing-page|Security Incident Response]] application.
+**Note:** The retrieved historical AWS Security Hub findings undergo de-duplication checks to prevent any duplicates within the Security Incident Response application.
 
 </td></tr><tr><td>
 
@@ -105,6 +105,4 @@ The date since when the historical findings are ingested from AWS Security Hub.*
 
 2.  To navigate to the Additional Options page, click **Continue**.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Localization Workspace reference, Localization Workspace, Translati
 
 # Types of Localizable content in Localization Workspace
 
-[[localization-workspace|Localization Workspace]] collects available translatable content from across your instance when you create a translation request. You can make your content available by configuring permissions and creating an artifact record.
+Localization Workspace collects available translatable content from across your instance when you create a translation request. You can make your content available by configuring permissions and creating an artifact record.
 
 ## Prerequisites for availability
 
@@ -30,7 +30,7 @@ A document may be considered partially translated when its original is updated a
 
 ## Content available by default
 
-The following table lists the content types that are available by default when you [[install-localization-workspace|install Localization Workspace]]. These are preconfigured with artifact records and cross-scope permissions.
+The following table lists the content types that are available by default when you install Localization Workspace. These are preconfigured with artifact records and cross-scope permissions.
 
 You can also configure your own custom artifacts. For more information, see [Create and configure a custom artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-configure-custom-artifact.md).
 
@@ -238,7 +238,3 @@ active=true
 
 [Supported artifacts in Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/supported-artifacts-lf.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[install-localization-workspace|install localization workspace]]

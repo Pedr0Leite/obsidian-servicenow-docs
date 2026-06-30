@@ -40,10 +40,7 @@ Role required:
 -   **[Access controls for a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-access-controls.md)**  
 Allow access controls specific to a case.
 -   **[External user access for case tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-external-users-access.md)**  
-This section describes the [[tisc-external-users-access|external user access for case tasks]].
+This section describes the external user access for case tasks.
 
 **Parent Topic:**[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/create-cases-using-threat-analyst-workbench.md)
 
-## Related
-
-- [[tisc-external-users-access|External user access for case tasks]]

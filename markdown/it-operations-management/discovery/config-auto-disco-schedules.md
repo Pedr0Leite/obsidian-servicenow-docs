@@ -14,7 +14,7 @@ breadcrumb: [IPAM Discovery integration, Configuring Discovery, Discovery, ITOM 
 
 # Configure auto-created Discovery schedules
 
-Enable the system to automatically create [[r-discovery|Discovery]] schedules based on IP data from your IP Address Management \(IPAM\) connections.
+Enable the system to automatically create Discovery schedules based on IP data from your IP Address Management \(IPAM\) connections.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Confirm the following:
 
 -   You have installed and configured Service Graph Connector Central \(SGC Central\) v2.4.0. For more information, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md).
 -   You have installed and configured Service Graph Connector for Infoblox v1.5.0. For more information, see [Configure Service Graph Connector for Infoblox using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configure-infoblox-integ.md).
--   You're [[using-discovery|using Discovery]] Admin Workspace v1.13.0.
+-   You're using Discovery Admin Workspace v1.13.0.
 -   You're using the Australia, ZP9 or later, or YP13 or later version of the ServiceNow AI Platform.
 
 Role required: discovery\_admin
@@ -33,7 +33,7 @@ The IPAM to Discovery integration monitors your IPv6 network structure by tracki
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Settings** &gt; **IP Address Management \(IPAM\)**.
+1.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Settings** &gt; **IP Address Management \(IPAM\)**.
 
 2.  Select the **Enable auto-created schedules** toggle.
 
@@ -67,8 +67,3 @@ After you enable auto-created schedules and configure the IP data refresh settin
 
 [IPAM Discovery integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ipv6-ipam-disco-integration.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

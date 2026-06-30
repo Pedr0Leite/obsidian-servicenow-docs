@@ -12,21 +12,14 @@ breadcrumb: [Inbound email, Notifications, Configure core features, Administer t
 
 # Inbound email actions
 
-Define an [[ia-inbound-email-il|inbound email]] action and processing to script how the system responds to an inbound email.
+Define an inbound email action and processing to script how the system responds to an inbound email.
 
--   **[[c_InboundEmailActions|Inbound email actions]]**  
+-   **[Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md)**  
 Define an inbound email action to script how the system responds to an inbound email.
--   **[[inbound-action-processing|Inbound email action processing]]**  
+-   **[Inbound email action processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-action-processing.md)**  
 The system determines which inbound actions to run by comparing the inbound email type and inbound action conditions to the incoming email message. Certain properties are available to set the reply and forwarding prefixes in the email subject lines that your instance recognizes when processing inbound emails.
--   **[[inbound-action-type-criteria|Criteria for matching email to inbound actions]]**  
+-   **[Criteria for matching email to inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-action-type-criteria.md)**  
 Default conditions of active inbound actions are used to manage incoming email. Inbound email actions are classified as forward, reply, or new based on subject line, record matching, and email headers
 
-**Parent Topic:**[[inbound-email-landing|Inbound email]]
+**Parent Topic:**[Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-email-landing.md)
 
-## Related
-
-- [[c_InboundEmailActions|Inbound email actions]]
-- [[inbound-action-processing|Inbound email action processing]]
-- [[inbound-action-type-criteria|Criteria for matching email to inbound actions]]
-- [[inbound-email-landing|Inbound email]]
-- [[ia-inbound-email-il|Inbound email]]

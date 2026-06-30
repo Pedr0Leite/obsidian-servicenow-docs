@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate ServiceNow Cloud Observability Events
 
-Integrate ServiceNow Cloud Observability with [[c_EM|Event Management]] by adding a standard webhook in the ServiceNow Cloud Observability platform. Download the Event Management Connector plugin from the ServiceNow Store so you can integrate with ServiceNow Cloud Observability.
+Integrate ServiceNow Cloud Observability with Event Management by adding a standard webhook in the ServiceNow Cloud Observability platform. Download the Event Management Connector plugin from the ServiceNow Store so you can integrate with ServiceNow Cloud Observability.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Authenticate ServiceNow Cloud Observability as a data source to enable Event Man
 
 **Note:** Ensure the evt\_mgmt\_integration role is assigned to the selected user. To ensure proper authentication, use the least privileged user with the evt\_mgmt\_integration role, rather than a high privileged user.
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -34,7 +34,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rul
 
 1.  Create a CI.
 
-    **Note:** [[r-discovery|Discovery]] for ServiceNow Cloud Observability services isn’t supported. Create a CI manually in a Service Instance \(cmdb\_ci\_service\_auto\) table to enable binding.
+    **Note:** Discovery for ServiceNow Cloud Observability services isn’t supported. Create a CI manually in a Service Instance \(cmdb\_ci\_service\_auto\) table to enable binding.
 
     1.  Navigate to **All** &gt; **Configuration** &gt; **Application Service**.
 
@@ -132,8 +132,3 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rul
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[r-discovery|Discovery]]

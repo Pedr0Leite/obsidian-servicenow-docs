@@ -14,7 +14,7 @@ breadcrumb: [Product Catalog, Asset Management, IT Service Management]
 
 # Models
 
-Models are specific versions or various configurations of an asset. Models are used for managing and tracking assets through various ServiceNow platform asset [[dex-workspace-application-tab|applications]], including [[c_ProductCatalog|Product Catalog]], [[c_AssetManagement|Asset Management]], and [[c_Procurement|Procurement]].
+Models are specific versions or various configurations of an asset. Models are used for managing and tracking assets through various ServiceNow platform asset applications, including Product Catalog, Asset Management, and Procurement.
 
 Model definitions can be based on vendor-provided criteria, for example, the manufacturer name Apple MacBook Pro, or on a custom abstraction, for example, Graphic Designer Workstation. All model information is located in the Product Catalog application.
 
@@ -37,17 +37,17 @@ Consumables are items that are tracked as a group, not individually. An example 
 -   **[Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_CreatingBundledModels.md)**  
 A bundled model is a single model comprised of individual models. For example, a laptop, printer, keyboard, and mouse can be combined into a single bundled model. If you assign any one asset from the bundled model to an individual, that person receives all the components in the bundle.
 -   **[Software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_CreatingSoftwareModels.md)**  
-[[c_CreatingSoftwareModels|Software models]] are created as part of the asset management process. You can create product models for software from the product catalog, but you cannot administer all aspects of the software models.
+Software models are created as part of the asset management process. You can create product models for software from the product catalog, but you cannot administer all aspects of the software models.
 -   **[Create application models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreatingApplicationModels.md)**  
-You can [[t_CreatingApplicationModels|create application models]] that can be managed and tracked within a Scrum development process.
+You can create application models that can be managed and tracked within a Scrum development process.
 -   **[Work order models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_CreatingWorkOrderModels.md)**  
-When work management is activated, the ServiceNow platform adds the [[c_CreatingWorkOrderModels|Work Order Models]] and Work Task Models modules to the product catalog.
+When work management is activated, the ServiceNow platform adds the Work Order Models and Work Task Models modules to the product catalog.
 -   **[Models created for VMware support and Amazon EC2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ModCreateForVMWSuppAmazEC2.md)**  
 When you activate Orchestration for VMware and Amazon EC2, the system creates models automatically.
 -   **[Add skills to a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingSkillsToAModel.md)**  
 You can associate skills with any model. Creating associations between skills and models is helpful if you are using work management and want to assign tasks to agents based on their skills with specific models.
 -   **[Publish models to the hardware or software catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_PublishingModToHrdwreOrSftCat.md)**  
-You can [[t_PublishingModToHrdwreOrSftCat|publish models to the hardware or software catalog]] to make the models available in the service catalog.
+You can publish models to the hardware or software catalog to make the models available in the service catalog.
 -   **[Delete models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_DeletingModels.md)**  
 If a model is no longer needed, you can delete it as long as no assets or configuration items use the model.
 
@@ -70,13 +70,3 @@ If a model is no longer needed, you can delete it as long as no assets or config
 
 [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_Procurement.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[t_CreatingApplicationModels|Create application models]]
-- [[c_CreatingWorkOrderModels|Work order models]]
-- [[t_PublishingModToHrdwreOrSftCat|Publish models to the hardware or software catalog]]

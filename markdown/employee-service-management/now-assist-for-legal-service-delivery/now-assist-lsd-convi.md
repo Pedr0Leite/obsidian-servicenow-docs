@@ -22,14 +22,14 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-[[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]] \(COI\) enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. You can submit COI requests using any of the following methods in the [[employee-center-landing-page|Employee Center]]:
+Legal Conflict of Interest \(COI\) enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. You can submit COI requests using any of the following methods in the Employee Center:
 
 -   COI intake form.
 -   Conversational intake interface from the Now Assist in Virtual Agent.
 
-This topic describes how to submit a COI request using the conversational interface. The conversational intake functionality is available only when you have installed and configured [[legal-management-overview|Legal Service Delivery]] - Prime plugin \(sn\_lg\_ai\_prime\) that is a paid application.
+This topic describes how to submit a COI request using the conversational interface. The conversational intake functionality is available only when you have installed and configured Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\) that is a paid application.
 
-For more information on how to submit a COI request [[using-emp-center|using Employee Center]] intake form, see [Submit COI request form Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/submit-coi-disclosure-request.md)
+For more information on how to submit a COI request using Employee Center intake form, see [Submit COI request form Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/submit-coi-disclosure-request.md)
 
 ## Procedure
 
@@ -72,9 +72,3 @@ When an employee submits a COI disclosure the risk assessment utility evaluates 
 
 **Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-using.md)
 
-## Related
-
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[using-emp-center|Using Employee Center]]

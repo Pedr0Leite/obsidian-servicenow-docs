@@ -14,7 +14,7 @@ breadcrumb: [AWS API Gateway, API Service Graph Connectors, Integrating third-pa
 
 # Accessing the connection details of API Service Graph Connector for AWS API Gateway
 
-You can access the connection details of the [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]] in a single view using the common connection framework \(CCF\) included within the [[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\) store app.
+You can access the connection details of the API Service Graph Connector for AWS API Gateway in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
 With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-conn-fw.md).
 
@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_int\_util.sgc\_admin oradmin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AWS API Gateway** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AWS API Gateway** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -38,8 +38,4 @@ Role required: sn\_cmdb\_int\_util.sgc\_admin oradmin
 
 5.  Select the **Test Connection** related link to test the connection.
 
-## Related
 
-- [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

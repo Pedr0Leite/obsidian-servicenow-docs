@@ -12,13 +12,13 @@ breadcrumb: [Configuring Now Assist Analytics, Analyzing Now Assist performance,
 
 # Installing Now Assist Analytics
 
-You can install the [[platform-now-assist-landing|Now Assist]] Analytics application \(sn\_na\_analytics\) with Now Assist applications if you have the admin role.
+You can install the Now Assist Analytics application \(sn\_na\_analytics\) with Now Assist applications if you have the admin role.
 
 ## Installation requirements
 
 You must be on Australia Patch 0 or later.
 
-Now Assist Analytics is included as a dependency for all Now Assist applications. It is not recommended to install the application by itself. Instead, you can install Now Assist applications from the Now Assist Admin console or directly from the ServiceNow Store. For details, see [[install-now-assist-feature-plugins|Install Now Assist plugins]].
+Now Assist Analytics is included as a dependency for all Now Assist applications. It is not recommended to install the application by itself. Instead, you can install Now Assist applications from the Now Assist Admin console or directly from the ServiceNow Store. For details, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 \[Omitted image "naa-now-assist-admin-console-install-plugins.png"\] Alt text: Now Assist Admin console links to browse plugins by workflow.
 
@@ -31,7 +31,3 @@ Now Assist Analytics has a dependency on Now Assist Admin. Be sure to have the c
 |Now Assist Analytics 2.0.14|Now Assist Admin 5.0.7|Australia Patch 1|
 |Now Assist Analytics 1.1.11|Now Assist Admin 4.1.16|Australia Patch 0|
 
-## Related
-
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[platform-now-assist-landing|Now Assist]]

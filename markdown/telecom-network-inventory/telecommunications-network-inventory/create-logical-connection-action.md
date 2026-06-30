@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Create Logical Connection function
 
-The Create Logical Connection function enables you to create a logical connection record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application based on the input \(interfaces\) that you receive when you instantiate an inventory.
+The Create Logical Connection function enables you to create a logical connection record in the Telecommunications Network Inventory application based on the input \(interfaces\) that you receive when you instantiate an inventory.
 
 You can use the Create Logical Connection function to create a logical connection on your network interface cards.
 
@@ -100,7 +100,7 @@ Connection elements
 
 </td><td>
 
-Connection elements that are added for the [[design-logical-connection-design-assign-playbook|logical connections]]. Click the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.
+Connection elements that are added for the logical connections. Click the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.
 
 </td><td>
 
@@ -144,7 +144,3 @@ The following table lists the information about the function output.
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

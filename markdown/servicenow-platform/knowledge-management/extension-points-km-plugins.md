@@ -14,11 +14,11 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Use extension points for Knowledge Management
 
-Use UI extension points to add knowledge article headers and footers to knowledge articles and to customize the [[email|email]] template for notifications when a knowledge article is commented on. Use scripted extension points to customize the feedback object used in the email template for notifications when a knowledge article is commented on.
+Use UI extension points to add knowledge article headers and footers to knowledge articles and to customize the email template for notifications when a knowledge article is commented on. Use scripted extension points to customize the feedback object used in the email template for notifications when a knowledge article is commented on.
 
 ## Before you begin
 
-The [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) must be activated to view the KMFeedbackNotification UI extension point and the KMFeedbackObject scripted extension point. These notifications are part of the Subscriptions feature, which is activated with this plugin.
+The Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) must be activated to view the KMFeedbackNotification UI extension point and the KMFeedbackObject scripted extension point. These notifications are part of the Subscriptions feature, which is activated with this plugin.
 
 Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-service-portal-pages.md).
 
@@ -78,7 +78,3 @@ An implementation is delivered in the base system for scripted extension points.
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[email|Email]]
-- [[knowledge-management|Knowledge Management]]

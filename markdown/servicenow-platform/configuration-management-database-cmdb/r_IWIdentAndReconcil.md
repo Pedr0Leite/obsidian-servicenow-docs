@@ -40,7 +40,7 @@ Reconciliation Definition\[cmdb\_reconciliation\_definition\]
 
 </td><td>
 
-Static [[r_ReconciliationRulesPrinciples|reconciliation rules]] defined for different classes of CIs at the table and field level.
+Static reconciliation rules defined for different classes of CIs at the table and field level.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Data Source Staleness Definition\[cmdb\_datasource\_staleness\]
 
 </td><td>
 
-Effective duration per data source. When effective duration is exceeded, then [[c_CMDBHealth|CMDB Health]] determines that the information provided by that data source is stale.
+Effective duration per data source. When effective duration is exceeded, then CMDB Health determines that the information provided by that data source is stale.
 
 </td></tr><tr><td>
 
@@ -222,7 +222,3 @@ Configuration table \(typically included in a CI Class Models app\) with entries
 
 [Properties for Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/properties-id-reconciliation.md)
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_CMDBHealth|CMDB Health]]

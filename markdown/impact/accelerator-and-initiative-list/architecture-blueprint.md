@@ -20,7 +20,7 @@ The Architecture Blueprint – Advanced Accelerator provides guidance and insigh
 
 ### Accelerator Overview
 
-The Architecture Blueprint - Advanced Accelerator provides [[impact-landing-page|Impact]] Customers with example architectural artifacts to support your current ServiceNow environment in order to gain an understanding of the core ServiceNow data architecture, application architecture, and technology infrastructure architecture. An Architecture Blueprint aims to provide you with clear visibility into your ServiceNow architecture to enable more effective platform management, governance, and decision making.
+The Architecture Blueprint - Advanced Accelerator provides Impact Customers with example architectural artifacts to support your current ServiceNow environment in order to gain an understanding of the core ServiceNow data architecture, application architecture, and technology infrastructure architecture. An Architecture Blueprint aims to provide you with clear visibility into your ServiceNow architecture to enable more effective platform management, governance, and decision making.
 
 ### Package Availability
 
@@ -134,7 +134,7 @@ Responsible for one or more integrations \(e.g. applications being integrated, d
 
 </td></tr><tr><td>
 
-[[technical-governance|Technical Governance]] Board Lead \(Recommended\)
+Technical Governance Board Lead \(Recommended\)
 
 </td><td>
 
@@ -192,7 +192,7 @@ Leads 3rd party development and / or delivery services.
 </table>### Requested information / access
 
 -   Organization, data, application, integration, process and operating documentation. Specific information request will depend on the defined scope for each initiative delivery.
--   Customer may be asked to grant the ServiceNow [[impact-squad|Impact Squad]] access to Customer’s instance for the purposes of providing the Impact Accelerator during the period of [[instance-observer-performance|performance]].
+-   Customer may be asked to grant the ServiceNow Impact Squad access to Customer’s instance for the purposes of providing the Impact Accelerator during the period of performance.
 
 ### Exclusions
 
@@ -391,9 +391,3 @@ Leads 3rd party development and / or delivery services.
 -   Develop detailed technical integration specifications
 -   Develop your detailed application development code release flow
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[technical-governance|Technical Governance]]
-- [[impact-squad|Impact Squad]]
-- [[instance-observer-performance|Performance]]

@@ -25,14 +25,14 @@ Role required: sn\_hr\_core.case\_writer
 ## About this task
 
 -   For information about configuring case creation, see [Configure how HR cases are created](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModCaseCreationConfig.md).
--   Employees can also create HR cases for themselves using the record producers in [[employee-center-landing-page|Employee Center]]. The details entered by the employee get recorded in the description of the HR case.
+-   Employees can also create HR cases for themselves using the record producers in Employee Center. The details entered by the employee get recorded in the description of the HR case.
 
-    **Note:** If a value entered by the user does not match with the value in the [[c_HRProfileRecords|HR profile]] of opened for, only then the value entered by the user gets recorded in the description of HR case. This behavior is not observed when the HR service of the case is either New Hire Onboarding or New Hire Journey.
+    **Note:** If a value entered by the user does not match with the value in the HR profile of opened for, only then the value entered by the user gets recorded in the description of HR case. This behavior is not observed when the HR service of the case is either New Hire Onboarding or New Hire Journey.
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
     Or, from any case list, click **New**.
 
@@ -93,8 +93,8 @@ HR service
 
 </td><td>
 
-The HR service based on the COE selected or what you select based on communication with the employee request. The [[hr-service-administration|HR services]] that are available to an employee are filtered by:-   The COE selected
--   [[hr-criteria|HR criteria]] for the **Subject person** based on the [[hr-service-configuration|HR service configuration]]
+The HR service based on the COE selected or what you select based on communication with the employee request. The HR services that are available to an employee are filtered by:-   The COE selected
+-   HR criteria for the **Subject person** based on the HR service configuration
 
 The limit services filter on the **Case Creation Configuration** form. If the HR service field is empty, ensure that you did not remove the **Opened for** field.
 
@@ -104,7 +104,7 @@ Document Template Type
 
 </td><td>
 
-The category for the document template.**Note:** This option appears only when the [[document-templates-overview|Document Templates]] \[com.snc.document\_templates\] plugin is activated, and the **Document Template Type** field is selected while configuring the HR service.
+The category for the document template.**Note:** This option appears only when the Document Templates \[com.snc.document\_templates\] plugin is activated, and the **Document Template Type** field is selected while configuring the HR service.
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Information specific to the case that can help other HR agents. Text in the **Wo
     -   If the case is being created for a different user, for example, a manager filing a case for an employee, use the choice list to select a different user.
 5.  Select the subject of the case in the **Subject person** field by selecting the Lookup using list icon \(\[Omitted image "magnifying-glass.png"\] Alt text: Lookup using list icon\) and searching for and selecting another employee.
 
-    **Note:** Advanced [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] qualifiers on a reference field is not supported in the case creation configuration page. When the limit user search filter is applied to the employee search, it will not be applied to **Opened for** and **Subject person**.
+    **Note:** Advanced reference qualifiers on a reference field is not supported in the case creation configuration page. When the limit user search filter is applied to the employee search, it will not be applied to **Opened for** and **Subject person**.
 
 6.  Click **Create Case**.
 
@@ -145,25 +145,13 @@ Information specific to the case that can help other HR agents. Text in the **Wo
 The **HR case** form appears with additional information about the case. The values selected for the **COE** and **HR service** fields determine the fields that appear.
 
 -   **[Open an HR case to create a Journey Accelerator action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-journey-accelerator-plan.md)**  
-[[journey-accelerator-1|Journey Accelerator]] action plans can be created by opening an HR case with a related lifecycle event.
+Journey Accelerator action plans can be created by opening an HR case with a related lifecycle event.
 -   **[Request a background check through a third-party background check provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-background-check-by-background-check-system.md)**  
 Request a background check for an employee through a third-party background check provider such as First Advantage, Accurate, or Sterling.
 -   **[Request an electronic signature through the Docusign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-e-signature-through-docusign-service.md)**  
-[[request-e-signature-through-docusign-service|Request an electronic signature through the DocuSign service]]. When the case state changes to **Ready**, the flow triggers and creates DocuSign tasks for all of the signers. For parallel signing, the tasks are assigned all at once. For serial signing, the tasks are created in the order defined.
+Request an electronic signature through the DocuSign service. When the case state changes to **Ready**, the flow triggers and creates DocuSign tasks for all of the signers. For parallel signing, the tasks are assigned all at once. For serial signing, the tasks are created in the order defined.
 -   **[Request an electronic signature through the Adobe Acrobat Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-e-signature-through-adobe-sign-service.md)**  
 Request an electronic signature through the Adobe Sign service. When the case state changes to **Ready**, the flow triggers and creates Adobe Sign tasks for all of the signers. For parallel signing, the tasks are assigned all at once. For serial signing, the tasks are created in the order defined.
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[case-management-workspace|Case management]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-configuration|HR service configuration]]
-- [[document-templates-overview|Document Templates]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[request-e-signature-through-docusign-service|Request an electronic signature through the Docusign service]]

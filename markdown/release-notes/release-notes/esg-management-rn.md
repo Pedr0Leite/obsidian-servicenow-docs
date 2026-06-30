@@ -108,8 +108,5 @@ Install Operational Sustainability Management by requesting it from the ServiceN
     -   Watershed integration for ESG \(com.sn\_esg\_watershed\): Renamed Operational Sustainability Integration with Watershed \(com.sn\_esg\_watershed\)
     -   Workday ESG integration \(com.sn\_esg\_workday\): Renamed Operational Sustainability Integration with Workday \(com.sn\_esg\_workday\)
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[new-features-changes|Features and changes by product]]

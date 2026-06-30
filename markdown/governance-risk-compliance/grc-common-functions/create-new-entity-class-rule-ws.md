@@ -14,7 +14,7 @@ breadcrumb: [Entity class rules, Explore entities, Common GRC features, Governan
 
 # Create an entity class rule
 
-Create a rule for an [[entity-class|entity class]]. [[entity-class-rules-in-risk-ws|Entity class rules]] provide the classification of the entities at the class level. You can create a new entity class rule for an entity class that is associated with a table. After creating the new entity class rule, the Entity class rules table is updated with the new record.
+Create a rule for an entity class. Entity class rules provide the classification of the entities at the class level. You can create a new entity class rule for an entity class that is associated with a table. After creating the new entity class rule, the Entity class rules table is updated with the new record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and click **Entity class rules**.
+1.  Navigate to the desired workspace, go to the List view, and click **Entity class rules**.
 
     **Note:** You can't create an entity class rule from the Compliance Workspace. You can create it only in the Core UI.
 
@@ -42,8 +42,3 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
 **Parent Topic:**[Entity class rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-rules-in-risk-ws.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[entity-class-rules-in-risk-ws|Entity class rules]]
-- [[list-view-uib-ws|List view]]

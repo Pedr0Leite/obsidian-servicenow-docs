@@ -20,13 +20,13 @@ A business impact analysis is an integral component of the business continuity p
 
 Business managers have to make challenging decisions that can contribute to overall business growth. Sometimes, an unforeseen event or a disruption can cause disruptive effects. Performing a business impact analysis helps your business to mitigate these concerns. By evaluating the potential impact of an event or a decision, your business can predict future consequences and recover from setbacks successfully.
 
-For information on the use cases for business impact analysis, see [[bia-use-cases|Use cases for business impact analysis]].
+For information on the use cases for business impact analysis, see [Use cases for business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-use-cases.md).
 
 ## Steps involved in creating a business impact analysis
 
 Creating a business impact analysis includes these steps:
 
--   The business impact analysis owner creates a business impact analysis either from the Home page or the business impact analysis record page in the [[list-view-uib-ws|List view]] of the BCM UIB Workspace.
+-   The business impact analysis owner creates a business impact analysis either from the Home page or the business impact analysis record page in the List view of the BCM UIB Workspace.
 -   The BIA owner adds additional details for the business impact analysis on the **Details** tab.
 -   Different users of the BCM application respond to the assessment questionnaire for the business impact analysis on the **Assessment** tab.
 -   Based on the responses received, the BCM application calculates the recovery time objective \(RTO\), recovery point objective \(RPO\), and dependencies for the business impact analysis.
@@ -43,7 +43,7 @@ A typical business impact analysis workflow is shown in the examples:
 
 ## Setup tasks for the business impact analysis administrator
 
-If you are the business impact analysis administrator, you can view [[bcm-admin-tasks|Setup for a business impact analysis]] for information on the setup tasks.
+If you are the business impact analysis administrator, you can view [Setup for a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md) for information on the setup tasks.
 
 ## Creating a business impact analysis in Business Continuity Workspace
 
@@ -53,20 +53,12 @@ if you are the business impact analysis owner, you can create a business impact 
 
     \[Omitted image "bia-home-page.png"\] Alt text: Create BIA from the Home page.
 
-    For the description of the cards and action buttons in the **Business impact analysis** tab of the Home page, see [[home-page-uib-ws|Home page view]].
+    For the description of the cards and action buttons in the **Business impact analysis** tab of the Home page, see [Home page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Business Impact Analysis records as shown in the example.
 
     \[Omitted image "list-view-bcm.png"\] Alt text: Create BIA from the record page in the List view.
 
 
-To create a business impact analysis in Business Continuity Workspace, see [[create-bia-in-uib-ws|Create a business impact analysis]]. For information on managing the tasks that are related to a business impact analysis, see [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]].
+To create a business impact analysis in Business Continuity Workspace, see [Create a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bia-in-uib-ws.md). For information on managing the tasks that are related to a business impact analysis, see [Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md).
 
-## Related
-
-- [[bia-use-cases|Use cases for business impact analysis]]
-- [[bcm-admin-tasks|Setup for a business impact analysis]]
-- [[home-page-uib-ws|Home page view]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[list-view-uib-ws|List view]]

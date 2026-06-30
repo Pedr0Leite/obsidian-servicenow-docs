@@ -15,7 +15,7 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Stockroom audit access by role
 
-Audit roles determine which [[c_Stockrooms|stockrooms]] a user can view and audit. Depending on your application and assigned role, you may have access to all stockrooms or only personal stockrooms.
+Audit roles determine which stockrooms a user can view and audit. Depending on your application and assigned role, you may have access to all stockrooms or only personal stockrooms.
 
 ## Stockroom audit roles
 
@@ -37,10 +37,10 @@ The audit roles are organized in the following hierarchy:
 
 ## Role assignments by application
 
--   **[[enterprise-asset-management|Enterprise Asset Management]]**
+-   **Enterprise Asset Management**
     -   The sn\_eam.asset\_technician role is assigned the sn\_itam\_common.asset\_audit\_user role, enabling read, write, and create access on all stockrooms.
     -   The sn\_eam.enterprise\_admin role is assigned the sn\_itam\_common.asset\_audit\_admin role, enabling full access to all stockroom and location audits, including the ability to delete audit records.
--   **[[ham-landing-page|Hardware Asset Management]]**
+-   **Hardware Asset Management**
 
     The ham\_admin role is assigned the sn\_itam\_common.asset\_audit\_admin role, enabling full access on all stockrooms.
 
@@ -58,8 +58,3 @@ Audit your enterprise asset inventory to learn where your assets are and what th
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]

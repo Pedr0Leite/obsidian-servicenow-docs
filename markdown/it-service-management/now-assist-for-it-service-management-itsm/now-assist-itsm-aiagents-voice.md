@@ -29,14 +29,14 @@ Using the Now Assist for ITSM Voice AI agents, you can do the following:
 -   Use generic queries such as, "Is there an update to my ticket from yesterday?" or "What's the status of my VPN ticket?" and get responses in the context of your questions.
 -   Escalate a ticket to a higher priority or add a comment to the ticket.
 
-To modify the Voice AI agents, duplicate it, and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Voice AI agents, duplicate it, and adjust the settings according to your requirements.
 
 **Important:**
 
 -   When you modify an AI agent, or a tool, make sure that you update all instructions accordingly.
 -   In the Define availability screen for the AI agent, make sure that the **Status** field is enabled to activate the AI agent.
 
-**Note:** The Voice AI agents are installed with the [[r_ITServiceManagement|IT Service Management]] AI voice agent collection application \(sn\_itsm\_voice\_aia\).
+**Note:** The Voice AI agents are installed with the IT Service Management AI voice agent collection application \(sn\_itsm\_voice\_aia\).
 
 <table id="table_abj_5lk_j2c"><thead><tr><th>
 
@@ -68,7 +68,7 @@ Password reset with voice AI agent
 
 </td><td>
 
-Fetches the information to reset your password in one of the following ways:**Note:** You can get the knowledge article when you install the demo data from the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) application or you can create your own knowledge article with the password reset instructions.
+Fetches the information to reset your password in one of the following ways:**Note:** You can get the knowledge article when you install the demo data from the Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) application or you can create your own knowledge article with the password reset instructions.
 
 -   Provides the instructions from the knowledge article to reset the password in an email.
 -   Provide the reset password link by SMS.
@@ -121,8 +121,3 @@ For Voice AI agents to search knowledge base articles:
 2.  Define the search profile in AI search to search the knowledge base articles. For information on AI search, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/defining-search-profiles-ais.md)
 3.  Create the search retrieval tool to use the search profile in the Voice AI agent. For information on search retrieval, see [Add a search retrieval to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-retriever-ai-agent.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

@@ -18,7 +18,7 @@ As a security incident is being worked on, you can view the details of the event
 
 ## Before you begin
 
-You must have the [[sir-landing-page|Security Incident Response]] Event Management support plugin activated.
+You must have the Security Incident Response Event Management support plugin activated.
 
 Role required: si.sn\_agent
 
@@ -37,6 +37,4 @@ Role required: si.sn\_agent
     |Security Incident CI Alerts|You can view details for alerts received within the previous 24 hours. You have the option of clicking **Acknowledge** to indicate that you are aware of the alert and it is being handled. Use **Close** to indicate that the alert is not important.|
     |Security Incident CI Events|You can view details for event received within the previous 24 hours.|
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

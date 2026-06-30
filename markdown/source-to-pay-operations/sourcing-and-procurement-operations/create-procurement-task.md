@@ -14,7 +14,7 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Create a procurement task
 
-As a procurement specialist, create a procurement task for the shopper or employer from the contextual panel of a procurement object details page in [[purch-order-mgmt-ws|Source-to-Pay Workspace]], to address your procurement-related business needs.
+As a procurement specialist, create a procurement task for the shopper or employer from the contextual panel of a procurement object details page in Source-to-Pay Workspace, to address your procurement-related business needs.
 
 \[Omitted video\] Description: Describes the procedure for creating a procurement task from the Procurement workspace.
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Procurement Workspace**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Procurement Workspace**.
 
 2.  On the list page, navigate to **All work**.
 
@@ -105,7 +105,7 @@ State
 
 </td><td>
 
-Current state the task is in.**Note:** The assigned to shopper or employee can view this task in Employee Center or [[shopping-hub-overview|Shopping Hub]] only when the status of the task is updated to Work in Progress.
+Current state the task is in.**Note:** The assigned to shopper or employee can view this task in Employee Center or Shopping Hub only when the status of the task is updated to Work in Progress.
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Case associated with the task.
 
 </td></tr><tr><td>
 
-[[sourcing-request|Sourcing request]]
+Sourcing request
 
 </td><td>
 
@@ -153,7 +153,7 @@ Sourcing request associated with the task.
 
 </td></tr><tr><td>
 
-[[purchase-requisition|Purchase requisition]]
+Purchase requisition
 
 </td><td>
 
@@ -161,7 +161,7 @@ Purchase requisition associated with the task.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]]
+Purchase order
 
 </td><td>
 
@@ -233,11 +233,3 @@ Time taken to resolve the task, in days, hours, minutes, and seconds.
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psd-overview|Procurement Case Management]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

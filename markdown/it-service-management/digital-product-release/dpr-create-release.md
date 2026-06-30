@@ -25,7 +25,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
-If product-level release [[settings-mobile|settings]] are configured, only the templates and calendars specified for the product are available during release creation. To configure release settings for a product, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+If product-level release settings are configured, only the templates and calendars specified for the product are available during release creation. To configure release settings for a product, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
 Releases can follow a timeline-oriented and stage-oriented release process. For more information, see [Release for a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-product-release.md).
 
@@ -35,7 +35,7 @@ For creating a release for multiple products using the wizard, see [Create a rel
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Create a release for a product version from the Release planning page or the Releases list view.
 
@@ -109,7 +109,3 @@ Steps
 
 [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dpr-workspace|Digital Product Release Workspace]]

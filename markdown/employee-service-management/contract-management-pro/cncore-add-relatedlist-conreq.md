@@ -65,7 +65,7 @@ For more information on roles required to work on contract requests, see [Compon
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -75,6 +75,3 @@ For more information on roles required to work on contract requests, see [Compon
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

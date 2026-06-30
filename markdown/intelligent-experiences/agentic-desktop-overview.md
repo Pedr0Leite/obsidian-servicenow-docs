@@ -12,12 +12,12 @@ breadcrumb: [Defined desktop actions for desktop, Explore, AI Desktop Actions, E
 
 # AI Desktop Actions Design workspace
 
-The Design workspace is an interactive environment within [[agentic-desktop-landing-page|AI Desktop Actions]] that enables you to create desktop actions by recording and configuring user interactions with desktop applications. The workspace provides a visual canvas where you can design multi-screen automation workflows that capture business processes across different applications.
+The Design workspace is an interactive environment within AI Desktop Actions that enables you to create desktop actions by recording and configuring user interactions with desktop applications. The workspace provides a visual canvas where you can design multi-screen automation workflows that capture business processes across different applications.
 
 **Important:** Access to the Design workspace and Execution workspace depends on the user’s role.
 
--   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the [[now-assist-center-home-page|Home page]] and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
--   When users with the [[now-assist-center-now-assist-panel|Now Assist panel]] user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
+-   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the Home page and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
+-   When users with the Now Assist panel user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
 
 You don’t open the Execution workspace directly. It launches automatically when you test or run a desktop action.
 
@@ -232,7 +232,7 @@ Enables you to save the desktop action after you have configured the required fi
 
 </td><td>
 
-Option to activate the desktop action so that it can be published to [[ai-agent-studio|AI Agent Studio]]. You can add the activated desktop action as a tool to AI agents.**Note:** After activation, save the desktop action to make it available as a tool in AI Agent Studio.
+Option to activate the desktop action so that it can be published to AI Agent Studio. You can add the activated desktop action as a tool to AI agents.**Note:** After activation, save the desktop action to make it available as a tool in AI Agent Studio.
 
 </td></tr><tr><td>
 
@@ -252,27 +252,15 @@ Screen capture options
 </table>**Related topics**  
 
 
-[[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
+[Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md)
 
-[[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md)
 
-[[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
+[Extend a desktop action by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md)
 
-[[example-badging-magmt-concept-ad|Example: Automate badge request management using AI Desktop Actions]]
+[Example: Automate badge request management using AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-badging-magmt-concept-ad.md)
 
-[[example-shipping-magmt-concept-ad|Example: Automate shipping management tasks using AI Desktop Actions]]
+[Example: Automate shipping management tasks using AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-shipping-magmt-concept-ad.md)
 
-[[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
+[Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/screen-anchor-and-action-properties-ad.md)
 
-## Related
-
-- [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
-- [[example-badging-magmt-concept-ad|example badging magmt concept ad]]
-- [[example-shipping-magmt-concept-ad|example shipping magmt concept ad]]
-- [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-agent-studio|AI Agent Studio]]

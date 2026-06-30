@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
 2.  Select **Schedule Full Scan**.
 
@@ -42,9 +42,9 @@ Role required: admin
 
 4.  To run the full scan, select **Execute Now**.
 
-    A list of [[hs-findings|findings]] is displayed.
+    A list of findings is displayed.
 
-5.  From the application navigator, select **[[hs-results|Results]]**.
+5.  From the application navigator, select **Results**.
 
     The status of the execution is displayed along with the **Result Number**.
 
@@ -82,8 +82,3 @@ A schedule to trigger a full scan regularly even without an active session is cr
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]
-- [[hs-results|Results]]

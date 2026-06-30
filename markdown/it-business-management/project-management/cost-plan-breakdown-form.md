@@ -30,7 +30,7 @@ Task
 
 </td><td>
 
-Task to which the [[cost-plan-breakdown|cost plan breakdown]] belongs.
+Task to which the cost plan breakdown belongs.
 
 </td></tr><tr><td>
 
@@ -112,6 +112,3 @@ First date of the fiscal period corresponding to the cost plan breakdown.
 
 [Update a cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-cost-plan-breakdown.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]

@@ -22,10 +22,10 @@ Role required: ui\_macro\_admin
 
 Examples of form elements rendered by formatters in the base platform are:
 
--   [[c_ActivityFormatter|Activity formatter]]: Displays the list of activities, or history, on a task form.
--   [[r_ProcessFlowFormatter|Process flow formatter]]: Displays the different stages in a linear process flow across the top of a record.
--   Task [[t_TaskParentBreadcrumbsFormatter|parent breadcrumbs formatter]]: Provides breadcrumbs to show the parent or parents of the current task.
--   [[approval-summarizer|Approval summarizer formatter]]: Displays dynamic summary information about the element being approved.
+-   Activity formatter: Displays the list of activities, or history, on a task form.
+-   Process flow formatter: Displays the different stages in a linear process flow across the top of a record.
+-   Task parent breadcrumbs formatter: Provides breadcrumbs to show the parent or parents of the current task.
+-   Approval summarizer formatter: Displays dynamic summary information about the element being approved.
 
 A UI macro can override formatters provided in the base system.
 
@@ -52,7 +52,7 @@ Here is the form for the UI macro that overrides the approval summarizer formatt
 
 \[Omitted image "FormatterOverride.png"\] Alt text: Override the formatter
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 **Related topics**  
 
@@ -61,10 +61,3 @@ Here is the form for the UI macro that overrides the approval summarizer formatt
 
 [Create a formatter and add it to a form]()
 
-## Related
-
-- [[c_Formatters|Using formatters]]
-- [[c_ActivityFormatter|Activity formatter]]
-- [[r_ProcessFlowFormatter|Process flow formatter]]
-- [[t_TaskParentBreadcrumbsFormatter|Parent breadcrumbs formatter]]
-- [[approval-summarizer|Approval summarizer formatter]]

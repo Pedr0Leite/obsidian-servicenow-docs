@@ -16,19 +16,19 @@ Use screen variables to collect information from the user automatically or defin
 
 ## Before you begin
 
-You must create an [[parameter-input-screen|input form screen]] before you create variables and attributes. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+You must create an input form screen before you create variables and attributes. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select the input form screen for which you want to configure variables.
 
@@ -159,12 +159,5 @@ Enter this attribute name for Scripted variables.**Note:** Enter the attribute n
 
 ## What to do next
 
-After you have created your input form screen variables, you can map these variables to input form screen inputs or action items. For details on this process, see [[sg-studio-create-action-item|Configure an action item]].
+After you have created your input form screen variables, you can map these variables to input form screen inputs or action items. For details on this process, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

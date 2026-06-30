@@ -15,7 +15,7 @@ breadcrumb: [Using catalogs and autopilot in Virtual Agent, Configure, Virtual A
 
 # Set up catalog branding
 
-Customize the appearance of catalogs in [[virtual-agent-landing-page|Virtual Agent]] to match your business' branding.
+Customize the appearance of catalogs in Virtual Agent to match your business' branding.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Virtual Agent uses the Branding Setup \[sys\_cs\_branding\_setup\] table to defi
 
     3.  Under the Additional Actions icon \[Omitted image "additional-actions-icon.png"\] Alt text: Additional actions icon., select **Copy sys\_id**.
 
-    4.  Navigate to **All** &gt; **Service Portal** &gt; **[[ci-use-agent-chat|Agent Chat]]**.
+    4.  Navigate to **All** &gt; **Service Portal** &gt; **Agent Chat**.
 
     5.  Select the portal configuration where you want to add your branding theme, and add the following line to the server script, including the sys\_id from Step 4c.
 
@@ -91,7 +91,7 @@ Virtual Agent uses the Branding Setup \[sys\_cs\_branding\_setup\] table to defi
 
 12. Select one of the elements needing branding found in Step 8.
 
-13. In the palette [[sidebar-landing|sidebar]], set the element's hex code color to match the color from your branding record.
+13. In the palette sidebar, set the element's hex code color to match the color from your branding record.
 
 14. Repeat Steps 12 and 13 until you update all elements.
 
@@ -104,8 +104,3 @@ Catalog color themes now match your branding.
 
 **Parent Topic:**[Using catalogs and autopilot in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-catalogs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[sidebar-landing|Sidebar]]

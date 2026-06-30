@@ -16,7 +16,7 @@ breadcrumb: [Analyzing and getting process insights, Use, Process Mining, Platfo
 
 Apply filters to refine and drill into specific aspects of your process map.
 
-[[process-mining|Process Mining]] has these filtering tools for [[analyze-data|refining a process map]], accessible from the **Filters** tab and the process map.
+Process Mining has these filtering tools for refining a process map, accessible from the **Filters** tab and the process map.
 
 ## Filters tab
 
@@ -32,7 +32,7 @@ Apply filters to refine and drill into specific aspects of your process map.
 -   **[Apply a breakdown filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-analyst-workbench-filter.md)**  
 Filter analyst workbench projects that you create, shared with you or all.
 -   **[Create a filter set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-filter-set.md)**  
-[[create-filter-set|Create a filter set]] to be able to apply your current filter selections to the same process map later.
+Create a filter set to be able to apply your current filter selections to the same process map later.
 -   **[Applying a process step filter on an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/node-to-node-conditions.md)**  
 Process step filtering enables you to get closer views of the different routes that records go through.
 -   **[Apply metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/apply-metrics.md)**  
@@ -44,8 +44,3 @@ Set the data and map filters to focus on the data as per your requirement.
 
 **Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyze-data|Refining a process map]]
-- [[create-filter-set|Create a filter set]]

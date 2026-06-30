@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Select your user name in the portal header and then select **Profile**.
 
@@ -40,6 +40,3 @@ Role required: sn\_customerservice.consumer
 
 [Soft PIN authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/softpin-authentication.md)
 
-## Related
-
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

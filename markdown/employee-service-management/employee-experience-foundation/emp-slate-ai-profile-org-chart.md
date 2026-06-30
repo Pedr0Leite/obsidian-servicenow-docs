@@ -54,8 +54,5 @@ You can find employee information and navigate organizational structures through
 
 ## Result
 
-You can efficiently [[discover-lxp|discover]] employee information and navigate organizational structures using natural language interactions.
+You can efficiently discover employee information and navigate organizational structures using natural language interactions.
 
-## Related
-
-- [[discover-lxp|Discover]]

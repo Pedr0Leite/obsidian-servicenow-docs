@@ -12,7 +12,7 @@ breadcrumb: [Recall management, Agent management, Use, Manufacturing Commercial 
 
 # View All campaigns
 
-View a [[mco-rcl-clms|recall campaign]] using the All campaigns form.
+View a recall campaign using the All campaigns form.
 
 ## Before you begin
 
@@ -24,13 +24,8 @@ Role required: admin
 
 2.  Select **New**
 
-3.  For information on how to create recall campaigns, see [[mco-rc-my-campaigns|Create a campaign]].
+3.  For information on how to create recall campaigns, see [Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md).
 
 
-**Parent Topic:**[[mco-recall-management|Recall management]]
+**Parent Topic:**[Recall management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-management.md)
 
-## Related
-
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

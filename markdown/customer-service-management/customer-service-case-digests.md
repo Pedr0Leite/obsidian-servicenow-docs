@@ -14,7 +14,7 @@ breadcrumb: [Configure case digests, Configure case management, Case management,
 
 Use the case digests feature to provide periodic updates and resolution information about high priority customer service cases to customers and internal stakeholders.
 
-With this feature, you can send periodic case updates while a case is in progress using a [[case-digest-case-action-summary|case action summary]]. Once a case has been resolved, you can provide a [[case-digest-post-case-review|post case review]] document that captures details about the issue, root cause, resolution, and preventive measures.
+With this feature, you can send periodic case updates while a case is in progress using a [case action summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-digest-case-action-summary.md). Once a case has been resolved, you can provide a [post case review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-digest-post-case-review.md) document that captures details about the issue, root cause, resolution, and preventive measures.
 
 The case digests feature uses a configuration for case action summaries and post case reviews. The configuration determines the information from a customer service case that is captured as part of the case action summary or the post case review document. The configuration also identifies the template that is used to create the summaries and review documents.
 
@@ -33,7 +33,3 @@ Upgrade users with one or more case digest configurations that use legacy workfl
 
 The **Approval flow** field appears on the configuration record and on the Case Digest Configuration list by default. However, the **Approval workflow** field remains as part of the table and is functional.
 
-## Related
-
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[case-digest-post-case-review|Post case reviews]]

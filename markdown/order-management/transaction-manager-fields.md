@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Fields
 
-Understand the five major field type options: text, number, Boolean, picklist, and date/time. Learn how to create new [[fields|fields]] using the Admin UI.
+Understand the five major field type options: text, number, Boolean, picklist, and date/time. Learn how to create new fields using the Admin UI.
 
 In Transaction Manager, administrators are able to create text, number, Boolean, picklist, and date/time fields. Admins also have the choice of creating fields at the transaction level or at the transaction line level.
 
@@ -20,7 +20,7 @@ Fields created at the transaction level sit outside the transaction line grid. T
 
 Fields created at the transaction line level sit in the transaction line grid. These can appear as column fields or as fields in the Line Details, Model, and Slide Out UI effects.
 
-The selected level will ultimately impact the field’s availability for [[rules_101|rules]], which also have a transaction and transaction line level.
+The selected level will ultimately impact the field’s availability for rules, which also have a transaction and transaction line level.
 
 In the buyside screenshot below, the sections marked 1 are transaction-level fields; the fields in the section marked 2 are transaction line-level fields.
 
@@ -51,7 +51,7 @@ Transaction level:
 -   Transaction information
 -   Account information
 
-For a complete list of transaction-level fields, see [[transaction-manager-transaction-header-level-system-fields|Transaction Manager: Transaction-level system fields]].
+For a complete list of transaction-level fields, see [Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md).
 
 Transaction line level:
 
@@ -61,15 +61,15 @@ Transaction line level:
 -   Product information
 -   Order information
 
-For a complete list of line-level fields, see [[transaction-manager-line-level-system-fields|Transaction Manager: Line-level system fields]].
+For a complete list of line-level fields, see [Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md).
 
-You can also add custom fields to a blueprint in Transaction Manager. Custom fields added via the Transaction Manager Admin UI are automatically associated with the blueprint. However, custom fields uploaded by using the [[matrix_loader_table_of_contents|Matrix Loader]] must be associated with the blueprint by means of the blueprint.yaml file. To do so, add a list to the blueprint.yaml file that details the field variable names to be associated with the blueprint.
+You can also add custom fields to a blueprint in Transaction Manager. Custom fields added via the Transaction Manager Admin UI are automatically associated with the blueprint. However, custom fields uploaded by using the Matrix Loader must be associated with the blueprint by means of the blueprint.yaml file. To do so, add a list to the blueprint.yaml file that details the field variable names to be associated with the blueprint.
 
 The following sample blueprint.yaml file shows the field associations in the relatedFields section:
 
 ```
 ---
-[[blueprints|blueprints]]:
+blueprints:
 - variableName: default
   relatedFields:
   - txn.custom.transactionNumber
@@ -84,7 +84,7 @@ The following sample blueprint.yaml file shows the field associations in the rel
   name: Transaction Manager Default
   stages: /blueprints/default/stages/stage.yaml
   description: Transaction Manager Default blueprint
-  [[layouts|layouts]]: null
+  layouts: null
   events: /blueprints/default/events/events.csv
   views: /blueprints/default/views/views.yaml
 fieldOptions: /fields/fieldOptions.csv
@@ -104,7 +104,7 @@ To add a new field to the Transaction Manager blueprint, follow these steps:
 
 3.  Click **Create Field** to create a new field.
 
-    \[Omitted image "cpq-txn-mgr-create-field.jpeg"\] Alt text: [[cpq-utilities|Utilities]] screen
+    \[Omitted image "cpq-txn-mgr-create-field.jpeg"\] Alt text: Utilities screen
 
     The **New Field** dialog box opens.
 
@@ -246,12 +246,12 @@ The **Not Before** and **Not After** fields let you to set the minimum and maxim
 
 \[Omitted image "cpq-txn-mgr-date-time-not-before-after.jpeg"\] Alt text: Userinterface
 
-For more information about the Date/Time field type, see [[transaction-manager-date-and-time-fields|Transaction Manager: Date and time fields]].
+For more information about the Date/Time field type, see [Transaction Manager: Date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md).
 
 **Related topics**  
 
 
-[[transaction-manager|Transaction Manager]]
+[Transaction Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager.md)
 
 [Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md)
 
@@ -259,15 +259,3 @@ For more information about the Date/Time field type, see [[transaction-manager-d
 
 [Transaction Manager: Date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md)
 
-## Related
-
-- [[transaction-manager-transaction-header-level-system-fields|transaction manager transaction header level system fields]]
-- [[transaction-manager-line-level-system-fields|transaction manager line level system fields]]
-- [[transaction-manager-date-and-time-fields|transaction manager date and time fields]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[blueprints|Blueprints]]
-- [[layouts|Layouts]]
-- [[cpq-utilities|Utilities]]

@@ -18,7 +18,7 @@ Configure the foundation data required for managing the gift and entertainment d
 
 As an administrator, you can review the installed components and modify them or add new ones as applicable.
 
--   Approver group for managing [[lsd-ge-landing-page|Gifts and Entertainment Compliance]] requests
+-   Approver group for managing Gifts and Entertainment Compliance requests
 -   Gift policies for Gifts and Entertainment Compliance.
 -   [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md) to inform different stakeholders at different stages of a gift and entertainment disclosure requests.
 
@@ -31,6 +31,3 @@ Review the flows installed with the Gifts and Entertainment Compliance applicati
 
 **Parent Topic:**[Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-landing-page.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]

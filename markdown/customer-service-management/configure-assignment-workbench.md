@@ -36,7 +36,7 @@ If necessary, set the assignment workbench properties.
 
 2.  On the Getting Started page of the guided setup, click **Get Started**.
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
     |Task|Description|
     |----|-----------|
@@ -52,15 +52,9 @@ If necessary, set the assignment workbench properties.
 **Related topics**  
 
 
-[[case-assignment-workbench|Assignment workbench overview]]
+[Assignment workbench overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-workbench.md)
 
-[[case-assignment-matching-criteria|Matching criteria for case assignment]]
+[Matching criteria for case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-matching-criteria.md)
 
-[[case-assignment-matching-rules|Matching rules for case assignment]]
+[Matching rules for case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-matching-rules.md)
 
-## Related
-
-- [[case-assignment-workbench|Assignment workbench overview]]
-- [[case-assignment-matching-criteria|Matching criteria for case assignment]]
-- [[case-assignment-matching-rules|Matching rules for case assignment]]
-- [[case-management|Case management]]

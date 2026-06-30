@@ -14,7 +14,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 An administrator can change global CSS or system properties to alter the look and feel of the default instance interface. Functionality is not affected.
 
-For example, organizations often use multiple instances to separate development, testing, and production activities. To help users avoid accidentally changing the wrong instance, administrators can [[configure-onboarding-modals|configure]] each with a visually distinct theme. Several approaches are available for defining an instance theme.
+For example, organizations often use multiple instances to separate development, testing, and production activities. To help users avoid accidentally changing the wrong instance, administrators can configure each with a visually distinct theme. Several approaches are available for defining an instance theme.
 
 ## CSS Properties
 
@@ -26,7 +26,7 @@ The following properties are available through CSS Properties.
 
 -   Banner text color
 -   Banner and list caption background color
--   Font used in [[form-configurable-workspace|forms]] and [[lists-configurable-workspace|lists]] \(this is a global font setting\)
+-   Font used in forms and lists \(this is a global font setting\)
 -   Button styles \(background color, border color, border width, text color\)
 -   Field status indicator colors \(including the indicators for Changed, Mandatory Populated, Mandatory Unpopulated, and Read-only\)
 -   List cell vertical alignment
@@ -49,7 +49,7 @@ The following properties are available through UI Properties.
 
 ## CSS class support
 
-In [[c_UI16|Core UI]] \(UI16\), CSS properties and how they affect the platform UI change depending on the release.
+In Core UI \(UI16\), CSS properties and how they affect the platform UI change depending on the release.
 
 **Note:** Settings configured from the Basic Configuration UI16 page are not applicable to instances with Next Experience enabled.
 
@@ -99,7 +99,7 @@ Color for logged in user name text, and the global search Connect, Help, and set
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [[t_CreateOrCustomizeATheme|Create or customize a theme]].
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -359,29 +359,16 @@ Text color for a selected module
 Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateOrCustomizeATheme.md).
 
 </td></tr></tbody>
-</table>-   **[[t_ConfigureLogoColorsSysDfltsUI16|Configure logo, colors, and system defaults for Core UI]]**  
+</table>-   **[Configure logo, colors, and system defaults for Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureLogoColorsSysDfltsUI16.md)**  
 You can use the Basic Configuration Core UI module to brand your instance with your company logo and colors and set basic system defaults. This place is the best starting point if you are setting up your instance for the first time or if you have recently enabled Core UI.
--   **[[t_SelectATheme|Select a theme in Core UI]]**  
+-   **[Select a theme in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SelectATheme.md)**  
 You can switch between different themes for the user interface.
--   **[[customize-menu-categories|Customize menu categories]]**  
+-   **[Customize menu categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-menu-categories.md)**  
 Use menu categories to apply CSS styles to application labels.
--   **[[t_ChangeSurveyQuesHeaderColors|Change survey question header colors]]**  
+-   **[Change survey question header colors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ChangeSurveyQuesHeaderColors.md)**  
 The Classic Environment uses a header color from the base color, which allows theming from CSS properties.
--   **[[c_CSSThemeSupport|CSS theme support]]**  
+-   **[CSS theme support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CSSThemeSupport.md)**  
 Themes give the user interface a specific look and feel by using different color combinations.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[t_CreateOrCustomizeATheme|Create or customize a theme]]
-- [[t_ConfigureLogoColorsSysDfltsUI16|Configure logo, colors, and system defaults for Core UI]]
-- [[t_SelectATheme|Select a theme in Core UI]]
-- [[customize-menu-categories|Customize menu categories]]
-- [[t_ChangeSurveyQuesHeaderColors|Change survey question header colors]]
-- [[c_CSSThemeSupport|CSS theme support]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[configure-onboarding-modals|Configure]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]

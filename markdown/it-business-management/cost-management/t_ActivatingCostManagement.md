@@ -14,7 +14,7 @@ breadcrumb: [Cost Management, Strategic Portfolio Management]
 
 # Activate Cost Management
 
-Activate the [[r_CostManagement|Cost Management]] plugin \(com.snc.cost\_management\) using the admin role.
+Activate the Cost Management plugin \(com.snc.cost\_management\) using the admin role.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Only certain roles can customize Cost Overview modules. In addition to viewing, 
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Enable the legacy scenario analysis flow, Legacy scenario analysis,
 
 # Request the plan approval
 
-Request the plan approval from the analysis approver. You can then proceed with the [[scenario-analysis-ov|scenario analysis]] in [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Request the plan approval from the analysis approver. You can then proceed with the scenario analysis in Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -41,10 +41,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-As the next step, request analysis approval. For more information, see [[request-plan-approval-for-scenario-analysis|Submit the scenario analysis and receive an approval]].
+As the next step, request analysis approval. For more information, see [Submit the scenario analysis and receive an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-plan-approval-for-scenario-analysis.md).
 
-## Related
-
-- [[request-plan-approval-for-scenario-analysis|Submit the scenario analysis and receive an approval]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap **Analytics**.
 
@@ -32,6 +32,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
     **Note:** Select the deselected pill to add the priority back to the analytics donut.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

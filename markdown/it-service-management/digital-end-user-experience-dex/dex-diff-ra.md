@@ -14,11 +14,11 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Digital End-User Experience Remedial Actions
 
-ServiceNow® [[dex-landing|Digital End-User Experience]] \(DEX\) provides base system remedial actions to resolve issues on DEX monitored [[dex-workspace-devices-tab|devices]].
+ServiceNow® Digital End-User Experience \(DEX\) provides base system remedial actions to resolve issues on DEX monitored devices.
 
 <table id="table_opb_n5d_zfc"><thead><tr><th>
 
-[[remedial-action|Remedial Action]] name
+Remedial Action name
 
 </th><th>
 
@@ -50,7 +50,7 @@ Windows/macOS
 
 </td><td>
 
-Performing this action removes the app cache for the selected application on this device. This helps the device run faster and frees up storage space. Supported [[dex-workspace-application-tab|applications]] include Microsoft Teams Classic \(macOS\), Google Chrome \(macOS\), Zoom \(macOS and Windows\), Slack \(macOS\), Outlook \(Windows\), and Teams \(Windows\).Use the dex\_action\_app\_config table to add more applications that support this action. Configure the corresponding cache URL to be cleared for each application in the same table. Separate cache URLs by a comma if entering multiple URLs for an app.
+Performing this action removes the app cache for the selected application on this device. This helps the device run faster and frees up storage space. Supported applications include Microsoft Teams Classic \(macOS\), Google Chrome \(macOS\), Zoom \(macOS and Windows\), Slack \(macOS\), Outlook \(Windows\), and Teams \(Windows\).Use the dex\_action\_app\_config table to add more applications that support this action. Configure the corresponding cache URL to be cleared for each application in the same table. Separate cache URLs by a comma if entering multiple URLs for an app.
 
 **Note:**
 
@@ -151,7 +151,7 @@ Performing this action on an end-user's device will clear the DNS cache.
 
 </td></tr><tr><td>
 
-Reset Google Chrome browser [[settings-mobile|settings]]
+Reset Google Chrome browser settings
 
 </td><td>
 
@@ -518,10 +518,3 @@ ID of the policy defined in Jamf server for the corresponding action.
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

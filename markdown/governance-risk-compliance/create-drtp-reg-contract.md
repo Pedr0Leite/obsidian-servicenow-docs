@@ -30,7 +30,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts**.
 
 2.  Select **New**.
 
@@ -40,7 +40,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
     Specific information sub-head is shown in the Create New Contractual arrangement form. The Service provider type field controls which identification fields are displayed \(Third party, Third-party engagement, or Legal entity\).
 
-    For description of the fields on the form, see [[create-new-contract-form|Create New Contract form]].
+    For description of the fields on the form, see [Create New Contract form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-contract-form.md).
 
 4.  To submit the contract for review, select **Submit for Review**.
 
@@ -60,7 +60,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 8.  On the form, fill in the fields.
 
-    For more information, see [[create-new-cont-arrange-form|Create New Contractual arrangement form]].
+    For more information, see [Create New Contractual arrangement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-cont-arrange-form.md).
 
 9.  Select **Save**.
 
@@ -142,11 +142,5 @@ On the Create New Contract form, fill in the fields.
 -   **[Create New Contractual arrangement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-cont-arrange-form.md)**  
 On the Create New Contractual arrangement form, fill in the fields. For each contract, a separate form would be required.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-contract-form|Create New Contract form]]
-- [[create-new-cont-arrange-form|Create New Contractual arrangement form]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

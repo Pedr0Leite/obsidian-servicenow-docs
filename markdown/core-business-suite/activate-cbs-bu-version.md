@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Enable Core Business Suite Foundation business units
 
-If you’re using any standard business unit included in [[cbs-landing|Core Business Suite]] Foundation, update the system properties to enable the Core Business Suite business units for installation.
+If you’re using any standard business unit included in Core Business Suite Foundation, update the system properties to enable the Core Business Suite business units for installation.
 
 ## Before you begin
 
@@ -51,9 +51,5 @@ Role required: admin
 
 The Core Business Suite business unit appears in the installation section.
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

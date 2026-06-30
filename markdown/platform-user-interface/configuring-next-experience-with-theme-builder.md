@@ -27,7 +27,7 @@ Reflect your company's brand on your ServiceNow instance by managing, editing, a
 -   Apply branding changes, such as colors, logos, and typography, across your instances.
 -   Use the Accessibility Inspector to verify sufficient contrast for text and backgrounds, which helps to comply with accessibility standards while enhancing user experience.
 
-Theme Builder includes an option on the home page that you can use to [[provide-customer-feedback|provide feedback to ServiceNow]]® about your experience with the current product. All feedback is reviewed and may be used to improve the product.
+Theme Builder includes an option on the home page that you can use to provide feedback to ServiceNow® about your experience with the current product. All feedback is reviewed and may be used to improve the product.
 
 ## Theme Builder Home page
 
@@ -51,25 +51,16 @@ Theme Builder includes an option on the home page that you can use to [[provide-
 
 \[Omitted image "tb-editor-page-view.png"\] Alt text: Editor page with global styles tab selected.
 
--   **[[tb-create-theme|Create a theme with Theme Builder]]**  
+-   **[Create a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-create-theme.md)**  
 Create a theme record for your web or mobile experiences by using the Home view in the Theme Builder application.
--   **[[theme-creation-with-ai|Theme creation with AI]]**  
+-   **[Theme creation with AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/theme-creation-with-ai.md)**  
 Use AI to generate themes from images directly in Theme Builder or from the Now Assist panel.
--   **[[tb-edit-theme|Manage or edit a theme with Theme Builder]]**  
+-   **[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)**  
 Customize and manage your theme and styling in a time and cost efficient way. After customizing, publish your new theme to either a web or mobile implementation of your instance.
--   **[[tb-apply-theme|Publish your themes with Theme Builder]]**  
+-   **[Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md)**  
 Publish multiple themes to your web instance or a single theme to your mobile instance to reflect your company's brand.
--   **[[tb-domain-sep|Theme Builder and domain separation]]**  
+-   **[Theme Builder and domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-domain-sep.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[tb-create-theme|Create a theme with Theme Builder]]
-- [[theme-creation-with-ai|Theme creation with AI]]
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[tb-domain-sep|Theme Builder and domain separation]]
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[provide-customer-feedback|Provide feedback to ServiceNow]]

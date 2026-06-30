@@ -14,7 +14,7 @@ breadcrumb: [License Operation view for Software Asset Management Foundation plu
 
 # View discovery models in workspace
 
-View a list of all the discovered software for your engineering [[dex-workspace-application-tab|applications]] in the Software Asset Workspace.
+View a list of all the discovered software for your engineering applications in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[License Operation view for Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/license-operation-view-samf.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

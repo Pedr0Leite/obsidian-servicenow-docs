@@ -22,11 +22,11 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Service groups are a way to organize and group services based on the application services or technical services they impact. Instead of looking at individual service from different infrastructure components \(like servers, databases, or applications\), Service groups help consolidate them under the umbrella of a service group. Application service groups enable faster identification of alert impact. Service groups appear in the **Group by** option on the [[workspace-dashboard-use|Service Operations Workspace]] dashboard.
+Service groups are a way to organize and group services based on the application services or technical services they impact. Instead of looking at individual service from different infrastructure components \(like servers, databases, or applications\), Service groups help consolidate them under the umbrella of a service group. Application service groups enable faster identification of alert impact. Service groups appear in the **Group by** option on the Service Operations Workspace dashboard.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Services** &gt; **Service Groups**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Services** &gt; **Service Groups**.
 
     The Application Service Group page opens.
 
@@ -50,7 +50,3 @@ Service groups are a way to organize and group services based on the application
 
 [Group application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/organizing_services-into-groups.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]

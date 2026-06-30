@@ -24,15 +24,11 @@ Now Assist Mobile Agent® skills:
 
 The Now Assist summarize record skill allows you to use generative AI to create a condensed summary of a chosen work order task. You can either open Now Assist from within a record and select the **Summarize Record** option, or open Now Assist from the Home Screen and type “Summarize” to choose which work order task should be summarized.
 
-For more info on how to use the summarize record skill, see [[generate-a-record-summary-on-mobile|Generate a record summary on mobile]].
+For more info on how to use the summarize record skill, see [Generate a record summary on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/generate-a-record-summary-on-mobile.md).
 
 \[Omitted image "na-resolution-notes-condensed.png"\] Alt text: generated closure notes
 
 The resolution notes generation skill generates a condensed version of an incident’s resolution notes using Now Assist. Agents can then edit the resolution notes before submitting them and saving them to the work order record.
 
-For more info on how to use the resolution notes generation skill, see [[generate-work-order-res-notes|Generate work order resolution notes on mobile]].
+For more info on how to use the resolution notes generation skill, see [Generate work order resolution notes on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/generate-work-order-res-notes.md).
 
-## Related
-
-- [[generate-a-record-summary-on-mobile|Generate a record summary on mobile]]
-- [[generate-work-order-res-notes|Generate work order resolution notes on mobile]]

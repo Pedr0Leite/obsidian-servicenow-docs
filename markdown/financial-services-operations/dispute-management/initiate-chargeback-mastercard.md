@@ -20,7 +20,7 @@ Initiate a chargeback for Mastercard transaction disputes and request collaborat
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -31,11 +31,11 @@ When you initiate a chargeback, the process follows one of these paths:
     -   If the **Card network collaboration** is **No**, then the merchant has the option to proceed with a second presentment.
 -   You select the proper action based on the merchant's decision on the second presentment as follows:
     -   If **Yes**, the task [Review chargeback response and decide on pre-arbitration or arbitration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/review-and-decide-prearbitration.md) displays, starting the formal chargeback process.
-    -   If **No**, the case favors the cardholder and, based on the policy, the transaction moves to one of the [[financial-adjustments|Financial Adjustments]] 1, ending the dispute. For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/financial-adjustments.md).
+    -   If **No**, the case favors the cardholder and, based on the policy, the transaction moves to one of the Financial Adjustments 1, ending the dispute. For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/financial-adjustments.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -51,7 +51,7 @@ When you initiate a chargeback, the process follows one of these paths:
 
 6.  In the **Processing** tab, select the transaction ID.
 
-7.  Select the **[[initiate-chargeback-and-recover-funds-from-merchant|Initiate chargeback and recover funds from merchant]]** task in **Dispute Workspace**.
+7.  Select the **Initiate chargeback and recover funds from merchant** task in **Dispute Workspace**.
 
 8.  On the form, fill in the required fields and any other related information.
 
@@ -60,7 +60,7 @@ When you initiate a chargeback, the process follows one of these paths:
     **Note:**
 
     -   You must upload a single `.zip` file whenever you submit documents to Mastercard.
-    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 10. Select **Initiate chargeback**.
 
     A chargeback is initiated and a collaboration starts with the merchant, cardholder, and Mastercard.
@@ -98,10 +98,3 @@ When you initiate a chargeback, the process follows one of these paths:
 
 **Parent Topic:**[Chargeback in Mastercard transaction disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage-mastercard.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[financial-adjustments|financial adjustments]]
-- [[fso-overview|Financial Services]]
-- [[initiate-chargeback-and-recover-funds-from-merchant|Initiate chargeback and recover funds from merchant]]

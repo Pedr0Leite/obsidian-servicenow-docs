@@ -20,7 +20,7 @@ Dispute invoice issues such as quantity discrepancies in a guided conversational
 The following applications must be installed and configured on your ServiceNow instance:
 
 -   Now Assist for Platform \(sn\_genai\_platform\)
--   [[now-assist-order-management|Now Assist for Order Management]] \(sn\_now\_assist\_om\)
+-   Now Assist for Order Management \(sn\_now\_assist\_om\)
 -   Invoice Case Self Service \(sn\_invoice\_case\_ss\)
 
 Role required: sn\_customerservice.customer
@@ -103,15 +103,10 @@ If you express dissatisfaction or explicitly request human assistance at any poi
 
 When the dispute is resolved, an email notification is sent to you with a summary and a hyperlink to the case.
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
 **Related topics**  
 
 
-[[resolve-invoice-case-now-assist-agent|Resolve invoice disputes using agentic workflow]]
+[Resolve invoice disputes using agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/resolve-invoice-case-now-assist-agent.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]
-- [[resolve-invoice-case-now-assist-agent|Resolve invoice disputes using agentic workflow]]
-- [[now-assist-order-management|Now Assist for Order Management]]

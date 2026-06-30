@@ -32,10 +32,10 @@ Role required: sn\_si.basic
 
     |Tab|Description|
     |---|-----------|
-    |Running Processes|Stores the records created by the [[sir-landing-page|Security Incident Response]] **Get Running Processes** workflow.|
+    |Running Processes|Stores the records created by the Security Incident Response **Get Running Processes** workflow.|
     |Running Services|Stores the records created by the Security Incident Response **Get Running Services** workflow.|
     |Network Statistics|Stores the records created by the Security Incident Response **Get Network Statistics** workflow.|
-    |Domain Lookups|If the [[whois-landing-page|WhoisXML API Integration]] plugin is activated, stores the records created by a Whois lookup.|
+    |Domain Lookups|If the WhoisXML API Integration plugin is activated, stores the records created by a Whois lookup.|
     |Firewall Logs|Stores enrichment data from firewall logs, such as the Palo Alto Network firewall logs.|
     |Compromised User Info|Stores accounts identified as being compromised through a Have I Been Pwned? lookup.|
 
@@ -49,7 +49,4 @@ Role required: sn\_si.basic
     -   [Show Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 5.  When you have completed your entries, click **Submit**.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[whois-landing-page|WhoisXML API integration]]

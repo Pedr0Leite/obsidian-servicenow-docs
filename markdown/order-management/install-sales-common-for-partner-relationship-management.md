@@ -18,13 +18,13 @@ Install the Sales Common for Channel Partners plugin \(com.snc.partner\_relation
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
 ## About this task
 
-The Sales Common for Channel Partners plugin acts a parent plugin for all the [[lead-to-cash|Lead to Cash Core]] workflows.
+The Sales Common for Channel Partners plugin acts a parent plugin for all the Lead to Cash Core workflows.
 
 The following items are installed with the Sales Common for Channel Partners \(com.snc.partner\_relationship\_management\_sales\_common\) plugin:
 
@@ -83,23 +83,15 @@ Load the demo data after installing the Sales Common plugin.1.  Install Sales Co
 
 You have successfully installed the Sales Common for Channel Partners \(com.snc.partner\_relationship\_management\_sales\_common\) application.
 
--   **[[roles-and-components-of-sales-common|Roles and components of Sales Common]]**  
+-   **[Roles and components of Sales Common](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-sales-common.md)**  
 The Sales Common for Channel Partners plugin \(com.snc.partner\_relationship\_management\_sales\_common\) application uses roles to provide access to information, identify internal and external users, and maintain data security.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[roles-and-components-of-sales-common|Roles and components of Sales Common]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[use-cases|Use cases]]
-- [[lead-to-cash|Lead to Cash Core]]

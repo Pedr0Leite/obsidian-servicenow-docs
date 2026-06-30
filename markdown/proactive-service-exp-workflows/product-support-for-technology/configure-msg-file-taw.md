@@ -14,7 +14,7 @@ breadcrumb: [Messages in escalation workflows, Use, Proactive Service Experience
 
 # Customize message files for Proactive Service Experience Workflows
 
-Customize the messages that provide instructions to the network engineers that are working on network-initiated issues for different subcategories, levels of escalation, and personas in [[psew-landing-page|Proactive Service Experience Workflows]].
+Customize the messages that provide instructions to the network engineers that are working on network-initiated issues for different subcategories, levels of escalation, and personas in Proactive Service Experience Workflows.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Each subflow in Proactive Service Experience Workflows references a message file
 
 **Parent Topic:**[About messages used in escalation workflows in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-about-msgs.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

@@ -12,7 +12,7 @@ breadcrumb: [Creating your own API connector, Use the workspace, Security Postur
 
 # Validate your API connector
 
-Test the connection for your API connector. You must pass both checks before you can publish your connector. You must review your input and [[mapping-logrhythm|mapping]] to be sure that it is accurate before publishing your connector.
+Test the connection for your API connector. You must pass both checks before you can publish your connector. You must review your input and mapping to be sure that it is accurate before publishing your connector.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Roles required:
 
 8.  Select **Submit and close the window**.
 
-## Related
 
-- [[mapping-logrhythm|Mapping]]

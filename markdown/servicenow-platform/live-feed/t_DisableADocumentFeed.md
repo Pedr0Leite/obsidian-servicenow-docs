@@ -26,7 +26,7 @@ Role required: personalize\_dictionary or admin
 
 2.  Open the table record.
 
-3.  Clear the **Live feed** [[check-box|check box]].
+3.  Clear the **Live feed** check box.
 
 4.  Click **Update**.
 
@@ -46,6 +46,3 @@ Role required: personalize\_dictionary or admin
 
 [Business rule installed with Live Feed Document]()
 
-## Related
-
-- [[check-box|Check box]]

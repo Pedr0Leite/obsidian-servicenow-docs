@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  Open the record for either the work order or work order task that you want to create a part requirement for.
 
@@ -64,7 +64,7 @@ Required quantity
 
 </td><td>
 
-Quantity of the asset or part that is required.**Note:** This field is applicable to [[c_ReceiveAConsumableAsset|consumable assets]] and parts only.
+Quantity of the asset or part that is required.**Note:** This field is applicable to consumable assets and parts only.
 
 </td></tr><tr><td>
 
@@ -93,7 +93,4 @@ Option that indicates if the missing asset or part is required.
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

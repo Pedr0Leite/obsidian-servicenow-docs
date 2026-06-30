@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Create a case on behalf of a supplier from the Source-to-Pay Workspace
 
-[[create-supplier-case-spo|Create a supplier case]] to track the progress of [[supplier|supplier]] tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
+Create a supplier case to track the progress of supplier tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
 
 \[Omitted video\] Description: Describes the procedure for creating a case on behalf of a supplier from the Source to Pay workspace.
 
@@ -26,7 +26,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following.
 
@@ -64,7 +64,7 @@ On the home page, do one of the following:-   Under Quick actions, select **Crea
 
 
 </td></tr></tbody>
-</table>3.  On the [[new-supplier-case|Create New Supplier Case form]], fill in the fields.
+</table>3.  On the Create New Supplier Case form, fill in the fields.
 
     For more information about the form fields and descriptions, see [Create New Supplier Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/new-supplier-case.md).
 
@@ -116,10 +116,3 @@ For more information, see [Case playbook for specific supplier case types](https
 
 [Submit a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-supplier-case.md)
 
-## Related
-
-- [[create-supplier-case-spo|Create a supplier case]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[new-supplier-case|Create New Supplier Case form]]

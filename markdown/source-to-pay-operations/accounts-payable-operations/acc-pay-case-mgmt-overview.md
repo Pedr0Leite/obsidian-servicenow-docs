@@ -15,9 +15,9 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 # Invoice Case Management
 
-Invoice case management enables agents to resolve invoice discrepancies and exceptions through structured workflows, including requesting information from suppliers, assigning tasks, and tracking resolution progress in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Invoice case management enables agents to resolve invoice discrepancies and exceptions through structured workflows, including requesting information from suppliers, assigning tasks, and tracking resolution progress in the Source-to-Pay Workspace.
 
-Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] \(com.sn\_ap\_apm\) application. However, you can also [[install-invoice-case-mgmt|install Invoice Case Management]] independently. For more information, see [Install Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/install-invoice-case-mgmt.md).
+Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the Accounts Payable Operations \(com.sn\_ap\_apm\) application. However, you can also install Invoice Case Management independently. For more information, see [Install Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/install-invoice-case-mgmt.md).
 
 The agent \[sn\_ap\_cm.agent\] and Invoice Case Management administrator \[sn\_ap\_cm.admin\] roles can access the Invoice Case Management application.
 
@@ -36,8 +36,3 @@ Open the Invoice Case Management application by navigating to **All** &gt; **Acc
 
 [Accounts Payable Operations integration with Document Intelligence]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[install-invoice-case-mgmt|Install Invoice Case Management]]

@@ -14,13 +14,13 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS classic ELB Service discovery with Patterns
 
-[[r-discovery|Discovery]] uses the Amazon AWS classic ELB Service discovery pattern to find all load balancers that use HTTP and HTTPS traffic.
+Discovery uses the Amazon AWS classic ELB Service discovery pattern to find all load balancers that use HTTP and HTTPS traffic.
 
 Elastic Load Balancing \(ELB\) automatically distributes incoming application traffic across multiple targets.
 
 The Amazon AWS classic ELB Service discovery pattern supports top-down discovery. The two possible entry points for top-down discovery are the HTTP\(s\) Endpoint and TCP Endpoint. Outgoing relations are to Amazon EC2 instances.
 
-The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and [[cloud-governance|cloud governance]]. C2S is the government program that brings AWS into the Intelligence Community.
+The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and cloud governance. C2S is the government program that brings AWS into the Intelligence Community.
 
 You can use this pattern on the ServiceNow platform using Jakarta or later releases.
 
@@ -33,7 +33,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Set read-only permissions for these REST APIs:
     -   https://elasticloadbalancing.&lt;REGION&gt;.amazonaws.com/?Action=DescribeLoadBalancers&amp;Version=2012-06-01&amp;LoadBalancerNames.member.1=&lt;LB\_NAME&gt;
     -   https://ec2.&lt;REGION&gt;.amazonaws.com/?Action=DescribeInstances&amp;Version=2016-11-15&amp;Filter.1.Name=instance-state-name&amp;Filter.1.Value=running&amp;Filter.2.Name=instance-id&amp;Filter.2.Value=&lt;INSTANCE\_ID&gt; \(to create relation between LB and EC2 instance\)
--   For Cloud Discovery, download the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+-   For Cloud Discovery, download the Discovery and Service Mapping Patterns from the ServiceNow Store.
 -   When installing the MID Server, ensure that the host machine meets or exceeds the [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerSystemRequirements.md) published on the ServiceNow documentation site.
 
 ## Verify the REST API Permissions
@@ -65,8 +65,3 @@ The discovered data includes the following tables and fields.
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-governance|Cloud Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Groups** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Groups** &gt; **All**.
 
 2.  Select the test group that you want to open.
 
@@ -135,6 +135,4 @@ Description of the test metrics.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[stm-landing-page|Service Test Management]]

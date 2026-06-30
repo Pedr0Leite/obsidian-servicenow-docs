@@ -14,7 +14,7 @@ breadcrumb: [Time cards, Time Card management, Project Portfolio Management, Str
 
 # Map a time card category with operational work types
 
-Map custom time card categories with operational work types so you can select only the operational [[c_ResourcePlans|resource plans]] that are associated with the user for a specific time card period and category while posting time.
+Map custom time card categories with operational work types so you can select only the operational resource plans that are associated with the user for a specific time card period and category while posting time.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: pps\_admin
 
 ## About this task
 
-By default, all base system time card categories are mapped with the base system operational work types. If mapping is not done for custom categories, the **Resource Plan** field displays all the operational resource plans associated with the user for that time period when you [[t_CreateATimeCard|create a time card]].
+By default, all base system time card categories are mapped with the base system operational work types. If mapping is not done for custom categories, the **Resource Plan** field displays all the operational resource plans associated with the user for that time period when you create a time card.
 
-During time card creation, after you select a time card category and task or during time sheet submission for other category [[c_TimeCards|time cards]], operational resource plans are populated for that category and task as described in the following table.
+During time card creation, after you select a time card category and task or during time sheet submission for other category time cards, operational resource plans are populated for that category and task as described in the following table.
 
 <table id="table_kjg_t3j_ylb"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Displays the resource plans associated with the task, project, demand, project t
 
 </td></tr><tr><td>
 
-Other category \(custom and OOTB\) from [[worker-portal|Time Sheet Portal]]
+Other category \(custom and OOTB\) from Time Sheet Portal
 
 </td><td>
 
@@ -106,9 +106,3 @@ Displays the mapped operational resource plans.
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/c_TimeCards.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[c_TimeCards|Time cards]]
-- [[worker-portal|Time Sheet Portal]]

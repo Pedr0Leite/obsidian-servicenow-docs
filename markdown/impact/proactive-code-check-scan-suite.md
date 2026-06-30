@@ -14,7 +14,7 @@ breadcrumb: [Proactive Code Check, Impact reference, Impact]
 
 Refer to the Proactive Code Check \(PCC\) scan suite matrix for details on the checks performed during a PCC scan.
 
-**Note:** Starting with [[impact-landing-page|Impact]] Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Note:** Starting with Impact Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 <table id="table_agy_hml_m2c"><thead><tr><th>
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[instance-observer-performance|Performance]]
+Performance
 
 </td><td>
 
@@ -142,7 +142,7 @@ Client-side code should not use synchronous AJAX methods
 
 </td><td>
 
-Code that uses synchronous AJAX can possibly cause delays in processing UI events. It can be detrimental to performance and negatively impact [[user-experience-insights|user experience]]. Wherever possible, we should try to employ asynchronous AJAX.
+Code that uses synchronous AJAX can possibly cause delays in processing UI events. It can be detrimental to performance and negatively impact user experience. Wherever possible, we should try to employ asynchronous AJAX.
 
 </td></tr><tr><td>
 
@@ -1036,11 +1036,5 @@ Detecting hard-coded strings in addWarningMessage\(\) usage
 Hard-coded messages/strings in the code will not be localized. Detecting such occurrences in addWarningMessage\(\) on both the client and server side.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[proactive-code-check|Proactive Code Check for the Impact Store Application]]
+</table>**Parent Topic:**[Proactive Code Check for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/proactive-code-check.md)
 
-## Related
-
-- [[proactive-code-check|Proactive Code Check for the Impact Store Application]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]

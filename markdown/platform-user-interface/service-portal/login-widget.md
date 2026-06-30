@@ -22,7 +22,7 @@ Users log in to a portal by entering their credentials in the login widget.
 
 The widget uses credentials from the User \[sys\_user\] record. In the **User name** field, the user enters the **User ID** from their user record. In the **Password** field, the user enters the password from their user record.
 
-\[Omitted image "WidgetLogin.png"\] Alt text: Default login widget on the [[c_ServicePortal|Service Portal]] landing page
+\[Omitted image "WidgetLogin.png"\] Alt text: Default login widget on the Service Portal landing page
 
 The login widget by default includes a **Forgot Password?** link that enables users to reset their password using the Password Reset application. For more information about Password Reset configuration, see [Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset-landing-page.md).
 
@@ -52,7 +52,7 @@ For more information on how a user self-registers their PIV/CAC card, see [Regis
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the login widget for a portal page.
+Use the instance options to configure the login widget for a portal page.
 
 |Field|Description|
 |-----|-----------|
@@ -70,7 +70,3 @@ Use the instance options to [[configure-onboarding-modals|configure]] the login 
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

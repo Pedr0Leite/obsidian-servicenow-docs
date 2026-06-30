@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro reference, Employee Center Pro, Unified Employe
 
 # Campaign overview and Campaign analytics dashboards
 
-[[ecpro-content-automation-analytics|Content Analytics]] collects data on user interactions and generates visualizations to help campaign managers determine the effectiveness of campaigns.
+Content Analytics collects data on user interactions and generates visualizations to help campaign managers determine the effectiveness of campaigns.
 
 Use Content Analytics to measure the effectiveness of a campaign and the content provided to your employees. Content Analytics is one of several resources to help you improve your campaigns. To learn about the other resources, see [Analyzing your campaign for effectiveness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-reevaluate-audience.md).
 
@@ -58,7 +58,7 @@ The Campaign overview dashboard displays performance metrics by campaign, includ
 |-------------|-----------|
 |Open Campaign Tasks|Number of tasks in each state by campaign. The value in each cell links to a list of the tasks in that state and campaign.|
 |Campaign Task Closures This Week|Stacked bar chart that shows the number of tasks that were closed this week. Mouse over a bar to see metrics specific to a campaign.|
-|Event [[activity-lxp|Activity]] Over Time|Total number of user interactions with content.|
+|Event Activity Over Time|Total number of user interactions with content.|
 |Events Over Time by Content|Number of user interactions with content, where each line represents a piece of content. Mouse over a line to see metrics specific to a piece of content.|
 |Events Over Time by Action|Number of user interactions with content, where each line represents a type of interaction. Mouse over a line to see metrics specific to a type of interaction.|
 |Action Activity|Pie chart that shows the proportions of each type of interaction and impressions compared to the total number of actions.|
@@ -201,7 +201,7 @@ Campaign impact shows data related to your established campaign success goals. F
 
 [Block content form]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -239,8 +239,3 @@ Campaign impact shows data related to your established campaign success goals. F
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

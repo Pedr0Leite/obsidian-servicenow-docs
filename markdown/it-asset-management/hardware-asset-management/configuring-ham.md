@@ -14,7 +14,7 @@ breadcrumb: [Hardware Asset Management, IT Asset Management]
 
 # Configuring Hardware Asset Management
 
-Configure [[ham-landing-page|Hardware Asset Management]] to have centralized asset data for accurate inventory and insights, automate the IT life cycle with workflows, and reduce the asset costs and risks.
+Configure Hardware Asset Management to have centralized asset data for accurate inventory and insights, automate the IT life cycle with workflows, and reduce the asset costs and risks.
 
 ## Configuration overview
 
@@ -50,7 +50,7 @@ Get the Hardware Asset Management application from the [ServiceNow Store](https:
 
 </td><td>
 
-Get the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+Get the Now Assist for Hardware Asset Management \(HAM\) application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td><td>
 
@@ -62,7 +62,7 @@ Get the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] appl
 
 </td><td>
 
-Use Hardware Asset Management to manage your hardware and [[c_ReceiveAConsumableAsset|consumable assets]] and reduce the asset costs and risks.
+Use Hardware Asset Management to manage your hardware and consumable assets and reduce the asset costs and risks.
 
 </td><td>
 
@@ -70,9 +70,3 @@ Use Hardware Asset Management to manage your hardware and [[c_ReceiveAConsumable
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

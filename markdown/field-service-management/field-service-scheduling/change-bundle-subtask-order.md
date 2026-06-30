@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **List**.
 
@@ -38,6 +38,4 @@ Role required: wm\_dispatcher
 
 8.  Select **Save**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

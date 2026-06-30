@@ -14,13 +14,13 @@ breadcrumb: [Implementing the CSDM framework for Operational Technology, Configu
 
 # Operational Technology Manager use case
 
-The [[operational-technology-manager|Operational Technology Manager]] use cases are described in this section.
+The Operational Technology Manager use cases are described in this section.
 
 ## Operational Technology Manager use case
 
-The Operational Technology Manager application creates the foundational data and relationships that enable your enterprise to use the [[operational-technology-overview|Operational Technology]] solution. It supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
+The Operational Technology Manager application creates the foundational data and relationships that enable your enterprise to use the Operational Technology solution. It supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
 
-The OT Visibility dashboard in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] summarizes your OT device inventory. For more information about the dashboard, see [Operational Technology Visibility dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-manager-dashboard.md).
+The OT Visibility dashboard in the Industrial Workspace summarizes your OT device inventory. For more information about the dashboard, see [Operational Technology Visibility dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-manager-dashboard.md).
 
 **Key features**
 
@@ -38,7 +38,7 @@ With the Operational Technology Manager use case, you can:
 
 ## Industrial Process Manager use case
 
-Use the [[industrial-process-manager-overview|Industrial Process Manager]] application to create the [[isa-95-equipment-model|ISA-95 equipment model]] data foundation that is required for the Operational Technology solution.
+Use the Industrial Process Manager application to create the ISA-95 equipment model data foundation that is required for the Operational Technology solution.
 
 **Key features**
 
@@ -54,7 +54,7 @@ The Industrial Process Manager enables you to create a custom version of the equ
 
 ## Operational Technology Vulnerability Response use case
 
-[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] enables you to effectively prioritize and remediate OT device vulnerabilities at the site level.
+Operational Technology Vulnerability Response enables you to effectively prioritize and remediate OT device vulnerabilities at the site level.
 
 **Key features**
 
@@ -76,7 +76,7 @@ The OTVR \(PA\) dashboard and the OT Vulnerability Risk Management dashboard in 
 
 ## Operational Technology Incident Management use case
 
-OT incidents occur when there is a disruption in service that is provided by an OT device on an OT network. Sometimes, the OT device may not be known when the incident is first created. [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] enables engineers to quickly resolve OT device and production process issues.
+OT incidents occur when there is a disruption in service that is provided by an OT device on an OT network. Sometimes, the OT device may not be known when the incident is first created. Operational Technology Incident Management enables engineers to quickly resolve OT device and production process issues.
 
 **Key features**
 
@@ -88,7 +88,7 @@ Operational Technology Incident Management enables engineers to quickly resolve 
 
 ## Operational Technology Change Management use case
 
-[[operational-technology-change-management-landing-page|Operational Technology Change Management]] enables your team members to work collaboratively on changes to OT devices or industrial equipment configurations.
+Operational Technology Change Management enables your team members to work collaboratively on changes to OT devices or industrial equipment configurations.
 
 **Key features**
 
@@ -108,7 +108,7 @@ The following examples show how to apply Operational Technology Change Managemen
 
 ## Operational Technology Knowledge Management use case
 
-[[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]] helps you to capture information about your Operational Technology \(OT\) system in knowledge articles that are related to OT incidents. Your organization can then use these knowledge articles to help your users to access the right information and prevent miscommunication with your users.
+Operational Technology Knowledge Management helps you to capture information about your Operational Technology \(OT\) system in knowledge articles that are related to OT incidents. Your organization can then use these knowledge articles to help your users to access the right information and prevent miscommunication with your users.
 
 **Key features**
 
@@ -128,7 +128,7 @@ The following examples show how to apply  Operational Technology Knowledge Man
 
 ## Operational Technology Request Management use case
 
-[[operational-technology-request-management-landing-page|Operational Technology Request Management]] enables you to access the OT Service Catalog to request OT catalog items and fulfill them based on the defined flows. OT workers can then create and submit an OT request from a catalog item, which helps provide a consistent experience and facilitates cross-functional requests.
+Operational Technology Request Management enables you to access the OT Service Catalog to request OT catalog items and fulfill them based on the defined flows. OT workers can then create and submit an OT request from a catalog item, which helps provide a consistent experience and facilitates cross-functional requests.
 
 **Key features**
 
@@ -145,15 +145,3 @@ The following examples show how to apply  Operational Technology Request Manag
 
 **Parent Topic:**[Implementing the CSDM framework for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-use-case-product-view.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]

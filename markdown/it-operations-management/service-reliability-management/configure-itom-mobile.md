@@ -20,11 +20,11 @@ Set up and configure ITOM Mobile Agent.
 
 Use the pages in this section to set up and configure ITOM Mobile Agent. The information covers required and optional setup steps, including installing the app, managing alerts, and customizing alert recipients.
 
-[[itom-mobile-landing|ITOM Mobile Agent]] auto-integrates with ITSM Mobile Agent, so you can manage alerts, incidents, and on-call schedules from the same mobile app. Where relevant, this section links to ITSM Mobile Agent content, providing additional configuration options for your mobile experience.
+ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, so you can manage alerts, incidents, and on-call schedules from the same mobile app. Where relevant, this section links to ITSM Mobile Agent content, providing additional configuration options for your mobile experience.
 
 ## Required configuration steps
 
-If you're an admin, start by installing ITOM Mobile Agent. If you're a [[sr-landing-page|Service Reliability Management]] admin, manager, or responder, you can start by downloading the ServiceNow Agent app and then logging in.
+If you're an admin, start by installing ITOM Mobile Agent. If you're a Service Reliability Management admin, manager, or responder, you can start by downloading the ServiceNow Agent app and then logging in.
 
 -   [Install ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/install-itom-mobile.md)
 -   [Download the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/download-agent-app.md)
@@ -32,14 +32,9 @@ If you're an admin, start by installing ITOM Mobile Agent. If you're a [[sr-land
 
 ## Optional configuration steps
 
-After you [[log-in-itom-mobile|log in to ITOM Mobile Agent]], you can work with the core features. Visit the following links to configure and customize ITOM Mobile Agent further to meet your team's needs:
+After you log in to ITOM Mobile Agent, you can work with the core features. Visit the following links to configure and customize ITOM Mobile Agent further to meet your team's needs:
 
 -   [Configure when to send alert notifications for ITOM Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/configure-itom-alert-notfications.md)
 -   [Customize ITOM Mobile Agent email recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/customize-itom-email-recipients.md)
 -   [Customizing other mobile settings for ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-other-customizations.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[log-in-itom-mobile|Log in to ITOM Mobile Agent]]

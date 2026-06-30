@@ -14,10 +14,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # Machine learning solutions for Search administration
 
-Machine learning in [[search-administration|Search administration]] helps to enhance business scalability and improve business operations for organizations.
+Machine learning in Search administration helps to enhance business scalability and improve business operations for organizations.
 
 Businesses face a challenge with growing volumes of data, in extracting meaningful information from a huge set of raw data, and in deriving meaningful business insights. Machine learning can serve as a solution to a variety of business complexities as its algorithm is built using historical data. It helps avoid duplicate and inaccurate data being entered into the database and enables businesses to compute and process information much faster.
 
-## Related
-
-- [[search-administration|Search administration]]

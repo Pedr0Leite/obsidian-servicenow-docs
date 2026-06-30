@@ -14,9 +14,5 @@ breadcrumb: [IT Remediation Workspace, Vulnerability Response Workspaces, Unifie
 
 # Using the IT Remediation Workspace
 
-The [[it-remediation-workspace-landing-page|IT Remediation Workspace]] provides a consolidated list of host [[vulnerabilities|vulnerabilities]], application vulnerabilities, container vulnerabilities, and misconfigurations that are assigned to you and your group. You can use this workspace to remediate, and request exceptions for vulnerabilities and misconfigurations.
+The IT Remediation Workspace provides a consolidated list of host vulnerabilities, application vulnerabilities, container vulnerabilities, and misconfigurations that are assigned to you and your group. You can use this workspace to remediate, and request exceptions for vulnerabilities and misconfigurations.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

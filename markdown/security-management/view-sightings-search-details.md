@@ -26,13 +26,13 @@ Role required: sn\_si.analyst
 
 1.  Navigate to a security incident.
 
-2.  Select the **[[indicator-sightings|Sightings]] Search Details** tab from **Show IoC** Related List group to view the list of sightings searches.
+2.  Select the **Sightings Search Details** tab from **Show IoC** Related List group to view the list of sightings searches.
 
     **Note:** This data can be shared with Trusted Security Circle.
 
     |Detail|Description|
     |------|-----------|
-    |Observable|List of all [[c_Observables|observables]] searched for by query.|
+    |Observable|List of all observables searched for by query.|
     |Observable type| |
     |Internal sightings|Count of internal sightings for all searches.|
     |External sightings|Count of external sightings for all searches. \(Received from threat sharing.\)|
@@ -40,10 +40,5 @@ Role required: sn\_si.analyst
     |Updated|Date and time of last modification.|
 
 
-**Parent Topic:**[[sightings-search-configurations|Create sightings search configuration records]]
+**Parent Topic:**[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
-## Related
-
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

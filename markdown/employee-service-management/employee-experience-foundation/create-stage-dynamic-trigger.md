@@ -14,7 +14,7 @@ breadcrumb: [Campaign bundle triggers, Creating campaigns, Authoring and managin
 
 # Create a campaign stage with dynamic trigger
 
-The [[ecpro-triggers|campaign bundle triggers]] based on a trigger table \(sn\_hr\_core\_profile or sys\_user\), trigger field, and date offsets.
+The campaign bundle triggers based on a trigger table \(sn\_hr\_core\_profile or sys\_user\), trigger field, and date offsets.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Start date table
 
 </td><td>
 
-The table you want to base your recurring campaign stage to trigger. Choose from:-   [[c_HRProfileRecords|HR profile]] \(sn\_hr\_core\_profile\)
+The table you want to base your recurring campaign stage to trigger. Choose from:-   HR profile \(sn\_hr\_core\_profile\)
 -   User \(sys\_user\)
 
 
@@ -163,7 +163,3 @@ Specifies which audience members can view the content in the campaign stage, bas
 -   Click **Add stage** to configure additional stages
 -   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 
-## Related
-
-- [[ecpro-triggers|Campaign bundle triggers]]
-- [[c_HRProfileRecords|HR Profile]]

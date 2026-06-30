@@ -34,7 +34,7 @@ Sales Territory Management​ executes and refines the territory plan so that th
 |Equitable distribution|Verifies fair distribution of sales among sales representatives. Automating territory assignments reduces manual tasks, enabling sales agents to focus more on selling.|
 |Clear sales accountability|Assigning defined accounts or regions clarifies sales responsibilities and improves team accountability.|
 |Segmentation|Based on the potential of each territory, you can effectively organize sales teams, avoid competing priorities for sales representatives, and set targets accurately.|
-|Data security and compliance|Territory-based data sharing [[rules_101|rules]] promote only authorized users access specific records, maintaining security and compliance.|
+|Data security and compliance|Territory-based data sharing rules promote only authorized users access specific records, maintaining security and compliance.|
 |Enhanced reporting and forecasting|Offers insights on sales team performance, enabling better forecasting and resource allocation decisions.|
 |Adaptability and scalability|Adapts easily to organizational changes for long-term effectiveness.|
 |Systematically rule-based approach|Offers a structured, rule-based method ideal for managing large sales teams efficiently.|
@@ -43,13 +43,7 @@ Sales Territory Management​ executes and refines the territory plan so that th
 
 The following topics provide more information about configuring and using Sales Territory Management​:
 
--   [[configure-sales-territory-management|Configuring Sales Territory Management​]]
--   [[use-sales-territory-management|Using Sales Territory Management​]]
--   [[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]
+-   [Configuring Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-territory-management.md)
+-   [Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
+-   [Components installed with Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-sales-territory-management.md)
 
-## Related
-
-- [[configure-sales-territory-management|Configuring Sales Territory Management​]]
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]
-- [[rules_101|Rules]]

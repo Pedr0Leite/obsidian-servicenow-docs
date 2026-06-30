@@ -23,18 +23,18 @@ Role required:
 -   For a business loan service task: sn\_bom\_loan\_b2b.agent or sn\_bom\_loan\_b2b.agent\_connector
 -   For a personal loan service task: sn\_bom\_loan.b2c\_agent or sn\_bom\_loan.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
 For the following loan workflows, agents can also use the case playbook that guides them through the steps that are needed to resolve the case.
 
--   [[loan-forgiveness-workflow|Loan Forgiveness workflow]] for business loan operations
--   [[loan-deferment-workflow|Loan Deferment workflow]] for personal loan operations
+-   Loan Forgiveness workflow for business loan operations
+-   Loan Deferment workflow for personal loan operations
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -67,9 +67,3 @@ For the following loan workflows, agents can also use the case playbook that gui
 -   If the loan task is for authorizing a loan service request, a new task that is based on the workflow is automatically generated in the **Tasks** tab of the associated case. The new task is assigned to an assignment group or agent based on the assignment rules.
 -   If the loan task is for updating a loan account or disbursing a loan, the associated loan case moves to the Closed Complete stage.
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[loan-forgiveness-workflow|Loan Forgiveness workflow]]
-- [[loan-deferment-workflow|Loan Deferment workflow]]
-- [[fso-overview|Financial Services]]

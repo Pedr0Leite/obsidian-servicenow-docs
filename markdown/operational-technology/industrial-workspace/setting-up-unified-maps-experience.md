@@ -14,7 +14,7 @@ breadcrumb: [Configure, Industrial Workspace, Operational Technology]
 
 # Setting up the Operational Technology Unified Map experience
 
-Set up the [[operational-technology-overview|Operational Technology]] \(OT\) Unified Map experience in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] so that your users can access Unified Maps.
+Set up the Operational Technology \(OT\) Unified Map experience in the Industrial Workspace so that your users can access Unified Maps.
 
 The following table lists the Guided Setup tasks and their purposes for the OT Unified Map experience. The admin role is required.
 
@@ -48,7 +48,3 @@ You can modify the default settings available for the Operational Technology \(O
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

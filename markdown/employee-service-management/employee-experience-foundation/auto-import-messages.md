@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery integration, Microsoft Teams Integration for Em
 
 # Configure Request-based chats to import messages from Microsoft Teams to ServiceNow
 
-Configure request-based chats for IT Service Management integration with Microsoft Teams and [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
+Configure request-based chats for IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
 
 If you are installing the ServiceNow for Microsoft Teams in your environment, the auto-import functionality is applicable by default for the following tables.
 
@@ -37,7 +37,7 @@ All the chat messages from Microsoft Teams will be auto imported to the ServiceN
 
 To prevent polling from running indefinitely on inactive conversations, if there are no new messages, the polling interval will gradually lengthen until, eventually, polling stops.
 
-The system verifies the record for new messages for every 30 minutes. If there are no new messages, the system checks for the new messages for an interval of one hour, two hour, four hour and eight hours. If there are no new messages in an interval of eight hours for seven days, the Auto Import polling [[activity-lxp|activity]] is disabled.
+The system verifies the record for new messages for every 30 minutes. If there are no new messages, the system checks for the new messages for an interval of one hour, two hour, four hour and eight hours. If there are no new messages in an interval of eight hours for seven days, the Auto Import polling activity is disabled.
 
 If there is any message during any of the intervals, the auto import timer will look for the new messages in the next interval, and import the messages. The timer is then reset to 30-minutes interval.
 
@@ -45,7 +45,7 @@ If there is any message during any of the intervals, the auto import timer will 
 
 The system imports a maximum of 500 active chats in a 30-minute interval. If there are more than active 500 chats the system will not auto-import the new chat records for the 30-minute interval.
 
-The system executes a maximum of 10,000 sub-flows to import the chats for an interval of 30 minutes, 1 hour, 2 hour, 4-hour, 8-hour intervals. This is a count of all the active [[flows-ukg|subflows]] that auto-import the messages into ServiceNow.
+The system executes a maximum of 10,000 sub-flows to import the chats for an interval of 30 minutes, 1 hour, 2 hour, 4-hour, 8-hour intervals. This is a count of all the active subflows that auto-import the messages into ServiceNow.
 
 If the system reaches the limit, a message is displayed to the agent that the system level is reached and the chat can’t be auto imported on the **Start Microsoft Teams Chat** modal.
 
@@ -64,8 +64,3 @@ Configure the condition to exclude the chat conversation from auto importing.
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]
-- [[flows-ukg|Subflows]]

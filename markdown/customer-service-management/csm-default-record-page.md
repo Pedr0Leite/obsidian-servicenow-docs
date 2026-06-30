@@ -12,17 +12,17 @@ breadcrumb: [Record pages, Record pages and page templates, CSM Configurable Wor
 
 # CSM default record page
 
-The CSM default record page provides [[case-management|case management]] features and functionality and enables agents to create, monitor, and resolve cases.
+The CSM default record page provides case management features and functionality and enables agents to create, monitor, and resolve cases.
 
 The CSM default record page includes the basic structure for a record page, including record information, a communication interface, and suggestions for issue resolution. This page is also known as the standard record page.
 
-\[Omitted image "csm-default-record-template.png"\] Alt text: The CSM default record page provides agents with an overview of case record details and the [[csm-config-ws-activity-stream|activity stream]]. It also provides access to multiple features in the contextual side panel.
+\[Omitted image "csm-default-record-template.png"\] Alt text: The CSM default record page provides agents with an overview of case record details and the activity stream. It also provides access to multiple features in the contextual side panel.
 
 The CSM default record page is included with the CSM/FSM Configurable Workspace experience.
 
 ## Activity stream component
 
-The activity stream component on the CSM default record page displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities. For more information about this component, see [[csm-front-line-case-page|Activity stream component]].
+The activity stream component on the CSM default record page displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities. For more information about this component, see [Activity stream component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md).
 
 ## Action bar component
 
@@ -45,11 +45,11 @@ When the **Follow** action is selected, the button toggles to **Unfollow**. To s
 
 ## Thin compose modeless dialogs
 
-The CSM default record page uses the thin compose modeless dialog feature, which incorporates modeless dialogs into the activity stream. This feature enables agents to initiate a comment, work note, or email in the activity stream and then open the text in a modeless dialog. For more information, see [[csm-front-line-case-page-modeless-dialogs|Thin compose modeless dialogs]].
+The CSM default record page uses the thin compose modeless dialog feature, which incorporates modeless dialogs into the activity stream. This feature enables agents to initiate a comment, work note, or email in the activity stream and then open the text in a modeless dialog. For more information, see [Thin compose modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md).
 
 ## Record presence feature
 
-The CSM default record page and the [[csm-interaction-record-page|CSM Interaction record page]] include the record presence feature. This feature allows agents to see other users who are viewing the same record and enables easy collaboration.
+The CSM default record page and the CSM Interaction record page include the record presence feature. This feature allows agents to see other users who are viewing the same record and enables easy collaboration.
 
 The user presence component displays an icon in the form header that shows the user who is currently viewing the record. For three or more users, the component displays two icons plus a number that represents additional users.
 
@@ -60,7 +60,7 @@ For more information about this feature, see [User presence](https://raw.githubu
 
 ## Email templates feature
 
-The CSM default record page includes the Email Templates feature. [[csm-workspaces-configure|CSM Configurable Workspace]] pages that use the CSM default record page include the Email Templates tab in the contextual side panel.
+The CSM default record page includes the Email Templates feature. CSM Configurable Workspace pages that use the CSM default record page include the Email Templates tab in the contextual side panel.
 
 These templates contain default values for fields that agents can easily add to email messages in the Compose panel on case records. These default values can include the recipients \(email addresses in the To, Cc, and Bcc fields\), the sender, the subject of the email, and text to include in the message body.
 
@@ -72,7 +72,7 @@ Agents can use this feature to do the following:
 -   Select an email template to display the template details.
 -   Apply the selected template to an email in the Compose panel.
 
-For more information, see [[compose-email-from-email-template|Compose an email from an email template]].
+For more information, see [Compose an email from an email template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/compose-email-from-email-template.md).
 
 ## Creating emails and applying email templates
 
@@ -98,7 +98,7 @@ When creating emails, agents can apply templates to add content to the draft ema
 
 The Recommended Actions tab is now available as the first tab in the contextual side panel and is enabled for Pro customers. It includes a set of base system recommendations, such as similar incidents and similar open incidents.
 
-The Recommended Actions tab includes [[ra-csm-ai-search|AI search]] functionality and Suggested Actions.
+The Recommended Actions tab includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality and Suggested Actions.
 
 -   [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) tab: Agents can use AI search to find relevant resources or resolutions for customer issues. The search feature displays an initial set of search results based on the text in the case short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search. From the list of search results, agents can select a source to see search results of that type.
 
@@ -167,19 +167,19 @@ Requests
 
 
 </td></tr></tbody>
-</table>    For all the other source types, default guidance is supported. The Default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [[ra-csm-guidances-default-guidance-search|Default guidance for search results]].
+</table>    For all the other source types, default guidance is supported. The Default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [Default guidance for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md).
 
     When inserting a knowledge article link, the workspace automatically switches to the relevant tab based on the action selected. For example, selecting **Add a link in work note** switches focus to the Work notes tab.
 
-    For more information on how to avail the AI search feature in Recommended Actions, see [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]].
+    For more information on how to avail the AI search feature in Recommended Actions, see [Enable AI search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-ra-agent-assist.md).
 
-    For more information, see [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]].
+    For more information, see [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md).
 
-    **Note:** Using Recommended Actions in the contextual side panel requires the [[nba|Recommended Actions]] application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
+    **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
--   Suggested Actions tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts to display relevant actions for the agent, see [[configure-nba|Recommended Actions]].
+-   Suggested Actions tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts to display relevant actions for the agent, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
-    The Suggested Actions tab is available in the base system for Pro customers and doesn’t require additional configuration. It becomes visible when the Task [[intelligence-csm|Intelligence]] plugin is installed. Non-Pro customers can enable the tab manually.
+    The Suggested Actions tab is available in the base system for Pro customers and doesn’t require additional configuration. It becomes visible when the Task Intelligence plugin is installed. Non-Pro customers can enable the tab manually.
 
     -   Without the plugin, only the Search tab is visible on the Front-line case page.
 
@@ -190,27 +190,9 @@ Requests
 
 ## Editable record header field
 
-Agents can edit the short description of a record directly from the record header field. For more information, see [[csm-workspace-agent-actions|Editable record headers]].
+Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-agent-actions.md).
 
 ## Collaborate component
 
-The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. This component is available on the CSM default record page n the contextual side panel. For more information, see [[csm-config-ws-collaborate-component|Collaborate component]].
+The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. This component is available on the CSM default record page n the contextual side panel. For more information, see [Collaborate component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-collaborate-component.md).
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[compose-email-from-email-template|Compose an email from an email template]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[nba|Configuring Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspace-agent-actions|CSM Configurable Workspace form features]]
-- [[csm-config-ws-collaborate-component|Collaborate component]]
-- [[case-management|Case management]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[intelligence-csm|Intelligence]]

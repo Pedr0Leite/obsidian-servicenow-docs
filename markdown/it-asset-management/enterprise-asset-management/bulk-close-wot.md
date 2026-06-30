@@ -22,7 +22,7 @@ Role required: enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work Management**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Work Management**.
 
 2.  Select the Work order tasks tab.
 
@@ -53,6 +53,3 @@ Role required: enterprise\_asset\_technician
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

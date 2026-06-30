@@ -18,7 +18,7 @@ Add or remove hardware or enterpriseassets from the contract renewal process. Yo
 
 ## Before you begin
 
-To add or remove hardware assets from the contract renewal process, request the Hardware [[c_AssetManagement|Asset Management]] application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).To add or remove enterprise assets from the contract renewal process, request the Enterprise Asset Management application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+To add or remove hardware assets from the contract renewal process, request the Hardware Asset Management application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).To add or remove enterprise assets from the contract renewal process, request the Enterprise Asset Management application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 Role required: contract\_system\_admin, asset, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
@@ -46,7 +46,7 @@ Invalid assets are not carried over to the draft contract and you must add them 
 1.  Open the assets selection task or contract for which you want to add assets.
 
     -   If you are using the core UI or Hardware Asset Workspace,select the assets selection task number on the Contract Renewal Request Line form.
-    -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view. Select the **All [[c_Contracts|contracts]]** tab and then open the contract that you want to add assets to.
+    -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view. Select the **All contracts** tab and then open the contract that you want to add assets to.
 2.  Select the **Assets Covered** tab.
 
 3.  If you are using the core UI or Hardware Asset Workspace,click **Edit**.
@@ -119,7 +119,3 @@ The Payment amount field in the Financial tab of the draft contract shows the to
 
 [Add or remove entitlements for a contract renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/select-sw-asset.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Contracts|Contracts]]

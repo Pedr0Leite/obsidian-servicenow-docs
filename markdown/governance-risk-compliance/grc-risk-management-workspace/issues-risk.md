@@ -14,7 +14,7 @@ breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
 
 # Manage risk issues and remediation
 
-Issues can be created manually to document [[audit-observations|audit observations]] or remediations, or to accept any problems. They are automatically generated from indicator results, attestation results, or control test effectiveness.
+Issues can be created manually to document audit observations or remediations, or to accept any problems. They are automatically generated from indicator results, attestation results, or control test effectiveness.
 
 Various types of issues are created under the following conditions:
 
@@ -37,6 +37,3 @@ Various types of issues are created under the following conditions:
 
 Remediating an issue marks an intention to fix the underlying issue causing the control failure or risk exposure. Accepting an issue marks an intention to create an exception for a known control failure or risk. Controls that are **Accepted** remain in a non-compliant state until the control is reassessed. In this way, the issue can be used to document observations during audits.
 
-## Related
-
-- [[audit-observations|Audit observations]]

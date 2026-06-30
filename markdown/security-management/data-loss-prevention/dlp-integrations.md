@@ -14,13 +14,13 @@ breadcrumb: [Data Loss Prevention Incident Response, Security Operations]
 
 # DLP integrations
 
-The [[dlp-landing|Data Loss Prevention Incident Response]] base system includes integrations to third-party data loss prevention software packages.
+The Data Loss Prevention Incident Response base system includes integrations to third-party data loss prevention software packages.
 
 This section provides instructions for activating the plugins and configuring both ServiceNow and third-party integrations. Also included are some basic guidelines for developing your own integrations, as well as details on specific integrations included in the base system.
 
 ## Integration Configurations
 
-The base system includes a series of cards for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on [[security-operations-landing-page|Security Operations]] plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
+The base system includes a series of cards for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on Security Operations plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
 
 Data Loss Prevention Incident Response supports the following third-party data loss prevention software packages:
 
@@ -33,10 +33,5 @@ The Netskope DLP integration supports the ingestion of Data Loss Prevention inci
 -   **[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/icap-dlp-integration.md)**  
 The Internet Content Adaption Protocol \(ICAP\) DLP integration supports the ingestion of Data Loss Prevention Incident Response alerts, allows the fetching of match content, and evidence files from Amazon S3 created on the ICAP supported Data Loss Prevention Incident Response deployment.
 -   **[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)**  
-The [[dlp-integration-microsoft|Data Loss Prevention Incident Response with Microsoft]] provides a core framework to import Data Loss Prevention \(DLP\) incidents from multiple sources, such as Microsoft Purview apps, Microsoft Teams, Exchange Online, SharePoint Online, OneDrive for Business, and other event types.
+The Data Loss Prevention Incident Response with Microsoft provides a core framework to import Data Loss Prevention \(DLP\) incidents from multiple sources, such as Microsoft Purview apps, Microsoft Teams, Exchange Online, SharePoint Online, OneDrive for Business, and other event types.
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[dlp-integration-microsoft|Data Loss Prevention Incident Response with Microsoft]]

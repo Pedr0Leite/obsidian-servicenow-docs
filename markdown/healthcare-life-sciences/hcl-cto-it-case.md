@@ -28,7 +28,7 @@ Incidents are created automatically in synchronization with Healthcare IT cases.
 
 ## Comment synchronization
 
-\[Omitted image "cto-it-comment-sync.png"\] Alt text: Comment sync example in [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+\[Omitted image "cto-it-comment-sync.png"\] Alt text: Comment sync example in Care Team Operations for Healthcare IT.
 
 Comments left on the Healthcare IT case are viewable on the incident, and comments left in the **Compose** panel of the Incident are viewable on the Healthcare IT case.
 
@@ -36,7 +36,7 @@ Comments left on the Healthcare IT case are viewable on the incident, and commen
 
 \[Omitted image "cto-it-state-sync.png"\] Alt text: State sync for Care Team Operations for Healthcare IT.
 
-The state of both the incident and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the [[care-team-portal-landing|Care Team Portal]] to track your case state in real time through viewing case details.
+The state of both the incident and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details.
 
 ## Accepting or rejecting a solution
 
@@ -52,7 +52,3 @@ In cases where an incident is set to **On hold** by the support agent with a rea
 
 This triggers an alert on the case in the Care Team Portal, where the state is changed to **Awaiting info**.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]

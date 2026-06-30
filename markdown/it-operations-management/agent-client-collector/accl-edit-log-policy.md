@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector log policies, Agent Client Collector Log Ana
 
 # Edit a log policy
 
-You can edit published [[hla-acc-data-input-log-policies|Agent Client Collector log policies]]. For example, modify a default log policy if your organization always uses a specific non-default log path.
+You can edit published Agent Client Collector log policies. For example, modify a default log policy if your organization always uses a specific non-default log path.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Role required: agent\_client\_collector\_admin
 
     2.  Monitor only CIs that are associated with an Application Service by selecting **Filter Monitored CIs by Application Service**.
 
-        You can specify the Application Services to be monitored by using filter conditions. [[acc-landing-page|Agent Client Collector]] will only retrieve the logs of CIs that are associated with these Application Services.
+        You can specify the Application Services to be monitored by using filter conditions. Agent Client Collector will only retrieve the logs of CIs that are associated with these Application Services.
 
 5.  In the **Check Instances** table, select the log shipper check instance record and edit it.
 
@@ -63,7 +63,4 @@ Role required: agent\_client\_collector\_admin
 
 9.  Select **Delete** to delete both the Published and the draft policies.
 
-## Related
 
-- [[hla-acc-data-input-log-policies|Agent Client Collector log policies]]
-- [[acc-landing-page|Agent Client Collector]]

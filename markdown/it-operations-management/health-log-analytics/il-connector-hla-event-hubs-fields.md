@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Microsoft Azure Event Hubs integration configuration fields
 
-Description of the fields on the Microsoft Azure Event Hubs integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Microsoft Azure Event Hubs integration configuration forms for Health Log Analytics.
 
 For the Microsoft Azure Event Hubs integration setup procedure, see [Set up a Microsoft Azure Event Hubs integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-event-hubs.md).
 
@@ -255,6 +255,3 @@ Option to select discarding logs if there is a load on the MID Server.
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

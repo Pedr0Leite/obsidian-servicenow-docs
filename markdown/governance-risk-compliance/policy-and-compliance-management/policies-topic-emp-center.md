@@ -14,7 +14,7 @@ breadcrumb: [Manage GRC tasks from Employee Center, Policy and Compliance Manage
 
 # Policy knowledge base and quick links in the Employee Center portal
 
-You can view all the Knowledge base \(KB\) articles related to the published policies in [[employee-center|Employee Center]].
+You can view all the Knowledge base \(KB\) articles related to the published policies in Employee Center.
 
 Selecting the **Policies** option in the Risk &amp; Compliance section takes you to the Policies page, where you can view all the Knowledge base \(KB\) articles that haven’t expired yet.
 
@@ -28,6 +28,3 @@ Access **Quick links** to the respective forms to create and accomplish your res
 
 \[Omitted image "policies-emp-center.png"\] Alt text: View knowledge base articles and access quick links in Policies topic of Employee Center.
 
-## Related
-
-- [[employee-center|employee center]]

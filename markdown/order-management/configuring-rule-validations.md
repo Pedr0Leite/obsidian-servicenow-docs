@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Configuring matrix validation rules
 
-As a product catalog admin or pricing admin, you can manage the system-defined matrix validation [[rules_101|rules]] that automatically check the mandatory rule inputs or outputs in matrix decision tables. You can also define your own custom validations.
+As a product catalog admin or pricing admin, you can manage the system-defined matrix validation rules that automatically check the mandatory rule inputs or outputs in matrix decision tables. You can also define your own custom validations.
 
 The product eligibility and pricing matrices included with the Product and Pricing Rules application have system-defined matrix validation rules, which are identified in the Details tab for each matrix. Each validation rule has a validation definition, which is a script that identifies the context variables to be validated in the matrix decision table and the corresponding error or warning messages to be displayed. The validations are run when you save your matrix decision row changes. The **Validation Status** field indicates whether the change is valid. If the change is not valid, error or warning messages are displayed in the **Validation Message** columns of the decision table.
 
@@ -30,6 +30,3 @@ Some system-defined validation rules are applicable to all decision tables, whil
 
 From the Details tab for a matrix, you can also run rule validations for the entire matrix by selecting the **More actions** icon and selecting **Validate rule**.
 
-## Related
-
-- [[rules_101|Rules]]

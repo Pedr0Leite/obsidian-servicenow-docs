@@ -14,7 +14,7 @@ breadcrumb: [Testing NLU/Keyword topics, Getting started with Virtual Agent Desi
 
 # Train and test your NLU model in Virtual Agent Designer
 
-Use the **NLU Intent** tab to train and try a Natural Language Understanding \(NLU\) model that is mapped to a topic without leaving [[virtual-agent-landing-page|Virtual Agent]] Designer.
+Use the **NLU Intent** tab to train and try a Natural Language Understanding \(NLU\) model that is mapped to a topic without leaving Virtual Agent Designer.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ As you make changes to a topic's intent, train the model so that your updates ar
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Set the discovery type toggle switch to **NLU/Keyword**.
 
@@ -61,7 +61,3 @@ For more information on providing feedback using thumbs icons in the results, se
 
 **Parent Topic:**[Testing NLU/Keyword topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-designer-testing.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

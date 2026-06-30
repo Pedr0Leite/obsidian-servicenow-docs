@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # View the list of affected reports
 
-You can view a list of all impacted reports identified by the [[report-view-acl-dashboard|ACL assessment for reports]]. Use this list to remediate affected reports and users.
+You can view a list of all impacted reports identified by the ACL assessment for reports. Use this list to remediate affected reports and users.
 
 ## Before you begin
 
@@ -96,7 +96,7 @@ Shared to roles
 
 </td><td>
 
-Roles the report owner has shared it with \(regardless of [[access-control|access control]] list\). This field is empty if the report is global.
+Roles the report owner has shared it with \(regardless of access control list\). This field is empty if the report is global.
 
 </td></tr><tr><td>
 
@@ -192,7 +192,3 @@ Click the link to view the column ACLs that apply to the impacted report. The **
 
 **Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)
 
-## Related
-
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]
-- [[access-control|Access control]]

@@ -16,17 +16,17 @@ breadcrumb: [Explore, Asset Management, IT Asset Management]
 
 Use the Asset estate view in the Asset Workspace to create, view, and modify the assets and also manage asset functions and notifications.
 
-**Note:** Software license tab is hidden when [[c_SoftwareAssetMgmt|Software Asset Management]] \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software license tab in [[sam-workspace|Software Asset Workspace]].
+**Note:** Software license tab is hidden when Software Asset Management \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software license tab in Software Asset Workspace.
 
 \[Omitted image "asset-wrkspc-assetestate.png"\] Alt text: Asset estate view in Asset Workspace
 
 |Chart or widget|Description|
 |---------------|-----------|
-|Hardware warranty expiration this year|Count of hardware and [[c_ReceiveAConsumableAsset|consumable assets]] that are expiring this current year.|
+|Hardware warranty expiration this year|Count of hardware and consumable assets that are expiring this current year.|
 |Asset requests|Count of hardware, consumable, and bundle requests in the catalog.|
 |Asset lifecycle by state|Number of assets grouped by the lifecycle state such as Retired, In use, In stock.|
 |Assets by model category|Number of assets grouped by the model category such as Software License, Consumable, Server.|
-|Incomplete assets by model category|Asset [[c_Models|models]] without purchase order number, purchase order line, or receiving line.|
+|Incomplete assets by model category|Asset models without purchase order number, purchase order line, or receiving line.|
 |Spend by model category|Cost of assets grouped by their model category.|
 
 ## Load reports on Asset estate view
@@ -43,9 +43,3 @@ Any item that is provided as a service or sold to your customer is tracked as an
 
 By default, the reports and Important Actions in the Asset estate view include all the assets in the Asset \[alm\_asset\] table. However, you can filter IBI assets from reports and Important Actions cards. For details on configuration required to filter IBI assets, see the [Sold products exclusion from the reports and Important Actions of Asset Workspace \[KB1584331\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1584331) article in the Now Support Knowledge Base
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]

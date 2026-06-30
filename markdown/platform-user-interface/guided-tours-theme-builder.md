@@ -12,7 +12,7 @@ breadcrumb: [Working with themes, Configure, Next Experience UI, Configure UIs a
 
 # Guided tours in Theme Builder
 
-Learn about Theme Builder [[guided-tours|guided tours]], including how to access and take them to build your knowledge of Theme Builder.
+Learn about Theme Builder guided tours, including how to access and take them to build your knowledge of Theme Builder.
 
 ## What guided tours are
 
@@ -36,9 +36,5 @@ After a tour starts automatically or manually, you're led through a series of st
 
 To stop a tour at any time, select **Skip tour** on a tour step. At the end of the guided tour, select **Done**.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[guided-tours|Guided Tours]]

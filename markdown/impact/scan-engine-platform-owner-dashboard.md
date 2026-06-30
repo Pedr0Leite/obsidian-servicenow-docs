@@ -61,7 +61,7 @@ The number of unfinished update sets currently being worked on by developers.
 
 </td></tr><tr><td>
 
-Findings by [[impact-landing-page|impact]] to instance
+Findings by impact to instance
 
 </td><td>
 
@@ -289,7 +289,3 @@ sn\_se\_summary\_scan\_detail
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]

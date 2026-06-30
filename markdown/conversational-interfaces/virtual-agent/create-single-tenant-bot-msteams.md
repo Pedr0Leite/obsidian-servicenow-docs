@@ -14,7 +14,7 @@ breadcrumb: [Specialized VA integrations for Teams, Integrate VA with Teams, Con
 
 # Create and integrate a self-configured bot for a single tenant page
 
-Create a self-configured single tenant bot with Microsoft Teams for integration with [[virtual-agent-landing-page|Virtual Agent]].
+Create a self-configured single tenant bot with Microsoft Teams for integration with Virtual Agent.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Your single-tenant bot is ready for use in Virtual Agent.
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

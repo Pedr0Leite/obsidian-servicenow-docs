@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing audience-specific templates, Configure Journe
 
 # Create and manage action plan task templates
 
-Create and manage the task templates that managers, mentors, and employees can use for their [[jny-dsgnr-landing-page-1|Journey designer]] plans. [[ut-use-task-template|Use task templates]] to provide a consistent and streamlined experience for creating Journey designer plans.
+Create and manage the task templates that managers, mentors, and employees can use for their Journey designer plans. Use task templates to provide a consistent and streamlined experience for creating Journey designer plans.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ## About this task
 
-Task templates appear as to-do lists in the [[employee-center-landing-page|Employee Center]] for managers, mentors, or employees.
+Task templates appear as to-do lists in the Employee Center for managers, mentors, or employees.
 
 ## Procedure
 
@@ -39,8 +39,3 @@ Task templates appear as to-do lists in the [[employee-center-landing-page|Emplo
 
 **Parent Topic:**[Creating and managing audience-specific templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-creating-audience-specific-plans.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[ut-use-task-template|Use Task templates]]
-- [[employee-center-landing-page|Employee Center]]

@@ -60,7 +60,7 @@ Determine if this is a phishing attack. In the task, select **Yes** or **No** in
 
 </td><td>
 
-If you select **Yes**, the following tasks are executed in parallel:-   Scan Endpoint - [[threat-intelligence-malware|Malware]] Found?
+If you select **Yes**, the following tasks are executed in parallel:-   Scan Endpoint - Malware Found?
 -   Update Email Protection Software
 -   Remove Unread Phishing Email in Queue - For All Users
  If you select **No**, the flow ends.
@@ -176,6 +176,3 @@ When the task is complete, the flow ends.
 
 [Security Incident Web/BBS Defacement workflow template]()
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

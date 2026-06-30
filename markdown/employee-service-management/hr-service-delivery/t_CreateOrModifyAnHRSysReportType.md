@@ -32,7 +32,7 @@ Types of system reports include:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Report Types**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Report Types**.
 
     The **HR Operations Report Types** list opens.
 
@@ -63,7 +63,3 @@ Types of system reports include:
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

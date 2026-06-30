@@ -14,11 +14,11 @@ breadcrumb: [Duplicate CIs remediation, CMDB data management, Configuration Mana
 
 # Properties related to remediation of duplicate CIs
 
-Use de-duplication properties to configure how remediation of duplicate CIs works when using the Duplicate CI Remediator, or the De-duplication Dashboard in CMDB Workspace and in [[sg-workspace|Service Graph Workspace]].
+Use de-duplication properties to configure how remediation of duplicate CIs works when using the Duplicate CI Remediator, or the De-duplication Dashboard in CMDB Workspace and in Service Graph Workspace.
 
 To view and edit these properties, the sn\_cmdb\_admin or admin role is required.
 
-Although the properties below [[reference|reference]] the [Duplicate CI Remediator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/reconcile-dup-task.md), these properties have an equivalent effect in [CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md).
+Although the properties below reference the [Duplicate CI Remediator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/reconcile-dup-task.md), these properties have an equivalent effect in [CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md).
 
 <table id="table_thf_j3w_5gb"><thead><tr><th>
 
@@ -79,7 +79,7 @@ Determines whether the Duplicate CI Remediator actually remediates CI duplicatio
 
 When set to false \(default value\), updates specified in the wizard are actually performed.
 
- You can set this property to true and then test run through the Duplicate CI Remediator without any records actually being updated. In this case, the [[c_WorkNotes|work notes]] for the task describe the changes that will happen in an actual remediation.
+ You can set this property to true and then test run through the Duplicate CI Remediator without any records actually being updated. In this case, the work notes for the task describe the changes that will happen in an actual remediation.
 
  -   Type: true \| false
 -   Default value: false
@@ -114,8 +114,3 @@ Enables the capability to ignore database errors and/or skip ALL business rules 
 </td></tr></tbody>
 </table>**Parent Topic:**[Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[reference|Reference]]
-- [[c_WorkNotes|Work notes]]

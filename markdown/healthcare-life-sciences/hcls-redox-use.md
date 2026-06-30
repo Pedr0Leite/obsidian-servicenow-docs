@@ -12,7 +12,7 @@ breadcrumb: [Redox Inbound Integration, Healthcare and Life Sciences Service Man
 
 # Exchange real-time healthcare data with Redox Inbound Integration
 
-Use the [[hcls-redox-app|Redox Inbound Integration]] application to easily exchange real-time data between different healthcare systems. Exchange data without depending on how individual healthcare systems store and transmit healthcare data.​
+Use the Redox Inbound Integration application to easily exchange real-time data between different healthcare systems. Exchange data without depending on how individual healthcare systems store and transmit healthcare data.​
 
 **Important:**
 
@@ -47,11 +47,7 @@ As a user with the sn\_hcls.admin role, you can receive and update healthcare da
     View snapshots of patient's charts at moments in time.
 
 
-For a full list of supported Redox data models, see [[hcls-redox-supported-dm|Supported data models and event types for Redox Inbound Integration]].
+For a full list of supported Redox data models, see [Supported data models and event types for Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-supported-dm.md).
 
 In addition, you can also use the Redox Electronic Health Record Spoke to send and update healthcare data from an external healthcare system. For more information, see [Redox Electronic Health Record Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/redox-spoke.md).
 
-## Related
-
-- [[hcls-redox-supported-dm|Supported data models and event types for Redox Inbound Integration]]
-- [[hcls-redox-app|Redox Inbound Integration]]

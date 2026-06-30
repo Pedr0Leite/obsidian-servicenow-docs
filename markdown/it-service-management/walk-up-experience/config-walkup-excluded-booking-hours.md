@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience appointment booking, Walk-up Experienc
 
 # Configure excluded hours for Walk-up Experience appointment booking
 
-Using the **Appointment Booking** application, you can specify excluded appointment hours in the schedule for your [[walkup-experience-landing-page|Walk-up Experience]] location.
+Using the **Appointment Booking** application, you can specify excluded appointment hours in the schedule for your Walk-up Experience location.
 
 ## Before you begin
 
@@ -101,6 +101,3 @@ Reconfigure the **Holiday Schedule** field on the Appointment Booking Service Co
 
 **Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

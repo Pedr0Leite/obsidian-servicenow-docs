@@ -24,7 +24,7 @@ Role required: sam\_user, sam\_admin, or model\_manager
 
 1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace** &gt; **License operations**.
 
-2.  Under **Licensing**, select **[[c_CreatingSoftwareModels|software models]]**.
+2.  Under **Licensing**, select **software models**.
 
 3.  Select **New**.
 
@@ -52,7 +52,7 @@ Publisher
 
 </td><td>
 
-Publisher of the software. You can use the lookup list provided.**Note:** Publisher is a [[reference-for-itsm-mobile-agent|reference]] to the company \[core\_company\]. Only companies you’re using internally are shown.
+Publisher of the software. You can use the lookup list provided.**Note:** Publisher is a reference to the company \[core\_company\]. Only companies you’re using internally are shown.
 
  If the publisher and product don’t exist, you can [Add a Software Asset Management Foundation plugin custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/add-custom-license-metric-samf.md).
 
@@ -62,7 +62,7 @@ Product
 
 </td><td>
 
-Software product name. The same lookup list provided on the Software Discovery [[c_Models|Models]] form.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] isn’t correct, products for that publisher may not be shown.
+Software product name. The same lookup list provided on the Software Discovery Models form.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] isn’t correct, products for that publisher may not be shown.
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ Only software installations that meet this software discovery map condition are 
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[c_ProductCatalog|Product Catalog]]
+Product Catalog
 
 </td></tr><tr><td>
 
@@ -431,9 +431,3 @@ Check box for setting the attribute as unlimited.
 
 **Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/configuring-samf-plugin-workspace.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

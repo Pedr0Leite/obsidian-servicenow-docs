@@ -12,7 +12,7 @@ breadcrumb: [Configuring a Unified User, User management, Set up your environmen
 
 # Configuring a contact as a consumer
 
-Associating a contact with the consumer in [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application enables you to function as both a B2B contact and a B2C consumer. Using this feature, you can easily switch between different customer portals without separate login credentials.
+Associating a contact with the consumer in Customer Service Management \(CSM\) application enables you to function as both a B2B contact and a B2C consumer. Using this feature, you can easily switch between different customer portals without separate login credentials.
 
 ## Contact as a consumer
 
@@ -22,6 +22,3 @@ For example, in banking and financial services, a customer has a personal saving
 
 \[Omitted image "Contact\_flow.png"\] Alt text: Flow explaining the model of contact as consumer
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -40,7 +40,7 @@ Create Problem Record for a major incident
 
 Returns guidance-based recommendation.
 
- Select **Create Problem** action to [[create-a-problem-v2|create a problem]] record for major incident.
+ Select **Create Problem** action to create a problem record for major incident.
 
 </td></tr><tr><td>
 
@@ -148,12 +148,8 @@ Create known error article for high impact Problem
 
 </td><td>
 
-Returns guidance based recommendation for a high-impact problem.Select **Create article** to [[create-known-error-from-problem|create a known error article]] for a high-impact problem.
+Returns guidance based recommendation for a high-impact problem.Select **Create article** to create a known error article for a high-impact problem.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Recommended Actions for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-reference.md)
 
-## Related
-
-- [[create-a-problem-v2|Create a problem]]
-- [[create-known-error-from-problem|Create a known error article]]

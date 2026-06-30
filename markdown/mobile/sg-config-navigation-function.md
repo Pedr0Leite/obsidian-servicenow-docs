@@ -12,23 +12,23 @@ breadcrumb: [Navigation functions, Mobile functions, Mobile app components, Buil
 
 # Configure a navigation to a screen
 
-[[mobile-nav-functions|Navigation functions]] enable you to define simple ways for end users to navigate within the [[mobile-config-navigation|mobile platform]], for example, navigating to a record from a field on another record.
+Navigation functions enable you to define simple ways for end users to navigate within the mobile platform, for example, navigating to a record from a field on another record.
 
 ## Before you begin
 
-Before you [[sg-launcher-nav-example-1|create a navigation function]], you should have a source screen and a destination screen for your navigation.
+Before you create a navigation function, you should have a source screen and a destination screen for your navigation.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu and then select **New**.
 
@@ -92,7 +92,7 @@ Whether the navigation function is available offline.**Note:**
 
 -   The screen and the application that contains the navigation function must be marked as available offline for the navigation function to work when the device is offline.
 -   Offline is only supported for the Mobile Agent.
-For more information about offline mode, see [[mobile-offline-mode|Offline mode]].
+For more information about offline mode, see [Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -253,14 +253,5 @@ Whether the attribute is turned on. Enter `true` to turn on the attribute. By de
 
 ## What to do next
 
-After you create a navigation function, you must associate it with a specific location in the mobile app. For more information, see [[sg-studio-button-instances|Associate a function with a location in the app]].
+After you create a navigation function, you must associate it with a specific location in the mobile app. For more information, see [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 
-## Related
-
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-studio-button-instances|Associate a function with a location in the app]]
-- [[mobile-nav-functions|Navigation functions]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[sg-launcher-nav-example-1|Create a navigation function]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate Grafana events, Integrate with push connectors, Configure
 
 # Integrate Grafana events with basic authentication
 
-Integrate Grafana with [[c_EM|Event Management]] by adding a standard webhook in the Grafana console.
+Integrate Grafana with Event Management by adding a standard webhook in the Grafana console.
 
 ## Before you begin
 
@@ -136,6 +136,3 @@ Alerts start flowing from Grafana into the Event Management plugin. The plugin e
 
 **Parent Topic:**[Integrate Grafana events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/grafana-integration.md)
 
-## Related
-
-- [[c_EM|Event Management]]

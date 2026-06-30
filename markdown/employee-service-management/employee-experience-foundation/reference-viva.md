@@ -14,14 +14,10 @@ breadcrumb: [Employee Center for Microsoft Viva Connections, Employee Center Int
 
 # Employee Center for Microsoft Viva Connections reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about components and forms required for [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]] integrations.
+Reference topics provide additional information about components and forms required for Employee Center for Microsoft Viva Connections integrations.
 
 -   **[Microsoft Viva integrations card properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/viva-card-properties.md)**  
 Add properties of the Microsoft Viva integrations card to view tasks from Microsoft Teams.
 
 **Parent Topic:**[Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-viva-integrations.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]

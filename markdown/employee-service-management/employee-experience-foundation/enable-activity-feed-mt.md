@@ -18,11 +18,11 @@ Automatically send campaign notifications in Microsoft Teams for better collabor
 
 ## Before you begin
 
-After the upgrade process for a pre-published app configuration, you must reauthorize the SSO and [[activity-lxp|Activity]] notifications application to enable your ServiceNow instance to make API calls to Microsoft Azure. ServiceNow for Microsoft Teams application work flow is then enabled and your consent for the new API permissions is ensured. For more information, see [Grant permissions to required Microsoft Azure apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps-mt.md).
+After the upgrade process for a pre-published app configuration, you must reauthorize the SSO and Activity notifications application to enable your ServiceNow instance to make API calls to Microsoft Azure. ServiceNow for Microsoft Teams application work flow is then enabled and your consent for the new API permissions is ensured. For more information, see [Grant permissions to required Microsoft Azure apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps-mt.md).
 
 A manifest file to enable the campaign notification display in Microsoft Teams must exist.
 
-If the configured [[employee-center-landing-page|Employee Center]] version is v.24 or above, then the Employee Center tab is present by default in your Microsoft Teams application. If the Employee Center version is lower than v.24, you must update the value of the portal in the `sn_now_teams.portal.suffix` property to `esc`. This value enables Employee Center in your instance.
+If the configured Employee Center version is v.24 or above, then the Employee Center tab is present by default in your Microsoft Teams application. If the Employee Center version is lower than v.24, you must update the value of the portal in the `sn_now_teams.portal.suffix` property to `esc`. This value enables Employee Center in your instance.
 
 Role required: admin
 
@@ -53,7 +53,3 @@ Role required: admin
 
 **Parent Topic:**[Sending notifications to employees using Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-campaigns-ms-teams-mt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

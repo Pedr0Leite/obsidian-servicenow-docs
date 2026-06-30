@@ -22,7 +22,7 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 ## Procedure
 
-1.  After you have received a notification that you are required to [[ack-policy|acknowledge a policy]], navigate to **Policy and Compliance** &gt; **Policy Acknowledgement** &gt; **My Acknowledgements**.
+1.  After you have received a notification that you are required to acknowledge a policy, navigate to **Policy and Compliance** &gt; **Policy Acknowledgement** &gt; **My Acknowledgements**.
 
     \[Omitted image "my\_acknowledgement.png"\] Alt text: My acknowledgement
 
@@ -60,6 +60,3 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 **Parent Topic:**[Acknowledge a policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/ack-policy.md)
 
-## Related
-
-- [[ack-policy|Acknowledge a policy]]

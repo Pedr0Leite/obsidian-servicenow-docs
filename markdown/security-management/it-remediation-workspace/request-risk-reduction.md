@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Request risk reduction for a vulnerable item or remediation task
 
-Request a reduction in risk for a host vulnerable item or a remediation task in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Request a reduction in risk for a host vulnerable item or a remediation task in the IT Remediation Workspace.
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Role required: sn\_vul.remediation\_owner
 
 ## About this task
 
-Starting from v21.0 of [[vuln-landing-page|Vulnerability Response]], you can request risk reduction only for the following items:
+Starting from v21.0 of Vulnerability Response, you can request risk reduction only for the following items:
 
 -   A remediation task only if all its vulnerable items are associated to the same Common Vulnerability Entry \(CVE\) regardless of whether its risk reduction is enabled for CVEs.
 -   A third-party \(TPE\) for which risk reduction is enabled.
 
-**Note:** The compensating controls feature is available for host [[vulnerabilities|vulnerabilities]] only.
+**Note:** The compensating controls feature is available for host vulnerabilities only.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Starting from v21.0 of [[vuln-landing-page|Vulnerability Response]], you can req
 
 4.  Select the More options icon and select **Request Exception**.
 
-5.  On the [[cvr-request-exception-form|Request Exception form]], fill in the fields.
+5.  On the Request Exception form, fill in the fields.
 
     For a description of the field values, see[Request exception form for risk reduction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-request-exception-form-rr.md).
 
@@ -76,9 +76,3 @@ For more information on how the **Until date for risk reduction** is updated for
 
 [Impact of the compensating controls on risk score and expiration date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/requesting-approving-risk-reduction.md)
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[cvr-request-exception-form|Request Exception form]]

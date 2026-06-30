@@ -22,7 +22,7 @@ If no ownership group is assigned to the article, the feedback task is assigned 
 
 The task assignees can update the article, create a new article, request additional feedback, or reassign the task and receives notification after the feedback is updated or resolved.
 
-**Note:** The actionable feedback feature is available in the [[knowledge-management|Knowledge Management]] Service Portal and Agent Workspace. To use the actionable feedback feature in other service portals, you can activate the **Knowledge Article View** page route map.
+**Note:** The actionable feedback feature is available in the Knowledge Management Service Portal and Agent Workspace. To use the actionable feedback feature in other service portals, you can activate the **Knowledge Article View** page route map.
 
 Beginning with New York, the **Knowledge Article View** page route map is activated by default. Existing customers on release versions prior to New York can activate the **Knowledge Article View** page route map. For more information, see [Activate the Knowledge Article View page on upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/redirect-knowledge.md).
 
@@ -37,6 +37,3 @@ Beginning with New York, the **Knowledge Article View** page route map is activa
 
 [Track the progress on a feedback task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/track-feedback-task-metrics.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

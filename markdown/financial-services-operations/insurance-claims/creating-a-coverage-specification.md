@@ -14,7 +14,7 @@ breadcrumb: [Coverage specification, Setting up the policy data for Insurance cl
 
 # Create a coverage specification
 
-Create a coverage specification in the [[insurance-claims-flow|Insurance claims]] application so that you can outline the scope and limits of the protection that is provided by an insurance policy.
+Create a coverage specification in the Insurance claims application so that you can outline the scope and limits of the protection that is provided by an insurance policy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When creating the [[coverage-specification|coverage specification]], you also create the coverage types that act as the primary data for the coverage specification and the coverage type options for each coverage type.
+When creating the coverage specification, you also create the coverage types that act as the primary data for the coverage specification and the coverage type options for each coverage type.
 
 For example, if the coverage specification is travel coverage, then you can select the following options:
 
@@ -31,7 +31,7 @@ For example, if the coverage specification is travel coverage, then you can sele
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Coverages** &gt; **Coverage specifications**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Coverages** &gt; **Coverage specifications**.
 
 2.  Select **New**.
 
@@ -77,8 +77,3 @@ For example, if the coverage specification is travel coverage, then you can sele
 
 Link the coverage types and coverage type options to the coverage specification that you created. For more information, see [Link the coverage types and coverage options to a coverage specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/linking-coverage-types-and-coverage-options-to-a-coverage-specification.md).
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[coverage-specification|Coverage specification]]
-- [[fso-overview|Financial Services]]

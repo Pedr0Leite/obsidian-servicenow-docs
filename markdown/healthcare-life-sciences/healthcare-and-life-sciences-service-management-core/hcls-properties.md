@@ -14,9 +14,9 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Healthcare and Life Sciences Service Management Core properties
 
-There are several advanced Healthcare and Life Sciences Service Management Core properties that you can configure for features used in [[hcls-overview|Healthcare and Life Sciences]] applications.
+There are several advanced Healthcare and Life Sciences Service Management Core properties that you can configure for features used in Healthcare and Life Sciences applications.
 
-These properties are available for [[hcls-core-app|Healthcare and Life Sciences Service Management Core]].
+These properties are available for Healthcare and Life Sciences Service Management Core.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -91,7 +91,3 @@ Variable specifically for service portal. Setting this to true enables service p
 </td></tr></tbody>
 </table>**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

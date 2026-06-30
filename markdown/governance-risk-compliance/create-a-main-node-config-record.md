@@ -26,7 +26,7 @@ Role required: sn\_grc\_rel\_config.admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [[main-node-configuration-form|Main node configuration new record form]].
+    For information on the fields in the form, see [Main node configuration new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-configuration-form.md).
 
 4.  Select **Submit**.
 
@@ -36,9 +36,5 @@ Role required: sn\_grc\_rel\_config.admin
 -   **[Main node configuration new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-configuration-form.md)**  
 Use the Main node configuration new record form to create a main node configuration record in the Data Relationships Framework.
 
-**Parent Topic:**[[data-relationship-framework|Data Relationships Framework]]
+**Parent Topic:**[Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/data-relationship-framework.md)
 
-## Related
-
-- [[main-node-configuration-form|Main node configuration new record form]]
-- [[data-relationship-framework|Data Relationships Framework]]

@@ -14,22 +14,15 @@ breadcrumb: [Use, Sales Customer Relationship Management]
 
 Learn how to use lead-to-cash foundation applications.
 
--   **[[using-product-catalog|Using product catalogs]]**  
-The product catalog provides a visual display of the available product offerings that can be added to a [[order-mgt-overview|Sales Customer Relationship Management]] transaction, such as an opportunity, quote, or order. Use the catalog interface to add simple products and complex products that can be further customized.
+-   **[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)**  
+The product catalog provides a visual display of the available product offerings that can be added to a Sales Customer Relationship Management transaction, such as an opportunity, quote, or order. Use the catalog interface to add simple products and complex products that can be further customized.
 
-**Parent Topic:**[[som-using|Using Sales Customer Relationship Management applications]]
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 
 **Related topics**  
 
 
-[[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
+[Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md)
 
-[[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
+[Lead-to-cash foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash-foundation-landing.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[som-using|Using Sales Customer Relationship Management applications]]
-- [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

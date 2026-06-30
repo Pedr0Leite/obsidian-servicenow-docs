@@ -26,7 +26,7 @@ A configuration includes the team level structure and work item types. The follo
 -   Portfolio Configuration
 -   Kanban Configuration
 
-\[Omitted image "eap-configurations.png"\] Alt text: Default EAP configurations in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+\[Omitted image "eap-configurations.png"\] Alt text: Default EAP configurations in the Strategic Planning Workspace.
 
 If you installed the Strategic Planning demo data, **Full Configuration** is activated for you. You can choose to activate a different configuration or define a new configuration.
 
@@ -46,6 +46,4 @@ For more information, see [Activate an EAP configuration](https://raw.githubuser
 
     You can also create a custom work item type. See [Create a custom work item type in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-custom-work-item-type-in-eap.md).
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

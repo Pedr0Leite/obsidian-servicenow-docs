@@ -14,13 +14,13 @@ breadcrumb: [Configure Virtual Agent topics for ITSM Success Dashboard, ITSM Suc
 
 # Configure Virtual Agent topics for ITSM Success Dashboard using self-service analytics
 
-Configure the Virtual Agent \(VA\) topics for [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] using the self-service analytics.
+Configure the Virtual Agent \(VA\) topics for ITSM Success Dashboard indicators using the self-service analytics.
 
 ## Before you begin
 
 Role required: admin
 
-To [[update-live-agent-script-include|update the live agent script include]] see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
+To update the live agent script include see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
 
 ## Procedure
 
@@ -45,7 +45,3 @@ To [[update-live-agent-script-include|update the live agent script include]] see
 
 **Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-va.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]
-- [[update-live-agent-script-include|Update the live agent script include]]

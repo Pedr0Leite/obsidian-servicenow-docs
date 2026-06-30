@@ -18,7 +18,7 @@ The SG-GCP Execute Patch Job and SG-GCP Get Patch Job scheduled import jobs enab
 
 Deep discovery involves fetching server data. The deep discovery data populates host name, serial number, CPU data, TCP connections, and running processes data into the CMDB.
 
-The [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] uses OS Config Patch jobs on GCP projects to execute the deep discovery commands on the VMs. These patch jobs run independently on Linux and Windows VMs.
+The Service Graph Connector for GCP uses OS Config Patch jobs on GCP projects to execute the deep discovery commands on the VMs. These patch jobs run independently on Linux and Windows VMs.
 
 The following scheduled imports execute the OS Config Patch jobs, and then read and delete the output:
 
@@ -72,6 +72,3 @@ Using the deep discovery information, Application Dependency Mapping \(ADM\) cre
 
 [Service Graph Connector for GCP properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-gcp-props.md)
 
-## Related
-
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]

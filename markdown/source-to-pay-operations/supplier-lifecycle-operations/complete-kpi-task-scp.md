@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # Complete a KPI collection task from the Supplier Collaboration Portal
 
-A KPI collection task is generated automatically each time a KPI is instantiated. A [[supplier-contact|supplier contact]] can complete the assigned KPI collection task from the [[supplier-central|Supplier Collaboration Portal]].
+A KPI collection task is generated automatically each time a KPI is instantiated. A supplier contact can complete the assigned KPI collection task from the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_slm.contact
 A KPI is instantiated when:
 
 -   A segmentation rule is run.
--   A [[supplier|supplier]] is added to the KPI template.
+-   A supplier is added to the KPI template.
 -   An existing KPI template is added to the KPI management tab of a supplier.
 
 ## Procedure
@@ -65,8 +65,3 @@ The KPI collection task is marked as complete.
 
 [View supplier performance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

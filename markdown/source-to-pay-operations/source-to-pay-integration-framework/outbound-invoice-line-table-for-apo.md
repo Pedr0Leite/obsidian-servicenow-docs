@@ -24,12 +24,12 @@ The following table lists both the mandatory and optional fields for the Outboun
 |Field|Data type|Description|
 |-----|---------|-----------|
 |Cost center|Reference|Cost center for which the invoice is generated.|
-|ERP line number|String|A unique identifier generated within an ERP system for the [[purchase-order-table|purchase order]] line.|
+|ERP line number|String|A unique identifier generated within an ERP system for the purchase order line.|
 |ERP source|String|Target ERP where the invoice will be posted.|
 |Final tax|String|Final tax on the invoice amount.|
 |GL account|Reference|Account used to generate the invoice.|
 |Integration status|String|Current status of the outbound invoice line integration process.|
-|Invoice|Reference|Transaction record used to track purchase between shopper and [[supplier|supplier]].|
+|Invoice|Reference|Transaction record used to track purchase between shopper and supplier.|
 |Invoice line status|String|Current status of this invoice line.|
 |Line amount invoiced|String|Total amount for the invoice line.|
 |Line description|String|Description of the line item in the invoice.|
@@ -51,7 +51,3 @@ The following table lists both the mandatory and optional fields for the Outboun
 |Tax jurisdiction code|String|Tax code jurisdiction to which the tax must be paid.|
 |Unit|Reference|Unit or rate in which this product is sold by the supplier.|
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

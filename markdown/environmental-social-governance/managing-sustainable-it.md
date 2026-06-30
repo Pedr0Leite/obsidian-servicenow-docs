@@ -28,26 +28,20 @@ For the Digital End-User Experience \(DEX\), data on energy emissions from lapto
 -   Assign appropriate entities \(locations/models\) to each metric definition.
 -   For emissions-related metrics configure the emission factor “CO2 equivalent from Purchased Electricity eGRID” from the eGRID source via Content Accelerator.
 
-    **Note:** Confirm that the emission factor’s location matches the asset location records. If no emission factor is found for a location, the calculated value will be zero [[usage-of-emission-factors-in-a-calculated-metric-definition|https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/usage-of-emission-factors-in-a-calculated-metric-definition.md]].
+    **Note:** Confirm that the emission factor’s location matches the asset location records. If no emission factor is found for a location, the calculated value will be zero [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/usage-of-emission-factors-in-a-calculated-metric-definition.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/usage-of-emission-factors-in-a-calculated-metric-definition.md).
 
 -   Set the metric period date to the previous month.
 
     **Note:** DEX agents report the previous day's energy consumption data \(example, September 15 data is sent on September 16\). If the metric period is not set properly, data may be labeled with incorrect dates \(example, May's data appearing under June dates\).
 
 
--   **[[sustainable-it-dashboard|Sustainable IT dashboard]]**  
+-   **[Sustainable IT dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/sustainable-it-dashboard.md)**  
 The Sustainable IT dashboard displays a variety of information to easily gauge the sustainability impact of the IT assets of an organization.
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
 **Related topics**  
 
 
-[[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]
+[Methods to set up entities for Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/methods-to-set-up-entities.md)
 
-## Related
-
-- [[usage-of-emission-factors-in-a-calculated-metric-definition|Usage of emission factors in a calculated metric definition]]
-- [[sustainable-it-dashboard|Sustainable IT dashboard]]
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]

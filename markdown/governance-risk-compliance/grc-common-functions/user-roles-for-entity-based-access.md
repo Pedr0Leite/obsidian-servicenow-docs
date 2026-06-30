@@ -14,7 +14,7 @@ breadcrumb: [Entity Based Access, Common GRC features, Governance, Risk, and Com
 
 # User roles for Entity Based Access
 
-Users with specific user roles have access to read or update the [[entity-based-access|Entity Based Access]] configuration or the bulk access update configuration.
+Users with specific user roles have access to read or update the Entity Based Access configuration or the bulk access update configuration.
 
 <table id="table_gtg_1yr_z2c"><thead><tr><th>
 
@@ -72,6 +72,3 @@ Role that is part of the Entity Based Access application.Assign this role to use
 
 **Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

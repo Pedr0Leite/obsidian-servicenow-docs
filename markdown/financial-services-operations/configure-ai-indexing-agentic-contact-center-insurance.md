@@ -12,7 +12,7 @@ breadcrumb: [Configuring Agentic Contact Center for Insurance, Agentic Contact C
 
 # Configure AI indexing for Agentic Contact Center for Insurance
 
-Configure AI indexing to enable intelligent search capabilities across insurance policies, cases, and customer interactions in [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]].
+Configure AI indexing to enable intelligent search capabilities across insurance policies, cases, and customer interactions in Agentic Contact Center for Insurance.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin
 2.  Activate the following indexed sources if they aren't already active:
 
     -   Insurance Policies
-    -   [[fso-overview|Financial Services]] Base
+    -   Financial Services Base
     -   Interaction
     1.  Select the record for the indexed source.
 
@@ -54,7 +54,3 @@ AI indexing is configured for Agentic Contact Center for Insurance.
 
 [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/publish-search-profile-ais.md)
 
-## Related
-
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[fso-overview|Financial Services]]

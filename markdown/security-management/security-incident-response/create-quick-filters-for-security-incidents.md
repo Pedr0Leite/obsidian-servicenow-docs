@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Navigate to **Quick Filters** &gt; **Filters**.
 
@@ -72,6 +72,3 @@ The newly created filter is saved and appears on the Filter page.
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

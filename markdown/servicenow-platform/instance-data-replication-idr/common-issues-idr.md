@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Resolving data replication errors in Instance Data Replication
 
-Resolve errors and monitor the status of [[instance-data-replication|Instance Data Replication]] \(IDR\) replication sets.
+Resolve errors and monitor the status of Instance Data Replication \(IDR\) replication sets.
 
 ## Monitoring and diagnostic checklist
 
@@ -148,7 +148,7 @@ Retry Instance Data Replication \(IDR\) seeding on tables with seeding errors, w
 -   **[Identify Instance Data Replication errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/debug-instance-data-replication.md)**  
 Identify Instance Data Replication \(IDR\) errors by viewing the metadata for messages between producer and consumer instances, payload error logs, and message logs.
 -   **[Configure error notifications in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configure-notification-idr.md)**  
-[[notify-landing-page|Notify]] one or more users when errors occur in Instance Data Replication \(IDR\).
+Notify one or more users when errors occur in Instance Data Replication \(IDR\).
 -   **[Consumer replication set status in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-error.md)**  
 Review the status of your consumer replication set and research error messages to identify or fix Instance Data Replication \(IDR\) replication issues.
 -   **[Instance Data Replication XML stats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/IDR-XML-stats.md)**  
@@ -173,7 +173,3 @@ Extract Instance Data Replication \(IDR\)-related data from your instance to mon
 
 [Avoiding insert and update errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[notify-landing-page|Notify]]

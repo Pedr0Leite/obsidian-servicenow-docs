@@ -45,7 +45,7 @@ On the context menu, click **Promote to Major Incident**. The incident directly 
 -   Only a major incident manager can promote an incident to a major incident. If an incident is in the resolved, closed, or canceled state, the **Promote to Major Incident** option does not appear on the context menu.
 -   When an incident is promoted to a major incident, the incident itself is considered as a major incident and no new incident is created.
 
-To get this behavior, you need to set the major [[c_IncidentManagement|incident management]] property **Create major incident from candidate – A new incident is created from a candidate as a major incident. The candidate is associated with the new incident as a child.** \(**sn\_major\_inc\_mgmt.com.snc.incident.mim.major\_incident\_creation**\) to **Promote candidate to a major incident**.
+To get this behavior, you need to set the major incident management property **Create major incident from candidate – A new incident is created from a candidate as a major incident. The candidate is associated with the new incident as a child.** \(**sn\_major\_inc\_mgmt.com.snc.incident.mim.major\_incident\_creation**\) to **Promote candidate to a major incident**.
 
 </td></tr><tr><td id="d212307e125">
 
@@ -61,6 +61,3 @@ To get this behavior, you need to set the major [[c_IncidentManagement|incident 
 </table>
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

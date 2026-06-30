@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Knowledge Management, Operational Techn
 
 # Create a knowledge article from an OT incident record
 
-Create a knowledge article to record and save information that is related to an [[operational-technology-overview|Operational Technology]] \(OT\) incident and its resolution.
+Create a knowledge article to record and save information that is related to an Operational Technology \(OT\) incident and its resolution.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Creating a knowledge article directly from an incident record helps to make sure
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the list view under the OT Incident module, open one of the available lists.
 
@@ -106,7 +106,3 @@ The knowledge article is now published in your OT knowledge base. To view the kn
 
 **Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/using-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

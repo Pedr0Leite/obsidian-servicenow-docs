@@ -16,7 +16,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 When configuration items \(CIs\) are created in the CMDB, asset records are created. The asset record contains the model category for the CI.
 
-The following table describes the model categories available for [[operational-technology-overview|Operational Technology]] \(OT\) and their CI class.
+The following table describes the model categories available for Operational Technology \(OT\) and their CI class.
 
 |Name|CI class|
 |----|--------|
@@ -48,6 +48,3 @@ The following table describes the model categories available for [[operational-t
 
 **Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

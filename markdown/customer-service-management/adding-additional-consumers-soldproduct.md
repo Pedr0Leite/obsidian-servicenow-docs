@@ -12,7 +12,7 @@ breadcrumb: [Adding related parties to a sold product, Using customer access man
 
 # Add additional consumers for the sold product
 
-Add additional consumers for your business-to-consumer \(B2C\) or business-to-business-to-consumer \(B2B2C\) [[sold-product|sold products]] by defining the type and responsibility of additional consumers. After you add this information, additional consumers can have the same access to the consumer associated with the sold product and the related entities.
+Add additional consumers for your business-to-consumer \(B2C\) or business-to-business-to-consumer \(B2B2C\) sold products by defining the type and responsibility of additional consumers. After you add this information, additional consumers can have the same access to the consumer associated with the sold product and the related entities.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin and sn\_customerservice\_manager
 
 ## About this task
 
-The responsibility assigned to the additional consumer that is associated with a sold product gets access to the sold product and the related entities, which include [[installed-products|installed products]], [[install-base-item|install base items]], and cases associated with sold products.
+The responsibility assigned to the additional consumer that is associated with a sold product gets access to the sold product and the related entities, which include installed products, install base items, and cases associated with sold products.
 
 ## Procedure
 
@@ -72,7 +72,7 @@ Responsibility
 
 </td><td>
 
-Access level to sold product and related information.Additional consumer with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_consumer role to get access to associated sold product and related entities. For details, see [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]].
+Access level to sold product and related information.Additional consumer with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_consumer role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, consumers can’t access the sold product and associated case.
 
@@ -106,9 +106,3 @@ Once additional consumers are added to the sold product with a proper functional
 -   While creating a case for a sold product, you can only see authorized consumers on the consumer sold product.
 -   If you choose someone as a consumer, you can only associate the sold products they have full access to on the case.
 
-## Related
-
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[sold-product|Sold products]]
-- [[installed-products|Installed products]]
-- [[install-base-item|Install base items]]

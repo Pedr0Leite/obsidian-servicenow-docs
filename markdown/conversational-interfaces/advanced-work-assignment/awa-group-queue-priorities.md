@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # AWA group queue priorities
 
-Use the group queue priority feature to set a queue or work item preference for a given group of agents. For a given group or agent with limited capacity, this feature controls which queues should be preferred if matching [[awa-work-items|work items]] are found in both.
+Use the group queue priority feature to set a queue or work item preference for a given group of agents. For a given group or agent with limited capacity, this feature controls which queues should be preferred if matching work items are found in both.
 
 For each group defined across the eligibility pools for a given queue, a corresponding group queue priority record will automatically be created for that group and queue combination, with the order set to a default of 100.
 
@@ -154,7 +154,3 @@ Outcome
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-work-items|Work items]]

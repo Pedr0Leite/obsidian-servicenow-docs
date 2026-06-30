@@ -14,13 +14,13 @@ breadcrumb: [Installing MID-less ACC, Configuring MID-less ACC, ACC deployment -
 
 # Install MID-less Agent Client Collector manually in a macOS environment
 
-Install MID-less [[acc-landing-page|Agent Client Collector]] manually on a macOS machine to enable sending data from the agent to the instance through the cloud. Sending information through the cloud allows the MID Server to be used for more persistent resources.
+Install MID-less Agent Client Collector manually on a macOS machine to enable sending data from the agent to the instance through the cloud. Sending information through the cloud allows the MID Server to be used for more persistent resources.
 
 ## Before you begin
 
 -   Install the ITOM Cloud Services Core \(sn\_itom\_cloud\_svc\) plugin.
 -   Onboard your instance to use ITOM Cloud Services. For details, contact Customer Support.
--   [[agent-registration-key-configuration|Configure an agent registration key]]. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
+-   Configure an agent registration key. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
 -   Role required: agent\_client\_collector\_admin
 
 ## About this task
@@ -95,7 +95,3 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
 
 **Parent Topic:**[Installing MID-less Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-itom-cloud-services.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[agent-registration-key-configuration|Configure an agent registration key]]

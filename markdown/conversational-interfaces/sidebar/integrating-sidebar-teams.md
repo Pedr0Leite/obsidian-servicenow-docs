@@ -14,7 +14,7 @@ breadcrumb: [Sidebar and Microsoft Teams, Configuring Sidebar, Sidebar, Conversa
 
 # Integrate Sidebar and Microsoft Teams
 
-Enable conversations between [[sidebar-teams-overview|Sidebar and Microsoft Teams]] users by integrating [[sidebar-landing|Sidebar]] with Microsoft Teams.
+Enable conversations between Sidebar and Microsoft Teams users by integrating Sidebar with Microsoft Teams.
 
 Follow these steps to integrate Sidebar and Microsoft Teams.
 
@@ -25,7 +25,3 @@ Follow these steps to integrate Sidebar and Microsoft Teams.
 3.  Create the Microsoft Teams app. See [KB article KB1225842](https://support.servicenow.com/kb_view.do?sysparm_article=KB1225842) for more information.
 4.  Enable the Microsoft Teams integration using the information in [Enable the Microsoft teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/enable-teams-integration.md).
 
-## Related
-
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]
-- [[sidebar-landing|Sidebar]]

@@ -56,7 +56,7 @@ Select the image type.-   **Image Library**: Images stored in the db\_image tabl
 
 </td><td>
 
-Begin typing a file name and select an image from the list, or click the [[c_ReferenceLookup|reference lookup]] icon and select an image.To upload a new image, click **New**, click **Choose File**, locate the image, and click **Upload**.
+Begin typing a file name and select an image from the list, or click the reference lookup icon and select an image.To upload a new image, click **New**, click **Choose File**, locate the image, and click **Upload**.
 
  If you chose the **Attachment** type, click **Choose File**, locate the image, and click **Attach**.
 
@@ -95,6 +95,4 @@ Enter alternate text that can be used to improve accessibility. For example, it 
 
     Pasted images are saved in the system as attachments.
 
-## Related
 
-- [[c_ReferenceLookup|Reference lookup]]

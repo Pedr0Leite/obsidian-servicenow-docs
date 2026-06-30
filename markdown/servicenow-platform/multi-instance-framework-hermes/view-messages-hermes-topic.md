@@ -14,7 +14,7 @@ breadcrumb: [Monitoring topics, Manage namespaces and topics, Hermes Messaging S
 
 # View a message in a Hermes topic
 
-View the payload of a message in a Hermes topic using the [[hermes-messaging-service|Hermes Messaging Service]] topic inspector.
+View the payload of a message in a Hermes topic using the Hermes Messaging Service topic inspector.
 
 ## Before you begin
 
@@ -138,6 +138,3 @@ Message body contents. Note the following information about the message payload:
 </table>
 **Parent Topic:**[Monitoring topics in the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/monitoring-topics-hermes-kafka-cluster.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

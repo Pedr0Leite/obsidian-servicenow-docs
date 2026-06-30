@@ -12,17 +12,17 @@ breadcrumb: [Care Team Operations for Facilities, Healthcare Operations, Healthc
 
 # Exploring Care Team Operations for Facilities
 
-Use the [[cto-facilities-landing|Care Team Operations for Facilities]] application to resolve facilities issues related to maintenance or repair cases quickly and efficiently.
+Use the Care Team Operations for Facilities application to resolve facilities issues related to maintenance or repair cases quickly and efficiently.
 
 ## Care Team Operations for Facilities overview
 
 Care Team Operations for Facilities contains the case types to report and fulfill facilities support issues in hospitals.
 
-Care Team Operations for Facilities provides care teams with a streamlined platform to report issues to the facilities department for support. Using the [[care-team-portal-landing|Care Team Portal]], care team members can raise an issue with the Facilities case type. A work order is then automatically created from this case. Support agents in the Facilities department then manage using the Service Operations workspace as they fix the issue.
+Care Team Operations for Facilities provides care teams with a streamlined platform to report issues to the facilities department for support. Using the Care Team Portal, care team members can raise an issue with the Facilities case type. A work order is then automatically created from this case. Support agents in the Facilities department then manage using the Service Operations workspace as they fix the issue.
 
 A range of service requests come preconfigured for use with Care Team Operations for Facilities. The Healthcare Facilities case \[sn\_cto\_facilities\_case\] type can also be extended to create custom request types.
 
-**Note:** Care Team Operations for Facilities requires installation of the [[hcls-cto-app|Healthcare Operations Core]] and Care Team Portal plugins.
+**Note:** Care Team Operations for Facilities requires installation of the Healthcare Operations Core and Care Team Portal plugins.
 
 ## Care Team Operations for Facilities users
 
@@ -37,7 +37,7 @@ A range of service requests come preconfigured for use with Care Team Operations
 
 ## Care Team Operations for Facilities workflow
 
-\[Omitted image "cto-facilities-workflow.png"\] Alt text: Example workflow of a facilities issue being reported [[care-team-portal-using|using Care Team Portal]].
+\[Omitted image "cto-facilities-workflow.png"\] Alt text: Example workflow of a facilities issue being reported using Care Team Portal.
 
 1.  An administrator configures the Care Team Operations for Facilities application.
 2.  A care team member detects a facilities issue and reports it using the Care Team Portal.
@@ -47,28 +47,16 @@ A range of service requests come preconfigured for use with Care Team Operations
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate [[healthcare-operations-overview|healthcare operations]] by enabling facilities support request creation and fulfillment.|[[cto-facilities-case-overview|Healthcare Facilities case overview]]|Admin|
-|Create support requests and receive visibility to all Facilities service requests created by your teams.|[[cto-facilities-create-request|Creating service requests in Care Team Operations for Facilities]]|Nurse, Nurse assistant, Unit secretary|
-|Use CSM/FSM Configurable Workspace to fulfill facilities service requests.|[[cto-facilities-fulfilling-requests|Fulfilling service requests in Care Team Operations for Facilities]]|Facilities support agent|
+|Automate healthcare operations by enabling facilities support request creation and fulfillment.|[Healthcare Facilities case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-case-overview.md)|Admin|
+|Create support requests and receive visibility to all Facilities service requests created by your teams.|[Creating service requests in Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-create-request.md)|Nurse, Nurse assistant, Unit secretary|
+|Use CSM/FSM Configurable Workspace to fulfill facilities service requests.|[Fulfilling service requests in Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-fulfilling-requests.md)|Facilities support agent|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Operations for Facilities, see:
 
--   [[cto-facilities-configuring|Configuring Care Team Operations for Facilities]]
+-   [Configuring Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-configuring.md)
 -   [Creating service requests in Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-create-request.md)
 -   [Fulfilling service requests in Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-fulfilling-requests.md)
--   [[cto-facilities-reference|Care Team Operations for Facilities reference]]
+-   [Care Team Operations for Facilities reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-reference.md)
 
-## Related
-
-- [[cto-facilities-case-overview|Healthcare Facilities case overview]]
-- [[cto-facilities-create-request|Creating service requests in Care Team Operations for Facilities]]
-- [[cto-facilities-fulfilling-requests|Fulfilling service requests in Care Team Operations for Facilities]]
-- [[cto-facilities-configuring|Configuring Care Team Operations for Facilities]]
-- [[cto-facilities-reference|Care Team Operations for Facilities reference]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[care-team-portal-using|Using Care Team Portal]]
-- [[healthcare-operations-overview|Healthcare Operations]]

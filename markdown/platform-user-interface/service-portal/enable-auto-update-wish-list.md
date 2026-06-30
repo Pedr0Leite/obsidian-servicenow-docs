@@ -22,7 +22,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Home**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Home**.
 
     The Service Portal homepage is displayed.
 
@@ -58,9 +58,5 @@ Role required: admin or sp\_admin
 **Related topics**  
 
 
-[Enable the [[sc-wish-list|SC Wish List Cart widget]] in Service Portal]()
+[Enable the SC Wish List Cart widget in Service Portal]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[sc-wish-list|SC Wish List Cart widget]]

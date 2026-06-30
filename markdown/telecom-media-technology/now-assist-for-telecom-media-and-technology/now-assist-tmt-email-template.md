@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for TMT, Telecommunications, M
 
 # Create touchpoints and meeting records using Now Assist for Telecommunications, Media and Technology \(TMT\)
 
-Send the email to instance to create the touchpoint and meeting records directly from the inbound email [[now-assist-spm-using|using Now Assist for Telecommunications, Media and Technology \(TMT\)]].
+Send the email to instance to create the touchpoint and meeting records directly from the inbound email using Now Assist for Telecommunications, Media and Technology \(TMT\).
 
 ## Before you begin
 
@@ -105,6 +105,3 @@ For Touchpoints, the Email message must contain the required fields:
 
 **Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spm-using.md)
 
-## Related
-
-- [[now-assist-spm-using|Using Now Assist for Telecommunications, Media and Technology \(TMT\)]]

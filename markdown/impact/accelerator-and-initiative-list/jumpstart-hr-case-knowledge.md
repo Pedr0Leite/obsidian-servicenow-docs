@@ -19,7 +19,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your HR Case and Knowledge provides [[impact-landing-page|Impact]] customers with an easy-to-understand overview of Human Resources Service Delivery \(HRSD\) and key capabilities of HR Case and Knowledge. This offering helps customers understand how the application can enhance HR service delivery by covering core configuration for foundational setup, case life cycles to streamline workflows, Now Assist for AI-powered recommendations, and Agent Workspace for efficient case management. By exploring these areas, customers gain clarity on optimizing HR processes, improving service efficiency, and establishing the baseline context for future accelerator offerings.
+Jumpstart Your HR Case and Knowledge provides Impact customers with an easy-to-understand overview of Human Resources Service Delivery \(HRSD\) and key capabilities of HR Case and Knowledge. This offering helps customers understand how the application can enhance HR service delivery by covering core configuration for foundational setup, case life cycles to streamline workflows, Now Assist for AI-powered recommendations, and Agent Workspace for efficient case management. By exploring these areas, customers gain clarity on optimizing HR processes, improving service efficiency, and establishing the baseline context for future accelerator offerings.
 
 ## Package Availability
 
@@ -62,6 +62,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

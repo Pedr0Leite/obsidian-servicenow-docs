@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events, Employee Journey Management, HR Service Delivery,
 
 # Exploring Lifecycle Events
 
-[[hr-lifecycle-events-landing-page-1|Lifecycle Events]] enables you to automate the fulfillment of HR cases such as new hire onboarding.
+Lifecycle Events enables you to automate the fulfillment of HR cases such as new hire onboarding.
 
 ## Lifecycle Events overview
 
@@ -40,7 +40,7 @@ Lifecycle events
 
 </td><td>
 
-Build a lifecycle event and its associated [[activity-lxp|activity]] sets and activities with the lifecycle event builder.
+Build a lifecycle event and its associated activity sets and activities with the lifecycle event builder.
 
 </td><td>
 
@@ -60,7 +60,7 @@ sn\_hr\_le.admin or sn\_hr\_le.activity\_set\_manager
 
 </td></tr><tr><td>
 
-[[employee-requests|Lifecycle Events employee requests]]
+Lifecycle Events employee requests
 
 </td><td>
 
@@ -73,15 +73,9 @@ sn\_hr\_le.admin or admin
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[using-lifecycle-events|using Lifecycle Events]], see:
+To learn more about configuring and using Lifecycle Events, see:
 
 -   [Configuring Lifecycle Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configuring-lifecycle-events.md)
 -   [Using Lifecycle Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/using-lifecycle-events.md)
 -   [Lifecycle Events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/lifecycle-events-reference.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[employee-requests|Lifecycle Events employee requests]]
-- [[using-lifecycle-events|Using Lifecycle Events]]

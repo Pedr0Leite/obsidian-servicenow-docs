@@ -14,7 +14,7 @@ breadcrumb: [Enhanced Requests Experience forms, Employee Center reference, Empl
 
 # Request source form
 
-The field descriptions provide a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point when you're creating a request source.
+The field descriptions provide a reference point when you're creating a request source.
 
 <table id="table_cwc_ds3_tfc"><thead><tr><th>
 
@@ -123,6 +123,3 @@ Page where you are redirected when you click on the request card in the portal.
 </td></tr></tbody>
 </table>**Parent Topic:**[Enhanced Requests Experience forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Transform replication data
 
-Transform producer instance data for tables or table columns that are named differently on consumer instances in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Transform producer instance data for tables or table columns that are named differently on consumer instances in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -126,6 +126,3 @@ Understand error and warning messages related to schema definitions. You can the
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 # Supported Microsoft license types
 
-The [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]] adds license metrics that are specific to Microsoft.
+The Software Asset Management publisher pack for Microsoft adds license metrics that are specific to Microsoft.
 
 The license metrics are available when Microsoft is selected as the **Metric group** for the entitlement.
 
@@ -130,6 +130,3 @@ Microsoft Software Assurance \(SA\) is the maintenance program used by Microsoft
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]

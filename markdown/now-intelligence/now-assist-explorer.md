@@ -16,7 +16,7 @@ AI Data Explorer is your AI-companion for instant insights and deep data explora
 
 \[Omitted video\] Description: A tour of AI Data Explorer
 
-See how to [[launch-now-assist-explorer|launch AI Data Explorer]], ask questions in an exploration, and share the resulting insights with other users.
+See how to launch AI Data Explorer, ask questions in an exploration, and share the resulting insights with other users.
 
 ## Get started
 
@@ -58,6 +58,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]

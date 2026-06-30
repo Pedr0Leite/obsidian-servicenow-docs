@@ -14,9 +14,9 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Supported artifacts in Localization Framework
 
-[[localization-framework-landing|Localization Framework]] extends its framework capabilities to certain artifacts and translates the content of the artifact items.
+Localization Framework extends its framework capabilities to certain artifacts and translates the content of the artifact items.
 
-With the activation of the Localization Framework Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\), some artifacts are available by default. Some artifacts require the installation of the artifact-specific product plugins.
+With the activation of the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\), some artifacts are available by default. Some artifacts require the installation of the artifact-specific product plugins.
 
 ## Artifacts available with Localization Framework installation
 
@@ -33,15 +33,8 @@ The following artifacts are available with the installation of artifact-specific
 -   Virtual Agent Topic - available with the activation of the Glide Virtual Agent Lite plugin \(com.glide.cs.chatbot.lite\).
 -   Document Template Block Content - available with the activation of the Human Resources Scoped App: Lifecycle Events for Enterprise plugin \[com.sn\_hr\_lifecycle\_ent\].
 -   HTML Document Template - available with the activation of the Human Resources Scoped App: Lifecycle Events for Enterprise plugin \[com.sn\_hr\_lifecycle\_ent\].
--   Knowledge Base article - available with the activation of [[ia-knowledge-mgmt|Knowledge Management]] Advanced plugin \[com.snc.knowledge\_advanced\] and set **glide.knowman.translation.enable\_lf\_article\_translation** property to true.
--   Email [[notifications|notifications]], [[c_EmailTemplates|email templates]] and email layout - available with the activation of Glide Notification Translation plugin \(com.glide.notification.translation\).
+-   Knowledge Base article - available with the activation of Knowledge Management Advanced plugin \[com.snc.knowledge\_advanced\] and set **glide.knowman.translation.enable\_lf\_article\_translation** property to true.
+-   Email notifications, email templates and email layout - available with the activation of Glide Notification Translation plugin \(com.glide.notification.translation\).
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[notifications|Notifications]]
-- [[c_EmailTemplates|Email templates]]

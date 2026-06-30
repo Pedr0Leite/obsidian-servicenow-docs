@@ -68,7 +68,7 @@ All Placeholder Tasks Created for Domain Order
 
 </td><td>
 
-[[cpq-sets|Sets]] the domain order stage to all order tasks created, so order tasks created by other subflows can have relationships created with current flow order tasks.
+Sets the domain order stage to all order tasks created, so order tasks created by other subflows can have relationships created with current flow order tasks.
 
 </td></tr><tr><td>
 
@@ -106,18 +106,12 @@ The flow action checks if an order task has a previous state value and uses the 
 
 ## What to do next
 
-[[configure-order-task-duration-assignment-policy|Configure the Order Task Duration Assignment Policy]].
+[Configure the Order Task Duration Assignment Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-task-duration-assignment-policy.md).
 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[configure-order-task-duration-assignment-policy|Configure the Order Task Duration Assignment Policy]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[cpq-sets|Sets]]

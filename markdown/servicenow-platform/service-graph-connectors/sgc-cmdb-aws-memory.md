@@ -14,7 +14,7 @@ breadcrumb: [Additional features, AWS, Service Graph Connectors, Integrating thi
 
 # Handling memory utilization errors for Service Graph Connector for AWS
 
-You can use the `SgAwsApplicationProperties` script include to avoid memory utilization errors when importing a large number of configuration items \(CIs\) from an AWS instance via the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]].
+You can use the `SgAwsApplicationProperties` script include to avoid memory utilization errors when importing a large number of configuration items \(CIs\) from an AWS instance via the Service Graph Connector for AWS.
 
 By making multiple database calls to ingest AWS data in smaller batches, the `SgAwsApplicationProperties` script include avoids overloading of the Robust Transform Engine \(RTE\) and results in reduced memory usage. However, for the script include to function properly, verify that the AWS Config aggregator is enabled on your AWS instance.
 
@@ -71,7 +71,3 @@ Set the value of the isConfigTagsDbLoadEnabled function to `true`. For the funct
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

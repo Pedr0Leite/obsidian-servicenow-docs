@@ -14,7 +14,7 @@ breadcrumb: [Configure Scan Engine properties, Activate Scan Engine and review s
 
 You can view and configure a variety of information, formatted into lists, that the Scan Engine uses to implement its various scanning types.
 
-Role required: Scan Engine admin and [[impact-landing-page|Impact]] admin.
+Role required: Scan Engine admin and Impact admin.
 
 ## System properties
 
@@ -92,7 +92,7 @@ Connection Status
     -   Connection Invalid
     -   API User is missing role
     -   User not setup on target instance
-These values [[io-help|help]] diagnose integration issues, as well as help with corrective actions.
+These values help diagnose integration issues, as well as help with corrective actions.
 
 </td></tr><tr><td>
 
@@ -136,13 +136,7 @@ The OAuth user profile used for cross-instance integrations.
 
 </td></tr></tbody>
 </table>
-**Note:** See [[instance-integration-scan-engine|Scan Engine integrations]] for details on integration setup.
+**Note:** See [Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md) for details on integration setup.
 
-**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[instance-integration-scan-engine|Scan Engine integrations]]
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

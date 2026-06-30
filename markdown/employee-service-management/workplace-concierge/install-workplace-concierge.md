@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Concierge, Workplace Service Delivery, Employe
 
 # Install Workplace Concierge
 
-Install the [[workplace-concierge-feat|Workplace Concierge]] application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Concierge application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Complete the following setup instructions:
 
     The list displays the subscriptions that your organization has purchased.
 
-2.  Verify that the [[workplace-safety-mgmt-hr|Workplace Core]] plugin is activated.
+2.  Verify that the Workplace Core plugin is activated.
 
 Use the following details when required:
 
@@ -65,7 +65,3 @@ Role required: admin
 
 [Configure workplace space suggestions for employees]()
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

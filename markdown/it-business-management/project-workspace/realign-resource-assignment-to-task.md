@@ -26,7 +26,7 @@ When you change project dates, a prompt appears to realign resource assignments 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  From the project planning pane, double-click the **Planned start date** or **Planned end date** of a project task to edit the field.
 
@@ -56,6 +56,3 @@ Jason \(Project Manager\) updates the end date of a project from June 30 to Augu
 
 [Project Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

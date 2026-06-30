@@ -14,7 +14,7 @@ breadcrumb: [Exploring DevOps Config, DevOps Config, IT Service Management]
 
 # DevOps Config powered by CDM and PaCE
 
-[[devops-config-landing-page|DevOps Config]] uses Configuration Data Management and Policy as Code Engine platform capabilities to manage configuration data and policies.
+DevOps Config uses Configuration Data Management and Policy as Code Engine platform capabilities to manage configuration data and policies.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -65,9 +65,9 @@ breadcrumb: [Exploring DevOps Config, DevOps Config, IT Service Management]
 
 \[Omitted image "devops-config-dependencies.png"\] Alt text: DevOps Config dependencies
 
-These plugins are installed with core DevOps Config [[dex-workspace-application-tab|applications]]. They are critical to DevOps Config and do not function properly without them.
+These plugins are installed with core DevOps Config applications. They are critical to DevOps Config and do not function properly without them.
 
--   **CMDB CI Class [[c_Models|Models]]**
+-   **CMDB CI Class Models**
 
     CDM leverages the CMDB CI Class Models plugin to connect aspects of user application configuration data model to the ServiceNow AI Platform CMDB.
 
@@ -90,8 +90,3 @@ These plugins are installed with core DevOps Config [[dex-workspace-application-
 
 **Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_Models|Models]]

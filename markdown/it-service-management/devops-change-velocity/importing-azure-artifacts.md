@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Managing Azure DevOps artifacts
 
-[[devops-landing-page-new|DevOps Change Velocity]] makes it easy to manage artifacts published through Azure DevOps build pipelines. You can import and track these artifacts and manage the packages in DevOps Change Velocity.
+DevOps Change Velocity makes it easy to manage artifacts published through Azure DevOps build pipelines. You can import and track these artifacts and manage the packages in DevOps Change Velocity.
 
 Types of artifact sources supported by DevOps Change Velocity:
 
@@ -88,6 +88,3 @@ The following table explains the mapping of Azure DevOps artifacts with ServiceN
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

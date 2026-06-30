@@ -16,9 +16,9 @@ breadcrumb: [Use, Major Security Incident Management, Security Incident Response
 
 Provides up-to-date summary reporting of the impact and progress of major security incidents, which is an important aspect of managing a major security incident using the new workspace.
 
-The **Overview** tab provides the relevant metrics to manage both the scope and progress of the incident, including a rollup of affected assets, users, [[threat-intelligence-locations|locations]], and team resources, as well as the timeline of significant incident milestones.
+The **Overview** tab provides the relevant metrics to manage both the scope and progress of the incident, including a rollup of affected assets, users, locations, and team resources, as well as the timeline of significant incident milestones.
 
-Timeline provides a horizontal view of key events and milestones that have occurred as part of the specific major security incident resolution. The timeline component is displayed on top of all the [[msim-workspace|Major Security Incident Management workspace]] tabs with an ability to collapse and expand for viewing as required. The events data represented will be updated and refreshed whenever designated milestone events or milestones are added or updated.
+Timeline provides a horizontal view of key events and milestones that have occurred as part of the specific major security incident resolution. The timeline component is displayed on top of all the Major Security Incident Management workspace tabs with an ability to collapse and expand for viewing as required. The events data represented will be updated and refreshed whenever designated milestone events or milestones are added or updated.
 
 Each event or milestone is indicated with a different timeline event type option to identify the number and type of events or milestones. For example NOW record updates, collaboration activities. In addition, the time range period for the different major security incident states is tracked automatically and displayed using color-coded ranges displayed along with the duration of each incident state.
 
@@ -51,7 +51,7 @@ These components display the impacted resources based on a rollup of all active 
 -   **Affected users**
 -   **Affected locations**
 
-Selecting the number values enables you to drill down and navigate to the impacted assets, users, and [[location|location]] details and displays the related tasks on the **Incident Impact** tab of the workspace.
+Selecting the number values enables you to drill down and navigate to the impacted assets, users, and location details and displays the related tasks on the **Incident Impact** tab of the workspace.
 
 Based on your selected incident impact type link, the related incident details such as task type and its description, assignment group and incident state are displayed in the **Incident Impact** tab of the MSIM workspace.
 
@@ -69,7 +69,7 @@ You can modify the **Next update on** by selecting the **Edit** icon. Select the
 
 
 </td></tr></tbody>
-</table>You can enable or disable viewing of certain event types for both timeline [[indicator|indicators]] and timeline ranges accordingly using the filter toggle buttons.
+</table>You can enable or disable viewing of certain event types for both timeline indicators and timeline ranges accordingly using the filter toggle buttons.
 
 \[Omitted image "msim-timline-view.png"\] Alt text: Timeline view
 
@@ -140,7 +140,7 @@ Enable or disable a specific event based on the incident state.
 
 To create a new Timeline event, perform the following steps:
 
-1.  In the [[vr-va-ws-overview-tab|Overview tab]], navigate to the **Timeline** section.
+1.  In the Overview tab, navigate to the **Timeline** section.
 2.  Select **+ New event**.
 3.  On the Add a new timeline event pop-up, fill the fields.
 
@@ -230,10 +230,3 @@ Option to link the timeline event to a major security incident record.
 
 [Create and distribute MSIM Status Reports]()
 
-## Related
-
-- [[threat-intelligence-locations|Locations]]
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[location|Location]]
-- [[indicator|Indicators]]
-- [[vr-va-ws-overview-tab|Overview tab]]

@@ -26,7 +26,7 @@ Each function field requires a label, a return type, and a definition. The defin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  Select the report that you want to add a function field to.
 
@@ -77,6 +77,3 @@ Use the created function field it in your report or data visualization configura
 
 **Parent Topic:**[Report on function fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/function-fields-reporting.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -16,11 +16,7 @@ Enterprise move details are created when people are added to the scenario. Move 
 
 Duplicate details are not allowed \(same user, scenario, and from\_location\). The same move detail can be in multiple scenarios. Updates can be made to move details from the list or form view.
 
-\[Omitted image "MoveDetailsTab.png"\] Alt text: In this figure, the [[c_EnterpriseMove|Enterprise Move]] Scenario record is open with the Move Details shown in a related list.
+\[Omitted image "MoveDetailsTab.png"\] Alt text: In this figure, the Enterprise Move Scenario record is open with the Move Details shown in a related list.
 
-**Parent Topic:**[[c_MovePlanningTool|Move planning tool]]
+**Parent Topic:**[Move planning tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_MovePlanningTool.md)
 
-## Related
-
-- [[c_MovePlanningTool|Move planning tool]]
-- [[c_EnterpriseMove|Enterprise move]]

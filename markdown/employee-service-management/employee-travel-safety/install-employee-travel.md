@@ -18,14 +18,14 @@ You can install Employee Travel Safety if you have the admin role.
 
 ## Before you begin
 
-[[employee-travel-safety|Employee Travel Safety]] requires the following applications.
+Employee Travel Safety requires the following applications.
 
--   ServiceNow® [[employee-readiness-core|Employee Readiness Core]]
+-   ServiceNow® Employee Readiness Core
 -   ServiceNow® COVID-19 Global Health Data Set
 
-The ServiceNow® [[employee-health-screening|Employee Health Screening]] and ServiceNow® [[emergency-outreach|Emergency Outreach]] applications can optionally be installed to have employees complete a daily health verification before and during travel.
+The ServiceNow® Employee Health Screening and ServiceNow® Emergency Outreach applications can optionally be installed to have employees complete a daily health verification before and during travel.
 
-The ServiceNow® [[contact-tracing|Contact Tracing]] and Emergency Outreach applications can optionally be installed to have employees complete a daily contact log during travel.
+The ServiceNow® Contact Tracing and Emergency Outreach applications can optionally be installed to have employees complete a daily contact log during travel.
 
 Role required: admin
 
@@ -51,7 +51,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -76,17 +76,17 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 
 -   Emergency Outreach \(sn\_imt\_checkin\)
 -   Employee Health Screening \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
 -   Contact Tracing \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
 -   Employee Travel Safety \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
@@ -168,20 +168,3 @@ List of all employee travel requests.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]

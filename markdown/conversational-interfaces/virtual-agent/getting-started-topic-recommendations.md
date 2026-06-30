@@ -14,9 +14,9 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 # Quick start for Topic Recommendations
 
-To get recommended topics based on your data, configure analysis reports, run the reports, and then review the results. You can either add new topics to [[virtual-agent-landing-page|Virtual Agent]] or link a recommendation to an existing topic.
+To get recommended topics based on your data, configure analysis reports, run the reports, and then review the results. You can either add new topics to Virtual Agent or link a recommendation to an existing topic.
 
-The [[topic-recommendations-page|Topic Recommendations page]] appears in your instance at **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
+The Topic Recommendations page appears in your instance at **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 ## Step 1: Configure analysis reports based on ServiceNow data
 
@@ -26,13 +26,13 @@ Until you define analysis reports, the Topic Recommendations page is empty.
 
 Each analysis report is based on the following:
 
--   Data source: The ServiceNow data that you want to analyze. The options are: Incident \[incident\] table, Request \[sc\_request\] table, Live [[ci-use-agent-chat|Agent chat]] transcripts, and Virtual Agent fallback utterances.
+-   Data source: The ServiceNow data that you want to analyze. The options are: Incident \[incident\] table, Request \[sc\_request\] table, Live Agent chat transcripts, and Virtual Agent fallback utterances.
 -   The field to analyze: A selected field \(with a string data type\) in the data source table to analyze. For example, the **Short description** field.
 -   Taxonomy: The business application that includes the data sets. When you install ITSM Virtual Agent Conversations, the Incident and Request data sets are installed by default. As additional data sets for applications become available, the data sets are displayed as a taxonomy on the page after they’re installed on an instance.
 
 You can also add conditions to your analysis reports and configure them to run on a schedule. When new recommendations are available, a notification appears in the Virtual Agent Designer Topics page.
 
-[[define-tr-settings|Configure analysis reports for Topic Recommendations]] in Virtual Agent settings. For details, see [Configure analysis reports for Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-tr-settings.md).
+Configure analysis reports for Topic Recommendations in Virtual Agent settings. For details, see [Configure analysis reports for Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-tr-settings.md).
 
 ## Step 2: Run an analysis report
 
@@ -65,10 +65,3 @@ For more information about adding a recommendation to Virtual Agent, see [Add re
 
 \[Omitted image "tr-flow-diagram.png"\] Alt text: Topic Recommendations analyzes your data and combines it with an understanding of the product area to suggest pre-built topics and intents or new content for Virtual Agent.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-recommendations-page|Topic Recommendations page]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[define-tr-settings|Configure analysis reports for Topic Recommendations]]

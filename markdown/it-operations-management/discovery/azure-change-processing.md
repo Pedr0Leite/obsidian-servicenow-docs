@@ -17,7 +17,7 @@ breadcrumb: [Discovery for Microsoft Azure, Discovery for cloud environment, Dis
 
 The Azure change processing feature collects information about Microsoft Azure resources that have undergone a life-cycle state change or configuration change near real time. Then, it uses the collected information to update the Configuration Management Database \(CMDB\).
 
-The Azure Change Processing scheduled jobs query the Azure API and collect the resource change information. During each execution cycle, the scheduled job collects information about all the resources that have changed after the last Azure Change Processing cycle. After collecting the change information, the Azure Change Processing uses [[response-mappings|response mappings]] to update the change information in the CMDB. During the next [[r-discovery|discovery]], Cloud Discovery triggers appropriate patterns, if available, and populates detailed resource information in the CMDB.
+The Azure Change Processing scheduled jobs query the Azure API and collect the resource change information. During each execution cycle, the scheduled job collects information about all the resources that have changed after the last Azure Change Processing cycle. After collecting the change information, the Azure Change Processing uses response mappings to update the change information in the CMDB. During the next discovery, Cloud Discovery triggers appropriate patterns, if available, and populates detailed resource information in the CMDB.
 
 By default, the Azure change processing scheduled jobs run in every 5 minutes. If necessary, update the execution frequency of the schedule according to your needs. Set the execution frequency within the minimum value of one minute.
 
@@ -29,7 +29,7 @@ During event processing, the Cloud Event Scheduler identifies the domain of the 
 
 Azure change processing can fetch resource change information only from the service accounts created by the discovery\_admin or sn\_cmp.cloud\_admin.
 
-Update your Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns plugin on ServiceNow Store to have at least 1.21.0 version of Azure Change Processing. See the upgrade scenario in [KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862)
+Update your Discovery and Service Mapping Patterns plugin on ServiceNow Store to have at least 1.21.0 version of Azure Change Processing. See the upgrade scenario in [KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862)
 
 Starting in the Discovery and Service Mapping Patterns 1.21.0 version, the scheduled jobs were enhanced and renamed:
 
@@ -178,8 +178,3 @@ If you’re using the Microsoft Azure alert-driven discovery, then you can [migr
 
 [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[response-mappings|Response Mappings]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -20,7 +20,7 @@ You can see where any element in the tree view is used. This is useful when you 
 
 Role required: admin
 
-**Important:** Dependency Assessment does not support [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts. It analyzes information only for Core UI [[c_Widgets|Performance Analytics widgets]] but not Platform Analytics data visualizations. Also, you can [[launch-dependency-assessment|launch Dependency Assessment]] from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
+**Important:** Dependency Assessment does not support Platform Analytics artifacts. It analyzes information only for Core UI Performance Analytics widgets but not Platform Analytics data visualizations. Also, you can launch Dependency Assessment from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
 
 ## Procedure
 
@@ -40,16 +40,10 @@ Role required: admin
 
 4.  The top-down tree view is replaced with a view which shows all of the entities which use the selected entity.
 
-    In this case, the API Transactions Requestor Stats table is used by one breakdown source, three reports, and two [[c_HomepagePublishers|interactive filters]]: \[Omitted image "bottom-up-tree-view-example.png"\] Alt text: bottom-up tree-view example
+    In this case, the API Transactions Requestor Stats table is used by one breakdown source, three reports, and two interactive filters: \[Omitted image "bottom-up-tree-view-example.png"\] Alt text: bottom-up tree-view example
 
 5.  Click the reset button \(\[Omitted image "tree-view-reset-icon.png"\] Alt text:\) to return the tree view to the base selection as shown in the header.\[Omitted image "dependency-assessment-reset.png"\] Alt text: Dependency assessment on the dashboard Usage by Requestor, with the reset button highlighted.
 
 
 **Parent Topic:**[\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]
-- [[c_HomepagePublishers|Interactive Filters]]

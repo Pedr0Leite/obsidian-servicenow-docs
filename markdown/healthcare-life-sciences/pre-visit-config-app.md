@@ -12,7 +12,7 @@ breadcrumb: [Pre-Visit Management, Healthcare and Life Sciences Service Manageme
 
 # Configuring Pre-Visit Management
 
-Set up the [[pre-visit-mgmt-app|Pre-Visit Management]] application to complete pre-visit activities associated with a procedure.
+Set up the Pre-Visit Management application to complete pre-visit activities associated with a procedure.
 
 **Important:**
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[install-pre-visit-mgmt|Install Pre-Visit Management]].
+[Install Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/install-pre-visit-mgmt.md).
 
 </td><td>
 
@@ -42,7 +42,7 @@ Install the Pre-Visit Management application to work on procedure requests.
 
 </td></tr><tr><td>
 
-[[pre-visit-assign-roles|Assign roles for Pre-Visit Management users]].
+[Assign roles for Pre-Visit Management users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-assign-roles.md).
 
 </td><td>
 
@@ -50,7 +50,7 @@ Assign roles to control access to features, capabilities, and data in the Pre-Vi
 
 </td></tr><tr><td>
 
-[[pre-visit-approve-rca|Approve restricted caller access privileges for Pre-Visit Management.]]
+[Approve restricted caller access privileges for Pre-Visit Management.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-approve-rca.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ Approve restricted caller access \(RCA\) privileges for accessing document templ
 
 </td></tr><tr><td>
 
-[[pre-visit-proc-scheduler-grp|Determine who can work on the appointment booking task for a procedure]].
+[Determine who can work on the appointment booking task for a procedure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-proc-scheduler-grp.md).
 
 </td><td>
 
@@ -66,7 +66,7 @@ Add users who can work on the appointment booking task for a procedure to the Pr
 
 </td></tr><tr><td>
 
-[[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]].
+[Configure when to send the procedure consent form to a patient](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-proc-consent-time.md).
 
 </td><td>
 
@@ -74,7 +74,7 @@ Configure the Pre-Visit Management application to when to send the procedure con
 
 </td></tr><tr><td>
 
-[[pre-visit-config-to-do-items|Specify a to-do item for patients]].
+[Specify a to-do item for patients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-to-do-items.md).
 
 </td><td>
 
@@ -82,7 +82,7 @@ Add a to-do item that patients must complete as part of their pre-visit planning
 
 </td></tr><tr><td>
 
-[[pre-visit-config-doc-decisions|Configure the auto-generation of documents for a procedure request]].
+[Configure the auto-generation of documents for a procedure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-doc-decisions.md).
 
 </td><td>
 
@@ -90,7 +90,7 @@ Define the conditions for auto-generating documents for a procedure request.
 
 </td></tr><tr><td>
 
-[[pre-visit-config-to-do|Configure the patient portal to add a to-dos menu item for procedure request tasks]].
+[Configure the patient portal to add a to-dos menu item for procedure request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-to-do.md).
 
 </td><td>
 
@@ -98,7 +98,7 @@ Configure the patient portal to add a menu item that lists all to-do items for p
 
 </td></tr><tr><td>
 
-[[pre-visit-config-playbook|Configure a playbook for Pre-Visit Management]].
+[Configure a playbook for Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-playbook.md).
 
 </td><td>
 
@@ -106,7 +106,7 @@ Configure a playbook to provide step-by-step guidance for resolving procedure re
 
 </td></tr><tr><td>
 
-[[pre-visit-config-emails|Configure a Pre-Visit Management email notification]].
+[Configure a Pre-Visit Management email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-emails.md).
 
 </td><td>
 
@@ -114,7 +114,7 @@ Configure the Pre-Visit Management email notifications sent to patients about pr
 
 </td></tr><tr><td>
 
-[[pre-visit-connector-contributor|Determine additional user profiles]].
+[Determine additional user profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-connector-contributor.md).
 
 </td><td>
 
@@ -122,7 +122,7 @@ Determine who can act as an agent connector or contributor for procedure request
 
 </td></tr><tr><td>
 
-[[pre-visit-case-contributor|Set up the process for contributors to create a procedure request case]].
+[Set up the process for contributors to create a procedure request case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-case-contributor.md).
 
 </td><td>
 
@@ -130,19 +130,3 @@ Set up the process for creating procedure request cases on a service portal.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[install-pre-visit-mgmt|Install Pre-Visit Management]]
-- [[pre-visit-assign-roles|Assign roles for Pre-Visit Management users]]
-- [[pre-visit-approve-rca|Approving restricted caller access privileges for Pre-Visit Management]]
-- [[pre-visit-proc-scheduler-grp|Determine who can work on the appointment booking task for a procedure]]
-- [[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]]
-- [[pre-visit-config-to-do-items|Specifying the to-do items for patients in Pre-Visit Management]]
-- [[pre-visit-config-doc-decisions|Configuring the auto-generation of documents for procedure requests]]
-- [[pre-visit-config-to-do|Configuring the patient portal to add a to-dos menu item for procedure request tasks]]
-- [[pre-visit-config-playbook|Configuring playbooks for Pre-Visit Management]]
-- [[pre-visit-config-emails|Configuring the Pre-Visit Management email notifications]]
-- [[pre-visit-connector-contributor|Determining additional user profiles in Pre-Visit Management]]
-- [[pre-visit-case-contributor|Setting up the process to create procedure request cases as a contributor]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

@@ -23,10 +23,7 @@ Define the predetermined sequence of actions a group of users complete so you ca
 -   **[Edit a cohort](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/edit-action-cohort.md)**  
 Edit cohort session data to include in your analysis.
 -   **[Delete a cohort](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/delete-action-cohort.md)**  
-[[delete-action-cohort|Delete a cohort]] report that you no longer need.
+Delete a cohort report that you no longer need.
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[delete-action-cohort|Delete a cohort]]

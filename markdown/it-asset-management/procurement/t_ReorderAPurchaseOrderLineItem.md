@@ -18,7 +18,7 @@ You can reorder a purchase order line item that was canceled.
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## Procedure
 
@@ -35,6 +35,3 @@ Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
 
 **Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CreateAPurchaseOrder.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

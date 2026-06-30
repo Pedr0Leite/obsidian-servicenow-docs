@@ -23,13 +23,13 @@ Role required: Account Payable Specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Source-to-Pay Workspace** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
-3.  Navigate to **Lists** &gt; **My work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]** and open an invoice processing case.
+3.  Navigate to **Lists** &gt; **My work** &gt; **My open invoice processing cases** and open an invoice processing case.
 
-    An alternate way is by navigating to **Lists** &gt; **Primary Data** &gt; **&gt;[[invoices|Invoices]]** &gt; **Open invoice**.
+    An alternate way is by navigating to **Lists** &gt; **Primary Data** &gt; **&gt;Invoices** &gt; **Open invoice**.
 
     **Note:** Type conversion is supported only for invoices from **Draft** state to **No exceptions found** state. You cannot convert invoice type once it is submitted for approval.
 
@@ -40,7 +40,7 @@ Role required: Account Payable Specialist
     You can choose to convert invoice types to:\[Omitted image "change-invoice-type.png"\] Alt text: Change invoice type
 
     -   PO to Non-PO invoice and vice versa
-    -   [[invoice-type-credit-memo|Credit memo]] invoice to PO invoice, Non-PO invoice and vice versa
+    -   Credit memo invoice to PO invoice, Non-PO invoice and vice versa
     A message appears asking for your confirmation.
 
 6.  Select **Change invoice type**.
@@ -65,14 +65,7 @@ Role required: Account Payable Specialist
 
 [Reset an invoice to the Received status]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[invoices|Invoices]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

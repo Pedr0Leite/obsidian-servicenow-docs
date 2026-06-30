@@ -14,7 +14,7 @@ breadcrumb: [Automated root cause analysis, Analyzing and getting process insigh
 
 # Run automated root cause analysis reports
 
-Execute [[auto-rca|automated root cause analysis]] to optimize your processes.
+Execute automated root cause analysis to optimize your processes.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Open a project.
 
 </td><td>
 
-\[Omitted image "arca-location-1a.png"\] Alt text: Root cause analysis option in the [[summary-insights-dashboard|Summary and insights page]]
+\[Omitted image "arca-location-1a.png"\] Alt text: Root cause analysis option in the Summary and insights page
 
 </td></tr><tr><td>
 
@@ -60,7 +60,3 @@ Open a project.
 
 **Parent Topic:**[Automated root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/auto-rca.md)
 
-## Related
-
-- [[auto-rca|Automated root cause analysis]]
-- [[summary-insights-dashboard|Summary and insights page]]

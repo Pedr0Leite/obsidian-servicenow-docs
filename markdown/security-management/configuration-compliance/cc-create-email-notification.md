@@ -22,11 +22,11 @@ Role required: sn\_vulc.admin
 
 ## About this task
 
-You can [[create-and-manage-email-templates|create email templates]] for different types of [[tisc-email-notifications|email notifications]]. For more on how to create email templates, see [Define Vulnerability Response email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/t_DefiningEmailTemplates.md).
+You can create email templates for different types of email notifications. For more on how to create email templates, see [Define Vulnerability Response email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/t_DefiningEmailTemplates.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **Administration** &gt; **Notifications**.
+1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Notifications**.
 
 2.  Select the remediation target notification record or select **New**.
 
@@ -39,18 +39,10 @@ You can [[create-and-manage-email-templates|create email templates]] for differe
 
 ## Result
 
-Starting from v14.11 of [[vr-config-compliance-landing|Configuration Compliance]], when a recipient clicks the links in an email notification, the records open in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]] or [[it-remediation-workspace-landing-page|IT Remediation Workspace]] based on their role.
+Starting from v14.11 of Configuration Compliance, when a recipient clicks the links in an email notification, the records open in the Vulnerability Manager Workspace or IT Remediation Workspace based on their role.
 
 -   Links open in the Vulnerability Manager Workspace for the users with the sn\_vulc.admin role.
 -   Links open in the IT Remediation Workspace for the users with the sn\_vulc.remediation\_owner role.
 
 If the recipient doesn’t have any of the preceding roles, the links in an email notification open in the classic UI.
 
-## Related
-
-- [[create-and-manage-email-templates|Create email templates]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

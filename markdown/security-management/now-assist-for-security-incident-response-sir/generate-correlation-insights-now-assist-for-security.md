@@ -26,7 +26,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** and open a security incident that is assigned to you.
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace** and open a security incident that is assigned to you.
 
 2.  Alternatively, in the legacy UI \(UI16\), locate a security incident on the Security Incidents \[sn\_si\_incident\] table and open it.
 
@@ -38,9 +38,9 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
     **Note:** If you do not have a security incident record open, you are prompted to enter the number for a security incident record after you select **Generate correlation insights**.
 
-    -   **Configuration item** \(CI\): Records that have the same CI to help you identify potential [[vulnerabilities|vulnerabilities]] in specific systems. An example might be a user’s laptop.
+    -   **Configuration item** \(CI\): Records that have the same CI to help you identify potential vulnerabilities in specific systems. An example might be a user’s laptop.
     -   **Affected user**: Past incidents that have the same user to help you see patterns such as frequent phishing attempts or multiple unauthorized access attempts. An example is a specific user’s name.
-    -   **[[c_Observables|Observables]]**: Records that are linked by shared observables that suggest potential ongoing attacks or repeated use of malicious [[threat-intelligence-infrastructure|infrastructure]]. Examples might include IP addresses, URLs, or file hashes. You must enter an exact value for an observable, for example, a complete file hash.
+    -   **Observables**: Records that are linked by shared observables that suggest potential ongoing attacks or repeated use of malicious infrastructure. Examples might include IP addresses, URLs, or file hashes. You must enter an exact value for an observable, for example, a complete file hash.
     If no matching data exists for any of these filters, none are displayed. You are prompted to add one of these values to the security incident that you are working from, save it, and reset your conversation in the panel and try again.
 
 5.  Reset your conversation by selecting the Now Assist more options menu icon \(\[Omitted image "now-assist-reset-icon.png"\] Alt text: More options menu icon.\) in the panel and select **Reset Conversation**.
@@ -70,9 +70,4 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
     5.  Return to the security incident record and refresh the page.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

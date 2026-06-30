@@ -18,7 +18,7 @@ Use the Twilio co-pilot features to improve SMS delivery with phone number like 
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_admin
+Role required: notify\_admin
 
 ## About this task
 
@@ -36,7 +36,7 @@ The Twilio Notify bulk SMS feature is used to send SMS in bulk to customers. Use
 
 3.  Enter your **Auth Token**.
 
-4.  Click **[[c_Connect|Connect]]**.
+4.  Click **Connect**.
 
 5.  On the **Advance SMS Features** tab, check the **Intelligent SMS Handling** box.
 
@@ -56,7 +56,3 @@ The Twilio Notify bulk SMS feature is used to send SMS in bulk to customers. Use
 
 [Using Notify with SMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifySMS.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_Connect|Connect]]

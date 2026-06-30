@@ -14,17 +14,17 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Work on a sourcing event
 
-You can work on a sourcing event and complete an entire workflow, right from starting [[negotiations|negotiations]] with multiple suppliers, to awarding one or multiple suppliers, or rejecting bids. Awarding suppliers create purchase requisitions for the selected suppliers and items.
+You can work on a sourcing event and complete an entire workflow, right from starting negotiations with multiple suppliers, to awarding one or multiple suppliers, or rejecting bids. Awarding suppliers create purchase requisitions for the selected suppliers and items.
 
 ## Before you begin
 
-Ensure that you’ve qualified all the suppliers involved in the sourcing event before you start negotiating with them. You can add additional relevant sourcing requests and qualified suppliers to the ongoing sourcing event, as and when required, when working on the event. This allows you to manage complex negotiation activities. Adding a [[sourcing-request|sourcing request]] or [[supplier|supplier]] auto-creates [[purchase-lines|purchase lines]] and creates a new negotiation record to manage negotiation activities for that specific supplier.
+Ensure that you’ve qualified all the suppliers involved in the sourcing event before you start negotiating with them. You can add additional relevant sourcing requests and qualified suppliers to the ongoing sourcing event, as and when required, when working on the event. This allows you to manage complex negotiation activities. Adding a sourcing request or supplier auto-creates purchase lines and creates a new negotiation record to manage negotiation activities for that specific supplier.
 
 Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  On the list page, navigate to **Review needed** &gt; **Sourcing event: ready to negotiate**.
 
@@ -40,7 +40,7 @@ Role required: sn\_shop.procurement\_specialist
 
 7.  On the **Purchase Lines** tab, update the **Negotiated unit cost** field for each purchase line.
 
-    This moves the purchase request lines to the [[pricing|Pricing]] Obtained state.
+    This moves the purchase request lines to the Pricing Obtained state.
 
 8.  On the **Negotiations** tab, select **Finish negotiating** for each negotiation.
 
@@ -104,12 +104,3 @@ Opens the **Reject all bids?** dialog box, where you must enter your reason for 
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[negotiations|Negotiations]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[purchase-lines|Purchase lines]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[pricing|Pricing]]

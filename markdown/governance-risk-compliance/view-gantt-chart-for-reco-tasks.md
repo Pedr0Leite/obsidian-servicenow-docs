@@ -24,7 +24,7 @@ Key behaviors:
 
 -   The Gantt chart and the related list are displayed together to maintain feature parity.
 -   Data displayed in the chart is scoped to the plan currently being viewed.
--   Column customization in the Gantt chart works the same way as in the [[list-view-uib-ws|list view]].
+-   Column customization in the Gantt chart works the same way as in the list view.
 
 The Gantt chart bars are drawn from the plan's **Planned start** date and each task's planned duration. Set the **Planned start** field on the plan's **Details** tab before opening the Gantt view; the field is labelled "Used to calculate the planned start time of tasks". The first task in the dependency chain begins at this date and time; each subsequent task begins when its dependencies finish.
 
@@ -72,7 +72,7 @@ The Gantt chart bars are drawn from the plan's **Planned start** date and each t
     The row-action menu is available only on the Gantt view; the standard list view does not expose custom row actions. The menu offers the following actions:
 
     -   **Edit** — Opens the quick-edit form for the selected task. Update fields such as **Phase** and select **Save**.
-    -   **Insert before** — Opens the [[create-quick-recovery-task|Create a quick recovery task]] modal with the **Insert task** drop-down set to **before** and the reference field pre-populated with the selected task.
+    -   **Insert before** — Opens the Create a quick recovery task modal with the **Insert task** drop-down set to **before** and the reference field pre-populated with the selected task.
     -   **Insert after** — Same as Insert before, with the drop-down set to **after**.
     -   **Insert in parallel** — Same as the others, with the drop-down set to **in parallel**.
     \[Omitted image "gantt-row-actions-edit.jpg"\] Alt text: Gantt chart row-action menu open on a recovery task row, showing Quick edit form.
@@ -84,10 +84,5 @@ The Gantt chart bars are drawn from the plan's **Planned start** date and each t
     The chart updates to reflect the new task order.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]
-- [[create-quick-recovery-task|Create a quick recovery task]]

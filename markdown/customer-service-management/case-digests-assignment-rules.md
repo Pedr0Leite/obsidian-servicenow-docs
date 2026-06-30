@@ -12,7 +12,7 @@ breadcrumb: [Customer Service case digests, Configure case digests, Configure ca
 
 # Case action summary and post case review assignment rules
 
-Use assignment [[gamification-components-rules|rules]] to assign [[case-digest-case-action-summary|case action summaries]] and post case review documents to customer service agents.
+Use assignment rules to assign case action summaries and post case review documents to customer service agents.
 
 The Case Digests plugin includes two assignment rules:
 
@@ -25,7 +25,7 @@ The system administrator can modify these assignment rules or define different r
 
 If using the provided assignment rules that auto assign the records to the same agent:
 
--   The agent clicks **Send Case Action Summary** or **Create Post Case Review** on the [[r_CustomerServiceCaseForm|Case form]].
+-   The agent clicks **Send Case Action Summary** or **Create Post Case Review** on the Case form.
 -   The corresponding record opens with the agent's name in the **Assigned to** field.
 -   The record state is **In Progress**.
 
@@ -36,8 +36,3 @@ If using assignment rules that do not auto-assign the records to the same agent:
 -   If assigned to another agent, the **Assigned to** field displays the agent's name and the state updates to **In Progress**.
 -   If unassigned, the record remains in the **New** state.
 
-## Related
-
-- [[gamification-components-rules|Rules]]
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[r_CustomerServiceCaseForm|Case form]]

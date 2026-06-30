@@ -14,7 +14,7 @@ breadcrumb: [ITOM Content Service, ITOM Visibility, IT Operations Management]
 
 # Discover installed software data with ITOM Content Service
 
-Use [[discovery-content-services|ITOM Content Service]] and ITSM Software Asset Management to discover version-less installed software that isn't discovered automatically with Software Asset Management Core or Software Asset Management Professional or [[file-based-discovery|file-based Discovery]].
+Use ITOM Content Service and ITSM Software Asset Management to discover version-less installed software that isn't discovered automatically with Software Asset Management Core or Software Asset Management Professional or file-based Discovery.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Ensure that the following application and plugins are installed:
 
 -   ITOM Content Service \(sn\_smart\_content\)
 -   Software Asset Management Core \(com.snc.sam.core\) or Software Asset Management Professional \(com.snc.samp\)
--   File Based [[r-discovery|Discovery]] \(com.snc.discovery.file\_based\_discovery\)
+-   File Based Discovery \(com.snc.discovery.file\_based\_discovery\)
 
 Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md).
 
@@ -54,8 +54,3 @@ The new installed software record is created and added to the CI Software Instal
 
 [ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-content-services.md)
 
-## Related
-
-- [[discovery-content-services|ITOM Content Service]]
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]

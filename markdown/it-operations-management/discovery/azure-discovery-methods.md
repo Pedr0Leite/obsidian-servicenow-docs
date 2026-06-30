@@ -15,7 +15,7 @@ breadcrumb: [Cloud discovery solutions comparison, Discovery for cloud environme
 
 # Microsoft Azure discovery solutions comparison
 
-[[itom-visibility-landing-page|ITOM Visibility]] applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
+ITOM Visibility applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
 ## ITOM Visibility solutions
 
@@ -35,7 +35,7 @@ Configuration
 
 </th></tr></thead><tbody><tr><td>
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns and Visibility Content
+Discovery and Service Mapping Patterns and Visibility Content
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration
 </td><td>
 
 -   You must update your store apps to the latest release version.
--   You must provide ITOM Visibility with access permissions. For more information, see [[setup-azure-service-accounts|Set up Azure service accounts]]
+-   You must provide ITOM Visibility with access permissions. For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-azure-service-accounts.md)
 
 </td></tr><tr><td>
 
@@ -1286,9 +1286,3 @@ cmdb\_azure\_service\_endpoint\_policy\_service\_endpoint\_policy
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud discovery solutions comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-methods-comparison.md)
 
-## Related
-
-- [[setup-azure-service-accounts|Set up Azure service accounts]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

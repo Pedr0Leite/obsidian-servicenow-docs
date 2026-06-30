@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog setup for the Day 1 configuration task, Conf
 
 # Setting up Google Cloud Platform on Cloud Services Catalog
 
-Integrate [[csc-home|Cloud Services Catalog]] with your Google Cloud Platform account as a part of the Day 1 configuration task toward setting up CSC for the first time.
+Integrate Cloud Services Catalog with your Google Cloud Platform account as a part of the Day 1 configuration task toward setting up CSC for the first time.
 
 ## Before you begin
 
@@ -33,9 +33,9 @@ To learn more about setting up Google Cloud with CSC Terraform Connector app for
 
     For more information, see [Assign roles to Google Cloud Platform users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/gcp-assign-roles-cloud-mgt.md).
 
-2.  Install and configure MID Servers for Cloud [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+2.  Install and configure MID Servers for Cloud Discovery and Cloud Provisioning and Governance.
 
-    To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. For more information, see [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]].
+    To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. For more information, see [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 
 3.  Set up the MID Server on your network or in one of your cloud networks and configure it for CSC to use a proxy server.
 
@@ -51,7 +51,7 @@ To learn more about setting up Google Cloud with CSC Terraform Connector app for
 
     You can securely store the credentials in a service account. You would need Service Account Key Admin \(roles/iam.serviceAccountKeyAdmin\) IAM role on the project, or the service account whose keys you want to manage. These permissions can be provided by administrator. To securely access data on your provider account, the Discovery process must present the appropriate credentials.
 
-    For more information, see [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]].
+    For more information, see [Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md).
 
 7.  Set up a cloud account and a service account for Google Cloud Platform.
 
@@ -62,10 +62,3 @@ To learn more about setting up Google Cloud with CSC Terraform Connector app for
 
 **Parent Topic:**[Cloud Services Catalog setup for the Day 1 configuration task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/setting-up-cloud-services.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[csc-home|Cloud Services Catalog]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

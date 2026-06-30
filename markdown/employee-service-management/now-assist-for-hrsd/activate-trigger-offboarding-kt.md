@@ -52,7 +52,7 @@ Role required: admin \[virtual\_agent\_admin\]
 
     The toggle changes to **Trigger is ON**.
 
-11. Set the **Portal** field to **[[employee-center-landing-page|Employee Center]]**.
+11. Set the **Portal** field to **Employee Center**.
 
 12. Select **Save**.
 
@@ -69,6 +69,3 @@ Role required: admin \[virtual\_agent\_admin\]
 
 The offboarding knowledge transfer trigger is now active. When an employee's offboarding journey begins, the system automatically initiates the knowledge transfer process with the manager through Now Assist in Virtual Agent.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

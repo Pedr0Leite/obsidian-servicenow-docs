@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Add and manage stakeholders
 
-[[add-and-manage-stakeholders-ppw|Add and manage stakeholders]] for a demand to delegate assignments and progress the demand in its life cycle.
+Add and manage stakeholders for a demand to delegate assignments and progress the demand in its life cycle.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -64,7 +64,3 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 [Create stakeholder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-stakeholder-form-dw.md)
 
-## Related
-
-- [[add-and-manage-stakeholders-ppw|Add and manage stakeholders]]
-- [[c_DemandManagement|Demand Management]]

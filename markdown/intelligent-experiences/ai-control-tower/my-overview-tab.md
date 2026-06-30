@@ -15,7 +15,7 @@ breadcrumb: [Product Owner portal, Explore, AI Control Tower, Enable AI experien
 
 # My overview tab in AI Control Tower
 
-The **My overview** tab in the [[ai-control-tower-home-page|AI Control Tower home]] page displays all active assets to the asset owner and the AI stewards for assets that they manage or own.
+The **My overview** tab in the AI Control Tower home page displays all active assets to the asset owner and the AI stewards for assets that they manage or own.
 
 ## Explore My overview tab
 
@@ -40,12 +40,12 @@ The **My overview** tab displays the following widgets. You can drill down into 
     -   Ready for deployment
     -   Rejected
     -   Cancelled
--   **AI [[cases|cases]] by state**
+-   **AI cases by state**
 
     This area displays the active cases categorized into **New** and **Triage**.
 
 
-The **Create an AI asset** button is added to the [[now-assist-center-home-page|home page]] to track and manage the life cycles of your [[ai-system|AI systems]], [[ai-models|AI models]], [[ai-prompts|Prompts]], and [[ai-datasets|Datasets]].
+The **Create an AI asset** button is added to the home page to track and manage the life cycles of your AI systems, AI models, Prompts, and Datasets.
 
 ## Tasks and cases list
 
@@ -70,12 +70,3 @@ The cases list includes the following columns:
 -   State
 -   Priority
 
-## Related
-
-- [[ai-control-tower-home-page|AI Control Tower Home]]
-- [[cases|Cases]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]

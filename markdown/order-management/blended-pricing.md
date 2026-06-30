@@ -29,7 +29,7 @@ In renewal pricing for contract consolidation, the pricing engine does the follo
 
 -   **How contract line changes are handled**
 
-    Agents indicate which contract lines are to be consolidated by setting the **Renewable** option on a contract line. At renewal, active upsell lines and the latest downsell lines that represent the current base quantity are combined to calculate renewal pricing. The context variable **Consolidated From Contract Lines** identifies a consolidated quote renewal line. Within those consolidated lines, if the **Include quantity for [[Renew|renew]]** field is selected, the quantity is used in the price blending.
+    Agents indicate which contract lines are to be consolidated by setting the **Renewable** option on a contract line. At renewal, active upsell lines and the latest downsell lines that represent the current base quantity are combined to calculate renewal pricing. The context variable **Consolidated From Contract Lines** identifies a consolidated quote renewal line. Within those consolidated lines, if the **Include quantity for renew** field is selected, the quantity is used in the price blending.
 
 -   **How renewal quantity and prices are calculated**
 
@@ -56,11 +56,6 @@ In renewal pricing for contract consolidation, the pricing engine does the follo
 
 You can configure the following uplift features:
 
--   Uplift amounts: To control uplift amounts that are applied, use the Price Increase Defaulting Matrix. For details, see [[create-price-increase-adjustment|Create a price increase adjustment]].
--   Uplift renewal multiplier: To set the uplift renewal multiplier, use the **renewal\_uplift\_term ** system property. For more information, see [[set-renewal-term-multiplier|Set term multiplier for contract renewal uplift]].
+-   Uplift amounts: To control uplift amounts that are applied, use the Price Increase Defaulting Matrix. For details, see [Create a price increase adjustment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-price-increase-adjustment.md).
+-   Uplift renewal multiplier: To set the uplift renewal multiplier, use the **renewal\_uplift\_term ** system property. For more information, see [Set term multiplier for contract renewal uplift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/set-renewal-term-multiplier.md).
 
-## Related
-
-- [[create-price-increase-adjustment|Create a price increase adjustment]]
-- [[set-renewal-term-multiplier|Set term multiplier for contract renewal uplift]]
-- [[Renew|Renew]]

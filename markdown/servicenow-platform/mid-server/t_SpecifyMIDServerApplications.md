@@ -14,7 +14,7 @@ breadcrumb: [MID Server selection, Configuring MID Servers, Configuring MID Serv
 
 # Configure a default MID Server for each application
 
-You can configure a default [[mid-server-landing|MID Server]] that an application can use if all other possible MID Servers are unavailable. You can narrow down the list of applications that are included in the definition of ALL.
+You can configure a default MID Server that an application can use if all other possible MID Servers are unavailable. You can narrow down the list of applications that are included in the definition of ALL.
 
 ## Before you begin
 
@@ -135,6 +135,4 @@ You can specify the ALL application for a MID Server, which means that the MID S
 
 4.  Change the value to **true** \(to include\) or **false** \(to exclude\).
 
-## Related
 
-- [[mid-server-landing|MID Server]]

@@ -32,7 +32,7 @@ Home page
 
 1440 x 400pxHeight is 400px and width is responsive. For desktop: 1440px width viewport, 1440 x 400px
 
-**Note:** For troubleshooting the background banner image for [[employee-center-landing-page|employee center]] in mobile view, see [KB1280740](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1280740) and other related KBs.
+**Note:** For troubleshooting the background banner image for employee center in mobile view, see [KB1280740](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1280740) and other related KBs.
 
 </td></tr><tr><td>
 
@@ -105,6 +105,3 @@ Note
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

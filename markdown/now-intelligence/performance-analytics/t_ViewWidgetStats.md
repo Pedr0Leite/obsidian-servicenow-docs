@@ -14,7 +14,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 # View widget statistics
 
-You can view statistics about [[c_Widgets|Performance Analytics widgets]] to help identify and resolve problems, such as if a widget is loading slowly on dashboards.
+You can view statistics about Performance Analytics widgets to help identify and resolve problems, such as if a widget is loading slowly on dashboards.
 
 ## Before you begin
 
@@ -56,14 +56,9 @@ glide.report.recent\_executions\_number
 
 </td><td>
 
-The number of widget executions that are considered recent for the purpose of recent average [[uxa-duration-calculations|duration calculations]]. -   Type: integer
+The number of widget executions that are considered recent for the purpose of recent average duration calculations. -   Type: integer
 -   Default value: 25
 -   Location: Add the property
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Widgets|Performance Analytics widgets]]
-- [[uxa-duration-calculations|Duration calculations]]

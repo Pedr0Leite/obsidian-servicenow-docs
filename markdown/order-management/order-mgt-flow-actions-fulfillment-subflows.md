@@ -30,7 +30,7 @@ Create Install Base Item and Installed Product
 
 </td><td>
 
-Flow action to create and manage the installed case items in the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] subflow. The flow action takes the customer order line, configuration item \(CI\), and sold product as input, and creates the install base item and installed product.
+Flow action to create and manage the installed case items in the order fulfillment subflow. The flow action takes the customer order line, configuration item \(CI\), and sold product as input, and creates the install base item and installed product.
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Get Customer Order Characteristic Value
 Flow action that takes the customer order line Item and characteristic as input and returns a characteristic value from the customer order line item. If the characteristic is not present in the customer order line item, it returns the default value for the characteristic from the respective order line item offering.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-order-fulfillment|Configure order fulfillment]]
+</table>**Parent Topic:**[Configure order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-fulfillment.md)
 
 **Related topics**  
 
@@ -68,7 +68,3 @@ Flow action that takes the customer order line Item and characteristic as input 
 
 [Create a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[configure-order-fulfillment|Configure order fulfillment]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

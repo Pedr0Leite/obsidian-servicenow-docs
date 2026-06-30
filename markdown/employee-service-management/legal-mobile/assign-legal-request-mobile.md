@@ -14,7 +14,7 @@ breadcrumb: [Legal Mobile, Legal Service Delivery, Legal and Contract Operations
 
 # Assign a legal request through Mobile Agent
 
-As a legal group manager or a practice area lead, [[assign-legal-request-1|assign a legal request]] to a legal department's member to work on.
+As a legal group manager or a practice area lead, assign a legal request to a legal department's member to work on.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ When an employee submits a legal request, it is automatically assigned to a grou
 
 The legal request is assigned to the selected user. The state of the legal request changes to Assigned.
 
-## Related
-
-- [[assign-legal-request-1|Assign a legal request]]

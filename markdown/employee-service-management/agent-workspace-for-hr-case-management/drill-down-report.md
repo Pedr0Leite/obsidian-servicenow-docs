@@ -22,7 +22,7 @@ Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[uib-aws|UI Builder for Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **UI Builder for Agent Workspace for HR Case Management**.
 
 2.  Select your variant.
 
@@ -54,12 +54,7 @@ Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
 [Create a landing page variant]()
 
-[Configure [[emp-center-quick-link-config|quick links]] in Agent Workspace for HR Case Management]()
+[Configure quick links in Agent Workspace for HR Case Management]()
 
 [Reorder the navigation pane modules in HR Agent Workspace]()
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[uib-aws|UI Builder for Agent Workspace for HR Case Management]]
-- [[emp-center-quick-link-config|Quick links]]

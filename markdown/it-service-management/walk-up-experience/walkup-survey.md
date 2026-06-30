@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Configure Walk-up Experience customer satisfaction surveys
 
-With [[walkup-experience-landing-page|Walk-up Experience]] surveys, requesters can rate their satisfaction with walk-up location interactions and provide feedback to improve the Walk-up Experience application.
+With Walk-up Experience surveys, requesters can rate their satisfaction with walk-up location interactions and provide feedback to improve the Walk-up Experience application.
 
 Two base-system predefined Walk-up Experience surveys are provided:
 
@@ -33,6 +33,3 @@ Improve your **Walk-up Experience** operations and customer service by using sur
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

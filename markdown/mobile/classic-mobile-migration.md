@@ -20,19 +20,19 @@ ServiceNow Mobile Platform is a native, mobile-first design that introduces new 
 
 **Note:** You must have an account and password to access the above link to the ServiceNow Community website.
 
--   Rapid, low code application development using Mobile Platform and [[mab-concept|Mobile App Builder]].
+-   Rapid, low code application development using Mobile Platform and Mobile App Builder.
 -   Base system applications including, but not limited to Customer Service Management, IT Service Management, and others as listed later in the topic.
 -   Integration with native mobile device features, such as camera, phone, SMS, and map apps.
 -   Offline capabilities, including offline read and write.
 -   Enhanced security features including data loss prevention.
 
-For more detail on ServiceNow® mobile, see [[mobile-config-navigation|Mobile Configuration and Navigation]].
+For more detail on ServiceNow® mobile, see [Mobile Configuration and Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-config-navigation.md).
 
 ## Evaluate your organization's current mobile use
 
 Start off with a list of business goals and determine which features your users need most. Consider which screens, fields, and actions your users use frequently, as well as what functionality your users do not use.
 
-There is no direct method of transferring the ServiceNow Classic [[mobile-app-components-landing|mobile app components]] into the Mobile Platform. You can create the same functionality available to your users with base system applications and manually building mobile applications in the ServiceNow® mobile framework.
+There is no direct method of transferring the ServiceNow Classic mobile app components into the Mobile Platform. You can create the same functionality available to your users with base system applications and manually building mobile applications in the ServiceNow® mobile framework.
 
 ## Use base system applications when possible
 
@@ -58,7 +58,7 @@ Use these applications right away, or customize them to suit your business needs
 
 -   **Mobile experience for Employee Experience Suite**
 
-    Approve catalog requests, requested items, or change requests from anywhere using the ITSM [[mobile-experience|Mobile Agent app]]. For more detail, see [ITSM Mobile agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent.md).
+    Approve catalog requests, requested items, or change requests from anywhere using the ITSM Mobile Agent app. For more detail, see [ITSM Mobile agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent.md).
 
 -   **Mobile experience for Field Service Management**
 
@@ -67,29 +67,17 @@ Use these applications right away, or customize them to suit your business needs
 
 ## Create your own applications
 
-Use Mobile App Builder to make new applications, and give your users the ability to work in areas not covered by the current base system applications. For details on the components of ServiceNow® mobile and examples of application creation, see [[config-mobile-platform-landing|Configuring the Mobile Platform]] and [[build-mobile-apps-landing|Building mobile apps]].
+Use Mobile App Builder to make new applications, and give your users the ability to work in areas not covered by the current base system applications. For details on the components of ServiceNow® mobile and examples of application creation, see [Configuring the Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-platform-landing.md) and [Building mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md).
 
 ## Understand the current limitations for ServiceNow® mobile
 
 -   **General**
-    -   Limited support for client scripts. Basic functionality can be addressed with Mobile UI Rules. See, [[mobile-ui-rules|Mobile UI Rules]].
-    -   Geolocation and [[mobile-offline-mode|Offline mode]] is not supported in the [[now-mobile-app|Now Mobile app]].
+    -   Limited support for client scripts. Basic functionality can be addressed with Mobile UI Rules. See, [Mobile UI Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
+    -   Geolocation and Offline mode is not supported in the Now Mobile app.
 -   **Offline mode**
 
     Mobile apps do not automatically go into offline mode when internet connection is lost.
 
 
-**Parent Topic:**[[plugins-upgrades|Mobile plugins and upgrades]]
+**Parent Topic:**[Mobile plugins and upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/plugins-upgrades.md)
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[config-mobile-platform-landing|Configuring the Mobile Platform]]
-- [[build-mobile-apps-landing|Building mobile apps]]
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[plugins-upgrades|Mobile plugins and upgrades]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-app-components-landing|Mobile app components]]
-- [[mobile-experience|Mobile Agent app]]
-- [[mobile-offline-mode|Offline mode]]
-- [[now-mobile-app|Now Mobile app]]

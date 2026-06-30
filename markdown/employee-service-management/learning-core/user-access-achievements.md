@@ -14,11 +14,11 @@ breadcrumb: [Create an achievement definition, Manage Learning, Using My Learnin
 
 # Define user access for achievements
 
-Define user access to the collection to configure who has can and can’t read access to the [[achievements-lxp|achievements]].
+Define user access to the collection to configure who has can and can’t read access to the achievements.
 
 ## Before you begin
 
-Role required: sn\_lc.[[exploring-learning-exp|learning]]\_admin, sn\_lep.achievement\_manager
+Role required: sn\_lc.learning\_admin, sn\_lep.achievement\_manager
 
 Create an achievement. For more information, see [Create an achievement definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement.md).
 
@@ -41,7 +41,3 @@ Create an achievement. For more information, see [Create an achievement definiti
 
 **Parent Topic:**[Create an achievement definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement.md)
 
-## Related
-
-- [[achievements-lxp|Achievements]]
-- [[exploring-learning-exp|Learning]]

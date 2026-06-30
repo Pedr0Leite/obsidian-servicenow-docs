@@ -37,19 +37,15 @@ When a customer's chat for an order exception is escalated to a live agent, the 
 
     3.  Join the chat by selecting **Accept**.
 
-        The Active Chat panel opens with an AI-generated summary of the conversation between the order exception AI agent and the customer. The associated interaction record opens alongside, with the customer's **Account** and **Contact** [[fields|fields]] populated from the chat that the customer initiated on the Business Portal.
+        The Active Chat panel opens with an AI-generated summary of the conversation between the order exception AI agent and the customer. The associated interaction record opens alongside, with the customer's **Account** and **Contact** fields populated from the chat that the customer initiated on the Business Portal.
 
 3.  Review the AI-generated chat summary in the Active Chat panel to understand the customer's request and what the order exception AI agent has done so far.
 
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
 **Related topics**  
 
 
 [Order Operations Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]
-- [[fields|Fields]]

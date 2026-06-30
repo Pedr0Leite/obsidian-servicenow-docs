@@ -55,7 +55,7 @@ Mandatory
 
 </td></tr><tr><td>
 
-[[erp-integration-framework|ERP Integration Framework]] \[sn\_fcms\_integrations\]**Important:** Check your entitlements to determine whether you have access to ERP Integration Framework.
+ERP Integration Framework \[sn\_fcms\_integrations\]**Important:** Check your entitlements to determine whether you have access to ERP Integration Framework.
 
 </td><td>
 
@@ -76,7 +76,7 @@ Common Service Delivery \[sn\_spend\_sdc\]
 
 </td><td>
 
-Contains Service Task and Service Request tables, as well as other infrastructure that forms the basis of [[finance-supply-chain-workflows|Finance and Supply Chain workflows]] products.
+Contains Service Task and Service Request tables, as well as other infrastructure that forms the basis of Finance and Supply Chain workflows products.
 
 </td><td>
 
@@ -107,11 +107,11 @@ Mandatory
 
 </td></tr><tr><td>
 
-[[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \[sn\_spend\_intg\]
+Source-to-Pay Integration Framework \[sn\_spend\_intg\]
 
 </td><td>
 
-Provides a set of staging tables, transform maps, and workflows to integrate [[source-to-pay-operations-overview|Source-to-Pay Operations]] with third-party ERP system.
+Provides a set of staging tables, transform maps, and workflows to integrate Source-to-Pay Operations with third-party ERP system.
 
 </td><td>
 
@@ -123,10 +123,3 @@ Mandatory
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[erp-integration-framework|ERP Integration Framework]]
-- [[finance-supply-chain-workflows|Finance and Supply Chain workflows]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

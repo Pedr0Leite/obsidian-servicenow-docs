@@ -14,7 +14,7 @@ breadcrumb: [Configure, WSD for Microsoft places, Workplace Service Delivery, Em
 
 # Modify the manifest file
 
-Modify the manifest file as part of [[wsd-for-ms-places|WSD for Microsoft places]] application in Microsoft Teams.
+Modify the manifest file as part of WSD for Microsoft places application in Microsoft Teams.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ For more information on downloading the manifest files, refer to [Download manif
 
 Follow up with upload the application process to complete the integration of WSD for Microsoft places application with Microsoft Teams.
 
-## Related
-
-- [[wsd-for-ms-places|WSD for Microsoft places]]

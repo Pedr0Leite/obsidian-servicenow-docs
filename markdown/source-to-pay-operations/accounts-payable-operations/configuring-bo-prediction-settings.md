@@ -15,9 +15,9 @@ breadcrumb: [Recommend invoice owner AI agent, Using AI agents in Now Assist for
 
 # Configuring invoice owner prediction settings
 
-Configure system properties for the [[recommend-invoice-owner-ai-agent|Recommend Invoice Owner AI agent]] to define how business owners are identified for Non-PO [[invoices|invoices]] and credit memos.
+Configure system properties for the Recommend Invoice Owner AI agent to define how business owners are identified for Non-PO invoices and credit memos.
 
-Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Administration** &gt; **Properties** to access the invoice owner prediction settings. These settings influence the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The AP admin can modify these settings. For more information on the settings, see [Set APO properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md).
+Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Properties** to access the invoice owner prediction settings. These settings influence the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The AP admin can modify these settings. For more information on the settings, see [Set APO properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md).
 
 \[Omitted image "apo-invoice-owner-prediction.png"\] Alt text: Use theInvoice owner prediction settings to check the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The screenshot shows the default values.
 
@@ -35,7 +35,7 @@ Default value
 
 </th></tr></thead><tbody><tr><td>
 
-Number of recent invoices from the same [[supplier|supplier]] the system should review to predict the business owner
+Number of recent invoices from the same supplier the system should review to predict the business owner
 
 </td><td>
 
@@ -87,9 +87,3 @@ No
 
 [Set APO properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md)
 
-## Related
-
-- [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]]
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]

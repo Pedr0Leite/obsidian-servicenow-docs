@@ -15,21 +15,21 @@ breadcrumb: [Configure, Accounts Payable Operations, Finance and Supply Chain]
 
 # Install Accounts Payable Invoice Processing
 
-Install the [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] \(sn\_ap\_apm\) application as an admin to include demo data and related ServiceNow® Store applications and plugins.
+Install the Accounts Payable Invoice Processing \(sn\_ap\_apm\) application as an admin to include demo data and related ServiceNow® Store applications and plugins.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the Accounts Payable Invoice Processing application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   The Accounts Payable Invoice Processing \(sn\_ap\_apm\) application installs the following dependent plugins:
-    -   [[acc-pay-case-mgmt-overview|Invoice Case Management]] \(sn\_ap\_cm\)
-    -   [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] \(sn\_ap\_ic\)
+    -   Invoice Case Management \(sn\_ap\_cm\)
+    -   Accounts Payable Operations integration with Document Intelligence \(sn\_ap\_ic\)
 
 Role required: admin
 
 ## About this task
 
-The following items are installed with [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]:
+The following items are installed with Accounts Payable Operations:
 
 -   Plugins
 -   Roles
@@ -75,9 +75,3 @@ Reference information for the roles, flows, scheduled jobs, and tables installed
 
 [Domain separation and Accounts Payable Operations]()
 
-## Related
-
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

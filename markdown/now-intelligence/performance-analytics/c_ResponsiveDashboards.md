@@ -14,9 +14,9 @@ breadcrumb: [Create and use dashboards, Responsive dashboards in the Core UI, Re
 
 # Working with responsive dashboards
 
-Responsive dashboards enable you to share [[widgets|widgets]] such as reports and Performance Analytics visualizations in the classic environment. An easy-to-use drag and drop canvas helps you create, edit, and arrange content, and then share it with colleagues.
+Responsive dashboards enable you to share widgets such as reports and Performance Analytics visualizations in the classic environment. An easy-to-use drag and drop canvas helps you create, edit, and arrange content, and then share it with colleagues.
 
-The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. To create dashboards in Platform Analytics experience, see [[analytics-center-dashboards|Dashboards in Platform Analytics]].
+The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. To create dashboards in Platform Analytics experience, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
 Use dashboards to:
 
@@ -42,7 +42,3 @@ ServiceNow mobile apps don’t give access to dashboards as dashboards aren’t 
 
 [Set responsive dashboards as your home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_SetDashboardsAsHome.md)
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[widgets|Widgets]]

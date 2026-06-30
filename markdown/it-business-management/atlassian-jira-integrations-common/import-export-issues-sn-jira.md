@@ -14,7 +14,7 @@ breadcrumb: [Importing issues and sprints from Jira to Agile Development 2.0, Se
 
 # Import issues from a Jira project to Agile Development 2.0
 
-Import available issues from a Jira project, with or without the team integration settings for this project, so that you can update existing records of Jira from [[agile-landing-page|Agile Development 2.0]].
+Import available issues from a Jira project, with or without the team integration settings for this project, so that you can update existing records of Jira from Agile Development 2.0.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ If your Jira project has team integration settings, then the imported issues are
 
 **Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-Anyone who edits their own HTML, Jelly, or Javascript may find the HTML editor in the static block limited. The HTML editor can also add [[c_Tags|tags]] or formats that advanced coders find unnecessary. For more advanced options, use [dynamic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md).
+Anyone who edits their own HTML, Jelly, or Javascript may find the HTML editor in the static block limited. The HTML editor can also add tags or formats that advanced coders find unnecessary. For more advanced options, use [dynamic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md).
 
 ## Procedure
 
@@ -74,6 +74,3 @@ An easy way to add an image to a CMS page is to use a static HTML block. After t
 
 [View CMS block tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CMSBlockTag.md)
 
-## Related
-
-- [[c_Tags|Tags]]

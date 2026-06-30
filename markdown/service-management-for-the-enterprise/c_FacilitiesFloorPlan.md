@@ -12,7 +12,7 @@ breadcrumb: [Interactive facility maps, Facilities Service Management overview, 
 
 # Facilities Floor Plan
 
-Users use the floor plan find other users, spaces, and assets. Users can also create [[c_FacilitiesRequests|facilities requests]] from any space on the floor plan.
+Users use the floor plan find other users, spaces, and assets. Users can also create facilities requests from any space on the floor plan.
 
 Use the floor plan as follows:
 
@@ -25,13 +25,8 @@ Use the floor plan as follows:
 7.  Facilities staff members perform the tasks necessary to fulfill the request.
 8.  The assigned facilities staff members close their tasks, allowing the request to be closed.
 
--   **[[t_CreateFacReqWorkbench|Create a facility request from the floor plan]]**  
+-   **[Create a facility request from the floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateFacReqWorkbench.md)**  
 All users in your organization can create any facility requests that your facilities admin \[facilities\_admin\] has enabled on the floor plan view.
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[t_CreateFacReqWorkbench|Create a facility request from the floor plan]]
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]
-- [[c_FacilitiesRequests|Facilities requests]]

@@ -14,7 +14,7 @@ breadcrumb: [Portal Data List widget, Configurable Portal widgets, Set up self-s
 
 # Filter records in the Data List widget
 
-Create a condition script to filter records in the [[portal-data-list-widget|Portal Data List widget]].
+Create a condition script to filter records in the Portal Data List widget.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Extensions [[gamification-components-points|Points]]** &gt; **Scripted Extensions Points**.
+1.  Navigate to **All** &gt; **System Extensions Points** &gt; **Scripted Extensions Points**.
 
 2.  On the Extension Points page, in the **API Name column** search field, enter `*datalist`.
 
@@ -96,7 +96,4 @@ JSON containing url\_params and related\_table. For example,```
 
 13. Select **Save**.
 
-## Related
 
-- [[portal-data-list-widget|Portal Data List widget]]
-- [[gamification-components-points|Points]]

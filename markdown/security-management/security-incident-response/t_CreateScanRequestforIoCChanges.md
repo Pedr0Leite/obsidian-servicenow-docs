@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Orchestration workflows and activities, 
 
 # Create Lookup Request for IoC Changes workflow
 
-The **[[sir-landing-page|Security Incident Response]] - Create Lookup Request for IoC Changes** flow is triggered by a business rule to run automatically when an IoC is added or changed. [[threat-intelligence-malware|Malware]] scans are triggered only when new data is entered and only the new data is scanned.
+The **Security Incident Response - Create Lookup Request for IoC Changes** flow is triggered by a business rule to run automatically when an IoC is added or changed. Malware scans are triggered only when new data is entered and only the new data is scanned.
 
 ## Before you begin
 
@@ -51,7 +51,3 @@ The **Create IoC Lookup Request** activity can be used with any workflow to crea
 
 [Security Incident - Evaluate response task outcome workflow]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]

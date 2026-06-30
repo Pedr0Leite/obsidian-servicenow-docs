@@ -14,17 +14,17 @@ breadcrumb: [Health and Safety Environmental Management, Health and Safety, Empl
 
 # Exploring Health and Safety Environmental Management
 
-[[hs-environmental-management-landing-page|Health and Safety Environmental Management]] helps organizations centralize and streamline the tracking of hazardous materials and chemicals. It reduces the reliance on manual processes and spreadsheets, improving data accuracy and conformance.
+Health and Safety Environmental Management helps organizations centralize and streamline the tracking of hazardous materials and chemicals. It reduces the reliance on manual processes and spreadsheets, improving data accuracy and conformance.
 
 ## Environmental Management Workspace overview
 
-In the [[health-safety-core-workspace|Health and Safety Workspace]], environmental management list view displays different types of records, which are as follows:
+In the Health and Safety Workspace, environmental management list view displays different types of records, which are as follows:
 
 |List type|Description|
 |---------|-----------|
 |Chemical groups|Multiple chemicals grouped based on shared characteristics, such as type or usage.|
 |Chemicals|Individual entries that store detailed information about each chemical, including hazard identification, ingredients \(with concentrations\), related documents \(such as safety data sheets\), and location-specific chemical items.|
-|Chemical items|Specific physical containers or instances of a chemical stored at various locations, tracked within the [[hs-using-chemical-management|chemical management]] system for inventory and conformance purposes.|
+|Chemical items|Specific physical containers or instances of a chemical stored at various locations, tracked within the chemical management system for inventory and conformance purposes.|
 |Chemical requests|Submissions by employees to obtain or add chemicals, which are then reviewed, approved, or managed by chemical managers through an approval workflow.|
 |Substances|Individual components or materials that make up the ingredients of a chemical within the chemical management system.|
 |Documents|Documents that are added to chemical groups, items, requests, or substances.|
@@ -36,8 +36,3 @@ The chemical management solution is designed to scale for organizations with lar
 
 **Parent Topic:**[Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-environmental-management-landing-page.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-using-chemical-management|Chemical management]]

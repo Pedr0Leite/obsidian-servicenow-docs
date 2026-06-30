@@ -16,7 +16,7 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 The Portal Map widget displays your portal in a tree structure.
 
-\[Omitted image "WidgetPortalMap.png"\] Alt text: [[c_ServicePortal|Service Portal]] index page tree structure
+\[Omitted image "WidgetPortalMap.png"\] Alt text: Service Portal index page tree structure
 
 **Parent Topic:**[Service Portal configuration page widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-config-widgets.md)
 
@@ -29,6 +29,3 @@ The Portal Map widget displays your portal in a tree structure.
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

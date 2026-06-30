@@ -24,9 +24,9 @@ Several matching criteria are provided with the assignment workbench:
 
 -   **Availability Today**: Availability is calculated based on the agent's work schedule, assigned work, and personal time off. The more availability an agent has, the higher the contribution to the agent's overall rank.
 -   **Matching Skills**: The number of agent skills that match the skills required for the case. The more skills that match, the higher the contribution to the agent's overall rank.
--   **Matching Skills - [[mandatory-skills|Mandatory Skills]] Support**: Calculates the number of agent skills that match the mandatory skills. The calculation is done by filtering out all agents who don’t have the mandatory skills and ranks the remaining agents. The more skills that match, the higher the contribution to the agent's overall rank.
+-   **Matching Skills - Mandatory Skills Support**: Calculates the number of agent skills that match the mandatory skills. The calculation is done by filtering out all agents who don’t have the mandatory skills and ranks the remaining agents. The more skills that match, the higher the contribution to the agent's overall rank.
 
-    **Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [[configure-mandatory-skills-feature|mandatory skills]] identified for a case.
+    **Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-mandatory-skills-feature.md) identified for a case.
 
 -   **Assigned Cases**: The number of cases already assigned to this agent. The more cases assigned, the lower the contribution to the agent's overall rank.
 -   **Last Assigned**: To balance assigned work, prioritize the agent based on their last assigned work.
@@ -104,7 +104,3 @@ Calculations:
 
 This calculation is performed for each agent in the assignment group. Agents are ranked based on the value of this calculation, with the highest number earning the highest ranking.
 
-## Related
-
-- [[configure-mandatory-skills-feature|Configuring mandatory skills]]
-- [[mandatory-skills|Mandatory skills]]

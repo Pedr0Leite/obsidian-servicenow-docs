@@ -22,7 +22,7 @@ For example, a search scripted post-processor can modify search result date or c
 
 ## Create a search scripted post-processor
 
-Define a script to post-process [[ia-ai-search|AI Search]] search [[hs-results|results]] before displaying them to the user.
+Define a script to post-process AI Search search results before displaying them to the user.
 
 ### Before you begin
 
@@ -48,7 +48,7 @@ Role required: search\_application\_admin
 
 4.  In the Search Scripted Post-processors related list, select **New**.
 
-5.  On the [[search-script-postprocess-form-ais|Search Scripted Post-processors form]], fill in the fields.
+5.  On the Search Scripted Post-processors form, fill in the fields.
 
     For a description of the field values, see [Search Scripted Post-processors form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-script-postprocess-form-ais.md). If you copied code from an existing post-processor script in step [1.e](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/script-post-process-ais.md), paste it into the new script's **Post processing script** field and modify it as needed.
 
@@ -81,7 +81,7 @@ You must have already created the search script post-processor that you want to 
 
 3.  In the Search Scripted Post-processors related list, select **New**.
 
-4.  On the Search Scripted Post-processors form, select the [[c_ReferenceLookup|reference lookup]] icon \[Omitted image "IconReferencelookup.png"\] Alt text: for the **Search scripted processor** field and select the search scripted post-processor that you want to link to the search application configuration.
+4.  On the Search Scripted Post-processors form, select the reference lookup icon \[Omitted image "IconReferencelookup.png"\] Alt text: for the **Search scripted processor** field and select the search scripted post-processor that you want to link to the search application configuration.
 
     For a description of the field values, see [Search Scripted Post-processors form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-script-postprocess-form-ais.md).
 
@@ -92,9 +92,3 @@ You must have already created the search script post-processor that you want to 
 
 The new search scripted post-processor appears in the Search Scripted Post-processors related list.
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[search-script-postprocess-form-ais|Search Scripted Post-processors form]]
-- [[c_ReferenceLookup|Reference lookup]]

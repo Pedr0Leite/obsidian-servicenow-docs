@@ -22,7 +22,7 @@ You can also configure shapes, names, and titles for a place type.
 
 ## Before you begin
 
-\[Omitted video\] Description: Configure places in the [[Indoor-mapping|Indoor Mapping]] application.
+\[Omitted video\] Description: Configure places in the Indoor Mapping application.
 
 Role required: sn\_map\_core.map\_admin
 
@@ -59,7 +59,7 @@ Role required: sn\_map\_core.map\_admin
 
 5.  Select **Import as polygon** to import a place as a polygon in your CAD file.
 
-    \[Omitted image "wsd-map-config-import-as-polygon.png"\] Alt text: [[map-configuration-v2|Map configuration tab]] with the Import as polygon option selected.
+    \[Omitted image "wsd-map-config-import-as-polygon.png"\] Alt text: Map configuration tab with the Import as polygon option selected.
 
     **Note:** The text appears in red on the Map Configuration preview when you select create as polygon and the shape is missing.
 
@@ -98,7 +98,7 @@ Role required: sn\_map\_core.map\_admin
 
     -   **Place type catalog**: Select this option if you want to apply the default Indoor Mapping place type styles and categories to a place type. The place type catalog or the Place types table \(**All** &gt; **Indoor Mapping** &gt; **Place types**\) contains Indoor Mapping place types and their default styles. For more information, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md).
         -   **Place types**: Select an appropriate Indoor Mapping place type to style and categorize it. For example: Fire Extinguisher. Selected place type is displayed on the CAD editor preview.
-        -   When Indoor Mapping Places are integrated with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]], the places are categorized as meeting room, fire extinguisher, and so on. Based on this categorization, you can also verify if the meeting rooms are reservable.
+        -   When Indoor Mapping Places are integrated with Workplace Service Delivery, the places are categorized as meeting room, fire extinguisher, and so on. Based on this categorization, you can also verify if the meeting rooms are reservable.
 
     -   **Block attributes**: Select this option if you want the retrieve the place type from the block attributes.
 
@@ -106,7 +106,7 @@ Role required: sn\_map\_core.map\_admin
 
         \[Omitted image "wsd-place-type-template-options.png"\] Alt text: Retrieve place type from a block or text attributes.
 
-        \[Omitted image "wsd-block-attribute-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].png"\] Alt text: Block Reference edit panel showing the type of space and name attributes.
+        \[Omitted image "wsd-block-attribute-reference.png"\] Alt text: Block Reference edit panel showing the type of space and name attributes.
 
     -   **Other layer**: Select this option if you want to apply place types from another layer.
 
@@ -121,7 +121,7 @@ Role required: sn\_map\_core.map\_admin
         To assign place types manually, perform any of the following:
 
         -   Set the places manually using the CAD editor. Select the appropriate **Active layer**. Select places and add the place type information to the text or block attribute, if it exists.
-        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****[[manage-buildings|Manage Places]]**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
+        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****Manage Places**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
             \[Omitted image "wsd-manually-set-places-map-studio.png"\] Alt text: Manually set places using Manage Places in Map Studio.
 
@@ -177,7 +177,7 @@ Role required: sn\_map\_core.map\_admin
 
 10. To resolve issues like a missing polygon, perform the following steps:
 
-    -   From the Map Configuration preview, switch to the [[autocad-editor|CAD Editor tab]].
+    -   From the Map Configuration preview, switch to the CAD Editor tab.
 
         For more information, see [Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/cad-editor-v2-ovw.md).
 
@@ -193,11 +193,3 @@ Role required: sn\_map\_core.map\_admin
 
 **Next topic:**[Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/cad-editor-v2-ovw.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[map-configuration-v2|Map Configuration tab]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[manage-buildings|Manage places]]
-- [[autocad-editor|CAD Editor tab]]

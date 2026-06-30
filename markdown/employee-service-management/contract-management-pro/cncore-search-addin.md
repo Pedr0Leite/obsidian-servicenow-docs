@@ -14,7 +14,7 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Search in Microsoft Word add-in for ServiceNow Contracts
 
-As a contract configurator, search for templates and clauses in the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+As a contract configurator, search for templates and clauses in the Microsoft Word add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Actions
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

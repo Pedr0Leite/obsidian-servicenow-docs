@@ -15,7 +15,7 @@ breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT O
 
 # View log anomaly metrics in Health Log Analytics
 
-View and query all metrics that [[hla-landing-page|Health Log Analytics]] tracks from a single location.
+View and query all metrics that Health Log Analytics tracks from a single location.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ The Metric Data table provides a centralized view of every metric that HLA colle
 
 **Parent Topic:**[Administering Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-administer.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

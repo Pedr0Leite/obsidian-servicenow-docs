@@ -12,7 +12,7 @@ breadcrumb: [Similar case recommendations, Machine learning solutions, Implement
 
 # Similar case user actions
 
-Customer service agents and major issue managers can use the [[similar-case-recommendation|similar case recommendation]] feature to link cases, copy resolution information, propose major case candidates, and add cases to existing major cases.
+Customer service agents and major issue managers can use the similar case recommendation feature to link cases, copy resolution information, propose major case candidates, and add cases to existing major cases.
 
 <table id="table_dgq_zmq_cgb"><thead><tr><th>
 
@@ -36,8 +36,8 @@ Customer service agent can link the current case to a similar case
 
 </td><td>
 
--   **Agent Workspace**: The Predictive [[intelligence-csm|Intelligence]] tab shows a list of similar cases ordered by the similarity score.
--   **Platform**: The Related Search Results section of the [[r_CustomerServiceCaseForm|case form]] shows a list of similar cases ordered by the similarity score.
+-   **Agent Workspace**: The Predictive Intelligence tab shows a list of similar cases ordered by the similarity score.
+-   **Platform**: The Related Search Results section of the case form shows a list of similar cases ordered by the similarity score.
 
 </td><td>
 
@@ -66,7 +66,7 @@ Copies the resolution code and resolution notes from the similar case to the cur
 
 </td></tr><tr><td>
 
-Customer service agent can [[osp-propose-major-case|propose a major case]] candidate**Note:** The Major Issue Detector similarity solution definition must be active.
+Customer service agent can propose a major case candidate**Note:** The Major Issue Detector similarity solution definition must be active.
 
 </td><td>
 
@@ -86,7 +86,7 @@ Major issue manager can associate the current case to a major case**Note:** The 
 
 </td><td>
 
-**Agent Workspace**: the Predictive Intelligence tab [[migration-lists|lists]] one or more major cases similar to the current case, ranked by similarity score.
+**Agent Workspace**: the Predictive Intelligence tab lists one or more major cases similar to the current case, ranked by similarity score.
 
 </td><td>
 
@@ -102,10 +102,3 @@ The current case is added as a child to the major case.
 
 [Similarity solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/word-collection-similarity-solution.md)
 
-## Related
-
-- [[similar-case-recommendation|Similar case recommendation]]
-- [[intelligence-csm|Intelligence]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[osp-propose-major-case|Propose a major case]]
-- [[migration-lists|Lists]]

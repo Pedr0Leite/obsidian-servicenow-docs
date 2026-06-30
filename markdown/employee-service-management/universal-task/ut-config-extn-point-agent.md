@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Define the agent criteria for Universal Task
 
-Define the criteria for an agent so that the agent can access the parent table for [[universal-task-landing|Universal Task]]. The default criteria is that agents must have write access to the parent table.
+Define the criteria for an agent so that the agent can access the parent table for Universal Task. The default criteria is that agents must have write access to the parent table.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ By using an extension point, you can add more conditions for agents to qualify a
 
 **Next topic:**[Configure Universal Task for your service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-ut-for-service.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

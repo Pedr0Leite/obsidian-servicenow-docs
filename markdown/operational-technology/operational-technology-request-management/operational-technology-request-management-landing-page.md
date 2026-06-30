@@ -18,7 +18,7 @@ Operational Technology Request Management lets you request catalog items and ful
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Exploring [[operational-technology-overview|Operational Technology]] Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/exploring-operational-technology-request-management.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Exploring Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/exploring-operational-technology-request-management.md)
 
 </td><td>
 
@@ -30,12 +30,7 @@ Operational Technology Request Management lets you request catalog items and ful
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/operational-technology-request-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/operational-technology-request-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

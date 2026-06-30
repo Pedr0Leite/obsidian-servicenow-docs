@@ -18,7 +18,7 @@ CPQ provides APIs for both the end user \(runtime\) for configurations and the a
 
 The runtime APIs support the standard create, read, update, and delete functions for CPQ configurations, along with the ability to retrieve bill of materials \(BOM\) data from CPQ. These APIs can be used to build a headless or custom UI for end users to create CPQ configurations.
 
-Administrative APIs can be used to work with [[blueprints|blueprints]], [[fields|fields]], [[cpq-sets|sets]], [[product_picker_overview|product pickers]], [[rules_101|rules]], managed tables, and the [[matrix_loader_table_of_contents|Matrix Loader]] for imports and exports. The admin APIs can be integrated or automated to perform routine tasks like data migration.
+Administrative APIs can be used to work with blueprints, fields, sets, product pickers, rules, managed tables, and the Matrix Loader for imports and exports. The admin APIs can be integrated or automated to perform routine tasks like data migration.
 
 ## API resources
 
@@ -36,37 +36,22 @@ For interactive and explorable API documentation with code examples for both run
 
 Runtime API calls are authenticated using runtime client tokens defined in CPQ Admin. For more information about runtime API calls and runtime client tokens, see:
 
-[[intro_to_runtime_api_calls|Intro to runtime API calls]]
+[Intro to runtime API calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/intro_to_runtime_api_calls.md)
 
 Administrative API calls are authenticated with admin API tokens that are also set up in CPQ Admin. For more information about admin API tokens and permissions, see:
 
-[[cpq-admin-api-keys|Intro to admin API keys]]
+[Intro to admin API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md)
 
 **Related topics**  
 
 
-[[logik_io_runtime_apis|Runtime APIs]]
+[Runtime APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io_runtime_apis.md)
 
-[[cpq-authenticating-api-calls|Authenticating CPQ API calls]]
+[Authenticating CPQ API calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-authenticating-api-calls.md)
 
-[[logik_io_additional_configuration_apis|Additional configuration APIs]]
+[Additional configuration APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io_additional_configuration_apis.md)
 
-[[cpq-admin-apis-blueprint-import-and-export|Admin APIs: Blueprint import and export]]
+[Admin APIs: Blueprint import and export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-admin-apis-blueprint-import-and-export.md)
 
-[[admin_apis_managed_tables|Admin APIs: Managed tables]]
+[Admin APIs: Managed tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/admin_apis_managed_tables.md)
 
-## Related
-
-- [[intro_to_runtime_api_calls|Intro to runtime API calls]]
-- [[cpq-admin-api-keys|Intro to admin API keys]]
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[cpq-authenticating-api-calls|Authenticating CPQ API calls]]
-- [[logik_io_additional_configuration_apis|Additional configuration APIs]]
-- [[cpq-admin-apis-blueprint-import-and-export|cpq admin apis blueprint import and export]]
-- [[admin_apis_managed_tables|admin_apis_managed_tables]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[rules_101|Rules]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

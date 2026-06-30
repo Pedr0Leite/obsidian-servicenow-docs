@@ -14,15 +14,15 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 # CI Lookup Rules for identifying configuration items from Configuration Compliance third-party vulnerability integrations
 
-When data is imported from a third-party integration, [[vr-config-compliance-landing|Configuration Compliance]] automatically uses host data to search for matches in the Configuration Management Database \(CMDB\). It does this using **CI Lookup Rules**. These rules are used to identify configuration items \(CIs\) and add them to the test result record to aid in remediation.
+When data is imported from a third-party integration, Configuration Compliance automatically uses host data to search for matches in the Configuration Management Database \(CMDB\). It does this using **CI Lookup Rules**. These rules are used to identify configuration items \(CIs\) and add them to the test result record to aid in remediation.
 
-As assets are imported, a lookup is performed first on the **[[cj-discovered-items|Discovered Items]]** list using third-party IDs to find matches to configuration item \(CIs\) from prior imports. When a host ID match is found, it is used as the **Configuration item** field in the test result record.
+As assets are imported, a lookup is performed first on the **Discovered Items** list using third-party IDs to find matches to configuration item \(CIs\) from prior imports. When a host ID match is found, it is used as the **Configuration item** field in the test result record.
 
 You can see how imported assets are mapped to CIs using the **Discovered Items** list. If a match is not found, or the cmdb\_ci field is empty, the rules use the other host information to attempt to correctly identify the CI. If a match is still not found, a placeholder CI is created and is designated as an **Unmatched CI**. See [Discovered Items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-cj-discovered-items.md) for more information on how those CIs are handled.
 
 A new discovered item is created and mapped to this CI.
 
-**Note:** CI lookup rules are available only for the Qualys Integration for [[security-operations-landing-page|Security Operations]].
+**Note:** CI lookup rules are available only for the Qualys Integration for Security Operations.
 
 CI lookup rules can be domain separated and are source-specific. Each source can have multiple deployments. Qualys can have multiple deployments of the Qualys Integration. Each deployment has its own set of CI Lookup Rules.
 
@@ -67,8 +67,3 @@ When you change a CI lookup rule, click **Apply Changes** on the CI Lookup Rules
 
 If the configuration item \(CI\) changes after reapplying the lookup rules, the discovered items are updated with the new CI. The test results are also updated. For more information, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-discovered-items-ci-changes-cc.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[cj-discovered-items|Discovered Items]]
-- [[security-operations-landing-page|Security Operations]]

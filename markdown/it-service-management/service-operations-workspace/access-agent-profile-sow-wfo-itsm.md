@@ -34,7 +34,7 @@ Access your profile to analyze information such as:
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    When you click the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon\), you can view the status of your work, organizational performance, current status of incidents, and [[process-unassigned-incident|unassigned incidents]] in the [Service Operations Workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-ui-landing-page.md).
+    When you click the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon\), you can view the status of your work, organizational performance, current status of incidents, and unassigned incidents in the [Service Operations Workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-ui-landing-page.md).
 
 2.  Click the lists icon \(\[Omitted image "lists\_icon.png"\] Alt text: Lists icon\).
 
@@ -87,6 +87,3 @@ You can view your targets for a KPI for a given date range if your manager has s
 </table>
 **Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/wfo-itsm-service-operations-workspace.md)
 
-## Related
-
-- [[process-unassigned-incident|Unassigned incidents]]

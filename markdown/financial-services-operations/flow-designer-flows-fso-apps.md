@@ -12,7 +12,7 @@ breadcrumb: [Flows, Configure, Financial Services Operations \(FSO\)]
 
 # Designer flows for Financial Services Operations applications
 
-Several flows are installed with [[fso-overview|Financial Services]] Operations applications that you can use to automate requests.
+Several flows are installed with Financial Services Operations applications that you can use to automate requests.
 
 By using [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio.md), you can review and configure these predefined flows for your own business needs.
 
@@ -28,7 +28,7 @@ Flow
 
 </th></tr></thead><tbody><tr><td>
 
-[[insurance-claims-core-data-model|Insurance Claims Core]]
+Insurance Claims Core
 
 </td><td>
 
@@ -37,7 +37,7 @@ Flow
 
 </td></tr><tr><td>
 
-[[individual-life-claims-landing-page|Individual Life Claims]]
+Individual Life Claims
 
 </td><td>
 
@@ -49,7 +49,7 @@ Flow
 
 </td></tr><tr><td>
 
-[[insurance-claims-flow|Insurance claims]]
+Insurance claims
 
 </td><td>
 
@@ -59,7 +59,7 @@ Flow
 
 </td></tr><tr><td>
 
-[[commercial-lines-claims-landing-page|Commercial Lines Claims]]
+Commercial Lines Claims
 
 </td><td>
 
@@ -67,7 +67,7 @@ Claim work notes - updates for settlement
 
 </td></tr><tr><td>
 
-[[personal-lines-claims-landing-page|Personal Lines Claims]]
+Personal Lines Claims
 
 </td><td>
 
@@ -75,7 +75,7 @@ Claim work notes - updates for settlement
 
 </td></tr><tr><td>
 
-[[payment-ops-landing-page|Financial Services Payment Operations]]
+Financial Services Payment Operations
 
 </td><td>
 
@@ -87,7 +87,7 @@ Claim work notes - updates for settlement
 
 </td></tr><tr><td>
 
-[[card-ops-landing-page|Financial Services Card Operations]]
+Financial Services Card Operations
 
 </td><td>
 
@@ -100,7 +100,7 @@ Claim work notes - updates for settlement
 
 </td></tr><tr><td>
 
-[[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
+Financial Services Complaint Management
 
 </td><td>
 
@@ -134,7 +134,7 @@ These flows are available as subflows.
 
 </td></tr><tr><td>
 
-[[loan-ops-landing-page|Financial Services Loan Operations]]
+Financial Services Loan Operations
 
 </td><td>
 
@@ -147,7 +147,7 @@ These flows are available as subflows.
 
 </td></tr><tr><td>
 
-[[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
+Financial Services Treasury Operations
 
 </td><td>
 
@@ -166,17 +166,3 @@ Claim work notes - updates for SIU task
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

@@ -22,7 +22,7 @@ Role required: Itil, sn\_incident\_write
 
 ## Procedure
 
-1.  Open the [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open the ITSM Mobile Agent app.
 
 2.  In the **On-call Schedule** tab, tap **Who is on-call**.
 
@@ -30,6 +30,4 @@ Role required: Itil, sn\_incident\_write
 
 3.  Select a group and tap **Submit**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

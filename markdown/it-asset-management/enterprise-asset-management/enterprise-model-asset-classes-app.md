@@ -14,19 +14,19 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Expanded Model and Asset Classes
 
-The Expanded Model and Asset Classes application adds model and asset classes that extend base classes within the Configuration Management Database \(CMDB\) class hierarchy. These extensions include class descriptions, identification rules, identifier entries, and dependent relationships. The application also adds [[model-hierarchy|model categories]] and API categories.
+The Expanded Model and Asset Classes application adds model and asset classes that extend base classes within the Configuration Management Database \(CMDB\) class hierarchy. These extensions include class descriptions, identification rules, identifier entries, and dependent relationships. The application also adds model categories and API categories.
 
 **Note:** This application is compatible with the Rome and later family releases.
 
 For more information on the CMDB, see [Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ITILConfigurationManagement.md).
 
-In addition to extending CMDB model and asset classes, the Expanded Model and Asset Classes application creates model categories that associate model and asset classes with CMDB configuration item \(CI\) classes. The [[enterprise-asset-management|Enterprise Asset Management]] application uses these classes and model categories to create asset and model records that can be used to track and manage enterprise assets. Discovery tools, such as the ServiceNow® Discovery application, can also use these classes and model categories to create asset and model records for discovered CIs. See [Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/model-hierarchy.md) for more information on model categories.
+In addition to extending CMDB model and asset classes, the Expanded Model and Asset Classes application creates model categories that associate model and asset classes with CMDB configuration item \(CI\) classes. The Enterprise Asset Management application uses these classes and model categories to create asset and model records that can be used to track and manage enterprise assets. Discovery tools, such as the ServiceNow® Discovery application, can also use these classes and model categories to create asset and model records for discovered CIs. See [Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/model-hierarchy.md) for more information on model categories.
 
-The Expanded Model and Asset Classes application also adds the API and Managed API model categories, which allow the Configuration Management Database \(CMDB\) application to create and associate application [[c_Models|models]] with API and Managed API CMDB CI classes. API CMDB CI classes provide classifications for APIs \(application programming interfaces\), which are sets of definitions and protocols that enable computer programs to communicate with each other. Managed API CMDB CI classes provide classifications for APIs that are discovered through gateways or management services, such as Amazon API Gateway. By associating application models with these CMDB CI classes, the Configuration Management Database \(CMDB\) application can create version-agnostic representations of your APIs. These representations can then provide a more holistic view of each API during reporting and analysis. For more information on API and Managed API CMDB CI classes, see [API extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-api.md).
+The Expanded Model and Asset Classes application also adds the API and Managed API model categories, which allow the Configuration Management Database \(CMDB\) application to create and associate application models with API and Managed API CMDB CI classes. API CMDB CI classes provide classifications for APIs \(application programming interfaces\), which are sets of definitions and protocols that enable computer programs to communicate with each other. Managed API CMDB CI classes provide classifications for APIs that are discovered through gateways or management services, such as Amazon API Gateway. By associating application models with these CMDB CI classes, the Configuration Management Database \(CMDB\) application can create version-agnostic representations of your APIs. These representations can then provide a more holistic view of each API during reporting and analysis. For more information on API and Managed API CMDB CI classes, see [API extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-api.md).
 
 ## Enterprise model and asset classes added by the application
 
-The Expanded Model and Asset Classes application adds enterprise model classes that extend the base Product model \[cmdb\_model\] class and enterprise asset classes that extend the Base asset \[alm\_base\] class. For more information on these [[enterprise-model-asset-classes|enterprise model and asset classes]], see [Enterprise model and asset classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes.md).
+The Expanded Model and Asset Classes application adds enterprise model classes that extend the base Product model \[cmdb\_model\] class and enterprise asset classes that extend the Base asset \[alm\_base\] class. For more information on these enterprise model and asset classes, see [Enterprise model and asset classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes.md).
 
 ## Service model classes added by the application
 
@@ -321,10 +321,3 @@ Classifies the prompts, or instructions, that are given to AI models to generate
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[model-hierarchy|Model categories]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Models|Models]]
-- [[enterprise-model-asset-classes|Enterprise model and asset classes]]

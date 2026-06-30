@@ -47,7 +47,7 @@ For instructions on using activities to construct a workflow, see [Add an activi
 -   **[Introduction to credentials, connections, and aliases for Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/credentials-conn-alias-orch.md)**  
 All application integrations in Orchestration require connection information, credentials, and connection and credential aliases to their respective applications to access resources.
 -   **[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md)**  
-You can create and update different types of custom activities in the [[workflow-editor|Workflow Editor]] using a custom template.
+You can create and update different types of custom activities in the Workflow Editor using a custom template.
 -   **[Orchestration custom activity templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ActivityDesignerComponents.md)**  
 Orchestration provides customizable activity templates to create and manage custom activities in the Workflow Editor.
 -   **[Activity scoping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ActivityScoping.md)**  
@@ -59,6 +59,3 @@ You can copy activities for reuse from the **Custom** tab in the global scope.
 
 **Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r-orchestration.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

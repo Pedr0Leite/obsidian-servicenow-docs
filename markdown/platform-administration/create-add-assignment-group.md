@@ -12,11 +12,11 @@ breadcrumb: [Provider notification for all users, Create, Provider notifications
 
 # Create and add assignment groups
 
-Create and add assignment groups where you want users that are part of a group to be the recipients of the [[notification-provider|provider notification]].
+Create and add assignment groups where you want users that are part of a group to be the recipients of the provider notification.
 
 ## Before you begin
 
-Role required: admin or [[notifications|notifications]] provider admin
+Role required: admin or notifications provider admin
 
 ## Procedure
 
@@ -44,10 +44,5 @@ Role required: admin or [[notifications|notifications]] provider admin
 5.  Select **Submit** or **Save**.
 
 
-**Parent Topic:**[[noti-new-update-notification|Create and update a provider notification for all users]]
+**Parent Topic:**[Create and update a provider notification for all users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-new-update-notification.md)
 
-## Related
-
-- [[noti-new-update-notification|Create and update a provider notification for all users]]
-- [[notification-provider|Provider notification]]
-- [[notifications|Notifications]]

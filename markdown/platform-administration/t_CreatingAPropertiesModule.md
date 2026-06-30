@@ -12,7 +12,7 @@ breadcrumb: [Basic system configuration, Get started, Administer the ServiceNow 
 
 # Create a system properties module
 
-You can add a module in the application navigator to access the list of [[r_SetArchiveRuleProcessingBehavior|system properties]]. This module makes it easy to add properties to the System Properties table.
+You can add a module in the application navigator to access the list of system properties. This module makes it easy to add properties to the System Properties table.
 
 ## Before you begin
 
@@ -44,12 +44,7 @@ Role required: admin
 
 ## What to do next
 
-If you want to include additional [[r_DirectJDBCProbeParameters|parameters]] for the list of system properties module, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/test-steps-app-navigator-category.md).
+If you want to include additional parameters for the list of system properties module, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/test-steps-app-navigator-category.md).
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

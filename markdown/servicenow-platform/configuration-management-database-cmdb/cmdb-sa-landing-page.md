@@ -14,9 +14,9 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Viewing the CMDB success advisor landing page
 
-As a CMDB administrator, you can use the [[cmdb-sa|CMDB success advisor]] landing page to configure and manage data quality dashboards for Data Foundations and Hardware Asset Management \(HAM\).
+As a CMDB administrator, you can use the CMDB success advisor landing page to configure and manage data quality dashboards for Data Foundations and Hardware Asset Management \(HAM\).
 
-The CMDB success advisor landing page opens when you select CMDB success advisor in CMDB Workspace or in [[sg-workspace|Service Graph Workspace]].
+The CMDB success advisor landing page opens when you select CMDB success advisor in CMDB Workspace or in Service Graph Workspace.
 
 \[Omitted image "cmdb-sa-landing-page.png"\] Alt text: Landing page of CMDB success advisor.
 
@@ -24,7 +24,7 @@ The CMDB success advisor landing page opens when you select CMDB success advisor
 
 You must have the sn\_cmdb\_admin role to access the CMDB success advisor landing page.
 
-**Note:** Users with the sn\_cmdb\_user or sn\_cmdb\_editor role can [[cmdb-sa-access|access CMDB success advisor]] from the [[sg-workspace-insights-view|Insights view in Service Graph Workspace]] v9.1 and view the Dashboard tab only. The Settings and Integrations tabs aren't available to these users.
+**Note:** Users with the sn\_cmdb\_user or sn\_cmdb\_editor role can access CMDB success advisor from the Insights view in Service Graph Workspace v9.1 and view the Dashboard tab only. The Settings and Integrations tabs aren't available to these users.
 
 ## Accessing and using the landing page
 
@@ -48,7 +48,7 @@ Navigate to **Workspaces** &gt; **CMDB Workspace**. In the Home view, select the
 
 </td></tr><tr><td>
 
-[[cmdb-workspace-mangmnt-view|Management view in CMDB Workspace]]
+Management view in CMDB Workspace
 
 </td><td>
 
@@ -131,10 +131,3 @@ Each advisor card shows action buttons that reflect its current state. Cards for
 |Needs installation|The app is entitled on your instance but has not been installed.|Select **Learn more** to install the app and gain insights with CMDB success advisor.|
 |Needs entitlement|The app has not been entitled on your instance.|Select **Learn more** to request an entitlement and gain insights with CMDB success advisor.|
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sa-access|Access CMDB success advisor]]
-- [[sg-workspace-insights-view|Insights view in Service Graph Workspace]]
-- [[cmdb-workspace-mangmnt-view|Management view in CMDB Workspace]]

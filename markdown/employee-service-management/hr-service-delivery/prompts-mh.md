@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Default proactive prompts for Manager Hub
 
-Default signal configurations, signal categories, and an action URL are available to use on activating [[manager-hub-overview|Manager Hub]] and [[proactive-prompts-for-hrsd|Proactive Prompts]].
+Default signal configurations, signal categories, and an action URL are available to use on activating Manager Hub and Proactive Prompts.
 
 To learn how to use Proactive Prompts, refer to the [Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-for-hrsd.md) documentation.
 
@@ -32,11 +32,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Assigned [[exploring-learning-exp|learning]] lack of engagement
+Assigned learning lack of engagement
 
 </td><td>
 
-Default signal configuration to display the **Support employees with learning** widget in the Manager Hub page.This configuration is available only when the [[learning-core_overview|Learning Core]] application is installed.
+Default signal configuration to display the **Support employees with learning** widget in the Manager Hub page.This configuration is available only when the Learning Core application is installed.
 
  A schedule job runs every two weeks and identifies users based on the following criteria. These users are displayed to the manager in the **Support employees with learning** widget.
 
@@ -158,9 +158,3 @@ For more information on signal actions, see [Configure signal actions for Proact
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

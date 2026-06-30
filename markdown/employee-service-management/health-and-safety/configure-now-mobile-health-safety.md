@@ -14,17 +14,17 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # Configure mobile apps to access Health and Safety applications
 
-Configure the ServiceNow mobile apps to access [[health-safety-overview|Health and Safety]] applications for submitting safety incidents, observations, and job safety analyses \(JSAs\).
+Configure the ServiceNow mobile apps to access Health and Safety applications for submitting safety incidents, observations, and job safety analyses \(JSAs\).
 
 ## Before you begin
 
-Ensure that the ServiceNow instance to be configured on [[mobile-employee-experience|Now Mobile app]] and Mobile Agent app has the following applications installed with the demo data:
+Ensure that the ServiceNow instance to be configured on Now Mobile app and Mobile Agent app has the following applications installed with the demo data:
 
--   [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] for [[submitting-safety-incidents-obvs|submitting safety incidents and observations]].
+-   Health and Safety Incident Management for submitting safety incidents and observations.
 
     **Note:** The demo data for Health and Safety Incident Management includes the launcher required to open it in the Now Mobile app.
 
--   [[hs-risk-management-landing-page|Health and Safety Risk Management]] to submit JSAs, view [[hs-safety-registers|safety registers]], and conduct inspection and audit surveys.
+-   Health and Safety Risk Management to submit JSAs, view safety registers, and conduct inspection and audit surveys.
 
 Role required: none
 
@@ -57,16 +57,7 @@ Role required: none
 
     **Note:** The **Safety** option appears only if the demo data is installed with the Health and Safety Incident Management on the configured ServiceNow instance.
 
--   For an instance with the Health and Safety Risk Management application, the **Create a [[hs-job-safety-analysis|job safety analysis]]** quick link appears in the **Home** tab of the Now Mobile app in your mobile device.
+-   For an instance with the Health and Safety Risk Management application, the **Create a job safety analysis** quick link appears in the **Home** tab of the Now Mobile app in your mobile device.
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[submitting-safety-incidents-obvs|Submitting safety incidents and observations]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[hs-safety-registers|Safety registers]]
-- [[hs-job-safety-analysis|Job safety analysis]]

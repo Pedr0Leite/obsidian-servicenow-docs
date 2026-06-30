@@ -14,11 +14,11 @@ breadcrumb: [Contractor Service Center, Health and Safety, Employee Service Mana
 
 # Exploring Contractor Service Center
 
-The [[hs-contractor-service-center-landing-page|Contractor Service Center]] is a centralized hub to manage and support contractors. It helps streamline contractor workflow, improve efficiency, and provide secure and high-quality functioning of various safety tasks.
+The Contractor Service Center is a centralized hub to manage and support contractors. It helps streamline contractor workflow, improve efficiency, and provide secure and high-quality functioning of various safety tasks.
 
 ## Contractor Service Center overview
 
-This application is a self-service center where contractors can complete any tasks that are assigned to them by the safety contractor coordinator. They can perform various safety tasks such as report a [[health-safety-overview|Health and Safety]] incident, request permit to work, upload documents, and create JSAs. They have easy access to site safety tools, protocols, and documentations.
+This application is a self-service center where contractors can complete any tasks that are assigned to them by the safety contractor coordinator. They can perform various safety tasks such as report a Health and Safety incident, request permit to work, upload documents, and create JSAs. They have easy access to site safety tools, protocols, and documentations.
 
 ## Contractor Service Center users
 
@@ -36,19 +36,13 @@ The contractor begins by using the link provided in the onboarding email to acce
 |--------|-------|-----|
 |Use the self-service access at the Contractor Service Center to perform various tasks such as creating Health and Safety requests, permit to work requests, and JSAs.|[Contractor Service Center navigation overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-navigation.md)|Contractor|
 |Log in to the Contractor Service Center using the email.|[Log in to the Contractor Service Center for the first time as a contractor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-log-in-csc-first-time-contractor.md)|Contractor|
-|Add or create the contractor profile on the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] workspace.|[Add a contractor from the Health and Safety Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
+|Add or create the contractor profile on the Health and Safety Contractor Management workspace.|[Add a contractor from the Health and Safety Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
 
 ## What to explore next
 
-To learn more about configuring and [[hs-using-contractor-service-center|using the Contractor Service Center]], see:
+To learn more about configuring and using the Contractor Service Center, see:
 
 -   [Configuring Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
 -   [Using the Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-using-contractor-service-center.md)
 -   [Contractor Service Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[hs-using-contractor-service-center|Using the Contractor Service Center]]

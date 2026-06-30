@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay integration framework, Integration with third-party a
 
 # Fixed asset integration
 
-Fixed assets are created automatically in Source-to-Pay \(S2P\) on creation of a [[purchase-order-table|purchase order]], when capitalization policy criteria are satisfied, and synchronized to the ERP system asynchronously.
+Fixed assets are created automatically in Source-to-Pay \(S2P\) on creation of a purchase order, when capitalization policy criteria are satisfied, and synchronized to the ERP system asynchronously.
 
 The following fields are added in the Fixed Asset table to integrate with the ERP systems:
 
@@ -24,9 +24,5 @@ The following fields are added in the Fixed Asset table to integrate with the ER
 
 Whenever the **Depreciated amount**, **Remaining value**, and **Salvage value** fields are updated in the ERP system, depending on the depreciation term defined in the ERP, the values are synced back to S2P for the corresponding fixed asset. A configurable scheduled job Fetch Fixed Asset Details defined in S2P determines the frequency to retrieve this data from the ERP system.
 
-For more information on automatic [[fixed-asset-creation|fixed asset creation]], see [Fixed asset creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/fixed-asset-creation.md).
+For more information on automatic fixed asset creation, see [Fixed asset creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/fixed-asset-creation.md).
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[fixed-asset-creation|Fixed asset creation]]

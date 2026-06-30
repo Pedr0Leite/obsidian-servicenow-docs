@@ -14,7 +14,7 @@ breadcrumb: [Jira, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks in Jira manually
 
-Configure webhooks in your Jira Server or Jira Cloud instance to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks in your Jira Server or Jira Cloud instance to send sync notifications to the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ If you have connected your Jira tool using OAuth 2.0 based authentication, the w
 3.  Navigate to:
 
     -   For Jira Server navigate to **Administration** &gt; **System** &gt; **WebHooks**.
-    -   For Jira Cloud instance, navigate to **[[settings-mobile|Settings]]** &gt; **System** &gt; **WebHooks**.
+    -   For Jira Cloud instance, navigate to **Settings** &gt; **System** &gt; **WebHooks**.
 4.  Select **Create a WebHook**.
 
 5.  Enter the details for the webhook.
@@ -101,7 +101,3 @@ Select the events to be tracked.For example:
 
 **Parent Topic:**[Jira integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jira-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

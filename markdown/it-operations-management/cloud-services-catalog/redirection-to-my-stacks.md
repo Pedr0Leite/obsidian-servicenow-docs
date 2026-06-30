@@ -18,7 +18,7 @@ You can use redirection to your **My Stacks** tab as an alternate but simplified
 
 You can view all your stacks with any relevant status, but the displayed list may be lengthy.
 
-Redirection to stack details via the **My Requests** tab in Employee Center enables you to find the requested stack by the Requested Item \(RITM\). Use the **Cloud Request Status** tab on the [[csc-home|Cloud Services Catalog]] application to display the request details and status of the stacks.
+Redirection to stack details via the **My Requests** tab in Employee Center enables you to find the requested stack by the Requested Item \(RITM\). Use the **Cloud Request Status** tab on the Cloud Services Catalog application to display the request details and status of the stacks.
 
 The following example shows how you can redirect to the **My Stacks** tab from the **My Requests** tab, instead of looking at a comprehensive list of stacks on the Stacks homepage.
 
@@ -26,6 +26,3 @@ The following example shows how you can redirect to the **My Stacks** tab from t
 
 **Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

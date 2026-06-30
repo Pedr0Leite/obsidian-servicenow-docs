@@ -28,7 +28,7 @@ You can link an SCCM application to an existing software model or create a new m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ClientSoftwareDistribution|Client Software Distribution]]** &gt; **SCCM** &gt; **SCCM Applications**.
+1.  Navigate to **All** &gt; **Client Software Distribution** &gt; **SCCM** &gt; **SCCM Applications**.
 
     A list of applications discovered on the SCCM server appears.
 
@@ -51,6 +51,3 @@ You can link an SCCM application to an existing software model or create a new m
 
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

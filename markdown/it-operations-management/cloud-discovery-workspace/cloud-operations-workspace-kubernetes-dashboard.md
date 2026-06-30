@@ -16,9 +16,9 @@ breadcrumb: [Cloud Discovery Workspace, ITOM Visibility, IT Operations Managemen
 
 Use the ServiceNow® Kubernetes Explorer to drill-down and view the Kubernetes environments and resources of your organization.
 
-**Important:** [[cow-landing-page|Cloud Discovery Workspace]] is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Cloud Discovery Workspace is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-\[Omitted image "cow-kubernetes-explorer.gif"\] Alt text: [[cloud-resources-inventory-dashboard|Cloud Resources Explorer]].
+\[Omitted image "cow-kubernetes-explorer.gif"\] Alt text: Cloud Resources Explorer.
 
 The Kubernetes Explorer supports the following cloud providers:
 
@@ -37,7 +37,7 @@ The sn\_cloud\_ops\_ws.cloud\_ops\_admin role is required to view the Kubernetes
 
 To open the dashboard, navigate to **All** &gt; **Cloud Discovery Workspace** &gt; **Kubernetes Explorer**.
 
-**Important:** Starting with the Zurich release, Cloud Discovery Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. [[discovery-admin-workspace|Discovery Admin Workspace]] provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Starting with the Zurich release, Cloud Discovery Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. Discovery Admin Workspace provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 ## Use cases
 
@@ -75,7 +75,7 @@ IT admin, cloud admin
 
 -   **Clusters**
 
-    A Kubernetes cluster is a set of nodes that run containerized applications. The Clusters indicator displays the daily total count and [[r-discovery|discovery]] trend of the Kubernetes clusters discovered across the Kubernetes deployments of your organization.
+    A Kubernetes cluster is a set of nodes that run containerized applications. The Clusters indicator displays the daily total count and discovery trend of the Kubernetes clusters discovered across the Kubernetes deployments of your organization.
 
     The Kubernetes Explorer reads the Kubernetes Cluster Analytics \[sn\_cow\_k8s\_cluster\_analytics\] table to compute the Clusters indicator.
 
@@ -442,10 +442,3 @@ This report lists the Docker images discovered across the Kubernetes deployments
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[cloud-resources-inventory-dashboard|Cloud Resources Explorer]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

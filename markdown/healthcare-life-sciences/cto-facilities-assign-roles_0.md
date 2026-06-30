@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for F
 
 # Assign responsibilities to Care Team Operations for Facilities users
 
-Assign responsibilities to users in [[cto-facilities-landing|Care Team Operations for Facilities]] to dictate which specific records users are authorized to view or modify.
+Assign responsibilities to users in Care Team Operations for Facilities to dictate which specific records users are authorized to view or modify.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can edit the responsibilities of Care Team Operations for Facilities users w
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **All**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **All**.
 
 2.  Select the parent organization.
 
@@ -48,7 +48,4 @@ You can edit the responsibilities of Care Team Operations for Facilities users w
 
 7.  Select **Save**.
 
-## Related
 
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[healthcare-operations-overview|Healthcare Operations]]

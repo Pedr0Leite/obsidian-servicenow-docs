@@ -20,8 +20,5 @@ Administrators can change the script includes described below.
 |---------------|-----------|
 |RISK\_OF\_BREACH\_SLA\_TIME\_IN\_SEC|Controls the time that tasks show a **Risk of breach** SLA status. By default tasks show as being at **Risk of breach** if the task and the window end is within four hours. The **Risk of breach** status is measured in seconds, the default is four hours, which is 14400 seconds.|
 
-**Parent Topic:**[[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]
+**Parent Topic:**[Script includes installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_ScriptIncInstWFieldSrvMgmnt.md)
 
-## Related
-
-- [[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]

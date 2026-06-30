@@ -12,11 +12,11 @@ breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
 
 # Exploring Setup Hub \(SPM\)
 
-The [[spm-config-console-landing|Setup Hub \(SPM\)]] consolidates setup processes for SPM applications into a single workspace, giving administrators a unified view of their configuration state.
+The Setup Hub \(SPM\) consolidates setup processes for SPM applications into a single workspace, giving administrators a unified view of their configuration state.
 
 ## Setup Hub \(SPM\) overview
 
-Setting up [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) for an enterprise traditionally meant navigating between multiple administrative areas, one for [[alignment-planner-workspace-landing-page|Strategic Planning]], another for [[c_ProjectApplicationOverview|Project Management]], a third for Enterprise-Wide Deployment, and so on. Each application maintained its own setup in a different module, which could hinder the rollout of new SPM applications and made it hard to see the overall status of your organization's SPM configuration.
+Setting up Strategic Portfolio Management \(SPM\) for an enterprise traditionally meant navigating between multiple administrative areas, one for Strategic Planning, another for Project Management, a third for Enterprise-Wide Deployment, and so on. Each application maintained its own setup in a different module, which could hinder the rollout of new SPM applications and made it hard to see the overall status of your organization's SPM configuration.
 
 Setup Hub \(SPM\) consolidates these setup modules into a single workspace. Modules in the Admin console are dependent on the license, so you see only the applications you're entitled to configure.
 
@@ -32,15 +32,15 @@ A typical SPM rollout roughly moves through the modules in the following order. 
 
 1.  Common setup to define shared organizational data, roles, and groups.
 2.  Financials setup to align currencies, fiscal periods, and budgeting structures.
-3.  Project Management and [[c_DemandManagement|Demand Management]] setup to enable execution tracking and demand intake.
-4.  Strategic Planning and [[portfolio-planning-app-landing-page|Portfolio Planning]] setup to enable portfolio planning and roadmap work.
+3.  Project Management and Demand Management setup to enable execution tracking and demand intake.
+4.  Strategic Planning and Portfolio Planning setup to enable portfolio planning and roadmap work.
 5.  Enterprise-Wide Deployment setup if your organization runs multi-partition SPM.
 
 ## Setup Hub \(SPM\) benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Find every SPM setup task from one workspace without switching between application admin pages.|[[spm-config-console-modules|Modules in Setup Hub \(SPM\)]]|System administrator|
+|Find every SPM setup task from one workspace without switching between application admin pages.|[Modules in Setup Hub \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-config-console-modules.md)|System administrator|
 |See only the applications you're entitled to configure based on your organization's SPM license.|License-aware module visibility|System administrator, SPM application owner|
 |Reach the console from the same Admin Home page that hosts other product configuration entry points.|Portfolio Management card on Admin Home|System administrator|
 
@@ -48,7 +48,7 @@ A typical SPM rollout roughly moves through the modules in the following order. 
 
 To learn more about accessing and using Setup Hub \(SPM\), see:
 
--   [[spm-config-console-access|Access Setup Hub \(SPM\)]]
+-   [Access Setup Hub \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-config-console-access.md)
 -   [Modules in Setup Hub \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-config-console-modules.md)
 
 **Related topics**  
@@ -56,13 +56,3 @@ To learn more about accessing and using Setup Hub \(SPM\), see:
 
 [Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-landing.md)
 
-## Related
-
-- [[spm-config-console-modules|Modules in Setup Hub \(SPM\)]]
-- [[spm-config-console-access|Access Setup Hub \(SPM\)]]
-- [[spm-config-console-landing|Setup Hub \(SPM\)]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

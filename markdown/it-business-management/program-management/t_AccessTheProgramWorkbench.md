@@ -26,11 +26,11 @@ You can access the program workbench in one of the following ways.
 
 ## Procedure
 
-1.  Click the **[[c_ProgramWorkbench|Program Workbench]]** related link on the Program form.
+1.  Click the **Program Workbench** related link on the Program form.
 
 2.  Navigate to **Project** &gt; **Programs** &gt; **Workbench** and click the configuration icon \(\[Omitted image "PersonalizeIcon.png"\] Alt text: screenshot for configuration icon\) and select the colors for projects, tasks, programs, and so on.
 
-    The workbench uses these colors to display the items in the program in the [[c_GanttChart|Gantt chart]] in timeline view.
+    The workbench uses these colors to display the items in the program in the Gantt chart in timeline view.
 
     \[Omitted image "portfolio\_dashboard\_configuration.png"\] Alt text: screenshot for dashboard configuration
 
@@ -43,7 +43,3 @@ You can access the program workbench in one of the following ways.
 
 **Parent Topic:**[Program workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramWorkbench.md)
 
-## Related
-
-- [[c_ProgramWorkbench|Program workbench]]
-- [[c_GanttChart|Gantt chart]]

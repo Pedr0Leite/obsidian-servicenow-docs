@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager: Use cases, Transaction Manager, CPQ app, Confi
 
 # Transaction Manager use case: Apply parent line discounts to child lines
 
-[[transaction-manager|Transaction Manager]] can help manage transactions whose [[configurable-products-explore|configurable products]] have many child and grandchild transaction line items.
+Transaction Manager can help manage transactions whose configurable products have many child and grandchild transaction line items.
 
 A single transaction may include multiple configurable products, and each configurable product may have more than 100 child, grandchild, or other descendant transaction line items.
 
@@ -22,15 +22,9 @@ Using the `.parent` system field enables the look up of a parent line-item field
 
 \[Omitted image "cpq-txn-mgr-use-case-apply-line-discounts-1.png"\] Alt text: Discounting at the transaction header
 
-When **Parent Line Discounting** is selected, a rule [[cpq-sets|sets]] the descendant line’s discount field equal to that of its parent line.
+When **Parent Line Discounting** is selected, a rule sets the descendant line’s discount field equal to that of its parent line.
 
 \[Omitted image "cpq-txn-mgr-use-case-apply-line-discounts-2.png"\] Alt text: Discounting at the transaction header
 
-**Parent Topic:**[[transaction-manager-use-cases|Transaction Manager: Use cases]]
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 
-## Related
-
-- [[transaction-manager-use-cases|transaction manager use cases]]
-- [[transaction-manager|Transaction Manager]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]

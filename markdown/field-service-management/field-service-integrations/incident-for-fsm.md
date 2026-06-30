@@ -20,7 +20,7 @@ With ServiceNow Incident Management for Field Service, create work orders from a
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-Incident Management for Field Service provides an integration between the Incident Management and [[fsm-application-landing-page|Field Service Management]] applications. The Incident Management application enables ITIL agents to create work orders from incident requests in the CSM Configurable Workspace and ServiceNow AI Platform application. This integration provides a unified experience to ITIL agents by enabling them to track the progress of a related work order directly in the incident request.
+Incident Management for Field Service provides an integration between the Incident Management and Field Service Management applications. The Incident Management application enables ITIL agents to create work orders from incident requests in the CSM Configurable Workspace and ServiceNow AI Platform application. This integration provides a unified experience to ITIL agents by enabling them to track the progress of a related work order directly in the incident request.
 
 -   **[Activate Incident Management for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/Install-incident-for-fsm.md)**  
 You can install the Incident Management for Field Service application \(sn\_fsm\_inc\_mng\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
@@ -37,6 +37,3 @@ Various plugins, script includes, and business rules are installed with the Inci
 
 **Parent Topic:**[Integrating Field Service Management with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/integrate-fsm-other-applications.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

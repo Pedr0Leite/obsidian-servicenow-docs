@@ -14,15 +14,15 @@ breadcrumb: [Explore, Health and Safety Environmental Management, Health and Saf
 
 # Chemical management overview
 
-The [[hs-using-chemical-management|chemical management]] solution is designed to scale for organizations with large chemical inventories and complex conformance needs. It provides tools for managing chemical requests, approvals, and risk assessments, supporting safer workplace practices.
+The chemical management solution is designed to scale for organizations with large chemical inventories and complex conformance needs. It provides tools for managing chemical requests, approvals, and risk assessments, supporting safer workplace practices.
 
 ## Chemical management workflow
 
 The chemical management workflow enables chemical managers effectively track chemical libraries and manage chemical requests. This workflow promotes employee safety by providing accurate safety data to workers who handle chemicals. Integration with the 3E database enables you to access the latest chemical safety data online. In the chemical management workflow,
 
 -   The employee uses the chemical library to view or look for chemicals that they want to work with.
--   The employee can either select an existing chemical or request a new chemical from the [[employee-center-landing-page|Employee Center]].
--   The chemical manager receives the chemical request and can approve or reject it in the [[health-safety-core-workspace|Health and Safety Workspace]].
+-   The employee can either select an existing chemical or request a new chemical from the Employee Center.
+-   The chemical manager receives the chemical request and can approve or reject it in the Health and Safety Workspace.
 
 \[Omitted image "hs-chemical-mgmt-workflow.png"\] Alt text:
 
@@ -31,7 +31,7 @@ The chemical management workflow enables chemical managers effectively track che
 -   Centralized tracking of chemical inventories makes it easier to manage large lists and hazardous materials.
 -   Enhanced compliance support provides quick access to hazard information and Safety Data Sheets \(SDS\) for chemicals.
 -   Streamlined chemical request and approval workflows, including 3E integration with the Employee Center and the Health and Safety Workspace. This workflow simplifies and accelerates the process.
--   Automatic updates of hazard data through integration with external providers, such as [[hs-3e-protect|3E Protect]], promote the latest and most accurate safety information.
+-   Automatic updates of hazard data through integration with external providers, such as 3E Protect, promote the latest and most accurate safety information.
 -   Aggregation of hazard identification and ingredient data for chemical groups, supports risk assessment and safety planning.
 -   Facilitation of risk assessments by linking chemical requests to risk evaluation processes enables proactive hazard management.
 -   Support for document management with versioning and role-based access improves the ability to conduct audits and enhances the security of safety documents.
@@ -52,7 +52,7 @@ Chemical records can be organized into groups, enabling for aggregation of ingre
 
 Document management is integrated into the chemical record, enabling attachment and versioning of safety data sheets \(SDS\) and other relevant documents, such as standard operating procedures. This confirms that all documentation is up-to-date and accessible for audits or regulatory reviews.
 
-The system supports integration with external databases like 3E Protect, enabling automatic population of chemical metadata and safety information. Each chemical record can be associated with risk assessments and [[hs-job-safety-analysis|job safety analysis]], facilitating conformance and supporting robust safety planning throughout the organization.
+The system supports integration with external databases like 3E Protect, enabling automatic population of chemical metadata and safety information. Each chemical record can be associated with risk assessments and job safety analysis, facilitating conformance and supporting robust safety planning throughout the organization.
 
 ## Chemical group
 
@@ -60,10 +60,3 @@ A chemical group is a way to organize chemicals together within the system, allo
 
 **Parent Topic:**[Exploring Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-exploring-environmental-management.md)
 
-## Related
-
-- [[hs-using-chemical-management|Chemical management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-3e-protect|3E Protect]]
-- [[hs-job-safety-analysis|Job safety analysis]]

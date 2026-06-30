@@ -35,7 +35,7 @@ Each stage has one or more than one activity that you need to perform. Activitie
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics**.
 
 2.  Select the **Lifecycle management** tab.
 
@@ -85,7 +85,7 @@ Each stage has one or more than one activity that you need to perform. Activitie
 
     If your role or any other role that has permission to submit content requests, can create and submit a content request.
 
-    1.  Select the support portal link to open the [[am-landing-page|Asset Management]] Content Request page in a new tab.
+    1.  Select the support portal link to open the Asset Management Content Request page in a new tab.
     2.  On the form, fill in the fields.
     3.  Select **Submit** to submit the content request and return to the Create success activity page.
 15. Select **Submit** in the Create success activity page.
@@ -171,7 +171,3 @@ Each stage has one or more than one activity that you need to perform. Activitie
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[am-landing-page|Asset Management]]

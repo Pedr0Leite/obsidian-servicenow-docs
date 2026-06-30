@@ -16,11 +16,11 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Use the **glide.ui.m.blur\_ui\_when\_backgrounded** property to obfuscate all fields from the snapshot as the image is saved during the backgrounding process.
 
-On Android devices, the Android operating system takes a screenshot for usage in the recent task menu when the application is sent to background. [[users|Users]] can also take manual screenshots of the application, which are stored publicly on the device.
+On Android devices, the Android operating system takes a screenshot for usage in the recent task menu when the application is sent to background. Users can also take manual screenshots of the application, which are stored publicly on the device.
 
 On iOS devices, the iOS operating system also allows applications to save an image file. This file represents the last screen seen by the user when the application is sent to the background. While the intent is to provide a better user experience, it also creates a security risk because the images are saved as PNG image files.
 
-**Note:** This setting or [[sc-configuration|configuration]] is per instance basis so the user must connect to the instance with the property configured.
+**Note:** This setting or configuration is per instance basis so the user must connect to the instance with the property configured.
 
 To obfuscate all fields from the snapshot in the ServiceNow Classic app, see [Configure the blur app option to improve security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/t_BlurApp.md).
 
@@ -52,7 +52,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -111,8 +111,3 @@ Security risk
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -14,13 +14,8 @@ breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
 
 The Agents workspace enables you to create and view remediation action plans.
 
--   **[[mco-create-remediation-action-plan|Create a remediation action plan]]**  
-Create a remediation action plan for [[mco-PQI-use|product quality investigation]] case.
+-   **[Create a remediation action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-remediation-action-plan.md)**  
+Create a remediation action plan for product quality investigation case.
 
-**Parent Topic:**[[mco-agent-management|Agent management]]
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-create-remediation-action-plan|Create a remediation action plan]]
-- [[mco-agent-management|Agent management]]
-- [[mco-PQI-use|Product quality investigation]]

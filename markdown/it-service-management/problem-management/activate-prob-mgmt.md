@@ -14,7 +14,7 @@ breadcrumb: [Problem Management plugins, Configuring Problem Management, Problem
 
 # Activate Problem Management
 
-You can activate the [[c_ProblemManagement|Problem Management]] plugin \(com.snc.problem\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Problem Management plugin \(com.snc.problem\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ This plugin delivers content for Problem Overview home page.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -66,7 +66,3 @@ Several types of components are installed with activation of the Problem Managem
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[dex-workspace-application-tab|Applications]]

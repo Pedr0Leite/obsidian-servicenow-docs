@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Configure the Digital Portfolio Management experience
 
-If your organization doesn't use certain modules or life-cycle phases in [[dpm-landing|Digital Portfolio Management]] \(DPM\), then configure the experience by hiding those elements from user views.
+If your organization doesn't use certain modules or life-cycle phases in Digital Portfolio Management \(DPM\), then configure the experience by hiding those elements from user views.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dpm.dpm\_admin
 
 Configure the user experience in the DPM Workspace. You can also configure it using the UI Builder application but there's so much you can do in DPM. As a DPM admin, you can:
 
--   Hide entire tabs, certain sections of a tab, and solutions types \(for example, business [[dex-workspace-application-tab|applications]]\) from user views. After a tab or solution type is hidden, that item is also hidden in searches and filters.
+-   Hide entire tabs, certain sections of a tab, and solutions types \(for example, business applications\) from user views. After a tab or solution type is hidden, that item is also hidden in searches and filters.
 -   Hide available item types — services, technology management services, business services, service instances, service offerings, and business applications.
 -   Enable system properties to show:
 
@@ -79,7 +79,3 @@ See configuring DPM user views in action.
 
 [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

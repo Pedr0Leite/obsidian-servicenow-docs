@@ -12,7 +12,7 @@ breadcrumb: [Action functions, Mobile functions, Mobile app components, Building
 
 # Configure a contextual link to Virtual Agent
 
-Use [[mab-concept|Mobile App Builder]] to create a contextual link in your mobile application so that your users can connect to Virtual Agent and receive information that pertains to their issues. By using a contextual link, your users automatically receive the information that you define about the relevant record.
+Use Mobile App Builder to create a contextual link in your mobile application so that your users can connect to Virtual Agent and receive information that pertains to their issues. By using a contextual link, your users automatically receive the information that you define about the relevant record.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Perform the following steps in Mobile App Builder.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Functions** category, and then select **New**.
 
@@ -72,7 +72,7 @@ The kind of action item. Choose from the following:-   New
 -   Update
 -   Delete
 -   Script
--   MultiStep. For more information, see [[configure-action-steps|Configure action steps within an action item]].
+-   MultiStep. For more information, see [Configure action steps within an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-action-steps.md).
 Different fields appear on the action item form depending on the type of action you select.
 
 </td></tr><tr><td>
@@ -91,7 +91,7 @@ Execution script
 
 The script executed by the action. This field only appears if you select **Script** as the type. For more information, see the example below.
 
- To make use of an input from an [[parameter-input-screen|input form screen]] in your scripts, use `parm_input.<InputName>`
+ To make use of an input from an input form screen in your scripts, use `parm_input.<InputName>`
 
  To make use of a variable from an input form screen in your scripts, use `parm_variable.<VariableName>`.
 
@@ -117,7 +117,7 @@ Input form screen
 
 </td><td>
 
-Select an input form screen to use for this action item. See [[parameter-screen-config|Configure an input form screen]].
+Select an input form screen to use for this action item. See [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 </td></tr><tr><td>
 
@@ -141,17 +141,8 @@ Allows an action item to perform multiple processes.
 </table>6.  Select **Save**.
 
 
--   **[[sg-av-context-2|Create UI parameters for your Virtual Agent link]]**  
+-   **[Create UI parameters for your Virtual Agent link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-av-context-2.md)**  
 Create UI parameters to pass information from your record into Virtual Agent so that your users get the information they need for their issues.
--   **[[sg-mobile-virtual-agent|Enable Virtual Agent for mobile applications]]**  
+-   **[Enable Virtual Agent for mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-virtual-agent.md)**  
 Give your users the ability to chat with a virtual agent through a ServiceNow mobile application.
 
-## Related
-
-- [[configure-action-steps|Configure action steps within an action item]]
-- [[parameter-screen-config|Configure an input form screen]]
-- [[sg-av-context-2|Create UI parameters for your Virtual Agent link]]
-- [[sg-mobile-virtual-agent|Enable Virtual Agent for mobile applications]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[parameter-input-screen|Input form screen]]

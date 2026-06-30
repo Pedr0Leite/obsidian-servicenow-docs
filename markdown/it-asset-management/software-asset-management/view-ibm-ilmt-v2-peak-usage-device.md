@@ -22,21 +22,16 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  Open the [[operations-workspace|License operations view]].
+2.  Open the License operations view.
 
 3.  From the left navigation menu of the License operations view, navigate to **IBM ILMT V2 Integration** &gt; **Peak Consumption Breakdown By Device**.
 
 4.  View the highest full capacity and sub-capacity PVU, RVU, and VPC usage for your IBM software products by physical host or VM.
 
-    The [[c_SoftwareAssetMgmt|Software Asset Management]] application displays the highest usage within an aggregated time period of up to 90 days. You can define this aggregated time period in ILMT or BigFix Inventory.
+    The Software Asset Management application displays the highest usage within an aggregated time period of up to 90 days. You can define this aggregated time period in ILMT or BigFix Inventory.
 
 
 **Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

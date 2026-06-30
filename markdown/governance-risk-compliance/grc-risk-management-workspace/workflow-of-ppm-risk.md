@@ -14,7 +14,7 @@ breadcrumb: [Project Risk Assessment using Advanced Risk Assessment, Integrate, 
 
 # Workflow of project risk assessment
 
-To understand the integration of Project Portfolio Management and [[r_WhatIsGRC|Governance, Risk, and Compliance]] risk management capabilities, it is important to understand the workflow of project risk assessment.
+To understand the integration of Project Portfolio Management and Governance, Risk, and Compliance risk management capabilities, it is important to understand the workflow of project risk assessment.
 
 Project risk assessment follows a sequence of steps. Sometimes, a risk is elevated to an enterprise risk after the risk is assessed. An enterprise risk is a risk that can cause monetary or reputational losses. It can jeopardize your ability to stay in business.
 
@@ -28,7 +28,7 @@ The workflow of project risk assessment is as follows:
 3.  If the Project Integration Configuration form has stakeholders selected as assessors, then the project manager must manually assign the risks to the relevant stakeholder.
 4.  As a risk specialist, the risk assessor is notified about the new risks for assessment.
 
-    The risk assessor can use the link in the email notification to start the assessment. Alternatively, the risk assessor can navigate to **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **Risk Assessment Tasks** &gt; **My Tasks** to perform advanced risk assessment. See [Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md).
+    The risk assessor can use the link in the email notification to start the assessment. Alternatively, the risk assessor can navigate to **Advanced Risk Assessment** &gt; **Risk Assessment Tasks** &gt; **My Tasks** to perform advanced risk assessment. See [Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md).
 
 5.  In the project risk form, the project manager reviews the Risk Assessment Summary section to view the risk assessment scores.
 6.  If the project manager determines that the project risk has an impact on the enterprise, then the project manager can elevate the risk to an enterprise risk.
@@ -51,7 +51,3 @@ The key users and the user journey are shown in the following figures.
 
 **Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-ppm-better-together.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[advanced-risk-assessment|advanced risk assessment]]

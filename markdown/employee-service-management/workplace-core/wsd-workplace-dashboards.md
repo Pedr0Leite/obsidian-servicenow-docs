@@ -14,14 +14,14 @@ breadcrumb: [Analytics and Reporting, Workplace Core, Workplace Service Delivery
 
 # Workplace dashboards
 
-Use the [[workplace-dashboards-wsd-core|Workplace dashboards]] in [[workplace-safety-mgmt-hr|Workplace Core]] to get a consolidated view of multiple workplace-related metrics so you can quickly check space utilization and monitor the progress of workplace tasks.
+Use the Workplace dashboards in Workplace Core to get a consolidated view of multiple workplace-related metrics so you can quickly check space utilization and monitor the progress of workplace tasks.
 
 Real-time information provides insights to enable making decisions such as how many people in the workforce can be allowed at a given time into the office space. Track the workplace reservations, workplace cases and visitor registrations at any time.
 
 -   **[Workplace manager dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-workplace-manager-dashboard.md)**  
-Use the [[workplace-manager-dashboard|Workplace manager dashboard]] to monitor the space allocation and workplace maintenance activities at your office campus. For any given day, you can view the details for available spaces, space reservations, pending workplace requests, arrival times for different locations, employee arrivals, and maintenance tasks.
+Use the Workplace manager dashboard to monitor the space allocation and workplace maintenance activities at your office campus. For any given day, you can view the details for available spaces, space reservations, pending workplace requests, arrival times for different locations, employee arrivals, and maintenance tasks.
 -   **[Workplace dashboard in Workplace Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-workplace-dashboard.md)**  
-Use the Workplace Dashboard from [[workplace-services-portal-hr|Workplace Service Portal]] to visually analyze the available workspace capacity, space request and reservation trends, and monitor the maintenance tasks of your workplace. You can also reserve a space for an employee or create a workplace maintenance task directly from this Workplace Service Portal page.
+Use the Workplace Dashboard from Workplace Service Portal to visually analyze the available workspace capacity, space request and reservation trends, and monitor the maintenance tasks of your workplace. You can also reserve a space for an employee or create a workplace maintenance task directly from this Workplace Service Portal page.
 
 **Parent Topic:**[Analytics and reporting solutions for Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/analytics-reporting-for-wsd.md)
 
@@ -30,9 +30,3 @@ Use the Workplace Dashboard from [[workplace-services-portal-hr|Workplace Servic
 
 [View your workplace floor plan update logs]()
 
-## Related
-
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-manager-dashboard|Workplace Manager Dashboard]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

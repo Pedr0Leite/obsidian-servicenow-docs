@@ -20,15 +20,15 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Select the **Screens** category, and then select the [[form-screen|record screen]] you want to configure with an activity stream.
+3.  Select the **Screens** category, and then select the record screen you want to configure with an activity stream.
 
 4.  In the **Record screen segments** section, select **New**.
 
@@ -36,7 +36,7 @@ Role required: admin
 
 6.  In the **Embedded screen** section, select **New**.
 
-7.  Select **Activity stream** from the [[sg-studio-configure-applet-screens|Create a Screen]] screen, and then select **Continue**.
+7.  Select **Activity stream** from the Create a Screen screen, and then select **Continue**.
 
 8.  Complete the following fields as needed.
 
@@ -130,7 +130,7 @@ Hidden attachment sources
 
 </td><td>
 
-Choose values where you don’t want images sourced from. Select either one or more of the following sources: **Camera**, **Files**, and **Gallery**. For more information, see [[attachment-source-define|Define attachment sources available to users]].
+Choose values where you don’t want images sourced from. Select either one or more of the following sources: **Camera**, **Files**, and **Gallery**. For more information, see [Define attachment sources available to users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/attachment-source-define.md).
 
 </td></tr><tr><td>
 
@@ -174,10 +174,3 @@ The following file types are supported for previewing files:
 -   Some of the above file types require an external app to be installed on the device to open the file. For example, Android users can't open .docx files if Microsoft Word isn't installed on their device.
 -   Some other file types might work intermittently on iOS and Android devices, but ServiceNow does not support these other file types. ServiceNow only supports the above listed file types on both iOS and Android devices.
 
-## Related
-
-- [[attachment-source-define|Define attachment sources available to users]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[form-screen|Record screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

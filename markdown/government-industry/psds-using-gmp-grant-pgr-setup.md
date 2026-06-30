@@ -42,8 +42,5 @@ The Configure Application stage addresses the setup of application steps. Applic
 
 The final stage, Publish Opportunity, involves a thorough review of all preceding setup steps. At this point, a preview of the program announcement is presented to the Grant Program Manager for verification. Following the review, approval is requested from the Grant Program Director. Once approval is granted and all steps have been validated, the program can be published in accordance with the established timelines.
 
-After the Grant Program is set up, Grant Program Managers can view the details of the program, including all submitted proposals, milestones, and merit reviews through the case record page. For more information on the case record page, see [[psds-using-grants-management-playbook|https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-grants-management-playbook.md]].
+After the Grant Program is set up, Grant Program Managers can view the details of the program, including all submitted proposals, milestones, and merit reviews through the case record page. For more information on the case record page, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-grants-management-playbook.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-grants-management-playbook.md).
 
-## Related
-
-- [[psds-using-grants-management-playbook|Using Grants Management]]

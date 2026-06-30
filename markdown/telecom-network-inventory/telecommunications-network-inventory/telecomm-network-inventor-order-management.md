@@ -18,7 +18,7 @@ With the Order Management for Telecommunications and Media \(OMT\) application, 
 
 ## Introduction to OMT integration
 
-The order workflow generates the order tasks that fulfill the customer-facing service order \(CFS\) and resource-facing service order \(RFS\). Network-related tasks that involve the inventory configuration items \(CIs\), models, and templates, may interact with the [[telecom-network-inventory|Telecommunications Network Inventory]] application to create network CIs. For all network-related order tasks, you must create a change request in the Telecommunications Network Inventory application.
+The order workflow generates the order tasks that fulfill the customer-facing service order \(CFS\) and resource-facing service order \(RFS\). Network-related tasks that involve the inventory configuration items \(CIs\), models, and templates, may interact with the Telecommunications Network Inventory application to create network CIs. For all network-related order tasks, you must create a change request in the Telecommunications Network Inventory application.
 
 Following are the stages of the workflow:
 
@@ -32,7 +32,7 @@ Following are the stages of the workflow:
 5.  Build: In this stage, the service is physically built or implemented through FSM.
 6.  Activate: The service is deployed using activation procedure.
 
-To create a network CI, the Telecommunications Network Inventory and Order Management for Telecommunications applications are integrated to perform service or product tasks, such as [[telecommunications-circuit-design-resource-assignment|design and assign]]. A change request is initiated for the tasks that need a network inventory-related action.
+To create a network CI, the Telecommunications Network Inventory and Order Management for Telecommunications applications are integrated to perform service or product tasks, such as design and assign. A change request is initiated for the tasks that need a network inventory-related action.
 
 You must ensure that these conditions are met:
 
@@ -93,7 +93,3 @@ As a result, the Order Management for Telecommunications and Media application f
 
 [Telecommunications Network Inventory integration with Hardware Asset Management]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

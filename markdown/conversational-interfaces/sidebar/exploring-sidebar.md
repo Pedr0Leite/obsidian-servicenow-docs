@@ -15,7 +15,7 @@ breadcrumb: [Sidebar, Conversational Interfaces]
 
 # Exploring Sidebar
 
-[[using-sidebar|Using Sidebar]], agents can have real-time collaboration with others as a standalone conversation or based around a Workspace record. These [[sidebar-landing|Sidebar]] discussions facilitate the exchange of information and knowledge to help resolve issues faster and with higher-quality outcomes.
+Using Sidebar, agents can have real-time collaboration with others as a standalone conversation or based around a Workspace record. These Sidebar discussions facilitate the exchange of information and knowledge to help resolve issues faster and with higher-quality outcomes.
 
 ## Sidebar overview
 
@@ -25,7 +25,7 @@ An agent can initiate a Sidebar discussion as a standalone conversation or from 
 
 Sidebar is supported in these workspaces:
 
--   Customer Service [[management|Management]] \(CSM\) Configurable Workspace.
+-   Customer Service Management \(CSM\) Configurable Workspace.
 -   CSM Manager Workspace
 -   Human Resources \(HR\) Agent Workspace
 -   IT Service Management \(ITSM\) Manager Workspace
@@ -176,7 +176,7 @@ Description
 Displays the user's avatar and presence \(online status\). The dot indicates the user's presence depending on whether they’re logged in to the platform: -   Green dot - user is logged in.
 -   No dot - user isn’t logged in.
 -   Orange dot - user recently logged out.
-If [[sidebar-teams-overview|Sidebar and Microsoft Teams]] are integrated, Microsoft Teams users are differentiated from Sidebar users with a Microsoft Teams \[Omitted image "teams-icon.png"\] Alt text: Microsoft Teams icon icon. If [[sidebar-slack-overview|Sidebar and Slack]] are integrated, Slack users are differentiated from Sidebar users with a Slack icon \( \[Omitted image "slack-icon.png"\] Alt text: Slack icon.\).
+If Sidebar and Microsoft Teams are integrated, Microsoft Teams users are differentiated from Sidebar users with a Microsoft Teams \[Omitted image "teams-icon.png"\] Alt text: Microsoft Teams icon icon. If Sidebar and Slack are integrated, Slack users are differentiated from Sidebar users with a Slack icon \( \[Omitted image "slack-icon.png"\] Alt text: Slack icon.\).
 
 </td></tr></tbody>
 </table><table id="table_i3d_hzq_1yb"><thead><tr><th>
@@ -282,7 +282,7 @@ To enable agents to post Sidebar discussions to the activity stream, you must in
 
 ## Installing and configuring Sidebar
 
-The Sidebar configuration settings are available via the Sidebar tab under **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**. For instructions, see [Installing Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/install-sidebar.md). After Sidebar is installed, see [Configuring Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/configure-sidebar.md) for instructions on configuring the admin settings.
+The Sidebar configuration settings are available via the Sidebar tab under **Conversational Interfaces** &gt; **Settings**. For instructions, see [Installing Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/install-sidebar.md). After Sidebar is installed, see [Configuring Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/configure-sidebar.md) for instructions on configuring the admin settings.
 
 ## Using Sidebar
 
@@ -320,11 +320,3 @@ For information about domain separation in Sidebar, see [Domain separation and S
 
 To learn more, see the [Now learning course on Sidebar.](https://learning.servicenow.com/lxp?course_id=f1a907258736919cd3be437e0ebb3523&id=learning_course_prev)
 
-## Related
-
-- [[using-sidebar|Using Sidebar]]
-- [[sidebar-landing|Sidebar]]
-- [[management|Management]]
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]
-- [[sidebar-slack-overview|Sidebar and Slack]]
-- [[convint-landing-page|Conversational Interfaces]]

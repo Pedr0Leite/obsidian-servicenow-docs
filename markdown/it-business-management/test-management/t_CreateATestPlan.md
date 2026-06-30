@@ -22,7 +22,7 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Click **New**.
 
@@ -138,7 +138,7 @@ Actual end date for the test plan. The actual end date can be before the planned
 
 You can use the related links and related lists of the new test suite for the following actions:
 
--   Add existing [[c_TestCases|test cases]] to this test plan from a test suite by clicking the **Add Test Cases from Test Suite** related link.
+-   Add existing test cases to this test plan from a test suite by clicking the **Add Test Cases from Test Suite** related link.
 -   Add new test cases to this test plan from the Test Cases related list. For more information, see [Add a new test case to a test plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_AddANewTestCaseToATestPlan.md).
 -   Save this test plan as a new test suite by clicking the **Save as Test Suite** related link. A new test suite is created with all the test cases of this plan making them available to add to another test plan.
 -   Start the test plan and notify the testers about the target end date for testing by using the **Notify Tester** related link. For more information, see [Initiate guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_InitiateGuidedTestExecution.md).
@@ -191,7 +191,3 @@ Configure the Test Plan form layout to display the planned and actual start and 
 
 The Test Plan form is displayed with the newly added date fields.
 
-## Related
-
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]

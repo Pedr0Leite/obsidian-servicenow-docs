@@ -16,7 +16,7 @@ The BCM administrators configure the Impact analysis dependency update configura
 
 ## Impact analysis dependency update configuration record
 
-The BCM administrators access the Impact analysis dependency update configuration record by navigating to **General [[Administration|Administration]]** in the application UI. The record contains the configuration details such as the name, order, target records, sources, and notification preferences as shown in the example.
+The BCM administrators access the Impact analysis dependency update configuration record by navigating to **General Administration** in the application UI. The record contains the configuration details such as the name, order, target records, sources, and notification preferences as shown in the example.
 
 \[Omitted image "impact-ana-dep-update-config.png"\] Alt text: Impact analysis dependencies update.
 
@@ -32,20 +32,14 @@ The BCM administrators select the **Auto-update dependencies** option to schedul
 
 The BCM administrators select the **Send notification** option to notify the BIA owners about the updated dependencies. The email notification contains the details of the dependency updates for the BIA records.
 
-The snapshot records are displayed in the Pending updates record of the BIA from the [[list-view-uib-ws|list view]]. The delta snapshot record displays details of the BIA and updated dependency configuration such as Added, Updated, and Deleted assets for the BIA.
+The snapshot records are displayed in the Pending updates record of the BIA from the list view. The delta snapshot record displays details of the BIA and updated dependency configuration such as Added, Updated, and Deleted assets for the BIA.
 
 BIA owners then update the CMDB assets and dependencies manually by selecting the **Update dependencies** UI action displayed in the Dependency assessment of the BIA. The BIA owners or BIA approvers then review the dependency updates and save the changes to the BIA.
 
-For more information on configuring the Impact analysis dependency update configuration record, see [[configure-imp-ana-dep-update-module|Set up Impact analysis dependency update configuration]].
+For more information on configuring the Impact analysis dependency update configuration record, see [Set up Impact analysis dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-imp-ana-dep-update-module.md).
 
 -   **[Set up Impact analysis dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-imp-ana-dep-update-module.md)**  
 Configure the Impact analysis dependency update configuration record to configure the BIA record \(for which the dependencies are updated\), its target records, sources, and notification preferences.
 
-**Parent Topic:**[[dependency-config-modules|Dependency Configuration records]]
+**Parent Topic:**[Dependency Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/dependency-config-modules.md)
 
-## Related
-
-- [[configure-imp-ana-dep-update-module|Set up Impact analysis dependency update configuration]]
-- [[dependency-config-modules|Dependency Configuration records]]
-- [[Administration|Administration]]
-- [[list-view-uib-ws|List view]]

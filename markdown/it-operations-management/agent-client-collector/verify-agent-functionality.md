@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
 2.  Select an agent that is running \(**Status = Up**\).
 
@@ -55,6 +55,3 @@ Role required: agent\_client\_collector\_admin
 
 In the **Agent Self Test Logs** table on the bottom of the page, you can view the level of the failed test \(ERROR or WARNING\), and a resolution for the failed test.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

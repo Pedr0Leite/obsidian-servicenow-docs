@@ -24,7 +24,7 @@ Omnichannel brings together customer communications from email, chat, voice, mes
 
 -   **Email**
 
-    Track, route, and resolve all emails in ServiceNow. Two workflows are available: Email as Interaction creates an interaction record for agent review before optionally converting to a case. [[email-to-case|Email to Case]] automatically creates and populates a case record, with all replies threaded within it. Full conversation history is preserved in both workflows.
+    Track, route, and resolve all emails in ServiceNow. Two workflows are available: Email as Interaction creates an interaction record for agent review before optionally converting to a case. Email to Case automatically creates and populates a case record, with all replies threaded within it. Full conversation history is preserved in both workflows.
 
 -   **Messaging**
 
@@ -51,21 +51,12 @@ Throughout the journey, customers don't repeat themselves, and every agent has a
 
 |Channels|Role|Benefits|
 |--------|----|--------|
-|[[c_ChatFeature|Chat]]|Agent|Access full customer details and case history during each conversation and use wrap-up codes to record outcomes when closing.|
-|Admin|Configure chat queues, routing [[gamification-components-rules|rules]], Virtual Agent, and agent capacity settings to manage workload across teams.|
-|[[c_CustomerServiceEmailCommunication|Email]]|Agent|Manage inbound and outbound email with AI-generated summaries, wrap-up codes, and a full [[csm-config-ws-activity-stream|activity stream]] to capture context quickly without manually reviewing long email threads.|
+|[Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ChatFeature.md)|Agent|Access full customer details and case history during each conversation and use wrap-up codes to record outcomes when closing.|
+|Admin|Configure chat queues, routing rules, Virtual Agent, and agent capacity settings to manage workload across teams.|
+|[Email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceEmailCommunication.md)|Agent|Manage inbound and outbound email with AI-generated summaries, wrap-up codes, and a full activity stream to capture context quickly without manually reviewing long email threads.|
 |Admin|Set up and manage email routing rules, inboxes, and AI summarization settings to streamline agent workflows.|
-|[[messg-integrate-channels|Messaging]]|Agent|Manage messaging interactions at a flexible pace and transfer them without losing conversation history.|
+|[Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrate-channels.md)|Agent|Manage messaging interactions at a flexible pace and transfer them without losing conversation history.|
 |Admin|Configure and manage multiple messaging channels from a single interface.|
-|[[c_PhoneCommunication|Voice]]|Agent|Handle inbound and outbound voice interactions with full customer context and case data available before the interaction begins and use wrap-up codes to record outcomes when closing.|
+|[Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_PhoneCommunication.md)|Agent|Handle inbound and outbound voice interactions with full customer context and case data available before the interaction begins and use wrap-up codes to record outcomes when closing.|
 |Admin|Configure CCaaS integration and routing rules within ServiceNow without switching platforms.|
 
-## Related
-
-- [[c_ChatFeature|Configuring the chat channel]]
-- [[c_CustomerServiceEmailCommunication|Configuring the email channel]]
-- [[messg-integrate-channels|Integrating with consumer messaging apps]]
-- [[c_PhoneCommunication|Configuring the phone channel]]
-- [[email-to-case|Email to case]]
-- [[gamification-components-rules|Rules]]
-- [[csm-config-ws-activity-stream|Activity stream]]

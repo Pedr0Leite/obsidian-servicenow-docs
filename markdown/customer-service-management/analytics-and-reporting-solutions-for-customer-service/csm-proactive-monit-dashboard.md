@@ -18,7 +18,7 @@ The Proactive Customer Service - Advanced dashboard helps customer service manag
 
 **Important:** Starting with the Xanadu release, the Proactive Customer Service- Advanced dashboard has a new, modernized look and feel.
 
-To access the new Proactive Customer Service- Advanced dashboard, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **-Dashboard**, and select the Proactive Customer Service-Advanced dashboard. Upgrade customers can view the [[proactive-service-operations|Proactive Customer Service Operations]] dashboard but should use the new Proactive Customer Service - Advanced dashboard.New customers on the Orlando and later releases can only view the Proactive Customer Service - Advanced dashboard.
+To access the new Proactive Customer Service- Advanced dashboard, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **-Dashboard**, and select the Proactive Customer Service-Advanced dashboard. Upgrade customers can view the Proactive Customer Service Operations dashboard but should use the new Proactive Customer Service - Advanced dashboard.New customers on the Orlando and later releases can only view the Proactive Customer Service - Advanced dashboard.
 
 \[Omitted image "proactive-dashboard-overview-tab.png"\] Alt text: Tab displaying different proactive case records and graph of affected customers per month from the Proactive Customer Service - Advanced dashboard.
 
@@ -48,7 +48,7 @@ The Proactive Service - Advanced dashboard provides the following key performanc
 
     Percentage of proactive cases promoted to a major case.
 
--   **Affected Customers and [[install-base-item|Install Base Items]]**
+-   **Affected Customers and Install Base Items**
 
     Number of customers affected per month.
 
@@ -88,7 +88,3 @@ The following breakdowns apply to the indicators on the dashboard:
 -   Unplanned Outages
 -   Degradations
 
-## Related
-
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[install-base-item|Install base items]]

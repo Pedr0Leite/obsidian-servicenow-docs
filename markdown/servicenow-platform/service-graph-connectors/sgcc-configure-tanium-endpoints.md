@@ -14,11 +14,11 @@ breadcrumb: [Tanium Endpoints, Service Graph Connectors, Integrating third-party
 
 # Configure Service Graph Connector for Tanium Endpoints using SGC Central
 
-Use the playbook in [[sgcc-landing|SGC Central]] to set up the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]] and pull Tanium data into your CMDB.
+Use the playbook in SGC Central to set up the Service Graph Connector for Tanium Endpoints and pull Tanium data into your CMDB.
 
 ## Before you begin
 
-**Important:** The Service Graph Connector for Tanium Endpoints populates the Computer class with user-facing endpoints, and doesn't import data from the Server child class. Use this connector if you don't require Server data. If you require Server data, use the [[cmdb-integration-tanium|Service Graph Connector for Tanium]].
+**Important:** The Service Graph Connector for Tanium Endpoints populates the Computer class with user-facing endpoints, and doesn't import data from the Server child class. Use this connector if you don't require Server data. If you require Server data, use the Service Graph Connector for Tanium.
 
 Install Service Graph Connector for Tanium Endpoints from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
@@ -29,17 +29,17 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
 1.  Use one of the following methods to open SGC Central:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and from the left navigation panel, select the Ingestion icon \[Omitted image "icon-sgc-central.png"\] to open the SGC Central view.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**, and from the left navigation panel, select the Ingestion icon \[Omitted image "icon-sgc-central.png"\] to open the SGC Central view.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **SGC Central**.
 2.  On the Overview page, select **Create connection**.
 
@@ -47,7 +47,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the connection for importing Tanium data.
 
@@ -77,7 +77,7 @@ Host name
 
 </td><td>
 
-Base URL or [[ip-address|IP address]] of the Tanium server.
+Base URL or IP address of the Tanium server.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Authentication token for the Tanium API that grants access to the Tanium data \(
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -101,7 +101,7 @@ MID selection
 
 </td><td>
 
-Name of the MID Server used by the connector.This field appears only when the **Use MID Server** [[check-box|check box]] is selected.
+Name of the MID Server used by the connector.This field appears only when the **Use MID Server** check box is selected.
 
 </td></tr></tbody>
 </table>    3.  Select **Create and test connection**.
@@ -145,7 +145,7 @@ Name of the MID Server used by the connector.This field appears only when the **
              }
             ```
 
-        **Note:** The normalized sensor name \(in the **SG-Tanium-Endpoints Sensors** table\) is used to look up the sensor's data in the endpoint JSON payload. This name is derived from the sensor name by removing whitespaces and replacing special characters with underscores. Use this value when configuring Robust Transform Engine \(RTE\) mappings or for any downstream lookup that [[reference-document-management|references]] the sensor by its JSON key.
+        **Note:** The normalized sensor name \(in the **SG-Tanium-Endpoints Sensors** table\) is used to look up the sensor's data in the endpoint JSON payload. This name is derived from the sensor name by removing whitespaces and replacing special characters with underscores. Use this value when configuring Robust Transform Engine \(RTE\) mappings or for any downstream lookup that references the sensor by its JSON key.
 
     5.  Select **Mark as complete**.
 
@@ -166,19 +166,5 @@ Name of the MID Server used by the connector.This field appears only when the **
 
 Select **View all connections** to review the connection details.
 
-You can manage connections from the SGC Central view of the CMDB Workspace. For more information, see [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]].
+You can manage connections from the SGC Central view of the CMDB Workspace. For more information, see [Managing connections added for Service Graph Connectors in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md).
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[cmdb-integration-tanium|Service Graph Connector for Tanium]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[reference-document-management|References]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage work order tasks, Prepare work orders, Use, Field Service Ma
 
 # Exclude Field Service technicians from being assigned work order tasks
 
-Exclude Field Service technicians from being assigned work order tasks with [[dynamic-scheduling|dynamic scheduling]], or [[schedule-optimization|Schedule Optimization]].
+Exclude Field Service technicians from being assigned work order tasks with dynamic scheduling, or Schedule Optimization.
 
 ## Before you begin
 
@@ -38,7 +38,4 @@ If you’re using Technician Preferences for dynamic scheduling, then you must h
 
 7.  Select **Update**.
 
-## Related
 
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]

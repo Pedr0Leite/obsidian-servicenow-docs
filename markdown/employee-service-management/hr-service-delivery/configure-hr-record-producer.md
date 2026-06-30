@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-To avoid creating duplicate services, do not create a new HR catalog item. Instead, [[wsd-create-record-producer|configure a record producer]] to link your existing HR service to the HR service catalog. For optimal performance, use one record producer per HR service.
+To avoid creating duplicate services, do not create a new HR catalog item. Instead, configure a record producer to link your existing HR service to the HR service catalog. For optimal performance, use one record producer per HR service.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Open the HR service.
 
@@ -113,7 +113,7 @@ Expand help for all questions
 
     -   Checkbox
     -   Multiple Choice
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     -   Select Box
     -   Single Line Text
     To learn more about the different types of variables and how to configure them, see [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_VariableTypes.md).
@@ -122,7 +122,7 @@ Expand help for all questions
 
     User criteria controls which employees can access and request the HR catalog item in the HR service catalog. To learn more about user criteria and how they are used to control access to HR catalog items, see [Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceCatalogAccessControls.md).
 
-    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the [[hr-criteria|HR criteria]] that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md) for more information.
+    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the HR criteria that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md) for more information.
 
 8.  Click **Submit** or **Update** on the record producer form.
 
@@ -135,11 +135,3 @@ Expand help for all questions
 
 **Next topic:**[HR service catalog management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-catalog-management.md)
 
-## Related
-
-- [[wsd-create-record-producer|Configure a Record producer]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-criteria|HR criteria]]

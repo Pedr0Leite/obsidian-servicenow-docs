@@ -14,11 +14,11 @@ breadcrumb: [UI Builder for Agent Workspace for HR Case Management, Setting up A
 
 # Configure quick links in Agent Workspace for HR Case Management
 
-Configure [[emp-center-quick-link-config|quick links]] to quickly access internal and external resources related to specific departments within your organization.
+Configure quick links to quickly access internal and external resources related to specific departments within your organization.
 
 ## Before you begin
 
-[[employee-center-pro-landing|Employee Center Pro]] must be installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md).
+Employee Center Pro must be installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md).
 
 Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
@@ -170,7 +170,7 @@ Final date the content is valid.
 
 4.  Map the link created above to the Quick link component in UI Builder.
 
-    1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[uib-aws|UI Builder for Agent Workspace for HR Case Management]]**.
+    1.  Navigate to **All** &gt; **HR Case Management** &gt; **UI Builder for Agent Workspace for HR Case Management**.
 
     2.  Select **Landing page default** if you have not configured a landing page variant.
 
@@ -196,9 +196,3 @@ Final date the content is valid.
 
 [Reorder the navigation pane modules in HR Agent Workspace]()
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[case-management-workspace|Case management]]
-- [[uib-aws|UI Builder for Agent Workspace for HR Case Management]]

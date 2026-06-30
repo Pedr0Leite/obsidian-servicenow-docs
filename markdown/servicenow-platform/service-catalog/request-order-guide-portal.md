@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog in Service Portal, Integrating Service Catalog, Ser
 
 # Request an order guide from Service Portal
 
-Use the SC Order Guide widget on Service Portal to [[t_OrderProcess|request an order guide]] with several catalog items for a specific purpose.
+Use the SC Order Guide widget on Service Portal to request an order guide with several catalog items for a specific purpose.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
     The Service Portal homepage is displayed.
 
-2.  Select an order guide from [[service-catalog|Service Catalog]].
+2.  Select an order guide from Service Catalog.
 
 3.  In the **Describe Needs** section, enter the required information and click **Next**.
 
@@ -49,7 +49,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
         **Note:** When the item is excluded from the order guide request, the item is not editable and the corresponding mandatory field restrictions are ignored.
 
-    3.  To add an [[attachment|attachment]] for the catalog item, click the Add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: Icon to add attachments\) and select the required attachment.
+    3.  To add an attachment for the catalog item, click the Add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: Icon to add attachments\) and select the required attachment.
 
     4.  Click **Previous** to navigate to the **Describe Needs** section.
 
@@ -96,7 +96,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
     -   Use the instance options on the Order Status page to display the pre-defined columns.
     -   You can display either the RITM number or the name of the catalog item. By default, the name of the catalog item is displayed.
-13. To [[t_UsingBulkRequests|clone a request]] for other users, perform the following steps.
+13. To clone a request for other users, perform the following steps.
 
     1.  In the **Additional Actions** section, from the **Also request for** list, select the required users and click **Submit**.
 
@@ -106,9 +106,9 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
         -   The logged in user should be specified in the **List of roles \(comma-separated\) that can use bulk ordering functionality. Blank means all users** \(**glide.sc.allow.clone.roles**\)\) property.
         -   You can clone the request for multiple users.
-        -   If a [[c_RecordProducer|record producer]] is included in the order guide, a request is created for all items other than the record producer.
+        -   If a record producer is included in the order guide, a request is created for all items other than the record producer.
         -   When you clone a request that contains a multi-row variable set, the information that is specified in the multi-row variable set is available in all cloned requests. All UI policies and client scripts on the multi-row variable set are also cloned.
-        -   A separate request is created for each specified user and that user is displayed in the **[[requested-for|Requested For]]** field of the request.
+        -   A separate request is created for each specified user and that user is displayed in the **Requested For** field of the request.
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   A user can view the cloned request created for the user from the **Requests** menu option or the My Requests widget on the catalog homepage.
 
@@ -117,7 +117,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 **Related topics**  
 
 
-[Access [[c_ServiceCatalogCategories|Service Catalog categories]] in Service Portal]()
+[Access Service Catalog categories in Service Portal]()
 
 [Add an item to the wish list in Service Portal]()
 
@@ -129,12 +129,3 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
 [Create an order guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md)
 
-## Related
-
-- [[t_OrderProcess|Request an order guide]]
-- [[service-catalog|Service Catalog]]
-- [[attachment|Attachment]]
-- [[t_UsingBulkRequests|Clone a request]]
-- [[c_RecordProducer|Record Producer]]
-- [[requested-for|Requested for]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

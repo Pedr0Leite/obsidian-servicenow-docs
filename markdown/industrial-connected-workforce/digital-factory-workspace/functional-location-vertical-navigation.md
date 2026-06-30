@@ -15,7 +15,7 @@ breadcrumb: [Operational Equipment Model, Industrial Data Models, Use, Digital F
 
 # Functional location vertical navigation
 
-The functional location view in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] uses a vertical navigation panel and a breadcrumb trail so that you can move between sections of a functional location and between locations in the equipment model.
+The functional location view in the Digital Factory Workspace uses a vertical navigation panel and a breadcrumb trail so that you can move between sections of a functional location and between locations in the equipment model.
 
 The functional location view in the Digital Factory Workspace arranges the equipment model in a vertical layout. A panel on the left lists the sections that are available for the selected functional location, and the main area shows the content for the section that you select.
 
@@ -45,6 +45,3 @@ Use these elements to move between sections and locations in the functional loca
 
 **Parent Topic:**[Operational Equipment Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/operational-equipment-model.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

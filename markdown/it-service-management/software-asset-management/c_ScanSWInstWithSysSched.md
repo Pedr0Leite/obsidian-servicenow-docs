@@ -14,12 +14,9 @@ breadcrumb: [Determine where software is installed using the legacy Software Ass
 
 # Scan software installations with the system scheduler
 
-The legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin adds a scheduled job for scanning software installations named **SAM License Counters** in **System Scheduler** &gt; **Scheduled Jobs**.
+The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin adds a scheduled job for scanning software installations named **SAM License Counters** in **System Scheduler** &gt; **Scheduled Jobs**.
 
 The **SAM License Counters** job occurs at 2:00am \(local time\) every morning. The job queries the Software Installation \[cmdb\_sam\_sw\_install\] table and captures any installations that have not been scanned in the past 7 days.
 
 **Parent Topic:**[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

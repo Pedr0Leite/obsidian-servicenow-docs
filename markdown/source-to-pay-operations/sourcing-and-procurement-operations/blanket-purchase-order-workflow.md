@@ -14,9 +14,9 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Blanket purchase order workflow
 
-During checkout, when a shopper selects **I am not sure** in the delivery date option, it creates a [[purchase-requisition|purchase requisition]] with a blanket order type, which results in the creation of a blanket [[purchase-order-table|purchase order]].
+During checkout, when a shopper selects **I am not sure** in the delivery date option, it creates a purchase requisition with a blanket order type, which results in the creation of a blanket purchase order.
 
-Purchasing permissions define the list of users, groups, cost centers, or departments that are allowed to purchase against the blanket purchase order without requiring any approvals. As [[receipts|receipts]] and [[invoices|invoices]] are not applicable for blanket purchase orders, these related lists are not displayed on the purchase order form view.
+Purchasing permissions define the list of users, groups, cost centers, or departments that are allowed to purchase against the blanket purchase order without requiring any approvals. As receipts and invoices are not applicable for blanket purchase orders, these related lists are not displayed on the purchase order form view.
 
 For details on the various fields and related lists that are populated for a blanket purchase order, see [Purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-order.md).
 
@@ -29,7 +29,7 @@ A standard purchase order release is created when the following conditions are s
     The business owner who requested the original blanket purchase order can always release against the blanket purchase order even if they are not explicitly defined under the purchasing permission.
 
 -   Creation date of the standard purchase line falls within the range of the blanket line’s start and end date.
--   [[supplier|Supplier]] product purchased is defined as a supplier product on the blanket purchase order.
+-   Supplier product purchased is defined as a supplier product on the blanket purchase order.
 -   Funds must be available on the blanket purchase order. The value of the **Released amount** field on the blanket purchase order must be less than the value in the **Total amount** field.
 
 The standard purchase order release has a reference to the blanket purchase order and will be displayed under the Purchase Order Releases related list on the blanket purchase order.
@@ -47,10 +47,3 @@ To check if a request should be considered as a release against an existing blan
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]

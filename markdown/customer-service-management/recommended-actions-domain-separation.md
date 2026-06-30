@@ -12,7 +12,7 @@ breadcrumb: [Recommended Actions, Recommended Actions configuration, Implement I
 
 # Domain separation and Recommended Actions
 
-Domain separation is supported for [[configure-nba|Recommended Actions]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Recommended Actions. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -34,7 +34,7 @@ The tables and data in the application are domain separated. Recommendation auth
 
 To use domain separation in the Recommended Actions application, you can create separate Context records for each domain. Context serves as a starting point in Recommended Actions. All other configurations such as Rule, Recommendation, and Resource Generator can then be associated with the domain of the corresponding context record.
 
-Runtime evaluation and generation of recommendations are user-specific. The user's domain is selected and the corresponding [[gamification-components-rules|Rules]] applicable to the user are evaluated to give final recommendations to the end user. Execution records created use the same domain of the context that are applicable for the given user.
+Runtime evaluation and generation of recommendations are user-specific. The user's domain is selected and the corresponding Rules applicable to the user are evaluated to give final recommendations to the end user. Execution records created use the same domain of the context that are applicable for the given user.
 
 ## Domain-separated tables
 
@@ -63,7 +63,3 @@ When you create related entities for a context, the domain for the related entit
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]

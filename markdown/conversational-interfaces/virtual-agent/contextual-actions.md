@@ -28,7 +28,7 @@ User inputs can be mapped to a contextual action in two ways.
 |Name|Description|
 |----|-----------|
 |Agent|Command to request transfer to a live agent|
-|Bye|Command to end a conversation with a live agent or a [[virtual-agent-landing-page|virtual agent]] whenever you are outside of a topic-selection prompt|
+|Bye|Command to end a conversation with a live agent or a virtual agent whenever you are outside of a topic-selection prompt|
 |Help|Command to request help using the bot|
 |Hi|Command to start or end a conversation|
 |Logout|Command to unlink the user messaging account from ServiceNow|
@@ -88,7 +88,7 @@ Applicability
 </td><td>
 
 Application in which the command is used:-   Virtual Agent only
--   [[ci-use-agent-chat|Agent Chat]] only
+-   Agent Chat only
 -   Virtual Agent and Agent Chat
 
 </td></tr></tbody>
@@ -119,7 +119,3 @@ Application in which the command is used:-   Virtual Agent only
 
 [Create bot messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-bot-messages.md) specific to each channel.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

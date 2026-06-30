@@ -30,7 +30,7 @@ The set up involves specifying the fields that gets highlighted and the conditio
 
 You cannot highlight the following field types:
 
--   [[reference-email-admin|Reference]]
+-   Reference
 -   URL
 -   Document IDs
 
@@ -99,9 +99,5 @@ You cannot highlight the following field types:
         Now, regardless of the conditions, Workspace will not highlight any fields in the specified filtered list. This option does not work, however, for filtered lists in **My Lists**, which are the filtered lists agents create.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[reference-email-admin|Reference]]

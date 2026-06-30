@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Duplication Rules**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Duplication Rules**.
 
 2.  Select **New**.
 
@@ -187,9 +187,5 @@ Select this check box to activate the action.
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[[shared-data-transformation|Shared data transformation]]
+**Parent Topic:**[Shared data transformation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/shared-data-transformation.md)
 
-## Related
-
-- [[shared-data-transformation|Shared data transformation]]
-- [[security-operations-landing-page|Security Operations]]

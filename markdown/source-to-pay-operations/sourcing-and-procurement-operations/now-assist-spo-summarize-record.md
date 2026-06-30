@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for SPO, Sourcing and Procurement Operations, Finan
 
 # Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace
 
-As a fulfiller, summarize procurement-related records to know about their status, progress, and action items by using the record summarization skills in the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application.
+As a fulfiller, summarize procurement-related records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 ## About this task
 
-You can use these record summarization skill in either Core UI or [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can use these record summarization skill in either Core UI or Source-to-Pay Workspace.
 
 -   In Core UI, the summary appears in a banner in the record record.
 -   In Source-to-Pay Workspace, the summary is generated in the **Details** tab.
@@ -48,9 +48,9 @@ Do this
 To generate a summary for the following records:-   Negotiation
 -   Procurement case
 -   Procurement task
--   [[purchase-requisition|Purchase requisition]]
+-   Purchase requisition
 -   Sourcing event
--   [[sourcing-request|Sourcing request]]
+-   Sourcing request
 -   Sourcing task
 
 
@@ -59,9 +59,9 @@ To generate a summary for the following records:-   Negotiation
 1.  Navigate to **Lists** &gt; **All work**.
 2.  Select any of the following modules and select the record link in the Number column.
     -   Cases
-    -   [[negotiations|Negotiations]]
+    -   Negotiations
     -   Requisitions
-    -   [[negotiation-events|Sourcing events]]
+    -   Sourcing events
     -   Sourcing requests
 
 
@@ -161,11 +161,3 @@ If you want to refresh the summary, select the refresh icon \(\[Omitted image "i
 
 [Analyze sentiment in procurement cases]()
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]

@@ -52,7 +52,7 @@ Data source
 
 </td><td>
 
-Only table data sources listed in the Semantic Table Configuration table are supported. See [[add-table-semantic-layer|Add a table to the semantic data layer]].
+Only table data sources listed in the Semantic Table Configuration table are supported. See [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Only English is supported
 
 </td></tr><tr><td>
 
-[[technical-dashboards|Technical dashboards]]
+Technical dashboards
 
 </td><td>
 
@@ -133,10 +133,5 @@ Data visualizations can be added only to dashboards that are created in the inli
 -   Specify a single time period per query.
 -   Avoid multiple conditions in a single query.
 
-**Parent Topic:**[[use-dv-generation|Generate visualizations in the Now Assist panel]]
+**Parent Topic:**[Generate visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-dv-generation.md)
 
-## Related
-
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[use-dv-generation|Generate visualizations in the Now Assist panel]]
-- [[technical-dashboards|Technical dashboards]]

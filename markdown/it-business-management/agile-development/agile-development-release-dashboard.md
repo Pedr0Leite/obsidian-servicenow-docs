@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development
 
 Track the progress of your stories and analyze scope changes in the current release using Agile 2.0 Release Dashboard.
 
-Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Dashboards** and select **Agile 2.0 Release Dashboard**.
+Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Release Dashboard**.
 
 \[Omitted image "agile-release-summary.png"\] Alt text: Release summary
 
@@ -57,7 +57,7 @@ scrum\_user
 
 </td><td>
 
--   [[t_SDLCPPSTrackProgress|Track progress]] of your stories that are planned for a release
+-   Track progress of your stories that are planned for a release
 -   Resolve any bottlenecks to deliver the release on time
 -   Identify outlier stories that took longer than expected
 
@@ -113,7 +113,7 @@ scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   Release Cumulative Flow Diagram
 -   Story Cycle Time
@@ -241,8 +241,3 @@ Identify the time taken for each story in the release to move from an in-progres
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]]

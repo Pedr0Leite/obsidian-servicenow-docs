@@ -14,11 +14,11 @@ breadcrumb: [Use risk intelligence reports and scores, Third-party Risk Manageme
 
 # Request a risk intelligence report associated with a due diligence request
 
-[[tprm-riskintel-request-tp|Request a risk intelligence report]] \(RIR\) or score to gain insight on how trustworthy a particular third party can be as part of the due diligence request process by using the Third-party Risk Management application. By associating your RIR request with a due diligence request, all activity, scores, reports, and details are available for you to see.
+Request a risk intelligence report \(RIR\) or score to gain insight on how trustworthy a particular third party can be as part of the due diligence request process by using the Third-party Risk Management application. By associating your RIR request with a due diligence request, all activity, scores, reports, and details are available for you to see.
 
 ## Before you begin
 
-You must set up and register all risk intelligence providers and set up request types so that they’re available as selections in the [[tprm-rir-form|Risk intelligence report request form]]. For more information, see [Register a risk intelligence provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-register.md), [Set up a risk intelligence provider service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-set-up.md), and [Set up a request type for a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-request-type.md).
+You must set up and register all risk intelligence providers and set up request types so that they’re available as selections in the Risk intelligence report request form. For more information, see [Register a risk intelligence provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-register.md), [Set up a risk intelligence provider service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-set-up.md), and [Set up a request type for a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-request-type.md).
 
 Role required: sn\_vdr\_risk\_asmt.vendor\_assessor that is the due diligence request owner, sn\_vdr\_risk\_asmt.vendor\_risk\_manager, or sn\_vdr\_risk\_asmt.contract\_negotiator assigned to the due diligence request.
 
@@ -52,7 +52,4 @@ You can order different types of risk intelligence reports such as credit risk r
 
     You have submitted the RIR request to the provider.
 
-## Related
 
-- [[tprm-riskintel-request-tp|Request a risk intelligence report]]
-- [[tprm-rir-form|Risk intelligence report request form]]

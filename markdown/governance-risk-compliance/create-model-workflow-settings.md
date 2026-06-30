@@ -13,7 +13,7 @@ breadcrumb: [Configure, Model Risk Management, Governance, Risk, and Compliance]
 
 # Configure Model Workflow Settings
 
-Configure the conditions and frequency for scheduling assessment and validation tasks to maintain a structured and timely approach to [[model-risk-management|model risk management]].
+Configure the conditions and frequency for scheduling assessment and validation tasks to maintain a structured and timely approach to model risk management.
 
 ## Before you begin
 
@@ -25,13 +25,13 @@ This task explains how to configure the frequency for assessment and validation 
 
 **Note:** Models with customized frequencies at the model risk record level aren’t affected.
 
-To manually schedule assessment and validation tasks from the model risk record, refer to [[schedule-assessment-and-validation-tasks|Schedule assessment and validation tasks]].
+To manually schedule assessment and validation tasks from the model risk record, refer to [Schedule assessment and validation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/schedule-assessment-and-validation-tasks.md).
 
 ## Procedure
 
 1.  If you're a Model Risk Management admin \[sn\_model\_risk\_mgmt.admin\], navigate to **All** &gt; **Model Risk Configuration** &gt; **Model Workflow Settings**, and continue from step 3.
 
-2.  Users with sn\_model\_risk\_mgmt.model\_governance role, navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]** and do the following:
+2.  Users with sn\_model\_risk\_mgmt.model\_governance role, navigate to **All** &gt; **Model Risk Workspace** and do the following:
 
     1.  Select the list \[Omitted image "list-icon-mrm.png"\] Alt text: icon.
 
@@ -108,8 +108,4 @@ This field appears only when **Custom** is selected from **Frequency** field.
 
 9.  Select **Save**.
 
-## Related
 
-- [[schedule-assessment-and-validation-tasks|Schedule assessment and validation tasks]]
-- [[model-risk-management|Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

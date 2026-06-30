@@ -14,14 +14,14 @@ breadcrumb: [Manage, Workplace Maintenance Management, Workplace Service Deliver
 
 # Workplace Maintenance Management dashboard and analytics
 
-The [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] dashboard and reporting module provide high-level reporting on maintenance plans, plan records, and cases. Preventive maintenance dashboard provides insights for workplace managers and administrators on all plans, live active plans, plans in draft state, and maintenance cases.
+The Workplace Maintenance Management dashboard and reporting module provide high-level reporting on maintenance plans, plan records, and cases. Preventive maintenance dashboard provides insights for workplace managers and administrators on all plans, live active plans, plans in draft state, and maintenance cases.
 
 To view the dashboard, you must be assigned one of the following roles:
 
 -   sn\_wsd\_maint.admin
 -   sn\_wsd\_maint.manager
 
-Access the dashboard by navigating to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Preventive Maintenance** &gt; **Maintenance Plans**. Within the Preventive Maintenance tab, the different parts of the dashboard can be selected.
+Access the dashboard by navigating to **All** &gt; **Workplace Central** &gt; **Preventive Maintenance** &gt; **Maintenance Plans**. Within the Preventive Maintenance tab, the different parts of the dashboard can be selected.
 
 **Note:** Two scheduled jobs **Workplace Maintenance Case Daily Data Collection** and **Workplace Maintenance Case Historical Data Collection** collect data to provide insights in Workplace Maintenance Management Dashboard.
 
@@ -86,7 +86,3 @@ Selecting a plan from the list of plans take the user to a tab that lists the de
 
 **Next topic:**[Workplace Maintenance Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-mgmt-references.md)
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-central-feat|Workplace Central]]

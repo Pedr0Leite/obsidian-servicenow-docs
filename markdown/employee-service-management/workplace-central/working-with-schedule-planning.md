@@ -17,11 +17,11 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 Create and execute schedule plans to assign workspaces to your employees.
 
 -   **[Create a schedule plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-schedule-plan.md)**  
-[[create-schedule-plan-wfo-hr|Create a schedule plan]] to assign employees, spaces, and employee-space mappings for your projects.
+Create a schedule plan to assign employees, spaces, and employee-space mappings for your projects.
 -   **[Edit a schedule plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-schedule-plan.md)**  
-[[edit-schedule-plan|Edit a schedule plan]] to change the details, selected users, or selected spaces.
+Edit a schedule plan to change the details, selected users, or selected spaces.
 -   **[Cancel a schedule plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/cancel-schedule-plan.md)**  
-[[cancel-schedule-plan|Cancel a schedule plan]] to deactivate the location assignment records for your employees.
+Cancel a schedule plan to deactivate the location assignment records for your employees.
 
 **Parent Topic:**[Use Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-workplace-central.md)
 
@@ -44,8 +44,3 @@ Create and execute schedule plans to assign workspaces to your employees.
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[create-schedule-plan-wfo-hr|Create a schedule plan]]
-- [[edit-schedule-plan|Edit a schedule plan]]
-- [[cancel-schedule-plan|Cancel a schedule plan]]

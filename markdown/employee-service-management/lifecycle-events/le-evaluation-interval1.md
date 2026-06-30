@@ -16,7 +16,7 @@ breadcrumb: [Configure a lifecycle event, Building a lifecycle event, Using Life
 
 There is a mechanism available to ensure timers within a workflow trigger automatically rather than wait for the evaluation interval to trigger.
 
-[[activity-lxp|Activity]] sets can be triggered using different methods based on how you configure it:
+Activity sets can be triggered using different methods based on how you configure it:
 
 -   Immediately
 -   By a date
@@ -38,7 +38,7 @@ If the trigger condition has not been met, it waits for the Wait to reevaluate T
 
 If the trigger condition is met, but after the evaluation interval runs, it has to wait another four hours before the activities set is re-evaluated. This can cause delays in an activity set to trigger.
 
-The Wait to reevaluate Trigger Script timer uses the **sn\_hr\_le.All activity set closure timer** field under [[lifecycle-event-properties-page|Lifecycle Event Properties]] to determine when to evaluate the activity set. The default value is four hours.
+The Wait to reevaluate Trigger Script timer uses the **sn\_hr\_le.All activity set closure timer** field under Lifecycle Event Properties to determine when to evaluate the activity set. The default value is four hours.
 
 You can reduce the value in the **sn\_hr\_le.All activity set closure timer** field in order to launch the activity set sooner.
 
@@ -48,7 +48,7 @@ You can reduce the value in the **sn\_hr\_le.All activity set closure timer** fi
 
 An alternative to using the **Evaluation interval** field is to use the **Condition with Event BR \(Demo\)** activity set that is included with demo data as an example of what you can use. This is an optional solution, but you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow. Any activity set can be triggered using the check\_activity\_set\_trigger event from the server side with the exception of activity sets that are triggered immediately or only by other activity sets.
 
-**Note:** To access the **Condition with Event BR \(Demo\)** activity set, activate the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \(com.sn\_hr\_lifecycle\_ent\) plugin. This is an optional method that can be used instead of the values in the **Evaluation interval** field.
+**Note:** To access the **Condition with Event BR \(Demo\)** activity set, activate the Human Resources Scoped App: Lifecycle Events for Enterprise \(com.sn\_hr\_lifecycle\_ent\) plugin. This is an optional method that can be used instead of the values in the **Evaluation interval** field.
 
 -   The trigger type for the activity set must be set to **Condition**.
 -   The **Condition with Event BR \(Demo\)** activity set triggers when the state of primary lifecycle event case moves to **Work in progress**.
@@ -75,7 +75,7 @@ The HR Activity Set Trigger Check workflow \(see below\) was added to the HR Act
 -   **[View and use the Condition with Event BR \(Demo\) activity set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval-process.md)**  
 You can trigger activity sets using an event that is included in the Condition with Event BR \(Demo\) activity set or you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow.
 -   **[View and use the Condition with Event BR \(Demo\) business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-eval-interval-business-rule.md)**  
-You can [[le-eval-interval-business-rule|view and use the Condition with Event BR \(Demo\) business rule]] to trigger an evaluation of your activity set faster.
+You can view and use the Condition with Event BR \(Demo\) business rule to trigger an evaluation of your activity set faster.
 -   **[Change the evaluation interval default wait time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-activity-set-evaluation-interval.md)**  
 As an administrator, you can change the default time that an activity set waits before the activity set is evaluated.
 -   **[Configure a Lifecycle Events trigger for activity sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-config-event-trigger.md)**  
@@ -85,9 +85,3 @@ Information about Lifecycle Events triggers and workflow.
 
 **Parent Topic:**[Configure a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-type.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[lifecycle-event-properties-page|Lifecycle event properties]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[le-eval-interval-business-rule|View and use the Condition with Event BR \(Demo\) business rule]]

@@ -20,7 +20,7 @@ The Case Report table stores KPIs and metrics for case records and includes the 
 -   First Contact Resolution
 -   Reopen Count
 
-The [[csm-manager-dashboard|Customer Service Manager dashboard]] includes the **First Call Resolution** indicator, which shows the percentage of cases that were resolved during the first contact with the customer. The percent change in the current period appears under the total percentage. The value for the First Call Resolution indicator is returned by the CaseReportUtils script include.
+The Customer Service Manager dashboard includes the **First Call Resolution** indicator, which shows the percentage of cases that were resolved during the first contact with the customer. The percent change in the current period appears under the total percentage. The value for the First Call Resolution indicator is returned by the CaseReportUtils script include.
 
 <table id="table_fyv_dtr_bs"><thead><tr><th>
 
@@ -74,7 +74,7 @@ Skipped by Prediction
 
 </td><td>
 
-Used to identify cases that are skipped by the Predictive [[intelligence-csm|Intelligence]] feature. The default value is false \(disabled\).
+Used to identify cases that are skipped by the Predictive Intelligence feature. The default value is false \(disabled\).
 
 </td></tr><tr><td>
 
@@ -115,7 +115,3 @@ FCR is false if:
 -   An email log exists for the case, the email was not created by the system, and the email creation date is prior to the case resolution date.
 -   A work order entry exists for the case and the date of that work order is prior to the case resolution date.
 
-## Related
-
-- [[csm-manager-dashboard|Customer Service Manager dashboard]]
-- [[intelligence-csm|Intelligence]]

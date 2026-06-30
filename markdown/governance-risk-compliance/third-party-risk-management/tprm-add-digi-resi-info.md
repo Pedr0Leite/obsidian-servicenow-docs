@@ -14,7 +14,7 @@ breadcrumb: [Create an engagement and enhance digital resilience data, Use digit
 
 # Add Digital resilience information to third-party engagements
 
-[[tp-eng-add-digi-resi-info|Add Digital resilience information to third-party engagements]] by creating ICT third-party service provider records in Digital resilience third-party registers using Third-party Risk Management. Add details such as name of the service provider, its identification code, type of ICT services, currency, and so on. This enhances the digital resilience information of its associated third-party engagement for compliance with DORA regulation.
+Add Digital resilience information to third-party engagements by creating ICT third-party service provider records in Digital resilience third-party registers using Third-party Risk Management. Add details such as name of the service provider, its identification code, type of ICT services, currency, and so on. This enhances the digital resilience information of its associated third-party engagement for compliance with DORA regulation.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
     The ICT third-party service provider record is created and its details are displayed in the **Details** tab of the ICT third-party service provider record. You can confirm which third-party engagements have digital resilience information associated with them by reviewing the Digital resilience information column of the Third-party engagements list. If the column field shows Yes, digital resilience information is associated with the third-party engagement record.
 
-## Related
 
-- [[tp-eng-add-digi-resi-info|Add Digital resilience information to third-party engagements]]

@@ -70,8 +70,5 @@ Schedule for this downtime or maintenance.
 
 ## Result
 
-The schedule appears under the **Resource Events** related list and on [[dispatcher-activities|Dispatcher Workspace]].
+The schedule appears under the **Resource Events** related list and on Dispatcher Workspace.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

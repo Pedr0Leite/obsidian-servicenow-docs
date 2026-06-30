@@ -14,7 +14,7 @@ breadcrumb: [Configure Employee Profile for a portal, Employee profile, Setup ta
 
 # Employee Profile upgrade scenarios
 
-After upgrading [[emp-slate-employee-profile|Employee Profile]] to version 11.0.3, the profile pages on all portals are updated based on the following scenarios.
+After upgrading Employee Profile to version 11.0.3, the profile pages on all portals are updated based on the following scenarios.
 
 <table id="table_fqs_w3d_q1c"><thead><tr><th>
 
@@ -26,7 +26,7 @@ Upgrade Scenario
 
 </th></tr></thead><tbody><tr><td>
 
-[[employee-center-landing-page|Employee Center]]
+Employee Center
 
 </td><td>
 
@@ -99,7 +99,7 @@ Custom portal
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -121,8 +121,3 @@ Custom portal
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-notification-content|Notification content]]

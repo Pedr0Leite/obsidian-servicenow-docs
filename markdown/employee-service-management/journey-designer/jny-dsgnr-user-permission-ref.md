@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Servic
 
 # Journey designer user permissions reference
 
-Administrators can configure the user permissions for different [[jny-dsgnr-landing-page-1|Journey designer]] journey configurations.
+Administrators can configure the user permissions for different Journey designer journey configurations.
 
 ## Journey owner and mentor permissions
 
@@ -54,7 +54,7 @@ Allows a journey owner to view statistical data related to an organizations jour
 
 </td></tr><tr><td>
 
-**Can add recommended [[exploring-learning-exp|learning]]**
+**Can add recommended learning**
 
 </td><td>
 
@@ -62,7 +62,7 @@ When the Learning Posts app is installed and configured, journey owners and ment
 
 </td></tr><tr><td>
 
-**Can add [[emp-center-quick-link-config|quick links]]**
+**Can add quick links**
 
 </td><td>
 
@@ -91,8 +91,3 @@ Enables journey owners and mentors to include personalized messages from a journ
 
 [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[exploring-learning-exp|Learning]]
-- [[emp-center-quick-link-config|Quick links]]

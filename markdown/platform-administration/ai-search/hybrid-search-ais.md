@@ -15,7 +15,7 @@ breadcrumb: [Configuring Now Assist in AI Search, Now Assist in AI Search, Servi
 
 # Hybrid search in AI Search
 
-In hybrid search mode, [[ia-ai-search|AI Search]] blends keyword search and semantic vector search to find [[hs-results|results]] that best match the terms and meaning of your search.
+In hybrid search mode, AI Search blends keyword search and semantic vector search to find results that best match the terms and meaning of your search.
 
 ## Overview of hybrid search
 
@@ -25,14 +25,14 @@ Starting in the Yokohama Patch 11 release, AI Search includes an alternate seman
 
 **Note:** To learn more about semantic vector search mode and how it differs from keyword search mode, see [Semantic vector search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-search-ais.md).
 
-Beginning with [[now-assist-ais|Now Assist in AI Search]] 15, installation of Now Assist in AI Search offers a new hybrid search mode. This mode combines keyword relevance scores and semantic similarity scores into a single result ranking using Reciprocal Rank Fusion \(RRF\). By blending keyword and semantic vector search modes, AI Search offers the best of both worlds, providing users with both search precision and contextual relevance.
+Beginning with Now Assist in AI Search 15, installation of Now Assist in AI Search offers a new hybrid search mode. This mode combines keyword relevance scores and semantic similarity scores into a single result ranking using Reciprocal Rank Fusion \(RRF\). By blending keyword and semantic vector search modes, AI Search offers the best of both worlds, providing users with both search precision and contextual relevance.
 
 **Note:** Hybrid search applies to any indexed source that's included in the semantic index. By default, the following indexed sources ship with preconfigured semantic indexing and work with hybrid search:
 
 -   Knowledge Table indexed source \[kb\_knowledge table\]
 -   Catalog Item Table indexed source \[sc\_cat\_item table\]
 -   Skills indexed source \[sys\_gen\_ai\_skill table\]
--   All [[ext-cont-connectors-landing-page|External Content Connectors]] indexed sources \[connector-specific tables\]
+-   All External Content Connectors indexed sources \[connector-specific tables\]
 
 You can manually configure additional indexed sources to be included in the semantic index, extending hybrid search to those sources as well.
 
@@ -57,11 +57,11 @@ Hybrid search offers these benefits when compared with keyword search.
 
 Hybrid search requires installation of the Now Assist in AI Search application. This feature is available beginning in Now Assist in AI Search 15.
 
-If you [[install-now-assist-ais|install Now Assist in AI Search]] without having any previous version installed, hybrid search is automatically activated for your [[defining-search-app-cfgs-ais|search application configurations]] that use AI Search as their search engine.
+If you install Now Assist in AI Search without having any previous version installed, hybrid search is automatically activated for your search application configurations that use AI Search as their search engine.
 
-**Note:** Search application configurations that use the legacy [[c_ZingTextSearch|Zing text indexing and search engine]] don't support hybrid search.
+**Note:** Search application configurations that use the legacy Zing text indexing and search engine don't support hybrid search.
 
-If you upgrade to Now Assist in AI Search from a previous version, hybrid search isn't automatically activated for your search application configurations that use AI Search as their search engine. To learn how to manually activate hybrid search for these search application configurations in the [[ais-admin-console|AI Search Admin console]], see [Manage hybrid search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-hybrid-search-aisac.md).
+If you upgrade to Now Assist in AI Search from a previous version, hybrid search isn't automatically activated for your search application configurations that use AI Search as their search engine. To learn how to manually activate hybrid search for these search application configurations in the AI Search Admin console, see [Manage hybrid search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-hybrid-search-aisac.md).
 
 ## Interactions with other features
 
@@ -74,13 +74,3 @@ Activate the hybrid search mode for a search application configuration that uses
 
 **Parent Topic:**[Configuring Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[install-now-assist-ais|Install Now Assist in AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]
-- [[ais-admin-console|AI Search Admin console]]

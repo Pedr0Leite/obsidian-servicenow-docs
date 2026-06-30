@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Before starting this procedure, you must create a service definition to associate your playbook with. For more information on how to create a service definition, see [[psds-create-new-service-definition|Configure a service definition for Playbooks in Public Sector Digital Services]].
+Before starting this procedure, you must create a service definition to associate your playbook with. For more information on how to create a service definition, see [Configure a service definition for Playbooks in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-create-new-service-definition.md).
 
 When the agent selects **Create Case** on the case type selector screen, the system displays the new case record and launches the playbook associated with the service in a tab on the record page.
 
@@ -56,6 +56,4 @@ When the agent selects **Create Case** on the case type selector screen, the sys
 
     Your UI policy and playbook are now created.
 
-## Related
 
-- [[psds-create-new-service-definition|Configure a service definition for Playbooks in Public Sector Digital Services]]

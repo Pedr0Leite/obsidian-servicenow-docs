@@ -38,7 +38,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to indicate whether the order guide is active or not.
+Check box to indicate whether the order guide is active or not.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Description
 
 </td><td>
 
-Description that appears on the first page of the order guide. Apply formatting with the [[html|HTML]] editor.
+Description that appears on the first page of the order guide. Apply formatting with the HTML editor.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Order to cart
 
 </td><td>
 
-Check box allowing users to add [[c_ServiceCatalogOrderGuides|order guides]] to their cart, then continue shopping rather than checking out immediately. This is not applicable for Service Portal.**Note:** This setting only works when the Two step check box is also set to true.
+Check box allowing users to add order guides to their cart, then continue shopping rather than checking out immediately. This is not applicable for Service Portal.**Note:** This setting only works when the Two step check box is also set to true.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -150,7 +150,7 @@ Request method
 
 </td><td>
 
-Setting that controls the [[label|label]] displayed for the **Order Now** button and the order submission experience. -   **Order**:
+Setting that controls the label displayed for the **Order Now** button and the order submission experience. -   **Order**:
 
     -   Button label: **Order Now**
     -   Confirmation dialog box: Displayed
@@ -197,9 +197,3 @@ If selected, a toggle is displayed for each catalog item in the **Choose Options
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[html|HTML]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[label|Label]]

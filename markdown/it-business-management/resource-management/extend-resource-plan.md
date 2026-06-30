@@ -14,13 +14,13 @@ breadcrumb: [Resource plans, Resource Management classic, Project Portfolio Mana
 
 # Extend a resource plan
 
-You can extend the date of an allocated resource plan and [[allocate-resources-for-extended-period|allocate resources for the extended period]].
+You can extend the date of an allocated resource plan and allocate resources for the extended period.
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start [[using-rmw|using Resource Management Workspace]].
+You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
 
 Resource requester can [extend an assigned or unassigned resource assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/manage-resource-allocations-rmw.md) using Resource Management Workspace.
 
@@ -92,8 +92,3 @@ For example, assume that you allocated 100 hours for 2 months, 50 hours for each
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[allocate-resources-for-extended-period|Allocate resources for the extended period]]
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Site filter in the Industrial Workspace, Use, Industrial Workspace,
 
 # Use the site filter
 
-Use the site in the [[operational-technology-overview|Operational Technology]] \(OT\) Visibility dashboard, the [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]], and the OT Vulnerability Risk Rollup dashboard to filter the data by the selected site or sites.
+Use the site in the Operational Technology \(OT\) Visibility dashboard, the Operational Technology Vulnerability Response \(PA\) dashboard, and the OT Vulnerability Risk Rollup dashboard to filter the data by the selected site or sites.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: cmdb\_ot\_isa\_viewer with site access
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the **Dashboard Library** \(\[Omitted image "dashboards-icon.png"\] Alt text: Dashboard Library icon\) icon.
 
-3.  Select either the OT Visibility dashboard or the [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] dashboard.
+3.  Select either the OT Visibility dashboard or the Operational Technology Vulnerability Response dashboard.
 
 4.  Under the **Site** header, click the **Select** button.
 
@@ -41,9 +41,3 @@ Role required: cmdb\_ot\_isa\_viewer with site access
 
 **Parent Topic:**[Site filter in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

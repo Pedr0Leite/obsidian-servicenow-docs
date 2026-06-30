@@ -14,7 +14,7 @@ breadcrumb: [Configure properties, Install Supplier Case Management, Configure, 
 
 # Enable automatic creation of supplier cases from incoming emails
 
-The [[supplier|supplier]] administrator can set this property to [[create-supplier-case-spo|create a supplier case]] automatically from an incoming email.
+The supplier administrator can set this property to create a supplier case automatically from an incoming email.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_slm.admin
 
 ## About this task
 
-[[supplier-case-management|Supplier Case Management]] automatically creates a supplier case if the incoming email address matches with the email address specified in this property. For more information, see [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md).
+Supplier Case Management automatically creates a supplier case if the incoming email address matches with the email address specified in this property. For more information, see [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md).
 
-If you use the automatic case creation functionality in both Supplier Case Management \(SCO\) and [[psm-overview|Sourcing and Procurement Operations]] \(SPO\), ensure that each instance is configured with a unique email address in the **Automatic creation of cases from email** property. This ensures that the instance can correctly match incoming emails to the appropriate user and create the corresponding case.
+If you use the automatic case creation functionality in both Supplier Case Management \(SCO\) and Sourcing and Procurement Operations \(SPO\), ensure that each instance is configured with a unique email address in the **Automatic creation of cases from email** property. This ensures that the instance can correctly match incoming emails to the appropriate user and create the corresponding case.
 
 For example:
 
@@ -41,7 +41,7 @@ This approach enables seamless case creation and accurate email-to-user mapping.
 
 3.  Select **Save**.
 
-    **Note:** After M2M mapping between [[supplier-contact|supplier contact]] and suppliers is enabled, the contacts linked with multiple suppliers have to include the supplier's legal name while sending emails for automatic creation of cases. For more information, see [Email format for contacts linked with multiple suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-format-for-contacts-linked-with-multiple-suppliers.md).
+    **Note:** After M2M mapping between supplier contact and suppliers is enabled, the contacts linked with multiple suppliers have to include the supplier's legal name while sending emails for automatic creation of cases. For more information, see [Email format for contacts linked with multiple suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-format-for-contacts-linked-with-multiple-suppliers.md).
 
 
 **Parent Topic:**[Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md)
@@ -53,10 +53,3 @@ This approach enables seamless case creation and accurate email-to-user mapping.
 
 [Enable deprecated case types after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-deprecated-case-types.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[create-supplier-case-spo|Create a supplier case]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier-contact|Supplier contact]]

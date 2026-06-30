@@ -12,7 +12,7 @@ breadcrumb: [Configuring plan template, Setup for a BCP, Configure, Business Con
 
 # Configure the business continuity plan template
 
-Configure the business continuity plan template in the [[business-continuity-mangmt-overview|Business Continuity Management]] application for your business. You can use the plan template to recover a specific primary element such as Employees or Web Servers. Similarly, you can create a plan template for different plan authoring types such as documentation, loss scenarios, and recovery tasks.
+Configure the business continuity plan template in the Business Continuity Management application for your business. You can use the plan template to recover a specific primary element such as Employees or Web Servers. Similarly, you can create a plan template for different plan authoring types such as documentation, loss scenarios, and recovery tasks.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ By configuring the plan template, you can:
 
 3.  On the Plan Template form, fill in the fields.
 
-    For more information on the fields, see [[plan-template-form|Plan Template form]].
+    For more information on the fields, see [Plan Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/plan-template-form.md).
 
     **Note:** The synchronization fields are:
 
@@ -60,10 +60,5 @@ By configuring the plan template, you can:
 -   **[Plan Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/plan-template-form.md)**  
 Use the Plan Template form in BCM UIB Workspace to input details regarding the business continuity plan.
 
-**Parent Topic:**[[bcp-admin-plan-templates|Configuring plan template]]
+**Parent Topic:**[Configuring plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-plan-templates.md)
 
-## Related
-
-- [[plan-template-form|Plan Template form]]
-- [[bcp-admin-plan-templates|Configuring plan template]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

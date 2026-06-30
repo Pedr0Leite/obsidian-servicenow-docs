@@ -14,11 +14,11 @@ breadcrumb: [Migration of view rules from ITSM Agent Workspace to Service Operat
 
 # Perform post-migration tasks for view rules
 
-Verify that the view rules in Service Operations Workspace \(SOW\) are consistent with the view rules in ITSM Agent Workspace and are ready for use in SOW. You can update the view rules [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the view rules in Service Operations Workspace \(SOW\) are consistent with the view rules in ITSM Agent Workspace and are ready for use in SOW. You can update the view rules settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Workspace views \(form and related list\) and view rules** option for ITSM Agent Workspace features. For example, the **Workspace views \(form and related list\) and view rules** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Workspace views \(form and related list\) and view rules** option for ITSM Agent Workspace features. For example, the **Workspace views \(form and related list\) and view rules** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -65,7 +65,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-rules-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

@@ -25,7 +25,7 @@ To evaluate the quality of information in a change request, the workflow finds s
 
 **Note:** The assess quality of a change request agentic workflow doesn’t have a trigger and is invoked manually.
 
-To modify the assess quality of a change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements. To clone an agentic workflow that is available by default, you must execute the semantic index for similarChangeRequests. The Business Rule \(\[Chg Quality\] Trigger semantic index\) that is available by default that activates this workflow doesn’t run automatically for cloned cases, so you must activate it manually or execute the script in the business rule to confirm that the index is performed.
+To modify the assess quality of a change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements. To clone an agentic workflow that is available by default, you must execute the semantic index for similarChangeRequests. The Business Rule \(\[Chg Quality\] Trigger semantic index\) that is available by default that activates this workflow doesn’t run automatically for cloned cases, so you must activate it manually or execute the script in the business rule to confirm that the index is performed.
 
 **Important:** When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
@@ -78,6 +78,3 @@ For the query instruction, follow the steps specified in the **List of steps** f
 
 In the AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[settings-mobile|Settings]]

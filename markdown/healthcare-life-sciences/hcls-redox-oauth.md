@@ -18,7 +18,7 @@ Create an OAuth application endpoint for the external Redox healthcare system to
 
 **Important:**
 
-Starting with the Yokohama release, [[hcls-redox-app|Redox Inbound Integration]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Redox Inbound Integration is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -42,6 +42,4 @@ Role required: sn\_hcls.admin or admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[hcls-redox-app|Redox Inbound Integration]]

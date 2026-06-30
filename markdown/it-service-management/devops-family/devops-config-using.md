@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config, IT Service Management]
 
 # Using DevOps Config
 
-The developer, or app engineer, role uses [[devops-config-landing-page|DevOps Config]], once it's installed and set up by the DevOps engineer role, to validate and correct config data \(that they commit\) before it gets deployed.
+The developer, or app engineer, role uses DevOps Config, once it's installed and set up by the DevOps engineer role, to validate and correct config data \(that they commit\) before it gets deployed.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -27,7 +27,7 @@ Consumption process:
 
     When a configuration change is committed in the source code repository, it typically kicks off the build process in the pipeline.
 
-3.  Upload configuration data using [[devops-config-azure-integration|Azure DevOps pipeline tasks]] or [[devops-config-jenkins-integration|Jenkins pipeline actions]].
+3.  Upload configuration data using Azure DevOps pipeline tasks or Jenkins pipeline actions.
 
     DevOps Config pipeline tasks and actions are used to interact with your data model to upload config data for validation.
 
@@ -41,7 +41,7 @@ Consumption process:
 
 6.  Publish snapshot after validation.
 
-    Once validated by DevOps Config, the config data is then published and a DevOps change request is created by [[devops-landing-page-new|DevOps Change Velocity]] \(change control\).
+    Once validated by DevOps Config, the config data is then published and a DevOps change request is created by DevOps Change Velocity \(change control\).
 
     Snapshot information is shown in the DevOps change request **Config changes** tab for accelerated root cause analysis.
 
@@ -55,9 +55,3 @@ Consumption process:
 
 9.  Use DevOps Config exporters to export your config data to be used by your deployment tools.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-config-azure-integration|Azure DevOps pipeline tasks]]
-- [[devops-config-jenkins-integration|Jenkins pipeline actions]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

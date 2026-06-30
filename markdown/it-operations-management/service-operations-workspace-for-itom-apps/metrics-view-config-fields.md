@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITOM reference, Service Operations
 
 # Metrics View Configuration form fields
 
-Define how metrics are displayed within [[workspace-dashboard-use|Service Operations Workspace]].
+Define how metrics are displayed within Service Operations Workspace.
 
 <table id="table_cg5_mtq_clb"><thead><tr><th>
 
@@ -79,6 +79,3 @@ Type of chart in which the metric is presented in Service Operations Workspace, 
 
 **Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-reference-itom.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

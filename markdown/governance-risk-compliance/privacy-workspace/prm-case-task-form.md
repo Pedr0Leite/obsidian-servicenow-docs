@@ -14,7 +14,7 @@ breadcrumb: [Create a case task, Case task workflow, Use, Privacy Case Managemen
 
 # Case task form
 
-On the new [[case-task-form|case task form]], fill in the fields.
+On the new case task form, fill in the fields.
 
 <table id="table_g2y_bgb_pvb"><thead><tr><th>
 
@@ -50,7 +50,7 @@ Type of task. The choices are as follows:-   **Assessment**: Use this option if 
 
 **Note:** Only case tasks with type Assessment type can be reassigned to a different task owner if required.
 
--   **Investigation**: Use this option if you want to [[create-a-case-task|create a case task]] to perform any investigation for the case reported. For example, you may want to determine the type of data lost.
+-   **Investigation**: Use this option if you want to create a case task to perform any investigation for the case reported. For example, you may want to determine the type of data lost.
 -   **Others**: Use this option for any other type of task that you configure.
 
 </td></tr><tr><td>
@@ -59,7 +59,7 @@ Assessment template
 
 </td><td>
 
-[Assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md) to assess the case. This field appears only when **Assessment** is selected from the **Type** field. **Note:** Each case type can be mapped to specific [[airc-assessment-templates|assessment templates]] during configuration. Only the templates mapped to the case are available for selection. For example, if the case type is **Financial**, then the assessment templates specific to the Financial type will be available for selection. You cannot select the same assessment template if there is already an open assessment with the assessment template that you have selected is being worked upon.
+[Assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md) to assess the case. This field appears only when **Assessment** is selected from the **Type** field. **Note:** Each case type can be mapped to specific assessment templates during configuration. Only the templates mapped to the case are available for selection. For example, if the case type is **Financial**, then the assessment templates specific to the Financial type will be available for selection. You cannot select the same assessment template if there is already an open assessment with the assessment template that you have selected is being worked upon.
 
 </td></tr><tr><td>
 
@@ -176,8 +176,3 @@ Comments related to the case task, if any.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a case task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-create-a-case-task.md)
 
-## Related
-
-- [[case-task-form|case task form]]
-- [[create-a-case-task|create a case task]]
-- [[airc-assessment-templates|Assessment templates]]

@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure grid categories
 
-Configure a grid category such as Dependency Assessment for the grid configuration. Use the **Grid Categories** module in the [[business-continuity-mangmt-overview|Business Continuity Management]] application navigator to configure the grid categories.
+Configure a grid category such as Dependency Assessment for the grid configuration. Use the **Grid Categories** module in the Business Continuity Management application navigator to configure the grid categories.
 
 ## Before you begin
 
@@ -20,17 +20,17 @@ Role required: sn\_bcm.admin
 
 ## About this task
 
-To create custom columns \(grid configuration\) for the BIA dependency group from the [[bcm-workspace|BCM Configurable Workspace]], see [KB1645940](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1645940).
+To create custom columns \(grid configuration\) for the BIA dependency group from the BCM Configurable Workspace, see [KB1645940](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1645940).
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Grid Categories**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Grid Categories**.
 
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[grid-category-record-form|Grid category record form]].
+    For more information on the fields in the form, see [Grid category record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grid-category-record-form.md).
 
 4.  Select **Submit**.
 
@@ -38,12 +38,5 @@ To create custom columns \(grid configuration\) for the BIA dependency group fro
 -   **[Grid category record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grid-category-record-form.md)**  
 Use the Grid category record form to configure a grid category such as Dependency Assessment for the grid configuration by using BCM UIB Workspace.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[grid-category-record-form|Grid category record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[Administration|Administration]]

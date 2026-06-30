@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The Service channel **Email** is configured during the installation of the [[email-as-an-interaction|Email Interaction]] for CSM application. If you want to create service channels for email, follow the procedure.
+The Service channel **Email** is configured during the installation of the Email Interaction for CSM application. If you want to create service channels for email, follow the procedure.
 
 You can use the  [Advanced Work Assignment \(AWA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-overview.md) feature to automatically assign work items to users based on their availability and capacity.
 
@@ -82,7 +82,7 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
 4.  Create an assignment rule for the queue.
 
-    1.  Navigate to  **All** &gt; **Advanced Work Assignment ** &gt; **Settings** &gt; **Assignment [[gamification-components-rules|Rules]] **.
+    1.  Navigate to  **All** &gt; **Advanced Work Assignment ** &gt; **Settings** &gt; **Assignment Rules **.
 
     2.  Select **New**.
 
@@ -97,7 +97,7 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
         For more information about creating an assignment rule, see  [Configure agent assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-assignment-rule.md).
 
-5.  [[create-a-group-so|Create a group]] for the queue.
+5.  Create a group for the queue.
 
     1.  Navigate to  **All** &gt; **Advanced Work Assignment ** &gt; **Management** &gt; **Groups.**
 
@@ -149,8 +149,3 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
 After the service channel is activated, you can use it to assign work items. For more information, see [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-service-channels.md).
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]
-- [[gamification-components-rules|Rules]]
-- [[create-a-group-so|Create a group]]

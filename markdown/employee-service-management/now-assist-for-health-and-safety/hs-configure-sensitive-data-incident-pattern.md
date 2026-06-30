@@ -14,7 +14,7 @@ breadcrumb: [Configure incident patterns, Configure, Now Assist for Health and S
 
 # Configure the inclusion of sensitive data in incident patterns
 
-Configure whether safety incident records with sensitive data should be included in the [[hs-incident-pattern-analysis|incident pattern analysis]].
+Configure whether safety incident records with sensitive data should be included in the incident pattern analysis.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The configuration of this option in the application property decides whether inc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and safety administration** &gt; **Properties**.
 
 2.  In the **Control whether sensitive incidents are included in the pattern detection analysis** field, select
 
@@ -37,7 +37,3 @@ The configuration of this option in the application property decides whether inc
 
 **Parent Topic:**[Configure incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-incident-patterns.md)
 
-## Related
-
-- [[hs-incident-pattern-analysis|Incident pattern analysis]]
-- [[health-safety-overview|Health and Safety]]

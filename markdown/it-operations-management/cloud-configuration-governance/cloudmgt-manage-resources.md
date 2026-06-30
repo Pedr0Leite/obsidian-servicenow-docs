@@ -40,8 +40,5 @@ Role required: sn\_cmp.cloud\_service\_user
         -   Change requests that are associated with the resource. See [Track a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-track-change-request.md).
         -   Incidents that were raised for the resource. See [Submit an incident for a stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-submit-incident.md) and [Track an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-track-incident.md).
         -   Cloud events that happened to the resource. See [View cloud events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-view-cloud-events.md).
-    -   Text box used to [[cloudmgt-search-portal|search the Cloud User Portal]] for stacks, resources based on types, stack requests, change requests, incidents, keys, and catalog items.
+    -   Text box used to search the Cloud User Portal for stacks, resources based on types, stack requests, change requests, incidents, keys, and catalog items.
 
-## Related
-
-- [[cloudmgt-search-portal|Search the Cloud User Portal]]

@@ -14,11 +14,11 @@ breadcrumb: [Sourcing Procurement Operations integration Field, Integrate, Sourc
 
 # Order parts you need using the Agent mobile application
 
-Place an order for a part that you require to complete a particular work order task, from the [[psm-overview|Sourcing and Procurement Operations]] flow, using the Agent mobile application.
+Place an order for a part that you require to complete a particular work order task, from the Sourcing and Procurement Operations flow, using the Agent mobile application.
 
 ## Before you begin
 
-To successfully order a part, verify that the product models used by Field Service Management are aligned to the [[supplier|supplier]] products.
+To successfully order a part, verify that the product models used by Field Service Management are aligned to the supplier products.
 
 Role required: wm\_agent, wm\_dispatcher, fsm\_agent, or sn\_shop.shopper
 
@@ -38,7 +38,7 @@ Role required: wm\_agent, wm\_dispatcher, fsm\_agent, or sn\_shop.shopper
 
     This section displays all the supplier products that are associated with the product model of the part requirement.
 
-    **Note:** Only products that have [[pricing|pricing]] available are displayed here. Also, all the criteria for products to be visible on [[shopping-hub-overview|Shopping Hub]], such as shopping controls, are applied here as well.
+    **Note:** Only products that have pricing available are displayed here. Also, all the criteria for products to be visible on Shopping Hub, such as shopping controls, are applied here as well.
 
     The quick checkout flow is triggered from Shopping Hub and the checkout details are auto-populated.
 
@@ -50,7 +50,7 @@ Role required: wm\_agent, wm\_dispatcher, fsm\_agent, or sn\_shop.shopper
 
 9.  Tap **Complete Checkout**.
 
-    A confirmation message stating that your purchase is successfully routed for approval, is displayed, along with the [[purchase-requisition|purchase requisition]] line number.
+    A confirmation message stating that your purchase is successfully routed for approval, is displayed, along with the purchase requisition line number.
 
     **Note:** As an FSM agent, if you're unable to check out products in the PSM and FSM mobile experience Agent app, install the fix script after installing the fms-psm-mobile and spend-uib-portal applications. The fix script updates the quick checkout link to the correct MESP page.
 
@@ -61,10 +61,3 @@ On the order confirmation screen, tap **Return to work order task** if you want 
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-fsm.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]
-- [[pricing|Pricing]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]

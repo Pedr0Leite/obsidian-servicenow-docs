@@ -33,9 +33,9 @@ The cloned template includes the following:
 
 ## Procedure
 
-1.  Navigate to one of the following [[migration-lists|lists]].
+1.  Navigate to one of the following lists.
 
-    -   **All** &gt; **[[task-plan-templates|Task Plan Templates]]** &gt; **Draft Task Plan Templates**
+    -   **All** &gt; **Task Plan Templates** &gt; **Draft Task Plan Templates**
     -   **All** &gt; **Task Plan Templates** &gt; **Published Task Plan Templates**
     -   **All** &gt; **Task Plan Templates** &gt; **All Task Plan Templates**
 2.  Select a task plan template by selecting the check box next to the record number.
@@ -44,7 +44,4 @@ The cloned template includes the following:
 
     The system creates a copy of the selected task plan template and opens the cloned template in a new tab.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[task-plan-templates|Task Plan Templates]]

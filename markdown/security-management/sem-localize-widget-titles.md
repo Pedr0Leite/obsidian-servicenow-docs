@@ -12,7 +12,7 @@ breadcrumb: [Configure Visualization library, Implement, Unified Security Exposu
 
 # Localize widget titles
 
-Update the widget title in the Messages \[sys\_ui\_message\_list\] table whenever you [[sem-create-widget|create a custom widget]] or rename an existing one to ensure it displays correctly in localized interfaces.
+Update the widget title in the Messages \[sys\_ui\_message\_list\] table whenever you create a custom widget or rename an existing one to ensure it displays correctly in localized interfaces.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Key
 
 </td><td>
 
-Widget title as it appears in the [[sem-visualization-library|visualization library]].
+Widget title as it appears in the visualization library.
 
 </td></tr><tr><td>
 
@@ -76,10 +76,5 @@ Application for the widget. Select **Security Exposure Management**.**Note:** Cr
     **Important:** If you later rename a widget, search for its existing record in the Messages \[sys\_ui\_message\_list\] table, and update the **Key** and **Message** fields with the new widget title.
 
 
-**Parent Topic:**[[sem-configure-visualization-library|Configure Visualization library]]
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 
-## Related
-
-- [[sem-configure-visualization-library|Configure Visualization library]]
-- [[sem-create-widget|Create a custom widget]]
-- [[sem-visualization-library|Visualization library]]

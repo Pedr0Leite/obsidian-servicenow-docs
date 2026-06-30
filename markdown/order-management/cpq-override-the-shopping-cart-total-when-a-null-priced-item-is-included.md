@@ -24,7 +24,7 @@ When a BOM contains null-priced items, the total price may be incorrect. When th
 
 ## Procedure
 
-1.  In the [[layout_editor|layout editor]], open the product list properties.
+1.  In the layout editor, open the product list properties.
 
     \[Omitted image "cpq-layout-custom-message-gear-icon.png"\] Alt text: Product list
 
@@ -40,9 +40,5 @@ When a BOM contains null-priced items, the total price may be incorrect. When th
 
 [Set a custom message for zero-priced and null-priced items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[cpq-availability-of-price-value-overrides|Availability of price value overrides]]
+[Availability of price value overrides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-availability-of-price-value-overrides.md)
 
-## Related
-
-- [[cpq-availability-of-price-value-overrides|Availability of price value overrides]]
-- [[layout_editor|Layout editor]]

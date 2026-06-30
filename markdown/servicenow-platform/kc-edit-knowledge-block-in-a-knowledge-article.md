@@ -12,7 +12,7 @@ breadcrumb: [Using knowledge blocks in the Knowledge Center, Using Knowledge Cen
 
 # Edit a knowledge block in a knowledge article
 
-Edit [[knowledge-blocks|knowledge blocks]] within a knowledge article to update the reused content across articles within the knowledge base.
+Edit knowledge blocks within a knowledge article to update the reused content across articles within the knowledge base.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: knowledge
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-center|Knowledge Center]]** &gt; **Lists** &gt; **Knowledge**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center** &gt; **Lists** &gt; **Knowledge**.
 
 2.  Select **New** to create an article.
 
@@ -46,7 +46,7 @@ Role required: knowledge
 
 11. Select **Save**.
 
-    The knowledge block is saved and appears in the Unpublished list under Knowledge Blocks. If the [[article-versioning|article versioning]] feature is enabled, the version of the knowledge block is incremented by 0.01.
+    The knowledge block is saved and appears in the Unpublished list under Knowledge Blocks. If the article versioning feature is enabled, the version of the knowledge block is incremented by 0.01.
 
 12. Publish the knowledge block by selecting **Publish**.
 
@@ -58,8 +58,4 @@ Role required: knowledge
 
     **Note:** You can’t edit knowledge blocks from the article area. You must go to a knowledge block record to edit it. To edit a published knowledge block, you must checkout the block.
 
-## Related
 
-- [[knowledge-blocks|Knowledge blocks]]
-- [[knowledge-center|Knowledge Center]]
-- [[article-versioning|Article versioning]]

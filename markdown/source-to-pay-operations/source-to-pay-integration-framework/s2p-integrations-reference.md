@@ -14,7 +14,7 @@ breadcrumb: [Integrations, Source-to-Pay Operations, Finance and Supply Chain]
 
 # Source-to-Pay integrations reference
 
-Reference topics provide additional information on integrating [[source-to-pay-operations-overview|Source-to-Pay Operations]] with third-party applications, including primary data, fixed assets, purchase orders, [[receipts|receipts]], [[invoices|invoices]], and tax integration between Source-to-Pay and ERP systems.
+Reference topics provide additional information on integrating Source-to-Pay Operations with third-party applications, including primary data, fixed assets, purchase orders, receipts, invoices, and tax integration between Source-to-Pay and ERP systems.
 
 -   **[Source-to-Pay Integrations glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integrations-glossary.md)**  
 Learn about the terms and concepts used in Source-to-Pay \(S2P\) integrations.
@@ -23,8 +23,3 @@ Reference topics provide additional information on integrating Source-to-Pay Ope
 
 **Parent Topic:**[Source-to-Pay Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integrations-landing.md)
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]

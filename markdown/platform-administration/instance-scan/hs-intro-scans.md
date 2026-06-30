@@ -14,18 +14,12 @@ breadcrumb: [Instance Scan, Maintain and monitor, Administer the ServiceNow AI P
 
 # Configuring Instance Scan
 
-Execute the different kinds of scans that [[hs-landing-page|Instance Scan]] offers to keep a check on the health of your instance. You can also [[hs-schedule-full-scan|schedule a full scan]] so you can ensure the health of your instance even without an active session.
+Execute the different kinds of scans that Instance Scan offers to keep a check on the health of your instance. You can also schedule a full scan so you can ensure the health of your instance even without an active session.
 
 **Note:** Instance Scan scans only customized records, but point scan scans all records including the default records.
 
 1.  [Execute scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md): Execute the different types of scans available as per your requirements.
 2.  [Schedule scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-schedule-full-scan.md): Create a schedule to regularly trigger either a full or a suite scan even when you don’t have an active session.
 3.  [Monitor scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-progress-status-full-scan.md): Track the progress status of the executed and scheduled scans.
-4.  [Review scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md): Review your executed scans with the [[hs-findings|findings]] and [[hs-results|results]] components.
+4.  [Review scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md): Review your executed scans with the findings and results components.
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-schedule-full-scan|Schedule a full scan]]
-- [[hs-findings|Findings]]
-- [[hs-results|Results]]

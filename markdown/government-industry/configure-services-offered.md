@@ -12,7 +12,7 @@ breadcrumb: [Set up self-service, Configure, Public Sector Digital Services \(PS
 
 # Configure the portal service catalog for a constituent, business, or agency
 
-Configure the Public Sector Digital Services service catalog so that you can define the type of public service being offered, the service taxonomy, and which agency offers the service. These services are displayed on the [[gsp-overview-public-sector|Government Service Portal]] or GOV.UK Design System Service Portal.
+Configure the Public Sector Digital Services service catalog so that you can define the type of public service being offered, the service taxonomy, and which agency offers the service. These services are displayed on the Government Service Portal or GOV.UK Design System Service Portal.
 
 ## About this task
 
@@ -105,6 +105,4 @@ Description of the public service.
 </td></tr></tbody>
 </table>4.  Select **Submit** or **Update**.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

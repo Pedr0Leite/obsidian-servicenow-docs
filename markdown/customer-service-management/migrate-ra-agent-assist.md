@@ -12,7 +12,7 @@ breadcrumb: [Configuring AI search, Recommended Actions configuration, Implement
 
 # Enable AI search in Recommended Actions
 
-As an admin, you can enable the [[configure-nba|Recommended Actions]] - AI search on the [[csm-front-line-case-page|Front-line case page]], [[csm-default-record-page|CSM default record page]], and CSM Interaction page \(for chat, video, walk-up, and email channels\) by setting the **hideAgentAssistShowRA** UX page property to true.
+As an admin, you can enable the Recommended Actions - AI search on the Front-line case page, CSM default record page, and CSM Interaction page \(for chat, video, walk-up, and email channels\) by setting the **hideAgentAssistShowRA** UX page property to true.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The Recommended Actions - AI search is available for the following pages:
 
 -   CSM default record page
 -   Front-line case page
--   [[csm-interaction-record-page|CSM Interaction record page]] for chat, video, email, and walk-up channels
+-   CSM Interaction record page for chat, video, email, and walk-up channels
 
 The following table shows how you can avail Recommended Actions - AI search feature:
 
@@ -50,9 +50,9 @@ Customers who on-boarded before Yokohama release
 
 </td><td>
 
-[[migration-agent-assist|Agent Assist]] is enabled by default with the option to manually migrate to Recommended Actions - AI search.To migrate from Agent Assist to Recommended Actions - AI Search create and set the **hideAgentAssistShowRA** UX page property to `True`.
+Agent Assist is enabled by default with the option to manually migrate to Recommended Actions - AI search.To migrate from Agent Assist to Recommended Actions - AI Search create and set the **hideAgentAssistShowRA** UX page property to `True`.
 
-**Note:** If you already created this property for enabling [[ra-csm-chat-interaction-record|Recommended Actions in the chat interaction record]], you need not create it again.
+**Note:** If you already created this property for enabling [Recommended Actions in the chat interaction record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-chat-interaction-record.md), you need not create it again.
 
 </td></tr></tbody>
 </table>## Procedure
@@ -78,11 +78,4 @@ Customers who on-boarded before Yokohama release
 
 5.  Select **Save**.
 
-## Related
 
-- [[ra-csm-chat-interaction-record|Recommended Actions in the chat interaction record]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[migration-agent-assist|Agent assist]]

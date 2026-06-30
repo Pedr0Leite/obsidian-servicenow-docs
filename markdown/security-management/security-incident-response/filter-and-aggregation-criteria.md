@@ -20,7 +20,7 @@ You can define and set filter conditions so that you can specify which incoming 
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 ## Set the filtering conditions for security incidents
 
@@ -73,7 +73,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ### About this task
 
-If a new incident matches all the values that are selected in the aggregation field conditions in the [[mapping-logrhythm|mapping]] step, the incident is automatically added to the most recently opened security incident with the same field values. As a user with the sn\_si.analyst role working with security incidents, you can view all the added aggregate incidents on a related list on a security incident.
+If a new incident matches all the values that are selected in the aggregation field conditions in the mapping step, the incident is automatically added to the most recently opened security incident with the same field values. As a user with the sn\_si.analyst role working with security incidents, you can view all the added aggregate incidents on a related list on a security incident.
 
 All the aggregated incidents on a security incident are displayed on the Azure Sentinel Aggregated Incidents related list. This list details the associated timestamps and aggregated field values. This information helps you understand why incidents are added to the existing security incidents.
 
@@ -85,7 +85,7 @@ All the aggregated incidents on a security incident are displayed on the Azure S
 
 2.  In the **Incident fields with matching values** field, enter the field values that you want to match on existing security incidents in your ServiceNow AI Platform instance.
 
-    All field values that you selected in the multi-selection input field must match so that the aggregation criteria is met and that this incoming incident can be appended to an existing security incident. This selection implies it is an `AND` condition where fields, such as [[c_Observables|Observables]] and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Azure Sentinel Incident aggregation conditions are not met and a new security incident is created.
+    All field values that you selected in the multi-selection input field must match so that the aggregation criteria is met and that this incoming incident can be appended to an existing security incident. This selection implies it is an `AND` condition where fields, such as Observables and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Azure Sentinel Incident aggregation conditions are not met and a new security incident is created.
 
 3.  To add multiple field matching conditions, click **Add New Criteria**
 
@@ -102,8 +102,3 @@ All the aggregated incidents on a security incident are displayed on the Azure S
 
 Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]

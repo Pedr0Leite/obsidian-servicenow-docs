@@ -14,7 +14,7 @@ breadcrumb: [Setup instance, Secureworks CTP Ticket Ingestion Integration, Secur
 
 # Install and configure the ServiceNow application for the Secureworks CTP ticket ingestion integration
 
-Before you run the integration on your ServiceNow AI Platform instance, complete these installation and configuration steps so the application properly integrates with the [[sir-landing-page|Security Incident Response]] and [[security-operations-landing-page|Security Operations]] products on your ServiceNow AI Platform instance.
+Before you run the integration on your ServiceNow AI Platform instance, complete these installation and configuration steps so the application properly integrates with the Security Incident Response and Security Operations products on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If you have not installed the Secureworks CTP ticket application from the ServiceNow Store for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the Secureworks CTP ticket application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
-2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the [[secureworks-ctp-about|Secureworks CTP Ticket Ingestion Integration]] tile.
+2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Secureworks CTP Ticket Ingestion Integration tile.
 
 3.  To configure the application, select **New**.
 
@@ -90,9 +90,3 @@ For more information on how to obtain the username and API password, follow the 
 
 If your saved configuration tiles are not displayed on the Security Integrations page. On the top right corner of the page, from the **Show Configurations** list, select **Yes**.
 
-## Related
-
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[secureworks-ctp-about|Secureworks CTP Ticket Ingestion Integration]]

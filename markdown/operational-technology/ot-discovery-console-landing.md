@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology Native Discovery components, Operational Tec
 
 # Discovery Console for Operational Technology \(OT\)
 
-Use the Discovery Console for OT component to discover, monitor, and query devices in your [[operational-technology-overview|Operational Technology]] environment.
+Use the Discovery Console for OT component to discover, monitor, and query devices in your Operational Technology environment.
 
 ## Get started
 
@@ -22,38 +22,30 @@ Use the links to explore, configure, and learn more about the ServiceNow Discove
 
 Explore\[Omitted image "BUS\_64px\_Explore\_YG.png"\] Alt text:
 
- [[explore-ot-console|Explore the Discovery Console for Operational Technology \(OT\)]]
+ [Explore the Discovery Console for Operational Technology \(OT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/explore-ot-console.md)
 
 </td><td>
 
 Configure\[Omitted image "BUS\_64px\_SDLC\_YG.png"\] Alt text:
 
- [[configure-ot-discovery-console|Configure the Discovery Console for OT]]
+ [Configure the Discovery Console for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configure-ot-discovery-console.md)
 
 </td></tr><tr><td>
 
 Interact\[Omitted image "BUS\_64px\_Manage\_YG.png"\] Alt text:
 
- [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]]
+ [Use the Discovery Console for OT interactive configuration wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/console-onboarding-wizard.md)
 
 </td><td>
 
 Use\[Omitted image "BUS\_64px\_Optimize-Manage\_YG.png"\] Alt text:
 
- [[using-discovery-console|Use the Discovery Console for OT pages]]
+ [Use the Discovery Console for OT pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-discovery-console.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 If you have any errors or difficulties while using the Operational Technology applications, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-If you have any errors or difficulties while using the Discovery Console for Operational Technology \(OT\), you can use [[download-console-log-files|Download Console log files]] to help you troubleshoot the problem.
+If you have any errors or difficulties while using the Discovery Console for Operational Technology \(OT\), you can use [Download Console log files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/download-console-log-files.md) to help you troubleshoot the problem.
 
-## Related
-
-- [[explore-ot-console|Explore the Discovery Console for Operational Technology \(OT\)]]
-- [[configure-ot-discovery-console|Configure the Discovery Console for OT]]
-- [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]]
-- [[using-discovery-console|Use the Discovery Console for OT pages]]
-- [[download-console-log-files|Download Console log files]]
-- [[operational-technology-overview|Operational Technology]]

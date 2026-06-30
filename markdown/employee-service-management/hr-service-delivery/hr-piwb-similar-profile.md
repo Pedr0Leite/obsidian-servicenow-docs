@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench implementation, HR Predictive 
 
 # HR PIWB template: Recommend similar cases by employee profile
 
-Use the classic setup template to configure and train your Similarity solution template with machine [[exploring-learning-exp|learning]] model to recommend top relevant articles and catalog items based on a similar [[emp-slate-employee-profile|employee profile]] for content discovery and personalized experience.
+Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend top relevant articles and catalog items based on a similar employee profile for content discovery and personalized experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_piwb\_hr\_content.admin
 
 ## About this task
 
-[[discover-lxp|Discover]] all the users who have a similar profile as the employee. Identify the top viewed knowledge articles and top submitted catalog items by those users.
+Discover all the users who have a similar profile as the employee. Identify the top viewed knowledge articles and top submitted catalog items by those users.
 
 ## Procedure
 
@@ -58,7 +58,7 @@ When the configuration is complete, the solution displays the top three knowledg
 
 ## What to do next
 
-You can verify the integration status from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
+You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-implementation-guidance.md)
 
@@ -69,9 +69,3 @@ You can verify the integration status from **[[c_AdministerHRServiceManagement|H
 
 [Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[discover-lxp|Discover]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

@@ -14,15 +14,15 @@ breadcrumb: [Identity Audit Results, Identity and Access Audit, Identity]
 
 # User Trails
 
-Displays audits of [[users|users]] in the ServiceNow® instance.
+Displays audits of users in the ServiceNow® instance.
 
 For a given user, User Trails show changes to:
 
--   [[identity-landing|Identity]] attributes
+-   Identity attributes
 -   role membership
 -   group membership
 
-To access User Trails, navigate to **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **User Trails**. The User Trails page displays the following information.
+To access User Trails, navigate to **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **User Trails**. The User Trails page displays the following information.
 
 | | |
 |---|---|
@@ -35,8 +35,3 @@ To access User Trails, navigate to **All** &gt; **System Security** &gt; **[[ide
 
 \[Omitted image "user-trails.png"\] Alt text: User Trails
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[identity-audit|Identity and Access Audit]]

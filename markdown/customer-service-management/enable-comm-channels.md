@@ -16,7 +16,7 @@ Set up multiple communication channels so that customers can contact you through
 
 <table id="table_mhz_4gb_l1c" class="nav-card"><tbody><tr><td>
 
-[Consumer messaging apps\[Omitted image "bus-customer-service.svg"\] Alt text:Integrate [[c_CustomerServiceManagement|Customer Service Management]] with [[consumer-messaging-apps|consumer messaging apps]] to deliver a conversational mobile messaging experience for consumers and customer contacts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/consumer-messaging-apps.md)
+[Consumer messaging apps\[Omitted image "bus-customer-service.svg"\] Alt text:Integrate Customer Service Management with consumer messaging apps to deliver a conversational mobile messaging experience for consumers and customer contacts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/consumer-messaging-apps.md)
 
 </td><td>
 
@@ -35,33 +35,24 @@ Set up multiple communication channels so that customers can contact you through
 
 Configure communication channels for users to email, call, or chat, and integrate social media channels. This ensures users can reach your team through their preferred method for assistance.
 
--   **[[messg-integrate-channels|Consumer messaging apps]]**
+-   **[Consumer messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrate-channels.md)**
 
     Integrate Customer Service Management with consumer messaging apps to deliver a conversational mobile messaging experience for consumers and customer contacts. Customers can message your company using their preferred app to start a conversation with a virtual or live agent. The following consumer messaging apps can be integrated with Customer Service Management: WhatsApp, LINE, Facebook Messenger, and Apple Messages for Business.
 
--   **[[c_ChatFeature|Chat channel]]**
+-   **[Chat channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ChatFeature.md)**
 
     The chat communication channel uses the Connect Support feature to provide chat capability from the Customer Service and Consumer Service Portals. You can also enable Virtual Agent to create or use predefined chatbot topics \(conversations\) for your users.
 
--   **[[c_CustomerServiceEmailCommunication|Email channel]]**
+-   **[Email channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceEmailCommunication.md)**
 
     Customers can send emails to create cases and update current cases, and receive email updates from agents as cases progress. Customer Service Management uses the ServiceNow email accounts feature to create and maintain email accounts.
 
--   **[[c_PhoneCommunication|Phone channel]]**
+-   **[Phone channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_PhoneCommunication.md)**
 
     Computer Telephony Integration \(CTI\) helps integrate a third-party telephony system to your ServiceNow Workspace via OpenFrame and Interaction Controls Component \(ICC\). Any third-party Contact Center as a Service \(CCaaS\) platform \(like Amazon Connect or Genesys\) can integrate to the ServiceNow CRM Platform. CCaaS can integrate their voice call controls and workflows into their provisioned instance to enable agents to handle phone calls directly within their Workspace.
 
-    [[configure-omni-callback|Omnichannel Callback]]
+    [Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-omni-callback.md)
 
-    Set up and configure [[omni-callback-csm|Omnichannel Callback for Customer Service Management]] to enable customers to request voice or video callbacks. Customize the feature to meet your organization’s needs, enhancing customer experience and optimizing case resolution efficiency.
+    Set up and configure Omnichannel Callback for Customer Service Management to enable customers to request voice or video callbacks. Customize the feature to meet your organization’s needs, enhancing customer experience and optimizing case resolution efficiency.
 
-## Related
 
-- [[messg-integrate-channels|Integrating with consumer messaging apps]]
-- [[c_ChatFeature|Configuring the chat channel]]
-- [[c_CustomerServiceEmailCommunication|Configuring the email channel]]
-- [[c_PhoneCommunication|Configuring the phone channel]]
-- [[configure-omni-callback|Configuring Omnichannel Callback for Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[consumer-messaging-apps|Consumer messaging apps]]
-- [[omni-callback-csm|Omnichannel Callback for Customer Service Management]]

@@ -28,7 +28,7 @@ An activity context is the person or user who is interacting with the customer s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer History** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer History** &gt; **Guided Setup**.
 
 2.  Select **Get Started** under Activity Contexts.
 
@@ -55,6 +55,4 @@ An activity context is the person or user who is interacting with the customer s
 
 9.  Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

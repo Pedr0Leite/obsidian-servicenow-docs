@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Create indicators in Microsoft Defender for Endpoint
 
-[[create-indicator-cs-falcon-insight|Create indicators]] from associated [[c_Observables|observables]] of the security incident using the Microsoft Defender for Endpoint.
+Create indicators from associated observables of the security incident using the Microsoft Defender for Endpoint.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_si.admin, sn\_si.analyst
 
 ## About this task
 
-The [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]] allows [[tisc-observable-enrichment|observable enrichment]] for all the observable types that are mapped in the Observable-Indicator [[mapping-logrhythm|mapping]] module.
+The Microsoft Defender for Endpoint integration allows observable enrichment for all the observable types that are mapped in the Observable-Indicator mapping module.
 
-Create indicators provide you the ability to set a list of [[indicator|indicators]] for detection, and for blocking prevention and responses. You can create the indicators from associated observable of the security incident.
+Create indicators provide you the ability to set a list of indicators for detection, and for blocking prevention and responses. You can create the indicators from associated observable of the security incident.
 
 ## Procedure
 
@@ -145,11 +145,4 @@ RBAC group names that the indicator would be applied to. The names are in a comm
 
 10. Select the **Microsoft Defender Indicator** tab to view the results.
 
-## Related
 
-- [[create-indicator-cs-falcon-insight|Create indicators]]
-- [[c_Observables|Observables]]
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[mapping-logrhythm|Mapping]]
-- [[indicator|Indicators]]

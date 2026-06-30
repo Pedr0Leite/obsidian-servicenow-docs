@@ -14,7 +14,7 @@ breadcrumb: [Digital End-user Experience Self-service, Digital End-User Experien
 
 # Configuring Digital End-user Experience Self-service
 
-The DEX Self-service plugin gets installed automatically with the [[dex-landing|Digital End-User Experience]] application. This plugin provides the Device health check capability, enabling employees to check device health based on configurations set by DEX admins.
+The DEX Self-service plugin gets installed automatically with the Digital End-User Experience application. This plugin provides the Device health check capability, enabling employees to check device health based on configurations set by DEX admins.
 
 ## Configuration overview
 
@@ -26,7 +26,7 @@ The DEX Self-service plugin gets installed automatically with the [[dex-landing|
 
 2.  [Activate Proactive Engagement resolutions for DEX Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/activate-proactive-engage-resolutions.md)
 
-    Activate base system [[proactive-engagement-landing-page|Proactive Engagement]] resolutions to enable end users to self-solve issues using DEX Self-service.
+    Activate base system Proactive Engagement resolutions to enable end users to self-solve issues using DEX Self-service.
 
 3.  [Enable issue configurations for DEX Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/enable-dex-self-service-issues.md).
 
@@ -42,7 +42,7 @@ The DEX Self-service plugin gets installed automatically with the [[dex-landing|
 
 6.  [Configure device actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/configuring-dex-self-service-device-actions.md)
 
-    [[configuring-dex-self-service-device-actions|Configure device actions]] that end users can initiate from DEX Self-service even when no issues are detected.
+    Configure device actions that end users can initiate from DEX Self-service even when no issues are detected.
 
 
 ## Guided setup
@@ -53,8 +53,3 @@ This guided setup provides guidance to configure and setup the DEX Self-service 
 
 \[Omitted image "gs-dex-ss.png"\] Alt text: Guided setup Getting started with DEX Self-service
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[configuring-dex-self-service-device-actions|Configure device actions]]

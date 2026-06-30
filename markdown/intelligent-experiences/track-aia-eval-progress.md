@@ -17,17 +17,17 @@ Monitor the status of an active evaluation run to catch errors early and confirm
 
 ## Before you begin
 
-You must have an active evaluation run to monitor. For information about creating evaluation runs, see [[execute-aia-eval|Execute an agentic evaluation run]].
+You must have an active evaluation run to monitor. For information about creating evaluation runs, see [Execute an agentic evaluation run](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 Role required: admin
 
 ## About this task
 
-Agentic evaluations can take time to complete, especially for large [[ai-datasets|datasets]]. Monitoring progress helps you identify issues early and determine when results are ready for review.
+Agentic evaluations can take time to complete, especially for large datasets. Monitoring progress helps you identify issues early and determine when results are ready for review.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
 2.  Select an evaluation with a trackable status.
 
@@ -51,7 +51,7 @@ Agentic evaluations can take time to complete, especially for large [[ai-dataset
 
     2.  Select execution records to view detailed performance information.
 
-        This opens the execution details in [[ai-agent-studio|AI Agent Studio]], where you can review the complete conversation between the simulated user and the agentic AI, including reasoning and processing messages from agents and tools.
+        This opens the execution details in AI Agent Studio, where you can review the complete conversation between the simulated user and the agentic AI, including reasoning and processing messages from agents and tools.
 
     3.  Review conversation records and timestamps to understand the interaction flow.
 
@@ -81,12 +81,5 @@ You can monitor the evaluation progress and take action when required. When the 
 
 ## What to do next
 
-After the evaluation completes, review the results to identify areas for improvement in your agentic AI configuration. For information about analyzing evaluation results, see [[review-aia-eval-outputs|Review the results of an agentic evaluation]].
+After the evaluation completes, review the results to identify areas for improvement in your agentic AI configuration. For information about analyzing evaluation results, see [Review the results of an agentic evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/review-aia-eval-outputs.md).
 
-## Related
-
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[review-aia-eval-outputs|Review agentic evaluation outputs]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-agent-studio|AI Agent Studio]]

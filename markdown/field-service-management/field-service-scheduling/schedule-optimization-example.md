@@ -16,7 +16,7 @@ breadcrumb: [Schedule Optimization, Setting up a Field Service scheduling method
 
 This example shows three different ways admins can configure the optimization engine to schedule tasks.
 
-Admins can configure [[schedule-optimization|Schedule Optimization]] to run overnight in batches to schedule a larger number of tasks or throughout the day at selected intervals based on events. Admins can also enable dispatchers to initiate Schedule Optimization from [[dispatcher-activities|Dispatcher Workspace]] by configuring on-demand optimization.
+Admins can configure Schedule Optimization to run overnight in batches to schedule a larger number of tasks or throughout the day at selected intervals based on events. Admins can also enable dispatchers to initiate Schedule Optimization from Dispatcher Workspace by configuring on-demand optimization.
 
 In this example, the organization is ensuring that agents complete as many tasks as they can during their shift without spending a lot of time traveling between tasks. A policy is configured to maximize assignments and minimize travel time. On-demand optimization is enabled for the dispatchers who are assigned to this group of agents.
 
@@ -204,8 +204,3 @@ San Diego South - Enable On Demand = True
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

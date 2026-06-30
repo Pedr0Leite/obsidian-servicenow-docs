@@ -40,7 +40,7 @@ Activate the Third-party Risk Management app \[com.sn\_vdr\_risk\_asmt\].
 
 </td><td>
 
-To see the instructions for downloading a GRC application from the ServiceNow® Store, see [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].**Important:** The base system includes many sample questions that you can use in your question bank. To include [[tprm-questionnaire-types|sample questionnaires]], select **Load demo data** while installing the app.
+To see the instructions for downloading a GRC application from the ServiceNow® Store, see [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).**Important:** The base system includes many sample questions that you can use in your question bank. To include sample questionnaires, select **Load demo data** while installing the app.
 
 Role required: admin
 
@@ -74,7 +74,7 @@ For more information, see [Add an authentication policy to enable secure access 
 
 </td></tr><tr><td>
 
-[[tprm-roles-assign|Assign TPRM roles to users and user groups]].
+Assign TPRM roles to users and user groups.
 
 </td><td>
 
@@ -96,7 +96,7 @@ For more information, see [Add users to groups based on responsibilities](https:
 
 </td></tr><tr><td>
 
-[[tprm-properties-configure|Configure TPRM properties]].
+Configure TPRM properties.
 
 </td><td>
 
@@ -108,7 +108,7 @@ Configure property settings for a variety of TPRM operations.
 
 </td></tr><tr><td>
 
-[[tprm-risk-map-configure|Enable the TPRM Risk concentration map]].
+Enable the TPRM Risk concentration map.
 
 </td><td>
 
@@ -154,7 +154,7 @@ This task is optional. Import existing data \(third parties, engagements, assess
 
 </td></tr><tr><td>
 
-[[tprm-tp-contact-config|Set up third-party contacts]].
+Set up third-party contacts.
 
 </td><td>
 
@@ -206,11 +206,3 @@ This task is optional.
 
 [Smart assessment configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sae-assessment-config.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[tprm-questionnaire-types|Sample questionnaires]]
-- [[tprm-roles-assign|Assign TPRM roles to users and user groups]]
-- [[tprm-properties-configure|Configure TPRM properties]]
-- [[tprm-risk-map-configure|Enable the TPRM Risk concentration map]]
-- [[tprm-tp-contact-config|Set up third-party contacts]]

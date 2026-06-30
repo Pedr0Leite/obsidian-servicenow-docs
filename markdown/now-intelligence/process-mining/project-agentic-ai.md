@@ -24,7 +24,7 @@ You must have the Agentic AI plugin installed.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Select **Create new project** from the projects page.
 
@@ -133,15 +133,10 @@ The template for Agentic AI project is auto-selected.
 
     **Note:** You can go to any of the tabs and edit any information you want. No improvement opportunities are added by default. You can add if required. The touchpoint and idle-time metrics are grayed out for Agentic AI projects.
 
-    After you mine your project, you cannot use the some analysis such as root cause analysis, [[worknotes-analysis|work notes analysis]], and clustering. [[task-mining|Task mining]] is also not available for Agentic AI projects.
+    After you mine your project, you cannot use the some analysis such as root cause analysis, work notes analysis, and clustering. Task mining is also not available for Agentic AI projects.
 
     \[Omitted image "agentic-ai-project.png"\] Alt text: Agentic AI project
 
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[task-mining|Task Mining]]

@@ -20,17 +20,17 @@ Role required: sn\_customerservice\_agent, svc\_location\_agent, order\_agent
 
 ## About this task
 
-The hierarchical list view needs to be manually enabled via the UI builder for customers using the Yokohama, Zurich, and australia instances. To learn how to enable the hierarchical view, see [[enable-custom-tabs-on-workspace-record-pages|Enable custom tabs on CSM workspace record page]].
+The hierarchical list view needs to be manually enabled via the UI builder for customers using the Yokohama, Zurich, and australia instances. To learn how to enable the hierarchical view, see [Enable custom tabs on CSM workspace record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-custom-tabs-on-workspace-record-pages.md).
 
 ## Procedure
 
-1.  Navigate to the [[csm-workspaces-configure|CSM Configurable Workspace]] and select the List icon \[Omitted image "list-outline-24.svg"\] Alt text:.
+1.  Navigate to the CSM Configurable Workspace and select the List icon \[Omitted image "list-outline-24.svg"\] Alt text:.
 
 2.  Navigate to **Customer** &gt; **Accounts**.
 
 3.  Select the account that you're working on to open the list view.
 
-4.  Select the **[[sold-product|Sold Products]]** tab to view the sold products as a hierarchical list.
+4.  Select the **Sold Products** tab to view the sold products as a hierarchical list.
 
     Toggle the hierarchy filter on the sold products list view to see all the sold products as a flat list, that is in a non-hierarchical structure.
 
@@ -38,8 +38,4 @@ The hierarchical list view needs to be manually enabled via the UI builder for c
 
     To learn more about the controls, see [Use hierarchical list view for quote line items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-view-hierarchical-line-items.md).
 
-## Related
 
-- [[enable-custom-tabs-on-workspace-record-pages|Enable custom tabs on CSM workspace record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

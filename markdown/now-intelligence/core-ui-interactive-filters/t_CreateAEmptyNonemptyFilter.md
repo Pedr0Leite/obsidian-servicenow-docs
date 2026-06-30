@@ -14,11 +14,11 @@ breadcrumb: [Creating Interactive Filters, Interactive Filters, Reporting, dashb
 
 # Create an interactive filter for whether a field is empty or populated
 
-You can [[t_CreateABooleanPublisher|create a Boolean interactive filter]] that lets users filter report [[widgets|widgets]] based on whether a specific field is empty or populated.
+You can create a Boolean interactive filter that lets users filter report widgets based on whether a specific field is empty or populated.
 
 ## Before you begin
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 **Note:** If the interactive filter has a default value or specifies the last selected value, non-responsive dashboards do not apply this value automatically. This feature is only available on [Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md).
 
@@ -62,9 +62,3 @@ After you create the filter, add it to a dashboard.
 
 **Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md)
 
-## Related
-
-- [[t_CreateABooleanPublisher|Create a Boolean interactive filter]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

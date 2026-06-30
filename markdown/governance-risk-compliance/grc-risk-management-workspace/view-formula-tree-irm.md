@@ -26,7 +26,7 @@ A formula tree provides transparency by displaying the detailed breakdown of how
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Management** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk Management** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-risk-workspace.png"\] Alt text: icon.
 
@@ -43,6 +43,3 @@ A formula tree provides transparency by displaying the detailed breakdown of how
 
 **Parent Topic:**[Reviewing calculation details with formula trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/reviewing-formula-tree-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

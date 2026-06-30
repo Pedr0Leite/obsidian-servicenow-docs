@@ -27,7 +27,7 @@ There are two types of filters:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Select a project.
 
@@ -42,6 +42,3 @@ There are two types of filters:
 
 **Parent Topic:**[Filtering project data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-project.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

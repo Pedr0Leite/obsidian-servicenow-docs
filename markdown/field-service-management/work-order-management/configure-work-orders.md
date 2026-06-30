@@ -14,11 +14,11 @@ breadcrumb: [Set up work orders and tasks, Configure, Field Service Management]
 
 # Configuring work orders
 
-[[fsm-application-landing-page|Field Service Management]] uses a task-driven process, wherein each work order encapsulates a list of essential tasks. Upon the creation of a work order, a corresponding task record is instantly generated. Task-driven processing can provide structure and clarity for intricate projects.
+Field Service Management uses a task-driven process, wherein each work order encapsulates a list of essential tasks. Upon the creation of a work order, a corresponding task record is instantly generated. Task-driven processing can provide structure and clarity for intricate projects.
 
 Work orders are the driving force behind Field Service Management. They define what Field Service agents must do to complete their jobs.
 
-Work orders follow a specific life cycle and move through a series of states. The states can vary based on your configuration. For example, if you want to qualify work orders before they're assigned, then you can enable qualification. Qualification adds the Awaiting Qualification and Qualified [[work-order-states|work order states]]. For more information, see [Work order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-states.md).
+Work orders follow a specific life cycle and move through a series of states. The states can vary based on your configuration. For example, if you want to qualify work orders before they're assigned, then you can enable qualification. Qualification adds the Awaiting Qualification and Qualified work order states. For more information, see [Work order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-states.md).
 
 Each work order requires at least one task, with the option to add more to cover all facets of the request. While tasks can be assigned to different groups and operate autonomously from the main work order request, the progression and completion of these tasks influence the overall state of the parent work order.
 
@@ -42,14 +42,10 @@ Optionally, set up one or more work order configurations.
 
 -   [Configuring Template Management for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/enabling-advanced-configurations-for-wo-template.md)
 
-    Provide [[customizations|advanced configurations]] for work order templates that enable the templates to work dynamically while creating a work order.
+    Provide advanced configurations for work order templates that enable the templates to work dynamically while creating a work order.
 
 -   [Signed PDF summaries for closed work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-sign-and-confirm-pdf.md)
 
     Allow customers to digitally sign a PDF, and confirm that work orders are closed. A summary of the work order is created that includes the completed tasks, parts used and returned, incidental expenses, and the time required to complete the work.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[work-order-states|Work order states]]
-- [[customizations|Advanced configurations]]

@@ -23,10 +23,10 @@ You can use the [Advanced Work Assignment](https://raw.githubusercontent.com/Ser
 AWA assigns work items using assignment groups so it's important that your users and groups are set up correctly.
 
 -   Determine the assignment group to use in the AWA service channel configuration and add users to this group.
--   Add the **Assignment Group** field to the [[csm-case-task-form|Case Task form]] view and make the field mandatory.
+-   Add the **Assignment Group** field to the Case Task form view and make the field mandatory.
 -   Ensure that the users in the assignment group have access to case tasks.
 
-    **Note:** By default, CSM uses assignment groups to control visibility to case tasks. Therefore the logic to [[osp-assign-case|assign a case]] task to the correct assignment group is triggered when a case task is created.
+    **Note:** By default, CSM uses assignment groups to control visibility to case tasks. Therefore the logic to assign a case task to the correct assignment group is triggered when a case task is created.
 
 
 ## About this task
@@ -98,7 +98,7 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
 4.  Create an assignment rule for the Case Task Assignment queue.
 
-    1.  Navigate to **Advanced Work Assignment** &gt; **Assignment [[gamification-components-rules|Rules]]** and click **New**.
+    1.  Navigate to **Advanced Work Assignment** &gt; **Assignment Rules** and click **New**.
 
     2.  Fill in the fields on the Assignment Rule form.
 
@@ -113,7 +113,7 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
     For more information about creating an assignment rule, see [Configure agent assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-assignment-rule.md).
 
-5.  [[create-a-group-so|Create a group]] for the Case Task Assignment queue.
+5.  Create a group for the Case Task Assignment queue.
 
     1.  Navigate to **Advanced Work Assignment** &gt; **Management** &gt; **Groups** and click **New**.
 
@@ -151,9 +151,4 @@ Setting up a service channel involves multiple steps, which are detailed in the 
 
     Once the service channel is activated, you can use it to assign work items. For more information, see [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-service-channels.md).
 
-## Related
 
-- [[csm-case-task-form|Case task form]]
-- [[osp-assign-case|Assign a case]]
-- [[gamification-components-rules|Rules]]
-- [[create-a-group-so|Create a group]]

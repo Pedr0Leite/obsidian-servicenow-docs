@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for TMT, Telecommunications, Media, and Techn
 
 # Configure Service Exchange Now Assist for Telecommunications, Media and Technology \(TMT\)
 
-Configure the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application so that enterprise providers can use the [[tmt-service-bridge-both-landing-page|Service Exchange]] Mapping Assist feature in the Core UI.
+Configure the Now Assist for Telecommunications, Media and Technology \(TMT\) application so that enterprise providers can use the Service Exchange Mapping Assist feature in the Core UI.
 
 ## Before you begin
 
@@ -38,7 +38,4 @@ Role required: admin
 
     Your skill is configured and activated. Agents can now automatically generate transform mapping between the provider and consumer fields.
 
-## Related
 
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

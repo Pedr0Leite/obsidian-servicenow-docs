@@ -12,7 +12,7 @@ breadcrumb: [Reference, Conversation Improvement Themes, Enable AI experiences]
 
 # Troubleshooting for Conversation Improvement Themes
 
-Troubleshooting steps for errors that might occur in [[conv-impr-themes-landing|Conversation Improvement Themes]].
+Troubleshooting steps for errors that might occur in Conversation Improvement Themes.
 
 **Scenario/Symptom: The dashboard is not showing any data, one week after the install.**
 
@@ -20,7 +20,7 @@ Associated Error Codes/Warning: N/A.
 
 Steps to Resolve:
 
-Make sure all the skills and scheduled jobs are active by following the steps given in [[conv-impr-themes-activate|Activating Conversation Improvement Themes]].
+Make sure all the skills and scheduled jobs are active by following the steps given in [Activating Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-activate.md).
 
 **Scenario/Symptom: Execution staging records are stuck on Processing/Failed.**
 
@@ -32,7 +32,7 @@ Increase flow logging \(preferably in dev\).
 
 Environment guidance:
 
--   Dev/Test: Set verbose logging to All [[exploring-ai-governance|configurations]] and runtime value.
+-   Dev/Test: Set verbose logging to All configurations and runtime value.
 -   Prod: Use Runtime states and duration only. Don't enable All configurations and runtime value in production.
 
 Steps:
@@ -71,11 +71,5 @@ If no Gen AI logs are created, check the Outbound HTTP logs for any issues exist
 
 Sys Logs: Check sys logs for any errors related to passing with scope as sn\_na\_thematic.
 
-**Parent Topic:**[[conv-impr-themes-reference|Reference for Conversation Improvement Themes]]
+**Parent Topic:**[Reference for Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-reference.md)
 
-## Related
-
-- [[conv-impr-themes-activate|Activating Conversation Improvement Themes]]
-- [[conv-impr-themes-reference|Reference for Conversation Improvement Themes]]
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]
-- [[exploring-ai-governance|Configurations]]

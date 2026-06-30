@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Create reference record entries in record screen tables
 
-Create new entries in the [[mab-record-screen-tables|record screen tables]] of the [[mab-concept|Mobile App Builder]]. View where the Now Mobile configuration tree displays the new entry in the hierarchy.
+Create new entries in the record screen tables of the Mobile App Builder. View where the Now Mobile configuration tree displays the new entry in the hierarchy.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For more information about the delegated developer role, see [Delegated developm
 
     -   To open a new record, select the **New** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] Alt text: New button in categories home screen.\).
     -   To edit an existing record, select a record name.
-5.  In the [[form-screen|record screen]], select the **New** button \(\[Omitted image "mab-button-new.png"\] Alt text: New button.\) to open an empty reference record in the configuration panel.
+5.  In the record screen, select the **New** button \(\[Omitted image "mab-button-new.png"\] Alt text: New button.\) to open an empty reference record in the configuration panel.
 
     The ServiceNow AI Platform configuration tree is automatically updated with the new record that you created.
 
@@ -40,8 +40,4 @@ For more information about the delegated developer role, see [Delegated developm
 
 6.  Complete the fields as required and select **Save**.
 
-## Related
 
-- [[mab-record-screen-tables|Record screen tables]]
-- [[mab-concept|Mobile App Builder]]
-- [[form-screen|Record screen]]

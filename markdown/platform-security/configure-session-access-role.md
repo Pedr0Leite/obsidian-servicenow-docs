@@ -12,7 +12,7 @@ breadcrumb: [Zero Trust Access, Access Management]
 
 # Configuring Session Access role
 
-Configure Session Access to reduce user access in a session based on IP, location, [[identity-landing|Identity]] Provider attributes, and user attributes using [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]].
+Configure Session Access to reduce user access in a session based on IP, location, Identity Provider attributes, and user attributes using adaptive authentication policies.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: security\_admin
 -   Session Access doesn’t support integrations.
 -   Session Access has no impact if the reduced or limited role isn’t assigned to a user. In this case, there are no changes to the logged in session. User will still continue to access the instance with their assigned privileges.
 -   Session Access has no impact while the user is already logged in to the instance and simultaneously the admin configures the policy. The user has to log out from the session for the policy to be effective.
--   Session Access is enforced at the time of login. Any change in risk parameters during the session won’t result in reduced access. For example, a user switching from the corporate network to an untrusted network after establishing the session, won’t result in reduced access unless the user [[logs|logs]] out and logs in again.
+-   Session Access is enforced at the time of login. Any change in risk parameters during the session won’t result in reduced access. For example, a user switching from the corporate network to an untrusted network after establishing the session, won’t result in reduced access unless the user logs out and logs in again.
 -   Session Access \(Zero trust access - ZTA\) feature, roles like `snc_internal` and `snc_external` cannot be removed.
 -   Session Access \(Zero trust access - ZTA\) feature does not remove a role from the `sys_user_has_role` or the user group membership table. Based on the ZTA policy, it establishes the user session with reduced or limited roles.
 -   The scripts running in the system context will not honor the ZTA session roles.
@@ -33,7 +33,7 @@ Role required: security\_admin
 
 1.  Navigate to **All** &gt; **Zero Trust Access** &gt; **Session Access Role Configurations**.
 
-2.  To create a Session Access role [[sc-configuration|configuration]], select **New**.
+2.  To create a Session Access role configuration, select **New**.
 
 3.  On the form, fill the fields:
 
@@ -98,20 +98,12 @@ Choose the roles from the Group List that you want to remove or limit to the use
 </td></tr></tbody>
 </table>4.  Select, **Submit**.
 
-    The login for [[users|users]] based on the configured countries is as follows:
+    The login for users based on the configured countries is as follows:
 
     -   In **Remove Roles**, the users from the configured countries with the selected roles no longer have those roles for the session.
     -   In **Limit To Roles**, the users from the configured countries with the selected roles only have those roles for the session.
     \[Omitted image "configure-session-access-role.png"\] Alt text: Configure Session Access Role
 
-    To know more about how to remove or limit roles for a session explained with a sample use-case, see [[use-zero-trust-access|Tutorial: Use Zero Trust Access]].
+    To know more about how to remove or limit roles for a session explained with a sample use-case, see [Tutorial: Use Zero Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-zero-trust-access.md).
 
-## Related
 
-- [[use-zero-trust-access|use zero trust access]]
-- [[identity-landing|Identity]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

@@ -18,7 +18,7 @@ After accepting a solution for a case, complete a customer service satisfaction 
 
 Role required: none
 
-When a customer accepts a proposed solution for a case by clicking **Accept Solution** on the [[r_CustomerServiceCaseForm|case form]], a satisfaction survey is displayed in the portal. The customer has the option of completing or skipping the survey. Either choice returns the customer to the list of cases on the self-service portal.
+When a customer accepts a proposed solution for a case by clicking **Accept Solution** on the case form, a satisfaction survey is displayed in the portal. The customer has the option of completing or skipping the survey. Either choice returns the customer to the list of cases on the self-service portal.
 
 To complete the survey:
 
@@ -28,6 +28,4 @@ To complete the survey:
 
 2.  Select **Submit**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

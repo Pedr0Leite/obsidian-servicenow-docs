@@ -14,7 +14,7 @@ breadcrumb: [JWT Grant, Inbound integrations, OAuth Inbound, OAuth authenticatio
 
 # JSON Web token grant workflow
 
-Configuring an [[oauth-inbound-and-outbound|OAuth]] JSON Web Token \(JWT\) bearer grant secures [[token-based-auth-api|token-based authentication]] without user interaction.
+Configuring an OAuth JSON Web Token \(JWT\) bearer grant secures token-based authentication without user interaction.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## About this task
 
-The client application generates a signed JWT with [[identity-landing|identity]]-related claims such as the user or system it represents. The client application sends the JWT to the ServiceNow instance to [[c_requestAPI|request]] an access token.
+The client application generates a signed JWT with identity-related claims such as the user or system it represents. The client application sends the JWT to the ServiceNow instance to request an access token.
 
 -   -   **When acting on behalf of a user:**
 
@@ -30,7 +30,7 @@ The client application generates a signed JWT with [[identity-landing|identity]]
 
 -   -   **When acting as itself:**
 
-    The token identifies and authenticates the client application. Instead of using a shared secret, the application signs the token with a private key. This offers a more secure alternative to the [[client-credential-grant|client credentials grant]].
+    The token identifies and authenticates the client application. Instead of using a shared secret, the application signs the token with a private key. This offers a more secure alternative to the client credentials grant.
 
 
 \[Omitted image "mic-jwt-grant-workflow.png"\] Alt text: JWT Grant Workflow
@@ -49,10 +49,4 @@ The client application generates a signed JWT with [[identity-landing|identity]]
 
 5.  ServiceNow validates the access token, and returns the appropriate API response.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[token-based-auth-api|Token-based authentication]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]
-- [[client-credential-grant|Client credentials grant]]

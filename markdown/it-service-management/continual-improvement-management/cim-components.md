@@ -75,7 +75,7 @@ Inbound CIM Integration\[sn\_cim\_inbound\_m2m\]
 
 </td><td>
 
-Contains M2M tables to integrate CIM with other ServiceNow [[dex-workspace-application-tab|applications]]. With an inbound CIM integration, you can create a CIM record from the application that is integrated with CIM.
+Contains M2M tables to integrate CIM with other ServiceNow applications. With an inbound CIM integration, you can create a CIM record from the application that is integrated with CIM.
 
 </td></tr><tr><td>
 
@@ -141,6 +141,3 @@ Enable the property to create the default phase when an improvement initiative i
 </td></tr></tbody>
 </table>**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

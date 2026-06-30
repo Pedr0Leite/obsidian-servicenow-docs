@@ -14,15 +14,15 @@ breadcrumb: [Capabilities maps, Product Adoption, Using Impact, Impact]
 
 # Manage capabilities maps in Impact Delivery Instance
 
-Manage the usage status for capabilities and how they’re being used in your instance. The information in the capabilities status fields feeds the [[capabilities-map|capabilities maps]] summary bar.
+Manage the usage status for capabilities and how they’re being used in your instance. The information in the capabilities status fields feeds the capabilities maps summary bar.
 
 ## Before you begin
 
-Role required: Platform Owner, [[impact-landing-page|Impact]] Admin
+Role required: Platform Owner, Impact Admin
 
 ## Procedure
 
-1.  Navigate to **Impact** &gt; **[[product-adoption|Product Adoption]]** &gt; **Capabilities maps**.
+1.  Navigate to **Impact** &gt; **Product Adoption** &gt; **Capabilities maps**.
 
 2.  Select an instance if there are multiple instances available.
 
@@ -80,8 +80,4 @@ Role required: Platform Owner, [[impact-landing-page|Impact]] Admin
 
         The previously hidden applications display in the capabilities map. When you set the capabilities map **Show hidden** filter to **No**, these applications will be visible in the list of applications.
 
-## Related
 
-- [[capabilities-map|Capabilities maps]]
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]

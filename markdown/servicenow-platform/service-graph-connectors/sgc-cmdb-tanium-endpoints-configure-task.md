@@ -14,7 +14,7 @@ breadcrumb: [Tanium Endpoints, Service Graph Connectors, Integrating third-party
 
 # Configure the Tanium environment for the Service Graph Connector for Tanium Endpoints
 
-Configure your Tanium environment to import data using the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]].
+Configure your Tanium environment to import data using the Service Graph Connector for Tanium Endpoints.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The Service Graph Connector for Tanium Endpoints authenticates to Tanium using a
 |Service account \(recommended\)|Default identity. Provides the cleanest separation of integration permissions from human users.|
 |Persona|Use this identity only if your organization doesn't permit dedicated service accounts.|
 
-After you configure an identity, [[sgc-tanium-endpoints-create-api-token|create an API token]]. Provide the resulting API token to the ServiceNow administrator who sets up the Service Graph Connector for Tanium Endpoints.
+After you configure an identity, create an API token. Provide the resulting API token to the ServiceNow administrator who sets up the Service Graph Connector for Tanium Endpoints.
 
 ## Procedure
 
@@ -43,7 +43,4 @@ After you configure an identity, [[sgc-tanium-endpoints-create-api-token|create 
 
     After configuring the identity \(service account or persona\), generate the API token to be used by the Service Graph Connector for Tanium Endpoints.
 
-## Related
 
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[sgc-tanium-endpoints-create-api-token|Create an API token]]

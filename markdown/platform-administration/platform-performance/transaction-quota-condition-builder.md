@@ -14,7 +14,7 @@ breadcrumb: [Reference, Platform performance, Maintain and monitor, Administer t
 
 # Transaction quota rule condition builder
 
-A description of the options available in the condition builder for the [[transaction-quota-rule-form|Transaction Quota Rule form]].
+A description of the options available in the condition builder for the Transaction Quota Rule form.
 
 <table id="table_cgn_hw1_rp"><thead><tr><th>
 
@@ -106,6 +106,3 @@ Miscellaneous attributes that are related to the transaction.
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 
-## Related
-
-- [[transaction-quota-rule-form|Transaction quota rule form]]

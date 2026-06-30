@@ -62,11 +62,7 @@ The entity type is created. The new entity type form is displayed with the **Det
 
 ## What to do next
 
-You can also [[update-entity-type|update an entity type]].
+You can also [update an entity type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/update-entity-type.md).
 
-**Parent Topic:**[[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/entities-in-esg.md)
 
-## Related
-
-- [[update-entity-type|Update an entity type]]
-- [[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]

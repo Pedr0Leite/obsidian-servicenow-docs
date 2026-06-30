@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **[[service-catalog|Service Catalog]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Service Catalog**.
 
     The default catalog view organizes items in categories and subcategories.
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Select an item to order.
 
-    **Note:** Some items are [[c_ServiceCatalogOrderGuides|order guides]], which combine related items for easier ordering. For example, an order guide called New Employee Hire presents a list of items that new employees typically receive \(desk, phone, computer, [[email|email]] account\). After you select the items you want to order, the order guide requests the information required and shows a separate time to delivery for each item ordered.
+    **Note:** Some items are order guides, which combine related items for easier ordering. For example, an order guide called New Employee Hire presents a list of items that new employees typically receive \(desk, phone, computer, email account\). After you select the items you want to order, the order guide requests the information required and shows a separate time to delivery for each item ordered.
 
     The order screen requests any additional information that's needed, such as the requester's name or location and the date the item is needed. It also displays the item's delivery time after approval.
 
@@ -48,17 +48,10 @@ Role required: admin
 
     You can view the order's progress in the **Stage** column.
 
-    **Note:** It may be useful to note the order number for future [[reference|reference]].
+    **Note:** It may be useful to note the order number for future reference.
 
     ServiceNow automatically notifies the approvers if approval is required and creates work orders to fulfill the order according to your organization's process. For example, if you order a new notebook computer, the purchasing group might receive a work order to order the computer, and the desktop services group might receive a work order to configure the new computer and deliver it to your office after it arrives.
 
 
 **Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[email|Email]]
-- [[reference|Reference]]

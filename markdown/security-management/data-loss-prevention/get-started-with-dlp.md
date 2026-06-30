@@ -14,7 +14,7 @@ breadcrumb: [Explore, Data Loss Prevention Incident Response, Security Operation
 
 # Get started with DLP Incident Response
 
-Review the following information before you start setting up your [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) application.
+Review the following information before you start setting up your Data Loss Prevention Incident Response \(DLP IR\) application.
 
 <table id="table_k2d_1bk_ynb"><thead><tr><th>
 
@@ -40,12 +40,12 @@ Verify that the ServiceNow core applications that are required to support the Da
 
 </td><td>
 
-The Data Loss Prevention Incident Response plugin \(com.snc.data\_loss\_incident\) is required to support the Data Loss Prevention Incident Response product.Verify that the following [[security-operations-landing-page|Security Operations]] applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation:
+The Data Loss Prevention Incident Response plugin \(com.snc.data\_loss\_incident\) is required to support the Data Loss Prevention Incident Response product.Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation:
 
 -   Data Loss Prevention Incident Response \(com.snc.data\_loss\_incident\)
 -   Security Support Common
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] or [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) or [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr><tr><td>
 
@@ -63,9 +63,3 @@ Verify the [Domain separation and DLP Incident Response](https://raw.githubuserc
 
 [DLP Incident Response overview]()
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

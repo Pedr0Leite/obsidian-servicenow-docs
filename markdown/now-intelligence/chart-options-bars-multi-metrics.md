@@ -20,8 +20,5 @@ For example, consider a bar visualization that shows the Number of open problems
 
 \[Omitted image "dv-follow-filters-per-metric.png"\] Alt text: Bar visualization configured so that of two metrics, one follows filters on a dashboard and one does not.
 
-**Parent Topic:**[[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
+**Parent Topic:**[Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md)
 
-## Related
-
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]

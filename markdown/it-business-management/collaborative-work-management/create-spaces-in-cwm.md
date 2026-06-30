@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Spaces, Use, Collaborative Work Management, Strate
 
 # Create a Space in CWM
 
-Create Spaces in [[cwm-landing|Collaborative Work Management]] to enable cross-functional teams to come together and manage work tasks and documentation.
+Create Spaces in Collaborative Work Management to enable cross-functional teams to come together and manage work tasks and documentation.
 
 ## Before you begin
 
@@ -43,12 +43,8 @@ A new Space is created and added right below the **My Space** section. You can a
 
 ## What to do next
 
--   [[create-board-strategy|Create a Board]] to organize and manage work for your team or projects. See [Create a Board in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md).
+-   Create a Board to organize and manage work for your team or projects. See [Create a Board in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md).
 -   Share the Space with others on your team. See [Share a Space in CWM and manage sharing permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/share-space-in-cwm.md).
 
 **Parent Topic:**[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-spaces.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[create-board-strategy|Create a board]]

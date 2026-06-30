@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contact Center Integration Center** &gt; **[[contactcenter-admin-console|CCaaS Admin Console]]**
+1.  Navigate to **All** &gt; **Contact Center Integration Center** &gt; **CCaaS Admin Console**
 
     \[Omitted image "ccaas-import-wrapup.png"\] Alt text: admin console wrap-up codes import screen showing beginning state
 
@@ -34,9 +34,6 @@ Role required: admin
 
 6.  Review the list of wrap-up codes to confirm that the import was successful.
 
-    **Note:** Newly imported wrap up codes and wrap up codes that previously existed in your ServiceNow® instance are shown in two separate [[migration-lists|lists]] on the confirmation page.
+    **Note:** Newly imported wrap up codes and wrap up codes that previously existed in your ServiceNow® instance are shown in two separate lists on the confirmation page.
 
-## Related
 
-- [[contactcenter-admin-console|CCaaS Admin Console]]
-- [[migration-lists|Lists]]

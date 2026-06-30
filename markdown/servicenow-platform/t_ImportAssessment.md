@@ -12,7 +12,7 @@ breadcrumb: [Metric types and assessable records, Create an assessment metric fo
 
 # Import an assessment
 
-Share [[r_Assessments|assessments]] between ServiceNow instances by importing a previously exported assessment.
+Share assessments between ServiceNow instances by importing a previously exported assessment.
 
 ## Before you begin
 
@@ -27,15 +27,10 @@ Role required: admin
 2.  Follow the procedure detailed in [Import data from XML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/import-xml-file.md).
 
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[[t_ExportAssessment|Export an assessment]]
+[Export an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ExportAssessment.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[t_ExportAssessment|Export an assessment]]
-- [[r_Assessments|Assessments]]

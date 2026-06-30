@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Request Extension form
 
-Use the Request Extension form to [[request-extension-allocated-resource-plan|request extension of an allocated resource plan]].
+Use the Request Extension form to request extension of an allocated resource plan.
 
 <table id="table_gjn_zyq_kjb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ FTE or Person days or Hours
 
 </td><td>
 
-Number of units to [[t_RequestResourcePlanApproval|request resources]].The field appears when you select one of the options in the **Request type** field. Based on the selected request type, specify the unit.
+Number of units to request resources.The field appears when you select one of the options in the **Request type** field. Based on the selected request type, specify the unit.
 
  For more information, see [Request type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourcePlans.md).
 
@@ -61,7 +61,3 @@ Other correspondence and information about the resource plan that the project ma
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[request-extension-allocated-resource-plan|Request extension of an allocated resource plan]]
-- [[t_RequestResourcePlanApproval|Request resources]]

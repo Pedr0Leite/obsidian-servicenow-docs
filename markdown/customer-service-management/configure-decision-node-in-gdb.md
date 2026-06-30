@@ -42,13 +42,13 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 11. Select the type of answer.
 
-    For a description of the answer types, see [[type-of-answer|Answer types for questions]].
+    For a description of the answer types, see [Answer types for questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/type-of-answer.md).
 
     The answer the customer provides is passed to other nodes and paths via input mapping.
 
 12. Link inputs to reuse answers from prior nodes.
 
-    For more information, see [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]].
+    For more information, see [Reuse answers at decision points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/map-inputs-in-decision-guidance-node.md).
 
 13. Add more questions or instructions.
 
@@ -60,10 +60,5 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 Continue building your decision tree.
 
 -   Add a next set of questions. For more information, see [Add a follow-up set of questions or instructions in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-decision-node-in-gdb.md)
--   Provide guidance to agents. For more information, see [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]
+-   Provide guidance to agents. For more information, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md)
 
-## Related
-
-- [[type-of-answer|Answer types for questions]]
-- [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]]
-- [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]

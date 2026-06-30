@@ -14,9 +14,9 @@ breadcrumb: [Gamification components, Gamification, Using communities, Communiti
 
 # Tracks
 
-Tracks provide a way to logically separate [[gamification-components-points|points]] assigned in the [[servicenow-communities|communities]] into different areas.
+Tracks provide a way to logically separate points assigned in the communities into different areas.
 
-[[communities-gamification|Gamification]] includes two pre-configured tracks:
+Gamification includes two pre-configured tracks:
 
 -   Community Expertise
 -   Community Participation
@@ -30,8 +30,3 @@ While the application is configured to accumulate points by tracks, gamification
 
 [Create a gamification track](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-create-track.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[servicenow-communities|Communities]]
-- [[communities-gamification|Gamification]]

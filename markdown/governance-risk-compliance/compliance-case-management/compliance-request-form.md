@@ -14,7 +14,7 @@ breadcrumb: [Compliance workspace, Raise compliance request, Use, Compliance Cas
 
 # Compliance request form
 
-Use the Create new compliance request form in the GRC: [[compliance-case-management|Compliance Case Management]] application to raise a compliance request.
+Use the Create new compliance request form in the GRC: Compliance Case Management application to raise a compliance request.
 
 The following table lists the descriptions of the field values.
 
@@ -202,6 +202,3 @@ Save the details of the compliance case.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a compliance request in the Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-compliance-request.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

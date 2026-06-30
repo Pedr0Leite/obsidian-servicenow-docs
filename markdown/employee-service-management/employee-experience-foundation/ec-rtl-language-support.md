@@ -19,7 +19,7 @@ As an employee, you can change the display of the user interface from right-to-l
 Based on your language preferences, the entire hierarchy of existing infrastructure for styling left-to-right languages—the theme, page, widget, and widget instance SCSS—is converted to CSS for right-to-left languages.
 
 -   When the session language is a right-to-left language, for example Hebrew, the direction of the portal user interface displays from right to left.
--   The arrow next to View Org Chart in employee\_profile widget, View All in ec\_pro\_dashboard, employee taxonomy topic widget, and across [[employee-center-landing-page|Employee Center]] points to left per the RTL format.
+-   The arrow next to View Org Chart in employee\_profile widget, View All in ec\_pro\_dashboard, employee taxonomy topic widget, and across Employee Center points to left per the RTL format.
 
 For more information, see [Enable support for right-to-left languages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-direction-right-to-left-languages.md).
 
@@ -42,7 +42,7 @@ For more information, see [Enable support for right-to-left languages](https://r
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -58,7 +58,3 @@ For more information, see [Enable support for right-to-left languages](https://r
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with Task Communications Management, Task Communications Ma
 
 # View communication channel configuration
 
-View the configuration of different communication channels that are used to contact the target audience in the communication process. By default, the communication channels available are [[email|email]], SMS, Slack, and conference.
+View the configuration of different communication channels that are used to contact the target audience in the communication process. By default, the communication channels available are email, SMS, Slack, and conference.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[email|Email]]

@@ -12,7 +12,7 @@ breadcrumb: [Individual Life Servicing, Life Insurance Servicing, Insurance appl
 
 # Install Individual Life Servicing
 
-You can install the [[individual-life-servicing|Individual Life Servicing]] application \(sn\_ins\_indiv\_life\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Individual Life Servicing application \(sn\_ins\_indiv\_life\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The following items are installed with Individual Life Servicing:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-individual-life-servicing|Components installed with Individual Life Servicing]].
+For more information, see [Components installed with Individual Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-individual-life-servicing.md).
 
 ## Procedure
 
@@ -54,7 +54,4 @@ For more information, see [[components-installed-individual-life-servicing|Compo
 
 6.  Select **Install**.
 
-## Related
 
-- [[components-installed-individual-life-servicing|Components installed with Individual Life Servicing]]
-- [[individual-life-servicing|Individual Life Servicing]]

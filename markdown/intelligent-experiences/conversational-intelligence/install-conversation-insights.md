@@ -14,7 +14,7 @@ breadcrumb: [Conversation Insights, Enable AI experiences]
 
 # Install Conversation Insights
 
-If you have the admin role, you can install the [[conversation-insights|Conversation Insights]] application \(sn\_aci\).The application includes demo data and installs related ServiceNow® Store applications and plugins, if they aren’t already installed.
+If you have the admin role, you can install the Conversation Insights application \(sn\_aci\).The application includes demo data and installs related ServiceNow® Store applications and plugins, if they aren’t already installed.
 
 ## Before you begin
 
@@ -52,11 +52,8 @@ The following items are installed with Conversation Insights:
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common use [[cases|cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[conversation-insights|Conversation Insights]]
-- [[cases|Cases]]

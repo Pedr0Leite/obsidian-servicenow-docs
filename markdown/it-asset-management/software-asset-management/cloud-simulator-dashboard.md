@@ -16,7 +16,7 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 Compare and evaluate the estimated costs of migrating your on-premises resources to the cloud for each cloud environment.
 
-Access the Cloud cost simulator dashboard by navigating to **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics** &gt; **Cloud cost simulator**.
+Access the Cloud cost simulator dashboard by navigating to **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Cloud cost simulator**.
 
 \[Omitted image "cloud-cost-dboard.png"\] Alt text: Cloud cost simulator dashboard.
 
@@ -31,7 +31,7 @@ Use filters on your on-premises resources to specify a criteria for receiving co
 
 **Note:** You can also use the Optimization and savings dashboard to view recommendations without a filter.
 
-The recommendations are listed based on the criteria you specified. Virtual machine records that meet the criteria you specified are listed. In addition to the on-premises cost listed for each virtual machine, the [[c_SoftwareAssetMgmt|Software Asset Management]] application automatically lists the most optimal price match for the corresponding virtual machines on cloud: AWS and Microsoft Azure.
+The recommendations are listed based on the criteria you specified. Virtual machine records that meet the criteria you specified are listed. In addition to the on-premises cost listed for each virtual machine, the Software Asset Management application automatically lists the most optimal price match for the corresponding virtual machines on cloud: AWS and Microsoft Azure.
 
 You can view the total cost of all the on-premises records as well as compare the individual cost for AWS and Microsoft Azure in the Compare cost estimates section.
 
@@ -103,8 +103,3 @@ Number of virtual machines on the cloud that don't match the on-premises virtual
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

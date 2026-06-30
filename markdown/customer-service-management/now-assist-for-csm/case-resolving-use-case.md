@@ -21,7 +21,7 @@ Use CSM AI agents agentic workflow to process all routine cases coming in throug
 
 Using the Triage cases agentic workflow, handle end-to-end validation, creation, verification, and escalation of cases or case types. Get the correct information from the case or interaction to answer customer questions directly and reduce the number of cases that must be created.
 
-Refer to the information provided here on agents, tools, and triggers that are related to the Triage cases agentic workflow in AI agents for [[c_CustomerServiceManagement|Customer Service Management]].
+Refer to the information provided here on agents, tools, and triggers that are related to the Triage cases agentic workflow in AI agents for Customer Service Management.
 
 To modify the Triage cases agentic workflow [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements. You can activate the agentic workflow template by making triggers active and setting the display settings to include the Now Assist panel.
 
@@ -38,7 +38,7 @@ To access the agentic workflow:
 
 ## Access control lists \(ACLs\)
 
-Access Control [[migration-lists|Lists]] \(ACLs\) are preconfigured to support the Triage use case, including AI agents and their associated flows and actions, such as the Document Verification Agent. By default, ACLs are configured for the sn\_esm\_agent role. Customers can modify these ACLs to align with their specific business requirements and security policies. For more information, [Configure security controls for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nask-access-control.md).
+Access Control Lists \(ACLs\) are preconfigured to support the Triage use case, including AI agents and their associated flows and actions, such as the Document Verification Agent. By default, ACLs are configured for the sn\_esm\_agent role. Customers can modify these ACLs to align with their specific business requirements and security policies. For more information, [Configure security controls for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nask-access-control.md).
 
 When updating the agent role for the Triage Cases Agentic Workflow, it’s important to also update the corresponding Access Control Lists \(ACLs\) to ensure proper permissions. To manually update ACLs for custom roles:
 
@@ -77,7 +77,7 @@ In the data access settings, you must also add the necessary roles to access the
 Multilingual and localization flows in the Triage Cases workflow are fully supported. When setting up translation, keep the following in mind:
 
 -   Add an explicit language instruction at the top of your prompt telling the model to respond in the user's language — instructions placed first carry the most weight.
--   Avoid wrapping user-facing text in quotes. Quoted strings act as strong anchors that can override translation [[gamification-components-rules|rules]] and force verbatim reproduction. Use semantic descriptions instead.
+-   Avoid wrapping user-facing text in quotes. Quoted strings act as strong anchors that can override translation rules and force verbatim reproduction. Use semantic descriptions instead.
 -   Where possible, deliver static messages through `gs.getMessage()` in a script, and reserve the model's output for dynamic content only.
 
 ## Triaging the case
@@ -105,8 +105,3 @@ In the triaging the case agentic workflow, perform the following steps:
 
 In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/request-gen-ai-capabilities-csm-now-assist-panel.md).
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[gamification-components-rules|Rules]]

@@ -12,7 +12,7 @@ breadcrumb: [Stats Tools, System Diagnostics, Maintain and monitor, Administer t
 
 # Slow interactions log record detail
 
-Administrators can use Slow Interactions logs to gain insight into how interactions are affecting [[platform-performance-landing|platform performance]].
+Administrators can use Slow Interactions logs to gain insight into how interactions are affecting platform performance.
 
 <table id="simpletable_pv3_fz4_htb"><thead><tr><th>
 
@@ -104,7 +104,3 @@ End time
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-performance-landing|Platform performance]]

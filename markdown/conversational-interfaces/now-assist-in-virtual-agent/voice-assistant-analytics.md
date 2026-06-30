@@ -14,11 +14,11 @@ breadcrumb: [Analyzing assistants, Now Assist in Virtual Agent, Conversational I
 
 # Voice page in assistant analytics
 
-Monitor the performance of voice assistants from the Voice page of Assistant analytics in [[assistant-designer|Assistant Designer]].
+Monitor the performance of voice assistants from the Voice page of Assistant analytics in Assistant Designer.
 
 The Voice page shows performance metrics for your voice assistants, organised across four tabs: **Overview**, **Performance**, **Insights**, and **Assist consumption**. Use these tabs to monitor conversation volume, resolution rates, tool execution, authentication performance, conversation quality signals, and AI agent assist usage.
 
-\[Omitted image "aiv-voice-assistant-analytics-dashboard.png"\] Alt text: Voice assistants analytics page in Assistant Designer showing the [[overview-tab-pae|Overview tab]] with four sub-tabs, filters, and performance widgets including total conversations and resolution rate.
+\[Omitted image "aiv-voice-assistant-analytics-dashboard.png"\] Alt text: Voice assistants analytics page in Assistant Designer showing the Overview tab with four sub-tabs, filters, and performance widgets including total conversations and resolution rate.
 
 You can filter the data on all tabs using the following options:
 
@@ -283,7 +283,4 @@ The **Assist consumption** tab shows AI agent assist usage metrics for the selec
     -   **Assists Consumed** — total number of assists consumed by the agent.
     \[Omitted image "aiv-assist-consumption-by-agent.png"\] Alt text: Table showing assist consumption per AI voice agent, with columns for average actions per call and total assists consumed. Two agents are listed.
 
-## Related
 
-- [[assistant-designer|Assistant Designer]]
-- [[overview-tab-pae|Overview tab]]

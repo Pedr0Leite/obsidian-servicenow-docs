@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Explore detailed licensing data trends of OTM using the [[otm-licensing-dashboard|OTM Licensing dashboard]]. Observe daily CI counts or view the averages for the last 90 daily counts. This feature provides domain-specific information and specific CI listings for each daily count, enabling you to effectively monitor and analyze resource usage over time.
+Explore detailed licensing data trends of OTM using the [OTM Licensing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-licensing-dashboard.md). Observe daily CI counts or view the averages for the last 90 daily counts. This feature provides domain-specific information and specific CI listings for each daily count, enabling you to effectively monitor and analyze resource usage over time.
 
 **Note:** CIs managed by SG-OT Excel are counted and listed for license consumption with last\_scan dates more recent than, equal to, and older than 90 days.
 
@@ -36,6 +36,4 @@ Explore detailed licensing data trends of OTM using the [[otm-licensing-dashboar
 
 5.  Review the dashboard described in [OTM Licensing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-licensing-dashboard.md).
 
-## Related
 
-- [[otm-licensing-dashboard|OTM Licensing dashboard]]

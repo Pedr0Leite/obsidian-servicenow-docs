@@ -26,9 +26,9 @@ You must have agreed to a user privacy consent in order to be able to report you
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-testing|Health and Safety Testing]]** &gt; **Report a COVID-19 diagnostic test result**.
+1.  Navigate to **All** &gt; **Health and Safety Testing** &gt; **Report a COVID-19 diagnostic test result**.
 
-    **Note:** To report your test result in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **COVID-19 Testing** &gt; **Report a COVID-19 diagnostic test result**. If the **Health** tab is not available, find **COVID-19 Testing** under **More** instead.
+    **Note:** To report your test result in the Now Mobile app, navigate to **Health** &gt; **COVID-19 Testing** &gt; **Report a COVID-19 diagnostic test result**. If the **Health** tab is not available, find **COVID-19 Testing** under **More** instead.
 
 2.  On the form, fill in the fields.
 
@@ -43,7 +43,3 @@ You must have agreed to a user privacy consent in order to be able to report you
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]
-- [[mobile-employee-experience|Now Mobile app]]

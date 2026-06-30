@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in Document Intelligence, Enable AI experiences]
 
 # Using Now Assist in Document Intelligence
 
-If you have an agent role, you can use the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] workspace to analyze and extract information from your documents with generative AI.
+If you have an agent role, you can use the Now Assist in Document Intelligence workspace to analyze and extract information from your documents with generative AI.
 
 The following diagram shows how the Now Assist in Document Intelligence skills are set up and used to process documents.
 
@@ -25,18 +25,13 @@ In this workflow:
 
 -   A workflow integration creates a document task as part of its flow.
 -   A document is uploaded for processing in a document task.
--   [[platform-now-assist-landing|Now Assist]] processes the document and makes predictions based on the fields defined in the use case.
+-   Now Assist processes the document and makes predictions based on the fields defined in the use case.
 -   If the use case is not set to full automation, the task is sent to a live agent for review.
 -   The agent provides input to validate or correct the values predicted by Now Assist.
 -   The task is completed and the integrated workflow proceeds as defined.
 
 -   **[Review extracted information in the Document Intelligence workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/review-extracted-information.md)**  
-Use the [[document-intelligence-landing|Document Intelligence]] workspace to review the information that was extracted from a document or image file by Now Assist in Document Intelligence.
+Use the Document Intelligence workspace to review the information that was extracted from a document or image file by Now Assist in Document Intelligence.
 
 **Parent Topic:**[Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md)
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

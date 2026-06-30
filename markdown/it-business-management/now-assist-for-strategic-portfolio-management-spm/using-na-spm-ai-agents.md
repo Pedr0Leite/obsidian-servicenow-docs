@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Strategic Portfolio Management \(SPM\), Strategic Po
 
 # Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)
 
-Use the AI agents for SPM to monitor [[t_CreateAProjectTask|project tasks]] autonomously.
+Use the AI agents for SPM to monitor project tasks autonomously.
 
 <table id="table_xrq_1h1_m2c"><thead><tr><th>
 
@@ -76,6 +76,3 @@ To run the AI agents autonomously, you must do the following steps:
 
 [Configure the Monitor project tasks AI agent in AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configure-agents-project-task-monitoring.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

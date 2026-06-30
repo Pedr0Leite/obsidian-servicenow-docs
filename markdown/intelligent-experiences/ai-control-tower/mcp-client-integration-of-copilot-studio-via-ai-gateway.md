@@ -14,7 +14,7 @@ breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI
 
 # Set up the AI Gateway and Client registration
 
-Set up the [[ai-gateway-overview|AI Gateway]] tab and create the MCP Client registration.
+Set up the AI Gateway tab and create the MCP Client registration.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_ai\_governance.ai\_steward
 
 ## Procedure
 
-1.  Navigate to **[[ai-assets|AI assets]]** &gt; **[[ai-inventory|AI asset inventory]]** &gt; **MCP servers**.
+1.  Navigate to **AI assets** &gt; **AI asset inventory** &gt; **MCP servers**.
 
 2.  Select and open an approved MCP server.
 
 3.  Navigate to the **AI Gateway setup** tab.
 
-    If an AI steward wants to enable [[ai-agent-studio|AI Agent Studio]] for the approved MCP server, they can create MCP Client integration.
+    If an AI steward wants to enable AI Agent Studio for the approved MCP server, they can create MCP Client integration.
 
 4.  Under **MCP Client integration**, select **New**.
 
@@ -49,14 +49,7 @@ Role required: sn\_ai\_governance.ai\_steward
 
 A connection to the MCP server is set up via the AI Gateway.
 
-**Note:** The Client ID and Client secret are automatically generated and available in the [[view-the-mcp-server-record|MCP server record]]. These credentials are used to authenticate the client when connecting to the AI Gateway.
+**Note:** The Client ID and Client secret are automatically generated and available in the MCP server record. These credentials are used to authenticate the client when connecting to the AI Gateway.
 
 To connect with Copilot Studio via AI Gateway, see [Connecting with Microsoft Copilot Studio Via AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-an-agent-in-copilot-studio-for-mcp-client-integration.md).
 
-## Related
-
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-assets|AI assets]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[view-the-mcp-server-record|MCP server record]]

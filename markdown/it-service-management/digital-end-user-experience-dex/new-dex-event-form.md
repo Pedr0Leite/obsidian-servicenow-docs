@@ -72,7 +72,7 @@ Event message
 
 </td><td>
 
-Identifies the message for which the event rule searches to trigger an alert.This field is optional on Windows [[dex-workspace-devices-tab|devices]], and required on macOS devices.
+Identifies the message for which the event rule searches to trigger an alert.This field is optional on Windows devices, and required on macOS devices.
 
 </td></tr><tr><td>
 
@@ -143,6 +143,3 @@ This filed is required.
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Create CrowdStrike API client and generate keys
 
-Create the CrowdStrike API client and generate the client ID and key, which you use to configure the [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]].
+Create the CrowdStrike API client and generate the client ID and key, which you use to configure the CrowdStrike Falcon Insight integration.
 
 ## Before you begin
 
@@ -61,13 +61,10 @@ API Scopes
 Defining the scopes is required. **Important:** Ensure that you enable the API account, and make sure that the following scopes are enabled for the API account:
 
 -   Enable Read and Write scopes for Hosts API
--   Enable Read scope for [[indicator|Indicators]] API
+-   Enable Read scope for Indicators API
 
 
 </td></tr></tbody>
 </table>4.  Click **Add** to save the API client and generate the client ID and secret key.
 
-## Related
 
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]
-- [[indicator|Indicators]]

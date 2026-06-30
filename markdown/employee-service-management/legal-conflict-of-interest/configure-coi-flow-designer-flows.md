@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Conflict of Interest, Legal Service Delivery Pract
 
 # Configure flows for Legal Conflict of Interest
 
-Review the flows installed with the [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]] application and configure them to align with your business needs.
+Review the flows installed with the Legal Conflict of Interest application and configure them to align with your business needs.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ The flows are built using ServiceNow Workflow Studio, so make sure you’re fami
 
 **Parent Topic:**[Configure Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-administration.md)
 
-## Related
-
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]

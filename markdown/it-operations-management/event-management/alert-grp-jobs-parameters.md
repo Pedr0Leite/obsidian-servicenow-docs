@@ -16,7 +16,7 @@ breadcrumb: [Alert grouping, Configuring Event Management, Event Management, ITO
 
 Automate alert organization by configuring jobs to group alerts based on predefined criteria and parameters.
 
-To group alerts in Automated, CMDB, Text-based, Tag Cluster, and Network Traffic Correlation groups, the scheduled job named **Service Analytics group alerts using RCA/Alert Aggregation** is typically run once per minute. This job handles the grouping of alerts based on the specified method. Additionally, you can run multiple scheduled jobs in parallel to manage [[c_ServiceAnalyticsOverview|alert grouping]] more efficiently. For further details, see [Run multiple scheduled jobs for alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/run-multiple-alert-group-scheduled-jobs.md).
+To group alerts in Automated, CMDB, Text-based, Tag Cluster, and Network Traffic Correlation groups, the scheduled job named **Service Analytics group alerts using RCA/Alert Aggregation** is typically run once per minute. This job handles the grouping of alerts based on the specified method. Additionally, you can run multiple scheduled jobs in parallel to manage alert grouping more efficiently. For further details, see [Run multiple scheduled jobs for alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/run-multiple-alert-group-scheduled-jobs.md).
 
 To define which alerts are grouped, the following parameters are used:
 
@@ -51,6 +51,3 @@ Alert1 and Alert2 are not grouped due to the time gap exceeding 10 minutes. Aler
 
 **Note:** After an alert is created, correlation logic is applied only once. Changes to the alert after its creation are not re-evaluated for correlation. If correlation is not established initially, the alert may still be added to a group later—but only if a new incoming alert matches and triggers grouping logic.
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

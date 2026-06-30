@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Field Service Crew Operations components
 
-The roles, tables, script includes, and business rules for the [[field-service-crew-scheduling|Field Service Crew Operations]] application.
+The roles, tables, script includes, and business rules for the Field Service Crew Operations application.
 
 Field Service Crew Operations adds the My Crew menu to the application navigator and the following modules:
 
@@ -37,7 +37,7 @@ Field Service Crew Moderator\[wm\_crew\_moderator\]
 
 </td><td>
 
-Enables dispatchers and managers to [[create-crews-dispatcher-wrkspc|create crews]], manage crew members, assign skills and locations, and assign them to assignment groups.
+Enables dispatchers and managers to create crews, manage crew members, assign skills and locations, and assign them to assignment groups.
 
 </td></tr></tbody>
 </table>## Tables
@@ -578,10 +578,5 @@ Crew Requirement\[wm\_crew\_requirement\]
 Validates the minimum and recommended crew size for a work order task​.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[create-crews-dispatcher-wrkspc|Create crews]]

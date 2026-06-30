@@ -14,7 +14,7 @@ breadcrumb: [CyberArk credential storage integration, External credential storag
 
 # CyberArk integration configuration
 
-These procedures include both CyberArk and ServiceNow [[sc-configuration|configuration]] tasks, including references to the appropriate CyberArk documentation.
+These procedures include both CyberArk and ServiceNow configuration tasks, including references to the appropriate CyberArk documentation.
 
 The credential identifier configured in the ServiceNow instance must be mapped to the credential name in the CyberArk vault. When looking up a credential, the MID Server finds the credential by matching the credential identifier to a name in vault, which must be unique. If the credential identifier is blank, then the MID Server finds the credential by IP address. To identify the credential by IP address, the system looks at the credential type to ensure that there is only one credential of that type at that address. An example of this might be when a Windows server and vCenter are both running on the same IP address. To support strict credential requirements like this in an SSH environment, a MID Server configuration parameter allows you to require that the credential type requested matches the type returned by CyberArk.
 
@@ -41,6 +41,3 @@ Configure your CyberArk vault with the Azure credentials to be retrieved for use
 
 **Parent Topic:**[CyberArk credential storage integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -69,7 +69,7 @@ Create an exception task from an invoice exception
 </td><td>
 
 1.  Do one of the following:
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-invoice-exceptions|invoice exceptions]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice exceptions**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice exceptions**.
 2.  In the Number column, select the link to an invoice exception to open it.
 3.  Select the **Exception tasks** tab and then select **New**.
@@ -88,7 +88,7 @@ Create an exception task from an invoice processing case
 
 </td><td>
 
-1.  Navigate to **Lists** &gt; **All Work** &gt; **All open [[working-with-ingestion-cases|invoice processing cases]]**.
+1.  Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**.
 2.  In the Number column, select the link to an invoice processing case to open it.
 3.  Select the **Tasks** tab and then select **New**.
 
@@ -115,8 +115,3 @@ The Parent case field is auto-populated. The **Type** field is set to **Case tas
 
 **Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[working-with-ingestion-cases|Invoice processing cases]]

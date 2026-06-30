@@ -24,7 +24,7 @@ You can send the quiz to all the category users configured for the quiz or to a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Quiz Management** &gt; **[[c_Quizzes|Quizzes]]**.
+1.  Navigate to **All** &gt; **Quiz Management** &gt; **Quizzes**.
 
 2.  Open the quiz record, and click **Publish**.
 
@@ -32,7 +32,7 @@ You can send the quiz to all the category users configured for the quiz or to a 
 
 3.  Edit the published quiz.
 
-    See [[t_ModifyAPublishedQuiz|Modifying Published Quizzes]] to learn how various modifications affect the quiz contents.
+    See [Modifying Published Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md) to learn how various modifications affect the quiz contents.
 
 4.  Resend a quiz to either on category user or all category users.
 
@@ -41,18 +41,12 @@ You can send the quiz to all the category users configured for the quiz or to a 
     **Note:** These buttons are hidden if there are no category users defined for the quiz.
 
 
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 [Modify a published quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 
-## Related
-
-- [[t_ModifyAPublishedQuiz|Modify a published quiz]]
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[c_Quizzes|Quizzes]]

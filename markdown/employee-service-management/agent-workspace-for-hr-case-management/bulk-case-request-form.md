@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspace for HR Case Management reference, Agent Workspace, 
 
 # Bulk case request form
 
-The bulk case request form provides information to [[t_CreateBulkCases|create a bulk case request]] to enable the creation of the same type of HR cases.
+The bulk case request form provides information to create a bulk case request to enable the creation of the same type of HR cases.
 
 <table id="table_abc_p2z_bbc"><thead><tr><th>
 
@@ -104,6 +104,3 @@ Date and time your bulk case request was submitted to create cases. The value of
 
 [Highlighted value condition form]()
 
-## Related
-
-- [[t_CreateBulkCases|Create a bulk case request]]

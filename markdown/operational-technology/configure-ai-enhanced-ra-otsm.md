@@ -13,7 +13,7 @@ breadcrumb: [AI Enhanced Recommended Actions for OTSM, Operational Technology]
 
 # Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) to contextualize external sources related to an [[operational-technology-overview|Operational Technology]] \(OT\) incident.
+Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) to contextualize external sources related to an Operational Technology \(OT\) incident.
 
 ## Configuration overview
 
@@ -25,7 +25,7 @@ Configure AI Enhanced Recommended Actions for Operational Technology Service Man
 
     Configure the crawl settings to specify the sites you want your Microsoft SharePoint Online external content connector to crawl.
 
-3.  [[set-up-ai-enhanced-ra-otsm|Set up the search source]]
+3.  [Set up the search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/set-up-ai-enhanced-ra-otsm.md)
 
     Set the search source in the **\[RA-OTSM AI\] Search Profile** record to the Microsoft SharePoint Online external content connector you created.
 
@@ -37,10 +37,5 @@ Configure AI Enhanced Recommended Actions for Operational Technology Service Man
 -   **[Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/set-up-ai-enhanced-ra-otsm.md)**  
 Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) so that you can contextualize external sources related to an Operational Technology \(OT\) incident.
 
-**Parent Topic:**[[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/ai-enhanced-ra-otsm-landing.md)
 
-## Related
-
-- [[set-up-ai-enhanced-ra-otsm|Set up AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]

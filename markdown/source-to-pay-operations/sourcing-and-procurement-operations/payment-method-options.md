@@ -14,7 +14,7 @@ breadcrumb: [Select a payment method, Complete your checkout, Using Shopping Hub
 
 # Payment method options
 
-As a shopper, you have the option to pay using one of your preferred payment methods or use another [[cost-center|cost center]]. You even have the option to pay using multiple cost centers for the various products in your cart.
+As a shopper, you have the option to pay using one of your preferred payment methods or use another cost center. You even have the option to pay using multiple cost centers for the various products in your cart.
 
 If you have credits allocated to you for a particular good or service, those credits are applied here. You can pay the remaining balance, if applicable, from your future paychecks.
 
@@ -29,6 +29,3 @@ While you can always go with your default payment method that is preselected at 
 
 **Parent Topic:**[Select a payment method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-payment-method.md)
 
-## Related
-
-- [[cost-center|Cost center]]

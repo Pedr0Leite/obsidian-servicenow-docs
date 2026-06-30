@@ -53,7 +53,7 @@ The following is a list of supported record types:
 -   Policy
 -   Control objective
 -   Entity
--   [[entity-class|Entity Class]]
+-   Entity Class
 -   Entity Type
 -   Risk Statement
 
@@ -64,6 +64,3 @@ Update the functional domain for multiple records at once to save time and ensur
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[entity-class|entity class]]

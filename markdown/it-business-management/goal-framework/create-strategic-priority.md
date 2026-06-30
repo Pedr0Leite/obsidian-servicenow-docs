@@ -14,7 +14,7 @@ breadcrumb: [Manage goals, Goal Framework and Goal Framework for SPM, Strategic 
 
 # Create a strategic priority for a strategic plan
 
-As a strategy planner, you can create and manage the strategic priorities for the strategic plans for your organization. [[create-strategic-priority-strategy|Create a strategic priority]] to orient your organization strategic plan toward your goal.
+As a strategy planner, you can create and manage the strategic priorities for the strategic plans for your organization. Create a strategic priority to orient your organization strategic plan toward your goal.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ Steps
 
 Define goals and set targets for them to accomplish the strategic priorities.
 
-## Related
-
-- [[create-strategic-priority-strategy|Create a strategic priority]]

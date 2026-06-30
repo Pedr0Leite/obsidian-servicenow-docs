@@ -27,7 +27,7 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **My Time Sheets** &gt; **All**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **My Time Sheets** &gt; **All**.
 
 2.  Select the time sheet that you want to submit the time card for.
 
@@ -35,7 +35,7 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 4.  Select **Submit Time Card**.
 
-    **Note:** Submit multiple [[c_TimeCards|time cards]] by selecting **Submit Time Card** from the actions on selected rows menu.
+    **Note:** Submit multiple time cards by selecting **Submit Time Card** from the actions on selected rows menu.
 
 
 ## Result
@@ -48,7 +48,3 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/c_TimeCards.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Configuration Governance, Cloud Configuration Governanc
 
 # Remediation
 
-Use the [[cloud-configuration-governance|Cloud Configuration Governance]] remediation actions to fix the non-compliant cloud resource configurations identified during the scan runs.
+Use the Cloud Configuration Governance remediation actions to fix the non-compliant cloud resource configurations identified during the scan runs.
 
 The Remediations module displays a list of all the available remediation actions for the set of violation types \(violation definitions\). Cloud Configuration Governance offers several base system remediation actions. If the application doesn’t contain the required remediation action, you can create custom actions. For more information, see [Create a remediation catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-create-remediation-catalog-item.md) and [Create a remediation action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-create-remediation.md).
 
@@ -22,6 +22,3 @@ Because Cloud Configuration Governance performs the remediation actions on the c
 
 **Note:** Starting with Cloud Configuration Governance version 1.3.7, the base system contents are moved to the CCG Content Pack. Install the CCG Content Pack to access the base system Cloud Configuration Governance contents.
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

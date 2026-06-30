@@ -14,9 +14,9 @@ breadcrumb: [Configure Content Management sites, Content Management System, Conf
 
 # Content pages in CMS
 
-Content pages are the core of the [[c_ContentManagementSystem|Content Management System]]. A content page is a web page that displays blocks of content.
+Content pages are the core of the Content Management System. A content page is a web page that displays blocks of content.
 
-Pages are built from [[c_ContentBlocks|content blocks]] and organized into sites. Pages display as regular webpages that are rendered in HTML. Constructing a content page requires a basic knowledge of HTML. Content pages are formed by arranging content blocks in predefined layouts. They can be used to present login pages, search pages, or ServiceNow content.
+Pages are built from content blocks and organized into sites. Pages display as regular webpages that are rendered in HTML. Constructing a content page requires a basic knowledge of HTML. Content pages are formed by arranging content blocks in predefined layouts. They can be used to present login pages, search pages, or ServiceNow content.
 
 -   **[Create a content page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentPage.md)**  
 Pages are built from content blocks and organized into sites.
@@ -48,7 +48,3 @@ With single sign-on \(SSO\) in place, you can generate email links that take use
 
 [Content Management meta tags]()
 
-## Related
-
-- [[c_ContentManagementSystem|Content Management System]]
-- [[c_ContentBlocks|Content blocks]]

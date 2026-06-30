@@ -14,7 +14,7 @@ breadcrumb: [Analytics and Reporting, Configuration Compliance, Unified Security
 
 # Configuration Compliance reporting
 
-The [[vr-config-compliance-landing|Configuration Compliance]] homepage provides an executive view into policies, CIs, tests, and test results, helping security staff pinpoint areas of concern quickly. Configuration Compliance significance charts can be added, as needed. You can also return Configuration Compliance -related information using the global search feature.
+The Configuration Compliance homepage provides an executive view into policies, CIs, tests, and test results, helping security staff pinpoint areas of concern quickly. Configuration Compliance significance charts can be added, as needed. You can also return Configuration Compliance -related information using the global search feature.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -50,6 +50,3 @@ In each chart, you can point to any part of a chart \(bar, pie, data point\) to 
 |Open Test Result by Risk Rating|Bar|Displays the number of open test results by risk rating.|
 |Remediation Tasks|Chart|Displays remediation tasks by state and risk rating.|
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

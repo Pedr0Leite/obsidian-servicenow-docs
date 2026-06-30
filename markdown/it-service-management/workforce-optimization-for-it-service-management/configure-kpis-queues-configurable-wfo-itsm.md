@@ -38,7 +38,7 @@ Do This
 
 </td><td>
 
-1.  Navigate to **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Channel Management** &gt; **Service Channel**
+1.  Navigate to **Workforce Optimization for ITSM** &gt; **Channel Management** &gt; **Service Channel**
 2.  Select a service channel.
 3.  Select the **Queue** tab.
 4.  Select a queue.
@@ -72,6 +72,3 @@ Do This
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

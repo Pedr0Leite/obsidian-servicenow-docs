@@ -39,7 +39,7 @@ Role required: sn\_cm\_core.contract\_config
 
 5.  Select **Active** to enable this contract type.
 
-    Only active contract types are available for use in [[document-templates-overview|document templates]], contract repository, and contract requests.
+    Only active contract types are available for use in document templates, contract repository, and contract requests.
 
 6.  Add contract model.
 
@@ -62,6 +62,3 @@ Role required: sn\_cm\_core.contract\_config
 
 The contract type is now available for selection in relevant configurations and when creating new contract requests.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

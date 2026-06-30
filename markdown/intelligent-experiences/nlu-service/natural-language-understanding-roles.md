@@ -38,11 +38,11 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
-This role is installed with NLU Workbench - Core. This role does not have access to [[nlu-model-performance|NLU Model Performance]].
+This role is installed with NLU Workbench - Core. This role does not have access to NLU Model Performance.
 
 ## NLU editor \[nlu\_editor\]
 
-Users who can edit [[nlu-models|NLU models]] assigned to them in NLU Workbench.
+Users who can edit NLU models assigned to them in NLU Workbench.
 
 ### Contains Roles
 
@@ -112,12 +112,7 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
-This role is installed with [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]. For more information, see [NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-workbench-advanced-features.md).
+This role is installed with NLU Workbench - Advanced Features. For more information, see [NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-workbench-advanced-features.md).
 
 This role is used in Expert Feedback Loop modules. For more information, see [NLU Expert Feedback Loop](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-expert-feedback-loop.md) or [Issue Auto Resolution Tuning in NLU](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/issue-auto-resolution-tuning-nlu.md).
 
-## Related
-
-- [[nlu-model-performance|NLU Model Performance]]
-- [[nlu-models|NLU models]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

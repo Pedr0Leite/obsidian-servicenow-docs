@@ -12,7 +12,7 @@ breadcrumb: [Grants Management Portal, Portals, Use, Public Sector Digital Servi
 
 # View the results letter of a grant program proposal
 
-As an applicant in the [[psds-gmp-overview|Grants Management Portal]], you can view the results letter \(and the merit review summary, where applicable\) of your submitted grants applications.
+As an applicant in the Grants Management Portal, you can view the results letter \(and the merit review summary, where applicable\) of your submitted grants applications.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: business contact
 
     Here, you have the option to either decline or acknowledge the award by the date provided.
 
-## Related
 
-- [[psds-gmp-overview|Grants Management Portal]]

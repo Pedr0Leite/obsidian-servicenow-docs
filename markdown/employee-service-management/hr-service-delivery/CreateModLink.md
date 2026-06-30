@@ -118,7 +118,7 @@ Enter a name for the button that links to the outside website. What you enter he
 
 Select the location type for the button.-   Standard form: Use this type to place a deep link on the legacy HR case form.
 -   Custom form: Use this type to work with an API.
--   Agent Workspace: Use this type to work with [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+-   Agent Workspace: Use this type to work with HR Service Delivery Agent Workspace.
 
 
 </td></tr><tr><td id="d330580e286">
@@ -127,7 +127,7 @@ Select the location type for the button.-   Standard form: Use this type to plac
 
 </td><td>
 
-Select the table that contains the field you want the deep link button to appear next to.For example, select the **[[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\]** table when you want the deep link button to appear next to a field on the **HR Profile** form.
+Select the table that contains the field you want the deep link button to appear next to.For example, select the **HR Profile \[sn\_hr\_core\_profile\]** table when you want the deep link button to appear next to a field on the **HR Profile** form.
 
 </td></tr><tr><td id="d330580e304">
 
@@ -159,7 +159,3 @@ Check to make this mapping active and available for use.
 
 **Parent Topic:**[Link generator for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRLinkGenerator.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

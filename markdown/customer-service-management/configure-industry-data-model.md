@@ -12,7 +12,7 @@ breadcrumb: [Data models, Set up your environment, Configure, Customer Service M
 
 # Configure Service Model Foundation
 
-Configure the Service Model Foundation feature to enable a foundational data model framework. You can use this framework to create structured and flexible [[data-models|data models]] that represent your business needs.
+Configure the Service Model Foundation feature to enable a foundational data model framework. You can use this framework to create structured and flexible data models that represent your business needs.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ With the Service Model Foundation plugins, you can support:
 -   External business locations and staff members
 -   Households and household members
 
-For more information about this feature, see [[csm-industry-data-model|Service Model Foundation overview]].
+For more information about this feature, see [Service Model Foundation overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-industry-data-model.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[activate-plugins|Activating plugins for Service Model Foundation]]
+[Activating plugins for Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-plugins.md)
 
 </td><td>
 
@@ -58,23 +58,23 @@ Activate the plugins:-   Business Location \(com.snc.business\_location\)
 
 </td></tr><tr><td>
 
-[[csm-activate-query-rules|Activate query rules]]
+[Activate query rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-activate-query-rules.md)
 
 </td><td>
 
-Activate the query [[gamification-components-rules|rules]] by setting the system property \[sn\_cs\_queryrules.use\_query\_rules\] value to **true**.
+Activate the query rules by setting the system property \[sn\_cs\_queryrules.use\_query\_rules\] value to **true**.
 
 </td></tr><tr><td>
 
-[[configure-data-model-forms|Configure forms and lists]]
+[Configure forms and lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-forms.md)
 
 </td><td>
 
-Configure [[migration-forms|forms]] to add the fields and related [[migration-lists|lists]] that support the business location and household models.
+Configure forms to add the fields and related lists that support the business location and household models.
 
 </td></tr><tr><td>
 
-[[csm-assign-responsibilities|Assign responsibilities]]
+[Assign responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-assign-responsibilities.md)
 
 </td><td>
 
@@ -82,7 +82,7 @@ Assign responsibilities to the service organization \(SO\) member using the resp
 
 </td></tr><tr><td>
 
-[[configure-data-model-roles|Assign roles]]
+[Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-roles.md)
 
 </td><td>
 
@@ -90,11 +90,11 @@ Roles control access to features, capabilities, and data. The Service Model Foun
 
 </td></tr><tr><td>
 
-[[configure-data-model-relationships|Create relationships]]
+[Create relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-relationships.md)
 
 </td><td>
 
-Use relationships to provide internal and external users with additional access to [[customer-data|customer data]]. Relationships are based on responsibility definitions. When you create a relationship, you select the users involved in the relationship and the responsibility that one user performs on behalf of another.
+Use relationships to provide internal and external users with additional access to customer data. Relationships are based on responsibility definitions. When you create a relationship, you select the users involved in the relationship and the responsibility that one user performs on behalf of another.
 
  The Service Model Foundation plugins provide both relationships and responsibility definitions that you can use to create relationships between users.
 
@@ -103,17 +103,4 @@ Use relationships to provide internal and external users with additional access 
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[csm-industry-data-model|Service Model Foundation overview]]
-- [[activate-plugins|Activating plugins for Service Model Foundation]]
-- [[csm-activate-query-rules|Activate query rules]]
-- [[configure-data-model-forms|Configure forms and lists]]
-- [[csm-assign-responsibilities|Assign responsibilities]]
-- [[configure-data-model-roles|Assign roles]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[data-models|Data models]]
-- [[gamification-components-rules|Rules]]
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]
-- [[customer-data|Customer data]]

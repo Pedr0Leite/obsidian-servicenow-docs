@@ -14,7 +14,7 @@ breadcrumb: [Legal Stock Preclearance, Legal Service Delivery Practice Applicati
 
 # Exploring Legal Stock Preclearance
 
-[[legal-stock-preclearance-landing-page|Legal Stock Preclearance]] application keeps you in compliance with your organization's stock preclearance policy through automation of submission and approvals of preclearance requests.
+Legal Stock Preclearance application keeps you in compliance with your organization's stock preclearance policy through automation of submission and approvals of preclearance requests.
 
 Employees of your organization on designation as an access person, such as directors and executives, must obtain the preclearance approval from the legal department before they can trade in securities of the organization.
 
@@ -22,6 +22,3 @@ Employees of your organization on designation as an access person, such as direc
 
 **Parent Topic:**[Legal Stock Preclearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-preclearance-landing-page.md)
 
-## Related
-
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]

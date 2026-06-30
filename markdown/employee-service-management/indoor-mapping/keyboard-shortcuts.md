@@ -14,7 +14,7 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Keyboard shortcuts
 
-The keyboard shortcuts provided with [[Indoor-mapping|Indoor Mapping]] allow Map Studio administrators to quickly perform common administrative tasks by using keys in the **Map Studio**.
+The keyboard shortcuts provided with Indoor Mapping allow Map Studio administrators to quickly perform common administrative tasks by using keys in the **Map Studio**.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: map admin, map editor, map editor limited
 
 **Next topic:**[Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

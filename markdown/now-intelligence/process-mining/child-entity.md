@@ -28,7 +28,7 @@ Often the start and end of a full workflow occurs outside the life cycle of your
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -121,6 +121,3 @@ Displays the selected number of related records for the filters set. You can fil
 
 **Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

@@ -19,7 +19,7 @@ Configuration data files store dynamic instance data, such as virtual machine de
 ## Configuration data files structure
 
 -   Attachment based: A configuration data file contains a single attachment with instance data, such as Azure VM details.
--   Synchronization: When an attachment is added or deleted, the data file is synchronized across all MID Servers configured with the [[acc-landing-page|Agent Client Collector]]. If a file or its attachment is deleted, it is also removed from the MID Server.
+-   Synchronization: When an attachment is added or deleted, the data file is synchronized across all MID Servers configured with the Agent Client Collector. If a file or its attachment is deleted, it is also removed from the MID Server.
 -   Access point: The configuration data files can be accessed on the MID Server at `static/cache/config-files`.
 -   Size: Configuration data files cannot be larger than 10MB.
 
@@ -45,6 +45,3 @@ Configuration data files serve as a repository for dynamic instance data that is
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -12,7 +12,7 @@ breadcrumb: [Gathering data aligned with the CSDM setup, Manage, Operational Res
 
 # Add a business service to Operational Resilience reporting
 
-Add a business service to Operational Resilience reporting in the [[grc-opres-landing-page|Operational Resilience]] Workspace. The Operational Resilience managers with \[sn\_oper\_res.manager\] roles can add business services, service offerings, business processes, and application services to their [[entity-type-in-risk-ws|entity types]] from the business service form or the list actions.
+Add a business service to Operational Resilience reporting in the Operational Resilience Workspace. The Operational Resilience managers with \[sn\_oper\_res.manager\] roles can add business services, service offerings, business processes, and application services to their entity types from the business service form or the list actions.
 
 ## Before you begin
 
@@ -56,9 +56,9 @@ Beginning with Operational Resilience, Release 21.0.x, records in the Services, 
 
 4.  Select **360 view** to display all the related records.
 
-5.  To add a business service to the Operational Resilience application, select **New** in the Business services [[list-view-uib-ws|list view]] and fill in the details regarding the service on the Create New service form.
+5.  To add a business service to the Operational Resilience application, select **New** in the Business services list view and fill in the details regarding the service on the Create New service form.
 
-    For a description of the field values on the Business service form, see [[create-new-business-service-form|Create New Business Service form]].
+    For a description of the field values on the Business service form, see [Create New Business Service form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-business-service-form.md).
 
 6.  To save updates to the existing record, select **Save**.
 
@@ -94,12 +94,6 @@ Beginning with Operational Resilience, Release 21.0.x, records in the Services, 
 
     You can view the dependencies in the desired map view such as the vertical, horizontal, radial, force, group, or details view.
 
-10. To navigate to the 360º view and monitor upstream and downstream relationships, [[entity-class|entity class]], entity types of the business service, select the **360º view**.
+10. To navigate to the 360º view and monitor upstream and downstream relationships, entity class, entity types of the business service, select the **360º view**.
 
-## Related
 
-- [[create-new-business-service-form|Create New Business Service form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[list-view-uib-ws|List view]]
-- [[entity-class|entity class]]

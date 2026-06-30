@@ -14,7 +14,7 @@ breadcrumb: [Migrate, Legal Simple Contracts, Legal Service Delivery Practice Ap
 
 # Result of migration from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery
 
-On the running the script to migrate data from [[legal-simple-contracts-landing-page|Legal Simple Contracts]] to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]], the data is copied along with other changes made to Legal Simple Contracts modules, [[legal-counsel-center-landing|Legal Counsel Center]], and the [[legal-executive-dashboard|Legal Executive dashboard]].
+On the running the script to migrate data from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery, the data is copied along with other changes made to Legal Simple Contracts modules, Legal Counsel Center, and the Legal Executive dashboard.
 
 -   After migration, the following modules of Legal Simple Contracts are marked as legacy:
     -   **Simple Contracts Admin**
@@ -29,9 +29,3 @@ On the running the script to migrate data from [[legal-simple-contracts-landing-
 
 **Parent Topic:**[Migrating to Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-landing-page.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-executive-dashboard|Legal Executive dashboard]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for SPO, Sourcing and Procurement Operations,
 
 # Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill
 
-If you have the sn\_nowassist\_admin.nsa\_admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]], [[shopping-hub-overview|Shopping Hub]], and in Core UI.
+If you have the sn\_nowassist\_admin.nsa\_admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **[[psm-overview|Sourcing and Procurement Operations]]** to view the skills for the Now Assist for SPO features.
+2.  In the **Finance and Supply Chain** workflow group, select **Sourcing and Procurement Operations** to view the skills for the Now Assist for SPO features.
 
 3.  Create a copy of a skill and customize the input fields.
 
@@ -98,7 +98,7 @@ Description of the base input field value.
 
         You can build the condition out further by selecting **+New condition set** and configuring additional parameters.
 
-    3.  For each input template state, select **+New data source** to configure the additional related table and [[activity-stream|activity stream]] data, as needed.
+    3.  For each input template state, select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         You can add input data sources like related tables, activity streams and relationships to provide more context to the Now LLM Service. You can also add rule conditions to these additional data sources.
 
@@ -116,7 +116,7 @@ Description of the base input field value.
 
         To add a section, you must configure the relevant input data prior to this step.
 
-        For example, for the [[sourcing-request|Sourcing request]] summarization for requesters skill, you can select the following available prompt sections:
+        For example, for the Sourcing request summarization for requesters skill, you can select the following available prompt sections:
 
         -   **Requester overview for SR**
         -   **Requester next steps for SR**
@@ -189,11 +189,11 @@ Requester SR closed
     You can now select **Summarize** in a record to generate the summary for the following records:
 
     -   Sourcing request
-    -   [[purchase-requisition|Purchase requisition]]
+    -   Purchase requisition
     -   Procurement case
     -   Negotiation
     -   Sourcing event
-    -   [[purchase-order-table|Purchase order]]
+    -   Purchase order
 
 **Parent Topic:**[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-now-assist-for-spo.md)
 
@@ -202,13 +202,3 @@ Requester SR closed
 
 [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[activity-stream|Activity stream]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

@@ -23,25 +23,25 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Navigate to **Lists** &gt; **[[invoices|Invoices]]** &gt; **All Open Invoices**.
+2.  Navigate to **Lists** &gt; **Invoices** &gt; **All Open Invoices**.
 
 3.  Select an **invoice** &gt; **Invoice line**.
 
     For more information on invoice line, see [Create an invoice manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md).
 
-4.  Select **[[cost-allocations|Cost allocations]]**.
+4.  Select **Cost allocations**.
 
 5.  Select **New**.
 
-    The [[invoice-line-cost-allocation|invoice cost allocation]] form displays. For more information on the cost allocation form, see [Create invoice cost allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md)
+    The invoice cost allocation form displays. For more information on the cost allocation form, see [Create invoice cost allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md)
 
     **Note:**
 
     -   During cost allocation, if the total allocated quantity or amount across different cost centers or ledger accounts isn’t equal to the invoice line quantity or subtotal, then the invoice cost allocation exception occurs. For more information on exceptions, see [Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md).
     -   When you delete an invoice line record, you’re prompted with a pop-up message to confirm the deletion of an invoice line record removes its associated cost allocation record.
-    -   When you select allocation type as [[cost-center|cost center]] for the first record and save the changes, the subsequent records also will inherit the same allocation type.
+    -   When you select allocation type as cost center for the first record and save the changes, the subsequent records also will inherit the same allocation type.
 6.  Select **Save**.
 
 
@@ -51,10 +51,3 @@ The cost allocation form is added to the invoice line.
 
 **Parent Topic:**[Invoice cost allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-cost-allocation.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[cost-allocations|Cost allocations]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]
-- [[cost-center|Cost center]]

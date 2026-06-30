@@ -16,7 +16,7 @@ breadcrumb: [Observability-Dynatrace, Service Graph Connectors, Integrating thir
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from Dynatrace. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
-**Important:** The [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]] supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]].
+**Important:** The Service Graph Connector for Observability - Dynatrace supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new Service Graph Connector for Observability - Dynatrace SaaS.
 
 ## Application \[cmdb\_ci\_appl\]
 
@@ -388,7 +388,7 @@ The following attributes in the Instance Scale Set \[cmdb\_ci\_instance\_scale\_
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data.
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data.
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -559,8 +559,3 @@ The following attributes in the Virtual Machine Instance \[cmdb\_ci\_vm\_instanc
 |Virtual Machine Instance \[cmdb\_ci\_vm\_instance\]|Hosted on::Hosts|AWS Datacenter \[cmdb\_ci\_aws\_datacenter\]|
 |Virtual Machine Instance \[cmdb\_ci\_vm\_instance\]|Reference|Key Value \[cmdb\_key\_value\]|
 
-## Related
-
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[ip-address|IP Address]]

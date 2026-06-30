@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response Integration with Netskope, I
 
 # Mapping DLP incident status with Netskope
 
-The incident status [[mapping-logrhythm|mapping]] section enables the users to provide the mappings between the DLP Incident status in ServiceNow and Netskope Object status.
+The incident status mapping section enables the users to provide the mappings between the DLP Incident status in ServiceNow and Netskope Object status.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ After successfully creating the record for status mapping, whenever there is an 
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-netskope.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

@@ -14,14 +14,14 @@ breadcrumb: [Incident diagnostics and suggested resolutions, DEX for service des
 
 # Reviewing device health metrics in incident investigation with DEX
 
-View the overall health and related metrics for [[dex-landing|Digital End-User Experience]] \(DEX\) monitored [[dex-workspace-devices-tab|devices]] as part of [[dex-diagnostics-guided-resolutions|incident investigation with DEX]].
+View the overall health and related metrics for Digital End-User Experience \(DEX\) monitored devices as part of incident investigation with DEX.
 
 The Device health section shows device and application performance classified as Good, Average, or Poor based on corresponding device health categories.
 
 -   Device performance: Overall health and performance of the device.
 -   Network stability: Performance and consistency of the network connection.
 -   Security status: Security or protection level of the device.
--   Application performance: Performance of installed and web [[dex-workspace-application-tab|applications]] on the device.
+-   Application performance: Performance of installed and web applications on the device.
 
 ## Device health checklist
 
@@ -38,7 +38,7 @@ A checklist shows basic device and application health metrics. You can display a
 
 **Note:** Metrics displayed in the Device health check list are included in the base system metric list. As a DEX administrator, you can customize the base system metrics. For more information, see [Customize metric definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-customize-dex-score-metric-defs.md).
 
-Selecting **View detailed device health** displays the [[dex-workspace-user-details|Device details]] page. For more information, see [Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md).
+Selecting **View detailed device health** displays the Device details page. For more information, see [Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md).
 
 ## Device metrics
 
@@ -58,10 +58,3 @@ This section displays the following information:
 -   Overview information like the application type \(installed or web\), application status and usage time, version number, and last access time.
 -   Application performance metric details like CPU and memory usage percentages, number of crashes and freezes, and average page load and response times.
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-diagnostics-guided-resolutions|Incident investigation with DEX]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-user-details|Device details]]

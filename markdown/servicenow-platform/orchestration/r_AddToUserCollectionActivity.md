@@ -16,9 +16,9 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 The Add to User Collection activity adds a user to a Microsoft System Center Configuration Manager \(SCCM\) user collection.
 
-The Add to User Collection activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to access the SCCM server. The activity is configured to use a [[mid-server-landing|MID Server]] with Powershell capabilities and to run a MID Server script called AddToUserCollection.ps1 to edit the collection.
+The Add to User Collection activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to access the SCCM server. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToUserCollection.ps1 to edit the collection.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
 **Note:** The Add to User Collection activity does not use pre-processing or post processing scripts.
 
@@ -46,7 +46,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

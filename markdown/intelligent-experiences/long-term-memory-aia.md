@@ -20,7 +20,7 @@ Role required: sn\_aia.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Settings**.
 
 2.  Select **Long-term memory**.
 
@@ -44,6 +44,4 @@ Role required: sn\_aia.admin
 
     \[Omitted image "disable-agent-learning.png"\] Alt text: Confirmation for disabling agent learning.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]

@@ -12,7 +12,7 @@ breadcrumb: [Using customer data models for B2B2C, Customer management, Use, Cus
 
 # View install base information as an account consumer
 
-Track the instances provisioned for your account and which products or services run on them by viewing a list of [[install-base-item|install base items]].
+Track the instances provisioned for your account and which products or services run on them by viewing a list of install base items.
 
 ## Before you begin
 
@@ -34,9 +34,6 @@ View the list of install base items information from the Customer Service Portal
 
 3.  Select an install base to view its details.
 
-    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [[config-b2b2c-data-model-case-list|Configure the Install Base items and Sold Products lists]] for details.
+    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [Configure the Install Base items and Sold Products lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-b2b2c-data-model-case-list.md) for details.
 
-## Related
 
-- [[config-b2b2c-data-model-case-list|Configure the Case list for B2B2C]]
-- [[install-base-item|Install base items]]

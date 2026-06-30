@@ -28,7 +28,7 @@ The following enhancements are available for the entities:
     \[Omitted image "workspace-view-entity-form.png"\] Alt text: Entity form in the workspace view.
 
 -   Form design changes: The following form design changes are introduced in the entity and entity filter forms.
-    -   You must fill in the **[[entity-class|Entity class]]** and **Default owner** fields in the form as shown in the following example.
+    -   You must fill in the **Entity class** and **Default owner** fields in the form as shown in the following example.
     -   You must fill in the **Default owner** field even if you have cleared the **Use owner field**. This update ensures that every entity that has been created has an owner assigned to it.
     -   The **Department** field is added to the entity form. You can add context to an entity by selecting the department, location, and class fields.
     -   The **Auto-update owner** and **Source field for owner** fields are displayed in the form. The **Source field for owner** is visible only if you have enabled the **Auto-update owner**.
@@ -41,6 +41,3 @@ The following enhancements are available for the entities:
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
-## Related
-
-- [[entity-class|entity class]]

@@ -14,23 +14,23 @@ breadcrumb: [Location Directory, Request employee-related services, Workplace Co
 
 # Work with the Map view on the Location Directory
 
-Work with Map view to search for workplace users, locations, spaces, and neighborhoods. [[get-directions-to-a-workplace|Get directions to a workplace]] location, meeting rooms, or an employee to collaborate quickly and effectively. Filter spaces based on reservation and occupancy states, space types, or neighborhoods.
+Work with Map view to search for workplace users, locations, spaces, and neighborhoods. Get directions to a workplace location, meeting rooms, or an employee to collaborate quickly and effectively. Filter spaces based on reservation and occupancy states, space types, or neighborhoods.
 
 ## Before you begin
 
 \[Omitted video\] Description: Wayfinding using the Location directory
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(Optional\)
+-   Workplace Core
+-   Workplace Reservation Management \(Optional\)
 
     Filter and display the reservation status for a selected location on the Location directory.
 
--   [[workplace-connectors-landing-page|Workplace Connectors]] \(Optional\)
+-   Workplace Connectors \(Optional\)
 
     Filter and display the occupancy status for a selected location on the Location directory.
 
--   [[Indoor-mapping|Indoor Mapping]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Indoor Mapping
+-   Workplace Space Mapping
 
 **Note:** Confirm that the map properties for the Location directory are configured by your administrator. Map properties for the Location directory provide options to:
 
@@ -49,7 +49,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**.
 
 2.  From the **Workplace Services** list, select **Browse Workplace services**.
 
@@ -275,13 +275,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Work with the Card view on the Location directory]()
 
-## Related
-
-- [[get-directions-to-a-workplace|Get directions to a workplace]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]

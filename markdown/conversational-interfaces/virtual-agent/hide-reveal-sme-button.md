@@ -15,7 +15,7 @@ breadcrumb: [Working with setup topics, Customizing a chat experience, Configure
 
 # Hide or reveal the Show me everything button
 
-Set properties to hide or reveal the Show me everything button in [[virtual-agent-landing-page|Virtual Agent]] LLM \(large language model\) conversations.
+Set properties to hide or reveal the Show me everything button in Virtual Agent LLM \(large language model\) conversations.
 
 ## Before you begin
 
@@ -35,9 +35,9 @@ The greeting topic of a Virtual Agent includes a **Show me everything** button b
 
     The topic opens in Virtual Agent Designer.
 
-3.  In the Flow tab, select the **Send skill picker** node.\[Omitted image "sme-button-greeting-topic-flow.png"\] Alt text: [[vad-topic-flow-tab|Topic flow tab]] with Send skill picker node highlighted on canvas.
+3.  In the Flow tab, select the **Send skill picker** node.\[Omitted image "sme-button-greeting-topic-flow.png"\] Alt text: Topic flow tab with Send skill picker node highlighted on canvas.
 
-    The **[[va-script-action|Script action utility]]** control for the **Send skill picker** node opens in the property sheet.
+    The **Script action utility** control for the **Send skill picker** node opens in the property sheet.
 
 4.  In the property sheet, select the **Script that defines the operation of the node** button \[Omitted image "icon-script.png"\] Alt text:.
 
@@ -58,8 +58,3 @@ The duplicated greeting Setup topic is associated with the LLM assistant as the 
 
 **Parent Topic:**[Working with setup topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/working-setup-topics.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topic-flow-tab|Topic Flow tab]]
-- [[va-script-action|Script Action utility]]

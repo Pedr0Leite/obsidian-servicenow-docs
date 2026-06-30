@@ -33,7 +33,7 @@ Next Button
 The callout includes a **Next** button that the user can select to move on to the next step. This feature is useful in the following situations:
 
  -   When the callout describes the element it’s pointing to, enabling the user to progress without needing to select any UI elements.
--   When entering information into a [[onboarding-modals-reference|reference]] or date picker field. Users can use the lookup function, manually enter data, or select it from a list. They can proceed once they’ve completed the necessary entry for the step.
+-   When entering information into a reference or date picker field. Users can use the lookup function, manually enter data, or select it from a list. They can proceed once they’ve completed the necessary entry for the step.
 
 </td></tr><tr><td>
 
@@ -102,6 +102,3 @@ The tour moves to the next step when the user double-clicks an element.
 </td></tr></tbody>
 </table>**Parent Topic:**[Guided Tour Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tours-designer.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]

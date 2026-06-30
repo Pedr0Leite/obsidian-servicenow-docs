@@ -14,8 +14,5 @@ breadcrumb: [Mentoring, Growth Experiences, HR Service Delivery, Employee Servic
 
 # Using Mentoring
 
-Employees can participate as mentors or mentees from the [[employee-center-landing-page|Employee Center]].
+Employees can participate as mentors or mentees from the Employee Center.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

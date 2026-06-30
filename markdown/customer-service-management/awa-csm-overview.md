@@ -12,13 +12,13 @@ breadcrumb: [Case routing and assignment, Organize agent workspaces, Configure, 
 
 # AWA for CSM
 
-Use the ServiceNow® Advanced Work Assignment \(AWA\) for [[c_CustomerServiceManagement|Customer Service Management]] feature to automatically assign work items to agents based on their availability, capacity, and skills. AWA for CSM pushes work to qualified agents using work item queues, routing conditions, and assignment criteria that you define. Agents see their assignments in their Agent Workspace inbox.
+Use the ServiceNow® Advanced Work Assignment \(AWA\) for Customer Service Management feature to automatically assign work items to agents based on their availability, capacity, and skills. AWA for CSM pushes work to qualified agents using work item queues, routing conditions, and assignment criteria that you define. Agents see their assignments in their Agent Workspace inbox.
 
 ## Plugins
 
 The Advanced Work Assignment for CSM feature is available with the Customer Service plugin \(com.sn\_customerservice\).
 
-To use the shift-based assignment feature for customer service cases, you must enable the [[configurable-wfo-cs|Workforce Optimization for Customer Service]] plugin \(com.snc.wfo.csm\) in addition to the Advanced Work Assignment plugin \(com.glide.awa\). For more information, see [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]].
+To use the shift-based assignment feature for customer service cases, you must enable the Workforce Optimization for Customer Service plugin \(com.snc.wfo.csm\) in addition to the Advanced Work Assignment plugin \(com.glide.awa\). For more information, see [Activate Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md).
 
 To use the chat feature with Advanced Work Assignment for CSM, you must also activate the Agent Chat plugin \(com.glide.interaction.awa\).
 
@@ -54,8 +54,3 @@ Agent Affinity is an Advanced Work Assignment enhancement that enables you to st
 
 [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-overview.md)
 
-## Related
-
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Invoice exception definition form
 
-Field descriptions for the Invoice exception definition form used to create and configure invoice exception definitions in [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]].
+Field descriptions for the Invoice exception definition form used to create and configure invoice exception definitions in Accounts Payable Invoice Processing.
 
 <table id="table_acw_lsh_ywb"><thead><tr><th>
 
@@ -117,7 +117,7 @@ Subflow that is run to determine if the exception exists for a given invoice.
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -143,7 +143,3 @@ Subflow that is run to determine if the exception exists for a given invoice.
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

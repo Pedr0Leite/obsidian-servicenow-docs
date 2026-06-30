@@ -26,7 +26,7 @@ To identify customized objects, the system adds a corresponding record in the Cu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade History**.
 
 2.  Select the desired software version.
 
@@ -43,6 +43,3 @@ To identify customized objects, the system adds a corresponding record in the Cu
     -   The **Disposition** changes from **Skipped** to **Reverted**.
     -   After you revert a customization, you have the option to click **Reapply Changes** to reapply your customizations \(undo the revert\).
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

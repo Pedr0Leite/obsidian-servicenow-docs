@@ -14,9 +14,9 @@ breadcrumb: [Configure properties, Install Supplier Case Management, Configure, 
 
 # Email format for contacts linked with multiple suppliers
 
-Contacts linked with multiple suppliers have to include the [[supplier|supplier]]'s legal name while sending emails for automatic creation of cases.
+Contacts linked with multiple suppliers have to include the supplier's legal name while sending emails for automatic creation of cases.
 
-When a [[supplier-contact|supplier contact]] is mapped to only one supplier and sends an email, a case is created with that supplier. However, when the supplier contact is mapped to multiple suppliers, the supplier's legal name is retrieved from the email body.
+When a supplier contact is mapped to only one supplier and sends an email, a case is created with that supplier. However, when the supplier contact is mapped to multiple suppliers, the supplier's legal name is retrieved from the email body.
 
 **Important:** The valid supplier's legal name must be included in the email body in the following format:
 
@@ -41,7 +41,3 @@ When the supplier's name is not the exact legal name, a case is still created wi
 
 [Enable automatic creation of supplier cases from incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-email-properties.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

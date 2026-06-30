@@ -20,7 +20,7 @@ Role required: dashboard\_admin, or you must be the dashboard owner or have had 
 
 ## About this task
 
-**Note:** This topic covers only those editing options you have in the component header on a filter on a dashboard that is in editing mode. It does not cover the configuration options, such as selecting the filter source and target. Those options are available in the configuration panel, which is available in either a dashboard in edit mode or in the Filter Designer. The editing options in this topic apply to all filter types, whereas the configuration options differ by filter type. For more information, see [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]], [[create-boolean-filter-workspace|Configure a True/False filter]], or [[create-date-filter-workspace|Configure a Date filter in the inline editor]].
+**Note:** This topic covers only those editing options you have in the component header on a filter on a dashboard that is in editing mode. It does not cover the configuration options, such as selecting the filter source and target. Those options are available in the configuration panel, which is available in either a dashboard in edit mode or in the Filter Designer. The editing options in this topic apply to all filter types, whereas the configuration options differ by filter type. For more information, see [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md), [Configure a True/False filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md), or [Configure a Date filter in the inline editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md).
 
 ## Procedure
 
@@ -76,8 +76,4 @@ Role required: dashboard\_admin, or you must be the dashboard owner or have had 
 
         When you make this selection, the new version of the filter is enabled on all dashboards that use it.
 
-## Related
 
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[create-boolean-filter-workspace|Configure a True/False filter]]
-- [[create-date-filter-workspace|Configure a Date filter in the inline editor]]

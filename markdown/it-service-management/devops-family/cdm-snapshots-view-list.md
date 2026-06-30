@@ -18,7 +18,7 @@ View the snapshots of all deployables for an application on the **Details** tab 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_viewer
 
@@ -131,6 +131,4 @@ Text tag that enables you to filter the snapshots in a list.
 </td></tr></tbody>
 </table>2.  Select the snapshot name to view its details and set values on the **Details** tab.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

@@ -14,11 +14,11 @@ breadcrumb: [Lifecycle Events, Employee Journey Management, HR Service Delivery,
 
 # Using Lifecycle Events
 
-Use [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] to automate the fulfillment of HR cases such as new hire onboarding.
+Use Lifecycle Events to automate the fulfillment of HR cases such as new hire onboarding.
 
 ## Overview of [Building a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-configuration.md)
 
-Each lifecycle event is a collection of activities that often span multiple departments and are organized into [[activity-lxp|activity]] sets. To [[configure-hr-lifecycle-event-type|configure a lifecycle event]], you must first document the business process for your event. Next, you must configure all of the supporting components. You can then configure the lifecycle event and its associated activity sets and activities. Finally, you configure a corresponding HR service so that the lifecycle event can be requested for service.
+Each lifecycle event is a collection of activities that often span multiple departments and are organized into activity sets. To configure a lifecycle event, you must first document the business process for your event. Next, you must configure all of the supporting components. You can then configure the lifecycle event and its associated activity sets and activities. Finally, you configure a corresponding HR service so that the lifecycle event can be requested for service.
 
 \[Omitted image ""\] Alt text: In progress
 
@@ -34,8 +34,4 @@ Each lifecycle event is a collection of activities that often span multiple depa
 
     Create a lifecycle event case. A lifecycle event case is an HR case that is fulfilled by a lifecycle event. For example, the HR service for New Hire Onboarding is fulfilled by the lifecycle event for New Hire Onboarding.
 
-## Related
 
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[configure-hr-lifecycle-event-type|Configure a lifecycle event]]

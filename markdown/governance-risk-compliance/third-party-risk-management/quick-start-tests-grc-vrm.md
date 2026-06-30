@@ -27,8 +27,8 @@ The GRC: Vendor Management Workspace quick start tests listed below require this
 |Test|Description|
 |----|-----------|
 |GRC: Create Engagement Risk Assessment|Creates and submits an engagement risk assessment to an engagement.|
-|GRC: Vendor Risk Scoring - [[cancel-assessment|Cancel assessment]] for engagement|Verifies a request to recalculate a risk rating is automatically created on an Engagement and Third party after one assessment for the Engagement is cancelled.|
-|GRC: Vendor Issue ATF|Creates and submits a third-party risk [[issue-form|issue form]] and third-party risk task form.|
+|GRC: Vendor Risk Scoring - Cancel assessment for engagement|Verifies a request to recalculate a risk rating is automatically created on an Engagement and Third party after one assessment for the Engagement is cancelled.|
+|GRC: Vendor Issue ATF|Creates and submits a third-party risk issue form and third-party risk task form.|
 |GRC: Create Vendor Risk Assessment|Creates and submits a vendor risk assessment to a vendor.|
 |GRC: Vendor Portal - Answer and Return Assessment|Vendor contact answers and submits assessment in the Service Vendor Portal.|
 |GRC: Vendor Tiering Assessment|Selects and submits an assessment to respective assessors after changing the duration.|
@@ -38,7 +38,3 @@ The GRC: Vendor Management Workspace quick start tests listed below require this
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cancel-assessment|Cancel assessment]]
-- [[issue-form|Issue form]]

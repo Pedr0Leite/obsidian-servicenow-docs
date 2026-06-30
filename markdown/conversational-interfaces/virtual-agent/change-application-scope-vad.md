@@ -15,7 +15,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Change the application scope for Virtual Agent Designer topics
 
-Set the application scope before you create or update a topic. For example, if you're creating ITSM topics, verify that you're in the **ITSM [[virtual-agent-landing-page|Virtual Agent]] Conversations** scope \(and not the scope for the ITSM NLU \(Natural Language Understanding\) Model for Virtual Agent Conversations\).
+Set the application scope before you create or update a topic. For example, if you're creating ITSM topics, verify that you're in the **ITSM Virtual Agent Conversations** scope \(and not the scope for the ITSM NLU \(Natural Language Understanding\) Model for Virtual Agent Conversations\).
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Return to creating or updating your topic. If you have multiple topics open, you
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

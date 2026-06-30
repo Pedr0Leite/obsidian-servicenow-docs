@@ -14,7 +14,7 @@ breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people a
 
 # Multiple Proactive Triggers rules and actions
 
-The [[proactive-triggers-landing-page|Proactive Triggers]] feature uses rules and actions to trigger context-specific [[virtual-agent-landing-page|Virtual Agent]] conversations with end users on the web client.
+The Proactive Triggers feature uses rules and actions to trigger context-specific Virtual Agent conversations with end users on the web client.
 
 An admin enables the [Proactive Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/enable-proactive-triggers.md) feature.
 
@@ -34,7 +34,7 @@ If you have errors when you create a rule, check the following fields to see if 
 -   **Delay time**
 -   **Order**
 
-It may be necessary to clear the rule's history for the rule to function as anticipated. When you set your rule's **Frequency** field to **Once per user** and you want to run the rule again, you must clear the history. Clearing the history lets you apply the rule again for that user. To clear the rule's history, select **Clear History** on the rule's [[proactive-rule-new-record-form|Proactive Rule form]]. After the history clears, an admin must reactivate the rule.
+It may be necessary to clear the rule's history for the rule to function as anticipated. When you set your rule's **Frequency** field to **Once per user** and you want to run the rule again, you must clear the history. Clearing the history lets you apply the rule again for that user. To clear the rule's history, select **Clear History** on the rule's Proactive Rule form. After the history clears, an admin must reactivate the rule.
 
 \[Omitted image "ci-proactive-triggers-new-rule-button.png"\] Alt text: Clear History.
 
@@ -43,8 +43,3 @@ It may be necessary to clear the rule's history for the rule to function as anti
 
 [Manage Proactive Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/manage-proactive-triggers-2.md)
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[proactive-rule-new-record-form|Proactive Rule form]]

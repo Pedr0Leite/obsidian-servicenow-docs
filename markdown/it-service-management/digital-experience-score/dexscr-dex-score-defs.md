@@ -14,11 +14,11 @@ breadcrumb: [Explore, Digital Experience Score, Digital End-User Experience, IT 
 
 # Metric scores in Digital Experience Score​
 
-Learn more about the different qualitative and quantitative metrics in the [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard, which provides end-to-end visibility into your employees' digital experiences.
+Learn more about the different qualitative and quantitative metrics in the Digital Experience Score​ dashboard, which provides end-to-end visibility into your employees' digital experiences.
 
 ## Digital Experience Score​
 
-This metric measures the overall employee experience with [[dex-workspace-devices-tab|devices]] and [[dex-workspace-application-tab|applications]] at work across your organization. This overall digital experience score helps you identify areas that need further investigation or action plans to address them.
+This metric measures the overall employee experience with devices and applications at work across your organization. This overall digital experience score helps you identify areas that need further investigation or action plans to address them.
 
 This metric score is rolled up from the following two metric scores: Application experience score and Device experience score.
 
@@ -77,8 +77,3 @@ The device experience score is the average device experience score of DEX monito
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

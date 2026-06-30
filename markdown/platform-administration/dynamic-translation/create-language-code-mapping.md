@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-translation|Dynamic Translation]]** &gt; **Language Code Mappings**.
+1.  Navigate to **All** &gt; **Dynamic Translation** &gt; **Language Code Mappings**.
 
 2.  Click **New**.
 
@@ -69,6 +69,4 @@ Identifier for the language and the mapping code.The name is auto-filled using t
 
     **Note:** After creating the language code mapping, associate it with a corresponding translator configuration to map the existing ServiceNow® language code.
 
-## Related
 
-- [[dynamic-translation|Dynamic translation]]

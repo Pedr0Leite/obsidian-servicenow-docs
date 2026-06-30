@@ -16,7 +16,7 @@ Step-by-step instructions for setting up CPQ in an environment linked to a Sales
 
 ## Before you begin
 
-Designate a user in the org who will serve as the first CPQ admin user, and note the user name. This user will need to grant other users access after they have attempted to access the CPQ Admin once and appear in the [[please_share_your_feedback_on_admin_assist_responses|User Access]] list of users. For more information, see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+Designate a user in the org who will serve as the first CPQ admin user, and note the user name. This user will need to grant other users access after they have attempted to access the CPQ Admin once and appear in the User Access list of users. For more information, see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 Provide CPQ Support with the following information:
 
@@ -73,7 +73,7 @@ If your environment has never had CPQ installed, start at step 1. If you are upg
 
         Permitted users should be set to **Admin approved users are pre-authorized**.
 
-    4.  Scroll to Manage Profiles, and link to the system administrator profile or any other profiles that will be [[cpq-using|using CPQ]] as an admin.
+    4.  Scroll to Manage Profiles, and link to the system administrator profile or any other profiles that will be using CPQ as an admin.
 
 7.  Click the gear icon in the upper right and go into the “Setup” page for your SFDC org.
 
@@ -115,7 +115,7 @@ If your environment has never had CPQ installed, start at step 1. If you are upg
 
     1.  Open the dropdown menu on the right and click `Edit`.
 
-    2.  In Available Tabs, find “Configuration Line Items” and “Configuration Field Data [[cpq-sets|Sets]]”, and add them to Selected Tabs.
+    2.  In Available Tabs, find “Configuration Line Items” and “Configuration Field Data Sets”, and add them to Selected Tabs.
 
         If desired, adjust the order of Selected Tabs to make them more easily accessible.
 
@@ -132,7 +132,7 @@ If your environment has never had CPQ installed, start at step 1. If you are upg
     -   In CSP Directives, check the **frame-src \(iframe content\)** and **img-src \(images\)** options.
 14. Go to the Object Manager and use the Quick Find box in the top right to search for the Product object, and select the option whose API name is Product2.
 
-    1.  Navigate to Page [[layouts|Layouts]] and click **Page Layout Assignments**.
+    1.  Navigate to Page Layouts and click **Page Layout Assignments**.
 
     2.  Find the page layout assigned to system administrator or other profiles needing CPQ Admin access \(as determined when setting up Logik Connected App above\).
 
@@ -167,9 +167,4 @@ If your environment has never had CPQ installed, start at step 1. If you are upg
 
     You are then able to follow the complete installation instructions.
 
-## Related
 
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[cpq-using|Using CPQ]]
-- [[cpq-sets|Sets]]
-- [[layouts|Layouts]]

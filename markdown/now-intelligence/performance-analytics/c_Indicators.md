@@ -23,9 +23,9 @@ Watch this six-minute video to learn more about the different kinds of indicator
 Key characteristics of indicators include:
 
 -   Indicator scores can be generated automatically from a set of records defined in an [indicator source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md), entered manually, or calculated from other indicators.
--   Indicator scores can be viewed or analyzed in [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations and [[kpi-details|KPI Details]]. In the Core UI, view them in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or in [[widgets|widgets]] on dashboards.
+-   Indicator scores can be viewed or analyzed in Platform Analytics data visualizations and KPI Details. In the Core UI, view them in the Analytics Hub or in widgets on dashboards.
 
-Indicators that are based directly on [[c_IndicatorSources|indicator sources]] are the most common type of indicator. These indicators are named [[automated-indicators|automated indicators]]. Indicators that are calculated in a formula from the scores of other indicators are called [[formula-indicators|formula indicators]]. Indicators whose scores are entered manually are called [[t_CreateAManualIndicator|manual indicators]]. Manual indicators are meant to be used primarily for testing purposes. Lastly, as an advanced feature, you can create an indicator from an external data source.
+Indicators that are based directly on indicator sources are the most common type of indicator. These indicators are named automated indicators. Indicators that are calculated in a formula from the scores of other indicators are called formula indicators. Indicators whose scores are entered manually are called manual indicators. Manual indicators are meant to be used primarily for testing purposes. Lastly, as an advanced feature, you can create an indicator from an external data source.
 
 In addition there are Data snapshots indicators. Data snapshots in Platform Analytics allows for multiple breakdowns while analyzing your indicators \(KPIs\). For more information, see [Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md).
 
@@ -42,13 +42,3 @@ For an example of an indicator, see the Number of open incidents automated indic
 
 [Using Performance Analytics with external data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-external-data.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]

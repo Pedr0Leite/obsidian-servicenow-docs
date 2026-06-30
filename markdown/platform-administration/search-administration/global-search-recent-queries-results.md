@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Global search displays your most recent search queries and results in Next Experience UI
 
-When you select the empty Unified Navigation search field, the system displays lists showing your most recent search queries and your most recently viewed search [[hs-results|results]]. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
+When you select the empty Unified Navigation search field, the system displays lists showing your most recent search queries and your most recently viewed search results. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
 
 The **Recently Searched** and **Recently Viewed** lists appear below the Unified Navigation search field.
 
@@ -47,6 +47,3 @@ The **Recently Viewed** list shows the most recently viewed search results from 
 
 [Global text search suggestions]()
 
-## Related
-
-- [[hs-results|Results]]

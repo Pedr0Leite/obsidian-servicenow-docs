@@ -14,11 +14,7 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Managing existing Journey Accelerator plans created by managers
 
-Plan owners make updates to [[journey-accelerator-1|Journey Accelerator]] plans only from the [[employee-center-landing-page|Employee Center]] portal. Administrators should not change existing individual plans.
+Plan owners make updates to Journey Accelerator plans only from the Employee Center portal. Administrators should not change existing individual plans.
 
 Changes to existing individual Journey Accelerator plans should be made only from the Employee Center portal by the manager who created the plan.
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

@@ -30,7 +30,7 @@ ServiceNow NLU enables discovery of the chatbot topics based on either the keywo
 
 ## Procedure
 
-1.  Navigate to the [[c_CustomerServiceManagement|Customer Service Management]] portal.
+1.  Navigate to the Customer Service Management portal.
 
 2.  Select **Chat**.
 
@@ -172,7 +172,7 @@ The topic block returns the variable case\_sys\_id
 
 </td><td>
 
-Select this option to create a complaint case from Virtual Agent. Provide a brief description of the complaint and review the [[osp-contextual-search|contextual search]] results. If the results don’t provide an answer, enter the following information to create a case:
+Select this option to create a complaint case from Virtual Agent. Provide a brief description of the complaint and review the contextual search results. If the results don’t provide an answer, enter the following information to create a case:
 
 -   Complaint type
 -   Product or location
@@ -182,7 +182,7 @@ Select this option to create a complaint case from Virtual Agent. Provide a brie
 -   Expected resolution
  After the case is created, you can add a comment to the case or add attachments.
 
-**Note:** This option is available with the [[csm-playbook-complaint-overview|Case Playbook for Complaints]] application.
+**Note:** This option is available with the [Case Playbook for Complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-complaint-overview.md) application.
 
 </td></tr><tr><td id="d317035e517">
 
@@ -199,13 +199,7 @@ Request a callback when the wait time to reach agents is long or agents are unav
 **Related topics**  
 
 
-[[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]
+[Customer Service Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-virtual-agent-chatbot.md)
 
 [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/topic-blocks-overview.md)
 
-## Related
-
-- [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
-- [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-contextual-search|Contextual search]]

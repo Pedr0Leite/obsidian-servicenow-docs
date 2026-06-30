@@ -15,7 +15,7 @@ breadcrumb: [VA feature support in Teams conversations, Conversational Integrati
 
 # Capture common errors and provide resolution steps for Microsoft Teams using the Conversational Interfaces Diagnostic Tool
 
-The [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] runs a health report to define and capture information for different categories of the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] app, such as plugin details, configuration settings, system properties, integration failures, and so on, and lets the user validate and review these settings to start a bot-conversation.
+The Conversational Interfaces Diagnostic Tool runs a health report to define and capture information for different categories of the Conversational Integration with Microsoft Teams app, such as plugin details, configuration settings, system properties, integration failures, and so on, and lets the user validate and review these settings to start a bot-conversation.
 
 When a user runs the health check scan and if there are issues that are shown on the report, then the user can take actions to resolve the issues based on the recommendations that the bot provides through the CI Diagnostic Tool.
 
@@ -71,7 +71,7 @@ Resolving errors using the CI Diagnostic Tool includes the following steps:
 
 5.  The CI Diagnostic Tool provides you with an additional support topic available for the Microsoft Teams plugin. Select **Yes** to proceed.
 
-    You are presented with the following issue types to select from.\[Omitted image "msteams-troubleshoot-type.png"\] Alt text: [[virtual-agent-landing-page|Virtual Agent]] chat window showing diagnostic support and issue type selection for the Microsoft Teams plugin.
+    You are presented with the following issue types to select from.\[Omitted image "msteams-troubleshoot-type.png"\] Alt text: Virtual Agent chat window showing diagnostic support and issue type selection for the Microsoft Teams plugin.
 
     For example, if you select any one of the issue types, the CI Diagnostic Tool provides you with the resolution steps pertaining to that issue type to identify the cause of the issue and to resolve it. You will also be presented with the relevant Knowledge Base articles to get further details about the issue.
 
@@ -80,8 +80,3 @@ Resolving errors using the CI Diagnostic Tool includes the following steps:
 
 **Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)
 
-## Related
-
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]

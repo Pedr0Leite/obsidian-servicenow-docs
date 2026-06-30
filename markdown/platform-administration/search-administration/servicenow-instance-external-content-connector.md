@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # ServiceNow instance external content connector
 
-The ServiceNow instance external content connector retrieves KB article records \(and their attachments\) from your ServiceNow AI Platform source instance and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications in your ServiceNow AI Platform destination instance.
+The ServiceNow instance external content connector retrieves KB article records \(and their attachments\) from your ServiceNow AI Platform source instance and makes their content and metadata searchable in AI Search applications in your ServiceNow AI Platform destination instance.
 
 The ServiceNow AI Platform instance that you want the external content connector to retrieve searchable content and metadata from is your source instance. The instance where the connector runs and populates search applications with the retrieved data is your destination instance.
 
@@ -27,7 +27,7 @@ In your destination instance, the indexed content and metadata are stored as rec
 
 ## User permissions
 
-To view search [[hs-results|results]] from the source instance, a user on the destination instance must satisfy the following conditions:
+To view search results from the source instance, a user on the destination instance must satisfy the following conditions:
 
 -   There must be a matching user account defined for them on the source instance, with the same email address.
 -   Their user account on the source instance must have access to the content represented by the search results.
@@ -50,7 +50,3 @@ Specify the content types that you want your ServiceNow instance external conten
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

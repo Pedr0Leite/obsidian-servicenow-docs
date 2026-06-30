@@ -14,7 +14,7 @@ breadcrumb: [Using Lifecycle Events, Lifecycle Events, Employee Journey Manageme
 
 # Filter lifecycle event activities
 
-Filter lifecycle event activities by [[activity-lxp|activity]] type, owning group, audience, and rescind. You can also search for individual activities by name.
+Filter lifecycle event activities by activity type, owning group, audience, and rescind. You can also search for individual activities by name.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
 
 2.  Click the **Activity Sets** tab to access the lifecycle event builder.
 
@@ -30,7 +30,4 @@ Role required: sn\_hr\_le.admin
 
 4.  In the **Filters** side panel, select filters from the list, or type an activity's tile in the input field.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center Pro, Employee Center Pro, Unified Emplo
 
 # Employee Center Pro admin configurations
 
-As the system admin, [[install-ec-pro|install Employee Center Pro]] plugins, assign roles to users so they can configure [[employee-center-pro-landing|Employee Center Pro]] features, set the theme, header, and footer, and [[ec-direction-right-to-left-languages|enable support for right-to-left languages]].
+As the system admin, install Employee Center Pro plugins, assign roles to users so they can configure Employee Center Pro features, set the theme, header, and footer, and enable support for right-to-left languages.
 
 The Employee Center Pro application provides out-of-the-box portal pages with relevant widgets necessary to deliver an employee-centric portal experience.
 
@@ -33,8 +33,3 @@ The Employee Center Pro application provides out-of-the-box portal pages with re
 
     -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-notification-template.md)
 
-## Related
-
-- [[install-ec-pro|Install Employee Center Pro]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ec-direction-right-to-left-languages|Enable support for right-to-left languages]]

@@ -15,7 +15,7 @@ breadcrumb: [AI agents in Now Assist for IRM, Use agentic AI, Now Assist, Common
 
 # Use Control Objective Change Agent to update control objectives
 
-Use the [[control-objective-change-agent|Control Objective Change Agent]] to review and update impacted Control Objectives based on latest citation details. Users can interact with the Now Assist panel to review and finalize the updates.
+Use the Control Objective Change Agent to review and update impacted Control Objectives based on latest citation details. Users can interact with the Now Assist panel to review and finalize the updates.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ Confirm that the control objective is active.
 
 8.  Continue reviewing other impacted control objectives directly from the Now Assist panel.
 
-## Related
 
-- [[control-objective-change-agent|Control Objective Change Agent]]

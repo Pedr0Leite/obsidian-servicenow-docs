@@ -14,13 +14,13 @@ breadcrumb: [Task Communications Management, ServiceNow AI Platform Additional C
 
 # Task Communications Management process
 
-[[tcm-landing-page|Task Communications Management]] helps you to streamline the process by creating designated communication plans for effective communication during an event. The communication plan, with its defined tasks, helps you to focus on resolving the current issue instead of deciding when to send a communication, what information to share, and whom to inform.
+Task Communications Management helps you to streamline the process by creating designated communication plans for effective communication during an event. The communication plan, with its defined tasks, helps you to focus on resolving the current issue instead of deciding when to send a communication, what information to share, and whom to inform.
 
 \[Omitted image "tcm-basic-component.png"\] Alt text: Basic components
 
 ## How Task Communications Management works
 
-With Task Communications Management, you can predefine a communication plan for an event such as major incident, planned maintenance, and release. Each plan generally involves a series of tasks that define different communication and collaboration activities along with frequency and method of communication. For each task, you must specify the communication channel for contacting the stakeholders. You can also define templates for [[email|email]] and SMS messages.
+With Task Communications Management, you can predefine a communication plan for an event such as major incident, planned maintenance, and release. Each plan generally involves a series of tasks that define different communication and collaboration activities along with frequency and method of communication. For each task, you must specify the communication channel for contacting the stakeholders. You can also define templates for email and SMS messages.
 
 After defining the task and channel for communication, you can define the contacts or the target audience to be contacted for each task.
 
@@ -30,7 +30,7 @@ After a communication plan is defined, the plan gets associated with the appropr
 
 Assume that you want an incident communication plan generated for a high-priority major incident.
 
--   As the major incident manager, you can predefine a communication plan and the conditions that drive its [[attachment|attachment]]. In this case, the conditions are: Priority = High and Major Incident state = Accepted. Consider that the target audience is the technical stakeholders of the incident and the communication plan definition is named Technical Communications.
+-   As the major incident manager, you can predefine a communication plan and the conditions that drive its attachment. In this case, the conditions are: Priority = High and Major Incident state = Accepted. Consider that the target audience is the technical stakeholders of the incident and the communication plan definition is named Technical Communications.
 -   The plan definition can have multiple communication task definitions such as:
     -   Initiate Technical Communications
     -   Technical Status Update
@@ -47,8 +47,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 **Parent Topic:**[Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/tcm-landing-page.md)
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]
-- [[email|Email]]
-- [[attachment|Attachment]]

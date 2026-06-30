@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Child Table form
 
-The Child Table form enables you to enable [[ia-ai-search|AI Search]] content indexing for a child table that extends an indexed source table.
+The Child Table form enables you to enable AI Search content indexing for a child table that extends an indexed source table.
 
 For details on creating or modifying an indexed source child table, see [Create an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-ais.md).
 
@@ -27,6 +27,3 @@ For details on creating or modifying an indexed source child table, see [Create 
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

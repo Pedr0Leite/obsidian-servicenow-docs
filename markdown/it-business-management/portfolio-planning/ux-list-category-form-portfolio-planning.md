@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # UX List Category form
 
-Learn about the fields of the UX List Category form. Use this form to create additional categories for lists in the Lists menu of [[portfolio-planning-app-landing-page|Portfolio Planning]] workspaces.
+Learn about the fields of the UX List Category form. Use this form to create additional categories for lists in the Lists menu of Portfolio Planning workspaces.
 
 <table id="table_r1k_rbt_2wb"><thead><tr><th>
 
@@ -82,6 +82,3 @@ Configuration that the category is referencing.
 
 [Customize Lists in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customize-lists-in-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

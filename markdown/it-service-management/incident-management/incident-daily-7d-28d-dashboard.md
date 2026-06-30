@@ -18,7 +18,7 @@ View the last 28 days of incidents as raw trends, as a 7-day running average, or
 
 **Important:**
 
-Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
+Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
 
 \[Omitted image "incident-7d-28d-daily.png"\] Alt text: Incident Daily tab of the Incident daily 7d-28d breakdown dashboard
 
@@ -28,7 +28,7 @@ Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated.
 
 |End user and goal|Required role|
 |-----------------|-------------|
-|Incident Manager: Needs to know how the [[c_IncidentManagement|incident management]] process is doing so they can plan for the future.|itil|
+|Incident Manager: Needs to know how the incident management process is doing so they can plan for the future.|itil|
 
 ## Indicators
 
@@ -59,7 +59,3 @@ You can apply breakdown elements on this dashboard to all widgets simultaneously
 
 **Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]
-- [[c_IncidentManagement|Incident Management]]

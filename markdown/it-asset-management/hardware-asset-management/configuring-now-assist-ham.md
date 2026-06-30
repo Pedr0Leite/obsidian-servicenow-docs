@@ -15,8 +15,5 @@ breadcrumb: [Configure, Hardware Asset Management, IT Asset Management]
 
 # Configuring Now Assist for Hardware Asset Management \(HAM\)
 
-Configure the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] application to use the agentic workflow capabilities for managing your hardware asset requests autonomously.
+Configure the Now Assist for Hardware Asset Management \(HAM\) application to use the agentic workflow capabilities for managing your hardware asset requests autonomously.
 
-## Related
-
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]

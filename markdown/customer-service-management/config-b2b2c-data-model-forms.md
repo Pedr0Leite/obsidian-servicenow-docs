@@ -22,11 +22,11 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Customer Service** &gt; **Customer** &gt; **Accounts** and select an account.
 
-2.  Add the **Account Consumer&gt;Account** related list to the [[customer-service-account-form|Account form]] for the Case and Workspace views.
+2.  Add the **Account Consumer&gt;Account** related list to the Account form for the Case and Workspace views.
 
     1.  Select **View** &gt; **Case** from the Additional actions menu \[Omitted image "icon-menu.png"\] Alt text: additional actions menu.
 
-    2.  Select **Configure** &gt; **Related [[migration-lists|Lists]]** from the Additional actions menu \[Omitted image "icon-menu.png"\] Alt text: additional actions menu.
+    2.  Select **Configure** &gt; **Related Lists** from the Additional actions menu \[Omitted image "icon-menu.png"\] Alt text: additional actions menu.
 
     3.  Select **Account Consumer&gt;Account** in the **Available** column and move it to the **Selected** column.
 
@@ -52,7 +52,4 @@ Role required: admin
 
     6.  Repeat steps 4b–4d.
 
-## Related
 
-- [[customer-service-account-form|Account form]]
-- [[migration-lists|Lists]]

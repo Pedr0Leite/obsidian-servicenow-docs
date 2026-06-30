@@ -22,7 +22,7 @@ Your ServiceNow includes roles to grant access to the platform features and appl
 
 ## Base system roles
 
-[[r_BaseSystemRoles|Base system roles]] are present in all ServiceNow instances and don’t require the installation of additional plugins.
+Base system roles are present in all ServiceNow instances and don’t require the installation of additional plugins.
 
 <table id="table_yly_lly_wq"><thead><tr><th>
 
@@ -56,7 +56,7 @@ ais\_admin
 
 </td><td>
 
-[[ia-ai-search|AI search]] administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md) application.
+AI search administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md) application.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ asset
 
 </td><td>
 
-Asset users can manage hardware and software [[ia-assets|assets]].
+Asset users can manage hardware and software assets.
 
 </td></tr><tr><td>
 
@@ -336,7 +336,7 @@ import\_transformer
 
 </td><td>
 
-Can manage import set transform maps and run [[c_FieldTransformations|transforms]].
+Can manage import set transform maps and run transforms.
 
 </td></tr><tr><td>
 
@@ -460,7 +460,7 @@ personalize\_choices
 
 </td><td>
 
-Can configure [[t_ViewChoiceListDefinitions|choices]] and predefined responses for non-[[r_JournalFields|journal fields]] designated as choice or suggestion fields.
+Can configure [choices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ViewChoiceListDefinitions.md) and predefined responses for non-journal fields designated as choice or suggestion fields.
 
 </td></tr><tr><td>
 
@@ -476,7 +476,7 @@ personalize\_dictionary
 
 </td><td>
 
-Can configure dictionary entries and [[t_ChangeFieldLabelOrHint|labels]].
+Can configure dictionary entries and [labels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ChangeFieldLabelOrHint.md).
 
 </td></tr><tr><td>
 
@@ -484,7 +484,7 @@ personalize\_form
 
 </td><td>
 
-Can [[configure-form-layout|configure forms]].
+Can [configure forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ personalize\_responses
 
 </td><td>
 
-Can configure predefined responses for [[c_JournalFields|journal fields]] designated as suggestion fields.
+Can configure predefined responses for [journal fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_JournalFields.md) designated as suggestion fields.
 
 </td></tr><tr><td>
 
@@ -519,7 +519,7 @@ personalize\_styles
 
 </td><td>
 
-Can configure [[t_DefineFieldStyles|field styles]].
+Can configure [field styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DefineFieldStyles.md).
 
 </td></tr><tr><td>
 
@@ -711,7 +711,7 @@ survey\_admin
 
 </td><td>
 
-Can see all Surveys, their [[clone-exclusions-preservers-cleanupscripts|definitions]], questions, instances created by them and others. Survey administrators can use all modules in the Survey application menu.
+Can see all Surveys, their definitions, questions, instances created by them and others. Survey administrators can use all modules in the Survey application menu.
 
 </td></tr><tr><td>
 
@@ -775,7 +775,7 @@ timecard\_admin
 
 </td><td>
 
-Can approve, modify, and delete the [[c_TimeCards|time cards]] of other users.
+Can approve, modify, and delete the time cards of other users.
 
 </td></tr><tr><td>
 
@@ -860,17 +860,3 @@ Applications you install on your instance may include additional roles. Follow t
 
 **Parent Topic:**[Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-roles.md)
 
-## Related
-
-- [[t_ViewChoiceListDefinitions|View choice list definitions]]
-- [[t_ChangeFieldLabelOrHint|Change the field label or hint]]
-- [[configure-form-layout|Configuring the form layout]]
-- [[c_JournalFields|c_JournalFields]]
-- [[t_DefineFieldStyles|Define field styles]]
-- [[r_BaseSystemRoles|Base system roles]]
-- [[ia-ai-search|AI Search]]
-- [[ia-assets|Assets]]
-- [[c_FieldTransformations|Transforms]]
-- [[r_JournalFields|Journal fields]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_TimeCards|Time cards]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Redirect user authentication to a Service Portal
 
-After installing a pre-built Conversational Integration \(for messaging apps, Consumer apps or voice apps\), you can specify a Service Portal in which unauthenticated end users complete the user authentication step \(user account linking\), instead of in their ServiceNow instance. Users who do not have linked accounts complete authentication before continuing with the [[virtual-agent-landing-page|virtual agent]] in the messaging application.
+After installing a pre-built Conversational Integration \(for messaging apps, Consumer apps or voice apps\), you can specify a Service Portal in which unauthenticated end users complete the user authentication step \(user account linking\), instead of in their ServiceNow instance. Users who do not have linked accounts complete authentication before continuing with the virtual agent in the messaging application.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ When unauthenticated users start a conversation with the virtual agent for the f
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

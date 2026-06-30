@@ -14,7 +14,7 @@ breadcrumb: [Scheduling, Workforce Optimization for ITSM, IT Service Management]
 
 # Scheduling components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] has roles to administer agent shifts and schedules and properties to configure default behavior.
+Workforce Optimization for ITSM has roles to administer agent shifts and schedules and properties to configure default behavior.
 
 ## Roles
 
@@ -157,7 +157,7 @@ sn\_shift\_planning.enable\_schedule\_signup\_link
 
 </td><td>
 
-Enables or disables the link in the Upcoming section in the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]] where agents can view shifts that they've signed up for that are due on the current day and the day after the current day. -   **Type:**true\|false
+Enables or disables the link in the Upcoming section in the Service Operations Workspace landing page where agents can view shifts that they've signed up for that are due on the current day and the day after the current day. -   **Type:**true\|false
 -   **Default value:** true
 
 </td></tr><tr><td>
@@ -271,8 +271,3 @@ Set the maximum number of scheduling plans to view per page in the Schedules sid
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]

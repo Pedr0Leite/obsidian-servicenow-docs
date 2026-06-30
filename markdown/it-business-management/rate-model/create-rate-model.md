@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d170380e116">
 
-**From [[time-sheets|Time Sheets]]**
+**From Time Sheets**
 
 </td><td>
 
@@ -79,7 +79,7 @@ Active
 
 </td><td>
 
-Option for indicating the status of the rate model. Only active [[rate-model|rate models]] can be assigned to a project or demand.
+Option for indicating the status of the rate model. Only active rate models can be assigned to a project or demand.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,3 @@ Short description for the rate model.
 
 **Parent Topic:**[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[rate-model|Rate Models]]

@@ -40,7 +40,7 @@ The web search tool queries the web and returns results that the skill prompt ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to add web search to.
 
@@ -184,6 +184,3 @@ To learn more about configuring the web search capability, see [Configure AI sea
 
 **Parent Topic:**[Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

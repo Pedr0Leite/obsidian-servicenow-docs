@@ -12,7 +12,7 @@ breadcrumb: [Order decomposition, Order Management, Use, Sales Customer Relation
 
 # Order decomposition examples
 
-Examples using demo data illustrating how customer and service orders can be decomposed under diverse conditions help you to understand the decomposition process. The conditions include optional characteristics, quantity-based decomposition, staggered fulfillment, and exclusion [[rules_101|rules]] that support complex order management and fulfillment workflows.
+Examples using demo data illustrating how customer and service orders can be decomposed under diverse conditions help you to understand the decomposition process. The conditions include optional characteristics, quantity-based decomposition, staggered fulfillment, and exclusion rules that support complex order management and fulfillment workflows.
 
 ## Specification relationship and decomposition rule example
 
@@ -24,7 +24,7 @@ The Managed Firewall service demo data is an example of a customer facing servic
 
 The decomposition process creates an RFS service order only when the corresponding characteristic is available in the order line item for the Managed Firewall service specification.
 
-After receiving a service order for adding a Managed Firewall service, a service manager reviews and approves it. This process triggers decomposition, which creates the RFS service orders and resource orders. The service order has one order line item for the Managed Firewall service, which includes all of its characteristics. The service [[order-mgt-order-decomposition|order decomposition]] process creates the following:
+After receiving a service order for adding a Managed Firewall service, a service manager reviews and approves it. This process triggers decomposition, which creates the RFS service orders and resource orders. The service order has one order line item for the Managed Firewall service, which includes all of its characteristics. The service order decomposition process creates the following:
 
 -   A CFS service order for Managed Firewall service.
 -   Three RFS service orders for all three RFS specifications.
@@ -75,7 +75,7 @@ When you define specification relationships, you can optionally create decomposi
 
 In the example, you see that a decomposition rule was defined for the SD-WAN Controller product specification relationship to the SD-WAN Controller Service. This rule excludes the specification when a customer does not select the **Tenancy** option.
 
-\[Omitted image "decomp-rule2.png"\] Alt text: Decomposition rule field details of SD-WAN controller service. To learn more about [[fields|fields]], refer to the following description.
+\[Omitted image "decomp-rule2.png"\] Alt text: Decomposition rule field details of SD-WAN controller service. To learn more about fields, refer to the following description.
 
 When a customer places an order and doesn't select the **Tenancy** option, the related service order doesn't generate for it.
 
@@ -100,11 +100,11 @@ If you receive an order for the SD-WAN Service Package that doesn’t include th
 
 When order decomposition process uses the order quantity information from the order capture process to create multiple product orders that match the line item quantity for a customer order. An agent then fulfills each instance of the product separately, which create the inventory records for each of the fulfillment instances.
 
-When a customer submits an order for three instances of the SD-WAN Service Package product and you approve the order, the decomposition process creates three product orders for the SD-WAN Service Package including one product order for each order line item. Each product order in the SD-WAN Service Package creates three child orders for the products and services for the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process.
+When a customer submits an order for three instances of the SD-WAN Service Package product and you approve the order, the decomposition process creates three product orders for the SD-WAN Service Package including one product order for each order line item. Each product order in the SD-WAN Service Package creates three child orders for the products and services for the order fulfillment process.
 
 ## Example of staggered decomposition
 
-The following example describes the [[staggered-decomposition|staggered decomposition]] process for a product offering called SD-WAN Bronze Plan.
+The following example describes the staggered decomposition process for a product offering called SD-WAN Bronze Plan.
 
 \[Omitted image "SD-WAN-Bronze-Plan.png"\] Alt text: Product Offering page displaying the decomposition process of SD-WAN bronze plan. For more information, refer to the description that follows.
 
@@ -131,16 +131,7 @@ However, as a part of the order fulfillment process, the information for Routing
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[rules_101|Rules]]
-- [[order-mgt-order-decomposition|Order decomposition]]
-- [[fields|Fields]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[staggered-decomposition|Staggered decomposition]]

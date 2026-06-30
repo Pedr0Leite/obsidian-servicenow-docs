@@ -18,7 +18,7 @@ This dashboard shows the current state of open problems.
 
 **Important:**
 
-Starting in Xanadu release, the Problem overview dashboard is deprecated. Users can use [[problem|Problem dashboard]] to view, and track the open problems.
+Starting in Xanadu release, the Problem overview dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem.md) to view, and track the open problems.
 
 \[Omitted image "problem-overview.png"\] Alt text: The Problem Overview dashboard showing all widgets and reports
 
@@ -188,7 +188,3 @@ Count of all problems closed this year, trending by Closed per Week
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[problem|Problem dashboard]]

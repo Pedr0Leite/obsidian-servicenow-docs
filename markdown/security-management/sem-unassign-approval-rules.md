@@ -14,7 +14,7 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 You can design the approval workflow for the removal of assignments from vulnerable items \(VIs, VITs\), remediation tasks, application vulnerable items \(AVITs\), and container vulnerable items \(CVITs\) for you and your group.
 
-VIT, remediation task, AVIT, and CVIT have a default approval rule each. Each approval rule has a default approval configuration. Each approval configuration has a default approver level. The approval rules for VITs, remediation task, AVIT, and CVIT are enabled by default. As an admin, you can perform the following actions by navigating to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **My Approvals** &gt; **Approval Rules** and selecting the appropriate approval rule.
+VIT, remediation task, AVIT, and CVIT have a default approval rule each. Each approval rule has a default approval configuration. Each approval configuration has a default approver level. The approval rules for VITs, remediation task, AVIT, and CVIT are enabled by default. As an admin, you can perform the following actions by navigating to **All** &gt; **Vulnerability Response** &gt; **My Approvals** &gt; **Approval Rules** and selecting the appropriate approval rule.
 
 -   enable or disable an approval rule.
 -   create and update an approval configuration.
@@ -34,9 +34,5 @@ You can design the approval workflow for the removal of assignments from vulnera
 
 For more information on how to approve unassign requests, see [Approve or reject an unassign request in Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-approve-unassign-requests.md).
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
-## Related
-
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -24,7 +24,7 @@ When a reclamation rule is created for a suite parent, the usage for the suite p
 
 When you create a reclamation rule, you can add software products associated to the reclamation rule. When you add a product, which is a suite parent, all the suite components automatically get added and appear in the Software Products related list in the Reclamation rule form. Similarly, the product processes for all the added software suite products and component products also get added and appear in the Product Processes related list.
 
-**Note:** The products in the Software Products related list are updated based on the content updates in the [[c_SAMContentService|Software Asset Management Content Service]]. For example, if a suite component has been added or removed from a suite parent, the change is reflected in the Software Products related list.
+**Note:** The products in the Software Products related list are updated based on the content updates in the Software Asset Management Content Service. For example, if a suite component has been added or removed from a suite parent, the change is reflected in the Software Products related list.
 
 After a suite parent is added to a reclamation rule, you can't edit or delete any suite components, but you can edit or delete the suite parent. If you delete the suite parent, the suite components are also automatically deleted along with the product processes. If you edit a suite parent, then the changes of the edit are reflected for the suite components and the associated product processes. For example, if you change the suite parent from Microsoft Office 365 to Microsoft Word, all the suite components and product processes for Microsoft Office 365 get deleted. Microsoft Word becomes the new parent and all suite components and product processes for Microsoft Word are automatically added.
 
@@ -46,6 +46,3 @@ If you’re upgrading to Australia from any past release, your existing reclamat
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SAMContentService|Software Asset Management Content Service]]

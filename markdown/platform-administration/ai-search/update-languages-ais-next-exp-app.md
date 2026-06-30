@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Repair AI Search for Next Experience after activating a new ServiceNow AI Platform language
 
-Install translated search UI element labels for a newly activated ServiceNow AI Platform language by repairing the [[ais-next-experience-app|AI Search for Next Experience]] application.
+Install translated search UI element labels for a newly activated ServiceNow AI Platform language by repairing the AI Search for Next Experience application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ At installation time, the AI Search for Next Experience application includes sea
 
 If you activate a new ServiceNow AI Platform language plugin in an instance that already has AI Search for Next Experience installed, the application doesn't automatically update to include UI element translations for the newly added language. To install these translations, you can repair the AI Search for Next Experience application.
 
-For more details on repairing applications, see [[repair-app|Repair a ServiceNow application]].
+For more details on repairing applications, see [Repair a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/repair-app.md).
 
 ## Procedure
 
@@ -45,7 +45,3 @@ The AI Search for Next Experience application and its dependencies are reinstall
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[repair-app|Repair a ServiceNow application]]
-- [[ais-next-experience-app|AI Search for Next Experience]]

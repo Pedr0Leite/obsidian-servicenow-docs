@@ -12,7 +12,7 @@ breadcrumb: [Set up the emission factor library, Configure, Operational Sustaina
 
 # Create an emission factor
 
-Create your own custom emission factors if you don’t want to use the standard emission factors provided by the [[esg-content-accelerator|Unified content management]] application. An emission factor is a representative value that relates the quantity of a pollutant released to the atmosphere with the activity associated with the release of that pollutant.
+Create your own custom emission factors if you don’t want to use the standard emission factors provided by the Unified content management application. An emission factor is a representative value that relates the quantity of a pollutant released to the atmosphere with the activity associated with the release of that pollutant.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ An emission factor is a coefficient that enables conversion of activity data int
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **[[emission-factor-library|Emission Factor Library]]** &gt; **Factor**.
+1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **Emission Factor Library** &gt; **Factor**.
 
 2.  Select **New**.
 
@@ -45,17 +45,10 @@ An emission factor is a coefficient that enables conversion of activity data int
 -   Two related lists are now available on the emission factor: 'Emission Factor Location', which was previously available and displays linked locations, and 'Calculated Metric Definition', a new addition that displays linked calculated metric definitions.
 -   You can now use this emission factor in a calculated metric definition.
 
--   **[[add-locations-to-an-emission-factor|Add locations to an emission factor]]**  
+-   **[Add locations to an emission factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-locations-to-an-emission-factor.md)**  
 Add locations to an emission factor after you create the factor. The reason you must add locations to a factor is that an organization may have different locations and each location may have a different factor value for different periods.
--   **[[recalculate-emission-factor|Recalculate emission factor]]**  
+-   **[Recalculate emission factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/recalculate-emission-factor.md)**  
 When an emission factor value is updated, you can recalculate the emission factor to initiate the system to automatically recalculate the data for all linked calculated metric definitions \(CMD\), using the new value for dates within the emission factor's validity period. This ensures that metrics data remains consistent and accurate, reflecting the latest changes.
 
-**Parent Topic:**[[set-up-the-emission-factor-library|Set up the emission factor library]]
+**Parent Topic:**[Set up the emission factor library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-the-emission-factor-library.md)
 
-## Related
-
-- [[add-locations-to-an-emission-factor|Add locations to an emission factor]]
-- [[recalculate-emission-factor|Recalculate emission factor]]
-- [[set-up-the-emission-factor-library|Set up the emission factor library]]
-- [[esg-content-accelerator|Unified content management]]
-- [[emission-factor-library|Emission factor library]]

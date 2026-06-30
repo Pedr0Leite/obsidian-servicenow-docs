@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Script Action utility
 
-Use the Script Action utility in a [[virtual-agent-landing-page|Virtual Agent]] topic to run a script.
+Use the Script Action utility in a Virtual Agent topic to run a script.
 
 ## Script Action utility properties
 
@@ -90,6 +90,3 @@ For more information about writing scripts for Virtual Agent, see [Virtual Agent
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

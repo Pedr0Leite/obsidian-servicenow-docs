@@ -14,7 +14,7 @@ breadcrumb: [Landing page configurations in Service Operations Workspace for ITS
 
 # Configure the donuts in the tier 2 landing page
 
-Configure the data displayed in donuts in the **Overview** section of the tier 2 [[dex-workspace-dashboard-tab|landing page]].
+Configure the data displayed in donuts in the **Overview** section of the tier 2 landing page.
 
 ## Before you begin
 
@@ -166,7 +166,7 @@ Role required: admin
                     'task': {
                         'incident_task': 'Incident tasks',
                         'problem_task': 'Problem tasks',
-                        'change_task': '[[change-tasks|Change tasks]]',
+                        'change_task': 'Change tasks',
                         'sc_task': 'Catalog tasks',
                         'incident': 'Incidents',
                         'problem': 'Problems',
@@ -200,7 +200,3 @@ Role required: admin
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[change-tasks|Change tasks]]

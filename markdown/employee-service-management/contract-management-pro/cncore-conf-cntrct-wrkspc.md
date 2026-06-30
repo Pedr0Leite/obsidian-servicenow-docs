@@ -14,7 +14,7 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 # Configuring Contract Workspace
 
-Configure and customize [[cncore-contract-workspace|Contract Workspace]] by using the UI Builder web user interface builder.
+Configure and customize Contract Workspace by using the UI Builder web user interface builder.
 
 ## Configuration overview
 
@@ -24,6 +24,3 @@ Access UI Builder to customize the Contract Workspace by navigating to **All** &
 
 For more information, see [Working in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/using-ui-builder.md) and [Configuring Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_set-up-configurable-workspace.md#section_xqc_p2z_cjb).
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

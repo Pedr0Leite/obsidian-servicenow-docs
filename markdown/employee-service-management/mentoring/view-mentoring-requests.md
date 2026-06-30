@@ -14,7 +14,7 @@ breadcrumb: [Use, Mentoring, Growth Experiences, HR Service Delivery, Employee S
 
 # View mentoring requests
 
-Track any [[mentoring-egd-overview|mentoring]] requests you've sent or received from others.
+Track any mentoring requests you've sent or received from others.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your career** &gt; **Mentoring** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your career** &gt; **Mentoring** &gt; **Overview**.
 
 2.  In the **Mentoring requests** section, you can choose to view information from the following information.
 
@@ -65,7 +65,4 @@ View a list of requests you have sent to others. You can use the **Viewing** fil
 </td></tr></tbody>
 </table>    **Note:** You can also sort the requests lists by **Most recent** and **Oldest**.
 
-## Related
 
-- [[mentoring-egd-overview|Mentoring]]
-- [[employee-center-landing-page|Employee Center]]

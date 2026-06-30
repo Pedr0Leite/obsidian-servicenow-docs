@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Contract Management, Contract Management,
 
 # Client scripts installed with Contract Management
 
-Client scripts are added with [[c_ContractManagement|Contract Management]].
+Client scripts are added with Contract Management.
 
 |Name|Table|Description|
 |----|-----|-----------|
@@ -29,6 +29,3 @@ Client scripts are added with [[c_ContractManagement|Contract Management]].
 
 **Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

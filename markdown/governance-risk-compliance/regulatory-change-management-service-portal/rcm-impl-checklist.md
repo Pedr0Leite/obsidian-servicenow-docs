@@ -14,7 +14,7 @@ breadcrumb: [Configure, Regulatory Change Management, Governance, Risk, and Comp
 
 # Setup checklist for Regulatory Change Management
 
-Complete the tasks that are required to set up the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance Regulatory Change Management application functionality.
+Complete the tasks that are required to set up the Regulatory Change Management application. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance Regulatory Change Management application functionality.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc\_reg\_change.admin
 
 Ensure that the following applications are installed:
 
--   ServiceNow® GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application
+-   ServiceNow® GRC: Policy and Compliance Management application
 -   ServiceNow® Advanced Risk application
 
 Consider creating and printing a PDF of this checklist topic. You can then check off tasks as you complete them. To generate a PDF, click the **Save As PDF** icon \(\[Omitted image "SaveAsPdf.png"\] Alt text: Save as PDF icon\) at the top of the topic and click **Selected topic**.
@@ -42,7 +42,7 @@ Consider creating and printing a PDF of this checklist topic. You can then check
     |Step|Description|
     |----|-----------|
     |**Set up the RSS feeds by using the RCM application.**|For information on setting up the RSS feeds by using the RCM application, see [Setting up the RSS feeds infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/setting-up-rss-feeds-infrastructure.md) .|
-    |**Set up the feeds by integrating with the [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]] application.**|For more information on setting up third-party integration with the RCM application, see [GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md).|
+    |**Set up the feeds by integrating with the GRC integration with Thomson Reuters Regulatory Intelligence application.**|For more information on setting up third-party integration with the RCM application, see [GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md).|
 
 4.  Create and validate the connections and credentials.
 
@@ -52,7 +52,7 @@ Consider creating and printing a PDF of this checklist topic. You can then check
 
     For details, see [GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md) and [Setting up the RSS feeds infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/setting-up-rss-feeds-infrastructure.md).
 
-6.  Create an internal regulatory taxonomy and [[manage-taxonomy|map the taxonomy]].
+6.  Create an internal regulatory taxonomy and map the taxonomy.
 
     For details, see [Map the taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-taxonomy.md).
 
@@ -76,9 +76,4 @@ Consider creating and printing a PDF of this checklist topic. You can then check
 
     For details, see [Regulatory Change Management application in the Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-workspace-overview.md).
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]]
-- [[manage-taxonomy|Map the taxonomy]]

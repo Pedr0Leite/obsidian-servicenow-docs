@@ -15,7 +15,7 @@ breadcrumb: [Customizing the result-card, Using AI Search Admin console, AI Sear
 
 # Create a copy of an EVAM view configuration
 
-Modify the search [[hs-results|results]] of your [[ia-ai-search|AI Search]] application by creating a copy of an existing Entity View Action Mapper \(EVAM\) view and then changing the copy. Copying an EVAM is more efficient than creating an EVAM, especially when the changes are minimal.
+Modify the search results of your AI Search application by creating a copy of an existing Entity View Action Mapper \(EVAM\) view and then changing the copy. Copying an EVAM is more efficient than creating an EVAM, especially when the changes are minimal.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ If the view configuration is shared and you need to modify the result-card inter
 
 4.  From the Select a bundle to edit list, select an EVAM configuration bundle.
 
-    The list of view [[clone-configurations-tab|configurations]] that are associated with the selected bundle are displayed.
+    The list of view configurations that are associated with the selected bundle are displayed.
 
 5.  Hover over the desired view configuration and select the **More Actions icon \(\[Omitted image "more-actions-icon.png"\] Alt text: More Actions.\)** &gt; **Create a copy**.
 
@@ -52,8 +52,3 @@ After copying a view configuration, you can modify it based on your requirements
 
 **Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-managing-evam.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

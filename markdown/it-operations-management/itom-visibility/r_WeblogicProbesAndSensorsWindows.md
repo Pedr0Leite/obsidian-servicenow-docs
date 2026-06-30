@@ -14,7 +14,7 @@ breadcrumb: [WebLogic application server, Software discovery, Data collected by 
 
 # Identifying Windows WebLogic application servers
 
-If you are not using the Weblogic pattern, [[r-discovery|Discovery]] follows this process when it uses the Windows - Active Processes or Linux - Active Processes probes.
+If you are not using the Weblogic pattern, Discovery follows this process when it uses the Windows - Active Processes or Linux - Active Processes probes.
 
 This process describes the use of probes, which are active on your instance if you upgrade. For new instances, Discovery uses the Weblogic pattern.
 
@@ -32,6 +32,3 @@ This process describes the use of probes, which are active on your instance if y
 
 **Parent Topic:**[WebLogic application server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DataCollDiscoWebLogicServers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

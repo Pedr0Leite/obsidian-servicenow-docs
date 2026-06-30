@@ -41,8 +41,5 @@ Role required: admin
 
 ## Result
 
-The global search bar in the [[now-mobile-app|Now Mobile app]] includes a microphone icon. Users must select this icon and allow the app to access speech recognition on their mobile device to use voice search.
+The global search bar in the Now Mobile app includes a microphone icon. Users must select this icon and allow the app to access speech recognition on their mobile device to use voice search.
 
-## Related
-
-- [[now-mobile-app|Now Mobile app]]

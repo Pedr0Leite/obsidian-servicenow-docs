@@ -18,7 +18,7 @@ Set the priority for tag category definitions to ensure that tag keys belonging 
 
 ## Before you begin
 
-Verify that you have installed version 1.16.3 of [[c_ServiceMappingOverview|Service Mapping]] Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
+Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
 
 Role required: admin
 
@@ -30,7 +30,7 @@ For example, the tag key Application might belong to both the Application and Co
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[landing-page-tag-governance|Tag Governance]]** &gt; **Tag Categories**.
+1.  Navigate to **All** &gt; **Tag Governance** &gt; **Tag Categories**.
 
 2.  Verify that you are in the leaf domain.
 
@@ -46,7 +46,4 @@ For example, the tag key Application might belong to both the Application and Co
 
 6.  If you want to apply your changes immediately rather than waiting for the automatic update within 24 hours, select the **Re-Categorize Tags** button.
 
-## Related
 
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[landing-page-tag-governance|Tag Governance]]

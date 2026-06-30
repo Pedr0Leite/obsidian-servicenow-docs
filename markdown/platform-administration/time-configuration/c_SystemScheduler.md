@@ -14,7 +14,7 @@ breadcrumb: [Explore, Time configuration, Configure core features, Administer th
 
 # System scheduler
 
-The System Scheduler application contains two separate engines for scheduling: the [[c_ScheduledJobs|Scheduled Jobs]] engine and the [[c_UseSchedules|Schedules]] engine.
+The System Scheduler application contains two separate engines for scheduling: the Scheduled Jobs engine and the Schedules engine.
 
 ## Scheduled jobs
 
@@ -24,7 +24,7 @@ The Scheduled Jobs module in System Definition is an admin-friendly interface fo
 
 ## Schedules
 
-Schedules are rules that include or exclude time on a calendar. They are used by service levels, inactivity monitor, and group on-call rotation. For instance, you can [[t_DefineASchedule|define a schedule]] to restrict service levels to only apply to weekdays during business hours. You can also exclude [[c_Holidays|holidays]] from an on-call rotation.
+Schedules are rules that include or exclude time on a calendar. They are used by service levels, inactivity monitor, and group on-call rotation. For instance, you can define a schedule to restrict service levels to only apply to weekdays during business hours. You can also exclude holidays from an on-call rotation.
 
 For more information, see [Use Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md).
 
@@ -35,9 +35,3 @@ Scheduled Jobs are automated pieces of work that can be performed at a specific 
 
 **Parent Topic:**[Exploring time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/exploring-time-configuration.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_UseSchedules|Schedules]]
-- [[t_DefineASchedule|Define a schedule]]
-- [[c_Holidays|Holidays]]

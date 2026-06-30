@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Scout APM events
 
-Enable the collection of events from Scout APM by authenticating Scout APM as a data source to integrate it with [[c_EM|Event Management]].
+Enable the collection of events from Scout APM by authenticating Scout APM as a data source to integrate it with Event Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ The Event Management plugin \(com.glideapp.itom.snac\) must be installed.
 
 Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
-[[r-discovery|Discovery]] for Scout APM applications is not supported. To enable binding, you must manually create a CI in a ServiceNow instance in the Service Instance \[cmdb\_ci\_service\_auto\] table.
+Discovery for Scout APM applications is not supported. To enable binding, you must manually create a CI in a ServiceNow instance in the Service Instance \[cmdb\_ci\_service\_auto\] table.
 
 Role required: evt\_mgmt\_admin
 
@@ -99,7 +99,3 @@ You can view all notifications on your ServiceNow instance in the Events \[em\_e
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

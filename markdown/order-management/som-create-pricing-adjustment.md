@@ -66,7 +66,7 @@ In this task, you specify the product characteristics to which the pricing adjus
 
         For example, if a product has attribute columns labeled **Make** and **Model**, select each column and then select the appropriate value.
 
-        You can enter multiple [[rules_101|rules]] with multiple conditions for a given product offering.
+        You can enter multiple rules with multiple conditions for a given product offering.
 
     3.  In the Results section, select the **Adjustment Type** column and choose the type of adjustment, for example Markdown % or Markdown amount.
 
@@ -84,9 +84,6 @@ In this task, you specify the product characteristics to which the pricing adjus
 
 8.  In the **Details** tab for the attribute adjustment, select **Publish**.
 
-    When a product offering is added to a transaction, such as a quote or order line, the pricing attribute adjustments are applied after the agent or customer selects the attribute options. For example, when agents or customers use [[understand-the-commerce-logic-engine|the CPQ Configurator]] to add a configurable product offering, the base price of the product is displayed initially. After the appropriate attribute options are selected, the price adjustments for the selected attributes are applied to the base price of the product. The resulting price displayed is the list price of the product offering, based on attribute conditions and associated markup or markdown values set in the Attribute Adjustment decision table.
+    When a product offering is added to a transaction, such as a quote or order line, the pricing attribute adjustments are applied after the agent or customer selects the attribute options. For example, when agents or customers use the CPQ Configurator to add a configurable product offering, the base price of the product is displayed initially. After the appropriate attribute options are selected, the price adjustments for the selected attributes are applied to the base price of the product. The resulting price displayed is the list price of the product offering, based on attribute conditions and associated markup or markdown values set in the Attribute Adjustment decision table.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]

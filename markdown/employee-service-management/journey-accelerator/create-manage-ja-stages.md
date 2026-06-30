@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Create and manage Journey Accelerator stages
 
-[[jny-create-manage-stages|Create and manage stages]] that are contained inside the [[journey-accelerator-1|Journey Accelerator]] plan. Stages contain tasks or to-do lists for managers, mentors, or employees to complete.
+Create and manage stages that are contained inside the Journey Accelerator plan. Stages contain tasks or to-do lists for managers, mentors, or employees to complete.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Use Journey Accelerator stages to create a logical sequence for task completions. Managers add stages to plans in the [[employee-center-landing-page|Employee Center]].
+Use Journey Accelerator stages to create a logical sequence for task completions. Managers add stages to plans in the Employee Center.
 
 ## Procedure
 
@@ -36,8 +36,4 @@ Use Journey Accelerator stages to create a logical sequence for task completions
 
 4.  Click **Submit**.
 
-## Related
 
-- [[jny-create-manage-stages|Create and manage stages]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

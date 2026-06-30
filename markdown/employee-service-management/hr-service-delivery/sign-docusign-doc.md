@@ -14,7 +14,7 @@ breadcrumb: [Document Template integration with Docusign, Integration of HR Serv
 
 # Configure Document Templates for DocuSign
 
-Configure [[document-templates-overview|document templates]] to enable signing using the Docusign application.
+Configure document templates to enable signing using the Docusign application.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ Role required: sn\_dt\_docusign.admin
 
 User who receives the document task can use the Docusign application for signing the document.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

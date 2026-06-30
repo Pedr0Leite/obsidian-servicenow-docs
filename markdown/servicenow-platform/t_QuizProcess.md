@@ -20,9 +20,9 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Create reusable question templates for [[c_Quizzes|quizzes]].
+1.  Create reusable question templates for quizzes.
 
-2.  Create the quiz using the [[c_QuizDesigner|Quiz Designer]] or with forms accessed from the navigation menu.
+2.  Create the quiz using the Quiz Designer or with forms accessed from the navigation menu.
 
     The quiz record includes specifics such as duration, notification preferences, a questionnaire introduction, and ending notes displayed to recipients.
 
@@ -47,19 +47,12 @@ Publish and distribute the quiz. You can send the quiz to a single user or all u
 
 Review the results from the submitted quizzes in reports and scorecards.
 
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
 **Related topics**  
 
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[r_MetricTemplates|Metric templates]]
+[Metric templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricTemplates.md)
 
-## Related
-
-- [[using-quizzes|Using Quizzes]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[r_MetricTemplates|Metric templates]]
-- [[c_Quizzes|Quizzes]]
-- [[c_QuizDesigner|Quiz designer]]

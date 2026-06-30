@@ -14,12 +14,12 @@ breadcrumb: [Problem Management in Service Operations Workspace, Managing IT ser
 
 # Problem Management in Service Operations Workspace reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about [[problem-sow|Problem Management in Service Operations Workspace]].
+Reference topics provide additional information about Problem Management in Service Operations Workspace.
 
 -   **[Problem form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-form-sow.md)**  
-Description of the field values for the [[problem-form|problem form]] in Service Operations Workspace.
+Description of the field values for the problem form in Service Operations Workspace.
 -   **[Problem task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-task-form-sow.md)**  
-Description of the field values for the [[problem-task-form|problem task form]] in Service Operations Workspace.
+Description of the field values for the problem task form in Service Operations Workspace.
 
 **Parent Topic:**[Problem Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-sow.md)
 
@@ -30,16 +30,9 @@ Description of the field values for the [[problem-task-form|problem task form]] 
 
 [Work on a problem in Service Operations Workspace]()
 
-[Problem Management [[c_Models|models]] in Service Operations Workspace]()
+[Problem Management models in Service Operations Workspace]()
 
 [Create a problem task in Service Operations Workspace]()
 
 [Work on a problem task in Service Operations Workspace]()
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[problem-sow|Problem Management in Service Operations Workspace]]
-- [[problem-form|Problem form]]
-- [[problem-task-form|Problem Task form]]
-- [[c_Models|Models]]

@@ -679,8 +679,5 @@ Australia
  See [Usage Insights](https://www.servicenow.com/docs/bundle/australia-now-intelligence/page/administer/user-exp-analytics/content-framework/landing-page/user-exp-analytics-landing.html) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-washingtondc-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

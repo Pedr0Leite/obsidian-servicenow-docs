@@ -12,7 +12,7 @@ breadcrumb: [Impact]
 
 # Using Impact
 
-Using Impact available directly through your ServiceNow instance and the [[impact-landing-page|Impact]] Delivery Instance offers a similar experience, but the user interface may vary.
+Using Impact available directly through your ServiceNow instance and the Impact Delivery Instance offers a similar experience, but the user interface may vary.
 
 ## Key features
 
@@ -34,7 +34,7 @@ Details
 
 </td><td>
 
-[[impact-in-platform-home|Navigating Impact]]
+[Navigating Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-in-platform-home.md)
 
 </td><td>
 
@@ -49,11 +49,11 @@ Details
 
 </td><td>
 
-[[platform-health-idi|Platform Health]]
+[Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/platform-health-idi.md)
 
 </td><td>
 
-Use diagnostic tools that [[io-help|help]] you understand the current health of your instance, identify potential issues and setbacks, and take quick corrective action.​
+Use diagnostic tools that help you understand the current health of your instance, identify potential issues and setbacks, and take quick corrective action.​
 
 </td></tr><tr><td align="center">
 
@@ -61,7 +61,7 @@ Use diagnostic tools that [[io-help|help]] you understand the current health of 
 
 </td><td>
 
-[[using-recommendations-iip-ws|Use the recommendations list]]
+[Use the recommendations list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/using-recommendations-iip-ws.md)
 
 </td><td>
 
@@ -90,7 +90,7 @@ Use the recommendations full list to view the recommendations tailored for you.
 
 </td><td>
 
-View your capabilities and [[impact-par|product adoption roadmaps]] for your ServiceNow instances:-   See the applications, or capabilities, at your disposal for achieving your objectives.
+View your capabilities and product adoption roadmaps for your ServiceNow instances:-   See the applications, or capabilities, at your disposal for achieving your objectives.
 -   View a recommended implementation sequence for your capabilities organized into specific phases for optimal implementation.
 
 </td></tr><tr><td align="center">
@@ -111,22 +111,12 @@ Captures your objectives, which are high-level goals tied to measurable outcomes
 
 </td><td>
 
-[[ide-consumption-report|Consumption Report]]
+[Consumption Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/ide-consumption-report.md)
 
 </td><td>
 
 View your tier features across various accounts including used and unused accelerators, initiatives, instance observer users, developer support users, and active case breakdowns.
 
 </td></tr></tbody>
-</table>**Important:** In order to access various levels of Impact, a role must be assigned to you. Your Impact Administrator can assign the appropriate roles to you. See [[ide-user-management|Manage Impact Delivery Instance users]] for additional information.
+</table>**Important:** In order to access various levels of Impact, a role must be assigned to you. Your Impact Administrator can assign the appropriate roles to you. See [Manage Impact Delivery Instance users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/ide-user-management.md) for additional information.
 
-## Related
-
-- [[impact-in-platform-home|Navigating Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[using-recommendations-iip-ws|Use the recommendations list]]
-- [[ide-consumption-report|Consumption Report]]
-- [[ide-user-management|Manage Impact Delivery Instance users]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[impact-par|Product Adoption Roadmaps]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure Scheduled Imports, Setup for Crisis map, Configure, Busin
 
 # Scheduled Data Imports form
 
-Use the Scheduled Data Imports form in the [[bcm-workspace|BCM Configurable Workspace]] to add details about a Scheduled data imports record.
+Use the Scheduled Data Imports form in the BCM Configurable Workspace to add details about a Scheduled data imports record.
 
 <table id="table_dnn_4mf_dqb"><thead><tr><th>
 
@@ -28,7 +28,7 @@ Name
 
 </td><td>
 
-Name of the scheduled data import, typically matching the alert source record name \(for example, GDAC Feed Source\). For information on configuring scheduled data imports, see [[sched-data-imports-crisis-map-uib-ws|Configure Scheduled Data Imports records]].
+Name of the scheduled data import, typically matching the alert source record name \(for example, GDAC Feed Source\). For information on configuring scheduled data imports, see [Configure Scheduled Data Imports records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sched-data-imports-crisis-map-uib-ws.md).
 
 </td></tr><tr><td>
 
@@ -170,7 +170,3 @@ Script to run after the import happens. Visible only if you select **Execute pos
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure Scheduled Data Imports records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sched-data-imports-crisis-map-uib-ws.md)
 
-## Related
-
-- [[sched-data-imports-crisis-map-uib-ws|Configure Scheduled Data Imports records]]
-- [[bcm-workspace|BCM Configurable Workspace]]

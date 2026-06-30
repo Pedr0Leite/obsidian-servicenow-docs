@@ -18,7 +18,7 @@ Connect to the Microsoft translation service by creating a connection. Provide i
 
 ## Before you begin
 
-Ensure that you are in the application scope that you want for your connection. The default application scope is **[[microsoft-translation-spoke|Microsoft Azure Translator Service Spoke]]**.
+Ensure that you are in the application scope that you want for your connection. The default application scope is **Microsoft Azure Translator Service Spoke**.
 
 Role required: connection\_admin
 
@@ -146,6 +146,3 @@ For information on supported regions, see the [Microsoft](https://docs.microsoft
 
 **Next topic:**[Activate the Microsoft translator configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-ms-translator-config.md)
 
-## Related
-
-- [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]]

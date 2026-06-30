@@ -22,13 +22,13 @@ Role required: sam\_user
 
 ## About this task
 
-Now Assist for SAM generates the publisher summaries by using reconciliation results, product lifecycle reports, and dashboards such as Discovered inventory, Normalization and content, and [[health-check-dboard|Health check]].
+Now Assist for SAM generates the publisher summaries by using reconciliation results, product lifecycle reports, and dashboards such as Discovered inventory, Normalization and content, and Health check.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  Select the [[sam-workspace-workbench|License usage view]].
+2.  Select the License usage view.
 
 3.  Select a publisher to view its summary.
 
@@ -80,8 +80,3 @@ If you found that the summary was helpful, select the helpful icon \[Omitted ima
 </table>
 **Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam.md)
 
-## Related
-
-- [[health-check-dboard|Health check]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-workbench|License usage view]]

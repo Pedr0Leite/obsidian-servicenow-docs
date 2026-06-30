@@ -14,11 +14,11 @@ breadcrumb: [Observability-AppDynamics, Service Graph Connectors, Integrating th
 
 # Configure Service Graph Connector for Observability - AppDynamics using the guided setup
 
-Set up scheduled import jobs to pull in data from AppDynamics into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in data from AppDynamics into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use [[sgcc-landing|SGC Central]] to configure the connection. The guided setup method for configuration is being deprecated.
+**Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -36,11 +36,11 @@ When using client credentials for authentication, obtain the OAuth credentials f
 -   Application \(client\) ID
 -   Client Secret
 
-**Note:** If you have an earlier version of the [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]], then do not migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for Observability - AppDynamics, then do not migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -95,7 +95,7 @@ Host name
 Host name of your AppDynamics controller.
 
 </td></tr></tbody>
-</table>            4.  \(Optional\) If a [[mid-server-landing|MID Server]] is required for the AppDynamics server connection, select the **Use MID server** [[check-box|check box]]. Then, select the MID Server-related fields accordingly.
+</table>            4.  \(Optional\) If a MID Server is required for the AppDynamics server connection, select the **Use MID server** check box. Then, select the MID Server-related fields accordingly.
             5.  In the Credential Information section of the Edit Connection window, fill in the fields.
 
 <table id="table_vmb_r4t_zfc"><thead><tr><th>
@@ -251,11 +251,4 @@ Client secret of your AppDynamics client application as noted in the [Before you
 
     4.  Set the Configure scheduled job task to complete by selecting **Mark as Complete**.
 
-## Related
 
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

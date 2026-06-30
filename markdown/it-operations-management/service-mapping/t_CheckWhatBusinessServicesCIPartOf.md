@@ -22,7 +22,7 @@ Role required: admin, app\_service\_admin, app\_service\_user
 
 ## About this task
 
-While [[c_ServiceMappingOverview|Service Mapping]] shows position of a CI in a particular application service, your organization may also use the same CI in other application services. If you are planning to perform changes to this CI, make sure that the changes do not affect other application services.
+While Service Mapping shows position of a CI in a particular application service, your organization may also use the same CI in other application services. If you are planning to perform changes to this CI, make sure that the changes do not affect other application services.
 
 ## Procedure
 
@@ -52,6 +52,3 @@ While [[c_ServiceMappingOverview|Service Mapping]] shows position of a CI in a p
 
 [Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_BusinesssServiceManagementMaps.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

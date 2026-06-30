@@ -12,9 +12,9 @@ breadcrumb: [Configure, Business Continuity Management, Governance, Risk, and Co
 
 # Setup for Crisis map
 
-BCM administrators perform the administrative tasks to set up the [[threats-feeds-alerts-crisis-map|Crisis map interface]].
+BCM administrators perform the administrative tasks to set up the Crisis map interface.
 
-BCM administrators perform the administrative tasks to set up the threat alerts and data feeds in Crisis map. The administrative tasks are displayed under **[[Administration|Administration]]** in the **Threat and Alert Data Feeds** module as shown in the example.
+BCM administrators perform the administrative tasks to set up the threat alerts and data feeds in Crisis map. The administrative tasks are displayed under **Administration** in the **Threat and Alert Data Feeds** module as shown in the example.
 
 **Note:** Prior to enabling the Crisis Map feature, verify that you have purchased and set up Google Maps API.
 
@@ -22,17 +22,17 @@ BCM administrators perform the administrative tasks to set up the threat alerts 
 
 With the BCM administrator role, you can perform the administrative tasks to set up the Crisis map:
 
--   **Scheduled Imports**: Configure a Scheduled Data Imports record for the Crisis map application. For more information, see [[sched-data-imports-crisis-map-uib-ws|Configure Scheduled Data Imports records]].
--   **Resource Configuration**: Configure a Resource Configuration record for the Crisis map application. For more information, see [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]].
--   **Alert Rules**: Configure an alert rule in Crisis map so that you can specify the conditions under which a feed can be displayed in the dashboard as an alert. For more information, see [[conf-alert-rule-uib-ws|Configure alert rules]].
--   **Alert Actions**: [[crisis-map-alert-actions|Configure an alert action]] in UIB Workspace for the Crisis map application. For more information, see [[configure-alert-action-uib-ws|Configure alert actions]].
+-   **Scheduled Imports**: Configure a Scheduled Data Imports record for the Crisis map application. For more information, see [Configure Scheduled Data Imports records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sched-data-imports-crisis-map-uib-ws.md).
+-   **Resource Configuration**: Configure a Resource Configuration record for the Crisis map application. For more information, see [Configure Resource Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-resource-for-crisis-map-uib-ws.md).
+-   **Alert Rules**: Configure an alert rule in Crisis map so that you can specify the conditions under which a feed can be displayed in the dashboard as an alert. For more information, see [Configure alert rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-alert-rule-uib-ws.md).
+-   **Alert Actions**: Configure an alert action in UIB Workspace for the Crisis map application. For more information, see [Configure alert actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-alert-action-uib-ws.md).
 
--   **[[crisis-map-customization-properties-for-g-maps|Customization properties for Google Maps]]**  
+-   **[Customization properties for Google Maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-customization-properties-for-g-maps.md)**  
 The Crisis map application users can configure the customization properties for Google Maps in the **Google Maps Properties** module.
--   **[[g-maps-api-in-fam-map-component|Google Maps APIs used in Fam-map component]]**  
+-   **[Google Maps APIs used in Fam-map component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/g-maps-api-in-fam-map-component.md)**  
 The Fam-map component in Crisis map utilizes various Google Maps APIs to provide interactive mapping functionalities. This section lists the Google Maps APIs that are integrated into the Fam-map component, along with their usage information.
 -   **[Configure Scheduled Data Imports records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sched-data-imports-crisis-map-uib-ws.md)**  
-Configure a Scheduled Data Imports record for the Crisis map application. You can then manage your subscriptions to the threat feeds from an internal or external source in the [[bcm-workspace|BCM Configurable Workspace]].
+Configure a Scheduled Data Imports record for the Crisis map application. You can then manage your subscriptions to the threat feeds from an internal or external source in the BCM Configurable Workspace.
 -   **[Configure Resource Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-resource-for-crisis-map-uib-ws.md)**  
 Configure a Resource Configuration record for the Crisis map application in UIB Workspace. You can then plot the assets of your organization on the Crisis map. The assets can be locations, employees, datacenters, suppliers, and others. Configuring resources is also required as an input to set up the alert rules.
 -   **[Configure alert rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-alert-rule-uib-ws.md)**  
@@ -40,18 +40,5 @@ Configure an alert rule in the Crisis map so that you can define when a feed is 
 -   **[Configure alert actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-alert-action-uib-ws.md)**  
 Configure an alert action from the Crisis map interface in the BCM Configurable Workspace.
 
-**Parent Topic:**[[configuring-business-continuity-management|Configuring Business Continuity Management]]
+**Parent Topic:**[Configuring Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-business-continuity-management.md)
 
-## Related
-
-- [[sched-data-imports-crisis-map-uib-ws|Configure Scheduled Data Imports records]]
-- [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]]
-- [[conf-alert-rule-uib-ws|Configure alert rules]]
-- [[configure-alert-action-uib-ws|Configure alert actions]]
-- [[crisis-map-customization-properties-for-g-maps|Customization properties for Google Maps]]
-- [[g-maps-api-in-fam-map-component|Google Maps APIs used in Fam-map component]]
-- [[configuring-business-continuity-management|Configuring Business Continuity Management]]
-- [[threats-feeds-alerts-crisis-map|Crisis map interface]]
-- [[Administration|Administration]]
-- [[crisis-map-alert-actions|Configure an alert action]]
-- [[bcm-workspace|BCM Configurable Workspace]]

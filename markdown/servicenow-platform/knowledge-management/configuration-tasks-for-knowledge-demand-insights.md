@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Configuration tasks for knowledge demand insights
 
-Review the following configurations tasks for [[knowledge-demand-insights|knowledge demand insights]].
+Review the following configurations tasks for knowledge demand insights.
 
 -   **[Configure Knowledge Demand Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-demand-insights.md)**  
 Configure the Knowledge Demand Insights feature to identify which topics are missing knowledge articles and creating actionable knowledge gaps for missing topics.
@@ -31,6 +31,3 @@ Use the demand insights dashboard for your tasks to analyze candidate knowledge 
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]

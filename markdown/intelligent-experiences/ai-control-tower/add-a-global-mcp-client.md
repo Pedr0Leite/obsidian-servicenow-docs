@@ -14,7 +14,7 @@ breadcrumb: [AI Gateway, Explore, AI Control Tower, Enable AI experiences]
 
 # Add a Global MCP client
 
-Add a Global Model Context Protocol \(MCP\) client from the [[ai-gateway-overview|AI Gateway]] configuration page.
+Add a Global Model Context Protocol \(MCP\) client from the AI Gateway configuration page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: AI steward
 
 ## Procedure
 
-1.  Navigate to **Al Control Tower** &gt; **[[exploring-ai-governance|Configurations]]** &gt; **AI Gateway** &gt; **Global MCP clients**.
+1.  Navigate to **Al Control Tower** &gt; **Configurations** &gt; **AI Gateway** &gt; **Global MCP clients**.
 
 2.  Select **Add**.
 
@@ -34,7 +34,7 @@ Role required: AI steward
 
     Selecting the **Live** mode is preferred.
 
-6.  Change the Security [[controls|controls]] according to the requirements of the agent builder.
+6.  Change the Security controls according to the requirements of the agent builder.
 
 7.  Select **Submit**.
 
@@ -45,8 +45,3 @@ Role required: AI steward
 
 The MCP client is created and appears in the **Global MCP client** tab.
 
-## Related
-
-- [[ai-gateway-overview|AI Gateway]]
-- [[exploring-ai-governance|Configurations]]
-- [[controls|Controls]]

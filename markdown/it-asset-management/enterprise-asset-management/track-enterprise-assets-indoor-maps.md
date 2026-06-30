@@ -14,17 +14,17 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Track assets using indoor maps in the Enterprise Asset Workspace
 
-Use indoor maps to locate and track the enterprise assets, [[c_ReceiveAConsumableAsset|consumable assets]], and pallets that are deployed across your organization. Each indoor map consists of an interactive interface that enables you to visualize where your assets are located within your campuses, buildings, floors, and places.
+Use indoor maps to locate and track the enterprise assets, consumable assets, and pallets that are deployed across your organization. Each indoor map consists of an interactive interface that enables you to visualize where your assets are located within your campuses, buildings, floors, and places.
 
 ## Before you begin
 
-To use indoor maps in the [[using-eam-workspace|Enterprise Asset Workspace]], you must fulfill all the requirements specified in [Indoor maps in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/indoor-maps-eam.md).
+To use indoor maps in the Enterprise Asset Workspace, you must fulfill all the requirements specified in [Indoor maps in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/indoor-maps-eam.md).
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the Enterprise Asset Workspace, open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  Select the **Asset indoor map** tab.
 
@@ -55,14 +55,8 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
     -   **Show map and list**: Displays both the interactive map and the list of assets.
 6.  Use the interactive map or the list of assets to view the real-time locations of assets within the specified floor or place in that floor.
 
-    [[select-daas-asset|Select an asset]] from the map or list to view additional details about that asset.
+    Select an asset from the map or list to view additional details about that asset.
 
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[select-daas-asset|Select an asset]]

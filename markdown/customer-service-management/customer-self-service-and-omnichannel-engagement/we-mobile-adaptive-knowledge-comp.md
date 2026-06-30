@@ -18,7 +18,7 @@ Access and view knowledge articles on your mobile phones with an interface optim
 
 ## Mobile responsive for Knowledge article view component
 
-The [[we-know-article-view-comp-overview|Knowledge article view component]] automatically adapts its layout when displayed on mobile devices. This mobile-responsive design provides an optimized reading experience with touch-friendly controls and layouts specifically designed for mobile phones.
+The Knowledge article view component automatically adapts its layout when displayed on mobile devices. This mobile-responsive design provides an optimized reading experience with touch-friendly controls and layouts specifically designed for mobile phones.
 
 When you access knowledge articles through Web Embeddables capability on a mobile device, it detects your screen size and adjusts the interface to fit mobile dimensions. While the article loads, you see a visual placeholder that shows where content will appear. The article page content, navigation controls, and selection options reorganize to provide better usability on touch devices.
 
@@ -32,6 +32,3 @@ The key capabilities include:
 -   Touch-optimized selectors: Language and version selectors appear in the top action bar and open as bottom sheets slide-up panels that provide easy touch-based selection on mobile devices.
 -   Performance optimized: The mobile interface loads quickly and responds smoothly to user interactions.
 
-## Related
-
-- [[we-know-article-view-comp-overview|Knowledge article view component]]

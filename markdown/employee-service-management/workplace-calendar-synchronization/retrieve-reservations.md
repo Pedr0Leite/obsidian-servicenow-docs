@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Calendar Synchronization, Configure, Workplace Cale
 
 # Retrieve reservations
 
-Retrieves all the events for the active **Reservable Sync Configurations** fromMicrosoft Outlook to [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+Retrieves all the events for the active **Reservable Sync Configurations** fromMicrosoft Outlook to Workplace Service Delivery.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_wsd\_rsvsync admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Calendar Providers**.
 
 2.  Select the calendar provider for which you want to **Retrieve reservations**.
 
-3.  On the [[wsd-calendar-provider-form-fields|Provider form]], click **Retrieve reservations**.
+3.  On the Provider form, click **Retrieve reservations**.
 
     **Note:** The **sync start date time** is the current time and the **sync end date time** is the time taken to complete the synchronization.
 
@@ -47,8 +47,3 @@ Role required: sn\_wsd\_rsvsync admin
 
 There is another table called Sync execution for **Reservable sync configuration spoke events** where all the events for the active **Reservable sync config** are displayed.
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[wsd-calendar-provider-form-fields|Provider form]]

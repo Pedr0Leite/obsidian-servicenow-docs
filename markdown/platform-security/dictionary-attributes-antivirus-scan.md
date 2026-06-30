@@ -12,12 +12,12 @@ breadcrumb: [Antivirus Scanning]
 
 # Understanding Dictionary attributes for Antivirus Scanning
 
-Dictionary attributes alter the behavior of the table or element that the dictionary record describes. As an administrator, you can set the values of dictionary attributes to modify the behavior of the default [[antivirus-protection|Antivirus Scanning]] [[sc-configuration|configuration]].
+Dictionary attributes alter the behavior of the table or element that the dictionary record describes. As an administrator, you can set the values of dictionary attributes to modify the behavior of the default Antivirus Scanning configuration.
 
 |Name|Value|Target element|Description|
 |----|-----|--------------|-----------|
-|Exclude\_from\_antivirus\_scan|true/false|any table|If true, file attachments on the table are excluded from the [[antivirus|antivirus]] scan. See [[configure-antivirus-protection|Configuring Antivirus Scanning]]|
-|Supress\_antivirus\_email\_notification|true/false|any table|If true, stops sending Platform-generated [[email|email]] notifications when a potentiality-infected file is identified.|
+|Exclude\_from\_antivirus\_scan|true/false|any table|If true, file attachments on the table are excluded from the antivirus scan. See [Configuring Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-antivirus-protection.md)|
+|Supress\_antivirus\_email\_notification|true/false|any table|If true, stops sending Platform-generated email notifications when a potentiality-infected file is identified.|
 |Suppress\_antivirus\_ui\_notification|true/false|any table|If true, stops Platform-generated UI notifications when a potentially-infected file is identified.|
 
 **Related topics**  
@@ -25,10 +25,3 @@ Dictionary attributes alter the behavior of the table or element that the dictio
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md)
 
-## Related
-
-- [[configure-antivirus-protection|Configuring Antivirus Scanning]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[sc-configuration|Configuration]]
-- [[antivirus|Antivirus]]
-- [[email|Email]]

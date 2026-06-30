@@ -14,7 +14,7 @@ breadcrumb: [Career Assessment reference, Career Assessment, Growth Experiences,
 
 # Exam form
 
-Use the Exam form to [[create-exam|create an exam]].
+Use the Exam form to create an exam.
 
 |Field|Description|
 |-----|-----------|
@@ -34,6 +34,3 @@ Use the Exam form to [[create-exam|create an exam]].
 |Passing percentage|Minimum percentage required to pass the exam.|
 |Randomize questions|Option to allow questions to appear in random order.|
 
-## Related
-
-- [[create-exam|Create an exam]]

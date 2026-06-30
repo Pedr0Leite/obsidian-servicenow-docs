@@ -14,7 +14,7 @@ breadcrumb: [Automated indicators, Indicators, Configure fundamentals, Performan
 
 # Create an automated indicator
 
-To analyze the performance of a business process that is recorded in a ServiceNow table, use an automated indicator. If a suitable indicator is not provided in a [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution, create a new one.
+To analyze the performance of a business process that is recorded in a ServiceNow table, use an automated indicator. If a suitable indicator is not provided in a Platform Analytics Solution, create a new one.
 
 ## Before you begin
 
@@ -35,9 +35,9 @@ This form provides all the many options for creating an automated indicator. To 
 
 ## Procedure
 
-1.  Use one of the following [[view-navigation-paths|navigation paths]]:
+1.  Use one of the following navigation paths:
 
-    -   If you are on an upgraded instance that hasn’t migrated to Platform Analytics, navigate to **All** &gt; **Performance Analytics** &gt; **Indicators** &gt; **[[automated-indicators|Automated Indicators]]** and select **New**.
+    -   If you are on an upgraded instance that hasn’t migrated to Platform Analytics, navigate to **All** &gt; **Performance Analytics** &gt; **Indicators** &gt; **Automated Indicators** and select **New**.
     -   If you are on a new instance or have migrated to Platform Analytics, navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Automated Indicators** and select **New**.
 2.  In the **Name** field, give the indicator a descriptive name, such as Number of Critical Incidents.
 
@@ -59,7 +59,7 @@ This form provides all the many options for creating an automated indicator. To 
 
 6.  Scroll to the **Source** tab and select an **Indicator Source**.
 
-    Entering a partial name in the field filters the list of available [[c_IndicatorSources|indicator sources]] accordingly.
+    Entering a partial name in the field filters the list of available indicator sources accordingly.
 
     If you are using domain separation, you can select only indicator sources to which you have visibility.
 
@@ -69,7 +69,7 @@ This form provides all the many options for creating an automated indicator. To 
 
     If you select a Sum, Minimum, or Maximum aggregate, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ExcludingTimeSeriesFromIndicators.md).
 
-    **Tip:** Try to avoid using the Average aggregate, because that aggregate can complicate the use of time series. Instead, create a Sum automated indicator and a Count automated indicator. Then [[t_CreateAFormulaIndicator|create a formula indicator]] that divides the Sum indicator by the Count indicator to calculate the average.
+    **Tip:** Try to avoid using the Average aggregate, because that aggregate can complicate the use of time series. Instead, create a Sum automated indicator and a Count automated indicator. Then create a formula indicator that divides the Sum indicator by the Count indicator to calculate the average.
 
 8.  Complete any remaining fields in the Source tab.
 
@@ -89,7 +89,7 @@ Collect records
 
 </td><td>
 
-Check box to indicate if the individual record sys\_ids are stored when the indicator is collected. Selecting this check box enables you to drill down to those details in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and [[widgets|widgets]]. When available, collected records appear on the **Records** tab.
+Check box to indicate if the individual record sys\_ids are stored when the indicator is collected. Selecting this check box enables you to drill down to those details in the Analytics Hub and widgets. When available, collected records appear on the **Records** tab.
 
 **Tip:** Generally avoid collecting records with aggregates other than Count and Sum. Users rarely want to see the records that go into a Min or Max, and the number of records in a Count Distinct may differ from the score. Consider collecting records for indicators with these other aggregates only if a user asks for them.
 
@@ -206,7 +206,7 @@ Key
 
 </td><td>
 
-Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **Analytics Hub**. Not used in [[par-workspace|Platform Analytics experience]].
+Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **Analytics Hub**. Not used in Platform Analytics experience.
 
 </td></tr><tr id="row_unit"><td>
 
@@ -241,16 +241,16 @@ The abbreviations used for large numbers, thousands through quintillions. For mo
 
     The conditions in the indicator apply in addition to the conditions in the indicator source.
 
-    For [[real-time-scores|real-time scores]] to be displayed, a condition must be set in the indicator or indicator source.
+    For real-time scores to be displayed, a condition must be set in the indicator or indicator source.
 
     For more information, see [Conditional filters and operators for indicators and breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/condition-operators-ind-bkdowns.md).
 
-3.  In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+3.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
     Activating **Show in library** means that the indicator will be available in the following places:
 
     -   The Platform Analytics indicator library
-    -   [[kpi-details|KPI Details]]
+    -   KPI Details
     -   Analytics Hub, but only on upgraded instances that haven’t fully migrated to Platform Analytics
 4.  In the **Other** tab, set various miscellaneous properties.
 
@@ -327,7 +327,7 @@ When selected, the Analytics Hub and KPI Details can show the score of this indi
 
     -   By default, it shows a 30-day running sum of scores in widgets. You can override this default in the Analytics Hub, KPI Details, dashboard widgets, or workspace data visualization.
     -   The IT Live Group is notified of changes to the indicator.
-    -   The indicator is listed third in the [[c_UseIndicatorOverview|Analytics Hub list of indicators]]. All other indicators also have their position specified. This setting does not affect the order of indicators on KPI Details.
+    -   The indicator is listed third in the Analytics Hub list of indicators. All other indicators also have their position specified. This setting does not affect the order of indicators on KPI Details.
     -   The default chart type is Spline on KPI Details.
     -   Data lines for the indicator are shown unbroken, even when data is missing.
     -   KPI Details can show the score of this indicator in real time.
@@ -354,7 +354,7 @@ When selected, the Analytics Hub and KPI Details can show the score of this indi
 
 ## Indicators with business calendars
 
-Business and fiscal calendars do not have standard periods. Performance Analytics has introduced several innovations to accommodate these custom periods. Your [[workflow-automated-indicators|workflow for creating indicators]] differs accordingly.
+Business and fiscal calendars do not have standard periods. Performance Analytics has introduced several innovations to accommodate these custom periods. Your workflow for creating indicators differs accordingly.
 
 **Important:** The **Create New** indicator creation wizard does not support indicators based on business or fiscal calendars.
 
@@ -384,18 +384,3 @@ The process for generating a fiscal calendar automatically creates a fiscal cale
 
 A formula indicator can include [automated indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) that use business calendars. The formula indicator must use the same business calendar as at least one of the contributing automated indicators. For more information, see [Create a formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAFormulaIndicator.md).
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[view-navigation-paths|Navigation paths]]
-- [[automated-indicators|Automated indicators]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[real-time-scores|Real-time scores]]
-- [[access-control|Access control]]
-- [[kpi-details|KPI Details]]
-- [[c_UseIndicatorOverview|Analytics Hub list of indicators]]
-- [[workflow-automated-indicators|Workflow for creating indicators]]

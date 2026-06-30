@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Configure the order of your important actions on the Operational Technology Action-Oriented Landing Page
 
-Configure the order of your important actions on the [[operational-technology-overview|Operational Technology]] \(OT\) Action-Oriented Landing Page to personalize how you view your tasks.
+Configure the order of your important actions on the Operational Technology \(OT\) Action-Oriented Landing Page to personalize how you view your tasks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: cmdb\_ot\_viewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  To the **Home** \(\[Omitted image "home-icon.png"\] Alt text: Home icon in the Industrial Workspace to access the OT Action-Oriented Landing Page\) icon.
 
@@ -39,7 +39,3 @@ Role required: cmdb\_ot\_viewer
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

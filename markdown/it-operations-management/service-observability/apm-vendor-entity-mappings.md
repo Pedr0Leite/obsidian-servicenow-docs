@@ -14,9 +14,9 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Observability vendor entity mappings for Service Observability
 
-Understand how [[service-observability|Service Observability]] maps service, host, and database entities to your observability vendor resources.
+Understand how Service Observability maps service, host, and database entities to your observability vendor resources.
 
-Service Observability displays metrics from your observability vendor for services, hosts, databases, and network components on the Observability [[otto-aiops-dashboards|dashboards]] based on the key:value pairs in the [mapping rules you create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/create-and-manage-observability-data-mappings.md) during configuration. Service Observability sends a request to the observability vendor using that mapping as a filter to find related entities. Any additional filtering needed to find the entities is noted in the following sections.
+Service Observability displays metrics from your observability vendor for services, hosts, databases, and network components on the Observability dashboards based on the key:value pairs in the [mapping rules you create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/create-and-manage-observability-data-mappings.md) during configuration. Service Observability sends a request to the observability vendor using that mapping as a filter to find related entities. Any additional filtering needed to find the entities is noted in the following sections.
 
 ## Amazon CloudWatch entity mapping
 
@@ -577,7 +577,3 @@ The default dashboards for each entity type display metrics using Zabbix standar
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

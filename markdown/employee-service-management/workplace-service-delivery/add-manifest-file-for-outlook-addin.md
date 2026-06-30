@@ -14,13 +14,13 @@ breadcrumb: [Configure, Workplace Reservations for Microsoft Outlook Add-in, Wor
 
 # Create a manifest file for Microsoft Outlook Add-in
 
-[[create-ms365-addin-manifest|Create a manifest file]] and customize it as per your organization standards to configure the add-in in Microsoft Outlook.
+Create a manifest file and customize it as per your organization standards to configure the add-in in Microsoft Outlook.
 
 ## Before you begin
 
 Role required: none
 
-Download the sample manifest file **Workplace\_Outlook\_add\_in\_manifest\_example.xml** along with the [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] application from the ServiceNow Store. You can also create a manifest file, for more information on how to create a manifest file, refer to the [Microsoft documentation](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1#manifest-v11-xml-file-examples-and-schemas).
+Download the sample manifest file **Workplace\_Outlook\_add\_in\_manifest\_example.xml** along with the Workplace Reservations for Microsoft Outlook Add-in application from the ServiceNow Store. You can also create a manifest file, for more information on how to create a manifest file, refer to the [Microsoft documentation](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1#manifest-v11-xml-file-examples-and-schemas).
 
 ## About this task
 
@@ -136,7 +136,3 @@ Perform any of the following actions as per requirement:
 
 [Upload the manifest file in Microsoft Office 365]()
 
-## Related
-
-- [[create-ms365-addin-manifest|Create a manifest file]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]

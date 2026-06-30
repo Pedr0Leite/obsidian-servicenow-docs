@@ -12,7 +12,7 @@ breadcrumb: [Enable data collection for Value Management, Configuring Impact, Im
 
 # Install Impact Value Management Data Collection Content Pack Apps dependent plugins
 
-Install the dependent plugins for [[impact-landing-page|Impact]] [[impact-in-platform-business-outcomes|Value Management]] Data Collection Content Pack apps
+Install the dependent plugins for Impact Value Management Data Collection Content Pack apps
 
 ## Before you begin
 
@@ -143,8 +143,3 @@ Hardware Asset Management \(sn\_hamp\)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-in-platform-business-outcomes|Value management]]

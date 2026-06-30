@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center**.
 
 2.  Select **Shipping carrier** from the Shipping list.
 
@@ -114,6 +114,3 @@ Additional information about the carrier.
 
 **Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-shipments-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

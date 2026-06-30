@@ -12,7 +12,7 @@ breadcrumb: [Create a checklist template, My promotions, Sales promotion managem
 
 # Create a visibility criteria
 
-Agents workspaces enables the manufacturers to create the visibility criteria. Manufacturer can filter the dealer name for which the target [[mco-sales-promotion|sales promotion]] is applicable.
+Agents workspaces enables the manufacturers to create the visibility criteria. Manufacturer can filter the dealer name for which the target sales promotion is applicable.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-sls-pro-mgmt|Sales Promotion Management]]** &gt; **[[mco-my-promotions|My Promotions]]** &gt; **Visibility Criteria**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales Promotion Management** &gt; **My Promotions** &gt; **Visibility Criteria**.
 
 2.  Select **New**.
 
@@ -54,16 +54,10 @@ Required service organization condition.To learn more about the Service Organiza
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-create-checklist|Create a checklist template]]
+**Parent Topic:**[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)
 
 **Related topics**  
 
 
 [bundle-csm.associate-services-to-service-organization]
 
-## Related
-
-- [[mco-create-checklist|Create a checklist template]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-my-promotions|My promotions]]

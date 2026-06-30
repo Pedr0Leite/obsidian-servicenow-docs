@@ -14,7 +14,7 @@ breadcrumb: [Explore, Public Sector Digital Services \(PSDS\)]
 
 A portal provides an end user, in this case a constituent or applicant, with step-by-step guidance through submitting a public service request case. Use Portals to submit requests for licenses and permits, government records and public information, non-emergency services, or to submit applications for social benefits or grants opportunities.
 
-\[Omitted image "psds\_gmportal.png"\] Alt text: [[psds-gmp-overview|Grants Management Portal]] homepage
+\[Omitted image "psds\_gmportal.png"\] Alt text: Grants Management Portal homepage
 
 With the Public Sector Digital Services application, you can provide service for your constituents through web applications that hosts self-service capabilities like knowledge articles, community forums, service catalogs, case management, and chat.
 
@@ -35,7 +35,7 @@ Self-service in Public Sector offers the following benefits:
 
 ## Playbooks for Portals
 
-Whether you're a government service agent or a constituent using the [[gsp-overview-public-sector|Government Service Portal]] or Grants Management Portal, you can use Public Sector Digital Services playbooks on service portals to complete the tasks and activities needed to resolve your requests. Playbooks on service portals \(for constituents using the Government Service Portal or Grants Management Portal\) integrates seamlessly into Playbooks for government service agents using the CSM Configurable Workspace, giving both parties the step-by-step guidance for the case flow process and the contextual information that you need to successfully complete each stage of the flow and its associated activities.
+Whether you're a government service agent or a constituent using the Government Service Portal or Grants Management Portal, you can use Public Sector Digital Services playbooks on service portals to complete the tasks and activities needed to resolve your requests. Playbooks on service portals \(for constituents using the Government Service Portal or Grants Management Portal\) integrates seamlessly into Playbooks for government service agents using the CSM Configurable Workspace, giving both parties the step-by-step guidance for the case flow process and the contextual information that you need to successfully complete each stage of the flow and its associated activities.
 
 Guided intake with playbooks on service portals makes it effortless to fill out a form or provide information for a case. Playbooks offer a clear roadmap that indicates your progress in the submission process and the remaining steps that you need to complete. If needed, you can navigate back to a previous step, or use intuitive options and input controls that enable you to input information in a detailed manner. Additionally, you can save an application or intake form that is not yet ready for submission and resume work on it later.
 
@@ -70,7 +70,7 @@ The following playbooks on service portal experiences are available for constitu
 
 With the Engagement Messenger web application, constituents can access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
 
-To learn more about Engagement Messenger, see [[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]].
+To learn more about Engagement Messenger, see [Configure Engagement Messenger for Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configure-engagement-messenger.md).
 
 ## Service catalog
 
@@ -94,8 +94,3 @@ If constituents want to chat with an agent, Virtual Agent hands them off to a li
 
 To learn more about chat, see [Configuring the chat channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ChatFeature.md).
 
-## Related
-
-- [[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]]
-- [[psds-gmp-overview|Grants Management Portal]]
-- [[gsp-overview-public-sector|Government Service Portal]]

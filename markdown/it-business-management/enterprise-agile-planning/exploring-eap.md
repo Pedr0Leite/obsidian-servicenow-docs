@@ -30,7 +30,7 @@ Feature
 
 </th></tr></thead><tbody><tr><td>
 
-Manage backlog and [[prioritize-work-portfolio-planning-workspace|prioritize work]].
+Manage backlog and prioritize work.
 
 </td><td>
 
@@ -70,7 +70,7 @@ Collaborate real-time and asynchronously to discuss resolutions for blockers.
 
 </td></tr><tr><td>
 
-Manage work and [[t_SDLCPPSTrackProgress|track progress]] efficiently for Kanban teams that don't operate in a regular cadence.
+Manage work and track progress efficiently for Kanban teams that don't operate in a regular cadence.
 
 </td><td>
 
@@ -134,8 +134,3 @@ Analyze team progress, performance, and keep track of key metrics using preconfi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[t_SDLCPPSTrackProgress|Track progress]]

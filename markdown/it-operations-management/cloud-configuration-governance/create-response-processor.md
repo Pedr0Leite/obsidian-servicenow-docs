@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 ## About this task
 
-Before you execute a response processor for a subflow, you must create a subflow, attach the subflow to a resource block operation step, and then generate the catalog. To return a response from the subflow to the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application, the subflow must create a record in the sn\_cmp\_flow\_result table with the appropriate details as follows.
+Before you execute a response processor for a subflow, you must create a subflow, attach the subflow to a resource block operation step, and then generate the catalog. To return a response from the subflow to the Cloud Provisioning and Governance application, the subflow must create a record in the sn\_cmp\_flow\_result table with the appropriate details as follows.
 
 ```
 
@@ -35,7 +35,7 @@ Before you execute a response processor for a subflow, you must create a subflow
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
 2.  Open a resource block that is in a draft state and navigate to **Operations** **Steps**.
 
@@ -51,7 +51,7 @@ Before you execute a response processor for a subflow, you must create a subflow
 
 5.  Select **Generate Catalog**.
 
-    The workflow appears in the [[cloudmgt-cloud-user-portal|Cloud User Portal]] as an operation. Select the workflow from the **Select Operation** picker to execute the operation. The status of the operation is visible in the Track operation subtab.
+    The workflow appears in the Cloud User Portal as an operation. Select the workflow from the **Select Operation** picker to execute the operation. The status of the operation is visible in the Track operation subtab.
 
 6.  Select the **Response Processor** tab and then select the plus icon.
 
@@ -70,8 +70,3 @@ Before you execute a response processor for a subflow, you must create a subflow
 
 **Parent Topic:**[Configure a response processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-response-processor.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

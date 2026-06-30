@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Integration with SuccessFactors, Integration of
 
 # Configuring HR Service Delivery Integration with SuccessFactors
 
-After you install the [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]], the services for SuccessFactors are automatically created in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]].
+After you install the HR Service Delivery Integration with SuccessFactors, the services for SuccessFactors are automatically created in Enterprise Service Management Integrations Framework.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ After you install the [[hr-service-delivery-integration-success-factors|HR Servi
 
     Allow the Restricted Caller Access records with Status = **Requested** and Source Scope = **Enterprise Service Management Integrations Framework** or **HR Service Delivery Integration with Successfactors**.
 
-2.  For better performance, index the employee number field in the [[c_HRProfileRecords|HR Profile]] table and index coalesce fields in [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-transform-maps-sf.md).
+2.  For better performance, index the employee number field in the HR Profile table and index coalesce fields in [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-transform-maps-sf.md).
 
     For more information, see [create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateCustomIndex.md).
 
@@ -39,13 +39,8 @@ After you install the [[hr-service-delivery-integration-success-factors|HR Servi
 
 4.  Configure integration source properties for [Source for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/source-for-hrsd-successfactors.md).
 
-5.  Activate and run the scheduled flow that synchronizes Worker profile information between SuccessFactors and ServiceNow [[hr-service-delivery|HR Service Delivery]] periodically.
+5.  Activate and run the scheduled flow that synchronizes Worker profile information between SuccessFactors and ServiceNow HR Service Delivery periodically.
 
     For more information, see [Activating schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activating-schedule-flows-sf.md).
 
-## Related
 
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]

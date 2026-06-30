@@ -30,7 +30,7 @@ Role required: image\_admin or content\_admin
 
         |Field|Input|
         |-----|-----|
-        |**Name**|Enter the file name by which to [[onboarding-modals-reference|reference]] the image in HTML.|
+        |**Name**|Enter the file name by which to reference the image in HTML.|
         |**Active**|Select the check box to allow the image to be referenced in HTML.|
         |**Category**|Select a category in which to organize the image file.|
         |**Image**|Select **Click to add...** to upload an image. If an image is already uploaded, click **\[Update\]** to upload a new version of the image or **\[Delete\]** to remove the image.|
@@ -38,7 +38,7 @@ Role required: image\_admin or content\_admin
 
 2.  To upload multiple images at once, complete the following steps:
 
-    1.  Create a .zip file that contains only [[c_StoringImagesInTheDatabase|acceptable image file types]].
+    1.  Create a .zip file that contains only [acceptable image file types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_StoringImagesInTheDatabase.md).
 
         **Note:** The system does not support uploading zip files that contain .bmp images.
 
@@ -67,7 +67,3 @@ Role required: image\_admin or content\_admin
 
 [System log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SystemLogs.md)
 
-## Related
-
-- [[c_StoringImagesInTheDatabase|Storing images in the database]]
-- [[onboarding-modals-reference|Reference]]

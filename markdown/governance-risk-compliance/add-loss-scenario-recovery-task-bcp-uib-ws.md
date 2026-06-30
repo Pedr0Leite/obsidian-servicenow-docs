@@ -26,7 +26,7 @@ If the plan was created from a plan template, loss scenarios may already be pre-
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Planning** and select the link to the plan record in the **Name** column.
+2.  In the List view, navigate to **Planning** and select the link to the plan record in the **Name** column.
 
 3.  Select the **Loss scenarios** tab and select **Add**.
 
@@ -63,14 +63,9 @@ If the plan was created from a plan template, loss scenarios may already be pre-
 
 ## What to do next
 
-After the loss scenario is created, you can populate its **Recovery tasks** tab in bulk by selecting **Add groups** or **Add tasks**. The **Select task template groups** dialog automatically filters by the loss scenario's element definition \(for example, only groups applicable to Datacenters are shown for a Loss of Datacenters scenario\). For field-level details, see [[add-a-recovery-task|Add recovery tasks]].
+After the loss scenario is created, you can populate its **Recovery tasks** tab in bulk by selecting **Add groups** or **Add tasks**. The **Select task template groups** dialog automatically filters by the loss scenario's element definition \(for example, only groups applicable to Datacenters are shown for a Loss of Datacenters scenario\). For field-level details, see [Add recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md).
 
 \[Omitted image "plan-loss-scenario-form.png"\] Alt text: Loss of Datacenters plan-loss-scenario record showing the Details tab.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[add-a-recovery-task|Add recovery tasks]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

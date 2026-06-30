@@ -28,7 +28,7 @@ In the following scenarios, the system assigns a wrap-up code automatically:
 -   When the wrap-up window times out, the default wrap-up code Issue resolved is auto-saved.
 -   When the interaction automatically closes because the customer doesn’t respond, the wrap-up code is set to Closed due to customer inactivity.
 
-For more information, see Automatic wrap-up code assignment in [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]].
+For more information, see Automatic wrap-up code assignment in [Using Email Interaction for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-email-interaction-customer-service-management.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ For more information, see Automatic wrap-up code assignment in [[using-email-int
 
 3.  In the Interactions section, select **My Interactions**.
 
-4.  Open an [[email-as-an-interaction|email interaction]].
+4.  Open an email interaction.
 
 5.  Select **Close**.
 
@@ -53,7 +53,3 @@ For more information, see Automatic wrap-up code assignment in [[using-email-int
 -   For AWA-routed interactions, the selected wrap-up code is saved in the wrap-up segment table.
 -   For CCaaS-routed interactions, the selected wrap-up code is returned to CCaaS and synced back to the instance.
 
-## Related
-
-- [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
-- [[email-as-an-interaction|Email Interaction]]

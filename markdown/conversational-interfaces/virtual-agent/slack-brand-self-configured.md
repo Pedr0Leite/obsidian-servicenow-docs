@@ -19,7 +19,7 @@ Configure your self-configured Slack app's branding. You have the flexibility to
 
 ## Before you begin
 
-Ensure that you have completed integrating [[virtual-agent-landing-page|Virtual Agent]] with a Self-configured bot in Slack before customizing the branding options.
+Ensure that you have completed integrating Virtual Agent with a Self-configured bot in Slack before customizing the branding options.
 
 Role required: admin
 
@@ -50,6 +50,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Virtual Agent settings for Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-slack-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

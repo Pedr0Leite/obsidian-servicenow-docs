@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a macOS system, ACC deployment - endpoints, Con
 
 # Perform a single-line Agent Client Collector installation on macOS when using a MID Server
 
-Use an efficient single-line command script to install [[acc-landing-page|Agent Client Collector]] on a machine that uses macOS operating system. Use the manual installation procedure if the agent is not connected to the instance or you want enhanced customization options.
+Use an efficient single-line command script to install Agent Client Collector on a machine that uses macOS operating system. Use the manual installation procedure if the agent is not connected to the instance or you want enhanced customization options.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: agent\_client\_collector\_admin
 
 2.  Retrieve the API Key.
 
-    1.  Navigate to **Agent Client Collector** &gt; **Deployment** &gt; **[[mid-web-server|MID Web Server]] API Key**.
+    1.  Navigate to **Agent Client Collector** &gt; **Deployment** &gt; **MID Web Server API Key**.
 
     2.  Copy the **API Key** value, to be used in the installation command.
 
@@ -99,7 +99,3 @@ ACC\_VALIDATE\_SIG
 </table>
 **Parent Topic:**[Agent Client Collector installation on a macOS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-mac-os.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

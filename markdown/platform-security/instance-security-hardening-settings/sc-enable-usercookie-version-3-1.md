@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Security risk
 
 -   Severity score: 7.1
 -   CVSS score: High
--   Security risk details: This creates a significant risk of session hijacking, as attackers who obtain or reverse-engineer the key can forge [[c_Authentication|authentication]] cookies and impersonate [[users|users]].
+-   Security risk details: This creates a significant risk of session hijacking, as attackers who obtain or reverse-engineer the key can forge authentication cookies and impersonate users.
 
 </td></tr><tr><td>
 
@@ -97,9 +97,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

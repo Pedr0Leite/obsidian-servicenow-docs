@@ -44,7 +44,7 @@ Select security tag
 
 </td><td>
 
-If needed, select a [[create-class-group-and-tags|Security tag]] to add metadata to the record or identify who should have access to this security incident record. This field appears only after the security incident has been saved.**Note:** Manual tags are preserved when automatic tags are applied.
+If needed, select a [Security tag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md) to add metadata to the record or identify who should have access to this security incident record. This field appears only after the security incident has been saved.**Note:** Manual tags are preserved when automatic tags are applied.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ The person affected by the security issue.
 
 </td></tr><tr><td>
 
-[[location|Location]]
+Location
 
 </td><td>
 
@@ -118,7 +118,7 @@ State
 
 </td><td>
 
-The current state of the security incident. Upon [[si-creation|security incident creation]], this field defaults to **Draft**.
+The current state of the security incident. Upon security incident creation, this field defaults to **Draft**.
 
 </td></tr><tr><td>
 
@@ -229,12 +229,12 @@ As you type the short description, links to related articles from the knowledge 
 
     If you added a new CI to the security incident, the following integration workflows are automatically executed:
 
-    -   [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]. This workflow retrieves a list of running processes on a configuration item \(CI\) from a host or endpoint.
+    -   [Security Operations - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-running-processes-workflow.md). This workflow retrieves a list of running processes on a configuration item \(CI\) from a host or endpoint.
     -   [Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-workflow.md). This workflow retrieves a list of running services from Windows-based CIs.
-    -   [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]. This workflow retrieves a list of active network connections from a host or endpoint.
+    -   [Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-network-stats-workflow.md). This workflow retrieves a list of active network connections from a host or endpoint.
 5.  To view the information retrieved by these workflows, click the **Show Enrichment Data** related link, and then click any of the indicated tabs.
 
-    **Note:** Additional workflows are executed based on the third-party integrations you have activated as follows [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
+    **Note:** Additional workflows are executed based on the third-party integrations you have activated as follows [Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-get-running-processes-workflow.md)
 
 
 **Related topics**  
@@ -242,11 +242,3 @@ As you type the short description, links to related articles from the knowledge 
 
 [Security Incident Response setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-sir.md)
 
-## Related
-
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]
-- [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]
-- [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
-- [[location|Location]]
-- [[si-creation|Security incident creation]]

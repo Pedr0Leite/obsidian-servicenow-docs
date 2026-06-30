@@ -18,7 +18,7 @@ Update a proxy running on Windows.
 
 ## Before you begin
 
-If using AES 256-bit [[encryption-landing|encryption]] with Java 8 update 141 \(8u141\) or lower, you must install the Java Cryptography Extension \(JCE\) jurisdiction policy files by copying them into the system Java home directory of each [[edge-encryption|Edge Encryption]] proxy server host. Add these files to the `<Java-home-directory>/jre/lib/security` folder before performing a scheduled or manual upgrade. To install the AES 256-bit encryption policy files, see [Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md).
+If using AES 256-bit encryption with Java 8 update 141 \(8u141\) or lower, you must install the Java Cryptography Extension \(JCE\) jurisdiction policy files by copying them into the system Java home directory of each Edge Encryption proxy server host. Add these files to the `<Java-home-directory>/jre/lib/security` folder before performing a scheduled or manual upgrade. To install the AES 256-bit encryption policy files, see [Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md).
 
 Role required: security\_admin or local administrator on the host machine
 
@@ -26,7 +26,7 @@ Role required: security\_admin or local administrator on the host machine
 
 1.  Download the Edge Encryption proxy-update archive file to the installation directory.
 
-    1.  Navigate to **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Installation &amp; Downloads** &gt; **Downloads**
+    1.  Navigate to **Edge Encryption Configuration** &gt; **Installation &amp; Downloads** &gt; **Downloads**
 
     2.  Select the **Download the command line installer** link.
 
@@ -53,8 +53,3 @@ Role required: security\_admin or local administrator on the host machine
 
 **Parent Topic:**[Upgrading Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_UpdateEdgeEncryptionProxy.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier details, Using Source-to-Pay Workspace, Use, Suppli
 
 # Playbook for updating the supplier primary data
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]] includes a playbook that you use for updating the [[supplier|supplier]] primary data.
+Source-to-Pay Workspace includes a playbook that you use for updating the supplier primary data.
 
 ## Review supplier primary data request playbook
 
@@ -22,7 +22,7 @@ This playbook provides step-by-step guidance for cases related to updating suppl
 
 This playbook is used for updating the supplier primary data when:
 
--   A [[supplier-contact|supplier contact]] submits a request for updating the supplier primary data using the supplier catalog item from the [[supplier-central|Supplier Collaboration Portal]]
+-   A supplier contact submits a request for updating the supplier primary data using the supplier catalog item from the Supplier Collaboration Portal
 -   A supplier manager or fulfiller creates a case for updating the supplier primary data from the Source-to-Pay Workspace
 
 The application opens the case on the **Playbook** tab on the Details page.
@@ -32,7 +32,7 @@ This playbook is displayed only for these case types:
 -   Banking information change request
 -   Supplier information change request
 -   Supplier location change request
--   [[conduct-sanction-screening|Conduct sanction screening]]
+-   Conduct sanction screening
 
 \[Omitted image "primary-data-playbook.png"\] Alt text: Review supplier primary data request playbook.
 
@@ -184,10 +184,3 @@ Updates the case to Closed Rejected.
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[conduct-sanction-screening|Conduct sanction screening]]

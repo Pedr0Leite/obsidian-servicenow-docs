@@ -14,7 +14,7 @@ breadcrumb: [Onboarding multiple enterprise assets in the Enterprise Asset Works
 
 # Create an onboarding order for enterprise assets in the Enterprise Asset Workspace
 
-Create an onboarding order in the [[asset-operations-view|Asset operations view]] to initiate the onboarding of multiple enterprise assets.
+Create an onboarding order in the Asset operations view to initiate the onboarding of multiple enterprise assets.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Onboarding** list, select **Onboarding order**.
 
@@ -117,7 +117,3 @@ Add asset details to the onboarding order. For details, see [Add details of the 
 
 [Add details of the enterprise assets to an onboarding order]()
 
-## Related
-
-- [[asset-operations-view|Asset operations view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

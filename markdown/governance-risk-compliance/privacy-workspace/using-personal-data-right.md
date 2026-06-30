@@ -14,7 +14,7 @@ breadcrumb: [Personal Data Rights \(PDR\), Privacy Management, Governance, Risk,
 
 # Using Personal Data Rights
 
-Use the [[personal-data-rights|Personal Data Rights]] application to create new requests to manage your personal data.
+Use the Personal Data Rights application to create new requests to manage your personal data.
 
 -   **[Submit a privacy request using the external-facing PDR form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/submit-privacy-request-external-pdr.md)**  
 Submit a privacy request through your organization's external-facing Personal Data Rights \(PDR\) form, either for yourself or as an authorized agent acting on behalf of someone.
@@ -29,6 +29,3 @@ You can modify the email templates to align the messages with your organizationâ
 
 **Parent Topic:**[Personal Data Rights \(PDR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

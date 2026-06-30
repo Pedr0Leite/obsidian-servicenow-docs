@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Dynamic Choice user input control
 
-Use the Dynamic Choice user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to dynamically create a list of available choices for your users. Create these choices by querying a table or by using a script to dynamically create them.
+Use the Dynamic Choice user input control in a Virtual Agent topic to dynamically create a list of available choices for your users. Create these choices by querying a table or by using a script to dynamically create them.
 
 ## Choice list display
 
@@ -614,6 +614,3 @@ The script in the Choice Value Expression property defines and returns an array 
 
 **Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

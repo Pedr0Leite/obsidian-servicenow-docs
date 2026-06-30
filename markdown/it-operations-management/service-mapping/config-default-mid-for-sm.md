@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration for Service Mapping, Configuring Service M
 
 # Configure a default MID Server for Service Mapping for upgraded deployments
 
-In deployments upgraded to Istanbul or earlier, [[c_ServiceMappingOverview|Service Mapping]] uses the default MID Server when it cannot find a MID Server with the matching IP range. Configuring a default MID Server improves the [[r-discovery|discovery]] process.
+In deployments upgraded to Istanbul or earlier, Service Mapping uses the default MID Server when it cannot find a MID Server with the matching IP range. Configuring a default MID Server improves the discovery process.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ In upgraded deployments, Service Mapping selects a MID Server using a legacy alg
 
 [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

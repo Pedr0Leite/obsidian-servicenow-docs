@@ -47,7 +47,7 @@ Role required: sn\_cim.improvement\_requester
 
 In the process of reviewing KPI performance in the Performance Analytics application, the incident manager noticed the **Average time to resolve an incident** KPI scorecard was too high \(24 hours\).
 
-As part of the improvement identification process, the incident manager analyzed the KPI performance by comparing it with values from other companies using the [[benchmarks-landing|Benchmarks]] application, determined an improvement was needed, and set a target goal.
+As part of the improvement identification process, the incident manager analyzed the KPI performance by comparing it with values from other companies using the Benchmarks application, determined an improvement was needed, and set a target goal.
 
 |Field|Value|
 |-----|-----|
@@ -60,9 +60,9 @@ As part of the improvement identification process, the incident manager analyzed
 |Priority|4 - Low \(default\)|
 
 -   **[Create improvement initiatives from integrated applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-improvmt-from-apps.md)**  
-Create improvement initiatives from [[cim-integration|applications integrated with Continual Improvement Management]] to enable planning, implementation, monitoring, and impact assessment of improvements in a centralized framework.
+Create improvement initiatives from applications integrated with Continual Improvement Management to enable planning, implementation, monitoring, and impact assessment of improvements in a centralized framework.
 -   **[Create application records from improvement initiatives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-app-records.md)**  
-Create records for integrated [[dex-workspace-application-tab|applications]] from improvement initiatives or CIM tasks to transform improvement initiatives into broader, actionable efforts to enable improvements across teams and processes.
+Create records for integrated applications from improvement initiatives or CIM tasks to transform improvement initiatives into broader, actionable efforts to enable improvements across teams and processes.
 -   **[Configure CIM integration property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/configure-cim-int-property.md)**  
 Configure the CIM sn\_cim.initiative\_copy\_attributes integration property to define field values to be copied from an improvement initiative to application records that you create from the initiative.
 
@@ -73,8 +73,3 @@ Configure the CIM sn\_cim.initiative\_copy\_attributes integration property to d
 
 [Improvement field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-field-descriptions.md)
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[cim-integration|Applications integrated with Continual Improvement Management]]
-- [[dex-workspace-application-tab|Applications]]

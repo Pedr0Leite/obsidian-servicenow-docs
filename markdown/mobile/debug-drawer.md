@@ -45,7 +45,7 @@ Debug drawer displayed with screen data
 
 1.  Log in to a ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the **Settings** button.
+2.  On the navigation bar, tap the **Settings** button.
 
 3.  Choose from the following option to either enable or disable the debug drawer option.
 
@@ -82,7 +82,3 @@ On the settings page, tap **Version** rapidly five times.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-tab-bar|Navigation bar]]

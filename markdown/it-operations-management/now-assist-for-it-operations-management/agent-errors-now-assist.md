@@ -24,7 +24,7 @@ Role required: agent\_client\_collector\_admin
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 
-2.  Select the **[[acc-landing-page|Agent Client Collector]] \(ACC\) Diagnostic** entry.
+2.  Select the **Agent Client Collector \(ACC\) Diagnostic** entry.
 
 3.  Locate the **Add AI agents that can perform these steps widget** and select the **Agent Client Collector \(ACC\) Diagnostic** entry.
 
@@ -37,6 +37,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

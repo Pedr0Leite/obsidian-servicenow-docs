@@ -14,7 +14,7 @@ breadcrumb: [Firewall Audits and Reporting, ITOM Visibility, IT Operations Manag
 
 # Exploring Firewall Audits and Reporting
 
-With [[firewall-audit-reporting|Firewall Audits and Reporting]], you have the capability to explore and conduct an inventory of your firewall security policies, devices, device groups, and manager information. Additionally, you can utilize it to submit requests for new firewall rules and audit security policies within a specified time frame.
+With Firewall Audits and Reporting, you have the capability to explore and conduct an inventory of your firewall security policies, devices, device groups, and manager information. Additionally, you can utilize it to submit requests for new firewall rules and audit security policies within a specified time frame.
 
 ## Firewall Audits and Reporting overview
 
@@ -22,7 +22,7 @@ A firewall device acts as a network security system, monitoring and controlling 
 
 ## Firewall Audits and Reporting workflow
 
-The Firewall Audits and Reporting application enables the ServiceNow [[r-discovery|Discovery]] process to discover firewalls \(currently Palo Alto Networks firewalls\), CMDB CIs for the firewall devices, firewall manager, firewall device groups, and firewall policies using serverless patterns. Firewall policy audit tasks are generated from the firewall managers or devices. You can also request new firewall security policies through the Service Catalog and archive older [[firewall-requests|firewall rule requests]], audit requests, and audit tasks to improve system performance. For more information, see [Visibility to Firewall inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md). To see various reports to track discovered policies and audit tasks, see [Firewall Admin Workspace dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-admin-workspace-dashboard.md).
+The Firewall Audits and Reporting application enables the ServiceNow Discovery process to discover firewalls \(currently Palo Alto Networks firewalls\), CMDB CIs for the firewall devices, firewall manager, firewall device groups, and firewall policies using serverless patterns. Firewall policy audit tasks are generated from the firewall managers or devices. You can also request new firewall security policies through the Service Catalog and archive older firewall rule requests, audit requests, and audit tasks to improve system performance. For more information, see [Visibility to Firewall inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md). To see various reports to track discovered policies and audit tasks, see [Firewall Admin Workspace dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-admin-workspace-dashboard.md).
 
 ## Firewall Audits and Reporting benefits
 
@@ -36,8 +36,3 @@ The Firewall Audits and Reporting application enables the ServiceNow [[r-discove
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[r-discovery|Discovery]]
-- [[firewall-requests|Firewall rule requests]]

@@ -14,7 +14,7 @@ breadcrumb: [Aggregation in reporting, Reporting reference, Reporting, Reporting
 
 # Aggregate a report on sum
 
-When you [[t_CreateYourOwnReport|create a report]], you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The sum aggregation shows the sum of the field you aggregate on.
+When you create a report, you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The sum aggregation shows the sum of the field you aggregate on.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Select **Sum** to show the sum of the field you aggregate on. For example, selec
 
 The sections of the visualization are grouped by the sum of the selected records. Select a duration field and the aggregated data is expressed in terms of days, hours, minutes, and seconds. Select an integer field, such as **Priority**, and the data is expressed as whole numbers.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, AWS, Service Graph Connectors, Integrating third-party d
 
 # Supported AWS resource types
 
-Several AWS resource types are imported as CMDB data by the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]].
+Several AWS resource types are imported as CMDB data by the Service Graph Connector for AWS.
 
 ## AWS Config resources
 
@@ -854,6 +854,3 @@ AWS::IAM::Group
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for AWS reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-reference.md)
 
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

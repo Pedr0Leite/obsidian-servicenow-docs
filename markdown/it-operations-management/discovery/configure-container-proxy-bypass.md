@@ -19,7 +19,7 @@ Configure a proxy bypass for container image scans to reach specific internal or
 
 ## Before you begin
 
--   Verify that you have at least version 1.30.2 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.30.2 of Discovery and Service Mapping Patterns.
 -   Verify that you have configured a proxy on the MID Server. For more information, see [MID Server parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-parameters.md).
 
 Role required: discovery\_admin
@@ -55,7 +55,3 @@ Scan the container images. For more information, see [Scan container images](htt
 
 **Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

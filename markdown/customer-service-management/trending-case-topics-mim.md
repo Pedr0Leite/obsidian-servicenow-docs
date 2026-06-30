@@ -20,9 +20,9 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
-2.  Navigate to **[[migration-lists|Lists]]** &gt; **[[trending-case-topics|Trending Case Topics]]** &gt; **Last 1 week**.
+2.  Navigate to **Lists** &gt; **Trending Case Topics** &gt; **Last 1 week**.
 
 3.  Click a **Cluster Id**.
 
@@ -36,8 +36,4 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager
 
 8.  Click**Update**.
 
-## Related
 
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[trending-case-topics|Trending case topics]]

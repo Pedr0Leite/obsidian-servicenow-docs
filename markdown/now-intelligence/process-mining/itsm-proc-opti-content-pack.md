@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for ITSM
 
-The ITSM [[process-mining|Process Mining]] Content Pack provides preconfigured Process Mining projects and improvement initiatives for IT Service Management \(ITSM\) processes.
+The ITSM Process Mining Content Pack provides preconfigured Process Mining projects and improvement initiatives for IT Service Management \(ITSM\) processes.
 
 ## Request apps on the Store
 
@@ -36,16 +36,11 @@ To enable this content pack, go to the ServiceNow Store. For more detail, see [A
 You can use the default KPI dashboard for projects in the ITSM Process Mining Content Pack. You can also create dashboards and add elements to them according to your requirements.
 
 -   **[Cluster analysis configurations for ITSM work items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-cluster-analysis-po.md)**  
-The Process Mining application provides solution definitions for incidents, problems, change requests, and requested items. You can use these definitions to configure [[cluster-analysis|cluster analysis]] for those work items.
+The Process Mining application provides solution definitions for incidents, problems, change requests, and requested items. You can use these definitions to configure cluster analysis for those work items.
 -   **[Configure KPIs for ITSM work items in the Process Mining dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-kpi-itsm-po.md)**  
-Add the desired Key Performance Indicators \(KPIs\) to monitor the performance of the ITSM work items in the Process Mining [[summary-insights-dashboard|Summary and insights page]]. Remove the indicators that you no longer want to use.
+Add the desired Key Performance Indicators \(KPIs\) to monitor the performance of the ITSM work items in the Process Mining Summary and insights page. Remove the indicators that you no longer want to use.
 -   **[Configure ITSM insights in the Process Mining dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-insights-itsm-po.md)**  
 Configure rule definitions for incidents, problems, change requests, or request items to discover insights in the Summary and insights page.
 
 **Parent Topic:**[Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[summary-insights-dashboard|Summary and insights page]]

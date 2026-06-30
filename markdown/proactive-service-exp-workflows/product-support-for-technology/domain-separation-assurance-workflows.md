@@ -14,7 +14,7 @@ breadcrumb: [Reference, Proactive Service Experience Workflows, Product Support 
 
 # Domain separation and Proactive Service Experience Workflows
 
-Domain separation is supported for [[psew-landing-page|Proactive Service Experience Workflows]]. With Proactive Service Experience Workflows, you can quickly restore normal service operation when network-initiated incidents occur and proactively identify and notify the customers that are impacted by those incidents. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Proactive Service Experience Workflows. With Proactive Service Experience Workflows, you can quickly restore normal service operation when network-initiated incidents occur and proactively identify and notify the customers that are impacted by those incidents. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -37,6 +37,3 @@ Proactive Service Experience Workflows \(TAW\) is a series of workflows that enh
 
 [bundle-psec.domain-sep-landing-page]
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

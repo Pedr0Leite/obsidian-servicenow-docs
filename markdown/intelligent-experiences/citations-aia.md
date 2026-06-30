@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
 
 # Citations in Now Assist AI agents
 
-You can see citations on the [[now-assist-center-now-assist-panel|Now Assist panel]] when you execute AI agents and agentic workflows in [[na-ai-agents|Now Assist AI agents]] that provide summaries to get similar incidents and relevant knowledge articles.
+You can see citations on the Now Assist panel when you execute AI agents and agentic workflows in Now Assist AI agents that provide summaries to get similar incidents and relevant knowledge articles.
 
 Generating citations:
 
@@ -24,17 +24,11 @@ Generating citations:
 
 **Note:** Invalid or malformed URLs won’t be displayed to the user.
 
-Citations with similar incidents and relevant knowledge articles appear in the Sources section of the [[ai-agent-studio|AI Agent Studio]] Chat and on the Now Assist panel and in with click-able links that direct you to the incident or knowledge article.
+Citations with similar incidents and relevant knowledge articles appear in the Sources section of the AI Agent Studio Chat and on the Now Assist panel and in with click-able links that direct you to the incident or knowledge article.
 
 \[Omitted image "aia-citations.png"\] Alt text: Citations in the output of an executed agentic workflow with sources on AI Agent Studio.
 
 \[Omitted image "aia-citations-nap.png"\] Alt text: Citations in the output of an executed agentic workflow with sources on the Now Assist panel.
 
-You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [[aia-hide-citations|Disable citations in AI Agent Studio]].
+You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [Disable citations in AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-hide-citations.md).
 
-## Related
-
-- [[aia-hide-citations|Disable citations in AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]

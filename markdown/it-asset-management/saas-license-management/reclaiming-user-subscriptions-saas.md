@@ -16,7 +16,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 You can reclaim unused SaaS and SSO subscriptions to reduce your total software costs.
 
-The process of reclaiming a user subscription is similar to reclaiming a software license in ServiceNow® [[c_SoftwareAssetMgmt|Software Asset Management]]. You can reclaim user subscriptions in both the Software Asset Management Core UI and the [[sam-workspace|Software Asset Workspace]].
+The process of reclaiming a user subscription is similar to reclaiming a software license in ServiceNow® Software Asset Management. You can reclaim user subscriptions in both the Software Asset Management Core UI and the Software Asset Workspace.
 
 When you’re reclaiming a user subscription, you can determine the status of the associated removal candidate using the following removal candidate states.
 
@@ -145,7 +145,3 @@ Reclaim unused SaaS and SSO subscriptions in the Software Asset Workspace.
 
 [Reclamation rules for SaaS and SSO applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/reclamation-rules.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

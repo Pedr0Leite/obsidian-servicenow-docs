@@ -14,17 +14,17 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 # Administer and maintain the Talent Development Core app
 
-Administering and maintaining the [[egd-landing-page|Talent Development Core]] app requires the role of a ServiceNow administrator or an Talent admin.
+Administering and maintaining the Talent Development Core app requires the role of a ServiceNow administrator or an Talent admin.
 
 Anyone that is assigned the Talent Development Core admin role \[sn\_egd\_core.admin\] can maintain Growth Plans, Administration, and Aspirations features and configurations.
 
 -   **Growth Plans**
 
-    A Talent Development Core admin administers the core application, which is the**Growth Plans Outcome Types**, **[[activity-lxp|Activity]] Types**, **Activity Categories**, **Activity Templates**, and **Activity Template Recommendations**.
+    A Talent Development Core admin administers the core application, which is the**Growth Plans Outcome Types**, **Activity Types**, **Activity Categories**, **Activity Templates**, and **Activity Template Recommendations**.
 
 -   **Administration**
 
-    Set **Properties** Talent Development Core properties, including manager skill approvals, activities settings on launch, and usage of the [[skills-intelligence|Skills Foundation]] application.
+    Set **Properties** Talent Development Core properties, including manager skill approvals, activities settings on launch, and usage of the Skills Foundation application.
 
 -   **Aspirations**
     -   **Aspirations** are created to help employees identify and track personal and work related goals.
@@ -54,20 +54,13 @@ As an Talent admin you can add or manage **Aspiration Types**, which are used to
 -   **[Add Talent Development Interests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-admin-add-interesta.md)**  
 As a Talent Development Core admin, you can add **Interests** that help employees understand and create an aspiration.
 -   **[License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md)**  
-Talent Development Core uses the [[emp-slate-employee-profile|Employee Profile]] licensing feature to license user.
+Talent Development Core uses the Employee Profile licensing feature to license user.
 -   **[View Talent Development Core licensed profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-view-licensed-profiles.md)**  
 You can view a list of profiles that are licensed for Talent Development.
 -   **[View Growth plans related information in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/gp-now-assist-view-graphs.md)**  
 From the Now Assist Admin console, view related information for Growth plans created with the help of Now Assist.
 -   **[Achievements and Credentials in Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/achievements-and-credentials-in-td.md)**  
-View all types of user credentials acquired outside the current organization \(currently populated from Credly\) in [[achievements-lxp|Achievements]] and Credentials.
+View all types of user credentials acquired outside the current organization \(currently populated from Credly\) in Achievements and Credentials.
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[activity-lxp|Activity]]
-- [[skills-intelligence|Skills Foundation]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[achievements-lxp|Achievements]]

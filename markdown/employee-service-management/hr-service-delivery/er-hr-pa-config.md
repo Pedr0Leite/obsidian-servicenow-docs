@@ -32,7 +32,7 @@ Role required: pa\_admin
 
 3.  Select the **Dashboards** link in the **Explore and Manage** tile.
 
-4.  Verify the [[er-hr-pa-eo|Employee Relations Executive Overview dashboard]] that are installed with this Platform Analytics Solution.
+4.  Verify the Employee Relations Executive Overview dashboard that are installed with this Platform Analytics Solution.
 
 5.  Open the **Indicator Sources** tab.
 
@@ -40,7 +40,7 @@ Role required: pa\_admin
 
     1.  Filter the indicator sources on the dashboard name.
 
-        Here you see the indicator sources filtered on the Self-Service Analytics dashboard from the [[hr-case-employee-relations|Employee Relations]] Executive Overview.
+        Here you see the indicator sources filtered on the Self-Service Analytics dashboard from the Employee Relations Executive Overview.
 
         \[Omitted image "hr-er-admin-console.png"\] Alt text: Indicator Sources tab of the PA Admin Console listing indicator sources and their details within the Employee Relations Executive Overview dashboard.
 
@@ -66,12 +66,8 @@ Role required: pa\_admin
 
 10. Navigate to **All** &gt; **Performance Analytics** &gt; **Jobs**.
 
-11. Set up and run the historical job for this [[eslate-analytics-reporting|Analytics and Reporting]] Solution, **ERCases.HistoricalDataCollection**.
+11. Set up and run the historical job for this Analytics and Reporting Solution, **ERCases.HistoricalDataCollection**.
 
 12. Edit and activate the scheduled data collection job for this Analytics and Reporting Solution, **ERCases.DailyCollection**.
 
-## Related
 
-- [[er-hr-pa-eo|Employee Relations Executive Overview dashboard]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

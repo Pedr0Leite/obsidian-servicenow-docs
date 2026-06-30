@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # View all OT devices by managed network
 
-View your [[operational-technology-overview|Operational Technology]] \(OT\) devices by managed network on the ServiceNow AI Platform.
+View your Operational Technology \(OT\) devices by managed network on the ServiceNow AI Platform.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ For more information about the OT Device Network Connection data model, see the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager**.
 
 2.  Select **All OT Devices by Managed Network**.
 
@@ -54,8 +54,3 @@ For more information about the OT Device Network Connection data model, see the 
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

@@ -20,9 +20,9 @@ Adherence measures how closely agents follow their schedule to complete their as
 
 Schedule adherence helps your organization to do the following actions:
 
--   Measure whether the effort spent on [[explore-demand-forecast-configurable-wfo-cs|demand forecasting]] and scheduling team members is used in an optimal manner.
+-   Measure whether the effort spent on [demand forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explore-demand-forecast-configurable-wfo-cs.md) and scheduling team members is used in an optimal manner.
 -   Plan for more effective staffing needs in the future based on your insights into the historical use of agent resources.
--   Discover coaching opportunities for your agents when there are gaps in their adherence. For more information, see [[coaching-configurable-wfo-cs|Using Coaching in Workforce Optimization for Customer Service]].
+-   Discover coaching opportunities for your agents when there are gaps in their adherence. For more information, see [Using Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/coaching-configurable-wfo-cs.md).
 
 As a manager, you can do the following actions:
 
@@ -51,22 +51,14 @@ Consider the following steps to determine the schedule adherence and conformance
     6.  At the end-of-the-day, the agent's time worked summary is generated with key performance indicators \(KPIs\), such as Start Time, End Time, Planned Work, Time Not Worked, Available Non Planned Time, Time Worked, and Adherence%, Conformance %​.
 3.  The agent's manager logs in to Manager Workspace to view the agent's time worked in the **Team Calendar**. The manager can also view the agent's actual time worked and working pattern for all historical days. If required, the manager can coach the agent to a desired performance that fits in with the team culture.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[setup-scheduling-configurable-wfo-cs|Configure properties for schedule adherence and conformance]]
+[Configure properties for schedule adherence and conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-scheduling-configurable-wfo-cs.md)
 
-[[view-schedule-adherence-configurable-wfo|Monitor schedule adherence of your agents]]
+[Monitor schedule adherence of your agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-schedule-adherence-configurable-wfo.md)
 
-[[analyze-time-worked-summary-configurable-wfo-cs|Analyze adherence and conformance from the time worked summary]]
+[Analyze adherence and conformance from the time worked summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analyze-time-worked-summary-configurable-wfo-cs.md)
 
-## Related
-
-- [[explore-demand-forecast-configurable-wfo-cs|Demand Forecast in Workforce Optimization for Customer Service]]
-- [[coaching-configurable-wfo-cs|Using Coaching in Workforce Optimization for Customer Service]]
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[setup-scheduling-configurable-wfo-cs|Setting up Scheduling in Workforce Optimization for Customer Service]]
-- [[view-schedule-adherence-configurable-wfo|Monitor schedule adherence of your agents]]
-- [[analyze-time-worked-summary-configurable-wfo-cs|Analyze adherence and conformance from the time worked summary]]

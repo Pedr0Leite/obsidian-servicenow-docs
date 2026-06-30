@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Dropbox
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Dropbox service enables you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with the Dropbox service enables you to track your software subscriptions and to reclaim unused licenses.
 
 For more information about the Dropbox service, see the [Dropbox Business User and Admin Guides](https://www.dropbox.com/guide).
 
@@ -124,13 +124,13 @@ Create an integration profile to track software subscriptions and optimize licen
 
 ### Before you begin
 
-To create a Dropbox integration profile, request the Software Asset Management - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
+To create a Dropbox integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the Dropbox integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the Dropbox integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -159,7 +159,7 @@ Action
 
 </td></tr><tr><td id="d170980e520">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -230,7 +230,7 @@ In the **Analyze user activity** field, you can also select the date and time st
 
 **Note:** Software Asset Management pulls the events from the time that you start analyzing user activity irrespective of the profile creation date.
 
-You can modify this value in the Last activity threshold field of your [[sw-reclamation-rules|software reclamation rules]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+You can modify this value in the Last activity threshold field of your software reclamation rules. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
 </td></tr></tbody>
 </table>4.  In the Process configuration section, review the required user roles or API permissions specified in the **Vendor configuration** field for each process to minimize security risks and optimize SaaS licenses.
@@ -275,7 +275,7 @@ You can modify this value in the Last activity threshold field of your [[sw-recl
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -304,11 +304,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sw-reclamation-rules|Software reclamation rules]]
-- [[c_CreatingSoftwareModels|Software models]]

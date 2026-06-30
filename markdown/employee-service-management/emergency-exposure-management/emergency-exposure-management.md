@@ -28,11 +28,11 @@ Emergency Exposure Management provides tracing systems to use the following data
 -   Visitors log
 -   Handheld or wearable device proximity sensing data
 
-**Note:** Some of the tracing systems require you to install other [[safe-workplace|Safe Workplace]] suite and Emergency Response Management applications. For more information, see [Tracing systems in Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/tracing-systems-exposure-mgnt.md).
+**Note:** Some of the tracing systems require you to install other Safe Workplace suite and Emergency Response Management applications. For more information, see [Tracing systems in Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/tracing-systems-exposure-mgnt.md).
 
 You can also manually add users whom you know might have been potentially exposed to an affected user.
 
-In addition to using the base system tracing systems, you can set up a tracing system that uses your own data source to [[use-emergency-exposure-mgnt|identify potentially exposed users]]. For more information, see [Set up a tracing system for an exposure data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-tracing-system.md).
+In addition to using the base system tracing systems, you can set up a tracing system that uses your own data source to identify potentially exposed users. For more information, see [Set up a tracing system for an exposure data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-tracing-system.md).
 
 
 
@@ -105,7 +105,7 @@ ServiceNow is offering this application to government agencies and their authori
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
 -   **[Install Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/install-emergency-exposure-mgt.md)**  
-You can [[install-emergency-exposure-mgt|install Emergency Exposure Management]] if you have the admin role.
+You can install Emergency Exposure Management if you have the admin role.
 -   **[Set up Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-emergency-exposure-mgmt.md)**  
  After installing the Emergency Exposure Management application, set up tracing system for your data sources, diagnostic request task configuration, and register Microsoft applications.
 -   **[Identify potentially exposed users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/use-emergency-exposure-mgnt.md)**  
@@ -113,11 +113,5 @@ When a user has indicated a health condition on a self-report, use Emergency Exp
 -   **[Domain separation for Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/emergency-exposure-management-domain-separation.md)**  
 The following table lists the domain separation use cases for service providers \(SPs\) using this application.
 
-**Parent Topic:**[[emergency-response-management|Emergency Response Management]]
+**Parent Topic:**[Emergency Response Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-response-management.md)
 
-## Related
-
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[use-emergency-exposure-mgnt|Identify potentially exposed users]]
-- [[install-emergency-exposure-mgt|Install Emergency Exposure Management]]

@@ -14,11 +14,11 @@ breadcrumb: [Explore, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Source-to-Pay Workspace
 
-As a [[supplier|supplier]] manager, you can effortlessly onboard new suppliers, work on open supplier cases, assign tasks to supplier contacts, and respond to supplier requests using the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] application.
+As a supplier manager, you can effortlessly onboard new suppliers, work on open supplier cases, assign tasks to supplier contacts, and respond to supplier requests using the Source-to-Pay Workspace application.
 
 **Important:** Starting with the Washington D.C. release, Supplier Manager Workspace is being prepared for future deprecation. It will be hidden from the navigation and no longer be activated on new instances but will continue to be supported. Source-to-Pay Workspace provides the latest experience for this functionality. If you have upgraded to the Australia release and want to use the Supplier Manager Workspace, ensure that you run the **fixscript\_migrate\_workspace\_to\_smw.xml** fix script. For more information, see [Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/access-smw-after-upgrade.md).
 
-Open the Source-to-Pay Workspace by navigating to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+Open the Source-to-Pay Workspace by navigating to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 Alternatively, you can also navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
@@ -41,8 +41,3 @@ For more information, see [Source-to-Pay Workspace](https://raw.githubuserconten
 
 [Supplier Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-common.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

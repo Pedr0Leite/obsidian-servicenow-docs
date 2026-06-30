@@ -14,7 +14,7 @@ breadcrumb: [Viewing reports and dashboards in the Software Bill of Materials wo
 
 # Review the Home page in the Software Bill of Materials Workspace
 
-Uploaded data is rolled up to the visualizations on the landing \(Home\) page in the [[sbom-landing|Software Bill of Materials]] \(SBOM\) Workspace. Data is modified after you upload files so vulnerability analysts can see trends and review current information about your components.
+Uploaded data is rolled up to the visualizations on the landing \(Home\) page in the Software Bill of Materials \(SBOM\) Workspace. Data is modified after you upload files so vulnerability analysts can see trends and review current information about your components.
 
 ## Before you begin
 
@@ -57,7 +57,7 @@ If you have installed SBOM Response
 </td><td>
 
 The following data visualizations are displayed.-   All BOM Entities - A breakdown of BOM entities by type: Application, Container, Library, and Others. A BOM entity refers to the root level component in an SBOM file for which an SBOM document was generated and uploaded.
--   BOM Entities with [[vulnerabilities|Vulnerabilities]] - Entities that have a vulnerability associated with any component that they depend on. If an entity dependency has one **Critical** vulnerability, the entity's severity is considered critical.
+-   BOM Entities with Vulnerabilities - Entities that have a vulnerability associated with any component that they depend on. If an entity dependency has one **Critical** vulnerability, the entity's severity is considered critical.
 -   Active AVIs - The trend for the number of application vulnerable items \(AVI\)s created each day.
 The data visualizations display data for the last 30 days. The 30-day range isnâ€™t editable. This data is available after you've reviewed and set up the creation rules for application vulnerable items. For more information, see [Creating rules for application vulnerable items in the Software Bill of Materials Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-config-sbom-response.md).
 
@@ -102,14 +102,9 @@ The data visualizations display data for the last 30 days. The 30-day range isnâ
 
 6.  After you review records, you can delete one or more BOM Entity records if you determine you no longer need them.
 
-    **Note:** Deleting BOM entity records permanently removes them and their component [[stix-relationships|relationships]]. Any application vulnerable items \(AVIT\)s that are associated with the BOM entities transition to **Closed**. If you decide later that you want the records and component relationships you delete back on the BOM entities list and available in the workspace, you must upload these BOM entities again.
+    **Note:** Deleting BOM entity records permanently removes them and their component relationships. Any application vulnerable items \(AVIT\)s that are associated with the BOM entities transition to **Closed**. If you decide later that you want the records and component relationships you delete back on the BOM entities list and available in the workspace, you must upload these BOM entities again.
 
     1.  If not on the Home page, select the **Home** tab to return to it.
     2.  Select the records\(s\) under the **BOM Entities** list that you want to delete.
     3.  Select **Delete**.
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[stix-relationships|Relationships]]

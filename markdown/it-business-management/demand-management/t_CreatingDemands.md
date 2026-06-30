@@ -28,7 +28,7 @@ Role required: snc\_internal
     -   Navigate to **Self-Service** &gt; **Demands** &gt; **Create New**.
     -   If you have the it\_demand\_manager role, navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **Workbench** &gt; **New**.
 
-        **Note:** Demands created from the [[c_DemandWorkbench|Demand Workbench]] are in the Qualified state.
+        **Note:** Demands created from the Demand Workbench are in the Qualified state.
 
 2.  On the Demand New record form, fill in the fields.
 
@@ -45,11 +45,11 @@ Role required: snc\_internal
 -   When all required information is complete, move the demand to the Submitted state by selecting **Submit demand**. The demand then enters the formal evaluation workflow involving the demand manager and stakeholders.
 
 -   **[Create a qualified demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateANewQualifiedDemand.md)**  
-The demand manager can [[t_CreateANewQualifiedDemand|create a qualified demand]] from the [[c_DemandWorkbenchListView|demand workbench list view]].
+The demand manager can create a qualified demand from the demand workbench list view.
 -   **[Create a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-task.md)**  
 Create tasks for a demand to delegate cost, effort, risk, and benefit assessment activities. Assign a resource or group to the demand task to track the actual time and effort spent on performing the specified activities.
 -   **[Submit a time card for a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/submit-time-for-demand.md)**  
-The resources assigned to a demand task create and [[submit-time-card|submit a time card]] or time sheet to record the time spent on a demand task. The reported hours are used to calculate the actual cost and effort for a demand task.
+The resources assigned to a demand task create and submit a time card or time sheet to record the time spent on a demand task. The reported hours are used to calculate the actual cost and effort for a demand task.
 -   **[Create an artifact from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md)**  
 Create an artifact, such as a work item, from a demand so that you can track work on the demand.
 -   **[Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md)**  
@@ -57,7 +57,7 @@ Demand benefit plans capture the potential benefits accrued by the demand when t
 -   **[Create a non-monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-a-non-monetary-benefit-plan-for-a-demand.md)**  
 Create a non-monetary benefit plan to specify the estimated benefit in a category for a fiscal period. Demand benefit plans capture the potential non-financial benefits accrued by the demand when the demand is executed.
 -   **[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-monetary-and-non-monetary-benefit-plans.md)**  
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
 -   **[Create a demand cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md)**  
 Demand cost plans capture the costs of demands. Create a cost plan to specify the unit cost of a cost type for a fiscal period.
 -   **[View financial summary of cost and monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/view-financial-summary-demand.md)**  
@@ -67,9 +67,9 @@ A demand expense line is the cost associated with a specific source, such as a u
 -   **[Create and manage resource assignments for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md)**  
 As a resource requester, find the availability of the resources, and create and manage the resource assignments for a demand.
 -   **[Generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/generate-labor-cost-demand.md)**  
-[[generate-labor-cost-demand|Generate labor costs]] to view the expenses of resources using resource assignments and cost plans.
+Generate labor costs to view the expenses of resources using resource assignments and cost plans.
 -   **[Migrate budget of active demands to Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/fin-migrate-budget-demand.md)**  
-Migrate your demand budget to Next Experience to manage the financials using [[project-workspace-landing-page|Project Workspace]].
+Migrate your demand budget to Next Experience to manage the financials using Project Workspace.
 -   **[Migrate financial baselines of demands to Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/migrate-fin-baselines-demands.md)**  
 Migrate the financial baselines of demands to Next Experience to manage the financial using Project Workspace.
 -   **[Allocate budget to a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/allocate-budget-to-demand.md)**  
@@ -100,24 +100,13 @@ Planning and execution of your roadmap involves change in priority or timelines 
 
 [Move and resize a demand]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]
-- [[t_CreateANewQualifiedDemand|Create a qualified demand]]
-- [[c_DemandWorkbenchListView|Demand workbench list view]]
-- [[submit-time-card|Submit a time card]]
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

@@ -17,14 +17,9 @@ Configure the foundational details for Investigative Case Management.
 **Related topics**  
 
 
-[[psds-config-icm-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Investigative Case Management]]
+[Assign user personas, roles, groups, and responsibilities in Investigative Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-assign-user-roles-responsibilities.md)
 
-[[psds-data-model-icm-personas|Investigative Case Management Personas]]
+[Investigative Case Management Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-icm-personas.md)
 
-[[psds-config-icm-create-responsibilities|Configuring Investigative Case Management responsibility definitions]]
+[Configuring Investigative Case Management responsibility definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-create-responsibilities.md)
 
-## Related
-
-- [[psds-config-icm-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Investigative Case Management]]
-- [[psds-data-model-icm-personas|Investigative Case Management Personas]]
-- [[psds-config-icm-create-responsibilities|Configuring Investigative Case Management responsibility definitions]]

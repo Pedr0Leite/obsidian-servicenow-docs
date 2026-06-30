@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On your ServiceNow instance, navigate to **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Queues** and select your Queue.
+1.  On your ServiceNow instance, navigate to **All** &gt; **Advanced Work Assignment** &gt; **Queues** and select your Queue.
 
 2.  On your Queue form, check the **External** field checkbox.
 
@@ -47,6 +47,3 @@ Role required: admin
 
 You can perform a quick setup test using the demo data by connecting to your external provider. For more information, see [Define external routing test implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/define-extrnl-routng-plugin.md).
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

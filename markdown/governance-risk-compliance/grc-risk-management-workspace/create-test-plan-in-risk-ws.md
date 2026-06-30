@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Control testing** &gt; **Control test plans**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Control testing** &gt; **Control test plans**.
 
 2.  Click **New**.
 
@@ -132,6 +132,3 @@ Detailed steps, to carry out the operational expectations, which need to be perf
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

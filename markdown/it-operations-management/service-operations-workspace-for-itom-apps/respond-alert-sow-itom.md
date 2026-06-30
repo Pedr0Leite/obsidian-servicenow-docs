@@ -22,13 +22,13 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 ## About this task
 
-For users familiar with the classic [[c_EM|Event Management]] experience, this provides an easy interface with enhanced team support for creating response automations or alert management rules. Alert management rules or response automations are configurable automated actions triggered in response to alerts which match specific conditions, helping IT teams resolve issues faster and with minimal manual effort. These advanced features are currently only available to administrators and other personas mentioned in the role required section.
+For users familiar with the classic Event Management experience, this provides an easy interface with enhanced team support for creating response automations or alert management rules. Alert management rules or response automations are configurable automated actions triggered in response to alerts which match specific conditions, helping IT teams resolve issues faster and with minimal manual effort. These advanced features are currently only available to administrators and other personas mentioned in the role required section.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -151,8 +151,4 @@ Sends notifications to other systems using outbound webhooks. For example, this 
 
     The response automation that you created appears on the All response automations page where you can view, edit, or delete the existing automations.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

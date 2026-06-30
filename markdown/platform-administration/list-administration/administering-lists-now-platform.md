@@ -14,7 +14,7 @@ breadcrumb: [List administration, Forms, fields, and lists, Configure core featu
 
 # Administering lists on the ServiceNow AI Platform
 
-Administrators can control the sort sequence, allow personal lists, restrict filters and breadcrumbs, allow [[r_ContextRanking|context ranking]] and more.
+Administrators can control the sort sequence, allow personal lists, restrict filters and breadcrumbs, allow context ranking and more.
 
 ## Administration overview
 
@@ -50,6 +50,4 @@ Administrators can control the sort sequence, allow personal lists, restrict fil
 
     You can customize the content and behavior of list context menus.
 
-## Related
 
-- [[r_ContextRanking|Context ranking]]

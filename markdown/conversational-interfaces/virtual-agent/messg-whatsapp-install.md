@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(powered by Tw
 
 # Install Conversational Integration with WhatsApp \(powered by Twilio\)
 
-Install the [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] so that your business can interact with requesters on the WhatsApp app. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
+Install the Conversational Integration with WhatsApp \(powered by Twilio\) so that your business can interact with requesters on the WhatsApp app. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The following applications or plugins are installed with Conversational Integrat
 
 -   **Conversational Custom Chat Integration \(com.glide.cs.custom.adapter\)**
 
-    Provides custom chat integration framework of scriptable APIs to enable the [[virtual-agent-landing-page|Virtual Agent]] application on any conversational interface.
+    Provides custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
     For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md).
 
@@ -46,7 +46,7 @@ The following applications or plugins are installed with Conversational Integrat
 
     Enables complex objects.
 
--   **[[agent-init-messg-interface|Agent-Initiated Messaging Interface]] \(sn\_agent\_initiated\)**
+-   **Agent-Initiated Messaging Interface \(sn\_agent\_initiated\)**
 
     Provides configurations for the agent-initiated messaging capabilities. 
 
@@ -71,8 +71,4 @@ The following applications or plugins are installed with Conversational Integrat
 
 5.  Select **Install**.
 
-## Related
 
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

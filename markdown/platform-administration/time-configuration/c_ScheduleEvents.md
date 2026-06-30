@@ -16,7 +16,7 @@ breadcrumb: [System scheduler, Explore, Time configuration, Configure core featu
 
 You can use various tools for scheduling actions or tasks to happen in the future.
 
--   **Maintenance [[c_UseSchedules|schedules]]**
+-   **Maintenance schedules**
 
     Changes to the CMDB can be managed through the Maintenance Schedules plugin, which enables changes to be proposed and viewed through a timeline.
 
@@ -30,7 +30,7 @@ You can use various tools for scheduling actions or tasks to happen in the futur
 
 -   **Scheduled workflows**
 
-    Workflows provide a robust system for automating advanced multi-step processes. Workflows are triggered by conditions, like business rules, or they can be scheduled for a particular time/recurring schedule, like [[c_ScheduledJobs|scheduled jobs]].
+    Workflows provide a robust system for automating advanced multi-step processes. Workflows are triggered by conditions, like business rules, or they can be scheduled for a particular time/recurring schedule, like scheduled jobs.
 
 -   **Scheduled jobs**
 
@@ -40,12 +40,7 @@ You can use various tools for scheduling actions or tasks to happen in the futur
 -   **[Event registry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_EventRegistry.md)**  
 You can use events to schedule actions or tasks to occur when conditions are fulfilled.
 -   **[Set an inactivity monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_SetAnInactivityMonitor.md)**  
-You can [[t_SetAnInactivityMonitor|set an inactivity monitor]] that triggers an event for a task record when the task has been inactive for a certain amount of time.
+You can set an inactivity monitor that triggers an event for a task record when the task has been inactive for a certain amount of time.
 
 **Parent Topic:**[System scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_SystemScheduler.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[t_SetAnInactivityMonitor|Set an inactivity monitor]]

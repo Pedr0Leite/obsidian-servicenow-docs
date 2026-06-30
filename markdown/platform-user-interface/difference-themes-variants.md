@@ -12,7 +12,7 @@ breadcrumb: [Manage or edit a theme, Configuring Next Experience with Theme Buil
 
 # Core styles, colors, variants, and alternate color palettes
 
-You can tailor the look and feel of the [[next-experience-landing-page|Next Experience UI]] for different users by configuring the core styles, variants, and alternate color palettes. Core styles define the base theme, variants support accessibility needs, and alternate color palettes provide cosmetic customization options for end users.
+You can tailor the look and feel of the Next Experience UI for different users by configuring the core styles, variants, and alternate color palettes. Core styles define the base theme, variants support accessibility needs, and alternate color palettes provide cosmetic customization options for end users.
 
 ## Core styles in Theme Builder
 
@@ -38,15 +38,9 @@ Next, you define the primary color for the alternate color palette. This color i
 
 **Note:** Secondary and neutral colors cannot be edited in the dark alternate color palette.
 
-When the palette is created using the colors you selected, you have the option of renaming it. You can [[tb-preview-components|preview all the UI assets available on the ServiceNow AI Platform to visualize how they are rendered when you apply them to your instance]].
+When the palette is created using the colors you selected, you have the option of renaming it. You can [preview all the UI assets available on the ServiceNow AI Platform to visualize how they are rendered when you apply them to your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-preview-components.md).
 
-**Note:** Dark variants don’t apply to the [[c_UI16|Core UI]], previously referred to as UI16. The Core UI is the interface you use if Next Experience is inactive. However, dark variants extend to most aspects of the Next Experience.
+**Note:** Dark variants don’t apply to the Core UI, previously referred to as UI16. The Core UI is the interface you use if Next Experience is inactive. However, dark variants extend to most aspects of the Next Experience.
 
-**Parent Topic:**[[tb-edit-theme|Manage or edit a theme with Theme Builder]]
+**Parent Topic:**[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)
 
-## Related
-
-- [[tb-preview-components|Preview components]]
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[c_UI16|Core UI]]

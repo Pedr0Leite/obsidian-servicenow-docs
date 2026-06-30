@@ -14,11 +14,11 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Mapping employees to their designated workspaces
 
-Map your employees to their designated workplace locations in [[workplace-safety-mgmt-hr|Workplace Core]] automatically to fill in that detail in reservation requests and to take advantage of auto-assignment of workspaces if that feature has been enabled.
+Map your employees to their designated workplace locations in Workplace Core automatically to fill in that detail in reservation requests and to take advantage of auto-assignment of workspaces if that feature has been enabled.
 
 For employees who had a designated workspace before they started working remotely, create a mapping between the user profile and the designated workspace details. This mapping populates the workspace details on reservation request forms so employees don't have to provide these details manually.
 
-If your system administrator has enabled the auto-assign feature, mapping workspaces for all employees also means that designated workspaces are automatically assigned when employees [[reservation-portal|make a reservation]] request.
+If your system administrator has enabled the auto-assign feature, mapping workspaces for all employees also means that designated workspaces are automatically assigned when employees make a reservation request.
 
 The data from the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table is used to automatically assign the designated workspace to the employee.
 
@@ -30,7 +30,7 @@ The data from the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] t
 
 **Note:** From Workplace Core version 2.16.1, the workplace user profiles are created in the Workplace Profile Location Assignment \[sn\_wsd\_core\_workplace\_profile\_location\] table. A new field **Is Primary** is added in the table so that you can specify if a location is the primary location when there are multiple locations. In case of existing user profiles created in the User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table, a fix script runs and automatically considers the latest workplace location added to the profile as the primary workplace location.
 
-If you have installed [[workplace-space-mgmt-ovw|Workplace Space Management]] application, as a Workplace manager, you can also view the reason for an anomaly in a workplace profile if there are any. A schedule job also enables you to view a detailed report of all the anomalies logged in the application via an email. Navigate to **Workplace Core** &gt; **Administration** &gt; **Workplace profiles** and switch to the Space Management view, a **Reason for anomaly** column appears as a Glide list. An anomaly can happen due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md).
+If you have installed Workplace Space Management application, as a Workplace manager, you can also view the reason for an anomaly in a workplace profile if there are any. A schedule job also enables you to view a detailed report of all the anomalies logged in the application via an email. Navigate to **Workplace Core** &gt; **Administration** &gt; **Workplace profiles** and switch to the Space Management view, a **Reason for anomaly** column appears as a Glide list. An anomaly can happen due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md).
 
 From Workplace Space Management 1.12.0, only open spaces from the user's allocation type that are within the allocation start and end dates are listed. After an allocation expires, the anomaly is recalculated to the appropriate value.
 
@@ -84,8 +84,3 @@ Assign a primary location for the workplace profile if there are multiple locati
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

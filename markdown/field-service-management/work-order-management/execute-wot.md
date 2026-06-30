@@ -22,7 +22,7 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Click **Start Travel** when you begin your travel to work on the task.
 
@@ -30,14 +30,14 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
     -   When the agent clicks **Start Travel**, the customer receives a notification email and SMS that an agent is coming.
     -   A sub state **On Route** is automatically set to determine that you have started travel for the work order task.
-    -   The **Check-In** option appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [[t_ConfigureFieldService|Global domain configurations]].
+    -   The **Check-In** option appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 3.  Open the task record and do either of the following to mark your arrival or check-in at the work location.
 
     -   To perform any task related activities before starting work, click **Check-In**
 
         **Note:** At this stage, a notification is sent to the customer, informing them that the agent has arrived on-site and is ready to begin the work. For more information, see [Customer notifications for work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md). The substate **Onsite Arrival** is automatically set, indicating that you have reached your travel destination for the work order task.
 
-    -   To by-pass the check-in option and [[t_StartWork|start work]] directly, click **Start Work**.
+    -   To by-pass the check-in option and start work directly, click **Start Work**.
     -   The **Actual work start** field is automatically updated with the current system time, marking the beginning of the task.
     -   The work order task's state changes to **Work In Progress** to reflect that the task is actively being worked on.
     -   The **Actual travel duration** field is automatically calculated by the system. It measures the time difference between the **Actual travel start** and **Actual onsite arrival** timestamps, unless manually set.
@@ -62,8 +62,3 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 The cumulative amount of time worked on the task is captured in the **Actual Work Duration** field. This total includes the time you started working on the task until you closed work on the task, excluding any time paused on the work.
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[field-service-contractor-portal|Contractor Portal]]
-- [[t_StartWork|Start work]]

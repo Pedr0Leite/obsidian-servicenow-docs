@@ -12,7 +12,7 @@ breadcrumb: [View an assessment scorecard, Assessment administrator tasks, Using
 
 # Assessment scorecard head-to-head compare view
 
-The Head to Head Compare view allows you to compare the ratings of two [[c_assessable-records|assessable records]] of the same type. Select an assessable record from the choice list to compare against the current record's trailing twelve month \(TTM\) ratings.
+The Head to Head Compare view allows you to compare the ratings of two assessable records of the same type. Select an assessable record from the choice list to compare against the current record's trailing twelve month \(TTM\) ratings.
 
 ## Head to head compare
 
@@ -25,7 +25,7 @@ The Diff column displays the difference between each assessable record's most re
 The Overall Rating is calculated as:
 
 ```
-(sum of normalized values in category result) / (number of [[c_AssessmentGroups|assessment groups]])
+(sum of normalized values in category result) / (number of assessment groups)
 ```
 
 In the following example, the calculation is
@@ -38,7 +38,7 @@ In the following example, the calculation is
 
 \[Omitted image "OverallRatingExample.png"\] Alt text: Overall rating on the group scorecard
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -57,8 +57,3 @@ In the following example, the calculation is
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[c_assessable-records|Assessable records]]
-- [[c_AssessmentGroups|Assessment groups]]

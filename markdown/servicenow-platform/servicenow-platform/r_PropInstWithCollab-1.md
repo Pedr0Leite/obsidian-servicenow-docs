@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Properties installed with Connect
 
-Properties are added with activation of [[c_Connect|Connect]].
+Properties are added with activation of Connect.
 
 **Note:** To open the System Property \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-collaboration.[[email|email]]\_interval
+collaboration.email\_interval
 
 </td><td id="entry_CollaborationEmailIntervalDescription">
 
@@ -39,7 +39,7 @@ collaboration.frameset
 
 </td><td id="entry_CollaborationFramesetDescription">
 
-Determines whether the [[c_CollaborationOverlay|Connect overlay]] is visible \(enabled\). This property also impacts [[c_ConnectSupport|Connect Support]].-   **Type**: true \| false
+Determines whether the Connect overlay is visible \(enabled\). This property also impacts Connect Support.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Disable the Connect overlay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_DisableTheCollaborationOverlay.md)
@@ -60,7 +60,7 @@ connect.notification.audio\_alert
 
 </td><td id="entry_ConnectNotificationAudioAlertDescription">
 
-Specifies the audio file to play to [[notify-landing-page|notify]] users of new messages, support conversation transfers, and @mentions in Connect. This property's value must point to the **Name** field of a record in the Audio File \[db\_audio\] table. This property also impacts Connect Support.-   **Type**: string
+Specifies the audio file to play to notify users of new messages, support conversation transfers, and @mentions in Connect. This property's value must point to the **Name** field of a record in the Audio File \[db\_audio\] table. This property also impacts Connect Support.-   **Type**: string
 -   Default value: connect\_alert.mp3
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Customize the Connect audio notification sound](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_CustomizeConnectAudioNotifSound.md)
@@ -93,7 +93,7 @@ glide.connect.enabled
 
 </td><td id="entry_GlideConnectEnabledDescription">
 
-Hides the **Create or Join Chat Room** related link, which appears on the Incident form when legacy chat is enabled. Legacy chat and [[c_Collaboration|Connect Chat]] should not be used concurrently and this property should not be modified.-   **Type**: true \| false
+Hides the **Create or Join Chat Room** related link, which appears on the Incident form when legacy chat is enabled. Legacy chat and Connect Chat should not be used concurrently and this property should not be modified.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 
@@ -124,12 +124,3 @@ Determines whether the show Live Feed icon \(\[Omitted image "ShowLiveFeedIcon.p
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Connect|Connect]]
-- [[email|Email]]
-- [[c_CollaborationOverlay|Connect overlay]]
-- [[c_ConnectSupport|Connect Support]]
-- [[notify-landing-page|Notify]]
-- [[c_Collaboration|Connect Chat]]

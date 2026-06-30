@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Add an accordion to the TinyMCE HTML editor.
 
-    1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+    1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
     2.  Locate the system property, **glide.ui.html.editor.toolbar**.
 
@@ -48,6 +48,4 @@ Role required: admin
 
         \[Omitted image "TinyMCEV6-accordion\_icon.png"\] Alt text: TinyMCE v6.8.3 Accordion icon
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

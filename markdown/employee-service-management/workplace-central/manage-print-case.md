@@ -14,7 +14,7 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Managing print case
 
-Filter workplace cases using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace.
+Filter workplace cases using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the Workplace Central Case management workspace.
 
 Use one of the following options to proceed:
 
@@ -56,9 +56,9 @@ Role required: sn\_wsd\_case.case\_reader
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select the **Case Management** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
@@ -99,9 +99,4 @@ Role required: sn\_wsd\_case.case\_reader
 
     You can view the consolidated report with the selected case details in a new Workplace Task page.
 
-## Related
 
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Workflow stages, Workflow management, Classic Workflow, ServiceNow 
 
 # Use workflow stages
 
-You can add or modify [[c_WorkflowStages|workflow stages]].
+You can add or modify workflow stages.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: workflow\_admin, workflow\_creator, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  Create a new workflow by clicking **New** or open an existing workflow.
 
-3.  In the [[r_WorkflowProperties|Workflow Properties]] form, if the table is not the Requested Item \[sc\_req\_item\] table, select a field to display stages in the **Stage** field property.
+3.  In the Workflow Properties form, if the table is not the Requested Item \[sc\_req\_item\] table, select a field to display stages in the **Stage** field property.
 
     [Available fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md) depend on the table selected for the workflow.
 
-4.  After assigning a list of stages to the workflow, you can set a stage value in any of the [[c_WorkflowActivities|workflow activities]] that provide a **Stage** field in their dialog box.
+4.  After assigning a list of stages to the workflow, you can set a stage value in any of the workflow activities that provide a **Stage** field in their dialog box.
 
     Setting a stage value in a workflow activity tells the workflow engine to assign that stage to the record associated with the workflow context when the activity is encountered during a run.
 
@@ -82,9 +82,3 @@ When the **Order equipment**, **Receive equipment**, or **Add equipment to CMDB*
 
 **Parent Topic:**[Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md)
 
-## Related
-
-- [[c_WorkflowStages|Workflow stages]]
-- [[workflow-editor|Workflow editor]]
-- [[r_WorkflowProperties|Workflow properties]]
-- [[c_WorkflowActivities|Workflow activities]]

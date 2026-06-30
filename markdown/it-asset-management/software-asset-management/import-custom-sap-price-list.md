@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Import custom SAP price lists
 
-Import custom SAP price lists into your ServiceNow® instance so that you can track and manage SAP licenses based on the [[c_Contracts|contracts]] that are specific to your SAP system.
+Import custom SAP price lists into your ServiceNow® instance so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  From your ServiceNow instance, open the SAP Custom Price List Data \[imp\_samp\_sap\_custom\_price\_list\] table.
 
-    **Note:** The Application Scope of your ServiceNow instance must be set to **[[c_SoftwareAssetMgmt|Software Asset Management]] Professional for SAP**.
+    **Note:** The Application Scope of your ServiceNow instance must be set to **Software Asset Management Professional for SAP**.
 
     1.  On the page header of your ServiceNow instance, select **All**.
 
@@ -160,7 +160,7 @@ Microsoft Excel spreadsheet that contains the data that you want to insert or up
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -180,8 +180,3 @@ Microsoft Excel spreadsheet that contains the data that you want to insert or up
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Create a list in the IT Remediation Workspace
 
-With the List view in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]], you can view remediation tasks and records assigned to you and your groups. You can also track your exception and false positive requests for remediation tasks \(VUL, AVUL, CVUL, and CRG\), vulnerable items \(VIT, AVIT, and CVIT\), and test results \(TRs\) and view solutions.
+With the List view in the IT Remediation Workspace, you can view remediation tasks and records assigned to you and your groups. You can also track your exception and false positive requests for remediation tasks \(VUL, AVUL, CVUL, and CRG\), vulnerable items \(VIT, AVIT, and CVIT\), and test results \(TRs\) and view solutions.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **IT Remediation Workspace**.
+1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **IT Remediation Workspace**.
 
 2.  Select the List icon \(\[Omitted image "listview-icon.png"\] Alt text: List icon\).
 
@@ -35,7 +35,7 @@ Role required:
 
     -   Click a filtered list to view the total number of active remediation tasks or records assigned to you or your group. See [Use remediation task records in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-remed-task.md) for more information about what you can do from these records.
     -   View the total number of VIs assigned to you or your groups that have solutions. Click the **Preferred solutions on VIs** card to display the list.
-    -   See the vulnerable CIs assigned to you and your groups that have [[vulnerabilities|vulnerabilities]] on them on the **Vulnerable CIs** tab or on the Vulnerable CIs assigned to you and your group list on the List view.
+    -   See the vulnerable CIs assigned to you and your groups that have vulnerabilities on them on the **Vulnerable CIs** tab or on the Vulnerable CIs assigned to you and your group list on the List view.
 3.  Select the **My Lists** tab.
 
 4.  Select **Add new list**.
@@ -174,9 +174,3 @@ Details about the records are displayed in the right side panel of the page.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]

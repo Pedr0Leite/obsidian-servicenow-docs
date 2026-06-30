@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Universal Request state mapping
 
-All workflows consist of states, transitions, and reasons. Map your service-specific states to the [[ur-landing-limitedaccess|Universal Request]] states to provide a better user experience during request state transition.
+All workflows consist of states, transitions, and reasons. Map your service-specific states to the Universal Request states to provide a better user experience during request state transition.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ By mapping the states of the service to the UR state, it is ensured that the cor
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

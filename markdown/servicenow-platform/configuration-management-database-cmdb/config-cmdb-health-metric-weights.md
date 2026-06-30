@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Configure aggregation weights for CMDB Health scores
 
-Metrics health scores are aggregated into their respective KPI \(key performance indicator\) scores, which in return are aggregated into the overall [[c_CMDBHealth|CMDB Health]] score. Modify the default aggregation weights for metrics and KPIs to reflect on the importance of one metric over another is assessing the health of CMDB in the organization.
+Metrics health scores are aggregated into their respective KPI \(key performance indicator\) scores, which in return are aggregated into the overall CMDB Health score. Modify the default aggregation weights for metrics and KPIs to reflect on the importance of one metric over another is assessing the health of CMDB in the organization.
 
 ## About this task
 
@@ -41,6 +41,3 @@ Role required: sn\_cmdb\_editor, sn\_cmdb\_admin, itil, or itil\_admin
     -   The sum of the percentage weights of all metrics for a KPI, must add up to 100.
     -   The sum of the percentage weights of all three KPIs \(correctness, compliance, completeness\) must add up to 100.
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

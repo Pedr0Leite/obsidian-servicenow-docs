@@ -14,7 +14,7 @@ breadcrumb: [Enterprise portfolios, Work with portfolios, Digital Portfolio Mana
 
 # Navigate portfolio types in Digital Portfolio Management
 
-Navigate three types of [[dpm-enterprise-portfolios|enterprise portfolios]] in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) application — service, business [[dex-workspace-application-tab|applications]], and service instance. The way to create a portfolio depends on the type. As of May 2025, Enterprise portfolios are created directly in DPM. Business application and Service instance portfolios are created using the enterprise portfolios tables in the DPM module in UI16.
+Navigate three types of enterprise portfolios in the Digital Portfolio Management \(DPM\) application — service, business applications, and service instance. The way to create a portfolio depends on the type. As of May 2025, Enterprise portfolios are created directly in DPM. Business application and Service instance portfolios are created using the enterprise portfolios tables in the DPM module in UI16.
 
 Enterprise portfolios are structured in a nesting content tree format so you can easily navigate each type of enterprise portfolio. Access Enterprise portfolios using the Enterprise portfolio icon \(\[Omitted image "enterprise-portfolio-gray.png"\] Alt text: Enterprise portfolios icon.\). For more information about accessing enterprise portfolios, see [Navigate enterprise portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolio.md).
 
@@ -50,7 +50,7 @@ Taxonomy node
 **Note:** DPM versions prior to 2.2.15 may have duplicate services showing in the Service breakdown section. For information, see [KB1123710](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1182501).
 
     -   **Taxonomy node** tab with all the taxonomy nodes related to the portfolio.
-    -   **Services** tab that lists all services in the portfolio, with their parent, classification \(business or technical\), phase, status, criticality, and owned by name. You can also select **Create business service** or **Create technology management service** to perform those tasks in [[service-builder|Service Builder]].
+    -   **Services** tab that lists all services in the portfolio, with their parent, classification \(business or technical\), phase, status, criticality, and owned by name. You can also select **Create business service** or **Create technology management service** to perform those tasks in Service Builder.
     -   **Info** tab with a description and general information about the taxonomy node.
     -   **Needs attention** panel that lists critical incidents, outages, and changes.
 
@@ -205,9 +205,3 @@ The Overall risk is empty.
 
 [Navigate enterprise portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolio.md)
 
-## Related
-
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[service-builder|Service Builder]]

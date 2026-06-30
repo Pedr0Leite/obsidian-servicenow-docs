@@ -14,11 +14,11 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Configure Approval options
 
-Add approvers to approve cases created through [[workplace-services|Workplace services]].
+Add approvers to approve cases created through Workplace services.
 
 ## Before you begin
 
-**Warning:** Starting with [[workplace-case-mgmt-feat|Workplace Case Management]] version 1.8.2, the option to configure approval options has been moved to the core application [[workplace-safety-mgmt-hr|Workplace Core]] version 2.9.2. To create or view approval options, navigate to **Workplace Core** &gt; **Administration** &gt; **Performer Criteria**.
+**Warning:** Starting with Workplace Case Management version 1.8.2, the option to configure approval options has been moved to the core application Workplace Core version 2.9.2. To create or view approval options, navigate to **Workplace Core** &gt; **Administration** &gt; **Performer Criteria**.
 
 -   After the upgrade, the existing approvers are migrated from the Approval Option \[sn\_wsd\_case\_approval\_option\] table in the Workplace Case Management to the Workplace Performer Criteria \[sn\_wsd\_core\_performer\_criteria\] table in Workplace Core.
 -   The **Workplace Performer Criteria** has the same functionality as the Workplace Case Management **Approval** option. In addition, you can configure static approvers using the User criteria.
@@ -98,8 +98,3 @@ The Approval option is added and will be listed wherever approvals are configure
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

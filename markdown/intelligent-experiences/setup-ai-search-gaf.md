@@ -13,7 +13,7 @@ breadcrumb: [GAF, Configure, Now Assist AI agents, Enable AI experiences]
 
 # Set up AI Search for GAF
 
-Configure AI Search to enable Group Action Framework \(GAF\) to improve quality and consistency of agentic AI and [[platform-now-assist-landing|Now Assist]] generative AI on the Now Platform.
+Configure AI Search to enable Group Action Framework \(GAF\) to improve quality and consistency of agentic AI and Now Assist generative AI on the Now Platform.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [[group-action-framework|Group Action Framework]] for more information about GAF's role in intelligent experiences and how it works.
+GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/group-action-framework.md) for more information about GAF's role in intelligent experiences and how it works.
 
 Now Assist in AI Search is the foundation for GAF's optimized prediction feature. AI Search is the backup search for certain workflows, and if it is not enabled and ready, GAF will not return any results.
 
@@ -70,10 +70,5 @@ The tables for Now Assist in AI Search for your Now Assist application is indexe
 
 To confirm that indexing has occurred successfully, check the Indexed Source History related list and ensure that both the **Keyword Ingestion State** and **Semantic Ingestion State** are both set to **Indexed**.
 
-Once your tables have been indexed, you can continue to [[configure-gaf|Configure Group Action Framework]] to set up GAF for each application.
+Once your tables have been indexed, you can continue to [Configure Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md) to set up GAF for each application.
 
-## Related
-
-- [[group-action-framework|Group Action Framework]]
-- [[configure-gaf|Configure Group Action Framework]]
-- [[platform-now-assist-landing|Now Assist]]

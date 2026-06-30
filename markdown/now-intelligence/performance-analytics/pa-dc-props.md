@@ -58,7 +58,7 @@ The maximum number of records that a job can collect from a single indicator sou
 
  This limit applies separately to each indicator source included in a data collection job. The number of indicators associated with each indicator source does not affect this limit.
 
- For example, if a data collection job collects scores for 12 indicators from three [[c_IndicatorSources|indicator sources]], the job can collect a maximum of 150,000 records by default: 50,000 from each indicator source.
+ For example, if a data collection job collects scores for 12 indicators from three indicator sources, the job can collect a maximum of 150,000 records by default: 50,000 from each indicator source.
 
  **Warning:**
 
@@ -102,7 +102,7 @@ Maximum number of [breakdown elements](https://raw.githubusercontent.com/Service
 
  This limit applies separately to each breakdown source included in a data collection job. The number of breakdowns associated with each breakdown source does not affect this limit.
 
- For example, if a data collection job collects scores for 12 breakdowns from three [[breakdown-sources|breakdown sources]], the job can collect a maximum of 30,000 records by default: 10,000 from each breakdown source.
+ For example, if a data collection job collects scores for 12 breakdowns from three breakdown sources, the job can collect a maximum of 30,000 records by default: 10,000 from each breakdown source.
 
 **Warning:** Increasing this limit increases the processing load on the node.
 
@@ -199,7 +199,3 @@ Maximum number of sys IDs that are stored in a single Snapshot \[pa\_snapshots\]
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]

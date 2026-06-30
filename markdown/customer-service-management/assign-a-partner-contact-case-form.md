@@ -12,7 +12,7 @@ breadcrumb: [Case form, Customer Service forms, Reference, Customer Service Mana
 
 # Assign a partner contact on the case form
 
-Enable [[c_CustomerServiceManagement|Customer Service Management]] agents to assign partner contacts for an account that is associated to an install base item on the [[r_CustomerServiceCaseForm|case form]]. By adding partner contacts, you can provide access to multiple partners to access their accounts.
+Enable Customer Service Management agents to assign partner contacts for an account that is associated to an install base item on the case form. By adding partner contacts, you can provide access to multiple partners to access their accounts.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: customer service agent
 
 3.  In the **Install Base** field, use the search icon \[Omitted image "search\_icon.png"\] Alt text: Search icon. to add an install base item on the Create Case form.
 
-    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [[csm-case-task-form|Case task form]].
+    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [Case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-form.md).
 
 4.  In the **Partner** field, use the search icon to \[Omitted image "search\_icon.png"\] Alt text: Search icon. search for a partner associated with the selected account.
 
@@ -38,7 +38,7 @@ Role required: customer service agent
     -   All partner contacts with the partner admin role are eligible if **Restrict Account Access** is enabled.
     -   Partner contacts that are added as an Authorized Representative through the related party list for the install base item.
     -   Partner contacts that are added as an Authorized Account through the related party list for the install base item.
-    To add a related party to an install base item, see [[add-related-party-install-base|Add related parties to an install base item]].
+    To add a related party to an install base item, see [Add related parties to an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-related-party-install-base.md).
 
 6.  Select **Submit**.
 
@@ -47,9 +47,3 @@ Role required: customer service agent
 
 A partner contact is assigned to the case.
 
-## Related
-
-- [[csm-case-task-form|Case task form]]
-- [[add-related-party-install-base|Add related parties to an install base item]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]

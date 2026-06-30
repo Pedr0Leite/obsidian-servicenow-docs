@@ -14,7 +14,7 @@ breadcrumb: [PAFormulaUtils API, Get analytics methods in formulas, Formula indi
 
 # getCurrentElementID\(\)
 
-Returns the level 1 breakdown element identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] changes.
+Returns the level 1 breakdown element identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the Analytics Hub changes.
 
 Use this method when altering a formula for a specific element. For example, use the method when running a query to count different attributes, such as excluding scores for changes from groups that do not change.
 
@@ -77,6 +77,3 @@ res;
 
 [PAFormulaUtils API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFormulaUtils.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

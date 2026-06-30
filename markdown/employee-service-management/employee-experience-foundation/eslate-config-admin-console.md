@@ -19,11 +19,11 @@ Using admin console, you can configure branding and data sources, internal and e
 
 ## Before you begin
 
-Before you configure [[employee-slate-nowassist|Employee Slate for Now Assist]], verify the following prerequisites:
+Before you configure Employee Slate for Now Assist, verify the following prerequisites:
 
 -   You have the administrator role on the instance.
 -   The Employee Slate for Now Assist foundational plugin is installed from the Product Hub page.
--   The [[employee-slate-advanced|Employee Slate Advanced]] plugin is installed if the deployment requires the advanced experience.
+-   The Employee Slate Advanced plugin is installed if the deployment requires the advanced experience.
 -   Now Assist is provisioned on the instance.
 
 Role required: Administrator
@@ -78,11 +78,11 @@ The Product Configuration console organizes the configuration work into modules 
 
 9.  In the **Canvas Configuration** module, configure the default canvas view and the widget library.
 
-    -   Select **Edit default view** to [[eslate-configure-canvas|configure the default canvas dashboard]].
+    -   Select **Edit default view** to configure the default canvas dashboard.
     -   Use the **Widget library** to toggle the visibility of widgets that employees can add to their personal canvas. You can also create widgets and add to the library.
 10. In the **Documentation** module, go to **Documentation and references** for an overview of resources.
 
-    Review and learn from product documentation [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] content.
+    Review and learn from product documentation reference content.
 
 11. Select **Mark as configured** for each completed configuration section in the Admin Console.
 
@@ -95,16 +95,9 @@ The Product Configuration console organizes the configuration work into modules 
 
 ## Result
 
-[[employee-slate-landing-page|Employee Slate]] portal is configured with your organization branding and is ready for employee access.
+Employee Slate portal is configured with your organization branding and is ready for employee access.
 
 ## What to do next
 
 Sign in as a non-administrator employee, open Employee Slate in a browser session. Verify that the branding, content, and conversational assistant work as expected.
 
-## Related
-
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[eslate-configure-canvas|Configure the default canvas dashboard]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-slate-landing-page|Employee Slate]]

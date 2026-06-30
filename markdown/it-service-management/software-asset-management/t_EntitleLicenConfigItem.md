@@ -14,7 +14,7 @@ breadcrumb: [Software license entitlements for the legacy Software Asset Managem
 
 # Entitle a license to a configuration item using the legacy Software Asset Management plugin
 
-Use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to entitle a license to a configuration item, such as a computer or server, or a location, such as a city of building.
+Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to entitle a license to a configuration item, such as a computer or server, or a location, such as a city of building.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sam
 
 **Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatSWLicenseEntitlemnt.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

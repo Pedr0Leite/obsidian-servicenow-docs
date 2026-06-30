@@ -14,7 +14,7 @@ breadcrumb: [Creating and associating policy texts from Cloud documents, Policy 
 
 # Create and associate a policy text document in Google Drive
 
-[[t_DefineAPolicy-2|Create a policy]] text document in Google Drive and enable document editing with the approvers, reviewers, and contributors. You can share the document with your stakeholders and collaborate on the document editing in real-time.
+Create a policy text document in Google Drive and enable document editing with the approvers, reviewers, and contributors. You can share the document with your stakeholders and collaborate on the document editing in real-time.
 
 ## About this task
 
@@ -24,7 +24,7 @@ When personal authentication is enabled, the create, connect, and upload operati
 
 Role required: sn\_compliance\_ws.corporate\_compliance\_analyst, mp\_document\_user
 
-**Important:** Google document creation support is enabled from 19.1.1 version of [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application
+**Important:** Google document creation support is enabled from 19.1.1 version of Policy and Compliance Management application
 
 ## Procedure
 
@@ -99,7 +99,4 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst, mp\_document\_
 
     For more information, see [View the history of a redlining-enabled policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/view-history-policy-redlining.md).
 
-## Related
 
-- [[t_DefineAPolicy-2|Create a policy]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

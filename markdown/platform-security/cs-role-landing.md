@@ -12,13 +12,13 @@ breadcrumb: [Administer and Troubleshoot, Code Signing, Platform Security]
 
 # Roles installed with Code Signing
 
-[[code-signing-landing|Code Signing]] includes the following roles.
+Code Signing includes the following roles.
 
-**Parent Topic:**[[code-signing-reference|Code Signing reference]]
+**Parent Topic:**[Code Signing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-reference.md)
 
 ## Code signing admin \[codesigning\_admin\]
 
-Use the code signing admin role to assign codesigning\_manager and codesigning\_auditor roles to other [[users|users]].
+Use the code signing admin role to assign codesigning\_manager and codesigning\_auditor roles to other users.
 
 ### Contains Roles
 
@@ -38,7 +38,7 @@ Avoid granting an admin role when more specialized roles are available.
 
 ## Code signing manager \[codesigning\_manager\]
 
-Use the code signing manager role to create and update signature [[sc-configuration|configuration]], and create and run code signing jobs.
+Use the code signing manager role to create and update signature configuration, and create and run code signing jobs.
 
 ### Contains Roles
 
@@ -76,9 +76,3 @@ None.
 
 None.
 
-## Related
-
-- [[code-signing-reference|Code Signing reference]]
-- [[code-signing-landing|Code Signing]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

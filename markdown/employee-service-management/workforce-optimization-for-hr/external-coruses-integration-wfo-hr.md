@@ -26,7 +26,7 @@ Role required: sn\_hr\_wfo.admin
 
 2.  Click the coaching icon.
 
-3.  Click the **[[exploring-learning-exp|Learning]]** tab.
+3.  Click the **Learning** tab.
 
 4.  Go to **Learning Courses** &gt; **External Courses**.
 
@@ -44,6 +44,3 @@ Assign a course item to one or more agents and add a due date for them to comple
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

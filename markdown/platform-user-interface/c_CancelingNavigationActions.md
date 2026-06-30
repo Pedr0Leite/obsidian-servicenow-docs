@@ -20,7 +20,7 @@ One of the following conditions must be true for the Request Manager to cancel a
 
 -   Both the original transaction and new transaction are cancelable \(both transactions have the setting **sysparm\_cancelable=true**\).
 -   The original transaction is a member of the always cancelable allow list \(the module is listed in the **glide.request\_manager.always\_cancel** system property\) and the new transaction is cancelable \(has the setting **sysparm\_cancelable=true**\).
--   Both the original and new transaction produce an auto-completer query in a [[onboarding-modals-reference|reference]] field.
+-   Both the original and new transaction produce an auto-completer query in a reference field.
 
 ## Cancellation workflow
 
@@ -81,16 +81,10 @@ There are three use cases where administrators can control user cancellation act
 2.  A user clicks a module that displays read-only data, such as a report \(`sys_report_template.do?sysparm=sysid`\), and while waiting for the module to load decides to navigate to another module, such as the list of open incidents \(`incident_list.do`\). The system properties **glide.request\_manager.cancel\_other\_transaction** and **glide.request\_manager.always\_cancel** control this use case.
 3.  A user starts typing a query in a reference field, such as entering `PRB` in the related Problem field and while waiting for the auto-completer to display results, decides to enter more information, such as `PRB000`. The system properties **glide.request\_manager.cancel\_other\_transaction** and **glide.request\_manager.cancel\_reference\_completer** control this use case.
 
--   **[[t_AddSitesAlwaysCancelWhiteList|Add sites to the always cancel list]]**  
+-   **[Add sites to the always cancel list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddSitesAlwaysCancelWhiteList.md)**  
 You can add UI pages or other links to the always cancel list so that users can cancel actions on these pages by navigating to another module or link.
--   **[[t_PrevUsersCancelModTrans|Prevent users from canceling module transactions]]**  
+-   **[Prevent users from canceling module transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_PrevUsersCancelModTrans.md)**  
 You can explicitly prevent users from canceling the activity of a module by updating the module definition.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[t_AddSitesAlwaysCancelWhiteList|Add sites to the always cancel list]]
-- [[t_PrevUsersCancelModTrans|Prevent users from canceling module transactions]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[onboarding-modals-reference|Reference]]

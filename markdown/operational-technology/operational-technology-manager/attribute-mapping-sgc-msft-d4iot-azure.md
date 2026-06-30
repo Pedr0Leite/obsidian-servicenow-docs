@@ -2461,7 +2461,7 @@ All
 
 </td><td>
 
-[[operational-technology-overview|Operational Technology]] \(OT\)
+Operational Technology \(OT\)
 
 </td><td>
 
@@ -2830,6 +2830,3 @@ Same as when the operating system isn't present.
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

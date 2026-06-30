@@ -15,7 +15,7 @@ breadcrumb: [Accounts Payable Specialist manual tasks, Work on an invoice proces
 
 # Check for invoice exceptions on a single invoice
 
-Manually check for exceptions on a single invoice in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] when you want to identify and resolve issues before continuing to process the invoice.
+Manually check for exceptions on a single invoice in the Source-to-Pay Workspace when you want to identify and resolve issues before continuing to process the invoice.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-The **Check exceptions** option is available for all [[invoices|invoices]] that are in **Exceptions found** state.
+The **Check exceptions** option is available for all invoices that are in **Exceptions found** state.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -37,9 +37,9 @@ The **Check exceptions** option is available for all [[invoices|invoices]] that 
 
 5.  Select **View invoice processing case**.
 
-    **Note:** If you open an invoice processing case for an invoice that is in Exceptions found status, the [[invoice-processing-case-form|invoice processing case form]] displays the following notification at the top:
+    **Note:** If you open an invoice processing case for an invoice that is in Exceptions found status, the invoice processing case form displays the following notification at the top:
 
-    `Invoice has one or more exceptions. Resolve all issues in "[[work-with-invoice-exceptions|Invoice exceptions]]" to continue processing.`
+    `Invoice has one or more exceptions. Resolve all issues in "Invoice exceptions" to continue processing.`
 
 6.  On the invoice processing case form, select **Check exceptions**.
 
@@ -71,10 +71,3 @@ The **Check exceptions** option is available for all [[invoices|invoices]] that 
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-processing-case-form|Invoice processing case form]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

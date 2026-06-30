@@ -22,9 +22,9 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+1.  [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-2.  Navigate to **System Security** &gt; **[[sc-access-control|Access Control]] \(ACL\)**.
+2.  Navigate to **System Security** &gt; **Access Control \(ACL\)**.
 
 3.  Open an ACL with the type **record**.
 
@@ -49,7 +49,4 @@ Role required: security\_admin
 
 6.  Show only the immediate ACLs related to the one you are viewing and hide the ACLs on tables from which the ACL table is extended and the generic wildcard \(\*\) ACLs by clicking **Show Effective**.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[sc-access-control|Access control]]

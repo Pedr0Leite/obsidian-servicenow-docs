@@ -24,13 +24,13 @@ Role required if using the Walk-up Experience for business locations: sn\_custom
 
 Use customer central to get a quick insight into key customer information and recent activity from the customer, who is contacting support. You can filter by date or facet to access the information you require.
 
-**Note:** Accounts require contact information to display account information in [[customer-central|Customer Central]].
+**Note:** Accounts require contact information to display account information in Customer Central.
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]], you can access Customer Central from within the Interaction, Contact, Account, or Consumer records.
+In CSM Configurable Workspace, you can access Customer Central from within the Interaction, Contact, Account, or Consumer records.
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  On the Interaction, Contact, Account, or Consumer record, select Customer Information to view key information on the customer.
 
@@ -38,8 +38,4 @@ In [[csm-workspaces-configure|CSM Configurable Workspace]], you can access Custo
 
 4.  Create a case or close the record.
 
-## Related
 
-- [[customer-central|Customer Central]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

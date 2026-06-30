@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Customize job requisition state management workflow
 
-Add new job requisition states or customize the [[job-req-state-mngmnt|job requisition state management]] workflow according to your organizational needs.
+Add new job requisition states or customize the job requisition state management workflow according to your organizational needs.
 
 Customize the job requisition state management workflow to add modifications to the predefined workflow. For more information, see [Customize job requisition state management workflow \[KB1700566\]](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=43f8feb19318da10080af35d6cba1045).
 
@@ -33,6 +33,3 @@ To add a new job requisition state:
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[job-req-state-mngmnt|Job requisition state management]]

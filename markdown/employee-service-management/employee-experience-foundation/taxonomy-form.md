@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Taxonomy form
 
-Use the taxonomy form to create your own taxonomy for the [[employee-center-landing-page|Employee Center]] portal.
+Use the taxonomy form to create your own taxonomy for the Employee Center portal.
 
 <table id="table_vdm_zcw_rqb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Application
 
 </td><td>
 
-Application scope that the taxonomy belongs to.For example, [[employee-center-pro-landing|Employee Center Pro]] or [[deskless-kiosk-overview|Employee Center Pro Kiosk]].
+Application scope that the taxonomy belongs to.For example, Employee Center Pro or Employee Center Pro Kiosk.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Description of the taxonomy content.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -116,7 +116,7 @@ Description of the taxonomy content.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -138,10 +138,3 @@ Description of the taxonomy content.
 
 [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

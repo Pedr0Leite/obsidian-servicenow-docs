@@ -18,7 +18,7 @@ Use application fingerprints to discover the Varnish CI, to enable running Varni
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Role required: [[r-discovery|discovery]]\_admin
 
 5.  Select Discover Application.
 
-    Discovery locates an application CI for the varnishstat entry. The CI appears on the [[discovery-application-fingerprint-dashboard|Application Fingerprints dashboard]] in the **Created Applications** section.
+    Discovery locates an application CI for the varnishstat entry. The CI appears on the Application Fingerprints dashboard in the **Created Applications** section.
 
     \[Omitted image "app-fingerprints-dash.png"\] Alt text: Created Applications section of Application Fingerprints Dashboard
 
@@ -51,7 +51,3 @@ The Varnish policies and checks are available to run.
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-application-fingerprint-dashboard|Application Fingerprints dashboard]]

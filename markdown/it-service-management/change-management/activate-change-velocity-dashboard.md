@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Change Velocity dashboard
 
-You can activate the Performance Analytics - Content Pack - [[c_ITILChangeManagement|Change Management]] \(com.snc.pa.change\) and Process Optimization \(com.sn\_process\_optimization\) plugins if you have the admin role. These plugins include demo data and activates related plugins if they are not already active.
+You can activate the Performance Analytics - Content Pack - Change Management \(com.snc.pa.change\) and Process Optimization \(com.sn\_process\_optimization\) plugins if you have the admin role. These plugins include demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -82,7 +82,3 @@ Role required: admin
 
 [Activate Change Management - Data Archiving]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

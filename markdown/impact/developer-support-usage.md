@@ -12,7 +12,7 @@ breadcrumb: [Debug instance customizations with Developer Support, Platform Heal
 
 # Using Developer Support
 
-Learn more about using Developer Support and helpful information when submitting a developer request with [[impact-landing-page|Impact]].
+Learn more about using Developer Support and helpful information when submitting a developer request with Impact.
 
 ## Developer Support Boundaries
 
@@ -36,7 +36,7 @@ There are certain parameters to consider when submitting a Developer Support cas
     -   Available to the number of designated users per Impact Package subscription \(not including customer system administrators\):
         -   Five for Advanced Impact package
         -   Ten for Total Impact package
-    **Note:** See [[manage-developer-support-user-access|Manage Developer Support user access]] to designate users.
+    **Note:** See [Manage Developer Support user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/manage-developer-support-user-access.md) to designate users.
 
 -   **Infrastructure:**
     -   Supported version\(s\) of the release/feature/application/hardware are required
@@ -50,7 +50,3 @@ There are certain parameters to consider when submitting a Developer Support cas
     -   Scripts to consume the data from the integration \(only if the data is imported as expected\)
     -   Transform Map scripts
 
-## Related
-
-- [[manage-developer-support-user-access|Manage Developer Support user access]]
-- [[impact-landing-page|Impact]]

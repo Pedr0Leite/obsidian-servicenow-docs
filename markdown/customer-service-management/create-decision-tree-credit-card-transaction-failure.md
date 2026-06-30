@@ -46,8 +46,5 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## What to do next
 
-[[ask-card-holder-and-transaction-details|Configure the start node]] to ask for the user, card, and transaction details and determine if any amount was debited.
+[Configure the start node](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ask-card-holder-and-transaction-details.md) to ask for the user, card, and transaction details and determine if any amount was debited.
 
-## Related
-
-- [[ask-card-holder-and-transaction-details|Configure the start node for cardholder and transaction details]]

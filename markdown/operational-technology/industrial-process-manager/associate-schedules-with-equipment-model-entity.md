@@ -14,7 +14,7 @@ breadcrumb: [Managing an equipment model entity schedule, Configure, Industrial 
 
 # Associate a schedule with an equipment model entity
 
-Create one or more maintenance schedules for an equipment model entity, edit an existing schedule, or delete schedules with the [[industrial-process-manager-overview|Industrial Process Manager]] application.
+Create one or more maintenance schedules for an equipment model entity, edit an existing schedule, or delete schedules with the Industrial Process Manager application.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ View a schedule for an existing equipment model entity in the Industrial Process
 
 **Parent Topic:**[Managing an equipment model entity schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/managing-equipment-entity-schedules.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]

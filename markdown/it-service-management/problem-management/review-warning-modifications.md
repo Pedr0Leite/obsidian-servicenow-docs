@@ -14,7 +14,7 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Review warning modifications
 
-Warning [[migration-utility-modification|modifications]] do not block the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin from being activated.
+Warning modifications do not block the Problem Management Best Practice — Madrid — State Model plugin from being activated.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-For more information about warning and informational modifications and how to resolve them, see the [Problem Management [[migration-utility|Migration Utility]] - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
+For more information about warning and informational modifications and how to resolve them, see the [Problem Management Migration Utility - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
 
 ## Procedure
 
@@ -43,8 +43,3 @@ For more information about warning and informational modifications and how to re
 
 [Map problem states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/map-problem-state.md).
 
-## Related
-
-- [[migration-utility-modification|Modifications]]
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]

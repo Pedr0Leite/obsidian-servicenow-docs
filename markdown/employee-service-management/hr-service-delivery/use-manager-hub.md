@@ -14,12 +14,12 @@ breadcrumb: [Manager Hub, HR Service Delivery, Employee Service Management]
 
 # Use Manager Hub
 
-Support your team and find resources to grow as leaders using the [[manager-hub-overview|Manager Hub]] application.
+Support your team and find resources to grow as leaders using the Manager Hub application.
 
 ## Before you begin
 
 -   Role required: sn\_mh.manager\_hub\_user
--   Activate Manager Hub from ServiceNow Store. Manager Hub is available with the [[employee-center-pro-landing|Employee Center Pro]] application. Some of the features of Manager Hub work only when the [[hr-service-delivery|HR Service Delivery]] and [[employee-journey-management|Employee Journey Management]] applications are activated.
+-   Activate Manager Hub from ServiceNow Store. Manager Hub is available with the Employee Center Pro application. Some of the features of Manager Hub work only when the HR Service Delivery and Employee Journey Management applications are activated.
 -   [Configure Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-managerhub.md).
 
 ## Procedure
@@ -34,9 +34,4 @@ Support your team and find resources to grow as leaders using the [[manager-hub-
 
 5.  [View and Edit Employees Growth Plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-view-edit-employees-growth-plans.md)
 
-## Related
 
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-journey-management|Employee Journey Management]]

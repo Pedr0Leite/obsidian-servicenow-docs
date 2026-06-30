@@ -25,9 +25,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Properties**.
 
-    The [[acc-pay-properties|Accounts Payable Operations properties]] page appears. You are prompted with a message, "This record is in the [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] application, but Global is the current application. To edit this record, click here." On selecting, you are prompted with a message, "You are editing a record in the Accounts Payable Invoice Processing application."
+    The Accounts Payable Operations properties page appears. You are prompted with a message, "This record is in the Accounts Payable Invoice Processing application, but Global is the current application. To edit this record, click here." On selecting, you are prompted with a message, "You are editing a record in the Accounts Payable Invoice Processing application."
 
 2.  If you aren’t able to edit the property in the current application scope, select the word here in the message at the top of the page.
 
@@ -39,8 +39,4 @@ Role required: admin
 
     The changes to the application scope are saved. For more information on the form view options available for admin, AP admin and integrator roles, see [Accounts Payable Operations properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-properties.md).
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-properties|Accounts Payable Operations properties]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]

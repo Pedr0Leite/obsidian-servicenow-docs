@@ -13,13 +13,13 @@ breadcrumb: [Evaluate agentic AI assets, Now Assist AI agents, Enable AI experie
 
 # Explore agentic evaluations
 
-Automated evaluations test your agentic [[ai-assets|AI assets]] and help determine when they're ready for production. Learn more about how evaluations work, who they’re designed for, and the benefits they deliver.
+Automated evaluations test your agentic AI assets and help determine when they're ready for production. Learn more about how evaluations work, who they’re designed for, and the benefits they deliver.
 
 ## Agentic evaluations overview
 
 Automated agentic evaluations help give AI agent builders the confidence to deploy with objective, explainable evidence that their agents are ready for production. They remove the guesswork from quality assurance by running your agent against a defined dataset and applying LLM-powered judges to score quality, such as task completeness, response accuracy, and tool use. From there, the system generates recommended optimizations you can apply before triggering a re-evaluation to confirm improvements.
 
-Building agentic AI assets like AI agents and agentic workflows is an iterative process. Agentic evaluations are designed to verify the quality of the AI asset with in a structured way to help speed up the process. Because you're testing against representative [[ai-datasets|datasets]], you can be more confident in the performance of your agentic AI asset to handle real-world situations.
+Building agentic AI assets like AI agents and agentic workflows is an iterative process. Agentic evaluations are designed to verify the quality of the AI asset with in a structured way to help speed up the process. Because you're testing against representative datasets, you can be more confident in the performance of your agentic AI asset to handle real-world situations.
 
 Agentic evaluations can be run in non-production environments and don't require live deployment. They can be run during testing phases of agentic AI assets to help ensure that they can be deployed to a production environment while meeting your benchmarks and standards.
 
@@ -27,7 +27,7 @@ Agentic evaluations can be run in non-production environments and don't require 
 
 |User|Description|
 |----|-----------|
-|Agent builder|Developer or configurator who builds agents in [[ai-agent-studio|AI Agent Studio]]. Automated evaluations are designed so agent builders can run rigorous evaluations at scale.|
+|Agent builder|Developer or configurator who builds agents in AI Agent Studio. Automated evaluations are designed so agent builders can run rigorous evaluations at scale.|
 |Platform administrators|Platform administrators who govern which agents are approved for production can use automated evaluation results for evidence of quality before deployment.|
 |AI leads and architects|AI leads and architects can use automated evaluation results for audit trails and quality metrics across multiple agents.|
 
@@ -43,27 +43,16 @@ Agentic evaluations can be run in non-production environments and don't require 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Evaluate specific versions of agentic AI assets for quality|[[evaluating-aia|Execute an evaluation run]]|Agent builders|
-|Set your own standards for agentic AI responses and performance|[[create-custom-metric|Custom metrics]]|Agent builders, Platform administrators, AI leads, and architects|
-|Track evaluations as they progress|[[track-aia-eval-progress|In-progress results]]|Agent builders|
-|Identify issues and trace them back to the source|[[review-aia-eval-outputs|Evaluation outputs]]|Agent builders, AI leads, AI architects|
-|Optimize agentic AI assets based on evaluation results|[[aia-eval-apply-optimization|System-generated optimization recommendations]]|Agent builders|
+|Evaluate specific versions of agentic AI assets for quality|[Execute an evaluation run](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/evaluating-aia.md)|Agent builders|
+|Set your own standards for agentic AI responses and performance|[Custom metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-custom-metric.md)|Agent builders, Platform administrators, AI leads, and architects|
+|Track evaluations as they progress|[In-progress results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/track-aia-eval-progress.md)|Agent builders|
+|Identify issues and trace them back to the source|[Evaluation outputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/review-aia-eval-outputs.md)|Agent builders, AI leads, AI architects|
+|Optimize agentic AI assets based on evaluation results|[System-generated optimization recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md)|Agent builders|
 
 ## What to explore next
 
 To learn more about configuring and using agentic evaluations, see:
 
 -   [Evaluating agentic AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/evaluating-aia.md)
--   [[ref-aia-eval|Reference for agentic evaluations]]
+-   [Reference for agentic evaluations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ref-aia-eval.md)
 
-## Related
-
-- [[evaluating-aia|Evaluating agentic AI assets]]
-- [[create-custom-metric|Create a custom metric for evaluating agentic workflows]]
-- [[track-aia-eval-progress|Track and monitor agentic evaluation progress]]
-- [[review-aia-eval-outputs|Review agentic evaluation outputs]]
-- [[aia-eval-apply-optimization|Apply optimizations to agentic AI assets and reevaluate]]
-- [[ref-aia-eval|Reference for agentic evaluations]]
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-agent-studio|AI Agent Studio]]

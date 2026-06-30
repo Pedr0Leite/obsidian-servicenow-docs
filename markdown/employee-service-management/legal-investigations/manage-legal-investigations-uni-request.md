@@ -18,7 +18,7 @@ When employees observe and report an ethics violation or similar incident, the r
 
 Due to the sensitivity of such cases, you can view and work on these universal requests for complaints based on the roles you've been assigned.
 
--   **[[ur-landing-limitedaccess|Universal Request]] routing agent**
+-   **Universal Request routing agent**
 
     With the sn\_uni\_req.sensitiveinfo\_agent role for handling sensitive requests, you can review and triage these universal requests.
 
@@ -32,11 +32,7 @@ Due to the sensitivity of such cases, you can view and work on these universal r
 
 
 -   **[Create an ethics legal matter from a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/create-legal-ticket-universal-request.md)**  
-[[create-legal-ticket-universal-request|Create an ethics legal matter from a universal request]] to get the Legal department's assistance in resolving the complaints.
+Create an ethics legal matter from a universal request to get the Legal department's assistance in resolving the complaints.
 
 **Parent Topic:**[Managing complaint requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/managing-legal-investigations-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[create-legal-ticket-universal-request|Create an ethics legal matter from a universal request]]

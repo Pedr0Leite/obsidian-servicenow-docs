@@ -14,8 +14,5 @@ breadcrumb: [Now Assist for Health and Safety, Health and Safety, Employee Servi
 
 # Using Now Assist for Health and Safety
 
-If you have a safety agent or manager role, you can summarize the safety incidents with the [[now-assist-hs-landing|Now Assist for Health and Safety]] application.
+If you have a safety agent or manager role, you can summarize the safety incidents with the Now Assist for Health and Safety application.
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Status report tracking by status
 
-Status reports in [[project-workspace-landing-page|Project Workspace]] use draft and published status to help project managers manage report readiness and stakeholder visibility.
+Status reports in Project Workspace use draft and published status to help project managers manage report readiness and stakeholder visibility.
 
 ## Draft state
 
@@ -46,6 +46,3 @@ The draft and published status provide clear value for both project managers and
 
 **Parent Topic:**[Create a status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Run Certificate discovery via Certificate Authority query
 
-Running Certificate [[r-discovery|discovery]] via Certificate Authority query allows for systematic identification and import of TLS certificates from specific Certificate Authorities, ensuring comprehensive tracking, management, and security of the certificate inventory. Discover TLS certificates from Certificate Authorities \(CA\) with [[cert-inventory-mgmt|Certificate Inventory and Management]], using Patterns for diverse certificate authority vendors.
+Running Certificate discovery via Certificate Authority query allows for systematic identification and import of TLS certificates from specific Certificate Authorities, ensuring comprehensive tracking, management, and security of the certificate inventory. Discover TLS certificates from Certificate Authorities \(CA\) with Certificate Inventory and Management, using Patterns for diverse certificate authority vendors.
 
 ## Before you begin
 
@@ -75,7 +75,3 @@ In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specif
 
 When your Discovery schedule runs, it automatically scans your files.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

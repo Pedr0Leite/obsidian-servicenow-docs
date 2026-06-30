@@ -22,7 +22,7 @@ Role required: rota\_Manager
 
 ## Procedure
 
-1.  Open the [[itsm-mobile-agent|ITSM Mobile Agent]] app and tap **My team**.
+1.  Open the ITSM Mobile Agent app and tap **My team**.
 
 2.  On the **On-call Schedule** tab, tap **Time-off requests**.
 
@@ -32,13 +32,10 @@ Role required: rota\_Manager
 
     **Note:** Add a reason for the time-off request rejection.
 
-4.  Tap the filter icon \(\[Omitted image "filter-[[settings-mobile|settings]].png"\] Alt text: Filter icon.\) to view specific time-off requests.
+4.  Tap the filter icon \(\[Omitted image "filter-settings.png"\] Alt text: Filter icon.\) to view specific time-off requests.
 
 5.  Tap the menu icon \(\[Omitted image "inveted-menu-ocs.png"\] Alt text: Icon menu.\) and select **Request time-off** to go to the Request time-off form.
 
 6.  Complete the required fields on the form and tap **Submit**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[settings-mobile|Settings]]

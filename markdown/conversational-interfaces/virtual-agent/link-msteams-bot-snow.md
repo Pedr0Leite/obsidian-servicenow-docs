@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with MS Teams for GCC-H, Specialized VA integrations f
 
 # Integrate your self-configured bot with Microsoft Teams for GCC-H or DoD
 
-Link your registered Microsoft Teams bot with your ServiceNow instance to integrate it with the [[virtual-agent-landing-page|Virtual Agent]]. Use your ServiceNow Virtual Agent application to install and configure [[teams-conv-integration|Conversational Integration with Microsoft Teams]].
+Link your registered Microsoft Teams bot with your ServiceNow instance to integrate it with the Virtual Agent. Use your ServiceNow Virtual Agent application to install and configure Conversational Integration with Microsoft Teams.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 
 2.  As a ServiceNow admin, set up the self-configured bot on the ServiceNow instance in the global scope.
 
-    1.  Log in to your ServiceNow instance and navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+    1.  Log in to your ServiceNow instance and navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
     2.  In **General Settings** under **Channels**, select **View All**.
 
@@ -82,8 +82,3 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams-gcch.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[convint-landing-page|Conversational Interfaces]]

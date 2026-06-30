@@ -14,7 +14,7 @@ breadcrumb: [Configure Guided Tours, Guided Tours, Adoption services, Configure 
 
 # Create Guided Tours with accessibility enabled
 
-The [[guided-tours-designer|Guided Tour Designer]] has accessibility features so that users can design tours using screen readers and keyboard navigation.
+The Guided Tour Designer has accessibility features so that users can design tours using screen readers and keyboard navigation.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: guided\_tour\_admin
 
 ## About this task
 
-Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [[c_SetUpSect508ComplianceFeature|Accessibility features]] section for more information.
+Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [Accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md) section for more information.
 
 ## Procedure
 
-1.  If accessibility features aren’t enabled, navigate to **User Administration** &gt; **[[c_UserPreferences|User Preferences]]** and enable the preference **glide.ui.accessibility**.
+1.  If accessibility features aren’t enabled, navigate to **User Administration** &gt; **User Preferences** and enable the preference **glide.ui.accessibility**.
 
 2.  Navigate to **Application** &gt; **Module**.
 
@@ -66,8 +66,3 @@ Tab to the panel on the right side to edit the name of the tour, copy the tour's
 
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[c_SetUpSect508ComplianceFeature|Enabling accessibility features]]
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[c_UserPreferences|User preferences]]

@@ -38,7 +38,7 @@ To set the time zone, the availability system property \[com.snc.availability.v2
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Administration** &gt; **Availability calculation [[settings-mobile|settings]]**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Administration** &gt; **Availability calculation settings**.
 
     \[Omitted image "spm2-avail-tz.png"\] Alt text: Availability calculation settings page.
 
@@ -92,7 +92,3 @@ To set the time zone, the availability system property \[com.snc.availability.v2
 
 [View availability results in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-view-availability-results.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[settings-mobile|Settings]]

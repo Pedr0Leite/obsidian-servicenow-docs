@@ -14,7 +14,7 @@ breadcrumb: [Migrating to cart layouts, Cart layout, Service Catalog customizati
 
 # Migrate customizations and enable cart layouts
 
-Move customization to [[c_ConfigureCartLayout|cart layout]] widgets, and then enable cart layouts.
+Move customization to cart layout widgets, and then enable cart layouts.
 
 ## Before you begin
 
@@ -32,11 +32,11 @@ Following are the UI macros whose customizations need migration before you enabl
 -   catalog\_cart\_default
 -   sc\_cart\_main
 
-In addition, if you have customized the com.glideapp.servicecatalog\_category\_view [[ui-page|UI page]], or the Catalog Cart dynamic content, you must migrate these customizations before you enable cart layouts.
+In addition, if you have customized the com.glideapp.servicecatalog\_category\_view UI page, or the Catalog Cart dynamic content, you must migrate these customizations before you enable cart layouts.
 
 ## Procedure
 
-1.  Save copies of the customizations for later [[reference|reference]].
+1.  Save copies of the customizations for later reference.
 
 2.  Revert the customizations to restore the customized macros or other content to their standard state.
 
@@ -50,14 +50,8 @@ In addition, if you have customized the com.glideapp.servicecatalog\_category\_v
 
 5.  Reimplement any cart layout customizations that you want to maintain in the upgraded instance by configuring widget macros.
 
-6.  To enable cart layouts, set the [[service-catalog|service catalog]] system property **glide.sc.use\_cart\_layouts** to **Yes**.
+6.  To enable cart layouts, set the service catalog system property **glide.sc.use\_cart\_layouts** to **Yes**.
 
 
 **Parent Topic:**[Migrating to cart layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MigrateCartLayouts.md)
 
-## Related
-
-- [[c_ConfigureCartLayout|Cart layout]]
-- [[ui-page|UI page]]
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]

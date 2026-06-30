@@ -14,7 +14,7 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Resolve Cloud Discovery errors in Cloud Discovery Workspace
 
-View the Cloud [[r-discovery|Discovery]] errors that occurred during the discovery and resolve them. You can view the errors for all the Cloud Discovery runs or a single Cloud Discovery run.
+View the Cloud Discovery errors that occurred during the discovery and resolve them. You can view the errors for all the Cloud Discovery runs or a single Cloud Discovery run.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cloud\_ops\_ws.cloud\_ops\_admin
 
 ## Procedure
 
-1.  Navigate to **[[cow-landing-page|Cloud Discovery Workspace]]** &gt; **Cloud Discovery**.
+1.  Navigate to **Cloud Discovery Workspace** &gt; **Cloud Discovery**.
 
 2.  Select **Errors**.
 
@@ -78,7 +78,7 @@ Ignore
 Cloud Discovery ignores the error.
 
 </td></tr></tbody>
-</table>6.  Check the **Error Status** column to see the results of the [[ccg-remediation|remediation]].
+</table>6.  Check the **Error Status** column to see the results of the remediation.
 
     Single retries complete quickly. Retries for large numbers of IP addresses can take several minutes.
 
@@ -90,8 +90,3 @@ Cloud Discovery ignores the error.
     -   **Pending Discovery**: Waiting for Discovery to start after you execute the **Retry discovery** action on all errors.
     -   **In Discovery**: Discovery is currently active.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[ccg-remediation|Remediation]]

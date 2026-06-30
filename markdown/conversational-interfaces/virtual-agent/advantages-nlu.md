@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Understanding \(NLU\) topic discovery in Virtual A
 
 # Advantages of natural language models over keywords
 
-Natural language models help [[virtual-agent-landing-page|Virtual Agent]] to process human language based on context and your company's data. In this way, what the user needs can be more accurately matched with a corresponding topic. Virtual Agent supports large language models \(LLMs\) and Natural Language Understanding \(NLU\).
+Natural language models help Virtual Agent to process human language based on context and your company's data. In this way, what the user needs can be more accurately matched with a corresponding topic. Virtual Agent supports large language models \(LLMs\) and Natural Language Understanding \(NLU\).
 
 ## Language is difficult
 
@@ -52,6 +52,4 @@ Virtual Agent provides two kinds of natural language topic discovery. You can us
 
     Use ServiceNow NLU or a supported provider to discover topics.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]

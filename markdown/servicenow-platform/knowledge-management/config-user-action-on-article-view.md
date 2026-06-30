@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure a user action for the article view page
 
-Configure a user action for the [[knowledge-management|Knowledge Management]] article view page in the Knowledge Management Service Portal.
+Configure a user action for the Knowledge Management article view page in the Knowledge Management Service Portal.
 
 ## Before you begin
 
@@ -88,7 +88,7 @@ Displays the **Create Incident** user action when a user clicks the overflow ico
 
 </td></tr><tr><td>
 
-Create Incident Action [[label|Label]]
+Create Incident Action Label
 
 </td><td>
 
@@ -116,7 +116,3 @@ Redirects the article view page to the latest accessible version of the article,
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[label|Label]]

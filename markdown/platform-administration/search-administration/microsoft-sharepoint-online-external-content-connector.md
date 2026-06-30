@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Microsoft SharePoint Online external content connector
 
-The Microsoft SharePoint Online external content connector retrieves pages from sites in your Microsoft SharePoint Online source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Microsoft SharePoint Online external content connector retrieves pages from sites in your Microsoft SharePoint Online source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to retrieve updated content and access permissions from your source system, or user permission crawls to retrieve updated security principals from your source system. Both types of crawl feed their data to AI Search for indexing.
 
@@ -27,7 +27,7 @@ Microsoft SharePoint Online pages built primarily with static text content autho
 
 Microsoft SharePoint Online pages are stored as `.aspx` files in a site's Site Pages library. These files can include static content in their CanvasContent1 and WikiFields metadata fields, but they can also include scripts that call a server-side engine to dynamically render viewable content at request time. The exact content rendered depends on user context, permissions, and web parts loaded as part of the page request.
 
-Rendering a page's full viewable content requires an authenticated user session. The Microsoft SharePoint Online connector can't [[t_ImpersonateAUserInUI16|impersonate a user]] to trigger this rendering process. As a result, the connector cannot capture the final HTML output that a web browser would display.
+Rendering a page's full viewable content requires an authenticated user session. The Microsoft SharePoint Online connector can't impersonate a user to trigger this rendering process. As a result, the connector cannot capture the final HTML output that a web browser would display.
 
 For each page retrieved, the Microsoft SharePoint Online connector queries the SharePoint REST API's `_api/web/lists('<list-id>')/items(<item-id>)` endpoint to access the page's underlying list item. Via this API endpoint, the connector retrieves content primarily from the page's CanvasContent1 and WikiFields metadata fields, and also captures the page's other metadata fields such as title, author, and modification date where available. Page content stored exclusively in dynamic web parts may be retrieved only partially or not at all, since that content doesn't exist in the list item metadata.
 
@@ -36,7 +36,7 @@ To learn how to view the portion of a page's content that can be retrieved using
 -   **[Estimate document volume for Microsoft SharePoint Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/estimate-doc-volume-mspo.md)**  
 Estimate the total number of documents included in your Microsoft SharePoint Online source system and the document counts for individual sites. Use this information to determine crawl scope settings needed for your Microsoft SharePoint Online external content connector.
 -   **[Create a public/private key pair for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/gen-cert-spo-ext-cont-connector.md)**  
-Generate a public/private key pair for the Microsoft SharePoint Online external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra [[admin-center-intro|admin center]].
+Generate a public/private key pair for the Microsoft SharePoint Online external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
 -   **[Configure Microsoft SharePoint Online for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-azure-spo-ext-cont-connector.md)**  
 Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft SharePoint Online external content connector to access your Microsoft SharePoint Online source system.
 -   **[Configure site and site collection access for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-site-collection-access-spo-external-content-connector.md)**  
@@ -57,8 +57,3 @@ Review the elements of of a Microsoft SharePoint Online page's content that can 
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[t_ImpersonateAUserInUI16|Impersonate a user]]
-- [[admin-center-intro|Admin Center]]

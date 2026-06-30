@@ -14,7 +14,7 @@ breadcrumb: [Creating Visual Task Boards, Using Visual Task Boards, Visual Task 
 
 # Add or remove a Visual Task Board member
 
-You can add and remove task board members using the members tab of the [[activity-stream-configurable-workspace|activity stream]]. You can also promote assignees to board members.
+You can add and remove task board members using the members tab of the activity stream. You can also promote assignees to board members.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ In the **Assignees** section, click **Promote All**.
 
 [Delete a Visual Task Board]()
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]

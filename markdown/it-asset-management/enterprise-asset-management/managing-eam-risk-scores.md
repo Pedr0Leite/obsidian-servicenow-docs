@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Managing risks scores in Enterprise Asset Management
 
-Manage risk scores in the [[enterprise-asset-management|Enterprise Asset Management]] application by creating configuration values for risk likelihood, risk impact, and risk scores.
+Manage risk scores in the Enterprise Asset Management application by creating configuration values for risk likelihood, risk impact, and risk scores.
 
 Assets associated to a model inherit the risk score values of the model. However, you can override the model risk scores by defining risk scores for the assets that are different from the risk score values specified on the model.
 
@@ -26,10 +26,10 @@ Access the Risk modules for the Enterprise Asset Management application by navig
 
 **Note:** For details on configuring values for likelihood, impact, and score, see [Create configuration values for risk likelihood](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/risk-likelihood-config.md), [Create configuration values for risk impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/risk-impact-config.md), or [Create configuration values for risk scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/risk-score-config.md).
 
-After you’ve configured the values in the Risk modules and frozen them, the heat maps are rendered on the following views on the [[using-eam-workspace|Enterprise Asset Workspace]]:
+After you’ve configured the values in the Risk modules and frozen them, the heat maps are rendered on the following views on the Enterprise Asset Workspace:
 
--   Enterprise [[asset-estate-view-am|asset estate view]]: heat map for asset scores
--   Enterprise [[model-management-view-am|model management view]]: heat map for model risk scores.
+-   Enterprise asset estate view: heat map for asset scores
+-   Enterprise model management view: heat map for model risk scores.
 
 If a model is no longer in the **Build** stage and you update the Model's risk scores, you can propagate the updated values to the associated assets using the **Update risk** button on the model form. On clicking this button, the **EAM - Update model risk values to asset** scheduled job runs and updates the risk values for all the assets associated with this model.
 
@@ -42,12 +42,5 @@ Use the Risk Impact module to create configuration values for the impact vector.
 -   **[Create configuration values for risk scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/risk-score-config.md)**  
 Use the Risk Score module to create configuration values for risk score bands.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[model-management-view-am|Model management view]]

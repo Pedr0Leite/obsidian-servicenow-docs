@@ -12,11 +12,11 @@ breadcrumb: [Configuring Now Assist Admin features, Now Assist, Enable AI experi
 
 # Activate Now Assist panel enhanced chat
 
-Activate the [[now-assist-center-now-assist-panel|Now Assist panel]] [[now-assist-panel-enhanced|enhanced chat]] to enable your agents to use [[now-assist-skills|Now Assist skills]], such as task summarization or [[now-assist-global-navigation|navigation]], in a side panel on the user interface.
+Activate the Now Assist panel enhanced chat to enable your agents to use Now Assist skills, such as task summarization or navigation, in a side panel on the user interface.
 
 ## Before you begin
 
-You must install at least one [[platform-now-assist-landing|Now Assist]] application before you can turn on the Now Assist panel.
+You must install at least one Now Assist application before you can turn on the Now Assist panel.
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -24,7 +24,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 You must have the now\_assist\_panel\_user role to have access to the Now Assist panel once you turn it on.
 
-To learn more about the Now Assist panel, and how it can assist your agents, see [[now-assist-panel-overview|Now Assist panel]].
+To learn more about the Now Assist panel, and how it can assist your agents, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ To learn more about the Now Assist panel, and how it can assist your agents, see
 
 4.  Select the **Add agent experiences** drop-down menu and then select **Unified Navigation app shell**.
 
-5.  Select the ellipsis to change the chat experience from [[now-assist-panel-standard|standard chat]] to enhanced chat.\[Omitted image "now-assist-panel-how-to-display.png"\] Alt text: Display experience screen.
+5.  Select the ellipsis to change the chat experience from standard chat to enhanced chat.\[Omitted image "now-assist-panel-how-to-display.png"\] Alt text: Display experience screen.
 
     **Important:** Switching to enhanced chat is permanent and can't be undone after you have selected **Save** and then **Save and continue**.
 
@@ -46,7 +46,7 @@ To learn more about the Now Assist panel, and how it can assist your agents, see
 
 8.  If you want to use assistants, you must activate them.
 
-    See [[now-assist-panel-activate-assistant|Activate Now Assist panel assistants]] for information on activating assistants.
+    See [Activate Now Assist panel assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-activate-assistant.md) for information on activating assistants.
 
 
 ## What to do next
@@ -58,16 +58,5 @@ For examples of the Now Assist panel in action for Now Assist applications, see 
 -   
 -   
 
-**Parent Topic:**[[configuring-na-landing|Configuring Now Assist Admin features]]
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[now-assist-panel-activate-assistant|Activate Now Assist panel assistants]]
-- [[configuring-na-landing|Configuring Now Assist Admin features]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-enhanced|Enhanced chat]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-global-navigation|Navigation]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-panel-standard|Standard chat]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Transfer email interactions
 
-Transfer an [[email-as-an-interaction|email interaction]] routed by AWA or CCaaS to another agent or queue when the interaction needs to be handled by a different team or individual.
+Transfer an email interaction routed by AWA or CCaaS to another agent or queue when the interaction needs to be handled by a different team or individual.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
--   For AWA -routed interactions routed by AWA, only available agents and AWA queues appear in the transfer options. When transferring to a queue, AWA routing [[gamification-components-rules|rules]] apply to assign the interaction to an eligible agent. When transferring to a specific agent, the interaction is directly assigned.
+-   For AWA -routed interactions routed by AWA, only available agents and AWA queues appear in the transfer options. When transferring to a queue, AWA routing rules apply to assign the interaction to an eligible agent. When transferring to a specific agent, the interaction is directly assigned.
 -   For CCaaS-routed interactions, only queues and agents configured in the external queues section appear in the transfer options.
 -   The full email thread and interaction history are preserved on transfer.
 -   The transferring agent's capacity is released on transfer. The receiving agent's capacity is blocked on assignment.
@@ -49,7 +49,3 @@ Role required: sn\_customerservice\_agent
 -   For CCaaS-routed interactions, the interaction record is updated in both CCaaS and the instance.
 -   The transferring agent's ownership and capacity are released. The receiving agent's capacity is blocked on assignment. Transfer details including source, target, and timestamp are logged in the Work Item table.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]
-- [[gamification-components-rules|Rules]]

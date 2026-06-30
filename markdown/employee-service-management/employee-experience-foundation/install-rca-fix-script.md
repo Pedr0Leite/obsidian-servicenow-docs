@@ -24,9 +24,9 @@ Role required: admin
 
 Install the following Employee Experience applications and subscriptions.
 
--   [[employee-center-landing-page|Employee Center]] Core
+-   Employee Center Core
 -   Employee Center
--   [[employee-center-pro-landing|Employee Center Pro]]
+-   Employee Center Pro
 -   Content Experiences
 -   Content Publishing
 
@@ -60,7 +60,3 @@ After you download the script file, perform the following steps.
 
 [Run fix scripts to update Employee Center]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

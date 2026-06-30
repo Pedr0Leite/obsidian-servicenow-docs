@@ -26,7 +26,7 @@ After you add the regulations, you can analyse the case to determine which regul
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  Select the Tasks icon \(\[Omitted image "icon-tprm-ws-tasks.png"\] Alt text: Electronic signature\).
 
@@ -104,6 +104,3 @@ Brief description of the regulation violation based on your analysis.
 
 **Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

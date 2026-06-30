@@ -12,7 +12,7 @@ breadcrumb: [Getting started mobile application, Mobile experience for CSM, Sche
 
 # Use mobile application to perform agent and manager tasks
 
-Customer service agents [[manage-cases|manage cases]] and real-time notifications help in taking immediate action. Customer service managers can approve escalations and perform tasks on major issues with a swipe.
+Customer service agents manage cases and real-time notifications help in taking immediate action. Customer service managers can approve escalations and perform tasks on major issues with a swipe.
 
 Agents \(sn\_customerservice\_agent​\) and customer service managers \(sn\_customerservice\_manager\) can perform routine actions and approvals effectively anytime and anywhere.
 
@@ -55,7 +55,7 @@ Add information to the case **Work Notes** or **Additional Comments** fields.
 
 </td></tr><tr><td>
 
-[[osp-assign-case|Assign a case]] to another agent
+Assign a case to another agent
 
 </td><td>
 
@@ -81,7 +81,7 @@ Assign an unassigned case to yourself.
 
 </td></tr><tr><td>
 
-[[osp-close-case|Close a case]]
+Close a case
 
 </td><td>
 
@@ -101,7 +101,7 @@ Tap the top menu and select **Edit Case**.
 
 </td><td>
 
-You can edit the following fields in the [[r_CustomerServiceCaseForm|Case form]]:-   Short description
+You can edit the following fields in the Case form:-   Short description
 -   Account
 -   Contact
 -   Needs attention
@@ -133,7 +133,7 @@ Tap the top menu and select **Propose Major Case**.
 
 </td><td>
 
-[[propose-major-case-candidate|Propose a case as a major case candidate]]. **Note:** This action is available if the Major Issue Management plugin is activated.
+Propose a case as a major case candidate. **Note:** This action is available if the Major Issue Management plugin is activated.
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ Enter search keyword in the search bar.
 
 </td><td>
 
-All cases except those in "Closed" state are listed. From the top menu, you can request for information, [[osp-escalate-case|escalate a case]], propose a solution and so on.
+All cases except those in "Closed" state are listed. From the top menu, you can request for information, escalate a case, propose a solution and so on.
 
 </td></tr><tr><td>
 
@@ -270,14 +270,5 @@ Review and approve change requests \(role: approver\_user\)**Note:** Agents with
 A change request requires team members or a manager to assess the change request. They evaluate the request and approve or reject.**Note:** When a change request is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[install-customer-service-mobile-app|Get started with the Customer Service mobile application]]
+</table>**Parent Topic:**[Get started with the Customer Service mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-customer-service-mobile-app.md)
 
-## Related
-
-- [[install-customer-service-mobile-app|Get started with the Customer Service mobile application]]
-- [[manage-cases|Manage cases]]
-- [[osp-assign-case|Assign a case]]
-- [[osp-close-case|Close a case]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[propose-major-case-candidate|Propose a case as a major case candidate]]
-- [[osp-escalate-case|Escalate a case]]

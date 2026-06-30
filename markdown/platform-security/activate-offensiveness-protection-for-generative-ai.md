@@ -21,11 +21,11 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## About this task
 
-Generative AI output is probabilistic, which means that the same input can produce different outputs. Some of the AI generated content may be offensive, which includes toxic, sexist, or other harmful language. Now Assist Guardian detects offensive content in both inputs and outputs, and [[logs|logs]] the event when it is detected. You can also configure it to block offensive material so that [[users|users]] see a standard error message instead of the generated response.
+Generative AI output is probabilistic, which means that the same input can produce different outputs. Some of the AI generated content may be offensive, which includes toxic, sexist, or other harmful language. Now Assist Guardian detects offensive content in both inputs and outputs, and logs the event when it is detected. You can also configure it to block offensive material so that users see a standard error message instead of the generated response.
 
-**Note:** Offensiveness detection applies only to specific Now Assist skills and workflows. It is not available for all Now Assist applications. For more information about the list of skills that support offensiveness detection, see [[now-assist-guardian|Now Assist Guardian]].
+**Note:** Offensiveness detection applies only to specific Now Assist skills and workflows. It is not available for all Now Assist applications. For more information about the list of skills that support offensiveness detection, see [Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md).
 
-You can [[export|export]] logs for review. For more information, see [[export-now-assist-guardian-logs|Export Now Assist Guardian logs]].
+You can export logs for review. For more information, see [Export Now Assist Guardian logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/export-now-assist-guardian-logs.md).
 
 ## Procedure
 
@@ -69,10 +69,3 @@ To deactivate offensiveness protection for a workflow, select more options \(\[O
 
 **Parent Topic:**[Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md)
 
-## Related
-
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[export-now-assist-guardian-logs|Export Now Assist Guardian logs]]
-- [[logs|Logs]]
-- [[users|Users]]
-- [[export|Export]]

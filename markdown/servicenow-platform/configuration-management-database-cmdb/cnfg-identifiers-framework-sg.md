@@ -14,11 +14,11 @@ breadcrumb: [Explore, Service Graph Workspace, Configuration Management Database
 
 # Configuration identifiers framework
 
-Configuration identifiers provide a framework that lets you customize some behaviors of a [[sg-workspace|Service Graph Workspace]] feature, enabling different settings for that feature, on different workspaces. Most importantly, you can use this customization framework when integrating a Service Graph Workspace feature into another workspace.
+Configuration identifiers provide a framework that lets you customize some behaviors of a Service Graph Workspace feature, enabling different settings for that feature, on different workspaces. Most importantly, you can use this customization framework when integrating a Service Graph Workspace feature into another workspace.
 
 ## Configuration identifier
 
-A configuration identifier \(also referred to as config identifier\) is a configuration element within the configuration identifiers framework. A config identifier contains custom settings for a Service Graph Workspace feature, that is applicable to a specific workspace. A config identifier contains settings and table-driven configurations used in a UX application such as a workspace. Using config identifiers lets you for example, integrate Service Graph Workspace [[cmdb-workspace-unified-map|Unified Map]] into another workspace, with the integrated Unified Map being customized for the workspace. Config identifiers are stored in the Config identifiers \[sn\_cmdb\_ws\_config\_identifier\] table.
+A configuration identifier \(also referred to as config identifier\) is a configuration element within the configuration identifiers framework. A config identifier contains custom settings for a Service Graph Workspace feature, that is applicable to a specific workspace. A config identifier contains settings and table-driven configurations used in a UX application such as a workspace. Using config identifiers lets you for example, integrate Service Graph Workspace Unified Map into another workspace, with the integrated Unified Map being customized for the workspace. Config identifiers are stored in the Config identifiers \[sn\_cmdb\_ws\_config\_identifier\] table.
 
 A config Identifier acts as the parent record for a set of configurations that are specific to a workspace and therefore overrides default behavior only for that workspace.
 
@@ -51,7 +51,3 @@ For more information about these roles, see [Components installed with Service G
     -   [Request additional attributes for new CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/add-att-create-ci-sg-workspace.md)
     -   [Limit the class list for new CIs created in a workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/limit-class-create-ci-workspace-sg.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-workspace-unified-map|Unified Map]]

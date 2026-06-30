@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Innovation Management, Innovation Manage
 
 # Idea category form
 
-Learn about the fields of the Idea category form. Use this form to create or edit the details of an idea category in [[innovation-management-landing|Innovation Management]].
+Learn about the fields of the Idea category form. Use this form to create or edit the details of an idea category in Innovation Management.
 
 <table id="table_jzp_4ry_phb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Active
 
 </td><td>
 
-Option for activating the idea category. If activated, the idea category appears in the [[create-an-idea-form|Create an Idea form]] and the Category list of the Idea Portal.Default: Selected
+Option for activating the idea category. If activated, the idea category appears in the Create an Idea form and the Category list of the Idea Portal.Default: Selected
 
 </td></tr><tr><td>
 
@@ -67,7 +67,3 @@ The domain to which the idea category belongs.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/form-field-information-for-innovation-management.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]
-- [[create-an-idea-form|Create an Idea form]]

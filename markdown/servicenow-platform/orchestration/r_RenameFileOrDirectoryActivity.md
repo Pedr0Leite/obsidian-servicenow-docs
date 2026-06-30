@@ -20,7 +20,7 @@ The Rename File or Directory activity renames a file or directory to a new name 
 
 |Variable|Description|
 |--------|-----------|
-|sourceHost|Name or [[ip-address|IP address]] of the server containing the file or directory you want to rename.|
+|sourceHost|Name or IP address of the server containing the file or directory you want to rename.|
 |sourcePort|Port number to use to communicate with the target server. The default port number is **22**.|
 |sourceFilePath|Full path to the file or directory to rename.|
 |targetFilePath|Full path to the renamed file or directory.|
@@ -42,6 +42,3 @@ The Rename File or Directory activity renames a file or directory to a new name 
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

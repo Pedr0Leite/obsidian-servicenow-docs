@@ -14,7 +14,7 @@ breadcrumb: [Set Employee Presence, Workplace Concierge, Workplace Service Deliv
 
 # Set in-office days
 
-As an employee, using the [[workplace-services-portal-hr|Workplace Service Portal]] and the [[employee-center-landing-page|Employee Center]], you can set your presence at the office.
+As an employee, using the Workplace Service Portal and the Employee Center, you can set your presence at the office.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Navigation
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace service portal**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
 The portal homepage opens.
 
@@ -46,7 +46,7 @@ The portal homepage opens.
 
     1.  Select **Catalog**.
     2.  Select **Browse by Categories**.
-    3.  In the [[workplace-services|Workplace Services]] Catalog, select **Site safety**.
+    3.  In the Workplace Services Catalog, select **Site safety**.
 **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog** &gt; **Site safety**.
 
 3.  Select **Employee Presence**.
@@ -100,9 +100,3 @@ You have set your in-office days. At any time, you can modify your selection, fo
 
 [Managing presence privacy settings]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]

@@ -16,7 +16,7 @@ Learn how to define a user criteria component's status as active or inactive.
 
 ## About this task
 
-By default, when you apply a user criteria to a component, the defined configuration is in an active state. Changing the state from active to inactive is performed in the web-based UI, via the [[mab-concept|Mobile App Builder]].
+By default, when you apply a user criteria to a component, the defined configuration is in an active state. Changing the state from active to inactive is performed in the web-based UI, via the Mobile App Builder.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -47,10 +47,5 @@ Role required: admin
 9.  Select and hold \(or right-click\) in the header and select **Save** from the menu.
 
 
-**Parent Topic:**[[user-criteria-permissions|User criteria permissions in mobile apps]]
+**Parent Topic:**[User criteria permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-permissions.md)
 
-## Related
-
-- [[user-criteria-permissions|User criteria permissions in mobile apps]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

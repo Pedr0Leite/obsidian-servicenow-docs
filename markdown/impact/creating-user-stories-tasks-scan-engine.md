@@ -18,11 +18,11 @@ You can generate user stories from open or resolved findings to facilitate the r
 
 Role required: admin
 
-**Note:** The Scan Engine integrates with Agile project management tools, including Jira, Azure DevOps, and ServiceNow Agile development. For information on configuring integration properties to automatically create work items from findings, refer to [[user-story-integration-properties|User story integration]].
+**Note:** The Scan Engine integrates with Agile project management tools, including Jira, Azure DevOps, and ServiceNow Agile development. For information on configuring integration properties to automatically create work items from findings, refer to [User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md).
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]**, and then select one of the following:
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Platform Health**, and then select one of the following:
 
     -   **Open Findings**
     -   **Resolved Findings**
@@ -51,8 +51,3 @@ If user story or task creation fails, check and ensure the following:
 
 You can view your created tasks through the **External References** related list on the finding record.
 
-## Related
-
-- [[user-story-integration-properties|User story integration]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

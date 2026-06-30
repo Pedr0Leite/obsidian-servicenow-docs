@@ -72,7 +72,7 @@ De-duplication Related Table Configurations\[reconcile\_duplicate\_related\_tabl
 
 </td><td>
 
-Settings per related table \(table that [[reference-document-management|references]] CIs\) to disable workflows \(for example, skip business rules\) and/or ignore database errors during remediation. Disabling workflows such as skipping those business rules, that block the update of referenced CIs to the main CI, allows de-duplication tasks that otherwise fail, to complete.
+Settings per related table \(table that references CIs\) to disable workflows \(for example, skip business rules\) and/or ignore database errors during remediation. Disabling workflows such as skipping those business rules, that block the update of referenced CIs to the main CI, allows de-duplication tasks that otherwise fail, to complete.
 
  In the base system, this table contains records for the Change \[change\_request\] and the Task CI \[task\_ci\] related tables, which are configured to disable workflow and to proceed with errors.
 
@@ -95,7 +95,7 @@ De-duplication: Populate Duplicate Task Data
 
 </td><td>
 
-Runs daily to copy metadata, such as the identification attributes and [[c_IdentificationRules|identification rules]] used in generating a de-duplication task, into an easily accessible table. The metadata is stored in the Reconcile Duplicate Task Data \[reconcile\_duplicate\_task\_data\] table and used for analytics for the De-duplication dashboard.
+Runs daily to copy metadata, such as the identification attributes and identification rules used in generating a de-duplication task, into an easily accessible table. The metadata is stored in the Reconcile Duplicate Task Data \[reconcile\_duplicate\_task\_data\] table and used for analytics for the De-duplication dashboard.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,3 @@ Runs hourly to count the number of tasks that match each published template and 
 </td></tr></tbody>
 </table>**Parent Topic:**[Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md)
 
-## Related
-
-- [[reference-document-management|References]]
-- [[c_IdentificationRules|Identification rules]]

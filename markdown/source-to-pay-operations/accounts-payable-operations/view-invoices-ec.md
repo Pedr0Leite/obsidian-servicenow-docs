@@ -15,7 +15,7 @@ breadcrumb: [Work with invoices, Using Accounts Payable Invoice Processing, Use,
 
 # View your invoices on Employee Center
 
-View [[invoices|invoices]] you own directly from Employee Center to monitor invoice status and review invoice details.
+View invoices you own directly from Employee Center to monitor invoice status and review invoice details.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The business owner views all owned invoices on Employee Center.
 
 [Invoice approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-## Related
-
-- [[invoices|Invoices]]

@@ -71,7 +71,7 @@ Table that lists all the users in the User Criteria for whom the insights are ma
 </td></tr></tbody>
 </table>## Scheduled jobs for Insight cards
 
-Several types of scheduled jobs are added to generate Insight cards for workplace operations on the [[workplace-central-feat|Workplace Central]] dashboard.
+Several types of scheduled jobs are added to generate Insight cards for workplace operations on the Workplace Central dashboard.
 
 |Scheduled job|Run frequency|Description|
 |-------------|-------------|-----------|
@@ -95,6 +95,3 @@ Notify Space Planners, Reservation Managers, and Workplace Managers by email whe
 
 **Parent Topic:**[Workplace Advisor Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-advisor-overview.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

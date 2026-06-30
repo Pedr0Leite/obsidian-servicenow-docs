@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # RabbitMQ default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for RabbitMQ health monitoring. You must perform RabbitMQ [[r-discovery|discovery]] before executing the checks. RabbitMQ checks are available only in a Windows environment.
+Agent Client Collector provides the following default checks and policies for RabbitMQ health monitoring. You must perform RabbitMQ discovery before executing the checks. RabbitMQ checks are available only in a Windows environment.
 
 <table id="table_lsp_hsb_3tb"><thead><tr><th>
 
@@ -200,13 +200,7 @@ Verifies whether the RabbitMQ server is alive and responding to STOMP.
 </table>|Type|Check|Description|Command|
 |----|-----|-----------|-------|
 |Metric|metrics-rabbitmq-overview|Provides RabbitMQ overview statistics.|`metrics-rabbitmq-overview.rb --port {{.labels.params_port}} --host {{.labels.params_host}}`|
-|Metric|metrics-rabbitmq-queue|Provides [[rabbitmq-metrics|RabbitMQ metrics]] per queue.|`metrics-rabbitmq-queue.rb --port {{.labels.params_port}} --host {{.labels.params_host}} {{if .labels.params_vhost}} --vhost {{.labels.params_vhost}} {{end}}`|
+|Metric|metrics-rabbitmq-queue|Provides RabbitMQ metrics per queue.|`metrics-rabbitmq-queue.rb --port {{.labels.params_port}} --host {{.labels.params_host}} {{if .labels.params_vhost}} --vhost {{.labels.params_vhost}} {{end}}`|
 
 **Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]
-- [[r-discovery|Discovery]]
-- [[rabbitmq-metrics|RabbitMQ metrics]]

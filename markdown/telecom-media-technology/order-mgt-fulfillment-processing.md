@@ -30,9 +30,9 @@ Review a customer order and approve or reject it for fulfillment.
 
 </td><td>
 
-An order fulfillment manager approves or rejects a customer order for fulfillment. If it's approved, the sold product and [[sales-crm-order-decomposition|order decomposition]] processing can take place. If it's rejected, more investigation is needed. To learn more, see:
+An order fulfillment manager approves or rejects a customer order for fulfillment. If it's approved, the sold product and order decomposition processing can take place. If it's rejected, more investigation is needed. To learn more, see:
 
--   [[approve-reject-customer-order-fulfillment|Approve or reject a customer order for fulfillment]]
+-   [Approve or reject a customer order for fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/approve-reject-customer-order-fulfillment.md)
 -   [Creation of sold product and product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-sold-product-creation.md)
 -   [Order decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-order-decomposition.md)
 
@@ -73,8 +73,3 @@ An order fulfillment manager reviews the tasks that couldn't be completed in the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[approve-reject-customer-order-fulfillment|Approve or reject a customer order for fulfillment]]
-- [[sales-crm-order-decomposition|Order decomposition]]

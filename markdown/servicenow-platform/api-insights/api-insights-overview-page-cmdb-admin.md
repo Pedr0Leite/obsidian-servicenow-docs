@@ -14,7 +14,7 @@ breadcrumb: [Administer and monitor API data, API Insights, Configuration Manage
 
 # Administering data ingestion and model alignment with API Insights
 
-The Overview tab in the [[api-insights|API Insights]] workspace provides a centralized view of data ingestion activities and integration health.
+The Overview tab in the API Insights workspace provides a centralized view of data ingestion activities and integration health.
 
 \[Omitted image "api-insights-overview-cmdb-admin.png"\] Alt text: API Insights Overview tab for CMDB administrators.
 
@@ -24,7 +24,7 @@ To access the Overview tab, navigate to **Workspaces** &gt; **API Insights**. Th
 
 ## Required roles
 
-CMDB administrators can access the Overview tab within the API Insights workspace to monitor incoming API data, evaluate alignment with the data model, and take action on misaligned or incomplete data to verify consistent and accurate CMDB records. They can view and resolve errors in connections when importing API data into CMDB using [[cmdb-sgc-available|Service Graph Connectors]] and adjust data based on clustering recommendations.
+CMDB administrators can access the Overview tab within the API Insights workspace to monitor incoming API data, evaluate alignment with the data model, and take action on misaligned or incomplete data to verify consistent and accurate CMDB records. They can view and resolve errors in connections when importing API data into CMDB using Service Graph Connectors and adjust data based on clustering recommendations.
 
 **Note:** As a user with the sn\_cmdb\_admin role, you need additional roles such as ml\_report\_user and cmdb\_inst\_admin to access some of the features and data.
 
@@ -206,8 +206,3 @@ sn\_cmdb\_admin and cmdb\_inst\_admin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[api-insights|API Insights]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

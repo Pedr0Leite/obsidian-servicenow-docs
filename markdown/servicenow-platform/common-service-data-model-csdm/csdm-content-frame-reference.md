@@ -14,7 +14,7 @@ breadcrumb: [CSDM, Configuration Management, Extend ServiceNow AI Platform capab
 
 # CSDM reference
 
-[[reference|Reference]] topics provide detailed descriptions of tables, properties, forms, and roles that are used in the CSDM framework.
+Reference topics provide detailed descriptions of tables, properties, forms, and roles that are used in the CSDM framework.
 
 ## Basics
 
@@ -39,11 +39,11 @@ breadcrumb: [CSDM, Configuration Management, Extend ServiceNow AI Platform capab
 -   **[CSDM resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-resources.md)**  
 Resources and videos that complement the documentation.
 -   **[CSDM terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-term-definitions.md)**  
-Most ServiceNow products and ServiceNow AI Platform applications align closely with the [[csdm-landing-page|Common Service Data Model]]. This table defines terms as they are used across the ServiceNow AI Platform.
+Most ServiceNow products and ServiceNow AI Platform applications align closely with the Common Service Data Model. This table defines terms as they are used across the ServiceNow AI Platform.
 -   **[How CSDM concepts map to CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-to-cmdb-mapping.md)**  
 The objects in the conceptual CSDM framework must map to the physical model objects \(CIs and CI class tables\) in the CMDB. You can navigate in the platform to see dictionary attributes.
 -   **[CI relationships in the CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/ci-relationships.md)**  
-For [[manage-cmdb|configuration management]] to be most effective, establish relationships between the objects and CIs in the conceptual CSDM.
+For configuration management to be most effective, establish relationships between the objects and CIs in the conceptual CSDM.
 -   **[How life-cycle values for Asset, CI, and IBI are synchronized](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/cmdb-asset-CI-IBI-sync-options.md)**  
 Your organization gains significant value from your ServiceNow AI Platform applications when you take advantage of the option to directly map legacy status values to CSDM **life cycle stage** and **life cycle stage status** values and auto-synchronize the values going forward.
 -   **[Asset status values aligned to CSDM life cycle values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-lifecycle-map-csdm-to-asset.md)**  
@@ -51,7 +51,7 @@ Legacy status values for Asset and Hardware Asset CIs are aligned with CSDM life
 -   **[Life cycle mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cycle-mapping-form.md)**  
 Use the Life Cycle Mapping module to specify how existing legacy status values should be converted to CSDM life-cycle value pairs \(**life cycle stage** and **life cycle stage status**\). You map both asset and CI legacy status values to life-cycle value pairs.
 -   **['Foundation' stage reports on the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-datafdn-dash-foundation-tab.md)**  
-The **Foundation** tab on the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]] identifies data that might be missing from the CMDB.
+The **Foundation** tab on the CSDM Data Foundations dashboard identifies data that might be missing from the CMDB.
 -   **['Crawl' stage reports on the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-datafdn-dash-crawl-tab.md)**  
 Crawl stage reports on the CSDM Data Foundations dashboard
 -   **['Walk' stage reports on the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-datafdn-dash-walk-tab.md)**  
@@ -75,9 +75,3 @@ The product life-cycle value pairs represent the overall life cycle of a product
 
 **Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[manage-cmdb|Configuration Management]]
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

@@ -14,7 +14,7 @@ breadcrumb: [Coaching your trainee, Training agents using Coaching with Learning
 
 # Assess a trainee
 
-Use a [[cf-coaching-landing|coaching]] assessment to review the work of a trainee and to provide training and feedback.
+Use a coaching assessment to review the work of a trainee and to provide training and feedback.
 
 ## Before you begin
 
@@ -167,6 +167,3 @@ Automatically assign skills to trainees for specific skill levels based on the c
 
 [Coaching field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-field-descriptions.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

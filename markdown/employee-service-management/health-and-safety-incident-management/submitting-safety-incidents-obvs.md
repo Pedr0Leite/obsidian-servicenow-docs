@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Incident Management, Health and Safety, Employee 
 
 # Submitting safety incidents and observations
 
-Safety team can begin the investigation process by creating incidents and observations based on reports received from employees. Employees can also directly submit incidents and observations from the [[employee-center-landing-page|Employee Center]] portal. They can select a report type, fill out the necessary form, and then submit it.
+Safety team can begin the investigation process by creating incidents and observations based on reports received from employees. Employees can also directly submit incidents and observations from the Employee Center portal. They can select a report type, fill out the necessary form, and then submit it.
 
 -   **[Submit a safety incident as an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submit-hs-incident-observation.md)**  
 Submit a safety incident through the Employee Center to report it to the safety department for an investigation.
@@ -25,6 +25,3 @@ Begin the investigation for a safety incident or observation by reporting it on 
 
 **Parent Topic:**[Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-landing-page.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

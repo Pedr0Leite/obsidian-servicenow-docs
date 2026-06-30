@@ -15,7 +15,7 @@ breadcrumb: [Solutions, Use, Public Sector Digital Services \(PSDS\)]
 
 Use Grants Management for Public Sector Digital Services to set up and award grants, and screen proposals for them​.
 
-The Grants Application Workflow in the [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]] Grants Management Playbook provides a structured process for managing grant applications from submission for the pre-award phase. It begins with application intake, where applicants submit required forms and eligibility is verified. The review and evaluation phase involves initial screening, technical assessments, and scoring to determine funding recommendations. Once selections are made, agencies proceed with award decisions and notifications, followed by grant agreement execution, where terms, reporting requirements, and disbursement schedules are established. Grants are financial funding provided to individuals or organizations for a particular purpose, usually to fund initiatives that serve the public good.
+The Grants Application Workflow in the Public Sector Digital Services \(PSDS\) Grants Management Playbook provides a structured process for managing grant applications from submission for the pre-award phase. It begins with application intake, where applicants submit required forms and eligibility is verified. The review and evaluation phase involves initial screening, technical assessments, and scoring to determine funding recommendations. Once selections are made, agencies proceed with award decisions and notifications, followed by grant agreement execution, where terms, reporting requirements, and disbursement schedules are established. Grants are financial funding provided to individuals or organizations for a particular purpose, usually to fund initiatives that serve the public good.
 
 ## Grants Management Landing Page
 
@@ -35,7 +35,7 @@ The process begins with program definition, where agencies establish milestones,
 
 \[Omitted image "psds\_gmp\_program\_setup\_playbook\_initial\_view.png"\] Alt text: grants management playbook setup initial view for agents or managers
 
-This playbook contains four stages, and several activities in each stage. It guides the program manager through the process of creating a grants program, from defining key details, to creating the announcement, to defining budget and milestones, to defining eligibility, to publishing it to the agency's [[psds-gmp-overview|Grants Management Portal]]. For more information on using the PSP to create a GP, see [[psds-using-gmp-grant-pgr-setup|Using the Grant Program Setup Playbook in Grants Management]].
+This playbook contains four stages, and several activities in each stage. It guides the program manager through the process of creating a grants program, from defining key details, to creating the announcement, to defining budget and milestones, to defining eligibility, to publishing it to the agency's Grants Management Portal. For more information on using the PSP to create a GP, see [Using the Grant Program Setup Playbook in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-grant-pgr-setup.md).
 
 Once you create a Grant program and publish it using the Program Setup Playbook, you can view the details on the program information record page.
 
@@ -55,7 +55,7 @@ For applicants, the application intake experience happens entirely on the Grants
 
 An applicant submitting a proposal is the first stage of the grants proposal playbook. The playbook is in the screen stage by the time it arrives to the agent. An agent cannot submit an application on behalf of an agent.
 
-For more information on how applicants can use the Grants Management to view grants opportunities, submit applications, and view results, see [[psds-gmp-using-grants-mgmt-portal|Using the Grants Management Portal]].
+For more information on how applicants can use the Grants Management to view grants opportunities, submit applications, and view results, see [Using the Grants Management Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-grants-mgmt-portal.md).
 
 ## Grants Management Application Screening
 
@@ -70,7 +70,7 @@ Using the Grants Management Screening feature, managers can:
 
 \[Omitted image "psds-gmp-rev-prop-details.png"\] Alt text: Enter Applicant information view
 
-For more information on how grants managers can use the Application Screening feature, and [[psds-using-gmp-grant-proposal-screen|Screen a grant proposal application in the Grants Management Grants Proposal Playbook]].
+For more information on how grants managers can use the Application Screening feature, and [Screen a grant proposal application in the Grants Management Grants Proposal Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-grant-proposal-screen.md).
 
 ## Grants Management Application Evaluation
 
@@ -84,11 +84,11 @@ The funding proposal workflow involves the assessment of the evaluations conduct
 
 ## Grants Management Merit Review
 
-For external reviewers, the Merit Review experience happens on the [[psds-rsp-overview|reviewer service portal]], separate from the grants program manager/agent view. This allows external reviewers to review and score proposals, all within a dedicated portal.
+For external reviewers, the Merit Review experience happens on the reviewer service portal, separate from the grants program manager/agent view. This allows external reviewers to review and score proposals, all within a dedicated portal.
 
 \[Omitted image "psds-rsp-mrev-case-details-view.png"\] Alt text: reviewer portal grant program review task record view
 
-For more information on using the Reviewer Service Portal as an external merit reviewer, see [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal]].
+For more information on using the Reviewer Service Portal as an external merit reviewer, see [Using the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-merit-review-portal-agent.md).
 
 ## Grants Management Application Decision
 
@@ -96,12 +96,3 @@ The final stage of the workflow is the decision phase. Based on the funding deci
 
 \[Omitted image "psds-gmp-create-res-letter.png"\] Alt text: decision view grants program manager
 
-## Related
-
-- [[psds-using-gmp-grant-pgr-setup|Using the Grant Program Setup Playbook in Grants Management]]
-- [[psds-gmp-using-grants-mgmt-portal|Using the Grants Management Portal in Public Sector Digital Services]]
-- [[psds-using-gmp-grant-proposal-screen|Screen a grant proposal application in the Grants Management Grants Proposal Playbook]]
-- [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]
-- [[psds-gmp-overview|Grants Management Portal]]
-- [[psds-rsp-overview|Reviewer Service Portal]]

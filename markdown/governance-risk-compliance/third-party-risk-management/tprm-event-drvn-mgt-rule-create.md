@@ -14,7 +14,7 @@ breadcrumb: [Classic assessments, Configure, Third-party Risk Management, Govern
 
 # Event-driven management — automate assessment processes
 
-Use the Event-driven management feature to configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties. For engagements and third parties that meet the criteria you define, you specify the schedule and the [[airc-assessment-templates|assessment templates]]. You can automate all assessment types except onboarding.
+Use the Event-driven management feature to configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties. For engagements and third parties that meet the criteria you define, you specify the schedule and the assessment templates. You can automate all assessment types except onboarding.
 
 ## Before you begin
 
@@ -109,7 +109,7 @@ This field appears if you select any category other than **External assessment**
 
  Template that specifies the contents of the Inherent Risk Questionnaire \(IRQ\).
 
-**Note:** If the rule is related to Due Diligence requests and the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] is not enabled, the IRQ template will refer to the classic template table \(asmt\_metric\_type\). If the Smart Assessment Engine is enabled, it will refer to the TPRM template table \(sn\_vdr\_risk\_asmt\_sae\_questionnaire\_template\).
+**Note:** If the rule is related to Due Diligence requests and the Smart Assessment Engine is not enabled, the IRQ template will refer to the classic template table \(asmt\_metric\_type\). If the Smart Assessment Engine is enabled, it will refer to the TPRM template table \(sn\_vdr\_risk\_asmt\_sae\_questionnaire\_template\).
 
 </td></tr><tr><td>
 
@@ -254,7 +254,7 @@ Run status
 
  If a rule seems to be stuck running for an excessive time:
 
-1.  Go to **Process automation** &gt; **Flow [[Administration|Administration]]** &gt; **Event Queue**.
+1.  Go to **Process automation** &gt; **Flow Administration** &gt; **Event Queue**.
 2.  Find the platform background task with a name that starts with `sn_vdr` or `sn_tprm` that is in the **error** state.
 
 
@@ -281,8 +281,3 @@ Timestamp of the most recent run that is in the **Successful** state.
 
 [View the run history for event-driven management rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-history.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

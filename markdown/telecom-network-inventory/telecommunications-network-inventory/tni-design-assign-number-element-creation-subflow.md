@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Design Assign Number Element Creation subflow
 
-The TNI Design Assign Number Element Creation subflow enables you to create the number element records in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this flow action to configure the activities in a [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook for logical connection.
+The TNI Design Assign Number Element Creation subflow enables you to create the number element records in the Telecommunications Network Inventory application. You can use this flow action to configure the activities in a Design and Assign playbook for logical connection.
 
 The TNI Design Assign Number Element Creation subflow creates the number elements that are associated with a logical connection and updates them in a change task. This subflow functions are as follows.
 
@@ -73,7 +73,3 @@ The TNI Design Assign Number Element Creation subflow output are as follows.
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

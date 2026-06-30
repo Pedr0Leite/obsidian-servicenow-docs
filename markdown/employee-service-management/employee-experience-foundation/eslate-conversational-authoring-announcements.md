@@ -15,7 +15,7 @@ breadcrumb: [Employee communications, Working with Employee Slate capabilities, 
 
 # Conversational authoring for announcements
 
-Use Now Assist Chat to create [[employee-slate-landing-page|Employee Slate]] announcements through natural language prompts and AI-assisted content generation.
+Use Now Assist Chat to create Employee Slate announcements through natural language prompts and AI-assisted content generation.
 
 Conversational authoring with Now Assist Chat streamlines the announcement creation process by using natural language prompts and AI-generated content. Content managers can create announcements by describing their intent to the AI assistant, which then generates draft content based on existing knowledge articles or catalog items.
 
@@ -64,6 +64,3 @@ When using conversational authoring for announcements:
 -   Test image focal points across different display contexts before publishing
 -   Consider staggering chat promotions to avoid overwhelming communication channels
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]

@@ -14,11 +14,11 @@ breadcrumb: [Change schedules, Configure, Change Management, IT Service Manageme
 
 # Change schedules view
 
-The [[change-schedule|Change Schedules]] module provides a Gantt or timeline view of change requests based on criteria defined within a Change Schedule Definition.
+The Change Schedules module provides a Gantt or timeline view of change requests based on criteria defined within a Change Schedule Definition.
 
-The change schedule provides detailed insight to change requests that are included based on the change schedule definition. The change requests can include change timing, duration, related [[change-tasks|change tasks]], blackout periods, and maintenance windows for any given date, week or month.
+The change schedule provides detailed insight to change requests that are included based on the change schedule definition. The change requests can include change timing, duration, related change tasks, blackout periods, and maintenance windows for any given date, week or month.
 
-To view the Change Schedules page, you must [[activate-changemgmt-changeschedule|activate Change Management - Change Schedule]] plugin \(com.snc.change\_management.soc\).
+To view the Change Schedules page, you must activate Change Management - Change Schedule plugin \(com.snc.change\_management.soc\).
 
 Change requests are represented by a span. The duration of the span is defined by the start and end date fields defined in the Change Schedule definition. The Change Schedules page allows conditions to be defined using the condition builder. The condition builder determines which change requests are displayed and sorted in a change schedule.
 
@@ -163,8 +163,3 @@ Summary of the change record when you click any span. Use **Open Record** in the
 
 [Style rules definition]()
 
-## Related
-
-- [[change-schedule|Change schedules]]
-- [[change-tasks|Change tasks]]
-- [[activate-changemgmt-changeschedule|Activate Change Management - Change Schedule]]

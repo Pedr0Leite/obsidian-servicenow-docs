@@ -14,7 +14,7 @@ breadcrumb: [Conversational Analytics dashboard in Platform Analytics experience
 
 # Conversational Analytics dashboard reference
 
-Reference topics provide descriptions about the [[conversational-analytics-dashboard-roles-pae|Conversational Analytics dashboard roles]] and system parameters to configure the dashboard.
+Reference topics provide descriptions about the Conversational Analytics dashboard roles and system parameters to configure the dashboard.
 
 -   **[Conversational Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversational-analytics-dashboard-roles-pae.md)**  
 Conversational Analytics dashboard is installed with these roles.
@@ -23,6 +23,3 @@ Use system properties to configure the functionality of the Conversational Analy
 
 **Parent Topic:**[Conversational Analytics dashboard in Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md)
 
-## Related
-
-- [[conversational-analytics-dashboard-roles-pae|Conversational Analytics dashboard roles]]

@@ -16,7 +16,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 Knowledge article versions can be in one of several states as it progresses through the creation cycle.
 
-**Note:** You need to [[activate-knowledge-advanced-plugin|activate the Knowledge Management Advanced plugin]] \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md) and [Article versioning properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
+**Note:** You need to activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md) and [Article versioning properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
 
 <table id="table_trn_kgl_yy"><thead><tr><th>
 
@@ -91,6 +91,3 @@ End users can read published articles as well as the outdated versions.
 
 [Knowledge access controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md)
 
-## Related
-
-- [[activate-knowledge-advanced-plugin|Activate the Knowledge Management Advanced plugin]]

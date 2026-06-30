@@ -12,17 +12,17 @@ breadcrumb: [User management, Set up your environment, Configure, Customer Servi
 
 # Assign roles to CSM users
 
-Roles control access to features, capabilities, and data in the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Roles control access to features, capabilities, and data in the Customer Service Management application.
 
 ## Before you begin
 
 Role required: import\_admin, user\_admin, and sn\_crm\_foundation\_admin
 
-Before you can [[configure-data-model-roles|assign roles]] to your users, make sure that these users have already been configured.
+Before you can assign roles to your users, make sure that these users have already been configured.
 
--   [[configure-csm-users-groups|Configure users and groups]]
--   [[configure-csm-accounts-contacts|Configure accounts and contacts]]
--   [[configure-csm-consumers|Configure consumers]]
+-   [Configure users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-users-groups.md)
+-   [Configure accounts and contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-accounts-contacts.md)
+-   [Configure consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-consumers.md)
 
 ## About this task
 
@@ -82,13 +82,5 @@ External Roles
 **Related topics**  
 
 
-[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
-## Related
-
-- [[configure-csm-users-groups|Configure users and groups]]
-- [[configure-csm-accounts-contacts|Configure accounts and contacts]]
-- [[configure-csm-consumers|Configure consumers]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-data-model-roles|Assign roles]]

@@ -16,7 +16,7 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 <table id="configurable-workspace-navigation" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text:Learn about Configurable Workspace concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/learn-about-agent-workspace.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about Configurable Workspace concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/learn-about-agent-workspace.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about the Configurable Workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-[[onboarding-modals-reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about the Configurable Workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-reference.md)
 
 </td><td>
 
@@ -40,8 +40,3 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring|Explore]]
-- [[onboarding-modals-reference|Reference]]

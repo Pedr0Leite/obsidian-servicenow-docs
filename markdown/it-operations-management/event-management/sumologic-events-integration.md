@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Sumo Logic events
 
-Use the Sumo Logic push connector to integrate Sumo Logic with [[c_EM|Event Management]] by adding a standard webhook in the Sumo Logic platform.
+Use the Sumo Logic push connector to integrate Sumo Logic with Event Management by adding a standard webhook in the Sumo Logic platform.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Configure the Event Management environment for the collection of events from Sum
     
     ```
 
-    Log Monitors Type events can be created without CI binding since you’re receiving the node value as "node": "\{\{ResultsJSON.\_sourceHost\}\}" in the event payload from Sumo Logic. You can create events but you can’t bind them since you don’t get them as host names for the log monitor type. A push connector parameter was created - “create\_log\_monitorType\_events” with a value of False. If the param value is False, the payload is ignored, and “log” events aren’t created. If you change the param to True, events are created, and then you must define [[create-event-rules|event rules]] for CI binding.
+    Log Monitors Type events can be created without CI binding since you’re receiving the node value as "node": "\{\{ResultsJSON.\_sourceHost\}\}" in the event payload from Sumo Logic. You can create events but you can’t bind them since you don’t get them as host names for the log monitor type. A push connector parameter was created - “create\_log\_monitorType\_events” with a value of False. If the param value is False, the payload is ignored, and “log” events aren’t created. If you change the param to True, events are created, and then you must define event rules for CI binding.
 
     Refer to the following ServiceNow Severity Mapping with Sumo logic TriggerType table:
 
@@ -85,7 +85,3 @@ Integrate using an API key to establish secure communication and automate data e
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

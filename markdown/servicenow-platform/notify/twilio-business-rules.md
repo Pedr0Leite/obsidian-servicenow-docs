@@ -26,11 +26,8 @@ Twilio installs the following business rules.
 |Set outbound calculated fields &amp; auth|\[sn\_twilio\_direct\_twilio\_config\]|Sets the account credentials in the basic auth profile|
 |Set Reset JWT Key|\[sn\_twilio\_direct\_basic\_auth\]|Copies the auth token from \[sn\_twilio\_direct\_basic\_auth\] to signing key password in \[jwt\_keystore\_aliases\].|
 |Validate &amp; set inbound calculated fields|\[sn\_twilio\_direct\_twilio\_config\]|Populates the callback\_endpoint field based on the inbound rest field value. Displays an error message if the endpoint URLs are not in the correct format.|
-|Validate Fast Bulk SMS option|\[sn\_twilio\_direct\_twilio\_config\]|When **Twilio [[notify-landing-page|Notify]] bulk SMS** is enabled, validates the Twilio messaging and Notify service id.|
+|Validate Fast Bulk SMS option|\[sn\_twilio\_direct\_twilio\_config\]|When **Twilio Notify bulk SMS** is enabled, validates the Twilio messaging and Notify service id.|
 |Validate Intelligent SMS option|\[sn\_twilio\_direct\_twilio\_config\]|When **Intelligent SMS handling** is enabled, validates the Twilio messaging service id.|
 
 **Parent Topic:**[Components installed with Twilio Direct driver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-twilio.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

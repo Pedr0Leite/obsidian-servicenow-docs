@@ -16,9 +16,9 @@ breadcrumb: [Enhancement steps, Implement, Policy and Compliance Management, Gov
 
 After an acknowledgement request has been sent to an audience, different reminder notifications are sent based on the timeliness and state of the response. Properties allow you to configure the notifications.
 
-These properties are available for [[r_PolicyComplianceMgmt|Policy and Compliance Management]].
+These properties are available for Policy and Compliance Management.
 
-**Note:** Navigate to **Policy and Compliance &gt; [[Administration|Administration]] &gt; Properties**.
+**Note:** Navigate to **Policy and Compliance &gt; Administration &gt; Properties**.
 
 <table id="table_dhr_rjk_3jb"><thead><tr><th>
 
@@ -103,7 +103,3 @@ The number of days prior to the due date to send the Policy Acknowledge summary 
 </td></tr></tbody>
 </table>**Parent Topic:**[Policy and Compliance Management enhancement steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[Administration|Administration]]

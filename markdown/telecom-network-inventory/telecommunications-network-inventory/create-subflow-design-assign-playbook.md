@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Create subflow for Design and Assign function
 
-Create a subflow in the Workflow Studio. You can use this subflow to configure an activity in the playbook for the [[using-playbooks-design-assign-inventory-record|Design and Assign function]].
+Create a subflow in the Workflow Studio. You can use this subflow to configure an activity in the playbook for the Design and Assign function.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ You create a subflow by defining the input data that the subflow uses and the ou
 
 [Configure a Design and Assign function example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-design-assign-playbook-use-case.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]

@@ -25,9 +25,6 @@ The mobile-responsive experience activates automatically when users access your 
 The following Web Embeddables components include mobile-responsive designs:
 
 -   Knowledge article view: Read knowledge articles with a mobile-optimized layout, touch-friendly language and version selectors, and content that reflows for narrow screens.
--   Catalog item: Order catalog items using [[migration-forms|forms]] that adapt field layouts for mobile, with drop-down menus that open as bottom sheets and one-tap copy functionality for reference numbers.
+-   Catalog item: Order catalog items using forms that adapt field layouts for mobile, with drop-down menus that open as bottom sheets and one-tap copy functionality for reference numbers.
 -   Case create: Create cases with mobile-optimized forms, touch-friendly controls, and easy-to-use confirmation screens with an option to copy case numbers for reference.
 
-## Related
-
-- [[migration-forms|Forms]]

@@ -12,7 +12,7 @@ breadcrumb: [Quote Management reference, Configure, price, quote, Reference, Sal
 
 # Components Installed with Quote Management
 
-Several types of components are installed with activation of the [[quote-management|Quote Management]] plugin, including user roles.
+Several types of components are installed with activation of the Quote Management plugin, including user roles.
 
 ## Roles installed
 
@@ -58,7 +58,7 @@ Quote integrator \[sn\_quote\_mgmt\_core.quote\_integrator\]
 
 </td><td>
 
-Role required to access quote features when [[using-servicenowcpq|using the CPQ Configurator]].
+Role required to access quote features when using the CPQ Configurator.
 
 </td><td>
 
@@ -109,10 +109,5 @@ A granular role created to give read access to quote tables.
 -   sn\_customerservice.customer\_data\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[quote-management-reference|Quote Management reference]]
+</table>**Parent Topic:**[Quote Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-reference.md)
 
-## Related
-
-- [[quote-management-reference|Quote Management reference]]
-- [[quote-management|Quote Management]]
-- [[using-servicenowcpq|Using the CPQ Configurator]]

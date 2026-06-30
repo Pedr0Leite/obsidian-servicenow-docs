@@ -14,11 +14,11 @@ breadcrumb: [Customer communication, Use, Customer Service Management]
 
 Initiate a Zoom meeting directly from a chat by using the Chat Zoom Connector application.
 
-As an agent you can initiate a Zoom meeting from a chat to understand and resolve customer issues faster through live interactions. For more information, see [[initiate-chat-zoom|Initiate Zoom meetings from chats]].
+As an agent you can initiate a Zoom meeting from a chat to understand and resolve customer issues faster through live interactions. For more information, see [Initiate Zoom meetings from chats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/initiate-chat-zoom.md).
 
-By default, for each interaction record for a Zoom meeting, a Notify conference call number is also generated. As an agent, you or the agent manager can access the recording URL of the Zoom meeting from the [[csm-config-ws-activity-stream|activity stream]] of the interaction record.
+By default, for each interaction record for a Zoom meeting, a Notify conference call number is also generated. As an agent, you or the agent manager can access the recording URL of the Zoom meeting from the activity stream of the interaction record.
 
-As an agent manager, you can access the details of Zoom meetings initiated from a customer chat using the Zoom interaction record. The meeting recordings are available in the interaction record created for Zoom. For more information, see [[view-details-chat-zoom|View details for Zoom meetings initiated from chats]].
+As an agent manager, you can access the details of Zoom meetings initiated from a customer chat using the Zoom interaction record. The meeting recordings are available in the interaction record created for Zoom. For more information, see [View details for Zoom meetings initiated from chats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-details-chat-zoom.md).
 
 **Note:** The conference call details of a Zoom meeting are stored in the Notify Conference Calls \[notify\_conference\_call\] table.
 
@@ -36,17 +36,10 @@ The users with the roles listed in the following table can use the Chat Zoom Con
 
 ## Activation information
 
-Configure the Chat Zoom Connector application for initiating Zoom meetings from customer chats. For more information, see [[config-chat-zoom-connector|Configure Chat Zoom Connector]].
+Configure the Chat Zoom Connector application for initiating Zoom meetings from customer chats. For more information, see [Configure Chat Zoom Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-chat-zoom-connector.md).
 
 **Related topics**  
 
 
-[[chat-zoom-connector|Chat Zoom Connector]]
+[Chat Zoom Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/chat-zoom-connector.md)
 
-## Related
-
-- [[initiate-chat-zoom|Initiate Zoom meetings from chats]]
-- [[view-details-chat-zoom|View details for Zoom meetings initiated from chats]]
-- [[config-chat-zoom-connector|Configure Chat Zoom Connector]]
-- [[chat-zoom-connector|Chat Zoom Connector]]
-- [[csm-config-ws-activity-stream|Activity stream]]

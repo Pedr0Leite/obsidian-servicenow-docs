@@ -65,10 +65,7 @@ After the policy is created and the synchronization is complete, it restricts an
 
 \[Omitted image "acl-restriction.png"\] Alt text: Result of configuring conditional access for Microsoft Teams tenants. The policy is restricted for users other than admins.
 
-**Note:** The restriction does not affect the restricted users from using the Microsoft Teams or the Now [[virtual-agent-landing-page|Virtual Agent]].
+**Note:** The restriction does not affect the restricted users from using the Microsoft Teams or the Now Virtual Agent.
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

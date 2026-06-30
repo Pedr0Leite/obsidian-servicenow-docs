@@ -46,8 +46,5 @@ The Security Incident command, **snsecincident**, creates a Security Incident in
 |cmdb\_ci|No|The configuration item for the security incident. Ideally, this item maps to an existing CI within ServiceNow.|
 |description|No|The longer, detailed description of the incident.|
 
-There are many possible useful columns – anything in the Security Incident transform map can be used. If new columns are added to the security incident, they too are used, as long as they are in the transform map. Some useful columns: [[location|location]], priority, assignment\_group, assigned\_to, affected\_user, attack\_vector, and watch\_list.
+There are many possible useful columns – anything in the Security Incident transform map can be used. If new columns are added to the security incident, they too are used, as long as they are in the transform map. Some useful columns: location, priority, assignment\_group, assigned\_to, affected\_user, attack\_vector, and watch\_list.
 
-## Related
-
-- [[location|Location]]

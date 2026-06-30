@@ -12,11 +12,11 @@ breadcrumb: [Now Assist AI agents, Enable AI experiences]
 
 # Examples of using AI agents
 
-Review different ways that you can leverage the [[na-ai-agents|Now Assist AI agents]] application in agentic workflows across the platform.
+Review different ways that you can leverage the Now Assist AI agents application in agentic workflows across the platform.
 
 ## AI agents Overview
 
-AI agents in the [[platform-now-assist-landing|Now Assist]] application provide automated solutions for a wide range of business processes and operational challenges. These agents can work independently or as part of hierarchical structures to handle complex workflows, reduce manual effort, and improve service delivery efficiency. You can leverage AI agents across multiple departments including IT Service Management, Customer Service Management, and Human Resources.
+AI agents in the Now Assist application provide automated solutions for a wide range of business processes and operational challenges. These agents can work independently or as part of hierarchical structures to handle complex workflows, reduce manual effort, and improve service delivery efficiency. You can leverage AI agents across multiple departments including IT Service Management, Customer Service Management, and Human Resources.
 
 ## Incident Management and Resolution
 
@@ -26,7 +26,7 @@ If the agent has high confidence in the solution, it posts the resolution in the
 
 ## Case Management Automation
 
-Similar to incident management, AI agents can handle case workflows in customer service scenarios. Agents analyze case details, match them with historical [[cases|cases]], search knowledge articles, and provide recommended solutions or next steps. This automation helps customer service teams handle higher volumes of cases while maintaining consistent quality in responses.
+Similar to incident management, AI agents can handle case workflows in customer service scenarios. Agents analyze case details, match them with historical cases, search knowledge articles, and provide recommended solutions or next steps. This automation helps customer service teams handle higher volumes of cases while maintaining consistent quality in responses.
 
 ## Cross-Functional Process Automation
 
@@ -52,8 +52,3 @@ When implementing AI agents, organizations should consider the following factors
 -   Configure memory sharing appropriately for different hierarchy structures
 -   Consider scalability requirements when designing complex agent hierarchies
 
-## Related
-
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

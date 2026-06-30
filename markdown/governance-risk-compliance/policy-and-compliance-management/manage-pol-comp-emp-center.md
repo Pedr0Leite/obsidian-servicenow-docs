@@ -14,13 +14,13 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Managing GRC tasks from Employee Center
 
-[[employee-center|Employee Center]] is designed for enterprise services based on employee needs. The employee center is also called as Business user service portal as the portal is exclusively for GRC business users to request an issue triage or raise a policy exception.
+Employee Center is designed for enterprise services based on employee needs. The employee center is also called as Business user service portal as the portal is exclusively for GRC business users to request an issue triage or raise a policy exception.
 
 You can use Risk and Compliance section of the Employee Center to manage some of the common compliance tasks like triage issues, raise policy exceptions, and GRC assessments.
 
 You can view all the tasks that are assigned to you if you login as a user with GRC business user role.
 
-**Note:** You can respond to policy acknowledgement and [[request-policy-exception|request a policy exception]] from the Employee Center portal with the employee operator role \(sn\_grc\_emp\_user.grc\_employee\).
+**Note:** You can respond to policy acknowledgement and request a policy exception from the Employee Center portal with the employee operator role \(sn\_grc\_emp\_user.grc\_employee\).
 
 \[Omitted image "RiskcompEmpCenter.png"\] Alt text: Manage GRC compliance tasks from Employee Center.
 
@@ -37,7 +37,3 @@ You can view all the tasks that are assigned to you if you login as a user with 
 
 [Group similar assessments in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/group-attestations-ec-pol-comp.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[request-policy-exception|Request a policy exception]]

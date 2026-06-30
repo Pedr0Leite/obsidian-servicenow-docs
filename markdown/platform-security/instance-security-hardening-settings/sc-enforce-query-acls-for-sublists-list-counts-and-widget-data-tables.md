@@ -14,7 +14,7 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 # Enforce Query ACLs for SubLists, List Counts and Widget Data Tables
 
-Enforce [[query-acl-rule|query ACLs]] on sublist, list count, and widget data table queries using [[ca-system-properties|system properties]].
+Enforce query ACLs on sublist, list count, and widget data table queries using system properties.
 
 Set **com.glide.security.query\_acl.enabled.sub\_lists** to **true** to enforce query ACLs on sublist queries, such as grouped lists and related lists.
 
@@ -22,7 +22,7 @@ Set **com.glide.security.query\_acl.enabled.list\_count** to **true** to enforce
 
 Set **glide.security.query\_acl.enabled.data\_table** to **true** to enforce query ACLs on widget data tables.
 
-If any of these system properties are set to **false**, an attacker can use blind queries to enumerate and exfiltrate data due to the default behavior of `GlideRecord.addEncodedQuery`. If these properties don't exist in the System Properties \[sys\_properties\] table, the secure default of true is used. A third option, **external\_and\_guests**, enforces ACLs only for external [[users|users]] and guests.
+If any of these system properties are set to **false**, an attacker can use blind queries to enumerate and exfiltrate data due to the default behavior of `GlideRecord.addEncodedQuery`. If these properties don't exist in the System Properties \[sys\_properties\] table, the secure default of true is used. A third option, **external\_and\_guests**, enforces ACLs only for external users and guests.
 
 Ensure these system properties do not appear in the System Properties \[sys\_properties\] table or are set to **true**.
 
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -121,9 +121,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[query-acl-rule|Query ACLs]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

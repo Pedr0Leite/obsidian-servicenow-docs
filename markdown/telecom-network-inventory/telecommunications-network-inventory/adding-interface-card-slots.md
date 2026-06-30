@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Add interface card templates to the slot templates
 
-In the equipment inventory template that you created in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], use the Related Templates tab to add the interface cards to the selected slots.
+In the equipment inventory template that you created in the Network Inventory Workspace Lists view, use the Related Templates tab to add the interface cards to the selected slots.
 
 ## Procedure
 
@@ -22,7 +22,7 @@ In the **Related Templates** tab, select the slot that you want to add the inter
 
 \[Omitted image "inventory-template-7450ESS1-slots.png"\] Alt text: Related Template view of the 7450 ESS-1 template with list of slots.
 
-When the slot record appears, in the **Related Templates** tab, click **New**. [[create-inventory-templates|Create an inventory template]] for the associated interface card.
+When the slot record appears, in the **Related Templates** tab, click **New**. Create an inventory template for the associated interface card.
 
 \[Omitted image "inventory-template-card-compatibilities-ess.png"\] Alt text: Details view of associated interface card template with field information.
 
@@ -53,8 +53,3 @@ Next, add subslots to the network interface template. To learn more, see [Add su
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[create-inventory-templates|Create an inventory template]]

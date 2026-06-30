@@ -16,16 +16,16 @@ breadcrumb: [Targets and thresholds, Configure fundamentals, Performance Analyti
 
 Thresholds define a normal range of scores for an indicator and alert you when certain events occurs, like when a score reaches an all-time high.
 
-When a threshold is triggered, the instance generates an email notification. This message is associated with the indicator and the message is directly available via the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or KPI Details.
+When a threshold is triggered, the instance generates an email notification. This message is associated with the indicator and the message is directly available via the Analytics Hub or KPI Details.
 
 A threshold can be personal or global. A personal threshold is visible only to the user that created it and appears as a light grey dotted line, a global threshold is visible to all users and appears as a dark grey dotted line. Personal thresholds appear only on the Analytics Hub and KPI Details. The matrix of threshold visibility follows:
 
 |Platform Analytics experience feature|Equivalent Core UI feature|Global or Personal targets|
 |-------------------------------------|--------------------------|--------------------------|
-|[[kpi-details|KPI Details]]|[Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)|Global and personal|
-|[[create-dv-time-series-ac|Time series Platform Analytics data visualizations]]|[Time series Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-series-widgets.md)|Global|
-|[[analytics-center-dashboards|Dashboards in Platform Analytics]] containing time series data visualizations that show thresholds|[Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md) containing Time series [[c_Widgets|Performance Analytics widgets]] that show thresholds|Global|
-|[Proactive analytics insights cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/proactive-analytics/proactive-analytics.md) on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards, which show thresholds being breached|No equivalent|Global|
+|[KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)|[Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)|Global and personal|
+|[Time series Platform Analytics data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md)|[Time series Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-series-widgets.md)|Global|
+|[Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md) containing time series data visualizations that show thresholds|[Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show thresholds|Global|
+|[Proactive analytics insights cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/proactive-analytics/proactive-analytics.md) on Platform Analytics dashboards, which show thresholds being breached|No equivalent|Global|
 |UI Builder pages containing time series data visualizations that show thresholds|No equivalent|Global|
 
 Global thresholds can also appear on Performance Analytics [time series widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-series-widgets.md) and [data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md). Platform Analytics dashboards can alert viewers to events related to thresholds through [proactive analytics insights cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/proactive-analytics/proactive-analytics.md).
@@ -62,7 +62,7 @@ Thresholds can be set for any indicator. You can specify a breakdown and element
 
 5.  In the Thresholds panel, select either a Global or a Personal threshold.
 
-    Personal thresholds are visible only to you, although users with the admin role can edit or delete them Personal thresholds are not visible on [[widgets|widgets]].
+    Personal thresholds are visible only to you, although users with the admin role can edit or delete them Personal thresholds are not visible on widgets.
 
 6.  Either create a new threshold or edit or delete an existing threshold:
 
@@ -170,12 +170,3 @@ This procedures describes how to access the summary notification and change the 
 
 [Notifications](https://www.servicenow.com/docs/?context=CSHelp:Notifications-Landing)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[create-dv-time-series-ac|Create time series data visualizations]]
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

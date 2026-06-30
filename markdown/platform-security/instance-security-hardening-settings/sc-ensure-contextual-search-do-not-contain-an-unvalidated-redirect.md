@@ -18,7 +18,7 @@ Prevent Contextual Search results from containing referral links outside the cur
 
 The Contextual Search plugin displays search results in a new window using the **cxs\_new\_window** UI page. This UI page contains a referral link which can be set by providing a value to **sysparm\_url**. When the **com.snc.contextual\_search.cxs\_new\_window.force\_relative\_link** system property is set to **true**, **sysparm\_url** can only contain links that are relative to the current domain. This restriction prevents the UI page from being used as an unvalidated redirect to an attacker-controlled website. When the property is set to **false**, **sysparm\_url** can link to any website.
 
-Set the **com.snc.contextual\_search.cxs\_new\_window.force\_relative\_link** property to **true**. If the property doesn’t exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **false**. If the property exists on the table, it defaults to **true**.
+Set the **com.snc.contextual\_search.cxs\_new\_window.force\_relative\_link** property to **true**. If the property doesn’t exist on the System Properties \[sys\_properties\] table, the default value is **false**. If the property exists on the table, it defaults to **true**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -118,7 +118,3 @@ The Contextual Search \(com.snc.contextual\_search\) plugin must be active.
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

@@ -12,22 +12,16 @@ breadcrumb: [Use surveys, Surveys, Assessments and Surveys, Exploring Service Ad
 
 # Survey questionnaires
 
-All [[r_SurveyManagementLandingPage|surveys]] that are assigned to you appear in your personal assessment and survey queue.
+All surveys that are assigned to you appear in your personal assessment and survey queue.
 
 No special role is required to complete a survey but you must be logged in and the survey must be assigned to you. When you submit a survey, the system stores your responses.
 
 ## Survey notification
 
-If the system is configured to send [[email|email]], it sends you a notification when a survey is assigned to you. The message contains a link to the survey and instructions for viewing the assessment and survey queue.
+If the system is configured to send email, it sends you a notification when a survey is assigned to you. The message contains a link to the survey and instructions for viewing the assessment and survey queue.
 
--   **[[t_TakeASurvey|Take a survey]]**  
+-   **[Take a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeASurvey.md)**  
 Take an assigned survey that appears in your assessment and survey queue.
 
-**Parent Topic:**[[using-surveys|Using surveys]]
+**Parent Topic:**[Using surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-surveys.md)
 
-## Related
-
-- [[t_TakeASurvey|Take a survey]]
-- [[using-surveys|Using surveys]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[email|Email]]

@@ -12,7 +12,7 @@ breadcrumb: [Certificates, Encryption]
 
 # Generating an LDAP client certificate
 
-Generate an LDAP client certificate for mutual [[c_Authentication|authentication]] using OpenSSL. The final output is a PKCS\#12 certificate stored within a Java keystore.
+Generate an LDAP client certificate for mutual authentication using OpenSSL. The final output is a PKCS\#12 certificate stored within a Java keystore.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Enter these commands in a command line interface.
     For example, this command converts the client certificate and private key to a PKCS\#12 certificate called test1-certificate.pfx.
 
     ```
-    openssl pkcs12 -[[export|export]] -out test1-certificate.pfx -inkey test1-key.key -in test1-cert.crt
+    openssl pkcs12 -export -out test1-certificate.pfx -inkey test1-key.key -in test1-cert.crt
     ```
 
 3.  Generate the Java Key Store and import the pkcs12 file into it.
@@ -50,7 +50,7 @@ Enter these commands in a command line interface.
     keytool -importkeystore -srckeystore test1-certificate.pfx -srcstoretype PKCS12 -destkeystore test1.jks
     ```
 
-4.  [[t_UploadACertificateToAnInstance|Upload the certificate]] in the keystore file \(`test1.jks`\) to the instance.
+4.  [Upload the certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md) in the keystore file \(`test1.jks`\) to the instance.
 
     **Note:**
 
@@ -61,10 +61,10 @@ Enter these commands in a command line interface.
 
 [Uploading a certificate to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)
 
--   **[[t_GenerateAServerCertificate|Generating a server certificate]]**  
-You can use keytool to generate a new Java keystore file, create a certificate signing [[c_requestAPI|request]] \(CSR\), and import the private key, public certificate pair, and signed certificates into the keystore.
+-   **[Generating a server certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAServerCertificate.md)**  
+You can use keytool to generate a new Java keystore file, create a certificate signing request \(CSR\), and import the private key, public certificate pair, and signed certificates into the keystore.
 
-**Parent Topic:**[[c_Certificates|Certificates]]
+**Parent Topic:**[Certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_Certificates.md)
 
 **Related topics**  
 
@@ -73,11 +73,3 @@ You can use keytool to generate a new Java keystore file, create a certificate s
 
 [Uploading a certificate to an instance]()
 
-## Related
-
-- [[t_UploadACertificateToAnInstance|Uploading a certificate to an instance]]
-- [[t_GenerateAServerCertificate|Generating a server certificate]]
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]
-- [[export|Export]]
-- [[c_requestAPI|request]]

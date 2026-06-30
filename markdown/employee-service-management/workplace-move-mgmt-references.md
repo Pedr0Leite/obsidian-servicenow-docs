@@ -16,12 +16,8 @@ Several components and properties are installed with Workplace Move Management.
 
 Many Roles, tables, and properties are installed with Workplace Move Management.
 
--   **[[components-installed-with-workplace-move-mgmt|Components installed with Workplace Move Management]]**  
+-   **[Components installed with Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/components-installed-with-workplace-move-mgmt.md)**  
 Several types of components are installed with the Workplace Move Management application, including tables and user roles.
 
-**Parent Topic:**[[workplace-move-mgmt-overview|Workplace Move Management]]
+**Parent Topic:**[Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-move-mgmt-overview.md)
 
-## Related
-
-- [[components-installed-with-workplace-move-mgmt|Components installed with Workplace Move Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

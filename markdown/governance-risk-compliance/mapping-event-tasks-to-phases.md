@@ -16,20 +16,13 @@ Starting with BCM, version 9.x.x, BCM administrators set up active phases in the
 
 ## Phases in recovery
 
-Organizing event tasks into logical phases provides a structure to the recovery activities. The logical grouping helps you to understand the progression of [[exercise-management-uib|exercises]] or [[crisis-management-uib|crisis events]], maintain flexibility in execution, and navigate complex recovery processes effectively.
+Organizing event tasks into logical phases provides a structure to the recovery activities. The logical grouping helps you to understand the progression of exercises or crisis events, maintain flexibility in execution, and navigate complex recovery processes effectively.
 
 You can tag the event tasks to an appropriate phase such as Preparation, Recovery, Post incident review, and so on as part of recovery. This kind of mapping verifies structured and efficient handling of event tasks.
 
-For more information on phases in recovery, see [[mapping-recovery-tasks-to-phases|Mapping recovery tasks to phases]].
+For more information on phases in recovery, see [Mapping recovery tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-recovery-tasks-to-phases.md).
 
-The Phase column now appears directly in the event task [[list-view-uib-ws|list view]], allowing tasks to be filtered by phase without navigating to individual task records.
+The Phase column now appears directly in the event task list view, allowing tasks to be filtered by phase without navigating to individual task records.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[mapping-recovery-tasks-to-phases|Mapping recovery tasks to phases]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]
-- [[crisis-management-uib|Crisis events]]
-- [[list-view-uib-ws|List view]]

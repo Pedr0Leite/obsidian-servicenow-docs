@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Event queues performance metrics
 
-The metrics provide the event [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the event performance snapshot within the ServiceNow AI Platform®.
 
 ## Event Queue Backlog
 
@@ -42,7 +42,7 @@ This represents the delta change in the number of high priority events that are 
 
 If the high priority events processed delta is at zero, then it means that the queue has nothing further to process or there has been a failure in the event processor.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -51,7 +51,7 @@ If the high priority events processed delta is at zero, then it means that the q
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -87,8 +87,3 @@ If the high priority events processed delta is at zero, then it means that the q
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

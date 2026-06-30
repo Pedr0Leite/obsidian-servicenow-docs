@@ -14,7 +14,7 @@ breadcrumb: [Explore, Agent Chat, Conversational Interfaces]
 
 # Dynamic Translation for Agent Chat overview
 
-Dynamic Translation for [[ci-use-agent-chat|Agent Chat]] \(DTAC\) translates chat conversations from one language to another. This translating enables agents and requesters to have chat conversations with each other without the need of a shared language.
+Dynamic Translation for Agent Chat \(DTAC\) translates chat conversations from one language to another. This translating enables agents and requesters to have chat conversations with each other without the need of a shared language.
 
 For example, a requester who speaks only French starts a chat conversation with a live agent who speaks only English. From the requester’s view, the entire conversation is conducted in French, while from the agent’s view, the entire conversation is conducted in English.
 
@@ -56,6 +56,3 @@ DTAC does not translate agent presence states.
 
 When inserting an attachment into a chat, DTAC does not translate the file name or the contents of the attachment.
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

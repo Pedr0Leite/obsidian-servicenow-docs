@@ -14,7 +14,7 @@ breadcrumb: [Resource plans, Resource Management classic, Project Portfolio Mana
 
 # Request resources
 
-After you [[t_CreateResourcePlanProjectTask|create a resource plan]], request resources from the resource manager.
+After you create a resource plan, request resources from the resource manager.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: it\_project\_manager, resource\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **All**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **All**.
 
 2.  Open a resource plan that is in the Planning state.
 
@@ -76,7 +76,3 @@ The resource plan moves to the Requested state and is ready for review by the re
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[c_ResourcePlans|Resource plans]]

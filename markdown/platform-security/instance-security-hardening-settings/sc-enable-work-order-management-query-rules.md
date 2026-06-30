@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Functional impact
 
 When set to true, rules/filters from sn\_query\_rule table are used to determine read access to Field service management related tables. For example, Work Order \(WO\) and Work Order Table \(WOT\) to the logged-in user through query business rules and READ ACLs. When false, the records aren't filtered based on query rules.
 
- Enabling this property secures the data, and all data \(wm\_task and wm\_order\) won't be visible to their [[users|users]].
+ Enabling this property secures the data, and all data \(wm\_task and wm\_order\) won't be visible to their users.
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

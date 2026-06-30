@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Serv
 
 # Work on a Health and Safety case
 
-Work on a safety case to provide information, ensure that any outstanding tasks are completed, and resolve the employee's questions and compensation claims related to [[health-safety-overview|health and safety]].
+Work on a safety case to provide information, ensure that any outstanding tasks are completed, and resolve the employee's questions and compensation claims related to health and safety.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When an employee or a worker submits a health and safety question or compensatio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\).
 
@@ -103,7 +103,3 @@ When an employee or a worker submits a health and safety question or compensatio
 
 The safety case moves to the Closed Complete state.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

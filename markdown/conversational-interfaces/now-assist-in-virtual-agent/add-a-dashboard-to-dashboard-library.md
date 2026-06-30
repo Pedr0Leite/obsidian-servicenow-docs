@@ -14,14 +14,14 @@ breadcrumb: [Related dashboards page, Analyzing assistants, Now Assist in Virtua
 
 # Add a dashboard to dashboard library
 
-Add a dashboard to the [[related-dashboards-page|Related Dashboards page]] in Assistant analytics so that users can access it from the dashboard library.
+Add a dashboard to the Related Dashboards page in Assistant analytics so that users can access it from the dashboard library.
 
 ## Before you begin
 
 Role required: virtual\_agent\_admin
 
 1.  Ensure you have the dashboard created in Platform Analytics.
-2.  Configure the dashboard visibility in Platform Analytics to include [[assistant-designer|Assistant Designer]]. See [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md) for more information.
+2.  Configure the dashboard visibility in Platform Analytics to include Assistant Designer. See [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md) for more information.
 3.  Share the dashboard with virtual\_agent-admin role. See [Share a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md) for more information.
 
 ## About this task
@@ -52,7 +52,4 @@ Adding a dashboard to the library makes it available to users on the Related Das
 
     The dashboard is added to All dashboards section. If you selected the Pin dashboard check box, the dashboard appears in the Pinned dashboards section as well.
 
-## Related
 
-- [[related-dashboards-page|Related dashboards page]]
-- [[assistant-designer|Assistant Designer]]

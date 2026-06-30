@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]** and open a survey for which you are not a survey user.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys** and open a survey for which you are not a survey user.
 
 2.  Under **Related Links**, click **View Survey URL**.
 
@@ -31,7 +31,7 @@ Role required: admin or survey\_admin
     You see a message that you are not authorized to take the survey.
 
 
-**Parent Topic:**[[c_SurveyURLs|Survey URLs]]
+**Parent Topic:**[Survey URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyURLs.md)
 
 **Related topics**  
 
@@ -42,7 +42,3 @@ Role required: admin or survey\_admin
 
 [Obtain a survey instance URL]()
 
-## Related
-
-- [[c_SurveyURLs|Survey URLs]]
-- [[r_SurveyManagementLandingPage|Surveys]]

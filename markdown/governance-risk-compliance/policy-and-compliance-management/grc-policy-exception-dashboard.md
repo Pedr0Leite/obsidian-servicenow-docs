@@ -18,7 +18,7 @@ The Policy Exception Overview Performance Analytics dashboard provides views int
 
 ## Policy Exception Overview dashboard
 
-**Important:** Starting with version 18.1.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the Policy Exception Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.1 of the Policy and Compliance Management application, the Policy Exception Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -56,6 +56,3 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 
 **Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

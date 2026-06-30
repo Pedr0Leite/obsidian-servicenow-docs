@@ -14,7 +14,7 @@ breadcrumb: [Connect Chat use, Connect Chat, Connect, ServiceNow AI Platform Add
 
 # Add or remove conversation members
 
-In [[c_Collaboration|Connect Chat]], any member of a group or record conversation can add or remove other conversation members. In a direct conversation with only two people, you cannot add members to the conversation after you create it.
+In Connect Chat, any member of a group or record conversation can add or remove other conversation members. In a direct conversation with only two people, you cannot add members to the conversation after you create it.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Open a group or record conversation in the [[c_CollaborationWorkspace|Connect workspace]].
+1.  Open a group or record conversation in the Connect workspace.
 
 2.  In the conversation tools to the right of the conversation pane, click the member list tab \(\[Omitted image "IconMemberList.png"\] Alt text: Member list tab\).
 
@@ -40,7 +40,7 @@ Role required: none
 
 </td></tr><tr><td id="d159786e102">
 
-**[[t_RemoveAMember|Remove a member]]**
+**Remove a member**
 
 </td><td>
 
@@ -50,9 +50,3 @@ Role required: none
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[c_CollaborationWorkspace|Connect workspace]]
-- [[t_RemoveAMember|Remove a member]]

@@ -14,7 +14,7 @@ breadcrumb: [Approval process management, Reference, Third-party Risk Management
 
 # Approval rule form
 
-The [[approval-rule-form|approval rule form]] captures all the information needed to create an approval rule. An admin or third-party risk admin can create an approval rule.
+The approval rule form captures all the information needed to create an approval rule. An admin or third-party risk admin can create an approval rule.
 
 <table id="table_ln3_y5g_3rc"><thead><tr><th>
 
@@ -183,6 +183,3 @@ Script to determine approvers. **users** and **groups** in the script are select
 </td></tr></tbody>
 </table>**Parent Topic:**[Approval process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-approvals.md)
 
-## Related
-
-- [[approval-rule-form|Approval Rule form]]

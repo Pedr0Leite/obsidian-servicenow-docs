@@ -14,17 +14,17 @@ breadcrumb: [Conversational IVR with Amazon Connect, Integrating Virtual Agent w
 
 # Install Conversational IVR with Amazon Connect
 
-Install Conversational IVR with Amazon Connect application, to use interactive voice response \(IVR\) with [[virtual-agent-landing-page|Virtual Agent]].
+Install Conversational IVR with Amazon Connect application, to use interactive voice response \(IVR\) with Virtual Agent.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** Before installing [[va-ivr-voice|Conversational IVR with Amazon Connect]], ensure that you have installed the Glide Virtual Agent \(com.glide.cs.custom.adapter\) plugin in your ServiceNow instance.
+**Note:** Before installing Conversational IVR with Amazon Connect, ensure that you have installed the Glide Virtual Agent \(com.glide.cs.custom.adapter\) plugin in your ServiceNow instance.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select **Virtual Agent** on the left pane and navigate to **Add virtual agent to your contact center**.
 
@@ -38,13 +38,7 @@ Role required: admin
 To learn how to configure your AWS account for enabling Conversational IVR, see [Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md).
 
 -   **[Components installed with Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/components-installed-with-va-ivr.md)**  
-After installing the Conversational IVR with Amazon Connect application from the ServiceNow Store, the additional dependant plugins and [[topic-spokes-subtab-pae|spokes]] get auto-installed to enable other features for interactive voice response.
+After installing the Conversational IVR with Amazon Connect application from the ServiceNow Store, the additional dependant plugins and spokes get auto-installed to enable other features for interactive voice response.
 
 **Parent Topic:**[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-ivr-voice|Conversational IVR with Amazon Connect]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[topic-spokes-subtab-pae|Spokes]]

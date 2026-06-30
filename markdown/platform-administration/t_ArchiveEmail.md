@@ -38,12 +38,8 @@ You can manually archive email messages that meet these archive rules or any add
 
 4.  Select **Run Archive Now**.
 
-    **Note:** You can also [[t_CreateAnArchiveRule|Create an archive rule]].
+    **Note:** You can also [Create an archive rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
 
-**Parent Topic:**[[email-retention|Email retention]]
+**Parent Topic:**[Email retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-## Related
-
-- [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
-- [[email-retention|Email retention]]

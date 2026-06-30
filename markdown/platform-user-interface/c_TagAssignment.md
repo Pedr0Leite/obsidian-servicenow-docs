@@ -18,7 +18,7 @@ The list view provides multiple ways of assigning tags. You can assign tags with
 
 **Note:** Tag names are case-insensitive and must not include punctuation.
 
-**Parent Topic:**[[c_Tags|Tags]]
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Assign a tag from the list view using inline field editing
 
@@ -136,6 +136,4 @@ Enter a new tag name.
 </td></tr></tbody>
 </table>    The tag is added to the record.
 
-## Related
 
-- [[c_Tags|Tags]]

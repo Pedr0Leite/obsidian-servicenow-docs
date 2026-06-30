@@ -16,7 +16,7 @@ breadcrumb: [Process overview, NIST RMF Use Case Accelerator, GRC use case accel
 
 Within the NIST RMF application, the **Monitor** section involves the on-going monitoring of the security controls for targets documenting changes to them or their environments of operation, conducting security impact analyses of the associated changes, and reporting their security state to designated officials.
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Monitoring is a critical step in the RMF process. In-effective targets \(profiles\), controls, and test plans can be continuously monitored and their known risks and issues addressed. Security controls should be automatically monitored where possible using indicators, triggering alerts for remediation.
 
@@ -29,6 +29,3 @@ The NIST RMF monitor dashboard provides insights into the overall status of the 
 
 **Parent Topic:**[NIST RMF process overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/nist-rmf-process.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]

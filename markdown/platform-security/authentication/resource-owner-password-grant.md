@@ -14,7 +14,7 @@ breadcrumb: [Inbound integrations, OAuth Inbound, OAuth authentication, Authenti
 
 # Resource owner password credential grant
 
-Configuring an [[oauth-inbound-and-outbound|OAuth]] Resource Owner Password Credential \(ROPC\) grant enables applications to authenticate [[users|users]] by directly using their credentials to obtain an access token.
+Configuring an OAuth Resource Owner Password Credential \(ROPC\) grant enables applications to authenticate users by directly using their credentials to obtain an access token.
 
 -   **Ideal for:**
 
@@ -38,7 +38,3 @@ Avoid using this grant in modern applications unless absolutely necessary. For s
 
 [Configure an OAuth resource owner password credential grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-an-oauth-resource-owner-password-credential-grant.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[users|Users]]

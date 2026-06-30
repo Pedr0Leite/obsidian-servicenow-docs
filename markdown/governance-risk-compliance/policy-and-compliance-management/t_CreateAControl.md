@@ -342,7 +342,7 @@ Access Settings
 
 </td></tr><tr><td>
 
-[[entity-based-access|Entity based access]] restriction
+Entity based access restriction
 
 </td><td>
 
@@ -358,9 +358,5 @@ When **Entity based access restriction** is enabled, only users or user groups i
 
 ## What to do next
 
-After you create a control, you can convert the control to a common control and add reliant entities and reliant [[entity-type-in-risk-ws|entity types]] to it. For more information, see [Testing common control and implementing results on multiple reliant entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/common-controls-multiple-rel-entities.md).
+After you create a control, you can convert the control to a common control and add reliant entities and reliant entity types to it. For more information, see [Testing common control and implementing results on multiple reliant entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/common-controls-multiple-rel-entities.md).
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[entity-type-in-risk-ws|Entity types]]

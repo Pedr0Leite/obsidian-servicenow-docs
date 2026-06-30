@@ -12,11 +12,11 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Create a custom context variable
 
-Create custom context variables to represent product or non-product characteristics that can be used by pricing admins to apply different pricing features, such as pricing adjustments, or product catalog admins to set product offering eligibility [[rules_101|rules]].
+Create custom context variables to represent product or non-product characteristics that can be used by pricing admins to apply different pricing features, such as pricing adjustments, or product catalog admins to set product offering eligibility rules.
 
 ## Before you begin
 
-Before creating a custom variable, review the context variables available in the Context Variables \[sn\_csm\_ctxrul\_mgt\_context\_variable\] table to verify whether you need a new one. This table identifies the system-defined variables provided with [[product-catalog-managment|Product Catalog Management]] and [[pricing-management|Pricing Management]] and also any custom variables that have been created.
+Before creating a custom variable, review the context variables available in the Context Variables \[sn\_csm\_ctxrul\_mgt\_context\_variable\] table to verify whether you need a new one. This table identifies the system-defined variables provided with Product Catalog Management and Pricing Management and also any custom variables that have been created.
 
 For example, the system-defined context variables provided for non-product attributes include: Account, Shipping Country, Shipping City, Shipping State, Shipping Zip, Billing Country, Billing City, Billing State, Billing Zip, and Transaction Date.
 
@@ -26,7 +26,7 @@ Role required: admin
 
 As an administrator, you can create custom context variables for items such as non-product characteristics, that your pricing and product catalog administrators can use in rule matrices to control pricing features or product offering eligibility. For example, your pricing administrator might want to define pricing adjustments based on sales segment, but sales segment isn’t a system-defined context variable.
 
-You create the variable name and define the variable type, so that the variable can be used in a decision rule for a rule matrix. After you create the variable, you must also [[som-map-variable|map the context variable to the transaction entity]], such as quote or order, from which the system retrieves the context.
+You create the variable name and define the variable type, so that the variable can be used in a decision rule for a rule matrix. After you create the variable, you must also [map the context variable to the transaction entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-map-variable.md), such as quote or order, from which the system retrieves the context.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ You create the variable name and define the variable type, so that the variable 
 
 3.  In the Context Variables list, select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
 <table id="table_fxl_wh5_g1c"><thead><tr><th>
 
@@ -134,7 +134,7 @@ Pricing api key field
 
 </td><td>
 
-Reference field for a context variable that defines an external ID used in pricing requests in the Sales CRM Pricing API. For more information on external IDs and custom context variables, see [[external-ids-pricingapi|External ID support in Sales CRM Pricing API]].
+Reference field for a context variable that defines an external ID used in pricing requests in the Sales CRM Pricing API. For more information on external IDs and custom context variables, see [External ID support in Sales CRM Pricing API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/external-ids-pricingapi.md).
 
 </td></tr><tr><td>
 
@@ -162,11 +162,3 @@ Option that indicates the context variable is available for use in rule matrices
 
 For context variables that are mapped to fields, [map the custom context variable to a transaction entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-map-variable.md).
 
-## Related
-
-- [[som-map-variable|Map a custom context variable to a transaction entity]]
-- [[external-ids-pricingapi|External ID support in Sales CRM Pricing API]]
-- [[rules_101|Rules]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[pricing-management|Pricing Management]]
-- [[fields|Fields]]

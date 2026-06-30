@@ -24,8 +24,6 @@ Role required: admin
 
 2.  To view records from all domains, click **Expand Domain Scope** under Related Links.
 
-3.  To return to viewing records from the global domain only, click **Collapse [[c_DomainScope|Domain Scope]]**.
+3.  To return to viewing records from the global domain only, click **Collapse Domain Scope**.
 
-## Related
 
-- [[c_DomainScope|Domain scope]]

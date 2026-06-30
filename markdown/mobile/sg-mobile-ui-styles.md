@@ -20,7 +20,7 @@ Legacy cards
 
  Use legacy cards to show a summary of a record in an easy to read format. Legacy cards are the patterns that define the appearance and location of fields in an applet. Legacy cards are specific to a screen, each screen has its own unique legacy card record.
 
- Learn more about legacy cards at [[mobile-hierarchy|Mobile hierarchy]].
+ Learn more about legacy cards at [Mobile hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md).
 
 </td><td>
 
@@ -46,7 +46,7 @@ Mobile UI Rules
 
  In the example to the right, a UI style hides the **Impact** field based on conditions defined by an administrator.
 
- For more information on mobile UI rules, see [[mobile-ui-rules|Mobile UI Rules]].
+ For more information on mobile UI rules, see [Mobile UI Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
 
 </td><td>
 
@@ -56,9 +56,9 @@ Mobile UI Rules
 
 Icons
 
- Use icons to provide unique visual identifiers for navigation tabs and [[sg-config-quick-actions|quick actions]] in your mobile applications.
+ Use icons to provide unique visual identifiers for navigation tabs and quick actions in your mobile applications.
 
- To learn more about mobile icons, see [[sg-mobile-icon|Mobile icons]].
+ To learn more about mobile icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
  **Note:** Custom mobile icons are not supported.
 
@@ -68,10 +68,3 @@ Icons
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-hierarchy|Mobile hierarchy]]
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-config-quick-actions|Quick actions]]

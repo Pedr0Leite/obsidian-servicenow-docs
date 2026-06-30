@@ -12,7 +12,7 @@ breadcrumb: [Sharing task plan templates, Task Plan Templates, Case management, 
 
 # Manage task plan template access from the workspace
 
-Remove access entries for a task plan template to control who can view or use it in the [[task-plan-templates|Task Plan Templates]] workspace.
+Remove access entries for a task plan template to control who can view or use it in the Task Plan Templates workspace.
 
 ## Before you begin
 
@@ -48,12 +48,7 @@ The Manage access view displays all existing access entries for a template. Acce
 **Related topics**  
 
 
-[[share-task-plan-template-with-user-groups-serviceorg|Share a task plan template with other users or groups]]
+[Share a task plan template with other users or groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/share-task-plan-template-with-user-groups-serviceorg.md)
 
-[[notify-users-when-taskplan-template-is-shared|Notify users when a task plan template is shared]]
+[Notify users when a task plan template is shared](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/notify-users-when-taskplan-template-is-shared.md)
 
-## Related
-
-- [[share-task-plan-template-with-user-groups-serviceorg|Share a task plan template with other users or groups]]
-- [[notify-users-when-taskplan-template-is-shared|Notify users when a task plan template is shared]]
-- [[task-plan-templates|Task Plan Templates]]

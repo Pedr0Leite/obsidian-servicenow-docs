@@ -14,13 +14,9 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Content security in AI Search
 
-When indexing records, [[ia-ai-search|AI Search]] preserves their ServiceNow AI Platform® security features. At query time, AI Search filters search query [[hs-results|results]] and displays only records that the user can access.
+When indexing records, AI Search preserves their ServiceNow AI Platform® security features. At query time, AI Search filters search query results and displays only records that the user can access.
 
 For more information on how AI Search handles security features for ServiceNow AI Platform table records, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

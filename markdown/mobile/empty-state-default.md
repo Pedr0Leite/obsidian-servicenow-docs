@@ -19,7 +19,7 @@ Configure an empty state to inform users that a page currently does not contain 
 Whether creating a default or specific empty state, the following items might be required if you plan to display an image or button:
 
 -   An image from the Attachments \[sys\_attachment\] table.
--   Defined button actions from the Function \[sys\_sg\_button\] table. For more information, see [[sg-studio-config-smart-button|Configure a smart button]].
+-   Defined button actions from the Function \[sys\_sg\_button\] table. For more information, see [Configure a smart button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-smart-button.md).
 
 Role required: admin
 
@@ -27,21 +27,21 @@ Role required: admin
 
 This task explains how to configure a default empty state used in all screens. For information about how to customize empty states for specific screens, see the following topics:
 
--   [[empty-state-list-screen|Configure an empty state for a list screen]].
--   [[empty-state-form-applet-embedded-list|Configure an empty state for an embedded list in a record screen]].
--   [[empty-state-search-results|Configure an empty state for search results]].
+-   [Configure an empty state for a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-list-screen.md).
+-   [Configure an empty state for an embedded list in a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-form-applet-embedded-list.md).
+-   [Configure an empty state for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-search-results.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Create an empty state record, then use the bridge to [[mobile-card-builder|Mobile Card Builder]] \(MCB\) to configure the card that is referenced by the empty state record:
+3.  Create an empty state record, then use the bridge to Mobile Card Builder \(MCB\) to configure the card that is referenced by the empty state record:
 
     1.  Select **All mobile records** in the menu.
 
@@ -96,8 +96,8 @@ Select **Choose** to select an existing card that is referenced by the empty sta
 
     Empty states can also be selected or created in the record editing screen in Mobile App Builder \(MAB\) for the following record types:
 
-    -   [[list-screen|List screen]]
-    -   [[map-screen|Map screen]]
+    -   List screen
+    -   Map screen
     -   Custom map screen
     -   Search config
     -   Mobile app config
@@ -114,14 +114,3 @@ Select **Choose** to select an existing card that is referenced by the empty sta
 
 An empty state displays in any screen that does not contain data.
 
-## Related
-
-- [[sg-studio-config-smart-button|Configure a smart button]]
-- [[empty-state-list-screen|Configure an empty state for a list screen]]
-- [[empty-state-form-applet-embedded-list|Configure an empty state for an embedded list in a record screen]]
-- [[empty-state-search-results|Configure an empty state for search results]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[list-screen|List screen]]
-- [[map-screen|Map screen]]

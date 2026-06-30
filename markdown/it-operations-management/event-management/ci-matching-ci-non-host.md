@@ -28,7 +28,7 @@ There may be cases where no match is found because the column names in the event
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New** and complete the required fields of the event rule.
 
@@ -52,7 +52,4 @@ There may be cases where no match is found because the column names in the event
 
 9.  Select **Save**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

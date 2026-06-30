@@ -17,12 +17,9 @@ breadcrumb: [Flow-based Playbooks, Security Incident Response playbooks, Playboo
 This playbook provides systematic remediation steps to investigate incidents that indicate that an internal hostname or domain has been assigned to an external IP address on the local DNS\(/etc/hosts\) of a Linux server.
 
 -   **[Set up the OSquery of External Address in the /etc/hosts file playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-setup-osquery-external-address.md)**  
-Use the following steps to [[playbook-setup-osquery-external-address|set up the OSquery of External Address in the /etc/hosts file playbook]].
+Use the following steps to set up the OSquery of External Address in the /etc/hosts file playbook.
 -   **[Use the OSquery of External Address in the /etc/hosts file playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-using-osquery-external-address.md)**  
 Use this playbook to investigate incidents that indicate that an internal hostname or domain has been assigned to an external IP address on the local DNS\(/etc/hosts\) of a Linux server. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the OSquery of external address in the /etc/hosts file playbook.
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[playbook-setup-osquery-external-address|Set up the OSquery of External Address in the /etc/hosts file playbook]]

@@ -14,7 +14,7 @@ breadcrumb: [Amazon DynamoDB, AWS discovery, Available cloud discovery patterns,
 
 # Define a Cloud REST Query for cloud computing devices
 
-As part of creating or modifying a [[r-discovery|discovery]] pattern, you can use the **Cloud REST Query** operation to extract information from configuration items \(CIs\) of the PaaS \(Platform as a Service\) type, such as Microsoft Azure or Amazon Web Services.
+As part of creating or modifying a discovery pattern, you can use the **Cloud REST Query** operation to extract information from configuration items \(CIs\) of the PaaS \(Platform as a Service\) type, such as Microsoft Azure or Amazon Web Services.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ As part of creating or modifying a [[r-discovery|discovery]] pattern, you can us
 
     1.  On the pattern form, select the relevant identification section for Discovery.
 
-        Alternatively, select the relevant identification or connection section for [[c_ServiceMappingOverview|Service Mapping]].
+        Alternatively, select the relevant identification or connection section for Service Mapping.
 
     2.  Select the relevant pattern step or click the **Add a step above** icon to add a step.
 
@@ -164,7 +164,3 @@ Use the Cloud REST Query operation to extract information about AWS buckets, the
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

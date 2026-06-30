@@ -28,7 +28,7 @@ The Geo map component \[sn\_geo\_map\] must be installed to use this feature. Fo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  In the **Default map location fields**, enter the latitude and longitude.
 
@@ -41,6 +41,3 @@ The latitude and longitude are saved as the default coordinates that loads while
 
 **Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/setting-up-hs-incident-mgmt.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

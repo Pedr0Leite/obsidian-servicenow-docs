@@ -19,7 +19,7 @@ Comparing cloud discovery solutions provides insights on the relative strengths 
 
 ## Discovery and Service Mapping Patterns vs. Service Graph Connectors
 
-ITOM Visibility offers two primary solutions for discovering cloud resources and mapping them into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]: Cloud Discovery and Service Mapping Patterns and Cloud [[cmdb-sgc-available|Service Graph Connectors]].
+ITOM Visibility offers two primary solutions for discovering cloud resources and mapping them into the Configuration Management Database \(CMDB\): Cloud Discovery and Service Mapping Patterns and Cloud Service Graph Connectors.
 
 Patterns are the core of ITOM Visibility's native discovery capabilities. They provide a deeper, more dynamic, and holistic view of your infrastructure. Patterns use a variety of discovery methods: Agentless, agent-based, and cloud-native, to create a unified, business-aware view of your services. By leveraging machine learning, patterns automatically map technical components to their business context, creating rich relationships, and a comprehensive knowledge graph.
 
@@ -37,7 +37,3 @@ By reviewing the coverage tables for AWS, Azure, and GCP, you can
 
 \[Omitted image "patterns-vs-sgc.jpg"\] Alt text: Bar chart that compares Patterns and Service Graph Connectors resource types: AWS \(83 patterns, 70 SGC\), Azure \(60 patterns, 22 SGC\), and GCP \(120 patterns, 107 SGC\).
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

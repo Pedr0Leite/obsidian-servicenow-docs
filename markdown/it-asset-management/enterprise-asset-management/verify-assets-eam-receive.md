@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Select the **Asset tasks** tab.
 
@@ -34,7 +34,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     **Note:** The **Asset received** flag is set to **false** before an asset is verified.
 
-5.  [[select-daas-asset|Select an asset]].
+5.  Select an asset.
 
 6.  Select **Verify**.
 
@@ -58,7 +58,3 @@ The state of the Receive task and its Drop off task changes to Closed Complete.
 
 [Record time worked on Drop off and Receive tasks for enterprise assets]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

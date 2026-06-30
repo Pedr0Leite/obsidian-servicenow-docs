@@ -14,7 +14,7 @@ breadcrumb: [Tagging in Knowledge Graph Designer, Using Enterprise graph schema,
 
 # Create Knowledge Graph tag
 
-Create [[knowledge-graph-landing|Knowledge Graph]] tags for [[platform-now-assist-landing|Now Assist]] Virtual Agent, AI agent or [[now-assist-center-now-assist-panel|Now Assist panel]] Enterprise Graph [[using-knowledge-graph-designer|using Knowledge Graph Designer]] to improve accuracy of natural language queries.
+Create Knowledge Graph tags for Now Assist Virtual Agent, AI agent or Now Assist panel Enterprise Graph using Knowledge Graph Designer to improve accuracy of natural language queries.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
     You are navigated to the Create New Tag record page.
 
-    \[Omitted image "kg-tags.png"\] Alt text: Tag Module [[now-assist-global-navigation|navigation]]
+    \[Omitted image "kg-tags.png"\] Alt text: Tag Module navigation
 
 2.  On the Create New Tag record page, add the following information:
 
@@ -44,13 +44,13 @@ Role required: admin
 
     \[Omitted image "kg-new-tag-table-config.png"\] Alt text: New tag configure tables page
 
-4.  Select a table from the left pane to add the following: , column and edge [[exploring-ai-governance|configurations]], data filters and hidden columns.
+4.  Select a table from the left pane to add the following: , column and edge configurations, data filters and hidden columns.
 
     -   Tables configurations: Synonyms and AI instructions
     -   Column and edge configurations: Synonyms and AI instructions
     -   Data filters
     -   Hidden columns
-    AI Instructions injects business context directly into the Knowledge Graph [[natural-language-query|natural language query]] engine, shaping how the system interprets and traverses data. Instructions can be configured at three levels:
+    AI Instructions injects business context directly into the Knowledge Graph natural language query engine, shaping how the system interprets and traverses data. Instructions can be configured at three levels:
 
     -   Node \(entity/table\)
     -   Property \(column/attribute\)
@@ -108,12 +108,4 @@ Role required: admin
 
 15. Select **Create tag** and repeat the same process for each of the selected columns.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[using-knowledge-graph-designer|Using Knowledge Graph Designer]]
-- [[now-assist-global-navigation|Navigation]]
-- [[exploring-ai-governance|Configurations]]
-- [[natural-language-query|Natural Language Query]]

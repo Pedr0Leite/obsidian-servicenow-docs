@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Create a CMDB Health orphan rule
 
-Create an orphan rule to determine the percentage of orphan CIs in the CMDB. This sum is then aggregated into the correctness [[c_CMDBHealth|CMDB Health]] KPI. Orphan rules are defined per class, and only a single orphan rule can be defined per class.
+Create an orphan rule to determine the percentage of orphan CIs in the CMDB. This sum is then aggregated into the correctness CMDB Health KPI. Orphan rules are defined per class, and only a single orphan rule can be defined per class.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ A health orphan rule can for example, identify a CI of the cmdb\_ci\_computer cl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to show the CI Classes list and then select the class for which to create an orphan rule.
 
@@ -89,7 +89,3 @@ The relationship conditions that a CI must fail,based on records in the CI Relat
 
 [CMDB Health Dashboard for Helsinki \| Overview](https://youtu.be/CvMRT3NExIo)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

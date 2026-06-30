@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Respond to a regulatory assessment
 
-Utilize the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] to respond to regulatory assessments from the [[employee-center|Employee Center]].
+Utilize the Smart Assessment Engine to respond to regulatory assessments from the Employee Center.
 
 ## Before you begin
 
@@ -54,7 +54,3 @@ The tasks that appear on the **Tasks** page are unique to the logged-in user and
 
 The requestor responsible for initiating the assessment can monitor the progress activity by accessing the Regulatory Assessment related list of a regulatory alert.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[employee-center|employee center]]

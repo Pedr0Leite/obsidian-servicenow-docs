@@ -22,17 +22,17 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 ## About this task
 
-In Configurable Workspace, you can only group control attestations, and not [[risk-assessments|risk assessments]], vendor assessments, or privacy assessments. Such assessments and those assessments that can't be grouped by the selected **Group by** criterion are marked as invalid and are displayed in the **Group previews** of the Group assessment pop-up, with a link to view such assessments.
+In Configurable Workspace, you can only group control attestations, and not risk assessments, vendor assessments, or privacy assessments. Such assessments and those assessments that can't be grouped by the selected **Group by** criterion are marked as invalid and are displayed in the **Group previews** of the Group assessment pop-up, with a link to view such assessments.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Select **GRC tasks** in the **My active items** pane of the Home page.
 
 3.  Select the Tasks \[Omitted image "icon-tprm-ws-tasks.png"\] Alt text: Electronic signature icon on the left pane.
 
-4.  Select the attestation records in the [[list-view-uib-ws|list view]] of the Tasks page that you'd like to group.
+4.  Select the attestation records in the list view of the Tasks page that you'd like to group.
 
     **Note:** You must select at least two and can select up to a maximum of 13 assessment records for grouping.
 
@@ -72,8 +72,4 @@ In Configurable Workspace, you can only group control attestations, and not [[ri
 
     The link takes you to the list view of the grouped assessments. Alternatively, you can also select the **Grouped attestations** on the left pane. The Assessment Instance page opens up, where you can take the assessment.
 
-## Related
 
-- [[risk-assessments|risk assessments]]
-- [[employee-center|employee center]]
-- [[list-view-uib-ws|List view]]

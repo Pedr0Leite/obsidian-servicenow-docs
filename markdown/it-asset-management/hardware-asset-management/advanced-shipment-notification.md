@@ -27,19 +27,19 @@ Use Advanced Shipment Notification \(ASN\) to automate and create asset records 
     For more details on all ASN data validations, see [Advanced Shipment Notification \(ASN\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asn-for-ham.md).
 
 
-Role required: ham\_admin, ham\_user, [[c_Procurement|procurement]]\_admin, asset, sn\_hamp.ham\_asn\_admin, or admin
+Role required: ham\_admin, ham\_user, procurement\_admin, asset, sn\_hamp.ham\_asn\_admin, or admin
 
 ## About this task
 
 **Note:**
 
-If the asset records that you want to create belong to [[model-hierarchy|model categories]] linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you must provide details for at least one of these fields in the ASN template. Otherwise, the asset record isn't created. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields.
+If the asset records that you want to create belong to model categories linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you must provide details for at least one of these fields in the ASN template. Otherwise, the asset record isn't created. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields.
 
 The identification rules for a CI class are defined in the CMDB Identification and Reconciliation engine \(IRE\). For more details, see [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_IdentificationRules.md) and [Create a CI identification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCIIdentificationRule.md). These rules help to uniquely identify the asset through these required fields and maintain accurate asset records.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Procurement**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Procurement**.
 
 2.  Select the **Advance shipment** tab.
 
@@ -66,7 +66,7 @@ The identification rules for a CI class are defined in the CMDB Identification a
     -   SVC contract end date: Warranty expiration date for the asset
     -   Carrier: Shipping carrier name
     -   Tracking number: Number to track the assets that are in transit
-    **Note:** The **OT entity** and **MAC address** columns in the ASN template are used to create Operational Technology \(OT\) assets when the [[ot-asset-management|OT Asset Management]] application is activated.
+    **Note:** The **OT entity** and **MAC address** columns in the ASN template are used to create Operational Technology \(OT\) assets when the OT Asset Management application is activated.
 
 6.  Select **Import**.
 
@@ -114,7 +114,7 @@ For rows that were ignored:
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -134,13 +134,13 @@ For rows that were ignored:
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -158,7 +158,7 @@ For rows that were ignored:
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -174,13 +174,3 @@ For rows that were ignored:
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[model-hierarchy|Model categories]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

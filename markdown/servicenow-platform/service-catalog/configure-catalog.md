@@ -14,7 +14,7 @@ breadcrumb: [Request experience in Now Mobile, Service Catalog in mobile, Integr
 
 # Configure catalogs
 
-Enable your users to view and request their associated items in the Now Mobile app. If no catalogs are selected, users can view and request items from all catalogs in the system. By default, the app uses [[service-catalog|Service Catalog]].
+Enable your users to view and request their associated items in the Now Mobile app. If no catalogs are selected, users can view and request items from all catalogs in the system. By default, the app uses Service Catalog.
 
 ## Before you begin
 
@@ -58,11 +58,7 @@ Your users can view and request items from all added catalogs.
 
 [Enable the cart in Now Mobile]()
 
-[Edit the [[label|label]] of Submit button for a record producer]()
+[Edit the label of Submit button for a record producer]()
 
 [Configure Now Mobile properties]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]

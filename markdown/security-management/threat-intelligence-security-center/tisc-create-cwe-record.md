@@ -14,17 +14,17 @@ breadcrumb: [Vulnerability Artifacts, TISC Library Repository, Threat Intelligen
 
 # Create a CWE record
 
-Create a Common Weakness Enumeration \(CWE\) record to represent a weakness identified in a system or product, and link it to relevant [[vulnerabilities|vulnerabilities]].
+Create a Common Weakness Enumeration \(CWE\) record to represent a weakness identified in a system or product, and link it to relevant vulnerabilities.
 
 ## Before you begin
 
 Role required: sn\_sec\_tisc.analyst
 
-You must have the appropriate role to create records in the [[threat-intel-landing-page|threat intelligence]] library.
+You must have the appropriate role to create records in the threat intelligence library.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Library** &gt; **[[vulnerability|Vulnerability Artifacts]]** &gt; **CWEs**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Library** &gt; **Vulnerability Artifacts** &gt; **CWEs**.
 
 2.  Click **New**.
 
@@ -80,8 +80,3 @@ Select a **Type**: **Primary** or **Secondary**.**Note:** The type indicates whe
 
 **Parent Topic:**[Vulnerability Artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerability|Vulnerability Artifacts]]

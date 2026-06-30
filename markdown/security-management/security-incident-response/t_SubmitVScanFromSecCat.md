@@ -14,7 +14,7 @@ breadcrumb: [Manage lookups and scans, Managing security incidents and inbound r
 
 # Submit a vulnerability scan request from the Security Incident Response catalog
 
-You can submit vulnerability scans for CIs and IP addresses from the [[sir-landing-page|Security Incident Response]] catalog. The requests are submitted and you can view the results in the **My Requests** module.
+You can submit vulnerability scans for CIs and IP addresses from the Security Incident Response catalog. The requests are submitted and you can view the results in the **My Requests** module.
 
 ## Before you begin
 
@@ -54,9 +54,5 @@ Use this catalog item to trigger a vulnerability scan on one or more configurati
 
 ## What to do next
 
-After the scan completes, review the results in the work notes of your service request. If [[vulnerabilities|vulnerabilities]] are found, a security incident or vulnerability item may be automatically created based on your instance configuration.
+After the scan completes, review the results in the work notes of your service request. If vulnerabilities are found, a security incident or vulnerability item may be automatically created based on your instance configuration.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[vulnerabilities|Vulnerabilities]]

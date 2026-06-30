@@ -30,20 +30,16 @@ The standard record page template in UI Builder displays some tabs by default. I
 
 The following components are added as tabs for the standard record page template.
 
--   **[[agent-assist-configurable-workspace|Agent assist]]**
+-   **[Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md)**
 
     Agent assist helps an agent resolve issues by providing a list of resources related to an open record's short description.
 
--   **[[attachments-configurable-workspace|Attachments]]**
+-   **[Attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/attachments-configurable-workspace.md)**
 
     The Attachments tab enables an agent to add, preview, download, or remove files from the current record.
 
--   **[[form-templates-configurable-workspace|Form templates]]**
+-   **[Form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/form-templates-configurable-workspace.md)**
 
     Form templates simplify the process of submitting new records by populating fields automatically.
 
-## Related
 
-- [[agent-assist-configurable-workspace|Agent assist]]
-- [[attachments-configurable-workspace|Attachments]]
-- [[form-templates-configurable-workspace|Form templates]]

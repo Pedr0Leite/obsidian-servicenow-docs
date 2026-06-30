@@ -26,7 +26,7 @@ Deleting a board does not impact the underlying task records. However, you canno
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Under **Boards you own**, hover over the board and click the delete icon \(**X**\).
 
@@ -48,6 +48,3 @@ Deleting a board does not impact the underlying task records. However, you canno
 
 [Add or remove a Visual Task Board member]()
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -16,11 +16,11 @@ Manage entitlement of applications from your ServiceNow instance.
 
 ## Before you begin
 
-Purchase the application on [[servicenow-store|ServiceNow Store]].
+Purchase the application on ServiceNow Store.
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -51,14 +51,7 @@ Application entitlement is provided to your ServiceNow instance.
 
 ## What to do next
 
-[[t_InstallApplications|Install]] the application if it’s compatible with the version of your ServiceNow instance.
+[Install](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md) the application if it’s compatible with the version of your ServiceNow instance.
 
-**Parent Topic:**[[entite-app|Manage entitlements from your ServiceNow instance]]
+**Parent Topic:**[Manage entitlements from your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/entite-app.md)
 
-## Related
-
-- [[t_InstallApplications|Install a ServiceNow Store application]]
-- [[entite-app|Manage entitlements from your ServiceNow instance]]
-- [[servicenow-store|ServiceNow Store]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

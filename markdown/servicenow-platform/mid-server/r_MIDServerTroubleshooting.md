@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # Resolving MID Server issues
 
-Troubleshoot problems with the [[mid-server-landing|MID Server]] to find solutions. Monitor the MID Server to receive alerts about issues as they occur. Troubleshooting procedures exist to resolve specific problems with the MID Server. The Knowledge Base on Hi contains several articles to help you troubleshoot MID Server issues.
+Troubleshoot problems with the MID Server to find solutions. Monitor the MID Server to receive alerts about issues as they occur. Troubleshooting procedures exist to resolve specific problems with the MID Server. The Knowledge Base on Hi contains several articles to help you troubleshoot MID Server issues.
 
 ## Monitor the MID Server
 
@@ -30,7 +30,7 @@ Monitoring a MID Server involves verifying entries in log files, confirming netw
 
 -   From the MID Server instance, navigate to the **MID Servers** page, and review the status of the MID Server. For additional information, click a **Name**.
 
--   Set up [[email|email]], SMS, and push notifications to alert you when issues occur with MID servers. The **MID Server Down** notification is enabled by default. See [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md) for details.
+-   Set up email, SMS, and push notifications to alert you when issues occur with MID servers. The **MID Server Down** notification is enabled by default. See [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md) for details.
 
 
 ## Java Flight Recorder
@@ -53,7 +53,7 @@ The following procedures provide information on resolving specific problems with
 
 -   **[Active MID Server post-cloning credential issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-post-clone-issue-resolution.md)**
 
-    The system provides automatic processes to detect and [[notify-landing-page|notify]] you of possible MID Server credential issues after instance cloning.
+    The system provides automatic processes to detect and notify you of possible MID Server credential issues after instance cloning.
 
 -   **[MID Server resource threshold alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-resource-threshold-alerts.md)**
 
@@ -75,7 +75,7 @@ The following procedures provide information on resolving specific problems with
 -   **[MID Server active issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-active-issues.md)**  
 The ServiceNow® instance has a dedicated table that publishes active issues with MID Servers and alerts administrators when a MID Server is in danger of exceeding its resources.
 -   **[MID Server fails to start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-startup-fails.md)**  
-When a newly installed [[mid-startup-fails|MID Server fails to start]] or shuts down prematurely, improper configuration could be to blame.
+When a newly installed MID Server fails to start or shuts down prematurely, improper configuration could be to blame.
 -   **[Active MID Server post-cloning credential issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-post-clone-issue-resolution.md)**  
 The system provides automatic processes to detect and notify you of possible MID Server credential issues after instance cloning.
 -   **[MID Server resource threshold alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-resource-threshold-alerts.md)**  
@@ -120,9 +120,3 @@ Use this module to troubleshoot errors that occur during the MID Server upgrade 
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]
-- [[mid-startup-fails|MID Server fails to start]]

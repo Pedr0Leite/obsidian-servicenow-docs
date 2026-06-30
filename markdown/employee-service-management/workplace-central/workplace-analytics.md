@@ -19,10 +19,10 @@ The ServiceNow Workplace Analytics dashboard displays key metrics that enable yo
 ## Key features
 
 -   Data-driven insights, trends, and key performance indicators for the following applications:
-    -   [[space-optimization|Space Optimization]]
+    -   Space Optimization
     -   Lease Administration
     -   Maintenance Management
-    -   [[workplace-connectors-landing-page|Workplace Connectors]]
+    -   Workplace Connectors
 -   Filters to narrow down the data selection.
 
 ## Benefits
@@ -36,7 +36,7 @@ The ServiceNow Workplace Analytics dashboard displays key metrics that enable yo
 
 ## Accessing Workplace Analytics
 
-To access Workplace Analytics, [[workplace-central-feat|Workplace Central]] must be installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md).
+To access Workplace Analytics, Workplace Central must be installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md).
 
 You can access Workplace Analytics by using one of the following methods:
 
@@ -70,8 +70,3 @@ For more information about how to use Workplace Analytics, see [Working with Wor
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-central-feat|Workplace Central]]

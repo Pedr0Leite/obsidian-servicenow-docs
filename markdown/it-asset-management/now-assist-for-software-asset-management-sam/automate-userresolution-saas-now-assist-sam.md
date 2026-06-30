@@ -22,15 +22,15 @@ Role required: sam\_integrator
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-Ensure that you have the latest compatible versions of the [[c_SoftwareAssetMgmt|Software Asset Management]] plugin and the Software asset Management- [[sam-subscription-management|SaaS License Management]] plugin.
+Ensure that you have the latest compatible versions of the Software Asset Management plugin and the Software asset Management- SaaS License Management plugin.
 
 After activation, the SaaS user resolution skill operates automatically generating user resolution rules and resolving users without any manual intervention. To view the resolved users and the corresponding user resolution rules, perform the following steps.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  Select the [[operations-workspace|License operations view]].
+2.  Select the License operations view.
 
 3.  Select **User subscription** &gt; **User subscription**.
 
@@ -48,15 +48,8 @@ After activation, the SaaS user resolution skill operates automatically generati
 
     For details on the rule, refer to the AI Activity log under Activity center that provides a detailed log of the steps involved in creating the rule. For details on all the fields, see [User resolution rule fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/user-resolution-rule-fields.md).
 
-    You can also refer to the Activity center in the [[sam-workspace-landing|Software asset overview]] view for any new rules created. Additionally, if a rule isn’t marked **Active**, it shows up as **One marked inactive Review needed** under the SaaS user resolution section. If you go back to the rule and mark it as Active, save the rule, return to the Software asset overview view, and reload the **One marked inactive Review needed** no longer appears.
+    You can also refer to the Activity center in the Software asset overview view for any new rules created. Additionally, if a rule isn’t marked **Active**, it shows up as **One marked inactive Review needed** under the SaaS user resolution section. If you go back to the rule and mark it as Active, save the rule, return to the Software asset overview view, and reload the **One marked inactive Review needed** no longer appears.
 
 
 **Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[sam-workspace-landing|Software asset overview]]

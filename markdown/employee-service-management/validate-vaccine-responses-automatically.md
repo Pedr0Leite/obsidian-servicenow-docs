@@ -12,7 +12,7 @@ breadcrumb: [Automating vaccine response reviews, Vaccination Status, Safe Workp
 
 # Validate vaccine responses automatically
 
-Configure [[vaccination-status|Vaccination Status]] so that validator services can validate vaccine responses automatically with information from supported attachments.
+Configure Vaccination Status so that validator services can validate vaccine responses automatically with information from supported attachments.
 
 ## Before you begin
 
@@ -83,7 +83,7 @@ Redirect page
 
 </td><td>
 
-\(Optional\) A [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to a service portal page the user will be redirected to after they report their vaccination.
+\(Optional\) A reference to a service portal page the user will be redirected to after they report their vaccination.
 
 </td></tr><tr><td>
 
@@ -169,13 +169,7 @@ You have enabled automated vaccine response validation. Work notes in the vaccin
 
 ## What to do next
 
-To automate vaccine response reviews so that they are set to **Approved** if validation was successful or left in the state **Not yet reviewed** \(a manual review is required\), see [[enable-automated-vaccine-response-reviews|Automate reviews of vaccine responses]].
+To automate vaccine response reviews so that they are set to **Approved** if validation was successful or left in the state **Not yet reviewed** \(a manual review is required\), see [Automate reviews of vaccine responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/enable-automated-vaccine-response-reviews.md).
 
-**Parent Topic:**[[vaccination-status-vaccine-validation|Automating vaccine response reviews]]
+**Parent Topic:**[Automating vaccine response reviews](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status-vaccine-validation.md)
 
-## Related
-
-- [[enable-automated-vaccine-response-reviews|Automate reviews of vaccine responses]]
-- [[vaccination-status-vaccine-validation|Automating vaccine response reviews]]
-- [[vaccination-status|Vaccination Status]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

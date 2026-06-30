@@ -16,7 +16,7 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 Rating and comment option for knowledge base articles. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Ratings on articles in the KB Article Comments widget determine the article popularity in the [[kb-top-rated-widget|KB top rated widget]].
+Ratings on articles in the KB Article Comments widget determine the article popularity in the KB top rated widget.
 
 \[Omitted image "WidgetKBArticleComments.png"\] Alt text: KB Article Comments widget
 
@@ -34,13 +34,9 @@ Ratings on articles in the KB Article Comments widget determine the article popu
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[kb-top-rated-widget|KB Top Rated widget]]
-- [[c_ServicePortal|Service Portal]]

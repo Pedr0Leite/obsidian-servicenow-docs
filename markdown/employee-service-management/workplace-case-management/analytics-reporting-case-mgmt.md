@@ -17,12 +17,7 @@ breadcrumb: [Workplace Case Management, Workplace Service Delivery, Employee Ser
 Monitor the status of workplace cases raised in your organization.
 
 -   **[Workplace Case dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-dashboard.md)**  
-Use this dashboard to track the number of workplace cases that were created using the [[workplace-services|workplace services]] from the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] or from the [[workplace-services-portal-hr|Workplace Service Portal]]. Monitor the number of open cases, cases that require approval, and other cases on any given day.
+Use this dashboard to track the number of workplace cases that were created using the workplace services from the Workplace Service Delivery or from the Workplace Service Portal. Monitor the number of open cases, cases that require approval, and other cases on any given day.
 
 **Parent Topic:**[Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-feat.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

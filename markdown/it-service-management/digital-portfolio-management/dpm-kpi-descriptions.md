@@ -14,7 +14,7 @@ breadcrumb: [Configure KPI groups, Configure, Digital Portfolio Management, IT S
 
 # Update KPIs in Digital Portfolio Management
 
-You can update the key performance indicator \(KPI\) fields in [[dpm-landing|Digital Portfolio Management]] \(DPM\). The KPI displays in KPI groups in the DPM Workspace.
+You can update the key performance indicator \(KPI\) fields in Digital Portfolio Management \(DPM\). The KPI displays in KPI groups in the DPM Workspace.
 
 ## Before you begin
 
@@ -104,7 +104,7 @@ The description of the KPI.
 
  In the DPM Workspace, selecting the tooltip on the KPI card reveals the description. You access the KPI cards in the following areas:
 
--   On the Run tab for services, service offerings, business [[dex-workspace-application-tab|applications]], and service instances.
+-   On the Run tab for services, service offerings, business applications, and service instances.
 -   On the Overview tab for portfolios and taxonomy nodes.
 For more information on the data shown in KPI charts and graphs, see [KB1123710](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1637474).
 
@@ -160,7 +160,3 @@ The flag that determines if the KPI displays in the KPI group. KPI groups can di
 
 [KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

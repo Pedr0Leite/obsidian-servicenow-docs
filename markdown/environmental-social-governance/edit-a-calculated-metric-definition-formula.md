@@ -53,8 +53,5 @@ Roles required: sn\_esg.metric\_manager, or sn\_esg.program\_manager
 
 The formula is saved as a new version. The new version is listed in the **Versions** related list on the calculated metric definition.
 
-**Parent Topic:**[[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]]
+**Parent Topic:**[Formula building in a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/formula-building-at-metric-definition-and-entity-level.md)
 
-## Related
-
-- [[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]]

@@ -47,8 +47,5 @@ Role required: security\_admin
     Repeat this step for every field that you want to give the user write access to. Use an asterisk **\*** instead of the column name to provide access to all fields at once.
 
 
-**Parent Topic:**[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+**Parent Topic:**[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
-## Related
-
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]

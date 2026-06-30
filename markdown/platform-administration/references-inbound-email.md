@@ -12,34 +12,22 @@ breadcrumb: [Inbound email, Notifications, Configure core features, Administer t
 
 # References for Inbound email
 
-Email object variables, user impersonations and inbound actions and examples for processing [[actions-inbound-email|inbound email actions]].
+Email object variables, user impersonations and inbound actions and examples for processing inbound email actions.
 
--   **[[r_AccessingEmailObjsWithVars|Accessing email object variables]]**  
-An [[ia-inbound-email-il|inbound email]] action script contains the email object to access various pieces of an inbound email through variables. You can use the global variable *sys\_email* with inbound email actions.
--   **[[r_MatchingEmailToExistingUsers|Email user matching]]**  
+-   **[Accessing email object variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AccessingEmailObjsWithVars.md)**  
+An inbound email action script contains the email object to access various pieces of an inbound email through variables. You can use the global variable *sys\_email* with inbound email actions.
+-   **[Email user matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_MatchingEmailToExistingUsers.md)**  
 When the instance receives an email message, the system searches for an existing user record with the same email address as the sender.
--   **[[r_ImpUserRunInboundActions|User impersonations and inbound actions]]**  
+-   **[User impersonations and inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ImpUserRunInboundActions.md)**  
 When the instance receives an email, it can take a variety of actions by impersonating the sender.
--   **[[r_AllowLockedUsersInbdEmailAct|Allowing locked out users to process inbound email actions]]**  
+-   **[Allowing locked out users to process inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AllowLockedUsersInbdEmailAct.md)**  
 A property is available to allow locked out users to trigger inbound actions. For example, enabling the property can allow locked out users to reset their password and send email to the instance asking for assistance.
--   **[[r_RedirEmailDifferentAssignGrp|Redirecting email to the instance POP3 account]]**  
+-   **[Redirecting email to the instance POP3 account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_RedirEmailDifferentAssignGrp.md)**  
 Configure other mailboxes to forward email to the instance's POP3 account.
--   **[[r_InboundEmailActionExamples|Inbound email action examples]]**  
+-   **[Inbound email action examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_InboundEmailActionExamples.md)**  
 Various examples of inbound email actions are available to help you build your own inbound email actions. These examples show how to set up inbound email actions to handle email replies, create \(log\) a problem record, request a change, and update an incident.
--   **[[t_IntegratingInboundEvents|Integrate inbound events]]**  
+-   **[Integrate inbound events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_IntegratingInboundEvents.md)**  
 This example illustrates how to create a notification from an inbound JSON request.
 
-**Parent Topic:**[[inbound-email-landing|Inbound email]]
+**Parent Topic:**[Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-email-landing.md)
 
-## Related
-
-- [[r_AccessingEmailObjsWithVars|Accessing email object variables]]
-- [[r_MatchingEmailToExistingUsers|Email user matching]]
-- [[r_ImpUserRunInboundActions|User impersonations and inbound actions]]
-- [[r_AllowLockedUsersInbdEmailAct|Allowing locked out users to process inbound email actions]]
-- [[r_RedirEmailDifferentAssignGrp|Redirecting email to the instance POP3 account]]
-- [[r_InboundEmailActionExamples|Inbound email action examples]]
-- [[t_IntegratingInboundEvents|Integrate inbound events]]
-- [[inbound-email-landing|Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]

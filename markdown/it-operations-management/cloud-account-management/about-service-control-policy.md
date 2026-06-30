@@ -14,7 +14,7 @@ breadcrumb: [Setting up AWS cloud, Configuring cloud providers, Configuring Clou
 
 # Configuring Service Control Policy in AWS
 
-The AWS admin configures a Service Control Policy \(SCP\) and shares its ID with the ServiceNow AI Platform admin for [[cam-landing|Cloud Account Management]] setup. Cloud Account Management enforces the SCP via API calls to block resource creation in the account.
+The AWS admin configures a Service Control Policy \(SCP\) and shares its ID with the ServiceNow AI Platform admin for Cloud Account Management setup. Cloud Account Management enforces the SCP via API calls to block resource creation in the account.
 
 The process involved in creating and using a Service Control Policy:
 
@@ -60,6 +60,3 @@ Resources:
             Resource: '*'
 ```
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

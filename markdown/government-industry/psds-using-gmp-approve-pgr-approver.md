@@ -18,7 +18,7 @@ As the designated approver of an internal program team, you can approve a grant 
 
 Role required: gmp director?
 
-In order to do this, you need to be added as an approver in the internal program team in the program setup. For more information on how to create an interrnal program team and designate an approver, see [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]]
+In order to do this, you need to be added as an approver in the internal program team in the program setup. For more information on how to create an interrnal program team and designate an approver, see [Add members to a Grant Program internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-add-members-internal-program-team.md)
 
 ## Procedure
 
@@ -33,10 +33,5 @@ In order to do this, you need to be added as an approver in the internal program
 
 ## Result
 
-The grant program is now approved and is rerouted back to the Grant Program Manager, who will set it to be published to the [[psds-gmp-overview|Grants Management Portal]]. For more information on publishing a grant program to the portal, see [[psds-using-gmp-pgr-publish|Publish a grant program opportunity to the Grants Management Portal in Grants Management]].
+The grant program is now approved and is rerouted back to the Grant Program Manager, who will set it to be published to the Grants Management Portal. For more information on publishing a grant program to the portal, see [Publish a grant program opportunity to the Grants Management Portal in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-pgr-publish.md).
 
-## Related
-
-- [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]]
-- [[psds-using-gmp-pgr-publish|Publish a grant program opportunity to the Grants Management Portal in Grants Management]]
-- [[psds-gmp-overview|Grants Management Portal]]

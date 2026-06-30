@@ -14,11 +14,11 @@ breadcrumb: [Case create component, Configure web components, Web Embeddables, S
 
 # Embed the Case create component instance on the third-party website
 
-Embed the global code and component code of the [[case-create-component|Case create component]] instance that you configured so that you can enable your customers to start using the Case create component instance on your third-party website.
+Embed the global code and component code of the Case create component instance that you configured so that you can enable your customers to start using the Case create component instance on your third-party website.
 
 ## Before you begin
 
-You must [[config-case-create-component-on-instance|configure the Case create component instance]]. For information, see [Configure the Case create component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-case-create-component-on-instance.md).
+You must configure the Case create component instance. For information, see [Configure the Case create component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-case-create-component-on-instance.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Case create component instance appears on your third-party website.
 
-## Related
-
-- [[case-create-component|Case create component]]
-- [[config-case-create-component-on-instance|Configure the Case create component instance]]

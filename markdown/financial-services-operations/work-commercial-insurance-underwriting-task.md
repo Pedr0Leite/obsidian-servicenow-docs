@@ -24,7 +24,7 @@ The configured workflow automatically generates an underwriting task for an unde
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -45,9 +45,5 @@ The configured workflow automatically generates an underwriting task for an unde
 8.  Click **Update**.
 
 
-**Parent Topic:**[[work-commercial-policy-case|Work on a policy service case]]
+**Parent Topic:**[Work on a policy service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-commercial-policy-case.md)
 
-## Related
-
-- [[work-commercial-policy-case|Work on a policy service case]]
-- [[fso-overview|Financial Services]]

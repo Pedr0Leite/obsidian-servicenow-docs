@@ -14,7 +14,7 @@ breadcrumb: [Visual Task Boards, Configure UIs and portals, Configure user exper
 
 # Activate Visual Task Boards
 
-[[c_VisualTaskBoards|Visual Task Boards]] are active by default on new instances. For upgraded instances, you can activate the Visual Task Boards plugin \[com.glide.ui.vtb\] if you have the admin role.
+Visual Task Boards are active by default on new instances. For upgraded instances, you can activate the Visual Task Boards plugin \[com.glide.ui.vtb\] if you have the admin role.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -12,7 +12,7 @@ breadcrumb: [Set up the emission factor library, Configure, Operational Sustaina
 
 # Create a new emission activity
 
-Create new emission activities to track the activity that leads to emissions if you do not want to use the standard emission activities provided through the [[esg-content-accelerator|Unified content management]] application.
+Create new emission activities to track the activity that leads to emissions if you do not want to use the standard emission activities provided through the Unified content management application.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **[[emission-factor-library|Emission Factor Library]]** &gt; **Activity**.
+1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **Emission Factor Library** &gt; **Activity**.
 
 2.  Select **New**.
 
@@ -35,10 +35,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[set-up-the-emission-factor-library|Set up the emission factor library]]
+**Parent Topic:**[Set up the emission factor library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-the-emission-factor-library.md)
 
-## Related
-
-- [[set-up-the-emission-factor-library|Set up the emission factor library]]
-- [[esg-content-accelerator|Unified content management]]
-- [[emission-factor-library|Emission factor library]]

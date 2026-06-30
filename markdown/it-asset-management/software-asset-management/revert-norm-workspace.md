@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Revert normalization in the workspace
 
-You can revert the normalization of discovery [[c_Models|models]] in the [[sam-workspace|Software Asset Workspace]].
+You can revert the normalization of discovery models in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -28,16 +28,10 @@ Role required: sam\_admin or sam\_user
 
 2.  Select a discovery model record.
 
-3.  Select **[[revert-norm-eam|Revert Normalization]]**.
+3.  Select **Revert Normalization**.
 
-    Once the revert normalization process is complete, fields are reset to their original values and any rules associated with the [[sam-software-discovery|software discovery]] model are deactivated.
+    Once the revert normalization process is complete, fields are reset to their original values and any rules associated with the software discovery model are deactivated.
 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[revert-norm-eam|Revert normalization]]
-- [[sam-software-discovery|Software discovery]]

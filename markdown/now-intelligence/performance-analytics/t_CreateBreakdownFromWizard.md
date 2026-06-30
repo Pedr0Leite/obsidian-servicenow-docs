@@ -20,7 +20,7 @@ Create a breakdown, breakdown source, and breakdown mappings, and associate the 
 
 Role required: pa\_power\_user, pa\_data\_collector, or admin
 
-**Note:** Users with only the pa\_power\_user role cannot create [[breakdown-sources|breakdown sources]].
+**Note:** Users with only the pa\_power\_user role cannot create breakdown sources.
 
 ## About this task
 
@@ -88,6 +88,3 @@ If a breakdown and breakdown source exist for the specified table, and a breakdo
 
 **Parent Topic:**[Indicator breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]

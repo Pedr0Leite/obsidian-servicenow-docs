@@ -28,7 +28,7 @@ Role required: admin
 
     -   In the **Overview** tab, select the **Configure** button in the **Service Desk Assisted Password Reset** card.
     -   In the **Configurations** tab, select **Service Desk Assisted Password Reset** card.
-3.  On the **Verification [[settings-mobile|Settings]]** card, select **Configure** for Verification\(s\).
+3.  On the **Verification Settings** card, select **Configure** for Verification\(s\).
 
     The default password reset verifications are displayed.
 
@@ -101,6 +101,3 @@ Parameters used by a verification to configure specific behaviors, like number o
 
 **Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-verification-methods-pr-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

@@ -22,11 +22,11 @@ Role required: none
 
 1.  Open the condition builder by clicking the show/hide filter icon \(\[Omitted image "Icon-Condition\_builder\_UI15.png"\] Alt text: Show or hide filter icon\).
 
-    If the icon is disabled and the breadcrumb has a related list condition in it, you must remove the related list condition to open the filter. The condition was created when the List v3 was enabled for this list. List v2 does not support related list conditions. For more information about related list conditions, see [[create-related-list-query|Add related list conditions]].
+    If the icon is disabled and the breadcrumb has a related list condition in it, you must remove the related list condition to open the filter. The condition was created when the List v3 was enabled for this list. List v2 does not support related list conditions. For more information about related list conditions, see [Add related list conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-related-list-query.md).
 
 2.  Select a field from the list.
 
-    The field type determines the available operators and values. For example, the **Active** field can have a value of **true**, **false**, or **empty**, while a text field can have many different values. Similarly, the **greater than** operator does not apply to the **Active** field, but it does apply to the **Priority** field. For more information, see [[c_ConditionBuilder|Condition builder]].
+    The field type determines the available operators and values. For example, the **Active** field can have a value of **true**, **false**, or **empty**, while a text field can have many different values. Similarly, the **greater than** operator does not apply to the **Active** field, but it does apply to the **Priority** field. For more information, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
 3.  Select an **operator** from the list.
 
@@ -65,12 +65,12 @@ Click **x** beside the condition.
 
 7.  Click **Save** to keep the filter for future use.
 
-    For more information, see [[t_SavingFilters|Save and use filters in a list view]].
+    For more information, see [Save and use filters in a list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SavingFilters.md).
 
 8.  Click **Run** to apply the filter.
 
 
-**Parent Topic:**[[c_Filters|Filters]]
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
 **Related topics**  
 
@@ -83,17 +83,9 @@ Click **x** beside the condition.
 
 [Dynamic operators]()
 
-[[c_DotWalking|Dot-walking to data in related tables]]
+[Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 
 [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md)
 
-[[r_OpAvailableFiltersQueries|Operators available for filters and queries]]
+[Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md)
 
-## Related
-
-- [[create-related-list-query|Add related list conditions]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[t_SavingFilters|Save and use filters in a list view]]
-- [[c_Filters|Filters]]
-- [[c_DotWalking|Dot-walking to data in related tables]]
-- [[r_OpAvailableFiltersQueries|Operators available for filters and queries]]

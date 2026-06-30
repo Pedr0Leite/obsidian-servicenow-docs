@@ -14,7 +14,7 @@ breadcrumb: [News articles, Creating employee communications, Authoring and mana
 
 # Publishing news articles
 
-[[ec-news-articles|News articles]] can be published via a publish plan or using [[ec-content-templates|Content templates]] to auto-generate publish plans. These auto-generated publish plans are inactive by default and must be activated for News articles to appear in the portal.
+News articles can be published via a publish plan or using Content templates to auto-generate publish plans. These auto-generated publish plans are inactive by default and must be activated for News articles to appear in the portal.
 
 ## Before you begin
 
@@ -65,7 +65,3 @@ breadcrumb: [News articles, Creating employee communications, Authoring and mana
 
 If you edit a news article after publishing it and want to change the publish start date, you must generate new publish plans.
 
-## Related
-
-- [[ec-news-articles|News articles]]
-- [[ec-content-templates|Content templates]]

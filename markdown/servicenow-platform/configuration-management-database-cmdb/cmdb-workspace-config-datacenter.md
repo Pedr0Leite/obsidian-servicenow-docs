@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Workspace, Configuration Management Database \(CMDB
 
 # Configure datacenters for Cloud vs Non-cloud resources in CMDB Workspace
 
-The [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] in CMDB Workspace determines which CIsand application services are stored on a cloud and which aren't in the organization. In addition to base system classifications, you can add cloud versus non-cloud classifications that reflect specific datacenter deployments in the organization.
+The Cloud vs Non-cloud resources chart in CMDB Workspace determines which CIsand application services are stored on a cloud and which aren't in the organization. In addition to base system classifications, you can add cloud versus non-cloud classifications that reflect specific datacenter deployments in the organization.
 
 ## Before you begin
 
@@ -43,14 +43,10 @@ In the base system, the Datacenter Types table contains several common datacente
     |-----|-----------|
     |Datacenter class|A child class of the Logical Datacenter \[cmdb\_ci\_logical\_datacenter\] class which is used in the organization.|
     |Type|Classification that reflects whether the specified **Datacenter class** is being used as cloud storage or not.|
-    |Cloud Provider|Custom [[label|label]] for the cloud provider.|
+    |Cloud Provider|Custom label for the cloud provider.|
 
 4.  Click **Submit**.
 
 
 **Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-cmdb-workspace.md)
 
-## Related
-
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]
-- [[label|Label]]

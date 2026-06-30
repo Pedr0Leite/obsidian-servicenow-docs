@@ -14,7 +14,7 @@ breadcrumb: [Planned Maintenance, Service Management]
 
 # Activate Planned Maintenance
 
-The SM **[[c_SMPlanMaint|Planned Maintenance]]** plugin is available as a separate subscription.
+The SM **Planned Maintenance** plugin is available as a separate subscription.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ The SM Planned Maintenance core plugin also includes demo data.
 
 **Parent Topic:**[Planned Maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_SMPlanMaint.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

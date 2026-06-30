@@ -22,7 +22,7 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations**.
 
 2.  Select **Software entitlements**.
 
@@ -61,6 +61,3 @@ Role required: sam\_admin or sam\_user
 
 [Allocation management on Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/allocation-management-sam.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

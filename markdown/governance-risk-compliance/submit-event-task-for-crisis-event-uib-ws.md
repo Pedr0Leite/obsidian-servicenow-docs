@@ -22,7 +22,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **[[crisis-management-uib|Crisis events]]** &gt; **Pending** and select the crisis event in the list.
+2.  In the List view, navigate to **Crisis events** &gt; **Pending** and select the crisis event in the list.
 
 3.  Log in as the approver of the event and select the Event in the List view.
 
@@ -47,10 +47,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     You can update the state of the event to **Closed Incomplete**.
 
 
-**Parent Topic:**[[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
+**Parent Topic:**[Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md)
 
-## Related
-
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[list-view-uib-ws|List view]]
-- [[crisis-management-uib|Crisis events]]

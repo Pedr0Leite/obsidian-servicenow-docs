@@ -12,11 +12,11 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Vaccination Status
 
-The ServiceNow® Vaccination Status application gives HR departments the ability to track the status of user vaccinations in the workplace. Organizations can collect vaccination data for workforce planning, as needed based on business requirements, and report on the readiness of the workplace. Users are empowered to submit documentation of completed vaccinations to meet their organization’s [[health-safety-overview|health and safety]] requirement for a safe return to the workplace, while administrators can track the status of user vaccination in the workplace. Status updates can be made manually by the user.
+The ServiceNow® Vaccination Status application gives HR departments the ability to track the status of user vaccinations in the workplace. Organizations can collect vaccination data for workforce planning, as needed based on business requirements, and report on the readiness of the workplace. Users are empowered to submit documentation of completed vaccinations to meet their organization’s health and safety requirement for a safe return to the workplace, while administrators can track the status of user vaccination in the workplace. Status updates can be made manually by the user.
 
 ## Use with other Safe Workplace suite applications
 
-Vaccination Status is part of a suite of ServiceNow® [[safe-workplace|Safe Workplace]] suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
+Vaccination Status is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
 -   With the [Employee Readiness Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
 -   Before users re-enter workspaces, use the [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
@@ -52,7 +52,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -93,54 +93,34 @@ All decisions in connection with the implementation of this application are at t
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[[install-vaccination-status|Install Vaccination Status]]**  
+-   **[Install Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-vaccination-status.md)**  
 You can install Vaccination Status if you have the admin role.
--   **[[config-vaccination-properties|Set up Vaccination Status properties]]**  
+-   **[Set up Vaccination Status properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-vaccination-properties.md)**  
 Set up Vaccination Status properties to define the data retention period for user-reported vaccination status data, manage reminder emails, and enable exemptions.
--   **[[vaccination-status-vaccine-validation|Automating vaccine response reviews]]**  
+-   **[Automating vaccine response reviews](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status-vaccine-validation.md)**  
 Your organization can automatically validate and review vaccine responses with Vaccination Status by integrating third-party validator services and enabling workflows.
--   **[[configure-location-specific-data-retention-vs|Configure country-specific data retention settings for Vaccination Status]]**  
+-   **[Configure country-specific data retention settings for Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-location-specific-data-retention-vs.md)**  
 Configure the data retention settings for vaccine responses so your data retention policy is country-specific.
--   **[[set-up-vaccine-privacy|Set up privacy consent for Vaccination Status]]**  
+-   **[Set up privacy consent for Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/set-up-vaccine-privacy.md)**  
 Set up privacy consent for users who are providing their vaccination data to your organization.
--   **[[create-vaccination-status-vaccine|Configure vaccine or vaccine booster types for Vaccination Status]]**  
+-   **[Configure vaccine or vaccine booster types for Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-vaccination-status-vaccine.md)**  
 Create or modify vaccine or vaccine booster types that people can use to report their vaccination status.
--   **[[vaccination-status-va|Virtual Agent conversations for Vaccination Status]]**  
+-   **[Virtual Agent conversations for Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status-va.md)**  
 Vaccination Status provides a Virtual Agent conversation that enables users to report their vaccination status via SMS.
--   **[[report-vaccination-status|Report vaccination status to your organization]]**  
+-   **[Report vaccination status to your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/report-vaccination-status.md)**  
 Provide your organization with information about whether you received a vaccine and the date that you received it.
--   **[[review-your-vaccinations|Review your vaccine responses]]**  
+-   **[Review your vaccine responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/review-your-vaccinations.md)**  
 If you would like to review your recently reported COVID-19 vaccinations or add an attachment to a record, access your previous vaccine responses.
--   **[[confirm-vaccine-response|Confirm the reported vaccination status for a user]]**  
-As a Vaccination Status adminor manager, use the [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]] toconfirm a user's reported COVID-19 vaccination status.
--   **[[request-vaccine-exemption|Request a vaccine exemption]]**  
+-   **[Confirm the reported vaccination status for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-response.md)**  
+As a Vaccination Status adminor manager, use the Employee Readiness Core Approval Portal toconfirm a user's reported COVID-19 vaccination status.
+-   **[Request a vaccine exemption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/request-vaccine-exemption.md)**  
 Request a vaccine exemption from your organization with information about why you require an exemption.
--   **[[confirm-vaccine-exemption-request|Confirm a vaccine exemption request for a user]]**  
+-   **[Confirm a vaccine exemption request for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-exemption-request.md)**  
 As a Vaccination Status adminor manager, use the Employee Readiness Core Approval Portal to approve or deny a user's vaccine exemption request.
--   **[[vaccine-profile-vaccination-status|Viewing vaccine profile records]]**  
+-   **[Viewing vaccine profile records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccine-profile-vaccination-status.md)**  
 Vaccine profiles contain vaccination information for vaccine admins to review, such as a user's vaccination date, whether users are exempt from receiving a vaccine, or the results of their most recent COVID-19 tests.
--   **[[vaccination-status-dashboard|Vaccination Status dashboard]]**  
+-   **[Vaccination Status dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status-dashboard.md)**  
 Use the Vaccination Status dashboard to review reports that can provide insight into the vaccination status of your organization.
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[install-vaccination-status|Install Vaccination Status]]
-- [[config-vaccination-properties|Set up Vaccination Status properties]]
-- [[vaccination-status-vaccine-validation|Automating vaccine response reviews]]
-- [[configure-location-specific-data-retention-vs|Configure country-specific data retention settings for Vaccination Status]]
-- [[set-up-vaccine-privacy|Set up privacy consent for Vaccination Status]]
-- [[create-vaccination-status-vaccine|Configure vaccine or vaccine booster types for Vaccination Status]]
-- [[vaccination-status-va|Virtual Agent conversations for Vaccination Status]]
-- [[report-vaccination-status|Report vaccination status to your organization]]
-- [[review-your-vaccinations|Review your vaccine responses]]
-- [[confirm-vaccine-response|Confirm the reported vaccination status for a user]]
-- [[request-vaccine-exemption|Request a vaccine exemption]]
-- [[confirm-vaccine-exemption-request|Confirm a vaccine exemption request for a user]]
-- [[vaccine-profile-vaccination-status|Viewing vaccine profile records]]
-- [[vaccination-status-dashboard|Vaccination Status dashboard]]
-- [[health-safety-overview|Health and Safety]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]]

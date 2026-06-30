@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Roadmap milestone form
 
-Learn about the fields of the roadmap milestone form. Use this form to [[t_CreateMilestones|create a milestone]] for the timeline of your roadmap in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the roadmap milestone form. Use this form to create a milestone for the timeline of your roadmap in Portfolio Planning.
 
 <table id="table_mht_s4h_cqb"><thead><tr><th>
 
@@ -63,7 +63,3 @@ User who is assigned to the milestone.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[t_CreateMilestones|Create a milestone]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

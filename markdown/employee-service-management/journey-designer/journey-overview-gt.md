@@ -14,7 +14,7 @@ breadcrumb: [Explore, Journey designer, Employee Journey Management, HR Service 
 
 # Journey overview guided tour
 
-Use Guided Tours in [[jny-dsgnr-landing-page-1|Journey designer]] to get instructions on how to perform a task.​ Guided Tours use a series of steps that may span multiple pages. The tour includes links to detailed documentation.​
+Use Guided Tours in Journey designer to get instructions on how to perform a task.​ Guided Tours use a series of steps that may span multiple pages. The tour includes links to detailed documentation.​
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Journey overview**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Journey overview**.
 
 2.  Select a journey and click on **Tours**.
 
@@ -36,7 +36,4 @@ Role required: manager
 
 5.  Select **Done** after the tour is ended.
 
-## Related
 
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]

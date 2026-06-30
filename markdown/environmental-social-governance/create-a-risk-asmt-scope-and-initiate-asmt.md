@@ -29,8 +29,5 @@ Role required: sn\_esg\_risk\_mgmt.risk\_manager
     For information on the fields of the Risk Assessment Scope form, refer to [Create a risk assessment scope and initiate assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-risk-assess-scope.md).
 
 
-**Parent Topic:**[[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-risk-management.md)
 
-## Related
-
-- [[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]

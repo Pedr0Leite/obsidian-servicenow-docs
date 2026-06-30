@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-[[agile-landing-page|Agile Development 2.0]] does not use Release Teams. Existing users who have created release teams must convert the existing teams to assignment groups.
+Agile Development 2.0 does not use Release Teams. Existing users who have created release teams must convert the existing teams to assignment groups.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Groups**.
 
 2.  Click the **Convert Release Teams to Groups** related link.
 
@@ -42,7 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-groups-agile-dev.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

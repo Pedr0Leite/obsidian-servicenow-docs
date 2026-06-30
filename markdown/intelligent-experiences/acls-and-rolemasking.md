@@ -12,7 +12,7 @@ breadcrumb: [Security for AI agents, Explore, Now Assist AI agents, Enable AI ex
 
 # ACLs, role masking, and user identities in AI Agent Studio
 
-Access control lists \(ACLs\) and role masking serve distinct security functions in [[ai-agent-studio|AI Agent Studio]]. The difference between these two mechanisms helps you configure agents with the correct permissions and access boundaries.
+Access control lists \(ACLs\) and role masking serve distinct security functions in AI Agent Studio. The difference between these two mechanisms helps you configure agents with the correct permissions and access boundaries.
 
 ## ACLs: controlling access to the agent
 
@@ -24,7 +24,7 @@ User identities and role masking determine what the agent can do once it is invo
 
 ## Role masking: controlling what the agent can do
 
-Role masking defines is a means of further restricting what data and actions an AI agent can access and perform when configured to run as a Dynamic user. Like user identities, role masking [[controls|controls]] the agent's permissions at runtime — which records it can read or write, which operations it can execute, and which resources it can access on behalf of a user.
+Role masking defines is a means of further restricting what data and actions an AI agent can access and perform when configured to run as a Dynamic user. Like user identities, role masking controls the agent's permissions at runtime — which records it can read or write, which operations it can execute, and which resources it can access on behalf of a user.
 
 Role masking works by restricting the agent's roles to a subset of the permissions available to the invoking user. Even if the invoking user has broader access, the agent operates only within the permissions defined by its masked role. This is a way to verify that even when invoked by users with high privileges, Dynamic User AI agents run only with the roles that are pertinent to their task and cannot access unrelated data or take high privileged actions.
 
@@ -93,7 +93,3 @@ Summary of ACL and role masking evaluation order:
 
 Using ACLs, role masking, and user identities together provides layered security for AI agents. ACLs prevent unauthorized users from reaching the agent. Role masking verifies that even authorized users can't trigger agent actions that exceed defined boundaries. User identities ensure the agent operates under the correct privilege scope at runtime, preventing escalation beyond what the assigned dynamic user permits. Configuring only one of these mechanisms leaves a gap in the agent's security posture.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[controls|Controls]]

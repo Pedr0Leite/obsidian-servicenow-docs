@@ -14,7 +14,7 @@ breadcrumb: [Proactive Service Experience Workflows, Product Support for Technol
 
 # Exploring the Proactive Service Experience Workflows
 
-Learn how you can use the [[assurance-workflows|Product Support for Technology]] application to automatically initiate workflows that resolve network-initiated incidents and proactively notify impacted customers.
+Learn how you can use the Product Support for Technology application to automatically initiate workflows that resolve network-initiated incidents and proactively notify impacted customers.
 
 ## Request apps on the Store
 
@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Proactive Service Experience Workflows capabilities
 
-Watch this short video for an introduction to the [[psew-landing-page|Proactive Service Experience Workflows]] application.
+Watch this short video for an introduction to the Proactive Service Experience Workflows application.
 
 \[Omitted video\] Description: Proactive Service Experience Workflow overview
 
@@ -49,7 +49,3 @@ You can use the Service Operations Workspace application to get an overview of h
 
 **Parent Topic:**[Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-landing-page.md)
 
-## Related
-
-- [[assurance-workflows|Product Support for Technology]]
-- [[psew-landing-page|Proactive Service Experience Workflows]]

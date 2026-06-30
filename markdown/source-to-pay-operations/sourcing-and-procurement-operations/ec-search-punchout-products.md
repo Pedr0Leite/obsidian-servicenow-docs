@@ -28,7 +28,7 @@ Role required: sn\_shop.shopper
 
     \[Omitted image "ec-punchout-search.png"\] Alt text: Employee Center search bar
 
-3.  The punchout products that match your search criteria are listed in the **[[supplier|Supplier]] site catalog** tab.
+3.  The punchout products that match your search criteria are listed in the **Supplier site catalog** tab.
 
     \[Omitted image "ec-punchout-search-results.png"\] Alt text: Supplier site catalog tab in Employee Center
 
@@ -38,14 +38,10 @@ Role required: sn\_shop.shopper
 
     You are redirected to the supplier site to add items to the cart. Depending on your setup, the following occurs:
 
-    -   If you've installed [[shopping-hub-overview|Shopping Hub]], you are redirected back to Shopping Hub from the supplier site to complete the checkout process.
+    -   If you've installed Shopping Hub, you are redirected back to Shopping Hub from the supplier site to complete the checkout process.
     -   If you haven't installed Shopping Hub, you must complete the checkout process and place the order on the supplier site.
     For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ec-sh-checkout-flow.md).
 
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

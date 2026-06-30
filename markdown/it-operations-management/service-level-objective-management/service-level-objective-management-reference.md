@@ -14,12 +14,12 @@ breadcrumb: [Service Level Objective Management, ITOM AIOps, IT Operations Manag
 
 # SLO Management reference
 
-Reference topics provide additional information about [[slo-landing-page|Service Level Objective Management]].
+Reference topics provide additional information about Service Level Objective Management.
 
 -   **[Add an error budget policy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-error-budget-form.md)**  
 Learn about the available fields for setting up error budget policies.
 -   **[Create SLO form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli-form.md)**  
-Learn about the available fields for adding a service level objective \(SLO\) to [[sr-landing-page|Service Reliability Management]].
+Learn about the available fields for adding a service level objective \(SLO\) to Service Reliability Management.
 -   **[Create SLI form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-sli-form.md)**  
 Learn about the available fields for adding a service level indicator \(SLI\) to a service level objective \(SLO\).
 -   **[Notifications for breached error budgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/srm-notifications-messages.md)**  
@@ -29,7 +29,3 @@ List of visualizations and options on the Service reliability dashboard in Servi
 
 **Parent Topic:**[Service Level Objective Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/slo-landing-page.md)
 
-## Related
-
-- [[slo-landing-page|Service Level Objective Management]]
-- [[sr-landing-page|Service Reliability Management]]

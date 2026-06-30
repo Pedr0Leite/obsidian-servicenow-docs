@@ -34,8 +34,5 @@ The Business Location plugin \(com.snc.business\_location\) enables support for 
 **Related topics**  
 
 
-[[activate-customer-service-household|Activate customer household data model]]
+[Activate customer household data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-customer-service-household.md)
 
-## Related
-
-- [[activate-customer-service-household|Activate customer household data model]]

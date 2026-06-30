@@ -14,7 +14,7 @@ breadcrumb: [Entity classes, Explore entities, Common GRC features, Governance, 
 
 # Update entity classes for multiple entities
 
-Provide an [[entity-class|entity class]] for multiple entities where the class field is empty. [[entity-class-in-risk-ws|Entity classes]] are used to add a conceptual information about the entity and classify the entities. As an administrator, you can update the entity classes for multiple entities with a single click.
+Provide an entity class for multiple entities where the class field is empty. Entity classes are used to add a conceptual information about the entity and classify the entities. As an administrator, you can update the entity classes for multiple entities with a single click.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The classes are only added for the entities that match the filter conditions and
 
 ## Procedure
 
-1.  In the classic user interface, navigate to **[[Administration|Administration]]** &gt; **Bulk Update Entity Class**.
+1.  In the classic user interface, navigate to **Administration** &gt; **Bulk Update Entity Class**.
 
 2.  To select your entities, do one of the following:
 
@@ -53,8 +53,3 @@ The entity classes for multiple entities are updated.
 
 **Parent Topic:**[Entity classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-in-risk-ws.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[Administration|Administration]]

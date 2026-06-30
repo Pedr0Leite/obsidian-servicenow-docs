@@ -15,7 +15,7 @@ breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, I
 
 # Identifying related alerts in log data by using log correlators in Health Log Analytics
 
-In [[hla-landing-page|Health Log Analytics]], log correlators are keys or values in log data that detect correlations between alerts to help you determine whether an alert is part of a larger issue. For example, a log correlator could detect when the interface ID of a particular network device occurs simultaneously in multiple warnings across different service instances.
+In Health Log Analytics, log correlators are keys or values in log data that detect correlations between alerts to help you determine whether an alert is part of a larger issue. For example, a log correlator could detect when the interface ID of a particular network device occurs simultaneously in multiple warnings across different service instances.
 
 You can identify related alerts in your log data by using log correlators. The base system includes several log correlators, and you can define custom correlators for a specific log source, all log sources, or only log sources created after the correlator is activated.
 
@@ -43,9 +43,5 @@ In Health Log Analytics, detect related alerts in log data by adding log correla
 -   **[Exclude a source from a log correlator in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-correlators-exclude-source.md)**  
 Prevent Health Log Analytics from analyzing log lines from a specific source by excluding that source from the log correlator.
 
-**Parent Topic:**[[itom-health-landing-page|ITOM AIOps]]
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]

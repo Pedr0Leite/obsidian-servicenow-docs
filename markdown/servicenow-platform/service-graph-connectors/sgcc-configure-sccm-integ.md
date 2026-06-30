@@ -14,7 +14,7 @@ breadcrumb: [Microsoft SCCM, Service Graph Connectors, Integrating third-party d
 
 # Configure Service Graph Connector for Microsoft SCCM using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] for pulling in Microsoft SCCM data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Microsoft SCCM for pulling in Microsoft SCCM data into the CMDB.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Install Service Graph Connector for Microsoft SCCM version 3.5.0 or later from t
 
 To access Microsoft SCCM data, you must have appropriate access to the Microsoft SCCM database. You must have sufficient credentials to query the SQL Server that contains the Microsoft SCCM database. You must do the following:
 
-1.  Create a SQL Server account to [[c_Connect|connect]] to the Microsoft SCCM database on the [[mid-server-landing|MID Server]] to use the data sources.
+1.  Create a SQL Server account to connect to the Microsoft SCCM database on the MID Server to use the data sources.
 2.  Connect to your Microsoft SCCM SQL Server and configure the following:
     1.  Add a new login user name and password for SQL authentication.
     2.  Choose the Microsoft SCCM database that ServiceNow data sources will connect to.
@@ -37,11 +37,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -57,7 +57,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Select an air gap template ora template that matches the credentials for establishing a Java Database Connectivity \(JDBC\) connection to the SCCM database.
 
@@ -90,7 +90,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
     3.  Run the PowerShell scripts.
 
-    4.  After configuring the air gap connection, select the **I have read the instructions and executed the scripts accordingly** [[check-box|check box]].
+    4.  After configuring the air gap connection, select the **I have read the instructions and executed the scripts accordingly** check box.
 
     5.  Select **Continue**.
 
@@ -272,7 +272,7 @@ Name of the MID Server that you deployed in your low-secure server.See [Configur
 
     1.  In the **Setup** stage of the playbook, select the **Configure properties** activity.
 
-    2.  To map the asset tags from Microsoft SCCM to the asset tag attribute in the [[class-computer|Computer \[cmdb\_ci\_computer\] class]], in the Connection properties section of the Configure properties page, select the **Map asset tags** check box.
+    2.  To map the asset tags from Microsoft SCCM to the asset tag attribute in the Computer \[cmdb\_ci\_computer\] class, in the Connection properties section of the Configure properties page, select the **Map asset tags** check box.
 
     3.  To avoid creating duplicate records in the CMDB Disks \[cmdb\_ci\_disk\] table when the Discovery application is running, in the Connector properties section of the Configure properties page, select the **Avoid creating duplicate records** check box.
 
@@ -330,15 +330,3 @@ Select **View all connections** to review the connection details. The created co
 
 [Configuring air gap connections for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]
-- [[class-computer|Computer \[cmdb\_ci\_computer\] class]]

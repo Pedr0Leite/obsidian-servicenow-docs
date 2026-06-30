@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development
 
 Visually analyze the progress of the stories of an epic over a given period using the Epic Dashboard.
 
-Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Dashboards** and select **Agile 2.0 Epic Dashboard**.
+Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Epic Dashboard**.
 
 \[Omitted image "agile-epic-summary.png"\] Alt text: Epic Summary
 
@@ -100,7 +100,7 @@ scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]], then install this dashboard from Solution Library to upgrade its layout and access the following data visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the following data visualizations:
 
 -   Epic Cumulative Flow Diagram
 -   Story Cycle Time
@@ -209,7 +209,3 @@ From the Story State section towards the right of the report, you can filter the
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]]

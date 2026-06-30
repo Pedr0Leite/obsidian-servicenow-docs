@@ -14,7 +14,7 @@ breadcrumb: [Major incident workbench, Managing major incidents, Incident Manage
 
 # Major incident workbench UI elements
 
-The [[major-incident-workbench|major incident workbench]] provides UI elements which display the summary of tasks, progress of communication plan, conferencing information, and a report on the cause and resolution of the major incident.
+The major incident workbench provides UI elements which display the summary of tasks, progress of communication plan, conferencing information, and a report on the cause and resolution of the major incident.
 
 The major incident workbench has the following UI elements: **Summary**, **Communicate**, **Collaborate**, and **Post Incident Report**.
 
@@ -31,6 +31,3 @@ The **Collaborate** tab helps you to view and manage communication tasks that us
 
 **Parent Topic:**[Major incident workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-workbench.md)
 
-## Related
-
-- [[major-incident-workbench|Major incident workbench]]

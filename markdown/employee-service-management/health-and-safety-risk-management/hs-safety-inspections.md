@@ -14,9 +14,9 @@ breadcrumb: [Use, Health and Safety Risk Management, Health and Safety, Employee
 
 # Safety inspections and audits
 
-With [[hs-risk-management-landing-page|Health and Safety Risk Management]], safety teams can schedule, assign, and conduct workplace safety inspections and audits of particular activities, processes, or areas at their establishments.
+With Health and Safety Risk Management, safety teams can schedule, assign, and conduct workplace safety inspections and audits of particular activities, processes, or areas at their establishments.
 
-Safety inspections and audits within the [[health-safety-core-workspace|Health and Safety Workspace]] enhance the efficiency, accuracy, and consistency of safety inspections and audits across your organization. The objective is to support conformance with regulatory standards while reducing the risks of workplace accidents.
+Safety inspections and audits within the Health and Safety Workspace enhance the efficiency, accuracy, and consistency of safety inspections and audits across your organization. The objective is to support conformance with regulatory standards while reducing the risks of workplace accidents.
 
 ## Safety inspections and audits capabilities
 
@@ -32,7 +32,7 @@ The safety inspections and audits feature provides the following capabilities:
 -   **Complete inspections and audits**
 
     -   Fill out smart assessment questionnaires via mobile or Health and Safety Workspace. When online, you can partially save a smart assessment to finish it later, or to reassign it to another agent to complete the remaining assessment.
-    -   Conduct inspection and audit surveys through [[employee-center-landing-page|Employee Center]] or on mobile.
+    -   Conduct inspection and audit surveys through Employee Center or on mobile.
     **Note:** You can complete smart assessments and surveys offline using the Mobile Agent app. Any smart assessments or surveys completed offline automatically synchronize once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/complete-safety-inspection-survey-offline-mode.md).
 
 -   **Create actions and findings from smart assessments and surveys**
@@ -41,13 +41,13 @@ The safety inspections and audits feature provides the following capabilities:
 
 -   **Maintain related documents**
 
-    Add documents enabling standards or regulatory documents to be used as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] for audit findings.
+    Add documents enabling standards or regulatory documents to be used as a reference for audit findings.
 
 
 -   **[Set up a safety inspection schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-schedule-recurring-safety-inspection.md)**  
 Set up an inspection schedule to create a safety inspection at a future date, or to schedule recurring safety inspections, such as daily or weekly, or monthly at once.
 -   **[Create and manage a safety inspection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-inspection.md)**  
-Create a safety inspection to manage your workplace inspection of a particular [[activity-lxp|activity]], process, or an area. Review the questionnaire responses and add findings, root cause analyses \(RCA\), and actions for the inspection.
+Create a safety inspection to manage your workplace inspection of a particular activity, process, or an area. Review the questionnaire responses and add findings, root cause analyses \(RCA\), and actions for the inspection.
 -   **[Set up a safety audit schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setup-safety-audit-schedule.md)**  
 Create an audit schedule and define the top-level audit details and the recurrence, for example, monthly or bi-monthly.
 -   **[Create and manage a safety audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)**  
@@ -65,10 +65,3 @@ Multiple safety agents can be assigned to the same inspection record to enable a
 
 **Parent Topic:**[Using Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-using-hs-risk-mgmt.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

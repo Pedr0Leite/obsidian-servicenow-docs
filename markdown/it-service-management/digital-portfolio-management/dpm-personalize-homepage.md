@@ -14,7 +14,7 @@ breadcrumb: [Get started, Digital Portfolio Management, IT Service Management]
 
 # Personalize the Digital Portfolio Management Workspace home page
 
-Personalize your [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace home page to meet your needs. You can edit the status conditions of each solution, add solutions, search for solutions, and filter solutions by status and by type.
+Personalize your Digital Portfolio Management \(DPM\) Workspace home page to meet your needs. You can edit the status conditions of each solution, add solutions, search for solutions, and filter solutions by status and by type.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can also customize your personal view by using the search and filter options
 
     -   Select **Personalize**.
     -   Select the option to personalize your solution cards. The system filters out retired items so they're not an option for you to select.
-        -   Select **Edit status conditions** to set your own thresholds for Needs attention attributes on business [[dex-workspace-application-tab|applications]], services/offerings, and service instances on your home page. For default values, see [Digital Portfolio Management Workspace homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-landing.md).
+        -   Select **Edit status conditions** to set your own thresholds for Needs attention attributes on business applications, services/offerings, and service instances on your home page. For default values, see [Digital Portfolio Management Workspace homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-landing.md).
         -   Select **Add items** to add business applications, services/offerings, and service instances to your home page.
         -   Select **Remove items** to remove business applications, services/offerings, and service instances from your home page.
 
@@ -67,7 +67,3 @@ You can also customize your personal view by using the search and filter options
 
 [Digital Portfolio Management homepage default solution cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-oob-solution-card-fields.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

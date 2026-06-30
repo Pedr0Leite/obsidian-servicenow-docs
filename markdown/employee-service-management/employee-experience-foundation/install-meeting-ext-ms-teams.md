@@ -14,11 +14,11 @@ breadcrumb: [Plan your installation, Integrating ServiceNow with Microsoft Teams
 
 # Install Meeting Extensions for Microsoft Teams
 
-Install and activate the [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]] plugin to be able to initiate a Microsoft Teams meeting directly from an Incident record.
+Install and activate the Meeting Extensions for Microsoft Teams plugin to be able to initiate a Microsoft Teams meeting directly from an Incident record.
 
 ## Before you begin
 
-Ensure you have installed [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]. For more information, see [Install Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams.md).
+Ensure you have installed Notify connector for Microsoft Teams. For more information, see [Install Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams.md).
 
 Role required: admin
 
@@ -42,7 +42,3 @@ Integrate Meeting Extensions for Microsoft Teams with ServiceNow.
 
 **Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/plan-installation-ms-teams.md)
 
-## Related
-
-- [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]]
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

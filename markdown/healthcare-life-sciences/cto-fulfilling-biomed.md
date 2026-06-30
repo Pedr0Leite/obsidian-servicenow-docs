@@ -14,7 +14,7 @@ breadcrumb: [Care Team Operations for Biomed, Healthcare Operations, Healthcare 
 
 Healthcare Biomed cases can be fulfilled one of two ways, depending on what plugin you have installed.
 
-For [[care-team-operations-for-biomed|Care Team Operations for Biomed]] to create work orders from Healthcare Biomed cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
+For Care Team Operations for Biomed to create work orders from Healthcare Biomed cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
 This plugin provides all roles and features needed for the healthcare biomed case to synchronize to work orders.
 
@@ -34,6 +34,3 @@ Cases created are assigned to assignment groups based on the requesting location
 
 For information on fulfilling cases, see [Manage cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-cases.md) in Customer Service Management.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

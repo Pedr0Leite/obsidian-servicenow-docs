@@ -14,7 +14,7 @@ breadcrumb: [Configure legal storage system, Configure, Legal Request Management
 
 # Integrating Legal Service Delivery applications with iManage storage
 
-Integrate iManage storage with [[legal-management-overview|Legal Service Delivery]] applications to provide more security to the files.
+Integrate iManage storage with Legal Service Delivery applications to provide more security to the files.
 
 You can integrate iManage storage with Legal Service Delivery applications.
 
@@ -84,6 +84,3 @@ In Shared Workspace, workspaces are shared between the ServiceNow® users regist
 
 **Parent Topic:**[Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/integrate-legal-ext-storage.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]

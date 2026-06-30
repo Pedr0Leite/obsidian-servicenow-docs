@@ -29,7 +29,7 @@ Role required: sam\_admin, sam\_user
         |Interface|Action|
         |---------|------|
         |Core UI|Navigate to **All** &gt; **Software Asset** &gt; **Discovery** &gt; **Software Subscriptions**.|
-        |Software Asset Workspace|Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **User subscription** &gt; **User subscription**.|
+        |Software Asset Workspace|Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **User subscription** &gt; **User subscription**.|
 
     2.  Review the data in the User Subscription table by verifying the number of Microsoft 365 subscription records.
 
@@ -75,7 +75,7 @@ Software Asset Workspace
 
 </td><td>
 
-1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Discovery** &gt; **Discovery [[c_Models|models]]**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Discovery** &gt; **Discovery models**.
 2.  Select a discovery model name.
 3.  Select the **Software Installations** tab.
 
@@ -100,7 +100,3 @@ Software Asset Workspace
 
 [Import Microsoft 365 subscription entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/imp-m365-ent.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Models|Models]]

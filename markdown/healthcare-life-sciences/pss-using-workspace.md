@@ -16,7 +16,7 @@ As a care coordinator or a nurse educator, you can use Workspace to manage enrol
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[pss-viewing-home-page|Access the Workspace]].
+[Access the Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-home-page.md).
 
 </td><td>
 
@@ -38,7 +38,7 @@ Use the home page in Workspace to quickly scan and access enrollment cases.
 
 </td></tr><tr><td>
 
-[[pss-view-cases|View an enrollment case in Workspace]].
+[View an enrollment case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-view-cases.md).
 
 </td><td>
 
@@ -46,7 +46,7 @@ View an enrollment case in Workspace to complete patient enrollment activities f
 
 </td></tr><tr><td>
 
-[[pss-viewing-patient-info|View patient information for an enrollment case in Workspace]].
+[View patient information for an enrollment case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-patient-info.md).
 
 </td><td>
 
@@ -54,7 +54,7 @@ View the details of a patient in Workspace.
 
 </td></tr><tr><td>
 
-[[pss-playbook|Work on an enrollment request case in Workspace]].
+[Work on an enrollment request case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md).
 
 </td><td>
 
@@ -62,7 +62,7 @@ Use the playbook available with the Patient Support Services application to mana
 
 </td></tr><tr><td>
 
-[[pss-conduct-training|Managing training requests in Workspace]].
+[Managing training requests in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-conduct-training.md).
 
 </td><td>
 
@@ -70,12 +70,3 @@ Manage the training support for a Patient Support Services program with training
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-viewing-home-page|Viewing the landing page for enrollment cases in Workspace]]
-- [[pss-view-cases|View an enrollment case in Workspace]]
-- [[pss-viewing-patient-info|Viewing patient information for an enrollment case in Workspace]]
-- [[pss-playbook|Working on an enrollment case in Workspace]]
-- [[pss-conduct-training|Manage a training task in Workspace]]
-- [[pss-app|Patient Support Services]]

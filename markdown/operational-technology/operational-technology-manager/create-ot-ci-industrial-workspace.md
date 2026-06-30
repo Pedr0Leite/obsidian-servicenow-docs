@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Create an Operational Technology device in the Industrial Workspace
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) device in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Create an Operational Technology \(OT\) device in the Industrial Workspace.
 
 ## Before you begin
 
@@ -106,7 +106,3 @@ The top-level parent entity, or industrial site, where the device is located or 
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

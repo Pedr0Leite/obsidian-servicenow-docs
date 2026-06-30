@@ -16,7 +16,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 Use the Proactive Prompts dashboard to view the usage analytics and key metrics of the prompts that are generated to provide actionable insights in the flow of work.
 
-To access the dashboard, navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Administration** &gt; **Usage Analytics Dashboard**.
+To access the dashboard, navigate to **All** &gt; **Proactive Prompts** &gt; **Administration** &gt; **Usage Analytics Dashboard**.
 
 ## End users and roles
 
@@ -41,6 +41,3 @@ To see a detailed view and in-depth analysis of the widget click it.
 
 Use the **Filter by date** option to select a time period and view the analytics in the given time period.
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

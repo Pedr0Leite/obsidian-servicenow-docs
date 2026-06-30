@@ -26,7 +26,7 @@ A published log policy \(the parent policy\) can be used as a template for creat
 
 The child policy inherits parameters from its parent policy that are modified after the child policy's creation, unless you disable this option in the child policy. You can choose to review these modified parameters in draft mode in each child policy before accepting them.
 
-**Note:** The child policy is inherently more specific than its parent policy. When [[acc-landing-page|Agent Client Collector]] matches a condition defined in the child policy, it will not try to match the parent policy.
+**Note:** The child policy is inherently more specific than its parent policy. When Agent Client Collector matches a condition defined in the child policy, it will not try to match the parent policy.
 
 ## Procedure
 
@@ -65,6 +65,3 @@ The child policy inherits parameters from its parent policy that are modified af
 
 The child policy is published and appears on the **Child Policies** tab of the parent policy.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

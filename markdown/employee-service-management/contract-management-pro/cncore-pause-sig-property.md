@@ -19,7 +19,7 @@ Configure the duration for which a signature workflow is paused when signatories
 
 ## Before you begin
 
-The [[cncore-pause-signature|Modify Signatories]] and Resume Signature options enables a contract fulfiller to pause an ongoing signature process to add, remove, modify, or reorder pending signatories.
+The Modify Signatories and Resume Signature options enables a contract fulfiller to pause an ongoing signature process to add, remove, modify, or reorder pending signatories.
 
 If the signature process is not resumed within the configured time limit set by the system property, changes made to the signatories are automatically reverted, and the signature process resumes from its previous state.
 
@@ -27,7 +27,7 @@ Role required: sn\_cm\_core.contract\_admin
 
 ## About this task
 
-**Note:** This property is applicable only for [[lsd-wet-signature-workflows|wet signature workflow]] and electronic signature workflow with Docusign integration.
+**Note:** This property is applicable only for wet signature workflow and electronic signature workflow with Docusign integration.
 
 ## Procedure
 
@@ -63,7 +63,7 @@ The signature pause time duration is set. For more information on the signature 
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -75,8 +75,3 @@ The signature pause time duration is set. For more information on the signature 
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[cncore-pause-signature|Modify signatories]]
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]
-- [[activity-lxp|Activity]]

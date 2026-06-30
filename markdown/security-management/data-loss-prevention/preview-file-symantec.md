@@ -15,7 +15,7 @@ breadcrumb: [Create a profile for Symantec DLP integration, Symantec Integration
 
 # Preview evidence files
 
-Preview [[dlp-landing|Data Loss Prevention Incident Response]] evidence files in the DLP IR Analyst workspace.
+Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ PDF files
 
 **Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

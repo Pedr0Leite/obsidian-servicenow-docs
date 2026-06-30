@@ -14,11 +14,11 @@ breadcrumb: [Create an event profile, Splunk Enterprise Event Ingestion integrat
 
 # Mapping alerts and events for the Splunk Enterprise Event Ingestion integration
 
-After you identify the sources for scheduled alert ingestion or manual event forwarding, the next step is to map individual event fields to the fields on a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+After you identify the sources for scheduled alert ingestion or manual event forwarding, the next step is to map individual event fields to the fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Overview of Mapping alerts and events
 
-For the [[mapping-logrhythm|mapping]] step, as a user with the **sn\_si.ingestion\_profile\_admin** role, you ingest sample alerts from your Splunk Enterprise console, or you export event data for a Splunk Enterprise event.
+For the mapping step, as a user with the **sn\_si.ingestion\_profile\_admin** role, you ingest sample alerts from your Splunk Enterprise console, or you export event data for a Splunk Enterprise event.
 
 The following figures are examples of the default mapping grids that are provided for each type of event profile. This default mapping can be edited. This modification allows you to customize the fields that populate the security incident. With the mapping step, you can visualize how adding or removing event fields impacts the SIR security incident field values.
 
@@ -38,7 +38,7 @@ Mapping alerts and exporting events on-demand from your Splunk enterprise consol
 -   Customize the mapping grid by adding or removing fields. Track overlooked or duplicated fields with the color coding that is provided.
 -   Set filter conditions so that you can specify which alerts are ingested into the SIR application, and which alerts are filtered out.
 -   Define additional incident field criteria that aggregates an incoming alert to an existing SIR security incident to prevent duplicate incidents. This additional filtering can reduce the number of active, overlapping security incidents by placing all related security event data on a single security incident.
--   In certain cases, event field values in the Splunk Enterprise console may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, the [[threat-intelligence-malware|Malware]] Alert and Virus Infection field values in the Splunk console both translate to Malicious Code Activity in the Category field on the SIR security incident.
+-   In certain cases, event field values in the Splunk Enterprise console may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, the Malware Alert and Virus Infection field values in the Splunk console both translate to Malicious Code Activity in the Category field on the SIR security incident.
 
 ## Scheduled alert profiles
 
@@ -56,8 +56,3 @@ The next step is to ingest triggered alerts or export data and map values to the
 
 **Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intelligence-malware|Malware]]

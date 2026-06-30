@@ -67,7 +67,7 @@ Defaults log_allowed
 
 ## Policies for Mac — Application
 
-DEX provides the following policies for [[dex-workspace-application-tab|applications]].
+DEX provides the following policies for applications.
 
 |Policy name|Description|Check instances|Frequency|Historical or latest|Check instance parameters|
 |-----------|-----------|---------------|---------|--------------------|-------------------------|
@@ -75,7 +75,7 @@ DEX provides the following policies for [[dex-workspace-application-tab|applicat
 
 ## Policies for Mac — Device
 
-DEX provides the following policies for [[dex-workspace-devices-tab|devices]].
+DEX provides the following policies for devices.
 
 <table id="table_mjt_kmd_hwb"><thead><tr><th>
 
@@ -324,7 +324,3 @@ N/A
 
 **Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

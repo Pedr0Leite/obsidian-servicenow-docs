@@ -43,8 +43,5 @@ Role required: pa\_power\_user or admin
 
 ## What to do next
 
-Now that text analytics are configured and initial data is collected, you can create text analysis [[widgets|widgets]] for the selected indicators. Consider setting text analytics stop words first. Both these stop words and the Zing stop words can apply.
+Now that text analytics are configured and initial data is collected, you can create text analysis widgets for the selected indicators. Consider setting text analytics stop words first. Both these stop words and the Zing stop words can apply.
 
-## Related
-
-- [[widgets|Widgets]]

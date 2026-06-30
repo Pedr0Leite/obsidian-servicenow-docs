@@ -40,7 +40,7 @@ You can select attributes of type String, Reference, Number, Boolean, and Choice
 1.  Open a rate model by performing one of the following actions:
 
     -   Navigate to **All** &gt; **Project Administration** &gt; **Rate Model** &gt; **All**.
-    -   Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Rate Model** &gt; **All**.
+    -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **All**.
 2.  In the **Rate Model Attributes** related list, click **New**.
 
 3.  On the form, fill in the fields.
@@ -97,6 +97,3 @@ User-friendly name for identifying the attribute. The default name populated is 
 
 **Parent Topic:**[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

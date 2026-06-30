@@ -66,7 +66,7 @@ Shows the number of views or operations performed for the Google maps applicatio
 
 </td></tr><tr><td>
 
-**Additional [[c_MetricDefinitionSupport|Metrics]]**
+**Additional Metrics**
 
 </td><td>
 
@@ -87,7 +87,7 @@ Shows any of the following items, depending on your licensing agreement:
 -   Active users
 -   ServiceNow® Cloud Management — EC2 instances
 -   ServiceNow® Orchestration core plugins active
--   [[custom-tables|Custom tables]] extending base system tables other than Task
+-   Custom tables extending base system tables other than Task
 -   Virtual node count
 -   Active users for subscriptions
 -   NotifyNow Messages
@@ -98,7 +98,3 @@ Shows any of the following items, depending on your licensing agreement:
 </td></tr></tbody>
 </table>**Parent Topic:**[Monitoring instance usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/usage-analytics-module-subscription.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[custom-tables|Custom tables]]

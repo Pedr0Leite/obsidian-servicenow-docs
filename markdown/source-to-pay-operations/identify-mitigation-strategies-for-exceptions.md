@@ -22,35 +22,25 @@ Users must be assigned this role alongside the Operational Buyer role to use thi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  Use any of the following steps:
 
-    -   Select the **Now Assist** button on any of the [[purchase-order-exception-table|purchase order exception]] cards.
-    -   [[view-purch-order-exception|View a purchase order exception]]. Select the **Now Assist** button on the exception record.
+    -   Select the **Now Assist** button on any of the purchase order exception cards.
+    -   [View a purchase order exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/view-purch-order-exception.md). Select the **Now Assist** button on the exception record.
     The Now Assist panel opens and the agentic workflow begins analyzing the exception and building a mitigation strategy by:
 
     -   Outlining the material delivery gap caused by the exception.
-    -   Locating open [[purchase-order-lines|purchase order lines]] with alternative suppliers for the same product model.
+    -   Locating open purchase order lines with alternative suppliers for the same product model.
     -   Recommending order adjustments that can help offset the shortfall.
-4.  Review the proposed solution and either accept it or request specific changes to the alternative [[supplier|supplier]] orders.
+4.  Review the proposed solution and either accept it or request specific changes to the alternative supplier orders.
 
 
 ## Result
 
-The agentic workflow then creates the appropriate order revision \(a [[purchase-requisition|purchase requisition]] of type Order Revision\) reflecting the approved changes.
+The agentic workflow then creates the appropriate order revision \(a purchase requisition of type Order Revision\) reflecting the approved changes.
 
-**Parent Topic:**[[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]
+**Parent Topic:**[Identify and execute mitigation strategies for purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/mitigation-strategies-for-po-exceptions.md)
 
-## Related
-
-- [[view-purch-order-exception|View a purchase order exception]]
-- [[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]

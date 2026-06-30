@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the physical connection details
 
-Review update, or create a network asset instance for the physical port connection on the interface cards in your networks. You define these attributes so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review update, or create a network asset instance for the physical port connection on the interface cards in your networks. You define these attributes so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The physical connection data includes the link types, bandwidths, ports, sites, 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Physical Connections**.
 
@@ -34,11 +34,11 @@ The physical connection data includes the link types, bandwidths, ports, sites, 
 
 4.  On the **Details** tab, in the Physical connection section, fill in the general information for the physical connection.
 
-    To learn more about the fields that are unique to the [[physical-connection-form|Physical Connection form]], see [Physical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/physical-connection-form.md).
+    To learn more about the fields that are unique to the Physical Connection form, see [Physical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/physical-connection-form.md).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
-    If you selected **Optical Fiber Cable** in the **Product Model** field, the [[cable-parameters-form|Cable parameters form]] appears so that you can enter some information about the cable parameters. To learn more about the fields, see [Cable Parameters form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cable-parameters-form.md).
+    If you selected **Optical Fiber Cable** in the **Product Model** field, the Cable parameters form appears so that you can enter some information about the cable parameters. To learn more about the fields, see [Cable Parameters form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cable-parameters-form.md).
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the physical connection.
 
@@ -54,7 +54,7 @@ The physical connection data includes the link types, bandwidths, ports, sites, 
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -98,11 +98,3 @@ The physical connection data includes the link types, bandwidths, ports, sites, 
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[physical-connection-form|Physical Connection form]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[cable-parameters-form|Cable Parameters form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

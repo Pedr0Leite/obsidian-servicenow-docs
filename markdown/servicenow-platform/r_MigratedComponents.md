@@ -70,7 +70,7 @@ Survey response \[survey\_response\]
 -   Category result \[asmt\_category\_result\], for system use only
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_MigrateSurveys|Legacy survey migration]]
+</table>**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md)
 
 **Related topics**  
 
@@ -81,6 +81,3 @@ Survey response \[survey\_response\]
 
 [Migrated question review]()
 
-## Related
-
-- [[c_MigrateSurveys|Legacy survey migration]]

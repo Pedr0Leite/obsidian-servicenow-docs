@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[knowledge-blocks|Knowledge blocks]] activates these related plugins if they are not already active.
+Knowledge blocks activates these related plugins if they are not already active.
 
 <table id="table_b1h_mld_dbb"><thead><tr><th>
 
@@ -34,11 +34,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[knowledge-management|Knowledge Management]] Advanced\[com.snc.knowledge\_advanced\]
+Knowledge Management Advanced\[com.snc.knowledge\_advanced\]
 
 </td><td>
 
-Enables advanced features for Knowledge Management, such as [[article-versioning|article versioning]]. For a full list of features, see [activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).**Note:** Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-disable-property.md).
+Enables advanced features for Knowledge Management, such as article versioning. For a full list of features, see [activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).**Note:** Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-disable-property.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -51,16 +51,10 @@ Enables advanced features for Knowledge Management, such as [[article-versioning
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[knowledge-management|Knowledge Management]]
-- [[article-versioning|Article versioning]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

@@ -34,7 +34,7 @@ Consider the following points when you create a repair order:
 -   **[Request repair of enterprise assets using Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-req-eam-assets-using-catalog.md)**  
 Submit a Service Catalog request to repair enterprise assets that are defective or pending repair in your stockroom.
 -   **[Create repair orders for enterprise assets in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-orders-for-eam-assets-in-inventory-view.md)**  
-Request repair of enterprise assets that are defective or pending repair by creating a repair order in the [[inventory-view-am|Inventory view]] of [[using-eam-workspace|Enterprise Asset Workspace]].
+Request repair of enterprise assets that are defective or pending repair by creating a repair order in the Inventory view of Enterprise Asset Workspace.
 -   **[Request repair of an enterprise asset using the Repair option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-requests-using-asset-form-eam.md)**  
 Request repair of a defective enterprise asset in your stockroom directly through the asset form.
 
@@ -47,7 +47,3 @@ Request repair of a defective enterprise asset in your stockroom directly throug
 
 [Record time worked on asset repair tasks in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

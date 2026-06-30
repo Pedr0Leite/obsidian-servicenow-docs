@@ -14,7 +14,7 @@ breadcrumb: [Virtualization technologies and cloud platforms supported by ASP in
 
 # IBM licensing in public cloud environments
 
-When you integrate the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with [[c_SoftwareAssetMgmt|Software Asset Management]] providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, the Software Asset Management application supports IBM licensing rules in public cloud environments.
+When you integrate the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, the Software Asset Management application supports IBM licensing rules in public cloud environments.
 
 A public cloud is a cloud computing model through which computing resources are owned and managed by a third-party cloud provider but shared by multiple clients via the Internet. Clients can access these shared computing resources through the virtual machines \(VMs\) that are running on virtual servers within each public cloud.
 
@@ -26,7 +26,3 @@ With sub-capacity licensing in public cloud environments, you must license the v
 
 **Parent Topic:**[Virtualization technologies and public cloud platforms supported by IBM Authorized SAM Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-virtualization-technologies-iasp-integrations.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

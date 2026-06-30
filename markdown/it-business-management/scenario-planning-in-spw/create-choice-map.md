@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Strategic Plannin
 
 # Create a choice map
 
-Map the choice list for each field map for fields with a list of values from [[alignment-planner-workspace-landing-page|Strategic Planning]] to [[agile-landing-page|Agile Development 2.0]], SAFe, [[c_ProjectPortfolioSuite|Project Portfolio Management]] and vice-versa.
+Map the choice list for each field map for fields with a list of values from Strategic Planning to Agile Development 2.0, SAFe, Project Portfolio Management and vice-versa.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_align\_core.apw\_admin
 
 2.  Select **ServiceNow Internal**.
 
-3.  In the **Table Maps** related list, select the table map which has the fields for which you want to [[create-choice-map-ppw|create a choice map]].
+3.  In the **Table Maps** related list, select the table map which has the fields for which you want to create a choice map.
 
 4.  In the **Field Maps** related list, select a relevant field map for which you want to create a choice map.
 
@@ -38,9 +38,4 @@ Role required: sn\_align\_core.apw\_admin
 
 7.  Click **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[create-choice-map-ppw|Create a choice map]]

@@ -18,13 +18,13 @@ Add translated values to your decorative slider.
 
 Role required: admin
 
-You first need to create a decorative slider before you can add translated values. For more information, see [[decorative-slider|Configure a decorative slider]].
+You first need to create a decorative slider before you can add translated values. For more information, see [Configure a decorative slider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/decorative-slider.md).
 
-Access your decorative slider record from your [[parameter-input-screen|input form screen]] and keep a record of all the Label values contained within the JSON script. These are the name values that you will be identifying for translation.
+Access your decorative slider record from your input form screen and keep a record of all the Label values contained within the JSON script. These are the name values that you will be identifying for translation.
 
 ## Procedure
 
-1.  Navigate to the Input record in the navigation tree within [[mab-concept|Mobile App Builder]], which contains the decorative slider input attribute for translating.
+1.  Navigate to the Input record in the navigation tree within Mobile App Builder, which contains the decorative slider input attribute for translating.
 
     **Note:** For instructions on creating a decorative slider, see [Configure a decorative slider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/decorative-slider.md).
 
@@ -64,8 +64,3 @@ Access your decorative slider record from your [[parameter-input-screen|input fo
     7.  Select **Submit**.
     8.  Repeat all the steps in step 10, for each Label value defined in the JSON. You will also need to create a new record in the Translated Name/Field table for each Label value that requires translation into an alternative language.
 
-## Related
-
-- [[decorative-slider|Configure a decorative slider]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]

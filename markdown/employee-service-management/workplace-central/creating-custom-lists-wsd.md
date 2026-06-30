@@ -14,10 +14,10 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Creating custom lists on Workplace Central
 
-You can create custom lists using the [[wsd-lists-module|Lists module]] on [[workplace-central-feat|Workplace Central]]. You can create a custom list by using existing lists from Workplace Central, or by using a system table.
+You can create custom lists using the Lists module on Workplace Central. You can create a custom list by using existing lists from Workplace Central, or by using a system table.
 
 -   **[Create a custom list based on an existing list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-list-from-existing.md)**  
-[[create-list-from-existing|Create a custom list based on an existing list]] on Workplace Central.
+Create a custom list based on an existing list on Workplace Central.
 -   **[Create a custom list based on a system table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-custom-list.md)**  
 Create a custom list on Workplace Central based on a system table.
 
@@ -42,8 +42,3 @@ Create a custom list on Workplace Central based on a system table.
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[wsd-lists-module|Lists module]]
-- [[workplace-central-feat|Workplace Central]]
-- [[create-list-from-existing|Create a custom list based on an existing list]]

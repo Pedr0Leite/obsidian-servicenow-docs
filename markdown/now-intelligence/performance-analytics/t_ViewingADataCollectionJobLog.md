@@ -22,7 +22,7 @@ Role required: pa\_data\_collector or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Job Logs**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Job Logs**.
 
     The log provides the following information for all occurrences.
 
@@ -56,6 +56,3 @@ Click on a job in the list to see a detailed log of the job. For information abo
 
 [View a data collection job event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ViewingADataCollectionJobEvent.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

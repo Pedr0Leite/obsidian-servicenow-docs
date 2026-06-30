@@ -22,11 +22,11 @@ Role required: sn\_customerservice\_manager or admin
 
 You can associate an entitlement with a product, an asset, an account, or a contract. An entitlement check is performed when a case is opened. This check takes into consideration the existing cases for the specific account, product, asset, and service contract. Entitlements can also have associated workflows that drive recommended activities for a case.
 
-Entitlements are counted on a per unit basis. The **Unit** field on the Service [[entitlement-form|Entitlement form]] defines the unit type, either cases or hours.
+Entitlements are counted on a per unit basis. The **Unit** field on the Service Entitlement form defines the unit type, either cases or hours.
 
-The **Total Units** field defines the total number of cases or hours available for this entitlement and the **Remaining Units** field [[gamification-components-tracks|tracks]] the number of units remaining. These counters are active if the **Per Unit** field is enabled.
+The **Total Units** field defines the total number of cases or hours available for this entitlement and the **Remaining Units** field tracks the number of units remaining. These counters are active if the **Per Unit** field is enabled.
 
-The **Remaining Units** field is updated using business [[gamification-components-rules|rules]].
+The **Remaining Units** field is updated using business rules.
 
 -   When using cases as the unit type, the **Update case entitlement on Close** business rule updates this field when a case for a product, asset, company, or contract that has an associated entitlement is closed.
 -   To use hours as the unit type, customers must create a separate business rule. For example, create a rule that is applied to the amount of time an agent spends on a case. When a case is resolved, deduct the hours spent from the total service hours available in the entitlement.
@@ -43,8 +43,4 @@ Keep these guidelines in mind as you create entitlements.
 
 -   Associate entitlements with customer service entities
 
-## Related
 
-- [[entitlement-form|Entitlement form]]
-- [[gamification-components-tracks|Tracks]]
-- [[gamification-components-rules|Rules]]

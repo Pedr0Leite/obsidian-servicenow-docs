@@ -14,7 +14,7 @@ breadcrumb: [Reference, Now Assist for Employee Experience, Unified Employee Exp
 
 # Properties installed with Now Assist for Employee Experience
 
-Properties available with the [[now-assisit-employee-exp|Now Assist for Employee Experience]] application.
+Properties available with the Now Assist for Employee Experience application.
 
 These properties are available for Now Assist for Employee Experience. The properties are listed in the System Properties \[sys\_properties\] table. To access the table, enter `sys_properties.list` in the navigation context-menu filter.
 
@@ -47,6 +47,3 @@ Set the portal that you want to use for the To-do configuration. To set multiple
 </td></tr></tbody>
 </table>**Parent Topic:**[Now Assist for Employee Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-now-assist-for-emp-exp.md)
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

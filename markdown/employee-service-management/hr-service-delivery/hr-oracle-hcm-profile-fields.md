@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery integration with Oracle Cloud HCM, Integra
 
 # Mapping entity profile fields
 
-The Trigger Oracle HCM Integration flow maps the entity profile fields from Oracle HCM to the [[c_HRProfileRecords|HR profile]] fields in the ServiceNow® platform.
+The Trigger Oracle HCM Integration flow maps the entity profile fields from Oracle HCM to the HR profile fields in the ServiceNow® platform.
 
 **Important:** For details about the fields that are mapped, refer to this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0966823).
 
@@ -25,6 +25,3 @@ The Trigger Oracle HCM Integration flow maps the entity profile fields from Orac
 
 [Run a scheduled job]()
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Create a project status report
 
-Create project status report from the related lists of the [[create-a-project-form|project form]]. The project status report created for the most recent status date updates the status of the project in portfolios.
+Create project status report from the related lists of the project form. The project status report created for the most recent status date updates the status of the project in portfolios.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: it\_project\_manager
 
 The project status report shows snapshot status of RIDAC \(Risk, Issues, Decisions, Actions, and Request Changes\) records, key milestones,and charts only.
 
-To include RIDAC records in the status report, select the **Show on project status report** option on individual RIDAC [[form-field-information-for-dw|forms]].
+To include RIDAC records in the status report, select the **Show on project status report** option on individual RIDAC forms.
 
-You can also print a project status report from [[project-workspace-landing-page|project workspace]]. To print a report, select the print icon \(\[Omitted image "PrintIcon.png"\] Alt text: screenshot for print icon\) in the header of **Status Report** tab.
+You can also print a project status report from project workspace. To print a report, select the print icon \(\[Omitted image "PrintIcon.png"\] Alt text: screenshot for print icon\) in the header of **Status Report** tab.
 
 ## Procedure
 
@@ -64,7 +64,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>2.  On the [[status-report-form-project-management|status report form]], fill in the details.
+</table>2.  On the status report form, fill in the details.
 
     For more information, see [Status report form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/status-report-form-project-management.md).
 
@@ -91,7 +91,7 @@ Project status reports provide the most recent, at-a-glance progress of a projec
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -127,10 +127,3 @@ Project status reports provide the most recent, at-a-glance progress of a projec
 
 [Status report form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/status-report-form-project-management.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[form-field-information-for-dw|Forms]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[status-report-form-project-management|Status report form]]
-- [[c_ResourcePlans|Resource plans]]

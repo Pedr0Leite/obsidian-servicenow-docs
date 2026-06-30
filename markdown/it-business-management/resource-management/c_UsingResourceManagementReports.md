@@ -18,7 +18,7 @@ Resource Management reports provide the resource requester and resource managers
 
 **Important:** Resource Management reports is deprecated starting Zurich release. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the [[rsrc-mgmt-wrkspc|Resource Management Workspace]]. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md).
+Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md).
 
 You can generate reports for the following types of information:
 
@@ -50,11 +50,7 @@ You can generate reports for the following types of information:
 -   **[View availability, utilization, and allocation reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_GenAvailUtilAllocationReport.md)**  
 You can view resource reports that focus on resource availability, utilization, and allocations.
 -   **[Edit a resource management report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/ReportsNew.md)**  
-Resource management reports show [[r_AllocatingResources|resource allocation]] details in different formats for different time periods. Configure and use these reports according to your business requirements.
+Resource management reports show resource allocation details in different formats for different time periods. Configure and use these reports according to your business requirements.
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

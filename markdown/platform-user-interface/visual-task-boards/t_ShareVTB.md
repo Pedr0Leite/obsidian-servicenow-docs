@@ -22,11 +22,11 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Drag a task board to a Connect mini window.
 
-    A link to the task board appears in the conversation. The task board is also listed in the conversation tools, which are visible in the Connect workspace. Only conversation members who are members of the board can access it. If you share a task board in a [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_StartARecordConversation.md), it appears as a URL in the record [[activity-stream-configurable-workspace|activity stream]].
+    A link to the task board appears in the conversation. The task board is also listed in the conversation tools, which are visible in the Connect workspace. Only conversation members who are members of the board can access it. If you share a task board in a [Follow a record in Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_StartARecordConversation.md), it appears as a URL in the record activity stream.
 
 
 **Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/viewing-sharing-vis-task-brds.md)
@@ -38,7 +38,3 @@ Role required: none
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[activity-stream-configurable-workspace|Activity stream]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring Next Experience themes, Working with themes, Configure,
 
 # Create a Next Experience style
 
-When you create or modify a Next Experience theme, you create and edit one or more styles. Styles include typefaces, colors, images, and shapes and [[form-configurable-workspace|forms]]. The new style records you create override the default Polaris or default Coral theme in Next Experience.
+When you create or modify a Next Experience theme, you create and edit one or more styles. Styles include typefaces, colors, images, and shapes and forms. The new style records you create override the default Polaris or default Coral theme in Next Experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 When you edit Next Experience styles, you work in raw JSON code. Edit with care.
 
-You upload new typefaces or images in a separate process. See [[add-image-asset|Add Next Experience font and image assets]].
+You upload new typefaces or images in a separate process. See [Add Next Experience font and image assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-image-asset.md).
 
 ## Procedure
 
@@ -77,10 +77,5 @@ You upload new typefaces or images in a separate process. See [[add-image-asset|
 
 The updated colors, shapes, and typefaces are visible in your theme.
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[add-image-asset|Add Next Experience font and image assets]]
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
-- [[form-configurable-workspace|Forms]]

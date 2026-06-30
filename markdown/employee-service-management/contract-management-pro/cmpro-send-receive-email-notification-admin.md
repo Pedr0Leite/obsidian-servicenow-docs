@@ -14,7 +14,7 @@ breadcrumb: [Manage notifications in Contract Management Pro, Configure addition
 
 # Configure email notifications for approval workflow in Contract Management Pro
 
-Activate the notifications for [[cncore-cmpro-landing-page|Contract Management Pro]] to notify users when approval for contract revision is initiated, approved, rejected, or cancelled.
+Activate the notifications for Contract Management Pro to notify users when approval for contract revision is initiated, approved, rejected, or cancelled.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ You can activate the notifications specific to Contract Management Pro approval 
 
 5.  Select **Update**.
 
-    **Note:** You must configure the **ApprovalNotificationWorkspaceURLExt** extension point to enable the notifications for [[legal-counsel-center-landing|Legal Counsel Center]].
+    **Note:** You must configure the **ApprovalNotificationWorkspaceURLExt** extension point to enable the notifications for Legal Counsel Center.
 
     For more information, see [Configure extension point for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-configure-action-extension-point-email-notification-admin.md).
 
@@ -76,7 +76,3 @@ The approval notifications for Contract Management Pro are activated and the def
 
 **Parent Topic:**[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-notifications.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

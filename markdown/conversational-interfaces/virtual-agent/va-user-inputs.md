@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Assistant Designer user input controls
 
-Use the collection of input controls provided by [[assistant-designer|Assistant Designer]] to prompt and capture information from the user in a conversation.
+Use the collection of input controls provided by Assistant Designer to prompt and capture information from the user in a conversation.
 
 ## Common input control properties
 
@@ -29,7 +29,7 @@ In addition to [data pills and condition controls](https://raw.githubusercontent
 
 ## Large Language Model \(LLM\) user input controls
 
-The following user input controls are supported in LLM topics when you create an LLM [[virtual-agent-landing-page|Virtual Agent]] topic. LLM user inputs include the following.
+The following user input controls are supported in LLM topics when you create an LLM Virtual Agent topic. LLM user inputs include the following.
 
 -   [Input Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-data-collector.md)
 -   [Text input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-text-input.md)
@@ -61,35 +61,23 @@ The following user input controls are supported in LLM topics when you create an
 -   **[Input Collector user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-data-collector.md)**  
 Use the Input Collector control to gather data for use by Now Assist in conversations that use large language model \(LLM\) topic discovery.
 -   **[Text user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-text-input.md)**  
-The [[va-text-input|Text user input control]] in a Virtual Agent topic prompts the user for a text string.
+The Text user input control in a Virtual Agent topic prompts the user for a text string.
 -   **[Static Choice user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-static-choicelist.md)**  
-Use the [[va-static-choicelist|Static Choice user input control]] in a Virtual Agent topic to list predefined choices available to the user. You can select only one item from a choice list.
+Use the Static Choice user input control in a Virtual Agent topic to list predefined choices available to the user. You can select only one item from a choice list.
 -   **[Grouped Choice user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-grouped-choice-user-input.md)**  
-Use the [[va-grouped-choice-user-input|Grouped Choice user input control]] in a Virtual Agent topic to list multiple groups of choices in one message.
+Use the Grouped Choice user input control in a Virtual Agent topic to list multiple groups of choices in one message.
 -   **[Dynamic Choice user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-reference-choicelist.md)**  
-Use the [[va-reference-choicelist|Dynamic Choice user input control]] in a Virtual Agent topic to dynamically create a list of available choices for your users. Create these choices by querying a table or by using a script to dynamically create them.
+Use the Dynamic Choice user input control in a Virtual Agent topic to dynamically create a list of available choices for your users. Create these choices by querying a table or by using a script to dynamically create them.
 -   **[Boolean user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-boolean-user-input.md)**  
-Use the [[va-boolean-user-input|Boolean user input control]] in a Virtual Agent topic to present a Yes/No prompt to the user.
+Use the Boolean user input control in a Virtual Agent topic to present a Yes/No prompt to the user.
 -   **[Date Time user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-date-time-input.md)**  
-Use the [[va-date-time-input|Date Time user input control]] in a Virtual Agent topic to enable the user to select a calendar date, time \(hours and minutes\), or both.
+Use the Date Time user input control in a Virtual Agent topic to enable the user to select a calendar date, time \(hours and minutes\), or both.
 -   **[File Picker user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-file-picker.md)**  
-Use the [[va-file-picker|File Picker user input control]] in a Virtual Agent topic to prompt a user to upload an image or any file type. After the user uploads an image file, the image appears immediately in the Virtual Agent client.
+Use the File Picker user input control in a Virtual Agent topic to prompt a user to upload an image or any file type. After the user uploads an image file, the image appears immediately in the Virtual Agent client.
 -   **[Carousel user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-carousel-input.md)**  
-Use the [[va-carousel-input|Carousel user input control]] in a Virtual Agent topic to present a prompt and a horizontal series of labeled images. The user can select a single item from the carousel.
+Use the Carousel user input control in a Virtual Agent topic to present a prompt and a horizontal series of labeled images. The user can select a single item from the carousel.
 -   **[Secure Text user input control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-secure-text.md)**  
 The Secure Text control provides a means to encrypt sensitive information provided as simple text or other formats. Use this control to encrypt sensitive information in topics that use large language model \(LLM\) discovery.
 
 **Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-text-input|Text user input control]]
-- [[va-static-choicelist|Static Choice user input control]]
-- [[va-grouped-choice-user-input|Grouped Choice user input control]]
-- [[va-reference-choicelist|Dynamic Choice user input control]]
-- [[va-boolean-user-input|Boolean user input control]]
-- [[va-date-time-input|Date Time user input control]]
-- [[va-file-picker|File Picker user input control]]
-- [[va-carousel-input|Carousel user input control]]

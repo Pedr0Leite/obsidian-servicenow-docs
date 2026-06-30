@@ -14,7 +14,7 @@ breadcrumb: [Using Resource Management Workspace, Use, Resource Management Works
 
 # Reassign or unassign work using Resource Management Workspace
 
-Reassign or unassign any assigned work from the [[rsrc-mgmt-wrkspc|Resource Management Workspace]]. You can group the resource board by primary attributes to identify the resources with same primary attributes.
+Reassign or unassign any assigned work from the Resource Management Workspace. You can group the resource board by primary attributes to identify the resources with same primary attributes.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ You can allocate the unassigned work and approve the reassigned work. For more i
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

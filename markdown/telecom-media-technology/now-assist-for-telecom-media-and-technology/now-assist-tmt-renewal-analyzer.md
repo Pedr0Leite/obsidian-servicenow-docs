@@ -18,7 +18,7 @@ Assess engagements and contracts due for renewal, analyze trends, and recommend 
 
 ## Support renewals and expansion agentic workflow overview
 
-The Support renewals and expansion agentic workflow enables customer success agents to assess the health, value, and product adoption of an engagement or contract. It provides data-driven insights and renewal play recommendations and enables customer success agents to manage multiple customer engagements efficiently. The workflow uses the [[renewal-insight|Renewal Insight Engine skill]] to evaluate individual product metrics, health score trends, usage trends, and value scores at both the engagement and contract level, providing more granular insights than the earlier decision table-based approach. See [Renewal insight engine skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/renewal-insight.md)for details.
+The Support renewals and expansion agentic workflow enables customer success agents to assess the health, value, and product adoption of an engagement or contract. It provides data-driven insights and renewal play recommendations and enables customer success agents to manage multiple customer engagements efficiently. The workflow uses the Renewal Insight Engine skill to evaluate individual product metrics, health score trends, usage trends, and value scores at both the engagement and contract level, providing more granular insights than the earlier decision table-based approach. See [Renewal insight engine skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/renewal-insight.md)for details.
 
 Customer success managers can use the Support renewals and expansion agentic workflow to:
 
@@ -105,6 +105,3 @@ The following AI agents are used to execute the instructions for the agentic wor
 |Value realization assessor AI agent|Analyzes value realized by tracking service metrics and customer goal achievement over time.|
 |Success insight AI agent|Populates score data and delivers trend analysis to support informed decisions.|
 
-## Related
-
-- [[renewal-insight|Renewal insight engine skill]]

@@ -18,7 +18,7 @@ The Privacy Management home page provides an overview of the complete privacy ri
 
 The home page is organized into four tabs: **Processing activity**, **Risk and compliance**, **Operations**, and **Privacy cases**.
 
-\[Omitted image "processing-activity-privacy-management-homepage.png"\] Alt text: [[processing-activity-tab|Processing activity tab]] of the [[privacy-management|Privacy management]] dashboard.
+\[Omitted image "processing-activity-privacy-management-homepage.png"\] Alt text: Processing activity tab of the Privacy management dashboard.
 
 ## Required roles
 
@@ -30,7 +30,7 @@ For examples of how different people in your organization would use this home pa
 
 |User|Dashboard use|
 |----|-------------|
-|Privacy manager|The privacy manager can view and understand the privacy compliance posture considering all the [[ropa-record|processing activities]] and privacy assessments. They can also view the privacy team's tasks.|
+|Privacy manager|The privacy manager can view and understand the privacy compliance posture considering all the processing activities and privacy assessments. They can also view the privacy team's tasks.|
 |Privacy analyst|The privacy analyst can view and understand the privacy compliance posture considering only the processing activities assigned to the privacy analyst. They can also access the tasks that need their attention.|
 
 ## Processing activity reports
@@ -48,7 +48,7 @@ For examples of how different people in your organization would use this home pa
 
 ## Risk and compliance reports
 
-\[Omitted image "risk-compliance-prm-home-page.png"\] Alt text: Reports on the [[risk-and-complaince-tab|Risk and compliance tab]] of the Privacy Management home page.
+\[Omitted image "risk-compliance-prm-home-page.png"\] Alt text: Reports on the Risk and compliance tab of the Privacy Management home page.
 
 |Title|Description|
 |-----|-----------|
@@ -59,7 +59,7 @@ For examples of how different people in your organization would use this home pa
 
 ## Operations reports
 
-\[Omitted image "operations-prm-home-page.png"\] Alt text: Reports on the [[operations-tab|Operations tab]] of the Privacy Management home page.
+\[Omitted image "operations-prm-home-page.png"\] Alt text: Reports on the Operations tab of the Privacy Management home page.
 
 <table id="table_df4_ccz_m3c"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[risk-assessments|Risk assessments]]
+Risk assessments
 
 </td><td>
 
@@ -83,7 +83,7 @@ Privacy assessments
 
 </td><td>
 
-Number of privacy assessments by state \(assigned, work in progress, and draft\), including counts for open, overdue, and due in 7 days. You can filter by available [[airc-assessment-templates|assessment templates]].
+Number of privacy assessments by state \(assigned, work in progress, and draft\), including counts for open, overdue, and due in 7 days. You can filter by available assessment templates.
 
 </td></tr><tr><td>
 
@@ -127,12 +127,3 @@ Control assurance status across three areas.-   Attestations: Number of open and
 
 **Parent Topic:**[Reporting for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-prm.md)
 
-## Related
-
-- [[processing-activity-tab|Processing activity tab]]
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[risk-and-complaince-tab|Risk and compliance tab]]
-- [[operations-tab|Operations tab]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]

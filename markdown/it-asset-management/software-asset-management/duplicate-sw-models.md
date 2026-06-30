@@ -14,7 +14,7 @@ breadcrumb: [Software models and Software entitlements, Exploring Software Asset
 
 # Automatic creation of software models
 
-[[c_CreatingSoftwareModels|Software models]] are automatically created for software installations if one doesn't already exist.
+Software models are automatically created for software installations if one doesn't already exist.
 
 All software installations need to be associated to software models. Being associated to a software model, helps in remediation and ensures that the software installations are included during cost estimation in order to be compliant.
 
@@ -41,6 +41,3 @@ You can identify whether a software model or software model result is created au
 
 [Software Asset Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-properties.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Tableau Cloud
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Tableau Cloud application enables you to track your software subscriptions and to reclaim stale licenses.
+Integrating your Software Asset Management application with the Tableau Cloud application enables you to track your software subscriptions and to reclaim stale licenses.
 
 **Important:** Minimize security risks and protect information by granting access only to the necessary user or API permissions.
 
@@ -90,7 +90,7 @@ Create an integration profile to track software subscriptions and optimize licen
 
 ### Before you begin
 
-To create a Tableau Cloud integration profile, request the Software Asset Management - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+To create a Tableau Cloud integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ServiceNow Role required: sam\_integrator
 
@@ -98,7 +98,7 @@ ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re using the [[sam-workspace|Software Asset Workspace]], the option to create the integration profile in Core UI is inactive.
+If you’re using the Software Asset Workspace, the option to create the integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -329,7 +329,7 @@ Life span of the generated JSON Web Token \(JWT\).Default value: 3600 sec
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -358,9 +358,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

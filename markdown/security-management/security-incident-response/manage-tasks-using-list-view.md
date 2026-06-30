@@ -24,7 +24,7 @@ Role required: sn\_msi.workspace\_manager.
 
 MSI Managers can create a task in the List view using the following steps:
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Major Security Incidents**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management** &gt; **Major Security Incidents**.
 2.  Select the **Lists** view.
 3.  Choose the required major security incident record.
 4.  Select the **Tasks** tab.
@@ -304,6 +304,3 @@ MSI Manager can delete a task in the List view using following steps:
 
 [Manage tasks using the Visual Task Board]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -32,7 +32,7 @@ To view the Risk activity page, select **Workspaces** &gt; **Vendor Management W
 
     Select any bar on a chart to open the associated list of assessments, issues, or tasks.
 
--   **Expiring third-party [[risk-assessments|risk assessments]].**
+-   **Expiring third-party risk assessments.**
 
     The section lists risk assessment due diligence requests that will expire soon.
 
@@ -41,6 +41,3 @@ To view the Risk activity page, select **Workspaces** &gt; **Vendor Management W
 
 **Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/unified-vrm-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

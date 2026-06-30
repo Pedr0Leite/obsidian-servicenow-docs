@@ -13,7 +13,7 @@ breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
 
 # Find AI agents
 
-Find available AI agents in [[ai-agent-studio|AI Agent Studio]] to explore your options when creating agentic workflows.
+Find available AI agents in AI Agent Studio to explore your options when creating agentic workflows.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Current location
 
 </th><th align="left" id="d98220e80">
 
-[[now-assist-global-navigation|Navigation]] option
+Navigation option
 
 </th></tr></thead><tbody><tr><td id="d98220e86">
 
@@ -60,15 +60,10 @@ View the Recent agentic workflows and AI agents activity section on the **AI age
 Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**, and then select the **AI agents** tab.
 
 </td></tr></tbody>
-</table>2.  View all AI agents, including those AI agents that were installed with [[platform-now-assist-landing|Now Assist]] applications by navigating to the **AI agents** tab.
+</table>2.  View all AI agents, including those AI agents that were installed with Now Assist applications by navigating to the **AI agents** tab.
 
 
 ## Result
 
 Navigating through any of the preceding options directs you to the AI agents that are available on your AI Agent Studio instance.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-global-navigation|Navigation]]
-- [[platform-now-assist-landing|Now Assist]]

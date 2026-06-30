@@ -14,11 +14,11 @@ breadcrumb: [Create pallet assets in the Enterprise Asset Workspace, Create and 
 
 # Add assets to a pallet in the Enterprise Asset Workspace
 
-Add enterprise, hardware, base, bundle, or [[c_ReceiveAConsumableAsset|consumable assets]] to a pallet so that you can track and manage them as a group.
+Add enterprise, hardware, base, bundle, or consumable assets to a pallet so that you can track and manage them as a group.
 
 ## Before you begin
 
-To add hardware, base, or bundle assets to a pallet, install and activate the [[ham-landing-page|Hardware Asset Management]] application on your ServiceNow® instance. To install and activate the application, request it from the [ServiceNow Store](https://store.servicenow.com).
+To add hardware, base, or bundle assets to a pallet, install and activate the Hardware Asset Management application on your ServiceNow® instance. To install and activate the application, request it from the [ServiceNow Store](https://store.servicenow.com).
 
 Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_technician
 
@@ -36,7 +36,7 @@ You can add an asset to a pallet only under the following conditions:
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  On the **All assets** tab, select the pallet that you want to add assets to.
 
@@ -68,9 +68,3 @@ The assets are added to the **Assets** tab of the pallet asset record.
 
 **Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]

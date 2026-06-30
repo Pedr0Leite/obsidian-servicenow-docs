@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Configure Predictive Intelligence
 
-Configure solution definitions for [[predictive-intelligence-landing|Predictive Intelligence]] to train, test, and monitor solution definitions
+Configure solution definitions for Predictive Intelligence to train, test, and monitor solution definitions
 
 ## Configuration
 
@@ -39,6 +39,3 @@ Learn about advanced settings for your Predictive Intelligence machine learning 
 
 **Parent Topic:**[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

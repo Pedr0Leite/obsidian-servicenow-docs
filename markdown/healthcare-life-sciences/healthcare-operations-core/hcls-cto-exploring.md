@@ -14,7 +14,7 @@ breadcrumb: [Healthcare Operations Core, Healthcare Operations, Healthcare and L
 
 # Exploring Healthcare Operations Core
 
-Learn how you can use the [[hcls-cto-app|Healthcare Operations Core]] application to enable your care team to work together efficiently and effectively to deliver patient-centered care.
+Learn how you can use the Healthcare Operations Core application to enable your care team to work together efficiently and effectively to deliver patient-centered care.
 
 ## Healthcare Operations Core overview
 
@@ -26,10 +26,10 @@ By integrating with supporting service departments such as IT and Biomed, Health
 
 The following applications are available for use with Healthcare Operations Core:
 
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
+-   Care Team Operations for Healthcare IT
+-   Care Team Operations for Biomed
+-   Care Team Operations for Facilities
+-   Care Team Operations for Environmental Services
 
 ## Healthcare Operations Core users
 
@@ -47,7 +47,7 @@ The following applications are available for use with Healthcare Operations Core
 \[Omitted image "hco-workflow-overview.png"\] Alt text: Healthcare Operations Core workflow.
 
 1.  An administrator configures the Healthcare Operations Core application.
-2.  A care team member detects an operational issue and reports it using the [[care-team-portal-landing|Care Team Portal]].
+2.  A care team member detects an operational issue and reports it using the Care Team Portal.
 3.  A supporting service agent receives the request in the form of a case or an incident and fulfills it using Workspace.
 
 ## Healthcare Operations Core benefits
@@ -55,23 +55,13 @@ The following applications are available for use with Healthcare Operations Core
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Provides a framework to expand operational cases to supporting services departments.|[Healthcare Operations Case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-hco-case.md)|Admin|
-|Gain visibility into operational cases that are related to your care team.|[[hcls-cto-care-team-portal|Care Team Portal]]|Care Team members|
+|Gain visibility into operational cases that are related to your care team.|[Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-care-team-portal.md)|Care Team members|
 
 ## What to explore next
 
 To learn more about configuring and using Healthcare Operations Core, see:
 
 -   [Configuring Healthcare Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-configuring.md)
--   [[hcls-cto-using-portal|Navigate the Care Team Portal]]
+-   [Navigate the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-using-portal.md)
 -   [Healthcare Operations Core Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-reference.md)
 
-## Related
-
-- [[hcls-cto-care-team-portal|Care Team Portal]]
-- [[hcls-cto-using-portal|Navigate the Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[care-team-portal-landing|Care Team Portal]]

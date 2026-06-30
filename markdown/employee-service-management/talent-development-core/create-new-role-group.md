@@ -14,7 +14,7 @@ breadcrumb: [Working with job architecture, Skills Workspace, Exploring Skills F
 
 # Creating a new role group through the Skills Workspace
 
-Add a new role group in the [[skills-intelligence-workspace|Skills Workspace]] to create a category of roles in your organization.
+Add a new role group in the Skills Workspace to create a category of roles in your organization.
 
 ## About this task
 
@@ -119,6 +119,3 @@ The new role group is opened in form view starting with the Skills matrix. You c
 
 [Create related role groups]()
 
-## Related
-
-- [[skills-intelligence-workspace|Skills Workspace]]

@@ -22,7 +22,7 @@ Role required: user\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Select **New**.
 
@@ -107,7 +107,7 @@ Active
 </td><td>
 
 Select this check box to make this user active. Only the administrator sees an inactive user in: -   Lists of users
--   The selection list on [[reference-email-admin|reference]] fields \(magnifying glass icon\)
+-   The selection list on reference fields \(magnifying glass icon\)
 -   The auto-complete list that appears when you type into a reference field
 
 
@@ -177,11 +177,11 @@ Select your preferred language from the list.
 
 </td></tr><tr><td>
 
-[[r_CalendarIntegration|Calendar integration]]
+Calendar integration
 
 </td><td>
 
-Select **Outlook** to have this user receive meeting [[notifications|notifications]] via email directly to the calendar. Otherwise, select **None**.
+Select **Outlook** to have this user receive meeting notifications via email directly to the calendar. Otherwise, select **None**.
 
 </td></tr><tr><td>
 
@@ -265,9 +265,3 @@ Attach a photo of the user, if appropriate.
 
 **Parent Topic:**[Creating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-users.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]
-- [[reference-email-admin|Reference]]
-- [[r_CalendarIntegration|Calendar integration]]
-- [[notifications|Notifications]]

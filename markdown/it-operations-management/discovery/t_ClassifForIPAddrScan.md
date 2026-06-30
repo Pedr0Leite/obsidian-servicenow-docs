@@ -14,7 +14,7 @@ breadcrumb: [Classification for IP address discovery, Discovery classifiers, Con
 
 # Modify classifiers for IP address discovery
 
-When you run an IP address type of [[r-discovery|discovery]], [[r_PortProbes|port probes]] scan devices without the use of credentials, and then Discovery can determine which classifiers to use. You can add port probes and additional classifiers for [[r_DataCollDiscoIPAddress|IP address discovery]].
+When you run an IP address type of discovery, port probes scan devices without the use of credentials, and then Discovery can determine which classifiers to use. You can add port probes and additional classifiers for IP address discovery.
 
 ## Before you begin
 
@@ -70,8 +70,3 @@ To use IP address classification, follow these steps:
 
 Run a IP address discovery through the [Discovery Schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to search for devices.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]
-- [[r_DataCollDiscoIPAddress|IP address discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure File Explorer Component, Configure, Major Security Incide
 
 # Configure Folder and File Action Settings
 
-Configure the folder and file actions you would like to be enabled from the File Explorer component on the [[msim-workspace|Major Security Incident Management workspace]], using the Folder and File Action Settings setup page. As an MSI Administrator, you can control the individual Folder and File Actions displayed on the File Explorer Component.
+Configure the folder and file actions you would like to be enabled from the File Explorer component on the Major Security Incident Management workspace, using the Folder and File Action Settings setup page. As an MSI Administrator, you can control the individual Folder and File Actions displayed on the File Explorer Component.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ Locate File
 
 </td><td>
 
-Shows folder [[location|location]] when using the **Recents** view of the File Explorer.
+Shows folder location when using the **Recents** view of the File Explorer.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Role required: sn\_msi.workspace\_admin
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **File Explorer** &gt; **Folder and File Action Settings**.
+1.  Navigate to **Major Security Incident Management** &gt; **File Explorer** &gt; **Folder and File Action Settings**.
 
 2.  Select the desired record to enable or disable the folder or file action respectively.
 
@@ -129,8 +129,3 @@ Role required: sn\_msi.workspace\_admin
 
 **Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/file-explorer.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[location|Location]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

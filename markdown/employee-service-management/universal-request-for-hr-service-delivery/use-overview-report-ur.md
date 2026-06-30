@@ -16,7 +16,7 @@ breadcrumb: [Reporting solutions for Universal Request, Universal Request, Emplo
 
 View and analyze the general statistics of the universal requests for routing agents, such as the number of open requests, breached, unassigned, and requests at risk. You can also view the weekly opening and closing universal requests along with the number of department tasks that are part of each UR.
 
-To view the Universal Request Overview dashboard, navigate to **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Overview**. You can view the dashboard in the Next Experience UI Framework.
+To view the Universal Request Overview dashboard, navigate to **Universal Request** &gt; **Overview**. You can view the dashboard in the Next Experience UI Framework.
 
 ## Overview of universal requests
 
@@ -57,6 +57,3 @@ The following roles can view the Universal Request overview dashboard:
 
 **Parent Topic:**[Reporting solutions for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/reporting-soln-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -37,7 +37,7 @@ Regression solutions enable you to predict a point estimate and prediction inter
         **Note:** Ensure you review and understand the documentation for creating the solution definition.
 
     2.  Click **Take me there** to get started with the solution definition.
-    Machine [[exploring-learning-exp|Learning]] Solutions landing page appears.
+    Machine Learning Solutions landing page appears.
 
     \[Omitted image "piwb-hr-ml-list.png"\] Alt text: List of ML usecases for HR PIWB
 
@@ -184,7 +184,7 @@ On the Test Solutions tab of your solution, you can test the prediction output f
 
 After you run the test, the prediction output statistics appear. The Point Estimate on the screen is a single value at one point in time. When the configuration is complete, the employees and agents see the estimated time to resolve at the request sections.
 
-You can verify the integration status from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
+You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
 -   **[Estimated time to resolve HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/train-model-ettr.md)**  
 Determine the Estimated Time to Resolve a Case \(ETTR\) for a case by analyzing similar closed cases in the past for better visibility and transparency.
@@ -200,7 +200,3 @@ View the examples of ETTR views across the journey of a case which indicates the
 
 [Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

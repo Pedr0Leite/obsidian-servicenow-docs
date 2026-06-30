@@ -14,7 +14,7 @@ breadcrumb: [Search Suggestions reference, Search Suggestions, Search administra
 
 # Installed with Search Suggestions
 
-Several types of components are installed with activation of the [[search-suggestions-overview|Search Suggestions]] plugin, including tables, user roles, and [[c_ScheduledJobs|scheduled jobs]].
+Several types of components are installed with activation of the Search Suggestions plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -80,7 +80,7 @@ Search Event \[sys\_search\_event\]
 
 </td><td>
 
-Search strings and details about their associated [[hs-results|results]], including the search user, application, UI source, session, and language, and any user-specified click rank and refinements.
+Search strings and details about their associated results, including the search user, application, UI source, session, and language, and any user-specified click rank and refinements.
 
 </td></tr><tr><td>
 
@@ -101,8 +101,3 @@ auto-complete suggestions and search suggestions generated from user searches by
 </td></tr></tbody>
 </table>To learn about individual columns on these tables, see [Search Suggestions tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/understanding-search-suggestion-tables.md).
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[hs-results|Results]]

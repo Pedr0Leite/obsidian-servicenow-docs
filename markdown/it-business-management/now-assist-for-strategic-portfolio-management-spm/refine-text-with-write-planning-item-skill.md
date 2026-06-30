@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)
 
-Improve record quality by enabling AI-assisted text refinement in the text fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, [[t_CreateAProjectTask|Project tasks]], Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story [[form-field-information-for-dw|forms]].
+Improve record quality by enabling AI-assisted text refinement in the text fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, Project tasks, Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story forms.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Use the refine records skill and Now Assist Context Menu \(NACM\) to simplify re
 
 Enable portfolio, project, product, demand managers and agile team members to refine record content efficiently using the Elaborate and Shorten options and create records with sufficient information. The refine records skill helps in improving clarity and completeness of your records and reduces the rework due to missing or unclear information.
 
-The refine records skill and Now Assist Context Menu \(NACM\) is available in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace, [[c_DemandWorkbench|Demand Workbench]], [[agile-landing-page|Agile Development 2.0]] and [[project-workspace-landing-page|Project Workspace]].
+The refine records skill and Now Assist Context Menu \(NACM\) is available in Strategic Planning Workspace, Portfolio Planning Workspace, Demand Workbench, Agile Development 2.0 and Project Workspace.
 
 This task is explained using Strategic Planning Workspace as the example.
 
@@ -115,12 +115,3 @@ Select the copy to clipboard icon \(\[Omitted image "icon-copy-spm.png"\] Alt te
 
 [Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/skill-inputs-for-now-assist-for-spm.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[form-field-information-for-dw|Forms]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_DemandWorkbench|Demand workbench]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[project-workspace-landing-page|Project Workspace]]

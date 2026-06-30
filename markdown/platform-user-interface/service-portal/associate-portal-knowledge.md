@@ -22,7 +22,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**.
 
 2.  In the **Knowledge Bases** related list, select **Edit**.
 
@@ -42,6 +42,3 @@ Role required: admin or sp\_admin
 
 [Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

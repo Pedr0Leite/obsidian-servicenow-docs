@@ -19,12 +19,12 @@ An event is a notification from one or more monitoring tools that indicate somet
 Events are processed and alerts are generated based on the following factors:
 
 -   Event collection configuration via a MID Server, script, SNMP trap collector, or email message.
--   An Event rule, alert binding, or [[c_EMEventFieldMapping|event field mapping configuration]] for [[processing-events|processing events]] from various sources.
+-   An Event rule, alert binding, or event field mapping configuration for processing events from various sources.
 
 When a package of events that contains events with a custom \(non-supported\) state is processed, the events with the custom state are not processed.
 
 -   **[Event Management Connectors domain personalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-separation-connectors-personalization.md)**  
-Create events in different domains for all [[c_EM|Event Management]] connectors using just a single connector instance by personalizing domain separation of Event Management connectors.
+Create events in different domains for all Event Management connectors using just a single connector instance by personalizing domain separation of Event Management connectors.
 -   **[Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)**  
 Event Management provides many connectors to pull or push events from external devices. Connectors are available from the ServiceNow store as well as from third parties. You can also create custom connectors.
 
@@ -57,8 +57,3 @@ The MID Server facilitates communication and movement of data between external a
 
 A standard event form must be used by all events, regardless of how they arrive at the ServiceNow AI Platform instance. For more information, see [Event field format for event collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMIntegrateRequirementEvent.md).
 
-## Related
-
-- [[c_EMEventFieldMapping|Event field mapping configuration]]
-- [[processing-events|Processing Events]]
-- [[c_EM|Event Management]]

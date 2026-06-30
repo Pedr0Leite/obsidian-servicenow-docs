@@ -12,7 +12,7 @@ breadcrumb: [Explore, AI Desktop Actions, Enable AI experiences]
 
 # Defined desktop actions for desktop and web-based tasks
 
-Automate desktop and web-based tasks that involve fixed steps using [[agentic-desktop-landing-page|AI Desktop Actions]].
+Automate desktop and web-based tasks that involve fixed steps using AI Desktop Actions.
 
 AI Desktop Actions is a client application that is installed on the Windows operating system. The app offers two workspaces, the Design workspace, where you create and configure desktop automations, and the Execution workspace, where those automations run. Design workspace enables you to automate multi-step processes by recording with AIor manually capturing steps. Execution workspace enables AI agents to execute desktop actions in an isolated desktop session.
 
@@ -23,19 +23,19 @@ Defined desktop actions are categorized into two categories.
 
 ## Key interfaces related to AI Desktop Actions
 
--   **[[agentic-desktop-overview|Design workspace]]**
+-   **[Design workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md)**
 
     Create, manage, and test desktop actions that define how automations interact with desktop and web applications. You can create desktop actions by recording with AI or manually capturing steps.
 
--   **[[agentic-desktop-excution-workspace|Execution workspace]]**
+-   **[Execution workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-excution-workspace.md)**
 
     Automatically runs desktop actions in an isolated desktop session during testing or execution. You don't open this workspace directly.
 
--   **[[ai-agent-studio|AI Agent Studio]]**
+-   **[AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)**
 
     Create, manage, and test AI agents that run desktop actions.
 
--   **[[now-assist-panel-overview|Now Assist panel]]**
+-   **[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)**
 
     Trigger desktop actions from within ServiceNow.
 
@@ -93,8 +93,8 @@ This workflow shows how AI Desktop Actions works end to end from designing deskt
 
 **Important:** Access to the Design workspace and Execution workspace depends on the user’s role.
 
--   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the [[now-assist-center-home-page|Home page]] and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
--   When users with the [[now-assist-center-now-assist-panel|Now Assist panel]] user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
+-   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the Home page and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
+-   When users with the Now Assist panel user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
 
 You don’t open the Execution workspace directly. It launches automatically when you test or run a desktop action.
 
@@ -112,7 +112,7 @@ You don’t open the Execution workspace directly. It launches automatically whe
 -   Step in and out of the automation where your inputs are required.
 -   Check the outcome of the execution in the Now Assist panel.
 
-For more information, see [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]] and [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]].
+For more information, see [Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md) and [Creating AI agents for AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-agents-ad.md).
 
 ## AI Desktop Actions capabilities
 
@@ -144,26 +144,11 @@ For more information, see [[desktop-actions-designer-workspace-ad|Defined path d
 **Related topics**  
 
 
-[[configure-agentic-desktop|Configure AI Desktop Actions]]
+[Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md)
 
-[[examples-of-agentic-desktop-automation|Examples of creating desktop actions]]
+[Examples of creating desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/examples-of-agentic-desktop-automation.md)
 
-[[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
+[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-[[agentic-desktop-reference|AI Desktop Actions reference]]
+[AI Desktop Actions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 
-## Related
-
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[agentic-desktop-excution-workspace|AI Desktop Actions Execution workspace]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
-- [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]]
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[examples-of-agentic-desktop-automation|Examples of creating desktop actions]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[agentic-desktop-reference|AI Desktop Actions reference]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

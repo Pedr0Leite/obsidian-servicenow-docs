@@ -14,16 +14,12 @@ breadcrumb: [HR Service Delivery Advanced Integration with Workday, Integration 
 
 # Reference
 
-Reference topics provide additional information about the [[advanced-wd|HR Service Delivery Advanced Integration with Workday]], including lists and forms.
+Reference topics provide additional information about the HR Service Delivery Advanced Integration with Workday, including lists and forms.
 
 -   **[Components installed with HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-awd.md)**  
 Several types of components are installed with activation of the HR Service Delivery Advanced Integration with Workday, including tables, user roles, and scheduled jobs.
 -   **[Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/awd-agent-mapping.md)**  
-View the [[awd-agent-mapping|subflow-agent mapping for HR Service Delivery Advanced Integration with Workday]].
+View the subflow-agent mapping for HR Service Delivery Advanced Integration with Workday.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[advanced-wd|HR Service Delivery Advanced Integration with Workday]]
-- [[awd-agent-mapping|Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday]]

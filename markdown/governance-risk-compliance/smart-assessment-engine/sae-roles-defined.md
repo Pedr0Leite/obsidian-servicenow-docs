@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Smart Assessment Engine, Reference, Smart
 
 # Roles installed in Smart Assessment Engine
 
-Roles determine the permissions and access in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Roles determine the permissions and access in the Smart Assessment Engine application.
 
 ## SAE roles
 
@@ -60,7 +60,7 @@ Administrator for the SAE application.
 
 -   Create, view, update, or delete an assessment template.
 -   View, cancel, or reassign assessments.
--   Migrate the existing metric types to the [[airc-assessment-templates|assessment templates]].
+-   Migrate the existing metric types to the assessment templates.
 
 </td></tr><tr><td>
 
@@ -131,8 +131,3 @@ Automation creator \[sn\_smart\_imp.auto.automation\_creator\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

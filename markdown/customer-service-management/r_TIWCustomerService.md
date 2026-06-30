@@ -12,7 +12,7 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Tables installed with Customer Service Management
 
-Tables are added to your instance with the activation of the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Tables are added to your instance with the activation of the Customer Service Management \(CSM\) application.
 
 ## Tables added with the activation of the Customer Service Base Entities plugin
 
@@ -157,7 +157,7 @@ Account Relationship Type\[sn\_customerservice\_account\_relationship\_type\]
 
 </td><td>
 
-Stores the relationship types that are created for the [[c_AccountRelationships|bi-directional account relationships]].
+Stores the relationship types that are created for the bi-directional account relationships.
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Case Entitlement\[sn\_customerservice\_case\_entitlement\]
 
 </td><td>
 
-Stores the entitlements associated with case records.Associated entitlements are available in the Entitlements related list on the case record. The [[r_PropInstallWcustServ|sn\_customerservice.advanced\_entitlements]] system property controls the display of this related list.
+Stores the entitlements associated with case records.Associated entitlements are available in the Entitlements related list on the case record. The [sn\_customerservice.advanced\_entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md) system property controls the display of this related list.
 
 </td></tr><tr><td>
 
@@ -320,11 +320,5 @@ Responsibility Access Configuration\[sn\_customerservice\_responsibility\_access
 Stores the metadata of the responsibility access configuration, which specifies the level of access and the entities that can be accessed by a particular responsibility.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
-## Related
-
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_AccountRelationships|Bi-directional account relationships]]

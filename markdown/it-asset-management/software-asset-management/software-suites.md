@@ -36,7 +36,7 @@ Suite information such as **Suite Components** and **Suite Parents** are found a
 
 ## Predefined suites
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] content library contains predefined suites to simplify your user experience. If suite content exists for a product, the suite information automatically populates the **Suite Components** tab in the Software Model from. Updates to the suite content are downloaded and existing suite definitions are updated via scheduled jobs.
+The Software Asset Management content library contains predefined suites to simplify your user experience. If suite content exists for a product, the suite information automatically populates the **Suite Components** tab in the Software Model from. Updates to the suite content are downloaded and existing suite definitions are updated via scheduled jobs.
 
 ## Allocations
 
@@ -48,7 +48,7 @@ An organization has both Microsoft 365 E5 \(suite\) entitlements as well as Wind
 
 ## Discovery maps
 
-Discovery Maps \(DMAPs\) are variations of the software as predefined in the SAMP content library. Although a software model can be defined manually by setting the Publisher, Product, Version, Edition, the best approach is using DMAPs whenever possible. The DMAPs associate the relevant content with the Software Model automatically like the suite relationships, downgrade [[c_Models|models]], lifecycle, and next version.
+Discovery Maps \(DMAPs\) are variations of the software as predefined in the SAMP content library. Although a software model can be defined manually by setting the Publisher, Product, Version, Edition, the best approach is using DMAPs whenever possible. The DMAPs associate the relevant content with the Software Model automatically like the suite relationships, downgrade models, lifecycle, and next version.
 
 ## Hybrid and subscription software suites
 
@@ -67,7 +67,3 @@ Based on the system property Use component licenses to optimize compliance when 
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]

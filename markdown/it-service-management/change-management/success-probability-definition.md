@@ -16,7 +16,7 @@ breadcrumb: [Reference, Change Management, IT Service Management]
 
 Success Probability definition is a configuration that defines the probability and the matching conditions of a change request.
 
-By default, the success probability definition is defined for [[change-success-score|Change Success Score]], Change Model Success, and Calculated.
+By default, the success probability definition is defined for Change Success Score, Change Model Success, and Calculated.
 
 The order field determines the execution order of the definitions, the order with least value is given higher precedence.
 
@@ -40,6 +40,3 @@ Success probability plugin supports domain separation. The **sn\_chg\_probabilit
 
 **Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

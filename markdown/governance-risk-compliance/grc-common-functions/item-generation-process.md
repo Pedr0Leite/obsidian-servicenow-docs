@@ -18,11 +18,11 @@ The ServiceNow® GRC suite of applications can automatically generate controls a
 
 ## Overview of the item generation process
 
-By using the [[r_WhatIsGRC|Governance, Risk, and Compliance]] application, you can use the item generation process to generate controls and risks for your organization.
+By using the Governance, Risk, and Compliance application, you can use the item generation process to generate controls and risks for your organization.
 
 A control is the actual control activity that an organization performs. For example, a control can be related to authoritative source content \(legal articles, regulations, or public records\), policies, and risks. A control is automatically generated when you associate a policy with an entity type \(grouping of the entities that match a set of filter conditions\) or an entity type with a control objective. For more information on controls, see [Manage controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/c_GRCControls.md).
 
-A risk is any threat or vulnerability that could adversely affect an organization’s business objectives. For example, a risk can be related to any item, policy, control, or remediation task. A risk is automatically generated when you make associations between risk frameworks or risk statements and [[entity-type-in-risk-ws|entity types]].
+A risk is any threat or vulnerability that could adversely affect an organization’s business objectives. For example, a risk can be related to any item, policy, control, or remediation task. A risk is automatically generated when you make associations between risk frameworks or risk statements and entity types.
 
 **Note:** Risk statements are general statements about potential risks or threats that could occur in an organization. A risk framework consists of a risk assessment, response, and accountability for the risk and mitigation activities around it.
 
@@ -50,7 +50,7 @@ The new item generation process provides the following key benefits:
 
 The following GRC applications are used in the item generation process:
 
--   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   GRC: Policy and Compliance Management
 -   GRC: Risk Management
 -   GRC: Profiles
 
@@ -121,8 +121,3 @@ Operational changes are made in item generation mainly because item generation e
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Resume an entitlement
 
-Resume an entitlement by creating an order on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By resuming an entitlement, you are restarting the services and the characteristics specified in that entitlement.
+Resume an entitlement by creating an order on the CSM Configurable Workspace. By resuming an entitlement, you are restarting the services and the characteristics specified in that entitlement.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 The entitlement is back in Active or Draft state, based on the start date of the entitlement.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

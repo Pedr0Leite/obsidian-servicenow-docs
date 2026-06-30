@@ -16,7 +16,7 @@ breadcrumb: [Reference, Health and Safety Environmental Management, Health and S
 
 Chemical managers can use the regulatory list regulation form to create a regulation for the chemical substance manually.
 
-If you have the integration with [[hs-3e-regulatory-intelligence|3E regulatory intelligence]], the regulatory list is retrieved with these fields automatically populated. For more information, see [Sync regulatory list regulations for a chemical substance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-sync-regulatory-list-chemical-substance.md).
+If you have the integration with 3E regulatory intelligence, the regulatory list is retrieved with these fields automatically populated. For more information, see [Sync regulatory list regulations for a chemical substance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-sync-regulatory-list-chemical-substance.md).
 
 |Field|Description|
 |-----|-----------|
@@ -32,6 +32,3 @@ If you have the integration with [[hs-3e-regulatory-intelligence|3E regulatory i
 
 **Parent Topic:**[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)
 
-## Related
-
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]

@@ -22,7 +22,7 @@ Turn on the Customer summarization skill in Now Assist for CSM and configure use
 Before turning on the Customer summarization skill, verify that the following prerequisites are met:
 
 -   You have the admin role.
--   The [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] plugin is activated in your instance.
+-   The Now Assist for Customer Service Management \(CSM\) plugin is activated in your instance.
 -   A valid Now Assist for CSM license is applied to your instance.
 
 Role required: admin
@@ -45,7 +45,7 @@ When turning on the Customer summarization skill in CSM, you can specify who has
 
 5.  Configure user access in the **Add user access** section.
 
-    This section specifies the individuals or groups that can use the skill. ACLs \(access control [[migration-lists|lists]]\) identify the users permitted to access the skill.
+    This section specifies the individuals or groups that can use the skill. ACLs \(access control lists\) identify the users permitted to access the skill.
 
     1.  Review the **Decision type** column.
 
@@ -87,7 +87,3 @@ The Customer summarization skill is turned on. Agents can use the skill in the *
 -   Notify Now Assist for CSM agents that the feature is available.
 -   To customize the skill, go to Now Assist Skill Kit and open the skill and create custom prompts. For more info, see [Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-prompt-template.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[migration-lists|Lists]]

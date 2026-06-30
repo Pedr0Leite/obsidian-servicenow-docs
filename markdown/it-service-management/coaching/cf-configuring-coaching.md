@@ -14,7 +14,7 @@ breadcrumb: [Coaching, IT Service Management]
 
 # Configuring Coaching
 
-Get the [[cf-coaching-landing|Coaching]] application, and set up coaching opportunities, surveys, and surveys.
+Get the Coaching application, and set up coaching opportunities, surveys, and surveys.
 
 -   **[Request Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-request-coaching.md)**  
 The Coaching \(com.sn\_coaching\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
@@ -25,9 +25,5 @@ Define filters and add course items for automated virtual coaching. When a coach
 -   **[Setting up Coaching and surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-setting-up-coaching.md)**  
 To take full advantage of Coaching, configure the Coaching application and set up surveys.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[cf-coaching-landing|Coaching]]

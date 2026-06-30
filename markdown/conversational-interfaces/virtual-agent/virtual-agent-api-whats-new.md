@@ -14,13 +14,13 @@ breadcrumb: [Explore, Virtual Agent API, Build and deploy, Virtual Agent, Conver
 
 # Supported features in Virtual Agent API
 
-You can use the [[virtual-agent-api-landing-page|Virtual Agent API]] to integrate many of the same features that are available in [[virtual-agent-landing-page|Virtual Agent]] and [[ci-use-agent-chat|Agent Chat]] into your chat environment. Feature support varies depending on your ServiceNow release and the store app version number of the Virtual Agent API.
+You can use the Virtual Agent API to integrate many of the same features that are available in Virtual Agent and Agent Chat into your chat environment. Feature support varies depending on your ServiceNow release and the store app version number of the Virtual Agent API.
 
 For information about the request and response templates for Virtual Agent API, as well as examples of common use cases, see Virtual Agent Bot Integration API.
 
 ## Version 4.3.0
 
-**Support for [[nava-integrated-chat|premium chat]] in Virtual Agent API**
+**Support for premium chat in Virtual Agent API**
 
 ## Version 4.1.1
 
@@ -292,7 +292,7 @@ For information about the request and response templates for Virtual Agent API, 
         ```
 
 -   Enable streaming in Virtual Agent API by the following configuration:
-    1.  Ensure that **Allow response streaming** is selected in [[now-assist-in-va-landing|Now Assist in Virtual Agent]]. To learn more, see [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
+    1.  Ensure that **Allow response streaming** is selected in Now Assist in Virtual Agent. To learn more, see [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
     2.  Navigate to **All** and enter `sys_now_assist_channel_config.list` in the navigation filter.
     3.  In the Now Assist Channel configuration \[now\_assist\_channel\_config\] table, set the **Streaming Ready** field value to `true` for Bot to Bot device.
 
@@ -328,7 +328,7 @@ For information about the request and response templates for Virtual Agent API, 
 
 **Support for configuring multiple provider applications**
 
--   Virtual Agent API enables configuration of multiple provider applications to support use cases where there are multiple primary bots [[use-virtual-agent-api|using Virtual Agent API]] and you need to distinguish between them.
+-   Virtual Agent API enables configuration of multiple provider applications to support use cases where there are multiple primary bots using Virtual Agent API and you need to distinguish between them.
 -   For more information, see [Configure multiple provider applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-multiple-provider-applications.md).
 
 **Support for transformation of Virtual Agent API request and response**
@@ -583,11 +583,3 @@ Outbound message indicating one of the following:-   A live agent has entered th
 
 **Parent Topic:**[Exploring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/explore-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[nava-integrated-chat|Premium chat]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[use-virtual-agent-api|Using Virtual Agent API]]

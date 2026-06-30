@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Create a quote PDF document
 
-In [[quote-management|Quote Management]], sales agents can create a PDF of a quote that can be sent to customers for review and signatures.
+In Quote Management, sales agents can create a PDF of a quote that can be sent to customers for review and signatures.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sales\_agent
 
 3.  Select the quote that you’re working with.
 
-4.  On the **Details** tab, go to **Quote Document Details** and fill in the [[fields|fields]].
+4.  On the **Details** tab, go to **Quote Document Details** and fill in the fields.
 
 <table id="choicetable_sbm_qvt_pdc"><tbody><tr><td id="d97907e102">
 
@@ -36,7 +36,7 @@ Role required: sales\_agent
 
 </td><td>
 
-A document template is required to [[create-new-quote|create a quote]] document PDF. A standardized template is included with the base system. Select the template that you want. See [[quote-mgt-setup-pdf-document-templates|Set up PDF document templates]] for more information about how to create customized templates.
+A document template is required to create a quote document PDF. A standardized template is included with the base system. Select the template that you want. See [Set up PDF document templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgt-setup-pdf-document-templates.md) for more information about how to create customized templates.
 
 </td></tr><tr><td id="d97907e121">
 
@@ -44,7 +44,7 @@ A document template is required to [[create-new-quote|create a quote]] document 
 
 </td><td>
 
-Option that enables you to have the quote document signed by someone outside the organization. See [[quote-mgt-configure-pdf-document-signers|Set up PDF document signers]] for more details on how to set up external signers. When you select **Send for signature**, the external signer's email address is used to send an email through Docusign for review and electronic signature.
+Option that enables you to have the quote document signed by someone outside the organization. See [Set up PDF document signers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgt-configure-pdf-document-signers.md) for more details on how to set up external signers. When you select **Send for signature**, the external signer's email address is used to send an email through Docusign for review and electronic signature.
 
 </td></tr><tr><td id="d97907e148">
 
@@ -79,13 +79,5 @@ See [Set up PDF document signers](https://raw.githubusercontent.com/ServiceNow/S
 9.  To view the generated PDF, select the PDF in the attachments window.\[Omitted image "quote-attachment-window-pdf.png"\] Alt text:
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgt-setup-pdf-document-templates|Set up PDF document templates]]
-- [[quote-mgt-configure-pdf-document-signers|Set up PDF document signers]]
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]
-- [[fields|Fields]]
-- [[create-new-quote|Create a quote]]

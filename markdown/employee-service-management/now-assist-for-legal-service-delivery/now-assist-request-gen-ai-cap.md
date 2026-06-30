@@ -33,7 +33,7 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 1.  Log in to an instance where the Now Assist for LSD application is installed.
 
-2.  Navigate to **Workspaces** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+2.  Navigate to **Workspaces** &gt; **Legal Counsel Center**.
 
 3.  Request the generative AI capabilities in LSD for summarization by selecting the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now assist icon..
 
@@ -48,6 +48,3 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 **Parent Topic:**[Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-summarize-case.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

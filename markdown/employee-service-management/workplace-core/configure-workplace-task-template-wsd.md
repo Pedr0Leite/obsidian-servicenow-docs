@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Configure a workplace task template
 
-Configure templates in [[workplace-safety-mgmt-hr|Workplace Core]] that can be used to create workplace tasks. You can either modify predefined workplace task templates or create your own templates and associate them with workplace tasks.
+Configure templates in Workplace Core that can be used to create workplace tasks. You can either modify predefined workplace task templates or create your own templates and associate them with workplace tasks.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Templates simplify the process of creating tasks in Workplace Core by populating
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

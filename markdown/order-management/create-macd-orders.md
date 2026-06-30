@@ -28,7 +28,7 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_order\
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
 <table id="table_x1q_jcv_4gc"><thead><tr><th>
 
@@ -80,8 +80,8 @@ Order action
 
 The available options include:-   Change - For changing product specifications or service location.
 -   Disconnect - For disconnecting an active product or service.
--   [[Suspend|Suspend]] - For suspending an active product or service.
--   [[Resume|Resume]] - For resuming a disconnected or suspended product or service.
+-   Suspend - For suspending an active product or service.
+-   Resume - For resuming a disconnected or suspended product or service.
 
 
 </td></tr><tr><td>
@@ -103,7 +103,7 @@ Channel partner
 
 8.  For changing order quantity, specifications, or characteristics for a product offering, perform the following steps.
 
-    1.  On the [[Modify|Modify]] order page, review the product configurations and select **Modify**.
+    1.  On the Modify order page, review the product configurations and select **Modify**.
 
     2.  Using the product configurator, select the new product characteristics or specifications or revise quantity.
 
@@ -123,7 +123,7 @@ Channel partner
 
     2.  Enter suspension start and end dates for suspend requests and select **Suspend**.
 
-        If you do not specify a date, the suspension is effective immediately. For more information, see [[order-mgt-suspend-resume-action|Suspend and resume products and services]].
+        If you do not specify a date, the suspension is effective immediately. For more information, see [Suspend and resume products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-suspend-resume-action.md).
 
 10. Review the order lines by selecting the **Order Line Items** tab.
 
@@ -134,18 +134,10 @@ Channel partner
     The order state changes to New and is available for approval.
 
 
-**Parent Topic:**[[managing-orders|Managing post-fulfillment order changes]]
+**Parent Topic:**[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
 **Related topics**  
 
 
 [Suspend and resume products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-suspend-resume-action.md)
 
-## Related
-
-- [[order-mgt-suspend-resume-action|Suspend and resume products and services]]
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[fields|Fields]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[Modify|Modify]]

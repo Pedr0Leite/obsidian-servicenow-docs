@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # Summarize a Sidebar discussion by using Now Assist for HRSD
 
-Generate a summary of the Sidebar discussions between agents, requesters, and subject matter experts by using the chat summarization skill in the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application.
+Generate a summary of the Sidebar discussions between agents, requesters, and subject matter experts by using the chat summarization skill in the Now Assist for HR Service Delivery \(HRSD\) application.
 
 ## Before you begin
 
@@ -88,7 +88,7 @@ If you'd like to provide feedback, select either the helpful icon \(\[Omitted im
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Generate a chat reply recommendation by using Now Assist for HRSD]()
 
@@ -118,7 +118,3 @@ If you'd like to provide feedback, select either the helpful icon \(\[Omitted im
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[hr-service-delivery|HR Service Delivery]]

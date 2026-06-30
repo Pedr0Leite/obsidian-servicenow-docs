@@ -44,10 +44,7 @@ The AI asset lifecycle consists of the following stages:
 
 For information on Completing AI lifecycle stages, see [Complete AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/complete-ai-asset-lifecycle.md)
 
-For information on creating offboarding requests for [[ai-assets|AI assets]], see [Create offboarding requests for AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-asset-offboarding-request.md)
+For information on creating offboarding requests for AI assets, see [Create offboarding requests for AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-asset-offboarding-request.md)
 
 For information on view AI assets by lifecycle stage, see [View AI assets by life-cycle stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-assets-lifecycle-stage.md)
 
-## Related
-
-- [[ai-assets|AI assets]]

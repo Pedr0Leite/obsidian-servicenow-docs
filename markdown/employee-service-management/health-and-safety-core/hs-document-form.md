@@ -40,7 +40,7 @@ Version state
 
 </td><td>
 
-State of the document version.Only a version in the Published state is available for use in [[health-safety-overview|Health and Safety]] records.
+State of the document version.Only a version in the Published state is available for use in Health and Safety records.
 
 </td></tr><tr><td>
 
@@ -112,6 +112,3 @@ Information related to the document version.
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

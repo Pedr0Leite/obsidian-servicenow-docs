@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Model 5G network function
 
-You can model your 5G network and manage your any type of network functions by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By using the model, you can create, review, update, and delete your networks.
+You can model your 5G network and manage your any type of network functions by using the Telecommunications Network Inventory application. By using the model, you can create, review, update, and delete your networks.
 
 ## 5G network model
 
@@ -26,7 +26,7 @@ You must create a business application, an application service, and network inte
 -   Application Service: The application service stores the instance of the corresponding network function, which is associated with the business applications to indicate its type, such as DU or CU-CP and so on. Each instance of a function has a record in the application service. You can create a relationship with a business application and network interface. To learn more, see [Define network service instance details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_application_services.md).
 -   Network Interface: The network interface stores all the logical IP interfaces that are assigned to the managed network. The logical interfaces represent a peer-to-peer relationship. If there’s a connection between a distributed unit \(DU\) and centralized unit \(CU\) control plane or user plane \(UP\) functions, a logical connection is created between the logical interfaces. By using the relationship editor, you can create a relationship with an application service. To learn more, see [Define the network interface details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-interfaces.md) and [CI relationship editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RelationshipEditor.md) to create or edit a relationship.
 
-\*The 3GPPTM TS28.541 V18.2.2 inspired attributes are provided as the [[pack_tables|pack tables]]. To learn more, see [Pack tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/pack_tables.md). To learn more about [[telecommunication-network-inventory-pack|attribute packs]], see [Attribute packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunication-network-inventory-pack.md).
+\*The 3GPPTM TS28.541 V18.2.2 inspired attributes are provided as the pack tables. To learn more, see [Pack tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/pack_tables.md). To learn more about attribute packs, see [Attribute packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunication-network-inventory-pack.md).
 
 \*3GPP is a trademark of ETSI.
 
@@ -35,8 +35,3 @@ You must create a business application, an application service, and network inte
 
 [Manage your network functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/services.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[pack_tables|Pack tables]]
-- [[telecommunication-network-inventory-pack|Attribute packs]]

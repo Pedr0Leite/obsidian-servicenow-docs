@@ -16,7 +16,7 @@ breadcrumb: [Automated certificate renewal, Certificate Inventory and Management
 
 Configure your MID Server and system properties to automatically renew certificates before they expire.
 
-To automatically renew your certificates before they expire, use the [[automated-certificate-renewal|automated certificate renewal]] workflow or the [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]].
+To automatically renew your certificates before they expire, use the automated certificate renewal workflow or the Now Assist certificate renewal AI agent.
 
 In both cases, you must first configure your system for automatic renewal.
 
@@ -26,7 +26,3 @@ Configuring for automated certificate renewal involves the following steps:
 2.  [Add the required applications and capabilities to your MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-req-apps-capabilities-to-mid-server.md)
 3.  [Configure System Properties for automatic certificate renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-sys-props-for-auto-cert-renewal.md). This step is optional if you use the Now Assist certificate renewal AI agent.
 
-## Related
-
-- [[automated-certificate-renewal|Automated certificate renewal]]
-- [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]]

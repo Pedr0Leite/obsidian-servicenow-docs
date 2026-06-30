@@ -14,7 +14,7 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 
 # Using Shopping Hub Mobile
 
-The ServiceNow [[shoppinghub-mobile|Shopping Hub Mobile]] app enables you to engage with procurement organizations from a mobile device.
+The ServiceNow Shopping Hub Mobile app enables you to engage with procurement organizations from a mobile device.
 
 The Shopping Hub Mobile app provides the following capabilities to shoppers:
 
@@ -23,11 +23,11 @@ The Shopping Hub Mobile app provides the following capabilities to shoppers:
     -   Provide more details on your purchase
     -   Request clarification on a purchase request \(approver task\)
     -   Provide clarification on your purchase
-    -   Compare quotes and select a [[supplier|supplier]]
+    -   Compare quotes and select a supplier
     -   Confirm receipt of your order
-    -   View [[shipment-details|shipment details]] of your order
+    -   View shipment details of your order
     -   Confirm meeting a milestone for your service
-    -   Review [[invoices|invoices]] associated with your purchase
+    -   Review invoices associated with your purchase
 -   View, track, and revise your purchases
 -   [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md)
 -   [Submit quotes from vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/submit-quote.md)
@@ -35,7 +35,7 @@ The Shopping Hub Mobile app provides the following capabilities to shoppers:
 -   **[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)**  
 As a shopper, you can complete actions on to-dos related to your purchases.
 -   **[Display My Purchases on your mobile instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/display-my-purchases-on-mobile.md)**  
-As a [[shopping-hub-overview|Shopping Hub]] Administrator, you can configure your mobile instance to display My Purchases on your landing page. This is a one-time activity.
+As a Shopping Hub Administrator, you can configure your mobile instance to display My Purchases on your landing page. This is a one-time activity.
 -   **[View and revise your purchase from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/view-revise-purchase-mobile.md)**  
 View all the purchases you made from your shopping account, view their status, and revise your purchases from your mobile application.
 
@@ -48,7 +48,7 @@ View all the purchases you made from your shopping account, view their status, a
 
 [Using Procurement Case Management]()
 
-[Working with [[psm-overview|Sourcing and Procurement Operations]] playbooks in the Source-to-Pay Workspace]()
+[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace]()
 
 [Using Spend and Savings Management]()
 
@@ -64,11 +64,3 @@ View all the purchases you made from your shopping account, view their status, a
 
 [My purchases on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-purchases-mobile.md)
 
-## Related
-
-- [[shoppinghub-mobile|Shopping Hub Mobile]]
-- [[supplier|Supplier]]
-- [[shipment-details|Shipment details]]
-- [[invoices|Invoices]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]

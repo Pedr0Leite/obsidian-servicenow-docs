@@ -14,7 +14,7 @@ breadcrumb: [Employee Readiness Surveys, Safe Workplace, Health and Safety, Empl
 
 # Configure Employee Readiness Surveys
 
-Review the default Employee workplace readiness survey installed with the [[employee-readiness-surveys|Employee Readiness Surveys]] app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
+Review the default Employee workplace readiness survey installed with the Employee Readiness Surveys app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ Select the Introduction &amp; End Notes section tab and update the text.
 </td><td>
 
 1.  In the Metric Categories related list, select **Please complete this confidential survey**. Questions appear in the Assessment Metrics related list.
-2.  Select the question to open the Survey [[question-form|Question form]]. Modify and complete your edits. The answers are listed in the Assessment Metric Definitions related list.
+2.  Select the question to open the Survey Question form. Modify and complete your edits. The answers are listed in the Assessment Metric Definitions related list.
 
 
 </td></tr><tr><td id="d213364e171">
@@ -108,7 +108,4 @@ Consider how you want to begin to reopen your workplace, and what you must under
 
     Decide on a naming convention to use for surveys, so that a user with the sn\_imt\_checkin.checkin\_admin role knows which one to select when sending outreach surveys. For example, **Readiness survey India** or **Customer service employees return readiness**.
 
-## Related
 
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[question-form|Question form]]

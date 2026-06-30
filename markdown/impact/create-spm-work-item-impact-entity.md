@@ -12,7 +12,7 @@ breadcrumb: [Work items, Using Impact, Impact]
 
 # Manage work items from an initiative in the Impact Store Application
 
-Use the SPM work item record link within the [[impact-landing-page|Impact]] entity to view its details, after Impact entity is successfully converted to an SPM work item.
+Use the SPM work item record link within the Impact entity to view its details, after Impact entity is successfully converted to an SPM work item.
 
 ## Before you begin
 
@@ -84,6 +84,4 @@ Impact entities that can be converted to SPM entities are:
 
     \[Omitted image "impact-free-form-link.png"\] Alt text: SPM work item is linked in Impact entity.
 
-## Related
 
-- [[impact-landing-page|Impact]]

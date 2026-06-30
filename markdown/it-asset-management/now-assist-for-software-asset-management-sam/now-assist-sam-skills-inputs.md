@@ -34,7 +34,7 @@ The following table lists the inputs for the publisher compliance summarization 
 |-----|-----------|
 |Reconciliation results|Compliance status of the software products with regards to the discovery and entitlements.|
 |Software Lifecycle Report \[sam\_sw\_product\_lifecycle\_report\]|Product life-cycle details for all the software products that are installed in your environment.|
-|Dashboards|Dashboards include Discovered inventory, Normalization and content, and [[health-check-dboard|Health check]].|
+|Dashboards|Dashboards include Discovered inventory, Normalization and content, and Health check.|
 
 ## Product compliance summarization skill
 
@@ -178,7 +178,7 @@ Normalization Rate
 
 </td><td>
 
-[[sam-software-discovery|Software Discovery]] [[c_Models|Models]] \[cmdb\_sam\_sw\_discovery\_model\]
+Software Discovery Models \[cmdb\_sam\_sw\_discovery\_model\]
 
 </td></tr><tr><td>
 
@@ -409,7 +409,7 @@ Resolution recommendations are automatically generated after the Error log summa
 
 ## Software normalization skill
 
-The [[sam-normalization|Software normalization]] skill helps you identify standardized publisher and product value from your discovered software data. This skill uses large language model \(LLM\)-driven knowledge to standardize raw, incomplete, or unrecognized publisher and product values submitted during entitlement import.
+The Software normalization skill helps you identify standardized publisher and product value from your discovered software data. This skill uses large language model \(LLM\)-driven knowledge to standardize raw, incomplete, or unrecognized publisher and product values submitted during entitlement import.
 
 The following table lists the trigger for the Software normalization skill.
 
@@ -454,9 +454,3 @@ The following table lists the inputs for the Product match reviewer skill.
 
 **Parent Topic:**[Configuring Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/configure-now-assist-sam.md)
 
-## Related
-
-- [[health-check-dboard|Health check]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[sam-normalization|Software normalization]]

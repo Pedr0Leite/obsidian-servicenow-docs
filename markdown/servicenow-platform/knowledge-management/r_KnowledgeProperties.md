@@ -38,7 +38,7 @@ Number of columns on Knowledge portal pages \(**glide.knowman.columns**\)
 
 </td><td>
 
-Set the number of columns for arranging topics on the knowledge portal.**Note:** This property applies only to [[knowledge-management|Knowledge Management]] v2 pages. This property is not supported on Knowledge Management v3 pages.
+Set the number of columns for arranging topics on the knowledge portal.**Note:** This property applies only to Knowledge Management v2 pages. This property is not supported on Knowledge Management v3 pages.
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Omit empty Knowledge topics and categories \(**glide.knowman.show\_only\_populat
 
 </td><td>
 
-Select the [[check-box|check box]] to display topic sections only if there are articles for the topic. Clear the check box to show all topic sections, even those with no assigned articles.**Note:** This property does not apply to the New category.
+Select the check box to display topic sections only if there are articles for the topic. Clear the check box to show all topic sections, even those with no assigned articles.**Note:** This property does not apply to the New category.
 
 This property applies only to the default knowledge base and the legacy knowledge portal. Knowledge Management v3 articles do not specify a topic. Therefore, this property applies only to Knowledge v2 pages. This property is not supported on Knowledge Management v3 pages.
 
@@ -65,7 +65,7 @@ Show Knowledge section descriptions \(**glide.knowman.show\_descriptions**\)
 </td><td>
 
 Select the check box to display topic descriptions in the knowledge portal. To enter these descriptions:1.  Edit an existing knowledge article.
-2.  Right-click the Topic field [[label|label]] and choose Show Choice List.
+2.  Right-click the Topic field label and choose Show Choice List.
 3.  Open the record for the topic name and enter the description into the Hint field.
 
 Clear the check box to omit section descriptions from the knowledge portal.**Note:** This property applies only to Knowledge Management v2 pages. This property is not supported on Knowledge Management v3 pages.
@@ -269,7 +269,7 @@ Show author in knowledge search results \(**glide.knowman.search.show\_author**\
 
 </td><td>
 
-Select the check box to include the author of each article in knowledge search results.If the [[article-versioning|article versioning]] feature is enabled, articles with a version number less than or equal to 1.0 display **Authored by &lt;name&gt;** and articles with a version number greater than 1.0 display **Revised by &lt;name&gt;**.
+Select the check box to include the author of each article in knowledge search results.If the article versioning feature is enabled, articles with a version number less than or equal to 1.0 display **Authored by &lt;name&gt;** and articles with a version number greater than 1.0 display **Revised by &lt;name&gt;**.
 
 </td></tr><tr><td>
 
@@ -305,7 +305,7 @@ Select the check box to include the number of times each article was viewed in k
 
 </td></tr><tr><td>
 
-How to display attachments in Knowledge Search Results \(**glide.knowman.search.[[attachment|attachment]]**\)
+How to display attachments in Knowledge Search Results \(**glide.knowman.search.attachment**\)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Select the check box to show how relevant each search result is based on the sea
 
 </td></tr><tr><td>
 
-Show number of [[knowledge-blocks|knowledge blocks]] in the knowledge block search results when creating or updating a knowledge article \(**glide.knowman.add\_blocks.search\_results**
+Show number of knowledge blocks in the knowledge block search results when creating or updating a knowledge article \(**glide.knowman.add\_blocks.search\_results**
 
 </td><td>
 
@@ -444,7 +444,7 @@ Specify the maximum number of tasks to list in article view.
 
 </td></tr><tr><td>
 
-Show article rating section, which may optionally include [[yes-no|yes/no]] rating, star rating, and flagging options \(**glide.knowman.show\_rating\_options**\)
+Show article rating section, which may optionally include yes/no rating, star rating, and flagging options \(**glide.knowman.show\_rating\_options**\)
 
 </td><td>
 
@@ -599,7 +599,7 @@ When attaching an article to an incident, copy the content into this field \(**g
 
 </td><td>
 
-When a user searches knowledge from a task form \(such as an incident, problem, or change\) and clicks the **Attach to Task** button for an article, the system copies the article number and content into the field specified in the **Value** column here. This field is generally a journal field such as **Comments** or **[[c_WorkNotes|Work notes]]**.Use dot walking to copy the article content into related records. If a specified field does not exist, that field is ignored.
+When a user searches knowledge from a task form \(such as an incident, problem, or change\) and clicks the **Attach to Task** button for an article, the system copies the article number and content into the field specified in the **Value** column here. This field is generally a journal field such as **Comments** or **Work notes**.Use dot walking to copy the article content into related records. If a specified field does not exist, that field is ignored.
 
  If the property has no value, comments is used.
 
@@ -620,7 +620,7 @@ Knowledge Management logo to display if running out of the ServiceNow frames \(*
 
 </td><td>
 
-Click the [[reference|reference]] lookup tool \[Omitted image "Iconreferencelookup.png"\] Alt text: Lookup icon and choose an image file to be displayed on knowledge pages that are used outside of the ServiceNow application frames. For example, the logo image selected here appears if you create a Content Management System site that includes knowledge pages. You can also enter the **Name** of an image stored in the database to use that image. **Note:** This property applies only to Knowledge v2 pages. This property is not supported on Knowledge v3 pages.
+Click the reference lookup tool \[Omitted image "Iconreferencelookup.png"\] Alt text: Lookup icon and choose an image file to be displayed on knowledge pages that are used outside of the ServiceNow application frames. For example, the logo image selected here appears if you create a Content Management System site that includes knowledge pages. You can also enter the **Name** of an image stored in the database to use that image. **Note:** This property applies only to Knowledge v2 pages. This property is not supported on Knowledge v3 pages.
 
 </td></tr><tr><td>
 
@@ -656,7 +656,7 @@ Enter the sys\_id of the knowledge base to put new knowledge articles created fr
 
 </td></tr><tr><td>
 
-Before displaying the text of the article in search results or the article view, check field-level ACLs on appropriate field: kb\_knowledge.text \([[html|HTML]] article\) or kb\_knowledge.wiki \(wiki text article\) \(**glide.knowman.text.check\_can\_read**\)
+Before displaying the text of the article in search results or the article view, check field-level ACLs on appropriate field: kb\_knowledge.text \(HTML article\) or kb\_knowledge.wiki \(wiki text article\) \(**glide.knowman.text.check\_can\_read**\)
 
 </td><td>
 
@@ -678,7 +678,7 @@ Send notification to approvers and authors in article approval workflow \(**glid
 
 </td><td>
 
-Select this check box to send approval [[email|email]] notifications. By default, the property is enabled.
+Select this check box to send approval email notifications. By default, the property is enabled.
 
 </td></tr><tr><td>
 
@@ -692,7 +692,7 @@ Enter the value as `true` to enable checking out and editing global articles for
 
 </td></tr><tr><td>
 
-When showing a list of articles through the Knowledge portal \(using the kb\_list [[ui-page|UI Page]]\), remove articles the user cannot see before building the list \(**glide.knowman.list.filter**\)
+When showing a list of articles through the Knowledge portal \(using the kb\_list UI Page\), remove articles the user cannot see before building the list \(**glide.knowman.list.filter**\)
 
 </td><td>
 
@@ -788,7 +788,7 @@ Enter the value to change the duration to capture the knowledge usage metrics.- 
 
 </td></tr><tr><td>
 
-[[translate-knowledge-article|Translate a knowledge article from a translation task]] \(**glide.knowman.translation.enable\_translation\_task**\)
+Translate a knowledge article from a translation task \(**glide.knowman.translation.enable\_translation\_task**\)
 
 </td><td>
 
@@ -1118,7 +1118,7 @@ Select the check box to enable actionable feedback task generation for the negat
 </td></tr></tbody>
 </table>## Group ownership properties
 
-The knowledge administrator can set group ownership properties that enable the use of [[enable-ownership-group|ownership groups]] for knowledge articles and decide who can edit and approve a published knowledge article.
+The knowledge administrator can set group ownership properties that enable the use of ownership groups for knowledge articles and decide who can edit and approve a published knowledge article.
 
 <table id="table_mnk_g4c_54"><thead><tr><th>
 
@@ -1162,20 +1162,3 @@ Select the check box to allow ownership group members to approve self-authored a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[article-versioning|Article versioning]]
-- [[attachment|Attachment]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[yes-no|Yes/No]]
-- [[c_WorkNotes|Work notes]]
-- [[reference|Reference]]
-- [[html|HTML]]
-- [[email|Email]]
-- [[ui-page|UI page]]
-- [[translate-knowledge-article|Translate a knowledge article from a translation task]]
-- [[enable-ownership-group|Ownership groups]]

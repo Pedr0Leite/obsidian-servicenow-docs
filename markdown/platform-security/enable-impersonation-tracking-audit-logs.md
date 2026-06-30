@@ -12,7 +12,7 @@ breadcrumb: [Configuring auditing for a table, Auditing]
 
 # Enable impersonation tracking in audit logs
 
-Track [[users|users]] who perform actions through impersonation in audit [[logs|logs]].
+Track users who perform actions through impersonation in audit logs.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Impersonation tracking is enabled. The Sys Audits \[sys\_audit\] table will reco
 
 For information about converting the user ID to the actual user name, see [Map user IDs to user names in audit records](https://support.servicenow.com/kb?sys_kb_id=e77c760797ecba9024a7739c1253af4f&id=kb_article_view).
 
-## Related
-
-- [[users|Users]]
-- [[logs|Logs]]

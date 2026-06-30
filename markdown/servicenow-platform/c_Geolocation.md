@@ -18,18 +18,18 @@ The system locates users from latitude and longitude information provided by the
 
 Geolocation features can be configured by users with the admin role.
 
--   **[[t_ActivateGeolocation|Activate geolocation]]**  
+-   **[Activate geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ActivateGeolocation.md)**  
 An administrator can activate the Geolocation plugin.
--   **[[r_InstalledWithGeolocation|Installed with geolocation]]**  
+-   **[Installed with geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_InstalledWithGeolocation.md)**  
 Several component types are installed with Geolocation.
--   **[[r_GeolocationGoogleKey|Geolocation Google key]]**  
+-   **[Geolocation Google key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_GeolocationGoogleKey.md)**  
 Geolocation functions in the ServiceNow AI Platform® require a Google Maps API for Business license, or a Google Maps Javascript API Key, to enable use of Google Maps.
--   **[[r_GeolocationHistory|Geolocation history]]**  
+-   **[Geolocation history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_GeolocationHistory.md)**  
 The Geolocation History \[geo\_history\] table contains the history of each tracked user's location over time.
--   **[[r_LocationTracking|Location tracking]]**  
-Geolocation adds the **Geolocation tracked** field to the User form. In the default view of a user record, select the **Geolocation tracked** [[check-box|check box]] to enable location tracking for the user.
+-   **[Location tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_LocationTracking.md)**  
+Geolocation adds the **Geolocation tracked** field to the User form. In the default view of a user record, select the **Geolocation tracked** check box to enable location tracking for the user.
 
-**Parent Topic:**[[c_ServiceAdministration|Exploring Service Administration]]
+**Parent Topic:**[Exploring Service Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceAdministration.md)
 
 **Related topics**  
 
@@ -42,12 +42,3 @@ Geolocation adds the **Geolocation tracked** field to the User form. In the defa
 
 [Activate geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ActivateGeolocation.md)
 
-## Related
-
-- [[t_ActivateGeolocation|Activate geolocation]]
-- [[r_InstalledWithGeolocation|Installed with geolocation]]
-- [[r_GeolocationGoogleKey|Geolocation Google key]]
-- [[r_GeolocationHistory|Geolocation history]]
-- [[r_LocationTracking|Location tracking]]
-- [[c_ServiceAdministration|Exploring Service Administration]]
-- [[check-box|Check box]]

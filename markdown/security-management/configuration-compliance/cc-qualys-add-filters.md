@@ -18,7 +18,7 @@ Customize the filtering parameters for your scheduled queries with the Qualys Vu
 
 ## Before you begin
 
-Use cases: As a vulnerability manager or analyst, you might want to filter out data from your queries so that you can review only specific vulnerability details. For example, say you want to view imported [[vulnerabilities|vulnerabilities]] that are filtered by specific IPs or IP ranges. Or, you want to import only machines that are under your scope, for example, only machines within your corporate network that are not external devices.
+Use cases: As a vulnerability manager or analyst, you might want to filter out data from your queries so that you can review only specific vulnerability details. For example, say you want to view imported vulnerabilities that are filtered by specific IPs or IP ranges. Or, you want to import only machines that are under your scope, for example, only machines within your corporate network that are not external devices.
 
 To help you gather this data, you might add Qualys parameters to help you import the specific vulnerability details you need.
 
@@ -68,6 +68,4 @@ Role required: sn\_vul.vulnerability\_admin
     -   **extendedEvidenceRequired** – Fetches extended evidence data. Acceptable values: 0 or 1. This parameter is available when the posture\_api\_version integration instance parameter is set to 5.0.
 7.  Click **Update**.
 
-## Related
 
-- [[vulnerabilities|Vulnerabilities]]

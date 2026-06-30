@@ -22,11 +22,11 @@ Role required: Admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]** &gt; **Approvals**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace** &gt; **Approvals**.
 
 2.  The default list displays all approvals in the Approvals list view.
 
-3.  Select application type such as: Application [[vulnerabilities|vulnerabilities]] \(AVR\), Container vulnerabilities \(CVR\), Infra Vulnerabilities \(VR\), and Misconfigurations \(CC\) to filter approvals by category.
+3.  Select application type such as: Application vulnerabilities \(AVR\), Container vulnerabilities \(CVR\), Infra Vulnerabilities \(VR\), and Misconfigurations \(CC\) to filter approvals by category.
 
 4.  or Select the 3-menu option to group requests by Approval Name, Record reference, Request Type, Number, Risk Rating, Remediation Status, Approval Assignment group, and state.
 
@@ -35,28 +35,20 @@ Role required: Admin
 5.  Select any request to view the form and request details such as:
 
     1.  **State**, **Approval Due Date** and **Approver**.
-    2.  **[[vr-va-ws-overview-tab|Overview tab]]** consists of details such as:
+    2.  **Overview tab** consists of details such as:
         -   Approval Status: Provides an overview of the Change approval \(CA\) request.
         -   Request details: Provides Change approval\(CA\) request details.
         -   Remediation details: Provides remediation details for the Change approval \(CA\) request.
         -   Impact summary: Provides approvers the visibility of the impacted count information such as, Impacted CIs, Total Findings, and Total Vulnerabilities on the Change Approval for a Remediation Task.
-        -   Vulnerability Intelligence: Provides vulnerability intelligence data such as CISA KEV information, Known ransomware [[indicator|indicators]], and EPSS percentile. This tile is visible only when Intelligence and App-Vuln NVD plugins are installed.
+        -   Vulnerability Intelligence: Provides vulnerability intelligence data such as CISA KEV information, Known ransomware indicators, and EPSS percentile. This tile is visible only when Intelligence and App-Vuln NVD plugins are installed.
     3.  **Approvers tab** consists of details such as:
         -   Approver name
         -   Email ID
         -   State
-    4.  **Impacted services tab** consists of details such as Name, Business criticality, Used for, Service classification, Managed by, Owned by, Approval group, [[location|Location]], Operational status.
+    4.  **Impacted services tab** consists of details such as Name, Business criticality, Used for, Service classification, Managed by, Owned by, Approval group, Location, Operational status.
 
         **Note:** Admins can see additional filtering options and widgets such as: **Pending approvals**, **Today's approvals**, **Exception Approvals**, **False Positive Approvals**
 
 
-**Parent Topic:**[[sem-approval-view|Unified Approvals View]]
+**Parent Topic:**[Unified Approvals View](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-view.md)
 
-## Related
-
-- [[sem-approval-view|Unified Approvals View]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vr-va-ws-overview-tab|Overview tab]]
-- [[indicator|Indicators]]
-- [[location|Location]]

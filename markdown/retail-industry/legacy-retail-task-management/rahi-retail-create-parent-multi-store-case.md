@@ -14,7 +14,7 @@ breadcrumb: [Create multi-store cases, Retail Task Management, Retail]
 
 # Create a parent multi-store case in Retail Task Management Core
 
-Create a parent multi-store case for your [[rahi-retail-operations-overview|retail]] organization using [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+Create a parent multi-store case for your retail organization using Retail Task Management Core.
 
 ## Before you begin
 
@@ -64,7 +64,4 @@ Role required: sn\_retail.support\_agent
 
 14. Once all child cases have been sufficiently closed, use **Close Case** to close the parent case.
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-task-management-overview|Retail Task Management]]

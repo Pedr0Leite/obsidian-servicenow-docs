@@ -14,11 +14,11 @@ breadcrumb: [Timeline pages, Viewing record information over time, Reference, Ti
 
 # Display a metric as a timeline
 
-Administrators can enable users to display any metric on a timeline by activating the Timeline [[c_MetricDefinitionSupport|Metrics]] UI action.
+Administrators can enable users to display any metric on a timeline by activating the Timeline Metrics UI action.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Metrics** &gt; **[[clone-exclusions-preservers-cleanupscripts|Definitions]]**.
+1.  Navigate to **All** &gt; **Metrics** &gt; **Definitions**.
 
 2.  Select the metric you want to display on a timeline. For example, Problem State Duration.
 
@@ -29,7 +29,3 @@ Administrators can enable users to display any metric on a timeline by activatin
 
 **Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimelinePages.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

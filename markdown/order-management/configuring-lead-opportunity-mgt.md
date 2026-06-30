@@ -14,60 +14,41 @@ breadcrumb: [Configure, Sales Customer Relationship Management]
 
 Learn how to install and configure the lead and opportunity management applications to support pre-sales workflows.
 
-Installing and configuring the following applications involve installing the application from the ServiceNow Store store, assigning appropriate roles to users and groups, and then configuring app-specific features such as lead assignment [[rules_101|rules]], opportunity stages, forecasting settings, and so on.
+Installing and configuring the following applications involve installing the application from the ServiceNow Store store, assigning appropriate roles to users and groups, and then configuring app-specific features such as lead assignment rules, opportunity stages, forecasting settings, and so on.
 
-1.  [[configure-lead-management|Install and configure Lead Management]]
+1.  [Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-    Install the [[lead-management|Lead Management]] application, which enables sales agents and sales development representatives to create leads and provide pre-sales product recommendations based on customer needs. You then assign the user roles and configure related features, such as needs analysis and kanban view used in Lead Management.
+    Install the Lead Management application, which enables sales agents and sales development representatives to create leads and provide pre-sales product recommendations based on customer needs. You then assign the user roles and configure related features, such as needs analysis and kanban view used in Lead Management.
 
-2.  [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+2.  [Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-    Install and configure [[explore-customer-engagement-sequences|Customer Engagement Sequences]] so that the sales representatives can receive predefined sequence steps for interacting with prospects and customers.
+    Install and configure Customer Engagement Sequences so that the sales representatives can receive predefined sequence steps for interacting with prospects and customers.
 
-3.  [[configure-buying-group|Configuring Buying Group]]
+3.  [Configuring Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-buying-group.md)
 
-    Learn how to configure [[explore-buying-group|Buying Group]] to organize multiple contacts within Sales CRM by account and product offering family, and link them to opportunities.
+    Learn how to configure Buying Group to organize multiple contacts within Sales CRM by account and product offering family, and link them to opportunities.
 
-4.  [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+4.  [Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-    Install the [[opportunity-management|Opportunity Management]] application to enable your sales agents and account executives to create and manage opportunities that identify and track potential sales based on identified customer needs.
+    Install the Opportunity Management application to enable your sales agents and account executives to create and manage opportunities that identify and track potential sales based on identified customer needs.
 
-5.  [[configure-sales-forecasting|Configure Sales Forecasting]]
+5.  [Configure Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-forecasting.md)
 
-    Activate and configure the [[sales-forecasting|Sales Forecasting]] plugin help your sales teams project future sales volumes and revenue based data from opportunities and pipeline analysis.
+    Activate and configure the Sales Forecasting plugin help your sales teams project future sales volumes and revenue based data from opportunities and pipeline analysis.
 
-6.  [[configure-sales-territory-management|Configuring Sales Territory Management​]]
+6.  [Configuring Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-territory-management.md)
 
-    Install the [[explore-sales-territory-management|Sales Territory Management​]] application from the ServiceNow Store store. Configure the features and components that help distribute accounts, consumers, leads, and opportunities to manage sales territories.
+    Install the Sales Territory Management​ application from the ServiceNow Store store. Configure the features and components that help distribute accounts, consumers, leads, and opportunities to manage sales territories.
 
-7.  [[configuring-activity-management|Configuring Activity Management]]
+7.  [Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-    Install and configure the necessary plugins for enabling [[explore-activity-management|Activity Management]] features.
+    Install and configure the necessary plugins for enabling Activity Management features.
 
 
 **Related topics**  
 
 
-[[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
+[Using lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
 
-[[lead-opportunity-landing|Lead and opportunity management]]
+[Lead and opportunity management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-opportunity-landing.md)
 
-## Related
-
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[configure-buying-group|Configuring Buying Group]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[configure-sales-forecasting|Configure Sales Forecasting]]
-- [[configure-sales-territory-management|Configuring Sales Territory Management​]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
-- [[lead-opportunity-landing|Lead and opportunity management]]
-- [[rules_101|Rules]]
-- [[lead-management|Lead Management]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[explore-buying-group|Buying Group]]
-- [[opportunity-management|Opportunity Management]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[explore-activity-management|Activity Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # Configure the CSDM Data Foundations dashboard
 
-Use the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]] to monitor and evaluate key foundational metrics of the CSDM framework.
+Use the CSDM Data Foundations dashboard to monitor and evaluate key foundational metrics of the CSDM framework.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](http
     -   Select the **Breakdowns** context menu to view available breakdowns.
 5.  Scroll to the list of CIs in the **Custom Status Values** related list.
 
-    The charts show the number of custom values that have been defined for each element. Select a chart to view custom values that have been defined for the element. This example shows custom [[label|label]]-value combinations for the install\_status element.
+    The charts show the number of custom values that have been defined for each element. Select a chart to view custom values that have been defined for the element. This example shows custom label-value combinations for the install\_status element.
 
     \[Omitted image "custom-config-item-status-value.png"\] Alt text: Custom status values for configuration items.
 
@@ -99,7 +99,3 @@ The key foundational metric results are available for you to review and analyze.
 
 **Parent Topic:**[Configuring CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/configure-csdm.md)
 
-## Related
-
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]
-- [[label|Label]]

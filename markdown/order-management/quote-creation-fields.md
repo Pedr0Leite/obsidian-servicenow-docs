@@ -12,7 +12,7 @@ breadcrumb: [Partner Relationship Management reference, Reference, Sales Custome
 
 # Quote creation via Self-Service fields for Channel Partners
 
-Store the main details related to a quote submitted by a partner and track the life cycle of the quote through its stages on the self-service quote \(sn\_quote\_mgmt\_core\_quote\) table. Use the [[fields|fields]] to manage and store information related to quote creation by channel partners.
+Store the main details related to a quote submitted by a partner and track the life cycle of the quote through its stages on the self-service quote \(sn\_quote\_mgmt\_core\_quote\) table. Use the fields to manage and store information related to quote creation by channel partners.
 
 **Note:**
 
@@ -39,7 +39,7 @@ The fields displayed on this form are pre-defined. You can configure the form to
 |Contract end date|Date on which the contract term ends. This date is derived from the contract start date and term, and is used to determine renewal eligibility and renewal quote generation.|
 |Payment Terms|Specifies the payment conditions agreed for the quote, such as when payment is due after invoicing. Payment terms are applied to the quote document and downstream orders.|
 |Term \(months\)|Duration of the contract or subscription in months. When a start and end date are provided, the system automatically calculates the term value.|
-|Auto-[[Renew|renew]] contract|Indicates whether the contract is enabled for automatic renewal. When selected, the system automatically generates renewal opportunities and renewal quotes based on configurable [[rules_101|rules]] before the contract end date.|
+|Auto-renew contract|Indicates whether the contract is enabled for automatic renewal. When selected, the system automatically generates renewal opportunities and renewal quotes based on configurable rules before the contract end date.|
 |Shipping/Billing location|Reference to the shipping/billing location associated with the quote. This location identifies where products or services are delivered.|
 |Shipping/Billing street|Street address of the shipping location.|
 |Shipping/Billing city|The city of the shipping address.|
@@ -55,11 +55,5 @@ Enter the products that the customer is interested in the **Select a catalog** f
 
 Apply a header discount across all line items, or delete line items in the **Apply header discount**.
 
-**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[fields|Fields]]
-- [[Renew|Renew]]
-- [[rules_101|Rules]]

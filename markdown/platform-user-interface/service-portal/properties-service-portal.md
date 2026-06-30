@@ -18,7 +18,7 @@ Service Portal properties control aspects of the portal experience for admin and
 
 The most commonly used Service Portal properties are set on the Service Portal properties page. Some less commonly used properties are available only from the System Properties \[sys\_properties\] table.
 
-You can access the properties listed in the following table by navigating to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Properties**.
+You can access the properties listed in the following table by navigating to **All** &gt; **Service Portal** &gt; **Properties**.
 
 <table id="table_gnx_g1d_mz"><thead><tr><th>
 
@@ -79,7 +79,7 @@ Set the duration in seconds that non-critical notifications remain on the screen
 
  Critical notifications should be tagged with the `sn-sticky-notification` HTML class attribute to prevent them from being automatically dismissed.
 
- If the glide.ui.accessibility preference is enabled, messages don’t auto-dismiss, regardless of the system property value. To set this preference, see [[c_SetUpSect508ComplianceFeature|Enabling accessibility features]].
+ If the glide.ui.accessibility preference is enabled, messages don’t auto-dismiss, regardless of the system property value. To set this preference, see [Enabling accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Enable debug runtime information**glide.sp.debug**
 
 </td><td>
 
-Controls whether the Angular.js flag **$compileProvider.debugInfoEnabled** is set to true or false. This option allows debug runtime information in the compiler, such as adding binding information and a [[onboarding-modals-reference|reference]] to the current scope on to DOM elements. This property is turned off by default to improve performance on the instance. -   Type: true \| false
+Controls whether the Angular.js flag **$compileProvider.debugInfoEnabled** is set to true or false. This option allows debug runtime information in the compiler, such as adding binding information and a reference to the current scope on to DOM elements. This property is turned off by default to improve performance on the instance. -   Type: true \| false
 -   Default value: false
 
 </td></tr></tbody>
@@ -159,7 +159,7 @@ Description
 
 </td><td>
 
-Option to always enforce read ACLs for filter conditions specified in [[simple-list-widget|Simple List widget]] instances. If false, the **Enforce field-level Read ACLs on Filter query terms** option in Simple List widget instances determines whether to enforce the ACLs.
+Option to always enforce read ACLs for filter conditions specified in Simple List widget instances. If false, the **Enforce field-level Read ACLs on Filter query terms** option in Simple List widget instances determines whether to enforce the ACLs.
 
  -   Type: true \| false
 -   Default value: true
@@ -183,7 +183,7 @@ Option to allow configuring human readable keywords in portal page URLs for the 
 
 </td><td>
 
-Option to enforce validating cross-scope privileges to a table when the [[form-widget|form widget]] fetches data from a table.-   Type: true \| false
+Option to enforce validating cross-scope privileges to a table when the form widget fetches data from a table.-   Type: true \| false
 -   Default value: true
 -   For more information, see [Form widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/form-widget.md).
 
@@ -204,7 +204,7 @@ Specify how many notifications should appear before users have the option to cle
 
 </td><td>
 
-Redirects users to the SSO Identify Provider \(IdP\) login page without first redirecting them to the portal login page. Provide a comma-separated list of portal suffixes.**Note:** If your portal uses a customized version of the [[login-widget|Login widget]], you must update the `sp_sso_early_redirection` UI macro as needed to redirect users to the SSO Identify Provider \(IdP\) login page without trying to load the portal page first.
+Redirects users to the SSO Identify Provider \(IdP\) login page without first redirecting them to the portal login page. Provide a comma-separated list of portal suffixes.**Note:** If your portal uses a customized version of the Login widget, you must update the `sp_sso_early_redirection` UI macro as needed to redirect users to the SSO Identify Provider \(IdP\) login page without trying to load the portal page first.
 
 -   Type: String
 -   Default value: None
@@ -255,11 +255,3 @@ Specify the portals to evaluate using the Performance Analyzer by providing a co
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Portal reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reference-service-portal.md)
 
-## Related
-
-- [[c_SetUpSect508ComplianceFeature|Enabling accessibility features]]
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]
-- [[simple-list-widget|Simple List widget]]
-- [[form-widget|Form widget]]
-- [[login-widget|Login widget]]

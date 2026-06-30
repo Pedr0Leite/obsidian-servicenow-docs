@@ -23,7 +23,7 @@ Demo data is available for this feature.
 -   **[Roles installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_RolesInstallWRisk.md)**  
 Roles are added with activation of GRC: Risk Management.
 -   **[Roles installed with the GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/roles-installed-with-risk-ws.md)**  
-The GRC: [[risk-workspace|Risk Workspace]] application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
+The GRC: Risk Workspace application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
 -   **[Properties installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_PropInstallWRisk.md)**  
 Properties are added with activation of GRC: Risk Management.
 -   **[Tables installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_TableInsWRisk.md)**  
@@ -31,6 +31,3 @@ Tables are added with activation of GRC: Risk Management.
 
 **Parent Topic:**[Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-management-reference.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

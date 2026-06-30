@@ -14,7 +14,7 @@ breadcrumb: [DEX Insights, Configure, Digital End-User Experience, IT Service Ma
 
 # Set up Windows registry keys
 
-Track and manage the Windows registry keys that are configured for monitoring with DEX on end-user [[dex-workspace-devices-tab|devices]].
+Track and manage the Windows registry keys that are configured for monitoring with DEX on end-user devices.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  Select **Configure** on the Windows registry management card.
 
@@ -42,7 +42,4 @@ Role required: admin
 
 7.  Select **Save**.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

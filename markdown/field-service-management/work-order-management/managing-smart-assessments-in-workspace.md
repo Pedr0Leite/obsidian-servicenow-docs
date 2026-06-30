@@ -14,7 +14,7 @@ breadcrumb: [Completing work orders on the web interface, Use, Field Service Man
 
 # Managing Smart Assessment in Configurable Workspace
 
-The CSM and FSM Configurable Workspace enables Field Service technicians to view, track, and complete work order tasks and the associated [[smart-assessment-questionnaire|Smart Assessment questionnaires]].
+The CSM and FSM Configurable Workspace enables Field Service technicians to view, track, and complete work order tasks and the associated Smart Assessment questionnaires.
 
 In the workspace, Smart Assessment appears directly on work order task records when the configured trigger conditions are met. Technicians can complete assessments directly from the task without navigating away.
 
@@ -41,6 +41,3 @@ Additionally, with Smart Assessment questionnaires, technicians can:
 
 [View and complete smart assessments in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/viewing-smart-assessments-in-workspace.md)
 
-## Related
-
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

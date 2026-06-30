@@ -21,15 +21,15 @@ Role required: sn\_na\_center.nac\_admin
 
 ## About this task
 
-Follow these steps to implement an automation opportunity with [[ai-agent-advisor-landing-page|AI Agent Advisor]].
+Follow these steps to implement an automation opportunity with AI Agent Advisor.
 
 Each automation opportunity includes a set of recommended resolution steps that describe how to automate the identified opportunity. AI Agent Advisor also maps each resolution step to an existing AI agent on your platform when a match is available. Review the details of an opportunity before deciding whether to deploy an agent for it.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  In the Automation opportunitiessection of the [[now-assist-center-home-page|home page]] or in the automation opportunities list tab, select an automation opportunity to view its details.
+2.  In the Automation opportunitiessection of the home page or in the automation opportunities list tab, select an automation opportunity to view its details.
 
     The Resolution Steps tab opens showing the opportunity details.
 
@@ -37,7 +37,7 @@ Each automation opportunity includes a set of recommended resolution steps that 
 
     \[Omitted image "now-assist-center-agent-advisor-opportunity-detail-3.png"\] Alt text: Resolution Steps tab showing the opportunity details.
 
-    For more information on finding an automation opportunity, see [[now-assist-center-view-automation-opportunities|View your automation opportunities]].
+    For more information on finding an automation opportunity, see [View your automation opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md).
 
 3.  Select the **Example Records** tab to review records from the source table.
 
@@ -118,7 +118,7 @@ Select **Expand all** to see the available assets for each step.
  Select **Collapse all** to hide the details.
 
 </td></tr></tbody>
-</table>7.  When the steps are ready to implement, select **Continue in [[ai-agent-studio|AI Agent Studio]]**.
+</table>7.  When the steps are ready to implement, select **Continue in AI Agent Studio**.
 
     The Continue building AI agent box opens.
 
@@ -136,10 +136,10 @@ Select **Expand all** to see the available assets for each step.
 
     The resolution steps are mapped to the set of instructions and added as tools for the new AI agent.
 
-    For more information, see [[configure-next-best-action-agent|Create an AI agent]].
+    For more information, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 
-**Parent Topic:**[[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 
@@ -148,12 +148,3 @@ Select **Expand all** to see the available assets for each step.
 
 [Edit an AI agent from an automation opportunity]()
 
-## Related
-
-- [[now-assist-center-view-automation-opportunities|View your automation opportunities]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-agent-studio|AI Agent Studio]]

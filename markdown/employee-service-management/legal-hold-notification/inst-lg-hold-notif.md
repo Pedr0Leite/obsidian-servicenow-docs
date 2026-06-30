@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Hold Notification, Legal Service Delivery Practice
 
 # Install Legal Hold Notification
 
-Install the [[lg-hold-notif-landing-page|Legal Hold Notification]] plugin to be able to create a legal hold notification matter, add custodians, issue the legal hold notice, and close the legal hold notification matter.
+Install the Legal Hold Notification plugin to be able to create a legal hold notification matter, add custodians, issue the legal hold notice, and close the legal hold notification matter.
 
 ## Before you begin
 
@@ -61,12 +61,7 @@ For more information, see [Components installed with Legal Hold Notification](ht
 
 ## What to do next
 
-If the [[legal-counsel-center-landing|Legal Counsel Center]] application hasn’t been previously installed, you must install it to start [[use-lg-hold-notif|using Legal Hold Notification]]. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
 
 **Parent Topic:**[Configure Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[use-lg-hold-notif|Using Legal Hold Notification]]

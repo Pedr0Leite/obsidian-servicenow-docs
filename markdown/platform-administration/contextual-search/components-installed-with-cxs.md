@@ -14,9 +14,9 @@ breadcrumb: [Contextual search plugin, Contextual search plugin, Contextual sear
 
 # Components installed with Contextual Search
 
-Several types of components are installed with the activation of the [[contextual-search-plugin|Contextual Search plugin]] \(com.snc.contextual\_search\), including tables and user roles.
+Several types of components are installed with the activation of the Contextual Search plugin \(com.snc.contextual\_search\), including tables and user roles.
 
-**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [[find-components|Find components installed with an application]].
+**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 ## Tables installed
 
@@ -42,7 +42,7 @@ Email Configuration \[cxs\_table\_email\_config\]
 
 </td><td>
 
-List of email [[notifications|notifications]] configured to have [[c_ContextualSearch|contextual search]] [[hs-results|results]] attached.
+List of email notifications configured to have contextual search results attached.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Search Resource \[cxs\_search\_res\_config\]
 
 </td><td>
 
-Search resource [[clone-configurations-tab|configurations]] for the related searcher.
+Search resource configurations for the related searcher.
 
 </td></tr><tr><td>
 
@@ -153,11 +153,3 @@ Common elements for the record producer, table, and wizard configurations.
 </td></tr></tbody>
 </table>**Parent Topic:**[Contextual search plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/contextual-search-plugin.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[contextual-search-plugin|Contextual search plugin]]
-- [[notifications|Notifications]]
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

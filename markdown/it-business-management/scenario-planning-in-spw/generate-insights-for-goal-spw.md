@@ -30,11 +30,11 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 **Note:** Only the owner or contributors of the goal can generate insights for the goal.
 
-\[Omitted image "generate-goal-insights-goal-spw.gif"\] Alt text: Generate goal insights in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace using Goal insights skill.
+\[Omitted image "generate-goal-insights-goal-spw.gif"\] Alt text: Generate goal insights in Strategic Planning Workspace using Goal insights skill.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select the portfolio plan that the goal belongs to.
 
@@ -44,7 +44,7 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
     The goal side pane opens with the **Details** tab.
 
-5.  From the side pane, select **Full Details** to open the [[goal-form|goal form]].
+5.  From the side pane, select **Full Details** to open the goal form.
 
     The goal’s full details page opens.
 
@@ -54,8 +54,4 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 7.  Review AI-generated insights to identify risk, assess forecasted statuses, and act on recommendations before goals fall off track.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[goal-form|Goal form]]

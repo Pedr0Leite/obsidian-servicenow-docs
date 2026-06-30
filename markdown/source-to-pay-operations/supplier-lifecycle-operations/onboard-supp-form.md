@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Onboard a Supplier form
 
-Use the Onboard a Supplier form to provide details about the [[supplier|supplier]] that you want to onboard.
+Use the Onboard a Supplier form to provide details about the supplier that you want to onboard.
 
 |Field|Description|
 |-----|-----------|
@@ -54,6 +54,3 @@ Use the Onboard a Supplier form to provide details about the [[supplier|supplier
 
 [Supplier Lifecycle Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]

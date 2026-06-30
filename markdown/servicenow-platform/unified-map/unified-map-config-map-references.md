@@ -14,7 +14,7 @@ breadcrumb: [Administer, Unified Map, Configuration Management Database \(CMDB\)
 
 # Configure display of connections to a referenced class
 
-Configure how to display connections to a referenced class and from a referencing class on [[cmdb-workspace-unified-map|Unified Map]]. A [[reference|reference]] connects two CIs from differing classes that aren't connected by a relationship. These are general settings that only sn\_cmdb\_admin can configure.
+Configure how to display connections to a referenced class and from a referencing class on Unified Map. A reference connects two CIs from differing classes that aren't connected by a relationship. These are general settings that only sn\_cmdb\_admin can configure.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_cmdb\_admin
 
 These workspace-specific configuration settings affect all users of the CMDB Unified Map page. The settings don't affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
 
-[[reference-document-management|References]] [[c_Connect|connect]] CIs from two classes that don't have a direct relationship connection between them. On the map, any two CIs from the referenced class and from the referencing class appear connected by a dotted line. The relationship type is **Reference**. There are several preconfigured map references that you can modify, and you can also add map references.
+References connect CIs from two classes that don't have a direct relationship connection between them. On the map, any two CIs from the referenced class and from the referencing class appear connected by a dotted line. The relationship type is **Reference**. There are several preconfigured map references that you can modify, and you can also add map references.
 
 For example, you want the map to display references to records in the File System table for Windows Server CI records. In that case, Server ABC \(referencing CI\) shows connections to the C:\\ and D:\\ file systems \(referenced CIs\).
 
@@ -51,9 +51,3 @@ For example, you want the map to display references to records in the File Syste
 
 **Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/administer-unified-map.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]
-- [[c_Connect|Connect]]

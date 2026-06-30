@@ -26,11 +26,11 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
-3.  Open the task from the case playbook or the Insurance claim [[adjuster-tasks-workspace-pers|adjuster tasks]] list.
+3.  Open the task from the case playbook or the Insurance claim adjuster tasks list.
 
 <table id="choicetable_fhd_gh3_vcc"><thead><tr><th align="left" id="d51702e103">
 
@@ -65,7 +65,4 @@ Steps
 
     For more information about Agent assist, see [Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md).
 
-## Related
 
-- [[fso-overview|Financial Services]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

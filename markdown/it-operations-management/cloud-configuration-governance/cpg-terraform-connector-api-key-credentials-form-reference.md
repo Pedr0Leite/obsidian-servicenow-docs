@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog Terraform Connector reference, Cloud Service
 
 # Cloud Services Catalog Terraform Connector API Key Credentials form reference
 
-The [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] uses API key credentials to authenticate the requests sent to the Terraform Enterprise and Terraform Cloud and the version control systems provisioned in them.
+The Cloud Services Catalog Terraform Connector uses API key credentials to authenticate the requests sent to the Terraform Enterprise and Terraform Cloud and the version control systems provisioned in them.
 
 To learn more about API key permissions and tokens, see [https://developer.hashicorp.com/terraform/cloud-docs/users-teams-organizations/api-tokens](https://developer.hashicorp.com/terraform/cloud-docs/users-teams-organizations/api-tokens).
 
@@ -40,7 +40,7 @@ Active
 
 </td><td>
 
-Option for enabling this credential for [[r-discovery|discovery]]. Select this check box to enable discovery.
+Option for enabling this credential for discovery. Select this check box to enable discovery.
 
 </td></tr><tr><td>
 
@@ -110,7 +110,3 @@ Credential alias that can resolve the credential.
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Regenerate a text index for a table
 
-You can regenerate a table text index when you change table [[stop-words-ais|stop words]] or [[c_DisplayValues|display values]].
+You can regenerate a table text index when you change table stop words or display values.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: ts\_admin or admin
 By default, the system maintains text indexes on a daily schedule. Typically, you only need to manually regenerate a text index when you change these values.
 
 -   You change the list of table-specific stop words.
--   You change the display value of a record such as changing a user or group name. Until you regenerate the index, text searches for old display values will still produce [[hs-results|results]] and searches for the new display value won't show results.
+-   You change the display value of a record such as changing a user or group name. Until you regenerate the index, text searches for old display values will still produce results and searches for the new display value won't show results.
 
 You can also regenerate a text index if you observe incorrect search results for the indexed table. This is rare and usually only occurs if text indexing was interrupted.
 
@@ -52,7 +52,7 @@ Text indexing can be a resource-intensive task that may take a while to complete
 
 ## Result
 
-The system [[c_UseSchedules|schedules]] the selected table for text indexing.
+The system schedules the selected table for text indexing.
 
 -   **[Reindex a table without impacting text search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/real-time-reindexing.md)**  
 Rebuild text search indexes without adversely impacting search results. You can continue to perform text searches on a table while the index regeneration takes place.
@@ -88,9 +88,3 @@ Update the text search index for a single record. Use this approach to quickly v
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[stop-words-ais|Stop words]]
-- [[c_DisplayValues|Display values]]
-- [[hs-results|Results]]
-- [[c_UseSchedules|Schedules]]

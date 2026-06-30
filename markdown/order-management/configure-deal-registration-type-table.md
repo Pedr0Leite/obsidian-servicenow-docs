@@ -12,7 +12,7 @@ breadcrumb: [Data model for Deal Registration Management, Deal Registration, Con
 
 # Configure Deal Registration Type table
 
-Configure the [[deal-registration-management|deal registration]] type \(sn\_prm\_dr\_deal\_registration\_type\) table to specify the role or involvement of a channel partner in a deal registration.
+Configure the deal registration type \(sn\_prm\_dr\_deal\_registration\_type\) table to specify the role or involvement of a channel partner in a deal registration.
 
 ## Before you begin
 
@@ -28,31 +28,22 @@ Configure the deal registration type table to define how a channel partner can b
 
 2.  Select **New** to create a deal registration type.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
-    To learn more about the fields, see [[deal-registration-type-table-fields|Deal registration type table fields]].
+    To learn more about the fields, see [Deal registration type table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deal-registration-type-table-fields.md).
 
 4.  Select **Submit**.
 
 
--   **[[configure-partner-program-deal-type-relationship-table|Configure Partner Program Deal Type Relationship table]]**  
+-   **[Configure Partner Program Deal Type Relationship table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-program-deal-type-relationship-table.md)**  
 Configure the Partner program deal type relationship \(sn\_prm\_dr\_pp\_deal\_type\) table to ensure that the appropriate deal registration types are associated to the accurate partner programs.
 
-**Parent Topic:**[[data-model-for-deal-registration-management|Data model for Deal Registration Management]]
+**Parent Topic:**[Data model for Deal Registration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-deal-registration-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[deal-registration-type-table-fields|Deal registration type table fields]]
-- [[configure-partner-program-deal-type-relationship-table|Configure Partner Program Deal Type Relationship table]]
-- [[data-model-for-deal-registration-management|Data model for Deal Registration Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[deal-registration-management|Deal Registration]]
-- [[fields|Fields]]

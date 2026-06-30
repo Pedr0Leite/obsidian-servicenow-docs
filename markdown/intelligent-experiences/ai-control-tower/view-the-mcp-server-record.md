@@ -19,11 +19,11 @@ Explore the MCP server record and its associated tabs.
 The MCP server record has the following tabs:
 
 1.  Details: Displays all the asset details along with the MCP server URL at the bottom of the page.
-2.  [[approvals|Approvals]]: Displays all the approval requests for the MCP server.
+2.  Approvals: Displays all the approval requests for the MCP server.
 
     **Note:**
 
-    When MCP servers are synced to the [[ai-gateway-overview|AI Gateway]] with the [[ai-control-tower-landing|AI Control Tower]] Core \(with [[platform-now-assist-landing|Now Assist]]\), an option appears in AI Control Tower to start the approval process. However, with the AI Control Tower Pro license version, the button doesn’t appear after the synchronization job runs, and the Lifecycle status is shown as None.
+    When MCP servers are synced to the AI Gateway with the AI Control Tower Core \(with Now Assist\), an option appears in AI Control Tower to start the approval process. However, with the AI Control Tower Pro license version, the button doesn’t appear after the synchronization job runs, and the Lifecycle status is shown as None.
 
     This behavior is known. As a workaround, verify that the lifecycle phase is set to **New** and the lifecycle status is set to **AI steward review** for the relevant sn\_ai\_governance\_asset\_governance\_details record.
 
@@ -60,9 +60,9 @@ The MCP server record has the following tabs:
         -   Token endpoint URL: OAuth token exchange endpoint.
         **Note:** All these URLs are generated automatically and can’t be modified.
 
-        If an MCP server is identified as malicious for a certain period, the AI stewards can pause all transactions directed to that server through the AI Gateway. Once the risk is resolved, transactions can be resumed. Similarly, at the AI Gateway level, it’s possible to pause all transactions across all servers from the [AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway.md) page in the [[exploring-ai-governance|Configurations]] section of AI Control Tower.
+        If an MCP server is identified as malicious for a certain period, the AI stewards can pause all transactions directed to that server through the AI Gateway. Once the risk is resolved, transactions can be resumed. Similarly, at the AI Gateway level, it’s possible to pause all transactions across all servers from the [AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway.md) page in the Configurations section of AI Control Tower.
 
-    -   MCP Client Integration: Displays Registered clients for the server. Each agent builder requires its own client registration and MCP client Integration generates a client ID and client secret. If you want to enable [[ai-agent-studio|AI Agent Studio]] for a linear MCP server, you can create an MCP client integration by selecting **Add**.
+    -   MCP Client Integration: Displays Registered clients for the server. Each agent builder requires its own client registration and MCP client Integration generates a client ID and client secret. If you want to enable AI Agent Studio for a linear MCP server, you can create an MCP client integration by selecting **Add**.
 
         **Note:** For more information Gateway setup and MCP Client Integration, see [Set up the AI Gateway and Client registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/mcp-client-integration-of-copilot-studio-via-ai-gateway.md).
 
@@ -73,11 +73,3 @@ The MCP server record has the following tabs:
 
 **Note:** The AI steward can activate sensitive data protection for any transaction across servers by selecting **Activate PII check**. By activating, the AI gateway blocks those transactions, which involve sharing sensitive information to the MCP server.
 
-## Related
-
-- [[approvals|Approvals]]
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[ai-agent-studio|AI Agent Studio]]

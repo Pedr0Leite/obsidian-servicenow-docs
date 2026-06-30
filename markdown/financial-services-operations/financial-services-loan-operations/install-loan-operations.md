@@ -14,7 +14,7 @@ breadcrumb: [Loan Operations, Banking applications, Financial Services Operation
 
 # Install Financial Services Loan Operations
 
-You can set up your implementation for the [[loan-ops-landing-page|Financial Services Loan Operations]] first by installing each of the [[fso-overview|Financial Services]] Business Loan Operations and the Financial Services Personal Loan Operations applications.
+You can set up your implementation for the Financial Services Loan Operations first by installing each of the Financial Services Business Loan Operations and the Financial Services Personal Loan Operations applications.
 
 -   **[Install Financial Services Business Loan Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/install-fso-business-loan-ops.md)**  
 You can install the Financial Services Business Loan Operations application \(sn\_bom\_loan\_b2b\) if you have the admin role. The application includes demo data and install-related ServiceNow® Store applications and plugins if they are not already installed.
@@ -23,7 +23,3 @@ You can install the Financial Services Personal Loan Operations application \(sn
 
 **Parent Topic:**[Financial Services Loan Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/loan-ops-landing-page.md)
 
-## Related
-
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[fso-overview|Financial Services]]

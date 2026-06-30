@@ -15,7 +15,7 @@ Access your instance from anywhere using the ServiceNow® Mobile Platform. The M
 
 \[Omitted video\] Description: Introductory video to ServiceNow mobile apps.
 
-This video highlights some of the capabilities of the 2 ServiceNow® mobile apps: Mobile Agent and Now Mobile. The video defines the purpose of each app, who uses them, and how they support your workflows and ServiceNow business applications. The [[mobile-experience|Mobile Agent app]] is designed for field service technicians and engineers to support them while they are off-site. The [[now-mobile-app|Now Mobile app]] can be used by your entire organization. Using the Now Mobile app, employees can perform tasks such as viewing their work schedules, viewing a knowledge article, or reserving a conference room.
+This video highlights some of the capabilities of the 2 ServiceNow® mobile apps: Mobile Agent and Now Mobile. The video defines the purpose of each app, who uses them, and how they support your workflows and ServiceNow business applications. The Mobile Agent app is designed for field service technicians and engineers to support them while they are off-site. The Now Mobile app can be used by your entire organization. Using the Now Mobile app, employees can perform tasks such as viewing their work schedules, viewing a knowledge article, or reserving a conference room.
 
 ## Get started
 
@@ -37,7 +37,7 @@ Starting with the Australia release, Mobile Studio is being prepared for future 
 
 </td><td>
 
-[Build \[Omitted image "bus-application-development.svg"\] Alt text: Create and modify base system [[mobile-app-components-landing|mobile app components]] for ServiceNow mobile apps.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md)
+[Build \[Omitted image "bus-application-development.svg"\] Alt text: Create and modify base system mobile app components for ServiceNow mobile apps.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md)
 
 </td></tr><tr><td>
 
@@ -49,9 +49,3 @@ Starting with the Australia release, Mobile Studio is being prepared for future 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-app-components-landing|Mobile app components]]

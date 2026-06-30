@@ -22,7 +22,7 @@ After installing the Mobile Timesheet plugin \(sn\_mtimesheet\), you can use tim
 
 Timesheets provide the following capabilities:
 
--   [[create-timesheet-fsm-mobile|Create a time sheet]]
+-   Create a time sheet
 -   Create a time card
 -   Log hours on the time card
 -   Update hours for the week for a specific time card
@@ -32,6 +32,3 @@ Timesheets provide the following capabilities:
 
 \[Omitted image "timesheet\_fsm\_mobile.png"\] Alt text: Mobile view of an agent's app displaying active time sheets.
 
-## Related
-
-- [[create-timesheet-fsm-mobile|Create a time sheet]]

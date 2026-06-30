@@ -14,7 +14,7 @@ breadcrumb: [Reference, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # How legacy metric types are migrated to sections in templates
 
-Legacy metric types are migrated to specific sections in the [[airc-assessment-templates|assessment templates]] in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Legacy metric types are migrated to specific sections in the assessment templates in the Smart Assessment Engine application.
 
 ## How metric types are mapped
 
@@ -109,7 +109,3 @@ This tables shows the mapping used to move the existing template definitions to 
 
 [Tables installed in Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/tables-installed-in-smart-assessment-engine.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

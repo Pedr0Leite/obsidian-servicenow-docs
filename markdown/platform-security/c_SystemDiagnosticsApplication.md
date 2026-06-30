@@ -12,7 +12,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 # System Diagnostics module
 
-The System Diagnostics application provides [[logs|logs]] that relate to the platform.
+The System Diagnostics application provides logs that relate to the platform.
 
 These logs are available:
 
@@ -24,6 +24,4 @@ These logs are available:
 
     Provides insight into how queries affect platform performance. See [Use a slow query log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_UseASlowQueryLog.md).
 
-## Related
 
-- [[logs|Logs]]

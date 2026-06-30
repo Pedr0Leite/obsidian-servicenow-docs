@@ -14,8 +14,5 @@ breadcrumb: [Outbound staging tables, Source-to-Pay integration framework, Integ
 
 # Outbound staging tables for Supplier Lifecycle Operations
 
-The outbound staging tables for Supplier Lifecycle Operations store [[supplier|supplier]] data before it is exported to a third-party ERP system.
+The outbound staging tables for Supplier Lifecycle Operations store supplier data before it is exported to a third-party ERP system.
 
-## Related
-
-- [[supplier|Supplier]]

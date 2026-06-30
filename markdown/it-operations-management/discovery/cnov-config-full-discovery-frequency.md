@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Change the full discovery frequency in Kubernetes Visibility Agent
 
-Customize how often you want the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer to run a full [[r-discovery|discovery]].
+Customize how often you want the Kubernetes Visibility Agent Informer to run a full discovery.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ By default, the Informer runs a full discovery every 24 hours \(1440 minutes\). 
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]

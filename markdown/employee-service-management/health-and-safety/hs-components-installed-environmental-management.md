@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Environmental Management, Health and S
 
 # Components installed with Health and Safety Environmental Management
 
-Several types of components are installed with activation of the [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Health and Safety Environmental Management plugin, including tables, user roles, and scheduled jobs.
 
 ## Store applications installed
 
@@ -28,17 +28,17 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
-[[hs-risk-management-landing-page|Health and Safety Risk Management]]
+Health and Safety Risk Management
 
 </td><td>
 
@@ -96,7 +96,7 @@ Chemical requestor
 
 </td><td>
 
-Can create chemical requests from the [[employee-center-landing-page|Employee Center]]
+Can create chemical requests from the Employee Center
 
 </td><td>
 
@@ -351,11 +351,3 @@ Stores records of data requested from the 3E system.
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[employee-center-landing-page|Employee Center]]

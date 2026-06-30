@@ -38,7 +38,7 @@ The logged in user must also have access to the engagement for which evidence re
 
 4.  From the **Action on selected rows** list, select **Request Evidence**.
 
-    You can either create a new [[evidence-request|evidence request]] or add existing evidence request. The Evidence request is created but not evidence request tasks.
+    You can either create a new evidence request or add existing evidence request. The Evidence request is created but not evidence request tasks.
 
 5.  To create a new evidence request, enter details on the Request Evidence pop-up and click the **Request** button.
 
@@ -60,6 +60,4 @@ The logged in user must also have access to the engagement for which evidence re
 
     **Note:** The remove action only removes the association of the existing evidences from the engagement and does not remove the evidence record from the database.
 
-## Related
 
-- [[evidence-request|Evidence request]]

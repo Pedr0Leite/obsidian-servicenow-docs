@@ -24,7 +24,7 @@ Role required: sm\_app\_owner
 
 Ideally, only the application service owner reviews the planned application service, however, users with the sm\_app\_owner or service\_mapping\_admin role can also perform this task.
 
-Reviewing application service maps is part of the [review and approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md). The process of application service review may take some time as it requires making changes and repeatedly running the mapping process on the application service. Typically, it takes several iterations to arrive at the desired result. Once you are satisfied with the [[r-discovery|discovery]] result, you approve the application service.
+Reviewing application service maps is part of the [review and approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md). The process of application service review may take some time as it requires making changes and repeatedly running the mapping process on the application service. Typically, it takes several iterations to arrive at the desired result. Once you are satisfied with the discovery result, you approve the application service.
 
 After you request fixes or approve the application service, the service process task assigned to you closes.
 
@@ -40,7 +40,7 @@ To see documentation for another review phase, click the relevant box in the dia
 
 2.  Alternatively, open to the application service to review from the list of tasks assigned to you.
 
-    1.  Navigate to **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Administration** &gt; **My Tasks**.
+    1.  Navigate to **Service Mapping** &gt; **Administration** &gt; **My Tasks**.
 
     2.  Sort the list of service process tasks as required.
 
@@ -68,7 +68,7 @@ Action
 
 Pay attention to CIs with no connectors from it to other CIs. For example, in the following figure, the Web Server on win2K12 CI is missing connections.\[Omitted image "MapMissingConnection.png"\] Alt text: CIs missing connectors
 
- If connections and CIs to which they lead are missing, the map does not reflect the real state of the service instance and its operation. Inaccurate data can also be transferred to [[c_EM|Event Management]], causing imprecise monitoring.
+ If connections and CIs to which they lead are missing, the map does not reflect the real state of the service instance and its operation. Inaccurate data can also be transferred to Event Management, causing imprecise monitoring.
 
 </td></tr><tr><td id="d279383e308">
 
@@ -149,8 +149,3 @@ Click the plus \(+\) icon next to a CI.In an inclusion, a server hosts applicati
 
 [Fix errors in individual application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-or-ignore-errors-business-service-map.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]

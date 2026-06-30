@@ -18,7 +18,7 @@ The Jumpstart Your Employee Journey Management \(EJM\) Accelerator provides a de
 
 ## Accelerator overview
 
-Jumpstart Your Employee Journey Management provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration, helping them to better understand how to begin with Employee Journey Management. This offering showcases EJM capabilities and features, enabling organizations to deliver personalized, cross-departmental Employee Journeys through intelligent workflows that support real-time tasking, learning, and feedback. Additionally, this Accelerator provides key resources and leading-practice guides to enhance [[product-adoption|product adoption]] and usage.​
+Jumpstart Your Employee Journey Management provides Impact customers with an overview and applied demonstration, helping them to better understand how to begin with Employee Journey Management. This offering showcases EJM capabilities and features, enabling organizations to deliver personalized, cross-departmental Employee Journeys through intelligent workflows that support real-time tasking, learning, and feedback. Additionally, this Accelerator provides key resources and leading-practice guides to enhance product adoption and usage.​
 
 ## Package Availability
 
@@ -67,7 +67,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]

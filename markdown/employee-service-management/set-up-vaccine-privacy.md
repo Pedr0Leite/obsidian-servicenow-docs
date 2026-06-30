@@ -20,13 +20,13 @@ Role required: sn\_imt\_core.admin and sn\_imt\_checkin.checkin\_admin
 
 ## About this task
 
-Use [[emergency-outreach|Emergency Outreach]] to send a privacy consent form to users. Users must agree to the privacy consent before they can submit their vaccination status.
+Use Emergency Outreach to send a privacy consent form to users. Users must agree to the privacy consent before they can submit their vaccination status.
 
 ## Procedure
 
 1.  Customize the privacy consent template.
 
-    1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Privacy Consent Templates** and click **Vaccine Administration**.
+    1.  Navigate to **Employee Health and Safety Status** &gt; **Privacy Consent Templates** and click **Vaccine Administration**.
 
     2.  Fill in the placeholder text with the name of your organization and contact information.
 
@@ -38,7 +38,7 @@ Use [[emergency-outreach|Emergency Outreach]] to send a privacy consent form to 
 
     This role enables users to complete the privacy consent.
 
-3.  Add all usersfrom the User \[sys\_user\] table who will be reporting their vaccination status to a [[safe-workplace|Safe Workplace]] audience.
+3.  Add all usersfrom the User \[sys\_user\] table who will be reporting their vaccination status to a Safe Workplace audience.
 
     1.  Navigate to **Emergency Outreach** &gt; **Safe Workplace Audience** and click **Vaccine Privacy Consent Audience**.
 
@@ -67,11 +67,5 @@ Use [[emergency-outreach|Emergency Outreach]] to send a privacy consent form to 
     4.  Click **Update**.
 
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[safe-workplace|Safe Workplace]]

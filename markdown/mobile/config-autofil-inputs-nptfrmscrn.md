@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an [[parameter-input-screen|input form screen]]. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [[mobile-ui-rules|Mobile UI Rules]].
+Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an input form screen. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [Mobile UI Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
 
 **Note:**
 
--   Auto-fill inputs are not supported in [[mobile-offline-mode|offline mode]].
+-   Auto-fill inputs are not supported in offline mode.
 -   Only one **Run client script** UI rule action can be configured for each mobile UI rule.
 -   Input form screens were formerly called parameter screens. However, the name **Parameter Screen** is still used in the Mobile UI Rule form.
 
@@ -201,8 +201,4 @@ Make sure that at least one of the **Triggers** is set to **onChange**.
     -   The argument newValue contains the new value of that input after the change.
 8.  Select **Submit**.
 
-## Related
 
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[parameter-input-screen|Input form screen]]
-- [[mobile-offline-mode|Offline mode]]

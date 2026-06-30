@@ -14,7 +14,7 @@ breadcrumb: [Genius Result configurations in the base system, Genius Results, Se
 
 # Catalog Item Genius Results
 
-Catalog Item Genius Results display top search [[hs-results|results]] from the Catalog Item \[sc\_cat\_item\] table. Each answer card shows a single Catalog Item record. You can create a request for the Catalog Item directly from the answer card.
+Catalog Item Genius Results display top search results from the Catalog Item \[sc\_cat\_item\] table. Each answer card shows a single Catalog Item record. You can create a request for the Catalog Item directly from the answer card.
 
 \[Omitted image "genius-result-catalog-item.png"\] Alt text: Catalog Item answer card for Sales Laptop CI with Request action link.
 
@@ -24,6 +24,3 @@ Catalog Item Genius Results only support English searches.
 
 **Parent Topic:**[Genius Result configurations in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/default-genius-result-configs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]

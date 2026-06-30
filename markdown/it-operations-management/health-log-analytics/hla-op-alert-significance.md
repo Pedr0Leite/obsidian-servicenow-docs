@@ -15,7 +15,7 @@ breadcrumb: [Controlling alert generation, prioritization, and anomaly detection
 
 # Assign higher or lower significance to an alert in Health Log Analytics
 
-Label an alert in [[hla-landing-page|Health Log Analytics]] as meaningful or insignificant, or restore normal importance to the metric involved in generating it.
+Label an alert in Health Log Analytics as meaningful or insignificant, or restore normal importance to the metric involved in generating it.
 
 Assigning higher or lower significance to an alert helps you prioritize the alerts Health Log Analytics generates. Here are some common use cases for adjusting the importance of an alert:
 
@@ -54,9 +54,5 @@ Make anomaly detection less sensitive to anomalies like the one that triggered t
 -   **[Restore normal importance to an alert metric in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-restore-user-defined-sow.md)**  
 Return normal significance to the metric involved in generating a Log Analytics alert. Use this option if you no longer want an alert to be treated specially that was muted, marked as significant, or made less sensitive to similar anomalies.
 
-**Parent Topic:**[[itom-health-landing-page|ITOM AIOps]]
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]

@@ -12,7 +12,7 @@ breadcrumb: [Static translation, Multilingual email notifications, Email and SMS
 
 # Enable static translation
 
-Enable static translation of [[notifications|notifications]] for the global application.
+Enable static translation of notifications for the global application.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
     |-----|-----------|
     |Name|Name for the system property, which is `glide.email.outbound.static_translation.enabled`.|
     |Application|Application for the system property. **Global** applies the system property to all applications when the system property is set to true.|
-    |Description|Description displayed in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] list.|
+    |Description|Description displayed in the System Properties list.|
     |Choices|Description displayed in the System Properties list.|
     |Type|Type of system property, either true or false.|
     |Value|Value for the **Type** selected, which should be set to true.|
@@ -42,15 +42,10 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[static-translation|Static translation]]
+**Parent Topic:**[Static translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/static-translation.md)
 
 **Related topics**  
 
 
 [Request a translation for an email notification, template or layout]()
 
-## Related
-
-- [[static-translation|Static translation]]
-- [[notifications|Notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

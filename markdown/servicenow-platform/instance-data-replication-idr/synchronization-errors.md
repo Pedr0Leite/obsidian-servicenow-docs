@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Review synchronization errors in Instance Data Replication
 
-Review the status field to check if synchronization is working correctly on the [[instance-data-replication|Instance Data Replication]] \(IDR\) consumer instance.
+Review the status field to check if synchronization is working correctly on the Instance Data Replication \(IDR\) consumer instance.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ Synchronization errors occur when a producer instance doesn't send data or a con
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

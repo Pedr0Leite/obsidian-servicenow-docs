@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Legacy Software License Compliance Checker
 
-The Software License Compliance Checker that is included in the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin is a fast way to see if the software licenses used in your organization are compliant based on number of rights purchased and number of installations.
+The Software License Compliance Checker that is included in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin is a fast way to see if the software licenses used in your organization are compliant based on number of rights purchased and number of installations.
 
 For example, if there are 100 licenses for a software program, the legacy Software License Compliance Checker can show if the software has been installed more than 100 times. The legacy Software Compliance Checker uses information found by a discovery tool such as Discovery or third-party technologies, to analyze the software installed on your network.
 
@@ -34,23 +34,17 @@ You can check your software license compliance using the Software License Compli
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Software license reconciliation counters for the legacy Software Asset Management plugin]()
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

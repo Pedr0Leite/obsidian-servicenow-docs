@@ -15,7 +15,7 @@ breadcrumb: [SAP DMS external content connector, Configure, External Content Con
 
 # Create a SAP user and role collection
 
-[[t_CreateAUser|Create a user]] and a role collection in the SAP Business Technology Platform \(BTP\) cockpit. The [[sap-dms-external-content-connector|SAP DMS external content connector]] needs this user account to access your SAP DMS content.
+Create a user and a role collection in the SAP Business Technology Platform \(BTP\) cockpit. The SAP DMS external content connector needs this user account to access your SAP DMS content.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: none
 
 ## About this task
 
-The SAP DMS external content connector requires a user account with specific roles. [[t_CreateARole|Create a role]] collection with these roles and assign it to a user account to allow the connector to access your SAP DMS folders and files.
+The SAP DMS external content connector requires a user account with specific roles. Create a role collection with these roles and assign it to a user account to allow the connector to access your SAP DMS folders and files.
 
 ## Procedure
 
@@ -103,8 +103,3 @@ The SAP DMS external content connector requires a user account with specific rol
 
 **Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-dms-external-content-connector.md)
 
-## Related
-
-- [[t_CreateAUser|Create a user]]
-- [[sap-dms-external-content-connector|SAP DMS external content connector]]
-- [[t_CreateARole|Create a role]]

@@ -37,13 +37,10 @@ Role required: admin
     -   **Public Feed**: Select this to allow anyone to view and join the group feed.
     -   **Private Feed**: Select this to restrict membership to only members invited by the administrator.
 
-        When **Private Feed** is selected, the **Show this feed for anyone to find and request to join** [[check-box|check box]] is displayed. If it is selected, any user can search for this group feed and join it. If the check box is not selected, only users who are invited can see the feed and join the group feed.
+        When **Private Feed** is selected, the **Show this feed for anyone to find and request to join** check box is displayed. If it is selected, any user can search for this group feed and join it. If the check box is not selected, only users who are invited can see the feed and join the group feed.
 
 6.  Click **Create**.
 
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[check-box|Check box]]

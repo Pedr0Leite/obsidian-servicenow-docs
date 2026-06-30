@@ -12,13 +12,13 @@ breadcrumb: [Explore, Subscription Management, Get started, Administer the Servi
 
 # Product subscriptions overview
 
-View a summary of your product subscriptions in [[subscription-management-landing-page-v2|Subscription Management]].
+View a summary of your product subscriptions in Subscription Management.
 
 ## Key benefits
 
 -   Determine whether you have any over-allocated subscriptions.
 -   Check for unallocated subscriptions that you can allocate to maximize usage and give users entitlement to ServiceNow products.
--   Determine whether any [[custom-tables|custom tables]] in the global scope or any custom applications aren't mapped to subscriptions.
+-   Determine whether any custom tables in the global scope or any custom applications aren't mapped to subscriptions.
 -   Stay in compliance by monitoring the **Status** column in the list of product subscriptions.
 
 \[Omitted image "subscription-management-overview.png"\] Alt text: Overview of product subscriptions.
@@ -47,7 +47,7 @@ View a summary of your instance-level entitlements in the **Instance entitlement
     -   Product subscription types include per-user, capacity, unrestricted user, unlimited, and display only.
     -   Per-user subscriptions are automatically allocated by role for administrators that haven't manually allocated per-user subscriptions before. If an administrator has manually allocated per-user subscriptions in the past, they can continue to make manual allocations.. Capacity, unrestricted user, and unlimited subscriptions are allocated on your instance automatically. Display-only subscriptions aren't measured on your instance.
     -   Product subscriptions provide entitlements for different applications and can include different add-ons.
-    For more information, see [[types-subscription-v2|Types of subscriptions in Subscription Management]].
+    For more information, see [Types of subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/types-subscription-v2.md).
 
 -   Determine whether your subscription allocations are in compliance by viewing the values in the **Status** column. Adjust allocations if subscriptions are over-allocated.
 
@@ -71,7 +71,7 @@ View a summary of your instance-level entitlements in the **Instance entitlement
 
         The subscription allocation status isn't calculated. Only applies to Creator Plus products.
 
-    You can customize the near capacity threshold for your instance in the **Settings** tab. For more information, see [[configure-subscription-allocation-status-v2|Configure subscription allocation status in Subscription Management]].
+    You can customize the near capacity threshold for your instance in the **Settings** tab. For more information, see [Configure subscription allocation status in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-subscription-allocation-status-v2.md).
 
 -   View a summary of the Creator Plus subscriptions on the instance that you're currently accessing.
     -   View the total number of Creator Plus subscriptions that your company has purchased in the **Purchased** column.
@@ -99,9 +99,3 @@ View a summary of your account-level entitlements in the **Account entitlements*
 |Unmapped global custom tables|Single Score|Custom Table Inventory \[ua\_custom\_table\_inventory\]|Count of custom tables that aren't mapped to a subscription|
 |Unmapped custom applications|Single Score|Custom Table Inventory \[ua\_custom\_table\_inventory\]|Count of custom applications that aren't mapped to a subscription|
 
-## Related
-
-- [[types-subscription-v2|Types of subscriptions in Subscription Management]]
-- [[configure-subscription-allocation-status-v2|Configure subscription allocation status in Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[custom-tables|Custom tables]]

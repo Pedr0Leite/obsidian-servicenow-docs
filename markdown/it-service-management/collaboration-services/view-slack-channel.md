@@ -20,7 +20,7 @@ View all slack channels associated with an incident to know if a required slack 
 
 -   Role required: sn\_incident\_write, itil, or admin
 -   Plugins required:
-    -   [[collab-services-tcm|Collaboration Services]] plugin \(sn\_tcm\_collab\_hook\) version 2.0.x
+    -   Collaboration Services plugin \(sn\_tcm\_collab\_hook\) version 2.0.x
     -   Slack Spoke for ServiceNow Integration Hub plugin \(com.sn.slack.ahv2\) version 1.3.x
 
 ## About this task
@@ -47,6 +47,4 @@ The system property **sn\_tcm\_collab\_hook.slack\_on\_task** enables the slack 
 
 6.  To import messages from any slack channel, click **Import messages**.
 
-## Related
 
-- [[collab-services-tcm|Collaboration services]]

@@ -24,11 +24,11 @@ Role required: none
 
 1.  Log in to your instance using your user name and password.
 
-    The [[mfa-landing|multi-factor authentication]] set up screen intercepts your login.
+    The multi-factor authentication set up screen intercepts your login.
 
     \[Omitted image "new-mfa.png"\] Alt text: MFA screen
 
-    **Note:** If you want to skip the [[c_Authentication|authentication]] set up now, click **Bypass Setup**. You can bypass multi-factor authentication for a limited number of times that your administrator allows. Eventually, you must configure multi-factor authentication.
+    **Note:** If you want to skip the authentication set up now, click **Bypass Setup**. You can bypass multi-factor authentication for a limited number of times that your administrator allows. Eventually, you must configure multi-factor authentication.
 
 2.  Select one of the following methods to complete the mfa setup.
 
@@ -44,7 +44,7 @@ Role required: none
 
         \[Omitted image "biometirc-mfa.png"\] Alt text: MFA- Biometric or Hardware keys
 
-    3.  **Get a verification code sent to your [[email|email]]**
+    3.  **Get a verification code sent to your email**
 
         Enter the verification code that is sent to your email.
 
@@ -52,8 +52,4 @@ Role required: none
 
     After the successful completion of the either of the setup, you are logged in to the instance.
 
-## Related
 
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[email|Email]]

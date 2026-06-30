@@ -14,7 +14,7 @@ breadcrumb: [Job safety analysis, Use, Health and Safety Risk Management, Health
 
 # Submit a JSA from Employee Center
 
-Submit a [[hs-job-safety-analysis|job safety analysis]] \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work.
+Submit a job safety analysis \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_hs\_rm.jsa\_reporter
 
 ## About this task
 
-Employees can also submit JSAs from their mobile device using the ServiceNow® [[mobile-employee-experience|Now Mobile app]]. For more information, see [Submit a JSA through the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/submit-jsa-mobile.md).
+Employees can also submit JSAs from their mobile device using the ServiceNow® Now Mobile app. For more information, see [Submit a JSA through the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/submit-jsa-mobile.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  Select the **[[health-safety-overview|Health and Safety]]** menu.
+2.  Select the **Health and Safety** menu.
 
 3.  Create a JSA.
 
@@ -56,7 +56,7 @@ An empty JSA form opens.
 
 </td><td>
 
-To reuse a JSA that you submitted previously to save time:1.  Under the **[[emp-center-quick-link-config|Quick links]]**, select **View my JSAs**.
+To reuse a JSA that you submitted previously to save time:1.  Under the **Quick links**, select **View my JSAs**.
 2.  In the list, open the JSA that you want to copy.
 3.  Select **Copy JSA**.
 A JSA form with values copied from the previous JSA opens.
@@ -82,15 +82,7 @@ A JSA form with values copied from the previous JSA opens.
 ## Result
 
 -   The JSA is submitted for your job or task. To view your submitted JSAs, navigate to the **Health and Safety** menu in the Employee Center and then the **View my JSAs** quick link.
--   The JSA is also listed in the JSAs list on [[health-safety-core-workspace|Health and Safety Workspace]]. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\) and then selecting the **JSAs** list.
+-   The JSA is also listed in the JSAs list on Health and Safety Workspace. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\) and then selecting the **JSAs** list.
 
 **Parent Topic:**[Job safety analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-job-safety-analysis.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

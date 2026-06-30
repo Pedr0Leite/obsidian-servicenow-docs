@@ -28,21 +28,15 @@ Role required: sn\_prm.enterprise\_partner\_rel\_manager or sn\_prm.enterprise\_
 
     You can view all the information related to cases, child channel partners, sold products, or install base items associated with the channel partner.
 
-    To learn more about the components on the channel partner record, see [[channel-partner-components|Channel Partner components on workspace]].
+    To learn more about the components on the channel partner record, see [Channel Partner components on workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/channel-partner-components.md).
 
 
-**Parent Topic:**[[create-channel-partner-record|Create Channel Partner record]]
+**Parent Topic:**[Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[channel-partner-components|Channel Partner components on workspace]]
-- [[create-channel-partner-record|Create Channel Partner record]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]

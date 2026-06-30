@@ -14,7 +14,7 @@ breadcrumb: [Set up workforce, Configure, Field Service Management]
 
 # Configuring Field Service Capacity and Reservations Management
 
-Configure Field Service [[capacity-management|Capacity and Reservations Management]] to manage the distribution and assignment of the work [[capacity|capacity]] for work order tasks.
+Configure Field Service Capacity and Reservations Management to manage the distribution and assignment of the work capacity for work order tasks.
 
 ## Configuration overview
 
@@ -22,12 +22,12 @@ The steps for configuring Field Service Capacity and Reservations Management are
 
 1.  [Activate Field Service Capacity and Reservations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-management-plugin.md)
 
-    You can activate the Field Service Capacity and Reservations Management plugin \(com.snc.fsm\_capacity\_management\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role.
+    You can activate the Field Service Capacity and Reservations Management plugin \(com.snc.fsm\_capacity\_management\) for Field Service Management if you have the admin role.
 
-2.  [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md) to have the [[capacity-console|Capacity Console]] in the CSM/FSM Configurable workspace for capacity planners.
+2.  [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md) to have the Capacity Console in the CSM/FSM Configurable workspace for capacity planners.
 3.  [Capacity reservation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-reservations.md)
 
-    Create [[capacity-reservations|capacity reservation rules]] to use in the capacity definition.
+    Create capacity reservation rules to use in the capacity definition.
 
 4.  [Create capacity allocation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/allocate-schedule-for-capaity-definition.md)
 
@@ -59,16 +59,7 @@ The steps for configuring Field Service Capacity and Reservations Management are
 
 [View Capacity Usages information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/capacity-usage.md)
 
-[[capacity-management-components|Field Service Capacity and Reservations Management components]]
+[Field Service Capacity and Reservations Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-management-components.md)
 
-[[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]]
+[Field Service Territory Capacity Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-dashboard.md)
 
-## Related
-
-- [[capacity-management-components|Field Service Capacity and Reservations Management components]]
-- [[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[capacity|Capacity]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[capacity-console|Capacity Console]]
-- [[capacity-reservations|Capacity reservation rules]]

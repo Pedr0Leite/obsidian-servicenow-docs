@@ -18,13 +18,13 @@ Set signal actions to enable end users who receive a prompt through Virtual Agen
 
 ## Before you begin
 
-**Note:** Signal actions are used for Virtual Agent. [[employee-center-portal-overview|Employee Portal]] uses the action group for actions.
+**Note:** Signal actions are used for Virtual Agent. Employee Portal uses the action group for actions.
 
 Role required: sn\_pp.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Signal Actions**.
+1.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Signal Actions**.
 
 2.  Select **New**.
 
@@ -75,7 +75,4 @@ Option to activate the signal action record.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[employee-center-portal-overview|Employee portal]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

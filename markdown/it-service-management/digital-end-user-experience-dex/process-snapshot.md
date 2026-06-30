@@ -14,7 +14,7 @@ breadcrumb: [Incident diagnostics and suggested resolutions, DEX for service des
 
 # Reviewing top processes by resource usage in incident investigation with DEX
 
-Reviewing the top processes by CPU and memory usage on [[dex-landing|Digital End-User Experience]] \(DEX\) monitored [[dex-workspace-devices-tab|devices]] helps you identify processes causing device issues.
+Reviewing the top processes by CPU and memory usage on Digital End-User Experience \(DEX\) monitored devices helps you identify processes causing device issues.
 
 The Top processes by CPU and Memory usage section in the **Investigation** tab of incident records for DEX monitored devices displays the processes using the most CPU and memory resources on a device. When expanded, this section shows a graph with data points for snapshots captured during the selected time range. The X-axis of the graph shows the time and the Y-axis shows the CPU and memory usage percentages.
 
@@ -70,7 +70,4 @@ For time ranges that display snapshots of aggregated data, the average CPU and m
 
     For example, in the **Last 12 hours** time range with hourly data aggregation, Google Chrome Helper is listed as a top memory-using process in three snapshots within an hour. The process name and memory usage values from the three snapshots are combined into a single table entry. The Top 10 processes by Memory table might then display fewer than 10 processes.
 
-## Related
 
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]

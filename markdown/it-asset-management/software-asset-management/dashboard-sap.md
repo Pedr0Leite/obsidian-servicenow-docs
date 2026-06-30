@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Software Publisher Analytics dashboard for SAP in Software Asset Management classic
 
-View your license compliance position for SAP on the Software Publisher Analytics dashboard in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+View your license compliance position for SAP on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 
 Access the dashboard by navigating to **All** &gt; **Software Asset** &gt; **SAP Compliance and Optimization** &gt; **Overview**.
 
@@ -52,7 +52,7 @@ Software Model Result
 
 </td><td>
 
-Number of [[c_CreatingSoftwareModels|software models]] that are out of compliance.
+Number of software models that are out of compliance.
 
 </td></tr><tr><td>
 
@@ -248,7 +248,3 @@ Number of SAP users that have indirect access to the SAP system.Users are given 
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

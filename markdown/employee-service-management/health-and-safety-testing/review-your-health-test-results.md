@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.privacy\_consent\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-testing|Health and Safety Testing]]** &gt; **My test results**.
+1.  Navigate to **All** &gt; **Health and Safety Testing** &gt; **My test results**.
 
 2.  Select the test results that you would like to modify or review.
 
@@ -36,6 +36,3 @@ Role required: sn\_imt\_core.privacy\_consent\_user
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]

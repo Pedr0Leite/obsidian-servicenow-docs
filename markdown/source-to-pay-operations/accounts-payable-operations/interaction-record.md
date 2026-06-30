@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Interaction management in Accounts Payable Operations
 
-Interaction records in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] capture [[supplier|supplier]] requests received by email, chat, or phone and support case creation and investigation workflows.
+Interaction records in Accounts Payable Operations capture supplier requests received by email, chat, or phone and support case creation and investigation workflows.
 
 The **Details** tab in interaction record contains the following fields:
 
@@ -35,9 +35,9 @@ For more information, see [Create a new interaction](https://raw.githubuserconte
 .
 
 -   **[Create a new interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-interaction-record-in-apo.md)**  
-Create and manage interaction records in Accounts Payable Operations to track supplier requests received through chat, email, or the [[supplier-central|Supplier Collaboration Portal]].
+Create and manage interaction records in Accounts Payable Operations to track supplier requests received through chat, email, or the Supplier Collaboration Portal.
 -   **[Associate an interaction record in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/associate-an-interaction-record.md)**  
-Associate an interaction record to an existing invoice case in [[purch-order-mgmt-ws|Source-to-Pay workspace]] to track related communications and case activity in one place.
+Associate an interaction record to an existing invoice case in Source-to-Pay workspace to track related communications and case activity in one place.
 -   **[View interaction record in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/view-interaction-record.md)**  
 View interaction record details to analyze supplier interactions, take immediate actions, and link records to invoice cases requiring investigation.
 
@@ -56,7 +56,7 @@ View interaction record details to analyze supplier interactions, take immediate
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -70,10 +70,3 @@ View interaction record details to analyze supplier interactions, take immediate
 
 [Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[advanced-work-assignment|advanced work assignment]]

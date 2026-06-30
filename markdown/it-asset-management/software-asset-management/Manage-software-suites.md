@@ -39,7 +39,7 @@ For example, let's say you specify the **Inference percent** as 75% and set the 
 
 When a suite parent is detected during reconciliation, the child components don’t count for the individual license.
 
-**Note:** Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[c_CreatingSoftwareModels|Software Models]]**, but can’t administer all aspects of software models.
+**Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but can’t administer all aspects of software models.
 
 The rules of inference suite ranking are as follows:
 
@@ -49,7 +49,7 @@ The rules of inference suite ranking are as follows:
 -   If there’s still a tie, the suite with the lower downgrade is chosen. For example, Office 2016 and Office 2013 are both candidates and have the same number of installed components. However, because Office 2013 is the downgraded version of Office 2016, Office 2013 is chosen.
 -   If there’s still a tie, the one with the highest percentage of installed components is chosen.
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] supports hybrid and subscription-based software suites. In a hybrid software suite, either the suite parent or child component is subscription-based. In a subscription-based software suite, both the suite parent and child component are subscription-based. The license that you use to determine compliance is dependent on whether the suite parent and child component are subscription-based:
+Software Asset Management supports hybrid and subscription-based software suites. In a hybrid software suite, either the suite parent or child component is subscription-based. In a subscription-based software suite, both the suite parent and child component are subscription-based. The license that you use to determine compliance is dependent on whether the suite parent and child component are subscription-based:
 
 -   If only the suite parent is subscription-based, then all the child component installations are inferred as part of the suite parent. You can determine your license compliance using the suite parent license.
 -   If only the child component of a suite parent is subscription-based, then the instances of that child component aren’t inferred as part of the suite parent. You can determine your license compliance using the child component license.
@@ -57,8 +57,3 @@ The rules of inference suite ranking are as follows:
 
 **Parent Topic:**[Software Asset Management software suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk
 
 # Bulk edit for false positive in the Security Exposure Management Workspace
 
-Mark one or more records \(VITs, AVITs, CVITs, or TRs\) as false positive concurrently using the bulk edit feature from the [[sem-workspace-user-interface|Security Exposure Management Workspace]] instead of manually selecting each item.
+Mark one or more records \(VITs, AVITs, CVITs, or TRs\) as false positive concurrently using the bulk edit feature from the Security Exposure Management Workspace instead of manually selecting each item.
 
 ## Before you begin
 
@@ -119,7 +119,7 @@ Additional information
 
 </td><td>
 
-Any other necessary information. This information reflects in the Additional Information field in the [[vr-va-ws-overview-tab|Overview tab]] of the remediation task that is created for Closed-False positive request. If your false positive request is approved, this additional information appears as notes for both VIT and remediation task.**Note:** This field appears when you select the State as Deferred or Closed-False positive.
+Any other necessary information. This information reflects in the Additional Information field in the Overview tab of the remediation task that is created for Closed-False positive request. If your false positive request is approved, this additional information appears as notes for both VIT and remediation task.**Note:** This field appears when you select the State as Deferred or Closed-False positive.
 
 </td></tr><tr><td>
 
@@ -152,10 +152,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vr-va-ws-overview-tab|Overview tab]]

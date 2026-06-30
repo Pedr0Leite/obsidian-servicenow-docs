@@ -14,7 +14,7 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 # Domain separation and Legal Service Delivery
 
-Domain separation is supported for applications in [[legal-management-overview|Legal Service Delivery]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for applications in Legal Service Delivery. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -32,16 +32,16 @@ For more information on support levels, see [Application support for domain sepa
 
 Legal Service Delivery includes the following applications:
 
--   [[legal-request-management-landing-page|Legal Request Management]]
--   [[legal-matter-management-landing-page|Legal Matter Management]]
+-   Legal Request Management
+-   Legal Matter Management
 -   [Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-landing-page.md)
--   [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
--   [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+-   Legal Conflict of Interest
+-   Legal Digital Forensics
 -   [Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md)
 -   [Legal Investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-landing-page.md)
--   [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
+-   Legal Simple Contracts
 -   [Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
--   [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]
+-   Legal Stock Preclearance
 
 All tables installed with the following applications can be domain-separated:
 
@@ -66,12 +66,3 @@ All tables installed with the following applications can be domain-separated:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer and monitor API data, API Insights, Configuration Manage
 
 # Monitoring APIs and assessing data quality with API Insights
 
-The Overview tab in the [[api-insights|API Insights]] workspace provides a centralized view of data ingestion activities and integration health.
+The Overview tab in the API Insights workspace provides a centralized view of data ingestion activities and integration health.
 
 \[Omitted image "api-insights-overview.png"\] Alt text: API Insights overview tab.
 
@@ -33,7 +33,7 @@ For examples of how different people in your organization would use this workspa
 |User|Workspace use|
 |----|-------------|
 |Enterprise architect|Search for APIs, compare APIs, request access to APIs, and address data issues.|
-|Enterprise architect administrator|Manage API Insights settings, including API creation tools, business context relationship models, and [[enable-ownership-group|ownership groups]].|
+|Enterprise architect administrator|Manage API Insights settings, including API creation tools, business context relationship models, and ownership groups.|
 
 ## Features
 
@@ -234,8 +234,3 @@ Overview of the APIs managed by a team, based on the group associated with the l
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[api-insights|API Insights]]
-- [[enable-ownership-group|Ownership groups]]

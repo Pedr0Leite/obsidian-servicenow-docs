@@ -14,7 +14,7 @@ breadcrumb: [Using ITSM Virtual Agent pre-built topics, ITSM Virtual Agent, IT S
 
 # Reusable ITSM Virtual Agent pre-built topic blocks
 
-Reuse topic blocks to perform common functions in [[itsm-virtual-agent|ITSM Virtual Agent]] conversations, such as creating an incident or performing a search.
+Reuse topic blocks to perform common functions in ITSM Virtual Agent conversations, such as creating an incident or performing a search.
 
 Use the **Type** list on the Topics page in Virtual Agent Designer to sort by **Topic Blocks**. For detailed information about topic blocks, see [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/topic-blocks-overview.md).
 
@@ -359,6 +359,3 @@ ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Online. Using
 
 **Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

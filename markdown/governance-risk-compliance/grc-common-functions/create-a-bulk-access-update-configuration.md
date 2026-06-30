@@ -14,7 +14,7 @@ breadcrumb: [Manage Entity Based Access, Entity Based Access, Common GRC feature
 
 # Set access restrictions using an entity based record access update utility
 
-Set access restrictions for the existing records in bulk by using the [[entity-based-access-playbook|Entity based record access update utility]] guided-experience. Use the workflow to enable or disable access to record types.
+Set access restrictions for the existing records in bulk by using the Entity based record access update utility guided-experience. Use the workflow to enable or disable access to record types.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The system provides real-time status tracking of update operations, categorized 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity based record access update utility**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity based record access update utility**.
 
 2.  Select **New**.
 
@@ -36,7 +36,7 @@ The system provides real-time status tracking of update operations, categorized 
 
     1.  Select the entity scope from the **Make entity scope selection based on** drop-down list.
 
-    2.  Select entities, [[entity-type-in-risk-ws|entity types]], or [[entity-class-in-risk-ws|entity classes]].
+    2.  Select entities, entity types, or entity classes.
 
     3.  Mark **Select downstream entities also** if you want to include the downstream entities in scoping.
 
@@ -73,9 +73,3 @@ Entity-based restrictions are enabled or disabled at the record level for the sc
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access-playbook|Entity based record access update utility]]
-- [[entity-based-access|Entity Based Access]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class-in-risk-ws|Entity classes]]

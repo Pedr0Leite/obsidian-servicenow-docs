@@ -14,7 +14,7 @@ breadcrumb: [Task workflow activities, Workflow activities reference, Workflow a
 
 # Catalog Task workflow activity
 
-The **Catalog Task** activity creates a [[service-catalog|service catalog]] task record.
+The **Catalog Task** activity creates a service catalog task record.
 
 **Note:** This activity is only available when the workflow runs on a table that extends Task.
 
@@ -282,6 +282,3 @@ The activity state tells the workflow engine what to do with the activity.
 
 **Parent Topic:**[Task workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_TaskActivities.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

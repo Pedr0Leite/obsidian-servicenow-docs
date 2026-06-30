@@ -15,7 +15,7 @@ breadcrumb: [Discovery for data-center virtualization, Discovery, ITOM Visibilit
 
 # Discovery for VMware virtualization
 
-A [[r-discovery|Discovery]] schedule for VMware virtualization discovers vCenter and ESX hosts and individual ESXi hosts that manage VMs and related components without a vCenter.
+A Discovery schedule for VMware virtualization discovers vCenter and ESX hosts and individual ESXi hosts that manage VMs and related components without a vCenter.
 
 The following options are available for discovering VMware vCenter data:
 
@@ -26,6 +26,3 @@ Use standalone ESXi discovery to discover VMware data without a vCenter.
 
 **Note:** See the knowledge article [KB0687582](https://support.servicenow.com/kb_view.do?sysparm_article=KB0687582) for information on model\_id and manufacturer.
 
-## Related
-
-- [[r-discovery|Discovery]]

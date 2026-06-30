@@ -15,7 +15,7 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Delete a unified service
 
-Delete a unified service using the [[sm-dashboard|Service Mapping workspace]].
+Delete a unified service using the Service Mapping workspace.
 
 ## About this task
 
@@ -25,7 +25,7 @@ Delete a unified service using the [[sm-dashboard|Service Mapping workspace]].
 
 You must have at least Australia platform version installed.
 
-You must have the latest version of [[c_ServiceMappingOverview|Service Mapping]] Plus.
+You must have the latest version of Service Mapping Plus.
 
 [Create a service instance from various data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-create-service-instance.md)
 
@@ -57,7 +57,3 @@ The service is deleted. The UI is redirected to the home page. Child services re
 
 [Edit a unified service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-edit-unified-service.md)
 
-## Related
-
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]

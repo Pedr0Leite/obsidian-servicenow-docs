@@ -12,11 +12,11 @@ breadcrumb: [Order Management for providers with Service Exchange, Integrate, Sa
 
 # Configuring Service Exchange Order Management for Providers
 
-Configure the Service Exchange [[explore-order-management|Order Management]] for Providers application, which enables providers to use Order Management to create and fulfill product orders over Service Exchange. Providers publish the product offerings and service specifications as remote catalog items so that consumers can order from the Service Catalog on their own instance.
+Configure the Service Exchange Order Management for Providers application, which enables providers to use Order Management to create and fulfill product orders over Service Exchange. Providers publish the product offerings and service specifications as remote catalog items so that consumers can order from the Service Catalog on their own instance.
 
 ## Configuration overview
 
-Follow these tasks to set up the Service Exchange Order Management for Providers application, which uses Order Management to [[som-create-product-offering|create product offerings]] and service specification and publish them ServiceNow in your provider instance as remote record producers. Service Exchange admins can then activate these remote record producers to make the products and services available from the Service Catalog on consumer instances.
+Follow these tasks to set up the Service Exchange Order Management for Providers application, which uses Order Management to create product offerings and service specification and publish them ServiceNow in your provider instance as remote record producers. Service Exchange admins can then activate these remote record producers to make the products and services available from the Service Catalog on consumer instances.
 
 <table id="table_n2l_dcy_qxb"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Admin
 
 </td></tr><tr><td>
 
-[[install-service-bridge-om-providers|Install Service Exchange Order Management for Providers]]
+[Install Service Exchange Order Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-service-bridge-om-providers.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Admin
 
 </td></tr><tr><td>
 
-[[create-sb-product-offerings|Create a product offering for a remote catalog item]]
+[Create a product offering for a remote catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-sb-product-offerings.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Product catalog admin or manager
 
 </td></tr><tr><td>
 
-[[create-sb-service-specs|Create a service specification for a remote catalog item]]
+[Create a service specification for a remote catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-sb-service-specs.md)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Product catalog admin or manager
 
 </td></tr><tr><td>
 
-[[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]]
+[Associate consumer criteria to a remote record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-criteria-remote-catalog.md)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Review the remote record producer for managing inventory and associate the custo
 
 </td></tr><tr><td>
 
-[[activate-entitlements-sb-consumer|Activate the remote record producer]]
+[Activate the remote record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-entitlements-sb-consumer.md)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Service Exchange consumer admin
 
 </td></tr><tr><td>
 
-[[retire-product-offer|Retire a remote catalog item]]
+[Retire a remote catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/retire-product-offer.md)
 
 </td><td>
 
@@ -140,14 +140,3 @@ Product catalog admin or manager
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[install-service-bridge-om-providers|Install Service Exchange Order Management for Providers]]
-- [[create-sb-product-offerings|Create a product offering for a remote catalog item]]
-- [[create-sb-service-specs|Create a service specification for a remote catalog item]]
-- [[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]]
-- [[activate-entitlements-sb-consumer|Activate the remote record producer]]
-- [[retire-product-offer|Retire a remote catalog item]]
-- [[explore-order-management|Order management]]
-- [[som-create-product-offering|Create product offerings]]

@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_user and now\_assist\_panel\_user
 
 ## Procedure
 
-1.  On the [[sg-workspace|Service Graph Workspace]], select the search icon \[Omitted image "sidebar-search-icon.png"\] Alt text: in the side panel.
+1.  On the Service Graph Workspace, select the search icon \[Omitted image "sidebar-search-icon.png"\] Alt text: in the side panel.
 
 2.  On the **Search** tab, enter the search text in the text box and then press **Enter** or select the search icon.
 
@@ -66,7 +66,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d285102e223">
 
@@ -83,7 +83,3 @@ If you think that data might have changed after you viewed the response, select 
 
 [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[email|Email]]

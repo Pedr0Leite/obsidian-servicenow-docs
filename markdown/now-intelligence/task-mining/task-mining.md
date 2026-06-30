@@ -32,7 +32,7 @@ Task Mining helps process owners collect and analyze workstation activities to u
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[task-mining-key-terms|Task Mining key terms]] and background information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Task Mining key terms and background information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -41,6 +41,3 @@ Task Mining helps process owners collect and analyze workstation activities to u
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[task-mining-key-terms|Task Mining key terms]]

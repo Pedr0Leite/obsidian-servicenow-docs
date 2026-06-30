@@ -14,7 +14,7 @@ breadcrumb: [Naming patterns in inventory templates, Network inventory templates
 
 # Naming pattern validation
 
-The TNI Naming Application validates naming patterns at two distinct moments — once when you save a pattern, and again when [[inventory-template-overview-tab|the Inventory Template Overview tab]] renders the resolved hierarchy.
+The TNI Naming Application validates naming patterns at two distinct moments — once when you save a pattern, and again when the Inventory Template Overview tab renders the resolved hierarchy.
 
 ## Two validation moments
 
@@ -71,6 +71,3 @@ When the Inventory Template Overview encounters an unresolvable variable, it sub
 
 [Naming patterns in inventory templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/naming-patterns-in-inventory-templates.md)
 
-## Related
-
-- [[inventory-template-overview-tab|The Inventory Template Overview tab]]

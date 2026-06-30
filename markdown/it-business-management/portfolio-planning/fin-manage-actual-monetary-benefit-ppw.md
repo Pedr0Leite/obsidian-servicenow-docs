@@ -23,7 +23,7 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select portfolio plan.
 
 2.  From the list of portfolio plans, select a portfolio plan.
 
@@ -69,6 +69,4 @@ Monetary Benefit Plan Breakdown side-panel is displayed.
 
 6.  Enter the actuals benefits resulted from the work execution in the **Actual benefit** field and select **Save**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

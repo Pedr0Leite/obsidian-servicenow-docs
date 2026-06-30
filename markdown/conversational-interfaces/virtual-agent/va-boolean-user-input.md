@@ -15,9 +15,9 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Boolean user input control
 
-Use the Boolean user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to present a Yes/No prompt to the user.
+Use the Boolean user input control in a Virtual Agent topic to present a Yes/No prompt to the user.
 
-Boolean user input controls prompt the user to answer a Yes/No question, and store the response as a string with a value of true or false. Use this value in topic utilities, such as the prompted [[va-decision|Decision utility]], to branch the topic flow based on the answer.
+Boolean user input controls prompt the user to answer a Yes/No question, and store the response as a string with a value of true or false. Use this value in topic utilities, such as the prompted Decision utility, to branch the topic flow based on the answer.
 
 When you place this control on the canvas, a window appears with the header `Add a decision node?` The window message reads `A decision node will be added following this node` and has **No** and **Yes** options. If you select **No**, you must add a Decision utility to complete the Boolean. You can customize the names of the output values on the Decision node. For more information, see [Decision utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-decision.md).
 
@@ -306,7 +306,3 @@ Input prompt
 
 **Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-decision|Decision utility]]

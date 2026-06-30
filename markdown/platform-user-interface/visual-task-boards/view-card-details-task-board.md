@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Open an existing task board.
 
@@ -41,6 +41,3 @@ Role required: none
 
 **Parent Topic:**[Visual Task Board accessibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/accessibility-vtb.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -22,7 +22,7 @@ Role required: pki\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]]** &gt; **Credentials**.
+1.  Navigate to **All** &gt; **Discovery** &gt; **Credentials**.
 
 2.  Select **New**.
 
@@ -105,6 +105,4 @@ Used for account binding and is provided by the CA.**Note:** Applicable for CA T
 </td></tr></tbody>
 </table>5.  Select **Update**.
 
-## Related
 
-- [[r-discovery|Discovery]]

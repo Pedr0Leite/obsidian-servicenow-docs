@@ -28,7 +28,7 @@ You can interact with Now Assist directly in your Doc to create new content, add
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
@@ -115,6 +115,3 @@ Whether the content in the Doc is added manually or generated using Now Assist, 
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

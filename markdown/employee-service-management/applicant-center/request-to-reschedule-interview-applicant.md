@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 ## Procedure
 
-1.  Navigate to [[applicant-center-concept|Applicant Center]].
+1.  Navigate to Applicant Center.
 
     For more information, see [Access the Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/view-applicant-center.md).
 
-2.  On the [[applicant-portal-home-page|Applicant Center home page]], under the Keep track of what’s going on section, locate the proposed or scheduled interview.
+2.  On the Applicant Center home page, under the Keep track of what’s going on section, locate the proposed or scheduled interview.
 
 3.  Select **Request reschedule**.
 
@@ -39,7 +39,3 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[applicant-portal-home-page|Applicant Center home page]]

@@ -14,7 +14,7 @@ breadcrumb: [Create an event profile, Splunk Enterprise Event Ingestion integrat
 
 # Preview security incident for the Splunk Enterprise Event Ingestion integration
 
-After you complete the [[mapping-logrhythm|mapping]] step, preview the values that you mapped in a ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] \(SIR\) security incident. This preview step permits you to verify that you have mapped all the alert fields that you want displayed on the security incident.
+After you complete the mapping step, preview the values that you mapped in a ServiceNow AI Platform® Security Incident Response \(SIR\) security incident. This preview step permits you to verify that you have mapped all the alert fields that you want displayed on the security incident.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Preview a security incident and edit the mapping again as required to fix fields
 
     \[Omitted image "splunk226\_si-preview.png"\] Alt text: Work note and Description fields on the security incident preview.
 
-    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or [[identity|identity]] records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
+    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
 7.  After you have fixed any errors and verified that the fields are the way you want them, choose one option to continue.
 
@@ -112,8 +112,3 @@ If no error messages are displayed, and you are satisfied with the field mapping
 
 **Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[identity|Identity]]

@@ -14,12 +14,12 @@ breadcrumb: [View links between system elements and URLs, Content Management int
 
 # Element link examples
 
-View examples that show how to [[t_CreateANewSite|create a site]] pointing to various system data in several different data tables.
+View examples that show how to create a site pointing to various system data in several different data tables.
 
 The following examples illustrate setting up access to the following system data.
 
 -   Knowledge: building a versatile front end for a knowledge base, from overview page to variations on the list definitions used in the site.
--   Catalog: ideas for a business-to-consumer shopping experience that pulls various items and [[form-configurable-workspace|forms]] from your service catalog.
+-   Catalog: ideas for a business-to-consumer shopping experience that pulls various items and forms from your service catalog.
 -   Service Portfolio: using the business service portfolio to contain all defined services offered by your organization.
 -   Featured reports: methods for linking to the most important reports.
 
@@ -27,7 +27,3 @@ The following examples illustrate setting up access to the following system data
 
 **Parent Topic:**[View links between system elements and URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_LinkToContent.md)
 
-## Related
-
-- [[t_CreateANewSite|Create a site]]
-- [[form-configurable-workspace|Forms]]

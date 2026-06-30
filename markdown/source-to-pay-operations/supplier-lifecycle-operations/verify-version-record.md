@@ -14,11 +14,11 @@ breadcrumb: [Enable M2M mapping between supplier contact and suppliers, Configur
 
 # Verify version record
 
-After the fix script is created and run to [[enable-m2m-supplier-contacts|enable M2M mapping between supplier contact and suppliers]], a version record must be created.
+After the fix script is created and run to enable M2M mapping between supplier contact and suppliers, a version record must be created.
 
 ## Before you begin
 
-Verify that the application scope is set to [[supplier-common|Supplier Common Architecture]] by selecting the globe icon from the upper-right pane.
+Verify that the application scope is set to Supplier Common Architecture by selecting the globe icon from the upper-right pane.
 
 Role required: admin
 
@@ -35,7 +35,7 @@ Role required: admin
 
 ## What to do next
 
-[[remove-unique-constraint|Remove the unique constraint from Email Domain]].
+Remove the unique constraint from Email Domain.
 
 **Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md)
 
@@ -46,8 +46,3 @@ Role required: admin
 
 [Remove the unique constraint from Email Domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-unique-constraint.md)
 
-## Related
-
-- [[enable-m2m-supplier-contacts|Enable M2M mapping between supplier contact and suppliers]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[remove-unique-constraint|Remove the unique constraint from Email Domain]]

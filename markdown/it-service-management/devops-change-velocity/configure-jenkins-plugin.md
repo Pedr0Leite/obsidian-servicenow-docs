@@ -14,7 +14,7 @@ breadcrumb: [Additional information - Jenkins, Jenkins, Integrate, DevOps Change
 
 # Configure Jenkins plugin
 
-Configure Jenkins to send real time notifications for your pipeline executions to [[devops-landing-page-new|DevOps Change Velocity]].
+Configure Jenkins to send real time notifications for your pipeline executions to DevOps Change Velocity.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ In the ServiceNow DevOps Configuration section in Jenkins, the values in the **N
 
 If you choose to automatically configure a tool from ServiceNow, then the existing set up for ServiceNow DevOps Configuration will be over-written in Jenkins.
 
-If [[devops-config-landing-page|DevOps Config]] is installed, you will only be able to configure Jenkins manually.
+If DevOps Config is installed, you will only be able to configure Jenkins manually.
 
 ### Procedure
 
@@ -221,7 +221,4 @@ Select the check box to enable tracking for pull request pipelines.
     -   If you've added the secret token, on successful connection, you will see the message: `Connection using 'Secret Credentials' is successful`.
 7.  Select **Apply** to apply the changes and select **Save**.
 
-## Related
 
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[devops-config-landing-page|DevOps Config]]

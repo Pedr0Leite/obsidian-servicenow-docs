@@ -14,7 +14,7 @@ breadcrumb: [Configuring SCCM, Client software distribution from SCCM, Client So
 
 # Configure the Application Administrator role on the SCCM server
 
-To deploy software using ServiceNow® [[c_ClientSoftwareDistribution|Client Software Distribution]] \(CSD\), ensure that an SCCM administrative user has the correct permissions to deploy software and that PowerShell is properly configured.
+To deploy software using ServiceNow® Client Software Distribution \(CSD\), ensure that an SCCM administrative user has the correct permissions to deploy software and that PowerShell is properly configured.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ These instructions are for Microsoft 2012 R2 Server.
 
 7.  Log into SCCM as the user with the Application Administrator role.
 
-8.  Open the menu from the upper left corner of the console and select **[[c_Connect|Connect]] via Windows PowerShell**.
+8.  Open the menu from the upper left corner of the console and select **Connect via Windows PowerShell**.
 
 9.  Ensure that the user can access the CM console.
 
@@ -49,7 +49,3 @@ These instructions are for Microsoft 2012 R2 Server.
 
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[c_Connect|Connect]]

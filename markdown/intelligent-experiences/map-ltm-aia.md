@@ -24,7 +24,7 @@ The mapping of LTM categories is done directly while creating an AI agent at the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage** &gt; **AI agents**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage** &gt; **AI agents**.
 
 2.  Navigate to the Define the specialty page of an AI agent form.
 
@@ -32,7 +32,7 @@ The mapping of LTM categories is done directly while creating an AI agent at the
 
 3.  In the manage long-term memory section, select categories that you want to map to your AI agent.\[Omitted image "map-ltm-category.png"\] Alt text: Select your LTM categories to map to the AI agent.
 
-    You will see the list of categories that were created in the AI Agent Memory Categories page. For more information, see [[create-ltm-category|Create long-term memory category]].
+    You will see the list of categories that were created in the AI Agent Memory Categories page. For more information, see [Create long-term memory category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ltm-category.md).
 
 4.  Select **Save and continue**.
 
@@ -41,7 +41,3 @@ The mapping of LTM categories is done directly while creating an AI agent at the
 
 The selected categories are mapped to your AI agent.
 
-## Related
-
-- [[create-ltm-category|Create long-term memory category]]
-- [[ai-agent-studio|AI Agent Studio]]

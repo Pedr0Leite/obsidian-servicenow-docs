@@ -14,7 +14,7 @@ breadcrumb: [Customize calendar reports, Administering reports, Reporting, Repor
 
 # Customize start and end dates
 
-You can configure [[c_CalendarReport|calendar reports]] to support the spanning of multi-day events across calendar cells.
+You can configure calendar reports to support the spanning of multi-day events across calendar cells.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ The code looks for an ending field with the same name as the start date field, e
 
 [Change highlighting of calendar report events]()
 
-## Related
-
-- [[c_CalendarReport|Calendar reports]]

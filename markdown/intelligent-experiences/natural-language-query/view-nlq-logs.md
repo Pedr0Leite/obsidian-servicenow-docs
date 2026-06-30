@@ -22,7 +22,7 @@ Role required: nlq\_admin, pa\_analyst, or admin
 
 ## About this task
 
-Every [[natural-language-query|natural language query]] is logged in the **NLQ Query Logs** table \[nlq\_query\_log\]. Each log entry provides details such as the table that was queried, whether the query succeeded, and how the results were generated. Other available fields include the following.
+Every natural language query is logged in the **NLQ Query Logs** table \[nlq\_query\_log\]. Each log entry provides details such as the table that was queried, whether the query succeeded, and how the results were generated. Other available fields include the following.
 
 -   Output Source: how the results were generated. The value **BNF** indicates a rules-based method. The value **GAI** indicates the Now LLM Service \(fallback\) method.
 -   Source: the location from which the query was initiated. The value **AC** indicates Analytics Overview. The value **CMDB\_WS** indicates CMDB Workspace.
@@ -54,6 +54,3 @@ Based on your users' attempted queries, consider adding more [synonyms](https://
 
 [View NLQ Table Guesser logs]()
 
-## Related
-
-- [[natural-language-query|Natural Language Query]]

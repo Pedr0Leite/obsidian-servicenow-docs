@@ -20,18 +20,12 @@ The way that the conditions in an SLA definition are interpreted, to control tra
 
 **SLAConditionBase** is the default set of SLA condition rules.
 
-Navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Administration** &gt; **SLA Condition Rules** to see a list of SLA condition records.
+Navigate to **Service Level Management** &gt; **Administration** &gt; **SLA Condition Rules** to see a list of SLA condition records.
 
 -   **[SLAConditionBase script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_SLAConditionBase.md)**  
-The [[r_SLAConditionBase|SLAConditionBase script]] include implements the default [[r_SLATransitions|SLA transitions]].
+The SLAConditionBase script include implements the default SLA transitions.
 -   **[SLAConditionSimple script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_SLAConditionSimple.md)**  
-The [[r_SLAConditionSimple|SLAConditionSimple script]] include provides an example modification of default SLA condition processing.
+The SLAConditionSimple script include provides an example modification of default SLA condition processing.
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[r_SLAConditionBase|SLAConditionBase script]]
-- [[r_SLATransitions|SLA transitions]]
-- [[r_SLAConditionSimple|SLAConditionSimple script]]

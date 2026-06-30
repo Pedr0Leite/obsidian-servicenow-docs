@@ -11,7 +11,7 @@ reading_time_minutes: 3
 
 # Now Assist for Vault
 
-With Now Assist for Vault, you can generate custom data patterns, check role access for an encrypted column, and schedule [[data-discovery-jobs|data discovery jobs]]. Now Assist for Vault can make it easier for you to perform common tasks without going to multiple systems.
+With Now Assist for Vault, you can generate custom data patterns, check role access for an encrypted column, and schedule data discovery jobs. Now Assist for Vault can make it easier for you to perform common tasks without going to multiple systems.
 
 ## Get started
 
@@ -59,7 +59,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 
 
--   **\[Omitted image "dcx-icon.svg"\] [[best-practices|Best Practices]]**
+-   **\[Omitted image "dcx-icon.svg"\] Best Practices**
 
 
 
@@ -85,14 +85,9 @@ This application uses artificial intelligence \(AI\) and machine learning, which
 
 ## Data processing
 
-This application requires data to be transferred from ServiceNow customers' individual instances to a centralized ServiceNow environment, which may be located in a different data center region from the one where your instance is, and potentially to a third-party cloud provider, such as Microsoft Azure. This data is handled per ServiceNow's internal [[ca-policies|policies]] and procedures, including our policies available through our [CORE Compliance Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0564067).
+This application requires data to be transferred from ServiceNow customers' individual instances to a centralized ServiceNow environment, which may be located in a different data center region from the one where your instance is, and potentially to a third-party cloud provider, such as Microsoft Azure. This data is handled per ServiceNow's internal policies and procedures, including our policies available through our [CORE Compliance Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0564067).
 
 ## Data collection
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[best-practices|Best Practices]]
-- [[ca-policies|Policies]]

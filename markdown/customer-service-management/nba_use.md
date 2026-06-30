@@ -12,7 +12,7 @@ breadcrumb: [Using the Recommended Actions application, Automate and optimize, U
 
 # Use Recommended Actions to resolve cases
 
-As an agent, you can use [[configure-nba|Recommended Actions]] to help address customer issues and resolve cases quickly.
+As an agent, you can use Recommended Actions to help address customer issues and resolve cases quickly.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **[[csm-workspaces-configure|CSM Configurable Workspace]]**.
+1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **CSM Configurable Workspace**.
 
 2.  Open a customer service record that you want to work on.
 
@@ -73,7 +73,7 @@ A recommendation for handling the case, for example: -   View and attach a knowl
 -   Add link in work note
 -   Copy link
 -   Submit an external request for an item, such as a credit report or loan application.
--   [[create-work-orders|Create a work order]] to handle the case.
+-   Create a work order to handle the case.
 
 
 </td><td>
@@ -89,8 +89,4 @@ The system performs the action. For example:-   Knowledge article guidance: The 
 
 6.  Continue reviewing the Recommended Actions cards and accept or dismiss them as needed to resolve the issue.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[create-work-orders|Create a work order]]

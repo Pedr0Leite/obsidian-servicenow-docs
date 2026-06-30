@@ -14,13 +14,13 @@ breadcrumb: [Contract Management, IT Asset Management]
 
 # Contract Management use
 
-Users with the contract\_manager role can use the [[c_ContractManagement|Contract Management]] application to create various types of [[c_Contracts|contracts]], such as leases, warranties, maintenance, and service.
+Users with the contract\_manager role can use the Contract Management application to create various types of contracts, such as leases, warranties, maintenance, and service.
 
 You can add the following information to contracts.
 
 -   Assets covered by the contract
 -   Users covered by the contract
--   [[c_TermsAndConditions|Terms and conditions]] associated with the contract
+-   Terms and conditions associated with the contract
 -   Other documents related to the contract
 
 Track the various stages of a contract from draft to closure by viewing contract history and running reports. Adjust, extend, and renew active contracts.
@@ -45,8 +45,3 @@ A contract is a binding agreement between two parties.
 
 [Domain separation and Contract Management]()
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_Contracts|Contracts]]
-- [[c_TermsAndConditions|Terms and conditions]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Configure third-party discovery sources for Software Asset Management
 
-Set up a third-party discovery source for [[c_SoftwareAssetMgmt|Software Asset Management]] to populate the Software Installation \[cmdb\_sam\_sw\_install\] table with the software found in your environment.
+Set up a third-party discovery source for Software Asset Management to populate the Software Installation \[cmdb\_sam\_sw\_install\] table with the software found in your environment.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: sam\_developer
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -12,34 +12,24 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Configure Core Business Suite using guided setup
 
-Configure [[cbs-landing|Core Business Suite]] business units using guided setup in the configuration console.
+Configure Core Business Suite business units using guided setup in the configuration console.
 
 To move your Core Business Suite configurations to a new instance using an update set, see [Manage update set for Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-update-set.md).
 
 **Note:** Some instance-specific tasks might require manual configuration after moving to the new instance.
 
--   **[[config-human-resources|Configure Human Resources]]**  
+-   **[Configure Human Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-human-resources.md)**  
 Configure the Human Resources \(HR\) business unit to manage payroll inquiries, benefits questions, and general HR requests.
--   **[[config-legal|Configure Legal]]**  
+-   **[Configure Legal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-legal.md)**  
 Configure the Legal business unit to submit and manage legal requests.
--   **[[config-finance|Configure Finance]]**  
+-   **[Configure Finance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-finance.md)**  
 Configure the Finance business unit to enable employees to submit and manage finance‑related requests.
--   **[[config-health-safety|Configure Health and Safety]]**  
+-   **[Configure Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-health-safety.md)**  
 Configure the Health and Safety business unit to enable employees to submit and manage health and safety‑related requests.
--   **[[config-workplace|Configure Workplace Services]]**  
+-   **[Configure Workplace Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-workplace.md)**  
 Configure the Workplace Services business unit to manage workplace service requests and space arrangements.
--   **[[config-source-to-pay|Configure Source-to-Pay]]**  
+-   **[Configure Source-to-Pay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-source-to-pay.md)**  
 Configure the Source‑to‑Pay business unit to manage procurement, supplier, and invoice requests from submission to fulfillment.
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[config-human-resources|Configure Human Resources]]
-- [[config-legal|Configure Legal]]
-- [[config-finance|Configure Finance]]
-- [[config-health-safety|Configure Health and Safety]]
-- [[config-workplace|Configure Workplace Services]]
-- [[config-source-to-pay|Configure Source-to-Pay]]
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

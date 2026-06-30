@@ -21,10 +21,7 @@ The system administrator can configure the settings for the notifications that a
 -   After 5 days, the customer receives a reminder message about the resolved case on the Customer Service Portal: **This case is pending solution acceptance. It will be auto closed if you do not take action.**
 -   If the customer doesn’t take any action after 10 days, the system automatically closes the case and adds the following message to the case: **This case was auto closed.**
 
-This feature uses the **Auto Close Resolved Cases** Flow Designer flow. For more information, see [[auto-close-customer-service-case|Automatically close customer service cases]].
+This feature uses the **Auto Close Resolved Cases** Flow Designer flow. For more information, see [Automatically close customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/auto-close-customer-service-case.md).
 
 **Note:** The **Auto Close Resolved Cases** flow isn’t active by default.
 
-## Related
-
-- [[auto-close-customer-service-case|Automatically close customer service cases]]

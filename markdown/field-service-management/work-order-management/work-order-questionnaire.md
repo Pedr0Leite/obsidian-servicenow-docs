@@ -14,13 +14,13 @@ breadcrumb: [Questionnaires, Work order tasks, Set up work orders and tasks, Con
 
 # Configuring survey-based work order questionnaires
 
-Admin can create [[survey-based-questionnaires|survey-based questionnaires]] and associate them with work order tasks.
+Admin can create survey-based questionnaires and associate them with work order tasks.
 
 The Survey Designer tool is used to create the questionnaires.
 
 When a work order or task has an associated questionnaire, the **Questionnaires** button appears at the top of the form. Selecting this button displays the Questionnaires page, where the agent can complete the questionnaire or check-list.
 
-**Note:** The Survey Designer tool for [[fsm-application-landing-page|Field Service Management]] doesn't support the functionality of retaking a questionnaire.
+**Note:** The Survey Designer tool for Field Service Management doesn't support the functionality of retaking a questionnaire.
 
 ## Demo questionnaire
 
@@ -33,7 +33,7 @@ When defining trigger conditions, the operator **changes to** means that the sta
 This demo questionnaire works as follows:
 
 1.  The dispatcher assigns a work order task to an agent.
-2.  The agent accepts the task and selects **[[t_StartWork|Start Work]]** on the task form.
+2.  The agent accepts the task and selects **Start Work** on the task form.
 3.  The task state changes to Work in Progress.
 4.  The **Questionnaires** button appears in the task form header.
 5.  The agent selects **Questionnaires** to display one or more available questionnaires for the task.
@@ -63,8 +63,3 @@ The steps for setting up work order questionnaires are:
 
 [Create a questionnaire for a work order or task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-questionnaire-for-work-order.md)
 
-## Related
-
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[t_StartWork|Start work]]

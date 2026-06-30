@@ -14,7 +14,7 @@ breadcrumb: [Risk Monitoring &amp; Indicators, Audit Management Overview, Audit 
 
 # Engagement Overview
 
-The Engagement Overview is contained in the [[c_GRCAudits|Audit Management]] application and provides an executive view into audit results, engagement breakdowns by task, and allows areas of concern to be identified quickly.
+The Engagement Overview is contained in the Audit Management application and provides an executive view into audit results, engagement breakdowns by task, and allows areas of concern to be identified quickly.
 
 The Engagement Overview module displays audit information that is tailored to the role of the user.
 
@@ -39,6 +39,3 @@ Users with the Audit Administrator, Audit User, and Audit Manager roles view the
 
 **Parent Topic:**[Manage GRC key risk and control indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/continuous-monitoring.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

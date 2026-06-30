@@ -14,7 +14,7 @@ breadcrumb: [Integration for Employee Experience, Setup for integrating pre-publ
 
 # Sending notifications to employees using Microsoft Teams
 
-Integrate Microsoft Teams with the [[employee-center-landing-page|Employee Center]] to enable content managers to send notifications to employees through Microsoft Teams.
+Integrate Microsoft Teams with the Employee Center to enable content managers to send notifications to employees through Microsoft Teams.
 
 Send messages on Microsoft Teams to drive employee action, such as to read an article, watch a video, or perform a task.
 
@@ -24,7 +24,7 @@ The Employee Center contains two features, which content managers can use to sen
 
 -   **[Creating employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-content.md)**
 
-    Content Publishing provides a workflow to create and publish [[eslate-employee-comms|employee communications]].
+    Content Publishing provides a workflow to create and publish employee communications.
 
 -   **[Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)**
 
@@ -35,10 +35,10 @@ The Employee Center contains two features, which content managers can use to sen
 
 You must have the following plugins installed in your environment:
 
--   [[employee-center-pro-landing|Employee Center Pro]] \[com.snc.employee\_center\_pro\]
+-   Employee Center Pro \[com.snc.employee\_center\_pro\]
 -   IT Service Management for Microsoft 365 \[sn\_now\_teams\_it\]
 -   Glide Virtual Agent \[com.glide.cs.chatbot\]
--   [[hr-service-delivery|HR Service Delivery]] for Microsoft 365 \[sn\_now\_teams\_hr\]
+-   HR Service Delivery for Microsoft 365 \[sn\_now\_teams\_hr\]
 -   Conversational Integration with Microsoft Teams \[sn\_va\_teams\]
 -   Content Publishing \[sn\_cd\]
 -   Content Experiences \[sn\_ca\]
@@ -60,9 +60,3 @@ If you have the admin role, you can create campaigns using the Content Experienc
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[eslate-employee-comms|Employee communications]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]

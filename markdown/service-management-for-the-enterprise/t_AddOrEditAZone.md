@@ -24,7 +24,7 @@ There are no restrictions on zones. They can cross campuses and buildings. In ad
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Zone**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Zone**.
 
 2.  Continue with one of the following options.
 
@@ -48,9 +48,5 @@ There are no restrictions on zones. They can cross campuses and buildings. In ad
     |**To update the zone details**|Click **Update**.|
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

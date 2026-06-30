@@ -26,7 +26,7 @@ Conflict detection identifies conflicts for any of the following reasons:
 -   A parent or child of the CI is in a blackout window.
 -   The CI is assigned to a person already scheduled at the given date and time.
 
-Using the **change.conflict.useprogressworker** system property, the conflict detection process can now be managed in two ways. By default, the value of this property is set as false, and conflict detection is executed using the [[c_ITILChangeManagement|Change Management]] Worker table and the Change - Conflict Detection flow \(that runs as a System user\).
+Using the **change.conflict.useprogressworker** system property, the conflict detection process can now be managed in two ways. By default, the value of this property is set as false, and conflict detection is executed using the Change Management Worker table and the Change - Conflict Detection flow \(that runs as a System user\).
 
 If you set the value of this property as true, conflict detection uses Progress Workers instead, as it used previously.
 
@@ -44,10 +44,10 @@ When the value in the **change.conflict.useprogressworker** system property is s
 
 ## Conflict Calendar
 
-You can choose to display a [[change-conflict-calendar|conflict calendar]] to view identified scheduling conflicts. For more information, see [Conflict calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-conflict-calendar.md)
+You can choose to display a conflict calendar to view identified scheduling conflicts. For more information, see [Conflict calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-conflict-calendar.md)
 
 -   **[Detect change conflicts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md)**  
-[[configure-conflict-properties|Detect change conflicts]] by setting Change Management conflict analysis properties. Use the resulting information to calculate conflicts for change requests and review and modify the change to eliminate conflicts.
+Detect change conflicts by setting Change Management conflict analysis properties. Use the resulting information to calculate conflicts for change requests and review and modify the change to eliminate conflicts.
 -   **[Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)**  
 Use the Blackout and Maintenance windows to schedule a change. Blackout windows specify times during which normal change activity should not be scheduled. Maintenance windows specify times during which change requests should be scheduled. For example, create a blackout schedule for code freezes at the end of the year. blackout-maintenance-schedule
 -   **[Configure a change request to monitor outside maintenance schedule conflicts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/monitor-maintenance-schedule.md)**  
@@ -61,8 +61,3 @@ Run conflict detection manually for a change request. Review the conflicts detec
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-conflict-calendar|Conflict calendar]]
-- [[configure-conflict-properties|Detect change conflicts]]

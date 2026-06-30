@@ -30,7 +30,7 @@ Role required: admin or virtual\_agent\_admin
 
         \[Omitted image "SystemNotifications.png"\] Alt text: Activate system notifications for conversations.
 
-2.  Activate Workflow Studio flows for specific actionable notifications [[itsm-virtual-agent|ITSM Virtual Agent]] conversations.
+2.  Activate Workflow Studio flows for specific actionable notifications ITSM Virtual Agent conversations.
 
     These topics are inactive by default. For complete details about activating flows, refer to [Activate a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flow-activate.md).
 
@@ -48,6 +48,3 @@ Role required: admin or virtual\_agent\_admin
 
 **Parent Topic:**[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setting-up-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

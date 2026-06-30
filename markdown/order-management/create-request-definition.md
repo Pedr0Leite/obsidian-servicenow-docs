@@ -12,7 +12,7 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Create a request definition
 
-Create a request definition and configure it into an order task to help your agents provide additional order attributes for the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] from the CSM/FSM configurable workspace.
+Create a request definition and configure it into an order task to help your agents provide additional order attributes for the order fulfillment from the CSM/FSM configurable workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 3.  Navigate to **Request Definition Setup** &gt; **Request Definition**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
 <table id="table_x4l_sdh_4nb"><thead><tr><th>
 
@@ -44,7 +44,7 @@ ID
 
 Unique identifier for the request definition.
 
-**Note:** You can't [[Modify|modify]] an ID after the request definition is created.
+**Note:** You can't modify an ID after the request definition is created.
 
 </td></tr><tr><td>
 
@@ -148,14 +148,7 @@ Option that designates if the **Read-only** field appears as true in the Request
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

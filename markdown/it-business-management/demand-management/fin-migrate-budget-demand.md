@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Use, Demand Management, Project Portfolio Manageme
 
 # Migrate budget of active demands to Next Experience
 
-Migrate your demand budget to Next Experience to manage the financials using [[project-workspace-landing-page|Project Workspace]].
+Migrate your demand budget to Next Experience to manage the financials using Project Workspace.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Description
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 2.  Filter the Name field to locate the **Migrate budget for active demands and projects** scheduled job and open it.
-3.  Select **Active** and on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
 For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -77,7 +77,3 @@ For a description of the field names, see [Scheduled Script Execution Form](http
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

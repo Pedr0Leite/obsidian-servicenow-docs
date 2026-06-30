@@ -14,7 +14,7 @@ breadcrumb: [Create a change request, Use, Change Management, IT Service Managem
 
 # Create a change task
 
-You can create [[change-tasks|change tasks]] for a change request. A change task is a piece of work related to the change request. For example, there can be tasks to plan the change, implement the change, and test, and review the work.
+You can create change tasks for a change request. A change task is a piece of work related to the change request. For example, there can be tasks to plan the change, implement the change, and test, and review the work.
 
 ## Before you begin
 
@@ -152,6 +152,3 @@ A detailed description of the task.
 
 [Unauthorized change request]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

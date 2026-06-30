@@ -14,7 +14,7 @@ breadcrumb: [Indexed sources, Configuring AI Search, AI Search, Search administr
 
 # Indexed source retention policies and filter conditions
 
-[[ia-ai-search|AI Search]] uses settings to automatically purge stale records from the index and optimize search performance. To limit the set of records indexed from source tables, you can configure retention policies and filter conditions for your indexed sources.
+AI Search uses settings to automatically purge stale records from the index and optimize search performance. To limit the set of records indexed from source tables, you can configure retention policies and filter conditions for your indexed sources.
 
 ## Indexed source retention policies
 
@@ -41,6 +41,3 @@ Execute a scheduled job to delete stale records from the AI Search index.
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

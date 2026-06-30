@@ -12,13 +12,13 @@ breadcrumb: [Configure Auto-Responder notifications, Machine learning solutions,
 
 # Include advanced contextual search results in Auto-Responder notifications
 
-Use scripted extension [[gamification-components-points|points]] to include the advanced [[osp-contextual-search|contextual search]] results in email notifications for content suggested by the Auto-Responder feature.
+Use scripted extension points to include the advanced contextual search results in email notifications for content suggested by the Auto-Responder feature.
 
 ## Before you begin
 
 Role required: admin
 
--   Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]].
+-   Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 -   Set the application scope to Email Notification Script for Contextual Search Results. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 ## About this task
@@ -42,7 +42,7 @@ An implementation is available in the base system for scripted extension points.
     -   Modify the existing script by going to the Implementations related list and clicking **CaseAutoresponder**.
     -   Create and register a custom script include.
 
-        For more information, see [[impl-scripted-ext-pts-custom-code|Registering custom script includes against the scripted extension points]].
+        For more information, see [Registering custom script includes against the scripted extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/impl-scripted-ext-pts-custom-code.md).
 
 4.  Modify the script to use the extension points available through the CSMAdvancedEmailSearchResults script include.
 
@@ -83,11 +83,4 @@ Modify the printSearchResults extension point to specify a custom layout for the
 </td></tr></tbody>
 </table>5.  On the Extension Point form, click **Update**.
 
-## Related
 
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[impl-scripted-ext-pts-custom-code|Registering custom script includes against the scripted extension points]]
-- [[gamification-components-points|Points]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -24,7 +24,7 @@ Role required: admin
 
 A default width size cannot be set or does not apply to the following variables:
 
--   The [[break|break]], container end, container split, container start, and [[label|label]] variables.
+-   The break, container end, container split, container start, and label variables.
 -   Any variable placed in a container with two-column layout.
 -   A variable set with a two-column layout.
 -   Any variable that is created with a custom width set in the **Variable width** field on the Variable form. For details, see [Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md). The custom width for the variable overrides the default width set for the variable type.
@@ -33,7 +33,7 @@ A default width size cannot be set or does not apply to the following variables:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Variables** &gt; **Variable Default Size**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Variables** &gt; **Variable Default Size**.
 
 2.  For each variable type, select a default width.
 
@@ -75,8 +75,3 @@ Configures the variable to span 100% of the available screen size.
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[break|Break]]
-- [[label|Label]]
-- [[service-catalog|Service Catalog]]

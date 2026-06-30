@@ -18,14 +18,14 @@ If you are the contract manager, you can approve or reject a contract.
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## Procedure
 
 1.  Open the list of contract and contract renewal requests.
 
     -   If you are using the core UI, navigate to **All** &gt; **Contract** &gt; **My Approvals**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **My approvals** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **My approvals** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **My contract approvals** tab.
 2.  Select a contract in the **Requested** state.
 
@@ -49,8 +49,3 @@ Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardw
 
 [Contract approval flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/contract-approval-workflow.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[contract-mgmt-view-am|Contract management view]]

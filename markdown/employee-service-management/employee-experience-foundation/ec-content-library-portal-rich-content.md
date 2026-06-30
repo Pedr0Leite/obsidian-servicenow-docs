@@ -70,7 +70,7 @@ Version
 
 </td><td>
 
-Tracks content changes if [[ec-content-versioning|content versioning]] is enabled. For more information, see [Content versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-versioning.md).
+Tracks content changes if content versioning is enabled. For more information, see [Content versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-versioning.md).
 
 </td></tr><tr><td>
 
@@ -97,6 +97,3 @@ Create the page layout using modules or columns.
 -   Modules are predefined content layouts comprised of header, paragraph text, and images. See [Add predefined content layouts with the Rich Content Editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-modules-rich-content-editor.md)
 -   Columns are containers that enable you to define a custom layout. See [Add columns with the Rich Content Editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-canvas.md)
 
-## Related
-
-- [[ec-content-versioning|Content versioning]]

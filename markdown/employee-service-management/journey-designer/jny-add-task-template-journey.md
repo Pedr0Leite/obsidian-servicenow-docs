@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Add task template to journey
 
-[[ut-use-task-template|Use task templates]] to quickly add pre-configured tasks to an employee's journey, such as scheduling a meeting or taking a [[exploring-learning-exp|learning]] course.
+Use task templates to quickly add pre-configured tasks to an employee's journey, such as scheduling a meeting or taking a learning course.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], navigate to **Journeys** &gt; **My team's journeys** and scroll to the **Journeys for my team** section.
+1.  From the Employee Center, navigate to **Journeys** &gt; **My team's journeys** and scroll to the **Journeys for my team** section.
 
 2.  Select the Journey where to add the task template.
 
@@ -39,8 +39,3 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[ut-use-task-template|Use Task templates]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

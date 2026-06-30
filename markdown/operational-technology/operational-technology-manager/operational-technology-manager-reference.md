@@ -14,14 +14,14 @@ breadcrumb: [Operational Technology Manager, Operational Technology]
 
 # Operational Technology Manager reference
 
-Reference topics provide additional information about the [[operational-technology-manager|Operational Technology Manager]] application.
+Reference topics provide additional information about the Operational Technology Manager application.
 
 -   **[Components installed with Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/components-installed-with-operational-technology-manager.md)**  
 Several types of components may be installed with activation of the Operational Technology Manager application, including user roles.
 -   **[Installed software for Operational Technology Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/installed-software-otm.md)**  
-The installed software for the [[operational-technology-overview|Operational Technology]] Management solution comes from [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]] or from the OT-certified Service Graph Connectors that support installed software.
+The installed software for the Operational Technology Management solution comes from IT Discovery for Operational Technology \(OT\) Networks or from the OT-certified Service Graph Connectors that support installed software.
 -   **[Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md)**  
-The [[industrial-core-plugin|Industrial Core plugin]] contains the class mappings needed for the Operational Technology \(OT\) certified Service Graph Connectors.
+The Industrial Core plugin contains the class mappings needed for the Operational Technology \(OT\) certified Service Graph Connectors.
 -   **[Model categories for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md)**  
 When configuration items \(CIs\) are created in the CMDB, asset records are created. The asset record contains the model category for the CI.
 -   **[APIs for IT to OT and OT to IT conversion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/api-for-it-to-ot-and-ot-to-it-conversion.md)**  
@@ -37,9 +37,3 @@ Find more information about the Network Intrusion Detection System \(NIDS\) exte
 
 **Parent Topic:**[Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[industrial-core-plugin|Industrial Core plugin]]

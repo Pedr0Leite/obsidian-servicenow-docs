@@ -14,33 +14,22 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 Reference topics provide additional information about the components such as roles and tables that are installed with various Business Portal plugins.
 
--   **[[components-installed-with-sales-cart-plugin|Components installed with Sales Cart]]**  
+-   **[Components installed with Sales Cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-with-sales-cart-plugin.md)**  
 Several types of components are installed with activation of Sales Cart including tables, user roles, and scheduled jobs.
--   **[[components-install-with-customer-request-for-quote|Components installed with Customer Request for Quote]]**  
+-   **[Components installed with Customer Request for Quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-install-with-customer-request-for-quote.md)**  
 Several types of components are installed with activation of the Customer Request for Quote \(RFQ\) plugin, including tables, user roles, and plugins.
--   **[[rfq-states|Request for quote \(RFQ\) states]]**  
+-   **[Request for quote \(RFQ\) states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rfq-states.md)**  
 An RFQ can move through different states during its life cycle after being submitted by the customer based on agent activity in the CSM Configurable Workspace.
--   **[[invoice-states|Invoice states on Business Portal]]**  
+-   **[Invoice states on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-states.md)**  
 Invoices move through different states during its life cycle after an accounts payable specialist processes the invoice.
--   **[[invoice-case-states|Invoice case states on Business Portal]]**  
+-   **[Invoice case states on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-states.md)**  
 An invoice case moves through different states during its life cycle after an accounts payable specialist processes it.
--   **[[invoice-case-header-list-view|Invoice case details on the Business Portal]]**  
+-   **[Invoice case details on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-header-list-view.md)**  
 Field descriptions for invoice case headers and invoice case line list views on the Business Portal.
--   **[[add-invoices-to-case-list|Add invoices to case list]]**  
+-   **[Add invoices to case list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-invoices-to-case-list.md)**  
 Add invoices to case form on the Business Portal enables you to a.
--   **[[invoice-line-item-business-portal|Invoice line item details on Business Portal]]**  
+-   **[Invoice line item details on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-line-item-business-portal.md)**  
 Invoice line list view details on the Business Portal.
 
-**Parent Topic:**[[som-reference|Sales Customer Relationship Management reference]]
+**Parent Topic:**[Sales Customer Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-reference.md)
 
-## Related
-
-- [[components-installed-with-sales-cart-plugin|Components installed with Sales Cart]]
-- [[components-install-with-customer-request-for-quote|Components installed with Customer Request for Quote]]
-- [[rfq-states|Request for quote \(RFQ\) states]]
-- [[invoice-states|Invoice states on Business Portal]]
-- [[invoice-case-states|Invoice case states on Business Portal]]
-- [[invoice-case-header-list-view|Invoice case details on the Business Portal]]
-- [[add-invoices-to-case-list|Add invoices to case list]]
-- [[invoice-line-item-business-portal|Invoice line item details on Business Portal]]
-- [[som-reference|Sales Customer Relationship Management reference]]

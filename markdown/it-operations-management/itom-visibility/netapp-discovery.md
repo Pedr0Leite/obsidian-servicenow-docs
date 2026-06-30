@@ -15,7 +15,7 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 # NetApp Server and Cluster discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] find NetApp servers and clusters using patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping find NetApp servers and clusters using patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -76,7 +76,7 @@ Discovery with probes and sensors using SMI-S.
 Legacy
 
 </td></tr></tbody>
-</table>## NetApp [[r_DiscoveryProperties|discovery properties]]
+</table>## NetApp discovery properties
 
 To use discovery with patterns, navigate to **Discovery Definition** &gt; **Properties** and enable these properties:
 
@@ -85,7 +85,7 @@ To use discovery with patterns, navigate to **Discovery Definition** &gt; **Prop
 |For 7-Mode NetApp storage servers, use native discovery instead of SMI-S.|glide.discovery.sensors.netapp\_native\_7mode|
 |For Cluster-Mode NetApp storage servers, use native discovery instead of SMI-S.|glide.discovery.sensors.netapp\_native\_cluster\_mode|
 
-The following patterns support the NetApp [[c_Storage|storage discovery]]:
+The following patterns support the NetApp storage discovery:
 
 -   NetApp Storage 7-Mode
 -   NetApp Storage Cluster-Mode
@@ -200,7 +200,7 @@ The Cluster-Mode patterns support chassis and disk shelf chassis discovery throu
 
     Disable SSLv3 and enable TLS for the target NetApp server, as the Java Runtime used by the MID Server doesn't enable SSLv3 by default. The key to encrypt the certificate must be at least 1024 bits.
 
--   **[[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]**
+-   **Schedule a horizontal discovery**
 
     To run discovery using Patterns, create a Discovery schedule that targets the management IP address of the NetApp server. For more information, see [create a discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/running-discoveries.md).
 
@@ -974,10 +974,3 @@ Discovery creates these relationships when running the NetApp Cluster-Mode patte
 
 **Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DiscoveryProperties|Discovery properties]]
-- [[c_Storage|Storage discovery]]
-- [[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]

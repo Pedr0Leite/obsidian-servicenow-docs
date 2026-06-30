@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Set the preview limit for global or workspace search in Next Experience UI
 
-Override the default limit of 5 preview [[hs-results|results]] per search source on the Next Experience UI search results page for global or workspace search.
+Override the default limit of 5 preview results per search source on the Next Experience UI search results page for global or workspace search.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ The search results page for global or workspace search displays preview results 
 
 [Global text search suggestions]()
 
-## Related
-
-- [[hs-results|Results]]

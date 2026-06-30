@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Search Source form
 
-The Search Source form enables you to create a search source that you can make available in [[ia-ai-search|AI Search]] user search experiences.
+The Search Source form enables you to create a search source that you can make available in AI Search user search experiences.
 
 For details on creating or editing search sources, see [Create a search source for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-source-ais.md).
 
@@ -40,7 +40,7 @@ Indexed source
 
 </td><td>
 
-[[reference-email-admin|Reference]] to an indexed source. For more details on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
+Reference to an indexed source. For more details on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,3 @@ Set of filter conditions that documents from the indexed source must meet to be 
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]

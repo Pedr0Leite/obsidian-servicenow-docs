@@ -15,7 +15,7 @@ breadcrumb: [Personalizing views for prioritization, Prioritize portfolio plan w
 
 # Personalize Hierarchy view
 
-Personalize the Hierarchy tab view in the Planning page of [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace so that you can view the information that is most relevant to you and your stakeholders.
+Personalize the Hierarchy tab view in the Planning page of Strategic Planning Workspace so that you can view the information that is most relevant to you and your stakeholders.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Personalization preferences are saved as the portfolio plan's settings in Strate
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -60,7 +60,3 @@ Personalization preferences are saved as the portfolio plan's settings in Strate
 
 **Parent Topic:**[Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Care Team Operations for Facilities, Healthcare Operations, Healthc
 
 Healthcare Facilities cases can be fulfilled one of two ways, depending on what plugin you have installed.
 
-For [[cto-facilities-landing|Care Team Operations for Facilities]] to create work orders from Healthcare Facilities cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
+For Care Team Operations for Facilities to create work orders from Healthcare Facilities cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
 This plugin provides all roles and features needed for the healthcare facilities case to synchronize to work orders.
 
@@ -28,6 +28,3 @@ Cases created are assigned to assignment groups based on the requesting location
 
 For information on fulfilling cases, see [Manage cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-cases.md) in Customer Service Management.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

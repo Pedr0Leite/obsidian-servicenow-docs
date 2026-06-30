@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Orchestration workflows and activities, 
 
 # Security Incident Response- Get Network Statistics flow
 
-The **[[sir-landing-page|Security Incident Response]]** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
+The **Security Incident Response** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
 
 ## Before you begin
 
@@ -30,15 +30,15 @@ Existing security incidents are automatically updated when you are in the **Anal
 
 The flow process actions include:
 
--   [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
+-   [Get Configuration Item FQDN Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-config-FQDN-activity.md)
 -   Determine Shell Script by OS
 -   If statement is executed by Powershell
--   [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
--   [[get-network-stats-netstat-activity|Get Network Statistics via netstat Flow Action]]
--   [[capability-execution-tracking-failure|Capability Execution Tracking- Failure Flow Action]]
--   [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
+-   [Execution Tracking - Begin Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-begin.md)
+-   [Get Network Statistics via netstat Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-network-stats-netstat-activity.md)
+-   [Capability Execution Tracking- Failure Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-failure.md)
+-   [Create Enrichment Data records Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-enrich-data-records.md)
 -   [Capability Execution Tracking- Failure Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-failure.md) - Returns enrichment ID.
--   [[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]
+-   [Capability Execution Tracking - Complete Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-complete.md)
 
 ## Procedure
 
@@ -50,14 +50,14 @@ The flow process actions include:
 
 4.  Click **Update**.
 
-    [[c_SecIncRespOrchestration|Security Incident Response Orchestration]] provides network statistics information in the **Related Links** &gt; **Security Incident Enrichments** tab. For more information see, [[enrichment-data-mapping|Security Operations enrichment data mapping]].
+    Security Incident Response Orchestration provides network statistics information in the **Related Links** &gt; **Security Incident Enrichments** tab. For more information see, [Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md).
 
-    Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+    Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 
 **Parent Topic:**[Security Incident Response Orchestration workflows and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sec-inc-resp-orchestration-workflows.md)
 
-**Parent Topic:**[[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
+**Parent Topic:**[Security Operations Integration- Get Network Statistics capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-network-statistics-capability.md)
 
 **Related topics**  
 
@@ -70,16 +70,3 @@ The flow process actions include:
 
 [Security Incident - Evaluate response task outcome workflow]()
 
-## Related
-
-- [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
-- [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
-- [[get-network-stats-netstat-activity|Get Network Statistics via netstat Flow Action]]
-- [[capability-execution-tracking-failure|Capability Execution Tracking- Failure Flow Action]]
-- [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
-- [[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]

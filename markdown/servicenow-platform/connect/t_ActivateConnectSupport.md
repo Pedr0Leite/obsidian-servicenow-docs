@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Activate Connect Support
 
-The [[c_ConnectSupport|Connect Support]] plugin \(com.glide.[[c_Connect|connect]].support\) is no longer available.
+The Connect Support plugin \(com.glide.connect.support\) is no longer available.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: admin
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -109,7 +109,7 @@ glide.connect.support.enabled
 
 </td><td id="entry_GlideConnectSupportEnabledDescription">
 
-Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee [[self-service-landing|Self-Service]] portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
+Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee Self-Service portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Support Administration** &gt; **Properties**
 
@@ -124,7 +124,7 @@ Controls whether Connect Support reflects system messages in records created fro
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>## [[r_AdditionalPluginsConnectSupport-1|Additional plugins for Connect Support]]
+</table>## Additional plugins for Connect Support
 
 Additional plugins are available for Connect Support. These plugins integrate Connect Support with other features and provide capabilities to track performance metrics.
 
@@ -140,7 +140,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[connect-support-sp|Connect Support and Service Portal]] Integration\[com.glide.connect.support.service-portal\]
+Connect Support and Service Portal Integration\[com.glide.connect.support.service-portal\]
 
 </td><td>
 
@@ -170,7 +170,7 @@ Performance Analytics - Content Pack - Service Desk Chat\[com.snc.pa.chat\]
 
 </td><td>
 
-Provides the **Service Desk Chat Monitor** dashboard, which analyzes key [[c_ConnectSupportMetrics|Connect Support metrics]] and indicators. The Performance Analytics - Content Pack - Service Desk Chat plugin activates the Connect Support Manager's Dashboard \[com.glide.connect.managers\_dashboard\].
+Provides the **Service Desk Chat Monitor** dashboard, which analyzes key Connect Support metrics and indicators. The Performance Analytics - Content Pack - Service Desk Chat plugin activates the Connect Support Manager's Dashboard \[com.glide.connect.managers\_dashboard\].
 
 </td></tr><tr><td id="entry_PluginPerformanceAnalyticsContextSensitiveAnalyticsForChat">
 
@@ -182,13 +182,3 @@ Provides in-form analytics for Connect Support. These analytics are available as
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[self-service-landing|Self-service]]
-- [[r_AdditionalPluginsConnectSupport-1|Additional plugins for Connect Support]]
-- [[connect-support-sp|Connect Support and Service Portal]]
-- [[c_ConnectSupportMetrics|Connect Support metrics]]

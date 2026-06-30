@@ -18,13 +18,8 @@ The form is the user interface where agents do most of their work. Workspace for
 
 Case forms and profile forms are the two main form types that government service agents and constituents interact with in the Public Sector Digital Services application. Forms and their fields are customizable by an admin, and can be mapped to specific tables to capture a variety of customer information.
 
--   **[[psds-case-forms|Public Sector Digital Services Core Case Forms]]**  
+-   **[Public Sector Digital Services Core Case Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-case-forms.md)**  
 Agents can create case forms to display detailed information about questions, requests, and issues that constituents, business stakeholders, or agents have. Constituents, business stakeholders, or agents can also view the form to see the status of their requests and service cases.
--   **[[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]**  
-Profile forms display detailed information about a constituent, agent, or business. This information is collected on registration for the [[gsp-overview-public-sector|Government Service Portal]].
+-   **[Public Sector Digital Services Core Profile Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-profile-forms.md)**  
+Profile forms display detailed information about a constituent, agent, or business. This information is collected on registration for the Government Service Portal.
 
-## Related
-
-- [[psds-case-forms|Public Sector Digital Services Core Case Forms]]
-- [[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open an email draft by selecting the **Email** tab in [[activity-stream-compose-configurable-workspace|Compose]].
+2.  Open an email draft by selecting the **Email** tab in Compose.
 
 3.  Attach a file from your computer.
 
@@ -49,13 +49,9 @@ Role required: email\_composer
 
 ## What to do next
 
-Optionally, you can hide or show [[attachments-configurable-workspace|attachments]] in your email drafts by selecting **Hide attachments** when not hidden and **Show attachments** when hidden. You can also perform additional actions by selecting the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: Menu icon\) next to each attached file:
+Optionally, you can hide or show attachments in your email drafts by selecting **Hide attachments** when not hidden and **Show attachments** when hidden. You can also perform additional actions by selecting the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: Menu icon\) next to each attached file:
 
 -   **Download**: Download the file to your computer.
 -   **Rename**: Rename the attached file. Only the first 100 characters of a file name are displayed.
 -   **Remove**: Remove the attachment from the email.
 
-## Related
-
-- [[activity-stream-compose-configurable-workspace|Compose]]
-- [[attachments-configurable-workspace|Attachments]]

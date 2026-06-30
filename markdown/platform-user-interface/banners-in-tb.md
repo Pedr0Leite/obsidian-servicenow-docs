@@ -18,7 +18,7 @@ Banner illustrations are used to increase user engagement or announce overall pr
 
 A banner illustration is applied to a web page when there is a need to visually represent abstract concepts, reinforce branding, enhance user engagement, or maintain design consistency. Banner illustrations are theme-able, and adapt to the theme colors of your instance.
 
-**Important:** Banner illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Banner illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "tb-banner-illustration.png"\] Alt text: Customer general banner illustration.
 
@@ -34,17 +34,10 @@ To override the default banner illustrations with custom images, upload each ima
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[configure-banner-colors|Configure colors for banner illustrations]]**  
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to banner illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[[override-banner-with-custom-images|Override banner illustrations with custom images]]**  
+-   **[Configure colors for banner illustrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-banner-colors.md)**  
+Configure and control the colors automatically applied to banner illustrations to keep your visual experience engaging while maintaining brand recognition.
+-   **[Override banner illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-banner-with-custom-images.md)**  
 Modify or override the default banner illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[configure-banner-colors|Configure colors for banner illustrations]]
-- [[override-banner-with-custom-images|Override banner illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

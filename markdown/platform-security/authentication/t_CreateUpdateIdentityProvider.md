@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Create an external identity provider
 
-After you have configured the multi-provider SSO properties, you can update or create new [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 or digest token [[identity-landing|identity]] provider.
+After you have configured the multi-provider SSO properties, you can update or create new SAML 2.0 or digest token identity provider.
 
 ## Before you begin
 
@@ -36,23 +36,17 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
         \[Omitted image "Import\_metadata.png"\] Alt text: Importing identity provider metadata
 
-    -   For OpenID Connect: Click **OpenID Connect** and enter client ID, client secret, and well known [[sc-configuration|configuration]] URL.
+    -   For OpenID Connect: Click **OpenID Connect** and enter client ID, client secret, and well known configuration URL.
 4.  To make the IdP the failover IdP that is used when the default IdP is not available, select the **Default** check box.
 
     If you have SAML 2 Update 1 active and you upgrade to the Fuji release, the SAML 2 Update 1 IdP is selected as the default failover. No default failover IdP is selected for new instances or if you are upgrading from a release on which SAML 2 Update 1 is not active.
 
     **Note:** The metadata import process automatically creates a certificate record for the identity provider. Navigate to the **x509 Certificate** module to see the certificate.
 
-    **Note:** [[c_Certificates|Certificates]] for single-sign on should always be in PEM format to work with SAML certificates.
+    **Note:** Certificates for single-sign on should always be in PEM format to work with SAML certificates.
 
-5.  If E-Signature is active, configure the Identity Provider form and add the **Assertion Consumer URL for eSignature [[c_Authentication|authentication]]** field.
+5.  If E-Signature is active, configure the Identity Provider form and add the **Assertion Consumer URL for eSignature authentication** field.
 
     In most cases, this URL is: `https://YOURINSTANCE.service-now.com/consumer.do`. However, if you employ a customized method of handling the SAML authentication for E-Signature, you can set up your own consumer URL. If you are only using SAML 2.0 Update 1 and not using Multi-Provider Single Sign-on, configure the assertion consumer URL with [E-signature SAML properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_AddingSupportForESignature.md).
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]

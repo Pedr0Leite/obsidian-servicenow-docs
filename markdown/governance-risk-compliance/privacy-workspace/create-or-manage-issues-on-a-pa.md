@@ -22,7 +22,7 @@ Role required: sn\_privacy.analyst \(who owns the processing activity\) or sn\_p
 
 ## About this task
 
-Issues get created when there are control attestation failures. You can also manually add or create multiple issues for a processing activity. You can also map one issue to multiple [[ropa-record|processing activities]]. If you create an issue for a processing activity from the Privacy Workspace, the **Issue source** field is set to **Ad-Hoc**.
+Issues get created when there are control attestation failures. You can also manually add or create multiple issues for a processing activity. You can also map one issue to multiple processing activities. If you create an issue for a processing activity from the Privacy Workspace, the **Issue source** field is set to **Ad-Hoc**.
 
 ## Procedure
 
@@ -47,6 +47,3 @@ Issues get created when there are control attestation failures. You can also man
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]

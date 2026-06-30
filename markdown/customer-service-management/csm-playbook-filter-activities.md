@@ -45,23 +45,15 @@ If the current activity is included in the filtered results, it remains highligh
 **Related topics**  
 
 
-[[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
+[Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
 
-[[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
+[Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
-[[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
+[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
 
-[[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
+[Add an optional activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-customized-playbook-experience-for-customer-service-management.md)
 
-[[case-summarization-in-process-page|Summarize a case]]
+[Summarize a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-summarization-in-process-page.md)
 
-[[csm-playbook-create-record|Create a record using a playbook]]
+[Create a record using a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md)
 
-## Related
-
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
-- [[case-summarization-in-process-page|Summarize a case]]
-- [[csm-playbook-create-record|Create a record using a playbook]]

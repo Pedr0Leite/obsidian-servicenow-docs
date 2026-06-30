@@ -14,9 +14,9 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Automating seat assignment for new hires
 
-Use [[hr-service-delivery|HR Service Delivery]] and [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] to automatically assign a seat for the new hires in your organization.
+Use HR Service Delivery and Workplace Service Delivery to automatically assign a seat for the new hires in your organization.
 
-The automated seat assignment feature integrates [[workplace-case-mgmt-feat|Workplace Case Management]] and [[jny-dsgnr-landing-page-1|Journey designer]] to connect HR onboarding activities with workplace assignment. The pre-boarding [[activity-lxp|activity]] in the onboarding lifecycle event contains an activity to automatically assign a workspace \(seat or neighborhood\) to new employees.
+The automated seat assignment feature integrates Workplace Case Management and Journey designer to connect HR onboarding activities with workplace assignment. The pre-boarding activity in the onboarding lifecycle event contains an activity to automatically assign a workspace \(seat or neighborhood\) to new employees.
 
 ## Configuration overview
 
@@ -26,7 +26,7 @@ To use the automated seat assignment feature, you must install plugins in the fo
 
     For more information about installing Journey designer, see [Installation and configuration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-inst-config-overview.md).
 
-2.  Install the [[workplace-space-mgmt-ovw|Workplace Space Management]] plugin along with its demo data.
+2.  Install the Workplace Space Management plugin along with its demo data.
 
     For more information about installing Workplace Space Management, see [Install Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/install-workplace-space-mgmt.md).
 
@@ -46,10 +46,10 @@ To use the automated seat assignment feature, you must install plugins in the fo
 ## Process overview
 
 1.  An HR manager or journey owner initiates an onboarding journey for a new employee. For more information about creating a journey, see [Create a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-create-journey.md).
-2.  The [[hiring-tab-concept|hiring]] manager fills in basic information about the employee. For more information about [[manager-journeys-view|journey view for a manager]], see [Journey view for a manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/manager-journeys-view.md).
-3.  When the pre-boarding lifecycle event starts, the system creates a workplace case with the service `Workplace Location Assignment`. For more information about the [[location-assignment-service|Workplace Location Assignment service]], see [Workplace Location Assignment service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/location-assignment-service.md).
+2.  The hiring manager fills in basic information about the employee. For more information about journey view for a manager, see [Journey view for a manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/manager-journeys-view.md).
+3.  When the pre-boarding lifecycle event starts, the system creates a workplace case with the service `Workplace Location Assignment`. For more information about the Workplace Location Assignment service, see [Workplace Location Assignment service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/location-assignment-service.md).
 
-    The employee and their manager can view the status of the workplace case from the Journeys page on the [[employee-center-landing-page|Employee Center]].
+    The employee and their manager can view the status of the workplace case from the Journeys page on the Employee Center.
 
     **Note:** To view workplace cases for employees, the manager must have the `sn_wsd_core.workplace_user` role.
 
@@ -100,15 +100,3 @@ To use the automated seat assignment feature, you must install plugins in the fo
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[activity-lxp|Activity]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[hiring-tab-concept|Hiring]]
-- [[manager-journeys-view|Journey view for a manager]]
-- [[location-assignment-service|Workplace Location Assignment service]]
-- [[employee-center-landing-page|Employee Center]]

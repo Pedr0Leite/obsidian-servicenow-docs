@@ -28,7 +28,7 @@ Use the Firewall Audits and Reporting application to explore and create an inven
 
 </td><td>
 
-[Firewall Audits and Reporting reference\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Familiarize yourself with [[otto-aiops-dashboards|dashboards]] and report calibration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-reference.md)
+[Firewall Audits and Reporting reference\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Familiarize yourself with dashboards and report calibration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -37,6 +37,3 @@ Use the Firewall Audits and Reporting application to explore and create an inven
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

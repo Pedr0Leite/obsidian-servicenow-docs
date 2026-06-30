@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Action Library, Cloud Action Library, ITOM Cloud Ac
 
 # Set up Cloud Action Library for Microsoft Azure
 
-Set up access to the Microsoft Azure [[cloud-accounts|cloud accounts]] in [[cloud-actions-library-landing-page|Cloud Action Library]] to enable interaction between the application and the cloud.
+Set up access to the Microsoft Azure cloud accounts in Cloud Action Library to enable interaction between the application and the cloud.
 
 ## Before you begin
 
@@ -80,7 +80,3 @@ Tenant ID of the Microsoft Azure account.Replace `{tenant}` with the Microsoft A
 
 **Parent Topic:**[Exploring Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/exploring-cloud-actions-library.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

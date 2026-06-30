@@ -55,7 +55,7 @@ Description
 
 </td><td>
 
-If the assessor must answer the question to [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select **Required**. The assessor sees the \* \(asterisk\) character to indicate that a response is required.
+If the assessor must answer the question to submit the assessment, select **Required**. The assessor sees the \* \(asterisk\) character to indicate that a response is required.
 
 </td></tr><tr><td id="d392913e171">
 
@@ -151,6 +151,4 @@ Enter the content that explains how best to answer the question. Add the formatt
 </td></tr></tbody>
 </table>8.  Select **Save**.
 
-## Related
 
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

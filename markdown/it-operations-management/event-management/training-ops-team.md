@@ -15,15 +15,15 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Training operations team
 
-Get your L1/L2 operators up to speed with ServiceNow [[c_EM|Event Management]]. This section walks through the key concepts, tools, and workflows they need to confidently triage alerts, understand service impact, and take action from day one.
+Get your L1/L2 operators up to speed with ServiceNow Event Management. This section walks through the key concepts, tools, and workflows they need to confidently triage alerts, understand service impact, and take action from day one.
 
 ## Key Concepts
 
-The foundational primer for L1/L2 operators new to ServiceNow Event Management. It covers eight core ideas they need to understand before working alerts: a single pane of glass across monitoring tools \(SolarWinds, Datadog, Azure Monitor, etc.\), deduplication and noise filtering, the separation of alerts from incidents, priority-based focus, [[c_ServiceAnalyticsOverview|alert grouping]], CI impact visibility, maintenance windows, and operator feedback loops.
+The foundational primer for L1/L2 operators new to ServiceNow Event Management. It covers eight core ideas they need to understand before working alerts: a single pane of glass across monitoring tools \(SolarWinds, Datadog, Azure Monitor, etc.\), deduplication and noise filtering, the separation of alerts from incidents, priority-based focus, alert grouping, CI impact visibility, maintenance windows, and operator feedback loops.
 
 ## Service Operations Workspace
 
-An integrated environment where IT operations and service management converge — alerts, incidents, services, and operational context all in one place. Key highlights include a shift-start landing page for quick situational awareness, shared context \(CIs, changes, related records\) visible without tool-switching, playbooks and [[ccg-remediation|remediation]] actions built in, and cross-team alignment so acknowledgements and escalations are immediately visible to teammates.
+An integrated environment where IT operations and service management converge — alerts, incidents, services, and operational context all in one place. Key highlights include a shift-start landing page for quick situational awareness, shared context \(CIs, changes, related records\) visible without tool-switching, playbooks and remediation actions built in, and cross-team alignment so acknowledgements and escalations are immediately visible to teammates.
 
 ## Express List
 
@@ -33,8 +33,3 @@ A live, continuously updating alert queue designed for active triage. Operators 
 
 The business-impact lens on what's firing. While the Express List shows what is alerting, the Service Dashboard shows what it means for the business. It surfaces service health tiles, business criticality ratings, CI topology maps, and service dependencies — transforming "I have 15 alerts" into actionable service-level awareness for operators and leadership alike.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[ccg-remediation|Remediation]]

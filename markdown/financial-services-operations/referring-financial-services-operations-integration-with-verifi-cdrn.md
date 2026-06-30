@@ -14,18 +14,13 @@ breadcrumb: [Verifi, Integrate, Financial Services Operations \(FSO\)]
 
 Learn about other supporting information that can help you configure and use the Financial Services Operations Integration with Verifi application.
 
--   [[jwt-authentication|JWT Authentication]]
--   [[api-subflows-and-endpoints|API Subflows and Endpoints]]
+-   [JWT Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/jwt-authentication.md)
+-   [API Subflows and Endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/api-subflows-and-endpoints.md)
 
 -   **[JWT Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/jwt-authentication.md)**  
 The Verifi Issuer API uses JSON Web Tokens \(JWT\) for authentication. A fresh JWT must be generated for every API call. This section explains how to store credentials securely and how the ServiceNow® script generates and attaches the JWT.
 -   **[API Subflows and Endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/api-subflows-and-endpoints.md)**  
 The application is built on four sequentially orchestrated subflows. Each maps to a specific Verifi REST endpoint and triggers at a defined point in the dispute workflow.
 
-**Parent Topic:**[[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]
+**Parent Topic:**[Financial Services Operations Integration with Verifi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-verifi-cdrn-integration-app-landing-page.md)
 
-## Related
-
-- [[jwt-authentication|JWT Authentication]]
-- [[api-subflows-and-endpoints|API Subflows and Endpoints]]
-- [[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]

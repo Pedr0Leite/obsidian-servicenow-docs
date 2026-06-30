@@ -14,9 +14,9 @@ breadcrumb: [Workplace Case Management, Workplace Service Delivery, Employee Ser
 
 # Workplace Service Delivery integration with Universal Request
 
-Combine [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] services with [[ur-landing-limitedaccess|Universal Request]] so that you can provide a convenient workplace experience to your employees. Provide a common help desk so that your employees can submit requests that are related to their workplace without having to search the [[workplace-services|Workplace services]] catalog.
+Combine Workplace Service Delivery services with Universal Request so that you can provide a convenient workplace experience to your employees. Provide a common help desk so that your employees can submit requests that are related to their workplace without having to search the Workplace services catalog.
 
-The integration with Universal Request enables an employee to submit a general inquiry for any workplace-related issue. An employee can [[apn-config-getsupport|get support]] by selecting a single-help option for services that are not included in the catalog.
+The integration with Universal Request enables an employee to submit a general inquiry for any workplace-related issue. An employee can get support by selecting a single-help option for services that are not included in the catalog.
 
 For more information about a Universal Request, see [Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md).
 
@@ -28,7 +28,7 @@ The integration enables you to perform the following actions:
 -   Transfer a workplace case to another department or back to the Universal Request queue by using the **Transfer** option.
 -   Configure a workplace service as a Universal Request.
 -   View workplace cases created by Universal Request under **Workplace Cases** &gt; **All**.
--   On the [[workplace-services-portal-hr|Workplace Service Portal]], an employee can view the Universal Request raised by them in **Workplace Service Portal** &gt; **Requests**.
+-   On the Workplace Service Portal, an employee can view the Universal Request raised by them in **Workplace Service Portal** &gt; **Requests**.
 
 ## System requirements to integrate Workplace Service Delivery with Universal Request
 
@@ -36,7 +36,7 @@ The following plugins must be installed:
 
 -   Universal Request \(com.snc.universal\_request\)
 -   Workplace Service Delivery - Core \(sn\_wsd\_core\)
--   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
+-   Workplace Case Management \(sn\_wsd\_case\)
 
 ## Universal Request and workplace cases
 
@@ -52,7 +52,7 @@ As a workplace manager, you can transfer a workplace case that was created by Un
 Employees can view the details related to their Universal Request anytime.
 
 -   **[Configure a workplace service record producer as a Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-workplace-service-record-prod-as-universal-req.md)**  
-Enable an employee to submit a universal request using a workplace service record producer from the Workplace Service Portal. Configure a workplace service to [[ur-create-universal-request-record|create Universal Request]] whenever an employee makes a selection.
+Enable an employee to submit a universal request using a workplace service record producer from the Workplace Service Portal. Configure a workplace service to create Universal Request whenever an employee makes a selection.
 -   **[Create a workplace case from Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-case-from-universal-req.md)**  
 As a routing agent, create a workplace case from a universal request and then assign it to the Workplace services assignment group. The workplace manager handles the workplace case and takes further actions to fulfill the request.
 -   **[Work on a workplace case from a Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/work-on-workplace-case-of-universal-req.md)**  
@@ -62,12 +62,3 @@ Transfer a workplace case back to the Universal Request, to another department, 
 
 **Parent Topic:**[Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-feat.md)
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[workplace-services|Workplace Services]]
-- [[apn-config-getsupport|Get support]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[ur-create-universal-request-record|Create Universal Request]]

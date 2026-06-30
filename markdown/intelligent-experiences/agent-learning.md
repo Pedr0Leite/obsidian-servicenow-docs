@@ -28,12 +28,7 @@ When an agent learning is enabled, the AI agent:
 -   Memory is heavily based on experience correction rather than just context extension.
 -   Memory entries carry relevance weights \(like attention scores\) → aligns with adaptive retention seen in human-like learning.
 
-To configure agent learning at the AI agent level, see [[define-specialty|Define the specialty of an AI agent]].
+To configure agent learning at the AI agent level, see [Define the specialty of an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-specialty.md).
 
-To configure agent learning at the [[ai-agent-studio|AI Agent Studio]] level, see [[long-term-memory-aia|Set up long-term memory]].
+To configure agent learning at the AI Agent Studio level, see [Set up long-term memory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/long-term-memory-aia.md).
 
-## Related
-
-- [[define-specialty|Define the specialty of an AI agent]]
-- [[long-term-memory-aia|Set up long-term memory]]
-- [[ai-agent-studio|AI Agent Studio]]

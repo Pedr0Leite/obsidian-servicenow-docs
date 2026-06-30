@@ -15,7 +15,7 @@ breadcrumb: [Dispute Rules Content Pack for Nacha, Dispute Management, Banking a
 
 # Exploring Dispute Rules Content Pack for Nacha
 
-Learn how the [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]] application helps ensure that your organization can properly categorize and process automated clearing house \(ACH\) disputes.
+Learn how the Dispute Rules Content Pack for Nacha application helps ensure that your organization can properly categorize and process automated clearing house \(ACH\) disputes.
 
 ## Dispute Rules Content Pack for Nacha overview
 
@@ -37,7 +37,7 @@ The following infographic shows the workflow for submitting an ACH dispute with 
 
 \[Omitted image "dispute-intake-flow-nacha.png"\] Alt text: A flow diagram showing an ACH dispute workflow. For details, refer to the following description.
 
-1.  The agent initiates a dispute case in [[fso-overview|Financial Services]] Workspace, or the customer initiates a case in the service portal.
+1.  The agent initiates a dispute case in Financial Services Workspace, or the customer initiates a case in the service portal.
 2.  The user selects the financial account and disputed transaction\(s\).
 3.  After the user completes the dispute questionnaire, the decision tables, rules, and flows/actions in Dispute Rules Content Pack for Nacha help to determine the dispute category and dispute reason based on the Nacha guidelines.
 4.  The user uploads supporting documentation as required.
@@ -56,14 +56,9 @@ Key benefits of using the Dispute Rules Content Pack for Nacha include:
 
 ## What to explore next
 
-To learn more about configuring and [[dispute-rules-content-pack-nacha-use|using Dispute Rules Content Pack for Nacha]], see:
+To learn more about configuring and using Dispute Rules Content Pack for Nacha, see:
 
 -   [Installing Dispute Rules Content Pack for Nacha](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-install.md)
 -   [Using Dispute Rules Content Pack for Nacha](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-use.md)
 -   [Dispute Rules Content Pack for Nacha reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-reference.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]
-- [[fso-overview|Financial Services]]
-- [[dispute-rules-content-pack-nacha-use|Using Dispute Rules Content Pack for Nacha]]

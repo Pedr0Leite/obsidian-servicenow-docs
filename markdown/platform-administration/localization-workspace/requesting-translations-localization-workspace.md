@@ -14,11 +14,11 @@ breadcrumb: [Localization Workspace, Translation and localization, Configure cor
 
 # Requesting translations in Localization Workspace
 
-Create and submit translation requests in [[localization-workspace|Localization Workspace]]. Generate informational cost estimates for review and set a due date before submitting the request.
+Create and submit translation requests in Localization Workspace. Generate informational cost estimates for review and set a due date before submitting the request.
 
 ## Overview of creating translation requests
 
-As a [[ia-localization-il|localization]] requester, you can create translation requests for multiple content types into multiple languages, all in one interface.
+As a localization requester, you can create translation requests for multiple content types into multiple languages, all in one interface.
 
 You can save or modify a translation request before submitting it. When you submit the translation request, Localization Workspace creates and packages a project in [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md). Creating the project might take several minutes depending on the number of documents. When the project is ready, Localization Workspace sends the translation request to your third-party service provider.
 
@@ -82,7 +82,7 @@ Divide the total character count by 15,000. Then add 2.The result is the expecte
 
 When using a TMS to translate into multiple target languages in one request, the formula assumes that the languages are processed concurrently, not sequentially. This means that the language with the highest word or character count is used to calculate the due date suggestion.
 
-For machine translation service providers, the default due date is the current date. Due dates in Localization Workspace correspond to the [[localization-framework-landing|Localization Framework]] Project due dates.
+For machine translation service providers, the default due date is the current date. Due dates in Localization Workspace correspond to the Localization Framework Project due dates.
 
 ## Due date calculation for a TMS request
 
@@ -104,8 +104,4 @@ The following example illustrates the due date calculation when the word count i
 
     The suggested due date is 43 days from the current date.
 
-## Related
 
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

@@ -15,7 +15,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Enable Virtual Agent notifications
 
-Enable Virtual Agent notifications so that your end users can receive notifications in supported [[virtual-agent-landing-page|Virtual Agent]] channels.
+Enable Virtual Agent notifications so that your end users can receive notifications in supported Virtual Agent channels.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[nava-enhanced-chat|Enhanced chat]]
+Enhanced chat
 
 </td><td>
 
@@ -47,13 +47,13 @@ Chat widget \(mweb\)
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 2.  Select **Virtual Agent**.
 3.  Under **Notifications**, slide the **Use notifications** toggle switch to enable notifications.
 
 \[Omitted image "va-settings-notif-enabled-switch.png"\] Alt text: Virtual Agent setting showing Use notifications toggle switch in inactive state.
 
-**Note:** You can also change the notification text color and background in chat branding configurations. For details, see [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]].
+**Note:** You can also change the notification text color and background in chat branding configurations. For details, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md).
 
 </td></tr><tr><td>
 
@@ -73,9 +73,3 @@ Custom chat integration
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[convint-landing-page|Conversational Interfaces]]

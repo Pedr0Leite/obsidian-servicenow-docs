@@ -14,7 +14,7 @@ breadcrumb: [Configure alert collection from SCOM, Configure a pull connector, C
 
 # SCOM metric event rules
 
-The base system comes with Microsoft System Center Operations Manager \(SCOM\) metric [[create-event-rules|event rules]]. SCOM metric event rules bind event metrics to configuration items \(CIs\).
+The base system comes with Microsoft System Center Operations Manager \(SCOM\) metric event rules. SCOM metric event rules bind event metrics to configuration items \(CIs\).
 
 When an event's metrics match the event filter conditions, the metrics bind to the indicated CI. The event rules that come with the base system are:
 
@@ -32,6 +32,3 @@ If the event rule filter doesn't match, the default rule, **SCOM Metrics - Defau
 
 **Parent Topic:**[Configure alert collection from SCOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSCOMConnectorInstance.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]

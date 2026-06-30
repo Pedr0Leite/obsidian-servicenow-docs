@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Portfolio Plannin
 
 # Create a table map
 
-Create a table map to define the mapping between tables in [[portfolio-planning-app-landing-page|Portfolio Planning]] with the tables in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+Create a table map to define the mapping between tables in Portfolio Planning with the tables in Project Portfolio Management \(PPM\).
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ A new table map is created with your alignment and execution table configuration
 
 Create a business rule to support export of this new table map configuration to PPM. For more information, see [Create a business rule to apply a custom table map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-a-bussiness-rule-ppw.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

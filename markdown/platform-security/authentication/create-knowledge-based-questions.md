@@ -14,7 +14,7 @@ breadcrumb: [Configure KBA, Knowledge-based authentication, Configure authentica
 
 # Create KBA questions
 
-Create knowledge-based questions to use for caller identification and [[c_Authentication|authentication]] in AI voice agent interactions.
+Create knowledge-based questions to use for caller identification and authentication in AI voice agent interactions.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: auth\_factors\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Knowledge Based Factor** &gt; **Questions**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Knowledge Based Factor** &gt; **Questions**.
 
 2.  Select **New** on the Knowledge Based Questions page.
 
@@ -55,7 +55,7 @@ Question
 
 </td><td>
 
-Define a security question to be used for user [[identity-landing|identity]] verification. Example: `What is your business phone number?`
+Define a security question to be used for user identity verification. Example: `What is your business phone number?`
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Type
 
 </td><td>
 
-Select when the question is available for use. Options: -   **Identification**: The question is available for identification [[sc-configuration|configuration]] only.
+Select when the question is available for use. Options: -   **Identification**: The question is available for identification configuration only.
 -   **Authentication**: The question is available for authentication configuration only.
 -   **Identification or Authentication**: The question is available for both.
 
@@ -167,9 +167,3 @@ You’re redirected to the Knowledge Based Questions list view. Verify if your q
 
 \[Omitted image "kba-question-3.png"\] Alt text: Knowledge Based Question - list
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[authentication-factors|Authentication factors]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]

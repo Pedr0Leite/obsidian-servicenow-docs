@@ -27,7 +27,7 @@ Role required: now\_assist\_explorer\_user to create or edit explorations, any r
 
         \[Omitted image "explore-icon-dv-tile.png"\] Alt text: Data visualization tile with Explore with AI button highlighted.
 
-        **Note:** If the data visualization shows data from a protected scope that is not supported in [[query-generation|Query Generation]] and AI Data Explorer, there is no Explore with AI icon. For more information, see [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]].
+        **Note:** If the data visualization shows data from a protected scope that is not supported in Query Generation and AI Data Explorer, there is no Explore with AI icon. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md).
 
 2.  If you launch AI Data Explorer from a data visualization or list, choose from the following options:
 
@@ -35,12 +35,12 @@ Role required: now\_assist\_explorer\_user to create or edit explorations, any r
 
     -   Ask a specific question about your data.
     -   Choose a suggested question about the data visualization, such as **Analyze trend** or **Breakdown/distribution analysis**.
-    -   Add the visualization or list to a new exploration or one that is open in another tab. For more information about adding visualizations to existing explorations, see [[import-data-viz-list-exploration|Add an existing visualization to an exploration]].
+    -   Add the visualization or list to a new exploration or one that is open in another tab. For more information about adding visualizations to existing explorations, see [Add an existing visualization to an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/import-data-viz-list-exploration.md).
     **Important:**
 
     -   The data visualization or list must display table data.
     -   Supported table data sources include database views and Workflow Data Fabric tables.
-    -   Table and database view sources must be included in the Query Generation semantic layer. For more information, see [[add-table-semantic-layer|Add a table to the semantic data layer]].
+    -   Table and database view sources must be included in the Query Generation semantic layer. For more information, see [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
     -   If the data is from an application with a protected scope, access to that scope must be configured. Otherwise, the Explore with AI icon does not appear.For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md).
     The results are shown in a new exploration. If you have an exploration open in another tab, you have the option to display the results there instead.
 
@@ -49,12 +49,5 @@ Role required: now\_assist\_explorer\_user to create or edit explorations, any r
     \[Omitted image "nowass-expl-float-dialog.png"\] Alt text: Floating panel containing exploration.
 
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
-- [[import-data-viz-list-exploration|Add an existing visualization to an exploration]]
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]
-- [[query-generation|Query Generation]]

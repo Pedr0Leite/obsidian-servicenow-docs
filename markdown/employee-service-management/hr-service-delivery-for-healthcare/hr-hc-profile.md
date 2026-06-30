@@ -20,7 +20,7 @@ The Healthcare Professional Profile data model enables the organization to acces
 
 ## Auto-create a Healthcare professional profile
 
-Auto-create a healthcare professional profile when a manager or an [[hiring-tab-concept|hiring]] agent places an onboarding request for a healthcare professional. Store the details of the health care professional by maintaining strict edit or view permissions.
+Auto-create a healthcare professional profile when a manager or an hiring agent places an onboarding request for a healthcare professional. Store the details of the health care professional by maintaining strict edit or view permissions.
 
 ### Before you begin
 
@@ -30,11 +30,11 @@ Role required: sn\_hc\_professional.profile\_writer
 
 1.  Navigate to **All** &gt; **Healthcare professional profile** &gt; **Healthcare professional profiles**.
 
-    Alternatively, you can also view the Healthcare Professional Profiles by navigating to **All** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**. In Lists, select Healthcare Professional Profiles.
+    Alternatively, you can also view the Healthcare Professional Profiles by navigating to **All** &gt; **Agent Workspace for HR Case Management**. In Lists, select Healthcare Professional Profiles.
 
 2.  On the form, fill in the required fields.
 
-    Most of the data in these fields are auto-filled based on information provided in [[hr-emp-onboarding|healthcare employee onboarding form]] and details provided by healthcare professional on the profile intake forms in [[employee-center-landing-page|Employee Center]]. See [Healthcare professional profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-service-healthcare.md).
+    Most of the data in these fields are auto-filled based on information provided in healthcare employee onboarding form and details provided by healthcare professional on the profile intake forms in Employee Center. See [Healthcare professional profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-service-healthcare.md).
 
 3.  Click **Update**.
 
@@ -95,7 +95,7 @@ Role required: sn\_hc\_professional.profile\_writer
 
 ## Add a professional reference
 
-Store the professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] details that a healthcare professional provides via the profile intake forms in Employee Center.
+Store the professional reference details that a healthcare professional provides via the profile intake forms in Employee Center.
 
 ### Before you begin
 
@@ -328,10 +328,4 @@ Payer enrollment is a process in which a medical provider registers in a healthc
 
 5.  Click **Update**.
 
-## Related
 
-- [[hiring-tab-concept|Hiring]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-emp-onboarding|Healthcare Employee Onboarding form]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

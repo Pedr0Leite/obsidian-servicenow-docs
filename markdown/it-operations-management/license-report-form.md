@@ -28,7 +28,7 @@ CI Category
 
 </td><td>
 
-Grouping of Configuration Items \(CIs\) in each application based on shared characteristics or attributes. For the list of supported CI categories, including 2026 Packaging SKUs, see [[otm-license-module|Subscriptions for Operational Technology Management]]
+Grouping of Configuration Items \(CIs\) in each application based on shared characteristics or attributes. For the list of supported CI categories, including 2026 Packaging SKUs, see [Subscriptions for Operational Technology Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/otm-license-module.md)
 
 </td></tr><tr><td>
 
@@ -77,12 +77,7 @@ Total consumption of subscription units by the application and all ITOM applicat
  Appears highlighted under Total Subscription Units Consumed.
 
 </td></tr></tbody>
-</table>**Note:** To estimate the predicted usage under 2026 Packaging SKUs, see [[generate-ci-consumption-predictions|Generate CI consumption predictions for 2026 Container Packaging SKU migration]]
+</table>**Note:** To estimate the predicted usage under 2026 Packaging SKUs, see [Generate CI consumption predictions for 2026 Container Packaging SKU migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/generate-ci-consumption-predictions.md)
 
-**Parent Topic:**[[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
+**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 
-## Related
-
-- [[otm-license-module|Subscriptions for Operational Technology Management]]
-- [[generate-ci-consumption-predictions|Generate CI consumption predictions for 2026 Container Packaging SKU migration]]
-- [[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]

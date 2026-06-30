@@ -22,15 +22,15 @@ Role required: ServiceNow AI Platform security incident administrator \(sn\_si.a
 
 ## About this task
 
-The security tag names in your McAfee ePO console for the initiate [[threat-intelligence-malware|malware]] scan and isolate host actions must match the security tag names in the records for these capabilities of your ServiceNow AI Platform instance.
+The security tag names in your McAfee ePO console for the initiate malware scan and isolate host actions must match the security tag names in the records for these capabilities of your ServiceNow AI Platform instance.
 
-Before you [[create-a-capability-profile-for-the-crowdstrike-falcon-insight-integration|create a capability profile]] to run your capabilities, view the list of available McAfee ePO capabilities and edit the security tags in your ServiceNow AI Platform instance so that they match the security tag names in your McAfee ePO console.
+Before you create a capability profile to run your capabilities, view the list of available McAfee ePO capabilities and edit the security tags in your ServiceNow AI Platform instance so that they match the security tag names in your McAfee ePO console.
 
 For more information about creating the security tag names in your McAfee ePO console, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mcaffee-epo-overview-arch|McAfee ePO Integration]]** &gt; **Default Settings**.
+1.  Navigate to **All** &gt; **McAfee ePO Integration** &gt; **Default Settings**.
 
 2.  To edit the security tag name of the McAfee ePO integration, select **Default Configuration**.
 
@@ -66,7 +66,7 @@ For more information about creating the security tag names in your McAfee ePO co
 
     The EPO Tag Name is updated and displayed on the McAfee ePO Default Configurations list. The security tag name for the malware scan action in your ServiceNow AI Platform instance matches the name for the scan in your McAfee ePO console.
 
-    You have successfully edited the EPO Tag Names for the malware scan and the isolate host capabilities in your ServiceNow AI Platform instance. The next step is to [[arcsight-esm-create-profile|create a profile]] for your capabilities.
+    You have successfully edited the EPO Tag Names for the malware scan and the isolate host capabilities in your ServiceNow AI Platform instance. The next step is to create a profile for your capabilities.
 
 
 **Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-overview-arch.md)
@@ -80,9 +80,3 @@ For more information about creating the security tag names in your McAfee ePO co
 
 [McAfee Product Documentation](https://docs.mcafee.com/bundle?value=225)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[create-a-capability-profile-for-the-crowdstrike-falcon-insight-integration|Create a capability profile]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[arcsight-esm-create-profile|Create a profile]]

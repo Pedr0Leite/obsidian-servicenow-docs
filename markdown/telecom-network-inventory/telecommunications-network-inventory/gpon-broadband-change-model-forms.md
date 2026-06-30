@@ -17,9 +17,9 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 The GPON Broadband Change model forms enables you to create, review, and modify the connection details of the physical connection, and the compute and create logical connection.
 
 -   **[Create Physical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-physical-connection-form.md)**  
-The [[create-physical-connection-form|Create Physical Connection form]] enables you to create, review, and modify the network details for a physical connection.
+The Create Physical Connection form enables you to create, review, and modify the network details for a physical connection.
 -   **[Compute and Create Logical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/compute-and-create-logical-connection-form.md)**  
-The [[compute-and-create-logical-connection-form|Compute and Create Logical Connection form]] enables you to create, review, and modify the connection details for a logical connection.
+The Compute and Create Logical Connection form enables you to create, review, and modify the connection details for a logical connection.
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
@@ -28,7 +28,3 @@ The [[compute-and-create-logical-connection-form|Compute and Create Logical Conn
 
 [Design and assign GPON broadband service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-broadband-service.md)
 
-## Related
-
-- [[create-physical-connection-form|Create Physical Connection form]]
-- [[compute-and-create-logical-connection-form|Compute and Create Logical Connection form]]

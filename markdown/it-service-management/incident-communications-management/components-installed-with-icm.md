@@ -14,7 +14,7 @@ breadcrumb: [Incident Communications Management reference, Incident Communicatio
 
 # Components installed with Incident Communications Management
 
-Several types of components are installed with activation of the [[c_IncidentAlertManagement|Incident Communications Management]] plugin \(com.snc.iam\), including tables and user roles.
+Several types of components are installed with activation of the Incident Communications Management plugin \(com.snc.iam\), including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -147,6 +147,3 @@ The Incident Communication Task table extends the Communication Task table \[com
 </td></tr></tbody>
 </table>**Parent Topic:**[Incident Communications Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/reference-section-inci-comm-mngmt.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

@@ -28,7 +28,7 @@ Crews are sorted in alphabetic order by default. Agents are recommended based on
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -38,7 +38,7 @@ Crews are sorted in alphabetic order by default. Agents are recommended based on
 
     The agent panel displays the list of crews sorted based on the default sorting criteria.
 
-4.  If [[dynamic-scheduling|dynamic scheduling]] is enabled, view recommended crews and agents based on the required skills, location, and agent availability by selecting **Auto Assign Rules** from the Rank resources list.
+4.  If dynamic scheduling is enabled, view recommended crews and agents based on the required skills, location, and agent availability by selecting **Auto Assign Rules** from the Rank resources list.
 
     The agent panel displays the list of recommended crews and agents sorted based on the defined recommendation criteria.
 
@@ -55,7 +55,3 @@ Crews are sorted in alphabetic order by default. Agents are recommended based on
 
 The crews and agents are sorted based on the selected filter criterion.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]

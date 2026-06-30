@@ -205,7 +205,7 @@ Regulatory area
 
 </td><td>
 
-Digital [[grc-opres-landing-page|Operational Resilience]] Act
+Digital Operational Resilience Act
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -245,7 +245,3 @@ Option to attach the PDF of the case.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Field Service Management]
 
 # Integrating Field Service Management with other applications
 
-Extend the capabilities of [[fsm-application-landing-page|Field Service Management]] and connect with other departments to assist with case resolution by integrating with other applications.
+Extend the capabilities of Field Service Management and connect with other departments to assist with case resolution by integrating with other applications.
 
 -   **[Integration with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/customer-service-integration.md)**  
 Provides an integration between the Customer Service Management and Field Service Management applications.
@@ -27,6 +27,3 @@ With ServiceNow Incident Management for Field Service, create work orders from a
 -   **[Integration with Virtual Conferencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/virtual-conference-integration-fsm.md)**  
 With ServiceNow Field Service Management Virtual Conferencing Integration, collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Zoom and Microsoft Teams from the Now Agent mobile application. Provide timely support while away from your office or desktop computer.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

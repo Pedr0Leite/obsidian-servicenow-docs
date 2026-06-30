@@ -14,7 +14,7 @@ breadcrumb: [Working on major incident management, Managing major incidents, Inc
 
 # Reject multiple major incident candidates using the Actions menu
 
-You can reject one or more [[major-incidents-candidate|major incident candidates]] using the Actions menu. If you decide that the candidates do not qualify to be major incidents, then you can reject multiple candidates at once and provide the rejection reason.
+You can reject one or more major incident candidates using the Actions menu. If you decide that the candidates do not qualify to be major incidents, then you can reject multiple candidates at once and provide the rejection reason.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: major\_incident\_manager
 
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[major-incidents-candidate|Major incident candidates]]

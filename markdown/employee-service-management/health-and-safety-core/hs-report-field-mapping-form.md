@@ -69,7 +69,7 @@ Mapping table
 
 </td><td>
 
-[[health-safety-overview|Health and Safety]] table to map PDF fields to, for example, Health and Safety incident \[sn\_ohs\_im\_incident\] or Injury and illness \[sn\_ohs\_im\_injury\_illness\].Only the tables enabled for report field mapping appear in this field.
+Health and Safety table to map PDF fields to, for example, Health and Safety incident \[sn\_ohs\_im\_incident\] or Injury and illness \[sn\_ohs\_im\_injury\_illness\].Only the tables enabled for report field mapping appear in this field.
 
 </td></tr><tr><td>
 
@@ -125,6 +125,3 @@ PDF template that you need to use for reporting and map the safety record fields
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

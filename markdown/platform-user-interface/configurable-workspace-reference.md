@@ -14,15 +14,12 @@ breadcrumb: [Configurable Workspace UI, Configure UIs and portals, Configure use
 
 Find additional details and support about creating, customizing, and using your Configurable Workspace.
 
--   **[[workspace-get-help|Get help with Configurable Workspace]]**
+-   **[Get help with Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-get-help.md)**
 
     To get help with Configurable Workspace, your ServiceNow instance, plugins, permissions, and more, watch a short video to contact the ServiceNow admin who works in your company.
 
--   **[[configurable-workspace-glossary|Configurable Workspace glossary]]**
+-   **[Configurable Workspace glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md)**
 
     Learn about the terms and concepts used in Configurable Workspace.
 
-## Related
 
-- [[workspace-get-help|Get help with Configurable Workspace]]
-- [[configurable-workspace-glossary|Configurable Workspace glossary]]

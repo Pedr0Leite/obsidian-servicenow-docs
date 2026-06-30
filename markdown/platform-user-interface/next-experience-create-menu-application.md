@@ -12,7 +12,7 @@ breadcrumb: [Next Experience All Menu Editing, Configure, Next Experience UI, Co
 
 # Create a Next Experience Menu Application
 
-Create and [[configure-onboarding-modals|configure]] application menus and modules directly within the All menu.
+Create and configure application menus and modules directly within the All menu.
 
 ## Before you begin
 
@@ -47,18 +47,10 @@ Role required: admin
 
 Editing the modules you have added using the following links.
 
--   [[next-experience-dashboard-module|Dashboard module]]
--   [[next-experience-list-module|List module]]
--   [[next-experience-new-record-module|New record module]]
--   [[next-experience-single-record-module|Single record module]]
+-   [Dashboard module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-dashboard-module.md)
+-   [List module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-list-module.md)
+-   [New record module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-new-record-module.md)
+-   [Single record module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-single-record-module.md)
 
-**Parent Topic:**[[next-experience-all-menu-editing|Next Experience All Menu Editing]]
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-all-menu-editing.md)
 
-## Related
-
-- [[next-experience-dashboard-module|Create a Dashboard Module]]
-- [[next-experience-list-module|Create a List Module]]
-- [[next-experience-new-record-module|Create a New Record module]]
-- [[next-experience-single-record-module|Create a Single Record Module]]
-- [[next-experience-all-menu-editing|Next Experience All Menu Editing]]
-- [[configure-onboarding-modals|Configure]]

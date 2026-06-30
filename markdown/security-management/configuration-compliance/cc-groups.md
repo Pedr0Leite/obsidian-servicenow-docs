@@ -16,7 +16,7 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 Automatically create remediation tasks \(RTs\) to analyze results in bulk using remediation task rules. The criteria by which tasks are formed is configured so that you do not have to manually assign test results into remediation tasks.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -52,7 +52,7 @@ When updating the state of a remediation task, associated test results can have 
 
 Remediation task rules allow you to define how test results are automatically grouped and assigned. A default rule, **Assignment group, Test**, is included in the base system grouping test results based on a test result **Assignment group** and the **Test** field. This rule is disabled, by default. You can group by any other set of values in columns accessible from the test result. You can use up to six keys and any number of conditions. For more information, see [Create or edit Configuration Compliance remediation task rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/create-cc-group-rules.md).
 
-**Important:** As an admin and analyst, you can evaluate the remediation task rules for selected test results in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. This method is more efficient than reapplying the remediation task rules in the classic UI, which is a time-consuming process. For more information, see [Re-evaluate the remediation properties of the records in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-reevaluate-remediation-parameters.md).
+**Important:** As an admin and analyst, you can evaluate the remediation task rules for selected test results in the Vulnerability Manager Workspace. This method is more efficient than reapplying the remediation task rules in the classic UI, which is a time-consuming process. For more information, see [Re-evaluate the remediation properties of the records in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-reevaluate-remediation-parameters.md).
 
 For example, you can group your test results by assignment group or technology and configuration item \(CI\). A different set of rules can be used for test results that expose the company to more risk. You can have one remediation task rule for low severity or low risk CIs. See [View Configuration Compliance test results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/view-vuln-config-compl-test-results.md) for more information on available fields.
 
@@ -80,7 +80,3 @@ When a remediation task assignment is made or changed, the **Assignment group** 
 
 Starting with v14.3, track the number of times a test result or a remediation task is deferred in the Multiple deferrals module. A scheduled job, **set deferral counts**, runs daily to post counts for records that are deferred more than once in the Deferral count column in the records that are listed in the Multiple deferrals module.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

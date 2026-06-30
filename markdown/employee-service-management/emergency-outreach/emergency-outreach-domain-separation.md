@@ -18,11 +18,11 @@ This application fully supports domain separation service provider \(SP\) use ca
 
 |Use case|Functions|Limitations|
 |--------|---------|-----------|
-|SP Internal - SP check-in admin uses the application to contact internal employees by email or through [[mobile-employee-experience|Now Mobile App]].|Yes|None|
+|SP Internal - SP check-in admin uses the application to contact internal employees by email or through Now Mobile App.|Yes|None|
 |SP External - SP check-in admin uses the application to contact tenant employees by email or through Now Mobile App.|Yes|None|
 |Tenant - Tenant check-in admin uses the application to contact their employees \(in their domain only\) by email or through Now Mobile app.|Yes|None|
 
-Some modules in the [[emergency-outreach|Emergency Outreach]] application are affected by domain separation.
+Some modules in the Emergency Outreach application are affected by domain separation.
 
 -   **SEND OUTREACH module \(Create New for employee check-in table\)**
     -   Notification can be configured to target users, groups, departments, locations or customized for conditional criteria
@@ -42,7 +42,3 @@ Some modules in the [[emergency-outreach|Emergency Outreach]] application are af
 
 **Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[emergency-outreach|Emergency Outreach]]

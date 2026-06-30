@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Visitor Management, Workplace Service Delivery
 
 # Configuring Workplace Visitor Management for Workplace Services Kiosk
 
-You can configure pages, check-in flows, check-out flows to integrate [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] with the [[workplace-services-kiosk|Workplace Services Kiosk]].
+You can configure pages, check-in flows, check-out flows to integrate Workplace Visitor Management with the Workplace Services Kiosk.
 
 For more information about the Workplace Services Kiosk, see [Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk.md).
 
@@ -42,7 +42,3 @@ Create a check-in or check-out flow for the Workplace Service Kiosk.
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

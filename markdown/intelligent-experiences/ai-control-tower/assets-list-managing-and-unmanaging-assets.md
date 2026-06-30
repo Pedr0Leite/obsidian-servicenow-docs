@@ -15,7 +15,7 @@ breadcrumb: [AI asset inventory, AI assets, AI Control Tower dashboard, Explore,
 
 # Managed and unmanaged AI assets
 
-Learn about managing how [[ai-assets|AI assets]] are Managed and Unmanaged.
+Learn about managing how AI assets are Managed and Unmanaged.
 
 ## Assets list
 
@@ -23,9 +23,9 @@ AI assets are presented in a list format and organized by display name, provider
 
 ## Managed and Unmanaged assets
 
-Starting with the [[ai-control-tower-landing|AI Control Tower]], Australia \(March 2026\) release, you can designate assets as managed or unmanaged directly from the list. By default, all the assets in AI Control Tower are under unmanaged assets.
+Starting with the AI Control Tower, Australia \(March 2026\) release, you can designate assets as managed or unmanaged directly from the list. By default, all the assets in AI Control Tower are under unmanaged assets.
 
-When an unmanaged asset is marked as managed, it gains access to AI Control Tower capabilities such as governance, lifecycle management, value assessment, risk classification, security, and privacy. If a managed asset is switched back to an unmanaged asset, it loses access to governance, lifecycle management, value assessment, risk classification, security, and privacy [[controls|controls]].
+When an unmanaged asset is marked as managed, it gains access to AI Control Tower capabilities such as governance, lifecycle management, value assessment, risk classification, security, and privacy. If a managed asset is switched back to an unmanaged asset, it loses access to governance, lifecycle management, value assessment, risk classification, security, and privacy controls.
 
 **Note:**
 
@@ -35,15 +35,9 @@ During an upgrade
 -   AI Control Tower capabilities such as lifecycle, risk assessments, value, monitoring and evaluation, security are unavailable until assets are re-managed
 -   Managed assets count toward your licensing usage
 
-[[automation-rules|Automation rules]] automatically designate AI assets as managed based on defined criteria. For more information, see [Automation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/automation-rules.md).
+Automation rules automatically designate AI assets as managed based on defined criteria. For more information, see [Automation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/automation-rules.md).
 
 \[Omitted image "unamanged-managed-asset.png"\] Alt text: Unmanaged and managed AI assets.
 
 **Note:** Initiating a steward review for an unmanaged AI asset triggers the lifecycle process and automatically transitions the asset to a managed state.
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[controls|Controls]]
-- [[automation-rules|Automation rules]]

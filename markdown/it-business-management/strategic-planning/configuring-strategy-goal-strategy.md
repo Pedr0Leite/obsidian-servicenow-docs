@@ -14,7 +14,7 @@ breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Managem
 
 # Configuring Strategy and Goals
 
-[[strategy-goals-landing-page|Strategy and Goals]] in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace requires no mandatory configuration to get started.
+Strategy and Goals in Strategic Planning Workspace requires no mandatory configuration to get started.
 
 Unlike portfolio plan goals, you can create and manage goals on a board without prerequisites or limitations. For example, portfolio plan goals do not display if they are not created at the lens entity level or if the assigned entity fields are empty. In Strategy and Goals, all goals that match the applied filter criteria or selected entity are visible on the board. For details, see [Managing boards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/managing-boards-strategy.md) and [Managing strategy and goals using boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/managing-strategic-goals-strategy.md).
 
@@ -36,7 +36,7 @@ Although no mandatory configuration is required, you can perform the following a
 
 -   **Configure assigned entities**
 
-    You can define goals at any level in your organization without assigning them to a specific entity. Using advanced filter criteria when creating a board, you can manage a specific set of goals based on any goal field value. For example, you can [[create-board-strategy|create a board]] to manage goals that belong to the Chatbot team.
+    You can define goals at any level in your organization without assigning them to a specific entity. Using advanced filter criteria when creating a board, you can manage a specific set of goals based on any goal field value. For example, you can create a board to manage goals that belong to the Chatbot team.
 
     \[Omitted image "board-goal-filter-team.png"\] Alt text: Creating goal-based board with Team filter.
 
@@ -44,11 +44,11 @@ Although no mandatory configuration is required, you can perform the following a
 
     To create boards based on assigned entities other than the defaults, create an entry in the assigned entity configuration. For details, see [Configure a table for an assigned entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-assigned-entity-egm.md).
 
--   **[[configure-goal-preferences|Configure goal preferences]]**
+-   **Configure goal preferences**
 
     Configure goal preferences including the calendar type for goal setting, weighted average calculation for goal progress, and deletion settings for goals and targets. For details, see [Configure goal preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-goal-preferences-apw.md).
 
--   **[[configure-reminders-for-target-actuals-strategy|Configure reminders for target actuals]]**
+-   **Configure reminders for target actuals**
 
     Configure reminders to automatically notify target owners and contributors to update actuals for their targets before the due date, based on the check-in frequency defined for each target. For details, see [Configure reminders for target actuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configure-reminders-for-target-actuals-strategy.md).
 
@@ -56,10 +56,4 @@ Although no mandatory configuration is required, you can perform the following a
 
     Activate the Goal insights generation scheduled job and configure the filter criteria to automatically generate AI-driven insights for a defined set of goals at a scheduled frequency. For details, see [Goal insights generation job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configure-goal-insights-generation-job.md).
 
-## Related
 
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-board-strategy|Create a board]]
-- [[configure-goal-preferences|Configure goal preferences]]
-- [[configure-reminders-for-target-actuals-strategy|Configure reminders for target actuals]]

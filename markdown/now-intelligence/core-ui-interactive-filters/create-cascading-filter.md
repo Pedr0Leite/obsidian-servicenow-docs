@@ -22,7 +22,7 @@ You can create a cascading filter that allows users to select from a list of man
 
 Ensure that the structure of the data that you use to create the filter is consistent. For example, in a cascading filter based on location, ensure that the top-level choices are all regions, and the second-level choices are all countries. You can define filter conditions to ensure that only appropriate choices for each level are available.
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 ## About this task
 
@@ -119,7 +119,3 @@ Duplicate filters are removed according to the following criteria:
 -   If the configuration is the same, but some filters have multiple target columns in the same target table, then all the filters are considered as separate filters and retained. An example of multiple target columns in the same target table is the **Date opened** and **Date escalated** columns in the incident table.
 -   If the configuration and the UI control are the same, but the base condition is different for any two filters, then they are considered separate filters and retained.
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

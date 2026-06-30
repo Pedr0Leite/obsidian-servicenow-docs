@@ -16,7 +16,7 @@ View the product non-conformance reports.
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
+Role required: Quality Issue Management Admin or product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
 
 ## Procedure
 
@@ -29,9 +29,5 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
     -   Open: All the open cases.
     -   Unassigned: Unassigned cases and assign them to the available agent.
 
-**Parent Topic:**[[mco-product-non-conformances|Product non-conformance]]
+**Parent Topic:**[Product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformances.md)
 
-## Related
-
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-quality-issue-management|Quality issue management]]

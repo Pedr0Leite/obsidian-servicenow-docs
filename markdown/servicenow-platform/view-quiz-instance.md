@@ -20,7 +20,7 @@ Role required: admin or assessment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quiz Instances**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quiz Instances**.
 
     The following submodules are available based on the state of the instances:
 
@@ -121,14 +121,10 @@ All instance question records that store user response values for each question 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
 **Related topics**  
 
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-## Related
-
-- [[using-quizzes|Using Quizzes]]
-- [[c_Quizzes|Quizzes]]

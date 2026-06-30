@@ -15,9 +15,9 @@ breadcrumb: [Kubernetes discovery using Kubernetes Visibility Agent, Discovery f
 
 # Exploring Kubernetes Visibility Agent
 
-[[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] enables you to gain visibility into on-premises Kubernetes clusters as well as the various Cloud deployments.
+Kubernetes Visibility Agent enables you to gain visibility into on-premises Kubernetes clusters as well as the various Cloud deployments.
 
-Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster. It performs continuous [[r-discovery|discovery]], reports any changes back to your instance, and updates the Configuration Management Database \(CMDB\) with the latest data. For the latest information on supported cloud deployments, see the [Kubernetes Visibility Agent \(formerly CNO for Visibility\) Support Matrix \[KB1700730\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1700730) article in the Now Support Knowledge Base.
+Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster. It performs continuous discovery, reports any changes back to your instance, and updates the Configuration Management Database \(CMDB\) with the latest data. For the latest information on supported cloud deployments, see the [Kubernetes Visibility Agent \(formerly CNO for Visibility\) Support Matrix \[KB1700730\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1700730) article in the Now Support Knowledge Base.
 
 ## How it works
 
@@ -45,7 +45,3 @@ For Kubernetes Visibility Agent benchmarks, see the [Performance results for Kub
 
 **Parent Topic:**[Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/acc-kubernetes-visibility-landing-page.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]

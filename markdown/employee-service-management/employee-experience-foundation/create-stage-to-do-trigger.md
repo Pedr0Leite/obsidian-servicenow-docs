@@ -22,7 +22,7 @@ Role required: sn\_ca.campaign\_manager
 
 Complete the steps to [Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-create-campaign.md)
 
-Create a stage with a [[ec-to-do-content|to-do content]] item. For more information on this content type, see [To-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-do-content.md).
+Create a stage with a to-do content item. For more information on this content type, see [To-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-do-content.md).
 
 ## About this task
 
@@ -142,7 +142,7 @@ Whether to offset the units before or after the set date.
 
 Defines how long the content in this stage is available. Choose from:-   **Campaign end date** makes content available until the campaign ends.
 -   **Time Length** ends content after a specific number of days or hours.
--   **Dynamic field** uses a trigger table and field to determine when content is no longer available. An example is to end content based on an employee's [[c_HRProfileRecords|HR profile]] and employment end date.
+-   **Dynamic field** uses a trigger table and field to determine when content is no longer available. An example is to end content based on an employee's HR profile and employment end date.
 
 
 </td></tr><tr><td>
@@ -226,7 +226,3 @@ Select to make content from previous stages unavailable.
 -   Click **Add stage** to configure additional stages
 -   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 
-## Related
-
-- [[ec-to-do-content|To-do content]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -12,7 +12,7 @@ breadcrumb: [Use, Model Risk Management, Governance, Risk, and Compliance]
 
 # Perform model risk assessment
 
-Perform the model risk assessment initiated by the Model Governance team to identify and assess the risks related to a quantitative model using the [[model-risk-management|Model Risk Management]] application.
+Perform the model risk assessment initiated by the Model Governance team to identify and assess the risks related to a quantitative model using the Model Risk Management application.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_model\_risk\_mgmt.model\_owner or sn\_model\_risk\_mgmt.model
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Under My active items, select **GRC tasks**.
 
 3.  Select the model risk assessment from the My to-dos card.
 
-4.  Respond to all the [[factors|factors]] or questions listed in the Materiality Assessment.
+4.  Respond to all the factors or questions listed in the Materiality Assessment.
 
 5.  Respond to all the factors or questions listed in the Risk Assessment.
 
@@ -41,11 +41,5 @@ Role required: sn\_model\_risk\_mgmt.model\_owner or sn\_model\_risk\_mgmt.model
 
 The model risk task is submitted for approval. If no approvers are configured, the model directly moves to the Pre-deployment state.
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-management|Model Risk Management]]
-- [[employee-center|employee center]]
-- [[factors|factors]]

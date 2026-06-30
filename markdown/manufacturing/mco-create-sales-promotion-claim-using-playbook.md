@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mco-sls-pro-clm-mgmt|Sales Promotion Claim Management]]** &gt; **All**.
+1.  Navigate to **All** &gt; **Sales Promotion Claim Management** &gt; **All**.
 
     The guided Sales promotion claim case playbook displays.
 
@@ -82,9 +82,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
     Claim is reviewed and approved.
 
 
-**Parent Topic:**[[mco-sales-promotion|Sales promotion]]
+**Parent Topic:**[Sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion.md)
 
-## Related
-
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]

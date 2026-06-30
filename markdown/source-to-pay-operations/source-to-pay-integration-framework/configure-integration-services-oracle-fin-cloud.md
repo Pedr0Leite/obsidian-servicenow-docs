@@ -33,9 +33,9 @@ If the application requires multiple Oracle Financial Cloud ERP instances, creat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Open the [[erp-source|ERP source]] for which you need to configure integration services.
+2.  Open the ERP source for which you need to configure integration services.
 
     For example, Oracle Financial Cloud.
 
@@ -139,7 +139,4 @@ Option to choose the order in which the entity should be displayed.
 
     The integration service is configured for the selected entity.
 
-## Related
 
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

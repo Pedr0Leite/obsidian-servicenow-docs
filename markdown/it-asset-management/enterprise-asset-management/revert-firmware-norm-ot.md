@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Revert normalization of firmware models
 
-Revert the normalization of firmware [[c_Models|models]] in the [[ot-asset-ws-otam|OT Asset Workspace]].
+Revert the normalization of firmware models in the OT Asset Workspace.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
@@ -32,7 +32,7 @@ Normalization of firmware models with a Normalization status of **Normalized**, 
 
 2.  Select the **Firmware discovered** tab.
 
-3.  Select the normalized discovered firmware model for which you want to [[revert-norm-eam|revert normalization]].
+3.  Select the normalized discovered firmware model for which you want to revert normalization.
 
 4.  Select **Revert Normalization**.
 
@@ -46,9 +46,3 @@ After the revert normalization process is complete, the following changes take p
 -   After deactivation of the normalization rule, revert normalization is run on all models that were normalized using that rule earlier.
 -   The **Revert Normalization** option on the model record is replaced with the **Normalize** option.
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]
-- [[revert-norm-eam|Revert normalization]]

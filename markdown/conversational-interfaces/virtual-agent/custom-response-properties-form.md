@@ -15,7 +15,7 @@ breadcrumb: [Customizing Virtual Agent with custom controls, Exploring other Vir
 
 # Custom output properties sheet
 
-Use this sheet to define a custom response control in [[virtual-agent-landing-page|Virtual Agent]].
+Use this sheet to define a custom response control in Virtual Agent.
 
 ## Custom output properties sheet
 
@@ -77,7 +77,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

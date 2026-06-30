@@ -14,11 +14,11 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Learning External Contents form
 
-Description of the field values in the [[learning-external-content-form|Learning External Content form]].
+Description of the field values in the Learning External Content form.
 
 |Field|Description|
 |-----|-----------|
-|Title|Title of the content that is pulled from third-party [[exploring-learning-exp|learning]] system.|
+|Title|Title of the content that is pulled from third-party learning system.|
 |Description|Description of the course item that is pulled from external learning system.|
 |URL|URL to open the course item in external system.|
 |Type|Type of service \(OnDemand Push or Scheduled Pull\) that interacts with external learning system.|
@@ -48,7 +48,3 @@ Description of the field values in the [[learning-external-content-form|Learning
 
 [Collection form]()
 
-## Related
-
-- [[learning-external-content-form|Learning External Content form]]
-- [[exploring-learning-exp|Learning]]

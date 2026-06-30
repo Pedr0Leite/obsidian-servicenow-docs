@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Documentation Sections**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Documentation Sections**.
 
 2.  Click **New**.
 
@@ -35,6 +35,4 @@ Role required: sn\_bcm.admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

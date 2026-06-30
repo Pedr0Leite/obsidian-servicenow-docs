@@ -14,25 +14,25 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Make a reservation using the Now Mobile app
 
-Reserve a workplace location from anywhere and at any time using the [[mobile-employee-experience|Now Mobile app]].
+Reserve a workplace location from anywhere and at any time using the Now Mobile app.
 
 ## Before you begin
 
 Ensure that you have the following applications installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\).
+-   Workplace Core \(sn\_wsd\_core\).
 
     For more information, see [Install Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/install-workplace-service-delivery.md).
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(sn\_wsd\_rsv\).
+-   Workplace Reservation Management \(sn\_wsd\_rsv\).
 
     For more information, see [Install Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/install-wsd-reservation-mgmt.md).
 
--   [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
+-   Workplace Service Delivery for Mobile
 
 To view floor maps, you must have the following installed:
 
--   [[wsm-mappedin-admin|Workplace Space Mapping]], Workplace [[Indoor-mapping|Indoor Mapping]], and Mappedin are installed
+-   Workplace Space Mapping, Workplace Indoor Mapping, and Mappedin are installed
 -   Ensure Map view is enabled. For more information, see [Enable map view to create reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/enable-map-view-mobile-reservations.md).
 
 **Note:** Creating reservations for shift-based modules aren’t supported on native mobile.
@@ -43,9 +43,9 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  On your mobile device, open the Now Mobile app.
 
-    \[Omitted image "wsd-mobile-homepage.png"\] Alt text: [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Mobile Home Screen
+    \[Omitted image "wsd-mobile-homepage.png"\] Alt text: Workplace Service Delivery Mobile Home Screen
 
-    \[Omitted image "wsd-mobile-make-rsv-home-page.png"\] Alt text: Mobile home screen showing the [[reservation-portal|Make a reservation]] option.
+    \[Omitted image "wsd-mobile-make-rsv-home-page.png"\] Alt text: Mobile home screen showing the Make a reservation option.
 
 2.  Tap **Make a reservation**.
 
@@ -151,11 +151,11 @@ Capacity of the reservation.**Note:** If you’re using an iOS device, tap on **
 
 </td></tr><tr><td>
 
-[[standard-service|Standard services]]
+Standard services
 
 </td><td>
 
-Option to select from available standard services based on which the locations must be filtered.**Note:** The field is visible only if you are [[using-wsd-mobile|using Workplace Service Delivery for Mobile]] version .
+Option to select from available standard services based on which the locations must be filtered.**Note:** The field is visible only if you are using Workplace Service Delivery for Mobile version .
 
 </td></tr><tr><td>
 
@@ -217,7 +217,7 @@ View the available reservations using a floor map view instead of a list view. T
 
     The spaces that you have set as favorite using the Workplace Reservation Management Reservation portal are displayed with the favorite icon \(\[Omitted image "favorite-icon.png"\] Alt text: Favorite space icon.\). If you want to set any location as favorite, refer to [Set a location as favorite using the Space details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md).
 
-    **Note:** The favorite option appears only if you have [[employee-center-landing-page|Employee Center]] 25.0.0 and if your administrator has configured the settings.
+    **Note:** The favorite option appears only if you have Employee Center 25.0.0 and if your administrator has configured the settings.
 
 14. To reserve an available space near a person, tap **Browse near a person**.
 
@@ -438,16 +438,3 @@ To reserve a space using the QR code scanning option, see [Scan the QR code to r
 
 **Next topic:**[Get directions to a workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/get-directions-to-a-workplace.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[reservation-portal|Make a reservation]]
-- [[standard-service|Standard services]]
-- [[using-wsd-mobile|Using Workplace Service Delivery for Mobile]]
-- [[employee-center-landing-page|Employee Center]]

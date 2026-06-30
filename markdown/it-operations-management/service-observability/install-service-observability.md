@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Observability, Service Observability, ITOM AIOp
 
 # Install Service Observability
 
-If you have the system admin role, you can install the [[service-observability|Service Observability]] application \(`sn_sow_svcobs`\). The application installs related ServiceNow® Store applications and plug-ins if they aren't already installed.
+If you have the system admin role, you can install the Service Observability application \(`sn_sow_svcobs`\). The application installs related ServiceNow® Store applications and plug-ins if they aren't already installed.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ For more information, see [Components installed with Service Observability](http
 
 **Parent Topic:**[Configuring Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/configuring-service-observability.md)
 
-## Related
-
-- [[service-observability|Service Observability]]

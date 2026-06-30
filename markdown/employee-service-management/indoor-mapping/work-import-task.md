@@ -26,13 +26,13 @@ Import tasks are automated processes, but sometimes require your inputs. If an i
 
 The required input is based on the **Step** field and more information is added to the work notes of the record.
 
--   Source retrieval: This step is required to link the CAD file to its source in the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application.
+-   Source retrieval: This step is required to link the CAD file to its source in the Workplace Service Delivery application.
 -   Georeference: This step is required to position and scale your source floor plan on the map.
 -   Configuration: This step is required to select the layers and place types for the floor plan.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Bulk imports** &gt; **Pending tasks**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Bulk imports** &gt; **Pending tasks**.
 
 2.  From the Floor plan import tasks list, select the task that you want to work on.
 
@@ -40,7 +40,7 @@ The required input is based on the **Step** field and more information is added 
 
 3.  If the import task is at the `Source retrieval` step, select a source for the import task.
 
-    If the file name is the same as the source, the system automatically selects the source and moves to the next step. Otherwise, the [[automate-map-updates-agent-ai|Automate map updates agentic workflow]] is triggered to retrieve the source. The Map Admin Agent autonomously retrieves sources for the uploaded CAD file. If the correct source is found, the agent sets the source and resumes the task. If the source isn't found, the agent moves the task to the `Waiting user input` state.
+    If the file name is the same as the source, the system automatically selects the source and moves to the next step. Otherwise, the Automate map updates agentic workflow is triggered to retrieve the source. The Map Admin Agent autonomously retrieves sources for the uploaded CAD file. If the correct source is found, the agent sets the source and resumes the task. If the source isn't found, the agent moves the task to the `Waiting user input` state.
 
     For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
@@ -85,8 +85,3 @@ The required input is based on the **Step** field and more information is added 
 
 **Next topic:**[Compute CAD file properties to extract space or room surface area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/compute-cad-properties.md)
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[automate-map-updates-agent-ai|Automate map updates agentic workflow]]

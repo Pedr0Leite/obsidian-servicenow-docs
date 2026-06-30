@@ -33,7 +33,7 @@ Follow these steps to create an asset manually.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[c_ModelCategories|Model Categories]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Model Categories**.
 
 2.  Open a model category that has no assigned CI class.
 
@@ -55,7 +55,3 @@ Follow these steps to create an asset manually.
 
 [Delete model categories]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ModelCategories|Model categories]]

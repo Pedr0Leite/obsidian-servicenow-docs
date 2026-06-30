@@ -15,7 +15,7 @@ breadcrumb: [Kubernetes discovery using Kubernetes Visibility Agent, Discovery f
 
 # Kubernetes Visibility Agent Reference
 
-Reference information about [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]].
+Reference information about Kubernetes Visibility Agent.
 
 -   **[Data collected by Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-collected-data.md)**  
 The Kubernetes Visibility Agent Informer collects data on Kubernetes resources and populates various CMDB tables.
@@ -30,6 +30,3 @@ You can install Kubernetes Visibility Agent using the Terraform Helm provider.
 
 **Parent Topic:**[Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/acc-kubernetes-visibility-landing-page.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

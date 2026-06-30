@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with Process Mining
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] with the Process Mining application to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
+Integrate Customer Service Management with the Process Mining application to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
 For more information about enabling the Process Mining Content Pack for CSM, see [Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-po-content-pack.md).
 
@@ -62,6 +62,3 @@ Select the Process Mining Content Pack for CSM \(com.snc.csm\_process\_optimizat
 
 [Process Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/csm-integration-po.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

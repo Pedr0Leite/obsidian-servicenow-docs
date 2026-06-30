@@ -20,9 +20,9 @@ Use color variables in the **Description** field of your inputs to control text 
 
  Use color variables in the **Description** field of your inputs to control text color when **Description** field is configured as `HTML`.
 
- For example, in addition to color hex values like `#FF0000`, you may use a color variable, such as `--now-color-primary-0`. For a list of available variables see [[color-guide-landing|Color theme considerations for mobile]].
+ For example, in addition to color hex values like `#FF0000`, you may use a color variable, such as `--now-color-primary-0`. For a list of available variables see [Color theme considerations for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-guide-landing.md).
 
- For details on inputs, see [[parameter-screen-config|Configure an input form screen]].
+ For details on inputs, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 </td><td>
 
@@ -703,8 +703,3 @@ Yellow \(Alternate\)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[color-guide-landing|Color theme considerations for mobile]]
-- [[parameter-screen-config|Configure an input form screen]]

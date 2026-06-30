@@ -14,7 +14,7 @@ breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
 
 # Enable protected tables plugin
 
-Use the **com.glide.security.protected\_table.enabled** property to prevent higher privilege [[users|users]] from tampering with log tables.
+Use the **com.glide.security.protected\_table.enabled** property to prevent higher privilege users from tampering with log tables.
 
 When the **com.glide.security.protected\_table.enabled** system property is set to **true**, The Protected Tables plugin is utilized to prevent higher privilege users on an instance from tampering with log tables. The following logging tables will have special protections when this property is set to **true**:
 
@@ -39,7 +39,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -51,7 +51,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -122,8 +122,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

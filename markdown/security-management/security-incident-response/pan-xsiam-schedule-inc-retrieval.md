@@ -80,7 +80,7 @@ One-Time Retrieval
 
 Option to enable one-time retrieval of historical Cortex XSIAM incidents and followed by the reconciliation of the data.When processing the data, both ongoing incidents and historical data are pulled.
 
-**Note:** The retrieved historical Cortex XSIAM incidents undergo de-duplication checks to avoid any duplicates within the [[sir-landing-page|Security Incident Response]] application.
+**Note:** The retrieved historical Cortex XSIAM incidents undergo de-duplication checks to avoid any duplicates within the Security Incident Response application.
 
 </td></tr><tr><td>
 
@@ -98,6 +98,3 @@ The date since historical incidents were ingested from Cortex XSIAM.
 
 [Automate incident updates and closures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-xsiam-automate-inc-updates.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

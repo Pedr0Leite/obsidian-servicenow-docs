@@ -32,13 +32,10 @@ An administrator can reroute the workflow when a script error occurs by creating
 
     The **Error** exit appears on the activity.
 
-6.  [[c_Connect|Connect]] the **Error** exit to another activity for handling the error state, such as **Notification** or **Log Message**.
+6.  Connect the **Error** exit to another activity for handling the error state, such as **Notification** or **Log Message**.
 
     \[Omitted image "ErrorHandlingExit2.png"\] Alt text: Error handling exit
 
 
 **Parent Topic:**[Workflow error handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowErrorHandling.md)
 
-## Related
-
-- [[c_Connect|Connect]]

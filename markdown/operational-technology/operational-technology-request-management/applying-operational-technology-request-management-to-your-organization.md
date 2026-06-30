@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Request Management, Operational Tec
 
 # Applying Operational Technology Request Management to your OT system
 
-You can apply [[operational-technology-request-management-landing-page|Operational Technology Request Management]] to your [[operational-technology-overview|Operational Technology]] \(OT\) system to enable other users to create and submit OT requests for OT products and services.
+You can apply Operational Technology Request Management to your Operational Technology \(OT\) system to enable other users to create and submit OT requests for OT products and services.
 
 ## Operational Technology Request Management overview
 
@@ -51,7 +51,3 @@ Can use Operational Technology Request Management to engage with the correct tea
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/exploring-operational-technology-request-management.md)
 
-## Related
-
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[operational-technology-overview|Operational Technology]]

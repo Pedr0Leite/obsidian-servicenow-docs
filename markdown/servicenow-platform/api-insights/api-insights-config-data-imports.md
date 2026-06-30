@@ -14,7 +14,7 @@ breadcrumb: [Configure, API Insights, Configuration Management Database \(CMDB\)
 
 # Configuring settings to manage API data and imports in API Insights
 
-As a CMDB administrator with the sn\_cmdb\_admin role, you can set up data model recommendations for API clustering, configure settings for importing APIs into the [[api-insights|API Insights]] workspace, and optionally review enterprise architect administrator settings for managing APIs.
+As a CMDB administrator with the sn\_cmdb\_admin role, you can set up data model recommendations for API clustering, configure settings for importing APIs into the API Insights workspace, and optionally review enterprise architect administrator settings for managing APIs.
 
 ## CMDB administrator tasks overview
 
@@ -34,6 +34,4 @@ As a CMDB administrator with the sn\_cmdb\_admin role, you can set up data model
 
     Configure and automate creating CMDB relationships between APIs and application services or business applications based on API tags.
 
-## Related
 
-- [[api-insights|API Insights]]

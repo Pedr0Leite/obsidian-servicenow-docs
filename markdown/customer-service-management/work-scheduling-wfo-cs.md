@@ -18,9 +18,9 @@ The following image provides a high-level overview of Work scheduler.\[Omitted i
 
 As an administrator, you can:
 
--   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [[setup-work-scheduler-wfo-cs|Set up a work configuration]].
--   Create work scheduler cards and configure them based on your needs. For more information, see [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]].
--   Associate the work scheduler cards with work configurations. For more information, see [[associate-card-config-wfo-cs|Associate a work scheduler card to the work configuration]].
+-   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [Set up a work configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-work-scheduler-wfo-cs.md).
+-   Create work scheduler cards and configure them based on your needs. For more information, see [Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md).
+-   Associate the work scheduler cards with work configurations. For more information, see [Associate a work scheduler card to the work configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-card-config-wfo-cs.md).
 
 As a manager, you can:
 
@@ -30,7 +30,7 @@ As a manager, you can:
 -   Configure your work queue to display the most relevant work items.
 -   Assign or reassign work items based on your teams' shifts, and skill recommendation.
 -   Assign work items based on your teams' shifts.
--   Add criteria for matching [[gamification-components-rules|rules]] and then rank team members and assign work items based on those rules.
+-   Add criteria for matching rules and then rank team members and assign work items based on those rules.
 
 ## Getting started with Work scheduler in Workforce Optimization for Customer Service
 
@@ -38,22 +38,10 @@ Easily find tasks you need to complete in the Scheduling module.
 
 |Benefit|User|Finding tasks to complete in Work scheduler|
 |-------|----|-------------------------------------------|
-|Activate Work scheduler in Workforce Optimization for Customer Service.|admin|[[request-configurable-wfo-cs|Activate Work scheduler]]|
-|Refer to the components such as system properties used in Work scheduler.|[[work-scheduler-wfo-cs-reference|Any Work scheduler role]]|[Understand components used in Work scheduler in Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs-reference.md)|
-|Set up Work scheduler for the Work scheduler managers so that assign work items based on their teams' skills, availability, and capacity.|[[components-installed-configurable-wfo-cs|Work scheduler admin]]|[[setting-up-work-scheduler-wfo-cs|Set up Work scheduler in Workforce Optimization for CSM]]|
-|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md)|[[work-scheduler-wfo-cs|Use Work scheduler in Workforce Optimization for CSM]]|
+|Activate Work scheduler in Workforce Optimization for Customer Service.|admin|[Activate Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md)|
+|Refer to the components such as system properties used in Work scheduler.|[Any Work scheduler role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs-reference.md)|[Understand components used in Work scheduler in Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs-reference.md)|
+|Set up Work scheduler for the Work scheduler managers so that assign work items based on their teams' skills, availability, and capacity.|[Work scheduler admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md)|[Set up Work scheduler in Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-work-scheduler-wfo-cs.md)|
+|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md)|[Use Work scheduler in Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs.md)|
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-work-scheduler-wfo-cs|Set up a work configuration]]
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]
-- [[associate-card-config-wfo-cs|Associate a work scheduler card to the work configuration]]
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[work-scheduler-wfo-cs-reference|Work Scheduler components in Workforce Optimization for Customer Service reference]]
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[setting-up-work-scheduler-wfo-cs|Setting up Work scheduler in Workforce Optimization for Customer Service]]
-- [[work-scheduler-wfo-cs|Assigning work using Work Scheduler in Workforce Optimization for Customer Service]]
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[gamification-components-rules|Rules]]

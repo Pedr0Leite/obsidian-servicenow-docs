@@ -20,7 +20,7 @@ You can add reports to forms such as change requests, and configure the report v
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-The following [[report-types-creation-details-rd|report types]] are not supported on forms: List, Pivot, Multilevel Pivot, Calendar, and Single Score.
+The following report types are not supported on forms: List, Pivot, Multilevel Pivot, Calendar, and Single Score.
 
 ## Procedure
 
@@ -77,6 +77,3 @@ The selected report appears on all forms which are of the same type as the one s
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[report-types-creation-details-rd|Report types]]

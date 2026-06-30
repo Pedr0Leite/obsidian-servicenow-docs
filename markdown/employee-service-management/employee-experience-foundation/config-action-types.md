@@ -26,7 +26,7 @@ Action group provides quick access to approve or reject the requests directly fr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[action-group-framework|Action framework]]** &gt; **Actions**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action framework** &gt; **Actions**.
 
 2.  Click **New** or edit an existing record.
 
@@ -51,7 +51,3 @@ Action group provides quick access to approve or reject the requests directly fr
 
 Action type is configured. You can associate this **Action type** to Actions.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[action-group-framework|Action framework]]

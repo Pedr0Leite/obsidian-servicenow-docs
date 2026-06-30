@@ -28,7 +28,7 @@ Role required: admin
 
     Check that the added CPU information is correct.
 
-3.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ActivatingTheIBMPVUProcessPack.md) the Software [[c_AssetManagement|Asset Management]] plugin - IBM PVU Process Pack plugin.
+3.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ActivatingTheIBMPVUProcessPack.md) the Software Asset Management plugin - IBM PVU Process Pack plugin.
 
     This also activates the Software Asset Management plugin if it is not already active.
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

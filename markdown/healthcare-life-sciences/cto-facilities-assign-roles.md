@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for F
 
 # Set up roles for Care Team Operations for Facilities
 
-Confirm that the appropriate roles are assigned to users of [[cto-facilities-landing|Care Team Operations for Facilities]].
+Confirm that the appropriate roles are assigned to users of Care Team Operations for Facilities.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Monitors the tasks within their organizations.
 </td></tr></tbody>
 </table>**Example:**
 
-A user who must fulfill work orders created from the [[care-team-portal-landing|Care Team Portal]] using Care Team Operations for Facilities should be assigned the sn\_cto\_facilities.loc\_support\_agent role.
+A user who must fulfill work orders created from the Care Team Portal using Care Team Operations for Facilities should be assigned the sn\_cto\_facilities.loc\_support\_agent role.
 
 ## Procedure
 
@@ -67,7 +67,4 @@ A user who must fulfill work orders created from the [[care-team-portal-landing|
 
 4.  Select **Save**.
 
-## Related
 
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[care-team-portal-landing|Care Team Portal]]

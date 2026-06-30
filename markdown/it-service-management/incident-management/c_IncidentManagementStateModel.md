@@ -14,7 +14,7 @@ breadcrumb: [Explore, Incident Management, IT Service Management]
 
 # Life cycle of an Incident
 
-[[c_IncidentManagement|Incident Management]] is responsible for managing the life cycle of incidents, from creation to closure.
+Incident Management is responsible for managing the life cycle of incidents, from creation to closure.
 
 The Incident Management process has many states, and each is vitally important to the success of the process and the quality of service delivered. The different states can be represented in a diagram as follows:
 
@@ -88,6 +88,3 @@ Incident was triaged but found to be a duplicate incident, an unnecessary incide
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-management-process.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

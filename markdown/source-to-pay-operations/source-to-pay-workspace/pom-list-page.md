@@ -14,9 +14,9 @@ breadcrumb: [Source-to-Pay Workspace list page, Explore, Workspace, Source-to-Pa
 
 # POM list page
 
-As an Operational Buyer, use the list page to view all [[purchase-order-table|purchase order]] exceptions and work on the exceptions assigned to you.
+As an Operational Buyer, use the list page to view all purchase order exceptions and work on the exceptions assigned to you.
 
-In the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], select the List icon to open the List page.
+In the Source-to-Pay Workspace, select the List icon to open the List page.
 
 You can select each module and submodule to view the details in a list. Under **Lists**, you can do the following:
 
@@ -67,7 +67,3 @@ All work
 
 [APO list page]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

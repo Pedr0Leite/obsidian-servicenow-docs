@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Using Predictive Intelligence
 
-Train and use [[predictive-intelligence-landing|Predictive Intelligence]] solutions to accomplish various tasks and that integrate with other ServiceNow products, such as [[document-intelligence-landing|Document Intelligence]] and [[task-intelligence|Task Intelligence]].
+Train and use Predictive Intelligence solutions to accomplish various tasks and that integrate with other ServiceNow products, such as Document Intelligence and Task Intelligence.
 
 ## Overview of Predictive Intelligence
 
@@ -78,8 +78,3 @@ In general, non-production environments are where workflows can be tested and fo
 
 For more information about getting started with Predictive Intelligence, see [our guide on how to get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[task-intelligence|Task Intelligence]]

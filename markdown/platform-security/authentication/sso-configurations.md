@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider single sign-on \(SSO\), Authentication, Access Manag
 
 # Multi-Provider SSO configurations
 
-You must perform several steps to set up Multi-Provider SSO, including configuring properties, creating [[identity-landing|identity]] providers \(IdPs\), and configuring [[users|users]] to use SSO.
+You must perform several steps to set up Multi-Provider SSO, including configuring properties, creating identity providers \(IdPs\), and configuring users to use SSO.
 
 Refer the following topics to know more about each of the configurations.
 
@@ -23,7 +23,3 @@ Refer the following topics to know more about each of the configurations.
 -   [Create an external identity provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreateUpdateIdentityProvider.md)
 -   [Configure users for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ConfigureUsersMultiProviderSSO.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[users|Users]]

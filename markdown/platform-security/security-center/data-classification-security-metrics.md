@@ -14,7 +14,7 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 # Data Classification
 
-Access the [[sc-metrics|Security Metrics]] for [[data-classification|data classification]] on your ServiceNow instance.
+Access the Security Metrics for data classification on your ServiceNow instance.
 
 Data classification enables you to apply data classification labels to existing dictionary entries in any table. These labels help to provide visibility into the types of data hosted in your instances. Use these classifications to comply with privacy laws, and meet industry regulation requirements.
 
@@ -25,15 +25,9 @@ See [data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 The data is graphically displayed in a customizable chart that provides detailed analysis such as setting targets, thresholds, trends, statistics, or forecasts. The data is also organized as records in a table. See [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_UsePerformanceAnalyticsScorecards.md) for more information.
 
-Select the cards to view the individual [[ca-metrics|metrics]] page with additional details.
+Select the cards to view the individual metrics page with additional details.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[sc-metrics|Security metrics]]
-- [[data-classification|Data Classification]]
-- [[ca-metrics|Metrics]]
-- [[security-task-manager|Security Tasks]]

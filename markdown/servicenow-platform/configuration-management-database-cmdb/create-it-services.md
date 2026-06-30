@@ -14,7 +14,7 @@ breadcrumb: [Service instances \(Application services\), Configuration Managemen
 
 # Create a Service instance \(application service\)
 
-Create an application service to adhere to [[csdm-landing-page|Common Service Data Model]] standards and to standardize the organization, maintenance, and monitoring of services in your organization.
+Create an application service to adhere to Common Service Data Model standards and to standardize the organization, maintenance, and monitoring of services in your organization.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: Depending on the population method used:
 
 ## About this task
 
-An application service is a set of interconnected applications and hosts, which are configured to offer a service for the organization. Application services can be internal, like an organization's [[email|email]] system, or customer-facing, like an organization's website.
+An application service is a set of interconnected applications and hosts, which are configured to offer a service for the organization. Application services can be internal, like an organization's email system, or customer-facing, like an organization's website.
 
 An application service has an entry point, which lets users access the application service. If you are at the planning stage and don’t know what the entry points are for an application service, you can create the application service without entry points. Such an application service is referred to as an empty application service, to which you can add entry points at any later time.
 
@@ -218,7 +218,3 @@ The application service is created, and you can access the new application servi
     -   [Compare two versions of an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_CompareBS.md)
 -   Select **Advanced**, and then on the Advanced Details page, select **Additional Info**, **Questionnaire**, **Reject Messages**, or **Worknotes**, to add details.
 
-## Related
-
-- [[csdm-landing-page|Common Service Data Model]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Cancel Journey Accelerator Journeys
 
-You can now cancel [[journey-accelerator-1|Journey Accelerator]] only journeys from the [[employee-center-landing-page|Employee Center]] portal.
+You can now cancel Journey Accelerator only journeys from the Employee Center portal.
 
 ## Before you begin
 
@@ -31,7 +31,3 @@ Role required: sn\_jny.admin
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

@@ -28,13 +28,13 @@ To specify the breakup of resource requirements for monthly or weekly Allocation
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **Planning** or **Rejected**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **Planning** or **Rejected**.
 
 2.  Open a resource plan.
 
 3.  In the **Requested Allocations** related list, select **New**.
 
-4.  On the [[requested-allocation-form|Requested Allocation form]], fill in the fields.
+4.  On the Requested Allocation form, fill in the fields.
 
     For a description of the field values, see [Requested Allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/requested-allocation-form.md).
 
@@ -72,7 +72,3 @@ For a weekly allocation, requested allocation records created similar to monthly
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[requested-allocation-form|Requested Allocation form]]

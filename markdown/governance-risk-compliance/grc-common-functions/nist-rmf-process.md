@@ -16,19 +16,19 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 The NIST RMF navigation structure facilitates the management of the NIST security controls through activities of categorization, selection, implementation, assessment, authorization, and monitoring. These security controls are described in the NIST 800-37.r1 special publication.
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 ## NIST RMF process overview
 
 1.  The risk executives and/or the security officers categorize the targets.
-2.  The risk executives, the security officers and/or the control providers [[rmf-select|select baseline control definitions]].
+2.  The risk executives, the security officers and/or the control providers select baseline control definitions.
 3.  The risk executives and/or the security officers implement baseline security controls.
 4.  The security accessors, the risk executives, and/or the security officers assess the security controls:
-    1.  [[manage-address-issues|Manage and address issues]]
-    2.  [[manage-address-remediation-tasks|Manage and address remediation tasks]]
-5.  The authorizing official, the risk executives, and/or the security officers [[rmf-authorize-targets|authorize targets]].
-6.  The risk executives and/or the security officers [[rmf-monitor|monitor security controls]]:
-    1.  [[rmf-review-manage-indicators|Review and manage indicators]]
+    1.  Manage and address issues
+    2.  Manage and address remediation tasks
+5.  The authorizing official, the risk executives, and/or the security officers authorize targets.
+6.  The risk executives and/or the security officers monitor security controls:
+    1.  Review and manage indicators
     2.  Monitor the NIST RMF Overview dashboard
 
 -   **[Categorize targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-categorize.md)**  
@@ -46,12 +46,3 @@ Within the NIST RMF application, the **Monitor** section involves the on-going m
 
 **Parent Topic:**[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-and-nistrmf-usecase-accelerator.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[rmf-select|Select baseline control definitions]]
-- [[manage-address-issues|Manage and address issues]]
-- [[manage-address-remediation-tasks|Manage and address remediation tasks]]
-- [[rmf-authorize-targets|Authorize targets]]
-- [[rmf-monitor|Monitor security controls]]
-- [[rmf-review-manage-indicators|Review and manage indicators]]

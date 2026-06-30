@@ -18,12 +18,12 @@ Time Sheet Portal categorizes and displays all your assigned tasks in a single v
 
 Time Sheet Portal works with the Task table to record the time that you spend on various task types, such as projects, incidents, problems, and change requests. It provides a complete breakdown of the time you enter for the task, task categories, and days in a week. It enables you to:
 
--   Generate [[c_TimeCards|time cards]] for assigned projects or [[t_CreateAProjectTask|project tasks]].
--   [[copy-time-sheet|Copy time cards from a previous time sheet]].
--   Search and [[t_CreateATimeCard|create a time card]] for a task that is not displayed in the assigned tasks list.
+-   Generate time cards for assigned projects or project tasks.
+-   Copy time cards from a previous time sheet.
+-   Search and create a time card for a task that is not displayed in the assigned tasks list.
 -   Edit, delete, or add notes to a time card.
 -   Submit, approve, reject, and recall a time sheet.
--   View notifications for the submitted, rejected, and recalled [[time-sheets|time sheets]] or time cards.
+-   View notifications for the submitted, rejected, and recalled time sheets or time cards.
 
 Time Sheet Portal comprises of the following sections:
 
@@ -58,7 +58,7 @@ The **Tasks** tab displays your assigned tasks as cards. Each card provides info
     -   When there are no actual dates for a project, planned dates of the project must occur within the selected week.
 -   All active stories assigned to you.
 -   All active scrum tasks assigned to you or closed in the selected week.
--   All active [[c_TestPlans|test plans]] assigned to you.
+-   All active test plans assigned to you.
 -   All active defect and enhancements assigned to you or closed in the selected week.
 
 **Note:** If the Customer Service Management plugin \(com.sn\_customerservice\) is activated, your assigned tasks that are active and closed in the selected week are also derived from the following tables:
@@ -103,7 +103,7 @@ The Time Sheet section:
 -   Indicates the state of the time sheet being viewed.
 -   Displays the total number of tasks and hours that you have entered for each day in a week. When you click a day in the time sheet, the column for that day is highlighted in both the **Time Sheet** and **Logged Time Cards** sections. The first day displayed in the Time Sheet section is based on the value specified in the **Week starts on** field in the users [Time Sheet Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md). For example, if the **Week starts on** field is set to Friday, the Time Sheet section starts with Friday.
 -   Indicates the total number of hours that you entered in the time sheet. Time Sheet breakdown also displays a breakdown of user-entered hours in different work categories, such as project tasks, admin, meeting, follow on tasks, or change requests.
--   Provides options that enable you to [submit a time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/submit-timesheet-workerportal.md) and copy time cards from a previous time sheet. For an approver, options to approve or reject a submitted time sheet and [[recall-approved-time-sheet|recall a processed time sheet]] are available.
+-   Provides options that enable you to [submit a time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/submit-timesheet-workerportal.md) and copy time cards from a previous time sheet. For an approver, options to approve or reject a submitted time sheet and recall a processed time sheet are available.
 
 ## Logged Time Cards
 
@@ -135,12 +135,3 @@ As a user manager, you can log time and submit the time sheet of your resources.
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[copy-time-sheet|Copy time cards from a previous time sheet]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[time-sheets|Time Sheets]]
-- [[c_TestPlans|Test plans]]
-- [[recall-approved-time-sheet|Recall a processed time sheet]]

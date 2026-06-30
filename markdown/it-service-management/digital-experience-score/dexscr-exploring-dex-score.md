@@ -14,13 +14,13 @@ breadcrumb: [Digital Experience Score, Digital End-User Experience, IT Service M
 
 # Exploring Digital Experience Score​
 
-Learn more about [[dexscr-digital-experience-score|Digital Experience Score​]] \(DEX Score\) and review the benefits it can provide for different users in your organization.
+Learn more about Digital Experience Score​ \(DEX Score\) and review the benefits it can provide for different users in your organization.
 
 ## Digital Experience Score​ overview
 
 Digital Experience Score​ provides comprehensive insight into the digital experience of your employees by analyzing the following three key data sources:
 
--   Monitored metrics from end-user [[dex-workspace-devices-tab|devices]]
+-   Monitored metrics from end-user devices
 -   User sentiment
 -   Service desk experience
 
@@ -81,7 +81,7 @@ Digital Experience Score​ dashboard
 </td></tr></tbody>
 </table>## Key terms
 
--   **DEX-monitored [[dex-workspace-application-tab|applications]] and devices**
+-   **DEX-monitored applications and devices**
 
     DEX-monitored apps and devices are the ones that are tracked and measured using Digital Experience \(DEX\) metrics. These metrics are then used to compute scores. These scores can be individual normalized metric scores, weighted averages of metric scores, or averages of all scores for each metric.
 
@@ -110,8 +110,3 @@ To learn more about configuring and using Digital Experience Score​, see:
 -   [Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-using-dex-score.md)
 -   [Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

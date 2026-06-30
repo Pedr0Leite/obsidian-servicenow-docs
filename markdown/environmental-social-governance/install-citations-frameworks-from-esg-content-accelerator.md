@@ -22,7 +22,7 @@ Role required: sn\_esg.admin
 
 1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace**.
 
-2.  Select **[[esg-content-accelerator|Unified content management]]**.
+2.  Select **Unified content management**.
 
 3.  Select the version for the required framework.
 
@@ -41,9 +41,5 @@ Role required: sn\_esg.admin
 8.  To update a framework, select a framework and select **Update**.
 
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
-## Related
-
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
-- [[esg-content-accelerator|Unified content management]]

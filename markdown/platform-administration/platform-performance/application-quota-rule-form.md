@@ -62,7 +62,7 @@ Log only
 
 </td><td>
 
-When checked, transactions are not canceled by a quota violation, but entries are added to the local host log that indicate the transactions are violating the quota rule.An entry is added to the [[transaction-cancellation|Transaction Cancellation]] Log where the log only field is set.
+When checked, transactions are not canceled by a quota violation, but entries are added to the local host log that indicate the transactions are violating the quota rule.An entry is added to the Transaction Cancellation Log where the log only field is set.
 
 </td></tr><tr><td>
 
@@ -99,6 +99,3 @@ A description of the transaction quota.
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 
-## Related
-
-- [[transaction-cancellation|Transaction cancellation]]

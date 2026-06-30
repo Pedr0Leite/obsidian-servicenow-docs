@@ -12,7 +12,7 @@ breadcrumb: [Send email using client credential flow, Advanced email setup, Conf
 
 # Configure client credential flow for SMTP OAuth2 using a client id and secret
 
-Configure [[ia-outbound-email-il|outbound email]] accounts in a ServiceNow instance using a client id and secret.
+Configure outbound email accounts in a ServiceNow instance using a client id and secret.
 
 ## Before you begin
 
@@ -89,17 +89,12 @@ Role required: Microsoft Azure portal administrator and admin
 
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
-    You use the **OAuth 2.0 token endpoint \(v2\)** when registering an OAuth provider. For more information, see [[register-oauth-cred-flow|Register an OAuth provider]].
+    You use the **OAuth 2.0 token endpoint \(v2\)** when registering an OAuth provider. For more information, see [Register an OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-oauth-cred-flow.md).
 
 
 ## What to do next
 
 [Register an OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-oauth-cred-flow.md)
 
-**Parent Topic:**[[send-email-client-credential-flow|Sending email using client credential flow]]
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-client-credential-flow.md)
 
-## Related
-
-- [[register-oauth-cred-flow|Register an OAuth provider]]
-- [[send-email-client-credential-flow|Sending email using client credential flow]]
-- [[ia-outbound-email-il|Outbound email]]

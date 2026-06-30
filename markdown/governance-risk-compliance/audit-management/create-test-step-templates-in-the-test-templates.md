@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace Overview, Audit Management, Governance, Risk, and C
 
 # Create test step templates in the test templates
 
-Create and add a test step template to a test template from the [[audit-management-overview-ws|Audit Workspace]] to define control assessment steps.
+Create and add a test step template to a test template from the Audit Workspace to define control assessment steps.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ Role required: sn\_audit.admin, sn\_audit.manager, or sn\_audit.user
 
 12. Select **Add** to add to the test templates.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

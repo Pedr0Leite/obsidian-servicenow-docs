@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure mention suggestions
 
-[[configure-onboarding-modals|Configure]] @mentions that display suggestions based on recipients with access to view the record.
+Configure @mentions that display suggestions based on recipients with access to view the record.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ When you use @mentions, context-based suggestions display a list of recipients w
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

@@ -28,7 +28,7 @@ Automate a multi-step process by creating a workflow from the list view of any t
 
     \[Omitted image "ConfigureWorkflowsHeader.png"\] Alt text:
 
-    The **[[c_WorkflowVersions|Workflow Versions]]** on that table appear in a list.
+    The **Workflow Versions** on that table appear in a list.
 
 3.  Click**New**.
 
@@ -59,6 +59,3 @@ Automate a multi-step process by creating a workflow from the list view of any t
 
 **Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md)
 
-## Related
-
-- [[c_WorkflowVersions|Workflow versions]]

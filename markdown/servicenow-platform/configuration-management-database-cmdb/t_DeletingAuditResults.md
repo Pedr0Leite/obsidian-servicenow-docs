@@ -24,12 +24,12 @@ Role required: none
 
 1.  Navigate to one of these modules:
 
-    -   **Compliance** &gt; **[[c_DesiredState|Desired State]]** &gt; **Audit Results**
-    -   **Compliance** &gt; **[[c_ArchitectureCompliance|Architecture Compliance]]** &gt; **Audit Results**
-    -   **Compliance** &gt; **[[c_ScriptedAudits|Scripted Audits]]** &gt; **Audit Results**
+    -   **Compliance** &gt; **Desired State** &gt; **Audit Results**
+    -   **Compliance** &gt; **Architecture Compliance** &gt; **Audit Results**
+    -   **Compliance** &gt; **Scripted Audits** &gt; **Audit Results**
     The list groups by audit name.
 
-2.  Select the [[check-box|check box]] for a result in the list, and then select **Delete** from the **Actions on selected rows** menu at the bottom of the list.
+2.  Select the check box for a result in the list, and then select **Delete** from the **Actions on selected rows** menu at the bottom of the list.
 
     **Note:** If the result record has a follow-on task, the **Delete** option is not available. If you select multiple records, some with and some without tasks, the system only deletes those records that do not have tasks.
 
@@ -39,9 +39,4 @@ Role required: none
 
 4.  Click **Delete**.
 
-## Related
 
-- [[c_DesiredState|Desired State]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_ScriptedAudits|Scripted audits]]
-- [[check-box|Check box]]

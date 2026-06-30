@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-To use Amazon Bedrock as your LLM provider for [[generative-ai-controller|Generative AI Controller]] capabilities, you must have an active connection configured.
+To use Amazon Bedrock as your LLM provider for Generative AI Controller capabilities, you must have an active connection configured.
 
 ## Procedure
 
@@ -51,6 +51,3 @@ You can use Amazon Bedrock as your provider for Generative AI Controller capabil
 
 \[Omitted image "gai-created-connection-amazon.png"\] Alt text: Complete connection for Amazon Bedrock.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

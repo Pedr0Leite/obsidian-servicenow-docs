@@ -118,8 +118,5 @@ Example: Third-party request body:
     Sends a sample notification to verify webhook integration.
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[io-alerts-intro|Alerts in Instance Observer]]

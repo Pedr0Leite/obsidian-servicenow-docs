@@ -168,8 +168,5 @@ Business Object Group
 Represents the logical grouping of entities involved in a process and the category for different types of business entities.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]
+</table>**Parent Topic:**[Lead-to-Cash Process Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-cash-process-management-reference.md)
 
-## Related
-
-- [[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]

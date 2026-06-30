@@ -16,7 +16,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Leverage the enhanced licensing rule to optimize licensing for legacy  Microsoft SQL Server Enterprise edition licenses under the Server + CAL licensing model with Software Assurance \(SA\).
 
-Microsoft no longer sells new SQL Server Enterprise Server + CAL licenses, but existing customers with active software assurance can continue to use this licensing. The  [[c_SoftwareAssetMgmt|Software Asset Management]] Professional application enables you to license SQL Server based on a combination of server licenses and client access licenses \(CALs\).
+Microsoft no longer sells new SQL Server Enterprise Server + CAL licenses, but existing customers with active software assurance can continue to use this licensing. The  Software Asset Management Professional application enables you to license SQL Server based on a combination of server licenses and client access licenses \(CALs\).
 
 ## Licensing rules for SQL Server enterprise on Server + CAL Model
 
@@ -51,6 +51,3 @@ For configuring the Microsoft SQL Server Enterprise on Software Asset Management
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

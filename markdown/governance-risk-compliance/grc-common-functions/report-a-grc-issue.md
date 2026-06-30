@@ -15,7 +15,7 @@ breadcrumb: [AI agents in Now Assist for IRM, Use agentic AI, Now Assist, Common
 
 # Report a GRC issue
 
-Report GRC issues by using the **Report a GRC issue** AI agent in [[employee-center|Employee Center]]. The AI agent guides you, structures your input, and suggests relevant controls, entities, and policies before submission.
+Report GRC issues by using the **Report a GRC issue** AI agent in Employee Center. The AI agent guides you, structures your input, and suggests relevant controls, entities, and policies before submission.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/Servic
 
 ## About this task
 
-The [[issue-submission-ai-agent|report a GRC issue AI Agent]] helps you log GRC issues in the Employee Center. It validates the input, structures the issue details, and suggests relevant controls, entities, and policies. The agent ensures accuracy by confirming whether the issue qualifies as a GRC issue. It then summarizes the details into key components such as name, problem statement, root cause, issue type, date of occurrence, affected policies, impacted entities, and control objectives. You can review, edit, or submit the issue, and once submitted, a clickable reference link is provided for easy tracking under My Requests.
+The report a GRC issue AI Agent helps you log GRC issues in the Employee Center. It validates the input, structures the issue details, and suggests relevant controls, entities, and policies. The agent ensures accuracy by confirming whether the issue qualifies as a GRC issue. It then summarizes the details into key components such as name, problem statement, root cause, issue type, date of occurrence, affected policies, impacted entities, and control objectives. You can review, edit, or submit the issue, and once submitted, a clickable reference link is provided for easy tracking under My Requests.
 
 ## Procedure
 
@@ -114,7 +114,3 @@ After you submit, the agent confirms that the issue has been reported and provid
 
 [Activate the Report a GRC issue AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-the-issue-submission-ai-agent.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[issue-submission-ai-agent|Report a GRC issue AI agent]]

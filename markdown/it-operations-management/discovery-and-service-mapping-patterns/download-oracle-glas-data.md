@@ -99,7 +99,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-**glide.[[r-discovery|discovery]].file\_tracking.max\_file\_size**
+**glide.discovery.file\_tracking.max\_file\_size**
 
 </td><td>
 
@@ -212,6 +212,3 @@ The amount of time, in milliseconds, that a MID Server waits for activity when p
 </td></tr></tbody>
 </table>**Parent Topic:**[Oracle GLAS data collection using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

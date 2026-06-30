@@ -16,7 +16,7 @@ You may need to create custom tables in separate domains. This topic covers both
 
 ## 1. Create a sys\_domain field
 
-**Note:** If a system table or a table has not been domain-separated by the [[domain-sep-plugin|Domain Separation plugin]], it's best not to domain-separate it.
+**Note:** If a system table or a table has not been domain-separated by the Domain Separation plugin, it's best not to domain-separate it.
 
 Use these points as a guideline to create a sys\_domain field.
 
@@ -25,12 +25,12 @@ Use these points as a guideline to create a sys\_domain field.
     -   Other attributes: Defined automatically
 -   The Sys\_domain\_path is created automatically.
 
-The column name **sys\_domain** is reserved in the ServiceNow AI Platform, which means that the system recognizes it and automatically applies the appropriate field type and attributes for you. This automatic [[sc-configuration|configuration]] also creates a corresponding **sys\_domain\_path** field.
+The column name **sys\_domain** is reserved in the ServiceNow AI Platform, which means that the system recognizes it and automatically applies the appropriate field type and attributes for you. This automatic configuration also creates a corresponding **sys\_domain\_path** field.
 
 -   Set the column name to `sys_domain` rather than using the label.
 -   Domain separation is not appropriate for every table. In general, if a table is part of the base instance and that table does not have a **sys\_domain** field, you should leave it that way.
 
-A **sys\_domain** field is created automatically when you [[t_CreateADomain|create a domain]]\_id type field with the name “sys\_domain."
+A **sys\_domain** field is created automatically when you create a domain\_id type field with the name “sys\_domain."
 
 ## 2. Add a business rule to set the domain
 
@@ -51,7 +51,7 @@ The first rule that runs, **Domain – Set Domain – Task**, attempts to set th
 
 If the first rule fails to find an appropriate domain, the second rule, **Domain – Default – Task**, executes. This rule sets the domain of the record to the default domain.
 
-Finally, if the domain of a task record changes, the **Domain – Cascade Domain – Task** business rule changes the domain on all records related to the task, such as workflows, [[ca-metrics|metrics]], SLAs, and attachments.
+Finally, if the domain of a task record changes, the **Domain – Cascade Domain – Task** business rule changes the domain on all records related to the task, such as workflows, metrics, SLAs, and attachments.
 
 ## 3. Add a business rule if Step 2 failed
 
@@ -70,7 +70,7 @@ ELSE
 
 ## 4. Domain – cascade domain – task
 
-Tasks can have many related tables that work together for business objectives. These related records include workflow, SLA, approvals, attachments, and [[email|email]]. If the domain of a task changes, the related records domain must change, too, so they remain visible to [[users|users]] in the new domain.
+Tasks can have many related tables that work together for business objectives. These related records include workflow, SLA, approvals, attachments, and email. If the domain of a task changes, the related records domain must change, too, so they remain visible to users in the new domain.
 
 This Cascade rule is commonly triggered when you clear records out of the default domain.
 
@@ -87,7 +87,7 @@ The related records for a Cascade domain contained in the Script are shown simil
 */
 ```
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -124,7 +124,7 @@ The related records for a Cascade domain contained in the Script are shown simil
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -142,13 +142,3 @@ The related records for a Cascade domain contained in the Script are shown simil
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[sc-configuration|Configuration]]
-- [[t_CreateADomain|Create a domain]]
-- [[ca-metrics|Metrics]]
-- [[email|Email]]
-- [[users|Users]]
-- [[logs|Logs]]

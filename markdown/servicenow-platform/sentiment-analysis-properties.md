@@ -18,13 +18,10 @@ You can use the sentiment analysis property to customize the **Sentiment Analysi
 |----|-----------|
 |**Response time for the outbound call of Sentiment Analysis API** \(**sn\_nlp\_sentiment.glide.sentiment.transaction.timeout**\)|Maximum time \(milliseconds\) expected for executing the outbound call for Sentiment Analysis API before it’s timeout.|
 
-**Parent Topic:**[[sentiment-analysis|Sentiment analysis for surveys]]
+**Parent Topic:**[Sentiment analysis for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis.md)
 
 **Related topics**  
 
 
 [Sentiment analysis for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis.md)
 
-## Related
-
-- [[sentiment-analysis|Sentiment analysis for surveys]]

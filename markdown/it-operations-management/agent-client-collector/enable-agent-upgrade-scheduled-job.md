@@ -15,7 +15,7 @@ breadcrumb: [Agent Client Collector upgrade overview, ACC deployment - servers, 
 
 # Run a mass upgrade via the scheduled Agent Client Collector upgrade job
 
-Activate the built-in scheduled job to upgrade all eligible [[acc-landing-page|Agent Client Collector]] agents automatically in rate-limited batches.
+Activate the built-in scheduled job to upgrade all eligible Agent Client Collector agents automatically in rate-limited batches.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The **Upgrade agents incrementally** scheduled job upgrades all eligible agents 
 
 **Parent Topic:**[Agent Client Collector upgrade overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-agent-upgrade-overview.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

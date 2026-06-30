@@ -39,7 +39,7 @@ Action Applicability
 </td><td>
 
 Determines how the issue configuration is used.-   Diagnose: Used for diagnostic device health checks.
--   [[device-actions|Device actions]]: Used for device actions.
+-   Device actions: Used for device actions.
 
 **Note:** If you select **Device actions**, the **Evaluation criteria** and **Evaluation metrics** fields are not available.
 
@@ -135,12 +135,7 @@ Resolution
 
 </td><td>
 
-The resolution code that defines how the issue is resolved. Resolutions are configured in [[proactive-engagement-landing-page|Proactive Engagement]]. For more information, see [Configuring Proactive Engagement resolutions with DEX](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-metric-rule.md).
+The resolution code that defines how the issue is resolved. Resolutions are configured in Proactive Engagement. For more information, see [Configuring Proactive Engagement resolutions with DEX](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-metric-rule.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[device-actions|Device actions]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

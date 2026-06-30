@@ -15,7 +15,7 @@ breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assi
 
 Use the Now Assist context menu to start conversations and raise queries, using generative AI capabilities and custom built in skills in Strategic Portfolio Management.
 
-You can now interact with [[platform-now-assist-landing|Now Assist]] directly from the docs section in Strategic Portfolio Management, Strategic Planning Workspace, Portfolio Planning Workspace, and Project Workspace to ask open-ended queries, create new content, add context, or improve existing sections. This helps you draft faster, refine ideas, and keep your work relevant without leaving the page.
+You can now interact with Now Assist directly from the docs section in Strategic Portfolio Management, Strategic Planning Workspace, Portfolio Planning Workspace, and Project Workspace to ask open-ended queries, create new content, add context, or improve existing sections. This helps you draft faster, refine ideas, and keep your work relevant without leaving the page.
 
 To access this feature, go to any doc page within Strategic Portfolio Management, Portfolio Planning Workspace or Project Workspace.
 
@@ -33,14 +33,10 @@ The Now Assist icon \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist con
 
 You can also see the option to **Summarize**, **shorten**, **elaborate**, or **change tone** for the selected content.
 
-**Parent Topic:**[[now-assist-write-overview|Now Assist context menu]]
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
 **Related topics**  
 
 
 [bundle-itbm.generate-summarize-and-refine-content-of-docs-with-now-assist-spm]
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -31,16 +31,11 @@ The system provides a timeline view of history activities associated with a work
 -   **[Workflow error handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowErrorHandling.md)**  
 The personalized JavaScript that users create in workflow activity variables is vulnerable to run-time syntax errors. Available error information is available in a tooltip when you point to a workflow activity in an error state.
 -   **[Workflow run time metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowRunTimeMetrics.md)**  
-You can enable the collection of [[c_WorkflowRunTimeMetrics|workflow run time metrics]] to determine whether workflows are performing as expected or consuming additional resources.
+You can enable the collection of workflow run time metrics to determine whether workflows are performing as expected or consuming additional resources.
 -   **[Workflow pause utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-pause-utility.md)**  
-[[workflow-pause-utility|Workflow Pause Utility]] provides functionality you can use to pause or resume all workflow contexts, a subset of qualified workflow contexts, or individual workflow contexts. You designate the data and time of day at which the paused workflows should resume, and can manually resume individual workflows as needed.
+Workflow Pause Utility provides functionality you can use to pause or resume all workflow contexts, a subset of qualified workflow contexts, or individual workflow contexts. You designate the data and time of day at which the paused workflows should resume, and can manually resume individual workflows as needed.
 -   **[Encrypted workflow scratchpad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/encrypted-workflow-scratchpad.md)**  
-The [[encrypted-workflow-scratchpad|Encrypted Workflow Scratchpad]] plugin \(com.snc.encrypted.scratchpad\) provides encrypted scratchpad support for workflow context and workflow executing activities.
+The Encrypted Workflow Scratchpad plugin \(com.snc.encrypted.scratchpad\) provides encrypted scratchpad support for workflow context and workflow executing activities.
 
 **Parent Topic:**[Classic Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowOverview.md)
 
-## Related
-
-- [[c_WorkflowRunTimeMetrics|Workflow run time metrics]]
-- [[workflow-pause-utility|Workflow pause utility]]
-- [[encrypted-workflow-scratchpad|Encrypted workflow scratchpad]]

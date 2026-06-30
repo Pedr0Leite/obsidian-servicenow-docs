@@ -39,14 +39,9 @@ Role required: admin
 8.  Select **Submit**.
 
 
-**Parent Topic:**[[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
+**Parent Topic:**[Configure PaCE Eligibility Framework Engine for use with Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-pace.md)
 
-**Previous topic:**[[psds-config-gmp-map-eligibility-policy|Map an PaCE eligibility policy to a grant model using Grants Management Eligibility Framework]]
+**Previous topic:**[Map an PaCE eligibility policy to a grant model using Grants Management Eligibility Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-map-eligibility-policy.md)
 
-**Next topic:**[[psds-config-gmp-smart-assessment-engine|Configure the Smart Assessment Engine for Grants Management]]
+**Next topic:**[Configure the Smart Assessment Engine for Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-smart-assessment-engine.md)
 
-## Related
-
-- [[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
-- [[psds-config-gmp-map-eligibility-policy|Map an PaCE eligibility policy to a grant model using Grants Management Eligibility Framework]]
-- [[psds-config-gmp-smart-assessment-engine|Configure the Smart Assessment Engine for Grants Management]]

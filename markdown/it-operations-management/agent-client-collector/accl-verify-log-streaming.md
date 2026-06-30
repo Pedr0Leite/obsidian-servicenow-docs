@@ -26,7 +26,7 @@ In the ACC data input record, the Streaming Sources related list shows the strea
 
 For example, if the last event time for a data input's endpoint server is yesterday, the server might be down or configured incorrectly. A streaming issue might also be caused by the data input configuration file not being installed on the endpoint.
 
-**Note:** You can view the streaming data of all data inputs and the MID Servers that receive logs from them in the Streaming Sources page. For more information, see [Identify and resolve a log streaming issue in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-streaming.md) in the ServiceNow [[hla-landing-page|Health Log Analytics]] application documentation.
+**Note:** You can view the streaming data of all data inputs and the MID Servers that receive logs from them in the Streaming Sources page. For more information, see [Identify and resolve a log streaming issue in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-streaming.md) in the ServiceNow Health Log Analytics application documentation.
 
 ## Procedure
 
@@ -52,6 +52,3 @@ In the ACC data input record, the Streaming Sources related list shows the strea
 
 **Parent Topic:**[Agent Client Collector Log Analytics setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-setup.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

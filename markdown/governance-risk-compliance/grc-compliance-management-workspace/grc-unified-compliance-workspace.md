@@ -56,10 +56,10 @@ The highlights of the Compliance Workspace are:
 
 -   **Lists**
 
-    [[list-view-uib-ws|List view]] of all compliance-related records, providing the summary of the record in a single view that helps in your analyses and take an informed decision.
+    List view of all compliance-related records, providing the summary of the record in a single view that helps in your analyses and take an informed decision.
 
 
-**Note:** The **Control tests** widget, **Regulatory changes** widget, and **Domain compliance status** section appear with the installation of audit, [[reg-change-mgmt-landing-page|regulatory change management]], and [[privacy-management|privacy management]] plugins, respectively. For more information, see [Other GRC plugins for an overall view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-manager-compliance-ws.md).
+**Note:** The **Control tests** widget, **Regulatory changes** widget, and **Domain compliance status** section appear with the installation of audit, regulatory change management, and privacy management plugins, respectively. For more information, see [Other GRC plugins for an overall view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-manager-compliance-ws.md).
 
 ## Roles in the Compliance Workspace
 
@@ -79,7 +79,7 @@ For more information on the roles, the responsibilities, and the tasks that the 
 
 ## Email notification redirection
 
-When users receive email notifications for [[r_PolicyComplianceMgmt|Policy and Compliance Management]] records, clicking a record link in the notification opens the record in the appropriate workspace, based on the user's assigned roles and installed workspace applications.
+When users receive email notifications for Policy and Compliance Management records, clicking a record link in the notification opens the record in the appropriate workspace, based on the user's assigned roles and installed workspace applications.
 
 The following record types support workspace redirection from email notifications:
 
@@ -100,25 +100,15 @@ This table shows the Policy and Compliance user roles that redirect to GRC Task 
 |Approver \(policy exception\)|Compliance Workspace|
 |Approver|GRC Task Page|
 
-In addition, if a user has roles associated with other workspaces such as Risk, Privacy, Audit, CAM, or [[ai-risk-and-compliance|AI Risk and Compliance]], the system redirects to the highest-priority workspace based on the role.
+In addition, if a user has roles associated with other workspaces such as Risk, Privacy, Audit, CAM, or AI Risk and Compliance, the system redirects to the highest-priority workspace based on the role.
 
 The priority order is as follows:
 
--   [[risk-workspace|Risk Workspace]]
+-   Risk Workspace
 -   Privacy Workspace
--   [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]
--   [[audit-management-overview-ws|Audit Workspace]]
+-   AI Risk and Compliance Workspace
+-   Audit Workspace
 -   CAM Workspace
 
 If no workspace role is assigned and the common workspace is installed, the user is redirected to the GRC Task Page. If the common workspace is not installed, the user is redirected to the classic UI.
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[privacy-management|privacy management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[risk-workspace|risk workspace]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[audit-management-overview-ws|Audit Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Real time anonymization, Data privacy, Data Privacy, Platform Priva
 
 # Real time anonymization failures
 
-Review [[real-time-anonymization|real time anonymization]]\(RTA\) failures.
+Review real time anonymization\(RTA\) failures.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data Privacy]]\(Classic\)**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data Privacy\(Classic\)**.
 
 2.  Review the RTA failures in the table.
 
@@ -31,13 +31,9 @@ Role required: admin
     |Table Column|The table column the failure occurred in.|
     |Failure Reason|Category of the failures cause.|
     |Failure Reason Details|Short description summarizing the cause of the failure.|
-    |Privacy Configuration|The RTA privacy [[sc-configuration|configuration]] that failed.|
+    |Privacy Configuration|The RTA privacy configuration that failed.|
     |Record|The specific record that failed.|
     |Table Name|Table the failure occurred in.|
     |Timestamp|Time of the failure.|
 
-## Related
 
-- [[real-time-anonymization|Real time anonymization]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]

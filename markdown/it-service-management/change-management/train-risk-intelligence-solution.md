@@ -18,7 +18,7 @@ Create Risk categorization or similarity solution definitions to use the predict
 
 ## Before you begin
 
-Ensure that [[c_ITILChangeManagement|Change Management]] - [[c_RskAsmtCalc|Risk Assessment]] \(com.snc.change\_management.ml.risk\) plugin is activated.
+Ensure that Change Management - Risk Assessment \(com.snc.change\_management.ml.risk\) plugin is activated.
 
 Role required: admin
 
@@ -39,7 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Predictive Intelligence for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-intelligent-solutions.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # View the Talent Acquisition Dashboard
 
-Understand the [[hiring-tab-concept|hiring]] trend in your organization with the [[kpi-dshbrd-ta|Talent Acquisition Dashboard]].
+Understand the hiring trend in your organization with the Talent Acquisition Dashboard.
 
 ## Before you begin
 
@@ -31,7 +31,3 @@ Role required: sn\_ta\_hiring\_core.recruiter and itil
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[kpi-dshbrd-ta|Talent Acquisition Dashboard]]

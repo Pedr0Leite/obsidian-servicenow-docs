@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Create and publish a cost book
 
-Create a cost book that defines the unit costs for products and services in [[order-mgt-overview|Sales Customer Relationship Management]].
+Create a cost book that defines the unit costs for products and services in Sales Customer Relationship Management.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can create multiple cost books for a given currency, but the first cost book
 
 3.  In the Prices - Cost Books list, select **New**.
 
-4.  In the Details tab, fill in the [[fields|fields]].
+4.  In the Details tab, fill in the fields.
 
 <table id="table_xvx_p4x_w1c"><thead><tr><th>
 
@@ -132,10 +132,5 @@ Ending date and time of the cost book. After the ending time, the cost book is n
 
 ## What to do next
 
-[[create-cost-book-lines|Create a cost book line]].
+[Create a cost book line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cost-book-lines.md).
 
-## Related
-
-- [[create-cost-book-lines|Create a cost book line]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]

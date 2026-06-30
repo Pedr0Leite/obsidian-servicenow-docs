@@ -14,19 +14,19 @@ breadcrumb: [Request translations, Request translations, Localization Framework,
 
 # Request translations for Service Catalog items
 
-[[language-picker-ui|Request translations]] for multiple Service Catalog items to localize them from English into one or more languages.
+Request translations for multiple Service Catalog items to localize them from English into one or more languages.
 
 ## Before you begin
 
 Roles required:
 
--   [[ia-localization-il|localization]]\_requestor: To request translations
+-   localization\_requestor: To request translations
 -   catalog\_admin: To access the Service Catalog items \[sc\_cat\_item\] table.
 -   catalog\_editor \(or catalog\_manager\) if you are the editor or manager of the item that is being translated: To access the Service Catalog items \[sc\_cat\_item\] table.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **Maintain Items**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**.
 
 2.  Select single or multiple items from the list or select the **Select All** check box.
 
@@ -41,8 +41,3 @@ Roles required:
 
 **Parent Topic:**[Request translations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/language-picker-ui.md)
 
-## Related
-
-- [[language-picker-ui|Request translations]]
-- [[ia-localization-il|Localization]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

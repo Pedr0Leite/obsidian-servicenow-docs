@@ -23,15 +23,15 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-If Document Intelligence encounters an extraction error, the invoice processing case is created in [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]. The invoice is not created or associated with that case. You must review the invoice details in Document Intelligence, enter the required values in the invoice fields, and submit the invoice to create the invoice.
+If Document Intelligence encounters an extraction error, the invoice processing case is created in Accounts Payable Operations integration with Document Intelligence. The invoice is not created or associated with that case. You must review the invoice details in Document Intelligence, enter the required values in the invoice fields, and submit the invoice to create the invoice.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
-3.  Navigate to **Lists** &gt; **Primary Data** &gt; **[[invoices|Invoices]]**.
+3.  Navigate to **Lists** &gt; **Primary Data** &gt; **Invoices**.
 
 4.  Open an invoice that is in the Draft status.
 
@@ -75,13 +75,7 @@ If Document Intelligence encounters an extraction error, the invoice processing 
 
 [Reset an invoice to the Received status]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

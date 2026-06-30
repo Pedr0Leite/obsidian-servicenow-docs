@@ -15,15 +15,11 @@ breadcrumb: [Platform Analytics Solutions for Health Log Analytics, Analytics an
 
 # Health Log Analytics Operational dashboard
 
-The Health Log Analytics Operational dashboard uses Performance Analytics to enable you to monitor log data, alerts, and error rate information in [[workspace-dashboard-use|Service Operations Workspace]] and address issues as they occur in the system.
+The Health Log Analytics Operational dashboard uses Performance Analytics to enable you to monitor log data, alerts, and error rate information in Service Operations Workspace and address issues as they occur in the system.
 
 For more information, see [HLA Operational dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-operational-dashboard.md).
 
-**Note:** The Health Log Analytics Operational dashboard replaces the [[hla-landing-page|Health Log Analytics]] Overview dashboard, which has been deprecated.
+**Note:** The Health Log Analytics Operational dashboard replaces the Health Log Analytics Overview dashboard, which has been deprecated.
 
 **Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[hla-landing-page|Health Log Analytics]]

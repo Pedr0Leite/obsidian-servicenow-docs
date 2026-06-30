@@ -39,19 +39,15 @@ The services present different risk profiles and require separate risk assessmen
 
 -   **Engagement for the software development service**
 
-    This engagement involves a higher level of risk due to the following [[factors|factors]]:
+    This engagement involves a higher level of risk due to the following factors:
 
     -   Access to sensitive data: The third party has access to customer data, which requires strict data protection and privacy controls to help prevent unauthorized access or data breaches.
     -   System integration: The third party's software must integrate with critical systems, potentially impacting the stability, availability, or security of those systems. Proper testing and quality assurance procedures are crucial to minimize the risk of system failures or vulnerabilities.
     -   Change management: The introduction of new software or changes to existing systems can introduce risks, such as compatibility issues, system disruptions, or software vulnerabilities. Robust change management practices and code review processes are necessary to mitigate these risks.
 -   **Engagement for the facilities management service**
 
-    Even though this engagement also involves the same third party, the [[tprm-risk-profile-what-is|risk profile]] is lower when compared to the software development engagement:
+    Even though this engagement also involves the same third party, the risk profile is lower when compared to the software development engagement:
 
     -   Physical security: The focus here is on managing physical security measures, such as access control and surveillance systems. While still important, the risks associated with physical security are typically more straightforward and easier to manage compared to cybersecurity risks.
     -   Maintenance and safety: The third party's responsibility is primarily related to general maintenance and promoting a safe working environment. While there are still risks associated with building maintenance \(for example, safety hazards\), they might be more predictable and manageable compared to the complex cybersecurity risks in the software development engagement.
 
-## Related
-
-- [[factors|factors]]
-- [[tprm-risk-profile-what-is|Risk profile]]

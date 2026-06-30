@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for HR Service Delivery \(HRSD\),
 
 # Predict service and transfer HR cases agentic workflow
 
-Analyze an HR case and automatically route it to the most appropriate HR service with the predict service and transfer HR cases agentic workflow. Optimize HR [[case-management-workspace|Case Management]], ensuring that cases are handled by the most appropriate teams.
+Analyze an HR case and automatically route it to the most appropriate HR service with the predict service and transfer HR cases agentic workflow. Optimize HR Case Management, ensuring that cases are handled by the most appropriate teams.
 
 ## Overview of Predict service and transfer HR cases agentic workflow
 
@@ -22,7 +22,7 @@ The agents, tools, and triggers that are associated with the Predict service and
 
 ## Prerequisites and setup
 
-You must have HRSD Pro plus for Now Assist installed for the [[hr-service-delivery|HR Service Delivery]] AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
+You must have HRSD Pro plus for Now Assist installed for the HR Service Delivery AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
 Perform the following steps after you [Configure Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md).
 
@@ -72,10 +72,5 @@ The AI agent decision log displays the AI agents that are working to predict and
 
 This is an example of how the Predict service and transfer HR cases agentic workflow automatically identifies the appropriate HR service for a case, and transfers the case to the identified service.
 
-\[Omitted image "hr-predicted-service.png"\] Alt text: Prediction and transfer results on [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
+\[Omitted image "hr-predicted-service.png"\] Alt text: Prediction and transfer results on Agent Workspace for HR Case Management
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

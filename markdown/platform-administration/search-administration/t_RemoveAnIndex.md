@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Remove an index
 
-You can remove the index for a table if you no longer want the search engine to return [[hs-results|results]] for that table. This procedure also removes the index for all tables that extend the specified table.
+You can remove the index for a table if you no longer want the search engine to return results for that table. This procedure also removes the index for all tables that extend the specified table.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  If the **Text index** option field is hidden, configure the form layout to show it.
 
-    For details on showing and hiding fields on a form, see [[configure-form-layout|Configuring the form layout]].
+    For details on showing and hiding fields on a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 4.  Clear the record's **Text index** option, then select **Update**.
 
@@ -70,7 +70,3 @@ The system no longer indexes text from the specified table or queries it for tex
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[hs-results|Results]]

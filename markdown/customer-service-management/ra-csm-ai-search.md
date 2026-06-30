@@ -14,7 +14,7 @@ breadcrumb: [Recommended Actions configuration, Implement Intelligence, Configur
 
 Enable agents to use AI search in Recommended Actions to find relevant resources or resolutions for customer issues.
 
-AI search results and genius results are displayed in the Search tab of the [[configure-nba|Recommended Actions]] component in the contextual side panel. Agents can initiate actions from the search cards directly to resolve an issue.
+AI search results and genius results are displayed in the Search tab of the Recommended Actions component in the contextual side panel. Agents can initiate actions from the search cards directly to resolve an issue.
 
 \[Omitted image "ra-card-ai-search.png"\] Alt text: AI search results and genius result in the search tab within the Recommended Actions component.
 
@@ -27,23 +27,23 @@ AI search harnesses advanced machine learning algorithms and natural language pr
 
 ## AI search features
 
--   [[migration-form-highlights|Highlights]] search query terms that appear in the search results.
+-   Highlights search query terms that appear in the search results.
 -   Displays the most relevant results first with machine learning relevancy. Machine learning automatically tunes and improves the search result relevancy score for each search profile based on the answers agents select.
 -   Displays the best answers as genius result cards.
 
 ## AI search benefits
 
 -   Maximizes efficiency: Use AI search integration to reduce task resolution time and improve agent productivity.
--   Leverages contextual [[intelligence-csm|intelligence]]: Make the most of context-aware searching to provide accurate and timely responses.
+-   Leverages contextual intelligence: Make the most of context-aware searching to provide accurate and timely responses.
 -   Provides summarization: Configure genius results to get large language model-based knowledge summarization to align with your content and information needs.
 
 ## Configuring AI search in Recommended Actions
 
-Steps to configure AI search in Recommended Actions include enabling the AI search tab, mapping the AI search results with guidance inputs, and customizing the Recommended Actions component. Advanced customization options include adjusting the number of results to view on a page, identifying genius results to add to the search profile, and configuring search sources. For more information, see [[ra-configuring-ai-search|Configuring AI search in Recommended Actions]].
+Steps to configure AI search in Recommended Actions include enabling the AI search tab, mapping the AI search results with guidance inputs, and customizing the Recommended Actions component. Advanced customization options include adjusting the number of results to view on a page, identifying genius results to add to the search profile, and configuring search sources. For more information, see [Configuring AI search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search.md).
 
 ## Using AI search in Recommended Actions
 
-Enable customer service agents to use AI search for faster access to relevant information and take appropriate actions to resolve customer issues. For more information, see [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]].
+Enable customer service agents to use AI search for faster access to relevant information and take appropriate actions to resolve customer issues. For more information, see [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md).
 
 -   Accessing AI search: Agents can access the AI search tab in the contextual side panel of the workspace.
 -   Finding context-aware results: Agents can enter their search queries in the search bar. AI search uses natural language processing to understand user queries and considers task context to produce relevant results.
@@ -52,13 +52,6 @@ Enable customer service agents to use AI search for faster access to relevant in
 -   Narrowing search results: Agents can select a search source from the **Search filter** field to display results only from that search source and then return to viewing all matching records.
 -   Viewing results count: The search tab shows counts of the total number of matching search results. The search filters show the number of matching results for each search source.
 
-    **Note:** Search results displayed and the total search count may vary due to security permissions or if the search result has already been executed. The executed guidances are added to the [[csm-config-ws-activity-stream|Activity stream]] and moved to the Actions history. Executed guidances will be included in the total search count but will not show up in the search results.
+    **Note:** Search results displayed and the total search count may vary due to security permissions or if the search result has already been executed. The executed guidances are added to the Activity stream and moved to the Actions history. Executed guidances will be included in the total search count but will not show up in the search results.
 
-## Related
 
-- [[ra-configuring-ai-search|Configuring AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-form-highlights|Highlights]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -14,7 +14,7 @@ breadcrumb: [Text-based alert grouping, Alert grouping types and creation method
 
 # Verify text-based clustering solution
 
-[[c_EM|Event Management]] uses Natural Language Processing \(NLP\) algorithms to identify common text patterns in alerts and create alert groups through clustering. This approach not only organizes similar alerts efficiently but also reduces noise and helps focus on significant issues, enhancing overall alert management.
+Event Management uses Natural Language Processing \(NLP\) algorithms to identify common text patterns in alerts and create alert groups through clustering. This approach not only organizes similar alerts efficiently but also reduces noise and helps focus on significant issues, enhancing overall alert management.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Role required: evt\_mgmt\_admin
 
     For more information on ML solutions, see [Reviewing your ML solution training jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/reviewing-ml-solution-training-jobs.md).
 
-## Related
 
-- [[c_EM|Event Management]]

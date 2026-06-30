@@ -12,7 +12,7 @@ breadcrumb: [Components installed with the email client, Email client, Notificat
 
 # Email client administrator \[email\_client\_admin\]
 
-Configures the [[c_EnableTheEmailClient|email client]] to fit the needs of your organization and can read or write email client templates.
+Configures the email client to fit the needs of your organization and can read or write email client templates.
 
 ## Contains Roles
 
@@ -31,6 +31,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[c_EnableTheEmailClient|Email client]]

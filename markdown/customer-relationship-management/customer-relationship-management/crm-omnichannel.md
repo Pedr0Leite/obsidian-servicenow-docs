@@ -10,7 +10,7 @@ reading_time_minutes: 5
 
 # Omnichannel
 
-Omnichannel support enables organizations to serve customers across multiple communication channels, including voice, chat, email, SMS, consumer messaging apps, social media, and Engagement Messenger, from a single, unified workspace. Agents handle all interactions in CSM [[crm-configurable-workspace|Configurable Workspace]], and customers reach support through whichever channel fits them best.
+Omnichannel support enables organizations to serve customers across multiple communication channels, including voice, chat, email, SMS, consumer messaging apps, social media, and Engagement Messenger, from a single, unified workspace. Agents handle all interactions in CSM Configurable Workspace, and customers reach support through whichever channel fits them best.
 
 ## Omnichannel overview
 
@@ -122,19 +122,19 @@ Each product within the CRM suite uses omnichannel to connect customers with age
 
 -   **CSM**
 
-    [[crm-about-csm-in-crm|Customer Service Management]] \(CSM\) is the foundation for omnichannel contact center operations. Agents use CSM Configurable Workspace to handle interactions across chat, email, phone, messaging, Engagement Messenger, callback, and social media channels. Each interaction creates a record that links to cases, surfaces customer context, and follows the AWA routing rules configured for that channel. Channels can be activated incrementally to match an organization's current service model.
+    Customer Service Management \(CSM\) is the foundation for omnichannel contact center operations. Agents use CSM Configurable Workspace to handle interactions across chat, email, phone, messaging, Engagement Messenger, callback, and social media channels. Each interaction creates a record that links to cases, surfaces customer context, and follows the AWA routing rules configured for that channel. Channels can be activated incrementally to match an organization's current service model.
 
     For CCaaS environments, the Interaction Controls Component \(ICC\) embeds the CCaaS provider's call controls directly in the agent's workspace. CCaaS-routed email and callback interactions appear in the agent's inbox alongside native channel interactions, so agents in a blended contact center work from a single interface regardless of how the interaction was routed.
 
--   **[[crm-about-som-in-crm|Sales CRM]]**
+-   **Sales CRM**
 
     Sales CRM uses omnichannel to keep customer conversations connected across the quoting and fulfillment cycle. A buyer can chat live to get a quote, follow up by email when the order is placed, and check delivery status via WhatsApp or Engagement Messenger, all without repeating their details. Each interaction links to the same account, contact, and case record, giving agents full context regardless of which channel the conversation arrives on.
 
 -   **FSM**
 
-    [[crm-about-fsm-in-crm|Field Service Management]] uses the omnichannel framework to support both dispatchers managing work order queues and customers requesting onsite service. Walk-up Experience and conversational appointment booking enable customers to schedule onsite visits through self-service channels. Omnichannel Callback is available in FSM environments, allowing customers to request a callback rather than wait for an agent. Dispatchers and agents work in the shared Configurable Workspace, configured in UI Builder using the same framework as CSM.
+    Field Service Management uses the omnichannel framework to support both dispatchers managing work order queues and customers requesting onsite service. Walk-up Experience and conversational appointment booking enable customers to schedule onsite visits through self-service channels. Omnichannel Callback is available in FSM environments, allowing customers to request a callback rather than wait for an agent. Dispatchers and agents work in the shared Configurable Workspace, configured in UI Builder using the same framework as CSM.
 
--   **[[crm-about-industry-solutions-in-crm|Industry solutions]]**
+-   **Industry solutions**
 
     Telecommunications, financial services, and manufacturing solutions include preconfigured omnichannel channel configurations, and workspace record pages tailored to the workflows common in those industries. Organizations deploy these preconfigured experiences as a starting point and extend channel configurations, AWA routing rules, and Virtual Agent topics in UI Builder as their requirements evolve.
 
@@ -159,10 +159,3 @@ Each product within the CRM suite uses omnichannel to connect customers with age
 
 [Enable communication channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-comm-channels.md)
 
-## Related
-
-- [[crm-configurable-workspace|Configurable workspace]]
-- [[crm-about-csm-in-crm|Customer Service Management]]
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-fsm-in-crm|Field Service Management]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]

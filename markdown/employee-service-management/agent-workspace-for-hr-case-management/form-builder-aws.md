@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Customize fields in a form in Agent Workspace for HR Case Management
 
-Add and arrange fields within a form layout to match form requirements using Form builder in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+Add and arrange fields within a form layout to match form requirements using Form builder in Agent Workspace for HR Case Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_agent\_ws.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases** &gt; **All**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases** &gt; **All**.
 
 2.  Select the case that you want to customize form fields for.
 
@@ -87,8 +87,3 @@ A confirmation dialog displays. You can click **Done** to close it or click **Ad
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

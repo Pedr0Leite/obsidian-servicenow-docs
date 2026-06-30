@@ -40,11 +40,11 @@ Do This
 
 </td><td>
 
-Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **Document Configuration**
+Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Document Configuration**
 
 </td></tr><tr><td id="d94049e103">
 
-**Create a document configuration from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]**
+**Create a document configuration from the Source-to-Pay Workspace**
 
 </td><td>
 
@@ -60,12 +60,12 @@ Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operation
     |Field|Description|
     |-----|-----------|
     |Name|The name you assign to the configuration.|
-    |Application|The application containing this record. In this case, it displays the default application, which is [[supplier-central|Supplier Collaboration Portal]].|
+    |Application|The application containing this record. In this case, it displays the default application, which is Supplier Collaboration Portal.|
     |Order|The order in which you want this configuration to be displayed in the list of orders. Assign a numeric value in multiples of 100.|
     |Active|Option to decide if this configuration is in use.|
     |Description|A brief description of the configuration.|
 
-4.  Select the **Run condition** tab and fill in the fields.\[Omitted image "[[supplier|supplier]]-document-config-run-condition.png"\] Alt text: Selected Run condition tab.
+4.  Select the **Run condition** tab and fill in the fields.\[Omitted image "supplier-document-config-run-condition.png"\] Alt text: Selected Run condition tab.
 
 <table id="table_cy1_twr_z5b"><thead><tr><th>
 
@@ -123,7 +123,7 @@ Required from
 
 </td><td>
 
-Specify who must upload the document. The choices are:-   **Anyone**: Requires any one of the supplier contacts to upload the required document. With this option, the [[supplier-contact|supplier contact]] can upload a document from the Document widget on the My Company page of the Supplier Collaboration Portal.
+Specify who must upload the document. The choices are:-   **Anyone**: Requires any one of the supplier contacts to upload the required document. With this option, the supplier contact can upload a document from the Document widget on the My Company page of the Supplier Collaboration Portal.
 
 For more information, see [Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md).
 
@@ -304,10 +304,3 @@ A brief description of the document type.
 
 [Uploading supplier documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-about.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

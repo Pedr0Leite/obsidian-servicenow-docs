@@ -58,7 +58,7 @@ The DevOps table **sn\_devops\_capability\_activity\_mapping** has been created 
 
 \[Omitted image "generic-pb-onboard2.png"\] Alt text: The Tool Capability Activity Mappings table.
 
-For example, tools like GitLab and JFrog don’t support data import. So you don't require the Data Import activity for such tools. In that case, you must add the logic in the condition column to return false for these types of tools. See the following image as a [[reference-for-itsm-mobile-agent|reference]]:\[Omitted image "generic-pb-onboard3.png"\] Alt text: Example where data import logic is false.
+For example, tools like GitLab and JFrog don’t support data import. So you don't require the Data Import activity for such tools. In that case, you must add the logic in the condition column to return false for these types of tools. See the following image as a reference:\[Omitted image "generic-pb-onboard3.png"\] Alt text: Example where data import logic is false.
 
 ## 3. Configure Activity UI for the Activity Definition
 
@@ -83,6 +83,3 @@ After completing these steps, your tool can be onboarded using the DevOps generi
 
 [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

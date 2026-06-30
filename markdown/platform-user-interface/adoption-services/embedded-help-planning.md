@@ -14,7 +14,7 @@ breadcrumb: [Configuring Embedded Help, Embedded Help, In-product help, Adoption
 
 # Embedded Help planning
 
-Before writing custom [[embedded-help|embedded help]], plan the content and note the information used in the Embedded Help form. Careful planning ensures that the topic appears for the right page and role.
+Before writing custom embedded help, plan the content and note the information used in the Embedded Help form. Careful planning ensures that the topic appears for the right page and role.
 
 Each UI page can display embedded help, specified in the **Page** field as shown in the following example.
 
@@ -29,7 +29,7 @@ In planning for embedded help topics, consider how the following fields are used
 -   **Modifier**
 
     -   **Normal** content appears for any user with the appropriate role who navigates to the page.
-    -   **Setup** content appears when the page is accessed from a link in [[guided-setup|Guided Setup]].
+    -   **Setup** content appears when the page is accessed from a link in Guided Setup.
     Many embedded help topics in the base system are for Guided Setup. You can copy **Setup** content and change the **Modifier** to **Normal** to quickly provide help for all users.
 
 -   **Qualifier**
@@ -74,12 +74,7 @@ The embedded help administrator can use qualifiers to customize content for a co
 -   **[Embedded Help roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-roles.md)**  
 Embedded help content can be targeted to users with a specified role who access the UI page. All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page.
 -   **[Embedded Help internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-internationalization.md)**  
-[[embedded-help-internationalization|Embedded help internationalization]] provides the ability for you to localize your embedded help content to a variety of languages to meet global user needs. You can write your embedded help content in a language of your choice and decide what languages to display.
+Embedded help internationalization provides the ability for you to localize your embedded help content to a variety of languages to meet global user needs. You can write your embedded help content in a language of your choice and decide what languages to display.
 
 **Parent Topic:**[Configuring Embedded Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[guided-setup|Guided Setup]]
-- [[embedded-help-internationalization|Embedded Help internationalization]]

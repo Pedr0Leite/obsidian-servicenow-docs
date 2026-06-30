@@ -28,7 +28,7 @@ Role required: sn\_eam.enterprise\_admin or inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Failure and resolution**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Failure and resolution**.
 
 2.  In the Failure and resolution list, select **Import**.
 
@@ -50,7 +50,7 @@ Role required: sn\_eam.enterprise\_admin or inventory\_admin
 
                 **Note:** The parent code is of the same type as the child code. For example, the parent of a failure code is another failure code, and the same applies to resolution codes.
 
-            -   **[[model-hierarchy|Model categories]]**: Model categories to which the code can be applied.
+            -   **Model categories**: Model categories to which the code can be applied.
 
                 **Note:** When you select a parent on the code, the model category is inherited from the parent code. However, you can still update this field.
 
@@ -76,7 +76,3 @@ Role required: sn\_eam.enterprise\_admin or inventory\_admin
 -   If the import is successful, the Status of the asset import changes from **Draft** to **Completed**.
 -   If there are no issues with the template, all the codes that you imported are shown in the Codes list.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-hierarchy|Model categories]]

@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration** and open the desired Main node configuration from the list.
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration** and open the desired Main node configuration from the list.
 
-2.  Open the desired Nexus map configuration record from the [[nexus-map-configuration|Nexus map configurations]] related list.
+2.  Open the desired Nexus map configuration record from the Nexus map configurations related list.
 
 3.  Open the Edge configuration record from the Edge configurations related list.
 
@@ -34,7 +34,7 @@ Role required: sn\_oper\_res.admin
 
     \[Omitted image "edge-status-new-config.png"\] Alt text: Edge status configuration.\[Omitted image "edge-status-config-example.png"\] Alt text: Edge status configuration example.
 
-    For more information on the fields, see [[edge-status-configuration-form|Edge status configuration form]].
+    For more information on the fields, see [Edge status configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/edge-status-configuration-form.md).
 
     The Edge status configuration record is displayed in which the **Edge configuration** and **Relationship table** are auto-populated.
 
@@ -52,8 +52,4 @@ Role required: sn\_oper\_res.admin
 
     The Edge status configuration record is displayed in the Edge status configurations related list.
 
-## Related
 
-- [[edge-status-configuration-form|Edge status configuration form]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[nexus-map-configuration|Nexus map configurations]]

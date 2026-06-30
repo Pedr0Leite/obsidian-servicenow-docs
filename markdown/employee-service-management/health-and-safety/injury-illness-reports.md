@@ -14,9 +14,9 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety injury and illness reports
 
-As a compliance manager, you need to report on employee incidents related to the [[health-safety-overview|health and safety]]. With [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]], you can export reports for safety incidents and the injuries and illnesses that occurred in your organization.
+As a compliance manager, you need to report on employee incidents related to the health and safety. With Health and Safety Incident Management, you can export reports for safety incidents and the injuries and illnesses that occurred in your organization.
 
-To enable this reporting capability for Health and Safety Incident Management, you additionally need to install the relevant reporting application. For example, to enable the Occupational Safety and Health Administration \(OSHA\) reporting, you must install the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] \(com.snc.sn\_hs\_im\_osha\) application.
+To enable this reporting capability for Health and Safety Incident Management, you additionally need to install the relevant reporting application. For example, to enable the Occupational Safety and Health Administration \(OSHA\) reporting, you must install the Health and Safety Incident Management OSHA Content Pack \(com.snc.sn\_hs\_im\_osha\) application.
 
 You can also generate a report for an injury and illness using your own PDF templates for your regional or industry-specific requirements.
 
@@ -31,8 +31,3 @@ With the ServiceNow® Health and Safety Incident Management OSHA Content Pack ap
 
 **Parent Topic:**[Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/health-safety-overview.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]

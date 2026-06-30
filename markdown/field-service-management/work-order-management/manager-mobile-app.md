@@ -14,13 +14,13 @@ breadcrumb: [Completing work on mobile, Use, Field Service Management]
 
 # Field Service Manager Mobile
 
-Field Service Manager Mobile is a centralized place for managers to do anything related to [[fsm-application-landing-page|Field Service Management]] while on their mobile device.
+Field Service Manager Mobile is a centralized place for managers to do anything related to Field Service Management while on their mobile device.
 
 Field Service Manager Mobile is available for any user who has the wm\_manager, or the territory\_manager role assigned to them. When a user with the wm\_manager, or the territory\_manager role downloads the Now Mobile Agent application and signs in, they see the Field Service Manager Mobile interface. Managers can only view and edit agent information and work order tasks for agents that are part of assignment groups or territories that they manage. The Field Service Manager Mobile plugin must be installed to use Field Service Manager Mobile.
 
 ## Using Now Assist on the Field Service Manager Mobile
 
-If your organization has [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]] installed you can access your virtual agent by tapping the **More actions** icon in the top right, then selecting Ask Now Assist. For more information on using Now Assist on your mobile device, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). For more information on Now Assist for Field Service Management \(FSM\), see [Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md).
+If your organization has Now Assist for Field Service Management \(FSM\) installed you can access your virtual agent by tapping the **More actions** icon in the top right, then selecting Ask Now Assist. For more information on using Now Assist on your mobile device, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). For more information on Now Assist for Field Service Management \(FSM\), see [Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md).
 
 ## Offline mode
 
@@ -92,7 +92,4 @@ Managers can perform the following actions on the manager mobile application.
 
     Make changes to a personal event.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]

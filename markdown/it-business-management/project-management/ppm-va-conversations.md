@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent for PPM, Using Project Management, Project Management
 
 # PPM Virtual Agent conversation flows
 
-[[ppm-va-overview|Virtual Agent for PPM]] provides several predefined topic conversations to enable project managers to gather information on their business-related tasks.
+Virtual Agent for PPM provides several predefined topic conversations to enable project managers to gather information on their business-related tasks.
 
 The following predefined topic conversations are available to view if you have the it\_project\_manager role.
 
@@ -24,7 +24,7 @@ The following predefined topic conversations are available to view if you have t
 
 -   **Resources**
 
-    Resource-related information such as [[c_ResourcePlans|resource plans]] containing actual hours greater than allocated hours, or unallocated resource plans that are due to start in the coming week or have an extension requested. You can then manage resources and act on resource plans that are not progressing as planned.
+    Resource-related information such as resource plans containing actual hours greater than allocated hours, or unallocated resource plans that are due to start in the coming week or have an extension requested. You can then manage resources and act on resource plans that are not progressing as planned.
 
 -   **Financials**
 
@@ -48,7 +48,3 @@ The following predefined topic conversations are available to view if you have t
 
 [Reusable PPM Virtual Agent topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-va-topic-blocks.md)
 
-## Related
-
-- [[ppm-va-overview|Virtual Agent for PPM]]
-- [[c_ResourcePlans|Resource plans]]

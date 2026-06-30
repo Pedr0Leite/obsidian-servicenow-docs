@@ -25,12 +25,9 @@ Use the inbox to manage your incoming work items, such as chats and cases.
 -   **[Create a new interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/view-create-new-interaction-fin-ops-ws.md)**  
 An interaction record is automatically created when you accept a chat through the chat queue in the Finance Operations Workspace. You can also manually create an interaction from the list page of the Finance Operations Workspace.
 -   **[Create a finance case from an interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/create-fin-case-from-interaction-record.md)**  
-An interaction record is automatically created when you accept a chat through the chat queue in the Finance Operations Workspace. You can [[create-fin-case-from-interaction-record|create a finance case from an interaction]] record for further investigation.
+An interaction record is automatically created when you accept a chat through the chat queue in the Finance Operations Workspace. You can create a finance case from an interaction record for further investigation.
 -   **[Associate an interaction with a finance case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/associate-interaction-with-finance-case.md)**  
 Associate an interaction record to a finance case, if the interaction is related to an existing finance case.
 
 **Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 
-## Related
-
-- [[create-fin-case-from-interaction-record|Create a finance case from an interaction]]

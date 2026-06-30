@@ -14,9 +14,9 @@ breadcrumb: [Reference, Dispute Rules Content Pack for Visa, Dispute Management,
 
 # Components installed with Dispute Rules Content Pack for Visa
 
-Several types of components are installed with the installation of the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]] plugin.
+Several types of components are installed with the installation of the Dispute Rules Content Pack for Visa plugin.
 
-**Note:** The Dispute Rules Content Pack for Visa application is dependent on the [[card-ops-landing-page|Financial Services Card Operations]] application.
+**Note:** The Dispute Rules Content Pack for Visa application is dependent on the Financial Services Card Operations application.
 
 ## Plugins
 
@@ -67,7 +67,3 @@ Stores all Visa Card Recovery Bulletin \(CRB\) regions.
 </td></tr></tbody>
 </table>**Parent Topic:**[Dispute Rules Content Pack for Visa reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-visa-reference.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

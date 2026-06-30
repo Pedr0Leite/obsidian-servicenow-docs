@@ -14,7 +14,7 @@ breadcrumb: [Granular Delegation, Employee Service Management]
 
 # Setting up Granular Delegation
 
-Set up [[granular-delegation|Granular Delegation]] so your employees can delegate their tasks to other employees.
+Set up Granular Delegation so your employees can delegate their tasks to other employees.
 
 ## Configuration steps
 
@@ -27,9 +27,9 @@ Set up [[granular-delegation|Granular Delegation]] so your employees can delegat
 
 Activate the Granular Delegation plugin \(com.glide.granular\_service\_delegation\) for the ServiceNow AI Platform if you have the admin role. For more information, see [Activate Granular Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/activate-granular-delegation.md).
 
-Granular delegation has separate records for specifying a delegate and specifying what content the delegate can access. You [[create-delegation-admin|create a Delegate]] record each time you want to delegate your service tasks to another user.
+Granular delegation has separate records for specifying a delegate and specifying what content the delegate can access. You create a Delegate record each time you want to delegate your service tasks to another user.
 
-Administrators [[create-delegation-rules|create delegation rules]] to allow the delegation of specific records. Access Control Rules \(ACLs\) determine if a delegate can access the records that match the delegation rules assigned to them. Creating delegation rules requires an administrator to be familiar with the data model of the delegated services.
+Administrators create delegation rules to allow the delegation of specific records. Access Control Rules \(ACLs\) determine if a delegate can access the records that match the delegation rules assigned to them. Creating delegation rules requires an administrator to be familiar with the data model of the delegated services.
 
 |Role|Description|Contains roles|
 |----|-----------|--------------|
@@ -53,8 +53,4 @@ Administrators [[create-delegation-rules|create delegation rules]] to allow the 
 
     The **Notify new delegates** scheduled job runs every 10 minutes and triggers a notification to delegates that their delegation period is starting.
 
-## Related
 
-- [[granular-delegation|Granular Delegation]]
-- [[create-delegation-admin|Create a delegate]]
-- [[create-delegation-rules|Create delegation rules]]

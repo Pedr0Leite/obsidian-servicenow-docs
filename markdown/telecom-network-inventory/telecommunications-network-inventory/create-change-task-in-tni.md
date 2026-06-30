@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Create and execute a change task
 
-Create a change task after you create a change request in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By creating a change task, you can complete the requested change.
+Create a change task after you create a change request in the Telecommunications Network Inventory application. By creating a change task, you can complete the requested change.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Create a change task after you create a change request in the [[telecom-network-
 
     To learn more, see [Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md).
 
-2.  Navigate to **Telecom Network Inventory** &gt; **[[using-templates-tni|Network Inventory Templates]]**, create the inventory templates for your equipment, and establish the template relationships.
+2.  Navigate to **Telecom Network Inventory** &gt; **Network Inventory Templates**, create the inventory templates for your equipment, and establish the template relationships.
 
     To learn more, see [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md).
 
@@ -34,7 +34,7 @@ Based on the details in the change request form, a change task is created automa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Changes** &gt; **All**.
 
@@ -85,8 +85,3 @@ Based on the details in the change request form, a change task is created automa
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-templates-tni|Network inventory templates]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

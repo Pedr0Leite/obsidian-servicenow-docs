@@ -20,11 +20,11 @@ View number of exam instance attempts by a user.
 
 Role required: sn\_exam.admin, sn\_exam.catalog\_admin, user
 
-Only a user with the sn\_exam.catalog\_admin role who is configured as part of the admin list or is an owner of the catalog may [[view-exam-instance|view an exam instance]] within the associated catalog. Users assigned to the exam may also view associated exam instance attempts.
+Only a user with the sn\_exam.catalog\_admin role who is configured as part of the admin list or is an owner of the catalog may view an exam instance within the associated catalog. Users assigned to the exam may also view associated exam instance attempts.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exam-engine|Career Assessment]]** &gt; **Exams** &gt; **Exam Instances**.
+1.  Navigate to **All** &gt; **Career Assessment** &gt; **Exams** &gt; **Exam Instances**.
 
     The following modules are available based on the state of the instances.
 
@@ -43,7 +43,3 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 **Parent Topic:**[View an exam instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-exam-instance.md)
 
-## Related
-
-- [[view-exam-instance|View an exam instance]]
-- [[exam-engine|Career Assessment]]

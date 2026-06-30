@@ -27,7 +27,7 @@ Role required: sm\_admin
 
 ## About this task
 
-A tag is a [[label|label]] that consists of a key-value pair. Your organization may use tags to categorize its assets, to enhance query and reporting capabilities. Discovery and Cloud Provisioning and Governance can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, Service Mapping can create service instances based on these tags. For example, you can use tags to map all application services your organization uses in the production environment in the Europe, the Middle East and Africa \(EMEA\) region.
+A tag is a label that consists of a key-value pair. Your organization may use tags to categorize its assets, to enhance query and reporting capabilities. Discovery and Cloud Provisioning and Governance can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, Service Mapping can create service instances based on these tags. For example, you can use tags to map all application services your organization uses in the production environment in the Europe, the Middle East and Africa \(EMEA\) region.
 
 If you have [configured tag-based service families and tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-based-mapping.md), you can use these tag definitions for populating an application service. Part of defining a tag-based service family is defining a tag category, which contains tag keys. If necessary, you can also define tag values to narrow the criteria used for populating application services. Based on the tag definitions for the tag-based service family, Service Mapping creates service candidates - suggested application services. When you use the tag-based service families to populate an application service, you must select the relevant service candidate.
 
@@ -80,6 +80,3 @@ For information about the different types of application services and the differ
 
 Complete the generic procedure [Create an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
-## Related
-
-- [[label|Label]]

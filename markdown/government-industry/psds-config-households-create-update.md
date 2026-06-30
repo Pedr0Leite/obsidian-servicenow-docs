@@ -46,14 +46,9 @@ The household is added to the Households list. You can add constituents to the h
 **Related topics**  
 
 
-[[psds-config-households-add-constituents|Add constituents to a household in Public Sector Digital Services]]
+[Add constituents to a household in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-add-constituents.md)
 
-[[psds-config-households-member-relations|Create a relationship between household members in Public Sector Digital Services]]
+[Create a relationship between household members in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-member-relations.md)
 
-[[psds-config-households-manage-cases|Create and manage cases for a constituent or household in Public Sector Digital Services]]
+[Create and manage cases for a constituent or household in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-manage-cases.md)
 
-## Related
-
-- [[psds-config-households-add-constituents|Add constituents to a household in Public Sector Digital Services]]
-- [[psds-config-households-member-relations|Create a relationship between household members in Public Sector Digital Services]]
-- [[psds-config-households-manage-cases|Create and manage cases for a constituent or household in Public Sector Digital Services]]

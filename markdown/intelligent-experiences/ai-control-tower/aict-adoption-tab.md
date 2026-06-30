@@ -16,7 +16,7 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 Use the Adoption dashboard page to view data about user engagement and feedback, and adoption of every type of AI.
 
-The Adoption dashboard page contains two tabs that provide insights on [[usage-and-adoption|usage and adoption]].
+The Adoption dashboard page contains two tabs that provide insights on usage and adoption.
 
 The **Usage** tab includes indicators on daily AI actions, daily unique users who have engaged with AI, AI system group distribution, and daily usage comparison by workflow. The **Adoption** tab tracks the departments with the highest AI usage, comparison of AI actions by user department, and feedback details. Use the date range filter to view usage and adoption indicators for the selected period. The default date range is 30 days.
 
@@ -90,6 +90,4 @@ The high-level indicators on the Adoption dashboard page provide an overview of 
 
     \[Omitted image "aict-adoption-feedback-details.png"\] Alt text: Feedback details indicator.
 
-## Related
 
-- [[usage-and-adoption|Usage and adoption]]

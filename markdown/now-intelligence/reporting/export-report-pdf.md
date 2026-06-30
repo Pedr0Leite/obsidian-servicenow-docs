@@ -22,7 +22,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select the Core UI report you want to export.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select the Core UI report you want to export.
 
 2.  From the More actions menu \[Omitted image "icon-paw-more-actions.png"\], select **Export**.
 
@@ -44,7 +44,7 @@ File type
 
 </td><td>
 
-Export data visualizations in one of their supported formats. \(See [[export-visualization-vd|Supported export formats for different data visualization]].\) Select **Embedded PNG** or **Embedded LIST** to embed the exported file in the email body instead of sending it as an attached file or ZIP. You can edit the email around the image.
+Export data visualizations in one of their supported formats. \(See [Supported export formats for different data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md).\) Select **Embedded PNG** or **Embedded LIST** to embed the exported file in the email body instead of sending it as an attached file or ZIP. You can edit the email around the image.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,3 @@ When the export is complete, you see either a download link or a message that th
 
 **Parent Topic:**[Distribute reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DistributeReports.md)
 
-## Related
-
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

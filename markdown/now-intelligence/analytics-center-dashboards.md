@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 Dashboards are canvasses for organizing and sharing data visually. They contain data visualizations, filters, and other visual elements.
 
-\[Omitted video\] Description: Overview of creating and populating [[par-workspace|Platform Analytics experience]] dashboards including library content, new visualizations, and filters.
+\[Omitted video\] Description: Overview of creating and populating Platform Analytics experience dashboards including library content, new visualizations, and filters.
 
 ## Get started
 
@@ -49,6 +49,3 @@ Dashboards are canvasses for organizing and sharing data visually. They contain 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]

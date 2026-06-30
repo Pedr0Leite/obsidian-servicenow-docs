@@ -16,11 +16,11 @@ breadcrumb: [Sourcing Pipeline Management, Explore, Sourcing and Procurement Ope
 
 Sourcing managers receive email notifications when a pipeline project is created automatically, and before its estimated start and end dates.
 
-The email notification includes the **View pipeline project** option that navigates the sourcing manager to the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] View, where they can access the pipeline project's **Overview** tab.
+The email notification includes the **View pipeline project** option that navigates the sourcing manager to the Source-to-Pay Workspace View, where they can access the pipeline project's **Overview** tab.
 
 ## System properties for Sourcing and Pipeline Management
 
-The following system properties are used by [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] to notify sourcing managers about upcoming pipeline project deadlines.
+The following system properties are used by Sourcing Pipeline Management to notify sourcing managers about upcoming pipeline project deadlines.
 
 <table id="table_ywx_c1g_zfc"><thead><tr><th>
 
@@ -66,7 +66,3 @@ To access these properties, navigate to **All** and enter `sys_properties_list.d
 
 **Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]

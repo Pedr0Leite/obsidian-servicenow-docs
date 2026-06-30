@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Configure the Employee Profile overview widget
 
-Configure your instance options to control the appearance of the [[emp-slate-employee-profile|Employee Profile]] overview widget, such as the title, number of items to display, icons, and what category of items you want to view.
+Configure your instance options to control the appearance of the Employee Profile overview widget, such as the title, number of items to display, icons, and what category of items you want to view.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The Employee Profile overview widget displays useful information about an employ
 
 2.  From the Overview Sections list, select **New**.
 
-3.  On the [[profile-overview-section-form|Overview Section form]], fill in the fields.
+3.  On the Overview Section form, fill in the fields.
 
     For a description of the field values, see [Overview section form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-overview-section-form.md).
 
@@ -94,7 +94,3 @@ You can edit or remove the banner by navigating to **All** &gt; **Employee Profi
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[profile-overview-section-form|Overview section form]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Use the Cloud Operations Dashboard
 
-The Cloud Operations Dashboard breaks down cloud service requests from your end users and cloud stacks that you offer in the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+The Cloud Operations Dashboard breaks down cloud service requests from your end users and cloud stacks that you offer in the Cloud User Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Operate** &gt; **Cloud Operations Dashboard**.
+1.  In the Cloud Admin Portal, navigate to **Operate** &gt; **Cloud Operations Dashboard**.
 
     The Cloud Operation Dashboard appears, showing you Cloud Service Requests and Stacks. Requests are also broken down by requester in the bar chart below. Stacks are broken down by datacenters.
 
@@ -36,7 +36,4 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
     |**See updated data**|Point to the top of any of the charts until the refresh icon \(\[Omitted image "icon-refresh.png"\] Alt text: refresh icon\) appears, and then click the icon.|
     |**Save an image of a chart**|Point to any of the charts until the options icon \(\[Omitted image "icon-options.png"\] Alt text: options icon\) appears, and then select **Save as PNG** or **Save as JPEG**.|
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

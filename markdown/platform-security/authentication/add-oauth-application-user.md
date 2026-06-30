@@ -14,13 +14,13 @@ breadcrumb: [Client Credentials, Old Inbound integrations experience, OAuth Inbo
 
 # Add the OAuth Application User
 
-Add the OAuth Application User field on the [[oauth-inbound-and-outbound|OAuth]] Entity form to use the [[client-credential-grant|Client Credentials grant]] type for [[oauth-inbound|OAuth inbound]] integrations.
+Add the OAuth Application User field on the OAuth Entity form to use the Client Credentials grant type for OAuth inbound integrations.
 
 ## Before you begin
 
 Role required: oauth\_admin
 
-Plugin required: [[c_OAuthApplications|OAuth 2.0]].
+Plugin required: OAuth 2.0.
 
 You must create an OAuth client. For more information, see [Create an endpoint for clients to access the instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreateEndpointforExternalClients.md).
 
@@ -40,20 +40,12 @@ You must create an OAuth client. For more information, see [Create an endpoint f
 
     For example, System Administrator.\[Omitted image "add-oauth-application-user.png"\] Alt text: OAuth Application User
 
-    **Note:** You must use the [[rest-api-auth-scope|REST API Auth Scope]] with client credentials grant type to control the access provided to the 3rd party client.
+    **Note:** You must use the REST API Auth Scope with client credentials grant type to control the access provided to the 3rd party client.
 
 7.  Save or Update the form.
 
-    Any authorization [[c_requestAPI|request]] with the **Grant Type** as **[[client-credentials|Client Credentials]]**, **Client ID**, and **Secret** is passed for the associated OAuth Application User in ServiceNow®.
+    Any authorization request with the **Grant Type** as **Client Credentials**, **Client ID**, and **Secret** is passed for the associated OAuth Application User in ServiceNow®.
 
     **Note:** If the OAuth Application User isn’t selected on the OAuth client record or the Client Credentials property is set to `false`, then the authorization request isn’t passed.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[client-credential-grant|Client credentials grant]]
-- [[oauth-inbound|OAuth Inbound]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[c_requestAPI|request]]
-- [[client-credentials|Client Credentials]]

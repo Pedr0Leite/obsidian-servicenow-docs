@@ -14,11 +14,11 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist in Virtual Agent, Con
 
 # Upload documents in a chat
 
-Upload or drag files into [[now-assist-in-va-landing|Now Assist in Virtual Agent]] to extract relevant data from a file. The assistant analyzes and understands the content of the files, and you can ask questions about the content of the files or get a summary.
+Upload or drag files into Now Assist in Virtual Agent to extract relevant data from a file. The assistant analyzes and understands the content of the files, and you can ask questions about the content of the files or get a summary.
 
 ## Before you begin
 
-Now Assist in Virtual Agent standard and [[nava-enhanced-chat|enhanced chat]] support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-standard-chat.md) and [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+Now Assist in Virtual Agent standard and enhanced chat support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-standard-chat.md) and [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 Uploaded file formats include text and image files such as PDF, Word \(.doc, .docx\), JPEG, and PNG. The maximum size of a file is 5 megabytes \(MB\).
 
@@ -26,7 +26,7 @@ Role required: requestor
 
 ## Procedure
 
-1.  Navigate to the portal home page that is [[using-now-assist-in-va|using Now Assist in Virtual Agent]].
+1.  Navigate to the portal home page that is using Now Assist in Virtual Agent.
 
 2.  Launch the Now Assist in Virtual Agent chat window.
 
@@ -40,8 +40,4 @@ Role required: requestor
 
 4.  To ask questions about another file, exit the chat, and upload or drag a new file to the assistant.
 
-## Related
 
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[using-now-assist-in-va|Using Now Assist in Virtual Agent]]

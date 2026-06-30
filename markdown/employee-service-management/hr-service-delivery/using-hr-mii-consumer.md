@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Multi Instance Integration, HR Service Delivery, Employee S
 
 # Using HR Multi Instance Integration for Consumer
 
-Access a remote catalog item \(hosted by a remote service provider\) and submit the catalog item with the required details from your [[employee-center-portal-overview|Employee portal]]. An HR case is created in the provider instance which is fulfilled by a provider agent.
+Access a remote catalog item \(hosted by a remote service provider\) and submit the catalog item with the required details from your Employee portal. An HR case is created in the provider instance which is fulfilled by a provider agent.
 
 ## Before you begin
 
@@ -36,11 +36,8 @@ Role required: sn\_sb.requestor
 
 4.  Select the URL link on the task that is assigned to you.
 
-    Without having you to manually log in, the URL link gives you the access to linked resource in the provider instance for completing the task. After you complete the HR task in provider instance, your [[universal-task-landing|universal task]] is auto-closed in the consumer instance.
+    Without having you to manually log in, the URL link gives you the access to linked resource in the provider instance for completing the task. After you complete the HR task in provider instance, your universal task is auto-closed in the consumer instance.
 
     Your HR request gets closed when the remote HR case is closed by the HR agent in provider instance.
 
-## Related
 
-- [[employee-center-portal-overview|Employee portal]]
-- [[universal-task-landing|Universal Task]]

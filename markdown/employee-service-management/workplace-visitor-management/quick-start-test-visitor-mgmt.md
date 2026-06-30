@@ -14,7 +14,7 @@ breadcrumb: [Quick start test for Workplace Visitor Management, Configure, Workp
 
 # Run quick start test for Workplace Visitor Management
 
-[[workplace-visitor-mgmt-feat|Workplace Visitor Management]] provides quick start test that you can run on your instance.
+Workplace Visitor Management provides quick start test that you can run on your instance.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Quick start test for Workplace Visitor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/quick-start-tests-wsd-visitor-mgmt.md)
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

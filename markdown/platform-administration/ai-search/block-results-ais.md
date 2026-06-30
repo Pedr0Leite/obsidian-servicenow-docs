@@ -14,11 +14,11 @@ breadcrumb: [Result improvement rules, Search profiles, Configuring AI Search, A
 
 # Block search results and Genius Results using a result improvement rule
 
-Configure a result improvement rule to prevent specific documents from appearing as [[genius-results-ais|Genius Results]] or search [[hs-results|results]].
+Configure a result improvement rule to prevent specific documents from appearing as Genius Results or search results.
 
 ## Before you begin
 
-Create your result improvement rule first to define your trigger conditions. For steps to [[create-result-improve-rule-ais|create a result improvement rule]], see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
+Create your result improvement rule first to define your trigger conditions. For steps to create a result improvement rule, see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
 
 Role required: ais\_admin
 
@@ -48,8 +48,3 @@ To make new or updated result improvement rule settings take effect, publish the
 
 **Parent Topic:**[Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md)
 
-## Related
-
-- [[genius-results-ais|Genius Results]]
-- [[hs-results|Results]]
-- [[create-result-improve-rule-ais|Create a result improvement rule]]

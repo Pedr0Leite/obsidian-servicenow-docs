@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Em
 
 # Components installed with Health and Safety Risk Management
 
-Several types of components are installed with installation of the [[hs-risk-management-landing-page|Health and Safety Risk Management]] application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
+Several types of components are installed with installation of the Health and Safety Risk Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
 
 ## Store applications installed
 
@@ -28,17 +28,17 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
@@ -50,7 +50,7 @@ Risk Heatmap\[sn\_risk\_heatmap\]
 
 </td><td>
 
-Provides a heatmap component that enables you to visualize the risk posture of a [[hs-risk-assessment|safety risk assessment]].
+Provides a heatmap component that enables you to visualize the risk posture of a safety risk assessment.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ sn\_hs\_rm.hierarchy\_of\_controls\_reader
 
 </td></tr><tr><td>
 
-[[hs-job-safety-analysis|Job safety analysis]] writer
+Job safety analysis writer
 
  \[sn\_hs\_rm.job\_safety\_analysis\_writer\]
 
@@ -133,7 +133,7 @@ Risk manager
 
 Manager for risk team who can
 
--   View job safety analysis \(JSA\) records in [[health-safety-core-workspace|Health and Safety Workspace]]
+-   View job safety analysis \(JSA\) records in Health and Safety Workspace
 -   Create and update job safety analyses \(JSAs\) from Health and Safety Workspace
 -   Create, update, and delete:
     -   Hazards
@@ -157,7 +157,7 @@ Job safety analysis reporter
 </td><td>
 
 -   View filed JSA records
--   Submit JSAs from [[employee-center-landing-page|Employee Center]] and [[mobile-employee-experience|Now Mobile app]]
+-   Submit JSAs from Employee Center and Now Mobile app
 -   Use pre-defined jobs from job register when submitting JSAs
 
 </td><td>
@@ -352,7 +352,7 @@ Safety register manager
 
 </td><td>
 
-Create, update, and delete [[hs-safety-registers|safety registers]]
+Create, update, and delete safety registers
 
 </td><td>
 
@@ -1200,16 +1200,3 @@ Stores all JSA templates with predefined hazards and controls for each job type 
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[hs-risk-assessment|Safety risk assessment]]
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hs-safety-registers|Safety registers]]

@@ -39,8 +39,5 @@ Role required: sn\_wsd\_mappedin.admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[[set-up-workplace-service-mapping|Setting up Workplace Space Mapping]]
+**Parent Topic:**[Setting up Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/set-up-workplace-service-mapping.md)
 
-## Related
-
-- [[set-up-workplace-service-mapping|Setting up Workplace Space Mapping]]

@@ -14,10 +14,7 @@ breadcrumb: [Source-to-Pay integration framework, Integration with third-party a
 
 # Primary data integration
 
-All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data. For [[supplier|supplier]] primary data, if an update is made in the ERP, it is synchronized with Source-to-Pay \(S2P\) even if the scheduled job has not been triggered.
+All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data. For supplier primary data, if an update is made in the ERP, it is synchronized with Source-to-Pay \(S2P\) even if the scheduled job has not been triggered.
 
 The asset category and material group mapping tables are also populated by the same scheduled job. However, the address mapping table has to be populated manually. A procurement administrator must manually populate the S2P model categories and capitalization policy in the respective mapping tables on initial load.
 
-## Related
-
-- [[supplier|Supplier]]

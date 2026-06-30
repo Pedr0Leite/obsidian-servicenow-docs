@@ -14,7 +14,7 @@ breadcrumb: [Workplace Maintenance Management, Workplace Service Delivery, Emplo
 
 # Workplace Maintenance Management references
 
-Several roles and views are available to help manage plan records with [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]].
+Several roles and views are available to help manage plan records with Workplace Maintenance Management.
 
 1.  [Maintenance plan schedule examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/maintenance-plan-examples.md)  
 Maintenance plans are created for models \(assets\) or locations. The schedule trigger type defined for a maintenance plan can be meter or duration-based schedule. Associate multiple templates to maintenance schedules as required. The scheduled job fetches plan records that have a template associated to it and creates maintenance cases for a maintenance plan.
@@ -23,6 +23,3 @@ Different roles and components or tables are available with the installation of 
 
 **Parent Topic:**[Workplace Maintenance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-mgmt-ovw.md)
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]

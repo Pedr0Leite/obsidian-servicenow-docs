@@ -18,24 +18,24 @@ Run the Auditor to scan your instance and find incorrect security definitions. I
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow [[sec-center-v2|Security Center]] \(SSC\) is the recommended solution going forward. For more information, see [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]].
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md).
 
-The Auditor performs a “full-body” assessment of your instance health that analyzes your system [[sc-configuration|configuration]]. For security scans, it compares your current security configuration to best practice definitions, and to security property compliance values.
+The Auditor performs a “full-body” assessment of your instance health that analyzes your system configuration. For security scans, it compares your current security configuration to best practice definitions, and to security property compliance values.
 
 From an instance security standpoint, it provides insights and recommendations into what you should continue doing, and where you might be able to improve. These insights and recommendations help you answer the following questions:
 
 -   Are the appropriate security-related properties set?
 -   Is the High Security plugin enabled?
--   Do the right [[sc-access-control|access control]] rules exist?
+-   Do the right access control rules exist?
 
 ## Run the Auditor and analyze scan results
 
 1.  To run the Auditor, click **Audit** on the Instance Security Center home page.
-2.  When it completes, open [[scan-results|Scan Results]] to review and analyze the [[security-score|security findings]].
+2.  When it completes, open Scan Results to review and analyze the security findings.
 3.  To review the detail for a specific scan result, double-click the result number. This information includes its status, scan type, execution time, and error messages.
 4.  Each of the Auditor findings contains resolution details, and a URL to product content about how to address them. Follow the documented guidelines to resolve the issues in each of the findings.
 
-**Parent Topic:**[[instance-security-center|Instance Security Center]]
+**Parent Topic:**[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
 **Related topics**  
 
@@ -56,12 +56,3 @@ From an instance security standpoint, it provides insights and recommendations i
 
 [Access Control List Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md)
 
-## Related
-
-- [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]]
-- [[instance-security-center|Instance Security Center]]
-- [[sec-center-v2|Security Center]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]
-- [[scan-results|Scan results]]
-- [[security-score|Security findings]]

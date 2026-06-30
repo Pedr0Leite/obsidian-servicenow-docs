@@ -14,7 +14,7 @@ breadcrumb: [Service catalog variable sets, Service Catalog Reference, Service C
 
 # Create a variable set and add it to an item
 
-Create a set of variables and add them to multiple catalog items and [[c_ServiceCatalogOrderGuides|order guides]] for reuse.
+Create a set of variables and add them to multiple catalog items and order guides for reuse.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: catalog\_admin, admin, catalog\_editor, or catalog\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Variables** &gt; **Variable Sets**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Variables** &gt; **Variable Sets**.
 
 2.  Click **New**.
 
@@ -57,7 +57,7 @@ Title
 
 </td><td>
 
-Title of a variable set. Appears if the **Display title** [[check-box|check box]] is selected.
+Title of a variable set. Appears if the **Display title** check box is selected.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Display title
 
 </td><td>
 
-If selected, adds a title and an expandable header to the right of the variable set.**Note:** When a user requests the item, all check box variables are grouped under a default title of **Options**. To use a custom title, insert a variable of type **[[label|Label]]**, with an **Order** value that puts it directly above the check box variables.
+If selected, adds a title and an expandable header to the right of the variable set.**Note:** When a user requests the item, all check box variables are grouped under a default title of **Options**. To use a custom title, insert a variable of type **Label**, with an **Order** value that puts it directly above the check box variables.
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ Role required: catalog\_admin, admin, catalog\_editor, or catalog\_manager
 
     **Note:** For a multi-row variable set:
 
-    -   The associated variables are displayed as columns of a table on a catalog item or [[c_RecordProducer|record producer]]. Each row corresponds to a set of data for all variables in the variable set.
+    -   The associated variables are displayed as columns of a table on a catalog item or record producer. Each row corresponds to a set of data for all variables in the variable set.
     -   The column order is the order of variables defined in the variable set.
 6.  Edit a multi-row variable set.
 
@@ -200,10 +200,4 @@ Role required: catalog\_admin, admin, catalog\_editor, or catalog\_manager
 
     4.  To remove all rows of the table, Click **Remove All** within the variable set and click **Remove** in the confirmation window.
 
-## Related
 
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[c_RecordProducer|Record Producer]]

@@ -22,13 +22,13 @@ Role required: resource\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **Requested**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **Requested**.
 
 2.  Open a resource plan.
 
 3.  In the **Resource Allocations** related list, select **New**.
 
-4.  On the [[rsrc-allocation-form|Resource Allocation form]], fill the fields.
+4.  On the Resource Allocation form, fill the fields.
 
     For a description of the field values, see [Resource Allocation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-allocation-form.md).
 
@@ -37,7 +37,7 @@ Role required: resource\_manager
 
 ## What to do next
 
-In the [[rsrc-plan-form|resource plan form]], select **Confirm** or **Confirm and Allocate** to move the resource to the **Confirmed** or **Allocated** state.
+In the resource plan form, select **Confirm** or **Confirm and Allocate** to move the resource to the **Confirmed** or **Allocated** state.
 
 **Parent Topic:**[Resource allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_AllocatingResources.md)
 
@@ -50,8 +50,3 @@ In the [[rsrc-plan-form|resource plan form]], select **Confirm** or **Confirm an
 
 [Reject a resource plan from the Resource Plan form]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[rsrc-allocation-form|Resource Allocation form]]
-- [[rsrc-plan-form|Resource Plan form]]

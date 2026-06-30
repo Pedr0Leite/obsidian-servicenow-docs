@@ -28,7 +28,7 @@ As an agent, you can view the requests, complete tasks across multiple workflow 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
@@ -88,7 +88,7 @@ Return request is automatically assigned to the buyer assigned to the original p
 
 </td></tr><tr><td rowspan="3">
 
-Coordinate with [[supplier|Supplier]]
+Coordinate with Supplier
 
 </td><td>
 
@@ -108,7 +108,7 @@ Get POLs from Service Case
 
 </td><td>
 
-Updates state of [[purchase-order-lines|Purchase Order Lines]] to pending return.
+Updates state of Purchase Order Lines to pending return.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Reverse goods receipt
 
 </td><td>
 
-Creates a receipt type for the goods that are to be shipped back to the supplier. This receipt is recorded on the [[purchase-order-table|purchase order]] record. If you skip this step, the request moves to the Closed Rejected state. You can then close the case by sending an email to the business owner confirming that the return request has been rejected.
+Creates a receipt type for the goods that are to be shipped back to the supplier. This receipt is recorded on the purchase order record. If you skip this step, the request moves to the Closed Rejected state. You can then close the case by sending an email to the business owner confirming that the return request has been rejected.
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ Creates a debit memo invoice for this return. This debit memo is recorded on the
 
 </td></tr><tr><td>
 
-[[create-invoice|Create invoice]] of type debit memo
+Create invoice of type debit memo
 
 </td><td>
 
@@ -172,7 +172,7 @@ Create invoice line for debit memo
 
 </td><td>
 
-Creates an invoice line associated with debit memo in [[shopping-hub-overview|Shopping Hub]].
+Creates an invoice line associated with debit memo in Shopping Hub.
 
 </td></tr><tr><td rowspan="4">
 
@@ -226,7 +226,7 @@ Updates the case to Closed Completed.
 
 [Process a purchase order edit in playbook]()
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a replacement request in playbook]()
 
@@ -244,13 +244,3 @@ Updates the case to Closed Completed.
 
 [Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[create-invoice|create invoice]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]

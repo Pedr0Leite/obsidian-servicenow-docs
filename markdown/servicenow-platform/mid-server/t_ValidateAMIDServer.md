@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Validate the MID Server
 
-You must manually validate the MID Server after it is installed to enable it to execute automation tasks. You can invalidate a [[mid-server-landing|MID Server]] you suspect has been compromised to prevent it from accessing automation credentials in the instance or executing outbound ECC probes.
+You must manually validate the MID Server after it is installed to enable it to execute automation tasks. You can invalidate a MID Server you suspect has been compromised to prevent it from accessing automation credentials in the instance or executing outbound ECC probes.
 
 ## Before you begin
 
@@ -49,10 +49,10 @@ When you validate a MID Server, you specify the capabilities it can use, the app
 
     -   **Allow ALL capabilities**: Allow all capabilities for Orchestration and Event Management to use this MID Server.
 
-        **Note:** Service Mapping and Event Management alert aggregation and RCA, which used capabilities in previous releases, rely on the application for [[c_MIDServerSelector|MID Server selection]].
+        **Note:** Service Mapping and Event Management alert aggregation and RCA, which used capabilities in previous releases, rely on the application for MID Server selection.
 
     -   **Allow ALL applications**: Allow all applications that use MID Servers to use this MID Server.
-    -   **Allow ALL IP ranges**: Make all IP ranges valid for this MID Server, meaning that it can target any [[ip-address|IP address]].
+    -   **Allow ALL IP ranges**: Make all IP ranges valid for this MID Server, meaning that it can target any IP address.
     \[Omitted image "setInitialSelectionCriteria.png"\] Alt text: Set initial selection criteria
 
     If you click **Cancel**, the validation continues but none of the capabilities, applications, or IP ranges are added.
@@ -77,8 +77,3 @@ When you validate a MID Server, you specify the capabilities it can use, the app
 
 [Rekey a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_RekeyAMIDServer.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_MIDServerSelector|MID Server selection]]
-- [[ip-address|IP Address]]

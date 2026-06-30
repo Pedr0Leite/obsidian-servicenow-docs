@@ -12,7 +12,7 @@ breadcrumb: [Configure Workplace Indoor Mapping, Configure, Workplace Space Mapp
 
 # Install Workplace Indoor Mapping dependent plugins
 
-Install the dependent plugins for [[Indoor-mapping|Indoor Mapping]].
+Install the dependent plugins for Indoor Mapping.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view the required apps for integrating Indoor Mapping with Workplace Indoor Mapping.
 
-**Note:** Install the Workplace Indoor Mapping Core plugin \(sn\_wsd\_indoor\_map\) in your ServiceNow instance before you [[install-indoor-mapping|install Indoor Mapping]] plugin \(sn\_map\_core\).
+**Note:** Install the Workplace Indoor Mapping Core plugin \(sn\_wsd\_indoor\_map\) in your ServiceNow instance before you install Indoor Mapping plugin \(sn\_map\_core\).
 
 For cumulative release notes and information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -34,7 +34,7 @@ For cumulative release notes and information for all released apps, see the [Ser
 
     Install the dependent plugins before installing Indoor Mapping.
 
-4.  The following dependent plugins must be installed to integrate Indoor Mapping with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+4.  The following dependent plugins must be installed to integrate Indoor Mapping with Workplace Service Delivery.
 
 <table id="table_omv_jhb_btb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
+Workplace Core \(sn\_wsd\_core\)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Provides workplace shift management and scheduling capabilities for workplace ma
 
 </td></tr><tr><td>
 
-[[wsm-mappedin-admin|Workplace Space Mapping]] \(sn\_wsd\_space\_map\)
+Workplace Space Mapping \(sn\_wsd\_space\_map\)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Provides space-mapping capabilities to support Workplace Service Delivery.**Note
 
 </td></tr><tr><td>
 
-[[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(sn\_wsd\_rsv\)
+Workplace Reservation Management \(sn\_wsd\_rsv\)
 
 </td><td>
 
@@ -70,7 +70,7 @@ A universal reservation application offering unified reservation experience to y
 
 </td></tr><tr><td>
 
-[[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
+Workplace Case Management \(sn\_wsd\_case\)
 
 </td><td>
 
@@ -78,25 +78,13 @@ Workplace Case Management application that fulfills workplace service requests.
 
 </td></tr><tr><td>
 
-[[workplace-move-mgmt-overview|Workplace Move Management]] \(sn\_wsd\_move\)
+Workplace Move Management \(sn\_wsd\_move\)
 
 </td><td>
 
-Enables an employee to relocate from one location to another. Employees can collaborate, communicate, and easily manage space changes using the [[workplace-services-portal-hr|Workplace Service Portal]].
+Enables an employee to relocate from one location to another. Employees can collaborate, communicate, and easily manage space changes using the Workplace Service Portal.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[wsd-integration-indoor-mapping|Configure Workplace Indoor Mapping]]
+**Parent Topic:**[Configure Workplace Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsd-integration-indoor-mapping.md)
 
-## Related
-
-- [[wsd-integration-indoor-mapping|Configure Workplace Indoor Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[install-indoor-mapping|install indoor mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

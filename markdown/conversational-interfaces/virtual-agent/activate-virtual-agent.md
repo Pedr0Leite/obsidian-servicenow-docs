@@ -14,7 +14,7 @@ breadcrumb: [Activate and get started, Virtual Agent, Conversational Interfaces]
 
 # Activate Virtual Agent
 
-You can activate the Glide [[virtual-agent-landing-page|Virtual Agent]] plugin \(com.glide.cs.chatbot\) if you have the admin role. This plugin automatically activates other necessary plugins if they are not already active.
+You can activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) if you have the admin role. This plugin automatically activates other necessary plugins if they are not already active.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ You must have a subscription for Virtual Agent before you can activate the Glide
 
 Activate [additional Virtual Agent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/additional-va-plugins.md) for related features, such as the plugins for predefined Virtual Agent topics.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a Workplace case template, Configure, Workplace Case Managem
 
 # Create a User acceptance Workplace case template
 
-[[wsd-case-template|Create a Workplace case template]] with user acceptance.
+Create a Workplace case template with user acceptance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create this case template for use when a user's approval or rejection is require
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Case templates**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Case templates**.
 
 2.  Create a template or modify an existing template.
 
@@ -51,10 +51,5 @@ The Case template is created with user acceptance options enabled.
 
 ## What to do next
 
-Use the template in [[workplace-services|Workplace services]] where user acceptance is required. For more information about creating Workplace services, see [Create a Workplace service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
+Use the template in Workplace services where user acceptance is required. For more information about creating Workplace services, see [Create a Workplace service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
 
-## Related
-
-- [[wsd-case-template|Create a Workplace case template]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

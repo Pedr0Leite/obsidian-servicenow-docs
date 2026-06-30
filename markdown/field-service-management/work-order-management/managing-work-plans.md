@@ -14,9 +14,9 @@ breadcrumb: [Planned Work Management, Set up work orders and tasks, Configure, F
 
 # Configuring work plans
 
-[[planned-work-management|Planned Work Management]] enables you to create, maintain, and schedule flexible work plans for any recurring activity that requires regular maintenance.
+Planned Work Management enables you to create, maintain, and schedule flexible work plans for any recurring activity that requires regular maintenance.
 
-You can [[create-work-plan|create a work plan]] for a product model, or other criteria, such as location, asset, CI, or so on, and specifies the work to be performed. The planned work schedule specifies the timing, by specifying how often and when to perform the work.
+You can create a work plan for a product model, or other criteria, such as location, asset, CI, or so on, and specifies the work to be performed. The planned work schedule specifies the timing, by specifying how often and when to perform the work.
 
 For example, You can configure a work plan to perform automobile service for a newly purchased car. The work schedule can specify to perform service every six months for two years from the date of purchase or after completing 10,00 miles, whichever comes first.
 
@@ -43,7 +43,7 @@ The steps for setting up work plans are:
 
 4.  [Associate a work order template to a work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/associate-work-schedule-to-wotemplate.md)
 
-    Specify the work order template that must be used to [[generate-work-orders|generate work orders]] when the specified conditions are met.
+    Specify the work order template that must be used to generate work orders when the specified conditions are met.
 
 5.  [Associate a task plan template to a work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/map-schedule-to-task-template.md)
 
@@ -51,7 +51,7 @@ The steps for setting up work plans are:
 
 6.  [Create planned work records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-planned-work-records.md)
 
-    Create work records for work that has been mapped to a work plan. Apply a work plan to the matching records and schedules to [[create-planned-work-records|create planned work records]].
+    Create work records for work that has been mapped to a work plan. Apply a work plan to the matching records and schedules to create planned work records.
 
 7.  [Generate work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/generate-work-orders.md)
 
@@ -65,9 +65,4 @@ The steps for setting up work plans are:
 
     Avoid generating duplicate work orders for overlapping schedule occurrences by changing the start or end date, either advancing or delaying the maintenance work as needed.
 
-## Related
 
-- [[planned-work-management|Planned Work Management]]
-- [[create-work-plan|Create a work plan]]
-- [[generate-work-orders|Generate work orders]]
-- [[create-planned-work-records|Create planned work records]]

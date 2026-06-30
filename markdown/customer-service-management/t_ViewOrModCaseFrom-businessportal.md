@@ -28,7 +28,7 @@ Depending on the role of the current user, the Case list displays:
 
 ## Procedure
 
-1.  Select **Requests** &gt; **View submitted requests** &gt; **[[osp-view-cases|View cases]] &amp; tasks** in the portal header.
+1.  Select **Requests** &gt; **View submitted requests** &gt; **View cases &amp; tasks** in the portal header.
 
 2.  Select the desired case number to open the case view page.
 
@@ -38,6 +38,4 @@ Depending on the role of the current user, the Case list displays:
 
 4.  Select **Send**.
 
-## Related
 
-- [[osp-view-cases|View cases]]

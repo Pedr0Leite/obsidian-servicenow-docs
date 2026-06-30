@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Identifying and remediating missing API data in API Insights
 
-Identify and remediate missing API data in the [[api-insights|API Insights]] workspace by linking missing elements and verifying complete API records.
+Identify and remediate missing API data in the API Insights workspace by linking missing elements and verifying complete API records.
 
 Missing metadata can reduce the effectiveness of API discovery, life cycle tracking, and ownership accountability. Common missing elements include:
 
@@ -23,9 +23,9 @@ Missing metadata can reduce the effectiveness of API discovery, life cycle track
 -   Product model
 -   Design details
 
-Resolving missing data ensures a more complete, accurate view of dependencies and ownership, improving impact [[r_Assessments|assessments]] and service management.
+Resolving missing data ensures a more complete, accurate view of dependencies and ownership, improving impact assessments and service management.
 
-The Overview tab of the API Insights workspace enables improve the usability, governance, and integration of APIs by highlighting any incomplete or missing data within the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The Overview tab of the API Insights workspace enables improve the usability, governance, and integration of APIs by highlighting any incomplete or missing data within the Configuration Management Database \(CMDB\).
 
 ## Remediating missing API data by roles
 
@@ -42,7 +42,7 @@ You can monitor the following missing data associated with APIs within your orga
 
     APIs not associated with any business context reduce the clarity and governance over which business areas are providing them.
 
--   **Missing [[enable-ownership-group|ownership groups]]**
+-   **Missing ownership groups**
 
     APIs without an assigned ownership group affect governance. Assigning ownership groups streamlines tracking remediations, managing access, and resolving issues quickly.
 
@@ -57,7 +57,7 @@ You can monitor the following missing data associated with APIs within your orga
 
 ## Resolving missing API data
 
-You can resolve missing API data by creating relationships for business context or [[reference-document-management|references]] for ownership groups, product models, or designs, to establish connections between the API and other CIs within the CMDB.
+You can resolve missing API data by creating relationships for business context or references for ownership groups, product models, or designs, to establish connections between the API and other CIs within the CMDB.
 
 You can establish the following relationships or references in API Insights to resolve missing API data:
 
@@ -65,7 +65,7 @@ You can establish the following relationships or references in API Insights to r
 
     Links an API to a specific business context, defining the context in which the API is used and creating a relationship record in the CMDB.
 
--   **API-to-ownership group [[reference|reference]]**
+-   **API-to-ownership group reference**
 
     Links an API to a group responsible for its governance, access control, and maintenance, serving as a reference without creating a record in the CMDB.
 
@@ -124,11 +124,4 @@ Available missing data categories include:
     -   For ownership groups, product model, or designs, select **Create reference**.
 8.  In the dialog box that appears, select **Create**.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[r_Assessments|Assessments]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[enable-ownership-group|Ownership groups]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]

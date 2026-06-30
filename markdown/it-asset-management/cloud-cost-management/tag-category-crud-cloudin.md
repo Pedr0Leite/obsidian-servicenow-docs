@@ -18,7 +18,7 @@ Create a tag category to enable multiple tag names for representing costs agains
 
 Watch this short video to learn how to create and update a tag category.
 
-\[Omitted video\] Description: Demonstrates how to create and update a tag category in [[cloud-insights-landing-page|Cloud Cost Management]].
+\[Omitted video\] Description: Demonstrates how to create and update a tag category in Cloud Cost Management.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ This procedure describes the process as performed from the user interface. Alter
 -   Tag Category \[sn\_cld\_intg\_core\_tag\_category\]
 -   Tag Name-Category \[sn\_cld\_intg\_core\_tag\_name\_category\]
 
-**Note:** Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions might not reflect ton the cost reports. To apply the latest tag category definitions to cost data without running a Billing Download job, select **Reapply categories** by navigating to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories**.
+**Note:** Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions might not reflect ton the cost reports. To apply the latest tag category definitions to cost data without running a Billing Download job, select **Reapply categories** by navigating to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories**.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ This procedure describes the process as performed from the user interface. Alter
 
 2.  On the Tag Categories list, select **New**.
 
-    For the [[default-tag-categories|list of default tag categories]], see [List of default tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/default-tag-categories.md).
+    For the list of default tag categories, see [List of default tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/default-tag-categories.md).
 
     **Note:** In this step, you add a single tag name to the category to create the initial category record. You can add any number of tag names to the category later.
 
@@ -106,8 +106,3 @@ The list of tag names that you can add to the category.1.  Select the Lookup ico
 
 [Tags and tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/tags-overview.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[default-tag-categories|List of default tag categories]]

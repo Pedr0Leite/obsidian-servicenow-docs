@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Trigger McAfee ePO profile manually from a security incident
 
-Trigger a capability profile manually from a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+Trigger a capability profile manually from a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ Once you activate the profile, based on the configured trigger conditions, you c
 
 **Next topic:**[Trigger additional actions in McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-additional-actions-mcafee.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

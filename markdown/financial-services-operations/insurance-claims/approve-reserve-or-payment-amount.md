@@ -14,7 +14,7 @@ breadcrumb: [Use, Individual Life Claims, Exploring insurance claims application
 
 # Approve a reserve or payment amount
 
-Approve an assigned claim reserve or a payment amount that is higher than an adjuster's approval authority for [[individual-life-claims-landing-page|Individual Life Claims]] cases.
+Approve an assigned claim reserve or a payment amount that is higher than an adjuster's approval authority for Individual Life Claims cases.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If an assigned reserve or created payment amount by an adjuster is higher than t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -97,7 +97,3 @@ Approve the reserve or payment amount by selecting **Approve**.
 -   If the claims manager rejects the reserve or payment amount, the manager provides another recommendation. A notification of the rejected status triggers to the adjuster.
 -   System-generated entries for the reserve or payment amount approval or rejection are added to the activity stream. These automated entries support auditing and tracking.
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-overview|Financial Services]]

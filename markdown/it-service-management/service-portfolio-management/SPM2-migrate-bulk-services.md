@@ -35,7 +35,7 @@ When you convert a service, the record and all its relationships remain intact.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Services**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Services**.
 
 2.  Select the services that you want to convert.
 
@@ -54,6 +54,3 @@ When you convert a service, the record and all its relationships remain intact.
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

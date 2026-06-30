@@ -14,7 +14,7 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 # Acknowledge receipt of an asset received through the Zero Touch request flow
 
-As an employee, acknowledge receipt of the new asset that you received through the [[zero-touch-request|Zero Touch request flow]] on a mobile device.
+As an employee, acknowledge receipt of the new asset that you received through the Zero Touch request flow on a mobile device.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: User of the asset.
 
 ## About this task
 
-You can only confirm the receipt of hardware assets on a mobile device. To acknowledge the receipt of [[c_ReceiveAConsumableAsset|consumable assets]], contact your Asset Manager.
+You can only confirm the receipt of hardware assets on a mobile device. To acknowledge the receipt of consumable assets, contact your Asset Manager.
 
 ## Procedure
 
@@ -46,7 +46,3 @@ You can only confirm the receipt of hardware assets on a mobile device. To ackno
 -   The state of the asset changes to **In use**.
 -   The stage of the requested item in the catalog request changes to **Complete**.
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

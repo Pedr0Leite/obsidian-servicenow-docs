@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Enable SMS code notification for enrollment and verification
 
-The **password\_reset.sms.use\_notify** property controls the usage of SMS code notifications for [[c_SelfServicePasswordReset|password reset]].
+The **password\_reset.sms.use\_notify** property controls the usage of SMS code notifications for password reset.
 
-The **password\_reset.sms.use\_notify** system property controls usage SMS code notification for enrollment and verification. If **password\_reset.sms.use\_notify** is set to the recommended value **true**, then user isn't notified for password reset for SMS verification method and new device enrollment. Using SMS code notification for enrollment and verification is more secure that default [[email|email]] notification.
+The **password\_reset.sms.use\_notify** system property controls usage SMS code notification for enrollment and verification. If **password\_reset.sms.use\_notify** is set to the recommended value **true**, then user isn't notified for password reset for SMS verification method and new device enrollment. Using SMS code notification for enrollment and verification is more secure that default email notification.
 
 Ensure the property **password\_reset.sms.use\_notify** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 3.7
 -   CVSS rating: Low
--   Security risk details: Email-based notifications are generally less secure because they are more susceptible to account compromise and phishing attacks. Using SMS for verification provides stronger assurance of user [[identity-landing|identity]] and reduces the risk of unauthorized password resets or fraudulent device enrollments.
+-   Security risk details: Email-based notifications are generally less secure because they are more susceptible to account compromise and phishing attacks. Using SMS for verification provides stronger assurance of user identity and reduces the risk of unauthorized password resets or fraudulent device enrollments.
 
 </td></tr><tr><td>
 
@@ -115,10 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[identity-landing|Identity]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating and executing a PowerShell script-based remedial action, D
 
 # Test a check definition
 
-Test a check definition on an endpoint device to verify that the Agent Client Collector \(ACC\) plugin is linked and the custom [[remedial-action|remedial action]] defined in the Powershell script runs successfully.
+Test a check definition on an endpoint device to verify that the Agent Client Collector \(ACC\) plugin is linked and the custom remedial action defined in the Powershell script runs successfully.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Creating and executing a PowerShell script-based remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-ps.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]

@@ -12,7 +12,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 # View management
 
-A view defines the elements that appear when a user opens a form or a list, and you can switch the view from the default for [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]].
+A view defines the elements that appear when a user opens a form or a list, and you can switch the view from the default for lists and forms.
 
 When the system displays a form or list it usually displays only a subset of the fields belonging to the underlying table.
 
@@ -40,23 +40,14 @@ When a user switches views, the selected view is saved as a user preference so t
 
 The sysparm\_view parameter specifies the view to be used for a list or a form, and can be overwritten by a user’s stored preference for a view. You can override this behavior by setting the **sysparm\_view\_forced** parameter to **true**.
 
--   **[[create-delete-view|Create and delete views]]**  
+-   **[Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md)**  
 Administrators can create views and delete any views they have created. You can create or delete views from either the list view or the form view.
--   **[[t_CreateAViewRule|Create a view rule]]**  
+-   **[Create a view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAViewRule.md)**  
 When a user switches views, the selected view is saved as a user preference so the user sees the same view by default when the form opens. With a view rule, you can override this functionality to force a specified view to be used.
--   **[[control-views|Control when the system displays a view]]**  
+-   **[Control when the system displays a view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/control-views.md)**  
 Administrators can create rules that determine the conditions for when the system should display a form or list in a specified view. Administrators can also restrict views by user role.
--   **[[c_NavigationHandler|Navigation handler]]**  
+-   **[Navigation handler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_NavigationHandler.md)**  
 A navigation handler is a scripted view rule and runs each time data from the specified table is requested in the form view.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[create-delete-view|Create and delete views]]
-- [[t_CreateAViewRule|Create a view rule]]
-- [[control-views|Control when the system displays a view]]
-- [[c_NavigationHandler|Navigation handler]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

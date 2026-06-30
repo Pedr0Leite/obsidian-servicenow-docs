@@ -28,9 +28,9 @@ Role required: sam\_user or sam\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace**.
 
-    The [[sam-workspace-landing|Software asset overview]] page appears.
+    The Software asset overview page appears.
 
 2.  Select **Create entitlement**.
 
@@ -46,7 +46,7 @@ Role required: sam\_user or sam\_admin
 
     -   If you select **on-premise**, enter the fields listed in the following On-premise entitlement table.
     -   If you select **SaaS**, enter the fields listed in the following SaaS entitlement table.
-    **Note:** You're asked to select on-premise or SaaS only if the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] Integrations \(sn\_sam\_saas\_int\) plugin is activated. If this plugin is not activated, then the product type is automatically selected as on-premise.
+    **Note:** You're asked to select on-premise or SaaS only if the Software Asset Management - SaaS License Management Integrations \(sn\_sam\_saas\_int\) plugin is activated. If this plugin is not activated, then the product type is automatically selected as on-premise.
 
     |on-premise entitlement fields|Description|
     |-----------------------------|-----------|
@@ -143,9 +143,3 @@ Based on the type of profile you specified, select an integration profile.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]

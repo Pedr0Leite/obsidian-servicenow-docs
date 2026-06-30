@@ -26,7 +26,7 @@ You must have access to the list of records that you want to analyze.
 
 1.  Navigate to the table that you want to analyze.
 
-2.  Right-click on a column header and select **[[launch-interactive-analysis-pa|Launch Interactive Analysis]]** or open a dashboard that you own to show the [[c_HomepagePublishers|interactive filters]].
+2.  Right-click on a column header and select **Launch Interactive Analysis** or open a dashboard that you own to show the interactive filters.
 
 3.  Click the filter icon \(\[Omitted image "List\_FilterIcon.png"\] Alt text: filter icon\) to show the interactive filters.
 
@@ -37,12 +37,7 @@ You must have access to the list of records that you want to analyze.
 
 ## Result
 
-The filter is removed from the [[interactive-analysis|Interactive Analysis]].
+The filter is removed from the Interactive Analysis.
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[interactive-analysis|Interactive Analysis]]

@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up the OAuth Vault API REST message
 
-Configure the Data Security Vault API REST message with the correct endpoint URL and OAuth authentication profile. This setup enables secure communication between ServiceNow and the tokenizer service for [[card-data-security|Card Data Security]].
+Configure the Data Security Vault API REST message with the correct endpoint URL and OAuth authentication profile. This setup enables secure communication between ServiceNow and the tokenizer service for Card Data Security.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ This task requires an OAuth Provider created for Card Data Security. See [Set up
 
 The Data Security Vault API record is updated with the correct URL and OAuth profile.
 
-## Related
-
-- [[card-data-security|Card Data Security]]

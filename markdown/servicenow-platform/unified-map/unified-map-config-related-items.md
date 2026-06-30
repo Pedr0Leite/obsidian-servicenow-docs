@@ -14,7 +14,7 @@ breadcrumb: [Administer, Unified Map, Configuration Management Database \(CMDB\)
 
 # Configure how to display related items on the map
 
-Add related items categories, specify which information should appear on cards on the [[cmdb-workspace-unified-map|Unified Map]] **Related items** panel, and specify how related items \(events\) appear on the timeline and on badges. These are general settings that only sn\_cmdb\_admin can configure.
+Add related items categories, specify which information should appear on cards on the Unified Map **Related items** panel, and specify how related items \(events\) appear on the timeline and on badges. These are general settings that only sn\_cmdb\_admin can configure.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Name
 
 </td><td>
 
-The category [[label|label]] that appears on the **Related items** panel for a selected CI.
+The category label that appears on the **Related items** panel for a selected CI.
 
 </td></tr><tr><td>
 
@@ -80,11 +80,11 @@ Enables the appearance of the related item category.
 
 </td></tr><tr><td>
 
-[[reference|Reference]] field
+Reference field
 
 </td><td>
 
-Reference attribute in the specified **Table** that [[reference-document-management|references]] the CIs for the category. Typically set to **Configuration Item \[cmdb\_ci\]**.
+Reference attribute in the specified **Table** that references the CIs for the category. Typically set to **Configuration Item \[cmdb\_ci\]**.
 
 </td></tr></tbody>
 </table>3.  Select the Related fields and conditions tab and then fill in the settings.
@@ -155,9 +155,3 @@ Optional end date field to use for a range on the timeline.
 
 [Viewing related items on the Unified Map timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-timeline-working-on.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[label|Label]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

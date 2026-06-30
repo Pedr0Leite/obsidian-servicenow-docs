@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Configure Operational Resilience properties
 
-Configure main properties of the [[grc-opres-landing-page|Operational Resilience]] so that you can set up and fetch data into the application for reporting purposes.
+Configure main properties of the Operational Resilience so that you can set up and fetch data into the application for reporting purposes.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Configurations and customizations: When you update an application property, it's
 
 2.  Filter the properties for GRC: Operational Resilience application.
 
-    The properties for GRC: Operational Resilience application are displayed. For a list of the properties, see [[props-installed-with-or|Properties installed with Operational Resilience]].
+    The properties for GRC: Operational Resilience application are displayed. For a list of the properties, see [Properties installed with Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/props-installed-with-or.md).
 
 3.  Update the values of Dependency pillars in the **sn\_oper\_res.dependency\_pillars** property by adding the sys\_ids of the pillars to the **Value** field.
 
@@ -46,14 +46,10 @@ Configurations and customizations: When you update an application property, it's
 
 5.  Configure the **sn\_oper\_res.top\_class\_name** property to designate any class as the top class in the dashboard.
 
-    Starting with Operational Resilience Release 21.0.x, this property is updated so that any node, such as business service, business process, or application service, can be the top node. This property is applicable only for the dashboards and not for the Workspace forms. For information on configuring the property, see [[flexible-data-model-changes|Using the flexible data model]].
+    Starting with Operational Resilience Release 21.0.x, this property is updated so that any node, such as business service, business process, or application service, can be the top node. This property is applicable only for the dashboards and not for the Workspace forms. For information on configuring the property, see [Using the flexible data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/flexible-data-model-changes.md).
 
 6.  Select **Update**.
 
     The updated properties are saved.
 
-## Related
 
-- [[props-installed-with-or|Properties installed with Operational Resilience]]
-- [[flexible-data-model-changes|Using the flexible data model]]
-- [[grc-opres-landing-page|Operational Resilience]]

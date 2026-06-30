@@ -12,7 +12,7 @@ breadcrumb: [Configure case management, Case management, Organize agent workspac
 
 # Configure a Case form view
 
-The [[r_CustomerServiceCaseForm|Case form]] contains detailed information about a customer issue or problem. Configure a Case form view to display the desired fields and related [[migration-lists|lists]].
+The Case form contains detailed information about a customer issue or problem. Configure a Case form view to display the desired fields and related lists.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: admin
 
     For more information about adding fields to a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
-    **Note:** If you are using Customer Service Install Base Management and [[proactive-service-operations|Proactive Customer Service Operations]], add the **Sold Product** field.
+    **Note:** If you are using Customer Service Install Base Management and Proactive Customer Service Operations, add the **Sold Product** field.
 
 3.  Configure the form layout to add the related lists you require.
 
     For more information about adding a related list to a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
-    **Note:** If you are using Customer Service Install Base Management and Proactive Customer Service Operations, add the **Affected [[install-base-item|Install Base Items]]** related list.
+    **Note:** If you are using Customer Service Install Base Management and Proactive Customer Service Operations, add the **Affected Install Base Items** related list.
 
 4.  Click **Submit**.
 
@@ -42,9 +42,3 @@ Role required: admin
 
 [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[install-base-item|Install base items]]

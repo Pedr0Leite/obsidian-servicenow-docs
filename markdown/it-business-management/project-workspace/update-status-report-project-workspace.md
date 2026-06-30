@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Update status report in Project Workspace
 
-Modify a status report in [[project-workspace-landing-page|Project Workspace]] for your project to update project health, metrics, risks, issues, and milestones.
+Modify a status report in Project Workspace for your project to update project health, metrics, risks, issues, and milestones.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 By default, the status report is read-only and the **sn\_pw.status\_report\_doc\_read\_only** system property is set to true. To edit the status report, you can disable this system property by setting it to false. Once you change the property to false, you can edit or update the report. You can also navigate to the Details page and set **Allow edit status report** field to true.
 
-Any updates made on the [[status-report-form-project-management|status report form]] are reflected in the status report, regardless of whether the property is set to true or false.
+Any updates made on the status report form are reflected in the status report, regardless of whether the property is set to true or false.
 
 ## Procedure
 
@@ -60,7 +60,3 @@ Any updates made on the [[status-report-form-project-management|status report fo
 
 [Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[status-report-form-project-management|Status report form]]

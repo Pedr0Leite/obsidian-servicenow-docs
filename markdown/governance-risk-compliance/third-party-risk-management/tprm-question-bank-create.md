@@ -22,7 +22,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 ## Procedure
 
-1.  Define an assessment category by navigating to **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **Question Bank**, and then select **New**.
+1.  Define an assessment category by navigating to **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **Question Bank**, and then select **New**.
 
 2.  Enter a descriptive name and description for the assessment category and then select **Save**.
 
@@ -60,6 +60,4 @@ The question has been added to the question bank.
 </td></tr></tbody>
 </table>5.  Select **Update** to save the questions to the question bank in the current assessment category.
 
-## Related
 
-- [[Administration|Administration]]

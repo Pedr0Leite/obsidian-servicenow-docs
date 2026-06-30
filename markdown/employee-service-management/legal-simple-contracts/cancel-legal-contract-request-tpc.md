@@ -37,12 +37,9 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Result
 
--   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **[[activity-lxp|Activity]]** tab of the request.
+-   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **Activity** tab of the request.
 -   The document status changes to Contract Voided.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the legal request has been canceled.
 
 **Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-third-party-contract.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

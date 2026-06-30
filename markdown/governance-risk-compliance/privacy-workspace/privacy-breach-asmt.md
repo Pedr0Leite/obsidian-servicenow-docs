@@ -22,12 +22,9 @@ In the event of a breach, any specific criteria, for example, a server being com
 
 ## Workflow of a privacy breach assessment
 
-While a breach assessment can be initiated from the [[employee-center|Employee Center]], it can also be initiated from an application. The following image illustrates the breach assessment workflow using the example of a security incident.
+While a breach assessment can be initiated from the Employee Center, it can also be initiated from an application. The following image illustrates the breach assessment workflow using the example of a security incident.
 
 **Note:** This image uses security incident purely as an example for a better understanding of the workflow.
 
 \[Omitted image "breach-asmt-workflow.png"\] Alt text: Steps for the creation of privacy case for a business app security breach using breach assessment.
 
-## Related
-
-- [[employee-center|employee center]]

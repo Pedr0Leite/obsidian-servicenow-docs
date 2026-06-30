@@ -16,11 +16,11 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Set minimum and maximum password lengths to avoid compliance issues and reduce the risk of a successful brute force attack
 
-Password [[ca-policies|policies]] define the requirements for passwords your [[users|users]] create on your instance. The password length must fall within the range accepted by the NIST 800-63B document.
+Password policies define the requirements for passwords your users create on your instance. The password length must fall within the range accepted by the NIST 800-63B document.
 
 Ensure that a password policy is being enforced for each password credential store in use on your instance. Ensure that the password policy mandates a minimum password length of at least 15 characters and maximum password length of at least 64 characters.
 
-For each password credential store record in the [[c_SelfServicePasswordReset|Password Reset]] Credential Stores \[pwd\_cred\_store\] table:
+For each password credential store record in the Password Reset Credential Stores \[pwd\_cred\_store\] table:
 
 1.  Ensure that a password policy is being enforced for each password credential store in use on your instance:
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -136,9 +136,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]

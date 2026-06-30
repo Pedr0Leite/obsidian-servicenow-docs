@@ -12,7 +12,7 @@ breadcrumb: [Administer Customer Contracts and Entitlements, Administer, Custome
 
 # Add related lists to sold products and install base items
 
-Add Customer Contracts and Entitlements entities' related [[migration-lists|lists]] on the [[sold-product|sold products]] and [[install-base-item|install base Items]] pages.
+Add Customer Contracts and Entitlements entities' related lists on the sold products and install base Items pages.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 To see the contracts, contract line items, and entitlements associated with a sold product, or an Install base Item on the same page, you must add the respective related lists manually on the form.
 
-**Note:** You can only add the related lists on the platform interface. The same settings are implemented on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+**Note:** You can only add the related lists on the platform interface. The same settings are implemented on the CSM Configurable Workspace.
 
 ## Procedure
 
@@ -68,9 +68,4 @@ Procedure
 
     The related lists are added on the Sold Product or Install Base Item form.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

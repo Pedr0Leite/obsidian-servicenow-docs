@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro reference, Employee Center Pro, Unified Employe
 
 # Content Library Overview dashboard
 
-[[ecpro-content-automation-analytics|Content analytics]] displays data visualizations of performance metrics for content published to the portal or [[mobile-employee-experience|Now mobile app]] in the Content Library Overview dashboard.
+Content analytics displays data visualizations of performance metrics for content published to the portal or Now mobile app in the Content Library Overview dashboard.
 
 ## Dashboard overview
 
@@ -24,7 +24,7 @@ The Content Library Overview dashboard displays metrics for content published vi
 |-------------|-----------|
 |Open Content Tasks|Number of tasks by status \(such as open or closed complete\). Each bar in the chart links to a list of the tasks with that status.|
 |Recent Content Task Closures|Vertical bar chart that shows the number of tasks that were closed by time period. Each bar in the chart links to a list of tasks closed within that time frame|
-|Event [[activity-lxp|Activity]] Over Time|Total number of user interactions with content.|
+|Event Activity Over Time|Total number of user interactions with content.|
 |Events Over Time by Content|Number of user interactions with content, where each line represents a piece of content. Mouse over a line to see metrics specific to a piece of content.|
 |Events Over Time by Action|Number of user interactions with content, where each line represents a type of interaction. Mouse over a line to see metrics specific to a type of interaction.|
 |Top Content|Bar chart showing the most accessed content. Clicking a bar shows metrics for the specific content and action.|
@@ -72,7 +72,7 @@ Content Analytics tracks the following user interactions \(depending on content 
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -108,9 +108,3 @@ Content Analytics tracks the following user interactions \(depending on content 
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

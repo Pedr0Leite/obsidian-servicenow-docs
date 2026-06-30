@@ -14,7 +14,7 @@ breadcrumb: [Enhanced Requests Experience, Setup task management, Configuring Em
 
 # Opt in to the enhanced Enhanced Requests Experience
 
-Opt in to the [[my-requests-update-intro|Enhanced Requests Experience]], as an existing customer, to get the benefits of the updated features on both desktop and on the [[mobile-employee-experience|Now Mobile app]].
+Opt in to the Enhanced Requests Experience, as an existing customer, to get the benefits of the updated features on both desktop and on the Now Mobile app.
 
 ## About this task
 
@@ -26,7 +26,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Requests** &gt; **Set up enhanced request experience**.
+1.  Navigate to **Employee Center** &gt; **Requests** &gt; **Set up enhanced request experience**.
 
 2.  To opt for the Enhanced Requests Experience on your desktop, do the following:
 
@@ -51,8 +51,3 @@ Role required: sn\_hr\_sp.esc\_admin
 
 You have opted in to the Enhanced Requests Experience.
 
-## Related
-
-- [[my-requests-update-intro|Enhanced Requests Experience]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # View article optimization analysis
 
-Learn how to navigate to Article optimization in [[knowledge-center|Knowledge Center]].
+Learn how to navigate to Article optimization in Knowledge Center.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Article optimization safeguards content relevance and accuracy. Outdated or poor
 
 The selected gap is updated or resolved, improving knowledge coverage.
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]

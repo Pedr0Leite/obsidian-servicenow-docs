@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Sun Java Enterprise System \(JES\) discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of Sun Java Enterprise System \(JES\).
+Discovery creates or updates a CMDB record when it detects a running instance of Sun Java Enterprise System \(JES\).
 
 By default, Discovery uses the **Sun JES pattern** pattern to discover Sun Java Enterprise System.
 
@@ -33,6 +33,3 @@ The following data is collected in the JES `[cmdb_ci_email_server_jes]` table:
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

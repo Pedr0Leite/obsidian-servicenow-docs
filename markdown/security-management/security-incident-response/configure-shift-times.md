@@ -14,7 +14,7 @@ breadcrumb: [Configure Shift Handover, Configure, Security Incident Response Wor
 
 # Create shifts through Security Incident Response Workspace
 
-Create shifts through the [[sir-workspace-landing-page|Security Incident Response Workspace]] to use when configuring shift handover records.
+Create shifts through the Security Incident Response Workspace to use when configuring shift handover records.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The new shift is added on the Shift Time Configurations page.
 
 [Configure Shift Handover Templates]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

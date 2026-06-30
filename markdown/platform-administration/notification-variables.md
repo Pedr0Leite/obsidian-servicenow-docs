@@ -19,7 +19,7 @@ Use notification variables to display dynamic information in the body of a notif
 Specify a notification variable using this syntax:
 
 ```
-${variable-name+variable-[[r_DirectJDBCProbeParameters|parameters]]}
+${variable-name+variable-parameters}
 ```
 
 The **variable-name** portion is always required. Not all notification variables support the variable-parameters portion. When available, most variable parameters are optional. See the list of available notification variables for variable names and available parameters.
@@ -74,7 +74,7 @@ None
 Display a link to the current record.-   **URI**: The link text is the word `LINK`.
 -   **URI\_REF**: The link text is the display value of the record.
 
- **Note:** These variables don't apply to records in Workspace. To link to a record in Workspace, create a mail script that prints a URL to a notification. For more information, see [[c_EnablingLinksToServiceNowRecords|Linking to a record in Workspace]].
+ **Note:** These variables don't apply to records in Workspace. To link to a record in Workspace, create a mail script that prints a URL to a notification. For more information, see [Linking to a record in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md).
 
 </td><td>
 
@@ -83,7 +83,7 @@ Any valid **sysparm** URL parameter. For example:-   sysparm\_scriptlet
 
 </td></tr><tr><td>
 
--   $\{`[[reference-email-admin|reference]]-field`.URI\}
+-   $\{`reference-field`.URI\}
 -   $\{`reference-field`.URI\_REF\}
 
 </td><td>
@@ -150,7 +150,7 @@ $\{NOTIF\_PREFS\}
 
 </td><td>
 
-Display a link to [[set-notification-preferences|set notification preferences]].
+Display a link to set notification preferences.
 
 </td><td>
 
@@ -266,7 +266,7 @@ $\{notification:body\}
 
 Source: \[Omitted image "email-layout-go-to-instance-button.png"\] Alt text: How a variable for the email body works in an email layout.
 
- Output:\[Omitted image "email-preview-with-layout.png"\] Alt text: How the variable for the link to [[preferences-landing|notification preferences]] works.
+ Output:\[Omitted image "email-preview-with-layout.png"\] Alt text: How the variable for the link to notification preferences works.
 
 </td></tr><tr><td>
 
@@ -281,13 +281,5 @@ $\{NOTIF\_UNSUB\}
 $\{NOTIF\_PREFS\}
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+</table>**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
-- [[t_CreateANotification|Create an email notification]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[reference-email-admin|Reference]]
-- [[set-notification-preferences|Set notification preferences]]
-- [[preferences-landing|Notification Preferences]]

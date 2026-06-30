@@ -12,17 +12,17 @@ breadcrumb: [Reference, Dashboards, Platform Analytics experience, Platform Anal
 
 # Platform Analytics dashboard roles
 
-[[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards have few role restrictions. Editing rights are granted by sharing, independent of role.
+Platform Analytics dashboards have few role restrictions. Editing rights are granted by sharing, independent of role.
 
 Users with any role can create dashboards and share them with groups, users, and roles. These users can share a dashboard that has been shared with them if sharing rights were also granted. They can pass along editing rights if granted.
 
-The dashboard\_admin role allows a user to configure, edit, or delete any dashboards, regardless of ownership or editing rights. Certain configuration tasks also require dashboard\_admin, as described in [[configuring-dashboards|Configuring dashboards]].
+The dashboard\_admin role allows a user to configure, edit, or delete any dashboards, regardless of ownership or editing rights. Certain configuration tasks also require dashboard\_admin, as described in [Configuring dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-dashboards.md).
 
-Tasks that integrate dashboards with [[process-mining|Process Mining]] require the sn\_process\_optimization\_analyst role. These tasks are listed in [Configuring dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-dashboards.md).
+Tasks that integrate dashboards with Process Mining require the sn\_process\_optimization\_analyst role. These tasks are listed in [Configuring dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-dashboards.md).
 
 Users with the analytics\_categories\_admin role can create, edit, or delete dashboard categories.
 
-For a full guide to roles connected to Platform Analytics dashboards, see [[platform-analytics-roles|Platform Analytics roles]].
+For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 <table id="table_d1r_2vc_k2c"><thead><tr><th>
 
@@ -58,7 +58,7 @@ Edit a dashboard
 
 Any role, if you created the dashboard or have had it shared with you with editing rights.dashboard\_admin or higher for any dashboard
 
-[[technical-dashboards|Technical dashboards]] also require ui\_builder\_admin
+Technical dashboards also require ui\_builder\_admin
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Any role, if you created the dashboard.dashboard\_admin or higher for any dashbo
 
 </td></tr><tr><td>
 
-[[config-db-in-ac|Configure dashboard details]]
+[Configure dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md)
 
 </td><td>
 
@@ -126,7 +126,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[[configure-ac-db-settings|Configure dashboard settings]] except scheduled refreshes
+[Configure dashboard settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-ac-db-settings.md) except scheduled refreshes
 
 </td><td>
 
@@ -142,7 +142,7 @@ dashboard\_admin or higher
 
 </td></tr><tr><td>
 
-[[configure-ac-db-timeout|Configure dashboard tab cache timeout]]
+[Configure dashboard tab cache timeout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-ac-db-timeout.md)
 
 </td><td>
 
@@ -150,7 +150,7 @@ admin
 
 </td></tr><tr><td>
 
-[[db-categories|Create dashboard categories]]
+[Create dashboard categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/db-categories.md)
 
 </td><td>
 
@@ -165,17 +165,5 @@ analytics\_categories\_admin or higher
 Any role, if you can edit the dashboard.analytics\_categories\_admin or higher to assign a category to any dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[dashboard-reference-page|Dashboard reference]]
+</table>**Parent Topic:**[Dashboard reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-reference-page.md)
 
-## Related
-
-- [[configuring-dashboards|Configuring dashboards]]
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[configure-ac-db-settings|Configure Platform Analytics dashboard settings]]
-- [[configure-ac-db-timeout|Configure Platform Analytics dashboard tab cache timeout]]
-- [[db-categories|Platform Analytics experience dashboard categories]]
-- [[dashboard-reference-page|Dashboard reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[process-mining|Process Mining]]
-- [[technical-dashboards|Technical dashboards]]

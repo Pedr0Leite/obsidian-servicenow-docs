@@ -14,23 +14,14 @@ breadcrumb: [OT Manager Foundation, Operational Technology]
 
 Configure the features and agentic workflows available for the Operational Technology \(OT\) Manager Foundation.
 
--   **[[supporting-information-for-now-assist-otm|Supporting information for OT Manager Foundation]]**  
+-   **[Supporting information for OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/supporting-information-for-now-assist-otm.md)**  
 Get a quick overview of the important information that is related to the Operational Technology \(OT\) Manager Foundation.
--   **[[activate-ot-cmdb-search|Activate the OT CMDB Search feature]]**  
-If you have the admin role, you can configure the Operational Technology \(OT\) Manager Foundation so that teams can use the OT Configuration Management Database \(CMDB\) search feature in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
--   **[[activate-agentic-workflow-now-assist-for-otm|Activate the Import OT device spreadsheet into OT CMDB agentic workflow]]**  
+-   **[Activate the OT CMDB Search feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/activate-ot-cmdb-search.md)**  
+If you have the admin role, you can configure the Operational Technology \(OT\) Manager Foundation so that teams can use the OT Configuration Management Database \(CMDB\) search feature in the Industrial Workspace.
+-   **[Activate the Import OT device spreadsheet into OT CMDB agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/activate-agentic-workflow-now-assist-for-otm.md)**  
 You must activate the agentic workflow from the AI Agent Studio. The Operational Technology \(OT\) Manager Foundation agent included with the application and used in the agentic workflows are activated by default.
--   **[[edit-trigger-words-for-ot-cmdb-search|Edit trigger words for OT CMDB search]]**  
-Edit the trigger words used in the [[operational-technology-overview|Operational Technology]] \(OT\) Configuration Management Database \(CMDB\) search feature to optimize search results specific to OT.
+-   **[Edit trigger words for OT CMDB search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/edit-trigger-words-for-ot-cmdb-search.md)**  
+Edit the trigger words used in the Operational Technology \(OT\) Configuration Management Database \(CMDB\) search feature to optimize search results specific to OT.
 
-**Parent Topic:**[[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
+**Parent Topic:**[Operational Technology \(OT\) Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-landing.md)
 
-## Related
-
-- [[supporting-information-for-now-assist-otm|Supporting information for OT Manager Foundation]]
-- [[activate-ot-cmdb-search|Activate the OT CMDB Search feature]]
-- [[activate-agentic-workflow-now-assist-for-otm|Activate the Import OT device spreadsheet into OT CMDB agentic workflow]]
-- [[edit-trigger-words-for-ot-cmdb-search|Edit trigger words for OT CMDB search]]
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

@@ -14,7 +14,7 @@ breadcrumb: [Setup continuous improvement, Configuring Employee Center Pro, Empl
 
 # Content Analytics
 
-Monitor and measure the impact of the content you provide through the [[employee-center-landing-page|Employee Center]] and in campaigns using Content Analytics.
+Monitor and measure the impact of the content you provide through the Employee Center and in campaigns using Content Analytics.
 
 Content Analytics collects data and generates visualizations on employee engagement with content in the Employee Center. Content Analytics is powered by the [Platform Analytics framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md).
 
@@ -30,7 +30,7 @@ Dashboards display data visualizations in widgets. Each widget displays data for
 |[Content Analytics - Basics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-analytics-dashboards.md)|Portal page visits and views, including visits per day and most-frequently viewed pages.|
 |[Campaign Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md)|Campaign engagement metrics, to-dos, and impact, filtered by campaign or campaign success goal.|
 |[Campaign Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md)|Campaign performance metrics by campaign, including tasks closed and user actions.|
-|[Content Library Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-library-overview-dashboard.md)|Performance metrics for content published to the portal or [[mobile-employee-experience|Now mobile app]].|
+|[Content Library Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-library-overview-dashboard.md)|Performance metrics for content published to the portal or Now mobile app.|
 |[Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-pro-content-engagement-dashboard.md)|Metrics on user engagement, such as content views, reaction icon clicks, comments, and replies to comments.|
 
 ## Setting up Content Analytics
@@ -49,7 +49,7 @@ Dashboards display data visualizations in widgets. Each widget displays data for
 
 ## Content Analytics audience calculation
 
-Audience calculation may now be turned off to accommodate complex [[ecpro-audience|audiences]] that could potentially hinder the performance of certain analytics processes.
+Audience calculation may now be turned off to accommodate complex audiences that could potentially hinder the performance of certain analytics processes.
 
 **Note:** When enabling audience calculation for analytics the audience size is computed for each content item. When disabling audience calculation for analytics, audience count will show zero in Analytics dashboards.
 
@@ -59,7 +59,7 @@ In system properties the name should be set to **sn\_cd.analytics.audience\_calc
 
 Tracking profiles define a bucket where you want to capture analytics. It can correspond to a portal, campaign, application, or any context you like.
 
-Two tracking profiles are included by default: Content Experiences and Content Publishing. You can use either one to collect data on content that is displayed with a default widget. If your portal is [[ec-content-publishing-schedule|publishing content]] to custom widgets, you must update a default tracking profile to collect data for those widgets or create tracking profile.
+Two tracking profiles are included by default: Content Experiences and Content Publishing. You can use either one to collect data on content that is displayed with a default widget. If your portal is publishing content to custom widgets, you must update a default tracking profile to collect data for those widgets or create tracking profile.
 
 ## Data collection and storage
 
@@ -83,9 +83,3 @@ This is an overview of the process by which Content Analytics collects and moves
     -   Page Statistic \[sn\_cda\_page\_stat\]
     -   Analytics Visit Statistic \[sn\_cda\_analytics\_visit\_stat\]
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ecpro-audience|Audiences]]
-- [[ec-content-publishing-schedule|Publishing content]]

@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  For example, go to **Lists** &gt; **Security Incidents** &gt; **Open incidents**.
 
@@ -40,7 +40,7 @@ Role required: sn\_si.analyst
 
         \[Omitted image "close-incident.png"\] Alt text: Close the security incident pop-up window: Reviewing active tasks.
 
-    -   Move to the next step to review the active [[tisc-playbooks-admin|playbooks]] for the analyst to review, which is an optional step. You can select the link to review the active playbook task and close them as required.
+    -   Move to the next step to review the active playbooks for the analyst to review, which is an optional step. You can select the link to review the active playbook task and close them as required.
 
         **Note:** Any active workflow\(s\), playbook activities, and flows will be automatically cancelled on closure of the security incident.
 
@@ -89,7 +89,3 @@ Role required: sn\_si.analyst
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[tisc-playbooks-admin|Playbooks]]

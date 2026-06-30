@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier contacts, Using Source-to-Pay Workspace, Use, Suppl
 
 # Elevate a contact to the primary contact role from the Source-to-Pay Workspace
 
-Elevate a contact to the primary contact role to enable them to access and manage all the contacts and tasks in the [[supplier-central|Supplier Collaboration Portal]].
+Elevate a contact to the primary contact role to enable them to access and manage all the contacts and tasks in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 **Note:**
 
--   Users with the sn\_slm.owner role can elevate access only for the contacts of the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can elevate access for any [[supplier|supplier]].
+-   Users with the sn\_slm.owner role can elevate access only for the contacts of the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can elevate access for any supplier.
 -   This functionality isn’t available in Xanadu December 2024 release.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick Actions**, select **Manage my suppliers**.
 
@@ -37,7 +37,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 5.  Select **Supplier contacts**.
 
-6.  Select the [[supplier-contact|supplier contact]].
+6.  Select the supplier contact.
 
 7.  On the Supplier contact details page, select **Elevate access**.\[Omitted image "elevate-access-supplier-contact.png"\] Alt text: Selected Elevate access button.
 
@@ -57,10 +57,3 @@ The Primary contact column is set to **true** for this contact on the Supplier c
 
 [Restrict the primary contact role for a contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/restrict-contact-ws.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]

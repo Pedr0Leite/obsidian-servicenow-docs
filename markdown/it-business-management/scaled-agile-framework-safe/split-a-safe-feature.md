@@ -32,7 +32,7 @@ The completed stories of the original feature move to a new feature whose state 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top-left corner, select the level as **ART** and select your agile release train.
 
@@ -62,6 +62,3 @@ Schedule the feature that has incomplete stories to your backlog or a new PI of 
 
 **Parent Topic:**[Define a feature in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFefeature.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

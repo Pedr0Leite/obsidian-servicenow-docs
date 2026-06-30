@@ -28,11 +28,7 @@ You can do the following:
 -   Select **Create invoice case** to create an invoice case for the billing account. See [Create an invoice case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-create-invoice-case.md) for details.
 -   Select the Refresh icon to refresh the invoice list to reflect any newly added records or any changes made to the invoices.
 
-You can configure variables such as tables, display fields, and query conditions. See [[c360-configure-billing-card|Configure the billing card variables]] for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the billing card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-billing-card.md) for details.
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-configure-billing-card|Configure the billing card variables]]
-- [[c360-home-page|Telecommunications Customer 360 home page]]

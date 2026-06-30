@@ -14,7 +14,7 @@ breadcrumb: [Conversational SMS Integration with Twilio, Integrate VA with messa
 
 # Exploring Conversational SMS Integration with Twilio
 
-[[sms-twilio-store-app|Conversational SMS Integration with Twilio]] enables users to initiate conversations with [[virtual-agent-landing-page|Virtual Agent]] by messaging your Twilio phone number.
+Conversational SMS Integration with Twilio enables users to initiate conversations with Virtual Agent by messaging your Twilio phone number.
 
 **Note:** Do not use the same ServiceNowTwilioDirect or Twilio Notify phone number for Conversational SMS Integration with Twilio. Instead, use separate Twilio numbers for Conversational SMS Integration with Twilio and ServiceNowTwilioDirect.
 
@@ -22,7 +22,7 @@ breadcrumb: [Conversational SMS Integration with Twilio, Integrate VA with messa
 
 If a bot transfers the conversation to a live agent, the agent can respond to SMS messages in Agent Workspace.
 
-After you [[configure-twilio-adapter|set up the Conversational SMS Integration with Twilio]], you can create SMS conversation topics in Virtual Agent Designer. For more information about using the tool, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
+After you set up the Conversational SMS Integration with Twilio, you can create SMS conversation topics in Virtual Agent Designer. For more information about using the tool, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
 
 ## Capturing information from a user in an SMS chat conversation
 
@@ -167,8 +167,3 @@ To learn more about configuring and using , see:
 
 **Parent Topic:**[Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sms-twilio-store-app.md)
 
-## Related
-
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[configure-twilio-adapter|Set up the Conversational SMS Integration with Twilio]]

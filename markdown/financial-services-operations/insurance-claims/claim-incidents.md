@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Claim incidents
 
-You can create a Claim Incident \[sn\_ins\_claim\_property\] table that records the details of a particular claim in the [[insurance-claims-flow|Insurance claims]] application.
+You can create a Claim Incident \[sn\_ins\_claim\_property\] table that records the details of a particular claim in the Insurance claims application.
 
 The Insurance claims application includes four incident tables in the base system:
 
@@ -36,9 +36,5 @@ After creating the incident table, you can define the relationship of the table 
 
 [Components installed with Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/components-installed-with-insurance-claims-flow.md)
 
-[[insurance-claims-core-tables|Insurance Claims Core tables]]
+[Insurance Claims Core tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-tables.md)
 
-## Related
-
-- [[insurance-claims-core-tables|Insurance Claims Core tables]]
-- [[insurance-claims-flow|Insurance claims]]

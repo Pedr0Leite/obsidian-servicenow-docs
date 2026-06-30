@@ -12,9 +12,9 @@ breadcrumb: [Configure dynamic related records, Agent tools, Organize agent work
 
 # Dynamic related records
 
-Display related records in the Contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]] that dynamically change based on the context of the current record or playbook activity.
+Display related records in the Contextual side panel in CSM Configurable Workspace that dynamically change based on the context of the current record or playbook activity.
 
-The dynamic related records feature provides customer service agents with easy access to the information they need when they need it. Agents can view related records in the Contextual side panel without navigating away from the current tab and searching for information in other related [[migration-lists|lists]]. This feature also enables users to display related records without requiring any type of reference or parent-child relationship.
+The dynamic related records feature provides customer service agents with easy access to the information they need when they need it. Agents can view related records in the Contextual side panel without navigating away from the current tab and searching for information in other related lists. This feature also enables users to display related records without requiring any type of reference or parent-child relationship.
 
 Different types of agents can use dynamic related records to see different information. For example:
 
@@ -34,13 +34,13 @@ System administrators can configure the dynamic related records feature and defi
 -   Definitions for each specific type of related record to display, such as SLAs or contracts.
 -   Relationships between context records and their associated definition records.
 
-System administrators can also configure the related record card format. For more information, see [[dynamic-related-records-configure|Configuring dynamic related records]].
+System administrators can also configure the related record card format. For more information, see [Configuring dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/dynamic-related-records-configure.md).
 
 ## Using dynamic related records
 
 Agents can search the Related Records list by entering text in the search field or filter the list to display records of a specific type, such as SLAs or active customer contracts. Agents can expand a card to show more a more detailed view or open the list in a sub-tab. If agents have create permission, they can also create new related records of the selected type.
 
-For more information about these agent actions, see [[using-dynamic-related-records|Using the Related Records tab in the contextual side panel]].
+For more information about these agent actions, see [Using the Related Records tab in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-dynamic-related-records.md).
 
 ## Dynamic related records plugin
 
@@ -48,7 +48,7 @@ The Dynamic Related Records for Configurable Workspace plugin \(com.snc.uib.sn\_
 
 Install any ServiceNow Store applications by requesting them from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-This plugin provide agents with access to related information based on the context of the current record or playbook activity. System administrators can [[configure-related-record-definitions|configure related record definitions]] that make data available in context to the action that the agent is performing.
+This plugin provide agents with access to related information based on the context of the current record or playbook activity. System administrators can configure related record definitions that make data available in context to the action that the agent is performing.
 
 This plugin adds the Dynamic Related Record menu and the following modules to the application navigator:
 
@@ -59,9 +59,9 @@ This plugin also adds several related record definitions. For more information, 
 
 ## Using dynamic related records with Playbooks for Customer Service Management
 
-The Playbooks for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(sn\_csm\_playbook\) adds the dynamic related records feature to CSM Configurable Workspace. It also includes the Case context record and several related record definitions.
+The Playbooks for Customer Service Management plugin \(sn\_csm\_playbook\) adds the dynamic related records feature to CSM Configurable Workspace. It also includes the Case context record and several related record definitions.
 
-The [[csm-case-type-onboarding|Case Playbook for Onboarding]], [[csm-playbook-complaint-overview|Case Playbook for Complaints]], and [[csm-playbook-product-support|Case Playbook for Product Support]] applications include additional context records and related record definitions.
+The Case Playbook for Onboarding, Case Playbook for Complaints, and Case Playbook for Product Support applications include additional context records and related record definitions.
 
 **Related topics**  
 
@@ -70,14 +70,3 @@ The [[csm-case-type-onboarding|Case Playbook for Onboarding]], [[csm-playbook-co
 
 [Using the Related Records tab in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-dynamic-related-records.md)
 
-## Related
-
-- [[dynamic-related-records-configure|Configure dynamic related records]]
-- [[using-dynamic-related-records|Using the Related Records tab in the contextual side panel]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[configure-related-record-definitions|Configure related record definitions]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-case-type-onboarding|Case Playbook for Onboarding]]
-- [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
-- [[csm-playbook-product-support|Case Playbook for Product Support]]

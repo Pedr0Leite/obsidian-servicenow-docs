@@ -14,7 +14,7 @@ breadcrumb: [Supplier contact self-registration, Using Supplier Collaboration Po
 
 # Self-register to the Supplier Collaboration Portal
 
-[[supplier|Supplier]] contacts can self-register themselves to the [[supplier-central|Supplier Collaboration Portal]] without the help of an administrator.
+Supplier contacts can self-register themselves to the Supplier Collaboration Portal without the help of an administrator.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The External user self-registration configuration must be enabled.
 
     First name, Last name, Email, and Supplier name are required fields.
 
-    **Note:** The **Supplier name** field has been added in the Xanadu December 2024 upgrade. This field is available only after **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Note:** The **Supplier name** field has been added in the Xanadu December 2024 upgrade. This field is available only after **M2M mapping between supplier contact and suppliers** is enabled.
 
 4.  Select the option to agree to the privacy policy and terms and conditions.
 
@@ -68,8 +68,3 @@ Your self-registration is complete. You can now log in to the Supplier Collabora
 
 [Supplier contact self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-contact-self-reg.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]

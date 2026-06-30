@@ -14,9 +14,9 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Create a Universal Request from the Supplier Collaboration Portal
 
-[[create-universal-request-spo|Create a Universal Request]] to raise issues that do not fit into predefined case types or involve multiple departments.
+Create a Universal Request to raise issues that do not fit into predefined case types or involve multiple departments.
 
-\[Omitted video\] Description: Creating a [[universal-request|Universal request]] from the [[supplier-central|Supplier Collaboration portal]].
+\[Omitted video\] Description: Creating a Universal request from the Supplier Collaboration portal.
 
 ## Before you begin
 
@@ -34,9 +34,9 @@ Role required: sn\_slm.contact
 
 4.  Select the **Request help** option.
 
-5.  In the [[ur-request-help-form|Request Help form]], fill in the request details.
+5.  In the Request Help form, fill in the request details.
 
-    The **[[supplier|Supplier]]** field is populated automatically and is not editable.
+    The **Supplier** field is populated automatically and is not editable.
 
 6.  If the request contains sensitive information, do the following:
 
@@ -64,7 +64,7 @@ A Universal Request is created based on the details provided in the Request Help
 
 [Raising requests from the Supplier Collaboration Portal]()
 
-[Viewing [[supplier-contact|supplier contact]] tasks from the Supplier Collaboration Portal]()
+[Viewing supplier contact tasks from the Supplier Collaboration Portal]()
 
 [View or update your user profile from the Supplier Collaboration Portal]()
 
@@ -84,11 +84,3 @@ A Universal Request is created based on the details provided in the Request Help
 
 [Create supplier case from Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-supplier-case.md)
 
-## Related
-
-- [[create-universal-request-spo|Create a Universal Request]]
-- [[universal-request|Universal Request]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[ur-request-help-form|Request Help form]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

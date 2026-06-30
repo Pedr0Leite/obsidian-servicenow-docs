@@ -14,7 +14,7 @@ breadcrumb: [Growth Experiences, HR Service Delivery, Employee Service Managemen
 
 # Learning
 
-Learning application enables you to [[discover-lxp|discover]], manage, and engage with career development content. It enables users to configure learning catalogs that contain course items from both internal and external learning systems.
+Learning application enables you to discover, manage, and engage with career development content. It enables users to configure learning catalogs that contain course items from both internal and external learning systems.
 
 Learning includes the following key features:
 
@@ -38,7 +38,7 @@ Learning includes the following key features:
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about user roles, tables, and default configurations in Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about user roles, tables, and default configurations in Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
 </td><td>
 
@@ -53,7 +53,3 @@ Learning includes the following key features:
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Intelligent Task Recommendations, Setting up a Field Serv
 
 # Providing a script for custom task recommendation criteria
 
-Guidelines for creating scripts in recommendation criteria for an [[fsm-task-recommendation|Intelligent Task Recommendation]] policy.
+Guidelines for creating scripts in recommendation criteria for an Intelligent Task Recommendation policy.
 
 ## Customization script return object
 
@@ -89,6 +89,3 @@ ruleResult = TaskRecommendationFSMUtil.parseRuleResult(ruleProcessResult, "Dista
 
 **Note:** Do not replace the task recommendation application keyword `ruleResult` in the script with any other words. Otherwise, the application will not be able to process the rule execution result.
 
-## Related
-
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]

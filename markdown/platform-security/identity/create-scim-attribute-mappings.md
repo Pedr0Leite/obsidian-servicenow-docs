@@ -37,9 +37,9 @@ The following are the attribute mapping types and their descriptions.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[scim-client-app|SCIM Client]]** &gt; **[[scim-provider|SCIM Provider]] Resource Mapping**.
+1.  Navigate to **All** &gt; **SCIM Client** &gt; **SCIM Provider Resource Mapping**.
 
-2.  Selected the SCIM Resource Mapping that is created for the [[sc-configuration|configuration]].
+2.  Selected the SCIM Resource Mapping that is created for the configuration.
 
 3.  In the  SCIM Attribute Mappings  related list, click  **New**.
 
@@ -109,7 +109,7 @@ Multi-Value
 
 </td><td>
 
-Multiple values that are assigned to the attribute. An attribute can have multiple values like work [[email|email]], home email, or another email.
+Multiple values that are assigned to the attribute. An attribute can have multiple values like work email, home email, or another email.
 
  For example, **emails**.
 
@@ -194,9 +194,4 @@ Script that is used to fetch the attribute value.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[scim-client-app|SCIM Client]]
-- [[scim-provider|SCIM Provider]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]

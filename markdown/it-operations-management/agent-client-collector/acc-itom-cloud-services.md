@@ -16,7 +16,7 @@ breadcrumb: [Configuring MID-less ACC, ACC deployment - endpoints, Configuring A
 
 Installing MID-less Agent Client Collector enables you to send data from the agent to the instance through the cloud. Sending information through the cloud allows the MID Server to be used for more persistent resources.
 
-Before using MID-less [[acc-landing-page|Agent Client Collector]], do the following:
+Before using MID-less Agent Client Collector, do the following:
 
 1.  Ensure that your ServiceNow instance has migrated from an F5 load balancer to Application Delivery Controller, version 2 \(ADCv2\) and has mTLS support.
     1.  Enter the following command in your terminal: `curl -v https://<instance>.service-now.com/stats.do 2>&1 | grep "< Server"`.
@@ -30,7 +30,7 @@ Before using MID-less [[acc-landing-page|Agent Client Collector]], do the follow
 
     If you’re using Agent Client Collector for Visibility - Content, install the Agent Client Collector for Visibility - Content \(sn\_acc\_vis\_content\) plugin.
 
-3.  [[agent-registration-key-configuration|Configure an agent registration key]] on the instance. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
+3.  Configure an agent registration key on the instance. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
 
     If registration fails between the agent and the instance, the registration key is cleared from the `acc.yml` configuration file.
 
@@ -48,7 +48,3 @@ Install MID-less Agent Client Collector on a macOS machine to enable sending dat
 
 **Parent Topic:**[Configuring MID-less Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configuring-without-mid.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[agent-registration-key-configuration|Configure an agent registration key]]

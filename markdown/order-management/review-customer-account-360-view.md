@@ -124,8 +124,8 @@ State
 
 </td><td>
 
-State of the product or service order. To learn more, see these two topics:-   [[order-mgt-state-values|Customer order states]]
--   [[service-order-mgt-state-values|Service order states]].
+State of the product or service order. To learn more, see these two topics:-   [Customer order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md)
+-   [Service order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/service-order-mgt-state-values.md).
 
 
 </td></tr></tbody>
@@ -273,19 +273,12 @@ Name of the customer contact that is associated with the order. To view the deta
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[reviewing-customer-accounts|Reviewing customer or partner accounts]]
+**Parent Topic:**[Reviewing customer or partner accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reviewing-customer-accounts.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-state-values|Customer order states]]
-- [[service-order-mgt-state-values|Service order states]]
-- [[reviewing-customer-accounts|Reviewing customer or partner accounts]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

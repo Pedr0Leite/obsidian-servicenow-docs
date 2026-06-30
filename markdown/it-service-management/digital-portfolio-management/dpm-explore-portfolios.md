@@ -14,7 +14,7 @@ breadcrumb: [Digital Portfolio Management, IT Service Management]
 
 # Work with portfolios in Digital Portfolio Management
 
-You can create and organize [[dpm-personal-portfolio|personal portfolios]] to see several solutions in one place. Administrators create [[dpm-enterprise-portfolios|enterprise portfolios]]. The service-type enterprise portfolios are created [[SPM2-using|using Service Portfolio Management]] tables. Business application and service instance portfolios are created using enterprise portfolio tables. You can also see [[dpm-list-modules-concept|list modules]] of services and [[dex-workspace-application-tab|applications]] that aren’t in a portfolio by using list modules.
+You can create and organize personal portfolios to see several solutions in one place. Administrators create enterprise portfolios. The service-type enterprise portfolios are created using Service Portfolio Management tables. Business application and service instance portfolios are created using enterprise portfolio tables. You can also see list modules of services and applications that aren’t in a portfolio by using list modules.
 
 -   **[Personal portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-personal-portfolio.md)**  
 Personal portfolios contain data from services, offerings, business applications, and service instances into one space for you to view and report on. You can see how each item is progressing according to the assigned roadmap and evaluate its performance based on key performance indicators \(KPIs\) that interest you.
@@ -23,10 +23,3 @@ Admins create enterprise portfolios for business applications and service instan
 
 **Parent Topic:**[Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-landing.md)
 
-## Related
-
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[SPM2-using|Using Service Portfolio Management]]
-- [[dpm-list-modules-concept|List modules]]
-- [[dex-workspace-application-tab|Applications]]

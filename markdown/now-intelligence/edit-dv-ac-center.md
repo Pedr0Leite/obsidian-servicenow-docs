@@ -21,7 +21,7 @@ Role required: You can edit any data visualization you own unless it is a shared
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select the visualization that you want to edit.
 
@@ -30,16 +30,10 @@ Role required: You can edit any data visualization you own unless it is a shared
 4.  Select the information icon \(\[Omitted image "icon-info-ac.png"\] Alt text: Info icon\) to edit name, description, certification, and requester information.
 
 
--   **[[data-visualization-details|Data visualization details]]**  
+-   **[Data visualization details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-details.md)**  
 The Details pane gives you an overview of key information about the data visualization that you are currently editing.
--   **[[certify-dv-ac|Certify a data visualization in the Visualization Designer]]**  
+-   **[Certify a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/certify-dv-ac.md)**  
 Certify a data visualization to indicate that it is company-approved for reuse.
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[data-visualization-details|Data visualization details]]
-- [[certify-dv-ac|Certify a data visualization in the Visualization Designer]]
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

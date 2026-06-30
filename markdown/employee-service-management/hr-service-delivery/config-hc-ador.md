@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Advanced Integration with Oracle HCM, Integrati
 
 # Configure holiday calendars in HR Service Delivery Advanced Integration with Oracle HCM
 
-Pull [[holiday-calendar-awd|holiday calendars]] from the Oracle HCM system into a ServiceNow application. Display applicable holiday calendars to employees in the configured Service Portal.
+Pull holiday calendars from the Oracle HCM system into a ServiceNow application. Display applicable holiday calendars to employees in the configured Service Portal.
 
 ## Before you begin
 
@@ -39,9 +39,5 @@ Role required: sn\_hr\_oracle\_adv.admin
 
 ## What to do next
 
-An employee can add the View Holiday Calendar widget to any ServiceNow page. An employee will not be able to view this widget if the Person ID \(Correlation\_ID\) is missing in the [[c_HRProfileRecords|HR profile]] \[sn\_hr\_core\_profile\] table.
+An employee can add the View Holiday Calendar widget to any ServiceNow page. An employee will not be able to view this widget if the Person ID \(Correlation\_ID\) is missing in the HR profile \[sn\_hr\_core\_profile\] table.
 
-## Related
-
-- [[holiday-calendar-awd|Holiday calendars]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supp
 
 # Use Now Assist for Supplier Lifecycle Operations \(SLO\)
 
-If you have the sn\_slm.fulfiller or sn\_slm.admin role, you can generate [[supplier|supplier]]-related case summaries to get a quick overview of the cases, completed actions, or pending tasks by using the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application.
+If you have the sn\_slm.fulfiller or sn\_slm.admin role, you can generate supplier-related case summaries to get a quick overview of the cases, completed actions, or pending tasks by using the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -34,7 +34,3 @@ For more information on how to use Now Assist for SLO in a Virtual Agent chat, s
 
 [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-configuring.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]

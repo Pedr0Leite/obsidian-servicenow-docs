@@ -14,7 +14,7 @@ breadcrumb: [SMS Code Verification type for Password Reset, Password Reset verif
 
 # Use Notify to send SMS codes for enrollment and verification
 
-You can configure the [[password-reset-landing-page|Password Reset]] application to send SMS codes for enrollment and verification using the ServiceNow [[notify-landing-page|Notify]] application \(via the Twilio SMS Messaging system\). Notify is tightly integrated with the workflow engine and business rules and delivers a highly configurable and trusted way to deliver SMS messages.
+You can configure the Password Reset application to send SMS codes for enrollment and verification using the ServiceNow Notify application \(via the Twilio SMS Messaging system\). Notify is tightly integrated with the workflow engine and business rules and delivers a highly configurable and trusted way to deliver SMS messages.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ No other configuration is required. Users who request password change or passwor
 
 [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[notify-landing-page|Notify]]

@@ -12,7 +12,7 @@ breadcrumb: [Recall campaign, MCO core, Explore, Manufacturing Commercial Operat
 
 # Recall campaign use case
 
-Use case scenarios demonstrate when and how to use the [[mco-rcl-clms|Recall Campaign]] application to create a recall campaign. It provides practical examples of common recall management situations.
+Use case scenarios demonstrate when and how to use the Recall Campaign application to create a recall campaign. It provides practical examples of common recall management situations.
 
 ## Use case: Multi-Region product recall
 
@@ -22,7 +22,7 @@ Alectri, an automotive OEM, identified a defect in airbags installed in 2024 veh
 
 -   Limited visibility into active campaigns and claims
 -   Coordinating tasks across departments causes bottlenecks
--   Tracking multiple [[mco-corrective-actions|corrective actions]] per recall is error-prone
+-   Tracking multiple corrective actions per recall is error-prone
 -   Cost estimation inconsistencies lead to claim delays and denials
 -   Broad, un-targeted campaigns create confusion and inefficiency
 -   Regional coordination adds complexity
@@ -40,7 +40,7 @@ Chloe, the Global Recall Manager at Alectri, uses Manufacturing Commercial Opera
 6.  Reviews and publishes phases after pre-launch validation by regional owners
 7.  Enables dealer access through the portal for campaign details and claim submission
 
-The [[mco-recall-management|Recall management]] provides real-time visibility into all campaigns, claims, and affected assets throughout the recall life-cycle.
+The [Recall management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-management.md) provides real-time visibility into all campaigns, claims, and affected assets throughout the recall life-cycle.
 
 Benefits
 
@@ -59,8 +59,3 @@ Outcome
 
 Alectri successfully launches a coordinated multi-region recall campaign for defective airbags across the AMS and EMEA regions. The phased approach with clear corrective actions, predefined costs, and targeted vehicle selection ensures efficient execution. Dealers have timely access to campaign information through the portal, enabling smooth claim submission and processing across the OEM-dealer ecosystem.
 
-## Related
-
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-corrective-actions|Corrective actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Geo map, Network visualization view, Use, Telecommunications Networ
 
 # Open site map from a network site form
 
-Open Network site map from a [[tni-network-site-form|network site form]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can understand the geographical location of the network site and information about the connections.
+Open Network site map from a network site form in the Telecommunications Network Inventory application. You can understand the geographical location of the network site and information about the connections.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\) and then go to **Network Sites** &gt; **All Sites**.
 
@@ -41,8 +41,3 @@ The Network site map page opens and displays your network site.
 
 **Parent Topic:**[Geo map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-site-map.md)
 
-## Related
-
-- [[tni-network-site-form|Network site form]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

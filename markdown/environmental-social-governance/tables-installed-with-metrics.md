@@ -290,7 +290,7 @@ Metric data process queue\(sn\_grc\_metric\_data\_process\_queue\)
 
 </td><td>
 
-Indicates the metric definitions that are in the queue for refreshing the data for calculated metric definitions or updating the entity hierarchical data for all the [[types-of-metric-definitions|types of metric definitions]].
+Indicates the metric definitions that are in the queue for refreshing the data for calculated metric definitions or updating the entity hierarchical data for all the types of metric definitions.
 
 </td></tr><tr><td>
 
@@ -367,14 +367,9 @@ The scheduled jobs installed with the GRC: Metrics application run automatically
 |Name|Description|Default value|
 |----|-----------|-------------|
 |sn\_grc\_metric.metric\_data\_task\_schedule|Specifies schedule to be used for due date calculation|08fcd0830a0a0b2600079f56b1adb9ae|
-|sn\_grc\_metric.all\_words|Is used to replace all comma separated defined string in value to 'All' while importing metric data using [[metric-integration|Metric Integration]].|\(blank\), blank, na, all, empty, \(empty\)|
+|sn\_grc\_metric.all\_words|Is used to replace all comma separated defined string in value to 'All' while importing metric data using Metric Integration.|\(blank\), blank, na, all, empty, \(empty\)|
 |com.glide.event\_manager.grc\_metrics\_queue.even.load.distribution.enabled|Is used to distribute the events in the 'grc\_metric\_queue' queue equally between two worker threads.|500|
 |com.glide.event\_manager.grc\_metrics\_queue.claim\_limit|Defines the maximum number of events that one worker thread can claim from the event queue.|true|
 
-**Parent Topic:**[[grc-metrics-reference|GRC: Metrics reference]]
+**Parent Topic:**[GRC: Metrics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/grc-metrics-reference.md)
 
-## Related
-
-- [[grc-metrics-reference|grc metrics reference]]
-- [[types-of-metric-definitions|Types of metric definitions]]
-- [[metric-integration|Metric integration]]

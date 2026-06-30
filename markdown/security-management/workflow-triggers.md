@@ -14,12 +14,8 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 Security Operations workflow triggers contain a condition on a table. All workflows attached to the workflow trigger record run when the condition is met.
 
--   **[[create-workflow-triggers|Create Security Operations workflow triggers]]**  
+-   **[Create Security Operations workflow triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-workflow-triggers.md)**  
 Create a workflow trigger that contains a condition on a table.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
-## Related
-
-- [[create-workflow-triggers|Create Security Operations workflow triggers]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]

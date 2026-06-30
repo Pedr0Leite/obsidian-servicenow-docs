@@ -16,7 +16,7 @@ Create a touchpoint to log a customer interaction directly from an opportunity r
 
 ## Before you begin
 
--   The [[explore-crm-touchpoints|CRM Touchpoints]] plugin \(sn\_crm\_touchpoint\) must be installed.
+-   The CRM Touchpoints plugin \(sn\_crm\_touchpoint\) must be installed.
 -   The opportunity must be in a non-closed state. You can't create touchpoints for opportunities in a Closed-Won or Closed-Lost stage.
 
 Role required: sn\_crm\_touchpoint.admin or sn\_crm\_touchpoint.touchpoint\_writer
@@ -35,7 +35,7 @@ Touchpoints are interaction records that you associate with a specific opportuni
 
     **Note:** The **Create** button and the Touchpoint option are only visible when you have permission to create CRM Touchpoints. The button is hidden when the opportunity is in a closed state.
 
-4.  In the touchpoint form, complete the required [[fields|fields]].
+4.  In the touchpoint form, complete the required fields.
 
     The following fields are automatically set and can't be edited:
 
@@ -43,7 +43,7 @@ Touchpoints are interaction records that you associate with a specific opportuni
     -   **Associated record**: set to the opportunity number
     -   **Category**: set to Sales
     -   **Owner**: set to the user creating the touchpoint
-    If the opportunity is account-based, the system also [[cpq-sets|sets]] **Account** from the opportunity. The **Contact** field is pre-populated from the opportunity contact if one exists, and remains editable.
+    If the opportunity is account-based, the system also sets **Account** from the opportunity. The **Contact** field is pre-populated from the opportunity contact if one exists, and remains editable.
 
 5.  Select **Save**.
 
@@ -56,11 +56,5 @@ The touchpoint is created and linked to the opportunity. It appears in the **Tou
 
 To view all touchpoints for the opportunity, select the **Touchpoints** tab.
 
-**Parent Topic:**[[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]
+**Parent Topic:**[Manage touchpoints on an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-opportunity.md)
 
-## Related
-
-- [[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

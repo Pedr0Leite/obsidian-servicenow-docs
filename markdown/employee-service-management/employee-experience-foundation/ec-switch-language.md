@@ -33,7 +33,7 @@ For more information on the properties, see [Properties installed with Content P
 
 ## Translating content in the Content Library
 
-After you are done creating content, you can initiate the translation workflow to request translation for your portal, block \(re-usable components\), notification, or [[ec-to-do-content|to-do content]].
+After you are done creating content, you can initiate the translation workflow to request translation for your portal, block \(re-usable components\), notification, or to-do content.
 
 **Note:** At this time, translation is not available for the Calendar content type.
 
@@ -74,7 +74,7 @@ The Switch language window displays available languages, each appended by one of
 
 ## Content versioning and translation
 
-When [[ec-content-versioning|content versioning]] is enabled, the **Switch Language** button appears only for the first draft version and published content.
+When content versioning is enabled, the **Switch Language** button appears only for the first draft version and published content.
 
 Customers who create content in a non-English language should use of the the following workarounds:
 
@@ -83,7 +83,3 @@ Customers who create content in a non-English language should use of the the fol
 
 For more information, see [Content versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-versioning.md).
 
-## Related
-
-- [[ec-to-do-content|To-do content]]
-- [[ec-content-versioning|Content versioning]]

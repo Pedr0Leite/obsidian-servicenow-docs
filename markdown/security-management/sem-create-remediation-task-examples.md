@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Examples for remediation task creation in the Security Exposure Management Workspace
 
-When you create remediation tasks manually in the [[sem-workspace-user-interface|Security Exposure Management Workspace]], records are grouped into a remediation task based on the grouping criteria you select.
+When you create remediation tasks manually in the Security Exposure Management Workspace, records are grouped into a remediation task based on the grouping criteria you select.
 
 Consider the following example where 10 records are selected for remediation task creation. After providing the record selection details and a brief description, select the **Grouping criteria** according to your requirement and then select how you want to manage the records that are already part of existing remediation tasks.
 
@@ -35,7 +35,7 @@ The following list shows how the records are grouped into remediation tasks base
 
 -   **Scenario1: Grouping criteria is selected as “Assignment group” and Managing records in other remediation tasks is selected as “Skip records for the new remediation tasks”**
 
-    The records with the same assignment group are grouped into one remediation task. The records that are already part of existing remediation tasks are not added to the new remediation tasks. Here, three remediation tasks are created, each containing the records that are assigned to the **Remediation Manager**, **LDAP Admins**, and **[[vuln-landing-page|Vulnerability Response]]** assignment groups.
+    The records with the same assignment group are grouped into one remediation task. The records that are already part of existing remediation tasks are not added to the new remediation tasks. Here, three remediation tasks are created, each containing the records that are assigned to the **Remediation Manager**, **LDAP Admins**, and **Vulnerability Response** assignment groups.
 
 <table id="table_mbl_z4h_ydc"><thead><tr><th>
 
@@ -266,16 +266,10 @@ This remediation task contains the records that are assigned to **LDAP Admins** 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
 **Related topics**  
 
 
-[[sem-create-remediation-task|Create a remediation task manually in the Security Exposure Management Workspace]]
+[Create a remediation task manually in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-remediation-task.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[sem-create-remediation-task|Create a remediation task manually in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

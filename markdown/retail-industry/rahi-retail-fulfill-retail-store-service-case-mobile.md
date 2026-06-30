@@ -20,7 +20,7 @@ Role required: Store associate or Store manager
 
 ## Procedure
 
-1.  On the [[rahi-retail-operations-overview|Retail]] mobile app, select **My Store** &gt; **All cases** from the menu bar.
+1.  On the Retail mobile app, select **My Store** &gt; **All cases** from the menu bar.
 
 2.  Select the case.
 
@@ -33,9 +33,5 @@ Role required: Store associate or Store manager
 5.  Select **Reject** to reopen the case.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-operations-overview|Retail]]

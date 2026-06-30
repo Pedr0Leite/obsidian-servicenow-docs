@@ -14,7 +14,7 @@ breadcrumb: [License upgrade and downgrade with the legacy Software Asset Manage
 
 # Upgrade a license using the legacy Software Asset Management plugin
 
-Use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to upgrade a software license through one of two methods: through a software license record or through a software model record.
+Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to upgrade a software license through one of two methods: through a software license record or through a software model record.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Role required: sam
 
 2.  Complete the following steps to identify an upgrade parent from a software model record.
 
-    1.  Navigate to **Software Asset** &gt; **[[c_CreatingSoftwareModels|Software Models]]**.
+    1.  Navigate to **Software Asset** &gt; **Software Models**.
 
     2.  Select a model.
 
@@ -63,7 +63,3 @@ Role required: sam
 
 **Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UpgradingAndDowngradingLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

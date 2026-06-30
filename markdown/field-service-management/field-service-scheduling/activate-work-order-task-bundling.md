@@ -14,7 +14,7 @@ breadcrumb: [Task Bundling, Additional scheduling configuration options, Setting
 
 # Activate Field Service Task Bundling
 
-Activate the Task Bundling plugin \(com.snc.fsm\_task\_bundle\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role.
+Activate the Task Bundling plugin \(com.snc.fsm\_task\_bundle\) for Field Service Management if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_admin
 
 ## About this task
 
-The ability to bundle work order tasks in [[dispatcher-activities|Dispatcher Workspace]] is installed with Field Service Task Bundling.
+The ability to bundle work order tasks in Dispatcher Workspace is installed with Field Service Task Bundling.
 
 ## Procedure
 
@@ -38,7 +38,4 @@ The ability to bundle work order tasks in [[dispatcher-activities|Dispatcher Wor
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

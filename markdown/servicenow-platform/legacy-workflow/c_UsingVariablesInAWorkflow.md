@@ -69,7 +69,7 @@ Workflow variables can be declared externally in a script and passed into a main
 
 **Note:** There is a specific kind of input variable for any workflow that is declared against the table Requested Item \[sc\_request\_item\]. To understand the use of these variables, see [Workflow catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowCatalogVariables.md).
 
-Workflow variables are declared in a form available from the [[workflow-editor|Workflow Editor]] gear menu.
+Workflow variables are declared in a form available from the Workflow Editor gear menu.
 
 ### Procedure
 
@@ -77,7 +77,7 @@ Workflow variables are declared in a form available from the [[workflow-editor|W
 
 2.  Edit and check out a workflow.
 
-3.  Select the [[c_WorkflowActivities|Workflow Activities]] menu and select **Edit Inputs**.
+3.  Select the Workflow Activities menu and select **Edit Inputs**.
 
 4.  Select an existing variable or select **New**.
 
@@ -175,7 +175,7 @@ var myValue = workflow.scratchpad.variableName;
 
 ## Current variables
 
-Current is the database GlideRecord that kicked off the workflow, either by association to the table in the [[r_WorkflowProperties|Workflow properties]] table or by being associated with a catalog item.
+Current is the database GlideRecord that kicked off the workflow, either by association to the table in the Workflow properties table or by being associated with a catalog item.
 
 ### Declaration
 
@@ -205,8 +205,3 @@ or
 current.variableName.setValue( "A Variable Value");
 ```
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[r_WorkflowProperties|Workflow properties]]

@@ -38,7 +38,7 @@ The following attributes in the Computer \[cmdb\_ci\_computer\] table are popula
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -141,6 +141,3 @@ The following attributes in the Windows Server \[cmdb\_ci\_win\_server\] table a
 |Windows Server \[cmdb\_ci\_win\_server\]|Reference|SG-Defender Machines Related \[sn\_defender\_integ\_sg\_defender\_machines\_related\]|
 |Windows Server \[cmdb\_ci\_win\_server\]|Reference|Software Installation \[cmdb\_sam\_sw\_install\]|
 
-## Related
-
-- [[ip-address|IP Address]]

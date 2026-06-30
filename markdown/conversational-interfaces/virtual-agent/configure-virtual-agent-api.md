@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent API, Build and deploy, Virtual Agent, Conversational 
 
 # Configuring Virtual Agent API
 
-Configure [[virtual-agent-api-landing-page|Virtual Agent API]] to connect ServiceNow [[virtual-agent-landing-page|Virtual Agent]] and Live Agent with any conversational interface.
+Configure Virtual Agent API to connect ServiceNow Virtual Agent and Live Agent with any conversational interface.
 
 Review these sections to configure Virtual Agent API.
 
@@ -25,19 +25,13 @@ Review these sections to configure Virtual Agent API.
 4.  [Test your Virtual Agent API configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-api-test.md).
 
 -   **[Install Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-virtual-agent-api.md)**  
-Install the Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or [[ci-use-agent-chat|Agent Chat]].
+Install the Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or Agent Chat.
 -   **[Review the inbound REST endpoint and configure inbound authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-send-request.md)**  
 After you install the Virtual Agent API, navigate to the Scripted REST API resource to review the endpoint and set up authentication.
 -   **[Configure output response REST endpoint and outbound authentication for the Virtual Agent API \(v4.1 or above\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-response-endpoint-auth-va-api.md)**  
 Specify the outbound endpoint URL to which the Virtual Agent responses are posted. Configure outbound authentication.
 -   **[Test your Virtual Agent API configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-api-test.md)**  
-[[va-api-test|Test your Virtual Agent API configuration]] using API testing tool.
+Test your Virtual Agent API configuration using API testing tool.
 
 **Parent Topic:**[Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-landing-page.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[va-api-test|Test your Virtual Agent API configuration]]

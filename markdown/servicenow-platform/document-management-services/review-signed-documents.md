@@ -24,7 +24,7 @@ Role required: none
 
 1.  Navigate to your Document Tasks through either the Employee Center or through My Document Tasks.
 
-    -   To navigate through the Employee Center, navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Employee Center**.
+    -   To navigate through the Employee Center, navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
     -   To navigate through My Document Tasks, navigate to**Self-Service** &gt; **My Document Tasks**.
 2.  Select the document template task assigned to you and review the document.
 
@@ -35,6 +35,3 @@ Role required: none
 
 **Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/digital-signature.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]

@@ -14,7 +14,7 @@ breadcrumb: [Attribute pack for CI records, Use, Telecommunications Network Inve
 
 # Use an attribute pack in the CI record
 
-Use an attribute pack to capture the attributes that you define for a configuration item \(CI\) record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Use an attribute pack to capture the attributes that you define for a configuration item \(CI\) record in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then open a new inventory class.
 
@@ -35,7 +35,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 ## Result
 
-The attribute [[pack_tables|pack tables]] are added on the **Packs** tab.
+The attribute pack tables are added on the **Packs** tab.
 
 ## What to do next
 
@@ -48,8 +48,3 @@ You can update the fields in the pack table that you’ve added. To learn more, 
 
 [Review and update a pack for a CI record]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[pack_tables|Pack tables]]

@@ -14,7 +14,7 @@ breadcrumb: [Create Matrix report configuration for Risk Workspace, Matrix repor
 
 # Matrix report configuration form
 
-Use the [[mat-report-config-form-audit-ws|Matrix report configuration form]] to configure the Matrix report in the [[risk-workspace|Risk Workspace]].
+Use the Matrix report configuration form to configure the Matrix report in the Risk Workspace.
 
 <table id="table_h1d_qy3_c2c"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Name
 
 </td><td>
 
-Title of the matrix displayed in the report. For example, `Entity [[tprm-risk-profile-what-is|Risk Profile]] Matrix`.
+Title of the matrix displayed in the report. For example, `Entity Risk Profile Matrix`.
 
 </td></tr><tr><td>
 
@@ -112,8 +112,3 @@ Relationship between the configured table and the base table.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create Matrix report configuration for Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-matrix-report-configuration-for-risk-workspace.md)
 
-## Related
-
-- [[mat-report-config-form-audit-ws|Matrix report configuration form]]
-- [[risk-workspace|risk workspace]]
-- [[tprm-risk-profile-what-is|Risk profile]]

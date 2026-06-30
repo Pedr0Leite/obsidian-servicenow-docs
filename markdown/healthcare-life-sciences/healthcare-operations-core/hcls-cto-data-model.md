@@ -16,12 +16,9 @@ breadcrumb: [Reference, Healthcare Operations Core, Healthcare Operations, Healt
 
 Learn about the Healthcare Operation Core application by viewing the data model and role relationship diagrams.
 
-These diagrams show the relationships between the tables within the application and provide an overall picture of how the [[hcls-cto-app|Healthcare Operations Core]] application operates.
+These diagrams show the relationships between the tables within the application and provide an overall picture of how the Healthcare Operations Core application operates.
 
 The following diagram shows the tables and their relationships within the Healthcare Operations Core application:
 
 \[Omitted image "hco-case-date-model.png"\] Alt text: Care Team Operations data model.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

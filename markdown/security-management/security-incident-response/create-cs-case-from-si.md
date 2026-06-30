@@ -14,7 +14,7 @@ breadcrumb: [Record creation from security incidents, Security incident creation
 
 # Create a Customer Service case from a security incident
 
-[[sir-landing-page|Security Incident Response]] ships with a default field [[mapping-logrhythm|mapping]] that maps a security incident to a Customer Service \(CS\) case. You can create a CS case from any security incident, edit the **Priority**, and also add **Optional notes**.
+Security Incident Response ships with a default field mapping that maps a security incident to a Customer Service \(CS\) case. You can create a CS case from any security incident, edit the **Priority**, and also add **Optional notes**.
 
 ## Before you begin
 
@@ -48,7 +48,3 @@ Role required: sn\_si.basic and sn\_customerservice\_agent
 
 [Customer service case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-management.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]

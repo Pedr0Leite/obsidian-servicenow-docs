@@ -14,7 +14,7 @@ breadcrumb: [Use, Individual Life Claims, Exploring insurance claims application
 
 # Use Agent assist to view associated claims
 
-View the associated claims and relevant knowledge articles by using the Agent assist contextual search. You can find related information on your [[individual-life-claims-landing-page|Individual Life Claims]] case to assist in understanding and completing your case.
+View the associated claims and relevant knowledge articles by using the Agent assist contextual search. You can find related information on your Individual Life Claims case to assist in understanding and completing your case.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ins\_claim\_indl.fnol\_representative, sn\_ins\_claim\_indl.m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -61,7 +61,4 @@ Steps
 
     For more information about Agent assist, see [Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md).
 
-## Related
 
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-overview|Financial Services]]

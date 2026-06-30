@@ -14,11 +14,11 @@ breadcrumb: [Omnichannel Callback, Manage people and work, Conversational Interf
 
 # Configuring Omnichannel Callback
 
-Configure the [[omnichannel-callback|Omnichannel Callback]] features and components that you need to support agents with callback requests.
+Configure the Omnichannel Callback features and components that you need to support agents with callback requests.
 
 ## Configuration overview
 
-Admins can enable the callback feature and configure one or more callback channels by navigating to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General** &gt; **Omnichannel Callback** and clicking **Manage**. The callback behavior per channel can be set by configuring the following callback parameters: Topic, Maximum callback attempts, and the callback timeout threshold. For more information on how to configure the callback behavior, see [Configure callback behavior for a channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/configure-callback-behavior.md).
+Admins can enable the callback feature and configure one or more callback channels by navigating to **Conversational Interfaces** &gt; **Settings** &gt; **General** &gt; **Omnichannel Callback** and clicking **Manage**. The callback behavior per channel can be set by configuring the following callback parameters: Topic, Maximum callback attempts, and the callback timeout threshold. For more information on how to configure the callback behavior, see [Configure callback behavior for a channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/configure-callback-behavior.md).
 
 The Omnichannel Callback app includes the default Callback-Phone and Callback-General topics. The Callback-Phone and Callback-General topics are triggered when agents are not available or the agent wait time is longer than the callback threshold time, which is the average of the most recent AWA queue time. You can customize the default callback topics as per your requirements. For more information on how to customize the callback topics, see [Customize a default callback topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/customize-callback-topic.md).
 
@@ -28,19 +28,14 @@ The Omnichannel Callback app includes the default Callback-Phone and Callback-Ge
 
 2.  [Install Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/install-omnichannel-callback.md)
 
-    You can [[install-omnichannel-callback|install Omnichannel Callback]] if you have the admin role.
+    You can install Omnichannel Callback if you have the admin role.
 
 3.  [Configure callback behavior for a channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/configure-callback-behavior.md)
 
-    [[configure-callback-behavior|Configure callback behavior for a channel]] using the callback parameters.
+    Configure callback behavior for a channel using the callback parameters.
 
 4.  [Customize a default callback topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/customize-callback-topic.md)
 
     Customize the default callback topic as per your requirements.
 
-## Related
 
-- [[omnichannel-callback|Omnichannel Callback]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[install-omnichannel-callback|Install Omnichannel Callback]]
-- [[configure-callback-behavior|Configure callback behavior for a channel]]

@@ -22,9 +22,9 @@ Role required: csm\_guided\_setup\_user or admin
 
 Install the Customer Service Install Base Management plugin \(com.snc.install\_base\) from the ServiceNow Store.
 
-Capture the install base for a customer by creating [[sold-product|sold products]], [[install-base-item|install base items]], and [[installed-products|installed products]]. This would enable the customer service agents to trace issues back to the relevant product, instances of that product, and other entities impacting their functioning.
+Capture the install base for a customer by creating sold products, install base items, and installed products. This would enable the customer service agents to trace issues back to the relevant product, instances of that product, and other entities impacting their functioning.
 
-Before setting up your install base, create your [[product-data|product data]] by creating or importing [[product-models|product models]]. For more information, see [[configure-csm-products|Configure product data]].
+Before setting up your install base, create your product data by creating or importing product models. For more information, see [Configure product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-products.md).
 
 This example shows the summary of the customer's purchase on the Solana microwave.
 
@@ -38,7 +38,7 @@ Sold Products
 
 </td><td>
 
-[[create-sold-item|Create a sold product]] to provide customers, consumers, and customer service agents visibility into the products and services sold to an account or a consumer.
+Create a sold product to provide customers, consumers, and customer service agents visibility into the products and services sold to an account or a consumer.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Install Base Items
 
 </td><td>
 
-[[create-install-base-item|Create an install base item]] to track instances that have been provisioned for an account or consumer. An install base item can be any configuration item that has been made accessible to customers. For Software as a Service \(SaaS\) products, an install base item refers to an application service configuration item.
+Create an install base item to track instances that have been provisioned for an account or consumer. An install base item can be any configuration item that has been made accessible to customers. For Software as a Service \(SaaS\) products, an install base item refers to an application service configuration item.
 
 </td></tr><tr><td>
 
@@ -79,13 +79,4 @@ Customer service agents can view install base information in Agent Workspace. Cu
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[configure-csm-products|Configure product data]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]
-- [[product-data|Product data]]
-- [[product-models|Product models]]
-- [[create-sold-item|Create a sold product]]
-- [[create-install-base-item|Create an install base item]]

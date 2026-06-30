@@ -12,13 +12,13 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Scheduler performance metrics
 
-The metrics provide the Schedulers [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the Schedulers performance snapshot within the ServiceNow AI Platform®.
 
 ## Completed Scheduled Jobs
 
 The number of scheduled jobs completed per node.
 
-There are many types of scheduled jobs. They could be scheduled reports, scheduled script executions, one-time jobs like SLA or Workflow Timers, or repeating jobs like Email Sender or Event Processor. In addition to what you might think of as traditional scheduled "jobs" there is also a couple special case of operations that run on the scheduled job queue called, Asynchronous business rules. These can be work that was triggered from the UI or an integration but runs as a scheduled job to achieve asynchronous behavior. Typical examples of Asynchronous business rules are Discovery Sensors or perhaps a job that iterates over a large number of child records, making so many updates that it would not be a good [[user-experience-insights|user experience]] to have to wait for them all to complete.
+There are many types of scheduled jobs. They could be scheduled reports, scheduled script executions, one-time jobs like SLA or Workflow Timers, or repeating jobs like Email Sender or Event Processor. In addition to what you might think of as traditional scheduled "jobs" there is also a couple special case of operations that run on the scheduled job queue called, Asynchronous business rules. These can be work that was triggered from the UI or an integration but runs as a scheduled job to achieve asynchronous behavior. Typical examples of Asynchronous business rules are Discovery Sensors or perhaps a job that iterates over a large number of child records, making so many updates that it would not be a good user experience to have to wait for them all to complete.
 
 **Note:**
 
@@ -46,7 +46,7 @@ If multiple nodes see similar issues it may indicate either all nodes are having
 -   Check scheduled jobs executing on application nodes to determine type or source.
 -   Address performance or scheduling of jobs as necessary to prevent them overloading worker threads.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -55,7 +55,7 @@ If multiple nodes see similar issues it may indicate either all nodes are having
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -91,9 +91,3 @@ If multiple nodes see similar issues it may indicate either all nodes are having
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]
-- [[io-availability|Availability]]

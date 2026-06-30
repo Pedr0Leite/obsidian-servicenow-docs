@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # HR Multi Instance Integration
 
-The ServiceNow®HR Multi Instance Integration centralizes the delivery of [[hr-service-administration|HR services]] in a shared services model, enabling consumers and providers to connect their instances to securely build business workflows across the ServiceNow ecosystem.
+The ServiceNow®HR Multi Instance Integration centralizes the delivery of HR services in a shared services model, enabling consumers and providers to connect their instances to securely build business workflows across the ServiceNow ecosystem.
 
 ## Get started
 
@@ -49,6 +49,3 @@ The ServiceNow®HR Multi Instance Integration centralizes the delivery of [[hr-s
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-service-administration|HR services]]

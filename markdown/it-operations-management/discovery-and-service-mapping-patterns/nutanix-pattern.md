@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Nutanix Acropolis discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Nutanix Components pattern to find components of the Nutanix Acropolis solution containing Nutanix Prism Central version 2024.3.1.8 or Nutanix Prism Element 7.0.1.6. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Nutanix Components pattern to find components of the Nutanix Acropolis solution containing Nutanix Prism Central version 2024.3.1.8 or Nutanix Prism Element 7.0.1.6. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Nutanix Components pattern uses REST APIs to collect information about the Acropolis deployment components.
 
@@ -83,13 +83,13 @@ The Nutanix VM Event pattern finds events for virtual machines \(VMs\) in the Nu
 
 -   **Set MID Server property to discover v4**
 
-    [[enable-nutanix-v4-discovery|Enable Nutanix v4 discovery]] by setting the MID Server property value to the exact v4 version. For more information, see [Enable Nutanix v4 discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-nutanix-v4-discovery.md).
+    Enable Nutanix v4 discovery by setting the MID Server property value to the exact v4 version. For more information, see [Enable Nutanix v4 discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-nutanix-v4-discovery.md).
 
 -   **Configure basic authentication credentials**
 
     For more information, see [Basic authentication credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_BasicAuthCredentialsForm.md).
 
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     Create a discovery schedule to perform targeted discovery of Nutanix components. For more information, see [Create a serverless schedule for Nutanix Acropolis discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-nutanix.md).
 
@@ -378,9 +378,9 @@ The Nutanix Components pattern collects tags and populates them in the Key Value
 
 The dashboard contains reports that query the Configuration Management Database \(CMDB\) and display the results. The information is displayed only after the pattern has discovered the infrastructure.
 
-To display the dashboard, navigate to **Self-Service** &gt; **[[otto-aiops-dashboards|Dashboards]]** &gt; **All** &gt; **Nutanix**.
+To display the dashboard, navigate to **Self-Service** &gt; **Dashboards** &gt; **All** &gt; **Nutanix**.
 
-After upgrading to [[discovery-admin-workspace|Discovery Admin Workspace]] version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
+After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
 
 -   **[Create a serverless schedule for Nutanix Acropolis discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-nutanix.md)**  
 Create a serverless schedule to discover Nutanix Acropolis using REST API.
@@ -393,11 +393,3 @@ Activate the Nutanix events scheduled job to trigger rediscovery of Nutanix comp
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[enable-nutanix-v4-discovery|Enable Nutanix v4 discovery]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

@@ -14,15 +14,15 @@ breadcrumb: [Explore, Security Incident Response Workspace, Security Incident Re
 
 # SIR Workspace features
 
-The [[sir-workspace-landing-page|Security Incident Response Workspace]] consists of the following key features.
+The Security Incident Response Workspace consists of the following key features.
 
 -   Overview section
--   [[upcoming-section|Upcoming section]]
--   [[quick-links|Quick Links section]]
--   [[shift-handover-records-section|Shift Handover Records section]]
+-   Upcoming section
+-   Quick Links section
+-   Shift Handover Records section
 -   List view
 -   Multi-tab interface that supports opening multiple security incidents
--   AI Search to find Security Incidents, Response Tasks, [[c_Observables|Observables]], Security Requests, and [[c_IoCs|Indicators of Compromise]] across the workspace. Filter results by State, Assigned to, Category, Severity, Finding, Type, Configuration Item, and Affected User. For more information about AI Search, see [AI Search](https://www.servicenow.com/docs/r/ai-search/ai-search).
+-   AI Search to find Security Incidents, Response Tasks, Observables, Security Requests, and Indicators of Compromise across the workspace. Filter results by State, Assigned to, Category, Severity, Finding, Type, Configuration Item, and Affected User. For more information about AI Search, see [AI Search](https://www.servicenow.com/docs/r/ai-search/ai-search).
 
 \[Omitted image "key-features-section.png"\] Alt text: SIR workspace key features
 
@@ -43,11 +43,3 @@ The [[sir-workspace-landing-page|Security Incident Response Workspace]] consists
 
 [List view in SIR Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[upcoming-section|Upcoming section]]
-- [[quick-links|Quick links section]]
-- [[shift-handover-records-section|Shift Handover Records section]]
-- [[c_Observables|Observables]]
-- [[c_IoCs|Indicators of compromise]]

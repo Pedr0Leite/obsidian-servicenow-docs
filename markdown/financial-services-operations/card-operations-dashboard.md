@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Dispute Management dashboard
 
-With the Dispute Management dashboard, you can get an insight into how your team and business are performing for the card service requests that were received for your [[fso-overview|financial services]].
+With the Dispute Management dashboard, you can get an insight into how your team and business are performing for the card service requests that were received for your financial services.
 
 **Important:** The Dispute Management dashboard has been modernized to give you a better user experience.
 
@@ -120,6 +120,3 @@ Needs to be able to customize views.
 -   Dispute reason
 -   Service
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -20,9 +20,9 @@ Users and groups can be imported or created directly using the platform user adm
 
 ## Roles and access control
 
-Roles control access to features, capabilities, and data in the CRM portfolio. The [[crm-about-csm-in-crm|Customer Service Management]] application provides two categories of roles: internal roles for agents and managers, and external roles for customers, partners, and consumers. Roles can be assigned to individual users or to groups. When assigned to a group, all members inherit those roles.
+Roles control access to features, capabilities, and data in the CRM portfolio. The Customer Service Management application provides two categories of roles: internal roles for agents and managers, and external roles for customers, partners, and consumers. Roles can be assigned to individual users or to groups. When assigned to a group, all members inherit those roles.
 
-**Internal roles** are assigned to employees who handle cases, manage service operations, or support customers through the CSM [[crm-configurable-workspace|Configurable Workspace]].
+**Internal roles** are assigned to employees who handle cases, manage service operations, or support customers through the CSM Configurable Workspace.
 
 |Role|Role name|What it covers|
 |----|---------|--------------|
@@ -30,7 +30,7 @@ Roles control access to features, capabilities, and data in the CRM portfolio. T
 |Consumer agent \(B2C\)|sn\_customerservice.consumer\_agent|Handles cases for individual consumers in a B2C service model. Works with consumer profiles, households, and the consumer service portal.|
 |Service manager|sn\_customerservice\_manager|Oversees service operations across B2B and B2C models. Manages queues, account teams, contact relationships, and has broader visibility across cases, teams, and performance data.|
 
-**External roles** are assigned to customers, partners, and consumers who access the CRM through [[crm-self-service-portals|self-service portals]]. External roles control what these users can see, submit, and manage.
+**External roles** are assigned to customers, partners, and consumers who access the CRM through self-service portals. External roles control what these users can see, submit, and manage.
 
 |Role|Role name|What it covers|
 |----|---------|--------------|
@@ -53,9 +53,9 @@ The contributor users feature enables three capabilities: service organizations 
 |----------------|---------|----------------|
 |Account contributor|sn\_customerservice.account\_contributor|Creates cases on behalf of any customer. Works with accounts and contacts. Uses the Customer Service Portal to assist customers.|
 |Consumer contributor|sn\_customerservice.consumer\_contributor|Creates cases on behalf of any consumer. Works with consumers and households. Uses the Consumer Service Portal to assist consumers.|
-|Relationship contributor|sn\_customerservice.relationship\_contributor|Creates cases on behalf of customers with whom they have an established relationship. Can view and follow up on all cases for related customers. Can update [[crm-customer-data|customer data]] such as contacts and addresses.|
+|Relationship contributor|sn\_customerservice.relationship\_contributor|Creates cases on behalf of customers with whom they have an established relationship. Can view and follow up on all cases for related customers. Can update customer data such as contacts and addresses.|
 |Self contributor|sn\_customerservice.self\_contributor|Creates cases on behalf of themselves as an internal employee. Uses the portal to request support for their own issues.|
-|Service organization contributor|sn\_customerservice.service\_organization\_contributor|Creates cases on behalf of customers associated with their service organization. Operates within the [[crm-service-model-foundation|Service Model Foundation]] hierarchy.|
+|Service organization contributor|sn\_customerservice.service\_organization\_contributor|Creates cases on behalf of customers associated with their service organization. Operates within the Service Model Foundation hierarchy.|
 
 **Viewer roles** provide read-only access to case data and customer records without the ability to create or modify them.
 
@@ -112,10 +112,3 @@ Individual consumers can have multiple profiles for different needs. Consumer pr
 
 [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
-## Related
-
-- [[crm-about-csm-in-crm|Customer Service Management]]
-- [[crm-configurable-workspace|Configurable workspace]]
-- [[crm-self-service-portals|Self-service portals]]
-- [[crm-customer-data|Customer data]]
-- [[crm-service-model-foundation|Service Model Foundation]]

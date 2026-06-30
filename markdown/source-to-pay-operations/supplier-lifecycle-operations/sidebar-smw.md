@@ -14,20 +14,15 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Sidebar for supplier cases in the Source-to-Pay Workspace
 
-Sidebar enables stakeholders to collaborate with others by getting into discussions when working on [[supplier|supplier]] cases.
+Sidebar enables stakeholders to collaborate with others by getting into discussions when working on supplier cases.
 
-You can start a Sidebar discussion by selecting **Discuss** on a supplier case in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. Other stakeholders are notified when you add them to a discussion. They can join the discussion by selecting the Sidebar discussions icon \(\[Omitted image "sidebar-chat-icon.png"\] Alt text: Sidebar chat icon.\).
+You can start a Sidebar discussion by selecting **Discuss** on a supplier case in the Source-to-Pay Workspace. Other stakeholders are notified when you add them to a discussion. They can join the discussion by selecting the Sidebar discussions icon \(\[Omitted image "sidebar-chat-icon.png"\] Alt text: Sidebar chat icon.\).
 
 For more information on what Sidebar is, see [Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar-landing.md).
 
 To learn more about how to use Sidebar, see [Using Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-sidebar.md).
 
-For information on [[activity-stream|activity stream]] in Sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activity-stream-sidebar.md).
+For information on activity stream in Sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activity-stream-sidebar.md).
 
 **Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[activity-stream|Activity stream]]

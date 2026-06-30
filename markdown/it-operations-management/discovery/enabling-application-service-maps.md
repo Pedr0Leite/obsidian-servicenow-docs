@@ -23,7 +23,7 @@ KVA collects traffic data between workloads and reports it to the ServiceNow ins
 -   If Cilium is already running in the cluster, the Informer connects to the Cilium agent through its Hubble layer to pull traffic data. A DaemonSet pod is deployed with minimal permissions to collect and report connection data. This method requires fewer permissions than the ServiceNow DaemonSet method. To find out how to enable the application service maps using Cilium, see [Enable service maps using Cilium](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-service-maps-using-cilium.md).
 
 -   **[Enable service maps using DaemonSet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-service-maps-using-daemonset.md)**  
-Enable application service maps based on the traffic between the workloads in Kubernetes by using a ServiceNow DaemonSet as part of [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) installation.
+Enable application service maps based on the traffic between the workloads in Kubernetes by using a ServiceNow DaemonSet as part of Kubernetes Visibility Agent \(KVA\) installation.
 -   **[Enable service maps using service meshes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-service-maps-using-service-mesh.md)**  
 Enable application service maps based on the traffic between the workloads in Kubernetes by using Istio or Linkerd or service meshes as part of Kubernetes Visibility Agent \(KVA\) installation.
 -   **[Enable service maps using Cilium](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-service-maps-using-cilium.md)**  
@@ -35,6 +35,3 @@ Create hybrid service maps that extend outside the Kubernetes cluster and map ot
 
 **Parent Topic:**[Configuring Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-configuring.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

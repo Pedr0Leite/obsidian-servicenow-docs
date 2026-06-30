@@ -14,7 +14,7 @@ breadcrumb: [Account linking in pre-built messaging integrations, Integrate VA w
 
 # Link your ServiceNow user account to a messaging application for Virtual Agent conversations
 
-Link your ServiceNow account to a third-party messaging application to access non-public [[virtual-agent-landing-page|Virtual Agent]] topics that use ServiceNow records.
+Link your ServiceNow account to a third-party messaging application to access non-public Virtual Agent topics that use ServiceNow records.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ However, after you unlink your messaging account from your ServiceNow account \(
 
 [Redirect user authentication to a Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-user-linkage.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

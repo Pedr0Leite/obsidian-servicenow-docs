@@ -18,7 +18,7 @@ A scripted audit is an audit whose conditions are defined by a script.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Compliance** &gt; **[[c_ScriptedAudits|Scripted Audits]]** &gt; **Audits**.
+1.  Navigate to **All** &gt; **Compliance** &gt; **Scripted Audits** &gt; **Audits**.
 
     An audit type of Scripted filters the list.
 
@@ -72,7 +72,7 @@ A scripted audit is an audit whose conditions are defined by a script.
     		// auditId - Sys id of audit record executed
     		// auditedRecordId - Sys id of the record audited
     		// followOnTask - Sys id of the follow on task associated with the audited record(@see auditedRecordId). Can be empty
-    		// columnDisplayName - [[label|Label]] of the column audited(ex. Disk space (GB)).  Can be empty
+    		// columnDisplayName - Label of the column audited(ex. Disk space (GB)).  Can be empty
     		// operatorLabel - Label of the operator used to audit the column(ex. is not empty, greater than). Can be empty
     		// desiredValue - Desired value of the column.  Can be empty
     		// discrepancyValue - Discrepancy value.  Can be empty
@@ -137,7 +137,7 @@ Create tasks
 
 </td><td>
 
-Creates follow-on tasks for correcting discrepancies when selected. In a scripted audit, you can create the logic for either task state by using true to create a task or false if no task is created. By default, this [[check-box|check box]] is cleared \(false\) in a new audit record.
+Creates follow-on tasks for correcting discrepancies when selected. In a scripted audit, you can create the logic for either task state by using true to create a task or false if no task is created. By default, this check box is cleared \(false\) in a new audit record.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Assignment type
 
 A choice list to select how the audit assigns the follow-on tasks. This field is visible only when the Create task check box is selected. Choices are:
 
--   User Field: elect a user [[reference|reference]] field on the table being audited. As an example, select the user named in the Managed by field on the failed record to perform the tasks. This selection displays the Assigned to and Assign to empty fields. If the reference field on the record is empty, the value in the Assign to empty field is used.
+-   User Field: elect a user reference field on the table being audited. As an example, select the user named in the Managed by field on the failed record to perform the tasks. This selection displays the Assigned to and Assign to empty fields. If the reference field on the record is empty, the value in the Assign to empty field is used.
 -   Specific User: Select a specific user to perform the tasks. This selection displays the User field.
 -   Group Field: Select a group reference field on the table being audited. As an example, select the Support group from the failed record to perform the tasks. This selection displays the Assign to group and Assign to empty fields. All members of the group from the reference field on the failed record are assigned to the tasks. If the reference field on the record is empty, the value in the Assign to empty field is used.
 -   Specific Group: Select a specific group to perform the tasks. This selection displays the Group field. All members of the selected group are assigned to the tasks.
@@ -296,8 +296,8 @@ Audit type
 
 </td><td>
 
-\[Read-only\] The type assigned to this audit. The system selects the audit type based on the application from which the audit was created and can be:-   [[c_DesiredState|Desired State]]
--   [[c_ArchitectureCompliance|Architecture Compliance]]
+\[Read-only\] The type assigned to this audit. The system selects the audit type based on the application from which the audit was created and can be:-   Desired State
+-   Architecture Compliance
 -   Compliance
 -   Scripted
 
@@ -312,12 +312,3 @@ Audit script to run. This field is available only when the audit type is Scripte
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ScriptedAudits|Scripted audits]]
-- [[label|Label]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[c_DesiredState|Desired State]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]

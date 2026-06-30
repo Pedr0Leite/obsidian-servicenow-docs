@@ -24,7 +24,7 @@ To configure a new threat intelligence feed, follow the procedure:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Integrations** icon.
 
@@ -162,7 +162,7 @@ REST endpoint URL
 
 </td><td>
 
-Enter the REST endpoint URL where the data is hosted by the [[threat-intel-landing-page|threat intelligence]] feed.**Note:** For MISP feed types, the REST endpoint URLs that end with `/manifest.json` are supported.
+Enter the REST endpoint URL where the data is hosted by the threat intelligence feed.**Note:** For MISP feed types, the REST endpoint URLs that end with `/manifest.json` are supported.
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ Data Parsing Mechanism
 </td><td>
 
 Select the appropriate data parsing mechanism option. The available options are:-   **Automated IoC Extraction**: This option is selected by default when configuring Text, CSV, or JSON feeds.
--   **Custom Field [[mapping-logrhythm|Mapping]]**: Select this option if you want to define how the specific fields in your feed data should be mapped to the observable attributes.
+-   **Custom Field Mapping**: Select this option if you want to define how the specific fields in your feed data should be mapped to the observable attributes.
 
 Once selected, you can configure the mappings in the **Field Mapping** section. For more detailed information on the custom field mapping, see [Configure Custom Field Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-field-mapping.md).
 
@@ -266,7 +266,7 @@ The report processor script processes data fetched from the feed using the integ
 -   MITRECollectionDataProcessor: Used for processing MITRE feeds.
 -   RSSFeedDatasourceResponseProcessor: Used for processing RSS feeds.
 -   SimpleDataplaneFeedResponseProcessor: Used for processing Dataplane feeds.
--   SimpleFeedDatasourceResponseProcessor: Used for processing Simple feeds using regular expression extraction of [[c_Observables|observables]].
+-   SimpleFeedDatasourceResponseProcessor: Used for processing Simple feeds using regular expression extraction of observables.
 -   SimpleFeodotrackerFeedResponseProcessor: Used for processing Feodotracker feeds.
 -   SimpleMISPFeedDatasourceResponseProcessor: Used for processing hosted MISP feeds.
 -   TAXIIV2CollectionDataProcessor: Used for processing TAXII Collection data.
@@ -348,9 +348,3 @@ The start date from when the data needed to be fetched. This field should be set
 
 **Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]

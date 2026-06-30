@@ -14,7 +14,7 @@ breadcrumb: [Service Exchange configuration, Manage refresh of assets using Zero
 
 # Trigger the assignment of a remote task
 
-As an asset provider, create remote task definitions that trigger the assignment of a remote task for your customer to communicate the details of [[zero-touch-asset-refresh|Zero Touch Refresh]] requests.
+As an asset provider, create remote task definitions that trigger the assignment of a remote task for your customer to communicate the details of Zero Touch Refresh requests.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ You receive the details of a Zero Touch Refresh Fulfillment Request from your cu
 
 A remote task definition record is created on your instance and the **State** field of the record is set to Published. This record is also synchronized with your customer's instance and is pending activation on your customer's instance.
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

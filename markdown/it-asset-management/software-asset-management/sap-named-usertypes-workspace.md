@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create a custom named user type in workspace
 
-Create a custom named user type that can be used with your SAP software entitlement in the [[sam-workspace|Software Asset Workspace]]. Creating a custom named user type allows users to track licenses that are specific to their SAP systems.
+Create a custom named user type that can be used with your SAP software entitlement in the Software Asset Workspace. Creating a custom named user type allows users to track licenses that are specific to their SAP systems.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

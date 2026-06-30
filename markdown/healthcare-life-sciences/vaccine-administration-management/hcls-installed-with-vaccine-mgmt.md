@@ -14,7 +14,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 # Components installed with Vaccine Administration Management
 
-Several types of components are installed with [[hcls-vam|Vaccine Administration Management]], including user roles and tables.
+Several types of components are installed with Vaccine Administration Management, including user roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -142,7 +142,7 @@ sn\_apptmnt\_booking.appointment\_booking\_user
 
 </td></tr><tr><td>
 
-[[VAM-dashboard|Vaccine Administration Management dashboard]] manager
+Vaccine Administration Management dashboard manager
 
  \[sn\_vaccine\_sm.report\_manager\]
 
@@ -409,8 +409,3 @@ Stores the details about the lot for a vaccine added to the inventory including 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[VAM-dashboard|Vaccine Administration Management dashboard]]

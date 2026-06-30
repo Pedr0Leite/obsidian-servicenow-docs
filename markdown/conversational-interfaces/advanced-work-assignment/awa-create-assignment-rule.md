@@ -15,7 +15,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Configure agent assignment rules
 
-Set the [[awa-application-landing-page|Advanced Work Assignment]] criteria for assigning [[awa-work-items|work items]] to agents. Choose the assignment rule that considers the agent with the most capacity or the agent who has gone the longest without work. Establish the settings for the auto-assign handling, reject handling, and skill handling related lists.
+Set the Advanced Work Assignment criteria for assigning work items to agents. Choose the assignment rule that considers the agent with the most capacity or the agent who has gone the longest without work. Establish the settings for the auto-assign handling, reject handling, and skill handling related lists.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: awa\_admin or admin
 
     -   To create a rule, select **New**.
     -   To change a rule, select the rule to be updated.
-3.  On the [[awa-assignment-rules|Assignment Rule form]], fill in the fields.
+3.  On the Assignment Rule form, fill in the fields.
 
     For a description of the field values, see [Assignment Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-assignment-rules.md).
 
@@ -46,8 +46,4 @@ Role required: awa\_admin or admin
 
     The assignment rule is added to or updated in the Assignment Rules \[awa\_assignment\_rule\] table.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-assignment-rules|Assignment Rule form]]

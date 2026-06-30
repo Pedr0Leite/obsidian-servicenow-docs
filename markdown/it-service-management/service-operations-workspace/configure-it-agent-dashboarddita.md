@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]] and select **[[it-agent-dashboard|IT Agent Dashboard]]**.
+1.  Navigate to the Service Operations Workspace landing page and select **IT Agent Dashboard**.
 
 2.  Duplicate the dashboard.
 
@@ -60,7 +60,4 @@ Role required: admin
 
 16. Save the dashboard and share it.
 
-## Related
 
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[it-agent-dashboard|it agent dashboard]]

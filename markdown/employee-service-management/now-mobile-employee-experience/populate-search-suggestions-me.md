@@ -43,10 +43,7 @@ Search suggestions improve over time as more people use the app. Search Suggesti
 
 ## Result
 
-Users see suggestions when they start typing in a search field in the [[mobile-employee-experience|Now Mobile app]].
+Users see suggestions when they start typing in a search field in the Now Mobile app.
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

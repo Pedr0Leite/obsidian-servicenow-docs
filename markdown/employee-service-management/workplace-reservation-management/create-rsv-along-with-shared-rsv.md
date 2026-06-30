@@ -30,7 +30,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     The Reservation portal is opened with pre-filled details as per your co-worker's reservation. You can select a suitable workplace by yourself.
 
-    For more information on how to [[reservation-portal|make a reservation]] on the Reservation portal, refer to [Create a reservation]().
+    For more information on how to make a reservation on the Reservation portal, refer to [Create a reservation]().
 
 4.  To automatically reserve the most suitable and nearby space to your co-worker, select **Reserve a space for me**.
 
@@ -76,6 +76,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]

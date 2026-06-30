@@ -15,7 +15,7 @@ breadcrumb: [Accounts Payable Operations integration framework, Integrate, Accou
 
 # Working with inbound invoice
 
-[[create-invoice|Create invoice]] and invoice lines originating from different ERP sources using an integration framework.
+Create invoice and invoice lines originating from different ERP sources using an integration framework.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ Role required: sn\_spend\_intg\_admin or sn\_spend\_intg\_procurement\_integrato
 
     Invoice record is created in the **Draft** state and the scheduled job is run every thirty minutes. If the required fields on the invoice are filled, and no exceptions are found, then the invoice is auto set to **Approved** status.
 
-## Related
 
-- [[create-invoice|create invoice]]

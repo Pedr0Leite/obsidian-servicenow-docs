@@ -23,7 +23,7 @@ Role required: sn\_icw\_std.work\_set\_standard\_author
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace**.
 
 2.  Open the work set standard from the Standards hub.
 
@@ -58,6 +58,3 @@ Create and update a work set standard or create a copy of a published or retired
 
 [Publish a work set standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/publish-work-set-standard.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

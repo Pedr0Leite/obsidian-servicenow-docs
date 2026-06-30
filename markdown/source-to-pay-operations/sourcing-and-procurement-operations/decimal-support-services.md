@@ -14,7 +14,7 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # Decimal quantity support for service-based purchases in Shopping Hub
 
-As a shopper, you can now specify decimal quantity values for service-based products when you create or edit a [[purchase-requisition|purchase requisition]] \(PR\) or [[purchase-order-table|purchase order]] \(PO\) in [[shopping-hub-overview|Shopping Hub]].
+As a shopper, you can now specify decimal quantity values for service-based products when you create or edit a purchase requisition \(PR\) or purchase order \(PO\) in Shopping Hub.
 
 **Note:** This capability supports decimal quantities for service‑based products only. Applicable for both create and edit actions for both purchase requisitions and purchase orders in Employee Center and Shopping Hub.
 
@@ -35,7 +35,7 @@ Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
 -   To enable this capability for a service product, you must configure a unit of measure \(UOM\) that supports decimal values.
 
-    \[Omitted image "sh-decimal-uom.png"\] Alt text: [[supplier|Supplier]] Products table showing Unit column with decimalSupported values for service products.
+    \[Omitted image "sh-decimal-uom.png"\] Alt text: Supplier Products table showing Unit column with decimalSupported values for service products.
 
 -   You control decimal quantity support at the UOM level. In the Unit of Measure Decimal Support decision table, set the decimalSupported attribute to true for the required UOM, as shown in the following image.
 
@@ -70,9 +70,3 @@ After upgrading to Yokohama Patch 12 or Zurich Patch 6, if you are unable to spe
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

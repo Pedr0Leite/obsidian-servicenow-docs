@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events employee requests, Using Lifecycle Events, Lifecyc
 
 # Create a Lifecycle Events Employee Request from the Employee Center
 
-Enable your users to create common requests from [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] so that they don't have to create a new HR case or request. When your users open a request, any related cases and tasks are automatically associated with the parent event.
+Enable your users to create common requests from Lifecycle Events so that they don't have to create a new HR case or request. When your users open a request, any related cases and tasks are automatically associated with the parent event.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_hr\_le.admin
 
 ## Procedure
 
-1.  From your [[employee-center-landing-page|Employee Center]] home page, click **To-dos**.
+1.  From your Employee Center home page, click **To-dos**.
 
 2.  Open the New Hire Onboarding request.
 
@@ -45,7 +45,3 @@ Click **Requests** to view your request.
 
 **Parent Topic:**[Lifecycle Events employee requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/employee-requests.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]

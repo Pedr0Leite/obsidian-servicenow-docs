@@ -14,7 +14,7 @@ breadcrumb: [Password Reset, Local authentication, Authentication, Access Manage
 
 # Modify the Password Reset notification email text
 
-[[users|Users]] of the self-service [[c_SelfServicePasswordReset|Password Reset]] process receive an [[email|email]] notification when they [[c_requestAPI|request]] password reset. You can modify the text of the email and other aspects of the notification.
+Users of the self-service Password Reset process receive an email notification when they request password reset. You can modify the text of the email and other aspects of the notification.
 
 ## Before you begin
 
@@ -34,9 +34,4 @@ This process is relevant only if users are [Subscription-based notifications](ht
 
     For information on configuring other aspects of the notification, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
-## Related
 
-- [[users|Users]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[email|Email]]
-- [[c_requestAPI|request]]

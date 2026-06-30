@@ -15,11 +15,11 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Limitations in Now Assist in Document Intelligence
 
-There are several important limitations to be aware of when you’re [[docintel-using-now-assist|using Now Assist in Document Intelligence]].
+There are several important limitations to be aware of when you’re using Now Assist in Document Intelligence.
 
 ## Now Assist in Document Intelligence skill limits
 
-The following table lists the important limitations for the skills in [[docintel-nowassist-landing|Now Assist in Document Intelligence]].
+The following table lists the important limitations for the skills in Now Assist in Document Intelligence.
 
 <table id="table_uds_5wj_lgc"><thead><tr><th>
 
@@ -87,7 +87,7 @@ For image files that need optical character recognition \(OCR\) to detect the te
  For text-based files, the skill recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md).
 
 </td></tr></tbody>
-</table>## Limits for the [[document-and-visual-insights-ai-agent|document and visual insights AI agent]]
+</table>## Limits for the document and visual insights AI agent
 
 The following table lists the important limitations for the document and visual insights AI agent.
 
@@ -139,7 +139,7 @@ For image and text-based files, the AI agent recognizes any language supported b
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] in Document Intelligence]()
+[Components installed with Now Assist in Document Intelligence]()
 
 [Data extraction modes in Now Assist in Document Intelligence]()
 
@@ -149,16 +149,9 @@ For image and text-based files, the AI agent recognizes any language supported b
 
 [Field types in Now Assist in Document Intelligence]()
 
-[Now Assist in [[document-intelligence-landing|Document Intelligence]] forms]()
+[Now Assist in Document Intelligence forms]()
 
 [Large language models used by Now Assist in Document Intelligence]()
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-using-now-assist|Using Now Assist in Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

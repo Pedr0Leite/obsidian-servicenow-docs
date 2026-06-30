@@ -14,7 +14,7 @@ breadcrumb: [Orchestration ROI, Orchestration applications, Classic Orchestratio
 
 # Orchestration ROI reports
 
-[[c_OrchestrationROI|Orchestration ROI]] provides a collection of standard and premium reports to help you calculate savings from automating services in your organization.
+Orchestration ROI provides a collection of standard and premium reports to help you calculate savings from automating services in your organization.
 
 The ROI standard reports are included with Orchestration ROI. The premium reports provide enhanced views generated with Performance Analytics and require the [Orchestration - ROI Premium](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationROIPremiumDashboard.md) plugin.
 
@@ -25,6 +25,3 @@ The premium dashboard provides detailed reports on calculated savings over time.
 
 **Parent Topic:**[Orchestration ROI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationROI.md)
 
-## Related
-
-- [[c_OrchestrationROI|Orchestration ROI]]

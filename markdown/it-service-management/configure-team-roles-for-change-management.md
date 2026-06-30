@@ -12,7 +12,7 @@ breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller
 
 # Configure team roles for Simplified Change Management
 
-Assign the right people to the right roles in [[c_ITILChangeManagement|Change Management]] so your team can approve, implement, and manage changes with the correct access. Team roles control who can approve, build, or review a change.
+Assign the right people to the right roles in Change Management so your team can approve, implement, and manage changes with the correct access. Team roles control who can approve, build, or review a change.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When you add a user to the **Change Manager** or **Implementation groups** field
 
 1.  From the header of your ServiceNow instance, navigate to **All** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the Configure your product section, select **Configure**.
 
@@ -48,7 +48,7 @@ When you add a user to the **Change Manager** or **Implementation groups** field
 
     To revert unsaved changes, select **Undo**.
 
-8.  When you have finished configuring, select **Mark as configured** to save your [[settings-mobile|settings]] and mark this step as complete.
+8.  When you have finished configuring, select **Mark as configured** to save your settings and mark this step as complete.
 
     To revert changes made in the current session before saving, select **Undo**.
 
@@ -59,11 +59,5 @@ When you add a user to the **Change Manager** or **Implementation groups** field
 
 Team roles are now configured and available for use for managing change requests.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
-## Related
-
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[settings-mobile|Settings]]

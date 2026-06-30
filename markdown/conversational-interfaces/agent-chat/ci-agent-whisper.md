@@ -22,7 +22,7 @@ For example, if an agent is newly hired, still in training, or unsure about how 
 
 Another scenario is if an agent needs to escalate a customer conversation to a chat manager. Agents can request help and chat managers can join the chat conversations publicly to communicate directly with the customer to help deescalate the situation.
 
-You activate Agent Whisper in [[ci-use-agent-chat|Agent Chat]] settings. For details, see [Setting up Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md).
+You activate Agent Whisper in Agent Chat settings. For details, see [Setting up Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md).
 
 ## Using the Help quick action
 
@@ -90,6 +90,3 @@ To learn more about downloading the chat transcript, see [Chat transcript downlo
 
 Admins can build a custom report to track the number of help requests, see [Build a report to track the number of help requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-reference.md) for instructions.
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

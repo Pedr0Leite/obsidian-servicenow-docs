@@ -26,7 +26,7 @@ Role required: Splunk admin.
 
 2.  Navigate to **Apps** &gt; **Manage Apps** or select the **Manage** icon.
 
-3.  Search for the **[[tisc-landing-page|Threat Intelligence Security Center]] for Splunk** app and install it.
+3.  Search for the **Threat Intelligence Security Center for Splunk** app and install it.
 
 4.  After installation, the application appears in the list of apps.
 
@@ -40,6 +40,3 @@ Role required: Splunk admin.
 
 [Configure TISC add-on in Splunk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-configure-splunk.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

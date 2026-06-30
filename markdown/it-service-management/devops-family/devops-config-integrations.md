@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config, IT Service Management]
 
 # Integrating your pipeline in DevOps Config
 
-Integrate your Argo CD, Azure DevOps, or Jenkins pipeline with [[devops-config-landing-page|DevOps Config]] to interact with your data model.
+Integrate your Argo CD, Azure DevOps, or Jenkins pipeline with DevOps Config to interact with your data model.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -26,7 +26,7 @@ Configuration data is pulled in your CI/CD pipeline to deploy not just a code fo
 
 ## DevOps Config and DevOps Change Acceleration
 
-With the [[devops-landing-page-new|DevOps Change Velocity]] change control feature, a change request is created as part of the pipeline for DevOps Config configuration changes.
+With the DevOps Change Velocity change control feature, a change request is created as part of the pipeline for DevOps Config configuration changes.
 
 Set up change acceleration in your pipeline.
 
@@ -44,7 +44,3 @@ In DevOps Change Velocity, navigate to **DevOps** &gt; **Orchestrate** &gt; **Pi
 
 See [Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

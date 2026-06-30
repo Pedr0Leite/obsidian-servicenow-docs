@@ -20,7 +20,7 @@ The Strategy Execution Dashboard provides various analytics through the tabs and
 
 ## Strategic Overview tab in the Strategy Execution Dashboard
 
-\[Omitted image "strategy-execution-dashboard-strategic-spw.gif"\] Alt text: Strategy Execution Dashbaord-Strategic Overview in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+\[Omitted image "strategy-execution-dashboard-strategic-spw.gif"\] Alt text: Strategy Execution Dashbaord-Strategic Overview in Strategic Planning.
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -59,6 +59,3 @@ The Strategy Execution Dashboard provides various analytics through the tabs and
 
 **Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/exploring-dashboards-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

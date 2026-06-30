@@ -25,7 +25,7 @@ This page lists all system properties related to offline mode. Refer to the indi
 3.  Select **New**.
 4.  Complete the System Property form using the property names listed in this table. Use the information in the description to determine a value for the property.
 
-**Note:** For more information on creating system properties, see [[additional-mobile-configuration|Mobile system property configurations]].
+**Note:** For more information on creating system properties, see [Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md).
 
 ## System properties used for offline configuration
 
@@ -225,7 +225,7 @@ Incremental updates
 
 **Note:** This setting is applicable only when the `glide.sg.offline.incremental.enabled` system property is set to true.
 
- Screens that are marked as available offline are linked to specific [[sg-data-item|data items]] that determine which records are included for that screen. These records are continuously monitored by a record watcher, which tracks any insert, update, or delete actions. When a change matches the data item filter criteria, the watcher automatically initiates an incremental update to sync the latest data to the user's device.
+ Screens that are marked as available offline are linked to specific data items that determine which records are included for that screen. These records are continuously monitored by a record watcher, which tracks any insert, update, or delete actions. When a change matches the data item filter criteria, the watcher automatically initiates an incremental update to sync the latest data to the user's device.
 
  This property specifies how long the record watcher remains active when no changes have occurred to trigger an incremental update.
 
@@ -387,10 +387,5 @@ Controls how long the server can spend generating the offline cache payload for 
 -   Maximum allowed: 1200000 ms \(20 minutes\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mobile-offline-mode|Offline mode]]
+</table>**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-data-item|Data items]]

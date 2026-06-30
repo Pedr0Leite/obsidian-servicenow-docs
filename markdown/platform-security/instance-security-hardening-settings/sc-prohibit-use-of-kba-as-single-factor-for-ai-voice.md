@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Prohibit Use of KBA as Single Factor for AI Voice
 
-Use a system property to prevent Knowledge Based [[c_Authentication|Authentication]] \(KBA\) from being the only factor of authentication required to authenticate to the platform for AI voice.
+Use a system property to prevent Knowledge Based Authentication \(KBA\) from being the only factor of authentication required to authenticate to the platform for AI voice.
 
-Use the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property to prevent security questions from being the only factor of authentication required to authenticate to the platform in the AI voice agent authentication feature. Knowledge Based Authentication \(KBA\) allows [[users|users]] to answer security questions as an authentication factor. Learn more about [[authentication-factors|authentication factors]] for AI voice agents at [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md).
+Use the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property to prevent security questions from being the only factor of authentication required to authenticate to the platform in the AI voice agent authentication feature. Knowledge Based Authentication \(KBA\) allows users to answer security questions as an authentication factor. Learn more about authentication factors for AI voice agents at [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md).
 
 Ensure that the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property is set to `false`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 3.3
 -   CVSS score: Low
--   Security risk details: Allowing users to authenticate with a single factor increases the risk of account compromise if that factor is compromised. Enforcing [[mfa-landing|Multi-factor Authentication]] \(MFA\) is recommended. If single-factor access is allowed, then KBA security questions aren't recommended as the single factor. Security questions can be guessed, learned through social engineering, or obtained from public records, increasing the risk of account compromise.
+-   Security risk details: Allowing users to authenticate with a single factor increases the risk of account compromise if that factor is compromised. Enforcing Multi-factor Authentication \(MFA\) is recommended. If single-factor access is allowed, then KBA security questions aren't recommended as the single factor. Security questions can be guessed, learned through social engineering, or obtained from public records, increasing the risk of account compromise.
 
 </td></tr><tr><td>
 
@@ -115,11 +115,3 @@ AI voice agent authentication feature is setup and enabled.
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[authentication-factors|Authentication factors]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[mfa-landing|Multi-factor authentication]]

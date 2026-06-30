@@ -14,7 +14,7 @@ breadcrumb: [Using Google Dialogflow as a secondary bot with Virtual Agent Bot I
 
 # Configure connections to Google Dialogflow in your Virtual Agent Bot Interconnect instance
 
-To use Google Dialogflow with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, the fourth step is to configure the connection in your ServiceNow® instance.
+To use Google Dialogflow with Virtual Agent Bot Interconnect, the fourth step is to configure the connection in your ServiceNow® instance.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: admin
 
 **Next topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Google Dialogflow topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/link-ggl-dialogflow-intents-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

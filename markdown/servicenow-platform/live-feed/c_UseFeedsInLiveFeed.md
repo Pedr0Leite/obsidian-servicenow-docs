@@ -30,7 +30,7 @@ When a user views a record on a table that has Live Feed enabled, such as the **
 -   **[Control how Live Feed is enabled for records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_ControlLiveFeedEnabledForRec.md)**  
 A property called **glide.ui.show\_live-feed\_activity** controls whether Live Feed is automatically enabled for all records.
 -   **[View the activity stream in record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_ViewActiviStreamRecFeeds.md)**  
-When you view [[c_RecordFeeds|record feeds]], Live Feed displays the activity stream for the document.
+When you view record feeds, Live Feed displays the activity stream for the document.
 -   **[Participate in a feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ParticipateInAFeed.md)**  
 When you join a feed, you become a feed member.
 -   **[Mark a feed as a favorite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_MarkAFeedAsAFavorite.md)**  
@@ -46,7 +46,7 @@ The feed administrator can invite another user or a team to join a record feed.
 -   **[Remove a member from a feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_RemoveAMemberFromAFeed.md)**  
 The feed administrator can remove any member from the feed.
 -   **[Subscribe to a feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SubscribeToAFeed.md)**  
-Direct members of a feed can subscribe and unsubscribe to the feed in order to receive [[email|email]] notifications whenever any activity in the feed occurs, such as new messages being posted, replies, likes, polls, and @mentions.
+Direct members of a feed can subscribe and unsubscribe to the feed in order to receive email notifications whenever any activity in the feed occurs, such as new messages being posted, replies, likes, polls, and @mentions.
 -   **[Navigate between Live Feed and other modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_NavLiveFeedAndOtherMod.md)**  
 If you are participating in a feed and navigate to another module, when you return to Live Feed it displays the feed you were previously viewing if it is public or if it is a private feed that you are a member of.
 -   **[Leave a feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_LeaveAFeed.md)**  
@@ -54,10 +54,5 @@ Members can choose to leave a group feed.
 -   **[Delete a feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DeleteAFeed.md)**  
 If you are a feed administrator, you can delete the feed.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[c_RecordFeeds|Record feeds]]
-- [[email|Email]]

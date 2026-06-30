@@ -14,7 +14,7 @@ breadcrumb: [Create assignment rule, Create a case type, Configure, Compliance C
 
 # Assignment Rule form
 
-Use the Assignment Rule form to define the case assignment rules in the [[compliance-case-management|Compliance Case Management]] application.
+Use the Assignment Rule form to define the case assignment rules in the Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -34,6 +34,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Create an assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-assignment-rule.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

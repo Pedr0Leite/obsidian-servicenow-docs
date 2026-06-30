@@ -13,7 +13,7 @@ breadcrumb: [Set up a grant program, Grants Management, Playbooks and Solutions,
 
 # Configure the Spending Overview Widget and Filter pills
 
-Use script includes to configure the **Spending Overview** widget and filter pills on the **Funding Allocation** tab for the [[psds-gm-rolling-grant-approvals-concept|rolling grant approvals]] feature. Admins can add, remove, relabel, and reorder chart widgets and filter pills, and create custom ones to match program requirements.
+Use script includes to configure the **Spending Overview** widget and filter pills on the **Funding Allocation** tab for the rolling grant approvals feature. Admins can add, remove, relabel, and reorder chart widgets and filter pills, and create custom ones to match program requirements.
 
 ## Before you begin
 
@@ -55,15 +55,9 @@ You can also use UI Builder to configure the Funding allocation tab widgets of t
 
 To verify the configuration, open a grant program record and select the **Funding Allocation** tab. Confirm that the **Spending Overview** widget and filter pills display as configured.
 
-**Parent Topic:**[[psds-config-gmp-grant-pgr|Set up a grant program in Grants Management]]
+**Parent Topic:**[Set up a grant program in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-grant-pgr.md)
 
-**Previous topic:**[[psds-config-gmp-create-rubric|Configure a merit review scoring rubric for a grants proposal]]
+**Previous topic:**[Configure a merit review scoring rubric for a grants proposal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-create-rubric.md)
 
-**Next topic:**[[psds-config-investigative-case-management|Configuring Investigative Case Management]]
+**Next topic:**[Configuring Investigative Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-investigative-case-management.md)
 
-## Related
-
-- [[psds-config-gmp-grant-pgr|Set up a grant program in Grants Management]]
-- [[psds-config-gmp-create-rubric|Configure a merit review scoring rubric for a grants proposal]]
-- [[psds-config-investigative-case-management|Configuring Investigative Case Management]]
-- [[psds-gm-rolling-grant-approvals-concept|Rolling grant approvals]]

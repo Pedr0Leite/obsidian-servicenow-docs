@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with Slack, Conversational Integration with Slack, Int
 
 # Remove ServiceNow Virtual Agent integration with Slack
 
-Remove the ServiceNow [[virtual-agent-landing-page|Virtual Agent]] integration from your ServiceNow instance to disassociate the Slack app.
+Remove the ServiceNow Virtual Agent integration from your ServiceNow instance to disassociate the Slack app.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -53,7 +53,3 @@ Roles required:
 
 **Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

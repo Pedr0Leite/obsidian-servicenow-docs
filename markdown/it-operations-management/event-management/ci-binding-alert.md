@@ -14,13 +14,13 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # Binding alerts to CIs
 
-CI binding or linking is the process of finding and connecting a Configuration Item \(CI\) from the Configuration Management Database \(CMDB\) to an alert, using the logic defined in [[create-event-rules|event rules]]. This helps ensure alerts are tied to the right IT components for better visibility and faster issue resolution.
+CI binding or linking is the process of finding and connecting a Configuration Item \(CI\) from the Configuration Management Database \(CMDB\) to an alert, using the logic defined in event rules. This helps ensure alerts are tied to the right IT components for better visibility and faster issue resolution.
 
 ## Understanding CI binding
 
 Binding alerts to CIs links incoming alerts to the correct Configuration Item \(CI\) representing a specific host, such as a computer, server, router, or virtual machine in your IT infrastructure. This ensures accurate alert tracking, simplifies troubleshooting by identifying the source of issues, and maintains a historical record of alerts tied to specific systems.
 
-In [[r_ITOMApplications|IT Operations Management]], the relationship between alerts and CIs plays a critical role in effectively managing services and infrastructure. A CI represents a component within your IT environment, such as a server, application, or database. Linking alerts to CIs ensures that alerts and incidents are directly associated with the affected component, enabling accurate impact analysis and faster resolution.
+In IT Operations Management, the relationship between alerts and CIs plays a critical role in effectively managing services and infrastructure. A CI represents a component within your IT environment, such as a server, application, or database. Linking alerts to CIs ensures that alerts and incidents are directly associated with the affected component, enabling accurate impact analysis and faster resolution.
 
 In dynamic and large-scale environments, it’s often challenging to pinpoint which CI is responsible for triggering an alert. Alerts are generated from raw event data captured across multiple sources, but this data may not explicitly reference a CI. Without a reliable method to bind alerts to CIs, IT teams face the risk of:
 
@@ -57,7 +57,7 @@ Scenario: A company’s email server named MailServer-01 goes down.
 Process:
 
 1.  Alert generation: An alert is triggered when MailServer-01 becomes unresponsive.
-2.  CI binding: [[c_EM|Event Management]] automatically looks for MailServer-01 in the CMDB \(Configuration Management Database\).
+2.  CI binding: Event Management automatically looks for MailServer-01 in the CMDB \(Configuration Management Database\).
     -   If found, the alert is linked to this specific server \(CI\).
     -   If not found, the alert remains unlinked until more information is provided.
 
@@ -68,16 +68,10 @@ Result: The alert now shows that MailServer-01 is the affected system.
 
 This direct link helps streamline troubleshooting by pointing to the exact problem source.
 
-To enrich alerts by identifying the CI or extracting, composing, or tagging alert fields, you can also create an enrich automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+To enrich alerts by identifying the CI or extracting, composing, or tagging alert fields, you can also create an enrich automation in Service Operations Workspace. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 **Related topics**  
 
 
 [Simulate event processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/simulate-event-processing.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

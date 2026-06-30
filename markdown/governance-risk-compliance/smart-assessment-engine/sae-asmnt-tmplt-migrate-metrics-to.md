@@ -14,7 +14,7 @@ breadcrumb: [Creating an assessment template from legacy assessment metric types
 
 # Migrate a legacy metric type to an assessment template
 
-Migrate an existing metric type to an SAE assessment template. You can leverage the existing assessment designs while using [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Migrate an existing metric type to an SAE assessment template. You can leverage the existing assessment designs while using Smart Assessment Engine.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ SAE must be running on the same instance as the metric data to migrate.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **[[Administration|Administration]]** &gt; **Template Migrations**.
+1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Template Migrations**.
 
 2.  On the Assessment template migrations list, select **New** and then fill in the Assessment template migration form.
 
@@ -110,7 +110,3 @@ The Section migration related list is updated as migration proceeds. You can vie
 
 [Results of migrating a metric category to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-migrate-asmnt-template-form.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

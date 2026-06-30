@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 # State synchronization between change requests and remediation tasks
 
-There is a synchronized relationship between the State fields of remediation tasks and the State fields of change requests \(CHGs\) in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+There is a synchronized relationship between the State fields of remediation tasks and the State fields of change requests \(CHGs\) in the Configuration Compliance application.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -79,6 +79,3 @@ Also, when remediation tasks have more than one CHG, the state of the remediatio
 
 For more information about remediation task states and what you can do in each state, see [Configuration Compliance states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-states.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

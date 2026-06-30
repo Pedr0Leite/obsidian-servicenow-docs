@@ -14,10 +14,7 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Major Security Incident Management Playbooks
 
-You can invoke the [[major-security-incident-management-landing-page|Major Security Incident Management]] playbook flow automatically or manually.
+You can invoke the Major Security Incident Management playbook flow automatically or manually.
 
 A Playbook is visible only if at least one playbook is associated with a security incident. The playbook component is supported only for the Process Automation Designer \(PAD\) built. Major Security Incident Management provides the Legal Request playbook with the base system.
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Using MFA, Multi-factor authentication, Authentication, Access Mana
 
 # Web Authentication
 
-Your [[users|users]] can use hardware keys or their device's biometric readers \(FIDO2\) to authenticate to an instance.
+Your users can use hardware keys or their device's biometric readers \(FIDO2\) to authenticate to an instance.
 
 ## Hardware keys
 
@@ -24,7 +24,7 @@ Your [[users|users]] can use hardware keys or their device's biometric readers \
 
 </td><td>
 
-Hardware keys are physical hardware that you can use to authenticate. Hardware keys are inserted into a port on your device to provide [[c_Authentication|authentication]]. For details on registering hardware keys, see [Register a hardware security key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-setup-hardware-key-auth.md).
+Hardware keys are physical hardware that you can use to authenticate. Hardware keys are inserted into a port on your device to provide authentication. For details on registering hardware keys, see [Register a hardware security key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-setup-hardware-key-auth.md).
 
 </td></tr></tbody>
 </table>## Biometrics
@@ -44,7 +44,3 @@ Biometric authenticators use fingerprint or facial recognition to identify users
 
 To configure the web authentication plugin, see .
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

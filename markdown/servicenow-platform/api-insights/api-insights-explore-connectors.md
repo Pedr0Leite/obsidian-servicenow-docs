@@ -14,9 +14,9 @@ breadcrumb: [Monitor connections, Manage API data connections, API Insights, Con
 
 # Exploring Service Graph Connectors for API data within API Insights
 
-You can explore available options for onboarding and maintaining API data using [[cmdb-sgc-available|Service Graph Connectors]] within [[api-insights|API Insights]].
+You can explore available options for onboarding and maintaining API data using Service Graph Connectors within API Insights.
 
-Service Graph Connectors are integrations that facilitate data ingestion into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md) and [API Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-available.md).
+Service Graph Connectors are integrations that facilitate data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md) and [API Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-available.md).
 
 Options for maintaining Service Graph Connectors for importing API data within API Insights include:
 
@@ -94,8 +94,4 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
     For more information, see the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-insights|API Insights]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

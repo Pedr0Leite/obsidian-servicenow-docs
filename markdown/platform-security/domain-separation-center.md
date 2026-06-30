@@ -16,7 +16,7 @@ Audit your domains regularly to reveal problems.
 
 ## Overview
 
-The Domain Separation Center is a dashboard where you can schedule and [[configure-domain-separation-audits|configure audits]] for all of the domains stored in your domain\_audit\_definition table. The dashboard enables you to review audit results and dig deeper into domain errors and warnings. You can find the Domain Separation Center dashboard at `<ServiceNow-instance-name>/domaincenter`.
+The Domain Separation Center is a dashboard where you can schedule and configure audits for all of the domains stored in your domain\_audit\_definition table. The dashboard enables you to review audit results and dig deeper into domain errors and warnings. You can find the Domain Separation Center dashboard at `<ServiceNow-instance-name>/domaincenter`.
 
 The Domain Separation Center provides many audits. You cannot create your own. You can, however, configure how often they run. Audits run on all of the domains stored in the domain\_audit\_definition table.
 
@@ -57,7 +57,7 @@ Configure one or more audits to run daily, weekly, or monthly. The scheduler spe
     3.  For weekly schedules, select the day of the week to run the audit, where 1 is Sunday.
     4.  For monthly schedules, select the day of the month to run the audit.
     5.  Repeat the procedure for the other schedules.
-3.  Select **Save** to save the [[sc-configuration|configuration]] changes.
+3.  Select **Save** to save the configuration changes.
 4.  Select **Execute Now** to run all of the audits scheduled to run at the frequency shown at the top of the right pane, for example, if the pane title is, **Domain Audit Schedule - Daily**, all of the audits that run daily are run.
 
 To see the status of a running audit, in the Domain Separation Center, select the number in the **Running Audits** box.
@@ -78,7 +78,7 @@ To see the status of a running audit, in the Domain Separation Center, select th
 ## Configure the Domain Separation Center
 
 1.  In the Domain Separation Center, select **Configure Domain Center**.
-2.  On the **Configure Domain Center** page, for **Enables detail domain logging**, select **Yes** to store detailed [[logs|logs]] that help diagnose domain-related issues. Detailed logging might cause performance issues.
+2.  On the **Configure Domain Center** page, for **Enables detail domain logging**, select **Yes** to store detailed logs that help diagnose domain-related issues. Detailed logging might cause performance issues.
 
     These logs refer to server-side logs in the syslog\_domain table. For information about viewing the logs, see View audits with warnings and failures.
 
@@ -135,8 +135,3 @@ Active audits periodically run or are queued to run, as scheduled. You can view 
 3.  To activate an audit, select the **Active** box and use the **Frequency** field to specify how often the audit runs.
 4.  Select **Update**.
 
-## Related
-
-- [[configure-domain-separation-audits|Configure audits]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

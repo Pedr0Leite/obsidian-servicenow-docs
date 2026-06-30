@@ -14,7 +14,7 @@ breadcrumb: [App Launcher, Setup task management, Configuring Employee Center Pr
 
 # Modify app launcher widget display
 
-Access all the useful applications from a unified application from the **Applications** widget from your [[employee-center-portal-overview|employee portal]]. You can see a list of related applications when you browse topics and launch the application.
+Access all the useful applications from a unified application from the **Applications** widget from your employee portal. You can see a list of related applications when you browse topics and launch the application.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sp\_admin
 
 ## About this task
 
-Using the [[web-application-employee-about|app launcher]] in [[employee-center-pro-landing|Employee Center Pro]], You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-application-employee-about.md).
+Using the app launcher in Employee Center Pro, You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-application-employee-about.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -113,9 +113,3 @@ Option to show the view from the available options:-   None
 
 After instance option configuration, your employees can access both custom and azure applications, manage the appearance of the widget, and access applications from topics.
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]

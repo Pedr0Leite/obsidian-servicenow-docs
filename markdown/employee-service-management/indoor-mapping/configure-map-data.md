@@ -14,7 +14,7 @@ breadcrumb: [Configure, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Configure your map instance data
 
-[[Indoor-mapping|Indoor Mapping]] provides a set of default parameters to display and configure all your maps.
+Indoor Mapping provides a set of default parameters to display and configure all your maps.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ Role required: map editor, map admin
 
         **Note:** Users must refer to OpenStreetMap license before using this in production.
 
-    -   [[indoor-mapping-properties|Indoor Mapping properties]]: For more information about how to set the configuration properties, see [Indoor Mapping properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-properties.md).
+    -   Indoor Mapping properties: For more information about how to set the configuration properties, see [Indoor Mapping properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-properties.md).
 
 **Parent Topic:**[Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md)
 
@@ -55,7 +55,3 @@ Role required: map editor, map admin
 
 **Next topic:**[Configure role-based access in Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/map-limited-editor.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[indoor-mapping-properties|Indoor Mapping properties]]

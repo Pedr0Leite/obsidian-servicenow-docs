@@ -32,7 +32,7 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 3.  From the Actions related list, select **New**.
 
-4.  On the [[action-form|Action form]], fill in the fields.
+4.  On the Action form, fill in the fields.
 
     For a description of the field names, see [Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/action-form.md).
 
@@ -48,6 +48,3 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[action-form|Action form]]

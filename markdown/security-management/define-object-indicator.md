@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Object-Indicator-Relationships**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Object-Indicator-Relationships**.
 
 2.  Click **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_ti.admin
     |-----|-----------|
     |**Object**|Select and define the object.|
     |**Type**|Specifies the object type based on the object you selected.|
-    |**Indicator**|Select the [[c_IoCs|indicators of compromise]].|
+    |**Indicator**|Select the indicators of compromise.|
     |**Relationship Direction**|Define the relationship direction whether it is direct or inverse.|
     |**Relationship Type**|A description that provides more details and context about the relationship type.|
     |**Source**|Specifies the threat source from which this record is created.|
@@ -39,11 +39,5 @@ Role required: sn\_ti.admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[[stix-relationships|Relationships]]
+**Parent Topic:**[Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/stix-relationships.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[c_IoCs|Indicators of compromise]]

@@ -14,13 +14,13 @@ breadcrumb: [Using Access Analyzer, Access Analyzer, Access Management]
 
 # Viewing previous search results in Access Analyzer
 
-View, reanalyze, or [[export|export]] results from previous searches.
+View, reanalyze, or export results from previous searches.
 
 ## Before you begin
 
 Role required: access\_analyzer\_admin
 
-**Note:** [[access-analyzer|Access Analyzer]] is a ServiceNow® Store product.
+**Note:** Access Analyzer is a ServiceNow® Store product.
 
 ## Procedure
 
@@ -42,12 +42,8 @@ Role required: access\_analyzer\_admin
 
     To export the results, click **Export**.
 
-3.  To view previous **Compare user access** results, click a link under **Compared [[users|users]]**.
+3.  To view previous **Compare user access** results, click a link under **Compared users**.
 
     \[Omitted image "access-analyzer-queries-compare.png"\] Alt text: Compare user access
 
-## Related
 
-- [[export|Export]]
-- [[access-analyzer|Access Analyzer]]
-- [[users|Users]]

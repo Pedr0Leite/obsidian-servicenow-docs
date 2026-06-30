@@ -34,7 +34,7 @@ In this example scenario, you apply XGBoost to both a classification solution an
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
 2.  Open a classification solution definition form.
 
@@ -86,6 +86,3 @@ In this example scenario, you apply XGBoost to both a classification solution an
 
 [Create and train a regression solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-regression-solution.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Security Incident Response, Security Incident
 
 # Troubleshooting Security Incident Response
 
-This section covers important troubleshooting tips and frequently asked questions related to [[sir-landing-page|Security Incident Response]].
+This section covers important troubleshooting tips and frequently asked questions related to Security Incident Response.
 
 ## Access Control Rules issues
 
@@ -28,6 +28,3 @@ For more information on Access Control Rules, see [Explore Access Control Lists]
 
 **Important:** If the **Admin overrides** option is unchecked for a security incident table, and if the Admin is able to access the security incident table, see [KB1444673](https://support.servicenow.com/nav_to.do?uri=kb_knowledge.do%3Fsys_id=806165f097143910dfd73dae2153af6b)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

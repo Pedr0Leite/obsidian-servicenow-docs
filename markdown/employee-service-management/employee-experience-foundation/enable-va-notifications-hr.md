@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery integration, Microsoft Teams Integration for Em
 
 # Enable Virtual Agent notifications for HR Service Delivery
 
-Configure system properties to enable [[va-notification-ta|Virtual Agent notifications]] in Microsoft Teams.
+Configure system properties to enable Virtual Agent notifications in Microsoft Teams.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ To configure LLM actionable provider notifications, refer to [Configure LLM base
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[va-notification-ta|Virtual Agent notifications]]

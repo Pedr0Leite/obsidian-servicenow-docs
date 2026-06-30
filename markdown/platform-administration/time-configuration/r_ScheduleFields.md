@@ -39,7 +39,7 @@ Time Zone
 </td><td>
 
 Time zone for the schedule. If you select **Floating**, the time zone is relative to whatever process is accessing the item at the time. -   For example, if a resource manager in Amsterdam sets a floating schedule for 8:00A.M. to 5:00P.M., a user in San Jose sees the schedule as 8:00 A.M. to 5:00 P.M.
--   When a schedule is defined in a specific time zone, users in different [[r_TimeZones|time zones]] see the schedule with their own time zone applied.
+-   When a schedule is defined in a specific time zone, users in different time zones see the schedule with their own time zone applied.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Type
 
 </td><td>
 
-Text label that describes the purpose of the schedule. You can also use one of these system terms to determine how to process certain [[c_UseSchedules|schedules]]: -   **Excluded**: Excludes time periods from SLA counts.
+Text label that describes the purpose of the schedule. You can also use one of these system terms to determine how to process certain schedules: -   **Excluded**: Excludes time periods from SLA counts.
 -   **Maintenance**: Specifies time periods where change management activities are allowed. A schedule containing maintenance schedule entries cannot also contain blackout schedule entries.
 -   **Blackout**: Excludes time periods from change management schedules. A schedule containing blackout schedule entries cannot also contain maintenance schedule entries.
 
@@ -85,7 +85,3 @@ Description of the schedule.
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[r_TimeZones|Time zones]]
-- [[c_UseSchedules|Schedules]]

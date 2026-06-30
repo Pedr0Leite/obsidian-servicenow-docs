@@ -28,7 +28,7 @@ Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
     A modal appears to explain ACLs. You can select **Got it** or **View skills without ACLs**.
 
@@ -36,7 +36,7 @@ Role required: sn\_skill\_builder.admin
 
     1.  Select the skill that you want to add an ACL to.
 
-    2.  Select the **Deployment and skill settings** tab and then select **Security [[controls|controls]]**.
+    2.  Select the **Deployment and skill settings** tab and then select **Security controls**.
 
     3.  Select **Add ACL**.
 
@@ -93,7 +93,3 @@ Select the roles that a user must have to execute the skill. **Note:** If you se
 
 [Configure skill deployment settings]()
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[controls|Controls]]

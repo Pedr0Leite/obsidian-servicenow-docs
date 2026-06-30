@@ -14,13 +14,13 @@ breadcrumb: [Career Assessment, Growth Experiences, HR Service Delivery, Employe
 
 # Exploring Career Assessment
 
-Explore the features of [[exam-engine|Career Assessment]].
+Explore the features of Career Assessment.
 
 ## Activating application
 
 You can activate the Career Assessment from the ServiceNow store. This application includes demo data and activates related plugins if they aren’t already active.
 
-**Note:** Career Assessment is available with the [[employee-center-landing-page|Employee Center]] application. Some of the features of [[exploring-learning-exp|Learning]] work only when the [[hr-service-delivery|HR Service Delivery]] and [[employee-journey-management|Employee Journey Management]] applications are activated.
+**Note:** Career Assessment is available with the Employee Center application. Some of the features of Learning work only when the HR Service Delivery and Employee Journey Management applications are activated.
 
 ## Request apps on the Store
 
@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Licensing
 
-Career Assessment leverages the new Talent Development licensing module. This licensing feature allows registered ServiceNow applications to grant users licenses for the apps based on [[emp-slate-employee-profile|employee profile]] and other additional criteria.
+Career Assessment leverages the new Talent Development licensing module. This licensing feature allows registered ServiceNow applications to grant users licenses for the apps based on employee profile and other additional criteria.
 
 ## Configuring data
 
@@ -44,16 +44,7 @@ For more information, see [Using Career Assessment](https://raw.githubuserconten
 
 ## Career Assessment integration with Learning
 
-Career Assessment integrates with Learning to improve assessment based learning. Learners can track their learnings and assess their knowledge using the quizzes available for different courses that they take on [[overview-lxp|My Learning]].
+Career Assessment integrates with Learning to improve assessment based learning. Learners can track their learnings and assess their knowledge using the quizzes available for different courses that they take on My Learning.
 
 For more information, see [Using My Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md).
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-journey-management|Employee Journey Management]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[overview-lxp|My Learning]]

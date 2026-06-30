@@ -28,11 +28,11 @@ A new asset record is created when all of the following are true:
 -   The audit record's **Scan method** is set to **Multi scan**.
 -   During asset scanning, a new asset is detected that doesn’t exist in the ServiceNow® instance,
 
-For this new asset record, the application can’t automatically determine the **Model category** and **Model** field values. These fields are initially set to **Unknown Model Category** and **Unknown Model**. An asset remediation task is then generated to notify you that an asset record has been created with an unknown model category and an unknown product model. In the [[using-eam-workspace|Enterprise Asset Workspace]], you can access the open remediation task, update the asset record as required, and then close the remediation task.
+For this new asset record, the application can’t automatically determine the **Model category** and **Model** field values. These fields are initially set to **Unknown Model Category** and **Unknown Model**. An asset remediation task is then generated to notify you that an asset record has been created with an unknown model category and an unknown product model. In the Enterprise Asset Workspace, you can access the open remediation task, update the asset record as required, and then close the remediation task.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **[[inventory-view-am|Inventory view]]**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Inventory view**.
 
 2.  Select the **Overview** tab.
 
@@ -78,7 +78,3 @@ For this new asset record, the application can’t automatically determine the *
 
 [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]

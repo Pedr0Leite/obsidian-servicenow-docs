@@ -28,7 +28,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Workplace spaces**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Workplace spaces**.
 
 2.  Click **New**.
 
@@ -88,6 +88,3 @@ The space is added and is available for reservation.
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

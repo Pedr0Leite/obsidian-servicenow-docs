@@ -43,8 +43,5 @@ After a metric data task is closed, the ESG administrator can modify the metric 
 
 The metric data task value is overridden and the same value is updated in the metric data.
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[using-grc-metrics|using grc metrics]]

@@ -14,13 +14,13 @@ breadcrumb: [Set up Microsoft Outlook integration in Career Conversations, Insta
 
 # Configure the webhook registry of Microsoft Exchange Online spoke in Career Conversations
 
-Configure callback URL for communication between the [[egd-activities-conversations-module|Career Conversations]] application and Microsoft Exchange Online calendar.
+Configure callback URL for communication between the Career Conversations application and Microsoft Exchange Online calendar.
 
 ## Before you begin
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -44,7 +44,3 @@ Role required: admin
 
 **Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/outlook-integration-cc.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery identifiers
 
-After [[r-discovery|Discovery]] classifies a configuration item \(CI\), it uses identifiers to determine if the device already exists in the Configuration Management Database \(CMDB\).
+After Discovery classifies a configuration item \(CI\), it uses identifiers to determine if the device already exists in the Configuration Management Database \(CMDB\).
 
 Discovery launches special identity probes that accumulate identification data for each device and feed that data into the identifiers, which determine the action that Discovery must take for each device. Identifiers accurately determine the identity of the device to avoid the creation of duplicate CIs. This identification step only takes place for the Configuration item type of discovery, not for the other types of discovery.
 
@@ -139,7 +139,7 @@ You can control how Discovery handles duplicate CIs with properties installed wi
 
 All instances use identifiers from the CMDB Identification and Reconciliation framework. Upgrades from pre-Geneva versions still preserve the legacy identifiers, but you can switch to the new identifiers using a property: `glide.discovery.use_cmdb_identifiers`. If you upgraded from a pre-Geneva version, you must manually add this property and set it to `true` to use the new identifiers. If you upgraded from Geneva or later releases, this property is available in the System Properties \[sys\_properties\] table. To preserve functionality in custom legacy identifiers, convert them to the new CMDB identifier rules format before enabling this property. The system does not reconfigure your custom identifiers to the new framework automatically.
 
-**Note:** When [[c_ServiceMappingOverview|Service Mapping]] is active, the new identifiers from the CMDB Identification and Reconciliation framework are always used regardless of the property value.
+**Note:** When Service Mapping is active, the new identifiers from the CMDB Identification and Reconciliation framework are always used regardless of the property value.
 
 -   **[How Discovery identifiers work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_HowDiscoveryIdentifiersWork.md)**  
 When Discovery has determined the device's class, it launches an identity probe that is configured to run one or more commands with a single authentication.
@@ -152,7 +152,3 @@ As Discovery finds CIs, their serial numbers are listed in the Serial Number \[c
 
 **Parent Topic:**[Configuring Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryConfiguration.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

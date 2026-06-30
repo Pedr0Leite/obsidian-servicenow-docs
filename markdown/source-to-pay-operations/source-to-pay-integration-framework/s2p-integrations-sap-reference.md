@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay integration with SAP, Integration with third-party ap
 
 # Source-to-Pay integrations with SAP reference
 
-Reference topics provide additional information on integrating [[source-to-pay-operations-overview|Source-to-Pay Operations]] with SAP integrations, including primary data, fixed assets, purchase orders, [[receipts|receipts]], [[invoices|invoices]], and tax integration between Source-to-Pay and ERP systems.
+Reference topics provide additional information on integrating Source-to-Pay Operations with SAP integrations, including primary data, fixed assets, purchase orders, receipts, invoices, and tax integration between Source-to-Pay and ERP systems.
 
 ## Set system properties for SAP Integrations
 
@@ -29,14 +29,9 @@ To access the system properties list, perform the following steps:
 
 1.  Navigate to **All**.
 2.  Search for `sys_properties_list.do` and open the system properties list.
-3.  Look up [[master-data-integration|Primary Data Integration]] with SAP using the filter option.
+3.  Look up Primary Data Integration with SAP using the filter option.
 4.  The following system properties are available as a part of the base system.
 
     **Note:** You can modify these values only if necessary.
 
-## Related
 
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[master-data-integration|Primary data integration]]

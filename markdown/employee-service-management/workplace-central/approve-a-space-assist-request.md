@@ -27,7 +27,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 ## About this task
 
-As a workplace manager, you can approve a space assist request raised by a user who is assigned to you. The [[workplace-safety-mgmt-hr|Workplace Core]] Approval definition, provides the **Space Recommendation Approval** by default to perform space request approval. The approval definition consists of a **Space Recommendation Approval Config** performer criteria, in which all the workplace managers are configured to approve space assist requests.
+As a workplace manager, you can approve a space assist request raised by a user who is assigned to you. The Workplace Core Approval definition, provides the **Space Recommendation Approval** by default to perform space request approval. The approval definition consists of a **Space Recommendation Approval Config** performer criteria, in which all the workplace managers are configured to approve space assist requests.
 
 ## Procedure
 
@@ -71,11 +71,7 @@ As a workplace manager, you can approve a space assist request raised by a user 
 
 [View workplace scenarios]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Manage reservation waitlist records]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

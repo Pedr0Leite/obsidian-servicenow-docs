@@ -24,7 +24,7 @@ Role required: HR admin \[sn\_hr\_core.admin\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[labor-unions|Labor Unions]]** &gt; **Union Contacts**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Labor Unions** &gt; **Union Contacts**.
 
 2.  Select **New**.
 
@@ -92,7 +92,3 @@ The contact person's role within the labor union.
 
 **Parent Topic:**[Components installed with Labor Unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-setting-up.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[labor-unions|Labor unions]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Configure Journeys for Now Mobile
 
-Configure [[jny-dsgnr-landing-page-1|Journey designer]] in Now Mobile to enable managers, mentors, and employees to interact with their journeys from their mobile devices.
+Configure Journey designer in Now Mobile to enable managers, mentors, and employees to interact with their journeys from their mobile devices.
 
 ## Before you begin
 
 Role required: sn\_jny.admin
 
-Plugins: Journey designer \(sn\_jny\), [[journey-accelerator-1|Journey Accelerator]] \(sn\_ja\), [[mobile-employee-experience-for-hr-service-delivery|HR Service Delivery for mobile]] \(sn\_hr\_mobile\)
+Plugins: Journey designer \(sn\_jny\), Journey Accelerator \(sn\_ja\), HR Service Delivery for mobile \(sn\_hr\_mobile\)
 
 Assign the Journey to the employee and publish the Journey. See [Create a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-create-journey.md)
 
@@ -39,8 +39,3 @@ For more information on Journeys, see [Journey designer]().
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[mobile-employee-experience-for-hr-service-delivery|HR Service Delivery for mobile]]

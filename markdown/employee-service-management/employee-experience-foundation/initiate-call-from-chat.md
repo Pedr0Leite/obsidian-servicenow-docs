@@ -42,7 +42,7 @@ Role required: itil, itil\_admin
 
 6.  After the conversation ends, click \[Omitted image "leave-button-ms-teams.png"\] Alt text: Leave button in Microsoft Teams to leave the conference call.
 
-    All the information is logged in the [[activity-lxp|Activity]] \(Work notes\). You can view the child interaction, and the chat conversation occurred in Microsoft Teams.
+    All the information is logged in the Activity \(Work notes\). You can view the child interaction, and the chat conversation occurred in Microsoft Teams.
 
     \[Omitted image "activity-incident-agent-workspace.png"\] Alt text: Activity in incident in agent workspace.
 
@@ -55,6 +55,3 @@ Role required: itil, itil\_admin
 
 **Parent Topic:**[Agent actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/agent-sn-ms-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

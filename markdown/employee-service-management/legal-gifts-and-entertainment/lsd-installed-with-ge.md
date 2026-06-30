@@ -14,7 +14,7 @@ breadcrumb: [Reference, Gifts and Entertainment Compliance, Legal Service Delive
 
 # Components installed with Gifts and Entertainment Compliance
 
-Several types of components are installed with installation of the [[lsd-ge-landing-page|Gifts and Entertainment Compliance]], including tables and user roles.
+Several types of components are installed with installation of the Gifts and Entertainment Compliance, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -97,6 +97,3 @@ Stores gifts and entertainment policy records.
 </td></tr></tbody>
 </table>**Parent Topic:**[Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]

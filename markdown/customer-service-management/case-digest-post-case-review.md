@@ -18,7 +18,7 @@ Use a post case review to capture details about a resolved case, including a sum
 
 Customer service agents can create post case reviews for cases that are in the **Resolved** state.
 
-Agents can select the **Create Post Case Review** UI action to create a post case review document. This action creates a case action summary record and adds the record to the Related Records section on the [[r_CustomerServiceCaseForm|Case form]] in the **Post Case Review** field.
+Agents can select the **Create Post Case Review** UI action to create a post case review document. This action creates a case action summary record and adds the record to the Related Records section on the Case form in the **Post Case Review** field.
 
 ## Publishing a post case review
 
@@ -96,12 +96,7 @@ The system administrator can enable post case review documents for major cases b
 **Related topics**  
 
 
-[[create-case-review-document|Create a post case review]]
+[Create a post case review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-document.md)
 
-[[create-case-review-document-mim|Create a post case review for a major case]]
+[Create a post case review for a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-document-mim.md)
 
-## Related
-
-- [[create-case-review-document|Create a post case review]]
-- [[create-case-review-document-mim|Create a post case review for a major case]]
-- [[r_CustomerServiceCaseForm|Case form]]

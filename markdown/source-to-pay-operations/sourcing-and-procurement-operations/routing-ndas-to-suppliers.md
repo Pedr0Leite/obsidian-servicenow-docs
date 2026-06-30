@@ -16,11 +16,11 @@ breadcrumb: [Working with playbooks, Use, Sourcing and Procurement Operations, F
 
 Reduce manual effort by providing your procurement specialist with a single place to perform all the necessary actions when creating and routing Non-Disclosure Agreements \(NDAs\) to suppliers and third parties.
 
-As a procurement specialist, you can easily define your NDA content and update signer details with the help of a document template that is provided by default with the Document Template plugin \[sn\_doc\], which is added as a dependency on [[psd-overview|Procurement Case Management]] \[sn\_spend\_psd\]. The signer details are stored in the Signers table.​
+As a procurement specialist, you can easily define your NDA content and update signer details with the help of a document template that is provided by default with the Document Template plugin \[sn\_doc\], which is added as a dependency on Procurement Case Management \[sn\_spend\_psd\]. The signer details are stored in the Signers table.​
 
-**Note:** You must use the November 2023 version of the Document Template plugin \[sn\_doc\] for using the November 2023 versions of the Procurement Case Management and Playbooks for [[psm-overview|Sourcing and Procurement Operations]] plugins.
+**Note:** You must use the November 2023 version of the Document Template plugin \[sn\_doc\] for using the November 2023 versions of the Procurement Case Management and Playbooks for Sourcing and Procurement Operations plugins.
 
-Further, procurement specialists can easily​ route the NDAs to suppliers and third parties for signing via DocuSign integration, review the signed documents, and close the procurement case of type Send NDA for Signature, from a designated playbook in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Further, procurement specialists can easily​ route the NDAs to suppliers and third parties for signing via DocuSign integration, review the signed documents, and close the procurement case of type Send NDA for Signature, from a designated playbook in Source-to-Pay Workspace.
 
 Details of the workflow are provided here.
 
@@ -35,14 +35,14 @@ Details of the workflow are provided here.
 6.  In the Create a new case dialog box, select **Send NDA for Signature**.
 7.  Select **Create Case**.
 
-    **Note:** During a procurement request, when a valid NDA isn’t available for the selected [[supplier|supplier]], a procurement case of type Send NDA for Signature is automatically created.
+    **Note:** During a procurement request, when a valid NDA isn’t available for the selected supplier, a procurement case of type Send NDA for Signature is automatically created.
 
 8.  Open the case in Source-to-Pay Workspace, prepare the NDA, and send it for signing to the suppliers and third parties from a playbook.​ See [Send NDA to suppliers for signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/prepare-nda-send-to-signers.md).
 
     **Note:** If the **Playbook** tab isn’t visible in Source-to-Pay Workspace, verify that the Document Template Integration with DocuSign application is installed correctly.
 
 9.  Sign the NDA.
-    -   For external third-party suppliers, [directly sign from the email notification](https://www.youtube.com/watch?v=sFOGy2UwbJk) or from [[supplier-central|Supplier Collaboration Portal]]. For more information, see [Using Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-central.md).
+    -   For external third-party suppliers, [directly sign from the email notification](https://www.youtube.com/watch?v=sFOGy2UwbJk) or from Supplier Collaboration Portal. For more information, see [Using Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-central.md).
     -   For internal supplier representatives, from Employee Center. For more information, see [Sign a document using DocuSign from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sign-document-task-ec.md).
 10. Review the signatures from the playbook in Source-to-Pay Workspace, notify the user, and close the case. See [Send NDA to suppliers for signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/prepare-nda-send-to-signers.md).
 
@@ -64,9 +64,9 @@ As a procurement specialist, you can use playbooks to prepare a Non-Disclosure A
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a return request in playbook]()
 
@@ -84,12 +84,3 @@ As a procurement specialist, you can use playbooks to prepare a Non-Disclosure A
 
 [Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]

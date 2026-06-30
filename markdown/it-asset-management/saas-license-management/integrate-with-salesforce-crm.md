@@ -14,11 +14,11 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Salesforce CRM
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Salesforce customer relationship management \(CRM\) services enable you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with the Salesforce customer relationship management \(CRM\) services enable you to track your software subscriptions and to reclaim unused licenses.
 
 **Note:**
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], use SaaS Playbook for integrating your ServiceNow instance with the Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/playbook-salesforce-crm.md).
+If you’re using Software Asset Workspace, use SaaS Playbook for integrating your ServiceNow instance with the Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/playbook-salesforce-crm.md).
 
 The supported Salesforce CRM services include
 
@@ -134,7 +134,7 @@ Application with grant type **Authorization code**:
 
 For additional information on the Salesforce CRM services, see the [Salesforce Developer Documentation](https://developer.salesforce.com/docs/).
 
-The **Client Credentials** grant type is supported in Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) 16.1.0, Salesforce CRM application 2.0.2, and Salesforce CRM Spoke 2.4.0 version onwards.
+The **Client Credentials** grant type is supported in Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 16.1.0, Salesforce CRM application 2.0.2, and Salesforce CRM Spoke 2.4.0 version onwards.
 
 ## Register a Salesforce application
 
@@ -360,7 +360,7 @@ Create an integration profile for the first Salesforce organization for which yo
 
 #### Before you begin
 
-To [[playbook-salesforce-crm|create a Salesforce CRM integration]] profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
+To create a Salesforce CRM integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
@@ -397,7 +397,7 @@ Action
 
 </td></tr><tr><td id="d189037e1256">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -574,7 +574,7 @@ After you publish the integration profile, your ServiceNow instance begins retri
 
 #### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -868,11 +868,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[playbook-salesforce-crm|Create a Salesforce CRM integration]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

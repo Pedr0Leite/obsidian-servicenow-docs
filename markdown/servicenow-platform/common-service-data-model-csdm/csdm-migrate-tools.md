@@ -18,7 +18,7 @@ Several features help you to promote accuracy and completeness for the process o
 
 ## Before you perform the life-cycle synchronization process
 
--   **[[csdm-lifecycle-status-auto-updated|Legacy status values that are auto-updated]]**
+-   **Legacy status values that are auto-updated**
 
     Several legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields. For more information, see [Legacy status values that are auto-updated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-lifecycle-status-auto-updated.md).
 
@@ -26,7 +26,7 @@ Several features help you to promote accuracy and completeness for the process o
 
     Use the fix script from the ServiceNow Community to identify table dependencies. See [Migrating into CSDM identifying table dependencies](https://community.servicenow.com/community?id=community_article&sys_id=a777f564db9dbfc4d58ea345ca961996).
 
--   **[[cmdb-data-foundations-dashboard|CMDB Data Foundations dashboard]]**
+-   **CMDB Data Foundations dashboard**
 
     Navigate to **All** &gt; **Configuration** and then select **CMDB Data Foundations Dashboard**.
 
@@ -35,7 +35,7 @@ Several features help you to promote accuracy and completeness for the process o
     -   Each metric includes a link to a remediation playbook with background and plays for remediation.
     See [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 
--   **[[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]**
+-   **CSDM Data Foundations dashboard**
 
     Navigate to **All** &gt; **Configuration** and then select **CSDM Data Foundations Dashboard**.
 
@@ -47,7 +47,7 @@ Several features help you to promote accuracy and completeness for the process o
 
 -   **Migrating nonconforming CIs into the correct CSDM tables**
 
-    If you already have CSDM data but not in the recommended tables, you can run a script to identify dependencies that you may have created on the nonconforming tables. The results of the script identify referenced dependencies such as reports, UI scripts, business rules, and other [[reference-document-management|references]] for a specified table \(editable in the script\). See this [post on the Now Community site](https://www.servicenow.com/community/common-service-data-model/migrating-into-csdm-identifying-table-dependencies/ta-p/2308617)
+    If you already have CSDM data but not in the recommended tables, you can run a script to identify dependencies that you may have created on the nonconforming tables. The results of the script identify referenced dependencies such as reports, UI scripts, business rules, and other references for a specified table \(editable in the script\). See this [post on the Now Community site](https://www.servicenow.com/community/common-service-data-model/migrating-into-csdm-identifying-table-dependencies/ta-p/2308617)
 
 -   **The life-cycle synchronization process presents the discrepancy report**
 
@@ -61,9 +61,3 @@ Several features help you to promote accuracy and completeness for the process o
 
 [Enabling life-cycle synchronization from legacy to asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cycle-standard-values.md)
 
-## Related
-
-- [[csdm-lifecycle-status-auto-updated|Legacy status values that are auto-updated]]
-- [[cmdb-data-foundations-dashboard|CMDB Data Foundations dashboard]]
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]
-- [[reference-document-management|References]]

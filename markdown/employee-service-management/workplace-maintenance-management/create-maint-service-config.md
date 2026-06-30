@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Maintenance Management, Workplace Service Deliver
 
 # Create plan service configuration
 
-Configure a plan service to associate [[workplace-services|workplace services]] and set scheduling conditions for a plan record.
+Configure a plan service to associate workplace services and set scheduling conditions for a plan record.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Preventive Maintenance** &gt; **Plan Service Configurations**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Preventive Maintenance** &gt; **Plan Service Configurations**.
 
 2.  Select **New**.
 
@@ -87,7 +87,3 @@ Role required: admin
 
 **Next topic:**[Workplace maintenance cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-cases.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-central-feat|Workplace Central]]

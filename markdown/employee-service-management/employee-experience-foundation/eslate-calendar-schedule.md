@@ -15,17 +15,17 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # Calendar and schedule management
 
-Calendar and schedule management in [[employee-slate-landing-page|Employee Slate]] includes calendar widgets and AI-powered scheduling. Features include an AI assistant for scheduling tasks, a My Calendar widget for meeting access, and an Upcoming Holiday widget based on employee work location.
+Calendar and schedule management in Employee Slate includes calendar widgets and AI-powered scheduling. Features include an AI assistant for scheduling tasks, a My Calendar widget for meeting access, and an Upcoming Holiday widget based on employee work location.
 
 Employee Slate provides time-aware information through the following complementary capabilities. The My Calendar widget in Canvas displays upcoming meetings with direct join functionality. The Upcoming Holiday widget displays the next relevant holiday on the home page. These capabilities work together to support both active scheduling and passive time awareness.
 
 ## Upcoming Holiday widget
 
-The Upcoming Holiday widget appears on the [[emp-slate-home-page|Employee Slate home]] page and helps employees stay informed about upcoming time off. Unlike the My Calendar widget which focuses on daily meetings, this widget specifically highlights company holidays relevant to each employee work location.
+The Upcoming Holiday widget appears on the Employee Slate home page and helps employees stay informed about upcoming time off. Unlike the My Calendar widget which focuses on daily meetings, this widget specifically highlights company holidays relevant to each employee work location.
 
 The Upcoming Holiday widget automatically determines which holiday to display through the following process:
 
--   Identifies the work location from the [[emp-slate-employee-profile|employee profile]].
+-   Identifies the work location from the employee profile.
 -   Searches the holiday calendar table for the next upcoming holiday matching that location.
 -   Displays the holiday name, date, and day of the week in a clear format.
 -   Shows only the most immediate upcoming holiday relevant to the employee.
@@ -51,8 +51,3 @@ Meeting data synchronizes automatically based on administrator-configured interv
 
 **Note:** Synchronization frequency is controlled by administrators and determines how often the widget updates with new or modified meetings from external calendar systems. Employees can use the refresh option for immediate updates when needed.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-home-page|Employee Slate home]]
-- [[emp-slate-employee-profile|Employee profile]]

@@ -30,7 +30,7 @@ In the australia release, the **Conduct a risk assessment** and **Conduct a tier
 
 2.  In the navigation filter, enter **sn\_slm\_case\_list.do**.
 
-    The [[supplier|Supplier]] Cases page opens listing all the supplier cases.
+    The Supplier Cases page opens listing all the supplier cases.
 
 3.  Select **New**.
 
@@ -70,6 +70,3 @@ The deprecated case types now appear in the **Case type** field on the **Create 
 
 [Processing the skipped supplier catalog item records after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/process-skipped-records-upgrade.md)
 
-## Related
-
-- [[supplier|Supplier]]

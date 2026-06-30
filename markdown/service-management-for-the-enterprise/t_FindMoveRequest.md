@@ -20,7 +20,7 @@ Role required: move\_basic
 
 ## About this task
 
-The Move tab is only visible when the [[c_FacMoveMgmt|Facilities Move Management]] plugin \(com.snc.facilities\_service\_automation.move\) has been activated.
+The Move tab is only visible when the Facilities Move Management plugin \(com.snc.facilities\_service\_automation.move\) has been activated.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ The Move tab is only visible when the [[c_FacMoveMgmt|Facilities Move Management
 
 2.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]].
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_WorkbenchConfiguration.md).
 
     \[Omitted image "CampusFloorSelection.png"\] Alt text: Campus and floor selection
 
@@ -107,10 +107,5 @@ Click the pin \(\[Omitted image "PinIcon.png"\] Alt text: pin icon\) icon.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_FacilitiesWorkbench|Facilities Workbench]]
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesWorkbench.md)
 
-## Related
-
-- [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]]
-- [[c_FacilitiesWorkbench|Facilities Workbench]]
-- [[c_FacMoveMgmt|Facilities move management]]

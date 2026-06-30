@@ -16,11 +16,11 @@ Set your action button to open a custom modal by defining the payload parameters
 
 ## Before you begin
 
--   [[create-a-new-form-action|Create a form action]]
+-   [Create a form action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)
 -   Open your record page in UIB or create a page variant in UIB
--   [[design-a-page-variant-in-uib|Design your page variant in UIB]]
--   [[configure-a-page-variant-as-a-modal-in-uib|Configure your page variant as a modal in UIB]]
--   [[create-a-ux-add-on-event-mapping|Create a UX add-on event mapping]]
+-   [Design your page variant in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/design-a-page-variant-in-uib.md)
+-   [Configure your page variant as a modal in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-a-page-variant-as-a-modal-in-uib.md)
+-   [Create a UX add-on event mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-ux-add-on-event-mapping.md)
 
 Role required: admin
 
@@ -54,9 +54,4 @@ Role required: admin
 
     Your button opens the custom modal.
 
-## Related
 
-- [[create-a-new-form-action|Create a form action button]]
-- [[design-a-page-variant-in-uib|Design a page variant in UIB]]
-- [[configure-a-page-variant-as-a-modal-in-uib|Configure a page variant as a modal in UIB]]
-- [[create-a-ux-add-on-event-mapping|Create a UX add-on event mapping]]

@@ -26,7 +26,7 @@ You must perform the following scheduled jobs to detect firmware vulnerabilities
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup** &gt; **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]** &gt; **Hardware Vulnerability Assessment** &gt; **Scheduled Vulnerability Assessment Jobs** &gt; **Configure** &gt; **Scheduled Jobs**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **Operational Technology Vulnerability Response** &gt; **Hardware Vulnerability Assessment** &gt; **Scheduled Vulnerability Assessment Jobs** &gt; **Configure** &gt; **Scheduled Jobs**.
 
     **Important:**
 
@@ -56,7 +56,3 @@ You must perform the following scheduled jobs to detect firmware vulnerabilities
 
 [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

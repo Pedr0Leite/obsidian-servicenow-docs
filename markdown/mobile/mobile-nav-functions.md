@@ -29,13 +29,10 @@ Use navigation functions to transition from your current screen to another scree
 
     Use global context navigation functions in situation where the navigation does not depend on information from a record. For example, to navigate to a specific screen or launcher screen, you can use a global context navigation function. For examples of global context navigation configuration, see:
 
-    -   [[sg-config-navigation-function|Configure a navigation to a screen]]
-    -   [[sg-launcher-nav-example|Configure navigation to a launcher screen]]
+    -   [Configure a navigation to a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-navigation-function.md)
+    -   [Configure navigation to a launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-nav-example.md)
 -   **Record Context**
 
     Use record context navigation functions in situations where the navigation depends on information from a record. For example, you want to navigate from the **Assigned to** field in an incident record to the assignee's user record. In this case, you would use a record context navigation.
 
-## Related
 
-- [[sg-config-navigation-function|Configure a navigation to a screen]]
-- [[sg-launcher-nav-example|Configure navigation to a launcher screen]]

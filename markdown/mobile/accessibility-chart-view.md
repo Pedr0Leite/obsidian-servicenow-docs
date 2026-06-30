@@ -24,7 +24,7 @@ The **Chart accessibility** button gives you the option to view charts in either
 
 ## Procedure
 
-1.  Tap More \(\[Omitted image "more-icon.png"\] Alt text: more icon\) in the [[sg-mobile-tab-bar|navigation bar]].
+1.  Tap More \(\[Omitted image "more-icon.png"\] Alt text: more icon\) in the navigation bar.
 
 2.  Tap Settings \(\[Omitted image "settings.png"\] Alt text: Setting icon.\).
 
@@ -41,6 +41,3 @@ Select the display option best suited for your requirements.
 
 \[Omitted image "access-bar-pie-app-launch.png"\] Alt text: Black and white patterns illustrated in a line chart and bar chart in accessibility mode.
 
-## Related
-
-- [[sg-mobile-tab-bar|Navigation bar]]

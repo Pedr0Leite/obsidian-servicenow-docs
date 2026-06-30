@@ -14,7 +14,7 @@ breadcrumb: [Notify flows, Notify reference, Notify, Manage service capabilities
 
 # Create a custom Notify subflow
 
-Create your own custom flows to use in [[notify-landing-page|Notify]] using Workflow Studio.
+Create your own custom flows to use in Notify using Workflow Studio.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ In order to use your workflow, you can test and map the subflow to a Notify numb
 
 **Parent Topic:**[Notify flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-flow-designer.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

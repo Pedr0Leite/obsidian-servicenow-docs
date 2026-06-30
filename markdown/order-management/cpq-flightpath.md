@@ -14,9 +14,9 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 Flightpath keeps a record of rule engine activity and field changes in real time, helping administrators analyze system behavior and troubleshoot complex configuration flows with pause and restart options.
 
-Flightpath helps administrators understand how the [[rules_101|rules]] engine responds to end-user inputs. When recording, Flightpath keeps track of:
+Flightpath helps administrators understand how the rules engine responds to end-user inputs. When recording, Flightpath keeps track of:
 
--   Rules engine responses \(rules run and [[fields|fields]] changed\) to end-user input
+-   Rules engine responses \(rules run and fields changed\) to end-user input
 -   Computation time for each rules engine run
 
 To help troubleshoot long user flows, the administrator can pause Flightpath and reinitiate recording any number of times.
@@ -29,13 +29,13 @@ The following video demonstrates the Flightpath feature tracking rules engine re
 
 ## Prerequisites
 
--   Salesforce-integrated [[use-cases|use cases]]:
+-   Salesforce-integrated use cases:
 
     CPQ environment Explorer 07.22 or later.
 
     Salesforce Logik.io Managed Package version 1.2 or greater. Navigation in Salesforce: Admin Setup &gt; Apps &gt; Packaging &gt; Installed Packages &gt; CPQ Managed Package
 
-    The Salesforce administrator must add the `LGK FlightPath_c` field to the Quote Line Editor field set \(Salesforce: Admin Setup &gt; Object Manager &gt; Quote &gt; Field [[cpq-sets|Sets]] &gt; Line Editor\). Place the Flightpath field in the field set. Limit its visibility to the appropriate administrator roles.
+    The Salesforce administrator must add the `LGK FlightPath_c` field to the Quote Line Editor field set \(Salesforce: Admin Setup &gt; Object Manager &gt; Quote &gt; Field Sets &gt; Line Editor\). Place the Flightpath field in the field set. Limit its visibility to the appropriate administrator roles.
 
 -   Headless/eCommerce use cases:
 
@@ -71,9 +71,3 @@ The following video demonstrates the Flightpath feature tracking rules engine re
         -   available
         -   active
 
-## Related
-
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[use-cases|Use cases]]
-- [[cpq-sets|Sets]]

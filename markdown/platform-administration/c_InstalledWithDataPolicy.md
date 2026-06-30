@@ -12,7 +12,7 @@ breadcrumb: [Data policy, Administer, Field administration, Forms, fields, and l
 
 # Installed with data policy
 
-[[c_DataPolicy|Data policy]] includes several components that are installed on the instance.
+Data policy includes several components that are installed on the instance.
 
 ## Tables
 
@@ -27,7 +27,7 @@ The **System Policy** &gt; **Data Policies** module displays a list of all data 
 
 ## Roles
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## Data Policy Administrator\[data\_policy\_admin\]
 
@@ -49,7 +49,3 @@ None.
 
 None.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[c_DataPolicy|Data policy]]

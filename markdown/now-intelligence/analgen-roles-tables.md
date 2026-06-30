@@ -43,11 +43,7 @@ sn\_query\_gen.user
 </td></tr></tbody>
 </table>## Tables installed
 
-Data visualization generation does not include any tables of its own. However, it relies on the Query Generation back end, which does include several tables. For more information, see [[query-generation|Query Generation]].
+Data visualization generation does not include any tables of its own. However, it relies on the Query Generation back end, which does include several tables. For more information, see [Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation.md).
 
-**Parent Topic:**[[analgen-reference|Reference for dashboard and visualization skills]]
+**Parent Topic:**[Reference for dashboard and visualization skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analgen-reference.md)
 
-## Related
-
-- [[query-generation|Query Generation]]
-- [[analgen-reference|Reference for dashboard and visualization skills]]

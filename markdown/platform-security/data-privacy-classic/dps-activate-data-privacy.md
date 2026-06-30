@@ -14,13 +14,13 @@ breadcrumb: [Data privacy, Data Privacy, Platform Privacy]
 
 # Activate data privacy
 
-[[data-privacy-landing|Data Privacy]] includes [[data-classification|data classification]] and anonymization and is installed from the ServiceNow Store.
+Data Privacy includes data classification and anonymization and is installed from the ServiceNow Store.
 
 ## Before you begin
 
-To use [[dps-data-anonymization|data anonymization]], [[data-privacy-classic|Data Privacy \(Classic\)]] must first be activated with the [[servicenow-vault-landing|ServiceNow Vault]] entitlement. See [Activate data privacy \(Classic\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/install-data-privacy.md) for additional information.
+To use data anonymization, Data Privacy \(Classic\) must first be activated with the ServiceNow Vault entitlement. See [Activate data privacy \(Classic\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/install-data-privacy.md) for additional information.
 
-**Note:** Installing the Data Privacy Store App will auto install the [[dds-data-discovery|Data Discovery Store]] App, Data Privacy \(Classic\) plug-in, and the Data Classification plugin.
+**Note:** Installing the Data Privacy Store App will auto install the Data Discovery Store App, Data Privacy \(Classic\) plug-in, and the Data Classification plugin.
 
 Role required: admin
 
@@ -28,9 +28,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All** &gt; **Data Privacy**.
 
-2.  Find the application using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the application using the filter criteria and search bar.
 
-    You can search for the application by its name or ID. If you cannot find an application, you may have to [[c_requestAPI|request]] it from the ServiceNow Store.
+    You can search for the application by its name or ID. If you cannot find an application, you may have to request it from the ServiceNow Store.
 
     Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -48,13 +48,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[data-privacy-landing|Data Privacy]]
-- [[data-classification|Data Classification]]
-- [[dps-data-anonymization|Data anonymization]]
-- [[data-privacy-classic|Data privacy \(Classic\)]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[dds-data-discovery|Data Discovery Store]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

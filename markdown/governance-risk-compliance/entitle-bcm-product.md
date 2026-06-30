@@ -51,8 +51,5 @@ Individuals performing entitlement must have a Now Support account and have perm
     You are now ready to install the application.
 
 
-**Parent Topic:**[[bcm-and-store|Business Continuity Management and ServiceNow Store]]
+**Parent Topic:**[Business Continuity Management and ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-and-store.md)
 
-## Related
-
-- [[bcm-and-store|Business Continuity Management and ServiceNow Store]]

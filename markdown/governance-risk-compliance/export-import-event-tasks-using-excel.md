@@ -21,11 +21,11 @@ Role required: sn\_bcm.core\_viewer
 
 ## About this task
 
-The export and import feature is available from the Event tasks related list on any event record in the Business Continuity Workspace. It includes exercise events and [[crisis-management-uib|crisis events]]. The Export and Import actions are grouped together in the related list action bar. Use this procedure when you want to reassign event tasks to different owners in bulk. Use it when you have to update dates and states across many event tasks in a single edit.
+The export and import feature is available from the Event tasks related list on any event record in the Business Continuity Workspace. It includes exercise events and crisis events. The Export and Import actions are grouped together in the related list action bar. Use this procedure when you want to reassign event tasks to different owners in bulk. Use it when you have to update dates and states across many event tasks in a single edit.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select the exercise event.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select the exercise event.
 
 2.  Open the event record that contains the event tasks you want to update.
 
@@ -83,16 +83,10 @@ The export and import feature is available from the Event tasks related list on 
 8.  Save the Microsoft Excel file after completing your edits.
 
 
-**Parent Topic:**[[using-export-import-feature-event-tasks|Importing and exporting event tasks in Microsoft Excel]]
+**Parent Topic:**[Importing and exporting event tasks in Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-export-import-feature-event-tasks.md)
 
 **Related topics**  
 
 
-[[import-data-from-excel|Import data from Microsoft Excel]]
+[Import data from Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-data-from-excel.md)
 
-## Related
-
-- [[using-export-import-feature-event-tasks|Importing and exporting event tasks in Microsoft Excel]]
-- [[import-data-from-excel|Import data from Microsoft Excel]]
-- [[crisis-management-uib|Crisis events]]
-- [[exercise-management-uib|Exercises]]

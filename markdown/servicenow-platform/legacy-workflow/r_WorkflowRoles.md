@@ -44,7 +44,7 @@ Activity creator
 
 </td><td>
 
-Creates and edits custom [[c_WorkflowActivities|workflow activities]], reuses custom activity data, and manages activity packs downloaded from the ServiceNow Store.
+Creates and edits custom workflow activities, reuses custom activity data, and manages activity packs downloaded from the ServiceNow Store.
 
 </td></tr><tr><td>
 
@@ -89,6 +89,3 @@ Checks out with force checkout option, validates, publishes, and deletes graphic
 </td></tr></tbody>
 </table>**Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowAdministration.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]

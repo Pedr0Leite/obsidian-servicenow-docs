@@ -14,7 +14,7 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # Browser Extension for Employee Center
 
-Access all your extension-supported, [[employee-center-landing-page|Employee Center]] content, and other resources within a movable, pop-up browser extension.
+Access all your extension-supported, Employee Center content, and other resources within a movable, pop-up browser extension.
 
 \[Omitted image "ecbe.png"\] Alt text: Browser Extension for Employee Center displays the configured Employee Center content on the extension.
 
@@ -22,12 +22,12 @@ Use Google Chrome or Microsoft Edge to use the Browser Extension for Employee Ce
 
 You can access the Browser Extension for Employee Center with the extension icon from the Employee Center portal. You can also open the extension in a new page with the Floating Action Button \(FAB\) when you're navigating a browser-supported website.
 
-Read a Knowledge Base article, search through your [[emp-center-quick-link-config|quick links]], or submit a Service Catalog item request, all from the Browser Extension for Employee Center.
+Read a Knowledge Base article, search through your quick links, or submit a Service Catalog item request, all from the Browser Extension for Employee Center.
 
 The following are the types of content configurable on the Browser Extension for Employee Center.
 
--   [[eslate-employee-comms|Employee Communications]] - View announcements and banners from your portal.
--   Quick links - View [[featured-content|featured content]] and access knowledge base articles; see the most-viewed AI-search results for your portal.
+-   Employee Communications - View announcements and banners from your portal.
+-   Quick links - View featured content and access knowledge base articles; see the most-viewed AI-search results for your portal.
 
     **Note:**
 
@@ -86,9 +86,6 @@ Here are some helpful resources:
 
 -   **\[Omitted image "dcx-icon-support.svg"\] Support**
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-employee-comms|Employee communications]]
-- [[featured-content|Featured content]]
+
+

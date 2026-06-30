@@ -18,7 +18,7 @@ Several Tanium resource types are imported as CMDB data.
 
 Tanium resource types refer to the sensors included in the queries used for filtering data using the Tanium API for a specific data source.
 
-The following table lists the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]] data sources and the Tanium sensors they import. ✓ indicates supported, and ✕ indicates not supported.
+The following table lists the Service Graph Connector for Tanium Endpoints data sources and the Tanium sensors they import. ✓ indicates supported, and ✕ indicates not supported.
 
 <table id="table_o2t_br4_q1c"><thead><tr><th>
 
@@ -194,7 +194,7 @@ Mobile Devices**Note:** Mobile Devices isn't a sensor.
 
 </td></tr><tr><td>
 
-All sensors supported by the [[class-computer|Computer \[cmdb\_ci\_computer\] class]]
+All sensors supported by the Computer \[cmdb\_ci\_computer\] class
 
 </td><td>
 
@@ -202,7 +202,7 @@ All sensors supported by the [[class-computer|Computer \[cmdb\_ci\_computer\] cl
 
 </td></tr><tr><td>
 
-[[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+IP Address \[cmdb\_ci\_ip\_address\]
 
 </td><td>
 
@@ -300,8 +300,3 @@ Asset SIU Product Usage
 
 **Parent Topic:**[Service Graph Connector for Tanium Endpoints reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-tanium-endpoints-reference.md)
 
-## Related
-
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[class-computer|Computer \[cmdb\_ci\_computer\] class]]
-- [[ip-address|IP Address]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Approval Definitions**.
+1.  Navigate to **Workplace Core** &gt; **Administration** &gt; **Approval Definitions**.
 
 2.  Select the approval definition to which you want to add a workplace approval configuration.
 
@@ -109,6 +109,3 @@ The workplace approval configuration is added.
 
 **Parent Topic:**[Create a workplace performer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

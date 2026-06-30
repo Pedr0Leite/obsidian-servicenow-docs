@@ -14,7 +14,7 @@ breadcrumb: [Create a document, Managed Documents, Document Services, Manage con
 
 # Create a document collection
 
-A document collection is a set of individual documents. After documents have been uploaded into [[c_ManagedDocuments|Managed Documents]], organize the documents by grouping them into collections.
+A document collection is a set of individual documents. After documents have been uploaded into Managed Documents, organize the documents by grouping them into collections.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

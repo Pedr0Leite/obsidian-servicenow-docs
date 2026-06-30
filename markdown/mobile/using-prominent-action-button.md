@@ -20,8 +20,5 @@ Tap the button to open a new Now Assist chat. If you open the chat while you hav
 
 While offline, the prominent action button is grayed out to show that it’s unavailable.
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]

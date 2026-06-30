@@ -20,9 +20,9 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Add the MITRE-ATT&amp;CK tactics and techniques information to the security incident so that you can correlate your security incident and threat information for better analysis. For example, your organization may be receiving tactics, techniques, and procedures \(TTP\)-related information from your third-party sources, such as [[threat-intel-landing-page|Threat Intelligence]] reports or other sources outside of the [[sir-landing-page|Security Incident Response]]. You then add this information back to SIR for better correlation and threat analysis.
+Add the MITRE-ATT&amp;CK tactics and techniques information to the security incident so that you can correlate your security incident and threat information for better analysis. For example, your organization may be receiving tactics, techniques, and procedures \(TTP\)-related information from your third-party sources, such as Threat Intelligence reports or other sources outside of the Security Incident Response. You then add this information back to SIR for better correlation and threat analysis.
 
-You can choose to roll up the MITRE-ATT&amp;CK information automatically from the [[tisc-threat-lookup|threat lookup]] auto-extraction results, from [[c_Observables|observables]], or from a child security incident to a security incident. For automatic roll up to security incidents, [[configure-mitre-att-ck-properties|enable the system property]]. Alternatively, you can roll up the information manually for each individual threat lookup or [[associate-mitre-observables|observable]].
+You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup auto-extraction results, from observables, or from a child security incident to a security incident. For automatic roll up to security incidents, [enable the system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md). Alternatively, you can roll up the information manually for each individual threat lookup or [observable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-observables.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ You can choose to roll up the MITRE-ATT&amp;CK information automatically from th
 
 4.  Select **Source**.
 
-    **Note:** Only the [[setup-mitre-profile|collections]] and [[view-mitre-collection|matrices]] that have been activated appear in the source list.
+    **Note:** Only the [collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md) and [matrices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-mitre-collection.md) that have been activated appear in the source list.
 
     The tactics and techniques that are associated with the source are available for selection. You can also associate multiple sources.
 
@@ -56,7 +56,7 @@ You can choose to roll up the MITRE-ATT&amp;CK information automatically from th
 
 The MITRE-ATT&amp;CK information is associated with the security incident. You can now view the associated information in the **MITRE ATT&amp;CK Card**.
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -95,14 +95,4 @@ After the information is rolled up from a threat lookup, an observable, or a SIE
 
     The following illustration shows how to navigate to the MITRE ATT&amp;CK Card list view. By clicking any of the available links, the information opens in the Threat Intelligence module.
 
-## Related
 
-- [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]]
-- [[associate-mitre-observables|Associate MITRE-ATT&amp;CK information with observables]]
-- [[setup-mitre-profile|Set up the MITRE-ATT&amp;CK framework]]
-- [[view-mitre-collection|Manage matrices]]
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]

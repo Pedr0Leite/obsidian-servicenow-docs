@@ -46,7 +46,7 @@ Start or import a Microsoft Teams chat from a task record in .
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -70,6 +70,3 @@ Start or import a Microsoft Teams chat from a task record in .
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

@@ -26,7 +26,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Service Portal**.
 
-    **Note:** If you’re using [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md), you can [[submit-legal-request|submit a legal request]] by navigating to the [[employee-center-landing-page|Employee Center]] portal and selecting a request from the **Legal services** &gt; **Browse Legal services** menu.
+    **Note:** If you’re using [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md), you can submit a legal request by navigating to the Employee Center portal and selecting a request from the **Legal services** &gt; **Browse Legal services** menu.
 
 2.  Select **My Requests** option in the form context menu.
 
@@ -51,7 +51,3 @@ When the legal request is closed, an email with the final contract document atta
 
 **Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-nda.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Activate Appointment Booking
 
-Activate the [[appointment-booking|Appointment Booking]] feature by installing the required plugins.
+Activate the Appointment Booking feature by installing the required plugins.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: admin
 
 ## About this task
 
-The Appointment Booking plugin \(com.snc.appointment\_booking\) is activated automatically when you activate the [[fsm-application-landing-page|Field Service Management]] plugin.
+The Appointment Booking plugin \(com.snc.appointment\_booking\) is activated automatically when you activate the Field Service Management plugin.
 
 Ensure that the following plugins are activated:
 
 -   **Field Service Management**: Enables core Field Service Management capabilities. Activating this plugin automatically activates the Appointment Booking plugin.
 -   **Appointment Booking plugin**: Provides the capability to book and manage appointments for services.
 -   **Customer Service with Field Service Management Plugin**: Integrates Field Service Management with Customer Service Management to streamline appointment-related workflows.
--   **[[dynamic-scheduling|Dynamic Scheduling]]** \(Optional but recommended\): Enables dynamic scheduling capabilities, bulk task recommendations, and interval-based auto-assignment. It also allows the use of the scripted availability method for advanced scheduling in Appointment Booking configurations.
+-   **Dynamic Scheduling** \(Optional but recommended\): Enables dynamic scheduling capabilities, bulk task recommendations, and interval-based auto-assignment. It also allows the use of the scripted availability method for advanced scheduling in Appointment Booking configurations.
 -   **Appointment Booking Demo data**: Installs demo data to help you set up and explore the Appointment Booking feature.
 
-For more information on the components installed with Appointment Booking see, [[appointment-booking-components|Appointment booking components]].
+For more information on the components installed with Appointment Booking see, [Appointment booking components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-components.md).
 
 ## Procedure
 
@@ -48,9 +48,4 @@ For more information on the components installed with Appointment Booking see, [
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[appointment-booking-components|Appointment booking components]]
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

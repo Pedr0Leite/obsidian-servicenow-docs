@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Create the components of a telephone number
 
-[[create_a_central_office_code|Create a central office code]], country code, area code, and rate center for a series of telephone numbers by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a central office code, country code, area code, and rate center for a series of telephone numbers by using the Telecommunications Network Inventory application.
 
 -   **[Create a central office code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_central_office_code.md)**  
 Create a central office code to allocate it to an area code of a country by using the Telecommunications Network Inventory application.
@@ -25,7 +25,3 @@ Create, review, update, or delete an area code by using the Telecommunications N
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[create_a_central_office_code|Create a central office code]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

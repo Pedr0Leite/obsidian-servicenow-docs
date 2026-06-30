@@ -14,11 +14,11 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Enhanced change data model
 
-The enhanced Change data model supports better categorization, change model linkage, and role-based access to [[change-templates|change templates]]. This new data model does not impact the existing [[c_StandardChangeCatalogPlugin|standard change catalog]] and no migration of existing standard changes is required.
+The enhanced Change data model supports better categorization, change model linkage, and role-based access to change templates. This new data model does not impact the existing standard change catalog and no migration of existing standard changes is required.
 
 Standard changes are preapproved changes available through the standard change catalog. The catalog properties define the change category and default and required change request values. The existing data model controls the properties of the standard change catalog and the standard change template.
 
-The enhanced data model adds more customization and precision to the change creation process. It supports a separate template taxonomy, which enables Change managers to organize templates for different types of change [[c_Models|models]] other than standard change catalog categories.
+The enhanced data model adds more customization and precision to the change creation process. It supports a separate template taxonomy, which enables Change managers to organize templates for different types of change models other than standard change catalog categories.
 
 **Note:** The new data model is optional for newly created standard changes, so you can adopt it at your own pace without disrupting existing processes.
 
@@ -50,8 +50,3 @@ To use features included in the new change templates, create a template using th
 
 [Create and propose a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[c_Models|Models]]

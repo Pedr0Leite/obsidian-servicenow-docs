@@ -22,7 +22,7 @@ Role required: admin or change manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **[[change-approval-policy|Change Approval Policies]]**.
+1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **Change Approval Policies**.
 
 2.  Click **New** to create a new approval policy.
 
@@ -46,11 +46,7 @@ To add additional policy inputs and decisions, see [Create Policy inputs](https:
 -   **[Create policy inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-policy-input.md)**  
 Policy inputs are variable sources that you can use while evaluating a decision to determine the approval action. You can create multiple policy inputs to evaluate the decision created, and also access the change request table and any table change request references.
 -   **[Create Decision records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-decisions.md)**  
-Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when [[using-change-approval-policies-cf|creating change approval policies]].
+Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when creating change approval policies.
 
 **Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)
 
-## Related
-
-- [[change-approval-policy|Change approval policies]]
-- [[using-change-approval-policies-cf|Creating change approval policies]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Update the demand details
 
-Update the details of a demand record in Next Experience for [[c_DemandManagement|Demand Management]] to reflect any changes in scope, priority, or capacity.
+Update the details of a demand record in Next Experience for Demand Management to reflect any changes in scope, priority, or capacity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_user, it\_demand\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands**.
 
 2.  Update the demand record details in any of the following ways.
 
@@ -41,7 +41,7 @@ Process
 </td><td>
 
 1.  Open a demand record from the **All Demands** page.
-2.  [[update-the-demand-details-ppw|Update the demand details]] in the required playbook activity. For more information,see [Use Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).\[Omitted image "playbook-details-tab.png"\] Alt text: Update demand details from playbook stage.
+2.  Update the demand details in the required playbook activity. For more information,see [Use Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).\[Omitted image "playbook-details-tab.png"\] Alt text: Update demand details from playbook stage.
 
 
 </td></tr><tr><td id="d48286e122">
@@ -81,8 +81,3 @@ Process
 
 [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-default-playbook-stages.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[update-the-demand-details-ppw|Update the demand details]]

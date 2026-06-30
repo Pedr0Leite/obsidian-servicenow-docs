@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for ITSM.
 
 Perform the steps in the following order:
 
-1.  [[dc-itsm-install|Install the Data Collection Pack for ITSM]]
-2.  [[dc-itsm-config|Configure Data Collection for ITSM]]
-3.  [[dc-itsm-activate|Activate Data Collection for ITSM]]
-4.  [[dc-itsm-install-artifacts|Review ITSM artifacts]]
+1.  [Install the Data Collection Pack for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itsm-install.md)
+2.  [Configure Data Collection for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itsm-config.md)
+3.  [Activate Data Collection for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itsm-activate.md)
+4.  [Review ITSM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-itsm-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-itsm-install|Install the Data Collection Pack for ITSM]]
-- [[dc-itsm-config|Configure Data Collection for ITSM]]
-- [[dc-itsm-activate|Activate Data Collection for ITSM]]
-- [[dc-itsm-install-artifacts|Review ITSM artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

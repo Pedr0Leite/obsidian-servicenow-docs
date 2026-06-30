@@ -24,7 +24,7 @@ You can then update and resubmit the rule for approval.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -35,9 +35,5 @@ You can then update and resubmit the rule for approval.
 5.  Update the form and resubmit it for approval.
 
 
-**Parent Topic:**[[sem-configure-exception-rule|Configuring an exception rule]]
+**Parent Topic:**[Configuring an exception rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 
-## Related
-
-- [[sem-configure-exception-rule|Configuring an exception rule]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

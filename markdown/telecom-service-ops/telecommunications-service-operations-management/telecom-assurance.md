@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Service Operations Management]
 
 # Telecom Assurance
 
-Telecom assurance monitors network performance, detects faults, and maintains service quality. ServiceNow [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] software is integrated with existing monitoring tools to consolidate alerts into a single platform, delivering AI-driven insights and automated workflows from fault detection to resolution.
+Telecom assurance monitors network performance, detects faults, and maintains service quality. ServiceNow Telecommunications Service Operations Management software is integrated with existing monitoring tools to consolidate alerts into a single platform, delivering AI-driven insights and automated workflows from fault detection to resolution.
 
 Some key components of ServiceNow AI Platform® Telecommunications Service Operations Management telecom assurance are:
 
@@ -32,6 +32,3 @@ Some key components of ServiceNow AI Platform® Telecommunications Service Opera
 
 [Learning Enhanced Automation Platform \(LEAP\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap.md)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

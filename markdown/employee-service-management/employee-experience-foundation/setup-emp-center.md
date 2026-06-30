@@ -14,7 +14,7 @@ breadcrumb: [Employee Center, Unified Employee Experience, Employee Service Mana
 
 # Configuring Employee Center
 
-Guidance for setting up [[employee-center-landing-page|Employee Center]].
+Guidance for setting up Employee Center.
 
 Employee Center is available on ServiceNow® instances that are on version Rome or later.
 
@@ -26,7 +26,7 @@ In the links below, Employee Center features are organized into categories, each
 
 -   [Browse experience features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-browse-experience.md)
 
-    Make it easy for employees to navigate the portal and [[discover-lxp|discover]] content.
+    Make it easy for employees to navigate the portal and discover content.
 
 -   [Search experience features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-search-experience.md)
 
@@ -42,7 +42,3 @@ In the links below, Employee Center features are organized into categories, each
 
 [Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[discover-lxp|Discover]]

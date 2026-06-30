@@ -24,7 +24,7 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 
 2.  Select **New**.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
 <table id="table_qfj_33q_t3c"><thead><tr><th>
 
@@ -103,7 +103,7 @@ Allows to configure conditions on the Allocation object. Only records satisfying
 </td></tr></tbody>
 </table>    **Note:**
 
-    You can only [[Modify|modify]] inactive allocation types.
+    You can only modify inactive allocation types.
 
     You can't delete allocation types if it is in use in Opportunity allocations.
 
@@ -117,13 +117,7 @@ The opportunity allocation type is created and listed on the **Opportunity Alloc
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

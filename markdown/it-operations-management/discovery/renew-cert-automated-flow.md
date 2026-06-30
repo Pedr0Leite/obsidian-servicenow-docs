@@ -20,7 +20,7 @@ Request renewal for a certificate and automatically retrieve the certificate for
 
 [Set up routing policy for automated certificate management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/setup-routing-policy.md) to ensure the Certificate Management catalog is enabled.
 
-To renew an existing certificate, make sure the certificate has its extension details populated in the \[sn\_disco\_certmgmt\_certificate\_extension\] table. Currently, these details populate automatically by the [[r-discovery|Discovery]] DigiCert CA Pattern or for any certificates created through the automated flow. However, for Entrust certificates, this only works if you [Request new certificate using automated certificate management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/request-new-cert-automated-flow.md).
+To renew an existing certificate, make sure the certificate has its extension details populated in the \[sn\_disco\_certmgmt\_certificate\_extension\] table. Currently, these details populate automatically by the Discovery DigiCert CA Pattern or for any certificates created through the automated flow. However, for Entrust certificates, this only works if you [Request new certificate using automated certificate management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/request-new-cert-automated-flow.md).
 
 Role required: PKI Admin, Admin, Certificate Owner, or Users that are part of the Certificate Owner Group.
 
@@ -67,6 +67,3 @@ For renewing an existing certificate, CSR is mandatory. The requester can use an
 
 The system fetches details about the selected certificate from the Certificate Extension \[sn\_disco\_certmgmt\_certificate\_extension\] table and makes the request to the CA to renew the certificate. Certificates can't be renewed if the Certificate Authority, Order id, or thumbprint are missing from this table. If additional details are missing for renewing the certificate, the system logs a message and suggests what to do. In this case, you must discover the certificate using CA-based discovery. For more information, see [Run Certificate Discovery via Certificate Authority query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/run-cert-discovery.md) to populate these details to the Certificate Extension table.
 
-## Related
-
-- [[r-discovery|Discovery]]

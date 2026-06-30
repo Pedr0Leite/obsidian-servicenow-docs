@@ -12,7 +12,7 @@ breadcrumb: [Related list for an install base item, Create an install base item,
 
 # Create a child install base item
 
-Create a child install base item in the [[manufacturing-overview|Manufacturing Commercial Operations]] application to view a list of all the cases and issues of the parent install base item.
+Create a child install base item in the Manufacturing Commercial Operations application to view a list of all the cases and issues of the parent install base item.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ A child install base related list provides the information about all the child i
 
 4.  Select **Save**.
 
-## Related
 
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

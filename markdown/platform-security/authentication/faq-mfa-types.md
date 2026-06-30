@@ -24,13 +24,13 @@ FAQ related to MFA types and why it’s important.
     2.  TOTP Authenticator apps such as Google Authenticator, Okta verify, Microsoft Authenticator, Authy, DUO
     3.  Biometric Authenticator \(FIDO2\) such as Windows Hello, Apple Touch ID, Face ID, android fingerprint sensor.
     4.  Hardware Security Keys \(FIDO2\) such as YubiKey, Thetis
-    5.  [[email|Email]] One-time password \(OTP\)
-    6.  SMS OTP - [[mfa-landing|Multi-factor authentication]] with SMS com.snc.[[c_Authentication|authentication]].sms\_mfaplugin installation and factor [[sc-configuration|configuration]] are required to enable SMS OTP-based MFA.
+    5.  Email One-time password \(OTP\)
+    6.  SMS OTP - Multi-factor authentication with SMS com.snc.authentication.sms\_mfaplugin installation and factor configuration are required to enable SMS OTP-based MFA.
 2.  Can a user configure multiple MFA factors or verification methods?
 
     Yes, you can enroll for multiple MFA factors by visiting their user profile. For example, you can enroll a laptop with biometric authenticator, use the mobile phone with a passkey, and have an authenticator app setup.
 
-3.  What steps do [[users|users]] must perform to complete the MFA setup?
+3.  What steps do users must perform to complete the MFA setup?
 
     User can perform either of the following MFA options.
 
@@ -40,7 +40,7 @@ FAQ related to MFA types and why it’s important.
 
 4.  Can the SMS and Email OTP-based MFA limited to certain users?
 
-    Admin can set up MFA factor [[ca-policies|policies]] for email and SMS OTP-based MFA factors to limit these factors to certain user groups or roles.
+    Admin can set up MFA factor policies for email and SMS OTP-based MFA factors to limit these factors to certain user groups or roles.
 
 5.  The users don’t have a mobile phone where they can set up an authenticator app. How can these users enable MFA?
 
@@ -50,11 +50,4 @@ FAQ related to MFA types and why it’s important.
 
     Refer the [Using Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-use.md) documentation for more information about MFA setup.
 
-## Related
 
-- [[email|Email]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default Exclusion Framework provides several activated rules in the Exclusion Rules table \[sn\_dt\_exclusion\_rule\]. Before creating your own rules, review the default rules to check whether they are appropriate for your requirements. Navigate to **All** &gt; **[[dynamic-translation|Dynamic Translation]]** &gt; **Exclusion Framework** &gt; **Exclusion Rules** and select a rule name to open its record.
+By default Exclusion Framework provides several activated rules in the Exclusion Rules table \[sn\_dt\_exclusion\_rule\]. Before creating your own rules, review the default rules to check whether they are appropriate for your requirements. Navigate to **All** &gt; **Dynamic Translation** &gt; **Exclusion Framework** &gt; **Exclusion Rules** and select a rule name to open its record.
 
 Default rules can be deactivated but not edited, and they are in the Dynamic Translation application scope. The rules you create can be deactivated or edited.
 
@@ -102,6 +102,3 @@ From the Zurich release, you can manually test your pattern. For more informatio
 
 **Parent Topic:**[Exclusion Framework in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-framework.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

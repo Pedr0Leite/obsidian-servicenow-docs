@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Executive insights into KPIs using the Asset Management Executive dashboard
 
-Use the [[asset-mgmt-exec-dash|Asset Management Executive dashboard]] to gain visibility into critical KPIs for the [[c_SoftwareAssetMgmt|Software Asset Management]] application, [[ham-landing-page|Hardware Asset Management]] application, and the [[cloud-insights-landing-page|Cloud Cost Management]] application via a single dashboard.
+Use the Asset Management Executive dashboard to gain visibility into critical KPIs for the Software Asset Management application, Hardware Asset Management application, and the Cloud Cost Management application via a single dashboard.
 
 To access the Asset Management Executive dashboard, you must either have the Software Asset Management application or the Hardware Asset Management application in your ServiceNow instance.
 
@@ -32,7 +32,7 @@ After you select a filter, a blue box appears on the right side of each widget, 
 
 **Note:** To use the domain filter, you must activate the plugins: com.glide.domain.msp\_extensions.installer and com.snc.pa.domain\_support.
 
-The scheduled job, **[[am-landing-page|Asset Management]] - Populate KPI aggregate table**, runs daily to update the data on the dashboard. To view the latest data for a widget, click the widget to display the list view page.
+The scheduled job, **Asset Management - Populate KPI aggregate table**, runs daily to update the data on the dashboard. To view the latest data for a widget, click the widget to display the list view page.
 
 The dashboard widgets vary depending on the application plugins that you've activated in your instance. The widgets available with each application are listed in the following table:
 
@@ -112,7 +112,7 @@ Not applicable.
 
 </td><td>
 
-Total of potential savings on a monthly basis on cloud rightsizing, cloud unused machines, cloud reservations, and cloud [[bh-cloudin|business hours]].
+Total of potential savings on a monthly basis on cloud rightsizing, cloud unused machines, cloud reservations, and cloud business hours.
 
 **Note:** This widget appears only if you have the Software Asset Management application installed on your instance.
 
@@ -152,7 +152,7 @@ Number of success goals completed for the Software Asset Management application.
 
  Source table: SAM Success Goal \[samp\_success\_goal\].
 
-**Note:** This widget is available only when the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application is installed.
+**Note:** This widget is available only when the Software Asset Workspace \(sn\_sam\_workspace\) store application is installed.
 
 </td><td>
 
@@ -220,7 +220,7 @@ Not applicable.
 
 </td></tr><tr><td>
 
-Expiring [[c_Contracts|contracts]] in 90 days
+Expiring contracts in 90 days
 
 </td><td>
 
@@ -246,7 +246,7 @@ Assets pulled from pool vs net new purchase
 
 Bar charts representing the number of requests for software assets being fulfilled from your inventory versus creating purchase orders for new assets.
 
-**Note:** Ensure that the [[c_Procurement|Procurement]] \(com.snc.procurement\) plugin is activated in your instance to view software-related data for this widget.
+**Note:** Ensure that the Procurement \(com.snc.procurement\) plugin is activated in your instance to view software-related data for this widget.
 
  Source tables:
 
@@ -273,11 +273,11 @@ Bar charts representing the number of assets used from your inventory versus new
 
 </td></tr><tr><td>
 
-End of life [[c_Models|models]] in next 90 days
+End of life models in next 90 days
 
 </td><td>
 
-Number of [[c_CreatingSoftwareModels|software models]] that are reaching their end of life in the next 90 days.
+Number of software models that are reaching their end of life in the next 90 days.
 
 -   End of life
 -   End of support
@@ -302,16 +302,3 @@ Not applicable.
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[asset-mgmt-exec-dash|Asset Management Executive Dashboard]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[am-landing-page|Asset Management]]
-- [[bh-cloudin|Business hours]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]

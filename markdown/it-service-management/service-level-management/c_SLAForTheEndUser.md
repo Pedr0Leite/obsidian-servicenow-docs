@@ -22,16 +22,12 @@ You can also view the target of the agreement being defined: **None**, **Respons
 
 Target is used for filtering, searching, and reporting purposes only.
 
-**Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+**Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
 In addition, you can get an overview of the timings for the task SLA such as the actual and business elapsed time and percentage, and the actual and business time left in days and hours.
 
 -   **[Verify SLA definition using SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/Verify-sla-definition-using-sla-timeline.md)**  
-You can verify that a task is mapped appropriately with a defined SLA using the [[c_SLATimeline|SLA timeline]]. If a task is mapped with the SLA definition, the SLA timeline displays a graphical representation of the progress of the task SLA.
+You can verify that a task is mapped appropriately with a defined SLA using the SLA timeline. If a task is mapped with the SLA definition, the SLA timeline displays a graphical representation of the progress of the task SLA.
 
 **Parent Topic:**[Using Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/using-service-level-management.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_SLATimeline|SLA timeline]]

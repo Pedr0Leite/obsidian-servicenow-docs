@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Zone**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Zone**.
 
 2.  Click the name of the zone you want to delete.
 
@@ -29,9 +29,5 @@ Role required: admin
     **Note:** If the space has any assets associated with it, or if the space is associated with another space, a warning box opens. If you click **Delete**, the associated asset or space is deleted.
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

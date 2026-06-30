@@ -15,7 +15,7 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Learn the basics
 
-ServiceNow® [[c_EM|Event Management]] and AIOps help IT operations teams manage high alert volumes by reducing noise and turning raw events into prioritized, actionable alerts. This section covers core concepts, implementation stages, CMDB considerations, prerequisites for setup, and resources to help you get started quickly and confidently.
+ServiceNow® Event Management and AIOps help IT operations teams manage high alert volumes by reducing noise and turning raw events into prioritized, actionable alerts. This section covers core concepts, implementation stages, CMDB considerations, prerequisites for setup, and resources to help you get started quickly and confidently.
 
 ## ServiceNow Event Management
 
@@ -27,11 +27,11 @@ Follow a phased approach to deploying Event Management, starting with a single h
 
 ## Should I Wait for CMDB
 
-Deploy Event Management and improve your CMDB in parallel to show value quickly. Modern observability tools already provide useful event metadata. Use Alert Automations to improve alert deduplication and grouping without waiting for full CMDB population. Then you can strengthen results by adding [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] over time to improve CI/service context.
+Deploy Event Management and improve your CMDB in parallel to show value quickly. Modern observability tools already provide useful event metadata. Use Alert Automations to improve alert deduplication and grouping without waiting for full CMDB population. Then you can strengthen results by adding Discovery and Service Mapping over time to improve CI/service context.
 
 ## Prerequisites for Setup
 
-Before implementation, gather credentials for your monitoring tools and submit any necessary access requests to Network and Security teams to avoid delays. If your setup requires pull-based integrations, [[acc-landing-page|Agent Client Collector]], or [[hla-landing-page|Health Log Analytics]], a MID Server will also need to be deployed and configured in advance.
+Before implementation, gather credentials for your monitoring tools and submit any necessary access requests to Network and Security teams to avoid delays. If your setup requires pull-based integrations, Agent Client Collector, or Health Log Analytics, a MID Server will also need to be deployed and configured in advance.
 
 ## How to get help
 
@@ -44,10 +44,3 @@ A curated set of resources is available to support your implementation journey �
 -   [Event Management Forum](https://www.servicenow.com/community/forums/filteredbylabelpage/board-id/it-operations-management-forum/label-name/event%20management) – Post questions, share knowledge, and join discussions.
 -   [ServiceNow YouTube Channel](https://www.youtube.com/@servicenow) - Official video content, demos, and event recordings.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[hla-landing-page|Health Log Analytics]]

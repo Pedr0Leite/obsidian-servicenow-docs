@@ -47,8 +47,5 @@ A part request is created in the Draft state.
 
 ## What to do next
 
-You can [[c_SourceParts|source parts]] for the part request that is created. For more information, see [Request inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md).
+You can source parts for the part request that is created. For more information, see [Request inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md).
 
-## Related
-
-- [[c_SourceParts|Source parts]]

@@ -14,7 +14,7 @@ breadcrumb: [Restrict responsive dashboard access to specific roles, Dashboard p
 
 # Restrict responsive dashboard sharing by role
 
-You can configure [[dashboard-properties|responsive dashboard properties]] to restrict which users are able to share responsive dashboards.
+You can configure responsive dashboard properties to restrict which users are able to share responsive dashboards.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ To apply security rules to what is visible in the **Share** panel, select the bo
 
 [Share a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
-## Related
-
-- [[dashboard-properties|Responsive dashboard properties]]

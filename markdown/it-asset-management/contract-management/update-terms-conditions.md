@@ -14,17 +14,17 @@ breadcrumb: [Contract renewal workflow, Contract Management, IT Asset Management
 
 # Update terms and conditions
 
-Update the [[c_TermsAndConditions|terms and conditions]] in your new contract. You can also view the terms and conditions carried over to the new contract.
+Update the terms and conditions in your new contract. You can also view the terms and conditions carried over to the new contract.
 
 ## Before you begin
 
-Role required: contract\_system\_admin, asset, contract\_manager \(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: contract\_system\_admin, asset, contract\_manager \(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## Procedure
 
 1.  Open the task or contract for which you want to add terms and conditions.
 
-    -   If you are using the core UI or Hardware Asset Workspace,select the Terms and conditions task number on the Contract Renewal Request Line form. Select the **Renewal [[c_Contracts|contracts]] terms** tab and then click **Edit**.
+    -   If you are using the core UI or Hardware Asset Workspace,select the Terms and conditions task number on the Contract Renewal Request Line form. Select the **Renewal contracts terms** tab and then click **Edit**.
     -   If you are using the Enterprise Asset Workspace, navigate to the Contract and lease management view and then select the **All contracts** tab. Open the enterprise asset contract that you want to add terms and conditions to and then select the **Terms and Conditions** tab.
 2.  Update the terms and conditions in the contract.
 
@@ -82,9 +82,3 @@ Multiple terms and conditions are displayed in the **Terms and Conditions** tab 
 
 [Add rate cards to the new contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/update-rate-card.md)
 
-## Related
-
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Contracts|Contracts]]

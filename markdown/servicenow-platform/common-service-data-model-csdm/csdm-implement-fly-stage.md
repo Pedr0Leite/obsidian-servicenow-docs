@@ -63,7 +63,7 @@ The fly stage completes the remaining aspects of CSDM framework:
 
 -   **Information object \[cmdb\_ci\_information\_object\] table**
 
-    You capture asset information as information objects. You can [[c_Connect|connect]] the information objects to your business applications to create an application portfolio that you can use at any time.
+    You capture asset information as information objects. You can connect the information objects to your business applications to create an application portfolio that you can use at any time.
 
     You can use the Information Object table to identify the types of data that a business application uses, including highly sensitive data such as:
 
@@ -89,6 +89,3 @@ The fly stage completes the remaining aspects of CSDM framework:
 
 **Parent Topic:**[Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 
-## Related
-
-- [[c_Connect|Connect]]

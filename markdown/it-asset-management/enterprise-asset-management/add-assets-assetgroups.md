@@ -26,7 +26,7 @@ Role required:
 -   sn\_eamhc.medical\_asset\_manager
 -   sn\_otam.ot\_asset\_manager
 
-Assets can be added to an asset group or subgroups in the [[using-eam-workspace|Enterprise Asset Workspace]], Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to add assets to an asset group in the Enterprise Asset Workspace.
+Assets can be added to an asset group or subgroups in the Enterprise Asset Workspace, Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to add assets to an asset group in the Enterprise Asset Workspace.
 
 ## Procedure
 
@@ -51,6 +51,3 @@ Assets can be added to an asset group or subgroups in the [[using-eam-workspace|
 
 **Parent Topic:**[Create an asset group in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-groups-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

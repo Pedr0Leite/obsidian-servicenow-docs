@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Consumer replication set status in Instance Data Replication
 
-Review the status of your consumer replication set and research error messages to identify or fix [[instance-data-replication|Instance Data Replication]] \(IDR\) replication issues.
+Review the status of your consumer replication set and research error messages to identify or fix Instance Data Replication \(IDR\) replication issues.
 
 ## Consumer replication set status and status message
 
@@ -58,6 +58,3 @@ Navigate to **Instance Data Replication** &gt; **Consumer Replication Sets** to 
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

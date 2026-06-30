@@ -60,26 +60,18 @@ For information on how to update from using the Microsoft SCCM connector plugin 
 
 ## Asset intelligence
 
-Asset Intelligence is an SCCM feature that can filter, normalize and clean up software records. When enabled, it populates normalized software data in a separate table within the SCCM database. You can target this separate table instead of the raw software data table. When you import software records into the CMDB with this feature enabled, you get a cleaner set of software data. To use this feature, you must [[activate-ai-scheduled-imports|Activate SCCM Asset Intelligence scheduled imports]] in the target ServiceNow instance, as well as in the source SCCM database.
+Asset Intelligence is an SCCM feature that can filter, normalize and clean up software records. When enabled, it populates normalized software data in a separate table within the SCCM database. You can target this separate table instead of the raw software data table. When you import software records into the CMDB with this feature enabled, you get a cleaner set of software data. To use this feature, you must [Activate SCCM Asset Intelligence scheduled imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-scheduled-imports.md) in the target ServiceNow instance, as well as in the source SCCM database.
 
--   **[[activate-microsoft-sccm-plugin|Activate a supported Microsoft SCCM plugin]]**  
+-   **[Activate a supported Microsoft SCCM plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-microsoft-sccm-plugin.md)**  
 The SCCM plugins can be activated by an administrator and requires the Integration - JDBC and CI Identification plugins. These dependent plugins are activated automatically with SCCM activation.
--   **[[how-sccm-integration-works|SCCM data import process and source tables]]**  
+-   **[SCCM data import process and source tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/how-sccm-integration-works.md)**  
 The Microsoft SCCM versions supported in the ServiceNow® platform offer identical features and the same imported data.
--   **[[configure-sccm-data-import|Configure the SCCM integration and schedule an import]]**  
+-   **[Configure the SCCM integration and schedule an import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-sccm-data-import.md)**  
 Importing data from Microsoft SCCM requires a connection to the SCCM database via a JDBC data source and a schedule that tells the MID Server when to fetch the data.
 -   **[Activate SCCM Asset Intelligence scheduled imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-scheduled-imports.md)**  
 To prevent duplicate software imports, activate either the Asset Intelligence \(AI\) or the non-AI scheduled import.
--   **[[t_UpgradeSCCMIntegrationVersion|Upgrade the SCCM integration version]]**  
+-   **[Upgrade the SCCM integration version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_UpgradeSCCMIntegrationVersion.md)**  
 If you're using an earlier version of an System Center Configuration Manager\(SCCM\) plugin, you can switch over to a later version to take advantage of new features.
 
-**Parent Topic:**[[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]
+**Parent Topic:**[ServiceNow provided integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ServiceNowProvidedintegrations.md)
 
-## Related
-
-- [[activate-ai-scheduled-imports|Activate SCCM Asset Intelligence scheduled imports]]
-- [[activate-microsoft-sccm-plugin|Activate a supported Microsoft SCCM plugin]]
-- [[how-sccm-integration-works|SCCM data import process and source tables]]
-- [[configure-sccm-data-import|Configure the SCCM integration and schedule an import]]
-- [[t_UpgradeSCCMIntegrationVersion|Upgrade the SCCM integration version]]
-- [[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]

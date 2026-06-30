@@ -18,13 +18,13 @@ A certification filter creates a subset of ServiceNow records to audit, typicall
 
 However, you can define a filter for any ServiceNow table by using any set of system-supported conditions. Audited records identified by a filter for expected attributes or relationships, depending on the audit type.
 
-You can create multiple versions of a filter, reactivate inactive versions, and select the version you want to use in a template or a certification schedule. Only the active versions of a filter are available for selection in template records. You can use a single filter for multiple [[c_CertificationTemplates|certification templates]] or schedules.
+You can create multiple versions of a filter, reactivate inactive versions, and select the version you want to use in a template or a certification schedule. Only the active versions of a filter are available for selection in template records. You can use a single filter for multiple certification templates or schedules.
 
 |Filter|Description|
 |------|-----------|
 |Data Certification|Validates CMDB data.|
-|Architecture Compliance|Manages reviews of CMDB data in [[c_ArchitectureCompliance|architecture compliance]] audits to determine which configuration items \(CIs\) match expected attributes.|
-|Desired State|Manages reviews of CMDB data to determine which CIs match a [[c_DesiredState|desired state]] for both attributes and relationships.|
+|Architecture Compliance|Manages reviews of CMDB data in architecture compliance audits to determine which configuration items \(CIs\) match expected attributes.|
+|Desired State|Manages reviews of CMDB data to determine which CIs match a desired state for both attributes and relationships.|
 |Compliance|Manages reviews of records from any ServiceNow table to determine which records match an expected set of attributes and related record conditions.|
 |IT Governance Risk and Compliance|Generates audits and tests to ensure that controls are being followed and creates tasks to track corrective actions.|
 
@@ -34,8 +34,3 @@ In the base ServiceNow system, users with the certification\_admin role have lim
 
 When assigning compliance resources, make sure certification\_admin users have any additional roles they need. For example, a user requires roles that grant access to the Company `[core_company]` table.
 
-## Related
-
-- [[c_CertificationTemplates|Certification templates]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_DesiredState|Desired State]]

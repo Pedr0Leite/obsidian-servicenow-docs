@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Field Service Marketplace components
 
-Several types of components are installed with the activation of the [[fsm-marketplace|Field Service Marketplace]] feature including tables, roles, system properties, business rules, and script includes.
+Several types of components are installed with the activation of the Field Service Marketplace feature including tables, roles, system properties, business rules, and script includes.
 
 ## Tables
 
@@ -525,7 +525,7 @@ Field Service Marketplace adds the following script includes:
 |MarketplaceEntityValidatorBase|This class contains default implementation for MarketplaceEntityValidator. It extends MarketplaceEntityValidatorPicker to choose the correct implementation of the MarketplaceEntityValidatorExtPoint.|
 |MarketplaceTaskProcessor|This class will contain custom implementations for MarketplaceTaskProcessor. This will be the class that will be used for making any method invocations|
 |FieldServiceMarketplaceResponseDao|Contains all the queries and insertion made on marketplace\_response table|
-|MarketplaceDynamicSchedulingUtil|This is a util containing methods to be shipped when [[dynamic-scheduling|dynamic scheduling]] is installed along with marketplace|
+|MarketplaceDynamicSchedulingUtil|This is a util containing methods to be shipped when dynamic scheduling is installed along with marketplace|
 |MarketplaceEntityValidatorAssignmentImpl|Marketplace Assignment Implementation for MarketplaceEntityValidatorExtPoint|
 |FieldServiceMarketplacePlaybookDao|Contains all the queries and insertion made on all playbook related tables|
 |MarketplaceTaskAssignmentWOTImpl|Work order task implementation for MarketplaceTaskAssignmentExtPoint|
@@ -540,10 +540,5 @@ Field Service Marketplace adds the following script includes:
 |MarketplaceCoreConstants|Script Include to hold the constants for marketplace core plugin|
 |MarketplaceEntityValidatorPicker|Script include to choose the implementation of the MarketplaceEntityValidatorExtPoint|
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[dynamic-scheduling|Dynamic scheduling]]

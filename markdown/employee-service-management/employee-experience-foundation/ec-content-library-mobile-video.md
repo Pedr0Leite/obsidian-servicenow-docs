@@ -14,7 +14,7 @@ breadcrumb: [Mobile content, Creating employee communications, Authoring and man
 
 # Create or edit mobile video content
 
-[[ec-content-library-portal-video|Create video content]] that your employees can view on their mobile devices.
+Create video content that your employees can view on their mobile devices.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Define the link: [Add or modify links to other content sources](https://raw.gith
 
 5.  Select **Continue**.
 
-6.  Fill in the fields in the **[[ec-mobile-content|Mobile Content]]** form.
+6.  Fill in the fields in the **Mobile Content** form.
 
 <table id="table_opy_zsv_hrb"><thead><tr><th>
 
@@ -106,7 +106,7 @@ Order
 
 </td><td>
 
-When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or [[employee-center-landing-page|Employee Center]]. Content appears closer to the beginning of the carousel when assigned a lower number.
+When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or Employee Center. Content appears closer to the beginning of the carousel when assigned a lower number.
 
 **Note:** Use increments of 100 when determining the order. This method makes it easier to edit. For example, you numbered your links 1, 2, 3, 4, 5 and wanted to place a new content after 2. You would have to renumber 3, 4, and 5. If you use 100, 200, and 300 and wanted to place content from 100 through 200, you would simply use any number from 101 through 199.
 
@@ -126,8 +126,3 @@ Alternatively, you can build out a more robust publishing configuration using [C
 
 **Parent Topic:**[Mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-content.md)
 
-## Related
-
-- [[ec-content-library-portal-video|Create video content]]
-- [[ec-mobile-content|Mobile content]]
-- [[employee-center-landing-page|Employee Center]]

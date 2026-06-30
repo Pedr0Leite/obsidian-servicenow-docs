@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Create a group for all location managers in Care Team Operations for Facilities
 
-Create a group for location managers with the **sn\_customerservice.svc\_location\_manager** role assigned so that users added to this group inherits the collection of roles for [[cto-facilities-landing|Care Team Operations for Facilities]].
+Create a group for location managers with the **sn\_customerservice.svc\_location\_manager** role assigned so that users added to this group inherits the collection of roles for Care Team Operations for Facilities.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ If you don't have existing groups already created for your facilities location m
 
 A user group has been created for your facilities department location managers.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

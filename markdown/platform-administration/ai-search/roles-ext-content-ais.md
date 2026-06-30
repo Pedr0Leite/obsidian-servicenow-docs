@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # External Content for AI Search roles
 
-External Content for [[ia-ai-search|AI Search]] includes the following roles.
+External Content for AI Search includes the following roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
@@ -24,7 +24,7 @@ To learn more about managing subscriptions, see [[managing-user-subscriptions-v2
 
 Access endpoints for AI Search external content APIs.
 
--   Feeds external documents for AI Search to index as search [[hs-results|results]], or deletes records for external documents from the index, using the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md).
+-   Feeds external documents for AI Search to index as search results, or deletes records for external documents from the index, using the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md).
 -   Imports user mappings for external content security using the [AI Search External User Mapping API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/ext-user-mapping-api.md).
 
 ### Contains Roles
@@ -47,7 +47,7 @@ Users with the admin role don't need this role to access external content API en
 
 ## AI Search high security administrator \[ais\_high\_security\_admin\]
 
-Access High [[ia-security-settings-il|Security settings]] for AI Search.
+Access High Security settings for AI Search.
 
 -   Bypasses all search filters from search sources and content security in the Search Preview UI, viewing all search query results available in the AI Search index
 -   Reads external content user mapping import history records
@@ -70,9 +70,3 @@ This is an elevated privilege role. Elevated privilege roles aren't assigned to 
 
 The Instance Security Center **Users with High Privilege Roles** user metric displays the count of users assigned this role. For more details, see [User metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-user-metrics.md).
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[ia-security-settings-il|Security Settings]]

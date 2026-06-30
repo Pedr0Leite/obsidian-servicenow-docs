@@ -84,7 +84,7 @@ Under **Create from template**, select a template. The checklist items in the te
 11. Save the form.
 
 
-**Parent Topic:**[[c_Checklists|Checklists]]
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Checklists.md)
 
 **Related topics**  
 
@@ -93,6 +93,3 @@ Under **Create from template**, select a template. The checklist items in the te
 
 [Delete checklist or a template]()
 
-## Related
-
-- [[c_Checklists|Checklists]]

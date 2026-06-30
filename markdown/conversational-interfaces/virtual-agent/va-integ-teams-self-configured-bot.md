@@ -14,7 +14,7 @@ breadcrumb: [Specialized VA integrations for Teams, Integrate VA with Teams, Con
 
 # Integrating Virtual Agent with Microsoft Teams using the self-configured bot
 
-You can [[va-integ-msteams|integrate Virtual Agent with Microsoft Teams]] by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now [[virtual-agent-landing-page|Virtual Agent]] app that is published on the Microsoft Store. Unlike the pre-published app, the self-configured bot bypasses the collaboration proxy architecture.
+You can integrate Virtual Agent with Microsoft Teams by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now Virtual Agent app that is published on the Microsoft Store. Unlike the pre-published app, the self-configured bot bypasses the collaboration proxy architecture.
 
 The self-configured method offers a solution for the following cases:
 
@@ -32,7 +32,7 @@ Before integrating Virtual Agent with your Microsoft Teams tenant, ensure that t
 
 -   Verify that your ServiceNow instances have been upgraded to the San Diego release.
 -   If you are a commercial user, verify that your Microsoft 365 is on the commercial environment. If you are a regulated market user, verify that your Microsoft 365 is on the GCC environment.
--   You have not attempted previous installations of the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] in your instances.
+-   You have not attempted previous installations of the Conversational Integration with Microsoft Teams in your instances.
 
     If you previously tried to install the integration in Quebec and the above releases, refer to this [Knowledge Base](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1116195) article to remove the residual installation items.
 
@@ -54,8 +54,3 @@ Upload the manifest file that you generated to the Microsoft Teams and test your
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)
 
-## Related
-
-- [[va-integ-msteams|Integrate Virtual Agent with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

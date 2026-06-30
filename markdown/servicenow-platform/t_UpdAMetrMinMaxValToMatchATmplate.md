@@ -12,7 +12,7 @@ breadcrumb: [Create a metric template, Assessment administrator tasks, Using ass
 
 # Update a metric minimum and maximum value to match a template
 
-For [[r_AssessmentResults|assessment results]] to be properly calculated, the Min and Max values of a metric that uses a template must be equal to the smallest and largest template definition Value, respectively.
+For assessment results to be properly calculated, the Min and Max values of a metric that uses a template must be equal to the smallest and largest template definition Value, respectively.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To edit the minimum and maximum values for a question that has the Template data
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Metrics**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Metrics**.
 
 2.  Configure the [Configure the list layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureTheListLayout.md) to show the **Min** and **Max** columns.
 
@@ -39,22 +39,14 @@ To edit the minimum and maximum values for a question that has the Template data
     **Note:** When the data type is Template, a UI policy prevents the editing of Min and Max from the form.
 
 
-**Parent Topic:**[[t_CreateAMetricTemplate|Create a metric template]]
+**Parent Topic:**[Create a metric template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricTemplate.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateAMetric|Create an assessment metric for a category]]
+[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
-[[t_CreateAMetricDefinition|Create an assessment metric definition]]
+[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-## Related
-
-- [[t_CreateAMetricTemplate|Create a metric template]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[r_AssessmentResults|Assessment results]]
-- [[r_Assessments|Assessments]]

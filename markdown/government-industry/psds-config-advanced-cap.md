@@ -14,8 +14,5 @@ breadcrumb: [Configure, Public Sector Digital Services \(PSDS\)]
 
 Extend the capabilities of Public Sector Digital Services.
 
-[[psds-install|Install the Performance Analytics and Reporting Solution for Public Sector Digital Services]]
+[Install the Performance Analytics and Reporting Solution for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-install.md)
 
-## Related
-
-- [[psds-install|Install the Performance Analytics and Reporting Solution for Public Sector Digital Services]]

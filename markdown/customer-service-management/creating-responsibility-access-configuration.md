@@ -16,11 +16,11 @@ Create responsibility access configurations to add or modify access for various 
 
 Administrators can use these configurations to define the roles required to access specific table records, including the level of access. With new filters and table mappings, you can model granular relationships that represent a wide range of responsibilities within your organization.
 
-For example, starting with the Zurich release, account manager responsibility access configuration is introduced out of the base system. Using this responsibility, you can assign the account manager responsibility to a specific account. This configuration grants access to account information, along with related entities such as cases, [[sold-product|sold products]], and more.
+For example, starting with the Zurich release, account manager responsibility access configuration is introduced out of the base system. Using this responsibility, you can assign the account manager responsibility to a specific account. This configuration grants access to account information, along with related entities such as cases, sold products, and more.
 
 ## Association types
 
-As an administrator, you can use this flexible framework to either create a responsibility with customized access [[gamification-components-rules|rules]] or modify existing configurations as needed. You can create responsibility access configurations for various relationship patterns using appropriate association types.
+As an administrator, you can use this flexible framework to either create a responsibility with customized access rules or modify existing configurations as needed. You can create responsibility access configurations for various relationship patterns using appropriate association types.
 
 -   Simple association
 -   Dependent association
@@ -56,7 +56,7 @@ You can use this association when access must be determined through an intermedi
 
 **Dependent association workflow**
 
-This scenario explains how access to case records is granted based on a requester’s relationship to [[install-base-item|install base items]] associated through an intermediate table. For example, Alex is a team member with authorized account responsibility and require access to specific case records that are tied to install base items. Alex’s access depends on whether these case records are listed as an authorized party for any of those items. However, the relationship between the case and the install base item isn’t direct, but it’s maintained through a separate affected install base table.
+This scenario explains how access to case records is granted based on a requester’s relationship to install base items associated through an intermediate table. For example, Alex is a team member with authorized account responsibility and require access to specific case records that are tied to install base items. Alex’s access depends on whether these case records are listed as an authorized party for any of those items. However, the relationship between the case and the install base item isn’t direct, but it’s maintained through a separate affected install base table.
 
 The system determines Alex’s access using the following logic:
 
@@ -91,8 +91,3 @@ The system determines Alex’s access using the following logic:
 
 This approach confirms that access is granted only when a clear relationship exists between the user and account, whether the link is direct or through a related case.
 
-## Related
-
-- [[sold-product|Sold products]]
-- [[gamification-components-rules|Rules]]
-- [[install-base-item|Install base items]]

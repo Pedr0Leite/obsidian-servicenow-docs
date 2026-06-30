@@ -12,8 +12,5 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 # Accessibility features in mobile
 
-To make the user interface of the ServiceNow [[mobile-config-navigation|Mobile Platform]] accessible to users with disabilities, ServiceNow includes features that support several specifications in the Web Content Accessibility Guidelines.
+To make the user interface of the ServiceNow Mobile Platform accessible to users with disabilities, ServiceNow includes features that support several specifications in the Web Content Accessibility Guidelines.
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

@@ -12,7 +12,7 @@ breadcrumb: [Facilities request tasks, Facilities service management process, Fa
 
 # Create a facilities request task
 
-Facilities request tasks are created from [[c_FacilitiesRequests|facilities requests]].
+Facilities request tasks are created from facilities requests.
 
 ## Before you begin
 
@@ -196,13 +196,8 @@ Actual duration
 </table>5.  Click **Submit**.
 
 
--   **[[r_TaskWindows|Task windows]]**  
+-   **[Task windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_TaskWindows.md)**  
 A task window is the time period, bordered by start and end times, in which a task is performed.
 
-**Parent Topic:**[[c_FacRequestTasks|Facilities request tasks]]
+**Parent Topic:**[Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)
 
-## Related
-
-- [[r_TaskWindows|Task windows]]
-- [[c_FacRequestTasks|Facilities request tasks]]
-- [[c_FacilitiesRequests|Facilities requests]]

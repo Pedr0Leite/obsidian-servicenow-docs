@@ -22,11 +22,11 @@ Role required: sn\_cm\_core.contract\_config
 
 ## About this task
 
-If you want the variables related to contract request to be available in condition builder, add the contract request [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
+If you want the variables related to contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contract Administration** &gt; **[[cncore-expl-clause-mgmt|Clause Management]]**.
+1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contract Administration** &gt; **Clause Management**.
 
 2.  Select a clause.
 
@@ -58,13 +58,8 @@ If you want the variables related to contract request to be available in conditi
 
 8.  In the Clause Variation Field form, save the meta data by selecting **Update**.
 
-9.  In the [[cncore-cv-form|Clause Variation form]], save the clause variation by selecting **Update**.
+9.  In the Clause Variation form, save the clause variation by selecting **Update**.
 
 
 **Parent Topic:**[Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-expl-clause-mgmt|Clause Management]]
-- [[cncore-cv-form|Clause Variation form]]

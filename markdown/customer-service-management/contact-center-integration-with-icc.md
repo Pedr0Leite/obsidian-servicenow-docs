@@ -18,9 +18,9 @@ The ServiceNow® Configurable Workspace offers voice interaction and call contro
 
 ICC integration with CSM Configurable Workspace enables agents to manage voice calls directly within their interaction screen using call controls. This feature helps reduce the need to switch between the contact center applications and the Configurable Workspace.
 
-The CSM Configurable Workspace provides a unified interface that integrates contact center platform with the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) service offering. This integration helps you manage inbound and outbound interactions within a single interface.
+The CSM Configurable Workspace provides a unified interface that integrates contact center platform with the Customer Service Management \(CSM\) service offering. This integration helps you manage inbound and outbound interactions within a single interface.
 
-See [[csm-workspaces-configure|CSM Configurable Workspace]].
+See [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md).
 
 With this expanded framework, voice interactions from a contact center platform and native digital channels can be routed seamlessly. Skills, queues, agents, and presence statuses can be synced automatically to optimize the admin experience and help reduce operational costs.
 
@@ -42,7 +42,7 @@ The primary benefits of this integration are as follows:
 
     Manages routing across departments and channels without switching interfaces.
 
--   **Consistent [[agent-exp|agent experience]]**
+-   **Consistent agent experience**
 
     Promotes a consistent experience across all channels with a universal inbox.
 
@@ -54,8 +54,4 @@ The primary benefits of this integration are as follows:
 
     Streamlines workflows with direct access to consult and blind call transfer controls in the CSM Configurable Workspace.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[agent-exp|Agent experience]]

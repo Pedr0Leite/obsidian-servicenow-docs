@@ -14,7 +14,7 @@ breadcrumb: [Analytics Hub, Reporting, dashboards, and Performance Analytics in 
 
 # Analytics Hub for a specific indicator
 
-Use the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] to analyze indicator data deeply, such as by aggregating data, comparing scores, or viewing changes over time.
+Use the Analytics Hub to analyze indicator data deeply, such as by aggregating data, comparing scores, or viewing changes over time.
 
 To access the Analytics Hub for an indicator, select any of these methods:
 
@@ -24,9 +24,9 @@ To access the Analytics Hub for an indicator, select any of these methods:
 
     **Note:**
 
-    -   From a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard, selecting a value in indicator data accesses [[kpi-details|KPI Details]] instead of the Analytics Hub. This is default behavior; a data visualization can be configured with different drilldown behavior.
+    -   From a Platform Analytics dashboard, selecting a value in indicator data accesses KPI Details instead of the Analytics Hub. This is default behavior; a data visualization can be configured with different drilldown behavior.
     -   When the indicator scores in a breakdown dashboard are aggregated on multiple elements, the Analytics Hub is aggregated on the same elements. For more information, see [Viewing aggregate scores for multiple elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/scorecard-overview-tab.md).
-    -   Time series aggregations are validated on the Analytics Hub and in KPI Details but not in [[widgets|widgets]]. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
+    -   Time series aggregations are validated on the Analytics Hub and in KPI Details but not in widgets. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
 
 ## Limitation
 
@@ -56,7 +56,7 @@ For a formula indicator, this basic information includes the formula. In the Inf
 
 If you have the Continual Improvement Management application and the sn\_cim.improvement\_requester role, you can create an improvement initiative. Click the **Create Improvement Initiative** icon \(\[Omitted image "scorecard-cim-icon.png"\] Alt text: Create improvement initiative icon\) to open an Improvement Initiative form. This form is automatically populated with details of the indicator and Analytics Hub. To see the initiative start and finish dates on the timeline, click the improvement initiative icon in the chart options on the **Overview** tab.
 
-If you have the [[process-mining|Process Mining]] application and a Process Mining role, you can open the indicator in a Process Mining dashboard. Click the **Go to****Process Mining** icon \(\[Omitted image "analytics-hub-process-op-icon.png"\] Alt text: Process mining icon\).
+If you have the Process Mining application and a Process Mining role, you can open the indicator in a Process Mining dashboard. Click the **Go to****Process Mining** icon \(\[Omitted image "analytics-hub-process-op-icon.png"\] Alt text: Process mining icon\).
 
 ## Editing indicators and scores, exporting to PDF or CSV, and generating graphics
 
@@ -93,10 +93,3 @@ The Analytics Hub for a specific indicator has the Overview and Compare tabs, wh
 
 [bundle-itsm.cim-landing-page]
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]
-- [[process-mining|Process Mining]]

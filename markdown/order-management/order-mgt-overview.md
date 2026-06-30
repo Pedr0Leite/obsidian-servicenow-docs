@@ -35,7 +35,7 @@ Learn how you can use the ServiceNow® Sales Customer Relationship Management \(
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as [[fields|fields]], tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Learn how you can use the ServiceNow® Sales Customer Relationship Management \(
 
 </td><td>
 
-[Now Assist for [[explore-order-management|Order Management]] \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Improve user experience for customers and agents with AI‑powered assistance that streamlines order and invoice operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management.md)
+[Now Assist for Order Management \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Improve user experience for customers and agents with AI‑powered assistance that streamlines order and invoice operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -58,7 +58,3 @@ Learn how you can use the ServiceNow® Sales Customer Relationship Management \(
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[fields|Fields]]
-- [[explore-order-management|Order management]]

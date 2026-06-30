@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Close an incomplete work order task on a mobile device
 
-You can [[t_CloseAWorkOrderTaskAsIncomplete|close a work order task as incomplete]] if there is work pending on the task through the [[wot-fsc|Field Service Contractor for mobile]] application.
+You can close a work order task as incomplete if there is work pending on the task through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: wm\_ext\_agent
 
     The Closure Notes information is copied to the **Activity Stream tab** in a work order task form.
 
-7.  Automatically [[create-task-manager-mobile|create a work order task]] to follow up on any pending work from the current work order task by enabling the **Create a Follow-up Task** option.
+7.  Automatically create a work order task to follow up on any pending work from the current work order task by enabling the **Create a Follow-up Task** option.
 
     The new work order task will be assigned to your group.
 
@@ -51,8 +51,3 @@ Role required: wm\_ext\_agent
 
 The task is closed. If you created a follow-up work order task, you can access it by navigating to **My work** &gt; **My group tasks**.
 
-## Related
-
-- [[t_CloseAWorkOrderTaskAsIncomplete|Close a work order task as incomplete]]
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[create-task-manager-mobile|Create a work order task]]

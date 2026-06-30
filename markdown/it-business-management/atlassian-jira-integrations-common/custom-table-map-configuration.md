@@ -14,7 +14,7 @@ breadcrumb: [Customizing map configuration for your Jira projects, Setting up th
 
 # Customize your table map configuration
 
-Map a [[agile-landing-page|Agile Development 2.0]] table of your preference for a Jira project.
+Map a Agile Development 2.0 table of your preference for a Jira project.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ Display name of the table in Jira.
 
 7.  From the Field Maps related list of your table map record, create new field maps for the following fields:
 
-    |Field in Jira|Field in [[agile-development|Agile Development]] 2.0|
+    |Field in Jira|Field in Agile Development 2.0|
     |-------------|------------------------------|
     |Summary of the issue|Short description|
     |Description of the issue|Description|
@@ -94,7 +94,7 @@ Display name of the table in Jira.
 
 ## What to do next
 
-1.  Validate your new table map configuration by clicking **Validate and fix mapping** from your [[create-a-project-form|project form]].
+1.  Validate your new table map configuration by clicking **Validate and fix mapping** from your project form.
 2.  In the Table maps related list of your project, if the Valid column of your configuration shows:
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter correct values for all the fields and validate again.
@@ -104,8 +104,3 @@ Display name of the table in Jira.
 
 **Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]
-- [[create-a-project-form|Project form]]

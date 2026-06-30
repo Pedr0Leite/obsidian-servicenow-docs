@@ -14,9 +14,9 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Cloud Discovery setup using Discovery Home
 
-Get started with Cloud [[r-discovery|Discovery]] by configuring credentials, service accounts, schedules, and MID Servers.
+Get started with Cloud Discovery by configuring credentials, service accounts, schedules, and MID Servers.
 
-Setting up Cloud Discovery is the first stage in performing cloud discovery and using [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] for managing discovered cloud resources.
+Setting up Cloud Discovery is the first stage in performing cloud discovery and using Cloud Provisioning and Governance for managing discovered cloud resources.
 
 Cloud Discovery is part of the ServiceNow AI Platform and deploys some of its platform-wide mechanisms and features. At the same time, there are some configurations that are specific to Cloud Discovery only.
 
@@ -28,9 +28,9 @@ Perform the following tasks in the exact order they are listed below:
 
 1.  Evaluate your cloud deployment and plan how you are going to discover it.
 2.  [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
-3.  [[mid-server-configuration-cloud|Install and configure the MID Servers]].
+3.  [Install and configure the MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 4.  Set up service accounts and configure access to them.
-    -   [[setup-aws-service-accounts|Setting up AWS service accounts]]
+    -   [Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
     -   [Create Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-service-account-cloud-mgt.md)
     -   [Create GCP service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/gcp-first-cld-and-srvc-accts.md)
     -   [Create VMware service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/vmware-create-creds-cloud-mgt.md)
@@ -44,14 +44,7 @@ Perform the following tasks in the exact order they are listed below:
     **Note:** Event-driven discovery does not require Cloud Provisioning and Governance.
 
 6.  Ensure that your ServiceNow instance has the relevant patterns and CI classes \(types\) for cloud resources. You may need to deploy the latest version of the following applications from the ServiceNow Store.
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
 7.  [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md).
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

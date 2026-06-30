@@ -22,7 +22,7 @@ Role required: it\_demand\_manager, it\_demand\_user
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -34,6 +34,4 @@ Role required: it\_demand\_manager, it\_demand\_user
 
     The demand moves to the Submitted state.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

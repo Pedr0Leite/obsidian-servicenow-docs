@@ -22,19 +22,19 @@ Role required: admin
 
 A branded landing page is a public web page displayed to users before they log in to their ServiceNow mobile app. This pre-login page contains a login button or a deep link that navigates users to a specified area of a ServiceNow mobile app, bypassing the need to select an instance. The login button can be configured as part of the header in the mobile app, as an integral element embedded directly within the web page itself or both these options.
 
-The default is for the login button to be contained within the header, however you can override this option by adding a line within the JSON script. In this case, you must create a button that will be an integral part of your web page. For more information, see [[deep-link-mobile|Deep linking for mobile]].
+The default is for the login button to be contained within the header, however you can override this option by adding a line within the JSON script. In this case, you must create a button that will be an integral part of your web page. For more information, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 
 **Note:** This feature is supported from ServiceNow mobile app version 19.0 and earlier.
 
 **Note:** For the Xanadu version and earlier, this functionality is supported using the property **sys\_extension\_point** with the API name global.CustomPreAuthProperties. From Yokohama, you can use the **preLoginLandingPage** property and remove the property **sys\_extension\_point** with the API name global.CustomPreAuthProperties from the existing script.
 
-The **sys\_extension\_point** with the API name global.CustomPreAuthProperties still works in the Yokohama version, even if the **preLoginLandingPage** property isn’t defined. However, if both properties are defined, the property **preLoginLandingPage** takes precedence. For more information about creating a branded landing page in the Xanadu version and earlier, see [[config-advanced-app-allow|Configure advanced app allowance with links to permitted apps]].
+The **sys\_extension\_point** with the API name global.CustomPreAuthProperties still works in the Yokohama version, even if the **preLoginLandingPage** property isn’t defined. However, if both properties are defined, the property **preLoginLandingPage** takes precedence. For more information about creating a branded landing page in the Xanadu version and earlier, see [Configure advanced app allowance with links to permitted apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-advanced-app-allow.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **sys\_sg\_properties.list**.
 
-    The [[mobile-properties|Mobile Properties]] list displays.
+    The Mobile Properties list displays.
 
 2.  Select **New** to create a mobile property record.
 
@@ -99,15 +99,7 @@ The **sys\_extension\_point** with the API name global.CustomPreAuthProperties s
 
 ## What to do next
 
-You may want to change the login page to be compatible with the style of the branded landing page. For more information, see [[mobile-publishing|Publish mobile apps with custom branding]] and [[explore-ne-theming|Next Experience theming for mobile]].
+You may want to change the login page to be compatible with the style of the branded landing page. For more information, see [Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md) and [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
-For more information on using deep links, see [[branded-landing-page-links|Navigation links within a branded landing page]] and [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
+For more information on using deep links, see [Navigation links within a branded landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/branded-landing-page-links.md) and [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 
-## Related
-
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[config-advanced-app-allow|Configure advanced app allowance with links to permitted apps]]
-- [[mobile-publishing|Publish mobile apps with custom branding]]
-- [[explore-ne-theming|Next Experience theming for mobile]]
-- [[branded-landing-page-links|Navigation links within a branded landing page]]
-- [[mobile-properties|Mobile properties]]

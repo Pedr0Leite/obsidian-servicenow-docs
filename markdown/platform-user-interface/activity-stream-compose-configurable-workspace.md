@@ -22,7 +22,7 @@ The Compose area in a Configurable Workspace record page enables agents to commu
 
 ## Activity Stream Compose component
 
-The [[activity-stream-configurable-workspace|Activity Stream]] Compose component enables agents to create new journal entries for the Activity stream and is configured and customized by admins in UI Builder. For information on Activity Stream Compose component configurations, see [Activity Stream Compose UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-activity-stream-compose-connected/uib-setup).
+The Activity Stream Compose component enables agents to create new journal entries for the Activity stream and is configured and customized by admins in UI Builder. For information on Activity Stream Compose component configurations, see [Activity Stream Compose UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-activity-stream-compose-connected/uib-setup).
 
 ## Email components for Compose
 
@@ -38,6 +38,4 @@ The [[activity-stream-configurable-workspace|Activity Stream]] Compose component
 
     The Email composer \(mini\) component is configured and customized by admins in UI Builder. For information on Email composer \(mini\) component configurations, see [Email composer \(mini\) UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-email-client-mini-composer-connected/uib-setup).
 
-## Related
 
-- [[activity-stream-configurable-workspace|Activity stream]]

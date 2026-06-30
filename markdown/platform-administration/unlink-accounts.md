@@ -12,7 +12,7 @@ breadcrumb: [Notifications in messaging applications, System notifications, Noti
 
 # Unlink your ServiceNow user account from your Slack or MS Teams account for Now Actions
 
-Unlink your ServiceNow account from your Slack or MS Teams account to stop receiving actionable ServiceNow [[notifications|notifications]] in Slack or Teams.
+Unlink your ServiceNow account from your Slack or MS Teams account to stop receiving actionable ServiceNow notifications in Slack or Teams.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: none
 
 ## About this task
 
-If you unlink your account to a messaging app for Now Actions, you must also disable the corresponding messaging channel in your [[preferences-landing|notification preferences]].
+If you unlink your account to a messaging app for Now Actions, you must also disable the corresponding messaging channel in your notification preferences.
 
 ## Procedure
 
@@ -42,14 +42,8 @@ If you unlink your account to a messaging app for Now Actions, you must also dis
 
     2.  Under Notification Channels, disable the appropriate messaging channel.
 
-    **Note:** If you want to link your ServiceNow account again, follow the steps in [[link-accounts|Link your ServiceNow user account to your Slack or MS Teams account for Now Actions]].
+    **Note:** If you want to link your ServiceNow account again, follow the steps in [Link your ServiceNow user account to your Slack or MS Teams account for Now Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/link-accounts.md).
 
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
-## Related
-
-- [[link-accounts|Link your ServiceNow user account to your Slack or MS Teams account for Now Actions]]
-- [[messaging-integration|Notifications in messaging applications]]
-- [[notifications|Notifications]]
-- [[preferences-landing|Notification Preferences]]

@@ -12,11 +12,11 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 # Modifying the Size and Change Size fields for a set
 
-You can change the appearance of the size [[fields|fields]] for a set, or hide them altogether.
+You can change the appearance of the size fields for a set, or hide them altogether.
 
-\[Omitted image "cpq-[[cpq-sets|sets]]-size-and-change-size-fields.png"\] Alt text: User interface
+\[Omitted image "cpq-sets-size-and-change-size-fields.png"\] Alt text: User interface
 
-You can hide these fields by making an adjustment in the layout of the blueprint. In the [[layout_editor|layout editor]], click the gear icon next to the set:
+You can hide these fields by making an adjustment in the layout of the blueprint. In the layout editor, click the gear icon next to the set:
 
 \[Omitted image "cpq-layout-editor-edit-set-layout.png"\] Alt text: Layout screen
 
@@ -30,19 +30,12 @@ An admin can also hide the size field by modifying the Set type value column in 
 { "sizeControl": { "visible": false } }
 ```
 
-For more information about how to control the size and behavior of sets, see [[layouts-sets|Using sets in layouts]].
+For more information about how to control the size and behavior of sets, see [Using sets in layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md).
 
 **Related topics**  
 
 
 [Example: Use a custom field to dynamically control set size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[sets|Configure sets]]
+[Configure sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sets.md)
 
-## Related
-
-- [[layouts-sets|Using sets in layouts]]
-- [[sets|Configure sets]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[layout_editor|Layout editor]]

@@ -18,7 +18,7 @@ Create a program status report periodically to view a status rollup of the proje
 
 ## Before you begin
 
-Ensure that the **Show on Program Status Report** option in the [[create-a-project-form|Project form]] for all the projects that you want to include in the status report is selected.
+Ensure that the **Show on Program Status Report** option in the Project form for all the projects that you want to include in the status report is selected.
 
 Role required: it\_program\_manager
 
@@ -34,7 +34,7 @@ Role required: it\_program\_manager
 
     **Note:**
 
-    Changing the status for any aspect in the Program [[status-report-form-project-management|Status Report form]] also updates the corresponding fields in the Program form.
+    Changing the status for any aspect in the Program Status Report form also updates the corresponding fields in the Program form.
 
 <table id="status_report_form_fields"><thead><tr><th>
 
@@ -128,7 +128,3 @@ System-generated ID number for the status report with a configurable prefix.
 
 [View program status reports]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[status-report-form-project-management|Status report form]]

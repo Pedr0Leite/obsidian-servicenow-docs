@@ -18,7 +18,7 @@ The MITRE-ATT&amp;CK Overview module displays MITRE-ATT&amp;CK information about
 
 \[Omitted image "mitre-overview-reports.png"\] Alt text: The MITRE-ATT&amp;CK Overview module shows four widgets.
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -29,7 +29,7 @@ The MITRE-ATT&amp;CK Overview module displays MITRE-ATT&amp;CK information about
 
 [Associate MITRE-ATT&amp;CK information with security case]()
 
-[Rollup MITRE-ATT&amp;CK information using [[tisc-threat-lookup|Threat Lookup]] results]()
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results]()
 
 [Rollup MITRE-ATT&amp;CK information from detection rules]()
 
@@ -49,7 +49,7 @@ Role required: sn\_si.ciso, sn\_si.analyst, sn\_si.manager, sn\_ti.read
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Repository** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Repository** &gt; **Overview**.
 
 2.  Click any of the following widgets to see additional details:
 
@@ -126,8 +126,3 @@ The x-axis displays the relevant CVE count, and the y-axis displays the MITRE-AT
 
 \[Omitted image "mitre-report-cve.png"\] Alt text: This illustration shows the MITRE dashboards with the CVE information.
 
-## Related
-
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]

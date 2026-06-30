@@ -34,11 +34,7 @@ Add the following code in the **Query with** field:
 
 ```
 
-This code checks for the presence of the Salesforce Account Id in the Account table and, if it's missing in the record, sets it to `undefined`. The code also includes a query for the Opportunity table column that holds the Salesforce Account Id for the value of this Id from the Account table. This query is invoked when the user opens the list of opportunities associated with the customer account. To see how it is used in the remote table script, see [[csm-opportunity-table-script|Selecting a spoke action and preparing the inputs]].
+This code checks for the presence of the Salesforce Account Id in the Account table and, if it's missing in the record, sets it to `undefined`. The code also includes a query for the Opportunity table column that holds the Salesforce Account Id for the value of this Id from the Account table. This query is invoked when the user opens the list of opportunities associated with the customer account. To see how it is used in the remote table script, see [Selecting a spoke action and preparing the inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-opportunity-table-script.md).
 
-**Parent Topic:**[[csm-integration-remote-tables|Using remote tables and the Salesforce spoke]]
+**Parent Topic:**[Using remote tables and the Salesforce spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-remote-tables.md)
 
-## Related
-
-- [[csm-opportunity-table-script|Example script that queries the Opportunity table]]
-- [[csm-integration-remote-tables|Using remote tables and the Salesforce spoke]]

@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Legal Entity Stage inbound staging table
 
-The [[legal-entity|Legal entity]] stage inbound \[sn\_fcms\_intg\_legal\_entity\_stage\] staging table temporarily stores important data about legal entities before this data is sent to the primary table.
+The Legal entity stage inbound \[sn\_fcms\_intg\_legal\_entity\_stage\] staging table temporarily stores important data about legal entities before this data is sent to the primary table.
 
 The following table lists the fields for the Legal Entity Stage inbound \[sn\_fcms\_intg\_legal\_entity\_stage\] staging table.
 
@@ -64,11 +64,11 @@ String
 
 </td><td>
 
-Company code of the [[supplier|supplier]] in the ERP system.This is a mandatory field.
+Company code of the supplier in the ERP system.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -76,7 +76,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.This is a mandatory field.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.This is a mandatory field.
 
 </td></tr><tr><td>
 
@@ -216,9 +216,3 @@ Street where the legal entity is located.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[purchase-order-table|Purchase order]]

@@ -12,15 +12,11 @@ breadcrumb: [Reference, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Care Team Operations for Healthcare IT data model
 
-Learn about the  [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]  application by viewing the data model and role relationship diagrams.
+Learn about the  Care Team Operations for Healthcare IT  application by viewing the data model and role relationship diagrams.
 
 These diagrams show the relationships between the tables within the application and provide an overall picture of how the Care Team Operations for Healthcare IT application operates.
 
-The following diagram shows the tables and their relationships within the [[healthcare-operations-overview|Healthcare Operations]] for Healthcare IT  application.
+The following diagram shows the tables and their relationships within the Healthcare Operations for Healthcare IT  application.
 
 \[Omitted image "cto-it-data-model-diagram.png"\] Alt text: CTO Data model diagram.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[healthcare-operations-overview|Healthcare Operations]]

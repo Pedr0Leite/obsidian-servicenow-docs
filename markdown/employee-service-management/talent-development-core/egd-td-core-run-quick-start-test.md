@@ -14,7 +14,7 @@ breadcrumb: [Quick start tests for Talent Development Core, Installing and confi
 
 # Run quick start tests for Talent Development Core
 
-Run quick start tests to verify the [[egd-landing-page|Talent Development Core]] app and features still work after each upgrade and deployment of new applications or integrations. If you customized Talent Development Core, you must configure the quick start tests to ensure they're compatible with your customizations.
+Run quick start tests to verify the Talent Development Core app and features still work after each upgrade and deployment of new applications or integrations. If you customized Talent Development Core, you must configure the quick start tests to ensure they're compatible with your customizations.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Use Performance Profiling to compare tests to detect performance degradation whe
 
 **Parent Topic:**[Quick start tests for Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-quick-start-tests-td-core.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

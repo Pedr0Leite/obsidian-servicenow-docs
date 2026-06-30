@@ -27,7 +27,7 @@ Role required: assessment\_admin or admin
     \[Omitted image "QuizScorecardExportImage.png"\] Alt text: Scorecard export image
 
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -44,6 +44,3 @@ Role required: assessment\_admin or admin
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[c_SurveyResults|Survey responses and results]]

@@ -71,8 +71,5 @@ Document to add.**Note:** The file extension must be .docx.
     **Note:** Ensure that the size of the file does not exceed 10 MB and only one template for each disclosure type is defined.
 
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

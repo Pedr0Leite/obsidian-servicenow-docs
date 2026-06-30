@@ -34,7 +34,7 @@ Role required: sn\_eam.asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Select the **Work order tasks**.
 
@@ -100,6 +100,3 @@ Steps
 -   Remove: The asset is removed from the Affected assets list. If the work order is associated with an asset group, the asset is removed from the Affected assets list only, not from the asset group.
 -   Move to cloned task: A new work order task is created for the same work order, and the asset is moved to that task. The asset no longer appears in the Affected assets list of the original work order task.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

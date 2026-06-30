@@ -22,7 +22,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 ## About this task
 
-Certain steps in request processing often require manual intervention. These interventions include general approval, finance approval, and assigning configuration and AWS organizational unit. However, these steps can be automated when specific criteria are met. [[cam-landing|Cloud Account Management]] integrates with the PaCE plugin to define and manage these criteria as policies.
+Certain steps in request processing often require manual intervention. These interventions include general approval, finance approval, and assigning configuration and AWS organizational unit. However, these steps can be automated when specific criteria are met. Cloud Account Management integrates with the PaCE plugin to define and manage these criteria as policies.
 
 For each step, an entry is created in the **sn\_itom\_cam\_automation\_activity** table, and the associated policies are displayed under the **Request Policies** tab in the Cloud Workspace. Each policy is linked to an activity via the **Mappings** tab within the policy, although only one policy is supported according to automation activity.
 
@@ -55,6 +55,3 @@ These sections explain how to modify, test, and publish the automation policy.
 -   [Automate Budget Approval policy process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/automate-account-budget-approval.md)
 -   [Automate Configuration Assignment policy process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/automate-account-creation-config-assign.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

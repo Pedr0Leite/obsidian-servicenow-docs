@@ -14,7 +14,7 @@ breadcrumb: [Order guides, Types of catalog items, Explore, Service Catalog, Man
 
 # Request an order guide
 
-Once created, [[c_ServiceCatalogOrderGuides|order guides]] present the customer with a three-step ordering process by default.
+Once created, order guides present the customer with a three-step ordering process by default.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
     If the requested item was ordered as part of an order guide, the **Order Guide** field on the Requested Item form shows the order guide name.
 
-    **Note:** The Check Out step can be omitted from an order guide to provide a quicker two-step process. To omit this third step, select the **Two step** [[check-box|check box]] when creating the order guide.
+    **Note:** The Check Out step can be omitted from an order guide to provide a quicker two-step process. To omit this third step, select the **Two step** check box when creating the order guide.
 
 
 **Parent Topic:**[Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
@@ -55,7 +55,4 @@ Role required: admin
 
 3.  Check Out: The end-user reviews and edits item information, then click **Submit Order** to place the request.
 
-## Related
 
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[check-box|Check box]]

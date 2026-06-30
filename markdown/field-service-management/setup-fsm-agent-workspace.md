@@ -14,7 +14,7 @@ breadcrumb: [CSM/FSM Configurable Workspace, Configure, Field Service Management
 
 Activate Field Service in CSM Agent Workspace and set up roles for performing the tasks.
 
-**Important:** Starting with the Vancouver release, Legacy FSM Agent Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. The [[fsm-application-landing-page|Field Service Management]] Configurable Workspace \[com.snc.uib.fsm\_agent\_workspace\] provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Vancouver release, Legacy FSM Agent Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. The Field Service Management Configurable Workspace \[com.snc.uib.fsm\_agent\_workspace\] provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 ## Activating Agent Workspace
 
@@ -79,7 +79,7 @@ Location agent\[sn\_customerservice.svc\_location\_agent\]
 
 </td><td>
 
-Create and [[c_ManageWorkOrders|manage work orders]] created from cases for contacts and consumers in their service organization. In integration with Field Service Management:-   View and apply template on a work order.
+Create and manage work orders created from cases for contacts and consumers in their service organization. In integration with Field Service Management:-   View and apply template on a work order.
 -   Move a work order from **Draft** state to **Ready for Approval**, **Ready for Qualification**, and **Ready for Dispatch** based on existing state flow and sm\_config rules.
 -   Book an appointment on a work order.
 
@@ -150,7 +150,3 @@ Restricts an agent's access to cases for the accounts, contacts, consumers, and 
 -   When a case is created, the service organization on the case is the service organization of the user who creates the case.
 -   When a case is assigned to an agent, the service organization on the case is updated to the service organization of the assigned agent.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_ManageWorkOrders|Manage work orders]]

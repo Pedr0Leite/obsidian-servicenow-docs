@@ -24,7 +24,7 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 ## About this task
 
-To help you manage reliability-metric history, [[sr-landing-page|Service Reliability Management]] \(SRM\) follows specific naming conventions. When you edit a reliability metric, SRM does the following:
+To help you manage reliability-metric history, Service Reliability Management \(SRM\) follows specific naming conventions. When you edit a reliability metric, SRM does the following:
 
 -   Retires the existing SLO.
 -   Creates a copy of the SLO with your edits in a draft state, which you can either save as a draft or activate.
@@ -32,7 +32,7 @@ To help you manage reliability-metric history, [[sr-landing-page|Service Reliabi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Follow these steps to access the **Reliability metrics** tab:
 
@@ -65,7 +65,3 @@ Managing SLOs requires ongoing updates to make sure that they reflect your relia
 
 **Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

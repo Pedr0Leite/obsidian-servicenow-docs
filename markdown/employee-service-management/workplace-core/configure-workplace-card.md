@@ -22,11 +22,11 @@ Role required: sn\_wsd\_core.admin
 
 ## About this task
 
-Card configuration enables admins to tailor the display and functionality of space cards across modules like Reservation, Location Directory, and [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]. You can control visible fields and available actions like reserving a space or copying a URL. You can also add multiple card configurations to a single page, using conditions to determine which card is displayed.
+Card configuration enables admins to tailor the display and functionality of space cards across modules like Reservation, Location Directory, and Kiosk Indoor Mapping. You can control visible fields and available actions like reserving a space or copying a URL. You can also add multiple card configurations to a single page, using conditions to determine which card is displayed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Card configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Card configuration**.
 
 2.  On the Workplace Card Configurations list, select **New**.
 
@@ -95,7 +95,3 @@ Configure a space card in the Location Directory, Kiosk Indoor Mapping, or Reser
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating reserve entitlements for Microsoft online services, Micros
 
 # Create a reserve entitlement for Microsoft online services in Software Asset Management classic
 
-Create a reserve entitlement for all Microsoft online services in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application so that you can add licenses to an existing Microsoft 365 subscription.
+Create a reserve entitlement for all Microsoft online services in the Software Asset Management classic application so that you can add licenses to an existing Microsoft 365 subscription.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ When you pass the end date of the reserve entitlement, the SAM - Subscription Ma
 
 The state of the reserve entitlement updates to **Retired**. On the Office 365 &amp; Adobe Cloud dashboard, the cost of the retired reserve entitlement is removed from the True-up Cost. The cost of the new entitlement is included in Current Subscription Spend.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

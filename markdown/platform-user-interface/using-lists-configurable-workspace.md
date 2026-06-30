@@ -14,20 +14,16 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 Learn how to use list and list page features in Configurable Workspace.
 
--   **[[use-ai-filter-assist|Use AI filter assist]]**
+-   **[Use AI filter assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/use-ai-filter-assist.md)**
 
     AI filter assist enables you to convert everyday language into an AI-generated encoded query.
 
--   **[[use-ai-list-tracker|Track record list changes]]**
+-   **[Track record list changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/use-ai-list-tracker.md)**
 
     Get an AI-generated summary of recent changes made to a list without manually reviewing each record.
 
--   **[[add-records-to-related-lists|Add records to a related list]]**
+-   **[Add records to a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-records-to-related-lists.md)**
 
     Add records to a related list to provide information related to the record.
 
-## Related
 
-- [[use-ai-filter-assist|Use AI filter assist]]
-- [[use-ai-list-tracker|Track record list changes]]
-- [[add-records-to-related-lists|Add records to a related list]]

@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Themes**.
+1.  Navigate to **Service Portal** &gt; **Themes**.
 
 2.  In the themes list, select **Coral** theme.
 
@@ -55,6 +55,3 @@ Role required: admin
 
 **Parent Topic:**[Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

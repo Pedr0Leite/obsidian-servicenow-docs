@@ -14,7 +14,7 @@ breadcrumb: [Use, Time configuration, Configure core features, Administer the Se
 
 # Define a relative duration
 
-Define relative durations to calculate duration time for SLAs based on business [[c_UseSchedules|schedules]] and specific time requirements.
+Define relative durations to calculate duration time for SLAs based on business schedules and specific time requirements.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ The end time of 17:00 is hard-coded into the relative duration script and is not
 
 **Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/using-time-configuration.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]

@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # InfiniBox Discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the InfiniBox pattern to find and map instances. Discovering these resources requires installing the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the InfiniBox pattern to find and map instances. Discovering these resources requires installing the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses multiple patterns to find InfiniBox storage system data. Discovering these resources requires installing the Discovery and Service Mapping Patterns and the CMDB CI Class Models applications from the ServiceNow Store, as each application is dependent on the other. You can use the patterns for discovering the InfiniBox components on the ServiceNow AI Platform using the Paris release or later.
 
@@ -61,7 +61,7 @@ You can make the same configuration from the credential record form where you pr
 \[Omitted image "basicauthcredentials.png"\] Alt text: Basic Auth Credentials.
 
 -   **Discovery schedule**
-    1.  ​Create the Discovery schedule with the [[serverless-discovery|Serverless Discovery]] type.
+    1.  ​Create the Discovery schedule with the Serverless Discovery type.
 
         \[Omitted image "discoveryschedule.png"\] Alt text: Discovery Schedule.
 
@@ -422,8 +422,3 @@ The vendor of the storage switch.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]

@@ -11,7 +11,7 @@ reading_time_minutes: 6
 
 # Platform Analytics
 
-Optimize processes and increase productivity with the Platform Analytics applications. These applications include [[reporting-landing-page|Reporting]], Performance Analytics, [[user-exp-analytics-landing|Usage Insights]], and [[process-mining|Process Mining]]. Present data through either the Core UI or the [[par-workspace|Platform Analytics experience]].
+Optimize processes and increase productivity with the Platform Analytics applications. These applications include Reporting, Performance Analytics, Usage Insights, and Process Mining. Present data through either the Core UI or the Platform Analytics experience.
 
 ## Get started
 
@@ -44,7 +44,7 @@ Select one of these tiles to learn more about these applications, which help pro
 </td></tr></tbody>
 </table>## Platform Analytics experience
 
-Explore the many options for showing data in [[analytics-center-data-visualizations|data visualizations]]. Create, modify, and share [[analytics-center-dashboards|dashboards]]. [[interactive-filters-workspace|Filter the data]] that is shown on a dashboard. Receive insights on your dashboards about potentially significant events in the data. Explore indicators of process behavior with [[kpi-details|KPI Details]], and be alerted to significant changes in these indicators through [[process-behavior-charts-for-kpis|KPI Signals]].
+Explore the many options for showing data in [data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md). Create, modify, and share [dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md). [Filter the data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md) that is shown on a dashboard. Receive insights on your dashboards about potentially significant events in the data. Explore indicators of process behavior with [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md), and be alerted to significant changes in these indicators through [KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md).
 
 \[Omitted image "db-with-filters-for-lp.png"\] Alt text: Platform Analytics dashboard showing Incidents by category in a data visualization with a filter being selected.
 
@@ -74,23 +74,23 @@ Discover ways to streamline your business, find bottlenecks and deviations in wo
 
 ## Analysis in Task Mining
 
-Learn how [[task-mining|Task Mining]] helps process owners collect and analyze workstation activities to understand how tasks are performed, identify inefficiencies, and make data-driven decisions.
+Learn how Task Mining helps process owners collect and analyze workstation activities to understand how tasks are performed, identify inefficiencies, and make data-driven decisions.
 
 \[Omitted image "task-mining-task-activity.png"\] Alt text: Task Mining analysis dashboard
 
 ## Reports and dashboards in the Core UI
 
-Give administrators and other stakeholders the ability to work with real-time data reports and analyze trends, using Core UI dashboards. Create and define [[c_Widgets|Performance Analytics widgets]], and configure the quick-view dashboards that use those visualizations, to suit your data and your business goals. Use the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] to perform in-depth data exploration, examine activity over time, [[scorecard-compare-tab|compare scores]] versus benchmarks, and analyze other various targets and trends as optional add-ons.
+Give administrators and other stakeholders the ability to work with real-time data reports and analyze trends, using Core UI dashboards. Create and define Performance Analytics widgets, and configure the quick-view dashboards that use those visualizations, to suit your data and your business goals. Use the Analytics Hub to perform in-depth data exploration, examine activity over time, compare scores versus benchmarks, and analyze other various targets and trends as optional add-ons.
 
 \[Omitted image "BarChart.png"\] Alt text: Bar report
 
 ## Applications and features
 
--   [[data-migration|Platform Analytics Migration Center]]
+-   [Platform Analytics Migration Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration.md)
 -   [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
 -   [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
--   [[now-assist-explorer|Use AI to explore data with AI Data Explorer]]
--   [[analytics-assist-landing-page|Create visualizations conversationally in the Now Assist panel]]
+-   [Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md)
+-   [Create visualizations conversationally in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-assist-landing-page.md)
 -   [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md)
 -   [Indicator breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 -   [Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
@@ -99,24 +99,5 @@ Give administrators and other stakeholders the ability to work with real-time da
 -   [Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining.md)
 -   [Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining.md)
 -   [Reporting, dashboards, and Performance Analytics in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/classic-vis-overview.md)
--   [[automation-discovery|Identify workflow automation opportunities with Automation Discovery]]
+-   [Identify workflow automation opportunities with Automation Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/automation-discovery.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[data-migration|Platform Analytics Migration Center]]
-- [[now-assist-explorer|Use AI to explore data with AI Data Explorer]]
-- [[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
-- [[automation-discovery|Automation Discovery]]
-- [[reporting-landing-page|Reporting]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[process-mining|Process Mining]]
-- [[par-workspace|Platform Analytics experience]]
-- [[task-mining|Task Mining]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[scorecard-compare-tab|Compare scores]]

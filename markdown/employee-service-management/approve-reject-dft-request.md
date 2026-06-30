@@ -24,7 +24,7 @@ The approval flow for permitting a digital forensic team member to access the cu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -62,9 +62,5 @@ Reject
 -   The state of the legal request remains Assigned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[managing-legal-dft-request|Managing digital forensics requests]]
+</table>**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/managing-legal-dft-request.md)
 
-## Related
-
-- [[managing-legal-dft-request|Managing digital forensics requests]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -36,7 +36,7 @@ Role required: admin
 
     -   To add an assessment instance record, select **New**.
     -   To update the details of an assessment instance record, select the record.
-5.  On the [[assessment-instance-form-ppw|assessment instance form]], fill in the fields.
+5.  On the assessment instance form, fill in the fields.
 
     For a description of the field names, see [Assessment instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/assessment-instance-form-ppw.md) form.
 
@@ -56,7 +56,4 @@ Role required: admin
 
     After completing your work on the assessment instance question and record, use the breadcrumb navigation to return to the **Assessment Instances** tab.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]
-- [[assessment-instance-form-ppw|Assessment instance form]]

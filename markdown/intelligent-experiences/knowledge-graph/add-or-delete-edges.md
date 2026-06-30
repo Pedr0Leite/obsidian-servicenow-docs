@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Graph Designer, Knowledge Graph, Enable AI experien
 
 # Add or delete edges to a Knowledge Graph schema
 
-Add, edit, or delete edges that connect the nodes to customize a [[knowledge-graph-landing|Knowledge Graph]] schema.
+Add, edit, or delete edges that connect the nodes to customize a Knowledge Graph schema.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: kg\_admin
 
 3.  From the Knowledge Graph schema, select a node to edit.
 
-4.  In the side [[now-assist-global-navigation|navigation]] pane, select **Related nodes**.
+4.  In the side navigation pane, select **Related nodes**.
 
     Each related node displays a list of connecting edges and available edges.
 
@@ -52,7 +52,4 @@ Role required: kg\_admin
 
 9.  To save your changes, select **Save** or to undo all your changes, select **Discard**.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-global-navigation|Navigation]]

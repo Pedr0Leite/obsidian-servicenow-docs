@@ -17,12 +17,7 @@ breadcrumb: [Source-to-Pay integration with SAP Ariba, Integration with third-pa
 Use Source-to-Pay integration with SAP Ariba to handle sales orders, procurement, finance, and so on in SAP Ariba from your ServiceNow instance.
 
 -   **[Use flows in SAP Ariba](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flows-sap-ariba.md)**  
-Use flows to retrieve information from SAP Ariba, including [[invoices|invoices]], cost centers, product models, [[payment-terms|payment terms]], purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, [[supplier|supplier]] bids, and legal entities.
+Use flows to retrieve information from SAP Ariba, including invoices, cost centers, product models, payment terms, purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, supplier bids, and legal entities.
 
 **Parent Topic:**[Source-to-Pay integration with SAP Ariba](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-sap-ariba.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[payment-terms|Payment terms]]
-- [[supplier|Supplier]]

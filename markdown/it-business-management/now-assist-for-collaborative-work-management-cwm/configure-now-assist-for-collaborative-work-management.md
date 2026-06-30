@@ -19,7 +19,7 @@ If you have the admin role, you can configure the implementation for the Now Ass
 ## Before you begin
 
 -   The minimum version of CWM application that is required to support Now Assist for CWM features is v6.0.0 and later. If you're on earlier versions, upgrade your app through Application Manager. See [Update an application or plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/update-application-app-mgr.md).
--   Install the [[now-assist-for-cwm-landing|Now Assist for Collaborative Work Management \(CWM\)]] plugin \(sn\_cwm\_ai\). See [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
+-   Install the Now Assist for Collaborative Work Management \(CWM\) plugin \(sn\_cwm\_ai\). See [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 -   [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
 Role required: admin
@@ -92,6 +92,3 @@ If you have custom roles that require access to a skill, update the ACLs for tho
 
 [Skill inputs for Now Assist for Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/skill-inputs-now-assist-for-cwm.md)
 
-## Related
-
-- [[now-assist-for-cwm-landing|Now Assist for Collaborative Work Management \(CWM\)]]

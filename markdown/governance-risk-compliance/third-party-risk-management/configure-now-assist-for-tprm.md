@@ -15,7 +15,7 @@ breadcrumb: [Now Assist, Third-party Risk Management, Governance, Risk, and Comp
 
 # Configure Now Assist for Third-party Risk Management \(TPRM\)
 
-If you have the admin role, you can configure the [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] application so that agents can use the generative AI capabilities in Vendor Management Workspace and Core UI.
+If you have the admin role, you can configure the Now Assist for Third-party Risk Management \(TPRM\) application so that agents can use the generative AI capabilities in Vendor Management Workspace and Core UI.
 
 ## Now Assist for Third-party Risk Management \(TPRM\) configuration overview
 
@@ -35,6 +35,3 @@ For information about the installation process, see [Install Now Assist plugins]
 
 **Note:** For more information on Retrieval Augmented Generation \(RAG\) and Retention policies, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/indexed-sources-ais.md) and [User data usage policy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-data-usage-policy-now-assist.md).
 
-## Related
-
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]

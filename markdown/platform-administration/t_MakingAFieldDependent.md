@@ -12,7 +12,7 @@ breadcrumb: [Customize, Field administration, Forms, fields, and lists, Configur
 
 # Make a field dependent
 
-A choice or [[reference-email-admin|reference]] field can be declared dependent on another field on the same table to limit the values available to select based on the value of the dependent field.
+A choice or reference field can be declared dependent on another field on the same table to limit the values available to select based on the value of the dependent field.
 
 ## Before you begin
 
@@ -48,15 +48,10 @@ In the example below, the Subcategory field is made dependent upon the Category 
 
 \[Omitted image "DependentValue.png"\] Alt text: Dependent Value
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[[c_ReferenceQualifiers|Reference qualifiers]]
+[Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md)
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[reference-email-admin|Reference]]

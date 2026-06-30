@@ -22,9 +22,9 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Access the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] intake form.
+1.  Access the Legal Invention Disclosure intake form.
 
-    1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+    1.  Navigate to **All** &gt; **Employee Center**.
 
     2.  Navigate to **Help center** &gt; **Legal services** &gt; **.**.
 
@@ -45,14 +45,9 @@ Role required: sn\_lg\_ops.legal\_user
 
 -   A Legal Invention Disclosure request is created in the New state.
 -   A unique request ID is generated.
--   The application status in [[legal-counsel-center-landing|Legal Counsel Center]] is set to New.
+-   The application status in Legal Counsel Center is set to New.
 -   The request is assigned to a group or user in the legal department based on the assignment rules set in the associated practice area. For more information, see [Assignment rule to automatically assign legal requests or matters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-assignment-rules-intake-form.md).
 -   You will begin receiving notifications about the progress of the request.
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

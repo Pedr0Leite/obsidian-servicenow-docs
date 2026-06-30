@@ -31,7 +31,7 @@ Selecting a case opens a form with the following sections:
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Navigate to **Requests** &gt; **View submitted requests** &gt; **View all cases** in the portal header.
 
@@ -41,6 +41,4 @@ Selecting a case opens a form with the following sections:
 
     Your message becomes part of the case conversation. All responses from the agent are also included in the conversation.
 
-## Related
 
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

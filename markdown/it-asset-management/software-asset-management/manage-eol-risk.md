@@ -26,15 +26,15 @@ Role required:
 
 ## About this task
 
-When software products reach EOL, end of support, or end of extended support, their risk of failure increases. You can choose to remove such software products that are reaching or have reached EOL, upgrade them to the latest software version, or purchase additional support for their maintenance. The EOL workflow takes you through the process of completing your change request based on the action you choose for your EOL software products. If you want to purchase additional support for your EOL software, you can [[t_CreateAPurchaseOrder|create a purchase order]].
+When software products reach EOL, end of support, or end of extended support, their risk of failure increases. You can choose to remove such software products that are reaching or have reached EOL, upgrade them to the latest software version, or purchase additional support for their maintenance. The EOL workflow takes you through the process of completing your change request based on the action you choose for your EOL software products. If you want to purchase additional support for your EOL software, you can create a purchase order.
 
-**Note:** You must have the [[c_Procurement|Procurement]] plugin \(com.snc.procurement\) activated to complete a purchase order.
+**Note:** You must have the Procurement plugin \(com.snc.procurement\) activated to complete a purchase order.
 
 The EOL workflow can also be completed using the Software End of Life Flow in the Flow Designer application. You can customize the Software End of Life Flow according to your requirement by creating a copy of the flow and customizing the copy that you have created.
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics** &gt; **Lifecycle management**.
+1.  Navigate to **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**.
 
 2.  On the [Lifecycle management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/lifecycle-management-dashboard.md), select the **Upcoming end of life product lifecycles in next 18 months** report or the **Current and past end of life product lifecycles** report.
 
@@ -89,8 +89,3 @@ After the change request or the purchase order is complete, the workflow request
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[c_Procurement|Procurement]]
-- [[sam-workspace|Software Asset Workspace]]

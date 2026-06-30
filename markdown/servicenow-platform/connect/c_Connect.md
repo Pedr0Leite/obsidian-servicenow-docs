@@ -14,14 +14,14 @@ breadcrumb: [ServiceNow AI Platform Additional Capabilities, Extend ServiceNow A
 
 # Connect
 
-ServiceNow® Connect is a real-time messaging platform that connects you to your coworkers, bypassing [[email|email]] and static documents.
+ServiceNow® Connect is a real-time messaging platform that connects you to your coworkers, bypassing email and static documents.
 
-Connect integrates with other features within the system, such as Visual Task Boards, Human Resources Management, and Customer Service Management. The [[c_connect-interface|Connect interface]] overlays the standard interface, which allows users to participate in conversations while they work.
+Connect integrates with other features within the system, such as Visual Task Boards, Human Resources Management, and Customer Service Management. The Connect interface overlays the standard interface, which allows users to participate in conversations while they work.
 
 Connect contains the following features:
 
--   [[c_Collaboration|Connect Chat]]: Enables users to chat with individuals and groups, quickly share files, and collaborate on any record by connecting with the right people instantly.
--   [[c_ConnectSupport|Connect Support]]: Enables support agents to provide real-time assistance to end users, using queues. Requires the Connect Support plugin.
+-   Connect Chat: Enables users to chat with individuals and groups, quickly share files, and collaborate on any record by connecting with the right people instantly.
+-   Connect Support: Enables support agents to provide real-time assistance to end users, using queues. Requires the Connect Support plugin.
 
 Core UI is required to use Connect.
 
@@ -81,10 +81,3 @@ Core UI is required to use Connect.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[email|Email]]
-- [[c_connect-interface|Connect interface]]
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]

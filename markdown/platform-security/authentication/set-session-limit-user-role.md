@@ -22,13 +22,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User Administration** &gt; **[[users|Users]]** or **User Administration** &gt; **Roles**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users** or **User Administration** &gt; **Roles**.
 
-2.  Select a user or role that you want to set a concurrent session limit, check the **[[limit-concurrent-sessions|Limit Concurrent Sessions]]** check box, and click **Update**.
+2.  Select a user or role that you want to set a concurrent session limit, check the **Limit Concurrent Sessions** check box, and click **Update**.
 
     The user or role has a limit of how many concurrent sessions can be open at one time.
 
-## Related
 
-- [[users|Users]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]

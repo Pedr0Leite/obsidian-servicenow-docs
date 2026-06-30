@@ -14,7 +14,7 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 # Testing and sending events
 
-You can manually test and send events to confirm that [[c_EM|Event Management]] properly manages events and generates alerts.
+You can manually test and send events to confirm that Event Management properly manages events and generates alerts.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 For example, you can manually send events to:
 
 -   Confirm that the MID Server is using an event connector definition and instance to send events.
--   Confirm that [[create-event-rules|event rules]], event field mapping, and other configurations do generate alerts.
+-   Confirm that event rules, event field mapping, and other configurations do generate alerts.
 -   Track an operation or action that did not generate an event.
 
 ## Procedure
@@ -169,7 +169,4 @@ A JSON string that gives more information about the event. The JSON data is supp
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up Smart Assessment questionnaires, Setting up Field Service Mo
 
 # Activate Smart Assessment for Field Service questionnaire
 
-You can activate the Smart Assessment for Field Service Questionnaire plugin \(sn\_fsm\_smart\_asmt\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Smart Assessment for Field Service Questionnaire plugin \(sn\_fsm\_smart\_asmt\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ The following items are installed with Smart Assessment for Field Service Questi
 -   Script includes
 -   Scheduled job
 
-For more information, see [[smart-assessment-components|Smart Assessment components]].
+For more information, see [Smart Assessment components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/smart-assessment-components.md).
 
 ## Procedure
 
@@ -77,7 +77,3 @@ For more information, see [[smart-assessment-components|Smart Assessment compone
 
 [Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configuring-sa-by-migrating.md)
 
-## Related
-
-- [[smart-assessment-components|Smart Assessment components]]
-- [[fsm-application-landing-page|Field Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure filters for dispatchers
 
-Create filters for dispatchers to filter work order tasks in [[dispatcher-activities|Dispatcher Workspace]].
+Create filters for dispatchers to filter work order tasks in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: wm\_admin, admin
 
 ## About this task
 
-By default, dispatchers can filter tasks based on [[work-order-task-states|work order task states]]. You can also create your own filters for the tasks.
+By default, dispatchers can filter tasks based on work order task states. You can also create your own filters for the tasks.
 
 ## Procedure
 
@@ -44,7 +44,4 @@ By default, dispatchers can filter tasks based on [[work-order-task-states|work 
 
     \[Omitted image "application-filter.png"\] Alt text: application filter configuration form
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[work-order-task-states|Work order task states]]

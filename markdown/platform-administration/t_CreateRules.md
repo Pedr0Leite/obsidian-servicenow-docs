@@ -16,11 +16,11 @@ The use of rules to normalize a field is intended for large lists of variant fie
 
 ## About this task
 
-Always test your rules before applying them to all the existing records in the database. Prior to creating the rule, make sure to generate the list of [[c_FieldNormalization|Pending Values]] and create a [normal value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FieldNormalization.md) for the field. A normalized field can have a combination of aliases and rules.
+Always test your rules before applying them to all the existing records in the database. Prior to creating the rule, make sure to generate the list of [Pending Values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FieldNormalization.md) and create a [normal value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FieldNormalization.md) for the field. A normalized field can have a combination of aliases and rules.
 
 ## Procedure
 
-1.  In a Normalization record, open the **[[c_WhatFieldNormalizationDoes|Normal Values]]** related list.
+1.  In a Normalization record, open the **Normal Values** related list.
 
 2.  Open a Normal Value record.
 
@@ -55,7 +55,4 @@ Always test your rules before applying them to all the existing records in the d
 
     Field normalization records are created in the **Test** mode by default, enabling administrators to test normalization rules thoroughly before applying them to the existing records in the database. In the testing mode, the **Start** controls are not available for the **Rule applier** data job. The job can be run only when testing is complete and the **Mode** has been changed to **Active**. In the testing mode, only records that have been created or updated by a user with the normalization\_tester role are normalized. The normalizer and normalization\_tester roles can be combined for a single user or granted separately.
 
-## Related
 
-- [[c_FieldNormalization|Field normalization and transformation]]
-- [[c_WhatFieldNormalizationDoes|Normal values]]

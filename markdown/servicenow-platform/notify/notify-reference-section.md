@@ -14,7 +14,7 @@ breadcrumb: [Notify, Manage service capabilities, Extend ServiceNow AI Platform 
 
 # Notify reference
 
-View the additional information about [[notify-landing-page|Notify]] application in this section.
+View the additional information about Notify application in this section.
 
 -   **[Differences between Notify-Twilio and Notify-Twilio Direct](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/difference-notify-twilio-direct.md)**  
 Describes the differences between the Notify-Twilio and Notify-Twilio Direct drivers, including architecture, workflows, Twilio support, and task-initiated conference calls.
@@ -27,16 +27,11 @@ Several types of components are installed with the Twilio Direct driver for inte
 -   **[Numbers and number groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NumberGroups.md)**  
 Number groups allow you to group Notify phone numbers and share workflows across grouped numbers.
 -   **[Notify flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-flow-designer.md)**  
-Use [[notify-flow-designer|Notify flows]] to manage the calls and SMS messages.
+Use Notify flows to manage the calls and SMS messages.
 -   **[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)**  
-[[c_NotifyActivities|Notify workflow activities]] manage calls and SMS messages in Notify.
+Notify workflow activities manage calls and SMS messages in Notify.
 -   **[Components installed with Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)**  
 Several types of components are installed with the Notify application.
 
 **Parent Topic:**[Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-landing-page.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[notify-flow-designer|Notify flows]]
-- [[c_NotifyActivities|Notify workflow activities]]

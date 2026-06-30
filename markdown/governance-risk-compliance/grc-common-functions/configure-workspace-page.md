@@ -22,7 +22,7 @@ Role required: sn\_grc\_workspace.admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **[[workspace-page-configuration|Workspace Page Configuration]]**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Workspace Page Configuration**.
 
 2.  Select the record that you want to configure.
 
@@ -44,12 +44,7 @@ Description of field values for the workspace configuration form.
 -   **[Revert record page templates to the pre-17.x version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/revert-to-previous-record-page.md)**  
 If you’re an existing customer and have a customized record page, you can revert to that old page.
 -   **[Record type icons configured for forms in GRC Common Workspace Elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/record-type-icons-rec-pg-mig.md)**  
-The table gives you a list of icons configured for the forms in the [[audit-management-overview-ws|Audit Workspace]] and Compliance Workspace.
+The table gives you a list of icons configured for the forms in the Audit Workspace and Compliance Workspace.
 
 **Parent Topic:**[Workspace page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/workspace-page-configuration.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[workspace-page-configuration|Workspace page configuration]]
-- [[audit-management-overview-ws|Audit Workspace]]

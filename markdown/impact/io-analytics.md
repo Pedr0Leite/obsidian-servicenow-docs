@@ -12,7 +12,7 @@ breadcrumb: [Monitoring instance health with Instance Observer, Platform Health,
 
 # Analytics
 
-View comparisons for [[instance-observer-performance|performance]] of key metrics over time with the [[impact-landing-page|Impact]] Total package.
+View comparisons for performance of key metrics over time with the Impact Total package.
 
 -   **Compare Datasets \(Release, Dates\)**
 
@@ -27,26 +27,16 @@ View comparisons for [[instance-observer-performance|performance]] of key metric
     Visualize trends and overlay key metrics to see impact
 
 
--   **[[io-compare-datasets|Compare datasets in Instance Observer]]**  
+-   **[Compare datasets in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-compare-datasets.md)**  
 Compare performance metrics between two time periods to identify trends, anomalies, or changes in your ServiceNow instance behavior. This analysis helps you to know the impact of changes, troubleshoot issues, and understand performance patterns over time.
--   **[[user-experience-insights|User Experience]]**  
+-   **[User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-experience-insights.md)**  
 Explore real-time user monitoring to analyze user experience and performance insights in Instance Observer​ telemetry into node, transaction type, URL, and user level breakdowns for Impact Total customers.
--   **[[manage-user-experience|Manage User Experience]]**  
+-   **[Manage User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/manage-user-experience.md)**  
 Explore in-depth transactions for a user or a node for a given period.
--   **[[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]]**  
+-   **[Track the response time of applications to monitor their performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/monitor-apps-user-experience-io.md)**  
 Track the response time of applications to gauge their performance. You can drill down to the transaction ID of each application to learn the slowest and fastest interactions in each instance.
--   **[[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]]**  
+-   **[Analyze user experience and monitor application performance in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-app-mon-perf-analy.md)**  
 Get visibility into the operational metrics of applications and their performance. You can find out the number of applications per instance, the number of pages within each application, page-level response time, user interaction frequency with each application, and page access frequency by users within each application.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[io-compare-datasets|Compare datasets in Instance Observer]]
-- [[user-experience-insights|User Experience]]
-- [[manage-user-experience|Manage User Experience]]
-- [[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]]
-- [[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]]
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]

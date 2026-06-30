@@ -14,7 +14,7 @@ breadcrumb: [Manager Hub, HR Service Delivery, Employee Service Management]
 
 # Explore Manager Hub
 
-Learn how to set up and start using [[manager-hub-overview|Manager Hub]].
+Learn how to set up and start using Manager Hub.
 
 \[Omitted image "manager-hub.png"\] Alt text: Overview
 
@@ -22,7 +22,7 @@ Learn how to set up and start using [[manager-hub-overview|Manager Hub]].
 
 Activate Manager Hub from ServiceNow Store.
 
-**Note:** Manager Hub is available with the [[employee-center-pro-landing|Employee Center Pro]] application. Some of the features of Manager Hub work only when the [[hr-service-delivery|HR Service Delivery]] and [[employee-journey-management|Employee Journey Management]] applications are activated.
+**Note:** Manager Hub is available with the Employee Center Pro application. Some of the features of Manager Hub work only when the HR Service Delivery and Employee Journey Management applications are activated.
 
 ## Request apps on the Store
 
@@ -30,7 +30,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## 2. Configuring data
 
-Configure roles, team data, team requests, important dates, team column data, team filters, daily stats, and [[employee-center-landing-page|Employee Center]] and other Service Portals. Display curated and personalized data to managers in Manager Hub.
+Configure roles, team data, team requests, important dates, team column data, team filters, daily stats, and Employee Center and other Service Portals. Display curated and personalized data to managers in Manager Hub.
 
 To learn more about this, see [Configure Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-managerhub.md) and [Reference for Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-manager-hub.md).
 
@@ -40,10 +40,3 @@ Have a better engagement with your team — Act on items that need immediate att
 
 To learn more about this, see [Use Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-manager-hub.md).
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-journey-management|Employee Journey Management]]
-- [[employee-center-landing-page|Employee Center]]

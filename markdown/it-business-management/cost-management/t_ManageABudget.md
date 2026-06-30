@@ -14,7 +14,7 @@ breadcrumb: [Budgets and cost centers, Cost Management, Strategic Portfolio Mana
 
 # Create or update a budget
 
-[[r_CostManagement|Cost management]] provides budgets for you to plan expenses for a certain time period.
+Cost management provides budgets for you to plan expenses for a certain time period.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Review the related lists for this budget and update them as necessary. See [Budg
 
 [Budgets and cost centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_BudgetsAndCostCenters.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

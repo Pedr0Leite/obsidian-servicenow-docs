@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for mobile, HR Service Delivery, Employee Servi
 
 # Administer Now Mobile
 
-Configure the Now Mobile experience for your employees to enable them to access features from [[hr-lifecycle-events-landing-page-1|Lifecycle Events]], [[jny-dsgnr-landing-page-1|Journey designer]], and Agent Chat in their mobile devices.
+Configure the Now Mobile experience for your employees to enable them to access features from Lifecycle Events, Journey designer, and Agent Chat in their mobile devices.
 
 Configure the different media sections to provide relevant content to new hires at different stages of the onboarding process. And you can enable chat so that new hires can chat with a live or virtual agent from within the app.
 
@@ -27,7 +27,3 @@ Activate the Chat quick action so that your new hires can chat with a live or vi
 
 **Parent Topic:**[HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/mobile-employee-experience-for-hr-service-delivery.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

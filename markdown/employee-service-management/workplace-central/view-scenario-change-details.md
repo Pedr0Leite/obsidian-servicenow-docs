@@ -30,13 +30,13 @@ View details of every change made in the scenario. You can view details such as 
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -81,9 +81,9 @@ The stack plan view of the building opens.
 </td></tr></tbody>
 </table>    The stack plan of the selected scenario opens.
 
-4.  Select the **[[space-deployment-plan|Space Deployment plan]]** tab of the scenario.
+4.  Select the **Space Deployment plan** tab of the scenario.
 
-    To view user-related changes, select the **[[user-deployment-plan|User Deployment plan]]**.
+    To view user-related changes, select the **User Deployment plan**.
 
 
 ## Result
@@ -122,12 +122,3 @@ For more information about the space and user deployment plans, see the followin
 
 [Map based space administration]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]
-- [[space-deployment-plan|Space Deployment Plan]]
-- [[user-deployment-plan|User Deployment Plan]]

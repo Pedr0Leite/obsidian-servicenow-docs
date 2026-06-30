@@ -72,10 +72,10 @@ Software Model Results related lists:
 -   Licensed Installs
 -   Unlicensed Installs \(SAP: Unlicensed Users\)
 -   Unlicensed Subscriptions \(Subscription-based software\)
--   Unlicensed Consumptions \(Consumption-based [[c_CreatingSoftwareModels|software models]]\)
+-   Unlicensed Consumptions \(Consumption-based software models\)
 -   Unlicensed Options \(Oracle only\)
 -   Removal Candidates
--   Purchase Orders \(only when the [[c_Procurement|Procurement]] \(com.snc.procurement\) plugin is active\)
+-   Purchase Orders \(only when the Procurement \(com.snc.procurement\) plugin is active\)
 
 License Metric Results related list:
 
@@ -265,7 +265,7 @@ Estimated cost saved by reclaiming removal candidates.
 
 </td></tr><tr><td>
 
-[[downgrade-rights|Downgrade rights]]**Note:** This field is hidden by default. Select the personalize list icon \(\[Omitted image "gear-icon.png"\] Alt text: Personalize list\) to modify the fields that appear in the License Metric Results.
+Downgrade rights**Note:** This field is hidden by default. Select the personalize list icon \(\[Omitted image "gear-icon.png"\] Alt text: Personalize list\) to modify the fields that appear in the License Metric Results.
 
 </td><td>
 
@@ -378,15 +378,9 @@ Reconciliation is run as a scheduled job \(default is weekly\), but you can also
 -   **[View software model results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_ViewSWModelResults.md)**  
 View compliance information for software model results from the Product Results list after reconciliation is run.
 -   **[Add a software removal candidate in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAReclCandidate.md)**  
-Removal candidates [[reclaiming-software-sam|reclaim software]] resources in your environment. They are created from reclamation rules, or can be created manually.
+Removal candidates reclaim software resources in your environment. They are created from reclamation rules, or can be created manually.
 -   **[Reconciliation and product results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/Recon-swmodelresults-classic.md)**  
 Field descriptions for the reconciliation results, product results, and software product results.
 
 **Parent Topic:**[Using Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-classic.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Procurement|Procurement]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[reclaiming-software-sam|Reclaim software]]

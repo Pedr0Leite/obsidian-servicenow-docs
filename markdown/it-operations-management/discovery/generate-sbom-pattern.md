@@ -21,7 +21,7 @@ Download a software Bill of Materials \(SBOM\) to gain visibility to the compone
 
 The SBOM must have been configured. For more information, see [Configure the SBOM generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enable-sbom.md).
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -36,6 +36,3 @@ Role required: [[r-discovery|discovery]]\_admin
 
 **Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

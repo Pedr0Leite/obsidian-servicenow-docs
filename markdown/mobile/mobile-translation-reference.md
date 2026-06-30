@@ -31,8 +31,5 @@ Use this reference to find which values to use to translate your mobile elements
 
 This example shows a translation record for an applet called **My Tasks** translated into Spanish.\[Omitted image "mobile-translate-example.png"\] Alt text: Translation record example.
 
-**Parent Topic:**[[localization-server-side|Server-side localization]]
+**Parent Topic:**[Server-side localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-server-side.md)
 
-## Related
-
-- [[localization-server-side|Server-side localization]]

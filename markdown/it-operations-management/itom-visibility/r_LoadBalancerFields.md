@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Load balancer fields and probes
 
-[[r-discovery|Discovery]] stores load balancer information in several tables.
+Discovery stores load balancer information in several tables.
 
 The information in this topic pertains to discovery with probes and sensors only. If you are using patterns, such as to discover [F5 Big-IP load balancers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerF5BIGIP.md), see the relevant topic for that type of load balancer.
 
@@ -350,6 +350,3 @@ Discovery also collects data on Apache web serer load balancing modules using SS
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

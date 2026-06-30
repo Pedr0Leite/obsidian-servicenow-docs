@@ -14,8 +14,5 @@ breadcrumb: [Configuring Cloud Account Management, Cloud Account Management, ITO
 
 # Configuring cloud providers
 
-The topics in this section cover various cloud configurations required to set up and work with [[cam-landing|Cloud Account Management]] in Cloud Workspace.
+The topics in this section cover various cloud configurations required to set up and work with Cloud Account Management in Cloud Workspace.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

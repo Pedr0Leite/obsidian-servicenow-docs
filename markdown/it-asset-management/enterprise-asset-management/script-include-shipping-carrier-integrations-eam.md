@@ -14,7 +14,7 @@ breadcrumb: [Configuring shipping, Configure, Enterprise Asset Management, IT As
 
 # Script include for third-party shipping carrier integrations
 
-Before you can integrate the [[enterprise-asset-management|Enterprise Asset Management]] application with a third-party shipping carrier, that shipping carrier must create a script include that extends the base ITAMShipmentIntegration script. By extending this script, you can connect to the third-party shipping carrier application and retrieve shipment details in real-time.
+Before you can integrate the Enterprise Asset Management application with a third-party shipping carrier, that shipping carrier must create a script include that extends the base ITAMShipmentIntegration script. By extending this script, you can connect to the third-party shipping carrier application and retrieve shipment details in real-time.
 
 ## Structure of the ITAMShipmentIntegration script include
 
@@ -37,11 +37,7 @@ The processResponse function within the ITAMShipmentIntegration script include r
 -   Delivery services cost
 -   Parcel weight
 
-**Important:** The [[it-asset-management|IT Asset Management]] application automatically defines the business logic within this function. The business logic should not be modified.
+**Important:** The IT Asset Management application automatically defines the business logic within this function. The business logic should not be modified.
 
 **Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-shipments-eam.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[it-asset-management|IT Asset Management]]

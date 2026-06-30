@@ -12,7 +12,7 @@ breadcrumb: [IoCs and observables in cases, Case creation from security artifact
 
 # Create an observable from a case
 
-New [[c_Observables|observables]] can be created from cases in [[case-mgmt|Security Case Management]].
+New observables can be created from cases in Security Case Management.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_ti.case\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Case Management** &gt; **All Cases**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Case Management** &gt; **All Cases**.
 
     The Security Cases list opens.
 
-2.  Either open an existing case or click **New** to [[create-cases-in-case-mgmt|create a new case]].
+2.  Either open an existing case or click **New** to [create a new case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-cases-in-case-mgmt.md).
 
 3.  Click the **Case Artifacts** related link and click the **Observables** tab.
 
@@ -52,10 +52,10 @@ Role required: sn\_ti.case\_user
 
 7.  Click **Submit**.
 
-    As needed, you can click the **Case Artifacts** tab and [[add-records-to-cases|add artifacts to the case]].
+    As needed, you can click the **Case Artifacts** tab and [add artifacts to the case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md).
 
 
-**Parent Topic:**[[cases-in-threat|IoCs and observables in cases]]
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-in-threat.md)
 
 **Related topics**  
 
@@ -64,14 +64,5 @@ Role required: sn\_ti.case\_user
 
 [Add IoCs and observables to an existing case]()
 
-[Run a [[indicator-sightings|sightings]] search on observables in a case]()
+[Run a sightings search on observables in a case]()
 
-## Related
-
-- [[create-cases-in-case-mgmt|Create cases in Security Case Management]]
-- [[add-records-to-cases|Add artifacts to a case]]
-- [[cases-in-threat|IoCs and observables in cases]]
-- [[c_Observables|Observables]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator-sightings|Sightings]]

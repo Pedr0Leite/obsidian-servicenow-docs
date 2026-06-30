@@ -14,13 +14,13 @@ breadcrumb: [Integrate ThousandEyes platform events, Integrate with push connect
 
 # Integrate ThousandEyes with basic authentication
 
-Integrate ThousandEyes with [[c_EM|Event Management]] by adding a webhook in the ThousandEyes platform.
+Integrate ThousandEyes with Event Management by adding a webhook in the ThousandEyes platform.
 
 ## Before you begin
 
 Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
-[[r-discovery|Discovery]] for ThousandEyes services is not supported, so you must create a CI manually in the ServiceNow instance for event binding to work.
+Discovery for ThousandEyes services is not supported, so you must create a CI manually in the ServiceNow instance for event binding to work.
 
 Role required: evt\_mgmt\_admin
 
@@ -88,7 +88,3 @@ The default severity for the ThousandEyes alert is **Major -2**, which can be ch
 
 The default timezone of the ThousandEyes alert is GMT, if you want to send the alert in a different timezone, it can be changed in the **Push Connector Configuration** section of **Push Connectors** &gt; **ThousandEyes Push Connector**. The valid value format is **GMT+01:00**, **GMT+02:00**, **GMT-05:30**, **GMT-02:00**, etc.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

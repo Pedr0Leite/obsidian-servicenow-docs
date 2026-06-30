@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Domain separation and Contact Tracing
 
-Domain separation is supported for the ServiceNow® [[contact-tracing|Contact Tracing]] application. The application helps organizations reduce workplace transmission of infectious diseases, such as COVID-19, by identifying anyone on site who might have been in contact with an affected person.
+Domain separation is supported for the ServiceNow® Contact Tracing application. The application helps organizations reduce workplace transmission of infectious diseases, such as COVID-19, by identifying anyone on site who might have been in contact with an affected person.
 
 ## Support level: Standard\*
 
@@ -43,6 +43,3 @@ See [Domain separation and Safe Workplace suite](https://raw.githubusercontent.c
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

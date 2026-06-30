@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Workspace, Configuration Management Database \(CMDB\)
 
 # Configuring Service Graph Workspace
 
-Plan and configure your implementation of [[sg-workspace|Service Graph Workspace]].
+Plan and configure your implementation of Service Graph Workspace.
 
 1.  [Set up Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/setup-service-graph-workspace.md)
 
@@ -28,6 +28,3 @@ Plan and configure your implementation of [[sg-workspace|Service Graph Workspace
     -   [Limit the class list for new CIs created in a workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/limit-class-create-ci-workspace-sg.md)
     -   [Create a custom list in the Lists view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-create-custom-list.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

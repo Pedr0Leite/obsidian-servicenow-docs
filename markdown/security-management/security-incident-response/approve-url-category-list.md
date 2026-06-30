@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Approve observables to URL category lists
 
-Approve [[c_Observables|observables]] that are added to a URL Category List so that observable entries are in the appropriate allow or deny lists.
+Approve observables that are added to a URL Category List so that observable entries are in the appropriate allow or deny lists.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_si.analyst
 
     The approvers group receives an email notification for the approval request. After the approvers click the **Approve/Reject** link in the email, the status changes to approved.
 
-## Related
 
-- [[c_Observables|Observables]]

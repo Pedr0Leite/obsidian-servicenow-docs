@@ -26,7 +26,7 @@ This video shows an example of how to set up a 3x3 risk matrix and explains its 
 
 \[Omitted video\] Description: Risk matrix configuration video. Approximately one minutes thirty four seconds long.
 
-The pre-defined risk matrixes can be used by safety team members to create and conduct risk assessments in the [[health-safety-core-workspace|Health and Safety Workspace]]. The selected matrix is used by the risk assessment to evaluate the level of risk. For more information, see [Conduct a safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-conduct-risk-assessment.md).
+The pre-defined risk matrixes can be used by safety team members to create and conduct risk assessments in the Health and Safety Workspace. The selected matrix is used by the risk assessment to evaluate the level of risk. For more information, see [Conduct a safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-conduct-risk-assessment.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 ## Result
 
 -   The risk matrix is listed in the **Risk matrices** list under **Configuration** and is saved in the Risk matrix \[sn\_hs\_rm\_risk\_matrix\] table.
--   The matrix is available for selection on the [[hs-risk-assessment-form|Risk assessment form]] when conducting a risk assessment.
+-   The matrix is available for selection on the Risk assessment form when conducting a risk assessment.
 
 ## 5\*5 risk matrix example
 
@@ -68,7 +68,3 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-risk-assessment-form|Risk assessment form]]

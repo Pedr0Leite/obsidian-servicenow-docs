@@ -29,8 +29,5 @@ The \[Omitted image "io-bell-icon.png"\] Alt text: Bell icon. icon displays the 
 
 Notifications can be dismissed, marked as read, and managed through options to clear all or view history, which retains unread notifications for 72 hours and read ones for 7 days. The **View notification history** includes filtering and search capabilities by Instance, status, metric, and notification type.
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[io-alerts-intro|Alerts in Instance Observer]]

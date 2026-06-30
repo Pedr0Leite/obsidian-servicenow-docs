@@ -12,7 +12,7 @@ breadcrumb: [Scenario analysis, Manage, Operational Resilience, Governance, Risk
 
 # Legacy scenario analysis
 
-By performing a [[scenario-analysis-ov|scenario analysis]], you can determine the risks that might impact your business. You can analyze the impact of the scenarios and events on your business services. You can also track the actions and improvements from the scenario analysis in [[grc-opres-landing-page|Operational Resilience]] Workspace.
+By performing a scenario analysis, you can determine the risks that might impact your business. You can analyze the impact of the scenarios and events on your business services. You can also track the actions and improvements from the scenario analysis in Operational Resilience Workspace.
 
 ## Scenario analysis process
 
@@ -22,7 +22,7 @@ When a plan approver approves the plan approval, it triggers a response task for
 
 As an owner of the scenario analysis, you can verify the status of the services and calculate the possible disruptions. After the response tasks have been completed, you can request an analysis approval for your scenario analysis. When an analysis approver approves the scenario analysis, you can close it and monitor its status in Operational Resilience Workspace.
 
-**Note:** Starting with Operational Resilience, version 22.3.1, the advanced scenario analysis experience is displayed in the Operational Resilience Workspace by default. To enable the legacy scenario analysis entry points, see [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]].
+**Note:** Starting with Operational Resilience, version 22.3.1, the advanced scenario analysis experience is displayed in the Operational Resilience Workspace by default. To enable the legacy scenario analysis entry points, see [Enable the legacy scenario analysis flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-scenario-analysis-legacy-flow.md).
 
 ## Tasks to set up the legacy scenario analysis
 
@@ -36,8 +36,8 @@ If you've got the sn\_oper\_res.manager role, you can set up the legacy scenario
 6.  Collect the observations, gaps, and recommendations from the participants about the scenario analysis event. The participants of a scenario event are the users with at least the sn\_oper\_res.user roles from the associated business functions, such as Finance or HR departments.
 7.  Compare the impact tolerance with the disruption duration to determine if any service was breached.
 8.  Close the open response tasks and open scenario events that are associated with your scenario analysis.
-9.  Send the scenario analysis to the analysis approver for a review and [[submit-vul-for-approval|request an approval]] for the scenario analysis.
-10. [[close-the-scenario-analysis|Close the scenario analysis]] and monitor its status in Operational Resilience Workspace.
+9.  Send the scenario analysis to the analysis approver for a review and request an approval for the scenario analysis.
+10. Close the scenario analysis and monitor its status in Operational Resilience Workspace.
 
 ## States and UI actions that are associated with a scenario analysis
 
@@ -97,7 +97,7 @@ More details about the UI actions for this state:
 
 -   As the plan approver of the analysis, you must review the scope of the analysis in the **Pending plan approval** state. You can check the setup of the associated services, participants, scenario events, and issues.
 -   To approve the plan for the analysis, navigate to the **Approvals** tab, update the state from **Requested** to **Approved**, and then in the scenario analysis form, select **Save**.
--   When you [[plan-approve-sce-analysis|approve the plan for the scenario analysis]] and save it, the state of the scenario analysis is updated to **Analyze**.
+-   When you approve the plan for the scenario analysis and save it, the state of the scenario analysis is updated to **Analyze**.
 
 -   If you reject the plan, the state of the scenario analysis is reset to **Draft**.
 
@@ -107,7 +107,7 @@ Analyze
 
 </td><td>
 
-On the **Scenario events** tab, [[add-a-scenario-event|add a scenario event]] to the analysis by selecting **Add**. On the **Participants** tab, add a participant to the analysis by selecting **Add**.
+On the **Scenario events** tab, add a scenario event to the analysis by selecting **Add**. On the **Participants** tab, add a participant to the analysis by selecting **Add**.
 
  On the **Scenario events** tab, update the state to **Closed** to close the scenario event. Select **Request analysis approval**.
 
@@ -175,7 +175,7 @@ The Operational Resilience application fetches the service entities from the Ser
 
 \[Omitted image "entity-type-module-view-in-list-4.png"\] Alt text: Services OR entity type.
 
-Users with the sn\_oper\_res.admin role can view the [[entity-type-in-risk-ws|Entity Types]] module and its related lists in the Operational Resilience application UI as shown in the following example.
+Users with the sn\_oper\_res.admin role can view the Entity Types module and its related lists in the Operational Resilience application UI as shown in the following example.
 
 \[Omitted image "entities-under-services-or-entity-type-5.png"\] Alt text: Service entities under the Services OR entity type.
 
@@ -228,13 +228,3 @@ The Summary panel provides information about the business services, associated s
 |Duration of events with overlaps|Summary of all event durations including the overlapping events and pauses. It is displayed in the number of days and minutes.|
 |Duration of events without overlaps|Summary of all event durations without the overlapping events and pauses. It is displayed in the number of days and minutes.|
 
-## Related
-
-- [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[close-the-scenario-analysis|Close the scenario analysis]]
-- [[plan-approve-sce-analysis|Approve the plan for the scenario analysis]]
-- [[add-a-scenario-event|Add a scenario event]]
-- [[entity-type-in-risk-ws|Entity types]]

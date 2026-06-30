@@ -14,7 +14,7 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 # Upload a document as an attachment
 
-After creating a document record, add the document to the record as an [[attachment|attachment]].
+After creating a document record, add the document to the record as an attachment.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[attachment|Attachment]]

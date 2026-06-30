@@ -34,11 +34,11 @@ The guided setup for the Service Graph Connector for Observability - Datadog pro
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Observability Datadog integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Observability Datadog integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from the Datadog data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Datadog data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 The Datadog data source includes SGO-Datadog Hosts \[sn\_datadog\_integra\_datadog\_hosts\].
 
@@ -49,13 +49,13 @@ When you complete setting up the connection, the data from Datadog is automatica
 -   Cloud DataBase \[cmdb\_ci\_cloud\_database\]
 -   Cloud Load Balancer \[cmdb\_ci\_cloud\_load\_balancer\]
 -   Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]
--   [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+-   IP Address \[cmdb\_ci\_ip\_address\]
 -   Key Value \[cmdb\_key\_value\]
 -   Logical Datacenter \[cmdb\_ci\_logical\_datacenter\]
 -   Network Adapter \[cmdb\_ci\_network\_adapter\]
 -   Server \[cmdb\_ci\_server\]
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 **Related topics**  
 
@@ -68,10 +68,3 @@ You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data m
 
 [Accessing the connection details of Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-datadog-conn.md)
 
-## Related
-
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[ip-address|IP Address]]
-- [[integrationhub-etl|IntegrationHub ETL]]

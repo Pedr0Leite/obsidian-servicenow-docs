@@ -18,7 +18,7 @@ When you upgrade to RaptorDB Professional V2 and install Live Archive, you can m
 
 Object storage doesn't require additional configuration beyond plugin installation.
 
-During the migration to object storage, [[c_DataManagement|data management]] processes that interact with archive tables are temporarily paused. However, no downtime is required for the upgrade itself. For more information about upgrading to RaptorDB Professional, contact your account representative.
+During the migration to object storage, data management processes that interact with archive tables are temporarily paused. However, no downtime is required for the upgrade itself. For more information about upgrading to RaptorDB Professional, contact your account representative.
 
 ## Key benefits
 
@@ -47,7 +47,7 @@ Live Archive extends the existing archive rules framework. When records match th
 
     Use archive rules to define which records should be archived. Time-based conditions are common. For example, to archive incidents closed more than two years ago. However, any field-based condition is supported.
 
-    Existing archive rules operate without changes or migration. For guidance on creating and managing archive rules, see [[t_CreateAnArchiveRule|Create an archive rule in Core UI]].
+    Existing archive rules operate without changes or migration. For guidance on creating and managing archive rules, see [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
     When an archive rule runs, records and attachments move from live tables to archive tables through the S3 facade.
 
@@ -70,10 +70,5 @@ Live Archive extends the existing archive rules framework. When records match th
     Object storage data is encrypted at rest and in transit without requiring additional configuration.
 
 
-To install Live Archive after upgrading to RaptorDB Professional V2, see [[install-data-archiving-plugin|Install Live Archive]].
+To install Live Archive after upgrading to RaptorDB Professional V2, see [Install Live Archive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-data-archiving-plugin.md).
 
-## Related
-
-- [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
-- [[install-data-archiving-plugin|Install Live Archive]]
-- [[c_DataManagement|Data Management]]

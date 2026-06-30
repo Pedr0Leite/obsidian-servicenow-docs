@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Create and manage action plan task templates
 
-Create and manage the task templates that managers, mentors, and employees can use for their [[journey-accelerator-1|Journey Accelerator]] plans. [[ut-use-task-template|Use task templates]] to provide a consistent and streamlined experience for creating Journey Accelerator plans.
+Create and manage the task templates that managers, mentors, and employees can use for their Journey Accelerator plans. Use task templates to provide a consistent and streamlined experience for creating Journey Accelerator plans.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Journey Accelerator task templates appear as to-do lists in the [[employee-center-landing-page|Employee Center]] for managers, mentors, or employees.
+Journey Accelerator task templates appear as to-do lists in the Employee Center for managers, mentors, or employees.
 
 ## Procedure
 
@@ -34,8 +34,4 @@ Journey Accelerator task templates appear as to-do lists in the [[employee-cente
 
 3.  Click **Submit** or **Update**.
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[ut-use-task-template|Use Task templates]]
-- [[employee-center-landing-page|Employee Center]]

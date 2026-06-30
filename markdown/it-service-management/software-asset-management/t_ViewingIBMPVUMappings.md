@@ -14,7 +14,7 @@ breadcrumb: [Legacy IBM PVU Process Pack, Legacy Software Asset Management plugi
 
 # View IBM PVU mappings for the legacy IBM PVU Process Pack
 
-Every rule listed in the IBM PVU Table is represented by one PVU mapping record in the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+Every rule listed in the IBM PVU Table is represented by one PVU mapping record in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ For example, in the IBM PVU Table there is one line with processor name POWER5 Q
 
 **Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

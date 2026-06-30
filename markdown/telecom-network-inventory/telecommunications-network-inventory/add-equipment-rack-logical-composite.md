@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Add an equipment or rack to logical composite
 
-Add equipment or rack to a logical composite using [[telecommunications-circuit-design-resource-assignment|design and assign]].
+Add equipment or rack to a logical composite using design and assign.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can add only equipment or rack to a logical composite. The logical composite
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -113,7 +113,3 @@ The equipment or rack record is added to the logical composite record.
 
 [Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

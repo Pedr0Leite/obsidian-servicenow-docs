@@ -15,7 +15,7 @@ breadcrumb: [Adobe Acrobat Sign external content connector, Configure, External 
 
 # Configure Adobe Acrobat Sign for external content indexing
 
-Create and authorize an OAuth 2.0 application in Adobe Acrobat Sign to allow the [[adobe-acrobat-sign-external-content-connector|Adobe Acrobat Sign external content connector]] to access your Adobe Acrobat Sign source system.
+Create and authorize an OAuth 2.0 application in Adobe Acrobat Sign to allow the Adobe Acrobat Sign external content connector to access your Adobe Acrobat Sign source system.
 
 ## Before you begin
 
@@ -123,6 +123,3 @@ For details on creating and configuring a Adobe Acrobat Sign external content co
 
 **Parent Topic:**[Adobe Acrobat Sign external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adobe-acrobat-sign-external-content-connector.md)
 
-## Related
-
-- [[adobe-acrobat-sign-external-content-connector|Adobe Acrobat Sign external content connector]]

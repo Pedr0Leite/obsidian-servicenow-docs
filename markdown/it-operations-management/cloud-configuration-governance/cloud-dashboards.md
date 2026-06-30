@@ -14,14 +14,14 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Cloud Provisioning and Governance dashboards and reports
 
-[[otto-aiops-dashboards|Dashboards]] enable cloud admins and cloud users to view reports like cloud billing data and cloud tag usage.
+Dashboards enable cloud admins and cloud users to view reports like cloud billing data and cloud tag usage.
 
-Follow this short video to learn more about [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] dashboards.
+Follow this short video to learn more about Cloud Provisioning and Governance dashboards.
 
 **Important:** Starting with the Australia release, the Billing dashboard is no longer available if you have downloaded the ServiceNow Store Cloud Cost Management app. The following changes occur:
 
 -   You are redirected to the Cloud Cost Management home page by default.
--   The View Dashboard widget in the [[cloudmgt-cloud-user-portal|Cloud User portal]] is replaced by the View Resources widget.
+-   The View Dashboard widget in the Cloud User portal is replaced by the View Resources widget.
 -   The Current Month Spend widget and the Budget widget on the Cloud User portal do not show any data if Cloud Cost Management is activated on the instance.
 
 ## View cloud costs on the Billing dashboard
@@ -36,7 +36,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ### Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Analyze** &gt; **Billing** &gt; **Billing Dashboard**.
+1.  In the Cloud Admin Portal, navigate to **Analyze** &gt; **Billing** &gt; **Billing Dashboard**.
 
     The Billing dashboard shows the **Cloud Cost** tab by default. This tab displays these two graphs:
 
@@ -125,7 +125,7 @@ Administrators can assign a budget \(in USD\) on a weekly, monthly, quarterly, o
 
 A default budget is given to each new group and new user. A new group gets a default budget of $1000 and a new user gets a default budget of 100 dollars.
 
-Administrators can increase or decrease the budget at any given time. Notifications are sent to the user and the group when the budget limit reaches its threshold limits. Notifications trigger as part of the billing process. Billing [[r-discovery|discovery]] is scheduled for each user and group. At the end of the billing discovery, a comparison is made between the budget limit and the actual cost and if the threshold has reached or has exceeded, notifications are triggered.
+Administrators can increase or decrease the budget at any given time. Notifications are sent to the user and the group when the budget limit reaches its threshold limits. Notifications trigger as part of the billing process. Billing discovery is scheduled for each user and group. At the end of the billing discovery, a comparison is made between the budget limit and the actual cost and if the threshold has reached or has exceeded, notifications are triggered.
 
 Administrators can set up a policy whereby if the budget limit reaches a particular threshold or exceeds the limit, the administrator gives an approval for the user or the group to continue using the resources. For example, the administrator can create a policy for a group whereby when the group's budget threshold reaches 90%, an approval is required for the group to continue consuming resources. If the administrator does not set up a policy for the budget, the user or the group can continue using the resources.
 
@@ -156,10 +156,4 @@ Role required: admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[otto-aiops-dashboards|Dashboards]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]

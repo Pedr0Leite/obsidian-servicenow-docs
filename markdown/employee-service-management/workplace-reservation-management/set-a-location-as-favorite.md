@@ -14,11 +14,11 @@ breadcrumb: [Reserve workplace items, Workplace Reservation Management, Workplac
 
 # Set a location as favorite using the Space details page
 
-Mark your most reserved workplace location as favorite in the [[workplace-services-portal-hr|Workplace Service Portal]]. Once the location is set as favorite, it is displayed first whenever you search for locations to [[reservation-portal|make a reservation]].
+Mark your most reserved workplace location as favorite in the Workplace Service Portal. Once the location is set as favorite, it is displayed first whenever you search for locations to make a reservation.
 
 ## Before you begin
 
-**Important:** The favorite option appears only if you have access to the [[employee-center-landing-page|Employee Center]] and if your administrator has enabled the favorite option.
+**Important:** The favorite option appears only if you have access to the Employee Center and if your administrator has enabled the favorite option.
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -31,7 +31,7 @@ You can set a location as favorite from any one of the following locations in th
 
 After you set a workplace location as your favorite, you can directly reserve that location from the My favorites page on the Employee Center.
 
-**Note:** For more information about the derivation logic used by [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] on the Space details page to assign reservable modules, see [Reservable module derivation logic for Space details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-logic-for-myfavorites-space-details.md).
+**Note:** For more information about the derivation logic used by Workplace Reservation Management on the Space details page to assign reservable modules, see [Reservable module derivation logic for Space details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-logic-for-myfavorites-space-details.md).
 
 ## Procedure
 
@@ -157,9 +157,3 @@ The location is added to your favorites list.
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[reservation-portal|Make a reservation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

@@ -24,13 +24,13 @@ Major incident trigger rules are evaluated asynchronously each time a major inci
 -   The major incident isn't proposed or accepted.
 -   The incident is active.
 
-You can also configure major incident trigger rules to directly [[create-a-major-incident|create a major incident]], bypassing the candidate step.
+You can also configure major incident trigger rules to directly create a major incident, bypassing the candidate step.
 
 **Note:** Base system trigger rules are available.
 
 ## Before you begin
 
-The Major [[c_IncidentManagement|Incident Management]] plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
+The Major Incident Management plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Role required: admin
 
@@ -108,7 +108,7 @@ Application
 
 </td><td>
 
-Application scope of the trigger rule. The trigger rule is available for all [[dex-workspace-application-tab|applications]] or for scoped applications.
+Application scope of the trigger rule. The trigger rule is available for all applications or for scoped applications.
 
 </td></tr><tr><td>
 
@@ -141,8 +141,4 @@ Condition builder to set conditions that must be met to execute the trigger rule
 
     The trigger rule is created and added to the list of available trigger rules.
 
-## Related
 
-- [[create-a-major-incident|Create a major incident]]
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

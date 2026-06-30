@@ -18,8 +18,5 @@ Input forms create and update records, while inheriting the context of the recor
 
 To display attachments immediately in the activity stream, configure the write-back-action step field **Associate attachments to current record** to include any relevant attachment inputs in the input form. This verifies that attachments added offline are also reflected in the record’s activity stream. This configuration is applicable when the offline step is set to apply to offline only or both offline and online.
 
-**Parent Topic:**[[offline-input-form|Input forms in offline]]
+**Parent Topic:**[Input forms in offline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-input-form.md)
 
-## Related
-
-- [[offline-input-form|Input forms in offline]]

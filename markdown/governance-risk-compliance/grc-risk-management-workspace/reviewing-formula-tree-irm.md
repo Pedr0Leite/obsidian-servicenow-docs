@@ -14,7 +14,7 @@ breadcrumb: [Using GRC: Metrics to provide data, GRC: Metrics in Integrated Risk
 
 # Reviewing calculation details with formula trees
 
-Review calculated metric definitions by viewing a structured and visual representation of the entire calculation chain. By using a formula tree, you can access the calculation details and view how the different metrics and emission [[factors|factors]] are interconnected.
+Review calculated metric definitions by viewing a structured and visual representation of the entire calculation chain. By using a formula tree, you can access the calculation details and view how the different metrics and emission factors are interconnected.
 
 The formula tree is a tool that enhances transparency in calculated metric values. Navigate to the calculated metric data record you want and view the formula tree, which shows a detailed breakdown of the calculation. It displays the values of the operands and how they’re combined to produce the final result. This feature helps users and auditors understand and verify the accuracy of complex calculations.
 
@@ -43,6 +43,3 @@ View a structured and visual representation of the entire calculation chain.
 
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[factors|factors]]

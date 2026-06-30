@@ -14,11 +14,11 @@ breadcrumb: [Journey Accelerator, Employee Journey Management, HR Service Delive
 
 # Install and configure Journey Accelerator
 
-Install the [[journey-accelerator-1|Journey Accelerator]] \[sn\_ja\] application to enable your users to easily create and manage transition plans.
+Install the Journey Accelerator \[sn\_ja\] application to enable your users to easily create and manage transition plans.
 
 ## Before you begin
 
-The [[employee-center-landing-page|Employee Center]] must be installed and activated. Managers, employees, and mentors access Journey Accelerator plans from the EC.
+The Employee Center must be installed and activated. Managers, employees, and mentors access Journey Accelerator plans from the EC.
 
 -   Learn about the Employee Center \(EC\) portal \[com.sn\_hr\_service\_portal\] at [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 -   If you are planning to use the Journey Accelerator v2 scheduling feature, see [Microsoft Exchange Online setup for Journey Accelerator]() before you begin installation.
@@ -52,7 +52,3 @@ The [[employee-center-landing-page|Employee Center]] must be installed and activ
 
 [Verify the Journey Accelerator installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-verify-install-dataset-updates.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

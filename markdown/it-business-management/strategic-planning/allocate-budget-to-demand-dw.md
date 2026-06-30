@@ -22,7 +22,7 @@ Role required: portfolio\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -65,6 +65,3 @@ Role required: portfolio\_manager
 
 The demand budget for the selected year appears in the **Demand Budget** tab. You can select the amounts in the list to revise them.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

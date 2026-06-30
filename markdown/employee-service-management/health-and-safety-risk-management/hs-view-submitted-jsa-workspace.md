@@ -14,7 +14,7 @@ breadcrumb: [Job safety analysis, Use, Health and Safety Risk Management, Health
 
 # View submitted JSAs in the workspace
 
-View all submitted JSAs in [[health-safety-core-workspace|Health and Safety Workspace]]. All JSAs that employees have submitted through the [[employee-center-landing-page|Employee Center]] or ServiceNow® [[mobile-employee-experience|Now Mobile app]] are available to view in the workspace.
+View all submitted JSAs in Health and Safety Workspace. All JSAs that employees have submitted through the Employee Center or ServiceNow® Now Mobile app are available to view in the workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.jsa\_manager or sn\_hs\_rm.job\_safety\_analysis\_read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety Workspace**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -39,9 +39,3 @@ Role required: sn\_hs\_rm.jsa\_manager or sn\_hs\_rm.job\_safety\_analysis\_read
 
 **Parent Topic:**[Job safety analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-job-safety-analysis.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[health-safety-overview|Health and Safety]]

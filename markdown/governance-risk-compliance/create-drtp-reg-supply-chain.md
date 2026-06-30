@@ -24,7 +24,7 @@ Before saving an ICT service supply chain record, the system checks for duplicat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts** and select the desired contract.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts** and select the desired contract.
 
 2.  In the **ICT service supply chains** tab on the Contract form, select **New**.
 
@@ -38,7 +38,7 @@ Before saving an ICT service supply chain record, the system checks for duplicat
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[create-supply-chain-form|Create New ICT service supply chain form]].
+    For more information, see [Create New ICT service supply chain form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-supply-chain-form.md).
 
 4.  Select **Save**.
 
@@ -62,10 +62,5 @@ Before saving an ICT service supply chain record, the system checks for duplicat
 -   **[Create New ICT service supply chain form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-supply-chain-form.md)**  
 On the Create New ICT service supply chain form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-supply-chain-form|Create New ICT service supply chain form]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

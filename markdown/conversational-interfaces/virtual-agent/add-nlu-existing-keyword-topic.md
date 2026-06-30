@@ -14,7 +14,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Add NLU to an existing keyword topic
 
-Create and map an NLU model group and intent for the topic from [[assistant-designer|Assistant Designer]].
+Create and map an NLU model group and intent for the topic from Assistant Designer.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Set the discovery type toggle switch to **NLU/Keyword**.
 
@@ -69,8 +69,3 @@ The modified topic is in the inactive state until you publish it.
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

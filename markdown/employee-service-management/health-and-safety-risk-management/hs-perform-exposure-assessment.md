@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk management icon\).
 
@@ -82,7 +82,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
     -   The affected people are added to the **Affected people** tab of the generated exposure record.
     -   The action scheduler runs for the active exposure and assigns actions to exposed people. The actions for each affected person are listed in the **Actions** tab under the action schedule.
 -   If an active exposure is manually added to a Health and Safety user's profile, the user is also listed in the **Affected people** tab of the exposure record.
--   Any assigned actions appear in the affected people's **My Tasks** list in the [[employee-center-landing-page|Employee Center]].
+-   Any assigned actions appear in the affected people's **My Tasks** list in the Employee Center.
 
 -   **[Define an action schedule for affected people](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-define-action-schedule-affected-people.md)**  
 Define an action schedule for the people affected by an exposure. The action schedule creates an action for each affected person when there's an active exposure for an exposure assessment.
@@ -91,8 +91,3 @@ Add a measurement recorded for the exposure type when performing an exposure ass
 
 **Parent Topic:**[Safety exposure management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-exposures.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

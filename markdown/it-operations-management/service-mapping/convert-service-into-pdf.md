@@ -14,7 +14,7 @@ breadcrumb: [Application service analysis and maintenance using classic Service 
 
 # Convert application service maps into PDFs
 
-You may want to create a PDF for a map to share information about the service content with other people. PDFs are especially useful during the review and approve process for application services discovered by [[c_ServiceMappingOverview|Service Mapping]].
+You may want to create a PDF for a map to share information about the service content with other people. PDFs are especially useful during the review and approve process for application services discovered by Service Mapping.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The PDF of an application service map shows the name of the application service 
 
 **Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

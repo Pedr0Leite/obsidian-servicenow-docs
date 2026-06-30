@@ -26,7 +26,7 @@ To create or edit a category:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Maintain Categories**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Maintain Categories**.
 
     A list of existing categories appears. If the **Parent** field is blank, the category does not have a parent category.
 
@@ -34,7 +34,7 @@ To create or edit a category:
 
     **Note:** The visibility of a category is controlled by user criteria. See [Apply user criteria to items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AppUserCritItemsCat.md).
 
-    \[Omitted image "MaintainCategories.png"\] Alt text: Screenshot for the [[c_ServiceCatalogCategories|Service Catalog categories]]
+    \[Omitted image "MaintainCategories.png"\] Alt text: Screenshot for the Service Catalog categories
 
 3.  Fill in the fields on the form, as appropriate.
 
@@ -62,7 +62,3 @@ To create or edit a category:
 
 [Configure dynamic categories]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

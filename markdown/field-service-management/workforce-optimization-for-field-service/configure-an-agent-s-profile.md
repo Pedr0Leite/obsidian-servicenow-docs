@@ -26,7 +26,7 @@ Ensure you have created a user and added the user to the appropriate user group 
 
 Configuring an agent appropriately is essential for scheduling and assigning tasks to agents. An accurately configured profile ensures the right responsibilities to each agent based on their skills, permissions, and availability.
 
-[[fsm-application-landing-page|Field Service Management]] capabilities like Route Optimization, Territory Planning, [[dynamic-scheduling|Dynamic Scheduling]], or Intelligent Task Recommendations consider an agent’s scheduling attributes \(Resource Schedule Attributes table\) from the agent's profile for the given day to optimize [[capacity|capacity]] and task assignment.
+Field Service Management capabilities like Route Optimization, Territory Planning, Dynamic Scheduling, or Intelligent Task Recommendations consider an agent’s scheduling attributes \(Resource Schedule Attributes table\) from the agent's profile for the given day to optimize capacity and task assignment.
 
 **Note:** An agent can access and use Field Service Management capabilities based on the roles and permissions configured for the agent.
 
@@ -204,7 +204,7 @@ Pre shift max travel time
 
 The maximum travel time allowed before the agent starts the scheduled shift.**Note:**
 
-This duration is applicable for scheduling and assigning tasks with [[schedule-optimization|Schedule Optimization]].
+This duration is applicable for scheduling and assigning tasks with Schedule Optimization.
 
 </td></tr><tr><td>
 
@@ -212,7 +212,7 @@ Maximum travel radius
 
 </td><td>
 
-The maximum distance \(measured in the specified distance unit\) from the agent's starting location to consider when assigning work order tasks in the [[dispatcher-activities|Dispatcher Workspace]], work order form, or dynamic scheduling.
+The maximum distance \(measured in the specified distance unit\) from the agent's starting location to consider when assigning work order tasks in the Dispatcher Workspace, work order form, or dynamic scheduling.
 
  A warning message appears if the assigned task is outside of the radius between the task location and the agent's location.
 
@@ -284,10 +284,3 @@ The penalty applied for each overtime hour the agent works during work assignmen
 
 The agent's profile is configured with the appropriate details.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

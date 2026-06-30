@@ -12,7 +12,7 @@ breadcrumb: [Generative AI powered Root cause analysis, Monitoring instance heal
 
 # Use the Root cause analysis history
 
-Check the Root cause analysis \(RCA\) History page to investigate the issues that caused an alert to trigger or [[instance-observer-performance|performance]] to degrade to Critical or Warning.
+Check the Root cause analysis \(RCA\) History page to investigate the issues that caused an alert to trigger or performance to degrade to Critical or Warning.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer**.
 
 2.  From the **Alerts** menu, select **Root Cause Analysis History** to display the history of reports for all users in a selected instance for the last seven days.
 
@@ -45,11 +45,5 @@ Role required: admin
     The table contains information on the alerts.
 
 
-**Parent Topic:**[[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]]
+**Parent Topic:**[Generative AI powered Root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/generative-ai-root-cause-anal.md)
 
-## Related
-
-- [[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

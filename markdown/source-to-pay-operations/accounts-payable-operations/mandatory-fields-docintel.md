@@ -15,7 +15,7 @@ breadcrumb: [How Accounts Payable Operations integration with Document Intellige
 
 # Required fields for creating an invoice
 
-Required fields for [[invoices|invoices]] and invoice lines that the [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] application checks before creating an invoice.
+Required fields for invoices and invoice lines that the Accounts Payable Operations integration with Document Intelligence application checks before creating an invoice.
 
 |Required field for invoice|Required field for invoice line|
 |--------------------------|-------------------------------|
@@ -26,7 +26,3 @@ Required fields for [[invoices|invoices]] and invoice lines that the [[apo-docin
 
 **Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-docintel-how-it-works.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

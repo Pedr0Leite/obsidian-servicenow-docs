@@ -16,7 +16,7 @@ When you get a signal that abnormal variation has occurred, either dismiss the s
 
 ## Before you begin
 
-Role required: You must be a [[kpi-signals-responsible-users|responsible user]], unless you have the admin, pa\_admin, or pa\_kpi\_signal\_admin role.
+Role required: You must be a [responsible user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-signals-responsible-users.md), unless you have the admin, pa\_admin, or pa\_kpi\_signal\_admin role.
 
 ## About this task
 
@@ -24,7 +24,7 @@ Investigate the reason for the variation before deciding to reset the baseline o
 
 ## Procedure
 
-1.  Open [[process-behavior-charts-for-kpis|KPI Signals]] from [[kpi-details|KPI Details]].
+1.  Open KPI Signals from KPI Details.
 
     In the KPI Details page for an indicator, you see a notification dot on the KPI Signals tab. This dot tells you that you have a signal for the indicator. \[Omitted image "kpi-signals-notification-dot.png"\] Alt text: Open KPI Signals icon with notification dot
 
@@ -78,11 +78,5 @@ The default number of scores for calculating the baseline depends on the indicat
 
 If you reset the baseline, a message appears that the baseline is reset. You also see whether there is a more recent signal than the one you just handled. You can review the signals that you dismissed and your baseline resets in the **Past** tab.
 
-**Parent Topic:**[[using-kpi-signals|Using KPI Signals]]
+**Parent Topic:**[Using KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/using-kpi-signals.md)
 
-## Related
-
-- [[kpi-signals-responsible-users|Configure responsibility for KPI Signals]]
-- [[using-kpi-signals|Using KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]

@@ -12,7 +12,7 @@ breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents
 
 # Add a Knowledge Graph to an AI agent
 
-Add a Knowledge Graph to an AI agent in [[ai-agent-studio|AI Agent Studio]] that uses the structured and unstructured data from different ServiceNow records to enhance the performance of AI agents.
+Add a Knowledge Graph to an AI agent in AI Agent Studio that uses the structured and unstructured data from different ServiceNow records to enhance the performance of AI agents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_aia.admin
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage** &gt; **AI agents**.
 
-2.  Select **New** or open the AI agent that you want to add a [[knowledge-graph-landing|Knowledge Graph]] to and navigate to the Add tools and information section.
+2.  Select **New** or open the AI agent that you want to add a Knowledge Graph to and navigate to the Add tools and information section.
 
 3.  In the Add tool drop-down list, select **Knowledge graph**.
 
@@ -96,9 +96,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -141,9 +141,4 @@ Message to display to users during tool execution.-   In-progress message: Write
 
     The Knowledge Graph tool is added to the AI agent.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

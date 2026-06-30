@@ -32,7 +32,7 @@ Role required: sn\_shop.shopper
 
     \[Omitted image "rfx-task-details.png"\] Alt text: RFx task details.
 
-    -   [[sourcing-request|Sourcing request]]
+    -   Sourcing request
     -   Status
     -   RFx URL
     -   RFx status
@@ -46,6 +46,3 @@ You’re redirected to the third-party sourcing tool to complete required action
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]

@@ -53,18 +53,12 @@ Table Extension
 `sys_email`
 
 </td></tr></tbody>
-</table>-   **[[t_ActivateDatabaseRotation|Activate database rotation]]**  
+</table>-   **[Activate database rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateDatabaseRotation.md)**  
 Learn how to activate database rotation.
--   **[[c_TableRotation|Table rotation]]**  
+-   **[Table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md)**  
 Optimize performance and manage data lifecycle by rotating tables, allowing older data to be systematically archived while maintaining system efficiency.
--   **[[table-extension|Table extension]]**  
+-   **[Table extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-extension.md)**  
 Partition and preserve data sets for extended periods without overwriting.
 
-**Parent Topic:**[[c_DataManagement|Data Management]]
+**Parent Topic:**[Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataManagement.md)
 
-## Related
-
-- [[t_ActivateDatabaseRotation|Activate database rotation]]
-- [[c_TableRotation|Table rotation]]
-- [[table-extension|Table extension]]
-- [[c_DataManagement|Data Management]]

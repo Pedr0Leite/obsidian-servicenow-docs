@@ -14,7 +14,7 @@ breadcrumb: [Manage anonymous safety concerns, Manage incidents, observations, a
 
 # Work on an anonymous safety concern
 
-Only an agent with the sensitive content role \[sn\_ohs\_im.sensitive\_observation\_content\_user\] can view and work on the anonymous report in the [[health-safety-core-workspace|Health and Safety Workspace]].
+Only an agent with the sensitive content role \[sn\_ohs\_im.sensitive\_observation\_content\_user\] can view and work on the anonymous report in the Health and Safety Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.sensitive\_observation\_content\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety Workspace**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -62,7 +62,7 @@ Role required: sn\_ohs\_im.sensitive\_observation\_content\_user
     You can use these sections to add your findings:
 
     -   **Attachments** section to attach findings in the form of image, video, and documentation such as a signed witness statement.
-    -   **[[activity-lxp|Activity]]** section to add findings in the form of free text. You can also use this section to add links to related knowledge base articles.
+    -   **Activity** section to add findings in the form of free text. You can also use this section to add links to related knowledge base articles.
 9.  Generate a report for the safety observation, if needed.
 
     For more information, see [Generate a report for a safety incident, observation, or injury](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/generate-report-safety-incident-obsv-injury.md).
@@ -83,8 +83,3 @@ The observation moves to the Closed Complete state.
 
 [Follow up on an anonymous report]()
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[activity-lxp|Activity]]

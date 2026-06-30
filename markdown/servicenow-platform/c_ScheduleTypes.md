@@ -14,18 +14,12 @@ breadcrumb: [Scheduled assessments, Assessment administrator tasks, Using assess
 
 You can schedule assessments for preconfigured users or send them to any user on demand.
 
-[[c_OnDemandAssessments|On-demand assessments]] require less setup. Scheduled assessments define users, or stakeholders, who have specific knowledge of the records being evaluated, and automatically send out [[c_AssessmentQuestionnaires|assessment questionnaires]] to those users at scheduled intervals. The best practice is to configure an on-demand assessment first to familiarize yourself with the process and test your questionnaires. When you are satisfied with your categories and questions, reconfigure for a scheduled assessment. These configuration paths are the easiest for both assessment types. Refer to Key Terms for definitions of the terms used in these procedures.
+On-demand assessments require less setup. Scheduled assessments define users, or stakeholders, who have specific knowledge of the records being evaluated, and automatically send out assessment questionnaires to those users at scheduled intervals. The best practice is to configure an on-demand assessment first to familiarize yourself with the process and test your questionnaires. When you are satisfied with your categories and questions, reconfigure for a scheduled assessment. These configuration paths are the easiest for both assessment types. Refer to Key Terms for definitions of the terms used in these procedures.
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[[r_Assessments|Assessments]]
+[Assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_Assessments.md)
 
-## Related
-
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[r_Assessments|Assessments]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]

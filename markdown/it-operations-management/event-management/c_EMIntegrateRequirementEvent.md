@@ -14,7 +14,7 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 # Event field format for event collection
 
-[[c_EM|Event Management]] requires all events to use a standard form, regardless of how they arrive at the instance.
+Event Management requires all events to use a standard form, regardless of how they arrive at the instance.
 
 In the application navigation filter, enter `em_event.list`.
 
@@ -165,7 +165,3 @@ Display of the events processing log.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EM|Event Management]]

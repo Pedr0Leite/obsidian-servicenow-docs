@@ -22,11 +22,11 @@ Role required: none
 
 ## About this task
 
-[[exploring-learning-exp|Learning]] challenge is a new widget available on the [[overview-lxp-widgets|Overview tab]] that gives you a quick overview of all the challenges you've created to track your learning progress.
+Learning challenge is a new widget available on the Overview tab that gives you a quick overview of all the challenges you've created to track your learning progress.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
 2.  On the My Learning home page, select **Start a Learning Challenge**.
 
@@ -85,7 +85,7 @@ Number of courses that you target to finish for each tracking period.
 A Learning challenge is created along with a new widget on the Overview tab to track your progress.
 
 -   **[Complete a learning challenge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/complete-challenge-lxp.md)**  
-[[complete-challenge-lxp|Complete a learning challenge]] whenever you're ready to finish with it.
+Complete a learning challenge whenever you're ready to finish with it.
 -   **[Restart a learning challenge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/restart-challenge-lxp.md)**  
 Restart a challenge when you want to reset the progress you have made on the challenge.
 
@@ -108,10 +108,3 @@ Restart a challenge when you want to reset the progress you have made on the cha
 
 [Skill sensing for learning content]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[overview-lxp-widgets|Overview tab]]
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]
-- [[complete-challenge-lxp|Complete a learning challenge]]

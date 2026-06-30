@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Refresh Dispatcher Workspace
 
-Refreshing [[dispatcher-activities|Dispatcher Workspace]] reloads resources, work shifts, personal events and work order tasks that are shown on calendar.
+Refreshing Dispatcher Workspace reloads resources, work shifts, personal events and work order tasks that are shown on calendar.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Reloading Dispatcher Workspace is important if you want to get the latest data w
 
     Dispatcher Workspace refreshes.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

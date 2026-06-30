@@ -54,7 +54,7 @@ See the projects and project tasks associated with a contact
 Customer service agents can see the projects and project tasks that are associated with a contact. Navigate to **Customer Service** &gt; **Customer** &gt; **Contacts** and select a contact. -   Click the **Projects** related list to see projects.
 -   Click the **Project Tasks** related list to see tasks.
 
- **Note:** If necessary, configure the Contact form to add these related [[migration-lists|lists]].
+ **Note:** If necessary, configure the Contact form to add these related lists.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Create a case for a project
 
 </td><td>
 
-Customer service agents and agent managers can create cases for customer projects. When creating a case, the agent selects a project in the **Project** field on the [[r_CustomerServiceCaseForm|Case form]].
+Customer service agents and agent managers can create cases for customer projects. When creating a case, the agent selects a project in the **Project** field on the Case form.
 
 -   If an account has been selected in the **Account** field, the agent can select from the projects that are associated with that account.
 -   If the **Account** field is empty, the agent can select from all projects that have been created for an account. Upon selection, the **Account** field is populated with the associated account.
@@ -88,8 +88,3 @@ Customer service agents and agent managers can create cases for customer project
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -28,7 +28,7 @@ On the SAFe Board, you can perform various actions to manage your backlog, such 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the top-left corner of the SAFe Board, select the level as **ART** and select your ART.
 
@@ -99,6 +99,3 @@ Use the keyboard to move and arrange multiple SAFe features in the **Backlog** t
 
 **Parent Topic:**[SAFe Board — ART level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/program-level-tabs.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

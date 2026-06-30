@@ -24,11 +24,11 @@ Role required: admin
 
 ## About this task
 
-All interface items are stored as translatable strings in the [[r_TranslationTables|translation tables]]. By default, these translation tables contain only English strings. To populate these tables with translated strings in an unsupported language, use the following workflow.
+All interface items are stored as translatable strings in the translation tables. By default, these translation tables contain only English strings. To populate these tables with translated strings in an unsupported language, use the following workflow.
 
 There is a very large number of translatable strings on the platform. Exporting all of them and translating them manually is probably not a realistic possibility. Consider exporting filtered subsets of the strings from each table and then translating them. To download a file of translatable strings, see [KB0860203](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0860203).
 
-You can use the [[localization-framework-landing|Localization Framework]] application to translate to an unsupported language or to translate large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
+You can use the Localization Framework application to translate to an unsupported language or to translate large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
 
 ## Procedure
 
@@ -46,7 +46,3 @@ You can use the [[localization-framework-landing|Localization Framework]] applic
 
 [Translation tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
-## Related
-
-- [[r_TranslationTables|Translation tables]]
-- [[localization-framework-landing|Localization Framework]]

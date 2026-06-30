@@ -14,7 +14,7 @@ breadcrumb: [Create entitlements in workspace, Using Software Asset Workspace, S
 
 # Create Microsoft Software Assurance entitlements in workspace
 
-Define license details for Microsoft Software Assurance \(SA\) in the [[sam-workspace|Software Asset Workspace]] to manage your [[c_Contracts|contracts]] start and end dates, software upgrades, and related software entitlements.
+Define license details for Microsoft Software Assurance \(SA\) in the Software Asset Workspace to manage your contracts start and end dates, software upgrades, and related software entitlements.
 
 ## Before you begin
 
@@ -87,7 +87,3 @@ Role required: sam\_user or sam\_admin
 
 **Parent Topic:**[Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]

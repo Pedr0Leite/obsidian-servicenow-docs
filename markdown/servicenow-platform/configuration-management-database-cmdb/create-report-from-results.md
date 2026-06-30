@@ -14,7 +14,7 @@ breadcrumb: [Create report, CMDB Query Builder, Configuration Management Databas
 
 # Create a basic report
 
-After running a query in the [[cmdb-query-builder-landing-page|CMDB Query Builder]], you can create a basic report that is scoped to the query execution.
+After running a query in the CMDB Query Builder, you can create a basic report that is scoped to the query execution.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The Reports application creates a basic report, which is scoped to the query res
 
 [Run a partial CMDB query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/run-partial-cmdb-query.md)
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

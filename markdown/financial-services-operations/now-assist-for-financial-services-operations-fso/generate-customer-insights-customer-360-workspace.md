@@ -28,7 +28,7 @@ When requested, the Banking CSR customer insights AI agent will begin consolidat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open a customer record.
 
@@ -52,6 +52,3 @@ The AI agent answers your questions using information from its configured knowle
 
 [Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

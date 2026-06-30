@@ -14,7 +14,7 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Interactive Analysis filter deduplication
 
-Upon launching [[interactive-analysis|Interactive Analysis]], duplicate filters are removed automatically from the **Filters** panel. You do not have to clean up the filter panel.
+Upon launching Interactive Analysis, duplicate filters are removed automatically from the **Filters** panel. You do not have to clean up the filter panel.
 
 Duplicate filters are removed according to the following criteria:
 
@@ -26,6 +26,3 @@ Duplicate filters are removed according to the following criteria:
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]

@@ -12,11 +12,11 @@ breadcrumb: [Using Quizzes, Quizzes, Assessments and Surveys, Exploring Service 
 
 # Quiz designer
 
-The quiz designer provides a single interface that users with the assessment\_admin role can use to create, edit, and distribute [[c_Quizzes|quizzes]].
+The quiz designer provides a single interface that users with the assessment\_admin role can use to create, edit, and distribute quizzes.
 
 You can also use it to edit existing quizzes and change scoring parameters.
 
-Alternatively, you can use the modules of the [[r_Assessments|assessment engine]] to create and edit the records that make up a quiz. All quiz records are stored in assessment tables and displayed in Quiz views of those tables. For details, see [[c_CreateQuizzesWithForms|Create quizzes with forms]].
+Alternatively, you can use the modules of the [assessment engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_Assessments.md) to create and edit the records that make up a quiz. All quiz records are stored in assessment tables and displayed in Quiz views of those tables. For details, see [Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md).
 
 ## Tools on the Quiz Designer
 
@@ -41,8 +41,8 @@ Controls for the supported question data types are available in the Controls pal
 |Data type|Description|Scored|
 |---------|-----------|------|
 |Attachment|Question with a Manage Attachments icon that allows users to attach one or more files.|Y|
-|Boolean|Question with a [[check-box|check box]] or a **[[yes-no|Yes/No]]** list for user responses.| |
-|Choice|List of predefined options. For more information, see the definition for **Choices** [[t_CreateAQuizQuestion|Create quiz questions]]. Multiple correct answers are supported.|Y|
+|Boolean|Question with a check box or a **Yes/No** list for user responses.| |
+|Choice|List of predefined options. For more information, see the definition for **Choices** [Create quiz questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAQuizQuestion.md). Multiple correct answers are supported.|Y|
 |Date|Date field.|N|
 |Date/Time|Date and time field.|N|
 |Number|Number field with predefined minimum and maximum values. The default is 1-10.|N|
@@ -51,8 +51,8 @@ Controls for the supported question data types are available in the Controls pal
 |Numeric Scale|Selectable number scale. The default is 1-5. Answer options appear as radio buttons. Multiple correct answers are supported.|Y|
 |Image Scale|Predefined set of images. Five emojis similar to the Likert scale \(very dissatisfied to very satisfied\) are provided. However, you can upload additional images in JPG, PNG, or GIF format. Multiple correct answers are supported.|Y|
 |String|Single or multiline text field.|N|
-|Template|Choice list of templates that provide a predefined scale of options. For details, see [[t_ConfigureATemplateQuestion|Configure a template question]]. Multiple correct answers are supported.|Y|
-|Reference|Choice list of fields from a specified [[reference|reference]] table. This data type does not support reference qualifiers.| |
+|Template|Choice list of templates that provide a predefined scale of options. For details, see [Configure a template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureATemplateQuestion.md). Multiple correct answers are supported.|Y|
+|Reference|Choice list of fields from a specified reference table. This data type does not support reference qualifiers.| |
 
 ## Questions tab
 
@@ -69,7 +69,7 @@ The header bar contains tabs that display different views and a menu of various 
 Click one of the following tabs to change the view in the canvas:
 
 -   **Design**: Add categories and questions, and configure the properties of each. This is the default view of the canvas when you open the designer.
--   **Configuration**: Create introductions and end notes for quizzes, and select a [[t_CreateAnAssessmentSignature|signature]].
+-   **Configuration**: Create introductions and end notes for quizzes, and select a [signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md).
 -   **Availability**: Select the recipients for each category in the quiz.
 
 Point to the menu icon \(\[Omitted image "Menu.png"\] Alt text: Menu icon\) in the in the upper right of the quiz designer to select the following options:
@@ -88,44 +88,25 @@ The availability of each option depends on the status of the quiz that is opened
 
 New quizzes open in the **Design** view. The quiz **Name** field appears above first category in the canvas. A blank question field appears in the category container.
 
--   **[[t_CreateaQuiz|Create a quiz]]**  
+-   **[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)**  
 When you create a quiz, you can create one or more categories and then add questions to each category.
--   **[[t_EditaQuiz|Edit a quiz]]**  
+-   **[Edit a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditaQuiz.md)**  
 You can update a quiz after the quiz has been distributed.
--   **[[t_EnableAQuizRetake|Enable a quiz retake]]**  
-You can [[t_ConfigureaQuiz|configure a quiz]] to allow recipients to resubmit their answers as many times as they like, until the quiz's due date.
--   **[[t_ViewAQuizResult|View a quiz result]]**  
+-   **[Enable a quiz retake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnableAQuizRetake.md)**  
+You can configure a quiz to allow recipients to resubmit their answers as many times as they like, until the quiz's due date.
+-   **[View a quiz result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizResult.md)**  
 You can view quiz results for each question and category, or view the quiz scorecard for a detailed breakdown.
 
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
 **Related topics**  
 
 
-[[t_ViewACategoryResult|View an assessment category result]]
+[View an assessment category result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md)
 
-[[t_ViewAQuizScorecard|View a quiz scorecard]]
+[View a quiz scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizScorecard.md)
 
 [Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 [Edit a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditaQuiz.md)
 
-## Related
-
-- [[r_Assessments|Assessments]]
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateAQuizQuestion|Create quiz questions]]
-- [[t_ConfigureATemplateQuestion|Configure a template question]]
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_EditaQuiz|Edit a quiz]]
-- [[t_EnableAQuizRetake|Enable a quiz retake]]
-- [[t_ViewAQuizResult|View a quiz result]]
-- [[using-quizzes|Using Quizzes]]
-- [[t_ViewACategoryResult|View an assessment category result]]
-- [[t_ViewAQuizScorecard|View a quiz scorecard]]
-- [[c_Quizzes|Quizzes]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[reference|Reference]]
-- [[t_ConfigureaQuiz|Configure a quiz]]

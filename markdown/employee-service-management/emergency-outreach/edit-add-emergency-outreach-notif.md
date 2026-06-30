@@ -14,7 +14,7 @@ breadcrumb: [Configure Emergency Outreach notifications, Emergency Outreach, Eme
 
 # Modify notifications used with Emergency Outreach
 
-The administrator can modify email notifications used with [[emergency-outreach|Emergency Outreach]].
+The administrator can modify email notifications used with Emergency Outreach.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Employee Check-ins
 
 </td></tr><tr><td>
 
-[[employee-readiness-surveys|Employee Readiness Surveys]]
+Employee Readiness Surveys
 
 </td><td>
 
@@ -56,7 +56,7 @@ Outreach Surveys
 
 </td></tr><tr><td>
 
-[[employee-health-screening|Employee Health Screening]]
+Employee Health Screening
 
 </td><td>
 
@@ -64,7 +64,7 @@ Daily Health Verification
 
 </td></tr><tr><td>
 
-[[contact-tracing|Contact Tracing]]
+Contact Tracing
 
 </td><td>
 
@@ -91,9 +91,3 @@ Daily Health Verification
 
 The modified notification is used for future outreach notifications for the corresponding application.
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]

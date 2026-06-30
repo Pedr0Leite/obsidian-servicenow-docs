@@ -14,7 +14,7 @@ breadcrumb: [Multi-factor authentication Providers, SMS as an MFA factor, MFA fa
 
 # Configure MFA Provider
 
-Configure SMS and [[email|Email]] with the Provider to ensure every user can login securely.
+Configure SMS and Email with the Provider to ensure every user can login securely.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **Providers**.
+1.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **Providers**.
 
-    Following provider [[sc-configuration|configuration]] are available for MFA within the ServiceNow AI Platform:
+    Following provider configuration are available for MFA within the ServiceNow AI Platform:
 
     -   Email Provider Configuration
     -   Twilio Provider Configuration
@@ -95,12 +95,6 @@ Option to make the provider configuration active.
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-    Based on the message template and provider configurations, the SMS or Email is sent to [[users|users]] as a factor for [[c_Authentication|authentication]] during the login process.
+    Based on the message template and provider configurations, the SMS or Email is sent to users as a factor for authentication during the login process.
 
-## Related
 
-- [[email|Email]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

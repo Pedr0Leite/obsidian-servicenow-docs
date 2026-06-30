@@ -28,7 +28,7 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
 <table id="table_xml_lgh_xfc"><thead><tr><th>
 
@@ -126,21 +126,14 @@ Work notes
 
 ## What to do next
 
-Monitor the business process task from the sales process dashboard. For more information, see [[monitor-track-sales-activities|Monitoring and tracking sales activities]].
+Monitor the business process task from the sales process dashboard. For more information, see [Monitoring and tracking sales activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitor-track-sales-activities.md).
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
+[Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-## Related
-
-- [[monitor-track-sales-activities|Monitoring and tracking sales activities]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[fields|Fields]]

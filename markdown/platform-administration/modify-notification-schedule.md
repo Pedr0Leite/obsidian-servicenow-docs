@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Modify a notification
 
-Modify a notification by establishing a schedule or setting conditions to control the [[notifications|notifications]] you receive.
+Modify a notification by establishing a schedule or setting conditions to control the notifications you receive.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 1.  From your user profile, navigate to **Preferences** &gt; **Notifications** and then select **Advanced Preferences**.
 
-2.  Determine the type of notification you want to modify by selecting either the **[[system-notifications-landing|System Notifications]]** or **Custom Notifications** tab.
+2.  Determine the type of notification you want to modify by selecting either the **System Notifications** or **Custom Notifications** tab.
 
 3.  Access the Add/Edit Schedule dialog box.
 
@@ -41,10 +41,5 @@ Role required: none
 6.  Select **Save**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]

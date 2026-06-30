@@ -14,7 +14,7 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Service Catalog customization
 
-[[service-catalog|Service Catalog]] enables you to customize the catalog in various ways.
+Service Catalog enables you to customize the catalog in various ways.
 
 No updates are supported on the following internal service catalog tables, either directly or through business rules.
 
@@ -29,17 +29,17 @@ Service catalog enables catalog administrators to configure the layout and funct
 -   **[Define item quantity choices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ItemQuantity.md)**  
 In the Service Catalog, the default quantity choices are 1–10. You can configure the quantity selector with additional choices. This configuration is also applicable in Service Portal.
 -   **[Remove item restrictions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_RestrictBehaviorByItemType.md)**  
-Service Catalog enables you to remove or apply restrictions on all [[c_ServiceCatalogOrderGuides|order guides]], record producers, and wizard launchers.
+Service Catalog enables you to remove or apply restrictions on all order guides, record producers, and wizard launchers.
 -   **[Using variables for price setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariablePricing.md)**  
 You can define a price for every service catalog item. The price or recurring price of a catalog item can be modified with variables, increasing the base price for that item.
 -   **[Set a recurring price](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_SetARecurringPrice.md)**  
 A catalog item can have a recurring price in addition to an initial price.
 -   **[Extend the pricing model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ExtendThePricingModel.md)**  
-The pricing model is useful if you want the price or recurring price to be dynamically calculated based on how a user completes the ordering form. You can [[t_ExtendThePricingModel|extend the pricing model]] of a catalog item by editing the item price or the recurring price.
+The pricing model is useful if you want the price or recurring price to be dynamically calculated based on how a user completes the ordering form. You can extend the pricing model of a catalog item by editing the item price or the recurring price.
 -   **[Hiding prices in the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_HidingPricesInTheServiceCatalog.md)**  
 Administrators can configure options to hide catalog item prices in the service catalog for listings of specific items, for specific types of items, or for all items.
 -   **[Create up to ten copies of Service Catalog request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_EnablingBulkRequests.md)**  
-[[t_UsingBulkRequests|Clone a request]] to create up to ten copies \(clones\) of the same Service Catalog request, for different users, without having to enter the same information multiple times. For example, you can request a new piece of equipment for several specified people, generating multiple individual requests quickly from a single initial request.
+Clone a request to create up to ten copies \(clones\) of the same Service Catalog request, for different users, without having to enter the same information multiple times. For example, you can request a new piece of equipment for several specified people, generating multiple individual requests quickly from a single initial request.
 -   **[Create scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ServiceCatalogScriptingExtensn.md)**  
 Service Catalog enables you to use certain scripts.
 -   **[Service catalog home page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ManagingTheHomepageForACatalog.md)**  
@@ -53,9 +53,3 @@ There are important differences between customizing and configuring ServiceNow a
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[t_ExtendThePricingModel|Extend the pricing model]]
-- [[t_UsingBulkRequests|Clone a request]]

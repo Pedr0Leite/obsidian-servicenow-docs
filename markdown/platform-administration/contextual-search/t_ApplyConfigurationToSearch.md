@@ -26,11 +26,11 @@ The following procedure uses Incident Deflection as an example.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Search Contexts**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Search Contexts**.
 
 2.  Open the Incident Deflection record.
 
-3.  View the Resource [[clone-configurations-tab|Configurations]] related list.
+3.  View the Resource Configurations related list.
 
     \[Omitted image "resource-configuraion-related-list.png"\] Alt text: Resource Configurations related list on Search Context form.
 
@@ -67,7 +67,7 @@ Search operator
 
 </td><td>
 
-Value of the operator is used in the Zing search engine to instruct how to combine the AND and OR conditions when parsing the search string. The integration of the search strings helps to [score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md) the displayed [[hs-results|results]]. The value can only be one of the following values: -   **IR\_AND\_OR\_QUERY** \(the default\): Display results with exact matches of all terms if the number of results is greater than the value of the **glide.ts.query.and\_or\_limit** property \(default 0\) or the \(overriding\) value of the table custom attribute **text\_search\_and\_or\_limit** \(when added\). Otherwise display results with any matches of any terms.
+Value of the operator is used in the Zing search engine to instruct how to combine the AND and OR conditions when parsing the search string. The integration of the search strings helps to [score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md) the displayed results. The value can only be one of the following values: -   **IR\_AND\_OR\_QUERY** \(the default\): Display results with exact matches of all terms if the number of results is greater than the value of the **glide.ts.query.and\_or\_limit** property \(default 0\) or the \(overriding\) value of the table custom attribute **text\_search\_and\_or\_limit** \(when added\). Otherwise display results with any matches of any terms.
 -   **IR\_AND\_QUERY**: Display results with exact matches of all terms only.
 -   **IR\_OR\_QUERY**: Display results with any matches of any terms.
 
@@ -82,8 +82,3 @@ Value of the operator is used in the Zing search engine to instruct how to combi
 
 **Parent Topic:**[Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/configuring-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]

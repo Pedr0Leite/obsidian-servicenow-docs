@@ -26,7 +26,7 @@ Role required: sn\_customerservice\_agent or knowledge
 
 1.  Navigate to **Customer Service** &gt; **Cases** &gt; **All**.
 
-2.  Select a case from which you want to [[create-knowledge-article|create a knowledge article]].
+2.  Select a case from which you want to create a knowledge article.
 
 3.  Click **Create Knowledge**.
 
@@ -39,6 +39,3 @@ Role required: sn\_customerservice\_agent or knowledge
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]

@@ -35,12 +35,12 @@ Role required: itil
     -   Incident number must be provided, unless triggered from the incident record.
 -   On-call experts from support groups
     -   Ability to search on-call experts that are in any support group.
-    -   Group members are configured in **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Schedules**.
+    -   Group members are configured in **On-Call Scheduling** &gt; **On-Call Schedules**.
 -   Similar resolved incidents
     -   Similar incidents must be resolved or closed.
     -   Incident number must be provided, unless triggered from the incident record.
 
-You can ask questions about an incident by using the Now Assist panel in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can ask questions about an incident by using the Now Assist panel in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -60,7 +60,4 @@ You can ask questions about an incident by using the Now Assist panel in Core UI
 
     \[Omitted image "now-assist-itsm-inc-assist-tpc.png"\] Alt text: Incident assist panel topic in Service Operations Workspace.
 
-## Related
 
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

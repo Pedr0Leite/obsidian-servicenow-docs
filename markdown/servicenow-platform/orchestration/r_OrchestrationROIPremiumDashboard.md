@@ -18,7 +18,7 @@ The premium dashboard provides detailed reports on calculated savings over time.
 
 The ROI premium reports require the Orchestration - ROI Premium plugin and are built using [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PerformanceAnalytics.md). The Orchestration - ROI Premium plugin is dependent on the [Performance Analytics - Premium](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md) plugin which requires a separate subscription.
 
-**Important:** You must activate the Performance Analytics [scheduled collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationROIPremiumDashboard.md) before [[c_OrchestrationROI|Orchestration ROI]] premium can display data.
+**Important:** You must activate the Performance Analytics [scheduled collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationROIPremiumDashboard.md) before Orchestration ROI premium can display data.
 
 To access the ROI premium dashboard, navigate to **Orchestration** &gt; **ROI Reports** &gt; **Premium Dashboard**.
 
@@ -141,7 +141,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -187,7 +187,4 @@ The scheduled job required to calculate premium ROI reports is called \[PA ROI\]
 
 6.  Click **Update**.
 
-## Related
 
-- [[c_OrchestrationROI|Orchestration ROI]]
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Scheduled jobs for Microsoft 365
 
-Your [[microsoft-o365|Microsoft 365 integration]] profile is set to fetch subscription and usage information automatically from the Microsoft 365 Admin Center on a schedule. If needed, you can also manually run the following scheduled jobs to get this information. Each job must be complete before starting the next one.
+Your Microsoft 365 integration profile is set to fetch subscription and usage information automatically from the Microsoft 365 Admin Center on a schedule. If needed, you can also manually run the following scheduled jobs to get this information. Each job must be complete before starting the next one.
 
 |Sequence|Scheduled job|Run frequency|Description|
 |--------|-------------|-------------|-----------|
@@ -30,6 +30,3 @@ Your [[microsoft-o365|Microsoft 365 integration]] profile is set to fetch subscr
 
 [Integrating with Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrate-with-microsoft.md)
 
-## Related
-
-- [[microsoft-o365|Microsoft 365 integration]]

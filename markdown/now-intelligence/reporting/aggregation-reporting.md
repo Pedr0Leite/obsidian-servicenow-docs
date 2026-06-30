@@ -27,8 +27,5 @@ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, **Maximum**,
 
 For information about aggregating on FX currency values, see [FX Currency values in reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/fx-currency-values-reporting.md).
 
-**Note:** Aggregation is not supported on histogram, pareto, single score, box, calendar, and [[list-reports|list reports]].
+**Note:** Aggregation is not supported on histogram, pareto, single score, box, calendar, and list reports.
 
-## Related
-
-- [[list-reports|List reports]]

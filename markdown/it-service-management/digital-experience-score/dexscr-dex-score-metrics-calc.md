@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 # DEX Score metrics calculation
 
-Learn more about how the metrics values are calculated in the [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard.
+Learn more about how the metrics values are calculated in the Digital Experience Score​ dashboard.
 
 ## Calculating the digital experience score
 
@@ -50,7 +50,7 @@ Digital experience score is the weighted average of device experience score and 
 
 ## Calculating the application experience score
 
-Application experience score is calculated as the average of the experience scores of all the [[dex-workspace-application-tab|applications]]. The experience score of an individual application is calculated by combining three scores: application health metric, user sentiment, and service experience. Each of these scores is given a weight, and then they're averaged together. The formula for the application experience score is:
+Application experience score is calculated as the average of the experience scores of all the applications. The experience score of an individual application is calculated by combining three scores: application health metric, user sentiment, and service experience. Each of these scores is given a weight, and then they're averaged together. The formula for the application experience score is:
 
 -   **Formula**
 
@@ -84,7 +84,7 @@ Application experience score is calculated as the average of the experience scor
 
 ## Calculating the device experience score
 
-Device experience score is calculated as the average of the experience scores of all the [[dex-workspace-devices-tab|devices]] across all device groups. The experience score of an individual device is calculated by combining three scores: device health, user sentiment, and service experience. Each of these scores is given a weight, and then they're averaged together.  The formula for the device experience score is:
+Device experience score is calculated as the average of the experience scores of all the devices across all device groups. The experience score of an individual device is calculated by combining three scores: device health, user sentiment, and service experience. Each of these scores is given a weight, and then they're averaged together.  The formula for the device experience score is:
 
 -   **Formula**
 
@@ -141,8 +141,3 @@ Device experience score is calculated as the average of the experience scores of
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

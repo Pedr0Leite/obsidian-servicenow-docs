@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating withIT Service Management
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] with IT Service Management that includes the Incident, Problem, Change, and Request Management applications. With this integration, users can create request, incident, problem, and change records from customer service cases and external users can view these records from the Customer and Consumer Service Portals.
+Integrate Customer Service Management with IT Service Management that includes the Incident, Problem, Change, and Request Management applications. With this integration, users can create request, incident, problem, and change records from customer service cases and external users can view these records from the Customer and Consumer Service Portals.
 
 Integration with the Service Management applications provides the following functionality for internal and external users.
 
@@ -40,7 +40,7 @@ Agents and managers
 
 </td><td>
 
--   [[osp-view-cases|View cases]] with Service Management -related indicators on the Customer Service dashboards.
+-   View cases with Service Management -related indicators on the Customer Service dashboards.
 -   View updates to records associated with a case. These updates automatically update the case work notes.
 -   Use the updates to records associated with a case to communicate with customers.
 
@@ -58,25 +58,18 @@ External users
 </td></tr></tbody>
 </table>-   **Integration with Incident Management**
 
-    Integration with the Incident Management application enables customer service agents to create incident records from cases or associate existing incident records to cases. For more information, see [[csm-integration-sm-incident|CSM integration with Incident Management]].
+    Integration with the Incident Management application enables customer service agents to create incident records from cases or associate existing incident records to cases. For more information, see [CSM integration with Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-incident.md).
 
 -   **Integration with Problem Management**
 
-    Integration with the Problem Management application enables customer service agents to create problem records from cases or associate existing problem records to cases. For more information, see [[csm-integration-sm-problem|CSM integration with Problem Management]].
+    Integration with the Problem Management application enables customer service agents to create problem records from cases or associate existing problem records to cases. For more information, see [CSM integration with Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-problem.md).
 
 -   **Integration with Change Management**
 
-    Integration with the Change Management application enables customer service agents to create change records from cases or associate existing change records to cases. For more information, see [[csm-integration-sm-change|CSM integration with Change Management]].
+    Integration with the Change Management application enables customer service agents to create change records from cases or associate existing change records to cases. For more information, see [CSM integration with Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-change.md).
 
 -   **Integration with Request Management**
 
-    Integration with the Request Management application enables customer service agents to create request records from cases or associate existing request records to cases. It also enables customers to create requests from the Customer and Consumer Service Portals. For more information, see [[csm-integration-sm-request|CSM integration with Request Management]].
+    Integration with the Request Management application enables customer service agents to create request records from cases or associate existing request records to cases. It also enables customers to create requests from the Customer and Consumer Service Portals. For more information, see [CSM integration with Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-request.md).
 
-## Related
 
-- [[csm-integration-sm-incident|CSM integration with Incident Management]]
-- [[csm-integration-sm-problem|CSM integration with Problem Management]]
-- [[csm-integration-sm-change|CSM integration with Change Management]]
-- [[csm-integration-sm-request|CSM integration with Request Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-view-cases|View cases]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating using v2 APIs, ILMT and BigFix Inventory integrations, 
 
 # Request the IBM License Compliance for Software Asset Management application for IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations
 
-If you are using version 2 of the IBM License Metric Tool \(ILMT\) and BigFix Inventory integration APIs to integrate with ILMT or BigFix Inventory, request the IBM License Compliance for [[c_SoftwareAssetMgmt|Software Asset Management]] application from the ServiceNow® Store. Use the integration to track and manage your IBM licenses.
+If you are using version 2 of the IBM License Metric Tool \(ILMT\) and BigFix Inventory integration APIs to integrate with ILMT or BigFix Inventory, request the IBM License Compliance for Software Asset Management application from the ServiceNow® Store. Use the integration to track and manage your IBM licenses.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Install the application according to the instructions in the email.
 
 **Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

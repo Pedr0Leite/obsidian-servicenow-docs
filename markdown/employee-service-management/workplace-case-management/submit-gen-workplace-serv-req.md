@@ -18,7 +18,7 @@ Submit a general workplace service request for issues that need a human response
 
 ## Before you begin
 
-**Important:** Starting with [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) version 2.1, all updates, and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates, and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -30,7 +30,7 @@ Request a workplace-related help or raise an issue about anything related to the
 
 If the workplace has a QR code available, you can scan the QR code and submit your request.
 
-You can also submit a general question using the Virtual agent chat support. From [[employee-center-landing-page|Employee Center]] portal, select the chat option \[Omitted image "chat-icon.png"\] Alt text: Chat icon. Type your question or select **Show Me Everything** to choose from the list of options to submit your query.
+You can also submit a general question using the Virtual agent chat support. From Employee Center portal, select the chat option \[Omitted image "chat-icon.png"\] Alt text: Chat icon. Type your question or select **Show Me Everything** to choose from the list of options to submit your query.
 
 ## Procedure
 
@@ -56,7 +56,7 @@ You can also submit a general question using the Virtual agent chat support. Fro
 
 6.  In the **What area needs attention**, specify the location details for which you are raising the request.
 
-    If the [[wsm-mappedin-admin|Workplace Space Mapping]] plugin is installed, you can also click the **Find the space on a floor map** option to select the space directly on the map.
+    If the Workplace Space Mapping plugin is installed, you can also click the **Find the space on a floor map** option to select the space directly on the map.
 
     If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/display-permanent-seats-on-maps.md).
 
@@ -80,7 +80,7 @@ Your request is submitted.
 Depending on your platform, do one of the following to view your requests:
 
 -   On the Workplace Service Portal, go to the **Requests** tab to view your requests and reservations.
--   On the [[mobile-employee-experience|Now Mobile app]]'s navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
+-   On the Now Mobile app's navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 -   In the virtual agent chat, type your question or select **Show Me Everything** to select from a list of available options.
 
 If you want to cancel a request, Click **Cancel Request**.
@@ -98,7 +98,7 @@ When the request is resolved, select **Accept** or **Reject**.
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -120,12 +120,3 @@ When the request is resolved, select **Accept** or **Reject**.
 
 [Submit a change event request for a reservation]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[space-assistance|Space assistance]]

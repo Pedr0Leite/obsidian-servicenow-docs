@@ -29,11 +29,8 @@ The following table lists both the mandatory and optional fields for the outboun
 |Invoice line|Reference|Invoice line for which the tax is applicable.|
 |Number|String|A unique system-generated number, which identifies the tax line.|
 |Processing message|String|A message that describes the current processing status.|
-|Supplier tax|String|Amount of tax charged by the [[supplier|supplier]].|
+|Supplier tax|String|Amount of tax charged by the supplier.|
 |Supplier tax rate|String|Tax rate charged by the supplier.|
 |Tax type|Reference|Type of the tax applicable on the invoice.|
 |Taxable amount|String|Amount of tax applicable on an invoice.|
 
-## Related
-
-- [[supplier|Supplier]]

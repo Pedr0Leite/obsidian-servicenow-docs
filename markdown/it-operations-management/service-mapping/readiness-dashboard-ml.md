@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Application service readiness dashboard in configurable workspace
 
-Review the information on the dashboard to confirm that you’re ready to discover and map application services based on machine learning \(ML\). [[c_ServiceMappingOverview|Service Mapping]] uses data processed by Predictive Intelligence to generate suggestions for traffic-based connections.
+Review the information on the dashboard to confirm that you’re ready to discover and map application services based on machine learning \(ML\). Service Mapping uses data processed by Predictive Intelligence to generate suggestions for traffic-based connections.
 
 The Application service readiness dashboard is part of Service Mapping Plus, available on the ServiceNow Store.
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Predictive Intelligence evaluates connections between application fingerprints, CIs, and processes, and ranks their relevancy. Service Mapping uses this information to create connections based on connection rules. It also generates connection suggestions for servers and load balancers for you to decide which connections to add or remove from the service instances.
 
-Widgets on the ML Dashboard page show the information about prerequisites and issues related to service [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]]. Select links inside the widgets and reports to navigate to the related list or form.
+Widgets on the ML Dashboard page show the information about prerequisites and issues related to service discovery based on Predictive Intelligence. Select links inside the widgets and reports to navigate to the related list or form.
 
 ## Required ServiceNow AI Platform roles
 
@@ -100,7 +100,7 @@ Connection Suggestions \[sa\_ml\_connection\_suggestion\]
 
 </td><td>
 
-A donut report that reflects the ratio of classified connections to valid connections in the Connections Suggestions table. This table is only populated during top-down [[r-discovery|discovery]].
+A donut report that reflects the ratio of classified connections to valid connections in the Connections Suggestions table. This table is only populated during top-down discovery.
 
 </td></tr></tbody>
 </table>## Mapping status of application services
@@ -210,8 +210,3 @@ Review the list of service instances most affected by ML-related issues. The lis
 
 [Troubleshooting guide for Service Mapping ML Connection Suggestions \[KB0963421\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0963421)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]
-- [[r-discovery|Discovery]]

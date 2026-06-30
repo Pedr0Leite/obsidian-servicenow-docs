@@ -41,9 +41,9 @@ For examples of how different people in your organization would use this dashboa
 
     Count of all risks with a parent project.
 
--   **PPM-Enterprise [[risk-assessments|Risk Assessments]]**
+-   **PPM-Enterprise Risk Assessments**
 
-    Count of all risk assessments with risk assessment methodology as Enterprise Assessment for Projects and the [[entity-class|entity class]] as Project.
+    Count of all risk assessments with risk assessment methodology as Enterprise Assessment for Projects and the entity class as Project.
 
 -   **PPM- Project Risk Enterprise**
 
@@ -87,7 +87,3 @@ This dashboard displays the following visualizations:
 
 **Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[entity-class|entity class]]

@@ -28,7 +28,7 @@ For more information, see [Transfer order tasks](https://raw.githubusercontent.c
 
 ## Disposing of pallets
 
-Dispose of a pallet with its assets that are reaching the end of the life cycle or that aren’t functional by using a disposal order. When you add a pallet to a disposal order, the assets and child assets in the pallet are also added. However, any [[asset-bundles-concept|asset bundles]] in the pallet are not included.
+Dispose of a pallet with its assets that are reaching the end of the life cycle or that aren’t functional by using a disposal order. When you add a pallet to a disposal order, the assets and child assets in the pallet are also added. However, any asset bundles in the pallet are not included.
 
 The disposal order workflow when disposing of a pallet or its assets is as follows:
 
@@ -66,6 +66,3 @@ Assets contained in a pallet can also be consumed as part of the following workf
 
 [Delete pallet assets]()
 
-## Related
-
-- [[asset-bundles-concept|Asset bundles]]

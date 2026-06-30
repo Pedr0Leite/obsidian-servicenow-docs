@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Restarting failed build or release pipeline jobs and stages
 
-Rerun or redeploy Azure DevOps build, release changes, or pipelines that are failed or canceled in that stage or pipeline. The reattempts display on the [[dev-ops-pipeline-ui|DevOps pipeline UI]] as continuous runs instead of creating new executions.
+Rerun or redeploy Azure DevOps build, release changes, or pipelines that are failed or canceled in that stage or pipeline. The reattempts display on the DevOps pipeline UI as continuous runs instead of creating new executions.
 
 ## Rerun Azure DevOps pipelines or stages
 
@@ -60,6 +60,3 @@ In previous releases, failed jobs were either ignored or a new pipeline executio
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]

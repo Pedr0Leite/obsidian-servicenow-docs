@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Lifecycle Operations integration framework
 
-The [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \(SLO\) integration framework enables you to exchange [[supplier|supplier]] data with any third-party ERP system.
+The Supplier Lifecycle Operations \(SLO\) integration framework enables you to exchange supplier data with any third-party ERP system.
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Lifecycle Operations integration framework.
 
@@ -76,7 +76,3 @@ Load the supplier data from the excel template into the supplier inbound​ stag
 
 [Load supplier data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]

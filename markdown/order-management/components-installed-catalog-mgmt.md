@@ -12,7 +12,7 @@ breadcrumb: [Product Catalog Management reference, Lead-to-cash foundation, Refe
 
 # Components installed with Product Catalog Management
 
-Several types of components are installed with activation of the [[product-catalog-managment|Product Catalog Management]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Product Catalog Management plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -553,9 +553,5 @@ Product Visuals
 Stores visual asset records for products.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[product-catalog-management-reference|Product Catalog Management reference]]
+</table>**Parent Topic:**[Product Catalog Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-management-reference.md)
 
-## Related
-
-- [[product-catalog-management-reference|Product Catalog Management reference]]
-- [[product-catalog-managment|Product Catalog Management]]

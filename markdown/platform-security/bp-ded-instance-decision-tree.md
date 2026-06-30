@@ -24,8 +24,5 @@ Use these decision trees to help your customers decide whether to use a managed 
 
 ## SP reference architecture comparison
 
-**Parent Topic:**[[bp-sp-reference-arch-ds|Service provider reference architecture]]
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]

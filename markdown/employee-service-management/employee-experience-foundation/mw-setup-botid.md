@@ -14,13 +14,13 @@ breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employe
 
 # Configure bot ID and AI assistant
 
-Specify the bot ID to configure Moveworks AI assistant on [[employee-center-landing-page|Employee Center]] portal.
+Specify the bot ID to configure Moveworks AI assistant on Employee Center portal.
 
 ## Before you begin
 
 Confirm that you have the appropriate entitlements for the application.
 
-**Note:** To save the page with Bot ID, verify that the your application scope is selected to [[moveworks-for-employeecenter|Moveworks for Employee Center]].
+**Note:** To save the page with Bot ID, verify that the your application scope is selected to Moveworks for Employee Center.
 
 Role required: admin
 
@@ -92,7 +92,3 @@ You can perform the following actions:
 
 [Moveworks for Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-ec-integration-reference.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[moveworks-for-employeecenter|Moveworks for Employee Center]]

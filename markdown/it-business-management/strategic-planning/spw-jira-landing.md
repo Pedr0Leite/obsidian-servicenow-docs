@@ -28,11 +28,7 @@ Improve visibility from strategy to execution with Jira Integration. This integr
 
 </td><td>
 
-[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)\[Omitted image "bus-learn.svg"\] Alt text:More information on roles, tables, and [[form-field-information-for-dw|forms]] used in SPW Jira integration.
+[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)\[Omitted image "bus-learn.svg"\] Alt text:More information on roles, tables, and forms used in SPW Jira integration.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-field-information-for-dw|Forms]]

@@ -22,7 +22,7 @@ Role required: admin, pd\_content\_author
 
 The Guided Decision with Inputs and Outputs activity is a playbook activity that enables decision trees to be used in playbooks with the ability to pass input parameters and retrieve output values. This activity allows you to select a specific decision tree version and configure input parameters that map to the questions defined in the first node of the decision tree. The activity supports versioning, where each activation of the decision tree builder creates a new version, and playbook activities continue using their configured version until manually updated. When a decision tree is activated to create a new version, you receive a notification message listing all playbooks and activities that reference the decision tree, with direct links to facilitate version updates.
 
-For more details on playbooks for [[c_CustomerServiceManagement|Customer Service Management]], see [[customer-service-case-playbooks|Playbooks for Customer Service Management]].
+For more details on playbooks for Customer Service Management, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).
 
 ## Procedure
 
@@ -103,7 +103,7 @@ Waits for a certain duration before running the activity when the start rule is 
 
 </td></tr><tr><td>
 
-Restart [[gamification-components-rules|rules]]
+Restart rules
 
 </td><td>
 
@@ -189,14 +189,7 @@ The decision tree is added to the playbook. Depending on the context of the case
 **Related topics**  
 
 
-[[setting-up-guided-decisions|Configuring Guided Decisions]]
+[Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)
 
-[[configuring-guided-decisions|Configuring guidances and decision trees]]
+[Configuring guidances and decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-guided-decisions.md)
 
-## Related
-
-- [[customer-service-case-playbooks|Playbook capabilities]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[configuring-guided-decisions|Configuring guidances and decision trees]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

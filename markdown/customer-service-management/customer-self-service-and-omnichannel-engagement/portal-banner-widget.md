@@ -14,7 +14,7 @@ breadcrumb: [Configurable Portal widgets, Set up self-service, Configure, Custom
 
 # Portal Banner widget
 
-You can use the Portal Banner widget to display announcements, new product or feature [[migration-form-highlights|highlights]], and important information on the portal page.
+You can use the Portal Banner widget to display announcements, new product or feature highlights, and important information on the portal page.
 
 \[Omitted image "config-port-banner-widget.png"\] Alt text: Portal Banner widget displaying greeting message, shortcut buttons, and search field on the portal page.
 
@@ -29,6 +29,3 @@ For information about how to configure instance options for the Portal Banner wi
 
 [Portal Banner Carousel widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-portal-carousel-widget.md)
 
-## Related
-
-- [[migration-form-highlights|Highlights]]

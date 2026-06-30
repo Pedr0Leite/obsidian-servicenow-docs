@@ -38,7 +38,7 @@ The **Close Case** button is not available for cases in the **Resolved** or **Cl
 
     -   The case status in the Case details section is updated to **Closed**.
 
-        **Note:** You cannot add comments after the case is closed. You can only view the previous comments in the [[csm-config-ws-activity-stream|activity stream]].
+        **Note:** You cannot add comments after the case is closed. You can only view the previous comments in the activity stream.
 
     -   The case additional comments and resolution notes are updated with **Closed by customer**.
     -   The case resolution code is set to **Solved by customer**
@@ -48,6 +48,4 @@ The **Close Case** button is not available for cases in the **Resolved** or **Cl
 
     You can also choose to skip the survey. Either choice returns you to the case list on the portal.
 
-## Related
 
-- [[csm-config-ws-activity-stream|Activity stream]]

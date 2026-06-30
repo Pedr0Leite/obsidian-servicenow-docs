@@ -18,7 +18,7 @@ Reclaim unused SurveyMonkey subscriptions to reduce your total software costs.
 
 ## Before you begin
 
-To [[reclaim-user-subscription-saas-workspace|reclaim user subscriptions in the Software Asset Workspace]], you must request and activate the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
+To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 SurveyMonkey Role required: admin
 
@@ -26,7 +26,7 @@ ServiceNow Role required: sam\_user
 
 ## About this task
 
-The [[sam-subscription-management|SaaS License Management]] SurveyMonkey integration doesn’t support reclamation through the ServiceNow AI Platform. When [[c_SoftwareAssetMgmt|Software Asset Management]] creates a removal candidate for your SurveyMonkey integration, you can reclaim the user subscription by removing the associated user directly from your SurveyMonkey team. After you remove the user from your team, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
+The SaaS License Management SurveyMonkey integration doesn’t support reclamation through the ServiceNow AI Platform. When Software Asset Management creates a removal candidate for your SurveyMonkey integration, you can reclaim the user subscription by removing the associated user directly from your SurveyMonkey team. After you remove the user from your team, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ The [[sam-subscription-management|SaaS License Management]] SurveyMonkey integra
 
     1.  From your ServiceNow instance, navigate to **Software Asset** &gt; **Software Asset Workspace** &gt; **License usage**.
 
-    2.  On the **Publishers** tab of the [[sam-workspace-workbench|License usage view]], select **SurveyMonkey** from the list of available publishers.
+    2.  On the **Publishers** tab of the License usage view, select **SurveyMonkey** from the list of available publishers.
 
         The SurveyMonkey publisher overview opens.
 
@@ -87,10 +87,3 @@ The [[sam-subscription-management|SaaS License Management]] SurveyMonkey integra
 
 **Parent Topic:**[Reclaim user subscriptions in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-user-subscription-saas-workspace.md)
 
-## Related
-
-- [[reclaim-user-subscription-saas-workspace|Reclaim user subscriptions in the Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace-workbench|License usage view]]

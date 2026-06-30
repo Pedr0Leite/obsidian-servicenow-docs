@@ -14,7 +14,7 @@ breadcrumb: [Integrate with the UKG spoke, Employee Center Pro Kiosk, Employee C
 
 # Receive employee data from UKG to the Employee Center Pro Kiosk
 
-Map the employee IDs between the UKG system and the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] to see employee details in your organizational kiosks.
+Map the employee IDs between the UKG system and the Employee Center Pro Kiosk to see employee details in your organizational kiosks.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Map the **Person Number** from the UKG system to the **Employee number** in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **System Security** &gt; **Users**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **System Security** &gt; **Users**.
 
 2.  Add the **Person Number** details in the **Employee number** field for each employee.
 
@@ -37,7 +37,3 @@ You have mapped the employee data flow from the UKG system to the Employee Cente
 
 **Parent Topic:**[Integrate with the UKG spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-kiosk-kronos.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]

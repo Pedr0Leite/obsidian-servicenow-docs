@@ -149,10 +149,7 @@ A more detailed breakdown of the client timings for all Form rendering \(but not
 -   **[Components installed with Client Transaction Timings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_InstalledComponents.md)**  
 The Client Transaction Timings plugin installs several components.
 -   **[Timing values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_TimingValues.md)**  
-[[r_TimingValues|Timing values]] are broken down into several sections.
+Timing values are broken down into several sections.
 
 **Parent Topic:**[Time configuration references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/reference-time-configuration.md)
 
-## Related
-
-- [[r_TimingValues|Timing values]]

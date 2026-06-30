@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Object-Object-Relationships**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Object-Object-Relationships**.
 
 2.  Click **New**.
 
@@ -39,10 +39,5 @@ Role required: sn\_ti.admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[[stix-relationships|Relationships]]
+**Parent Topic:**[Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/stix-relationships.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]

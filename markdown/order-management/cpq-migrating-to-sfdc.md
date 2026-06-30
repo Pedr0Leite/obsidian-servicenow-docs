@@ -12,7 +12,7 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 # Migrate a blueprint to an SFDC-integrated destination
 
-Migrate a CPQ blueprint to a Salesforce-integrated CPQ environment. Recreate [[configurable-products-explore|configurable products]], update Product2 IDs, and verify connections for accurate data mapping and integration between Salesforce and CPQ.
+Migrate a CPQ blueprint to a Salesforce-integrated CPQ environment. Recreate configurable products, update Product2 IDs, and verify connections for accurate data mapping and integration between Salesforce and CPQ.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: admin
 
     4.  Replace the Product2 ID from the old org with the new one that you just created, and save the blueprint.yaml file.
 
-2.  Add all other products from the old org that were referenced in any product [[rules_101|rules]].
+2.  Add all other products from the old org that were referenced in any product rules.
 
     You must create pricebook entries for all your products! These records will be auto-replicated in our CPQ product cache every fifteen minutes. Wait at least fifteen minutes before continuing with the tests described in the following steps.
 
@@ -56,14 +56,9 @@ After the import, configurable product IDs will not be the same as in the origin
 **Related topics**  
 
 
-[[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 
 [Migrate a blueprint between environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
 [Installation and setup guide for environments linked to Salesforce orgs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
-- [[configurable-products-explore|Configurable products]]
-- [[rules_101|Rules]]

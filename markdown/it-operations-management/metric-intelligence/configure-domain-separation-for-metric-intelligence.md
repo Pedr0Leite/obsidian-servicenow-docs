@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Configure domain separation for Metric Intelligence
 
-Configure [[operational-metrics|Metric Intelligence]] for domain separation to create logically defined domains that limit unauthorized access to data.
+Configure Metric Intelligence for domain separation to create logically defined domains that limit unauthorized access to data.
 
 ## Before you begin
 
@@ -30,9 +30,6 @@ Role required: evt\_mgmt\_admin and evt\_mgmt\_integration
 
     For more information about setting up MID Servers for Metric Intelligence, see [MID Server and MID Server distributed cluster for Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/ops-intelligence-mid-server.md).
 
-    **Note:** The [[c_EM|Event Management]]’s binding events are configured using the domain of the logged-in MID Server user. Once the process has finished, the record’s domain is updated to use the domain from the CI so that any user within that domain can see the metric data.
+    **Note:** The Event Management’s binding events are configured using the domain of the logged-in MID Server user. Once the process has finished, the record’s domain is updated to use the domain from the CI so that any user within that domain can see the metric data.
 
-## Related
 
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Clone an instance with a SAML integration
 
-Clone an instance with a SAML integration. Before you clone an instance that uses [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0, preserve the SAML SSO-related settings on the target instance or you might make the target instance inaccessible.
+Clone an instance with a SAML integration. Before you clone an instance that uses SAML 2.0, preserve the SAML SSO-related settings on the target instance or you might make the target instance inaccessible.
 
 ## Before you begin
 
@@ -32,17 +32,17 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
     -   glide.script
     -   glide.session
     -   glide.saml2
-    -   com.glide.[[sc-communications|communications]]
+    -   com.glide.communications
     -   com.snc.integration.saml\_esig
     \[Omitted image "DataPreserverSAML.png"\] Alt text: Data preserver SAML.
 
-    **Note:** When you create the clone, include attachments so that [[c_Certificates|certificates]] carry over to the target instance. Also, make sure the **Theme** check box is cleared so these properties are preserved regardless of whether you preserve the instance theme.
+    **Note:** When you create the clone, include attachments so that certificates carry over to the target instance. Also, make sure the **Theme** check box is cleared so these properties are preserved regardless of whether you preserve the instance theme.
 
-3.  On the source instance, navigate to **System Clone** &gt; **Preserve Data** to preserve the SAML certificates on sys\_certificate and SAML [[users|users]] on sys\_user related to SAML/SSO/Multi SSO.
+3.  On the source instance, navigate to **System Clone** &gt; **Preserve Data** to preserve the SAML certificates on sys\_certificate and SAML users on sys\_user related to SAML/SSO/Multi SSO.
 
-    If you need them, [[export|export]] them into XML, then manually import them on the target.
+    If you need them, export them into XML, then manually import them on the target.
 
-    **Warning:** Do not try to clone the SAML/SSO/Multi SSO setup from one system to another. Most transfers of SAML/SSO or Multi SSO settings do NOT work because they must be configured on the [[identity-landing|identity]] provider. If you overwrite a working setup, the target instance will fail to authenticate so your target instance will become inaccessible. Also, do not change the sys\_id of your Multi SSO provider record; doing that will force your users to flush their cookies. For more information about cloning precautions, see [Checklist before cloning an instance](https://support.servicenow.com/kb_view.do?sysparm_article=KB0657100).
+    **Warning:** Do not try to clone the SAML/SSO/Multi SSO setup from one system to another. Most transfers of SAML/SSO or Multi SSO settings do NOT work because they must be configured on the identity provider. If you overwrite a working setup, the target instance will fail to authenticate so your target instance will become inaccessible. Also, do not change the sys\_id of your Multi SSO provider record; doing that will force your users to flush their cookies. For more information about cloning precautions, see [Checklist before cloning an instance](https://support.servicenow.com/kb_view.do?sysparm_article=KB0657100).
 
 4.  Exclude the Multi SSO tables sso\_properties, digest\_properties and saml2\_update1\_properties.
 
@@ -52,11 +52,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 7.  Click **Update**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-communications|Communications]]
-- [[c_Certificates|Certificates]]
-- [[users|Users]]
-- [[export|Export]]
-- [[identity-landing|Identity]]

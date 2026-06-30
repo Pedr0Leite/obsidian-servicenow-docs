@@ -14,7 +14,7 @@ breadcrumb: [Offboarding knowledge transfer plan generation agentic workflow, Us
 
 # Activate the Now Assist skill for offboarding
 
-Enable the Now Assist skill associated with the [[offboarding-knowledge-x-agentic-wf|offboarding knowledge transfer plan generation agentic workflow]]. This skill supports automated knowledge discovery and categorization during the knowledge transfer process.
+Enable the Now Assist skill associated with the offboarding knowledge transfer plan generation agentic workflow. This skill supports automated knowledge discovery and categorization during the knowledge transfer process.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin \[virtual\_agent\_admin\]
 
 The skill is now active. The offboarding knowledge transfer plan generation agentic workflow can use this skill to group discovered documents and assign relevancy scores during the knowledge transfer process.
 
-## Related
-
-- [[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]

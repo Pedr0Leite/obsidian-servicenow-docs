@@ -14,7 +14,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # Google Cloud Platform \(GCP\) Organization discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Discover Google Organization discovery pattern to find GCP Organization projects and resources. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Discover Google Organization discovery pattern to find GCP Organization projects and resources. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -59,7 +59,7 @@ For details on system requirements and family compatibility, view the applicatio
         2.  Account ID: The Google Service Account ID.
         3.  Datacenter type: Select **cmdb\_ci\_google\_datacenter**.
     3.  Create a discovery schedule.
--   **\(Optional\) Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **\(Optional\) Create a serverless discovery schedule**
 
     Create a discovery schedule to perform targeted discovery of GCP Organization resources.
 
@@ -351,8 +351,3 @@ The URL or path of the CI.
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]

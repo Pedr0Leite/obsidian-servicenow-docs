@@ -14,7 +14,7 @@ breadcrumb: [Service Exchange for Providers, Service Exchange]
 
 # Configure Service Exchange for Providers
 
-To set up and configure the [[service-bridge-providers-landing-page|Service Exchange for Providers]] application, follow these steps.
+To set up and configure the Service Exchange for Providers application, follow these steps.
 
 ## Pre-installation checks
 
@@ -22,36 +22,22 @@ To set up and configure the [[service-bridge-providers-landing-page|Service Exch
 
 |Task|Link|
 |----|----|
-|Install the Service Exchange for Providers application.|See [[install-service-bridge-v2-provider|Install Service Exchange for Providers]].|
-|Set up a new provider record.|See [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]].|
-|Assign Service Exchange roles for providers.|See [[service-bridge-v2-personas|User roles for providers]].|
-|Create catalog personas.|See [[service-bridge-v2-create-catalog-persona|Create catalog personas]].|
-|Create remote choice definitions.|See [[service-bridge-v2-create-remote-choice-fld-defs|Create remote choice definitions in Service Exchange for Providers]]|
-|Create remote catalog items.|See [[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]].|
-|Create remote task definitions.|See [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]].|
-|Create transforms.|See [[service-bridge-v2-create-transform|Create a transform in Service Exchange]].|
-|Update Authorized Users settings.|See [[service-bridge-v2-configure-settings|Update settings for authorized users]]|
+|Install the Service Exchange for Providers application.|See [Install Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/install-service-bridge-v2-provider.md).|
+|Set up a new provider record.|See [Set up a Service Exchange provider record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-new-provider.md).|
+|Assign Service Exchange roles for providers.|See [User roles for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-personas.md).|
+|Create catalog personas.|See [Create catalog personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-catalog-persona.md).|
+|Create remote choice definitions.|See [Create remote choice definitions in Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-remote-choice-fld-defs.md)|
+|Create remote catalog items.|See [Create remote catalogs in Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-catalog.md).|
+|Create remote task definitions.|See [Create a remote task definition in Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-remote-tasks-defs.md).|
+|Create transforms.|See [Create a transform in Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-transform.md).|
+|Update Authorized Users settings.|See [Update settings for authorized users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-settings.md)|
 
-If you’re a consumer, see [[service-bridge-v2-install|Configure Service Exchange for Consumers]].
+If you’re a consumer, see [Configure Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md).
 
 **Related topics**  
 
 
 [Configure Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md)
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]]
+[Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 
-## Related
-
-- [[install-service-bridge-v2-provider|Install Service Exchange for Providers]]
-- [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]]
-- [[service-bridge-v2-personas|User roles for providers]]
-- [[service-bridge-v2-create-catalog-persona|Create catalog personas]]
-- [[service-bridge-v2-create-remote-choice-fld-defs|Create remote choice definitions in Service Exchange for Providers]]
-- [[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]]
-- [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]]
-- [[service-bridge-v2-create-transform|Create a transform in Service Exchange]]
-- [[service-bridge-v2-configure-settings|Update settings for authorized users]]
-- [[service-bridge-v2-install|Configure Service Exchange for Consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]

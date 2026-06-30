@@ -18,11 +18,11 @@ Configure the preferences to request the translation in the activated languages.
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_admin or localization\_manager
+Role required: localization\_admin or localization\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **Settings**.
 
 2.  Select **New**.
 
@@ -85,7 +85,7 @@ Enable machine translate
 
 </td><td>
 
-Option to enable the machine translation service for selected languages.**Note:** [[dynamic-translation|Dynamic Translation]] must be installed to use machine translation. For more information, see [Activate Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-dynamic-translation.md).
+Option to enable the machine translation service for selected languages.**Note:** Dynamic Translation must be installed to use machine translation. For more information, see [Activate Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-dynamic-translation.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ List of all the TMS services available for machine translation. By default, the 
 
  You can also choose a configured custom TMS. For more information, see [Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md).
 
-If you are configuring a spoke instance per the [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]], select `Localization Framework Hub` in this field. For more information, see [Localization Framework Hub and Spoke architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-hub-spoke-architecture.md).
+If you are configuring a spoke instance per the Localization Framework Hub and Spoke architecture, select `Localization Framework Hub` in this field. For more information, see [Localization Framework Hub and Spoke architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-hub-spoke-architecture.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -129,7 +129,7 @@ Enable send via email
 
 </td><td>
 
-Option to enable [[email-service|email service]] for content localization for selected languages.
+Option to enable email service for content localization for selected languages.
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ Enable projects
 
 </td><td>
 
-Option to enable the creation of the localization projects. **Note:** If you are using [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md), select this option \(set this option to on\). In [[localization-workspace|Localization Workspace]] you don't need to add items to the project manually.
+Option to enable the creation of the localization projects. **Note:** If you are using [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md), select this option \(set this option to on\). In Localization Workspace you don't need to add items to the project manually.
 
 For Localization Framework: If this option is enabled, the localization requested items \(LRITMs\) are created upon request for translation of the artifact. You can then create a project and add the corresponding requested items to start the translation. You must have localization\_manager role to create a project. This option helps in the bulk translation of the artifacts to be done at the same time by adding them to a project. Then, the translation progress of the LRITMs is monitored at the project level.
 
@@ -263,7 +263,7 @@ Enable auto creation
 Option to enable the auto creation of the localization projects in Localization Framework. This option appears only when the Enable projects option is selected.**Note:** If you are using [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md), clear this option \(do not set this option\).
 
  For Localization Framework: When this option is enabled, translation requests for artifact items are created as follows: -   A localization project is auto created. The corresponding localization requested items \(LRITMs\) are created, bundled, and added to the localization project.
--   The project starts automatically based on the [[localization-settings|Localization Framework settings]].
+-   The project starts automatically based on the Localization Framework settings.
 
 
 </td></tr><tr><td>
@@ -280,12 +280,3 @@ List of all the available user groups. **Note:** Ensure that the localization ma
 
 **Parent Topic:**[Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[dynamic-translation|Dynamic translation]]
-- [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]]
-- [[email-service|Email service]]
-- [[localization-workspace|Localization Workspace]]
-- [[localization-settings|Localization Framework settings]]

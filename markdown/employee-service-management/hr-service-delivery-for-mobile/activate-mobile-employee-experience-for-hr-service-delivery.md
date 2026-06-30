@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for mobile, HR Service Delivery, Employee Servi
 
 # Activate HR Service Delivery for mobile
 
-Activate the [[mobile-employee-experience-for-hr-service-delivery|HR Service Delivery for mobile]] plugin \(sn\_hr\_mobile\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+Activate the HR Service Delivery for mobile plugin \(sn\_hr\_mobile\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -43,14 +43,9 @@ HR Service Delivery for mobile activates these related plugins if they are not a
 
 
 -   **[Components installed with Now Mobile for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/components-installed-with-now-mobile-hr.md)**  
-Several types of components install with the activation of the Now Mobile for [[hr-service-delivery|HR Service Delivery]] plugin, including tables and user roles.
+Several types of components install with the activation of the Now Mobile for HR Service Delivery plugin, including tables and user roles.
 -   **[Configurations for the Now Mobile app for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/hr-mobile-configuration.md)**  
-Configure options for the [[mobile-employee-experience|Now Mobile app]] for HR Service Delivery.
+Configure options for the Now Mobile app for HR Service Delivery.
 
 **Parent Topic:**[HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/mobile-employee-experience-for-hr-service-delivery.md)
 
-## Related
-
-- [[mobile-employee-experience-for-hr-service-delivery|HR Service Delivery for mobile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[mobile-employee-experience|Now Mobile app]]

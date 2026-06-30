@@ -20,7 +20,7 @@ Analyze identities on the ServiceNow AI Platform instance.
 
 Role required: access\_analyzer\_admin
 
-The following procedure describes the steps for accessing Evaluate access in the [[access-analyzer|Access Analyzer]] and using its various features.
+The following procedure describes the steps for accessing Evaluate access in the Access Analyzer and using its various features.
 
 **Note:** Access Analyzer is a ServiceNow Store product.
 
@@ -162,7 +162,7 @@ Data filtration
 
 </td><td>
 
-A data filter is a form of [[sc-access-control|access control]] designed to work along with the existing Access Control rules \(ACLs\) on your instance.
+A data filter is a form of access control designed to work along with the existing Access Control rules \(ACLs\) on your instance.
 
 </td></tr><tr><td>
 
@@ -205,7 +205,4 @@ A unique ID for each access result execution.
 
     \[Omitted image "acl-details-for-user.png"\] Alt text: ACL Details
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[sc-access-control|Access control]]

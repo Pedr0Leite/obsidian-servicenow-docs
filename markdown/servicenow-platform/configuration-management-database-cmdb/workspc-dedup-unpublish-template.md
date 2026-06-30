@@ -35,7 +35,7 @@ Role required:
 1.  Navigate to either workspace:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **Management** in the CMDB Workspace menu bar.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** and then select the Governance icon in the navigation panel.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** and then select the Governance icon in the navigation panel.
 2.  Select the **De-duplication Template Library** link in Management tools, in the Manage section.
 
 3.  In the libraries pane locate the template that you want to publish or unpublish and then either:
@@ -61,6 +61,3 @@ An unpublished template is set back into draft mode:
 
 **Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

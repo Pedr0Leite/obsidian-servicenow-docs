@@ -14,7 +14,7 @@ breadcrumb: [Parallel Review and Feedback in Advanced Risk, Use Risk Workspace, 
 
 # Feedback dashboard
 
-Use the Feedback dashboard to track and manage feedback using the [[risk-workspace|Risk Workspace]]. The Feedback dashboard organizes feedback according to its status, importance, type, and other specific [[factors|factors]].
+Use the Feedback dashboard to track and manage feedback using the Risk Workspace. The Feedback dashboard organizes feedback according to its status, importance, type, and other specific factors.
 
 ## Launching Feedback dashboard
 
@@ -39,7 +39,3 @@ The following table describes the cards that are available on the Feedback dashb
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[factors|factors]]

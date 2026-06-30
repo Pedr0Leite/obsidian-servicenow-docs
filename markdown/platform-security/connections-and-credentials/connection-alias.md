@@ -107,7 +107,7 @@ Retry policy for the alias. For more information, see [Retry policy](https://raw
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] Template
+Configuration Template
 
 </td><td>
 
@@ -139,6 +139,3 @@ Configuration template to use to create a connection and credential record.
 
 Create one or more connection records to associate with the alias or child aliases. For more information about creating connections, see [Get started with connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-information.md). Add connection attributes to the alias to make connection meta data available to flows in Workflow Studio.
 
-## Related
-
-- [[sc-configuration|Configuration]]

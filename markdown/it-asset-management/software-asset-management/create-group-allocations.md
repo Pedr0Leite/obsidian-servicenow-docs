@@ -29,7 +29,7 @@ The SAM Manager can add a group allocation record for a software model with vali
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Software model**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Software model**.
 
 2.  Select **Group Allocations**.
 
@@ -52,7 +52,7 @@ The SAM Manager can add a group allocation record for a software model with vali
 View the user allocations list by navigating to any of the following paths:
 
 -   Navigate to the **User Allocations** within the group allocation record.
--   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Licensing** &gt; **[[c_CreatingSoftwareModels|Software models]]** and select a software model record. Select the **User Allocations** tab.
+-   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Licensing** &gt; **Software models** and select a software model record. Select the **User Allocations** tab.
 -   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Licensing** &gt; **Software models** and select a software model record. Select the **Software Entitlements** tab and select a software entitlement record. Select the **User Allocations** tab.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
@@ -64,7 +64,3 @@ View the user allocations list by navigating to any of the following paths:
 
 [Group allocations fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/group-allocation-fields.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

@@ -14,7 +14,7 @@ breadcrumb: [Customizing and configuring Visual Task Boards, Using Visual Task B
 
 # Customize the look and feel of a task board
 
-By default, the visual task board inherits the look-and-feel from the user's Theme preference. You can, however, [[configure-onboarding-modals|configure]] several options in the [[c_VisualTaskBoards|Visual Task Boards]] to customize the look-and-feel of the board.
+By default, the visual task board inherits the look-and-feel from the user's Theme preference. You can, however, configure several options in the Visual Task Boards to customize the look-and-feel of the board.
 
 ## Before you begin
 
@@ -142,7 +142,3 @@ SLA status indicators appear on cards and alerts appear when one or more card ha
 
 [Add or remove a Visual Task Board member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrRemoveATaskBoardMember.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -18,7 +18,7 @@ Administrators and users with the image\_admin or content\_admin role can upload
 
 ## Images vs attachments
 
-If you want to access an image from a record, or if you want to prevent users from appending the image name to the URL of the instance, upload it as an attachment instead. When you upload an image as an attachment, the image is saved in the [[attachments-configurable-workspace|Attachments]] \[sys\_attachment\] table. See [Administer attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md) and [[t_AddingAnAttachment|Add and manage attachments]] for more information.
+If you want to access an image from a record, or if you want to prevent users from appending the image name to the URL of the instance, upload it as an attachment instead. When you upload an image as an attachment, the image is saved in the Attachments \[sys\_attachment\] table. See [Administer attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md) and [Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md) for more information.
 
 ## Acceptable image file types
 
@@ -37,20 +37,12 @@ The system does not support uploading images in the .ico format through this int
 
 To understand how to insert an image into a form record, see the [Insert an image into your article, incident, or other form record](https://www.servicenow.com/community/now-platform-blog/insert-an-image-into-your-article-incident-or-other-form-record/ba-p/2286128) blog post in the ServiceNow Community.
 
--   **[[t_UpdatingAnExistingImage|Update an existing image]]**  
+-   **[Update an existing image](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UpdatingAnExistingImage.md)**  
 You can change an existing image to an updated version.
--   **[[upload-multiple-images|Upload one or more images]]**  
+-   **[Upload one or more images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-multiple-images.md)**  
 You can upload one image or multiple images at one time.
--   **[[restrict-file-extensions|Restrict file extensions]]**  
+-   **[Restrict file extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/restrict-file-extensions.md)**  
 Use the glide.ui.strict\_content\_types to restrict the image file extensions that appear in the UI.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[t_AddingAnAttachment|Add and manage attachments]]
-- [[t_UpdatingAnExistingImage|Update an existing image]]
-- [[upload-multiple-images|Upload one or more images]]
-- [[restrict-file-extensions|Restrict file extensions]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[attachments-configurable-workspace|Attachments]]

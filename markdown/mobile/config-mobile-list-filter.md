@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-This procedure can be used to configure a custom filter for list screens and map screens. The following information applies to list screens, but the same settings are available to configure custom filters for map screens in [[mab-concept|Mobile App Builder]] as well.
+This procedure can be used to configure a custom filter for list screens and map screens. The following information applies to list screens, but the same settings are available to configure custom filters for map screens in Mobile App Builder as well.
 
-For information about configuring map screens, see [[sg-configure-map-screen|Configure a map screen]].
+For information about configuring map screens, see [Configure a map screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-map-screen.md).
 
 **Note:** By default, there are filters that are based on the fields which are displayed in mobile views.
 
@@ -34,9 +34,9 @@ For information about configuring map screens, see [[sg-configure-map-screen|Con
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Select the **Screens** category and select the [[list-screen|list screen]] where you want to configure a custom filter.
+3.  Select the **Screens** category and select the list screen where you want to configure a custom filter.
 
 4.  In the List Screen form, scroll down to the **Screen Settings** section and verify that the **Hide filters** toggle is turned off.
 
@@ -168,7 +168,7 @@ Condition type
 
  -   Operator attributes, which determine how the filter operates on the data.
 -   Display Type attributes, which determine how the data that is returned by the Operator attribute gets displayed in your mobile app.
- Select one of the Condition types from the drop-down list. See [[filter-condition-attributes|Filter condition attributes]] where the default Operator and Display Type attributes are listed for each Condition type. The default values are marked with an asterisk \(\*\).
+ Select one of the Condition types from the drop-down list. See [Filter condition attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/filter-condition-attributes.md) where the default Operator and Display Type attributes are listed for each Condition type. The default values are marked with an asterisk \(\*\).
 
  **Note:** If your requirements are satisfied with the default attributes and values, then you don't need to configure attributes any further. Selecting the **Condition type** is all you need to do. If you need to customize your filtering options, you can configure them in Step 10 below.
 
@@ -200,10 +200,4 @@ The database fields that users can filter on. Select **New** to configure a filt
 
 12. Select **Save**.
 
-## Related
 
-- [[sg-configure-map-screen|Configure a map screen]]
-- [[filter-condition-attributes|Filter condition attributes]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[list-screen|List screen]]

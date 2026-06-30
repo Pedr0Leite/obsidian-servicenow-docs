@@ -18,7 +18,7 @@ Record a break from a work order task in the Field Service application if you ar
 
 ## Before you begin
 
-The system administrator can choose to enable the **work.management.allow.auto.timecard** property so that time cards are automatically created when you start working on a task. The data of the time cards is stored in \[metric\_instance\] table and is controlled by **work.management.allow.auto.metric\_cleanup** [[r_InstalledWithFSM|system property]].
+The system administrator can choose to enable the **work.management.allow.auto.timecard** property so that time cards are automatically created when you start working on a task. The data of the time cards is stored in \[metric\_instance\] table and is controlled by **work.management.allow.auto.metric\_cleanup** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md).
 
 Role required: wm\_agent
 
@@ -43,6 +43,3 @@ The work order task must be in the Work in Progress state to pause the timer.
 
 Each time you pause or resume work on the task, a timestamp is captured in the activity stream and the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the **Time Worked** related list.
 
-## Related
-
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]

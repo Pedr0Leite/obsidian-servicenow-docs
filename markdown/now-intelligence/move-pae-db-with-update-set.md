@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-This procedure describes moving the structure of an in-line dashboard to an update set. The dashboard structure includes the dashboard itself, tabs, the related security configuration, and dashboard-specific settings such as header color and borders. Moving [[technical-dashboards|technical dashboards]] with update sets is not supported.
+This procedure describes moving the structure of an in-line dashboard to an update set. The dashboard structure includes the dashboard itself, tabs, the related security configuration, and dashboard-specific settings such as header color and borders. Moving technical dashboards with update sets is not supported.
 
 This procedure adds saved data visualizations and filters to the update set. Other content is not moved. You can add dashboard content to the update set using default platform functionality.
 
@@ -42,7 +42,7 @@ Additional steps may be necessary if you are moving a dashboard in a scoped appl
 
     Only perform this step after the dashboard is ready to unload, meaning that you’ve added all content to the tabs.
 
-    The record for a dashboard in the par\_dashboard table is always updated. This update to par\_dashboard should always be included in the update set when transferring it to another instance. This also updates the sys\_updated\_on field even if no other fields are modified, such as when only [[widgets|widgets]] are changed.
+    The record for a dashboard in the par\_dashboard table is always updated. This update to par\_dashboard should always be included in the update set when transferring it to another instance. This also updates the sys\_updated\_on field even if no other fields are modified, such as when only widgets are changed.
 
 5.  When you’re ready to move the update set, mark the update set as complete.
 
@@ -57,7 +57,3 @@ Additional steps may be necessary if you are moving a dashboard in a scoped appl
 
 The dashboard and its tabs are moved to the target instance.
 
-## Related
-
-- [[technical-dashboards|Technical dashboards]]
-- [[widgets|Widgets]]

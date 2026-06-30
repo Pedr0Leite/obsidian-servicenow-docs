@@ -15,7 +15,7 @@ breadcrumb: [Explore, ServiceNow AI Lens, Enable AI experiences]
 
 # Supporting information for ServiceNow AI Lens
 
-Get a quick overview of the important information that is related to the [[servicenow-lens-landing-page|ServiceNow AI Lens]] application.
+Get a quick overview of the important information that is related to the ServiceNow AI Lens application.
 
 ## Supported versions
 
@@ -23,7 +23,7 @@ ServiceNow AI Lens is supported from Yokohama Patch 6 and Zurich Patch 1.
 
 ## Supported user interfaces
 
-To scan artifacts such as images, scanned handwritten notes, Excel sheets, web pages using [[platform-now-assist-landing|Now Assist]], enable the ServiceNow AI Lens application and then [[activate-lens-skill|activate the ServiceNow AI Lens skill]]. For more information, see [Configure ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/install-sn-lens.md).
+To scan artifacts such as images, scanned handwritten notes, Excel sheets, web pages using Now Assist, enable the ServiceNow AI Lens application and then activate the ServiceNow AI Lens skill. For more information, see [Configure ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/install-sn-lens.md).
 
 The ServiceNow AI Lens application includes the skills that are listed in the following table.
 
@@ -51,16 +51,10 @@ The ServiceNow AI Lens application requires a ServiceNow Pro Plus or Enterprise 
 
 ## Application information
 
-Enable the ServiceNow AI Lens \(com.sn\_ai\_lens\) app plugin to use the [[servicenow-lens-skill|ServiceNow AI Lens skill]].
+Enable the ServiceNow AI Lens \(com.sn\_ai\_lens\) app plugin to use the ServiceNow AI Lens skill.
 
 This store app has the following dependencies:
 
 -   ServiceNow AI Lens Core \(sn\_app\_lens\_core\)
 -   Now Assist for Platform \(sn\_genai\_platform\)
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[activate-lens-skill|Activate the ServiceNow AI Lens skill]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]

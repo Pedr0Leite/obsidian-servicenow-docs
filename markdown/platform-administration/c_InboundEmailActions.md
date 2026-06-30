@@ -12,7 +12,7 @@ breadcrumb: [Inbound email actions, Inbound email, Notifications, Configure core
 
 # Inbound email actions
 
-Define an [[ia-inbound-email-il|inbound email]] action to script how the system responds to an inbound email.
+Define an inbound email action to script how the system responds to an inbound email.
 
 **Note:** Inbound email flows take priority over inbound email actions. If you create flows with inbound email triggers, emails are first processed by the inbound email triggers before they are processed by inbound email actions.
 
@@ -101,7 +101,7 @@ If an inbound email contains one or more email attachments, the inbound email ac
 -   If the email encoding is ISO-8859-1, the inbound email action attempts to convert the email to Windows 1252.
 -   Inbound email actions convert any other encodings \(for example, Mac OS Roman\) to plain text, which may or may not be readable.
 
-See the [[r_EmailLogs|System email log and mailboxes]] for examples of what you might see if a notification or inbound email action is not processed.
+See the [System email log and mailboxes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EmailLogs.md) for examples of what you might see if a notification or inbound email action is not processed.
 
 **Note:** The state of all incoming emails that have been run against inbound email actions, even if there is no matching action, is changed to **Processed**.
 
@@ -109,19 +109,12 @@ See the [[r_EmailLogs|System email log and mailboxes]] for examples of what you 
 
 The system ignores the domain that the inbound email action record is in when it creates a record based on the inbound email action. Keep inbound actions in the global domain. For example, if your inbound email action creates an incident, the system creates the incident in the same domain as the user in the **Caller** field. If that user is not in the User \[sys\_user\] table, the incident is in the global domain.
 
-**Parent Topic:**[[actions-inbound-email|Inbound email actions]]
+**Parent Topic:**[Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/actions-inbound-email.md)
 
 **Related topics**  
 
 
-[[notification-variables|Notification variables]]
+[Notification variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-variables.md)
 
-[[c_WorkingWithWatermarks|Watermarks on notification emails]]
+[Watermarks on notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-## Related
-
-- [[r_EmailLogs|System email log and mailboxes]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[notification-variables|Notification variables]]
-- [[c_WorkingWithWatermarks|Watermarks on notification emails]]
-- [[ia-inbound-email-il|Inbound email]]

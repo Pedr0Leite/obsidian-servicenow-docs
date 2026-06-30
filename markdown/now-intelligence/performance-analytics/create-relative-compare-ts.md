@@ -30,7 +30,7 @@ For example, this visualization shows the change of the total number of open inc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets**.
 
 2.  Click **New**.
 
@@ -156,6 +156,3 @@ To view the widget, add it to a dashboard or a portal.
 
 [Add widget indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-indicators-to-widget.md)
 
-## Related
-
-- [[widgets|Widgets]]

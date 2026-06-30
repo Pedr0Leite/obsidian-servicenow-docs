@@ -18,7 +18,7 @@ Track the progress made by different assignment groups in resolving problems in 
 
 **Important:**
 
-Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [[problem|Problem dashboard]] to view, and track the open problems.
+Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem.md) to view, and track the open problems.
 
 \[Omitted image "problem-daily.png"\] Alt text: The Problem daily tab of the Problem daily 7 day to 28 day dashboard
 
@@ -28,7 +28,7 @@ Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. 
 
 |End user and goal|Required role|
 |-----------------|-------------|
-|Problem manager - Track the progress of their groups in [[problem-mgmt-lifecycle|managing problems]] across daily, weekly, and monthly time frames|None|
+|Problem manager - Track the progress of their groups in managing problems across daily, weekly, and monthly time frames|None|
 |Problem agent - Track the progress of incidents they own across daily, weekly, and monthly timeframes|None|
 
 ## Indicators
@@ -71,7 +71,3 @@ You can apply breakdown elements on this dashboard to all widgets simultaneously
 
 \[Omitted image "problem-daily-select-elements.png"\] Alt text: Element selection menu on the Problem daily 7 day to 28 day dashboard
 
-## Related
-
-- [[problem|Problem dashboard]]
-- [[problem-mgmt-lifecycle|Managing Problems]]

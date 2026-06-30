@@ -14,9 +14,9 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # HAProxy load balancer discovery using probes
 
-[[r-discovery|Discovery]] of HAProxy Community edition load balancers is performed by SSH.
+Discovery of HAProxy Community edition load balancers is performed by SSH.
 
-**Note:** Starting with Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns 1.15.0 version, pattern-based discovery is the default method for discovering HAProxy load balancers.
+**Note:** Starting with Discovery and Service Mapping Patterns 1.15.0 version, pattern-based discovery is the default method for discovering HAProxy load balancers.
 
 -   For information about enabling probe-based discovery, see [Enable HAProxy load balancer discovery with probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/enable-haproxy-lb-discovery-probe.md).
 -   For information about the HA Proxy pattern, see [HAProxy load balancer discovery with patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/haproxy-lb-discovery-pattern.md).
@@ -50,7 +50,3 @@ In addition to populating the data, the following relationships records are crea
 -   The records in the cmdb\_ci\_pool table are members of the cmdb\_ci\_pool\_member table records.
 -   The records in the cmdb\_ci\_pool\_member table are members of the cmdb\_ci\_pool table records.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

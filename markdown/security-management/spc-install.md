@@ -22,7 +22,7 @@ Role required: admin for download, installation, and activation of all applicati
 
 1.  Download the required applications from the ServiceNow Store into your ServiceNow instance.
 
-    The [[spc-landing|Security Posture Control]] \(SPC Core\) application provides the core framework and is required for Asset Security Posture Management \(ASPM\). The [[vr-config-compliance-landing|Configuration Compliance]] application and its dependencies permit you to create remediation tasks for the security control gaps you find using Asset Security Posture Management.
+    The Security Posture Control \(SPC Core\) application provides the core framework and is required for Asset Security Posture Management \(ASPM\). The Configuration Compliance application and its dependencies permit you to create remediation tasks for the security control gaps you find using Asset Security Posture Management.
 
     |Application|App ID|
     |-----------|------|
@@ -52,12 +52,12 @@ Role required: admin for download, installation, and activation of all applicati
     |------|---------|
     |ServiceNow IntergationHub Action Template - Data Stream|com.glide.hub.action\_type.datastream|
 
-    See [[spc-creating-sgc-template|Creating your own API connectors in Security Posture Control]] for more information.
+    See [Creating your own API connectors in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-creating-sgc-template.md) for more information.
 
     For more information about downloading and activating applications, see the following topics:
 
-    -   [[download-app-first-time|Download an application from the ServiceNow Store for the first time]].
-    -   [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+    -   [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
+    -   [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 2.  After you have downloaded the applications, navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 3.  Locate the applications that you downloaded and select **Install** to activate them along with their dependencies.
@@ -92,7 +92,7 @@ Role required: admin for download, installation, and activation of all applicati
         The following roles are required by the applications listed in the preceding table that support SPC and Asset Security Posture Management.
 
         -   Configuration Compliance Admin \[sn\_vulc.admin\] - Configures the Configuration Compliance application, has visibility to all records, and can modify properties. Assigns roles in the Configuration Compliance application.
-        -   [[vuln-landing-page|Vulnerability Response]] Admin \[sn\_vulc.admin\] - Configures the Vulnerability Response application and the vulnerability risk calculators.
+        -   Vulnerability Response Admin \[sn\_vulc.admin\] - Configures the Vulnerability Response application and the vulnerability risk calculators.
         -   MID Server \[mid\_server\] - Configures a MID Server.
 5.  Set the glide.identification\_engine.multisource\_enabled system property to **true**.
 
@@ -102,16 +102,8 @@ Role required: admin for download, installation, and activation of all applicati
 
     As an SPC Admin and SPC Analyst, you might need to ignore certain hardware or virtual classes so that you do not ingest information about assets you do not want to control. See [Create a Vulnerability Response CI lookup rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/create-ci-identifier-rules.md) and [Ignore CI classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/ignore-CI-classes.md) for more information.
 
-7.  Modify reconcilation and recompute CMDB [[data-sources|data sources]] to set the source of truth for attribute values.
+7.  Modify reconcilation and recompute CMDB data sources to set the source of truth for attribute values.
 
     The CMDB 360 dashboard provides aggregations and analysis of CMDB 360 data. CMDB 360 collects data about all the discovery sources reporting attribute values for CIs. Use the CMDB 360 view in Configuration Management Database \(CMDB\) Workspace to track activities and identify potential issues of discovery sources. See [CMDB 360 view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-workspace-cmdb360-view.md) for more information.
 
-## Related
 
-- [[spc-creating-sgc-template|Creating your own API connectors in Security Posture Control]]
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[spc-landing|Security Posture Control]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[data-sources|Data Sources]]

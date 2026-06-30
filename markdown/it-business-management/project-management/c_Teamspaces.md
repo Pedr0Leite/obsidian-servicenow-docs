@@ -14,7 +14,7 @@ breadcrumb: [Using Project Management, Project Management, Project Portfolio Man
 
 # Using Teamspaces in Project Management
 
-A teamspace appears as an application in the instance application navigator. The teamspace includes module links that come from the [[c_ProjectPortfolioSuite|Project Portfolio Management]] applications, such as the Project, Idea, Demand, Program and Portfolio applications.
+A teamspace appears as an application in the instance application navigator. The teamspace includes module links that come from the Project Portfolio Management applications, such as the Project, Idea, Demand, Program and Portfolio applications.
 
 Use teamspaces to provide functional and data separation of these applications between different teams in your organization. The following is an example teamspace for a marketing team:
 
@@ -24,7 +24,7 @@ Use teamspaces to provide functional and data separation of these applications b
 
 You must activate a teamspace plugin to use the teamspace feature. Following teamspace plugins are available:
 
--   **[[c_ProjectApplicationOverview|Project Management]] TeamSpace 1** \(`com.snc.ppm_teamspace_1`\)
+-   **Project Management TeamSpace 1** \(`com.snc.ppm_teamspace_1`\)
 -   **Project Management TeamSpace 2** \(`com.snc.ppm_teamspace_2`\)
 -   **Project Management TeamSpace 3** \(`com.snc.ppm_teamspace_3`\)
 -   **Project Management TeamSpace 4** \(`com.snc.ppm_teamspace_4`\)
@@ -40,7 +40,7 @@ You can customize the Project and Demand portions of a teamspace without affecti
 
 |Customization to Project or Demand within a teamspace|Supported?|
 |-----------------------------------------------------|----------|
-|Data model changes, such as adding a field to the Project or [[demand-form|Demand form]].|Yes|
+|Data model changes, such as adding a field to the Project or Demand form.|Yes|
 |Changes to business rules, UI actions, UI policies, security rules, data policies, and workflows.|Yes|
 |Changes to shared roles, such as project\_manager, demand\_manager, and so on.|Yes|
 |Form and list layouts, list controls, and related lists|Yes|
@@ -51,8 +51,3 @@ You can customize the Project and Demand portions of a teamspace without affecti
 
 [Activate teamspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ActivateTeamspaces.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[demand-form|Demand form]]

@@ -14,7 +14,7 @@ breadcrumb: [Legacy IBM PVU Process Pack, Legacy Software Asset Management plugi
 
 # Legacy Software Asset Management plugin processor definitions
 
-Processor definitions for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin are automatically derived from the information in the configuration item form for an item such as a computer or server.
+Processor definitions for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin are automatically derived from the information in the configuration item form for an item such as a computer or server.
 
 To view a processor definition, navigate to **Software Asset** &gt; **Reconciliation** &gt; **Processor Definitions** and click an item.
 
@@ -36,6 +36,3 @@ The following read-only fields are listed.
 
 **Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

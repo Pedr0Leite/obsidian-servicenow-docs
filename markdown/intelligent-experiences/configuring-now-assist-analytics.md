@@ -13,15 +13,15 @@ breadcrumb: [Analyzing Now Assist performance, Exploring Now Assist Admin, Now A
 
 # Configuring Now Assist Analytics
 
-Configure the [[platform-now-assist-landing|Now Assist]] Analytics dashboard to view the usage, value, and performance indicators of Now Assist.
+Configure the Now Assist Analytics dashboard to view the usage, value, and performance indicators of Now Assist.
 
 ## Configuration overview
 
-Now Assist Analytics requires at least one Now Assist application, for example, Now Assist for Customer Service Management \(CSM\), to be installed and configured on your instance. See [[installing-now-assist-analytics|Installing Now Assist Analytics]] for more information.
+Now Assist Analytics requires at least one Now Assist application, for example, Now Assist for Customer Service Management \(CSM\), to be installed and configured on your instance. See [Installing Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/installing-now-assist-analytics.md) for more information.
 
 The following is an optional configuration task used to map a Now Assist skill to a dashboard.
 
-[[map-a-skill-to-a-dashboard|Map a skill to a dashboard]] to view skill usage and performance indicators.
+[Map a skill to a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/map-a-skill-to-a-dashboard.md) to view skill usage and performance indicators.
 
 ## Domain Separation
 
@@ -36,8 +36,3 @@ See [Approaches to Performance Analytics with domain separation](https://raw.git
 
 **Note:** Be sure to check the Run as field in the data collection job records has a valid user.
 
-## Related
-
-- [[installing-now-assist-analytics|Installing Now Assist Analytics]]
-- [[map-a-skill-to-a-dashboard|Map a skill to a dashboard]]
-- [[platform-now-assist-landing|Now Assist]]

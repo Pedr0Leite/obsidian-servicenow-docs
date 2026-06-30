@@ -14,7 +14,7 @@ breadcrumb: [Add screen fields to a record screen, Screen fields, Configure a de
 
 Use the script screen field in record screens to display dynamic field values. The script runs to determine the field value before it displays in your form. The value returned by the script doesn't replace the database value. For example, you can display translated content for dynamic variables within an email.
 
-**Note:** The script field for record screens is configured within the ServiceNow AI Platform and not in the [[mab-concept|Mobile App Builder]], as is the case for the other [[sg-screen-field-enhancements|screen fields]] within the [[form-screen|record screen]]. For configuration steps, [[record-screen-script-type-config|Configure the script field for records screens]].
+**Note:** The script field for record screens is configured within the ServiceNow AI Platform and not in the Mobile App Builder, as is the case for the other screen fields within the record screen. For configuration steps, [Configure the script field for records screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/record-screen-script-type-config.md).
 
 ## Use case
 
@@ -135,12 +135,5 @@ Consider the following when working with a JSON script:
     ```
 
 
-**Parent Topic:**[[sg-mobile-add-screen-field|Add screen fields to a record screen]]
+**Parent Topic:**[Add screen fields to a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-add-screen-field.md)
 
-## Related
-
-- [[record-screen-script-type-config|Configure the script field for records screens]]
-- [[sg-mobile-add-screen-field|Add screen fields to a record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-screen-field-enhancements|Screen fields]]
-- [[form-screen|Record screen]]

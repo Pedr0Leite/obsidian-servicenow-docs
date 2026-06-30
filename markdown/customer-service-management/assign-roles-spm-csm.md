@@ -12,13 +12,13 @@ breadcrumb: [Integrating with Service Portfolio Management, Integrate, Customer 
 
 # Assign roles for Service Portfolio Management integration
 
-Assign the required roles to customer service managers based on the [[personas-roles-and-tables-post-integration-oppMgmt|roles and responsibilities]] in your organization.
+Assign the required roles to customer service managers based on the roles and responsibilities in your organization.
 
 ## Before you begin
 
 Role required: admin
 
-Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [[spm-csm-integration|Integrate with Service Portfolio Management using Guided Setup]].
+Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [Integrate with Service Portfolio Management using Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/spm-csm-integration.md).
 
 ## Procedure
 
@@ -26,7 +26,4 @@ Instead of doing the configuration through this procedure, consider using guided
 
 2.  Assign the portfolio\_admin role to customer service managers if they need to associate service offerings to a product model.
 
-## Related
 
-- [[spm-csm-integration|Integrate with Service Portfolio Management using Guided Setup]]
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]

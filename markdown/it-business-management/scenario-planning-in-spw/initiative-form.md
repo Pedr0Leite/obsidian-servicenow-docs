@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Initiative form
 
-Learn about the fields of the initiative form. Use this form to create or edit the details of an Initiative in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the initiative form. Use this form to create or edit the details of an Initiative in Strategic Planning.
 
 These fields are displayed on the full details page of the initiative.
 
@@ -142,6 +142,3 @@ Strategic priority that this initiative is associated to.
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

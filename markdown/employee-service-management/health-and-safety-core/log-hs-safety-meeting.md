@@ -14,7 +14,7 @@ breadcrumb: [Manage safety meetings, Use, Health and Safety Core, Health and Saf
 
 # Log a safety meeting
 
-Log a safety meeting and keep a track of it in the [[health-safety-overview|Health and Safety]] application.
+Log a safety meeting and keep a track of it in the Health and Safety application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.meeting\_manager or sn\_ohs\_im.meeting\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the meetings icon \(\[Omitted image "icon-hs-meetings.png"\] Alt text: safety meetings icon\).
 
@@ -73,7 +73,3 @@ In the **Meeting minutes** tab, meeting minutes taker can add minutes of this me
 
 [Create a meeting minute for a safety meeting]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

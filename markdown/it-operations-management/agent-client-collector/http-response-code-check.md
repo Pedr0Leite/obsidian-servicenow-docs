@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # HTTP response code check
 
-[[acc-landing-page|Agent Client Collector]] provides the following additional check for HTTP response code. This check is not associated with any policy.
+Agent Client Collector provides the following additional check for HTTP response code. This check is not associated with any policy.
 
 <table id="table_k2q_bwj_g5b"><thead><tr><th>
 
@@ -66,6 +66,3 @@ Raises a critical event if the URL response code doesn’t match the regex.Pass 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

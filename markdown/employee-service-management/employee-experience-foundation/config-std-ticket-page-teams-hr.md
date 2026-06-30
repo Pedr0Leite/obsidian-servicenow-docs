@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery integration, Microsoft Teams Integration for Em
 
 # Microsoft Teams Chat widget in Employee Center
 
-The Teams Chat widget enables employees to view or continue chats with agents and view and access the content of attached files in the [[employee-center-landing-page|Employee Center]]. This widget is available through the [[hr-service-delivery|HR Service Delivery]] integration with the Microsoft Teams application.
+The Teams Chat widget enables employees to view or continue chats with agents and view and access the content of attached files in the Employee Center. This widget is available through the HR Service Delivery integration with the Microsoft Teams application.
 
 Using the Teams Chat widget, employees can access ticket-specific Microsoft Teams chat conversations in Employee Center. If you are installing ServiceNow for Microsoft Teams in your environment, the Teams Chat widget feature is applicable to the following tables:
 
@@ -36,7 +36,3 @@ Add the Teams Chat widget to enable employees to view or continue chats with age
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics roles
 
-[[c_performanceAnalyticsAndReporting|Platform Analytics]] has both unique roles and roles from other applications that apply to it.
+Platform Analytics has both unique roles and roles from other applications that apply to it.
 
 ## Users with any role
 
@@ -52,7 +52,7 @@ The following attributes are shared by all of the roles:
 -   None of the roles are assigned to a group by default.
 -   None of the roles require users to be allocated as part of a paid subscription, although a paid subscription is required for most Performance Analytics functionality.
 -   None of the roles are elevated, meaning none grant access to High Security Settings.
--   All of the roles are included in the base system, except for analytics\_admin and sn\_process\_optimization\_analyst, which are included with [[user-exp-analytics-landing|Usage Insights]] and [[process-mining|Process Mining]], respectively.
+-   All of the roles are included in the base system, except for analytics\_admin and sn\_process\_optimization\_analyst, which are included with Usage Insights and Process Mining, respectively.
 
 **Tip:** Try to assign the least inclusive role that still provides the necessary access. For example, if you want a user to be able to create data visualizations in the library and share them with users, but not schedule their export, grant that user viz\_creator and not viz\_admin.
 
@@ -94,7 +94,7 @@ platform\_analytics\_admin
 
 </td><td>
 
-Role for administrative privileges in the [[par-workspace|Platform Analytics experience]]. This role includes administrative privileges for products and features that are part of Platform Analytics, including Performance Analytics and Usage Insights. Has the rights of all roles listed here except report\_admin rights to Core UI reports.
+Role for administrative privileges in the Platform Analytics experience. This role includes administrative privileges for products and features that are part of Platform Analytics, including Performance Analytics and Usage Insights. Has the rights of all roles listed here except report\_admin rights to Core UI reports.
 
  Equivalent to admin role from a security perspective.
 
@@ -151,7 +151,7 @@ analytics\_filter\_admin
 
 </td><td>
 
-Role for editing or deleting any Platform Analytics filter. Can add filters to the filter library. For more information, see [[interactive-filters-workspace|Filters in Platform Analytics]].
+Role for editing or deleting any Platform Analytics filter. Can add filters to the filter library. For more information, see [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 </td><td>
 
@@ -208,7 +208,7 @@ pa\_kpi\_signal\_admin
 
 </td><td>
 
-Can activate [[process-behavior-charts-for-kpis|KPI Signals]] for an indicator. For more information, see [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]].
+Can activate KPI Signals for an indicator. For more information, see [Activate KPI Signals monitoring for an indicator \(KPI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-signals-monitor.md).
 
 </td><td>
 
@@ -230,7 +230,7 @@ Role for Performance Analytics administrative privileges. Equivalent to admin ro
 
 -   viz\_admin
 -   analytics\_filter\_admin
--   All other [[r_PARoles|Performance Analytics roles]]. For more information, see [Performance Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_PARoles.md).
+-   All other Performance Analytics roles. For more information, see [Performance Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_PARoles.md).
 
 </td><td>
 
@@ -275,7 +275,7 @@ sn\_process\_optimization\_analyst
 
 </td><td>
 
-Can configure a Process Mining map on a dashboard. For more information, see [[configure-po-map|Configure a Process Mining map on a dashboard]].
+Can configure a Process Mining map on a dashboard. For more information, see [Configure a Process Mining map on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-po-map.md).
 
 </td><td>
 
@@ -385,7 +385,7 @@ Edit a dashboard
 
 Any role, if you created the dashboard or have had it shared with you with editing rights.dashboard\_admin or higher for any dashboard
 
-[[technical-dashboards|Technical dashboards]] also require ui\_builder\_admin
+Technical dashboards also require ui\_builder\_admin
 
 </td></tr><tr><td>
 
@@ -445,7 +445,7 @@ Any role, if you created the dashboard.dashboard\_admin or higher for any dashbo
 
 </td></tr><tr><td>
 
-[[config-db-in-ac|Configure dashboard details]]
+[Configure dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md)
 
 </td><td>
 
@@ -453,7 +453,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[[configure-ac-db-settings|Configure dashboard settings]] except scheduled refreshes
+[Configure dashboard settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-ac-db-settings.md) except scheduled refreshes
 
 </td><td>
 
@@ -469,7 +469,7 @@ dashboard\_admin or higher
 
 </td></tr><tr><td>
 
-[[configure-ac-db-timeout|Configure dashboard tab cache timeout]]
+[Configure dashboard tab cache timeout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-ac-db-timeout.md)
 
 </td><td>
 
@@ -477,7 +477,7 @@ admin
 
 </td></tr><tr><td>
 
-[[db-categories|Create dashboard categories]]
+[Create dashboard categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/db-categories.md)
 
 </td><td>
 
@@ -542,7 +542,7 @@ Any role, if you can edit the dashboard containing the visualization
 
 </td></tr><tr><td>
 
-[[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
+Duplicate a visualization in the Visualization Designer
 
 </td><td>
 
@@ -598,7 +598,7 @@ Any role, to delete a data visualization that you created. viz\_admin or higher 
 
 </td></tr><tr><td>
 
-[[dv-use-data-source-acl|Control data source availability by role]]
+[Control data source availability by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-use-data-source-acl.md)
 
 </td><td>
 
@@ -606,7 +606,7 @@ admin
 
 </td></tr><tr><td>
 
-[[configure-go-data|Configure visualization interactions]]
+[Configure visualization interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-go-data.md)
 
 </td><td>
 
@@ -614,7 +614,7 @@ Any role if you have the right to edit the data visualization. The viewer needs 
 
 </td></tr><tr><td>
 
-[[dv-rep-sc-variables|Use service catalog variables in data visualizations]]
+[Use service catalog variables in data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-rep-sc-variables.md)
 
 </td><td>
 
@@ -622,7 +622,7 @@ viz\_creator or higher
 
 </td></tr><tr><td>
 
-[[colors-dv|Create coloring rules for data visualizations]]
+[Create coloring rules for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/colors-dv.md)
 
 </td><td>
 
@@ -674,9 +674,9 @@ analytics\_filter\_admin or higher
 |--------|----|
 |[Configure a Process Mining map on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-po-map.md)|sn\_process\_optimization\_analyst|
 |[Activate KPI Signals monitoring for an indicator \(KPI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-signals-monitor.md)|pa\_kpi\_signal\_admin|
-|Create or edit an exploration in [[launch-now-assist-explorer|AI Data Explorer]]|now\_assist\_explorer\_user|
+|Create or edit an exploration in [AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md)|now\_assist\_explorer\_user|
 
-**Parent Topic:**[[platform-analytics-exp-reference|Platform Analytics experience reference]]
+**Parent Topic:**[Platform Analytics experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-exp-reference.md)
 
 **Related topics**  
 
@@ -687,32 +687,7 @@ analytics\_filter\_admin or higher
 
 [Reporting roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-roles.md)
 
-[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
-[[common-dv-tasks|Common data visualization tasks]]
+[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]]
-- [[configure-po-map|Configure a Process Mining map on a dashboard]]
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[configure-ac-db-settings|Configure Platform Analytics dashboard settings]]
-- [[configure-ac-db-timeout|Configure Platform Analytics dashboard tab cache timeout]]
-- [[db-categories|Platform Analytics experience dashboard categories]]
-- [[dv-use-data-source-acl|Control data source availability by role]]
-- [[configure-go-data|Configure visualization interactions]]
-- [[dv-rep-sc-variables|Service catalog variables in data visualizations]]
-- [[colors-dv|colors dv]]
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]
-- [[platform-analytics-exp-reference|Platform Analytics experience reference]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[process-mining|Process Mining]]
-- [[par-workspace|Platform Analytics experience]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[r_PARoles|Performance Analytics roles]]
-- [[technical-dashboards|Technical dashboards]]
-- [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]

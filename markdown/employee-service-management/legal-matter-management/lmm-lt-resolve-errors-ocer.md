@@ -16,7 +16,7 @@ breadcrumb: [Engage with outside counsel, Work on a legal matter, Use, Legal Mat
 
 In the Legal Tracker, a matter is created after outside counsel engagement requests have been approved and an integration initiated.
 
-During the matter creation, errors can be reported for the data related to outside counsel engagement request or Legal Tracker details section or both. You can see the errors in the [[activity-lxp|activity]] stream of the outside counsel engagement request.
+During the matter creation, errors can be reported for the data related to outside counsel engagement request or Legal Tracker details section or both. You can see the errors in the activity stream of the outside counsel engagement request.
 
 <table id="id_wpt_5tq_nzb"><thead><tr><th>
 
@@ -118,6 +118,3 @@ When a task was created for filling Legal Tracker details
 </td></tr></tbody>
 </table>**Parent Topic:**[Engage with outside counsel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-eng-outcounsel.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

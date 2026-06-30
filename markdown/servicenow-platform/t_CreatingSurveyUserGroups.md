@@ -12,7 +12,7 @@ breadcrumb: [Survey users and groups, Survey administration, Use surveys, Survey
 
 # Create a survey user group
 
-Survey user groups are groups that have the **Type** field set to survey and display only the information most relevant to [[r_SurveyManagementLandingPage|surveys]]. You can assign survey groups or any user group to surveys.
+Survey user groups are groups that have the **Type** field set to survey and display only the information most relevant to surveys. You can assign survey groups or any user group to surveys.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or user\_admin
 
 Though it is possible to designate members of any group as survey users, one reason to create a survey group is to view it conveniently in the survey **User Groups** module.
 
-By default, the Survey Creators user group is available. When you add a user to this group, the user will be assigned the survey\_creator role to create surveys, [[c_Quizzes|quizzes]], or [[r_Assessments|assessments]] and view only those surveys, quizzes, or assignments created by the user.
+By default, the Survey Creators user group is available. When you add a user to this group, the user will be assigned the survey\_creator role to create surveys, quizzes, or assessments and view only those surveys, quizzes, or assignments created by the user.
 
 ## Procedure
 
@@ -45,7 +45,7 @@ By default, the Survey Creators user group is available. When you add a user to 
     3.  Click **Save**.
 
 
-**Parent Topic:**[[c_SurveyUsersAndGroups|Survey users and groups]]
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
@@ -60,9 +60,3 @@ By default, the Survey Creators user group is available. When you add a user to 
 
 [Create a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateAGroup.md)
 
-## Related
-
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_Quizzes|Quizzes]]
-- [[r_Assessments|Assessments]]

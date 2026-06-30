@@ -15,7 +15,7 @@ breadcrumb: [Hardware Asset Management subscription, Explore, Hardware Asset Man
 
 # Hardware Asset Management license exclusion
 
-Pay only for the assets using licensed [[ham-landing-page|Hardware Asset Management]] features and exclude an asset for which you don't want to use the licensed features.
+Pay only for the assets using licensed Hardware Asset Management features and exclude an asset for which you don't want to use the licensed features.
 
 Hardware asset features are restricted to hardware and consumable asset records. Use the asset level exclusion when you want to use Hardware Asset Management licensed features but want to exclude a few assets. For more information about excluding an asset, see [Exclude assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exclude-assets.md).
 
@@ -42,11 +42,7 @@ You can't select and use the excluded assets in the following HAM flows and task
 **Related topics**  
 
 
-[Hardware [[am-landing-page|Asset Management]] licensing]()
+[Hardware Asset Management licensing]()
 
 [Licensing framework for Hardware Asset Management solutions]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]

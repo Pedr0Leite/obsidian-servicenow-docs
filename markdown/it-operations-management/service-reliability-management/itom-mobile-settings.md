@@ -14,7 +14,7 @@ breadcrumb: [ITOM Mobile Agent, Service Reliability Management, ITOM AIOps, IT O
 
 # ITOM Mobile Agent reference
 
-Learn about [[itom-mobile-landing|ITOM Mobile Agent]] settings. You can view the app version, give feedback, and adjust your preferences.
+Learn about ITOM Mobile Agent settings. You can view the app version, give feedback, and adjust your preferences.
 
 ## Explore reference documentation
 
@@ -22,6 +22,3 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 [Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/settings-mobile.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]

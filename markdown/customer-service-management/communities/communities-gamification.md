@@ -14,7 +14,7 @@ breadcrumb: [Using communities, Communities, Customer Service Management]
 
 # Gamification
 
-Encourage users to participate and contribute content in the community by providing incentives in the form of [[gamification-components-points|points]], achievement levels, and [[gamification-components-badges|badges]].
+Encourage users to participate and contribute content in the community by providing incentives in the form of points, achievement levels, and badges.
 
 Use the gamification framework to:
 
@@ -25,7 +25,7 @@ Use the gamification framework to:
 Community administrators can:
 
 -   Create [rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-rules.md) and configure [points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-points.md) that users receive for activities on the community.
--   Create [tracks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-tracks.md) to logically separate points assigned in the [[servicenow-communities|communities]] into different areas.
+-   Create [tracks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-tracks.md) to logically separate points assigned in the communities into different areas.
 -   Create [levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-levels.md) in the community where users can achieve expertise or a reputation and then configure level ranges within each level definition.
 -   Create [badges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-badges.md) to award to users for different achievements.
 
@@ -38,9 +38,9 @@ Community users can:
 -   See gamification achievements on their user profiles.
 
 -   **[Gamification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components.md)**  
-The gamification feature includes several components, such as [[gamification-components-rules|rules]], levels, and [[gamification-components-tracks|tracks]], that enable users to earn points and badges for community activities.
+The gamification feature includes several components, such as rules, levels, and tracks, that enable users to earn points and badges for community activities.
 -   **[Gamification user interface components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-UI.md)**  
-Gamification information appears on leaderboards, the [[gamification-ui-user-profile|user profile page]], and content pages.
+Gamification information appears on leaderboards, the user profile page, and content pages.
 -   **[Moderate gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-moderate.md)**  
 Monitor points earned by users and award points and badges to users based on their participation within the community.
 
@@ -79,11 +79,3 @@ Monitor points earned by users and award points and badges to users based on the
 
 [View a list of questions and create a case]()
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[gamification-components-badges|Badges]]
-- [[servicenow-communities|Communities]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-tracks|Tracks]]
-- [[gamification-ui-user-profile|User profile page]]

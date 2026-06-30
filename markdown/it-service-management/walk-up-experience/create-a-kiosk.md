@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience kiosk, Configure, Walk-up Experience, IT Service
 
 # Create a kiosk at a location
 
-[[walkup-experience-landing-page|Walk-up Experience]] kiosks offer immediate assistance to the requesters by supporting them with technical issues, questions, or requests. The requesters can receive on-the-spot guidance or resolution for their IT-related problems.
+Walk-up Experience kiosks offer immediate assistance to the requesters by supporting them with technical issues, questions, or requests. The requesters can receive on-the-spot guidance or resolution for their IT-related problems.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Location where you want to create a kiosk. The field is automatically populated 
 
 **Parent Topic:**[Walk-up Experience kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-kiosk-administration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

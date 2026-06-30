@@ -18,7 +18,7 @@ Export translation records to translate to additional languages in your preferre
 
 ## Before you begin
 
-**Note:** Using the [[localization-framework-landing|Localization Framework]] application is recommend for [[self-localize|translating to an unsupported language]] or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
+**Note:** Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
 
 Role required: admin
 
@@ -30,7 +30,7 @@ In the following cases, translate strings in the UI outside of the ServiceNow AI
 -   You want to modify translations that ServiceNow provides in internationalization plugins.
 -   You want to translate an instance into a language that ServiceNow does not support with internationalization plugins. For more information, see [Translating to an unsupported language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md).
 
-All translatable UI strings items are stored in translation table records. The only time you would translate UI directly in translation records is when you have a small amount of customer-created UI components and you know exactly where they are. For more information about [[r_TranslationTables|translation tables]], see [Translation tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md) and [Translating individual UI strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_TranslateIndFieldLabelsAndValues.md).
+All translatable UI strings items are stored in translation table records. The only time you would translate UI directly in translation records is when you have a small amount of customer-created UI components and you know exactly where they are. For more information about translation tables, see [Translation tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md) and [Translating individual UI strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_TranslateIndFieldLabelsAndValues.md).
 
 ## Procedure
 
@@ -107,8 +107,4 @@ Role required: admin
     -   For translated text, select the **Sys Translated Text Translation Map**.
 9.  Select **Transform**.
 
-## Related
 
-- [[localization-framework-landing|Localization Framework]]
-- [[self-localize|Translating to an unsupported language]]
-- [[r_TranslationTables|Translation tables]]

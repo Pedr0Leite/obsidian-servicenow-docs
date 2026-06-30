@@ -16,7 +16,7 @@ breadcrumb: [CMDB Compliance, Configuration Management Database \(CMDB\), Config
 
 These components are installed with the Certification Core plugin.
 
-Demo data is included with the [[c_DesiredState|Desired State]] and [[c_ArchitectureCompliance|Architecture Compliance]] plugins.
+Demo data is included with the Desired State and Architecture Compliance plugins.
 
 The Certification Core plugin adds or modifies these tables.
 
@@ -42,7 +42,7 @@ Audit Result \[cert\_audit\_result\]
 
 </td><td>
 
-Contains the results of specific, [[c_CertificationAudits|certification audits]].
+Contains the results of specific, certification audits.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ The certification role is automatically assigned to all users with the itil role
 |Name|Contains roles|Description|
 |----|--------------|-----------|
 |certification|none|Can read and update certification tasks to resolve discrepancies.|
-|certification\_filter\_admin|none|Can create, read, and update [[c_CertificationFilters|certification filters]].|
+|certification\_filter\_admin|none|Can create, read, and update certification filters.|
 |certification\_admin|certification, certification\_filter\_admin|Can manage the entire certification process. These users can create, edit, and delete all certification records.|
 
 ## UI policies
@@ -191,7 +191,7 @@ Audit \[cert\_audit\]
 
 </td><td>
 
-Displays all fields related to creating tasks when the user selects the Create tasks [[check-box|check box]].
+Displays all fields related to creating tasks when the user selects the Create tasks check box.
 
 </td></tr><tr><td>
 
@@ -351,10 +351,3 @@ Sets the table field derived from the selected filter to read-only.
 |Update table|Certification Template \[cert\_template\]|Update the stored table to the table of the filter.|
 |Update template version|Certification Template \[cert\_template\]|Creates a version when the template changes in any meaningful way.|
 
-## Related
-
-- [[c_DesiredState|Desired State]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_CertificationAudits|Certification audits]]
-- [[c_CertificationFilters|Certification filters]]
-- [[check-box|Check box]]

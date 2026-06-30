@@ -14,7 +14,7 @@ breadcrumb: [Test suites, Setting up the manual testing process, Test Management
 
 # Create a copy of an existing test suite
 
-[[t_CreateATestSuite|Create a test suite]] with the details of an existing test suite.
+Create a test suite with the details of an existing test suite.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ breadcrumb: [Test suites, Setting up the manual testing process, Test Management
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestSuites|Test Suites]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Suites**.
 
 2.  Open the test suite that you want to create a copy of.
 
@@ -42,13 +42,8 @@ breadcrumb: [Test suites, Setting up the manual testing process, Test Management
 
 You can use the related links and related lists of the new test suite for the following actions:
 
--   Add this test suite, with all associated [[c_TestCases|test cases]], to a test plan by clicking the **Add to Test Plan** related link.
+-   Add this test suite, with all associated test cases, to a test plan by clicking the **Add to Test Plan** related link.
 -   use the Test Cases related list to associate test cases to this test suite.
 
 **Parent Topic:**[Test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestSuites.md)
 
-## Related
-
-- [[t_CreateATestSuite|Create a test suite]]
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]

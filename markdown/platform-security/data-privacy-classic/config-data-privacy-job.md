@@ -18,7 +18,7 @@ Configure a data privacy job on your production instance to use anonymized data 
 
 ## Before you begin
 
-The [[data-privacy-landing|data privacy]] job supports two de-identification use cases:
+The data privacy job supports two de-identification use cases:
 
 -   Sensitive data of specific sys\_users
 -   Sensitive data of particular data class.
@@ -29,7 +29,7 @@ Role required: data\_privacy\_processor and admin
 
 1.  Elevate to the **data\_privacy\_processor** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Data Privacy Job**.
 
@@ -63,7 +63,7 @@ Description of the job.
 
 </td></tr><tr><td>
 
-Privacy [[sc-configuration|Configuration]]
+Privacy Configuration
 
 </td><td>
 
@@ -82,7 +82,7 @@ Frequency
 
 </td></tr><tr><td>
 
-[[users|Users]]
+Users
 
 </td><td>
 
@@ -159,9 +159,3 @@ The end of the time window to run this job. The job runs before the time entered
     -   **Pause**: Pauses job and rollback recording, if rollback has been selected. A warning message will display after a three-day expiry period for rollback contexts. See [Roll back a data privacy job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/rollback-data-privacy-job.md) for details.
     -   **Resume**: Restarts a paused job. Rollback is not supported for resumed jobs if paused. Cancel the job and create a data privacy job. The recording uses an unexpired rollback context.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

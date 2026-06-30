@@ -12,7 +12,7 @@ breadcrumb: [Using a regulated environment, ServiceNow Store, Administering appl
 
 # Environments with federal or regional ServiceNow Store instances
 
-Certain regulated environments contain an isolated instance of the [[servicenow-store|ServiceNow Store]] to support data security requirements. Find out whether your environment has its own federal or regional instance of the ServiceNow Store.
+Certain regulated environments contain an isolated instance of the ServiceNow Store to support data security requirements. Find out whether your environment has its own federal or regional instance of the ServiceNow Store.
 
 Currently, regulated environments with access to isolated instances of the ServiceNow Store include the following:
 
@@ -23,6 +23,3 @@ Currently, regulated environments with access to isolated instances of the Servi
 
 If there isn't an isolated instance of the ServiceNow Store available for your environment, use the commercial .
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]

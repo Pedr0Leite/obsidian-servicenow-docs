@@ -70,7 +70,7 @@ As shown in the example, Plan 1 is the primary plan. Plan 3 is marked as a relat
 
 \[Omitted image "event-with-plans-event-tasks.png"\] Alt text: Event with plans.
 
-Event tasks: Event tasks are shown in the [[list-view-uib-ws|list view]] by default. Switch to the hierarchical view to display the hierarchy, with primary and related plans at the top level.
+Event tasks: Event tasks are shown in the list view by default. Switch to the hierarchical view to display the hierarchy, with primary and related plans at the top level.
 
 \[Omitted image "event-task-rel-list-def-view.png"\] Alt text: List view.
 
@@ -154,17 +154,11 @@ Follow these steps to create a nested plan:
 1.  Create an event.
 2.  Add a plan to the event. An activated plan is created with the plan type set as primary.
 3.  An event is triggered to create related plans. If the plan has related plans without any task associations and the plan level is less than the default value defined in the property, an activated plan is created with the type set as related plan.
-4.  An event is created to generate one or more [[event-assets|event assets]].
+4.  An event is created to generate one or more event assets.
 5.  After the assets are created, an event is triggered to create event tasks.
 6.  If the event task has a related plan and its level is less than the level defined in the property, an activated plan is created with the type set as child plan.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-**Parent Topic:**[[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
+**Parent Topic:**[Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[list-view-uib-ws|List view]]
-- [[event-assets|Event assets]]

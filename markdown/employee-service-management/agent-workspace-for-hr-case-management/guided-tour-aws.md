@@ -28,7 +28,7 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Navigate to one of the following pages:
 
@@ -46,7 +46,4 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 
 7.  Select **Done** after the tour is ended​.
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

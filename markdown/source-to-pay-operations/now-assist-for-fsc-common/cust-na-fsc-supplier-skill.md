@@ -14,7 +14,7 @@ breadcrumb: [Configure, Features, Now Assist Finance Supply Chain, Finance and S
 
 # Customize supplier summarization for fulfillers skill
 
-If you have the admin role, you can customize the [[supplier|supplier]] summarization for fulfillers skill so that fulfillers can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to view relevant supplier information.
+If you have the admin role, you can customize the supplier summarization for fulfillers skill so that fulfillers can use the generative AI skills in Source-to-Pay Workspace to view relevant supplier information.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **Common Finance and Supply Chain features** to view the skills for the [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]].
+2.  In the **Finance and Supply Chain** workflow group, select **Common Finance and Supply Chain features** to view the skills for the Now Assist for Common Finance and Supply Chain features.
 
 3.  Create a copy of a skill and customize the input fields.
 
@@ -78,7 +78,7 @@ Base input field
 
 </td><td>
 
-Field in the [[slo-supplier-table|Supplier table]] whose value this skill uses in its response.
+Field in the Supplier table whose value this skill uses in its response.
 
  For example, `Legal name`.
 
@@ -99,7 +99,7 @@ Description of the base input field value.
 
         You can build the condition out further by selecting **+New condition set** and configuring additional parameters.
 
-    3.  For each input template state, select **+New data source** to configure the additional related table and [[activity-stream|activity stream]] data, as needed.
+    3.  For each input template state, select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         You can add input data sources like related tables, activity streams and relationships to provide more context to the Now LLM Service. You can also add rule conditions to these additional data sources.
 
@@ -150,11 +150,3 @@ You can configure some of the inputs for a generative AI skill. Inputs permit yo
 
 [Customize a Now Assist for Common Finance and Supply Chain features skill]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]]
-- [[slo-supplier-table|Supplier table]]
-- [[activity-stream|Activity stream]]

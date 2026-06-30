@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Service Operations Workspace for ITSM
 
-ServiceNow® Service Operations Workspace is a configurable workspace that provides a unified experience for multiple [[r_ITServiceManagement|IT Service Management]] and IT Operations Management workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
+ServiceNow® Service Operations Workspace is a configurable workspace that provides a unified experience for multiple IT Service Management and IT Operations Management workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
 
 \[Omitted image "sow-overview-landing-new-bg.svg"\] Alt text: SOW overview
 
@@ -24,7 +24,7 @@ For information about how you can automate and optimize your services and operat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Terminology used in Service Operations Workspace for ITSM \[Omitted image "icon-[[reference-for-itsm-mobile-agent|reference]].png"\] Alt text: SOW terminology Learn about the frequently used terms in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/terminology-used-in-sow-for-itsm.md)
+[Terminology used in Service Operations Workspace for ITSM \[Omitted image "icon-reference.png"\] Alt text: SOW terminology Learn about the frequently used terms in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/terminology-used-in-sow-for-itsm.md)
 
 </td><td>
 
@@ -53,7 +53,3 @@ For information about how you can automate and optimize your services and operat
 
 [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Healthcare and Life Sciences data model tables
 
-Tables installed with the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application enable you to decide the data model, tasks, and product offerings for your [[hcls-overview|Healthcare and Life Sciences]] workflows.
+Tables installed with the Healthcare and Life Sciences Service Management Core application enable you to decide the data model, tasks, and product offerings for your Healthcare and Life Sciences workflows.
 
-To learn more about the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]], see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md).
+To learn more about the Healthcare and Life Sciences data model, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md).
 
 -   **[Allergy intolerance table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-allergy-intolerance.md)**  
 The Allergy intolerance \[sn\_hcls\_allergy\] table stores the information about a clinical assessment of an allergy or intolerance; a propensity, or a potential risk to an individual, to have an adverse reaction on future exposure to the specified substance, or class of substance.
@@ -29,7 +29,7 @@ The Attribute \[sn\_hcls\_characteristic\_attribute\] table stores the character
 -   **[Book appointment table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-book-appointment-table.md)**  
 The Book appointment \[sn\_hcls\_book\_appt\_task\] table stores the task details for booking an appointment associated with a healthcare case or its extended case types.
 -   **[Claim diagnosis table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-claim-diagnosis-table.md)**  
-The [[hcls-claim-diagnosis-table|Claim diagnosis table]] \[sn\_hcls\_claim\_diagnosis\] stores diagnosis information for claims.
+The Claim diagnosis table \[sn\_hcls\_claim\_diagnosis\] stores diagnosis information for claims.
 -   **[Claim header table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-claim-header-table.md)**  
 The Claim header \[sn\_hcls\_claim\_header\] table stores the details of the main claim submitted on behalf of a patient to a payer organization.
 -   **[Claim line table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-claim-line-table.md)**  
@@ -41,7 +41,7 @@ The Dosage definition \[sn\_hcls\_dosage\_definition\] table models the Dosage s
 -   **[Dosage specification table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-dosage-spec-table.md)**  
 The Dosage specification \[sn\_hcls\_dosage\_specification\] table stores the information about medication product dosage associated with a program.
 -   **[Dosage variable table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-dosage-var-table.md)**  
-The Dosage variable \[sn\_hcls\_dosage\_variable\] table stores the variables configured for a dosage specification displayed on the [[hcls-med-prescription-form|Medication Prescription form]] of a [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] application.
+The Dosage variable \[sn\_hcls\_dosage\_variable\] table stores the variables configured for a dosage specification displayed on the Medication Prescription form of a Healthcare and Life Sciences Service Management application.
 -   **[Encounter table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-encounter-table.md)**  
 The Encounter \[sn\_hcls\_encounter\] table stores the information about an interaction between a patient and healthcare providers for providing healthcare services or assessing the health status of a patient.
 -   **[Enrolled Program table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-enrolled-program.md)**  
@@ -107,11 +107,3 @@ The Update insurance information \[hcls\_insurance\_info\_task\] table stores th
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]
-- [[hcls-claim-diagnosis-table|Claim diagnosis table]]
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Retail]
 
 # Exploring Retail
 
-Whether you're starting or expanding your implementation of the [[rahi-retail-operations-overview|Retail]] application, learn more about the features available to optimize your retail organization.
+Whether you're starting or expanding your implementation of the Retail application, learn more about the features available to optimize your retail organization.
 
 ## Retail overview
 
@@ -37,7 +37,7 @@ Retail helps you accomplish the following:
 |Area Manager|Area managers, also called market managers,who oversee multiple regions and stay aware of issues and resolution status across their store hierarchy.|
 |Central Operations Support|Central Operations Support or the HQ Operations team who addresses store questions and needs, performs issue resolution, and interfaces with company field staff or third-party vendors in coordination with Store Manager. They’re responsible for creating tasks and standard operating procedures. They're acting as the fulfilling agent for cases routed to them, including the cases related to security, IT Service Management \(ITSM\), and Central Customer Support.|
 
-For more information on the roles that come with Retail Core, see [[rahi-retail-components-installed-retail-core|.]]
+For more information on the roles that come with Retail Core, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-retail-core.md)
 
 ## Retail workflow
 
@@ -47,17 +47,17 @@ Retail case types are designed to address various business needs and streamline 
 
 The case types available are:
 
--   [[rahi-retail-retail-hq-operations|HQ communications case]]: Initiate and coordinate large-scale actions across multiple stores with the HQ communications case type in the Retail HQ operations plugin.
--   [[rahi-retail-retail-store-services|Store inquiry case]]: Streamline the process for contacting HQ for store-to-HQ cases with the store inquiry case type in the Retail Store Services plugin, which provides a clearly defined workflow for resolution at HQ.
--   [[rahi-retail-retail-in-store-operations|In-store operations case]]: Standardize the reporting, tracking, and resolution of in-store issues with the in-store operations case type in the Retail in-store operations plugin. This case type contributes to structured assignments of store cases and tasks, reducing the time to resolution.
--   [[rahi-retail-retail-customer-complaint|Customer complaint case]]: Help ensure quick and efficient customer service resolutions by capturing store-related complaints from customers using the customer complaint case type in the Retail customer complaint plugin.
+-   [HQ communications case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-hq-operations.md): Initiate and coordinate large-scale actions across multiple stores with the HQ communications case type in the Retail HQ operations plugin.
+-   [Store inquiry case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-store-services.md): Streamline the process for contacting HQ for store-to-HQ cases with the store inquiry case type in the Retail Store Services plugin, which provides a clearly defined workflow for resolution at HQ.
+-   [In-store operations case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-in-store-operations.md): Standardize the reporting, tracking, and resolution of in-store issues with the in-store operations case type in the Retail in-store operations plugin. This case type contributes to structured assignments of store cases and tasks, reducing the time to resolution.
+-   [Customer complaint case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-customer-complaint.md): Help ensure quick and efficient customer service resolutions by capturing store-related complaints from customers using the customer complaint case type in the Retail customer complaint plugin.
 
 ## Retail data model
 
 |Benefit|Feature|
 |-------|-------|
-|Helps to create and maintain Retail organization and Retail specific attributes on it.|[[rahi-retail-data-model|Retail organization data model]]|
-|Covers the unified data model of cases and tasks in Retail. It helps in solving the Retail workflows.|[[rahi-retail-retail-unified-cas-task-data-model|Retail unified case and task data model]]|
+|Helps to create and maintain Retail organization and Retail specific attributes on it.|[Retail organization data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-data-model.md)|
+|Covers the unified data model of cases and tasks in Retail. It helps in solving the Retail workflows.|[Retail unified case and task data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-unified-cas-task-data-model.md)|
 
 Retail data model also includes:
 
@@ -68,40 +68,20 @@ Retail data model also includes:
 
 To learn more about configuring and using Retail, see:
 
--   [[rahi-retail-operations-configuring|Configuring Retail]]
--   [[rahi-retail-manage-customer-complaints|Manage customer complaints]]
--   [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
--   [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]]
--   [[rahi-retail-operations-reference|Retail reference]]
+-   [Configuring Retail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-configuring.md)
+-   [Manage customer complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
+-   [Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
+-   [Track cases and tasks from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-navigating-retail.md)
+-   [Retail reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-reference.md)
 
--   **[[rahi-retail-case|Retail case overview]]**  
+-   **[Retail case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-case.md)**  
 The Retail case table stores information about your retail case types and provides the base for retail case creation. This table extends the Customer Service Management case table. All fields utilized through Customer Service Management case remain intact.
--   **[[rahi-retail-portal|Retail portal]]**  
+-   **[Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-portal.md)**  
 Retail portal provides an enhanced experience to use self-service tools, view cases, and gain visibility into metrics for your retail organizations.
--   **[[rahi-retail-retail-mobile|Retail mobile application]]**  
+-   **[Retail mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-mobile.md)**  
 The Retail mobile plugin offers a customized mobile experience for retail operations, enabling frontline teams to manage efficiently store activities and resolve issues on the go. It provides real-time insights into key KPIs, supports issue tracking, and is compatible with both Android and iOS platforms.
--   **[[rahi-retail-retail-case-types|Retail case types]]**  
+-   **[Retail case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-case-types.md)**  
 Retail case types are designed to address various business needs and streamline workflows for store-level and HQ-driven task management.
--   **[[rahi-retail-retail-multistore-operational-planning|Retail store plans]]**  
+-   **[Retail store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-multistore-operational-planning.md)**  
 The Retail store plan provides a centralized way to plan, schedule, and manage operational work across multiple stores, giving HQ and regional teams full visibility while simplifying execution for store teams.
 
-## Related
-
-- [[rahi-retail-components-installed-retail-core|Components installed with Retail core overview]]
-- [[rahi-retail-retail-hq-operations|HQ communications case]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-retail-in-store-operations|In-store operations case]]
-- [[rahi-retail-retail-customer-complaint|Customer complaint case]]
-- [[rahi-retail-data-model|Retail organization data model]]
-- [[rahi-retail-retail-unified-cas-task-data-model|Retail unified case and task data model]]
-- [[rahi-retail-operations-configuring|Configuring Retail]]
-- [[rahi-retail-manage-customer-complaints|Manage customer complaints]]
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]]
-- [[rahi-retail-operations-reference|Retail reference]]
-- [[rahi-retail-case|Retail case overview]]
-- [[rahi-retail-portal|Retail portal]]
-- [[rahi-retail-retail-mobile|Retail mobile application]]
-- [[rahi-retail-retail-case-types|Retail case types]]
-- [[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
-- [[rahi-retail-operations-overview|Retail]]

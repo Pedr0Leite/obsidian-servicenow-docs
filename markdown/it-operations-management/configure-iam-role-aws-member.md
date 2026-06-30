@@ -17,13 +17,13 @@ Configure access for AWS member accounts by using a trust chain from the accesso
 ## Before you begin
 
 -   Familiarize yourself with the Amazon documentation on [Creating a role to delegate permissions to an IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html).
--   Ensure that you know which AWS member accounts are assigned to the same management account. You use the management account for configuring temporary credentials for cloud [[r-discovery|discovery]] using IAM roles.
--   Confirm that [[discovery-admin-workspace|Discovery Admin Workspace]] is using at least version 1.10.0. The **Discovery** &gt; **Cloud Service Accounts** navigation module isn't available with earlier versions. To access **Cloud Service Accounts** with an earlier version, enter in the navigation filter: `cmdb_ci_cloud_service_account.list`.
+-   Ensure that you know which AWS member accounts are assigned to the same management account. You use the management account for configuring temporary credentials for cloud discovery using IAM roles.
+-   Confirm that Discovery Admin Workspace is using at least version 1.10.0. The **Discovery** &gt; **Cloud Service Accounts** navigation module isn't available with earlier versions. To access **Cloud Service Accounts** with an earlier version, enter in the navigation filter: `cmdb_ci_cloud_service_account.list`.
 
 Role required:
 
 -   For Cloud Discovery: discovery\_admin
--   For [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]: admin or sn\_cmp.cloud\_admin
+-   For Cloud Provisioning and Governance: admin or sn\_cmp.cloud\_admin
 
 ## About this task
 
@@ -65,7 +65,7 @@ You can configure access for AWS member accounts by using a trust chain from the
 
     4.  On the form, fill in the remaining fields.
 
-        For a description of the field values, see [[create-aws-service-accounts|Create AWS service accounts]].
+        For a description of the field values, see [Create AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
     5.  Select **Submit**.
 
@@ -118,17 +118,8 @@ Name of the trusting account for which you are providing access using the IAM ro
 
 Configure the trusting management account and the trusted accessor account.
 
--   For information on configuring accessor accounts with AWS credentials, see [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]].
--   For information on configuring accessor accounts without AWS credentials, see [[aws-trusted-credential-less|Configure credential-less access using trusted AWS accounts]].
+-   For information on configuring accessor accounts with AWS credentials, see [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
+-   For information on configuring accessor accounts without AWS credentials, see [Configure credential-less access using trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-trusted-credential-less.md).
 
-**Parent Topic:**[[setup-aws-service-accounts|Setting up AWS service accounts]]
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
 
-## Related
-
-- [[create-aws-service-accounts|Create AWS service accounts]]
-- [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]]
-- [[aws-trusted-credential-less|Configure credential-less access using trusted AWS accounts]]
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

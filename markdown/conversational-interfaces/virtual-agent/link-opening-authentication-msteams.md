@@ -14,7 +14,7 @@ breadcrumb: [Configure VA for Teams, Conversational Integration with Microsoft T
 
 # Configure link authentication and opening experience in Microsoft Teams
 
-Link authentication and opening experience in Microsoft Teams provides a seamless experience for end users to interact with ServiceNow links when you use [[virtual-agent-landing-page|Virtual Agent]] on Microsoft Teams.
+Link authentication and opening experience in Microsoft Teams provides a seamless experience for end users to interact with ServiceNow links when you use Virtual Agent on Microsoft Teams.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Ensure that your Microsoft Teams integration is available in the All Integration
 
 Ensure that your  Microsoft Teams email ID matches with one of the system users' email.
 
-Ensure that you are in the  [[teams-conv-integration|Conversational Integration with Microsoft Teams]] scope while completing this step \(instead of the Global scope\)​.
+Ensure that you are in the  Conversational Integration with Microsoft Teams scope while completing this step \(instead of the Global scope\)​.
 
 ## About this task
 
@@ -36,7 +36,7 @@ To configure smart links to open in a pop-up or Microsoft Teams tab, admins must
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and routing**, select **View All**.
 
@@ -76,8 +76,3 @@ Configure smart links for your Virtual Agent app in Microsoft Teams to enable di
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[convint-landing-page|Conversational Interfaces]]

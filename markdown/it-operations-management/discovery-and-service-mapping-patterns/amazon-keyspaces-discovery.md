@@ -14,13 +14,13 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS Keyspaces discovery with Patterns
 
-The ServiceNow® [[r-discovery|Discovery]] application uses the Amazon Keyspaces discovery pattern to find Amazon Keyspaces managed Apache Cassandra–compatible database service.
+The ServiceNow® Discovery application uses the Amazon Keyspaces discovery pattern to find Amazon Keyspaces managed Apache Cassandra–compatible database service.
 
 Amazon Keyspaces is a managed Apache Cassandra–compatible database service. A keyspace groups related tables that are relevant for one or more applications. It contains one or more tables and defines the replication strategy for all the tables it contains.
 
 ## Prerequisites
 
--   Install the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+-   Install the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   Configure an AWS Service Account with valid credentials on the ServiceNow instance with permission to run the following APIs:
     -   `https://cassandra.{region}.amazonaws.com {Content-Type:application/x-amz-json-1.0, , X-Amz-Target: KeyspacesService.ListKeyspaces}`
     -   `https://tagging.{region}.amazonaws.com {"ResourceTypeFilters":[]}`
@@ -43,7 +43,3 @@ Keyspaces are stored in Cloud Databases \[cmdb\_ci\_cloud\_database\] table.
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

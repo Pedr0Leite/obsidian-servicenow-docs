@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # Configure Automated Mapping of OT devices using guided setup
 
-Use the [[industrial-process-manager-overview|Industrial Process Manager]] guided setup to automatically map OT devices to the ISA equipment model entity.
+Use the Industrial Process Manager guided setup to automatically map OT devices to the ISA equipment model entity.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If you have the admin role, you can use the Industrial Process Manager Guided Se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 2.  Select **Get Started** for the Industrial Process Manager application.
 
@@ -56,7 +56,7 @@ Upload a spreadsheet of OT subnets to import subnets from network management pla
 
 </td><td>
 
-[[add-site|Add a site]] to each OT subnet so that OT devices with IP addresses matched with the OT subnet record can be mapped to that site automatically.
+Add a site to each OT subnet so that OT devices with IP addresses matched with the OT subnet record can be mapped to that site automatically.
 
 </td></tr><tr><td id="d95242e130">
 
@@ -105,8 +105,3 @@ Activate the scheduled flows to run scheduled mapping of all OT devices regularl
 
 [Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[add-site|Add a Site]]

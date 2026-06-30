@@ -281,7 +281,7 @@ powerpaste
 Cleans up content from Microsoft Word, Microsoft Excel, Google Docs, and HTML sources automatically to create clean content that matches the look and feel of the site.
 
 </td></tr></tbody>
-</table>**Note:** Adding a custom plugin to the valid plugins can cause unexpected [[hs-results|results]].
+</table>**Note:** Adding a custom plugin to the valid plugins can cause unexpected results.
 
 ## Change the TinyMCE HTML editor plugins
 
@@ -293,7 +293,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **All Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **All Properties**.
 
 2.  Search for and select the plugin \(glide.ui.html.editor.enabled\_plugins\).
 
@@ -391,7 +391,4 @@ Available plugins
 
     If there's a custom plugin added to available plugins its not recommended unless critical.
 
-## Related
 
-- [[hs-results|Results]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

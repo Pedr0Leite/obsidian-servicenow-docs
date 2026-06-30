@@ -16,7 +16,7 @@ As a product catalog administrator, you can create needs templates, which are qu
 
 ## Overview of needs analysis
 
-When agents [[create-new-lead|create a lead]] in the [[lead-management|Lead Management]] application or an opportunity in the [[opportunity-management|Opportunity Management]] application, a product selection guide is displayed in the product catalog. The product selection guide lists the needs templates that agents can choose to get product offer recommendations.
+When agents create a lead in the Lead Management application or an opportunity in the Opportunity Management application, a product selection guide is displayed in the product catalog. The product selection guide lists the needs templates that agents can choose to get product offer recommendations.
 
 \[Omitted image "needs-analysis-elements.png"\] Alt text: Product catalog page with needs template, needs questionnaire and product recommendations in Opportunity Management, and decision tree start node in Decision Tree Builder
 
@@ -47,26 +47,15 @@ Before creating decision trees for needs templates, review how decision trees wo
 
 Follow these steps to configure needs analysis:
 
-1.  [[create-product-recommendations|Create a needs-based product offering recommendation]].
-2.  [[configure-needs-decision-tree|Create a decision tree for a needs template]].
-3.  [[build-needs-decision-tree|Build a needs decision tree]].
-4.  [[create-publish-needs-template|Create a needs template and set the catalog relationship]].
+1.  [Create a needs-based product offering recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-product-recommendations.md).
+2.  [Create a decision tree for a needs template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-needs-decision-tree.md).
+3.  [Build a needs decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/build-needs-decision-tree.md).
+4.  [Create a needs template and set the catalog relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-publish-needs-template.md).
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[create-product-recommendations|Create a needs-based product offering recommendation]]
-- [[configure-needs-decision-tree|Create a decision tree for a needs template]]
-- [[build-needs-decision-tree|Build a needs decision tree]]
-- [[create-publish-needs-template|Create a needs template and set the catalog relationship]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[create-new-lead|Create a lead]]
-- [[lead-management|Lead Management]]
-- [[opportunity-management|Opportunity Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Equipment holder extension classes
 
-The Equipment Holder extension classes are the sub-classes that are extended from the Equipment Holder. You can define equipment holder records for these classes in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Equipment Holder extension classes are the sub-classes that are extended from the Equipment Holder. You can define equipment holder records for these classes in the Telecommunications Network Inventory application.
 
 <table id="table_xhx_nvs_4xb"><thead><tr><th>
 
@@ -140,6 +140,3 @@ Identification: Name \(100\). Name is discovered from SNMP. If not available, us
 
 [49fbb00d55deb1d629af60c609556de00b5cd94c.dita](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-equipment-holders.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

@@ -15,13 +15,13 @@ breadcrumb: [How Accounts Payable Operations integration with Document Intellige
 
 # Invoice data transformation logic
 
-[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] transforms invoice and invoice line field values, including dates, currencies, unit prices, and decimals, into formats supported by downstream processing systems.
+Accounts Payable Operations integration with Document Intelligence transforms invoice and invoice line field values, including dates, currencies, unit prices, and decimals, into formats supported by downstream processing systems.
 
 ## Type deriving logic
 
 The application includes the following logic for deriving the type field on the invoice.
 
--   Considers the [[purchase-order-table|purchase order]] value in the invoice stage record
+-   Considers the purchase order value in the invoice stage record
 -   If the purchase order value isn’t empty, then the invoice type is set to PO type.
 -   If the purchase order value is empty, then the invoice type is set to Non- PO type.
 
@@ -66,7 +66,7 @@ The application supports different locale such as US, European and Indian number
 The application first looks for the active unique currency code in the Currency \[fx\_currency\] table when an incoming invoice amount has a currency symbol or code. If multiple currency matches are found or the incoming invoice amount has no currency code or symbol, then the application runs the defaulting currency logic depending on the invoice type as follows.
 
 -   PO invoice - Searches for purchase order and related currency, and sets the invoice currency to purchase order currency. In case of missing purchase order or related currency, the invoice currency is set to system currency.
--   Non- PO invoice - Searches for [[legal-entity|legal entity]] and local currency, and sets the invoice currency to the legal entity's local currency. In the case of missing legal entity and local currency, the invoice currency is set to system currency.
+-   Non- PO invoice - Searches for legal entity and local currency, and sets the invoice currency to the legal entity's local currency. In the case of missing legal entity and local currency, the invoice currency is set to system currency.
 
 ## Unit Price conversion logic
 
@@ -139,11 +139,11 @@ The system does the following:-   The system considers the purchase order value 
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
-The system does one of the following:-   The system considers the value mentioned in the invoice and does a complete match with supplier in [[slo-supplier-table|Supplier table]].
+The system does one of the following:-   The system considers the value mentioned in the invoice and does a complete match with supplier in Supplier table.
 -   If the invoice contains a purchase order associated with the supplier, the application matches with the supplier name mentioned in the invoice with the supplier name of purchase order and populates the supplier.
 -   If the invoice document contains supplier name with more than two words, the application performs partial name match against the supplier details in the supplier table along with street address or city. Example. If the invoice document contains supplier name as XX Corp, and the supplier name in the supplier table is XX Ltd, the application matches XX in supplier table along with the address and populates the invoice document with the corresponding supplier.
 
@@ -171,17 +171,9 @@ The system does the following:-   If the invoice contains XX.XXX,XXX the applica
 
     -   Present after the value \(header or line level\)
     -   Present within a bracket \(header or line level\)
-In such cases, the invoice is considered as of type [[invoice-type-credit-memo|Credit memo]].
+In such cases, the invoice is considered as of type Credit memo.
 
 
 </td></tr></tbody>
 </table>**Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-docintel-how-it-works.md)
 
-## Related
-
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[purchase-order-table|Purchase order]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[slo-supplier-table|Supplier table]]
-- [[invoice-type-credit-memo|Credit memo]]

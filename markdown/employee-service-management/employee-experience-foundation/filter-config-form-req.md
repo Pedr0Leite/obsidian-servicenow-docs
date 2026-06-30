@@ -14,7 +14,7 @@ breadcrumb: [Enhanced Requests Experience forms, Employee Center reference, Empl
 
 # Request filter configuration form
 
-The field descriptions provide a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point when you're creating a Requests filter configuration.
+The field descriptions provide a reference point when you're creating a Requests filter configuration.
 
 <table id="table_cxz_sgz_tfc"><thead><tr><th>
 
@@ -123,6 +123,3 @@ List of filters associated with the tab.
 </td></tr></tbody>
 </table>**Parent Topic:**[Enhanced Requests Experience forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

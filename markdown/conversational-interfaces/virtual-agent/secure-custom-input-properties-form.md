@@ -15,7 +15,7 @@ breadcrumb: [Customizing Virtual Agent with custom controls, Exploring other Vir
 
 # Secure custom input properties sheet
 
-Use this sheet to specify secure inputs, such as a password, in a custom input control in [[virtual-agent-landing-page|Virtual Agent]].
+Use this sheet to specify secure inputs, such as a password, in a custom input control in Virtual Agent.
 
 **Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-fd-app-reqs-secure-inputs.md).
 
@@ -79,7 +79,7 @@ Spoke
 
 Name of the scoped application that contains Workflow Studio content that is dedicated to a particular application or record type.
 
- For a list of default [[topic-spokes-subtab-pae|spokes]], see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/spokes.md).
+ For a list of default spokes, see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/spokes.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,3 @@ No-code condition statement or low-code script that specifies a condition for le
 
 [Password \(2 Way Encrypted\) design considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/password-2-data.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-spokes-subtab-pae|Spokes]]

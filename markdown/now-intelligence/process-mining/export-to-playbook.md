@@ -26,11 +26,11 @@ This task enables you to export any variant from within your process to playbook
 
 **Note:** You can export a maximum of 10 variants for a process graph.
 
-The property for the playbook generation is set in the [[process-mining|Process Mining]] system properties. For more information, see [Playbook generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/data-cleanup.md).
+The property for the playbook generation is set in the Process Mining system properties. For more information, see [Playbook generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/data-cleanup.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining workspace**.
 
 2.  Select a project for which you want to analyze the graph.
 
@@ -75,7 +75,3 @@ The property for the playbook generation is set in the [[process-mining|Process 
 
 **Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

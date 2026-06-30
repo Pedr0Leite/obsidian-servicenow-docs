@@ -14,7 +14,7 @@ breadcrumb: [Using templates to create standards, Industrial Guided Tasks, Use, 
 
 # Create an assessment template
 
-Create an assessment template for creating standards from templates in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create an assessment template for creating standards from templates in the Digital Factory Workspace.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ The template is now available when creating standards in the Standards hub.
 
 **Parent Topic:**[Using templates to create standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/creating-standards-from-templates.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

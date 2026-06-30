@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Confirm receipt of your order from Shopping Hub Home
 
-Provide confirmation of receipt of the items you ordered that are in pending receipt state from [[shopping-hub-overview|Shopping Hub]] Home, so that payment is processed to the [[supplier|supplier]] accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
+Provide confirmation of receipt of the items you ordered that are in pending receipt state from Shopping Hub Home, so that payment is processed to the supplier accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
 
 ## Before you begin
 
@@ -68,7 +68,3 @@ Confirms receipt of all the orders. On the **Confirm you received everything** w
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

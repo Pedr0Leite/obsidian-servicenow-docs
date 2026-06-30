@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select the screen where you want to add the footer function.
 
@@ -44,7 +44,7 @@ Role required: admin
     |Disable offline|Toggle that turns the footer function off when the device is offline.|
     |Icon|The icon that appears for the footer function.|
     |Function placement|The function used by this footer function. These fields are automatically populated.|
-    |Button Emphasis|The button emphasis for the footer function. This selection affects the color of the button. For a navigation function, select **Primary** or **Secondary**. These colors are determined by your mobile theme. For more information on configuring a legacy mobile theme, see [[sg-configure-theme|Create a theme for your mobile applications]].|
+    |Button Emphasis|The button emphasis for the footer function. This selection affects the color of the button. For a navigation function, select **Primary** or **Secondary**. These colors are determined by your mobile theme. For more information on configuring a legacy mobile theme, see [Create a theme for your mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-theme.md).|
     |Function|The function used by this footer function. Select the function you created in previous steps.|
 
 6.  Select **Save**.
@@ -54,11 +54,5 @@ Role required: admin
 
 Test the footer function using your mobile app. After completing the steps, you can see a footer function button at the bottom of your details segment. Tap the button to navigate to the screen launcher you defined in the previous steps.
 
-**Parent Topic:**[[sg-launcher-nav-example|Configure navigation to a launcher screen]]
+**Parent Topic:**[Configure navigation to a launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-nav-example.md)
 
-## Related
-
-- [[sg-configure-theme|Create a theme for your mobile applications]]
-- [[sg-launcher-nav-example|Configure navigation to a launcher screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -58,7 +58,7 @@ This plugin enables the Consumer Service Portal, a web-based portal based on the
 
 </td></tr><tr><td>
 
-[[csm-workspaces-configure|CSM Configurable Workspace]]\[sn\_csm\_wrkspc\]
+CSM Configurable Workspace\[sn\_csm\_wrkspc\]
 
 </td><td>
 
@@ -66,11 +66,11 @@ Enables CSM Configurable Workspace, the UI Builder version of the configurable s
 
 </td></tr><tr><td>
 
-[[customer-data-model-b2b2c|Customer data models for B2B2C]] \[com.sn\_csm\_b2b\_consumers\]
+Customer data models for B2B2C \[com.sn\_csm\_b2b\_consumers\]
 
 </td><td>
 
-Enables business-to-business \(B2B\) consumers to raise a case and track the services they’re subscribed to. In a B2B model, consumers represent individuals who can be customers or employees of your customer.**Note:** You must activate the Customer Service Install Base Management \[com.snc.install\_base\] plugin before installing [[customer-data|Customer data]] models for business-to-business-to-consumer \(B2B2C\) \[com.sn\_csm\_b2b\_consumers\] plugin.
+Enables business-to-business \(B2B\) consumers to raise a case and track the services they’re subscribed to. In a B2B model, consumers represent individuals who can be customers or employees of your customer.**Note:** You must activate the Customer Service Install Base Management \[com.snc.install\_base\] plugin before installing Customer data models for business-to-business-to-consumer \(B2B2C\) \[com.sn\_csm\_b2b\_consumers\] plugin.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ This plugin is a demo application that enables Twilio integration using the Noti
 
 </td></tr><tr><td>
 
-[[customer-central|Customer Central]]\[com.sn\_csm\_customer\_central\]
+Customer Central\[com.sn\_csm\_customer\_central\]
 
 </td><td>
 
@@ -119,7 +119,7 @@ Enables customer service agents to access all customer information and activity 
 
 </td></tr><tr><td>
 
-Customer [[servicenow-communities|Communities]]\[com.sn\_customer\_communities\]
+Customer Communities\[com.sn\_customer\_communities\]
 
 </td><td>
 
@@ -135,15 +135,15 @@ Provides the ability to create and manage projects for a customer account and gi
 
 </td></tr><tr><td>
 
-Customer Service [[case-action-status-csm-workspace|Case Action Status]]\[com.snc.csm\_action\_status\]
+Customer Service Case Action Status\[com.snc.csm\_action\_status\]
 
 </td><td>
 
-Provides a Customer Service-specific application of the Action Status Automation feature. Use this plugin to display and track [[case-action-status-blocking-tasks|blocking tasks]] for customer service cases.
+Provides a Customer Service-specific application of the Action Status Automation feature. Use this plugin to display and track blocking tasks for customer service cases.
 
 </td></tr><tr><td>
 
-[[customer-service-case-types|Customer Service Case Types]]\[com.snc.csm\_case\_types\]
+Customer Service Case Types\[com.snc.csm\_case\_types\]
 
 </td><td>
 
@@ -209,7 +209,7 @@ This plugin contains Natural Language Understanding \(NLU\) models used in the V
 
 </td></tr><tr><td>
 
-[[csm-virtual-agent-chatbot|Customer Service Virtual Agent Conversations]]\[com.sn\_csm.virtualagent\]
+Customer Service Virtual Agent Conversations\[com.sn\_csm.virtualagent\]
 
 </td><td>
 
@@ -245,7 +245,7 @@ Customer Service with Service Portfolio Management\[sn\_csm\_spm\]
 
 </td><td>
 
-Provides an integration between the Customer Service Management and the Service Portfolio Management \(SPM\) application. This integration gives customer service managers, customer service agents, and service owners visibility into [[sold-product|sold products]] and their service offerings.
+Provides an integration between the Customer Service Management and the Service Portfolio Management \(SPM\) application. This integration gives customer service managers, customer service agents, and service owners visibility into sold products and their service offerings.
 
 </td></tr><tr><td>
 
@@ -281,7 +281,7 @@ Enables activity types, definitions, and UI components for the display of guided
 
 </td></tr><tr><td>
 
-[[c_KnowledgeProductEntitlements|Knowledge Product Entitlements]]\[com.snc.kb\_product\_entitlements\]
+Knowledge Product Entitlements\[com.snc.kb\_product\_entitlements\]
 
 </td><td>
 
@@ -297,7 +297,7 @@ A set of capabilities used to manage customer-facing communications and resoluti
 
 </td></tr><tr><td>
 
-[[outsourced-service-provider|Outsourced Customer Service]]\(com.snc.csm\_ocs\)
+Outsourced Customer Service\(com.snc.csm\_ocs\)
 
 </td><td>
 
@@ -333,7 +333,7 @@ Performance Analytics - Context Sensitive Analytics for Customer Service\[com.sn
 
 </td><td>
 
-This plugin enables you to open context-sensitive dashboards in [[csm-reference-forms|customer service forms]] based on UI actions.**Note:** You can activate Performance Analytics solutions on instances that don’t have Performance Analytics to evaluate the functionality. However, to collect scores for indicators you must license Performance Analytics.
+This plugin enables you to open context-sensitive dashboards in customer service forms based on UI actions.**Note:** You can activate Performance Analytics solutions on instances that don’t have Performance Analytics to evaluate the functionality. However, to collect scores for indicators you must license Performance Analytics.
 
 </td></tr><tr><td>
 
@@ -353,14 +353,14 @@ Provides step-by-step guidance for customer service cases.
 
 </td></tr><tr><td>
 
-Predictive [[intelligence-csm|Intelligence]] for Customer Service Management \[com.snc.csm\_ml\]
+Predictive Intelligence for Customer Service Management \[com.snc.csm\_ml\]
 
 </td><td>
 
 Enables customers to leverage machine learning algorithms for searching related cases in Customer Service Management. Activation of this plugin on production instances might require a separate license. Contact ServiceNow for details.If they aren’t already active, the Predictive Intelligence for Customer Service Management plugin activates these related plugins:
 
  -   Customer Service plugin \(com.sn\_customerservice\)
--   Predictive Intelligence for [[osp-contextual-search|Contextual Search]] plugin \(com.snc.contextual\_search\_ml\)
+-   Predictive Intelligence for Contextual Search plugin \(com.snc.contextual\_search\_ml\)
 -   Email Notification Script for Contextual Search Results plugin \(com.snc.adv\_cxs\_results\_email\_script\)
 
 </td></tr><tr><td>
@@ -369,7 +369,7 @@ Self-Service Analytics for Customer Service\[com.snc.pa.self\_service\_analytics
 
 </td><td>
 
-[[gamification-components-tracks|Tracks]] case reduction \(deflection\) metrics and self-service KPIs using performance analytics dashboards. Activation of this plugin on production instances might require a separate Performance Analytics license. Contact ServiceNow for details.If they aren’t already active, the Self-Service Analytics for Customer Service plugin activates these related plugins:
+Tracks case reduction \(deflection\) metrics and self-service KPIs using performance analytics dashboards. Activation of this plugin on production instances might require a separate Performance Analytics license. Contact ServiceNow for details.If they aren’t already active, the Self-Service Analytics for Customer Service plugin activates these related plugins:
 
  -   Customer Service plugin \(com.sn\_customerservice\)
 -   Self-Service Analytics Core plugin \(com.snc.self\_service\_analytics\_core\)
@@ -385,7 +385,7 @@ This plugin enables locally authenticated users to request a temporary password 
 
 </td></tr><tr><td>
 
-[[c_OnScreenAlerts|Special Handling Notes]] Demo Data\[com.snc.shn\_demo\]
+Special Handling Notes Demo Data\[com.snc.shn\_demo\]
 
 </td><td>
 
@@ -393,7 +393,7 @@ Provides demo data for the Special Handling Notes application.
 
 </td></tr><tr><td>
 
-[[c_TargetedCommunications|Targeted Communications]]\[com.sn\_publications\]
+Targeted Communications\[com.sn\_publications\]
 
 </td><td>
 
@@ -432,26 +432,5 @@ UI Components for Customer Portals \[sn\_ciwf\_ui\_cmpnt\]
 This plugin enables you to configure the behavior, content, and layout of a portal using a Configurable Portal Widgets.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+</table>**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[customer-data|Customer data]]
-- [[customer-central|Customer Central]]
-- [[servicenow-communities|Communities]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[customer-service-case-types|Customer service case types]]
-- [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]
-- [[sold-product|Sold products]]
-- [[c_KnowledgeProductEntitlements|Knowledge product entitlements]]
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[csm-reference-forms|Customer Service forms]]
-- [[intelligence-csm|Intelligence]]
-- [[osp-contextual-search|Contextual search]]
-- [[gamification-components-tracks|Tracks]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[c_TargetedCommunications|Targeted communications]]

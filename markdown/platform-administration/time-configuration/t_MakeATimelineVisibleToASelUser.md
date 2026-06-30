@@ -14,7 +14,7 @@ breadcrumb: [Timeline pages, Viewing record information over time, Reference, Ti
 
 # Make a timeline visible to a selected user
 
-Create a custom module within an application and defining the roles that can access it, to make selected [[c_UsingTimelines|timelines]] available to users.
+Create a custom module within an application and defining the roles that can access it, to make selected timelines available to users.
 
 ## About this task
 
@@ -22,7 +22,7 @@ To permit these users to update task records directly from the timeline, configu
 
 **Note:** Timelines delivered by a custom module are not entirely dynamic. The left pane, summary pane, auto-refresh feature, and the grid lines are not dynamic, and do not reflect updates to the timeline record after creating the module link. However, the data represented by the spans, labels, and tooltips display all updates in the custom module.
 
-To [[t_CreateATimelinePage|create a timeline page]] module:
+To create a timeline page module:
 
 ## Procedure
 
@@ -52,7 +52,3 @@ To [[t_CreateATimelinePage|create a timeline page]] module:
 
 **Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimelinePages.md)
 
-## Related
-
-- [[c_UsingTimelines|Timelines]]
-- [[t_CreateATimelinePage|Create a timeline page]]

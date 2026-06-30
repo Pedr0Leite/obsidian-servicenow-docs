@@ -14,7 +14,7 @@ breadcrumb: [Configuring contextual search, Contextual search, Search administra
 
 # Configure table for a contextual search
 
-Configure the options for the [[c_ContextualSearch|contextual search]] that a table performs.
+Configure the options for the contextual search that a table performs.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Title
 
 </td><td>
 
-Unique title for the search [[hs-results|results]] area that appears in the form. For example, if you enter `Knowledge results` as the value in this field, the related search area displays **Knowledge results** as the title. \[Omitted image "related-search-results.png"\] Alt text: Related search area
+Unique title for the search results area that appears in the form. For example, if you enter `Knowledge results` as the value in this field, the related search area displays **Knowledge results** as the title. \[Omitted image "related-search-results.png"\] Alt text: Related search area
 
 </td></tr><tr><td>
 
@@ -185,15 +185,10 @@ Option to enable searching as a different user. The message box describes the se
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-    The Search Fields, Filter [[clone-configurations-tab|Configurations]], Email Configurations, and Search Action Configurations related lists appear. By default, the **Short description** field is added to the Search Fields related list.
+    The Search Fields, Filter Configurations, Email Configurations, and Search Action Configurations related lists appear. By default, the **Short description** field is added to the Search Fields related list.
 
     **Note:** Search results only appear for Search Fields that are visible on the form.
 
 
 **Parent Topic:**[Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/configuring-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

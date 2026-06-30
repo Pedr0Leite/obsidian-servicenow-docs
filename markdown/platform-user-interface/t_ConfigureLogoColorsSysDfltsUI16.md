@@ -12,14 +12,14 @@ breadcrumb: [Customizing instance appearance, User interface configuration, Work
 
 # Configure logo, colors, and system defaults for Core UI
 
-You can use the Basic Configuration [[c_UI16|Core UI]] module to brand your instance with your company logo and colors and set basic system defaults. This place is the best starting point if you are setting up your instance for the first time or if you have recently enabled Core UI.
+You can use the Basic Configuration Core UI module to brand your instance with your company logo and colors and set basic system defaults. This place is the best starting point if you are setting up your instance for the first time or if you have recently enabled Core UI.
 
 ## Before you begin
 
 Gather the following:
 
 -   Obtain the company banner image to use in the header. The image can be high resolution, but when it displays it’s scaled based on the aspect ratio. It scales to a maximum of 20 px high.
--   Get the brand color hex or RGB numbers of your company, typically from your marketing department. Use them to decide how to [[configure-onboarding-modals|configure]] the UI background colors.
+-   Get the brand color hex or RGB numbers of your company, typically from your marketing department. Use them to decide how to configure the UI background colors.
 
 Role required: admin
 
@@ -33,7 +33,7 @@ Each color selection option provides a color picker to select a color. The text 
 
 Refer to [HTML Color Names \(W3CSchools\)](http://www.w3schools.com/tags/ref_colornames.asp) for information about HTML color names.
 
-**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [[next-experience-theming|Working with themes in Next Experience]].
+**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md).
 
 ## Procedure
 
@@ -87,7 +87,7 @@ glide.sys.default.tz
 
 </td><td>
 
-Select the time zone in the list.Select **Configure available time zones** to select the time zones that your users can select from in [[c_UserPreferences|user preferences]].
+Select the time zone in the list.Select **Configure available time zones** to select the time zones that your users can select from in user preferences.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ glide.sys.date\_formatglide.sys.time\_format
 
 </td><td>
 
-Select the date and time format from the choice [[lists-configurable-workspace|lists]].
+Select the date and time format from the choice lists.
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ Select or enter the color.\[Omitted image "ExpandedBackgroundColor.png"\] Alt te
 
 </td></tr><tr><td>
 
-Module text color for the [[c_UI16ApplicationNavigator|Core UI application navigator]]
+Module text color for the Core UI application navigator
 
 </td><td>
 
@@ -309,7 +309,7 @@ Switches the main content \(everything other than the application navigator and 
 
 After you save the configuration changes, all users who select the **System** theme in their UI personalization options see the new configuration colors.
 
-**Parent Topic:**[[customizing-instance-appearance|Customizing instance appearance]]
+**Parent Topic:**[Customizing instance appearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customizing-instance-appearance.md)
 
 ## La Jolla and cobalt theme comparison
 
@@ -499,13 +499,3 @@ Cobalt SysID: 6f3c9ae153002300dda1ddeeff7b124a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[customizing-instance-appearance|Customizing instance appearance]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_UserPreferences|User preferences]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16ApplicationNavigator|Core UI application navigator]]

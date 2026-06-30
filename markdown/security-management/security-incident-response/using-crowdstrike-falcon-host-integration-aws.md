@@ -14,19 +14,19 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Using CrowdStrike Falcon Insight integration in Analyst Workspace
 
-Use the [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]] to leverage the CrowdStrike Falcon Insight capabilities on the SIR Analyst workspace.
+Use the CrowdStrike Falcon Insight integration to leverage the CrowdStrike Falcon Insight capabilities on the SIR Analyst workspace.
 
 ## Before you begin
 
 Role required: sn\_si.admin
 
-Before you use CrowdStrike Falcon Insight integration on the [[sir-workspace-landing-page|Security Incident Response workspace]], you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-started-with-the-crowdstrike-falcon-insight-integration.md).
+Before you use CrowdStrike Falcon Insight integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-started-with-the-crowdstrike-falcon-insight-integration.md).
 
 ## About this task
 
 You can use the CrowdStrike Falcon Insight integration to make remediation actions on the endpoints in real time, use profiles to gather details about the host, and make specific queries or actions on the endpoint using the Security Incident Response workspace.
 
-The CrowdStrike Falcon Insight integration enables analysts to use the following CrowdStrike Falcon Insight capabilities on the [[sir-landing-page|Security Incident Response]] Analyst workspace:
+The CrowdStrike Falcon Insight integration enables analysts to use the following CrowdStrike Falcon Insight capabilities on the Security Incident Response Analyst workspace:
 
 -   **Get Host Details**
 -   **Get Logged On Users**
@@ -71,8 +71,4 @@ The CrowdStrike Falcon Insight integration enables analysts to use the following
 
         Then a sighting search is run on the selected observable. You can view the worknotes for the results and findings.
 
-## Related
 
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

@@ -40,21 +40,16 @@ The following example shows the Details tab of an evidence record.
 
 5.  On the form, fill in the fields with information about the evidence.
 
-    For more information about the information collected in this form, see [[psds-icm-ref-case-forms-evm-ev|Investigative Case Management Evidence Management Evidence form fields]].
+    For more information about the information collected in this form, see [Investigative Case Management Evidence Management Evidence form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-evm-ev.md).
 
 6.  Select **Save**.
 
 
 ## Result
 
-The evidence record has now been created and associated with the open investigative case. You can associate any number of existing case entities to the evidence record for record-keeping. For information on linking entities to evidence records, see [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]].
+The evidence record has now been created and associated with the open investigative case. You can associate any number of existing case entities to the evidence record for record-keeping. For information on linking entities to evidence records, see [Associate and link evidence to entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-associate-evidence-entities.md).
 
 ## What to do next
 
-You can create a chain of custody log within the workspace to keep track of evidence if or when it is transferred or moved. For information on creating a chain of custody log, see [[psds-using-icm-create-chain-of-custody-log|Create a chain of custody log for an evidence record in an investigative case]].
+You can create a chain of custody log within the workspace to keep track of evidence if or when it is transferred or moved. For information on creating a chain of custody log, see [Create a chain of custody log for an evidence record in an investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-create-chain-of-custody-log.md).
 
-## Related
-
-- [[psds-icm-ref-case-forms-evm-ev|Investigative Case Management Evidence Management Evidence form fields]]
-- [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]]
-- [[psds-using-icm-create-chain-of-custody-log|Create a chain of custody log for an evidence record in an investigative case]]

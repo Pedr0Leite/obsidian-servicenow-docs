@@ -26,12 +26,10 @@ The sample data provides 150 records that you can use to get started building yo
 
 ## Procedure
 
-1.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) the Skills Library Data for [[skills-management|Skills Management]] \(com.snc.skills\_management.seed\_data\) plugin.
+1.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) the Skills Library Data for Skills Management \(com.snc.skills\_management.seed\_data\) plugin.
 
 2.  Navigate to **Skills** &gt; **Skill Taxonomy**.
 
 3.  In the **Skill Categories** list, review each category and set the **Add skills** field to **true** for all skill categories you want to add to your application.
 
-## Related
 
-- [[skills-management|Skills Management]]

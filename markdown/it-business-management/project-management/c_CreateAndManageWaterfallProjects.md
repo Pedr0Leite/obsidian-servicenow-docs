@@ -24,7 +24,7 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 |Task|Steps|
 |----|-----|
-|Open a project in the project workbench|Select the **Project Workbench** related link on the [[create-a-project-form|Project form]].|
+|Open a project in the project workbench|Select the **Project Workbench** related link on the Project form.|
 
 |Task|Steps|
 |----|-----|
@@ -42,13 +42,13 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 |Task|Steps|
 |----|-----|
-|Create a test plan|Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]** &gt; **New**.|
-|Add [[c_TestCases|test cases]] to a test plan|Select the **Add Test Cases from Test Suite** related link on the Test Plan form.|
+|Create a test plan|Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans** &gt; **New**.|
+|Add test cases to a test plan|Select the **Add Test Cases from Test Suite** related link on the Test Plan form.|
 |Create a test phase|Select the **Add Phase** button on the project workbench.|
 |Add a test plan to a test phase|Select the Edit Phase icon \(\[Omitted image "ProjectWorkbenchEditPhaseIcon.png"\] Alt text: Edit phase icon.\) for the test phase and enter the name of the **Test Plan**.|
 |Assign test cases to testers|Select a user in the **Assigned to** field on the Test Case form.|
 |Notify testers to start testing|Select the **Notify testers** to start testing related link on the Test Plan form.|
-|Monitor the testing progress|The Test Plans list, Test Plan form, and Test Case form all display results for test cases and individual [[c_Tests|tests]].|
+|Monitor the testing progress|The Test Plans list, Test Plan form, and Test Case form all display results for test cases and individual tests.|
 |Testing sign-off|Select the **Sign-off Test Plan** related link on Test Plan form.|
 
 **Parent Topic:**[Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
@@ -68,7 +68,7 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -102,10 +102,3 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 [Create baseline of a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]
-- [[c_ResourcePlans|Resource plans]]

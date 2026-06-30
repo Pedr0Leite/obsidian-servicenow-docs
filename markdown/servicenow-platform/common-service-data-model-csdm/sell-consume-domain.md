@@ -29,10 +29,10 @@ The Service Consumption domain includes the following tables:
     **Note:** Before the Business Service table was added, all Business Services existed in the Service table. In the future, all Business Services might migrate from core cmdb\_ci\_service to cmdb\_ci\_service\_business. Until then, both tables operate identically.
 
 -   The Business Service offering \[service\_offering\] table holds the offerings that consumers can select in the catalog. Taken together, the business service offerings make up the business service. In the HR example, offerings might be "Manage Onboarding" and "Manage Interviews". Each offering has a **Depends on::Used by** relationship with a service instance in the Service Delivery domain.
--   [[service-catalog|Service Catalog]] \[sc\_catalog\] table. The Service Catalog tables hold the business service offerings that consumers can select.
+-   Service Catalog \[sc\_catalog\] table. The Service Catalog tables hold the business service offerings that consumers can select.
 
 -   Business capability **Provided By::Provides** Business service
--   Service portfolio \([[reference|reference]] attribute\) Business service
+-   Service portfolio \(reference attribute\) Business service
 -   Business service \(reference attribute\) Business service offering
 -   Business service offering **Depends on::Used by** Service instance
 
@@ -49,7 +49,7 @@ Business service offerings \(**Service Classification** is Business Service\) ar
 -   A silver offering of upgrades and virus protection.
 -   A gold offering with the silver commitments plus a response time guarantee of 30 minutes between the hours of 8:00 a.m. and 5:00 p.m., Monday through Friday.
 
-**Note:** Business services and Technology management services [[c_Connect|connect]] to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
+**Note:** Business services and Technology management services connect to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
 
 Business service offerings have the following characteristics:
 
@@ -98,8 +98,3 @@ A catalog item is an item or a service that a consumer can request from the cata
 
 **Parent Topic:**[CSDM data domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-conceptual-model.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]
-- [[c_Connect|Connect]]

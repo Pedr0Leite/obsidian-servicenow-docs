@@ -12,7 +12,7 @@ breadcrumb: [Supported screens, Align apps, screens, and functions, Offline mode
 
 # Define the number of displayed records in offline mode
 
-Define the number of records to display to users in [[mobile-offline-mode|offline mode]]. Choose between 0 through 1000 records. This range gives you the flexibility to display different amounts to the user in online and offline modes.
+Define the number of records to display to users in offline mode. Choose between 0 through 1000 records. This range gives you the flexibility to display different amounts to the user in online and offline modes.
 
 ## Before you begin
 
@@ -31,18 +31,18 @@ This is an example of how the number of records is calculated:
 
 -   **Example**
 
-    A [[list-screen|list screen]] can show 1,000 work orders \(parent\) with five embedded Work Order Tasks \(child\) each within the 1000-record limit. In this scenario, the child tasks don’t count towards the row total. However, if the Work Order Tasks are configured as separate [[sg-data-item|data items]], they are subject to their own 1,000-record limit.
+    A list screen can show 1,000 work orders \(parent\) with five embedded Work Order Tasks \(child\) each within the 1000-record limit. In this scenario, the child tasks don’t count towards the row total. However, if the Work Order Tasks are configured as separate data items, they are subject to their own 1,000-record limit.
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -55,13 +55,5 @@ This is an example of how the number of records is calculated:
 6.  Select **Save**.
 
 
-**Parent Topic:**[[screens-offline|Supported screens for offline mode]]
+**Parent Topic:**[Supported screens for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/screens-offline.md)
 
-## Related
-
-- [[screens-offline|Supported screens for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[list-screen|List screen]]
-- [[sg-data-item|Data items]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

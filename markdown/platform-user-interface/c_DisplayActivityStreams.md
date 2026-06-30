@@ -14,7 +14,7 @@ breadcrumb: [Lists in the classic environment, Working in the classic environmen
 
 Stream live activity information for all records on the current list.
 
-To view the [[activity-stream-configurable-workspace|activity stream]] information, click the list activity stream icon \(\[Omitted image "Show\_live\_feed\_icon.png"\] Alt text: Activity stream icon\) in the list title bar. This icon appears in the title bar for all task tables.
+To view the activity stream information, click the list activity stream icon \(\[Omitted image "Show\_live\_feed\_icon.png"\] Alt text: Activity stream icon\) in the list title bar. This icon appears in the title bar for all task tables.
 
 The activity stream information appears in a flyout window, and is the same information that appears in the [activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md) for a record. The short description appears as the title for the entry. Activity stream items on the task table use the task number as the title. The information in the flyout window updates automatically with audit and journal entries. Click the **&gt;&gt;** icon at the top to close the activity stream.
 
@@ -22,12 +22,7 @@ You can add a comment to any item in the activity stream. When you point to the 
 
 You can click an item to open the activity stream for that record. The record activity stream lets you open the task record, post additional comments or work notes, or preview images. Click the **&lt;** icon at the top to close the record activity screen.
 
-**Note:** The activity stream window is not the same interface as the activity formatter which appears on [[form-configurable-workspace|forms]]. Modifications and property settings user to change the behavior on the activity formatter are not applied to the activity stream window.
+**Note:** The activity stream window is not the same interface as the activity formatter which appears on forms. Modifications and property settings user to change the behavior on the activity formatter are not applied to the activity stream window.
 
-**Parent Topic:**[[c_UseLists|Lists in the classic environment]]
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
-## Related
-
-- [[c_UseLists|Lists in the classic environment]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[form-configurable-workspace|Forms]]

@@ -32,8 +32,5 @@ Here is an quick view of these benefits.
 |Data segregation|Services provided by the instance owner|
 |Global reporting| |
 
-**Parent Topic:**[[bp-what-is-domain-separation|Domain separation explained]]
+**Parent Topic:**[Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md)
 
-## Related
-
-- [[bp-what-is-domain-separation|Domain separation explained]]

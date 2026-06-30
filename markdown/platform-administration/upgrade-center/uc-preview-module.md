@@ -14,7 +14,7 @@ breadcrumb: [Exploring Upgrade Center, Upgrade Center, Upgrade, Administer the S
 
 # Upgrade Preview module
 
-The Upgrade Preview module enables you to have an unprecedented insight to an instance prior to an actual upgrade. You can explore and preview upgrades to different ServiceNow release versions and see how your instance might be impacted with your current [[clone-configurations-tab|configurations]]. The Upgrade Preview utility helps you to plan, schedule, and prepare for an upgrade.
+The Upgrade Preview module enables you to have an unprecedented insight to an instance prior to an actual upgrade. You can explore and preview upgrades to different ServiceNow release versions and see how your instance might be impacted with your current configurations. The Upgrade Preview utility helps you to plan, schedule, and prepare for an upgrade.
 
 The preview status info and link in the message displayed on top of the Upgrade Preview page states the current status of the ongoing preview process. Because you can get an accurate prediction on the new and existing applications and their skipped records, the preview execution time has increased considerably. Select the link in the message to see the status of the preview process.
 
@@ -101,7 +101,7 @@ Review changes: Link to the list of records that have changed and can be reviewe
     -   Reviewed: Predicted skipped records that have been reviewed
     -   Resolved: Predicted skipped records that have been resolved by implementing the rules
 
-**Note:** This entry shows up on the card only when rules are executed on the skipped records. You will also see a link to [[uc-create-skipped-record-rule|create a skipped record rule]] if either there are no existing rules or the existing rules aren't executed.
+**Note:** This entry shows up on the card only when rules are executed on the skipped records. You will also see a link to create a skipped record rule if either there are no existing rules or the existing rules aren't executed.
 
 **Note:** Skipped record rules and upgrade plans can't be implemented together. See [Execute a skipped record rule automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-execute-skipped-record-rule.md) for more information.
 
@@ -161,7 +161,7 @@ By default, 10 predicted schema changes show up. Select View all predicted schem
 
 </td></tr><tr><td>
 
-Automated Test Framework \(ATF\) [[hs-results|results]]
+Automated Test Framework \(ATF\) results
 
 </td><td>
 
@@ -172,9 +172,3 @@ Percentage of passing ATF tests that ran in the last 30 days.-   Most recent ATF
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[uc-create-skipped-record-rule|Create a skipped record rule]]
-- [[hs-results|Results]]

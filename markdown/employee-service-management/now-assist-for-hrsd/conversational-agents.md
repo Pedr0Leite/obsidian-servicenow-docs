@@ -14,11 +14,11 @@ breadcrumb: [Use agentic workflows, Now Assist for HR Service Delivery \(HRSD\),
 
 # HCM AI agents
 
-Place requests to the Human Capital Management \(HCM\) system using the [[hr-service-delivery|HR Service Delivery]] AI agent collection.
+Place requests to the Human Capital Management \(HCM\) system using the HR Service Delivery AI agent collection.
 
 ## HCM AI agents Overview
 
-You can submit requests to the HCM system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in [[employee-center-landing-page|Employee Center]]. To access and use the HCM AI agents, ensure to [Configure HCM AI agents from the HR Service Delivery AI Agent Collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-hcm-agents.md).
+You can submit requests to the HCM system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents from the HR Service Delivery AI Agent Collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-hcm-agents.md).
 
 ## Worker profile retriever AI agent
 
@@ -76,7 +76,3 @@ The View paychecks AI agent enables you to view paycheck summaries for the selec
 
 \[Omitted image "paycheck-4.png"\] Alt text:
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce oauth state parameter validation
 
-Configure the **glide.[[oauth-inbound-and-outbound|oauth]].state.parameter.required** property to prevent your instance from cross-site [[c_requestAPI|request]] forgery \(CSRF\) attacks.
+Configure the **glide.oauth.state.parameter.required** property to prevent your instance from cross-site request forgery \(CSRF\) attacks.
 
-The **glide.oauth.state.parameter.required** system property enables the **State** parameter to be required in an OAuth request for authorization code flow. Beginning in the Madrid release, the system property **glide.oauth.state.parameter.required** adds a **State** parameter for an OAuth request. For zbooted instances, the property is **true**. For upgraded instances, the property is not present, so the **State** parameter is not enabled. The **State** parameter is a string value, and should not contain special characters. The State parameter cannot be empty or " ". Not setting the **State** parameter to **true** ensures that an attacker cannot perform CSRF attacks during [[c_Authentication|authentication]] can allow an attacker to perform operations as the victim.
+The **glide.oauth.state.parameter.required** system property enables the **State** parameter to be required in an OAuth request for authorization code flow. Beginning in the Madrid release, the system property **glide.oauth.state.parameter.required** adds a **State** parameter for an OAuth request. For zbooted instances, the property is **true**. For upgraded instances, the property is not present, so the **State** parameter is not enabled. The **State** parameter is a string value, and should not contain special characters. The State parameter cannot be empty or " ". Not setting the **State** parameter to **true** ensures that an attacker cannot perform CSRF attacks during authentication can allow an attacker to perform operations as the victim.
 
 Ensure that the property **glide.oauth.state.parameter.required** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 4.2
 -   CVSS rating: Medium
--   Security risk details: Not enabling the **glide.oauth.state.parameter.required** property in OAuth authorization code flow increases the risk of Cross-Site Request Forgery \(CSRF\) attacks, potentially allowing attackers to impersonate [[users|users]] and perform unauthorized actions.
+-   Security risk details: Not enabling the **glide.oauth.state.parameter.required** property in OAuth authorization code flow increases the risk of Cross-Site Request Forgery \(CSRF\) attacks, potentially allowing attackers to impersonate users and perform unauthorized actions.
 
 </td></tr><tr><td>
 
@@ -115,11 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

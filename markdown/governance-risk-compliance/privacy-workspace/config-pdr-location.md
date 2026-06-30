@@ -15,7 +15,7 @@ breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights
 
 # Configure jurisdictions for the external-facing Personal Data Rights form
 
-Configure the jurisdictions, authorized agent option, and per-location URLs for the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form. These settings determine what requesters in each jurisdiction see based on their local privacy rules.
+Configure the jurisdictions, authorized agent option, and per-location URLs for the external-facing Personal Data Rights \(PDR\) form. These settings determine what requesters in each jurisdiction see based on their local privacy rules.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Each location configuration record holds the rules that apply when a requester s
 -   Add custom text in the **Introduction** field. For example, disclaimers, applicable privacy laws, or an introduction to the form.
 -   Enable an authorized agent to submit a request on behalf of a data subject.
 -   Specify location-specific URLs for privacy statement, legal terms, and terms of service.
--   Map the [[data-subjects|data subject types]] and request types that should be available for selection for a particular location.
+-   Map the data subject types and request types that should be available for selection for a particular location.
 
 ## Procedure
 
@@ -74,7 +74,3 @@ Populate a new location configuration record. Field choices determine whether re
 
 **Parent Topic:**[External-facing Personal Data Rights form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-pdr-ext-form.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[data-subjects|Data subject types]]

@@ -28,7 +28,7 @@ Access your workplace-related services and other information on your mobile devi
 
 </td></tr><tr><td>
 
-[Using\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Use Workplace Service Delivery for Mobile to [[reservation-portal|make a reservation]], [[get-directions-to-a-workplace|get directions to a workplace]] and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/using-wsd-mobile.md)
+[Using\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Use Workplace Service Delivery for Mobile to make a reservation, get directions to a workplace and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/using-wsd-mobile.md)
 
 </td><td>
 
@@ -36,8 +36,3 @@ Access your workplace-related services and other information on your mobile devi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[get-directions-to-a-workplace|Get directions to a workplace]]

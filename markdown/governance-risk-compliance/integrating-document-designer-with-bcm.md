@@ -18,7 +18,7 @@ Starting with BCM release 9.0.x, the ServiceNow Document designer with Microsoft
 
 The Document designer with Microsoft Word application offers a low-code solution, enabling you to configure different aspects of Microsoft Word documents without requiring extensive technical expertise. The templates offered by ServiceNow are designed to align with the company's brand guidelines, confirming consistent and professional documentation.
 
-Use the Document designer with Microsoft Word application to generate intuitive and audit-ready Microsoft Word reports for [[bia-uib|business impact analysis]] \(BIAs\), business continuity plans \(BCPs\), and events directly from your ServiceNow instance. Configure the Microsoft Word templates in the application to include specific data from the records, such as tables and columns, into the reports. Options include using predefined templates, customizing them with low-code implementation, or creating your own templates to meet your company's specific guidelines.
+Use the Document designer with Microsoft Word application to generate intuitive and audit-ready Microsoft Word reports for business impact analysis \(BIAs\), business continuity plans \(BCPs\), and events directly from your ServiceNow instance. Configure the Microsoft Word templates in the application to include specific data from the records, such as tables and columns, into the reports. Options include using predefined templates, customizing them with low-code implementation, or creating your own templates to meet your company's specific guidelines.
 
 You can save these reports either within your ServiceNow instance or as cloud documents in Microsoft SharePoint.
 
@@ -44,7 +44,7 @@ Install the applications and assign the roles
 
 </td><td>
 
-Install the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) application and its dependent plugins. See [[install-document-designer-with-word-plugin|Install Document designer with Microsoft Word]] for more information.
+Install the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) application and its dependent plugins. See [Install Document designer with Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/install-document-designer-with-word-plugin.md) for more information.
 
  Administrative roles required to manage the templates are sn\_grc\_doc\_design.admin and sn\_bcm.admin. Managers with the sn\_bcm.manager roles can generate the reports and save them in your ServiceNow instance or in the cloud \(Microsoft Office 365\).
 
@@ -54,7 +54,7 @@ Set up the template relationship registry
 
 </td><td>
 
-See [[set-up-document-designer-templates|Set up the template configurations]] for more information.
+See [Set up the template configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-document-designer-templates.md) for more information.
 
 </td></tr><tr><td>
 
@@ -62,15 +62,15 @@ Configure data relationships, content configurations, and scripted variables
 
 </td><td>
 
-Configure data relationships in the templates so that they’re displayed in the Microsoft Word reports. See [[create-data-rel-fortemp-config|Configure the data relationships]], [[create-content-config-for-temp-config|Set up the content configurations]], and [[create-scripted-vari-for-temp-config|Define the scripted variables]] for more information.
+Configure data relationships in the templates so that they’re displayed in the Microsoft Word reports. See [Configure the data relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-data-rel-fortemp-config.md), [Set up the content configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-content-config-for-temp-config.md), and [Define the scripted variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-scripted-vari-for-temp-config.md) for more information.
 
 </td></tr><tr><td>
 
-[[install-document-designer-referencing-for-cam-ato2|Install the ServiceNow Document designer add-in]]
+Install the ServiceNow Document designer add-in
 
 </td><td>
 
-Install the add-in into your Microsoft Word document. See [[install-docu-designer-add-in-for-bcm|Install the Document designer add-in]] for more information.
+Install the add-in into your Microsoft Word document. See [Install the Document designer add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/install-docu-designer-add-in-for-bcm.md) for more information.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Upload the newly created Microsoft Word template
 
 </td><td>
 
-Upload the newly created Microsoft Word template in the **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Word Templates**. Alternately, use a predefined template provided in the BCM instance to generating the reports in Microsoft Word format.
+Upload the newly created Microsoft Word template in the **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Word Templates**. Alternately, use a predefined template provided in the BCM instance to generating the reports in Microsoft Word format.
 
 </td></tr><tr><td>
 
@@ -86,12 +86,12 @@ Generate the BIA, BCP, and event reports of the records
 
 </td><td>
 
-Generate the BIA, BCP, and event reports of the records in the Business Continuity Workspace and save them in your ServiceNow instance or in the cloud. See [[generate-word-doc-of-bia-bcp-event|Generate reports for BIAs, BCPs, and events]] for more information.
+Generate the BIA, BCP, and event reports of the records in the Business Continuity Workspace and save them in your ServiceNow instance or in the cloud. See [Generate reports for BIAs, BCPs, and events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-word-doc-of-bia-bcp-event.md) for more information.
 
 </td></tr></tbody>
 </table>## Downloading it as an optional application
 
-The Document designer with Microsoft Word application is optional. You can use the existing BCM functionality of generating the PDFs of BIAs, BCPs, and [[exercise-management-uib|exercises]] or you can use the Document designer with Microsoft Word application to generate Microsoft Word documents. You must manually download and install it from the ServiceNow Store.
+The Document designer with Microsoft Word application is optional. You can use the existing BCM functionality of generating the PDFs of BIAs, BCPs, and exercises or you can use the Document designer with Microsoft Word application to generate Microsoft Word documents. You must manually download and install it from the ServiceNow Store.
 
 The Document designer with Microsoft Word application has dependencies on these applications:
 
@@ -113,16 +113,3 @@ If you encounter any issues with Microsoft Word Add-in, check these parameters:
 
 With these steps, you can effectively use the ServiceNow Document designer with Microsoft Word Add-in to create and manage documents in your ServiceNow instance.
 
-## Related
-
-- [[install-document-designer-with-word-plugin|Install Document designer with Microsoft Word]]
-- [[set-up-document-designer-templates|Set up the template configurations]]
-- [[create-data-rel-fortemp-config|Configure the data relationships]]
-- [[create-content-config-for-temp-config|Set up the content configurations]]
-- [[create-scripted-vari-for-temp-config|Define the scripted variables]]
-- [[install-docu-designer-add-in-for-bcm|Install the Document designer add-in]]
-- [[generate-word-doc-of-bia-bcp-event|Generate reports for BIAs, BCPs, and events]]
-- [[bia-uib|Business impact analysis]]
-- [[install-document-designer-referencing-for-cam-ato2|Install the ServiceNow Document Designer add-in]]
-- [[Administration|Administration]]
-- [[exercise-management-uib|Exercises]]

@@ -12,9 +12,9 @@ breadcrumb: [Transaction Manager: Use cases, Transaction Manager, CPQ app, Confi
 
 # Transaction Manager use case: Calculate the total of line-level prices
 
-[[transaction-manager|Transaction Manager]] can include a determination rule that calculates the sum of line-level net prices so that it can be stored in a header-level field.
+Transaction Manager can include a determination rule that calculates the sum of line-level net prices so that it can be stored in a header-level field.
 
-In CPQ Transaction Manager, you can use a determination rule to calculate the sum of line-level total net prices and store the result in a header-level field. This is particularly useful when multiple [[fields|fields]] need to be aggregated from line items to the transaction header.
+In CPQ Transaction Manager, you can use a determination rule to calculate the sum of line-level total net prices and store the result in a header-level field. This is particularly useful when multiple fields need to be aggregated from line items to the transaction header.
 
 ## Example Rule Configuration
 
@@ -63,10 +63,5 @@ Here are two more examples of line-level calculations stored in a header-level f
     \[Omitted image "cpq-txn-mgr-use-case-calc-total-3.png"\] Alt text: Transaction Manager Use Case: Calculate the Total of Line-Level Prices
 
 
-**Parent Topic:**[[transaction-manager-use-cases|Transaction Manager: Use cases]]
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 
-## Related
-
-- [[transaction-manager-use-cases|transaction manager use cases]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]

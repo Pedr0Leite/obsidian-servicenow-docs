@@ -14,11 +14,11 @@ breadcrumb: [Explore, AI Control Tower, Enable AI experiences]
 
 # Definitions of AI asset inventory
 
-Define the [[ai-inventory|AI asset inventory]], and [[ai-assets|AI assets]].
+Define the AI asset inventory, and AI assets.
 
 ## AI asset inventory overview
 
-The AI asset Inventory provides a record of all components and their connections that contribute to an AI experience. In ServiceNow [[ai-control-tower-landing|AI Control Tower]], AI asset inventories can be organized in multiple ways. Organizations may opt to manage one or more of these AI assets as part of their overall AI governance strategy.
+The AI asset Inventory provides a record of all components and their connections that contribute to an AI experience. In ServiceNow AI Control Tower, AI asset inventories can be organized in multiple ways. Organizations may opt to manage one or more of these AI assets as part of their overall AI governance strategy.
 
 -   [AI systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-system.md)
 -   [AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-models.md)
@@ -29,8 +29,3 @@ For more information on, AI asset inventory tab, see [AI asset inventory tab in 
 
 For information on AI assets, see [AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-assets.md)
 
-## Related
-
-- [[ai-inventory|AI asset inventory]]
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]

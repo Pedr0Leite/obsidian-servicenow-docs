@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supp
 
 # Configure Now Assist for Supplier Lifecycle Operations \(SLO\)
 
-If you have the admin role, you can configure the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application so that your [[supplier|supplier]] managers can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and in Core UI.
+If you have the admin role, you can configure the Now Assist for Supplier Lifecycle Operations \(SLO\) application so that your supplier managers can use the generative AI skills in Source-to-Pay Workspace and in Core UI.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ The following table lists the feature and skill that you can access from the Now
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-3.  Expand the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group and select **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]**.
+3.  Expand the **Finance and Supply Chain** workflow group and select **Supplier Lifecycle Operations**.
 
     The Supplier Lifecycle Operations feature is located under the Finance and Supply Chain workflow group. Each feature has its associated skill.
 
@@ -130,10 +130,3 @@ The skill is available only when certain conditions are met \(default\).Use the 
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

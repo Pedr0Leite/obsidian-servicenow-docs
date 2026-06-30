@@ -20,10 +20,8 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **All**.
+1.  Navigate to **Outsourced Customer Service** &gt; **Cases** &gt; **All**.
 
 2.  Open a case to see the related search results according to the case description.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

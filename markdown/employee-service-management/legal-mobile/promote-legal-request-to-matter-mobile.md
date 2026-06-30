@@ -14,11 +14,11 @@ breadcrumb: [Work on a legal request through Mobile Agent, Legal Mobile, Legal S
 
 # Promote a legal request to a legal matter through Mobile Agent
 
-[[promote-legal-request-to-matter|Promote a legal request to a legal matter]] when the request needs additional investigation and evaluation and substantial time to work on.
+Promote a legal request to a legal matter when the request needs additional investigation and evaluation and substantial time to work on.
 
 ## Before you begin
 
-Ensure you have the [[legal-matter-management-landing-page|Legal Matter Management]] app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md).
+Ensure you have the Legal Matter Management app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md).
 
 Role required: sn\_lg\_ops.legal\_fulfiller
 
@@ -42,7 +42,3 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 -   A legal matter is created with details copied from the legal request.
 -   If you selected a matter template, the matter has predefined phases, tasks, and attributes from the template.
 
-## Related
-
-- [[promote-legal-request-to-matter|Promote a legal request to a legal matter]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]

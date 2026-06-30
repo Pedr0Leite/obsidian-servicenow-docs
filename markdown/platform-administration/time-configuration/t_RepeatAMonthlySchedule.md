@@ -14,7 +14,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 # Repeat a monthly schedule
 
-Repeat a monthly schedule to reduce the amount of time required to define [[c_UseSchedules|schedules]] and to provide consistency in scheduling.
+Repeat a monthly schedule to reduce the amount of time required to define schedules and to provide consistency in scheduling.
 
 ## About this task
 
@@ -39,7 +39,7 @@ The following example illustrates computing what day of the week a monthly sched
 
 4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md), and click **Submit**.
 
-5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following [[r_DirectJDBCProbeParameters|parameters]]:
+5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following parameters:
 
     -   When: November 5, 2012 at 10:00 to November 5, 2012 at 11:00
     -   Repeats: Monthly
@@ -88,7 +88,3 @@ The following example illustrates computing what day of the week a monthly sched
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

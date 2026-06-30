@@ -14,7 +14,7 @@ breadcrumb: [Use, Document Management, Document Services, Manage content capabil
 
 # Document Management in Workspace
 
-With [[doc-management-landing|Document Management]] in workspaces you can organize documents into folders, manage [[document-mgt-versions|document versions]], control sharing permissions, and attach files from multiple sources to any ticket or record. The Documents component appears in the side panel of workspace record views and provides a centralized location for managing documents associated with a specific record.
+With Document Management in workspaces you can organize documents into folders, manage document versions, control sharing permissions, and attach files from multiple sources to any ticket or record. The Documents component appears in the side panel of workspace record views and provides a centralized location for managing documents associated with a specific record.
 
 The Document Management component embeds a unified document workspace directly in the left-hand panel of the workspace view, giving you full access to your documents within the context of a record. You can search and browse documents and folders, upload new files, manage versions, adjust sharing permissions, rename, download, delete, and send documents for approval or review without leaving the record page.
 
@@ -24,7 +24,7 @@ The Document Management component is a panel that appears within a ticket or rec
 
 **Note:** The Document Managementcomponent is visible only if it's configured in the Workspace.
 
-From the Document Management component, you can search for documents within the ticket, select documents, view documents and folders organized in the Documents panel, track and create document versions, manage sharing permissions by role, user, group, or user criteria, rename, download, or [[delete-a-doc|delete documents]], and submit documents for approval or review.
+From the Document Management component, you can search for documents within the ticket, select documents, view documents and folders organized in the Documents panel, track and create document versions, manage sharing permissions by role, user, group, or user criteria, rename, download, or delete documents, and submit documents for approval or review.
 
 ## Adding documents to a record
 
@@ -62,7 +62,7 @@ The file picker provides a unified view of documents across multiple sources and
 
 -   **Local drive**
 
-    [[t_UploadADocument|Upload a document]] directly from your device. Browse your file system, select the file you want to attach, and upload it to the record.
+    Upload a document directly from your device. Browse your file system, select the file you want to attach, and upload it to the record.
 
 
 -   **[Add documents in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/attach-document-workspace.md)**  
@@ -72,14 +72,7 @@ Manage folders and documents from the Documents component to download, rename, m
 -   **[Manage document versions in external cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/manage-documents-external-cloud.md)**  
 Manage document versions from external cloud directly in the record within the workspace.
 -   **[Send a document version for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/send-document-approval.md)**  
-Add a single or multiple reviewers and approvers for the [[r_ApprovalProcess|document approval]] and review.
+Add a single or multiple reviewers and approvers for the document approval and review.
 
 **Parent Topic:**[Using Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/using-document-management.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[document-mgt-versions|Document versions]]
-- [[delete-a-doc|Delete documents]]
-- [[t_UploadADocument|Upload a document]]
-- [[r_ApprovalProcess|Document approval]]

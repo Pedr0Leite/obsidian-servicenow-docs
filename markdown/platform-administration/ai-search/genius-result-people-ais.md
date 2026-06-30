@@ -14,7 +14,7 @@ breadcrumb: [Genius Result configurations in the base system, Genius Results, Se
 
 # People Genius Results
 
-People Genius Results display top search [[hs-results|results]] from the User \[sys\_user\] table. Each People Genius Result answer card shows a single user record. You can view the user's full profile directly from the answer card.
+People Genius Results display top search results from the User \[sys\_user\] table. Each People Genius Result answer card shows a single user record. You can view the user's full profile directly from the answer card.
 
 \[Omitted image "genius-result-people.png"\] Alt text: People answer card for Beth Anglin with View profile action link.
 
@@ -31,15 +31,10 @@ The People Genius Result configuration is inactive in the base system. To learn 
 -   Location \[cmn\_location\]
 -   User \[sys\_user\]
 
-These tables are configured as vocabulary sources in the Default [[ia-ai-search|AI Search]] [[genius-results-ais|Genius Results]] Model specified in the People configuration's NLU trigger condition. If your instance has more than 100,000 records in any of the listed tables, training will fail for the NLU model and the People Genius Result configuration won't operate correctly.
+These tables are configured as vocabulary sources in the Default AI Search Genius Results Model specified in the People configuration's NLU trigger condition. If your instance has more than 100,000 records in any of the listed tables, training will fail for the NLU model and the People Genius Result configuration won't operate correctly.
 
 -   **[Activate People Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-people-genius-results-ais.md)**  
 Enable AI Search's People default Genius Result configuration for use in your search profiles.
 
 **Parent Topic:**[Genius Result configurations in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/default-genius-result-configs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Configure tabs in the Enterprise Asset Workspace
 
-Configure the options to hide or display various tabs, including tabs that are associated with specific [[model-hierarchy|model categories]], in the Enterprise [[model-management-view-am|model management view]] and Enterprise [[asset-estate-view-am|asset estate view]] of the [[using-eam-workspace|Enterprise Asset Workspace]].
+Configure the options to hide or display various tabs, including tabs that are associated with specific model categories, in the Enterprise model management view and Enterprise asset estate view of the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_eam.enterprise\_admin
 
 3.  From the list of available tab configurations, select the configuration that you want to modify.
 
-    The [[enterprise-asset-management|Enterprise Asset Management]] application includes the following tab configurations by default:
+    The Enterprise Asset Management application includes the following tab configurations by default:
 
     -   Asset groups tab configuration
     -   Asset indoor map tab configuration
@@ -94,7 +94,7 @@ Include in dialog box
 
 </td><td>
 
-Option to display the associated model category in the dialog boxes for creating enterprise [[c_Models|models]] and assets. If you enable this option, the model category appears in the **Model category** drop-down list of these dialog boxes. If you disable this option, the model category no longer appears in the drop-down list. You can access these dialog boxes by navigating to either the Enterprise model management view or Enterprise asset estate view, selecting the **All enterprise** tab, and then selecting **New**.
+Option to display the associated model category in the dialog boxes for creating enterprise models and assets. If you enable this option, the model category appears in the **Model category** drop-down list of these dialog boxes. If you disable this option, the model category no longer appears in the drop-down list. You can access these dialog boxes by navigating to either the Enterprise model management view or Enterprise asset estate view, selecting the **All enterprise** tab, and then selecting **New**.
 
  **Note:** This option is editable only for tab configurations that are associated with a model category, such as the Tactical Equipment class tab configuration.
 
@@ -111,11 +111,4 @@ Domain that the tab configuration is available in.
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
 
-- [[model-hierarchy|Model categories]]
-- [[model-management-view-am|Model management view]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Models|Models]]

@@ -14,7 +14,7 @@ breadcrumb: [Install Password Reset Windows Application, Installing and configur
 
 # Use an MSI file from the command line
 
-Use the MSI file to install the [[win-password-reset-overview|Password Reset Windows Application]] on multiple computers over a network. As an alternative to MSI installation, you can also install from the command line.
+Use the MSI file to install the Password Reset Windows Application on multiple computers over a network. As an alternative to MSI installation, you can also install from the command line.
 
 ## Before you begin
 
@@ -93,7 +93,7 @@ PasswordResetLinkURL
 
 </td><td>
 
-URL of the page that users access when resetting a password.Be sure to substitute your ServiceNow server name and the URL suffix for the desired [[password-reset-landing-page|Password Reset]] process.
+URL of the page that users access when resetting a password.Be sure to substitute your ServiceNow server name and the URL suffix for the desired Password Reset process.
 
 </td></tr><tr><td>
 
@@ -131,7 +131,3 @@ Most installations do not need to specify this parameter value. Provide this val
 
 **Parent Topic:**[Install Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[password-reset-landing-page|Password Reset]]

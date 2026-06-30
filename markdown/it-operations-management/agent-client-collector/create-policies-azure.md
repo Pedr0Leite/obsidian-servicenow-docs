@@ -14,22 +14,22 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Create Azure policies for metric collection
 
-Create your own policies to enable Azure to collect the metrics for the resources that have policies that don’t come with the base system. The [[azure-metrics|Azure Metrics]] Collector check brings the metrics to the agent through the Azure Metrics Batch API.
+Create your own policies to enable Azure to collect the metrics for the resources that have policies that don’t come with the base system. The Azure Metrics Collector check brings the metrics to the agent through the Azure Metrics Batch API.
 
 ## Before you begin
 
--   Ensure that the configuration Items \(CIs\) that you want to collect the metrics for are included in the CMDB. CIs are typically populated during [[r-discovery|Discovery]].
+-   Ensure that the configuration Items \(CIs\) that you want to collect the metrics for are included in the CMDB. CIs are typically populated during Discovery.
 -   Ensure that the **sn\_agent.multi\_ci\_dev\_mode** property is set to **true** on the **System Properties** page \(**All** &gt; **System Properties** &gt; **All Properties**\).
 
 Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
 2.  Select **New**.
 
-3.  Select the application scope icon \[Omitted image "application-scope-icon.png"\] Alt text: Application scope icon. and verify that you are in the [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] scope.
+3.  Select the application scope icon \[Omitted image "application-scope-icon.png"\] Alt text: Application scope icon. and verify that you are in the Agent Client Collector Monitoring scope.
 
 4.  In the **Name** field, enter a name for the policy.
 
@@ -189,9 +189,3 @@ The configured policy retrieves the resources and their metrics from the specifi
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[azure-metrics|Azure metrics]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]

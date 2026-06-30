@@ -12,7 +12,7 @@ breadcrumb: [Record screen, Mobile screen types, Mobile screens, Mobile app comp
 
 # Configure a dynamic screen name for a record screen
 
-Configure a [[form-screen|record screen]] to dynamically inherit a name from a field in a previous record. This setup enables users to view a single specified field as the screen name instead of the screen record name.
+Configure a record screen to dynamically inherit a name from a field in a previous record. This setup enables users to view a single specified field as the screen name instead of the screen record name.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Role required: admin
 
     4.  Click **Submit**.
 
-5.  [[sg-studio-configure-applet-screens|Create a screen]] UI element and map it to the screen type.
+5.  Create a screen UI element and map it to the screen type.
 
     1.  Click the **Screen UI element mappings** tab.
 
@@ -98,7 +98,3 @@ The screen name dynamically inherits the value from a defined field in an existi
 
 \[Omitted image "dynamic-name-form-screen.png"\] Alt text: Dynamic screen name displayed from field in an existing record.
 
-## Related
-
-- [[form-screen|Record screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

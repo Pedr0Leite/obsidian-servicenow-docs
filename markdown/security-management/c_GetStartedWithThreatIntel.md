@@ -12,7 +12,7 @@ breadcrumb: [Threat Intelligence, Enterprise security case management applicatio
 
 # Set up Threat Intelligence
 
-Before you run [[threat-intel-landing-page|Threat Intelligence]] in your instance, you must download it from the ServiceNow Store. You can also set up properties and define a threat source.
+Before you run Threat Intelligence in your instance, you must download it from the ServiceNow Store. You can also set up properties and define a threat source.
 
 ## Install Threat Intelligence
 
@@ -44,7 +44,7 @@ The following roles are required for installation, configuration, and verificati
 
 ### Procedure
 
-1.  Follow the instructions for [[download-app-first-time|downloading an application from the ServiceNow Store]].
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 
 ### What to do next
@@ -103,7 +103,7 @@ Threat Writer\[sn\_ti.write\]
 
 </td><td>
 
-Has write access to threat information.Cannot delete attack modes, [[indicator|indicators]] nor [[c_Observables|observables]]. Only a Threat Administrator can delete them.
+Has write access to threat information.Cannot delete attack modes, indicators nor observables. Only a Threat Administrator can delete them.
 
 </td><td>
 
@@ -142,7 +142,7 @@ Attack mechanism\[sn\_ti\_attack\_mechanism\]
 
 </td><td>
 
-Organizes [[attack-patterns|attack patterns]] hierarchically based on mechanisms that are frequently employed when exploiting a vulnerability. The categories that are members of this view represent the different techniques used to attack a system.
+Organizes attack patterns hierarchically based on mechanisms that are frequently employed when exploiting a vulnerability. The categories that are members of this view represent the different techniques used to attack a system.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Attack mode/method\[sn\_ti\_attack\_mode\]
 
 </td><td>
 
-[[c_AttackModeMethod|Attack modes and methods]] are representations of the behavior of cyber adversaries. They characterize what an adversary does and how they do it in increasing levels of detail.
+Attack modes and methods are representations of the behavior of cyber adversaries. They characterize what an adversary does and how they do it in increasing levels of detail.
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Intended effect\[sn\_ti\_intended\_effect\]
 
 </td><td>
 
-Used for expressing the intended effect of a [[threat-actor|threat actor]].
+Used for expressing the intended effect of a threat actor.
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ Used to show the results of an IP lookup.
 
 </td></tr><tr id="row_rate-limit"><td>
 
-[[threat-intelligence-malware|Malware]] Rate limit\[sn\_ti\_rate\_limit\]
+Malware Rate limit\[sn\_ti\_rate\_limit\]
 
 </td><td>
 
@@ -414,7 +414,7 @@ Sighting\[sn\_ti\_sighting\]
 
 </td><td>
 
-The m2m link between the observable and the [[indicator-sightings|Sightings]] Search detail result used in the execution of a Sighting Search request.
+The m2m link between the observable and the Sightings Search detail result used in the execution of a Sighting Search request.
 
 </td></tr><tr><td>
 
@@ -530,7 +530,7 @@ Collects all attack motivations associated with a STIX Object.
 
 </td></tr><tr><td>
 
-Associated [[threat-intelligence-infrastructure|Infrastructure]] Type \[sn\_ti\_stix2\_m2m\_infra\_type\]
+Associated Infrastructure Type \[sn\_ti\_stix2\_m2m\_infra\_type\]
 
 </td><td>
 
@@ -582,7 +582,7 @@ Associated Observable\[sn\_ti\_stix2\_m2m\_observed\_data\_observable\]
 
 </td><td>
 
-Collects all observables associated with an [[threat-intelligence-observed-data|observed data]].
+Collects all observables associated with an observed data.
 
 </td></tr><tr><td>
 
@@ -590,7 +590,7 @@ Associated Report Type\[sn\_ti\_stix2\_m2m\_report\_report\_type\]
 
 </td><td>
 
-Links [[threat-reports|threat reports]] with their types.
+Links threat reports with their types.
 
 </td></tr><tr><td>
 
@@ -598,7 +598,7 @@ Associated Threat Actor Role\[sn\_ti\_stix2\_m2m\_threat\_actor\_threat\_actor\_
 
 </td><td>
 
-Links [[threat-actors|threat actors]] with their roles.
+Links threat actors with their roles.
 
 </td></tr><tr><td>
 
@@ -614,7 +614,7 @@ Associated Tool Type\[sn\_ti\_stix2\_m2m\_tool\_tool\_type\]
 
 </td><td>
 
-Links [[tools|tools]] with their types.
+Links tools with their types.
 
 </td></tr><tr><td>
 
@@ -634,7 +634,7 @@ A TTP type that describes methods that adversaries use to attempt to compromise 
 
 </td></tr><tr><td>
 
-[[campaign|Campaign]]\[sn\_ti\_stix2\_campaign\]
+Campaign\[sn\_ti\_stix2\_campaign\]
 
 </td><td>
 
@@ -658,11 +658,11 @@ Pointers to information represented outside of STIX.
 
 </td></tr><tr><td>
 
-[[identity|Identity]] Sighting\[sn\_ti\_stix2\_m2m\_sighting\_identity\]
+Identity Sighting\[sn\_ti\_stix2\_m2m\_sighting\_identity\]
 
 </td><td>
 
-Collects all [[threat-intelligence-identities|Identities]] associated with a Sighting.
+Collects all Identities associated with a Sighting.
 
 </td></tr><tr><td>
 
@@ -710,11 +710,11 @@ Installed software\[sn\_ti\_stix2\_m2m\_malware\_analysis\_sw\]
 
 </td><td>
 
-Collects all software \(SCO software types\) associated with a [[threat-intelligence-malware-analysis|malware analysis]].
+Collects all software \(SCO software types\) associated with a malware analysis.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-intrusion-sets|Intrusion Set]]\[sn\_ti\_stix2\_intrusion\_set\]
+Intrusion Set\[sn\_ti\_stix2\_intrusion\_set\]
 
 </td><td>
 
@@ -738,7 +738,7 @@ Represents various kill chains.
 
 </td></tr><tr><td>
 
-[[location|Location]]\[sn\_ti\_stix2\_location\]
+Location\[sn\_ti\_stix2\_location\]
 
 </td><td>
 
@@ -778,7 +778,7 @@ A TTP type that represents malicious code.
 
 </td></tr><tr><td>
 
-[[marking-definition|Marking Definition]]\[sn\_ti\_stix2\_marking\_definition\]
+Marking Definition\[sn\_ti\_stix2\_marking\_definition\]
 
 </td><td>
 
@@ -786,7 +786,7 @@ Represents handling or sharing requirements for STIX Objects.
 
 </td></tr><tr><td>
 
-[[object-sighting|Object Sighting]]\[sn\_ti\_stix2\_object\_sighting\]
+Object Sighting\[sn\_ti\_stix2\_object\_sighting\]
 
 </td><td>
 
@@ -798,7 +798,7 @@ Object-Indicator Relationship\[sn\_ti\_stix2\_m2m\_object\_indicator\]
 
 </td><td>
 
-Collects all [[stix-relationships|relationships]] between STIX objects and STIX indicators.
+Collects all relationships between STIX objects and STIX indicators.
 
 </td></tr><tr><td>
 
@@ -882,7 +882,7 @@ Threat Actors are actual individuals, groups, or organizations believed to be op
 
 </td></tr><tr><td>
 
-[[threat-grouping|Threat Grouping]]\[sn\_ti\_stix2\_threat\_grouping\]
+Threat Grouping\[sn\_ti\_stix2\_threat\_grouping\]
 
 </td><td>
 
@@ -890,7 +890,7 @@ Groups all the STIX Objects that share some common context.
 
 </td></tr><tr><td>
 
-[[threat-note|Threat Note]]\[sn\_ti\_stix2\_threat\_note\]
+Threat Note\[sn\_ti\_stix2\_threat\_note\]
 
 </td><td>
 
@@ -898,7 +898,7 @@ Provides context and additional analysis not contained in the corresponding STIX
 
 </td></tr><tr><td>
 
-[[threat-opinion|Threat Opinion]]\[sn\_ti\_stix2\_threat\_opinion\]
+Threat Opinion\[sn\_ti\_stix2\_threat\_opinion\]
 
 </td><td>
 
@@ -906,7 +906,7 @@ Provides assessment of accuracy of information in a STIX object produced by a di
 
 </td></tr><tr><td>
 
-[[threat-report|Threat Report]]\[sn\_ti\_stix2\_threat\_report\]
+Threat Report\[sn\_ti\_stix2\_threat\_report\]
 
 </td><td>
 
@@ -981,7 +981,7 @@ The API key to use for retrieving additional information into your IoC database.
 
 </td></tr><tr><td>
 
-Do not run automated [[tisc-threat-lookup|threat lookup]] on an observable when the observable is associated with an IoC or found to be malicious. sn\_ti.scan\_ioc\_before\_sending
+Do not run automated threat lookup on an observable when the observable is associated with an IoC or found to be malicious. sn\_ti.scan\_ioc\_before\_sending
 
  **Note:** You need to define the duration in the next property \(sn\_ti.scan\_ioc\_num\_days\).
 
@@ -1140,7 +1140,7 @@ Role required: sn\_ti.admin
 
 Threat Intelligence employs two technologies for importing threat-related information: STIX and Trusted Automated Exchange of Indicator Information \(TAXII\).
 
-STIX provides a standardized, structured language for representing an extensive set of cyberthreat information that includes [[c_IoCs|indicators of compromise]] \(IoC\) activity \(for example, IP addresses and file hashes\), as well as contextual information regarding threats, such as attack modes/methods, that together more completely characterize the motivations, capabilities, and activities of a cyber adversary. As such, STIX data provides valuable information on how your organization can best to defend against cyberthreats.
+STIX provides a standardized, structured language for representing an extensive set of cyberthreat information that includes indicators of compromise \(IoC\) activity \(for example, IP addresses and file hashes\), as well as contextual information regarding threats, such as attack modes/methods, that together more completely characterize the motivations, capabilities, and activities of a cyber adversary. As such, STIX data provides valuable information on how your organization can best to defend against cyberthreats.
 
 Trusted Automated Exchange of Indicator Information \(TAXII\) is used to facilitate automated exchange of cyberthreat information. TAXII defines a set of services and message exchanges that enable sharing of actionable cyberthreat information across organization and product/service boundaries for the detection, prevention, and mitigation of cyberthreats. TAXII profiles can be set up as repositories for sharing STIX-formatted information. Each profile contains one or more TAXII collections or feeds.
 
@@ -1337,34 +1337,4 @@ Click the lookup icon, and select the REST message from the list or click **New*
 </td></tr></tbody>
 </table>6.  Click **Submit**.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]
-- [[attack-patterns|Attack patterns]]
-- [[c_AttackModeMethod|Attack modes and methods]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-malware|Malware]]
-- [[indicator-sightings|Sightings]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[threat-reports|Threat reports]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]
-- [[campaign|Campaign]]
-- [[identity|Identity]]
-- [[threat-intelligence-identities|Identities]]
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[location|Location]]
-- [[marking-definition|Marking Definition]]
-- [[object-sighting|Object Sighting]]
-- [[stix-relationships|Relationships]]
-- [[threat-grouping|Threat Grouping]]
-- [[threat-note|Threat Note]]
-- [[threat-opinion|Threat Opinion]]
-- [[threat-report|Threat Report]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_IoCs|Indicators of compromise]]

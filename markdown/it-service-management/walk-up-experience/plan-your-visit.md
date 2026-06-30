@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Plan your walk-up experience visit with Employee Center
 
-Schedule a single or multiple appointments to visit the walk-up lounge or the support lounge [[walkup-experience-landing-page|Walk-up Experience]] Employee Center. You can also get remote help.
+Schedule a single or multiple appointments to visit the walk-up lounge or the support lounge Walk-up Experience Employee Center. You can also get remote help.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: itil
 
 ## About this task
 
-Employee Center portal enables users to easily scale their service solutions across departments, such as IT, HR, Workplace, Legal, and [[c_Procurement|Procurement]] with digital workflows. This unified portal goes beyond the basic service delivery to provide a platform for communications, engagement, and content experiences. For more information, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md).
+Employee Center portal enables users to easily scale their service solutions across departments, such as IT, HR, Workplace, Legal, and Procurement with digital workflows. This unified portal goes beyond the basic service delivery to provide a platform for communications, engagement, and content experiences. For more information, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md).
 
 -   Use Employee Center to schedule a walk-up appointment to get help, such as to request for new hardware, update software, or upgrade your system.
 -   You can make an appointment, request for the next open appointment, or see your upcoming appointments.
@@ -67,7 +67,3 @@ A success message is displayed. The details of the appointment are displayed und
 
 You can also see your upcoming appointments under the My active items widget on Employee Center home page.
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[c_Procurement|Procurement]]

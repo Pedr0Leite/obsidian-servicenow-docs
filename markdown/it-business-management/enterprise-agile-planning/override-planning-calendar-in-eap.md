@@ -18,7 +18,7 @@ Flexibly change the planning calendar for your Agile Release Train \(ART\) or Ag
 
 ## Before you begin
 
-Set the Application Scope of your ServiceNow instance to [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -52,6 +52,4 @@ This change is applied to only those ARTs that you update.
     -   After 2024-07-30, set your old calendar as the value for the **Override planning calendar** field.
     Once the new calendar comes into effect, the child teams will inherit it for all their future iterations. For Agile Teams, the **Override planning calendar** field is read-only and can't be changed independently of its parent ART.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

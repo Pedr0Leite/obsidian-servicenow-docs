@@ -16,7 +16,7 @@ Manage access to an instance by configuring how long integration sessions last b
 
 Similar to user sessions, you can secure your instance by configuring when to time out an integration session after a period of inactivity and a maximum active session time. By default, integration session time out after five minutes of inactivity.
 
-**Parent Topic:**[[c_IntegrateWThirdPartyAppsDataSrces|Integration with third-party applications and data sources]]
+**Parent Topic:**[Integration with third-party applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntegrateWThirdPartyAppsDataSrces.md)
 
 ## Configure a maximum active time for integration sessions
 
@@ -100,6 +100,3 @@ By default, after one minute of inactivity, the platform ends an integration ses
 
 [Modify user session timeout after inactivity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ManageUserSessions.md)
 
-## Related
-
-- [[c_IntegrateWThirdPartyAppsDataSrces|Integration with third-party applications and data sources]]

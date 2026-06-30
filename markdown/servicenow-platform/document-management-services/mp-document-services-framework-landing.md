@@ -20,7 +20,7 @@ Enable your team to collaborate in real time and add versions, store, copy, dele
 
 <table id="table_jkb_q1y_pcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore Multi Provider [[document-services-landing-page|Document Services]] Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/explore-mp-framework.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/explore-mp-framework.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Enable your team to collaborate in real time and add versions, store, copy, dele
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:[[reference|Reference]] Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-mp-doc-framework.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Reference Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-mp-doc-framework.md)
 
 </td><td>
 
@@ -49,7 +49,3 @@ Enable your team to collaborate in real time and add versions, store, copy, dele
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]
-- [[reference|Reference]]

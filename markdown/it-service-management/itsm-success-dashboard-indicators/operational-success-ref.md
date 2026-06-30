@@ -16,7 +16,7 @@ breadcrumb: [ITSM Success Dashboard indicators KPI definitions and formulas, Exp
 
 An operational KPI is a quantifiable measure that tracks the efficiency and effectiveness of day-to-day operations in your organization. The KPIs can be organized in a dashboard that highlights the areas that are running efficiently and the areas that need attention.
 
-Enable Operational Success and configure the [[settings-mobile|settings]] to understand and use the Key Performance Indicators \(KPIs\) and formulas.
+Enable Operational Success and configure the settings to understand and use the Key Performance Indicators \(KPIs\) and formulas.
 
 By monitoring operational KPIs, you can identify areas for improvement, optimize processes, and ultimately achieve their strategic goals. Here are some techniques to use the operational KPIs:
 
@@ -28,11 +28,7 @@ By monitoring operational KPIs, you can identify areas for improvement, optimize
 
 To create a new operational dashboard, refer [Create an operational success dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/create-operational-success-dashboard.md).
 
-This framework uses the PA Dashboard created as part of the Platform Analytics for ITSM. For more information see, [[operational-success-kpi|Platform Analytics KPIs and dashboards]].
+This framework uses the PA Dashboard created as part of the Platform Analytics for ITSM. For more information see, [Platform Analytics KPIs and dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/operational-success-kpi.md).
 
 **Parent Topic:**[ITSM Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md)
 
-## Related
-
-- [[operational-success-kpi|Platform Analytics KPIs and dashboards]]
-- [[settings-mobile|Settings]]

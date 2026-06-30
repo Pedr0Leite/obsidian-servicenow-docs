@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # Assign Pre-import OT Worksheet Entry Review roles
 
-Assign roles to the users  or user groups so that you can manage the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]] staging table and ETL.
+Assign roles to the users  or user groups so that you can manage the Service Graph Connector for Microsoft Excel staging table and ETL.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or user\_admin
 
 ## About this task
 
-Users with the roles that are listed in the following table can use the [[operational-technology-manager|Operational Technology Manager]] application.
+Users with the roles that are listed in the following table can use the Operational Technology Manager application.
 
 |Role|Description|
 |----|-----------|
@@ -44,7 +44,3 @@ Users with the roles that are listed in the following table can use the [[operat
 
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[operational-technology-manager|Operational Technology Manager]]

@@ -14,9 +14,9 @@ breadcrumb: [Explore, Project Workspace, Project Portfolio Management, Strategic
 
 # Project planning in Project Workspace
 
-Plan your projects with an intuitive [[project-workspace-landing-page|Project Workspace]] application to achieve successful project outcomes.
+Plan your projects with an intuitive Project Workspace application to achieve successful project outcomes.
 
-The Project Workspace application enables Project Managers to define, plan, and prioritize projects, subprojects, [[t_CreateAProjectTask|project tasks]] within a single workspace.
+The Project Workspace application enables Project Managers to define, plan, and prioritize projects, subprojects, project tasks within a single workspace.
 
 The Project Workspace structures the project planning phase from defining the project dates and milestones to allocating resources, scheduling tasks, and establishing dependencies.
 
@@ -33,14 +33,9 @@ Use the planning page to organize project tasks, allocate resources, and set pro
 -   Engage in financial planning, tracking budget allocations, expenses, and financial metrics.
 
 -   **[Project task checklist items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-task-checklist.md)**  
-Track the activities that must be completed on a task using the [[project-task-checklist|project task checklist items]].
+Track the activities that must be completed on a task using the project task checklist items.
 -   **[Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/playbooks-in-pw.md)**  
 Organize and guide project teams with Playbooks to maintain consistency, streamline projects, and keep work on track.
 
 **Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-checklist|Project task checklist items]]

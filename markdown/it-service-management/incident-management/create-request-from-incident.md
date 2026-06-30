@@ -50,7 +50,7 @@ incRPUtil.linkRecordProducerToParentIncident(RP.getParameterValue('sysparm_req_p
 
 5.  Check out the required catalog item, order guide, or record producer.
 
-    For information on checkout [[c_Models|models]], see [Service Catalog checkout models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_EnableATwoStepCheckout.md).
+    For information on checkout models, see [Service Catalog checkout models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_EnableATwoStepCheckout.md).
 
     For a catalog item or order guide, a request is created and displayed under the **Requests** tab of the incident. For a record producer, the corresponding task is created and displayed under the **Problems** tab of the incident.
 
@@ -60,6 +60,3 @@ incRPUtil.linkRecordProducerToParentIncident(RP.getParameterValue('sysparm_req_p
     -   Both for the one-step and two-step checkout, the caller of the incident is automatically set as the **Requested For** user for the request. If the two-step checkout is enabled, the fulfiller can change the **Requested For**.
     -   You cannot add items to the wish list, or save a record producer in this flow.
 
-## Related
-
-- [[c_Models|Models]]

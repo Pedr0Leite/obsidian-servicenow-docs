@@ -14,7 +14,7 @@ breadcrumb: [Get started with dashboard setup, Advisor setup, Use Data Foundatio
 
 # Automatic dashboard setup in CMDB success advisor
 
-[[cmdb-sa|CMDB success advisor]] can automatically configure the Data Foundations advisor dashboard on installation or upgrade, giving you immediate access to pre-configured [[c_CMDBHealth|CMDB health]] insights without manual setup.
+CMDB success advisor can automatically configure the Data Foundations advisor dashboard on installation or upgrade, giving you immediate access to pre-configured CMDB health insights without manual setup.
 
 ## Auto-setup process
 
@@ -44,7 +44,7 @@ The following logic applies when auto-setup sets the principal class scope:
 
 After auto-setup completes, data collection begins automatically. Data collection starts at a monthly frequency and switches to a daily frequency the first time you interact with the dashboard.
 
-The **CMDB Advisor - Check Job Completion and [[notify-landing-page|Notify]]** scheduled job checks whether data collection has completed. When collection completes, the job sends a notification to users with the sn\_cmdb\_admin role through two channels: a record in the CMDB success advisor notification table with a direct link to the configured dashboard, and a notification in the ServiceNow platform notification center \(bell icon\). The job deactivates itself after it sends all product notifications.
+The **CMDB Advisor - Check Job Completion and Notify** scheduled job checks whether data collection has completed. When collection completes, the job sends a notification to users with the sn\_cmdb\_admin role through two channels: a record in the CMDB success advisor notification table with a direct link to the configured dashboard, and a notification in the ServiceNow platform notification center \(bell icon\). The job deactivates itself after it sends all product notifications.
 
 When you first open the advisor after auto-setup completes, a toast notification appears with a readiness confirmation and a summary of the auto-selected scope.
 
@@ -54,8 +54,3 @@ You can review and update the scope selected by auto-setup at any time using the
 
 To modify the Data Foundations scope, see [Manage Data Foundations advisor scope in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-optimize-dashboard.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[notify-landing-page|Notify]]

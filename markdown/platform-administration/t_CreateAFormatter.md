@@ -43,7 +43,7 @@ With the UI macro in place, create the formatter that references it, and add it 
     The formatter appears on the form according to your selections.
 
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 **Related topics**  
 
@@ -62,6 +62,3 @@ With the UI macro in place, create the formatter that references it, and add it 
 
 [Override a formatter with macros]()
 
-## Related
-
-- [[c_Formatters|Using formatters]]

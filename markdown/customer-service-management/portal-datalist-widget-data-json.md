@@ -12,7 +12,7 @@ breadcrumb: [JSON parameter in Configurable Portal Widgets, Configurable Portal 
 
 # Portal Data List widget JSON parameters
 
-JSON parameters define aspects of the [[portal-data-list-widget|Portal Data list widget]] on the portal page.
+JSON parameters define aspects of the Portal Data list widget on the portal page.
 
 **Note:** This information assumes that you’re familiar with the JSON code format.
 
@@ -269,6 +269,3 @@ Order of sorting the data list. Default is ascending.This parameter is optional.
 
 [Add and configure the Portal Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-data-list-widget-inst-optns.md)
 
-## Related
-
-- [[portal-data-list-widget|Portal Data List widget]]

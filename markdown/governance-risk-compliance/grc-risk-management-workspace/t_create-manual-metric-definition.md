@@ -28,7 +28,7 @@ In the manual metric definition, the mode of data collection is manual. An optio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Lists** &gt; **Metrics** &gt; **Manual metric definitions**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Lists** &gt; **Metrics** &gt; **Manual metric definitions**.
 
 2.  Click **New**.
 
@@ -52,6 +52,3 @@ Detailed explanation of the fields on the manual metric definition form.
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

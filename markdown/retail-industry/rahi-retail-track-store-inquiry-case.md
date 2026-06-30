@@ -12,7 +12,7 @@ breadcrumb: [Manage store inquiries, Retail]
 
 # Track a store inquiry case from the Retail portal
 
-Track the status of a [[rahi-retail-retail-store-services|store inquiry case]] from the [[rahi-retail-portal|Retail portal]]. By tracking your case from the Retail portal, you can immediately get visibility into the progress, issues, or status of your case.
+Track the status of a store inquiry case from the Retail portal. By tracking your case from the Retail portal, you can immediately get visibility into the progress, issues, or status of your case.
 
 ## Before you begin
 
@@ -25,10 +25,5 @@ Role required: Store associate or Store manager
 2.  Select the case number to track the case.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-portal|Retail portal]]

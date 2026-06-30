@@ -13,7 +13,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Feature availability based on package
 
-The table outlines the access permissions for [[instance-observer-performance|Performance]] [[io-analytics|Analytics]] features across production and sub production instances.
+The table outlines the access permissions for Performance Analytics features across production and sub production instances.
 
 Each feature is evaluated against three license tiers — Total, Advanced, and Guided — with values indicating full access \(Y\), restricted access \(lock\), or feature unavailability \(N/A\). It also covers anomaly-based alert configurations and the adjusted range function for fine-tuning anomaly tolerance thresholds.
 
@@ -54,7 +54,7 @@ Allows you to adjust an anomaly tolerance by manipulating the percentage range o
 -   When you hover over the chart following the alert, the normal range and adjusted data range distribution \(upper boundary and lower boundary\) will be displayed for quick comparison.
 -   If the lower boundary value exceeds the upper boundary, the range width will prevent the lower limit from surpassing the upper limit.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -99,8 +99,3 @@ Allows you to adjust an anomaly tolerance by manipulating the percentage range o
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

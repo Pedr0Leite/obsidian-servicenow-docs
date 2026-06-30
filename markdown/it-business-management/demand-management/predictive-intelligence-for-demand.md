@@ -14,9 +14,9 @@ breadcrumb: [Explore, Demand Management, Project Portfolio Management, Strategic
 
 # Predictive Intelligence for Demand Management
 
-The Predictive Intelligence for Demand Management capability uses machine-learning algorithms to search and display similar demands while creating a demand in the [[demand-form|Demand form]].
+The Predictive Intelligence for Demand Management capability uses machine-learning algorithms to search and display similar demands while creating a demand in the Demand form.
 
-The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and [[c_ProjectApplicationOverview|Project Management]].
+The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and Project Management.
 
 Once you train your custom use cases, they’re usable immediately. No prior knowledge or experience with artificial intelligence or machine learning is required when you use the PPM Predictive Intelligence Workbench.
 
@@ -78,7 +78,3 @@ View similar demands based on the **Demand Name** and **Description** fields. Yo
 
 [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[c_ProjectApplicationOverview|Project Management]]

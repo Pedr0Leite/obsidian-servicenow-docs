@@ -14,7 +14,7 @@ breadcrumb: [Reference, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Map components installed with Indoor Mapping
 
-Several types of components are installed with the [[Indoor-mapping|Indoor Mapping]] application, including user roles, tables, and scheduled jobs.
+Several types of components are installed with the Indoor Mapping application, including user roles, tables, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -380,7 +380,7 @@ Extracts room dimensions from a CAD source file.
 
 </td></tr><tr><td>
 
-[[autocad-v2-config-layout|CAD Configuration]] item\[sn\_map\_core\_cad\_configuration\_item\]
+CAD Configuration item\[sn\_map\_core\_cad\_configuration\_item\]
 
 </td><td>
 
@@ -400,7 +400,7 @@ Indoor Map / WSD Synchronization\[sn\_wsd\_indoor\_map\_sync\]
 
 </td><td>
 
-Synchronizes Indoor Mapping map data with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] data.
+Synchronizes Indoor Mapping map data with Workplace Service Delivery data.
 
 </td></tr><tr><td>
 
@@ -408,7 +408,7 @@ Indoor Map / WSD Buildings Synchronization\[sn\_wsd\_indoor\_map\_building\_sync
 
 </td><td>
 
-Synchronizes Indoor Mapping building data with [[workplace-safety-mgmt-hr|Workplace Core]] building data.
+Synchronizes Indoor Mapping building data with Workplace Core building data.
 
 </td></tr><tr><td>
 
@@ -432,7 +432,7 @@ Indoor Place Properties Mapping\[sn\_wsd\_indoor\_map\_place\_properties\_mappin
 
 </td><td>
 
-[[indoor-mapping-properties|Indoor Mapping properties]].
+Indoor Mapping properties.
 
 </td></tr><tr><td>
 
@@ -542,10 +542,3 @@ A notification is sent to the administrator if changes were made to Indoor Mappi
 
 **Next topic:**[Indoor Mapping terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-common-terminology.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[autocad-v2-config-layout|CAD configuration]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[indoor-mapping-properties|Indoor Mapping properties]]

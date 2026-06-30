@@ -14,7 +14,7 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 # Task resources
 
-Resources are the individuals or groups assigned to perform tasks and subtasks in [[c_ProjectApplicationOverview|Project Management]].
+Resources are the individuals or groups assigned to perform tasks and subtasks in Project Management.
 
 You can use Resource Management to [set up resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md), which can be associated with projects. Activate [Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md) to use Resource Management with Project Management.
 
@@ -49,6 +49,3 @@ You can use Resource Management to [set up resource plans](https://raw.githubuse
 
 [Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]

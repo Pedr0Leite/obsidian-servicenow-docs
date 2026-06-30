@@ -44,7 +44,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 2.  Select the **Work order plans** tab.
 
 A list of existing work order plans is displayed.
@@ -63,7 +63,7 @@ A list of existing work order plans is displayed.
 
 A list of existing asset groups is displayed.
 
-3.  [[select-daas-asset|Select an asset]] group for which you want to create a work order plan.
+3.  Select an asset group for which you want to create a work order plan.
 4.  Select **Create plan**.
 
 
@@ -224,7 +224,3 @@ Date and time by which the work order plan must be completed.
 
 [Create a work order plan template]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

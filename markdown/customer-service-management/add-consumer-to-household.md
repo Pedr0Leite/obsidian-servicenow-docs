@@ -36,7 +36,7 @@ You can add existing consumers from the Consumer table to a household.
 
 Household member records are added to the Household Member table. When a consumer is added to a household, the consumer is assigned as a unique household member number that begins with the prefix HM.
 
-The [[data-model-household-form|Household form]] includes the following related [[migration-lists|lists]] for household members:
+The Household form includes the following related lists for household members:
 
 -   Current Members: Consumers that belong to the household as of the current date.
 -   All Members: Current members and past members. The customer service manager or admin can indicate that a consumer no longer belongs to the household by adding a date to the **End Date** field. A consumer that has left a household can be added back to that household.
@@ -65,10 +65,6 @@ The [[data-model-household-form|Household form]] includes the following related 
 
     -   Current Households
     -   All Households
-    **Note:** You must configure the Consumer form to display these related lists. For more information, see [[configure-industry-data-model|Configure Service Model Foundation]].
+    **Note:** You must configure the Consumer form to display these related lists. For more information, see [Configure Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md).
 
-## Related
 
-- [[configure-industry-data-model|Configure Service Model Foundation]]
-- [[data-model-household-form|Household form]]
-- [[migration-lists|Lists]]

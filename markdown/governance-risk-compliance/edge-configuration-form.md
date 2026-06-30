@@ -12,7 +12,7 @@ breadcrumb: [Configure the Edge configurations, Configure the Main node configur
 
 # Edge configuration form
 
-Use the Edge configuration form to [[configure-edge-configurations|configure the Edge configurations]] settings such as the label, tooltip, default edge type for the edge of the selected node.
+Use the Edge configuration form to configure the Edge configurations settings such as the label, tooltip, default edge type for the edge of the selected node.
 
 ## Edge configuration new record form
 
@@ -28,6 +28,3 @@ Use the Edge configuration form to [[configure-edge-configurations|configure the
 |Tooltip|Tooltip to be used for the edge configuration, for example, Domain created by.|
 |Default edge type|Default edge type for the edge configuration, for example, Solid.|
 
-## Related
-
-- [[configure-edge-configurations|Configure the Edge configurations]]

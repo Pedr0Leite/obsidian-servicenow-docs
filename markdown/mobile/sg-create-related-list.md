@@ -20,15 +20,15 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder appears in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  From the menu on the left side, select **Data** to display the [[sg-data-item|data items]] for the scope.
+3.  From the menu on the left side, select **Data** to display the data items for the scope.
 
 4.  Click the **New** button next to the **Search** field.
 
@@ -91,7 +91,7 @@ Whether the condition is **Declarative**, uses a **Script** or uses an **Appende
 </td></tr></tbody>
 </table>7.  Create parameter items in the **Parameters** section.
 
-    Parameters contain values from the parent record that you can use in your conditions in the **Condition** section. You use these parameters in your condition to define how the related list records are related with the parent record. For more information on parameters, see [[sg-config-parametrized-data-item|Configure a parametrized data item]].
+    Parameters contain values from the parent record that you can use in your conditions in the **Condition** section. You use these parameters in your condition to define how the related list records are related with the parent record. For more information on parameters, see [Configure a parametrized data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md).
 
 8.  Create a condition in the **Condition** section to filter the records that appear in your related list.
 
@@ -99,24 +99,16 @@ Whether the condition is **Declarative**, uses a **Script** or uses an **Appende
 
 9.  Create a separate condition in the **Offline condition** section.
 
-    The conditions in this section apply when you set the app to [[mobile-offline-mode|offline mode]].
+    The conditions in this section apply when you set the app to offline mode.
 
 10. Click **Save** in the upper right corner to save your data item.
 
 
 ## Example
 
-In this example, you have a [[form-screen|record screen]] that displays a problem record. On this screen, you wan to display a list of incidents associated with that problem. Since this related list contains incident records, you must create a data item for the Incident \[incident\] table.\[Omitted image "example-data-parm-3.png"\] Alt text: Data item form
+In this example, you have a record screen that displays a problem record. On this screen, you wan to display a list of incidents associated with that problem. Since this related list contains incident records, you must create a data item for the Incident \[incident\] table.\[Omitted image "example-data-parm-3.png"\] Alt text: Data item form
 
 For the data item to show only incidents related to the parent record \(a problem record in this case\), we must create a data parameter for that information. To make it easy to identify, the parameter name is `Problem data parameter`. Since records are identified with a sys\_id, the data parameter is a `String` type.\[Omitted image "example-data-parm.png"\] Alt text: Data parameter form
 
 In the condition section of the data item, create a condition for the **Problem** field on incident records. Use the parameter as the value. You select the parameter using the **Choose a parameter** \(\[Omitted image "choose-parameter.png"\] Alt text: Choose parameter icon\) icon. Once these steps are taken, your data item is ready to use.\[Omitted image "example-data-parm-2.png"\] Alt text: Completed parametrized data item
 
-## Related
-
-- [[sg-config-parametrized-data-item|Configure a parametrized data item]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]
-- [[mobile-offline-mode|Offline mode]]
-- [[form-screen|Record screen]]

@@ -24,15 +24,10 @@ This workflow is triggered by a business rule on the lookup table which monitors
 
 Workflow process activities include:
 
--   [[r_RollUpScanInfoSI|Roll up lookup info to security incident activity]]
--   [[update-task-worknotes-activity|Update Task Worknotes activity]]
+-   [Roll up lookup info to security incident activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/r_RollUpScanInfoSI.md)
+-   [Update Task Worknotes activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/update-task-worknotes-activity.md)
 
 \[Omitted image "UpdateSILookupResultsWorkflow.png"\] Alt text: Update security incident with lookup results workflow diagram
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[r_RollUpScanInfoSI|Roll up lookup info to security incident activity]]
-- [[update-task-worknotes-activity|Update Task Worknotes activity]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]

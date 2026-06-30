@@ -16,7 +16,7 @@ breadcrumb: [Testing LLM topics, Getting started with Virtual Agent Designer, Bu
 
 The chat test window displays adjoining tabs that provide details about your topic as you test it.
 
-The following tabs are available when [[test-llm-topics|testing LLM topics]]:
+The following tabs are available when testing LLM topics:
 
 -   **Analysis**: Results for topic discovery based on your input.
 -   **Modify instructions**: List of all the instructions in the topic that are sent to the LLM. This tab is only available when testing a single topic.
@@ -25,7 +25,7 @@ The following tabs are available when [[test-llm-topics|testing LLM topics]]:
 -   **Context**: Options for specifying the context \(using context variables\) in which a topic is run.
 -   **Logs**: List of the processing performed.
 
-The following tabs appear when you test their related topic types on the [[virtual-agent-landing-page|Virtual Agent]] Designer canvas:
+The following tabs appear when you test their related topic types on the Virtual Agent Designer canvas:
 
 -   The **Analyze test phrases**, **Modify instructions**, **Variables**, and **Logs** tabs appear for all LLM topic types.
 -   The **Edit variables** tab appears for topic blocks and custom controls.
@@ -86,7 +86,7 @@ When testing topic blocks and custom controls, you can edit the variables found 
 
 The **Context** tab appears when you’re testing topics, setup topics, or small talk topics, to specify a different context for the chat. Choose a context variable from the list. The variables contain contextual information that can be used to determine topic intent or control how chats are routed to live agents. For example, you could select **portal** from the list of variables and enter the portal name **IT Express**. The **Context** tab is unavailable when creating test cases.
 
-For more information about defining context variables, see [[ac-configure-context-variables|Configure context variables for storing chat-related information]]. For more information about live agent variables that are included with Virtual Agent, see [[live-agent-chat-context-vars|Live agent chat context variables]].
+For more information about defining context variables, see [Configure context variables for storing chat-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md). For more information about live agent variables that are included with Virtual Agent, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
 
 \[Omitted image "va-context-llm.png"\] Alt text: Context tab with the context portal value of service portal.
 
@@ -98,9 +98,3 @@ The **Logs** tab displays a running log of server events, user entries, and Virt
 
 **Parent Topic:**[Testing LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-llm-topics.md)
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[test-llm-topics|Testing LLM topics]]
-- [[virtual-agent-landing-page|Virtual Agent]]

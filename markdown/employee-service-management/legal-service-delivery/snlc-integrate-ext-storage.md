@@ -14,7 +14,7 @@ breadcrumb: [Configuring external applications for legal contracts, Configure, C
 
 # Configure an external storage system for legal contracts
 
-[[cncore-integrate-ext-storage|Configure an external storage system]] to store signed contract documents.
+Configure an external storage system to store signed contract documents.
 
 ## Before you begin
 
@@ -140,6 +140,3 @@ The configuration for the external storage system is published and is ready to b
 
 **Parent Topic:**[Configuring external applications for legal contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-set-legal-ext-app-config.md)
 
-## Related
-
-- [[cncore-integrate-ext-storage|Configure an external storage system]]

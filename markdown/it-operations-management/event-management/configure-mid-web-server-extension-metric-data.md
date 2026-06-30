@@ -14,7 +14,7 @@ breadcrumb: [Configure the MID Web Server extension, MID Web Server, Event Manag
 
 # Configure key-based MID Web Server authentication
 
-Provide added security to your [[mid-web-server|MID Web Server]] extension by using key-based authentication. Generate an authentication token to be sent in the Authorization header of incoming client requests.
+Provide added security to your MID Web Server extension by using key-based authentication. Generate an authentication token to be sent in the Authorization header of incoming client requests.
 
 ## Before you begin
 
@@ -144,6 +144,3 @@ public static String signData(String data, String key) throws java.security.Sign
 
 ```
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

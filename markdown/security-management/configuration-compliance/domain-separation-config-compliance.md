@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 # Domain separation and Configuration Compliance
 
-Domain separation is supported in [[vr-config-compliance-landing|Configuration Compliance]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Configuration Compliance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -103,7 +103,7 @@ Data can be domain separated, which means:
 -   Test results or hosts in one domain cannot be viewed from other domains.
 -   The risk scoring algorithm and the test results group rules cannot be viewed by anyone outside the domain.
 -   Deferral workflows created in one domain are not visible in another domain.
--   All [[tisc-email-notifications|email notifications]] are contained within the domain they belong to.
+-   All email notifications are contained within the domain they belong to.
 
 ## How compliance analysts manage their own application data
 
@@ -116,7 +116,7 @@ Data can be domain separated, which means:
 ## Business logic and processes that can be domain-separated by instance owner
 
 -   Configuration Compliance users and groups
--   [[vuln-config-compl-integrations|Configuration Compliance integrations]] \(starting with the Madrid release\)
+-   Configuration Compliance integrations \(starting with the Madrid release\)
 -   Complete setup configuration \(user and group management, application installation, multi-source application management, CI lookup rules, remediation task rules, risk calculators, etc.\)
 -   Complete remediation life cycle including deferral
 
@@ -125,8 +125,3 @@ Data can be domain separated, which means:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[vuln-config-compl-integrations|Configuration Compliance integrations]]

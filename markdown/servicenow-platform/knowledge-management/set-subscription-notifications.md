@@ -22,7 +22,7 @@ Role required: knowledge
 
 ## About this task
 
-Users can set notification preferences from the Knowledge menu or from the [[knowledge-management|Knowledge Management]] Service Portal.
+Users can set notification preferences from the Knowledge menu or from the Knowledge Management Service Portal.
 
 ## Procedure
 
@@ -42,6 +42,3 @@ Users can set notification preferences from the Knowledge menu or from the [[kno
 
 **Parent Topic:**[Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

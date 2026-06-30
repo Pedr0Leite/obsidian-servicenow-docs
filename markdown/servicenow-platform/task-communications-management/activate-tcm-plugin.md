@@ -14,7 +14,7 @@ breadcrumb: [Task Communications Management plugins, Task Communications Managem
 
 # Activate Task Communications Management
 
-The [[tcm-landing-page|Task Communications Management]] plugin \(com.snc.task\_communication\_management\) is activated when you activate the Incident Communications Management plugin \(com.snc.iam\) or the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). This plugin includes demo data and activates related plugins if they are not already active.
+The Task Communications Management plugin \(com.snc.task\_communication\_management\) is activated when you activate the Incident Communications Management plugin \(com.snc.iam\) or the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -59,7 +59,7 @@ The Targeted Communications plugin provides a way to publish and send out newsle
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -76,7 +76,3 @@ Several types of components are installed with the Task Communications Managemen
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

@@ -15,11 +15,11 @@ breadcrumb: [Card Data Security, Dispute Management, Banking applications, Finan
 
 # Exploring Card Data Security
 
-Learn more about [[card-data-security|Card Data Security]] and how it can be used to tokenize sensitive card data, display and mask Primary Account Numbers \(PANs\), and manage sensitive attachments for Dispute Cases and Dispute Transactions.
+Learn more about Card Data Security and how it can be used to tokenize sensitive card data, display and mask Primary Account Numbers \(PANs\), and manage sensitive attachments for Dispute Cases and Dispute Transactions.
 
 ## Card Data Security overview
 
-The Card Data Security application helps organizations adhere to [[payment-card-application|Payment Card]] Industry Data Security Standard \(PCI DSS\) requirements by protecting cardholder data. It provides a tokenizer service that substitutes sensitive data in dispute workflows—such as Primary Account Numbers \(PANs\) and documents—with non-sensitive equivalent values called tokens.
+The Card Data Security application helps organizations adhere to Payment Card Industry Data Security Standard \(PCI DSS\) requirements by protecting cardholder data. It provides a tokenizer service that substitutes sensitive data in dispute workflows—such as Primary Account Numbers \(PANs\) and documents—with non-sensitive equivalent values called tokens.
 
 Using tokens prevents sensitive data from being stored on a ServiceNow instance, minimizing the impact of a data breach.
 
@@ -40,7 +40,7 @@ A card disputes solution needs to be PCI compliant for the following reasons:
 
 \[Omitted image "card-data-security-value.png"\] Alt text: Diagram highlighting areas in the card dispute workflow that may handle PCI information.
 
-Card Data Security provides a secure, PCI-compliant vault for sensitive payment information, while allowing FSO users to maintain operational efficiency in [[dispute-management|dispute management]] processes. Whether your organization falls under PCI Level 1 reporting requirements or operates at lower transaction volumes, Card Data Security can help maintain PCI compliance while streamlining [[fso-overview|financial services]] operations.
+Card Data Security provides a secure, PCI-compliant vault for sensitive payment information, while allowing FSO users to maintain operational efficiency in dispute management processes. Whether your organization falls under PCI Level 1 reporting requirements or operates at lower transaction volumes, Card Data Security can help maintain PCI compliance while streamlining financial services operations.
 
 ## Use cases
 
@@ -120,7 +120,7 @@ Show the full PAN or only the last four digits in the dispute workflow.
 
 </td></tr><tr><td>
 
-[[card-data-security-component|Card Data Security container]] for entering PANs
+Card Data Security container for entering PANs
 
 </td><td>
 
@@ -184,17 +184,9 @@ Agents use Card Data Security to view and reveal PANs in a transaction for a car
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about [[configuring-card-data-security|configuring Card Data Security]], see:
+To learn more about configuring Card Data Security, see:
 
 -   [Configuring Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/configuring-card-data-security.md)
 -   [Managing Card data security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-data-security.md)
 -   [Card Data Security Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security-reference.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]
-- [[payment-card-application|Payment card]]
-- [[dispute-management|Dispute Management]]
-- [[fso-overview|Financial Services]]
-- [[card-data-security-component|Card Data Security container]]
-- [[configuring-card-data-security|Configuring Card Data Security]]

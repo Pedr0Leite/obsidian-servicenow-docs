@@ -18,13 +18,13 @@ You can perform the following:
 
 -   Show live visuals as users configure: colors, dimensions, options, and bundles can update the viewer instantly.
 -   Coordinate UI + visual states: publish field values, set rows, and selected products to the renderer.
--   \(Optional\) Write back from the viewer: for supported vendors, user actions in the canvas can update [[fields|fields]].
+-   \(Optional\) Write back from the viewer: for supported vendors, user actions in the canvas can update fields.
 
 ## Supported vendors at a glance
 
 |Vendor|Direction|What you can send|What can be written back|Notes|
 |------|---------|-----------------|------------------------|-----|
-|CDS|1-way and 2-way|Fields, [[cpq-sets|Sets]] \(first 25 rows\), [[product_picker_overview|product pickers]] \(first 25 options\), Active Set Index|Fields; Sets via listener field JSON + rule parsing|Good for CAD/2D/3D; flexible mapping objects|
+|CDS|1-way and 2-way|Fields, Sets \(first 25 rows\), product pickers \(first 25 options\), Active Set Index|Fields; Sets via listener field JSON + rule parsing|Good for CAD/2D/3D; flexible mapping objects|
 |kBridge|1-way and 2-way|Fields, Sets \(first 25 rows\), product pickers \(first 25 options\), Active Set Index|Fields; Sets via listener field JSON + rule parsing|Real-time 3D with rich event &amp; listener model|
 |Threekit|1-way|Fields, Asset Id \(static or via field\), Active Set Index \(visual focus only\)|Not supported \(viewer → Logik\)|Use for high-fidelity visuals; map fields and asset selection|
 
@@ -56,11 +56,11 @@ You can perform the following:
 
 -   Auth and origin: Use vendor tokens and URLs appropriate to prod vs non-prod. Ensure your CPQ Runtime Client origins match calling domains.
 -   CSP \(Content Security Policy\): Allow vendor script or app hosts for embedding and messaging. Coordinate with your security team and CPQ support to add domains.
--   Separation of concerns: Keep vendor credentials and tokens out of shared [[layouts|layouts]] across environments. Swap tokens when promoting.
+-   Separation of concerns: Keep vendor credentials and tokens out of shared layouts across environments. Swap tokens when promoting.
 
 ## When to choose which tool
 
--   If you need bidirectional edits in the canvas, choose kBridge or CDS and implement a listener field and parsing [[rules_101|rules]].
+-   If you need bidirectional edits in the canvas, choose kBridge or CDS and implement a listener field and parsing rules.
 -   If you need high-fidelity 3D with asset management and one-way updates, choose Threekit with an assetId or assetId field strategy.
 -   If you have a heavy set-driven UX, prefer CDS or kBridge for two-way set JSON handling and Active Set Index synchronization.
 
@@ -78,19 +78,9 @@ You can perform the following:
 **Related topics**  
 
 
-[[cpq-kbridge-visualization-integration|Integrating kBridge visualization]]
+[Integrating kBridge visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-kbridge-visualization-integration.md)
 
-[[cds_visualization_integration|Integrating CDS or other third-party visualization tools]]
+[Integrating CDS or other third-party visualization tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cds_visualization_integration.md)
 
-[[threekit-visualization-integration|Integrating Threekit visualization]]
+[Integrating Threekit visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/threekit-visualization-integration.md)
 
-## Related
-
-- [[cpq-kbridge-visualization-integration|Integrating kBridge visualization]]
-- [[cds_visualization_integration|Integrating CDS or other third-party visualization tools]]
-- [[threekit-visualization-integration|Integrating Threekit visualization]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[layouts|Layouts]]
-- [[rules_101|Rules]]

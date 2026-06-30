@@ -12,7 +12,7 @@ breadcrumb: [Maintaining Digital resilience third-party registers, Manage, Opera
 
 # Exploring Digital resilience third-party registers
 
-The Digital resilience third-party registers application empowers the financial entities to maintain registers of contractual arrangements with Information and Communication Technology \(ICT\) third-party service providers and comply with Digital [[grc-opres-landing-page|Operational Resilience]] Act \(DORA\) regulation.
+The Digital resilience third-party registers application empowers the financial entities to maintain registers of contractual arrangements with Information and Communication Technology \(ICT\) third-party service providers and comply with Digital Operational Resilience Act \(DORA\) regulation.
 
 ## Applications for DORA compliance
 
@@ -43,7 +43,7 @@ Digital Operational Resilience aligns with the Digital Operational Resilience A
 
 DORA Regulation mandates that financial entities incorporate and periodically review a strategy for managing ICT third-party risk within their ICT risk management framework. This strategy must include a policy governing the use of ICT services that support critical or important functions, as provided by third-party ICT service providers.
 
-A financial institution's policy on using third-party ICT service providers plays a crucial role in defining key aspects of its governance, risk management, and internal control frameworks for these services. Financial entities must perform [[risk-assessments|risk assessments]] and due diligence before signing contracts with third-party ICT service providers. They must also ensure they can terminate these arrangements if needed and maintain business continuity for critical or important functions. For instance, an action could be necessary where the service is not optimal, external ICT systems malfunction, or the service is disrupted due to sanctions.
+A financial institution's policy on using third-party ICT service providers plays a crucial role in defining key aspects of its governance, risk management, and internal control frameworks for these services. Financial entities must perform risk assessments and due diligence before signing contracts with third-party ICT service providers. They must also ensure they can terminate these arrangements if needed and maintain business continuity for critical or important functions. For instance, an action could be necessary where the service is not optimal, external ICT systems malfunction, or the service is disrupted due to sanctions.
 
 ## Pillars for DORA
 
@@ -63,7 +63,7 @@ Digital Operational Resilience Act \(DORA\) comprises the important pillars:
 
 Customers can manage the contractual arrangements by processing the records by using the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files in the Digital resilience third-party registers application.
 
-For information on processing the records through the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files, see [[using-dg-registers|Using Digital resilience third-party registers]].
+For information on processing the records through the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files, see [Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md).
 
 ## Accessing the Digital resilience third-party registers application
 
@@ -89,21 +89,12 @@ Upon opening the Operational Resilience Workspace, the menu featuring Digital re
 
 For information on Digital resilience third-party registers in the TPRM Workspace, see [Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/third-party-risk-mgt-landing-page.md).
 
--   **[[use-cases-for-contra-arrangements|Use cases for updating the information registers]]**  
+-   **[Use cases for updating the information registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/use-cases-for-contra-arrangements.md)**  
 Users with third-party registers and contractual details spread across various systems can automate the process of populating their information registers. This section outlines common scenarios for recording third-party data into Digital resilience third-party registers.
--   **[[opres-dora-roi-reg-pkg|Register of Information \(ROI\) regulatory packages]]**  
+-   **[Register of Information \(ROI\) regulatory packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-dora-roi-reg-pkg.md)**  
 The Register of Information \(RoI\) is a regulatory reporting requirement under the Digital Operational Resilience Act \(DORA\) and is supported by the Digital resilience third-party registers application in the Operational Resilience Workspace.
--   **[[opres-dora-validate-roi|Validation framework for Register of Information in Operational Resilience]]**  
+-   **[Validation framework for Register of Information in Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-dora-validate-roi.md)**  
 The validation framework helps to verify that RoI packages meet regulatory requirements defined by the DORA.
 
-**Parent Topic:**[[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
+**Parent Topic:**[Maintaining Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-third-party-registers.md)
 
-## Related
-
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[use-cases-for-contra-arrangements|Use cases for updating the information registers]]
-- [[opres-dora-roi-reg-pkg|Register of Information \(ROI\) regulatory packages]]
-- [[opres-dora-validate-roi|Validation framework for Register of Information in Operational Resilience]]
-- [[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[risk-assessments|risk assessments]]

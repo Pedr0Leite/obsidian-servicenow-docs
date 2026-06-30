@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Configure team requests
 
-Configure the type of team requests that you want to display on the **Requests opened by your team** widget in [[manager-hub-overview|Manager Hub]].
+Configure the type of team requests that you want to display on the **Requests opened by your team** widget in Manager Hub.
 
 ## Before you begin
 
@@ -165,6 +165,3 @@ Text that must appear when multiple requests are displayed.For example: $\{count
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]

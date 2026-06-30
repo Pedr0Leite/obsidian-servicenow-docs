@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for HR Service Delivery, Integration of HR Servic
 
 # Transfer an HR case in Universal Request
 
-[[reclassify-hr-case|Transfer an HR case]] back to the [[ur-landing-limitedaccess|Universal Request]], or to another department or service with or without resolution.
+Transfer an HR case back to the Universal Request, or to another department or service with or without resolution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## About this task
 
-Configure the **sn\_uni\_req.transfer\_type** property in the [[ur-properties|Universal Request properties]] page to determine how to handle the primary ticket transfers. For more information, see [Universal Request Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the Universal Request properties page to determine how to handle the primary ticket transfers. For more information, see [Universal Request Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
 ## Procedure
 
@@ -58,8 +58,3 @@ Configure the **sn\_uni\_req.transfer\_type** property in the [[ur-properties|Un
 
 **Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md)
 
-## Related
-
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-properties|Universal Request properties]]

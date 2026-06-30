@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.export
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Imports/Exports**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Imports/Exports**.
 
 2.  Select **Exports** &gt; **My Exports**
 
@@ -30,6 +30,4 @@ Role required: sn\_sec\_tisc.export
 
 3.  Open any record to view the status of the export process.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]

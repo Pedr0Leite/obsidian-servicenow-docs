@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-This task applies to customers who are upgrading their release version and installing [[customer-central|Customer Central]] for the first time. Running the fix script creates data in the Activities table for Customer Central.
+This task applies to customers who are upgrading their release version and installing Customer Central for the first time. Running the fix script creates data in the Activities table for Customer Central.
 
 ## Procedure
 
@@ -30,6 +30,4 @@ This task applies to customers who are upgrading their release version and insta
 
 3.  Select **Run Fix Script**.
 
-## Related
 
-- [[customer-central|Customer Central]]

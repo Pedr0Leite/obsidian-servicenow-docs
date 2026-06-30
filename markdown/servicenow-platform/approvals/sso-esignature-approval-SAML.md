@@ -14,7 +14,7 @@ breadcrumb: [Approval with e-signature, Classic approvals, Exploring Service Adm
 
 # Use Multi-Provider SSO to set up an SSO approval for a SAML 2.0 authentication
 
-An SSO [[approval-with-e-signature|approval with e-signature]] requires configuration on the SAML IdP and the ServiceNow instance.
+An SSO approval with e-signature requires configuration on the SAML IdP and the ServiceNow instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. [[e-signature|E-signature]] doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 authentication.
+The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. E-signature doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 authentication.
 
 ## Procedure
 
@@ -86,7 +86,3 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 
 **Parent Topic:**[Approval with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/approval-with-e-signature.md)
 
-## Related
-
-- [[approval-with-e-signature|Approval with e-signature]]
-- [[e-signature|E-signature]]

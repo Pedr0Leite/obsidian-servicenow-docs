@@ -16,7 +16,7 @@ breadcrumb: [Use ITSM Virtual Agent analytics dashboard, Now Assist for IT Servi
 
 # Tracking metrics using the ITSM Virtual Agent Analytics dashboard
 
-Track and analyze [[itsm-virtual-agent|ITSM Virtual Agent]] analytics and get insights into them.
+Track and analyze ITSM Virtual Agent analytics and get insights into them.
 
 Analyze metrics using the ITSM Virtual Agent analytics dashboard. The table provides the summary and benefits for each type of analytics.
 
@@ -27,6 +27,3 @@ Analyze metrics using the ITSM Virtual Agent analytics dashboard. The table prov
 |[Customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-customer-satisfaction.md)|Tracks metrics and feedback to measure user experience|Evaluates how well agents meet customer needs|
 |[Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-resources.md)|Provides documentation and support materials for users|Improves self-service capabilities and content effectiveness|
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

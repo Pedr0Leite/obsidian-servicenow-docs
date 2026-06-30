@@ -32,7 +32,7 @@ The base system includes example credential stores with various password require
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Credential Stores**.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Credential Stores**.
 
 2.  Select the credential store in the list and then configure the following settings:
 
@@ -50,7 +50,7 @@ Password rule hint
 
 </td><td>
 
-Specify the text that appears on the password reset page to help the user to create a password that meets all requirements. The **Password rule** script enforces the requirements.**Note:** The [[win-password-reset-overview|Password Reset Windows Application]] supports newline characters in the hint. Other formatting is not supported \(bold, underline, hyperlink, and so on\).
+Specify the text that appears on the password reset page to help the user to create a password that meets all requirements. The **Password rule** script enforces the requirements.**Note:** The Password Reset Windows Application supports newline characters in the hint. Other formatting is not supported \(bold, underline, hyperlink, and so on\).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Enable Password Strength
 
 </td><td>
 
-Select the [[check-box|check box]] to:-   Display the text box for the **Strength rule** script so you can update the script.
+Select the check box to:-   Display the text box for the **Strength rule** script so you can update the script.
 -   Display the graphical **Password Strength** bar to the user while the user changes or resets the password.
  **Note:** The Password Reset Windows Application does not support Password Strength.
 
@@ -92,7 +92,7 @@ Default settings:-   Selected for local ServiceNow credential stores
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-    You should [[test-cxn-to-credential-store|test the connection to a credential store]] after you configure a new credential store or when users experience problems that might involve the connection.
+    You should test the connection to a credential store after you configure a new credential store or when users experience problems that might involve the connection.
 
 4.  Navigate to **Password Reset** &gt; **Credential Stores** and then open the credential store.
 
@@ -120,16 +120,9 @@ Default settings:-   Selected for local ServiceNow credential stores
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Specify lockout for failed login attempts]()
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[check-box|Check box]]
-- [[test-cxn-to-credential-store|Test the connection to a credential store]]
-- [[email|Email]]

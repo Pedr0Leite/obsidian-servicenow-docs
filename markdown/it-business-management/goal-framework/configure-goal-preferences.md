@@ -24,12 +24,10 @@ Role required: sn\_gf.goal\_admin
 
 1.  Navigate to **All** &gt; **Enterprise Goal Management** &gt; **Preferences**.
 
-2.  On the [[goal-preferences-form|Goal Preferences form]], configure the properties.
+2.  On the Goal Preferences form, configure the properties.
 
     For properties information, see [Goal Preferences form]().
 
 3.  Click **Save**.
 
-## Related
 
-- [[goal-preferences-form|Goal Preferences form]]

@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Risk Management, Reference, Risk Manageme
 
 # Roles installed with the GRC Risk Workspace
 
-The GRC: [[risk-workspace|Risk Workspace]] application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
+The GRC: Risk Workspace application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
 
 <table id="table_m2t_czq_mqb"><thead><tr><th>
 
@@ -34,10 +34,10 @@ Operational risk manager\(sn\_risk\_workspace.operational\_risk\_manager\)
 
 </td><td>
 
-Operational Risk Managers are a part of the operational risk team that manages the risk posture of the organization. They can do the following tasks:-   Perform [[risk-assessments|risk assessments]]
+Operational Risk Managers are a part of the operational risk team that manages the risk posture of the organization. They can do the following tasks:-   Perform risk assessments
 -   View risk events related data
 -   View the heatmaps for the risk assessments
--   [[create-feedback|Create feedback]] on records or fields in a record
+-   Create feedback on records or fields in a record
 -   Create, modify, and delete any risk assessment projects.
 
 **Note:** The Operational risk manager role is available only when both the Risk Workspace and Advanced Risk applications are installed.
@@ -92,8 +92,3 @@ Business operational risk managers are the first lines of defense for each indiv
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[risk-assessments|risk assessments]]
-- [[create-feedback|create feedback]]

@@ -27,13 +27,13 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This app must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
-After you have followed the instructions provided to you to download and activate the [[sgc-ad-integration|Service Graph Connector for Active Directory]] application, refer to [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) and [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md). There are a few steps you need to complete before you configure this integration.
+After you have followed the instructions provided to you to download and activate the Service Graph Connector for Active Directory application, refer to [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) and [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md). There are a few steps you need to complete before you configure this integration.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Active Directory** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Active Directory** &gt; **Setup**.
 
 2.  On the Welcome to Guided Setup Home page, select **Continue**.
 
@@ -124,7 +124,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] selected.
+Check box selected.
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Directory you want to search for example `DC=Ops`.
 
 </td></tr><tr><td>
 
-\(Optional\) [[mid-server-landing|MID Server]]
+\(Optional\) MID Server
 
 </td><td>
 
@@ -353,9 +353,4 @@ Dedicated MID Server for the connection.**Note:** A MID Server is not required f
 
 20. On the Home page for Guided Setup, select **Complete** to finish the configuration.
 
-## Related
 
-- [[sgc-ad-integration|Service Graph Connector for Active Directory]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]

@@ -31,7 +31,7 @@ View and complete the universal tasks that are assigned to you in the **To-Do** 
 \[Omitted image "ut-mobile-todo-complete.png"\] Alt text: Complete tasks.
 
 </td></tr></tbody>
-</table>Stay updated about any [[activity-lxp|activity]] on your universal tasks by finding the task details in the **Learn More** tab. You can add comments about your task or add pictures and documents as attachments in the **Updates** tab. You can even start a chat conversation with a virtual agent by using the \[Omitted image "icon-ut-mobile-top-menu.png"\] Alt text: Mobile top menu icon. icon.
+</table>Stay updated about any activity on your universal tasks by finding the task details in the **Learn More** tab. You can add comments about your task or add pictures and documents as attachments in the **Updates** tab. You can even start a chat conversation with a virtual agent by using the \[Omitted image "icon-ut-mobile-top-menu.png"\] Alt text: Mobile top menu icon. icon.
 
 <table id="table_i1p_5k4_z4b"><tbody><tr><td>
 
@@ -44,6 +44,3 @@ View and complete the universal tasks that are assigned to you in the **To-Do** 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/explore-universal-task.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

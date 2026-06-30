@@ -14,7 +14,7 @@ breadcrumb: [Configuring Embedded Help, Embedded Help, In-product help, Adoption
 
 # Add custom Embedded Help content
 
-You can create a new custom [[embedded-help|embedded help]] topic, for example, if you have a custom application and you want to provide help to users.
+You can create a new custom embedded help topic, for example, if you have a custom application and you want to provide help to users.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ When you write content for your users, keep the following limitations in mind.
 -   Any changes you make to embedded help are not automatically deployed to another instance.
 -   Changes to the embedded help table are not captured in update sets, update\_sync=false is set intentionally.
 
-**Note:** Embedded help records are also used to create content for the [[help-center|Help Center]] within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/create-help-center-content.md).
+**Note:** Embedded help records are also used to create content for the Help Center within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/create-help-center-content.md).
 
 ## Procedure
 
@@ -74,7 +74,7 @@ Modifier
 </td><td>
 
 Select the modifier, typically **Normal**.-   **Normal** content appears for any user with the appropriate role who navigates to the page.
--   **Setup** content appears when the page is accessed from a link in [[guided-setup|Guided Setup]].
+-   **Setup** content appears when the page is accessed from a link in Guided Setup.
 
 
 </td></tr><tr><td>
@@ -151,8 +151,3 @@ Specify the domain this content is used for, if applicable.This field appears in
 
 **Parent Topic:**[Configuring Embedded Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[help-center|Help Center]]
-- [[guided-setup|Guided Setup]]

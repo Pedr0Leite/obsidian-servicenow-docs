@@ -85,13 +85,10 @@ Badge Reader\[sn\_badge\_badge\_reader\]
 
 </td><td>
 
-Record used to configure badge reader [[dex-workspace-devices-tab|devices]].
+Record used to configure badge reader devices.
 
  Extends the Task table.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Badge Reader Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/activate-badge-reader-integration.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

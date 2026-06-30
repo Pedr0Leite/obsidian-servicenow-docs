@@ -22,11 +22,11 @@ Role required: timecard\_approver or timecard\_admin
 
 ## About this task
 
-You can view only those [[c_TimeCards|time cards]] that are submitted to you for approval or you have been delegated as the time card approver by one of the other user managers. The [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet-policy.md) assigned to the user governs the approval process.
+You can view only those time cards that are submitted to you for approval or you have been delegated as the time card approver by one of the other user managers. The [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet-policy.md) assigned to the user governs the approval process.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Time Cards** &gt; **Pending Approval**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Cards** &gt; **Pending Approval**.
 
 2.  Select the time card to approve or reject.
 
@@ -47,14 +47,9 @@ You can view only those [[c_TimeCards|time cards]] that are submitted to you for
 
 -   If a time card is in the Rejected state, the associated time sheet also moves to the Rejected state irrespective of the state of other time cards in the time sheet.
 
-    **Note:** If a time sheet is rejected, it gets listed in the [[notifications|notifications]] for the rejected time sheets under notifications icon \[Omitted image "NotificationIcon.png"\] Alt text: screenshot for notification icon on [Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/worker-portal.md).
+    **Note:** If a time sheet is rejected, it gets listed in the notifications for the rejected time sheets under notifications icon \[Omitted image "NotificationIcon.png"\] Alt text: screenshot for notification icon on [Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/worker-portal.md).
 
 -   If **Project time approver** is set to **Both** in the assigned time sheet policy, the time card is in the Submitted state only if both approvers approve it. If one of the approver rejects, the time card state is set to Rejected and the **Approved by** field is cleared, requiring approval of both approvers on resubmission.
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TimeCards.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[notifications|Notifications]]

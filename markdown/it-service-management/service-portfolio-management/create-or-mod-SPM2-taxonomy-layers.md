@@ -33,11 +33,11 @@ Always associated taxonomy layers with a parent service portfolio. Example layer
 -   Service Class
 -   Service Group
 
-If the [[SPM2-taxonomy|Service Portfolio Management Taxonomy]] Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md) for more details.
+If the Service Portfolio Management Taxonomy Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md) for more details.
 
 ## Procedure
 
-1.  Navigate to **[[SPM2-landing-page|Service Portfolio Management]]****Taxonomy Layer Definitions**.
+1.  Navigate to **Service Portfolio Management****Taxonomy Layer Definitions**.
 
 2.  Select **New**.
 
@@ -97,7 +97,3 @@ Brief detail about the taxonomy layer purpose.
 
 **Parent Topic:**[Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-taxonomy.md)
 
-## Related
-
-- [[SPM2-taxonomy|Service Portfolio Management taxonomy]]
-- [[SPM2-landing-page|Service Portfolio Management]]

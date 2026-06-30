@@ -52,7 +52,7 @@ The Overview tab includes the following sections:-   Project savings: Displays s
     -   Estimated spend: Populated from the corresponding field on the pipeline project.
     -   Targeted savings: Populated from the corresponding field on the pipeline project.
     -   Realized savings: Sum of Hard savings, Cost avoidance, and Other savings on the pipeline project.
--   Sourcing summary: Displays list views of sourcing requests, [[negotiation-events|sourcing events]], and [[contracts|contracts]] associated with the pipeline project.
+-   Sourcing summary: Displays list views of sourcing requests, sourcing events, and contracts associated with the pipeline project.
 
 </td></tr><tr><td>
 
@@ -68,11 +68,11 @@ Sourcing
 
 </td><td>
 
-Contains separate subtabs, each listing sourcing requests, sourcing events, and [[negotiations|negotiations]] associated with the pipeline.
+Contains separate subtabs, each listing sourcing requests, sourcing events, and negotiations associated with the pipeline.
 
 </td></tr><tr><td>
 
-[[purchase-lines|Purchase Lines]]
+Purchase Lines
 
 </td><td>
 
@@ -112,7 +112,7 @@ Add
 
 </td><td>
 
-Use this drop-down list to add existing objects to the pipeline project. Available options:-   Existing [[sourcing-request|sourcing request]]
+Use this drop-down list to add existing objects to the pipeline project. Available options:-   Existing sourcing request
 -   Existing sourcing event
 -   Existing contract
 
@@ -138,7 +138,7 @@ Use this drop-down list to create new objects for the pipeline project. Availabl
 
 [Savings opportunity fields]()
 
-[Purchase requisition, [[purchase-order-table|purchase order]], and sourcing request states]()
+[Purchase requisition, purchase order, and sourcing request states]()
 
 [SPO and ITAM data model mappings]()
 
@@ -146,11 +146,3 @@ Use this drop-down list to create new objects for the pipeline project. Availabl
 
 [Sourcing and Procurement Operations glossary]()
 
-## Related
-
-- [[negotiation-events|Sourcing events]]
-- [[contracts|Contracts]]
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]

@@ -14,9 +14,9 @@ breadcrumb: [Building a lifecycle event, Using Lifecycle Events, Lifecycle Event
 
 # Document the lifecycle event process
 
-Define and document the lifecycle event process. [[hr-lifecycle-events-landing-page-1|Lifecycle events]] are generally cross-departmental and require action from different departments.
+Define and document the lifecycle event process. Lifecycle events are generally cross-departmental and require action from different departments.
 
-It is thus critical that everyone agrees on the flow and their areas of responsibility. As you map out a lifecycle event, consider who is responsible for owning the [[activity-lxp|activity]], what the activity type is, and if there is a targeted audience for that activity.
+It is thus critical that everyone agrees on the flow and their areas of responsibility. As you map out a lifecycle event, consider who is responsible for owning the activity, what the activity type is, and if there is a targeted audience for that activity.
 
 ## Defining the lifecycle event
 
@@ -29,7 +29,7 @@ As you map out and define your lifecycle event, consider the following.
     -   What is the activity type? Is it a task for an employee or fulfiller? An approval or notification?
         -   Approvals
         -   Tasks for employees
-        -   Activities for fulfillers, which can be configured as order guides, catalog items, [[hr-service-administration|HR services]], HR tasks, incidents, and more
+        -   Activities for fulfillers, which can be configured as order guides, catalog items, HR services, HR tasks, incidents, and more
         -   Notifications
     -   Is there a targeted audience for the activity? Some activities are not required for all employees, and you can use audience records to target the activity to the appropriate user types.
 
@@ -45,8 +45,3 @@ New hire onboarding is a lifecycle event that is included as demo data with the 
 
 **Next topic:**[Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-supporting-components-for-lifecycle-event.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]

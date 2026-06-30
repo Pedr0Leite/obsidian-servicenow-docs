@@ -48,7 +48,7 @@ Depending on your ACL settings, some of these options might not be available eve
 </table>2.  Enter appropriate values in any of the fields and select **Update** to save your changes in all selected records.
 
 
-**Parent Topic:**[[r_MethodsForListEdits|Methods for list edits]]
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_MethodsForListEdits.md)
 
 **Related topics**  
 
@@ -57,6 +57,3 @@ Depending on your ACL settings, some of these options might not be available eve
 
 [Edit multiple records in a list using the list editor]()
 
-## Related
-
-- [[r_MethodsForListEdits|Methods for list edits]]

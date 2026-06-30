@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Crisis map, Manage, Business Continuity Ma
 
 # Set controls to customize the alerts
 
-Set controls in the [[threats-feeds-alerts-crisis-map|Crisis map interface]] in BCM UIB Workspace. You can then customize the alerts for assets, locations, and so on.
+Set controls in the Crisis map interface in BCM UIB Workspace. You can then customize the alerts for assets, locations, and so on.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  Select **Crisis map** in the [[list-view-uib-ws|list view]].
+2.  Select **Crisis map** in the list view.
 
     The Workspace view is divided into two sections: the alerts list and the map view.
 
@@ -41,10 +41,5 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 6.  Clear the map of all the search results with the **Reset** icon.
 
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[threats-feeds-alerts-crisis-map|Crisis map interface]]
-- [[list-view-uib-ws|List view]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Contract Management solutions
 
-Explore the differences between the different contract management solutions offered in ServiceNow - ITAM Contract Management, \(Deprecated\) [[legal-simple-contracts-landing-page|Legal Simple Contracts]], and [[cncore-cmpro-landing-page|Contract Management Pro]] \(CM Pro\)
+Explore the differences between the different contract management solutions offered in ServiceNow - ITAM Contract Management, \(Deprecated\) Legal Simple Contracts, and Contract Management Pro \(CM Pro\)
 
 This resource helps you review the strengths of each application and guide you in selecting the most suitable option for your organization’s contract management needs.
 
@@ -260,7 +260,7 @@ Create contract record
 
 </td></tr><tr><td>
 
-[[cncore-contract-workspace|Contract Workspace]]
+Contract Workspace
 
 </td><td>
 
@@ -464,7 +464,7 @@ Contract Metadata
 
 </td></tr><tr><td rowspan="2">
 
-[[cncore-obligation-management|Obligation Management]]
+Obligation Management
 
 </td><td>
 
@@ -548,7 +548,7 @@ You can migrate your data from Legal Simple Contracts to Contract Management Pro
 
 For more information on migration, see [Migrating to Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-landing-page.md).
 
-**Important:** The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]].
+**Important:** The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to Contract Management Pro for Legal Service Delivery.
 
 Contract Management Pro for Legal Service Delivery is a licensed application that must be installed separately.
 
@@ -585,10 +585,3 @@ Contract Management Pro for Legal Service Delivery is a licensed application tha
 
 [Contract Management Pro glossary]()
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]

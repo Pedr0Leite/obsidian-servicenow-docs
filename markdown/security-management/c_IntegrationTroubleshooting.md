@@ -14,10 +14,10 @@ breadcrumb: [ServiceNow Security Operations integration development guidelines, 
 
 These troubleshooting suggestions can help you resolve common issues you can encounter when setting up or running integrations.
 
--   **[[t_Import3rdPartySSLCert|Replace an untrusted or expired third-party SSL certificate]]**  
+-   **[Replace an untrusted or expired third-party SSL certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/t_Import3rdPartySSLCert.md)**  
 When an SSL connection is required in an integration, there are circumstances when the certificate provided by the third-party vendor is either not yet trusted in ServiceNow or has expired. You can replace it or add a new certificate.
 
-**Parent Topic:**[[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
@@ -28,7 +28,3 @@ When an SSL connection is required in an integration, there are circumstances wh
 
 [Tips for writing integrations]()
 
-## Related
-
-- [[t_Import3rdPartySSLCert|Replace an untrusted or expired third-party SSL certificate]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]

@@ -28,7 +28,7 @@ By default, content that you copy in the mobile app remains on your device's cli
 -   iOS, Android, and third-party keyboards might allow pasting, sharing, or viewing clipboard history even when this property is set.
 -   Content that is opened in an external browser is not part of a ServiceNow mobile app although it may appear to be on Android devices depending on the configuration. The clipboard is cleared when a user moves to an external browser. This means that users are able to copy data from the external browser to elsewhere on their phone.
 
-In summary, setting this property discourages moving data out of the ServiceNow mobile apps, but does not prevent it. For a robust security solution, use a Mobile Application Management \(MAM\)/Mobile Device Management \(MDM\) with your mobile apps. For more information, see [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]].
+In summary, setting this property discourages moving data out of the ServiceNow mobile apps, but does not prevent it. For a robust security solution, use a Mobile Application Management \(MAM\)/Mobile Device Management \(MDM\) with your mobile apps. For more information, see [Enterprise mobility management \(EMM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enterprise-mobility-management.md).
 
 ## Procedure
 
@@ -45,9 +45,5 @@ In summary, setting this property discourages moving data out of the ServiceNow 
     |Value|true|
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]
-- [[additional-mobile-configuration|Mobile system property configurations]]

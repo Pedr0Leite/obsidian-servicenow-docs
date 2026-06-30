@@ -14,9 +14,9 @@ breadcrumb: [Configure, Source-to-Pay integration with Oracle EBS, Integration w
 
 # ERP source configuration for Oracle EBS
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 
-[[erp-source-configuration|ERP source configuration]] enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct [[erp-source|ERP source]] entries with their corresponding service mappings.
+ERP source configuration enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct ERP source entries with their corresponding service mappings.
 
 To meet specific requirements, you can modify the service-mapping logic by updating the relevant service element map entry within the service map record. For organizations using multiple ERP systems, an ERP Source field has been incorporated into the tables to ensure accurate identification of the respective integrated ERP system.
 
@@ -53,7 +53,7 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 
         Set up subflows for the source configuration to lookup product models from Oracle EBS.
 
-    -   **[[payment-terms|Payment Terms]]**
+    -   **Payment Terms**
 
         Set up subflows for the source configuration to lookup payment terms from Oracle EBS.
 
@@ -93,14 +93,14 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 
         Set up subflows for the source configuration to lookup legal entities or company code details from Oracle EBS.
 
-    -   **[[invoices|Invoices]]**
+    -   **Invoices**
 
         Set up subflows for the source configuration to lookup invoices from Oracle EBS.
 
     \[Omitted image "oracle-ebs-source-config.png"\] Alt text: ERP Source Configuration of Oracle EBS
 
 6.  Configure a scheduled job to synchronize primary data updates from Oracle EBS.
-7.  Set up the interval in the lookup [[cost-center|Cost Center]] scheduled job to periodically synchronize primary data updates from the ERP, for posting services to work.
+7.  Set up the interval in the lookup Cost Center scheduled job to periodically synchronize primary data updates from the ERP, for posting services to work.
 
     **Note:** Similarly, you can configure schedule jobs for the other integrations services.
 
@@ -127,11 +127,3 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 
 [Scheduled jobs to look up primary data in Oracle EBS]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[payment-terms|Payment terms]]
-- [[invoices|Invoices]]
-- [[cost-center|Cost center]]

@@ -13,7 +13,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Associate an existing case with an email interaction
 
-Avoid duplicate case creation by associating an existing case with an [[email-as-an-interaction|email interaction]].
+Avoid duplicate case creation by associating an existing case with an email interaction.
 
 \[Omitted video\] Description: Associate an existing case with an email interaction
 
@@ -52,6 +52,3 @@ The interaction must be in a closed complete state before it can be linked to an
 
 The email interaction has been linked to an existing case and displays in the Related Tasks section.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

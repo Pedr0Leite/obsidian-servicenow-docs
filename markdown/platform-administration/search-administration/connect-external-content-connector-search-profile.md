@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Connect an external content connector to a search profile
 
-Make [[hs-results|results]] from an external content connector searchable in your portals and search applications by connecting its search sources to your existing search profiles.
+Make results from an external content connector searchable in your portals and search applications by connecting its search sources to your existing search profiles.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Linking an external content connector's search source to a search profile makes 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the external content connector with results that you want to make searchable using one or more search profiles.
 
@@ -58,7 +58,3 @@ For each connection you created, content from the selected external content conn
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

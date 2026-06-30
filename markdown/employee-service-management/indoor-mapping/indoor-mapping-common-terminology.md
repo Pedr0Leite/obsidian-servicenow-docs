@@ -14,7 +14,7 @@ breadcrumb: [Reference, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Indoor Mapping terminology
 
-Key terms used in [[Indoor-mapping|Indoor Mapping]].
+Key terms used in Indoor Mapping.
 
 <table id="table_dxg_jqf_1tb"><thead><tr><th>
 
@@ -321,6 +321,3 @@ Defines at which Zoom levels certain elements will be displayed or at which Zoom
 
 **Next topic:**[Snapshot Impacted tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/snapshot-ind-mapping-tables.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

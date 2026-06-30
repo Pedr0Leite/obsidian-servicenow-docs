@@ -79,7 +79,7 @@ Image
 
 </td><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] field pointing to the db\_image table, which stores system-managed images.
+Reference field pointing to the db\_image table, which stores system-managed images.
 
 </td></tr><tr><td>
 
@@ -134,6 +134,3 @@ Active is checked by default for new instances and applies to the portals in the
 </td></tr></tbody>
 </table>**Parent Topic:**[Contractor Service Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

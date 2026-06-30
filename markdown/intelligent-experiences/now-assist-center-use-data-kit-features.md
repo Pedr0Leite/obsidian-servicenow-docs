@@ -13,19 +13,19 @@ breadcrumb: [Using other Now Assist applications from Now Assist Center, Use, No
 
 # Use Now Assist Data Kit features in Now Assist Center
 
-Use [[now-assist-data-kit-landing|Now Assist Data Kit]] on the data page in the [[now-assist-center-workspace|Now Assist Center workspace]].
+Use Now Assist Data Kit on the data page in the Now Assist Center workspace.
 
 ## Before you begin
 
 The following applications must be installed before performing this task:
 
--   [[now-assist-center-landing-page|Now Assist Center]].
+-   Now Assist Center.
 
-    For more information, see [[now-assist-center-install|Confirm installation of Now Assist Center]].
+    For more information, see [Confirm installation of Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-install.md).
 
 -   Now Assist Data Kit.
 
-    For more information, see [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]].
+    For more information, see [Install and configure essential Now Assist plugins using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-configure-essential-now-assist-plugins.md).
 
 
 Role required: sn\_na\_center.nac\_admin
@@ -34,7 +34,7 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to use Now Assist Data Kit capabilities from Now Assist Center.
 
-Now Assist Data Kit enables you to add custom [[ai-datasets|datasets]] to a data catalog and create collections for use in ServiceNow SDK. The curated data works with ServiceNow SDK to enable the AI skill development and evaluation.
+Now Assist Data Kit enables you to add custom datasets to a data catalog and create collections for use in ServiceNow SDK. The curated data works with ServiceNow SDK to enable the AI skill development and evaluation.
 
 In Now Assist Center, the integration of Now Assist Data Kit includes multi-tabbing support for working with datasets without leaving the application context.
 
@@ -42,9 +42,9 @@ In Now Assist Center, the integration of Now Assist Data Kit includes multi-tabb
 
 1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Data** \(\[Omitted image "icon-now-assist-center-nav-data.png"\] Alt text: Data icon. \) in the [[now-assist-center-side-navigation-bar|side navigation bar]].
+2.  Select **Data** \(\[Omitted image "icon-now-assist-center-nav-data.png"\] Alt text: Data icon. \) in the side navigation bar.
 
-    The Data tab opens showing the Now Assist Data Kit [[now-assist-center-home-page|home page]].
+    The Data tab opens showing the Now Assist Data Kit home page.
 
     \[Omitted image "now-assist-center-data-kit-home.png"\] Alt text: Data page in Now Assist Center.
 
@@ -55,16 +55,5 @@ In Now Assist Center, the integration of Now Assist Data Kit includes multi-tabb
     For more information on Now Assist Data Kit, see [Now Assist Data Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/now-assist-data-kit-landing.md).
 
 
-**Parent Topic:**[[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md)
 
-## Related
-
-- [[now-assist-center-install|Confirm installation of Now Assist Center]]
-- [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]]
-- [[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]
-- [[now-assist-center-home-page|Home page]]

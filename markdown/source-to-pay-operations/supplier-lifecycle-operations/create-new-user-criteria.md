@@ -42,7 +42,7 @@ Name
 
 </td><td>
 
-Unique name of the user criteria. For example, [[supplier|Supplier]] managers
+Unique name of the user criteria. For example, Supplier managers
 
 </td></tr><tr><td>
 
@@ -184,6 +184,3 @@ With **Match All** selected, only users that meet all of these conditions are ma
 
 **Parent Topic:**[Configure user criteria for reassigning assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-user-criteria-for-reassigning-assessments.md)
 
-## Related
-
-- [[supplier|Supplier]]

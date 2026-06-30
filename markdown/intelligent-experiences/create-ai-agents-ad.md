@@ -13,11 +13,11 @@ breadcrumb: [AI Desktop Actions, Enable AI experiences]
 
 # Creating AI agents for AI Desktop Actions
 
-Create an AI agent in [[ai-agent-studio|AI Agent Studio]] to mimic human-like intelligence while executing desktop actions for repetitive tasks in web and desktop environment.
+Create an AI agent in AI Agent Studio to mimic human-like intelligence while executing desktop actions for repetitive tasks in web and desktop environment.
 
 ## Overview of AI agents for AI Desktop Actions
 
-In the ServiceNow agentic ecosystem, an AI agent is a set of large language model \(LLM\) instructions and tools that can perform specific tasks. The [[na-ai-agents|Now Assist AI agents]] can perform specific tasks and functions, often using natural language instead of traditional code. For more information, see [[configure-next-best-action-agent|Create an AI agent]].
+In the ServiceNow agentic ecosystem, an AI agent is a set of large language model \(LLM\) instructions and tools that can perform specific tasks. The Now Assist AI agents can perform specific tasks and functions, often using natural language instead of traditional code. For more information, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 AI agents process instructions, generate execution plans, and run desktop actions autonomously and semi-autonomously across legacy systems, thick client applications, and web applications lacking APIs or backend integrations. AI agents can interpret your goal and map them to one or more desktop actions via metadata \(capabilities, inputs, and outputs\).
 
@@ -28,9 +28,9 @@ Use AI agents to do the following tasks for your organization:
 -   Process human input during task execution when required
 -   Collaborate with users to resolve issues that require human judgment
 
-For adaptive desktop actions, an AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install [[agentic-desktop-landing-page|AI Desktop Actions]].
+For adaptive desktop actions, an AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install AI Desktop Actions.
 
-1.  [[define-specialty|Define the specialty of an AI agent]]
+1.  [Define the specialty of an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-specialty.md)
 
     Write a clear name and description of the AI agent, define role, and list of steps this AI agent must complete, define supported LLMs, enable third-party access, and manage long-term memory. The LLM analyzes the specific wording that you use to understand the specialty of this AI agent.
 
@@ -38,43 +38,27 @@ For adaptive desktop actions, an AI agent named **Web Automation Agent** and age
 
     Add a desktop action as a tool to the AI agent to enable desktop and web automations. Tools provide your AI agents with the capabilities necessary to complete their tasks. Providing your AI agents with the appropriate tools help with the robustness and quality of their performance. An AI agent selects a tool based on the tool’s name and description, which must be clearly written.
 
-    -   [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
-    -   [[create-web-actions|Add an adaptive desktop action tool to an AI agent for web-based tasks]]
-3.  [[define-sec-controls-aia|Define security controls for an AI agent]]
+    -   [Add a defined desktop action tool to an AI agent for desktop and web-based task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-desktop-action-ai-agent.md)
+    -   [Add an adaptive desktop action tool to an AI agent for web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-web-actions.md)
+3.  [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md)
 
-    Define security [[controls|controls]] for who can access the AI agent and what data the AI agent has access to. The Define security controls step is divided into two parts:
+    Define security controls for who can access the AI agent and what data the AI agent has access to. The Define security controls step is divided into two parts:
 
     -   **Define user access**: Creates an ACL that determines which users can discover or invoke the AI agent.
     -   **Define data access**: Defines the data that the AI agent has access to once it’s invoked.
     Trigger conditions are not supported for AI agents that execute desktop actions. You must manually trigger these agents from the system where the AI Desktop Actions application is installed.
 
-4.  [[channels-access-aia|Select channels and status for an AI agent]]
+4.  [Select channels and status for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md)
 
-    Activate the AI agent to use in an assistant in [[platform-now-assist-landing|Now Assist]] for Virtual Agent and set the processing message. This AI agent can engage with users who initiate an interaction when it’s available for use in channels. Select channels where you want this AI agent to be available to engage with users.
+    Activate the AI agent to use in an assistant in Now Assist for Virtual Agent and set the processing message. This AI agent can engage with users who initiate an interaction when it’s available for use in channels. Select channels where you want this AI agent to be available to engage with users.
 
 
 **Related topics**  
 
 
-[[desktop-actions|Defined desktop actions for desktop and web-based tasks]]
+[Defined desktop actions for desktop and web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions.md)
 
-[[web-agents-overview|Adaptive desktop actions for web-based tasks]]
+[Adaptive desktop actions for web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/web-agents-overview.md)
 
-[[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
+[Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md)
 
-## Related
-
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[define-specialty|Define the specialty of an AI agent]]
-- [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
-- [[create-web-actions|Add an adaptive desktop action tool to an AI agent for web-based tasks]]
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[channels-access-aia|Select channels and status for an AI agent]]
-- [[desktop-actions|Defined desktop actions for desktop and web-based tasks]]
-- [[web-agents-overview|Adaptive desktop actions for web-based tasks]]
-- [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[controls|Controls]]
-- [[platform-now-assist-landing|Now Assist]]

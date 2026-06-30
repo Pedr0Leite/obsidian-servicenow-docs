@@ -14,7 +14,7 @@ breadcrumb: [Potential Relationships, TISC Library Repository, Threat Intelligen
 
 # Confirm observable-observable potential relationship
 
-Use this section to confirm the [[stix-relationships|relationships]] between the [[c_Observables|observables]].
+Use this section to confirm the relationships between the observables.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[potential-relationships|Potential Relationships]]** &gt; **Observable-Observable**.
+3.  Go to **Potential Relationships** &gt; **Observable-Observable**.
 
 4.  Select the observable\(s\) record.
 
@@ -53,9 +53,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[Potential Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[potential-relationships|Potential Relationships]]

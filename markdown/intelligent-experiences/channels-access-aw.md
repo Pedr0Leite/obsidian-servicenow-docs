@@ -12,7 +12,7 @@ breadcrumb: [Create an agentic workflow, Now Assist AI agents, Enable AI experie
 
 # Select channels and access for an agentic workflow
 
-In the guided setup for an agentic workflow, activate the agentic workflow to use in the [[now-assist-center-now-assist-panel|Now Assist panel]] or UI actions in the Core UI and workspaces.
+In the guided setup for an agentic workflow, activate the agentic workflow to use in the Now Assist panel or UI actions in the Core UI and workspaces.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The final step of the agentic workflow guided setup includes options for where a
 
     3.  Select a table where the UI action can be used.
 
-        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [[in-product-agentic-ai|In-product agentic AI]] for more information about the AI Workflows panel.
+        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [In-product agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md) for more information about the AI Workflows panel.
 
     4.  Specify conditions for the UI action to appear and select **Add**.
 
@@ -51,18 +51,11 @@ The final step of the agentic workflow guided setup includes options for where a
 
 ## Result
 
-You have completed the guided setup for creating an agentic workflow. Your new agentic workflow can be edited at any time using [[ai-agent-studio|AI Agent Studio]].
+You have completed the guided setup for creating an agentic workflow. Your new agentic workflow can be edited at any time using AI Agent Studio.
 
 If you added a UI action for your agentic workflow in this guided setup, but the UI action is not appearing on forms, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`.
 
 ## What to do next
 
-Move to the **Testing** playground to [[test-aia-use-case|test an agentic workflow execution]] using example utterances or to [[test-aw-access|test user access]].
+Move to the **Testing** playground to [test an agentic workflow execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md) using example utterances or to [test user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md).
 
-## Related
-
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[test-aw-access|Test user access to an agentic workflow]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-agent-studio|AI Agent Studio]]

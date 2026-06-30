@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for Financial Services Operations
 
-Using the [[process-mining|Process Mining]] content pack with Financial Services Operations \(FSO\) enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with FSO cases.
+Using the Process Mining content pack with Financial Services Operations \(FSO\) enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with FSO cases.
 
 **Important:** Starting with the Vancouver release, the Process Optimization application has been renamed to Process Mining.
 
@@ -101,6 +101,3 @@ You can analyze the case process flow and suggest ways to improve the processes 
 
 [Content pack for Financial Services Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-fso-process-opt.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

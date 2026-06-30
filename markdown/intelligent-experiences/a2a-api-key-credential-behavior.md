@@ -12,7 +12,7 @@ breadcrumb: [Create an external agent, Create an AI agent, Now Assist AI agents,
 
 # A2A API Key credential behavior
 
-Starting in [[na-ai-agents|Now Assist AI Agents]] 7.1.x, the header included in each A2A request is driven by the API Key credential record and it is not injected automatically by the flow action.
+Starting in Now Assist AI Agents 7.1.x, the header included in each A2A request is driven by the API Key credential record and it is not injected automatically by the flow action.
 
 Starting in Now Assist AI Agents 7.1.x, A2A flow actions no longer inject an `Authorization: Bearer` header automatically. The header included in each request is now driven entirely by the API Key credential record bound to the external agent's Connection &amp; Credential Alias.
 
@@ -38,9 +38,5 @@ The wizard creates a working API Key credential record for most A2A endpoints. O
 -   Custom header name \(for example, `x-api-key`\): Set the **API Key Header** \(`api_key_header_name`\) field to the header name the endpoint expects.
 -   Scheme prefix on the value \(for example, `Bearer` for Google A2A\): Include the prefix directly in the **API Key** field value — for example, `Bearer <your-key>`. Don't use the **API Key Prefix** field; it is not applied by the A2A flow action.
 
-**Parent Topic:**[[create-external-aia|Create an external AI agent]]
+**Parent Topic:**[Create an external AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-external-aia.md)
 
-## Related
-
-- [[create-external-aia|Create an external AI agent]]
-- [[na-ai-agents|Now Assist AI agents]]

@@ -14,7 +14,7 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Hyper-V discovery
 
-The ServiceNow [[r-discovery|Discovery]] application finds Microsoft Hyper-V hypervisors in your environment.
+The ServiceNow Discovery application finds Microsoft Hyper-V hypervisors in your environment.
 
 Hyper-V is a hypervisor developed by Microsoft that enables you to create and manage virtual machines \(VMs\) on a physical server or computer. It enables hardware virtualization, enabling multiple virtual machines to run on a single physical machine while sharing the underlying hardware resources, such as CPU, memory, storage, and networking.
 
@@ -199,7 +199,7 @@ Hyper-V Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -516,7 +516,4 @@ When importing \(cloning\) Hyper-V virtual machines, make sure each virtual mach
 
     When Discovery encounters two virtual machines with the same equivalent serial numbers, it creates only one configuration item \(CI\).
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

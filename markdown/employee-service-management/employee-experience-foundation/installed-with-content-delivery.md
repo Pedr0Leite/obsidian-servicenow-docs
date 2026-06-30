@@ -24,7 +24,7 @@ Demo data is available for this feature.
 
 ## Roles installed
 
-The following roles are included when you [[activate-ec|install Employee Center]] application \(sn\_ex\_sp\):
+The following roles are included when you install Employee Center application \(sn\_ex\_sp\):
 
 <table id="table_qyy_dv2_sqb"><thead><tr><th>
 
@@ -48,9 +48,9 @@ Grants access to all Content Publishing information and privileges.Can access re
 
  Can add or edit content type.
 
- Can create or edit [[ec-content-templates|Content templates]].
+ Can create or edit Content templates.
 
-Can schedule content for the service portal or [[employee-center-landing-page|Employee Center]].
+Can schedule content for the service portal or Employee Center.
 
 </td><td>
 
@@ -87,7 +87,7 @@ Template Manager \[sn\_cd.content\_template\_owner\]
 
 </td><td>
 
-Can create and view content templates for [[ec-news-articles|news articles]].
+Can create and view content templates for news articles.
 
 </td><td>
 
@@ -230,7 +230,7 @@ Content posted to a topic or forum in a community. Community content can be:-   
 
 </td></tr><tr><td>
 
-[[ec-to-do-content|To-do Content]] \[sn\_cd\_content\_todo\]
+To-do Content \[sn\_cd\_content\_todo\]
 
 </td><td>
 
@@ -248,7 +248,7 @@ Content Task \[sn\_cd\_task\]
 
 </td><td>
 
-Extends the HR task \[sn\_hr\_core\_task\] table and where you [[create-applicant-tasks|create tasks]] for the Employee Center to-dos.
+Extends the HR task \[sn\_hr\_core\_task\] table and where you create tasks for the Employee Center to-dos.
 
 </td></tr><tr><td>
 
@@ -268,7 +268,7 @@ Controls when users display on the Org Chart page and HRI My Team widget in the 
 
 </td></tr><tr><td>
 
-[[ec-company-events|Company events]] \[sn\_cd\_event\]
+Company events \[sn\_cd\_event\]
 
 </td><td>
 
@@ -292,7 +292,7 @@ Company news and announcements published to the portal via widgets.
 
 </td></tr><tr><td>
 
-[[ec-notification-content|Notification Content]] \[sn\_cd\_content\_notification\]
+Notification Content \[sn\_cd\_content\_notification\]
 
 </td><td>
 
@@ -300,7 +300,7 @@ Defines an email blast announcing important news and links directing the user to
 
 </td></tr><tr><td>
 
-[[ec-streamline-content|Portal Content]] \[sn\_cd\_content\_portal\]
+Portal Content \[sn\_cd\_content\_portal\]
 
 </td><td>
 
@@ -508,7 +508,7 @@ Shows an organization chart of an employee.
 
 </td></tr><tr><td>
 
-Preview [[ec-mobile-content|Mobile Content]] \(CD\)
+Preview Mobile Content \(CD\)
 
 </td><td>
 
@@ -532,7 +532,7 @@ Shows a preview of to-do content.
 
 </td></tr><tr><td>
 
-[[emp-center-quick-link-config|Quick Links]] \(CD\)
+Quick Links \(CD\)
 
 </td><td>
 
@@ -652,16 +652,3 @@ Shows portal content with content type of Banner. Generally used to show informa
 
 [To-do content form]()
 
-## Related
-
-- [[activate-ec|Install Employee Center]]
-- [[ec-content-templates|Content templates]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-news-articles|News articles]]
-- [[ec-to-do-content|To-do content]]
-- [[create-applicant-tasks|Create tasks]]
-- [[ec-company-events|Company events]]
-- [[ec-notification-content|Notification content]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-mobile-content|Mobile content]]
-- [[emp-center-quick-link-config|Quick links]]

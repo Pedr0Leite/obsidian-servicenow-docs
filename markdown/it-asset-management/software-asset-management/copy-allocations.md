@@ -36,7 +36,7 @@ Role required: sam\_admin or sam\_user.
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Software entitlements**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Software entitlements**.
 
 2.  Open the target entitlement in which you want to copy the user or device allocations.
 
@@ -68,6 +68,3 @@ Role required: sam\_admin or sam\_user.
 
 [Create device allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-device-allocation.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

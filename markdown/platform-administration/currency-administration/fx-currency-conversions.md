@@ -16,16 +16,16 @@ breadcrumb: [FX Currency fields, Explore, Currency administration, Configure cor
 
 You can use existing system currency rates or define a custom conversion rate table for use in FX Currency processing.
 
-A currency conversion rate represents the conversion factor for exchanging one currency for another. The conversion rate is used when converting a currency value, expressed in one currency, to another currency. Conversions can occur for storage \(for example, conversion to a [[reference-email-admin|reference]] currency\) or for display \(for example, conversion to a session currency\).
+A currency conversion rate represents the conversion factor for exchanging one currency for another. The conversion rate is used when converting a currency value, expressed in one currency, to another currency. Conversions can occur for storage \(for example, conversion to a reference currency\) or for display \(for example, conversion to a session currency\).
 
 ## When conversions occur
 
-[[fx-currency|FX Currency fields]] expose the values inside the Currency Instance \[fx\_currency2\_instance\] record as dot walkable fields. You can access to all data held in an FX Currency field without any transformations. Conversions can happen in these situations:
+FX Currency fields expose the values inside the Currency Instance \[fx\_currency2\_instance\] record as dot walkable fields. You can access to all data held in an FX Currency field without any transformations. Conversions can happen in these situations:
 
 1.  Calculation of a reference value, calculated when you enter a currency value, whether on insert or update. The reference currency value is saved as well as the currency value as entered. Once this calculation takes place, the reference value is not recalculated.
 2.  Calculation of the session display value returned from getDisplayValue\(\), which performs conversions to the required currency.
 
-    The conversion rate is based on the settings of the **Conversion Rate Table** and **Conversion Date Source** fields in **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration.**
+    The conversion rate is based on the settings of the **Conversion Rate Table** and **Conversion Date Source** fields in **System Localization** &gt; **FX Currency Configuration.**
 
     **Note:** To learn more about these settings, see [Specify the rate table and date source for currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-conv-rate-table-date-source.md).
 
@@ -39,8 +39,3 @@ FX Currency conversion rates are stored in the following ways:
 
 **Parent Topic:**[FX Currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[fx-currency|FX Currency fields]]
-- [[system-localization-landing|System Localization]]

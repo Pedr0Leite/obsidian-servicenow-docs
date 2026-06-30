@@ -28,7 +28,7 @@ Add all the assets that are involved in an incident.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Click the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\) and navigate to the **Lists** tab.
 
@@ -38,7 +38,7 @@ Add all the assets that are involved in an incident.
 
     The incident playbook opens.
 
-5.  Navigate to the **Add assets** stage and then **Add assets involved** [[activity-lxp|activity]].
+5.  Navigate to the **Add assets** stage and then **Add assets involved** activity.
 
 6.  In the Add asset involved section, fill in the fields.
 
@@ -63,8 +63,3 @@ Add a root cause analysis to perform root cause analysis for this incident.
 
 **Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

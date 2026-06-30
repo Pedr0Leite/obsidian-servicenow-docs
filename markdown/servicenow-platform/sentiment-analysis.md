@@ -20,7 +20,7 @@ For a survey, you can select questions that should be used for analysis. The sur
 
 **Note:** You can only use string type questions for sentiment analysis.
 
-The sentiment analysis results are displayed under **Survey** &gt; **Question Sentiment Results**. The sentiment [[label|label]] is based on the normalized score:
+The sentiment analysis results are displayed under **Survey** &gt; **Question Sentiment Results**. The sentiment label is based on the normalized score:
 
 |Normalized score|Sentiment label|
 |----------------|---------------|
@@ -98,14 +98,14 @@ This formula ensures:
 
 Since the three confidence scores always sum to 1, this formula generates a consistent value in the range of -1 to 1, representing the full mix of sentiment information from the Azure API.
 
--   **[[configure-sentiment-connector|Configure a sentiment connector]]**  
+-   **[Configure a sentiment connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-sentiment-connector.md)**  
 Specify the service URL and other configuration information for third party APIs that are used for sentiment analysis.
--   **[[sentiment-analysis-properties|Sentiment analysis property]]**  
+-   **[Sentiment analysis property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis-properties.md)**  
 You can use the sentiment analysis property to customize the **Sentiment Analysis** module.
--   **[[sentiment-analysis-results|Sentiment analysis results]]**  
+-   **[Sentiment analysis results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis-results.md)**  
 The sentiment analysis results view contains a bar chart that displays the percentage of positive, negative, and neutral results, along with the instance count for each category.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -126,7 +126,7 @@ The sentiment analysis results view contains a bar chart that displays the perce
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -142,11 +142,3 @@ The sentiment analysis results view contains a bar chart that displays the perce
 
 [Legacy survey migration]()
 
-## Related
-
-- [[configure-sentiment-connector|Configure a sentiment connector]]
-- [[sentiment-analysis-properties|Sentiment analysis property]]
-- [[sentiment-analysis-results|Sentiment analysis results]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[label|Label]]
-- [[c_SurveyDesigner|Survey designer]]

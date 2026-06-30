@@ -14,21 +14,21 @@ breadcrumb: [AI Search analytics dashboard, Advanced AI Search Management Tools,
 
 # Customize the banner logo for the AI Search Analytics dashboard
 
-Add your own logo to the banner for the [[ai-search-analytics-dashboard|AI Search Analytics dashboard]].
+Add your own logo to the banner for the AI Search Analytics dashboard.
 
 ## Before you begin
 
-The [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]] must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
+The Platform Analytics Solution for Advanced AI Search Management Tools must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
 
 Role required: admin
 
 ## About this task
 
-The AI Search Analytics dashboard displays the ServiceNow logo in the banner. You can modify the UX theme [[ia-assets|assets]] for the dashboard to display your own logo instead.
+The AI Search Analytics dashboard displays the ServiceNow logo in the banner. You can modify the UX theme assets for the dashboard to display your own logo instead.
 
 ## Procedure
 
-1.  Switch to the Advanced [[ia-ai-search|AI Search]] Management Tools application.
+1.  Switch to the Advanced AI Search Management Tools application.
 
     For details on switching applications, see Switch between applications.
 
@@ -65,7 +65,7 @@ The AI Search Analytics dashboard displays the ServiceNow logo in the banner. Yo
 
     4.  In the UX Theme Assets list, edit the existing asset record.
 
-        **Note:** If you don't see the UX Theme Assets list, configure the form layout, adding **UX Theme Assets-&gt;Theme** to the list of selected fields. When prompted, switch to editing the form section in the Global application. For details on this procedure, see [[configure-form-layout|Configuring the form layout]].
+        **Note:** If you don't see the UX Theme Assets list, configure the form layout, adding **UX Theme Assets-&gt;Theme** to the list of selected fields. When prompted, switch to editing the form section in the Global application. For details on this procedure, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
     5.  On the UX Theme Assets form, in the **Asset** field, enter the value `header_for_dashboard`.
 
@@ -76,10 +76,3 @@ The AI Search Analytics dashboard displays the ServiceNow logo in the banner. Yo
 
 Your custom logo image appears in the banner for the AI Search Analytics dashboard.
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[ai-search-analytics-dashboard|AI Search analytics dashboard]]
-- [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]]
-- [[ia-assets|Assets]]
-- [[ia-ai-search|AI Search]]

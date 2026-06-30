@@ -14,9 +14,9 @@ breadcrumb: [Configure, Industrial Workspace, Operational Technology]
 
 # Setting up the Operational Technology Visibility dashboard
 
-Complete the Guided Setup tasks so that you can start setting up the [[operational-technology-overview|Operational Technology]] \(OT\) Visibility dashboard with the data collections, indicator resources, and filters for your organization.
+Complete the Guided Setup tasks so that you can start setting up the Operational Technology \(OT\) Visibility dashboard with the data collections, indicator resources, and filters for your organization.
 
-To access the Guided Setup for the OT Visibility dashboard, navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup** and select the [[ot-manager-dashboard|Operational Technology Visibility Dashboard]] section under [[operational-technology-manager|Operational Technology Manager]].
+To access the Guided Setup for the OT Visibility dashboard, navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** and select the Operational Technology Visibility Dashboard section under Operational Technology Manager.
 
 For more information about the OT Visibility dashboard and its contents, see [Operational Technology Visibility dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-manager-dashboard.md).
 
@@ -34,9 +34,3 @@ Review the indicator sources if you need a large number of records. You can over
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[ot-manager-dashboard|Operational Technology Visibility dashboard]]
-- [[operational-technology-manager|Operational Technology Manager]]

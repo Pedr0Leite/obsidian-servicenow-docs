@@ -18,7 +18,7 @@ You can optionally customize the default values of the sn\_ecovadis.token\_uri a
 
 ## Before you begin
 
-[[tprm-config-connection-ecovadis|Create an EcoVadis connection and configuration]]. For more information, see [Create an EcoVadis connection and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-config-connection-ecovadis.md).
+Create an EcoVadis connection and configuration. For more information, see [Create an EcoVadis connection and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-config-connection-ecovadis.md).
 
 Role required: admin
 
@@ -42,6 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-integrating-ecovadis.md)
 
-## Related
-
-- [[tprm-config-connection-ecovadis|Create an EcoVadis connection and configuration]]

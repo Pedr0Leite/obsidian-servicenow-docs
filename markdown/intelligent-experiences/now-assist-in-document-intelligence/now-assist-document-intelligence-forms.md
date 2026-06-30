@@ -15,21 +15,21 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Now Assist in Document Intelligence forms
 
-Use forms to view and update [[docintel-nowassist-landing|Now Assist in Document Intelligence]] information.
+Use forms to view and update Now Assist in Document Intelligence information.
 
 -   **[Question form for use case setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-qna-single-field-form.md)**  
 The Question form enables you to define a question you want to ask about the document.
 -   **[Field form for use case setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-extraction-single-field-form.md)**  
 The Field form enables you to define a single field for extraction.
 -   **[Table form for use case setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-extraction-table-form.md)**  
-The [[table-form|Table form]] enables you to define a table for extraction.
+The Table form enables you to define a table for extraction.
 
 **Parent Topic:**[Now Assist in Document Intelligence reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-in-document-intelligence-reference.md)
 
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] in Document Intelligence]()
+[Components installed with Now Assist in Document Intelligence]()
 
 [Data extraction modes in Now Assist in Document Intelligence]()
 
@@ -45,8 +45,3 @@ The [[table-form|Table form]] enables you to define a table for extraction.
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[table-form|Table form]]
-- [[platform-now-assist-landing|Now Assist]]

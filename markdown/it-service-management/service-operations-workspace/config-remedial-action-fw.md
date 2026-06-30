@@ -14,7 +14,7 @@ breadcrumb: [Setting up Investigation Framework in Service Operations Workspace,
 
 # Configure the Remedial Actions Framework
 
-Configure the Remedial Actions Framework to add a new [[remedial-action|remedial action]] or modify an existing one.
+Configure the Remedial Actions Framework to add a new remedial action or modify an existing one.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_reacf.sn\_remedial\_action\_admin
 
     This table contains the list of the remedial actions available at the base system.
 
-2.  [[create-remedial-action|Create a remedial action]].
+2.  Create a remedial action.
 
     1.  Select **New** to create a record.
 
@@ -131,7 +131,7 @@ Type
 
 </td><td>
 
-Type of parameter, such as integer, boolean, or [[reference-for-itsm-mobile-agent|reference]].**Note:** If you select reference, you must also specify the reference table.
+Type of parameter, such as integer, boolean, or reference.**Note:** If you select reference, you must also specify the reference table.
 
 </td></tr><tr><td>
 
@@ -277,7 +277,7 @@ Option to allow duplicate concurrent execution of remedial actions.**Note:** If 
 
 9.  Navigate to **All** &gt; **Remedial Actions Framework** &gt; **Administration** &gt; **Remedial Action Origin**.
 
-    This table contains the list of [[dex-workspace-application-tab|applications]] where you can use the Remedial Actions Framework.
+    This table contains the list of applications where you can use the Remedial Actions Framework.
 
 10. Add an application.
 
@@ -294,9 +294,3 @@ When a Remedial Action Type is created, you must create an implementation or do 
 
 **Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[create-remedial-action|Create a remedial action]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]

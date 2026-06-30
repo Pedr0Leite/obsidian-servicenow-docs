@@ -24,7 +24,7 @@ Role required: sn\_vulc.admin
 
 The base system ships with one remediation task rule, **Assignment group, Test**, which groups test results by assignment group \(pre-populated from **Assignment Rules**\) and the test result **Test** field. This rule can be modified using filter conditions and group keys. Group keys are columns in the test results table. Select up to six keys to indicate what values should be used to group the test results.
 
-Starting with version 14.7 of [[vr-config-compliance-landing|Configuration Compliance]], the **Assignment group, Test** remediation task rule is deactivated for new implementations.
+Starting with version 14.7 of Configuration Compliance, the **Assignment group, Test** remediation task rule is deactivated for new implementations.
 
 **Note:** New or updated rules are automatically evaluated on the next import or manually using the **Reapply** button on the Remediation Task Rule form.
 
@@ -126,6 +126,4 @@ When selected, a User group lookup field appears.
 
     **Note:** **The Clear Group By Keys** related link removes the group keys from the Group By tab on the form.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -12,7 +12,7 @@ breadcrumb: [Business impact analysis, Explore, Business Continuity Management, 
 
 # Business impact analysis \(BIA\) templates
 
-The [[business-continuity-mangmt-overview|Business Continuity Management]] application provides pre-configured business impact analysis \(BIA\) templates for creating a [[bia-uib|business impact analysis]]. If you are the BCM or BIA administrator, you can use the **BIA Templates** module in the Business Continuity Management application. You can then select the type of the template, elements, impact categories, and so on, for the business impact analysis.
+The Business Continuity Management application provides pre-configured business impact analysis \(BIA\) templates for creating a business impact analysis. If you are the BCM or BIA administrator, you can use the **BIA Templates** module in the Business Continuity Management application. You can then select the type of the template, elements, impact categories, and so on, for the business impact analysis.
 
 ## Advantages of using a BIA template
 
@@ -61,7 +61,7 @@ The example shows the sample configuration of a BIA template in an instance.
 
 ## Configuring a BIA template
 
-For more information on how to configure a BIA template with the sn\_bcm.admin role, see [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]].
+For more information on how to configure a BIA template with the sn\_bcm.admin role, see [Configure BIA templates with legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bia-template-uib-ws.md).
 
 ## Impact dependency groups
 
@@ -71,8 +71,3 @@ The BIA template used for creating a business impact analysis has dependency gro
 
 Each of them is a dependency group and you can add or remove items that belong to each group within its container.
 
-## Related
-
-- [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]

@@ -18,7 +18,7 @@ You can write scripts to specify which list elements, such as links, filters, an
 
 These scripts can react to the record that is being displayed. For related list controls, the global variable **parent** identifies the parent record. For primary lists, there is no parent record.
 
-[[configure-form-layout|Configure]] the List Control form and add the script field that you need:
+[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) the List Control form and add the script field that you need:
 
 -   **Omit Columns Condition:** If there are no conditions, omit column headings.
 -   **Omit Edit Condition:** Omit the **Edit** button.
@@ -46,7 +46,7 @@ answer;
 
 ## Configure a list UI action
 
-You can [[t_EditingAUIAction|create a UI action]] that opens the slushbucket interface to customize lists in the list view.
+You can create a UI action that opens the slushbucket interface to customize lists in the list view.
 
 ### Before you begin
 
@@ -75,7 +75,4 @@ Role required: ui\_action\_admin
 
 7.  Click **Submit**.
 
-## Related
 
-- [[configure-form-layout|Configuring the form layout]]
-- [[t_EditingAUIAction|Create a UI action]]

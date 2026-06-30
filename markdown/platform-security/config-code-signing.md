@@ -12,49 +12,38 @@ breadcrumb: [Code Signing, Platform Security]
 
 # Configuring Code Signing
 
-Activate and configure [[code-signing-landing|Code Signing]] to verify the authenticity and integrity of your data.
+Activate and configure Code Signing to verify the authenticity and integrity of your data.
 
-\[Omitted image "cse-process.png"\] Alt text: Overall process for [[code-signing-configuration|Code Signing configuration]]
+\[Omitted image "cse-process.png"\] Alt text: Overall process for Code Signing configuration
 
 Code Signing Enterprise requires an initial trust relationship between trusted and protected instances that helps to prevent any unauthorized user with any authorization level from accessing unapproved activities.
 
-Refer to each topic to complete the [[sc-configuration|configuration]] steps to establish the Circle of Trust with Code Signing Enterprise:
+Refer to each topic to complete the configuration steps to establish the Circle of Trust with Code Signing Enterprise:
 
--   **[[cse-assign-roles|Assign the Code Signing Administrator Role]]**
+-   **[Assign the Code Signing Administrator Role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-assign-roles.md)**
 
     Assign the Code Signing Administrator role to a user to access the Code Signing configuration experience.
 
--   **[[cse-turn-on-cse|Configure Code Signing Enterprise on your trusted instance]]**
+-   **[Configure Code Signing Enterprise on your trusted instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-turn-on-cse.md)**
 
-    [[enable-codesiging|Turn on Code Signing]] on your trusted instance.
+    Turn on Code Signing on your trusted instance.
 
--   **[[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]]**
+-   **[Upload your Code Signing configuration file to your protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-upload-cs-config.md)**
 
     Upload the configuration file generated on your trusted instance.
 
--   **[[cse-ppi-config|Configure Code Signing Enterprise on your protected instance]]**
+-   **[Configure Code Signing Enterprise on your protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-ppi-config.md)**
 
     Turn on and configure Code Signing on your protected instance.
 
--   **[[cse-turn-on-cert-validation|Turn on certificate validation]]**
+-   **[Turn on certificate validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-turn-on-cert-validation.md)**
 
     Turn on certificate validation on your instance.
 
--   **[[cse-turn-off-cse|Turn off Code Signing]]**
+-   **[Turn off Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-turn-off-cse.md)**
 
     Disable code signing on your protected instance.
 
     **Note:** This optional step isn’t part of the initial configuration for Code Signing
 
-## Related
 
-- [[cse-assign-roles|Assign the Code Signing Administrator Role]]
-- [[cse-turn-on-cse|Configure Code Signing Enterprise on your trusted instance]]
-- [[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]]
-- [[cse-ppi-config|Configure Code Signing Enterprise on your protected instance]]
-- [[cse-turn-on-cert-validation|Turn on certificate validation]]
-- [[cse-turn-off-cse|Turn off Code Signing]]
-- [[code-signing-landing|Code Signing]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[sc-configuration|Configuration]]
-- [[enable-codesiging|Turn on Code Signing]]

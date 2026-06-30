@@ -14,7 +14,7 @@ breadcrumb: [Business and Consumer Portal, Configure portals, Set up self-servic
 
 # Limit access to product model data on the Business and Consumer Portal
 
-Use a system property to limit customer access to data in the [[product-models|Product Models]] table.
+Use a system property to limit customer access to data in the Product Models table.
 
 External users can access the product model data from the Business and Consumer Portal with the sn\_esm\_user role. System administrators can use the **csm\_cmdb\_model.customer\_visible\_flag** system property and the **Customer Visible** field on the Product Models table \(cmdb\_model\) and child tables to limit this access.
 
@@ -39,6 +39,3 @@ To limit access:
 
 External users can see these product using these product models if the products are linked to the customer account.
 
-## Related
-
-- [[product-models|Product models]]

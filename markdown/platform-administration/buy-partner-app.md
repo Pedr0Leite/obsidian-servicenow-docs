@@ -13,7 +13,7 @@ breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get sta
 
 # Buy a partner application
 
-Log in to the [[servicenow-store|ServiceNow Store]] and purchase an application that lists a non-ServiceNow provider.
+Log in to the ServiceNow Store and purchase an application that lists a non-ServiceNow provider.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Select **Request purchase** to send a request to the provider. Approval is grant
 
 4.  When you receive an email confirmation that your purchase has been approved, follow any additional instructions in the email to complete the purchase.
 
-5.  If the application displays the "App Terms Not Accepted" state indicator in the [[application-manager|Application Manager]], accept the custom terms and conditions from the ServiceNow Store.
+5.  If the application displays the "App Terms Not Accepted" state indicator in the Application Manager, accept the custom terms and conditions from the ServiceNow Store.
 
     For more information about application state indicators, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
 
@@ -85,12 +85,7 @@ Confirmation emails for the application and any dependencies that were procured 
 
 If the application isn't available to install from the Application Manager within the expected amount of time, try the following actions.
 
--   Verify that all necessary dependencies have been procured. For more information, see [[versions-dependencies|Evaluating version requirements and dependencies]].
+-   Verify that all necessary dependencies have been procured. For more information, see [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md).
 -   Review application state indicators from application's details in the Application Manager. For more information about what each indicator means, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
 -   If the previous options don't work, contact Now Support for assistance.
 
-## Related
-
-- [[versions-dependencies|Evaluating version requirements and dependencies]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

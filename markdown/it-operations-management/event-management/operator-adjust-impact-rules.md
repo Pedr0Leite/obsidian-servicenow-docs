@@ -14,11 +14,11 @@ breadcrumb: [Advanced operator responsibilities, Event Management Operator Tutor
 
 # Adjust alert impact while triaging an alert
 
-As an [[c_EM|Event Management]] operator, you might need to modify the impact that an alert has on an application service and on the CIs in a service. Do this when you think that the impact does not accurately represent what you see in your network environment so other operators and administrators see the correct impact information.
+As an Event Management operator, you might need to modify the impact that an alert has on an application service and on the CIs in a service. Do this when you think that the impact does not accurately represent what you see in your network environment so other operators and administrators see the correct impact information.
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 Role required: evt\_mgmt\_operator
 
@@ -56,7 +56,7 @@ Before you make any modifications to impact calculations, make sure that you und
     -   The **Critical** column shows you that a critical alert \(red\) is inherited as critical alert \(red\).
 8.  Change the **Influence** value to `0` since the web server is still operational, and then change the **Critical** column to indicate that a critical impact status \(red\) should be inherited as a non-impact \(green\).
 
-9.  Wait for the dashboard to update automatically, or click **Event Management** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and double-click the same application service to get an updated application service map.
+9.  Wait for the dashboard to update automatically, or click **Event Management** &gt; **Service Operations Workspace** and double-click the same application service to get an updated application service map.
 
     Notice that the influence on the Apache web server is 0% and the impact status is green. Also notice that the critical alert status \(red\) remains unchanged, even though the impact changed to green.
 
@@ -73,8 +73,3 @@ Your administrator might configure additional impact rules that display when you
 
 **Parent Topic:**[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-advanced-tasks.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -71,13 +71,13 @@ Phase 1 - Read the release notes and plan your upgrade
 
 </td></tr><tr><td>
 
-[[upgrades-phase-1|1]]
+[1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-1.md)
 
 </td><td>
 
-Review the [[family-release-notes|Australia release notes]] for the target ServiceNow feature release and patch, in addition to product and release documentation.
+Review the [Australia release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/family-release-notes.md) for the target ServiceNow feature release and patch, in addition to product and release documentation.
 
- For Australia -specific upgrade considerations, see [[upgrade-and-migration-tasks|Pre- and post-upgrade tasks for various products]].
+ For Australia -specific upgrade considerations, see [Pre- and post-upgrade tasks for various products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade-and-migration-tasks.md).
 
 </td><td>
 
@@ -181,7 +181,7 @@ Confirm plans to enable or disable features introduced in the new product releas
 
 </td><td>
 
-Review the [[browser-support|Browser support]] to determine browser prerequisites. For example, versions and types supported, and additional requirements for new UI versions. Compare these supported browsers to your corporate standard and identify any gaps.
+Review the [Browser support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/browser-support.md) to determine browser prerequisites. For example, versions and types supported, and additional requirements for new UI versions. Compare these supported browsers to your corporate standard and identify any gaps.
 
 </td><td>
 
@@ -467,7 +467,7 @@ There may be a service charge and require professional services engagement.
 
 </td></tr><tr><td>
 
-[[upgrades-phase-2|20]]
+[20](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-2.md)
 
 </td><td>
 
@@ -495,7 +495,7 @@ Phase 3 - Verify your upgrade configurations and schedule the development instan
 
 </td></tr><tr><td>
 
-[[upgrades-phase-3|21]]
+[21](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-3.md)
 
 </td><td>
 
@@ -599,7 +599,7 @@ Phase 4 - Upgrade and validate the development instance
 
 </td></tr><tr><td>
 
-[[upgrades-phase-4|26]]
+[26](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-4.md)
 
 </td><td>
 
@@ -703,7 +703,7 @@ On your production instance, create a system clone and select your development i
 
 </td></tr><tr><td>
 
-[[upgrades-phase-5|31]]
+[31](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-5.md)
 
 </td><td>
 
@@ -981,7 +981,7 @@ Responsible: Customer
 
 </td></tr><tr><td>
 
-[[upgrades-phase-6|44]]
+[44](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-6.md)
 
 </td><td>
 
@@ -1045,7 +1045,7 @@ Phase 7 - Upgrade the production instance
 
 </td></tr><tr><td>
 
-[[upgrades-phase-7|47]]
+[47](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-7.md)
 
 </td><td>
 
@@ -1145,16 +1145,3 @@ Validate and test your instance by conducting user acceptance testing \(UAT\). V
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[upgrades-phase-1|Phase 1 - Read the release notes and plan your upgrade]]
-- [[family-release-notes|Australia release notes]]
-- [[upgrade-and-migration-tasks|Pre- and post-upgrade tasks for various products]]
-- [[browser-support|Browser support]]
-- [[upgrades-phase-2|Phase 2 - Prepare for the development instance upgrade]]
-- [[upgrades-phase-3|Phase 3 - Verify your upgrade configurations and schedule the development instance upgrade in Now Support]]
-- [[upgrades-phase-4|Phase 4 - Upgrade and validate the development instance]]
-- [[upgrades-phase-5|upgrades phase 5]]
-- [[upgrades-phase-6|Phase 6 - Prepare to upgrade the production instance]]
-- [[upgrades-phase-7|Phase 7 - Upgrade the production instance]]

@@ -18,13 +18,7 @@ You have the option to buy subscriptions for individual ITOM products separately
 
 If your organization uses more subscriptions than estimated, you have the option to buy additional subscription units as needed. These units can be purchased for either a bundle or individual products \(a la carte\). However, if your organization uses ITOM applications in a bundle at various levels, you can choose to buy both — a bundle subscription covering most required applications and an a la carte subscription for those that require more subscription units.
 
-**Note:** ITOM bundles also provide entitlement to Integration Hub to select spokes and protocols. [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]] requires the additional Integration Hub Enterprise bundle entitlement.
+**Note:** ITOM bundles also provide entitlement to Integration Hub to select spokes and protocols. ITOM Cloud Accelerate requires the additional Integration Hub Enterprise bundle entitlement.
 
-ITOM bundles also provide entitlement to Workflow Data Fabric to select spokes and protocols. ITOM Cloud Accelerate requires the additional Workflow Data Fabric Enterprise bundle entitlement for uses of [[cloud-actions-library-landing-page|Cloud Action Library]] from anything other than the ITOM Cloud Accelerate applications. [[cam-landing|Cloud Account Management]] requires the [[cloud-governance|Cloud Governance]] Suite SKU.
+ITOM bundles also provide entitlement to Workflow Data Fabric to select spokes and protocols. ITOM Cloud Accelerate requires the additional Workflow Data Fabric Enterprise bundle entitlement for uses of Cloud Action Library from anything other than the ITOM Cloud Accelerate applications. Cloud Account Management requires the Cloud Governance Suite SKU.
 
-## Related
-
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-governance|Cloud Governance]]

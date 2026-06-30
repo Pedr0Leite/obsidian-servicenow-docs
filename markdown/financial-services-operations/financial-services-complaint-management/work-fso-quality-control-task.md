@@ -26,7 +26,7 @@ If the complaint case has a potential regulatory impact, a quality control appro
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -50,6 +50,3 @@ If the complaint case has a potential regulatory impact, a quality control appro
 -   If approved, the task moves to the Closed Complete state.
 -   If rejected, the task moves to the Rejected state and complaint agent can draft a new response for the case.
 
-## Related
-
-- [[fso-overview|Financial Services]]

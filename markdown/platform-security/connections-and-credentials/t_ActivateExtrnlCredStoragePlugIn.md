@@ -14,7 +14,7 @@ breadcrumb: [External credential storage, Get started with credentials, Connecti
 
 # Request external credential storage for Discovery and Orchestration
 
-The [[c_ExternalCredentialStorage|External Credential Storage]] plugin is available by [[c_requestAPI|request]].
+The External Credential Storage plugin is available by request.
 
 ## Before you begin
 
@@ -81,7 +81,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md)
 
-## Related
-
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[c_requestAPI|request]]

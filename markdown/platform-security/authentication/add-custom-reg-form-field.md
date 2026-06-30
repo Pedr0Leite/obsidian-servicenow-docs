@@ -24,7 +24,7 @@ Role required: external\_user\_self\_registration\_admin
 
 1.  Navigate to **All** &gt; **External User Self-Registration** &gt; **User Registration Configurations**.
 
-2.  Open the record for the required user registration [[sc-configuration|configuration]].
+2.  Open the record for the required user registration configuration.
 
 3.  Navigate to the end of the Registration Form Fields section and click **Insert a new row...**.
 
@@ -55,7 +55,7 @@ Type
 </td><td>
 
 The type of the user interface element. Following are the supported types: -   Single line text
--   [[email|Email]]
+-   Email
 -   Date
 -   Date/time
 -   Yes/No
@@ -99,7 +99,4 @@ Option to use a field only for validation purposes. For example, registration co
 </td></tr></tbody>
 </table>5.  Save or Update the changes.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[email|Email]]

@@ -20,7 +20,7 @@ Role required: clone\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-clone-landing|Instance Clone]]** &gt; **Live Clones** &gt; **Active Clones**.
+1.  Navigate to **All** &gt; **Instance Clone** &gt; **Live Clones** &gt; **Active Clones**.
 
     The system displays the list of currently active clones.
 
@@ -30,10 +30,6 @@ Role required: clone\_admin
 
     The system updates the **State** field and produces a log entry in the **Clone Log** that shows the status of the clone.
 
-    If an error occurs, you might [roll back clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown) and [[schedule-cloning|schedule recurring clones]]. For more information see [[clone-states|Clone states]].
+    If an error occurs, you might [roll back clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown) and [schedule recurring clones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/schedule-cloning.md). For more information see [Clone states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-states.md).
 
-## Related
 
-- [[schedule-cloning|Schedule recurring clones]]
-- [[clone-states|Clone states]]
-- [[system-clone-landing|Instance Clone]]

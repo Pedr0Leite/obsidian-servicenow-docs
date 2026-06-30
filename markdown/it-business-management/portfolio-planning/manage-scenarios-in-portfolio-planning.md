@@ -22,7 +22,7 @@ Role required:sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -68,7 +68,3 @@ The field becomes editable.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

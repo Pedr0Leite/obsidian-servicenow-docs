@@ -28,7 +28,7 @@ The articles in a knowledge base are available to both internal users, such as c
 
 2.  Click the desired knowledge base.
 
-3.  Right-click the form header and select **Configure** &gt; **Related [[migration-lists|Lists]]**.
+3.  Right-click the form header and select **Configure** &gt; **Related Lists**.
 
 4.  Select **Cannot Contribute** from the Available column and move it to the Selected column.
 
@@ -42,6 +42,4 @@ The articles in a knowledge base are available to both internal users, such as c
 
 9.  Click **Save**.
 
-## Related
 
-- [[migration-lists|Lists]]

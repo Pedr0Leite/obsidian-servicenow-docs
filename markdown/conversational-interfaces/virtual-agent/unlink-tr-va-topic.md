@@ -31,7 +31,7 @@ The following example shows the difference between a linked recommendation and a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 2.  Select the info icon \[Omitted image "icon-info-blue.png"\] Alt text: Info icon. to open the overlay card for a linked topic.
 
@@ -44,10 +44,5 @@ The following example shows the difference between a linked recommendation and a
 
 Unlinked recommendations are set to **New** status. You can link it to another topic, or add it to Virtual Agent as a new topic.
 
-**Note:** If you added a topic to Virtual Agent for a recommendation, it is not shown as linked, so you can't unlink it. To reset an added recommendation as **New**, delete the topic that was added in [[assistant-designer|Assistant Designer]].
+**Note:** If you added a topic to Virtual Agent for a recommendation, it is not shown as linked, so you can't unlink it. To reset an added recommendation as **New**, delete the topic that was added in Assistant Designer.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

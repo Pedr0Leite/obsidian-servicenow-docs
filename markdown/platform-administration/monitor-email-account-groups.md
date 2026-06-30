@@ -16,14 +16,14 @@ Use the Email Account Groups \[sys\_email\_account\] table to check the status o
 
 ## Before you begin
 
-1.  [[create-email-account-group|Create email account groups]].
-2.  [[enable-group-processing|Enable email account group processing]].
+1.  [Create email account groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-group.md).
+2.  [Enable email account group processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-group-processing.md).
 
 Role required: email\_account\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Email Account Groups**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Account Groups**.
 
 2.  Review the processing details for each account group:
 
@@ -69,7 +69,7 @@ The default indicator. The value true indicates that the email account group is 
 
 </td></tr><tr><td>
 
-[[c_EmailAccounts|Email Accounts]]
+Email Accounts
 
 </td><td>
 
@@ -114,12 +114,5 @@ Processing state of the email account group: -   Unclaimed: The account group is
 If fine-tuning email accounts, consider doing one of the following:
 
 -   Create another [email account group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-group.md).
--   Create another [[create-email-reader-job|email reader job]] to process email account groups concurrently.
+-   Create another [email reader job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-reader-job.md) to process email account groups concurrently.
 
-## Related
-
-- [[create-email-account-group|Create email account groups]]
-- [[enable-group-processing|Enable email account group processing]]
-- [[create-email-reader-job|Create an email reader job]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]

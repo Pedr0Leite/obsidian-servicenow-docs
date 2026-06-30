@@ -12,7 +12,7 @@ breadcrumb: [Surveys reference, Surveys, Assessments and Surveys, Exploring Serv
 
 # Domain separation and Surveys
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in [[r_SurveyManagementLandingPage|Surveys]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Surveys. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -30,7 +30,7 @@ For more information on support levels, see [Application support for domain sepa
 
 As a survey creator, survey\_admin can create surveys in the assigned domain. A Global domain survey\_admin can create or edit survey in any domain.
 
-As a survey taker, a user can access the survey record and take the survey based on the domain of the survey record and user. Global domain users can [[t_TakeASurvey|take a survey]] in any domain.
+As a survey taker, a user can access the survey record and take the survey based on the domain of the survey record and user. Global domain users can take a survey in any domain.
 
 ## How domain separation works in Surveys
 
@@ -139,16 +139,10 @@ A user can assign a trigger condition to a survey if the user belongs to the Glo
 
 If there is no domain path for a trigger condition, users from any domain can view the trigger condition. For example, in the `asmt_condition` table that has no column for the domain path, users from the Acme domain can view the trigger condition created by the Cisco domain users.
 
-**Parent Topic:**[[survey-reference|Surveys reference]]
+**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[t_TakeASurvey|Take a survey]]

@@ -14,11 +14,11 @@ breadcrumb: [Assignment Configurator for non-regulatory alerts, Common GRC featu
 
 # Configure assignments
 
-Assignment configuration rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, [[list-view-of-reg-alerts|regulatory alerts]], etc.
+Assignment configuration rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, regulatory alerts, etc.
 
 ## Before you begin
 
-The GRC: Assignment and Approval Configurations \(sn\_grc\_appr\) application for approval and assignment configurations is installed with the GRC: [[compliance-case-management|Compliance Case Management]] application.
+The GRC: Assignment and Approval Configurations \(sn\_grc\_appr\) application for approval and assignment configurations is installed with the GRC: Compliance Case Management application.
 
 Role required: admin
 
@@ -28,22 +28,16 @@ Role required: admin
 
 2.  Select **New**.
 
-    The [[assignment-configuration-new-record|Assignment configuration New Record]] is displayed.
+    The Assignment configuration New Record is displayed.
 
 3.  On the form, fill in the fields.
 
     For information on the fields in the form, see [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configuration-new-record.md).
 
-    **Note:** You cannot have more than one [[bcm-approval-configuration|approval configuration]] applying to the table with the same priority.
+    **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 
 4.  Select **Submit**.
 
 
 **Parent Topic:**[Assignment Configurator for non-regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configurator-for-non-regulatory-alerts.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[compliance-case-management|compliance case management]]
-- [[assignment-configuration-new-record|Assignment Configuration New Record]]
-- [[bcm-approval-configuration|Approval configuration]]

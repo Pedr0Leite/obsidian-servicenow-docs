@@ -14,7 +14,7 @@ breadcrumb: [Configure, Interview Management, Hiring Experiences, HR Service Del
 
 # Install Interview management
 
-You can install the [[interview-management-landing|Interview management]] application \(sn\_ta\_int\_mgmt\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Interview management application \(sn\_ta\_int\_mgmt\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information, see [Components installed with Interview Management](https
 
 **Parent Topic:**[Configuring Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/configuring-interview-management.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]

@@ -36,13 +36,13 @@ Role required: security\_admin
 
     Select **Yes** if you want to proceed with the selected duration. You can also select **Cancel** if you want to select a different duration.
 
-    **Note:** [[logs|Logs]] older than your set duration will be purged and can't be restored.
+    **Note:** Logs older than your set duration will be purged and can't be restored.
 
     The Retention Policy modal shows up confirming the selected duration.
 
 6.  Select **Generate Estimate** to view the approximate number of audit records that are older than your selected duration.
 
-    For information about generate estimate, see [[configure-audit-deletion-estimation|Enable an audit deletion estimate]]
+    For information about generate estimate, see [Enable an audit deletion estimate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-audit-deletion-estimation.md)
 
 7.  Select **Save** to update the retention policy for the selected table.
 
@@ -50,7 +50,4 @@ Role required: security\_admin
 
     **Note:** The audit records that were previously deleted due to the selected retention duration are permanently unavailable.
 
-## Related
 
-- [[configure-audit-deletion-estimation|Enable an audit deletion estimate]]
-- [[logs|Logs]]

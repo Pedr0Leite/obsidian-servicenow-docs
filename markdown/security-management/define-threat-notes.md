@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Threat Notes**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Threat Notes**.
 
 2.  Click **New**.
 
@@ -53,11 +53,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Lists of objects that the threat notes apply to.
 
 </td></tr><tr><td>
 
-Associated [[indicator|Indicators]]
+Associated Indicators
 
 </td><td>
 
@@ -77,21 +77,12 @@ Lists of indicators that the threat notes apply to.
 
 </td></tr><tr><td>
 
-Associated [[c_Observables|Observables]]
+Associated Observables
 
 </td><td>
 
 Lists observables associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-threat-notes|Threat notes]]
+</table>**Parent Topic:**[Threat notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-threat-notes.md)
 
-## Related
-
-- [[threat-intelligence-threat-notes|Threat notes]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]

@@ -24,9 +24,9 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## About this task
 
-Before ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents are created from ingested alerts, the field values from alerts are displayed on a layout of a ServiceNow AI Platform security incident so that you can preview how the actual security incident will be displayed.
+Before ServiceNow AI Platform Security Incident Response \(SIR\) security incidents are created from ingested alerts, the field values from alerts are displayed on a layout of a ServiceNow AI Platform security incident so that you can preview how the actual security incident will be displayed.
 
-From an integration perspective using available APIs, Splunk events are forwarded individually and manually as discreet events, or they are combined into triggered alerts that are automatically ingested into the [[security-operations-landing-page|Security Operations]] environment of your ServiceNow AI Platform instance. The integration workflows ingest different types of alerts such as unauthorized access attempts and [[threat-intelligence-malware|malware]], for example.
+From an integration perspective using available APIs, Splunk events are forwarded individually and manually as discreet events, or they are combined into triggered alerts that are automatically ingested into the Security Operations environment of your ServiceNow AI Platform instance. The integration workflows ingest different types of alerts such as unauthorized access attempts and malware, for example.
 
 These alerts are ingested based on the profiles that you configure in the Security Operations environment of your instance. All alerts are initially ingested for a configured alert type in a profile. Ingested alerts can then be further filtered to specify which alerts create security incidents. For example, you may prefer filters that create security incidents only for alerts that are identified as high-risk. Before a profile is activated, and it creates security incidents from ingested alerts, individual field values on the filtered alerts are mapped to corresponding fields on a layout of security incident for a preview.
 
@@ -124,9 +124,9 @@ Text to help you distinguish this profile from other profiles.
 
     Steps to create profiles for manual event forwarding
 
-6.  To [[arcsight-esm-create-profile|create a profile]] that supports manual event forwarding, follow these steps.
+6.  To create a profile that supports manual event forwarding, follow these steps.
 
-    For events that you forward on-demand from your Splunk enterprise console, you can base the individual field [[mapping-logrhythm|mapping]] on any existing profile. Alternatively, you can create a new mapping grid for exported attachment data. Events that you forward manually are not scheduled in the event profile.
+    For events that you forward on-demand from your Splunk enterprise console, you can base the individual field mapping on any existing profile. Alternatively, you can create a new mapping grid for exported attachment data. Events that you forward manually are not scheduled in the event profile.
 
     1.  If not already selected, in the choice list for the Type field, select **Manual Event Forwarding**.
 
@@ -293,10 +293,3 @@ For automated alert ingestion profiles, this step is final step of the event pro
 
 **Next topic:**[Select scheduled alerts for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-alert-selection.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[mapping-logrhythm|Mapping]]

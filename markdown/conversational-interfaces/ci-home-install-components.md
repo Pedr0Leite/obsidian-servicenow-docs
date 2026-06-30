@@ -14,9 +14,9 @@ breadcrumb: [Conversational Interfaces Console, Conversational Interfaces]
 
 # Installing Conversational Interfaces components
 
-Use the [[convint-landing-page|Conversational Interfaces]] Home page to install [[virtual-agent-landing-page|Virtual Agent]] and related plugins. Once installed, select a card to customize your bot or set up [[ci-use-agent-chat|Agent Chat]].
+Use the Conversational Interfaces Home page to install Virtual Agent and related plugins. Once installed, select a card to customize your bot or set up Agent Chat.
 
-If you've never installed Virtual Agent, the [[ci-console|Conversational Interfaces console]] prompts you to do so first. The layout of the **Home** page may vary, depending on which features you have installed and configured.
+If you've never installed Virtual Agent, the Conversational Interfaces console prompts you to do so first. The layout of the **Home** page may vary, depending on which features you have installed and configured.
 
 -   **Install Virtual Agent**
 
@@ -28,7 +28,7 @@ If you've never installed Virtual Agent, the [[ci-console|Conversational Interfa
 
     Activate plugins that provide the pre-built topic conversations you want to use to handle common user requests. For example, IT-related support issues, such as resetting a password or HR-related issues such as requesting a leave of absence. For more information, see [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md).
 
-    \[Omitted image "ci-home-plugins.png"\] Alt text: After you install Virtual Agent, you can choose pre-built topic plugins to handle your user requests. Options include IT Service [[management|Management]], Customer Service Management, and HR Service Delivery plugins.
+    \[Omitted image "ci-home-plugins.png"\] Alt text: After you install Virtual Agent, you can choose pre-built topic plugins to handle your user requests. Options include IT Service Management, Customer Service Management, and HR Service Delivery plugins.
 
 -   **Here's what you can do next**
 
@@ -44,7 +44,7 @@ If you've never installed Virtual Agent, the [[ci-console|Conversational Interfa
 
     \[Omitted image "ci-home-set-up-ac.png"\] Alt text: Configure Agent Chat settings from the CI console.
 
--   **Install [[sidebar-landing|Sidebar]]**
+-   **Install Sidebar**
 
     Provide live agents with a way to collaborate with others while they work on a Workspace record.
 
@@ -58,18 +58,10 @@ If you've never installed Virtual Agent, the [[ci-console|Conversational Interfa
 
 -   **Create a Virtual Agent with LLM**
 
-    If you have installed a Now Assist product, you can use the guided setup to install [[now-assist-in-va-landing|Now Assist in Virtual Agent]]. You can then activate the Now Assist Topics skill and create Virtual Agent topics that use LLM discovery. Select **Get started** to use the guided setup.
+    If you have installed a Now Assist product, you can use the guided setup to install Now Assist in Virtual Agent. You can then activate the Now Assist Topics skill and create Virtual Agent topics that use LLM discovery. Select **Get started** to use the guided setup.
 
     For more information, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md).
 
     \[Omitted image "ci-home-nava-llm.png"\] Alt text: If Now Assist is installed, you have the option to install Now Assist in Virtual Agent on the home page.
 
-## Related
 
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ci-console|Conversational Interfaces Console]]
-- [[management|Management]]
-- [[sidebar-landing|Sidebar]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

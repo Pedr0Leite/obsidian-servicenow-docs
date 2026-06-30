@@ -14,7 +14,7 @@ breadcrumb: [Multicurrency reference, Reference, Next Experience for Demand Mana
 
 # Multicurrency fields in demand forms
 
-Multicurrency fields are available in the demand [[form-field-information-for-dw|forms]] when the demand currency view is enabled.
+Multicurrency fields are available in the demand forms when the demand currency view is enabled.
 
 ## Demand form
 
@@ -32,7 +32,7 @@ Demand currency
 
 </td><td>
 
-Currency for managing and tracking the demand.This field is set to read-only after a cost plan, [[cost-plan-breakdown|cost plan breakdown]], benefit plan, or benefit plan breakdown is created.
+Currency for managing and tracking the demand.This field is set to read-only after a cost plan, cost plan breakdown, benefit plan, or benefit plan breakdown is created.
 
 </td></tr><tr><td>
 
@@ -104,10 +104,10 @@ Actual cost in demand currency
 
 </td><td>
 
-Total cost incurred while working on a demand and its [[demand-task|demand tasks]].
+Total cost incurred while working on a demand and its demand tasks.
 
 </td></tr></tbody>
-</table>## [[demand-task-form|Demand Task form]]
+</table>## Demand Task form
 
 <table id="table_pj5_syf_dnb"><thead><tr><th>
 
@@ -134,7 +134,7 @@ Actual cost in demand currency
 Total cost incurred while working on a demand and its demand tasks.
 
 </td></tr></tbody>
-</table>## [[demand-plan-form|Cost Plan form]]
+</table>## Cost Plan form
 
 <table id="table_amq_p4f_3jb"><thead><tr><th>
 
@@ -161,7 +161,7 @@ Cost in demand currency
 Rolled-up value from the **Entered cost** field of all cost plan breakdowns.
 
 </td></tr></tbody>
-</table>## [[cost-plan-breakdown-form|Cost Plan Breakdown form]]
+</table>## Cost Plan Breakdown form
 
 <table id="table_ccf_cpf_3jb"><thead><tr><th>
 
@@ -204,7 +204,7 @@ Demand currency exchange rate date
 Reference date on which the currency exchange rate is applied for conversion.
 
 </td></tr></tbody>
-</table>## [[benefit-plan-form-project-management|Benefit Plan form]]
+</table>## Benefit Plan form
 
 <table id="table_xtl_xy5_jjb"><thead><tr><th>
 
@@ -282,7 +282,7 @@ Demand currency exchange rate date
 Reference date on which the currency exchange rate is applied for conversion.
 
 </td></tr></tbody>
-</table>## [[expense-line-form-demand|Expense Line form]]
+</table>## Expense Line form
 
 <table id="table_mnc_x5j_kjb"><thead><tr><th>
 
@@ -317,13 +317,3 @@ Expense cost amount for the expense line.
 |Opex budget in demand currency|Planned expense amount allocated for the operating expenditure of the demand.|
 |Total budget in demand currency|Sum of the Capex and Opex amounts.|
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[demand-task|Demand tasks]]
-- [[demand-task-form|Demand task form]]
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown-form|Cost plan breakdown form]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[expense-line-form-demand|Expense line form]]

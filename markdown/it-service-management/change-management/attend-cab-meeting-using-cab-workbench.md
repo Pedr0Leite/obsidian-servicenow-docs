@@ -81,7 +81,7 @@ Filter the agenda items that you want to view and click **Notify me** to receive
 
 View the details of a current change in the form view or in the calendar view.**Show form**: Click the show form icon \(\[Omitted image "show-form.png"\] Alt text: Show form icon.\) to display change details in the form view. The **Change**, **Planning**, and **Schedule** tabs provide information about the change request meeting, planning, and scheduling.
 
- **Show calendar**: Click the show calendar icon \(\[Omitted image "show-calendar.png"\] Alt text: Show calendar icon.\) to display change details on the calendar form. You can select the day or the month that you want to view details of a change for. In a day view, you can click the [[settings-mobile|settings]] icon \(\[Omitted image "settings-icon.png"\] Alt text: Settings icon.\) and then click the configuration icon \(\[Omitted image "cab-workbench-configuration-icon.png"\] Alt text: Configuration icon.\) to set relevant filter conditions. If you turn on any of the configuration filter conditions, the related change records are displayed. The change records appear in the time slot of the day that the current change implementation is planned for. In the configuration settings, you can view other potential conflicts. The conflicts can be other change requests that are scheduled for implementation by the same assignee, assignment group, or for the same configuration item.
+ **Show calendar**: Click the show calendar icon \(\[Omitted image "show-calendar.png"\] Alt text: Show calendar icon.\) to display change details on the calendar form. You can select the day or the month that you want to view details of a change for. In a day view, you can click the settings icon \(\[Omitted image "settings-icon.png"\] Alt text: Settings icon.\) and then click the configuration icon \(\[Omitted image "cab-workbench-configuration-icon.png"\] Alt text: Configuration icon.\) to set relevant filter conditions. If you turn on any of the configuration filter conditions, the related change records are displayed. The change records appear in the time slot of the day that the current change implementation is planned for. In the configuration settings, you can view other potential conflicts. The conflicts can be other change requests that are scheduled for implementation by the same assignee, assignment group, or for the same configuration item.
 
  The day and month view of the calendar displays the Blackout Schedule time, Maintenance Window, and the agenda item that is in progress. In the day view, the specific time slot of the planned blackout and maintenance window is highlighted. In the calendar view, the entire day is highlighted.
 
@@ -90,6 +90,3 @@ View the details of a current change in the form view or in the calendar view.**
 </td></tr></tbody>
 </table>**Parent Topic:**[Working with the CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-cab-workbench-cf.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

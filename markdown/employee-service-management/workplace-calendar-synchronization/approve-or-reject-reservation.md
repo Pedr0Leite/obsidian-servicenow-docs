@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workpla
 
 # Approve a reservation
 
-Review employee reservations raised using [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] and approve or reject them.
+Review employee reservations raised using Workplace Reservation Management and approve or reject them.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: approver\_user
 
     **Note:** If approval for a reservation is rejected, a delete request is sent to the room calendar to release the room.
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

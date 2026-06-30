@@ -18,7 +18,7 @@ Raster files are flat files and therefore, design and places have to be manually
 
 If you are importing a raster image \(PNG\) source, the designs and place creation process must be performed manually in a graphic designer tool. For example: Adobe Illustrator. Currently, only PNG file formats are supported.
 
-**Note:** Map administrators must ensure that the floor plan sources adhere to the import requirements of [[Indoor-mapping|Indoor Mapping]]. Before importing, ensure that the raster image \(PNG\) sources are reviewed by graphic designers for design corrections and accuracy. Import of JSON/GEOJSON files is only available for third-party mapping providers migration.
+**Note:** Map administrators must ensure that the floor plan sources adhere to the import requirements of Indoor Mapping. Before importing, ensure that the raster image \(PNG\) sources are reviewed by graphic designers for design corrections and accuracy. Import of JSON/GEOJSON files is only available for third-party mapping providers migration.
 
 For more information about raster file import requirements, see [ServiceNow Blog](https://www.servicenow.com/community/wsd-blog/png-guidelines-for-indoor-mapping/ba-p/2266959?attachment-id=209840).
 
@@ -70,6 +70,3 @@ After creating your campus, buildings, and floor, upload and import the raster f
 
 **Parent Topic:**[Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/Indoor-mapping.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

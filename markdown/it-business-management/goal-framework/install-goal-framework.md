@@ -24,7 +24,7 @@ When you install the Goal Framework for SPM application, you get all the feature
 
 Role required: admin
 
-**Important:** You can install the Goal Framework for SPM application only when you own the [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) Pro license.
+**Important:** You can install the Goal Framework for SPM application only when you own the Strategic Portfolio Management \(SPM\) Pro license.
 
 ## Procedure
 
@@ -52,14 +52,9 @@ The following components are installed with installation of the Goal Framework o
 -   Roles
 -   Tables
 -   Scheduled jobs
--   [[target-automation-script-benefit-plans|Target automation script for benefit plans]] \(installed with Goal Framework for SPM\)
+-   Target automation script for benefit plans \(installed with Goal Framework for SPM\)
 
-As part of Goal Framework for SPM installation, components of both [[goal-framework|Goal Framework and Goal Framework for SPM]] are installed. See [Components installed with Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/components-installed-with-goal-framework.md) for more information.
+As part of Goal Framework for SPM installation, components of both Goal Framework and Goal Framework for SPM are installed. See [Components installed with Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/components-installed-with-goal-framework.md) for more information.
 
 **Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/configuring-goal-framework.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[target-automation-script-benefit-plans|Target automation script for benefit plans]]
-- [[goal-framework|Goal Framework and Goal Framework for SPM]]

@@ -15,7 +15,7 @@ breadcrumb: [Collaborative Work Management, Strategic Portfolio Management]
 
 # Using Collaborative Work Management
 
-Use the different features of [[cwm-landing|Collaborative Work Management]] \(CWM\) to collaborative with teams across your organizations and manage work in the way your teams want.
+Use the different features of Collaborative Work Management \(CWM\) to collaborative with teams across your organizations and manage work in the way your teams want.
 
 -   **[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-spaces.md)**  
 Create collaborative Spaces for teams to work together on projects, goals, or assignments.
@@ -32,7 +32,7 @@ Enhance visibility and streamline planning for your Agile teams by connecting En
 -   **[My Work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/my-work-in-cwm.md)**  
 Manage your work from all ServiceNow applications from a centralized view in the Collaborative Work Management workspace.
 -   **[Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md)**  
-Team members can view and update [[t_CreateAProjectTask|project tasks]] and [[demand-task|demand tasks]] directly in Collaborative Work Management \(CWM\) using team member roles, without requiring access to [[project-workspace-landing-page|Project Workspace]] or Next Experience for [[c_DemandManagement|Demand Management]].
+Team members can view and update project tasks and demand tasks directly in Collaborative Work Management \(CWM\) using team member roles, without requiring access to Project Workspace or Next Experience for Demand Management.
 -   **[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)**  
 Manage all kinds of documentation for work such as meeting notes, project requirements, or technical specifications using rich text Docs with real-time collaboration.
 -   **[Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/templates-in-cwm-for-spaces-boards-and-docs.md)**  
@@ -40,10 +40,3 @@ By enabling creation of Boards and Docs from predefined or custom templates, Col
 
 **Parent Topic:**[Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-landing.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-task|Demand tasks]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_DemandManagement|Demand Management]]

@@ -30,7 +30,7 @@ Name
 
 </td><td>
 
-Descriptive name of the activity. Select a unique name that makes the activity easily identifiable in the palette. If you do not name the activity, it is identified in the **Data** tab of the [[workflow-editor|Workflow Editor]] with an index number when it is added to a workflow. This index reflects the order in which the custom activity was added to the workflow. Only custom activities and their output variables appear in the **Data** tab.
+Descriptive name of the activity. Select a unique name that makes the activity easily identifiable in the palette. If you do not name the activity, it is identified in the **Data** tab of the Workflow Editor with an index number when it is added to a workflow. This index reflects the order in which the custom activity was added to the workflow. Only custom activities and their output variables appear in the **Data** tab.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Image
 
 </td><td>
 
-Icon that identifies an activity of this type in the [[r_WorkflowPalette|workflow palette]].
+Icon that identifies an activity of this type in the workflow palette.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,3 @@ Detailed description of the activity.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[r_WorkflowPalette|Workflow palette]]

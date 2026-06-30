@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # Create an event rule to bind metric events to host CIs
 
-Create [[create-event-rules|event rules]] to explicitly allow binding of metric events to host CIs.
+Create event rules to explicitly allow binding of metric events to host CIs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Starting with the London release, [[operational-metrics|Metric Intelligence]] no longer relies on the default [[c_EM|Event Management]] binding workflow which binds nodes to host CIs. Event Management is configured to apply the default host binding algorithm when an event rule cannot find a CI to bind to, based on event data. In Metric Intelligence, with a given event rule and two different events, there can be a situation where one event binds to the correct CI and another event cannot bind. In this case, the same metric types would be created for the selected CI and for the host level CI, causing confusion.
+Starting with the London release, Metric Intelligence no longer relies on the default Event Management binding workflow which binds nodes to host CIs. Event Management is configured to apply the default host binding algorithm when an event rule cannot find a CI to bind to, based on event data. In Metric Intelligence, with a given event rule and two different events, there can be a situation where one event binds to the correct CI and another event cannot bind. In this case, the same metric types would be created for the selected CI and for the host level CI, causing confusion.
 
 For example: With an event rule that binds the disk percentage metric to a storage disk, one event can find a disk CI and another event cannot. This results in the disk percentage metric being created for a disk CI and for a host CI.
 
@@ -52,8 +52,3 @@ To avoid this confusion, Event Management default host binding is disabled for m
 
 [Create or edit an event rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-or-edit-event-rule.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Enable traffic-based discovery for an application service
 
-Make [[c_ServiceMappingOverview|Service Mapping]] use traffic-based connections to discover CIs making up an application service.
+Make Service Mapping use traffic-based connections to discover CIs making up an application service.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based [[r-discovery|discovery]], see [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md).
+Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based discovery, see [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md).
 
 ## Procedure
 
@@ -67,7 +67,3 @@ Service Mapping can discover and map configuration items \(CIs\) following their
 
 **Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

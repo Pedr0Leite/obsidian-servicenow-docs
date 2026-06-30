@@ -27,7 +27,7 @@ You can modify inputs, but you can't modify a skill's data source. The data sour
 
 The Now Assist for SLO includes the following skills:
 
--   [[supplier|Supplier]] case summarization
+-   Supplier case summarization
 -   Supplier performance summarization
 
 ## Supplier case summarization skill
@@ -118,6 +118,3 @@ Base input fields
 
 [Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/cust-now-assist-slo-va.md)
 
-## Related
-
-- [[supplier|Supplier]]

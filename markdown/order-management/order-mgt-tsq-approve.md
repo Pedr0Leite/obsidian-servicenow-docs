@@ -30,7 +30,7 @@ Role required: sn\_ind\_tmt\_orm.order\_fulfilment\_manager, sn\_ind\_tmt\_orm.o
 
 5.  Select **Approve**.
 
-    The State field changes to **In Progress** and [[order-mgt-order-decomposition|order decomposition]] occurs and service orders are generated for each customer order line Item.
+    The State field changes to **In Progress** and order decomposition occurs and service orders are generated for each customer order line Item.
 
     **Note:** During order decomposition, only service orders are created, resource orders are not generated for service qualification requests.
 
@@ -38,12 +38,12 @@ Role required: sn\_ind\_tmt\_orm.order\_fulfilment\_manager, sn\_ind\_tmt\_orm.o
 
     **Note:** The **Qualify Order** option is available only on the top order line items in the hierarchy.
 
-    -   The Result field is updated to **Pending** and the [[order-mgt-tsq-subflow|Process Qualification Request subflow]] subflow is launched. After the subflow has been executed, depending on the response from the external inventory system, the Customer Order Result field is updated to one of the following:
+    -   The Result field is updated to **Pending** and the [Process Qualification Request subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-subflow.md) subflow is launched. After the subflow has been executed, depending on the response from the external inventory system, the Customer Order Result field is updated to one of the following:
         -   Qualified: Requested service is available.
         -   Alternate: Requested service is not available but an alternate proposal is available.
         -   Unqualified: Requested service and alternate proposals are not available.
         -   None: If any errors occur during the execution, the result is updated to None.
-    -   The following business [[rules_101|rules]] are invoked to derive the result:
+    -   The following business rules are invoked to derive the result:
 
         -   Update Line Item Qualification Result: Propagates result from domain order to order line item.
         -   Update Qualification Result on Order: Propagates result from top order line items to the customer order.
@@ -85,20 +85,12 @@ Role required: sn\_ind\_tmt\_orm.order\_fulfilment\_manager, sn\_ind\_tmt\_orm.o
         -   Result: Can be None, Qualified, Unqualified, Alternate, or Pending.
         -   Unavailability reason
 
-**Parent Topic:**[[order-mgt-tsq-about|Service qualification requests]]
+**Parent Topic:**[Service qualification requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-about.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-tsq-subflow|Process Qualification Request subflow]]
-- [[order-mgt-tsq-about|Service qualification requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-order-decomposition|Order decomposition]]
-- [[rules_101|Rules]]

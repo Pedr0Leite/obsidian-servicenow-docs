@@ -26,7 +26,7 @@ Role required: product\_catalog\_admin for catalog entities and sn\_csm\_pricing
     -   To check pricing entities, navigate to **All** &gt; **Pricing** &gt; **Import**.
 2.  Select the links under **Related Links** to view import job status:
 
-    -   Import [[cpq-sets|sets]] - View the import sets for this data set.
+    -   Import sets - View the import sets for this data set.
     -   Loaded Data - View the newly imported data for catalog entities in the Catalog Import Data Source table \[sn\_prd\_pm\_catalog\_import\_data\_source\] or for pricing entities in the Pricing Import Data Source \[ sn\_csm\_pricing\_import\_data\_source\] or sn\_csm\_ctxrul\_mgt\_import\_data\_source staging tables.
     -   Run Robust Transform - Transforms a loaded import set using a robust transform.
     -   Import Log - Opens the import log.
@@ -34,12 +34,7 @@ Role required: product\_catalog\_admin for catalog entities and sn\_csm\_pricing
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[cpq-sets|Sets]]

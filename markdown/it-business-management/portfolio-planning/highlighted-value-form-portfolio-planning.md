@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Highlighted Value form
 
-Learn about the fields of the Highlighted Value form. Use this form to customize the fields to be highlighted on the Prioritization page of a portfolio plan in [[portfolio-planning-app-landing-page|Portfolio Planning]] workspace.
+Learn about the fields of the Highlighted Value form. Use this form to customize the fields to be highlighted on the Prioritization page of a portfolio plan in Portfolio Planning workspace.
 
 |Field|Description|
 |-----|-----------|
@@ -24,6 +24,3 @@ Learn about the fields of the Highlighted Value form. Use this form to customize
 
 **Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure an ACL rule, Access Control List Rules, Access Management
 
 # Query ACLs
 
-Query ACLs allow you to define more granular [[sc-access-control|access control]] by explicitly defining who can query the data.
+Query ACLs allow you to define more granular access control by explicitly defining who can query the data.
 
 ## What is a query ACL
 
@@ -24,7 +24,7 @@ A query ACLs have their operation set to either `query_range` or `query_match`. 
 
 Wherever a column contains sensitive values, and allows partial/conditional access to data a query ACL should be considered and implemented as necessary based on the sensitivity of the data. Wherever there is a partial/conditional access to rows and their columns in tables, especially where that access is not enforced by data filters, query ACLs should be implemented as necessary based on the sensitivity of the data.
 
-**Note:** Consider query ACLs when some [[users|users]] have access to some rows or columns and not others .
+**Note:** Consider query ACLs when some users have access to some rows or columns and not others .
 
 ## Payroll query control
 
@@ -93,7 +93,3 @@ User will not be able to submit match queries:-   EQUALS
 
 Query ACLs \(both query\_match and query\_range\) default to a star.star ACL that delegates to read access. This means, where ACLs are enforced on queries, if no query ACL was created then read access to the column is evaluated ; if query ACLs are defined then they override the default behavior.
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]

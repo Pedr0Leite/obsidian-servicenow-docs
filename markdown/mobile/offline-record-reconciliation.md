@@ -12,9 +12,9 @@ breadcrumb: [Action items/action steps, Offline mode setup options, Offline mode
 
 # Offline record reconciliation
 
-Configure [[mobile-offline-mode|offline mode]] to include associated records in the offline cache when users perform an action in online mode.
+Configure offline mode to include associated records in the offline cache when users perform an action in online mode.
 
-An offline step may create a record locally on the device. When connectivity is restored, the online step runs and creates the corresponding record on the instance. Use the `addRecordForSync()` method in the online step to register the server-side record so that the [[mobile-config-navigation|mobile platform]] can reconcile it with the record created locally on the device. This method verifies that the locally created record and the server record represent the same entity after synchronization.
+An offline step may create a record locally on the device. When connectivity is restored, the online step runs and creates the corresponding record on the instance. Use the `addRecordForSync()` method in the online step to register the server-side record so that the mobile platform can reconcile it with the record created locally on the device. This method verifies that the locally created record and the server record represent the same entity after synchronization.
 
 ## How record IDs are handled in offline mode
 
@@ -33,14 +33,8 @@ If the user loses connectivity again before the offline cache is refreshed, the 
 
 When write-back actions create records during offline execution, the `addRecordForSync()` method verifies that the record created on the instance during the online step is properly associated with the record created locally on the device. During synchronization, the platform updates the local record with the permanent `sys_id` and reconciles the two records so that they represent the same entity.
 
--   **[[register-assoc-records-offline-cache|Register associated records in the offline cache]]**  
+-   **[Register associated records in the offline cache](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/register-assoc-records-offline-cache.md)**  
 Configure a write-back action step by adding an execution script that registers newly created instance records for synchronization. Local and server-side records are then reconciled when connectivity is restored, preventing duplicate records.
 
-**Parent Topic:**[[offline-action-item-steps|Using action items and action item steps in ofﬂine mode]]
+**Parent Topic:**[Using action items and action item steps in ofﬂine mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-action-item-steps.md)
 
-## Related
-
-- [[register-assoc-records-offline-cache|Register associated records in the offline cache]]
-- [[offline-action-item-steps|Using action items and action item steps in ofﬂine mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-config-navigation|Mobile Platform]]

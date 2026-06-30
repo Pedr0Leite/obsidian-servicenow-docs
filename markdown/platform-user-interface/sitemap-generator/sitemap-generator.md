@@ -20,7 +20,7 @@ Use the ServiceNow® Sitemap Generator application to define and automatically g
 
 You can activate the Sitemap Generator application \(sn\_ux\_seo\_sitemap\) from your instance. For more information, see [Activate Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/activate-sitemap-generator.md).
 
-You can also [[activate-sitemap-generator|activate Sitemap Generator]] from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+You can also activate Sitemap Generator from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Sitemap requirements
 
@@ -31,7 +31,7 @@ The sitemap is generated from a script or static XML. When creating a sitemap, y
     Sitemap Generator automatically excludes portal URLs that aren’t publicly accessible from sitemaps. However, this doesn’t apply for URLs with custom domains instead of the ServiceNow domain. URLs that are excluded from the sitemap are listed in the Application Log \[syslog\_app\_scope\] table.
 
 -   Excludes pages that respond with a 301 redirect.
--   Excludes pages with the NOINDEX meta tag, such as retired or expired pages. If you use a script to create the sitemap, include logic similar to that of the SEO script include you used to add NOINDEX meta [[c_Tags|tags]] to pages to exclude those pages from the sitemap. For more information, see [Configure custom SEO tags for canonical URLs and localized knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-seo-knowledge.md).
+-   Excludes pages with the NOINDEX meta tag, such as retired or expired pages. If you use a script to create the sitemap, include logic similar to that of the SEO script include you used to add NOINDEX meta tags to pages to exclude those pages from the sitemap. For more information, see [Configure custom SEO tags for canonical URLs and localized knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-seo-knowledge.md).
 -   For any pages with canonical URLs or **hreflang** tags, the sitemap includes those canonical URLs or URLs with **hreflang** tags returned by the SEO script include for that page. If you use a script to create the sitemap, include logic similar to that of the SEO script include you used to return canonical URLs or URLs with **hreflang** tags. For more information, see [SEO for canonical URLs and localized versions of knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/seo-knowledge.md).
 -   For any pages with human readable keywords in URLS, the sitemap includes those URLs with human readable keywords. If you use a script to create the sitemap, use one of the getHumanReadableUrl methods in the SPSEOUtilsSNC class to return the human readable keywords and include them in the sitemap URLs. For more information, see [Add human readable keywords to page URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-human-readable-keywords-page-urls.md).
 
@@ -43,14 +43,9 @@ For more information about sitemap requirements for SEO, refer to the following 
 -   [XML schema for the Sitemap protocol](https://www.sitemaps.org/protocol.html) on the sitemaps.org website
 
 -   **[Activate Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/activate-sitemap-generator.md)**  
-You can activate the Sitemap Generator plugin \(sn\_ux\_seo\_sitemap\) for [[c_ServicePortal|Service Portal]] if you have the admin role.
+You can activate the Sitemap Generator plugin \(sn\_ux\_seo\_sitemap\) for Service Portal if you have the admin role.
 -   **[Generate XML sitemaps for SEO indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/generate-xml-sitemaps-seo-indexing.md)**  
 Create XML sitemaps for web crawlers to index your public portal pages and improve search engine optimization for your portals.
 
 **Parent Topic:**[Improving search engine optimization for portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/seo-sp.md)
 
-## Related
-
-- [[activate-sitemap-generator|Activate Sitemap Generator]]
-- [[c_Tags|Tags]]
-- [[c_ServicePortal|Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Create a resource collector
 
-Create a resource collector to set up how [[cloud-configuration-governance|Cloud Configuration Governance]] imports all the resources of a given type.
+Create a resource collector to set up how Cloud Configuration Governance imports all the resources of a given type.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The cloud resources are available under a service account or service account-dat
 
         For more information on copying subflow templates, see [Copy an Integration Hub subflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/copy-ih-subflow-template.md).
 
-    2.  Add the appropriate [[cloud-actions-library-landing-page|Cloud Action Library]] \(CAL\) action and flow logic to read the resource data.
+    2.  Add the appropriate Cloud Action Library \(CAL\) action and flow logic to read the resource data.
 
         For more information on the available CAL actions, see [Cloud Action Library actions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-cal-actions.md).
 
@@ -59,10 +59,6 @@ The cloud resources are available under a service account or service account-dat
 
 -   If the required configuration data is not available at the cloud resource level, see [Create a configuration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-config-key.md).
 
--   If you have created a new resource type in the Cloud Configuration Governance application, you can optionally [[create-ci-finder-mapping-for-ccg|create a CI finder mapping]] for the newly created resource type. For more information, see [Create a CI finder mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ci-finder-mapping-for-ccg.md).
+-   If you have created a new resource type in the Cloud Configuration Governance application, you can optionally create a CI finder mapping for the newly created resource type. For more information, see [Create a CI finder mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ci-finder-mapping-for-ccg.md).
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]
-- [[create-ci-finder-mapping-for-ccg|Create a CI finder mapping]]

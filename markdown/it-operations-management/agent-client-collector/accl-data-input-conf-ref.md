@@ -48,7 +48,7 @@ The port on the MID Server.
 
  The port must be configured and active. It must not be occupied by another process. Make sure that your organization’s security team opens the port before you assign it.
 
- **Note:** When you update the port, the system updates the [[acc-landing-page|Agent Client Collector]] with the new port configuration. Log streaming continues seamlessly without log loss after 1-3 minutes.
+ **Note:** When you update the port, the system updates the Agent Client Collector with the new port configuration. Log streaming continues seamlessly without log loss after 1-3 minutes.
 
 This field is required.
 
@@ -103,7 +103,7 @@ Sources count
 
 The total number of log sources originating from all ACC data inputs together.
 
- This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+ This feature is supported in the Health Log Analytics application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,3 @@ The streaming error.This field is populated automatically. It displays only when
 |Character encoding|The character encoding for this data input.|UTF-8|
 |Drop if queue is full|Option for selecting to discard logs if many processes are waiting in the queue to access the MID Server.|false|
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[hla-landing-page|Health Log Analytics]]

@@ -33,7 +33,7 @@ For example, you can create a renderer showing the category homepage image, the 
 
 1.  Create a UI macro to define specific rendering instructions.
 
-2.  Navigate to **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Renderers**.
+2.  Navigate to **Service Catalog** &gt; **Catalog Definition** &gt; **Renderers**.
 
 3.  Click **New**.
 
@@ -71,7 +71,7 @@ Render catalog title
 
 </td><td>
 
-Appears for catalogs renderers. A [[check-box|check box]] to display the catalog title bar on the multi-catalog homepage.
+Appears for catalogs renderers. A check box to display the catalog title bar on the multi-catalog homepage.
 
 </td></tr><tr><td>
 
@@ -153,7 +153,4 @@ The following default category renderer schemes are available:
 
 5.  Click the close icon \(x\) to save the catalog with the selected renderer.
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

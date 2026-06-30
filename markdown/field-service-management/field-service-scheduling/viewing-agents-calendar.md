@@ -16,14 +16,14 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 You can view an agent's schedule, availability, personal events, and tasks that are either assigned or work in progress.
 
-The calendar displays agent information for a selected day, work day, or week. Resource cards are displayed based on membership availability within the calendar window. The resource card shows on the left side of the calendar in [[dispatcher-activities|Dispatcher Workspace]]. Resource cards contain information about the resource that belongs to a certain group. If the date falls within the specified range, the agent resource card is shown. The tasks that are assigned to an agent appear in the agent's calendar slots. A horizontal line that appears on the left side of a task can indicate either of the following information:
+The calendar displays agent information for a selected day, work day, or week. Resource cards are displayed based on membership availability within the calendar window. The resource card shows on the left side of the calendar in Dispatcher Workspace. Resource cards contain information about the resource that belongs to a certain group. If the date falls within the specified range, the agent resource card is shown. The tasks that are assigned to an agent appear in the agent's calendar slots. A horizontal line that appears on the left side of a task can indicate either of the following information:
 
 -   Estimated travel start time that includes Estimated onsite arrival buffer duration
 -   Actual travel start time
 -   Scheduled work start time
 -   Actual work start time
 
-**Note:** No visual indicator appears for the tasks that don't have a specified travel start time. Additionally, **Estimated onsite arrival buffer duration** is considered only when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled and have been added to the task card. For more information, see [[t_ConfigureFieldService|Global domain configurations]].
+**Note:** No visual indicator appears for the tasks that don't have a specified travel start time. Additionally, **Estimated onsite arrival buffer duration** is considered only when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled and have been added to the task card. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 
 Resources on the calendar in Dispatcher Workspace are sorted alphabetically by territory, then alphabetically by assignment group within each territory, then alphabetically by resource name within each assignment group. Technicians are grouped together by the assignment group and territory they’re assigned to.
 
@@ -49,7 +49,4 @@ As a dispatcher, you can do the following:
     |Above 100% \(breached\)|Red|
     |Paused|Gray|
 
-## Related
 
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[dispatcher-activities|Dispatcher Workspace]]

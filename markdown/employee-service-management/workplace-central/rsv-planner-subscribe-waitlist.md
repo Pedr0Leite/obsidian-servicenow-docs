@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
 2.  Select the Lists \(\[Omitted image "list-options.png"\] Alt text: List icon.\) on the home page.
 
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 4.  Select a **Queued** waitlist record status to review details and update the weight or priority.
 
-    The [[event-planner|event planner]] form opens.
+    The event planner form opens.
 
     \[Omitted image "waitlist-priority-field-assign-space.png"\] Alt text: Selected reservation waitlist record showing priority field and Assign a space tab.
 
@@ -58,7 +58,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
     **Note:** The **Assign Space** option is not available for **Confirmed** waitlist records.
 
-    The [[reservation-portal|Make a reservation]] page opens for assigning a space.
+    The Make a reservation page opens for assigning a space.
 
     \[Omitted image "waitlist-assign-space-make-reservation.png"\] Alt text: Make a reservation page showing prefilled values from a waitlist record.
 
@@ -90,7 +90,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
     The Reservation summary page opens.
 
-14. Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **My Reservation Waiting Lists** to review the waitlist reservation records along with their status.
+14. Navigate to **All** &gt; **Workplace Reservation Management** &gt; **My Reservation Waiting Lists** to review the waitlist reservation records along with their status.
 
     For more information, see [Reservation Waitlist data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/waitlist-configuration.md).
 
@@ -106,7 +106,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 [View workplace scenarios]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Approve a space assist request]()
 
@@ -114,10 +114,3 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 [Create a reservation waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-waitlist.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[event-planner|Event Planner]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[space-assistance|Space assistance]]

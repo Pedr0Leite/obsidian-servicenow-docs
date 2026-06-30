@@ -33,7 +33,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Administration** &gt; **Skipped Record Rules Editor**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Administration** &gt; **Skipped Record Rules Editor**.
 
     A list of available rules shows up.
 
@@ -80,13 +80,9 @@ Steps
 
 Execute the skipped record rules automatically during the upgrade on the skipped records.
 
-These rules are executed on the skipped records automatically during the upgrade process. The prediction of the rules execution on the skipped records can be previewed on the Skipped list prediction card in the [[uc-preview-module|Upgrade Preview module]].
+These rules are executed on the skipped records automatically during the upgrade process. The prediction of the rules execution on the skipped records can be previewed on the Skipped list prediction card in the Upgrade Preview module.
 
 Once the execution of the rules are done, the summary can be reviewed in the Upgrade Summary of Upgrade Monitor.
 
 **Note:** Skipped record rules and upgrade plans can't be implemented together in an upgrade.
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-preview-module|Upgrade Preview module]]

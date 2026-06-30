@@ -15,7 +15,7 @@ breadcrumb: [Working with automated flows, Administer, Threat Intelligence Secur
 
 # Automatic Threat Actor priority tagging
 
-Learn how to enable automatic tagging of [[threat-actors|Threat Actors]] based on their origin [[threat-intelligence-locations|locations]].
+Learn how to enable automatic tagging of Threat Actors based on their origin locations.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Role required:
 
 ## About this task
 
-When a relationship between a [[threat-actor|Threat Actor]] and a [[location|Location]] object is created or updated, and the relationship type is **originates-from**, a **Priority: Critical** tag is automatically added to the Threat Actor.
+When a relationship between a Threat Actor and a Location object is created or updated, and the relationship type is **originates-from**, a **Priority: Critical** tag is automatically added to the Threat Actor.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -56,7 +56,7 @@ When a relationship between a [[threat-actor|Threat Actor]] and a [[location|Loc
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -70,11 +70,3 @@ When a relationship between a [[threat-actor|Threat Actor]] and a [[location|Loc
 
 [Automated flows tables]()
 
-## Related
-
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-actor|Threat Actor]]
-- [[location|Location]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

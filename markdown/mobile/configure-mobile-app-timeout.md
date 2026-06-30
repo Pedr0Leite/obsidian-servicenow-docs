@@ -28,7 +28,7 @@ Mobile apps timeout when their associated OAuth token expires. Token lifespans a
 
     1.  Navigate to **System OAuth** &gt; **Application Registry** and open the OAuth entity for the application you want to modify.
 
-        For example, open the **ServiceNow Agent** record to modify the timeout for your Mobile Agent. To modify the timeout for your [[now-mobile-app|Now Mobile app]], open the **ServiceNow Request** record.
+        For example, open the **ServiceNow Agent** record to modify the timeout for your Mobile Agent. To modify the timeout for your Now Mobile app, open the **ServiceNow Request** record.
 
     2.  In the Refresh Token Lifespan field, change the number in seconds to the amount of time the refresh token is valid.
 
@@ -48,9 +48,5 @@ For example, if you want the mobile app's token to expire after 30 minutes, use 
 
 Sign out and sign back in to the mobile app. Otherwise the app uses the previously granted sessions and tokens.
 
-**Parent Topic:**[[mobile-authentication|Mobile authentication]]
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[mobile-authentication|Mobile authentication]]
-- [[now-mobile-app|Now Mobile app]]

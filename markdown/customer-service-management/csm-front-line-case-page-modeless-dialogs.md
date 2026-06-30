@@ -12,7 +12,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 # Modeless dialogs
 
-Modeless dialogs are windows that overlay the main window content in [[csm-workspaces-configure|CSM Configurable Workspace]]. Customer service agents can use modeless dialogs to create and post comments and work notes to the [[csm-config-ws-activity-stream|activity stream]] and to compose and send emails.
+Modeless dialogs are windows that overlay the main window content in CSM Configurable Workspace. Customer service agents can use modeless dialogs to create and post comments and work notes to the activity stream and to compose and send emails.
 
 A modeless dialog is a window that appears in a workspace as an overlay on top of the main window content. This overlay enables agents to interact with the window content and the overlay content at the same time. Agents can use modeless dialogs to do the following:
 
@@ -32,12 +32,12 @@ The thin compose modeless dialog feature incorporates modeless dialogs into the 
 
 Thin compose modeless dialogs are available on the following record pages:
 
--   [[csm-front-line-case-page|Front-line case page]]
--   [[csm-default-record-page|CSM default record page]]
--   [[csm-interaction-record-page|CSM Interaction record page]]
--   [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
--   [[csm-native-voice-record-page|CSM voice interaction record page]]
--   [[csm-email-interaction-record-page|Email interaction record page]]
+-   [Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md)
+-   [CSM default record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md)
+-   [CSM Interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-interaction-record-page.md)
+-   [CSM centered chat interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md)
+-   [CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md)
+-   [Email interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-email-interaction-record-page.md)
 
 **Note:** The thin compose modeless dialog feature has the Rich Text Editor enabled, which can add HTML tags along with the text to the **Additional comments** and **Work notes** fields on the case record. To remove these tags, see [Updating the glide.ui.journal.use\_html property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md).
 
@@ -81,7 +81,7 @@ Add a link to a knowledge article
 
 </td><td>
 
-To add a link to a knowledge article:1.  Select the [[configure-nba|Recommended Actions]] tab in the contextual side panel.
+To add a link to a knowledge article:1.  Select the Recommended Actions tab in the contextual side panel.
 2.  View the list of knowledge articles or search for an article.
 3.  Select the More Actions menu on the knowledge article card.
 4.  Select **Attach and add link in comment** or **Add link in work note** or **Attach and add link in email**.
@@ -113,7 +113,7 @@ Minimize a modeless dialog
 
 </td><td>
 
-To minimize a modeless dialog, select the Minimize dialog \(\[Omitted image "modeless-dialog-minimize-icon.png"\] Alt text: minimize icon is a flat white line at the bottom of a black box\) button in the window header. Minimized modeless dialogs appear in the dock at the bottom of the workspace. For more information, see [[csm-config-ws-bottom-utility-bar|Workspace dock]].
+To minimize a modeless dialog, select the Minimize dialog \(\[Omitted image "modeless-dialog-minimize-icon.png"\] Alt text: minimize icon is a flat white line at the bottom of a black box\) button in the window header. Minimized modeless dialogs appear in the dock at the bottom of the workspace. For more information, see [Workspace dock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-bottom-utility-bar.md).
 
 </td></tr><tr><td>
 
@@ -293,7 +293,7 @@ Select an email draft from the Draft Emails related list
 
 </td><td>
 
-1.  Select the Related [[migration-lists|Lists]] tab in the contextual side panel.
+1.  Select the Related Lists tab in the contextual side panel.
 2.  Expand the Draft Emails related list.
 3.  Select the Open draft icon on the desired draft email card.
 
@@ -472,7 +472,7 @@ The **Open attachment preview in modeless window** UI Builder property controls 
 -   Navigate through multiple attachments using a carousal.
 -   Download and delete attachments.
 
-**Note:** Agents can view attachments in modeless dialogs when the attachments are available in the contextual side panel or in the activity stream. Viewing attachments from other locations such as the email composer or [[migration-forms|forms]] continues to use the full-page preview.
+**Note:** Agents can view attachments in modeless dialogs when the attachments are available in the contextual side panel or in the activity stream. Viewing attachments from other locations such as the email composer or forms continues to use the full-page preview.
 
 ## Updating the glide.ui.journal.use\_html property
 
@@ -489,17 +489,3 @@ To remove the HTML tags, enable the **glide.ui.journal.use\_html** system proper
 
 Setting this property to true enables the Rich Text Editor for the **Additional comments** and **Work notes** fields on the case record and removes the HTML tags.
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-email-interaction-record-page|Email Interaction record page]]
-- [[csm-config-ws-bottom-utility-bar|Workspace dock]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

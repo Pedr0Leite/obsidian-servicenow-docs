@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Create a problem model
 
-Create custom [[problem-mgmt-models|Problem Management models]] with states and transitions tailored to your use cases.
+Create custom Problem Management models with states and transitions tailored to your use cases.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Open the Problem [[c_Models|Models]] table in one of the following ways.
+1.  Open the Problem Models table in one of the following ways.
 
     -   In the navigation filter, enter `prb_model.list`.
     -   Navigate to **All** &gt; **Problem** &gt; **Administration** &gt; **Problem Models**.
@@ -33,7 +33,7 @@ Role required: admin
 
     1.  Select **New**.
 
-    2.  On the [[problem-model-form|Problem Model form]], fill in the fields.
+    2.  On the Problem Model form, fill in the fields.
 
         For more information, see [Problem model form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-model-form.md).
 
@@ -85,8 +85,3 @@ If you selected the **Default problem model** option in the Problem Model form, 
 
 **Next topic:**[Create a problem task model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-task-model.md)
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]
-- [[problem-model-form|Problem model form]]

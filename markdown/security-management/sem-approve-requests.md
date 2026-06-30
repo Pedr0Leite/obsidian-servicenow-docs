@@ -119,7 +119,7 @@ The approval flow for risk reduction is same as the exception approvals \(deferr
 
 **Note:**
 
--   Starting with v30.3.3 of Exception Management for USEM and v26.6.2 of [[vuln-landing-page|Vulnerability Response]], approvers can select multiple requests at once and approve or reject them in a single action, rather than handling each request individually.
+-   Starting with v30.3.3 of Exception Management for USEM and v26.6.2 of Vulnerability Response, approvers can select multiple requests at once and approve or reject them in a single action, rather than handling each request individually.
 -   Add users to the approval groups before you submit approval requests. If you create requests before you add users to the approval groups, the requests might not be visible to those users that have the approval permission.
 
 ## Procedure
@@ -174,9 +174,5 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[vuln-landing-page|Vulnerability Response]]

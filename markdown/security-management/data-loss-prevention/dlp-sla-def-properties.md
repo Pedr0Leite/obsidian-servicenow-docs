@@ -111,7 +111,7 @@ Timezone Source
 
 Timezone source to be used when creating task SLAs. The available options are:-   The caller's timezone
 -   The SLA definition's timezone
--   The CI [[location|location]]'s timezone
+-   The CI location's timezone
 -   The task location's timezone
 -   The caller location's timezone
 
@@ -181,7 +181,7 @@ Conditions under which the active SLA is completed and a new SLA is established 
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -209,7 +209,3 @@ Conditions under which the active SLA is completed and a new SLA is established 
 
 [Create a Data Loss Prevention Incident Response SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-sla-definitions.md)
 
-## Related
-
-- [[location|Location]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

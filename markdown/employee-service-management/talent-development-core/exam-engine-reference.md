@@ -14,8 +14,5 @@ breadcrumb: [Career Assessment, Growth Experiences, HR Service Delivery, Employe
 
 # Career Assessment reference
 
-All information regarding the system properties and tables installed with [[exam-engine|Career Assessment]] are listed here.
+All information regarding the system properties and tables installed with Career Assessment are listed here.
 
-## Related
-
-- [[exam-engine|Career Assessment]]

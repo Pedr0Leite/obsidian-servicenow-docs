@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.manager, sn\_oper\_res.admin, approver of the vulne
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
-2.  Navigate to the [[exploring-op-vul|operational vulnerability]] record from the list or select **Vulnerability approvals** in **My pending tasks**.
+2.  Navigate to the operational vulnerability record from the list or select **Vulnerability approvals** in **My pending tasks**.
 
 3.  Select the record for which you have been assigned as the approver.
 
@@ -49,7 +49,3 @@ Role required: sn\_oper\_res.manager, sn\_oper\_res.admin, approver of the vulne
 
 The Operational vulnerability analyst reviews the details and closes the Operational vulnerability record.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

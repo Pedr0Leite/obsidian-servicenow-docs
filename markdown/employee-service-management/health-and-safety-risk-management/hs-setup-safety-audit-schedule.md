@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.audit\_schedule\_
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -61,13 +61,9 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.audit\_schedule\_
 -   All audit records for an audit schedule are generated in its **Scheduled audits** tab. These audit records are also available under **Audits** &gt; **All** list.
 -   All required fields are copied from the audit schedule and audit questionnaire to its scheduled audit records.
 -   Any audit questionnaire created for a schedule are automatically added to all its audit records.
--   The assigned user receives a notification to complete the smart assessment or survey for the generated audits. They can complete the audit in the [[employee-center-landing-page|Employee Center]] or in the mobile app.
+-   The assigned user receives a notification to complete the smart assessment or survey for the generated audits. They can complete the audit in the Employee Center or in the mobile app.
     -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
     -   A survey can be completed either in the Employee Center or the mobile app. For more information, see [Complete a survey from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-complete-safety-insp-survey.md).
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

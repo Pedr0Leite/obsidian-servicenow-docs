@@ -14,7 +14,7 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 Learn how the Matrix Loader accelerates configuration management by simplifying large-scale data creation, updates, and migrations across your CPQ environments.
 
-The Matrix Loader is a bulk data management utility that enables administrators to efficiently add, edit, and migrate configuration elements such as [[fields|fields]], field options, [[rules_101|rules]], [[layouts|layouts]], [[product_picker_overview|product pickers]], and tables. Instead of creating elements one by one in the Admin interface, the Matrix Loader lets you define configurations in CSV files—making it ideal for scaling complex implementations, backing up configurations, and moving data between test and production environments.
+The Matrix Loader is a bulk data management utility that enables administrators to efficiently add, edit, and migrate configuration elements such as fields, field options, rules, layouts, product pickers, and tables. Instead of creating elements one by one in the Admin interface, the Matrix Loader lets you define configurations in CSV files—making it ideal for scaling complex implementations, backing up configurations, and moving data between test and production environments.
 
 The Matrix Loader ensures data integrity and consistency by automatically validating dependencies \(for example, between fields and field options\) and uploading elements in the correct order. Administrators can also use the Matrix Loader to export CSV templates and sample files, providing a quick reference for valid column structures, accepted values, and upload formats.
 
@@ -47,8 +47,8 @@ The Matrix Loader supports multiple configuration types, each designed to stream
 |-----------|-------|----------------|
 |Fields and field options|Create and manage fields, picklists, and product pickers.|Add 200 product options to a field at once.|
 |Rules|Define business logic, calculations, and conditional visibility.|Upload all visibility and determination rules for a blueprint.|
-|Layouts|Design user experiences by defining field placement and grouping.|Update layout structure across multiple [[blueprints|blueprints]].|
-|Tables|Manage data [[cpq-sets|sets]] used for lookups and dynamic logic.|Import pricing data or reference mappings.|
+|Layouts|Design user experiences by defining field placement and grouping.|Update layout structure across multiple blueprints.|
+|Tables|Manage data sets used for lookups and dynamic logic.|Import pricing data or reference mappings.|
 |Product pickers|Define product selection fields and their behaviors.|Bulk upload accessory or component data.|
 
 ## How the Matrix Loader works
@@ -75,23 +75,11 @@ The Matrix Loader performs uploads in a controlled sequence to maintain relation
 **Related topics**  
 
 
-[[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
+[Configure the Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-[[cpq-matrix-loader-csv-fields-and-field-options-upload-and-export|Matrix Loader CSV fields and field options upload and export]]
+[Matrix Loader CSV fields and field options upload and export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-fields-and-field-options-upload-and-export.md)
 
-[[matrix_loader_csv_rules_upload|Matrix Loader: CSV rules upload]]
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 
-[[cpq-matrix-loader-csv-table-upload|Matrix Loader: CSV table upload]]
+[Matrix Loader: CSV table upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-table-upload.md)
 
-## Related
-
-- [[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
-- [[cpq-matrix-loader-csv-fields-and-field-options-upload-and-export|Matrix Loader CSV fields and field options upload and export]]
-- [[matrix_loader_csv_rules_upload|matrix_loader_csv_rules_upload]]
-- [[cpq-matrix-loader-csv-table-upload|cpq matrix loader csv table upload]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[product_picker_overview|Product pickers]]
-- [[blueprints|Blueprints]]
-- [[cpq-sets|Sets]]

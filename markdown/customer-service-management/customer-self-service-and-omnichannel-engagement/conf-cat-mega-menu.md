@@ -14,7 +14,7 @@ breadcrumb: [Portal Mega Menu widget, Portal Polaris Header widget, Configurable
 
 # Configure the category of a Portal Mega Menu widget
 
-Configure a [[portal-mega-menu-widget|Portal Mega Menu widget]] to define a menu category and associate pages to it to be able to navigate easily to different pages from the portal page.
+Configure a Portal Mega Menu widget to define a menu category and associate pages to it to be able to navigate easily to different pages from the portal page.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ Role required: sp\_admin
 
 10. Select **Update**.
 
-## Related
 
-- [[portal-mega-menu-widget|Portal Mega Menu widget]]

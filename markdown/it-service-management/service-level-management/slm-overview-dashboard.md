@@ -16,7 +16,7 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 The Service Level Management Overview Dashboard provides insight into Service Level Agreement \(SLA\) information relevant to the logged-in user. By default, the Overview dashboard is available to users who possess the itil role.
 
-The Overview Dashboard is enabled by default for new customers. Customers upgrading from a prior release have to enable the [[service-level-mgmt-landing-page|Service Level Management]] Dashboard plugin \(com.snc.sla.overview\) to activate this feature.
+The Overview Dashboard is enabled by default for new customers. Customers upgrading from a prior release have to enable the Service Level Management Dashboard plugin \(com.snc.sla.overview\) to activate this feature.
 
 You can navigate to the dashboard in the following ways:
 
@@ -37,6 +37,3 @@ You can navigate to the dashboard in the following ways:
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

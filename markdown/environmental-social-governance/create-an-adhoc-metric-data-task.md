@@ -45,14 +45,10 @@ However, for calculated metric definitions that have the **Calculation level** f
 
 ## What to do next
 
-For information about features that are not supported for ad hoc metric data tasks, see [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]].
+For information about features that are not supported for ad hoc metric data tasks, see [Ad hoc metric data task limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ad-hoc-metric-data-task-limitations.md).
 
 -   **[Ad hoc metric data task limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ad-hoc-metric-data-task-limitations.md)**  
 Ad hoc metric data tasks don't support certain features that are available for scheduled metric data tasks.
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]]
-- [[using-grc-metrics|using grc metrics]]

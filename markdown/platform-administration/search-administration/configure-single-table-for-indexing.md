@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Configure a table for indexing and searching
 
-Enable Zing text indexing for a table to allow users to search its records for string values. Configure the table's text indexing attributes, [[stop-words-ais|stop words]], and synonym dictionaries to control search behavior.
+Enable Zing text indexing for a table to allow users to search its records for string values. Configure the table's text indexing attributes, stop words, and synonym dictionaries to control search behavior.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Enabling text indexing for a table also enables it for all child tables. If you 
 
 **Note:** Whenever you create an index table, the system also creates Access Control Roles \(ACLs\) for new tables.
 
-Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search [[hs-results|results]] during index generation. To estimate text indexing duration, you can [view historical text indexing statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/r_ViewTextIndexingStatsAndStatus.md).
+Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can [view historical text indexing statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/r_ViewTextIndexingStatsAndStatus.md).
 
 **Note:**
 
@@ -46,7 +46,7 @@ To enable users to search tables created by update set transfers, you must manua
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index [[clone-configurations-tab|Configurations]]** and select **New**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index Configurations** and select **New**.
 
 2.  In **Applies to**, select **Table**.
 
@@ -105,7 +105,7 @@ To enable users to search tables created by update set transfers, you must manua
 
     4.  Select **Submit**.
 
-    5.  Repeat this procedure to define additional search engine [[r_DirectJDBCProbeParameters|parameters]] for table columns in the index group.
+    5.  Repeat this procedure to define additional search engine parameters for table columns in the index group.
 
     6.  In the Related Links section, select **Generate Text Index**.
 
@@ -121,7 +121,7 @@ To enable users to search tables created by update set transfers, you must manua
 
 8.  Add a synonym dictionary.
 
-    Specifying a synonym dictionary searches on the search term as well as [[synonyms-ais|synonyms]] of the search term, such as car, and its synonym, auto. Zing provides a default synonym dictionary.
+    Specifying a synonym dictionary searches on the search term as well as synonyms of the search term, such as car, and its synonym, auto. Zing provides a default synonym dictionary.
 
     1.  On the **Index synonym Dictionaries** tab, select **New**.
 
@@ -205,7 +205,7 @@ Text indexing excludes fields of these types:-   Date
 -   True/False
 -   Workflow
 
- For more information on these types, see [[r_FieldTypes|Field types reference]].
+ For more information on these types, see [Field types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
 
 </td></tr><tr><td>
 
@@ -225,12 +225,3 @@ Text indexing excludes fields configured for Edge Encryption. For more informati
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_FieldTypes|Field types reference]]
-- [[stop-words-ais|Stop words]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[synonyms-ais|Synonyms]]

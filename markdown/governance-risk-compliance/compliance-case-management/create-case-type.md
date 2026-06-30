@@ -14,7 +14,7 @@ breadcrumb: [Configure, Compliance Case Management, Governance, Risk, and Compli
 
 # Create a case type
 
-Create a case type in the GRC: [[compliance-case-management|Compliance Case Management]] application to categorize the compliance cases by the type of occurrence. For example, you can create a case type, such as a financial case, code of conduct, or HR case.
+Create a case type in the GRC: Compliance Case Management application to categorize the compliance cases by the type of occurrence. For example, you can create a case type, such as a financial case, code of conduct, or HR case.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can set up a case type to categorize the compliance cases by the type of occ
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[case-type-form|case type form]], see [Case Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/case-type-form.md).
+    For a description of the field values on the case type form, see [Case Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/case-type-form.md).
 
 4.  Open the form context menu and select **Save**.
 
@@ -52,9 +52,9 @@ You can set up a case type to categorize the compliance cases by the type of occ
 
 7.  Select **Submit**.
 
-8.  To [[prm-create-a-view-rule|create a view rule]] instead of using the default one, see [Create view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-view-rule.md).
+8.  To create a view rule instead of using the default one, see [Create view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-view-rule.md).
 
-9.  To [[create-assignment-rule|create an assignment rule]] instead of using the default one, see [Create an assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-assignment-rule.md).
+9.  To create an assignment rule instead of using the default one, see [Create an assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-assignment-rule.md).
 
 
 -   **[Case Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/case-type-form.md)**  
@@ -66,9 +66,3 @@ Create an assignment rule and apply it to a compliance case type or request type
 
 **Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/configure-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[case-type-form|Case Type form]]
-- [[prm-create-a-view-rule|Create a view rule]]
-- [[create-assignment-rule|Create an assignment rule]]

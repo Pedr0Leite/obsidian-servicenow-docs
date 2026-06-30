@@ -18,7 +18,7 @@ When a policy that executes against a deployable snapshot fails or generates an 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: sn\_devops\_config.admin
 
@@ -26,7 +26,7 @@ Role required: sn\_devops\_config.admin
 
 The Validation failures panel appears on the application tab whenever validation fails for any deployable in the application. The panel displays only snapshots with error, warning, or execution failure status for validation. Snapshots with not validated or in progress status do not appear.
 
-**Important:** The data changes and status [[settings-mobile|settings]] that you update in this procedure apply only to the selected changeset. For that reason, be sure to coordinate your work with others on your team.
+**Important:** The data changes and status settings that you update in this procedure apply only to the selected changeset. For that reason, be sure to coordinate your work with others on your team.
 
 ## Procedure
 
@@ -56,7 +56,3 @@ The Validation failures panel appears on the application tab whenever validation
     -   **Resolved**: You have fixed the error. Be sure to commit the changeset and validate the data to ensure that the data is correct.
     -   **Ignored**: This status indicates that no further actions will be taken.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

@@ -15,7 +15,7 @@ breadcrumb: [Assess third-party risk, Third-party Risk Management, Governance, R
 
 # Generate AI-assisted draft responses in a TPRM assessment
 
-Use the [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] to generate draft responses for assessment questionnaires using vendor documents from the Document Management System \(DMS\) and previously completed assessments.
+Use the Smart Assessment Response Assist skill to generate draft responses for assessment questionnaires using vendor documents from the Document Management System \(DMS\) and previously completed assessments.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ The skill generates draft responses from two sources: documents stored in DMS an
 
 7.  Accept or remove each suggestion.
 
-    Select **Apply** to accept a suggestion or **Discard** to remove it. Applied suggestions can be edited before submission. Selecting Apply does not [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]].
+    Select **Apply** to accept a suggestion or **Discard** to remove it. Applied suggestions can be edited before submission. Selecting Apply does not submit the assessment.
 
 8.  Complete all required questions and select **Submit**.
 
@@ -108,7 +108,3 @@ The assessment contains AI-generated draft responses based on the selected DMS d
 
 [Document Management system in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms.md)
 
-## Related
-
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

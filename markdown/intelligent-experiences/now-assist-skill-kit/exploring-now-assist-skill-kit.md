@@ -14,11 +14,11 @@ breadcrumb: [Now Assist Skill Kit, Enable AI experiences]
 
 # Exploring Now Assist Skill Kit
 
-Use the [[now-assist-skill-kit-landing|Now Assist Skill Kit]] plugin for [[platform-now-assist-landing|Now Assist]] to create and activate custom [[ai-prompts|prompts]] and skills for Now Assist.
+Use the Now Assist Skill Kit plugin for Now Assist to create and activate custom prompts and skills for Now Assist.
 
 ## Now Assist Skill Kit overview
 
-Use Now Assist Skill Kit to create custom skills when base system [[now-assist-skills|Now Assist skills]] don't fit your needs. Custom skills enable you to have greater flexibility with Now Assist's generative AI capabilities.
+Use Now Assist Skill Kit to create custom skills when base system Now Assist skills don't fit your needs. Custom skills enable you to have greater flexibility with Now Assist's generative AI capabilities.
 
 ## Before you build a custom skill
 
@@ -65,7 +65,7 @@ The following diagram shows the user journey for Now Assist Skill Kit.
 
 -   **Deploy the skill**
 
-    Now Assist Skill Kit enables you to deploy your skill to [[now-assist-center-now-assist-panel|Now Assist panel]], [[now-assist-write-overview|Now Assist Context Menu]], Virtual Agent, Flow Action, or a UI Action.
+    Now Assist Skill Kit enables you to deploy your skill to Now Assist panel, Now Assist Context Menu, Virtual Agent, Flow Action, or a UI Action.
 
 
 ## Now Assist Skill Kit benefits
@@ -80,17 +80,8 @@ Now Assist Skill Kit enables you to design your own custom generative AI functio
 
 ## What to explore next
 
-To learn more about configuring and [[using-now-assist-skill-kit|using Now Assist Skill Kit]], see:
+To learn more about configuring and using Now Assist Skill Kit, see:
 
 -   [Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configuring-now-assist-skill-kit.md)
 -   [Using Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/using-now-assist-skill-kit.md)
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[using-now-assist-skill-kit|Using Now Assist Skill Kit]]

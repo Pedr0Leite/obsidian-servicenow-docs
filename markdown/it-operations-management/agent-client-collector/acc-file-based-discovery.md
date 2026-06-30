@@ -14,7 +14,7 @@ breadcrumb: [Application patterns for the Agent Client Collector, ACC Discovery,
 
 # Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery
 
-Discovering java installation data using [[acc-landing-page|Agent Client Collector]] for Visibility - Content [[file-based-discovery|file-based discovery]] enables you to discover file information in your system.
+Discovering java installation data using Agent Client Collector for Visibility - Content file-based discovery enables you to discover file information in your system.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Discovering java installation data using [[acc-landing-page|Agent Client Collect
 -   Ensure that a MID Server is installed in your environment.
 -   Enable the Oracle Global License Advisory Services \(GLAS\) hardware data collection policy.
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -52,8 +52,3 @@ Role required: [[r-discovery|discovery]]\_admin
 
 When running Discovery for java installation, data is discovered through file-based discovery and is stored in the `ora_java_audit` table. For details on the data stored in this table, see [Data collected during Agent Client Collector for Visibility - Content File-Based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collected-file-based-discovery.md).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]

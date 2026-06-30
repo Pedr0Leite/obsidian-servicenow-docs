@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Control Policy in AWS, Setting up AWS cloud, Co
 
 # Set up suspension of an AWS account using service control policy
 
-Set up a restriction on cloud account creation. For example, when the account owner isn’t in the organization or if there are budget constraints. Using [[cam-landing|Cloud Account Management]], admin adds the account number to the AWS organization's service control policy, promoting existing accounts to continue to function normally while blocking new account creation.
+Set up a restriction on cloud account creation. For example, when the account owner isn’t in the organization or if there are budget constraints. Using Cloud Account Management, admin adds the account number to the AWS organization's service control policy, promoting existing accounts to continue to function normally while blocking new account creation.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The key element that you must provide to the ServiceNow AI Platform admin is the
 
 [Provisioning modes for Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/supported-provision-modes.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

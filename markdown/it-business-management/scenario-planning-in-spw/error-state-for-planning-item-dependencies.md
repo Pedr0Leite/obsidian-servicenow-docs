@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Item dependency errors in Strategic Planning Workspace
 
-Learn about the scenarios when the planning item dependencies on the portfolio plan roadmap or free-form roadmap in [[alignment-planner-workspace-landing-page|Strategic Planning]] and [[portfolio-planning-app-landing-page|Portfolio Planning]] can be in an error state.
+Learn about the scenarios when the planning item dependencies on the portfolio plan roadmap or free-form roadmap in Strategic Planning and Portfolio Planning can be in an error state.
 
 A dependency between two planning items can be in an error state when a scheduling conflict exists between the items. In a linear \(Depends on\) dependency, the items are scheduled in a way that starting the work on one item requires completing the work on another item.
 
@@ -35,7 +35,3 @@ To resolve such errors, review the scope of the planning items and update the st
 
 [Update roadmap item dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-planning-item-dependencies-apw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

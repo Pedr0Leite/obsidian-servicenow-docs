@@ -14,7 +14,7 @@ breadcrumb: [Classic Workflow, ServiceNow AI Platform Additional Capabilities, E
 
 # Workflow activities
 
-Workflow activity properties [[reference|reference]]
+Workflow activity properties reference
 
 **Important:** As of the Zurich release, new customers no longer receive the legacy workflows created and published by ServiceNow, Inc.. All legacy workflow functionality has been replaced by Workflow Studio content. Only customers who upgraded from prior versions retain the ability to use and edit existing legacy workflows. While all customers retain the ability to create legacy workflows, you are strongly encouraged to instead use Workflow Studio to create process automation content. Only Workflow Studio will receive new features and enhancements.
 
@@ -37,7 +37,7 @@ For information about configuring different types of activities, click an activi
 
 The following activities are included with Orchestration.
 
--   [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]
+-   Active Directory activity pack
 -   Orchestration activities
 -   PowerShell activities
 -   Puppet activities
@@ -46,7 +46,3 @@ The following activities are included with Orchestration.
 
 If Orchestration is active on your system, users with the proper roles can create custom activities using the ServiceNow [Orchestration activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md). For information about the templates Orchestration provides for creating custom activities that you can upload to the ServiceNow Store, see [Activity designer components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ActivityDesignerComponents.md).
 
-## Related
-
-- [[reference|Reference]]
-- [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]

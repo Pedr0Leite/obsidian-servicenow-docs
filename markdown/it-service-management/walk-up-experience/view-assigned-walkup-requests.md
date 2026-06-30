@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # Manage Walk-up Experience interactions manually
 
-Agents supporting walk-up locations can manually manage queue requests with several [[walkup-experience-landing-page|Walk-up Experience]] interaction-related modules.
+Agents supporting walk-up locations can manually manage queue requests with several Walk-up Experience interaction-related modules.
 
 ## Before you begin
 
@@ -93,7 +93,7 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
     2.  To view the walk-up location stockroom for fulfillment requests, click the **Stockroom Consumables** related link.
 
-    3.  If you cannot resolve the issue or fulfill the request, click either the **Create Incident** or **Create Request** related link to [[create-an-incident|create an incident]] or access the Service Catalog.
+    3.  If you cannot resolve the issue or fulfill the request, click either the **Create Incident** or **Create Request** related link to create an incident or access the Service Catalog.
 
     When you create an associated incident or request through the Service Catalog, the associated related lists on the form populate accordingly. Related lists include the following details:
 
@@ -115,7 +115,3 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
 [Create an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-an-incident.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[create-an-incident|Create an incident]]

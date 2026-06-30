@@ -38,7 +38,7 @@ Subscribe
 
 </td><td>
 
-[[subscribe|Subscribe to content]] in the community.
+Subscribe to content in the community.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Content List
 
 </td><td>
 
-[[migration-lists|Lists]] all content added to the community. Displays when updates were made to replies, comments, and answers marked as correct and which user made the updates. Filter according to content type or sort by most recent or popular, and when the content was created.
+Lists all content added to the community. Displays when updates were made to replies, comments, and answers marked as correct and which user made the updates. Filter according to content type or sort by most recent or popular, and when the content was created.
 
  **Note:**
 
@@ -161,7 +161,3 @@ Displays the top three posts according to number of views.
 
 [Gamification]()
 
-## Related
-
-- [[subscribe|Subscribe to content]]
-- [[migration-lists|Lists]]

@@ -39,7 +39,7 @@ A cloud-based customer service solution that handles inbound and outbound commun
 
 ### contract management
 
-The process of creating, managing, and executing legal sales [[contracts|contracts]] from completed quotes.
+The process of creating, managing, and executing legal sales contracts from completed quotes.
 
 ## D
 
@@ -83,7 +83,7 @@ A document acknowledging that a specified amount of money, goods, or services ha
 
 ### Return
 
-The process of sending back goods to the [[supplier|supplier]] due to various reasons such as defects or incorrect orders.
+The process of sending back goods to the supplier due to various reasons such as defects or incorrect orders.
 
 ## S
 
@@ -127,7 +127,3 @@ A ServiceNow partner that provides native voice and SMS capabilities to compleme
 
 Defined sequence of steps automating processes in Sales Customer Relationship Management.
 
-## Related
-
-- [[contracts|Contracts]]
-- [[supplier|Supplier]]

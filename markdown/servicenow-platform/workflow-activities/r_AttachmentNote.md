@@ -14,11 +14,11 @@ breadcrumb: [Task workflow activities, Workflow activities reference, Workflow a
 
 # Attachment Note workflow activity
 
-The **[[attachment|Attachment]] Note** activity adds an attachment to the current record.
+The **Attachment Note** activity adds an attachment to the current record.
 
 **Note:** This activity is only available when the workflow runs on a table that extends Task.
 
-This activity allows the use of irregular [[html|HTML]] tags to [[reference|reference]] attachments, specifically the `[code]` tag. Entries in a journal field that use irregular HTML do not work if the **glide.ui.allow\_deep\_html\_validation** property is true. This property is set to false by default.
+This activity allows the use of irregular HTML tags to reference attachments, specifically the `[code]` tag. Entries in a journal field that use irregular HTML do not work if the **glide.ui.allow\_deep\_html\_validation** property is true. This property is set to false by default.
 
 **Note:** Task activities run as the user whose actions complete the task the workflow was waiting for and advances the workflow.
 
@@ -48,7 +48,7 @@ Field
 
 </td><td>
 
-When this activity runs, it makes a note on the current record that a file has been attached. Specify the field on the current record in which you want this note to appear. The options are:-   **none** \(defaults to [[c_WorkNotes|Work Notes]]\)
+When this activity runs, it makes a note on the current record that a file has been attached. Specify the field on the current record in which you want this note to appear. The options are:-   **none** \(defaults to Work Notes\)
 -   **Additional Comments**
 -   **Work notes**
 
@@ -74,10 +74,3 @@ The content of the .txt file attachment. It can be in plain text or use variable
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[attachment|Attachment]]
-- [[html|HTML]]
-- [[reference|Reference]]
-- [[c_WorkNotes|Work notes]]

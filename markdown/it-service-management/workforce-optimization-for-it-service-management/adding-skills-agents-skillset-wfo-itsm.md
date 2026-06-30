@@ -16,7 +16,7 @@ breadcrumb: [Skills Management, Workforce Optimization for ITSM, IT Service Mana
 
 Analyze all skills and the levels for each skill that your agents have from one location.
 
-The skill matrix in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] in the [[cf-coaching-landing|Coaching]] application displays all skills for all the teams that you manage or additionally manage.
+The skill matrix in Workforce Optimization for ITSM in the Coaching application displays all skills for all the teams that you manage or additionally manage.
 
 Using the skill matrix, you can:
 
@@ -38,7 +38,3 @@ Approve predicted skills if the skill is necessary for the agent to complete ass
 
 **Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/skills-management-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

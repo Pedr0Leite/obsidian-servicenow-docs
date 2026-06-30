@@ -22,11 +22,11 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **System Mobile** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Applet Launchers**.
+1.  Navigate to **System Mobile** &gt; **Now Mobile App** &gt; **Applet Launchers**.
 
 2.  In the Launcher screens page, select **Homepage**.
 
-3.  In the Homepage screen, go to the **Body** tab and select **[[emp-center-quick-link-config|Quick links]]**.
+3.  In the Homepage screen, go to the **Body** tab and select **Quick links**.
 
 4.  In the Launcher section mapping page, select **Preview this record** on the **UI section**, which should display **Quick links**.
 
@@ -41,7 +41,3 @@ You have set up Quick links on your Now Mobile® application.
 
 **Parent Topic:**[Configure Now Mobile Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/nm-home.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[emp-center-quick-link-config|Quick links]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, KPI Signals, Platform Analytics experience, Platform Ana
 
 # Activate KPI Signals monitoring for an indicator \(KPI\)
 
-[[process-behavior-charts-for-kpis|KPI Signals]] does not monitor indicators by default. You activate monitoring for individual indicators. When you activate KPI Signals for an indicator, you make yourself a responsible user for that indicator.
+KPI Signals does not monitor indicators by default. You activate monitoring for individual indicators. When you activate KPI Signals for an indicator, you make yourself a responsible user for that indicator.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: pa\_kpi\_signal\_admin, pa\_admin, or admin
 
 ## Procedure
 
-1.  Open KPI Signals for an indicator, as described in [[view-kpi-signals|View KPI Signals]].
+1.  Open KPI Signals for an indicator, as described in [View KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-signals.md).
 
 2.  If KPI Signals monitoring for the indicator has not been activated, click **Make me responsible** in the KPI Signals panel.
 
     \[Omitted image "kpi-signals-make-self-responsible.png"\] Alt text: The Make me Responsible button in the KPI Signals panel
 
-    KPI Signals monitoring cannot be active for a indicator unless there is at least one responsible user. Therefore, when you activate monitoring, you automatically make yourself a responsible user. You can then reassign responsibility. For more information, see [[kpi-signals-responsible-users|Configure responsibility for KPI Signals]].
+    KPI Signals monitoring cannot be active for a indicator unless there is at least one responsible user. Therefore, when you activate monitoring, you automatically make yourself a responsible user. You can then reassign responsibility. For more information, see [Configure responsibility for KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-signals-responsible-users.md).
 
 3.  Select a start date from which to evaluate the indicator for signals.
 
@@ -53,14 +53,7 @@ After you activate KPI Signals monitoring for an indicator, you can:
 -   Change the start date for calculating the baseline
 -   Change the type of trend calculation for the baseline
 
-For more information, see [[configure-signal-detection|Configure signal detection]].
+For more information, see [Configure signal detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-detection.md).
 
-**Parent Topic:**[[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-## Related
-
-- [[view-kpi-signals|View KPI Signals]]
-- [[kpi-signals-responsible-users|Configure responsibility for KPI Signals]]
-- [[configure-signal-detection|Configure signal detection]]
-- [[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

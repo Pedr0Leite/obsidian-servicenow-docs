@@ -22,7 +22,7 @@ Role required: data\_classification\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data privacy]]** &gt; **Classification**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data privacy** &gt; **Classification**.
 
 2.  Select **+Add data class**.
 
@@ -32,7 +32,7 @@ Role required: data\_classification\_admin, admin
 
     |Field|Description|
     |-----|-----------|
-    |Class Name|Name of the [[data-classification|data classification]].|
+    |Class Name|Name of the data classification.|
     |Parent Class|Name of the parent data classification that this data classification is subordinate to. Leave the field empty if this data classification isn’t a child to a parent data classification.|
     |Description|Description of the data classification.|
 
@@ -40,7 +40,4 @@ Role required: data\_classification\_admin, admin
 
     The new data class is added. If the data class is a child, it will be listed under the parent in the left-hand navigation bar.
 
-## Related
 
-- [[data-privacy-landing|Data Privacy]]
-- [[data-classification|Data Classification]]

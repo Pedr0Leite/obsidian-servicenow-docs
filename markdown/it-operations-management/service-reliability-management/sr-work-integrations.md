@@ -14,7 +14,7 @@ breadcrumb: [Working with SRM services, Using Service Reliability Management, Se
 
 # Working with integrations in SRM
 
-Connect your services to monitoring tools using the Integrations Launchpad . Integrations send information to [[sr-landing-page|Service Reliability Management]] \(SRM\), helping you track alerts, manage incidents, and maintain service health.
+Connect your services to monitoring tools using the Integrations Launchpad . Integrations send information to Service Reliability Management \(SRM\), helping you track alerts, manage incidents, and maintain service health.
 
 ## Access the Integrations Launchpad
 
@@ -45,7 +45,7 @@ Be aware of the following when using the Integrations Launchpad for SRM:
 
 ## Learn more
 
-Visit the following links to set up and manage integrations with the Integrations Launchpad. The pages are in a different section because the Integrations Launchpad is part of the broader [[workspace-dashboard-use|Service Operations Workspace]].
+Visit the following links to set up and manage integrations with the Integrations Launchpad. The pages are in a different section because the Integrations Launchpad is part of the broader Service Operations Workspace.
 
 -   [Activate integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/activate-integration.md)
 -   [Configure an event custom connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/custom-connector.md)
@@ -56,7 +56,3 @@ Visit the following links to set up and manage integrations with the Integration
 
 **Parent Topic:**[Working with SRM services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-services.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

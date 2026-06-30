@@ -17,11 +17,11 @@ You can set refresh interval details and background colors, enable data caching 
 
 ## Before you begin
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [[pa-dashboard-roles|Platform Analytics dashboard roles]] for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  In the **Dashboards** library, choose the dashboard you want to configure.
 
@@ -67,14 +67,10 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
     -   In the **Dashboard Summary** section, choose whether to enable AI summary generation.
 
-        When you select **AI summary generation**, viewers see a banner with a button to generate a summary of the contents of the dashboard, including the visualizations, filters, and other elements. The summary also includes highlights and what has changed in the dashboard since the last summary generation request. You can also [[add-nacm|add the Now Assist Context Menu]] as an individual component to dashboard or individual dashboard tabs.
+        When you select **AI summary generation**, viewers see a banner with a button to generate a summary of the contents of the dashboard, including the visualizations, filters, and other elements. The summary also includes highlights and what has changed in the dashboard since the last summary generation request. You can also add the Now Assist Context Menu as an individual component to dashboard or individual dashboard tabs.
 
     -   Choose whether and which analytics to show in the **Insights** section.
 
         When you select **Show insights panel**, an **Insights** button is added to the dashboard. When a viewer presses this button, insights cards corresponding to the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/proactive-analytics/proactive-analytics.md).
 
-## Related
 
-- [[pa-dashboard-roles|Platform Analytics dashboard roles]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[add-nacm|Add the Now Assist context menu]]

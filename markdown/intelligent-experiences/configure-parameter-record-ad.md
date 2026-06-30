@@ -63,9 +63,9 @@ The **Shared** and **Mark As Sensitive** fields can only be edited when there ar
 
 ## Map parameters to inputs of on-screen task desktop action
 
-In the Design workspace of the [[agentic-desktop-landing-page|AI Desktop Actions]] application, you can select the **Use parameter** check box for desktop action inputs that must retrieve values from the parameter records during execution.\[Omitted image "ad-use-parameters-check.png"\] Alt text: Use parameter property in the AI Desktop Actions application.
+In the Design workspace of the AI Desktop Actions application, you can select the **Use parameter** check box for desktop action inputs that must retrieve values from the parameter records during execution.\[Omitted image "ad-use-parameters-check.png"\] Alt text: Use parameter property in the AI Desktop Actions application.
 
-In [[ai-agent-studio|AI Agent Studio]], when you add a desktop action tool that contains inputs configured for parameters, the **Map parameters** section appears in the modal. Each input configured for a parameter is listed by step name and description, with a **Parameter record** drop-down. \[Omitted image "ad-map-parameters-aia.png"\] Alt text: Map parameters section in the desktop action tool modal.
+In AI Agent Studio, when you add a desktop action tool that contains inputs configured for parameters, the **Map parameters** section appears in the modal. Each input configured for a parameter is listed by step name and description, with a **Parameter record** drop-down. \[Omitted image "ad-map-parameters-aia.png"\] Alt text: Map parameters section in the desktop action tool modal.
 
 The following rules apply to parameter mapping:
 
@@ -73,7 +73,7 @@ The following rules apply to parameter mapping:
 -   The same Parameter record can be mapped to multiple inputs.
 -   Each input can only be mapped to one Parameter record.
 
-**Note:** If you specify values for inputs configured for parameters in the agent instructions or in the [[now-assist-center-now-assist-panel|Now Assist panel]], the mapped parameter values override them.
+**Note:** If you specify values for inputs configured for parameters in the agent instructions or in the Now Assist panel, the mapped parameter values override them.
 
 **Important:**
 
@@ -108,14 +108,7 @@ Verify that you use the exact names of the Parameter records. Parameter record n
 **Related topics**  
 
 
-[[configuration-ssh-username-password-ad|Create a Desktop action parameter record]]
+[Create a Desktop action parameter record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuration-ssh-username-password-ad.md)
 
-[[configure-parameter-value-record|Create a parameter value record]]
+[Create a parameter value record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-parameter-value-record.md)
 
-## Related
-
-- [[configuration-ssh-username-password-ad|Create a Desktop action parameter record]]
-- [[configure-parameter-value-record|Create a parameter value record]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

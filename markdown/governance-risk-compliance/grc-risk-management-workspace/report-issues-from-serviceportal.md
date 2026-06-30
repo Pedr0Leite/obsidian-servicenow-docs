@@ -76,7 +76,7 @@ Which control objective is the issue related to?
 
 Control objective related to the issue.**Note:**
 
-This field appears only if [[r_PolicyComplianceMgmt|Policy and Compliance Management]] is installed.
+This field appears only if Policy and Compliance Management is installed.
 
 </td></tr><tr><td>
 
@@ -94,6 +94,3 @@ Control inherited from item generation process. The control objective is read-on
 
 **Parent Topic:**[Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

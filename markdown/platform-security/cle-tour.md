@@ -12,7 +12,7 @@ breadcrumb: [Exploring Column Level Encryption, Column Level Encryption, Encrypt
 
 # Column Level Encryption Guided Tour
 
-The tour gives a brief overview of the [[column-level-encryption-landing|Column Level Encryption]] setup needed to encrypt table fields or attachments.​ Steps for the creation of [[field-encryption|Field Encryption]] Modules, Module Access [[ca-policies|Policies]], and Encrypted Field Configurations are also covered. The tour includes links to detailed documentation and the ServiceNow University Column Level Encryption Overview course.​
+The tour gives a brief overview of the Column Level Encryption setup needed to encrypt table fields or attachments.​ Steps for the creation of Field Encryption Modules, Module Access Policies, and Encrypted Field Configurations are also covered. The tour includes links to detailed documentation and the ServiceNow University Column Level Encryption Overview course.​
 
 ## Before you begin
 
@@ -35,11 +35,5 @@ Role required: sn\_kmf.crypto\_manager or security\_admin
     \[Omitted image "tour\_image.png"\] Alt text: The Column Level Encryption tour.
 
 
-**Parent Topic:**[[exploring-column-level-encryption|Exploring Column Level Encryption]]
+**Parent Topic:**[Exploring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-column-level-encryption.md)
 
-## Related
-
-- [[exploring-column-level-encryption|Exploring Column Level Encryption]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]

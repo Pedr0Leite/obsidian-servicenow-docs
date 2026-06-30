@@ -14,7 +14,7 @@ breadcrumb: [Configure CIs as manual cluster, Application services in Event Mana
 
 # Configure a manual cluster
 
-Provide redundancy capabilities of an entire cluster in case of failure of one or more CIs in that cluster. By viewing the relative impact of a cluster member on the cluster information, you can better understand the source of alerts and take [[ccg-remediation|remediation]] steps.
+Provide redundancy capabilities of an entire cluster in case of failure of one or more CIs in that cluster. By viewing the relative impact of a cluster member on the cluster information, you can better understand the source of alerts and take remediation steps.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For more information, see [Alert impact calculation](https://raw.githubuserconte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Manual Clusters**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Manual Clusters**.
 
 2.  Select **New**.
 
@@ -70,7 +70,3 @@ The manual cluster is saved in the EM Impact Manual Cluster \[em\_impact\_manual
 
 [Configuring CIs in a manual service as a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manual-cluster-in-a-manual-service.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

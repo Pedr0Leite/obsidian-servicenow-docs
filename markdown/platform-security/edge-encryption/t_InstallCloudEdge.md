@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Request Edge Encryption
 
-The [[edge-encryption|Edge Encryption]] plugin \(com.glide.edgeencryption\) is available as a separate subscription.
+The Edge Encryption plugin \(com.glide.edgeencryption\) is available as a separate subscription.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Select **[[c_requestAPI|Request]] plugin** to open the **Activate Plugin** form on Now Support.
+2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
 3.  On the **Activate Plugin** form, provide the following information.
 
@@ -76,7 +76,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[c_requestAPI|request]]

@@ -14,15 +14,10 @@ breadcrumb: [Simplified IT Service Management, IT Service Management]
 
 Simplified IT Service Management provides a comprehensive employee or requester experience with an AI chat first approach to find answers, request items, check status, and create incidents.
 
--   **[[employee-experience-employee-center|Employee experience using Employee Center]]**  
+-   **[Employee experience using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-employee-center.md)**  
 Simplify meeting employee needs by leveraging the automated self-service and browsing experience in the Employee Center portal.
--   **[[employee-experience-using-employee-slate|Employee experience in Employee Slate]]**  
+-   **[Employee experience in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-using-employee-slate.md)**  
 You can enable an AI-first employee experience that brings search, requests, tasks, knowledge, and communications together in one intuitive destination. Employees can easily find information, manage requests and tasks, stay informed through communications and news, connect with teams, and get work done faster.
 
-**Parent Topic:**[[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
+**Parent Topic:**[Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/ai-native-it-service-desk-landing-page.md)
 
-## Related
-
-- [[employee-experience-employee-center|Employee experience using Employee Center]]
-- [[employee-experience-using-employee-slate|Employee experience in Employee Slate]]
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]

@@ -14,13 +14,13 @@ breadcrumb: [Manage Quorum Control, Quorum Control Policy, Cloud Encryption with
 
 # Approve or deny a quorum control request
 
-Approve or deny a quorum control request from [[key-mgmt-transactions-ce|Key Management Transactions]].
+Approve or deny a quorum control request from Key Management Transactions.
 
 ## About this task
 
-When a quorum [[c_requestAPI|request]] has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The [[users|users]] can grant approvals from the [[key-mgmt-operations-ce|Key Management Operations]] page, My Approvals in the Instance, or directly from the request [[email|email]]. The key withdrawal operation is blocked until the quorum is met.
+When a quorum request has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The users can grant approvals from the Key Management Operations page, My Approvals in the Instance, or directly from the request email. The key withdrawal operation is blocked until the quorum is met.
 
-This procedure describes how to [[perform-quorum-action|approve or deny a quorum request]] from the Key Management Operations page.
+This procedure describes how to approve or deny a quorum request from the Key Management Operations page.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Cloud [[encryption-landing|Encryption]] Key Management** &gt; **Key Management Transactions** &gt; **Quorum Control Approvers**.
+1.  Navigate to **All** &gt; **Cloud Encryption Key Management** &gt; **Key Management Transactions** &gt; **Quorum Control Approvers**.
 
 2.  Select your user name from the table.
 
@@ -37,12 +37,3 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 **Parent Topic:**[Manage Quorum Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-mgmt.md)
 
-## Related
-
-- [[key-mgmt-transactions-ce|Key management transactions]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[key-mgmt-operations-ce|Key management operations]]
-- [[email|Email]]
-- [[perform-quorum-action|Approve or deny a quorum request]]
-- [[encryption-landing|Encryption]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # Deploying DEX to employees
 
-Deploy Agent Client Collector and the DEX browser extension to your company employees' [[dex-workspace-devices-tab|devices]] in bulk.
+Deploy Agent Client Collector and the DEX browser extension to your company employees' devices in bulk.
 
 -   **[Install Agent Client Collector on Windows using Microsoft Intune](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/bulk-deploy-acc-on-win.md)**  
 Use Microsoft Intune to install Agent Client Collector \(ACC\) on multiple Windows devices at once, promoting consistent deployment across your organization.
@@ -27,6 +27,3 @@ Deploy the DEX browser extension to all your organization's employees using Jamf
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

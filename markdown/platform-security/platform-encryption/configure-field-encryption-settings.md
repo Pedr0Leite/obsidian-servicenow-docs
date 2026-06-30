@@ -14,11 +14,11 @@ breadcrumb: [Configuring the Key Management Framework, Key Management Framework,
 
 # Configure field encryption settings to select key type
 
-Configure your [[field-encryption|field encryption]] settings to use ServiceNow supplied keys or your own customer-supplied keys \(CSK\) for [[encryption-landing|encryption]] on the ServiceNow AI Platform.
+Configure your field encryption settings to use ServiceNow supplied keys or your own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform.
 
 ## Before you begin
 
-Customer-supplied keys are only supported with [[now-platform-encryption|Field Encryption Enterprise]].
+Customer-supplied keys are only supported with Field Encryption Enterprise.
 
 Role required: sn\_kmf.cryptographic\_manager and security\_admin
 
@@ -37,14 +37,8 @@ Role required: sn\_kmf.cryptographic\_manager and security\_admin
 
 ## What to do next
 
--   If you’re using your own customer-supplied keys, see [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]].
+-   If you’re using your own customer-supplied keys, see [Using customer-supplied keys with Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing.md).
 -   If you’re using ServiceNow supplied keys, start creating your cryptographic module. See [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md).
 
 **Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-kmf.md)
 
-## Related
-
-- [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

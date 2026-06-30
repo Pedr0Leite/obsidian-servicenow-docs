@@ -15,7 +15,7 @@ breadcrumb: [Docusign external content connector, Configure, External Content Co
 
 # Configure Docusign for external content indexing
 
-Create an app and integration key in Docusign to allow the [[docusign-external-content-connector|Docusign external content connector]] to access your source system.
+Create an app and integration key in Docusign to allow the Docusign external content connector to access your source system.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ For details on creating and configuring a Docusign external content connector, s
 
 **Parent Topic:**[Docusign external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/docusign-external-content-connector.md)
 
-## Related
-
-- [[docusign-external-content-connector|Docusign external content connector]]

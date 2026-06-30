@@ -29,7 +29,7 @@ Privacy enables you to mask the sensitive date on the instance.
 
 [Data Anonymization\[Omitted image "bus-security.svg"\] Alt text: Data anonymization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-anonymization.md)
 
- [[dps-data-anonymization|Data anonymization]] provides a way to easily transform data so that it is unidentifiable and more compliant with [[data-privacy-landing|data privacy]] regulations.
+ Data anonymization provides a way to easily transform data so that it is unidentifiable and more compliant with data privacy regulations.
 
 </td><td>
 
@@ -39,8 +39,3 @@ Privacy enables you to mask the sensitive date on the instance.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dps-data-anonymization|Data anonymization]]
-- [[data-privacy-landing|Data Privacy]]

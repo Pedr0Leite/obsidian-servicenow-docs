@@ -35,7 +35,7 @@ This option recalculates the costs of all resource assignments of the demand at 
 
 2.  Open a demand.
 
-3.  On the [[demand-form|Demand form]], right-click on the header bar and select the **Recalculate Resource Costs**.
+3.  On the Demand form, right-click on the header bar and select the **Recalculate Resource Costs**.
 
 4.  In the Recalculate Resource Cost form, fill in the fields.
 
@@ -47,12 +47,8 @@ This option recalculates the costs of all resource assignments of the demand at 
 ## Result
 
 -   Recalculates the selected resource costs of all the applicable resource assignments in the demand based on the latest hourly rates. The hourly rates are derived from the rate model associated with the demand.
--   Updates the recalculated resource costs on the respective cost fields on the [[pw-resource-assignment-form|resource assignment form]] and the Resource assignments related list.
+-   Updates the recalculated resource costs on the respective cost fields on the resource assignment form and the Resource assignments related list.
 -   Reflects the revised values in the respective cost fields of the demand.
 
 **Parent Topic:**[Create and manage resource assignments for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[pw-resource-assignment-form|Resource assignment form]]

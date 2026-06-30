@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud Action Library actions reference
 
-[[cloud-actions-library-landing-page|Cloud Action Library]] \(CAL\) offers various actions that you can use to build the Integration Hub subflows for [[cloud-configuration-governance|Cloud Configuration Governance]].
+Cloud Action Library \(CAL\) offers various actions that you can use to build the Integration Hub subflows for Cloud Configuration Governance.
 
 Cloud Action Library offers the following actions:
 
@@ -37,7 +37,3 @@ The Cloud Action Library actions are available under the **Default** and **Exter
 
 **Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

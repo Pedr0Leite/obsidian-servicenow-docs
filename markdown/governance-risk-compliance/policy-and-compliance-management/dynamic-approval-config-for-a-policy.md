@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Set up dynamic approval configuration on a policy record
 
-A policy is a set of guidelines and rules established by a business organization to govern its operations. Creating an [[bcm-approval-configuration|approval configuration]] record for a policy enables you to define one or more approval levels and approval rules based on various dynamic conditions.
+A policy is a set of guidelines and rules established by a business organization to govern its operations. Creating an approval configuration record for a policy enables you to define one or more approval levels and approval rules based on various dynamic conditions.
 
 Beginning with the Australia release, you can set up dynamic approval configuration on a policy record. The policy table consists of the policy records that regulate the status of the policies. Before implementing a policy, it goes through a review and approval process.
 
@@ -34,7 +34,7 @@ The existing approval configuration process uses the manual approach that has th
 Setting up dynamic approval configuration on a policy record offers the following benefits:
 
 -   Organizations often encounter dynamic and changing environments. Having the flexibility to change the approvers allows the approval process to adapt to shifting circumstances. It ensures that the most appropriate individuals are involved in the approval process at any given time.
--   For complex or high-stake decisions, configuring multiple levels of approvals enables the reviewers to conduct a comprehensive review of relevant [[factors|factors]]. It ensures that the decisions are not rushed and that the potential impacts are carefully assessed for different scenarios.
+-   For complex or high-stake decisions, configuring multiple levels of approvals enables the reviewers to conduct a comprehensive review of relevant factors. It ensures that the decisions are not rushed and that the potential impacts are carefully assessed for different scenarios.
 -   Changing the approvers dynamically can streamline the approval process and reduce the administrative overhead, thereby saving time and resources.
 
 ## Use cases for requesting multiple levels of approvals
@@ -63,11 +63,11 @@ You can set up various approval rules using the Approval Configurator:
 -   Send approvals to a user or a group of users selected from a field from the source record or select the user or groups manually.
 -   Set up only one approval or all approvals as required approvals.
 
-To [[setup-bcm-approval-configurator|set up approval configuration]] on a record, see the following sections.
+To set up approval configuration on a record, see the following sections.
 
-1.  To [[set-up-approval-configurator|set up an approval configuration record]], see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
-2.  To [[set-up-approval-levels|assign an approval level for the approval configuration record]], see [Assign an approval level for the approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-levels.md).
-3.  To [[set-up-approval-rules|set up an approval rule for the approval level]] in the approval configuration record, see [Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md).
+1.  To set up an approval configuration record, see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
+2.  To assign an approval level for the approval configuration record, see [Assign an approval level for the approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-levels.md).
+3.  To set up an approval rule for the approval level in the approval configuration record, see [Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md).
 
 **Note:**
 
@@ -122,11 +122,3 @@ The following components are used for setting up the dynamic approval configurat
 -   The Policy approval table stores the approvers of each level of the approval configuration. It can be used for tracking the status of the approval levels.
 -   Based on the current level decision, the policy either gets forwarded to the next level of approval or if it gets rejected, it is reset to the **Draft** state. If all levels are approved, the policy moves to the **Published** state.
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[factors|factors]]
-- [[setup-bcm-approval-configurator|Set up approval configuration]]
-- [[set-up-approval-configurator|Set up an approval configuration record]]
-- [[set-up-approval-levels|Assign an approval level for the approval configuration record]]
-- [[set-up-approval-rules|Set up an approval rule for the approval level]]

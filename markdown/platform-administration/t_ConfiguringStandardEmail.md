@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[c_EmailProperties|Email Properties]]**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **Email Properties**.
 
 2.  Configure these email properties and select **Save**.
 
@@ -32,10 +32,5 @@ Role required: admin
     |Inbound Email Configuration|Email receiving enabled|glide.email.read.active|Yes|
 
 
-**Parent Topic:**[[c_StandardEmailConfiguration|Basic email setup]]
+**Parent Topic:**[Basic email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_StandardEmailConfiguration.md)
 
-## Related
-
-- [[c_StandardEmailConfiguration|Basic email setup]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailProperties|Email properties]]

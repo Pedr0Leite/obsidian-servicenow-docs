@@ -14,13 +14,13 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Add a workspace application to the Unified Navigation search context menu
 
-Enable users to view [[hs-results|results]] for their Unified Navigation searches in workspace applications as well as in global search.
+Enable users to view results for their Unified Navigation searches in workspace applications as well as in global search.
 
 ## Before you begin
 
 You must be using Next Experience UI.
 
-The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with [[ia-ai-search|AI Search]] specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-app-config-ais.md).
+The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with AI Search specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-app-config-ais.md).
 
 Role required: admin
 
@@ -218,7 +218,3 @@ The chosen workspace appears as an option in the Unified Navigation search conte
 
 [Global text search suggestions]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]

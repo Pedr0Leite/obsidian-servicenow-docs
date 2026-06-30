@@ -20,7 +20,7 @@ Connect Support is a real-time messaging tool that enables support agents to eas
 
 Starting in Utah, Connect Support has been deprecated and is no longer supported or available for new activation. For similar capabilities, please move to Advanced Work Assignment and Agent Chat. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/migrate-from-connect-support.md).
 
-Connect Support builds on the messaging platform provided with [[c_Connect|Connect]]. For general information about the [[c_connect-interface|Connect interface]], setup, and administration, see [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md). When Connect Support is enabled, users designated as support agents can access the support tab of the Connect sidebar.
+Connect Support builds on the messaging platform provided with Connect. For general information about the Connect interface, setup, and administration, see [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md). When Connect Support is enabled, users designated as support agents can access the support tab of the Connect sidebar.
 
 Using Connect Support:
 
@@ -32,7 +32,3 @@ Core UI is required to use Connect Support.
 
 **Note:** Connect Support does not replace legacy chat but offers some of the same functionality. Do not use the features concurrently.
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_connect-interface|Connect interface]]

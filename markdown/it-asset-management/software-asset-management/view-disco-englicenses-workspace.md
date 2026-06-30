@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View discovered engineering licenses in workspace
 
-View a list of all the discovered and normalized software for your engineering applications in the [[sam-workspace|Software Asset Workspace]].
+View a list of all the discovered and normalized software for your engineering applications in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ You can view a list of all the normalized publishers and products for your engin
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

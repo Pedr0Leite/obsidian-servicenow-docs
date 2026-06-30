@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 # Business rules installed with Procurement
 
-[[c_Procurement|Procurement]] plugin adds the following business rules.
+Procurement plugin adds the following business rules.
 
 <table id="table_zgd_3vv_dp"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Checks if the request associated with a requested item can be sourced \(obtained
 
 </td></tr><tr><td>
 
-[[t_CreatingAssets|Create Assets]]
+Create Assets
 
 </td><td>
 
@@ -267,7 +267,3 @@ Sets the **Configuration item** field on the catalog task and requested item to 
 
 [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[t_CreatingAssets|Create assets]]

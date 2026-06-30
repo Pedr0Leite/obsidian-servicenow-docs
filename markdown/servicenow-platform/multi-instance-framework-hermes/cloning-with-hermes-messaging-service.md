@@ -30,7 +30,7 @@ To avoid losing this data, capture the data in the following Hermes tables using
 -   hermes\_topics\_metrics
 -   hermes\_metrics
 
-You must ensure the hermes\_cluster\_config and hermes\_topic\_location tables are preserved to ensure the [[hermes-messaging-service|Hermes Messaging Service]] is functional.
+You must ensure the hermes\_cluster\_config and hermes\_topic\_location tables are preserved to ensure the Hermes Messaging Service is functional.
 
 ## Hermes tables to preserve
 
@@ -95,6 +95,3 @@ Add the following Hermes tables to the Clone Exclude Tables list if they're miss
 
 [View Hermes Messaging Service log messages]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

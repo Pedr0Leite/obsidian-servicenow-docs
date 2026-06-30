@@ -14,7 +14,7 @@ breadcrumb: [Perform, Implement, Policy and Compliance Management, Governance, R
 
 # Assigning Policy and Compliance Management roles to your users
 
-Before you can successfully implement or use the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, you must assign roles to your users.
+Before you can successfully implement or use the Policy and Compliance Management application, you must assign roles to your users.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User [[Administration|Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Click the name of a user.
 
@@ -69,7 +69,7 @@ The Compliance User, often referred to as the Compliance Analyst, has permission
 -   Testing and monitoring control effectiveness
 -   Attesting controls
 -   Remediating issues
--   Assisting with [[risk-assessments|risk assessments]] and audit tasks
+-   Assisting with risk assessments and audit tasks
  The Compliance User role contains:
 
 -   sn\_grc.reader
@@ -91,7 +91,7 @@ The Compliance Manager is responsible for managing the day-to-day compliance pro
 -   Determining which regulations require a policy
 -   Approving policies and policy exceptions
 -   Setting up a policy acknowledgement campaign
--   Scoping controls using [[entity-type-in-risk-ws|entity types]] and entities
+-   Scoping controls using entity types and entities
 -   Creating and assigning attestations
 -   Continuously monitoring control effectiveness
 -   Compiling and sharing reports highlighting data, such as non-compliant controls
@@ -162,9 +162,3 @@ Return to the [Policy and Compliance Management setup checklist](https://raw.git
 
 **Parent Topic:**[Perform Policy and Compliance Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/perform-policy-compliance-admin.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]
-- [[entity-type-in-risk-ws|Entity types]]

@@ -14,13 +14,10 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Salesforce Marketing Cloud
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Salesforce Marketing Cloud service enables you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with the Salesforce Marketing Cloud service enables you to track your software subscriptions and to reclaim unused licenses.
 
 Use either of the following authentication methods to integrate your ServiceNow instance with Salesforce Marketing Cloud:
 
 -   [Basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md)
 -   [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

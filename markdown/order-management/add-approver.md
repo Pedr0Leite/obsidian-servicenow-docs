@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Use, Sa
 
 # Add approvers to an approval request
 
-As a requester or an approver, add one or more ad-hoc approvers to an approval request in [[explore-advanced-approval-for-sales|Advanced Approval Management]].
+As a requester or an approver, add one or more ad-hoc approvers to an approval request in Advanced Approval Management.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_adv\_appr\_mgmt.approval\_request\_writer or sn\_adv\_appr\_m
 
 ## About this task
 
-After an approval request has been submitted, you can add approval users or approval groups to an approval request. Add approvers when the request requires approval by others who are familiar with the [[rules_101|rules]] or business guidelines relevant to the request, but outside of the original approvers.
+After an approval request has been submitted, you can add approval users or approval groups to an approval request. Add approvers when the request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers.
 
 ## Procedure
 
@@ -57,10 +57,5 @@ The ad-hoc approver can approve or reject the approval request in one of the fol
 -   In the approval step card in the General chain, by selecting the **More options** \[Omitted image "icon-three-dots.png"\] Alt text: menu and choosing the **Approve** or **Reject** option.
 -   In the My approvals feature in the ServiceNow AI Platform.
 
-**Parent Topic:**[[using-advanced-approval-management|Using Advanced Approval Management]]
+**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 
-## Related
-
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[rules_101|Rules]]

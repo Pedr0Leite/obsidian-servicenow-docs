@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents in Enterprise Asset Management, Managing enterpr
 
 # Resolve and close an Enterprise Asset Management incident
 
-Take action on the assets that are affected by an [[enterprise-asset-management|Enterprise Asset Management]] incident so that you can resolve and close the incident.
+Take action on the assets that are affected by an Enterprise Asset Management incident so that you can resolve and close the incident.
 
 ## Before you begin
 
@@ -90,6 +90,3 @@ Role required: itil
 
 **Parent Topic:**[Managing incidents in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-incidents.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

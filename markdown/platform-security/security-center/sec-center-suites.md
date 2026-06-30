@@ -18,9 +18,9 @@ Review details on the scan suites available on your instance.
 
 \[Omitted image "sc-suites.png"\] Alt text: Scan suite list and details page
 
-Scan suites are collections of [[sec-center-v2|security center]] checks that execute together. You can use base system suites or create your own by cloning an existing suite and updating the checks made in the clone. For details, see [Create a scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md).
+Scan suites are collections of security center checks that execute together. You can use base system suites or create your own by cloning an existing suite and updating the checks made in the clone. For details, see [Create a scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md).
 
-Select the **+Create task** button to create a Security Task related to a scan suite. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a scan suite. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 ## Scan suite details
 
@@ -60,7 +60,3 @@ Change the schedule of your scan suites to suit your needs.
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]

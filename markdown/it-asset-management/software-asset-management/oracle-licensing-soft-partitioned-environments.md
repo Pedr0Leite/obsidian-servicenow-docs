@@ -14,7 +14,7 @@ breadcrumb: [Oracle licensing in partitioned environments, Software Asset Manage
 
 # Oracle Database and WebLogic Server licensing in soft-partitioned environments
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports Oracle Database and WebLogic Server licensing rules in soft-partitioned environments, such as VMware and Nutanix virtualization technology.
+The Software Asset Management application supports Oracle Database and WebLogic Server licensing rules in soft-partitioned environments, such as VMware and Nutanix virtualization technology.
 
 Soft partitioning enables you to segment the operating system \(OS\) of the environment into different OS types and OS versions by using OS resource managers. OS resource managers limit the number of processors that each Oracle database or WebLogic server can run on by creating segments in which CPU resources are allocated to applications within the same OS. For more information about Oracle licensing and soft partitioning, refer to the [Oracle Help Center](https://docs.oracle.com/en/).
 
@@ -26,7 +26,7 @@ VMware vSphere is a virtualization platform through which you can install and ru
 
 Oracle licensing on VMware vSphere is based on the VMware vMotion capability that is associated with each vSphere version. VMware vMotion is the VMware vSphere technology that enables VMs to migrate from one physical ESXi host to another without service interruptions.
 
-The Oracle publisher pack supports the following Oracle licensing [[c_Models|models]] on VMware vSphere:
+The Oracle publisher pack supports the following Oracle licensing models on VMware vSphere:
 
 |VMware vSphere version|VMware vMotion capability|Licensing model|
 |----------------------|-------------------------|---------------|
@@ -52,7 +52,3 @@ In the following example, the license consumption for deploying a database on Vi
 
 **Parent Topic:**[Oracle Database and WebLogic Server licensing in partitioned environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-partitioned-environments.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]

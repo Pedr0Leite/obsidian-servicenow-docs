@@ -14,11 +14,11 @@ breadcrumb: [Manage issues, Common GRC features, Governance, Risk, and Complianc
 
 # Issues in the Workspace
 
-You can track all your issues or one specific issue from the Workspace. Issues are listed under the **Issues** module in the [[list-view-uib-ws|list view]] of the Workspace.
+You can track all your issues or one specific issue from the Workspace. Issues are listed under the **Issues** module in the list view of the Workspace.
 
 ## Issue overview page
 
-The [[issue-form|issue form]] displays the details about your issues. You can see information about an issue's description, state, status, work notes, and what activity has occurred so far. The information about an issue is organized in different tabs such as the **Overview** tab and the **Details** tab as shown in the following example.
+The issue form displays the details about your issues. You can see information about an issue's description, state, status, work notes, and what activity has occurred so far. The information about an issue is organized in different tabs such as the **Overview** tab and the **Details** tab as shown in the following example.
 
 \[Omitted image "issue-overview.png"\] Alt text: Issue Overview Page.
 
@@ -28,7 +28,7 @@ In the **Details** tab, you can find information about the issue, assignment, sc
 
 ## Associating objects that are related to an issue
 
-GRC user or business user or business user lite of Issue personas can associate objects, such as the control, risk, risk event, entities, engagements, control objectives, risk statements, policies, authority documents, or [[ropa-record|processing activities]], or remove the existing objects that are related to the issue.
+GRC user or business user or business user lite of Issue personas can associate objects, such as the control, risk, risk event, entities, engagements, control objectives, risk statements, policies, authority documents, or processing activities, or remove the existing objects that are related to the issue.
 
 For example, consider an entity that you can select as a related list. You can either add the other related entities or remove the existing entities by using the **Add** or **Remove** UI buttons of the entity form.
 
@@ -40,7 +40,7 @@ The related lists on the issue form display the dependencies that are related to
 |Details|Details about an issue, such as the assignment, schedule, issue grouping, action plan, confidentiality, activity, settings, and work notes. The Issue grouping section provides grouping information, such as Parent issue and Issue group rule. When advanced Issue grouping is enabled, it shows **Group level** field, indicating whether it’s a parent, child, or standalone issue. It also shows the **Management method** field, indicating whether it’s managed from parent or child issues individually.|
 |Highlighted details|Highlighted information, such as the issue source, issue type, issue rating, priority, effects, related to, and hierarchy.|
 |Affects|Entities that are affected by this issue.|
-|Related to|Count of the different objects that are affected by this issue such as the controls, risks, policies, authority documents, engagements, [[reg-change-task|regulatory change tasks]], remediation tasks, and risk events.|
+|Related to|Count of the different objects that are affected by this issue such as the controls, risks, policies, authority documents, engagements, regulatory change tasks, remediation tasks, and risk events.|
 |Hierarchy|Issue hierarchy.|
 
 The following table lists the related lists in the Issues section.
@@ -96,9 +96,3 @@ If an issue isn't reusable and you know that multiple similar issues were create
 
 **Parent Topic:**[Manage issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-issues-common-core.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[issue-form|Issue form]]
-- [[ropa-record|Processing activities]]
-- [[reg-change-task|Regulatory change tasks]]

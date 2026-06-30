@@ -42,7 +42,7 @@ Value stream: A value stream is the set of actions that take place to add value 
 
 A business process has a well-defined start and finish. Examples of business processes in the banking industry are the customer onboarding process and the credit check process. Each business process can have levels of criticality and impact. Business processes are stored in the cmdb\_ci\_business\_process table.
 
-In a parent-child relationship, business processes can be identified by using the parent attribute as a [[reference|reference]] to a parent business process.
+In a parent-child relationship, business processes can be identified by using the parent attribute as a reference to a parent business process.
 
 The business process is a manually-maintained CI that can identify declared and determined criticality as well as impact to confidentiality, integrity, and availability. Business processes can be reviewed monthly, quarterly, semi-annually, or annually. In addition, the next review date can be recorded. For further information, see [Business process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/business-process-overview.md) and [Create a business process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-a-business-process.md).
 
@@ -92,12 +92,12 @@ For more information, see [Definitions of life-cycle values for document and con
 
 ## Data managed by the data steward
 
--   **[[cmdb-groups|CMDB groups]]**
+-   **CMDB groups**
 
     A CMDB group is a collection of CIs \(but is not, itself, a CI\). A group is based on the results of saved Query Builder queries, encoded queries, or manual entries. You can apply an action to all members of a group at one time.
 
     -   You can work with a CMDB group across the ServiceNow AI Platform.
-    -   For the CSDM, the Dynamic CI Group [[reference-document-management|references]] a CMDB group to provide a list of CIs based on a common criteria.
+    -   For the CSDM, the Dynamic CI Group references a CMDB group to provide a list of CIs based on a common criteria.
     -   CMDB groups are stored in the Group \[cmdb\_group\] table.
     -   The CMDB group can potentially replace the spreadsheets that you might be using to group your CIs.
     For more information, see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
@@ -151,8 +151,3 @@ Planning your common data is essential to the effective implementation of Servic
 
 **Parent Topic:**[CSDM data domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-conceptual-model.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[cmdb-groups|CMDB groups]]
-- [[reference-document-management|References]]

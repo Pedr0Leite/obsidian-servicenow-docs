@@ -14,7 +14,7 @@ breadcrumb: [Integrate Meeting Extensions pre-published app with Microsoft Teams
 
 # Configuring Notify connector for Microsoft Teams app in Microsoft Teams
 
-Configure the manifest file in Microsoft Teams client or admin center to [[c-agent-ex-use-nc|use Notify connector for Microsoft Teams]] app.
+Configure the manifest file in Microsoft Teams client or admin center to use Notify connector for Microsoft Teams app.
 
 You can upload the manifest file in Microsoft Teams using one of the following procedures.
 
@@ -74,6 +74,3 @@ Role required: external\_app\_install\_admin, admin
 
 The **ServiceNow Meetings Bot** card appears in Microsoft Teams.
 
-## Related
-
-- [[c-agent-ex-use-nc|Use Notify connector for Microsoft Teams]]

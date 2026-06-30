@@ -22,7 +22,7 @@ Role required: events\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EventRegistry|Event registry]]**.
+1.  Navigate to **All** &gt; **Event registry**.
 
     A list of registered events shows up.
 
@@ -36,15 +36,10 @@ Role required: events\_admin
 
     The processor can execute only one event at a time. So, if you move an event to a queue, it gets executed only when the processor is available.
 
-4.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Stats** &gt; **Adaptive Events** to track the average execution time of the events.
+4.  Navigate to **System Diagnostics** &gt; **Stats** &gt; **Adaptive Events** to track the average execution time of the events.
 
-    You can select any slow moving event and change the queue as required. You can also [[t_RegisterAnEvent|register an event]] to show up on the event registry list.
+    You can select any slow moving event and change the queue as required. You can also register an event to show up on the event registry list.
 
 
 **Parent Topic:**[Managing system events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/managing-system-events.md)
 
-## Related
-
-- [[c_EventRegistry|Event registry]]
-- [[sys-diag|System Diagnostics]]
-- [[t_RegisterAnEvent|Register an event]]

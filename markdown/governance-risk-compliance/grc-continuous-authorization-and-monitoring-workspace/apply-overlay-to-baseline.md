@@ -78,7 +78,7 @@ Role required: admin
                 -   **Skip**: Ignores the distinct record; it will not be added to the Authorization Package.
         **Note:** For existing baseline controls, if the overlay policy contains a Hybrid, Inherited, or Common control objective, the action will be skipped by default. The behavior will also be Hybrid, Inherited, or Common accordingly.
 
-    4.  Select **Edit** from the **Overlay Controls** [[list-view-uib-ws|list view]] page to modify an overlay available in the list.
+    4.  Select **Edit** from the **Overlay Controls** list view page to modify an overlay available in the list.
 
         **Note:** Only listed overlays can be edited. The previously selected policy action is applied by default, and you must select a different operation to proceed with the update.
 
@@ -87,6 +87,3 @@ Role required: admin
 
 **Parent Topic:**[View package details in CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/auth-package-overview-ws.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

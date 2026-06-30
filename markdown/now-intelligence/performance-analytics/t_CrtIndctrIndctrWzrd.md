@@ -14,7 +14,7 @@ breadcrumb: [Indicators, Configure fundamentals, Performance Analytics \(Indicat
 
 # Create an automated indicator with a wizard
 
-Quickly create a Performance Analytics automated indicator with breakdowns, [[widgets|widgets]], and data collection jobs for that indicator. You still need to be trained in Performance Analytics and to have planned your KPIs to use this wizard.
+Quickly create a Performance Analytics automated indicator with breakdowns, widgets, and data collection jobs for that indicator. You still need to be trained in Performance Analytics and to have planned your KPIs to use this wizard.
 
 ## Before you begin
 
@@ -109,7 +109,7 @@ Indicator Source
 
 </td><td>
 
-A selection of the available [[c_IndicatorSources|indicator sources]]. An indicator source is a data source that refers to a ServiceNow AI Platform table and one or more conditions that filter the records on that table. After you select the source, you can select **Preview records for this indicator source**.If you are using domain separation, you can select only indicator sources to which you have visibility.
+A selection of the available indicator sources. An indicator source is a data source that refers to a ServiceNow AI Platform table and one or more conditions that filter the records on that table. After you select the source, you can select **Preview records for this indicator source**.If you are using domain separation, you can select only indicator sources to which you have visibility.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ An optional list of values and operations to apply to fields in the table that t
 
     This job runs only once, when you create the indicator. Not all indicators allow retrospective score collection. As an alternative, manually associate a Historical data collection job with the indicator and run it.
 
-7.  In the **Widgets** tab, select any combination of time series, last score, and [[breakdown-widgets|breakdown widgets]] to create.
+7.  In the **Widgets** tab, select any combination of time series, last score, and breakdown widgets to create.
 
     You can also put the widgets in the tab of an existing dashboard. For more information about creating and displaying widgets from this wizard, see [Indicator creation widget options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtIndctrIndctrWzrd.md).
 
@@ -260,8 +260,3 @@ Select the number of periods to compare the score with. For example, if the **Ti
 
 [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-widgets|Breakdown widgets]]

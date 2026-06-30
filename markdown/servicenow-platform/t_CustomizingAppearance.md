@@ -20,23 +20,23 @@ Role required: survey\_admin or admin
 
 ## About this task
 
-For color properties, enter either an [[html|HTML]] color name or hexadecimal \(hex\) value. For hex values, the `#` character is required. Values aren't case-sensitive.
+For color properties, enter either an HTML color name or hexadecimal \(hex\) value. For hex values, the `#` character is required. Values aren't case-sensitive.
 
 For example, if all the following formats are valid: `LightGray`, `lightgray`, and `#D3D3D3`, a preview of the color appears next to the field.
 
-The customizations that you make apply to all [[assessments-surveys-landing-page|assessments and surveys]].
+The customizations that you make apply to all assessments and surveys.
 
 ## Procedure
 
 1.  Navigate to either of the following modules.
 
-    -   **[[r_Assessments|Assessments]]** &gt; **Admin** &gt; **Assessment Properties**
+    -   **Assessments** &gt; **Admin** &gt; **Assessment Properties**
     -   **Survey** &gt; **Administration** &gt; **Properties**
     For a description of the properties, see .
 
 2.  On the Properties page, edit the properties as needed.
 
-    Refer to the following screenshot to see which parts of the [[c_AssessmentQuestionnaires|assessment questionnaires]] are controlled by the properties.
+    Refer to the following screenshot to see which parts of the assessment questionnaires are controlled by the properties.
 
     **Note:** You can customize the **Caption font color**, **Caption background color**, and **Question header background color** only if Next Experience is turned off.
 
@@ -47,7 +47,7 @@ The customizations that you make apply to all [[assessments-surveys-landing-page
     Clear the browser's cache to see updates.
 
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -66,7 +66,7 @@ The customizations that you make apply to all [[assessments-surveys-landing-page
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -84,11 +84,3 @@ The customizations that you make apply to all [[assessments-surveys-landing-page
 
 [Legacy survey migration]()
 
-## Related
-
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[html|HTML]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[c_SurveyDesigner|Survey designer]]

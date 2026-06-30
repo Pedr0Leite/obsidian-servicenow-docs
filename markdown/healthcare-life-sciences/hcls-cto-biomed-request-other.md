@@ -12,7 +12,7 @@ breadcrumb: [Create service requests, Care Team Operations for Biomed, Healthcar
 
 # Request other biomed service with Care Team Operations for Biomed
 
-Request non-medical device issue biomed service using the Request other biomed service catalog item from the [[care-team-portal-landing|Care Team Portal]].
+Request non-medical device issue biomed service using the Request other biomed service catalog item from the Care Team Portal.
 
 ## Before you begin
 
@@ -107,6 +107,4 @@ The phone number of the associated contact for this request.
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

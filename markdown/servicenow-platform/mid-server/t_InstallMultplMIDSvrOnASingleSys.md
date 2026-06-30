@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Install multiple MID Servers on a single system
 
-Install multiple MID Servers on the same host computer. Multiple MID Servers can support each other with load balancing, as well as use [[domain-separation-relationship-formatter-editor|domain separation]]. The number of MID Servers required is determined by factors like network policies, security restraints, and the reliability of the host computer.
+Install multiple MID Servers on the same host computer. Multiple MID Servers can support each other with load balancing, as well as use domain separation. The number of MID Servers required is determined by factors like network policies, security restraints, and the reliability of the host computer.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin, mid\_server
 
 You can install multiple MID Servers on a Linux or Windows host or on a virtual machine. Installing multiple MID Servers may involve other setup steps depending on your network configuration.
 
-**Important:** Only one [[mid-server-landing|MID Server]] service can be a daemon on a Linux host. This is a limitation of the Tanuki wrapper service.
+**Important:** Only one MID Server service can be a daemon on a Linux host. This is a limitation of the Tanuki wrapper service.
 
 ## Procedure
 
@@ -130,7 +130,3 @@ In deployments where domain separation is enabled and domains are configured to 
 
 \[Omitted image "MIDServerDomainDeployment.png"\] Alt text: Deploying MID Servers with domain separation
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[mid-server-landing|MID Server]]

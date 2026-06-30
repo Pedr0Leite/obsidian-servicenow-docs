@@ -14,17 +14,17 @@ breadcrumb: [Manage supplier contacts, Using Source-to-Pay Workspace, Use, Suppl
 
 # Remove a supplier contact from the Source-to-Pay Workspace
 
-Remove non-essential [[supplier|supplier]] contacts for a supplier from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Remove non-essential supplier contacts for a supplier from the Source-to-Pay Workspace.
 
 ## Before you begin
 
 Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
-**Note:** Users with the sn\_slm.owner role can remove contacts only for the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can remove [[supplier-contact|supplier contact]] for any supplier.
+**Note:** Users with the sn\_slm.owner role can remove contacts only for the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can remove supplier contact for any supplier.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Manage my suppliers**.
 
@@ -62,9 +62,3 @@ The contact is removed and all the tasks that were assigned to that contact are 
 
 [Restrict the primary contact role for a contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/restrict-contact-ws.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

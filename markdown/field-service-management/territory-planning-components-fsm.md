@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Field Service Territory Planning components
 
-Several types of components are installed with the [[territory-planning-fsm|Field Service Territory Planning]] feature, including tables, roles, script includes, and business rules.
+Several types of components are installed with the Field Service Territory Planning feature, including tables, roles, script includes, and business rules.
 
 ## Tables
 
@@ -408,7 +408,7 @@ sn\_fsm.use\_query\_rules
 
 </td><td>
 
-When the setting is "true", rules from the "sn\_query\_rule" table will control what [[fsm-application-landing-page|Field Service Management]]-related data a user can read. This includes work orders \(WO\) and work order tasks \(WOT\). If set to "false", these records won't be filtered based on rules, and users can access them without rule-based restrictions.-   **Type**: Boolean
+When the setting is "true", rules from the "sn\_query\_rule" table will control what Field Service Management-related data a user can read. This includes work orders \(WO\) and work order tasks \(WOT\). If set to "false", these records won't be filtered based on rules, and users can access them without rule-based restrictions.-   **Type**: Boolean
 -   **Default value**: False
 -   Location: **All** &gt; **sys\_properties\_list.do**
 
@@ -443,7 +443,7 @@ Field Service Territory Planning adds the following query rule. You can find the
 
 ## Scheduled Jobs
 
-Field Service Territory Planning adds the following [[schedule-optimization|Schedule Optimization]] adds the following scheduled jobs. You can find the following scheduled jobs by clicking **All** &gt; **sn\_schedulejobs.do**
+Field Service Territory Planning adds the following Schedule Optimization adds the following scheduled jobs. You can find the following scheduled jobs by clicking **All** &gt; **sn\_schedulejobs.do**
 
 |Scheduled job|Description|
 |-------------|-----------|
@@ -451,7 +451,7 @@ Field Service Territory Planning adds the following [[schedule-optimization|Sche
 |Territory Planning- Calculate Overlapping Territories - Agent|Calculates the overlaps for agents. When executed, the scheduled job triggers events to calculate the overlap between two agents.|
 |Territory Planning- Calculate Overlapping Territories - Geography|Calculates the overlaps for geographies. When executed, the scheduled job triggers events to calculate the overlap between two geographies.|
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 ## Field Service Territory Planning console properties
 
@@ -549,10 +549,3 @@ Determines the radius that influence the data point in the heatmap. -   **Type**
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[schedule-optimization|Schedule Optimization]]

@@ -18,9 +18,9 @@ You can create a resource plan from the Resource Management application for any 
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged to [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged to [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
@@ -40,7 +40,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 </td></tr><tr><td id="d55502e153">
 
-**From a [[create-a-project-form|project form]]**
+**From a project form**
 
 </td><td>
 
@@ -51,7 +51,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 </td></tr><tr><td id="d55502e192">
 
-**From a [[demand-form|demand form]]**
+**From a demand form**
 
 </td><td>
 
@@ -70,7 +70,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 1.  Navigate to **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open a project record.
 3.  Click the **Details** tab.
-4.  In the **[[t_CreateAProjectTask|Project Tasks]]** related list, open a task.
+4.  In the **Project Tasks** related list, open a task.
 5.  In the **Resource Plan** related list, click **New**.
 
 
@@ -85,7 +85,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
  **Note:** When you create a resource plan from an existing resource plan, all fields are copied to the new resource plan. The new plan is created in the Planning state.
 
 </td></tr></tbody>
-</table>2.  On the [[rsrc-plan-form|Resource Plan form]], fill the fields.
+</table>2.  On the Resource Plan form, fill the fields.
 
     For a field descriptions of the field names, see [Resource Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form.md).
 
@@ -93,7 +93,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
     The resource plan is saved and placed in the Planning state.
 
-4.  Review update the values in the [[rsrc-plan-form-tabs|Resource Plan form tabs]].
+4.  Review update the values in the Resource Plan form tabs.
 
     For a field description of the field names, see [Resource Plan form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form-tabs.md).
 
@@ -157,13 +157,3 @@ Use the [Resource Plan related links and lists](https://raw.githubusercontent.co
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[demand-form|Demand form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[rsrc-plan-form|Resource Plan form]]
-- [[rsrc-plan-form-tabs|Resource Plan form tabs]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[assets-page-console|Assets page]].
+1.  Navigate to the Assets page.
 
 2.  In the Filters pane, select the bottom tab, **Filters**.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 The bulk deleted assets are no longer in the Assets table.
 
-## Related
-
-- [[assets-page-console|Assets page]]

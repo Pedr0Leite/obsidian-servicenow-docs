@@ -14,12 +14,12 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Exploring AI Search
 
-Learn about [[ia-ai-search|AI Search]] features that enable you to provide consumer-grade search experiences for your users.
+Learn about AI Search features that enable you to provide consumer-grade search experiences for your users.
 
 -   **[AI Search architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais-architecture.md)**  
 The AI Search index stores data from ServiceNow AI Platform® records or external sources and makes that data available for users to search in multiple applications. Search query features use ServiceNow AI Platform technologies to improve the search user experience.
 -   **[AI Search configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-configuration.md)**  
-Search administrators configure AI Search indexing and search settings in indexed sources, search sources, search profiles, and [[defining-search-app-cfgs-ais|search application configurations]].
+Search administrators configure AI Search indexing and search settings in indexed sources, search sources, search profiles, and search application configurations.
 -   **[Index searchable content from ServiceNow AI Platform tables and external sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-indexing-content-ais.md)**  
 Make alphanumeric content from text and string fields on your records searchable by configuring an indexed source. Each indexed source retrieves data from a table and adds it to the AI Search index.
 -   **[Control access to searchable content using search sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-search-sources-ais.md)**  
@@ -31,7 +31,7 @@ Provide multiple search entry points across your organization by enabling AI Sea
 -   **[Provide users with powerful and flexible search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-features-search-ais.md)**  
 AI Search includes search features that help users find the answers they need.
 -   **[Enable search result refinement filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-features-refine-ais.md)**  
-AI Search enables users to refine searches by filtering their [[hs-results|results]]. Use source facet buckets to filter results by source, or select facets to apply filters dynamically generated from the result set.
+AI Search enables users to refine searches by filtering their results. Use source facet buckets to filter results by source, or select facets to apply filters dynamically generated from the result set.
 -   **[Display relevant and actionable search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-features-results-ais.md)**  
 AI Search provides users with clear answers for their search queries.
 -   **[Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-content-security-ais.md)**  
@@ -47,8 +47,3 @@ The ServiceNow AI Platform® offers a variety of search tools, which may return 
 
 **Parent Topic:**[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[hs-results|Results]]

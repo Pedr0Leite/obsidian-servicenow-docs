@@ -14,7 +14,7 @@ breadcrumb: [Using the homepage of Knowledge Management v3, Using Knowledge Mana
 
 # Import a Word document to a knowledge base using Knowledge Management v3
 
-Import a Microsoft Word document [[using-knowledge-management|using Knowledge Management]] v3 homepage to [[create-knowledge-article|create a knowledge article]].
+Import a Microsoft Word document using Knowledge Management v3 homepage to create a knowledge article.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ You must have contribute access for at least one active knowledge base.
 
 **Note:**
 
-Starting with the Washington DC release, the [[knowledge-management|Knowledge Management]] v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-service-portal-pages.md).
 
 The **Import Articles** button does not appear in the following conditions:
 
@@ -42,7 +42,7 @@ You can import Microsoft Word documents in the .doc and .docx file formats.
 
 **Note:** The file extension must be lowercase.
 
-When you import a document, text content from the document is used to create the knowledge article. The articles support all editing functions [supported by the TinyMCE editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EditingFunctions.md). All [[html|HTML]] supported by TinyMCE such as tables, lists, and links, as well as styling such as bold and italics, are preserved. Images from the document are added as attachments to the knowledge article and embedded in the article body.
+When you import a document, text content from the document is used to create the knowledge article. The articles support all editing functions [supported by the TinyMCE editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EditingFunctions.md). All HTML supported by TinyMCE such as tables, lists, and links, as well as styling such as bold and italics, are preserved. Images from the document are added as attachments to the knowledge article and embedded in the article body.
 
 **Note:**
 
@@ -79,7 +79,7 @@ The following styles and elements are preserved when importing a .doc or .docx f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Knowledge**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Knowledge**.
 
 2.  Select one or more document files and drag onto the knowledge homepage.
 
@@ -91,9 +91,9 @@ The following styles and elements are preserved when importing a .doc or .docx f
 
     **Note:** Use the category picker to add a category. The picker does not differentiate between the different category levels. You can select a category or sub category and add it to the **Category** field.
 
-5.  Select the **Publish** [[check-box|check box]] to start the publishing workflow for each imported article immediately after the import finishes.
+5.  Select the **Publish** check box to start the publishing workflow for each imported article immediately after the import finishes.
 
-    This check box applies only when importing to v3 knowledge bases and only if the **Show publish checkbox on the knowledge import pop-up** property is set to **Yes** on the [[r_KnowledgeProperties|Knowledge Management properties]] form. You cannot automatically publish articles imported to v2 knowledge bases.
+    This check box applies only when importing to v3 knowledge bases and only if the **Show publish checkbox on the knowledge import pop-up** property is set to **Yes** on the Knowledge Management properties form. You cannot automatically publish articles imported to v2 knowledge bases.
 
     Knowledge v2 articles go into **Draft** state. Knowledge v3 articles go into **Review** or **Published** state, depending on the workflow attached to the knowledge base \(Approval Publish or Instant Publish\).
 
@@ -113,12 +113,3 @@ The following styles and elements are preserved when importing a .doc or .docx f
 
 [Import a Word document to a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/import-word-platform.md)
 
-## Related
-
-- [[using-knowledge-management|Using Knowledge Management]]
-- [[create-knowledge-article|Create a knowledge article]]
-- [[knowledge-management|Knowledge Management]]
-- [[html|HTML]]
-- [[self-service-landing|Self-service]]
-- [[check-box|Check box]]
-- [[r_KnowledgeProperties|Knowledge Management properties]]

@@ -14,11 +14,11 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce application specific ACLs only for application data
 
-Avoid unauthorized or undesired access to application data by enforcing application-specific [[sc-access-control|access control]] lists \(ACLs\) only for application data.
+Avoid unauthorized or undesired access to application data by enforcing application-specific access control lists \(ACLs\) only for application data.
 
-Control the behavior of application data residing in primary tables outside the application. When these properties have a value of **true**, only the application-specific ACLs are evaluated for access to the application data residing in these tables. Not all applications are designed to work in this [[sc-configuration|configuration]] or use a System Property \[sys\_properties\] record for this purpose.
+Control the behavior of application data residing in primary tables outside the application. When these properties have a value of **true**, only the application-specific ACLs are evaluated for access to the application data residing in these tables. Not all applications are designed to work in this configuration or use a System Property \[sys\_properties\] record for this purpose.
 
-These [[ca-system-properties|system properties]] use the **glide.enforce\_security\_scope.&lt;scope&gt;** naming format. For example, use the **glide.enforce\_security\_scope.sn\_hr\_sp** property for the Employee Center Core \(sn\_hr\_sp\) scope. The following application scopes contain this property:
+These system properties use the **glide.enforce\_security\_scope.&lt;scope&gt;** naming format. For example, use the **glide.enforce\_security\_scope.sn\_hr\_sp** property for the Employee Center Core \(sn\_hr\_sp\) scope. The following application scopes contain this property:
 
 <table id="table_whg_pfg_32c"><tbody><tr><td>
 
@@ -231,8 +231,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

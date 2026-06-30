@@ -14,7 +14,7 @@ breadcrumb: [Security incident treemaps, Security Incident Response Overview das
 
 # Create or update a treemap category
 
-You can modify the predefined categories for the [[c_ConfigureTreemaps|security incident treemaps]] or create categories as needed.
+You can modify the predefined categories for the security incident treemaps or create categories as needed.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ In the base system, treemap categories such as Incident Risk, Denial of Service,
 
 **Parent Topic:**[Security incident treemaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ConfigureTreemaps.md)
 
-## Related
-
-- [[c_ConfigureTreemaps|Security incident treemaps]]

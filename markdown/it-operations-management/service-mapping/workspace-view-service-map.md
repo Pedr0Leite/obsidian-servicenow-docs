@@ -22,7 +22,7 @@ Role required: sm\_app\_owner, service\_mapping\_user, evt\_mgmt\_admin, evt\_mg
 
 ## About this task
 
-The service instance map in the [[c_EM|Event Management]] view reflects the severity status of CIs belonging to the service instance. For more information about viewing service details on maps, see [Application service maps in legacy Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/workspace-application-service-map.md).
+The service instance map in the Event Management view reflects the severity status of CIs belonging to the service instance. For more information about viewing service details on maps, see [Application service maps in legacy Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/workspace-application-service-map.md).
 
 ## Procedure
 
@@ -58,6 +58,3 @@ The service instance map in the [[c_EM|Event Management]] view reflects the seve
 
 [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md)
 
-## Related
-
-- [[c_EM|Event Management]]

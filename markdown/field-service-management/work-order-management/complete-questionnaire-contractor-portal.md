@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # Complete questionnaires for a work order task on the Contractor Portal
 
-As a manager or field service agent of a contractor company, you can access and complete questionnaires from the work order tasks assigned to you through the Field Service [[field-service-contractor-portal|Contractor Portal]].
+As a manager or field service agent of a contractor company, you can access and complete questionnaires from the work order tasks assigned to you through the Field Service Contractor Portal.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ You can complete questionnaires for the work order tasks that are assigned to yo
 
 6.  Click **Submit** after answering all the mandatory questions in the questionnaire.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

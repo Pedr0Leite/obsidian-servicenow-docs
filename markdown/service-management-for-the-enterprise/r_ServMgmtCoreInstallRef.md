@@ -14,12 +14,8 @@ breadcrumb: [Service Management]
 
 Service Management Core includes several feature plugins. Each of these plugins installs several types of components in support of the service management process.
 
--   **[[r_InstallWServMgmtCore|Installed with Service Management Core]]**  
+-   **[Installed with Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWServMgmtCore.md)**  
 Several types of components are installed with the Service Management Core plugin.
 
-**Parent Topic:**[[c_ServiceManagement|Service Management]]
+**Parent Topic:**[Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagement.md)
 
-## Related
-
-- [[r_InstallWServMgmtCore|Installed with Service Management Core]]
-- [[c_ServiceManagement|Service Management]]

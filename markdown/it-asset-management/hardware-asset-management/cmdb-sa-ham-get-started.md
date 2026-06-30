@@ -14,7 +14,7 @@ breadcrumb: [Set up advisor, Use HAM advisor, Asset and CI management, Explore, 
 
 # Get started with CMDB success advisor setup for HAM
 
-Set up your [[ham-landing-page|Hardware Asset Management]] \(HAM\) specific advisor dashboard by selecting [[model-hierarchy|model categories]] to define the HAM advisor scope.
+Set up your Hardware Asset Management \(HAM\) specific advisor dashboard by selecting model categories to define the HAM advisor scope.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_admin
 
 Selecting model categories defines which hardware asset types CMDB success advisor monitors for HAM data quality. The selected categories determine the scope of the HAM advisor dashboard, including the KPIs, data integrations, and settings that are tracked.
 
-**Important:** To determine which model categories to select, review the count of operational assets under each category in the [[using-ham-workspace|Hardware Asset Workspace]], or consult with your [[it-asset-management|IT Asset Management]] \(ITAM\) or HAM administrator for guidance. See [Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-workspace.md).
+**Important:** To determine which model categories to select, review the count of operational assets under each category in the Hardware Asset Workspace, or consult with your IT Asset Management \(ITAM\) or HAM administrator for guidance. See [Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-workspace.md).
 
 ## Procedure
 
@@ -57,12 +57,5 @@ Selecting model categories defines which hardware asset types CMDB success advis
 
 The HAM data collection begins. The HAM advisor dashboard is populated after data collection completes. Initial data collection runs monthly. The frequency increases to daily after the first time you interact with the dashboard.
 
-To update the scope after initial setup, select **[[t_EditingModelCategories|Edit model categories]]** on the HAM advisor dashboard.
+To update the scope after initial setup, select **Edit model categories** on the HAM advisor dashboard.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[it-asset-management|IT Asset Management]]
-- [[t_EditingModelCategories|Edit model categories]]

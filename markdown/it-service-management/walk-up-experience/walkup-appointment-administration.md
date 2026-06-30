@@ -14,7 +14,7 @@ breadcrumb: [Book Walk-up Experience appointments, Configure, Walk-up Experience
 
 # Walk-up Experience appointment booking administration
 
-Create or modify the [[walkup-experience-landing-page|Walk-up Experience]] **Appointment Booking** feature.
+Create or modify the Walk-up Experience **Appointment Booking** feature.
 
 Administrators can create, modify, and enable the Walk-up Experience application configuration. Appointment booking administrators \(appointment\_booking\_admin\) can create, modify, and enable configurations for service locations within the Walk-up Experience application.
 
@@ -35,6 +35,3 @@ Support requesters in-person and virtually and assist them through remote appoin
 
 **Parent Topic:**[Book Walk-up Experience appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

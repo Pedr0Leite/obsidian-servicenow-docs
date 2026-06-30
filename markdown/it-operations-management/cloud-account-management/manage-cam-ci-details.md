@@ -14,7 +14,7 @@ breadcrumb: [Viewing the cloud asset explorer, Viewing Cloud Account Management 
 
 # Managing the Cloud Account Management cloud asset details
 
-Use the cloud asset form in the [[cam-landing|Cloud Account Management]] to view, edit, and manage a comprehensive set of details of a cloud asset such as its attributes, its health, and its records.
+Use the cloud asset form in the Cloud Account Management to view, edit, and manage a comprehensive set of details of a cloud asset such as its attributes, its health, and its records.
 
 The cloud asset form is a centralized, highly organized, and comprehensive set of sections with cloud asset details. Use this form to examine and edit cloud asset attributes, relationships, tags, services and offerings, account health and data associated with the cloud asset, resources, activities, and related services.
 
@@ -22,7 +22,7 @@ The following sections describe the various sections of the cloud asset form.
 
 ## Summary
 
-The Summary section provides a consolidated view of key configuration item \(CI\) information for a Virtual Machine \(VM\) instance. This page helps you quickly access metadata, ownership details, operational status, [[r-discovery|discovery]] timestamps, and critical attributes required for monitoring and decision-making.
+The Summary section provides a consolidated view of key configuration item \(CI\) information for a Virtual Machine \(VM\) instance. This page helps you quickly access metadata, ownership details, operational status, discovery timestamps, and critical attributes required for monitoring and decision-making.
 
 ## Attributes
 
@@ -30,7 +30,7 @@ The Attributes section displays all UI sections configured in the Explore CI vie
 
 ## Tags
 
-This section lists tags stored as key/value pairs in the Key Values \[cmdb\_key\_value\] table. These cloud tags are typically associated with CIs and resources from providers like AWS and Google Cloud Platform. Cloud tags are used in ITOM applications such as [[landing-page-tag-governance|Tag Governance]] and are key to [[tag-based-mapping|Tag-based discovery in Service Mapping]]. They are automatically populated by Discovery and Service Graph Connectors and can be grouped and managed as needed within your organization.
+This section lists tags stored as key/value pairs in the Key Values \[cmdb\_key\_value\] table. These cloud tags are typically associated with CIs and resources from providers like AWS and Google Cloud Platform. Cloud tags are used in ITOM applications such as Tag Governance and are key to Tag-based discovery in Service Mapping. They are automatically populated by Discovery and Service Graph Connectors and can be grouped and managed as needed within your organization.
 
 ## Resources
 
@@ -72,9 +72,3 @@ This section shows aggregations from the latest CMDB Health test results for the
 
 **Note:** For more information on each section, see [Manage CI details using CI Form in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ci-form-cmdb-workspace.md).
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[r-discovery|Discovery]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[tag-based-mapping|Tag-based discovery in Service Mapping]]

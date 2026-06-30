@@ -12,13 +12,13 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Using Business Location 360
 
-Enable customer service agents to get a comprehensive, 360-degree view of the business location issues, so that they get the required contextual data to effectively resolve the reported issues within the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Enable customer service agents to get a comprehensive, 360-degree view of the business location issues, so that they get the required contextual data to effectively resolve the reported issues within the Customer Service Management \(CSM\) application.
 
 ## Overview of Business Location 360
 
-By using the [[data-models-smf|Service Model Foundation data model]] framework, your location staff members can request assistance for their operations either from the central support team or peer business locations​. To handle these cases effectively, customer service agents require a complete, 360° view of the business location.
+By using the Service Model Foundation data model framework, your location staff members can request assistance for their operations either from the central support team or peer business locations​. To handle these cases effectively, customer service agents require a complete, 360° view of the business location.
 
-The Business Location 360 template enables agents to get a comprehensive view that includes the crucial contextual information that they need for resolving reported issues. Your administrator can customize the Business Location 360 template to add data sources, show additional information, or represent entities like stores, government agencies, healthcare organizations, automotive dealerships, or departments. For more information about configuring the Business Location 360 template, see [[csm-config-workspace-page-templates|CSM Configurable Workspace page templates]].
+The Business Location 360 template enables agents to get a comprehensive view that includes the crucial contextual information that they need for resolving reported issues. Your administrator can customize the Business Location 360 template to add data sources, show additional information, or represent entities like stores, government agencies, healthcare organizations, automotive dealerships, or departments. For more information about configuring the Business Location 360 template, see [CSM Configurable Workspace page templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-page-templates.md).
 
 **Note:** Your administrator can activate the Business Location 360 capabilities by using the Business Location \(com.snc.business\_location\) plugin.
 
@@ -37,17 +37,9 @@ By using the Business Location 360, your location staff members get the followin
 **Related topics**  
 
 
-[[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-agents.md)
 
-[[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
+[Access Business Location 360 as a customer service manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-csm-managers.md)
 
-[[ui-components-under-business-location-360|Business Location 360 components]]
+[Business Location 360 components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ui-components-under-business-location-360.md)
 
-## Related
-
-- [[csm-config-workspace-page-templates|CSM Configurable Workspace page templates]]
-- [[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
-- [[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
-- [[ui-components-under-business-location-360|Business Location 360 components]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[data-models-smf|Service Model Foundation data model]]

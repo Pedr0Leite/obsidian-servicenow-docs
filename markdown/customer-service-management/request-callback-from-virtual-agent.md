@@ -14,7 +14,7 @@ breadcrumb: [Callback requests from customers, Use omnichannel callback, Custome
 
 As a customer, you can request a callback from a customer service agent through a Virtual Agent conversation. You can request an immediate voice callback or schedule a voice or video callback that you can reschedule or cancel.
 
-For more information about setting up [[omnichannel|Omnichannel]] Callback, refer to [Configuring Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configuring-omnichannel-callback.md)
+For more information about setting up Omnichannel Callback, refer to [Configuring Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configuring-omnichannel-callback.md)
 
 ## Request a callback from a Virtual Agent chat
 
@@ -84,7 +84,7 @@ The date and time slots indicate the agent's availability.
 
 ## Reschedule a callback from a Virtual Agent chat
 
-[[reschedule-callback|Reschedule a callback]] from a Virtual Agent chat on the ServiceNow portal.
+Reschedule a callback from a Virtual Agent chat on the ServiceNow portal.
 
 ### Before you begin
 
@@ -125,7 +125,7 @@ A confirmation email is sent.
 
 ## Cancel a callback from a Virtual Agent chat
 
-[[cancel-callback|Cancel a callback]] from a Virtual Agent chat on the ServiceNow portal.
+Cancel a callback from a Virtual Agent chat on the ServiceNow portal.
 
 ### Before you begin
 
@@ -156,8 +156,3 @@ Role required: none
 -   The chat shows the details of the canceled callback request.
 -   A confirmation email is sent.
 
-## Related
-
-- [[omnichannel|Omnichannel]]
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]

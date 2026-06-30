@@ -30,19 +30,14 @@ Role required: None
 
 3.  Select the add-in, then select the button or menu item for your request.
 
-    For example, select the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]], then select **Create incident**.
+    For example, select the ServiceNow Add-in for Microsoft 365, then select **Create incident**.
 
-    You might have to login to the [[employee-center-landing-page|Employee Center]] with your ServiceNow credentials.
+    You might have to login to the Employee Center with your ServiceNow credentials.
 
-    The Employee Center portal opens in the [[activity-lxp|activity]] tab in Microsoft Outlook.
+    The Employee Center portal opens in the activity tab in Microsoft Outlook.
 
 4.  Fill in the form or the catalog item request, then select **Submit**.
 
 
 **Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-sn-addin-for-ms365.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

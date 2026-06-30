@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Normalization statuses
 
-Description of normalization statuses for discovery [[c_Models|models]].
+Description of normalization statuses for discovery models.
 
 When a discovery model is normalized, it is normalized to the version and full version. However, if the discovery model is partially normalized or publisher normalized, then the discovery model won't be updated to full version. If the discovery model is manually normalized, you can decide if you want it normalized to version and full version.
 
@@ -78,12 +78,8 @@ New
 
 </td><td>
 
-The [[sam-software-discovery|software discovery]] model has not yet run through the normalization process.
+The software discovery model has not yet run through the normalization process.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[sam-software-discovery|Software discovery]]

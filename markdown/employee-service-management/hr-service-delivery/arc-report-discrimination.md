@@ -20,11 +20,11 @@ Create discrimination cases that can be sent to your Human Resources department 
 
 Role required: none
 
-**Note:** Ensure that the Anonymous Report Center \(com.sn\_anonymous\_report\_center\) and Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] \(com.sn\_hr\_employee\_relations\) plugins are activated.
+**Note:** Ensure that the Anonymous Report Center \(com.sn\_anonymous\_report\_center\) and Human Resources Scoped App: Employee Relations \(com.sn\_hr\_employee\_relations\) plugins are activated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**.
 
 2.  From the **Human resources** tab, select **Employee Conduct**.
 
@@ -101,7 +101,3 @@ Detailed location information on where the discrimination occurred, such as the 
 
 [Access an anonymous report]()
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[employee-center-landing-page|Employee Center]]

@@ -24,7 +24,7 @@ Role required: sales territory admin
 
 1.  Navigate to **All** &gt; **Sales Territory Management** &gt; **Run Assignments**.
 
-2.  Select an active sales territory model or territory to run assignment [[rules_101|rules]]:
+2.  Select an active sales territory model or territory to run assignment rules:
 
     -   If active sales territory model is selected, all selected sources and their data are evaluated against the complete territory hierarchy. Existing assigned territory will be replaced with the newly evaluated one.
     -   If active territory is selected, only those entities with no assigned territory will be evaluated against the territory condition.
@@ -44,12 +44,7 @@ Sales Territory Management is assigned in the CRM entities. All the Sales Territ
 **Related topics**  
 
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[rules_101|Rules]]

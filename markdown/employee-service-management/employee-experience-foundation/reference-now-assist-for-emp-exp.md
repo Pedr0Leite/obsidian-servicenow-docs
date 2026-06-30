@@ -14,13 +14,10 @@ breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Em
 
 # Now Assist for Employee Experience reference
 
-Learn more about the system properties installed with the [[now-assisit-employee-exp|Now Assist for Employee Experience]] application.
+Learn more about the system properties installed with the Now Assist for Employee Experience application.
 
 -   **[Properties installed with Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-now-assist-for-emp-exp.md)**  
 Properties available with the Now Assist for Employee Experience application.
 
 **Parent Topic:**[Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/now-assisit-employee-exp.md)
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

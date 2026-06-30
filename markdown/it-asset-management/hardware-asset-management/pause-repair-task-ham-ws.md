@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on asset repair tasks, Manage asset repair in st
 
 # Pause a repair task in the Hardware Asset Workspace
 
-Record a break from a repair task in the [[using-ham-workspace|Hardware Asset Workspace]] if you’re not continuing to work on it. Resume the task when you start working on it again. The system automatically tracks and calculates the actual time taken to complete the task even though the work was interrupted.
+Record a break from a repair task in the Hardware Asset Workspace if you’re not continuing to work on it. Resume the task when you start working on it again. The system automatically tracks and calculates the actual time taken to complete the task even though the work was interrupted.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Each time you pause or resume work on the task, the actual time you worked on th
 
 [Record time worked on a repair task manually in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

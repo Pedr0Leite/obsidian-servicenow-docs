@@ -14,7 +14,7 @@ breadcrumb: [Integrating Azure DevOps and CI-CD tool, Configuring Cloud Services
 
 # Set up the Microsoft Azure DevOps console
 
-Set up the Microsoft Azure DevOps console as the first step before you run [[r-discovery|Discovery]] and order a catalog item in the [[csc-home|Cloud Services Catalog]] application.
+Set up the Microsoft Azure DevOps console as the first step before you run Discovery and order a catalog item in the Cloud Services Catalog application.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ Role required: none
 
 **Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-azure-devops-and-cicd-pipeline.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[csc-home|Cloud Services Catalog]]

@@ -34,7 +34,7 @@ hostname
 
 </td><td>
 
-Hostname or [[ip-address|IP address]] of destination server for SSH activity.
+Hostname or IP address of destination server for SSH activity.
 
 </td></tr><tr><td>
 
@@ -94,6 +94,3 @@ Replacement options:-   **first**: Replaces the first occurence of the pattern.
 
 **Parent Topic:**[SSH activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSSHCustomActivities.md)
 
-## Related
-
-- [[ip-address|IP Address]]

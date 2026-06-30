@@ -14,7 +14,7 @@ breadcrumb: [Scripting for operation handlers, Setting up ServiceNow Voice, Serv
 
 For both inbound and outbound calls, a provider configuration contains settings about the involved components and message transformers for a specific third-party phone system provider. Any request from that phone system provider is handled within ServiceNow based on these settings.
 
-To view the available provider configurations, navigate to **[[cloud-call-center-overview|ServiceNow Voice]] - Core** &gt; **Provider Configurations**.
+To view the available provider configurations, navigate to **ServiceNow Voice - Core** &gt; **Provider Configurations**.
 
 Any request from a third-party phone system is passed into a ServiceNow instance through the CTI Operation endpoint of the CTI API. For information about this API, see [CTI API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/cti-api.md). Based on the provider and the component specified in the endpoint, the corresponding message transformers are invoked to perform the following:
 
@@ -38,9 +38,9 @@ To view the available message transformers, navigate to **ServiceNow Voice - Cor
 
 ## Provider configuration for the integration of Voice with Amazon Connect
 
-For the ServiceNow Voice integration with the ServiceNow Voice with Amazon [[c_Connect|Connect]] application, the **AWS Connect Default Handler** provider component is available by default.
+For the ServiceNow Voice integration with the ServiceNow Voice with Amazon Connect application, the **AWS Connect Default Handler** provider component is available by default.
 
-**Note:** The ServiceNow Voice with Amazon Connect integration with ServiceNow application \[sn\_cti\_amzn\_cct\] must be installed from the ServiceNow® Store. For information on installing this application, see [[install-ccc-apps|Install ServiceNow Voice applications]].
+**Note:** The ServiceNow Voice with Amazon Connect integration with ServiceNow application \[sn\_cti\_amzn\_cct\] must be installed from the ServiceNow® Store. For information on installing this application, see [Install ServiceNow Voice applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-ccc-apps.md).
 
 For each node that can be used an integration point between Amazon services and the ServiceNow instance, the following provider components and the corresponding message transformers are available.
 
@@ -54,11 +54,5 @@ When a customer dials using a phone number, a call is placed through the Amazon 
 -   Transform the request from Amazon Connect before passing the request to an operation handler.
 -   Transform the response from the operation handler before passing it on to Amazon Connect.
 
-**Parent Topic:**[[cloud-call-center-api|Scripting for operation handlers]]
+**Parent Topic:**[Scripting for operation handlers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-api.md)
 
-## Related
-
-- [[install-ccc-apps|Install ServiceNow Voice applications]]
-- [[cloud-call-center-api|Scripting for operation handlers]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]

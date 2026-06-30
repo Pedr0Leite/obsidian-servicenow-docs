@@ -16,9 +16,9 @@ breadcrumb: [Authentication policy contexts, Adaptive authentication, Authentica
 
 Use the Session Validation Context as an additional layer of protection against session or cookie hijacking.
 
-You can use the Session Validation Context with the [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md) policy framework. The framework uses [[authentication-policies|authentication policies]] to evaluate [[c_Authentication|authentication]] requests and then either denies or allows access based on policy inputs and conditions.
+You can use the Session Validation Context with the [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md) policy framework. The framework uses authentication policies to evaluate authentication requests and then either denies or allows access based on policy inputs and conditions.
 
-The Session Validation Context policy can be used in conjunction with post auth policy, where an admin can enforce IP restrictions to certain or all [[users|users]] during the logged in session.
+The Session Validation Context policy can be used in conjunction with post auth policy, where an admin can enforce IP restrictions to certain or all users during the logged in session.
 
 The Session Validation Context feature evaluates the IP-addresses based on the conditions you set and allows access to the instance within a session. The Session Validation Context outcome is set based on selecting **Allow Policy** as this policy terminates the user session immediately unless one of the policy conditions defined in the allow access policy evaluates to true.
 
@@ -26,7 +26,7 @@ The Session Validation Context feature evaluates the IP-addresses based on the c
 
 The Session Validation Context works based on the following mechanism:
 
--   Captures the user's IP address on session creation from user [[c_requestAPI|request]] and stores it in the session and database.
+-   Captures the user's IP address on session creation from user request and stores it in the session and database.
 -   Rejects a request when its IP address differs from that in the session or outside of the customer defined valid IP ranges you defined.
 
 **Note:** The Session Validation Context is:
@@ -46,7 +46,7 @@ The Session Validation Context has the following benefits:
 
 ## Session Validation context record
 
-[[ca-policies|Policies]] in the session validation context execute post-login requests.
+Policies in the session validation context execute post-login requests.
 
 Use the fields in the session validation policy context record to define how your instance uses your policy.
 
@@ -108,17 +108,9 @@ The policy used for this context. This field appears only when the **Default Pol
 </td></tr></tbody>
 </table>You can choose the **Session Validation Policy** as Allow Policy or Deny Policy based on the policy input and policy conditions.
 
-**Note:** You can only use the IP, Role, and [[group-filter|Group filter]] criteria for Session Validation policy.
+**Note:** You can only use the IP, Role, and Group filter criteria for Session Validation policy.
 
 ## Policy inputs and conditions
 
 The **Policy Input** and **Policy Conditions** tabs display the inputs and conditions of the policy selected in the **Allow Policy** or **Deny Policy** field. These tabs serve as a reference; but they can’t be used to change the policy inputs or conditions. To modify your policy, navigate to the policy using the reference icon next to the **Allow Policy** or **Deny Policy** field.
 
-## Related
-
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[ca-policies|Policies]]
-- [[group-filter|Group Filter]]

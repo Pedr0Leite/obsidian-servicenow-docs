@@ -254,8 +254,5 @@ Get Personal Auto Claim
 Based on the Claim ID, this subflow retrieves a specific personal claim from Guidewire.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
+</table>**Parent Topic:**[Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-guidewire-landing-page.md)
 
-## Related
-
-- [[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]

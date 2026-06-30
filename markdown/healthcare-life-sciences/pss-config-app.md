@@ -12,7 +12,7 @@ breadcrumb: [Patient Support Services, Healthcare and Life Sciences Service Mana
 
 # Configuring Patient Support Services
 
-Set up the [[pss-app|Patient Support Services]] application to complete enrollment activities associated with a patient service program.
+Set up the Patient Support Services application to complete enrollment activities associated with a patient service program.
 
 **Important:**
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[pss-install-app|Install Patient Support Services]].
+[Install Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-install-app.md).
 
 </td><td>
 
@@ -42,7 +42,7 @@ Install the Patient Support Services application to work on patient support serv
 
 </td></tr><tr><td>
 
-[[pss-assign-roles|Assign roles for Patient Support Services users]].
+[Assign roles for Patient Support Services users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-assign-roles.md).
 
 </td><td>
 
@@ -50,7 +50,7 @@ Assign roles to control access to features, capabilities, and data in the Patien
 
 </td></tr><tr><td>
 
-[[pss-data-model|Use the Patient Support Services data model]].
+[Use the Patient Support Services data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-data-model.md).
 
 </td><td>
 
@@ -58,7 +58,7 @@ Use Patient Support Services tables to store the data related to enrollment requ
 
 </td></tr><tr><td>
 
-[[pss-approve-rca|Approve restricted caller access privileges for Patient Support Services.]]
+[Approve restricted caller access privileges for Patient Support Services.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-approve-rca.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Approve restricted caller access \(RCA\) privileges for accessing document templ
 
 </td></tr><tr><td>
 
-[[pss-enroll-form-config|Configure an enrollment request form]].
+[Configure an enrollment request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-enroll-form-config.md).
 
 </td><td>
 
@@ -74,7 +74,7 @@ Configure an enrollment request form to enable patients or practitioners enroll 
 
 </td></tr><tr><td>
 
-[[pss-ext-point-enrollment-form|Configure the submission flow of the enrollment request form]].
+[Configure the submission flow of the enrollment request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-ext-point-enrollment-form.md).
 
 </td><td>
 
@@ -82,7 +82,7 @@ Use scripted extension points to decide what records are created or updated afte
 
 </td></tr><tr><td>
 
-[[pss-nurse-ts-group|Determine who can conduct training tasks]].
+[Determine who can conduct training tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-nurse-ts-group.md).
 
 </td><td>
 
@@ -90,7 +90,7 @@ Add users who can conduct the trainings for Patient Support Services to the Nurs
 
 </td></tr><tr><td>
 
-[[pss-appt-booking-setup|Configure an appointment booking setting]].
+[Configure an appointment booking setting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-setup.md).
 
 </td><td>
 
@@ -98,7 +98,7 @@ Enable patients to book an appointment for the training tasks conducted within t
 
 </td></tr><tr><td>
 
-[[pss-program-services-setup|Configure a program]].
+[Configure a program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-program-services-setup.md).
 
 </td><td>
 
@@ -106,7 +106,7 @@ Enable your patients to enroll to a program in the Patient Support Services appl
 
 </td></tr><tr><td>
 
-[[pss-config-checklist|Configure a checklist for a program.]]
+[Configure a checklist for a program.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-checklist.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ Configure a checklist for a Patient Support Services program as an informal list
 
 </td></tr><tr><td>
 
-[[pss-config-doc-decisions|Configure the auto-generation of documents]].
+[Configure the auto-generation of documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-doc-decisions.md).
 
 </td><td>
 
@@ -122,7 +122,7 @@ Define the conditions for auto-generating documents for an enrollment request.
 
 </td></tr><tr><td>
 
-[[pss-config-to-do|Add a to-dos menu item to patient portal]].
+[Add a to-dos menu item to patient portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-to-do.md).
 
 </td><td>
 
@@ -130,7 +130,7 @@ Configure the patient portal to add a menu item that lists all to-do items for e
 
 </td></tr><tr><td>
 
-[[pss-config-playbook|Configure a playbook for Patient Support Services]].
+[Configure a playbook for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-playbook.md).
 
 </td><td>
 
@@ -138,7 +138,7 @@ Configure a playbook to provide step-by-step guidance for resolving enrollment c
 
 </td></tr><tr><td>
 
-[[pss-config-emails|Configure a Patient Support Services email notification]].
+[Configure a Patient Support Services email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-emails.md).
 
 </td><td>
 
@@ -146,7 +146,7 @@ Configure the email notifications sent to patients about Patient Support Service
 
 </td></tr><tr><td>
 
-[[pss-connector-contributor|Determine additional user profiles]].
+[Determine additional user profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-connector-contributor.md).
 
 </td><td>
 
@@ -154,7 +154,7 @@ Determine who can act as an agent connector or contributor for enrollment cases 
 
 </td></tr><tr><td>
 
-[[pss-case-contributor|Set up the process for contributors to create an enrollment case]].
+[Set up the process for contributors to create an enrollment case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-case-contributor.md).
 
 </td><td>
 
@@ -162,23 +162,3 @@ Set up the process for creating enrollment cases on a service portal.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-install-app|Install Patient Support Services]]
-- [[pss-assign-roles|Assign roles for Patient Support Services users]]
-- [[pss-data-model|Patient Support Services data model]]
-- [[pss-approve-rca|Approving restricted caller access privileges for Patient Support Services]]
-- [[pss-enroll-form-config|Configuring the enrollment request form]]
-- [[pss-ext-point-enrollment-form|Configure the submission flow of the enrollment request form]]
-- [[pss-nurse-ts-group|Determine who can conduct a training for Patient Support Services]]
-- [[pss-appt-booking-setup|Configuring an appointment booking setting for Patient Support Services]]
-- [[pss-program-services-setup|Configuring a program for Patient Support Services]]
-- [[pss-config-checklist|Configure a checklist for Patient Support Services]]
-- [[pss-config-doc-decisions|Configuring the auto-generation of documents for enrollment requests]]
-- [[pss-config-to-do|Configuring the patient portal to add a to-dos menu item for enrollment request tasks]]
-- [[pss-config-playbook|Configuring playbooks for Patient Support Services]]
-- [[pss-config-emails|Configuring the Patient Support Services email notifications]]
-- [[pss-connector-contributor|Determining additional user profiles in Patient Support Services]]
-- [[pss-case-contributor|Setting up the process to create enrollment cases as a contributor]]
-- [[pss-app|Patient Support Services]]

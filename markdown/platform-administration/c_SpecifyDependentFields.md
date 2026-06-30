@@ -19,8 +19,5 @@ For example, if you enter `caller_id` in the dependent field in the Incident tab
 **Related topics**  
 
 
-[[t_MakingAFieldDependent|Make a field dependent]]
+[Make a field dependent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_MakingAFieldDependent.md)
 
-## Related
-
-- [[t_MakingAFieldDependent|Make a field dependent]]

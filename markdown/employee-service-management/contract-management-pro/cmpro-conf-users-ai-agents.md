@@ -14,11 +14,11 @@ breadcrumb: [Configure agentic workflows, Configure, Now Assist in CM Pro, Contr
 
 # Configuring user access and data permissions for AI agents
 
-Configure the security controls to specify the users who can [[discover-lxp|discover]] or use the agentic workflow, and provide data permissions for AI agents.
+Configure the security controls to specify the users who can discover or use the agentic workflow, and provide data permissions for AI agents.
 
 AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
-The following roles are configured with the base system to provide data access to the AI agents in the agentic workflows of [[cncore-cmpro-landing-page|Contract Management Pro]].
+The following roles are configured with the base system to provide data access to the AI agents in the agentic workflows of Contract Management Pro.
 
 -   sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 -   sn\_lg\_cnt.contract\_fulfiller
@@ -49,7 +49,3 @@ For more information on configuring the security controls, see [Define security 
 
 [Configuring user access and data permissions for agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-users-agentic-wf.md)
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

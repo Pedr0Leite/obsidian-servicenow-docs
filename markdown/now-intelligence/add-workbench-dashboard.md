@@ -12,7 +12,7 @@ breadcrumb: [Add elements, Edit a dashboard, Working with in-line dashboards, Da
 
 # Add Workbench widgets to an in-line dashboard
 
-You can place Core UI workbench [[widgets|widgets]] on an inline dashboard. They are added in compatibility mode.
+You can place Core UI workbench widgets on an inline dashboard. They are added in compatibility mode.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ The system property com.snc.pae.workbench\_enabled must be set to true.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Either [[create-db-in-ac|create a dashboard]] or open the dashboard you want to edit.
+2.  Either [create a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) or open the dashboard you want to edit.
 
 3.  If the dashboard has an **Edit** button, select it.
 
-    A new dashboard is automatically in editing mode. A technical dashboard has an **Open in UI Builder** button instead of an **Edit** button. For more information about technical dashboards, see [[technical-dashboards|Technical dashboards]].
+    A new dashboard is automatically in editing mode. A technical dashboard has an **Open in UI Builder** button instead of an **Edit** button. For more information about technical dashboards, see [Technical dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-dashboards.md).
 
 4.  Expand **Add New Element**.
 
@@ -43,12 +43,5 @@ The system property com.snc.pae.workbench\_enabled must be set to true.
 
 The Core UI workbench widgets are added to the inline dashboard in compatibility mode.
 
-**Parent Topic:**[[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
+**Parent Topic:**[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[technical-dashboards|Technical dashboards]]
-- [[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
-- [[widgets|Widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

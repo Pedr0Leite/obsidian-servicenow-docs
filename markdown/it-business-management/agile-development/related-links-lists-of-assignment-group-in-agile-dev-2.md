@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related links and lists of assignment group in Agile Development 2.0
 
-Use the related lists in the Group form for the actions that you need to perform for your assignment group in [[agile-landing-page|Agile Development 2.0]], such as adding sprints and editing group members.
+Use the related lists in the Group form for the actions that you need to perform for your assignment group in Agile Development 2.0, such as adding sprints and editing group members.
 
 |Name|Description|
 |----|-----------|
@@ -48,6 +48,3 @@ Lists the sprints for the group. Click **New** to add a sprint to the group.
 </td></tr></tbody>
 </table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

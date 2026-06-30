@@ -16,11 +16,11 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 As a procurement administrator, you can create fixed assets for products that are purchased for long-term use and are not likely to be converted quickly into cash.
 
-Fixed asset creation is automated when capitalization policy criteria are satisfied. To ensure that fixed assets are created automatically on creation of a [[purchase-order-table|purchase order]], you must first define an applicable capitalization policy. For more information on how to [[define-capitalization-policy|define a capitalization policy]], see [Define a capitalization policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/define-capitalization-policy.md).
+Fixed asset creation is automated when capitalization policy criteria are satisfied. To ensure that fixed assets are created automatically on creation of a purchase order, you must first define an applicable capitalization policy. For more information on how to define a capitalization policy, see [Define a capitalization policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/define-capitalization-policy.md).
 
 **Note:** Blanket purchase orders cannot result in the creation of a fixed asset.
 
-You can navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Fixed Assets**, and review these fields.
+You can navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Fixed Assets**, and review these fields.
 
 |Field|Description|
 |-----|-----------|
@@ -31,7 +31,7 @@ You can navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Aut
 |Product name|Name of the purchased product.|
 |Purchase order line|The purchase associated with this fixed asset.|
 |Status|Current status of the creation of the fixed asset. The options are Submitted, Success, and Pending Deletion. This field is used in the back end for SAP integration purposes.|
-|Capitalize on|The date on which the requester assumes the liability of the fixed asset, depending on the [[supplier|supplier]] incoterm.|
+|Capitalize on|The date on which the requester assumes the liability of the fixed asset, depending on the supplier incoterm.|
 |Original value|The amount originally paid for the fixed asset.|
 |Depreciation lifecycle|The length of time in which the fixed asset is fully depreciated.|
 |Depreciation term|The frequency of depreciation throughout the lifecycle of the fixed asset.|
@@ -41,9 +41,3 @@ You can navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Aut
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[define-capitalization-policy|Define a capitalization policy]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]

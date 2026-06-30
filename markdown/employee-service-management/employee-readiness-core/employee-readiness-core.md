@@ -14,11 +14,11 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Employee Readiness Core
 
-Use the ServiceNow® Employee Readiness Core application to track employee data across all [[safe-workplace|Safe Workplace]] suite and ServiceNow® [[emergency-response-management|Emergency Response Management]] applications.
+Use the ServiceNow® Employee Readiness Core application to track employee data across all Safe Workplace suite and ServiceNow® Emergency Response Management applications.
 
-The Employee Readiness Core app adds the [[employee-health-safety-status|Employee Health and Safety Status]] feature.
+The Employee Readiness Core app adds the Employee Health and Safety Status feature.
 
-The Employee Readiness Core app also provides shared functionality and data structures for Employee Readiness apps, such as ServiceNow® [[employee-readiness-surveys|Employee Readiness Surveys]], ServiceNow® [[employee-health-screening|Employee Health Screening]] , and ServiceNow® [[contact-tracing|Contact Tracing]].
+The Employee Readiness Core app also provides shared functionality and data structures for Employee Readiness apps, such as ServiceNow® Employee Readiness Surveys, ServiceNow® Employee Health Screening , and ServiceNow® Contact Tracing.
 
 -   **Use guided setup to implement Safe Workplace suite apps**
 
@@ -97,26 +97,15 @@ ServiceNow is offering this application to government agencies and their authori
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
 -   **[Install Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/install-employee-readiness-core.md)**  
-You can [[install-employee-readiness-core|install Employee Readiness Core]] if you have the admin role.
+You can install Employee Readiness Core if you have the admin role.
 -   **[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)**  
 Use the Employee Health and Safety Status feature to track when people are ready to return to the workplace.
 -   **[My Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/safe-workplace-today.md)**  
-Use the ServiceNow® [[safe-workplace-today|My Safe Workplace]] page to view all of your information and resources for returning to the workplace. Manage your requirement status for workplace entry, update your health status, track workspace reservations, and create requests for PPE or testing.
+Use the ServiceNow® My Safe Workplace page to view all of your information and resources for returning to the workplace. Manage your requirement status for workplace entry, update your health status, track workspace reservations, and create requests for PPE or testing.
 -   **[Maintaining privacy consent in Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core-privacy-consent.md)**  
 The Employee Readiness Core application enables your organization to maintain the data privacy of all employees and obtain consent to various privacy policies in Safe Workplace suite applications.
 -   **[Employee Readiness Core Approval Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core-approval-portal.md)**  
-The [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]] enables you to approve or deny submitted COVID-19 vaccine doses, vaccine exemptions, and health tests.
+The Employee Readiness Core Approval Portal enables you to approve or deny submitted COVID-19 vaccine doses, vaccine exemptions, and health tests.
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]
-- [[install-employee-readiness-core|Install Employee Readiness Core]]
-- [[safe-workplace-today|My Safe Workplace]]
-- [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]]

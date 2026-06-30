@@ -32,7 +32,7 @@ Watch this video for guidance on adding custom columns for tasks in a CWM Board.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, select a Board that you want to add tasks to.
 
@@ -56,6 +56,3 @@ If you have the Owner access for this Space, you can delete any custom columns b
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

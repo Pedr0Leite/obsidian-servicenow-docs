@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Create Talent Development Activity Templates
 
-As a [[egd-landing-page|Talent Development Core]] admin you create **[[activity-lxp|Activity]] Templates** that are used in growth plans.
+As a Talent Development Core admin you create **Activity Templates** that are used in growth plans.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ An **Activity Template** logically groups activities by name and requires an **A
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[activity-lxp|Activity]]

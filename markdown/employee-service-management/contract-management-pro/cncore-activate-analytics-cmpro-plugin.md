@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics Solutions for Contract Management Pro, Manage, C
 
 # Activate Analytics Pack for Contract Management Pro
 
-You can activate the Analytics Pack for [[cncore-cmpro-landing-page|Contract Management Pro]] plugin \(com.sn\_cm\_pa\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Analytics Pack for Contract Management Pro plugin \(com.sn\_cm\_pa\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ For more information, see [Components installed with Analytics Pack for Contract
 
 **Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-analytics-pa.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

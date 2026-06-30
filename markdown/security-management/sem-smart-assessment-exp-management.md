@@ -26,31 +26,18 @@ Pre-requisite: The smart assessment plug-ins must be installed as the Smart Asse
 
 You can configure questionnaires as part of the Exception Management process using Smart Assessment. It enables Vulnerability Admins/Manager to configure conditional questions to gather the right information needed for informed decision-making, while enabling Remediation Owners to provide more detailed context for exception requests. This enhances collaboration between the Vulnerability Management and Remediation teams by streamlining the approval process and ensuring clarity and completeness of exception justifications.
 
-In the **Exception Management Configuration** screen from any of the four options- **[[vuln-landing-page|Vulnerability Response]]**, **[[avr-landing|Application Vulnerability Response]]**, **[[cvr-landing|Container Vulnerability Response]]**, and **[[vr-config-compliance-landing|Configuration Compliance]]** you can select the Assessment for Compensating Control, request exception and false positive records.
+In the **Exception Management Configuration** screen from any of the four options- **Vulnerability Response**, **Application Vulnerability Response**, **Container Vulnerability Response**, and **Configuration Compliance** you can select the Assessment for Compensating Control, request exception and false positive records.
 
-You can use the **Smart Assessment** to manage the Questionnaires in [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+You can use the **Smart Assessment** to manage the Questionnaires in Security Exposure Management Workspace.
 
 Templates can be accessed/edited by the Smart Assessment Template Reader: **sn\_vul\_cmn.smart\_assessment\_template\_manager**.
 
--   **[[sem-compensating-controls-approval-rule|Questionnaire Configuration form fields]]**  
-You can define distinct questionnaire for a distinct collection of [[vulnerabilities|vulnerabilities]] or remediation tasks by filtering the vulnerabilities or remediation tasks respectively.
--   **[[sem-configure-assessment-template|Configure an assessment template]]**  
+-   **[Questionnaire Configuration form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-compensating-controls-approval-rule.md)**  
+You can define distinct questionnaire for a distinct collection of vulnerabilities or remediation tasks by filtering the vulnerabilities or remediation tasks respectively.
+-   **[Configure an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-assessment-template.md)**  
 Assessment templates contain the questions prompted during the request process \(such as, when requesting an exception\). The above-mentioned preconfigured templates are provided with smart assessment. You can also create your own templates as required.
--   **[[sem-ques-for-false-positive-or-request-exp|Use case for False positive or Request Exception Questionnaire]]**  
-Scenario when the [[questionnaire-for-false-positive-or-request-exception-in-vr|questionnaire for False Positive or Request Exception]] is raised but not filled completely.
+-   **[Use case for False positive or Request Exception Questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ques-for-false-positive-or-request-exp.md)**  
+Scenario when the questionnaire for False Positive or Request Exception is raised but not filled completely.
 
-**Parent Topic:**[[sem-exception-management-overview|Exception Management Overview]]
+**Parent Topic:**[Exception Management Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-exception-management-overview.md)
 
-## Related
-
-- [[sem-compensating-controls-approval-rule|Questionnaire Configuration form fields]]
-- [[sem-configure-assessment-template|Configure an assessment template]]
-- [[sem-ques-for-false-positive-or-request-exp|Use case for False positive or Request Exception Questionnaire]]
-- [[sem-exception-management-overview|Exception Management Overview]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[questionnaire-for-false-positive-or-request-exception-in-vr|Questionnaire for False positive or Request Exception]]

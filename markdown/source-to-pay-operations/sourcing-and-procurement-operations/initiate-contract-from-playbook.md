@@ -14,7 +14,7 @@ breadcrumb: [Initiate a contract request, Source-to-Pay Operations integration C
 
 # Initiate a contract request from the playbook
 
-[[initiate-contract-request|Initiate a contract request]] for sourcing requests or sourcing event from the playbook.
+Initiate a contract request for sourcing requests or sourcing event from the playbook.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to the **Source-to-Pay Workspace**.
 
-2.  Open the [[sourcing-request|sourcing request]] or sourcing event for which you have to initiate a contract request.
+2.  Open the sourcing request or sourcing event for which you have to initiate a contract request.
 
-    **Note:** From the playbook, you can initiate contract requests for sourcing requests and [[negotiation-events|sourcing events]] only.
+    **Note:** From the playbook, you can initiate contract requests for sourcing requests and sourcing events only.
 
 3.  Select **Playbook** and navigate to the **Request details** step.
 
@@ -34,7 +34,7 @@ Role required: sn\_cm\_core.contract\_user
 
 5.  Select **Contract request** from the list of available options.
 
-6.  Select a [[supplier|supplier]] from the list of available suppliers.
+6.  Select a supplier from the list of available suppliers.
 
 7.  Select **Next**.
 
@@ -45,10 +45,3 @@ Role required: sn\_cm\_core.contract\_user
 
 **Parent Topic:**[Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md)
 
-## Related
-
-- [[initiate-contract-request|Initiate a contract request]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiation-events|Sourcing events]]
-- [[supplier|Supplier]]

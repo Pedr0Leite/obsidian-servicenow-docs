@@ -94,7 +94,7 @@ sn\_sow\_itsm\_admin.sow\_admin\_user
 
 </td><td>
 
-Provides access to SOW Admin Center pages for SOW configuration. A user with this role can perform configurations related to [[c_IncidentManagement|Incident Management]] only.
+Provides access to SOW Admin Center pages for SOW configuration. A user with this role can perform configurations related to Incident Management only.
 
 </td><td>
 
@@ -106,7 +106,7 @@ sn\_sow\_admin.sow\_admin\_center\_user
 
 </td><td>
 
-Enables change managers to access the SOW Admin Center page. Change managers can use configurations for change features like modern change adoption, change [[c_Models|models]], DevOps change automation, and so on.
+Enables change managers to access the SOW Admin Center page. Change managers can use configurations for change features like modern change adoption, change models, DevOps change automation, and so on.
 
 </td><td>
 
@@ -130,7 +130,7 @@ sn\_sow.it\_agent\_dashboard\_user
 
 </td><td>
 
-Provides access to [[it-agent-dashboard|IT Agent Dashboard]].
+Provides access to IT Agent Dashboard.
 
 </td><td>
 
@@ -187,7 +187,7 @@ sn\_sow.sow\_home and sn\_sow.sow\_listSo, users with the sn\_incident\_write ro
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[c_ProblemManagement|Problem Management]]
+Problem Management
 
 </td></tr><tr><td>
 
@@ -219,7 +219,7 @@ problem\_manager
 
 </td><td>
 
-Responsible for the overall [[c_ProblemManagementProcess|Problem Management process]] and can configure Problem Management [[settings-mobile|settings]], as well as act as a problem coordinator.
+Responsible for the overall Problem Management process and can configure Problem Management settings, as well as act as a problem coordinator.
 
 </td><td>
 
@@ -263,7 +263,7 @@ sn\_sow.sow\_home and sn\_sow.sow\_list enable users with the sn\_problem\_write
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[c_ITILChangeManagement|Change Management]]
+Change Management
 
 </td></tr><tr><td>
 
@@ -320,7 +320,7 @@ None
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[c_RequestManagement|Request Management]]
+Request Management
 
 </td></tr><tr><td>
 
@@ -348,7 +348,7 @@ sn\_sow.sow\_home and sn\_sow.sow\_listSo, users with the sn\_request\_read role
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
-[[c_OnCallScheduling|On-call Scheduling]]
+On-call Scheduling
 
 </td></tr><tr><td>
 
@@ -362,7 +362,7 @@ Provides the read access to Schedules page.
 
 Users with the oc\_read role can access the On-call Schedules, Experts On-call, Escalation Tracking, Escalation Log, report view ACLS, on-call dashboards and other On-call features in SOW.
 
-**Note:** This role has access to on-call dashboards only if the version 6.0 of the [[itsm-dashboards-content-pack-sd|Platform Analytics ITSM Dashboards]] plugin is installed.
+**Note:** This role has access to on-call dashboards only if the version 6.0 of the Platform Analytics ITSM Dashboards plugin is installed.
 
 </td></tr></tbody>
 </table>**Tip:** If the user has a role that inherits SOW access \(such as `sn_incident_read`\) but cannot access the workspace, verify that:
@@ -372,15 +372,3 @@ Users with the oc\_read role can access the On-call Schedules, Experts On-call, 
 -   The user was assigned the role directly or via group membership.
 -   No custom ACL is overriding the default role-based access for SOW pages.
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_Models|Models]]
-- [[it-agent-dashboard|it agent dashboard]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[settings-mobile|Settings]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RequestManagement|Request Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[itsm-dashboards-content-pack-sd|Platform Analytics ITSM Dashboards]]

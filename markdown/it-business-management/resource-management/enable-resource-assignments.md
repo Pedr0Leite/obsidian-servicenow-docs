@@ -18,7 +18,7 @@ Enable the property to work on attribute-based resource assignments to request e
 
 ## Before you begin
 
--   If a project, demand, or a task has at least one attribute-based resource plan, [[c_ResourcePlans|Resource plans]] related list is hidden.
+-   If a project, demand, or a task has at least one attribute-based resource plan, Resource plans related list is hidden.
 -   If a project, demand, or a task has at least one resource plan without any attribute-based resource assignments, Resource plans related list is visible.
 -   If a project, demand, or a task has no resource plans and the **sn\_pw.enable\_resource\_planning** property is enabled, Resource assignments related list is available, else, Resource plans related list will be available.
 -   If a project, demand, or a task has at least one attribute-based resource assignment, **New** and **Manage** options are hidden for Resource plans.
@@ -33,7 +33,7 @@ Role required: admin
 
 2.  Filter the name field to locate and open **sn\_pw.enable\_resource\_planning**.
 
-3.  Change the scope of the instance to **[[project-workspace-landing-page|Project Workspace]]**.
+3.  Change the scope of the instance to **Project Workspace**.
 
 4.  Clear the Value field and enter **true**.
 
@@ -42,7 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]

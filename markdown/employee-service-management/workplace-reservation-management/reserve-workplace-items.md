@@ -15,22 +15,22 @@ breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Emplo
 
 # Reserve workplace items
 
-[[reservation-portal|Make a reservation]] for a workplace location or any reservable item of your organization. Make a single, recurring or a group reservation using the Reservation portal.
+Make a reservation for a workplace location or any reservable item of your organization. Make a single, recurring or a group reservation using the Reservation portal.
 
 -   **[Create a reservation]()**  
-Create reservations across multiple buildings, campuses, neighborhoods, or sites. [[create-reservation-request-1|Create a reservation]] spanning across multiple days. Add attendees or visitors to a reservation. Synchronize reservation details and resolve conflicts when scheduling recurring reservation events. Add [[workplace-services|workplace services]] \(room configurations, catering, and so on\) to your reservation.
+Create reservations across multiple buildings, campuses, neighborhoods, or sites. Create a reservation spanning across multiple days. Add attendees or visitors to a reservation. Synchronize reservation details and resolve conflicts when scheduling recurring reservation events. Add workplace services \(room configurations, catering, and so on\) to your reservation.
 -   **[Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md)**  
 Employee can add their colleagues as collaborators while making a reservation. Employees can view availability of their colleagues on the reservation portal search page while making a reservation to find an available space.
 -   **[Auto-resolve recurring reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/recurring-reservations.md)**  
-While making a recurring reservation, only the availability of the first occurrence is checked. It’s possible that a future occurrence of the meeting may run into conflicts. To avoid such conflicts, while scheduling a recurring reservation, the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application tries to auto-resolve any recurring conflicts.
+While making a recurring reservation, only the availability of the first occurrence is checked. It’s possible that a future occurrence of the meeting may run into conflicts. To avoid such conflicts, while scheduling a recurring reservation, the Workplace Reservation Management application tries to auto-resolve any recurring conflicts.
 -   **[Set a location as favorite using the Space details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md)**  
-Mark your most reserved workplace location as favorite in the [[workplace-services-portal-hr|Workplace Service Portal]]. Once the location is set as favorite, it is displayed first whenever you search for locations to make a reservation.
+Mark your most reserved workplace location as favorite in the Workplace Service Portal. Once the location is set as favorite, it is displayed first whenever you search for locations to make a reservation.
 -   **[Reserve a space near your colleague](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/browse-near-person-rsv.md)**  
 Make a workplace reservation and reserve a space near your team member or a colleague.
 -   **[Create a multi-day reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md)**  
 Workplace users can now reserve a space covering multiple days. Employees can reserve a space that spans across multiple days.
 -   **[Create multi-building reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md)**  
-Reserve multiple spaces spanning across multiple buildings in different timezone. [[create-multi-building-reservation|Create multi-building reservations]] for the same date and time in a single reservation.
+Reserve multiple spaces spanning across multiple buildings in different timezone. Create multi-building reservations for the same date and time in a single reservation.
 -   **[Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md)**  
 Reserve neighborhood spaces using Advanced reservation.
 -   **[Create reservation for multiple workplace items]()**  
@@ -54,11 +54,3 @@ Add the reservation to your office calendar by downloading the iCalendar of the 
 
 **Parent Topic:**[Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md)
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[create-multi-building-reservation|Create multi-building reservations]]

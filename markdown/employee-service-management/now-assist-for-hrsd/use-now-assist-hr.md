@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 # Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace
 
-If you have a sn\_hr\_core.case\_writer role, you can summarize a case, generate resolution notes, summarize the chat interactions with a requester, and propose resolutions more quickly with the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application.
+If you have a sn\_hr\_core.case\_writer role, you can summarize a case, generate resolution notes, summarize the chat interactions with a requester, and propose resolutions more quickly with the Now Assist for HR Service Delivery \(HRSD\) application.
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -35,15 +35,15 @@ Quickly understand the case context and respond to inquiries by using the case s
 -   **[Generate resolution notes using Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-res-note.md)**  
 Generate the resolution notes for a case using the resolution notes generation skill. You can improve the quality of the resolution notes by providing a summary of the issue and the steps that were taken to resolve the case.
 -   **[View employee summary reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/employee-summary-lh.md)**  
-View the Employee Summary Virtual Agent topic in [[employee-center-landing-page|Employee Center]] to access employee contribution summaries, view consolidated profiles, and track employee progress.
+View the Employee Summary Virtual Agent topic in Employee Center to access employee contribution summaries, view consolidated profiles, and track employee progress.
 -   **[Summarize actions while transferring an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/tcase-now-assist-hr.md)**  
-[[reclassify-hr-case|Transfer an HR case]] to another agent or assignment group by summarizing the actions until hand off. For example, an agent can transfer the case to another agent if the case is incorrectly assigned or needs troubleshooting by another agent or assignment group.
+Transfer an HR case to another agent or assignment group by summarizing the actions until hand off. For example, an agent can transfer the case to another agent if the case is incorrectly assigned or needs troubleshooting by another agent or assignment group.
 -   **[Use Knowledge Graph in Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/na-kb-graph.md)**  
 Create a personalized knowledge model as a Knowledge Graph schema.
 -   **[Use Now Assist for HR - Galileo Inside to answer HR-related questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/use-galileo-inside.md)**  
 Query the Galileo library to generate a response based on articles and research from The Josh Bersin Company.
 -   **[Use the Now Assist panel in HR Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-panel-hr.md)**  
-Generate chat and case summaries and resolution notes by using the Now Assist panel in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] or Core UI.
+Generate chat and case summaries and resolution notes by using the Now Assist panel in Agent Workspace for HR Case Management or Core UI.
 -   **[Submit an HR request with Gen AI Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/use-genai-hrsd.md)**  
 Place an HR request using the conversational and streamlined experience offered by Gen AI Virtual Agent.
 -   **[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/integ-now-assist-hrsd.md)**  
@@ -53,9 +53,3 @@ HR agents can prioritize cases based on case sentiment.
 
 **Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

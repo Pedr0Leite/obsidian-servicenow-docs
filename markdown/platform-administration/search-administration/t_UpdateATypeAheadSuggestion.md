@@ -18,7 +18,7 @@ The knowledge base and global text searches provide suggestions as you type. The
 
 ## Before you begin
 
-The type-ahead [[search-suggestions-overview|search suggestions]] feature is only available in the UI15 interface.
+The type-ahead search suggestions feature is only available in the UI15 interface.
 
 Role required: admin
 
@@ -30,7 +30,7 @@ Use the following procedure if you need to refresh the type-ahead suggestions li
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Scheduler** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Scheduler** &gt; **Scheduled Jobs**.
 
 2.  Open **TS Search Stats**.
 
@@ -44,7 +44,3 @@ Use the following procedure if you need to refresh the type-ahead suggestions li
 
 [Configure "Did you mean?" suggestions]()
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_ScheduledJobs|Scheduled jobs]]

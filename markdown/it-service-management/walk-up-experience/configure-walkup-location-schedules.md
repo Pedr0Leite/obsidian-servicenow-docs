@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Create or modify Walk-up Experience schedules
 
-Once you know the hours of operation for your [[walkup-experience-landing-page|Walk-up Experience]] location, you can either access the base-system default schedules or create new schedules to associate with your walk-up location.
+Once you know the hours of operation for your Walk-up Experience location, you can either access the base-system default schedules or create new schedules to associate with your walk-up location.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: admin or sn\_walkup.walkup\_admin
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

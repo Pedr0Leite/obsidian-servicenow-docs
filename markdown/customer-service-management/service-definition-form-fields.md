@@ -12,7 +12,7 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 # Service Definition form
 
-In the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application, the Service Definition form displays information about a service definition configuration. This information record stores the details about a service that is provided to customers.
+In the Customer Service Management \(CSM\) application, the Service Definition form displays information about a service definition configuration. This information record stores the details about a service that is provided to customers.
 
 <table id="table_czw_ftc_nr"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Table
 
 </td><td>
 
-The table that the service definition is available for, either the Case table or a table that extends the case table.For example, if the service is available for the [[onboarding-case-type-overview|onboarding case type]], select the Onboarding Case \[sn\_onboarding\_case\] table.
+The table that the service definition is available for, either the Case table or a table that extends the case table.For example, if the service is available for the onboarding case type, select the Onboarding Case \[sn\_onboarding\_case\] table.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Playbook record generator
 
 </td><td>
 
-The playbook record generator associated with the service definition.If a service definition has an associated playbook, the agent can use the playbook in a tab on the case record. For more information, see [[service-def-associate-playbook|Associate a playbook with a service definition]].
+The playbook record generator associated with the service definition.If a service definition has an associated playbook, the agent can use the playbook in a tab on the case record. For more information, see [Associate a playbook with a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-associate-playbook.md).
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Image
 
 </td><td>
 
-The image associated with the service definition.[[csm-service-definitions|Service definitions]] appear in the [[csm-case-type-select-modals|case type selector]] or [[csm-case-task-type-select-modal|case task type selector]] in a card view. The image appears in the card for a service definition along with the name and description.
+The image associated with the service definition.Service definitions appear in the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md) or [case task type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-type-select-modal.md) in a card view. The image appears in the card for a service definition along with the name and description.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Default table field values
 One or more fields and default values from the target table \(the table that you selected in the **Table** field\). When a record is created for the target table for service definitions, the system uses these values to automatically fill in the record fields.
 
 </td></tr></tbody>
-</table>After creating and saving a service definition, the following related [[migration-lists|lists]] are available on the Service Definition form:
+</table>After creating and saving a service definition, the following related lists are available on the Service Definition form:
 
 -   Product Service Relationships
 -   Catalog Service Relationships
@@ -134,12 +134,3 @@ One or more fields and default values from the target table \(the table that you
 -   Service Definition Category Relationships
 -   Reports
 
-## Related
-
-- [[service-def-associate-playbook|Associate a playbook with a service definition]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-case-task-type-select-modal|Case task type selector]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[onboarding-case-type-overview|Onboarding case type]]
-- [[csm-service-definitions|Service definitions]]
-- [[migration-lists|Lists]]

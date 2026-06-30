@@ -16,10 +16,10 @@ Use Voice to deflect cases away from your human agents using bots. You can recor
 
 With the Voice application, you can:
 
--   Enable your workforce to work using the voice channel and get call recordings, call transcripts, and reports of [[case-sentiment-analysis|sentiment analysis]] when agents interact with callers. You can visualize all of this information within the Channel Management application in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+-   Enable your workforce to work using the voice channel and get call recordings, call transcripts, and reports of sentiment analysis when agents interact with callers. You can visualize all of this information within the Channel Management application in Workforce Optimization for Customer Service.
 -   Analyze the call transcripts and sentiments of users after an interaction is complete so that you can create assessments, provide feedback, and training for agents.
 -   Synchronize agent presence within the queue.
--   View the Amazon Connect channel on Channel Management. You can view the performance metrics and [[components-installed-configurable-wfo-cs|reports]] of the agents using the voice channel. To access the reports, your application administrator must install [Amazon Connect Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/amazon-connect-spoke.md).
+-   View the Amazon Connect channel on Channel Management. You can view the performance metrics and [reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) of the agents using the voice channel. To access the reports, your application administrator must install [Amazon Connect Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/amazon-connect-spoke.md).
 
     **Note:** The following reports on the Amazon Connect channel are chargeable:
 
@@ -48,21 +48,12 @@ As an agent, you can:
 -   Analyze call transcripts and listen to recordings after you complete an interaction.
 -   Place outbound calls using automated outbound dialing.
 
--   **[[setup-amazonconnect-configurable-csm|Associate Amazon Connect queues for CSM to a ServiceNow instance]]**  
+-   **[Associate Amazon Connect queues for CSM to a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-amazonconnect-configurable-csm.md)**  
 Set up phone queues for Amazon Connect to gain visibility into the queues using Workforce Optimization for Customer Service.
--   **[[listen-agent-call-configurable-wfo-cs|Listen, Monitor or Barge in to an agent call]]**  
+-   **[Listen, Monitor or Barge in to an agent call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/listen-agent-call-configurable-wfo-cs.md)**  
 Monitor your customer service agents' calls when they are resolving issues for external callers by using Workforce Optimization for Customer Service.
--   **[[analyze-transcripts-sentiments-configurable-wfo-cs|Analyze transcripts and sentiments for the Amazon Connect phone channel]]**  
+-   **[Analyze transcripts and sentiments for the Amazon Connect phone channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analyze-transcripts-sentiments-configurable-wfo-cs.md)**  
 Analyze your agent's call recordings, transcripts, and sentiment reports. With this information, you can assess the call quality and train your agents to handle calls better in the future.
 
-**Parent Topic:**[[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-channels-wfo-cs.md)
 
-## Related
-
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[setup-amazonconnect-configurable-csm|Associate Amazon Connect queues for CSM to a ServiceNow instance]]
-- [[listen-agent-call-configurable-wfo-cs|Listen, Monitor or Barge in to an agent call]]
-- [[analyze-transcripts-sentiments-configurable-wfo-cs|Analyze transcripts and sentiments for the Amazon Connect phone channel]]
-- [[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

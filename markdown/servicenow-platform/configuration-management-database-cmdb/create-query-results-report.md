@@ -14,9 +14,5 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Create a report in CMDB Query Builder
 
-Use [[cmdb-query-builder-landing-page|CMDB Query Builder]] reports to show the results of a CMDB query or a Service Mapping query. [[create-report-from-results|Create a basic report]] or a dynamic report that auto-updates when the results of the associated saved query change.
+Use CMDB Query Builder reports to show the results of a CMDB query or a Service Mapping query. Create a basic report or a dynamic report that auto-updates when the results of the associated saved query change.
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[create-report-from-results|Create a basic report]]

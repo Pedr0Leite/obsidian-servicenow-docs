@@ -14,7 +14,7 @@ breadcrumb: [Exploring Natural Language Understanding, Natural Language Understa
 
 # NLU models
 
-Use NLU models to apply ServiceNow [[nlu-landing|Natural Language Understanding]] on your instances. Create, manage, test, and publish NLU models with the NLU Workbench.
+Use NLU models to apply ServiceNow Natural Language Understanding on your instances. Create, manage, test, and publish NLU models with the NLU Workbench.
 
 \[Omitted image "nlu-modelsm3.png"\] Alt text: Diagram for how user input is transformed into a system action.
 
@@ -80,6 +80,3 @@ For more information, see the [AI Search](https://raw.githubusercontent.com/Serv
 
 To learn more about model content and the model life-cycle, see [Model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/model-management-phases.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]

@@ -12,7 +12,7 @@ breadcrumb: [Integrate ServiceNow Voice with Amazon Connect, Integrating Voice w
 
 # Configure a Virtual Desktop Infrastructure \(VDI\) for voice calls with Amazon Connect
 
-Contact centers commonly use Virtual Desktop Infrastructure \(VDI\) to optimize agent usage of browser applications. This feature enables agents to use ServiceNow and the Amazon [[c_Connect|Connect]] Contact Control Panel \(CCP\) within a VDI environment, taking both inbound and outbound calls without disruption. Administrators can configure groups of agents to use either VDI or non-VDI browsers based on OpenFrame configuration values.
+Contact centers commonly use Virtual Desktop Infrastructure \(VDI\) to optimize agent usage of browser applications. This feature enables agents to use ServiceNow and the Amazon Connect Contact Control Panel \(CCP\) within a VDI environment, taking both inbound and outbound calls without disruption. Administrators can configure groups of agents to use either VDI or non-VDI browsers based on OpenFrame configuration values.
 
 ## VDI support for voice calls overview
 
@@ -36,7 +36,7 @@ Agents working in a VDI environment can do the following:
 
         **Note:**
 
-        Refer to the following Amazon Workspace documents for [[reference|reference]]:
+        Refer to the following Amazon Workspace documents for reference:
 
         -   [Optimize Amazon Connect audio for Amazon WorkSpaces cloud desktops](https://docs.aws.amazon.com/connect/latest/adminguide/using-ccp-vdi-workspaces.html)
         -   [Amazon Connect audio optimization for WorkSpaces](https://docs.aws.amazon.com/connect/latest/adminguide/using-ccp-vdi-workspaces.html)
@@ -56,16 +56,10 @@ Agents working in a VDI environment can do the following:
 
     -   Manage separate agent groups with different browser environments from a single administration interface.
 -   **Enable VDI support for agents using Amazon Connect:**
-    1.  To enable VDI support for agents using [[cloud-call-center-overview|ServiceNow Voice]] for Amazon Connect, configure the VDI support type. Set the **OpenFrame Configuration** value to specify the VDI type. Refer to the Admin use case.
+    1.  To enable VDI support for agents using ServiceNow Voice for Amazon Connect, configure the VDI support type. Set the **OpenFrame Configuration** value to specify the VDI type. Refer to the Admin use case.
     2.  Set the **OpenFrame Configuration** value to specify the VDI type.
     3.  Assign agents to the appropriate group based on their desktop environment.
     4.  Verify that agents can log in to the Amazon Connect CCP and handle calls from within their VDI session.
 
-**Parent Topic:**[[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]]
+**Parent Topic:**[Integrate ServiceNow Voice with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-amazonconnect.md)
 
-## Related
-
-- [[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

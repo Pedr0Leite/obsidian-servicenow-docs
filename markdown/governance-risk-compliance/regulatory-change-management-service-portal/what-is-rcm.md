@@ -14,7 +14,7 @@ breadcrumb: [Regulatory Change Management, Governance, Risk, and Compliance]
 
 # Exploring Regulatory Change Management
 
-The [[reg-change-mgmt-landing-page|Regulatory Change Management]] application provides a framework that your organization can use to integrate with third-party regulatory intelligence providers to keep up with the regulatory changes and external regulations.
+The Regulatory Change Management application provides a framework that your organization can use to integrate with third-party regulatory intelligence providers to keep up with the regulatory changes and external regulations.
 
 ## Regulatory Change Management overview
 
@@ -26,12 +26,12 @@ The following infographic shows the process flow of the Regulatory Change Manage
 
 The Regulatory Change Management application works with the following types of components:
 
--   Integration component: The regulatory intelligence partners typically provide the integration component. Through this integration, you can consume [[list-view-of-reg-alerts|regulatory alerts]] into your instance.
+-   Integration component: The regulatory intelligence partners typically provide the integration component. Through this integration, you can consume regulatory alerts into your instance.
 -   Application framework component: The Regulatory Change Management application has an application framework component. This component provides the structured workflows that you can use to analyze and process the regulatory alerts that are received in the regulatory alerts table.
 
 The Regulatory Change Management application consists of the following workflow:
 
-1.  Manage regulatory taxonomy: Create an internal regulatory taxonomy that is specific to the ServiceNow AI Platform. You can [[manage-taxonomy|map the taxonomy]] with the external taxonomies that are provided by the third-party regulatory intelligence providers for standardization. The internal taxonomy contains the following design elements:
+1.  Manage regulatory taxonomy: Create an internal regulatory taxonomy that is specific to the ServiceNow AI Platform. You can map the taxonomy with the external taxonomies that are provided by the third-party regulatory intelligence providers for standardization. The internal taxonomy contains the following design elements:
 
     -   Content Type
     -   Jurisdiction
@@ -68,7 +68,7 @@ The steps to complete the Regulatory Change Management process flow to innovate 
 
 4.  Assess the impact. The subject matter expert \(SME\) with a business user role assesses the impact of the regulatory change and sends the score of the impact assessment to the Regulatory Change Management application. If the alert is not applicable to the organization, the RCM user closes the alert. If the alert is applicable to the organization, the RCM user creates a new regulatory change task and assigns it to the same coordinator or to a new coordinator.
 5.  Devise an action plan. The coordinator identifies the steps to comply with the regulatory change, devises an action plan, and creates the action tasks for the different teams that must complete the identified action items. The coordinator then creates the action tasks that are associated with the regulatory change task. After the action plan is created, it’s sent to the RCM manager for an approval. The manager reviews the action plan and confirms if more action tasks must be created or if some of the action tasks aren’t necessary.
-6.  Complete the action tasks and send them for review to a user with the sn\_grc\_reg\_change.manager role \(RCM manager\). If the action plan is rejected, the coordinator goes through the action plan, updates the actual tasks, and sends the action plan back for an approval. The compliance manager can see all compliance-based action tasks and the risk manager can see all risk-based action tasks. After the tasks are assigned to the risk and compliance users, the action tasks are tracked until they’re completed. A due date is marked and tracked for the action tasks. When the tasks are completed, the regulatory alert and the parent [[reg-change-task|regulatory change tasks]] are closed and the change process flow is completed.
+6.  Complete the action tasks and send them for review to a user with the sn\_grc\_reg\_change.manager role \(RCM manager\). If the action plan is rejected, the coordinator goes through the action plan, updates the actual tasks, and sends the action plan back for an approval. The compliance manager can see all compliance-based action tasks and the risk manager can see all risk-based action tasks. After the tasks are assigned to the risk and compliance users, the action tasks are tracked until they’re completed. A due date is marked and tracked for the action tasks. When the tasks are completed, the regulatory alert and the parent regulatory change tasks are closed and the change process flow is completed.
 
 ## A day in the life of a regulatory change manager
 
@@ -87,14 +87,7 @@ The Regulatory Change Management process flow includes the tasks that different 
 -   **[Next Experience Discuss and Chat Collaboration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/next-experience-discuss-chat-collaboration.md)**  
 On a regulatory change management case, select **Discuss** from other options. Collaborate with virtual agents by using **Next Experience Chat Collaboration** and Discuss.
 -   **[Exploring Now Assist in Regulatory Change Management \(RCM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-exploring-now-assist-for-irm.md)**  
-With Now Assist in Regulatory Change Management, part of the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application, you can use agentic workflows and generative AI skills that streamline the analysis, summarization, and impact assessment of regulatory alerts. These capabilities empower compliance teams to act swiftly and accurately on regulatory changes.
+With Now Assist in Regulatory Change Management, part of the Now Assist for Integrated Risk Management \(IRM\) application, you can use agentic workflows and generative AI skills that streamline the analysis, summarization, and impact assessment of regulatory alerts. These capabilities empower compliance teams to act swiftly and accurately on regulatory changes.
 
 **Parent Topic:**[Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-mgmt-landing-page.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[manage-taxonomy|Map the taxonomy]]
-- [[reg-change-task|Regulatory change tasks]]
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]

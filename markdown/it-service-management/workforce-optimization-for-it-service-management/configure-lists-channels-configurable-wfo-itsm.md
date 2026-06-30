@@ -28,7 +28,7 @@ A database view that defines table joins is used for generating reports for a su
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Channel Management** &gt; **Service Channels**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Channel Management** &gt; **Service Channels**.
 
 2.  Select the service channel to which you want to add a supervisor list.
 
@@ -96,6 +96,3 @@ Number that displays the order.**Note:** The first three lists with the lowest o
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

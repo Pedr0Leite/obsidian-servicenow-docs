@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for APM.
 
 Perform the steps in the following order:
 
-1.  [[dc-apm-install|Install the Data Collection Pack for APM]]
-2.  [[dc-apm-config|Configure Data Collection for APM]]
-3.  [[dc-apm-activate|Activate Data Collection for APM]]
-4.  [[dc-apm-installation-artifacts|Review APM artifacts]]
+1.  [Install the Data Collection Pack for APM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-apm-install.md)
+2.  [Configure Data Collection for APM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-apm-config.md)
+3.  [Activate Data Collection for APM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-apm-activate.md)
+4.  [Review APM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-apm-installation-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-apm-install|Install the Data Collection Pack for APM]]
-- [[dc-apm-config|Configure Data Collection for APM]]
-- [[dc-apm-activate|Activate Data Collection for APM]]
-- [[dc-apm-installation-artifacts|Review APM artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

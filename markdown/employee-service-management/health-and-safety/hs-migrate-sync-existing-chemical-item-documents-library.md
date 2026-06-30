@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Environmental Management, Health and S
 
 # Migrate SDS from chemical safety register to chemical item
 
-Migrate your existing safety data sheets \(SDS\) from Chemical safety register to chemical item in [[hs-environmental-management-landing-page|Health and Safety Environmental Management]].
+Migrate your existing safety data sheets \(SDS\) from Chemical safety register to chemical item in Health and Safety Environmental Management.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The tool supports batch migration of up to 200 records at a time. After migratio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Standards and documentation \(Deprecated\)** &gt; **Document migration**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Standards and documentation \(Deprecated\)** &gt; **Document migration**.
 
 2.  Select **Chemical item** and then select **Migrate 200 records**.
 
@@ -44,7 +44,3 @@ The tool supports batch migration of up to 200 records at a time. After migratio
 
 **Parent Topic:**[Setting up Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-setting-up-environmental-management.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[health-safety-overview|Health and Safety]]

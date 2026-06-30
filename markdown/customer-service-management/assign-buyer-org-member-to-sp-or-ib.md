@@ -36,7 +36,7 @@ All locations opens the same Assign Buyer Organization Member dialog and produce
 
 2.  Select an internal or external organization record.
 
-3.  Select the desired record from the install base or sold product related [[migration-lists|lists]] tab where you want to assign a member.
+3.  Select the desired record from the install base or sold product related lists tab where you want to assign a member.
 
 4.  Select **Assign Member** form the install base record.
 
@@ -53,9 +53,5 @@ The Buyer Organization Member field on the record is populated.
 
 **Note:**
 
-For [[install-base-item|install base items]], if you assigned the member to a parent install base item, the Buyer Organization Member field on every child install base item is also populated.
+For install base items, if you assigned the member to a parent install base item, the Buyer Organization Member field on every child install base item is also populated.
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[install-base-item|Install base items]]

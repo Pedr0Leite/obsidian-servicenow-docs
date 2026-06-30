@@ -14,7 +14,7 @@ breadcrumb: [Interaction wrap up, Configuring Interaction Management, Interactio
 
 # Interaction wrap up scheduled job
 
-The [[interaction-wrap-up-state|interaction wrap up]] feature includes a scheduled job to close any interactions in the Wrap Up state that were not closed either manually by an agent or automatically by the system.
+The interaction wrap up feature includes a scheduled job to close any interactions in the Wrap Up state that were not closed either manually by an agent or automatically by the system.
 
 Ending the wrap up period is typically performed in the following ways:
 
@@ -39,6 +39,3 @@ The default run interval for this scheduled job is five minutes. The system admi
 
 **Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 
-## Related
-
-- [[interaction-wrap-up-state|Interaction wrap up]]

@@ -16,7 +16,7 @@ breadcrumb: [Configuration Compliance, Unified Security Exposure Management, Sec
 
 The following reports are provided for monitoring.
 
-View policies, CIs, tests, and test results on the [[vr-config-compliance-landing|Configuration Compliance]] Overview reports.
+View policies, CIs, tests, and test results on the Configuration Compliance Overview reports.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -26,6 +26,3 @@ View policies, CIs, tests, and test results on the [[vr-config-compliance-landin
 |Group Rules|Remediation Task Rules|
 |Policy|Test group|
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

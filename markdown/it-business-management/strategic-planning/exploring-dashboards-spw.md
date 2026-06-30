@@ -14,9 +14,9 @@ breadcrumb: [Dashboards, Strategic Planning, Strategic Portfolio Management]
 
 # Exploring Dashboards in Strategic Planning Workspace
 
-As a product and portfolio manager, use [[dashboards-in-spw|dashboards in Strategic Planning Workspace]] to monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to ideas, feedback, strategy, planning, and execution. These dashboards leverage Platform Analytics to provide a trend of historical data and regular reports.
+As a product and portfolio manager, use dashboards in Strategic Planning Workspace to monitor performance, track progress, and make informed decisions related to ideas, feedback, strategy, planning, and execution. These dashboards leverage Platform Analytics to provide a trend of historical data and regular reports.
 
-The following are four out-of-the-box dashboards available in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace:
+The following are four out-of-the-box dashboards available in the Strategic Planning Workspace:
 
 -   Product Idea Dashboard
 -   Feedback Dashboard
@@ -48,8 +48,3 @@ The Strategy Execution Dashboard helps portfolio managers monitor the alignment 
 
 **Parent Topic:**[Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/dashboards-in-spw.md)
 
-## Related
-
-- [[dashboards-in-spw|Dashboards in Strategic Planning Workspace]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

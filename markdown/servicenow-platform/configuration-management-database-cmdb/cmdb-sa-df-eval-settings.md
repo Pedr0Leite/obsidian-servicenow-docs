@@ -14,7 +14,7 @@ breadcrumb: [Analyze CMDB settings, Use Data Foundations advisor, CMDB success a
 
 # Evaluate CMDB settings for Data Foundations
 
-Identify and evaluate settings including CMDB [[r_ReconciliationRulesPrinciples|reconciliation rules]], CI creation business rules, and CMDB Data Manager policies that support data quality and life cycle management for your principal classes.
+Identify and evaluate settings including CMDB reconciliation rules, CI creation business rules, and CMDB Data Manager policies that support data quality and life cycle management for your principal classes.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin
 
 ## Procedure
 
-1.  Navigate to the [[cmdb-sa|CMDB success advisor]] landing page.
+1.  Navigate to the CMDB success advisor landing page.
 
 2.  On the Data Foundations card, select **View insights**.
 
@@ -34,7 +34,7 @@ Role required: sn\_cmdb\_admin
     |----|-----------|
     |**All**|Total number of evaluated settings.|
     |**Ideal**|Settings that follow general guidelines.|
-    |**[[exploring-requires-attention|Requires attention]]**|Settings that are inactive, incorrectly configured, or missing.|
+    |**Requires attention**|Settings that are inactive, incorrectly configured, or missing.|
 
 5.  Evaluate each setting that requires attention and use the available actions to open the related configuration pages and make updates.
 
@@ -80,7 +80,7 @@ Opens the system property configuration page to enable or disable CI creation fr
 
 </td></tr><tr><td id="d270089e201">
 
-**[[ci-class-manager-landing-page|CI Class Manager]]**
+**CI Class Manager**
 
 </td><td>
 
@@ -97,9 +97,3 @@ Opens CI Class Manager to add the **Managed by group** field to CI classes that 
 
 [Administer CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/administer-data-manager.md)
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[exploring-requires-attention|Requires attention]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

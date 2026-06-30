@@ -14,7 +14,7 @@ breadcrumb: [Models, Product Catalog, Asset Management, IT Service Management]
 
 # Publish models to the hardware or software catalog
 
-You can publish models to the hardware or software catalog to make the [[c_Models|models]] available in the service catalog.
+You can publish models to the hardware or software catalog to make the models available in the service catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: catalog\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **All Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **All Models**.
 
 2.  Open a product model.
 
@@ -37,7 +37,3 @@ Role required: catalog\_admin
 
 **Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

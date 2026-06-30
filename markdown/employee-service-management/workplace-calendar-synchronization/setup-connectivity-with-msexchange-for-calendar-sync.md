@@ -20,7 +20,7 @@ Register your Microsoft Exchange Online with ServiceNow instance for OAuth autho
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -82,6 +82,3 @@ Depending on whether you want to use the default alias or you want to create you
 
 [Configure Microsoft Exchange Online calendar provider]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

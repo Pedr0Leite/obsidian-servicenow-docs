@@ -22,11 +22,11 @@ Role required: sn\_slm.admin
 
 ## About this task
 
-If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the [[supplier-central|Supplier Collaboration Portal]]. For more information, see [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md).
+If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the Supplier Collaboration Portal. For more information, see [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Properties**.
 
 2.  Select the check box for the **Allow "Activity Configurations" and "Filters" to be picked from all application scopes \(sn\_supplier\_sp.allow\_all\_apps\_configuration\)** property.
 
@@ -44,7 +44,3 @@ If you set this system property to **true**, you can create or modify an activit
 
 [Email format for contacts linked with multiple suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-format-for-contacts-linked-with-multiple-suppliers.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

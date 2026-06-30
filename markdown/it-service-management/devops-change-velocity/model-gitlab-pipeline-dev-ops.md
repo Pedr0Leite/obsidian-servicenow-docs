@@ -180,7 +180,7 @@ Standard change template
 
 </td><td>
 
-List of standard [[change-templates|change templates]] to use for Standard change requests.**Note:** This field is required for Standard change type.
+List of standard change templates to use for Standard change requests.**Note:** This field is required for Standard change type.
 
 </td></tr><tr><td>
 
@@ -202,6 +202,3 @@ Change controlled branches
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[change-templates|Change templates]]

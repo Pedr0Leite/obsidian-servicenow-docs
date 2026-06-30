@@ -42,7 +42,7 @@ Template Management for Field Service adds the following script includes.
 |Script include|Description|
 |--------------|-----------|
 |FSMTableMapSourceIdentifierDefaultImpl|Implementation class for sn\_fsm\_adv\_tmp.FSMTableMapSourceIdentifier extension point, helps to identify the source of a work order.|
-|FSMTableMapSourceIdentifierPlannedWorkMgmtImpl|Implementation class for sn\_fsm\_adv\_tmp.FSMTableMapSourceIdentifier extension point, helps to determine if the source of a work order is using the planned maintenance template or [[planned-work-management|planned work management]] template.|
+|FSMTableMapSourceIdentifierPlannedWorkMgmtImpl|Implementation class for sn\_fsm\_adv\_tmp.FSMTableMapSourceIdentifier extension point, helps to determine if the source of a work order is using the planned maintenance template or planned work management template.|
 |FSMTemplateMgmntDefaultImpl|Implementation class for sn\_fsm\_adv\_tmp.FSMTemplateMgmntExtPoint. extension point, enables the work order template to map information from a source table to the appropriate fields in a work order.|
 |FSMTemplateMgmntHelper|Contains utility methods to identify the source record and then map information from the source table to the target table \[wm\_order\].|
 
@@ -75,9 +75,5 @@ Restrict table map for model
 Prevents the user from creating a duplicate record of table mapping to the work order template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

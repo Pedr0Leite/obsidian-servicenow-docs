@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist in Knowledge Management, Now Assist in Knowled
 
 # Configure skills with custom prompts for knowledge article templates
 
-[[now-assist-knowledge-management|Now Assist in Knowledge Management]] has extended the out-of-box \(OOB\) KB generation skill to create custom prompts for OOB and custom [[knowledge-article-templates|knowledge article templates]].
+Now Assist in Knowledge Management has extended the out-of-box \(OOB\) KB generation skill to create custom prompts for OOB and custom knowledge article templates.
 
 ## Before you begin
 
@@ -118,7 +118,3 @@ The guidelines help to write prompts for Out-of-Box \(OOB\) and custom knowledge
 
 **Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configuring-now-assist-km.md)
 
-## Related
-
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[knowledge-article-templates|Knowledge article templates]]

@@ -14,11 +14,11 @@ breadcrumb: [Working with TISC Context, TISC integration within SIR Workspace, W
 
 # View Enrichment Results
 
-TISC context facilitates viewing [[threat-intel-landing-page|threat intelligence]] data such as [[c_Observables|observables]] within the [[sir-workspace-landing-page|security incident response workspace]].
+TISC context facilitates viewing threat intelligence data such as observables within the security incident response workspace.
 
 Security analysts can detect, investigate, and respond to security incidents more effectively from the workspace.
 
-TISC Context in Security Incident Response Workspace allows security analysts to add security incidents or observables to TISC cases directly from the workspace. You can also view enrichment results and observables related information such as [[threat-actors|threat actors]], [[attack-patterns|attack patterns]], and [[threat-intelligence-campaigns|campaigns]].
+TISC Context in Security Incident Response Workspace allows security analysts to add security incidents or observables to TISC cases directly from the workspace. You can also view enrichment results and observables related information such as threat actors, attack patterns, and campaigns.
 
 Using this section, you can do the following:
 
@@ -32,18 +32,8 @@ For more detailed information and procedures, see the following sections. For mo
 
 |Type|Description|
 |----|-----------|
-|Sightings|Lists all the associated [[indicator-sightings|sightings]] for selected TISC observables.|
-|Observable Enrichment Results|Lists all the associated [[tisc-observable-enrichment|observable enrichment]] results for selected TISC observables.|
+|Sightings|Lists all the associated sightings for selected TISC observables.|
+|Observable Enrichment Results|Lists all the associated observable enrichment results for selected TISC observables.|
 
 **Parent Topic:**[Working with TISC Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-tisc-context.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[threat-actors|Threat actors]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

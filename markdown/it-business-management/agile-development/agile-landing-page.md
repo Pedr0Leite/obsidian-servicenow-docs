@@ -24,7 +24,7 @@ ServiceNow Agile Development 2.0 provides an agile software development environm
 
 </td><td>
 
-[Use \[Omitted image "bus-manage.svg"\] Alt text: Learn how to manage your product development with [[agile-development|Agile Development]] 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
+[Use \[Omitted image "bus-manage.svg"\] Alt text: Learn how to manage your product development with Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
 </td></tr><tr><td>
 
@@ -44,6 +44,3 @@ ServiceNow Agile Development 2.0 provides an agile software development environm
 -   Refer to the [developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find the Strategic Portfolio Management package that works best for you](https://www.servicenow.com/products/strategic-portfolio-management.html)
 
-## Related
-
-- [[agile-development|Agile Development]]

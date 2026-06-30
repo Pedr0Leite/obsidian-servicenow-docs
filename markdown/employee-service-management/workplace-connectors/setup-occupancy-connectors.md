@@ -14,9 +14,9 @@ breadcrumb: [Configure, Workplace Connectors, Workplace Service Delivery, Employ
 
 # Setup Workplace Connectors for occupancy data
 
-[[configure-workplace-connectors|Configure workplace connectors]] to provide workplace occupancy data.
+Configure workplace connectors to provide workplace occupancy data.
 
-Workplace Occupancy data provides real-time insights on workplace space and resource optimization. It uses the occupancy data from the occupancy connectors or sensors installed at a workplace location. The occupancy data is provided by third-party occupancy sensor data providers. For example, Metrikus Spoke is integrated with Flow Designer Integration Hub. The external Ids from Metrikus Spoke are mapped with [[workplace-connectors-landing-page|Workplace Connectors]] locations to fetch the occupancy data.
+Workplace Occupancy data provides real-time insights on workplace space and resource optimization. It uses the occupancy data from the occupancy connectors or sensors installed at a workplace location. The occupancy data is provided by third-party occupancy sensor data providers. For example, Metrikus Spoke is integrated with Flow Designer Integration Hub. The external Ids from Metrikus Spoke are mapped with Workplace Connectors locations to fetch the occupancy data.
 
 **Note:** Customers who aren’t using the Metrikus Spoke must build their own integration to get Occupancy data insights for locations provided in Workplace Connectors locations.
 
@@ -28,9 +28,9 @@ Workplace occupancy connector data provides the following benefits;
 1.  [Activate Metrikus Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/install-metrikus-plugin.md)  
 Activate the Metrikus Spoke plugin from the ServiceNow Store.
 2.  [Integrate Metrikus spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/integrate-metrikus-flowdesigner.md)  
-[[integrate-metrikus-flowdesigner|Integrate Metrikus Spoke]] with Flow Designer Integration Hub to retrieve occupancy data for workplace locations.
+Integrate Metrikus Spoke with Flow Designer Integration Hub to retrieve occupancy data for workplace locations.
 3.  [Connector Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/connector-configuration-occupancy.md)  
-Configure the [[connector-configuration-occupancy|Connector Configurations]] table for loading the occupancy data in the target Space Occupancy Data table \(sn-wsd\_wc\_space\_occupancy\). Connector configuration table retrieves the sensor data from different occupancy data providers.
+Configure the Connector Configurations table for loading the occupancy data in the target Space Occupancy Data table \(sn-wsd\_wc\_space\_occupancy\). Connector configuration table retrieves the sensor data from different occupancy data providers.
 4.  [Provider Connector Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-connector-config-occupancy.md)  
 Register details for the occupancy data provider, the data source type, and connector configuration \(sensor\) details. Filter spaces using a condition builder, and retrieve occupancy data for a workplace location.
 5.  [Provider Space Type Mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-space-type-mapping.md)  
@@ -50,9 +50,3 @@ Archive and purge the Space Occupancy data \(sn\_wsd\_wc\_space\_occupancy\) tab
 
 **Next topic:**[Activate Metrikus Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/install-metrikus-plugin.md)
 
-## Related
-
-- [[configure-workplace-connectors|Configure Workplace Connectors]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[integrate-metrikus-flowdesigner|Integrate Metrikus spoke]]
-- [[connector-configuration-occupancy|Connector Configurations]]

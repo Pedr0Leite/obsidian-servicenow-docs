@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create or change groups for Advanced Work Assignment queues
 
-Create or manage groups that have associated [[awa-application-landing-page|Advanced Work Assignment]] queues.
+Create or manage groups that have associated Advanced Work Assignment queues.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: awa\_manager or admin
 
 ## About this task
 
-Groups are sets of users who share a common purpose. By creating these groups, information that is displayed in AWA is limited to only users that are in AWA groups. The assignment group can be configured so that [[awa-work-items|work items]] are assigned using the group queue priority. Each round of assignment can include multiple passes through the work items, each with an increasingly inclusive set of groups. This process ensures that agents in each group are offered items according to their group's queue priority order.
+Groups are sets of users who share a common purpose. By creating these groups, information that is displayed in AWA is limited to only users that are in AWA groups. The assignment group can be configured so that work items are assigned using the group queue priority. Each round of assignment can include multiple passes through the work items, each with an increasingly inclusive set of groups. This process ensures that agents in each group are offered items according to their group's queue priority order.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Home** &gt; **[[management|Management]]** &gt; **Groups**
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Home** &gt; **Management** &gt; **Groups**
 
 2.  Choose a situation:
 
@@ -56,8 +56,4 @@ Groups are sets of users who share a common purpose. By creating these groups, i
 
     5.  Select the green check mark to save the change.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]

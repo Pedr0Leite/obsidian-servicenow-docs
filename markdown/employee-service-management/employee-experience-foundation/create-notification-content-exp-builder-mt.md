@@ -14,7 +14,7 @@ breadcrumb: [Create Microsoft Teams campaigns with the Content Experience Builde
 
 # Create Microsoft Teams notification content with Content Experience Builder
 
-Create or place [[ec-notification-content|notification content]] into a bundle or stage for a Microsoft Teams campaign using Content Experience Builder.
+Create or place notification content into a bundle or stage for a Microsoft Teams campaign using Content Experience Builder.
 
 ## Before you begin
 
@@ -125,7 +125,7 @@ Re-evaluate frequency
 
 </td><td>
 
-Frequency, in days, that you want to re-evaluate the audience. [[ecpro-audience|Audiences]] are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.
+Frequency, in days, that you want to re-evaluate the audience. Audiences are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.
 
  This field appears only if the **Re-evaluate campaign** check box is selected.
 
@@ -141,8 +141,3 @@ Descriptive information about the campaign.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ec-notification-content|Notification content]]
-- [[ecpro-audience|Audiences]]

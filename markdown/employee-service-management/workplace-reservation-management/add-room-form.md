@@ -46,7 +46,7 @@ Email
 
 </td><td>
 
-Email address of the room to [[reservation-portal|make a reservation]] request. The email address is used to check availability of the room and to block its calendar for a reservation. If you have installed [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application, ensure that the email address is same as the one set in the calendar provider. Later, as an admin, you can change the email address of the room. The changes are automatically applied in the Reservable Sync Configuration. The calendar provider synchronizes the resources based on the entered email.
+Email address of the room to make a reservation request. The email address is used to check availability of the room and to block its calendar for a reservation. If you have installed Workplace Calendar Synchronization application, ensure that the email address is same as the one set in the calendar provider. Later, as an admin, you can change the email address of the room. The changes are automatically applied in the Reservable Sync Configuration. The calendar provider synchronizes the resources based on the entered email.
 
 </td></tr><tr><td>
 
@@ -194,7 +194,3 @@ Upload an image of the room. The supported ratio of an image is: 26:17.
 
 [User criteria form]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

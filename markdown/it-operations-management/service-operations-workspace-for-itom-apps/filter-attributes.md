@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
@@ -34,6 +34,4 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     |**Number of impacted services**|Enter a condition to view alerts according to the number of alerts on the selected filter. For example, to display alerts that have fewer than 10 impacted services, you would select the **less than** condition and enter `10`.\[Omitted image "filter-by-number.png"\] Alt text: Filter the Express List panel by number of alerts|
     |**Date**|View alerts according to the selected date and time range in the pop-up calendar in the Express List panel. \[Omitted image "filter-by-time.png"\] Alt text: Filter the Express List pane by date and time|
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to**All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to**All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Click the board information icon \(\[Omitted image "BoardInfoIcon.png"\] Alt text: Board information icon\).
 
@@ -35,6 +35,3 @@ The board information displays.
 
 **Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/viewing-sharing-vis-task-brds.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

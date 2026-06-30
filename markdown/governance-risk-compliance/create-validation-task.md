@@ -24,7 +24,7 @@ You can create a validation task for a model when it is in the Pre-deployment or
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -43,12 +43,7 @@ You can create a validation task for a model when it is in the Pre-deployment or
 
 ## What to do next
 
-[[perform-model-risk-validation|Perform model validation]]
+[Perform model validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-validation.md)
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[perform-model-risk-validation|Perform model validation]]
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

@@ -18,7 +18,7 @@ Several probes require additional permissions to run.
 
 ## Discovering Active Connections
 
-[[r-discovery|Discovery]] uses the Windows - Active Connections probe to access active connection information. The [application dependency mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ApplicationDependencyMapping.md) feature requires this probe to function.
+Discovery uses the Windows - Active Connections probe to access active connection information. The [application dependency mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ApplicationDependencyMapping.md) feature requires this probe to function.
 
 <table id="table_jrm_cq4_tp"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Ability to invoke the \\root\\CIMV2:Win32\_Process objectRead and Write access t
  Write access to the %SystemRoot%\\temp directory
 
 </td></tr></tbody>
-</table>## Discovering [[c_VMWareWinLinWithoutVCenter|VMware Workstation]]
+</table>## Discovering VMware Workstation
 
 Discovery uses the **Windows - Get VMware Workstation** probe to access information about VMware virtual machines installed on Windows.
 
@@ -121,7 +121,3 @@ Windows - MSSQL
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_VMWareWinLinWithoutVCenter|VMware Workstation]]

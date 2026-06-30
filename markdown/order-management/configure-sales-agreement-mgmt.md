@@ -12,7 +12,7 @@ breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationshi
 
 # Configure Sales Agreement Management
 
-Use the [[sales-agreement-mgmt|Sales Agreement Management]] application to create sales agreements between a buyer and a seller for future transactions.
+Use the Sales Agreement Management application to create sales agreements between a buyer and a seller for future transactions.
 
 ## Activate Sales Agreement Management
 
@@ -40,7 +40,7 @@ This plugin provides foundational objects to manage sales agreements.
 
 </td><td>
 
--   [[product-catalog-managment|Product Catalog Management]] Core\[com.sn\_prd\_pm\]​
+-   Product Catalog Management Core\[com.sn\_prd\_pm\]​
 -   Price Management \[com.sn\_csm\_pricing\]
 
 </td></tr><tr><td>
@@ -54,23 +54,16 @@ This plugin provides workflow to create and manage sales agreements.
 </td><td>
 
 -   Sales Agreement Data Model \[com.sn\_sales\_agmt\_core\]
--   [[lead-to-cash|Lead to Cash Core]] \[com.sn\_l2c\_core\]​
--   [[quote-management|Quote Management]] Application \[com.sn\_l2c\_quote\_mgmt\]
+-   Lead to Cash Core \[com.sn\_l2c\_core\]​
+-   Quote Management Application \[com.sn\_l2c\_quote\_mgmt\]
 
 **Note:** You need to install the Quote Management Application plugin separately.
 
 
 </td></tr></tbody>
-</table>For more information on the installed roles and tables, see [[components-installed-sales-agreement|Components installed with Sales Agreement Management]]. To view sales agreements from an account, you must manually configure the sales agreement related list on the Account form.
+</table>For more information on the installed roles and tables, see [Components installed with Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-sales-agreement.md). To view sales agreements from an account, you must manually configure the sales agreement related list on the Account form.
 
 ## Request apps from the ServiceNow Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[components-installed-sales-agreement|Components installed with Sales Agreement Management]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[quote-management|Quote Management]]

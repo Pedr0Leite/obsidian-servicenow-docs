@@ -54,7 +54,7 @@ Risk Framework to Entity Type\[sn\_risk\_m2m\_framework\_profile\_type\]
 
 </td><td>
 
-Extends Document to Entity Type table \[sn\_grc\_m2m\_document\_profile\_type\] and is a many-to-many relationship table that is used to manage the relationships between risk frameworks and [[entity-type-in-risk-ws|entity types]]
+Extends Document to Entity Type table \[sn\_grc\_m2m\_document\_profile\_type\] and is a many-to-many relationship table that is used to manage the relationships between risk frameworks and entity types
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Contains upstream-downstream/parent-child relationship between two risks.
 
 </td></tr><tr><td>
 
-[[risk-response|Risk Response]] Tasksn\_risk\_response\_task
+Risk Response Tasksn\_risk\_response\_task
 
 </td><td>
 
@@ -157,7 +157,3 @@ Base table to Risk Acceptance, Risk Avoidance, Risk Mitigation, Risk Transfer ta
 
 **Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[risk-response|risk response]]

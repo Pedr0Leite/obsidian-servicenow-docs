@@ -14,7 +14,7 @@ breadcrumb: [Configuration file tracking, Advanced Discovery configuration, Conf
 
 # Set the deletion strategy for tracked configuration files
 
-You can specify what you want to do with tracked configuration file CI records when pattern [[r-discovery|discovery]] can no longer find them.
+You can specify what you want to do with tracked configuration file CI records when pattern discovery can no longer find them.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: discovery\_admin, service\_mapping\_admin, or admin. Starting fro
 
 ## About this task
 
-You can [[set-deletion-strategy|set a deletion strategy]] for all discovered CIs, not just configuration file CIs. However the way you access the deletion strategy for standard CIs differs from configuration file CIs. See [Set a deletion strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-deletion-strategy.md) for instructions.
+You can set a deletion strategy for all discovered CIs, not just configuration file CIs. However the way you access the deletion strategy for standard CIs differs from configuration file CIs. See [Set a deletion strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-deletion-strategy.md) for instructions.
 
 ## Procedure
 
@@ -97,7 +97,3 @@ Marks the **Status** \[install\_status\] field of the configuration file CI reco
 
 [Set a deletion strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-deletion-strategy.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[set-deletion-strategy|Set a deletion strategy]]

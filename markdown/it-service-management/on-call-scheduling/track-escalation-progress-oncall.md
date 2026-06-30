@@ -57,7 +57,7 @@ Role required: Any role that enables the user to read incidents.
     -   Red: All escalatees have rejected the escalation.
     **Note:** To enhance the visual differences between dots, use the high-contrast user interface.
 
-4.  Depending on the contact [[settings-mobile|settings]], you can call or send a direct message to the person from the escalatee's **Profile** tab.\[Omitted image "delegator-escalation-tracking-oncall.png"\] Alt text: On-call tracking progress
+4.  Depending on the contact settings, you can call or send a direct message to the person from the escalatee's **Profile** tab.\[Omitted image "delegator-escalation-tracking-oncall.png"\] Alt text: On-call tracking progress
 
     Click \[Omitted image "icon-information.png"\] Alt text: Info icon to view delegator and delegated user's information.
 
@@ -71,6 +71,3 @@ Role required: Any role that enables the user to read incidents.
 
 [View details in an escalation log]()
 
-## Related
-
-- [[settings-mobile|Settings]]

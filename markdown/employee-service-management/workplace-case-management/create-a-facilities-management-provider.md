@@ -26,7 +26,7 @@ A Facilities Management Provider record represents a third-party FM vendor that 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Facilities Management - Setup** &gt; **Providers**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Facilities Management - Setup** &gt; **Providers**.
 
 2.  On the Facilities Management Providers page, select **New**.
 
@@ -46,6 +46,4 @@ A Facilities Management Provider record represents a third-party FM vendor that 
 
 4.  Select **Submit**.
 
-## Related
 
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

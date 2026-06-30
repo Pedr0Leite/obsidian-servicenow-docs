@@ -12,7 +12,7 @@ breadcrumb: [Using assessments, Assessments, Assessments and Surveys, Exploring 
 
 # Take an assessment
 
-Take the [[r_Assessments|assessments]] assigned to you from the assessment and survey queue.
+Take the assessments assigned to you from the assessment and survey queue.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ An assessment card displays the assessment name, state, due date, and associated
 
 You must answer every required question, indicated by a red asterisk, before you can submit the assessment as complete. If you start to take an assessment but can't complete it, save your responses and return to it later. When you've answered all the questions and you're happy with the responses, submit the assessment.
 
-**Note:** The expired [[assessments-surveys-landing-page|assessments and surveys]] no longer appear in the **My [[r_SurveyManagementLandingPage|surveys]]** widget and the **My Assessments and Surveys list** page.
+**Note:** The expired assessments and surveys no longer appear in the **My surveys** widget and the **My Assessments and Surveys list** page.
 
 By default, you can't modify your answers to an assessment after submission. However, if the administrator has configured an assessment to allow retakes, you can edit your answers and resubmit the questionnaire. Completed assessments configured for retake remain in the queue until their due date and display Modify Assessment at the top of the card. Click the card to modify the assessment.
 
@@ -32,13 +32,13 @@ By default, you can't modify your answers to an assessment after submission. How
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My Assessments &amp; Surveys**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Assessments &amp; Surveys**.
 
     **Note:** Users with the assessment\_admin role can display other users' assessments and surveys in addition to their own. Use the **Show all** and **Show assigned to me** related links to show and hide assessments and surveys. Click a card assigned to another user to open the associated metric type or survey definition.
 
 2.  On the assessment card, note the due date.
 
-    **Note:** Depending on the configuration, you may receive [[email|email]] notifications to remind you of the due date.
+    **Note:** Depending on the configuration, you may receive email notifications to remind you of the due date.
 
 3.  Click the card to open the questionnaire.
 
@@ -52,7 +52,7 @@ By default, you can't modify your answers to an assessment after submission. How
 
 5.  Read any assertions present at the end of the assessment and acknowledge with a signature, if required.
 
-    A signature can require you to select a [[check-box|check box]] or authenticate your full name, which the system displays in a read-only field. You can't submit your answers to the assessment until you provide the required signature.
+    A signature can require you to select a check box or authenticate your full name, which the system displays in a read-only field. You can't submit your answers to the assessment until you provide the required signature.
 
 6.  Save or submit the assessment.
 
@@ -67,30 +67,17 @@ By default, you can't modify your answers to an assessment after submission. How
     To update your answers and resubmit an assessment that permits retakes, click the card to modify it.
 
 
--   **[[assessment-service-portal-and-now-mobile-app|Assessments in Service Portal and the Now Mobile app]]**  
+-   **[Assessments in Service Portal and the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-service-portal-and-now-mobile-app.md)**  
 If you've installed Service Portal, you can use the My Assessments and Surveys widget in Service Portal. Users can view and take assessments in Service Portal. Service Portal also supports assessments for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
--   **[[c_AssessmentQuestionnaires|Assessment questionnaires]]**  
+-   **[Assessment questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentQuestionnaires.md)**  
 In the assessment process, users complete assessment questionnaires on topics of interest to provide subjective data for future business decisions.
 
-**Parent Topic:**[[using-assessments|Using assessments]]
+**Parent Topic:**[Using assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-assessments.md)
 
 **Related topics**  
 
 
-[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-[[c_SurveyDefinitions|Survey definitions]]
+[Survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md)
 
-## Related
-
-- [[assessment-service-portal-and-now-mobile-app|Assessments in Service Portal and the Now Mobile app]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[using-assessments|Using assessments]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[r_Assessments|Assessments]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[self-service-landing|Self-service]]
-- [[email|Email]]
-- [[check-box|Check box]]

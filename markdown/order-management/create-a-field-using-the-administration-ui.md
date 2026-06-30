@@ -20,7 +20,7 @@ Role required: Admin
 
 ## Procedure
 
-1.  In the CPQ navigation pane, click **[[fields|Fields]]**.
+1.  In the CPQ navigation pane, click **Fields**.
 
     \[Omitted image "cpq-fields-menu-item.png"\] Alt text: Menu
 
@@ -42,23 +42,17 @@ Role required: Admin
     -   \(D\) The New Field window shows the Component Display Types available for the field type.
 4.  Click **Save**.
 
-    If you need to create a large number of fields or field options, use the [[matrix_loader_table_of_contents|Matrix Loader]].
+    If you need to create a large number of fields or field options, use the Matrix Loader.
 
     When you create a field, it becomes available to any layout or rule in the environment. However, you must associate a field with a blueprint so that the field can be used in a configuration experience.
 
 
 ## What to do next
 
-[[cpq-associate-field-with-a-blueprint|Associate a field with a blueprint]]
+[Associate a field with a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-associate-field-with-a-blueprint.md)
 
 **Related topics**  
 
 
-[[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
+[Configure the Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-## Related
-
-- [[cpq-associate-field-with-a-blueprint|Associate a field with a blueprint]]
-- [[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
-- [[fields|Fields]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

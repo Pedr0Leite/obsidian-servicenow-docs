@@ -14,7 +14,7 @@ breadcrumb: [Set up Microsoft Outlook integration in Career Conversations, Insta
 
 # Set system properties for Microsoft Outlook integration
 
-Use system properties to enable integration between [[egd-activities-conversations-module|Career Conversations]] and Microsoft® Outlook® so you can simultaneously create and schedule conversations with the Career Conversations app.
+Use system properties to enable integration between Career Conversations and Microsoft® Outlook® so you can simultaneously create and schedule conversations with the Career Conversations app.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin \[sn\_egd\_act.admin\]
 
 **Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/outlook-integration-cc.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

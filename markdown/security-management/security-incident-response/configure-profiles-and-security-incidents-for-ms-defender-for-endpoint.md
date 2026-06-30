@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Configure profiles and security incidents for the Microsoft Defender for Endpoint integration
 
-[[arcsight-esm-create-profile|Create a profile]] and select the Microsoft Defender for Endpoint capabilities that you want the profile to run. You need to configure the settings so that the profile can be triggered only under the defined conditions.
+Create a profile and select the Microsoft Defender for Endpoint capabilities that you want the profile to run. You need to configure the settings so that the profile can be triggered only under the defined conditions.
 
 ## Before you begin
 
@@ -66,6 +66,4 @@ Configure the profile so that it runs only when the conditions you specify are f
 
 7.  Click **Done**.
 
-## Related
 
-- [[arcsight-esm-create-profile|Create a profile]]

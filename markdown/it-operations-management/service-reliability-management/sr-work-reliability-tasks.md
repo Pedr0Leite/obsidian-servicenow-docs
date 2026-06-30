@@ -28,7 +28,7 @@ Responders and above are notified for updates to reliability tasks based on thei
 -   **[Working with alerts in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-alerts-expresslist.md)**  
 Monitor, evaluate, and resolve health issues in the Express List.
 -   **[Working with incidents in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-incidents.md)**  
-Plan ahead of service disruptions and have SRM send notifications and create status when incidents occur. Distractions are minimized and teams stay focused on [[ccg-remediation|remediation]].
+Plan ahead of service disruptions and have SRM send notifications and create status when incidents occur. Distractions are minimized and teams stay focused on remediation.
 -   **[Manually create an SRM change task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-change.md)**  
 Create a change task to implement a controlled process for modifying approved and supported actions for SRM.
 
@@ -38,6 +38,3 @@ Create a change task to implement a controlled process for modifying approved an
 
 **Next topic:**[Working with alerts in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-alerts-expresslist.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

@@ -14,7 +14,7 @@ breadcrumb: [Create and propose a change template, Create a Change model, Config
 
 # Modify a template
 
-Copy and modify [[change-templates|change templates]].
+Copy and modify change templates.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ The change model you want to modify must have been created. For more information
 
 Role required: change\_manager
 
-You must have a role with the following access with regard to the change model to modify or [[retire-a-change-template|retire a change template]]:
+You must have a role with the following access with regard to the change model to modify or retire a change template:
 
 -   Access to read
 -   Access to modify
@@ -35,7 +35,7 @@ You can modify only templates in the Draft state. To modify templates that are i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Models|Models]]** &gt; **Change Templates**.
+1.  Navigate to **All** &gt; **Models** &gt; **Change Templates**.
 
 2.  Select the template you want to modify.
 
@@ -60,7 +60,7 @@ Select **Copy**.A template copy is created and the Previous template field displ
 </td></tr></tbody>
 </table>4.  Either save the template information for later approval or send it for approval immediately.
 
-    -   To save the [[migration-utility-modification|modifications]] but not send them for approval, select **Save**.
+    -   To save the modifications but not send them for approval, select **Save**.
     -   To send the template for approval, select **Publish**.
     **Note:** In the **Approvers** tab, you can view the list of approvers who have been configured to review the modifications made to the template, and the details of proposed and reviewed modifications.
 
@@ -76,9 +76,3 @@ Select **Copy**.A template copy is created and the Previous template field displ
 
 [Review a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/review-change-template.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[retire-a-change-template|Retire a change template]]
-- [[c_Models|Models]]
-- [[migration-utility-modification|Modifications]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Health and Safety, Health and Safety, Emp
 
 # Activate a Now Assist for Health and Safety skill
 
-Activate a Now Assist for Health and Safety skill to enable the safety team to use the generative AI skills from [[health-safety-core-workspace|Health and Safety Workspace]] and the Core UI.
+Activate a Now Assist for Health and Safety skill to enable the safety team to use the generative AI skills from Health and Safety Workspace and the Core UI.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The following table lists the skill that you can access from the Now Assist Admi
 |-------------------------|-----|
 |Now Assist skills for Health and Safety|Health and Safety incident summarization|
 
-The [[health-safety-overview|Health and Safety]] incident summarization skill is available in the base system with the required configurations.
+The Health and Safety incident summarization skill is available in the base system with the required configurations.
 
 **Note:**
 
@@ -75,7 +75,3 @@ Now LLM Service is currently the only provider for this Now Assist application's
 
 **Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]

@@ -14,7 +14,7 @@ breadcrumb: [Create and test your credentials, Get started with credentials, Con
 
 # Basic authentication credentials
 
-The [[basic-authentication|basic authentication]] credential type manages access to store basic authentication credentials.
+The basic authentication credential type manages access to store basic authentication credentials.
 
 These fields are available in the Credentials form for basic authentication.
 
@@ -56,7 +56,7 @@ Credential ID
 
 </td><td>
 
-Enter the unique key configured for these credentials in the [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md) [[c_ExternalCredentialStorage|external credential storage]] system. The credential ID may be used as a safe override when multiple safes are in use. By default, the syntax in the **Credential ID** field is this: **&lt;safe name&gt;:&lt;Credential ID&gt;**. If the safe name is omitted, there must be a safe name defined in the `config.xml` file. To change the separator character from the default colon to another character, override the value with the optional [**ext.cred.safe\_name**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/t_ConfigureTheMIDServerForCyberArk.md) parameter. The **Credential ID** field has a limit of 40 characters.This field is only visible when the **External storage** check box is selected.
+Enter the unique key configured for these credentials in the [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md) external credential storage system. The credential ID may be used as a safe override when multiple safes are in use. By default, the syntax in the **Credential ID** field is this: **&lt;safe name&gt;:&lt;Credential ID&gt;**. If the safe name is omitted, there must be a safe name defined in the `config.xml` file. To change the separator character from the default colon to another character, override the value with the optional [**ext.cred.safe\_name**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/t_ConfigureTheMIDServerForCyberArk.md) parameter. The **Credential ID** field has a limit of 40 characters.This field is only visible when the **External storage** check box is selected.
 
 </td></tr><tr><td>
 
@@ -72,13 +72,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[users|Users]]

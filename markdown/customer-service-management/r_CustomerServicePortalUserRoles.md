@@ -41,7 +41,7 @@ Customer case manager \[sn\_customerservice.customer\_case\_manager\]
 </td><td>
 
 -   Create a case for this user's account and for child accounts.
--   View a list of cases created by this user and [[osp-view-cases|view cases]] for child accounts.
+-   View a list of cases created by this user and view cases for child accounts.
 -   Edit cases created by this user and edit cases for child accounts.
 -   View a list of assets belonging to this user's account and to child accounts.
 -   Search for information.
@@ -95,9 +95,5 @@ Partner administrator \[sn\_customerservice.partner\_admin\]
 </table>**Related topics**  
 
 
-[[r_BusinessPortalUserRoles|Business Portal user roles]]
+[Business Portal user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_BusinessPortalUserRoles.md)
 
-## Related
-
-- [[r_BusinessPortalUserRoles|Business Portal user roles]]
-- [[osp-view-cases|View cases]]

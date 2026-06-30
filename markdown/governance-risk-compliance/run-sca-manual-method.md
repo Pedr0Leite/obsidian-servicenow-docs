@@ -21,13 +21,13 @@ Role required: **sn\_oper\_res.admin**, **sn\_oper\_res.manager**
 
 ## About this task
 
-Use the manual method when a quantitative financial-loss projection is not required and an SME records the impact of a scenario qualitatively. When you set the **Method** field to **Manual**, the analysis uses an SME assessment template instead of a statistical simulation. The **Scope**, **Scenarios**, **Treatment Decision**, **Operational Vulnerabilities**, and **Issues** steps are the same as in the statistical modelling flow. The method is a choice you make on the **Details** tab when you create the scenario analysis record; it is not an extra step in the flow. Choose **Statistical Modelling** or **Manual** based on your requirement. For the statistical modelling flow, see [[complete-sca-scenario-testing|Start simulation and run scenario testing]].
+Use the manual method when a quantitative financial-loss projection is not required and an SME records the impact of a scenario qualitatively. When you set the **Method** field to **Manual**, the analysis uses an SME assessment template instead of a statistical simulation. The **Scope**, **Scenarios**, **Treatment Decision**, **Operational Vulnerabilities**, and **Issues** steps are the same as in the statistical modelling flow. The method is a choice you make on the **Details** tab when you create the scenario analysis record; it is not an extra step in the flow. Choose **Statistical Modelling** or **Manual** based on your requirement. For the statistical modelling flow, see [Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md).
 
-**Note:** The manual method omits the **Reference Data** step and the quantitative **Results** step. Because the answers are entered manually and no simulation runs, the manual method does not produce calculated financial-loss metrics. For an overview of both methods, see [[scenario-analysis-ov|Scenario analysis]].
+**Note:** The manual method omits the **Reference Data** step and the quantitative **Results** step. Because the answers are entered manually and no simulation runs, the manual method does not produce calculated financial-loss metrics. For an overview of both methods, see [Scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-ov.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Scenario Analysis** and create a scenario analysis record.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and create a scenario analysis record.
 
 2.  On the **Details** tab, enter a **Name**, **Description**, and **Goal** for the analysis.
 
@@ -63,7 +63,7 @@ Use the manual method when a quantitative financial-loss projection is not requi
 
     **Note:** No simulation runs for the manual method, and no quantitative **Results** step is presented. The playbook moves directly to **Treatment Decision**.
 
-10. On the **Treatment Decision** step, select a [[risk-response|risk response]], enter the mandatory reason, and then select **Mark as complete**.
+10. On the **Treatment Decision** step, select a risk response, enter the mandatory reason, and then select **Mark as complete**.
 
     Select a response of **Accept**, **Mitigate**, **Avoid**, or **Transfer**. A reason is required before you can complete the step.
 
@@ -82,9 +82,3 @@ Use the manual method when a quantitative financial-loss projection is not requi
 
 The scenario analysis is complete and recorded with the SME assessment and treatment decision. Because the manual method does not run a simulation, the analysis does not include calculated financial-loss metrics. For information about the statistical modelling method, see [Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md).
 
-## Related
-
-- [[complete-sca-scenario-testing|Start simulation and run scenario testing]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[risk-response|risk response]]

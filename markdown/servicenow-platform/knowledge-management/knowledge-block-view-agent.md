@@ -95,7 +95,7 @@ Version
 
 </td><td>
 
-Selected version of the knowledge block. This field appears when the [[article-versioning|article versioning]] feature is enabled. In the figure, 2.0 is the selected version of the knowledge block.
+Selected version of the knowledge block. This field appears when the article versioning feature is enabled. In the figure, 2.0 is the selected version of the knowledge block.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -109,6 +109,3 @@ Selected version of the knowledge block. This field appears when the [[article-v
 
 [Publish a knowledge block in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/publish-block-agent.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]

@@ -14,7 +14,7 @@ breadcrumb: [Regulatory change tasks, Regulatory Change Management Core UI, Use,
 
 # Manage the regulatory change tasks
 
-Manage the regulatory action tasks in the [[reg-change-task|Regulatory Change Tasks]] module so that you can use these tasks to identify and comply with the regulatory changes.
+Manage the regulatory action tasks in the Regulatory Change Tasks module so that you can use these tasks to identify and comply with the regulatory changes.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Starting with version 21.0.1, regulatory change tasks do not require approval be
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Regulatory Change Tasks**.
+1.  Navigate to **All** &gt; **Application** &gt; **Regulatory Change Management** &gt; **Regulatory Change Tasks**.
 
 2.  Select a regulatory change task.
 
@@ -175,7 +175,7 @@ Approval records that get created when an approval is requested.
 
 5.  If you want to add new action tasks that are related to the regulatory change task, select **New** in the Action Tasks related list.
 
-6.  If approval is required, log in as an approver and select **Request Approval** to [[submit-vul-for-approval|request an approval]].
+6.  If approval is required, log in as an approver and select **Request Approval** to request an approval.
 
     If approval is requested, the state of the regulatory change task is updated to the **Awaiting Approval** state. In the Approvers related list of the regulatory change task, the state of the approval is updated to **Requested**. The manager with the sn\_grc\_reg\_change.manager role, the user with the sn\_grc\_reg\_change.user role, or the admin user with the sn\_grc\_reg\_change.admin role can view the request in **My Approvals** of the regulatory change tasks.
 
@@ -184,13 +184,7 @@ Approval records that get created when an approval is requested.
 
 ## Result
 
-The regulatory change task continues through the workflow based on its current state. Approval can occur before or after the task enters the **Implementation** state, depending on [[work-configuration|workflow configuration]]. When the action tasks associated with the regulatory change task are completed, the regulatory change task is closed.
+The regulatory change task continues through the workflow based on its current state. Approval can occur before or after the task enters the **Implementation** state, depending on workflow configuration. When the action tasks associated with the regulatory change task are completed, the regulatory change task is closed.
 
 **Parent Topic:**[Regulatory change tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-task.md)
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[work-configuration|Workflow configuration]]

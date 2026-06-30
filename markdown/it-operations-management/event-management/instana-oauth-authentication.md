@@ -14,7 +14,7 @@ breadcrumb: [Integrate Instana events, Integrate with push connectors, Configure
 
 # Integrate Instana with OAuth authentication
 
-Integrate Instana with [[c_EM|Event Management]] with ServiceNow using OAuth authentication.
+Integrate Instana with Event Management with ServiceNow using OAuth authentication.
 
 ## Before you begin
 
@@ -89,7 +89,7 @@ Role required: evt\_mgmt\_admin
 
 7.  To view the event in the Instana source system, you can access it from a ServiceNow instance:
 
-    1.  Navigate to **All** &gt; **Event Management** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+    1.  Navigate to **All** &gt; **Event Management** &gt; **Service Operations Workspace**.
 
     2.  Select **All Alerts**.
 
@@ -100,7 +100,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Integrate Instana events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/instana-integration.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

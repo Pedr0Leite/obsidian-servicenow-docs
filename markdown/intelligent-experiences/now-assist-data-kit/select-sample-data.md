@@ -15,7 +15,7 @@ breadcrumb: [Generate synthetic data, Using Now Assist Data Kit, Now Assist Data
 
 # Select the sample data
 
-Add the available sample data to enhance the accuracy and relevancy of the generated data in the [[now-assist-data-kit-landing|Now Assist Data Kit]] application. The sample data can be curated, added into the data collection, or published.
+Add the available sample data to enhance the accuracy and relevancy of the generated data in the Now Assist Data Kit application. The sample data can be curated, added into the data collection, or published.
 
 ## Before you begin
 
@@ -53,6 +53,4 @@ Role required: sn\_data\_kit.admin
 
     The generated data is completed.
 
-## Related
 
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

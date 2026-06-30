@@ -14,13 +14,13 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # License usage view
 
-Use the license usage view as a single plane to understand the license position of all software products, remediate non-compliance, view reconciliation results, view, or add removal candidates, and view [[c_SoftwareAssetMgmt|Software Asset Management]] related reports.
+Use the license usage view as a single plane to understand the license position of all software products, remediate non-compliance, view reconciliation results, view, or add removal candidates, and view Software Asset Management related reports.
 
 ## Overview of the License usage view
 
 The License usage view enables you to view the license usage trends for your organization and helps forecast the needs of your organization by trending the number of licenses required against the number of licenses purchased. Manage your license positions by purchasing additional rights before software consumption surpasses the number of rights owned.
 
-Access the License usage view by navigating to **[[sam-workspace|Software Asset Workspace]]** &gt; **License usage**.
+Access the License usage view by navigating to **Software Asset Workspace** &gt; **License usage**.
 
 \[Omitted image "license-usage-publishers-tab.png"\] Alt text: License usage view
 
@@ -69,7 +69,7 @@ To view compliance details about a publisher, select a publisher card. A summary
 
 View the following related lists for a publisher and its products.
 
--   Product Results: A product result record for a licensable product is generated after reconciliation even if there are no [[c_CreatingSoftwareModels|software models]] defined for the product.
+-   Product Results: A product result record for a licensable product is generated after reconciliation even if there are no software models defined for the product.
 -   Software Model Results: A software model result record is generated for each individual software model related to a product and is only created when a software model or entitlement exists for the product.
 
     **Note:** To generate software models results for all software models, with or without entitlements, you can set the property **com.snc.samp.unlicensed\_smr\_creation** to true. By default this property is set to false.
@@ -79,7 +79,7 @@ View the following related lists for a publisher and its products.
 -   Entitlements: entitlements associated to the publisher.
 -   Product install analysis: the license consumption analysis for products of a publisher. Open a record to view a hierarchical node map that illustrates how the installations of a specific product are being licensed. Product install analysis is available at the publisher level and not at the individual product level. For more details, see [View license usage for your installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-install-usage.md).
 
-To prevent clutter in the Publisher details page, software models results are shown only for software models that have entitlements. Software models without any entitlements are shown at the product level in the product results. To [[t_ViewSWModelResults|view software model results]] for all software models with or without entitlements, you can set the property, **com.snc.samp.unlicensed\_smr\_creation**, to true. By default, this property is set to false.
+To prevent clutter in the Publisher details page, software models results are shown only for software models that have entitlements. Software models without any entitlements are shown at the product level in the product results. To view software model results for all software models with or without entitlements, you can set the property, **com.snc.samp.unlicensed\_smr\_creation**, to true. By default, this property is set to false.
 
 The navigation tree for the publisher appears on the Publisher details page with one of the following compliant statuses:
 
@@ -187,7 +187,7 @@ After you select Installs requiring action, a list appears showing installs that
 -   Non-entitled product subscriptions: indicates subscriptions at ServiceNow that currently have no associated entitlements. You need to create entitlements for these subscriptions.
 -   Subscriptions requiring action: Analyze subscription-related issues and perform necessary corrective measures.
 -   Unlicensed client access: refers to unlicensed CAL records on account of not having enough rights on entitlements to cover the CAL records. You need to purchase more CAL licenses for the products.
--   Unlicensed options: refers to unlicensed [[oracle-options|Oracle Database options and management packs]].
+-   Unlicensed options: refers to unlicensed Oracle Database options and management packs.
 
 Select the number adjacent to each category for a more detailed explanation of each installation, including the reason and causes of their unlicensed status.
 
@@ -211,7 +211,7 @@ Indicates the compliance progress already made for this publisher, product, and 
 -   Inactive installs: Indicates software installs that are marked as inactive by Software Asset Management Professional. These installs aren’t included in license calculation and don’t require any action.
 -   Ignored subscriptions: Indicates subscriptions that are marked as inactive by Software Asset Management Professional. These subscriptions aren’t included in license calculations and do not require any action.
 -   Removal candidates: Details of all removal candidates created for reasons such as low usage and unlicensed install removal.
--   Health issues: Displays all [[health-check-dboard|health check]] issues for your Software Asset Management configurations. Select a health check issue to address and fix the error. If there are no health issues, the Health issue indicator isn't shown.
+-   Health issues: Displays all health check issues for your Software Asset Management configurations. Select a health check issue to address and fix the error. If there are no health issues, the Health issue indicator isn't shown.
 
  Select the number adjacent to each category for a more detailed explanation of each installation.
 
@@ -228,7 +228,7 @@ Results of the latest reconciliation run are shown in the License usage view. Fo
 
 ## Removal candidates tab
 
-View a list of all removal candidates in this tab. Removal candidates are used to [[reclaiming-software-sam|reclaim software]] installations that aren’t being used.
+View a list of all removal candidates in this tab. Removal candidates are used to reclaim software installations that aren’t being used.
 
 You can also create removal candidates. For more details, see [Create a software removal candidate in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sw-removal-workspace.md).
 
@@ -252,12 +252,3 @@ To create and manage reports, see [Create and manage reports in workspace](https
 
 Generate a report that groups your effective license position \(ELP\) data on existing reconciliation groups without needing to re-run the reconciliation process. For details on generating a ELP report, see [Generate an Effective License Position \(ELP\) report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/generate-elp-report-sam.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[t_ViewSWModelResults|View software model results]]
-- [[oracle-options|Oracle Database options and management packs]]
-- [[health-check-dboard|Health check]]
-- [[reclaiming-software-sam|Reclaim software]]

@@ -26,39 +26,29 @@ You must delete some of these records manually before deleting the type, while t
 
 1.  Delete the records associated with the type to delete:
 
-    -   [[r_AssessmentResults|Assessment results]] \(metric and [[r_CategoryResults|category results]]\)
-    -   [[c_AssessmentInstances|Assessment instance]] \(questions and assessment instances, in that order\)
-    -   [[c_AssessmentGroups|Assessment groups]]
+    -   [Assessment results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentResults.md) \(metric and category results\)
+    -   [Assessment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md) \(questions and assessment instances, in that order\)
+    -   [Assessment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md)
 2.  Delete the type.
 
     A confirmation dialog box appears and alerts you that certain records associated with the type will also be deleted.
 
 3.  Click **OK** to delete the type and these related records:
 
-    -   Scheduled job for [[c_AssessmentGeneration|assessment generation]]
+    -   Scheduled job for assessment generation
     -   Business rule for assessable record generation
-    -   [[c_assessable-records|Assessable records]]
+    -   Assessable records
     -   Metric categories
     -   Category users
     -   Stakeholders
     -   Metrics
     -   Metric definitions
-    -   [[r_AdministerDecisionMatrixes|Decision matrixes]]
+    -   Decision matrixes
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
 [Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[r_AssessmentResults|Assessment results]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[c_AssessmentGroups|Assessment groups]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_CategoryResults|Category results]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[c_assessable-records|Assessable records]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]

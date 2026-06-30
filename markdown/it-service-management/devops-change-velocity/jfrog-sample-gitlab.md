@@ -18,7 +18,7 @@ Pipeline samples for GitLab containing steps to upload and download artifacts fo
 
 To upload and download artifacts from GitLab to JFrog, the parameters **JFROG\_URL**, **JFROG\_USER**, and **JFROG\_PASSWORD** must be set as CI/CD variables in your GitLab instance.
 
-1.  Navigate to your project, then go to **[[settings-mobile|Settings]]** &gt; **CI/CD** &gt; **Variables**.
+1.  Navigate to your project, then go to **Settings** &gt; **CI/CD** &gt; **Variables**.
 2.  Select **Add variable**.
 3.  Enter the parameter in the **Key** field and enter the value for the parameter in the **Value** field.
 4.  Select **Add variable** to save.
@@ -100,6 +100,3 @@ download:
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

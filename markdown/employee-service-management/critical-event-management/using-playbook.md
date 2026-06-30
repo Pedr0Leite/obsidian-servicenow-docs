@@ -14,7 +14,7 @@ breadcrumb: [Report as an agent, Reporting critical events, Critical Event Manag
 
 # Using a critical event playbook
 
-A critical event playbook in [[critical-event-management|Critical Event Management]] provides a step-by-step guide to help you manage a critical event from initiation to resolution.
+A critical event playbook in Critical Event Management provides a step-by-step guide to help you manage a critical event from initiation to resolution.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-overview|Health and Safety]]** and select the **New Critical Event** button.
+1.  Navigate to **Workspaces** &gt; **Health and Safety** and select the **New Critical Event** button.
 
-2.  On the [[new-critical-event-form|Critical Event form]], fill in the fields and select **Save**.
+2.  On the Critical Event form, fill in the fields and select **Save**.
 
     For a description of the field values, see [Critical Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-critical-event-form.md).
 
@@ -72,8 +72,4 @@ Role required: sn\_critical.agent
 
     11. Select **Close Critical Event** to complete the guided steps in the playbook.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[new-critical-event-form|Critical Event form]]

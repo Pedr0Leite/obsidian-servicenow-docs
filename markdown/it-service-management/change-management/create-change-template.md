@@ -43,15 +43,15 @@ Description
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Change [[c_Models|Models]]**
+1.  Navigate to **All** &gt; **Change Models**
 2.  Select the relevant change model.
-3.  Navigate to the **[[change-templates|Change Templates]]** tab, and then select **New**.
+3.  Navigate to the **Change Templates** tab, and then select **New**.
 
 **Note:** You can propose a new template only if you have access to the change model.
 
 </td></tr><tr><td id="d416720e111">
 
-**[[t_CreateAChange|Create a change request]] page**
+**Create a change request page**
 
 </td><td>
 
@@ -153,18 +153,11 @@ Create template categories and child categories to classify templates based on a
 -   **[Modify a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/modify-or-retire-template.md)**  
 Copy and modify change templates.
 -   **[Review a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/review-change-template.md)**  
-[[review-change-template|Review a change template]] proposed for common change requests.
+Review a change template proposed for common change requests.
 -   **[Retire a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/retire-a-change-template.md)**  
 Retire change templates that you no longer need.
 -   **[Change template management flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-template-management-flows.md)**  
-[[change-template-management-flows|Change template management flows]] trigger and manage steps for the template proposal, modification, and retirement processes.
+Change template management flows trigger and manage steps for the template proposal, modification, and retirement processes.
 
 **Parent Topic:**[Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]
-- [[t_CreateAChange|Create a change request]]
-- [[review-change-template|Review a change template]]
-- [[change-template-management-flows|Change template management flows]]

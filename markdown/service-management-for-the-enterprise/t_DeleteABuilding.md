@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Building**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Building**.
 
 2.  Click the name of the building you want to delete.
 
@@ -31,9 +31,5 @@ Role required: admin
     If the building has any floors defined for it, a warning box opens and identifies the floors. Delete the floors before deleting the building.
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

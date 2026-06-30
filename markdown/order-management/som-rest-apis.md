@@ -12,7 +12,7 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 # Sales Customer Relationship Management REST APIs
 
-[[order-mgt-overview|Sales Customer Relationship Management]] \(Sales CRM\) APIs provide endpoints to create and manage Sales CRM entities such as leads, quotes, and orders from external systems.
+Sales Customer Relationship Management \(Sales CRM\) APIs provide endpoints to create and manage Sales CRM entities such as leads, quotes, and orders from external systems.
 
 |REST API|Description|
 |--------|-----------|
@@ -22,9 +22,9 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 |[Sales CRM Pricing API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/sales-crm-pricing-api.md)|The Sales CRM Pricing API provides endpoints to create, update, and retrieve pricing records.|
 |[Product Inventory Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/product-inventory-open-api.md)|The Product Inventory Open API provides endpoints to create and retrieve product inventories.|
 |[Sales Agreement API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/sales_agreement-api.md)|The Sales Agreement API provides methods for creating a new sales agreement and retrieving an existing sales agreement of a given sys\_id.|
-|[Work Order Management API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/work-order-mgmt-api.md)|The Work [[explore-order-management|Order Management]] API provides endpoints to create, update, and retrieve work orders.|
+|[Work Order Management API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/work-order-mgmt-api.md)|The Work Order Management API provides endpoints to create, update, and retrieve work orders.|
 
-**Parent Topic:**[[som-reference|Sales Customer Relationship Management reference]]
+**Parent Topic:**[Sales Customer Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-reference.md)
 
 **Related topics**  
 
@@ -35,8 +35,3 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 [API implementation and reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/api-implementation-reference.md)
 
-## Related
-
-- [[som-reference|Sales Customer Relationship Management reference]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[explore-order-management|Order management]]

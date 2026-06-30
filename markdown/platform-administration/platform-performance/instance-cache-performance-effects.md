@@ -18,13 +18,10 @@ Minimize actions that purge and rebuild the instance cache during core business 
 
 Performance degrades whenever you purge and rebuild the instance cache. During core business hours, avoid or minimize any of the following actions that purge and rebuild the instance cache.
 
--   Adding or updating [[r_SetArchiveRuleProcessingBehavior|system properties]]
+-   Adding or updating system properties
 -   Adding or updating dictionary entries
 -   Committing update sets
 -   Adding or updating translations
 
 **Parent Topic:**[Resolving platform performance issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-plat-performance-issues.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

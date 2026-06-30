@@ -20,13 +20,13 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Select a context for the AI search.
 
     If a message appears about the application scope, select **here** to be able to edit the record.
 
-3.  In the **Search Application Configuration** field, select the Lookup using list icon \[Omitted image "lookup-list.jpg"\] Alt text: Lookup using list icon and select either the base system [[csm-workspaces-configure|CSM Configurable Workspace]] Search Config or a custom configuration that specifies AI search as the search engine and contains your desired search settings.
+3.  In the **Search Application Configuration** field, select the Lookup using list icon \[Omitted image "lookup-list.jpg"\] Alt text: Lookup using list icon and select either the base system CSM Configurable Workspace Search Config or a custom configuration that specifies AI search as the search engine and contains your desired search settings.
 
     You can configure the search result display and refinement settings in the search application configuration. For more information, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/defining-search-app-cfgs-ais.md).
 
@@ -128,7 +128,4 @@ Search query term: When an agent searches in the AI Search tab of the Recommende
 </td></tr></tbody>
 </table>10. Select **Update**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

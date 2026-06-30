@@ -16,17 +16,17 @@ breadcrumb: [Configure fundamentals, Performance Analytics \(Indicator data sour
 
 You can aggregate changes in indicators into discrete time intervals. These aggregations can make trends more easily visible, or help track progress against a target.
 
-A time series aggregation consists of a math function, such as AVG or SUM, combined with a time formula, such as By quarter. In [[c_performanceAnalyticsAndReporting|Platform Analytics]], you can select an aggregation when exploring an indicator in [[select-time-series-aggregation|KPI Details]] or when creating a data visualization for an indicator data source, such as a [[config-dv-time-series-ind-data|time series visualization]]. In the Core UI, you can select an aggregation either in the [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/scorecard-overview-tab.md) or when creating a Performance Analytics widget such as a [score widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-latest-score-widget.md).
+A time series aggregation consists of a math function, such as AVG or SUM, combined with a time formula, such as By quarter. In Platform Analytics, you can select an aggregation when exploring an indicator in [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-time-series-aggregation.md) or when creating a data visualization for an indicator data source, such as a [time series visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-ind-data.md). In the Core UI, you can select an aggregation either in the [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/scorecard-overview-tab.md) or when creating a Performance Analytics widget such as a [score widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-latest-score-widget.md).
 
 To understand time series aggregations, first consider a watch, phone, or fitness tracker that keeps tabs on how many steps they walked each day. These devices all collect and save your measurements on a minute by minute basis. However, the apps and reports are often designed to show how your activity is progressing compared to last week, last month, or last year. It’s one thing to see if you were more active at noon versus 10 am. What you really want to know, however, is whether you’re continuing to improve over time. Aggregating your steps into weekly, monthly, and yearly scores gives you an easier way to identify trends in your activity.
 
-While daily indicator scores are foundational and almost always desired, sometimes you also want to have the scores available by week, month, or quarter. In other cases, you want to have a month/quarter/year-to-date number that shows cumulative progress up until the current point. Instead of defining multiple [[c_IndicatorSources|indicator sources]] and indicators to track each interval, Performance Analytics natively allows you to capture the data once and then adjust the view. Use a time series aggregation for any of these scenarios:
+While daily indicator scores are foundational and almost always desired, sometimes you also want to have the scores available by week, month, or quarter. In other cases, you want to have a month/quarter/year-to-date number that shows cumulative progress up until the current point. Instead of defining multiple indicator sources and indicators to track each interval, Performance Analytics natively allows you to capture the data once and then adjust the view. Use a time series aggregation for any of these scenarios:
 
 -   Aggregate the data to a less frequent period with a Period time series.
 -   Smooth out spikes in the data to reveal trends with a Running time series.
 -   Determine a period-to-date cumulative score with a To date time series.
 
-**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget or [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] entry for an indicator that uses such a calendar.
+**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget or Analytics Hub entry for an indicator that uses such a calendar.
 
 For examples and a deeper exploration of using time series aggregations with indicators, see this Performance Analytics Academy video, [Leveraging Time Series with Performance Analytics](https://youtu.be/aM6JtUndRYk).
 
@@ -52,7 +52,7 @@ You are not allowed to put a SUM aggregation on an indicator with percentage % a
 
 ## Validation of time series aggregations
 
-Time series aggregations are validated on the Analytics Hub and in [[kpi-details|KPI Details]] but not in [[widgets|widgets]]. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
+Time series aggregations are validated on the Analytics Hub and in KPI Details but not in widgets. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
 
 ## Excluding time series aggregations for an indicator
 
@@ -226,12 +226,3 @@ The following table shows which time series are supported for which indicator fr
 |Quarter to date, fiscal quarter to date|Yes|No|Yes|No|
 |Year to date, fiscal year to date|Yes|Yes|Yes|Yes|
 
-## Related
-
-- [[select-time-series-aggregation|Select time aggregation in KPI Details]]
-- [[config-dv-time-series-ind-data|Indicator data options for time series data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]

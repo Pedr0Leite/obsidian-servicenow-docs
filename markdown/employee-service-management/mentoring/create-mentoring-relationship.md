@@ -18,7 +18,7 @@ As a manager, create a mentoring relationship between two of your employees.
 
 ## Before you begin
 
-Role required: sn\_ecn.[[mentoring-egd-overview|mentoring]]\_admin
+Role required: sn\_ecn.mentoring\_admin
 
 ## Procedure
 
@@ -26,13 +26,10 @@ Role required: sn\_ecn.[[mentoring-egd-overview|mentoring]]\_admin
 
 2.  Select **New**.
 
-3.  On the [[mentoring-relationship-form|Mentoring relationship form]], fill in the fields.
+3.  On the Mentoring relationship form, fill in the fields.
 
     For a description of the field values, see [Mentoring relationship form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/mentoring-relationship-form.md).
 
 4.  Select **Save**.
 
-## Related
 
-- [[mentoring-egd-overview|Mentoring]]
-- [[mentoring-relationship-form|Mentoring relationship form]]

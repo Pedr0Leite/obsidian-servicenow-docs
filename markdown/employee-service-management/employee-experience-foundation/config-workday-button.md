@@ -14,7 +14,7 @@ breadcrumb: [Workday approvals in Now Mobile, Configuring Employee Center for mo
 
 # Configure Workday approval functions for Now Mobile
 
-Configure the approve and reject buttons for all the Workday approval task types. Complete all your approval tasks in the [[mobile-employee-experience|Now Mobile app]].
+Configure the approve and reject buttons for all the Workday approval task types. Complete all your approval tasks in the Now Mobile app.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Approve and reject buttons are displayed on the configured approval task types i
 
 **Parent Topic:**[Workday approvals in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-workday-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

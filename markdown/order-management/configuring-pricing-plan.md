@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Configurable pricing plans
 
-[[pricing-management|Pricing Management]] provides a default pricing plan that defines the sequence of steps in which pricing calculations and adjustments are applied to determine final product prices.
+Pricing Management provides a default pricing plan that defines the sequence of steps in which pricing calculations and adjustments are applied to determine final product prices.
 
 ## How the pricing plan works
 
@@ -20,7 +20,7 @@ The default pricing plan is an active, published plan that is automatically impl
 
 **Note:** The Pricing Management v15.0.0 release provides a default pricing plan that includes new steps to support pricing strategies introduced in this release. If you're using a custom pricing plan from an earlier release, review the default pricing plan, which is in a Retired state after you upgrade. Determine whether you want to publish the default plan or customize the default pricing plan for your needs. If you're customizing the plan:
 
--   Review the new steps for calculating net pricing in quotes and orders: Net Price Calculation, Line Rollup, and Header Rollup. The rollup steps calculate the roll-up values for [[configurable-products-explore|configurable products]] and the header-level values in quotes and orders. This pricing functionality for quotes and orders existed in previous releases, but was not included in the default pricing plan.
+-   Review the new steps for calculating net pricing in quotes and orders: Net Price Calculation, Line Rollup, and Header Rollup. The rollup steps calculate the roll-up values for configurable products and the header-level values in quotes and orders. This pricing functionality for quotes and orders existed in previous releases, but was not included in the default pricing plan.
 -   To maintain the net pricing and rollup functionality for quotes and orders, retain the Net Price Calculation, Line Rollup, and Header Rollup steps in your custom pricing plan.
 
 \[Omitted image "default-pricing-plan-q42025.png"\] Alt text: Sequence of steps in the default pricing plan, described in the following table
@@ -57,7 +57,7 @@ Fetch Base Cost
 
 </td><td>
 
-Get costs from a [[create-cost-books|cost book]], if your organization is using cost books in [[quote-management|Quote Management]].
+Get costs from a [cost book](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cost-books.md), if your organization is using cost books in Quote Management.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Fetch Base List Price
 
 </td><td>
 
-Get the list price for all requested products based on the [[som-create-price-list|price list]], unit of measurement, and data provided to the pricing API.
+Get the list price for all requested products based on the [price list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-price-list.md), unit of measurement, and data provided to the pricing API.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Apply Renewal Adjustment
 Apply a renewal adjustment for contracts. This step determines whether a markup or markdown value, either a percentage or specific amount, such as a pricing uplift for contract renewals, is to be calculated and applied. **Note:**
 
 -   Subsequent pricing adjustment steps in the pricing plan aren’t applied after this renewal adjustment step.
--   You can change or remove this step in a custom pricing plan. You can also change the conditions for running subsequent steps after the renewal adjustment step. For details on changing conditions for a particular step, see [[add-pricing-step|Add or change a pricing plan step]].
+-   You can change or remove this step in a custom pricing plan. You can also change the conditions for running subsequent steps after the renewal adjustment step. For details on changing conditions for a particular step, see [Add or change a pricing plan step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-pricing-step.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Line Rollup
 
 </td><td>
 
-Calculates the cumulative pricing [[fields|fields]] in quote and order lines that are rolled up to the parent line of bundled products.
+Calculates the cumulative pricing fields in quote and order lines that are rolled up to the parent line of bundled products.
 
 </td></tr><tr><td>
 
@@ -173,20 +173,9 @@ The default pricing plan is fixed, to preserve the default pricing logic. You ca
 
 As a pricing admin or manager, follow these steps to define a custom pricing plan:
 
--   [[create-custom-pricing-plan|Create a configurable pricing plan]] \(copy the default plan\).
+-   [Create a configurable pricing plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-custom-pricing-plan.md) \(copy the default plan\).
 -   [Add or change a pricing plan step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-pricing-step.md). In your configurable pricing plan, you can add one or more pricing steps for pricing adjustments, including any conditions for running the step. If needed, you can also change the sequence of the adjustment step.
--   [[delete-pricing-plan-step|Delete a pricing plan step]], if needed.
+-   [Delete a pricing plan step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/delete-pricing-plan-step.md), if needed.
 
 As you add or change pricing steps, the system validates your entries, such as the sequence number, price point, and calculation type. When you finish adding or changing steps, publish the configurable pricing plan to make it active. The former active plan is retired.
 
-## Related
-
-- [[create-cost-books|Create and publish a cost book]]
-- [[som-create-price-list|Create and publish a price list]]
-- [[add-pricing-step|Add or change a pricing plan step]]
-- [[create-custom-pricing-plan|Create a configurable pricing plan]]
-- [[delete-pricing-plan-step|Delete a pricing plan step]]
-- [[pricing-management|Pricing Management]]
-- [[configurable-products-explore|Configurable products]]
-- [[quote-management|Quote Management]]
-- [[fields|Fields]]

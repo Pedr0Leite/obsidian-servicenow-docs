@@ -14,10 +14,10 @@ breadcrumb: [Document Management, Document Services, Manage content capabilities
 
 # References
 
-The following sections describe the installed components and roles for [[doc-management-landing|Document Management]], along with [[domain-separation-relationship-formatter-editor|domain separation]] and supported browser information.
+The following sections describe the installed components and roles for Document Management, along with domain separation and supported browser information.
 
 -   **[Components installed with Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/installed-with-doc-mgmt.md)**  
-Several types of components are installed with activation of the [[doc-mgt-plugin|Document Management plugin]], including tables and user roles.
+Several types of components are installed with activation of the Document Management plugin, including tables and user roles.
 -   **[Document Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-management-roles.md)**  
 Document Management is installed with these roles.
 -   **[Domain separation and Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/domain-separation-document-services.md)**  
@@ -27,8 +27,3 @@ Granular admin roles enable organizations to assign specific administrative perm
 
 **Parent Topic:**[Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-management-landing.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[doc-mgt-plugin|Document Management plugin]]

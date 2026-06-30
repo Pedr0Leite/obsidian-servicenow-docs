@@ -27,7 +27,7 @@ Using the Wrap-up and resolve incident agentic workflow:
 4.  Check for relevant available KB articles and attach any of them to the incident record.
 5.  Create a draft KB and attach it to the incident record if necessary.
 
-To modify the Wrap-up and resolve incident agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Wrap-up and resolve incident agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify an agentic workflow, AI agent, or a tool, make sure that you update all instructions accordingly.
 
@@ -88,7 +88,7 @@ Searches for and recommends similar KE articles if the resolution code is Known 
 
 To use the Wrap-up and resolve incident agentic workflow, you must confirm or perform the following:
 
-1.  The Now Assist for [[r_ITServiceManagement|IT Service Management]] plugin \(sn\_itsm\_gen\_ai\) plugin is installed and configured.
+1.  The Now Assist for IT Service Management plugin \(sn\_itsm\_gen\_ai\) plugin is installed and configured.
 2.  Navigate to **All** &gt; **Now Assist admin** &gt; **Skills** and enable the following skills and options:
 
     1.  On the **Now Assist skills** tab, select **ITSM** and then activate the Resolution notes generation and KB generation skill. For more information, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-skills.md).
@@ -133,7 +133,3 @@ Based on the query, the different AI agents work on the incident record. Dependi
 
 For example, when generating resolution notes, adding resolution notes and codes or updating duplicate incident information to the incident record, the Incident resolution details AI agent is used. For more information on how to query using the Now Assist panel, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[r_ITServiceManagement|IT Service Management]]

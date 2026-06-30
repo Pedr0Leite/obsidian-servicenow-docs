@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Improve resource usage with Business hours
 
-Improve resource usage and reduce your cloud spend by running resources during the specified [[bh-cloudin|business hours]].
+Improve resource usage and reduce your cloud spend by running resources during the specified business hours.
 
 Use the Business hours recommendation page to:
 
@@ -22,7 +22,7 @@ Use the Business hours recommendation page to:
 -   [Configure Business hours operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bh-settings-config-cloudin.md) by selecting **Settings**.
 -   [Define or update Business hours processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bh-policy-create-cloudin.md)
 
-\[Omitted image "buis-hrs-rec-ws.png"\] Alt text: Business hours recommendations in [[ci-workspace|Cloud Cost Management Workspace]].
+\[Omitted image "buis-hrs-rec-ws.png"\] Alt text: Business hours recommendations in Cloud Cost Management Workspace.
 
 |Chart|Description|
 |-----|-----------|
@@ -108,7 +108,7 @@ Excluded
 
 </td><td>
 
-Resources that are configured not to be considered for business hours.**Important:** After an [[um-cloudin|Unused resources]] job powers off a machine, the machine is added to the Excluded Resources list for Business Hours. This process ensures that the resource isn't started again in the future because it matches a Business hours policy. The exclusion reason on the Business hours **Excluded** tab indicates that the resource is an unused resource.
+Resources that are configured not to be considered for business hours.**Important:** After an Unused resources job powers off a machine, the machine is added to the Excluded Resources list for Business Hours. This process ensures that the resource isn't started again in the future because it matches a Business hours policy. The exclusion reason on the Business hours **Excluded** tab indicates that the resource is an unused resource.
 
 </td><td>
 
@@ -245,8 +245,3 @@ A Business hours job applies policies to identify resources that are running whe
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[um-cloudin|Unused resources]]

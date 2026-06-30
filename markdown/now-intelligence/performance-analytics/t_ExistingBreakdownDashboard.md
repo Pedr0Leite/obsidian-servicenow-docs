@@ -14,7 +14,7 @@ breadcrumb: [Using breakdowns on dashboards, Indicator breakdowns, Configure fun
 
 # Add breakdown sources to a dashboard
 
-To enable dashboard users to filter visualizations on a dashboard by breakdown element, add [[breakdown-sources|breakdown sources]] to the dashboard.
+To enable dashboard users to filter visualizations on a dashboard by breakdown element, add breakdown sources to the dashboard.
 
 ## Before you begin
 
@@ -51,8 +51,8 @@ The breakdown sources are available on the dashboard. Users can group the dashbo
 
 ## What to do next
 
--   You can configure the entries in the Breakdown Source related list so that reports on the dashboard can use the breakdown sources as [[c_HomepagePublishers|interactive filters]]. You first create interactive filters that are based on the same tables as the breakdown sources. For more information, see [Make a breakdown act as an interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/make-breakdown-interactive-filter.md).
--   Configure the [[c_Widgets|Performance Analytics widgets]] on the dashboard so that users can filter them by selecting breakdown elements on the dashboard. For more information, see [Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/set-up-widgets-for-breakdown-dashboards.md).
+-   You can configure the entries in the Breakdown Source related list so that reports on the dashboard can use the breakdown sources as interactive filters. You first create interactive filters that are based on the same tables as the breakdown sources. For more information, see [Make a breakdown act as an interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/make-breakdown-interactive-filter.md).
+-   Configure the Performance Analytics widgets on the dashboard so that users can filter them by selecting breakdown elements on the dashboard. For more information, see [Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/set-up-widgets-for-breakdown-dashboards.md).
 
 
 **Parent Topic:**[Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md)
@@ -60,7 +60,7 @@ The breakdown sources are available on the dashboard. Users can group the dashbo
 **Related topics**  
 
 
-[Configure [[widgets|widgets]] for breakdown dashboards]()
+[Configure widgets for breakdown dashboards]()
 
 [Showing multiple elements separately or aggregated]()
 
@@ -68,9 +68,3 @@ The breakdown sources are available on the dashboard. Users can group the dashbo
 
 [Showing breakdown relations on dashboards]()
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[widgets|Widgets]]

@@ -22,7 +22,7 @@ Role required: admin
 
 1.  In your push notification record, click **Create Push Message Content** in the **Related Links** section.
 
-    If you are not already in this record, Navigate to **System Mobile** &gt; **[[sg-mobile-push-notifications|Mobile Push Notifications]]** &gt; **[[sg-mobile-security-push-notif|Push Notifications]]**, and open the notification you created in previous steps.
+    If you are not already in this record, Navigate to **System Mobile** &gt; **Mobile Push Notifications** &gt; **Push Notifications**, and open the notification you created in previous steps.
 
 2.  In the **Push Notification Message Content** form, fill in the fields.
 
@@ -36,10 +36,5 @@ Role required: admin
 3.  Click **Submit**.
 
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

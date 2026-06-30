@@ -14,22 +14,14 @@ breadcrumb: [Service Administration, Manage service capabilities, Extend Service
 
 Configure settings for services that support business applications or the platform.
 
--   **[[assessments-surveys-landing-page|Assessments and Surveys]]**  
-The Assessments and Surveys application helps you create, send, and collect responses for [[r_SurveyManagementLandingPage|surveys]]. The application also helps you evaluate, score, and rank records from any table in the system.
+-   **[Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)**  
+The Assessments and Surveys application helps you create, send, and collect responses for surveys. The application also helps you evaluate, score, and rank records from any table in the system.
 -   **[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)**  
-[[r_Approvals|Classic approvals]] are a legacy process to require authorization on tasks before the work is done. In earlier releases, you could create approval records to define approval tasks and associate users or groups to approve or reject them.
--   **[[c_StateFlows|State flows]]**  
+Classic approvals are a legacy process to require authorization on tasks before the work is done. In earlier releases, you could create approval records to define approval tasks and associate users or groups to approve or reject them.
+-   **[State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)**  
 State flows enable an administrator to customize transitions from one state to another in tables derived from the Task \[task\] table and configure the system to perform work during transitions to specific states.
--   **[[c_Geolocation|Geolocation]]**  
+-   **[Geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Geolocation.md)**  
 The geolocation feature uses Google Maps to track users, plan efficient routes between locations, and assist in finding accurate travel times for applications that require this information, such as Work Management.
 
-**Parent Topic:**[[service-administration-landing|Service Administration]]
+**Parent Topic:**[Service Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-administration-landing.md)
 
-## Related
-
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[c_StateFlows|State flows]]
-- [[c_Geolocation|Geolocation]]
-- [[service-administration-landing|Service Administration]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Approvals|Classic approvals]]

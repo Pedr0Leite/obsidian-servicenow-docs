@@ -20,8 +20,5 @@ Task-driven processing means that the work order or request simply contains a li
 
 Request-driven processing means that tasks are assigned to a request, but closing all the tasks does not automatically close the request. A request does not require any tasks and can be opened and closed independently. Any tasks can be transitioned and assigned independently and to different agents than specified on the request. Even if all tasks are closed, the request can remain open and continue to be worked on. However, the request cannot be closed until all tasks are also closed. In request-driven processing, state transitions are based solely on the request.
 
-**Parent Topic:**[[t_ConfigureFacilities|Configure Facilities Service Management]]
+**Parent Topic:**[Configure Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ConfigureFacilities.md)
 
-## Related
-
-- [[t_ConfigureFacilities|Configure Facilities Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure, Service Graph Connectors, Integrating third-party 
 
 # Configure Service Graph Connector for Microsoft Azure using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] for pulling in Microsoft Azure data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Microsoft Azure for pulling in Microsoft Azure data into the CMDB.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 The connector uses the Azure Management APIs for the complete pull of data from Azure. However, to pull delta changes from Azure, the Azure Resource Graph APIs are used. The domain name system \(DNS\) is Microsoft Azure Management, but the path is a resource graph.
 
@@ -51,7 +51,7 @@ The connector uses the Azure Management APIs for the complete pull of data from 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the Azure environment.
 
@@ -68,7 +68,7 @@ The connector uses the Azure Management APIs for the complete pull of data from 
 
         If needed, expand the **Setup** stage to select an activity.
 
-    2.  To import both hardware and software data, select the **Hardware and software** [[check-box|check box]].
+    2.  To import both hardware and software data, select the **Hardware and software** check box.
 
         **Note:** Importing software data requires a hardware connection.
 
@@ -104,7 +104,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to your Azure client application. **Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
+Base URL to connect to your Azure client application. **Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
 
 </td></tr><tr><td>
 
@@ -322,13 +322,3 @@ Select **View all connections** to review the connection details. The created co
 
 [Additional features within the Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-azure-add-features.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]
-- [[c_Connect|Connect]]

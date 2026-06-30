@@ -20,17 +20,17 @@ Create a definition for the Advanced Promotion Engine so that you can define the
 
 IT Alerts appear in the Express List and are addressed by an operator.
 
-Only metrics that are associated with a metric configuration rule that has **Anomaly score level = Anomaly alerts** are considered for promotion to IT alerts. For details on [[metric-configuration-rule|metric configuration rules]], see [Metric Configuration Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/metric-configuration-rule.md).
+Only metrics that are associated with a metric configuration rule that has **Anomaly score level = Anomaly alerts** are considered for promotion to IT alerts. For details on metric configuration rules, see [Metric Configuration Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/metric-configuration-rule.md).
 
 ## Before you begin
 
-Ensure that the [[operational-metrics|Metric Intelligence]] plugin \(com.snc.sa.metric\) is installed.
+Ensure that the Metric Intelligence plugin \(com.snc.sa.metric\) is installed.
 
 Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-promotion-engine|Advanced Promotion Engine]]** &gt; **Advanced Promotion Definitions**.
+1.  Navigate to **All** &gt; **Advanced Promotion Engine** &gt; **Advanced Promotion Definitions**.
 
 2.  Select **New**.
 
@@ -111,8 +111,3 @@ Ensure that the a metric configuration rule exists which includes metrics you wa
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[metric-configuration-rule|Metric Configuration Rules]]
-- [[operational-metrics|Metric Intelligence]]
-- [[advanced-promotion-engine|Advanced Promotion Engine]]

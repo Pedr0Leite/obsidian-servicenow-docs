@@ -16,21 +16,21 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 Dynamic topic pages are topic pages that are dynamically configured using content tagged to a unified taxonomy across all departments.
 
-These topic pages are separate portal pages that open when a user clicks a topic either from the mega menu navigation or from popular topics. Dynamic topic pages are not part of the home page.​ You can navigate to these pages from the mega menu or popular topic widgets. These pages are designed to provide a consistent experience across topics and channels in both web and [[mobile-employee-experience|Now Mobile app]].
+These topic pages are separate portal pages that open when a user clicks a topic either from the mega menu navigation or from popular topics. Dynamic topic pages are not part of the home page.​ You can navigate to these pages from the mega menu or popular topic widgets. These pages are designed to provide a consistent experience across topics and channels in both web and Now Mobile app.
 
-Topic pages are available on the [[ecbe-intro|Browser Extension for Employee Center]]. For more information, see [Browser Extension for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecbe-intro.md).
+Topic pages are available on the Browser Extension for Employee Center. For more information, see [Browser Extension for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecbe-intro.md).
 
 The dynamic topic pages are categorized into:
 
 -   **Topic Pages without Employee Communication content**
 
-    Dynamically generated topic pages that bring together different types of content, such as request, articles, and [[emp-center-quick-link-config|quick links]] to provide a new and improved browse experience. These pages are available to all customers by default.
+    Dynamically generated topic pages that bring together different types of content, such as request, articles, and quick links to provide a new and improved browse experience. These pages are available to all customers by default.
 
     \[Omitted image "ec-topic-page.jpg"\] Alt text: Topic page without employee communication content
 
 -   **Topic Pages with Employee Communication content**
 
-    Dynamically generated topic pages that bring together different types of content, such as request, article, quick links, and employee communication to provide a new and richer browse experience. The employee communication content is made available only after you install the [[employee-center-pro-landing|Employee Center Pro]] application that is licensed separately.
+    Dynamically generated topic pages that bring together different types of content, such as request, article, quick links, and employee communication to provide a new and richer browse experience. The employee communication content is made available only after you install the Employee Center Pro application that is licensed separately.
 
     \[Omitted image "ecpro-topic-pages.jpg"\] Alt text: Topic pages with employee communication content
 
@@ -39,9 +39,3 @@ Set up the content taxonomy and associate content to topics. If you have install
 
 For more information on creating content for your dynamic topic page, see [Microsites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content.md). **Rich Content Editor** allows you to create and schedule rich, long form content using a drag-and-drop method and designed for non-technical users that create content. You can also create content from the [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md) and use the base system from [Create a content category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-cat.md).
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-pro-landing|Employee Center Pro]]

@@ -16,7 +16,7 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 The EMR Help data model enables clinicians to submit service requests on your ServiceNow instance from an EMR system.
 
-The EMR Help data model accesses only the EMR system data required to make the [[emr-exploring|EMR Help]] application work.
+The EMR Help data model accesses only the EMR system data required to make the EMR Help application work.
 
 The following diagram shows the tables and their columns, and the relationships between each table, that comprise the EMR Help data model.
 
@@ -32,6 +32,3 @@ The EMR Help data model uses a combination of tables to store data:
     -   [EMR Request Data table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-emr-incident-data.md)
     -   [Request configuration mapping table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-request-configuration-mapping.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

@@ -16,9 +16,9 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 This activity verifies if a user exists in an SCCM user collection.
 
-The Is User in Collection activity uses the [PowerShell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to verify if a specific user exists in an SCCM user collection. The activity is configured to use a [[mid-server-landing|MID Server]] with PowerShell capabilities and to run a MID Server script called IsUserInCollection.ps1 to perform the test.
+The Is User in Collection activity uses the [PowerShell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to verify if a specific user exists in an SCCM user collection. The activity is configured to use a MID Server with PowerShell capabilities and to run a MID Server script called IsUserInCollection.ps1 to perform the test.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
 ## Input variables
 
@@ -45,7 +45,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

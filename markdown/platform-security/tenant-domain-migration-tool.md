@@ -16,9 +16,9 @@ Use the Domain Migration Tool to move a customer from a domain-separated environ
 
 ## Domain Migration Tool plugin
 
-The Domain Migration Tool plugin \(com.glide.domain.migration\_tool\) simplifies the task of moving a customer from a domain-separated environment to a more flexible dedicated instance. Customers may want to migrate to a separate instance to take greater advantage of the ServiceNow AI Platform capabilities. Although the [[domain-sep-plugin|Domain Separation plugin]] is installed, the data and process separation properties are turned off.
+The Domain Migration Tool plugin \(com.glide.domain.migration\_tool\) simplifies the task of moving a customer from a domain-separated environment to a more flexible dedicated instance. Customers may want to migrate to a separate instance to take greater advantage of the ServiceNow AI Platform capabilities. Although the Domain Separation plugin is installed, the data and process separation properties are turned off.
 
-**Note:** You must [[c_requestAPI|request]] a cloned instance and request activation of the Domain Migration Tool plugin before you can use it.
+**Note:** You must request a cloned instance and request activation of the Domain Migration Tool plugin before you can use it.
 
 The Domain Migration Tool runs only if both data and process separation are enabled in the domain-separated instance:
 
@@ -40,7 +40,7 @@ The Domain Migration Tool runs only if both data and process separation are enab
     -   Business rules
     -   UI actions
     -   Scheduled jobs
-    -   [[r_InstallationExits|Installation exits]]
+    -   Installation exits
     -   Navigation modules
 -   Disables domain separation and removes domains from the cloned instance:
     -   Sets these properties to **false** in the cloned instance:
@@ -52,14 +52,14 @@ The Domain Migration Tool runs only if both data and process separation are enab
 
     |Status|Description|
     |------|-----------|
-    |Pending|Default status of [[domain-separated-tables|domain separated tables]] during migration. The tables are scheduled to be migrated, but have not yet started the migration.|
+    |Pending|Default status of domain separated tables during migration. The tables are scheduled to be migrated, but have not yet started the migration.|
     |Failure|Table level failure. If the migration process is finished with errors, this status indicates which tables have errors.|
     |Running|The status of the table that is currently migrating. Only one table can have this status and currently migrating.|
     |Successful|The status of the tables that have successfully migrated.|
     |Finished successfully|The migration process is finished without errors.|
     |Finished with errors|The migration process is finished with errors.|
 
--   [[logs|Logs]] progress and status to syslog\_domain
+-   Logs progress and status to syslog\_domain
 
     The source is **MigrationTool** for all log entries associated with migration.
 
@@ -88,9 +88,9 @@ Role required: admin
 
 ### Procedure
 
-1.  Elevate to the [[security-admin-role|security\_admin role]].
+1.  Elevate to the security\_admin role.
 
-    See [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]] for details.
+    See [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md) for details.
 
 2.  Navigate to **All** &gt; **Domain Admin** &gt; **Domain Migration Tool**.
 
@@ -109,9 +109,9 @@ Role required: admin
 
 6.  Open the form you just submitted.
 
-7.  Navigate to **All** &gt; **Domain Separation Center** &gt; **[[configure-domain-separation-audits|Configure Audits]]** .
+7.  Navigate to **All** &gt; **Domain Separation Center** &gt; **Configure Audits** .
 
-    See [[domain-separation-center|Domain Separation Center]] for additional information.
+    See [Domain Separation Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separation-center.md) for additional information.
 
 8.  Set the **Validate Domain Separated Table Schema** audit to **Active** and assign a schedule.
 
@@ -119,7 +119,7 @@ Role required: admin
 
 9.  Run the **Audit Schedule** that includes the schema.
 
-    See [[execute-audits-immediately|Execute audits immediately]] for details.
+    See [Execute audits immediately](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/execute-audits-immediately.md) for details.
 
 10. Address issues returned from the audit.
 
@@ -206,15 +206,4 @@ Displays the name of the table that is currently being migrated. After successfu
 
     The **Status** is **Finished Successfully** when the migration is complete. \[Omitted image "migration-successful.png"\] Alt text: Shows successful migration status.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[domain-separation-center|Domain Separation Center]]
-- [[execute-audits-immediately|Execute audits immediately]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[c_requestAPI|request]]
-- [[r_InstallationExits|Installation exits]]
-- [[domain-separated-tables|Domain Separated Tables]]
-- [[logs|Logs]]
-- [[security-admin-role|Security\_admin role]]
-- [[configure-domain-separation-audits|Configure audits]]

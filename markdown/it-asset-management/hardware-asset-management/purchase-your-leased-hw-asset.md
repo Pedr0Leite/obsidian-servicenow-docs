@@ -24,11 +24,11 @@ Role required: asset, itil, contract\_manager, inventory\_admin, or ham\_admin
 
 After you choose to buy out your leased asset, various Contract Asset tasks are created to take care of the purchase process for leased assets. Close each task to go to the next task and to complete the process.
 
-**Note:** To close the Buyout tasks, the Purchase order that is created for the leased asset must be approved by the [[c_Procurement|Procurement]] manager.
+**Note:** To close the Buyout tasks, the Purchase order that is created for the leased asset must be approved by the Procurement manager.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **Leases**.
+1.  Navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Leases**.
 
 2.  Click the Leased Assets related list.
 
@@ -88,7 +88,3 @@ After a buyout is confirmed, the following changes occur in the asset record und
 
 **Parent Topic:**[Manage your expiring contracts for leased hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-leased-hw-asts-expiring-contract.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_Contracts|Contracts]]

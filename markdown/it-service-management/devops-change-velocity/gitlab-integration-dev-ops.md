@@ -23,7 +23,7 @@ Versions supported:
 -   On premises - base version 13.x and above
 -   GitLab Cloud
 
-[[devops-landing-page-new|DevOps Change Velocity]] supports Plan \(Issues\), Code \(Repository\) and Orchestration \(Pipelines\) capabilities for the GitLab tool. In case of pipelines, only basic pipelines are supported but not the multi-project ones.
+DevOps Change Velocity supports Plan \(Issues\), Code \(Repository\) and Orchestration \(Pipelines\) capabilities for the GitLab tool. In case of pipelines, only basic pipelines are supported but not the multi-project ones.
 
 -   **Connect**: Discover plans, repositories, and pipeline definitions by connecting your GitLab instances to DevOps Change Velocity.
 -   **Configure**: Enable sending real-time notifications for commits, pipelines, and work items by automatically creating a webhook in GitLab so that this data can be used to create change policies.
@@ -71,6 +71,3 @@ Create an GitLab tool record in DevOps Change Velocity to connect, discover, and
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

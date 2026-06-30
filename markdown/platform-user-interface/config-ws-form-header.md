@@ -64,12 +64,10 @@ One form header configuration is included with each workspace. You can use this 
 
     3.  From the Workspace Form Headers related list, select **Edit**.
 
-        **Note:** You may need to [[configure-onboarding-modals|configure]] the form to display the Workspace Form Headers related list.
+        **Note:** You may need to configure the form to display the Workspace Form Headers related list.
 
     4.  Add the form header.
 
     5.  Select **OK**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

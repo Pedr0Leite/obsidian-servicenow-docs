@@ -16,9 +16,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use a system property to enable the role masking feature.
 
-Use the **[[identity-landing|identity]].agent.role\_masking.enabled** system property to enable the role masking feature. Role masking limits the roles that an AI agent uses when executing tasks. This [[sc-configuration|configuration]] helps to prevent unnecessary access to resources not needed within the context of an agent. When this property isn't set to `true`, agents automatically inherit all roles from the user invoking them, potentially increasing the risk of privilege escalation and accidental data exposure.
+Use the **identity.agent.role\_masking.enabled** system property to enable the role masking feature. Role masking limits the roles that an AI agent uses when executing tasks. This configuration helps to prevent unnecessary access to resources not needed within the context of an agent. When this property isn't set to `true`, agents automatically inherit all roles from the user invoking them, potentially increasing the risk of privilege escalation and accidental data exposure.
 
-Ensure that the **identity.agent.role\_masking.enabled** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to a value of `true`.
+Ensure that the **identity.agent.role\_masking.enabled** system property exists in the System Properties \[sys\_properties\] table and is set to a value of `true`.
 
 ## More information
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

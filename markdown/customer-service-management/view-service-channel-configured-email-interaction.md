@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # View the service channel configured with Email Interaction for CSM
 
-View the service channel configured during the installation of the [[email-as-an-interaction|Email Interaction]] for CSM application. This service channel facilitates the routing of email interactions through Advanced Work Assignment.
+View the service channel configured during the installation of the Email Interaction for CSM application. This service channel facilitates the routing of email interactions through Advanced Work Assignment.
 
 ## Before you begin
 
@@ -25,6 +25,4 @@ Role required: admin
 
 2.  View the **Email** service channel.
 
-## Related
 
-- [[email-as-an-interaction|Email Interaction]]

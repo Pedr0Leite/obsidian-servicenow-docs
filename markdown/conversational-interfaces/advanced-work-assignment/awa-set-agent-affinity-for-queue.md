@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Set Agent Affinity rules
 
-Specify the Agent Affinity rules to determine the order in which [[awa-work-items|work items]] in a queue are sorted.
+Specify the Agent Affinity rules to determine the order in which work items in a queue are sorted.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
@@ -66,7 +66,4 @@ Value of this rule relative to the other rules in the queue. Rules are ordered f
 
     You can specify a maximum of three Agent Affinity rules per queue.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

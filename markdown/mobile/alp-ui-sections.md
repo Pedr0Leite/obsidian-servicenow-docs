@@ -12,7 +12,7 @@ breadcrumb: [Launcher screens, Mobile app components, Building mobile apps, Mobi
 
 # Launcher screen UI sections
 
-UI sections contain the screens, analytics previews, and record information on your [[sg-mobile-applet-launcher|launcher screens]].
+UI sections contain the screens, analytics previews, and record information on your launcher screens.
 
 ## UI sections
 
@@ -30,7 +30,7 @@ An analytics section helps you to visualize your data. Use the two sub-types, **
 
  **Chart** and **Single Score** previews are displayed as cards. When a user taps a chart, they open the analytics screen which displays more information on the report or widget.
 
- For information on configuring analytics sections see [[sg-ui-section-config-reports|Configure an analytics UI section]].
+ For information on configuring analytics sections see [Configure an analytics UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-reports.md).
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ An analytics section helps you to visualize your data. Use the two sub-types, **
 
 </td><td>
 
-Use a **Content** section to display a combination of video, image, and text cards in a carousel format, at the top of your screen. Users can interact with the promotional displays by either viewing videos, being redirected to web pages, or navigating to defined areas on their mobile device.For more information on mobile campaign configuration, see [[configure-content-ui-section|Configure a content UI section]].
+Use a **Content** section to display a combination of video, image, and text cards in a carousel format, at the top of your screen. Users can interact with the promotional displays by either viewing videos, being redirected to web pages, or navigating to defined areas on their mobile device.For more information on mobile campaign configuration, see [Configure a content UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-content-ui-section.md).
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Use a **Content** section to display a combination of video, image, and text car
 
 </td><td>
 
-Use a **Record** section to display record information on a card. Records from the selected [[list-screen|list screen]] are displayed as cards. The fields on the cards can be configured. Users tap on an item to see additional record information in a separate [[form-screen|record screen]]. Users can also tap an item to take actions.
+Use a **Record** section to display record information on a card. Records from the selected list screen are displayed as cards. The fields on the cards can be configured. Users tap on an item to see additional record information in a separate record screen. Users can also tap an item to take actions.
 
  Use the record section for records which require the user’s attention, such as high priority or overdue items, and unassigned tasks. Record sections can also be used to display employee records. Choose from a **Horizontal** or **Vertical** layout when creating your record section.
 
@@ -59,7 +59,7 @@ Use horizontal record sections to display a set number of items you want the use
 Use vertical sections when you have more room and want to display a set number of records within the screen. Vertical record sections are good for records like critical tasks where you want the user to see details as soon as they land on the page
 
 
- For details on creating record sections, see [[sg-ui-section-config-item|Configure record sections]].
+ For details on creating record sections, see [Configure record sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Use **Media** sections to display a single image or video on your launcher scree
 
  Media sections are also a way to add a static company logo to the top of your launcher screen.
 
- For information on configuring media sections see [[sg-ui-section-config-media|Configure a media UI section]].
+ For information on configuring media sections see [Configure a media UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-media.md).
 
 </td></tr><tr><td>
 
@@ -90,18 +90,7 @@ Use this section type to display many screens or launcher screens in one horizon
 When displayed vertically, you can use the **Display feed count** option to display a count of records within each screen. Use this type for actionable items such as approvals or requests. For details on creating navigation sections, see
 
 
- [[sg-ui-section-config-navig|Configure an icon UI section]].
+ [Configure an icon UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-ui-section-config-reports|Configure an analytics UI section]]
-- [[configure-content-ui-section|Configure a content UI section]]
-- [[sg-ui-section-config-item|Configure a record UI section]]
-- [[sg-ui-section-config-media|Configure a media UI section]]
-- [[sg-ui-section-config-navig|Configure an icon UI section]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]

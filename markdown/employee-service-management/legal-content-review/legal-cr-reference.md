@@ -14,7 +14,7 @@ breadcrumb: [Legal Content Review, Legal Service Delivery Practice Applications,
 
 # Legal Content Review reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in [[legal-content-review|Legal Content Review]].
+Reference topics provide additional information about the lists and forms that you use in Legal Content Review.
 
 -   **[Components installed with Legal Content Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/components-installed-with-legal-cr.md)**  
 Several types of components are installed with activation of the application, including tables and user roles.
@@ -23,7 +23,3 @@ List of fields in the Legal Content Review request in the Legal Service Portal.
 
 **Parent Topic:**[Legal Content Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-content-review.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-content-review|Legal Content Review]]

@@ -18,12 +18,6 @@ Some key functions that outsourced service provider managers can perform include
 
 | | |
 |---|---|
-|[[onboard-osp-agent|Onboard an Outsourced Service Provider agent]]|An OSP manager can onboard OSP agents to manage and fulfill cases.|
-|[[osp-assign-case-manager|Assign a case to an OSP agent]]|As an [[outsourced-service-provider|Outsourced Customer Service]] external manager you can [[osp-assign-case|assign a case]] to an agent under your group.|
+|[Onboard an Outsourced Service Provider agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/onboard-osp-agent.md)|An OSP manager can onboard OSP agents to manage and fulfill cases.|
+|[Assign a case to an OSP agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-assign-case-manager.md)|As an Outsourced Customer Service external manager you can assign a case to an agent under your group.|
 
-## Related
-
-- [[onboard-osp-agent|Onboard an Outsourced Service Provider agent]]
-- [[osp-assign-case-manager|Assign a case to an OSP agent]]
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[osp-assign-case|Assign a case]]

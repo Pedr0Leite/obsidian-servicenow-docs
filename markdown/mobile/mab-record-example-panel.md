@@ -20,7 +20,7 @@ Live component previews are available for the following components:
 
 -   List screens
 -   Mobile web screens
--   [[sg-mobile-applet-launcher|Launcher screens]]
+-   Launcher screens
 -   Input form screens
 -   Analytics previews and chart screens
 -   Navigation tabs
@@ -33,6 +33,3 @@ Live component previews are available for the following components:
 
 \[Omitted image "mobile-live-preview.png"\] Alt text: examples of mobile interface panel types
 
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]

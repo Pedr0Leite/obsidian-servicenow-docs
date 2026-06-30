@@ -12,7 +12,7 @@ breadcrumb: [CTI demo implementation, Integrating with Computer Telephony Integr
 
 # Configure the CTI demo
 
-Before the phone communication channel between customer service agents and external customers can be used, the Notify, CTI Softphone, [[c_CustomerServiceManagement|Customer Service Management]], and Openframe plugins must be activated and configured, and a Twilio Voice account must be set up.
+Before the phone communication channel between customer service agents and external customers can be used, the Notify, CTI Softphone, Customer Service Management, and Openframe plugins must be activated and configured, and a Twilio Voice account must be set up.
 
 ## Before you begin
 
@@ -28,21 +28,16 @@ Role required: admin
 
 3.  [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureNotifyWithTwilio.md).
 
-4.  [[r_CustServMgmtAddtlPluginsTable|Activate the CTI Softphone plugin \(com.snc.cti\)]].
+4.  [Activate the CTI Softphone plugin \(com.snc.cti\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustServMgmtAddtlPluginsTable.md).
 
     If you want to load the demo data for CTI Softphone, you must also activate the Customer Service CTI Demo Data plugin \(com.snc.customerservice\_cti\_demo\). This demo data includes sample workflows.
 
-5.  [[t_ActivateCustomerService|Activate the Customer Service plugin \(com.sn\_customerservice\)]].
+5.  [Activate the Customer Service plugin \(com.sn\_customerservice\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md).
 
 6.  Activate the Openframe plugin \(com.sn\_openframe\).
 
     Activating the Customer Service Management plugin automatically activates the Openframe plugin.
 
-7.  Create an [[t_CreateAnOpenFrameConfiguration|OpenFrame configuration]] or use the default CTI configuration by enabling the **Default** field.
+7.  Create an [OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAnOpenFrameConfiguration.md) or use the default CTI configuration by enabling the **Default** field.
 
-## Related
 
-- [[r_CustServMgmtAddtlPluginsTable|Additional plugins for Customer Service Management]]
-- [[t_ActivateCustomerService|Activate Customer Service Management]]
-- [[t_CreateAnOpenFrameConfiguration|Create an OpenFrame configuration]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

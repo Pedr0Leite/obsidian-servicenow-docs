@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Service Observability data mapping form
 
-Field descriptions for the Observability data mapping form. Use this form to map activated services in [[service-observability|Service Observability]] to metrics from your observability instance. Each service can be mapped only once, but can contain exceptions to include all related entities.
+Field descriptions for the Observability data mapping form. Use this form to map activated services in Service Observability to metrics from your observability instance. Each service can be mapped only once, but can contain exceptions to include all related entities.
 
 |Field|Description|
 |-----|-----------|
@@ -32,6 +32,3 @@ Field descriptions for the Observability data mapping form. Use this form to map
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]

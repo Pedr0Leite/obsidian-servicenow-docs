@@ -29,8 +29,5 @@ Role required: admin
 3.  Select the confirm icon \(\[Omitted image "bus-checkmark-circle.svg"\] Alt text: Confirm icon.\) to confirm the status.
 
 
-**Parent Topic:**[[reference-email-admin|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reference-email-admin.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

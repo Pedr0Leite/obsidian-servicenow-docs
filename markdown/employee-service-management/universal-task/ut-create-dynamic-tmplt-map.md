@@ -14,7 +14,7 @@ breadcrumb: [Universal Task templates, Using Universal Task, Universal Task, Emp
 
 # Create dynamic template mapping
 
-Create dynamic templates to [[map-fields-navex|map fields]] on a [[universal-task-form|Universal task form]] to corresponding fields on the parent table form. Dynamic templates help agents to map parent table fields to [[universal-task-landing|Universal task]] fields.
+Create dynamic templates to map fields on a Universal task form to corresponding fields on the parent table form. Dynamic templates help agents to map parent table fields to Universal task fields.
 
 ## Before you begin
 
@@ -84,8 +84,3 @@ A mapping was created for a specific Universal task field. You can repeat this p
 
 **Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-task-template-landing.md)
 
-## Related
-
-- [[map-fields-navex|Map fields]]
-- [[universal-task-form|Universal Task form]]
-- [[universal-task-landing|Universal Task]]

@@ -66,7 +66,7 @@ Once a user has assigned a particular person, Henry, as a delegate, another user
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -92,6 +92,3 @@ Once a user has assigned a particular person, Henry, as a delegate, another user
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

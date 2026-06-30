@@ -15,7 +15,7 @@ breadcrumb: [Adobe Experience Manager as a Cloud Service external content connec
 
 # Configure crawl settings for an Adobe Experience Manager as a Cloud Service external content connector
 
-Specify the nodes you want your [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]] to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to [[ia-ai-search|AI Search]] for indexing.
+Specify the nodes you want your Adobe Experience Manager as a Cloud Service external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. By default, the Adobe Experience Manager as a Cloud Service external content connector crawls all nodes located beneath the `/content/dam` node of its specified source system and sends [[ia-assets|assets]] with all supported file extensions to AI Search for indexing. Only perform this task if you want the connector to use any of the following non-default settings:
+This task is optional. By default, the Adobe Experience Manager as a Cloud Service external content connector crawls all nodes located beneath the `/content/dam` node of its specified source system and sends assets with all supported file extensions to AI Search for indexing. Only perform this task if you want the connector to use any of the following non-default settings:
 
 -   Inclusion or exclusion filters for the nodes to crawl when running content crawls
 -   Inclusion or exclusion filters for the file extensions of assets to retrieve when running content crawls
@@ -38,7 +38,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -95,9 +95,3 @@ To retrieve content from your Adobe Experience Manager as a Cloud Service source
 
 **Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adobe-expmgr-cs-external-content-connector.md)
 
-## Related
-
-- [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ia-assets|Assets]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

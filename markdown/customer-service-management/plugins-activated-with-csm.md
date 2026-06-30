@@ -84,7 +84,7 @@ Customer Service Spoke\[com.snc.customer\_service.spoke\]
 
 </td><td>
 
-Provides actions for flow designers to use when creating [[c_CustomerServiceManagement|Customer Service Management]] business processes.
+Provides actions for flow designers to use when creating Customer Service Management business processes.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Enables you to organize skills data of service agents and employees in a central
 
 </td></tr><tr><td>
 
-[[c_OnScreenAlerts|Special Handling Notes]]\[com.sn\_shn\]
+Special Handling Notes\[com.sn\_shn\]
 
 </td><td>
 
@@ -184,8 +184,3 @@ Activates the Service Portal for use as a Virtual Agent web client.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_OnScreenAlerts|Special handling notes]]

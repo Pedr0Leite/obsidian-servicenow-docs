@@ -15,7 +15,7 @@ breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable O
 
 # Virtual agent flows
 
-Suppliers can check the invoice and inquiry statuses, create inquiry cases in the [[supplier|supplier]] portal using the chat channel. Suppliers can also use the virtual agent to view predefined chatbot topics.
+Suppliers can check the invoice and inquiry statuses, create inquiry cases in the supplier portal using the chat channel. Suppliers can also use the virtual agent to view predefined chatbot topics.
 
 Suppliers can switch between a virtual agent and a live agent to address their issues. The customer service virtual agent topics \(chatbot conversations\) help suppliers complete common self-service tasks. The supplier initiates a conversation topic that consists of dialogs with the virtual agent chatbot to accomplish a goal.
 
@@ -34,7 +34,7 @@ The supplier provides an invoice number and the virtual agent displays the statu
 The chatbot prompts the supplier to perform the following.
 
 1.  Add new comment-comment on the inquiry or invoice case that the supplier requested for
-2.  Talk to a live agent- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] agent interacts with a supplier for an invoice or inquiry-related query
+2.  Talk to a live agent- Accounts Payable Operations agent interacts with a supplier for an invoice or inquiry-related query
 3.  Search for something else- Redirects suppliers to point 1
 4.  All good thanks- Ends the chat
 
@@ -63,7 +63,3 @@ Activate the virtual agent chatbot \(chat channel\) in the supplier portal for s
 
 **Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-supplier-collaboration-portal.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

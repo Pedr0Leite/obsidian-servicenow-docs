@@ -14,30 +14,18 @@ breadcrumb: [Configure UIs and portals, Configure user experiences]
 
 Learn about the features of the Core UI that predated Next Experience.
 
--   **[[c_UI16|Core UI]]**  
-The Core UI predates the [[next-experience-landing-page|Next Experience UI]].
--   **[[working-in-classic-lists-and-forms|Working in the classic environment]]**  
-In the classic environment, use [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]] to get your work done.
--   **[[p_CommonUIElements|Common UI elements]]**  
+-   **[Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UI16.md)**  
+The Core UI predates the Next Experience UI.
+-   **[Working in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-classic-lists-and-forms.md)**  
+In the classic environment, use lists and forms to get your work done.
+-   **[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)**  
 This page lists common UI elements for the standard user interface.
--   **[[browser-support|Browser support]]**  
+-   **[Browser support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/browser-support.md)**  
 Browser support varies for each version of the user interface \(UI\). Some features have additional browser requirements, which are noted in the appropriate documentation.
--   **[[r_KeyboardShortcuts|Core UI keyboard shortcuts]]**  
+-   **[Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)**  
 You can use keyboard shortcuts to quickly perform common actions in the user interface.
--   **[[p_NavigationAndUIConfiguration|User interface configuration]]**  
+-   **[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)**  
 Change appearance, navigation menus, CSS, and utilize cutting edge interface tools.
 
-**Parent Topic:**[[configure-uis-and-portals|Configure UIs and portals]]
+**Parent Topic:**[Configure UIs and portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-uis-and-portals.md)
 
-## Related
-
-- [[c_UI16|Core UI]]
-- [[working-in-classic-lists-and-forms|Working in the classic environment]]
-- [[p_CommonUIElements|Common UI elements]]
-- [[browser-support|Browser support]]
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[configure-uis-and-portals|Configure UIs and portals]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

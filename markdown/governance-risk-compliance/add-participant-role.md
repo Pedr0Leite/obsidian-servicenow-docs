@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Add a participant role for the scenario analysis
 
-Add a participant role for your [[scenario-analysis-ov|scenario analysis]] in the [[grc-opres-landing-page|Operational Resilience]] application so that you can collect the observations and recommendations of the participants by their roles and functions.
+Add a participant role for your scenario analysis in the Operational Resilience application so that you can collect the observations and recommendations of the participants by their roles and functions.
 
 ## Before you begin
 
@@ -44,18 +44,12 @@ Depending on the scenario analysis type, such as a scenario analysis for critica
 
     See the sample configuration for a participant role as shown in the following example.
 
-    \[Omitted image "participant-role-record-choice.png"\] Alt text: Sample configuration for the [[event-group-reference|GRC Choice New record form]].
+    \[Omitted image "participant-role-record-choice.png"\] Alt text: Sample configuration for the GRC Choice New record form.
 
 9.  Click **Submit**.
 
 
 ## Result
 
-In the Participant Roles module in the application UI, the participant role is listed in the Roles [[list-view-uib-ws|list view]].
+In the Participant Roles module in the application UI, the participant role is listed in the Roles list view.
 
-## Related
-
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[event-group-reference|GRC Choice New record form]]
-- [[list-view-uib-ws|List view]]

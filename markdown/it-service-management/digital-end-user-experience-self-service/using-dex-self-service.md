@@ -14,7 +14,7 @@ breadcrumb: [Digital End-user Experience Self-service, Digital End-User Experien
 
 # Using Digital End-user Experience Self-service
 
-Use [[dex-self-service|Digital End-user Experience Self-service]] to monitor device performance using the **Device health check** feature available in Desktop Assistant and Employee Center, or conversationally through the Now Assist for [[itsm-virtual-agent|ITSM Virtual Agent]].
+Use Digital End-user Experience Self-service to monitor device performance using the **Device health check** feature available in Desktop Assistant and Employee Center, or conversationally through the Now Assist for ITSM Virtual Agent.
 
 You can access Device health check from the following sources:
 
@@ -24,12 +24,7 @@ You can access Device health check from the following sources:
 
 You might be unable to access the Device health check widget or page due to the following reasons:
 
--   Device not assigned: DEX monitored [[dex-workspace-devices-tab|devices]] aren’t assigned to you. 
+-   Device not assigned: DEX monitored devices aren’t assigned to you. 
 -   The device is offline: The device list drop-down is inactive and you see a message that the device is currently offline.
 -   The device is online but no recent data is available: You see a message notifying you that Device health check is unavailable and are prompted to retry later or open an IT ticket.
 
-## Related
-
-- [[dex-self-service|Digital End-user Experience Self-service]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery error messages, Discovery monitoring and issue resolution
 
 # Fix the cause of a sensor error message
 
-To fix a [[r-discovery|Discovery]] sensor error message, you must fix the JavaScript file containing the code that generated the error.
+To fix a Discovery sensor error message, you must fix the JavaScript file containing the code that generated the error.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 Use the sensor name and stack trace you identified in [Find the cause of a sensor error message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md) to locate the failing code. The stack trace provides the line number and function name where the error occurred.
 
-**Note:** The exact fix depends on the specific sensor and payload. This topic describes where and how to fix the error, not specific code changes. For errors with a refined code, you can view the root cause and [[ccg-remediation|remediation]] steps directly on the [Discovery Admin Workspace Error Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/daw-error-details.md) page.
+**Note:** The exact fix depends on the specific sensor and payload. This topic describes where and how to fix the error, not specific code changes. For errors with a refined code, you can view the root cause and remediation steps directly on the [Discovery Admin Workspace Error Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/daw-error-details.md) page.
 
 ## Procedure
 
@@ -63,7 +63,3 @@ Rerun Discovery to verify the sensor no longer generates the error. If the error
 
 [Find the cause of a "Probe not found" error]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]

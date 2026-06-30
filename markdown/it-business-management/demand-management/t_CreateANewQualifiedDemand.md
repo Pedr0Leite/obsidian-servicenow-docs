@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Use, Demand Management, Project Portfolio Manageme
 
 # Create a qualified demand
 
-The demand manager can create a qualified demand from the [[c_DemandWorkbenchListView|demand workbench list view]].
+The demand manager can create a qualified demand from the demand workbench list view.
 
 ## Before you begin
 
@@ -30,14 +30,10 @@ Saving the demand adds it to the Demands list and adds a bubble representing the
 
 2.  Select **New** at the top of the list view.
 
-3.  Fill in the fields on the [[demand-form|Demand form]].
+3.  Fill in the fields on the Demand form.
 
     For information about the fields, see [Creating Demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md).
 
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[c_DemandWorkbenchListView|Demand workbench list view]]
-- [[demand-form|Demand form]]

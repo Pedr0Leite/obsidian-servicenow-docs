@@ -16,7 +16,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 You can activate the Auto-Close Stale Test Results feature to automatically close older test results not recently found by your third-party integrations. Moving these test results to **Closed-Stale** reduces the number of active test results and remediation tasks in your instance and helps you reconcile assets in your Configuration Management Database \(CMDB\).
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -77,6 +77,3 @@ The state progression and precedence for test results is: **Open** &gt; **Closed
 
 For more information on the third-party integrations that support this feature, see [Understanding the Qualys Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_QualysVulnIntegration.md) and [Tenable.io integrations with the Vulnerability Response and Configuration Compliance applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/tenable-io-integrations-list.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -26,7 +26,7 @@ Steps 2 through 4 provide guidance on customizing various aspects of the workspa
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -38,7 +38,7 @@ Steps 2 through 4 provide guidance on customizing various aspects of the workspa
 
     2.  From the Columns tab, select the columns that you want to see on the data grid of the planning console.
 
-        These columns provide information of the [[t_CreateAProjectTask|project tasks]].
+        These columns provide information of the project tasks.
 
     3.  From the General tab, choose the attributes that you want to see on the timeline view, such as the dependency lines, critical path, or the project task names on the bars.
 
@@ -64,7 +64,3 @@ Display new columns on the planning page of the new project workspace so that yo
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

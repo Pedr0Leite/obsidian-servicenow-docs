@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Workspace, Configuration Management Database \(CMDB\)
 
 # Exploring Service Graph Workspace
 
-Learn more about [[sg-workspace|Service Graph Workspace]], its different views and insight dashboards, when using key CMDB features such as [[c_CMDBHealth|CMDB Health]], CMDB Data Manager, and [[multisource-cmdb|CMDB 360]].
+Learn more about Service Graph Workspace, its different views and insight dashboards, when using key CMDB features such as CMDB Health, CMDB Data Manager, and CMDB 360.
 
 ## Service Graph Workspace overview
 
@@ -30,7 +30,7 @@ Administrators assigned to the guided tour admin role \(guided\_tour\_admin\) ca
 -   Lists throughout the Service Graph Workspace have a filter icon that you can select to show the filter definition used for the list.
 -   You can [open your Configurable Workspace experience in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/open-your-configurable-workspace-experience-in-ui-builder.md) to access and edit your Service Graph Workspace experience.
 -   See [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md) for a list of all Workspaces that ServiceNow® provides.
--   Service Graph Workspace doesn't support [[domain-separation-relationship-formatter-editor|domain separation]].
+-   Service Graph Workspace doesn't support domain separation.
 
 ## Personas
 
@@ -216,7 +216,7 @@ To learn more about configuring and using Service Graph Workspace, see:
     -   [Insights view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-insights-view.md)
     -   [Tasks view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-tasks-view.md)
     -   [Lists view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-lists-view.md)
-    -   [[sgcc-landing|SGC Central]] \(if installed\)
+    -   [SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-landing.md) \(if installed\)
     -   [CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa.md) \(if installed\)
 -   [Configuring Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-sg-workspace.md)
 -   [Resume a disabled Cloud vs Non-cloud resources scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-resume-cloud-job.md)
@@ -224,10 +224,3 @@ To learn more about configuring and using Service Graph Workspace, see:
 -   [Edit a scheduled data import from CMDB performance insights in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-insights-schedule-data-import.md)
 -   [Components installed with Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/installed-with-sg-workspace.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[multisource-cmdb|CMDB 360]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

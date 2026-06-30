@@ -34,7 +34,7 @@ The list of individual recorded actions. For example, Preview, This helped, Atta
 
 -   **Original search terms**: The original search terms. This field is used only when the fulfiller has overridden the original search terms using the related search box.
 -   **Relevance type**: The recorded action.
--   **Relevant document**: The [[reference-email-admin|reference]] to the search session group in the Relevant Document table.
+-   **Relevant document**: The reference to the search session group in the Relevant Document table.
 -   **Created by**: The user who performed the action.
 -   **Position**: The position of the recorded action in the result list.
 -   **Search Resource**: The reference to the search resource for that particular result. Used only for a Predictive Intelligence Similarity result.
@@ -50,18 +50,13 @@ Groups the Relevant Document Detail individual recorded actions by search sessio
  The key fields in the Relevant Document table are as follows:
 
 -   **Search session**: The search session group.
--   **Displayed on**: The table or record producer where the [[hs-results|results]] were displayed.
+-   **Displayed on**: The table or record producer where the results were displayed.
 -   **Relevant to**: The reference to the table record when **Displayed on** is **Table**.
 -   **User/Created by**: The user who performed the action.
 
 </td></tr></tbody>
 </table>-   **[Run a report on contextual search usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_RunAFeedbackReport.md)**  
-Run a report on usage such as how many times a knowledge article is attached to a record to know the effectiveness of the [[c_ContextualSearch|contextual search]] results.
+Run a report on usage such as how many times a knowledge article is attached to a record to know the effectiveness of the contextual search results.
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]

@@ -51,7 +51,7 @@ A list of all the fields that are inherited from the parent asset group to a sub
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -79,6 +79,3 @@ A list of all the fields that are inherited from the parent asset group to a sub
 
 [Asset put away task fields]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]

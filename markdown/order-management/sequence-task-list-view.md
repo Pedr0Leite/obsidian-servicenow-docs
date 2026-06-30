@@ -88,8 +88,5 @@ Added at
 Timestamp when the sequence task was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
+</table>**Parent Topic:**[Customer Engagement Sequences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customer-engagement-sequences-reference.md)
 
-## Related
-
-- [[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]

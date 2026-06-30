@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 # Perform Zscaler remediation
 
-If the Zscaler application installed on your Windows or macOS agent is not running efficiently, you can stop and start the app. This process is called **[[ccg-remediation|remediation]]**. Running remediation automatically creates an incident on the agent. You can also view Zscaler statuses on the Zscaler dashboard as a graph.
+If the Zscaler application installed on your Windows or macOS agent is not running efficiently, you can stop and start the app. This process is called **remediation**. Running remediation automatically creates an incident on the agent. You can also view Zscaler statuses on the Zscaler dashboard as a graph.
 
 By default, the **Zscaler Monitoring Policy** monitoring check runs every 30 minutes to check the status of the Zscaler app running on your agent. The Zscaler monitoring policy contains the following checks:
 
@@ -33,11 +33,7 @@ By default, the **Zscaler Monitoring Policy** monitoring check runs every 30 min
 -   **[Check Zscaler remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-check-remediation.md)**  
 Verify that Zscaler remediation stops and starts the Zscaler app after the remediation monitoring check fails.
 -   **[Use the Zscaler dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-dashboard.md)**  
-[[zscaler-dashboard|Use the Zscaler dashboard]] to view Zscaler monitoring and remediation statuses in graph format.
+Use the Zscaler dashboard to view Zscaler monitoring and remediation statuses in graph format.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[zscaler-dashboard|Use the Zscaler dashboard]]

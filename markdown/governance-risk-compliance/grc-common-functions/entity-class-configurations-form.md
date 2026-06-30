@@ -14,7 +14,7 @@ breadcrumb: [Configure an entity class for a linked object, Manage Entity Based 
 
 # Entity Class Configurations form
 
-Use the Entity Class Configurations form to set up access control to all the entities that are linked to the [[entity-class|entity class]].
+Use the Entity Class Configurations form to set up access control to all the entities that are linked to the entity class.
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ Use the Entity Class Configurations form to set up access control to all the ent
 
 **Parent Topic:**[Configure an entity class for a linked object](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-an-entity-class-configuration-for-entity-based-access.md)
 
-## Related
-
-- [[entity-class|entity class]]

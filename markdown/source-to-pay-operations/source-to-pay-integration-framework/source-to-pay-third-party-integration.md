@@ -14,15 +14,15 @@ breadcrumb: [Integrations, Source-to-Pay Operations, Finance and Supply Chain]
 
 # Source-to-Pay integration with third-party applications
 
-Extend the capabilities of [[source-to-pay-operations-overview|Source-to-Pay Operations]] by integrating with third-party applications.
+Extend the capabilities of Source-to-Pay Operations by integrating with third-party applications.
 
 ## Source-to-Pay integration framework
 
-As part of the Source-to-Pay \(S2P\) integration framework, customers can install an optional third-party ERP integration application that enables primary data, fixed assets, [[purchase-order-table|purchase order]], receipt, invoice, and tax integration capabilities between S2P and the third-party ERP application. For more information, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
+As part of the Source-to-Pay \(S2P\) integration framework, customers can install an optional third-party ERP integration application that enables primary data, fixed assets, purchase order, receipt, invoice, and tax integration capabilities between S2P and the third-party ERP application. For more information, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
 
 ## Source-to-Pay Operations integration with SAP
 
-Source-to-Pay Operations integration with SAP provides integration workflows for integrating the [[psm-overview|Sourcing and Procurement Operations]], [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]. For more information, see [Source-to-Pay integration with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-sap-integration.md).
+Source-to-Pay Operations integration with SAP provides integration workflows for integrating the Sourcing and Procurement Operations, Supplier Lifecycle Operations, and Accounts Payable Operations. For more information, see [Source-to-Pay integration with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-sap-integration.md).
 
 ## Source-to-Pay integration with 3CLogic
 
@@ -54,10 +54,3 @@ Integrate Source‑to‑Pay Operations with Oracle Financial Cloud to manage sal
 -   [Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-coupa-integration.md)
 -   [Source-to-Pay integration with Oracle Financial Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-oracle-fin-cloud-integration.md)
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

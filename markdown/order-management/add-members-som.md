@@ -33,7 +33,7 @@ Role required: sales territory admin, sales territory manager
 
 3.  On the Territory Members tab, select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
 <table id="table_rj2_nc2_dhc"><thead><tr><th>
 
@@ -134,12 +134,7 @@ However, more roles can be configured. For more information, see [Create related
 **Related topics**  
 
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[fields|Fields]]

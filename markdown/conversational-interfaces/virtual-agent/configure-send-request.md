@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent API, Build and deploy, Virtual Agent, Conv
 
 # Review the inbound REST endpoint and configure inbound authentication
 
-After you install the [[virtual-agent-api-landing-page|Virtual Agent API]], navigate to the Scripted REST API resource to review the endpoint and set up authentication.
+After you install the Virtual Agent API, navigate to the Scripted REST API resource to review the endpoint and set up authentication.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: admin
 
     \[Omitted image "scripted-rest-api-endpoint.png"\] Alt text: Review the Resource path value for the REST endpoint.
 
-    For a description of the request parameters and an example send request, see [[virtual-agent-landing-page|Virtual Agent]] Bot Integration API.
+    For a description of the request parameters and an example send request, see Virtual Agent Bot Integration API.
 
 5.  In the **Security** tab on the same page, select the **Requires authentication** check box.
 
@@ -63,7 +63,3 @@ You can configure Message Authentication for the Virtual Agent API instead of Ba
 
 **Parent Topic:**[Configuring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]

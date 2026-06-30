@@ -14,19 +14,19 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Add custom software products in workspace
 
-Add a custom software product for any publicly available software product that does not exist in the [[c_SoftwareAssetMgmt|Software Asset Management]] Content Library. Custom software products enable you to normalize and account for software products that aren’t part of the Software Asset Management Content Library yet.
+Add a custom software product for any publicly available software product that does not exist in the Software Asset Management Content Library. Custom software products enable you to normalize and account for software products that aren’t part of the Software Asset Management Content Library yet.
 
 ## Before you begin
 
-If you want to enable the Software Asset Management application to submit content requests for your custom software products, opt in to the [[c_SAMContentService|Software Asset Management Content Service]] and then enable the Custom Software Products KPI. See [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md) for detailed instructions.
+If you want to enable the Software Asset Management application to submit content requests for your custom software products, opt in to the Software Asset Management Content Service and then enable the Custom Software Products KPI. See [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md) for detailed instructions.
 
 Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  From the Software Asset Workspace, open the [[operations-workspace|License operations view]].
+2.  From the Software Asset Workspace, open the License operations view.
 
 3.  From the navigation menu of the License operations view, navigate to **Content** &gt; **Custom software products**.
 
@@ -126,9 +126,3 @@ The custom software product is immediately available to use in your downstream p
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

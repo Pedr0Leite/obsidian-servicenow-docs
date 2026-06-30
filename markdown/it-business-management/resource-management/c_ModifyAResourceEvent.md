@@ -14,14 +14,14 @@ breadcrumb: [Resource events, Resource Management classic, Project Portfolio Man
 
 # Resource event modifications
 
-[[c_ResourceEvents|Resource events]] that aren’t part of a resource plan can be modified.
+Resource events that aren’t part of a resource plan can be modified.
 
-You can only modify events you created for yourself in the "[[c_MyCalendar|My Calendar]]" module. If a resource manager added an event to your calendar, then only the resource manager can modify the event.
+You can only modify events you created for yourself in the "My Calendar" module. If a resource manager added an event to your calendar, then only the resource manager can modify the event.
 
 Resource managers can modify an event that is part of a resource plan by deleting the event and creating a one. For example, a resource manager allocates a resource to a task on a resource plan and then wants to change the task work type to Phone Call. The resource manager must delete the event and then create another event with the work type set to Phone Call.
 
 -   **[Modify a resource event that is part of a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_ModifyResourceEvntPartResPlan.md)**  
-You can [[t_ModifyResourceEvntPartResPlan|modify a resource event that is part of a resource plan]].
+You can modify a resource event that is part of a resource plan.
 
 **Parent Topic:**[Resource events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceEvents.md)
 
@@ -34,8 +34,3 @@ You can [[t_ModifyResourceEvntPartResPlan|modify a resource event that is part o
 
 [Change the resource event color]()
 
-## Related
-
-- [[c_ResourceEvents|Resource events]]
-- [[c_MyCalendar|My Calendar]]
-- [[t_ModifyResourceEvntPartResPlan|Modify a resource event that is part of a resource plan]]

@@ -14,7 +14,7 @@ breadcrumb: [Optimize planning with scenario planning, Portfolio Planning in Str
 
 # Compare scenarios
 
-[[compare-scenarios-in-portfolio-planning|Compare scenarios]] side by side to confirm alignment with primary goals, evaluate comprehensive planning, optimize resource usage, confirm feasibility, and financial information.
+Compare scenarios side by side to confirm alignment with primary goals, evaluate comprehensive planning, optimize resource usage, confirm feasibility, and financial information.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -70,7 +70,3 @@ Role required:
 
 [Approve a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/approve-a-scenario-in-strategic-planning.md)
 
-## Related
-
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

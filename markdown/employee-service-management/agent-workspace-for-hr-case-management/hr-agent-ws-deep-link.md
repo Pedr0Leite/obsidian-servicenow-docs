@@ -14,12 +14,9 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Using the deep link feature in Agent Workspace for HR Case Management
 
-Deep links are a way to access information from outside of [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+Deep links are a way to access information from outside of Agent Workspace for HR Case Management.
 
 Use deep links to access information or applications that are not readily available within Agent Workspace for HR Case Management. For example, use deep links to access a third-party application that you use frequently.
 
 For more information on configuring deep links, see [Link generator for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRLinkGenerator.md).
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

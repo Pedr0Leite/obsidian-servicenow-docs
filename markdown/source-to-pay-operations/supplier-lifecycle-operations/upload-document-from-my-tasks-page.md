@@ -14,7 +14,7 @@ breadcrumb: [Manage documents, Using Supplier Collaboration Portal, Use, Supplie
 
 # Upload document from My Tasks page
 
-Complete the document upload tasks assigned to you from the My tasks page on the [[supplier-central|Supplier Collaboration Portal]].
+Complete the document upload tasks assigned to you from the My tasks page on the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: sn\_slm.contact
 
 **Parent Topic:**[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]

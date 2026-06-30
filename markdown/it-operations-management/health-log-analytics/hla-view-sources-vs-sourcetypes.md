@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-[[hla-landing-page|Health Log Analytics]] uses source types to parse logs and utilizes log sources as the framework for detecting anomalies. Each source type provides logs that are analyzed by multiple log sources, and each log source receives logs that are parsed by multiple source types. Reviewing the associations between source types and log sources can help you improve your data input mapping for better performance and outcomes.
+Health Log Analytics uses source types to parse logs and utilizes log sources as the framework for detecting anomalies. Each source type provides logs that are analyzed by multiple log sources, and each log source receives logs that are parsed by multiple source types. Reviewing the associations between source types and log sources can help you improve your data input mapping for better performance and outcomes.
 
 ## Procedure
 
@@ -49,6 +49,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-automapping.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

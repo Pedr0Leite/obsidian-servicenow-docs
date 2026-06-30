@@ -14,7 +14,7 @@ breadcrumb: [Configure, Individual Life Claims, Exploring insurance claims appli
 
 # Encrypting sensitive data in Individual Life Claims
 
-[[individual-life-claims-landing-page|Individual life claims]] contain personal or sensitive data fields that may require encryption. As an administrator for Individual Life Claims, you should take precautions to ensure that these fields are encrypted with Column Level Encryption. That way, you help to preserve the data privacy of your organization.
+Individual life claims contain personal or sensitive data fields that may require encryption. As an administrator for Individual Life Claims, you should take precautions to ensure that these fields are encrypted with Column Level Encryption. That way, you help to preserve the data privacy of your organization.
 
 ## Overview of encrypting data in Individual Life Claims
 
@@ -42,6 +42,3 @@ Fields in Individual Life Claims can be encrypted by using Field Encryption. For
 
 **Parent Topic:**[Setting up Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/setting-up-individual-life-claims.md)
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]

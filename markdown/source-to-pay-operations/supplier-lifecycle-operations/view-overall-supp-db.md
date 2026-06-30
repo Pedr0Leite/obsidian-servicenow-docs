@@ -14,15 +14,15 @@ breadcrumb: [Overall supplier dashboard, Using Source-to-Pay Workspace, Use, Sup
 
 # View Overall supplier dashboard
 
-You can view the [[overall-supplier-db|Overall supplier dashboard]] to get the enterprise-wide insights for the entire suppliers base.
+You can view the Overall supplier dashboard to get the enterprise-wide insights for the entire suppliers base.
 
 ## Before you begin
 
-Role required: sn\_slm.admin, sn\_slm.[[supplier|supplier]]\_manager
+Role required: sn\_slm.admin, sn\_slm.supplier\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the Overall supplier dashboard \(\[Omitted image "supp-db.png"\] Alt text: db icon\) icon.
 
@@ -34,12 +34,12 @@ Role required: sn\_slm.admin, sn\_slm.[[supplier|supplier]]\_manager
 
     -   Overall supplier score: Average of the scores of all the suppliers
     -   Number of active suppliers: Count of all active suppliers
-    -   All time spend: Total amount spent from the [[purchase-order-table|purchase order]] table for active orders
+    -   All time spend: Total amount spent from the purchase order table for active orders
     -   Overall supplier risk: Average of the risk ratings of all the suppliers
     **Overview - Supplier insights**
 
     -   Supplier turnover year-to-date: Count of on-boarded and off-boarded suppliers in the current year
-    -   KPI performance by status: Pie chart based on the choice of performance from the [[kpi-table|KPI table]]
+    -   KPI performance by status: Pie chart based on the choice of performance from the KPI table
     -   Five most common supplier KPIs: List of the most used KPIs by the suppliers
     -   Top five performing suppliers: List of the suppliers with the highest KPIs scores
     -   Top five industries by number of suppliers: Chart of the industries with the highest number of suppliers
@@ -59,11 +59,3 @@ Role required: sn\_slm.admin, sn\_slm.[[supplier|supplier]]\_manager
 
 [Overall supplier dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/overall-supplier-db.md)
 
-## Related
-
-- [[overall-supplier-db|Overall supplier dashboard]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[kpi-table|KPI table]]

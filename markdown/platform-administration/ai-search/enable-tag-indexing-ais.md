@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, [[ia-ai-search|AI Search]] indexing ignores tags from source records. You can enable indexing of tags for all records from an indexed source. Choose whether you want to index all shared and globally visible tags or only globally visible tags. Private tags are never indexed.
+By default, AI Search indexing ignores tags from source records. You can enable indexing of tags for all records from an indexed source. Choose whether you want to index all shared and globally visible tags or only globally visible tags. Private tags are never indexed.
 
 For more general instructions on defining indexed source attributes, see [Create an indexed source attribute in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-attr-ais.md).
 
@@ -34,7 +34,7 @@ For more general instructions on defining indexed source attributes, see [Create
 
 3.  In the Advanced Configuration related list, select **New**.
 
-4.  On the [[indexed-source-attribute-form-ais|Indexed Source Attribute form]], fill in the fields.
+4.  On the Indexed Source Attribute form, fill in the fields.
 
     1.  In the **Attribute** field, enter `index_tags`.
 
@@ -60,7 +60,3 @@ To make the new **index\_tags** attribute take effect, perform a full table rein
 
 **Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-attribute-form-ais|Indexed Source Attribute form]]

@@ -29,7 +29,7 @@ You can share a project in two ways:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  From any tab on the Process Mining Workspace, select the **Share** button.
 
@@ -56,6 +56,3 @@ You can share a project in two ways:
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

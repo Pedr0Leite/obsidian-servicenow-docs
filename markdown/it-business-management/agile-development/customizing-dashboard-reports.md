@@ -34,10 +34,7 @@ Configure indicators to reflect your customizations on the Agile 2.0 dashboards.
 -   **[Update UI scripts to use customized indicators for Agile 2.0 dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/update-ui-scripts-to-use-your-indicators.md)**  
 Customize UI scripts by overriding methods in empty implementation \(Impl\) classes.
 -   **[Customize story states of your Agile Development 2.0 dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/customize-story-states-of-your-agile-dashboard-reports.md)**  
-Configure story states to reflect your customizations on the [[agile-landing-page|Agile Development 2.0]] dashboards.
+Configure story states to reflect your customizations on the Agile Development 2.0 dashboards.
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

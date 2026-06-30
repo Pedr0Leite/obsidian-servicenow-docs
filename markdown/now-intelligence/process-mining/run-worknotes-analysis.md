@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for Process Mining, Use, Process Mining, Platform A
 
 # Run work notes analysis
 
-Generate a [[worknotes-analysis|work notes analysis]] on a transition.
+Generate a work notes analysis on a transition.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can use the Now Assist feature for work notes analysis even with 5-50 eligib
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  From the list of projects, select a project.
 
@@ -51,7 +51,3 @@ You can use the Now Assist feature for work notes analysis even with 5-50 eligib
 
 **Parent Topic:**[Using Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-na-process-mining.md)
 
-## Related
-
-- [[worknotes-analysis|Work notes analysis]]
-- [[analyst-workbench-overview|Process Mining workspace]]

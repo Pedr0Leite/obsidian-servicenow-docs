@@ -22,7 +22,7 @@ Role required: role\_delegator
 
 ## Procedure
 
-1.  Navigate to **[[c_UserAdministration|User Administration]]** &gt; **Delegate Roles in Group**.
+1.  Navigate to **User Administration** &gt; **Delegate Roles in Group**.
 
 2.  Fill out the form.
 
@@ -37,6 +37,3 @@ Role required: role\_delegator
 
 **Parent Topic:**[Delegating roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_DelegateRoles.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

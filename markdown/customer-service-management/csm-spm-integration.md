@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with Service Portfolio Management
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] with the Service Portfolio Management \(SPM\) application. This integration gives customer service managers, customer service agents, and service owners visibility into [[sold-product|sold products]] and their associated service offerings.
+Integrate Customer Service Management with the Service Portfolio Management \(SPM\) application. This integration gives customer service managers, customer service agents, and service owners visibility into sold products and their associated service offerings.
 
 Using the integration between Customer Service Management and Service Portfolio Management has the following benefits:
 
@@ -23,10 +23,10 @@ Using the integration between Customer Service Management and Service Portfolio 
 
 The Customer Service Management integration with Service Portfolio Management can be used in the following ways.
 
-1.  Customer service managers can associate service offerings to [[product-models|product models]]. For more details, see [[associate-service-offering-product|Associate services with product models]]
-2.  Customer service managers can associate service offerings to sold products. For more details, see [[asssociate-service-offering-sold-prod|Associate service offerings with sold products]]
+1.  Customer service managers can associate service offerings to product models. For more details, see [Associate services with product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-service-offering-product.md)
+2.  Customer service managers can associate service offerings to sold products. For more details, see [Associate service offerings with sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/asssociate-service-offering-sold-prod.md)
 3.  Service owners can view service offerings and which customers have subscribed to them.
-4.  Customer service agents can view which service offerings are associated to the sold products affected by an issue. They can also see the service commitments and availability. For more details, see [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
+4.  Customer service agents can view which service offerings are associated to the sold products affected by an issue. They can also see the service commitments and availability. For more details, see [View sold product information in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-product-info-workspace.md)
 
 ## Activation information
 
@@ -58,11 +58,3 @@ Ensure that users can perform all the necessary actions by assigning roles.
 |service\_editor|Assign this role to customer service managers if they need to update any service offerings they own.|
 |portfolio\_admin|Assign this role to customer service managers if they need to associate service offerings to a product model.|
 
-## Related
-
-- [[associate-service-offering-product|Associate services with product models]]
-- [[asssociate-service-offering-sold-prod|Associate service offerings with sold products]]
-- [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]
-- [[product-models|Product models]]

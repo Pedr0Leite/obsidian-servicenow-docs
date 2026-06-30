@@ -12,7 +12,7 @@ breadcrumb: [Create a pre-authorization request, Pre-authorization requests, Age
 
 # Review and approve a pre-authorization request
 
-Review and approve the [[mco-pre-auth-request-use|pre-authorization request]] submitted by a dealer.
+Review and approve the pre-authorization request submitted by a dealer.
 
 ## Before you begin
 
@@ -38,9 +38,5 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 5.  Select **Confirm**.
 
 
-**Parent Topic:**[[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
+**Parent Topic:**[Create a pre-authorization request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agents-create-pre-auth-request.md)
 
-## Related
-
-- [[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]

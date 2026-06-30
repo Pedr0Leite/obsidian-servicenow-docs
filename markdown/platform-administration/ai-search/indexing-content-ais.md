@@ -14,17 +14,17 @@ breadcrumb: [Indexed sources, Configuring AI Search, AI Search, Search administr
 
 # Indexing content from AI Search indexed sources
 
-[[ia-ai-search|AI Search]] indexes records on indexed source tables to make their content searchable.
+AI Search indexes records on indexed source tables to make their content searchable.
 
-After you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The [[hs-results|results]] of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index.
+After you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The results of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index.
 
 ## Indexing content from referenced tables
 
-When an indexed source table includes a [[reference-email-admin|reference]] field that stores a reference to another table, AI Search defaults to indexing values for the reference field but not for other fields on the referenced table. For example, the User \[sys\_user\] table includes a **company** reference field that stores a reference to the Company \[core\_company\] table. When indexing records from the User table, AI Search indexes values for the **company** reference field, but doesn't index values for other Company table fields such as **city** or **website**.
+When an indexed source table includes a reference field that stores a reference to another table, AI Search defaults to indexing values for the reference field but not for other fields on the referenced table. For example, the User \[sys\_user\] table includes a **company** reference field that stores a reference to the Company \[core\_company\] table. When indexing records from the User table, AI Search indexes values for the **company** reference field, but doesn't index values for other Company table fields such as **city** or **website**.
 
 To index additional fields from referenced tables, you can configure **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** field settings for reference fields on your indexed source table.
 
--   To use field values from referenced tables in search source filters, facet filters, and EVAM search result [[clone-configurations-tab|configurations]], create a **dot\_walk\_fields** field setting.
+-   To use field values from referenced tables in search source filters, facet filters, and EVAM search result configurations, create a **dot\_walk\_fields** field setting.
 -   To make field values from referenced tables searchable, create a **searchable\_dot\_walk\_fields** field setting.
 
 You can create both **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** field settings for the same reference field.
@@ -79,9 +79,3 @@ Make content from multiple internal indexed sources searchable by performing a f
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[clone-configurations-tab|Configurations]]

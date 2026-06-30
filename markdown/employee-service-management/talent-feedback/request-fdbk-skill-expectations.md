@@ -14,7 +14,7 @@ breadcrumb: [Request skill feedback, Working with Skill feedback in Talent Feedb
 
 # Request skill feedback from skill expectations
 
-You can [[request-skill-feedback-widget|request skill feedback]] from the skill expectations widget on the Skills tab in [[employee-center-landing-page|Employee center]].
+You can request skill feedback from the skill expectations widget on the Skills tab in Employee center.
 
 ## Before you begin
 
@@ -73,7 +73,4 @@ This is an optional entry for you to add any other information that you'd like t
 </td></tr></tbody>
 </table>5.  Select **Send request**.
 
-## Related
 
-- [[request-skill-feedback-widget|Request skill feedback]]
-- [[employee-center-landing-page|Employee Center]]

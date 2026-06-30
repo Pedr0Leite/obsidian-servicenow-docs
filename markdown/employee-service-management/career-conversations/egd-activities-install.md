@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Career Conversations, Career Conversations, G
 
 # Install Career Conversations
 
-Install the [[egd-activities-conversations-module|Career Conversations]] app to enable employees and managers to create, manage, and track conversations.
+Install the Career Conversations app to enable employees and managers to create, manage, and track conversations.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** You must install the [[egd-landing-page|Talent Development Core]] app before you install Career Conversations.
+**Important:** You must install the Talent Development Core app before you install Career Conversations.
 
 Career Conversations is dependent on features in Talent Development Core.
 
@@ -57,7 +57,3 @@ Career Conversations is dependent on features in Talent Development Core.
 
 **Parent Topic:**[Install and configure Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-install-config.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[egd-landing-page|Talent Development Core]]

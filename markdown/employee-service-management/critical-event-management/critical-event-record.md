@@ -14,10 +14,7 @@ breadcrumb: [Exploring, Critical Event Management, Health and Safety, Employee S
 
 # CEM Critical event record
 
-You can use the [[critical-event-management|Critical Event Management]] application to create a critical event record.
+You can use the Critical Event Management application to create a critical event record.
 
 Each tab in a critical event record provides specific functions to support the critical event's life cycle, from initial assessment to resolution and follow-up.
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]

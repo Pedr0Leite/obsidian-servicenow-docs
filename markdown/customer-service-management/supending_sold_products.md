@@ -12,7 +12,7 @@ breadcrumb: [Customer Life Cycle Management Workflows, Product data, Set up your
 
 # Supending sold products
 
-Suspend [[sold-product|sold products]] to create a suspend order or quote on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+Suspend sold products to create a suspend order or quote on the CSM Configurable Workspace.
 
 Supend single or multiple root sold products and create combined orders for suspension and resumption of products and servies at the same time, to improve agent efficiency.
 
@@ -111,7 +111,3 @@ When you update the suspend order line item to **Complete**, the sold product st
 
 When you update the state of the resume order line item to **Completed**, the sold product state updates to the **Active** state.
 
-## Related
-
-- [[sold-product|Sold products]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

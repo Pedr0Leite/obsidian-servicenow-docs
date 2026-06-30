@@ -72,7 +72,7 @@ Modify the generateCustomTagsForSEO function to return any custom header tags as
 
 </td></tr><tr><td>
 
-Return a SEO optimized [[html|HTML]] content for SEO bots
+Return a SEO optimized HTML content for SEO bots
 
 </td><td>
 
@@ -86,6 +86,3 @@ Modify the generateSEOTags function to return the SEO optimized HTML content in 
 
 **Parent Topic:**[Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-service-portal.md)
 
-## Related
-
-- [[html|HTML]]

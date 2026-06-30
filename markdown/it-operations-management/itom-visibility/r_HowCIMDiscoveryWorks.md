@@ -18,8 +18,8 @@ This is the processing flow for classifying Common Information Model \(CIM\) sto
 
 ## Processing flow
 
-1.  The Shazzam probe launches the wbem port probe as part of [[c_NetworkDiscovery|network discovery]].
-2.  The wbem port probe detects activity on target ports SLP 427, CIM 5989 and 5988, and then examines the **Service Registry Queries** related list, at **[[r-discovery|Discovery]] Definition** &gt; **[[r_PortProbes|Port Probes]]**, for the SLP query. The base system provides this query to detect the service:wbem service type, which indicates the presence of an SLP server.
+1.  The Shazzam probe launches the wbem port probe as part of network discovery.
+2.  The wbem port probe detects activity on target ports SLP 427, CIM 5989 and 5988, and then examines the **Service Registry Queries** related list, at **Discovery Definition** &gt; **Port Probes**, for the SLP query. The base system provides this query to detect the service:wbem service type, which indicates the presence of an SLP server.
 3.  The Shazzam probe launches a scanner for the WBEM service type. The scanner retrieves:
     -   The attributes of the service from the SLP server.
     -   The interop namespaces of CIM servers in the network.
@@ -74,8 +74,3 @@ If you’re using multiple storage vendors with custom namespaces not specified 
 
 **Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 
-## Related
-
-- [[c_NetworkDiscovery|Network discovery]]
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

@@ -39,14 +39,10 @@ The licensing module calculates and displays subscription consumption as follows
 
 -   **Subscriptions a la carte**
 
-    The Subscriptions window displays the information for purchased and allocated [[otm-license-module|subscriptions for OTM]] applications.
+    The Subscriptions window displays the information for purchased and allocated subscriptions for OTM applications.
 
     \[Omitted image "otm-itom-license-summary-carte.png"\] Alt text: Subscriptions window displaying subscriptions purchased a la carte.
 
 
-**Parent Topic:**[[otm-su-licensing-references|OTM SU Licensing References]]
+**Parent Topic:**[OTM SU Licensing References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-su-licensing-references.md)
 
-## Related
-
-- [[otm-su-licensing-references|OTM SU Licensing References]]
-- [[otm-license-module|Subscriptions for OTM]]

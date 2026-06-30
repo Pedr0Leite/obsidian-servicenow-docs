@@ -12,15 +12,15 @@ breadcrumb: [CSM Configurable Workspace, Organize agent workspaces, Configure, C
 
 # CSM Configurable Workspace record pages and page templates
 
-Use record pages to display information in [[csm-workspaces-configure|CSM Configurable Workspace]]. Use page templates to create record pages.
+Use record pages to display information in CSM Configurable Workspace. Use page templates to create record pages.
 
 ## Record pages
 
 A record page provides the base structure for how a record is displayed in CSM Configurable Workspace. This includes records such as cases, incidents, and tasks.
 
-Record pages include elements such as layouts, containers, and components to display record information. Some record pages leverage additional logic using presets, controllers, and extension [[gamification-components-points|points]].
+Record pages include elements such as layouts, containers, and components to display record information. Some record pages leverage additional logic using presets, controllers, and extension points.
 
-Several [[csm-config-workspace-record-pages|record pages]] are included with CSM Configurable Workspace. You can use these record pages as is or you can customize them to suit your needs.
+Several [record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md) are included with CSM Configurable Workspace. You can use these record pages as is or you can customize them to suit your needs.
 
 ## Record templates
 
@@ -28,7 +28,7 @@ A page template is a blueprint or a model of a record page that displays informa
 
 Page templates can include components, data resources, extension points, and a layout. When you create a page or a page variant from a page template, you start from a base structure that you can customize to meet your needs.
 
-The Customer Service application includes several [[csm-config-workspace-page-templates|page templates]] that you can use to create pages.
+The Customer Service application includes several [page templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-page-templates.md) that you can use to create pages.
 
 ## Workspace record page interoperability
 
@@ -44,9 +44,3 @@ These ITSM pages are inactive by default. Users with the system administrator ro
 3.  Enable the page for editing and select the **Active** check box.
 4.  Select **Update** to save the changes.
 
-## Related
-
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[csm-config-workspace-page-templates|CSM Configurable Workspace page templates]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]

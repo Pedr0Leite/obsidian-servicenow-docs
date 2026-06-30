@@ -16,7 +16,7 @@ breadcrumb: [Telecom data model, Explore, Telecommunications Service Operations 
 
 The ServiceNow AI Platform® uses a custom data model that defines how SD-WAN connectors discover and retrieve device information.
 
-The high-level [[telecom-data-model|Telecom Data Model]], part of the Common Service Data Model \(CSDM\), does not define how specific technologies such as SD-WAN should be modeled. To address this gap, the SD-WAN data model provides a dedicated set of classes and relationships that define the structure of an SD-WAN network within the Configuration Management Database \(CMDB\).
+The high-level Telecom Data Model, part of the Common Service Data Model \(CSDM\), does not define how specific technologies such as SD-WAN should be modeled. To address this gap, the SD-WAN data model provides a dedicated set of classes and relationships that define the structure of an SD-WAN network within the Configuration Management Database \(CMDB\).
 
 The model documents comprehensive details about network assets, including configuration data, available ports, and bandwidth allocations across sites and services. This enables centralized management of SD-WAN repositories, streamlined provisioning and monitoring, and efficient resource allocation for building and maintaining network infrastructure.
 
@@ -43,6 +43,3 @@ The following table describes the classes used in the SD-WAN data model and the 
 |Per-device license|License assigned to a specific device. Optional|
 |Location|Location of a network site|
 
-## Related
-
-- [[telecom-data-model|Telecom data model]]

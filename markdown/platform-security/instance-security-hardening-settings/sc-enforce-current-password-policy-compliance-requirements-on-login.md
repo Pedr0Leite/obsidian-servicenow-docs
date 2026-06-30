@@ -16,9 +16,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Reduce the risk of brute force account login by enforcing current password policy compliance requirements on login.
 
-Help prevent interactive [[users|users]] from logging in to the instance with passwords that don’t meet current administrator requirements using the **glide.apply.password\_policy.on\_login** system property.
+Help prevent interactive users from logging in to the instance with passwords that don’t meet current administrator requirements using the **glide.apply.password\_policy.on\_login** system property.
 
-Set the **glide.apply.password\_policy.on\_login** system property to **true** to enforce current password policy compliance requirements. If this property doesn’t exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **false**.
+Set the **glide.apply.password\_policy.on\_login** system property to **true** to enforce current password policy compliance requirements. If this property doesn’t exist on the System Properties \[sys\_properties\] table, the default value is **false**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Technical [[sc-configuration|configuration]] name
+Technical configuration name
 
 </td><td>
 
@@ -123,8 +123,3 @@ true
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

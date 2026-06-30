@@ -24,9 +24,9 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  On the side navigation, select the **[[space-planning|Space Planning]]** module.
+2.  On the side navigation, select the **Space Planning** module.
 
     The Space Planning workspace opens with the **Floor plan** tab selected by default.
 
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 4.  Select the neighborhood that you want to edit.
 
-    The neighborhood opens with the [[overview-lxp-widgets|Overview tab]]. The overview displays KPIs for the neighborhood like the total capacity, assigned users, assigned spaces, and assignment ratio.
+    The neighborhood opens with the Overview tab. The overview displays KPIs for the neighborhood like the total capacity, assigned users, assigned spaces, and assignment ratio.
 
 5.  Edit the details of the neighborhood like the name, active status, restricted status, or short description.
 
@@ -58,9 +58,9 @@ Steps
 
 1.  Select the **Spaces** tab.
 2.  On the Spaces list, select **New**.
-3.  On the Create New [[space-new-record-form|Space form]], in the **Space** field, select the space that you want to add to the neighborhood.
+3.  On the Create New Space form, in the **Space** field, select the space that you want to add to the neighborhood.
 4.  Select **Save**.
- **Important:** If you have [[workplace-space-mgmt-ovw|Workplace Space Management]] installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md).
+ **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md).
 
 </td></tr><tr><td id="d164706e181">
 
@@ -157,10 +157,3 @@ For a description of the field values, see [Neighborhood User Assignment Rule fo
 </table>
 **Parent Topic:**[Manage neighborhoods using Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-neighborhoods-central.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]
-- [[overview-lxp-widgets|Overview tab]]
-- [[space-new-record-form|Space form]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

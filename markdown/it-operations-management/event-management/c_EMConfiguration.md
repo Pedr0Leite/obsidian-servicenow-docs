@@ -14,7 +14,7 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # Event Management setup
 
-After activating [[c_EM|Event Management]], set it up to receive and process events, and generate and analyze alerts.
+After activating Event Management, set it up to receive and process events, and generate and analyze alerts.
 
 ## Event Management setup without using guided setup
 
@@ -37,6 +37,3 @@ Set up Event Management by completing these tasks in the following order:
 
 ITOM configuration console provides a sequence of tasks to help you configure Event Management. For more information, see [Configure Event Management using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/aiops-conf-console.md).
 
-## Related
-
-- [[c_EM|Event Management]]

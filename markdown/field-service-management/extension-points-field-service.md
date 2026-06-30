@@ -14,14 +14,14 @@ breadcrumb: [Plan implementation, Configure, Field Service Management]
 
 Use extension points to customize various configurations.
 
-In the application navigator, enter `sys_extension_point.list` and click **Enter** to view the extension points used in the [[fsm-application-landing-page|Field Service Management]] application.
+In the application navigator, enter `sys_extension_point.list` and click **Enter** to view the extension points used in the Field Service Management application.
 
 You can create multiple implementations for each extension point and provide an order number for each implementation. The implementation that has the lowest order number is executed.
 
 Extension points are available for the following configurations:
 
 -   Event type schedule entries
--   [[appointment-booking|Appointment booking]]
+-   Appointment booking
 
 |Extension Point Name|Description|
 |--------------------|-----------|
@@ -172,7 +172,7 @@ Fetches appointment booking configuration details based on the task table select
 
 |Extension Point Name|Description|
 |--------------------|-----------|
-|TerritoryIndicators\(sn\_fsm\_tp.TerritoryIndicators\)|Allows you to define the key performance indicators \(KPIs\) to analyze the performance of the territory. The configured indicators appear in the contextual side panel of the [[territory-planning-fsm|Field Service Territory Planning]] console.|
+|TerritoryIndicators\(sn\_fsm\_tp.TerritoryIndicators\)|Allows you to define the key performance indicators \(KPIs\) to analyze the performance of the territory. The configured indicators appear in the contextual side panel of the Field Service Territory Planning console.|
 
 <table id="table_l5r_gvw_zfc"><thead><tr><th>
 
@@ -246,8 +246,3 @@ For another business unit, you can customize the extension point to create cases
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[appointment-booking|Appointment booking]]
-- [[territory-planning-fsm|Field Service Territory Planning]]

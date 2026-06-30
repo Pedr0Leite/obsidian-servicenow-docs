@@ -16,7 +16,7 @@ For the best outcome, be aware of how the properties in the CSM plugin work. Whe
 
 Instance owners should contact Customer Service and Support to enable the **csm\_auto\_account\_domain\_generation** property.
 
-**Note:** This base system property is located in the [[ca-system-properties|system properties]] table and is available after CSM plugins are enabled.
+**Note:** This base system property is located in the system properties table and is available after CSM plugins are enabled.
 
 -   **What the property does**
 
@@ -29,7 +29,7 @@ Instance owners should contact Customer Service and Support to enable the **csm\
 
 In the header bar, you can see the status of the records with the plugin enabled.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -68,7 +68,7 @@ In the header bar, you can see the status of the records with the plugin enabled
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -84,8 +84,3 @@ In the header bar, you can see the status of the records with the plugin enabled
 
 [Domain assignments]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]

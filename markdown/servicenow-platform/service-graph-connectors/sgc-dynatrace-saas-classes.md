@@ -16,7 +16,7 @@ breadcrumb: [Observability - Dynatrace SaaS, Service Graph Connectors, Integrati
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from Dynatrace. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
-**Important:** The [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]] is designed for the Dynatrace SaaS \(3rd‑generation\) platform and leverages DQL-based APIs and the Grail architecture to import data from Dynatrace into the CMDB. If you're in a Dynatrace managed \(self‑hosted\) or legacy SaaS environment, you should use the [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]].
+**Important:** The Service Graph Connector for Observability - Dynatrace SaaS is designed for the Dynatrace SaaS \(3rd‑generation\) platform and leverages DQL-based APIs and the Grail architecture to import data from Dynatrace into the CMDB. If you're in a Dynatrace managed \(self‑hosted\) or legacy SaaS environment, you should use the Service Graph Connector for Observability - Dynatrace.
 
 ## Application \[cmdb\_ci\_appl\]
 
@@ -90,7 +90,7 @@ The following attributes in the Computer \[cmdb\_ci\_computer\] table are popula
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data.
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data.
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -165,8 +165,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |------------|-----------------|-----------|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Computer \[cmdb\_ci\_computer\]|
 
-## Related
-
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[ip-address|IP Address]]

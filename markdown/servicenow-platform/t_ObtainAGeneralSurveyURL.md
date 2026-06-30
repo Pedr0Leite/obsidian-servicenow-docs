@@ -20,11 +20,11 @@ Role required: admin or survey\_admin
 
 ## About this task
 
-The general URL is available on the Survey Definition form and on the survey creator. You can also [[email|email]] the URL for a public survey that is published.
+The general URL is available on the Survey Definition form and on the survey creator. You can also email the URL for a public survey that is published.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition from the Assessment Metric Types list.
 
@@ -43,7 +43,7 @@ When a survey user clicks the general survey URL, the system creates a survey in
 
 As a result, the survey user receives a second notification in addition to the notification that you sent with the general survey URL. This may confuse the survey user. To avoid this issue, you can deactivate auto-notification.
 
-**Parent Topic:**[[c_SurveyURLs|Survey URLs]]
+**Parent Topic:**[Survey URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyURLs.md)
 
 **Related topics**  
 
@@ -54,8 +54,3 @@ As a result, the survey user receives a second notification in addition to the n
 
 [Test a survey URL]()
 
-## Related
-
-- [[c_SurveyURLs|Survey URLs]]
-- [[email|Email]]
-- [[r_SurveyManagementLandingPage|Surveys]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Product Release, IT Service Management]
 
 # Release for a product or service
 
-A release groups all the tasks \(projects, epics, stories, enhancements, defects, problems, incidents, and so on\) planned for a specific version of a product or service. [[dpr-landing-page|Digital Product Release]] provides two different processes: timeline-oriented and stage-oriented, to help you in executing your releases.
+A release groups all the tasks \(projects, epics, stories, enhancements, defects, problems, incidents, and so on\) planned for a specific version of a product or service. Digital Product Release provides two different processes: timeline-oriented and stage-oriented, to help you in executing your releases.
 
 A release is divided into a series of phases. During each phase, a defined list of tasks, approval processes, and policies must be fulfilled.
 
@@ -138,6 +138,3 @@ For more information, see [Work on a timeline-oriented release for multiple prod
 
 [Managing multiple releases through release bundles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-bundle.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]

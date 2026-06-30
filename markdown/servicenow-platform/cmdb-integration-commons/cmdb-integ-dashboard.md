@@ -14,7 +14,7 @@ breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMD
 
 # CMDB Integrations Dashboard
 
-You can use the CMDB Integrations Dashboard that provides a central view of status, processing results, and processing errors of all installed [[cmdb-sgc-available|Service Graph Connectors]] and any custom integrations created in [[integrationhub-etl|IntegrationHub ETL]] run.
+You can use the CMDB Integrations Dashboard that provides a central view of status, processing results, and processing errors of all installed Service Graph Connectors and any custom integrations created in IntegrationHub ETL run.
 
 **Note:** Starting with the Xanadu release, the CMDB Integrations Dashboard is available in the Next Experience user interface. For more information on the Next Experience user interface, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
 
@@ -24,7 +24,7 @@ Learn more about the CMDB Integrations Dashboard from the following video.
 
 ## Access CMDB Integrations Dashboard
 
-Access the CMDB Integrations Dashboard provided with the [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app for maintaining data consistency and accuracy across multiple data sources.
+Access the CMDB Integrations Dashboard provided with the Integration Commons for CMDB store app for maintaining data consistency and accuracy across multiple data sources.
 
 ### Before you begin
 
@@ -32,7 +32,7 @@ Role required: None
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Dashboards**.
 
     **Tip:** Alternatively, you can navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
@@ -49,9 +49,4 @@ Role required: None
         |CMDB Applications|Select **All**, or a CMDB application, such as **SCCM**, or a custom integration, from which to include integration runs in metrics.|
         |CMDB Import|Select **All**, or a specific integration run to include in metrics.|
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[self-service-landing|Self-service]]

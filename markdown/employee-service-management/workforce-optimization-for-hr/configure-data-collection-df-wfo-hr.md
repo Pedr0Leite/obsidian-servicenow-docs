@@ -47,7 +47,7 @@ Role required: sn\_hr\_wfo.admin
     5.  Create an index for the table you have created using the date field and the conditions you have added to the table. For information on creating a table index, see [Create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateCustomIndex.md).
 
 -   **[Add parameters to be defined in the formula](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/add-formula-parameters-wfo-hr.md)**  
-[[add-formula-parameters-wfo-hr|Add parameters to be defined in the formula]] to calculate agent count per hour in a day.
+Add parameters to be defined in the formula to calculate agent count per hour in a day.
 -   **[Configure resource conversion formula](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-reverse-conversion-wfo-hr.md)**  
 Configure the resource conversion formula.
 -   **[Group forecast configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/group-forecase-configuration-wfo-hr.md)**  
@@ -55,6 +55,3 @@ Associate an assignment group with a Resource Conversion Formula. You can assign
 
 **Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-demand-forecast-wfo-hr.md)
 
-## Related
-
-- [[add-formula-parameters-wfo-hr|Add parameters to be defined in the formula]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[qr-code-mgmt|QR code management]]** &gt; **Manage QR codes**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **QR code management** &gt; **Manage QR codes**.
 
 2.  To generate a new QR code, click **New**.
 
@@ -41,7 +41,3 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[QR code management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/qr-code-mgmt.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[qr-code-mgmt|QR code management]]

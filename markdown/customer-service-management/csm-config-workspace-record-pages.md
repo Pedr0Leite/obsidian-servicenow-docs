@@ -12,11 +12,11 @@ breadcrumb: [Record pages and page templates, CSM Configurable Workspace, Organi
 
 # CSM Configurable Workspace record pages
 
-A record page provides the base structure for how a record is displayed in [[csm-workspaces-configure|CSM Configurable Workspace]]. This includes records such as cases, tasks, and interactions.
+A record page provides the base structure for how a record is displayed in CSM Configurable Workspace. This includes records such as cases, tasks, and interactions.
 
 ## Record page overview
 
-Record pages include elements such as layouts, containers, and components to display record information. Some record pages leverage additional logic using presets, controllers, and extension [[gamification-components-points|points]]. Pages with preset and controller logic benefit from reusability because they automatically inherit styling, events, and data binding. This reusability makes simplifies configuration and makes the pages upgrade friendly.
+Record pages include elements such as layouts, containers, and components to display record information. Some record pages leverage additional logic using presets, controllers, and extension points. Pages with preset and controller logic benefit from reusability because they automatically inherit styling, events, and data binding. This reusability makes simplifies configuration and makes the pages upgrade friendly.
 
 Several record pages are included with CSM Configurable Workspace. You can use these record pages as is or you can customize them to suit your needs. For more information about customizing record pages, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-pages.md).
 
@@ -34,15 +34,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-default-record-page|CSM default record page]]
+[CSM default record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md)
 
 </td><td>
 
-This page provides the basic structure for [[case-management|case management]], including record information, chat and phone features, and suggestions for resolving issues.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md).
+This page provides the basic structure for case management, including record information, chat and phone features, and suggestions for resolving issues.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md).
 
 </td></tr><tr><td>
 
-[[csm-front-line-case-page|Front-line case page]]
+[Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ This page is designed for front-line agents. It provides a simplified case view 
 
 </td></tr><tr><td>
 
-[[csm-interaction-record-page|CSM Interaction record page]]
+[CSM Interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-interaction-record-page.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ This page includes CSM-specific features for interaction management, including i
 
 </td></tr><tr><td>
 
-[[csm-email-interaction-record-page|Email interaction record page]]
+[Email interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-email-interaction-record-page.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ This page enables agents to manage email conversations with customers using inte
 
 </td></tr><tr><td>
 
-[[csm-native-voice-record-page|CSM voice interaction record page]]
+[CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ This page provides a component that customers can use for integration with Conta
 
 </td></tr><tr><td>
 
-[[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
+[CSM centered chat interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Layouts
 
 </td><td>
 
-The metadata that determines how components are positioned on a page and what CSS [[gamification-components-rules|rules]] apply. Layouts enable you to create useful and visually appealing pages.
+The metadata that determines how components are positioned on a page and what CSS rules apply. Layouts enable you to create useful and visually appealing pages.
 
 </td></tr><tr><td>
 
@@ -190,23 +190,10 @@ Upgrade customers retain their custom record pages. However, the following pages
 -   Record default
 -   Interaction record page
 
-For more information about setting the default record pages, see [[config-csm-ws-set-record-page-order|Set record page order]].
+For more information about setting the default record pages, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 **Note:** Starting with the Australia release, the admin role includes all roles. With this change, the admin role can see the following pages:
 
 -   Front-line case page
 -   CSM centered chat interaction record page
 
-## Related
-
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-email-interaction-record-page|Email Interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]
-- [[case-management|Case management]]
-- [[gamification-components-rules|Rules]]

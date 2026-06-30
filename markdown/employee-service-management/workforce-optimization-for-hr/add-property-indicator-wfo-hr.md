@@ -14,7 +14,7 @@ breadcrumb: [Configure coaching, Configure, Workforce Optimization overview, HR 
 
 # Configure an indicator to display in the Coaching Overview tab in Workforce Optimization for HR
 
-Add a system property to display the desired indicator in the Coaching [[overview-lxp-widgets|Overview tab]] in the Coaching application.
+Add a system property to display the desired indicator in the Coaching Overview tab in the Coaching application.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ sn\_coaching.coach
 
 **Parent Topic:**[Configure Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-coaching-wfo-hr.md)
 
-## Related
-
-- [[overview-lxp-widgets|Overview tab]]

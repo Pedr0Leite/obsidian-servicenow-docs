@@ -14,7 +14,7 @@ breadcrumb: [Field Service Manager Mobile, Completing work on mobile, Use, Field
 
 # Filter agents in Field Service Manager Mobile
 
-Managers can quickly filter agents and find the agent they need to [[t_AssignATask|assign a work order task]] to.
+Managers can quickly filter agents and find the agent they need to assign a work order task to.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap **Teams** and open the Assignment group or territory that the agent you want to filter for belongs to.
 
@@ -32,7 +32,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 5.  Tap **Apply**.
 
-## Related
 
-- [[t_AssignATask|Assign a work order task]]
-- [[manager-mobile-app|Field Service Manager Mobile]]

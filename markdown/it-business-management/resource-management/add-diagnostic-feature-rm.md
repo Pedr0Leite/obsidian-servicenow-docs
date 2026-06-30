@@ -34,7 +34,7 @@ You can check for the existing features under the **Features** module. If you do
 
 2.  Select **New**.
 
-3.  On the [[diagnostics-feature-form|Diagnostics Feature form]], fill the fields.
+3.  On the Diagnostics Feature form, fill the fields.
 
     For a description of the field names, see [Diagnostics Feature form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/diag-feature-form.md).
 
@@ -51,6 +51,3 @@ Create diagnostic scripts and add fix scripts to use with the diagnostic feature
 
 **Parent Topic:**[Use Resource Diagnostics to detect corrupt resource data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-diagnostics.md)
 
-## Related
-
-- [[diagnostics-feature-form|Diagnostics Feature form]]

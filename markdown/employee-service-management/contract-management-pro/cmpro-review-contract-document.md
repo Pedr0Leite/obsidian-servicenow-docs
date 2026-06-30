@@ -14,7 +14,7 @@ breadcrumb: [Contract analysis, Use generative AI skills, Now Assist in CM Pro, 
 
 # Review the Now Assist suggestions for clause deviations
 
-Review the Now Assist suggestions for clause deviations and take actions by using the [[cncore-now-assit-landing|Now Assist in Contract Management]] application to ensure that the clauses comply with the guidelines of the company.
+Review the Now Assist suggestions for clause deviations and take actions by using the Now Assist in Contract Management application to ensure that the clauses comply with the guidelines of the company.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 A clause is a section in a contract document that outlines the guidelines of the company agreement, such as the purpose, term, or confidentiality.
 
 -   As an assigned-to collaborator or group manager with the sn\_cm\_gen\_ai.ai\_contract\_fulfiller role, review and act on the suggestions from the contract analysis when the contract request is in the Work in progress state.
--   The [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] isn’t supported when the document is opened from the Google Drive. If you're using Google Drive for external storage, you must download the document from Google Drive and work on it offline.
+-   The Microsoft Word add-in for ServiceNow Contracts isn’t supported when the document is opened from the Google Drive. If you're using Google Drive for external storage, you must download the document from Google Drive and work on it offline.
 -   If you're using the Microsoft OneDrive configuration for external storage, you can work on the document online or download it to work on it offline.
 -   If you work on the suggestions offline, you must upload the document manually by creating a revision in the contract request. For more information, see [Create a document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
 
@@ -45,7 +45,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d268568e159">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -248,8 +248,3 @@ Select **Ignore**.
 
 **Parent Topic:**[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-contract-workspace|Contract Workspace]]

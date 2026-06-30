@@ -77,7 +77,7 @@ The date and time slots indicate the agent's availability.
 
 ## Reschedule a callback using Engagement Messenger
 
-[[reschedule-callback|Reschedule a callback]] from an agent using Engagement Messenger.
+Reschedule a callback from an agent using Engagement Messenger.
 
 ### Before you begin
 
@@ -105,7 +105,7 @@ Role required: none
 
 ## Cancel a callback using Engagement Messenger
 
-[[cancel-callback|Cancel a callback]] from an agent using Engagement Messenger.
+Cancel a callback from an agent using Engagement Messenger.
 
 ### Before you begin
 
@@ -127,7 +127,3 @@ Role required: none
 -   A callback request is canceled.
 -   A confirmation email is sent.
 
-## Related
-
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]

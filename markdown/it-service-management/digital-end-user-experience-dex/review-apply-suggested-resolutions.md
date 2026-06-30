@@ -14,7 +14,7 @@ breadcrumb: [Suggested resolutions and remedial actions, Incident diagnostics an
 
 # Execute suggested resolutions from incident investigation with DEX
 
-Review and execute suggested resolutions from the Investigation tab of incident records to resolve detected issues on DEX monitored [[dex-workspace-devices-tab|devices]].
+Review and execute suggested resolutions from the Investigation tab of incident records to resolve detected issues on DEX monitored devices.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_dex.service\_desk\_user, sn\_dex.engineer
 
 ## About this task
 
-In addition to the suggested resolutions, you can [[remedial-actions-action-library|run remedial actions from the Action library]] in [[dex-diagnostics-guided-resolutions|incident investigation with DEX]]. For more information, see [Run remedial actions from the Action library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-action-library.md).
+In addition to the suggested resolutions, you can run remedial actions from the Action library in incident investigation with DEX. For more information, see [Run remedial actions from the Action library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-action-library.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ In addition to the suggested resolutions, you can [[remedial-actions-action-libr
     -   Self-help instruction: Select **View self-help instructions** to view and execute steps to resolve an issue. After completion, select the **Mark as completed** check box.
     -   Catalog request: Select **Create catalog request** to submit a catalog request automatically.
     -   Help resources: Select **View help resource** to navigate to documentation with steps to resolve the issue. After executing the steps, select the **Mark as completed** check box.
-5.  If a suggested resolution is a [[remedial-action|remedial action]], execute it.
+5.  If a suggested resolution is a remedial action, execute it.
 
     1.  Select **Run action** to execute the remedial action automatically.
 
@@ -67,9 +67,4 @@ In addition to the suggested resolutions, you can [[remedial-actions-action-libr
 
     3.  Choose the action and select **Cancel** on the action card.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-actions-action-library|Run remedial actions from the Action library]]
-- [[dex-diagnostics-guided-resolutions|Incident investigation with DEX]]
-- [[remedial-action|Remedial action]]

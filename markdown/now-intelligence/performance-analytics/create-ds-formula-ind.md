@@ -14,7 +14,7 @@ breadcrumb: [Data snapshots and multiple breakdowns, Configure fundamentals, Per
 
 # Create a Data snapshots formula indicator
 
-[[t_CreateAFormulaIndicator|Create a formula indicator]] to calculate a score from two or more Data snapshots indicators.
+Create a formula indicator to calculate a score from two or more Data snapshots indicators.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Determine whether your use case meets the following requirements:
 
 -   Your license enables you to create indicators.
 -   You have Data snapshots enabled on your instance. For more information, see [Activate Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/activate-unlimited-breakdowns.md).
--   You have suitable Data snapshots [[automated-indicators|automated indicators]].
+-   You have suitable Data snapshots automated indicators.
 
 Role required: pa\_power\_user, pa\_admin, or admin
 
@@ -49,8 +49,8 @@ The fields of a formula indicator are similar to the fields of an automated indi
 
 2.  Follow one of these procedures to start creating a Data snapshots automated indicator:
 
-    -   Create an indicator from the Indicator library, as described in [[create-indicator-from-library|Create an indicator from the library]].
-    -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **[[formula-indicators|Formula Indicators]] - Data Snapshots** and select **New**.
+    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-indicator-from-library.md).
+    -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **Formula Indicators - Data Snapshots** and select **New**.
 3.  If you selected **Create indicator** from the indicator library, select the Formula indicator type and Data snapshots source type.
 
     \[Omitted image "create-ds-form-indicator.png"\] Alt text: Create new indicator page opened from indicator library.
@@ -81,21 +81,12 @@ The fields of a formula indicator are similar to the fields of an automated indi
 
         Enter any operators or numbers to include in the formula. Use valid operator symbols, such as +, -, /, %, &gt;, &lt;. You can also add more indicators to the formula. For example, to calculate the average age of open incidents, use the following formula: `[[Summed age of open incidents]] / [[Open incidents]] / 24`
 
-    **Note:** Data snapshots indicators don’t support the [[PAFormulaUtils|PAFormulaUtils API]]. Thus, those methods aren’t available in formulas. Data snapshots indicators also don’t support breakdowns as such. Instead, you can use any fields common to the sources of all the contributing indicators to filter the formula indicator scores on a data visualization or in [[kpi-details|KPI Details]].
+    **Note:** Data snapshots indicators don’t support the PAFormulaUtils API. Thus, those methods aren’t available in formulas. Data snapshots indicators also don’t support breakdowns as such. Instead, you can use any fields common to the sources of all the contributing indicators to filter the formula indicator scores on a data visualization or in KPI Details.
 
-9.  In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+9.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
 10. Select **Submit** or **Update**.
 
 
 **Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md)
 
-## Related
-
-- [[create-indicator-from-library|Create an indicator from the library]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[PAFormulaUtils|PAFormulaUtils API]]
-- [[kpi-details|KPI Details]]
-- [[access-control|Access control]]

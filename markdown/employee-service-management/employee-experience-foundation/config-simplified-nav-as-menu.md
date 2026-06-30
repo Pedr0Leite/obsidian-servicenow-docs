@@ -14,7 +14,7 @@ breadcrumb: [Simplified Navigation, Advanced Portal Navigation, Setup Employee C
 
 # Configure simplified left navigation
 
-[[simple-portal-navigation-ec|Simplified navigation]] helps use an intuitive navigation for better information architecture and topic discovery.
+Simplified navigation helps use an intuitive navigation for better information architecture and topic discovery.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: Admin and SP Admin
 
 ## About this task
 
-Using [[adv-portal-navigation-overview|advanced portal navigation]], you can enable single-click sync across all APN hierarchy levels, replacing level-by-level sync. You can design the primary navigation menu and configure the navigation setup as per employee needs and content priorities.
+Using advanced portal navigation, you can enable single-click sync across all APN hierarchy levels, replacing level-by-level sync. You can design the primary navigation menu and configure the navigation setup as per employee needs and content priorities.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Advanced Portal Navigation**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Advanced Portal Navigation**.
 
 2.  Click **New** to create a new record or view the list of the available APN records.
 
@@ -59,8 +59,3 @@ Using [[adv-portal-navigation-overview|advanced portal navigation]], you can ena
 
 Simplified navigation record is saved. Your employees can view the new left navigation from Employee Center.
 
-## Related
-
-- [[simple-portal-navigation-ec|Simplified Navigation]]
-- [[adv-portal-navigation-overview|Advanced Portal Navigation]]
-- [[employee-center-landing-page|Employee Center]]

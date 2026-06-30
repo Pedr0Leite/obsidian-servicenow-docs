@@ -22,7 +22,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -41,13 +41,9 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 All the custodians receive the mail stating that the legal hold is released.
 
-The message **Legal matter has been closed** appears in the **[[activity-lxp|Activity]]** section.
+The message **Legal matter has been closed** appears in the **Activity** section.
 
 In the legal hold matter page, the state changes from Work in progress to Closed Complete.
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

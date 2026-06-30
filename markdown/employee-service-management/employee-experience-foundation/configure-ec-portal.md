@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center, Employee Center, Unified Employee Expe
 
 # Employee Center admin configurations
 
-As the system admin, [[activate-ec|install Employee Center]] plugins, assign roles to users so they can configure [[employee-center-landing-page|Employee Center]] features, set the theme, header, and footer, and [[ec-direction-right-to-left-languages|enable support for right-to-left languages]].
+As the system admin, install Employee Center plugins, assign roles to users so they can configure Employee Center features, set the theme, header, and footer, and enable support for right-to-left languages.
 
 The Employee Center application provides out-of-the-box portal pages with relevant widgets necessary to deliver an employee-centric portal experience.
 
@@ -35,8 +35,3 @@ To get started, follow these key steps to configure the portal:
 
     -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-notification-template.md)
 
-## Related
-
-- [[activate-ec|Install Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-direction-right-to-left-languages|Enable support for right-to-left languages]]

@@ -37,8 +37,5 @@ Role required: admin
     2.  From the **Actions on selected rows** drop-down, select **Resend Blocked Emails**.
 
 
-**Parent Topic:**[[email-bounce|Email bounce management]]
+**Parent Topic:**[Email bounce management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-bounce.md)
 
-## Related
-
-- [[email-bounce|Email bounce management]]

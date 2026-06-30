@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Semantic Index Field form
 
-The Semantic Index Field form enables you to define a semantic index field for use in an [[ia-ai-search|AI Search]] semantic index configuration.
+The Semantic Index Field form enables you to define a semantic index field for use in an AI Search semantic index configuration.
 
 To learn about defining and modifying semantic indexing settings for an indexed source, see [Configure semantic indexing settings for an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-semantic-indexing-ais.md). For details on semantic index configuration fields, see [Semantic Index Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-index-configuration-form.md).
 
@@ -86,6 +86,3 @@ Name of the source table field to include in the semantic index. This field's va
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

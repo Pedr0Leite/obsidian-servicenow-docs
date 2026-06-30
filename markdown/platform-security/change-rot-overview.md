@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Change your Root of Trust configuration
 
-Trust and use your own [[c_Certificates|certificates]] instead of relying on ServiceNow build certificates \(default\) by changing to use your Root of Trust \(ROT\). ServiceNow components like script includes, business rules, etc., are signed at build time using a ServiceNow build time key \(verification certificate is the ServiceNow build certificate\).
+Trust and use your own certificates instead of relying on ServiceNow build certificates \(default\) by changing to use your Root of Trust \(ROT\). ServiceNow components like script includes, business rules, etc., are signed at build time using a ServiceNow build time key \(verification certificate is the ServiceNow build certificate\).
 
 ## Changing the root of trust
 
@@ -21,13 +21,13 @@ To change the Root of Trust for these records signatures, you must follow the ch
 -   Generate and migrate a new set of signatures for all provided components, using your provided certificate.
 -   Disable the Root of Trust property using a scheduled job.
 
-Learn more about these steps in [[migrate-sigs-customer-rot|Migrate signatures to use a customer certificate]] and [[disable-sn-rot|Disable ServiceNow Root of Trust]].
+Learn more about these steps in [Migrate signatures to use a customer certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/migrate-sigs-customer-rot.md) and [Disable ServiceNow Root of Trust](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/disable-sn-rot.md).
 
 ## Impact on the signature generation and verification process
 
-By default, [[code-signing-landing|Code Signing]] build certificates are trusted during the signature verification process. After making this change, your instance accepts signatures only from your own Code Signing certificate.
+By default, Code Signing build certificates are trusted during the signature verification process. After making this change, your instance accepts signatures only from your own Code Signing certificate.
 
-\[Omitted image "root-of-trust-1.png"\] Alt text: Before and after changing the ROT [[sc-configuration|configuration]]
+\[Omitted image "root-of-trust-1.png"\] Alt text: Before and after changing the ROT configuration
 
 <table id="table_txw_zd2_pzb"><thead><tr><th>
 
@@ -60,13 +60,5 @@ ROT property set to true
     -   The isTrusted\(\) API returns `false` for signatures with a build certificate.
     -   The isTrusted\(\) API returns `true` for signatures with your certificate.
     -   The REST API call for certificates excludes build certificates.
-    -   You may see MID Server issues, such as `signature validation failed` messages in the [[logs|logs]].
+    -   You may see MID Server issues, such as `signature validation failed` messages in the logs.
 
-## Related
-
-- [[migrate-sigs-customer-rot|Migrate signatures to use a customer certificate]]
-- [[disable-sn-rot|Disable ServiceNow Root of Trust]]
-- [[c_Certificates|Certificates]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

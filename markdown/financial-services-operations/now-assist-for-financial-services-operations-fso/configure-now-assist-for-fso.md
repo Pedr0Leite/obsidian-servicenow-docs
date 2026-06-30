@@ -15,7 +15,7 @@ breadcrumb: [Configure AI skills, Configure, Now Assist for FSO, Financial Servi
 
 # Configure case summarization in Now Assist for Financial Services Operations \(FSO\)
 
-If you have the admin role, you can configure the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application so that your agents can use case summarization skills in [[fso-overview|Financial Services]] Workspace and Core UI.
+If you have the admin role, you can configure the Now Assist for Financial Services Operations \(FSO\) application so that your agents can use case summarization skills in Financial Services Workspace and Core UI.
 
 ## Before you begin
 
@@ -79,7 +79,3 @@ You can choose which service provider to use for this skill [in the Now Assist A
 
 **Parent Topic:**[Configure Financial Services Operations Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-now-assist-skills.md)
 
-## Related
-
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[fso-overview|Financial Services]]

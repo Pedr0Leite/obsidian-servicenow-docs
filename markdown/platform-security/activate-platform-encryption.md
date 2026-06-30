@@ -12,27 +12,27 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Activate Field Encryption
 
-Activate either [[field-encryption|Field Encryption]] Starter or [[now-platform-encryption|Field Encryption Enterprise]].
+Activate either Field Encryption Starter or Field Encryption Enterprise.
 
 ## Before you begin
 
 Role required: admin
 
-ServiceNow has replaced [[column-level-encryption-landing|Column Level Encryption]] with Field Encryption beginning in the Yokohama release.
+ServiceNow has replaced Column Level Encryption with Field Encryption beginning in the Yokohama release.
 
 In the Yokohama release, customers that have not previously used Column Level Encryption may start using either Field Encryption Starter or Field Encryption Enterprise under the new entitlement structure.
 
-Customers that were [[using-column-level-encryption-2|using Column Level Encryption]] in previous releases, and who want to begin [[using-column-level-encryption|using Field Encryption]], have the following options:
+Customers that were using Column Level Encryption in previous releases, and who want to begin using Field Encryption, have the following options:
 
 -   **Field Encryption Starter**
 
-    Column Level Encryption Starter customers can install Field Encryption Starter with no need for re-implementation. Field Encryption Starter takes over the existing [[sc-configuration|configuration]] and adds new features seamlessly.
+    Column Level Encryption Starter customers can install Field Encryption Starter with no need for re-implementation. Field Encryption Starter takes over the existing configuration and adds new features seamlessly.
 
-    **Warning:** There are differences in entitlement between Column Level Encryption Starter and Field Encryption Starter. Before installing Field Encryption Starter, ensure that your configuration complies with the entitlements. For information on entitlements for Field Encryption Starter, see [[exploring-fe|Exploring Field Encryption]].
+    **Warning:** There are differences in entitlement between Column Level Encryption Starter and Field Encryption Starter. Before installing Field Encryption Starter, ensure that your configuration complies with the entitlements. For information on entitlements for Field Encryption Starter, see [Exploring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md).
 
 -   **Field Encryption Enterprise**
 
-    [[now-platform-encryption-2|Column Level Encryption Enterprise]] customers should work with their account teams to ensure they have the correct entitlement for Field Encryption Enterprise. Once that happens, the Field Encryption Enterprise plugin will be available to install in their instances.
+    Column Level Encryption Enterprise customers should work with their account teams to ensure they have the correct entitlement for Field Encryption Enterprise. Once that happens, the Field Encryption Enterprise plugin will be available to install in their instances.
 
     **Important:** Column Level Encryption Enterprise does not automatically grant an entitlement to Field Encryption Enterprise, as it is a different, but replacement, product.
 
@@ -52,16 +52,5 @@ Customers that were [[using-column-level-encryption-2|using Column Level Encrypt
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[exploring-fe|Exploring Field Encryption]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]

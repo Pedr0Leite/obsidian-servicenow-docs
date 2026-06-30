@@ -14,9 +14,9 @@ breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer
 
 # Configure chat summarization
 
-Configure Chat Summarization to generate condensed summaries of conversations between agents or with a Virtual Agent, highlighting key [[gamification-components-points|points]] for quick reference.
+Configure Chat Summarization to generate condensed summaries of conversations between agents or with a Virtual Agent, highlighting key points for quick reference.
 
-\[Omitted video\] Description: Configure the [[csm-config-ws-chat-summary|chat summarization]] skill
+\[Omitted video\] Description: Configure the chat summarization skill
 
 ## Before you begin
 
@@ -168,14 +168,10 @@ Input fields
 
 8.  Select **Display** to determine where the resolution notes appear.
 
-    -   Select **In-product desktop** to display Now Assist skills on [[migration-forms|forms]] and workspaces.
+    -   Select **In-product desktop** to display Now Assist skills on forms and workspaces.
     -   Select **Now Assist panel** to display Now Assist skills in the Now Assist panel.
 9.  After selecting **Review and Activate** to examine changes, select **Done** to close the Chat Summarization generation settings.
 
 10. Select **Skill** to turn on the skill for agents and complete the configuration.
 
-## Related
 
-- [[gamification-components-points|Points]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[migration-forms|Forms]]

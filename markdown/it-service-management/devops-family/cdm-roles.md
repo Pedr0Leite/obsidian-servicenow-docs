@@ -16,7 +16,7 @@ breadcrumb: [DevOps Config roles, DevOps Config reference, DevOps Config, IT Ser
 
 List of roles and permissions in CDM.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## CDM roles
 
@@ -65,7 +65,7 @@ Event Management user \[evt\_mgmt\_user\]
 
 -   View the contents of the snapshots.
 -   View the Investigate page for a change request \(CHG\) on the Service Operations Workspace.
--   [[cdm-snapshots-view-list|View snapshots]], nodes, and changesets, regardless of whether this user is a member of **Maintained by** groups set at the application level.
+-   View snapshots, nodes, and changesets, regardless of whether this user is a member of **Maintained by** groups set at the application level.
 
 </td><td>
 
@@ -81,7 +81,7 @@ CDM Editor \[sn\_cdm.cdm\_editor\]
 -   Create and commit changesets.
 -   Validate snapshots.
 -   Publish and unpublish snapshots.
--   Create, update, and delete config data withing CDM [[dex-workspace-application-tab|applications]].
+-   Create, update, and delete config data withing CDM applications.
 -   Add and manage component libraries.
 -   Add and delete shared components in a component library.
 
@@ -156,7 +156,7 @@ CDM Admin \[sn\_cdm.cdm\_admin\]
 -   Create/update/delete applications.
 -   Create/update/delete deployables.
 -   Create/update/delete config data.
--   Change [[settings-mobile|settings]] on deployables to enforce snapshot validation.
+-   Change settings on deployables to enforce snapshot validation.
 
 </td><td>
 
@@ -187,9 +187,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Config roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-roles.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[cdm-snapshots-view-list|View snapshots]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

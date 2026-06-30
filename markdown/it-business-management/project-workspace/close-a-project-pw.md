@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Closing a project in Project Workspace
 
-End the project when all tasks are completed. When you close a project, all [[t_CreateAProjectTask|project tasks]], sub-projects, and resource assignments associated with the project are closed automatically.
+End the project when all tasks are completed. When you close a project, all project tasks, sub-projects, and resource assignments associated with the project are closed automatically.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: it\_project\_manager
 
 ## About this task
 
-Ideally, you should not reopen a project after it is closed. Updating the project state from Closed to Work In Progress, Pending, or Open is not allowed. If you still need to reopen a closed project, reopen an existing project task or add a new task to the project. This action for a task moves the project from Closed to Work in Progress state without affecting the other closed tasks. You can cancel the associated future [[c_ResourcePlans|resource plans]] and complete the allocated resource plans for a closed project.
+Ideally, you should not reopen a project after it is closed. Updating the project state from Closed to Work In Progress, Pending, or Open is not allowed. If you still need to reopen a closed project, reopen an existing project task or add a new task to the project. This action for a task moves the project from Closed to Work in Progress state without affecting the other closed tasks. You can cancel the associated future resource plans and complete the allocated resource plans for a closed project.
 
 ## Procedure
 
-1.  Open a project from the planning page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the planning page of Project Workspace.
 
     For information on how to navigate to the planning page, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Verify that your work is completed for all the tasks in the project you want to close.
 
-3.  On the [[create-a-project-form|Project form]], change the state field to one of the closed states:
+3.  On the Project form, change the state field to one of the closed states:
 
     -   Closed complete
     -   Closed Incomplete
@@ -68,9 +68,3 @@ For projects created from an incident, problem, or change, updating the project 
 
 [Add a RIDAC record to a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-risk-project-project-workspace.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

@@ -14,7 +14,7 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Configuring Major Security Incident Management
 
-[[configure-cortex-xsiam-siem|Install and configure]] [[major-security-incident-management-landing-page|Major Security Incident Management]] application.
+Install and configure Major Security Incident Management application.
 
 **Important:**
 
@@ -24,17 +24,11 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 Use this section to learn how to set up the necessary configurations required to work with Major Security Incident records by integrating with other external Microsoft applications to establish connections with ServiceNow instance.
 
 -   **[Configure File Explorer Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/file-explorer.md)**  
-The File Explorer workspace component organizes and tracks the collection of artifacts \(files\) related to a major security incident. It is designed to support integration with any third-party file hosting provider such as Microsoft SharePoint in the [[msim-workspace|Major Security Incident Management workspace]].
+The File Explorer workspace component organizes and tracks the collection of artifacts \(files\) related to a major security incident. It is designed to support integration with any third-party file hosting provider such as Microsoft SharePoint in the Major Security Incident Management workspace.
 -   **[Configure Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/chat-channel-provider-config.md)**  
 Configure Major Security Incident Management with Microsoft Teams which helps communication over the chat to resolve Major Security Incident.
 -   **[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-slack-chat-connector-msi.md)**  
-[[integrating-threat-intelligence-security-center|Integrate]] and collaborate with Slack to resolve Major Security Incident to view and filter collaboration chat activities.
+Integrate and collaborate with Slack to resolve Major Security Incident to view and filter collaboration chat activities.
 
 **Parent Topic:**[Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[integrating-threat-intelligence-security-center|Integrate]]

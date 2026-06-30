@@ -65,9 +65,9 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
 9.  For the Manual Indicators, add a new data point every month.
 
-    As an example, given the fixed nature of the [[impact-landing-page|Impact]] VM - Legacy HR Systems Annual Run-Rate indicator, you only need to enter this data point once.
+    As an example, given the fixed nature of the Impact VM - Legacy HR Systems Annual Run-Rate indicator, you only need to enter this data point once.
 
-    **Important:** If you do not have full access to Performance/Platform [[io-analytics|Analytics]] through a Pro or Enterprise subscription, you are required to enter this data point every month.
+    **Important:** If you do not have full access to Performance/Platform Analytics through a Pro or Enterprise subscription, you are required to enter this data point every month.
 
     1.  Navigate to **Performance/Platform Analytics** &gt; **Scoresheet**, and then select **Impact VM - Legacy HR Systems Annual Run-Rate**.
 
@@ -75,7 +75,4 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
         \[Omitted image "dct\_man\_data\_points\_hr.png"\] Alt text: Example with Mar 2024 cell selected with no Indicator score entered.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[io-analytics|Analytics]]

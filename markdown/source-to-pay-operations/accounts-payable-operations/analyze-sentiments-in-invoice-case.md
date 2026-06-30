@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist for Accounts Payable Operations \(APO\), Now Assis
 
 # Analyze sentiments in invoice cases
 
-Use the Sentiment Analysis skill in [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] to analyze requester's response and determine the sentiment associated with an invoice case.
+Use the Sentiment Analysis skill in Now Assist for Accounts Payable Operations \(APO\) to analyze requester's response and determine the sentiment associated with an invoice case.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
     A list of options within the workspace is displayed.
 
-3.  Select **[[invoices|Invoices]] &gt;****All invoices.**
+3.  Select **Invoices &gt;****All invoices.**
 
 4.  Select an invoice case.
 
@@ -42,8 +42,4 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
     Invoice cases display Sentiment analysis.
 
-## Related
 
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]

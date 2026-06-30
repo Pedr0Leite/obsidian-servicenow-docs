@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-One method is to track the active status of AD [[users|users]] and create a business rule to update corresponding accounts when an AD account is inactive.
+One method is to track the active status of AD users and create a business rule to update corresponding accounts when an AD account is inactive.
 
 ## Procedure
 
@@ -54,6 +54,4 @@ One method is to track the active status of AD [[users|users]] and create a busi
 
     '514' indicates an inactive account.
 
-## Related
 
-- [[users|Users]]

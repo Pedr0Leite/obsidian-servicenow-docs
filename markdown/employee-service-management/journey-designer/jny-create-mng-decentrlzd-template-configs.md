@@ -14,7 +14,7 @@ breadcrumb: [Create plan configurations, Configure Journey designer features, Co
 
 # Create Journey designer plan configuration
 
-[[jny-dsgnr-create-journey|Create a Journey]] designer plan configuration in [[jny-dsgnr-landing-page-1|Journey designer]] version 2.
+Create a Journey designer plan configuration in Journey designer version 2.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ServiceNow administrators create Journey Plan Configurations for managers to use when creating journeys. Plan configuration owners update plan configuration to keep the plan configurations current.
 
-After the initial plan configuration is created, admins can assign owners and approvers for plan configuration maintenance. Owners can add their own stages and task templates from the [[employee-center-landing-page|Employee Center]].
+After the initial plan configuration is created, admins can assign owners and approvers for plan configuration maintenance. Owners can add their own stages and task templates from the Employee Center.
 
 ## Procedure
 
@@ -41,8 +41,3 @@ After the initial plan configuration is created, admins can assign owners and ap
 
 **Parent Topic:**[Setup the Journey designer plan configuration review and approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-plan-config-admin.md)
 
-## Related
-
-- [[jny-dsgnr-create-journey|Create a journey]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]

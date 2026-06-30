@@ -37,7 +37,7 @@ New
 
 </td><td>
 
-Topic or intent has never been added to [[virtual-agent-landing-page|Virtual Agent]].Cards with **New** status have a dark gray border.
+Topic or intent has never been added to Virtual Agent.Cards with **New** status have a dark gray border.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Added topic recommendation
 
 </td><td>
 
-Displays the name of the topic that was added for the recommendation, as well as the date when it was added.Click the open link icon \[Omitted image "icon-open-link.png"\] Alt text: Open link icon. to view the topic in [[assistant-designer|Assistant Designer]].
+Displays the name of the topic that was added for the recommendation, as well as the date when it was added.Click the open link icon \[Omitted image "icon-open-link.png"\] Alt text: Open link icon. to view the topic in Assistant Designer.
 
 </td></tr><tr><td>
 
@@ -160,7 +160,3 @@ Displays the name of the topic that was linked, as well as the date when the rec
 </td></tr></tbody>
 </table>\[Omitted image "tr-example-overlay-card.png"\] Alt text: An overlay card for a topic that has not been added but can be linked to an existing topic.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

@@ -12,7 +12,7 @@ breadcrumb: [Supported functions, Align apps, screens, and functions, Offline mo
 
 # Configure offline mode properties for function instances
 
-Determine if the function instance available to users in online mode is also available in [[mobile-offline-mode|offline mode]]. This option gives you more control over how users manage their offline tasks.
+Determine if the function instance available to users in online mode is also available in offline mode. This option gives you more control over how users manage their offline tasks.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Function instances define the location of the function within the screen. For ex
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select one of the following methods to access a function instance.
 
@@ -70,11 +70,5 @@ Procedure
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[[functions-offline|Supported functions for offline mode]]
+**Parent Topic:**[Supported functions for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/functions-offline.md)
 
-## Related
-
-- [[functions-offline|Supported functions for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

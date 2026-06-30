@@ -14,9 +14,9 @@ breadcrumb: [Source-to-Pay Workspace landing page, Explore, Workspace, Source-to
 
 # POM landing page
 
-As an operational buyer, use the [[purchase-order-mgmt-landing-page|Purchase Order Management]] \(POM\) landing page to view a snapshot of your assigned purchase exceptions and tasks and take actions to resolve them.
+As an operational buyer, use the Purchase Order Management \(POM\) landing page to view a snapshot of your assigned purchase exceptions and tasks and take actions to resolve them.
 
-Open the Purchase Order Management landing page by navigating to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**. Select the Purchase order management tab.
+Open the Purchase Order Management landing page by navigating to **Workspaces** &gt; **Source-to-Pay Workspace**. Select the Purchase order management tab.
 
 When you open the Purchase Order Management, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon\) to return to the home page.
 
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td class="sub-head" colspan="3">
 
-[[purchase-order-table|Purchase order]] insights
+Purchase order insights
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Widget
 
 View the exceptions that are assigned to you,sorted by priority and creation date.
 
- Up to four open exceptions are displayed, sorted by priority and creation, with exception sub-type, product model, impacted purchase order number, priority, and time lapsed since creation. Select **View Details** to view the [[purchase-order-exception-table|purchase order exception]] details.
+ Up to four open exceptions are displayed, sorted by priority and creation, with exception sub-type, product model, impacted purchase order number, priority, and time lapsed since creation. Select **View Details** to view the purchase order exception details.
 
 </td></tr><tr><td>
 
@@ -162,9 +162,3 @@ Displays the number of all exception tasks that are assigned to you. Select the 
 
 [APO landing page]()
 
-## Related
-
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-exception-table|Purchase Order Exception]]

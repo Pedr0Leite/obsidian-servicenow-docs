@@ -39,7 +39,7 @@ You can use the following elements to create or edit your dashboard.
 |Process Mining - Map|Maps the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.|
 |Rich text|Holds text that you can format either as text or as html, including font selection, text size, highlighting, and hyperlinks. To edit HTML markup, open the HTML editor from the Configuration panel and select the Code tags &lt; &gt; icon.|
 
-\[Omitted image "dashboard-elements-spw.png"\] Alt text: dashboard elements in [[portfolio-planning-app-landing-page|portfolio planning]].
+\[Omitted image "dashboard-elements-spw.png"\] Alt text: dashboard elements in portfolio planning.
 
 ## Procedure
 
@@ -129,6 +129,3 @@ The dashboard is updated with the latest changes.
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

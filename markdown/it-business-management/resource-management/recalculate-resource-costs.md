@@ -27,7 +27,7 @@ Role required: resource\_manager
 
 ## About this task
 
-To update the costs of all the [[c_ResourcePlans|resource plans]] of a project or demand in one go, you can use the **Recalculate Resource Costs** option from the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/recalculate-resource-costs-of-a-project.md) or [demand form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/recalculate-resource-costs-of-a-demand.md).
+To update the costs of all the resource plans of a project or demand in one go, you can use the **Recalculate Resource Costs** option from the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/recalculate-resource-costs-of-a-project.md) or [demand form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/recalculate-resource-costs-of-a-demand.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ To update the costs of all the [[c_ResourcePlans|resource plans]] of a project o
     -   Navigate to **Demand** &gt; **Demands** &gt; **All**, and open a demand.
 2.  From the **Resource Plans** related list, open a resource plan for which you want to recalculate the costs.
 
-3.  On the [[rsrc-plan-form|Resource Plan form]], select the **Recalculate Resource Cost** related link.
+3.  On the Resource Plan form, select the **Recalculate Resource Cost** related link.
 
 4.  In the Recalculate Resource Costs dialog box, specify the recalculation period in the **Start date** and **End date** fields.
 
@@ -95,7 +95,3 @@ To update the costs of all the [[c_ResourcePlans|resource plans]] of a project o
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[rsrc-plan-form|Resource Plan form]]

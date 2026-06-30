@@ -14,12 +14,12 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Schedule discovery of all resources in a service account
 
-Add a custom schedule for [[r-discovery|Discovery]] to discover all resources in each datacenter in a service account and then update the CMDB with the new information.
+Add a custom schedule for Discovery to discover all resources in each datacenter in a service account and then update the CMDB with the new information.
 
 ## Before you begin
 
 -   A cloud account must exist with service accounts and associated datacenters. You must run on-demand Discovery to discover datacenters before you can schedule Discovery.
--   Use the [[cow-landing-page|Cloud Discovery Workspace]], and at least version 1.15 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+-   Use the Cloud Discovery Workspace, and at least version 1.15 of Discovery and Service Mapping Patterns from the ServiceNow Store.
 
 Role required: sn\_cmp.cloud\_admin
 
@@ -32,7 +32,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the **[[cloud-admin-portal|Cloud Admin Portal]]** navigate to **Manage** &gt; **Discovery Schedules**.
+1.  In the **Cloud Admin Portal** navigate to **Manage** &gt; **Discovery Schedules**.
 
 2.  Select **Add Cloud Schedule**.
 
@@ -40,7 +40,7 @@ Role required: sn\_cmp.cloud\_admin
 
 4.  In the **Service Account** section, select **Select Account**, specify the service account, and then click **Next**.
 
-    **Note:** To [[create-service-account|create a service account]], select **Add Account** and then fill in the form. For details, see the process of setting up a service account in the Day 1 setup guide.
+    **Note:** To create a service account, select **Add Account** and then fill in the form. For details, see the process of setting up a service account in the Day 1 setup guide.
 
 5.  On the Select Datacenters page, specify which of the datacenters in the service account to discover by moving the datacenters to discover into the **Selected** list or by selecting **Discover all datacenters listed below** to move all datacenters to the **Selected** list.
 
@@ -174,19 +174,10 @@ Open a datacenter record to see the relationships between the datacenter and the
 
 \[Omitted image "discovered-datacenter-example.png"\] Alt text: Resources in an AWS datacenter
 
-**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-hardware-type-class-extension.md). All [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
+**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-hardware-type-class-extension.md). All Cloud Provisioning and Governance features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
 
 ## What to do next
 
--   To view [[c_DiscoveryStatus|discovery status]], discovery logs, discovered devices, and the ECC queue, click **Advanced View**.
+-   To view discovery status, discovery logs, discovered devices, and the ECC queue, click **Advanced View**.
 -   If Discovery fails, check the Cloud Discovery results on the [Discovery Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[create-service-account|Create a service account]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_DiscoveryStatus|Discovery status]]

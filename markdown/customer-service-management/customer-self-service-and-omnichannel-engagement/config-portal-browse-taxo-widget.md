@@ -14,7 +14,7 @@ breadcrumb: [Portal Browse Taxonomy widget, Configurable Portal widgets, Set up 
 
 # Add and configure the Portal Browse Taxonomy widget
 
-Add the [[browse-taxo-widget|Portal Browse Taxonomy widget]] to your portal and modify its behavior. The widget displays taxonomy topics along with the articles and catalog items related to them.
+Add the Portal Browse Taxonomy widget to your portal and modify its behavior. The widget displays taxonomy topics along with the articles and catalog items related to them.
 
 ## Before you begin
 
@@ -52,9 +52,6 @@ Role required: sp\_admin
 
 10. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[port-browse-taxo-widget-inst-options|Portal Browse Taxonomy widget instance options form]].
+    For a description of the field values, see [Portal Browse Taxonomy widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/port-browse-taxo-widget-inst-options.md).
 
-## Related
 
-- [[port-browse-taxo-widget-inst-options|Portal Browse Taxonomy widget instance options form]]
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

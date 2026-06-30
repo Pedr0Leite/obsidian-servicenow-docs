@@ -61,12 +61,9 @@ Conditionally show this node if
 No-code condition statement or low-code script that specifies a condition for presenting this node in the conversation. The condition must evaluate to true.
 
 </td></tr></tbody>
-</table>## Example [[va-text-response|Text bot response control]]
+</table>## Example Text bot response control
 
 \[Omitted image "va-ai-response-llm-properties.png"\] Alt text: Basic properties include the node name and how you want the LLM to respond. Advanced options include Hide this node.
 
 **Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[va-text-response|Text bot response control]]

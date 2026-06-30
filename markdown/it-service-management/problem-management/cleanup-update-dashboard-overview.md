@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-In the [[problem-overview-dashboard|problem overview dashboard]], refer to the closed problems by setting Active = false instead of state = 4.
+In the problem overview dashboard, refer to the closed problems by setting Active = false instead of state = 4.
 
-**Note:** If you have added your own custom dashboards or charts, you may need to manually update them as you have [[migrated-records|migrated]] to the problem state model.
+**Note:** If you have added your own custom dashboards or charts, you may need to manually update them as you have migrated to the problem state model.
 
 ## Procedure
 
@@ -42,7 +42,4 @@ In the [[problem-overview-dashboard|problem overview dashboard]], refer to the c
 
 7.  Click **Back** to return to the dashboard.
 
-## Related
 
-- [[problem-overview-dashboard|problem overview dashboard]]
-- [[migrated-records|Migrated]]

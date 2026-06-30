@@ -15,7 +15,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # UX List Category form
 
-Learn about the fields of the [[ux-list-category-form-portfolio-planning|UX List Category form]]. Use this form to create additional categories for lists in the Lists menu of [[alignment-planner-workspace-landing-page|Strategic Planning]] workspaces.
+Learn about the fields of the UX List Category form. Use this form to create additional categories for lists in the Lists menu of Strategic Planning workspaces.
 
 <table id="table_r1k_rbt_2wb"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Application
 
 </td><td>
 
-Application scope. Ensure that this is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+Application scope. Ensure that this is set to **Portfolio Planning**.
 
 </td></tr><tr><td>
 
@@ -83,8 +83,3 @@ Configuration that the category is referencing.
 
 [Customize Lists in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customize-lists-strategic-planning-workspace.md)
 
-## Related
-
-- [[ux-list-category-form-portfolio-planning|UX List Category form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

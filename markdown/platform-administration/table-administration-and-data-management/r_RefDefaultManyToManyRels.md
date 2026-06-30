@@ -16,12 +16,9 @@ breadcrumb: [Create many-to-many table relationship, Managing tables and indexes
 
 Some many-to-many relationships are defined by default.
 
-To [[reference-email-admin|reference]] many-to-many relationships that are available in the base system, administrators can enter `sys_collection.list` in the navigation filter.
+To reference many-to-many relationships that are available in the base system, administrators can enter `sys_collection.list` in the navigation filter.
 
 **Note:** Only use this table to view many-to-many relationships in the base system. To create a new relationship, always use the [Many-to-Many Definitions table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateAManyToManyRelationship.md).
 
 **Parent Topic:**[Create a many-to-many table relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateAManyToManyRelationship.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

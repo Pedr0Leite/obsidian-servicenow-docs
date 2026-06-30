@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Add contract lines to a customer contract
 
-Add one or more contract lines to a customer contract on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+Add one or more contract lines to a customer contract on the CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ Role required:
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract to add more contract lines.
 
-4.  On the [[service-contract-form|Customer Contract form]], select **Customer Contract Lines** related list.
+4.  On the Customer Contract form, select **Customer Contract Lines** related list.
 
 5.  Select **New**.
 
-    The target entity is created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to create new customer contract line is created.
     -   If the selected target entity is an order, an order to create new customer contract line is created.
@@ -56,9 +56,3 @@ Role required:
 
 The new customer contract line is added to the contract and is visible on the selected target entity. The new customer contract line is synced with auto-renewal quote or opportunity that is generated for the contract. When the associated customer contract is auto renewed, the new customer contract line is automatically renewed and added to the renewal quote or opportunity.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[service-contract-form|Customer contract form]]
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Roadmap configuration form
 
-Learn about the fields of the [[roadmap-configuration-form|roadmap configuration form]]. Use this form to add new tables to roadmap preferences and configure their details in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the roadmap configuration form. Use this form to add new tables to roadmap preferences and configure their details in Strategic Planning.
 
 <table id="table_o13_czc_m4b"><thead><tr><th>
 
@@ -126,7 +126,3 @@ List of fields used as the metrics for the roadmap items.
 
 [Customize the planning item display preferences for Prioritization and Roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-source-table-preferences-for-roadmap.md)
 
-## Related
-
-- [[roadmap-configuration-form|Roadmap configuration form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Record Action utility
 
-Use the Record Action utility in a [[virtual-agent-landing-page|Virtual Agent]] topic to create or update a ServiceNow record in a table.
+Use the Record Action utility in a Virtual Agent topic to create or update a ServiceNow record in a table.
 
 ## Record Action utility properties
 
@@ -100,6 +100,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

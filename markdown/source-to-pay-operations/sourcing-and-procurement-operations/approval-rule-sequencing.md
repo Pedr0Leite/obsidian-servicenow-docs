@@ -24,8 +24,8 @@ Consider the following scenarios:
 
 ## Scenario 1
 
--   [[purchase-requisition|Purchase requisition]] amount is $8,000
--   Business owner’s job code is IC3, [[cost-center|cost center]] is Engineering
+-   Purchase requisition amount is $8,000
+-   Business owner’s job code is IC3, cost center is Engineering
 -   Business owner’s managerial job code hierarchy is IC3 =&gt; M3 =&gt; M4 =&gt; CFO
 
 \[Omitted image "approval\_rule\_grouping\_1.png"\] Alt text: Approval rules A and B
@@ -35,7 +35,7 @@ Consider the following scenarios:
 
 ## Scenario 2
 
--   Purchase requisition amount is $8,000, [[supplier|supplier]] product belongs to the XYZ product category
+-   Purchase requisition amount is $8,000, supplier product belongs to the XYZ product category
 -   Business owner’s job code is IC3, cost center is Engineering
 -   Business owner’s managerial job code hierarchy is IC3 =&gt; M3 =&gt; M4 =&gt; CFO
 
@@ -71,8 +71,3 @@ For example, in scenario 2:
 
 **Parent Topic:**[Create an approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-approval-rule.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]

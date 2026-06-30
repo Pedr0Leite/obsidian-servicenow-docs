@@ -18,9 +18,9 @@ An incident is considered resolved when you provide the user with a temporary wo
 
 When an incident is resolved, the escalators stop, and the caller can review the resolution. If the caller is satisfied with the resolution, the caller can close the incident or the incident is auto-closed after a certain time based on the incident auto-close properties.
 
-If the cause of an incident is understood but cannot be fixed, the service desk can [create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md) from the incident to find the root cause of the issue. The problem is then evaluated through the [[c_ProblemManagementProcess|problem management process]].
+If the cause of an incident is understood but cannot be fixed, the service desk can [create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md) from the incident to find the root cause of the issue. The problem is then evaluated through the problem management process.
 
-If the incident creates the need for a change in IT services, the service desk can generate a [change from the incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md), which is evaluated through the [[c_ITILChangeManagement|change management]] process.
+If the incident creates the need for a change in IT services, the service desk can generate a [change from the incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md), which is evaluated through the change management process.
 
 ## Incident closure
 
@@ -35,12 +35,7 @@ Close incidents automatically based on the last updated date or the resolution d
 -   **[Close multiple incidents from list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_ClosingIncidentsFromAList.md)**  
 Close multiple incidents from the incident list simultaneously that can have the same resolution code.
 -   **[Create a UI action to close multiple incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreatingAUIAction.md)**  
-[[t_CreatingAUIAction|Create a UI action to close multiple incidents]] at once from the **Actions** list in the list view.
+Create a UI action to close multiple incidents at once from the **Actions** list in the list view.
 
 **Parent Topic:**[Managing incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-incidents.md)
 
-## Related
-
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[t_CreatingAUIAction|Create a UI action to close multiple incidents]]

@@ -24,15 +24,11 @@ The Quote Self-Service application \(com.sn\_quote\_self\_service\) offers the f
 -   Users can directly edit, revise, apply discounts, and download without requesting changes through internal teams.
 -   Audit trail and version history for revised quote prompting trust and transparency.
 
-For information about the Quote creation via Self-Service fields, see [[quote-creation-fields-self-service|Quote creation via Self-Service fields]].
+For information about the Quote creation via Self-Service fields, see [Quote creation via Self-Service fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-creation-fields-self-service.md).
 
 .
 
 ## Set up Quote Self-Service
 
-To install Quote Self-Service, see [[install-self-service-quote_generic|Install Quote Self-Service]].
+To install Quote Self-Service, see [Install Quote Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-self-service-quote_generic.md).
 
-## Related
-
-- [[quote-creation-fields-self-service|Quote creation via Self-Service fields]]
-- [[install-self-service-quote_generic|Install Quote Self-Service]]

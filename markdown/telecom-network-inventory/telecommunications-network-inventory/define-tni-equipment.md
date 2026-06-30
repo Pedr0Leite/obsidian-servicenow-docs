@@ -14,17 +14,17 @@ breadcrumb: [Create a telecommunications equipment instance, Manually creating a
 
 # Review and update the telecommunications equipment details
 
-Review and update a network asset instance for your telecommunications equipment. You define the equipment instances so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review and update a network asset instance for your telecommunications equipment. You define the equipment instances so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
-You create the [[equipment-form|equipment form]]. To learn more, see [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md).
+You create the equipment form. To learn more, see [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md).
 
 Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **All Equipment**.
 
@@ -34,9 +34,9 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 4.  On the **Details** tab, fill in the fields.
 
-    The following table lists the fields that are unique to the [[tni-equipment-form-configuration|Telco Equipment form]].
+    The following table lists the fields that are unique to the Telco Equipment form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -51,7 +51,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 6.  Select **Save**.
 
-    The Telecommunications Network Inventory attribute fields are displayed on the Telco Equipment form after you save the [[ci-attribue-form|TNI CI Attributes form]]. The **Set Inventory Attributes** doesn’t appear when you reopen the CI record.
+    The Telecommunications Network Inventory attribute fields are displayed on the Telco Equipment form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn’t appear when you reopen the CI record.
 
 7.  Add the attachments, such as the graphics or documents by selecting the attachment icon \(\[Omitted image "attachments-icon.png"\] Alt text: Attachment icon.\) in the right panel.
 
@@ -83,11 +83,3 @@ If you want to establish relationships with the other network assets, enter the 
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[equipment-form|Equipment form]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-equipment-form-configuration|Telco Equipment form]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]

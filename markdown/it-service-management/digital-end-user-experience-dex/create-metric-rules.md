@@ -14,7 +14,7 @@ breadcrumb: [Alert rules, Configure, Digital End-User Experience, IT Service Man
 
 # Creating a metric rule
 
-You can create a metric rule to establish criteria and thresholds for [[perf-metrics-mob|performance metrics]], enabling timely alerts and proactive system management.
+You can create a metric rule to establish criteria and thresholds for performance metrics, enabling timely alerts and proactive system management.
 
 To create a metric rule, you must perform the following steps.
 
@@ -23,6 +23,3 @@ To create a metric rule, you must perform the following steps.
 3.  [Add an alert action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-alert-action.md).
 4.  [Define alert rule name and status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/define-alert-name-state.md).
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]

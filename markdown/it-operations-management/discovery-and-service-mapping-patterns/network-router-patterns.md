@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Network router discovery using patterns
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Network Router pattern to find network routers in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Network Router pattern to find network routers in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 To learn about network routers and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md).
 
-For information on probe-based [[r_DataCollDiscoNWRouteAndSwitch|network switch and router discovery]], see [Network switch and router discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
+For information on probe-based network switch and router discovery, see [Network switch and router discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
 
 ## Prerequisites
 
@@ -74,7 +74,7 @@ glide.discovery.bgp\_router\_disable
 
 </td><td>
 
-Disables running the SNMP – Routing pattern when discovering a router running the BGP protocol. If you must populate the Device Neighbors \[discovery\_device\_neighbors\] table during horizontal [[c_Layer2Discovery|layer 2 discovery]] of the BGP-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
+Disables running the SNMP – Routing pattern when discovering a router running the BGP protocol. If you must populate the Device Neighbors \[discovery\_device\_neighbors\] table during horizontal layer 2 discovery of the BGP-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
 
 -   **Type:** true \| false
 -   **Default value:** true
@@ -154,9 +154,3 @@ Discovery creates these relationships to support the network router discovery.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DataCollDiscoNWRouteAndSwitch|Network switch and router discovery]]
-- [[c_Layer2Discovery|Layer 2 discovery]]

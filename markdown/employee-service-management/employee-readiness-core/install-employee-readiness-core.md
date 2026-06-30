@@ -18,7 +18,7 @@ You can install Employee Readiness Core if you have the admin role.
 
 ## Before you begin
 
-[[employee-readiness-core|Employee Readiness Core]] version 1.1.0 and later requires the following plugins.
+Employee Readiness Core version 1.1.0 and later requires the following plugins.
 
 -   ServiceNow Integration Hub Runtime \(com.glide.hub.integration.runtime\)
 -   Workflow Studio Action Step - Payload Builder \(com.glide.hub.action\_step.payload\)
@@ -50,7 +50,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Employee Readiness Core admin\[sn\_imt\_core.admin\]
 
 </td><td>
 
-Can create and manage [[health-safety-overview|health and safety]] users, health requirements,privacy consent templates and policies, and Safe Workplace [[ecpro-audience|audiences]].
+Can create and manage health and safety users, health requirements,privacy consent templates and policies, and Safe Workplace audiences.
 
  Can read non-required health and safety records.
 
@@ -197,7 +197,7 @@ Approval Portal manager\[sn\_imt\_core.approval\_portal\_manager\]
 
 </td><td>
 
-Can review the requests and responses of their direct reports in the Approval Portal when the appropriate application-specific property is enabled for the corresponding record type. For example, you can enable a property in [[vaccination-status|Vaccination Status]] to allow managers to review vaccine responses.
+Can review the requests and responses of their direct reports in the Approval Portal when the appropriate application-specific property is enabled for the corresponding record type. For example, you can enable a property in Vaccination Status to allow managers to review vaccine responses.
 
 </td><td>
 
@@ -292,7 +292,7 @@ Data Retention Policies\[sn\_imt\_core\_data\_retention\]
 
 </td><td>
 
-Configuration for country-specific data retention policies for [[health-safety-testing|Health and Safety Testing]] and Vaccination Status. Users with the sn\_imt\_core.admin, sn\_imt\_health\_test.admin, or sn\_imt\_vaccine.admin roles can configure these policies.
+Configuration for country-specific data retention policies for Health and Safety Testing and Vaccination Status. Users with the sn\_imt\_core.admin, sn\_imt\_health\_test.admin, or sn\_imt\_vaccine.admin roles can configure these policies.
 
 </td></tr></tbody>
 </table>### Scheduled jobs installed
@@ -319,16 +319,16 @@ Collect Safe Workplace users
 
 </td><td>
 
-Runs weekly to [[create-readiness-user|create health and safety user records]] for users \[sys\_user\] with [[activity-lxp|activity]] or an assigned role in any of the following Safe Workplace suite and Emergency Response Management applications.-   [[contact-tracing|Contact Tracing]]
--   [[emergency-outreach|Emergency Outreach]]
--   [[employee-health-screening|Employee Health Screening]]
+Runs weekly to create health and safety user records for users \[sys\_user\] with activity or an assigned role in any of the following Safe Workplace suite and Emergency Response Management applications.-   Contact Tracing
+-   Emergency Outreach
+-   Employee Health Screening
 -   Employee Readiness Core
--   [[employee-travel-safety|Employee Travel Safety]]
+-   Employee Travel Safety
 -   Health and Safety Testing
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]]
+-   Safe Workplace Dashboard
 -   Vaccination Status
--   [[ppe-inventory-management|Workplace PPE Inventory Management]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace PPE Inventory Management
+-   Workplace Core
 
 Health and safety user records are also created for visitors who are invited through the Employee Readiness Core app.
 
@@ -362,22 +362,3 @@ Runs weekly by default or may be manually executed to ensure managers are assign
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[health-safety-overview|Health and Safety]]
-- [[ecpro-audience|Audiences]]
-- [[vaccination-status|Vaccination Status]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[create-readiness-user|Create health and safety user records]]
-- [[activity-lxp|Activity]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

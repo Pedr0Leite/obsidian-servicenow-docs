@@ -21,8 +21,5 @@ The label selector on the interactive map gives the user all fields on fm\_space
 -   Sys\_users assigned to space based on the fm\_m2m\_user\_to\_space table
 -   Departments assigned to the space based on the fm\_m2m\_department\_to\_space table
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

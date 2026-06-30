@@ -17,7 +17,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 Use catalogs to search for and request services and products in chat widget conversations.
 
-The catalog feature lets you use natural language to search for and request service items in a [[virtual-agent-landing-page|Virtual Agent]] conversation. The Virtual Agent recognizes your request and presents you with the best answer. You complete the entire order in the chat, without going to a new page.
+The catalog feature lets you use natural language to search for and request service items in a Virtual Agent conversation. The Virtual Agent recognizes your request and presents you with the best answer. You complete the entire order in the chat, without going to a new page.
 
 For example, if you enter `iPad`, the Virtual Agent shows you the service catalog info for an iPad. You can request the item, ask for more information on the item before deciding, or ask for something else.
 
@@ -50,6 +50,3 @@ Customize the appearance of catalogs in Virtual Agent to match your business' br
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -12,17 +12,17 @@ breadcrumb: [Conversation Improvement Themes, Enable AI experiences]
 
 # Activating Conversation Improvement Themes
 
-Activate the [[conv-impr-themes-landing|Conversation Improvement Themes]] application to analyze conversation quality.
+Activate the Conversation Improvement Themes application to analyze conversation quality.
 
 ## Before you begin
 
 Role required: admin
 
-Conversation evaluations have to be enabled in [[ai-control-tower-landing|AI Control Tower]]. For more information, see .
+Conversation evaluations have to be enabled in AI Control Tower. For more information, see .
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin Console** &gt; **[[now-assist-skills|Now Assist Skills]]**.
+1.  Navigate to **All** &gt; **Now Assist Admin Console** &gt; **Now Assist Skills**.
 
 2.  Within the Platform category, select the feature **Conversation Evaluator** and verify that all the skills shipped with the Conversation Evaluator application are activated.
 
@@ -54,9 +54,3 @@ Conversation evaluations have to be enabled in [[ai-control-tower-landing|AI Con
     -   sn\_na\_conv\_eval.eval\_admin
     -   Interaction\_admin
 
-## Related
-
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]

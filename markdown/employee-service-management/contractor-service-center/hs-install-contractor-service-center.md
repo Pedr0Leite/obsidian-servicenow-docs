@@ -14,7 +14,7 @@ breadcrumb: [Configure, Contractor Service Center, Health and Safety, Employee S
 
 # Install Contractor Service Center
 
-You can install the [[health-safety-overview|Health and safety]] Contractor safety center \[sn\_hs\_csc\] application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and safety Contractor safety center \[sn\_hs\_csc\] application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[hs-contractor-service-center-landing-page|Contractor Service Center]] application:
+The following items are installed with Contractor Service Center application:
 
 -   Plugins
 -   Store applications
@@ -59,7 +59,3 @@ For more information, see [Components installed with Contractor Service Center](
 
 **Parent Topic:**[Configuring Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]

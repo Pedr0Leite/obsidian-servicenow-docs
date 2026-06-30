@@ -24,7 +24,7 @@ Allocate, manage, and approve budget for your planning items. Lean budgeting ena
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -53,6 +53,3 @@ Allocate, manage, and approve budget for your planning items. Lean budgeting ena
 
 Budget widget is updated to reflect the latest approved budget. Project Manager can view the approved budget and compare it with the planned costs using the **budget vs cost** view by cost type.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

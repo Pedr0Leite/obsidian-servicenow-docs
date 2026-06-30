@@ -31,7 +31,7 @@ To modify the Optimize GRC issue resolution workflow [duplicate it](https://raw.
 
 ## Procedure
 
-1.  Navigate to [[risk-workspace|Risk Workspace]] and select any issue in the Analyze state.
+1.  Navigate to Risk Workspace and select any issue in the Analyze state.
 
 2.  Open the issue that you want to resolve by using the agentic workflow.
 
@@ -83,6 +83,4 @@ If you accept the action plan, the Now Assist virtual agent can suggest remediat
 
     In the Now Assist panel, the agent receives a notification when the interaction is generated, enabling your users to follow the on-screen instructions and complete the task.
 
-## Related
 
-- [[risk-workspace|risk workspace]]

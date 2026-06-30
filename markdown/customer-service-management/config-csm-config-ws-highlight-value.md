@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Set up a highlighted value in a form header in CSM Configurable Workspace
 
-You can configure fields that appear as highlighted values in a form header in [[csm-workspaces-configure|CSM Configurable Workspace]].
+You can configure fields that appear as highlighted values in a form header in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ One highlighted value configuration, **CSM/FSM Configurable Workspace Highlighte
 
 [Configure a highlighted value for a form header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-ws-highlight-value.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

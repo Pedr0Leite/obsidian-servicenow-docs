@@ -12,7 +12,7 @@ breadcrumb: [Embed Care Team Portal in Epic, Configure, Care Team Portal, Health
 
 # Enable Multi-Provider SSO for your ServiceNow instance
 
-Ensure that Multiple Provider SSO is enabled and configured correctly for [[care-team-portal-landing|Care Team Portal]] to authenticate with Epic Hyperspace via Hyperdrive.
+Ensure that Multiple Provider SSO is enabled and configured correctly for Care Team Portal to authenticate with Epic Hyperspace via Hyperdrive.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
     -   Set **Enable debug logging for the multiple provider SSO integration** to true.
 3.  Select **Save**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

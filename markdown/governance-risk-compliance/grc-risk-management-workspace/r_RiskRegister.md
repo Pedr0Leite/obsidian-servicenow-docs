@@ -27,15 +27,11 @@ A good risk statement should answer:
 -   Why do we care?
 
 -   **[Workflow of a risk using Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-lifecycle-using-advanced-risk.md)**  
-When you migrate to [[advanced-risk-assessment|advanced risk assessment]], you can view the various states of the risks take the necessary actions. This ability simplifies your view of the risk form.
+When you migrate to advanced risk assessment, you can view the various states of the risks take the necessary actions. This ability simplifies your view of the risk form.
 -   **[Manage risks linked to the same risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage_risks_linked_to_same_risk_stmnt.md)**  
 You can create and associate multiple risks to the same risk statement and entity combination. This association benefits the risk managers and the entity owners.
 -   **[Risk hierarchy and scoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-hierarchy-scoring.md)**  
 Starting with New York, risk managers can create hierarchies that include different types of risk \(operational risk, IT risk, or strategic risk\). Once the underlying risks are assessed, the risk scores are automatically rolled up across the risk statement hierarchy, providing better tactical and strategic decision-making.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[advanced-risk-assessment|advanced risk assessment]]

@@ -26,7 +26,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 
 You can also configure the system properties to automatically initiate the metadata extraction process once the contract repository record is created. For more information, see [Configure system properties for contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-sys-prop-na.md).
 
-**Note:** Contract metadata extraction using generative AI capabilities is not available when the [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]] is enabled.
+**Note:** Contract metadata extraction using generative AI capabilities is not available when the Manage contract repository agentic workflow is enabled.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d207773e107">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -79,7 +79,3 @@ Steps
 
 **Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-metadata-extract-land.md)
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[cncore-contract-workspace|Contract Workspace]]

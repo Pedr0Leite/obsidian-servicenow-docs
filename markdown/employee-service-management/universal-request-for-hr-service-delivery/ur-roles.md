@@ -14,7 +14,7 @@ breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Ma
 
 # Universal Request roles and groups
 
-Users with certain roles and access can use [[ur-landing-limitedaccess|Universal Request]].
+Users with certain roles and access can use Universal Request.
 
 |Role|Description|
 |----|-----------|
@@ -65,6 +65,3 @@ Assignment group that consists of tier 1 agents who focus primarily on managing 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

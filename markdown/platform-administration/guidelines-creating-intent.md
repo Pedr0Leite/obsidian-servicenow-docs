@@ -12,7 +12,7 @@ breadcrumb: [Email agentic workflow, Use agentic workflows in emails, Now Assist
 
 # General guidelines for creating and mapping an intent
 
-By following some [[ia-des-conf|general guidelines]] for creating email intents and mapping actions to intents, you can create clear and effective instructions that help maximize the efficiency and effectiveness.
+By following some general guidelines for creating email intents and mapping actions to intents, you can create clear and effective instructions that help maximize the efficiency and effectiveness.
 
 ## Overview of creating and mapping an intent
 
@@ -77,10 +77,6 @@ For more general guidelines, see [General guidelines for creating AI agents and 
 It’s recommended not to configure workflows to produce final artifacts directly. Instead, workflows should create drafts or intermediate artifacts that require human review and confirmation.
 
 -   Target Record for drafting and email: If using the email drafting capability, a target record must be attached to the email by the time the agent workflow triggers. Without a target record, generated email drafts can't be access.
--   Order of Execution: When enabling the agentic workflow either via Inbound Action or [[ia-inbound-email-il|Inbound Email]] Trigger, consider its order relative to existing inbound actions. The default order 999 places it last to avoid interfering with other processes, but this can be adjusted.
+-   Order of Execution: When enabling the agentic workflow either via Inbound Action or Inbound Email Trigger, consider its order relative to existing inbound actions. The default order 999 places it last to avoid interfering with other processes, but this can be adjusted.
 -   Human Oversight: The system aims to remove bottlenecks and increase efficiency, but it doesn’t eliminate the need for human involvement. It's designed to augment, not fully replace, human agents.
 
-## Related
-
-- [[ia-des-conf|General guidelines]]
-- [[ia-inbound-email-il|Inbound email]]

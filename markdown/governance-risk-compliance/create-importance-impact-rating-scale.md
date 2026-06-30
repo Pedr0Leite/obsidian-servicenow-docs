@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Set up the Importance and Impact Tolerance Rating Scale
 
-Set up the Importance and Impact Tolerance Rating Scale in the [[grc-opres-landing-page|Operational Resilience]] application so that you can define new parameters for your business services.
+Set up the Importance and Impact Tolerance Rating Scale in the Operational Resilience application so that you can define new parameters for your business services.
 
 ## Before you begin
 
@@ -47,9 +47,6 @@ A user with the sn\_oper\_res.admin role can change the rating scale for the ind
 
 3.  On the form, fill in the fields and click **Submit**.
 
-    For a description of the field values on the Rating Scale New Record form, see [[importance-and-impact-rating-scale-reference|Rating Scale New Record form]].
+    For a description of the field values on the Rating Scale New Record form, see [Rating Scale New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/importance-and-impact-rating-scale-reference.md).
 
-## Related
 
-- [[importance-and-impact-rating-scale-reference|Rating Scale New Record form]]
-- [[grc-opres-landing-page|Operational Resilience]]

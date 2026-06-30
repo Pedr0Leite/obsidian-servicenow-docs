@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Linear assets**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Linear assets**.
 
 2.  Open the linear asset record with which you want to associate a discrete asset.
 
@@ -78,6 +78,3 @@ Description of the discrete asset.
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

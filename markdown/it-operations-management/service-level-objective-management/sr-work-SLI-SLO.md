@@ -20,7 +20,7 @@ Learn about the reliability metrics and features that can help you track service
 
 The Service reliability dashboard displays a customizable, high-level view of service performance. It helps you monitor and manage reliability using visualizations that track service states, error budgets, and service level objectives \(SLOs\) over time.
 
-The dashboard displays information about all services in [[sr-landing-page|Service Reliability Management]] \(SRM\). You can access the dashboard in [[workspace-dashboard-use|Service Operations Workspace]] in the following ways:
+The dashboard displays information about all services in Service Reliability Management \(SRM\). You can access the dashboard in Service Operations Workspace in the following ways:
 
 -   Navigate to **Services \(\[Omitted image "icon-sr-services.png"\] Alt text: Services icon\)** &gt; **Service reliability**.
 -   Navigate to **Home \(\[Omitted image "icon-sr-homepage.png"\] Alt text: Home icon\)** &gt; **Service reliability**
@@ -77,7 +77,3 @@ On the Reliability metrics tab, the Service level objectives table includes the 
 
 **Note:** For performance purposes, SLO and SLI records \(\[sn\_sow\_srm\_slo\_history\] and \[sn\_sow\_srm\_sli\_metric\]\) are archived after one year and deleted five years later. Archived data is omitted from tables and visualizations.
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

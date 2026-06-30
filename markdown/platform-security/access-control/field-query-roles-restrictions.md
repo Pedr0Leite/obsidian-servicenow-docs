@@ -14,7 +14,7 @@ breadcrumb: [Access Management]
 
 # Field Query Roles and Restrictions
 
-The **Field Query Roles** and **Field Query Restrictions**attribute enable you to better control what information is available to [[users|users]] in tables.
+The **Field Query Roles** and **Field Query Restrictions**attribute enable you to better control what information is available to users in tables.
 
 ## Overview
 
@@ -28,6 +28,4 @@ The **Field Query Roles** and **Field Query Restrictions** attributes enable mor
 
     Restrict access to the record if the access to the applicable field is denied.
 
-## Related
 
-- [[users|Users]]

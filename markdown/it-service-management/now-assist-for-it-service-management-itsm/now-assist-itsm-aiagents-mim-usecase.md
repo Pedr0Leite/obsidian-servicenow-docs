@@ -28,7 +28,7 @@ Using the Generate post incident reviews agentic workflow, generate reports afte
 
 The time taken to create the report after the incident is resolved may be reduced, and the business impact may be minimized when responses to major incidents are both effective and efficient. For information on how major incidents are created, see [Major Incident Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management-process.md).
 
-To modify the Generate post incident reviews agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Generate post incident reviews agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify a use case, AI agent, or tool, make sure that you update all instructions accordingly.
 
@@ -43,7 +43,7 @@ To access the agentic workflow:
 
 **Important:** In the Edit trigger form, make sure that the **Active** button is turned on to enable the AI agent to trigger autonomously.
 
-**Important:** To enable the display of the Generate post incident reviews agentic workflow, you must activate the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
+**Important:** To enable the display of the Generate post incident reviews agentic workflow, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
 
 ## AI agents used in the Generate post incident reviews agentic workflow
 
@@ -100,7 +100,7 @@ As a user, do the following in the Now Assist panel:
     -   **Detailed Technical Summary:** This includes the technical description of failures, environmental context, root cause analysis, and the timeline of events.
     -   **Action Items &amp; Prevention:** This includes the completed and outstanding action items, root cause explanation, remediation steps, preventive measures.
 5.  The AI agent displays the complete Post Incident Review report to the user and request feedback.
-6.  The user provides the feedback by either approving the report or asking for revisions such as requesting for more concise, more detailed information or requests specific [[migration-utility-modification|modifications]].
+6.  The user provides the feedback by either approving the report or asking for revisions such as requesting for more concise, more detailed information or requests specific modifications.
 
 <table id="table_zd4_fzg_m3c"><thead><tr><th>
 
@@ -139,8 +139,3 @@ Post Incident Review report in Core UI \[Omitted image "now-assist-itsm-post-inc
 
 Post Incident review report in Service Operations Workspace\[Omitted image "now-assist-itsm-post-incident-flow-sow.png"\] Alt text: Post Incident Workflow in Now Assist panel in Service Operations Workspace
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]
-- [[migration-utility-modification|Modifications]]

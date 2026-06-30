@@ -14,7 +14,7 @@ breadcrumb: [Interaction Management, Manage people and work capabilities, Extend
 
 # Configuring Interaction Management
 
-You can configure the behavior of an interaction and the types of information that is stored with the record. You can also use [[interaction-wrap-up-state|interaction wrap up]] to provide agents with a brief wrap-up period at the end of customer conversations.
+You can configure the behavior of an interaction and the types of information that is stored with the record. You can also use interaction wrap up to provide agents with a brief wrap-up period at the end of customer conversations.
 
 -   **[Interaction states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-states.md)**  
 Configure the behavior of an interaction by determining the routine behavior for each state that the interaction goes through during the life cycle.
@@ -25,6 +25,3 @@ Interaction wrap up provides agents with a brief wrap-up period at the end of cu
 
 **Parent Topic:**[Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-management.md)
 
-## Related
-
-- [[interaction-wrap-up-state|Interaction wrap up]]

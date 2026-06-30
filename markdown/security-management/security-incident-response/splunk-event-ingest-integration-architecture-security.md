@@ -20,7 +20,7 @@ The following key terms are used during the installation and configuration. For 
 
 -   **ServiceNow AI Platform**
 
-    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components such as [[sir-landing-page|Security Incident Response]] \(SIR\), IT Service Management \(ITSM\), and other products are built.
+    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components such as Security Incident Response \(SIR\), IT Service Management \(ITSM\), and other products are built.
 
 -   **ServiceNow Splunkbase Addon**
 
@@ -44,7 +44,7 @@ The following key terms are used during the installation and configuration. For 
 
 -   **MID Server**
 
-    This application facilitates communication and movement of data between the ServiceNow AI Platform and external applications, [[data-sources|data sources]], and services. This application is typically required for integration with on-premises technologies, and, for this [[splunk-event-ingest-overview-security|Splunk Enterprise Security event ingestion integration]], the MID Server facilitates communication between the ServiceNow AI Platform and the on-premises instance of Splunk Enterprise Security. A MID Server is not required if you are integrating your ServiceNow AI Platform instance with a Splunk Cloud instance.
+    This application facilitates communication and movement of data between the ServiceNow AI Platform and external applications, data sources, and services. This application is typically required for integration with on-premises technologies, and, for this Splunk Enterprise Security event ingestion integration, the MID Server facilitates communication between the ServiceNow AI Platform and the on-premises instance of Splunk Enterprise Security. A MID Server is not required if you are integrating your ServiceNow AI Platform instance with a Splunk Cloud instance.
 
 -   **Security incident admin \(sn\_si.admin\)**
 
@@ -54,8 +54,4 @@ The following key terms are used during the installation and configuration. For 
 
     The user with this role interacts with and analyzes security incidents in the ServiceNow Security Incident Response product.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[data-sources|Data Sources]]
-- [[splunk-event-ingest-overview-security|Splunk Enterprise Security event ingestion integration]]

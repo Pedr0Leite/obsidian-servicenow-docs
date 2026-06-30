@@ -26,7 +26,7 @@ Role required: wm\_basic
 
     -   Managers, navigate to **All** &gt; **Field Service** &gt; **Manager** &gt; **Workforce**.
     -   Agents, navigate to **All** &gt; **Field Service** &gt; **Agent** &gt; **Workforce**.
-    -   If [[using-wfo-fsm|Workforce Optimization]] is installed and activated, managers can navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
+    -   If Workforce Optimization is installed and activated, managers can navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
 2.  Select the gear icon.
 
 3.  In the **Show resources by** field, select **Assignment group** or **Territory**.
@@ -41,12 +41,7 @@ Role required: wm\_basic
 
 [Configuring Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-territory-planning-fsm.md)
 
-[[workforce-system-properties|Workforce system properties]]
+[Workforce system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-system-properties.md)
 
-[[enable-territory-view|Configure territory view to allow users to see other members' schedules]]
+[Configure territory view to allow users to see other members' schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/enable-territory-view.md)
 
-## Related
-
-- [[workforce-system-properties|Workforce system properties]]
-- [[enable-territory-view|Configure territory view to allow users to see other members' schedules]]
-- [[using-wfo-fsm|Workforce Optimization]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Critical Event Management, Health and Safety, Employee S
 
 # Components installed with Critical Event Management
 
-Several types of components are installed with the [[critical-event-management|Critical Event Management]] application, including tables and user roles.
+Several types of components are installed with the Critical Event Management application, including tables and user roles.
 
 ## Store applications installed
 
@@ -28,17 +28,17 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
@@ -250,16 +250,8 @@ Geo Map componentsn\_geo\_map
 
 </td><td>
 
-Enables the map component on the [[cem-dashboard|Critical Event Management dashboard]].
+Enables the map component on the Critical Event Management dashboard.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Critical Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management-reference.md)
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[cem-dashboard|Critical Event Management dashboard]]

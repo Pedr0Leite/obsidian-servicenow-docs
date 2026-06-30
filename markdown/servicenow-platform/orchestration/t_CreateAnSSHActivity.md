@@ -46,7 +46,7 @@ Use the variables you created to configure the command that Orchestration execut
 
 </td><td>
 
-Host name or [[ip-address|IP address]] of the target server for this activity.
+Host name or IP address of the target server for this activity.
 
 </td></tr><tr><td id="d357757e142">
 
@@ -54,7 +54,7 @@ Host name or [[ip-address|IP address]] of the target server for this activity.
 
 </td><td>
 
-Command this activity runs on the target host. You can invoke a [[mid-server-landing|MID Server]] script from this field using any script type that the SSH command line supports. For more information, see **Advanced SSH script options** below the table.
+Command this activity runs on the target host. You can invoke a MID Server script from this field using any script type that the SSH command line supports. For more information, see **Advanced SSH script options** below the table.
 
 </td></tr><tr><td id="d357757e154">
 
@@ -74,7 +74,7 @@ The Orchestration credential tag to use when running the command.
 
 </td></tr><tr><td id="d357757e173">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -108,7 +108,7 @@ To run a MID Server script on the target host, specify the script type and pass 
 bash ${syncFile("<MID script name>")} argument1 argument2 argument3
 ```
 
-A base script \(`main_script.bash`\) can [[reference|reference]] another script \(`my_include.bash`\) as well as a separate file \(`.my_profile`\) located on the target host. Both scripts and the file referenced must be synced to the MID Server, using the `${syncFile()}` parameter, to execute properly.
+A base script \(`main_script.bash`\) can reference another script \(`my_include.bash`\) as well as a separate file \(`.my_profile`\) located on the target host. Both scripts and the file referenced must be synced to the MID Server, using the `${syncFile()}` parameter, to execute properly.
 
 ```
 source ${syncFile(".my_profile")}
@@ -258,7 +258,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the [[c_MIDServerSelector|MID Server selection]]:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -483,7 +483,7 @@ Long running
 
 </td><td>
 
-[[check-box|Check box]] to disable the SSH connection timeout for commands that might take longer to run than the default 60 seconds. Orchestration periodically checks the running process to determine its status until it is finished.
+Check box to disable the SSH connection timeout for commands that might take longer to run than the default 60 seconds. Orchestration periodically checks the running process to determine its status until it is finished.
 
 </td></tr><tr><td>
 
@@ -498,11 +498,4 @@ Check box to allow the use of [SSH credentials](https://raw.githubusercontent.co
 
 4.  Click **Continue** to advance to the **Outputs** stage.
 
-## Related
 
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[reference|Reference]]
-- [[c_MIDServerSelector|MID Server selection]]
-- [[check-box|Check box]]

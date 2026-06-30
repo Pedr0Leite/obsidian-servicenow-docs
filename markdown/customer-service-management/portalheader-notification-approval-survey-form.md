@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Header notification, approval, and survey form
 
-Notifications, approval, and, survey [[migration-forms|forms]] fields for portal header.
+Notifications, approval, and, survey forms fields for portal header.
 
 |Field|Description|
 |-----|-----------|
@@ -49,6 +49,3 @@ Notifications, approval, and, survey [[migration-forms|forms]] fields for portal
 
 [Configure notification, approval, and survey for your portal header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/portal-config-notification-approval-surveys.md)
 
-## Related
-
-- [[migration-forms|Forms]]

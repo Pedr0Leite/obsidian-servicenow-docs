@@ -18,13 +18,13 @@ Entity extraction is supported on ServiceNow® NLU models for specific languages
 
 You can see the list of currently supported languages in the Open NLU Driver Languages \[open\_nlu\_driver\_language\] table.
 
-The VA NLU Languages \[sys\_cs\_nlu\_language\] table lists the languages that are currently enabled in [[virtual-agent-landing-page|Virtual Agent]].
+The VA NLU Languages \[sys\_cs\_nlu\_language\] table lists the languages that are currently enabled in Virtual Agent.
 
 **Note:** If you choose a language that doesn't support full entity extraction, an error message appears.
 
 For unsupported language codes, you can specify a fallback language for NLU prediction. For example, if a user's language detected language is Mexican Spanish \(es-mx\), you can specify Spanish \(es\) as the fallback language, if it is enabled on your instance. For more information, see [Specify a fallback language for locale-specific languages and NLU prediction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specify-fallback-language-nlu-prediction.md). You can also enable Dynamic Translation for Virtual Agent. For details, see [Using language detection and dynamic machine translation in Virtual Agent enhanced chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/dynamic-lang-detection-translation-enhanced-chat.md).
 
-**Note:** This content focuses specifically on NLU language support. For more information on LLM language support for [[now-assist-in-va-landing|Now Assist in Virtual Agent]], see [Multilingual service for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/translation-for-now-assist.md).
+**Note:** This content focuses specifically on NLU language support. For more information on LLM language support for Now Assist in Virtual Agent, see [Multilingual service for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/translation-for-now-assist.md).
 
 <table id="table_tkk_ymg_fpb"><thead><tr><th>
 
@@ -112,7 +112,3 @@ Google Dialogflow ES
 </td></tr></tbody>
 </table>**Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

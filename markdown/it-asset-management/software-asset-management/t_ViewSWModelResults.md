@@ -22,7 +22,7 @@ Role required: sam\_user
 
 ## About this task
 
-You can view License Metric Results, Remediation Options, Licensed Installs, Unlicensed Installs, and Removal Candidates related lists for a software model result from a Product Result record. When the [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md) application \(com.snc.[[c_Procurement|procurement]]\) is active, you can also create and view purchase orders directly from the Remediation Options form. More remediation options include automatically create and remove allocations, remove unallocated installs, and remove unlicensed installs.
+You can view License Metric Results, Remediation Options, Licensed Installs, Unlicensed Installs, and Removal Candidates related lists for a software model result from a Product Result record. When the [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md) application \(com.snc.procurement\) is active, you can also create and view purchase orders directly from the Remediation Options form. More remediation options include automatically create and remove allocations, remove unallocated installs, and remove unlicensed installs.
 
 For example, if the status of a product result shows that it isn’t compliant, you can drill down on the product result to view software model details. These details can include the number of unlicensed installs and the true-up cost to become compliant. Further, you can drill down on the software model result to view the license metric result, which is based on the entitlements for the product.
 
@@ -30,7 +30,7 @@ License metric result information includes rights owned and rights used as well 
 
 You can use the dashboard field action \[Omitted image "SAMdashboardIcon.png"\] icon on the Software Model Results form to view the Rights Owned vs Rights Used chart to forecast when additional licenses are needed.
 
-**Note:** Software model results \(SMRs\) aren’t generated for [[c_CreatingSoftwareModels|software models]] for Oracle Database options without associated software entitlements. However, you can set the system property **com.snc.samp.unlicensed\_smr\_creation** to **True** to create SMRs for these [[c_Models|models]] even if there are no entitlements.
+**Note:** Software model results \(SMRs\) aren’t generated for software models for Oracle Database options without associated software entitlements. However, you can set the system property **com.snc.samp.unlicensed\_smr\_creation** to **True** to create SMRs for these models even if there are no entitlements.
 
 ## Procedure
 
@@ -309,7 +309,7 @@ Estimated cost saved by reclaiming removal candidates.
 
 </td></tr><tr><td>
 
-[[downgrade-rights|Downgrade rights]]**Note:** This field is hidden by default. Select the personalize list icon \[Omitted image "gear-icon.png"\] to modify the fields that appear in the License Metric Results.
+Downgrade rights**Note:** This field is hidden by default. Select the personalize list icon \[Omitted image "gear-icon.png"\] to modify the fields that appear in the License Metric Results.
 
 </td><td>
 
@@ -654,9 +654,3 @@ When a purchase order is created, the status of any Purchase Rights remediation 
 
 **Parent Topic:**[Software license usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[downgrade-rights|Downgrade Rights]]

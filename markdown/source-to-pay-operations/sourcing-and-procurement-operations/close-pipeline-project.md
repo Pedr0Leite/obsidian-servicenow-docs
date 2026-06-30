@@ -18,13 +18,13 @@ As a sourcing manager, you can close the pipeline project when all the activitie
 
 ## Before you begin
 
-Ensure that you’ve qualified all the relevant suppliers, and have received all the bids and responses from them, before you begin the awarding process. At this point, the sourcing event that you plan to work on, and all its associated [[negotiations|negotiations]], sourcing requests, and [[purchase-lines|purchase lines]] must be in the Requires Decision state.
+Ensure that you’ve qualified all the relevant suppliers, and have received all the bids and responses from them, before you begin the awarding process. At this point, the sourcing event that you plan to work on, and all its associated negotiations, sourcing requests, and purchase lines must be in the Requires Decision state.
 
 Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and do one of the following:
 
@@ -34,13 +34,13 @@ Role required: sn\_shop.procurement\_specialist
 
 4.  Select **Close**.
 
-    The system checks that all related objects, such as sourcing requests and [[negotiation-events|sourcing events]], are closed. If any of the related objects are open, an error message prompts you to close them.
+    The system checks that all related objects, such as sourcing requests and sourcing events, are closed. If any of the related objects are open, an error message prompts you to close them.
 
     The Close pipeline project dialog box is displayed.
 
     \[Omitted image "pipeline-close.png"\] Alt text: Close pipeline project.
 
-    The **Hard savings** field is auto-populated and displays the cumulative savings from all sourcing events associated with the pipeline project. This value is calculated by summing the Negotiated savings from all closed [[purchase-requisition|purchase requisition]] lines \(PRLs\) within the sourcing events.
+    The **Hard savings** field is auto-populated and displays the cumulative savings from all sourcing events associated with the pipeline project. This value is calculated by summing the Negotiated savings from all closed purchase requisition lines \(PRLs\) within the sourcing events.
 
     You can edit the **Hard savings** field if you’d like. If you edit the **Hard savings** field, a warning message appears indicating that the entered value differs from the cumulative negotiated savings on PRLs. This warning is shown only if there are negotiated savings on any PRL.
 
@@ -55,10 +55,3 @@ Role required: sn\_shop.procurement\_specialist
 
 **Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 
-## Related
-
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiation-events|Sourcing events]]
-- [[purchase-requisition|Purchase requisition]]

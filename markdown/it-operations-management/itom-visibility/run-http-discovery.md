@@ -14,7 +14,7 @@ breadcrumb: [HTTP device, Network device discovery, Data collected by ITOM Visib
 
 # Run discovery through an HTTP or HTTPS REST call
 
-[[r-discovery|Discovery]] can classify devices using the HTTP\(S\) protocol. You can create your own HTTP classifier to find devices and access them with Basic Auth credentials, rather than using SNMP or SSH credentials.
+Discovery can classify devices using the HTTP\(S\) protocol. You can create your own HTTP classifier to find devices and access them with Basic Auth credentials, rather than using SNMP or SSH credentials.
 
 ## Before you begin
 
@@ -193,6 +193,3 @@ If you don’t have other types of credentials that can find devices, such as Li
 
 **Parent Topic:**[HTTP device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/http-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

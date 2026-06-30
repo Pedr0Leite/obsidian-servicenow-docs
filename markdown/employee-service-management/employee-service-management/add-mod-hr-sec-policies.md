@@ -20,7 +20,7 @@ Role required: sn\_hr\_ef.admin
 
 You can determine who can read, write, or authorize purging of documents by adding or modifying document security policies.
 
-**Note:** You can provide employees visibility into their own employee documents through their [[c_HRProfileRecords|HR profile]]. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
+**Note:** You can provide employees visibility into their own employee documents through their HR profile. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
 
 Users are granted access to employee documents by:
 
@@ -34,7 +34,7 @@ See [Manage HR Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Employee Documents** &gt; **Security Policies**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Employee Documents** &gt; **Security Policies**.
 
 2.  Click **New** or an existing security policy to edit.
 
@@ -99,7 +99,7 @@ Read
 
 Groups: Groups a user must belong to search and read an employee document with the associated document type and security policy.Roles: Roles a user must have to search and read an employee document with the associated document type and security policy.
 
-**Note:** Users with the [[hr-employee-doc-management|Employee Document Management]] Reader \[sn\_hr\_ef.document\_reader\] role must also be added here to search and read documents associated with the document type and security policy.
+**Note:** Users with the Employee Document Management Reader \[sn\_hr\_ef.document\_reader\] role must also be added here to search and read documents associated with the document type and security policy.
 
  Match all: Determines if both the conditions for groups and roles must be met for access.
 
@@ -136,8 +136,4 @@ Authorization is required to purge documents, or send a notification before the 
 
 6.  Click **Submit** or **Update**.
 
-## Related
 
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-employee-doc-management|Employee Document Management]]

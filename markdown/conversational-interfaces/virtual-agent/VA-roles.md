@@ -14,13 +14,13 @@ breadcrumb: [Installed with Virtual Agent, Activate Virtual Agent, Activate and 
 
 # Virtual Agent roles
 
-[[virtual-agent-landing-page|Virtual Agent]] adds several roles for users operating as Virtual Agent administrators.
+Virtual Agent adds several roles for users operating as Virtual Agent administrators.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## Role description
 
-Roles that are [[installed-wth-virtual-agent|installed with Virtual Agent]] are listed below with the following information:
+Roles that are installed with Virtual Agent are listed below with the following information:
 
 -   **Role title \[name\]**
 
@@ -74,7 +74,7 @@ None.
 
 ## Chat survey administrator \[chat\_survey\_admin\]
 
-Controls and configures post-[[ci-conversational-chat-surveys|chat surveys]] for gathering feedback on user experience, or for chat queues defined in [[awa-application-landing-page|Advanced Work Assignment]].
+Controls and configures post-chat surveys for gathering feedback on user experience, or for chat queues defined in Advanced Work Assignment.
 
 ### Contains Roles
 
@@ -278,7 +278,7 @@ None.
 
 ## Conversational Interfaces guided setup administrator \[sn\_ci\_gs\_content.ci\_guided\_setup\_admin\]
 
-Creates a guided setup to assist users with planning the roll-out of [[convint-landing-page|Conversational Interfaces]] materials, and performs the basic configurations to go live.
+Creates a guided setup to assist users with planning the roll-out of Conversational Interfaces materials, and performs the basic configurations to go live.
 
 ### Contains Roles
 
@@ -395,10 +395,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[installed-wth-virtual-agent|Installed with Virtual Agent]]
-- [[ci-conversational-chat-surveys|Chat surveys]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[convint-landing-page|Conversational Interfaces]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversat
 
 # Configure Google Dialogflow ES as the NLU provider for Virtual Agent
 
-Use the intents, entities, and utterances defined in Google Dialogflow ES. Apply them as an NLU model for your [[virtual-agent-landing-page|Virtual Agent]] conversations.
+Use the intents, entities, and utterances defined in Google Dialogflow ES. Apply them as an NLU model for your Virtual Agent conversations.
 
 Configuring the Google Dialogflow ES integration involves providing Google Dialogflow credentials for authentication. You can set only one NLU service provider for your instance.
 
@@ -48,6 +48,3 @@ Test topic discovery with Google Dialogflow and Virtual Agent in the Virtual Age
 
 **Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

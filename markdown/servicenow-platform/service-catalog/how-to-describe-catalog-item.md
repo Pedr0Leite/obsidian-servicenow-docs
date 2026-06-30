@@ -19,8 +19,8 @@ Now Assist uses the description that you write to generate a catalog item for yo
 
 -   Provide the necessary details of the catalog item that you want to build.
 -   If you want, you can add details of one or more questions that you want to include in the catalog item. For accurate results, describe all aspects of the question, including type, properties such as mandatory, choices, and default value.
--   Specify the exact table name for [[reference|reference]] questions.
--   For a [[c_RecordProducer|record producer]], provide the exact field name to which you want to map the question.
+-   Specify the exact table name for reference questions.
+-   For a record producer, provide the exact field name to which you want to map the question.
 
 ## Defining dynamic behavior
 
@@ -32,7 +32,7 @@ Let's see an example. Specify the text in the prompt as "`Create a catalog item 
 
 Using Now Assist, you can configure the value of a question to populate automatically whenever the value of another question of the reference type changes. For more information about auto-populate, see [Configure an auto-populate value for a question in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/config-auto-populate-value-for-question-cat-builder.md).
 
-`Create a catalog item requesting for replacement of access card with the following questions: - Who is it for?: (The question type should be "[[requested-for|Requested for]]") - Manager: (Reference type on the sys_user table. This field should auto-populate based on the value of the Requested for question.) - Upload your profile picture: ([[attachment|Attachment]], mandatory)`
+`Create a catalog item requesting for replacement of access card with the following questions: - Who is it for?: (The question type should be "Requested for") - Manager: (Reference type on the sys_user table. This field should auto-populate based on the value of the Requested for question.) - Upload your profile picture: (Attachment, mandatory)`
 
 After generating the catalog item, you can verify the **Auto-populate** tab. It's configured based on your text input.
 
@@ -43,9 +43,3 @@ After generating the catalog item, you can verify the **Auto-populate** tab. It'
 
 [Creating a catalog item conversationally using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-catalog-item-using-now-assist.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[c_RecordProducer|Record Producer]]
-- [[requested-for|Requested for]]
-- [[attachment|Attachment]]

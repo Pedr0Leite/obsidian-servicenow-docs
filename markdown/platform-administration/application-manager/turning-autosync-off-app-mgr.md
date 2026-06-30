@@ -14,7 +14,7 @@ breadcrumb: [Configure, Application Manager, Administering applications, Get sta
 
 # Deactivating automatic synchronization with the ServiceNow Store
 
-By default, the [[application-manager|Application Manager]] in hosted ServiceNow AI Platform instances syncs automatically with available applications and updates from the [[servicenow-store|ServiceNow Store]]. Automatic synchronization can be deactivated so you can receive updates only when you choose to.
+By default, the Application Manager in hosted ServiceNow AI Platform instances syncs automatically with available applications and updates from the ServiceNow Store. Automatic synchronization can be deactivated so you can receive updates only when you choose to.
 
 Automatic syncing with the ServiceNow Store can be deactivated by taking the instance offline. If you take the instance offline, you can use the **Sync now** button in the Application Manager to sync the Available for you page with the ServiceNow Store.
 
@@ -22,7 +22,3 @@ To take the instance offline, contact [Customer Service and Support](https://sup
 
 **Parent Topic:**[Configuring Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/configuring-app-manager.md)
 
-## Related
-
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

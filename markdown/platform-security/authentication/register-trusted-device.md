@@ -43,7 +43,7 @@ Role required: none
 
     \[Omitted image "device\_registration\_scan\_qr.png"\] Alt text: Device Registration - Scan QR code
 
-    The Registration process will complete and you will be prompted to your login page to complete your [[c_Authentication|authentication]].
+    The Registration process will complete and you will be prompted to your login page to complete your authentication.
 
 5.  Specify your credentials and log in to the Now Mobile app.
 
@@ -58,9 +58,5 @@ In the Register Trusted Devices page on your laptop or desktop, the registered d
 
 ## What to do next
 
-Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Device Trust** &gt; **Device Registration** to view all the details of the registered device.
+Navigate to **All** &gt; **Adaptive Authentication** &gt; **Device Trust** &gt; **Device Registration** to view all the details of the registered device.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]

@@ -14,7 +14,7 @@ breadcrumb: [Edit a catalog item in Catalog Builder, Creating or editing catalog
 
 # Add advanced capabilities to a catalog item
 
-Add advanced capabilities, such as catalog client scripts, data lookup rules, and advanced [[reference|reference]] qualifiers to a catalog item.
+Add advanced capabilities, such as catalog client scripts, data lookup rules, and advanced reference qualifiers to a catalog item.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: catalog\_admin or admin
 
     -   Using the **Edit in advanced view** button.
 
-        1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **[[catalog-builder|Catalog Builder]]**.
+        1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
         2.  Select the **Catalog items** tab.
         3.  Select the catalog item for which you want to add advanced capabilities or features.
         4.  Select **Edit in advanced view**.
@@ -55,8 +55,3 @@ Role required: catalog\_admin or admin
 
 **Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]

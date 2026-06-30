@@ -14,7 +14,7 @@ breadcrumb: [Providing your workplace data, Workplace Core, Safe Workplace, Heal
 
 # Create records for your workplace data
 
-Create individual records of your workspaces, floors, office buildings, and workplace locations within the [[workplace-safety-mgmt-hr|Workplace Core]] application. Either insert new data or add records to the existing workplace data.
+Create individual records of your workspaces, floors, office buildings, and workplace locations within the Workplace Core application. Either insert new data or add records to the existing workplace data.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Ensure that you have the following details:
 -   Workplace data for your organization.
 -   Data of workspaces that can be marked as available.
 
-**Important:** In the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Suite, from Workplace Core version 2.5.3, the **Space type \(space\_type\)** choice field is depreciated. After the upgrade, Space types are configured in the **Space Type Configuration**. The **Space type \(space\_type\)** field is migrated as **Space type \(location\_type\)** field in the Space table \[sn\_wsd\_core\_space\]. Customers having customization on the depreciated **Space type \(space\_type\)** field are advised to manually migrate their flow to use the new **Space type \(location\_type\)** field. A new fix script, **Populate Location Type from Space Type**, is introduced to execute the schedule job, **Populate location\_type from space\_type**, on the Space table \[sn\_wsd\_core\_space\] to migrate the depreciated **Space type \(space\_type\)** field value to the new **Space type \(location\_type\)** field.
+**Important:** In the Workplace Service Delivery Suite, from Workplace Core version 2.5.3, the **Space type \(space\_type\)** choice field is depreciated. After the upgrade, Space types are configured in the **Space Type Configuration**. The **Space type \(space\_type\)** field is migrated as **Space type \(location\_type\)** field in the Space table \[sn\_wsd\_core\_space\]. Customers having customization on the depreciated **Space type \(space\_type\)** field are advised to manually migrate their flow to use the new **Space type \(location\_type\)** field. A new fix script, **Populate Location Type from Space Type**, is introduced to execute the schedule job, **Populate location\_type from space\_type**, on the Space table \[sn\_wsd\_core\_space\] to migrate the depreciated **Space type \(space\_type\)** field value to the new **Space type \(location\_type\)** field.
 
 Role required: sn\_wsd\_core.admin
 
@@ -161,7 +161,7 @@ Latitude
 
 </td><td>
 
-Latitude of a campus or a building. The latitude is displayed in the [[workplace-services-portal-hr|Workplace Service Portal]] Location directory map.
+Latitude of a campus or a building. The latitude is displayed in the Workplace Service Portal Location directory map.
 
 </td></tr><tr id="longitude"><td>
 
@@ -183,8 +183,3 @@ Longitude of a campus or a building. The longitude is displayed in the Workplace
 
 **Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/providing-your-workplace-data.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

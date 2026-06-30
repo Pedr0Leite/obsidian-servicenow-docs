@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the full email composer by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) from the record view, and then select **[[activity-stream-compose-configurable-workspace|Compose]] Email**.
+2.  Open the full email composer by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) from the record view, and then select **Compose Email**.
 
     An email draft opens in a new workspace tab.
 
@@ -42,17 +42,12 @@ Role required: email\_composer
 
 7.  Create the email body.
 
-    You can insert a quick message in the email body. For more information, see [[add-quick-message|Insert a quick message from the full email composer]].
+    You can insert a quick message in the email body. For more information, see [Insert a quick message from the full email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-quick-message.md).
 
-    You can attach a file to the email. For more information, see [[add-email-attachment|Add a file to an email from the full email composer]]
+    You can attach a file to the email. For more information, see [Add a file to an email from the full email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-email-attachment.md)
 
 8.  Select **Send**.
 
-    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [[review-draft-emails|Review email drafts from the full email composer]].
+    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [Review email drafts from the full email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/review-draft-emails.md).
 
-## Related
 
-- [[add-quick-message|Insert a quick message from the full email composer]]
-- [[add-email-attachment|Add a file to an email from the full email composer]]
-- [[review-draft-emails|Review email drafts from the full email composer]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

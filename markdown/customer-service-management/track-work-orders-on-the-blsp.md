@@ -12,7 +12,7 @@ breadcrumb: [Using the Business Location Service Portal, Customer communication,
 
 # Track work orders on the Business Location Service Portal
 
-Enable your location staff to track work orders for their business locations [[using-blsp-portal|using the Business Location Service Portal]] \(BLSP\). It enables you to view and manage work orders, helping you track tasks and updates directly related to your specific locations.
+Enable your location staff to track work orders for their business locations using the Business Location Service Portal \(BLSP\). It enables you to view and manage work orders, helping you track tasks and updates directly related to your specific locations.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ For more information about work orders, see [Manage work orders](https://raw.git
 
     **Note:** External location contributors can't access the **Work Order Tasks** tab.
 
-## Related
 
-- [[using-blsp-portal|Using the Business Location Service Portal]]

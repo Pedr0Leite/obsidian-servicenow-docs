@@ -14,7 +14,7 @@ breadcrumb: [Coaching, Workforce Optimization for ITSM, IT Service Management]
 
 # Example for using Coaching in Workforce Optimization for ITSM
 
-Understand how you can assess your agents performance, identify skill gaps, and train them to enhance their skills sets with [[cf-coaching-landing|Coaching]].
+Understand how you can assess your agents performance, identify skill gaps, and train them to enhance their skills sets with Coaching.
 
 An IT manager manages IT operations for a large organization that has 12 teams reporting to the manager. Each of the manager's teams has anywhere from 20 through 50 agents. This manager is also added as a manager of other teams where they need visibility.
 
@@ -34,9 +34,5 @@ Get an overview on coaching, creating assessments, taking surveys, assigning tra
 
 Get an overview of how you can add skills manually or the ones recommended using Predictive Intelligence and the Skill Recommendation application.
 
-For detailed instructions on setting up and using Coaching for [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], see [Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-coaching-configurable-workforce-optimization-itsm.md).
+For detailed instructions on setting up and using Coaching for Workforce Optimization for ITSM, see [Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-coaching-configurable-workforce-optimization-itsm.md).
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

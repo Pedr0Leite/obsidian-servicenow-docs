@@ -14,11 +14,11 @@ breadcrumb: [MFA with SSO, Configuring MFA, Multi-factor authentication, Authent
 
 # Configuring MFA with SSO
 
-Enforce MFA with SSO for your [[users|users]] within or outside your organization.
+Enforce MFA with SSO for your users within or outside your organization.
 
 ## Before you begin
 
-The MFA with SSO feature is offered as a part of the [[adaptive-authentication|Adaptive Authentication]] plugin \(com.snc.adaptive\_authentication\). You must enable the Adaptive authentication property for using MFA with SSO feature. To know more on how to set up Adaptive authentication, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
+The MFA with SSO feature is offered as a part of the Adaptive Authentication plugin \(com.snc.adaptive\_authentication\). You must enable the Adaptive authentication property for using MFA with SSO feature. To know more on how to set up Adaptive authentication, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
 **Note:** MFA with SSO login is available if the **glide.authenticate.mfa.with.multisso.enabled** property is set to **true**.
 
@@ -26,7 +26,7 @@ Role required: adaptive\_auth\_admin, sso\_config\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **Properties**.
 
 2.  Enable the **Enable Multi-factor authentication** and **Enable Multi-factor Authentication with SSO** check boxes.
 
@@ -40,9 +40,9 @@ Role required: adaptive\_auth\_admin, sso\_config\_admin
 
     \[Omitted image "mfa-auth-context.png"\] Alt text: MFA Auth Context
 
-    **Note:** By default, the policy is **Step-Up MFA Policy**. Users are shown with Multi-factor Authentication if a condition configured in **Step-Up MFA Policy** evaluates to **true**. Policy takes precedence over the user or role-based [[sc-configuration|configuration]].
+    **Note:** By default, the policy is **Step-Up MFA Policy**. Users are shown with Multi-factor Authentication if a condition configured in **Step-Up MFA Policy** evaluates to **true**. Policy takes precedence over the user or role-based configuration.
 
-5.  To edit a policy, go back to the [[c_Authentication|Authentication]] Policy record, change the conditions, and come back.
+5.  To edit a policy, go back to the Authentication Policy record, change the conditions, and come back.
 
     When you navigate to the Authentication Policy record, you can add or edit the 'Policy Inputs' to the referenced Policy fields, **Step-Up MFA Policy** or **Step-Down MFA Policy**.
 
@@ -87,14 +87,14 @@ The type of condition that you want to apply for the policy. You can add filter 
 </td></tr></tbody>
 </table>    \[Omitted image "mfa-sso-new-record.png"\] Alt text: Condition - New record
 
-    To set up your conditions, consider the following example. Assume that you want the authentication scheme with the [[identity-landing|identity]] provider as your condition for external users. You can set the conditions as follows:
+    To set up your conditions, consider the following example. Assume that you want the authentication scheme with the identity provider as your condition for external users. You can set the conditions as follows:
 
     1.  Select **Authentication Scheme** and set the criteria as **Single Sign-On** or **Username and Password**.
 
         Based on this selection, the user is provided with an SSO-based login or login form to specify the user name and password.
 
     2.  Select **Identity Provider** and specify the provider as the IDP record for which you want to enable MFA. For example, **Okta**.
-    Based on this selection, if the user [[logs|logs]] in with SSO, the user is not challenged with MFA. In contrast, if the user logs in using Okta, then the user is challenged with MFA.
+    Based on this selection, if the user logs in with SSO, the user is not challenged with MFA. In contrast, if the user logs in using Okta, then the user is challenged with MFA.
 
 9.  Click **Submit**.
 
@@ -106,12 +106,3 @@ The type of condition that you want to apply for the policy. You can add filter 
 
 [Multi-factor Authentication with Single Sign-On](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-sso.md)
 
-## Related
-
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[logs|Logs]]

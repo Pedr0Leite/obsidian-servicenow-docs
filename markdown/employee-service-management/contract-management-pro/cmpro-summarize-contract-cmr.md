@@ -15,7 +15,7 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Ask Now Assist to generate summary of contract documents in a contract request
 
-Generate summaries, frequently asked questions \(FAQs\), or ask questions to retrieve specific information from contract documents in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Generate summaries, frequently asked questions \(FAQs\), or ask questions to retrieve specific information from contract documents in Contract Management Pro.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td>
 
-[[cncore-contract-workspace|Contract Workspace]]
+Contract Workspace
 
 </td><td>
 
@@ -87,7 +87,3 @@ Workspace used by your application
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-contract-workspace|Contract Workspace]]

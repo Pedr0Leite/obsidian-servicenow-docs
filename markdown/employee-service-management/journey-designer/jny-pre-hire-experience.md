@@ -30,9 +30,9 @@ The Pre-hire experience assists new hires with connecting seamlessly to team mem
 To enable and use the Pre-hire experience, you must satisfy the following minimum system requirements:
 
 -   **Application requirements**
-    -   Upgrade the [[jny-dsgnr-landing-page-1|Journey designer]] application to version 7.0.
+    -   Upgrade the Journey designer application to version 7.0.
     -   Install and activate the Explicit Roles \[com.glide.explicit\_roles\] plugin.
-    -   Install and activate [[journey-accelerator-1|Journey Accelerator]] \[sn\_ja\] Version 6.7.1 or higher.
+    -   Install and activate Journey Accelerator \[sn\_ja\] Version 6.7.1 or higher.
 -   **Software release requirements**
 
     Upgrade your instance to the Zurich release Patch 1.
@@ -53,11 +53,11 @@ To protect the data in your instance, the following components were created for 
 
 ## Lifecycle Events activities for the Pre-hire experience
 
-The following [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] activities were created to facilitate the transition of roles through which the employee navigates during the preboarding process:
+The following Lifecycle Events activities were created to facilitate the transition of roles through which the employee navigates during the preboarding process:
 
 <table id="table_jfz_w3d_yfc"><thead><tr><th>
 
-[[activity-lxp|Activity]] name
+Activity name
 
 </th><th>
 
@@ -84,7 +84,7 @@ Transition pre-hire to employee
 The Transition pre-hire to employee activity is used to facilitate the employee's transition from the pre-hire role to the internal employee role. This activity is nested in the Day 1 activity set, which is associated with the following Lifecycle Events type: Onboarding \(Demo\). This activity contains the Transition to employee subflow, which performs the following actions when the Day 1 activity set is triggered:-   Removes the sn\_jny.pre\_hire and snc\_external roles from the employee's user record.
 -   Adds the snc\_internal role to the employee's user record.
 
-The Day 1 activity set is triggered when the date in the **Employment start date** field in the [[c_HRProfileRecords|HR profile]] record of the onboarding employee is equal to the system date.
+The Day 1 activity set is triggered when the date in the **Employment start date** field in the HR profile record of the onboarding employee is equal to the system date.
 
 </td></tr></tbody>
 </table>## Pre-hire experience widgets
@@ -105,7 +105,7 @@ Getting started resources
 
 </td><td>
 
-This widget contains [[emp-center-quick-link-config|quick links]] for accessing internal and external resources. Administrators can provide links to knowledge base articles, catalog items, pages, or other pertinent information contained in your organization's repository. Administrators can configure the links that appear in this widget.
+This widget contains quick links for accessing internal and external resources. Administrators can provide links to knowledge base articles, catalog items, pages, or other pertinent information contained in your organization's repository. Administrators can configure the links that appear in this widget.
 
 </td></tr><tr><td>
 
@@ -148,11 +148,3 @@ This widget reflects the employee's onboarding team. A list of the following ind
 
 [Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-center-quick-link-config|Quick links]]

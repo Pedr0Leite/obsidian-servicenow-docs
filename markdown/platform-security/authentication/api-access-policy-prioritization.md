@@ -14,9 +14,9 @@ breadcrumb: [Create REST API access policy, REST API access policies, API access
 
 # API access policy prioritization
 
-Learn about the policy prioritization logic if there are multiple [[api-access-policy|API access policy]] configured for your ServiceNow® instance.
+Learn about the policy prioritization logic if there are multiple API access policy configured for your ServiceNow® instance.
 
-API access [[ca-policies|policies]] are prioritized based on the type of REST API policy set on your ServiceNow® instance.
+API access policies are prioritized based on the type of REST API policy set on your ServiceNow® instance.
 
 The approach is defining different weights for each part of the API such as,method, resource, and version.
 
@@ -36,7 +36,3 @@ Prioritization logic are as follows:
 |Global and Apply to all methods|8|If the fields **Global** is `true` and **Apply to all methods** is `false` then that policy takes the 8th priority.|
 |Global and Apply to all methods|9|If the fields **Global** is `true` and **Apply to all methods** is `true` then that policy takes the 9th priority.|
 
-## Related
-
-- [[api-access-policy|API access policy]]
-- [[ca-policies|Policies]]

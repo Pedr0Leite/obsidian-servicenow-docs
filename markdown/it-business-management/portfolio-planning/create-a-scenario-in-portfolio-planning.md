@@ -29,7 +29,7 @@ Creating a scenario enables you to visualize and anticipate potential outcomes. 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -92,10 +92,6 @@ Creating a scenario enables you to visualize and anticipate potential outcomes. 
 ## What to do next
 
 -   Create more scenarios, if necessary.
--   [Compare scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/compare-scenarios-in-portfolio-planning.md). You can directly [[compare-scenarios-in-portfolio-planning|compare scenarios]] from simulation mode by selecting **Compare scenarios** from the Scenario actions list.
+-   [Compare scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/compare-scenarios-in-portfolio-planning.md). You can directly compare scenarios from simulation mode by selecting **Compare scenarios** from the Scenario actions list.
 -   [Approve a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/approve-a-scenario-in-portfolio-planning.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

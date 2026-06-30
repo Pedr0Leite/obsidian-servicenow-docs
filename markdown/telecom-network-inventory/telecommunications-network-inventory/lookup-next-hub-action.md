@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Lookup Next Hub function
 
-The Lookup Next Hub function enables you to take the network interface record as input and return the details of the related physical connection record. You can automatically get the details of the physical connection and interconnected ports of the equipment in the [[telecom-network-inventory|Telecommunications Network Inventory]] application when you use the Workflow Studio application.
+The Lookup Next Hub function enables you to take the network interface record as input and return the details of the related physical connection record. You can automatically get the details of the physical connection and interconnected ports of the equipment in the Telecommunications Network Inventory application when you use the Workflow Studio application.
 
 You can use the Lookup Next Hub function to return the following:
 
@@ -106,6 +106,3 @@ The following table lists the information about the function output.
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

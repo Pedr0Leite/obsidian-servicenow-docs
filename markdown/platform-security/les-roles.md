@@ -12,7 +12,7 @@ breadcrumb: [Reference, Log Export Service \(LES\), Platform Security]
 
 # Log Export Service roles
 
-Log [[export|Export]] Service is installed with these roles.
+Log Export Service is installed with these roles.
 
 ## Application admin \[sn\_logstoanalytics.admin\]
 
@@ -34,7 +34,7 @@ This role is installed along with the LES application and allows a non-admin to 
 
 -   **Elevated**
 
-    Whether the role is an elevated role. Elevated roles aren’t assigned to [[users|users]] or groups, and must be used by elevation. For details, see[[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    Whether the role is an elevated role. Elevated roles aren’t assigned to users or groups, and must be used by elevation. For details, see[Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
     No.
 
@@ -75,11 +75,5 @@ Admin role is required for the setup of the LES store application.
     None.
 
 
-**Parent Topic:**[[les-references|Log Export Service \(LES\) references]]
+**Parent Topic:**[Log Export Service \(LES\) references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-references.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[les-references|Log Export Service \(LES\) references]]
-- [[export|Export]]
-- [[users|Users]]

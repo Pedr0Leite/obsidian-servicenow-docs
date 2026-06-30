@@ -12,14 +12,14 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 # Configuring roll-up calculator rules
 
-Configure roll-up calculator rules to compute the cumulative risk score for remediation tasks and imported [[vulnerabilities|vulnerabilities]].
+Configure roll-up calculator rules to compute the cumulative risk score for remediation tasks and imported vulnerabilities.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-prioritizing-vulnerabilities-other-findings|Prioritizing vulnerabilities and other findings using roll-up calculators]]
+[Prioritizing vulnerabilities and other findings using roll-up calculators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-prioritizing-vulnerabilities-other-findings.md)
 
 ## Create or edit roll-up calculator rules
 
@@ -27,11 +27,11 @@ Create rules to roll-up risk scores on imported findings and remediation tasks.
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -141,10 +141,4 @@ The scripting feature is an advanced feature to build a custom script that shoul
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-## Related
 
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-prioritizing-vulnerabilities-other-findings|Prioritizing vulnerabilities and other findings using roll-up calculators]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

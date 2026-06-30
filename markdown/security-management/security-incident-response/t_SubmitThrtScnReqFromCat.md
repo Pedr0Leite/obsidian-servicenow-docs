@@ -14,7 +14,7 @@ breadcrumb: [Manage lookups and scans, Managing security incidents and inbound r
 
 # Submit an IoC Lookup request from the Security Incident Catalog
 
-If the [[sir-landing-page|Security Incident Response]] plugin is activated, you can submit threat lookups for files, hash values, URLs, and IP addresses from the Security Incident Catalog. The requests are submitted and you can view the results in the **My Requests** module.
+If the Security Incident Response plugin is activated, you can submit threat lookups for files, hash values, URLs, and IP addresses from the Security Incident Catalog. The requests are submitted and you can view the results in the **My Requests** module.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ In the **Hash values** field, enter the hash values you want to lookup, separate
 
     The work notes under **Activity** list the tasks performed during the lookup, including the creation of individual lookups for each file, hash value, URL, or IP address, and the lookup results.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

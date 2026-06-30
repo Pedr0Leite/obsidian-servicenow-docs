@@ -26,7 +26,7 @@ In addition to storing information on a user, user accounts are also associated 
 
 -   **Investigating user account activity**
 
-    At any time there is a need to review specific user behavior, below are the recommended steps on how to review the transaction logs and [[event-logs-2|event logs]]:
+    At any time there is a need to review specific user behavior, below are the recommended steps on how to review the transaction logs and event logs:
 
     -   Locate the IP address of successful/failed login for a particular ServiceNow user for their instance
     -   Modify the time frame of the search
@@ -36,7 +36,7 @@ In addition to storing information on a user, user accounts are also associated 
 
 -   **User sessions**
 
-    With user session management, and administrator can view and terminate individual user sessions, lock out users from the instance, and make users inactive. For details on [[c_ManageUserSessions|managing user sessions]], see [Managing user sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ManageUserSessions.md).
+    With user session management, and administrator can view and terminate individual user sessions, lock out users from the instance, and make users inactive. For details on managing user sessions, see [Managing user sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ManageUserSessions.md).
 
     User records are also associated with transaction logs. Administrators can use these logs to track all browser activity for an instance.
 
@@ -46,13 +46,7 @@ Administrators are able to impersonate other authenticated users, a feature prim
 -   **[Managing user sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ManageUserSessions.md)**  
 The ServiceNow AI Platform provides the ability to view and terminate individual user sessions, lock out users from the system, and make users inactive.
 -   **[Non-interactive sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NonInteractiveSessions.md)**  
-The [[c_NonInteractiveSessions|Non-Interactive Sessions]] plugin creates a distinction between interactive and non-interactive users.
+The Non-Interactive Sessions plugin creates a distinction between interactive and non-interactive users.
 
-**Parent Topic:**[[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
+**Parent Topic:**[Configure ServiceNow AI Platform core features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-now-platform-core-features.md)
 
-## Related
-
-- [[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
-- [[event-logs-2|Event logs]]
-- [[c_ManageUserSessions|Managing user sessions]]
-- [[c_NonInteractiveSessions|Non-interactive sessions]]

@@ -14,7 +14,7 @@ breadcrumb: [Federal plugin, HR Service Delivery, Employee Service Management]
 
 # Using Federal plugin
 
-With the [[fed-view|Federal plugin]], promote interoperability between agencies or shared services and augment the delivered [[hr-service-delivery|HR Service Delivery]] and ServiceNow AI Platform tables.
+With the Federal plugin, promote interoperability between agencies or shared services and augment the delivered HR Service Delivery and ServiceNow AI Platform tables.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 **Important:** The Federal plugin:
 
--   contains data elements that extend from the [[c_HRProfileRecords|HR Profile]] table and therefore is only available with the HR Service Delivery solution. If you download the plugin without HR Service Delivery, you will notice empty tables and not have the ability to use the tables.
+-   contains data elements that extend from the HR Profile table and therefore is only available with the HR Service Delivery solution. If you download the plugin without HR Service Delivery, you will notice empty tables and not have the ability to use the tables.
 -   is only available for customers on the Washington DC release and later.
 -   does not include business rules, client scripts or additional roles.
 
@@ -37,8 +37,4 @@ Role required: admin
 
 1.  [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
-## Related
 
-- [[fed-view|Federal plugin]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

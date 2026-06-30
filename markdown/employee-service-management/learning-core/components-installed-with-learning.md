@@ -14,7 +14,7 @@ breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delive
 
 # Components installed with Learning
 
-Several types of components are installed with the activation of [[exploring-learning-exp|Learning]], including tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of Learning, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -96,7 +96,7 @@ sn\_lep.achievement\_manager
 
 </td><td>
 
-Creates and manages [[achievements-lxp|achievements]] on Learning application.
+Creates and manages achievements on Learning application.
 
 </td><td>
 
@@ -115,7 +115,3 @@ sn\_lep.achievement\_manager
 
 **Parent Topic:**[Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[achievements-lxp|Achievements]]

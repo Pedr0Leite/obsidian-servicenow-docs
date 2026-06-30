@@ -16,7 +16,7 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 Workflow validation examines different characteristics of a workflow to locate issues that might prevent the workflow from being published or cause it to fail. The validation report summarizes the results of each separate workflow validation.
 
-Validation prevents workflows with critical flaws from executing and resulting in an unstable or incomplete state. There are a number of validators in the base system that [[notify-landing-page|notify]] workflow designers of potential problems. For example, multiple **End** activities, disconnected transitions, incorrect table [[reference-document-management|references]], missing subflows, and dependencies affected by update sets. A workflow validation report displays the results from each validator, including a message explaining what was found. The system automatically validates a workflow when you publish it. You can also run validation on a workflow directly from controls in the [[workflow-editor|Workflow Editor]].
+Validation prevents workflows with critical flaws from executing and resulting in an unstable or incomplete state. There are a number of validators in the base system that notify workflow designers of potential problems. For example, multiple **End** activities, disconnected transitions, incorrect table references, missing subflows, and dependencies affected by update sets. A workflow validation report displays the results from each validator, including a message explaining what was found. The system automatically validates a workflow when you publish it. You can also run validation on a workflow directly from controls in the Workflow Editor.
 
 ## Highlighting critical errors
 
@@ -77,8 +77,3 @@ ServiceNow offers several workflow validators for workflow designers to test the
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[reference-document-management|References]]
-- [[workflow-editor|Workflow editor]]

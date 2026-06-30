@@ -26,7 +26,7 @@ Role required: certification\_admin
 
     **Note:** Conditions in the template define the values to audit.
 
-2.  Use the [[ci-class-manager-landing-page|CI Class Manager]]:
+2.  Use the CI Class Manager:
 
     1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
@@ -37,9 +37,9 @@ Role required: certification\_admin
 3.  Or, navigate to one of these modules:
 
     -   **All** &gt; **Compliance** &gt; **Audits**
-    -   **All** &gt; **Compliance** &gt; **[[c_ArchitectureCompliance|Architecture Compliance]]** &gt; **Audits**
-    -   **All** &gt; **Compliance** &gt; **[[c_DesiredState|Desired State]]** &gt; **Audits**
-    -   **All** &gt; **Compliance** &gt; **[[c_ScriptedAudits|Scripted Audits]]** &gt; **Audits**
+    -   **All** &gt; **Compliance** &gt; **Architecture Compliance** &gt; **Audits**
+    -   **All** &gt; **Compliance** &gt; **Desired State** &gt; **Audits**
+    -   **All** &gt; **Compliance** &gt; **Scripted Audits** &gt; **Audits**
 4.  Select **New**.
 
     The system opens a new record for the audit type associated with the navigation path you selected. The **Audit type** field is read-only.
@@ -106,7 +106,7 @@ Create tasks
 
 </td><td>
 
-Option to create follow-on tasks for correcting discrepancies \(selected\). In a scripted audit, you can create the logic for either task state by using **true** to create tasks or **false** to not create tasks. By default, this [[check-box|check box]] is cleared \(**false**\) in a new audit record.
+Option to create follow-on tasks for correcting discrepancies \(selected\). In a scripted audit, you can create the logic for either task state by using **true** to create tasks or **false** to not create tasks. By default, this check box is cleared \(**false**\) in a new audit record.
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Assignment type
 
 </td><td>
 
-Method for assigning follow-on tasks. This field is visible only when the **Create task** check box is selected. Choices are:-   User Field: Select a user [[reference|reference]] field on the table being audited. For example, you choose the user identified in the **Managed by** field on the failed record to perform the tasks. This selection displays the **Assigned to** and **Assign to empty** fields. If the reference field on the record is empty, the value in the **Assign to empty** field is used.
+Method for assigning follow-on tasks. This field is visible only when the **Create task** check box is selected. Choices are:-   User Field: Select a user reference field on the table being audited. For example, you choose the user identified in the **Managed by** field on the failed record to perform the tasks. This selection displays the **Assigned to** and **Assign to empty** fields. If the reference field on the record is empty, the value in the **Assign to empty** field is used.
 -   Specific User: Select a specific user to perform the tasks. This selection displays the **User** field.
 -   Group Field: Select a group reference field on the table being audited. For example, you choose the group identified in the **Support group** field on the failed record to perform the tasks. Tasks are assigned to all members of the group. This selection displays the **Assign to group** and **Assign to empty** fields. If the reference field on the record is empty, the value in the **Assign to empty** field is used.
 -   Specific Group: Select a specific group to perform the tasks. This selection displays the **Group** field. All members of the selected group are assigned to the tasks.
@@ -319,12 +319,3 @@ Audit script to run which contains the conditions that a CI need to comply with 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_DesiredState|Desired State]]
-- [[c_ScriptedAudits|Scripted audits]]
-- [[check-box|Check box]]
-- [[reference|Reference]]

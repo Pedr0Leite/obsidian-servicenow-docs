@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Set up a worker profile
 
-Establish a connection between a functional location and a user by setting up a worker profile in [[industrial-connected-workforce-overview|Industrial Connected Workforce]].
+Establish a connection between a functional location and a user by setting up a worker profile in Industrial Connected Workforce.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The sn\_icw\_worker\_profile table contains the link between a user and a functi
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

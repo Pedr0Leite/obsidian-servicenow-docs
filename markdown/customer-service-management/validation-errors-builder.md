@@ -26,8 +26,5 @@ The errors are indicated in the following ways:
 -   A label for a count of nodes and paths that have errors in the top-right corner
 -   An alert message in the side panel showing a list of errors in the selected node or path
 
-For more information on errors and recovery across various nodes and paths, see [[ra-validation-errors|Validation errors]].
+For more information on errors and recovery across various nodes and paths, see [Validation errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-validation-errors.md).
 
-## Related
-
-- [[ra-validation-errors|Validation errors]]

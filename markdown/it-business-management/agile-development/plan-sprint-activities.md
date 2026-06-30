@@ -31,7 +31,7 @@ For more information on the Agile board, see [Agile board in Agile Development 2
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  Select the Sprint Planning tab.
 
@@ -103,6 +103,3 @@ For more information on the Agile board, see [Agile board in Agile Development 2
 
 [Agile board in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-board.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

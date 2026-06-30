@@ -28,7 +28,7 @@ The key agents for ACH dispute resolution are.
 -   **Merchant analysis for disputes AI agent**: Assesses merchant credibility in the context of the disputed transaction's reason, using web intelligence and internal dispute history, eliminating manual research.
 -   **Nacha operating guidelines check AI agent**: Verifies chargeback eligibility of transactions against Nacha operating guidelines without relying on complex system rules.
 -   **ACH dispute return recommendation AI agent**: Combines merchant risk analysis and Nacha eligibility checks to provide clear, consistent recommendations, whether to file a return, deny the claim, or request more documentations. Thus helping dispute agents to make faster, more accurate, and conforming decisions.
--   **[[dispute-communication-ai|Dispute communication AI agent]]**: Automates and streamlines communication with customers and ODFIs throughout the ACH dispute life cycle. The agent generates and sends timely, conforming, and personalized notifications for all dispute outcomes: returns, denials, or documentation requests, thus ensuring clarity, conformance, and faster resolution.
+-   **Dispute communication AI agent**: Automates and streamlines communication with customers and ODFIs throughout the ACH dispute life cycle. The agent generates and sends timely, conforming, and personalized notifications for all dispute outcomes: returns, denials, or documentation requests, thus ensuring clarity, conformance, and faster resolution.
 
 ## ACH disputes workflow with AI agents
 
@@ -41,6 +41,3 @@ Use AI agents to streamline ACH dispute resolution in Now Assist for FSO.
 
 **Parent Topic:**[Standalone AI agents in Financial Services Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/ai-agents-fso.md)
 
-## Related
-
-- [[dispute-communication-ai|Dispute communication AI agent]]

@@ -19,13 +19,13 @@ Use dashboard categories, dashboard groups, and dashboard lists to find the dash
 
 ## Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[find-dashboard-library|Dashboards in the library]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Dashboards in the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md).
 
-Role required: There are no specific permissions required to view dashboards. However, you must have permission to view at least one dashboard to see the Dashboards Overview and the dashboard picker. For more information about [[c_DashboardRoles|dashboard permissions]], see [Solving permissions issues on a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/troubleshoot-dashboard-permissions.md).
+Role required: There are no specific permissions required to view dashboards. However, you must have permission to view at least one dashboard to see the Dashboards Overview and the dashboard picker. For more information about dashboard permissions, see [Solving permissions issues on a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/troubleshoot-dashboard-permissions.md).
 
 ## About this task
 
-On the Dashboards Overview, each tile contains information about the dashboard it represents: Thumbnails of the [[widgets|widgets]] on the dashboard, the Dashboard group, your role on the dashboard, the name of the dashboard, and the owner of the dashboard. Dashboards that are not assigned a group by their creators are assigned the group **Other**.
+On the Dashboards Overview, each tile contains information about the dashboard it represents: Thumbnails of the widgets on the dashboard, the Dashboard group, your role on the dashboard, the name of the dashboard, and the owner of the dashboard. Dashboards that are not assigned a group by their creators are assigned the group **Other**.
 
 \[Omitted image "dashboard-tile-layout-p.png"\] Alt text: Dashboard tile example with callouts for dashboard group, the viewer's role, the widget types on the dashboard, and the dashboard name
 
@@ -85,9 +85,4 @@ On the Dashboards Overview, each tile contains information about the dashboard i
 
 8.  Select the name of a dashboard to replace the current dashboard with the new one.
 
-## Related
 
-- [[find-dashboard-library|Dashboards in the library]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_DashboardRoles|Dashboard permissions]]
-- [[widgets|Widgets]]

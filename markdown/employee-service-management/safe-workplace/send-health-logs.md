@@ -14,7 +14,7 @@ breadcrumb: [Integrating with Safe Workplace suite, Safe Workplace, Health and S
 
 # Send data to the Employee Health Screening log
 
-Send data from a third-party system to the [[employee-health-screening|Employee Health Screening]] application log table. You can use this table to create reports and monitor health trends.
+Send data from a third-party system to the Employee Health Screening application log table. You can use this table to create reports and monitor health trends.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: sn\_imt\_core.api\_logging\_user
         |Source|Internal name to identify the third-party system making the log entry.|
         |Level|User status, log level, or any other meaningful string. For example, you can enter `Allowed` or `Denied` to indicate whether the individual is cleared for entry.|
         |Message|Description of the health screening. For example, `Temp too high`.|
-        |User|Employee or visitor email from the [[health-safety-overview|Health and Safety]] User \[sn\_imt\_core\_health\_and\_safety\_user\] table.|
+        |User|Employee or visitor email from the Health and Safety User \[sn\_imt\_core\_health\_and\_safety\_user\] table.|
         |Additional Info|Data to provide any additional information. For example, `{'temperature':'101', 'location':'San Diego'}`.|
 
     This example cURL request sends a record to the Log Import table.
@@ -62,7 +62,3 @@ Role required: sn\_imt\_core.api\_logging\_user
 
 Generate reports on the data you imported to the Log \[sn\_imt\_core\_log\] table using [Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting-landing-page.md).
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]
-- [[health-safety-overview|Health and Safety]]

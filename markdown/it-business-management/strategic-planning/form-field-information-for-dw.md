@@ -14,8 +14,5 @@ breadcrumb: [Reference, Next Experience for Demand Management in Strategic Plann
 
 # Forms
 
-Field information for forms used in Next Experience for [[c_DemandManagement|Demand Management]].
+Field information for forms used in Next Experience for Demand Management.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

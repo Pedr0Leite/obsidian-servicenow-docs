@@ -13,7 +13,7 @@ breadcrumb: [Application readiness, ServiceNow AI implementation, Enable AI expe
 
 # Knowledge Base readiness for Now Assist on the ServiceNow AI Platform
 
-The knowledge base is the engine that enables [[platform-now-assist-landing|Now Assist]] to deliver intelligent, accurate, and context-aware responses across AI Search, Q&amp;A Genius Results, and other AI-powered experiences.
+The knowledge base is the engine that enables Now Assist to deliver intelligent, accurate, and context-aware responses across AI Search, Q&amp;A Genius Results, and other AI-powered experiences.
 
 When users ask questions, Now Assist taps into your knowledge articles to generate answers that reflect your organization’s expertise and policies. This means the quality, clarity, and structure of your knowledge content directly influence the effectiveness of AI responses. Outdated, inconsistent, or poorly written articles can lead to incorrect outputs and user frustration. That’s why maintaining a clean, well-organized knowledge base is critical—not just for documentation, but for enabling reliable AI performance.
 
@@ -70,6 +70,4 @@ The Knowledge Management Overview dashboard is a powerful tool for assessing AI 
 
     See: [Knowledge Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management-dashboard.md)
 
-## Related
 
-- [[platform-now-assist-landing|Now Assist]]

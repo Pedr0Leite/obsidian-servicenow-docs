@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Export a project from Project Workspace
 
-Export your project as a file from [[project-workspace-landing-page|Project Workspace]]. Use this file to provide project updates to external stakeholders or a wider audience. Save time by generating an export file with the latest information and avoid copying information into different files.
+Export your project as a file from Project Workspace. Use this file to provide project updates to external stakeholders or a wider audience. Save time by generating an export file with the latest information and avoid copying information into different files.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Export your project as a file from [[project-workspace-landing-page|Project Work
 
 For Microsoft PowerPoint:
 
--   Install the [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] application from the ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/install-export-to-ppt.md).
+-   Install the Export to PowerPoint for Strategic Portfolio Management application from the ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/install-export-to-ppt.md).
 -   Create and upload a Microsoft PowerPoint template to apply to your status report. For more information on how to create and upload a template, see [Create a Microsoft PowerPoint template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/create-ppt-template.md) and [Upload your Microsoft PowerPoint template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/upload-ppt-template.md).
 
 **Important:** Export to PowerPoint is currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. Please check for availability updates in future releases.
@@ -56,7 +56,3 @@ The project is downloaded in the selected file format.
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]

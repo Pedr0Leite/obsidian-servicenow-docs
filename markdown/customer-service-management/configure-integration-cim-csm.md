@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Continual Improvement Management, Integrate, Custo
 
 # Integrate with Continual Improvement Management
 
-[[c_CustomerServiceManagement|Customer Service Management]] provides an integration with the Continual Improvement Management application. This integration enables you to request improvement opportunities and to implement phases and tasks to meet performance goals, track progress, and measure success.
+Customer Service Management provides an integration with the Continual Improvement Management application. This integration enables you to request improvement opportunities and to implement phases and tasks to meet performance goals, track progress, and measure success.
 
 ## Before you begin
 
@@ -26,6 +26,4 @@ Role required: admin
 
 3.  Click **Activate**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

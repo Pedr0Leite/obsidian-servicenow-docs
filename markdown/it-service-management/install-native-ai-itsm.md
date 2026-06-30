@@ -12,14 +12,14 @@ breadcrumb: [Configure and integrate, Simplified IT Service Management, IT Servi
 
 # Install IT Service Management
 
-Set up and get started with [[r_ITServiceManagement|IT Service Management]] \(ITSM\) on your instance.
+Set up and get started with IT Service Management \(ITSM\) on your instance.
 
 ## Before you begin
 
 Role required: admin
 
 -   Request for the entitlement of the Setup Hub application \(sn\_ia\) from  and install it. See [Set up Now Assist with Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-setup-now-assist.md) and [Understand the Configuration page flow in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-configure-il.md).
--   If none of the following ITSM [[dex-workspace-application-tab|applications]] are auto-installed, request for an entitlement from  based on your subscription.
+-   If none of the following ITSM applications are auto-installed, request for an entitlement from  based on your subscription.
     -   IT Service Management \(sn\_ai\_itsm\_cont\)
     -   IT Service Management Advanced \(sn\_itsm\_adv\_cont\)
 
@@ -27,8 +27,8 @@ Role required: admin
 
 Post installation, the following capabilities are available:
 
--   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]].
--   Commonly requested catalog items. For information on catalog items, see [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]].
+-   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/agents-ai-native-it-service-desk.md).
+-   Commonly requested catalog items. For information on catalog items, see [Catalog items installed with Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/catalog-items-base-system.md).
 
 ## Procedure
 
@@ -73,12 +73,5 @@ Post installation, the following capabilities are available:
         \[Omitted image "ai-naive-install-get-started.png"\] Alt text: getting started with configurations
 
 
-**Parent Topic:**[[configuring-ai-native-itsm|Configuring Simplified IT Service Management]]
+**Parent Topic:**[Configuring Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-ai-native-itsm.md)
 
-## Related
-
-- [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]]
-- [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]]
-- [[configuring-ai-native-itsm|Configuring Simplified IT Service Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]

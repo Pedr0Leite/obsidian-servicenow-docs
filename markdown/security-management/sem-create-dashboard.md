@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Create a dashboard in the Findings view page
 
-As a vulnerability manager and analyst, create a configured dashboard using the [[sem-visualization-library|visualization library]] widgets, and use the active widgets to drill down to specific findings.
+As a vulnerability manager and analyst, create a configured dashboard using the visualization library widgets, and use the active widgets to drill down to specific findings.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select the **Create filter** icon.
 
@@ -50,10 +50,5 @@ Roles required:
 7.  To update the dashboard, select the **Edit filter** icon.
 
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[sem-visualization-library|Visualization library]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

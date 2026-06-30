@@ -14,11 +14,11 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Create an insurance policy
 
-Create a policy record in the system that represents the agreement between the insurance provider and the customer by using the [[insurance-claims-flow|Insurance claims]] application.
+Create a policy record in the system that represents the agreement between the insurance provider and the customer by using the Insurance claims application.
 
 ## Before you begin
 
-An insurance product model, a [[coverage-specification|coverage specification]], and an insurance policy table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table are required. For more information, see the following topics:
+An insurance product model, a coverage specification, and an insurance policy table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table are required. For more information, see the following topics:
 
 -   [Insurance product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-product-models.md)
 -   [Coverage specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md)
@@ -55,7 +55,3 @@ Apply coverage to an insurance policy. For more information, see [Apply coverage
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[coverage-specification|Coverage specification]]

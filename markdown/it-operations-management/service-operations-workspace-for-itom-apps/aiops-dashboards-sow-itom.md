@@ -14,7 +14,7 @@ breadcrumb: [Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIO
 
 # AIOps Dashboards in Service Operations Workspace for ITOM
 
-The AIOps [[otto-aiops-dashboards|dashboards]] offer comprehensive visualizations of critical operational data. You can monitor key performance indicators \(KPIs\), track service health, and gain valuable context on the overall IT environment. These dashboards provide actionable insights that facilitate proactive responses to potential issues.
+The AIOps dashboards offer comprehensive visualizations of critical operational data. You can monitor key performance indicators \(KPIs\), track service health, and gain valuable context on the overall IT environment. These dashboards provide actionable insights that facilitate proactive responses to potential issues.
 
 Key benefits of using the AIOps dashboards:
 
@@ -27,7 +27,7 @@ Key benefits of using the AIOps dashboards:
 
 ## Access the AIOps Operational dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Operational dashboard**.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Operational dashboard**.
 
 ## AIOps Dashboard home page
 
@@ -37,8 +37,3 @@ To view AIOps Operational dashboards, such as AIOps Value Realization, select th
 
 \[Omitted image "aiops-dashboard-list.png"\] Alt text: AIOps dashboard list
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

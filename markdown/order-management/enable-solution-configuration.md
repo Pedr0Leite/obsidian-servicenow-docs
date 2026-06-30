@@ -13,7 +13,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Enable solution configuration
 
-Enable solution configuration for an environment to let admins link multiple [[blueprints|blueprints]] into connected configuration sessions.
+Enable solution configuration for an environment to let admins link multiple blueprints into connected configuration sessions.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Solution configuration must be enabled in each environment where you want to use
 
 1.  Open a blueprint in the admin.
 
-2.  Navigate to the **[[rules_101|Rules]]** section and add a product action.
+2.  Navigate to the **Rules** section and add a product action.
 
     Verify that **Configurable Product Action** is available in the action type selector.
 
@@ -46,17 +46,11 @@ Configurable product actions are available in the admin for the enabled environm
 
 After enabling solution configuration:
 
--   To link your first parent and child blueprints, see [[create-configurable-product-action|Create a configurable product action]].
+-   To link your first parent and child blueprints, see [Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md).
 -   To review structural limits before designing a solution, see [Solution configuration limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 **Related topics**  
 
 
-[[solution-configurations|Solution configurations]]
+[Solution configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-configurations.md)
 
-## Related
-
-- [[create-configurable-product-action|Create a configurable product action]]
-- [[solution-configurations|Solution configurations]]
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]

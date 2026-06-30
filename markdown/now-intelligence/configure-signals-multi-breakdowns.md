@@ -16,7 +16,7 @@ Configure signal detection and assign responsibility for multiple breakdowns and
 
 ## Before you begin
 
-An administrator must activate [[process-behavior-charts-for-kpis|KPI Signals]] for the indicator. For more information, see [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]].
+An administrator must activate KPI Signals for the indicator. For more information, see [Activate KPI Signals monitoring for an indicator \(KPI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-signals-monitor.md).
 
 Role required: responsible user for the indicator or admin.
 
@@ -33,7 +33,7 @@ However, KPI Signals could not monitor "Number of open incidents, Priority = 1-C
 
 ## Procedure
 
-1.  Open KPI Signals for the indicator, without first selecting a filtering breakdown in [[kpi-details|KPI Details]].
+1.  Open KPI Signals for the indicator, without first selecting a filtering breakdown in KPI Details.
 
 2.  Click the cogwheel to open the Configuration options.
 
@@ -55,26 +55,16 @@ However, KPI Signals could not monitor "Number of open incidents, Priority = 1-C
 
 8.  In the Signal Detection tab, activate monitoring for the KPIs and set the baseline start and number of scores required to calculate the baseline.
 
-    For more information about the settings on the Signal Detection tab, see [[configure-signal-detection|Configure signal detection]].
+    For more information about the settings on the Signal Detection tab, see [Configure signal detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-detection.md).
 
 9.  Open the Responsibility tab and assign a responsible user to each KPI.
 
-    For more information about responsible users and the settings on the Responsibility tab, see [[kpi-signals-responsible-users|Configure responsibility for KPI Signals]].
+    For more information about responsible users and the settings on the Responsibility tab, see [Configure responsibility for KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-signals-responsible-users.md).
 
 10. Open the Notifications tab and set how often the responsible user should get an email notification for an unresolved signal.
 
-    You can also set the total number of reminders the responsible user gets for an unresolved signal. Also set the anti-signal factor, which is used to calculate how many scores without a signal result in an anti-signal. For more information about anti-signals, see [[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]]. For more information about the settings on the Notifications tab, see [[configure-signal-notifications|Configure signal notifications]].
+    You can also set the total number of reminders the responsible user gets for an unresolved signal. Also set the anti-signal factor, which is used to calculate how many scores without a signal result in an anti-signal. For more information about anti-signals, see [Signal, no signal, and anti-signal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/signal-no-signal-anti-signal.md). For more information about the settings on the Notifications tab, see [Configure signal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-notifications.md).
 
 
-**Parent Topic:**[[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-## Related
-
-- [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]]
-- [[configure-signal-detection|Configure signal detection]]
-- [[kpi-signals-responsible-users|Configure responsibility for KPI Signals]]
-- [[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]]
-- [[configure-signal-notifications|Configure signal notifications]]
-- [[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]

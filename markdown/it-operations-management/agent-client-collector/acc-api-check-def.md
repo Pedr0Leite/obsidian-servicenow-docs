@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_integration or agent\_client\_collector
 
 ## Procedure
 
-1.  In an [[c_EM|Event Management]] instance, navigate to **[[acc-landing-page|Agent Client Collector]]** &gt; **Check Definitions**.
+1.  In an Event Management instance, navigate to **Agent Client Collector** &gt; **Check Definitions**.
 
 2.  Click **New**.
 
@@ -50,7 +50,4 @@ Role required: agent\_client\_collector\_integration or agent\_client\_collector
 
     The test result appears, indicating its success or failure.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[acc-landing-page|Agent Client Collector]]

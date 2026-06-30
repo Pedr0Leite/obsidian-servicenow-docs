@@ -14,23 +14,23 @@ breadcrumb: [Safe Workplace Dashboard, Safe Workplace, Health and Safety, Employ
 
 # Create a campus to appear on the Safe Workplace Dashboard
 
-You can create a campus from existing locations to appear on the [[safe-workplace-dashboard|Safe Workplace Dashboard]].
+You can create a campus from existing locations to appear on the Safe Workplace Dashboard.
 
 Route the following information to the Safe Workplace Dashboard and display this information by campus:
 
 -   User health and willingness to return to work.
 -   Building readiness.
 -   Personal protective equipment inventory.
--   Active [[contact-tracing|contact tracing]] cases.
+-   Active contact tracing cases.
 -   Potentially exposed contacts under investigation.
 
-Ensure that you install and use the following applications for the Safe Workplace Dashboard. Each application has a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to a location.
+Ensure that you install and use the following applications for the Safe Workplace Dashboard. Each application has a reference to a location.
 
--   ServiceNow® [[emergency-self-report|Emergency Self Report]] references the location in the user's profile.
--   ServiceNow® [[emergency-outreach|Emergency Outreach]] with [[employee-readiness-surveys|Employee Readiness Surveys]] installed. These applications reference the location in the user's profile.
--   ServiceNow® [[ppe-inventory-management|Workplace PPE Inventory Management]] has defined stockrooms, and the location is a required field for a stockroom.
--   ServiceNow® [[employee-health-screening|Employee Health Screening]] has a form for selecting a location and a user to submit the compliance values.
--   The Space Administration module of ServiceNow [[workplace-safety-mgmt-hr|Workplace Core]] is where organization facilities are defined. Within a building, floors, areas, and workspaces are defined. These definitions provide for proximity screening, cleaning assignments, and workspace reservations.
+-   ServiceNow® Emergency Self Report references the location in the user's profile.
+-   ServiceNow® Emergency Outreach with Employee Readiness Surveys installed. These applications reference the location in the user's profile.
+-   ServiceNow® Workplace PPE Inventory Management has defined stockrooms, and the location is a required field for a stockroom.
+-   ServiceNow® Employee Health Screening has a form for selecting a location and a user to submit the compliance values.
+-   The Space Administration module of ServiceNow Workplace Core is where organization facilities are defined. Within a building, floors, areas, and workspaces are defined. These definitions provide for proximity screening, cleaning assignments, and workspace reservations.
 
     One or more buildings are assigned to a campus. The location icons displayed on the Safe Workplace Dashboard overview show the campus and any associated buildings when you point to an icon.
 
@@ -50,9 +50,9 @@ To associate locations with infectious diseases, such as COVID-19 data, from the
 
 There are multiple methods that you can use to create a campus that appears on the Safe Workplace Dashboard.
 
--   [[autoconfig-safe-wp-dash|Auto-map a location and create a campus]].
+-   Auto-map a location and create a campus.
 -   Manually associate a location and create a campus.
--   [[configure-safe-workplace-dashboard|Manually map a location to a campus \(Workplace Core\)]].
+-   Manually map a location to a campus \(Workplace Core\).
 
 ## Auto-map multiple locations and create campuses
 
@@ -77,16 +77,3 @@ Use Workplace Core as an alternative to the Safe Workplace Dashboard to manually
 
 **Parent Topic:**[Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/safe-workplace-dashboard.md)
 
-## Related
-
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[contact-tracing|Contact Tracing]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[autoconfig-safe-wp-dash|Auto-map a location and create a campus]]
-- [[configure-safe-workplace-dashboard|Manually map a location to a campus \(Workplace Core\)]]

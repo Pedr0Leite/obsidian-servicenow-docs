@@ -28,7 +28,7 @@ Once you find an opportunity that you’re interested in, you must sign up and a
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] go to **[[egd-oppt-mrktplc-landing|Opportunity marketplace]]** &gt; **Other opportunities**.
+1.  From the Employee Center go to **Opportunity marketplace** &gt; **Other opportunities**.
 
     Look at the opportunities on the **Other opportunities** page to find the opportunity role you want to apply for.
 
@@ -82,7 +82,3 @@ This section enables you to add more relevant details about your experience by a
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

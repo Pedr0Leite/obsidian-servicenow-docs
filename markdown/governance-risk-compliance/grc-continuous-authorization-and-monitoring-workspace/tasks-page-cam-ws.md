@@ -44,7 +44,7 @@ Role required:
 
     -   **My pending tasks**
 
-        Monitor the pending tasks assigned to you. The **All** tab under the **My pending tasks** tab on the [[task-page-config-module|Tasks Page Configuration module]] displays the list of control classic attestations, grouped attestations, Privacy Threshold Analysis \(PTA\) or Privacy Impact Assessment \(PIA\), and others. If the tasks are relevant to you, then they’re populated under the **My pending tasks** section in the workspace UI.
+        Monitor the pending tasks assigned to you. The **All** tab under the **My pending tasks** tab on the Tasks Page Configuration module displays the list of control classic attestations, grouped attestations, Privacy Threshold Analysis \(PTA\) or Privacy Impact Assessment \(PIA\), and others. If the tasks are relevant to you, then they’re populated under the **My pending tasks** section in the workspace UI.
 
         If you don’t have any assigned tasks, then no data is displayed under the My pending tasks tab. Only open and active tasks assigned to you’re listed under the My pending tasks tab.
 
@@ -60,14 +60,10 @@ Role required:
 
         Monitor the tasks for which you are in the watchlist. The **My watchlist** tab configuration displays the list of tasks for which you are in the watchlist.
 
-    -   **[[confidential-records|Confidential records]]**
+    -   **Confidential records**
 
         Mark sensitive records as confidential and verify that the appropriate people have access to these records. The **Confidential records** tab configuration displays the confidential records for the selected table.
 
 
 **Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 
-## Related
-
-- [[task-page-config-module|Tasks Page Configuration module]]
-- [[confidential-records|Confidential records]]

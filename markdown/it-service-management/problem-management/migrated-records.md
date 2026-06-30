@@ -14,7 +14,7 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Migrated
 
-You have successfully activated the [[c_ProblemManagement|Problem Management]] Best Practice - Madrid - State Model plugin and updated your problem and problem task records to the new best practice states.
+You have successfully activated the Problem Management Best Practice - Madrid - State Model plugin and updated your problem and problem task records to the new best practice states.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
     -   Failed Inactive Problem Task Updates
 3.  Click **Finish** to return to guided setup to perform the clean-up tasks.
 
-## Related
 
-- [[c_ProblemManagement|Problem Management]]

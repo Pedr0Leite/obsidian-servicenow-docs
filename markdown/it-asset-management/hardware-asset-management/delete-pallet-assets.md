@@ -26,7 +26,7 @@ You can delete a pallet only if it’s empty. Remove any assets before trying to
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the **Pallets** tab.
 
@@ -50,9 +50,5 @@ The pallet that you deleted is no longer shown under the Pallets tab.
 
 [Remove assets from a pallet]()
 
-[Using [[pallet-assets|pallet assets]] for managing inventory]()
+[Using pallet assets for managing inventory]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[pallet-assets|Pallet assets]]

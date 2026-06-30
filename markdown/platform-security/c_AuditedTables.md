@@ -17,32 +17,25 @@ Track record changes on auditing-enabled tables. By default, the system tracks c
 
 [Explore\[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-auditing.md)
 
- [[exploring-auditing|Learn the features and business values of Auditing.]]
+ [Learn the features and business values of Auditing.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-auditing.md)
 
 </td><td>
 
 [Configure\[Omitted image "icon-set-up.png"\] Alt text: Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md)
 
- [[t_EnableAuditingForATable|Understand how to configure Auditing.]]
+ [Understand how to configure Auditing.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md)
 
 </td></tr><tr><td>
 
 [View\[Omitted image "icon-manage.png"\] Alt text: Reviewing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_UnderstandingTheSysAuditTable.md)
 
- [[c_UnderstandingTheSysAuditTable|Review the Sys Audit and Audit Relationship Change tables.]]
+ [Review the Sys Audit and Audit Relationship Change tables.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_UnderstandingTheSysAuditTable.md)
 
 </td><td>
 
 [Reference\[Omitted image "icon-reference.png"\] Alt text: Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 
- [[c_HistorySets|Know about the History sets.]]
+ [Know about the History sets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-auditing|Exploring Auditing]]
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[c_UnderstandingTheSysAuditTable|Viewing Sys Audit and Audit Relationship Change tables]]
-- [[c_HistorySets|Knowing about History sets]]

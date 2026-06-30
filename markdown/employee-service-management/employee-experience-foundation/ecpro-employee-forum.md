@@ -14,7 +14,7 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 # Employee Forums
 
-Employee Forums delivers Communities features to the [[employee-center-pro-landing|Employee Center Pro]] portal to help employees connect, engage, and collaborate with other employees. Use Employee Forums to share business information, promote employee engagement, encourage ideas and feedback, and to give your employees a voice.
+Employee Forums delivers Communities features to the Employee Center Pro portal to help employees connect, engage, and collaborate with other employees. Use Employee Forums to share business information, promote employee engagement, encourage ideas and feedback, and to give your employees a voice.
 
 Employee Forums enhances employee self-service by providing access to Communities through an out-of-the-box menu item, which takes users to the community where they can post, view, and subscribe to topics.
 
@@ -27,6 +27,3 @@ Employee Forums integrate with campaigns and content publishing so that:
 
 Before content managers can use Employee Forums, an admin must first configure Communities, including forums and topics. These features serve as publishing destinations for managers creating content via Content Publishing. For information on communities, see [Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/servicenow-communities.md).
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

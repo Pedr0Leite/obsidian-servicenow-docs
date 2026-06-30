@@ -14,7 +14,7 @@ breadcrumb: [Manage a Universal Request from the Health and Safety Workspace, Un
 
 # Transfer a Universal Request from the Health and Safety Workspace
 
-You can transfer a [[ur-landing-limitedaccess|Universal Request]] to another department or services from the [[health-safety-core-workspace|Health and Safety Workspace]].
+You can transfer a Universal Request to another department or services from the Health and Safety Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_uni\_req.routing\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety Workspace**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\) to open the **Cases** tab.
 
@@ -55,8 +55,3 @@ The universal request is transferred to the selected department. Based on the re
 
 To associate another health and safety ticket to the universal request, you can select **Create Associated Ticket**. The new associated ticket displays on the **Associated Tickets** related list of the universal request.
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]

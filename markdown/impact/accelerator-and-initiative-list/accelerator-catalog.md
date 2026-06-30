@@ -14,7 +14,7 @@ breadcrumb: [View the Initiatives and Accelerators catalog, Initiatives and Acce
 
 # Accelerator catalog
 
-This is a complete [[impact-landing-page|Impact]] Accelerator catalog that combines the Architecture, Strategy, Technical, and Optimization sub-catalogs.
+This is a complete Impact Accelerator catalog that combines the Architecture, Strategy, Technical, and Optimization sub-catalogs.
 
 ## Consumption model
 
@@ -33,7 +33,7 @@ According to your Impact package, Guided or Total, you may consume a fixed numbe
 **Note:**
 
 -   Refer to Release Notes and Upgrades to identify the most recently added or updated Accelerators.
--   The Impact team shall be scheduled based on resource [[io-availability|availability]].
+-   The Impact team shall be scheduled based on resource availability.
 
 ## Accelerators available in each package
 
@@ -74,7 +74,7 @@ Accelerators that offer USPS specific versions are indicated as such in the sub-
 
 ## Strategy Accelerators
 
-Use [Strategy Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/strategy-accelerators.md) to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business [[instance-observer-performance|performance]] and drive success.
+Use [Strategy Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/strategy-accelerators.md) to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
 
 Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-catalog.md) for additional information.
 
@@ -111,7 +111,7 @@ Accelerators that offer USPS specific versions are indicated as such in the sub-
 
 ## Technical Accelerators
 
-[Technical Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/technical-accelerators.md) accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices. The Accelerators are delivered by the [[impact-squad|Impact Squad]] and technical consultants, as necessary.
+[Technical Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/technical-accelerators.md) accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices. The Accelerators are delivered by the Impact Squad and technical consultants, as necessary.
 
 Accelerators that offer USPS or SPP-AU specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-catalog.md) for additional information.
 
@@ -197,9 +197,3 @@ Accelerators that offer USPS or SPP-AU specific versions are indicated as such i
 |[TuneUp Your Virtual Agent – NLU \(Natural Language Understanding\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-nlu.md)|✓|✓|✓|✓|✓|✓| |
 |[TuneUp Your Virtual Agent – Performance Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-performance-monitoring.md)|✓|✓|✓|✓|✓|✓| |
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]
-- [[instance-observer-performance|Performance]]
-- [[impact-squad|Impact Squad]]

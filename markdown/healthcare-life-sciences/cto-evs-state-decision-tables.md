@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Modify state decision tables in Care Team Operations for Environmental Services
 
-Use Decision Builder to change the state mappings for cases and incidents work orders in [[cto-evs-landing|Care Team Operations for Environmental Services]].
+Use Decision Builder to change the state mappings for cases and incidents work orders in Care Team Operations for Environmental Services.
 
 The Healthcare Environmental Services case state sync map displays all current mappings between Healthcare Environmental Services case and work order states.
 
@@ -52,6 +52,3 @@ These values can be found in the Dictionary Entry for the State field.
 |Approved|13|2|
 |Work in Progress|18|7|
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

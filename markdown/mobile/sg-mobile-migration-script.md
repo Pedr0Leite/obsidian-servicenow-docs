@@ -12,7 +12,7 @@ breadcrumb: [Migrate to New York &amp; later, Plugins &amp; upgrades, Before imp
 
 # Run the mobile migration script
 
-Run the mobile migration script to convert Madrid mobile applications you have created or modified to use the new [[mobile-hierarchy|mobile hierarchy]].
+Run the mobile migration script to convert Madrid mobile applications you have created or modified to use the new mobile hierarchy.
 
 ## Before you begin
 
@@ -29,9 +29,5 @@ Mobile applications created in the Madrid release still work in the Australia re
 3.  Click **Upgrade** when prompted to start the migration script.\[Omitted image "migration-script-prompt.png"\] Alt text: Mobile migration script prompt
 
 
-**Parent Topic:**[[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]
+**Parent Topic:**[Mobile migration from Madrid to New York and later releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-migration-ny.md)
 
-## Related
-
-- [[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]
-- [[mobile-hierarchy|Mobile hierarchy]]

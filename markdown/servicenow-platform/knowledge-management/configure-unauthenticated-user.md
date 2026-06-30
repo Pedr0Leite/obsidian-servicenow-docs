@@ -18,7 +18,7 @@ Identify knowledge bases accessible to unauthenticated users based on the user c
 
 ## Before you begin
 
-You must activate the [[knowledge-management|Knowledge Management]] v3 plugin \(com.snc.knowledge3\).
+You must activate the Knowledge Management v3 plugin \(com.snc.knowledge3\).
 
 Role required: knowledge\_manager, knowledge\_admin, or admin
 
@@ -47,6 +47,3 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 **Parent Topic:**[User criteria diagnostics for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/diagnose-knowledge-user-criteria.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

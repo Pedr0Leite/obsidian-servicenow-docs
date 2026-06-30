@@ -28,7 +28,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -40,7 +40,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 6.  Select **Open Record**.
 
-7.  On the [[benefit-plan-form-project-management|Benefit Plan form]], select **Associate new benefit**.
+7.  On the Benefit Plan form, select **Associate new benefit**.
 
 8.  On the form, fill in the fields.
 
@@ -59,7 +59,3 @@ Select the **View Associated benefit plan** related link to view the associated 
 
 **Parent Topic:**[Create an epic in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-an-epic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

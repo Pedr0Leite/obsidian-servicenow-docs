@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace contracts, Workplace Lease Administration, Workpla
 
 # Manage workplace contracts from Workplace Central
 
-Lease administrators and managers can track, renew, and view information related to workplace contracts from [[workplace-central-feat|Workplace Central]].
+Lease administrators and managers can track, renew, and view information related to workplace contracts from Workplace Central.
 
 -   **[Renew workplace contract in Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-renew-lease-workplace-contracts.md)**  
 Renew a workplace contract after you have created it, when it is approaching expiration, or when it has expired.
@@ -25,6 +25,3 @@ Cancel an active contract if it is no longer relevant.
 
 **Parent Topic:**[Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-lease-admin-feat.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

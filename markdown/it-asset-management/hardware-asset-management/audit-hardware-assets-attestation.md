@@ -16,14 +16,14 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 Improve the asset utilization by auditing the hardware assets assigned to your employees and validating if the employees are using the assigned assets.
 
-As an Asset manager or an Inventory administrator, you can create an [[asset-attestation-ham|asset attestation]] in any of the following ways:
+As an Asset manager or an Inventory administrator, you can create an asset attestation in any of the following ways:
 
 -   [Create an asset attestation or a schedule using the playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-using-playbook.md)
 -   [Create an asset attestation in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-req-ham.md).
 -   [Create an asset attestation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attest-schedule-ham.md).
 -   [Create an attestation for a hardware asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/attest-single-asset-ham.md)
 
-**Important:** Starting with [[ham-landing-page|Hardware Asset Management]] version 13.0.0, the playbook is the default option for the creation of asset attestations and schedules. However, if you set the value of the **sn\_itam\_common.enable\_asset\_attestation\_playbook** system property to **false** with the asset or inventory\_admin role, you will be shown forms to complete the attestation process instead of the playbook.
+**Important:** Starting with Hardware Asset Management version 13.0.0, the playbook is the default option for the creation of asset attestations and schedules. However, if you set the value of the **sn\_itam\_common.enable\_asset\_attestation\_playbook** system property to **false** with the asset or inventory\_admin role, you will be shown forms to complete the attestation process instead of the playbook.
 
 As an employee, you can confirm the assets assigned to you in any of the following ways:
 
@@ -41,17 +41,17 @@ Create an attestation schedule so that recurring asset attestations are created 
 -   **[Create an attestation for a hardware asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/attest-single-asset-ham.md)**  
 Validate a particular serialized hardware asset by creating an attestation for that asset.
 -   **[Confirming the assigned serialized hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/confirming-assets-emp-portal-mobile.md)**  
-As an employee, acknowledge whether you have the serialized hardware that's assigned to you either through the [[now-mobile-asset|Now Mobile app]] or on the Employee Center portal.
+As an employee, acknowledge whether you have the serialized hardware that's assigned to you either through the Now Mobile app or on the Employee Center portal.
 -   **[Raise issue related to your asset on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/report-asset-issue-attestation.md)**  
 Get the issue related to your assets resolved by reporting the issue on the Employee Center portal.
 -   **[View attestations for a serialized hardware asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-attestations-for-asset-ham.md)**  
 View all the attestation records associated with a serialized hardware asset to check the status of previous asset attestations.
 -   **[View open asset attestations in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-asset-attest-ham.md)**  
-Get the details of all asset attestations that are awaiting action from your employees in the [[using-ham-workspace|Hardware Asset Workspace]].
+Get the details of all asset attestations that are awaiting action from your employees in the Hardware Asset Workspace.
 -   **[Cancel an asset attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-asset-attestation-ham.md)**  
-[[cancel-asset-attestation-ham|Cancel an asset attestation]] when you no longer have to validate the ownership of the serialized assets.
+Cancel an asset attestation when you no longer have to validate the ownership of the serialized assets.
 -   **[Cancel an attestation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-attestation-schedule-ham.md)**  
-[[cancel-attestation-schedule-ham|Cancel an attestation schedule]] when you no longer want to create recurring asset attestations.
+Cancel an attestation schedule when you no longer want to create recurring asset attestations.
 -   **[View open remediation tasks for asset attestations in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-remediations-ham.md)**  
 Get the details of all the remediation tasks for asset attestations that are awaiting your action in the Hardware Asset Workspace.
 -   **[Complete the remediation task for asset attestation in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/complete-attestation-remediation-ham.md)**  
@@ -66,7 +66,7 @@ As an asset manager or inventory administrator, complete the open remediation ta
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -88,13 +88,13 @@ As an asset manager or inventory administrator, complete the open remediation ta
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -126,14 +126,3 @@ As an asset manager or inventory administrator, complete the open remediation ta
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[now-mobile-asset|Now Mobile app]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[cancel-asset-attestation-ham|Cancel an asset attestation]]
-- [[cancel-attestation-schedule-ham|Cancel an attestation schedule]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

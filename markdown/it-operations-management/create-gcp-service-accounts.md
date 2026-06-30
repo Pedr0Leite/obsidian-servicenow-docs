@@ -12,11 +12,11 @@ breadcrumb: [Set up Google Cloud Platform service accounts, Set up a cloud servi
 
 # Create GCP service accounts
 
-Create Google Cloud Platform \(GCP\) service accounts on the ServiceNow AI Platform to access your GCP account during GCP [[r-discovery|discovery]].
+Create Google Cloud Platform \(GCP\) service accounts on the ServiceNow AI Platform to access your GCP account during GCP discovery.
 
 ## Before you begin
 
-Verify that Google API credentials have been created. For more information, see [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]].
+Verify that Google API credentials have been created. For more information, see [Configure the Google API credentials for Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-create-google-api-credentials.md).
 
 Retrieve the **project\_id** value from the JSON key file that is associated with the service account.
 
@@ -46,10 +46,5 @@ Role required: discovery\_admin
 
 Schedule a GCP cloud discovery. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-operations-disco-create-schedule.md).
 
-**Parent Topic:**[[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
+**Parent Topic:**[Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md)
 
-## Related
-
-- [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[r-discovery|Discovery]]

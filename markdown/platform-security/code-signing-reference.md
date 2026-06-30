@@ -14,21 +14,21 @@ breadcrumb: [Code Signing, Platform Security]
 
 Reference topics provide additional information to administer and troubleshoot Code Signing.
 
--   **[[code-sign-properties|Properties installed with Code Signing]]**
+-   **[Properties installed with Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-sign-properties.md)**
 
     Code Signing adds the following properties.
 
--   **[[cs-role-landing|Roles installed with Code Signing]]**
+-   **[Roles installed with Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-role-landing.md)**
 
     Code Signing includes the following roles.
 
--   **[[cs-actions-roles|Code Signing actions and required roles]]**
+-   **[Code Signing actions and required roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-actions-roles.md)**
 
     Maps every Code Signing action to its required roles and instance type.
 
--   **[[cs-logs|Troubleshooting and accessing logs]]**
+-   **[Troubleshooting and accessing logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-logs.md)**
 
-    Access various [[logs|logs]] to troubleshoot and identify the failure reasons.
+    Access various logs to troubleshoot and identify the failure reasons.
 
 
 -   **[Properties installed with Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-sign-properties.md)**  
@@ -40,13 +40,5 @@ Reference table of Code Signing actions, their descriptions, and the roles requi
 -   **[Troubleshooting and accessing logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-logs.md)**  
 Access various logs to troubleshoot and identify the failure reasons.
 
-**Parent Topic:**[[code-signing-landing|Code Signing]]
+**Parent Topic:**[Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
-## Related
-
-- [[code-sign-properties|Properties installed with Code Signing]]
-- [[cs-role-landing|Roles installed with Code Signing]]
-- [[cs-actions-roles|Code Signing actions and required roles]]
-- [[cs-logs|Troubleshooting and accessing logs]]
-- [[code-signing-landing|Code Signing]]
-- [[logs|Logs]]

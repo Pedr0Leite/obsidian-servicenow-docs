@@ -18,7 +18,7 @@ Each time a user accesses a web page using their mobile web browser, the instanc
 
 ## Structural layout of URLs used for mobile universal linking
 
-Supported URLs can comprise of elements like host, path, query keys, and query values. These URLs are created in the universal link path segment table and the universal link supported URL table, as described in [[universal-linking-web-banner|Create path segment records and supported URL records for universal linking]]. You can make your URL as general or specific as you require. A more general the URL definition means that the banner is displayed over a larger number of web pages.
+Supported URLs can comprise of elements like host, path, query keys, and query values. These URLs are created in the universal link path segment table and the universal link supported URL table, as described in [Create path segment records and supported URL records for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-web-banner.md). You can make your URL as general or specific as you require. A more general the URL definition means that the banner is displayed over a larger number of web pages.
 
 **Note:** When creating supported URLs, you must know what path segment, query keys, and query values you want the system to look for.
 
@@ -32,15 +32,8 @@ An example URL structure is `https://<baseURl>/sample_path.do/query_key_01=XYZ/q
 
 -   **[Create path segment records and supported URL records for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-web-banner.md)**  
 Create path segment records and supported URLs records for universal linking to display a mobile banner. Users see this banner when they land on specific platform web pages. Within each supported URL, you define the page where the banner appears, the mobile app and the screen type the user views, and the data displayed within the screen.
--   **[[universal-linking-screen-mapping|Mapping specific mobile screens for universal linking]]**  
-Configure universal links for screen mapping so a user is redirected to a previously styled [[form-screen|record screen]] or [[list-screen|list screen]]. Use this option to provide a customized experience for the user.
+-   **[Mapping specific mobile screens for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-screen-mapping.md)**  
+Configure universal links for screen mapping so a user is redirected to a previously styled record screen or list screen. Use this option to provide a customized experience for the user.
 
-**Parent Topic:**[[universal-links-mobile|Universal linking for mobile]]
+**Parent Topic:**[Universal linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-links-mobile.md)
 
-## Related
-
-- [[universal-linking-web-banner|Create path segment records and supported URL records for universal linking]]
-- [[universal-linking-screen-mapping|Mapping specific mobile screens for universal linking]]
-- [[universal-links-mobile|Universal linking for mobile]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

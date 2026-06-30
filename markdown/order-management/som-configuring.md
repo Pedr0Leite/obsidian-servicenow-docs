@@ -26,7 +26,7 @@ As a user with the admin role, complete the following main configuration tasks t
 
 </td><td>
 
-[Lead and [[opportunity-management|opportunity management]]\[Omitted image "bus-funnel.svg"\] Alt text:Set up tools to capture leads, engage customers, manage opportunities, forecast sales, and define sales territories.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-opportunity-mgt.md)
+[Lead and opportunity management\[Omitted image "bus-funnel.svg"\] Alt text:Set up tools to capture leads, engage customers, manage opportunities, forecast sales, and define sales territories.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-opportunity-mgt.md)
 
 </td></tr><tr><td>
 
@@ -59,46 +59,29 @@ As a user with the admin role, complete the following main configuration tasks t
 
     Review and assign roles to users of the Sales CRM applications that you install.
 
--   [[som-agent-tools|Configuring agent tools in Sales Customer Relationship Management]]
+-   [Configuring agent tools in Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-agent-tools.md)
 
     The applications in Sales Customer Relationship Management share common features and tools for agents, such as location-based transactions.
 
 
--   **[[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]**  
-Learn how to configure [[lead-to-cash-foundation-landing|lead-to-cash foundation]] applications to establish a unified platform for Sales Customer Relationship Management entities such as managing leads, opportunities, quotes, and orders efficiently.
--   **[[configuring-cpq|Configuring the configure, price, quote applications]]**  
-Learn how to configure the [[configure-price-quote-landing|configure, price, quote]] applications to streamline complex product, pricing, and quote-to-contract workflows.
--   **[[configuring-lead-opportunity-mgt|Configuring the lead and opportunity management applications]]**  
-Learn how to install and configure the [[lead-opportunity-landing|lead and opportunity management]] applications to support pre-sales workflows.
--   **[[order-mgt-configuring|Configuring Order Management]]**  
+-   **[Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md)**  
+Learn how to configure lead-to-cash foundation applications to establish a unified platform for Sales Customer Relationship Management entities such as managing leads, opportunities, quotes, and orders efficiently.
+-   **[Configuring the configure, price, quote applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-cpq.md)**  
+Learn how to configure the configure, price, quote applications to streamline complex product, pricing, and quote-to-contract workflows.
+-   **[Configuring the lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-opportunity-mgt.md)**  
+Learn how to install and configure the lead and opportunity management applications to support pre-sales workflows.
+-   **[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)**  
 Learn how to configure the features and components that you need for customer and service order processing, depending on whether you are a provider or an enterprise customer.
--   **[[configuring-order-operations|Configuring the order operations applications]]**  
-Learn how to configure the [[order-operations-landing|order operations]] applications to help sales and support teams to monitor the sales processes, and manage post-sale support and returns respectively.
--   **[[configuring-post-sales-engagement|Post-sales engagement]]**  
+-   **[Configuring the order operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-order-operations.md)**  
+Learn how to configure the order operations applications to help sales and support teams to monitor the sales processes, and manage post-sale support and returns respectively.
+-   **[Post-sales engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-post-sales-engagement.md)**  
 Learn how to configure the Customer Life Cycle Management Workflows application to manage post-sale workflows on sold products.
--   **[[configure-partner-relationship-management|Configure Partner Relationship Management]]**  
+-   **[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)**  
 Install the PRM \(com.snc.partner\_relationship\_management\) application from ServiceNow® Store to enable enterprises to hire partners and improve their sales cycles.
--   **[[order-management-configure-business-portal|Configuring the Business Portal]]**  
+-   **[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)**  
 Enable B2B customers to self-serve key processes such as order creation, order case management, invoice management, request for quote \(RFQ\) creation by configuring the Business Portal \(sn\_b2b\_portal\).
 -   **[Configuring agent tools in Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-agent-tools.md)**  
 The applications in Sales Customer Relationship Management share common features and tools for agents.
 
-**Parent Topic:**[[order-mgt-overview|Sales Customer Relationship Management]]
+**Parent Topic:**[Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-overview.md)
 
-## Related
-
-- [[som-agent-tools|Configuring agent tools in Sales Customer Relationship Management]]
-- [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
-- [[configuring-cpq|Configuring the configure, price, quote applications]]
-- [[configuring-lead-opportunity-mgt|Configuring the lead and opportunity management applications]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[configuring-order-operations|Configuring the order operations applications]]
-- [[configuring-post-sales-engagement|Post-sales engagement]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
-- [[configure-price-quote-landing|Configure, price, quote]]
-- [[lead-opportunity-landing|Lead and opportunity management]]
-- [[order-operations-landing|Order operations]]

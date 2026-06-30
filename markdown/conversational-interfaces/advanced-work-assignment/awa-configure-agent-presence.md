@@ -28,7 +28,7 @@ The default presence states are Available, Away, and Offline. For the Available 
 
 1.  Navigate to the presence states settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Additional settings section, select **Set up presence states**.
 
@@ -61,7 +61,7 @@ Active
 
 </td><td>
 
-Enables this presence state for agents.**Note:** For the default Available state, be sure to enable this **Active** check box so that [[awa-work-items|work items]] are routed to available agents. If the **Active** state is not enabled, AWA does not route work items to agents.
+Enables this presence state for agents.**Note:** For the default Available state, be sure to enable this **Active** check box so that work items are routed to available agents. If the **Active** state is not enabled, AWA does not route work items to agents.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Indicates that agents can handle work items in this presence state. If the prese
 
 </td></tr><tr><td>
 
-[[awa-service-channels|Service channels]]
+Service channels
 
 </td><td>
 
@@ -140,8 +140,4 @@ Selected groups that can use this presence state. To select a group, move the gr
 
     The presence state is added to or updated in the Presence States \[awa\_presence\_state\] table. The presence state is also listed in the Availability section of the Agent Workspace Inbox for the agents belonging to the groups and channels that use this state.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-service-channels|Service channels]]

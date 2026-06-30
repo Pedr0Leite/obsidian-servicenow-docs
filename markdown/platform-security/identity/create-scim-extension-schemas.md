@@ -20,7 +20,7 @@ Create custom attributes to map to fields that are not mapped as part of either 
 
 Role required: scim\_config\_admin
 
-**Warning:** Grant this role carefully. The scim\_config\_admin role is equivalent to giving the user the admin role, where the scim\_config\_admin role can insert new records into the tables that can bypass [[sc-business-logic|business logic]] or ACL protection.
+**Warning:** Grant this role carefully. The scim\_config\_admin role is equivalent to giving the user the admin role, where the scim\_config\_admin role can insert new records into the tables that can bypass business logic or ACL protection.
 
 ## Procedure
 
@@ -94,6 +94,3 @@ Details within the JSON schemas. For more information about defining the extensi
 
 The extension schema with custom attributes related to User or Group resource type is created. Use the SCIM ETL Definitions to map the resources based on the extension schema on the sys\_user and sys\_user\_group table. For more information, see [Create a SCIM ETL definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-etl-definitions.md).
 
-## Related
-
-- [[sc-business-logic|Business Logic]]

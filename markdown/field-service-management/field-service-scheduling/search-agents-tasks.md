@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Search for appropriate Field Service agents
 
-Search for agents with specific attributes in [[dispatcher-activities|Dispatcher Workspace]] so you can make appropriate assignments.
+Search for agents with specific attributes in Dispatcher Workspace so you can make appropriate assignments.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ Field service agents are listed based on the filter criteria. If agents aren’t
 
 [Assign work order tasks to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-work-order-tasks-dw.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

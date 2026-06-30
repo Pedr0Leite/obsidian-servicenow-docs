@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service
 
-Schedule Management schedule management is a standalone capability within [[configurable-wfo-cs|Workforce Optimization for Customer Service]] that allows supervisors and managers to create, view, and manage team schedules independently of other WFO modules.
+Schedule Management schedule management is a standalone capability within Workforce Optimization for Customer Service that allows supervisors and managers to create, view, and manage team schedules independently of other WFO modules.
 
 Roles: sn\_shift\_planning.admin, sn\_shift\_planning.manager.
 
@@ -27,7 +27,7 @@ Schedule Management schedule management provides the following capabilities:
 -   Review and approve shift swap requests between agents.
 -   Manage time off requests and reflect approved leave in the team calendar.
 -   Monitor schedule adherence and conformance using built-in visualizations.
--   Access scheduling functionality directly from the [[csm-workspaces-configure|CSM Configurable Workspace]] or CSM Agent Workspace.
+-   Access scheduling functionality directly from the CSM Configurable Workspace or CSM Agent Workspace.
 
 ## Schedule management module
 
@@ -59,7 +59,7 @@ Shifts
 
 </td><td>
 
--   [[migration-lists|Lists]] all defined time periods, including shifts, on-call rotations and holiday spans.
+-   Lists all defined time periods, including shifts, on-call rotations and holiday spans.
 -   Displays name, start time, end time, and assignment group.
 
 </td></tr><tr><td>
@@ -109,27 +109,17 @@ The following roles are available:
 
 **Note:** If you have the sn\_csm\_wfo\_workspa.admin or sn\_csm\_wfo\_workspa.manager role, you can automatically inherit the corresponding sn\_shift\_planning role.
 
--   **[[schedule-management-as-a-standalone-activation|Schedule Management standalone activation]]**  
+-   **[Schedule Management standalone activation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/schedule-management-as-a-standalone-activation.md)**  
 Schedule Management as a standalone plugin supports to manage agent schedules, team calendars, shift swaps, time off, and adherence, with access from supported CSM workspaces without requiring the full WFO suite.
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[explore-channels-configurable-wfo-cs|Channel Management in Workforce Optimization for Customer Service]]
+[Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explore-channels-configurable-wfo-cs.md)
 
-[[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
+[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-channels-wfo-cs.md)
 
-[[decouple-channel-management-dependencies-from-wfo|Decouple Channel Management dependencies from WFO]]
+[Decouple Channel Management dependencies from WFO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decouple-channel-management-dependencies-from-wfo.md)
 
-## Related
-
-- [[schedule-management-as-a-standalone-activation|Schedule Management standalone activation]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[explore-channels-configurable-wfo-cs|Channel Management in Workforce Optimization for Customer Service]]
-- [[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
-- [[decouple-channel-management-dependencies-from-wfo|Decouple Channel Management dependencies from WFO]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

@@ -18,12 +18,8 @@ Use the following steps to configure the ServiceNow mobile app for iOS and Andro
 
 You should have a Jamf Pro license for your ServiceNow mobile app before you attempt the following configuration.
 
--   **[[configure-mobile-app-jamf-pro|Configure the ServiceNow mobile app for Jamf Pro]]**  
+-   **[Configure the ServiceNow mobile app for Jamf Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-app-jamf-pro.md)**  
 Use app configuration to pre-configure the instance URL in Jamf Pro.
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[configure-mobile-app-jamf-pro|Configure the ServiceNow mobile app for Jamf Pro]]
-- [[mobile-vendors|Supported mobile device management vendors]]

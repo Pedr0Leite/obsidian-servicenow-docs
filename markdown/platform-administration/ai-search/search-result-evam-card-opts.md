@@ -14,7 +14,7 @@ breadcrumb: [Configure EVAM display settings for search results, Configuring AI 
 
 # List of Search Result EVAM card properties
 
-You can customize the appearance of standard search [[hs-results|results]] in your [[ia-ai-search|AI Search]] application by changing these properties in the application's Search Result EVAM \(Entity View Action Mapping\) cards.
+You can customize the appearance of standard search results in your AI Search application by changing these properties in the application's Search Result EVAM \(Entity View Action Mapping\) cards.
 
 To learn about configuring properties for Search Result EVAM cards, see [Configure EVAM display settings for search results in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-search-result-card-opts.md).
 
@@ -164,7 +164,7 @@ Defines the icon you want to show on the Search Result card when **imageType** i
 
 **Note:** To specify literal text for this property, include the property in the `staticValues` object and specify the text as its `key` value. To populate this property with the current search result's value from an AI Search indexed field, include the property in the `mappings` object with the field name as its value. For a list of AI Search indexed field names, see [AI Search index fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-fields-list-ais.md).
 
- For the set of available icon names, see the [Icon Gallery](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/now-components/now-icon/gallery) in the Next Experience [[reference-email-admin|reference]] section on the ServiceNow® Developer Site.
+ For the set of available icon names, see the [Icon Gallery](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/now-components/now-icon/gallery) in the Next Experience reference section on the ServiceNow® Developer Site.
 
 </td></tr><tr><td>
 
@@ -284,8 +284,3 @@ Option to use Document Viewer to display grouped attachments shown on the Search
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure EVAM display settings for search results in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-search-result-card-opts.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]

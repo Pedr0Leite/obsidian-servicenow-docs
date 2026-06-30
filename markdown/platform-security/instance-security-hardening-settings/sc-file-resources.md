@@ -19,12 +19,12 @@ The file and resources category ensures applications handle untrusted file data 
 This includes controls such as avoiding denial of service through large or unexpected file types, validating file type and preventing against path traversal.
 
 -   **[Disallow infected file download](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disallow-infected-files-download.md)**  
-Control whether [[users|users]] can download non-scanned attachments if the [[antivirus|antivirus]] service is down or unreachable.
+Control whether users can download non-scanned attachments if the antivirus service is down or unreachable.
 -   **[Enable email spam scoring and filtering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-email-spam-scoring-and-filtering.md)**  
-Install the [[email|Email]] Filter \(**com.glide.email\_filter**\) plugin to install email filtering within the instance. This filtering identifies existing headers, which enables you to decide what to do with the email based on the associated header. Alternatively, set **com.glide.email\_filter** to false.
+Install the Email Filter \(**com.glide.email\_filter**\) plugin to install email filtering within the instance. This filtering identifies existing headers, which enables you to decide what to do with the email based on the associated header. Alternatively, set **com.glide.email\_filter** to false.
 -   **[Enable antivirus scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-antivirus-scan.md)**  
 The **com.glide.snap.enable\_scan** property activates the antivirus scan functionality.
--   **[Restrict downloadable files types in static content \[Updated in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-files-types-download-restrictions-from-static-content.md)**  
+-   **[Restrict downloadable files types in static content \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-files-types-download-restrictions-from-static-content.md)**  
 Use the **glide.ui.strict\_customer\_uploaded\_static\_content** property to enable restrictions on the file types that can be downloaded when they have been uploaded using the Upload File functionality.
 -   **[Limit attachment size in training and prediction flows for GraphQL endpoints \[New in Security Center 1.3 and updated in 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-attachment-size-in-training-and-prediction-flows-for-graphql-enpoints-plugin-applicability-platform-document-intelligence.md)**  
 The **glide.platform\_ml\_di.max\_attachment\_size\_graphql** property controls the maximum allowed size limit for returning attachments in GraphQL endpoints of training or prediction flows.
@@ -43,9 +43,3 @@ Use a system property to validate attachments uploaded from inbound emails.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[users|Users]]
-- [[antivirus|Antivirus]]
-- [[email|Email]]
-- [[sec-center-v2|Security Center]]

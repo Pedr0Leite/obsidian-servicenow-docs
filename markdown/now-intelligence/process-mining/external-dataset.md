@@ -14,13 +14,13 @@ breadcrumb: [Use, Process Mining, Platform Analytics]
 
 # Working with external datasets
 
-Use the data available outside of ServiceNow® environment in [[process-mining|Process Mining]] to optimize your processes and solve business problems. To use external datasets, you must first import them into ServiceNow® environment.
+Use the data available outside of ServiceNow® environment in Process Mining to optimize your processes and solve business problems. To use external datasets, you must first import them into ServiceNow® environment.
 
 **Note:** For Process Mining for External Data subscription, please contact your account team. You can request for the purchase of this feature from ServiceNow® Store.For more information, see [Request Process Mining for external data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/access-ext-data.md).
 
 Importing external datasets into ServiceNow® environment lets you use Process Mining on any data without thinking about its source, thus making your life easy.
 
-To import external datasets into ServiceNow® and [[create-project|create a project]] with it and mine it, you must do the following steps:
+To import external datasets into ServiceNow® and create a project with it and mine it, you must do the following steps:
 
 -   [Create an audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-table.md)
 -   [Import external data into the audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-data.md)
@@ -31,7 +31,7 @@ To import external datasets into ServiceNow® and [[create-project|create a proj
 \[Omitted image "ext-dataset-arch.png"\] Alt text: External dataset architecture
 
 -   **[Create an audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-table.md)**  
-[[create-table|Create an audit table]] to store data. Audit table is a staging table that is created with the required columns to populate the external data.
+Create an audit table to store data. Audit table is a staging table that is created with the required columns to populate the external data.
 -   **[Add custom fields to the audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/add-custom-field.md)**  
 The custom fields form as breakdown filters when viewing the process graph. Without custom fields, there won't be any breakdown filters.
 -   **[Import data into the audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-data.md)**  
@@ -39,7 +39,7 @@ Import external dataset into the audit table to start working with the data in P
 -   **[Verify the imported data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/verify-data.md)**  
 Verify the data that was imported and validate that the data is accurate. The success of your data mining depends on the accuracy of your imported data.
 -   **[Create case records for the imported data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-case-record.md)**  
-[[create-case-record|Create case records for the imported data]] as it is important for creating a project and mining it. Without a record table, a project can’t be created.
+Create case records for the imported data as it is important for creating a project and mining it. Without a record table, a project can’t be created.
 -   **[Create a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-project.md)**  
 Create a project with the imported external data. You must mine the project to analyze your data and improve your processes.
 -   **[Managing an audit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/managing-audit-table.md)**  
@@ -47,9 +47,3 @@ After the audit and record tables are created with the imported data, you can us
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[create-project|Create a project]]
-- [[create-table|Create an audit table]]
-- [[create-case-record|Create case records for the imported data]]

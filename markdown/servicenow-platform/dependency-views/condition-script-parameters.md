@@ -24,10 +24,10 @@ The **Condition** field contains a boolean expression that evaluates to true or 
 
 |Text|Description|
 |----|-----------|
-|item|Node or [[reference|reference]] link's data on which you performed the right-click action.|
+|item|Node or reference link's data on which you performed the right-click action.|
 |item.label|Label of the node.|
 |item.ci\_type|CI's type \(table\), such as `cmdb_ci_service`.|
-|item.name|Name of CIs. CI's type name or the table [[label|label]].|
+|item.name|Name of CIs. CI's type name or the table label.|
 |item.location|Location of the CI, such as New York.|
 |item.manufacturer\_name|Name of the CI’s manufacturer, such as Dell Inc.|
 |item.id|The sys\_id of the CI.|
@@ -71,12 +71,7 @@ Menu action scripts are executed on the client when a user clicks the menu optio
 
 [Create or modify Map Related Items]()
 
-[Create or modify [[c_BusinesssServiceManagementMaps|Dependency Views]] menu actions]()
+[Create or modify Dependency Views menu actions]()
 
 [Create or edit a dependency type]()
 
-## Related
-
-- [[reference|Reference]]
-- [[label|Label]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

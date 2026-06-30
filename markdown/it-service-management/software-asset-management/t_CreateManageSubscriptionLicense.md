@@ -14,7 +14,7 @@ breadcrumb: [Software licenses in the legacy Software Asset Management plugin, L
 
 # Create and manage a subscription license using the legacy Software Asset Management plugin
 
-Use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to create subscription licenses and manage the information as it changes.
+Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to create subscription licenses and manage the information as it changes.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: contract\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **Software Licenses** and click **New**.
+1.  Navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Software Licenses** and click **New**.
 
 2.  Select **Subscription** from the **Agreement type** list.
 
@@ -51,7 +51,3 @@ Role required: contract\_manager
 
 **Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Contracts|Contracts]]

@@ -18,7 +18,7 @@ Install Retail Strategic Portfolio Management Suite from the ServiceNow to add r
 ## Before you begin
 
 -   Install Enterprise-Wide Deployment app \(sn\_spm\_ewd\) from the ServiceNow® Store.
--   [[install-project-workspace|Install Project Workspace]] app \(sn\_pw\) from the ServiceNow® Store.
+-   Install Project Workspace app \(sn\_pw\) from the ServiceNow® Store.
 -   Install Business Location app \(app-business-location\) from the ServiceNow® Store.
 -   Install Customer Service app \(app-csm-ppm\) from the ServiceNow® Store.
 -   Role required: admin
@@ -27,7 +27,7 @@ Install Retail Strategic Portfolio Management Suite from the ServiceNow to add r
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]] application using the filter criteria and search bar.
+2.  Find the Retail Strategic Portfolio Management Suite application using the filter criteria and search bar.
 
     Alternatively, you can:
 
@@ -43,7 +43,4 @@ Install Retail Strategic Portfolio Management Suite from the ServiceNow to add r
 
 5.  Select **Install**.
 
-## Related
 
-- [[install-project-workspace|install project workspace]]
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]

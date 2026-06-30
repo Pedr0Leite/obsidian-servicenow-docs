@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Platform Analytics migration tables
 
-The following tables are used in the process of migrating to [[c_performanceAnalyticsAndReporting|Platform Analytics]]. Each row of the bridging tables states the migration type: bulk, owner, list, or upgrade.
+The following tables are used in the process of migrating to Platform Analytics. Each row of the bridging tables states the migration type: bulk, owner, list, or upgrade.
 
 <table id="table_zw4_rrb_m2c"><thead><tr><th>
 
@@ -28,7 +28,7 @@ par\_coreui\_migration\_bridge\_component
 
 </td><td>
 
-Lists reports, PA [[widgets|widgets]], and filters that have been migrated outside of a dashboard.-   Bulk indicates a migration from the Migration Center.
+Lists reports, PA widgets, and filters that have been migrated outside of a dashboard.-   Bulk indicates a migration from the Migration Center.
 -   List and Owner indicate partial migrations.
 -   Upgrade indicates a dashboard supported in a bulk migration in the context of an upgrade.
 
@@ -58,8 +58,3 @@ Lists the elements of a dashboard that have been migrated.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

@@ -14,11 +14,11 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 # Enforce OCSP check on network error
 
-Learn how to configure the **com.glide.[[sc-communications|communications]].httpclient.ocsp\_allow\_network\_error** property to prevent bad actors from bypassing Online Certificate Status Protocol \(OCSP\) checks.
+Learn how to configure the **com.glide.communications.httpclient.ocsp\_allow\_network\_error** property to prevent bad actors from bypassing Online Certificate Status Protocol \(OCSP\) checks.
 
 If the **com.glide.communications.httpclient.ocsp\_allow\_network\_error** system property is not explicitly set to the recommended value of **false**, and the OCSP \(Online Certificate Status Protocol\) check encounters a network-related issue, such as a timeout or failure to retrieve revocation data, the system will treat the OCSP validation as successful by default.
 
-Ensure the property **com.glide.communications.httpclient.ocsp\_allow\_network\_error** exists and is set to false. If the property does not appear in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, add a new record.
+Ensure the property **com.glide.communications.httpclient.ocsp\_allow\_network\_error** exists and is set to false. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 5.9
 -   CVSS score: Medium
--   Security risk details: An attacker using a revoked certificate could exploit this by simply omitting the OCSP response during a connection attempt. In such cases, the client would incorrectly accept the revoked certificate as valid, thereby undermining the integrity of the Public Key Infrastructure \(PKI\) and the trust model that underpins secure web communications. The use of revoked [[c_Certificates|certificates]] is often indicative of malicious activity, unless attributable to temporary synchronization issues between certificate authorities and OCSP responders.
+-   Security risk details: An attacker using a revoked certificate could exploit this by simply omitting the OCSP response during a connection attempt. In such cases, the client would incorrectly accept the revoked certificate as valid, thereby undermining the integrity of the Public Key Infrastructure \(PKI\) and the trust model that underpins secure web communications. The use of revoked certificates is often indicative of malicious activity, unless attributable to temporary synchronization issues between certificate authorities and OCSP responders.
 
 </td></tr><tr><td>
 
@@ -110,15 +110,8 @@ Functional impact
 
 </td><td>
 
-This property determines whether a [[c_requestAPI|request]] against the Authority Information Access \(AIA\) Online Certificate Status Protocol \(OCSP\) uri results in a pass or fail outcome in the event of a connection or timeout error. When set to false, the revocation status of the presented server certificate can't be validated and will lead to a communication failure with that endpoint. If a network error occurs when the property is set to its default value of true, the certificate is treated as valid from a revocation standpoint.
+This property determines whether a request against the Authority Information Access \(AIA\) Online Certificate Status Protocol \(OCSP\) uri results in a pass or fail outcome in the event of a connection or timeout error. When set to false, the revocation status of the presented server certificate can't be validated and will lead to a communication failure with that endpoint. If a network error occurs when the property is set to its default value of true, the certificate is treated as valid from a revocation standpoint.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_Certificates|Certificates]]
-- [[c_requestAPI|request]]

@@ -57,7 +57,7 @@ Role required: admin
 
 5.  Add triggers.
 
-    You can add triggers if you want an agentic workflow or AI agent to launch according to pre-defined [[gamification-components-rules|rules]], and you want to spare your users the effort of reaching out for help, add a trigger.
+    You can add triggers if you want an agentic workflow or AI agent to launch according to pre-defined rules, and you want to spare your users the effort of reaching out for help, add a trigger.
 
     If you do not add triggers, the workflow executes only in response to users' requests for help.
 
@@ -70,6 +70,4 @@ Role required: admin
     -   Engage via UI actions on specific records: When users select a UI action displayed on certain records, this workflow is activated.
 7.  Select **Save and test**.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

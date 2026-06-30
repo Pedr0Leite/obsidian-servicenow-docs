@@ -16,7 +16,7 @@ breadcrumb: [Service catalog setup, Configuring Service Catalog, Service Catalog
 
 Administrators and catalog administrators must consider these points before they upgrade to multiple service catalogs.
 
-Before upgrading, be aware of changes made to the underlying [[service-catalog|Service Catalog]] data model. These changes are made to implement multiple catalogs and do not affect a standard upgrade. However, if you have made customizations, such as changes to the data model, the changes can impact the instance.
+Before upgrading, be aware of changes made to the underlying Service Catalog data model. These changes are made to implement multiple catalogs and do not affect a standard upgrade. However, if you have made customizations, such as changes to the data model, the changes can impact the instance.
 
 The following tables are provided with [multiple service catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MultipleServiceCatalogs.md):
 
@@ -43,6 +43,3 @@ Several [service catalog system properties](https://raw.githubusercontent.com/Se
 |glide.sc.search.cms\_page|CMS search page \[cms\_search\]|
 |glide.sc.continue.shopping.target|CMS 'Continue Shopping' page \[cms\_continue\_shopping\]|
 
-## Related
-
-- [[service-catalog|Service Catalog]]

@@ -14,7 +14,7 @@ breadcrumb: [Install Universal Task, Setting up and configuring Universal Task, 
 
 # Components installed with Universal Task
 
-Several types of components are installed with activation of the [[universal-task-landing|Universal Task]] application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Universal Task application, including tables, user roles, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -72,11 +72,11 @@ Serves as the base table for the configuration tables for all task types.
 
 </td></tr><tr><td>
 
-[[ut-emp-form|Employee Form]] \[sn\_uni\_task\_employee\_form\]
+Employee Form \[sn\_uni\_task\_employee\_form\]
 
 </td><td>
 
-Stores the employee form records that were created for the [[employee-form-configuration|Collect employee input]] task type.
+Stores the employee form records that were created for the Collect employee input task type.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Universal Task Template \[sn\_uni\_task\_template\]
 
 </td><td>
 
-Stores the [[ut-task-template-landing|universal task templates]] with predefined field values that can be applied on Universal Task forms.
+Stores the universal task templates with predefined field values that can be applied on Universal Task forms.
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ Stores the dynamic template mappings between Universal Task fields and parent ta
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/install-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[ut-emp-form|Employee form]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-task-template-landing|Universal Task templates]]

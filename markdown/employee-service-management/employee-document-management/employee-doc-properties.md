@@ -14,7 +14,7 @@ breadcrumb: [Reference, Employee Document Management, HR Documents, HR Service D
 
 # Properties for Employee Document Management application
 
-Activating the [[hr-employee-doc-management|Employee Document Management]] \[com.sn\_employee\_document\_management\] plugin adds the following properties.
+Activating the Employee Document Management \[com.sn\_employee\_document\_management\] plugin adds the following properties.
 
 Properties control the behavior of the Employee Document Management application.
 
@@ -118,6 +118,3 @@ If you checked **Yes** for the **Enable purge logs to log the files deleted duri
 
 [Components installed with Employee Document Management]()
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

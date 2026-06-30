@@ -14,7 +14,7 @@ breadcrumb: [Project export to Microsoft Project, Importing and exporting projec
 
 # Export project data
 
-Export the project data using the Export module, [[create-a-project-form|Project form]], or Planning Console. Save the export file to a folder on your system in the Microsoft Project \(MPP\), XML, or CSV format.
+Export the project data using the Export module, Project form, or Planning Console. Save the export file to a folder on your system in the Microsoft Project \(MPP\), XML, or CSV format.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-Projects must use either the [[c_ProjectApplicationOverview|Project Management]] Schedule or the Default MS Project schedule before they can be exported.
+Projects must use either the Project Management Schedule or the Default MS Project schedule before they can be exported.
 
 The option for exporting the project data in MPP and CSV format is available when exporting a project from the Planning Console. Only the columns which are visible in the Planning Console are exported.
 
@@ -97,7 +97,3 @@ The task being exported must be associated with a project that uses either the P
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[c_ProjectApplicationOverview|Project Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace
 
-You can view the latest KPI data that is collected for a particular [[supplier|supplier]] from the supplier page of the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can view the latest KPI data that is collected for a particular supplier from the supplier page of the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick actions**, select **Manage my suppliers**.
 
@@ -43,7 +43,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 -   You can add new KPIs or remove existing KPIs for the selected supplier from the **KPI management** view.
 -   You can generate comprehensive performance summary including overall performance scores, trends, and action items by using supplier performance summarization.
 
-    **Note:** This functionality is available with the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application.
+    **Note:** This functionality is available with the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 
 **Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md)
@@ -67,9 +67,3 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 [Create action plan for KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]

@@ -29,8 +29,5 @@ See [Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/austral
 
 Notify is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[[now-platform-capabilities-rn-landing|ServiceNow AI Platform capabilities release notes]]
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-capabilities-rn-landing.md)
 
-## Related
-
-- [[now-platform-capabilities-rn-landing|ServiceNow AI Platform capabilities release notes]]

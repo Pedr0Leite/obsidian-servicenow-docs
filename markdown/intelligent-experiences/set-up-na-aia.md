@@ -27,13 +27,13 @@ Role required: sn\_aia\_admin
     -   Recommended: Yokohama Patch 8 or Zurich Patch 4
 -   **Required plugins and store Apps**
 
-    -   [[na-ai-agents|Now Assist AI agents]] store app \(version 6.0.17 or later as of December 2025\)
-    -   At least one [[platform-now-assist-landing|Now Assist]] workflow plugin:
+    -   Now Assist AI agents store app \(version 6.0.17 or later as of December 2025\)
+    -   At least one Now Assist workflow plugin:
         -   Now Assist for ITSM
         -   Now Assist for HRSD
         -   Now Assist for CSM
         -   Now Assist for Security Operations
-    -   [[generative-ai-controller|Generative AI Controller]] plugin \(minimum version 11.0.0\)
+    -   Generative AI Controller plugin \(minimum version 11.0.0\)
     **Note:** Select **Load demo data** during installation to access preconfigured examples.
 
 -   **Licensing Requirements**
@@ -41,7 +41,7 @@ Role required: sn\_aia\_admin
     Now Assist Pro Plus or Enterprise entitlement
 
 -   **Required User Roles**
-    -   sn\_aia.admin - Provides access to [[ai-agent-studio|AI Agent Studio]]
+    -   sn\_aia.admin - Provides access to AI Agent Studio
     -   sn\_nowassist\_admin.nsa\_admin - Enables Now Assist administration
 
 ## Procedure
@@ -50,7 +50,7 @@ Role required: sn\_aia\_admin
 
     1.  Navigate to **AI Search** &gt; **AI Search Status**.
     2.  Verify that AI Search is enabled.
-2.  Enable [[now-assist-center-now-assist-panel|Now Assist panel]].
+2.  Enable Now Assist panel.
 
     1.  Navigate to **Now Assist admin** &gt; **Experiences**.
     2.  Turn on the **Panel** option.
@@ -78,7 +78,7 @@ Role required: sn\_aia\_admin
 
     If using external LLM providers instead of the default OpenAI GPT-4.1:
 
-    1.  Navigate to **Now Assist admin Console** &gt; **Settings** &gt; **[[manage-integration|Manage Integration]]**.
+    1.  Navigate to **Now Assist admin Console** &gt; **Settings** &gt; **Manage Integration**.
     2.  Configure API credentials for your chosen LLM provider.
     **Note:** The default Orchestration layer uses OpenAI GPT-4.1 5.4 on ServiceNow-managed Azure servers.
 
@@ -88,11 +88,3 @@ Role required: sn\_aia\_admin
     2.  Verify that the orchestrator canvas displays agent execution properly.
     3.  Review AI agent decision logs to confirm interactions and thought processes are recorded.
 
-## Related
-
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[manage-integration|Manage Integration]]

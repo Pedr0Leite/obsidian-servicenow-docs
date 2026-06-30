@@ -12,13 +12,13 @@ breadcrumb: [Reference, Care Team Work Management, Healthcare Operations, Health
 
 # Tables installed with Care Team Work Management
 
-The following tables are installed with [[ctwm-landing|Care Team Work Management]].
+The following tables are installed with Care Team Work Management.
 
 ## Care Team Case
 
 The Care Team Case \[sn\_cto\_case\] table generates cases pertaining to care team internal operations at the unit level.
 
-It extends the [[healthcare-operations-overview|Healthcare Operations]] case \[sn\_hco\_case\].
+It extends the Healthcare Operations case \[sn\_hco\_case\].
 
 For information on the Healthcare Operations case, see [Healthcare Operations Case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-hco-case.md).
 
@@ -518,7 +518,3 @@ Requires the Healthcare orchestration plugin.
 |Number|String|Task number.|
 |Due date|Date time|Due date for this task.|
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

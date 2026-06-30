@@ -86,7 +86,7 @@ GRC: Create risk assessment scope
 
 </td><td>
 
-Creates different types of [[factors|factors]] like manual factors, query factors, and automated scripted factor. It creates a Risk Assessment Methodology and associates the factors to the different assessment types in the Risk Assessment Methodology. It creates the Risk Assessment scope for the Risk Assessment Methodology. that has been set up.**Note:** While running ATF Tests, it is recommended to increase the test runner timeout from 120 seconds to approximately 240 seconds in the Test Runner Properties.
+Creates different types of factors like manual factors, query factors, and automated scripted factor. It creates a Risk Assessment Methodology and associates the factors to the different assessment types in the Risk Assessment Methodology. It creates the Risk Assessment scope for the Risk Assessment Methodology. that has been set up.**Note:** While running ATF Tests, it is recommended to increase the test runner timeout from 120 seconds to approximately 240 seconds in the Test Runner Properties.
 
 </td><td>
 
@@ -97,6 +97,3 @@ Orlando
 
 **Parent Topic:**[Risk Management detailed setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/setup-risk-management.md)
 
-## Related
-
-- [[factors|factors]]

@@ -53,7 +53,7 @@ Role required: sp\_admin
     }]
     ```
 
-    For more information about the parameters, see [[portal-footer-widget-json|Portal Footer widget JSON parameters]].
+    For more information about the parameters, see [Portal Footer widget JSON parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/portal-footer-widget-json.md).
 
 5.  Select a theme for your portal.
 
@@ -86,6 +86,3 @@ Configure links to appear in the Portal Footer widget:
 -   To add the social media accounts of your organization, see [Configure social media links in the Portal Polaris Footer widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/portal-footer-widget-social-links.md)
 -   To include a link to a site on a portal page, see [Add related links in the Portal Polaris Footer widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/portal-footer-widget-conf-footer-links.md).
 
-## Related
-
-- [[portal-footer-widget-json|Portal Footer widget JSON parameters]]

@@ -44,7 +44,7 @@ Feature launch message
 
 </td><td>
 
-Text for the [[r_CustomerServiceCaseForm|Case form]] launcher widget in the messenger. For example, if a user provides feedback to a knowledge article that it wasn't helpful, the messenger displays a widget to create a case. Clicking this widget launches a case form for the user to fill and submit.
+Text for the Case form launcher widget in the messenger. For example, if a user provides feedback to a knowledge article that it wasn't helpful, the messenger displays a widget to create a case. Clicking this widget launches a case form for the user to fill and submit.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,3 @@ Description for the Case form launcher widget in the messenger.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

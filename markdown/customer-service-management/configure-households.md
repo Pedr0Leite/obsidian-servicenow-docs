@@ -22,9 +22,9 @@ With the household entity, you can:
 
 -   Create households and add consumers as household members.
 -   Create cases for households and household members.
--   [[configure-data-model-relationships|Create relationships]] between household members. These relationships authorize one household member to [[manage-cases|manage cases]] on behalf of another member.
+-   Create relationships between household members. These relationships authorize one household member to manage cases on behalf of another member.
 -   Create relationships between staff members and households or household members that enable the staff members to manage cases for those households and members.
--   Track information for the households, including [[sold-product|sold products]], contracts, and entitlements.
+-   Track information for the households, including sold products, contracts, and entitlements.
 
 ## Head of household
 
@@ -33,7 +33,7 @@ A household can have one member designated as the head of the household. A consu
 The head of household has access to all the cases and information for the household and the other household members. The head of household can also see:
 
 -   The sold products for the household.
--   The sold products and [[install-base-item|install base items]] for household members.
+-   The sold products and install base items for household members.
 
 ## Household information
 
@@ -46,7 +46,7 @@ Membership in a household is defined by the **Start Date** and **End Date** on t
 
 Only one record with current membership dates is enabled for each consumer in a household. A consumer can leave and rejoin a household multiple times. This information is recorded using the start and end dates.
 
-As members are added or removed from a household, the member history is retained. You can find this information in the following related [[migration-lists|lists]] on the [[data-model-household-form|Household form]].
+As members are added or removed from a household, the member history is retained. You can find this information in the following related lists on the Household form.
 
 -   **Current Members**: The consumers currently in the household.
 -   **All Members**: The current and past members of a household. This list provides a history of the household. Members can appear multiple times in this list.
@@ -70,11 +70,3 @@ The following types of relationships can be created for consumers.
 -   **Consumer Relationships**: Relationships that have been established between two consumers, regardless of household. These relationships are created using the Authorized Representative responsibility. Consumers that have an Authorized Representative relationship with another consumer can manage cases for that consumer.
 -   **Consumer Team**: Relationships that have been established between an agent and a consumer. These relationships are created using the Relationship Manager responsibility. Agents with a Relationship Manager role for a consumer can access all cases linked to that consumer.
 
-## Related
-
-- [[configure-data-model-relationships|Create relationships]]
-- [[manage-cases|Manage cases]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]
-- [[data-model-household-form|Household form]]

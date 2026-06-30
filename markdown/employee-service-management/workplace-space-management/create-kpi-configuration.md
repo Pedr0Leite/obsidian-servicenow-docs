@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Space Management, Workplace Service Delivery, Emp
 
 # Create a KPI Configuration
 
-Create a key performance indicator \(KPI\) that aggregates values from the Space table for use in the [[space-planning|Space Planning]] module.
+Create a key performance indicator \(KPI\) that aggregates values from the Space table for use in the Space Planning module.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_wsd\_spcmgmt.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-space-mgmt-ovw|Workplace Space Management]]** &gt; **Administration** &gt; **KPI Configuration**.
+1.  Navigate to **All** &gt; **Workplace Space Management** &gt; **Administration** &gt; **KPI Configuration**.
 
 2.  On the KPI Configurations list, select **New**.
 
-3.  On the [[kpi-configuration-form|KPI Configuration form]], fill in the fields.
+3.  On the KPI Configuration form, fill in the fields.
 
     For a description of the field values, see [KPI Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/kpi-configuration-form.md).
 
@@ -72,15 +72,9 @@ For more information about the Space Planning workspace, see [Space Planning](ht
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[space-planning|Space Planning]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[kpi-configuration-form|KPI Configuration form]]
-- [[space-assistance|Space assistance]]

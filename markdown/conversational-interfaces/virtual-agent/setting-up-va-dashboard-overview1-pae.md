@@ -28,7 +28,7 @@ For information on roles, see [Conversational Analytics dashboard roles](https:/
 
 ## Dependencies
 
-The Conversational Analytics Dashboard requires the Quebec or later version of [[virtual-agent-landing-page|Virtual Agent]].
+The Conversational Analytics Dashboard requires the Quebec or later version of Virtual Agent.
 
 -   **[Install Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/get-va-dashboard-pae.md)**  
 Get updates to the Conversational Analytics dashboard from the ServiceNow Store.
@@ -39,6 +39,3 @@ Use scripts to override the default formulas used to create the analytics on the
 
 **Parent Topic:**[Conversational Analytics dashboard in Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

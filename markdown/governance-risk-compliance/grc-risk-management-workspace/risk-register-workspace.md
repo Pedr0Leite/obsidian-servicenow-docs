@@ -14,7 +14,7 @@ breadcrumb: [Operational Risk Management dashboard, Analytics and reporting solu
 
 # Risk register in the Risk Workspace
 
-The risk register contains the information about identified risks, results of risk analysis such as risk scores, and [[risk-response|risk response]] plans. The risk register enables you to monitor and control the risks of your organization.
+The risk register contains the information about identified risks, results of risk analysis such as risk scores, and risk response plans. The risk register enables you to monitor and control the risks of your organization.
 
 A risk register is a crucial risk analysis tool used in enterprise risk management. It is a record of information of identified risks. A risk register is used for regulatory compliance and keeps risk managers updated about the enterprise risks. It is important to regularly monitor risks and responses. A risk register simplifies this task by showing at a glance:
 
@@ -24,7 +24,7 @@ A risk register is a crucial risk analysis tool used in enterprise risk manageme
 -   Should some risks be accepted?
 -   What is the mitigation plan?
 
-To view the Risk Register, navigate to **[[risk-workspace|Risk Workspace]]** &gt; **[[risk-assessments|Risk assessments]]** &gt; **Risk Register**
+To view the Risk Register, navigate to **Risk Workspace** &gt; **Risk assessments** &gt; **Risk Register**
 
 The components of the Risk Register are the following:
 
@@ -39,8 +39,3 @@ The components of the Risk Register are the following:
 
 **Parent Topic:**[Operational Risk Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/operational-risk-dashboard.md)
 
-## Related
-
-- [[risk-response|risk response]]
-- [[risk-workspace|risk workspace]]
-- [[risk-assessments|risk assessments]]

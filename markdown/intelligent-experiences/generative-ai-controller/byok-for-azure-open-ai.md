@@ -14,11 +14,11 @@ breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now
 
 # Bring your own key for third-party AI provider integration
 
-The bring your own key \(BYOK\) feature enables you to use your own API credentials from supported cloud AI providers, such as Azure OpenAI, Amazon Bedrock, and Google Gemini, to run [[now-assist-skills|Now Assist skills]] and AI agents.
+The bring your own key \(BYOK\) feature enables you to use your own API credentials from supported cloud AI providers, such as Azure OpenAI, Amazon Bedrock, and Google Gemini, to run Now Assist skills and AI agents.
 
-When BYOK is enabled, [[platform-now-assist-landing|Now Assist]] sends model requests through your cloud AI provider account instead of ServiceNow AI Platform infrastructure. This approach lets you maintain ownership of your AI configuration, security [[controls|controls]], and data processing environment while continuing to use Now Assist capabilities.
+When BYOK is enabled, Now Assist sends model requests through your cloud AI provider account instead of ServiceNow AI Platform infrastructure. This approach lets you maintain ownership of your AI configuration, security controls, and data processing environment while continuing to use Now Assist capabilities.
 
-BYOK supports the same [[ai-models|AI models]] that the ServiceNow AI Platform supports. After you configure your API credentials, Now Assist uses your provider resources to process requests instead of using the default ServiceNow AI provider. BYOK keeps your keys under your control and AI workloads running within your cloud environment.
+BYOK supports the same AI models that the ServiceNow AI Platform supports. After you configure your API credentials, Now Assist uses your provider resources to process requests instead of using the default ServiceNow AI provider. BYOK keeps your keys under your control and AI workloads running within your cloud environment.
 
 **Note:** Using your organization’s cloud AI provider account might result in additional charges from that provider. Review the provider’s pricing and terms of service before enabling BYOK.
 
@@ -48,17 +48,17 @@ For step-by-step instructions for each supported cloud AI provider, see [Configu
 
     For more information, see [Configure API credentials for Azure OpenAI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-azure-openai.md).
 
-2.  Configure your Azure OpenAI model and deployment name in [[generative-ai-controller|Generative AI Controller]] so your ServiceNow instance can recognize and use it.
+2.  Configure your Azure OpenAI model and deployment name in Generative AI Controller so your ServiceNow instance can recognize and use it.
 
     For more information, see [Create a custom embedding model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-byom.md).
 
-3.  Modify the prompt configuration to write your own [[ai-prompts|prompts]] to send to the Azure OpenAI LLMs.
+3.  Modify the prompt configuration to write your own prompts to send to the Azure OpenAI LLMs.
 
     For more information, see [Configure a generic large language model \(LLM\) connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-a-generic-llm-connector.md).
 
 4.  Switch providers to use BYOK for AI processing.
 
-    For more information, see [[manage-integration|Manage Integration]].
+    For more information, see [Manage Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-integration.md).
 
 
 **Related topics**  
@@ -66,12 +66,3 @@ For step-by-step instructions for each supported cloud AI provider, see [Configu
 
 [Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 
-## Related
-
-- [[manage-integration|Manage Integration]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]
-- [[ai-models|AI models]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[ai-prompts|Prompts]]

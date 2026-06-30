@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Configure Employee Profile for a portal
 
-Configure the [[emp-slate-employee-profile|Employee Profile]] for a portal by creating a configuration record and mapping a header and tabs.
+Configure the Employee Profile for a portal by creating a configuration record and mapping a header and tabs.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ Role required: sn\_employee.admin
 
 6.  Save the record.
 
-## Related
 
-- [[emp-slate-employee-profile|Employee profile]]

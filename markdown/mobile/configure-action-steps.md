@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Use action steps when you must perform multiple actions after an action item is executed. You can also use action steps when an action must be performed in [[mobile-offline-mode|offline mode]]. For more information about working in offline mode, see [[config-offline-data-item|Configure data items in offline mode]].
+Use action steps when you must perform multiple actions after an action item is executed. You can also use action steps when an action must be performed in offline mode. For more information about working in offline mode, see [Configure data items in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-offline-data-item.md).
 
 ## Procedure
 
@@ -141,20 +141,15 @@ Execution script
 
 The script executed by the action. This field only appears if you select **Script** in the **Type** field.
 
- To use an input from an [[parameter-input-screen|input form screen]] in your scripts, use `parm_input.<InputName>`
+ To use an input from an input form screen in your scripts, use `parm_input.<InputName>`
 
  To use a variable from an input form screen in your scripts, use `parm_variable.<VariableName>`
 
- To view an example of an execution script, see [[sg-studio-create-action-item|Configure an action item]].
+ To view an example of an execution script, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 </td></tr></tbody>
 </table>4.  Repeat the procedure for any additional action steps that you want to add to the selected action item.
 
 5.  Select **Submit**.
 
-## Related
 
-- [[config-offline-data-item|Configure data items in offline mode]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[mobile-offline-mode|Offline mode]]
-- [[parameter-input-screen|Input form screen]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 # Set accessibility preference
 
-Enable keyboard accessibility for your profile to navigate through the [[applicant-center-concept|applicant center]] portal using keyboard tabs.
+Enable keyboard accessibility for your profile to navigate through the applicant center portal using keyboard tabs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 ## About this task
 
-Users can tab through the platform UI without enabling accessibility. However, without accessibility enabled, tabbing goes from field to field and skips other items on a form, such as [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] icons. For details, see [Using accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-accessibility.md).
+Users can tab through the platform UI without enabling accessibility. However, without accessibility enabled, tabbing goes from field to field and skips other items on a form, such as reference icons. For details, see [Using accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-accessibility.md).
 
 ## Procedure
 
@@ -35,7 +35,3 @@ Users can tab through the platform UI without enabling accessibility. However, w
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Configure financials for planning items Strategic Planning
 
-Configure the ServiceNow Internal integrations to view the financials for planning items in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Configure the ServiceNow Internal integrations to view the financials for planning items in Strategic Planning.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Configure the attributes to [[generate-labor-cost-demand|generate labor costs]] in financials based on the resource assignments on the work items.
+1.  Configure the attributes to generate labor costs in financials based on the resource assignments on the work items.
 
     For more information, see [Using the Planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes.md) and [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md).
 
-2.  [[generate-mapping-configurations-ppw|Generate default mapping configurations]] to create table maps.
+2.  Generate default mapping configurations to create table maps.
 
     For more information, see [Generate default mapping configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/generate-default-mapping-configurations.md).
 
@@ -42,7 +42,7 @@ Role required: admin
 
     For more information, see [Enable monetary benefit plans for planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-benefitplans-spw-fin.md)
 
-6.  Add the [[monetary-non-monetary-benefit-plans|monetary and non-monetary benefit plans]] related lists for your planning items in workspace view.
+6.  Add the monetary and non-monetary benefit plans related lists for your planning items in workspace view.
 
     For more information, see [Add monetary and non-monetary benefit plans related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-benefit-plans-planning-items.md).
 
@@ -54,7 +54,7 @@ Role required: admin
 
     For more information, see [Customize the left pane view for financials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customize-fin-left-pane.md).
 
-9.  Customize the [[create-cost-plan-form-pp|Create cost plan form]] fields to match the requirements of your organization.
+9.  Customize the Create cost plan form fields to match the requirements of your organization.
 
     For more information, see [Customise cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customise-cost-plan-form-fin.md).
 
@@ -74,7 +74,7 @@ Role required: admin
 
     For more information, see [Migrate financial baselines to Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/migrate-fin-baselines-projects.md).
 
-14. Activate and define scheduled job to automatically [[create-financial-baselines-ppw|create financial baselines]] for your planning items at a defined cadence.
+14. Activate and define scheduled job to automatically create financial baselines for your planning items at a defined cadence.
 
     For more information, see [Activate scheduled job to create financial baselines for planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/baseline-scheduler-job.md).
 
@@ -82,11 +82,4 @@ Role required: admin
 
     For more information, see [Activate scheduled job to generate labor costs for your planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/labor-cost-scheduler-job-spw.md).
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[generate-mapping-configurations-ppw|Generate default mapping configurations]]
-- [[monetary-non-monetary-benefit-plans|Monetary and non-monetary benefit plans]]
-- [[create-cost-plan-form-pp|Create cost plan form]]
-- [[create-financial-baselines-ppw|Create financial baselines]]

@@ -15,7 +15,7 @@ breadcrumb: [Email OTP authentication, Configure authentication factors for AI v
 
 # Configure Email OTP
 
-Configure the [[email|Email]] one-time password \(OTP\) to enable OTP-based [[c_Authentication|authentication]] for [[users|users]] in your instance.
+Configure the Email one-time password \(OTP\) to enable OTP-based authentication for users in your instance.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Install Now Assist for Platform `sn_genai_platform` for activating AI voice agen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Email OTP Factor** &gt; **Email OTP Service [[sc-configuration|Configuration]]**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Email OTP Factor** &gt; **Email OTP Service Configuration**.
 
 2.  Select **New**.
 
@@ -56,10 +56,3 @@ The Email OTP configuration is saved. During an AI voice agent session, a one-ti
 
 [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
 
-## Related
-
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[authentication-factors|Authentication factors]]
-- [[sc-configuration|Configuration]]

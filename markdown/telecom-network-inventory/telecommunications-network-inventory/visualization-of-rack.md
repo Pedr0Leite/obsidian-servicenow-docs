@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Visualization of a rack or cabinet
 
-Using rack or cabinet visualization in the [[telecom-network-inventory|Telecommunications Network Inventory]] application, you can visualize a rack or cabinet in the canvas. Here you can observe the loading of equipment and shelves into the front and rear accessible racks or cabinets, with each item placed in its designated Rack Units.
+Using rack or cabinet visualization in the Telecommunications Network Inventory application, you can visualize a rack or cabinet in the canvas. Here you can observe the loading of equipment and shelves into the front and rear accessible racks or cabinets, with each item placed in its designated Rack Units.
 
 ## Rack visualization overview
 
@@ -44,7 +44,7 @@ The previous screenshot is an example of a rack. From the **Overview** tab of a 
 -   See the rack or cabinet and rack or cabinet models.
 -   Create equipment from a rack or cabinet view. To learn more, see [Create a rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-rack.md).
 -   Edit a rack. To learn more, see [Edit rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-rack.md).
--   [[edit-a-cabinet|Edit a cabinet]]. To learn more, see [Edit a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-cabinet.md).
+-   Edit a cabinet. To learn more, see [Edit a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-cabinet.md).
 -   Add packs
 -   Decommission a rack or cabinet. To learn more, see [Decommission an inventory record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decommision-an-inventory-record.md).
 -   Delete a rack or cabinet. To learn more, see [Delete a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/delete-inventory-record.md).
@@ -77,13 +77,13 @@ To instantiate the creation of a rack or cabinet, you must:
 
     **Note:**
 
-    -   You can [[edit-a-rack|create a rack]] using [Create a rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-rack.md).
-    -   You can [[create-a-cabinet|create a cabinet]] using [Create a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cabinet.md).
+    -   You can create a rack using [Create a rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-rack.md).
+    -   You can create a cabinet using [Create a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cabinet.md).
 2.  Add an equipment or shelf to a rack or cabinet. To learn more, see [Create a change request from Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_change_request_in_tni.md).
 
     **Note:** You can also edit, add, move, and remove an equipment using [Edit rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-rack.md) and [Edit a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-cabinet.md).
 
-3.  [[remove-equipment-shelf-rack-cabinet|Remove an equipment or shelf from a rack or cabinet]].
+3.  Remove an equipment or shelf from a rack or cabinet.
 
     To learn more, see [Create a change request from Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_change_request_in_tni.md).
 
@@ -95,10 +95,3 @@ To instantiate the creation of a rack or cabinet, you must:
 
 [Create a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cabinet.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[edit-a-cabinet|Edit a cabinet]]
-- [[edit-a-rack|Create a rack]]
-- [[create-a-cabinet|Create a cabinet]]
-- [[remove-equipment-shelf-rack-cabinet|Remove an equipment or shelf from a rack or cabinet]]

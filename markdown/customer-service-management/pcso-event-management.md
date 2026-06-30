@@ -12,9 +12,9 @@ breadcrumb: [Proactive Customer Service Operations, Configure Proactive Customer
 
 # Integration with Event Management
 
-Create cases proactively from alerts either manually or through automation. Track the accounts and health status of the corresponding [[install-base-item|install base items]] affected by the alert to better correlate customer issues and provide faster responses.
+Create cases proactively from alerts either manually or through automation. Track the accounts and health status of the corresponding install base items affected by the alert to better correlate customer issues and provide faster responses.
 
-[[c_CustomerServiceManagement|Customer Service Management]] provides an integration with the Event Management console in IT Operations Management, which enables you to improve the customer experience by breaking down the silos that exist between the processes and systems used by front line customer service and back-office operations teams. By monitoring issues and creating cases proactively, you can be one step ahead of your customers and solve issues faster.
+Customer Service Management provides an integration with the Event Management console in IT Operations Management, which enables you to improve the customer experience by breaking down the silos that exist between the processes and systems used by front line customer service and back-office operations teams. By monitoring issues and creating cases proactively, you can be one step ahead of your customers and solve issues faster.
 
 Network Operations Center \(NOC\) operators monitor alerts from the Service Operations Workspace. For more information, see [Monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_EMViewDashboard.md).
 
@@ -22,7 +22,7 @@ When alerted to a service disruption, they can identify the accounts and corresp
 
 Customer service agents and managers can also track the service health status of install base items for an account to provide faster and more accurate support to customers.
 
-\[Omitted image "proactive\_customer\_service\_operations.png"\] Alt text: Infographic for [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management workflow. For the text description, refer to the video tutorial that follows.
+\[Omitted image "proactive\_customer\_service\_operations.png"\] Alt text: Infographic for Proactive Customer Service Operations with Event Management workflow. For the text description, refer to the video tutorial that follows.
 
 Learn about Proactive Customer Service Operations with Event Management from the following video tutorial.
 
@@ -32,8 +32,3 @@ Learn about Proactive Customer Service Operations with Event Management from the
 
 To enable Proactive Customer Service Operations with Event Management, activate the Proactive Customer Service with Event Management plugin \(com.snc.proactive\_cs\_itom\).
 
-## Related
-
-- [[install-base-item|Install base items]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]

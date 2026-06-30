@@ -14,7 +14,7 @@ breadcrumb: [Adoption services, Configure user experiences]
 
 # In-product help
 
-There are two kinds of in-product help to assist users understand the UI that they are using: [[embedded-help|Embedded Help]] and [[help-center|Help Center]].
+There are two kinds of in-product help to assist users understand the UI that they are using: Embedded Help and Help Center.
 
 ## In-product help overview
 
@@ -24,7 +24,7 @@ Embedded Help provides targeted help content to a user in a page in the classic 
 
 \[Omitted image "embedded-help.png"\] Alt text: Catalog task page with embedded help.
 
-The Help Center is the next-generation Embedded Help product for configurable workspace. The Help Center provides targeted help content to users based on their role and specific to their location in a configurable workspace or page built with the [[next-experience-landing-page|Next Experience UI]] Framework.
+The Help Center is the next-generation Embedded Help product for configurable workspace. The Help Center provides targeted help content to users based on their role and specific to their location in a configurable workspace or page built with the Next Experience UI Framework.
 
 Help Center will display Embedded Help content, so you don't have to rewrite any content you previously created for Embedded Help. For more information, see [Help Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/help-center.md).
 
@@ -47,8 +47,3 @@ Help Center will display Embedded Help content, so you don't have to rewrite any
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[help-center|Help Center]]
-- [[next-experience-landing-page|Next Experience UI]]

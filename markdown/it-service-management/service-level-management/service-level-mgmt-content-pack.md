@@ -24,7 +24,7 @@ Use the Performance Analytics widgets on the dashboard to visualize data over ti
 
 For unlimited access to all features of this Platform Analytics Solution, purchase a Performance Analytics subscription. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md).
 
-To enable the solution for [[service-level-mgmt-landing-page|Service Level Management]], an admin navigates to **System Definitions** &gt; **Plugins** and activates the [[slm-pa-dashboard|Service Level Management PA Dashboard]] \(com.snc.pa.sla.overview\) plugin.
+To enable the solution for Service Level Management, an admin navigates to **System Definitions** &gt; **Plugins** and activates the Service Level Management PA Dashboard \(com.snc.pa.sla.overview\) plugin.
 
 To use this Platform Analytics Solution, you must have an entitlement to use Performance Analytics with Service Level Management.
 
@@ -42,7 +42,3 @@ The Service Level Agreement \(SLA\) Overview module provides a Performance Analy
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[slm-pa-dashboard|Service level management PA dashboard]]

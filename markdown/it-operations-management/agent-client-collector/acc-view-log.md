@@ -14,11 +14,11 @@ breadcrumb: [Using ACC logs, ACC deployment - shared between servers and endpoin
 
 # View the Agent Client Collector logs
 
-You can view the activity logs for an [[acc-landing-page|Agent Client Collector]].
+You can view the activity logs for an Agent Client Collector.
 
 ## About this task
 
-[[acc-logs-concept|Agent Client Collector logs]] are accessible from:
+Agent Client Collector logs are accessible from:
 
 -   **Linux**: `/var/log/servicenow/agent-client-collector/acc.log`
 -   **Windows**: The location specified by the `log-file` configuration flag. The default location is: `C:/ProgramData/ServiceNow/agent-client-collector/log/acc.log`
@@ -67,7 +67,3 @@ Role required: agent\_client\_collector\_admin
 
 [Enable log monitoring in a Windows environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-windows.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-logs-concept|Agent Client Collector logs]]

@@ -195,7 +195,7 @@ sn\_sec\_tisc.default\_report\_email\_template
 
 </td><td>
 
-Sys ID of the email client template which will be used in share report in [[view-threat-intelligence-security-center-homepage|TISC workspace]].This is the email template that will be used while sharing reports \(Case/Intelligence\) from TISC Workspace.
+Sys ID of the email client template which will be used in share report in TISC workspace.This is the email template that will be used while sharing reports \(Case/Intelligence\) from TISC Workspace.
 
 **Note:** The system property`sn_sec_tisc.reporting.email_template_sn_sec_tisc_case` is no longer supported in TISC. It has been renamed to`sn_sec_tisc.default_report_email_template`, effective with the latest release.
 
@@ -205,7 +205,3 @@ b55e22c54324021060eee0ea78b8f2df
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[view-threat-intelligence-security-center-homepage|TISC Workspace]]

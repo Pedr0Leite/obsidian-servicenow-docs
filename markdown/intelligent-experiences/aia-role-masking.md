@@ -17,7 +17,7 @@ Role masking for AI agents and agentic workflows helps users enhance security by
 
 ## Role masking overview
 
-Role masking lets AI admins in the [[ai-agent-studio|AI Agent Studio]] to limit permissions of agentic workflows or AI agents set to run as dynamic users by defining an allow-list of roles they can inherit from invoking users, enforcing least-privilege access.
+Role masking lets AI admins in the AI Agent Studio to limit permissions of agentic workflows or AI agents set to run as dynamic users by defining an allow-list of roles they can inherit from invoking users, enforcing least-privilege access.
 
 Use role masking to:
 
@@ -27,18 +27,18 @@ Use role masking to:
     For more information about configuring skills, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md).
 
 -   Reduce the risk of AI solutions accessing the resources that they shouldn't, therefore helping prevent agentic overreach into sensitive data or capabilities beyond what the user is allowed.
--   Expand the security [[exploring-ai-governance|configurations]] to increase functionality of agentic products while reducing security risks by enforcing governance for elevated or scoped roles.
+-   Expand the security configurations to increase functionality of agentic products while reducing security risks by enforcing governance for elevated or scoped roles.
 
 ## Prerequisites
 
 To configure role masking on your ServiceNow instance, you must have:
 
--   [[platform-now-assist-landing|Now Assist]] for Platform version 10.0.2-SS.
+-   Now Assist for Platform version 10.0.2-SS.
 -   The sn\_aia.admin privileges.
 
 ## Role masking behavior
 
-Role masking behavior in agentic workflows, AI agents, and tools [[controls|controls]] which of the invoking user's roles are available to AI agents and tools during workflow execution. The roles are applied sequentially across layers in the agentic workflow, AI agent, and Tool sequence to verify that tools execute with minimum required privileges.
+Role masking behavior in agentic workflows, AI agents, and tools controls which of the invoking user's roles are available to AI agents and tools during workflow execution. The roles are applied sequentially across layers in the agentic workflow, AI agent, and Tool sequence to verify that tools execute with minimum required privileges.
 
 ## Role masking rules
 
@@ -58,14 +58,6 @@ Role masking behavior in agentic workflows, AI agents, and tools [[controls|cont
 
 ## Configuration
 
--   To configure role masking for an AI agent, see [[define-sec-controls-aia|Define security controls for an AI agent]].
--   To configure role masking for an AI agent, see [[define-sec-controls-aw|Define security controls for an agentic workflow]].
+-   To configure role masking for an AI agent, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
+-   To configure role masking for an AI agent, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
-## Related
-
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[exploring-ai-governance|Configurations]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]

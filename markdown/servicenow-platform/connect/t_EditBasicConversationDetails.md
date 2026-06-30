@@ -14,7 +14,7 @@ breadcrumb: [Connect Chat use, Connect Chat, Connect, ServiceNow AI Platform Add
 
 # Edit basic conversation details
 
-In [[c_Collaboration|Connect Chat]], you can customize the avatar, name, and description for a group or record conversation.
+In Connect Chat, you can customize the avatar, name, and description for a group or record conversation.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ These details are not editable for direct conversations.
 
 ## Procedure
 
-1.  Open the a group or record conversation in the [[c_CollaborationWorkspace|Connect workspace]].
+1.  Open the a group or record conversation in the Connect workspace.
 
 2.  Click anywhere in the conversation header to the left of the icons.
 
@@ -38,7 +38,4 @@ These details are not editable for direct conversations.
 
 4.  Click **Save**.
 
-## Related
 
-- [[c_Collaboration|Connect Chat]]
-- [[c_CollaborationWorkspace|Connect workspace]]

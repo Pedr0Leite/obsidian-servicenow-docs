@@ -12,8 +12,5 @@ breadcrumb: [Use agentic workflows in emails, Now Assist in Notifications, Confi
 
 # Configure email agentic workflows in Notifications
 
-Configure email agentic workflow in [[notifications|Notifications]] for email agentic workflow.
+Configure email agentic workflow in Notifications for email agentic workflow.
 
-## Related
-
-- [[notifications|Notifications]]

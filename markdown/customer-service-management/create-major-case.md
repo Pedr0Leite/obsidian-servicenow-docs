@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_manager
 
 1.  Navigate to **All** &gt; **Major Issue Management** &gt; **Create Major Case**.
 
-2.  Fill in the fields on the [[r_CustomerServiceCaseForm|Case form]].
+2.  Fill in the fields on the Case form.
 
 3.  In the Major Case Information form section, fill in the **Business impact** and **Probable case** fields.
 
@@ -33,6 +33,3 @@ Role required: sn\_customerservice\_manager
 
 You can view all cases by navigating to **Customer Service** &gt; **Cases** &gt; **Proactive**.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

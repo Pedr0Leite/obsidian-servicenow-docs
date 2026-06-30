@@ -110,7 +110,7 @@ This example illustrates UI groups \(tabs\).
 
 </td></tr></tbody>
 </table>-   **[Populate the location based on the cloud account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/analyze-default-blueprint-rules.md)**  
-This example walks you through an existing set of blueprint rules that [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] provides by default.
+This example walks you through an existing set of blueprint rules that Cloud Provisioning and Governance provides by default.
 -   **[Remove a field from a cloud catalog form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/remove-mandatory-field-example.md)**  
 Remove a field from the Cloud Provisioning and Governance catalog form when the user belongs to a specific group.
 -   **[Populate stack name with a script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/populate-stack-name-example.md)**  
@@ -120,6 +120,3 @@ You can set default values for all users or you can populate fields with default
 
 **Parent Topic:**[Form configuration with blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/blueprint-form-configuration.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

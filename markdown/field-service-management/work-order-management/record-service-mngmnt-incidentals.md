@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # Record incidental expenses on the Contractor Portal
 
-Agents of contractor companies can use the Field Service [[field-service-contractor-portal|Contractor Portal]] to track incidental expenses that arise during the execution of a work order task.
+Agents of contractor companies can use the Field Service Contractor Portal to track incidental expenses that arise during the execution of a work order task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 ## About this task
 
-Service Management Incidentals or incidental expenses are distinct from other expenses related to work orders, such as [[c_PartRequirements|part requirements]]. Incidentals represent expenses that arise during the execution of a task or that are otherwise related to the task. [[fsm-application-landing-page|Field Service Management]] provides incidental types to track the costs of car rentals and miles traveled. Your organization can create additional custom types.
+Service Management Incidentals or incidental expenses are distinct from other expenses related to work orders, such as part requirements. Incidentals represent expenses that arise during the execution of a task or that are otherwise related to the task. Field Service Management provides incidental types to track the costs of car rentals and miles traveled. Your organization can create additional custom types.
 
 You can create incidental expenses for a work order task at any point during the task life cycle. When an incidental record is created, the system generates an expense line if the following conditions are met:
 
@@ -52,8 +52,4 @@ The expense line is deleted if any of these conditions change.
 
 6.  Click **Save**.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]
-- [[c_PartRequirements|Part requirements]]
-- [[fsm-application-landing-page|Field Service Management]]

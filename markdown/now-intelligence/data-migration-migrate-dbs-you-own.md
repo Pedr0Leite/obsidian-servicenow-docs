@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Migrate dashboards that you own
 
-Migrate dashboards that you own, including reports, [[c_HomepagePublishers|interactive filters]], and [[c_Widgets|Performance Analytics widgets]] to [[par-workspace|Platform Analytics experience]].
+Migrate dashboards that you own, including reports, interactive filters, and Performance Analytics widgets to Platform Analytics experience.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: You can migrate any dashboard you own. Users with admin or dashbo
 
 ## About this task
 
-To learn about migration and its benefits, see [[data-migration|Platform Analytics Migration Center]].
+To learn about migration and its benefits, see [Platform Analytics Migration Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration.md).
 
 **Note:** You cannot use update sets to move the migrated material from a non-production instance to a production instance. Test the migration on the non-production instance and then use Migration Center functionality to migrate the production instance.
 
@@ -39,7 +39,7 @@ This task is only applicable on instances that are upgraded to releases Australi
 
     Choose from dashboards that have Yes in the **Ready to migrate** column.
 
-    **Note:** Dashboards with custom or dynamic content blocks and any [[widgets|widgets]] that are not base-system Performance Analytics widgets will not show the migration banner. Examples of these other widgets include CMDB widgets.
+    **Note:** Dashboards with custom or dynamic content blocks and any widgets that are not base-system Performance Analytics widgets will not show the migration banner. Examples of these other widgets include CMDB widgets.
 
 3.  Select **Switch to Next UI**.
 
@@ -50,22 +50,13 @@ This task is only applicable on instances that are upgraded to releases Australi
 
 ## Result
 
-The migrated dashboard appears in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Links to the original Core UI dashboard redirect to the library as well.
+The migrated dashboard appears in the Platform Analytics library. Links to the original Core UI dashboard redirect to the library as well.
 
 ## What to do next
 
-Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]].
+Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-mig-unmigrated-content.md).
 
 To roll back a migrated dashboard, select the More actions menu \[Omitted image "more-actions-menu-icon.png"\] Alt text: More actions menu icon and choose **Switch to the Core UI**. This option is available to analytics managers and admins for all migrated dashboards. Other dashboard owners can only roll back migrations on dashboards they have migrated themselves.
 
 \[Omitted image "data-migration-roll-back-indiv-db.png"\] Alt text: More actions menu with Switch to the Core UI option highlighted
 
-## Related
-
-- [[data-migration|Platform Analytics Migration Center]]
-- [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

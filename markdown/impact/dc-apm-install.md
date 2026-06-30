@@ -16,9 +16,9 @@ To enable the Data Collection Pack, you must install dependent plugins and activ
 
 ## Before you begin
 
-The APM Success Metric Definitions in this application rely on another application. Ensure that the required plugins are installed if they are not already. For more information, see [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]].
+The APM Success Metric Definitions in this application rely on another application. Ensure that the required plugins are installed if they are not already. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-**Note:** If you have SPM Data Collection packs activated, navigate to the APM indicator \([[impact-landing-page|Impact]] VM - \# of Applications Migrated\) &gt; indicator source \(Impact VM APM - Number of Applications Migrated\) and ensure that the state is set to complete.
+**Note:** If you have SPM Data Collection packs activated, navigate to the APM indicator \(Impact VM - \# of Applications Migrated\) &gt; indicator source \(Impact VM APM - Number of Applications Migrated\) and ensure that the state is set to complete.
 
 Role required: Impact user
 
@@ -36,7 +36,4 @@ Role required: Impact user
     -   **Impact VM - APM - Historical Data Collection**
     If you're having trouble finding the data collection jobs, check whether the required data collection-dependent plugins are installed correctly. See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-## Related
 
-- [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]]
-- [[impact-landing-page|Impact]]

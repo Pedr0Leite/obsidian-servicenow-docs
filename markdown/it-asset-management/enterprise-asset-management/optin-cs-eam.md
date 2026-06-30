@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Opt-in to the Enterprise Asset Management Content Service
 
-Opt in to the [[enterprise-asset-management|Enterprise Asset Management]] Content Service to share unnormalized enterprise model data from your organization with ServiceNow to improve the normalization process.
+Opt in to the Enterprise Asset Management Content Service to share unnormalized enterprise model data from your organization with ServiceNow to improve the normalization process.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Normalization opt-in**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Normalization opt-in**.
 
     \[Omitted image "opt-in-eam.png"\] Alt text: Opt-in for Enterprise Asset Management Content Service
 
@@ -32,7 +32,7 @@ Role required: sn\_eam.enterprise\_admin
 
     \[Omitted image "opt-in-modeldata.png"\] Alt text: Opt-in page showing the enterprise model data
 
-    After you opt in, the Enterprise [[c_Models|Models]], Enterprise Model Lifecycles, Firmware Discovery Models, Firmware Model Lifecycles, Custom Firmware Models KPIs, and Custom Firmware CPE mapping are automatically enabled. The Custom Enterprise Product Models KPI is automatically disabled.
+    After you opt in, the Enterprise Models, Enterprise Model Lifecycles, Firmware Discovery Models, Firmware Model Lifecycles, Custom Firmware Models KPIs, and Custom Firmware CPE mapping are automatically enabled. The Custom Enterprise Product Models KPI is automatically disabled.
 
 4.  To disable a KPI, select the toggle button next to the KPI and then select **Save**.
 
@@ -40,8 +40,4 @@ Role required: sn\_eam.enterprise\_admin
 
     After you opt out, the Enterprise Models, Enterprise Model Lifecycles, Custom Enterprise Product Models, Firmware Discovery Models, Firmware Model Lifecycles, Custom Firmware Models KPIs, and Custom Firmware CPE mapping are disabled and your company no longer contributes to the improvement of the normalization process. You still receive incremental content updates, based on what the Content Service team can create from other sources. Your company can rejoin the Enterprise Asset Management Content Service at any time.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

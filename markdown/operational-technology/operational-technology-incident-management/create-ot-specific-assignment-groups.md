@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Create an assignment group
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) specific assignment group to assign to OT incident records.
+Create an Operational Technology \(OT\) specific assignment group to assign to OT incident records.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Now, the OT-specific assignment group is visible on the incident record.
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

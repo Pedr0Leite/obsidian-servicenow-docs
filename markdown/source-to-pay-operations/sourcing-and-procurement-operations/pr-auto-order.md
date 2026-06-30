@@ -15,7 +15,7 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Purchase requisition auto-order
 
-Auto-order automates the creation of a [[purchase-order-table|purchase order]] \(PO\) from an approved [[purchase-requisition|purchase requisition]] \(PR\) without requiring manual buyer intervention. Two system properties control whether the feature is active and the maximum PR value that qualifies for automatic processing.
+Auto-order automates the creation of a purchase order \(PO\) from an approved purchase requisition \(PR\) without requiring manual buyer intervention. Two system properties control whether the feature is active and the maximum PR value that qualifies for automatic processing.
 
 When a PR reaches the state where all activities are complete, the Requisition State Handler flow evaluates the auto-order configuration. If the conditions are met, the flow creates a PO and links it back to the PR automatically. If the conditions are not met, the PR waits for a buyer to create the PO manually.
 
@@ -26,7 +26,7 @@ The Requisition State Handler flow performs the following actions during auto-or
 1.  A PR is created and reaches the state where all approval activities are complete.
 2.  The Requisition State Handler flow evaluates whether auto-order is active and whether the PR total is at or below the configured threshold.
 3.  If the auto-order conditions are met, the flow invokes the `CreatePurchaseOrder` script, which validates the PR and builds the PO header and lines from the approved PR lines.
-4.  The PO state is set based on the [[supplier|supplier]] type:
+4.  The PO state is set based on the supplier type:
     -   For standard suppliers, the PO state is set to **Pending submission**.
     -   For punchout suppliers, an integration request is sent to the supplier and the PO state is set to **Pending supplier confirmation**.
 5.  The PO is linked to the PR, and the PR state is updated to reflect the PO state.
@@ -57,8 +57,3 @@ All of the following conditions must be true for auto-order to create a PO:
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

@@ -20,11 +20,11 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 
 ## Procedure
 
-1.  Open an order case record in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open an order case record in CSM Configurable Workspace.
 
 2.  Select an order case line item in the Order Case Line list.
 
-3.  Select **Create task** to display the Create New [[case-line-task-form|Case Line Task form]].
+3.  Select **Create task** to display the Create New Case Line Task form.
 
 4.  Enter information in the fields on the form.
 
@@ -32,7 +32,4 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 
     The system displays the new case line task record.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-line-task-form|Case line task form]]

@@ -20,7 +20,7 @@ When you connect to your calendar provider for synchronization, you may incur a 
 
 When you synchronize reservations, it is important to know the following:
 
--   You can’t edit a reservation that is created using the calendar provider in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+-   You can’t edit a reservation that is created using the calendar provider in the Workplace Reservation Management application.
 -   During reservation synchronization, only the notes added to the reservation using the Workplace Reservation Management application is considered. That is, if the body of the reservation is updated in Microsoft Exchange, those updates are not synchronized back to Workplace Reservation Management.
 -   When you create, update or delete a reservation, it’s performed directly on the employee's calendar. During synchronization, the events are read from the resource calendar, that is, the room calendar.
 -   If an event is rejected or declined by the calendar provider resource, in such case the reservation remains in the Awaiting confirmation state. For the same reason, a scheduled job **Clean-up Awaiting/Rejected Reservations** is available that you can run on any suitable frequency to clear the reservations that are rejected or declined
@@ -50,7 +50,7 @@ When you synchronize reservations, it is important to know the following:
     -   During reservation synchronization, only the notes added to the reservation using the Workplace Reservation Management application is considered. That is, if the body of the reservation is updated in Microsoft Exchange, those updates are not synchronized back to Workplace Reservation Management.
 -   **Privacy**
 
-    If an employee reserves a room using their calendar provider, then the privacy of the reservation depends on the privacy setup made on the building to which the space or room belongs. The privacy of such reservations can be changed or overridden using Workplace Reservation Management or [[wsd-mobile-overview|Workplace Service Delivery for Mobile]].
+    If an employee reserves a room using their calendar provider, then the privacy of the reservation depends on the privacy setup made on the building to which the space or room belongs. The privacy of such reservations can be changed or overridden using Workplace Reservation Management or Workplace Service Delivery for Mobile.
 
 -   **Virtual meeting link**
 
@@ -71,11 +71,11 @@ When you synchronize reservations, it is important to know the following:
 
 ## Debugging, handling throttling and other
 
-**Debug [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] to Microsoft Exchange Online**:
+**Debug Workplace Service Delivery to Microsoft Exchange Online**:
 
 **Note:** Ensure that Developer Trace is to be enabled for debugging.
 
-1.  Check for events in **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Synchronization** &gt; **Events** &gt; **.**
+1.  Check for events in **Workplace Calendar Synchronization** &gt; **Synchronization** &gt; **Events** &gt; **.**
 2.  Ensure that all the events are processed successfully and their Response has “Event ID” &amp; “Icaluid”.
 3.  If an event fails with “Too many requests” error, enable **WSDR Reprocess Events** scheduled job with a 5-minute frequency.
 4.  For an exact response message from “Rest”, navigate to **Flow Designer** &gt; **Executions**. Apply the filter by the name “Create Calendar Event”.
@@ -110,9 +110,4 @@ If you are processing huge reservation requests at a time, there might be a thro
 
     **Tip:** Set the value to 120 or above.
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

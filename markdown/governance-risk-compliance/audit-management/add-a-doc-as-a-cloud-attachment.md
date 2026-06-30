@@ -20,7 +20,7 @@ Link a cloud file on Microsoft using file path and file name with a GRC ​recor
 
 Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
-Ensure that the cloud file UI actions on the Cloud files related list are visible on the forms based on the configured conditions. Ensure that [[file-access-permissions|file access permissions]] of read and write are added for the auditor and engagement leads. For more information, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
+Ensure that the cloud file UI actions on the Cloud files related list are visible on the forms based on the configured conditions. Ensure that file access permissions of read and write are added for the auditor and engagement leads. For more information, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ Beginning with the Washington DC release, cloud file integration is enabled on t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "new-task-icon.png"\] Alt text: Tasks icon\).
 
@@ -56,7 +56,4 @@ Beginning with the Washington DC release, cloud file integration is enabled on t
 
     For more information on file access permissions, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
 
-## Related
 
-- [[file-access-permissions|File access permissions]]
-- [[audit-management-overview-ws|Audit Workspace]]

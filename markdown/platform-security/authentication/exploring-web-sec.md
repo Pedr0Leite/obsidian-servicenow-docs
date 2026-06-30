@@ -14,15 +14,15 @@ breadcrumb: [Web service security, Authentication, Access Management]
 
 # Explore Web service security
 
-Enforce security using [[basic-authentication|basic authentication]], mutual [[c_Authentication|authentication]], or WS-Security.
+Enforce security using basic authentication, mutual authentication, or WS-Security.
 
 ## Basic Authentication
 
-To enforce basic authentication on each [[c_requestAPI|request]] for a WSDL document or posting of SOAP messages, you may set the property **glide.basicauth.required** to `true`. If you do so, each WSDL or SOAP request would have to contain the "Authorization" header as specified in the [Basic Authentication](http://www.w3.org/Protocols/HTTP/1.0/draft-ietf-http-spec.html#BasicAA) protocol. Because the request is non-interactive, the **Authorization** header is always required during a request.
+To enforce basic authentication on each request for a WSDL document or posting of SOAP messages, you may set the property **glide.basicauth.required** to `true`. If you do so, each WSDL or SOAP request would have to contain the "Authorization" header as specified in the [Basic Authentication](http://www.w3.org/Protocols/HTTP/1.0/draft-ietf-http-spec.html#BasicAA) protocol. Because the request is non-interactive, the **Authorization** header is always required during a request.
 
-Supplying basic authentication information whether or not it is required has the added advantage that the data created or updated as a result of the Web Service invocation is done on behalf of the user supplied in the [[r_BasicAuthCredentialsForm|basic authentication credentials]]. As an example, when creating an Incident record, the journal fields have the user id of the basic authenticated user, instead of the default **Guest** user.
+Supplying basic authentication information whether or not it is required has the added advantage that the data created or updated as a result of the Web Service invocation is done on behalf of the user supplied in the basic authentication credentials. As an example, when creating an Incident record, the journal fields have the user id of the basic authenticated user, instead of the default **Guest** user.
 
-To make the authorization header ignore the capitalization rules, use the **glide.security.script.include.name.case.insensitive.list** property. You can modify this property in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and add the script includes that are necessary to process the authentication. By default, this property has these values:
+To make the authorization header ignore the capitalization rules, use the **glide.security.script.include.name.case.insensitive.list** property. You can modify this property in the System Properties \[sys\_properties\] table and add the script includes that are necessary to process the authentication. By default, this property has these values:
 
 -   BasicAuth
 -   CustomAuth
@@ -88,10 +88,4 @@ sub SOAP :: Transport :: HTTP :: Client :: get_basic_credentials { return 'user_
     <html> <head > <title >Apache Tomcat/5.0.28 - Error report </ title > <style > <!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;}    H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;}    H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;}    BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;}    B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;}    P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}   A {color&nbsp;: black;}   A.name {color&nbsp;: black;}   HR {color&nbsp;: #525D76;}--> </ style > </ head > <body > <h1 >HTTP Status 401 -\ </ h1 > <HR size = "1" noshade = "noshade" > <p >< b >type </ b > Status report </ p > <p >< b >message </ b > <u >< / u >< / p > <p >< b >description </ b > <u >This request requires HTTP authentication (). </ u >< / p > <HR size = "1" noshade = "noshade" > <h3 >Apache Tomcat/5.0.28 </ h3 > </ body > </ html >
     ```
 
-## Related
 
-- [[basic-authentication|Basic authentication]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[r_BasicAuthCredentialsForm|Basic authentication credentials]]
-- [[ca-system-properties|System properties]]

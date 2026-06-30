@@ -16,8 +16,5 @@ breadcrumb: [Manage categories and tags, Administer PaCE policies, Policy as Cod
 
 Use tags to manage your PaCE policies more efficiently. As the policy administrator, you can create and edit any number of tags.
 
-Policy tags enable you to add any number of [[reference|reference]] tags to a policy. Tags can be especially useful in collaboration efforts, and can easily be viewed and edited. They can also be used to group policies based on any number of tags.
+Policy tags enable you to add any number of reference tags to a policy. Tags can be especially useful in collaboration efforts, and can easily be viewed and edited. They can also be used to group policies based on any number of tags.
 
-## Related
-
-- [[reference|Reference]]

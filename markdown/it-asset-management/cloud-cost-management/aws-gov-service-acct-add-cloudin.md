@@ -14,7 +14,7 @@ breadcrumb: [Configure Cloud Cost Management for AWS, Configuring Cloud Cost Man
 
 # Add an AWS GovCloud service account
 
-If your organization uses AWS GovCloud \(US\) regions, you create a service account for each region. The credentials that you create during the service account creation, are used for Cloud Discovery and [[cloud-insights-landing-page|Cloud Cost Management]].
+If your organization uses AWS GovCloud \(US\) regions, you create a service account for each region. The credentials that you create during the service account creation, are used for Cloud Discovery and Cloud Cost Management.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ A service account holds the credential and account information that you created 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Service accounts**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Service accounts**.
 
 2.  Select **New**.
 
@@ -114,7 +114,3 @@ The service account gets created and displays the list of all discovered datacen
 
 [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

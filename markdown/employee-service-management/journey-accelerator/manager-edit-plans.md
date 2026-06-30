@@ -22,7 +22,7 @@ Role required: All employees with direct reports
 
 ## Procedure
 
-1.  In the [[employee-center-landing-page|Employee Center]] portal, click **Plans**.
+1.  In the Employee Center portal, click **Plans**.
 
 2.  Click the plan that you want to edit.
 
@@ -37,6 +37,3 @@ Role required: All employees with direct reports
 
 **Parent Topic:**[Create and track plans for your employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-employee-plan.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

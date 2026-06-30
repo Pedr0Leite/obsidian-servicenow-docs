@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, SolarWinds, Service Graph Connecto
 
 # Perform a test data load for the air gap solution for Service Graph Connector for SolarWinds
 
-After you configure the air gap solution for the [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]], test whether the SolarWinds endpoint is accessible from the high-secure server.
+After you configure the air gap solution for the Service Graph Connector for SolarWinds, test whether the SolarWinds endpoint is accessible from the high-secure server.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 [Perform a full data load for the air gap solution for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-data-load.md)
 
-## Related
-
-- [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]

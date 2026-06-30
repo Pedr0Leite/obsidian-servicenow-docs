@@ -14,7 +14,7 @@ breadcrumb: [Document Management integration with external content providers, Us
 
 # Upload to a cloud
 
-Upload documents from [[doc-management-landing|Document Management]] to an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive.
+Upload documents from Document Management to an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: mp\_document\_admin
 
 3.  For a newly created record, [create a document version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-doc-version.md).
 
-4.  Select the **[[c_Connect|Connect]] With External Provider** [[check-box|check box]].
+4.  Select the **Connect With External Provider** check box.
 
 5.  Select **Upload to Cloud**.
 
@@ -51,7 +51,7 @@ Role required: mp\_document\_admin
 
 8.  -   For uploading a default version you can select **Remove from instance** check box to remove the attached version from the database.
 
-    **Note:** The removed [[attachment|attachment]] version will still appear for tracking.
+    **Note:** The removed attachment version will still appear for tracking.
 
 -   For uploading a local version you can select **Do not store instance** check box not to store the attachment in the database.
 
@@ -68,9 +68,3 @@ Role required: mp\_document\_admin
 
 **Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integration-external-content-providers.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]

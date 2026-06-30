@@ -74,7 +74,7 @@ Third-party risk component criteria
 
 </td><td>
 
-Criteria for third-party [[risk-assessments|risk assessments]], engagements, and subsidiaries that applies to this risk scoring rule.
+Criteria for third-party risk assessments, engagements, and subsidiaries that applies to this risk scoring rule.
 
  Components are the entities for which you can assess risk \(for example, subsidiaries or engagements\). A component criteria is a group of components that should apply to a particular type of third party or engagement.
 
@@ -107,6 +107,4 @@ Use the [condition builder](https://raw.githubusercontent.com/ServiceNow/Service
 </td></tr></tbody>
 </table>    \[Omitted image "new-vendor-risk-scoring-rule.png"\] Alt text: New third-party risk scoring rule.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

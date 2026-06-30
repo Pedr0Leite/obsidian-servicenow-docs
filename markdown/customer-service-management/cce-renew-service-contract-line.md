@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Renew a customer contract line
 
-Renew a customer contract line on the [[csm-workspaces-configure|CSM Configurable Workspace]]. You can renew the services specified in the customer contract line and its associated child customer contract lines and entitlements.
+Renew a customer contract line on the CSM Configurable Workspace. You can renew the services specified in the customer contract line and its associated child customer contract lines and entitlements.
 
 ## About this task
 
@@ -33,13 +33,13 @@ Role required:
 
 2.  In the list view, navigate to **Contracts and Entitlements** &gt; **Customer Contracts**.
 
-3.  In the customer contract [[migration-lists|lists]], select the customer contract that you want to renew.
+3.  In the customer contract lists, select the customer contract that you want to renew.
 
 4.  In the customer contract lines related list, select the customer contract lines that you want to renew.
 
 5.  Select **Renew**.
 
-    The target entity is created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to renew the customer contract line is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the customer contract line is created. You can select the order number from the confirmation message to review the renewal order.
@@ -66,9 +66,3 @@ Role required:
 
 The new customer contract line is created with the renewed contract line in the Draft state. You can see more details in the Renewal History related list.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[gamification-components-rules|Rules]]

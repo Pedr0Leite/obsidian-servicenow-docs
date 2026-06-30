@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Define a production day
 
-Define a production day for your organization within [[industrial-connected-workforce-overview|Industrial Connected Workforce]].
+Define a production day for your organization within Industrial Connected Workforce.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ The production day calendar record automatically includes a reference to the sou
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

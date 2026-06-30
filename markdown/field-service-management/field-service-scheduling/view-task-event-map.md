@@ -14,7 +14,7 @@ breadcrumb: [Viewing tasks or events on the calendar, Using Dispatcher Workspace
 
 # View a task or event on the calendar from the map
 
-Quickly view tasks or events on the calendar from the map in [[dispatcher-activities|Dispatcher Workspace]].
+Quickly view tasks or events on the calendar from the map in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ If you are in map mode and select **View on calendar**, then you’re switched t
 
     The calendar displays the task at its scheduled date and time, with the assigned agent in the **Added resources** section.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

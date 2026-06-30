@@ -14,7 +14,7 @@ breadcrumb: [Suggested resolutions and remedial actions, Incident diagnostics an
 
 # Run remedial actions from the Action library
 
-Run remedial actions from the Action library in [[dex-diagnostics-guided-resolutions|incident investigation with DEX]] to resolve detected device and application issues.
+Run remedial actions from the Action library in incident investigation with DEX to resolve detected device and application issues.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sn\_dex.service\_desk\_user, sn\_dex.engineer
 
 Monitor the progress of an action or cancel an ongoing action from the playbook panel. For more information, see [Manage remedial actions in DEX incident investigation Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/manage-incident-remedial-actions-playbook.md).
 
-## Related
-
-- [[dex-diagnostics-guided-resolutions|Incident investigation with DEX]]

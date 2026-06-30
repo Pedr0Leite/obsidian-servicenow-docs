@@ -14,7 +14,7 @@ breadcrumb: [Enhancement steps, Implement, Policy and Compliance Management, Gov
 
 # Set up GRC Virtual Agent
 
-Set up the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Virtual Agent to request an exception to a policy or a control objective from the Service Portal.
+Set up the Governance, Risk, and Compliance Virtual Agent to request an exception to a policy or a control objective from the Service Portal.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Customers must have the following plugins activated for setting up the GRC Virtu
 
 -   Glide Virtual agent \(com.glide.cs.chatbot\) activated with a valid license.
 -   GRC
--   [[r_PolicyComplianceMgmt|Policy and Compliance Management]].
+-   Policy and Compliance Management.
 
 ## About this task
 
@@ -49,7 +49,3 @@ A virtual agent chatbot enables customers to request an exception. The chatbot a
 
 **Parent Topic:**[Policy and Compliance Management enhancement steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

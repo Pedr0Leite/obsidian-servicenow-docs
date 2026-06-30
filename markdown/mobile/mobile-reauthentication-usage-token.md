@@ -60,8 +60,5 @@ Value
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[mobile-reautentication-concept|Configure mobile re-authentication system properties]]
+**Parent Topic:**[Configure mobile re-authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reautentication-concept.md)
 
-## Related
-
-- [[mobile-reautentication-concept|Configure mobile re-authentication system properties]]

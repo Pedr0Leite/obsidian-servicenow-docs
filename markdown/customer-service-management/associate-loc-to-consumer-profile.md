@@ -12,7 +12,7 @@ breadcrumb: [Creating multiple consumer profiles for a user, Configure consumers
 
 # Associating locations to consumer profiles
 
-By enabling relationships between consumer profiles and locations across industries such as Financial Services Operations, Healthcare and Life Sciences, and Public Sector Digital Services Core, multiple consumer profiles can be associated with their corresponding addresses in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+By enabling relationships between consumer profiles and locations across industries such as Financial Services Operations, Healthcare and Life Sciences, and Public Sector Digital Services Core, multiple consumer profiles can be associated with their corresponding addresses in the Customer Service Management \(CSM\) application.
 
 ## Overview of consumer profiles
 
@@ -27,12 +27,7 @@ In some scenarios, business-to-consumer \(B2C\) customers may have multiple addr
 **Related topics**  
 
 
-[[assoc-existing-consumer-loc|Associate an existing consumer location with a consumer profile]]
+[Associate an existing consumer location with a consumer profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assoc-existing-consumer-loc.md)
 
-[[creating-loc-and-assoc-to-consumer-profile|Create and associate a location to a consumer profile]]
+[Create and associate a location to a consumer profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/creating-loc-and-assoc-to-consumer-profile.md)
 
-## Related
-
-- [[assoc-existing-consumer-loc|Associate an existing consumer location with a consumer profile]]
-- [[creating-loc-and-assoc-to-consumer-profile|Create and associate a location to a consumer profile]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

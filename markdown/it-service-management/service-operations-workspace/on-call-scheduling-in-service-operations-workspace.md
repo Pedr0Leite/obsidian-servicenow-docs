@@ -14,7 +14,7 @@ breadcrumb: [Exploring Service Operations Workspace for ITSM, Service Operations
 
 # Exploring On-call Scheduling in Service Operations Workspace
 
-[[c_OnCallScheduling|On-Call Scheduling]] ensures that dedicated support team members are always available to resolve issues as they arise. You can set up on-call schedules, roster rotations, and escalation policies, escalate notifications for a group, and determine the current contact for an escalation.
+On-Call Scheduling ensures that dedicated support team members are always available to resolve issues as they arise. You can set up on-call schedules, roster rotations, and escalation policies, escalate notifications for a group, and determine the current contact for an escalation.
 
 You can access your shifts and schedules within Service Operations Workspace using **Schedules** options.
 
@@ -83,7 +83,7 @@ itil, rota\_manager \(Shift Manager\), rota\_admin
 
 </td></tr><tr><td>
 
-Create your own escalation policies and path. On-Call Scheduling allows you to [[create-trigger-rule-oncall|create an escalation trigger rule]] using the templates available, based on your requirement.
+Create your own escalation policies and path. On-Call Scheduling allows you to create an escalation trigger rule using the templates available, based on your requirement.
 
 </td><td>
 
@@ -138,7 +138,3 @@ rota\_admin, admin
 
 [Exploring Recommended Actions for ITSM in Service Operations Workspace]()
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[create-trigger-rule-oncall|Create an escalation trigger rule]]

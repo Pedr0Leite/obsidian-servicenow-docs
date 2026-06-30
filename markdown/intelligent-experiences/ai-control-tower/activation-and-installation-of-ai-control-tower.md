@@ -19,12 +19,12 @@ The following section provides an order of installing the applications and their
 
 ## Installation overview
 
-When you install **[[ai-control-tower-landing|AI Control Tower]] \(sn\_aict\)**, the following dependent plugins are installed in order:
+When you install **AI Control Tower \(sn\_aict\)**, the following dependent plugins are installed in order:
 
-1.  AI Control Tower Core — Combines [[ai-assets|AI assets]] and [[controls|controls]] in a central hub for governance and management.
-2.  AI Asset Management — Collects information, tracks changes, and manages the lifecycle of AI artifacts such as [[ai-system|AI systems]], models, [[ai-datasets|datasets]], and [[ai-prompts|prompts]].
+1.  AI Control Tower Core — Combines AI assets and controls in a central hub for governance and management.
+2.  AI Asset Management — Collects information, tracks changes, and manages the lifecycle of AI artifacts such as AI systems, models, datasets, and prompts.
 3.  AI Risk and Compliance Management — Supports end-to-end lifecycle management of AI risks, including risk classification of AI assets, mapping to regulatory authority documents, continuous monitoring, and policy compliance.
-4.  AI Case Management — Enables tracking, triaging, and resolution of incidents or [[inquiries|inquiries]] related to AI systems. Compliance officers, AI stewards, and stakeholders can use it to manage AI-related exceptions, investigations, and operational events.
+4.  AI Case Management — Enables tracking, triaging, and resolution of incidents or inquiries related to AI systems. Compliance officers, AI stewards, and stakeholders can use it to manage AI-related exceptions, investigations, and operational events.
 5.  AI Risk and Compliance integration with Control Tower — Connects AI Risk and Compliance with the AI Control Tower workspace. Users can monitor risk postures, compliance statuses, and case workflows directly within the Control Tower interface.
 6.  AI Risk and Compliance content \(optional\) — Provides prebuilt content to support compliance with applicable laws, regulations, directives, and standards. Verify that the content reflects the laws, regulations, directives, and standards applicable to your organization.
 
@@ -90,12 +90,3 @@ AI Control Tower
 
 For information about downloading any application from ServiceNow store, see [Download any application from ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[controls|Controls]]
-- [[ai-system|AI systems]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]
-- [[inquiries|Inquiries]]

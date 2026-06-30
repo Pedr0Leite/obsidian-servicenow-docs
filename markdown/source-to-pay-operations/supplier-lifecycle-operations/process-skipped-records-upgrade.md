@@ -14,7 +14,7 @@ breadcrumb: [Post-upgrade tasks, Install Supplier Case Management, Configure, Su
 
 # Processing the skipped supplier catalog item records after upgrade
 
-After you upgrade to Australia, the latest [[supplier|supplier]] catalog items may get skipped and therefore may not be available after the upgrade.
+After you upgrade to Australia, the latest supplier catalog items may get skipped and therefore may not be available after the upgrade.
 
 For example, when onboarding a new supplier, the supplier onboarding flow includes a supplier task that creates a new record for supplier location and payment information using catalog items. Because the latest catalog items may not be available after the upgrade, the onboarding flow may get affected.
 
@@ -43,6 +43,3 @@ If you notice that the supplier catalog item records have been skipped during th
 
 [Restructured Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)
 
-## Related
-
-- [[supplier|Supplier]]

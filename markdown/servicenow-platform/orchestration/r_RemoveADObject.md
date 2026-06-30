@@ -16,7 +16,7 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Remove AD Object activity deletes an object from Windows Active Directory.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 **Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_PowershellActivityDesigner.md).
 
@@ -36,7 +36,7 @@ DomainController
 
 </td><td>
 
-[[ip-address|IP address]] of the domain controller machine.
+IP address of the domain controller machine.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,3 @@ The object type to remove: -   **user**
 
 **Parent Topic:**[Active Directory activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring, Critical Event Management, Health and Safety, Employee
 
 # Configure Critical Event Management application properties
 
-Configure the application properties for [[critical-event-management|Critical Event Management]] \(CEM\) to access the map feature on the dashboard and to. set the maximum contacts for Email and SMS according to organizational needs.
+Configure the application properties for Critical Event Management \(CEM\) to access the map feature on the dashboard and to. set the maximum contacts for Email and SMS according to organizational needs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Critical Event Management** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Critical Event Management** &gt; **Properties**.
 
 2.  Set the number of active critical event cards to be displayed on the dashboard.
 
@@ -46,7 +46,4 @@ Role required: admin
 
 7.  Select **Save**.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]

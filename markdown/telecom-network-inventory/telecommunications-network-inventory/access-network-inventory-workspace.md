@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Access Network Inventory Workspace
 
-You set the network domain in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] to view your inventory data and your assignments based on the domain that you select.
+You set the network domain in the Network Inventory Workspace to view your inventory data and your assignments based on the domain that you select.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 You set the network domain to view your inventory and assignments.
 
--   The information that appears in each of the [[network-inventory-workspace-landing-page|landing page]] widgets then refreshes, depending on the selected domain.
+-   The information that appears in each of the landing page widgets then refreshes, depending on the selected domain.
 -   The landing page continues to show the data for the selected domain until you change the domain filtering.
 
 ## Procedure
@@ -59,7 +59,3 @@ You set the network domain to view your inventory and assignments.
 
 [Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-landing-page|Landing page]]

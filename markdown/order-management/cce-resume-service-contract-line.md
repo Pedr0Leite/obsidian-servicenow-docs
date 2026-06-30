@@ -28,7 +28,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract.
 
-4.  In the customer contract lines related list, select the customer contract line that you want to [[Resume|resume]].
+4.  In the customer contract lines related list, select the customer contract line that you want to resume.
 
 5.  Select **Resume**.
 
@@ -49,6 +49,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 With the customer contract line, all the associated entities in the hierarchy are also back in Active or Draft state, depending on the start date of the respective entity.
 
-## Related
-
-- [[Resume|Resume]]

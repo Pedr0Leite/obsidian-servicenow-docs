@@ -25,7 +25,7 @@ Role required: sn\_icw.user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]** &gt; **Equipment Model**.
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Equipment Model**.
 
     You can view the functional location that is set in your worker profile.
 
@@ -40,6 +40,3 @@ Role required: sn\_icw.user
 
 **Parent Topic:**[Functional location vertical navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/functional-location-vertical-navigation.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

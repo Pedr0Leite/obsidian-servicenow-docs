@@ -14,13 +14,13 @@ breadcrumb: [Supported IBM license types, Software Asset Management publisher pa
 
 # IBM user-based licenses
 
-You can use the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] to track and manage your IBM user-based licenses, including authorized user licenses and user value unit \(UVU\)-based licenses.
+You can use the Software Asset Management publisher pack for IBM to track and manage your IBM user-based licenses, including authorized user licenses and user value unit \(UVU\)-based licenses.
 
 Supported UVU-based licenses include authorized UVU, employee UVU, and external UVU. The publisher pack adds license metrics that are specific to IBM so that you can calculate licensing for these license types.
 
-IBM user-based licensing enables you to license the users who require access to your IBM software products. You can track and optimize the compliance of your IBM user-based licenses by reconciling the associated IBM software products through client access records. With a client access record, you can specify the total number of users who are granted access to a particular version of an IBM software product. For more granular control, you can also identify the specific users who are granted access to that product. The [[c_SoftwareAssetMgmt|Software Asset Management]] application can then compare this information against the software rights and allocations that are defined in the corresponding software entitlements to determine if the associated user-based licenses are compliant.
+IBM user-based licensing enables you to license the users who require access to your IBM software products. You can track and optimize the compliance of your IBM user-based licenses by reconciling the associated IBM software products through client access records. With a client access record, you can specify the total number of users who are granted access to a particular version of an IBM software product. For more granular control, you can also identify the specific users who are granted access to that product. The Software Asset Management application can then compare this information against the software rights and allocations that are defined in the corresponding software entitlements to determine if the associated user-based licenses are compliant.
 
-For more information on client access records in the [[sam-workspace|Software Asset Workspace]], see [Create a software client access record in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-clientaccess-workspace.md). For more information on client access records in the Software Asset Management classic application, see [Add a software client access record in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAClientAccessRec.md).
+For more information on client access records in the Software Asset Workspace, see [Create a software client access record in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-clientaccess-workspace.md). For more information on client access records in the Software Asset Management classic application, see [Add a software client access record in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAClientAccessRec.md).
 
 ## Authorized user licensing
 
@@ -343,8 +343,3 @@ Number of Rights Required
 </td></tr></tbody>
 </table>**Parent Topic:**[Supported IBM license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-ibm-license-types.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

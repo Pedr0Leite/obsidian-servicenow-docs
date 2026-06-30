@@ -14,7 +14,7 @@ breadcrumb: [Currency conversion and third-party total expense aggregation, Use 
 
 # Convert and aggregate contractual expenses to regulator-required currencies
 
-[[create-excel-report-aggregate-expenses|Convert and aggregate contractual expenses to regulator-required currencies]] and generate consolidated reports for reporting submission.
+Convert and aggregate contractual expenses to regulator-required currencies and generate consolidated reports for reporting submission.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_admin or sn\_vdr\_risk\_asmt.vendor\_
 
 ## About this task
 
-Administrators maintain the currency rates and validation rules. Currency rates populate automatically using a daily scheduled job once the instance is activated. Administrators or DORA administrators can update currency rates and validation rules to align with regulator requirements by navigating to **All** &gt; **Digital [[grc-opres-landing-page|Operational Resilience]] Management** &gt; **Digital Resilience Choices** or **DPM Business Validation Rules**.
+Administrators maintain the currency rates and validation rules. Currency rates populate automatically using a daily scheduled job once the instance is activated. Administrators or DORA administrators can update currency rates and validation rules to align with regulator requirements by navigating to **All** &gt; **Digital Operational Resilience Management** &gt; **Digital Resilience Choices** or **DPM Business Validation Rules**.
 
 ## Procedure
 
@@ -60,7 +60,4 @@ Administrators maintain the currency rates and validation rules. Currency rates 
 
     If any providers were ineligible for aggregation, the aggregation summary and detail reports identify those providers and explains the reason they were skipped.
 
-## Related
 
-- [[create-excel-report-aggregate-expenses|Convert and aggregate contractual expenses to regulator-required currencies]]
-- [[grc-opres-landing-page|Operational Resilience]]

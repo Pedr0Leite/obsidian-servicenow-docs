@@ -14,7 +14,7 @@ breadcrumb: [Reference Opportunity Marketplace roles and tables, Opportunity Mar
 
 # Components, tables, and roles used by Opportunity Marketplace \(OPM\)
 
-Learn about the components used with [[egd-oppt-mrktplc-landing|Opportunity Marketplace]].
+Learn about the components used with Opportunity Marketplace.
 
 ## Opportunity Marketplace roles and tables
 
@@ -179,11 +179,11 @@ Tracks the details of opportunities that have been shared with an employee, such
 -   **Sender**: The employee who sent or shared the opportunity with another employee.
 
 </td></tr></tbody>
-</table>## [[hiring-core|Hiring Core]] tables and roles
+</table>## Hiring Core tables and roles
 
 Hiring Core \[sn\_ta\_hiring\_core\] is a dependent application that is installed when you install OPM.
 
-Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your [[hiring-tab-concept|hiring]] requirements.
+Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your hiring requirements.
 
 The description contains examples of some of the available columns. Select the gear icon to see all the available columns \(fields\).
 
@@ -244,7 +244,7 @@ Extracted Skill \[sn\_ta\_hiring\_core\_extracted\_skills\]
 
 </td><td>
 
-Track's details about skills extracted from the [[skills-intelligence|Skills Foundation]] app, including-   **Job applicant**
+Track's details about skills extracted from the Skills Foundation app, including-   **Job applicant**
 -   **Skill**
 -   **Skill name**
 
@@ -452,9 +452,3 @@ Recruitment coordinator
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-references.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]
-- [[skills-intelligence|Skills Foundation]]

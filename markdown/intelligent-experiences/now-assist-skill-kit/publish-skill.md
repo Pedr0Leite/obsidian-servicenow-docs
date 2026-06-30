@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Finalize and publish a skill
 
-When you're satisfied with your skill's [[ai-prompts|prompts]] and configuration, finalize the prompt and publish the skill to make it available for a [[platform-now-assist-landing|Now Assist]] admin to activate.
+When you're satisfied with your skill's prompts and configuration, finalize the prompt and publish the skill to make it available for a Now Assist admin to activate.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Publishing a skill is a two-part process. First, you must finalize at least one 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to publish.
 
@@ -73,8 +73,3 @@ A Now Assist admin must activate the skill before users can trigger it. To learn
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[ai-prompts|Prompts]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

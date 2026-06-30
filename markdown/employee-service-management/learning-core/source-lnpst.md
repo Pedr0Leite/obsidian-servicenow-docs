@@ -14,7 +14,7 @@ breadcrumb: [Integrating Learning Core with third-party learning management syst
 
 # Sources for Learning Core
 
-Once you set up the [[learning-core_overview|Learning Core]] application, the source record for Cornerstone On Demand, Pluralsight, Udemy, Sumtotal, and Saba applications are automatically created in the Source module in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. The source records in the Enterprise Service Management Integrations Framework application contain a predefined set of properties and integration services.
+Once you set up the Learning Core application, the source record for Cornerstone On Demand, Pluralsight, Udemy, Sumtotal, and Saba applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. The source records in the Enterprise Service Management Integrations Framework application contain a predefined set of properties and integration services.
 
 <table id="table_tyz_xpj_1nb"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Properties
 </td><td>
 
 Set of properties that are predefined for the Cornerstone OnDemand application.-   **page\_size**: Number of records that are pulled through an API call from the Cornerstone OnDemand application.
--   **full\_pull**: When set to **True**, all the active users and [[exploring-learning-exp|learning]] courses from the Cornerstone OnDemand system are pulled into the ServiceNow application.
+-   **full\_pull**: When set to **True**, all the active users and learning courses from the Cornerstone OnDemand system are pulled into the ServiceNow application.
 
 When set to **False**, modified users, modified transcripts, and updated courses are pulled from the Cornerstone OnDemand system into the ServiceNow instance.
 
@@ -64,7 +64,7 @@ Services that interact with the Cornerstone OnDemand application to pull or push
 **Note:** If you want to use user\_id or user\_name field for mapping users, then override**getCornerstoneUser method** in the sn\_lc.UserMappingUtil script.
 
 -   **Courses**: Pulls learning courses from the Cornerstone OnDemand application into the ServiceNow application.
--   **User [[activity-lxp|activity]]**: Pulls details of user activity on learning courses from the Cornerstone OnDemand application into the ServiceNow application.
+-   **User activity**: Pulls details of user activity on learning courses from the Cornerstone OnDemand application into the ServiceNow application.
 
 </td></tr></tbody>
 </table><table id="table_fqb_b4y_mpb"><thead><tr><th>
@@ -229,9 +229,3 @@ Services that interact with the Saba application to pull or push learning course
 </td></tr></tbody>
 </table>**Parent Topic:**[Integrating Learning Core with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/setup-learning-third-party-1.md)
 
-## Related
-
-- [[learning-core_overview|Learning Core]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

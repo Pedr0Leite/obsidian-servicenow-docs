@@ -20,7 +20,7 @@ You can support synchronous mode for your conversation with primary bot.
 
 Role required: admin
 
-Ensure to exclude the Bot to Bot channel from [[ci-use-agent-chat|Agent Chat]].
+Ensure to exclude the Bot to Bot channel from Agent Chat.
 
 1.  Navigate to **All**, and then enter `sys_properties.list` in the filter.
 2.  Select the **com.glide.cs.exclude.liveagent.support** system property to open it.
@@ -51,6 +51,3 @@ Ensure to exclude the Bot to Bot channel from [[ci-use-agent-chat|Agent Chat]].
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

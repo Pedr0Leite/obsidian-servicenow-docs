@@ -23,7 +23,7 @@ To ensure that dependent CIs are properly managed after deleting or archiving CI
 1.  Enable dependent CIs management as described on this page.
 2.  Manually approve the [CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md) tasks that dependent CIs management generates, or configure those tasks to not require a review or an approval.
 
-**Note:** An Orphan dependent CI in the context of Data Manager is different from an orphan CI in the context of [[c_CMDBHealth|CMDB Health]]. An orphan dependent CI within the context of Data Manager belongs to a dependent class, and is missing the dependent relationship. The definition of an orphan CI in the context of CMDB Health is broader, and includes any CI that matches CMDB Health orphan rules. For more information about orphan CIs in CMDB Health, see [CMDB Health KPIs and metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_CMDBHealthMetrics.md).
+**Note:** An Orphan dependent CI in the context of Data Manager is different from an orphan CI in the context of CMDB Health. An orphan dependent CI within the context of Data Manager belongs to a dependent class, and is missing the dependent relationship. The definition of an orphan CI in the context of CMDB Health is broader, and includes any CI that matches CMDB Health orphan rules. For more information about orphan CIs in CMDB Health, see [CMDB Health KPIs and metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_CMDBHealthMetrics.md).
 
 Examples of dependent CIs needing cascade-cleanup:
 
@@ -185,6 +185,3 @@ For monitoring purposes, check the system logs for cleanup activity. Log message
 
 [Update the list of classes in the Principal Class filter]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee 
 
 # Workplace Central troubleshooting
 
-Troubleshoot issues that you face in the [[workplace-central-feat|Workplace Central]] application.
+Troubleshoot issues that you face in the Workplace Central application.
 
 ## Condition
 
@@ -68,6 +68,3 @@ After transferring Workplace Central data between ServiceNow ServiceNow instance
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

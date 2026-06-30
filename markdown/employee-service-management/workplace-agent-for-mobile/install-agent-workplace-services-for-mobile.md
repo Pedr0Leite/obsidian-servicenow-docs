@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Agent for mobile, Workplace Service Delivery, 
 
 # Install Workplace Agent for mobile
 
-Install the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Agent for mobile application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Complete the following setup instructions:
     The list displays the subscriptions that your organization has purchased.
 
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
-    -   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
-    -   [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] \(sn\_wsd\_maintenance\)
-    -   [[workplace-move-mgmt-overview|Workplace Move Management]] \(sn\_wsd\_move\)
-    -   Workplace [[Indoor-mapping|Indoor Mapping]] \(sn\_wsd\_indoor\_map\)
+    -   Workplace Core \(sn\_wsd\_core\)
+    -   Workplace Case Management \(sn\_wsd\_case\)
+    -   Workplace Maintenance Management \(sn\_wsd\_maintenance\)
+    -   Workplace Move Management \(sn\_wsd\_move\)
+    -   Workplace Indoor Mapping \(sn\_wsd\_indoor\_map\)
     -   Expanded Model and Asset Classes\(sn\_ent\)
 
 Use the following details when required:
@@ -53,7 +53,7 @@ Role required: admin
 
 4.  In the Application installation dialog box, review the application dependencies.
 
-    Dependent plugins and applications are listed if they will be installed, are currently installed, or need to be installed. If there are any plugins or applications that need to be installed, you must install them before you can [[install-workplace-case-mgmt|install Workplace Case Management]].
+    Dependent plugins and applications are listed if they will be installed, are currently installed, or need to be installed. If there are any plugins or applications that need to be installed, you must install them before you can install Workplace Case Management.
 
 5.  If demo data is available and you want to install it, click **Load demo data**.
 
@@ -66,12 +66,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Workplace Agent for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/configure-workplace-mobile-agent.md)
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[install-workplace-case-mgmt|Install Workplace Case Management]]

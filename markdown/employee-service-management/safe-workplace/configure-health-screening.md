@@ -36,7 +36,7 @@ Employers remain solely responsible for complying with their legal obligations u
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-screening|Employee Health Screening]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Employee Health Screening** &gt; **Properties**.
 
 2.  Set the following property values.
 
@@ -78,7 +78,7 @@ Enforce cleared status as condition for Health Screening.\[sn\_imt\_monitoring.e
 
 </td><td>
 
-If the **Yes/No** box is selected, each employee must have a **Cleared** status to gain entry to a location. If the **Yes/No** box is cleared, a user's [[health-safety-overview|health and safety]] status does not automatically deny entry.
+If the **Yes/No** box is selected, each employee must have a **Cleared** status to gain entry to a location. If the **Yes/No** box is cleared, a user's health and safety status does not automatically deny entry.
 
 </td></tr><tr><td>
 
@@ -158,9 +158,9 @@ Setting this property to true will show QR code for entry.\[sn\_imt\_monitoring.
 
 </td><td>
 
-If the **Yes/No** check box is selected, a QR code is displayed when an employee agrees to the health verification form. A health monitor at an entry point scans the code to review the employee's health requirements status. **Note:** Requirements are created in the [[employee-readiness-core|Employee Readiness Core]] application. For more information, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
+If the **Yes/No** check box is selected, a QR code is displayed when an employee agrees to the health verification form. A health monitor at an entry point scans the code to review the employee's health requirements status. **Note:** Requirements are created in the Employee Readiness Core application. For more information, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
 
- The QR code can be printed or displayed on a mobile device with the [[mobile-employee-experience|Now Mobile app]].
+ The QR code can be printed or displayed on a mobile device with the Now Mobile app.
 
 </td></tr><tr><td>
 
@@ -344,9 +344,4 @@ This email is sent to the visitor, the employee who invited them, and anyone on 
 
 5.  Click **Update**.
 
-## Related
 
-- [[employee-health-screening|Employee Health Screening]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[mobile-employee-experience|Now Mobile app]]

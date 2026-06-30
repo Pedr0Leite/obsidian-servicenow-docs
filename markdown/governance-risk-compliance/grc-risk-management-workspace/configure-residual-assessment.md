@@ -22,17 +22,17 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-Use a residual assessment to identify and assess the risks that exist after any controls are implemented. If no controls are identified, then the residual risk is the same as an inherent risk. If the [[factors|factors]] for an inherent assessment are used a residual assessment, then you can copy the assessment contribution, qualitative scoring logic, factors, and qualitative rating criteria from the inherent assessment. You can also choose how you want to derive the score of the residual assessment.
+Use a residual assessment to identify and assess the risks that exist after any controls are implemented. If no controls are identified, then the residual risk is the same as an inherent risk. If the factors for an inherent assessment are used a residual assessment, then you can copy the assessment contribution, qualitative scoring logic, factors, and qualitative rating criteria from the inherent assessment. You can also choose how you want to derive the score of the residual assessment.
 
 ## Procedure
 
-1.  Navigate to the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] form that has the residual risk as an assessment type.
+1.  Navigate to the risk assessment methodology \(RAM\) form that has the residual risk as an assessment type.
 
 2.  In the Assessment Types related list, select **Residual Assessment**.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[residual-assessment-form|residual assessment form]], see [Residual Assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/residual-assessment-form.md).
+    For a description of the field values on the residual assessment form, see [Residual Assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/residual-assessment-form.md).
 
 4.  If you selected **Factor responses** in the **Calculate based on** field, then select the Factors related list so that you can add factors to the residual assessment.
 
@@ -94,7 +94,7 @@ Risk appetite scale
 
 </td><td>
 
-Risk appetite scale for the risk rating criteria. Appetite scales must be mapped to the qualitative risk rating criteria in the risk assessment methodology. Compute the qualitative appetite status that is based on the latest assessment or aggregated rating to provide the qualitative appetite status. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the [[advanced-risk-assessment|advanced risk assessment]] properties. **Important:** In a qualitative risk assessment, map the risk appetite scale to the risk rating criteria for the final assessment type. For example, if you have both residual and inherent assessments, map the risk appetite scale to the risk rating criteria in the residual assessment.
+Risk appetite scale for the risk rating criteria. Appetite scales must be mapped to the qualitative risk rating criteria in the risk assessment methodology. Compute the qualitative appetite status that is based on the latest assessment or aggregated rating to provide the qualitative appetite status. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the advanced risk assessment properties. **Important:** In a qualitative risk assessment, map the risk appetite scale to the risk rating criteria for the final assessment type. For example, if you have both residual and inherent assessments, map the risk appetite scale to the risk rating criteria in the residual assessment.
 
 </td></tr></tbody>
 </table>    **Note:** Don’t enter negative values in the Qualitative Rating Criteria form.
@@ -143,9 +143,3 @@ Use the Residual Assessment form in the Advanced Risk application to assess the 
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[residual-assessment-form|residual assessment form]]
-- [[advanced-risk-assessment|advanced risk assessment]]

@@ -20,7 +20,7 @@ Role required: itil, report\_user, viz\_creator, or higher, and the right to edi
 
 ## About this task
 
-You may want to add a data visualization that exists only as a local copy on an in-line dashboard to the data visualization library. You may want to do this to make the data visualization available to add to other dashboards. You may also want to be able to edit the data visualization in the Visualization Designer, as described in [[open-dv-on-db-in-vd|Open a visualization in the Visualization Designer from a dashboard]].
+You may want to add a data visualization that exists only as a local copy on an in-line dashboard to the data visualization library. You may want to do this to make the data visualization available to add to other dashboards. You may also want to be able to edit the data visualization in the Visualization Designer, as described in [Open a visualization in the Visualization Designer from a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/open-dv-on-db-in-vd.md).
 
 ## Procedure
 
@@ -28,7 +28,7 @@ You may want to add a data visualization that exists only as a local copy on an 
 
 2.  Locate or create the relevant data visualization.
 
-    See [[creating-data-visualizations|Creating data visualizations]].
+    See [Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md).
 
 3.  Expand the data visualization 3-dot menu.
 
@@ -45,10 +45,5 @@ You may want to add a data visualization that exists only as a local copy on an 
 
 The data visualization now exists in the data visualization library. You can edit it as described in [Open a visualization in the Visualization Designer from a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/open-dv-on-db-in-vd.md).
 
-**Parent Topic:**[[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]
+**Parent Topic:**[Edit a data visualization in an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/editing-dv-in-line-db.md)
 
-## Related
-
-- [[open-dv-on-db-in-vd|Open a visualization in the Visualization Designer from a dashboard]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]

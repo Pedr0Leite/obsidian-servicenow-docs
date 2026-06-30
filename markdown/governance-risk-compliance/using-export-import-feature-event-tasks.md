@@ -157,18 +157,12 @@ The following table summarizes the limitations to consider when you use the impo
 
 ## Import and export integration reference
 
-For information on Import and export integration reference, see [[installed-with-bcm|Import and export integration reference]].
+For information on Import and export integration reference, see [Import and export integration reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/installed-with-bcm.md).
 
--   **[[export-import-event-tasks-using-excel|Export data into Microsoft Excel and update the file]]**  
+-   **[Export data into Microsoft Excel and update the file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/export-import-event-tasks-using-excel.md)**  
 Export event task records to an Microsoft Excel file, edit the data offline, and re-import the updated file to apply changes in bulk. Use this task for updating multiple event task records simultaneously outside the ServiceNow interface.
--   **[[import-data-from-excel|Import data from Microsoft Excel]]**  
+-   **[Import data from Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-data-from-excel.md)**  
 Import data such as event task records from Microsoft Excel to apply changes in bulk. Use this task for updating multiple event task records simultaneously outside the ServiceNow interface.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[installed-with-bcm|Components installed with Business Continuity Management]]
-- [[export-import-event-tasks-using-excel|Export data into Microsoft Excel and update the file]]
-- [[import-data-from-excel|Import data from Microsoft Excel]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]

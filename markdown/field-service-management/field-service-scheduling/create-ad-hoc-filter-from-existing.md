@@ -14,7 +14,7 @@ breadcrumb: [Managing ad hoc filters, Using Dispatcher Workspace, Assigning task
 
 # Create an ad hoc filter from an existing filter
 
-Create ad hoc filters from existing filters from [[dispatcher-activities|Dispatcher Workspace]].
+Create ad hoc filters from existing filters from Dispatcher Workspace.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The new filter is added to the filter search drop-down.
 -   If the filter wasn’t saved, it’s added as **Temporary filter**.
 -   If the filter was saved, the new filter is added to the drop-down and to **List** &gt; **Saved Filters** &gt; **Task Filters**.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

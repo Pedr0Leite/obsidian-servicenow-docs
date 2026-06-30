@@ -25,7 +25,7 @@ For request records, users can:
 
 **Note:** If a case does not have any related records, the Related Records widget does not appear on the case view page.
 
-From the Customer and Consumer Service Portals, users can view [[migration-lists|lists]] of cases and requests by doing one of the following:
+From the Customer and Consumer Service Portals, users can view lists of cases and requests by doing one of the following:
 
 -   Selecting **My Lists** in the portal menu header.
 -   Selecting **Requests** &gt; **All Requests** in the portal menu header.
@@ -37,6 +37,3 @@ The list view page includes a **My Lists** filter with the following options:
 -   **My Issues**: Displays the cases that were not initiated as a request.
 -   **My Requests**: Displays the cases that were created as a request.
 
-## Related
-
-- [[migration-lists|Lists]]

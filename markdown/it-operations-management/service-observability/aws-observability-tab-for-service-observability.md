@@ -20,7 +20,7 @@ Dashboard and charts on the Amazon CloudWatch tab of the Service Details page in
 
 This dashboard displays performance metrics for the selected service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart|Description|Data source|
 |-----|-----------|-----------|
@@ -79,6 +79,3 @@ This dashboard displays metrics for RDS databases related to the service.
 
 **Parent Topic:**[Amazon CloudWatch templates for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/aws-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

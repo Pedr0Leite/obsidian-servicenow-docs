@@ -14,7 +14,7 @@ breadcrumb: [Create a change request, Use, Change Management, IT Service Managem
 
 # Create a standard change request from the catalog
 
-You can create a standard change request from the published [[c_StandardChangeCatalogPlugin|standard change catalog]] templates.
+You can create a standard change request from the published standard change catalog templates.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ Create a standard change request for servers and attached storage.
 
 [Unauthorized change request]()
 
-## Related
-
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

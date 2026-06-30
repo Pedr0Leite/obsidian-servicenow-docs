@@ -15,11 +15,11 @@ breadcrumb: [Integrating IBM Watson Assistant conversations, Integrate VA with m
 
 # Integrating Virtual Agent with IBM Watson Assistant for Assistant V2 API
 
-Configure the IBM Watson Assistant Chat Integration to run a dialog skill \(conversation\) created in IBM Watson Assistant with the Assistant V2 API. The V2 API enables the [[virtual-agent-landing-page|Virtual Agent]] chat widget to run a topic that uses Watson Assistant's intent disambiguation feature to improve topic discovery.
+Configure the IBM Watson Assistant Chat Integration to run a dialog skill \(conversation\) created in IBM Watson Assistant with the Assistant V2 API. The V2 API enables the Virtual Agent chat widget to run a topic that uses Watson Assistant's intent disambiguation feature to improve topic discovery.
 
 ## Before you begin
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 With the IBM Watson Assistant v2 API chat integration, the chat widget communicates with an assistant instead of with a workspace. Workspaces are referred to as dialog skills. For information on IBM Watson Assistant, see [Migrating to the v2 API](https://cloud.ibm.com/docs/services/assistant?topic=assistant-api-migration&locale=en-us#overview) in the IBM Watson Assistant documentation.
 
@@ -73,7 +73,7 @@ The IBM Watson Assistant V2 API enables the chat widget to use the Watson Assist
     -   IBM Watson Assistant Integration V2 plugin \(com.glide.cs.ibm.watson.assistant.topicV2\)
 5.  In Virtual Agent Designer, publish the IBM Watson Assistant V2 topic:
 
-    1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer** and select the **NLU/keyword** toggle.**All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
+    1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and select the **NLU/keyword** toggle.**All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
     2.  In the Virtual Agent Designer home page, select the IBM Watson Assistant V2 topic to open the Topic Properties page.
 
@@ -146,9 +146,3 @@ The IBM Watson Assistant V2 API enables the chat widget to use the Watson Assist
 
 **Parent Topic:**[Integrating IBM Watson Assistant conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ibm-watson-assistant-config.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

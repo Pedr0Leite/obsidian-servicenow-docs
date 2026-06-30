@@ -25,7 +25,7 @@ Consider applying the Density Based Spatial Clustering of Applications with Nois
 
 ## About this task
 
-[[predictive-intelligence-landing|Predictive Intelligence]] uses the k-means algorithm by default in its clustering framework. DBSCAN is another clustering algorithm that's also used in data mining and machine learning. Some users prefer DBSCAN as it doesn't require you to specify the number of clusters in the data before clustering. For a summary of the pros and cons for each algorithm, see this [conversation](https://www.researchgate.net/post/What_is_the_difference_between_K-MEAN_and_density_based_clustering_algorithm_DBSCAN) and this [article](https://medium.com/@soroushhashemifar/kmeans-vs-dbscan-d9d5f9dbee8b).
+Predictive Intelligence uses the k-means algorithm by default in its clustering framework. DBSCAN is another clustering algorithm that's also used in data mining and machine learning. Some users prefer DBSCAN as it doesn't require you to specify the number of clusters in the data before clustering. For a summary of the pros and cons for each algorithm, see this [conversation](https://www.researchgate.net/post/What_is_the_difference_between_K-MEAN_and_density_based_clustering_algorithm_DBSCAN) and this [article](https://medium.com/@soroushhashemifar/kmeans-vs-dbscan-d9d5f9dbee8b).
 
 In this example scenario, you apply DBSCAN to a clustering solution.
 
@@ -71,6 +71,3 @@ In this example scenario, you apply DBSCAN to a clustering solution.
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

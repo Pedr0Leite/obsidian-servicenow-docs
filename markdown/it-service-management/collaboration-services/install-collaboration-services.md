@@ -14,11 +14,11 @@ breadcrumb: [Collaboration services, IT Service Management]
 
 # Install Collaboration services
 
-You can install the [[collab-services-tcm|Collaboration services]] application \(sn\_tcm\_collab\_hook\) if you have the admin role.
+You can install the Collaboration services application \(sn\_tcm\_collab\_hook\) if you have the admin role.
 
 ## Before you begin
 
--   Ensure that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Collaboration services requires the following ServiceNow Store applications. Ensure that these applications are installed before you install Collaboration services.
     -   **Required ServiceNow Store applications**
         -   **Slack Spoke for ServiceNow IntegrationHub \[com.sn.slack.ahv2\]**
@@ -27,7 +27,7 @@ You can install the [[collab-services-tcm|Collaboration services]] application \
 
         -   **ServiceNow for Microsoft Teams**
 
-            If you want to integrate ServiceNow for Microsoft Teams, install the [[r_ITServiceManagement|IT Service Management]] integration with Microsoft Teams or HR Service Delivery integration with Microsoft Teams applications as required. For more information on the integration, see [ServiceNow for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/c_ServiceNowForMSTeams.md).
+            If you want to integrate ServiceNow for Microsoft Teams, install the IT Service Management integration with Microsoft Teams or HR Service Delivery integration with Microsoft Teams applications as required. For more information on the integration, see [ServiceNow for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/c_ServiceNowForMSTeams.md).
 
         -   **ServiceNow for Zoom**
 
@@ -62,8 +62,4 @@ For the tables that are installed with Collaboration services, refer [Components
 
 5.  Select **Install**.
 
-## Related
 
-- [[collab-services-tcm|Collaboration services]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_ITServiceManagement|IT Service Management]]

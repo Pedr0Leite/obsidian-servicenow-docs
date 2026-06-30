@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB success advisor, Configuration Management Database 
 
 # Install CMDB success advisor
 
-You can install the [[cmdb-sa|CMDB success advisor]] application \(sn\_cmdb\_advisor\) if you have the admin role. The application installs related ServiceNow applications and plugins if they are not already installed.
+You can install the CMDB success advisor application \(sn\_cmdb\_advisor\) if you have the admin role. The application installs related ServiceNow applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -49,13 +49,10 @@ For more information, see [Components installed with CMDB success advisor](https
 
 4.  If you're prompted, follow the links to the ServiceNow Store to get any additional entitlements for dependencies.
 
-5.  If demo data is available and you want to install it, select the **Load demo data** [[check-box|check box]].
+5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[cmdb-sa|CMDB success advisor]]
-- [[check-box|Check box]]

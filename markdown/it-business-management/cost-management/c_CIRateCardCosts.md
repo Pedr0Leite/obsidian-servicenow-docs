@@ -32,7 +32,7 @@ Role required: financial\_mgmt\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **[[c_CIRateCards|CI Rate Cards]]**.
+1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **CI Rate Cards**.
 
 2.  Select a rate card.
 
@@ -256,6 +256,4 @@ Expense lines are the snapshot of a given interval's costs, so changing the cost
 
 4.  Modify the fields, as necessary.
 
-## Related
 
-- [[c_CIRateCards|CI rate cards]]

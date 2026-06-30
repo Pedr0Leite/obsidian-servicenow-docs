@@ -16,21 +16,21 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 Purchase requisitions can be merged if certain criteria are met. This avoids multiple purchase orders from being created unnecessarily and also helps enforce approval rule limits.
 
-Consider these various scenarios for [[purchase-requisition|purchase requisition]] grouping.
+Consider these various scenarios for purchase requisition grouping.
 
 ## Scenarios for merging purchase requisitions
 
-A procurement buyer can group new products by the same [[supplier|supplier]] into an existing requisition so that multiple orders are not sent to the supplier. Consider the following scenarios:
+A procurement buyer can group new products by the same supplier into an existing requisition so that multiple orders are not sent to the supplier. Consider the following scenarios:
 
-Scenario 1: A Purchase Requisition \(PR1\) for Supplier A exists, in state Pending Approval. [[purchase-order-table|Purchase Order]] \(PO\) has not been created.
+Scenario 1: A Purchase Requisition \(PR1\) for Supplier A exists, in state Pending Approval. Purchase Order \(PO\) has not been created.
 
 -   Sourcing not required:
 
-    If the shopper adds a supplier product from the same Supplier A in ShoppingHub, and it has the same submitted by, supplier, [[cost-center|cost center]], and business owner as PR1, then the lines are automatically grouped with PR1 with the state Pending Approval. PR1 remains in Pending Approval state. Approvals are re-assessed similar to revisions. If the line was created more than 24 hours after PR1, it is not grouped automatically and is created under a new purchase requisition.
+    If the shopper adds a supplier product from the same Supplier A in ShoppingHub, and it has the same submitted by, supplier, cost center, and business owner as PR1, then the lines are automatically grouped with PR1 with the state Pending Approval. PR1 remains in Pending Approval state. Approvals are re-assessed similar to revisions. If the line was created more than 24 hours after PR1, it is not grouped automatically and is created under a new purchase requisition.
 
 -   Sourcing required:
 
-    If the shopper adds a supplier product from the same Supplier A in ShoppingHub that does not have an active contractual price, a [[sourcing-request|sourcing request]] is created. In the sourcing request, assuming that the line was awarded to the same Supplier A, and there is an existing purchase requisition with the same submitted by, supplier, cost center, and business owner, and the newly sourced line was created not more than 24 hours after PR1, the purchase line references PR1 when the supplier is awarded, and a purchase requisition is created. The line is added into PR1 with the state Pending Approval. PR1 remains in Pending Approval state. Approvals are re-assessed similar to revisions.
+    If the shopper adds a supplier product from the same Supplier A in ShoppingHub that does not have an active contractual price, a sourcing request is created. In the sourcing request, assuming that the line was awarded to the same Supplier A, and there is an existing purchase requisition with the same submitted by, supplier, cost center, and business owner, and the newly sourced line was created not more than 24 hours after PR1, the purchase line references PR1 when the supplier is awarded, and a purchase requisition is created. The line is added into PR1 with the state Pending Approval. PR1 remains in Pending Approval state. Approvals are re-assessed similar to revisions.
 
 
 Scenario 2: PR1 for Supplier A exists, in state Awaiting Task Completion. PO does not exist yet.
@@ -45,7 +45,7 @@ Scenario 2: PR1 for Supplier A exists, in state Awaiting Task Completion. PO doe
 
 Scenario 3: PR1 for Supplier A exists, in state Final Review. PO does not exist yet. Same as Scenario 2.
 
-Scenario 4: PR1 in state Awaiting Task Completion, PR2 not merged with PR1 and in state Pending Approval. Another purchase is created. If the procurement specialist decides not to merge PR2 with PR1, and PR2’s state is still Pending Approval, then the new [[purchase-lines|purchase lines]] automatically merge with PR2 according to the criteria in Scenario 1.
+Scenario 4: PR1 in state Awaiting Task Completion, PR2 not merged with PR1 and in state Pending Approval. Another purchase is created. If the procurement specialist decides not to merge PR2 with PR1, and PR2’s state is still Pending Approval, then the new purchase lines automatically merge with PR2 according to the criteria in Scenario 1.
 
 Scenario 5: Multiple PRs in state Awaiting Task Completion or Final Review. New PR created within 24 hours with the same requested by, supplier, cost center, and business owner.
 
@@ -78,11 +78,3 @@ Purchase lines within a purchase requisition can also be merged under the follow
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[cost-center|Cost center]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-lines|Purchase lines]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage people and work capabilities, Extend ServiceNow AI Platform 
 
 # E-signature
 
-Sign electronic documents from any desktop or mobile device with e-signature. E-signature is a scoped application that enables users to sign [[c_ManagedDocuments|managed documents]] or knowledge articles with their typed or drawn e-signature, credentials, or as an acknowledgment.
+Sign electronic documents from any desktop or mobile device with e-signature. E-signature is a scoped application that enables users to sign managed documents or knowledge articles with their typed or drawn e-signature, credentials, or as an acknowledgment.
 
 ## Get started
 
@@ -28,7 +28,7 @@ Sign electronic documents from any desktop or mobile device with e-signature. E-
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the [[components-installed-with-e-signature|components installed with e-signature]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/esignature-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the components installed with e-signature.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/esignature-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -44,11 +44,5 @@ Users with the assigned e-signature roles can create templates for documents tha
 -   **[E-signature reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/esignature-reference.md)**  
 Activating the e-signature plugin installs additional roles and tables.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[c_ManagedDocuments|Managed Documents]]
-- [[components-installed-with-e-signature|Components installed with e-signature]]
-- [[reference|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Enhanced address data model for accounts, Configure accounts and co
 
 # Associate an address to an account
 
-You can associate addresses to an account using the Account Address related list on the [[customer-service-account-form|account form]] or the location form.
+You can associate addresses to an account using the Account Address related list on the account form or the location form.
 
 ## Before you begin
 
@@ -40,9 +40,6 @@ Role required: One of the following roles:
 
 4.  Fill the details in account address form and select **Submit**.
 
-    For more information about the table fields, see [[account-address-table|Account Address table]].
+    For more information about the table fields, see [Account Address table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/account-address-table.md).
 
-## Related
 
-- [[account-address-table|Account Address table]]
-- [[customer-service-account-form|Account form]]

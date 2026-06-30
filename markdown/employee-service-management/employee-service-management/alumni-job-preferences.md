@@ -18,7 +18,7 @@ Role required: sn\_asc.alumni
 
 ## Procedure
 
-1.  Navigate to **[[alumni-service-center|Alumni Center]]** &gt; **Job opportunities**.
+1.  Navigate to **Alumni Center** &gt; **Job opportunities**.
 
 2.  Select **Edit job preferences**.
 
@@ -50,6 +50,3 @@ Role required: sn\_asc.alumni
 
 [Edit personal details]()
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Get started with Service Reliability Management, Exploring Service 
 
 # SRM Home page
 
-The [[sr-landing-page|Service Reliability Management]] \(SRM\) Home page provides relevant information about your work, services, schedules, maintenance reminders, and teams. View the Home page by navigating to **Service Reliability Management**.
+The Service Reliability Management \(SRM\) Home page provides relevant information about your work, services, schedules, maintenance reminders, and teams. View the Home page by navigating to **Service Reliability Management**.
 
 ## Service Reliability Management Home page sections
 
@@ -75,6 +75,3 @@ Contains incidents and alerts assigned to your team. Select a card to see the li
 </td></tr></tbody>
 </table>**Parent Topic:**[Get started with Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-get-started.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

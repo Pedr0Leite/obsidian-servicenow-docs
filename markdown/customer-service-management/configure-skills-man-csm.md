@@ -33,9 +33,7 @@ To configure skills management, use the Customer Service guided setup. The guide
     |Task|Description|
     |----|-----------|
     |Manage skills|Organize skills data of agents and work items in a centralized location.|
-    |Assign skills to work items|Create [[gamification-components-rules|rules]] to identify skills and automatically associate them with work items.|
+    |Assign skills to work items|Create rules to identify skills and automatically associate them with work items.|
     |Assign skills to customer service agents|Identify skills each agent has to work on tasks and assign it to the agent.|
 
-## Related
 
-- [[gamification-components-rules|Rules]]

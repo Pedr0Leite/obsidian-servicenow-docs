@@ -23,9 +23,9 @@ Role required: none
 -   For a business loan service for a business customer \(account or contact\): sn\_bom\_loan\_b2b.contributor or sn\_bom\_loan\_b2b.agent\_connector
 -   For a personal loan service for a consumer: sn\_bom\_loan.contributor or sn\_bom\_loan.agent\_connector
 
-**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [[fso-core-roles|User roles and FSO Business rules]].
+**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-roles.md).
 
-**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -33,7 +33,7 @@ As a loan contributor or agent connector, fill in the customer data, collect the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -62,8 +62,3 @@ As a loan contributor or agent connector, fill in the customer data, collect the
 -   A new task that is based on the workflow is automatically generated in the **Tasks** tab of the case. The new task is assigned to an assignment group or agent based on the assignment rule.
 -   The customer receives a pre-configured email notification about the request submission.
 
-## Related
-
-- [[fso-core-roles|User roles and FSO Business rules]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

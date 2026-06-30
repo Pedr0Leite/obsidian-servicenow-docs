@@ -22,11 +22,11 @@ Role required: sn\_grc\_reg\_change.manager, sn\_grc\_reg\_change.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]] application** &gt; **Compliance Workspace** &gt; **Regulatory alert**.
+1.  Navigate to **All** &gt; **Regulatory Change Management application** &gt; **Compliance Workspace** &gt; **Regulatory alert**.
 
     The Regulatory Change Management application in Compliance Workspace is displayed.
 
-2.  On the [[regulatory-change-task-form|regulatory change task form]], navigate to the **Issues** tab.
+2.  On the regulatory change task form, navigate to the **Issues** tab.
 
     You can add an existing issue to a regulatory task or create an issue that you can relate to a regulatory task.
 
@@ -57,7 +57,4 @@ Create an issue that you can relate to a regulatory task.
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[regulatory-change-task-form|Regulatory Change Task form]]

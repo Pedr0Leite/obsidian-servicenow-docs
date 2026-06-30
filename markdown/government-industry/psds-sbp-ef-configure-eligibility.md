@@ -30,7 +30,7 @@ You can create any number of policies, which can be updated as required.
 
 ## Create an eligibility policy using the Social Benefits Playbook Policy as Code Engine \(PaCE\) Eligibility Rules Engine​
 
-Create an eligibility policy [[psds-using-sb-playbooks|using Social Benefits Playbook]] Eligibility Rules Engine​.
+Create an eligibility policy using Social Benefits Playbook Eligibility Rules Engine​.
 
 ### About this task
 
@@ -525,6 +525,3 @@ Role required: admin
 
 The policy is now activated and can be used to evaluate eligibility for any open Social Benefits case. A version of the policy should appear in the Version Management tab, as will any subsequent updates to the policy. You can publish any version of the policy at any time. For more information on PaCE policy version control, see [Manage PaCE policy versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-policy-versions.md).
 
-## Related
-
-- [[psds-using-sb-playbooks|Using Social Benefits Playbook]]

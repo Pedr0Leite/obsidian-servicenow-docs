@@ -15,7 +15,7 @@ breadcrumb: [Organization chart in Employee Center Pro, Setup task management, C
 
 # Configure card settings for org chart
 
-Define the lines and information to show on the [[employee-center-pro-landing|Employee Center Pro]] org chart card.
+Define the lines and information to show on the Employee Center Pro org chart card.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Use **Org Chart Card Configuration** to define information to display on the cha
 
 **Note:** New hires appear in an org chart during the onboarding and when a sys\_user record is created. You may configure the conditions to suit your business requirements.
 
-You can configure two primary and six secondary slots of information on the card of an employee. Information is configured by selection or dot-walking the fields from the [[emp-slate-employee-profile|Employee Profile]] \[sn\_employee\_profile\], [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\], or User \[sys\_user\] tables.
+You can configure two primary and six secondary slots of information on the card of an employee. Information is configured by selection or dot-walking the fields from the Employee Profile \[sn\_employee\_profile\], HR Profile \[sn\_hr\_core\_profile\], or User \[sys\_user\] tables.
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Organization Chart** &gt; **User display** &gt; **Org Chart Configurations Card**.
+1.  Navigate to **Employee Center** &gt; **Organization Chart** &gt; **User display** &gt; **Org Chart Configurations Card**.
 
 2.  On the form, fill in the fields.
 
@@ -55,7 +55,7 @@ Application
 
 </td><td>
 
-Application that you want to configure the [[activity-lxp|activity]] for.
+Application that you want to configure the activity for.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Show preferred pronoun
 
 </td><td>
 
-Option to show the preferred pronoun from the employee profile of the user on the org chart. Pronouns field appears only when you select the [[employee-profile|employee profile table]].
+Option to show the preferred pronoun from the employee profile of the user on the org chart. Pronouns field appears only when you select the employee profile table.
 
 </td></tr><tr><td>
 
@@ -111,11 +111,3 @@ Enter the order number to determine where the item appears in relation to other 
 
 For more information on widget instance options, see [Modify the org chart widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-orgchart-instanceoptions.md).
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[employee-profile|Employee Profile table]]

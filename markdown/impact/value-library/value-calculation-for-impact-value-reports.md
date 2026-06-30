@@ -14,13 +14,13 @@ breadcrumb: [Value Reports in Impact Delivery Instance, Value management, Using 
 
 # Value calculation for Impact Value Reports
 
-You can use value calculation for measurable business [[impact-landing-page|impact]] and track value using metrics.
+You can use value calculation for measurable business impact and track value using metrics.
 
-Value calculation translates operational [[instance-observer-performance|performance]] into measurable business impact typically in monetary terms. Each business objective is linked to specific outcomes tracked through defined metrics. These metrics include a baseline \(reference\), goal, and current quarterly values.
+Value calculation translates operational performance into measurable business impact typically in monetary terms. Each business objective is linked to specific outcomes tracked through defined metrics. These metrics include a baseline \(reference\), goal, and current quarterly values.
 
 ## Tracking your progress
 
-Business objectives are your high-level business goals. To [[io-help|help]] measure your achievement toward that goal, each objective is connected to several measurable outcomes. The outcomes are in turn tied to metrics that record your progress from quarter to quarter.
+Business objectives are your high-level business goals. To help measure your achievement toward that goal, each objective is connected to several measurable outcomes. The outcomes are in turn tied to metrics that record your progress from quarter to quarter.
 
 ## Measuring Progress toward Automation Goals
 
@@ -77,13 +77,7 @@ Business value is focused on monetization of outcomes and success metrics in you
     The annual period \(typically four quarters\) used to obtain baseline operational performance data for business value calculation.
 
 
-At the end of the year \(or your chosen reporting period\), your [[impact-squad|Impact squad]] reviews the operational performance results. These performance metrics are used as inputs in the calculation, combined with other factors, to generate the corresponding dollar value impact. You can collaborate with your squad to adjust these input values to better reflect your current operational context.
+At the end of the year \(or your chosen reporting period\), your Impact squad reviews the operational performance results. These performance metrics are used as inputs in the calculation, combined with other factors, to generate the corresponding dollar value impact. You can collaborate with your squad to adjust these input values to better reflect your current operational context.
 
 Occasionally, a negative value may be reported if the current performance deviates unfavorably from the baseline. In such cases, your squad assists in interpreting the results and identifying actions to help you achieve your business objectives.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]
-- [[impact-squad|Impact Squad]]

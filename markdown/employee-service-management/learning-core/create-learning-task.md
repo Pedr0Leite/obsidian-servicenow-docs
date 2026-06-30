@@ -14,7 +14,7 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create a learning task
 
-Assign a [[exploring-learning-exp|learning]] task to an employee that can be completed from the To-dos page in [[employee-center-landing-page|Employee Center]].
+Assign a learning task to an employee that can be completed from the To-dos page in Employee Center.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_lc.task\_creator
 
 2.  Select **New**.
 
-3.  On the [[learning-task-form|Learning task form]], fill in the fields.
+3.  On the Learning task form, fill in the fields.
 
     For a description of the field values, see [Learning task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-task-form_0.md).
 
@@ -56,8 +56,3 @@ Role required: sn\_lc.task\_creator
 
 [Learning task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-task-form_0.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[learning-task-form|Learning task form]]

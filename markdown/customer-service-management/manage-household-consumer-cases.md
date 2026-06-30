@@ -12,7 +12,7 @@ breadcrumb: [Configuring households, Customer data, Set up your environment, Con
 
 # Create and manage cases for a consumer or household
 
-Staff members with the location agent role can create and [[manage-cases|manage cases]] for consumers and households.
+Staff members with the location agent role can create and manage cases for consumers and households.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Staff members at a business location who have either the location agent or consu
 
 Staff members or internal users who have a relationship with a household \(based on the Relationship Manager responsibility\) can create cases for that household and its members. Users with relationships to a household are listed in the following locations:
 
--   The Household Team related list on the [[data-model-household-form|Household form]].
+-   The Household Team related list on the Household form.
 -   The Household Team Members list.
 
 Relationship managers can perform the following actions on the cases that they can access:
@@ -65,7 +65,7 @@ Select a household in the **Household** field. -   If the household only has onl
 
 
 </td></tr></tbody>
-</table>4.  Fill in the remaining fields on the [[r_CustomerServiceCaseForm|Case form]].
+</table>4.  Fill in the remaining fields on the [Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustomerServiceCaseForm.md).
 
 5.  If desired, add other members of the household to the watch list.
 
@@ -79,11 +79,5 @@ Select a household in the **Household** field. -   If the household only has onl
 **Related topics**  
 
 
-[[industry-data-model-cases|Service Model Foundation cases]]
+[Service Model Foundation cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/industry-data-model-cases.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[industry-data-model-cases|Service Model Foundation cases]]
-- [[manage-cases|Manage cases]]
-- [[data-model-household-form|Household form]]

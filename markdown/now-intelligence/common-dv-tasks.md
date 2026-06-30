@@ -12,28 +12,28 @@ breadcrumb: [Data visualizations, Platform Analytics experience, Platform Analyt
 
 # Common data visualization tasks
 
-See how to edit, share, duplicate, and delete [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations, along with other common tasks. Most tasks are launched from the same menu.
+See how to edit, share, duplicate, and delete Platform Analytics data visualizations, along with other common tasks. Most tasks are launched from the same menu.
 
--   **[[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]**  
+-   **[Edit a data visualization in an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/editing-dv-in-line-db.md)**  
 You can create and edit a data visualization from within the inline dashboard editor. Not all the options are the same as in the Visualization Designer. You can move between the inline editor and the Visualization Designer.
--   **[[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]**  
+-   **[Edit a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-dv-ac-center.md)**  
 After you create a data visualization, you can return to it and edit the data visualization's appearance and other aspects.
--   **[[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]**  
+-   **[Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)**  
 Add a visualization from the Visualization Designer to a new dashboard or to an existing dashboard.
--   **[[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]**  
+-   **[Duplicate a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/duplicate-dv-ac.md)**  
 Duplicate a visualization so that you can use aspects of the source in a copy of the visualization.
--   **[[share-dv-ac|Share a data visualization in the Visualization Designer]]**  
+-   **[Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)**  
 Share a visualization to provide view or edit permissions to users, groups, or roles. A user can access a shared visualization in any workspace on the original instance.
--   **[[export-visualization-vd|Export a data visualization from the Visualization Designer]]**  
+-   **[Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md)**  
 Export individual data visualizations to various formats and sizes. Download the exports or share them over email.
--   **[[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]**  
+-   **[Schedule the export of data visualizations or dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/schedule-visn-export-vd.md)**  
 Automate the export and mailing of data visualizations. Help colleagues build presentations, share information with external users, or track data over time.
--   **[[delete-visualization-vd|Delete a visualization in the Visualization Designer]]**  
+-   **[Delete a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-visualization-vd.md)**  
 You can delete a data visualization that is no longer useful.
--   **[[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]**  
+-   **[Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)**  
 Bookmark a visualization so that you can find it easily in the Data Visualizations library.
 
-**Parent Topic:**[[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
+**Parent Topic:**[Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
 
 **Related topics**  
 
@@ -48,16 +48,3 @@ Bookmark a visualization so that you can find it easily in the Data Visualizatio
 
 [Data visualization reference]()
 
-## Related
-
-- [[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]
-- [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]
-- [[delete-visualization-vd|Delete a visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

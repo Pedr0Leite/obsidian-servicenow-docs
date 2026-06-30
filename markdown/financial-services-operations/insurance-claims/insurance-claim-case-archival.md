@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Manage the Archive Claim Case rule
 
-Manage the archive rule that is provisioned in the Claim Case \[sn\_ins\_gen\_claim\_case\] table of the [[insurance-claims-flow|Insurance claims]] application so that your organization can meet your claim case archiving requirements.
+Manage the archive rule that is provisioned in the Claim Case \[sn\_ins\_gen\_claim\_case\] table of the Insurance claims application so that your organization can meet your claim case archiving requirements.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ For more information on archive rules and archiving records, see [Archiving reco
 
 [Archiving records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

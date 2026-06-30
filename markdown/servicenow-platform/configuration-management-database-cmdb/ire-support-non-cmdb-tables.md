@@ -14,9 +14,9 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
 # IRE support for non-CMDB tables
 
-Apply [[ire|Identification and Reconciliation Engine \(IRE\)]] processes to supported non-CMDB tables to ensure data integrity and health of those tables.
+Apply Identification and Reconciliation Engine \(IRE\) processes to supported non-CMDB tables to ensure data integrity and health of those tables.
 
-Starting with the Australia release, IRE supports some non-CMDB tables. You can use all IRE features with some non-CMDB tables after creating [[c_IdentificationRules|identification rules]] \(CI identifiers and identifier entries\) for those tables. Non-CMDB tables supported for IRE features include:
+Starting with the Australia release, IRE supports some non-CMDB tables. You can use all IRE features with some non-CMDB tables after creating identification rules \(CI identifiers and identifier entries\) for those tables. Non-CMDB tables supported for IRE features include:
 
 -   In an application-specific scope: All non-CMDB tables
 -   In the global scope: Only non-CMDB tables that are preset in the base system. In the Australia release for example, the Location \[cmn\_location\], Department \[cmn\_department\], Cost Center \[cmn\_cost\_center\], Building \[cmn\_building\], User \[sys\_user\], and Group \[sys\_user\_group\] non-CMDB tables are supported.
@@ -43,7 +43,7 @@ IRE processes are applied to supported non-CMDB tables with the following differ
 -   IRE uses the non-CMDB table’s class name as **sys\_class\_name** if the table doesn't include a **sys\_class\_name** attribute.
 -   IRE payloads don't support relationships with non-CMDB tables.
 
-**Note:** Although IRE-related user interface and accompanying documentation might [[reference|reference]] CMDB and CMDB elements, most of those [[reference-document-management|references]] also apply to any supported non-CMDB tables.
+**Note:** Although IRE-related user interface and accompanying documentation might reference CMDB and CMDB elements, most of those references also apply to any supported non-CMDB tables.
 
 -   **[Create an identification rule for a non-CMDB table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-non-cmdb-id-rule.md)**  
 To use Identification and Reconciliation Engine \(IRE\) features with supported non-CMDB tables, you must first create identification rules that uniquely identify the table records. Each non-CMDB table can be associated with a single identification rule.
@@ -58,9 +58,3 @@ When using Identification and Reconciliation Engine \(IRE\), you can prevent a s
 
 **Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

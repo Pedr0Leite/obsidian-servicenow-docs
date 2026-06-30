@@ -14,13 +14,13 @@ breadcrumb: [Configure, AI Agent Topology Mapping, ITOM Visibility, IT Operation
 
 # Install AI Agent Topology Mapping
 
-You can install the [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]] application \(sn\_itom\_agnt\_ptrn\) if you have the admin role.
+You can install the AI Agent Topology Mapping application \(sn\_itom\_agnt\_ptrn\) if you have the admin role.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [AI Agent Topology Mapping](https://store.servicenow.com/store/app/7972bf079380035857e1f0cc5cba1007) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   Verify that you have at least version 1.30.2 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.30.2 of Discovery and Service Mapping Patterns.
 
 Role required: admin
 
@@ -46,8 +46,4 @@ Multiple tables are installed with AI Agent Topology Mapping.
 
 5.  Select **Install**.
 
-## Related
 
-- [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

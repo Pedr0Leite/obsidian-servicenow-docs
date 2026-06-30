@@ -13,7 +13,7 @@ breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assi
 
 # Email recommendations using the Now Assist context menu
 
-Use the Now Assist context menu to compose or respond to emails with recommendations from [[platform-now-assist-landing|Now Assist]] with generative AI template suggestions. The Now Assist context menu enables users to generate email response recommendations in new, forward, reply, or reply all scenarios.
+Use the Now Assist context menu to compose or respond to emails with recommendations from Now Assist with generative AI template suggestions. The Now Assist context menu enables users to generate email response recommendations in new, forward, reply, or reply all scenarios.
 
 -   **Compose email**
 
@@ -42,9 +42,5 @@ Use the Now Assist context menu to compose or respond to emails with recommendat
     You can also select a record from the Now Assist Context Menu inline citation to navigate directly to the record page, where the referenced section will be highlighted for easy identification.
 
 
-**Parent Topic:**[[now-assist-write-overview|Now Assist context menu]]
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

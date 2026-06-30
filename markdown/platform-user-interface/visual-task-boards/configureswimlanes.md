@@ -22,9 +22,9 @@ Role required: none
 
 ## About this task
 
-You can add swimlanes in all [[vtb-types|types of Visual Task Boards]]. For more information see [Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrModifyALane.md).
+You can add swimlanes in all types of Visual Task Boards. For more information see [Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrModifyALane.md).
 
-When you select swimlanes in [[c_VisualTaskBoards|Visual Task Boards]], you can do the following:
+When you select swimlanes in Visual Task Boards, you can do the following:
 
 -   Name and rename the swimlanes.
 -   Move the tasks horizontally and vertically from one user to another.
@@ -40,7 +40,7 @@ When you select swimlanes in [[c_VisualTaskBoards|Visual Task Boards]], you can 
 
     -   Freeform Board
     -   Data Driven Board
-3.  [[configure-onboarding-modals|Configure]] swimlanes in the boards.
+3.  Configure swimlanes in the boards.
 
     -   In a freeform board, activate the swimlanes by sliding the **Swimlanes** toggle switch in the **Info** tab.
 
@@ -83,8 +83,3 @@ When you select swimlanes in [[c_VisualTaskBoards|Visual Task Boards]], you can 
 </table>
 **Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/configuring-vis-task-boards.md)
 
-## Related
-
-- [[vtb-types|Types of Visual Task Boards]]
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[configure-onboarding-modals|Configure]]

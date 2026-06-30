@@ -18,21 +18,14 @@ OCI service account is a type of identity used to authenticate and authorize acc
 
 ## Verify the REST API Permissions
 
-Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the [[r-discovery|Discovery]] patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
+Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
--   **[[oci-access-and-permission-using-policies|OCI access and permission using policies]]**  
+-   **[OCI access and permission using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/oci-access-and-permission-using-policies.md)**  
 Oracle Cloud Infrastructure \(OCI\) access and permission using policies provide privileges for secure cloud resource utilization and management in OCI.
--   **[[create-oracle-api-credentials|Create Oracle API credentials]]**  
+-   **[Create Oracle API credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oracle-api-credentials.md)**  
 Create Oracle API credentials on the ServiceNow AI Platform to enable access to your Oracle resources during Oracle discovery.
--   **[[create-oci-service-accounts|Create OCI service accounts]]**  
+-   **[Create OCI service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oci-service-accounts.md)**  
 Create Oracle Cloud Infrastructure \(OCI\) service accounts on the ServiceNow AI Platform to access your Oracle account during Oracle discovery.
 
-**Parent Topic:**[[setup-cloud-service-account|Set up a cloud service account]]
+**Parent Topic:**[Set up a cloud service account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-cloud-service-account.md)
 
-## Related
-
-- [[oci-access-and-permission-using-policies|OCI access and permission using policies]]
-- [[create-oracle-api-credentials|Create Oracle API credentials]]
-- [[create-oci-service-accounts|Create OCI service accounts]]
-- [[setup-cloud-service-account|Set up a cloud service account]]
-- [[r-discovery|Discovery]]

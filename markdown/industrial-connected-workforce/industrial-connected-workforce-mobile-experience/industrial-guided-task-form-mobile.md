@@ -14,7 +14,7 @@ breadcrumb: [Reference, Industrial Connected Workforce Mobile Experience, Indust
 
 # Industrial Guided Task form
 
-The following table describes the field values for the [[industrial-guided-task-form|Industrial Guided Task form]] in [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+The following table describes the field values for the Industrial Guided Task form in Industrial Connected Workforce Mobile Experience.
 
 <table id="table_ov3_g1c_1gc"><thead><tr><th>
 
@@ -99,7 +99,3 @@ User that the task has been assigned to.
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Connected Workforce Mobile Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/industrial-connected-workforce-mobile-experience-reference.md)
 
-## Related
-
-- [[industrial-guided-task-form|Industrial Guided Task form]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Linking documents to a parent record, Use, Document Management, Doc
 
 # Delete a document from a parent record
 
-[[delete-a-doc|Delete documents]] directly from a parent record.
+Delete documents directly from a parent record.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ User: owner
 
 **Parent Topic:**[Linking documents to a parent record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-linked-parent-rec.md)
 
-## Related
-
-- [[delete-a-doc|Delete documents]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog Terraform Connector reference, Cloud Service
 
 # Cloud Services Catalog Terraform Connector Create Config Provider form reference
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] uses the config provider to interact with the Terraform deployment.
+Cloud Provisioning and Governance uses the config provider to interact with the Terraform deployment.
 
 <table id="table_rhn_wlx_l5b"><thead><tr><th>
 
@@ -103,6 +103,3 @@ Supported Terraform Open Source CLI version installed in the Terraform server.Fo
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

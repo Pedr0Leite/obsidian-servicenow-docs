@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Access Management]
 
 # Self-register to ServiceNow instance
 
-Use external user self-registration to on-board a large volume of external [[users|users]] to your instance. This feature enhances [[identity-landing|identity]] verification to improve customer experiences and supports commonly used registration flows.
+Use external user self-registration to on-board a large volume of external users to your instance. This feature enhances identity verification to improve customer experiences and supports commonly used registration flows.
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
@@ -42,8 +42,3 @@ Use external user self-registration to on-board a large volume of external [[use
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]

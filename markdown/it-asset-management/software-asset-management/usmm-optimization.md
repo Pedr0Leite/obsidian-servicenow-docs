@@ -18,7 +18,7 @@ Optimize licensing through SAP User License Measurement \(USMM\) rules that map 
 
 The rules in the SAP USMM map roles to a Named User Type on a system client basis. If you want to apply these rules for named user licensing, ServiceNow AI Platform pulls the USMM rules and stores all information in the SAP USMM Rules \[samp\_sap\_usmm\_rule\] table. A scheduled job, **SAM - SAP USMM Based Optimization**, runs weekly to maximize licensing according to the USMM rules of a system client for the discovered user. This optimized Named User Type is populated in the USMM Named user type column in the SAP System Users \[samp\_sap\_system\_user\] table. For more information, see [Tables installed with the SAP publisher pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/component-installed-sap-plugin.md).
 
-If you opt in for the USMM rules by selecting the **Use USMM Role Optimization** check box in the SAP Connection record, the [[c_SoftwareAssetMgmt|Software Asset Management]] application prefers the optimized USMM Named User Type during reconciliation. For more information about creating a connection profile to establish a connection between your SAP system and your ServiceNow instance, see [Establish an SAP connection using basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sap-connection.md).
+If you opt in for the USMM rules by selecting the **Use USMM Role Optimization** check box in the SAP Connection record, the Software Asset Management application prefers the optimized USMM Named User Type during reconciliation. For more information about creating a connection profile to establish a connection between your SAP system and your ServiceNow instance, see [Establish an SAP connection using basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sap-connection.md).
 
 **Parent Topic:**[Software Asset Management publisher pack for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-publisher-pack.md)
 
@@ -35,7 +35,7 @@ If you opt in for the USMM rules by selecting the **Use USMM Role Optimization**
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -55,7 +55,3 @@ If you opt in for the USMM rules by selecting the **Use USMM Role Optimization**
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

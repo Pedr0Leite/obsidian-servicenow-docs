@@ -23,7 +23,7 @@ As a manager, they can manage their entire teams' schedule using **Scheduling**.
 The manager and their team can manage schedules by performing the following steps from one central location:
 
 1.  Create shift plan
-2.  [[create-schedule-plan-wfo-itsm|Create a schedule plan]]
+2.  Create a schedule plan
 3.  Assign agents to work shifts
 4.  Publish the schedule
 5.  Agents make requests to change the schedule or take time off
@@ -38,9 +38,5 @@ Get an overview of how you can monitor shifts and schedule for your entire team 
 
 Get an overview of how agents use the workspace to manage their schedule.
 
-For detailed information on creating and managing schedules using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], refer to [Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-scheduling-reference.md).
+For detailed information on creating and managing schedules using Workforce Optimization for ITSM, refer to [Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-scheduling-reference.md).
 
-## Related
-
-- [[create-schedule-plan-wfo-itsm|Create a schedule plan]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

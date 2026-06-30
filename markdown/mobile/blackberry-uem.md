@@ -35,15 +35,10 @@ ServiceNow has BlackBerry integrated versions of the Now Mobile and Mobile Agent
 \[Omitted image "blackberry-uem-apps.png"\] Alt text: BlackBerry UEM versions of Now Mobile and Mobile Agent apps
 
 </td></tr></tbody>
-</table>-   **[[configure-blackberry-uem|Managing ServiceNow mobile apps with BlackBerry UEM]]**  
+</table>-   **[Managing ServiceNow mobile apps with BlackBerry UEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-blackberry-uem.md)**  
 Learn how to manage ServiceNow mobile applications in the BlackBerry UEM \(Unified Endpoint Management\).
--   **[[configure-blackberry-access|Configure BlackBerry Access for mobile apps]]**  
+-   **[Configure BlackBerry Access for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-blackberry-access.md)**  
 Configure the BlackBerry Access browser to authenticate ServiceNow mobile apps.
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[configure-blackberry-uem|Managing ServiceNow mobile apps with BlackBerry UEM]]
-- [[configure-blackberry-access|Configure BlackBerry Access for mobile apps]]
-- [[mobile-vendors|Supported mobile device management vendors]]

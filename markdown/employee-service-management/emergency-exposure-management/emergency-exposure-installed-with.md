@@ -14,7 +14,7 @@ breadcrumb: [Install Emergency Exposure Management, Emergency Exposure Managemen
 
 # Components installed with Emergency Exposure Management
 
-Several types of components are installed with [[emergency-exposure-management|Emergency Exposure Management]], including tables and user roles.
+Several types of components are installed with Emergency Exposure Management, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -53,7 +53,7 @@ Workplace exposure analyst\[sn\_imt\_diagnosis.workplace\_exposure\_analyst\]
 
 </td><td>
 
-Identifies potentially exposed employees using workplace reservations from the ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application.
+Identifies potentially exposed employees using workplace reservations from the ServiceNow® Workplace Core application.
 
 </td><td>
 
@@ -122,7 +122,7 @@ Impacted Visitors\[sn\_imt\_diagnosis\_impacted\_visitor\]
 
 </td><td>
 
-Visitors who might have been exposed to infection. Populated by analyzing the visitors request entry records invited by the affected employees.The table is available for use only if you also subscribe to ServiceNow® [[contact-tracing|Contact Tracing]] and ServiceNow® [[employee-health-screening|Employee Health Screening]]. The data of this table is displayed in the Impacted visitors related list on the Diagnostic Report form.
+Visitors who might have been exposed to infection. Populated by analyzing the visitors request entry records invited by the affected employees.The table is available for use only if you also subscribe to ServiceNow® Contact Tracing and ServiceNow® Employee Health Screening. The data of this table is displayed in the Impacted visitors related list on the Diagnostic Report form.
 
 </td></tr><tr><td>
 
@@ -153,9 +153,3 @@ System properties for additional configuration of tracing systems.
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/install-emergency-exposure-mgt.md)
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[contact-tracing|Contact Tracing]]
-- [[employee-health-screening|Employee Health Screening]]

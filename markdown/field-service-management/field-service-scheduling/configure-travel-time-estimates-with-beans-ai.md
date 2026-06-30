@@ -14,7 +14,7 @@ breadcrumb: [Travel estimate provider, Create a scheduling attribute, Schedule O
 
 # Configure travel time estimates with a Third-party provider
 
-Use a third-party travel estimate provider, such as Beans.ai, to improve the accuracy of travel time estimates in [[schedule-optimization|Schedule Optimization]].
+Use a third-party travel estimate provider, such as Beans.ai, to improve the accuracy of travel time estimates in Schedule Optimization.
 
 ## Before you begin
 
@@ -123,6 +123,3 @@ When selected, sends the travel band's day and time window to the map provider t
 
 [https://support.servicenow.com/kb?sys\_kb\_id=77fb7ba7871736142d5cbbb5cebb35e9&amp;id=kb\_article\_view](https://support.servicenow.com/kb?sys_kb_id=77fb7ba7871736142d5cbbb5cebb35e9&id=kb_article_view)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

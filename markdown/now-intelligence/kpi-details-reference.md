@@ -14,12 +14,12 @@ breadcrumb: [KPI Details, Platform Analytics experience, Platform Analytics]
 
 View system properties associated with KPI Details. See also how UUIDs are formed.
 
--   **[[kpi-details-pa-properties|KPI Details Performance Analytics properties]]**  
-KPI Details supports several [[pa-properties|Performance Analytics properties]]. These system properties control the behavior of Performance Analytics elements in the context of KPI Details.
--   **[[kpi-details-uuids|KPI Details UUIDs]]**  
-Every combination of breakdowns, elements, a time series aggregation, and a domain that you specify for an indicator has a unique identifier \(UUID\). To understand how the KPI Details and [[process-behavior-charts-for-kpis|KPI Signals]] applications work, you should understand how these UUIDs are constructed.
+-   **[KPI Details Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-pa-properties.md)**  
+KPI Details supports several Performance Analytics properties. These system properties control the behavior of Performance Analytics elements in the context of KPI Details.
+-   **[KPI Details UUIDs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-uuids.md)**  
+Every combination of breakdowns, elements, a time series aggregation, and a domain that you specify for an indicator has a unique identifier \(UUID\). To understand how the KPI Details and KPI Signals applications work, you should understand how these UUIDs are constructed.
 
-**Parent Topic:**[[kpi-details|KPI Details]]
+**Parent Topic:**[KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)
 
 **Related topics**  
 
@@ -30,10 +30,3 @@ Every combination of breakdowns, elements, a time series aggregation, and a doma
 
 [Indicator targets and thresholds in KPI Details]()
 
-## Related
-
-- [[kpi-details-pa-properties|KPI Details Performance Analytics properties]]
-- [[kpi-details-uuids|KPI Details UUIDs]]
-- [[kpi-details|KPI Details]]
-- [[pa-properties|Performance Analytics properties]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

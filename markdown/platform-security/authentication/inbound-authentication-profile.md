@@ -14,17 +14,11 @@ breadcrumb: [API access policy, Authentication, Access Management]
 
 # REST API access policies
 
-REST API access policies allow you to restrict access to inbound REST APIs based on the [[c_Authentication|authentication]] type and the specified [[adaptive-auth-filter-criteria|filter criteria]] of the access policy.
+REST API access policies allow you to restrict access to inbound REST APIs based on the authentication type and the specified filter criteria of the access policy.
 
 A REST API, also known as RESTful API is a type of application programming interface \(API\) that adheres to the guidelines of REST architectural style. REST APIs provide a high degree of flexibility making it prevalent across the web.
 
 Filter criteria contains filter conditions or queries that are used as policy inputs for an authentication policy.
 
-You can configure the default Global Blocking Policy or create a custom [[api-access-policy|API access policy]] according to your security requirements. For example, you can create a custom API access policy that allows only [[c_OAuthApplications|OAuth 2.0]] authentication type from a specified range of IP addresses. Authentication requests of other authentication types and access requests from IP addresses other than the specified IP addresses are denied.
+You can configure the default Global Blocking Policy or create a custom API access policy according to your security requirements. For example, you can create a custom API access policy that allows only OAuth 2.0 authentication type from a specified range of IP addresses. Authentication requests of other authentication types and access requests from IP addresses other than the specified IP addresses are denied.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[api-access-policy|API access policy]]
-- [[c_OAuthApplications|OAuth 2.0]]

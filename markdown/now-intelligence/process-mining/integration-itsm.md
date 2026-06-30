@@ -27,7 +27,7 @@ Integrating with ITSM Benchmarks enables you to analyze processes relevant to yo
 
 ## Launch Process Mining from the Benchmarks dashboard
 
-Launch [[process-mining|Process Mining]] from the Benchmarks dashboard to analyze a process related to a low-performing KPI.
+Launch Process Mining from the Benchmarks dashboard to analyze a process related to a low-performing KPI.
 
 ### Before you begin
 
@@ -52,9 +52,5 @@ An IT analyst looks at their monthly Benchmarks report. They notice that the ‘
 
 The analyst selects the **Go to Process Mining** icon from a Benchmarks KPI. The action navigates them to the Process Mining Analyst workbench in a new tab. They quickly discover an area needing improvement, and submit a CIM initiative. Once the CIM initiative is completed, they can see the improvement on the Benchmarks industry peer comparison chart.
 
-\[Omitted image "example-benchmarks.png"\] Alt text: Example: Benchmarks [[use-process-mining|using Process Mining]]
+\[Omitted image "example-benchmarks.png"\] Alt text: Example: Benchmarks using Process Mining
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[use-process-mining|Using Process Mining]]

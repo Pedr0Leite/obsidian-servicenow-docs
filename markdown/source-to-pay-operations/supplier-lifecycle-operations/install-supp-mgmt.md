@@ -14,7 +14,7 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Install Supplier Case Management
 
-You can install the [[supplier-case-management|Supplier Case Management]] application \(com.snc.sn\_supplier\_mgmt\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Supplier Case Management application \(com.snc.sn\_supplier\_mgmt\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -23,8 +23,8 @@ You can install the [[supplier-case-management|Supplier Case Management]] applic
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Supplier Case Management](https://store.servicenow.com/sn_appstore_store.do#!/store/application/2516c903c33030103622aaafc840ddfc) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   The Supplier Case Management application \(com.snc.sn\_supplier\_mgmt\) installs the following dependent plugins.
-    -   [[supplier-common|Supplier Common Architecture]] \(com.snc.sn\_slm\)
-    -   [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \(com.sn\_spend\_workspace\)
+    -   Supplier Common Architecture \(com.snc.sn\_slm\)
+    -   Source-to-Pay Workspace \(com.sn\_spend\_workspace\)
 
 Role required: admin
 
@@ -69,7 +69,7 @@ You can grant access to your instance to both internal and external users. Howev
 -   **[Application plugin installation sequence in Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slm-plugin-list.md)**  
 The following table provides the list of plugins for Supplier Case Management, a high-level description of each plugin, and the dependencies that are required before installing each plugin.
 -   **[Prerequisites for upgrading Supplier Case Management to Washington DC or later releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/smw-upgrade.md)**  
-Starting with the Washington DC release, [[supplier|Supplier]] Manager Workspace is being prepared for future deprecation. It will be hidden from the navigation and no longer be activated on new instances but will continue to be supported. Source-to-Pay Workspace provides the latest experience for this functionality.
+Starting with the Washington DC release, Supplier Manager Workspace is being prepared for future deprecation. It will be hidden from the navigation and no longer be activated on new instances but will continue to be supported. Source-to-Pay Workspace provides the latest experience for this functionality.
 -   **[Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md)**  
 Use these properties to configure settings for the Supplier Case Management application from the Properties page.
 -   **[Post-upgrade tasks for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/post-upgrade-tasks-slo.md)**  
@@ -92,11 +92,11 @@ After you upgrade to Washington DC, you must review all the post-upgrade tasks a
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
@@ -104,11 +104,3 @@ After you upgrade to Washington DC, you must review all the post-upgrade tasks a
 
 [Application plugin installation sequence in Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slm-plugin-list.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

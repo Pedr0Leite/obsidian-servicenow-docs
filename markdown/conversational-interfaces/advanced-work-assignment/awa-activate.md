@@ -14,7 +14,7 @@ breadcrumb: [Get started, Configure, Advanced Work Assignment, Manage people and
 
 # Activate Advanced Work Assignment
 
-You can activate the [[awa-application-landing-page|Advanced Work Assignment]] plugin \(com.glide.awa\) if you have the admin role.
+You can activate the Advanced Work Assignment plugin \(com.glide.awa\) if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Advanced Work Assignment activates the Skills [[management|Management]] plugin \(com.snc.skills\_management\) to implement user and group skills.
+Advanced Work Assignment activates the Skills Management plugin \(com.snc.skills\_management\) to implement user and group skills.
 
 <table id="table_i45_m3v_pfb"><thead><tr><th>
 
@@ -58,11 +58,5 @@ Implements user and user group skills. Based on the same principles of roles man
 
 ## What to do next
 
-Activate the targeted routing capabilities plugins and other popular AWA plugins to enable the appropriate [[awa-service-channels|service channels]] and the [[awa-content-pack|Platform Analytics Solutions for Advanced Work Assignment]].
+Activate the targeted routing capabilities plugins and other popular AWA plugins to enable the appropriate service channels and the Platform Analytics Solutions for Advanced Work Assignment.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]
-- [[awa-service-channels|Service channels]]
-- [[awa-content-pack|Platform Analytics Solutions for Advanced Work Assignment]]

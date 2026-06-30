@@ -14,7 +14,7 @@ breadcrumb: [Models, Product Catalog, IT Asset Management]
 
 # Add skills to a model
 
-You can associate skills with any model. Creating associations between skills and [[c_Models|models]] is helpful if you are using work management and want to assign tasks to agents based on their skills with specific models.
+You can associate skills with any model. Creating associations between skills and models is helpful if you are using work management and want to assign tasks to agents based on their skills with specific models.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: skill\_admin or model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **All Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **All Models**.
 
 2.  Open a product model.
 
@@ -35,7 +35,3 @@ Role required: skill\_admin or model\_manager
 
 **Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

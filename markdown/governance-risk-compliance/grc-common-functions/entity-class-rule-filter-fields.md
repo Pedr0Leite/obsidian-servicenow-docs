@@ -14,7 +14,7 @@ breadcrumb: [Create an entity class rule filter, Entity class rules, Explore ent
 
 # Entity class rule filter fields
 
-You can [[create-new-entity-class-rule-filter|create an entity class rule filter]] by filling out the fields that display after you click the **New** option in the [[entity-class|entity class]] rule filters related list.
+You can create an entity class rule filter by filling out the fields that display after you click the **New** option in the entity class rule filters related list.
 
 <table id="table_fjl_gnh_g5b"><thead><tr><th>
 
@@ -61,7 +61,3 @@ Filter priority. If a source record of an entity satisfies a multiple class rule
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an entity class rule filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-class-rule-filter.md)
 
-## Related
-
-- [[create-new-entity-class-rule-filter|Create an entity class rule filter]]
-- [[entity-class|entity class]]

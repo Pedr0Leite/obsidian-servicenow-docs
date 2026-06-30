@@ -18,16 +18,16 @@ As a member of the safety department, work on the submitted safety incidents and
 
 For safety incidents and observations to be resolved effectively, the safety fulfillers can evaluate the reported incident in detail to identify sources for information, add or modify involved people, interview questions to collect key details, and attach supporting and relevant documentation.
 
-Use [[health-safety-core-workspace|Health and Safety Workspace]] to perform these activities with tools such as incident playbook, injury and illness logging, root cause analysis, and corrective and preventative action.
+Use Health and Safety Workspace to perform these activities with tools such as incident playbook, injury and illness logging, root cause analysis, and corrective and preventative action.
 
 -   **[Assign a safety incident or observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/assign-hs-incident-observation.md)**  
-[[assign-hs-incident-observation|Assign a safety incident or observation]] to yourself or to another safety agent to start working on it.
+Assign a safety incident or observation to yourself or to another safety agent to start working on it.
 -   **[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)**  
-[[work-hs-incident-observation|Work on a safety incident]] assigned to you to collect incident information, ensure that any outstanding tasks are completed, and resolve the incident.
+Work on a safety incident assigned to you to collect incident information, ensure that any outstanding tasks are completed, and resolve the incident.
 -   **[Work on a safety observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-safety-observation.md)**  
-[[work-hs-safety-observation|Work on a safety observation]] assigned to you to resolve it.
+Work on a safety observation assigned to you to resolve it.
 -   **[Create an HR case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-hr-case-injury-illness.md)**  
-[[search-hr-case|Create an HR case]] for an employee who is on leave because of an injury or illness or needs any other assistance from the HR department.
+Create an HR case for an employee who is on leave because of an injury or illness or needs any other assistance from the HR department.
 -   **[Create a return to work case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-rtw-case-injury-illness.md)**  
 If an employee is returning to work after an injury or illness, create a return to work case to assess the employee's capability to work before they return.
 -   **[Add an action for a safety incident or observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/add-hs-action.md)**  
@@ -37,17 +37,9 @@ Share an action, independent of the incident or risk, with other groups or agent
 -   **[Generate a report for a safety incident, observation, or injury](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/generate-report-safety-incident-obsv-injury.md)**  
 Generate a report for a safety incident, observation, or an injury that you want to export for your regional or industry-specific requirements.
 -   **[Close a safety incident or observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/close-hs-incident-observation.md)**  
-[[close-hs-incident-observation|Close a safety incident or observation]] assigned to you when you complete all activities for resolving it.
+Close a safety incident or observation assigned to you when you complete all activities for resolving it.
 -   **[Reopen a safety incident or observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/reopen-hs-incident-obs.md)**  
 If a safety incident or observation requires further investigation after it was closed or canceled, you can reopen it to work on it again.
 
 **Parent Topic:**[Manage incidents, observations, and anonymous safety concerns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-manage-incidents-observations-annonymous-concerns.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[assign-hs-incident-observation|Assign a safety incident or observation]]
-- [[work-hs-incident-observation|Work on a safety incident]]
-- [[work-hs-safety-observation|Work on a safety observation]]
-- [[search-hr-case|Create an HR case]]
-- [[close-hs-incident-observation|Close a safety incident or observation]]

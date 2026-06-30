@@ -20,7 +20,7 @@ The Create Directory activity creates a new directory on an SFTP server.
 
 |Variable|Description|
 |--------|-----------|
-|sourceHost|Name or [[ip-address|IP address]] of the server containing the files you want to move.|
+|sourceHost|Name or IP address of the server containing the files you want to move.|
 |sourcePort|Port number to use to communicate with the source server. The default port number is **22**.|
 |sourceDirectory|Path to the target directory to create.|
 |sourceCredentialTag|Specific [Credential aliases for Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AssignCredsOrchActivities.md) this activity must use to run SSH commands on the host.|
@@ -41,6 +41,3 @@ The Create Directory activity creates a new directory on an SFTP server.
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

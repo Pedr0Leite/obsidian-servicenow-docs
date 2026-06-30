@@ -43,8 +43,5 @@ Role required: sys\_admin
     4.  Select **Run Test**.
 
 
-**Parent Topic:**[[create-concur-webhook-registry|Create a SAP Concur webhook registry]]
+**Parent Topic:**[Create a SAP Concur webhook registry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-concur-webhook-registry.md)
 
-## Related
-
-- [[create-concur-webhook-registry|Create a SAP Concur webhook registry]]

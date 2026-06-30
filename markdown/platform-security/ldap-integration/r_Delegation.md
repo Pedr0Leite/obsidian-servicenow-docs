@@ -14,7 +14,7 @@ breadcrumb: [Active Directory Application Mode \(ADAM\), LDAP integration, Authe
 
 # Delegation with ADAM
 
-Once the OU structure is created, define the permission delegations to properly secure the objects to limited [[users|users]].
+Once the OU structure is created, define the permission delegations to properly secure the objects to limited users.
 
 As with Active Directory, there are two general ways to grant permissions:
 
@@ -36,6 +36,3 @@ Example: "`dsacls \\localhost:50010\dc=myCompany,dc=adam`" displays the permissi
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[users|Users]]

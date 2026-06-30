@@ -32,27 +32,19 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager or sn\_customerservice\
 
 6.  Follow the major issue management process to resolve the proactive case.
 
-    **Note:** If the [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management plugin is activated, your system administrator may have configured workflows to automate the creation of major cases depending on the number of accounts affected by an issue. If your system administrator has configured workflows, major cases are created in either **Accepted**, **Proposed**, or **Created** state depending on the settings. If **Accepted**, child cases are automatically created.
+    **Note:** If the Proactive Customer Service Operations with Event Management plugin is activated, your system administrator may have configured workflows to automate the creation of major cases depending on the number of accounts affected by an issue. If your system administrator has configured workflows, major cases are created in either **Accepted**, **Proposed**, or **Created** state depending on the settings. If **Accepted**, child cases are automatically created.
 
 
 **Related topics**  
 
 
-[[major-issue-management|Major issue management overview]]
+[Major issue management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-management.md)
 
-[[create-major-case|Create a major case]]
+[Create a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-major-case.md)
 
-[[create-major-case-candidate|Create a major case candidate]]
+[Create a major case candidate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-major-case-candidate.md)
 
-[[approve-reject-major-case-candidate|Approve or reject a major case candidate]]
+[Approve or reject a major case candidate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/approve-reject-major-case-candidate.md)
 
-[[create-child-cases-for-major-case|Create child cases for a major case]]
+[Create child cases for a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-child-cases-for-major-case.md)
 
-## Related
-
-- [[major-issue-management|Major issue management overview]]
-- [[create-major-case|Create a major case]]
-- [[create-major-case-candidate|Create a major case candidate]]
-- [[approve-reject-major-case-candidate|Approve or reject a major case candidate]]
-- [[create-child-cases-for-major-case|Create child cases for a major case]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]

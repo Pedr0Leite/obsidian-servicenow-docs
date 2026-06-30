@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization, Set up workforce, Configure, Field Service 
 
 # Activate Workforce Optimization for Field Service
 
-You can activate the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] plugin \(com.snc.app\_fsm\_wfo\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Workforce Optimization for Field Service plugin \(com.snc.app\_fsm\_wfo\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Workforce Optimization for Field Service requires the following ServiceNow Store
 -   **Required ServiceNow Store applications to use in Field Service Manager Workspace**
     -   **Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\)**
 
-        Integrate the agent shift scheduling functionalities for Field Service Management [[using-wfo-fsm|Workforce Optimization]]. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
+        Integrate the agent shift scheduling functionalities for Field Service Management Workforce Optimization. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
     -   **Team Management for Field Service \(com.snc.sn\_fsm\_team\_mgmt \)**
 
@@ -37,7 +37,7 @@ Workforce Optimization for Field Service requires the following ServiceNow Store
 
         Facilitates the coaching of employees on their work through the use of coaching opportunities that can be conditionally configured. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
-    -   **[[coaching-with-learning-wfo-fsm|Coaching with Learning]] \(com.sn\_coach\_learning\)**
+    -   **Coaching with Learning \(com.sn\_coach\_learning\)**
 
         Coach employees on their work through the use of coaching opportunities, taking advantage of critical moments in a process, that can be conditionally configured. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
@@ -52,7 +52,7 @@ The following items are installed with Workforce Optimization for Field Service:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-wfo-fsm|Workforce Optimization for Field Service components]].
+For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md).
 
 ## Procedure
 
@@ -75,10 +75,3 @@ The Workforce Optimization for Field Service plugin when activated successfully 
 
 **Note:** You must enable the **Enable Shift Scheduling for FSM to Determine Availability** toggle switch after setting up schedules, skills, teams, and coaching for your agents to optimize your Field Service workforce accordingly.
 
-## Related
-
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[coaching-with-learning-wfo-fsm|Coaching with Learning]]

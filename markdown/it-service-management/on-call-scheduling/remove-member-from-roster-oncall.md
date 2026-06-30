@@ -22,7 +22,7 @@ Role required: rota\_manager, rota\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **My Group Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **My Group Schedules**.
 
 2.  Open the required shift form.
 
@@ -101,6 +101,3 @@ Name of the shift.
 
 [Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/roles-assigning-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

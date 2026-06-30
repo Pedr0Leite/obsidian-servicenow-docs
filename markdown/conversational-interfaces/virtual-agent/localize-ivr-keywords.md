@@ -14,7 +14,7 @@ breadcrumb: [Configure AWS account, Configuring Conversational IVR with Amazon C
 
 # Customize keywords in Conversational IVR
 
-Customize the IVR integration-specific keywords that are provided by default for better conversation in another language with the [[virtual-agent-landing-page|Virtual Agent]].
+Customize the IVR integration-specific keywords that are provided by default for better conversation in another language with the Virtual Agent.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
 
 **Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

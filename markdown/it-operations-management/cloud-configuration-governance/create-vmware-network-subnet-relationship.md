@@ -22,11 +22,11 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-If no relationship exists and a user must select a virtual network and subnet in the [[cloudmgt-cloud-user-portal|Cloud User Portal]], the user can encounter an error.
+If no relationship exists and a user must select a virtual network and subnet in the Cloud User Portal, the user can encounter an error.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Service Accounts**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Service Accounts**.
 
 2.  Open the datacenter that contains the VMware cloud network.
 
@@ -46,7 +46,4 @@ If no relationship exists and a user must select a virtual network and subnet in
 
 8.  Click **Save and Exit**.
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

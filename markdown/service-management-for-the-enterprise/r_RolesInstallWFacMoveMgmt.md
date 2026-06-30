@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 # Roles installed with Facilities Move Management
 
-Roles control access to features and capabilities in [[c_FacMoveMgmt|Facilities Move Management]].
+Roles control access to features and capabilities in Facilities Move Management.
 
 Facilities Move Management adds the following roles.
 
@@ -52,7 +52,7 @@ Move administrator\[move\_admin\]
 
 </td><td>
 
-Has full control over all [[c_ServiceManagement|Service Management]] data. Also administers Territories and Skills, as needed.
+Has full control over all Service Management data. Also administers Territories and Skills, as needed.
 
 </td><td>
 
@@ -130,10 +130,5 @@ Can only read and create service orders and follow up on the orders they created
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+</table>**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_ServiceManagement|Service Management]]

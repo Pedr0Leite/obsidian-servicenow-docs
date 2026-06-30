@@ -32,7 +32,7 @@ Use ServiceNow® Upgrade Center
 
 </td><td>
 
-[Reference\[Omitted image "uc-[[reference-email-admin|reference]]-icon.png"\] Alt text: Learn miscellaneous information about Upgrade Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
+[Reference\[Omitted image "uc-reference-icon.png"\] Alt text: Learn miscellaneous information about Upgrade Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -40,6 +40,3 @@ Use ServiceNow® Upgrade Center
 -   [Ask or answer questions about Upgrade Center in the ServiceNow Community](https://www.servicenow.com/community/)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 
-## Related
-
-- [[reference-email-admin|Reference]]

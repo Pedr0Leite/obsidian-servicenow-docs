@@ -14,7 +14,7 @@ breadcrumb: [Integrate with a translation service provider, Integration with oth
 
 # Create a custom translator configuration
 
-Configure [[dynamic-translation|Dynamic Translation]] for a third-party machine translation provider of your choice.
+Configure Dynamic Translation for a third-party machine translation provider of your choice.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 ## About this task
 
-By default, Google and Microsoft translator [[clone-configurations-tab|configurations]] are available and ready for you to add your account details. Also by default the ServiceNow translator configuration, for language detection only, is available and active.
+By default, Google and Microsoft translator configurations are available and ready for you to add your account details. Also by default the ServiceNow translator configuration, for language detection only, is available and active.
 
 However, you can also configure a custom translator with the following procedure.
 
@@ -140,12 +140,7 @@ For more information, see [Create a language code mapping](https://raw.githubuse
 
 ## What to do next
 
-If you are on Xanadu Patch 3 or above, and want to use [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]], add your translation provider's exclusion tags. For more information, see [Add an Exclusion Provider Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-provider.md).
+If you are on Xanadu Patch 3 or above, and want to use Exclusion Framework in Dynamic Translation, add your translation provider's exclusion tags. For more information, see [Add an Exclusion Provider Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-provider.md).
 
 **Parent Topic:**[Integrate with a translation service provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integrate-translation-service-provider.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]
-- [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]]

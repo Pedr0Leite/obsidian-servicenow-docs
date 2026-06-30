@@ -18,7 +18,7 @@ Set options to import custom and ServiceNow APIs from your instance into the CMD
 
 ## Before you begin
 
-Configure the **Import ServiceNow API to [[api-insights|API Insights]]** scheduled job to automatically import configured APIs from your ServiceNow instance into the API Insights workspace at regular intervals. For more information, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md).
+Configure the **Import ServiceNow API to API Insights** scheduled job to automatically import configured APIs from your ServiceNow instance into the API Insights workspace at regular intervals. For more information, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md).
 
 Role required: sn\_cmdb\_admin
 
@@ -42,7 +42,7 @@ Configure API import options to bring custom and ServiceNow APIs from your Servi
     |ServiceNow APIs|Imports predefined ServiceNow APIs within the instance.|
     |Active in last|Imports only APIs based on recent activity, available for scripted APIs only.|
 
-    1.  If you select the **ServiceNow APIs** [[check-box|check box]], select **Select APIs** and then manage the APIs to import.
+    1.  If you select the **ServiceNow APIs** check box, select **Select APIs** and then manage the APIs to import.
 
         |Action|Description|
         |------|-----------|
@@ -55,7 +55,4 @@ Configure API import options to bring custom and ServiceNow APIs from your Servi
 
 6.  On the Configure API import page, select **Save configuration**.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[check-box|Check box]]

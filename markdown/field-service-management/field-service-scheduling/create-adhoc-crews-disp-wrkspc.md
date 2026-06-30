@@ -33,7 +33,7 @@ The Create Crew option is available in the work order task form if the following
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -141,6 +141,3 @@ Option to indicate whether the crew is available for selection when assigning a 
 
 An ad hoc task-specific crew is created along with the related list records, such as Details, Groups, Skills, and Task Assignees.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -31,9 +31,9 @@ Access to a contract document is based on the following user roles and condition
 When multiple contract documents are attached, a separate contract repository record is created for each contract type.
 
 -   **[View and download a signed contract document as a legal fulfiller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract-fulfiller.md)**  
-[[snlc-preview-contract-fulfiller|View and download a signed contract document as a legal fulfiller]].
+View and download a signed contract document as a legal fulfiller.
 -   **[View and download a signed contract document as a legal user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract-user.md)**  
-[[snlc-preview-contract-user|View and download a signed contract document as a legal user]].
+View and download a signed contract document as a legal user.
 
 **Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
@@ -56,10 +56,5 @@ When multiple contract documents are attached, a separate contract repository re
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[snlc-preview-contract-fulfiller|View and download a signed contract document as a legal fulfiller]]
-- [[snlc-preview-contract-user|View and download a signed contract document as a legal user]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

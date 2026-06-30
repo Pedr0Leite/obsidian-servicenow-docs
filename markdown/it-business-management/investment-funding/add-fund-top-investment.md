@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Top level Investments**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Top level Investments**.
 
 2.  Open an investment to which you want to allocate funds.
 
@@ -72,6 +72,3 @@ The top-level investment is funded with the specified amount for the selected pe
 
 **Parent Topic:**[Create a top-level investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-top-level-investment.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

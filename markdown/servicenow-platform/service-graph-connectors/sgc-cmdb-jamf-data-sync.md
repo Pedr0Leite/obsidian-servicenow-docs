@@ -45,7 +45,7 @@ The delta data synchronization feature is available in Jamf version 2.14 and hig
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Jamf** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Jamf** &gt; **Connections**.
 
 2.  From the list of connections, open the connection for which you want to disable delta synchronization.
 
@@ -57,6 +57,4 @@ The delta data synchronization feature is available in Jamf version 2.14 and hig
 
 4.  Select **Update**.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]

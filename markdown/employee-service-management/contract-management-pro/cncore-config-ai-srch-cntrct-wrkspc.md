@@ -15,7 +15,7 @@ breadcrumb: [Configure Contract Workspace, Configure additional features in CM P
 
 # Configure AI search for Contract Workspace
 
-Get improved search results in [[cncore-contract-workspace|Contract Workspace]] by configuring the ServiceNow® AI Search application to work with it.
+Get improved search results in Contract Workspace by configuring the ServiceNow® AI Search application to work with it.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information on the AI Search application, and how to use most effective
 
 AI Search is configured for Contract Workspace.
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

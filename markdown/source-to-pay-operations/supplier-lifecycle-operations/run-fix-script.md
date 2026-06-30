@@ -14,11 +14,11 @@ breadcrumb: [Enable M2M mapping between supplier contact and suppliers, Configur
 
 # Run the fix script to enable M2M mapping
 
-Run the fix script to enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers.
+Run the fix script to enable M2M mapping between supplier contact and suppliers.
 
 ## Before you begin
 
-Verify that the application scope is set to [[supplier-common|Supplier Common Architecture]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Verify that the application scope is set to Supplier Common Architecture. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -64,7 +64,7 @@ Script
 
 Enter the following code for the fix script:```
 var m2mEnableUtil = new sn_slm.M2MSupplierSupportUtil();
-gs.info("Current status of M2M [[supplier|Supplier]] support: " + m2mEnableUtil.isM2MSupplierSupported());
+gs.info("Current status of M2M Supplier support: " + m2mEnableUtil.isM2MSupplierSupported());
 gs.info("Enabled M2M supplier support: " + m2mEnableUtil.enableM2MSupplierSupport());
 ```
 
@@ -89,8 +89,3 @@ Verify if the version record is created for `M2MSupplierSupportUtil script inclu
 
 [Remove the unique constraint from Email Domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-unique-constraint.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier|Supplier]]

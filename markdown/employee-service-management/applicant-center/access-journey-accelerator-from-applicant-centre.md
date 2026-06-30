@@ -14,7 +14,7 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure pre-hire experience on applicant center
 
-Provide continuity in the [[hiring-tab-concept|hiring]] journey by providing a [[jny-pre-hire-experience|pre-hire experience]] on the [[applicant-center-concept|applicant center]].
+Provide continuity in the hiring journey by providing a pre-hire experience on the applicant center.
 
 ## About this task
 
@@ -40,9 +40,9 @@ Role required: admin
 
     2.  Create an internal applicant role: **sn\_ta\_hiring\_core.internal\_applicant**.
 
-3.  Copy the journey menu from the [[employee-center-landing-page|employee center]] portal to the applicant center portal.
+3.  Copy the journey menu from the employee center portal to the applicant center portal.
 
-4.  Link the applicant center user to the [[c_HRProfileRecords|HR profile]] and create an onboarding journey using the same applicant user.
+4.  Link the applicant center user to the HR profile and create an onboarding journey using the same applicant user.
 
     For details, see [Create a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-create-journey.md)
 
@@ -55,10 +55,3 @@ The applicants are assigned internal roles and they can start their pre-boarding
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[jny-pre-hire-experience|Pre-hire experience]]
-- [[applicant-center-concept|Applicant Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

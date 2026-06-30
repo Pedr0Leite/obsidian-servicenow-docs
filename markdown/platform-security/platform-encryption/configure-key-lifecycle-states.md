@@ -28,7 +28,7 @@ Role required: sn\_kmf.admin
 
 3.  Select a key alias on the Crypto Specifications tab.
 
-    \[Omitted image "key-lifecycle-[[sc-configuration|configuration]].jpg"\] Alt text: Shows how to select a key from the lifecycle definition.
+    \[Omitted image "key-lifecycle-configuration.jpg"\] Alt text: Shows how to select a key from the lifecycle definition.
 
 4.  Select **Next**.
 
@@ -122,6 +122,3 @@ Field the duration is relative to. Displays if a relative duration or operation 
 </table>
 **Parent Topic:**[Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

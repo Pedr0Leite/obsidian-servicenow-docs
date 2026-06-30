@@ -16,9 +16,9 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 You can configure the programs and the services within a program offered by healthcare organizations for patient or consumer enrollment.
 
-A program within the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application is a product catalog item offered by healthcare life organizations to their patients or consumers.
+A program within the Healthcare and Life Sciences Service Management Core application is a product catalog item offered by healthcare life organizations to their patients or consumers.
 
-A program service within [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] application is a product catalog item offered within a program by healthcare life organizations to their patients or consumers.
+A program service within Healthcare and Life Sciences Service Management application is a product catalog item offered within a program by healthcare life organizations to their patients or consumers.
 
 -   **[Configure a program service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-create-program-service.md)**  
 Add a program service for use within the programs associated with the Healthcare and Life Sciences Service Management applications.
@@ -27,7 +27,3 @@ Add a program for use within the Healthcare and Life Sciences Service Management
 
 **Parent Topic:**[Configuring Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-configuring-serv-mgmt-core.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]

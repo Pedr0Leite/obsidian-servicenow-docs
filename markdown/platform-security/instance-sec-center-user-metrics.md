@@ -16,7 +16,7 @@ Analyze user metrics to look for anomalous behaviors that are related to specifi
 
 ## Not Logged in Last Month / Last Six Months / Last Year
 
-Indicates the number of [[users|users]] who have not logged into the instance within the last month, within the last six months, and within the last calendar year. To view user detail for a specific metric:
+Indicates the number of users who have not logged into the instance within the last month, within the last six months, and within the last calendar year. To view user detail for a specific metric:
 
 -   Click the metric to view a listing of users that have not logged in to the instance during the indicated time period.
 -   Click a user name to view more details about that user.
@@ -28,10 +28,10 @@ Indicates the number of users with the following high privilege role types:
 |User role|Description|
 |---------|-----------|
 |admin|Primary administrator role that has access to all system features, functions, and data, regardless of security constraints.|
-|ais\_high\_security\_admin|Elevated privilege role that enables a user to access [[c_HighSecuritySettings|High Security settings]] for AI Search. To learn more, see [Assign roles to AI Search administrators and users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/assign-ais-admin-role.md).|
-|password\_reset\_admin|Administrator role that enables a user to view the status of [[c_SelfServicePasswordReset|password reset]] activities, identify potential security threats, and monitor for compliance with password security [[ca-policies|policies]]. To learn more, see [Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MonitorPasswordResetActivity.md).|
+|ais\_high\_security\_admin|Elevated privilege role that enables a user to access High Security settings for AI Search. To learn more, see [Assign roles to AI Search administrators and users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/assign-ais-admin-role.md).|
+|password\_reset\_admin|Administrator role that enables a user to view the status of password reset activities, identify potential security threats, and monitor for compliance with password security policies. To learn more, see [Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MonitorPasswordResetActivity.md).|
 |script\_include\_admin|Administrator role that also has access to script includes.|
-|security\_admin|Elevated privilege role that enables a user to create and change access controls and High Security Settings. To learn more, see [[security-admin-role|Security\_admin role]]|
+|security\_admin|Elevated privilege role that enables a user to create and change access controls and High Security Settings. To learn more, see [Security\_admin role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-admin-role.md)|
 |user\_admin|Administrator role that can also manage users, roles, user groups, roles, and department assignments.|
 
 **Note:** To learn more about these administrative role types, see [Special administrative roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SpecialAdministrativeRoles.md).
@@ -67,29 +67,18 @@ Shows count trend information for specific types of events, over a time period:
 |External login|Number of users with an assigned snc\_external role who logged into this instance during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes. Monitoring this metric enables you to verify that the external login attempts are legitimate and not potential security issues.|
 |Failed login|Number of failed login attempts on a specific day.|
 |Impersonation|Number of users logged in on a specific day who are impersonating other users.|
-|Security elevation|Number of times that a security administrator has elevated security for standard users by changing their assigned user role to a high privilege security role during the calendar day. These high privilege [[security-roles|security roles]] include [[oauth-inbound-and-outbound|oauth]]\_admin, admin, security\_admin, and impersonator.|
+|Security elevation|Number of times that a security administrator has elevated security for standard users by changing their assigned user role to a high privilege security role during the calendar day. These high privilege security roles include oauth\_admin, admin, security\_admin, and impersonator.|
 |SNC login|Number of Customer Service and Support who logged in to this instance using the hi-hopping technique during a specific day.|
 
 To view user detail for a specific event count \(for example, Impersonation\):
 
--   Click the user count metric. The Security Dashboard [[r_EventLogs|Event Logs]] page lists event logs for that type of event.
+-   Click the user count metric. The Security Dashboard Event Logs page lists event logs for that type of event.
 -   Click a user name to view more details about that event.
 
-**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
 **Related topics**  
 
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_UsePerformanceAnalyticsScorecards.md)
 
-## Related
-
-- [[security-admin-role|Security\_admin role]]
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[users|Users]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[ca-policies|Policies]]
-- [[security-roles|Security Roles]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[r_EventLogs|Event logs]]

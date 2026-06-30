@@ -22,7 +22,7 @@ Role required: rota\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Calendars**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Calendars**.
 
 2.  In the title bar, click the toggle filters icon \[Omitted image "ONC\_SettingsIcon.png"\] Alt text: Configuration icon and select a user group.
 
@@ -150,6 +150,3 @@ Number of weeks or days for which you want to update the subscribed calendar.
 </table>
 **Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

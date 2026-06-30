@@ -18,7 +18,7 @@ This article provides an outline of how a CPQ Configuration UI can be initialize
 
 The base configuration URL is in the format `https://{tenant}.logik.io/ui/configure/{configurableProductId}`, where:
 
--   \{tenant\} is the CPQ tenant that you are using, which can be found in Salesforce or if [[cpq-using|using CPQ]] headless, the base URL of the Admin experience
+-   \{tenant\} is the CPQ tenant that you are using, which can be found in Salesforce or if using CPQ headless, the base URL of the Admin experience
 -   \{configurableProductId\} is the Product ID of the CPQ Configurable Product to use for the configuration
 
 Example configuration URL: `https://demo6.demo.logik.io/ui/configure/01t5f000006QKynAAG?v=1`
@@ -129,7 +129,7 @@ log
 
 </td><td>
 
-Log Execution \([[cpq-flightpath|Flightpath]]\)
+Log Execution \(Flightpath\)
 
 </td><td>
 
@@ -157,7 +157,7 @@ When a contracted order is amended, CPQ identifies the prior configuration ID. T
 
 </td></tr><tr><td>
 
-[[fields|fields]]
+fields
 
 </td><td>
 
@@ -239,7 +239,7 @@ Return URL
 
 </td><td>
 
-URL to set window.location to on save or [[cancel|cancel]]. Needs to be encoded and URL-safe
+URL to set window.location to on save or cancel. Needs to be encoded and URL-safe
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Considerations for using the configuration URL as the top level window URL:
 Considerations for using the configuration URL in an iframe:
 
 -   If a return URL is included, the UI will attempt to set the window location to that URL on save \("Quote"\) or on cancel. If a return URL is not included, the CPQ UI will broadcast a postMessage up to the parent, with the UUID on save \(such as `{"uuid": "8b88c843-d10b-468b-8c49-17f8c9698799"}`\) and an empty object on cancel \(`{}`\).
--   For either implementation, after executing the save or cancel action, the configuration is removed. Subsequent save actions will result in a 404 error with an error message: "No [[rules_101|Rules]] Engine found for Tenant with Config ID '&lt;Logik UUID&gt;'. Subsequent cancel actions will also result in a 404 error.
+-   For either implementation, after executing the save or cancel action, the configuration is removed. Subsequent save actions will result in a 404 error with an error message: "No Rules Engine found for Tenant with Config ID '&lt;Logik UUID&gt;'. Subsequent cancel actions will also result in a 404 error.
 
 ## Configuration result
 
@@ -320,16 +320,7 @@ The result of the saved Configuration can be accessed by using the GET API to re
 
 [Postman Collection with Config API URL](https://drive.google.com/file/d/1uHyPsUROr7JI84RZ0Ac2ogqcl7-kxL8J/view?usp=share_link)
 
-The result can be sent to a downstream system via Webhook. See [[cpq-webhooks|Webhooks]].
+The result can be sent to a downstream system via Webhook. See [Webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md).
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[cpq-webhooks|Webhooks]]
-- [[use-cases|Use cases]]
-- [[cpq-using|Using CPQ]]
-- [[cpq-flightpath|Flightpath]]
-- [[fields|Fields]]
-- [[cancel|Cancel]]
-- [[rules_101|Rules]]

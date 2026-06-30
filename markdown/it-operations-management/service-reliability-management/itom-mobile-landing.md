@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # ITOM Mobile Agent
 
-Stay connected and keep services reliable with ITOM Mobile Agent, which lets you access [[sr-landing-page|Service Reliability Management]] \(SRM\) features on iOS and Android devices. Use it to track alerts, manage incidents, work on change and catalog tasks, and manage on-call shifts on the go.
+Stay connected and keep services reliable with ITOM Mobile Agent, which lets you access Service Reliability Management \(SRM\) features on iOS and Android devices. Use it to track alerts, manage incidents, work on change and catalog tasks, and manage on-call shifts on the go.
 
 \[Omitted image "itom-mobile-overview.png"\] Alt text: Three mobile screens show an incoming push notification, the alert in the My work tab, and alert details in ITOM Mobile Agent.
 
@@ -26,7 +26,7 @@ Stay connected and keep services reliable with ITOM Mobile Agent, which lets you
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:[[install-itom-mobile|Install ITOM Mobile Agent]] and configure notifications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/configure-itom-mobile.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install ITOM Mobile Agent and configure notifications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/configure-itom-mobile.md)
 
 </td></tr><tr><td>
 
@@ -38,8 +38,3 @@ Stay connected and keep services reliable with ITOM Mobile Agent, which lets you
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[install-itom-mobile|Install ITOM Mobile Agent]]

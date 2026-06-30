@@ -18,11 +18,11 @@ Fulfill a localization task created for each selected language in the translatio
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_fulfiller
+Role required: localization\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **My Tasks**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **My Tasks**.
 
 2.  Select a localization task in the Open state.
 
@@ -37,7 +37,7 @@ Role required: [[ia-localization-il|localization]]\_fulfiller
     -   **Expand all**: Expand all the groups on the comparison UI.
     -   **Collapse all**: Collapse all the groups on the comparison UI.
     -   **Show groups with missing translations**: See only the groups that have missing translations when the content is translated.
-4.  Translate the content manually or select one of the following [[translation-modes|translation modes]] from the task header.
+4.  Translate the content manually or select one of the following translation modes from the task header.
 
 <table id="table_sxs_djm_ypb"><thead><tr><th>
 
@@ -126,8 +126,3 @@ The translations of the localization task are published and the task is updated 
 
 You can move translation records across instances by using update sets. The translation-related XML files are saved to the update set specified in the settings. For more information, see [Localization Framework Properties: Update Set Strategies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-update-set-strategies.md).
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[translation-modes|Translation modes]]

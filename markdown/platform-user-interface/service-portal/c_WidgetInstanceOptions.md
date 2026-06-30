@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Widget option schema
 
-Widget instances allow users to uniquely [[configure-onboarding-modals|configure]] each widget they add to a page. Use the option schema to define the parameters for your widget.
+Widget instances allow users to uniquely configure each widget they add to a page. Use the option schema to define the parameters for your widget.
 
 ## Storing instance options
 
@@ -23,7 +23,7 @@ When developing a widget, you can edit the option schema to create parameters fo
 -   String
 -   Boolean
 -   Integer
--   [[onboarding-modals-reference|Reference]]
+-   Reference
 -   Choice
 -   Field\_list \(depends on table\)
 -   Field\_name \(depends on table\)
@@ -84,7 +84,7 @@ Role required: admin or sp\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration** &gt; **Widget Editor**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration** &gt; **Widget Editor**.
 
 2.  Select the widget you want to configure the option schema for.
 
@@ -121,7 +121,7 @@ Role required: admin or sp\_admin
 
 ## Store instance options in a table
 
-Create a table to store widget instance options instead of editing the existing option schema. When using a table as your widget option schema, you can define custom fields using any ServiceNow field type, add [[c_Filters|filters]] to fields, and search or query instance options.
+Create a table to store widget instance options instead of editing the existing option schema. When using a table as your widget option schema, you can define custom fields using any ServiceNow field type, add filters to fields, and search or query instance options.
 
 ### Before you begin
 
@@ -199,9 +199,3 @@ To define a custom option schema, add fields to an sp\_instance extension table,
 
 Test the option schema by adding the widget to a page in the Service Portal Designer. Click the edit icon on the widget instance to view the instance options. After [configuring the widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md), view the configuration by navigating to the instance record in the sp\_instance extension table.
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]

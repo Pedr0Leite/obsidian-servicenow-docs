@@ -12,7 +12,7 @@ breadcrumb: [Configure Real Time Transcription for ServiceNow Voice for IT Servi
 
 # Set up Real-Time Transcription for ServiceNow Voice for IT Service Management
 
-Set up the properties in the Amazon [[c_Connect|Connect]] integration in order to enable Real-Time Transcription for IT Service Management.
+Set up the properties in the Amazon Connect integration in order to enable Real-Time Transcription for IT Service Management.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-For new deployments, the Real-Time Transcription feature is enabled during the guided setup for [[cloud-call-center-overview|ServiceNow Voice]].
+For new deployments, the Real-Time Transcription feature is enabled during the guided setup for ServiceNow Voice.
 
-If you have already deployed ServiceNow Voice and are upgrading, go through all of the steps for [[ccc-setup|Setting up ServiceNow Voice]], and the steps in this procedure, before completing the setup on Amazon Connect.
+If you have already deployed ServiceNow Voice and are upgrading, go through all of the steps for [Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md), and the steps in this procedure, before completing the setup on Amazon Connect.
 
 ## Procedure
 
@@ -57,11 +57,5 @@ If you have already deployed ServiceNow Voice and are upgrading, go through all 
 
 Proceed with the setup tasks on your Amazon Connect instance detailed in the setup guide.
 
-**Parent Topic:**[[configure-rtt-sn-voice-itsm|Configure Real Time Transcription for ServiceNow Voice for IT Service Management]]
+**Parent Topic:**[Configure Real Time Transcription for ServiceNow Voice for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-rtt-sn-voice-itsm.md)
 
-## Related
-
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[configure-rtt-sn-voice-itsm|Configure Real Time Transcription for ServiceNow Voice for IT Service Management]]
-- [[c_Connect|Connect]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

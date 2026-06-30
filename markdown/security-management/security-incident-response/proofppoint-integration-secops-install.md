@@ -14,7 +14,7 @@ breadcrumb: [Configure, Proofpoint Integration for Security Operations, Security
 
 # Install and configure the Proofpoint Integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the  [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]] application from the  ServiceNow® Store on your  ServiceNow AI Platform instance.
+Install and configure the  Proofpoint Integration for Security Operations application from the  ServiceNow® Store on your  ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_si\_admin
 
     For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations ** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations ** &gt; **Integration Configurations**.
 
 3.  Locate the  Proofpoint Integration for Security Operations tile and select **Configure**.
 
@@ -45,8 +45,3 @@ Role required: sn\_si\_admin
 
 After you successfully validate and submit the configuration, the integration is saved on the Security Integrations page as a tile.
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]]
-- [[security-operations-landing-page|Security Operations]]

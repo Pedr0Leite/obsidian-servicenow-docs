@@ -23,7 +23,7 @@ Leverage the employee support functionalities in CBS to empower your employees. 
 Provide suppliers in your organization an easy resolution for the following requests.
 
 -   Raise a general inquiry from the supplier catalog.
--   [[request-apo|Raise an invoice request]] on Accounts Payable Operations.
+-   Raise an invoice request on Accounts Payable Operations.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -39,7 +39,3 @@ Choose one of these tiles to get started.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[request-apo|Raise an invoice request]]

@@ -41,8 +41,8 @@ Usage metrics across the following Now Assist for CSM skills are:
 -   Email recommendations
 -   Chat recommendations
 -   Case summarization
--   [[csm-config-ws-chat-summary|Chat summarization]]
--   [[case-sentiment-analysis|Sentiment Analysis]] case
+-   Chat summarization
+-   Sentiment Analysis case
 -   Activity response generation
 -   Sidebar summarization
 -   Resolution notes generation
@@ -58,12 +58,12 @@ Default widgets:
 
 -   **Skills usage trend**- Displays how frequently each skill is selected, triggered, and successfully executed over time, enabling you to monitor skill engagement over time.
 -   **Daily active users**- Shows the number of unique users activating GenAI skills each day, helping you measure adoption rates.
--   **Acceptance rate**- [[gamification-components-tracks|Tracks]] the percentage of GenAI‑generated content that users accept and apply compared to manually created content, providing a clear measure of content quality and user trust.
+-   **Acceptance rate**- Tracks the percentage of GenAI‑generated content that users accept and apply compared to manually created content, providing a clear measure of content quality and user trust.
 -   **Skills feedback**- Captures end‑user feedback through thumbs up and thumbs down responses on generated outputs.
 
 Custom widgets:
 
--   **Skill usage trend by customer agents**- A customizable widget that [[migration-form-highlights|highlights]] which customer agents are using GenAI skills most frequently, helping you identify usage patterns at the individual agents level.
+-   **Skill usage trend by customer agents**- A customizable widget that highlights which customer agents are using GenAI skills most frequently, helping you identify usage patterns at the individual agents level.
 -   **Now Assist actions per assignment group**- A customizable widget that highlights which assignment groups are using GenAI skills most frequently, helping you identify usage patterns at an assignment group level.
 
 **Note:**
@@ -87,9 +87,3 @@ To drill into specific skill performance:
 
 [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md)
 
-## Related
-
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[gamification-components-tracks|Tracks]]
-- [[migration-form-highlights|Highlights]]

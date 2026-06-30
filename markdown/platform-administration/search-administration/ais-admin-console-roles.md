@@ -15,11 +15,11 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Search 
 
 # AI Search Admin console roles
 
-Roles are associated with the [[ais-admin-console|AI Search Admin console]].
+Roles are associated with the AI Search Admin console.
 
 -   ServiceNow AI Platform® administrator \(admin\):
     -   Install and activate AI Search Admin console.
-    -   Install additional applications to add [[ia-ai-search|AI Search]] features.
+    -   Install additional applications to add AI Search features.
 -   AI Search administrator \(ais\_admin\):
     -   Manage and configure AI Search settings for search applications.
     -   Review AI Search activity.
@@ -27,7 +27,3 @@ Roles are associated with the [[ais-admin-console|AI Search Admin console]].
     -   Access AI Search forum on ServiceNow Community.
     -   See answers to common questions about AI Search.
 
-## Related
-
-- [[ais-admin-console|AI Search Admin console]]
-- [[ia-ai-search|AI Search]]

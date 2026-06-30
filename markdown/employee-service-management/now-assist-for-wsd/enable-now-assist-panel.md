@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 
-2.  Select the [[overview-lxp-widgets|Overview tab]].
+2.  Select the Overview tab.
 
-3.  Select [[workplace-advisor-qna|Workplace Advisor QnA Agentic workflow]].
+3.  Select Workplace Advisor QnA Agentic workflow.
 
 4.  On the form, navigate to Select channels and status.
 
@@ -34,7 +34,4 @@ Role required: admin
 
 6.  Select **Save and test**.
 
-## Related
 
-- [[overview-lxp-widgets|Overview tab]]
-- [[workplace-advisor-qna|Workplace advisor QnA agentic workflow]]

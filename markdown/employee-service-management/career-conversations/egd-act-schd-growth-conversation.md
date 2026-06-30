@@ -14,11 +14,11 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Schedule a growth conversation in Career Conversations
 
-Use the [[egd-activities-conversations-module|Career Conversations]] app to simultaneously create and schedule a one-time or recurring conversation with your employee or manager. For each conversation you schedule, discuss the employee's growth and development as a professional within your organization.
+Use the Career Conversations app to simultaneously create and schedule a one-time or recurring conversation with your employee or manager. For each conversation you schedule, discuss the employee's growth and development as a professional within your organization.
 
 ## Before you begin
 
-You must install the Career Conversations application to access it from the [[employee-center-landing-page|Employee Center]].
+You must install the Career Conversations application to access it from the Employee Center.
 
 You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
 
@@ -129,7 +129,3 @@ Update the agenda for your upcoming conversation by using an option that corresp
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]

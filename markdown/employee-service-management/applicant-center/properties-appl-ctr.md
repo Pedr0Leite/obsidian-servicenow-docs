@@ -14,7 +14,7 @@ breadcrumb: [Reference, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Properties installed with Applicant Center
 
-The system properties installed with the [[applicant-center-concept|Applicant Center]] plugin are required to configure different functionalities in Applicant Center.
+The system properties installed with the Applicant Center plugin are required to configure different functionalities in Applicant Center.
 
 These properties are available for Applicant Center.
 
@@ -93,7 +93,3 @@ Ignore cache: Selected
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

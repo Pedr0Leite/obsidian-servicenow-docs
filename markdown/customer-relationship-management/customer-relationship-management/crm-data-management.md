@@ -10,7 +10,7 @@ reading_time_minutes: 6
 
 # Data management
 
-The ServiceNow CRM portfolio is built on a shared data foundation. The data models, customer records, product information, user roles, and service structures that underpin CRM are defined once and used across multiple products, including [[crm-about-csm-in-crm|Customer Service Management]] \(CSM\), [[crm-about-fsm-in-crm|Field Service Management]] \(FSM\), [[crm-about-som-in-crm|Sales CRM]], and [[crm-about-industry-solutions-in-crm|industry solutions]].
+The ServiceNow CRM portfolio is built on a shared data foundation. The data models, customer records, product information, user roles, and service structures that underpin CRM are defined once and used across multiple products, including Customer Service Management \(CSM\), Field Service Management \(FSM\), Sales CRM, and industry solutions.
 
 ## Customer service value chain
 
@@ -104,44 +104,32 @@ Manages data privacy compliance and maintains clean, accurate customer data incl
 </td></tr></tbody>
 </table>## In this section
 
--   **[[crm-data-models|Data models]]**
+-   **[Data models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-data-models.md)**
 
     Understand the layered data architecture underpinning the CRM portfolio, including how the Now Platform, CRM Foundation, Customer Workflows \(Sales CRM, CSM, FSM\), and Industry Workflows relate to each other.
 
--   **[[crm-customer-data|Customer data]]**
+-   **[Customer data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-customer-data.md)**
 
     Configure and manage accounts, contacts, consumers, and households, the core customer records that agents, sales teams, and technicians rely on across the CRM portfolio.
 
--   **[[crm-user-management|User management]]**
+-   **[User management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-user-management.md)**
 
     Define and organize internal and external users, assign roles and group memberships, and control access to CRM features and case data
 
--   **[[crm-product-data|Product data]]**
+-   **[Product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-product-data.md)**
 
     Understand how product models, sold products, install base items, and installed products give agents and customers a shared view of what has been purchased and how it is deployed.
 
--   **[[crm-product-catalog|Product catalog]]**
+-   **[Product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-product-catalog.md)**
 
     Understand how products and services are defined in the catalog and how catalog items connect to product models to enable self-service requests and order management.
 
--   **[[crm-service-model-foundation|Service Model Foundation]]**
+-   **[Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-service-model-foundation.md)**
 
     Understand the framework that models service organizations, internal and external business locations, and the relationships between them.
 
--   **[[crm-partner-relationship-mgmt|Partner relationship management]]**
+-   **[Partner relationship management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-relationship-management/crm-partner-relationship-mgmt.md)**
 
     Understand how channel partners are onboarded, managed, and enabled to sell and support customers through partner programs, deal registration, and the partner workspace.
 
-## Related
 
-- [[crm-data-models|Data models]]
-- [[crm-customer-data|Customer data]]
-- [[crm-user-management|User management]]
-- [[crm-product-data|Product data]]
-- [[crm-product-catalog|Product catalog]]
-- [[crm-service-model-foundation|Service Model Foundation]]
-- [[crm-partner-relationship-mgmt|Partner Relationship Management]]
-- [[crm-about-csm-in-crm|Customer Service Management]]
-- [[crm-about-fsm-in-crm|Field Service Management]]
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]

@@ -53,7 +53,7 @@ When you run an OT discovery schedule, it performs the following processing:
     -   If one exists, and any related attributes have changed for the discovered item, it updates the OT Entities that are related to that CI.
     -   If one does not exist, it creates one for it.
 3.  In addition to the location attribute, it also pushes the defined attributes from the OT discovery schedule to the CI and to the related OT entity records.
-4.  It also creates OT entity records for the applications installed on discovered OT devices. To view the applications that have OT entity records created through IT Discovery for OT Networks, navigate to the [[industrial-workspace-for-operational-technology|Industrial Workspace]] list view and open the **Applications** list under **[[operational-technology-overview|Operational Technology]] \(OT\)**.
+4.  It also creates OT entity records for the applications installed on discovered OT devices. To view the applications that have OT entity records created through IT Discovery for OT Networks, navigate to the Industrial Workspace list view and open the **Applications** list under **Operational Technology \(OT\)**.
 
 **Related topics**  
 
@@ -68,7 +68,3 @@ When you run an OT discovery schedule, it performs the following processing:
 
 [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_CreateADiscoverySchedule.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

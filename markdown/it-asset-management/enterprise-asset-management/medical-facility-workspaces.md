@@ -14,27 +14,27 @@ breadcrumb: [Explore, Enterprise Asset Management, IT Asset Management]
 
 # Configurable workspaces
 
-Use configurable workspaces for creating and managing medical and facility assets and [[c_Models|models]] your specific industry or operational environment.
+Use configurable workspaces for creating and managing medical and facility assets and models your specific industry or operational environment.
 
 ## Overview of configurable workspaces for medical and facilities industries
 
 Configurable workspace is available for the following applications:
 
--   [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
--   [[enterprise-asset-management|Enterprise Asset Management]] for Facilities
--   [[ot-asset-management|OT Asset Management]]
--   [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
+-   Enterprise Asset Management for Healthcare
+-   Enterprise Asset Management for Facilities
+-   OT Asset Management
+-   Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)
 
 Configurable workspace gives you a personalized experience as you work on assets and models pertaining to your industry or operational environment.
 
 |Application|Configurable workspace|Benefits|
 |-----------|----------------------|--------|
-|Enterprise [[am-landing-page|Asset Management]] for Healthcare|Medical Asset Workspace|Create and manage medical assets and models.|
+|Enterprise Asset Management for Healthcare|Medical Asset Workspace|Create and manage medical assets and models.|
 |Enterprise Asset Management for Facilities|Facility Asset Workspace|Create and manage facilities assets and models.|
 |OT Asset Management|OT Asset Workspace|Create and manage operational technology and operational equipment assets and models.|
 |Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)|Critical Environment Asset Workspace|Create and manage data center and network infrastructure assets, including facility-based enterprise assets and linear assets.|
 
-**Note:** The normalization process only runs in the [[using-eam-workspace|Enterprise Asset Workspace]] and doesn't run for medical models and facility models within their specific workspaces.
+**Note:** The normalization process only runs in the Enterprise Asset Workspace and doesn't run for medical models and facility models within their specific workspaces.
 
 ## Workspace roles
 
@@ -72,7 +72,7 @@ Facility Asset Workspace
 
 </td></tr><tr><td>
 
-[[ot-asset-ws-otam|OT Asset Workspace]]
+OT Asset Workspace
 
 </td><td>
 
@@ -83,7 +83,7 @@ Facility Asset Workspace
 
 </td></tr><tr><td>
 
-[[eam-cea-ws|Critical Environment Asset Workspace]]
+Critical Environment Asset Workspace
 
 </td><td>
 
@@ -106,19 +106,19 @@ All workspaces
 
 When you log in with an industry-specific role, your workspace view is scoped to your industry by default. For example:
 
--   If you’re logged in as a medical asset manager or medical asset technician, you see only the medical asset category in the Medical [[asset-estate-view-am|asset estate view]] and the medical model category in the Medical [[model-management-view-am|model management view]].
+-   If you’re logged in as a medical asset manager or medical asset technician, you see only the medical asset category in the Medical asset estate view and the medical model category in the Medical model management view.
 -   If you’re logged in as a facility asset manager or facility asset technician, you see only the facility asset category in the Facility asset estate view and the facility model category in the Facility model management view.
--   If you’re logged in as an OT asset manager or OT asset technician, you see only OT and OE asset and [[model-hierarchy|model categories]] in the OT asset estate view and OT model management view.
+-   If you’re logged in as an OT asset manager or OT asset technician, you see only OT and OE asset and model categories in the OT asset estate view and OT model management view.
 
 You may also see asset and model categories outside your industry if they were added by the Enterprise admin or System administrator. These categories are read-only — you can’t create or modify assets or models in them.
 
 ## Asset performance
 
-You can evaluate how effectively your assets are functioning and being used through reports based on asset key performance indicators \(KPIs\) in the Asset performance tab of the [[asset-analytics-view|Asset analytics view]]. The asset performance report is also available on the contextual sidebar of the asset record, displayed by selecting the Asset availability and related KPIs icon \[Omitted image "asset-kpi-icon.png"\] Alt text:. For details, see [Asset performance reports in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-performance-reports-eam.md).
+You can evaluate how effectively your assets are functioning and being used through reports based on asset key performance indicators \(KPIs\) in the Asset performance tab of the Asset analytics view. The asset performance report is also available on the contextual sidebar of the asset record, displayed by selecting the Asset availability and related KPIs icon \[Omitted image "asset-kpi-icon.png"\] Alt text:. For details, see [Asset performance reports in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-performance-reports-eam.md).
 
 ## Unified receiving
 
-You can [[c_ReceiveAssets|receive assets]] from any workflow directly at the stockroom using the unified receiving functionality available in all industry-specific workspaces. You can receive assets in any of the following ways:
+You can receive assets from any workflow directly at the stockroom using the unified receiving functionality available in all industry-specific workspaces. You can receive assets in any of the following ways:
 
 -   Receive a single asset
 -   Receive multiple assets in a shipment
@@ -128,7 +128,7 @@ For more details, see [Unified receiving](https://raw.githubusercontent.com/Serv
 
 ## Inventory reports
 
-You can manage supply and demand in your [[c_Stockrooms|stockrooms]] effectively with inventory demand reports. Navigate to the Inventory insights tab in any stockroom to view the reports. For more details, see [Manage stockrooms with inventory reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-inventory-reports.md).
+You can manage supply and demand in your stockrooms effectively with inventory demand reports. Navigate to the Inventory insights tab in any stockroom to view the reports. For more details, see [Manage stockrooms with inventory reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-inventory-reports.md).
 
 ## Accessing the Admin center
 
@@ -136,20 +136,3 @@ Only the Enterprise admin role and the System administrator role can make config
 
 Industry-specific manager and technician roles can’t make changes in the Admin center except for the **Task rate card and Labor rate card** options under the **TCO configuration** list.
 
-## Related
-
-- [[c_Models|Models]]
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
-- [[am-landing-page|Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[eam-cea-ws|Critical Environment Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[model-management-view-am|Model management view]]
-- [[model-hierarchy|Model categories]]
-- [[asset-analytics-view|Asset analytics view]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[c_Stockrooms|Stockrooms]]

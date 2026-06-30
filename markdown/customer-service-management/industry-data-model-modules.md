@@ -16,7 +16,7 @@ The Service Model Foundation plugins add several modules to the application navi
 
 ## Business Location modules
 
-**Service Organizations &gt; Internal/External Business Locations**: This module [[migration-lists|lists]] the internal and external business locations that have been created.
+**Service Organizations &gt; Internal/External Business Locations**: This module lists the internal and external business locations that have been created.
 
 **Note:** This module is available in Agent Workspace and in the platform interface.
 
@@ -82,6 +82,3 @@ In addition to the preceding roles,
 -   the sn\_crm\_consumer\_relationship\_viewer, sn\_crm\_consumer\_relationship\_data\_manager, sn\_crm\_household\_relationship\_data\_manager, sn\_crm\_foundation\_data\_manager, and sn\_crm\_foundation\_admin roles also have access to the Consumer Team Members module.
 -   the sn\_crm\_household\_relationship\_viewer, sn\_crm\_consumer\_relationship\_data\_manager, sn\_crm\_household\_relationship\_data\_manager, sn\_crm\_foundation\_data\_manager, and sn\_crm\_foundation\_admin roles have the access to the Household Team Members and Householder Relatationships modules.
 
-## Related
-
-- [[migration-lists|Lists]]

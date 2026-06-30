@@ -28,7 +28,7 @@ For privacy, security, or other reasons you might decide not to enable the saved
 
 2.  Open the record for the mobile app in which you want to disable or not include the saved views feature.
 
-3.  Select the information icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **[[sg-mobile-tab-bar|Navigation bar]]** field of the Native Client page. Select **Open Record**.
+3.  Select the information icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **Navigation bar** field of the Native Client page. Select **Open Record**.
 
 4.  Select **Saved** in the Navigation Tab column of the Navigation page.
 
@@ -36,6 +36,4 @@ For privacy, security, or other reasons you might decide not to enable the saved
 
 6.  Select **Update**.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

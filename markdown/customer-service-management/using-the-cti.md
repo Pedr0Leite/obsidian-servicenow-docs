@@ -55,7 +55,7 @@ Enter the phone number in the **Number** field and click **Call**.
 
 </td></tr><tr><td id="d164874e184">
 
-**Click the phone icon next to the __Contact__ or __Consumer__ fields on the [[r_CustomerServiceCaseForm|Case form]].**
+**Click the phone icon next to the __Contact__ or __Consumer__ fields on the Case form.**
 
 </td><td>
 
@@ -135,6 +135,4 @@ The agent is updating case information after completing a call. After completing
 </td></tr></tbody>
 </table>    The **Presence** field in the **OpenFrame** &gt; **OpenFrame Agent Presence** record is updated with the availability status set for the agent.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

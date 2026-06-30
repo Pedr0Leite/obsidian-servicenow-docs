@@ -15,9 +15,9 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 # Unified Taxonomy for Employee Center
 
-Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, [[emp-center-quick-link-config|quick links]], [[exploring-learning-exp|learning]] content, and [[eslate-employee-comms|employee communications]].
+Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, quick links, learning content, and employee communications.
 
-In the [[employee-center-landing-page|Employee Center]] portal, you can use this capability to span across departments to provide a single employee-centric taxonomy. Unified Taxonomy sits at the core of the browse experience in Employee Center. Set up the Unified Taxonomy to leverage the full potential of the browse experience.
+In the Employee Center portal, you can use this capability to span across departments to provide a single employee-centric taxonomy. Unified Taxonomy sits at the core of the browse experience in Employee Center. Set up the Unified Taxonomy to leverage the full potential of the browse experience.
 
 \[Omitted image "curated-exp.jpg"\] Alt text: Curated experiences for Employee Center portal
 
@@ -56,9 +56,3 @@ After you complete the installation, perform the following to achieve a Unified 
 
 [Taxonomy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/taxonomy-form.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[exploring-learning-exp|Learning]]
-- [[eslate-employee-comms|Employee communications]]
-- [[employee-center-landing-page|Employee Center]]

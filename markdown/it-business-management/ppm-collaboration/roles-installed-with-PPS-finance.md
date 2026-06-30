@@ -55,7 +55,7 @@ PPS admin\[it\_pps\_admin\]
 
 </td><td>
 
-Can view and modify the preferences, configurations, and settings for projects, demands, programs, portfolios, resources, [[c_TimeCards|time cards]], and [[agile-development|agile development]].
+Can view and modify the preferences, configurations, and settings for projects, demands, programs, portfolios, resources, time cards, and agile development.
 
 </td><td>
 
@@ -68,7 +68,7 @@ Can view and modify the preferences, configurations, and settings for projects, 
 -   rate\_model\_admin
 
 </td></tr></tbody>
-</table>## [[c_DemandManagement|Demand management]] roles
+</table>## Demand management roles
 
 Demand management adds the following roles.
 
@@ -115,7 +115,7 @@ Can access the Demand and Stakeholders modules of the Demand Management applicat
 -   pps\_resource
 
 </td></tr></tbody>
-</table>## [[c_ProjectApplicationOverview|Project management]] roles
+</table>## Project management roles
 
 Project management adds the following roles.
 
@@ -149,7 +149,7 @@ Project user\[it\_project\_user\]
 
 </td><td>
 
-Can only view [[create-a-project-form|Project form]] fields. Can modify additional fields on the [[project-task-form|Project Task form]], such as **Time constraint** and **State**.
+Can only view Project form fields. Can modify additional fields on the Project Task form, such as **Time constraint** and **State**.
 
 </td><td>
 
@@ -162,7 +162,7 @@ Project manager\[it\_project\_manager\]
 
 </td><td>
 
-Has access to all Project Management application features and functionality. This role enables project managers to create and manage projects, tasks, and [[c_ResourcePlans|resource plans]]. For configuration access to modify application settings and preferences, use the PPS admin \[it\_pps\_admin\] role instead.
+Has access to all Project Management application features and functionality. This role enables project managers to create and manage projects, tasks, and resource plans. For configuration access to modify application settings and preferences, use the PPS admin \[it\_pps\_admin\] role instead.
 
 </td><td>
 
@@ -177,7 +177,7 @@ The project\_manager role also contains the timecard\_approver role.
 -   rate\_model\_user
 
 </td></tr></tbody>
-</table>## [[c_ProgramManagement|Program management]] roles
+</table>## Program management roles
 
 Program management adds the following roles.
 
@@ -251,7 +251,7 @@ Resource user\[resource\_user\]
 
 </td><td>
 
-Users with this role can create resource plans and [[t_RequestResourcePlanApproval|request resources]]. Project managers are typically given this role. Resource users cannot make changes to plans in the Confirmed or Allocated state.
+Users with this role can create resource plans and request resources. Project managers are typically given this role. Resource users cannot make changes to plans in the Confirmed or Allocated state.
 
 </td><td>
 
@@ -270,7 +270,7 @@ Only users with the PPS Resource role are considered for resource planning, and 
 None
 
 </td></tr></tbody>
-</table>## [[innovation-management-landing|Innovation management]] roles
+</table>## Innovation management roles
 
 Innovation Management adds the following roles:
 
@@ -326,7 +326,7 @@ Manages ideas and creates tasks such as story, epic, feature, project, or demand
 None
 
 </td></tr></tbody>
-</table>## [[time-card-management|Time card management]] roles
+</table>## Time card management roles
 
 Time card management adds the following roles.
 
@@ -400,7 +400,7 @@ Rate model admin\[it\_rate\_model\_admin\]
 
 </td><td>
 
-Manages [[rate-model|rate models]] and rate lines. Has all privileges within rate model, including configuring attributes, export and import of rate lines, and administration.
+Manages rate models and rate lines. Has all privileges within rate model, including configuring attributes, export and import of rate lines, and administration.
 
 </td><td>
 
@@ -424,17 +424,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Project Portfolio Management \(PPM\) Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/r_InstalledWithProjectPortfolioSuiteWithFinancials.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[agile-development|Agile Development]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-a-project-form|Project form]]
-- [[project-task-form|Project task form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_ProgramManagement|Program Management]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[innovation-management-landing|Innovation Management]]
-- [[time-card-management|Time Card Management]]
-- [[rate-model|Rate Models]]

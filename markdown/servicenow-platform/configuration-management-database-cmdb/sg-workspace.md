@@ -28,11 +28,7 @@ The Service Graph Workspace is an efficient, central, and modernized way for you
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Additional information about components such as properties, and class-specific criteria for the [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/reference-sg-workspace.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Additional information about components such as properties, and class-specific criteria for the Cloud vs Non-cloud resources chart.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/reference-sg-workspace.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]

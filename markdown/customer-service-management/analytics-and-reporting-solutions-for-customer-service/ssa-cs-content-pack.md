@@ -25,10 +25,7 @@ The following roles and tasks are associated with this Solution:
 **Related topics**  
 
 
-[[ssa-solution-config|Configure the Platform Analytics Solution for Self-Service Analytics for Customer Service]]
+[Configure the Platform Analytics Solution for Self-Service Analytics for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ssa-solution-config.md)
 
 [Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service-analytics.md)
 
-## Related
-
-- [[ssa-solution-config|Configure the Platform Analytics Solution for Self-Service Analytics for Customer Service]]

@@ -14,27 +14,18 @@ breadcrumb: [Query Generation, Now Assist in Platform Analytics, Platform Analyt
 
 A list of Now Assist applications that come with Query Generation and the tables, jobs, and logs included in Query Generation.
 
--   **[[querygen-supported-charts|Supported chart types]]**  
+-   **[Supported chart types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-supported-charts.md)**  
 Query Generation and the applications that use it to generate data visualizations support these visualization types.
--   **[[qg-supported-query-operations|Supported query operations]]**  
+-   **[Supported query operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/qg-supported-query-operations.md)**  
 The following encoded query operators are supported for creating context objects.
--   **[[querygen-unsupported-field-types|Unsupported field types in Query Generation]]**  
+-   **[Unsupported field types in Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-unsupported-field-types.md)**  
 Query Generation explicitly does not support some field types.
--   **[[query-generation-logs|Query Generation logs]]**  
+-   **[Query Generation logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-logs.md)**  
 Every call to a Query Generator and its results are logged in the Query Generation Log \[sn\_query\_gen\_log\] table.
--   **[[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]**  
+-   **[Roles, tables, and scheduled jobs included with Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/tables-sched-jobs-query-gen.md)**  
 Several types of components are installed with Query Generation, including tables and scheduled jobs.
--   **[[querygen-properties|Query Generation properties]]**  
+-   **[Query Generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md)**  
 The properties included with Query Generation apply to segments. They define whether the record or indicator that is the basis for a segment has been recently used or changed.
 
-**Parent Topic:**[[query-generation|Query Generation]]
+**Parent Topic:**[Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation.md)
 
-## Related
-
-- [[querygen-supported-charts|Supported chart types]]
-- [[qg-supported-query-operations|Supported query operations]]
-- [[querygen-unsupported-field-types|Unsupported field types in Query Generation]]
-- [[query-generation-logs|Query Generation logs]]
-- [[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]
-- [[querygen-properties|Query Generation properties]]
-- [[query-generation|Query Generation]]

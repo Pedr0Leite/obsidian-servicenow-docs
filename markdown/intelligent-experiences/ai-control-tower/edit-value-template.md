@@ -14,7 +14,7 @@ breadcrumb: [Using value templates, Use, AI Control Tower, Enable AI experiences
 
 # Edit a value template
 
-Edit a value template to update how value is calculated for [[ai-assets|AI assets]].
+Edit a value template to update how value is calculated for AI assets.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
-2.  Select the **[[ai-inventory|AI asset inventory]]** tab and navigate to the asset that you want to edit the value template for.
+2.  Select the **AI asset inventory** tab and navigate to the asset that you want to edit the value template for.
 
 3.  In the **Value template** tab, select **Duplicate**.
 
@@ -42,8 +42,4 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
     When a value template is published, it’s modified across all instances and subsequent calculations are based on the new template.
 
-## Related
 
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-inventory|AI asset inventory]]

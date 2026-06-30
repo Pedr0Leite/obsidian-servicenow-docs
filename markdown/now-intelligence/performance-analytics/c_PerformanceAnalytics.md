@@ -31,7 +31,7 @@ Performance Analytics includes the following concepts and components:
     Key characteristics of indicators include:
 
     -   Indicator scores can be generated automatically from a set of records defined in an [indicator source](), entered manually, or calculated from other indicators.
-    -   Indicator scores can be viewed or analyzed in [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations and [[kpi-details|KPI Details]]. In the Core UI, view them in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or in [[widgets|widgets]] on dashboards.
+    -   Indicator scores can be viewed or analyzed in Platform Analytics data visualizations and KPI Details. In the Core UI, view them in the Analytics Hub or in widgets on dashboards.
     For convenience, you can organize indicators thematically into an indicator group.
 
     Synonyms: Metrics, business metrics, KPIs
@@ -42,7 +42,7 @@ Performance Analytics includes the following concepts and components:
 
     For example, you can look at the Number of Open Changes by Assignment Group. Or you can see the Number of New Changes by Priority.
 
-    The values for each breakdown are called breakdown elements. For example, the Priority breakdown may have the elements Critical, High, and Low. Breakdowns are categorized as automated, manual, or external, depending on where these elements come from. Automated breakdown elements are specified in [[breakdown-sources|breakdown sources]]. [[manual-breakdowns|Manual breakdowns]] have their elements entered manually to define an organization. Lastly, an external breakdown specifies the JDBC data source and SQL statement for retrieving breakdown elements.
+    The values for each breakdown are called breakdown elements. For example, the Priority breakdown may have the elements Critical, High, and Low. Breakdowns are categorized as automated, manual, or external, depending on where these elements come from. Automated breakdown elements are specified in breakdown sources. Manual breakdowns have their elements entered manually to define an organization. Lastly, an external breakdown specifies the JDBC data source and SQL statement for retrieving breakdown elements.
 
     You cannot apply more than two levels of breakdown to an indicator.
 
@@ -63,7 +63,7 @@ Performance Analytics includes the following concepts and components:
     -   Statistical functions applied to collected indicator scores over a time period. For example, you can apply a 3-month SUM to indicator scores. Aggregation functions can be added either in the indicator form or later in the the Analytics Hub or widget. Aggregation functions in the Analytics Hub or widget are named time series.
 -   **[Breakdown mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-breakdown-mapping.md)**
 
-    specify the relationships, or 'map,' breakdowns to [[c_IndicatorSources|indicator sources]]. A breakdown mapping either specifies a field on the indicator source or specifies a script that queries the indicator source. The latter is sometimes called a scripted breakdown mapping, and a breakdown with such a mapping is called a scripted breakdown.
+    specify the relationships, or 'map,' breakdowns to indicator sources. A breakdown mapping either specifies a field on the indicator source or specifies a script that queries the indicator source. The latter is sometimes called a scripted breakdown mapping, and a breakdown with such a mapping is called a scripted breakdown.
 
 -   **[Breakdown sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_DefiningABreakdownSource.md)**
 
@@ -93,7 +93,7 @@ Performance Analytics includes the following concepts and components:
 
 -   **Snapshots**
 
-    are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for [[automated-indicators|automated indicators]] with **Collect records** selected.
+    are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected.
 
     The snapshot/list of records can be retrieved in the Analytics Hub or KPI Details.
 
@@ -107,13 +107,3 @@ Complimentary Performance Analytics for Incident Management is a limited version
 
 **Parent Topic:**[Exploring Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[breakdown-sources|Breakdown sources]]
-- [[manual-breakdowns|Manual breakdowns]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[automated-indicators|Automated indicators]]

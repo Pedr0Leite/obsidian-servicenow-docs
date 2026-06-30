@@ -22,7 +22,7 @@ If setting **glide.ui.security.allow\_codetag** to `false` disrupts instance fun
 
 Set the **glide.ui.security.allow\_codetag** system property to `false` to completely prohibit journal fields and forms from displaying rendered HTML.
 
-The ServiceNow AI Platform mitigates many injection and cross-site attacks by implementing escaping and encoding techniques. As a result, [[users|users]] can't write/submit HTML formatted inputs for journal fields. But journal fields can render text enclosed within code tags as HTML.
+The ServiceNow AI Platform mitigates many injection and cross-site attacks by implementing escaping and encoding techniques. As a result, users can't write/submit HTML formatted inputs for journal fields. But journal fields can render text enclosed within code tags as HTML.
 
 -   However, there is an associated security risk. If set to `true`, malicious users can write harmful HTML JS code that may be executed on a different client browser after rendering of journal fields.
 -   Set this property to `false` so that administrators can prevent journal fields from rendering HTML code by disabling support for the `[code]` tag.
@@ -47,11 +47,11 @@ glide.ui.security.allow\_codetag
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Category
 
 </td></tr><tr><td>
 
-Configure in [[instance-security-center|Instance Security Center]]
+Configure in Instance Security Center
 
 </td><td>
 
@@ -124,9 +124,3 @@ Security risk
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[instance-security-center|Instance Security Center]]

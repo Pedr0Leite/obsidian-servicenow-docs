@@ -15,11 +15,11 @@ breadcrumb: [Virtual Agent reference, Virtual Agent, Conversational Interfaces]
 
 # Virtual Agent technical reference
 
-Use these topics to learn more about scripting methods, [[nlu-system-entities|NLU system entities]], and the [[virtual-agent-landing-page|Virtual Agent]] Interactions table.
+Use these topics to learn more about scripting methods, NLU system entities, and the Virtual Agent Interactions table.
 
 Virtual Agent utilizes a queuing system to process incoming messages coming from asynchronous channels. Dedicated worker threads pull from this queue and process the messages in their own transactions. This enables Virtual Agent to scale to meet traffic volume. Virtual Agent transactions run as non-interactive \(the scriptable method **gs.isInteractive\(\)** will return false\).
 
-Various roles and tables are available when you [[activate-virtual-agent|activate Virtual Agent]]. For more information, see [Installed with Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/installed-wth-virtual-agent.md). Virtual Agent also has a data retention policy to manage table size. For more information, see [[va-data-mgmt|Data management in Conversational Interfaces]]
+Various roles and tables are available when you activate Virtual Agent. For more information, see [Installed with Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/installed-wth-virtual-agent.md). Virtual Agent also has a data retention policy to manage table size. For more information, see [Data management in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-data-mgmt.md)
 
 The following technical reference topics are available.
 
@@ -30,7 +30,7 @@ Each time a Virtual Agent conversation occurs, an interaction record captures th
 -   **[Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md)**  
 Use ServiceNow® Virtual Agent script methods and variables to write chat scripts, such as response, trigger, and flow scripts. Variables can also provide context for your live support topics and conversations.
 -   **[Input data types in Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-data-types.md)**  
-You can define inputs of commonly used Glide Virtual Agent \(com.glide.cs.chatbot\) data types in [[assistant-designer|Assistant Designer]] without writing a script. Define the input data type on the Start node of a custom control or topic block.
+You can define inputs of commonly used Glide Virtual Agent \(com.glide.cs.chatbot\) data types in Assistant Designer without writing a script. Define the input data type on the Start node of a custom control or topic block.
 -   **[NLU system entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/nlu-system-entities.md)**  
 Use globally defined NLU entities to identify system information that Virtual Agent can extract from the conversation. You can define entities as "nodeless" input variables for a topic. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
 -   **[Virtual Agent URL parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-sysparm.md)**  
@@ -40,10 +40,3 @@ The **com.glide.cs.message.processing.enabled** system property notifies request
 
 **Parent Topic:**[Virtual Agent reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-parent-reference.md)
 
-## Related
-
-- [[va-data-mgmt|Data management in Conversational Interfaces]]
-- [[nlu-system-entities|NLU system entities]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[activate-virtual-agent|Activate Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

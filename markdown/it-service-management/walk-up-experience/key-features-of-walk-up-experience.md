@@ -14,7 +14,7 @@ breadcrumb: [Explore, Walk-up Experience, IT Service Management]
 
 # Key features of Walk-up Experience
 
-[[walkup-experience-landing-page|Walk-up Experience]] enhances user satisfaction and productivity by providing immediate and personalized support for IT-related needs.
+Walk-up Experience enhances user satisfaction and productivity by providing immediate and personalized support for IT-related needs.
 
 Every employee or a guest can check in and get support at an established walk-up service center.
 
@@ -61,12 +61,12 @@ Every employee or a guest can check in and get support at an established walk-up
         -   View the monitor displaying how many people are currently in the queue, guest positions in the queue, who is being helped, and estimated wait times.
         -   Hear an audio sound emitted from the on-site walk-up location large monitor when a person moves to the top of the queue for service.
         -   Answer an available single-question survey which captures your user sentiment after a visit.
-    -   After-hours support — Get support even when a walk-up queue is closed. An IT support phone number is displayed on the check-in device, along with a link to [[create-an-incident|create an incident]] in real time.
+    -   After-hours support — Get support even when a walk-up queue is closed. An IT support phone number is displayed on the check-in device, along with a link to create an incident in real time.
 -   **Agents**
 
     The IT organization uses the Walk-up Experience application to meet the demand of urgent IT issues and requests.
 
-    -   Walk-up Experience IT technicians manage daily operations at the walk-up queue locations. They resolve IT-related issues, support mobile [[dex-workspace-devices-tab|devices]] and laptops, and fulfill requests for software and hardware consumables.
+    -   Walk-up Experience IT technicians manage daily operations at the walk-up queue locations. They resolve IT-related issues, support mobile devices and laptops, and fulfill requests for software and hardware consumables.
     -   The agents can accept and close Walk-up Experience interactions through the Agent Workspace interface. Agent Workspace contains a personal inbox where walk-up interactions, if configured in Advanced Work Assignment, are automatically pushed for assignment.
     -   Agents can manage all aspects of Walk-up Experience fulfillment using Agent Workspace. Based on their capacity, and if records are on-hold, they can work on multiple transactions at the same time and promote interactions to incidents or requests, or access associated stockroom consumables.
     -   Technicians can view and accept scheduled appointments in their Agent Workspace personal inbox. Appointments are routed to the inbox according to agent availability. Alternatively, agents can pick and choose appointments manually.
@@ -88,8 +88,4 @@ Every employee or a guest can check in and get support at an established walk-up
 
     **Note:** This feature is only available when Microsoft Office 365 Outlook is the hosted calendar service.
 
-## Related
 
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[create-an-incident|Create an incident]]
-- [[dex-workspace-devices-tab|Devices]]

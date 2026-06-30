@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Teams Chat widget in Employee Center, HR Service Delivery
 
 # Add Teams Chat widget
 
-Add the Teams Chat widget to enable employees to view or continue chats with agents and view and access the content of attached files in the [[employee-center-landing-page|Employee Center]].
+Add the Teams Chat widget to enable employees to view or continue chats with agents and view and access the content of attached files in the Employee Center.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Type
 
 </td><td>
 
-Tab type based on which a widget is displayed. Possible options are:-   [[activity-lxp|Activity]]
+Tab type based on which a widget is displayed. Possible options are:-   Activity
 -   Associated Requests
 -   Attachments
 -   Custom
@@ -141,7 +141,3 @@ A Teams Chat tab is added in each record of the Employee Center My Request page 
 
 **Parent Topic:**[Microsoft Teams Chat widget in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-std-ticket-page-teams-hr.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

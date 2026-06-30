@@ -25,7 +25,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find [[understand-the-commerce-logic-engine|the CPQ Configurator]] application \(sn\_cpq\_config\) using the filter criteria and search bar.
+2.  Find the CPQ Configurator application \(sn\_cpq\_config\) using the filter criteria and search bar.
 
     You can search for the application by its name or ID. If you cannot find the application, you might have to request it from the ServiceNow Store.
 
@@ -39,11 +39,8 @@ Role required: admin
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[use-cases|Use cases]]

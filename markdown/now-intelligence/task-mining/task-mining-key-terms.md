@@ -14,7 +14,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 # Task Mining key terms
 
-Key terms used in [[task-mining|Task Mining]].
+Key terms used in Task Mining.
 
 <table id="table_ptz_c54_hcc"><thead><tr><th>
 
@@ -139,6 +139,3 @@ A datamart is the mined data with categorization rules applied.
 </td></tr></tbody>
 </table>**Parent Topic:**[Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

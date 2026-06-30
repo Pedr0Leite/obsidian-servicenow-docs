@@ -15,7 +15,7 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # View invoice documents in the Source-to-Pay Workspace
 
-View invoice documents directly in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] using Document Viewer without downloading them.
+View invoice documents directly in the Source-to-Pay Workspace using Document Viewer without downloading them.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-The invoice document is displayed for invoice, invoice lines, invoice processing case, [[work-with-invoice-exceptions|invoice exceptions]], and exception task records.
+The invoice document is displayed for invoice, invoice lines, invoice processing case, invoice exceptions, and exception task records.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -61,8 +61,3 @@ The invoice document is displayed for invoice, invoice lines, invoice processing
 
 [Invoice approvals]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

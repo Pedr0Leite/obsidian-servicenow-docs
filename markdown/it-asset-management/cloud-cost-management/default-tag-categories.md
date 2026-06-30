@@ -16,7 +16,7 @@ breadcrumb: [Cloud Cost Management reference, Cloud Cost Management, IT Asset Ma
 
 View the list of default tag categories on the Tag categories page. A tag category helps you to enable multiple tag names for representing costs against a single business entity.
 
-You can view the list of default categories by navigating to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories**.
+You can view the list of default categories by navigating to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories**.
 
 <table id="table_xcq_qr3_w1c"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Application team
 
 </td></tr><tr><td>
 
-AI Service**Important:** This tag category is available with the [[cloud-insights-landing-page|Cloud Cost Management]] 8.0.0 version or later.
+AI Service**Important:** This tag category is available with the Cloud Cost Management 8.0.0 version or later.
 
 **Note:** If you want to associate a tag name with its corresponding tag value whenever a new AI service or a category within an existing AI service is introduced for Amazon Web Services \(AWS\), Microsoft Azure, or Google Cloud Platform \(GCP\), see [Add or update a tag value for an AI Service tag category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/create-tag-value-ai.md).
 
@@ -82,7 +82,3 @@ Kubernetes cluster name
 
 [Create and update a tag category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/tag-category-crud-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

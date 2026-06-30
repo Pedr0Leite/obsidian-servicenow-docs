@@ -14,15 +14,15 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Properties for Connect
 
-The [[c_Connect|Connect]] Properties page provides several configuration options for Connect.
+The Connect Properties page provides several configuration options for Connect.
 
 **Important:**
 
-Core UI is required to use [[c_Collaboration|Connect Chat]]. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) for more information.
+Core UI is required to use Connect Chat. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) for more information.
 
 Users with the admin role can access these properties by navigating to **Connect** &gt; **Administration** &gt; **Properties**.
 
-**Note:** Many of the properties also impact [[c_ConnectSupport|Connect Support]].
+**Note:** Many of the properties also impact Connect Support.
 
 <table id="table_ytc_kkb_mv"><thead><tr><th>
 
@@ -49,7 +49,7 @@ Enable Connect in the framesetcollaboration.frameset
 
 </td><td>
 
-Determines whether the [[c_CollaborationOverlay|Connect overlay]] is visible \(enabled\). This property also impacts Connect Support.-   **Type**: true \| false
+Determines whether the Connect overlay is visible \(enabled\). This property also impacts Connect Support.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Disable the Connect overlay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_DisableTheCollaborationOverlay.md)
@@ -66,7 +66,7 @@ Enables Connect to render URLs for external sites as links. When this property i
 
 </td></tr><tr><td>
 
-Number of minutes to wait before collecting unread messages and sending an [[email|email]] to offline users.collaboration.email\_interval
+Number of minutes to wait before collecting unread messages and sending an email to offline users.collaboration.email\_interval
 
 </td><td>
 
@@ -86,7 +86,7 @@ Sets the number of results that appear when you search conversations in Connect.
 
 </td></tr><tr><td>
 
-Audio file to play to [[notify-landing-page|notify]] users of new messages, support conversation transfers and @mentions in Connect. This property's value should point to the 'name' field of an audio file in the db\_audio table.connect.notification.audio\_alert
+Audio file to play to notify users of new messages, support conversation transfers and @mentions in Connect. This property's value should point to the 'name' field of an audio file in the db\_audio table.connect.notification.audio\_alert
 
 </td><td>
 
@@ -134,12 +134,3 @@ Hides the **Create or Join Chat Room** related link, which appears on the Incide
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_CollaborationOverlay|Connect overlay]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]

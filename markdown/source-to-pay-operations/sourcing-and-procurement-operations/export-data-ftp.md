@@ -37,9 +37,9 @@ Integrate your FTP Server to export all the confirmed orders using Flow Designer
 
 ## Example
 
-You can use Flow Designer subflows to move the data into a mid server and then to external resources. Here is a quick example for processing the **[[purchase-order-table|Purchase Order]] Queue**.
+You can use Flow Designer subflows to move the data into a mid server and then to external resources. Here is a quick example for processing the **Purchase Order Queue**.
 
--   Look up for FTP integration record with the [[supplier|supplier]] ID. For example, **Process Purchase Order Outbound Queue**.
+-   Look up for FTP integration record with the supplier ID. For example, **Process Purchase Order Outbound Queue**.
 -   Generate Purchase Order payload.
 -   Push to Mid server.
 -   Wait for duration of time.
@@ -59,7 +59,3 @@ You can use Flow Designer subflows to move the data into a mid server and then t
 
 [Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/credentials-connections-alias.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

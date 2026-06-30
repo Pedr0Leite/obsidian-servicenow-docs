@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Enter incidental expenses directly from a work order task on a mobile device
 
-Create and track incidental expenses that arise during the execution of a work order task through the [[wot-fsc|Field Service Contractor for mobile]] application.
+Create and track incidental expenses that arise during the execution of a work order task through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_ext\_agent or wm\_ext\_manager
 
 ## About this task
 
-Incidental expenses are expenses related to work orders that arise during the execution of a task or are otherwise related to the task, such as vendor or mileage costs, but are not standard predicted expenses such as [[c_PartRequirements|part requirements]].
+Incidental expenses are expenses related to work orders that arise during the execution of a task or are otherwise related to the task, such as vendor or mileage costs, but are not standard predicted expenses such as part requirements.
 
 You can create incidental expenses for a work order task at any point during the task life cycle.
 
@@ -63,7 +63,3 @@ The system generates an expense line for the incidental expense if the following
 
 If any of the conditions change, the expense line is deleted.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[c_PartRequirements|Part requirements]]

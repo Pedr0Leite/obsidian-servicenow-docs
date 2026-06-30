@@ -14,7 +14,7 @@ breadcrumb: [My active items widget configuration, Setup task management, Config
 
 # Perform an advanced activity configuration
 
-Configure activities to display their count and to display items in a list for a primary [[activity-lxp|activity]].
+Configure activities to display their count and to display items in a list for a primary activity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sp\_admin, or ESC admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Activity Configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Activity Configuration**.
 
 2.  Click **New**.
 
@@ -51,7 +51,3 @@ Role required: admin, sp\_admin, or ESC admin
 
 If you click **Save**, the **Activity Access** tab appears. For more information, see [Restrict access to an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/grant-restrict-activity-access.md).
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

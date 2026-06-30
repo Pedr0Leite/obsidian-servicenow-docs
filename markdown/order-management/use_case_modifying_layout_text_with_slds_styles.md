@@ -14,7 +14,7 @@ breadcrumb: [Use cases, Using CPQ, Configure, price, quote apps, Use, Sales Cust
 
 Learn how to implement styles in the Salesforce Lightning Design System to control the appearance of text.
 
-Using Salesforce Lightning Design System \(SLDS\) styles, admins have some control over the appearance of text in [[understand-the-commerce-logic-engine|the CPQ configurator]] UI. Note that this functionality is not fully supported and may be limited in a number of scenarios. Consult [this Salesforce documentation](https://www.lightningdesignsystem.com/utilities/text/) for the available SLDS styles.
+Using Salesforce Lightning Design System \(SLDS\) styles, admins have some control over the appearance of text in the CPQ configurator UI. Note that this functionality is not fully supported and may be limited in a number of scenarios. Consult [this Salesforce documentation](https://www.lightningdesignsystem.com/utilities/text/) for the available SLDS styles.
 
 Due to the lack of complete support, utilizing an SLDS class will affect everything in the field. That means if you use “slds- text-title\_bold”, everything in the field will be bolded. Therefore, consider whether you can use SLDS styling for your use case, as a new field will need to be created for us to insert the class and isolate the styling. A good use case as a result is using styles to make headers, and weʼll use that as the basis for this article.
 
@@ -24,7 +24,7 @@ If we want to make a header using SLDS, the first step is to identify which fiel
 
 Next, create a new text field and give it some text. This new field will be placed above the existing field and essentially act as its “header”. Place it in the layout and remove its label. Your layout should resemble this example.
 
-**Note:** Instead of creating a new field, you can also just add text directly to the layout. In the image below, you would click the down arrow to create the text. However, unlike when using [[fields|fields]], you wouldnʼt be able to conditionally hide the text.
+**Note:** Instead of creating a new field, you can also just add text directly to the layout. In the image below, you would click the down arrow to create the text. However, unlike when using fields, you wouldnʼt be able to conditionally hide the text.
 
 \[Omitted image "cpq-layout-field-new-no-label.png"\] Alt text: graphics card
 
@@ -36,10 +36,5 @@ Redeploy your blueprint and youʼre done. Open an applicable product in the conf
 
 \[Omitted image "cpq-layout-custom-headings.png"\] Alt text: Graphics card
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[fields|Fields]]

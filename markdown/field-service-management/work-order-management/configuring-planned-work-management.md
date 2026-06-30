@@ -14,7 +14,7 @@ breadcrumb: [Set up work orders and tasks, Configure, Field Service Management]
 
 # Configuring Planned Work Management
 
-Configure [[planned-work-management|Planned Work Management]] to create and manage the planned work activities with recurring schedules at regular intervals.
+Configure Planned Work Management to create and manage the planned work activities with recurring schedules at regular intervals.
 
 ## Configuration overview
 
@@ -26,11 +26,11 @@ The steps for setting up planned work management are:
 
 2.  \(Optional\) [Use extension point for planned work management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/extention-point-template-management.md)
 
-    Use extension points to build on the [[fsm-application-landing-page|Field Service Management]] functionality without changing the application code.
+    Use extension points to build on the Field Service Management functionality without changing the application code.
 
 3.  [Configuring work plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/managing-work-plans.md)
 
-    [[create-work-plan|Create a work plan]] for a product model, or other criteria, such as location or asset. For example, you can set up the work schedule to specify that service is performed every six months for the first two years from the date of purchase, or after completing 10,000 miles, whichever comes first.
+    Create a work plan for a product model, or other criteria, such as location or asset. For example, you can set up the work schedule to specify that service is performed every six months for the first two years from the date of purchase, or after completing 10,000 miles, whichever comes first.
 
 4.  \(Optional\) [Configure schedule occurrence suppression](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configure-suppression-of-schedule-occurrences.md)
 
@@ -50,8 +50,3 @@ The steps for setting up planned work management are:
 
 [Planned Work Management Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/pwm-dashboard.md)
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[create-work-plan|Create a work plan]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor badge templates**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor badge templates**.
 
 2.  On the Html Templates list, select **New**.
 
@@ -60,7 +60,7 @@ Table
 
 </td><td>
 
-Table that variables for the template are picked from.The [[register-visitors|Visitor Registration]] \[sn\_wsd\_visitor\_visitor\_registration\] table is selected by default.
+Table that variables for the template are picked from.The Visitor Registration \[sn\_wsd\_visitor\_visitor\_registration\] table is selected by default.
 
 </td></tr><tr><td>
 
@@ -112,12 +112,7 @@ Assign a badge template to a workplace location.
 
 [Configure visit requirements]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]
-- [[workplace-services|Workplace Services]]

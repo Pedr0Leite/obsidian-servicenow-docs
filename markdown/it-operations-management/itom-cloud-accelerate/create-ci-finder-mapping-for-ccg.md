@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Create a CI finder mapping
 
-Use the CI finder mapping to link the resources fetched by the ServiceNow [[cloud-configuration-governance|Cloud Configuration Governance]] scan runs with the appropriate Configuration Management Database \(CMDB\) Configuration Items \(CIs\), if available. After you create the mapping, you can associate the reported configuration violations with the CIs to which they belong.
+Use the CI finder mapping to link the resources fetched by the ServiceNow Cloud Configuration Governance scan runs with the appropriate Configuration Management Database \(CMDB\) Configuration Items \(CIs\), if available. After you create the mapping, you can associate the reported configuration violations with the CIs to which they belong.
 
 ## Before you begin
 
@@ -68,7 +68,3 @@ Script to link the resources fetched by the Cloud Configuration Governance appli
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

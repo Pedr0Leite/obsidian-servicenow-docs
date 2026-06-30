@@ -18,7 +18,7 @@ Monitoring your AI agents gives you visibility into how they are performing, wha
 
 ## Guardian logs and guardrail monitoring
 
-The following topics describe how to monitor and [[export|export]] [[logs|logs]] from [[now-assist-guardian|Now Assist Guardian]], which tracks offensive content, prompt injection attempts, and sensitive topic detections across your AI interactions.
+The following topics describe how to monitor and export logs from Now Assist Guardian, which tracks offensive content, prompt injection attempts, and sensitive topic detections across your AI interactions.
 
 -   ****
 
@@ -58,11 +58,5 @@ The following topics describe how to use Now Assist Analytics and the AI Agent A
     Track AI agent use and efficiency gain on your instance. The dashboard reveals trends in how AI agents are used to improve time to resolution and the number of tasks closed.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[now-assist-security|Agentic AI security and governance]]
-- [[export|Export]]
-- [[logs|Logs]]
-- [[now-assist-guardian|Now Assist Guardian]]

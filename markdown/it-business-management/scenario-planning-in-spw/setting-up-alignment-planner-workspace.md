@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Configuring Strategic Planning Workspace
 
-Learn about the process required to set up [[alignment-planner-workspace-landing-page|Strategic Planning]] to enable your product and portfolio managers start aligning their work with business goals and strategy.
+Learn about the process required to set up Strategic Planning to enable your product and portfolio managers start aligning their work with business goals and strategy.
 
 ## Configuration workflow
 
@@ -48,11 +48,11 @@ Use the following steps as guidelines to set up Strategic Planning. Some of thes
 
     See [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md) and [Configuring Feedback application in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/configuring-product-feedback-in-sp.md).
 
-9.  Migrate your existing goals to Strategic Planning and [[configure-goal-preferences|configure goal preferences]].
+9.  Migrate your existing goals to Strategic Planning and configure goal preferences.
 
     See [Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md).
 
-10. Configure Capacity Planning and [[manage-rsrc-cap-pp|generate resource capacity]].
+10. Configure Capacity Planning and generate resource capacity.
 
     See [Capacity configuration in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/config-cp-spw.md).
 
@@ -67,8 +67,3 @@ Guided Setup provides a sequence of tasks to help you with the required configur
 
 When you’re configuring a task from the Guided Setup, you can launch the in-app help for additional guidance by clicking the Show Help icon \(\[Omitted image "Banner\_HelpIcon.png"\] Alt text: Show Help.\).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[configure-goal-preferences|Configure goal preferences]]
-- [[manage-rsrc-cap-pp|Generate resource capacity]]

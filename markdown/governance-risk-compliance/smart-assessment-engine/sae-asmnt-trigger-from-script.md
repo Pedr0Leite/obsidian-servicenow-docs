@@ -14,7 +14,7 @@ breadcrumb: [Triggering assessments, Configure, Smart Assessment Engine, Governa
 
 # Trigger assessments from a script
 
-Use a script to execute the [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]] to generate [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessments and assign them to the assessors.
+Use a script to execute the Trigger Smart Assessment flow action to generate Smart Assessment Engine assessments and assign them to the assessors.
 
 ## Before you begin
 
@@ -41,15 +41,10 @@ The call to the Trigger Smart Assessment action is now part of the script.
 
 ## What to do next
 
-Specify the required and optional input settings for the action. The settings are defined on the [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]] and are described in [Trigger Smart Assessment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-smart-asmnt-action-form.md).
+Specify the required and optional input settings for the action. The settings are defined on the Trigger Smart Assessment action form and are described in [Trigger Smart Assessment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-smart-asmnt-action-form.md).
 
 **Related topics**  
 
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
-## Related
-
-- [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]]

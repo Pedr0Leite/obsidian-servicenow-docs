@@ -12,7 +12,7 @@ breadcrumb: [Security Exposure Management Workspace personas and granular roles,
 
 # Assign the Vulnerability Response persona roles using Setup Assistant
 
-Assign the [[vuln-landing-page|Vulnerability Response]] persona roles to groups or users with Setup Assistant.
+Assign the Vulnerability Response persona roles to groups or users with Setup Assistant.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ If you assigned sn\_vul.remediation\_owner
 
 </td><td>
 
-You may prefer to assign sn\_vul.remediation\_owner - Remediation Owner to users and groups.Users and groups with this role remediate [[vulnerabilities|vulnerabilities]] assigned to them or to a group they belong to. Groups or users with this role view and update the records assigned to them or to a group they belong to.
+You may prefer to assign sn\_vul.remediation\_owner - Remediation Owner to users and groups.Users and groups with this role remediate vulnerabilities assigned to them or to a group they belong to. Groups or users with this role view and update the records assigned to them or to a group they belong to.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ If you assigned sn\_vul.admin for management of unmatched configuration items \(
 
 </td><td>
 
-You may prefer to assign sn\_vul.ci- CI Manager to users and groups.Users and groups with this role manage unmatched configuration items \(CIs\) not found in the Configuration Management Database \(CMDB\). Groups or users with this role update [[cj-discovered-items|discovered items]].
+You may prefer to assign sn\_vul.ci- CI Manager to users and groups.Users and groups with this role manage unmatched configuration items \(CIs\) not found in the Configuration Management Database \(CMDB\). Groups or users with this role update discovered items.
 
 </td></tr><tr><td>
 
@@ -154,8 +154,3 @@ Role required: admin
 
 As system admin, continue with the configuration of Vulnerability Response in Setup Assistant. Note that after the first section is completed, you can have a user you assigned with the vulnerability admin persona role complete the tasks in Setup Assistant. For more information about managing granular roles and examples, see [Manage persona and granular roles for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr_manage_granular-roles.md).
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[cj-discovered-items|Discovered Items]]

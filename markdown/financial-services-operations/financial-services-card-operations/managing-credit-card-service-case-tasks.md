@@ -32,15 +32,11 @@ A credit card service case is used to track the overall credit card request and 
 
 Each request type has a dedicated flow that triggers tasks from the parent credit card service case. The tasks that are created for a case depend on the type of credit card request type and are of the following types:
 
--   Credit card task – Assigned to credit card agents and used for follow-up tasks such as evaluating product eligibility and [[working-new-credit-card-service-case|setting up a new credit card account]].
+-   Credit card task – Assigned to credit card agents and used for follow-up tasks such as evaluating product eligibility and setting up a new credit card account.
 -   Credit assessment task – Assigned to credit assessment agents and used for follow-up tasks that include retrieving credit assessments and evaluating risks.
 -   Document service task – Assigned to document service agents and used for follow-up tasks such as document verification and preparation.
 
 To resolve cases, agents perform activities such as gathering documents, performing credit assessments, and changing credit limits for the tasks assigned to them.
 
-Both the case and its tasks are assigned to the assignment groups or agents by using assignment rules. For more information on assignment groups that are installed with the application, see [[configure-groups-fso|Configure groups]].
+Both the case and its tasks are assigned to the assignment groups or agents by using assignment rules. For more information on assignment groups that are installed with the application, see [Configure groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-groups-fso.md).
 
-## Related
-
-- [[configure-groups-fso|Configure groups]]
-- [[working-new-credit-card-service-case|Setting up a new credit card account]]

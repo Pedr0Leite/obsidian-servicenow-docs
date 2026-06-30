@@ -28,7 +28,7 @@ Role required: it\_demand\_manager
 
 3.  From the Decisions related list, select **New**.
 
-4.  On the [[decision-form|Decision form]], fill in the fields.
+4.  On the Decision form, fill in the fields.
 
     For a description of the field names, see [Decision form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/decision-form.md).
 
@@ -52,6 +52,3 @@ Role required: it\_demand\_manager
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[decision-form|Decision form]]

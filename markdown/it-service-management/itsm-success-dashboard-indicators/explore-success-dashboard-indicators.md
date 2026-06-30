@@ -14,7 +14,7 @@ breadcrumb: [ITSM Success Dashboard indicators, IT Service Management]
 
 # Exploring ITSM Success Dashboard indicators
 
-Get an overview of the [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] to understand the different components in the dashboard and how you can use the dashboard for your organization.
+Get an overview of the ITSM Success Dashboard indicators to understand the different components in the dashboard and how you can use the dashboard for your organization.
 
 The IT leadership team can analyze and understand the key metrics such as call deflections and self-service to measure the success of the ITSM implementation. The leadership team can view the following insights:
 
@@ -28,17 +28,12 @@ The IT leadership team can analyze and understand the key metrics such as call d
 
 Also, process owners can view the records that contribute to these insights, do a deep dive analysis, and drive improvement plans.
 
-\[Omitted image "itsm-sd-landing-page-nov23.png"\] Alt text: Success Dashboard displaying the [[performance-overview-ref|Performance overview]] tab.
+\[Omitted image "itsm-sd-landing-page-nov23.png"\] Alt text: Success Dashboard displaying the Performance overview tab.
 
 -   **[ITSM Success Dashboard indicators components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/itsm-sdb-dasboard-overview.md)**  
 Analyze the performance and self-solve data visually and drive business outcomes with the help of the dashboard components.
 -   **[ITSM Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md)**  
-Enable ITSM Success Dashboard and configure [[settings-mobile|settings]] to understand and use the Key Performance Indicators \(KPIs\) and formulas.
+Enable ITSM Success Dashboard and configure settings to understand and use the Key Performance Indicators \(KPIs\) and formulas.
 
 **Parent Topic:**[ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/success-dashboard-indicator-landing.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]
-- [[performance-overview-ref|Performance overview]]
-- [[settings-mobile|Settings]]

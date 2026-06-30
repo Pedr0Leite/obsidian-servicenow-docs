@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, SolarWinds, Service Graph Connecto
 
 # Configure air gap solution for Service Graph Connector for SolarWinds in a ServiceNow instance
 
-Configure the air gap solution for the [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]] in your ServiceNow instance after you finish the configuration in your high-secure and low-secure servers.
+Configure the air gap solution for the Service Graph Connector for SolarWinds in your ServiceNow instance after you finish the configuration in your high-secure and low-secure servers.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**, and download the `ServiceNow IntegrationHub Action Step – PowerShell` plugin.
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **SolarWinds** &gt; **Setup** &gt; **Add Multiple Instances** &gt; **Add Another Connection**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **SolarWinds** &gt; **Setup** &gt; **Add Multiple Instances** &gt; **Add Another Connection**.
 
 3.  Select the **Add Another Connection** task, and then select **Configure**.
 
@@ -50,7 +50,7 @@ Display name for the connection.
 
 </td></tr><tr><td>
 
-[[mid-server-landing|MID Server]]
+MID Server
 
 </td><td>
 
@@ -78,7 +78,7 @@ Archive Path \[Optional\]
 
 </td><td>
 
-Folder where the data is to be archived if the **Archive Data After Retrieval** [[check-box|check box]] is selected.
+Folder where the data is to be archived if the **Archive Data After Retrieval** check box is selected.
 
 </td></tr></tbody>
 </table>6.  Select **Create Connection**.
@@ -89,9 +89,3 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 
 [Perform a test data load for the air gap solution for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-test-load.md)
 
-## Related
-
-- [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

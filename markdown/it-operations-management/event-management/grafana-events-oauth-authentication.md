@@ -14,7 +14,7 @@ breadcrumb: [Integrate Grafana events, Integrate with push connectors, Configure
 
 # Integrate Grafana with OAuth authentication
 
-Integrate Grafana with [[c_EM|Event Management]] with ServiceNow using OAuth authentication.
+Integrate Grafana with Event Management with ServiceNow using OAuth authentication.
 
 ## Before you begin
 
@@ -132,6 +132,3 @@ A severity parameter is added which is used only for Grafana 8 and above. The pr
 
 **Parent Topic:**[Integrate Grafana events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/grafana-integration.md)
 
-## Related
-
-- [[c_EM|Event Management]]

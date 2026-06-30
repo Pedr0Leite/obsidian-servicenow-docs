@@ -14,7 +14,7 @@ breadcrumb: [Communities references, Communities, Customer Service Management]
 
 # Properties installed with Communities
 
-Community administrators can use properties to configure [[servicenow-communities|Communities]] behavior.
+Community administrators can use properties to configure Communities behavior.
 
 The following properties are available for further configuration. To list the properties, enter `sys_properties.list` in the filter navigator and search for the property to configure.
 
@@ -153,7 +153,7 @@ sn\_communities.enable\_topics
 
 </td><td>
 
-Enables or disables topics within a community. If the property is set to false and [[communities-gamification|gamification]] is enabled, topic information does not appear on the [[gamification-ui-leaderboard|leaderboard page]].
+Enables or disables topics within a community. If the property is set to false and gamification is enabled, topic information does not appear on the leaderboard page.
 
  -   Type: true\|false
 -   Default value: true
@@ -728,7 +728,7 @@ sn\_communities.enable\_gamification
 
 </td><td>
 
-Enables or disables the gamification feature for the community and controls the appearance of gamification-related widgets on the Community portal. When set to false, no [[gamification-components|gamification components]] are displayed. User point totals and badge assignments are not affected.
+Enables or disables the gamification feature for the community and controls the appearance of gamification-related widgets on the Community portal. When set to false, no gamification components are displayed. User point totals and badge assignments are not affected.
 
  -   Type: boolean
 -   Default value: true
@@ -846,9 +846,3 @@ Enter the maximum number of times a user can post Social Q&amp;A questions per d
 
 [Topic form fields]()
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[communities-gamification|Gamification]]
-- [[gamification-ui-leaderboard|Leaderboard page]]
-- [[gamification-components|Gamification components]]

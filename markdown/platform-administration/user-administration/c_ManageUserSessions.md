@@ -20,7 +20,7 @@ Regardless of the number of windows you have open in a browser, it’s considere
 
 -   Terminating a user session effectively logs that user out of the next transaction, which is usually the next browser select. Use the terminate sessions feature when you want to perform system maintenance.
 -   Locking a user out of the system means they can no longer log in or generate any actions from any email messages that they send to the instance. Locking users out also terminates their sessions.
--   Making a user inactive means they don't show up in any fields that [[reference-email-admin|reference]] active users on the **User** table.
+-   Making a user inactive means they don't show up in any fields that reference active users on the **User** table.
 
 **Parent Topic:**[Monitoring user activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/user-admin-tools-landing.md)
 
@@ -40,7 +40,7 @@ By default, sessions expire only after a period of inactivity. Enforcing a maxim
 
 1.  In the navigation filter, enter `sys_properties.list`.
 
-2.  Filter the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] list for the following properties and then select a property to open its record.
+2.  Filter the System Properties \[sys\_properties\] list for the following properties and then select a property to open its record.
 
     -   **glide.ui.active.session.life\_span**: Sets the maximum session time for authenticated user sessions regardless of user activity. Authenticated users are logged out of the instance after the time specified and must enter their credentials again to access the instance.
     -   **glide.guest.active.session.life\_span**: Sets the maximum session time for guest user sessions regardless of user activity. This setting helps secure an instance using applications that involve guest user sessions, such as Agent Chat.
@@ -54,7 +54,7 @@ By default, sessions expire only after a period of inactivity. Enforcing a maxim
 **Related topics**  
 
 
-[[managing-integration-sessions|Configure a maximum active time for integration sessions]]
+[Configure a maximum active time for integration sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-integration-sessions.md)
 
 ## Modify user session timeout after inactivity
 
@@ -146,7 +146,7 @@ Role required: user\_admin or admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users** and select the user from the list.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users** and select the user from the list.
 
 2.  Select the **Locked Out** check box, and update the record.
 
@@ -194,9 +194,4 @@ Role required: admin
 
     **Note:** Mobile user sessions can’t be terminated using this process.
 
-## Related
 
-- [[managing-integration-sessions|Managing integration sessions]]
-- [[reference-email-admin|Reference]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_UserAdministration|User administration]]

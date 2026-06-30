@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Use the guided tour in Universal Request
 
-Use the guided tour to navigate a sequence of interactive steps that provides an overview of [[ur-landing-limitedaccess|Universal Request]] cases.
+Use the guided tour to navigate a sequence of interactive steps that provides an overview of Universal Request cases.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Use this procedure the start the guided tour manually.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Go to **Lists** &gt; **Universal Request**.
 
@@ -49,8 +49,3 @@ Use this procedure the start the guided tour manually.
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

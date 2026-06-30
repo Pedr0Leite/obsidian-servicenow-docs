@@ -14,7 +14,7 @@ breadcrumb: [Install DEX Score, Configure DEX Score, Digital Experience Score, D
 
 # Delete Digital Experience Score​ demo data
 
-Delete the demo data for [[dexscr-digital-experience-score|Digital Experience Score​]] when you no longer need it.
+Delete the demo data for Digital Experience Score​ when you no longer need it.
 
 ## Before you begin
 
@@ -93,6 +93,3 @@ If an error occurs during execution of the scheduled jobs, run the jobs again.
 
 [Load Digital Experience Score​ demo data]()
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

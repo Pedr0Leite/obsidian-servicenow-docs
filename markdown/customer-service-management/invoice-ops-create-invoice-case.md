@@ -20,9 +20,9 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
 ## Procedure
 
-1.  In [[csm-workspaces-configure|CSM Configurable Workspace]], select **New** from the Invoice Cases list view.
+1.  In CSM Configurable Workspace, select **New** from the Invoice Cases list view.
 
-2.  Add information to the [[invoice-case-form|Invoice Case form]], such as **Account** and **Contact** and **Short description**.
+2.  Add information to the Invoice Case form, such as **Account** and **Contact** and **Short description**.
 
 3.  Select an invoice number in the **Invoice** field.
 
@@ -50,12 +50,6 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
 After submitting an invoice case, you can:
 
--   [[invoice-ops-add-invoice-case-line-item|Add an invoice case line to an invoice case]]
--   [[invoice-ops-create-case-line-task|Create a task for an invoice case line]]
+-   [Add an invoice case line to an invoice case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-add-invoice-case-line-item.md)
+-   [Create a task for an invoice case line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-create-case-line-task.md)
 
-## Related
-
-- [[invoice-ops-add-invoice-case-line-item|Add an invoice case line to an invoice case]]
-- [[invoice-ops-create-case-line-task|Create a task for an invoice case line]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[invoice-case-form|Invoice case form]]

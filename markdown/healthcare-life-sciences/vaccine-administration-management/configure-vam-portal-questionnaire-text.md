@@ -14,7 +14,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Configure the questionnaire text for the user and clinician portals
 
-Configure the questionnaire text that is displayed in the user and clinician portals for [[hcls-vam|Vaccine Administration Management]].
+Configure the questionnaire text that is displayed in the user and clinician portals for Vaccine Administration Management.
 
 ## Before you begin
 
@@ -111,6 +111,3 @@ age\_group
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

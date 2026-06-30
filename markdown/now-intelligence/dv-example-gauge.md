@@ -16,7 +16,7 @@ Like dials, gauges show where a single value lies across a range from minimum to
 
 ## Before you begin
 
-Role required: No role is required to see the [[c_performanceAnalyticsAndReporting|Platform Analytics]] workspace. With any internal role, you can create a data visualization, but you need the viz\_creator role to save your visualizations to the Visualization Library. To create a meaningful visualization, you must have permission to access the data you want to report on.
+Role required: No role is required to see the Platform Analytics workspace. With any internal role, you can create a data visualization, but you need the viz\_creator role to save your visualizations to the Visualization Library. To create a meaningful visualization, you must have permission to access the data you want to report on.
 
 ## About this task
 
@@ -24,7 +24,7 @@ Use the gauge visualization when you want to compare a value to a target or benc
 
 ## Procedure
 
-1.  Follow the first steps to [[create-dv-gauge-ac|Create a gauge data visualization in the Visualization Designer]]:
+1.  Follow the first steps to [Create a gauge data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-gauge-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -68,7 +68,7 @@ Use the gauge visualization when you want to compare a value to a target or benc
 
     1.  Select **Follow filters**.
 
-        This option enables the visualization to follow [[c_HomepagePublishers|interactive filters]] on the dashboards it's placed on that are based on the same table.
+        This option enables the visualization to follow interactive filters on the dashboards it's placed on that are based on the same table.
 
     2.  Select **Show filter icon** to show the number of filters applied to the visualization.
 
@@ -76,7 +76,7 @@ Use the gauge visualization when you want to compare a value to a target or benc
 
     3.  Under Chart interaction, select **Allow chart interaction**.
 
-        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by [[access-control|access control]] lists \(ACLs\) and viewers may not see all of the associated records.
+        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by access control lists \(ACLs\) and viewers may not see all of the associated records.
 
 6.  Under Presentation, configure the shape of the gauge and the size of the gauge value.
 
@@ -141,9 +141,3 @@ You have created a gauge visualization based on a single metric, open incidents.
 
 **Parent Topic:**[Create a gauge data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-gauge-ac.md)
 
-## Related
-
-- [[create-dv-gauge-ac|Create a gauge data visualization in the Visualization Designer]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[access-control|Access control]]

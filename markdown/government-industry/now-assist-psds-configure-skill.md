@@ -20,10 +20,10 @@ Each skill is configured separately, and tailored to support agents across vario
 
 |Skill|Description|
 |-----|-----------|
-|Document screening|Review and validate uploaded documents autonomously, checking IDs, tax forms, and other supporting documents. This skill flags potential issues and surfaces key details, applying consistent validation logic across every submission. For more info, see [[psds-ai-skill-doc-screening|Configure Document screening]].|
-|Investigative case summarization|Synthesize narratives, entities, evidence, and activity into a structured summary, enabling agents to grasp case contexts and respond to inquiries. Generate detailed resolution information for investigative outcomes, allowing agents to propose solutions and integrate generated information into the case record. For more info, see [[now-assist-psds-config-inv-case-summ|Configure Investigative case summarization]].|
-|Government case summarization|Summarize the case details and display this information on the case record, helping agents to grasp the context of a case. For more information, see [[now-assist-psds-customize-case-summ|Configure Case summarization]].|
-|Chat summarization|Auto-generate summaries of agent-facing chats, capturing the essence of conversations between agents and constituents or virtual agents, highlighting key points and enabling critical information from interactions to be readily accessible for future reference and actions. For more information, see[[now-assist-psds-customize-chat-summ|Configure Chat summarization]].|
+|Document screening|Review and validate uploaded documents autonomously, checking IDs, tax forms, and other supporting documents. This skill flags potential issues and surfaces key details, applying consistent validation logic across every submission. For more info, see [Configure Document screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-ai-skill-doc-screening.md).|
+|Investigative case summarization|Synthesize narratives, entities, evidence, and activity into a structured summary, enabling agents to grasp case contexts and respond to inquiries. Generate detailed resolution information for investigative outcomes, allowing agents to propose solutions and integrate generated information into the case record. For more info, see [Configure Investigative case summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-config-inv-case-summ.md).|
+|Government case summarization|Summarize the case details and display this information on the case record, helping agents to grasp the context of a case. For more information, see [Configure Case summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-customize-case-summ.md).|
+|Chat summarization|Auto-generate summaries of agent-facing chats, capturing the essence of conversations between agents and constituents or virtual agents, highlighting key points and enabling critical information from interactions to be readily accessible for future reference and actions. For more information, see[Configure Chat summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-customize-chat-summ.md).|
 
 The Now Assist Admin console contains everything that you need to install the plugins and configure the generative AI skills. For additional information, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
 
@@ -59,7 +59,7 @@ Role required: admin
 
     -   Case Summarization
     -   Chat Summarization
-    These features are grouped under the **Customer** workflow group. Select **PSDS** in the dropdown to access the skills for [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]. Each feature has its associated skills.
+    These features are grouped under the **Customer** workflow group. Select **PSDS** in the dropdown to access the skills for Now Assist for Public Sector Digital Services \(PSDS\). Each feature has its associated skills.
 
     \[Omitted image "now-assist-psds-panel.png"\] Alt text: Menu dropdown showing PSDS in the list of Now Assist Products
 
@@ -114,16 +114,7 @@ You can go back to the Now Assist Features page to configure another skill.
 
 [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
 
-[[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
+[Configure Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)
 
-[[now-assist-psds-using|Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)]]
+[Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-using.md)
 
-## Related
-
-- [[psds-ai-skill-doc-screening|Document Screening Al Skill for Public Sector Digital Services]]
-- [[now-assist-psds-config-inv-case-summ|Configure the Investigative case summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-psds-customize-case-summ|Configure the Government case summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-psds-customize-chat-summ|Configure chat summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-psds-using|Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

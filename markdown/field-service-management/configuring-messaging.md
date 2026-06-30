@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configuring communication from Dispatcher Workspace
 
-Sending messages to agents from [[dispatcher-activities|Dispatcher Workspace]] enables you to collaborate faster and communicate more effectively.
+Sending messages to agents from Dispatcher Workspace enables you to collaborate faster and communicate more effectively.
 
 Leverage the Microsoft Teams application through the Sidebar configuration to send messages to agents from Dispatcher Workspace. This method also means that the communication is documented and can be tracked.
 
@@ -26,9 +26,5 @@ For more information on using the Sidebar to communicate, see [Using Sidebar](ht
 
 ## About Sidebar for the Field Service Mobile Agent application
 
-Messaging from the Sidebar in the Mobile Agent application is available upon activation of the Sidebar for [[fsm-application-landing-page|Field Service Management]] plugin \(com.sn\_fsm\_sidebar\). For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
+Messaging from the Sidebar in the Mobile Agent application is available upon activation of the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\). For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

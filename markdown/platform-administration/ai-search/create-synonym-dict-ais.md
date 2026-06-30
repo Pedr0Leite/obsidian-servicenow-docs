@@ -26,13 +26,13 @@ To make a synonym dictionary affect search behavior, you must link it to a searc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to link the new synonym dictionary to.
 
-3.  In the [[synonyms-ais|Synonyms]] related list, select **Create and Link**.
+3.  In the Synonyms related list, select **Create and Link**.
 
-4.  On the [[dictionary-form-ais|Dictionary form]], fill in the fields.
+4.  On the Dictionary form, fill in the fields.
 
     For a description of the field values, see [Dictionary form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dictionary-form-ais.md).
 
@@ -49,8 +49,3 @@ To make new or updated synonym dictionary settings take effect, publish the sear
 
 **Parent Topic:**[Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[synonyms-ais|Synonyms]]
-- [[dictionary-form-ais|Dictionary form]]

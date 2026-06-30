@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Inventory number allocation
 
-The [[inventory_number_allocation|inventory number allocation]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application enables you to manage LAG, VLAN, IP addresses, and telephone numbers. You can review, create, update, or delete the different LAG, VLAN, IP address, and telephone number records.
+The inventory number allocation in the Telecommunications Network Inventory application enables you to manage LAG, VLAN, IP addresses, and telephone numbers. You can review, create, update, or delete the different LAG, VLAN, IP address, and telephone number records.
 
 To learn more, see [Manage IP addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/manage-ip-addresses.md) and [Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md).
 
@@ -25,12 +25,7 @@ Manage IP address allocation in the application by creating IP Address Blocks, I
 -   **[Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md)**  
 Create telephone blocks and number allocations, and assign telephone numbers by using the telephone infrastructure provided by the Telecommunications Network Inventory application.
 -   **[Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md)**  
-Review, update, and [[delete-inventory-record|delete a record]] of an IP address space element using the Telecommunications Network Inventory application.
+Review, update, and delete a record of an IP address space element using the Telecommunications Network Inventory application.
 
 **Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md)
 
-## Related
-
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[delete-inventory-record|Delete a record]]

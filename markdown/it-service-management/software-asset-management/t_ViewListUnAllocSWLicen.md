@@ -22,7 +22,7 @@ Role required: sam
 
 ## About this task
 
-You can allocate the licenses to users or [[dex-workspace-devices-tab|devices]]. If no one needs the unallocated licenses, this can be noted so that fewer licenses are purchased in the future.
+You can allocate the licenses to users or devices. If no one needs the unallocated licenses, this can be noted so that fewer licenses are purchased in the future.
 
 ## Procedure
 
@@ -46,6 +46,3 @@ You can allocate the licenses to users or [[dex-workspace-devices-tab|devices]].
 
 [Stock rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_StockRules.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

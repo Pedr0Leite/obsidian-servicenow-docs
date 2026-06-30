@@ -14,13 +14,13 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Using a load balancer with the Edge proxy server
 
-You can use a load balancer to balance the load across the proxy servers in your [[edge-encryption|Edge Encryption]] proxy setup. If the load balancer and proxy servers are using different ports, specify the host name and HTTPS port of the load balancer to enable [[users|users]] to view responses on their browser.
+You can use a load balancer to balance the load across the proxy servers in your Edge Encryption proxy setup. If the load balancer and proxy servers are using different ports, specify the host name and HTTPS port of the load balancer to enable users to view responses on their browser.
 
 **Important:** All production environments should include at least two Edge Encryption proxy servers for redundancy.
 
 ## Edge request processing without a load balancer
 
-If you are not using a load balancer, a [[c_requestAPI|request]] is processed as described below.
+If you are not using a load balancer, a request is processed as described below.
 
 1.  The user issues a request from a browser.
 2.  The browser sends the request to the Edge proxy server.
@@ -96,7 +96,7 @@ edgeencryption.proxy.rewrite.location.host
 
 </td><td>
 
-If your Edge [[sc-configuration|configuration]] includes a load balancer to balance the load among proxy servers, rewrites responses to the load balancer so requests can be completed.-   If there is a load balancer in the proxy setup, specify the host name used to access ServiceNow through the load balancer.
+If your Edge configuration includes a load balancer to balance the load among proxy servers, rewrites responses to the load balancer so requests can be completed.-   If there is a load balancer in the proxy setup, specify the host name used to access ServiceNow through the load balancer.
 -   Optional: If there is no load balancer in the proxy setup, you can set this value to the host name used by the proxy server.
 
 
@@ -118,9 +118,3 @@ If your Edge configuration includes a load balancer to balance the load among pr
 
 Requests can be completed because users can now view responses on their browser.
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]

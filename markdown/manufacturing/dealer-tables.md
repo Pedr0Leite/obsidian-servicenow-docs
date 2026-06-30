@@ -12,7 +12,7 @@ breadcrumb: [Dealer data model, Data model, Reference, Manufacturing Commercial 
 
 # Dealer tables
 
-This section explains the dealer tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+This section explains the dealer tables in Manufacturing Commercial Operations.
 
 ## Dealer plugin
 
@@ -125,9 +125,5 @@ Configure the responsibilities of the staff working at service organizations or 
 </td></tr></tbody>
 </table>To learn more about the Service Model Foundation, see .
 
-**Parent Topic:**[[dealer-data-model-overview|Dealer data model]]
+**Parent Topic:**[Dealer data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/dealer-data-model-overview.md)
 
-## Related
-
-- [[dealer-data-model-overview|Dealer data model]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

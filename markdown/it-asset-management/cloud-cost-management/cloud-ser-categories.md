@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Ma
 
 # Cloud service categories in Cloud Cost Management
 
-Provider services are grouped into service categories in [[cloud-insights-landing-page|Cloud Cost Management]]. This grouping enables you to use filters to focus your analysis on particular types of service.
+Provider services are grouped into service categories in Cloud Cost Management. This grouping enables you to use filters to focus your analysis on particular types of service.
 
 To perform targeted analysis, you can filter for particular services within a service category. For example, Amazon ElastiCache or Azure Database for PostgreSQL are services in the Database category.
 
@@ -24,6 +24,3 @@ Here are the supported cloud service categories in Cloud Cost Management:
 -   [Cloud service categories in Cloud Cost Management for Amazon AWS Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-service-category-crossref.md)
 -   [Cloud service categories in Cloud Cost Management for Google Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-service-category-crossref.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

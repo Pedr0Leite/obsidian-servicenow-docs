@@ -22,7 +22,7 @@ The following table lists the domain separation use cases for service providers 
 |SP External - SP uses the application for tenant employees to self-report their status via a dedicated service portal or web page.|Yes|None|
 |Tenant - Tenant uses the application for their sub-domain for their employees to self-report their status via a dedicated service portal or web page.|Yes|None|
 
-Some modules in the [[emergency-self-report|Emergency Self Report]] application are affected by domain separation. These modules can be used by SPs and tenants.
+Some modules in the Emergency Self Report application are affected by domain separation. These modules can be used by SPs and tenants.
 
 -   **EMERGENCY SELF REPORT DASHBOARD module**
     -   A web page where users can self-report their current status. When they submit their status, a health record is created. \(Table: Crisis Task\)
@@ -35,6 +35,3 @@ Some modules in the [[emergency-self-report|Emergency Self Report]] application 
 
 **Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/emergency-self-report.md)
 
-## Related
-
-- [[emergency-self-report|Emergency Self Report]]

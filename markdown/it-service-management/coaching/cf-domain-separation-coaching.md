@@ -14,7 +14,7 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 # Domain separation and Coaching
 
-Domain separation is supported in [[cf-coaching-landing|Coaching]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Coaching. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -59,7 +59,7 @@ The **Domain** column contains the name of the domain to which the event or aler
 ## Use cases
 
 -   A Coaching admin that belongs to a parent domain creates a coaching opportunity at a parent domain level or at a child domain level. Coaching opportunities created at a parent level are available to view in all domains.
--   A Coaching admin has access to multiple domains but wants to update content in a record within a specific domain. The domain specified in the record drives the functionality of that record and [[reference-for-itsm-mobile-agent|reference]] fields.
+-   A Coaching admin has access to multiple domains but wants to update content in a record within a specific domain. The domain specified in the record drives the functionality of that record and reference fields.
 -   A Coaching user that belongs to the Acme domain can view the coaching assessment task created in the Acme domain.
 -   A Coaching user wants to associate an assigned training for an integrated application in the Acme domain. The user must belong to the domain of the integrated application from which a record is associated.
 -   The trainee user of a parent domain can view a coaching assessment of the parent as well as of all child domains of that parent. A trainee user must belong to the Acme domain, its parent domain, or the global domain to view that coaching assessment.
@@ -71,7 +71,3 @@ The **Domain** column contains the name of the domain to which the event or aler
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[reference-for-itsm-mobile-agent|Reference]]

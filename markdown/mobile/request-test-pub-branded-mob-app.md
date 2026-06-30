@@ -60,11 +60,11 @@ None
 
 </td><td>
 
-[[request-private-branded-ios-app|Initial build]]
+[Initial build](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-private-branded-ios-app.md)
 
 </td></tr><tr><td>
 
-[[update-branded-app|Update existing app]]
+[Update existing app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/update-branded-app.md)
 
 </td></tr><tr><td rowspan="3">
 
@@ -86,7 +86,7 @@ None
 
 </td><td>
 
-[[request-public-branded-ios-app|Initial build]]
+[Initial build](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-public-branded-ios-app.md)
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ None
 
 </td><td>
 
-[[mob-pub-about-custom-apps|Initial build &amp; update existing app]]
+[Initial build &amp; update existing app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-pub-about-custom-apps.md)
 
 </td></tr><tr><td rowspan="5">
 
@@ -132,7 +132,7 @@ None
 
 </td><td>
 
-[[request-private-branded-android-app|Initial build]]
+[Initial build](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-private-branded-android-app.md)
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ None
 
 </td><td>
 
-[[request-public-branded-android-app|Initial build]]
+[Initial build](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-public-branded-android-app.md)
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ None
 [Initial build &amp; update existing app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-pub-about-custom-apps.md)
 
 </td></tr></tbody>
-</table>-   **[[mob-pub-build-statuses|Mobile Publishing build statuses]]**  
+</table>-   **[Mobile Publishing build statuses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-pub-build-statuses.md)**  
 Learn what the Mobile Publishing build statuses "Build in progress" and "Ready for testing" mean and what actions they require from you.
 -   **[Request a new branded Android app for private distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-private-branded-android-app.md)**  
 Request, test, and publish a custom Android app that has your unique company identity. Then make the app available for private distribution.
@@ -194,15 +194,5 @@ Request, test, and publish a custom iOS app that has your unique company identit
 -   **[Update a branded app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/update-branded-app.md)**  
 Request and publish an update to a ServiceNow® mobile app that has been branded with your unique company identity. Updates can only be requested for approved, completed builds of branded apps.
 
-**Parent Topic:**[[mobile-publishing|Publish mobile apps with custom branding]]
+**Parent Topic:**[Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md)
 
-## Related
-
-- [[request-private-branded-ios-app|request private branded ios app]]
-- [[update-branded-app|update branded app]]
-- [[request-public-branded-ios-app|request public branded ios app]]
-- [[mob-pub-about-custom-apps|Create custom-type mobile apps with Mobile Publishing]]
-- [[request-private-branded-android-app|request private branded android app]]
-- [[request-public-branded-android-app|request public branded android app]]
-- [[mob-pub-build-statuses|mob pub build statuses]]
-- [[mobile-publishing|Publish mobile apps with custom branding]]

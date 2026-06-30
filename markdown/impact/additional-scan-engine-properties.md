@@ -57,7 +57,7 @@ Override Instance-Specific Definitions For Definition Scanning
 
 </td><td>
 
--   Overrides instance-specific [[scan-engine-definitions|Scan Engine definitions]] when scanning for findings against a specific definition using **Scan instance for this finding**.
+-   Overrides instance-specific Scan Engine definitions when scanning for findings against a specific definition using **Scan instance for this finding**.
 -   Helpful for testing a single production-only definition in a lower environment or running a single sub-production definition against production.
 
  **Note:** This property only applies if you enable instance-specific Scan Engine definitions.
@@ -74,9 +74,5 @@ Override Instance-Specific Definitions For Update Set Scans
  **Note:** This property only applies if you enable instance-specific Scan Engine definitions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+</table>**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[scan-engine-definitions|Scan Engine definitions]]

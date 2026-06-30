@@ -40,12 +40,7 @@ The Hermes Messaging Service enables you to integrate your Apache Kafka environm
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[hermes-messaging-service-components|Hermes Messaging Service components]] and the security model.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about Hermes Messaging Service components and the security model.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hermes-messaging-service-components|Hermes Messaging Service components]]
-- [[reference|Reference]]

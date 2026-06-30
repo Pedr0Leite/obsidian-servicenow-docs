@@ -14,7 +14,7 @@ breadcrumb: [Red Hat JBoss server, Operating systems discovery, Data collected b
 
 # Legacy: JBoss probes and sensors
 
-[[r-discovery|Discovery]] identifies a Linux JBoss application server using probes and sensors.
+Discovery identifies a Linux JBoss application server using probes and sensors.
 
 ## Linux
 
@@ -44,6 +44,3 @@ This process describes the use of probes, which are active on your instance if y
 
 **Parent Topic:**[Red Hat JBoss server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DataCollDiscoJBossServers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

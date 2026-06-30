@@ -26,7 +26,7 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
 1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace**.
 
-2.  Select the [[metric-data-table|Metric data table]] icon \(\[Omitted image "metric-tasks.png"\] Alt text: Metric tasks icon.\).
+2.  Select the Metric data table icon \(\[Omitted image "metric-tasks.png"\] Alt text: Metric tasks icon.\).
 
 3.  Select the filter icon \[Omitted image "filter-outline-24.svg"\] Alt text: filter icon. and set the Entity, Metric group, Metric subgroup, Task type, Start date, End date, and Approval level filters to show the tasks for which you want to provide data.
 
@@ -40,7 +40,7 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
     Perform this step for each cell for which you want to provide data. You can scroll the cells to provide responses for all the tasks.
 
-    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [[create-manual-metric-definition|Create a manual metric definition]] and [[manual-md-reuse|Manual metric definition fields]].
+    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [Create a manual metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-manual-metric-definition.md) and [Manual metric definition fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/manual-md-reuse.md).
 
 7.  Select the tasks for which you want to submit the responses.
 
@@ -118,11 +118,5 @@ Press the Tab key to get the focus on to the select all check box. Press the Ent
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[create-manual-metric-definition|Create a manual metric definition]]
-- [[manual-md-reuse|Manual metric definition fields]]
-- [[using-grc-metrics|using grc metrics]]
-- [[metric-data-table|Metric data table]]

@@ -15,7 +15,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server ECC Queue
 
-The External Communication Channel \(ECC\) Queue is a connection point between an instance and the [[mid-server-landing|MID Server]]. Jobs that the MID Server needs to perform are saved in this queue until the MID Server is ready to handle them.
+The External Communication Channel \(ECC\) Queue is a connection point between an instance and the MID Server. Jobs that the MID Server needs to perform are saved in this queue until the MID Server is ready to handle them.
 
 <table id="table_sf2_dsf_khb"><tbody><tr><td>
 
@@ -83,7 +83,7 @@ Source
 
 </td><td>
 
-The [[ip-address|IP address]] that the discovery is to run against. A few probes run against multiple IP addresses; in those cases, this field contains a human-readable description.
+The IP address that the discovery is to run against. A few probes run against multiple IP addresses; in those cases, this field contains a human-readable description.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Response to
 
 </td><td>
 
-This optional field contains a [[reference|reference]] \(sys\_id\) to the ECC Queue message that this message is in response to. Discovery makes extensive use of this field to track the hierarchy of messages that result from a given scheduled Discovery. Click the record icon for the value in this field to open the ECC Queue record for the activity that spawned the current probe or sensor record.
+This optional field contains a reference \(sys\_id\) to the ECC Queue message that this message is in response to. Discovery makes extensive use of this field to track the hierarchy of messages that result from a given scheduled Discovery. Click the record icon for the value in this field to open the ECC Queue record for the activity that spawned the current probe or sensor record.
 
 </td></tr><tr><td>
 
@@ -271,8 +271,3 @@ Review and configure `boot-config.yaml` to verify that the default accept behavi
 
 For more information, see `boot-config-reference.yaml`.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[reference|Reference]]

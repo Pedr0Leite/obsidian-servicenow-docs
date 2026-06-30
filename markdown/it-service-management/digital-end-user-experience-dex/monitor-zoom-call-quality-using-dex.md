@@ -35,7 +35,7 @@ The detailed Zoom call metrics include call quality, network performance, and ca
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-devices-tab|Devices]] icon \(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\).
+2.  In the primary navigation pane, select the Devices icon \(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\).
 
 3.  Select a device.
 
@@ -91,6 +91,3 @@ The detailed Zoom call metrics include call quality, network performance, and ca
     -   For Call quality metrics description, see [Metrics monitored by DEX for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/metrics-monitored-by-dex-for-zoom.md).
     -   Clicking anywhere on the bar graph or pie chart for any call quality metric opens the **Details** page and displays the calls associated with the selected metric. For field descriptions on **Details** page, see [Zoom call quality metrics on the Details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/call-quality-metrics-monitored-by-dex-for-zoom.md).
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

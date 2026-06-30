@@ -54,7 +54,7 @@ Cybersecurity activity
 
 </td><td>
 
-Cybersecurity policies and requirements are found in the ServiceNow® GRC [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application. The application provides guidelines for understanding cybersecurity outcomes that need to be achieved to strengthen cybersecurity practices and enhance security compliance. These activities in the NIST CSF application as are a combination of a Target, Function, and Category. NIST CSF activities evaluate cybersecurity requirements for Targets, which provides detailed insights into gaps, non-compliant controls, risks, issues, failed indicators, and action plans and when they are addressed. Also, they help organizations strengthen their security compliance position.
+Cybersecurity policies and requirements are found in the ServiceNow® GRC Policy and Compliance Management application. The application provides guidelines for understanding cybersecurity outcomes that need to be achieved to strengthen cybersecurity practices and enhance security compliance. These activities in the NIST CSF application as are a combination of a Target, Function, and Category. NIST CSF activities evaluate cybersecurity requirements for Targets, which provides detailed insights into gaps, non-compliant controls, risks, issues, failed indicators, and action plans and when they are addressed. Also, they help organizations strengthen their security compliance position.
 
 </td></tr><tr><td>
 
@@ -133,6 +133,3 @@ Action plans for issues for the target's entity, which are identified in the cyb
 </td></tr></tbody>
 </table>**Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-csf-usecase-accelerator.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

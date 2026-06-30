@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Dis
 
 # Configure a Data Discovery job
 
-Configure a Data Discovery job and review the status of ongoing jobs. A [[data-discovery-landing|Data Discovery]] job defines when a pattern is executed on a target table.
+Configure a Data Discovery job and review the status of ongoing jobs. A Data Discovery job defines when a pattern is executed on a target table.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: data\_discovery\_admin
 
 1.  Navigate to **System Security** &gt; **Data Discovery\(Classic\)** &gt; **Data Discovery Job**.
 
-2.  In the [[data-discovery-jobs|Data Discovery Jobs]] list, select **New**.
+2.  In the Data Discovery Jobs list, select **New**.
 
 3.  On the Data Discovery job fields form, fill in the fields.
 
@@ -69,7 +69,7 @@ Policy
 
 </td><td>
 
-The [[dds-policy|Data Discovery policy]] to be used in this job. See [Data Discovery policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/data-discovery-policies.md) for more information.
+The Data Discovery policy to be used in this job. See [Data Discovery policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/data-discovery-policies.md) for more information.
 
 </td></tr><tr><td>
 
@@ -149,8 +149,3 @@ The end of the time window to run this job. The job runs until the time entered 
     -   **Pause**: Pauses the job.
     -   **Resume**: Restarts a paused job.
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[dds-policy|Data Discovery policy]]

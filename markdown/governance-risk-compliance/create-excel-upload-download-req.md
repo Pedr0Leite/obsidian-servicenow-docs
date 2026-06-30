@@ -169,7 +169,7 @@ Enable currency conversion
 
 Option to convert each contract’s annual expense into a single base currency using historical exchange rates from the European Central Bank \(ECB\).**Note:** The Reference Date on the report determines the exchange rate used. Converted amounts appear only in the generated package; source records are unchanged.
 
-For more information, see [[currency-conversion-aggregation|Currency conversion and third-party aggregation]].
+For more information, see [Currency conversion and third-party aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/currency-conversion-aggregation.md).
 
 </td></tr><tr><td>
 
@@ -200,9 +200,5 @@ Report type
 Specifies whether the report covers a single entity **Individual** or a **Consolidated** group of entities.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-excel-upload-download-request|Create Microsoft Excel download and upload request]]
+</table>**Parent Topic:**[Create Microsoft Excel download and upload request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-excel-upload-download-request.md)
 
-## Related
-
-- [[currency-conversion-aggregation|Currency conversion and third-party aggregation]]
-- [[create-excel-upload-download-request|Create Microsoft Excel download and upload request]]

@@ -12,11 +12,11 @@ breadcrumb: [Exploring domain separation, Domain separation for service provider
 
 # Visibility domains and Contains domains
 
-Visibility domains control what a specific user or group of [[users|users]] can see. "Contains" domains control what an entire domain of users can see.
+Visibility domains control what a specific user or group of users can see. "Contains" domains control what an entire domain of users can see.
 
 ## Visibility domains
 
-The "Visibility domains" element determines whether users from one domain can access records from another domain. Associate this element with User \[sys\_user\] and Group \[sys\_user\_group\] records in related lists on those records. Groups grant their members the visibility domains of the group. When a user leaves a group, they lose the group's visibility domains. Granting users a visibility domain grants all the rights to the records in that domain based on ACL \([[sc-access-control|access control]] list\) rules.
+The "Visibility domains" element determines whether users from one domain can access records from another domain. Associate this element with User \[sys\_user\] and Group \[sys\_user\_group\] records in related lists on those records. Groups grant their members the visibility domains of the group. When a user leaves a group, they lose the group's visibility domains. Granting users a visibility domain grants all the rights to the records in that domain based on ACL \(access control list\) rules.
 
 A visibility domain:
 
@@ -36,7 +36,7 @@ A contains domain:
 -   May have child domains. When a domain is selected, you can see the data from that domain and its children.
 -   Is controlled by the selection in the domain picker.
 
-**Note:** When you open the domain record, the scope is set to that record's domain, so you can see only child domains. Choose **Toggle [[c_DomainScope|Domain Scope]]** from the menu to populate the related list.
+**Note:** When you open the domain record, the scope is set to that record's domain, so you can see only child domains. Choose **Toggle Domain Scope** from the menu to populate the related list.
 
 ## Contains domain example
 
@@ -50,7 +50,7 @@ Using domain visibility, if Don Goodliffe is in the Database domain, and Bow Rug
 
 If you set the domain table to the Group \[sys\_user\_group\] table, users can inherit visibility domains based on their group membership.
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -65,15 +65,7 @@ If you set the domain table to the Group \[sys\_user\_group\] table, users can i
 
 [Installed with domain separation]()
 
-[[bp-contains-domain-visibility|Contains queries and domain access]]
+[Contains queries and domain access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-contains-domain-visibility.md)
 
-[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-## Related
-
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[bp-contains-domain-visibility|Contains queries and domain access]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[c_DomainScope|Domain scope]]

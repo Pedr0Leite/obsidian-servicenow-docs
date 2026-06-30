@@ -18,13 +18,13 @@ If your cloud resources are in an Azure cloud, create credentials that can acces
 
 ## Verify the REST API Permissions
 
-Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the [[r-discovery|Discovery]] patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
+Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
 ## Before you begin
 
 Roles required:
 
--   discovery\_admin, service\_mapping\_admin, sn\_cmp.cloud\_admin roles in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] or sn\_cloud\_ops\_ws.cloud\_ops\_admin role in [[cow-landing-page|Cloud Discovery Workspace]].
+-   discovery\_admin, service\_mapping\_admin, sn\_cmp.cloud\_admin roles in Cloud Provisioning and Governance or sn\_cloud\_ops\_ws.cloud\_ops\_admin role in Cloud Discovery Workspace.
 -   Operations on the Microsoft Azure portal require one of the following roles:
 
     -   Azure or Azure AD \(Active Directory\) Administrator
@@ -195,13 +195,8 @@ Select **Client secret**.The **Secret key** field appears when you select **Clie
 
 15. Select a subscription to view the service account created for the subscription.
 
-16. Select a [[c_DiscoveryStatus|Discovery status]] entry in the **Credential Discovery Status** list to view the Discovery log.
+16. Select a Discovery status entry in the **Credential Discovery Status** list to view the Discovery log.
 
     Each time you select **Discover Subscription**, the instance generates a new Discovery status and displays it in the **Credential Discovery Status** list.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_DiscoveryStatus|Discovery status]]

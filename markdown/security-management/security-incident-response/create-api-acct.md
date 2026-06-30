@@ -14,7 +14,7 @@ breadcrumb: [Check Point NGTP setup, Check Point Next Generation Threat Preventi
 
 # Create an API account for the Check Point NGTP integration
 
-An API account role is required in your ServiceNow AI Platform instance for this integration. The Username and Password associated with this account are created in the ServiceNow AI Platform and entered in Check Point, so the Check Point authenticates with the ServiceNow AI Platform when retrieving [[cs-fal-insight-block-list-entries|Block List entries]].
+An API account role is required in your ServiceNow AI Platform instance for this integration. The Username and Password associated with this account are created in the ServiceNow AI Platform and entered in Check Point, so the Check Point authenticates with the ServiceNow AI Platform when retrieving Block List entries.
 
 ## Before you begin
 
@@ -81,6 +81,4 @@ The ServiceNow AI Platform admin creates an API account role \(sn\_sec\_checkpoi
 
     The user record is displayed. This record verifies that the user account has been assigned.
 
-## Related
 
-- [[cs-fal-insight-block-list-entries|Block List Entries]]

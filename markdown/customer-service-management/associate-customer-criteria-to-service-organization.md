@@ -12,7 +12,7 @@ breadcrumb: [Configuring business locations, Setting up inter-organization suppo
 
 # Define the configuration type for customers or business locations
 
-Define the configuration type to provide service to customers or business locations within any service organization \(SO\) using the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Define the configuration type to provide service to customers or business locations within any service organization \(SO\) using the Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -64,9 +64,5 @@ In other words, it’s a service organization relationship where a business loca
 
 ## What to do next
 
-Once the configuration is defined, you can associate your customers or business locations to a service organization. For more information, see [[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]].
+Once the configuration is defined, you can associate your customers or business locations to a service organization. For more information, see [Associate customers or business locations to a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customers-or-bus-loc-to-so.md).
 
-## Related
-
-- [[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

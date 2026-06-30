@@ -18,7 +18,7 @@ Guidance on aligning ServiceNow strategic roadmap to business outcomes
 
 ## Accelerator Overview
 
-Strategy Governance provides [[impact-landing-page|Impact]] Customers with leading practice recommendations on the establishment and operation of strategy governance, which will assist Customer in driving decisions aligning a ServiceNow strategic roadmap to business outcomes.
+Strategy Governance provides Impact Customers with leading practice recommendations on the establishment and operation of strategy governance, which will assist Customer in driving decisions aligning a ServiceNow strategic roadmap to business outcomes.
 
 ## Package Availability
 
@@ -51,7 +51,7 @@ Strategy Governance provides [[impact-landing-page|Impact]] Customers with leadi
 
 ## Requested information/access
 
--   [[servicenow-governance|ServiceNow governance]] structure documents – charters, board participant lists, etc.
+-   ServiceNow governance structure documents – charters, board participant lists, etc.
 -   CoE Charter
 -   Organization chart
 -   IT governance documents
@@ -64,7 +64,3 @@ Strategy Governance provides [[impact-landing-page|Impact]] Customers with leadi
 
 ServiceNow is not responsible for execution of the strategy governance process.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[servicenow-governance|ServiceNow Governance]]

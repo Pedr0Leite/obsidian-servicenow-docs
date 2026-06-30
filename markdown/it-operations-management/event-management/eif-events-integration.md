@@ -18,7 +18,7 @@ Use the push connector that allows events to be forwarded from products, general
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
 Ensure the MID Server is assigned with `EventManagement` or `ALL applications`.
 
@@ -139,6 +139,3 @@ If the EIF event payload has a warning severity, it will be mapped differently i
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]

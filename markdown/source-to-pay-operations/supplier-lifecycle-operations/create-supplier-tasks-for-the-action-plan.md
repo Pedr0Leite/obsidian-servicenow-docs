@@ -14,7 +14,7 @@ breadcrumb: [Create action plan for KPIs, Using Supplier Relationship and Perfor
 
 # Create supplier tasks for the action plan
 
-Create [[supplier|supplier]] tasks for the affected KPIs in the action plan.
+Create supplier tasks for the affected KPIs in the action plan.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ The supplier tasks are visible to the supplier in the portal view.
 
 **Parent Topic:**[Create action plan for KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 
-## Related
-
-- [[supplier|Supplier]]

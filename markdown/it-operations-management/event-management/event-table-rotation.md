@@ -14,7 +14,7 @@ breadcrumb: [Rotate event and alert table for cleanup, Manage and monitor alerts
 
 # Modify event table rotation
 
-Table rotation is used by [[c_EM|Event Management]], by default, to contain the growth of event \[em\_event\] tables within the rotation table group.
+Table rotation is used by Event Management, by default, to contain the growth of event \[em\_event\] tables within the rotation table group.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Each table rotation has a schedule, according to which new data is written to on
 
 [Rotate event and alert table for cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/rotate-tables-purge-data.md)
 
-## Related
-
-- [[c_EM|Event Management]]

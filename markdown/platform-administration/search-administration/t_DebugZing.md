@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
--   To view debugging messages, navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug Text Search**. The search log messages appear at the bottom of the [[hs-results|results]] page for the remainder of your session.
+-   To view debugging messages, navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug Text Search**. The search log messages appear at the bottom of the results page for the remainder of your session.
 
     \[Omitted image "DebuggingMessages.png"\] Alt text: Search results page showing Debug Output pane with search log messages.
 
@@ -69,7 +69,3 @@ Role required: admin
 
 [Enable or disable the Zing junk filter]()
 
-## Related
-
-- [[sys-diag|System Diagnostics]]
-- [[hs-results|Results]]

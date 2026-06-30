@@ -15,7 +15,7 @@ breadcrumb: [Data Loss Prevention Incident Response with Microsoft, Integrate, D
 
 # Preview Evidence files for DLP incidents of type Exchange Online, OneDrive, and SharePoint
 
-Preview [[dlp-landing|Data Loss Prevention Incident Response]] evidence files in the DLP IR Analyst workspace.
+Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ PDF files
 
 **Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

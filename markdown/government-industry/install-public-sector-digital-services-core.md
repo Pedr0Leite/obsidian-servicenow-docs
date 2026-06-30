@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]].
+For more information, see [Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md).
 
 ## Procedure
 
@@ -53,11 +53,5 @@ For more information, see [[installed-with-public-sector-digital-services-core|C
 
 ## What to do next
 
-Use [[configure-psds-foundation-data|guided setup]] to configure the Public Sector Digital Services Core application. If you're not using guided setup, you can [[customize-government-service-portal|customize the Government Service Portal]] and configure the CSM Configurable Workspace for public sector use by following the [[psds-optional-config-steps|optional configuration steps for Public Sector Digital Services Core]].
+Use [guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md) to configure the Public Sector Digital Services Core application. If you're not using guided setup, you can customize the Government Service Portal and configure the CSM Configurable Workspace for public sector use by following the [optional configuration steps for Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-optional-config-steps.md).
 
-## Related
-
-- [[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]]
-- [[configure-psds-foundation-data|Configure Public Sector Digital Services foundational data and workflows]]
-- [[psds-optional-config-steps|Optional configuration steps for Public Sector Digital Services Core]]
-- [[customize-government-service-portal|Customize the Government Service Portal]]

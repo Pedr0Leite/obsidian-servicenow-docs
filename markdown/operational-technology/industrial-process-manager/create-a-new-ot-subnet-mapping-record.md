@@ -26,7 +26,7 @@ Role required: sn\_ot\_amazing\_write or sn\_ot\_amazing\_admin
 
 1.  Navigate to **All** &gt; **Equipment Model - ISA** &gt; **Equipment Model Entities**.
 
-    Alternatively, you can navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Subnet Mapping**. Then select **New** in the OT Subnet Mappings table. If you create an OT subnet mapping record using this method, continue from step 4.
+    Alternatively, you can navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Subnet Mapping**. Then select **New** in the OT Subnet Mappings table. If you create an OT subnet mapping record using this method, continue from step 4.
 
 2.  Select the site or equipment model entity you want to create a new mapping for.
 
@@ -173,6 +173,3 @@ Specify the VLAN ID if applicable.
 
 **Parent Topic:**[Automatically map all OT devices to an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automatedly-map-all-ot-assets.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

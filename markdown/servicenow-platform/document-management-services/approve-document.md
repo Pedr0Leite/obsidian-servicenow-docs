@@ -14,7 +14,7 @@ breadcrumb: [Document approval and publish process, Use, Document Management, Do
 
 # Approve or reject a document version
 
-Approve or reject a document version after the [[c_ReviewProcess|review process]] is complete.
+Approve or reject a document version after the review process is complete.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: approver\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My Approvals**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Approvals**.
 
 2.  Select the requested document for approval.
 
@@ -31,7 +31,3 @@ Role required: approver\_user
 
 **Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
 
-## Related
-
-- [[c_ReviewProcess|Review process]]
-- [[self-service-landing|Self-service]]

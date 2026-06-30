@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Install Portfolio Planning
 
-You can install the [[portfolio-planning-app-landing-page|Portfolio Planning]] application \(sn\_align\_ws\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Portfolio Planning application \(sn\_align\_ws\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ The following components are installed with installation of the Portfolio Planni
 
 See [Components installed with Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/installed-with-portfolio-planning.md) for more information.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

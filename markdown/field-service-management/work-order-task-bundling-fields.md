@@ -134,7 +134,7 @@ Schedule lock
 
 </td><td>
 
-Locks the bundle from being scheduled by any scheduling mechanism. Locked bundles are excluded from automated scheduling mechanisms such as [[dynamic-scheduling|dynamic scheduling]] or intelligent task recommendations. Dispatchers can manually assign the bundle to an agent.**Note:** Subtasks of a bundle will reflect the same lock value as the parent bundle.
+Locks the bundle from being scheduled by any scheduling mechanism. Locked bundles are excluded from automated scheduling mechanisms such as dynamic scheduling or intelligent task recommendations. Dispatchers can manually assign the bundle to an agent.**Note:** Subtasks of a bundle will reflect the same lock value as the parent bundle.
 
 </td></tr><tr><td>
 
@@ -313,9 +313,5 @@ Actual work duration
 Total amount of time spent on the bundle after the agent starts the work and before the agent closes the work on the last subtask. This amount excludes the time paused on the work.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[task-bundling-components|Field Service Task Bundling components]]
+</table>**Parent Topic:**[Field Service Task Bundling components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/task-bundling-components.md)
 
-## Related
-
-- [[task-bundling-components|Field Service Task Bundling components]]
-- [[dynamic-scheduling|Dynamic scheduling]]

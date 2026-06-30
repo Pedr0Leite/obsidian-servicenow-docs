@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Activate project task email notifications
 
-The following email notifications for the [[c_ProjectApplicationOverview|Project Management]] application are available by default, but are inactive. You must activate them manually.
+The following email notifications for the Project Management application are available by default, but are inactive. You must activate them manually.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ Use the workflow tool, for example, to set up a workflow that sends an email not
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -85,7 +85,3 @@ Use the workflow tool, for example, to set up a workflow that sends an email not
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ResourcePlans|Resource plans]]

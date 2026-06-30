@@ -14,7 +14,7 @@ breadcrumb: [Automated Service Suggestions, Choose method for discovering and ma
 
 # Discovery based on Predictive Intelligence
 
-[[c_ServiceMappingOverview|Service Mapping]] uses data processed by Predictive Intelligence to generate suggestions for traffic-based connections.
+Service Mapping uses data processed by Predictive Intelligence to generate suggestions for traffic-based connections.
 
 ## Connection suggestions generated using Predictive Intelligence
 
@@ -29,7 +29,7 @@ If Predictive Intelligence is enabled, Service Mapping automatically adds connec
 
 ## Connection rules based on connection suggestions
 
-Connection rules enhance the connection suggestions generated using Predictive Intelligence. Each rule contains a condition that describes an aspect of a traffic-based connection. The fields available in conditions come from the Connection Suggestion \[sa\_ml\_connection\_suggestion\] table, which is only populated when you run top-down [[r-discovery|discovery]]. You can base your rules directly on the connection suggestions. For example, create a rule for any connection with confidence level High. Alternatively, if you know which CIs must be part of the service instances, you can choose fields that point at these CIs.
+Connection rules enhance the connection suggestions generated using Predictive Intelligence. Each rule contains a condition that describes an aspect of a traffic-based connection. The fields available in conditions come from the Connection Suggestion \[sa\_ml\_connection\_suggestion\] table, which is only populated when you run top-down discovery. You can base your rules directly on the connection suggestions. For example, create a rule for any connection with confidence level High. Alternatively, if you know which CIs must be part of the service instances, you can choose fields that point at these CIs.
 
 When Service Mapping adds a connection based on connection rules, it performs the following actions:
 
@@ -65,7 +65,3 @@ Discovery based on Predictive Intelligence works at the product level. The **sa\
 
 [Add or remove CIs for single application services using connection suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-remove-ci-connections-services.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

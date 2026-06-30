@@ -14,30 +14,24 @@ breadcrumb: [Configuring MFA, Multi-factor authentication, Authentication, Acces
 
 # Multi-factor Authentication criteria
 
-Use MFA criteria to determine which [[users|users]] and roles must use two-step verification.
+Use MFA criteria to determine which users and roles must use two-step verification.
 
 ## Multi-factor criteria
 
 Use MFA criteria to determine which users and roles must use two-step verification. You can use one of these criteria or a combination of them to suit your business needs. You can use one of these criteria or a combination of them to suit your business needs.
 
-**Note:** It is recommended to use [[adaptive-authentication|Adaptive Authentication]] policy based MFA.
+**Note:** It is recommended to use Adaptive Authentication policy based MFA.
 
 -   **User-based multi-factor criteria**
 
-    Use user-based multi-factor criteria to select individual users who are required to log in using MFA. Administrators update the **Enable Multifactor [[c_Authentication|Authentication]]** field on a user record to enable or disable MFA requirements for a user. For details on this process, see [Configure user-based multi-factor criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_RequireMultifactorAuthForAUser.md).
+    Use user-based multi-factor criteria to select individual users who are required to log in using MFA. Administrators update the **Enable Multifactor Authentication** field on a user record to enable or disable MFA requirements for a user. For details on this process, see [Configure user-based multi-factor criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_RequireMultifactorAuthForAUser.md).
 
 -   **Role-based multi-factor criteria**
 
-    Use role-based multi-factor criteria to require MFA login for all users assigned to a specific role. The **Role-based [[mfa-landing|multi-factor authentication]]** record on the **Multi-factor Criteria** \[multi\_factor\_criteria\] table contains the list of roles that require an MFA login. For details on maintaining this list, see [Configure role-based multi-factor criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-role-criteria.md).
+    Use role-based multi-factor criteria to require MFA login for all users assigned to a specific role. The **Role-based multi-factor authentication** record on the **Multi-factor Criteria** \[multi\_factor\_criteria\] table contains the list of roles that require an MFA login. For details on maintaining this list, see [Configure role-based multi-factor criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-role-criteria.md).
 
 -   **Adaptive authentication policy-based multi-factor criteria**
 
-    Use adaptive authentication to determine when your instance requires MFA. Adaptive authentication uses [[authentication-policies|authentication policies]] to evaluate criteria like a user's IP address or user groups. For details on the adaptive authentication feature, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
+    Use adaptive authentication to determine when your instance requires MFA. Adaptive authentication uses authentication policies to evaluate criteria like a user's IP address or user groups. For details on the adaptive authentication feature, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
-## Related
 
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[authentication-policies|Authentication policies]]

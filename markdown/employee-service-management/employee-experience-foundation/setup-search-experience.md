@@ -42,18 +42,13 @@ Enable employees to quickly find their leave balance.
 
 </td></tr><tr><td>
 
-[[sharepoint-search-overview|SharePoint Online Search Connector]]
+[SharePoint Online Search Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-search-overview.md)
 
 </td><td>
 
-Connect the [[employee-center-landing-page|Employee Center]] with SharePoint to enable employees to search for information resources from the portal.**Important:** Starting with the Yokohama release, SharePoint Online Search Connector is being prepared for future deprecation. It is hidden and no longer activated on new instances but continue to be supported.
+Connect the Employee Center with SharePoint to enable employees to search for information resources from the portal.**Important:** Starting with the Yokohama release, SharePoint Online Search Connector is being prepared for future deprecation. It is hidden and no longer activated on new instances but continue to be supported.
 
 For deprecation details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[employee-center-landing-page|Employee Center]]

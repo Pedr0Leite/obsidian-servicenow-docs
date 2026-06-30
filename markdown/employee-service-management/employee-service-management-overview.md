@@ -11,7 +11,7 @@ reading_time_minutes: 8
 
 # Employee Service Management
 
-ServiceNow® Employee Service Management transforms how employees interact with the organization by delivering a unified, personalized, and proactive service experience across HR, [[egd-employee-growth-developemnt-suite|Growth Experiences]], [[hiring-experiences-landing|Hiring Experiences]], and other departments. It enables organizations deliver seamless, cross-departmental services through a single digital experience. Whether employees are onboarding, requesting workplace resources, updating personal data, or exploring internal opportunities, ESM orchestrates these interactions through end-to-end workflows.
+ServiceNow® Employee Service Management transforms how employees interact with the organization by delivering a unified, personalized, and proactive service experience across HR, Growth Experiences, Hiring Experiences, and other departments. It enables organizations deliver seamless, cross-departmental services through a single digital experience. Whether employees are onboarding, requesting workplace resources, updating personal data, or exploring internal opportunities, ESM orchestrates these interactions through end-to-end workflows.
 
 \[Omitted image "esm-landing-page.png"\] Alt text: Overview of all the features and apps in Employee Service Management
 
@@ -19,7 +19,7 @@ Choose one of these tiles to get started.
 
 <table id="table_zzz_n5k_mbc" class="nav-card"><tbody><tr><td>
 
-[Explore [[hr-service-administration|HR Services]]\[Omitted image "bus-endpoint.svg"\] Alt text:Learn how [[hr-service-delivery|HR Service Delivery]] applications can help you meet the demands of a modern-day workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
+[Explore HR Services\[Omitted image "bus-endpoint.svg"\] Alt text:Learn how HR Service Delivery applications can help you meet the demands of a modern-day workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Manage a safe and efficient workplace.\[Omitted image "bus-vulnerability-response.svg"\] Alt text:Learn about maintaining a streamlined experience for your workplace using [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-service-delivery-suite-landing-page.md)
+[Manage a safe and efficient workplace.\[Omitted image "bus-vulnerability-response.svg"\] Alt text:Learn about maintaining a streamlined experience for your workplace using Workplace Service Delivery.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-service-delivery-suite-landing-page.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Description
 
 </td><td>
 
-The ServiceNow® [[employee-center-landing-page|Employee Center]] portal enables customers to easily scale their service solutions across departments, such as IT, HR, Workplace, Legal, and Procurement with digital workflows.
+The ServiceNow® Employee Center portal enables customers to easily scale their service solutions across departments, such as IT, HR, Workplace, Legal, and Procurement with digital workflows.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ The ServiceNow® [[employee-center-landing-page|Employee Center]] portal enables
 
 </td><td>
 
-The ServiceNow® [[case-knowledge-management-landing-page|Case and Knowledge Management]] application enables you to standardize the documentation, interaction, and fulfillment of employee inquiries and requests, which helps to improve HR efficiency and services over time.
+The ServiceNow® Case and Knowledge Management application enables you to standardize the documentation, interaction, and fulfillment of employee inquiries and requests, which helps to improve HR efficiency and services over time.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ The ServiceNow® [[case-knowledge-management-landing-page|Case and Knowledge Man
 
 </td><td>
 
-The ServiceNow® [[manager-hub-overview|Manager Hub]] increases managers self-service and proactive engagement with their team by providing insights and recommended actions for what's most urgent and important to drive team success. It enables managers to grow as leaders through curated and personalised resources.
+The ServiceNow® Manager Hub increases managers self-service and proactive engagement with their team by providing insights and recommended actions for what's most urgent and important to drive team success. It enables managers to grow as leaders through curated and personalised resources.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ The ServiceNow® [[manager-hub-overview|Manager Hub]] increases managers self-se
 
 </td><td>
 
-The ServiceNow® [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application summarize the case information, generates resolution notes, and summarizes the chat information for an interaction.
+The ServiceNow® Now Assist for HR Service Delivery \(HRSD\) application summarize the case information, generates resolution notes, and summarizes the chat information for an interaction.
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Integrate HR Service Delivery with HR management systems to synchronize employee
 
 </td><td>
 
-ServiceNow® [[legal-management-overview|Legal Service Delivery]] provides a unified experience between the employees requesting legal support and the legal teams serving them.
+ServiceNow® Legal Service Delivery provides a unified experience between the employees requesting legal support and the legal teams serving them.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ ServiceNow® [[legal-management-overview|Legal Service Delivery]] provides a uni
 
 </td><td>
 
-The ServiceNow® [[cncore-cmpro-landing-page|Contract Management Pro]] solution enables you to set up contract [[document-templates-overview|document templates]], clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
+The ServiceNow® Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ The ServiceNow® [[cncore-cmpro-landing-page|Contract Management Pro]] solution 
 
 </td><td>
 
-The ServiceNow® [[skills-intelligence|Skills Foundation]] application is an AI-driven platform that you can use in your organization to develop a workforce that is based on skills.
+The ServiceNow® Skills Foundation application is an AI-driven platform that you can use in your organization to develop a workforce that is based on skills.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ The ServiceNow® [[skills-intelligence|Skills Foundation]] application is an AI-
 
 </td><td>
 
-The ServiceNow®[[td-lh-landing|Leader Hub]] application empowers organizational leaders to understand the strengths of their teams, identify gaps in skills, and facilitate changes that are simultaneously conducive to their workforce and the achievement of desired business outcomes.
+The ServiceNow®Leader Hub application empowers organizational leaders to understand the strengths of their teams, identify gaps in skills, and facilitate changes that are simultaneously conducive to their workforce and the achievement of desired business outcomes.
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ The ServiceNow®[[td-lh-landing|Leader Hub]] application empowers organizational
 
 </td><td>
 
-The ServiceNow® [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application makes it easier for employees to reserve meeting rooms, conference rooms, desks, and any reservable workplace service from the Service Portal.
+The ServiceNow® Workplace Reservation Management application makes it easier for employees to reserve meeting rooms, conference rooms, desks, and any reservable workplace service from the Service Portal.
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ The ServiceNow® [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] ap
 
 </td><td>
 
-Fulfilling employee workplace requests involves multiple, complex back-end processes, including analyzing the requests for type and routing them to human or automated responses, approvals, or other tasks. The ServiceNow® [[workplace-case-mgmt-feat|Workplace Case Management]] application makes these processes simpler and more efficient by letting you create pre-defined steps to fulfill requests.
+Fulfilling employee workplace requests involves multiple, complex back-end processes, including analyzing the requests for type and routing them to human or automated responses, approvals, or other tasks. The ServiceNow® Workplace Case Management application makes these processes simpler and more efficient by letting you create pre-defined steps to fulfill requests.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ Fulfilling employee workplace requests involves multiple, complex back-end proce
 
 </td><td>
 
-The ServiceNow® [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application is a solution in [[health-safety-overview|Health and Safety]] that enables organizations to record, track, and report on health and safety related employee incidents and observations. Furthermore, it provides capabilities to investigate and reduce incidents.
+The ServiceNow® Health and Safety Incident Management application is a solution in Health and Safety that enables organizations to record, track, and report on health and safety related employee incidents and observations. Furthermore, it provides capabilities to investigate and reduce incidents.
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ The ServiceNow® [[hs-incident-mgmt-landing-page|Health and Safety Incident Mana
 
 </td><td>
 
-The ServiceNow® [[jny-dsgnr-landing-page-1|Journey designer]] application enables employees and managers in your organization to initiate and manage journeys to drive employee engagement and productivity.
+The ServiceNow® Journey designer application enables employees and managers in your organization to initiate and manage journeys to drive employee engagement and productivity.
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ The ServiceNow® [[jny-dsgnr-landing-page-1|Journey designer]] application enabl
 
 </td><td>
 
-The ServiceNow® [[recruitment-workspace-concept|Recruitment workspace]] centralizes job requisition tracking, boosts [[hiring-tab-concept|hiring]] efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.
+The ServiceNow® Recruitment workspace centralizes job requisition tracking, boosts hiring efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ The ServiceNow® [[recruitment-workspace-concept|Recruitment workspace]] central
 
 </td><td>
 
-ServiceNow® [[interview-management-landing|Interview management]] streamlines the entire interview process through structured workflows designed for efficient, accurate, and on-time scheduling—while minimizing rescheduling through in-product collaboration and integration of multi-source data.
+ServiceNow® Interview management streamlines the entire interview process through structured workflows designed for efficient, accurate, and on-time scheduling—while minimizing rescheduling through in-product collaboration and integration of multi-source data.
 
 </td></tr><tr><td>
 
@@ -200,7 +200,7 @@ ServiceNow® [[interview-management-landing|Interview management]] streamlines t
 
 </td><td>
 
-ServiceNow® [[ur-landing-limitedaccess|Universal Request]] empowers customers in their journey toward Enterprise Service Management \(ESM\) or Global Business Services \(GBS\) by enabling agents to resolve cases seamlessly across the enterprise to provide a better employee experience.
+ServiceNow® Universal Request empowers customers in their journey toward Enterprise Service Management \(ESM\) or Global Business Services \(GBS\) by enabling agents to resolve cases seamlessly across the enterprise to provide a better employee experience.
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ ServiceNow® [[ur-landing-limitedaccess|Universal Request]] empowers customers i
 
 </td><td>
 
-The ServiceNow® [[universal-task-landing|Universal Task]] application is a tasking framework that enables your agents to request extra information from employees who submit tickets or to task employees to accomplish an [[activity-lxp|activity]] in order to resolve a ticket.
+The ServiceNow® Universal Task application is a tasking framework that enables your agents to request extra information from employees who submit tickets or to task employees to accomplish an activity in order to resolve a ticket.
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -219,30 +219,3 @@ The ServiceNow® [[universal-task-landing|Universal Task]] application is a task
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[egd-employee-growth-developemnt-suite|Growth Experiences]]
-- [[hiring-experiences-landing|Hiring Experiences]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[manager-hub-overview|Manager Hub]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[document-templates-overview|Document Templates]]
-- [[skills-intelligence|Skills Foundation]]
-- [[td-lh-landing|Leader Hub]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]
-- [[interview-management-landing|Interview Management]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[universal-task-landing|Universal Task]]
-- [[activity-lxp|Activity]]

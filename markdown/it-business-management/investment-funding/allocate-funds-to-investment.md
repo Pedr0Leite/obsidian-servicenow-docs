@@ -34,7 +34,7 @@ You can allocate funds to only those entities that are added in the **Fundable e
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Click an investment card to open an active investment that has sufficient funds to allocate to another investment.
 
@@ -68,7 +68,7 @@ You can allocate funds to only those entities that are added in the **Fundable e
 
     While confirming fund allocations, you can view all the details of the quarters where funds are available for funding in one section, and the details of the quarters where funds are not available for funding in another section.
 
-9.  Right-click on a column on the grid and select **[[view-past-funding-details|View Past Funding Details]]** to view the funding details of your child investments for the past fiscal periods.
+9.  Right-click on a column on the grid and select **View Past Funding Details** to view the funding details of your child investments for the past fiscal periods.
 
     For more information, see the [View past funding details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/view-past-funding-details.md) topic.
 
@@ -80,7 +80,3 @@ You can allocate funds to only those entities that are added in the **Fundable e
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[view-past-funding-details|View past funding details]]

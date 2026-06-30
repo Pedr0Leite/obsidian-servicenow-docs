@@ -18,19 +18,19 @@ You can use your own customer-supplied key instead of using the ServiceNow® sys
 
 Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_kmf.admin
 
-If you’re NOT supplying your own keys, you don’t need to perform this procedure. To [[create-cryptographic-module|create a cryptographic module]] with ServiceNow® keys, go to [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) or [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]].
+If you’re NOT supplying your own keys, you don’t need to perform this procedure. To create a cryptographic module with ServiceNow® keys, go to [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module.md).
 
-**Note:** This procedure only applies to [[now-platform-encryption|Field Encryption Enterprise]] functionality. See [[activate-platform-encryption|Activate Field Encryption]] for more information.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information.
 
 **Important:** You can’t revoke a customer supplied key.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
 2.  Select **View module details** on the Field Encryption module.
 
-3.  Select **[[encryption-landing|Encryption]] Keys** and **Select and Continue** for the **Bring-your-own Key** option.
+3.  Select **Encryption Keys** and **Select and Continue** for the **Bring-your-own Key** option.
 
 4.  Select **Download wrapping key** and **Next**.
 
@@ -43,17 +43,7 @@ If you’re NOT supplying your own keys, you don’t need to perform this proced
 
 Now that you have finished configuring your cryptographic module with your customer-supplied key, move on to [Create a module access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-module-access-policy.md)
 
-**Parent Topic:**[[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
+**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing.md)
 
-**Parent Topic:**[[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]
+**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing-2.md)
 
-## Related
-
-- [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]]
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
-- [[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]

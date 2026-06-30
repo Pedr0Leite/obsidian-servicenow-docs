@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Install the Edge Encryption proxy server \(command line installer\)
 
-Install an [[edge-encryption|Edge Encryption]] proxy on a 64-bit Windows or Linux computer.
+Install an Edge Encryption proxy on a 64-bit Windows or Linux computer.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Install the Edge Encryption proxy server on a machine in your network using the 
 
 When you upgrade the Edge Encryption proxy server, the system backs up the old proxy in the `backup.dist-upgrade-<timestamp>` directory under the current installation directory. The backup directory is generated during the upgrade process and stores the old proxy information.
 
-When you run an upgrade via the command line, a dist-upgrade.log may be generated in the directory where the command runs. The dist-upgrade.log contains [[logs|logs]] for the upgrade process.
+When you run an upgrade via the command line, a dist-upgrade.log may be generated in the directory where the command runs. The dist-upgrade.log contains logs for the upgrade process.
 
 In case of a failed upgrade, the system creates a `failed-backup.dist-upgrade-<timestamp>` directory. In addition, `logs/wrapper.log` in the original proxy directory may also contain failure information.
 
@@ -42,7 +42,7 @@ In case of a failed upgrade, the system creates a `failed-backup.dist-upgrade-<t
 
     **Note:** If installing on a Windows machine, you must start the Windows Command Prompt with administrator privileges.
 
-4.  Run this command for the target machine and change the variables according to your [[sc-configuration|configuration]]: `java -jar edgeencryption-<version>-all.jar -m install –n <proxy_name> --instancehost <host> -p <port> --protocol https –s <install_path>`
+4.  Run this command for the target machine and change the variables according to your configuration: `java -jar edgeencryption-<version>-all.jar -m install –n <proxy_name> --instancehost <host> -p <port> --protocol https –s <install_path>`
 
 <table id="table_qc1_krk_kdb"><thead><tr><th>
 
@@ -154,7 +154,7 @@ Path to the directory or folder where the new Edge proxy is installed \(the dest
         |Property|Description|
         |--------|-----------|
         |wrapper.ntservice.name|Unique name of the Edge Encryption proxy service.|
-        |wrapper.ntservice.displayname|Edge [[encryption-landing|Encryption]] proxy service display name.|
+        |wrapper.ntservice.displayname|Edge Encryption proxy service display name.|
         |wrapper.ntservice.description \(Optional\)|Proxy server description.|
 
         If this step is not performed, the Edge Encryption proxy service is installed under the name **Edge Encryption**.
@@ -176,9 +176,3 @@ The `ProxyName_port` directory is created in the current directory. The `edgeenc
 
 **Next topic:**[Create and configure the RSA key pair for the digital signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpAKeyPair.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]

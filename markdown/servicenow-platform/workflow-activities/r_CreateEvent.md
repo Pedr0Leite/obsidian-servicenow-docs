@@ -16,7 +16,7 @@ breadcrumb: [Workflow notification activities, Workflow activities reference, Wo
 
 The **Create Event** activity adds an event to the event queue, but does not immediately fire the event.
 
-The event processor typically processes the event within one minute. This activity triggers any business rules or [[email|email]] notifications that would normally be triggered by the event.
+The event processor typically processes the event within one minute. This activity triggers any business rules or email notifications that would normally be triggered by the event.
 
 For more information about creating and using system events, see [System Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/events.md).
 
@@ -64,7 +64,3 @@ The second event parameter.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[email|Email]]

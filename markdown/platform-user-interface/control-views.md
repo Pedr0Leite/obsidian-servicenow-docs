@@ -30,7 +30,7 @@ Role required: admin
     |-----|-----------|
     |Name|Specify an identifying name for the rule. This field is case-sensitive and must match exactly the view name.|
     |Active|Select this option to apply the view rule according to the conditions you specified. If unchecked, the view rule is not be applied.|
-    |Advanced|Select this option to specify a code-based condition instead of using the [[c_ConditionBuilder|condition builder]]. Selecting this option displays the **Script** field and hides the **Match conditions**, **Conditions**, and **View** fields.|
+    |Advanced|Select this option to specify a code-based condition instead of using the condition builder. Selecting this option displays the **Script** field and hides the **Match conditions**, **Conditions**, and **View** fields.|
     |Match Conditions|Select whether **Any** or **All** of the conditions must be met. The system hides this field when you create an advanced View Rule.|
     |Conditions|Use the condition builder to determine when the view is applied. The system hides this field when you create an advanced View Rule.|
     |Application|Displays the application to which the View Rule record belongs.|
@@ -42,7 +42,7 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[view-management-overview|View management]]
+**Parent Topic:**[View management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md)
 
 ## Restrict view by role
 
@@ -79,7 +79,3 @@ answer = "ess"; // set the new view to answer
 })(view, is_list);
 ```
 
-## Related
-
-- [[view-management-overview|View management]]
-- [[c_ConditionBuilder|Condition builder]]

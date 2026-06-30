@@ -14,7 +14,7 @@ breadcrumb: [Use, Interview Management, Hiring Experiences, HR Service Delivery,
 
 # Managing interviews as an interviewer
 
-As an interviewer, view and [[manage-interviews-recruiter|manage interviews]] that you’re part of.
+As an interviewer, view and manage interviews that you’re part of.
 
 Interviewers are notified by email about any interviews that they’re part of, after the interview is proposed or scheduled.
 
@@ -26,7 +26,7 @@ The **Overview** tab displays the following information:
 
 -   Upcoming activities section that displays the upcoming proposed and scheduled interviews in a chronological order. You can request the recruiter for a new time slot for a scheduled interview by selecting the corresponding **Request new time** button. For a description of the field values, see [Request reschedule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/request-reschedule-applicant-interviewer-form.md).
 
-    You can also [[substitute-interviewer-self|substitute yourself as an interviewer]] for scheduled interviews by selecting **Substitute myself**. For more information, see [Substitute yourself as an interviewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/substitute-interviewer-self.md).
+    You can also substitute yourself as an interviewer for scheduled interviews by selecting **Substitute myself**. For more information, see [Substitute yourself as an interviewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/substitute-interviewer-self.md).
 
 -   Applicant details that include the basic information, professional experience, education information, and certifications, if any.
 
@@ -34,19 +34,13 @@ The **Interview** tab lists all the interviews that you're part of, with details
 
 The **Feedback** tab enables the interviewer to perform the following:
 
--   [[provide-interview-feedback-hm-interviewer|Provide interview feedback]]. For more information, see [Provide interview feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/provide-interview-feedback-hm-interviewer.md).
+-   Provide interview feedback. For more information, see [Provide interview feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/provide-interview-feedback-hm-interviewer.md).
 -   Edit the submitted feedback.
 
 -   **[Substitute yourself as an interviewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/substitute-interviewer-self.md)**  
 Assign a substitute interviewer yourself, instead of relying on a recruiter or coordinator to assign one for you.
 -   **[Provide interview feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/provide-interview-feedback-hm-interviewer.md)**  
-As an interviewer or [[hiring-tab-concept|hiring]] manager, provide feedback for interviews that you're part of.
+As an interviewer or hiring manager, provide feedback for interviews that you're part of.
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[manage-interviews-recruiter|Manage interviews]]
-- [[substitute-interviewer-self|Substitute yourself as an interviewer]]
-- [[provide-interview-feedback-hm-interviewer|Provide interview feedback]]
-- [[hiring-tab-concept|Hiring]]

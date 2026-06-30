@@ -14,7 +14,7 @@ breadcrumb: [Creating groups, User administration, Configure core features, Admi
 
 # Configure assignment group types
 
-Use the **Type** field to define categories of groups. Once defined, you can use these categories to filter assignment groups based on the group type using a [[reference-email-admin|reference]] qualifier.
+Use the **Type** field to define categories of groups. Once defined, you can use these categories to filter assignment groups based on the group type using a reference qualifier.
 
 For example, when selecting an assignment group from the Incident form, **Type** can be used to filter groups based on whether they’re typically involved in the Incident management process. Groups such as Network or Help Desk are displayed as they’re typically involved. Groups such as HR or New York are omitted.
 
@@ -24,7 +24,7 @@ The following items are provided in the base system.
 -   The reference qualifier on \[task.assignment\_group\] filters on **\[Type\] \[equals\] \[itil\]**.
 -   A reference qualifier named **GetGroupFilter** is available to filter for group types using [Create a dynamic filter option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md).
 
-**Note:** [[c_DictionaryOverrides|Dictionary overrides]] enable administrators to filter a group type on an extended table using a simple [[c_ReferenceQualifiers|reference qualifier]] override.
+**Note:** Dictionary overrides enable administrators to filter a group type on an extended table using a simple [reference qualifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) override.
 
 **Parent Topic:**[Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-groups.md)
 
@@ -42,7 +42,7 @@ You may need to configure the form to display the **Type** field. For more infor
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Groups**.
 
 2.  Select a group record.
 
@@ -89,9 +89,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[reference-email-admin|Reference]]
-- [[c_DictionaryOverrides|Dictionary overrides]]
-- [[c_UserAdministration|User administration]]

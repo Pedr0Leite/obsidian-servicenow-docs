@@ -29,7 +29,7 @@ The AI agents in the Help repair hardware assets agentic workflow offers these b
 -   End-to-end task automation helps reduce delays in resolving hardware issues
 
 -   **Prerequisites to use the Help repair hardware assets agentic workflow**
-    -   Your organization must have an [[it-asset-management|IT asset management]] system integrated with AI-driven repair workflows.
+    -   Your organization must have an IT asset management system integrated with AI-driven repair workflows.
     -   AI agents must have access to repair order records and the web.
     -   Repair task numbers are required to initiate requests.
     -   Users must have the inventory\_user role.
@@ -49,7 +49,7 @@ The AI agents in the Help repair hardware assets agentic workflow offers these b
 
         3.  Assigns a technician for the troubleshooting task, automatically triggering the Help repair hardware assets agentic workflow.
 
-            **Note:** The assigned technician with the inventory\_user role can log in and view the active conversation with the AI agents in the Now Assist panel in the [[using-ham-workspace|Hardware Asset Workspace]] by selecting the sparkle icon \[Omitted image "icon-ai-sparkle.png"\] Alt text:.
+            **Note:** The assigned technician with the inventory\_user role can log in and view the active conversation with the AI agents in the Now Assist panel in the Hardware Asset Workspace by selecting the sparkle icon \[Omitted image "icon-ai-sparkle.png"\] Alt text:.
 
             To access the Now Assist panel after it has been activated, you should have the now\_assist\_panel\_user role.
 
@@ -67,7 +67,7 @@ The AI agents in the Help repair hardware assets agentic workflow offers these b
 
                 If the model or manufacturer details aren't present on the asset record, the agentic workflow stops.
 
-                **Important:** Web searches using third-party large language [[c_Models|models]] \(LLMs\) like Gemini won't be supported for Federal customers.
+                **Important:** Web searches using third-party large language models \(LLMs\) like Gemini won't be supported for Federal customers.
 
             2.  Displays the evaluation guide in the Now Assist panel, to help the technician to identify the issue with the asset.
             3.  Checks with the technician to confirm whether the troubleshooting steps were helpful.
@@ -135,8 +135,3 @@ The Help repair hardware assets agentic workflow uses specific AI agents to vali
 
 **Parent Topic:**[Repair order fulfillment in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/fulfilling-repair-orders-ham.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Models|Models]]

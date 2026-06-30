@@ -12,23 +12,18 @@ breadcrumb: [Navigate the Care Team Portal, Navigate, Care Team Portal, Healthca
 
 # Manage your teams in the Care Team Portal
 
-Manage your teams from directly within the [[care-team-portal-landing|Care Team Portal]].
+Manage your teams from directly within the Care Team Portal.
 
--   [[hcls-cto-view-teams-portal|View your teams using the Care Team Portal]]
+-   [View your teams using the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-view-teams-portal.md)
 
     View your teams from directly within the Care Team Portal.
 
--   [[hcls-add-member-portal|Add a team member using the Care Team Portal]]
+-   [Add a team member using the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-add-member-portal.md)
 
     Add a member to your team using the Care Team Portal.
 
--   [[hcls-cto-remove-member|Remove a member using the Care Team Portal]]
+-   [Remove a member using the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-remove-member.md)
 
     Remove a member from your team directly within the Care Team Portal.
 
-## Related
 
-- [[hcls-cto-view-teams-portal|View your teams using the Care Team Portal]]
-- [[hcls-add-member-portal|Add a team member using the Care Team Portal]]
-- [[hcls-cto-remove-member|Remove a member using the Care Team Portal]]
-- [[care-team-portal-landing|Care Team Portal]]

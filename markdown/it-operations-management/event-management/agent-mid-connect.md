@@ -14,7 +14,7 @@ breadcrumb: [MID Web Server and agent mTLS Authentication, Configure the MID Web
 
 # Connect the agent to the MID Web Server using TLS
 
-Connect the agent to the [[mid-web-server|MID Web Server]] to enable configuring mTLS on your MID Web Server and agent.
+Connect the agent to the MID Web Server to enable configuring mTLS on your MID Web Server and agent.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Role required: agent\_client\_collector\_admin
 
 [Configure mTLS authentication for a MID Web Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension-mTLS.md).
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

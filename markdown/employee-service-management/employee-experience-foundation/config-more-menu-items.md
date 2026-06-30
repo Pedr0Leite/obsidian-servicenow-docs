@@ -20,7 +20,7 @@ Add your own list of items for user-related activities, such as My Assets, My Re
 
 Role required: admin
 
-Set the scope to [[employee-center-landing-page|Employee Center]] before configuring the More menu item.
+Set the scope to Employee Center before configuring the More menu item.
 
 \[Omitted image "more-menu.png"\] Alt text: More menu on the global header in the Employee Center
 
@@ -28,7 +28,7 @@ Set the scope to [[employee-center-landing-page|Employee Center]] before configu
 
 In the More menu, you can add menu items for user-related activities, such as My Assets, My Reservations, My Plans, My Surveys, and My Purchases. You can enable or disable the More menu on the global header. You can see the **More** menu only when you add more than one menu items. If you add only one menu item in the **More** menu, the **More** menu is not displayed and the name of the menu item is displayed directly on the global header. For more information, see [Enable or disable global header options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-global-header-components.md).
 
-You can configure the More menu to display menu items by installing their respective plugins. For Example, My Action Plans is displayed under the More menu when you install the [[journey-accelerator-1|Journey Accelerator]] plugin.
+You can configure the More menu to display menu items by installing their respective plugins. For Example, My Action Plans is displayed under the More menu when you install the Journey Accelerator plugin.
 
 ## Procedure
 
@@ -52,7 +52,4 @@ You can configure the More menu to display menu items by installing their respec
 
 7.  Click **Submit**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

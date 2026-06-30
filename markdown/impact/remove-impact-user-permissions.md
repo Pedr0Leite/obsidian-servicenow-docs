@@ -12,7 +12,7 @@ breadcrumb: [Manage Impact Delivery Instance users, Configure the Impact Deliver
 
 # Remove Impact user permissions in the Impact Delivery Instance
 
-Remove permissions that you've assigned to an [[impact-landing-page|Impact]] user if that user should no longer have access to the Impact Delivery Instance.
+Remove permissions that you've assigned to an Impact user if that user should no longer have access to the Impact Delivery Instance.
 
 ## Before you begin
 
@@ -32,17 +32,12 @@ Role required: Impact admin
 
 6.  Edit the user role to **None**.
 
-    **Note:** Refer to [[impact-roles|Roles installed with Impact]] for details on which role to assign to the user for the appropriate access level in Impact.
+    **Note:** Refer to [Roles installed with Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-roles.md) for details on which role to assign to the user for the appropriate access level in Impact.
 
 7.  Select **Confirm**.
 
     A confirmation message displays then you are returned to the users page.
 
 
-**Parent Topic:**[[ide-user-management|Manage Impact Delivery Instance users]]
+**Parent Topic:**[Manage Impact Delivery Instance users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/ide-user-management.md)
 
-## Related
-
-- [[impact-roles|Roles installed with Impact]]
-- [[ide-user-management|Manage Impact Delivery Instance users]]
-- [[impact-landing-page|Impact]]

@@ -39,11 +39,11 @@ The CM Pro - Contract Metadata Extraction use case is available with the base sy
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for [[cncore-cmpro-landing-page|Contract Management Pro]].
+    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for Contract Management Pro.
 
 4.  On the General details page, view the skill details and select **Save and continue**.
 
-5.  In the [[metadata-extraction-use-case|Contract metadata extraction use cases]] page, select **New use case**.
+5.  In the Contract metadata extraction use cases page, select **New use case**.
 
 6.  In the Define use case page, add the use case details and select **Save and continue**.
 
@@ -132,7 +132,7 @@ Displays the skill name for which you’re creating the use case.
 
     3.  Select **Continue**.
 
-        The [[cncore-metadata-ext-results|metadata extraction results]] for the uploaded document is displayed on the side panel.
+        The metadata extraction results for the uploaded document is displayed on the side panel.
 
         Upload and test another document by selecting **Test a new document**.
 
@@ -173,8 +173,3 @@ In contract metadata extraction, use cases specify the information that you want
 
 [Select large language models for use cases in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-manage-llm.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[metadata-extraction-use-case|Contract metadata extraction use cases]]
-- [[cncore-metadata-ext-results|Metadata extraction results]]

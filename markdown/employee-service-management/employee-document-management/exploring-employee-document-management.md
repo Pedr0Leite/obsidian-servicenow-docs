@@ -14,14 +14,14 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 
 # Exploring Employee Document Management
 
-With [[hr-employee-doc-management|Employee Document Management]], you can streamline document management and maintain documents with integrity, accuracy and access controls.
+With Employee Document Management, you can streamline document management and maintain documents with integrity, accuracy and access controls.
 
 ## Streamline management of employee documents
 
 -   Centralize files that are currently stored on multiple cases.
 -   Automatically or manually move employee documents from a case to the employee file.
 -   Find documents using metadata tags.
--   Place legal holds on all documents for an employee \([[c_HRProfileRecords|HR profile]]\), or for all documents by document type.
+-   Place legal holds on all documents for an employee \(HR profile\), or for all documents by document type.
 -   Define who can access what documents.
 -   Define retention policies that determine how long to retain employee documents and prevent purging for legal holds.
 -   Define when to purge documents.
@@ -63,14 +63,9 @@ Employee Document Management agents can:
 
 -   Search for existing employee documents using different filters.
 -   Place or upload employee documents directly into the repository.
--   When your company is also using [[hr-service-delivery|HR Service Delivery]], you can move employee documents from the HR case form to the repository. Employee documents can also be configured to automatically move when an HR case is closed.
+-   When your company is also using HR Service Delivery, you can move employee documents from the HR case form to the repository. Employee documents can also be configured to automatically move when an HR case is closed.
 
 ## Employee access
 
 Employees can view their own employee documents when the document type provides employee access. Employee documents are also available on HR cases and the Service Portal or Employee Service Center profile page. See [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]

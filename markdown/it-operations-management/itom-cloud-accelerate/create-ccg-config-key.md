@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Create a configuration key
 
-Create a configuration key in [[cloud-configuration-governance|Cloud Configuration Governance]] to use it in the policies. The configuration key specifies the resource collector and configuration collectors used to import the configuration data from the cloud. It also specifies the data type of the configuration value.
+Create a configuration key in Cloud Configuration Governance to use it in the policies. The configuration key specifies the resource collector and configuration collectors used to import the configuration data from the cloud. It also specifies the data type of the configuration value.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Create a configuration key in [[cloud-configuration-governance|Cloud Configurati
 
 4.  Select **Submit**.
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

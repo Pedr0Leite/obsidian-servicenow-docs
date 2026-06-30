@@ -18,7 +18,7 @@ Assesses your current IT Service Management \(ITSM\) processes and functional ma
 
 ## Accelerator overview
 
-ITSM Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+ITSM Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 This accelerator is designed to address the following ITSM capabilities:
 
@@ -45,13 +45,13 @@ This accelerator is designed to address the following ITSM capabilities:
 
     The Assessment participants will each be asked to independently fill out a prebuilt ITSM Maturity Assessment Questionnaire that asks them to grade targeted statements to assess gaps and opportunities with your ITSM deployment.
 
--   **Questionnaire Results Analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire Results Analysis \(time as needed determined by the Impact Squad\)**
 
     The Impact Squad performs the following:
 
     -   Reviews and analyzes the questionnaire scores
     -   Compiles tailored recommendations and leading practices
-    -   Provides guidance that will [[io-help|help]] you understand how to best maximize your ITSM investment
+    -   Provides guidance that will help you understand how to best maximize your ITSM investment
 -   **ITSM Maturity Assessment report**
 
     ITSM Maturity Assessment report includes:
@@ -88,8 +88,3 @@ We request that the ITSM Maturity questionnaire be completed by the customer vir
 -   This Impact Accelerator does not include a technical review of ITSM.
 -   ServiceNow is not responsible for implementing the recommendations made based on the ITSM Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

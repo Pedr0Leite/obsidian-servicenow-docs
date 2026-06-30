@@ -12,7 +12,7 @@ breadcrumb: [Reporting Operational vulnerability, Managing Operational vulnerabi
 
 # Report operational vulnerability from the Employee Center
 
-Report an [[exploring-op-vul|operational vulnerability]] from the [[employee-center|Employee Center]]. Any employee or user can report the operational vulnerabilities and complaints directly to the supporting teams for a quick response. The user in the assignment group can assign an analyst for the operational vulnerability. Reporting the issues helps to reduce and avert losses in a timely manner.
+Report an operational vulnerability from the Employee Center. Any employee or user can report the operational vulnerabilities and complaints directly to the supporting teams for a quick response. The user in the assignment group can assign an analyst for the operational vulnerability. Reporting the issues helps to reduce and avert losses in a timely manner.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ When an operational vulnerability is reported, it is opened in the **New** state
 
 2.  Select the **Risk &amp; Compliance** tab.
 
-3.  In Risk and compliance topics, select [[grc-opres-landing-page|Operational Resilience]].
+3.  In Risk and compliance topics, select Operational Resilience.
 
 4.  Select **Report Operational Vulnerability**.
 
 5.  On the form, fill in the fields.
 
-    See the [[report-op-vul-form|Report operational vulnerability form]] for an explanation of each field.
+    See the [Report operational vulnerability form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/report-op-vul-form.md) for an explanation of each field.
 
 6.  To provide supporting material or evidence, select **Add attachments**.
 
@@ -46,9 +46,4 @@ When an operational vulnerability is reported, it is opened in the **New** state
 
     \[Omitted image "op-vul-from-emp-center.png"\] Alt text: Vulnerability.
 
-## Related
 
-- [[report-op-vul-form|Report operational vulnerability form]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[employee-center|employee center]]
-- [[grc-opres-landing-page|Operational Resilience]]

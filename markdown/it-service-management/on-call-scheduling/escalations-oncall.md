@@ -16,11 +16,11 @@ breadcrumb: [Defining On-Call Scheduling escalation process, On-Call Scheduling,
 
 An escalation is a mechanism that ensures that important issues are addressed in a timely manner.
 
-[[c_OnCallScheduling|On-Call Scheduling]] monitors response time for a task. You can define the actions to take when a task is not acknowledged. The actions, like sending out an email or an SMS, are fired by trigger rules. You define a trigger rule by specifying the conditions that trigger the actions and the actions to take when the conditions are met.
+On-Call Scheduling monitors response time for a task. You can define the actions to take when a task is not acknowledged. The actions, like sending out an email or an SMS, are fired by trigger rules. You define a trigger rule by specifying the conditions that trigger the actions and the actions to take when the conditions are met.
 
 For example, a critical incident is raised for Acme Pharmaceuticals regarding a problem with their network access. An SMS task notification is sent to Ken, the third-line support engineer who is on call for this type of incident. Ken is unavailable, however, and does not respond within the specified 30-minute response time.
 
-A trigger rule that is defined for Acme Pharmaceuticals critical incidents starts an escalation if a task goes 30 minutes without a response. The person specified as the next point-of-contact is Nakul, Ken's line manager, so an SMS notification is sent to Nakul. [[settings-mobile|Settings]] in the escalation policy specify how many notifications to send, how long to wait, and so on.
+A trigger rule that is defined for Acme Pharmaceuticals critical incidents starts an escalation if a task goes 30 minutes without a response. The person specified as the next point-of-contact is Nakul, Ken's line manager, so an SMS notification is sent to Nakul. Settings in the escalation policy specify how many notifications to send, how long to wait, and so on.
 
 Shift administrators and shift managers can define trigger rules and configure escalation policies.
 
@@ -46,7 +46,3 @@ View the escalation log record for full details on the time line and actions for
 
 [Legacy: Viewing the Performance reports for escalations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-performance-report-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # TuneUp Your AI Search
 
-This accelerator provides guidance on fine-tuning artificial intelligent \(AI\) Search to optimize [[instance-observer-performance|performance]] and value.
+This accelerator provides guidance on fine-tuning artificial intelligent \(AI\) Search to optimize performance and value.
 
 ## Accelerator Overview
 
-TuneUp Your AI Search Accelerator provides [[impact-landing-page|Impact]] customers with an assessment of AI Search performance and prescriptive guidance to optimize results and improve end-[[user-experience-insights|user experience]]. Included is an assessment of AI Search architecture and configuration, tuning AI Search, an overview of AI Search [[io-analytics|analytics]], and prescriptive guidance on how to optimize performance.
+TuneUp Your AI Search Accelerator provides Impact customers with an assessment of AI Search performance and prescriptive guidance to optimize results and improve end-user experience. Included is an assessment of AI Search architecture and configuration, tuning AI Search, an overview of AI Search analytics, and prescriptive guidance on how to optimize performance.
 
 See [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md) for additional information on AI Search.
 
@@ -158,9 +158,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in Customer’s sub-production or production instances.
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]
-- [[io-analytics|Analytics]]

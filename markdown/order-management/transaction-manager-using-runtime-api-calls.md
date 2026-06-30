@@ -14,7 +14,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 See a list of the APIs that are used in the runtime end user experience, together with their purposes and responses.
 
-CPQ APIs are divided into two categories: [[logik_io_runtime_apis|runtime APIs]] and admin APIs. This article lists the runtime APIs for [[transaction-manager|Transaction Manager]].
+CPQ APIs are divided into two categories: runtime APIs and admin APIs. This article lists the runtime APIs for Transaction Manager.
 
 The runtime APIs are the same APIs that are used in the runtime end user experience and include the following key actions.
 
@@ -45,7 +45,7 @@ The runtime APIs are the same APIs that are used in the runtime end user experie
 
 ## Additional non-runtime APIs
 
-For details about the API that retrieves metrics for transactions, see [[cpq-transaction-manager-metrics-api|Transaction Manager: Transaction metrics API]].
+For details about the API that retrieves metrics for transactions, see [Transaction Manager: Transaction metrics API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-transaction-manager-metrics-api.md).
 
 ## Postman collection
 
@@ -185,7 +185,7 @@ For details about the API that retrieves metrics for transactions, see [[cpq-tra
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"context\": {\n        \"session\": \"{{session}}\"\n    },\n    \"[[fields|fields]]\": [{\n        \"variableName\": \"txn.custom.quoteName\",\n        \"value\": \"essd\",\n        \"dataType\": \"text\"\n    }],\n    \"lines\": [\n        {\n            \"uuid\": \"75b7c4f6-3de7-4d5c-8a0c-8b7f0eebec65\",\n            \"fields\": [{\n                \"variableName\": \"txn.line.custom.bomType\",\n                \"value\": \"Hardware\",\n                \"dataType\": \"text\"\n            }]\n        }\n    ]\n}",
+					"raw": "{\n    \"context\": {\n        \"session\": \"{{session}}\"\n    },\n    \"fields\": [{\n        \"variableName\": \"txn.custom.quoteName\",\n        \"value\": \"essd\",\n        \"dataType\": \"text\"\n    }],\n    \"lines\": [\n        {\n            \"uuid\": \"75b7c4f6-3de7-4d5c-8a0c-8b7f0eebec65\",\n            \"fields\": [{\n                \"variableName\": \"txn.line.custom.bomType\",\n                \"value\": \"Hardware\",\n                \"dataType\": \"text\"\n            }]\n        }\n    ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -594,9 +594,3 @@ For details about the API that retrieves metrics for transactions, see [[cpq-tra
 }
 ```
 
-## Related
-
-- [[cpq-transaction-manager-metrics-api|cpq transaction manager metrics api]]
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]

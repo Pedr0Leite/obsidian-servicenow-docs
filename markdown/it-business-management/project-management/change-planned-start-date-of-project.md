@@ -52,14 +52,14 @@ Steps
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open the project for which you want to change the planned start date.
 3.  In the Planning Console, select the more actions icon \(\[Omitted image "gannt\_chart\_icon.png"\] Alt text: More Actions icon\) and then select the **Move project** option.
 
 
 </td></tr><tr><td id="d316696e168">
 
-**From the [[create-a-project-form|Project form]]**
+**From the Project form**
 
 </td><td>
 
@@ -74,7 +74,7 @@ Steps
 3.  Select or clear the **Move all tasks regardless of constraint type** check box.
 
     -   Clearing the check box moves the tasks with Start ASAP constraint only to the new project date.
-    -   Selecting the check box moves all the [[t_CreateAProjectTask|project tasks]] irrespective of their constraints to the new project date with the same offset except the task with Start ASAP constraint.
+    -   Selecting the check box moves all the project tasks irrespective of their constraints to the new project date with the same offset except the task with Start ASAP constraint.
     This check box is selected by default.
 
     **Note:** The tasks in WIP and Close states are not moved.
@@ -113,7 +113,7 @@ Move the planned start date of a task prior to the planned start date of a proje
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -149,9 +149,3 @@ Move the planned start date of a task prior to the planned start date of a proje
 
 [Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]

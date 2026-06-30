@@ -14,13 +14,13 @@ breadcrumb: [Demand workbench, Explore, Demand Management, Project Portfolio Man
 
 # Demand workbench list view
 
-The lower pane of the [[c_DemandWorkbench|demand workbench]] displays a list of the demands shown in the bubble chart.
+The lower pane of the demand workbench displays a list of the demands shown in the bubble chart.
 
 The bubble chart list view displays up to 20 demands at a time. Page forward and back through the list to display additional demands.
 
-The **Demand** column displays the demand number, which provides a link to the [[demand-form|Demand form]]. The **Stage** column displays the status or progress of the demand. For more information, see [Stage Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_StageFields.md).
+The **Demand** column displays the demand number, which provides a link to the Demand form. The **Stage** column displays the status or progress of the demand. For more information, see [Stage Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_StageFields.md).
 
-The interactive bubble chart is updated whenever you change a demand in the list view. If you [[t_CreatingDemands|create a demand]] from the demand workbench, it’s created in a qualified state and appears on the bubble chart. When a demand is promoted to a project, enhancement, change request, defect, or Enterprise Agile Planning \(EAP\) entity, it’s removed from the bubble chart.
+The interactive bubble chart is updated whenever you change a demand in the list view. If you create a demand from the demand workbench, it’s created in a qualified state and appears on the bubble chart. When a demand is promoted to a project, enhancement, change request, defect, or Enterprise Agile Planning \(EAP\) entity, it’s removed from the bubble chart.
 
 Performing the following tasks in the list view affects the demands displayed in the bubble chart:
 
@@ -30,8 +30,3 @@ Performing the following tasks in the list view affects the demands displayed in
 
 **Parent Topic:**[Demand workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbench.md)
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]
-- [[demand-form|Demand form]]
-- [[t_CreatingDemands|Create a demand]]

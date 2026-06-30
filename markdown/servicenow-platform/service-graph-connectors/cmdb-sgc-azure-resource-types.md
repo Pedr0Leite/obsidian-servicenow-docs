@@ -20,7 +20,7 @@ Microsoft Azure resource types refer to the names included in delta queries used
 
 **Note:** Delta pulls include data from a specific time period that is defined by the condition within a delta query.
 
-The following table lists the [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] data sources, Microsoft Azure resource types they import, and indicates whether they support both full pull and delta pull of data during import. ✓ indicates supported and ✕ indicates not supported.
+The following table lists the Service Graph Connector for Microsoft Azure data sources, Microsoft Azure resource types they import, and indicates whether they support both full pull and delta pull of data during import. ✓ indicates supported and ✕ indicates not supported.
 
 <table id="table_o2t_br4_q1c"><thead><tr><th>
 
@@ -348,7 +348,7 @@ Microsoft.Network/networkInterfaces
 
 </td></tr><tr><td>
 
-[[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+IP Address \[cmdb\_ci\_ip\_address\]
 
 </td><td>
 
@@ -1217,7 +1217,3 @@ microsoft.containerservice/managedclusters
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-azure-reference.md)
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[ip-address|IP Address]]

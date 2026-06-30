@@ -14,7 +14,7 @@ breadcrumb: [Employee actions, Use Microsoft Teams for Universal Request, Use Mi
 
 # Create a Universal request from Microsoft Teams
 
-Create a [[ur-landing-limitedaccess|universal request]] with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
+Create a universal request with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ A universal request is created for the issue.
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use-employee.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

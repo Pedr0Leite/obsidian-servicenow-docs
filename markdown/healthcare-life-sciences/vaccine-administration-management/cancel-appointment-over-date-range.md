@@ -22,7 +22,7 @@ Role required: sn\_vaccine\_sm​.admin or sn\_vaccine\_sm​.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Centers**.
+1.  Navigate to **All** &gt; **Vaccine Administration Management** &gt; **Administration** &gt; **Centers**.
 
 2.  Open the vaccination center record that you want to modify.
 
@@ -35,6 +35,3 @@ Role required: sn\_vaccine\_sm​.admin or sn\_vaccine\_sm​.manager
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

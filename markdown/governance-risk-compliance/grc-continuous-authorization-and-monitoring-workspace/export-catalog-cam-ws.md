@@ -14,7 +14,7 @@ breadcrumb: [Export in OSCAL format, CAM OSCAL, Continuous authorization and mon
 
 # Export OSCAL catalog
 
-From the Control objective [[list-view-uib-ws|list view]] page, you can export the catalog in OSCAL JSON format for the selected control objectives. This action enables you to export your control objectives from CAM.
+From the Control objective list view page, you can export the catalog in OSCAL JSON format for the selected control objectives. This action enables you to export your control objectives from CAM.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required:
 
 **Parent Topic:**[Export in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-support-cam.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

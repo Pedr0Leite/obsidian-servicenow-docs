@@ -14,7 +14,7 @@ breadcrumb: [Signature workflow for a contract request, Use, Contract Management
 
 # Upload a signed contract document
 
-Upload a signed contract document that you have received from the signatories. You must upload a contract document for a [[lsd-wet-signature-workflows|wet signature workflow]], an offline signature workflow when the contract was signed outside the system or if one of the signatories in the electronic signature workflow decides to do a wet signature.
+Upload a signed contract document that you have received from the signatories. You must upload a contract document for a wet signature workflow, an offline signature workflow when the contract was signed outside the system or if one of the signatories in the electronic signature workflow decides to do a wet signature.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ For third-party contracts, the state of the request and the contract status upda
 
 **Parent Topic:**[Signature workflow for a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-signature-workflow.md)
 
-## Related
-
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]

@@ -20,12 +20,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **System**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System**.
 
 2.  Select the **glide.history.max\_entries** property.
 
 3.  Set the **Maximum number of field entries displayed in record history, default is 250** value with a new maximum number of entries to be displayed.
 
-## Related
 
-- [[ca-system-properties|System properties]]

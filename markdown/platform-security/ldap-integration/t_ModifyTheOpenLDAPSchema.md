@@ -47,7 +47,7 @@ To modify the OpenLDAP schema for integration with the instance:
       MAY ( uniqid $ unixid $ servnowid ) )
     ```
 
-    In OpenLDAP 2.3, you can dynamically change the server configurations, but you can only extend the schema. You cannot modify or delete the existing schema. Instead of creating another objectclass for this attribute in the dynamic [[sc-configuration|configuration]], use the static configuration file, slapd.conf.
+    In OpenLDAP 2.3, you can dynamically change the server configurations, but you can only extend the schema. You cannot modify or delete the existing schema. Instead of creating another objectclass for this attribute in the dynamic configuration, use the static configuration file, slapd.conf.
 
 3.  In slapd.conf, include indexing for the new attribute in the bdb section of your main database backend.
 
@@ -63,6 +63,4 @@ To modify the OpenLDAP schema for integration with the instance:
 
     Make sure that the OpenLDAP daemon is not running or is in read-only mode before starting slapindex.
 
-## Related
 
-- [[sc-configuration|Configuration]]

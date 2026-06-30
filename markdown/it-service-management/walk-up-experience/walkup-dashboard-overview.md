@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Monitoring Walk-up Experience performance
 
-The [[walkup-experience-landing-page|Walk-up Experience]] dashboard and reporting module provides basic high-level reporting on incident and request types, record volume, average wait and service times, assignments by agents and location, and more. By viewing the dashboard, managers can quickly understand the walk-up location operations and can report performance data to upper management.
+The Walk-up Experience dashboard and reporting module provides basic high-level reporting on incident and request types, record volume, average wait and service times, assignments by agents and location, and more. By viewing the dashboard, managers can quickly understand the walk-up location operations and can report performance data to upper management.
 
 To view the Walk-up Experience dashboard you must be assigned one of the following roles:
 
@@ -53,6 +53,3 @@ Access the dashboard by navigating to **Walk-up Experience** &gt; **Dashboard**.
 
 **Parent Topic:**[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

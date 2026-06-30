@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Set a search context as default
 
-If you use the [[c_ContextualSearch|contextual search]] REST API and don't specify which search context to use, the API uses the search context that you have set as default. The search context that you use in the API takes preference over the one marked as default.
+If you use the contextual search REST API and don't specify which search context to use, the API uses the search context that you have set as default. The search context that you use in the API takes preference over the one marked as default.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]

@@ -17,14 +17,9 @@ The Investigative Case Management case forms help capture information related to
 **Related topics**  
 
 
-[[psds-icm-ref-case-form|Investigative Case Management case details form]]
+[Investigative Case Management case details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-form.md)
 
-[[psds-icm-ref-case-forms-entity-management|Investigative Case Management Entity Management forms]]
+[Investigative Case Management Entity Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-entity-management.md)
 
-[[psds-icm-ref-case-forms-evidence-management|Investigative Case Management Evidence Management forms]]
+[Investigative Case Management Evidence Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-evidence-management.md)
 
-## Related
-
-- [[psds-icm-ref-case-form|Investigative Case Management case details form]]
-- [[psds-icm-ref-case-forms-entity-management|Investigative Case Management Entity Management forms]]
-- [[psds-icm-ref-case-forms-evidence-management|Investigative Case Management Evidence Management forms]]

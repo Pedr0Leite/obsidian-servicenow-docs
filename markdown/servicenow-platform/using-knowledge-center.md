@@ -12,7 +12,7 @@ breadcrumb: [Knowledge Center, Manage content capabilities, Extend ServiceNow AI
 
 # Using Knowledge Center
 
-Learn how to manage and enhance your knowledge base using the powerful tools and workflows available in [[knowledge-center|Knowledge Center]].
+Learn how to manage and enhance your knowledge base using the powerful tools and workflows available in Knowledge Center.
 
 Using Knowledge Center goes beyond viewing dashboards as it involves tasks that keep your knowledge ecosystem accurate, complete, and user-friendly. This section explains how you interact with the system to maintain content health and an effective technical support system.
 
@@ -43,7 +43,7 @@ Discover areas of improvement in the knowledge base through Potential gaps, Pote
 
 **Note:** This feature works only if the Now Assist Skill is enabled for your role. See [Configure skills with custom prompts for knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-assist-configure-custom-prompts-for-templates.md).
 
-**[[exploring-requires-attention|Requires Attention]]**
+**Requires Attention**
 
 This feature highlights items that need immediate review or action to maintain content accuracy and compliance. Following are the filters of this feature:
 
@@ -57,14 +57,14 @@ Quickly navigate to knowledge bases and view articles filtered by criteria such 
 
 **Knowledge Features**
 
-The Knowledge features section offers a comprehensive guide to various [[knowledge-management|knowledge management]] workflows and supporting processes. It enables you to explore features that help maintain a robust and efficient knowledge base.
+The Knowledge features section offers a comprehensive guide to various knowledge management workflows and supporting processes. It enables you to explore features that help maintain a robust and efficient knowledge base.
 
 **Actions**
 
-The Actions Panel helps you organize knowledge effectively by creating articles, adding reusable content blocks, and managing [[enable-ownership-group|ownership groups]].
+The Actions Panel helps you organize knowledge effectively by creating articles, adding reusable content blocks, and managing ownership groups.
 
 -   **Create an Article**: Use a template to share detailed information and troubleshooting steps.
--   **Add [[knowledge-blocks|Knowledge Blocks]]**: Knowledge blocks are reusable pieces of content secured by user criteria. Add them to knowledge articles to maintain consistency and reduce duplication.
+-   **Add Knowledge Blocks**: Knowledge blocks are reusable pieces of content secured by user criteria. Add them to knowledge articles to maintain consistency and reduce duplication.
 -   **Manage Groups**: Control ownership by editing existing groups or creating one so that the group users have access and responsibility.
 
 For more information, see the following links:
@@ -74,10 +74,3 @@ For more information, see the following links:
 
 [Generate a Knowledge article from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-NApanel.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[exploring-requires-attention|Requires attention]]
-- [[knowledge-management|Knowledge Management]]
-- [[enable-ownership-group|Ownership groups]]
-- [[knowledge-blocks|Knowledge blocks]]

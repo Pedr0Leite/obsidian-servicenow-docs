@@ -16,7 +16,7 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 Notifications for Employee Center functionality provides a unified notifications experience on the portal for different tasks, activities, and other relevant information.
 
-Notifications for Employee Center functionality is available when you have the [[employee-center-landing-page|Employee Center]] plugin \(sn\_ex\_sp\) version 36.0, the Notifications for Employee Center plugin \(sn\_ex\_sp\_notifs\), and the Yokohama release version installed.
+Notifications for Employee Center functionality is available when you have the Employee Center plugin \(sn\_ex\_sp\) version 36.0, the Notifications for Employee Center plugin \(sn\_ex\_sp\_notifs\), and the Yokohama release version installed.
 
 **Note:** Installation of the Notifications for Employee Center plugin \(sn\_ex\_sp\_notifs\) is required to avail the functionality.
 
@@ -24,13 +24,13 @@ Notifications for Employee Center functionality is available when you have the [
 
 \[Omitted image "notfication-tray-ec.png"\] Alt text: List of notifications displayed on the Employee Center portal.
 
-Notifications for Employee Center functionality is configurable for other portals too, like the [[deskless-kiosk-overview|Employee Center Pro Kiosk]].
+Notifications for Employee Center functionality is configurable for other portals too, like the Employee Center Pro Kiosk.
 
 **Note:** Notifications for Employee Center isn’t configurable on Now Mobile®.
 
 With notifications for Employee Center, you can:
 
--   Get default and configurable portal [[ec-notification-content|notification content]].
+-   Get default and configurable portal notification content.
 -   Get read or unread and seen or unseen indicators.
 -   Mark notifications critical to attract attention.
 -   Group notifications while delivering multiple notifications at the same time.
@@ -65,7 +65,7 @@ For more information on configuring notifications, see [Configure notifications 
 
 ## Notifications in Content engagement for Employee Center Pro
 
-There are two predefined notifications available with [[ec-content-engagement|Content engagement]] for [[employee-center-pro-landing|Employee Center Pro]] version 1.3.
+There are two predefined notifications available with Content engagement for Employee Center Pro version 1.3.
 
 -   **Notify author if news has a reaction**: The author of a news article is notified when someone reacts to a published news article. The notifications are grouped together, if multiple reactions are received.
 -   **Notify author if news has a comment**: The author of a news article is notified when someone comments on their published news article. The notifications are grouped together, if multiple comments are received.
@@ -74,20 +74,11 @@ If the author clicks on a news article notification for an expired article, it w
 
 ## Notifications in the Browser Extension for Employee Center
 
-Get Notifications for Employee Center in the [[ecbe-intro|Browser Extension for Employee Center]].
+Get Notifications for Employee Center in the Browser Extension for Employee Center.
 
 You must have the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 installed to get the default Notifications configuration **ECBE configuration**.
 
 The **Display mode** available for the **ECBE configuration** is only **Page view**. For more information on Notifications configuration for your portal, see [Configure notifications for portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notification-ec.md).
 
-For more information on the field values in the [[portal-notif-config-form|portal notification configuration form]], see [Portal notification configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/portal-notif-config-form.md).
+For more information on the field values in the portal notification configuration form, see [Portal notification configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/portal-notif-config-form.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[ec-notification-content|Notification content]]
-- [[ec-content-engagement|Content engagement]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[portal-notif-config-form|Portal notification configuration form]]

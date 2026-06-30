@@ -14,7 +14,7 @@ breadcrumb: [Use, Regulatory Change Management, Governance, Risk, and Compliance
 
 # Create an action task
 
-Create an action task that is related to the [[reg-change-task|regulatory change tasks]] and [[source-doc-import-task|source document import tasks]] so that you can complete the regulatory tasks.
+Create an action task that is related to the regulatory change tasks and source document import tasks so that you can complete the regulatory tasks.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ You can perform common user-actions like **Enter**, **Choose**, **Select**, **At
 
 ## Procedure
 
-1.  Navigate to **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Action Tasks** &gt; **All action tasks**.
+1.  Navigate to **Application** &gt; **Regulatory Change Management** &gt; **Action Tasks** &gt; **All action tasks**.
 
 2.  Select a task.
 
@@ -71,8 +71,4 @@ You can perform common user-actions like **Enter**, **Choose**, **Select**, **At
 
     The action task is saved and it is displayed under the Action Tasks tab in the Regulatory Change Tasks page.
 
-## Related
 
-- [[reg-change-task|Regulatory change tasks]]
-- [[source-doc-import-task|Source document import tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

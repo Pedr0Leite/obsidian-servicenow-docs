@@ -14,9 +14,9 @@ breadcrumb: [Document Intelligence, Enable AI experiences]
 
 # Configuring Document Intelligence
 
-Activate [[document-intelligence-landing|Document Intelligence]] on your instance and get started with basic configuration.
+Activate Document Intelligence on your instance and get started with basic configuration.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 1.  Install and configure Document Intelligence.
     -   [Set up Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/get-started-with-doc-intel.md).
@@ -35,13 +35,13 @@ Activate [[document-intelligence-landing|Document Intelligence]] on your instanc
 
         Use general settings to control how Document Intelligence displays information to users.
 
-2.  Configure Document Intelligence use [[cases|cases]].
+2.  Configure Document Intelligence use cases.
 
-    [[get-started-with-doc-intel|Set up Document Intelligence]] to process different types of documents by telling it what data you want to extract and what classes or categories you want to apply.
+    Set up Document Intelligence to process different types of documents by telling it what data you want to extract and what classes or categories you want to apply.
 
     -   [Set up document extraction use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/set-up-document-extraction-use-cases.md).
 
-        Create [extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md) use cases, add [fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md) and [field groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md), and [[configure-data-extraction-modes|configure data extraction modes]] to begin extracting data from your documents.
+        Create [extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md) use cases, add [fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md) and [field groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md), and configure data extraction modes to begin extracting data from your documents.
 
     -   [Manage document extraction use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/manage-use-cases.md).
 
@@ -55,10 +55,4 @@ Activate [[document-intelligence-landing|Document Intelligence]] on your instanc
 
         Manage your Document Intelligence use cases to support your document classification requirements.
 
-## Related
 
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]
-- [[get-started-with-doc-intel|Set up Document Intelligence]]
-- [[configure-data-extraction-modes|Configure data extraction modes]]

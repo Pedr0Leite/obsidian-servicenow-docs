@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Observability, Service Observability, ITOM AIOp
 
 # Connect a Service Observability data source
 
-Connect [[service-observability|Service Observability]] to an external observability system. Service Observability displays metrics in the [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\) from that observability instance.
+Connect Service Observability to an external observability system. Service Observability displays metrics in the Service Operations Workspace \(SOW\) from that observability instance.
 
 ## Before you begin
 
@@ -342,7 +342,3 @@ Map your connection to the services that you want to monitor in Service Observab
 
 **Parent Topic:**[Configuring Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/configuring-service-observability.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

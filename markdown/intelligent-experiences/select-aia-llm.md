@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
 
 # Select the LLM for AI agents and agentic workflows
 
-Choose the large language model \(LLM\) service provider for [[na-ai-agents|Now Assist AI agents]] in [[ai-agent-studio|AI Agent Studio]].
+Choose the large language model \(LLM\) service provider for Now Assist AI agents in AI Agent Studio.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_aia.admin
 
 LLMs are part of the foundation of agentic AI. Different LLMs can provide slightly different performance and responses. You can select which LLM to use at a global level for agentic AI from the AI Agent Studio to help adjust the response quality to best fit your agentic workflows.
 
-**Note:** If you already have agents built and you change the global LLM, then you must test the agents after making the change. You can test the models in the skill kit without changing the LLM provider for all [[platform-now-assist-landing|Now Assist]] AI agent skills. Outside of the Skill kit, skills use whichever provider is set as default for the AI AGent SKills group.
+**Note:** If you already have agents built and you change the global LLM, then you must test the agents after making the change. You can test the models in the skill kit without changing the LLM provider for all Now Assist AI agent skills. Outside of the Skill kit, skills use whichever provider is set as default for the AI AGent SKills group.
 
 Depending on your region, you may have to consent to using a different service provider.
 
@@ -71,8 +71,3 @@ Depending on your region, you may have to consent to using a different service p
 
 Your chosen LLM is used globally for all AI agents and agentic workflows.
 
-## Related
-
-- [[na-ai-agents|Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

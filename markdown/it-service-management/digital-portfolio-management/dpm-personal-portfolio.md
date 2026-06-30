@@ -14,7 +14,7 @@ breadcrumb: [Work with portfolios, Digital Portfolio Management, IT Service Mana
 
 # Personal portfolios
 
-Personal portfolios contain data from services, offerings, business [[dex-workspace-application-tab|applications]], and service instances into one space for you to view and report on. You can see how each item is progressing according to the assigned roadmap and evaluate its performance based on key performance indicators \(KPIs\) that interest you.
+Personal portfolios contain data from services, offerings, business applications, and service instances into one space for you to view and report on. You can see how each item is progressing according to the assigned roadmap and evaluate its performance based on key performance indicators \(KPIs\) that interest you.
 
 ## Personal portfolios overview
 
@@ -49,7 +49,7 @@ To edit a solution that you open from the personal portfolio, you must have edit
 You can determine the information on each personal portfolio solution card through configuration. To configure the solution cards, you must have the DPM admin role \[sn\_dpm.dpm\_admin\]. For more information, see [Configure personal portfolio solution cards in the DPM Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-solution-cards.md).
 
 -   **[Create a personal portfolio in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-personal-portfolios.md)**  
-Create a personal portfolio using the [[dpm-landing|Digital Portfolio Management]] \(DPM\) application. DPM enables you to create, edit, and share personalized, unstructured portfolios of the services and applications that you own or don't own but care about.
+Create a personal portfolio using the Digital Portfolio Management \(DPM\) application. DPM enables you to create, edit, and share personalized, unstructured portfolios of the services and applications that you own or don't own but care about.
 
 **Parent Topic:**[Work with portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-portfolios.md)
 
@@ -62,7 +62,3 @@ Create a personal portfolio using the [[dpm-landing|Digital Portfolio Management
 
 [Personal and enterprise portfolio reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-portfolios-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-landing|Digital Portfolio Management]]

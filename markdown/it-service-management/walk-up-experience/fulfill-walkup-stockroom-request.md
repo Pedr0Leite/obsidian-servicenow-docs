@@ -14,7 +14,7 @@ breadcrumb: [View Walk-up Experience location stockroom and assets, Manage Walk-
 
 # Use platform view to fulfill a Walk-up Experience request from a stockroom
 
-[[walkup-experience-landing-page|Walk-up Experience]] agents can access an associated stockroom and fulfill user requests directly from an interaction in platform view.
+Walk-up Experience agents can access an associated stockroom and fulfill user requests directly from an interaction in platform view.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ When a walk-up queue requester requests a consumable, such as a computer monitor
 
 **Parent Topic:**[View Walk-up Experience location stockroom and assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/view-walkup-location-stockroom.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

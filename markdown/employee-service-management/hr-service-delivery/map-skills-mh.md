@@ -24,7 +24,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -56,10 +56,10 @@ On an employee card, select \[Omitted image "viewmenu.png"\] Alt text: View menu
 
     1.  Review the current skill proficiencies of the employee, select any skills you want to validate.
     2.  Select **Validate selected skills**.
-**Note:** Employee credentials from Credly are also displayed in the [[activity-lxp|activity]] stream.
+**Note:** Employee credentials from Credly are also displayed in the activity stream.
 
 -   **View skills**: Skill details page appears. For more information, see [Skill details of an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/skill-details-emp.md).
--   **View profile**: The [[emp-slate-employee-profile|employee profile]] page appears with details such as reporting structure, coworkers, designation of employee.
+-   **View profile**: The employee profile page appears with details such as reporting structure, coworkers, designation of employee.
 
 
 </td></tr><tr><td>
@@ -68,7 +68,7 @@ Skill card
 
 </td><td>
 
-On a skill card, select \[Omitted image "viewmenu.png"\] Alt text: View menu icon, then select **[[td-lh-view-skill-details|View skill details]]**. A modal opens providing more details about the skill.
+On a skill card, select \[Omitted image "viewmenu.png"\] Alt text: View menu icon, then select **View skill details**. A modal opens providing more details about the skill.
 
 </td></tr></tbody>
 </table>6.  In the **Employee view** tab, you can perform the following actions:
@@ -103,10 +103,3 @@ On a skill card, select \[Omitted image "viewmenu.png"\] Alt text: View menu ico
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[td-lh-view-skill-details|View skill details]]

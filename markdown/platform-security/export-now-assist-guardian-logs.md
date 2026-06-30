@@ -13,7 +13,7 @@ breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
 
 # Export Now Assist Guardian logs
 
-[[export|Export]] [[logs|logs]] from Now Assist Guardian to get insights into how often different guardrails are being detected and used.
+Export logs from Now Assist Guardian to get insights into how often different guardrails are being detected and used.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 Now Assist Guardian logs all three types of guardrails available. Reviewing the logs can help you determine how often offensive content is generated, prompt injection attack attempts occur, or sensitive topics are detected.
 
-See [[now-assist-guardian|Now Assist Guardian]] for more information.
+See [Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md) for more information.
 
 ## Procedure
 
@@ -83,8 +83,3 @@ If you do not see any log data, then it is most likely that the guardrail has no
 
 **Parent Topic:**[Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md)
 
-## Related
-
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[export|Export]]
-- [[logs|Logs]]

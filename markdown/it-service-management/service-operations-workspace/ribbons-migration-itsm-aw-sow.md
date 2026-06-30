@@ -14,14 +14,14 @@ breadcrumb: [Configure and customize the migration to SOW, Migrate from ITSM Age
 
 # Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Migration of the ribbons from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] includes identifying the required tables, identifying ribbons records for migration, and the migration process.
+Migration of the ribbons from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying ribbons records for migration, and the migration process.
 
 ## Tables used for migration
 
 |Table name|Description|
 |----------|-----------|
-|Ribbon Setting \[sys\_aw\_ribbon\_setting\]|Contains all ribbon [[settings-mobile|settings]].|
-|UX Ribbon Configuration \[sys\_ux\_ribbon\_config\]|Contains the ribbon configuration that is mapped to a configurable workspace. The [[migration-utility|migration utility]] uses the Service Operations Workspace ribbon configuration.|
+|Ribbon Setting \[sys\_aw\_ribbon\_setting\]|Contains all ribbon settings.|
+|UX Ribbon Configuration \[sys\_ux\_ribbon\_config\]|Contains the ribbon configuration that is mapped to a configurable workspace. The migration utility uses the Service Operations Workspace ribbon configuration.|
 |Ribbon Configuration Setting \[sys\_ux\_ribbon\_config\_setting\]|Contains mapping information between the Ribbon Setting \[sys\_aw\_ribbon\_setting\] and the UX Ribbon Configuration \[sys\_ux\_ribbon\_config\] table records. This information helps define and identify ribbon settings that are applicable for the specified workspace.|
 
 ## Limitation
@@ -39,7 +39,7 @@ The migration utility searches all ribbon settings for which **workspace** is se
 
 The Service Operations Workspace migration utility uses the following sequence to migrate ribbons from ITSM Agent Workspace to Service Operations Workspace for ITSM. All these actions are done by the utility.
 
-1.  Calculates the total width of existing ribbons that are mapped to Service Operations Workspace Ribbon Config plus ITSM Agent Workspace ribbons that must be [[migrated-records|migrated]].
+1.  Calculates the total width of existing ribbons that are mapped to Service Operations Workspace Ribbon Config plus ITSM Agent Workspace ribbons that must be migrated.
 2.  If the sum of widths is greater than 12, disables all existing ribbons that are mapped to the Service Operations Workspace ribbon configuration.
 
     **Note:** All ITSM Agent Workspace ribbons are migrated. The aim of the ITSM Agent Workspace migration utility is to prioritize migrating items from ITSM Agent Workspace to Service Operations Workspace for ITSM and so this trade-off is acceptable.
@@ -76,9 +76,3 @@ Verify that the ribbons in Service Operations Workspace \(SOW\) are consistent w
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[settings-mobile|Settings]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]

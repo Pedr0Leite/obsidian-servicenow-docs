@@ -14,7 +14,7 @@ breadcrumb: [Key management actions, Key Management Framework, Encryption]
 
 # Rotate keys
 
-For increased security, you can rotate your cryptographic keys on a pre-determined schedule. Key rotation is when you retire an [[encryption-landing|encryption]] key and replace that old key by generating a new cryptographic key.
+For increased security, you can rotate your cryptographic keys on a pre-determined schedule. Key rotation is when you retire an encryption key and replace that old key by generating a new cryptographic key.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Encryption modules, unlike encryption contexts, support a rekey of records for r
 
 **Parent Topic:**[Key management actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-management-actions.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

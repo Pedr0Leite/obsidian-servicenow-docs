@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 # Add menu items into the Care Team Portal with Healthcare Operations Core
 
-Add more menu items into the [[care-team-portal-landing|Care Team Portal]] for easy user access.
+Add more menu items into the Care Team Portal for easy user access.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
 7.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

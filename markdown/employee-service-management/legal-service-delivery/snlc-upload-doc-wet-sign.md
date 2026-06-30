@@ -14,7 +14,7 @@ breadcrumb: [Signature workflow for a request, Use, Contract Management Pro for 
 
 # Upload a manually signed contract document
 
-Upload the wet signed contract document you have received from the signatories. You need to upload a contract document for a [[lsd-wet-signature-workflows|wet signature workflow]] or if one of the signatories in the electronic workflow decides to do a wet signature.
+Upload the wet signed contract document you have received from the signatories. You need to upload a contract document for a wet signature workflow or if one of the signatories in the electronic workflow decides to do a wet signature.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller and sn\_cm\_core.contract\_fulfil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal request** &gt; **Legal Counsel Center**.
 
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -73,12 +73,7 @@ An email with the attached final contract document is sent to the signatories.
 
 For Non-disclosure agreement legal requests, the state of the request updates to **Closed complete** and the contract status updates to **Contract signed**.
 
-For [[snlc-request-third-party-contract-1|Third-party contract review requests]], the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
+For Third-party contract review requests, the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
 
 **Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)
 
-## Related
-
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[snlc-request-third-party-contract-1|Third-party contract review requests]]

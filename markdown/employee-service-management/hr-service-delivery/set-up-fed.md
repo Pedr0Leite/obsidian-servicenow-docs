@@ -14,7 +14,7 @@ breadcrumb: [Federal plugin, HR Service Delivery, Employee Service Management]
 
 # Set up Federal plugin
 
-Set up the [[fed-view|Federal plugin]].
+Set up the Federal plugin.
 
 ## Activate Federal plugin
 
@@ -45,7 +45,7 @@ Tables are installed with the plugin. For more information, see [Federal plugin]
 
 ## Import an excel template for Federal plugin
 
-Some data elements included in the Federal plugin allow for an import of the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] data.
+Some data elements included in the Federal plugin allow for an import of the reference data.
 
 ### Before you begin
 
@@ -79,7 +79,4 @@ Role required: admin
 
     **Note:** If the template fails validation, verify records in the template and repeat the process again.
 
-## Related
 
-- [[fed-view|Federal plugin]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

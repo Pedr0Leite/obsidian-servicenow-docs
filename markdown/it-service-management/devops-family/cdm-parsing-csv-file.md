@@ -16,7 +16,7 @@ breadcrumb: [Uploading your config data, Configuring DevOps Config, DevOps Confi
 
 The CDM CSV parser enables parsing of data in CSV files, so when you upload config data from a Comma-Separated Values \(CSV\) file into CDM, you can easily identify the data format attributes and config data in the CDM editor or list view.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 The CDM CSV parser follows the CSV standard RFC 4180. This parsing of data from a CSV file to a JSON format in CDM helps you in the following ways:
 
@@ -163,6 +163,3 @@ To keep the CSV config data in its original format when exporting the config dat
 
 [Parsing of XML files in CDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-parsing-xml-file.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

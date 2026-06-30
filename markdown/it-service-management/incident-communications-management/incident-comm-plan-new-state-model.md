@@ -29,10 +29,7 @@ The following two properties are responsible for different actions that take pla
     -   If an Incident Communication Plan is **Closed** or **Canceled**, then the state of any open Incident Communication Task on which communication is not yet performed, is set to **Skipped**.
     -   If an Incident Communication Plan is **Closed** or **Canceled**, then the state of any open Incident Communication Task on which communication is performed at least once, is set to **Complete**.
 
-**Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the [[c_IncidentAlertManagement|Incident Communications Management]] plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
+**Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the Incident Communications Management plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
 
 For more information on the old Incident Communications Plan state model, see [Incident communication plan state model \(old\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/r_IncidentAlertLifeCycle.md).
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

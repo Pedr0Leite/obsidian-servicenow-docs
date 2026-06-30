@@ -14,9 +14,9 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Cloud Discovery schedules dashboard in Cloud Discovery Workspace
 
-The Cloud [[r-discovery|Discovery]] schedules dashboard displays information about the selected discovery run.
+The Cloud Discovery schedules dashboard displays information about the selected discovery run.
 
-**Important:** [[cow-landing-page|Cloud Discovery Workspace]] is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Cloud Discovery Workspace is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 ## Required ServiceNow AI Platform roles
 
@@ -164,8 +164,3 @@ Only the last 10 discovery runs appear in the Report drop-down list.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]

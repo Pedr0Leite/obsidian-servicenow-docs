@@ -20,7 +20,7 @@ Log in to your ServiceNow instance by using your Facebook credentials on the Fac
 
 The Facebook-based SSO is shipped along with your ServiceNow instance.
 
-You can define the [[identity-landing|Identity]] Provider \(Idp\) configurations to the **OIDC\_Facebook** IdP as your **Identity Providers**. For more information about Idp configurations, see [Configure a Facebook-based Single Sign-On \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-facebook-based-sso.md).
+You can define the Identity Provider \(Idp\) configurations to the **OIDC\_Facebook** IdP as your **Identity Providers**. For more information about Idp configurations, see [Configure a Facebook-based Single Sign-On \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-facebook-based-sso.md).
 
 Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
@@ -59,7 +59,7 @@ Default
 
 </td><td>
 
-Option to set the OIDC IdP [[sc-configuration|configuration]] as default.
+Option to set the OIDC IdP configuration as default.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ OIDC Entity Profile
 
 </td><td>
 
-[[oauth-inbound-and-outbound|OAuth]] Entity Profile for the OIDC configuration. Enter `Facebook default_profile`.
+OAuth Entity Profile for the OIDC configuration. Enter `Facebook default_profile`.
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ External logout redirect
 
 </td><td>
 
-The URL where the integration redirects [[users|users]] after they log out. Typically, this URL is the portal that is used for SSO. This field is automatically set to **external\_logout\_complete.do**. For example, `https://<yourinstance>.service-now.com/external_logout_complete.do`.
+The URL where the integration redirects users after they log out. Typically, this URL is the portal that is used for SSO. This field is automatically set to **external\_logout\_complete.do**. For example, `https://<yourinstance>.service-now.com/external_logout_complete.do`.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ ServiceNow Homepage
 
 </td><td>
 
-The URL of the login page that is used for [[c_Authentication|authentication]]. This field is automatically set to your instance URL. The format of the URL is `https://<yourinstance>.service-now.com/navpage.do`
+The URL of the login page that is used for authentication. This field is automatically set to your instance URL. The format of the URL is `https://<yourinstance>.service-now.com/navpage.do`
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ Update User Interval Time \(Seconds\)
 
 </td><td>
 
-Minimum time interval \(in seconds\) to update a user record between subsequent logins. This field is automatically set to 3600 seconds. For example, after a user [[logs|logs]] in, the user record will be updated after 3,600 seconds until the next login. This field is available only when the **Update User on next login** field is enabled.
+Minimum time interval \(in seconds\) to update a user record between subsequent logins. This field is automatically set to 3600 seconds. For example, after a user logs in, the user record will be updated after 3,600 seconds until the next login. This field is available only when the **Update User on next login** field is enabled.
 
 </td></tr><tr><td>
 
@@ -227,11 +227,4 @@ List of roles applied to the newly provisioned users.
 
     2.  To log in to the ServiceNow instance, specify your Facebook credentials.
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[logs|Logs]]

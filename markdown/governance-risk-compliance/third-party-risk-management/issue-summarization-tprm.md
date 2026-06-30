@@ -15,7 +15,7 @@ breadcrumb: [Exploring, Now Assist, Third-party Risk Management, Governance, Ris
 
 # TPRM issue summarization skill
 
-The [[issue-summarization-skill|issue summarization skill]] in [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] uses generative AI to create concise summaries of vendor-related issues, helping assessors quickly review risk details, improve consistency, and accelerate remediation.
+The issue summarization skill in Now Assist for Third-party Risk Management \(TPRM\) uses generative AI to create concise summaries of vendor-related issues, helping assessors quickly review risk details, improve consistency, and accelerate remediation.
 
 ## Overview of an AI-generated issue summary
 
@@ -71,7 +71,3 @@ The following fields are used to generate issue summaries:
 
 [Activate the TPRM issue summarization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-summarize-an-issue.md)
 
-## Related
-
-- [[issue-summarization-skill|Issue Summarization skill]]
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]

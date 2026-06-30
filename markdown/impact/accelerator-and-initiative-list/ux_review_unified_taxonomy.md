@@ -14,7 +14,7 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 # UX: Taxonomy Design or Review
 
-This Accelerator provides [[impact-landing-page|Impact]] customers with guidance to optimize the content structure and navigation of their portal, focusing on categorizing knowledge and catalog content to improve usability and make information easier to find.
+This Accelerator provides Impact customers with guidance to optimize the content structure and navigation of their portal, focusing on categorizing knowledge and catalog content to improve usability and make information easier to find.
 
 ## Accelerator Overview
 
@@ -29,7 +29,7 @@ UX: Taxonomy Design or Review provides Impact customers with guidance to enhance
 -   **Session Preparation**
     -   Provision a temporary instance
     -   Review customer’s portal taxonomy to uncover current state insights and identify actionable recommendations
-    -   Review past user research and feedback, plus relevant insights and [[io-analytics|analytics]]
+    -   Review past user research and feedback, plus relevant insights and analytics
 -   **Customer Coaching Session \#1 \(up to 1.5 hours\)**
 
     During this session, UX consultants cover the following depending on where customers are in their implementation journey:
@@ -51,7 +51,7 @@ One or more customer resources are requested. The specific number of resources p
 |Customer Resource|Responsibilities|Required|Recommended|
 |-----------------|----------------|:------:|:---------:|
 |Product Owner|Manages Customer’s  ServiceNow  portal.|✓| |
-|UX &amp; OCM Expert|Primary stakeholders and advocates for [[user-experience-insights|user experience]] and organizational change management.| |✓|
+|UX &amp; OCM Expert|Primary stakeholders and advocates for user experience and organizational change management.| |✓|
 |Process/Service Owner\(s\)|A senior leader within each business unit for each major process or service \(for example, incident, change, employee onboarding\) who is accountable for ensuring the process is fit for purpose.| |✓|
 |Developer\(s\)|Writes code for the ServiceNow platform| |✓|
 |Trusted Service Partner\(s\)|Attends ServiceNow Impact accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.| |✓|
@@ -66,8 +66,3 @@ One or more customer resources are requested. The specific number of resources p
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-analytics|Analytics]]
-- [[user-experience-insights|User Experience]]

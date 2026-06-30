@@ -24,7 +24,7 @@ Role required: pps\_admin
 
 Use the Risk Value Lookup module to set up the risk rank and risk value for a specific combination of risk impact and probability. The system uses these values to determine the degree of risk \(Absolute, High, Medium, Low\) based on the impact and probability factors of a risk.
 
-The value in the **Probability** field is multiplied by the value of the **Impact** field to generate the values for the **Risk rank** and corresponding **Risk value** in the [[risk-form|Risk form]].
+The value in the **Probability** field is multiplied by the value of the **Impact** field to generate the values for the **Risk rank** and corresponding **Risk value** in the Risk form.
 
 By default, you can use the following impact, value, and probability scores for a risk to create a risk rank and risk value score:
 
@@ -33,7 +33,7 @@ By default, you can use the following impact, value, and probability scores for 
 -   Medium or Moderate
 -   High
 
-For example, a risk might have high probability and medium impact but you might want to consider it as an overall low risk for the project. In that case, you would configure the [[risk-value-matcher-form|Risk Value Matcher form]] with the following values:
+For example, a risk might have high probability and medium impact but you might want to consider it as an overall low risk for the project. In that case, you would configure the Risk Value Matcher form with the following values:
 
 -   Impact = 2 Medium
 -   Risk Rank Color = Green
@@ -63,7 +63,3 @@ For example, a risk might have high probability and medium impact but you might 
 
 [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md)
 
-## Related
-
-- [[risk-form|Risk form]]
-- [[risk-value-matcher-form|Risk value matcher form]]

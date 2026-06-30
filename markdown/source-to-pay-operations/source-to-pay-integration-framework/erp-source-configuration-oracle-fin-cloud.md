@@ -14,9 +14,9 @@ breadcrumb: [Configure, Source-to-Pay integration with Oracle Financial Cloud, I
 
 # ERP source configuration for Oracle Financial Cloud
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 
-[[erp-source-configuration|ERP source configuration]] enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct [[erp-source|ERP source]] entries with their corresponding service mappings.
+ERP source configuration enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct ERP source entries with their corresponding service mappings.
 
 To meet specific requirements, you can modify the service-mapping logic by updating the relevant service element map entry within the service map record. For organizations using multiple ERP systems, an ERP Source field has been incorporated into the tables to ensure accurate identification of the respective integrated ERP system.
 
@@ -49,7 +49,7 @@ To perform the ERP Source configuration for Oracle Financial Cloud, follow these
 
         Set up subflows for the source configuration to lookup suppliers from Oracle Financial Cloud.
 
-    -   **[[payment-terms|Payment Terms]]**
+    -   **Payment Terms**
 
         Set up subflows for the source configuration to lookup payment terms from Oracle Financial Cloud.
 
@@ -73,7 +73,7 @@ To perform the ERP Source configuration for Oracle Financial Cloud, follow these
 
         Set up subflows for the source configuration to lookup purchasing orgs from Oracle Financial Cloud.
 
-    -   **[[cost-center|Cost Center]]**
+    -   **Cost Center**
 
         Set up subflows for the source configuration to lookup purchasing cost center from Oracle Financial Cloud.
 
@@ -95,10 +95,4 @@ To perform the ERP Source configuration for Oracle Financial Cloud, follow these
 
     You have configured the ERP source for Oracle Financial Cloud.
 
-## Related
 
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[payment-terms|Payment terms]]
-- [[cost-center|Cost center]]

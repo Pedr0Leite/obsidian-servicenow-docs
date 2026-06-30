@@ -21,11 +21,11 @@ For this step, you map parameters to SPC attributes and policies from the data y
 -   Select and use the API response sample in the list in the Reference section for SPC attributes.
 -   Select the API response schema sample in the list for API attributes to help you map the properties to dedicated SPC attributes.
 
-These schema and samples are provided for you after you enter values and save your edits in the [[spc-sgc-template-stepper-4|previous step]]. The response schema is aggregated. To see all observed properties, change the reference list to **API response schema**.
+These schema and samples are provided for you after you enter values and save your edits in the [previous step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-template-stepper-4.md). The response schema is aggregated. To see all observed properties, change the reference list to **API response schema**.
 
-You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [[using-now-assist-api-connector|Creating an API connector with generative ai]] about using the skill in connector framework.
+You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with generative ai](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-now-assist-api-connector.md) about using the skill in connector framework.
 
-**Note:** Regardless of whether you enter your parameters manually, or if you choose use Now Assist to generate your parameters automatically, you must [[spc-sgc-validate-api-connector|Validate your API connector]] before you can publish it.
+**Note:** Regardless of whether you enter your parameters manually, or if you choose use Now Assist to generate your parameters automatically, you must [Validate your API connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-validate-api-connector.md) before you can publish it.
 
 Roles required:
 
@@ -72,16 +72,10 @@ Roles required:
 
     7.  Select the Asset identifier attributes field and add the properties you want, for example, **address** and **assetType**.
 
-        Adding these properties not only helps you identify specific assets, but additionally it might help you identify an asset that is reported differently by multiple security [[tools|tools]]. One tool might import it using **address**, for example, and another might report the **assetType**. Adding these attributes can help you avoid creating duplicate findings for the same asset.
+        Adding these properties not only helps you identify specific assets, but additionally it might help you identify an asset that is reported differently by multiple security tools. One tool might import it using **address**, for example, and another might report the **assetType**. Adding these attributes can help you avoid creating duplicate findings for the same asset.
 
-3.  After you have completed the [[mapping-logrhythm|mapping]], select **Save and continue** to save your changes.
+3.  After you have completed the mapping, select **Save and continue** to save your changes.
 
     You must save your changes before you can continue.
 
-## Related
 
-- [[spc-sgc-template-stepper-4|Provide input values for your API connector]]
-- [[using-now-assist-api-connector|Creating an API connector with generative ai]]
-- [[spc-sgc-validate-api-connector|Validate your API connector]]
-- [[tools|Tools]]
-- [[mapping-logrhythm|Mapping]]

@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # External ID support in Sales CRM Pricing API
 
-The Sales CRM Pricing API supports external IDs in pricing requests. You can use your own custom identifiers or codes for selected reference [[fields|fields]] instead of a ServiceNow sys\_id.
+The Sales CRM Pricing API supports external IDs in pricing requests. You can use your own custom identifiers or codes for selected reference fields instead of a ServiceNow sys\_id.
 
 For example, a pricing call can originate from other CRM or ERP systems that may have different identifiers for certain objects. You can map these unique identifiers to ServiceNow reference fields using an external ID, code, or other custom field. A pricing call can then be made using these unique identifiers available on the external system.
 
@@ -31,7 +31,7 @@ You can use external codes for the following reference fields \(objects\), inclu
 
 ## How external IDs work in pricing requests
 
-External IDs map to reference fields in ServiceNow reference tables. As an admin, before submitting a pricing request, create the context variables that define the reference fields for external IDs or codes that map to a column in a specified reference table. For more information, see [[configure-external-ids-pricing-requests|Configure context variables for external IDs]].
+External IDs map to reference fields in ServiceNow reference tables. As an admin, before submitting a pricing request, create the context variables that define the reference fields for external IDs or codes that map to a column in a specified reference table. For more information, see [Configure context variables for external IDs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-external-ids-pricing-requests.md).
 
 Processing of a pricing request with external IDs involves the following phases:
 
@@ -85,7 +85,3 @@ Processing of a pricing request with external IDs involves the following phases:
 
 As an admin, before submitting a REST API pricing request that uses external IDs, create the context variables that map to columns in selected ServiceNow reference tables. For more information, see [Configure context variables for external IDs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-external-ids-pricing-requests.md).
 
-## Related
-
-- [[configure-external-ids-pricing-requests|Configure context variables for external IDs]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Industrial Workspace
 
-The Industrial Workspace is a user interface that provides [[operational-technology-overview|Operational Technology]] \(OT\) users with the tools they need to manage their OT data.
+The Industrial Workspace is a user interface that provides Operational Technology \(OT\) users with the tools they need to manage their OT data.
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
@@ -42,7 +42,3 @@ The Industrial Workspace is a user interface that provides [[operational-technol
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

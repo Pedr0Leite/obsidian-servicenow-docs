@@ -32,7 +32,7 @@ If you select **Unassign**, you are prompted that all the associated test result
 
 **Note:** If any test result on a remediation task has a different assignment group than its remediation task, it is not unassigned. In most cases, these test results have been manually assigned.
 
-Any records that you update with either the UI button or manually, are displayed on the Unassigned module under [[vr-config-compliance-landing|Configuration Compliance]].
+Any records that you update with either the UI button or manually, are displayed on the Unassigned module under Configuration Compliance.
 
 For the steps to reassign records using the **Unassigned** UI action, see [Remove assignments from remediation tasks for you or your groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-unassign-trg.md).
 
@@ -63,6 +63,3 @@ The job also counts any records that are manually unassigned. Both the manual co
 2.  Select the gear icon in the upper right of the list and select the **Reassignment count - manual items**, and **Reassignment count - unassigned items** for display.
 3.  Any RT that was originally assigned by a rule but later was automatically or manually reassigned, contains a reference to the original rule in the list view.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

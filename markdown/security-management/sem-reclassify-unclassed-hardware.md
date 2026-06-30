@@ -21,7 +21,7 @@ Role required: sn\_sec\_cmn.admin
 
 ## About this task
 
-The Host Import Map \[sn\_sec\_cmn\_src\_cmdb\_map\] table displays the payload's incoming variables and their corresponding assignments in the [[cj-discovered-items|Discovered Items]] table. Occasionally, discrepancies in naming conventions between the scanner and Discovery can lead to the hardware being left unclassified. While creating a new Unclassed Hardware CI, ensure that the name in the payload contains only the Host Name. Later, when Discovery identifies the asset, it can be reclassified into the appropriate CI class. If needed, a script can be written to generate a derived value that aligns with the CIs name in both Discovery and the Configuration Management Database \(CMDB\).
+The Host Import Map \[sn\_sec\_cmn\_src\_cmdb\_map\] table displays the payload's incoming variables and their corresponding assignments in the Discovered Items table. Occasionally, discrepancies in naming conventions between the scanner and Discovery can lead to the hardware being left unclassified. While creating a new Unclassed Hardware CI, ensure that the name in the payload contains only the Host Name. Later, when Discovery identifies the asset, it can be reclassified into the appropriate CI class. If needed, a script can be written to generate a derived value that aligns with the CIs name in both Discovery and the Configuration Management Database \(CMDB\).
 
 If the Identification and Reconciliation engine \(IRE\) is activated, the reclassify option from Discovered Items isn’t supported.
 
@@ -49,7 +49,7 @@ If the Identification and Reconciliation engine \(IRE\) is activated, the reclas
 
 5.  To apply the script to older duplicate records, do the following:
 
-    1.  Navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **Discovered Items**.
+    1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **Discovered Items**.
 
     2.  Select the duplicate records.
 
@@ -78,10 +78,5 @@ If the Identification and Reconciliation engine \(IRE\) is activated, the reclas
     **Note:** For Rapid7, the CI Lookup method is set to Field matching for FQDN and Hostname, which helps to prevent it from using the script.
 
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[cj-discovered-items|Discovered Items]]
-- [[vuln-landing-page|Vulnerability Response]]

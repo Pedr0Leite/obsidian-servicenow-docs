@@ -18,7 +18,7 @@ View the current status of your ordered items, along with the tracking number an
 
 ## Before you begin
 
-To view the status of your ordered items, you should have received dispatch notice regarding your orders from the [[supplier|supplier]].
+To view the status of your ordered items, you should have received dispatch notice regarding your orders from the supplier.
 
 Role required: sn\_shop.shopper
 
@@ -34,14 +34,10 @@ You can view the status, tracking number, and carrier name for your ordered item
 
 3.  Open the receipt to-do you want to work with.
 
-4.  On the **To-do** tab, select **[[shipment-details|Shipment details]]**.
+4.  On the **To-do** tab, select **Shipment details**.
 
     Details of the dispatched items, including tracking number, carrier name, and status, are displayed.
 
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shipment-details|Shipment details]]

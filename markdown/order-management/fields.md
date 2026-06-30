@@ -12,7 +12,7 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Fields
 
-Learn how fields provide the foundational data model for CPQ configurations—what they are, how they relate to [[blueprints|blueprints]], [[rules_101|rules]], and [[layouts|layouts]], and how to choose the right type and display for reliable, reusable experiences.
+Learn how fields provide the foundational data model for CPQ configurations—what they are, how they relate to blueprints, rules, and layouts, and how to choose the right type and display for reliable, reusable experiences.
 
 Fields are the smallest unit of the CPQ configuration model and represent a single piece of data \(for example, a quantity, a choice, or a note\). They power the user experience \(what the user sees and edits\), the logical model \(what rules read and act on\), and downstream outputs \(what is written to the bill of materials or passed to external systems\). Because fields are global in an environment, the same field can be reused across blueprints, rules, and layouts to ensure consistency and reduce duplication.
 
@@ -41,9 +41,9 @@ Selecting the correct type ensures valid data and simpler rules:
 -   Text: Free-form string input \(up to 2000 characters\), with optional length constraints and default.
 -   Number: Numeric input with optional min/max; layout-level options can enforce step or precision and formatting \(currency/percent/read-only currency\).
 -   Boolean: True/False with customizable labels and default state.
--   Picklist \(single or multi-select\): Constrained choices with definable options, defaults, and [[cpq-picklist-extensions-ples|picklist extensions]] for rich, columnar option data and implicit filtering.
+-   Picklist \(single or multi-select\): Constrained choices with definable options, defaults, and picklist extensions for rich, columnar option data and implicit filtering.
 -   Product Picker: A picker specialized for products that can add items to the BOM and map additional data to Product List fields—often removing the need for separate rules.
--   [[cpq-sets|Sets]]: Tabular collections where each row’s subfields interact row-locally \(ideal for calendar-like or line-item scenarios\).
+-   Sets: Tabular collections where each row’s subfields interact row-locally \(ideal for calendar-like or line-item scenarios\).
 
 **Note:** Prefer constrained types \(number, picklist, product picker\) when possible. Clear constraints reduce validation logic and improve end-user guidance.
 
@@ -65,7 +65,7 @@ This model avoids cloning, reduces drift, and simplifies maintenance across prod
 
 ## Governance and naming
 
--   Variable names: Use clear, stable, names \(with words separated by underscores, as in shipping\_method\) to make rule [[scripts|scripts]] expressive and durable.
+-   Variable names: Use clear, stable, names \(with words separated by underscores, as in shipping\_method\) to make rule scripts expressive and durable.
 -   Descriptions: Document intent and valid ranges \(minimum and maximum, semantic meaning\) to aid future reuse.
 -   Defaults: Set only when the business logic expects a starting state; otherwise, let rules determine values contextually.
 
@@ -78,26 +78,15 @@ This model avoids cloning, reduces drift, and simplifies maintenance across prod
 ## Performance and reliability tips
 
 -   Choose the simplest field type that satisfies the requirement. Fewer rules and validations mean faster run times.
--   Use picklist extensions or [[product_picker_overview|product pickers]] to encapsulate rich option data and reduce rule count.
+-   Use picklist extensions or product pickers to encapsulate rich option data and reduce rule count.
 -   Reserve “always-on” determination rules for true system defaults; prefer contextual conditions elsewhere.
 
 ## When to use bulk operations
 
-For larger changes or environment migrations, use [[matrix_loader_table_of_contents|Matrix Loader]] to bulk-create and edit fields and field options. The spreadsheet artifact doubles as documentation and accelerates flow from dev to test to production.
+For larger changes or environment migrations, use Matrix Loader to bulk-create and edit fields and field options. The spreadsheet artifact doubles as documentation and accelerates flow from dev to test to production.
 
 **Related topics**  
 
 
-[[fields_101|Configure fields]]
+[Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 
-## Related
-
-- [[fields_101|Configure fields]]
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[cpq-sets|Sets]]
-- [[scripts|Scripts]]
-- [[product_picker_overview|Product pickers]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

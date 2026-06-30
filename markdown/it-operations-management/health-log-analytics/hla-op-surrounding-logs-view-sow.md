@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  In the [[workspace-dashboard-use|Service Operations Workspace]], open a Log Analytics alert.
+1.  In the Service Operations Workspace, open a Log Analytics alert.
 
 2.  Select the **Surrounding logs** tab and review the information.
 
@@ -37,6 +37,4 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
     -   Specify a **Start time** or **End time** using the time picker.
 4.  View the anomalous log data graphically as a function of time by selecting **Log viewer**.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]

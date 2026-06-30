@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Track shipments using the integration framework
 
-Track your shipments in real time by integrating your ServiceNow instance with your third-party carrier's application through the integration framework provided by the [[it-asset-management|IT Asset Management]] application.
+Track your shipments in real time by integrating your ServiceNow instance with your third-party carrier's application through the integration framework provided by the IT Asset Management application.
 
 -   **[Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/creating-integration-script-include-ham.md)**  
 In order to integrate with a ServiceNow instance, a third-party carrier application must have a script include that extends the base class `ITAMShipmentIntegration` script on its ServiceNow instance to receive the shipment tracking number from the customer's ServiceNow instance and respond with the carrier-related details.
@@ -23,17 +23,17 @@ Associate a shipping carrier with an integration profile to connect your Service
 -   **[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-shipping-carrier.md)**  
 Remove a shipping carrier that you no longer want to associate with an integration profile.
 -   **[Create a carrier integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-carrier-integration-profile.md)**  
-[[create-carrier-integration-profile|Create a carrier integration profile]] for your carrier by specifying the API and connection details that are used to connect your ServiceNow instance to the third-party shipping carrier application.
+Create a carrier integration profile for your carrier by specifying the API and connection details that are used to connect your ServiceNow instance to the third-party shipping carrier application.
 -   **[View the carrier integration profile details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-integration-profiles.md)**  
 View the details of the carrier API used to connect your ServiceNow instance to the third-party shipping carrier application.
 -   **[Test the integration with the carrier API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/test-carrier-api-integration.md)**  
 Check the connection with the carrier API to handle any connection issues such as invalid credentials, incorrect tracking details, and issues with the integration script include.
 -   **[Create a shipping carrier record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-shipping-carrier.md)**  
-[[create-shipping-carrier|Create a shipping carrier record]] used to associate the carrier with an integration profile.
+Create a shipping carrier record used to associate the carrier with an integration profile.
 -   **[View hardware asset shipment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md)**  
-View all hardware asset shipment details in a single place in the [[using-ham-workspace|Hardware Asset Workspace]].
+View all hardware asset shipment details in a single place in the Hardware Asset Workspace.
 -   **[Stale shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/stale-shipments.md)**  
-Shipments that are delayed due to various reasons such as an incorrect tracking number, the loss of a shipment package during transit, and invalid connection details are considered [[stale-shipments|stale shipments]].
+Shipments that are delayed due to various reasons such as an incorrect tracking number, the loss of a shipment package during transit, and invalid connection details are considered stale shipments.
 -   **[Track a hardware asset shipment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/track-hardware-asset-shipments.md)**  
 Track the progress of your hardware asset shipment that isn't delivered and that has a carrier associated with an active integration profile.
 
@@ -46,7 +46,7 @@ Track the progress of your hardware asset shipment that isn't delivered and that
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -68,13 +68,13 @@ Track the progress of your hardware asset shipment that isn't delivered and that
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -90,7 +90,7 @@ Track the progress of your hardware asset shipment that isn't delivered and that
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -106,14 +106,3 @@ Track the progress of your hardware asset shipment that isn't delivered and that
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[create-carrier-integration-profile|Create a carrier integration profile]]
-- [[create-shipping-carrier|Create a shipping carrier record]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[stale-shipments|Stale shipments]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

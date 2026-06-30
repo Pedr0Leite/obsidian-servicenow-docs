@@ -14,14 +14,14 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 # Source-to-Pay Workspace
 
-As a Procurement Specialist, you can easily complete your actionable tasks within the premises of an enhanced user experience with [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+As a Procurement Specialist, you can easily complete your actionable tasks within the premises of an enhanced user experience with Source-to-Pay Workspace.
 
 The Source-to-Pay Workspace application provides experiences and tools for a Procurement Specialist to source, negotiate, and procure the goods and services that an organization requires. It also enables them to address and work on tasks related to procurement.
 
 The Source-to-Pay Workspace application is a dependent application and is automatically installed if any of the following applications are installed:
 
 -   Source-to-Pay Common Architecture
--   [[psd-overview|Procurement Case Management]]
+-   Procurement Case Management
 
 However, if you wish to install just the Source-to-Pay Workspace application, the dependent application Procurement Case Management is also installed along with.
 
@@ -93,7 +93,3 @@ canvas\_admin
 
 [Universal Request in Sourcing and Procurement Operations]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psd-overview|Procurement Case Management]]

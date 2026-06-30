@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the mini email composer by selecting the **Email** tab under the [[activity-stream-compose-configurable-workspace|Compose]] panel.
+2.  Open the mini email composer by selecting the **Email** tab under the Compose panel.
 
 3.  **Note:** Instead of a button to save email drafts manually, drafts save automatically.
 
@@ -60,6 +60,4 @@ Role required: email\_composer
 
     3.  Select **Delete**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]

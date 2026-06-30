@@ -14,7 +14,7 @@ breadcrumb: [Entity types, Explore entities, Common GRC features, Governance, Ri
 
 # Create an entity type
 
-Create an entity type for the entities in your system. [[entity-type-in-risk-ws|Entity types]] enable you to find and create new entities that match a set of filter conditions. You can create a hierarchy of the entity types within the [[entity-class-in-risk-ws|entity classes]].
+Create an entity type for the entities in your system. Entity types enable you to find and create new entities that match a set of filter conditions. You can create a hierarchy of the entity types within the entity classes.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and click **Entity types**.
+1.  Navigate to the desired workspace, go to the List view, and click **Entity types**.
 
 2.  Click **New**.
 
@@ -43,7 +43,7 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
     -   Details
     -   Entities
-    -   [[what-is-an-entity-filter|Entity Filters]]
+    -   Entity Filters
     -   Risk Frameworks
     -   Risk Statements
     -   Policies
@@ -58,9 +58,3 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
 **Parent Topic:**[Entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-type-in-risk-ws.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[list-view-uib-ws|List view]]
-- [[what-is-an-entity-filter|Entity filters]]

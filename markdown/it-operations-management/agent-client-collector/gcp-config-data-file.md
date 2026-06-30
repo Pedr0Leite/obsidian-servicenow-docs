@@ -26,7 +26,7 @@ The GCP configuration data file is a .json file which contains all of the metric
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Configuration Files**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Configuration Files**.
 
 2.  Locate the **acc\_gcp\_metrics\_list.json** configuration file.
 
@@ -39,6 +39,3 @@ The GCP configuration data file is a .json file which contains all of the metric
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

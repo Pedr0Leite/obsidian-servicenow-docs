@@ -15,7 +15,7 @@ breadcrumb: [Automated quality assurance, Activate Now Assist Skills, Configure,
 
 # Edit Automated quality assurance skill
 
-Edit the configuration of the [[quality-assurance-management|Automated quality assurance]] skill to choose the inputs or parameters and display the location of the skill output.
+Edit the configuration of the Automated quality assurance skill to choose the inputs or parameters and display the location of the skill output.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: admin
 
 The skill is activated with your preferred settings.
 
-## Related
-
-- [[quality-assurance-management|Automated quality assurance]]

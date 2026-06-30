@@ -14,13 +14,13 @@ breadcrumb: [Integration with ServiceNow applications, Legal Service Delivery, L
 
 # Legal services on the Employee Center portal
 
-Employees can submit and track requests to get legal support or get information on legal services through the [[employee-center-landing-page|Employee Center]] portal.
+Employees can submit and track requests to get legal support or get information on legal services through the Employee Center portal.
 
 Legal Service Portal enables employees to submit legal requests to get services and support from the legal department only. Whereas ServiceNow® Employee Center provides a single and unified portal experience for employees to find information and request services across various departments, including Legal. Using the Content Taxonomy framework, you can modify the default Legal taxonomy to include your service-specific content types and child topics.
 
 To enable legal services on the Employee Center portal, ensure you've the following ServiceNow applications and plugins installed:
 
--   [[legal-management-overview|Legal Service Delivery]] applications
+-   Legal Service Delivery applications
 -   Employee Center plugin \(sn\_ex\_sp\)
 -   Employee Experience Taxonomy plugin \(sn\_ect\)
 
@@ -56,18 +56,18 @@ Employee Center uses configurable approvals using Task Configuration for the app
 
 The following base system Task Configurations in the To-dos Configuration are available with Legal Service Delivery apps:
 
--   [[legal-request-management-landing-page|Legal Request Management]]
+-   Legal Request Management
     -   Legal Requests
     -   Legal Request Attachments
     -   Legal Request External Documents
--   [[legal-matter-management-landing-page|Legal Matter Management]]
+-   Legal Matter Management
     -   Legal Matters
     -   Legal Matter Attachments
     -   Legal Matter External Documents
     -   Legal Matter Tasks
     -   Legal Matter Artifacts
-    -   [[legal-matter-administration|Legal Matter Templates]]
--   [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+    -   Legal Matter Templates
+-   Legal Digital Forensics
     -   Custodial data
     -   Non-Custodial data
 
@@ -86,11 +86,3 @@ For more information about configurable approvals in the Employee Center and how
 
 [Create a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-topics-for-taxonomy.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-matter-administration|Legal matter templates]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]

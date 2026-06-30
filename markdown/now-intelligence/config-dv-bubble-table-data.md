@@ -32,7 +32,7 @@ Data source
 
 </td><td>
 
-You’ve selected a Table data source in [[create-dv-bubble-ac|Create a bubble data visualization in the Visualization Designer]].
+You’ve selected a Table data source in [Create a bubble data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bubble-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -152,7 +152,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]. For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -242,8 +242,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a bubble data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bubble-ac.md)
 
-## Related
-
-- [[create-dv-bubble-ac|Create a bubble data visualization in the Visualization Designer]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]

@@ -33,9 +33,9 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 ## Procedure
 
-1.  Open **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Open **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Locate the dashboard in the dashboard library and open it for editing, as described in [[edit-db-in-ac|Edit Platform Analytics dashboards]].
+2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
     **Note:** These instructions are for using the inline dashboard editor. If you’re editing a technical dashboard in the UI Builder, see the [Component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/shared-components/sn-pa-domain-filter/overview) on the Developer Site.
 
@@ -47,7 +47,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 5.  From the **Add new element** menu, select **Domain filter**.
 
-    The domain filter is added to the dashboard layout in the first available space. This location may be below existing [[dashboard-elements|dashboard elements]].
+    The domain filter is added to the dashboard layout in the first available space. This location may be below existing dashboard elements.
 
 6.  Select the domain filter's three-dot menu and choose **Configure**.
 
@@ -79,7 +79,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 9.  Select **Save**.
 
 
-**Parent Topic:**[[interactive-filters-workspace|Filters in Platform Analytics]]
+**Parent Topic:**[Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)
 
 **Related topics**  
 
@@ -174,9 +174,3 @@ Once you group domains in a Performance Analytics domain configuration, there ar
 
 [Approaches to Performance Analytics with domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-domain-configurations.md)
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[dashboard-elements|Dashboard elements]]

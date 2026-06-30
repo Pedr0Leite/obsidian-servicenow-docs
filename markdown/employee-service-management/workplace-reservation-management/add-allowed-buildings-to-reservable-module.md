@@ -26,7 +26,7 @@ Add workplace locations to a reservable module so that employees can access only
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Module**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
 2.  Select the reservable module to which you want to add workplace locations.
 
@@ -49,11 +49,7 @@ Add workplace locations to a reservable module so that employees can access only
 
 ## Result
 
-The workplace locations are added to the reservable module. When an employee selects the reservable module to [[reservation-portal|make a reservation]], only the configured workplace locations are displayed.
+The workplace locations are added to the reservable module. When an employee selects the reservable module to make a reservation, only the configured workplace locations are displayed.
 
 **Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]

@@ -14,13 +14,13 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Select the Azure policies to activate for metric collection
 
-Activate the [[azure-policies|Azure policies]] that come with the [[acc-landing-page|Agent Client Collector]] base system so that Azure virtual machines can collect metrics. These metrics help you monitor the configuration items \(CIs\) in the CMDB.
+Activate the Azure policies that come with the Agent Client Collector base system so that Azure virtual machines can collect metrics. These metrics help you monitor the configuration items \(CIs\) in the CMDB.
 
 ## Before you begin
 
 -   Prepare an instance with an active MID Server and metric base.
--   Install Agent Client Collector Framework and [[acc-monitoring-landing-page|Agent Client Collector Monitoring]].
--   Run [[r-discovery|Discovery]] on the Azure cloud account to populate the CMDB with CIs to be monitored.
+-   Install Agent Client Collector Framework and Agent Client Collector Monitoring.
+-   Run Discovery on the Azure cloud account to populate the CMDB with CIs to be monitored.
 
 Role required: agent\_client\_collector\_admin
 
@@ -67,9 +67,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[azure-policies|Azure policies]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[r-discovery|Discovery]]

@@ -22,13 +22,13 @@ To begin collecting Azure cloud metrics, you must select the metrics that you wa
 
 ## Using Azure policies
 
-You can use preconfigured [[azure-policies|Azure policies]] for metric collection, or you can create your own Azure policies.
+You can use preconfigured Azure policies for metric collection, or you can create your own Azure policies.
 
 When using a preconfigured policy, you do the following tasks:
 
 -   Prepare an instance with an active MID Server and metric base.
--   Install [[acc-landing-page|Agent Client Collector]] Framework and [[acc-monitoring-landing-page|Agent Client Collector Monitoring]].
--   Run [[r-discovery|Discovery]] on the Azure cloud account to populate the CMDB with the configuration items \(CIs\) to be monitored.
+-   Install Agent Client Collector Framework and Agent Client Collector Monitoring.
+-   Run Discovery on the Azure cloud account to populate the CMDB with the configuration items \(CIs\) to be monitored.
 -   Configure a proxy agent and assign credentials to the policy. Proxy agents monitor CIs for agents that are in the cloud. Credentials enable the agent to access the Azure policy.
 
 The policies available with the base system for you to activate and configure are described in the following table.
@@ -47,7 +47,7 @@ When creating policies, you must include the CIs that you want to collect the me
 
 When creating a policy, you must decide which CIs you want the policy to monitor. To enable monitoring CIs, you do the following tasks:
 
-1.  Configure the [[azure-metrics|Azure Metrics]] Collector check in the policy.
+1.  Configure the Azure Metrics Collector check in the policy.
 2.  Set the credentials for the Azure Metrics Collector check to enable retrieving metrics from Azure to the Agent Client Collector agent.
 3.  Generate a .json file that specifies the list of resources to be monitored.
 4.  Generate a .json file that specifies the list of metrics to be retrieved from monitored resources.
@@ -58,10 +58,3 @@ For details on the Azure Metrics Batch API, see the [Metrics Batch API](https://
 
 **Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[azure-policies|Azure policies]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[r-discovery|Discovery]]
-- [[azure-metrics|Azure metrics]]

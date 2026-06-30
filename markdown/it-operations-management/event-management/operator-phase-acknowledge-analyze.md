@@ -14,7 +14,7 @@ breadcrumb: [Operator responsibilities, Event Management Operator Tutorial, Usin
 
 # Operator phase 1: Analyze and acknowledge an alert
 
-As an [[c_EM|Event Management]] operator, the first thing you should do is access alerts and then find the ones you want to focus on. You can open the Alert form to analyze the details, and then acknowledge it to let other operators know that the issue causing the alert should be addressed in some way.
+As an Event Management operator, the first thing you should do is access alerts and then find the ones you want to focus on. You can open the Alert form to analyze the details, and then acknowledge it to let other operators know that the issue causing the alert should be addressed in some way.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Phase 3
 [Close an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-close-alert.md)
 
 </td></tr></tbody>
-</table>You must understand both of your operator environments: the [[workspace-dashboard-use|Service Operations Workspace]] dashboard and Service Operations Workspace. Review [Event Management operator environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
+</table>You must understand both of your operator environments: the Service Operations Workspace dashboard and Service Operations Workspace. Review [Event Management operator environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
 
 Role required: evt\_mgmt\_operator
 
@@ -157,7 +157,7 @@ State
 
 The processing state that the alert is in. A newly generated alert is in the **Open** state. Other states are:-   **Reopen** indicates that a previously closed alert is open again, and it requires your attention.
 -   **Flapping** indicates that the alert is receiving a high frequency of identical events from the same source, which can cause many alerts to re-open even after it is closed.
--   **Closed** indicates that the alert is closed and does not require any further action. You will [[t_EMCloseAlert|close an alert]] as part of the last stage in this tutorial.
+-   **Closed** indicates that the alert is closed and does not require any further action. You will close an alert as part of the last stage in this tutorial.
 
 
 </td></tr><tr><td>
@@ -250,8 +250,3 @@ Go to [Operator phase 2: Triage an alert](https://raw.githubusercontent.com/Serv
 
 **Parent Topic:**[What Event Management operators do](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[t_EMCloseAlert|Close an alert]]

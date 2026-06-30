@@ -14,7 +14,7 @@ breadcrumb: [Teams, Workforce Optimization for ITSM, IT Service Management]
 
 # Teams components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] uses roles to administer teams and properties to modify default behavior.
+Workforce Optimization for ITSM uses roles to administer teams and properties to modify default behavior.
 
 ## Roles
 
@@ -108,9 +108,5 @@ The default date range set in the date range picker.-   **Type:**Integer
 |Average Handling Time \(MTTR\)|Mean time taken to resolve an incident.|
 |First Call Resolution|Percentage of incidents resolved on first call.|
 |Trainee Quality Rating|Average score, in percentage, of all surveys taken by the coach to assess the trainee.|
-|Incidents triaged by VA|The number of incidents automatically created by the Virtual Agent for your team when tasks are deflected. You must have [[itsm-virtual-agent|ITSM Virtual Agent]] Conversations \(com.snc.itsm.virtualagent\) installed on your system to analyze this KPI.|
+|Incidents triaged by VA|The number of incidents automatically created by the Virtual Agent for your team when tasks are deflected. You must have ITSM Virtual Agent Conversations \(com.snc.itsm.virtualagent\) installed on your system to analyze this KPI.|
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

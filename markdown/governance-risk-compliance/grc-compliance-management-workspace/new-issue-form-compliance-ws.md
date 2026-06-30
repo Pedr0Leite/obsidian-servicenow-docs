@@ -14,7 +14,7 @@ breadcrumb: [Manually create GRC issues using the Compliance Workspace, Manage i
 
 # Compliance Workspace issue form details
 
-Field descriptions to enter on the New [[issue-form|Issue form]] in the Compliance Workspace.
+Field descriptions to enter on the New Issue form in the Compliance Workspace.
 
 <table id="table_ynl_yjz_dv"><thead><tr><th>
 
@@ -138,7 +138,7 @@ Starting with Version 12.0.1, the issue manager can assign the issue rating to t
 -   Low \(10 days\)
 -   Very Low \(15 days\)
 
- You can manually override the **Due date**. **Note:** Users with the sn\_grc.manager and sn\_grc\_advanced.issue\_triage\_manager role can navigate to **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Issue rating** and define additional issue ratings.
+ You can manually override the **Due date**. **Note:** Users with the sn\_grc.manager and sn\_grc\_advanced.issue\_triage\_manager role can navigate to **Policy and Compliance** &gt; **Administration** &gt; **Issue rating** and define additional issue ratings.
 
 When the issue transitions to the **Respond** state, the Issue rating field is read only.
 
@@ -469,8 +469,3 @@ The related risk event.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[issue-form|Issue form]]
-- [[Administration|Administration]]

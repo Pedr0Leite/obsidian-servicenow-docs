@@ -29,9 +29,9 @@ Using common controls gives you the ability to:
 
 Requirements and use case:
 
--   [[t_CreateAControl|Create a control]] and convert a control to common.
+-   Create a control and convert a control to common.
 -   Associate reliant entities to a common control to inherit test results.
--   Associate [[entity-type-in-risk-ws|entity types]] to a common control.
+-   Associate entity types to a common control.
 -   Test the common control once and apply results to multiple entities.
 -   Can convert a common control back to standard.
 -   Avoid voluminous increase in controls.
@@ -45,7 +45,3 @@ For more information, see:
 -   [Operational changes in item generation of common controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/item-gen-action-types.md).
 -   [Impact of common control on compliance score calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-score-common-control.md).
 
-## Related
-
-- [[t_CreateAControl|Create a control]]
-- [[entity-type-in-risk-ws|Entity types]]

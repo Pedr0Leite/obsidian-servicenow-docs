@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Edit connection or crawl settings for an external content connector
 
-Connector administrators can modify the connection settings and crawl settings for an existing external content connector. If your changes to a connector's settings invalidate its current crawl [[hs-results|results]], the system prompts you to run a new content crawl.
+Connector administrators can modify the connection settings and crawl settings for an existing external content connector. If your changes to a connector's settings invalidate its current crawl results, the system prompts you to run a new content crawl.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. Perform it only if you need to modify the connection settings or crawl settings specified for one of your existing [[ext-cont-connectors-landing-page|external content connectors]].
+This task is optional. Perform it only if you need to modify the connection settings or crawl settings specified for one of your existing external content connectors.
 
 Modify a connector's connection settings to reflect changes made in your source system's configuration. As an example, if your source system administrator generates a new client secret for the OAuth 2.0 application that grants the connector access to your content, you can replace the old client secret with the new one in the connector's connection settings.
 
-Modify a connector's crawl settings to alter the set of source system locations it crawls and the set of source system items it retrieves searchable content and metadata from. As an example, if you want to exclude content from items in a newly created Slack channel, you can add that channel to the channel exclusion list in your [[slack-external-content-connector|Slack external content connector]]'s crawl settings.
+Modify a connector's crawl settings to alter the set of source system locations it crawls and the set of source system items it retrieves searchable content and metadata from. As an example, if you want to exclude content from items in a newly created Slack channel, you can add that channel to the channel exclusion list in your Slack external content connector's crawl settings.
 
 ## Procedure
 
@@ -60,8 +60,3 @@ If the external content connector status indicates that a recrawl is required, r
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[slack-external-content-connector|Slack external content connector]]

@@ -14,11 +14,11 @@ breadcrumb: [Configure the Localization Framework, Localization Framework, Trans
 
 # Artifact configurations
 
-You can configure the required artifacts and use the [[localization-framework-landing|Localization Framework]] to fulfill the translation requests.
+You can configure the required artifacts and use the Localization Framework to fulfill the translation requests.
 
 Any artifact configured in the Localization Framework application has its own record in the artifact configurations \[sn\_lf\_config\] table.
 
-With the activation of the Localization Framework Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\), a record for Service Catalog item and Natural Language Understanding Model are automatically created and configured in Localization Framework.
+With the activation of the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\), a record for Service Catalog item and Natural Language Understanding Model are automatically created and configured in Localization Framework.
 
 A record for the Virtual Agent topic is also created and configured in the framework, since Virtual Agent is automatically enabled with the base system. For more information, see [Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-lite.md).
 
@@ -29,20 +29,13 @@ You can also create and configure an artifact of your choice and a record for th
 -   **[Create and configure a custom artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-configure-custom-artifact.md)**  
 Create and configure custom artifacts of your choice to use the Localization Framework functionality.
 -   **[Create a processor script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-processor-script.md)**  
-You can [[create-processor-script|create a processor script]] to include in your custom artifact configuration to extract the translatable content and save the translated content.
+You can create a processor script to include in your custom artifact configuration to extract the translatable content and save the translated content.
 -   **[Processor script functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/processor-script-functions.md)**  
 The processor script contains functions that help you extract the translatable content and save the translated content which is included when you configure an artifact.
 -   **[Create a UI action for the custom artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-ui-action-artifact.md)**  
-[[t_EditingAUIAction|Create a UI action]] to [[language-picker-ui|request translations]] for the custom artifact.
+Create a UI action to request translations for the custom artifact.
 -   **[Read script helper functions for LFDocumentContentBuilder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-document-content-builder.md)**  
 The LFDocumentContentBuilder provides utility functions to build document content. Use these functions to write the logic to extract the translatable content from any artifacts regardless of them using standard tables or not for translations.
 
 **Parent Topic:**[Configure the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/configuring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[create-processor-script|Create a processor script]]
-- [[t_EditingAUIAction|Create a UI action]]
-- [[language-picker-ui|Request translations]]

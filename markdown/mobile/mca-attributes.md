@@ -16,7 +16,7 @@ Use this reference to determine which attributes to use for your card template e
 
 Each card template element has one or more required attributes that you must create. The sections below show the required attributes for each card template element type.
 
-**Note:** When using the [[mobile-card-builder|Mobile Card Builder]], the listed attributes do not need to be manually created, as the tool automatically creates the attributes in the background.
+**Note:** When using the Mobile Card Builder, the listed attributes do not need to be manually created, as the tool automatically creates the attributes in the background.
 
 ## Attributes for the Text type
 
@@ -38,7 +38,7 @@ Each card template element has one or more required attributes that you must cre
 
 |Name|Description|Configuration|
 |----|-----------|-------------|
-|Button|Used to select the function that runs when users tap a button.|Use the **Value** field to enter the SysID of a function from the Functions\[sys\_sg\_button\] table. For details on creating functions, see [[sg-studio-mobile-button-types|Mobile functions]].|
+|Button|Used to select the function that runs when users tap a button.|Use the **Value** field to enter the SysID of a function from the Functions\[sys\_sg\_button\] table. For details on creating functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).|
 |TextValue|Used to display static text.|Use the **Value** field to enter the name of a field. For example, `short_description`.|
 |FieldValue|Used to display the value of a field in a record.|Use the **Value** field to enter the name of a field. For example, `avatar`.|
 |Icon|Used to display an icon.|Use the **Value** field to enter the SysID of an icon record from the Icon\[sys\_sg\_icon\] table.|
@@ -71,7 +71,3 @@ Use property attributes to define additional properties for your card template s
 |BorderColor|Color of the border for the card template element.|Use the **Value** field to define the color. Colors must be in color hex code format, or the name of a color theme. For example `Primary` or `#8a8a8a`.|
 |TextColor|Color of the text or the card template element.|Use the **Value** field to define the color. Colors must be in color hex code format, or the name of a color theme. For example `Primary` or `#8a8a8a`.|
 
-## Related
-
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[mobile-card-builder|Mobile Card Builder]]

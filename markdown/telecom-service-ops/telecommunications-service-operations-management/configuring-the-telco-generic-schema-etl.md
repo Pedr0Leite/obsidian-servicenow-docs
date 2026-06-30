@@ -14,7 +14,7 @@ breadcrumb: [Configure Telecom Visibility, Configure, Telecommunications Service
 
 # Configure the Telecom Discovery Builder ETL
 
-Leverage the prebuilt [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]] ETL by duplicating it into your connector scope, assigning the appropriate data source, and deploying it as part of a new service graph connector.
+Leverage the prebuilt Telecom Discovery Builder framework ETL by duplicating it into your connector scope, assigning the appropriate data source, and deploying it as part of a new service graph connector.
 
 The Telecom Discovery Builder framework ETL provided with the Telecom Service Operations Management \(TSOM\) Core is a ready-to-use framework designed to streamline data ingestion into the CMDB across telecom connectors. Rather than configuring it directly, as an administrator, you can duplicate the ETL into a connector’s application scope and update the data source to align with the connector’s discovery payload.
 
@@ -25,6 +25,3 @@ The Telecom Discovery Builder framework ETL provided with the Telecom Service Op
 3.  After duplication, open the new ETL and replace the temporary data source with the connector’s actual discovery data source. For more information, see [Update the data source of the connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/update-data-source-of-the-connector.md).
 4.  Test or deploy the service graph connector. For more information, see [Deploy service graph connector with existing ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/deploy-a-new-service-graph-connector-with-duplicated-etl.md)
 
-## Related
-
-- [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]]

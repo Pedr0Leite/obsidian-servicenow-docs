@@ -15,7 +15,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Activate a draft integration in Health Log Analytics
 
-Activate an integration that was configured and saved as a draft in [[hla-landing-page|Health Log Analytics]] \(HLA\).
+Activate an integration that was configured and saved as a draft in Health Log Analytics \(HLA\).
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

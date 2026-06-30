@@ -14,7 +14,7 @@ breadcrumb: [Reference, Enterprise Agile Planning, Strategic Planning, Strategic
 
 # Components installed with Enterprise Agile Planning
 
-Several types of components are installed with Enterprise Agile Planning when you install the [[alignment-planner-workspace-landing-page|Strategic Planning]] applications, including tables and user roles.
+Several types of components are installed with Enterprise Agile Planning when you install the Strategic Planning applications, including tables and user roles.
 
 ## Roles installed
 
@@ -279,6 +279,3 @@ Stores information of all stories created.
 
 **Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

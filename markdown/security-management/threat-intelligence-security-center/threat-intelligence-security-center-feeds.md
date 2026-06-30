@@ -16,7 +16,7 @@ breadcrumb: [Threat Intelligence Feeds, Integrate, Threat Intelligence Security 
 
 Structured Threat Information Expression \(STIX\) is a language and serialization format used to exchange cyberthreat intelligence \(CTI\). Trusted Automated Exchange of Intelligence Information \(TAXII\) is a protocol used to exchange cyberthreat intelligence \(CTI\) over HTTPS.
 
-With STIX, all aspects of suspicion, compromise, and attribution are represented as objects and descriptive [[stix-relationships|relationships]]. STIX information can be visually represented for an analyst or stored as JSON to be quickly machine readable.
+With STIX, all aspects of suspicion, compromise, and attribution are represented as objects and descriptive relationships. STIX information can be visually represented for an analyst or stored as JSON to be quickly machine readable.
 
 cyberthreat intelligence \(CTI\) was chartered to define a set of information representations and protocols to address the need to model, analyze, and share cyberthreat intelligence. The CTI is primarily focused on development and standardization of Structured Threat Information Expression \(STIX\) and Trusted Automated Exchange of Indicator Information \(TAXII\).
 
@@ -25,6 +25,3 @@ You can maintain TAXII feeds for sharing STIX-formatted information. Each TAXII 
 
 **Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]

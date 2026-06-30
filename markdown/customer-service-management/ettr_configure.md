@@ -12,7 +12,7 @@ breadcrumb: [Configure settings for estimated time to resolve values, Estimated 
 
 # Configure the default estimated resolution time
 
-The [[ettr|Estimated Time to Resolve a Case]] regression definition is available by default. You can modify the default values of case fields, the case timeline, and the training frequency.
+The Estimated Time to Resolve a Case regression definition is available by default. You can modify the default values of case fields, the case timeline, and the training frequency.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ The Estimated Time to Resolve a Case definition is available by default. You can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Predictive [[intelligence-csm|Intelligence]]** &gt; **Regression** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Regression** &gt; **Solution Definitions**.
 
 2.  Click **Estimated Time to Resolve a Case**.
 
     In the Regression Definition screen, the **Table** field is autopopulated with the Case Report \[sn\_customerservice\_case\_report\] table. The **Output Field** field is autopopulated with the time taken to resolve a case in seconds.
 
-    **Note:** If you have upgraded, you have to run a fix script in order to show the **Time to Resolve Numeric Value** column to display values for older cases. For more information, see [[ettr-upgrade|Configure settings for estimated time to resolve values]].
+    **Note:** If you have upgraded, you have to run a fix script in order to show the **Time to Resolve Numeric Value** column to display values for older cases. For more information, see [Configure settings for estimated time to resolve values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr-upgrade.md).
 
 3.  To edit, add, or delete case attributes, modify the default values in the **Fields** field.
 
@@ -51,8 +51,3 @@ The Estimated Time to Resolve a Case definition is available by default. You can
     -   To update the changes you made, click **Update**.
     -   To update and retrain the solution, click **Update and Retrain**.
 
-## Related
-
-- [[ettr-upgrade|Configure settings for estimated time to resolve values]]
-- [[ettr|Estimated time to resolve a case]]
-- [[intelligence-csm|Intelligence]]

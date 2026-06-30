@@ -26,7 +26,7 @@ To use the model management phases, ensure you have all the necessary NLU plugin
 -   [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md)
 -   [Install Intent Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-intent-discovery.md)
 
-**Note:** [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] and [[intent-discovery|Intent Discovery]] are available from the ServiceNow Store. NLU model testing and performance monitoring require NLU Workbench - Advanced Features.
+**Note:** NLU Workbench - Advanced Features and Intent Discovery are available from the ServiceNow Store. NLU model testing and performance monitoring require NLU Workbench - Advanced Features.
 
 ## Create a model
 
@@ -44,7 +44,7 @@ To get started, see [Creating models](https://raw.githubusercontent.com/ServiceN
 
 After creating a model, access its management phases by navigating to **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then the name of the model to open the **Model details** page on the model overview.
 
-There are three phases on a Virtual Agent model's overview page: [[managing-model-content|Build and train your model]], [[testing-your-model|Test and publish your model]], and [[nlu-tune-your-model|Tune your model]]. These phases guide you as you build and improve your model.
+There are three phases on a Virtual Agent model's overview page: Build and train your model, Test and publish your model, and Tune your model. These phases guide you as you build and improve your model.
 
 \[Omitted image "model-managementT2.png"\] Alt text: Model management phases for a trained NLU model.
 
@@ -63,7 +63,7 @@ Train your model using utterances that the model is likely to encounter from you
 
 ## Test and publish your model
 
-[[test-your-model|Test your model]] to gauge the performance and identify areas for improvement.
+Test your model to gauge the performance and identify areas for improvement.
 
 **Note:** Model testing requires the NLU Workbench - Advanced Features store application. For more information, see [NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-workbench-advanced-features.md).
 
@@ -85,11 +85,3 @@ Use the **Settings** page of the model overview to change the name and descripti
 
 For more information, see [NLU model settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-model-settings.md).
 
-## Related
-
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[intent-discovery|Intent Discovery]]
-- [[managing-model-content|Build and train your model]]
-- [[testing-your-model|Test and publish your model]]
-- [[nlu-tune-your-model|Tune your model]]
-- [[test-your-model|Test your model]]

@@ -22,9 +22,9 @@ Role required: sn\_grc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[user-hierarchy|User Hierarchy]] &gt; User hierarchy configuration**.
+1.  Navigate to **All** &gt; **GRC User Hierarchy &gt; User hierarchy configuration**.
 
-    The tables where you have enabled the [[user-hierarchy-risk-remed-task|user hierarchy access control]] are displayed.
+    The tables where you have enabled the user hierarchy access control are displayed.
 
 2.  Click **New**.
 
@@ -108,7 +108,3 @@ Event that is used to recalculate the user hierarchy in the source table records
 
 **Parent Topic:**[User hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/user-hierarchy.md)
 
-## Related
-
-- [[user-hierarchy|User hierarchy]]
-- [[user-hierarchy-risk-remed-task|User hierarchy access control]]

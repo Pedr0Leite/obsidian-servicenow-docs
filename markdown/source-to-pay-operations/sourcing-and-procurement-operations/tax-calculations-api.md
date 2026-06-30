@@ -24,7 +24,7 @@ The following parameters are to be used in a tax calculation generic API:
     -   Purchase quantity \(from the checkout cart line\)
     -   Total line amount \(from the checkout cart line\)
     -   Currency \(from the **Fx Currency** field in the cart line\)
--   [[supplier|Supplier]] record:
+-   Supplier record:
     -   Street address, City, State, County, Zip, Country, Region \(from the vendor's supplier record\)
     -   Legal name \(from the vendor's supplier record\)
 -   Supplier product record: Model category \(from the product model\)
@@ -39,6 +39,3 @@ A staging table is also created that includes the following output parameters fo
 
 **Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/tax-calculations.md)
 
-## Related
-
-- [[supplier|Supplier]]

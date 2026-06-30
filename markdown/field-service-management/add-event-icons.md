@@ -20,15 +20,15 @@ Role required: wm\_admin
 
 ## About this task
 
-The icon in the top left indicates work type. The first icon on the bottom right indicates if the task is a crew task, and the second icon on the bottom right indicates if the task is locked. See [[calendar-event-icons|Calendar event icons in Dispatcher Workspace]] for the full list of calendar event icons.
+The icon in the top left indicates work type. The first icon on the bottom right indicates if the task is a crew task, and the second icon on the bottom right indicates if the task is locked. See [Calendar event icons in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/calendar-event-icons.md) for the full list of calendar event icons.
 
-For information on changing the icon graphic for calendar events, see [[customize-icons-dispatcher-wrkspc|Change the graphic for calendar event icons]].
+For information on changing the icon graphic for calendar events, see [Change the graphic for calendar event icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customize-icons-dispatcher-wrkspc.md).
 
 **Warning:** You must be familiar with the JSON code format to perform this procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[dispatcher-activities|Dispatcher Workspace]] Configuration** &gt; **Calendar Event Body Iconography**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher Workspace Configuration** &gt; **Calendar Event Body Iconography**.
 
 2.  Select **here** if you see a message about editing the Global application.
 
@@ -48,8 +48,3 @@ For information on changing the icon graphic for calendar events, see [[customiz
 
 The selected field values will now trigger the icons that display in calendar events.
 
-## Related
-
-- [[calendar-event-icons|Calendar event icons in Dispatcher Workspace]]
-- [[customize-icons-dispatcher-wrkspc|Change the graphic for calendar event icons]]
-- [[dispatcher-activities|Dispatcher Workspace]]

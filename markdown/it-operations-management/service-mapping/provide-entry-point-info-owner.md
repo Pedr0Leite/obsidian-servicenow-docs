@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Provide entry points for mapping an application service
 
-As an application service owner you may receive a request for information about entry points in an email notification. Provide information about entry points to enable administrators to start [[r-discovery|discovery]] of an application service.
+As an application service owner you may receive a request for information about entry points in an email notification. Provide information about entry points to enable administrators to start discovery of an application service.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ If information about service instance entry points is missing, an administrator 
 
 2.  Alternatively, open to the **Questionnaire** page from the list of tasks assigned to you.
 
-    1.  Navigate to **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Administration** &gt; **My Tasks**.
+    1.  Navigate to **Service Mapping** &gt; **Administration** &gt; **My Tasks**.
 
     2.  Sort the list of service process tasks as required.
 
@@ -59,7 +59,3 @@ If information about service instance entry points is missing, an administrator 
 
 **Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

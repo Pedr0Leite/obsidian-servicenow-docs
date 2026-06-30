@@ -14,7 +14,7 @@ breadcrumb: [Demand Management, Project Portfolio Management, Strategic Portfoli
 
 # Exploring Demand Management
 
-Learn more about [[c_DemandManagement|Demand Management]] and its process flow, and reviewing its benefits to your organization.
+Learn more about Demand Management and its process flow, and reviewing its benefits to your organization.
 
 ## Demand Management overview
 
@@ -26,7 +26,7 @@ Demands are available in the Next Experience for Demand Management. For more inf
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -44,27 +44,16 @@ The demand states are Draft, Submitted, Screening, Approved, and Completed. For 
 |View and assess ideas that have been approved to be demands in a central location.|[Demand workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbench.md)|Demand Manager|
 |Track the progress of an accepted idea as it moves through the demand life cycle \(idea to a demand, to a project, enhancement, change, or defect\).| | |
 |Manage and track the financials of your demands in corporate, regional currency, or the same currency that you want to use for managing the project|[Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)|Demand Manager|
-|Add users to the stakeholder registry so that demand and [[c_ProjectApplicationOverview|project management]] can automatically populate the stakeholder list when a user creates a demand or project.|[Populate the stakeholder registry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_PopulatingTheStakeholderRegistry.md)|Demand Manager|
+|Add users to the stakeholder registry so that demand and project management can automatically populate the stakeholder list when a user creates a demand or project.|[Populate the stakeholder registry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_PopulatingTheStakeholderRegistry.md)|Demand Manager|
 
 -   **[Demand Management process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_DemandManagementProcessFlow.md)**  
-The [[r_DemandManagementProcessFlow|Demand Management process flow]] consists of the following tasks.
+The Demand Management process flow consists of the following tasks.
 -   **[Demand workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbench.md)**  
-The [[c_DemandWorkbench|demand workbench]] provides a central location for viewing and assessing business demands.
+The demand workbench provides a central location for viewing and assessing business demands.
 -   **[Predictive Intelligence for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/predictive-intelligence-for-demand.md)**  
-The [[predictive-intelligence-for-demand|Predictive Intelligence for Demand Management]] capability uses machine-learning algorithms to search and display similar demands while creating a demand in the [[demand-form|Demand form]].
+The Predictive Intelligence for Demand Management capability uses machine-learning algorithms to search and display similar demands while creating a demand in the Demand form.
 -   **[Now Assist skills for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/similar-demand-identification-using-now-assist.md)**  
-[[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] provides AI-powered skills for demand records that help you quickly understand demand details and identify related records. These skills improve planning efficiency and support informed decision-making.
+Now Assist for Strategic Portfolio Management \(SPM\) provides AI-powered skills for demand records that help you quickly understand demand details and identify related records. These skills improve planning efficiency and support informed decision-making.
 
 **Parent Topic:**[Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[r_DemandManagementProcessFlow|Demand Management process flow]]
-- [[c_DemandWorkbench|Demand workbench]]
-- [[predictive-intelligence-for-demand|Predictive Intelligence for Demand Management]]
-- [[demand-form|Demand form]]
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]

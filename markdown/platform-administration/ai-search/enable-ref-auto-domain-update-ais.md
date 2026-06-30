@@ -26,18 +26,18 @@ This topic provides steps for configuring a **dot\_walk\_fields** field setting 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Index** &gt; **Indexed Sources**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
 2.  Open the indexed source that you want to define a field setting for.
 
 3.  In the Field Settings &amp; Mapping related list, select **New**.
 
-4.  On the [[field-setting-form-ais|Field Setting form]], enter the following field values.
+4.  On the Field Setting form, enter the following field values.
 
     |Field|Value|
     |-----|-----|
     |Attribute|dot\_walk\_fields|
-    |Field|&lt;[[reference-email-admin|reference]] field&gt;|
+    |Field|&lt;reference field&gt;|
     |Value|sys\_domain,sys\_domain\_path|
 
     For a description of the field values, see [Field Setting form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-setting-form-ais.md).
@@ -55,8 +55,3 @@ To make the new **dot\_walk\_fields** attribute take effect, perform a full tabl
 
 **Parent Topic:**[Domain separation and AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-domain-separation.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[field-setting-form-ais|Field Setting form]]
-- [[reference-email-admin|Reference]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile UI** &gt; **[[mobile-ui-rules|Mobile UI Rules]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile UI** &gt; **Mobile UI Rules**.
 
 2.  In the **Mobile UI Rules** list, select **New**.
 
@@ -70,7 +70,7 @@ Parent Table
 
 </td><td>
 
-The parent table that the mobile UI rule applies to. Select either:-   **[[parameter-input-screen|Input Form Screen]]**
+The parent table that the mobile UI rule applies to. Select either:-   **Input Form Screen**
 -   **Mobile View**
 
 
@@ -128,7 +128,3 @@ When this field is selected, the mobile UI rule actions are reverse if the condi
 
 After creating your mobile UI rule, you must create mobile UI rule actions to execute when your rule is used.
 
-## Related
-
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[parameter-input-screen|Input form screen]]

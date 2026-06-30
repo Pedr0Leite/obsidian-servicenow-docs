@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with Workday Learning, Integra
 
 # View user activity for Workday Learning
 
-All user [[activity-lxp|activity]] data is shipped along with [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]. However, if you want to view or edit the user activity details, you can edit the respective subflow and then edit the respective record.
+All user activity data is shipped along with HR Service Delivery Integration with Workday Learning. However, if you want to view or edit the user activity details, you can edit the respective subflow and then edit the respective record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lrn\_workday.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workday [[exploring-learning-exp|Learning]]** &gt; **Data Sources** &gt; **Sync User Activity**.
+1.  Navigate to **All** &gt; **Workday Learning** &gt; **Data Sources** &gt; **Sync User Activity**.
 
 2.  Select **Sync User Activity for Workday Learning**.
 
@@ -40,11 +40,5 @@ Role required: sn\_lrn\_workday.admin
 
 [Use transform maps]()
 
-[Import set tables in [[w-integration|HR Service Delivery Integration with Workday]] Learning]()
+[Import set tables in HR Service Delivery Integration with Workday Learning]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]
-- [[exploring-learning-exp|Learning]]
-- [[w-integration|HR Service Delivery Integration with Workday]]

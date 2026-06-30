@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Contractor Service Center
 
-The ServiceNow® Contractor Service Center enables the contract workers to self-service when coming on site to provide documentation, perform tasks, and report any [[health-safety-overview|health and safety]] issues or concerns when on site.
+The ServiceNow® Contractor Service Center enables the contract workers to self-service when coming on site to provide documentation, perform tasks, and report any health and safety issues or concerns when on site.
 
 ## Get started
 
@@ -32,7 +32,7 @@ Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Set up Contractor Service Cen
 
 </td><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.
+Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -41,7 +41,3 @@ Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Set up Contractor Service Cen
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

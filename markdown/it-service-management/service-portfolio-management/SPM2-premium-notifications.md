@@ -14,7 +14,7 @@ breadcrumb: [Use, Service Portfolio Management, IT Service Management]
 
 # Service Portfolio Management Premium notifications
 
-Notifications are added with [[SPM2-landing-page|Service Portfolio Management]] Premium to manage your service offering to catalog item relationships.
+Notifications are added with Service Portfolio Management Premium to manage your service offering to catalog item relationships.
 
 Service Portfolio Management Premium includes several email notifications that alert catalog admins when a service offering associated with a catalog item is retired or when a new catalog item has been created from a service offering.
 
@@ -49,6 +49,3 @@ Sends an email to a specified user group when a new catalog item has been create
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

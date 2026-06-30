@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Incident Management, Health and Safety
 
 # Components installed with Health and Safety Incident Management
 
-Several types of components are installed with installation of the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they aren’t already installed.
+Several types of components are installed with installation of the Health and Safety Incident Management application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they aren’t already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -30,11 +30,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
@@ -44,11 +44,11 @@ Health and Safety Incident Management PA Content Pack
 
 </td><td>
 
-Generates the safety frequency rate metrics on the [[health-safety-core-workspace|Health and Safety Workspace]] landing page.
+Generates the safety frequency rate metrics on the Health and Safety Workspace landing page.
 
 </td></tr><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
@@ -316,11 +316,3 @@ Stores all logged injuries and illness records. Information tracked in this tabl
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Visual Task Boards reference, Visual Task Boards, Configure UIs and
 
 # Supported browsers for Visual Task Boards
 
-The system supports [[c_VisualTaskBoards|Visual Task Boards]] on most modern browsers.
+The system supports Visual Task Boards on most modern browsers.
 
 ## Supported browsers
 
@@ -23,7 +23,7 @@ The system supports [[c_VisualTaskBoards|Visual Task Boards]] on most modern bro
 -   Safari version 12
 -   Access Visual Task Boards on your mobile device using either a browser or the native mobile app. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
-For more information, see [[browser-support|Browser support]].
+For more information, see [Browser support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/browser-support.md).
 
 ## Scripting support
 
@@ -31,7 +31,3 @@ Visual task boards do not interact with client scripts. Use a UI policy or a dat
 
 **Parent Topic:**[Visual Task Boards reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/vis-task-boards-ref.md)
 
-## Related
-
-- [[browser-support|Browser support]]
-- [[c_VisualTaskBoards|Visual Task Boards]]

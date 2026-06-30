@@ -18,11 +18,11 @@ Enroll in a course collection to pursue courses that can enhance your skills.
 
 ## Before you begin
 
-Role required: [[exploring-learning-exp|learning]].user
+Role required: learning.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]** &gt; **[[discover-lxp|Discover]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning** &gt; **Discover**.
 
 2.  Select a course collection or path that you want to pursue.
 
@@ -60,9 +60,3 @@ Role required: [[exploring-learning-exp|learning]].user
 
 [Skill sensing for learning content]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]
-- [[discover-lxp|Discover]]

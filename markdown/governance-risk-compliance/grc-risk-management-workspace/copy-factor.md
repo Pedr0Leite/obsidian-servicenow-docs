@@ -22,7 +22,7 @@ Role required: sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]**
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration**
 
 2.  Open the factor you want to copy.
 
@@ -35,7 +35,3 @@ A copy of the factor is created.
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]

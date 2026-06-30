@@ -12,7 +12,7 @@ breadcrumb: [Configure, OT Manager Foundation, Operational Technology]
 
 # Edit trigger words for OT CMDB search
 
-Edit the trigger words used in the [[operational-technology-overview|Operational Technology]] \(OT\) Configuration Management Database \(CMDB\) search feature to optimize search results specific to OT.
+Edit the trigger words used in the Operational Technology \(OT\) Configuration Management Database \(CMDB\) search feature to optimize search results specific to OT.
 
 ## Before you begin
 
@@ -59,9 +59,5 @@ Optionally, you can update the `sn_mfg_common.ot_cmdb_search_trigger_words` syst
 3.  Select **Save**.
 
 
-**Parent Topic:**[[configuring-na-otm|Configuring the OT Manager Foundation]]
+**Parent Topic:**[Configuring the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
-## Related
-
-- [[configuring-na-otm|Configuring the OT Manager Foundation]]
-- [[operational-technology-overview|Operational Technology]]

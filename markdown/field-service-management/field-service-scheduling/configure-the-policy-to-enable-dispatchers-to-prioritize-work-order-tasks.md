@@ -22,7 +22,7 @@ Role required: wm\_admin
 
 ## About this task
 
-By completing this task, you are allowing dispatchers to add importance to a work order task. You must incorporate three specific optimization features into the relevant policy: Maximize higher value task assignments, Minimize task time penalties \(fixed\), and Minimize task time penalties \(hourly\). This allows [[schedule-optimization|Schedule Optimization]] to take these values and penalties into account during processing.
+By completing this task, you are allowing dispatchers to add importance to a work order task. You must incorporate three specific optimization features into the relevant policy: Maximize higher value task assignments, Minimize task time penalties \(fixed\), and Minimize task time penalties \(hourly\). This allows Schedule Optimization to take these values and penalties into account during processing.
 
 ## Procedure
 
@@ -41,6 +41,4 @@ By completing this task, you are allowing dispatchers to add importance to a wor
 3.  Minimize task time penalties \(hourly\)
 7.  Select **Submit**.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]

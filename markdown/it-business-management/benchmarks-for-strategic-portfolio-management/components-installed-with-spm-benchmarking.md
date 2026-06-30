@@ -14,7 +14,7 @@ breadcrumb: [SPM Benchmarks reference, SPM Benchmarks, Strategic Portfolio Manag
 
 # Components installed with SPM Benchmarking
 
-Several types of components are installed with activation of the [[benchmarks-for-spm|SPM Benchmarks]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the SPM Benchmarks plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -83,7 +83,7 @@ SPM Benchmark Agile Data Collection
 
 </td><td>
 
-Collects scores for indicators related to [[agile-landing-page|Agile Development 2.0]], as specified in the **Relative start** and **Relative end** fields. The collection time is for a month based on the GMT timezone.
+Collects scores for indicators related to Agile Development 2.0, as specified in the **Relative start** and **Relative end** fields. The collection time is for a month based on the GMT timezone.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,3 @@ Collects scores for indicators related to APW and PPM, as specified in the **Rel
 </td></tr></tbody>
 </table>**Parent Topic:**[SPM Benchmarks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-reference.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[agile-landing-page|Agile Development 2.0]]

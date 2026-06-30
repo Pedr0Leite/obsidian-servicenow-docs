@@ -22,7 +22,7 @@ A worknote is posted with details of the ticket that triggered the security inci
 
 select the ticket link to navigate to the internal Secureworks Ticket to Task record. The **Click here** hyperlink takes you to the Secureworks CTP dashboard where you can view the ticket details.
 
-If you had selected the **Log work note for new ticket** option in the Ticket Aggregation Criteria as described in the Create Profile: [[mapping-logrhythm|Mapping]] page, a worknote is posted when the ticket is aggregated.
+If you had selected the **Log work note for new ticket** option in the Ticket Aggregation Criteria as described in the Create Profile: Mapping page, a worknote is posted when the ticket is aggregated.
 
 ## Aggregated tickets
 
@@ -42,6 +42,3 @@ Select the **Fetch Recent Secureworks Events** option under the **Related Links*
 
 By default, a maximum number of 50 events will be displayed. You can modify this default setting in the Secureworks Integration Settings.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

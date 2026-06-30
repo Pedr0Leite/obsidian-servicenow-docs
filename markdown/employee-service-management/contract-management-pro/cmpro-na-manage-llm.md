@@ -25,7 +25,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
 
-In [[cncore-now-assit-landing|Now Assist in Contract Management]], you can select the LLM provider at the use case level. This selected LLM is applicable only for the use case and overrides the LLM selected at the skill level.
+In Now Assist in Contract Management, you can select the LLM provider at the use case level. This selected LLM is applicable only for the use case and overrides the LLM selected at the skill level.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ In [[cncore-now-assit-landing|Now Assist in Contract Management]], you can selec
 
 3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(\[Omitted image "cmpro-na-three-dot-icon.png"\] Alt text: Options menu icon.\).
 
-    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Now Assist skills in [[cncore-cmpro-landing-page|Contract Management Pro]].
+    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Now Assist skills in Contract Management Pro.
 
 4.  In the skill guided setup, select **Use cases**.
 
@@ -85,7 +85,3 @@ The LLM provider is set for the use case and is used for contract analysis or me
 
 [Create use cases for contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

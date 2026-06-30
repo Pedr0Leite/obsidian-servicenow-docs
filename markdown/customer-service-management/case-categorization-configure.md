@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Ensure that your instance is set up for Predictive [[intelligence-csm|Intelligence]] \(PI\).
+Ensure that your instance is set up for Predictive Intelligence \(PI\).
 
 </td><td>
 
@@ -32,17 +32,17 @@ Predictive Intelligence is a ServiceNow platform feature that provides a layer o
 
 </td></tr><tr><td>
 
-Activate the [[csm-task-intelligence|Task Intelligence for Customer Service]] application \(com.snc.csm\_ml\_task\).
+Activate the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\).
 
 </td><td>
 
 The Task Intelligence for Customer Service application enables customers to create and train categorization machine learning models. This application automatically activates the following plugins:
 
--   Predictive Intelligence for [[c_CustomerServiceManagement|Customer Service Management]] \(com.snc.csm\_ml\)
+-   Predictive Intelligence for Customer Service Management \(com.snc.csm\_ml\)
 -   Customer Service \(com.sn\_customerservice\)
 -   Skills Management \(com.snc.skills\_management\)
 -   Dynamic Translation \(com.glide.dynamic\_translation\)
--   ServiceNow [[case-language-detection|Language Detection]] Service Spoke \(com.glide.language\_detection\_spoke\)
+-   ServiceNow Language Detection Service Spoke \(com.glide.language\_detection\_spoke\)
 -   Predictive Intelligence - Task Intelligence \(com.glide.platform\_ml\_task\)
 -   Admin Center for Task Intelligence \(com.sn\_ti\_admin\)
 
@@ -72,19 +72,11 @@ Set up and deploy at least one categorization model.
 
 </td><td>
 
-For details, see [[csm-task-intel-create-cat-solution|Create a model to predict record fields]].
+For details, see [Create a model to predict record fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-cat-solution.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[[case-categorization-overview|Record categorization]]
+[Record categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-overview.md)
 
-## Related
-
-- [[csm-task-intel-create-cat-solution|Create a model to predict record fields]]
-- [[case-categorization-overview|Record categorization]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-language-detection|Language detection]]

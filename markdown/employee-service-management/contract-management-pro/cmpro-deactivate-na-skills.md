@@ -15,7 +15,7 @@ breadcrumb: [Manage skills, Now Assist in CM Pro, Contract Management Pro, Legal
 
 # Deactivate skills for Now Assist in Contract Management
 
-Deactivate the skills in [[cncore-now-assit-landing|Now Assist in Contract Management]] when they are not in use.
+Deactivate the skills in Now Assist in Contract Management when they are not in use.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
 2.  Navigate to **Employee** &gt; **CM Pro**.
 
-3.  On the [[cncore-cmpro-landing-page|Contract Management Pro]] card, select **View details**.
+3.  On the Contract Management Pro card, select **View details**.
 
 4.  On the tile of your skill that you want to deactivate, select **Deactivate skill** in the options menu \(\[Omitted image "cmpro-na-three-dot-icon.png"\] Alt text: Options menu icon.\).
 
@@ -55,7 +55,3 @@ To reactivate the skill, select **Activate skill**. For more information, see [C
 
 [Manage expected response mappings for contract analysis]()
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

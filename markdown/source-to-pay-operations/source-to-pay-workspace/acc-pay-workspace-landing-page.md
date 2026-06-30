@@ -15,13 +15,13 @@ breadcrumb: [Source-to-Pay Workspace landing page, Explore, Workspace, Source-to
 
 # APO landing page
 
-The [[purch-order-mgmt-ws|Source-to-Pay Workspace]] provides a centralized view of information and role-specific tasks, enabling quick access to relevant information.
+The Source-to-Pay Workspace provides a centralized view of information and role-specific tasks, enabling quick access to relevant information.
 
-Open the Source-to-Pay Workspace by navigating to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+Open the Source-to-Pay Workspace by navigating to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 When you open the Source-to-Pay Workspace, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon\) to return to the home page.
 
-As an agent, you can view and manage to-do tasks assigned to you, open any unassigned cases, and cases by priority. As an Accounts Payable Specialist, you can view and manage tasks assigned to you, open any unassigned cases, cases by priority, [[work-with-invoice-exceptions|invoice exceptions]], and [[invoices|invoices]] at risk of being paid late.
+As an agent, you can view and manage to-do tasks assigned to you, open any unassigned cases, and cases by priority. As an Accounts Payable Specialist, you can view and manage tasks assigned to you, open any unassigned cases, cases by priority, invoice exceptions, and invoices at risk of being paid late.
 
 ## Landing page view for an Accounts Payable Specialist
 
@@ -63,7 +63,7 @@ Review your work
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -75,7 +75,7 @@ Filter by supplier to view information for specific suppliers in the widgets of 
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -261,7 +261,7 @@ Widget
 
 </td><td>
 
-Displays the number of [[invoice-tasks|invoice tasks]] in Open status.Select **View all** to view a list of all the invoices that are in open state.
+Displays the number of invoice tasks in Open status.Select **View all** to view a list of all the invoices that are in open state.
 
 </td></tr><tr><td>
 
@@ -319,12 +319,3 @@ View the list of invoice tasks that are assigned to the assignment group of the 
 
 [POM landing page]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]
-- [[invoice-tasks|Invoice tasks]]

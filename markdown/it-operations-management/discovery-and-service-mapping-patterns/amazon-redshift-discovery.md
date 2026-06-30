@@ -15,7 +15,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Amazon Redshift discovery with Patterns
 
-The ServiceNow® [[r-discovery|Discovery]] application uses the Amazon AWS Redshift pattern to find Redshift data warehouse services available on Amazon Web Services \(AWS\). Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow® Discovery application uses the Amazon AWS Redshift pattern to find Redshift data warehouse services available on Amazon Web Services \(AWS\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Redshift runs as a cluster of compute nodes with an additional leader node. The leader node acts as an interface with client applications and coordinates communication between the compute nodes.
 
@@ -151,7 +151,3 @@ The Amazon AWS Redshift pattern collects tags and populates them in the Key Valu
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

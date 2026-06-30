@@ -39,7 +39,7 @@ Role required: sn\_wsd\_msaddin.admin
 
 ## Result
 
-The [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] is installed. The add-in appears while scheduling a meeting in the Outlook.
+The Workplace Reservations for Microsoft Outlook Add-in is installed. The add-in appears while scheduling a meeting in the Outlook.
 
 **Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/configure-workplace-rsv-for-outlook-addin.md)
 
@@ -52,6 +52,3 @@ The [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft 
 
 [Upload the manifest file in Microsoft Office 365]()
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]

@@ -26,7 +26,7 @@ Role required: sn\_wsd\_wc.admin
 
 2.  Open the data source form by selecting **Create New**.
 
-3.  Import the badging data record of employees to [[workplace-connectors-landing-page|Workplace Connectors]] by selecting the imported file \(for example, the CSV badging file\).
+3.  Import the badging data record of employees to Workplace Connectors by selecting the imported file \(for example, the CSV badging file\).
 
 4.  On the form, fill in the fields.
 
@@ -119,7 +119,7 @@ Data Source
 
 </td><td>
 
-The source data table \(Badging Data table\) and the target table \([[employee-attendance|Employee Attendance Data]] table\).
+The source data table \(Badging Data table\) and the target table \(Employee Attendance Data table\).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,3 @@ The time at which the scheduled job should be imported. For example: 10:30:00
 
 **Next topic:**[Create a badging data provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-connector-badging-providers.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[employee-attendance|Employee attendance data]]

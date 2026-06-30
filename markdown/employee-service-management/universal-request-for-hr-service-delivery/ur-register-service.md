@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create your service for Universal Request
 
-Register your service name for your service specific table and associate it with a service set \(department\) to use the [[ur-landing-limitedaccess|Universal Request]] capabilities for a specific service in your organization.
+Register your service name for your service specific table and associate it with a service set \(department\) to use the Universal Request capabilities for a specific service in your organization.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Service categorizes the application according to the area of the work within the
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

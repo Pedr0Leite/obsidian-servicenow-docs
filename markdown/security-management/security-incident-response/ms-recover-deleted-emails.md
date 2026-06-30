@@ -38,7 +38,7 @@ Role required: sn\_si.analyst in the ServiceNow AI Platform for completing a suc
 
 1.  To enable the email recovery option, follow these steps.
 
-    1.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Configurations**.
+    1.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Configurations**.
 
     2.  Locate the Microsoft Exchange Online tile.
 
@@ -69,6 +69,3 @@ Role required: sn\_si.analyst in the ServiceNow AI Platform for completing a suc
 
 **Next topic:**[Edit security tags for the Microsoft Exchange Online integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-edit-tags.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Create enterprise assets
 
-[[t_CreatingAssets|Create assets]] for specific [[model-hierarchy|model categories]] in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+Create assets for specific model categories in the Enterprise Asset Management application.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 Enterprise asset classes have a one to one mapping to product model classes and model categories​. Enterprise asset classes are mapped to existing CI classes where applicable.
 
-There are two kinds of assets: [[c_ReceiveAConsumableAsset|consumable assets]] and serialized assets. Consumable assets don’t have an asset tag or a serial number.
+There are two kinds of assets: consumable assets and serialized assets. Consumable assets don’t have an asset tag or a serial number.
 
-**Note:** This topic provides details on how to create enterprise, construction, facility, industrial, medical, retail, tactical equipment, transportation, and wearable assets. For details on how to [[create-pallet-assets|create pallet assets]], see [Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md).
+**Note:** This topic provides details on how to create enterprise, construction, facility, industrial, medical, retail, tactical equipment, transportation, and wearable assets. For details on how to create pallet assets, see [Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md).
 
 -   **Unique identifiers for assets**
 
@@ -38,9 +38,9 @@ There are two kinds of assets: [[c_ReceiveAConsumableAsset|consumable assets]] a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Enterprise asset estate**.
 
-2.  Select the **All enterprise** tab to select from all the Enterprise Asset Management [[c_Models|models]] or select a specific asset tab such as **Facility**, **Industrial**, **Medical**, **Retail**, **Transportation**, and **Consumable**.
+2.  Select the **All enterprise** tab to select from all the Enterprise Asset Management models or select a specific asset tab such as **Facility**, **Industrial**, **Medical**, **Retail**, **Transportation**, and **Consumable**.
 
 3.  Select **New**.
 
@@ -93,7 +93,7 @@ The model category that the asset belongs to. Based on the model category select
 
 7.  Select **Save**.
 
-    The asset is created along with a Configuration Item \(CI\) for this asset. Child assets are automatically created for the newly created asset. You can perform additional configuration on the asset by entering details in the other tabs such as **Child Assets**, **[[c_Contracts|Contracts]]**, **Expense Lines**, and **All Related Tasks**.
+    The asset is created along with a Configuration Item \(CI\) for this asset. Child assets are automatically created for the newly created asset. You can perform additional configuration on the asset by entering details in the other tabs such as **Child Assets**, **Contracts**, **Expense Lines**, and **All Related Tasks**.
 
     **Note:** The All Related Tasks tab shows a list of the related tasks such as Disposal task, Resale task, Recall task, Work order task, and Move task associated with the asset. The Recall task and the Work order task associated with the child assets are also shown in the All Related Tasks tab.
 
@@ -106,13 +106,3 @@ The model category that the asset belongs to. Based on the model category select
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[t_CreatingAssets|Create assets]]
-- [[model-hierarchy|Model categories]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[create-pallet-assets|Create pallet assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

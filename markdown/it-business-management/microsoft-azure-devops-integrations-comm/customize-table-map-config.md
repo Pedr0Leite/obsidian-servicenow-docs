@@ -14,7 +14,7 @@ breadcrumb: [Customizing your map configuration for Azure DevOps integration, Se
 
 # Customize your table map configuration
 
-Configure table maps between tasks, iterations, and work areas of Azure DevOps and tables in [[agile-landing-page|Agile Development 2.0]] and configure its fields for Azure DevOps projects of a process type.
+Configure table maps between tasks, iterations, and work areas of Azure DevOps and tables in Agile Development 2.0 and configure its fields for Azure DevOps projects of a process type.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Configure table maps between tasks, iterations, and work areas of Azure DevOps a
 
 **Parent Topic:**[Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/customizing-map-config-agile-azure.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

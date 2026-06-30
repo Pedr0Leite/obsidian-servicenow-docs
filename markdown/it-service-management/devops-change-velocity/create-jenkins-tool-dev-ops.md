@@ -98,7 +98,7 @@ Jenkins password, access token or the API token you generate.**Note:** To genera
     -   Other DevOps roles: Can view the tool.
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 4.  Click **Discover** to discover the existing orchestration tasks \(Jenkins stages\) and pipelines.
 
@@ -113,6 +113,3 @@ Jenkins password, access token or the API token you generate.**Note:** To genera
 
 **Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

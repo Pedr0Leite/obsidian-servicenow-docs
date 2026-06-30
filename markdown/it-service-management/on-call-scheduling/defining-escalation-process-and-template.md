@@ -26,15 +26,11 @@ As rota\_admin you can perform these tasks for your user groups.
 -   **[Escalations in On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/escalations-oncall.md)**  
 An escalation is a mechanism that ensures that important issues are addressed in a timely manner.
 -   **[Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/roles-assigning-oncall.md)**  
-Admins can assign [[c_OnCallScheduling|On-Call Scheduling]] roles to user groups and to individual users based on user activities and responsibilities.
+Admins can assign On-Call Scheduling roles to user groups and to individual users based on user activities and responsibilities.
 -   **[Create a shift template to simplify configuring shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-shift-template.md)**  
-You can predefine sets of shift [[settings-mobile|settings]] using shift templates. Shift templates are a subset of group templates.
+You can predefine sets of shift settings using shift templates. Shift templates are a subset of group templates.
 -   **[Create a group template to simplify configuring schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-group-template.md)**  
 Create templates to help your group create on-call schedules. For example, use the 24/7 template, which is available in the on-call demo data, to create on-call schedules for continuous service.
 
 **Parent Topic:**[On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

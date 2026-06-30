@@ -12,7 +12,7 @@ breadcrumb: [Track In-store operations cases and tasks, Manage store plans, Reta
 
 # Track an In-store operations task on Retail mobile app
 
-Monitor the progress of an In-store operations task on [[rahi-retail-operations-overview|Retail]] mobile app.
+Monitor the progress of an In-store operations task on Retail mobile app.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_rtl\_instore\_ops.manager
 
 1.  On the Retail mobile app, select **My Store** &gt; **All cases** from the menu bar.
 
-2.  Select an [[rahi-retail-retail-in-store-operations|In-store operations case]] to monitor.
+2.  Select an In-store operations case to monitor.
 
 3.  Navigate to the **Tasks** related list.
 
@@ -31,10 +31,5 @@ Role required: sn\_rtl\_instore\_ops.manager
 5.  Select a task to open the **Details** view and take action as needed.
 
 
-**Parent Topic:**[[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
+**Parent Topic:**[Track In-store operations cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-in-store-ops-track.md)
 
-## Related
-
-- [[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-in-store-operations|In-store operations case]]

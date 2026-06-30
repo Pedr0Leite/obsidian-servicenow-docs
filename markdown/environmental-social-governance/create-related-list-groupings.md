@@ -179,8 +179,5 @@ The path of the UX screen. This option appears only when the **Type** field cont
 
 The following figure shows grouped related lists.\[Omitted image "related-list-groups.png"\] Alt text: How related lists are grouped on a form after configuration.
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
-## Related
-
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]

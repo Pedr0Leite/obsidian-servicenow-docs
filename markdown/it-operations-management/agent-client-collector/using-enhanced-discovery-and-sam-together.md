@@ -15,9 +15,9 @@ breadcrumb: [ACC Discovery, ACC deployment - servers, Configuring Agent Client C
 
 # Using push-based Discovery and SAM together
 
-[[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) collects installed software data for use cases for Software Asset Management \(SAM\), when the SAM plugin is installed. Using push-based Discovery and SAM together can help optimize software data collection with SAM basic metering and SAM total usage metrics.
+Agent Client Collector for Visibility - Content \(ACC-VC\) collects installed software data for use cases for Software Asset Management \(SAM\), when the SAM plugin is installed. Using push-based Discovery and SAM together can help optimize software data collection with SAM basic metering and SAM total usage metrics.
 
-ACC-VC can capture the last accessed time for the software or applications that are installed on the target via push-based [[r-discovery|Discovery]]. This information along with the target CI reference, is added to the Software Update \[samp\_sw\_usage\] table.
+ACC-VC can capture the last accessed time for the software or applications that are installed on the target via push-based Discovery. This information along with the target CI reference, is added to the Software Update \[samp\_sw\_usage\] table.
 
 SAM Basic metering and SAM total usage metrics are supported for both Windows and macOS.
 
@@ -55,7 +55,7 @@ The software usage records are domain separated. The records are populated with 
     -   Base: Hexadecimal
     -   Value:1
 
-For the list of software in the payload, query the [[c_Software|Software Discovery]] Model \[cmdb\_sam\_sw\_discovery\_model\] table to fetch the corresponding product and publisher. Once the product is fetched, check if the reclamation rule is enabled for that product to persist the last usage information in the Software Usage \[samp\_sw\_usage\] table. See the flowchart for details.
+For the list of software in the payload, query the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table to fetch the corresponding product and publisher. Once the product is fetched, check if the reclamation rule is enabled for that product to persist the last usage information in the Software Usage \[samp\_sw\_usage\] table. See the flowchart for details.
 
 \[Omitted image "sam\_flow.png"\] Alt text: Describes the flow how SAM works with ACC-VC for basic metering
 
@@ -176,8 +176,3 @@ Starting in ACC-VC version 2.3.0, edition information is supported for Adobe Acr
 
 [Configure Osqueryd logs for SAM total usage metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-osquery-logs-for-sam-total-usage-metrics.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[c_Software|Software discovery]]

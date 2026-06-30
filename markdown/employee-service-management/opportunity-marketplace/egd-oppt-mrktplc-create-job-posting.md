@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-The Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] is contained in the [[hiring-core|Hiring Core]] application. The Job Posting table stores and tracks [[hiring-tab-concept|hiring]] information that you create or received from third party talent acquisition platforms for your hiring requirements.
+The Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] is contained in the Hiring Core application. The Job Posting table stores and tracks hiring information that you create or received from third party talent acquisition platforms for your hiring requirements.
 
 You must create job postings from the Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] table. You must have one of the roles listed in Role required.
 
@@ -169,7 +169,3 @@ An estimate of the amount of time travel required for this job.
 </table>
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]

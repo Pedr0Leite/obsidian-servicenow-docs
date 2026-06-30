@@ -14,7 +14,7 @@ breadcrumb: [PhishTank integration, Security Incident Response integrations, Sec
 
 # \(Optional\) Manually attach an observable for PhishTank
 
-You can manually attach [[c_Observables|observables]] to a security incident. You manually attach observables when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
+You can manually attach observables to a security incident. You manually attach observables when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: sn\_si.analyst
 
 8.  Select the **Show All Related Lists** related link at the bottom of the security incident.
 
-9.  Select the **[[tisc-threat-lookup|Threat Lookup]] Results** tab to view the results.
+9.  Select the **Threat Lookup Results** tab to view the results.
 
 10. In the **Observable** column, select the blue information icon next to a given observable for more information and raw data.
 
@@ -59,7 +59,3 @@ Review the work notes for more information and how to proceed if you can't verif
 
 **Next topic:**[Proofpoint Integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/proofpoint-integration-secops-landing.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]

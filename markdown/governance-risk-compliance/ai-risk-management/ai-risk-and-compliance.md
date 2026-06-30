@@ -14,7 +14,7 @@ breadcrumb: [Governance, Risk, and Compliance]
 
 # AI Risk and Compliance
 
-The ServiceNow® AI Risk and Compliance application, along with the ServiceNow® AI Control Tower, enables the risk and compliance managers to ensure that the organizations comply with the regulations and policies with respect to their [[ai-system-airc|AI systems]].
+The ServiceNow® AI Risk and Compliance application, along with the ServiceNow® AI Control Tower, enables the risk and compliance managers to ensure that the organizations comply with the regulations and policies with respect to their AI systems.
 
 ## Get started
 
@@ -24,11 +24,11 @@ The ServiceNow® AI Risk and Compliance application, along with the ServiceNow®
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the assessments to manage the [[risk-assessments|risk assessments]] of your [[ai-assets-airc|AI assets]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configuring-ai-risk-and-compliance.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the assessments to manage the risk assessments of your AI assets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configuring-ai-risk-and-compliance.md)
 
 </td><td>
 
-[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how you can request AI systems, [[ai-model-airc|AI models]], [[dataset-airc|datasets]], and raise an AI case and an AI inquiry.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
+[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how you can request AI systems, AI models, datasets, and raise an AI case and an AI inquiry.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
 </td></tr><tr><td>
 
@@ -44,11 +44,3 @@ The ServiceNow® AI Risk and Compliance application, along with the ServiceNow®
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-system-airc|AI systems]]
-- [[risk-assessments|risk assessments]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

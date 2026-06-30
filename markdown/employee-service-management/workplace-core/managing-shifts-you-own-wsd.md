@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Managing workplace shifts that you own
 
-Review the workplace shifts that you own in [[workplace-safety-mgmt-hr|Workplace Core]] and update the shift details if necessary. You can also monitor the reservations and requests made for the workspaces associated with these shifts.
+Review the workplace shifts that you own in Workplace Core and update the shift details if necessary. You can also monitor the reservations and requests made for the workspaces associated with these shifts.
 
 -   **[Update details of the shifts that you own](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/update-shifts-you-own-wsd.md)**  
 Review and modify the details of the workplace shifts that you own in Workplace Core. You can modify the general shift details, and add or remove employees or workplaces associated with the shift.
@@ -64,6 +64,3 @@ Review the workplace reservations and the reservation requests made for the shif
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -18,7 +18,7 @@ Cascading enables values entered for variables in the initial order form to be p
 
 Cascading allows values entered for variables in the initial order form to be passed to the equivalent variables in the ordered catalog items. For example, a variable on the initial order form prompts the customer to enter a delivery location value. If you enable cascading, the value for this variable then populates delivery location fields on each of the ordered items.
 
-To enable cascading, select the **Cascade variables** [[check-box|check box]] when creating the order guide. Then, create variables on the catalog items that match the names of the corresponding variables in the order guide. When a customer places an order, the variables on the ordered items inherit the values of the identically named variables in the order guide.
+To enable cascading, select the **Cascade variables** check box when creating the order guide. Then, create variables on the catalog items that match the names of the corresponding variables in the order guide. When a customer places an order, the variables on the ordered items inherit the values of the identically named variables in the order guide.
 
 **Parent Topic:**[Create an order guide variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CreateVariables.md)
 
@@ -53,7 +53,7 @@ You can hide the duplicated variables on the **Choose Options** screens to keep 
 
 When cascading variables, you can hide the duplicated variables on the Choose Options screens, making these screens simpler.
 
-To hide duplicate variables on all screens after the initial Describe Needs screen in the [[service-catalog|Service Catalog]] Platform UI, run an **onLoad catalog client** script.
+To hide duplicate variables on all screens after the initial Describe Needs screen in the Service Catalog Platform UI, run an **onLoad catalog client** script.
 
 ```
 function onLoad(){
@@ -76,7 +76,3 @@ if(g_service_catalog.isOrderGuide())
   g_form.setDisplay(‘variable_name’, false);
 ```
 
-## Related
-
-- [[check-box|Check box]]
-- [[service-catalog|Service Catalog]]

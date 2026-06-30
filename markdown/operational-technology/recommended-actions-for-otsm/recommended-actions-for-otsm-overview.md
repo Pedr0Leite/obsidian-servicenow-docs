@@ -14,7 +14,7 @@ breadcrumb: [Explore, Recommended Actions for OTSM, Operational Technology]
 
 # Recommended Actions for Operational Technology Service Management \(OTSM\) overview
 
-[[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]] includes the following context components used to configure Recommended Actions for various records in the [[industrial-workspace-for-operational-technology|Industrial Workspace]], including [[operational-technology-overview|Operational Technology]] \(OT\) incidents.
+Recommended Actions for Operational Technology Service Management \(OTSM\) includes the following context components used to configure Recommended Actions for various records in the Industrial Workspace, including Operational Technology \(OT\) incidents.
 
 ## Contexts in Recommended Actions for OTSM
 
@@ -42,8 +42,3 @@ The OTSM context includes the **\[AIS\] Recommended Actions for OTSM Search Conf
 
 **Parent Topic:**[Exploring Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/exploring-recommended-actions-otsm.md)
 
-## Related
-
-- [[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

@@ -43,7 +43,7 @@ Role required: admin
 
 ## Result
 
-When the solution is complete, the similar demands appear in the Similar demands section on the [[demand-form|Demand form]].
+When the solution is complete, the similar demands appear in the Similar demands section on the Demand form.
 
 ## What to do next
 
@@ -74,7 +74,7 @@ When the solution is complete, the similar demands appear in the Similar demands
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
@@ -86,7 +86,3 @@ When the solution is complete, the similar demands appear in the Similar demands
 
 [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

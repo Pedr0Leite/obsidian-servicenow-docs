@@ -40,7 +40,7 @@ Regex
 
 </td><td>
 
-Java regular expression pattern that [[ia-ai-search|AI Search]] compares search queries to. When a search query matches this regular expression pattern, the custom matcher triggers and the search only returns [[hs-results|results]] from the specified **Table** and **Column**. This field is automatically set when you select **Generate Regex**.**Note:** For details on Java regular expression pattern syntax, see [the Javadoc for the java.regex.util.Pattern class](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html).
+Java regular expression pattern that AI Search compares search queries to. When a search query matches this regular expression pattern, the custom matcher triggers and the search only returns results from the specified **Table** and **Column**. This field is automatically set when you select **Generate Regex**.**Note:** For details on Java regular expression pattern syntax, see [the Javadoc for the java.regex.util.Pattern class](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,3 @@ Option to activate the custom matcher. To deactivate the matcher, clear the **Ac
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

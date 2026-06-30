@@ -18,10 +18,10 @@ Connect a button to a modal using UX add-on event mapping in order for an action
 
 Complete the following actions:
 
--   [[create-a-new-form-action|Create a form action]]
+-   [Create a form action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)
 -   Open your record page in UIB or create a page variant in UIB
--   [[design-a-page-variant-in-uib|Design your page variant in UIB]]
--   [[configure-a-page-variant-as-a-modal-in-uib|Configure your page variant as a modal in UIB]]
+-   [Design your page variant in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/design-a-page-variant-in-uib.md)
+-   [Configure your page variant as a modal in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-a-page-variant-as-a-modal-in-uib.md)
 
 Role required: admin
 
@@ -79,8 +79,4 @@ Role required: admin
 
 9.  Select **Submit**.
 
-## Related
 
-- [[create-a-new-form-action|Create a form action button]]
-- [[design-a-page-variant-in-uib|Design a page variant in UIB]]
-- [[configure-a-page-variant-as-a-modal-in-uib|Configure a page variant as a modal in UIB]]

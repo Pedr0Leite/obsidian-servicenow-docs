@@ -22,10 +22,10 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract in the **Draft** state and **Awaiting Review** substate.
 
@@ -37,7 +37,7 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 
 
 -   **[Approve or reject a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ApproveOrRejectAContract.md)**  
-If you are the contract manager, you can [[t_ApproveOrRejectAContract|approve or reject a contract]].
+If you are the contract manager, you can approve or reject a contract.
 -   **[View approval history on contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ObtainContractApproval.md)**  
 You can view the approval history for a contract in the Approval History related list on the Contract form.
 
@@ -60,8 +60,3 @@ You can view the approval history for a contract in the Approval History related
 
 [Contract approval flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/contract-approval-workflow.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[t_ApproveOrRejectAContract|Approve or reject a contract]]

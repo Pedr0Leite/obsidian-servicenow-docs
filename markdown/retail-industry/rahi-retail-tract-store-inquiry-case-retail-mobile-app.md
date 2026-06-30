@@ -12,7 +12,7 @@ breadcrumb: [Manage store inquiries, Retail]
 
 # Track a store inquiry case from a Retail mobile app
 
-Track the status of a [[rahi-retail-retail-store-services|store inquiry case]] from a mobile app. By tracking your case from a mobile app, you can immediately get visibility into the progress, issues, or status of your case without having to use a computer.
+Track the status of a store inquiry case from a mobile app. By tracking your case from a mobile app, you can immediately get visibility into the progress, issues, or status of your case without having to use a computer.
 
 ## Before you begin
 
@@ -20,15 +20,10 @@ Role required: Store associate or Store manager
 
 ## Procedure
 
-1.  On the [[rahi-retail-operations-overview|Retail]] mobile app, select **My Store** &gt; **All cases** from the menu bar.
+1.  On the Retail mobile app, select **My Store** &gt; **All cases** from the menu bar.
 
 2.  Select the case number to track the case.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-operations-overview|Retail]]

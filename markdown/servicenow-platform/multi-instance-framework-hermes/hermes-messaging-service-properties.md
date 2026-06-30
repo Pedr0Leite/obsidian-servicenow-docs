@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hermes Messaging Service, Manage service capabilities, E
 
 # Hermes Messaging Service system properties
 
-These system properties control the behavior of the [[hermes-messaging-service|Hermes Messaging Service]].
+These system properties control the behavior of the Hermes Messaging Service.
 
 To set Hermes Messaging Service system properties, navigate to the System Properties \[sys\_properties\] table and add the property.
 
@@ -64,6 +64,3 @@ By default, identifiers in the **Keys** column are displayed as strings in UTF8.
 
 [Hermes Messaging Service domain separation]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

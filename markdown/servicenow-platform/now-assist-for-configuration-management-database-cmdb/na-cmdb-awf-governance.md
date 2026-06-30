@@ -28,7 +28,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Provide advice on CMDB governance agentic workflow
 
-The [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] is the central repository of your organization's IT assets, services, and their relationships. The Provide advice on CMDB governance agentic workflow helps to promote CMDB accuracy, completeness, and integrity to maximize the value and performance of your ServiceNow AI Platform products. The results are faster incident resolution, enhanced conformance, and a reduced risk of service disruption. The agentic workflow evaluates CIs updated in the last 90 days.
+The Configuration Management Database \(CMDB\) is the central repository of your organization's IT assets, services, and their relationships. The Provide advice on CMDB governance agentic workflow helps to promote CMDB accuracy, completeness, and integrity to maximize the value and performance of your ServiceNow AI Platform products. The results are faster incident resolution, enhanced conformance, and a reduced risk of service disruption. The agentic workflow evaluates CIs updated in the last 90 days.
 
 The Provide advice on CMDB governance agentic workflow supports admins and owners with information on data health and ongoing guidance for governance as data models and integrations grow. The workflow calls on the following AI agents:
 
@@ -48,17 +48,17 @@ There might be AI agents installed with the Now Assist application that are not 
 
     The CMDB life cycle manager AI agent helps admins to confirm that CMDB life-cycle policies are in place for principal classes or for specified classes. For more information, see [Working with CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md).
 
--   **CMDB [[c_DataCertification|data certification]] and attestation manager AI agent**
+-   **CMDB data certification and attestation manager AI agent**
 
     The CMDB data certification and attestation manager AI agent retrieves the data certification and attestation policies for a CI class and for similar classes. It can also create a data certification and an attestation policy. For more information, see [Data Certification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_DataCertification.md).
 
--   **[[c_CMDBHealth|CMDB health]] metrics manager AI agent**
+-   **CMDB health metrics manager AI agent**
 
     The CMDB health metrics manager AI agent displays information on CMDB Health Dashboard jobs, health metrics status, and health scores. If the jobs are not configured, the workflow provides a link to the setup instructions. For more information, see [CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md).
 
 -   **CMDB data ownership manager AI agent**
 
-    The CMDB data ownership manager AI agent helps you to assess the quality of CI ownership data for a CI class to determine ownership, validate ownership, and evaluate ownership quality. You can validate fields that [[reference|reference]] sys\_user or sys\_user\_group like **Assigned To**, **Managed by Group** \(default\), **Support Group**, and so on. The agent answers the following questions:
+    The CMDB data ownership manager AI agent helps you to assess the quality of CI ownership data for a CI class to determine ownership, validate ownership, and evaluate ownership quality. You can validate fields that reference sys\_user or sys\_user\_group like **Assigned To**, **Managed by Group** \(default\), **Support Group**, and so on. The agent answers the following questions:
 
     -   Is CI ownership specified? Is the **Managed by group** attribute value set for the CI? Does it indicate an active and correctly configured record? The value of the system property for ownership is a default field for the evaluation. For the **Managed by group** CI attribute, you can specify the percentage values that classify the result as `Poor`, `Average`, or `Healthy`. For more information, see [Property settings for Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-data-fdn-properties.md).
     -   If you provide a user referencing value: Does the **User Referencing** value indicate an active record? This evaluation identifies CIs that have inactive users and CIs with no **User** value.
@@ -69,9 +69,3 @@ Work through the process of improving CMDB data accuracy, completeness, and heal
 
 **Parent Topic:**[Using agentic workflows in Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-using.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[c_DataCertification|Data Certification]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[reference|Reference]]

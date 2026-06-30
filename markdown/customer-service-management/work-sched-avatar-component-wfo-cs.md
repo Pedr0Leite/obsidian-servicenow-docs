@@ -75,7 +75,7 @@ In the configure tab, set the size, user name, and tooltip.1.  In the **Size** m
 
 In the configure tab, set the size, and items.1.  In the **Size** menu, select **Small**.
 2.  Hover over the **Items** field and select the Dynamic data binding icon \[Omitted image "dynamic-data-binding-icon.png"\] Alt text: Dynamic data binding icon.
-3.  In the Items field, enter `[[create-workscheduler-card-wfo-cs|{value: @state.cardProps.assignedTo}`
+3.  In the Items field, enter `[{value: @state.cardProps.assignedTo}`
 4.  Select **Save**.
 
 
@@ -83,8 +83,5 @@ In the configure tab, set the size, and items.1.  In the **Size** menu, select *
 </table>    Here's a demo on how to configure an avatar component for Work scheduler
 
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder]]
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md)
 
-## Related
-
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]

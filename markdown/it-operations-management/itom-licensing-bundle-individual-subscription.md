@@ -22,7 +22,7 @@ If your organization surpasses the allocated number of subscription units, the S
 
 If you purchased ITOM subscriptions as a bundle and also acquired a la carte subscriptions for an application included in the bundle, the licensing module deducts the consumed subscriptions from the bundle before subtracting from the separately purchased subscriptions.
 
-In the following example, an organization utilized all subscriptions allocated by the ITOM Pro bundle for [[itom-health-landing-page|ITOM AIOps]]. Subsequently, the licensing module deducted from the a la carte subscriptions for ITOM AIOps.
+In the following example, an organization utilized all subscriptions allocated by the ITOM Pro bundle for ITOM AIOps. Subsequently, the licensing module deducted from the a la carte subscriptions for ITOM AIOps.
 
 \[Omitted image "itom-license-summary-all.png"\] Alt text: Subscriptions window showing subscriptions consumed within bundle.
 
@@ -42,9 +42,5 @@ In this scenario, the Subscriptions window indicates the a la carte subscription
 
 In the provided figure, ITOM AIOps consumed 810 subscriptions, surpassing the subscriptions provided by the bundle \(500\) and a la carte \(250\). Consequently, the Subscriptions window indicates the ITOM AIOps a la carte subscription as overdrawn.
 
-For [[itom-visibility-landing-page|ITOM Visibility]], which consumed 550 subscriptions, and with no a la carte subscriptions purchased, the ITOM Pro bundle covering ITOM Visibility appears as overdrawn.
+For ITOM Visibility, which consumed 550 subscriptions, and with no a la carte subscriptions purchased, the ITOM Pro bundle covering ITOM Visibility appears as overdrawn.
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

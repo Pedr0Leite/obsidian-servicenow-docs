@@ -20,13 +20,13 @@ Create an IP pool to associate a cloud subnet with an IPAM provider instance.
 
 -   Role required: sn\_cmp.cloud\_admin
 -   Create [Infoblox credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/infoblox-creds.md) and [register an Infoblox server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-infoblox.md).
--   Run [[r-discovery|Discovery]] on the cloud account to find subnets or [manually create cloud subnets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-subnet.md).
+-   Run Discovery on the cloud account to find subnets or [manually create cloud subnets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-subnet.md).
 
 **Note:** This functionality is not supported with our template-based cloud catalogs.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Networks &amp; IPAM**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Networks &amp; IPAM**.
 
 2.  On the **IP Pools** tab, click **New**, enter a unique and descriptive **Name**, and then fill in the form.
 
@@ -47,7 +47,3 @@ Create an IP pool to associate a cloud subnet with an IPAM provider instance.
 
 The related subnet appears in the **Subnet** related list at the bottom of the form.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

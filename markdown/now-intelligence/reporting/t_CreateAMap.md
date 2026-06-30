@@ -33,7 +33,7 @@ Role required: report\_admin or admin.
     |Level|Specify the level for this map in the map hierarchy.|
     |JSON definition|Define the geoJSON for the map. You can [download predefined maps from Highcharts](http://code.highcharts.com/mapdata/).|
     |Parent|Select a parent map for this map. The parent-child relationships define drill levels in a map hierarchy.|
-    |Active|Clear this check box to make the map unavailable when creating [[c_MapReport|map reports]].|
+    |Active|Clear this check box to make the map unavailable when creating map reports.|
     |Geographical map|If your map is not geographical, clear this check box. For example, clear this check box for a floor map.|
 
 3.  Right-click the form header and select **Save**.
@@ -89,6 +89,4 @@ Role required: admin or report\_admin.
 
 3.  Click **Save**.
 
-## Related
 
-- [[c_MapReport|Map reports]]

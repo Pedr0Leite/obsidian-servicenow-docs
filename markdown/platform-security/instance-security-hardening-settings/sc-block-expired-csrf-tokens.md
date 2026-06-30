@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Block Expired Anti-CSRF Tokens
 
-Block expired CSRF tokens to prevent cross-site [[c_requestAPI|request]] forgery attacks.
+Block expired CSRF tokens to prevent cross-site request forgery attacks.
 
 The **glide.security.csrf\_previous.allow** system property enables use of an expired secure token to identify and validate incoming requests. This token is used to prevent cross-site request forgery attacks.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 6.5
 -   CVSS rating: Medium
--   Security risk details: Allowing the use of previous or expired CSRF tokens exposes the application to replay attacks, enabling attackers to reuse valid requests and potentially perform unauthorized actions on behalf of legitimate [[users|users]].
+-   Security risk details: Allowing the use of previous or expired CSRF tokens exposes the application to replay attacks, enabling attackers to reuse valid requests and potentially perform unauthorized actions on behalf of legitimate users.
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

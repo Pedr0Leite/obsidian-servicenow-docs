@@ -15,16 +15,16 @@ breadcrumb: [Now Assist in Document Intelligence, Enable AI experiences]
 
 # Exploring Now Assist in Document Intelligence
 
-With [[docintel-nowassist-landing|Now Assist in Document Intelligence]],you can use generative AI to extract key information from your documents and images for use in your workflows.
+With Now Assist in Document Intelligence,you can use generative AI to extract key information from your documents and images for use in your workflows.
 
 ## Now Assist in Document Intelligence overview
 
 Now Assist in Document Intelligence makes the following generative AI capabilities available:
 
--   Extract information from documents. Extract information in the form of fields, tables, and answers to predefined questions from documents and image files. The information can be reviewed by agents in the [[document-intelligence-landing|Document Intelligence]] workspace, stored in mapped fields, and used as defined in the workflow.
+-   Extract information from documents. Extract information in the form of fields, tables, and answers to predefined questions from documents and image files. The information can be reviewed by agents in the Document Intelligence workspace, stored in mapped fields, and used as defined in the workflow.
 -   Document Q&amp;A: Agents can save time when reviewing documents by using the predictive capabilities of generative AI to provide answers to predefined questions.
--   [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]. The AI agent gathers context from user input and document or image attachments, generates the requested information based on the content, and provides the information along with any relevant task details. For more information on AI agents, see [Document and visual insights AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-and-visual-insights-ai-agent.md).
--   Contract metadata extraction and contract analysis. The skills for contract metadata extraction and contract analysis are only available with the [[platform-now-assist-landing|Now Assist]] in Contract Management application. For more information, see [Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-now-assit-landing.md).
+-   Document and visual insights AI agent. The AI agent gathers context from user input and document or image attachments, generates the requested information based on the content, and provides the information along with any relevant task details. For more information on AI agents, see [Document and visual insights AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-and-visual-insights-ai-agent.md).
+-   Contract metadata extraction and contract analysis. The skills for contract metadata extraction and contract analysis are only available with the Now Assist in Contract Management application. For more information, see [Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-now-assit-landing.md).
 -   Attachment summarization. Agents can view a summary of attachment content along with the record summary in ITSM. Attachment summarization is available in Now Assist for ITSM. For more information, see .
 -   Document chat. Agents can receive chat responses based on document content. Document chat is available in Now Assist for Virtual Agent. For more information, see .
 -   Invoice data extraction. Extract invoice details from PDFs submitted through email or supplier portal and automatically process the digitized invoice within Accounts Payable Operations \(APO\). For more information, see [Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-apo.md).
@@ -79,7 +79,7 @@ User
 
 </th></tr></thead><tbody><tr><td>
 
-Start fast with a guided set up of your use [[cases|cases]] to identify the information you want to get from your documents.
+Start fast with a guided set up of your use cases to identify the information you want to get from your documents.
 
 </td><td>
 
@@ -105,11 +105,3 @@ Accelerate the extraction of information from documentsin the form of fields, ta
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

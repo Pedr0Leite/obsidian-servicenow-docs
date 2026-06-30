@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.case\_writer.
 
 ## About this task
 
-When you [[search-hr-case|create an HR case]] from a support conversation, the system copies the conversation history to the case [[activity-lxp|activity]] stream as comments and work notes. Future messages are tracked in the case as well.
+When you create an HR case from a support conversation, the system copies the conversation history to the case activity stream as comments and work notes. Future messages are tracked in the case as well.
 
 ## Procedure
 
@@ -56,13 +56,8 @@ When you [[search-hr-case|create an HR case]] from a support conversation, the s
 
     **Note:** If you add an attachment to a record conversation, it is attached to the underlying record as well.
 
-    The system automatically shares the record in the conversation, copies the conversation to the record activity stream, and references the record on the Chat Queue Entry \[chat\_queue\_entry\] table. Any new journal fields added to the record do not appear in the chat. The system also changes the document ID for the conversation to [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] the incident number instead of the entry in the Chat Queue Entry table.
+    The system automatically shares the record in the conversation, copies the conversation to the record activity stream, and references the record on the Chat Queue Entry \[chat\_queue\_entry\] table. Any new journal fields added to the record do not appear in the chat. The system also changes the document ID for the conversation to reference the incident number instead of the entry in the Chat Queue Entry table.
 
 
 **Parent Topic:**[HR chat from lists and forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/chat-with-scoped-hr.md)
 
-## Related
-
-- [[search-hr-case|Create an HR case]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

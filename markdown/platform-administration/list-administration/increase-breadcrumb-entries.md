@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Enter `sys_properties.list` in the Navigation filter.
 
-    The entire list of properties in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table appears.
+    The entire list of properties in the System Properties \[sys\_properties\] table appears.
 
 2.  Verify that the property does not exist by searching for **glide.ui.breadcrumb\_max\_entries**.
 
@@ -44,6 +44,4 @@ Role required: admin
 
     \[Omitted image "BreadcrumbEntries.png"\] Alt text: Breadcrumb entries for incidents numbering from INC0010001 to INC0010015
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

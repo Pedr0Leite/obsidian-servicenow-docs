@@ -14,9 +14,9 @@ breadcrumb: [Exploring Agile Development 2.0, Agile Development 2.0, Agile Devel
 
 # Agile Development process flow
 
-Learn the process that is used to manage product development efforts in [[agile-landing-page|Agile Development 2.0]], such as creating a product or tracking a sprint or release.
+Learn the process that is used to manage product development efforts in Agile Development 2.0, such as creating a product or tracking a sprint or release.
 
-**Note:** The flow explained here represents the common practice for managing [[agile-development|agile development]] efforts using the functionality available in the Agile Development 2.0 application. This flow does not represent the only possible process.
+**Note:** The flow explained here represents the common practice for managing agile development efforts using the functionality available in the Agile Development 2.0 application. This flow does not represent the only possible process.
 
 -   **Define products**
 
@@ -34,7 +34,7 @@ Learn the process that is used to manage product development efforts in [[agile-
 
     Some organizations have a fixed time frame to make their products available to the market, which is referred to as a release. A release has a start and end date, during which several development iterations are completed. For example, you can have quarterly or half-yearly schedules to release new applications or enhancements to existing applications.
 
-    After you [[create-a-release|create a release in Agile Development 2.0]], you can associate products, epics, and stories to it. See [Create a release in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-release.md).
+    After you create a release in Agile Development 2.0, you can associate products, epics, and stories to it. See [Create a release in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-release.md).
 
 -   **Create personalized backlogs**
 
@@ -74,7 +74,7 @@ Learn the process that is used to manage product development efforts in [[agile-
 
     **Tip:**
 
-    If you're running a hybrid or traditional project delivery, you can still use the [[agile-development-sprint-dashboard|Agile 2.0 Sprint dashboard]] to track workflow state transitions using the cumulative flow diagram. For more information about enabling dashboard access, see [Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md).
+    If you're running a hybrid or traditional project delivery, you can still use the Agile 2.0 Sprint dashboard to track workflow state transitions using the cumulative flow diagram. For more information about enabling dashboard access, see [Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md).
 
 -   **Track release progress**
 
@@ -87,9 +87,3 @@ Learn the process that is used to manage product development efforts in [[agile-
 
 **Parent Topic:**[Exploring Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/exploring-agile-development-2.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]
-- [[create-a-release|Create a release in Agile Development 2.0]]
-- [[agile-development-sprint-dashboard|Agile 2.0 Sprint Dashboard]]

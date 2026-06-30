@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Duplicate a Board in CWM
 
-Save time by duplicating an existing Board to copy all the task and collaborator details without having to copy the information manually in the [[cwm-landing|Collaborative Work Management]] workspace.
+Save time by duplicating an existing Board to copy all the task and collaborator details without having to copy the information manually in the Collaborative Work Management workspace.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

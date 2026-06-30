@@ -14,12 +14,12 @@ breadcrumb: [AI Search for Next Experience, ServiceNow Store applications and in
 
 # Configuring AI Search for Next Experience
 
-Use a Guided Setup module to step through configuration of search application settings and enablement of [[ais-next-experience-app|AI Search for Next Experience]] on your instance.
+Use a Guided Setup module to step through configuration of search application settings and enablement of AI Search for Next Experience on your instance.
 
-The **Guided Setup for Zing to [[ia-ai-search|AI Search]] Migration** module walks you through the following configuration steps:
+The **Guided Setup for Zing to AI Search Migration** module walks you through the following configuration steps:
 
 1.  Verifying that your instance satisfies the prerequisites for AI Search for Next Experience.
-2.  Migrating your existing Zing [[defining-search-app-cfgs-ais|search application configurations]] for use with AI Search.
+2.  Migrating your existing Zing search application configurations for use with AI Search.
 3.  Enabling AI Search for Next Experience on your instance. This step makes AI Search the search engine for global and workspace searches in the Unified Navigation search field.
 
 After you've enabled AI Search for Next Experience, you can use the Guided Setup module at any time to perform either of these tasks:
@@ -30,13 +30,13 @@ After you've enabled AI Search for Next Experience, you can use the Guided Setup
 -   **[Verify that your instance meets the prerequisites for AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-ais-next-exp-prereqs.md)**  
 Walk through Guided Setup tasks to confirm that your instance meets the requirements for AI Search for Next Experience.
 -   **[Migrate Zing search application configurations to AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/migrate-srch-apps-ais-next-exp.md)**  
-Walk through a Guided Setup task to migrate your existing Zing search application configurations to AI Search application [[clone-configurations-tab|configurations]].
+Walk through a Guided Setup task to migrate your existing Zing search application configurations to AI Search application configurations.
 -   **[Enable AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-ais-next-exp-app.md)**  
 Walk through a Guided Setup task to configure AI Search as the search engine for global and workspace searches from the Unified Navigation search field.
 -   **[Add a new Unified Navigation workspace search configuration to AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/add-new-srch-app-cfg-ais-next-exp.md)**  
 Enable Unified Navigation search for newly installed workspaces in AI Search for Next Experience.
 -   **[Revert to Zing as the Unified Navigation search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/revert-zing-unified-nav-search.md)**  
-Revert to using [[c_ZingTextSearch|Zing text indexing and search engine]] for the Unified Navigation search field in Next Experience.
+Revert to using Zing text indexing and search engine for the Unified Navigation search field in Next Experience.
 -   **[Repair AI Search for Next Experience after activating a new ServiceNow AI Platform language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/update-languages-ais-next-exp-app.md)**  
 Install translated search UI element labels for a newly activated ServiceNow AI Platform language by repairing the AI Search for Next Experience application.
 -   **[Enable search-based auto-complete suggestions in AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-srch-autosugg-ais-next-exp.md)**  
@@ -44,10 +44,3 @@ Run a scheduled job to make search-based auto-complete suggestions available in 
 
 **Parent Topic:**[AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]

@@ -18,7 +18,7 @@ When you complete the setup tasks, you can configure the integration periodicall
 
 ## Viewing class mappings
 
-You can view the available class mappings for the [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]] by navigating to **All** &gt; **Service Graph Connector Claroty CTD** &gt; **Class Mappings**. In the class mappings table, you can view the following attributes.
+You can view the available class mappings for the Service Graph Connector Integration for Claroty CTD by navigating to **All** &gt; **Service Graph Connector Claroty CTD** &gt; **Class Mappings**. In the class mappings table, you can view the following attributes.
 
 <table id="table_b2z_zgx_cdc"><thead><tr><th>
 
@@ -191,7 +191,7 @@ The following attributes in the Network Intrusion Detection System \[cmdb\_ci\_n
 
 ## Operational Technology \(OT\) \[cmdb\_ci\_ot\]
 
-The following attributes in the [[operational-technology-overview|Operational Technology]] \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
+The following attributes in the Operational Technology \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
 
 |Attribute label|Attribute name\\|
 |---------------|----------------|
@@ -407,7 +407,3 @@ A default class mapping is shipped with the Service Graph Connector Integration 
 
 **Parent Topic:**[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)
 
-## Related
-
-- [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]
-- [[operational-technology-overview|Operational Technology]]

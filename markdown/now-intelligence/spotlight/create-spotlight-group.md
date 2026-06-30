@@ -72,7 +72,7 @@ The indicator that collects the records that you want this Spotlight group to ev
 </td></tr></tbody>
 </table>3.  To filter the records to evaluate, select a **Breakdown** and an **Element**.
 
-    **Important:** Spotlight group creation respects the [[access-control|Access Control]] List \(ACL\) on the breakdown source table. Therefore, depending on the ACL, you may not see all existing elements of a breakdown, even with an admin role.
+    **Important:** Spotlight group creation respects the Access Control List \(ACL\) on the breakdown source table. Therefore, depending on the ACL, you may not see all existing elements of a breakdown, even with an admin role.
 
     After you complete the Spotlight group, you can copy the completed Spotlight group to other elements in the same breakdown. Click **Copy Spotlight group for breakdown**. For more information, see [Copy a Spotlight group to breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/copy-spotlight-group-element.md).
 
@@ -94,7 +94,7 @@ You have created a Spotlight group with an indicator and a threshold, and you ha
 
 ## What to do next
 
--   [[create-spotlight-criteria|Create Spotlight criteria]] for the Spotlight group and set the schedule for collecting Spotlight scores. See [Create Spotlight criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/create-spotlight-criteria.md).
+-   Create Spotlight criteria for the Spotlight group and set the schedule for collecting Spotlight scores. See [Create Spotlight criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/create-spotlight-criteria.md).
 -   If you are using domain separation, the Spotlight group is created in the domain that you are in when you create the group. After you complete configuring the Spotlight group, including criteria and scheduling, you can copy the Spotlight group to another domain by clicking **Copy to domain**.
 -   If you have specified a breakdown and element for the main indicator, you can copy the Spotlight group to other elements in the same breakdown. To do so, click **Copy Spotlight group for breakdown**. First complete the Spotlight group, including criteria and scheduling.
 
@@ -121,7 +121,7 @@ When a Spotlight job runs, it either evaluates a snapshot of collected records o
 
 ### Evaluating snapshot records
 
-By default, a new Spotlight group uses a snapshot of records. Snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for [[automated-indicators|automated indicators]] with **Collect records** selected. The Performance Analytics [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for the main indicator and the criteria indicators of the Spotlight group create the snapshots. These jobs must run, collecting records, before the Spotlight evaluation job runs.
+By default, a new Spotlight group uses a snapshot of records. Snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected. The Performance Analytics [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for the main indicator and the criteria indicators of the Spotlight group create the snapshots. These jobs must run, collecting records, before the Spotlight evaluation job runs.
 
 For a Spotlight group to use snapshot records, the data collection and Spotlight evaluation jobs must meet the following conditions:
 
@@ -148,8 +148,3 @@ Also, indicator-based criteria cannot be used to evaluate platform data when scr
 -   If the indicator of a criterion uses a breakdown that is based on a script, this specific criterion cannot be used. Either collect snapshot instead of platform data or create query-based criteria in place of indicator-based criteria.
 -   If the main indicator of the Spotlight group uses a breakdown that is based on a script, you cannot evaluate platform data. Configure the Spotlight group to collect data based on snapshots only.
 
-## Related
-
-- [[access-control|Access control]]
-- [[create-spotlight-criteria|Create Spotlight criteria]]
-- [[automated-indicators|Automated indicators]]

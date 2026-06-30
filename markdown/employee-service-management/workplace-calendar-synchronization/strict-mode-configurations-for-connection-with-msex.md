@@ -17,7 +17,7 @@ breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workpla
 For a strict mode connection with Microsoft Exchange Online, you must perform the following actions.
 
 -   **[Configure Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/auth-mxex-with-azure-strict-mode.md)**  
-Set up a strict mode authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a strict mode authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 -   **[Create connection with Microsoft Exchange Online Spoke in strict mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-with-msspoke-strict-mode.md)**  
 Configure a strict mode connection with the Microsoft Exchange Online spoke.
 -   **[Create a strict mode configuration in Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/strict-mode-configuration-in-msex.md)**  
@@ -33,6 +33,3 @@ Configure Microsoft Exchange Online as a calendar provider in strict mode to syn
 
 **Parent Topic:**[Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

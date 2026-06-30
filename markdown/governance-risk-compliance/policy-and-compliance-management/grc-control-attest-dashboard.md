@@ -16,7 +16,7 @@ breadcrumb: [My Attestation Overview dashboard, Analytics and Reporting solution
 
 The GRC Attestation Overview dashboard provides views attestations assigned to you, as well as pending and overdue attestations.
 
-**Important:** Starting with version 18.1.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the GRC Attestation Overview dashboard reports can be viewed in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.1 of the Policy and Compliance Management application, the GRC Attestation Overview dashboard reports can be viewed in the Next Experience UI Framework.
 
 To view the reports in the Next Experience UI Framework, see [My Attestation Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/my-attestation-ovrview-pa-pc.md).
 
@@ -34,6 +34,3 @@ The GRC Attestation Overview dashboard contains the following visualizations:
 
 **Parent Topic:**[My Attestation Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/my-attestation-ovrview-pa-pc.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

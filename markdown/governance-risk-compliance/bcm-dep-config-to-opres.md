@@ -12,7 +12,7 @@ breadcrumb: [Configuring 360º views for services and processes, Configure, Oper
 
 # BCM dependencies related Main node configurations
 
-When the [[business-continuity-mangmt-overview|Business Continuity Management]] application is installed in an instance, BCM dependencies are fetched into the [[grc-opres-landing-page|Operational Resilience]] application.
+When the Business Continuity Management application is installed in an instance, BCM dependencies are fetched into the Operational Resilience application.
 
 When the Business Continuity Management application is installed in an instance, BCM dependencies are fetched into the Operational Resilience application as shown in the example.
 
@@ -24,7 +24,3 @@ When the Business Continuity Management application is installed in an instance,
 
 \[Omitted image "bcm-related-main-node-configs.png"\] Alt text: BCM related dependencies.
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -23,17 +23,17 @@ Purchase Order Management simplifies the flagging of purchase orders issues and 
 
 |User|Description|
 |----|-----------|
-|Supplier|Supplier reviews the [[purchase-order-table|purchase order]], raises exceptions when order terms can’t be met, and fulfills orders.|
+|Supplier|Supplier reviews the purchase order, raises exceptions when order terms can’t be met, and fulfills orders.|
 |Purchase Order Management administrator|Purchase Order Management administrator is the local admin for the application and manages settings such as assignment rules and priority settings.|
 |Operational Buyer|Operational Buyer can view, edit, and resolve purchase order exceptions. The buyer can also be assigned purchase order exceptions.|
-|Purchase Order Management Viewer|Purchase Order Management Viewer can view purchase order exceptions but not be assigned to them and don’t have access to [[exploring-source-to-pay-operations|Source-to-Pay Operations Workspace]].|
-|Purchase Order Management Collaborator|Purchase Order Management Collaborator can view, edit, and resolve assigned [[purchase-order-exception-table|purchase order exception]] tasks.|
+|Purchase Order Management Viewer|Purchase Order Management Viewer can view purchase order exceptions but not be assigned to them and don’t have access to Source-to-Pay Operations Workspace.|
+|Purchase Order Management Collaborator|Purchase Order Management Collaborator can view, edit, and resolve assigned purchase order exception tasks.|
 
 ## Purchase Order Management Workflow
 
 A workflow for a purchase order exception might progress as follows:
 
-1.  The [[supplier|supplier]] communicates and raises attention to issues related to purchase orders by submitting purchase order exceptions in [[supplier-central|Supplier Collaboration Portal]].
+1.  The supplier communicates and raises attention to issues related to purchase orders by submitting purchase order exceptions in Supplier Collaboration Portal.
 2.  The supplier can communicate different types of delivery plan changes, such delivering in a single shipment on a different date, providing multiple smaller deliveries, or rejecting a purchase order line.
 3.  The operational buyer monitors the incoming exceptions and associated tasks.
 4.  The operational buyer can act on the assigned purchase order exceptions.
@@ -61,7 +61,7 @@ Provide prompt visibility for the appropriate buyer by reporting delivery plan i
 
 </td><td>
 
-[[reporting-delivery-plan-issues|Reporting delivery plan issues]]
+[Reporting delivery plan issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/reporting-delivery-plan-issues.md)
 
 </td><td>
 
@@ -85,7 +85,7 @@ Expedite detection and resolution of purchase order exceptions.
 
 </td><td>
 
-[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
+[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ Create and assign purchase order exception tasks to other buyers and collaborato
 
 </td><td>
 
-[[assign-a-poe-task-to-a-collaborator|Create and assign a purchase order exception task]]
+[Create and assign a purchase order exception task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/assign-a-poe-task-to-a-collaborator.md)
 
 </td><td>
 
@@ -109,8 +109,8 @@ Review and complete assigned purchase order exception tasks
 
 </td><td>
 
--   [[work-on-a-purchase-order-exception|Work on a purchase order exception task]]
--   [[view-po-exception-task|View a purchase order exception task]]
+-   [Work on a purchase order exception task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/work-on-a-purchase-order-exception.md)
+-   [View a purchase order exception task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/view-po-exception-task.md)
 
 </td><td>
 
@@ -121,29 +121,12 @@ Operational buyers, Collaborators
 
 To learn more about configuring and using Purchase Order Management, see:
 
--   [[configure-purch-order-mgmt|Configure Purchase Order Management]]
--   [[use-purch-order-mgmt|Use Purchase Order Management]]
--   [[purchase-order-mgmt-reference|Purchase Order Management reference]]
+-   [Configure Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-purch-order-mgmt.md)
+-   [Use Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
+-   [Purchase Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
--   **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**  
+-   **[Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-mgmt-ws.md)**  
 The Purchase Order Management page in the Source-to-Pay Workspace enables you to manage and work on tasks related to purchase order exceptions.
 
-**Parent Topic:**[[purchase-order-mgmt-landing-page|Purchase Order Management]]
+**Parent Topic:**[Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)
 
-## Related
-
-- [[reporting-delivery-plan-issues|Reporting delivery plan issues]]
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[assign-a-poe-task-to-a-collaborator|Create and assign a purchase order exception task]]
-- [[work-on-a-purchase-order-exception|Work on a purchase order exception task]]
-- [[view-po-exception-task|View a purchase order exception task]]
-- [[configure-purch-order-mgmt|Configure Purchase Order Management]]
-- [[use-purch-order-mgmt|Use Purchase Order Management]]
-- [[purchase-order-mgmt-reference|Purchase Order Management reference]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[exploring-source-to-pay-operations|Source-to-Pay Operations workspace]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]

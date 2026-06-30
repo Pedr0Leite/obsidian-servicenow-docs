@@ -35,12 +35,8 @@ Role required: sn\_grc\_claims.manager
 
 Learn about the fields of the **Claims for reporting** form. Use this form to create a new claim.
 
--   **[[claims-for-reporting-fields|Claims for reporting fields]]**  
+-   **[Claims for reporting fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/claims-for-reporting-fields.md)**  
 Learn about the fields of the **Claims for reporting** form. Use this form to create a new claim.
 
-**Parent Topic:**[[claims-for-reporting|Claims for reporting]]
+**Parent Topic:**[Claims for reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/claims-for-reporting.md)
 
-## Related
-
-- [[claims-for-reporting-fields|Claims for reporting fields]]
-- [[claims-for-reporting|Claims for reporting]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 # Approve an unassign request in Configuration Compliance
 
-Approve requests for the removal of remediation tasks from an assignment group or an individual user in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+Approve requests for the removal of remediation tasks from an assignment group or an individual user in the Configuration Compliance application.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ By default, an approval configuration is provided. For unassign approvals, one a
 
 3.  Approve or reject the request by adding the appropriate comments.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

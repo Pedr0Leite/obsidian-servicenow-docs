@@ -14,7 +14,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 You can set up a message rule to control access to a field based on the user's role or ID.
 
-Sometimes, system administrators donʼt want to allow every sales representative to access a particular field. \(For example, perhaps that field should be edited later on in the sales cycle by users with elevated permissions.\) In this case, admins might want to lock down certain [[fields|fields]] unless the user accessing the configuration is a Solution Manager or System Administrator. Or, maybe youʼd want them locked down unless the config is accessed by Jane Doe, your companyʼs VP of Sales. This article walks through how to set up such [[rules_101|rules]].
+Sometimes, system administrators donʼt want to allow every sales representative to access a particular field. \(For example, perhaps that field should be edited later on in the sales cycle by users with elevated permissions.\) In this case, admins might want to lock down certain fields unless the user accessing the configuration is a Solution Manager or System Administrator. Or, maybe youʼd want them locked down unless the config is accessed by Jane Doe, your companyʼs VP of Sales. This article walks through how to set up such rules.
 
 ## Step 1
 
@@ -48,7 +48,3 @@ This is the output when Jane Doe \(who is also a System Admin\) accesses the con
 
 \[Omitted image "cpq-message-rule-result-2.png"\] Alt text: Set Up User or Profile Based Rules with Salesforce Implementation
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]

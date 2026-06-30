@@ -14,7 +14,7 @@ breadcrumb: [Identify and reconcile discrepancies, Telecom Visibility, Explore, 
 
 # Discrepancy identification – types of discrepancies
 
-The [[exploring-telecom-reconciliation|Telecom Discrepancy Identification and Reconciliation]] capability identifies and classifies mismatches between the network state \(as discovered through TSOM Discovery or Service Graph Connectors\) and the inventory data stored in the CMDB or TNI.
+The Telecom Discrepancy Identification and Reconciliation capability identifies and classifies mismatches between the network state \(as discovered through TSOM Discovery or Service Graph Connectors\) and the inventory data stored in the CMDB or TNI.
 
 Discrepancy identification is powered by the CMDB Compliance Certification Audit, which:
 
@@ -65,7 +65,7 @@ The audit process identifies discrepancies by comparing discovered network data 
 
 -   **SD-WAN discrepancy identification**
 
-    In addition to telecom-specific discrepancies, the Telecom SD-WAN Network Discrepancy Audit identifies mismatches in your SD-WAN inventory. Standard telecom discrepancy detection focuses on CI classes such as slot, card, and interface. The SD-WAN audit targets a different set of CI classes and validates them against rules specific to the [[sd-wan-data-model|SD-WAN data model]].
+    In addition to telecom-specific discrepancies, the Telecom SD-WAN Network Discrepancy Audit identifies mismatches in your SD-WAN inventory. Standard telecom discrepancy detection focuses on CI classes such as slot, card, and interface. The SD-WAN audit targets a different set of CI classes and validates them against rules specific to the SD-WAN data model.
 
     By default, the audit scopes to CIs whose discovery source contains TSOM. The audit compares discovered SD-WAN data with the inventory in the CMDB and generates follow-on tasks when mismatches are detected.
 
@@ -166,7 +166,3 @@ Equipment \(sn\_tsom\_core.audit. equipment\_tables\)
 
 [Run Telecom Discrepancy audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/run-audits.md)
 
-## Related
-
-- [[exploring-telecom-reconciliation|Telecom Discrepancy Identification and Reconciliation]]
-- [[sd-wan-data-model|SD-WAN data model]]

@@ -31,17 +31,12 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[configure-inflight-order-change-mgt|Configuring inflight changes]]
+**Parent Topic:**[Configuring inflight changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-inflight-order-change-mgt.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
+[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
-## Related
-
-- [[configure-inflight-order-change-mgt|Configuring inflight changes]]
-- [[explore-order-management|Order management]]
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]

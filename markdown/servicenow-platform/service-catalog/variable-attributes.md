@@ -14,7 +14,7 @@ breadcrumb: [Create a service catalog variable, Service catalog variables, Servi
 
 # Service Catalog variable attributes
 
-There are a few [[c_ServiceCatalogVariables|Service Catalog variables]] support specific attributes to define the behavior and restrictions for variables.
+There are a few Service Catalog variables support specific attributes to define the behavior and restrictions for variables.
 
 In the Catalog variable form, under the **Type Specifications** tab, you can specify the variable attributes in the **Variable attributes** field.
 
@@ -23,7 +23,7 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 -   You can enter multiple attributes for a variable type by separating each with a comma.
 -   You can enter multiple values for an attribute by separating each with a semicolon.
 -   If you don't see the **Variable attributes** field, enable the **Show attributes when Type is One of Certain Values** UI policy.
--   Pre-selected values are not cleared automatically when the dependent variable value changes when using an attribute or [[reference|reference]] qualifier. Create a client script to clear the values based on your needs and the needs of your customer.
+-   Pre-selected values are not cleared automatically when the dependent variable value changes when using an attribute or reference qualifier. Create a client script to clear the values based on your needs and the needs of your customer.
 
 ## Variable attributes
 
@@ -31,7 +31,7 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
     Specifies a list of allowed file types. For example, `allowed_extensions=txt;pdf`.
 
-    Applicable variables: [[attachment|Attachment]]
+    Applicable variables: Attachment
 
 -   **barcode**
 
@@ -47,7 +47,7 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
 -   **glide\_list**
 
-    Changes the [[list-collector|list collector]] interface from slushbucket to glide list.
+    Changes the list collector interface from slushbucket to glide list.
 
     Applicable variables: List collector
 
@@ -57,15 +57,15 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
     **Note:**
 
-    -   For [[lookup-select-box|Lookup select box]], a default value is available at the page load itself.
+    -   For Lookup select box, a default value is available at the page load itself.
     -   This attribute is not applicable in Service Portal.
-    Applicable variables: Lookup select box, [[select-box|Select box]]
+    Applicable variables: Lookup select box, Select box
 
 -   **max\_length**
 
     Sets the maximum number of characters allowed in the field. By default, the field accepts long strings of text, several thousand characters. Set the **max\_length** attribute as appropriate for the information that the variable is collecting. For example, to allow for entry of an address, set `max_length=200`, or other appropriate length.
 
-    Applicable variables: [[single-line-text|Single-line text]], [[wide-single-line-text|Wide single-line text]]
+    Applicable variables: Single-line text, Wide single-line text
 
 -   **max\_unit**
 
@@ -83,9 +83,9 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
 -   **ref\_ac\_columns**
 
-    Specifies the columns with display values that appear in an auto-completion list in addition to the name. Separate column names with a semicolon. For example, `ref_ac_columns=user_name;[[email|email]];sys_created_on` allows auto-complete to match text from the user\_name, email, and sys\_created\_on columns.
+    Specifies the columns with display values that appear in an auto-completion list in addition to the name. Separate column names with a semicolon. For example, `ref_ac_columns=user_name;email;sys_created_on` allows auto-complete to match text from the user\_name, email, and sys\_created\_on columns.
 
-    Applicable variables: Reference, [[requested-for|Requested For]].
+    Applicable variables: Reference, Requested For.
 
 -   **ref\_ac\_order\_by**
 
@@ -106,10 +106,10 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
     A list of fields to be sent back to the server to get an updated reference.
 
-    Applicable variables: [[lookup-multiple-choice|Lookup multiple choice]], Lookup select box, List Collector.
+    Applicable variables: Lookup multiple choice, Lookup select box, List Collector.
 
 
-**Important:** Attribute behavior is specific to the [[service-catalog|service catalog]] desktop.
+**Important:** Attribute behavior is specific to the service catalog desktop.
 
 **Parent Topic:**[Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
 
@@ -120,17 +120,3 @@ In the Catalog variable form, under the **Type Specifications** tab, you can spe
 
 [Define a question choice for a variable]()
 
-## Related
-
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[reference|Reference]]
-- [[attachment|Attachment]]
-- [[list-collector|List collector]]
-- [[lookup-select-box|Lookup select box]]
-- [[select-box|Select box]]
-- [[single-line-text|Single-line text]]
-- [[wide-single-line-text|Wide single-line text]]
-- [[email|Email]]
-- [[requested-for|Requested for]]
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[service-catalog|Service Catalog]]

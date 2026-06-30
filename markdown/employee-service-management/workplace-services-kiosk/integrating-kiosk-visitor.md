@@ -14,11 +14,11 @@ breadcrumb: [Integrate, Workplace Services Kiosk, Workplace Service Delivery, Em
 
 # Integrating Workplace Services Kiosk with Workplace Visitor Management
 
-Integrate [[workplace-services-kiosk|Workplace Services Kiosk]] with [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] to create a check-in, check-out, and self-registration experience for visitors.
+Integrate Workplace Services Kiosk with Workplace Visitor Management to create a check-in, check-out, and self-registration experience for visitors.
 
 ## Integration Overview
 
-1.  Create [[page-configurations|page configurations]] based on the flows you want to support on the kiosk. For more information, see [Configure pages for Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-kiosk-pages.md).
+1.  Create page configurations based on the flows you want to support on the kiosk. For more information, see [Configure pages for Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-kiosk-pages.md).
 
     The Authentication, Summary, and End page configurations are required to support check-in and check-out flows. The Self registration page configuration is required to support the self-registration flow. Additionally, you can create an acknowledgment page to display visitor policies on the kiosk.
 
@@ -32,12 +32,12 @@ Integrate [[workplace-services-kiosk|Workplace Services Kiosk]] with [[workplace
 
     You can create multiple check-in and check-out flows and link them to different kiosk modules.
 
-3.  [[create-kiosk-module|Create a kiosk module]] and module configuration. For more information, see [Create a kiosk module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-module.md).
+3.  Create a kiosk module and module configuration. For more information, see [Create a kiosk module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-module.md).
 
     The kiosk module is linked to the check-in or check-out table to decide the flow and pages for the kiosk.
 
 4.  Create a homepage configuration. For more information, see [Create a kiosk homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-homepage.md).
-5.  [[create-kiosk-device-config|Create a kiosk configuration]], assign the homepage configuration, and link the kiosk module you created. For more information, see [Create a kiosk configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-device-config.md).
+5.  Create a kiosk configuration, assign the homepage configuration, and link the kiosk module you created. For more information, see [Create a kiosk configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-device-config.md).
 6.  Assign the kiosk configuration to a kiosk device. For more information, see [Setting up a kiosk device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/setting-up-kiosk-device.md).
 
 After integrating Workplace Services Kiosk with Workplace Visitor Management, visitors can use the kiosk to check-in, check-out, or self-register. For more information, see [Using Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md).
@@ -46,10 +46,3 @@ If an error occurs on the kiosk at run time, a generic error page is displayed t
 
 **Parent Topic:**[Integrating Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/integrating-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[page-configurations|Page configurations]]
-- [[create-kiosk-module|Create a kiosk module]]
-- [[create-kiosk-device-config|Create a kiosk configuration]]

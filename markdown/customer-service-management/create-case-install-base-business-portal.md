@@ -83,12 +83,10 @@ Description
 A more detailed description of the customer question, issue, or problem.
 
 </td></tr></tbody>
-</table>    **Note:** Currently, the **Save as Draft** option is not optimized for [[c_CustomerServiceManagement|Customer Service Management]] portals and, it is inactive by default.
+</table>    **Note:** Currently, the **Save as Draft** option is not optimized for Customer Service Management portals and, it is inactive by default.
 
 4.  Select **Submit**.
 
     The case is created, assigned a case number, and added to the user's case list. Select **My Cases** at the top of the customer portal to view the Cases list.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

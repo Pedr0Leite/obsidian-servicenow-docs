@@ -14,7 +14,7 @@ breadcrumb: [Event forwarding, Configuring Event Management, Event Management, I
 
 # Periodically run an event forwarding job
 
-Schedule an [[event-forwarding-em|event forwarding]] job to periodically send events to all target instances with active event forwarding configurations when the monitoring source can't send events to multiple target instances.
+Schedule an event forwarding job to periodically send events to all target instances with active event forwarding configurations when the monitoring source can't send events to multiple target instances.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can customize the **event-forwarding** job behavior through related system p
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Scheduled jobs** &gt; **[[c_EM|Event Management]] - Event Forwarding Job**.
+1.  Navigate to **All** &gt; **Scheduled jobs** &gt; **Event Management - Event Forwarding Job**.
 
 2.  On the **Scheduled Script Execution** page, select the **Active** check box.
 
@@ -49,7 +49,3 @@ If the admin account is disabled, configure the user of the scheduled job. By de
 
 If the event forwarding to the instance failed due to any reason, the **Last Event Forwarding status** field displays `Failed` with a corresponding error message displayed in the **Last Event Forwarding error** field. The target instance generates a self-health monitoring event during the next successful event forwarding indicating the failure of event forwarding for the specified time range.
 
-## Related
-
-- [[event-forwarding-em|Event forwarding]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Strategic program form
 
-Learn about the fields of the Strategic program form. Use this form to create or edit the details of a Strategic Program in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the Strategic program form. Use this form to create or edit the details of a Strategic Program in Strategic Planning.
 
 These fields are displayed on the full details page of the strategic program.
 
@@ -134,6 +134,3 @@ Notes to capture the updates and discussions on the strategic program as the wor
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

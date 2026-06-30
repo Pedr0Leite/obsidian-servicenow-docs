@@ -16,7 +16,7 @@ Create a retail organization to enable management of hierarchical stores and fra
 
 ## Before you begin
 
-Role required: sn\_rtl.[[rahi-retail-operations-overview|retail]]\_admin
+Role required: sn\_rtl.retail\_admin
 
 ## About this task
 
@@ -181,6 +181,4 @@ The website associated with this retail organization.
 </td></tr></tbody>
 </table>5.  Select **Submit.**
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]

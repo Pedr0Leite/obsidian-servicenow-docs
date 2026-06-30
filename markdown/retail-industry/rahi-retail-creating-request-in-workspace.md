@@ -12,7 +12,7 @@ breadcrumb: [Manage customer complaints, Retail]
 
 # Create and assign a retail customer complaint case in workspace
 
-Create and assign a [[rahi-retail-operations-overview|retail]] customer complain case in Workspace on behalf of a customer.
+Create and assign a retail customer complain case in Workspace on behalf of a customer.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Roles required: sn\_rtl\_cs\_cmplnt.agent, sn\_rtl\_cs\_cmplnt.agent\_manager
 
 ## About this task
 
-The retail [[rahi-retail-retail-customer-complaint|customer complaint case]] type enables customers to submit complaints anonymously via phone or email.
+The retail customer complaint case type enables customers to submit complaints anonymously via phone or email.
 
 ## Procedure
 
@@ -116,10 +116,5 @@ Details about this request.
     **Note:** Select **Task** related list to view your existing tasks and select **New** to add a task.
 
 
-**Parent Topic:**[[rahi-retail-manage-customer-complaints|Manage customer complaints]]
+**Parent Topic:**[Manage customer complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
 
-## Related
-
-- [[rahi-retail-manage-customer-complaints|Manage customer complaints]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-customer-complaint|Customer complaint case]]

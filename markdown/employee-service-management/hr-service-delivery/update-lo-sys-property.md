@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Configure learning objects for To-dos page
 
-Add or remove [[exploring-learning-exp|learning]] objects that appear on the To-dos page as learning tasks using the **sn\_hr\_cornerstone.filtered\_learning\_objects** system property.
+Add or remove learning objects that appear on the To-dos page as learning tasks using the **sn\_hr\_cornerstone.filtered\_learning\_objects** system property.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: sn\_hr\_cornerstone.admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]

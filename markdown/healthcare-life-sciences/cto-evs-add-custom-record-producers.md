@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Add custom record producers to the service catalog in Care Team Operations for Environmental Services
 
-Add custom record producers that you have configured into service catalogs in [[cto-evs-landing|Care Team Operations for Environmental Services]].
+Add custom record producers that you have configured into service catalogs in Care Team Operations for Environmental Services.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: admin
 
 9.  Select **Save**.
 
-## Related
 
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

@@ -14,13 +14,13 @@ breadcrumb: [Predictive Intelligence for Universal Request, Configuring Universa
 
 # Train the classification solution to predict the assignment group
 
-Train the [[ur-landing-limitedaccess|Universal Request]] classification solution definition to identify and predict an assignment group using the short description and create service level tickets that are associated with the universal request.
+Train the Universal Request classification solution definition to identify and predict an assignment group using the short description and create service level tickets that are associated with the universal request.
 
 ## Before you begin
 
 Role required: admin
 
-Ensure that you have installed Predictive Intelligence \(com.glide.platform\_ml\) and [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]] \(com.snc.universal\_request.ml\) plugins.
+Ensure that you have installed Predictive Intelligence \(com.glide.platform\_ml\) and Predictive Intelligence for Universal Request \(com.snc.universal\_request.ml\) plugins.
 
 Set the **Enable universal request auto categorization** property to true by navigating to **Universal Request** &gt; **Administration** &gt; **Properties**. Enabling this property enables the application to use the **Universal Request Classification solution** for UR.
 
@@ -41,7 +41,3 @@ Set the **Enable universal request auto categorization** property to true by nav
 
 **Parent Topic:**[Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/predictive-intelligence-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]]

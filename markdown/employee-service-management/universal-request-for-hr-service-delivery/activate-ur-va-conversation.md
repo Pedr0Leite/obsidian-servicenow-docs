@@ -14,7 +14,7 @@ breadcrumb: [Universal Request plugins, Setting up and configuring Universal Req
 
 # Activate Universal Request Virtual Agent Conversations
 
-You can activate the [[ur-landing-limitedaccess|Universal Request]]: Virtual Agent Conversations plugin \(com.snc.universal\_request.va\) if you have the admin role. Activate this plugin to set up and use Virtual Agent in Universal Request. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Universal Request: Virtual Agent Conversations plugin \(com.snc.universal\_request.va\) if you have the admin role. Activate this plugin to set up and use Virtual Agent in Universal Request. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Install Predictive Intelligence
 
-Activate [[predictive-intelligence-landing|Predictive Intelligence]] on your instance and get started with basic configuration.
+Activate Predictive Intelligence on your instance and get started with basic configuration.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ For frequently asked questions regarding initial configuration and setup, see [K
 
 [Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

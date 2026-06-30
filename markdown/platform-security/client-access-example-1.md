@@ -12,7 +12,7 @@ breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform
 
 # Create encryption keys and certificate
 
-Create [[encryption-landing|encryption]] keys and a certificate using terminal commands on your local environment.
+Create encryption keys and a certificate using terminal commands on your local environment.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: none
     openssl req -newkey rsa:4096 -nodes -keyout sm_private_key.pem -x509 -days 365 -out sm_public_cert.pem
     ```
 
-    **Note:** This example uses OpenSSL to generate keys and [[c_Certificates|certificates]]. You may substitute other comparable tools based on your requirements.
+    **Note:** This example uses OpenSSL to generate keys and certificates. You may substitute other comparable tools based on your requirements.
 
     The command generates a private key and a public certificate \(with the matching public key\). A series of prompts for required information follows, starting with “Country Name.”
 
@@ -44,7 +44,7 @@ Role required: none
     -   Organization Name \(for example, company\)
     -   Organizational Unit name \(for example, section\)
     -   Common Name \(for example, fully qualified host name\)
-    -   [[email|Email]] address
+    -   Email address
     Work with your security team to verify that you enter the correct certificate information.
 
     \[Omitted image "client-side-1.png"\] Alt text: Prompts displayed by openssl
@@ -85,11 +85,5 @@ sm_private_key.pem sm_public_cert.pem > sm_keypair_bundle.pem
 7.  Check the folder again to verify that the new file containing your private key \(sm\_keypair\_bundle.pem\) and public certificate has been created.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]
-- [[email|Email]]

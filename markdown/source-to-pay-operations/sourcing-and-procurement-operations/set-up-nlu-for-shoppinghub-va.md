@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent Sourcing Procurement Operations, Sourcing Procurement
 
 # Set up NLU for Sourcing and Procurement Operations Virtual Agent
 
-Set up Natural Language Understanding \(NLU\) for [[psm-overview|Sourcing and Procurement Operations]] Virtual Agent before chatting with the Virtual Agent to optimize the search experience.
+Set up Natural Language Understanding \(NLU\) for Sourcing and Procurement Operations Virtual Agent before chatting with the Virtual Agent to optimize the search experience.
 
 ## Before you begin
 
@@ -79,6 +79,3 @@ You must have the following plugin installed on your instance: Natural Language 
 
 **Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

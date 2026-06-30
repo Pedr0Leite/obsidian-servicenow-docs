@@ -14,7 +14,7 @@ breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
 
 # Configuring Dynamic Translation for Agent Chat
 
-Activate Dynamic Translation for [[ci-use-agent-chat|Agent Chat]] \(DTAC\) so chat conversations can be translated from one language to another.
+Activate Dynamic Translation for Agent Chat \(DTAC\) so chat conversations can be translated from one language to another.
 
 \[Omitted image "icon-video-link.png"\] Alt text: Video link to Dynamic Translation. [Dynamic Translation for Agent Chat](https://www.youtube.com/watch?v=IsRVDvjHqXw) Watch this video for more information on global support with Dynamic Translation for Agent Chat.
 
@@ -51,7 +51,7 @@ and these system properties:
 
 ## Transferring from Virtual Agent to a live agent
 
-Once an agent accepts a chat, they can see the chat history between the [[virtual-agent-landing-page|Virtual Agent]] and requester in their preferred language for more context.
+Once an agent accepts a chat, they can see the chat history between the Virtual Agent and requester in their preferred language for more context.
 
 Virtual Agent topics must be set up in the desired languages prior to using DTAC. To learn more about how to set up topics, see [Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
 
@@ -96,7 +96,3 @@ Monitor the number of true values in the Translated column in the Interaction ta
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,13 +14,13 @@ breadcrumb: [Lifecycle Events evaluation interval, Configure a lifecycle event, 
 
 # View and use the Condition with Event BR \(Demo\) activity set
 
-You can trigger [[activity-lxp|activity]] sets using an event that is included in the Condition with Event BR \(Demo\) activity set or you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow.
+You can trigger activity sets using an event that is included in the Condition with Event BR \(Demo\) activity set or you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** To access the **Condition with Event BR \(Demo\)** activity set, activate the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \(com.sn\_hr\_lifecycle\_ent\) plugin. This is an optional method that can be used instead of the values in the **Evaluation interval** field.
+**Note:** To access the **Condition with Event BR \(Demo\)** activity set, activate the Human Resources Scoped App: Lifecycle Events for Enterprise \(com.sn\_hr\_lifecycle\_ent\) plugin. This is an optional method that can be used instead of the values in the **Evaluation interval** field.
 
 ## Procedure
 
@@ -41,7 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

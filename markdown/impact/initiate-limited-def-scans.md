@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]**, and then select one of the following:
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health**, and then select one of the following:
 
     -   **Definitions**
     -   **Definition Suites**
@@ -42,10 +42,5 @@ Role required:
         Definition suites group related definitions. Scanning a suite runs all definitions in that suite.
 
 
-**Parent Topic:**[[using-impact-scan-engine|Running on-demand scans]]
+**Parent Topic:**[Running on-demand scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/using-impact-scan-engine.md)
 
-## Related
-
-- [[using-impact-scan-engine|Running on-demand scans]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

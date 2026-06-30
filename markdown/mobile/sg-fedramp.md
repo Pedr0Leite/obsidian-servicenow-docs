@@ -79,7 +79,7 @@ For more information on the certificate used with the third party SDK, see [http
 
     For commercial instances, offline mode is enabled by default when the offline mode plugin is installed. To disable offline mode on a commercial instance, an administrator must create the **glide.sg.offline.enabled** system property on the \[sys\_properties\] table, and set the value of this property to `false`.
 
-    For more information on offline mode, see [[mobile-offline-mode|Offline mode]].
+    For more information on offline mode, see [Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md).
 
 -   **Screen blur on background**
 
@@ -102,6 +102,3 @@ For more information on the certificate used with the third party SDK, see [http
 
 The Federal Risk and Authorization Management Program \(FedRAMP\) creates a set of processes to ensure cloud security for the government. For more detail on this program, see [https://www.fedramp.gov/](https://www.fedramp.gov/).
 
-## Related
-
-- [[mobile-offline-mode|Offline mode]]

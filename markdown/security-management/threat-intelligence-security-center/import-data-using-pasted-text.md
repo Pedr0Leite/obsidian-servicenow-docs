@@ -14,7 +14,7 @@ breadcrumb: [Import Intelligence in TISC, Use, Threat Intelligence Security Cent
 
 # Import data using raw text
 
-Import the [[c_Observables|observables]] data by copying and pasting raw text or entering the free text.
+Import the observables data by copying and pasting raw text or entering the free text.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
     The Threat Intel Library page is displayed.
 
@@ -34,7 +34,7 @@ Role required: sn\_sec\_tisc.analyst
     -   For this pasted text option only URL, domain, file name, hashes, and IP address will be extracted and no other observable types will be extracted for the data import and in case of such type of observables such as registry, directory types, those will be skipped from importing.
 3.  Click **Import from raw text** card.
 
-    **Important:** While importing the [[threat-intel-landing-page|threat intelligence]] data in the raw text format the characters are limited to 10,000. The raw text option can be used as a workaround to extract the observables from the PDF.
+    **Important:** While importing the threat intelligence data in the raw text format the characters are limited to 10,000. The raw text option can be used as a workaround to extract the observables from the PDF.
 
 4.  On the form, fill in the fields.
 
@@ -154,8 +154,3 @@ Select the taxonomy for the imported data. Using taxonomies, define dictionaries
 
 [Import data using unstructured file format]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -34,10 +34,8 @@ Role required: admin
 
 6.  Activate the trigger by clicking on the **Active** toggle button.
 
-7.  Select `[[employee-center-landing-page|Employee Center]]` under **Portal**.
+7.  Select `Employee Center` under **Portal**.
 
 8.  Click **Save**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

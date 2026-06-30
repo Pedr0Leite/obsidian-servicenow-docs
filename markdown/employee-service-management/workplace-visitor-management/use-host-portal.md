@@ -22,13 +22,13 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center**.
 
-2.  On the Employee Center portal, select **Help Center** &gt; **[[workplace-services|Workplace Services]]**.
+2.  On the Employee Center portal, select **Help Center** &gt; **Workplace Services**.
 
 3.  From the Workplace Services, select **Open my visit list**.
 
-    The [[host-portal|host portal]] page opens with a list of upcoming visits.
+    The host portal page opens with a list of upcoming visits.
 
 4.  Perform any of the following actions based on your preference.
 
@@ -72,7 +72,7 @@ Selecting the pending tasks displays the tasks that the visitor hasn't completed
 </td><td>
 
 1.  Select **Create new visit**.
-2.  On the [[new-visit-form|New visit form]], fill in the fields.
+2.  On the New visit form, fill in the fields.
 
 For a description of the field values, see [New visit form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/new-visit-form.md).
 
@@ -81,7 +81,7 @@ For a description of the field values, see [New visit form](https://raw.githubus
 3.  Select **Create Visit**.
 4.  Add internal or external visitors.
 
-For more information about [[adding-visitors|adding visitors]], see [Adding visitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/adding-visitors.md).
+For more information about adding visitors, see [Adding visitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/adding-visitors.md).
 
 5.  Select **Confirm**.
 
@@ -122,10 +122,3 @@ For more information about adding visitors, see [Adding visitors](https://raw.gi
 
 [Review visitor policies]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[host-portal|Host portal]]
-- [[new-visit-form|New visit form]]
-- [[adding-visitors|Adding visitors]]

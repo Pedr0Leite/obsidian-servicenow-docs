@@ -22,7 +22,7 @@ Role required: none
 
 When you create a quiz, the system creates a default category with the name of the quiz. You can use this category, modify it, or create additional categories as needed. Categories are records in the **Quiz view** of the Metric Category table.
 
-Categories have [[c_AssessmentMetrics|weighting values]] that contribute to the overall score for the quiz. By default, all categories are given a weighting value of 10. You can assign any weight to your categories. To have any results, a category must contain scored questions.
+Categories have [weighting values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md) that contribute to the overall score for the quiz. By default, all categories are given a weighting value of 10. You can assign any weight to your categories. To have any results, a category must contain scored questions.
 
 ## Procedure
 
@@ -31,32 +31,22 @@ Categories have [[c_AssessmentMetrics|weighting values]] that contribute to the 
     \[Omitted image "Metric\_Categories\_Related\_List.png"\] Alt text: Metric categories related list
 
 
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
 [Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[t_SelectAUserForACategory|Select a user for a category]]
+[Select a user for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectAUserForACategory.md)
 
-[[r_AvailableDataTypes|Data types for quizzes]]
+[Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md)
 
-[[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
+[Change the order of an answer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 
-[[t_DistributeAQuiz|Distribute a quiz]]
+[Distribute a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DistributeAQuiz.md)
 
-[[t_ModifyAPublishedQuiz|Modify a published quiz]]
+[Modify a published quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 
-## Related
-
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_SelectAUserForACategory|Select a user for a category]]
-- [[r_AvailableDataTypes|Data types for quizzes]]
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[t_DistributeAQuiz|Distribute a quiz]]
-- [[t_ModifyAPublishedQuiz|Modify a published quiz]]

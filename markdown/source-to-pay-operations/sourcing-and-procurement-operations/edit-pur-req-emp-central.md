@@ -14,7 +14,7 @@ breadcrumb: [Purchase revision flows, Using Shopping Hub, Use, Sourcing and Proc
 
 # Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)
 
-You can edit and revise the quantity of a product or delivery location of a purchase line from Employee Center. You can also view the existing or current quantity or delivery date of the [[purchase-requisition|purchase requisition]] or order.
+You can edit and revise the quantity of a product or delivery location of a purchase line from Employee Center. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 2.  Look up the required purchase requisition or order using the search option.
 
-    You can find the required purchase requisition or order using the purchase requisition number, short description, [[purchase-order-table|purchase order]] \(PO\) number, or ERP number.
+    You can find the required purchase requisition or order using the purchase requisition number, short description, purchase order \(PO\) number, or ERP number.
 
 3.  Select a purchase requisition or order and select one of the following options:
 
@@ -275,7 +275,3 @@ Enter the reason for editing the purchase requisition or order.
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

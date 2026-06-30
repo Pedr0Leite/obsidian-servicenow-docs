@@ -14,7 +14,7 @@ breadcrumb: [Remediation, Using Cloud Configuration Governance, Cloud Configurat
 
 # Create a remediation action
 
-Create a remediation action in [[cloud-configuration-governance|Cloud Configuration Governance]] for the remediations that doesn’t require any additional input parameters.
+Create a remediation action in Cloud Configuration Governance for the remediations that doesn’t require any additional input parameters.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Minimum permission required
 
 </td><td>
 
-Minimum cloud permissions required to execute the [[ccg-remediation|remediation]].Cloud Configuration Governance doesn’t read the permissions information from this field. Use this field to store the permissions information for future reference.
+Minimum cloud permissions required to execute the remediation.Cloud Configuration Governance doesn’t read the permissions information from this field. Use this field to store the permissions information for future reference.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,3 @@ Name of the remediation catalog item that can be used to raise a remediation req
 
 Run the remediation action to fix the identified violation. For more information, see [Run remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-remediation|Remediation]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Hardware Asset Management, IT Asset Management]
 
 # Applying the CSDM guidelines to Hardware Asset Management
 
-[[ham-landing-page|Hardware Asset Management]] manages \(contributes data to\) CSDM tables. Hardware Asset Management also uses data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to Hardware Asset Management.
+Hardware Asset Management manages \(contributes data to\) CSDM tables. Hardware Asset Management also uses data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to Hardware Asset Management.
 
 ## Implementing the CSDM data framework
 
@@ -26,7 +26,7 @@ Using a CSDM standard and consistent set of terms and definitions helps to track
 
 ## Tables adhering to the CSDM guidelines managed by Hardware Asset Management
 
-1.  Product Model table \[cmdb\_model\]: The [[am-landing-page|Asset Management]] application manages and contributes data to this table.
+1.  Product Model table \[cmdb\_model\]: The Asset Management application manages and contributes data to this table.
 2.  Asset table \[alm\_asset\]: The Asset Management application manages this table containing asset details.
 
 ## CSDM table used by Hardware Asset Management
@@ -110,7 +110,3 @@ From the Xanadu release onward, when you opt in to CSDM, the life-cycle fields a
 
 For more details on synchronization of life-cycle fields, see [How life-cycle values for Asset, CI, and IBI are synchronized](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-asset-CI-IBI-sync-options.md).
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]

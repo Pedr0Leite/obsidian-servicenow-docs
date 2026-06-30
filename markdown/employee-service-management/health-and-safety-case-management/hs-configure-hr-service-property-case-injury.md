@@ -21,19 +21,19 @@ Configure the HR service that you want to use for creating HR cases for injuries
 Ensure that the following conditions are met:
 
 -   The Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is installed on your ServiceNow instance. For more information on activating it, see [Activate Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
--   The application scope is selected as [[hs-case-management-landing-page|Health and Safety Case Management]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   The application scope is selected as Health and Safety Case Management. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_hs\_cm.case\_manager and sn\_hr\_core.admin
 
 ## About this task
 
-For information on [[hr-service-administration|HR services]] and what you can configure, see [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md).
+For information on HR services and what you can configure, see [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md).
 
 ## Procedure
 
 1.  Copy the sys\_id of the HR service.
 
-    1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+    1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
     2.  In the list, select the HR service that you want to use for creating HR cases from injury and illness records.
 
@@ -41,7 +41,7 @@ For information on [[hr-service-administration|HR services]] and what you can co
 
 2.  Update the sys\_id of the HR service in the system property.
 
-    1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+    1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
     2.  In the **HR Service sys\_id** \(**sn\_hs\_cm.hr\_service\_sys\_id**\) property, update the sys\_id that you copied in step 1.
 
@@ -54,10 +54,3 @@ For information on [[hr-service-administration|HR services]] and what you can co
 
 **Next topic:**[Submitting Health and Safety cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-submitting-health-safety-cases.md)
 
-## Related
-
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]
-- [[health-safety-overview|Health and Safety]]

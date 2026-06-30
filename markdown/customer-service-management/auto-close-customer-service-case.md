@@ -23,7 +23,7 @@ The **Auto Close Resolved Cases** Flow Designer Flow identifies cases in the **R
 -   Sends a reminder notification to the customer after five days with no response that the case is pending solution acceptance.
 -   Closes the case and sends a reminder notification to the customer after 10 days that the case has been auto-closed.
 
-The notifications are added to the **Additional comments** field on the [[r_CustomerServiceCaseForm|Case form]].
+The notifications are added to the **Additional comments** field on the Case form.
 
 The administrator can enable the **Auto Close Resolved Cases** flow and configure the timing of the reminder notifications. The default settings include two notifications that are sent at 5 days and 10 days after a case has been resolved. The administrator can also create additional notifications to the flow.
 
@@ -35,7 +35,7 @@ Customer service agents can use the **Auto Close** field on the Case form to exc
 
 ## Configuring business rules for auto closure
 
-The administrator can configure business [[gamification-components-rules|rules]] to enable or disable the **Auto Close** field on the Case form.
+The administrator can configure business rules to enable or disable the **Auto Close** field on the Case form.
 
 <table id="table_rm5_g5p_zhb"><thead><tr><th>
 
@@ -70,7 +70,3 @@ Use this business rule to configure when the system automatically sets the **Aut
 
 [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[gamification-components-rules|Rules]]

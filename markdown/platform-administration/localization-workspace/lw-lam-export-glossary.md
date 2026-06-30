@@ -18,7 +18,7 @@ Download your glossary as a CSV or spreadsheet file to share with stakeholders, 
 
 ## Before you begin
 
--   Requires [[localization-workspace|Localization Workspace]] version 3.1.0 or later.
+-   Requires Localization Workspace version 3.1.0 or later.
 -   Roles required: both sn\_lw.user and sn\_lw.terminology\_manager.
 
 ## About this task
@@ -29,7 +29,7 @@ Translations into custom \(self-localized\) languages can't be exported. Only gl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Localization Workspace** &gt; **[[lw-language-asset-management|Language Asset Management]]**.
+1.  Navigate to **All** &gt; **Localization Workspace** &gt; **Language Asset Management**.
 
 2.  Select the **Glossaries** tab in Language Asset Management.
 
@@ -57,7 +57,3 @@ Translations into custom \(self-localized\) languages can't be exported. Only gl
 
 [Edit a glossary in Language Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-lam-edit-glossary.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[lw-language-asset-management|Language Asset Management]]

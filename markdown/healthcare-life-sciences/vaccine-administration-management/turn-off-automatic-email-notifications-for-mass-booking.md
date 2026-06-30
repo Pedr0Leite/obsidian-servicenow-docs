@@ -22,7 +22,7 @@ Role required: admin or sn\_vaccine\_sm.admin
 
 ## About this task
 
-Emails are auto-generated and shared when users request a vaccination through the self-service portal. [[hcls-vam|Vaccine Administration Management]] provides an appointment configuration that you can modify to stop emails from being sent for mass scheduling vaccine appointments.
+Emails are auto-generated and shared when users request a vaccination through the self-service portal. Vaccine Administration Management provides an appointment configuration that you can modify to stop emails from being sent for mass scheduling vaccine appointments.
 
 With the help of admin access, you can configure and modify the business rules to meet your organization’s requirements.
 
@@ -49,6 +49,3 @@ With the help of admin access, you can configure and modify the business rules t
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

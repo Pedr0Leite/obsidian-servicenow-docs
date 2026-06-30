@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Child tasks are defined with the same relationships, each lasting for the same duration as the original tasks. All [[t_CreateAProjectTask|project tasks]] are set to **Pending**. Actual duration and the actual start and end dates are reset to null values. The state is set to **New** and percent complete is set to 0. Administrators can override the Script Include CopyProjectFieldOverride to determine which fields are reset or to change the default values.
+Child tasks are defined with the same relationships, each lasting for the same duration as the original tasks. All project tasks are set to **Pending**. Actual duration and the actual start and end dates are reset to null values. The state is set to **New** and percent complete is set to 0. Administrators can override the Script Include CopyProjectFieldOverride to determine which fields are reset or to change the default values.
 
 ## Procedure
 
@@ -78,6 +78,3 @@ Child tasks are defined with the same relationships, each lasting for the same d
 
 [Copy a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyAProject.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

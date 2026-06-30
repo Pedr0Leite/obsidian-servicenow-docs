@@ -14,11 +14,11 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Honeycomb events
 
-Integrate Honeycomb with [[c_EM|Event Management]] by creating a webhook and configuring it as a trigger in the Honeycomb platform.
+Integrate Honeycomb with Event Management by creating a webhook and configuring it as a trigger in the Honeycomb platform.
 
 ## Before you begin
 
-[[r-discovery|Discovery]] for Honeycomb services and datasets is not supported. For event/CI binding to work, manually create a CI in the ServiceNow instance.
+Discovery for Honeycomb services and datasets is not supported. For event/CI binding to work, manually create a CI in the ServiceNow instance.
 
 Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
@@ -67,7 +67,3 @@ Honeycomb does not send severity information in the trigger message. The default
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

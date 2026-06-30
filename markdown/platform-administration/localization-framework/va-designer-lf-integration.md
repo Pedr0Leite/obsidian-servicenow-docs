@@ -14,7 +14,7 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Virtual Agent Designer integration with Localization Framework
 
-The integration of Virtual Agent Designer with [[localization-framework-landing|Localization Framework]] enables you to translate Virtual Agent topics using the [[translation-modes|translation modes]] supported by Localization Framework with or without a [[ia-localization-il|localization]] task.
+The integration of Virtual Agent Designer with Localization Framework enables you to translate Virtual Agent topics using the translation modes supported by Localization Framework with or without a localization task.
 
 ## Localizing Virtual Agent topics
 
@@ -28,8 +28,8 @@ The integration of Virtual Agent Designer with Localization Framework enables yo
 
     -   **Note:** You need the localization\_editor role to edit the translated content from the comparison UI of the Virtual Agent Designer directly. For more information about the localization\_editor role, see [Localization Framework Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/roles-localization-framework.md).
 
-    -   Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
--   [[language-picker-ui|Request translations]] from Virtual Agent Designer.
+    -   Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
+-   Request translations from Virtual Agent Designer.
 
     **Note:** Requesting translations creates localization tasks. You need the localization\_requester role to request translations.
 
@@ -40,10 +40,3 @@ For more information about localizing the Virtual Agent topics in the Virtual Ag
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[translation-modes|Translation modes]]
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]
-- [[language-picker-ui|Request translations]]

@@ -24,7 +24,7 @@ Role required:
 
 ## About this task
 
-In the [[sem-workspace-user-interface|Security Exposure Management workspace]], you can select the template with the assessment target as Change Approval \(CA\), to be used for the exception request \(such as, Exception for [[vuln-landing-page|Vulnerability Response]], False Positive for Vulnerability Response\). If you select the default template, it automatically populates the questions. If you choose to create your own template, it can be modified.
+In the Security Exposure Management workspace, you can select the template with the assessment target as Change Approval \(CA\), to be used for the exception request \(such as, Exception for Vulnerability Response, False Positive for Vulnerability Response\). If you select the default template, it automatically populates the questions. If you choose to create your own template, it can be modified.
 
 ## Procedure
 
@@ -39,10 +39,5 @@ In the [[sem-workspace-user-interface|Security Exposure Management workspace]], 
     -   **Template Categories**: Templates are categorized for easier management. Some template categories are provided by default, for example, Vulnerability Response Questionnaire Templates. Alternatively, you can also create templates of your choice.
     -   **Assessment Targets**: Specifies the table that the template is related to. For VR, it’s the CA table \(Change Approval table\).
 
-**Parent Topic:**[[sem-smart-assessment-exp-management|Questionnaire support in Exception Management via Smart Assessment]]
+**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-smart-assessment-exp-management.md)
 
-## Related
-
-- [[sem-smart-assessment-exp-management|Questionnaire support in Exception Management via Smart Assessment]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

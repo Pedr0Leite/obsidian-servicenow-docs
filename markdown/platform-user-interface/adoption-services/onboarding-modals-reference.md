@@ -14,7 +14,7 @@ breadcrumb: [Onboarding modals, Adoption services, Configure user experiences]
 
 # Reference
 
-Reference information for user roles and best practices when implementing [[next-experience-onboarding|onboarding modals]].
+Reference information for user roles and best practices when implementing onboarding modals.
 
 ## User Roles
 
@@ -22,7 +22,7 @@ Onboarding modals require specific role assignments for configuration and usage:
 
 |Role|Capabilities|
 |----|------------|
-|admin|Full access to create, edit, and delete guidance records, guidance steps, and help content. Can [[configure-onboarding-modals|configure]] client scripts and launch mechanisms. Access to all [[adoption-services|Adoption Services]] modules.|
+|admin|Full access to create, edit, and delete guidance records, guidance steps, and help content. Can configure client scripts and launch mechanisms. Access to all Adoption Services modules.|
 |help\_content\_admin|Edit existing guidance content without full administrative privileges. Useful for content management teams maintaining onboarding materials.|
 |User \(any role\)|View and interact with onboarding modals assigned to their role. Navigate through steps, answer questions, and dismiss or complete modals.|
 
@@ -53,8 +53,3 @@ Follow these guidelines to create effective onboarding experiences:
 
 **Parent Topic:**[Onboarding modals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/next-experience-onboarding.md)
 
-## Related
-
-- [[next-experience-onboarding|Onboarding modals]]
-- [[configure-onboarding-modals|Configure]]
-- [[adoption-services|Adoption services]]

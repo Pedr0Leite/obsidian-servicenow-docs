@@ -14,11 +14,11 @@ breadcrumb: [Strategy Accelerators, Accelerator catalog, View the Initiatives an
 
 # CoEI Influencing Funding Strategy
 
-The Center of Excellence &amp; Innovation \(CoEI\) Funding Strategy Accelerator advises [[impact-landing-page|Impact]] customers on how to identify and develop a strategic CoEI Funding approach.​
+The Center of Excellence &amp; Innovation \(CoEI\) Funding Strategy Accelerator advises Impact customers on how to identify and develop a strategic CoEI Funding approach.​
 
 ## Accelerator overview
 
-CoEI Funding Strategy Accelerator Accelerator provides Impact customers with leading practices content and prescriptive guidance and support to build a funding model within their organization. This Accelerator aims to [[io-help|help]] you use the CoEI Funding Strategy as a vehicle to realize and accelerate the value received from ServiceNow products.
+CoEI Funding Strategy Accelerator Accelerator provides Impact customers with leading practices content and prescriptive guidance and support to build a funding model within their organization. This Accelerator aims to help you use the CoEI Funding Strategy as a vehicle to realize and accelerate the value received from ServiceNow products.
 
 ## Package Availability
 
@@ -317,7 +317,7 @@ System Administrators
 
 </td></tr><tr><td>
 
-[[technical-governance|Technical governance]] board lead
+Technical governance board lead
 
 </td><td>
 
@@ -342,8 +342,3 @@ Leads the technical governance board that establishes policies and procedures fo
 
 ServiceNow resources are not responsible for implementation or management of the ServiceNow CoEI. 
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[technical-governance|Technical Governance]]

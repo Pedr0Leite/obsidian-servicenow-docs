@@ -17,7 +17,7 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 Notifications provide real-time alerts and updates about important events, task assignments, system changes, and organizational announcements.
 
-[[employee-slate-landing-page|Employee Slate]] surfaces all relevant platform updates in a single notification tray accessible from every page. You see tasks, approvals, requests, and case [[activity-lxp|activity]] in one place instead of monitoring separate queues or inboxes. The tray works the same way on the desktop portal and on the mobile web.
+Employee Slate surfaces all relevant platform updates in a single notification tray accessible from every page. You see tasks, approvals, requests, and case activity in one place instead of monitoring separate queues or inboxes. The tray works the same way on the desktop portal and on the mobile web.
 
 ## Notifications
 
@@ -49,7 +49,7 @@ Every notification moves through three states that reflect how you have interact
 
 ## Preconfigured notification use cases
 
-[[employee-slate-nowassist|Employee Slate for Now Assist]] includes 14 preconfigured notification use cases. These use cases cover common events across HR, IT, and service request workflows. They are active by default and don't require additional configuration.
+Employee Slate for Now Assist includes 14 preconfigured notification use cases. These use cases cover common events across HR, IT, and service request workflows. They are active by default and don't require additional configuration.
 
 -   HR case closed.
 -   HR case commented.
@@ -70,8 +70,3 @@ Every notification moves through three states that reflect how you have interact
 
 In Moveworks deployments, administrators configure notifications on the Moveworks platform instead of through Employee Slate Admin Console. Moveworks notifications appear in Employee Slate persistent navigation alongside platform-triggered notifications. You see all your alerts in one place. Selecting a Moveworks notification brings the related update into Moveworks AI Assistant context. You can ask follow-on questions or take direct action from the assistant.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[activity-lxp|Activity]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]

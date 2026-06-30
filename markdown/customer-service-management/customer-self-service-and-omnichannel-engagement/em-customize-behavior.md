@@ -32,7 +32,7 @@ Role required: sn\_csm\_ec.ec\_admin
 
 3.  In the Edit module column, select **Edit**.
 
-4.  In the [[create-engagement-messenger-module|Configure Engagement Messenger]] module, select the **Behavior** tab.
+4.  In the Configure Engagement Messenger module, select the **Behavior** tab.
 
 5.  In the **Behavior** tab, configure the **Recommendations** and **Proactive** settings to define the Engagement Messenger functions.
 
@@ -42,6 +42,4 @@ Role required: sn\_csm\_ec.ec\_admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

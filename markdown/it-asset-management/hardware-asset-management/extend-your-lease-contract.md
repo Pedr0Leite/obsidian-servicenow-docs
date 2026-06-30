@@ -24,11 +24,11 @@ Role required: itil, contract\_manager, inventory\_admin, or ham\_admin,
 
 After you choose to extend the lease contract of your asset, various Contract Asset tasks are created to take care of the contract extension process. Close each task to go to the next task and to complete the process.
 
-**Note:** To close the Extension tasks, the Purchase order that is created for the leased asset must be approved by the [[c_Procurement|Procurement]] manager.
+**Note:** To close the Extension tasks, the Purchase order that is created for the leased asset must be approved by the Procurement manager.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **Leases**.
+1.  Navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Leases**.
 
 2.  Under the Related Links section, click the Leased Assets related list.
 
@@ -77,7 +77,3 @@ A new contract is created with the start and end dates set as the extension star
 
 **Parent Topic:**[Manage your expiring contracts for leased hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-leased-hw-asts-expiring-contract.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_Contracts|Contracts]]

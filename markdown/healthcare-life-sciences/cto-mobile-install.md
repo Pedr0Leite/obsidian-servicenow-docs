@@ -12,7 +12,7 @@ breadcrumb: [Configure Care Team Mobile, Care Team Mobile, Healthcare Operations
 
 # Activate Care Team Mobile
 
-Activate the [[care-team-mobile-landing|Care Team Mobile]] plugin \[com.sn\_cto\_mobile\] if you have the admin role. This plugin includes demo data and activates related plugins if they aren’t already active.
+Activate the Care Team Mobile plugin \[com.sn\_cto\_mobile\] if you have the admin role. This plugin includes demo data and activates related plugins if they aren’t already active.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ The following plugins are activated with Care Team Mobile:
 
 4.  Select **Install**.
 
-## Related
 
-- [[care-team-mobile-landing|Care Team Mobile]]

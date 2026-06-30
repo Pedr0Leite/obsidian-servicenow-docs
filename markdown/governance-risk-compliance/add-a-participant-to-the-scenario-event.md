@@ -12,7 +12,7 @@ breadcrumb: [Enable the legacy scenario analysis flow, Legacy scenario analysis,
 
 # Add a participant and monitor the responses
 
-Add a participant to the [[scenario-analysis-ov|scenario analysis]] first and then add the scenario event, services, issues, and so on. If you are the scenario analysis owner, you can add the stakeholders and reviewers to the scenario analysis in [[grc-opres-landing-page|Operational Resilience]] Workspace. You can then collate the observations of all participants and monitor their responses to analyze the scenario.
+Add a participant to the scenario analysis first and then add the scenario event, services, issues, and so on. If you are the scenario analysis owner, you can add the stakeholders and reviewers to the scenario analysis in Operational Resilience Workspace. You can then collate the observations of all participants and monitor their responses to analyze the scenario.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_oper\_res.manager
 
 1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All scenario analysis** and select the scenario analysis that you own.
 
-2.  Navigate to the **Participants** tab in the [[sce-event-form|scenario event form]] and then either add a participant from an available list or add a new participant.
+2.  Navigate to the **Participants** tab in the scenario event form and then either add a participant from an available list or add a new participant.
 
     |Step|Description|
     |----|-----------|
@@ -71,7 +71,7 @@ Role required: sn\_oper\_res.manager
 
     6.  Log out from the scenario analysis response record.
 
-    For the descriptions of the field values on the scenario analysis response task form, see [[response-task-form|Scenario analysis response task form]].
+    For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/response-task-form.md).
 
 4.  Log in as the owner of the scenario event.
 
@@ -90,13 +90,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-To associate an issue or [[exploring-op-vul|operational vulnerability]] with the scenario analysis, see [[add-an-issue-to-the-analysis|Link issues and operational vulnerabilities]].
+To associate an issue or operational vulnerability with the scenario analysis, see [Link issues and operational vulnerabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-an-issue-to-the-analysis.md).
 
-## Related
-
-- [[response-task-form|Scenario analysis response task form]]
-- [[add-an-issue-to-the-analysis|Link issues and operational vulnerabilities]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[sce-event-form|Scenario event form]]
-- [[exploring-op-vul|Operational vulnerability]]

@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Create Physical Connection function
 
-The Create Physical Connection function enables you to create a physical connection record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application based on the input that you receive when you instantiate an inventory.
+The Create Physical Connection function enables you to create a physical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory.
 
 You can use the Create Physical Connection function to create a physical port connection on the interface cards in your networks.
 
@@ -79,6 +79,3 @@ The following table lists the information about the function output.
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

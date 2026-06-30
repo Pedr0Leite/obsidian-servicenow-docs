@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Sync context variables to CPQ
 
-Sync context variables to CPQ to be associated with [[blueprints|blueprints]].
+Sync context variables to CPQ to be associated with blueprints.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Context variables provide the business data that pricing and configuration [[rules_101|rules]] need to evaluate a transaction, such as the shipping country, currency, or customer tier. Before this data can be used in rules, the context variable definition must be available in the rules engine. Syncing a context variable to CPQ publishes its definition, including its type, mapping, and whether it applies at the transaction header or line level to the rules engine, where you can reference it directly in blueprint rules without writing [[scripts|scripts]].
+Context variables provide the business data that pricing and configuration rules need to evaluate a transaction, such as the shipping country, currency, or customer tier. Before this data can be used in rules, the context variable definition must be available in the rules engine. Syncing a context variable to CPQ publishes its definition, including its type, mapping, and whether it applies at the transaction header or line level to the rules engine, where you can reference it directly in blueprint rules without writing scripts.
 
 Administrators can sync context variables to CPQ, if not already. Context variables are synced automatically when newly created or updated. Existing context variables that are not synced can be synced manually.
 
@@ -43,17 +43,10 @@ Administrators can sync context variables to CPQ, if not already. Context variab
 
 The **Synced to CPQ** field in the Context Variables list is set to true after the sync is successful and the context variable is can be associated with blueprints and rules.
 
-Navigate to **All** &gt; **CPQ Administration** &gt; **ALL [[fields|FIELDS]]** to verify and use the synced context variables.
+Navigate to **All** &gt; **CPQ Administration** &gt; **ALL FIELDS** to verify and use the synced context variables.
 
 **Related topics**  
 
 
-[[som-create-context-variable|Create a custom context variable]]
+[Create a custom context variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-context-variable.md)
 
-## Related
-
-- [[som-create-context-variable|Create a custom context variable]]
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]
-- [[fields|Fields]]

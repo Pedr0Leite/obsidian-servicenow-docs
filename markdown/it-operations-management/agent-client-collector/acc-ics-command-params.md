@@ -15,7 +15,7 @@ breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Co
 
 # Agent Client Collector MID-less installation command parameters
 
-Description of the command line parameters used during MID-less [[acc-installation|Agent Client Collector installation]].
+Description of the command line parameters used during MID-less Agent Client Collector installation.
 
 <table id="table_rrx_lzd_ndc"><thead><tr><th>
 
@@ -39,7 +39,7 @@ ACC\_CNC
 
 </td><td>
 
-Specify a public gateway endpoint for [[acc-landing-page|Agent Client Collector]].
+Specify a public gateway endpoint for Agent Client Collector.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,3 @@ Optional string; to disable verification of the installer certification validati
 
 [Configure the websocket server on the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configure-web-server.md)
 
-## Related
-
-- [[acc-installation|Agent Client Collector installation]]
-- [[acc-landing-page|Agent Client Collector]]

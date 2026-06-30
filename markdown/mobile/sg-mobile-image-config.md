@@ -35,8 +35,5 @@ Role required: admin
     Your app is configured to use the Google Vision API for photo search. Repeat the steps if for your other mobile apps if you want to include the photo search option in those apps. Before using the photo search, you must still enable the system property as detailed in the next steps.
 
 
-**Parent Topic:**[[sg-configure-image-search|Configure photo search]]
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 
-## Related
-
-- [[sg-configure-image-search|Configure photo search]]

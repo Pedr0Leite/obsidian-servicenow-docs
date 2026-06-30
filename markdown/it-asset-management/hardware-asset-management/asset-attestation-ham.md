@@ -16,7 +16,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 Use Asset Attestation to maintain accurate details of all the serialized hardware assets that are assigned to your employees.
 
-Asset Attestation has no dependency on the availability of the assets at the office locations. Therefore, organizations that support hybrid and remote work [[c_Models|models]] can audit their assets that are in use even if those assets are dispersed across remote locations. You can achieve asset data accuracy, improve asset utilization, and reduce risk by auditing your assets using Asset Attestation.
+Asset Attestation has no dependency on the availability of the assets at the office locations. Therefore, organizations that support hybrid and remote work models can audit their assets that are in use even if those assets are dispersed across remote locations. You can achieve asset data accuracy, improve asset utilization, and reduce risk by auditing your assets using Asset Attestation.
 
 As an Asset manager or an Inventory administrator, you can create a one-time asset attestation or create an attestation schedule that creates recurring asset attestations. You can validate whether the serialized hardware asset that's assigned to an employee is still in use by receiving confirmation from the employee directly.
 
@@ -24,11 +24,11 @@ As an Asset manager or an Inventory administrator, you can create a one-time ass
 
 -   Step-by-step guidance on creating asset attestations and schedules using the playbook. For more details, see [Playbook for asset attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/playbook-asset-attestation-ham.md).
 
-    **Important:** Starting with [[ham-landing-page|Hardware Asset Management]] version 13.0.0, the playbook is the default option for the creation of asset attestations and schedules. However, if you set the value of the **sn\_itam\_common.enable\_asset\_attestation\_playbook** system property to **false** with the asset or inventory\_admin role, you will be shown forms to complete the attestation process instead of the playbook.
+    **Important:** Starting with Hardware Asset Management version 13.0.0, the playbook is the default option for the creation of asset attestations and schedules. However, if you set the value of the **sn\_itam\_common.enable\_asset\_attestation\_playbook** system property to **false** with the asset or inventory\_admin role, you will be shown forms to complete the attestation process instead of the playbook.
 
 -   Ability to perform remote asset audits for the required hardware assets irrespective of their locations. For more details, see [Create an asset attestation in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-req-ham.md).
 -   Option to set a schedule for creating recurring asset attestations. For more details, see [Create an asset attestation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attest-schedule-ham.md).
--   Intuitive and user-friendly [[now-mobile-asset|Now Mobile app]] and Employee Center portal that enable the employees to confirm the ownership of the assigned hardware assets and also raise issues related to their hardware and [[c_ReceiveAConsumableAsset|consumable assets]]. For more details, see the following:
+-   Intuitive and user-friendly Now Mobile app and Employee Center portal that enable the employees to confirm the ownership of the assigned hardware assets and also raise issues related to their hardware and consumable assets. For more details, see the following:
     -   [Confirm the assigned assets using the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/confirm-ham-assets-now-mobile.md)
     -   [Confirm the assigned assets on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/confirm-assets-on-emp-center.md)
     -   [Raise issue related to your asset on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/report-asset-issue-attestation.md)
@@ -52,11 +52,11 @@ If you plan to audit your assets by using Asset Attestation, then consider the f
 -   Consumables, bundles, and pallets can't be attested.
 -   Attestation supports assets that belong to resource categories of HAM solutions only if they’re opted-in.
     -   Hardware Asset Management integration with Telecommunications Network Inventory- Only assets of Server, Network gear, and Telecom Network Inventory \(TNI\) resource categories can be attested.
-    -   [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]]- Only assets of Mobile Device resource category can be attested.
+    -   Hardware Asset Management integration with Zero Touch Mobility- Only assets of Mobile Device resource category can be attested.
 
 ## Asset Attestation workflow
 
-1.  An Asset manager or an Inventory administrator creates a one-time asset attestation by selecting the employees assigned with the assets and the [[model-hierarchy|model categories]] of the assets.
+1.  An Asset manager or an Inventory administrator creates a one-time asset attestation by selecting the employees assigned with the assets and the model categories of the assets.
 
     An attestation record is created in the Asset Attestation \[sn\_itam\_common\_asset\_attestation\] table. Also, the details of the asset to be attested are added to the Attestations for Asset \[sn\_itam\_common\_attestation\_asset\_m2m\] table.
 
@@ -76,11 +76,3 @@ If you plan to audit your assets by using Asset Attestation, then consider the f
 
 For more details on Asset Attestation, see [Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md).
 
-## Related
-
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[now-mobile-asset|Now Mobile app]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]]
-- [[model-hierarchy|Model categories]]

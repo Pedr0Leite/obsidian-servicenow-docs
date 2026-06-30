@@ -12,7 +12,7 @@ breadcrumb: [Reference, Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics UI artifacts
 
-Core UI and Next Experience UI artifacts are located under [[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration. Users with the admin role can navigate from these components to the associated tables.
+Core UI and Next Experience UI artifacts are located under Platform Analytics Administration. Users with the admin role can navigate from these components to the associated tables.
 
 ## Core UI artifacts
 
@@ -22,9 +22,9 @@ Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Core UI Ar
 
     Opens `pa_dashboards.list`. Select any dashboard to open its form.
 
-    Select one or more entries and choose **Actions on selected rows** &gt; **Migrate dashboard** to migrate them to [[par-workspace|Platform Analytics experience]] dashboards.
+    Select one or more entries and choose **Actions on selected rows** &gt; **Migrate dashboard** to migrate them to Platform Analytics experience dashboards.
 
--   **[[widgets|Widgets]]**
+-   **Widgets**
 
     Opens `pa_widgets.list`. Select any widget to open its form.
 
@@ -36,7 +36,7 @@ Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Core UI Ar
 
     Select one or more entries and choose **Actions on selected rows** &gt; **Migrate report** to migrate them to Platform Analytics experience data visualizations.
 
--   **[[c_HomepagePublishers|Interactive Filters]]**
+-   **Interactive Filters**
 
     Opens `sys_ui_hp_publisher.list`. Select any filter to open its form.
 
@@ -62,12 +62,5 @@ Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Next Exper
     Opens `par_component_filter.list`. Select any filter to open its form.
 
 
-**Parent Topic:**[[platform-analytics-exp-reference|Platform Analytics experience reference]]
+**Parent Topic:**[Platform Analytics experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-exp-reference.md)
 
-## Related
-
-- [[platform-analytics-exp-reference|Platform Analytics experience reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]

@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Network host availability check
 
-[[acc-landing-page|Agent Client Collector]] provides the following default check for network ping monitoring. The check is available for both Windows and Linux.
+Agent Client Collector provides the following default check for network ping monitoring. The check is available for both Windows and Linux.
 
 <table id="table_wf5_rkn_jdc"><thead><tr><th>
 
@@ -83,6 +83,3 @@ ICMP ping unsuccessful for host: 192.168.1.1 (successful: 0/5)
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

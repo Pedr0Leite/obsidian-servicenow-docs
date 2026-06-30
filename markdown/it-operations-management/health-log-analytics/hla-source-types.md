@@ -15,7 +15,7 @@ breadcrumb: [Additional data input setup tasks, Set up data inputs manually, Set
 
 # Configure source type capabilities in Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] extracts source types automatically in the mapping process. You can add timestamp formats and specify, delete, or exclude keywords for individual source types.
+Health Log Analytics extracts source types automatically in the mapping process. You can add timestamp formats and specify, delete, or exclude keywords for individual source types.
 
 ## Before you begin
 
@@ -135,6 +135,3 @@ Boolean value. If selected, Health Log Analytics looks for a case-sensitive matc
 
 **Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-extra.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Reorder promoted LLM conversational subflows, actions, and topics
 
-Rearrange LLM assets like conversational subflows, conversational actions, and topics to the desired order after promoting them for recommendation by the [[virtual-agent-landing-page|Virtual Agent]].
+Rearrange LLM assets like conversational subflows, conversational actions, and topics to the desired order after promoting them for recommendation by the Virtual Agent.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Repeat the previous steps to adjust any other promoted assets to sort them in a 
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

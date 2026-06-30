@@ -14,7 +14,7 @@ breadcrumb: [Zing removes stop words from queries, Zing text indexing and search
 
 # Configure a table-specific stop word
 
-You can configure [[stop-words-ais|stop words]] for a specific table.
+You can configure stop words for a specific table.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: ts\_admin or admin
 
 [Disable a stop word in Zing]()
 
-## Related
-
-- [[stop-words-ais|Stop words]]

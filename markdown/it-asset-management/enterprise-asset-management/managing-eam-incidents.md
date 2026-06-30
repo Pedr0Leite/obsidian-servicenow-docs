@@ -14,16 +14,12 @@ breadcrumb: [Managing enterprise models and assets, Enterprise Asset Management,
 
 # Managing incidents in Enterprise Asset Management
 
-Incident managers or users with the itil role configure the [[enterprise-asset-management|Enterprise Asset Management]] application by creating, updating, and resolving IT incidents for enterprise assets.
+Incident managers or users with the itil role configure the Enterprise Asset Management application by creating, updating, and resolving IT incidents for enterprise assets.
 
 -   **[Create an Enterprise Asset Management incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-incident.md)**  
 Create an incident record to document a deviation from an expected Enterprise Asset Management standard of operation.
 -   **[Resolve and close an Enterprise Asset Management incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/resolve-eam-incident.md)**  
 Take action on the assets that are affected by an Enterprise Asset Management incident so that you can resolve and close the incident.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

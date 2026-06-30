@@ -20,10 +20,10 @@ Workplace Event planners can view the change event reservation case details and 
 
 The following applications should be installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
+-   Workplace Core
+-   Workplace Case Management
+-   Workplace Reservation Management
+-   Workplace Concierge
 
 Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
@@ -33,7 +33,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
     Select and review the work notes details for a change event reservation case. For more information, see [Submit a change event request for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-change-event-reservation.md).
 
-    When a change event reservation request is submitted by a workplace user, a workplace case is created. The workplace case is assigned automatically to the Workplace Event Planners group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When the case is assigned to a Workplace [[event-planner|Event planner]], the AI agentic workflow Help manage workplace reservations is triggered. AI agents autonomously retrieve the reservation from the case details and analyze the reservation to update it to a new date, time, and duration. For more information, see [Help manage workplace reservations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/manage-workplace-reservations-agent-ai.md).
+    When a change event reservation request is submitted by a workplace user, a workplace case is created. The workplace case is assigned automatically to the Workplace Event Planners group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When the case is assigned to a Workplace Event planner, the AI agentic workflow Help manage workplace reservations is triggered. AI agents autonomously retrieve the reservation from the case details and analyze the reservation to update it to a new date, time, and duration. For more information, see [Help manage workplace reservations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/manage-workplace-reservations-agent-ai.md).
 
     AI agents notifies the Workplace Event Planners using the Now Assist panel conversational interface. For more information, see [Review notifications in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/agentic-workflow-notifications-nowassist.md). The workplace notes are also added for a change event request case.
 
@@ -43,7 +43,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
 3.  Scroll down and review the Comments and Work Notes section.
 
-    Review the [[activity-lxp|activity]] log and resolution notes provided by AI agents for a change event request case.
+    Review the activity log and resolution notes provided by AI agents for a change event request case.
 
 
 **Parent Topic:**[Managing Workplace cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/manage-workplace-cases.md)
@@ -59,11 +59,3 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
 [Managing print cases]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[event-planner|Event Planner]]
-- [[activity-lxp|Activity]]

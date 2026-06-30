@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Recommended Actions application, Recommended Action
 
 # Creating guidance and field recommendation in Recommended Actions
 
-Create guidances and field recommendations that you can use to configure [[configure-nba|recommended actions]].
+Create guidances and field recommendations that you can use to configure recommended actions.
 
 ## Configuring guidances
 
@@ -88,6 +88,3 @@ Field recommendation suggests a value for a field in the record form. Creating a
 -   Selecting the inputs for the recommendation.
 -   Creating the instructions about how to use those inputs.
 
-## Related
-
-- [[configure-nba|Recommended Actions]]

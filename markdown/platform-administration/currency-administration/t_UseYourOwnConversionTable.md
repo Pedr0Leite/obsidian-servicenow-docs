@@ -30,7 +30,7 @@ If ECB does not supply the daily rates for a specific currency, you can manually
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Open the job named **Update Currency Conversion Rates**.
 
@@ -43,6 +43,3 @@ If ECB does not supply the daily rates for a specific currency, you can manually
 
 **Parent Topic:**[Default currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-conversions.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]

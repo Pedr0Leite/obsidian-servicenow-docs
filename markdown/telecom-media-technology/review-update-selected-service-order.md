@@ -33,9 +33,9 @@ Role required: sn\_ind\_tmt\_orm.service\_order\_agent, sn\_ind\_tmt\_orm.servic
 
     |Task|Description|
     |----|-----------|
-    |Review the order line items and related details|See [[service-order-mgt-review-service-order-line-related-detail|Review the line items and related details for a service order]].|
-    |Review the order characteristics|See [[service-order-mgt-review-update-service-order-char-values|Review and update the characteristic values on a service order]].|
-    |Review the order fulfillment tasks|See [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]].|
+    |Review the order line items and related details|See [Review the line items and related details for a service order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-service-order-line-related-detail.md).|
+    |Review the order characteristics|See [Review and update the characteristic values on a service order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-update-service-order-char-values.md).|
+    |Review the order fulfillment tasks|See [Review and update the service order fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-service-order-tasks.md).|
 
 5.  When you finish reviewing and updating the entire service order, perform one of the following actions.
 
@@ -61,14 +61,7 @@ Select **Save**.
 
 </td><td>
 
-Select **Approve**. To learn more, see [[service-order-mgt-review-approve-service-orders|Reviewing service orders for fulfillment]].**Note:** Only service order managers with an assigned \[sn\_ind\_tmt\_orm.service\_order\_manager\] role can approve service orders.
+Select **Approve**. To learn more, see [Reviewing service orders for fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-approve-service-orders.md).**Note:** Only service order managers with an assigned \[sn\_ind\_tmt\_orm.service\_order\_manager\] role can approve service orders.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-order-mgt-review-service-order-line-related-detail|Review the line items and related details for a service order]]
-- [[service-order-mgt-review-update-service-order-char-values|Review and update the characteristic values on a service order]]
-- [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]]
-- [[service-order-mgt-review-approve-service-orders|Reviewing service orders for fulfillment]]

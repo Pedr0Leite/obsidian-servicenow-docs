@@ -14,10 +14,7 @@ breadcrumb: [Scheduling and dispatching, Use, Field Service Management]
 
 # Allowing contractors to bid on work orders and tasks
 
-[[fsm-marketplace|Field Service Marketplace]] optimizes contractor management, improves communication, and streamlines task allocation processes.
+Field Service Marketplace optimizes contractor management, improves communication, and streamlines task allocation processes.
 
 With Field Service Marketplace, you can post tasks on the marketplace. Contractors can then use their mobile devices to respond to these requests. This makes it easy to manage tasks on-the-go.
 
-## Related
-
-- [[fsm-marketplace|Field Service Marketplace]]

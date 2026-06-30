@@ -36,11 +36,11 @@ Connector to the Jack Henry jXchange core system.
 
 </td></tr><tr><td>
 
-[[financial-services-operations-core-data-model|Financial Services Operations Core]] \(com.sn\_bom\)
+Financial Services Operations Core \(com.sn\_bom\)
 
 </td><td>
 
-Application that is automatically installed when you install any of the [[fso-banking-overview|Financial Services Operations banking applications]].
+Application that is automatically installed when you install any of the Financial Services Operations banking applications.
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -96,10 +96,5 @@ Product Model Mapping\[sn\_fso\_intg\_jha\_product\_model\_mapping\]
 Table that stores the unique identification value in its ID field. This value is generated when the product model record was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]]
+</table>**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-jha-integthub-landing-page.md)
 
-## Related
-
-- [[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-banking-overview|Financial Services Operations banking applications]]

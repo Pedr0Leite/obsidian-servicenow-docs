@@ -18,7 +18,7 @@ Several contact flows and operation handlers are installed with Cloud Call Cente
 
 |Contact flow|Description|
 |------------|-----------|
-|ServiceNow CSM Inbound Demo Flow|Contains the call tree for inbound calls. When a caller contacts the call center, using the voice or dual-tone multi frequency \(DTMF\) inputs from caller, the contact flow is invoked in the Amazon [[c_Connect|Connect]] instance based on the caller context. This contact flow contains nodes that act as integration points between Amazon services and the ServiceNow instance. Based on the nodes defined in the contact flow, the corresponding operation handlers are triggered in the ServiceNow instance. The caller then gets the response that is defined in the operation handler.|
+|ServiceNow CSM Inbound Demo Flow|Contains the call tree for inbound calls. When a caller contacts the call center, using the voice or dual-tone multi frequency \(DTMF\) inputs from caller, the contact flow is invoked in the Amazon Connect instance based on the caller context. This contact flow contains nodes that act as integration points between Amazon services and the ServiceNow instance. Based on the nodes defined in the contact flow, the corresponding operation handlers are triggered in the ServiceNow instance. The caller then gets the response that is defined in the operation handler.|
 |ServiceNow CSM Outbound Demo Flow|Contains the call tree for outbound calls. It specifies the whisper message that a caller hears before getting connecting to an agent.|
 |ServiceNow CSM Transfer to Agent Flow|The call is relocated to another persona using call transfer functionality. A new PhoneLog is created with each transfer. The PhoneLog also includes any attachments associated with the interaction. Call transfers can be done with either incoming and outgoing calls.|
 |ServiceNow CSM Transfer to Queue Flow|The inbound call is relocated to a queue using call transfer functionality. A new PhoneLog is created with each transfer. The PhoneLog also includes any attachments associated with the interaction. Call transfers can be done with either incoming and outgoing calls.|
@@ -37,9 +37,5 @@ Several contact flows and operation handlers are installed with Cloud Call Cente
 |updateCSMInteraction|Updates an existing interaction record in the ServiceNow instance for the incoming calls.|
 |fetchCSMInteraction|Fetches interaction and processes sn\_cti\_csm\_cnt.enable\_ims\_update sys property for creating conversation.|
 
-**Parent Topic:**[[ccc-reference|ServiceNow Voice reference]]
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 
-## Related
-
-- [[ccc-reference|ServiceNow Voice reference]]
-- [[c_Connect|Connect]]

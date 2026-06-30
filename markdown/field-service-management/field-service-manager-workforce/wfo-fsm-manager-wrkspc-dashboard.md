@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization, Managing workforce, Use, Field Service Mana
 
 # Workforce Optimization for Field Service Manager Workspace dashboard
 
-Monitor your teams' work and organizational performance using [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]. Stay on top of the status of the tasks your teams are working on at a given time.
+Monitor your teams' work and organizational performance using Workforce Optimization for Field Service. Stay on top of the status of the tasks your teams are working on at a given time.
 
 \[Omitted image "Manager-wrkspc.png"\] Alt text: Dashboard showing active agent statuses and work order tasks filtered by priority and status.
 
@@ -276,7 +276,3 @@ Displays the list of active tasks by status.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

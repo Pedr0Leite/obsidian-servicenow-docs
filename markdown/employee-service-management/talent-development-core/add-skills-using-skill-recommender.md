@@ -14,7 +14,7 @@ breadcrumb: [Using Skills Foundation, Skills Foundation, Growth Experiences, HR 
 
 # Add skills by using the skill recommender
 
-Search for the skills that you're interested in developing or improving and then add them to your skills profile by using the skills recommender in the [[skills-intelligence|Skills Foundation]] application.
+Search for the skills that you're interested in developing or improving and then add them to your skills profile by using the skills recommender in the Skills Foundation application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ By adding skills to your profile, you can track all these details in one place.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In the Employee Center, navigate to **Profile** &gt; **Career**.
 
@@ -49,7 +49,3 @@ The skill is added to your additional skills section.
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[employee-center-landing-page|Employee Center]]

@@ -29,7 +29,7 @@ If the Close code or Close notes fields are already updated for a security incid
 
 1.  In the legacy Core UI, navigate to **All** &gt; **Security Incident** &gt; **Incidents** and open a security incident that is assigned to you.
 
-2.  Alternatively, navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** and open a security incident that is assigned to you.
+2.  Alternatively, navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace** and open a security incident that is assigned to you.
 
 3.  Close the security incident.
 
@@ -98,6 +98,4 @@ The resolution summary is displayed on the **Details** tab on the security incid
 
     \[Omitted image "NA-R-notes.png"\] Alt text: Now Assist Context menu for the Close notes.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

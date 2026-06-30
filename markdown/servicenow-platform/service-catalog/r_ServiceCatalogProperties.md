@@ -14,18 +14,18 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Service Catalog properties
 
-The [[service-catalog|Service Catalog]] application contains properties used to configure various settings in the application.
+The Service Catalog application contains properties used to configure various settings in the application.
 
 To configure Service Catalog system properties, navigate to **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**. The properties are categorized into the following sections.
 
 -   **Homepage**: Configure settings for the Service Catalog homepage, and control the behavior of the categories and the items displayed on the homepage.
 -   **Catalog Items**: Configure settings for catalog items and record producers.
--   **[[c_ServiceCatalogOrderGuides|Order Guides]]** &gt; **General**: Configure settings for the order guide.
+-   **Order Guides** &gt; **General**: Configure settings for the order guide.
 -   **Order Guides** &gt; **Scriptable Order Guides**: Configure settings for scriptable order guides.
 -   **Cart**: Control the behavior of the shopping cart and checkout screens.
 -   **Request Fulfillment**: Configure settings for request fulfillment processes.
 -   **Search**: Configure search settings for the Service Catalog homepage.
--   **Security**: [[c_ConfigureSecurity|Configure security]] settings for the Service Catalog.
+-   **Security**: Configure security settings for the Service Catalog.
 -   **Pricing**: Configure settings for the pricing engine and pricing display.
 -   **Portal**: Configure settings for catalog portal widgets.
 -   **Virtual Agent**: Configure settings for request submission in Virtual Agent.
@@ -143,7 +143,7 @@ Catalog Items
 
 </td></tr><tr><td>
 
-Specifies the default behavior of [[c_RecordProducer|record producer]] after record generation \(**glide.sc.producer.redirect\_url**\)
+Specifies the default behavior of record producer after record generation \(**glide.sc.producer.redirect\_url**\)
 
 </td><td>
 
@@ -156,7 +156,7 @@ Default redirect behavior of the record producer after its generation.Possible v
 
 </td></tr><tr><td>
 
-Enabling this makes sure that the attachments uploaded to the [[attachment|attachment]] variable are deleted from the system if and when they are replaced/deleted on the form \(**glide.sc.variable.attachment.delete.v2**\)
+Enabling this makes sure that the attachments uploaded to the attachment variable are deleted from the system if and when they are replaced/deleted on the form \(**glide.sc.variable.attachment.delete.v2**\)
 
 </td><td>
 
@@ -195,7 +195,7 @@ Relationship tables which should be part of 'Copy Item' action. Table Name shoul
 
 </td><td>
 
-Specify the tables in which the records having a [[reference|reference]] to a catalog item are also copied when you copy the catalog item using the **Copy** UI action:**Note:** Table names should be comma-separated without any spaces.
+Specify the tables in which the records having a reference to a catalog item are also copied when you copy the catalog item using the **Copy** UI action:**Note:** Table names should be comma-separated without any spaces.
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ sn\_now\_assist\_cr.llm.accept\_user\_input\_as\_is
 
 </td><td>
 
-When filling out catalog forms in Now Assist, this enables users to provide input to be taken as is. This applies only to textual fields \(for example, single-line, multi-line, [[html|HTML]]\). However, if Now Assist determines that user is attempting to 'skip' a field or to 'exit' the conversation, these actions take place with higher priority. There are these two uses cases:
+When filling out catalog forms in Now Assist, this enables users to provide input to be taken as is. This applies only to textual fields \(for example, single-line, multi-line, HTML\). However, if Now Assist determines that user is attempting to 'skip' a field or to 'exit' the conversation, these actions take place with higher priority. There are these two uses cases:
 
 -   A: User enters meaningless answer, for example, "abcd"
 -   B: User enter long content so that the LLM response is the empty values
@@ -403,7 +403,7 @@ Allow ess users the option to cancel their requests from the checkout screen. In
 
 </td><td>
 
-Enable Employee [[self-service-landing|Self-Service]] \(ESS\) portal users the option to cancel their requests from the checkout screen.
+Enable Employee Self-Service \(ESS\) portal users the option to cancel their requests from the checkout screen.
 
 </td></tr><tr><td>
 
@@ -415,7 +415,7 @@ Use the two-step checkout model when placing a catalog order from a wizard:**Def
 
 </td></tr><tr><td>
 
-List of roles \(comma-separated\) that can update the "[[requested-for|Requested for]]" widget in the service catalog. Blank means all users. If the user doesn't have privileges to change requested for, they will not have ability to get other user address details \(**glide.sc.req\_for.roles**\)
+List of roles \(comma-separated\) that can update the "Requested for" widget in the service catalog. Blank means all users. If the user doesn't have privileges to change requested for, they will not have ability to get other user address details \(**glide.sc.req\_for.roles**\)
 
 </td><td>
 
@@ -507,7 +507,7 @@ Use the sc\_layout driven cart macros \(default: true\) \(**glide.sc.use\_cart\_
 
 </td><td>
 
-Use the sc\_layout driven cart macros. Activates the new [[c_ConfigureCartLayout|cart layout]] mechanism, which enables customization of cart and checkout-related widgets and pages without the need to own the UI macros or pages:
+Use the sc\_layout driven cart macros. Activates the new cart layout mechanism, which enables customization of cart and checkout-related widgets and pages without the need to own the UI macros or pages:
 
  -   **Type:** true \| false
 -   **Default value:** true
@@ -558,7 +558,7 @@ Service Catalog Tasks approval engine.
 
 </td></tr><tr><td>
 
-Audit changes to [[c_ServiceCatalogVariables|service catalog variables]] \(**glide.sc.audit.variables**\)
+Audit changes to service catalog variables \(**glide.sc.audit.variables**\)
 
 </td><td>
 
@@ -590,7 +590,7 @@ Render variables on a request item as they appear on the order panel, followed b
 
 </td></tr><tr><td>
 
-[[p_ServiceCatalogRequests|Service Catalog Requests]] approval engine \(**glide.approval\_engine.sc\_request**\)
+Service Catalog Requests approval engine \(**glide.approval\_engine.sc\_request**\)
 
 </td><td>
 
@@ -823,7 +823,7 @@ Option to define the non-availability behavior of a catalog item. Possible optio
 
 </td></tr><tr><td>
 
-Primary color for buttons in the catalog [[now-mobile-catalog|request experience in Now Mobile]] \(**glide.sc.mobile.primary\_color**\). If Next Experience is turned on, the property will be ignored.
+Primary color for buttons in the catalog request experience in Now Mobile \(**glide.sc.mobile.primary\_color**\). If Next Experience is turned on, the property will be ignored.
 
 </td><td>
 
@@ -875,18 +875,3 @@ Maximum number of orphan sc\_item\_option records to delete when any sc\_req\_it
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[c_ConfigureSecurity|Configure security]]
-- [[c_RecordProducer|Record Producer]]
-- [[attachment|Attachment]]
-- [[reference|Reference]]
-- [[html|HTML]]
-- [[self-service-landing|Self-service]]
-- [[requested-for|Requested for]]
-- [[c_ConfigureCartLayout|Cart layout]]
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[p_ServiceCatalogRequests|Service catalog requests]]
-- [[now-mobile-catalog|Request experience in Now Mobile]]

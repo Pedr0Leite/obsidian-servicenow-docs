@@ -24,7 +24,7 @@ Role required: admin
 
 The extension model used by a table is not immediately apparent. While a hierarchy can use a single physical table, the platform displays tables as if each logical table has a unique physical table. For example, when specifying a table for a workflow, you can select Change \[change\_request\] or Incident \[incident\] even though the parent table, Task \[task\], uses a single physical table.
 
-Administrators can view the status of flattened table hierarchies, but cannot flatten additional hierarchies. You can [[configure-form-layout|configure the form]] to add the **Extension model** field if necessary.
+Administrators can view the status of flattened table hierarchies, but cannot flatten additional hierarchies. You can [configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the **Extension model** field if necessary.
 
 ## Procedure
 
@@ -44,6 +44,3 @@ Administrators can view the status of flattened table hierarchies, but cannot fl
 
 **Parent Topic:**[Table flattening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTableFlattening.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]

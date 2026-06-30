@@ -31,8 +31,5 @@ Record types are information stored in Everbridge that are required to create th
     Record types for your organization ID with the category are imported from the Everbridge instance. If the record type is not imported, you may receive an error message.
 
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]

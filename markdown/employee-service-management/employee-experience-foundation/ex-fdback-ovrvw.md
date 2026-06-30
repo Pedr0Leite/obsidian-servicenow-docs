@@ -16,9 +16,9 @@ breadcrumb: [Setup continuous improvement, Configuring Employee Center Pro, Empl
 
 Experience and service feedback enables you to gather quick feedback from your users on their user experiences and their service experiences.
 
-Configure the experience and service feedback across the [[employee-center-landing-page|Employee Center]] portal to gain insights into your user sentiments, as an admin.
+Configure the experience and service feedback across the Employee Center portal to gain insights into your user sentiments, as an admin.
 
-View all the responses captured neatly in the [[ex-fdback-board|Feedback Analytics dashboard]].
+View all the responses captured neatly in the Feedback Analytics dashboard.
 
 The two feedback types are:
 
@@ -32,7 +32,7 @@ Both the feedback types can be either static questions or survey questionnaires.
 -   Configure the experience feedback drawer widget in your portal, if it has the Employee Center header.
 -   Configure the experience feedback drawer widget to provide feedback in various formats like, experience, numeric value feedback, or star rating feedback. For more information on configuring feedback definition, see [Set up the feedback definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-feedback-dfnition.md).
 -   Avail the star rating and the numeric value rating in Experience feedback predefined with Employee Center version 35.0.
--   For a description of the field values in the [[fdbck-dfnition-record|feedback definition form]], see [Feedback definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-dfnition-record.md).
+-   For a description of the field values in the feedback definition form, see [Feedback definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-dfnition-record.md).
 
 Provide feedback through the drawer widget, In page in the portal or via email.
 
@@ -79,7 +79,7 @@ Supports workflow-based feedback on the portal.
 
 Post-feedback loop allows tasks to be created when the feedback rating is beneath or equal to the rating threshold. The feedback tasks are visible in **My tasks**.
 
-**Note:** The sn\_hr\_sp.esc\_admin has read and write access to the feedback task table [[employee-center-pro-landing|Employee Center Pro]] version 37 onwards. Additionally, the following fields in the feedback task form are read-only, version 37 onwards:
+**Note:** The sn\_hr\_sp.esc\_admin has read and write access to the feedback task table Employee Center Pro version 37 onwards. Additionally, the following fields in the feedback task form are read-only, version 37 onwards:
 
 -   **Feedback definition**
 -   **Assessment response**
@@ -94,16 +94,9 @@ Feedback tasks can be anonymous if the feedback provider doesn’t share their p
 
 ## Experience feedback for browser extension
 
-Get an experience feedback configuration and a feedback definition when you install [[ecbe-intro|Browser Extension for Employee Center]] plugin \(sn\_ex\_brw\_ext\) version 1.0 along with Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0.
+Get an experience feedback configuration and a feedback definition when you install Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 along with Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0.
 
 **Note:** **Experience Feedback for Browser Extension** definition has certain differentiators from the generic experience feedback options. For more information, see [Set up the feedback definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-feedback-dfnition.md).
 
 You can view the feedback analytics from the browser extension by selecting the **Employee Center Browser Extension** in the **Portals Filter**.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[ex-fdback-board|Feedback Analytics dashboard]]
-- [[fdbck-dfnition-record|Feedback definition form]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ecbe-intro|Browser Extension for Employee Center]]

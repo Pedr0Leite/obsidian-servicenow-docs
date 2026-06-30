@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-Stories are assigned to a project and are tied to an [[agile-development|agile development]] phase in the Project Workbench. As stories are completed, the story points and the story status get rolled up to the sprint and project phase. In turn, the phase gets rolled up to the project.
+Stories are assigned to a project and are tied to an agile development phase in the Project Workbench. As stories are completed, the story points and the story status get rolled up to the sprint and project phase. In turn, the phase gets rolled up to the project.
 
 ## Procedure
 
@@ -33,6 +33,3 @@ Stories are assigned to a project and are tied to an [[agile-development|agile d
 
 **Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

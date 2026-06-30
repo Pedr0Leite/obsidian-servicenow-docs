@@ -30,7 +30,7 @@ For more information, see [Categorization concepts in Task Mining](https://raw.g
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Application categorization icon \[Omitted image "task-mining-categorization-icon.png"\].
 
@@ -92,6 +92,3 @@ For more information, see [Categorization concepts in Task Mining](https://raw.g
 
 [Categorization rule form in Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/categorization-rules.md)
 
-## Related
-
-- [[task-mining-workspace|Task Mining Workspace]]

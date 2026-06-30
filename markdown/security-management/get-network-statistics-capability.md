@@ -14,16 +14,16 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The Get Network Statistics capability retrieves a list of active network connections from a host or endpoint. It can be used for incident enrichment during investigations. This capability is triggered automatically when a configuration item is added to a security incident.
 
-The **Get Network Statistics** capability has a flow, [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]] that accepts one or more CIs and tasks. The flow iterates over each implementation and each CI and re-invokes the implementation flow.
+The **Get Network Statistics** capability has a flow, [Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-network-stats-workflow.md) that accepts one or more CIs and tasks. The flow iterates over each implementation and each CI and re-invokes the implementation flow.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
 -   **[Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-network-stats-workflow.md)**  
 The Security Operations Integrations - Get Network Statistics flow retrieves a list of active network connections from a host or endpoint.
 -   **[Security Incident Response- Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/obtain-network-statistics-workflow.md)**  
-The **[[sir-landing-page|Security Incident Response]]** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
+The **Security Incident Response** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -42,16 +42,9 @@ The **[[sir-landing-page|Security Incident Response]]** &gt; **Get Network Stati
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration- [[indicator-sightings|Sightings]] Search capability]()
+[Security Operations Integration- Sightings Search capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
 [Change the order of flow execution]()
 
-## Related
-
-- [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]
-- [[integration-capabilities|Integration capabilities]]
-- [[sir-landing-page|Security Incident Response]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]

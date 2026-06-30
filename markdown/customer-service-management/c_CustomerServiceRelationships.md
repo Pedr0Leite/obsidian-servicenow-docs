@@ -12,7 +12,7 @@ breadcrumb: [Configure accounts and contacts, Customer data, Set up your environ
 
 # Create customer relationships
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application provides the ability to establish different types of relationships between partners, customers, and contacts.
+The Customer Service Management application provides the ability to establish different types of relationships between partners, customers, and contacts.
 
 These relationships make account and asset management easy and flexible. The following table describes the available customer relationships.
 
@@ -43,11 +43,11 @@ A bi-directional account relationship is created using a defined account relatio
 
 </td><td>
 
-An account relationship enables partner account contacts with the partner role or the partner administrator role to create and [[manage-cases|manage cases]] for their partner account.
+An account relationship enables partner account contacts with the partner role or the partner administrator role to create and manage cases for their partner account.
 
 </td></tr><tr><td>
 
-[[c_AccountHierarchy|Account hierarchy]]
+Account hierarchy
 
 </td><td>
 
@@ -71,9 +71,3 @@ A contact relationship enables a contact with the customer role or customer admi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[manage-cases|Manage cases]]
-- [[c_AccountHierarchy|Account hierarchy]]

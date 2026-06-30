@@ -34,7 +34,7 @@ Scheduled item \[sys\_trigger\]
 
 </th></tr></thead><tbody><tr><td>
 
-[[process-behavior-charts-for-kpis|KPI Signals]] Analytics Job
+KPI Signals Analytics Job
 
 </td><td>
 
@@ -130,7 +130,3 @@ Proactive Analytics Trigger Definition Activation Job
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-behavior-charts-for-kpis|KPI Signals]]

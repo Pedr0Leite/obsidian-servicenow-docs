@@ -16,11 +16,11 @@ breadcrumb: [Explore, Workplace Central, Workplace Service Delivery, Employee Se
 
 The Lists module is a common dashboard that contains lists for the application tables and custom lists.
 
-\[Omitted image "wsd-central-lists-dashboard.png"\] Alt text: [[workplace-central-feat|Workplace Central]] lists dashboard with the Cases Overview - All Cases list selected.
+\[Omitted image "wsd-central-lists-dashboard.png"\] Alt text: Workplace Central lists dashboard with the Cases Overview - All Cases list selected.
 
 ## Lists tab
 
-The Lists tab contains all the tables that are installed with your [[workplace-service-delivery-apps|Workplace Service Delivery applications]]. You can only view the lists that your role has access to.
+The Lists tab contains all the tables that are installed with your Workplace Service Delivery applications. You can only view the lists that your role has access to.
 
 For more information about the lists, you can refer to the documentation of the relevant application.
 
@@ -66,7 +66,3 @@ For more information about creating custom lists, see [Creating custom lists on 
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]

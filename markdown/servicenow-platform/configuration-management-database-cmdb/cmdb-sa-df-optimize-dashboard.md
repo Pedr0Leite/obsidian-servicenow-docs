@@ -16,7 +16,7 @@ breadcrumb: [Advisor setup, Use Data Foundations advisor, CMDB success advisor, 
 
 After the Data Foundations advisor dashboard is configured, you can update the principal class scope to keep it aligned with your goals, and resolve discrepancies when classes are changed outside the advisor.
 
-The Data Foundations advisor scope defines which principal classes [[cmdb-sa|CMDB success advisor]] monitors. You can add or remove entire CI class groups or fine-tune the selection by including or excluding specific classes within a group.
+The Data Foundations advisor scope defines which principal classes CMDB success advisor monitors. You can add or remove entire CI class groups or fine-tune the selection by including or excluding specific classes within a group.
 
 For guidance on choosing the right classes, see the [Guidance on designating principal classes in the CMDB \[KB2707240\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB2707240) article in the Now Support Knowledge Base.
 
@@ -40,6 +40,3 @@ For more information about out-of-sync notifications, see [Principal class sync 
 
 For instructions on resolving a sync discrepancy, see [Resolve an out-of-sync principal class state in the Data Foundations advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-resolve-class-sync.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]

@@ -24,7 +24,7 @@ Roles required: itil, report\_user, report\_group, report\_global, report\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, enter a report name that reflects the information in the report.
 
@@ -39,7 +39,7 @@ Roles required: itil, report\_user, report\_group, report\_global, report\_admin
         -   2 datasets used with 20 series: 10K / \(20\*2\) = 250
         -   1 dataset used with 100 series: 10K / \(100\*1\) = 100
     -   If the actual number of data points in a series exceeds the limit, the data is resampled.
-    \[Omitted image "create-mb-report-source-type.png"\] Alt text: [[t_CreateYourOwnReport|Create a report]] with MetricBase source type selected
+    \[Omitted image "create-mb-report-source-type.png"\] Alt text: Create a report with MetricBase source type selected
 
 4.  Choose an existing MetricBase table.
 
@@ -107,7 +107,7 @@ Select this option to show report data in a list below the report. The list appe
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 9.  On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -133,8 +133,3 @@ Transforms enable you to visualize MetricBase data in different ways.
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[list-reports|List reports]]

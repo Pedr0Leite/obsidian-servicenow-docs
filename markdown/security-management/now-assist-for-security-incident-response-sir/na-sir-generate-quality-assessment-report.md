@@ -27,7 +27,7 @@ Role required: sn\_sec\_gen\_ai.qa\_reviewer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident that is assigned to you.
 
@@ -51,6 +51,4 @@ Role required: sn\_sec\_gen\_ai.qa\_reviewer
 
     You can export a published report to a PDF file.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

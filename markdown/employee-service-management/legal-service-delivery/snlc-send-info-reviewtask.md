@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 ## About this task
 
-The work notes added when requesting information are available in the [[activity-lxp|Activity]] stream. Review the information needed and gather the information to be sent to the reviewer.
+The work notes added when requesting information are available in the Activity stream. Review the information needed and gather the information to be sent to the reviewer.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 3.  Select **My Work** &gt; **Requested Tasks**
 4.  Open the review task from the list
@@ -104,7 +104,3 @@ The information is shared with reviewer and the review task State changes to Wor
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expert-review.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

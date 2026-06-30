@@ -27,8 +27,8 @@ Ensure the following:
 2.  After installing Microsoft Exchange Online spoke, depending on what type of customer you are, perform the following actions:
     -   If you are a new customer, to install the applications, refer to [Install Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/install-workplace-calendar-synchronization.md).
     -   If you are an existing customer, upgrade to the latest versions of the following applications:
-        -   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].
-        -   [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+        -   Workplace Reservation Management.
+        -   Workplace Calendar Synchronization.
 3.  Repair the Microsoft Exchange Online spoke. Perform the following repair if you never had an internal dependency on the **com.glide.hub.action\_type.datastream** plugin.
     1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
     2.  Search and select Microsoft Exchange Online Spoke.
@@ -86,7 +86,3 @@ Synchronize reservations using a connection with the Microsoft Exchange Online s
 
 [Configure Microsoft Exchange Online calendar provider in strict mode]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

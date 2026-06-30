@@ -14,11 +14,11 @@ breadcrumb: [Creating email notifications for Localization Workspace, Configurin
 
 # Create email notifications for completed translation jobs
 
-Configure email [[notifications|notifications]] so you can be informed when [[localization-workspace|Localization Workspace]] translation jobs are completed.
+Configure email notifications so you can be informed when Localization Workspace translation jobs are completed.
 
 ## Before you begin
 
-Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [[create-notification-categories|Create notification categories]].
+Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-notification-categories.md).
 
 Role required: admin.
 
@@ -26,7 +26,7 @@ Role required: admin.
 
 From Zurich Patch 1, along with tracking the progress of translation jobs in Localization Workspace, you can set up email notifications to be alerted upon completion of translation jobs.
 
-For detailed information about configuring email notifications, see [[t_CreateANotification|Create an email notification]]. The following procedure is specific to notifications for Localization Workspace jobs.
+For detailed information about configuring email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md). The following procedure is specific to notifications for Localization Workspace jobs.
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Select the lock icon to add recipients from fields in the Translation Request \[
 
 </td><td>
 
-Select the lock icon to add a group of users, such as [[ia-localization-il|Localization]] Requestor, from the Group \[sys\_user\_group\] table.
+Select the lock icon to add a group of users, such as Localization Requestor, from the Group \[sys\_user\_group\] table.
 
 </td></tr><tr><td id="d62800e293">
 
@@ -130,7 +130,7 @@ You can use variables from the Translation Request \[sn\_lw\_trans\_request\] ta
 
 </td><td>
 
-You can use variables from the Translation Request \[sn\_lw\_trans\_request\] table, available under **Select variables**. Example variables from this table:-   `${lf_project.number}` is the corresponding number from [[localization-framework-landing|Localization Framework]].
+You can use variables from the Translation Request \[sn\_lw\_trans\_request\] table, available under **Select variables**. Example variables from this table:-   `${lf_project.number}` is the corresponding number from Localization Framework.
 -   `${sys_created_by}` is the person who submitted the translation request.
 
 
@@ -144,16 +144,7 @@ After creating a new notification, you can review its record in the Notification
 
 \[Omitted image "lw-email-notif-completed-jobs-preview.png"\] Alt text: The Preview Notification button is highlighted on a submitted email notification record.
 
-For more information, see [[t_PreviewingNotifications|Preview email notifications]].
+For more information, see [Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md).
 
 **Parent Topic:**[Creating email notifications for Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-email-notifications.md)
 
-## Related
-
-- [[create-notification-categories|Create notification categories]]
-- [[t_CreateANotification|Create an email notification]]
-- [[t_PreviewingNotifications|Preview email notifications]]
-- [[notifications|Notifications]]
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

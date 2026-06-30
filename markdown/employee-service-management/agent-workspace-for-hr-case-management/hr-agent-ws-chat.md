@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Using chat in Agent Workspace for HR Case Management
 
-Agent chat for [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] enables you to ask questions and receive information through live or virtual agent chat.
+Agent chat for Agent Workspace for HR Case Management enables you to ask questions and receive information through live or virtual agent chat.
 
 -   **Activation**
 
@@ -36,7 +36,7 @@ Agent chat for [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case 
 
     Using quick actions, you can:
 
-    -   [[search-hr-case|Create an HR case]].
+    -   Create an HR case.
     -   Show applicable response templates.
     -   Transfer chat to another agent.
     -   Transfer chat to another queue.
@@ -46,7 +46,4 @@ Agent chat for [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case 
 
     For more information on virtual agent, see [Virtual Agent for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-virtual-agent-conversations.md).
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[search-hr-case|Create an HR case]]

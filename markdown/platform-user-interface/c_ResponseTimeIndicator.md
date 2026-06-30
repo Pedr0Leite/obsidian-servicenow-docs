@@ -12,7 +12,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 # Response time indicator icon
 
-A response time indicator icon may appear at the bottom right of [[form-configurable-workspace|forms]] and in the list view in the classic environment.
+A response time indicator icon may appear at the bottom right of forms and in the list view in the classic environment.
 
 Hovering over or selecting the icon \(\) provides the processing time, including the total time and the time for each step, for a completed transaction .
 
@@ -39,9 +39,5 @@ Select the icon to see more details for the response time indicator.
 
 Administrators can disable the response time by setting the **glide.ui.response\_time** property to **false**.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[form-configurable-workspace|Forms]]

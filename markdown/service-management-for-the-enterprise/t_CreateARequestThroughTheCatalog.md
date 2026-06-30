@@ -24,7 +24,7 @@ The catalog provides several different categories so users can choose the one th
 
 4.  Fill in the fields on the form.
 
-    **Note:** Each catalog can display different fields. The following is a list of fields displayed when you select [[c_ServiceManagement|Service Management]] catalog.
+    **Note:** Each catalog can display different fields. The following is a list of fields displayed when you select Service Management catalog.
 
     |Field|Description|
     |-----|-----------|
@@ -39,9 +39,5 @@ The catalog provides several different categories so users can choose the one th
     **Note:** If the catalog fields do not appear on the request form, you can configure the form and add variables or variable sets.
 
 
-**Parent Topic:**[[r_RequestCreation|Request creation]]
+**Parent Topic:**[Request creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_RequestCreation.md)
 
-## Related
-
-- [[r_RequestCreation|Request creation]]
-- [[c_ServiceManagement|Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI skills, Now Assist for PSDS, Public Sector Digita
 
 # Summarize a chat conversation using Now Assist for Public Sector Digital Services \(PSDS\)
 
-Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer using the chat summarization skill in [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]].
+Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer using the chat summarization skill in Now Assist for Public Sector Digital Services \(PSDS\).
 
 ## About this task
 
@@ -79,6 +79,4 @@ Role required: admin
 
 9.  Select **Save**.
 
-## Related
 
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

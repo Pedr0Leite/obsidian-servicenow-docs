@@ -31,7 +31,7 @@ This section describes the banking tables in FSO Core and shows how they store a
 |Covenant|sn\_bom\_b2b\_covenant|Stores all covenant records for business customers.|
 |Covenant|sn\_bom\_covenant|Stores all covenant records for consumers.|
 |Covenant|sn\_bom\_covenant\_base|Stores all covenant base records. The \[sn\_bom\_b2b\_covenant\] and \[sn\_bom\_covenant\_base\] tables extend the Covenant Base table.|
-|Coverage Specification|sn\_bom\_coverage\_specification|Stores all [[coverage-specification|coverage specification]] records that define the product coverage types and their options.|
+|Coverage Specification|sn\_bom\_coverage\_specification|Stores all coverage specification records that define the product coverage types and their options.|
 |Coverage Type|sn\_bom\_coverage\_type|Stores all coverage type records across all products.|
 |Coverage Type Option|sn\_bom\_coverage\_type\_option|Stores all coverage type option records for each coverage type across all products.|
 |Currency ISO Code Association|currency\_iso\_code\_association| |
@@ -43,7 +43,7 @@ This section describes the banking tables in FSO Core and shows how they store a
 |Exchange|sn\_bom\_exchange| |
 |Financial Account|sn\_bom\_financial\_account|Stores all financial accounts – deposit accounts, loan accounts, credit card account, line of credit accounts, and insurance policy accounts. Extends the Sold Product \[sn\_install\_base\_sold\_product\] table.|
 |Financial Institution|sn\_bom\_financial\_institution|Stores all financial institution records. Extends the Company \[core\_company\] table.|
-|Financial Service|sn\_bom\_service|Stores all [[fso-overview|financial services]] – RDC service and wire transfer service. Extends the Sold Product \[sn\_install\_base\_sold\_product\] table.|
+|Financial Service|sn\_bom\_service|Stores all financial services – RDC service and wire transfer service. Extends the Sold Product \[sn\_install\_base\_sold\_product\] table.|
 |Stores all RDC financial account records. Links RDC services to financial accounts.|sn\_bom\_m2m\_service\_financial\_account|Stores all financial accounts – deposit accounts, loan accounts, credit card account, line of credit accounts, and insurance policy accounts. Extends the Sold Product \[sn\_install\_base\_sold\_product\] table|
 |Financial Service User|sn\_bom\_m2m\_service\_user|Stores details of users for a financial service account|
 |Financial Services Base|sn\_bom\_case|Stores all financial services base records and serves as the parent table for all types of financial case records within a system. It acts as a central repository that provides a unified structure for managing various financial cases, such as disputes, fraud investigations, loan applications, insurance servicing, claims and other financial inquiries or issues. Each record represents a unique financial case, with associated metadata that links to more specific case details stored in related child tables.|
@@ -105,10 +105,5 @@ This section describes the banking tables in FSO Core and shows how they store a
 |Wire Transfer Service|sn\_bom\_wire\_transfer|Stores all wire transfer treasury service records. Extends the Financial Service \[sn\_bom\_service\] table.|
 |Wire Transfer User|sn\_bom\_m2m\_wire\_transfer\_user|Stores details of users who are authorized to request for a wire transfer facility on a business deposit account|
 
-**Parent Topic:**[[financial-services-operations-core-data-model|Financial Services Operations Core]]
+**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[coverage-specification|Coverage specification]]
-- [[fso-overview|Financial Services]]

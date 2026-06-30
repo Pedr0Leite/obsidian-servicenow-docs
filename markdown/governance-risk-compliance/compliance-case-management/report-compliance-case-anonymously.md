@@ -14,13 +14,13 @@ breadcrumb: [Report compliance case, Use, Compliance Case Management, Governance
 
 # Report a compliance case anonymously
 
-Use the [[grc-anonymous-reporting-center|Anonymous Reporting Center]] \(ARC\) to submit any suspected or confirmed compliance case without disclosing your identity.
+Use the Anonymous Reporting Center \(ARC\) to submit any suspected or confirmed compliance case without disclosing your identity.
 
 ## Before you begin
 
 Role required: sn\_comp\_case.compliance\_case\_business\_user
 
-**Note:** This role is only required to access the **[[employee-center|Employee Center]]**. No role is required to submit a report directly through ARC.
+**Note:** This role is only required to access the **Employee Center**. No role is required to submit a report directly through ARC.
 
 ## About this task
 
@@ -70,7 +70,3 @@ The fields in the **Report a compliance case** form capture details about the su
 
 **Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reporting-compliance-case.md)
 
-## Related
-
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]

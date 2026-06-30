@@ -14,32 +14,22 @@ breadcrumb: [ServiceNow Add-in for Microsoft 365, Unified Employee Experience, E
 
 # ServiceNow Add-in for Microsoft 365 reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide information about the lists and forms used in the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]] application.
+Reference topics provide information about the lists and forms used in the ServiceNow Add-in for Microsoft 365 application.
 
 -   **[Components installed with ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/installed-with-sn-addin-ms365.md)**  
 Several types of components are installed with activation of the  plugin, including tables, user roles, and scheduled jobs.
 -   **[Office Manifest form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/office-manifest-form.md)**  
-The [[office-manifest-form|Office Manifest form]] helps you configure a manifest file for the ServiceNow Add-in for Microsoft 365.
+The Office Manifest form helps you configure a manifest file for the ServiceNow Add-in for Microsoft 365.
 -   **[Office Control form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/office-control-form.md)**  
-The [[office-control-form|Office Control form]] helps you create a button, menu, or menu item for the ServiceNow Add-in for Microsoft 365.
+The Office Control form helps you create a button, menu, or menu item for the ServiceNow Add-in for Microsoft 365.
 -   **[Catalog Mapping Configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/catalog-mapping-config-form.md)**  
-The [[catalog-mapping-config-form|Catalog Mapping Configurations form]] helps you customize mapping of emails and catalog items.
+The Catalog Mapping Configurations form helps you customize mapping of emails and catalog items.
 -   **[Form Mapping Configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/form-mapping-config-form.md)**  
-The [[form-mapping-config-form|Form Mapping Configurations form]] helps you customize mapping of emails and forms.
+The Form Mapping Configurations form helps you customize mapping of emails and forms.
 -   **[Office Mailbox to Catalog Field Mappings form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mailbox-catalog-mapping-form.md)**  
-The [[mailbox-catalog-mapping-form|Office Mailbox to Catalog Field Mappings form]] helps you map an email field to a catalog item field.
+The Office Mailbox to Catalog Field Mappings form helps you map an email field to a catalog item field.
 -   **[Office Mailbox to Form Field Mappings form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mailbox-form-mapping-form.md)**  
-The [[mailbox-form-mapping-form|Office Mailbox to Form Field Mappings form]] helps you map an email field to a form field.
+The Office Mailbox to Form Field Mappings form helps you map an email field to a form field.
 
 **Parent Topic:**[ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]
-- [[office-manifest-form|Office Manifest form]]
-- [[office-control-form|Office Control form]]
-- [[catalog-mapping-config-form|Catalog Mapping Configurations form]]
-- [[form-mapping-config-form|Form Mapping Configurations form]]
-- [[mailbox-catalog-mapping-form|Office Mailbox to Catalog Field Mappings form]]
-- [[mailbox-form-mapping-form|Office Mailbox to Form Field Mappings form]]

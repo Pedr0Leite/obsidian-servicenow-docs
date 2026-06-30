@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector Framework configuration properties
 
-Description of the properties that determine the behavior of [[acc-landing-page|Agent Client Collector]] Framework configuration.
+Description of the properties that determine the behavior of Agent Client Collector Framework configuration.
 
 <table id="table_w1r_qgs_xyb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ The current ACC-F release version installed on the instance.Type: String
 
 </td><td>
 
-The characteristics and behaviors for applications during Agent [[r-discovery|Discovery]]. When set to **simple**, creates a shell CI. Default: simple
+The characteristics and behaviors for applications during Agent Discovery. When set to **simple**, creates a shell CI. Default: simple
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ When set to **true**, the instance sends a list of MID Servers to the agents. To
 **Note:** This property determines only whether a list of MID Servers is sent to the agent.
 
 -   If this property was previously set to **true** and is then set to **false**, automatic MID selection is performed on the previously sent MID Server list if the **auto-mid-selection** property is set to **true** in the acc.yml file.
--   If this property is set to **true** and the **auto-mid-selection** property in the acc.yml file is set to **false**, no [[acc-auto-mid-selection|automatic MID Server selection]] is performed.
+-   If this property is set to **true** and the **auto-mid-selection** property in the acc.yml file is set to **false**, no automatic MID Server selection is performed.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ When set to **true**, the instance sends a list of MID Servers to the agents. To
 
 </td><td>
 
-Maximum number of [[mid-web-server|MID Web Server]] endpoint URLs to be selected during agent single line installation.Default: 3
+Maximum number of MID Web Server endpoint URLs to be selected during agent single line installation.Default: 3
 
 </td></tr><tr><td>
 
@@ -217,9 +217,3 @@ When processing ecc\_queues, only query those created within the indicated time 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[acc-auto-mid-selection|Automatic MID Server selection]]
-- [[mid-web-server|MID Web Server]]

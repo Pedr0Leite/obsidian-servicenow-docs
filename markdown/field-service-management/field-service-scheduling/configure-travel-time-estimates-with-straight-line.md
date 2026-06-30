@@ -14,7 +14,7 @@ breadcrumb: [Travel estimate provider, Create a scheduling attribute, Schedule O
 
 # Configure travel time estimates with latitude and longitude
 
-Use the straight-line travel estimate provider in [[schedule-optimization|Schedule Optimization]] that provides built-in time and distance travel estimates based on latitude and longitude.
+Use the straight-line travel estimate provider in Schedule Optimization that provides built-in time and distance travel estimates based on latitude and longitude.
 
 ## Before you begin
 
@@ -71,6 +71,4 @@ Role required: wm\_admin
 
     6.  Select **Update**.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]

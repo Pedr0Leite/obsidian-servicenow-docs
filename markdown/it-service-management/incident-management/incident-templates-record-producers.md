@@ -22,7 +22,7 @@ You can use incident templates to quickly create incidents for similar issues.
 -   An administrator can enable the global option for any personal template that a user creates so that all other users can access the template.
 -   A user with the itil role can create their own templates for incidents they log frequently.
 
-ESS users typically log incidents using a record producer in the service catalog. A template can be used to [[create-an-incident|create an incident]] record producer. The template automatically populates fields in the incident form.
+ESS users typically log incidents using a record producer in the service catalog. A template can be used to create an incident record producer. The template automatically populates fields in the incident form.
 
 For example, an incident record producer can be created to request account access to a network server. The user who submits the incident enters variable values, such as the server name, level of access needed, and due date. The incident template assigned to the record producer populates the incident **Category**, **Subcategory**, and **Assignment Group**. These fields and values applied from the template do not appear in the record producer form.
 
@@ -37,6 +37,3 @@ If a predefined incident template exists, it can be used with the record produce
 
 **Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]

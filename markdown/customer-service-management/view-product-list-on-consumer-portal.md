@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Navigate to **My hub** &gt; **Manage products** in the portal header.
 
@@ -28,6 +28,4 @@ Role required: sn\_customerservice.consumer
 
 3.  If required, select a product to display more information about the product.
 
-## Related
 
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

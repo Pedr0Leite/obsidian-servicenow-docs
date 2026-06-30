@@ -36,7 +36,7 @@ Role required: personalize\_form
 
     \[Omitted image "ConfigureFormScreen.png"\] Alt text: Configure the form
 
-    In Core UI, Form Layout is not responsible for the order of the Additional Comments and Work Notes fields. For more information on how to determine the order of these fields, see [[c_ActivityFormatter|Customize activities]].
+    In Core UI, Form Layout is not responsible for the order of the Additional Comments and Work Notes fields. For more information on how to determine the order of these fields, see [Customize activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md).
 
 4.  Select **Save**.
 
@@ -45,7 +45,7 @@ Role required: personalize\_form
 
 ### What to do next
 
-Through form configuration, you can also add new fields to the form, which creates columns to the table that underlies the form. See [[t_CreatingNewFields|Add and customize a field in a table]] for more information.
+Through form configuration, you can also add new fields to the form, which creates columns to the table that underlies the form. See [Add and customize a field in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md) for more information.
 
 ## Add a related list to a form
 
@@ -287,7 +287,7 @@ You can configure this indicator to appear for all or for specific administrator
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **User Preferences**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **User Preferences**.
 
 2.  Perform one of the following actions.
 
@@ -306,7 +306,7 @@ Set the **owned\_by\_indicator.form** preference to **true**.
 </td><td>
 
 1.  Make sure the **owned\_by\_indicator.form** system user preference is set to **false**.
-2.  [[t_CreateAUser|Create a user]] preference with the following values:
+2.  Create a user preference with the following values:
     -   **Name:** `owned_by_indicator.form`
     -   **User:** Select the administrator for which to enable the preference.
     -   **Value:** `true`
@@ -346,9 +346,4 @@ Role required: personalize\_form
 
 9.  Click **Update**.
 
-## Related
 
-- [[c_ActivityFormatter|Activity formatter]]
-- [[t_CreatingNewFields|Add and customize a field in a table]]
-- [[c_UserAdministration|User administration]]
-- [[t_CreateAUser|Create a user]]

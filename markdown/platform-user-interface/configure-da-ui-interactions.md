@@ -19,7 +19,7 @@ Trigger a UI interaction from a declarative action to extend a page without taki
 Complete the following actions:
 
 1.  Create a UI interaction in UI Builder. For instructions, see Create a UI interaction.
-2.  Create a declarative action and add the button to a workspace. For instructions, see [[creating-declarative-actions|Creating declarative action buttons]].
+2.  Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/creating-declarative-actions.md).
 
 Role required:
 
@@ -41,7 +41,7 @@ A UI interaction defines what you want to happen, and how you apply a UI interac
 -   Trigger a UI interaction from a declarative action if you need a button on a form or list without page customization.
 -   Trigger a UI interaction from a UI Builder page event to customize buttons and components on a page you own.
 
-A UI interaction can be used instead of a UXF client action to simplify configuration since there's no need to [[configure-onboarding-modals|configure]] add-on event mapping on a corresponding UI Builder page.
+A UI interaction can be used instead of a UXF client action to simplify configuration since there's no need to configure add-on event mapping on a corresponding UI Builder page.
 
 For a detailed overview of UI interactions, see UI interactions.
 
@@ -96,7 +96,3 @@ For a detailed overview of UI interactions, see UI interactions.
 
 When the form or list button is selected, the specified inputs pass data to the UI interaction, and the UI interaction performs the action it was configured to do.
 
-## Related
-
-- [[creating-declarative-actions|Creating declarative action buttons]]
-- [[configure-onboarding-modals|Configure]]

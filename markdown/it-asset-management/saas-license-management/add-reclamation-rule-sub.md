@@ -100,7 +100,7 @@ Time limit for no meaningful activity before a user account is added to the list
 
 ## What to do next
 
-View the reclamation candidates that are identified by your reclamation rule and start [[reclaiming-user-subscriptions-saas|reclaiming user subscriptions]].
+View the reclamation candidates that are identified by your reclamation rule and start reclaiming user subscriptions.
 
 **Parent Topic:**[SaaS License Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-subscription-management.md)
 
@@ -147,6 +147,3 @@ View the reclamation candidates that are identified by your reclamation rule and
 
 [Reclamation rules for Microsoft 365 integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-reclamation-rules.md)
 
-## Related
-
-- [[reclaiming-user-subscriptions-saas|Reclaiming user subscriptions]]

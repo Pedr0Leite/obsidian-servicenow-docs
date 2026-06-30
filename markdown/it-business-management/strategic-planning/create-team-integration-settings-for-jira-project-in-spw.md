@@ -24,13 +24,13 @@ Role required: sn\_jira\_int.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Jira Integration** &gt; **Jira Projects**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Jira Integration** &gt; **Jira Projects**.
 
 2.  Open your Jira project record.
 
 3.  From the Team Integration Settings related list, select **New**.
 
-4.  On the [[team-integration-settings-form|Team Integration Settings form]], fill in the fields,
+4.  On the Team Integration Settings form, fill in the fields,
 
     For field information, see [Team Integration Settings form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/team-integration-settings-form.md).
 
@@ -41,7 +41,3 @@ Role required: sn\_jira\_int.user
 
 [Review default mapping configuration for Jira projects in SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/review-default-map-config-jira-projects-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[team-integration-settings-form|Team Integration Settings form]]

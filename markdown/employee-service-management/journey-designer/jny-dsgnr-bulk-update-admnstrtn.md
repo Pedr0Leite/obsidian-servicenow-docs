@@ -14,7 +14,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Manage Journey designer bulk updates for tasks
 
-[[jny-dsgnr-landing-page-1|Journey designer]] admins can configure which task types are available for bulk update and view information about tasks that were updated in bulk.
+Journey designer admins can configure which task types are available for bulk update and view information about tasks that were updated in bulk.
 
 Managing bulk task updates is set to active for Journey designer version 4.0 and later. The task types available for bulk update are:
 
@@ -30,6 +30,3 @@ View bulk update records to determine if updates were successful or failed.
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

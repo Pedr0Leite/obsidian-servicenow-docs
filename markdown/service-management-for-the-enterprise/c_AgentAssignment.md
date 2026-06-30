@@ -14,16 +14,10 @@ breadcrumb: [Request Management in a Service Management application, Service Man
 
 Depending on your settings in the SM application's configuration screen, you can assign agents manually or using auto-assignment.
 
--   **[[t_ManAssignAgtToActSMReq|Manually assign agents to active requests]]**  
-Use this procedure to assign agents to active requests in [[c_ServiceManagement|service management]] \(SM\) applications.
--   **[[c_AgentAutoAssignment|Agent auto assignment]]**  
+-   **[Manually assign agents to active requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ManAssignAgtToActSMReq.md)**  
+Use this procedure to assign agents to active requests in service management \(SM\) applications.
+-   **[Agent auto assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignment.md)**  
 When auto assignment is enabled and a task is qualified or marked as **Ready for Work**, an appropriate agent is automatically assigned to the task and it is moved to the **Assigned** state. If the task cannot be auto-assigned, a user with the dispatcher role must adjust the values in the request or task form and then save the record.
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[t_ManAssignAgtToActSMReq|Manually assign agents to active requests]]
-- [[c_AgentAutoAssignment|Agent auto assignment]]
-- [[rm-sm-application|Request Management in a Service Management application]]
-- [[c_ServiceManagement|Service Management]]

@@ -57,7 +57,7 @@ Quick filters on the Kanban board let teams focus on specific sprints, states, o
 -   If scrum tasks were previously imported through Connected work before upgrading to v9.0.0, and stories are then imported through Connected work after the upgrade, duplicate scrum tasks may appear on the board. To resolve this, remove the existing configuration for scrum tasks in Connected work for your Board.
 
 -   **[Add scrum tasks to a story in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-scrum-tasks-to-a-story-cwm.md)**  
-Break down a user story into scrum tasks in [[cwm-landing|Collaborative Work Management]] \(CWM\) to distribute work across team members and track daily progress during a sprint.
+Break down a user story into scrum tasks in Collaborative Work Management \(CWM\) to distribute work across team members and track daily progress during a sprint.
 -   **[Generate scrum tasks for a story with Now Assist for CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/generate-scrum-tasks-for-stories-cwm.md)**  
 Use Now Assist to automatically generate scrum tasks for a story in Collaborative Work Management \(CWM\) based on the story's description and context, saving time on manual task breakdown.
 
@@ -70,6 +70,3 @@ Use Now Assist to automatically generate scrum tasks for a story in Collaborativ
 
 [Task dependencies and relationships in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/managing-task-dependencies-relationships-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

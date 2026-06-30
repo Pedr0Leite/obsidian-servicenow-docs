@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Activate Connect
 
-[[c_Connect|Connect]] is active by default on new instances. For upgraded instances, you can activate the Connect plugin \(com.glide.connect\) if you have the admin role.
+Connect is active by default on new instances. For upgraded instances, you can activate the Connect plugin \(com.glide.connect\) if you have the admin role.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ If you used Collaboration in the Fuji release, the Connect plugin is activated a
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -62,7 +62,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-collaboration.[[email|email]]\_interval
+collaboration.email\_interval
 
 </td><td id="entry_CollaborationEmailIntervalDescription">
 
@@ -77,7 +77,7 @@ collaboration.frameset
 
 </td><td id="entry_CollaborationFramesetDescription">
 
-Determines whether the [[c_CollaborationOverlay|Connect overlay]] is visible \(enabled\). This property also impacts [[c_ConnectSupport|Connect Support]].-   **Type**: true \| false
+Determines whether the Connect overlay is visible \(enabled\). This property also impacts Connect Support.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Disable the Connect overlay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_DisableTheCollaborationOverlay.md)
@@ -98,7 +98,7 @@ connect.notification.audio\_alert
 
 </td><td id="entry_ConnectNotificationAudioAlertDescription">
 
-Specifies the audio file to play to [[notify-landing-page|notify]] users of new messages, support conversation transfers, and @mentions in Connect. This property's value must point to the **Name** field of a record in the Audio File \[db\_audio\] table. This property also impacts Connect Support.-   **Type**: string
+Specifies the audio file to play to notify users of new messages, support conversation transfers, and @mentions in Connect. This property's value must point to the **Name** field of a record in the Audio File \[db\_audio\] table. This property also impacts Connect Support.-   **Type**: string
 -   Default value: connect\_alert.mp3
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Customize the Connect audio notification sound](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_CustomizeConnectAudioNotifSound.md)
@@ -131,7 +131,7 @@ glide.connect.enabled
 
 </td><td id="entry_GlideConnectEnabledDescription">
 
-Hides the **Create or Join Chat Room** related link, which appears on the Incident form when legacy chat is enabled. Legacy chat and [[c_Collaboration|Connect Chat]] should not be used concurrently and this property should not be modified.-   **Type**: true \| false
+Hides the **Create or Join Chat Room** related link, which appears on the Incident form when legacy chat is enabled. Legacy chat and Connect Chat should not be used concurrently and this property should not be modified.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
 
@@ -162,13 +162,3 @@ Determines whether the show Live Feed icon \(\[Omitted image "ShowLiveFeedIcon.p
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Connect|Connect]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[email|Email]]
-- [[c_CollaborationOverlay|Connect overlay]]
-- [[c_ConnectSupport|Connect Support]]
-- [[notify-landing-page|Notify]]
-- [[c_Collaboration|Connect Chat]]

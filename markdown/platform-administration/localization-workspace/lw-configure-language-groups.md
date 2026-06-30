@@ -18,14 +18,14 @@ After setting up individual language providers, you can define one or more langu
 
 ## Before you begin
 
--   Configure all individual language providers. The [[ia-localization-il|localization]]\_admin role is required to create a language provider. See [Configure a language provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-configure-translation-provider.md).
+-   Configure all individual language providers. The localization\_admin role is required to create a language provider. See [Configure a language provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-configure-translation-provider.md).
 -   Role required: sn\_lw.user. The sn\_lw.user role can create a language group by selecting from existing language providers.
 
 ## About this task
 
 From version 2.0.2: When your users create translation requests, they can select configured language groups rather than adding each language individually to the request.
 
-Individual languages may be included in more than one language group. If a language is included multiple times in one translation request, [[localization-workspace|Localization Workspace]] clears out the preconfigured value for translation service provider. Then the translation requester must manually select the desired translation service provider.
+Individual languages may be included in more than one language group. If a language is included multiple times in one translation request, Localization Workspace clears out the preconfigured value for translation service provider. Then the translation requester must manually select the desired translation service provider.
 
 **Note:** From version 3.0.0, a Guided Tour is available to assist localization admins and localization requesters \(localization\_admin and localization\_requestor\) with the setup of a language group. Access the guided tour by selecting the Help Center icon \[Omitted image "Banner\_HelpIcon.png"\] on the [Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-status-synchronization.md) screen.
 
@@ -78,7 +78,3 @@ You can edit a group as follows.
 
 **Parent Topic:**[Language setup in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-language-setup.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]

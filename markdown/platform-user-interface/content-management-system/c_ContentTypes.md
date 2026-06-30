@@ -32,7 +32,7 @@ For example, the list block **Catalog Top 5** displays the top five items in the
 
 -   in search results to link to the correct page.
 -   in the Current Document block to display the current record.
--   in links on [[lists-configurable-workspace|lists]] and other places that link to record types.
+-   in links on lists and other places that link to record types.
 
 Several content types are available by default for tables such as Catalog Item \[sc\_cat\_item\], Gauge \[sys\_gauge\], and Page \[content\_page\].
 
@@ -62,6 +62,3 @@ The following is an example of where you might use Content Types.
 
 [Content Management meta tags]()
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]

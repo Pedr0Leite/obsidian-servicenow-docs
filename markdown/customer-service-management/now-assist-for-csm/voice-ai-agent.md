@@ -25,14 +25,14 @@ The AI voice agent enables customers to get case status and create cases entirel
 
 ## Key Capabilities
 
-The AI voice agent helps with [[case-management|case management]] by using natural, conversational voice interactions:
+The AI voice agent helps with case management by using natural, conversational voice interactions:
 
 -   Check the status of your cases just by asking.
--   Create cases without filling out any [[migration-forms|forms]].
+-   Create cases without filling out any forms.
 -   If an issue is complicated, the agent can quickly connect you to a human.
 -   It supports multiple languages, making it easy for customers around the world to use.
 -   All interactions are recorded for auditing and quality checks.
--   [[customer-data|Customer data]] stays safe and separated to protect privacy.
+-   Customer data stays safe and separated to protect privacy.
 
 ## Benefits
 
@@ -62,7 +62,7 @@ This interface enables admins to [create a AI voice agents](https://raw.githubus
 
 **Note:**
 
--   To enable customer access and use of AI voice agents, an admin must install the plugin [[c_CustomerServiceManagement|Customer Service Management]] AI agent collection
+-   To enable customer access and use of AI voice agents, an admin must install the plugin Customer Service Management AI agent collection
 -   To modify the AI voice agents, duplicate it, and adjust the settings according to your requirements.
 
 **Important:**
@@ -70,9 +70,3 @@ This interface enables admins to [create a AI voice agents](https://raw.githubus
 -   When you modify an AI agent, or a tool, make sure that you update all instructions accordingly. For more info, see [Configure and customize the AI Voice Agent for Now Assist for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-and-customize-the-ai-voice-agent-for-csm.md).
 -   In the Define availability screen for the AI agent, make sure that the **Status** field is enabled to activate the AI agent.
 
-## Related
-
-- [[case-management|Case management]]
-- [[migration-forms|Forms]]
-- [[customer-data|Customer data]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

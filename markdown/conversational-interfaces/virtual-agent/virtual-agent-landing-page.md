@@ -36,7 +36,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Activate\[Omitted image "bus-manage.svg"\] Alt text:[[activate-virtual-agent|Activate Virtual Agent]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-quick-start.md)
+[Activate\[Omitted image "bus-manage.svg"\] Alt text:Activate Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-quick-start.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Select a tile to get started.
 </td></tr></tbody>
 </table>## Get started with Virtual Agent for specific businesses
 
-To explore Virtual Agent for IT Service [[management|Management]], Customer Service Management, or HR Service Delivery, select a business tile to learn more.
+To explore Virtual Agent for IT Service Management, Customer Service Management, or HR Service Delivery, select a business tile to learn more.
 
 <table id="table_wlx_qdm_v4b" class="nav-card"><tbody><tr><td>
 
@@ -111,7 +111,3 @@ Virtual Agent for Customer Service Management \[Omitted image "bus-customer-serv
 
 **Note:** We improve performance and the user experience by tracking aggregate in-app activity, including interaction with our app. This tracking is focused on aggregated technical information rather than personal information.
 
-## Related
-
-- [[activate-virtual-agent|Activate Virtual Agent]]
-- [[management|Management]]

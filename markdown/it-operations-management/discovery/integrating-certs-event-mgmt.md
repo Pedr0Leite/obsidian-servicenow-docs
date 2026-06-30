@@ -14,7 +14,7 @@ breadcrumb: [Certificate alerts and notifications, Configuring Certificate Inven
 
 # Integrate Event Management with Certificate Inventory and Management
 
-In [[cert-inventory-mgmt|Certificate Inventory and Management]] version 1.2.0 and later, [[c_EM|Event Management]] can create events and alerts for both expiring and expired certificates, enhancing the system's monitoring capabilities.
+In Certificate Inventory and Management version 1.2.0 and later, Event Management can create events and alerts for both expiring and expired certificates, enhancing the system's monitoring capabilities.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: admin
 
 ## About this task
 
-The integration leverages the Workflow Studio feature to initiate events. It utilizes a pre-existing daily [[r-discovery|Discovery]] schedule designed to identify expired or expiring certificates, activating a subflow. Upon subflow activation, it verifies the installation of the Event Management Store application. If the application is installed, the subflow generates an event for expiring or expired certificates.
+The integration leverages the Workflow Studio feature to initiate events. It utilizes a pre-existing daily Discovery schedule designed to identify expired or expiring certificates, activating a subflow. Upon subflow activation, it verifies the installation of the Event Management Store application. If the application is installed, the subflow generates an event for expiring or expired certificates.
 
 ## Procedure
 
 1.  To view all the generated alerts or events, navigate to **All** &gt; **Event Management** &gt; **All Alerts** or **All** &gt; **Event Management** &gt; **All Events**.
 
-2.  To exclude specific Certificate events and prevent alert triggers, navigate to **Event Management** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]** and perform the following steps.
+2.  To exclude specific Certificate events and prevent alert triggers, navigate to **Event Management** &gt; **Rules** &gt; **Event Rules** and perform the following steps.
 
     1.  Select the **Certificate Expired/Expiring Events** rule.
 
@@ -45,9 +45,3 @@ The integration leverages the Workflow Studio feature to initiate events. It uti
 
 **Parent Topic:**[Certificate alerts and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-workflow.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]

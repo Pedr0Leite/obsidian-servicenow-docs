@@ -24,7 +24,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 You can redirect users to a URL rather than to the configured drilldown or the list that underlies the selected section of a report.
 
-See [Define a report drilldown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DrillingDownWithinReports.md) for the [[report-types-creation-details-rd|report types]] that don't support the drilldown feature.
+See [Define a report drilldown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DrillingDownWithinReports.md) for the report types that don't support the drilldown feature.
 
 ## Procedure
 
@@ -57,6 +57,3 @@ When you select the report, the redirect URL replaces any drilldown functionalit
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[report-types-creation-details-rd|Report types]]

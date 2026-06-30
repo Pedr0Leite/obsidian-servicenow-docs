@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Provide more details on your purchase from your mobile device
 
-Provide additional information on your purchase by answering the follow-up questions that the procurement specialist has posted regarding your order from your mobile application. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the [[sourcing-request|sourcing request]].
+Provide additional information on your purchase by answering the follow-up questions that the procurement specialist has posted regarding your order from your mobile application. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the sourcing request.
 
 ## Before you begin
 
-A procurement specialist can request for more information about a sourcing request by assigning a to-do. When this more information needed request is assigned to you, it is displayed on the Now Mobile **My Tasks** tab, in addition to the [[shopping-hub-overview|Shopping Hub]] desktop to-dos page.
+A procurement specialist can request for more information about a sourcing request by assigning a to-do. When this more information needed request is assigned to you, it is displayed on the Now Mobile **My Tasks** tab, in addition to the Shopping Hub desktop to-dos page.
 
 Role required: sn\_shop.shopper
 
@@ -45,7 +45,3 @@ You can provide more information on the queries that the procurement buyer has p
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[shopping-hub-overview|Shopping Hub]]

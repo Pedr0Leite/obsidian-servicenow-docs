@@ -14,7 +14,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # Contextual search
 
-Contextual search is a search technology that focuses on the context of the query as well as the intent of the user in order to fetch the most relevant set of [[hs-results|results]]. Contextual search displays related results within a form or record producer based on the text you enter in a field.
+Contextual search is a search technology that focuses on the context of the query as well as the intent of the user in order to fetch the most relevant set of results. Contextual search displays related results within a form or record producer based on the text you enter in a field.
 
 Example use cases for Incident:
 
@@ -25,14 +25,14 @@ Contextual search helps with incident deflection for the following areas:
 
 -   Incident record producers: deflecting incidents by helping end users resolve issues before they raise an incident.
 -   Incident forms: helping service desk staff resolve incidents quickly by providing relevant knowledge.
--   Incident email [[notifications|notifications]]: helping end users resolve their incidents themselves without requiring manual intervention from service desk staff.
+-   Incident email notifications: helping end users resolve their incidents themselves without requiring manual intervention from service desk staff.
 
 -   **[Contextual search plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/contextual-search-plugins.md)**  
-[[contextual-search-plugin|Contextual search plugin]] is activated in the base system.
+Contextual search plugin is activated in the base system.
 -   **[Contextual search concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/contextual-search-concepts.md)**  
-[[contextual-search-concepts|Contextual search concepts]] help you to understand different contextual search components that are used in the documentation, configuration, and user interface. Understanding of the concepts makes it easier for you to comprehend the interconnection between the components.
+Contextual search concepts help you to understand different contextual search components that are used in the documentation, configuration, and user interface. Understanding of the concepts makes it easier for you to comprehend the interconnection between the components.
 -   **[Contextual search components diagram](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/contextual-search-flow-diagram.md)**  
-The [[contextual-search-flow-diagram|contextual search components diagram]] helps you to understand how contextual search concepts work together to perform a search and from which module you can configure the components.
+The contextual search components diagram helps you to understand how contextual search concepts work together to perform a search and from which module you can configure the components.
 -   **[Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/configuring-contextual-search.md)**  
 You can configure different components of contextual search.
 -   **[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)**  
@@ -44,10 +44,3 @@ Contextual Search is installed with these roles.
 
 **Parent Topic:**[Search administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[notifications|Notifications]]
-- [[contextual-search-plugin|Contextual search plugin]]
-- [[contextual-search-concepts|Contextual search concepts]]
-- [[contextual-search-flow-diagram|Contextual search components diagram]]

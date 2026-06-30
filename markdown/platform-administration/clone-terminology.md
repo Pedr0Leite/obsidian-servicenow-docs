@@ -12,7 +12,7 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # Clone terminology
 
-A [[reference-email-admin|reference]] topic that contains various terms and [[clone-exclusions-preservers-cleanupscripts|definitions]] for cloning.
+A reference topic that contains various terms and definitions for cloning.
 
 <table id="table_gkn_h2c_zfc"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Reusable template for clone settings, exclusions, preservers, and scripts.
 
 </td></tr><tr><td>
 
-[[Clone-UI|Clone Admin Console]]
+Clone Admin Console
 
 </td><td>
 
@@ -98,11 +98,5 @@ You can divide your clone operation into 2 steps. 1.  Cloning from production to
 You can save time if you're dealing with multiple instances and experience long clone durations. Using this strategy, you perform lengthy operations such as post-clone cleanup scripts or excluding Task data older than 90 days only once. The clones in step 2 have a lighter footprint and complete faster.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+</table>**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[Clone-UI|Clone Admin Console]]

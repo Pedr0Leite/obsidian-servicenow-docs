@@ -17,13 +17,13 @@ Trigger a configurable product action in a session to add a child configuration 
 
 ## Before you begin
 
-You are in an active configuration session for a solution-enabled product. For more information, see [[launch-solution|Launch a solution]].
+You are in an active configuration session for a solution-enabled product. For more information, see [Launch a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/launch-solution.md).
 
 Role required: none
 
 ## Procedure
 
-1.  In the active configuration session, interact with the [[fields|fields]] or selections that trigger a configurable product action rule.
+1.  In the active configuration session, interact with the fields or selections that trigger a configurable product action rule.
 
 2.  Verify that the solution navigation sidebar updates to include the new child configuration.
 
@@ -38,26 +38,17 @@ If the child configuration does not appear in the solution navigation sidebar, v
 
 After adding a configurable product:
 
--   To move to the new child configuration and complete its configuration, see [[navigate-solution|Navigate within a solution]].
--   To remove a child configuration that is no longer needed, see [[remove-child-configuration|Remove a configurable product from a solution]].
+-   To move to the new child configuration and complete its configuration, see [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md).
+-   To remove a child configuration that is no longer needed, see [Remove a configurable product from a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/remove-child-configuration.md).
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
 
-[[create-configurable-product-action|Create a configurable product action]]
+[Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md)
 
-[[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
+[Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md)
 
 [Solution configuration limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[launch-solution|Launch a solution]]
-- [[navigate-solution|Navigate within a solution]]
-- [[remove-child-configuration|Remove a configurable product from a solution]]
-- [[cpq-using|Using CPQ]]
-- [[create-configurable-product-action|Create a configurable product action]]
-- [[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
-- [[fields|Fields]]

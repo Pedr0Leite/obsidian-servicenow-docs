@@ -15,13 +15,13 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # How Agent Client Collector for Visibility - Content works
 
-[[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) requires installation of ServiceNow Agent Client Collector \(ACC\) on the target host. ACC is a derivative of Sensu-Go, an open-source software.
+Agent Client Collector for Visibility - Content \(ACC-VC\) requires installation of ServiceNow Agent Client Collector \(ACC\) on the target host. ACC is a derivative of Sensu-Go, an open-source software.
 
 ## ACC-VC use cases
 
-ACC-VC applies [[checks-policies|Checks and Policies]] to schedule and collect host data. ACC-VC is triggered in the following cases:
+ACC-VC applies Checks and Policies to schedule and collect host data. ACC-VC is triggered in the following cases:
 
--   Periodic scheduling: A policy-based approach where [[r-discovery|Discovery]] is triggered on a periodic basis.
+-   Periodic scheduling: A policy-based approach where Discovery is triggered on a periodic basis.
 -   On CI delete: When the computer or server CI record is deleted.
 -   MID Server cycle: When the MID Server goes down and comes back up.
 -   Target host cycle: When the target host goes down and comes back up.
@@ -55,8 +55,3 @@ The following variants of virtualization and cloud server vendors are supported 
 -   Google \(GCP\)
 -   Microsoft Azure
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]
-- [[r-discovery|Discovery]]

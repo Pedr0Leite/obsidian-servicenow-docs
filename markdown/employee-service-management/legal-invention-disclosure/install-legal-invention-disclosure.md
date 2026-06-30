@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Install Legal Invention Disclosure
 
-You can install the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] application by installing the Legal Simple Intellectual Property \(sn\_lg\_ip\) application if you have the admin role.
+You can install the Legal Invention Disclosure application by installing the Legal Simple Intellectual Property \(sn\_lg\_ip\) application if you have the admin role.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ The following items are installed with Legal Invention Disclosure:
 
 **Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

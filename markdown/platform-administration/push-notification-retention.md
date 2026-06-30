@@ -45,12 +45,12 @@ If you are already using another method for managing push notification records, 
 
 **Note:** For assistance replacing your existing record management implementation with push notification retention, contact your professional services or sales representative.
 
--   **[[activate-push-retention-plugin|Activate the Push Retention plugin]]**  
+-   **[Activate the Push Retention plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-push-retention-plugin.md)**  
 The Push Retention plugin \(com.glide.push\_retention\) provides the retention policy for push notifications, so that you can specify when the system archives and destroys push notification records.
--   **[[archive-push-notification-manually|Archive push notifications manually]]**  
+-   **[Archive push notifications manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archive-push-notification-manually.md)**  
 You can manually archive push notifications on demand instead of waiting for the instance to archive them based on a scheduled job.
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -71,8 +71,3 @@ You can manually archive push notifications on demand instead of waiting for the
 
 [Requeue failed push notification messages]()
 
-## Related
-
-- [[activate-push-retention-plugin|Activate the Push Retention plugin]]
-- [[archive-push-notification-manually|Archive push notifications manually]]
-- [[c_PushNotifications|Push notifications]]

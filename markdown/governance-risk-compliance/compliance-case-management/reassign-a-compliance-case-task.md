@@ -14,7 +14,7 @@ breadcrumb: [Work on action task, Compliance case task workflow, Use, Compliance
 
 # Reassign an Assessment type Action task
 
-[[reassign-an-assessment|Reassign an Assessment]] type Action task to another user in the GRC: [[compliance-case-management|Compliance Case Management]] application. For example, a case analyst or an action task owner can reassign a compliance Action task to another Action task owner if an action task is wrongly assigned or isn’t accepted by the Action task owner.
+Reassign an Assessment type Action task to another user in the GRC: Compliance Case Management application. For example, a case analyst or an action task owner can reassign a compliance Action task to another Action task owner if an action task is wrongly assigned or isn’t accepted by the Action task owner.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ As an action task owner, you can also accept the task, start working on it, and 
 
 ## Procedure
 
-1.  Navigate to **Self Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **Self Service** &gt; **Employee Center**.
 
 2.  Access your task from the My tasks module.
 
@@ -49,8 +49,3 @@ As an action task owner, you can also accept the task, start working on it, and 
 
 **Parent Topic:**[Work on an action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/work-on-compliance-case-task.md)
 
-## Related
-
-- [[reassign-an-assessment|Reassign an assessment]]
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]

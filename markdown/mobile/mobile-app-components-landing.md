@@ -20,7 +20,7 @@ Select a tile to learn about the different components you can use to create mobi
 
 <table id="table_gkd_fp5_g1c" class="nav-card"><tbody><tr><td>
 
-[Navigation bar \[Omitted image "bus-password-reset.svg"\] Alt text: Allow users to access [[sg-mobile-applet-launcher|launcher screens]], other types of screens, settings, and notifications with the mobile app [[sg-mobile-tab-bar|navigation bar]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-tab-bar.md)
+[Navigation bar \[Omitted image "bus-password-reset.svg"\] Alt text: Allow users to access launcher screens, other types of screens, settings, and notifications with the mobile app navigation bar.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-tab-bar.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ Select a tile to learn about the different components you can use to create mobi
 
 </td></tr><tr><td>
 
-[Data items \[Omitted image "bus-database.svg"\] Alt text: Create [[sg-data-item|data items]] that provide the data presented in mobile app screens.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item.md)
+[Data items \[Omitted image "bus-database.svg"\] Alt text: Create data items that provide the data presented in mobile app screens.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item.md)
 
 </td><td>
 
@@ -56,9 +56,3 @@ Select a tile to learn about the different components you can use to create mobi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[sg-data-item|Data items]]

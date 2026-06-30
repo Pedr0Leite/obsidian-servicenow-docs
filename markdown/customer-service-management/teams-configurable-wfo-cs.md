@@ -25,7 +25,7 @@ With Teams, you can do the following:
 -   Targets can be set on the KPIs through the team performance page at the global or individual level. When such targets are set, the trendline reflects the targets.
 -   Drill down to the individual agent level to view a 360 degree view of the current work, historical KPIs, presence history, channel capacity utilization, skills, and upcoming time-offs.
 
-**Parent Topic:**[[explore-teams-configurable-wfo-cs|Teams in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Teams in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explore-teams-configurable-wfo-cs.md)
 
 ## Analyze the performance trends for your teams
 
@@ -47,7 +47,7 @@ Analyze the data by drilling down into the data for a team, a specific team memb
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [[components-installed-configurable-wfo-cs|system property]].
+    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md).
 
 4.  Analyze team performance.
 
@@ -90,10 +90,5 @@ Click the **Tasks** tab and analyze all cases related to the team.-   To view th
 **Related topics**  
 
 
-[Setting up Teams Workforce [[optimization|Optimization]] for Customer Service]()
+[Setting up Teams Workforce Optimization for Customer Service]()
 
-## Related
-
-- [[explore-teams-configurable-wfo-cs|Teams in Workforce Optimization for Customer Service]]
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]

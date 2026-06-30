@@ -14,7 +14,7 @@ breadcrumb: [Omnichannel Callback reference, Omnichannel Callback, Manage people
 
 # Domain separation and Omnichannel Callback
 
-Domain separation is supported for [[omnichannel-callback|Omnichannel Callback]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Omnichannel Callback. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -54,6 +54,3 @@ When domain separation is used, a callback request from guest users is routed to
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]

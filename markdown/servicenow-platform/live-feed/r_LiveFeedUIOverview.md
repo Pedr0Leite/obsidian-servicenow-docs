@@ -31,7 +31,7 @@ When a requester user, one that has no ServiceNow role, is viewing a feed and po
 -   **[Follow other Live Feed users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_FollowOtherLiveFeedUsers.md)**  
 As you use Live Feed, you can follow the message threads of other users.
 -   **[Select feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SelectingFeeds.md)**  
-A feed is a stream of related messages. You can use the feed selector to switch between feed types and to view specific group feeds and [[c_RecordFeeds|record feeds]].
+A feed is a stream of related messages. You can use the feed selector to switch between feed types and to view specific group feeds and record feeds.
 -   **[Follow feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_FollowingFeeds.md)**  
 You can view users who are following you or other users you are following.
 -   **[Bookmark feeds and hashtags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_BookmarkFeedsAndHashtags.md)**  
@@ -39,9 +39,5 @@ The Live Feed interface uses the standard bookmarking functionality for feeds an
 -   **[Add Live Feed to your homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_AddLiveFeedToYourHomepage.md)**  
 You can add Live Feed to your own homepage or to a global homepage.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[c_RecordFeeds|Record feeds]]

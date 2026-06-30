@@ -12,16 +12,16 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Instance Observer reports overview
 
-Reports in Instance Observer offer insights into the health of the instances, tracks database growth, and encryption status. The reports [[io-help|help]] you to analyze trends, and to schedule, download, and share these reports.
+Reports in Instance Observer offer insights into the health of the instances, tracks database growth, and encryption status. The reports help you to analyze trends, and to schedule, download, and share these reports.
 
 ## Daily Performance Metric Report
 
--   **ServiceNow [[platform-health-idi|Platform Health]]**
+-   **ServiceNow Platform Health**
     -   **Standby Lag Anomaly**
 
         Indicates a delay in replication to the database that resides in the standby datacenter, and this results in delays if an AHA was required.
 
-        ServiceNow has an internal monitor and standard operating procedures when lag to the standby site is present. If ServiceNow determines a risk or [[impact-landing-page|impact]] due to lag, a P2 case will be opened automatically.
+        ServiceNow has an internal monitor and standard operating procedures when lag to the standby site is present. If ServiceNow determines a risk or impact due to lag, a P2 case will be opened automatically.
 
         **Note:** Not all breach will result in a case. For sub-prod instances, ignore this field in the report.
 
@@ -37,7 +37,7 @@ Reports in Instance Observer offer insights into the health of the instances, tr
 
         Indicates that the database is impacted with a very strong collection to user impact.
 
-        See the [Targeting query patterns to maintain or improve [[instance-observer-performance|performance]] \[KB1064766\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1064766) article in the Now Support Knowledge Base for the steps and then adjust the time range to +/- 15 minutes around the time of the breach.
+        See the [Targeting query patterns to maintain or improve performance \[KB1064766\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1064766) article in the Now Support Knowledge Base for the steps and then adjust the time range to +/- 15 minutes around the time of the breach.
 
 -   **Health Indicator**
     -   **Today’s count and yesterday’s count**
@@ -89,16 +89,16 @@ This report provides users with the ability to create a report on the database g
 
 **Note:** If shards are not configured, then the chart for database size will not display any shards database. The table growth is sorted in descending order by the highest table size.
 
-For more information on reports, see [[instance-observer-reporting|Instance performance telemetry reports]].
+For more information on reports, see [Instance performance telemetry reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-reporting.md).
 
 ## URL for graphs
 
 -   You can share the URL for charts with respective timestamp so you can open the link directly in a browser with the selected options.
--   You can share the URL at the Performance, [[io-availability|Availability]], Triage, Reports, and Configure Notification under **Alerts** tab.
+-   You can share the URL at the Performance, Availability, Triage, Reports, and Configure Notification under **Alerts** tab.
 -   IO is supported on Google Chrome and Mozilla Firefox and the links are valid on these browsers. You must log in to the respective browser to view the shared URL.
 -   There is a limitation with sharing the URL for Triage — both the sender and recipient must have the same instance enabled in their accounts.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -143,12 +143,3 @@ For more information on reports, see [[instance-observer-reporting|Instance perf
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-reporting|Instance performance telemetry reports]]
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-help|Help]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

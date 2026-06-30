@@ -12,7 +12,7 @@ breadcrumb: [Create a company profile, User interface configuration, Working in 
 
 # Customize the banner logo in Core UI
 
-Use the **glide.product.image** and **glide.product.description** properties to change the banner logo and description in [[c_UI16|Core UI]].
+Use the **glide.product.image** and **glide.product.description** properties to change the banner logo and description in Core UI.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ To update the banner image in the **System Properties** &gt; **System** page, yo
     **Note:** The system limits banner images to 50px.
 
 
-**Parent Topic:**[[t_CreateACompanyProfile|Create a company profile]]
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
@@ -62,7 +62,3 @@ To update the banner image in the **System Properties** &gt; **System** page, yo
 
 [Modify the banner]()
 
-## Related
-
-- [[t_CreateACompanyProfile|Create a company profile]]
-- [[c_UI16|Core UI]]

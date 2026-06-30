@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Say workflow activity
 
-The **say** workflow activity allows you to play a message, using text to speech, on a [[notify-landing-page|Notify]] call.
+The **say** workflow activity allows you to play a message, using text to speech, on a Notify call.
 
 ## Input variables
 
@@ -24,12 +24,8 @@ Input variables determine the initial behavior of the activity.
 |--------|-----------|
 |Text to say|Specify the text to read.|
 |Language|Select the language and locale to use when reading text.|
-|Advanced|Select this [[check-box|check box]] to use a script to define the language and message, instead of using the **Text to say** and **Language** values.|
+|Advanced|Select this check box to use a script to define the language and message, instead of using the **Text to say** and **Language** values.|
 |Script|Define a script to set what text is read on the call. The script must return a string that defines the language and the text to read. For example, to play an English-language message, return \{language: 'en-US', text: 'Text to read'\}.|
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]

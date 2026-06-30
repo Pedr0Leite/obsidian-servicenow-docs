@@ -18,7 +18,7 @@ Create an entity mapped to a vocabulary source, or to a list of values you manua
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Create or use an existing intent.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
@@ -110,7 +110,7 @@ Provide values for this entity
 Values used to provide context for the model.
 
 </td></tr></tbody>
-</table>    For this example procedure, use the following [[exploring-ai-governance|configurations]]:
+</table>    For this example procedure, use the following configurations:
 
     -   **Entity Name**: `priority`
     -   **Type**: Mapped
@@ -137,7 +137,3 @@ You can create a mapped entity using a vocabulary source to use the values in th
 
 [Create a list vocabulary source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-static-list-source.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[exploring-ai-governance|Configurations]]

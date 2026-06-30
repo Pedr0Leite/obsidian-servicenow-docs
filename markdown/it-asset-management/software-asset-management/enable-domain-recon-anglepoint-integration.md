@@ -14,7 +14,7 @@ breadcrumb: [Authorized SAM Provider \(ASP\) integrations for IBM, Software Asse
 
 # Enable IBM reconciliation for specific domains
 
-If you are using domain separation for the integration between the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] and an Authorized SAM Provider \(ASP\), enable IBM reconciliation only for specific domains.
+If you are using domain separation for the integration between the Software Asset Management publisher pack for IBM and an Authorized SAM Provider \(ASP\), enable IBM reconciliation only for specific domains.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: asset or domain\_admin
 
 **Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

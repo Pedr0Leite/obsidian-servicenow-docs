@@ -15,23 +15,14 @@ breadcrumb: [Purchase Order Management, Source-to-Pay Operations, Finance and Su
 
 The reference topics provide additional information about the lists and forms that you use in Purchase Order Management
 
--   **[[purch-order-exception-form|Purchase order exception form]]**  
+-   **[Purchase order exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form.md)**  
 Use the purchase order exception form to view the information that an Operational Buyer can use to perform related tasks.
--   **[[create-delivery-plan-change|Delivery plan change form]]**  
+-   **[Delivery plan change form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-delivery-plan-change.md)**  
 Use the Delivery plan change form to provide deviations from a plan and create an exception.
--   **[[create-new-poe-form|Create new purchase order exception form]]**  
-Use the Create new purchase order exception form to provide details about the exception that is being created from a [[universal-request|universal request]].
--   **[[master-data-tables-for-pom|Master data tables for Purchase Order Management]]**  
-The primary data tables for Purchase Order Management store important information about [[purchase-order-table|purchase order]] exceptions, exception tasks, priority, split lines, purchase order confirmation, and confirmation lines.
+-   **[Create new purchase order exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-new-poe-form.md)**  
+Use the Create new purchase order exception form to provide details about the exception that is being created from a universal request.
+-   **[Master data tables for Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/master-data-tables-for-pom.md)**  
+The primary data tables for Purchase Order Management store important information about purchase order exceptions, exception tasks, priority, split lines, purchase order confirmation, and confirmation lines.
 
-**Parent Topic:**[[purchase-order-mgmt-landing-page|Purchase Order Management]]
+**Parent Topic:**[Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)
 
-## Related
-
-- [[purch-order-exception-form|Purchase order exception form]]
-- [[create-delivery-plan-change|Delivery plan change form]]
-- [[create-new-poe-form|Create new purchase order exception form]]
-- [[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[universal-request|Universal Request]]
-- [[purchase-order-table|Purchase order]]

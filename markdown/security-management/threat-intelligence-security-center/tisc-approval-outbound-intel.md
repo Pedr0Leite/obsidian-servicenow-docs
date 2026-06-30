@@ -24,7 +24,7 @@ You can configure approval rules on the Outbound Intel record. These rules deter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Administration** icon on the workspace.
 
@@ -67,6 +67,3 @@ You can configure approval rules on the Outbound Intel record. These rules deter
 
 [Working on the Redaction Library]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

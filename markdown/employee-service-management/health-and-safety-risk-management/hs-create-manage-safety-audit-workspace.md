@@ -26,7 +26,7 @@ You can also set up an audit schedule to generate recurring safety audits. For m
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -82,7 +82,7 @@ Select this option to create an independent audit. 1.  In the **Regulatory audit
     -   Alternatively, if you have a previous audit with a similar scope, select **Import scope** to pre-populate these sections rather than entering them manually. For more information, see [Import scope from an existing safety audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-import-scope-existing-safety-audit.md).
 8.  In the **Documents** tab, add standards and documents used to benchmark findings.
 
-    -   Select **Add** to add an existing document from [[health-safety-overview|Health and Safety]] document library.
+    -   Select **Add** to add an existing document from Health and Safety document library.
     -   Select **New** to upload a new document. For field descriptions, see [Health and Safety document version form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-document-form.md).
 9.  In the **Audit questionnaires** tab, add and assign smart assessments or surveys to be conducted as part of this audit.
 
@@ -90,7 +90,7 @@ Select this option to create an independent audit. 1.  In the **Regulatory audit
 
     -   The assigned user receives a notification to complete the smart assessment or survey.
     -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
-    -   A survey can be completed either through the [[employee-center-landing-page|Employee Center]] or on the mobile app. For more information, see [Complete a survey from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-complete-safety-insp-survey.md).
+    -   A survey can be completed either through the Employee Center or on the mobile app. For more information, see [Complete a survey from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-complete-safety-insp-survey.md).
 10. Conduct the audit and gather evidence as part of the audit, for example, document assessments, interviews, and observations.
 
     1.  In the **Audit questionnaires** tab, review the the smart assessment or survey responses that are submitted by the assigned user.
@@ -174,8 +174,3 @@ Record the audit result and outcomes and compare them with previous audits to id
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]

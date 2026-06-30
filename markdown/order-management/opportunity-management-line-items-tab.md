@@ -26,7 +26,7 @@ Role required: sales\_agent
 
 3.  Select **New** to start a new opportunity line item or select an existing opportunity line item to make changes.
 
-4.  Fill in the [[fields|fields]] in the Opportunity Line Item form.
+4.  Fill in the fields in the Opportunity Line Item form.
 
 <table id="table_mbp_gg5_c1c"><thead><tr><th>
 
@@ -299,21 +299,14 @@ Value representing upsell or downsell in comparison to the renewal amount for th
 
 ## What to do next
 
-Add a task to your opportunity. To learn more, see [[opportunity-management-tasks-tab|Add opportunity tasks]].
+Add a task to your opportunity. To learn more, see [Add opportunity tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md).
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-management-tasks-tab|Add opportunity tasks]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]

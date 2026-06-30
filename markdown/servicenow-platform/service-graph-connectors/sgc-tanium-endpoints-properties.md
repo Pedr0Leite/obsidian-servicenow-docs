@@ -18,9 +18,9 @@ Service Graph Connector for Tanium Endpoints properties control the behavior of 
 
 ## Connection properties
 
-These connection properties are available for the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]].
+These connection properties are available for the Service Graph Connector for Tanium Endpoints.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Tanium Endpoints** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Tanium Endpoints** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_conn_props_tanium-endpoints"><thead><tr><th>
 
@@ -84,7 +84,3 @@ Set this property to `true` to exclude the serial number from the CI record for 
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for Tanium Endpoints reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-tanium-endpoints-reference.md)
 
-## Related
-
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

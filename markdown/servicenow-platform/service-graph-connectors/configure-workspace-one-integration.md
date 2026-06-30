@@ -14,7 +14,7 @@ breadcrumb: [VMware Workspace ONE UEM, Service Graph Connectors, Integrating thi
 
 # Configure Service Graph Connector for VMware Workspace ONE UEM
 
-Use the [[cmdb-integration-workspace-one|Service Graph Connector for VMware Workspace ONE UEM]] to pull mobile and computing devices data from VMware Workspace ONE Unified Endpoint Management \(UEM\) into your ServiceNow instance.
+Use the Service Graph Connector for VMware Workspace ONE UEM to pull mobile and computing devices data from VMware Workspace ONE Unified Endpoint Management \(UEM\) into your ServiceNow instance.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 When using client credentials for authentication, obtain the OAuth credentials from your VMware Workspace ONE UEM administrator. Make a note of the following details:
 
@@ -184,7 +184,7 @@ Client secret of your VMware Workspace ONE UEM client application as noted in th
 
         For more information, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md#table_r53_5hm_xp).
 
-    4.  Select the **Active** [[check-box|check box]] to activate the SG-Workspace ONE UEM Devices and Apps scheduled job.
+    4.  Select the **Active** check box to activate the SG-Workspace ONE UEM Devices and Apps scheduled job.
 
     5.  In the **Run** field, select **Periodically** to specify how often the job should run.
 
@@ -414,8 +414,4 @@ Connection URL of your VMware Workspace ONE UEM controller.Use the format `https
 
     19. Set the Import apps based on software status value task to complete by selecting **Mark as Complete**.
 
-## Related
 
-- [[cmdb-integration-workspace-one|Service Graph Connector for VMware Workspace ONE UEM]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]

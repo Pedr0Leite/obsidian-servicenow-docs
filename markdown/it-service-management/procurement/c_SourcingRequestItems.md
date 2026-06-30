@@ -26,7 +26,7 @@ You can use the assets available in the requester’s local stockroom to fulfill
 
 ## Sourcing requested items from other stockrooms
 
-When the requested items aren’t in stock, you can [[t_CreateAPurchaseOrder|create a purchase order]] to deliver the items from other source stockrooms to your local stockroom. You can request multiple items in a purchase order.
+When the requested items aren’t in stock, you can create a purchase order to deliver the items from other source stockrooms to your local stockroom. You can request multiple items in a purchase order.
 
 After creating a purchase order, you can create hardware assets and reserve it for the requester either before or after you receive the requested items. You can’t create or assign software licenses to the requester before you receive the software licenses.
 
@@ -43,7 +43,7 @@ When a source stockroom doesn’t have enough items in stock, you can specify mu
 To source a requested software license, you must assign the rights of the software license to a user or a device so that they’re authorized to use the software.
 
 -   **[Create a purchase order from a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingPurchOrderFromRequest.md)**  
-You can create a purchase order directly from a request. This approach enables [[c_Procurement|procurement]] managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
+You can create a purchase order directly from a request. This approach enables procurement managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
 -   **[Create a transfer order from a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingTransferOrderFromReq.md)**  
 You can create a transfer order directly from a request to source hardware items and consumables from stockrooms.
 -   **[Source requests from local stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/consume-local-asset-stock.md)**  
@@ -80,7 +80,3 @@ You can add assignments directly from a request to source rights from software l
 
 [Source requests from local stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/consume-local-asset-stock.md)
 
-## Related
-
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[c_Procurement|Procurement]]

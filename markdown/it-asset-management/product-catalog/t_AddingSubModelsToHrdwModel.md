@@ -14,7 +14,7 @@ breadcrumb: [Create hardware models, Models, Product Catalog, IT Asset Managemen
 
 # Add substitute models to a hardware model
 
-On a hardware model record, you can add substitutes to track what hardware [[c_Models|models]] can be substituted for another hardware model.
+On a hardware model record, you can add substitutes to track what hardware models can be substituted for another hardware model.
 
 ## Before you begin
 
@@ -26,12 +26,12 @@ For example, a 19" monitor can be a valid substitute for a 17" monitor. Note tha
 
 When you select substitute models, note the following conditions.
 
--   Substitute models can be used with work management transfer orders. Substitute models are not used in [[c_Procurement|procurement]] part sourcing.
--   Hardware models included in [[c_CreatingBundledModels|bundled models]] cannot be added as substitutes.
+-   Substitute models can be used with work management transfer orders. Substitute models are not used in procurement part sourcing.
+-   Hardware models included in bundled models cannot be added as substitutes.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Hardware Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Hardware Models**.
 
 2.  Click a hardware model **Name**.
 
@@ -61,9 +61,3 @@ When you select substitute models, note the following conditions.
 
 [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_Procurement.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[c_CreatingBundledModels|Bundled models]]
-- [[c_ProductCatalog|Product Catalog]]

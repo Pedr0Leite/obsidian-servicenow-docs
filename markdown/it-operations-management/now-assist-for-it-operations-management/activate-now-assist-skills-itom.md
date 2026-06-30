@@ -14,11 +14,11 @@ breadcrumb: [Configure, Now Assist for ITOM, IT Operations Management]
 
 # Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\)
 
-You can activate the Now Assist skills for use in Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\).
+You can activate the Now Assist skills for use in Now Assist for IT Operations Management \(ITOM\).
 
 ## Before you begin
 
-Before activating the Now Assist skills, you must [[install-now-assist-itom|install the Now Assist for IT Operations Management \(ITOM\) plugin]]. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+Before activating the Now Assist skills, you must install the Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
 Role required: admin
 
@@ -52,20 +52,13 @@ Activate the Now Assist skills in the Now Assist for IT Operations Management \(
 
 
 -   **[Activate the analyze service health skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-the-analyze-service-health-skill.md)**  
-The analyze service health skill uses generative AI to provide an analysis of all [[service-observability|Service Observability]] [[otto-aiops-dashboards|dashboards]] for the selected service. You need to activate this skill before using it.
+The analyze service health skill uses generative AI to provide an analysis of all Service Observability dashboards for the selected service. You need to activate this skill before using it.
 -   **[Activate the analyze Service Observability dashboard skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-the-analyze-service-observability-dashboard-skill.md)**  
 The analyze Service Observability dashboard skill uses generative AI to provide an analysis of a Service Observability dashboard. You need to activate this skill before using it.
 -   **[Activate the Service Mapping Candidate skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-sm-candidate-skill.md)**  
-The [[c_ServiceMappingOverview|Service Mapping]] Candidate skill provides Now Assist the ability to classify app service candidates and generate a description for them. The skill is active by default. If needed, administrators can activate or deactivate the skill.
+The Service Mapping Candidate skill provides Now Assist the ability to classify app service candidates and generate a description for them. The skill is active by default. If needed, administrators can activate or deactivate the skill.
 -   **[Activate the Service Mapping Candidates Impact skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-sm-candidates-impact-skill.md)**  
 The Service Mapping Candidates Impact skill analyzes connections and effects on servers. It enables generating an impact summary, using Now Assist. The skill is active by default. If needed, administrators can activate or deactivate the skill.
 
 **Parent Topic:**[Configure Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-configure.md)
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[install-now-assist-itom|Install the Now Assist for IT Operations Management \(ITOM\) plugin]]
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[c_ServiceMappingOverview|Service Mapping]]

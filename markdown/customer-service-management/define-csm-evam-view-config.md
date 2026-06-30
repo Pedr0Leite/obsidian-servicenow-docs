@@ -12,7 +12,7 @@ breadcrumb: [Customize dynamic related records, Playbook pages, Playbooks in Cus
 
 # Define an EVAM view configuration
 
-Create a view configuration to combine conditions, database fields, and [[migration-form-declarative-actions|declarative actions]] with an associated view template.
+Create a view configuration to combine conditions, database fields, and declarative actions with an associated view template.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin or evam\_admin
 
 ## About this task
 
-Entity View Action Mapper \(EVAM\) is an application that standardizes how different data sources display in cards and [[migration-lists|lists]].
+Entity View Action Mapper \(EVAM\) is an application that standardizes how different data sources display in cards and lists.
 
 A view configuration combines conditions, database fields, and declarative actions with an associated view template. For more information, see [View configurations, view templates, and configuration bundles for EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-configuration-bundle.md).
 
@@ -123,13 +123,7 @@ Custom fields to display on the EVAM view configuration. This is a comma-separat
 **Related topics**  
 
 
-[[dynamic-related-records-configure|Configure dynamic related records]]
+[Configure dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/dynamic-related-records-configure.md)
 
-[[configure-related-record-definitions|Configure related record definitions]]
+[Configure related record definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-related-record-definitions.md)
 
-## Related
-
-- [[dynamic-related-records-configure|Configure dynamic related records]]
-- [[configure-related-record-definitions|Configure related record definitions]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[migration-lists|Lists]]

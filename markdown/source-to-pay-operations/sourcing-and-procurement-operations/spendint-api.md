@@ -15,9 +15,9 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # SpendInt APIs
 
-SpendInt APIs are inbound REST APIs that enable external procurement systems to send catalog, [[pricing|pricing]], order, shipment, and invoice data into ServiceNow [[psm-overview|Sourcing and Procurement Operations]], synchronizing structured procurement data from third-party systems.
+SpendInt APIs are inbound REST APIs that enable external procurement systems to send catalog, pricing, order, shipment, and invoice data into ServiceNow Sourcing and Procurement Operations, synchronizing structured procurement data from third-party systems.
 
-The SpendInt API is part of the [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] and is provided in the `sn_spend_intg` namespace. It supports data-level, asynchronous integrations where third-party external systems send updates to ServiceNow after data changes occur in the source system.
+The SpendInt API is part of the Source-to-Pay Integration Framework and is provided in the `sn_spend_intg` namespace. It supports data-level, asynchronous integrations where third-party external systems send updates to ServiceNow after data changes occur in the source system.
 
 ## SpendInt API purpose and usage
 
@@ -29,7 +29,7 @@ Each inbound procurement scenario is handled by a dedicated SpendInt endpoint un
 
 |Data scenario|Purpose|SpendInt API|
 |-------------|-------|------------|
-|Catalog ingestion|Create or update [[supplier|supplier]] products, product models, categories, and related attributes|`POST /sn_spend_intg/spendint/catalog`|
+|Catalog ingestion|Create or update supplier products, product models, categories, and related attributes|`POST /sn_spend_intg/spendint/catalog`|
 |Price updates|Update pricing for existing supplier product records|`POST /sn_spend_intg/spendint/price`|
 |Availability updates|Update product availability or stock information|`POST /sn_spend_intg/spendint/availability`|
 |Order acknowledgements|Send order confirmation details after a purchase is submitted|`POST /sn_spend_intg/spendint/orderack`|
@@ -40,7 +40,7 @@ For details about individual APIs, request payloads, and field mappings, see [Sp
 
 ## How SpendInt APIs process data
 
-SpendInt endpoints receive inbound payloads and write them to integration staging tables managed by the Source-to-Pay Integration Framework. The framework then validates and transforms the data into the appropriate procurement records, such as products, orders, shipments, or [[invoices|invoices]].
+SpendInt endpoints receive inbound payloads and write them to integration staging tables managed by the Source-to-Pay Integration Framework. The framework then validates and transforms the data into the appropriate procurement records, such as products, orders, shipments, or invoices.
 
 This design separates data ingestion from record creation, allowing consistent handling of supplier data across integration scenarios.
 
@@ -69,10 +69,3 @@ This design separates data ingestion from record creation, allowing consistent h
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[pricing|Pricing]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]

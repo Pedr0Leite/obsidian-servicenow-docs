@@ -12,7 +12,7 @@ breadcrumb: [Mini email composer, Emails, Use, Configurable Workspace UI, Config
 
 # Use email templates in the mini email composer
 
-Quickly [[activity-stream-compose-configurable-workspace|compose]] emails for common issues by selecting an email template in the record view instead of manually drafting an email.
+Quickly compose emails for common issues by selecting an email template in the record view instead of manually drafting an email.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Role required: email\_composer
 
 6.  Add the template to your email by selecting **Apply**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]

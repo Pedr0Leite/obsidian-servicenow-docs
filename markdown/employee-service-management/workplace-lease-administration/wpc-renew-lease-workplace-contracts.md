@@ -31,7 +31,7 @@ You can renew a contract that meets the following conditions:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select **Lease Administration**.
 
@@ -138,6 +138,3 @@ If you selected the **Save** option, ensure that you click **Renew** when you’
 
 [Cancel workplace contract in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

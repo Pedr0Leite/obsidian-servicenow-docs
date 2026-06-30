@@ -14,7 +14,7 @@ breadcrumb: [System or Export Processors, API access policy, Authentication, Acc
 
 # Configure Authentication profile for Processor
 
-Apply [[c_Authentication|authentication]] profile for the [[export|export]] processors.
+Apply authentication profile for the export processors.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Plugin required: Processor Access Policy \(`com.glide.processor.policy`\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **Processor Access [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Processor Access Policies**.
 
 2.  To add authentication profile to the processor, click **New**.
 
@@ -60,7 +60,7 @@ Authentication Profile
 
 </td><td>
 
-Type of the authentications profile. You can select **ID Token** or **[[oauth-inbound-and-outbound|OAuth]] Token**.
+Type of the authentications profile. You can select **ID Token** or **OAuth Token**.
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
@@ -71,9 +71,4 @@ Type of the authentications profile. You can select **ID Token** or **[[oauth-in
 
     \[Omitted image "auth-profile-processor.png"\] Alt text: Processor Access Policies
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[export|Export]]
-- [[ca-policies|Policies]]
-- [[oauth-inbound-and-outbound|OAuth]]

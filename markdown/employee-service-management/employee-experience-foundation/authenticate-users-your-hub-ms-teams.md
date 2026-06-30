@@ -14,7 +14,7 @@ breadcrumb: [Integration for Employee Experience, Setup for integrating self-con
 
 # Create Microsoft Azure application and authenticate users to access Employee Center in Microsoft Teams
 
-Create a Microsoft Azure application in the Microsoft Azure portal to enable agents to start and import the chat conversations, and assign permissions to users to view the [[employee-center|Employee Center dashboard]] in the Microsoft Teams application.
+Create a Microsoft Azure application in the Microsoft Azure portal to enable agents to start and import the chat conversations, and assign permissions to users to view the Employee Center dashboard in the Microsoft Teams application.
 
 ## Before you begin
 
@@ -156,7 +156,7 @@ Authorized scopes
 Check the authorized scope
 
 </td></tr></tbody>
-</table>    **Note:** For [[using-emp-center|using Employee Center]] in Microsoft 365 applications, add the following client IDs:
+</table>    **Note:** For using Employee Center in Microsoft 365 applications, add the following client IDs:
 
 <table id="table_bmb_2hh_1yb"><thead><tr><th align="left">
 
@@ -220,7 +220,3 @@ Client ID for Outlook mobile application
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_s_tnt.md)
 
-## Related
-
-- [[employee-center|Employee Center dashboard]]
-- [[using-emp-center|Using Employee Center]]

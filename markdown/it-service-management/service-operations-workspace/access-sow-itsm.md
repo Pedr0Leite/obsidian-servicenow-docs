@@ -38,8 +38,5 @@ Role required: itil
 
 [Exploring Recommended Actions for ITSM in Service Operations Workspace]()
 
-[Exploring [[c_OnCallScheduling|On-call Scheduling]] in Service Operations Workspace]()
+[Exploring On-call Scheduling in Service Operations Workspace]()
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

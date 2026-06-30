@@ -64,7 +64,7 @@ If your ideas are already associated with categories and you want to use the new
 
 You can convert an idea into work entities other than demands. The **Create Task** button enables you to convert an idea into a project, epic, or story as well as a demand becomes available in the Idea form.
 
-You must have the required Agile plugins [[agile-landing-page|Agile Development 2.0]] and [[SAFeoverview|Scaled Agile Framework \(SAFe\)]] and Continual Improvement Management installed to view these options.
+You must have the required Agile plugins Agile Development 2.0 and Scaled Agile Framework \(SAFe\) and Continual Improvement Management installed to view these options.
 
 If you want to allow conversion of ideas only to a demand, disable the **Create Task** button and continue using the **Accept** button or disable the **Accept** and **Defer** buttons to use other options. For more information see, [Using the form designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormDesign.md).
 
@@ -74,12 +74,7 @@ Review the existing business rules in the idea table. Set the business rules tha
 
 ## Navigation for legacy Idea application
 
-To encourage your users to submit ideas through the new Idea Portal, remove navigation for old Idea application from the application menu and deactivate the [[submit-idea-in-idea-portal|Submit an Idea]] option from the Service Catalog. For more information see, [Enable or disable an application menu or module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnDisableAppMenuOrMod.md).
+To encourage your users to submit ideas through the new Idea Portal, remove navigation for old Idea application from the application menu and deactivate the Submit an Idea option from the Service Catalog. For more information see, [Enable or disable an application menu or module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnDisableAppMenuOrMod.md).
 
 **Parent Topic:**[Configuring Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/configuring-innovation-management.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[submit-idea-in-idea-portal|Submit an idea]]

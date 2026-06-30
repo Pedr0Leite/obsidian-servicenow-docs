@@ -14,7 +14,7 @@ breadcrumb: [Incident Management Best Practice – San Diego, Incident Managemen
 
 # Activate Incident Management Best Practice – San Diego
 
-Activate the [[c_IncidentManagement|Incident Management]] Best Practice — San Diego plugin \(com.snc.best\_practice.incident.sandiego\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+Activate the Incident Management Best Practice — San Diego plugin \(com.snc.best\_practice.incident.sandiego\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-The [[inc-mgmt-best-prac-plugin-sd|Incident Management Best Practice – San Diego]] plugin modifies the problem and incident management workflows to enhance the customer experience.
+The Incident Management Best Practice – San Diego plugin modifies the problem and incident management workflows to enhance the customer experience.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -41,8 +41,3 @@ The [[inc-mgmt-best-prac-plugin-sd|Incident Management Best Practice – San Die
 
 **Parent Topic:**[Incident Management Best Practice – San Diego](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inc-mgmt-best-prac-plugin-sd.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[inc-mgmt-best-prac-plugin-sd|Incident Management Best Practice – San Diego]]
-- [[dex-workspace-application-tab|Applications]]

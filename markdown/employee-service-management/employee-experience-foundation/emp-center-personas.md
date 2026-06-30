@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 # Employee Center roles
 
-[[install-plugins|Employee Center plugins]] include necessary roles for configuring and using the features. Learn more about the roles and the tasks they can perform.
+Employee Center plugins include necessary roles for configuring and using the features. Learn more about the roles and the tasks they can perform.
 
 Users and roles are configured at the platform level. For information, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
@@ -34,7 +34,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[employee-center-landing-page|Employee Center]] Admin\[sn\_hr\_sp.esc\_admin\]
+Employee Center Admin\[sn\_hr\_sp.esc\_admin\]
 
 </td><td>
 
@@ -111,7 +111,7 @@ A user criteria on the topic record for topic management level tasks, such as ha
 Not applicable
 
 </td></tr></tbody>
-</table>## [[emp-slate-employee-profile|Employee Profile]]
+</table>## Employee Profile
 
 For more information, see [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
@@ -142,9 +142,3 @@ Configures employee profile
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[install-plugins|Employee Center plugins]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]

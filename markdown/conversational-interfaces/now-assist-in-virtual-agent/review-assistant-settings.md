@@ -30,7 +30,7 @@ The configuration for each step is shown on the review page. You will need to **
 
 1.  Review your assistant settings.
 
-    **Note:** Settings for Now Assist panel assistants differ from [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistants.
+    **Note:** Settings for Now Assist panel assistants differ from Now Assist in Virtual Agent assistants.
 
     If a portal, messaging channel, or mobile app wasn't selected, the following alert appears at the top of the page.
 
@@ -51,6 +51,3 @@ The configuration for each step is shown on the review page. You will need to **
 
 See [Test a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/test-assistant.md).
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

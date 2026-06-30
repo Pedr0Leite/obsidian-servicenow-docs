@@ -16,7 +16,7 @@ Horizontal bar visualizations enable you to show the comparative size or frequen
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -24,9 +24,9 @@ Use the horizontal bar visualization type to compare different categories or gro
 
 ## Procedure
 
-1.  Follow the first steps to [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]:
+1.  Follow the first steps to [Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md):
 
-    1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+    1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
     2.  Select **Create data visualization**.
 
@@ -82,7 +82,7 @@ Use the horizontal bar visualization type to compare different categories or gro
 
     1.  Select **Follow filters**.
 
-        This option enables the visualization to follow [[c_HomepagePublishers|interactive filters]] on the dashboards it's placed on that are based on the same table.
+        This option enables the visualization to follow interactive filters on the dashboards it's placed on that are based on the same table.
 
     2.  Select **Show filter icon** to show the number of filters applied to the visualization.
 
@@ -90,7 +90,7 @@ Use the horizontal bar visualization type to compare different categories or gro
 
     3.  Under Chart interaction, select **Allow chart interaction**.
 
-        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by [[access-control|access control]] lists \(ACLs\) and viewers may not see all of the associated records.
+        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by access control lists \(ACLs\) and viewers may not see all of the associated records.
 
 8.  Configure the X axis.
 
@@ -183,13 +183,5 @@ Use the horizontal bar visualization type to compare different categories or gro
 
 You have created a horizontal bar visualization grouped on two fields. You have also configured the visualization's labeling, legend and ranges.
 
-**Parent Topic:**[[dv-example-bar|Bar visualization examples]]
+**Parent Topic:**[Bar visualization examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-bar.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[dv-example-bar|Bar visualization examples]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[access-control|Access control]]

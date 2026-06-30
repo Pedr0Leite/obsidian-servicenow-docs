@@ -18,7 +18,7 @@ Guidance on building a strategic portfolio management process
 
 ## Accelerator Overview
 
-Portfolio Governance provides [[impact-landing-page|Impact]] Customers with leading practices and prescriptive guidance on the demand management process, including demand generation, demand scoring, and the transition to design/development. This Impact Accelerator aims to assist Customers in creating a portfolio governance capability that is connected to strategic governance, building cross-enterprise alignment on strategic priorities for more effective and holistic solutions to enhance speed to value.
+Portfolio Governance provides Impact Customers with leading practices and prescriptive guidance on the demand management process, including demand generation, demand scoring, and the transition to design/development. This Impact Accelerator aims to assist Customers in creating a portfolio governance capability that is connected to strategic governance, building cross-enterprise alignment on strategic priorities for more effective and holistic solutions to enhance speed to value.
 
 ## Package Availability
 
@@ -51,22 +51,17 @@ Portfolio Governance provides [[impact-landing-page|Impact]] Customers with lead
 
 ## Requested information/access
 
--   [[servicenow-governance|ServiceNow governance]] structure documents – charters, board participant lists, etc.
+-   ServiceNow governance structure documents – charters, board participant lists, etc.
 -   CoE Charter
 -   Organization chart
 -   IT governance documents
 -   Demand process workbook – intake forms, assessment scorecards, etc.
 -   EA process workbook
 -   Project plans &amp; implementation timelines
--   [[design-review|Design Review]] policies
+-   Design Review policies
 -   Development methodology and process \(agile and/or waterfall\)
 
 ## Exceptions
 
 ServiceNow is not responsible for execution of the portfolio management process.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[servicenow-governance|ServiceNow Governance]]
-- [[design-review|Design Review]]

@@ -49,13 +49,13 @@ If a stage required for a workflow has not been imported or is not in the stage 
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  Open and check out the workflow.
 
 3.  In the title bar, click the menu icon and select **Edit Stages**.
 
-4.  In the [[c_WorkflowStages|Workflow Stages]] list, click **New**.
+4.  In the Workflow Stages list, click **New**.
 
 5.  On the Workflow Stage form, fill in the fields as appropriate.
 
@@ -74,7 +74,7 @@ If a stage required for a workflow has not been imported or is not in the stage 
 
 ## Add a stage to a workflow activity
 
-After stages are added to a workflow, you can assign them to the [[c_WorkflowActivities|workflow activities]].
+After stages are added to a workflow, you can assign them to the workflow activities.
 
 ### Procedure
 
@@ -84,7 +84,7 @@ After stages are added to a workflow, you can assign them to the [[c_WorkflowAct
 
 3.  Double-click the activity.
 
-4.  In the **Stage** field on the Activity [[properties-form-survey-designer|Properties form]], find and select the stage to display when the workflow reaches the activity.
+4.  In the **Stage** field on the Activity Properties form, find and select the stage to display when the workflow reaches the activity.
 
 5.  Click **Update**.
 
@@ -128,9 +128,3 @@ Alternatively, to translate stages for multiple workflows at once, you can direc
 2.  In the application navigation filter, enter `wf_stage.list`.
 3.  Edit the **Name** field for each stage and enter the text to display to French users. Do not change the **Value** field.
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowStages|Workflow stages]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[properties-form-survey-designer|Properties form]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer PaCE policies, Policy as Code Engine \(PaCE\), Extend Se
 
 # Passing parameters to PaCE policies
 
-Parameters can be passed to a PaCE policy to validate updates to an object \(tables and document IDs\). These variables apply to authoring in both low-code or JavaScript. Policy versions include three types of parameter inputs: API Variables, Config Parameters, and Record [[reference-document-management|References]].
+Parameters can be passed to a PaCE policy to validate updates to an object \(tables and document IDs\). These variables apply to authoring in both low-code or JavaScript. Policy versions include three types of parameter inputs: API Variables, Config Parameters, and Record References.
 
 ## API Variables
 
@@ -30,7 +30,7 @@ For example, for a travel expenses policy you can add variables to define the li
 
 ## Record References
 
-Record references define queries to extract data from any ServiceNow® tables and use the data to configure the policy logic. This feature enables you to retrieve additional data that may be required while defining the policy. You can define a query to perform aggregate functions for a record [[reference|reference]]. In the code editor, the variable name is `recordRefs`.
+Record references define queries to extract data from any ServiceNow® tables and use the data to configure the policy logic. This feature enables you to retrieve additional data that may be required while defining the policy. You can define a query to perform aggregate functions for a record reference. In the code editor, the variable name is `recordRefs`.
 
 ## Data Collectors
 
@@ -42,7 +42,3 @@ Data collectors can be accessed by using the `dataCollectors` object in JavaScri
 
 While editing a policy in low-code, an output of the configured data collectors is available under the drop-down menu.
 
-## Related
-
-- [[reference-document-management|References]]
-- [[reference|Reference]]

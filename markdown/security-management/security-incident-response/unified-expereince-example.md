@@ -19,12 +19,9 @@ This example demonstrates the unified experience framework capabilities.
 -   **[Example 1: Select implementations: Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-1-select-implementations-threat-lookup.md)**  
 The example below demonstrates the implementation\(s\).
 -   **[Example 2: Common Inputs: Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/common-inputs.md)**  
-The example below demonstrates the [[common-inputs|common inputs]] capability action.
+The example below demonstrates the common inputs capability action.
 -   **[Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-3-add-specific-runtime-details-inputs.md)**  
 Add specific runtime details inputs to an implementation, Run Additional Actions.
 
 **Parent Topic:**[Unified experience framework for integrations powered by Capability Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-capability-framework.md)
 
-## Related
-
-- [[common-inputs|common inputs]]

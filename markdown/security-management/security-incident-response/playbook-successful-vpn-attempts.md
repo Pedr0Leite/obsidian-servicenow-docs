@@ -14,16 +14,12 @@ breadcrumb: [Flow-based Playbooks, Security Incident Response playbooks, Playboo
 
 # Playbook for Successful VPN Attempts from the Service Accounts - Corp/Cloud
 
-This playbook provides systematic remediation steps to investigate incidents that track successful login attempts from service accounts through VPN. Service accounts aren’t supposed to have login events from a VPN, and such events could be [[indicator|indicators]] of either brute force or possible exposure of the account's credentials.
+This playbook provides systematic remediation steps to investigate incidents that track successful login attempts from service accounts through VPN. Service accounts aren’t supposed to have login events from a VPN, and such events could be indicators of either brute force or possible exposure of the account's credentials.
 
 -   **[Set up the Successful VPN Attempts from the Service Accounts playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-setup-successful-vpn-attempts.md)**  
-Use the following steps to [[playbook-setup-successful-vpn-attempts|set up the Successful VPN Attempts from the Service Accounts playbook]].
+Use the following steps to set up the Successful VPN Attempts from the Service Accounts playbook.
 -   **[Use the Successful VPN Attempts from the Service Accounts playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-using-successful-vpn-attempts.md)**  
 Use this playbook to investigate incidents that track successful login attempts from service accounts through VPN. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the Successful VPN Attempts from the Service Accounts playbook.
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[indicator|Indicators]]
-- [[playbook-setup-successful-vpn-attempts|Set up the Successful VPN Attempts from the Service Accounts playbook]]

@@ -16,7 +16,7 @@ breadcrumb: [Use, Journey designer, Employee Journey Management, HR Service Deli
 
 Journey plan configuration template management is a collaborative effort that includes ServiceNow admins, journey template owners, and team experts.
 
-Creating and managing journeys needs the knowledge and skills of many people. Responsibilities for keeping journey stages and task current aren’t always clearly defined. [[jny-dsgnr-landing-page-1|Journey designer]] enables a journey administrator to orchestrate and delegate all the activities needed to create and maintain journeys.
+Creating and managing journeys needs the knowledge and skills of many people. Responsibilities for keeping journey stages and task current aren’t always clearly defined. Journey designer enables a journey administrator to orchestrate and delegate all the activities needed to create and maintain journeys.
 
 **Note:** An administrator must assign owners and approvers to Journey designer plan configurations. For more details, read [Setup the Journey designer plan configuration review and approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-plan-config-admin.md)
 
@@ -26,7 +26,7 @@ Creating and managing journeys needs the knowledge and skills of many people. Re
     -   [Maintain oversight of journey configuration creation and modification process.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-create-mng-decentrlzd-template-configs.md)
 -   **Journey owner**
     -   Maintain plan configurations and initiate the approval workflow for plan configuration.
-    -   [[jny-dsgnr-update-and-publish-plncnfg|Update and publish changes to plan configurations]].
+    -   Update and publish changes to plan configurations.
     -   Create and change task templates for your audience.
     -   Add or update stages in a journey.
 -   **Journey approver**
@@ -47,7 +47,3 @@ Plan configuration approvers review and approve plan configurations.
 
 [Assign owners and approvers to a journey configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-assign-pconfig-owner-approver.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-dsgnr-update-and-publish-plncnfg|Update and publish changes to plan configurations]]

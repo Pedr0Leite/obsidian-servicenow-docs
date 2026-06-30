@@ -22,8 +22,8 @@ The Install Windows App activity installs an application from an MSI package on 
 
 |Variable|Description|
 |--------|-----------|
-|hostname|Hostname or [[ip-address|IP address]] of the target Windows machine on which the service is installed. Use the Resolve DNS [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown) to resolve hostnames into IP addresses.|
-|installerpath|Path to the installer. The installer can be on any machine that is visible to both the [[mid-server-landing|MID Server]] and the target machine \(local drive, UNC path, mapped drive, etc.\).|
+|hostname|Hostname or IP address of the target Windows machine on which the service is installed. Use the Resolve DNS [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown) to resolve hostnames into IP addresses.|
+|installerpath|Path to the installer. The installer can be on any machine that is visible to both the MID Server and the target machine \(local drive, UNC path, mapped drive, etc.\).|
 |installer|Name of the installer file, such as `winzip150.msi`. The installer must be an MSI package.|
 |arguments|The parameter that contains the command line arguments to the MSI package. These are name=value pairs, separated by a space. For example, the argument might appear as: `INSTALLDIR=c:\myinstallfolder ADDDESKTOPICON=0`. These arguments are dependent on the what the actual MSI being installed defines. If there are no arguments, leave the field empty.|
 
@@ -70,7 +70,7 @@ To install software on Windows machines using the Install Windows App activity, 
 
     This action opens a secondary window displaying additional selections.
 
-5.  Select **WMI Windows Installer Provider** [[check-box|check box]].
+5.  Select **WMI Windows Installer Provider** check box.
 
 6.  Click **OK** to return to the Windows Components Wizard window.
 
@@ -78,8 +78,4 @@ To install software on Windows machines using the Install Windows App activity, 
 
     You might be asked for the Windows installation CD to complete this process.
 
-## Related
 
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

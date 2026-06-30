@@ -12,7 +12,7 @@ breadcrumb: [JSON parameter in Configurable Portal Widgets, Configurable Portal 
 
 # Portal Banner widget JSON parameters
 
-JSON parameters define aspects of the [[portal-quick-links-widget|Portal Quick Links widget]] on the [[portal-banner-widget|Portal Banner widget]].
+JSON parameters define aspects of the Portal Quick Links widget on the Portal Banner widget.
 
 **Note:** This information assumes that you’re familiar with the JSON code format.
 
@@ -68,8 +68,3 @@ Name of the field in the presentation section. The default text is `Quick Links`
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[portal-quick-links-widget|Portal Quick Links widget]]
-- [[portal-banner-widget|Portal Banner widget]]

@@ -13,16 +13,10 @@ breadcrumb: [AI Enhanced Recommended Actions for OTSM, Operational Technology]
 
 # Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-After you [[configure-ai-enhanced-ra-otsm|configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]], you can use the feature to contextualize external sources related to an [[operational-technology-overview|Operational Technology]] \(OT\) incident.
+After you configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\), you can use the feature to contextualize external sources related to an Operational Technology \(OT\) incident.
 
--   **[[use-ai-enhanced-ra-otsm|Contextualize an external document]]**  
+-   **[Contextualize an external document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/use-ai-enhanced-ra-otsm.md)**  
 With the AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\), contextualize an external document to get an explanation of why the document is relevant to an Operational Technology \(OT\) incident.
 
-**Parent Topic:**[[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/ai-enhanced-ra-otsm-landing.md)
 
-## Related
-
-- [[use-ai-enhanced-ra-otsm|Contextualize an external document]]
-- [[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[configure-ai-enhanced-ra-otsm|Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]

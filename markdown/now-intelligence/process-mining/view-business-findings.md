@@ -14,7 +14,7 @@ breadcrumb: [Analyzing and getting process insights, Use, Process Mining, Platfo
 
 # Viewing business insights
 
-View key information about your business process from the [[summary-insights-dashboard|Summary and insights page]]. See goals and performance indicators, and get insights on the improvement opportunities.
+View key information about your business process from the Summary and insights page. See goals and performance indicators, and get insights on the improvement opportunities.
 
 The Summary and insights page shows opportunities for optimizing your process. You can see the following snapshots.
 
@@ -29,7 +29,7 @@ The Summary and insights page shows opportunities for optimizing your process. Y
 
 The Goals and KPIs section is configured from the UI Builder.
 
-From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [[kpi-details|KPI Details]] view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
+From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md) view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
 
 \[Omitted image "summary-insights-goals-kpis.png"\] Alt text: Summary and Insights - Goals and KPIs example
 
@@ -94,7 +94,3 @@ Select **View in Workbench** to view the project for an individual route.
 
 [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[summary-insights-dashboard|Summary and insights page]]

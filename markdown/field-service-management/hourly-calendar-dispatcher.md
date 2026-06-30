@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure an hourly calendar for Dispatcher Workspace
 
-Configure [[dispatcher-activities|Dispatcher Workspace]] to show a calendar with each column representing an hour. In this document were going to show a five-hour calendar, but you can change the number of hours to fit your needs.
+Configure Dispatcher Workspace to show a calendar with each column representing an hour. In this document were going to show a five-hour calendar, but you can change the number of hours to fit your needs.
 
 ## Before you begin
 
@@ -143,6 +143,4 @@ Benefits of configuring an hourly calendar include:
 
 9.  Search for and select the **5 days hourly** option in the view selector.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Action framework, Setup task management, Configuring Employee Cente
 
 # Configure actions
 
-Using the [[action-group-framework|action framework]], configure actions and associate a set of actions as action groups for use in the different contexts.
+Using the action framework, configure actions and associate a set of actions as action groups for use in the different contexts.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Action items provide quick access to actions that you perform in various context
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Action framework** &gt; **Actions**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action framework** &gt; **Actions**.
 
 2.  Click **New** or edit an existing record.
 
@@ -68,7 +68,7 @@ Parameter type
 
 </td><td>
 
-Select the parameter type from the available list such as JSON, string, or [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+Select the parameter type from the available list such as JSON, string, or reference.
 
 </td></tr><tr><td>
 
@@ -134,8 +134,3 @@ JSON string you want to specify. For example, **\{"param": "value"\}**. This opt
 
 Action is configured. You can combine a set of related action items as a group.
 
-## Related
-
-- [[action-group-framework|Action framework]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

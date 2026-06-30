@@ -36,7 +36,7 @@ Have a working template available if something goes wrong in one of the blocks o
 
 </td></tr><tr><td>
 
-Provide a functional [[onboarding-modals-reference|reference]] for editors on the site project
+Provide a functional reference for editors on the site project
 
 </td><td>
 
@@ -46,9 +46,9 @@ Having the template as a reference ensures that pages continue to conform to the
 </table>-   **[Page templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_PageTemplates.md)**  
 Every page that is part of the site needs a template.
 -   **[Configure a base template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_BuildAMasterTemplateStepByStep.md)**  
-An easy way to create a base template is to copy the existing ESS sample site and customize it to suit your own needs. You can also [[t_BuildAMasterTemplateStepByStep|configure a base template]] from scratch.
+An easy way to create a base template is to copy the existing ESS sample site and customize it to suit your own needs. You can also configure a base template from scratch.
 -   **[Customize a copy of a page template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CopyESS.md)**  
-One good source for templates is the base system sample site. It is easy to copy pages and restyle them into new [[r_PageTemplates|page templates]] to meet different business requirements.
+One good source for templates is the base system sample site. It is easy to copy pages and restyle them into new page templates to meet different business requirements.
 
 **Parent Topic:**[Configure Content Management sites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateASite.md)
 
@@ -67,8 +67,3 @@ One good source for templates is the base system sample site. It is easy to copy
 
 [Content Management meta tags]()
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[t_BuildAMasterTemplateStepByStep|Configure a base template]]
-- [[r_PageTemplates|Page templates]]

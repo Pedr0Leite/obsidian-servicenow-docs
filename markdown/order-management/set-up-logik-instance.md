@@ -45,8 +45,5 @@ Role required: admin
 
 ## What to do next
 
-To connect the Logik.io instance with a ServiceNow instance, follow the steps in [[connect-sn-instance-logik|Set up a ServiceNow instance connection with a Logik.ai instance]].
+To connect the Logik.io instance with a ServiceNow instance, follow the steps in [Set up a ServiceNow instance connection with a Logik.ai instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/connect-sn-instance-logik.md).
 
-## Related
-
-- [[connect-sn-instance-logik|Set up a ServiceNow instance connection with a Logik.ai instance]]

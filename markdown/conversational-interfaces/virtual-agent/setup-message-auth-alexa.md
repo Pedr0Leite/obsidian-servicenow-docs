@@ -28,7 +28,7 @@ Role required: admin
 
     Your ServiceNow instance provides you with the following authentication types by default.
 
-    -   **ServiceNow [[virtual-agent-landing-page|Virtual Agent]] Alexa App - Static**
+    -   **ServiceNow Virtual Agent Alexa App - Static**
     -   **ServiceNow Virtual Agent Alexa App - Hash**
 3.  On the form, fill in the fields.
 
@@ -98,6 +98,3 @@ Authorized outbound service token.Navigate to the Inbound message verification r
 
 **Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

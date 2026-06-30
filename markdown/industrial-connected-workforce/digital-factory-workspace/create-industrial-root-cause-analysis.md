@@ -14,7 +14,7 @@ breadcrumb: [Root Cause Analysis, Industrial Workflows, Use, Digital Factory Wor
 
 # Create a root cause analysis
 
-Create and perform a [[industrial-root-cause-analysis|root cause analysis]] \(RCA\) for an issue in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create and perform a root cause analysis \(RCA\) for an issue in the Digital Factory Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Add** &gt; **New Root Cause Analysis**.
 
-2.  On the [[root-cause-analysis-form|Root cause analysis form]], fill in the fields.
+2.  On the Root cause analysis form, fill in the fields.
 
     For a description of the field values, see [Root cause analysis form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/root-cause-analysis-form.md).
 
@@ -61,8 +61,3 @@ The new root cause analysis is displayed in the root cause analysis list and the
 
 **Parent Topic:**[Root Cause Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-root-cause-analysis.md)
 
-## Related
-
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[root-cause-analysis-form|Root cause analysis form]]

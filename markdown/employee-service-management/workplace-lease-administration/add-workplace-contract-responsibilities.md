@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-lease-admin-feat|Workplace Lease Administration]]** &gt; **Workplace Contracts**.
+1.  Navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 2.  Select a contract.
 
@@ -35,8 +35,8 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
     |Responsibility type|Describes the nature of work. For example, Repair.|
     |Financial responsibility|Describes which party has to pay for the work.|
     |Execution responsibility|Describes which party has to take up the work.|
-    |Granted in lease|Option to specify whether the [[activity-lxp|activity]] addressed in the lease contract.|
-    |Workplace contract|Workplace contract [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].|
+    |Granted in lease|Option to specify whether the activity addressed in the lease contract.|
+    |Workplace contract|Workplace contract reference.|
     |Service|Activity for which the responsibilities are being defined.|
     |Description|Description of the responsibility.|
     |Document section|Reference in the contract document where the responsibility is described.|
@@ -52,8 +52,3 @@ The contract responsibilities are added to the contract.
 
 **Parent Topic:**[Create workplace contracts in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/create-lease-contracts.md)
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

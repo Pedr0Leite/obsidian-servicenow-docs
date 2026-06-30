@@ -16,7 +16,7 @@ The SCCM plugins can be activated by an administrator and requires the Integrati
 
 ## Before you begin
 
-For a complete listing of the plugins that need to be activated, see [[activate-ai-scheduled-imports|Activate SCCM Asset Intelligence scheduled imports]].
+For a complete listing of the plugins that need to be activated, see [Activate SCCM Asset Intelligence scheduled imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-scheduled-imports.md).
 
 Role required: admin
 
@@ -32,13 +32,8 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md)
 
-## Related
-
-- [[activate-ai-scheduled-imports|Activate SCCM Asset Intelligence scheduled imports]]
-- [[find-components|Find components installed with an application]]
-- [[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]

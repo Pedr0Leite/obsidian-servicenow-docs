@@ -14,11 +14,11 @@ breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, 
 
 # Install AI Risk and Compliance content
 
-Install the [[unified-content-management-in-airc|AI Risk and Compliance content]] application \(sn\_grc\_ai\_gov\_cont\) to add predefined governance content such as frameworks, authority documents, control objectives, and risk statements.
+Install the AI Risk and Compliance content application \(sn\_grc\_ai\_gov\_cont\) to add predefined governance content such as frameworks, authority documents, control objectives, and risk statements.
 
 ## Before you begin
 
-Install the [[ai-risk-and-compliance|AI Risk and Compliance]] product before installing the AI Risk and Compliance content application.
+Install the AI Risk and Compliance product before installing the AI Risk and Compliance content application.
 
 **Important:** The pre-packaged content included with this product is provided for informational and guidance purposes only to support initial setup of AI Risk and Compliance. The content does not constitute legal advice or assurance of regulatory compliance. Customers are responsible for validating, customizing, and maintaining the content to help ensure alignment with applicable laws, regulations, and organizational requirements.
 
@@ -73,7 +73,3 @@ Verify that the content is available and ready to use:
 
 [AI Risk and Compliance Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-content-pack.md)
 
-## Related
-
-- [[unified-content-management-in-airc|AI Risk and Compliance Content]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

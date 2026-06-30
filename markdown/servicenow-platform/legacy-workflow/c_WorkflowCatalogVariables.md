@@ -20,7 +20,7 @@ The inputs into this workflow are essentially question:answer pairings that, whe
 
 ## Scope
 
-For the purposes of [[service-catalog|Service Catalog]] and workflow, a variable’s scope determines its availability to a catalog task activity within a workflow. You can define variables as global or catalog item-specific. When a variable is associated to a catalog item and the workflow generating the catalog task is associated to the catalog item, the variable scope determines which variables are available for mapping within the catalog task activity in a workflow. If a workflow is associated with Requested Item \[sc\_request\_item\], and is not specifically associated with a catalog item, any catalog variable with a blank Cat Item field value is available to all catalog task activities within the workflow.
+For the purposes of Service Catalog and workflow, a variable’s scope determines its availability to a catalog task activity within a workflow. You can define variables as global or catalog item-specific. When a variable is associated to a catalog item and the workflow generating the catalog task is associated to the catalog item, the variable scope determines which variables are available for mapping within the catalog task activity in a workflow. If a workflow is associated with Requested Item \[sc\_request\_item\], and is not specifically associated with a catalog item, any catalog variable with a blank Cat Item field value is available to all catalog task activities within the workflow.
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
@@ -30,7 +30,7 @@ You can declare requested item catalog variables at the catalog item level or at
 
 ### About this task
 
-You can declare global catalog variables using the [[workflow-editor|Workflow Editor]] context menu.
+You can declare global catalog variables using the Workflow Editor context menu.
 
 Also see, [Global variable declaration option 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowCatalogVariables.md).
 
@@ -44,7 +44,7 @@ Also see, [Global variable declaration option 2](https://raw.githubusercontent.c
 
 4.  Click **New** to create a new variable or select an existing variable.
 
-5.  Select the **Global** [[check-box|check box]].
+5.  Select the **Global** check box.
 
 6.  Click **Submit**.
 
@@ -86,7 +86,7 @@ These variables are only available to the catalog item referenced in the **Cat I
 
     Note the list of variables that appears in the workspace has a default filter of **Cat Item != &lt;blank&gt;**.
 
-2.  Enter or select a catalog item in the **Cat Item** [[reference|reference]] field.
+2.  Enter or select a catalog item in the **Cat Item** reference field.
 
     Selecting a **Cat Item** restricts the scope and availability of the catalog variable to that specific catalog item.
 
@@ -113,7 +113,7 @@ Creating a catalog variable in this way automatically sets the **Cat Item** refe
 
 3.  From the **Variables** related list, click **New**.
 
-4.  Ensure that the **Cat Item** field correctly [[reference-document-management|references]] the catalog item previously selected or created.
+4.  Ensure that the **Cat Item** field correctly references the catalog item previously selected or created.
 
 5.  Go to or open the **Question** section or tab.
 
@@ -156,10 +156,3 @@ var itemVariableName  = itemVariable. getName ( ) ;
 var itemQuestion  = itemVariable. getQuestion ( ); //All GlideappQuestion API are accessible on itemQuestion
 ```
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[workflow-editor|Workflow editor]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

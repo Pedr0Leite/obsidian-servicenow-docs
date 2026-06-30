@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Palo Alto Networks Next-Generation Firewall integration
 
-Once installed and configured, the security incident analyst uses this integration to block malicious IP addresses, URLs, and domains using External Dynamic List \(EDL\) capabilities with the ServiceNow [[sir-landing-page|Security Incident Response]] \(SIR\) products. The security incident analyst creates entries for an EDL from [[c_Observables|observables]] determined to be malicious on ServiceNow SIR security incidents.
+Once installed and configured, the security incident analyst uses this integration to block malicious IP addresses, URLs, and domains using External Dynamic List \(EDL\) capabilities with the ServiceNow Security Incident Response \(SIR\) products. The security incident analyst creates entries for an EDL from observables determined to be malicious on ServiceNow SIR security incidents.
 
 An EDL is a text file that is hosted on an external web server. For this integration, this web server is your ServiceNow AI Platform instance, which permits the Palo Alto Networks Next-Generation Firewall to import objects that are included in the list, IP addresses, URLs, and domains, and to enforce policy.
 
@@ -23,11 +23,11 @@ To enforce policy on the EDL entries, the list is referenced in a policy rule or
 The integration includes the following features:
 
 -   Flexibility to create multiple EDLs that apply to different firewall deny or allow policies.
--   Detailed reporting on the types of sites being blocked \(phishing, [[threat-intelligence-malware|malware]], and allow listed sites\).
+-   Detailed reporting on the types of sites being blocked \(phishing, malware, and allow listed sites\).
 -   Tagging of ServiceNow AI Platform security incidents with EDL entries by the observable type \(URL, domain, IP address\).
 -   Configuring EDL expiration periods to maintain EDL list size by automatically expiring or removing older entries.
 -   Searching, deleting, or migrating EDL entries between EDL lists.
--   Linking EDL entries to observable records and security incidents that include [[threat-intel-landing-page|threat intelligence]] results and details about why an entry is blocked.
+-   Linking EDL entries to observable records and security incidents that include threat intelligence results and details about why an entry is blocked.
 
 The integration requires that the \(com.snc.security\_incident\) and \(com.snc.secops.orchestration\) plugins from the Security Incident Response product are activated.
 
@@ -58,14 +58,7 @@ There are restrictions for adding External Dynamic List \(EDL\) entries to EDLs.
 11. [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md)  
 If the **Display tag** check box is selected when you create the External Dynamic List \(EDL\) record, you can edit the tag names and colors of the security tags. Security tags help you track observables that are already blocked.
 12. [Uninstall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-unistall.md)  
-If you want to [[paloalto-unistall|uninstall]] Palo Alto Networks Next-Generation Firewall from your ServiceNow AI Platform instance and remove all remnants from the integration, refer to the ServiceNow documentation site for instructions on uninstalling applications.
+If you want to uninstall Palo Alto Networks Next-Generation Firewall from your ServiceNow AI Platform instance and remove all remnants from the integration, refer to the ServiceNow documentation site for instructions on uninstalling applications.
 
 **Parent Topic:**[Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[paloalto-unistall|Uninstall]]

@@ -15,7 +15,7 @@ breadcrumb: [Use agentic AI in FSM, Now Assist for FSM]
 
 # Validate parts using the Parts Manager AI agent
 
-Use the Parts Manager AI agent to validate parts usage when closing work order tasks in [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]].
+Use the Parts Manager AI agent to validate parts usage when closing work order tasks in Now Assist for Field Service Management \(FSM\).
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ The Parts Manager AI agent analyzes your work notes to identify which parts were
 
     The parts statuses and inventory are updated based on the validated results.
 
-## Related
 
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]

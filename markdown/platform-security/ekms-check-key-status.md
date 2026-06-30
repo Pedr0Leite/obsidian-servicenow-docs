@@ -20,16 +20,16 @@ Roles required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
 Verify that you have:
 
--   [[ekms-configure-external-key-definition|Configured an External Key Management Service \(EKMS\) key definition.]]
+-   [Configured an External Key Management Service \(EKMS\) key definition.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configure-external-key-definition.md)
 -   Security Admin or Crypto Manager role.
 
 ## About this task
 
-You can check your AWS KMS key status at any time to verify its current state. Common scenarios for checking key status include resolving [[encryption-landing|encryption]] failures, security audits, verifying synchronization after changes in AWS, or confirming your [[sc-configuration|configuration]] before making updates.
+You can check your AWS KMS key status at any time to verify its current state. Common scenarios for checking key status include resolving encryption failures, security audits, verifying synchronization after changes in AWS, or confirming your configuration before making updates.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **EKMS Configuration**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **EKMS Configuration**.
 
 2.  Open your EKMS configuration record.
 
@@ -41,10 +41,10 @@ You can check your AWS KMS key status at any time to verify its current state. C
     -   **Disabled**- Key can't be used for encryption or decryption until re-enabled in AWS.
     -   **Pending deletion**- Key is scheduled for deletion and can't be used.
     -   **Deleted**- Key has been permanently deleted and can't be recovered.
-    -   **Unavailable** - Your instance can't connect to AWS. This can be due to [[c_Authentication|authentication]] issues with your EKMS configuration, network connectivity problems, or AWS service disruptions.
+    -   **Unavailable** - Your instance can't connect to AWS. This can be due to authentication issues with your EKMS configuration, network connectivity problems, or AWS service disruptions.
 4.  Note the status and the last synchronization time.
 
-    The automatic synchronization job runs every 30 minutes. The synchronization timestamp shows when the status was last updated from AWS. This default frequency is configurable if you need a different synchronization interval. See [[ekms-change-synchronization-frequency|Change synchronization frequency]].
+    The automatic synchronization job runs every 30 minutes. The synchronization timestamp shows when the status was last updated from AWS. This default frequency is configurable if you need a different synchronization interval. See [Change synchronization frequency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-synchronization-frequency.md).
 
 
 ## Result
@@ -63,20 +63,10 @@ Based on the key status you see:
 
 **Important:** If your key is disabled or pending deletion, you must re-enable the key to create or update records in tables with encrypted field configurations.
 
-**Parent Topic:**[[ekms-using-external-key-management|Using External Key Management Service]]
+**Parent Topic:**[Using External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
 **Related topics**  
 
 
-[[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]
+[Change the status of an AWS KMS Key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-status-aws-kms-key.md)
 
-## Related
-
-- [[ekms-configure-external-key-definition|Configure an external key definition]]
-- [[ekms-change-synchronization-frequency|Change synchronization frequency]]
-- [[ekms-using-external-key-management|Using External Key Management Service]]
-- [[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[field-encryption|Field Encryption]]
-- [[c_Authentication|Authentication]]

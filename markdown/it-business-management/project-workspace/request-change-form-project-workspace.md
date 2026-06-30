@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Request change form on Project Workspace
 
-Learn about the fields on the [[request-change-form|Request change form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to add a change request to your projects.
+Learn about the fields on the Request change form of the Project Workspace. Use this form to add a change request to your projects.
 
 <table id="table_igb_mx2_1vb"><thead><tr><th>
 
@@ -157,7 +157,3 @@ Additional information to indicate progress on the project request change.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[request-change-form|Request change form]]
-- [[project-workspace-landing-page|Project Workspace]]

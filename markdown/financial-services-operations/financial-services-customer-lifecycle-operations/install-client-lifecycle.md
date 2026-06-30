@@ -14,7 +14,7 @@ breadcrumb: [Install, Customer Lifecycle Operations, Common applications, Financ
 
 # Install Financial Services Client Lifecycle
 
-You can install the [[fso-overview|Financial Services]] Client Lifecycle application \(sn\_bom\_clo\_b2c\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Financial Services Client Lifecycle application \(sn\_bom\_clo\_b2c\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ For more information, see [Components installed with Financial Services Client L
 
 **Parent Topic:**[Install Financial Services Customer Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/set-up-customer-lifecycle-ops.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

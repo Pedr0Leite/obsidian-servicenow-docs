@@ -28,14 +28,14 @@ Live Feed content forms a searchable knowledge source for sharing information wi
 
 -   Users can post, reply to, and rate messages, including links and images.
 -   Administrators can set up automatic messages that are generated when specific records are updated throughout the system.
--   Users can subscribe to receive [[email|email]] notifications when new messages are posted.
+-   Users can subscribe to receive email notifications when new messages are posted.
 -   Users who take advantage of the accessibility options in the platform can tab through a Live Feed to navigate.
 
-Live Feed includes different types of feeds, including company feeds, group feeds, individual feeds, and [[c_RecordFeeds|record feeds]].
+Live Feed includes different types of feeds, including company feeds, group feeds, individual feeds, and record feeds.
 
 **Note:** Live Feed v2 is active for all new instances by default. If you are upgrading from an earlier version of ServiceNow®, you need to activate Live Feed v2 to use these features.
 
-Live feed can be domain separated at the data level only. For more information on Live Feed and [[domain-separation-relationship-formatter-editor|domain separation]], see [Domain separation in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_DomainSeparationInLiveFeed.md).
+Live feed can be domain separated at the data level only. For more information on Live Feed and domain separation, see [Domain separation in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_DomainSeparationInLiveFeed.md).
 
 ## Live Feed users
 
@@ -53,8 +53,8 @@ Admins
 
 </td><td>
 
-Admins activate and administer Live feed in the following ways:-   Add and [[t_ConfigureDocumentFeeds|configure document feeds]]
--   Activate and [[c_ConfigureRecordFeeds|configure record feeds]]
+Admins activate and administer Live feed in the following ways:-   Add and configure document feeds
+-   Activate and configure record feeds
 -   Set up notifications
 -   Manage Live Feed security
 
@@ -83,7 +83,7 @@ Users
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_DocumentFeeds|Document feeds]] allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or [[c_WorkNotes|work notes]] on the record, if the record has these journal fields.
+Document feeds allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or work notes on the record, if the record has these journal fields.
 
 </td><td>
 
@@ -144,20 +144,10 @@ Anyone
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[c_UseLiveFeed|using Live Feed]], see:
+To learn more about configuring and using Live Feed, see:
 
 -   [Activating Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ActivateLiveFeed.md)
 -   [Administering Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_AdministerLiveFeed.md)
 -   [Using Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseLiveFeed.md)
 -   [Live Feed reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/live-feed-reference.md)
 
-## Related
-
-- [[email|Email]]
-- [[c_RecordFeeds|Record feeds]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[t_ConfigureDocumentFeeds|Configure document feeds]]
-- [[c_ConfigureRecordFeeds|Configure record feeds]]
-- [[c_DocumentFeeds|Document feeds]]
-- [[c_WorkNotes|Work notes]]
-- [[c_UseLiveFeed|Using Live Feed]]

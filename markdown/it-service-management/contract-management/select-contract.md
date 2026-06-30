@@ -22,7 +22,7 @@ Role required: contract\_system\_admin, asset, or contract\_manager
 
 ## About this task
 
-This task is created only when the contract that you want to renew has valid child [[c_Contracts|contracts]] supported by the [[cont-renew-wf|contract renewal workflow]] that are not already renewed or in draft state.
+This task is created only when the contract that you want to renew has valid child contracts supported by the contract renewal workflow that are not already renewed or in draft state.
 
 ## Procedure
 
@@ -55,7 +55,3 @@ The contract renewal request lines for parent and child contracts are listed in 
 
 [Supply contract renewal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/fill-cont-renew-info.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[cont-renew-wf|Contract renewal workflow]]

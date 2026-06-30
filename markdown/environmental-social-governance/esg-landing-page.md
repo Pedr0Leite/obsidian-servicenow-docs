@@ -61,31 +61,22 @@ The following image shows how different departments collaborate for operational 
 </td></tr></tbody>
 </table>## Implement Operational Sustainability Management
 
-Use the [[setup-checklist-esg|Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application]] to quickly implement the Operational Sustainability Management application.
+Use the [Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/setup-checklist-esg.md) to quickly implement the Operational Sustainability Management application.
 
 ## Learn
 
 [What is Environmental, Social, and Governance \(ESG\)?](https://www.servicenow.com/products/risk-management/what-is-esg.html)
 
--   **[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]**  
+-   **[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)**  
 The ServiceNow® Operational Sustainability Management application helps you to manage your sustainability commitments.
--   **[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]**  
+-   **[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)**  
 As an administrator, use this section to set up the Operational Sustainability Management application. You must first create your material topics, your goals and targets, emission activities, and emission factors. You can then create entities and entity types for which you want to report the metrics and measure the sustainability performance of your organization.
--   **[[using-esg|Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]**  
+-   **[Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-esg.md)**  
 By using the Operational Sustainability Management application, you can import citations from various frameworks and create disclosures.
--   **[[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]**  
+-   **[Integrating Operational Sustainability Management \(formerly ESG\) with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg.md)**  
 You can integrate Operational Sustainability Management with Project Portfolio Management and Integrated Risk Management \(IRM\). These integrations provide you with more options to track your goals.
--   **[[esg-analytics-reporting|Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]**  
+-   **[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-analytics-reporting.md)**  
 In the Operational Sustainability Workspace, you can view various dashboards and relevant data based on the overview pages of records. The data displayed is based on the user role of the users.
--   **[[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]**  
+-   **[Operational Sustainability Management \(formerly ESG\) reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/reference-data-esg.md)**  
 The following sections show the roles, tables, and properties installed with the Operational Sustainability Management application.
 
-## Related
-
-- [[setup-checklist-esg|Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application]]
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
-- [[using-esg|Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
-- [[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]
-- [[esg-analytics-reporting|Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]
-- [[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]

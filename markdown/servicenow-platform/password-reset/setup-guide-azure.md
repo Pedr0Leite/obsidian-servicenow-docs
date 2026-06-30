@@ -14,7 +14,7 @@ breadcrumb: [Setting up Password Reset, Password Reset, Manage service capabilit
 
 # Set up Microsoft Entra ID for Password Reset
 
-Set up Microsoft Entra ID for Password Reset by activating the plugin and configuring the Microsoft Entra ID instance. The Microsoft Entra ID plugin is activated with the help of this plugin. Microsoft Entra ID for [[password-reset-landing-page|Password Reset]] is also available in the ServiceNow store.
+Set up Microsoft Entra ID for Password Reset by activating the plugin and configuring the Microsoft Entra ID instance. The Microsoft Entra ID plugin is activated with the help of this plugin. Microsoft Entra ID for Password Reset is also available in the ServiceNow store.
 
 **Related topics**  
 
@@ -33,7 +33,7 @@ Role required: password\_reset\_admin
 
 You can request the plugin from Now Support \(HI\) or from your instance.
 
-In Now Support, navigate to **[[service-catalog|Service Catalog]]** **Activate Plugin**.
+In Now Support, navigate to **Service Catalog** **Activate Plugin**.
 
 Or you can complete the following procedure.
 
@@ -99,7 +99,3 @@ Information that would be helpful for ServiceNow personnel who will activate the
 
 [Plan, create, and customize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md) the Password Reset process for your organization.
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[service-catalog|Service Catalog]]

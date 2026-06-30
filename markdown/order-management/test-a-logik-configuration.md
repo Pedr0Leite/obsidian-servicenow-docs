@@ -18,11 +18,7 @@ Assuming that you have a layout for your blueprint, there are two ways to test y
 
 For more information, see the following topics:
 
-[[cpq-test-frame|The test frame]]
+[The test frame](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-test-frame.md)
 
-[[use_case_display_logik_io_native_ui_via_direct_url|Use case: Displaying the CPQ native UI via direct URL]]
+[Use case: Displaying the CPQ native UI via direct URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use_case_display_logik_io_native_ui_via_direct_url.md)
 
-## Related
-
-- [[cpq-test-frame|The test frame]]
-- [[use_case_display_logik_io_native_ui_via_direct_url|use_case_display_logik_io_native_ui_via_direct_url]]

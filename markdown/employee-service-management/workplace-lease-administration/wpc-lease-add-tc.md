@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select **Lease Administration**.
 
@@ -30,7 +30,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 4.  In the **Terms and Conditions** section, double-click **Insert a new row**.
 
-5.  Click the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] lookup using list icon \[Omitted image "look-up-icon.png"\] Alt text: Lookup using list icon.
+5.  Click the reference lookup using list icon \[Omitted image "look-up-icon.png"\] Alt text: Lookup using list icon.
 
 6.  Select the Lookup using list icon \[Omitted image "look-up-icon.png"\] Alt text: Lookup using list icon and see whether the terms and conditions record you want to add to the record exists.
 
@@ -55,7 +55,3 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 **Parent Topic:**[Create workplace contracts in Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-create-lease-contracts.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Get started, Digital Portfolio Management, IT Service Management]
 
 # Navigate enterprise portfolios in Digital Portfolio Management
 
-You can work with three types of [[dpm-enterprise-portfolios|enterprise portfolios]] in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace — service, business application, and service instance. Even though you can view service enterprise portfolios in DPM, they're created with [[SPM2-landing-page|Service Portfolio Management]] tables. Enterprise portfolios for business [[dex-workspace-application-tab|applications]] and service instances are created with the enterprise portfolio tables.
+You can work with three types of enterprise portfolios in the Digital Portfolio Management \(DPM\) Workspace — service, business application, and service instance. Even though you can view service enterprise portfolios in DPM, they're created with Service Portfolio Management tables. Enterprise portfolios for business applications and service instances are created with the enterprise portfolio tables.
 
 ## Before you begin
 
@@ -66,9 +66,3 @@ You can also see items that need attention and select parts of the portfolio to 
 
 [Create enterprise portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-enterprise-portfolios.md)
 
-## Related
-
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

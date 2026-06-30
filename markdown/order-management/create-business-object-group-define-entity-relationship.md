@@ -30,7 +30,7 @@ Role required: Business object writer \[sn\_bo\_core.business\_object\_writer\]
 
     2.  Select **New**.
 
-    3.  On the form, fill in the [[fields|fields]].
+    3.  On the form, fill in the fields.
 
         |Field|Description|
         |-----|-----------|
@@ -94,12 +94,7 @@ Business object group and business object types are available in Business proces
 **Related topics**  
 
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
-## Related
-
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[fields|Fields]]

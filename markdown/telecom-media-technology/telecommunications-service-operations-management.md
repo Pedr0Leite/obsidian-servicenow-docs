@@ -59,12 +59,10 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **TMF APIs for TMT**
 
-    Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [[tmt-api-reference|TMF APIs for TMT]]
+    Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [TMF APIs for TMT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-api-reference.md)
 
 -   **Telecom data model**
 
     Explore the CI classes and relationships that represent telecom network elements in the CMDB at [Telecom data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecom-data-model.md)
 
-## Related
 
-- [[tmt-api-reference|TMF APIs for TMT]]

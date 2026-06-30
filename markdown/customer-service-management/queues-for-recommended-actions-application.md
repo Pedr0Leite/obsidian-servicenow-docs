@@ -12,7 +12,7 @@ breadcrumb: [Recommended Actions, Recommended Actions configuration, Implement I
 
 # Queues for Recommended Actions application
 
-Admins and [[configure-nba|Recommended Actions]] administrators can configure queues to manage the asynchronous evaluation of recommendations.
+Admins and Recommended Actions administrators can configure queues to manage the asynchronous evaluation of recommendations.
 
 ## Access path and role requirements
 
@@ -42,6 +42,3 @@ To enhance responsiveness and reduce latency in action processing, consider incr
 
 Increasing the Scale Factor enables the queue to process more items concurrently and reducing latency. However, it also increases demand on system resources such as CPU and memory.
 
-## Related
-
-- [[configure-nba|Recommended Actions]]

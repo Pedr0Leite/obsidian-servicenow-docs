@@ -20,11 +20,8 @@ You can use these events to monitor for login failures and determine if there ar
 
 |Event Name|Description|Record|Parameter 1|Parameter 2|
 |----------|-----------|------|-----------|-----------|
-|**external.[[c_Authentication|authentication]].succeeded**|External authentication succeeded and the user accessed the instance URL.|Session ID|User ID of user who successfully logged in|The URL the user accessed \(which may be a deep link\)|
+|**external.authentication.succeeded**|External authentication succeeded and the user accessed the instance URL.|Session ID|User ID of user who successfully logged in|The URL the user accessed \(which may be a deep link\)|
 |**external.authentication.failed**|The single sign-on requirements are not present or are missing.| |Session ID|The missing authentication requirements|
 |**external.authentication.failed**|The user does not exist in the User `[sys_user]` table| |User ID|The string, "User does not exist"|
 |**external.authentication.failed**|The user is locked out.| |User ID|The string, "User locked out."|
 
-## Related
-
-- [[c_Authentication|Authentication]]

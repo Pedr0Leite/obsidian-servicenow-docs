@@ -14,7 +14,7 @@ breadcrumb: [Using breakdowns on dashboards, Indicator breakdowns, Configure fun
 
 # Showing multiple elements separately or aggregated
 
-When you select multiple elements on a dashboard, [[widgets|widgets]] that follow these elements can show their values either separately or as an aggregate.
+When you select multiple elements on a dashboard, widgets that follow these elements can show their values either separately or as an aggregate.
 
 On a widget form, use the **Show multiple elements as** field to set whether multiple elements are shown separately or as an aggregate. Widgets with the view type **Separate** show a different value for each [breakdown element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) selected. Widgets with the view type **Aggregate** show a single value that represents the aggregated value of all selected breakdown elements.
 
@@ -22,24 +22,24 @@ The widget type logically determines whether an aggregated view, a separate view
 
 ## Widget support of aggregate and separate views
 
--   [[time-series-widgets|Time series widgets]] support aggregate and separate views.
--   [[list-widgets|List widgets]] support aggregate and separate views.
--   [[score-widgets|Score widgets]] only support the aggregate view.
--   [[breakdown-widgets|Breakdown widgets]] only support the aggregate view.
+-   Time series widgets support aggregate and separate views.
+-   List widgets support aggregate and separate views.
+-   Score widgets only support the aggregate view.
+-   Breakdown widgets only support the aggregate view.
 
-**Note:** You cannot select multiple elements on workbench or text [[c_Widgets|Performance Analytics widgets]]. If you try, all selected elements are ignored. This limitation does not apply to [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations.
+**Note:** You cannot select multiple elements on workbench or text Performance Analytics widgets. If you try, all selected elements are ignored. This limitation does not apply to Platform Analytics data visualizations.
 
 ## Indicators that support an aggregate of multiple elements
 
 The following indicators support the aggregated view:
 
--   [[automated-indicators|Automated indicators]] that aggregate data as a Count, Sum, Minimum, or Maximum value
+-   Automated indicators that aggregate data as a Count, Sum, Minimum, or Maximum value
 
     **Note:** The word "aggregate" is used for two different things here: the aggregate view of multiple indicator scores, and the data aggregation that is set on an indicator.
 
--   [[t_CreateAManualIndicator|Manual indicators]]
+-   Manual indicators
 -   External indicators that do not use `SQL AVG()` or `SQL COUNT(DISTINCT...)` in their SQL statement
--   [[formula-indicators|Formula indicators]] that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAFormulaIndicator.md).
+-   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAFormulaIndicator.md).
 
 **Important:**
 
@@ -57,7 +57,7 @@ The aggregate view of multiple elements shows a different result depending on th
 |MAX|`SQL MAX()`|Whichever element had the highest value at each time point|
 |MIN|`SQL MIN()`|Whichever element had the lowest value at each time point|
 
-With the aggregate view selected, not all features are available on all widgets or when the user navigates from the widget to the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]:
+With the aggregate view selected, not all features are available on all widgets or when the user navigates from the widget to the Analytics Hub:
 
 -   Targets, thresholds, and comments are not available when you navigate to the Analytics Hub from a widget with multiple breakdown elements selected in an aggregate view. The breakdown selector and search functionality are also unavailable.
 -   Targets and thresholds are not available in time series widgets.
@@ -90,7 +90,7 @@ With the **Show multiple elements as** field set to **Aggregate,** a single, agg
 **Related topics**  
 
 
-[Add [[breakdown-sources|breakdown sources]] to a dashboard]()
+[Add breakdown sources to a dashboard]()
 
 [Configure widgets for breakdown dashboards]()
 
@@ -98,17 +98,3 @@ With the **Show multiple elements as** field set to **Aggregate,** a single, agg
 
 [Showing breakdown relations on dashboards]()
 
-## Related
-
-- [[widgets|Widgets]]
-- [[time-series-widgets|Time series widgets]]
-- [[list-widgets|List widgets]]
-- [[score-widgets|Score widgets]]
-- [[breakdown-widgets|Breakdown widgets]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-indicators|Automated indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[breakdown-sources|Breakdown sources]]

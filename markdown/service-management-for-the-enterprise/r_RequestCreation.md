@@ -14,15 +14,10 @@ breadcrumb: [Request Management in a Service Management application, Service Man
 
 Requests are created differently based on the role that has been granted to the user. Department administrators can create requests differently than an employee can.
 
--   **[[t_CreateARequestThroughTheCatalog|Create a request through a catalog]]**  
+-   **[Create a request through a catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateARequestThroughTheCatalog.md)**  
 The catalog provides several different categories so users can choose the one that closely relates to their request.
--   **[[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]**  
+-   **[Request creation using inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ReqCreateUseInboundEmailAct.md)**  
 Requests can be automatically created or updated from the information in inbound emails as long as the functionality has been enabled on the configuration screen of SM application. The emails are also to be sent to a mailbox defined by criteria in the appropriate inbound email action.
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[t_CreateARequestThroughTheCatalog|Create a request through a catalog]]
-- [[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]
-- [[rm-sm-application|Request Management in a Service Management application]]

@@ -22,7 +22,7 @@ Select a tile to get started.
 
 <table id="table_sxm_bbz_xtb" class="nav-card"><tbody><tr><td>
 
-[Explore Workspace \[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about SIR Workspace concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-security-incident-response-workspace.md)
+[Explore Workspace \[Omitted image "bus-explore.svg"\] Alt text:Learn about SIR Workspace concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-security-incident-response-workspace.md)
 
 </td><td>
 
@@ -43,14 +43,10 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 **Important:**
 
--   Installing the [[sir-landing-page|Security Incident Response]] 13.4.5 version or later from the ServiceNow Store will automatically install the Security Incident Response Workspace \(sn\_si\_aw\) 1.5.1 version or later by default. For more information on the dependent applications, refer to the [SIR Workspace plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/components-installed-with-analyst-workspace.md) section.
+-   Installing the Security Incident Response 13.4.5 version or later from the ServiceNow Store will automatically install the Security Incident Response Workspace \(sn\_si\_aw\) 1.5.1 version or later by default. For more information on the dependent applications, refer to the [SIR Workspace plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/components-installed-with-analyst-workspace.md) section.
 -   Please note that the Security Incident Response Workspace versions 1.5.1 and above can only be installed/upgraded through an installation/upgradation of Security Incident Response and can’t be installed independently.
 
 ## More resources
 
 Visit the [Security Incident Response forum on the ServiceNow Community.](https://www.servicenow.com/community/secops-articles/tkb-p/security-operations-kb/label-name/security%20incident%20response?labels=security%20incident%20response)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[sir-landing-page|Security Incident Response]]

@@ -28,7 +28,7 @@ For using the Authentication methods not supported in MCP Server, you can use th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Settings**.
 
 2.  Navigate to **Manage MCP Servers** and select **New**.
 
@@ -67,7 +67,7 @@ Connection and credential alias
 Select a Connection and credential alias record to map with your MCP Server.
 
 </td></tr></tbody>
-</table>    \[Omitted image "others-mcp-server.png"\] Alt text: [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]] with a Connection and credential alias record.
+</table>    \[Omitted image "others-mcp-server.png"\] Alt text: Adding an MCP Server in AI Agent Studio with a Connection and credential alias record.
 
 4.  Select **Add**.
 
@@ -78,7 +78,3 @@ Select a Connection and credential alias record to map with your MCP Server.
 
 An MCP Server with the name you provided appears in the list of MCP Servers.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]]

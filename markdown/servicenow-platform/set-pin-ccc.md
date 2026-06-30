@@ -16,9 +16,9 @@ You can set up or reset a phone PIN that can be used for caller authentication d
 
 If the **Require authentication** field is set to **true** for an operation handler, the corresponding operation is invoked only after the caller enters the PIN.
 
-**Important:** It is applicable for both [[cloud-call-center-overview|ServiceNow Voice]] for ITSM and ServiceNow Voice for CSM applications.
+**Important:** It is applicable for both ServiceNow Voice for ITSM and ServiceNow Voice for CSM applications.
 
-**Parent Topic:**[[ccc-setup|Setting up ServiceNow Voice]]
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
 ## Reset the phone PIN for a caller
 
@@ -38,7 +38,7 @@ Role required: sn\_cti\_core.user\_manager
 
     1.  In the **PIN** field, enter the new PIN.
 
-    2.  Clear the **Disabled** [[check-box|check box]].
+    2.  Clear the **Disabled** check box.
 
     3.  Click **Update**.
 
@@ -59,8 +59,4 @@ Role required: none
 
 3.  Click **Submit**.
 
-## Related
 
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[check-box|Check box]]

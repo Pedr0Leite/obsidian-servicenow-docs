@@ -15,9 +15,9 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 # SPO SR state mappings to ITAM PO
 
-Lists the state mappings between SPO [[sourcing-request|sourcing request]] \(SR\) records and ITAM [[purchase-order-table|purchase order]] \(PO\) records.
+Lists the state mappings between SPO sourcing request \(SR\) records and ITAM purchase order \(PO\) records.
 
-State alignment between SPO SR records and ITAM PO follows the mappings in this table. SPO PO states take precedent over PR states. SPO PR states take precedent over SR states. If any SPO [[purchase-requisition|purchase requisition]] lines \(PRLs\) are rejected, the ITAM [[purchase-order-lines|purchase order lines]] \(POLs\) in sourcing flow \(suppliers that are not awarded\) are updated to Closed Cancel state.
+State alignment between SPO SR records and ITAM PO follows the mappings in this table. SPO PO states take precedent over PR states. SPO PR states take precedent over SR states. If any SPO purchase requisition lines \(PRLs\) are rejected, the ITAM purchase order lines \(POLs\) in sourcing flow \(suppliers that are not awarded\) are updated to Closed Cancel state.
 
 |SPO Record|State|State on ITAM PO|
 |----------|-----|----------------|
@@ -45,9 +45,3 @@ State alignment between SPO SR records and ITAM PO follows the mappings in this 
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-lines|Purchase order lines]]

@@ -198,7 +198,7 @@ Refresh after being away for X min
 
 </td><td>
 
-Trigger based on time spent away from the dashboard within the same workspace, including the Platform Analytics experience. Defines the number of minutes after which the visualization automatically refreshes when you return.Do not confuse this setting with **Scheduled repetition** on inline [[otto-aiops-dashboards|dashboards]], which refreshes the entire dashboard only while it remains open.
+Trigger based on time spent away from the dashboard within the same workspace, including the Platform Analytics experience. Defines the number of minutes after which the visualization automatically refreshes when you return.Do not confuse this setting with **Scheduled repetition** on inline dashboards, which refreshes the entire dashboard only while it remains open.
 
 </td></tr><tr><td colspan="2">
 
@@ -235,6 +235,3 @@ User actions supported within the chart, such as hover or select.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a funnel visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-funnel-visualization.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

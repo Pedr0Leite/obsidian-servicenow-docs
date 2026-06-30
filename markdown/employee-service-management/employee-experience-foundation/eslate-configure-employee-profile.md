@@ -15,11 +15,11 @@ breadcrumb: [Employee profile, Working with Employee Slate capabilities, Employe
 
 # Configure the employee profile for Employee Slate
 
-Configure the [[emp-slate-employee-profile|employee profile]] page in [[employee-slate-landing-page|Employee Slate]]. Set the fields that appear and the fields that an employee can edit.
+Configure the employee profile page in Employee Slate. Set the fields that appear and the fields that an employee can edit.
 
 ## Before you begin
 
-Activate [[employee-slate-nowassist|Employee Slate for Now Assist]] in the instance.
+Activate Employee Slate for Now Assist in the instance.
 
 Configure the organization chart. For details, see the related task.
 
@@ -60,16 +60,10 @@ The page presents the About and Team sections. Field groups include work details
 
 ## Result
 
-Employees view the configured About and Team sections, the selected field groups, and the editable fields on the profile page. The profile experience aligns with the organization chart and with the AI conversational use cases that [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] user details.
+Employees view the configured About and Team sections, the selected field groups, and the editable fields on the profile page. The profile experience aligns with the organization chart and with the AI conversational use cases that reference user details.
 
 **Related topics**  
 
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

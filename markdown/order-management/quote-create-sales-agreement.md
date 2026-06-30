@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Enable a sales agreement in a quote
 
-Agents can enable a sales agreement for a quote. Once enabled in [[quote-management|Quote Management]], sales agreements are generated that show the product and service lines and other relevant details for the quote.
+Agents can enable a sales agreement for a quote. Once enabled in Quote Management, sales agreements are generated that show the product and service lines and other relevant details for the quote.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Sales agreements filter the product catalog according to the agreement.
 
 3.  Add quote details to the quote and select **Enable sales agreement quote**.
 
-    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [[sales-agreement-mgmt-using|Using Sales Agreement Management]] for more information.
+    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [Using Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-agreement-mgmt-using.md) for more information.
 
 4.  Fill in the **Sales agreement start date** and **Sales agreement end date**.
 
@@ -42,7 +42,7 @@ Sales agreements filter the product catalog according to the agreement.
 
 6.  Use the **Catalog** tab to add quote line items to the quote.
 
-    See [[quote-management-catalog-tab|Add products to a quote]] for more information.
+    See [Add products to a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-catalog-tab.md) for more information.
 
 7.  Make other updates to the quote.
 
@@ -59,11 +59,5 @@ Sales agreements filter the product catalog according to the agreement.
 11. Select the sales agreement message to open the sales agreement.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[sales-agreement-mgmt-using|Using Sales Agreement Management]]
-- [[quote-management-catalog-tab|Add products to a quote]]
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

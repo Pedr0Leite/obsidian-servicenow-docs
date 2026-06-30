@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(powered by Tw
 
 # Set up Conversational Integration with WhatsApp \(powered by Twilio\)
 
-Set up the [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] application so that you can engage requesters in bot conversations. Integrating with ServiceNow [[virtual-agent-landing-page|Virtual Agent]] enables you to interact on WhatsApp chat with a Virtual Agent or Live Agent.
+Set up the Conversational Integration with WhatsApp \(powered by Twilio\) application so that you can engage requesters in bot conversations. Integrating with ServiceNow Virtual Agent enables you to interact on WhatsApp chat with a Virtual Agent or Live Agent.
 
 ## Before you begin
 
@@ -221,7 +221,4 @@ Message auth that you created in [step 3](https://raw.githubusercontent.com/Serv
 </td></tr></tbody>
 </table>    5.  Click **Submit**.
 
-## Related
 
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]
-- [[virtual-agent-landing-page|Virtual Agent]]

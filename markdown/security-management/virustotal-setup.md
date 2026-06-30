@@ -12,21 +12,14 @@ breadcrumb: [VirusTotal integration, Threat Intelligence integrations, Threat In
 
 # VirusTotal integration setup
 
-VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of [[threat-intelligence-malware|malware]]. It integrates easily with [[security-operations-landing-page|Security Operations]].
+VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware. It integrates easily with Security Operations.
 
-Before you can use the [[virustotal-landing-page|VirusTotal integration]], you must activate the plugin and add the appropriate API key. If necessary, you can also update your X509 SSL certification.
+Before you can use the VirusTotal integration, you must activate the plugin and add the appropriate API key. If necessary, you can also update your X509 SSL certification.
 
-If the VirusTotal lookup source is used and malware is encountered, an observable is created. For IP lookups, an additional list of URLs that share the IP address is created, and [[c_Observables|observables]] are created for each of the URLs.
+If the VirusTotal lookup source is used and malware is encountered, an observable is created. For IP lookups, an additional list of URLs that share the IP address is created, and observables are created for each of the URLs.
 
 **Note:**
 
--   The [[threat-intel-landing-page|Threat Intelligence]] plugin is required in order to implement VirusTotal integration.
+-   The Threat Intelligence plugin is required in order to implement VirusTotal integration.
 -   The VirusTotal integration has been upgraded to Version 3 APIs.
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]
-- [[virustotal-landing-page|VirusTotal integration]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -22,11 +22,11 @@ Role required: admin
 
 Multiple assignment groups can be associated with a single healthcare organization.
 
-In [[hcls-cto-it-app|Care Team Operations for Healthcare IT]], assignment groups must be configured so that incidents created from Healthcare IT cases can be fulfilled.
+In Care Team Operations for Healthcare IT, assignment groups must be configured so that incidents created from Healthcare IT cases can be fulfilled.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations**.
 
 2.  Select the healthcare organization that you want to associate an assignment group with.
 
@@ -63,7 +63,4 @@ Name of the assignment group that is to be added.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[healthcare-operations-overview|Healthcare Operations]]

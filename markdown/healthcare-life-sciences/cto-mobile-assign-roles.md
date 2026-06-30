@@ -12,13 +12,9 @@ breadcrumb: [Configure Care Team Mobile, Care Team Mobile, Healthcare Operations
 
 # Assign roles for Care Team Mobile users
 
-User access for [[care-team-mobile-landing|Care Team Mobile]] is granted when you have been assigned the **sn\_hco.care\_team\_member** role.
+User access for Care Team Mobile is granted when you have been assigned the **sn\_hco.care\_team\_member** role.
 
-Roles for Care Team Mobile are assigned just as they are for the [[hcls-cto-app|Healthcare Operations Core]] application.
+Roles for Care Team Mobile are assigned just as they are for the Healthcare Operations Core application.
 
 For instructions on assigning these roles, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[hcls-cto-app|Healthcare Operations Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Audit Supervisor Workspace, Audit Workspace Overview, Audit Managem
 
 # Create a test template in Audit Workspace
 
-[[t_CreateATestTemplate|Create a test template]] and use it to create test plans applying much of the same testing criteria.
+Create a test template and use it to create test plans applying much of the same testing criteria.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit.user, sn\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click **Create** and select **Test template** from the **Home** page.
 
@@ -54,7 +54,4 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit.user, sn\_
 
 7.  To create test plans for all controls related to the control objective, as in the test template, if the test plan does not exist already, then click **Create test plans for all controls** button.
 
-## Related
 
-- [[t_CreateATestTemplate|Create a test template]]
-- [[audit-management-overview-ws|Audit Workspace]]

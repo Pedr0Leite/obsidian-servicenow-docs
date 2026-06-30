@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # IP address discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about IP addresses.
+Discovery identifies and classifies information about IP addresses.
 
 |Label|Table Name|Field Name|Source|
 |-----|----------|----------|------|
@@ -30,6 +30,3 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 [Discovery IP address configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ip-address-configuration.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

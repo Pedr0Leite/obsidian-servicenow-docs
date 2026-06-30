@@ -14,7 +14,7 @@ breadcrumb: [Set up a table configuration, Create a project using Classic view, 
 
 # Configure advanced conditions: crop process
 
-Configure custom start and end conditions for your table configuration to define which part of the process should be included in the [[process-mining|Process Mining]] project and made available for analysis.
+Configure custom start and end conditions for your table configuration to define which part of the process should be included in the Process Mining project and made available for analysis.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ In this example, a process end condition is configured when an incident record e
 
 **Parent Topic:**[Set up a table configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/po-table-configuration.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Roles installed with AI Risk and Compliance
 
-The [[ai-risk-and-compliance|AI Risk and Compliance]] installs the essential roles to perform respective day-to-day operational tasks for managing [[ai-assets-airc|AI assets]] across the enterprise.
+The AI Risk and Compliance installs the essential roles to perform respective day-to-day operational tasks for managing AI assets across the enterprise.
 
 <table id="table_m2t_czq_mqb"><thead><tr><th>
 
@@ -36,13 +36,13 @@ AI Risk and Compliance Admin
 
 </td><td>
 
-​The AI Risk and Compliance Admin can perform the following tasks:-   Set up risk and impact assessment frameworks. Configure [[airc-rams|risk assessment methodologies]], risk contribution [[factors|factors]], and impact [[airc-assessment-templates|assessment templates]].
+​The AI Risk and Compliance Admin can perform the following tasks:-   Set up risk and impact assessment frameworks. Configure risk assessment methodologies, risk contribution factors, and impact assessment templates.
 -   Define automation rules for impact assessments to determine applicable risks and controls based on the assessment responses.
 -   Set up and profile AI case types.
--   Delete [[ai-system-airc|AI systems]].
+-   Delete AI systems.
 -   Enable or disable Entity-Based Access for record types associated with entity properties, and configure the Entity-Based Access settings as needed.
 
-**Note:** GRC: [[entity-based-access|Entity Based Access]] application must be installed to use this feature.
+**Note:** GRC: Entity Based Access application must be installed to use this feature.
 
 
 </td><td>
@@ -71,7 +71,7 @@ AI Risk and Compliance Manager
 
 ​The AI Risk and Compliance Manager can access all AI systems on the system and perform the following tasks:​-   Initiate impact assessments.
 -   Manage the life cycle of an AI system.
--   Initiate [[risk-assessments|risk assessments]].
+-   Initiate risk assessments.
 -   Initiate control attestations.
 -   Write and update access to the bulk access update configuration.
 
@@ -127,7 +127,7 @@ AI Risk and Compliance Business User
 
 </td><td>
 
-The ​AI Risk and Compliance User can perform the following tasks:-   Create AI case on the [[employee-center|Employee Center]].
+The ​AI Risk and Compliance User can perform the following tasks:-   Create AI case on the Employee Center.
 -   Work on the assigned tasks.
 -   Perform control attestations.
 
@@ -164,7 +164,7 @@ AI System Reader
 
 </td><td>
 
-​The AI System Reader can have read access to the AI systems on AI Control Tower workspace and [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]].​
+​The AI System Reader can have read access to the AI systems on AI Control Tower workspace and AI Risk and Compliance workspace.​
 
 </td><td>
 
@@ -193,7 +193,7 @@ AI Case Analyst
 </td><td>
 
 The AI Case Analyst can review the AI cases and AI inquiries assigned to them in the system and perform the following tasks only on the assigned records:-   Identify and manage impacted and related areas such as policies, regulations, and enterprise-wide compliance risks.
--   Identify and [[manage-issues-common-core|manage issues]] related to impacted areas to eliminate the root causes.
+-   Identify and manage issues related to impacted areas to eliminate the root causes.
 
 </td><td>
 
@@ -233,16 +233,3 @@ The AI Case Admin can manage type profiles to segregate AI cases. They can set u
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Risk and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-reference.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[factors|factors]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[ai-system-airc|AI systems]]
-- [[entity-based-access|Entity Based Access]]
-- [[risk-assessments|risk assessments]]
-- [[employee-center|employee center]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[manage-issues-common-core|Manage issues]]

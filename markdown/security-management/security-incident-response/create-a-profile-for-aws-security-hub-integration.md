@@ -14,7 +14,7 @@ breadcrumb: [Amazon Web Services \(AWS\) Security Hub integration, Security Inci
 
 # Create a profile for AWS Security Hub finding integration
 
-Create an AWS Security Hub profile in your ServiceNow AI Platform instance which you are going to use to ingest data from AWS Security Hub and create a corresponding security incident in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Create an AWS Security Hub profile in your ServiceNow AI Platform instance which you are going to use to ingest data from AWS Security Hub and create a corresponding security incident in Security Incident Response Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The integration enables you to create security incidents for different types of findings on the AWS Security Hub platform, such as unauthorized access attempts and [[threat-intelligence-malware|malware]]. These incidents are created based on the profiles that you configure in the ServiceNow AI Platform instance. All incidents are initially created for a configured finding type in a profile. You can further filter the findings you have created to specify which findings create security incidents.
+The integration enables you to create security incidents for different types of findings on the AWS Security Hub platform, such as unauthorized access attempts and malware. These incidents are created based on the profiles that you configure in the ServiceNow AI Platform instance. All incidents are initially created for a configured finding type in a profile. You can further filter the findings you have created to specify which findings create security incidents.
 
 All findings that meet the selection criteria in your AWS Security Hub tenant, and are available over the AWS Security Hub API, are initially ingested into your ServiceNow AI Platform instance.
 
@@ -92,8 +92,3 @@ Extra text to help you distinguish this profile from other profiles.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[threat-intelligence-malware|Malware]]

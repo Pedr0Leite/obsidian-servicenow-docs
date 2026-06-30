@@ -14,15 +14,15 @@ breadcrumb: [Integration with Universal Request, Workplace Case Management, Work
 
 # Create a workplace case from Universal Request
 
-As a routing agent, create a workplace case from a [[ur-landing-limitedaccess|universal request]] and then assign it to the [[workplace-services|Workplace services]] assignment group. The workplace manager handles the workplace case and takes further actions to fulfill the request.
+As a routing agent, create a workplace case from a universal request and then assign it to the Workplace services assignment group. The workplace manager handles the workplace case and takes further actions to fulfill the request.
 
 ## Before you begin
 
 Ensure that you have the following plugins installed:
 
 -   Universal Request \(com.snc.universal\_request\)
--   [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] - Core \(sn\_wsd\_core\)
--   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
+-   Workplace Service Delivery - Core \(sn\_wsd\_core\)
+-   Workplace Case Management \(sn\_wsd\_case\)
 
 Role required: routing\_agent and sn\_wsd\_case.case\_writer
 
@@ -39,7 +39,7 @@ Role required: routing\_agent and sn\_wsd\_case.case\_writer
 
 A workplace case is created and is automatically assigned to the Workplace services assignment group. If required, you can also add more details on the Workplace Case form.
 
-On the Workplace Case form, the universal request number that was used for creating the workplace case is displayed. The Workplace case number appears in the primary **Ticket** field on the [[new-ur-record-form|Universal Request form]] and also under the Associated Tickets related list.
+On the Workplace Case form, the universal request number that was used for creating the workplace case is displayed. The Workplace case number appears in the primary **Ticket** field on the Universal Request form and also under the Associated Tickets related list.
 
 **Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-intergration-with-universal-request.md)
 
@@ -52,10 +52,3 @@ On the Workplace Case form, the universal request number that was used for creat
 
 [Transfer a workplace case created from a universal request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[new-ur-record-form|Universal Request form]]

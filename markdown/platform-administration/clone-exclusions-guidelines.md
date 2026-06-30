@@ -12,7 +12,7 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # General guidelines for excluding a table from cloning
 
-A [[reference-email-admin|reference]] topic that includes [[ia-des-conf|general guidelines]] to [[t_ExcludeATableFromCloning|exclude a table from cloning]].
+A reference topic that includes general guidelines to exclude a table from cloning.
 
 -   **Workflow context data**
 
@@ -44,11 +44,5 @@ A [[reference-email-admin|reference]] topic that includes [[ia-des-conf|general 
     sys\_db\_object and sys\_db\_object.\* can’t be added to the exclusions.
 
 
-**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]
-- [[ia-des-conf|General guidelines]]
-- [[t_ExcludeATableFromCloning|Exclude a table from cloning]]

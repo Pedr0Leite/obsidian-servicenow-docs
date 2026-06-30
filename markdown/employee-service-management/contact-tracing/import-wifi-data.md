@@ -22,7 +22,7 @@ Role required: sn\_imt\_tracing.wifi\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Wi-Fi Access Management** &gt; **Wi-Fi Access Register**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Wi-Fi Access Management** &gt; **Wi-Fi Access Register**.
 
 2.  Click **Import Wi-Fi Access Data**.
 
@@ -46,6 +46,3 @@ Role required: sn\_imt\_tracing.wifi\_manager
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

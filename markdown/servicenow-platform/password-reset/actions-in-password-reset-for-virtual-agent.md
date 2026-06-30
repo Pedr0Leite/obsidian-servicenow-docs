@@ -16,8 +16,8 @@ breadcrumb: [Password Reset reference, Password Reset, Manage service capabiliti
 
 The actions in the Virtual Agent use plugins.
 
--   [[password-reset-landing-page|Password Reset]] \(com.glideapp.password\_reset\): This plugin is active by default.
--   [[password-reset-for-virtual-agent|Password Reset for Virtual Agent]] \(com.snc.password\_reset.virtual\_agent\): You must install this plugin to use Password Reset for Virtual Agent.
+-   Password Reset \(com.glideapp.password\_reset\): This plugin is active by default.
+-   Password Reset for Virtual Agent \(com.snc.password\_reset.virtual\_agent\): You must install this plugin to use Password Reset for Virtual Agent.
 
 For more information about creating your password reset process, see [Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-landing-page.md).
 
@@ -29,7 +29,7 @@ End users can initiate a password reset conversation with Virtual Agent by enter
 
 ## Enrollment in Password Reset for Virtual Agent
 
-You can let end users enroll for [[c_PWRVerifications|Password Reset verifications]] using the Virtual Agent. The Virtual Agent includes an enrollment topic and its topic blocks for each verification, such as SMS, [[email|email]], security question, Soft PIN, or a third-party authenticator app. Users can select any of the topic blocks to enroll for verification.
+You can let end users enroll for Password Reset verifications using the Virtual Agent. The Virtual Agent includes an enrollment topic and its topic blocks for each verification, such as SMS, email, security question, Soft PIN, or a third-party authenticator app. Users can select any of the topic blocks to enroll for verification.
 
 You can modify the enrollment topic, but you must duplicate the default enrollment topic and then modify the duplicated topic.
 
@@ -134,9 +134,3 @@ When a user account is locked, the user can't log in to the account. But using t
 
 **Note:** Users can also use the Microsoft Teams channel to unlock accounts and reset passwords.
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[password-reset-for-virtual-agent|Password Reset for Virtual Agent]]
-- [[c_PWRVerifications|Password Reset verifications]]
-- [[email|Email]]

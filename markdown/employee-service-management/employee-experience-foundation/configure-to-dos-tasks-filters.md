@@ -14,7 +14,7 @@ breadcrumb: [Configurable task filters, Setup task management, Configuring Emplo
 
 # Create filters or filter groups
 
-With these filters and filter groups, you enable employees to easily filter, organize, [[discover-lxp|discover]], and fulfill the tasks in a few clicks.
+With these filters and filter groups, you enable employees to easily filter, organize, discover, and fulfill the tasks in a few clicks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **To-dos filters**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Administration** &gt; **To-dos filters**.
 
 2.  Click **New** or open a record.
 
@@ -113,7 +113,3 @@ Complete the following mapping per your requirement.
 
 Based on your mapping, you make the filters available for employees to use on the **My tasks** page.
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]

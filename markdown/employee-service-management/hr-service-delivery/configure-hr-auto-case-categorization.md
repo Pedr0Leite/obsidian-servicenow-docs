@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR AI Configuration**.
 
 2.  Click **New** or open a record.
 
@@ -53,7 +53,7 @@ Use case
 
 </td><td>
 
-Name of the use case. For example, email categorization or [[hr-service-categorization|HR service categorization]]
+Name of the use case. For example, email categorization or HR service categorization
 
 </td></tr><tr><td>
 
@@ -66,7 +66,4 @@ Check box to activate the HR AI configuration for use.
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
 
-## Related
 
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-categorization|HR service categorization]]

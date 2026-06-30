@@ -37,7 +37,7 @@ Applications
 
 </th></tr></thead><tbody><tr><td>
 
-[[tsm-about|Telecom Service Management \(TSM\)]]
+[Telecom Service Management \(TSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tsm-about.md)
 
 </td><td>
 
@@ -49,9 +49,9 @@ Telecommunications Service Management \(TSM\) breaks down siloed legacy systems 
 -   [Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-events-landing.md)
 -   [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 -   [Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/assurance-workflows.md)
--   [[cspm-landing-page|Customer Service Problem Management]]
--   [[stm-landing-page|Service Test Management]]
--   [[c360-land-page|Telecommunications Customer 360]]
+-   [Customer Service Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/cspm-landing-page.md)
+-   [Service Test Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/stm-landing-page.md)
+-   [Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-land-page.md)
 
 </td></tr><tr><td>
 
@@ -63,15 +63,15 @@ Telecommunications applications that enable you to automate operations and manag
 
 </td><td>
 
--   [[telecom-network-inventory|Telecommunications Network Inventory]]
--   [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
--   [[somt|Sales Customer Relationship Management for Telecommunications]]
+-   [Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/telecom-network-inventory.md)
+-   [Telecommunications Service Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/telecommunications-service-operations-management.md)
+-   [Sales Customer Relationship Management for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/somt.md)
 -   [Field Service Management for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/field-service-management-for-telecommunications/field-service-management-telecommunications.md)
 -   [Strategic Portfolio Management for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/strategic-portfolio-management-for-telecom/spmt-overview.md)
 
 </td></tr><tr><td>
 
-[[tpsm-about|Technology Provider Service Management \(TPSM\)]]
+[Technology Provider Service Management \(TPSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tpsm-about.md)
 
 </td><td>
 
@@ -101,7 +101,7 @@ Sales CRM for Technology Providers unifies sales, order management, and post-sal
 
 <table id="id_pjw_hng_bjc"><tbody><tr><td>
 
-[[tmt-api-reference|TMF APIs for TMT]]
+[TMF APIs for TMT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-api-reference.md)
 
 </td><td>
 
@@ -121,14 +121,3 @@ Open Digital Architecture-aligned REST APIs available across TMT solutions — a
 -   Find useful resources related to your role and explore general guidelines at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Telecommunications, Media, and Technology \(TMT\) users at [Now Community](https://www.servicenow.com/community/crm-and-industry-solutions/ct-p/industry-solutions).
 
-## Related
-
-- [[tsm-about|Telecommunications Service Management \(TSM\)]]
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[stm-landing-page|Service Test Management]]
-- [[c360-land-page|Telecommunications Customer 360]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
-- [[somt|Sales Customer Relationship Management for Telecommunications]]
-- [[tpsm-about|Technology Provider Service Management \(TPSM\)]]
-- [[tmt-api-reference|TMF APIs for TMT]]

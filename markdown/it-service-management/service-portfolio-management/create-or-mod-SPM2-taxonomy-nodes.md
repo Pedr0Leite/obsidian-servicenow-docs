@@ -24,13 +24,13 @@ Role required: portfolio\_admin
 
 Add new nodes as needed and edit existing nodes, as well as reparent nodes or delete nodes. You can reparent a node to another node at the same taxonomy layer.
 
-In [[SPM2-landing-page|Service Portfolio Management]], taxonomy nodes typically represent service types within the configured taxonomy layers. These types act as containers for child nodes or services. Examples for an IT services portfolio could include the following taxonomy nodes:
+In Service Portfolio Management, taxonomy nodes typically represent service types within the configured taxonomy layers. These types act as containers for child nodes or services. Examples for an IT services portfolio could include the following taxonomy nodes:
 
 -   Data Center Management
 -   Hardware Support
 -   Software Management
 
-If the [[SPM2-taxonomy|Service Portfolio Management Taxonomy]] Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md) for more details.
+If the Service Portfolio Management Taxonomy Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md) for more details.
 
 ## Procedure
 
@@ -167,7 +167,3 @@ List of all associated services shown for leaf nodes. Edit the list by selecting
 </table>
 **Parent Topic:**[Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-taxonomy.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[SPM2-taxonomy|Service Portfolio Management taxonomy]]

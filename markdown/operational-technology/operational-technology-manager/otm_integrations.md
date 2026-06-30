@@ -14,13 +14,13 @@ breadcrumb: [Operational Technology Manager, Operational Technology]
 
 # Operational Technology Manager Integrations
 
-The [[operational-technology-manager|Operational Technology Manager]] application includes support for third-party integrations.
+The Operational Technology Manager application includes support for third-party integrations.
 
 The following third-party integrations are currently supported.
 
--   [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]
--   [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
--   [[integration-sgc-microsoft-defender-iot-on-prem|Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)]]
+-   Service Graph Connector Integration for Claroty CTD
+-   Service Graph Connector for Microsoft Defender for IoT \(Azure\)
+-   Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)
 
 -   **[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)**  
 Integrate Claroty Continuous Threat Detection \(CTD\) with the ServiceNow Operational Technology Manager application to import detected devices and Claroty CTD sites \(sensor or Network Intrusion Detection System appliances\).
@@ -31,9 +31,3 @@ Integrate Microsoft Defender for IoT \(On-premises Management Console\) with the
 
 **Parent Topic:**[Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]
-- [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
-- [[integration-sgc-microsoft-defender-iot-on-prem|Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)]]

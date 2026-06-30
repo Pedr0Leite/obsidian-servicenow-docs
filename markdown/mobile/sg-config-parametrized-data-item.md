@@ -24,23 +24,23 @@ Use the included examples to create a data item that allows users to open an inc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Data** category from the menu, and then select **New**.
 
 4.  From the Create a data item dialog box, select the type of data item you want to create, and then select **Continue**.
 
-    Both the standard and relationship [[sg-data-item|data items]] can include parameters.
+    Both the standard and relationship data items can include parameters.
 
 5.  Complete the Properties and Data sections as needed.
 
-    For more information about creating a data item, see [[sg-studio-create-data-item|Configure a standard data item]]. For example, create a data item for open incidents.
+    For more information about creating a data item, see [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md). For example, create a data item for open incidents.
 
     **Note:** To configure the Condition section you must first complete and save the parameter configuration.
 
@@ -77,12 +77,5 @@ Use the included examples to create a data item that allows users to open an inc
 
 ## What to do next
 
-After you create a data item, assign it to a screen. Data items with parameters require additional configuration in the screen. For more information on assigning a data item with parameters to a screen, see [[sg-assign-param-data-item-screen|Assign a data item with parameters to a list screen]].
+After you create a data item, assign it to a screen. Data items with parameters require additional configuration in the screen. For more information on assigning a data item with parameters to a screen, see [Assign a data item with parameters to a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-assign-param-data-item-screen.md).
 
-## Related
-
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[sg-assign-param-data-item-screen|Assign a data item with parameters to a list screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]

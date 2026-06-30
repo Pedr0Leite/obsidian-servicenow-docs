@@ -22,13 +22,8 @@ The following is a list of different functionalities and capabilities not availa
 
 -   **Zing search** - The search bar is not displayed for screens that use Zing search. For AI Search, the search bar is displayed.
 -   **Charts** - Both Performance Analytics and reporting charts are not displayed.
--   **Attachments** - By default, external users are not able to view, edit, or upload attachments. To enable external users to view, edit, or upload attachments, set the **allow\_snc\_external\_attachment\_access** mobile property to `true`. For more information, see [[enable-ext-users-attach-access|Enable external users to access attachments]].
--   **Offline** - Mobile [[mobile-offline-mode|offline mode]] is not available. External users without an internet connection cannot continue to work from a mobile device.
+-   **Attachments** - By default, external users are not able to view, edit, or upload attachments. To enable external users to view, edit, or upload attachments, set the **allow\_snc\_external\_attachment\_access** mobile property to `true`. For more information, see [Enable external users to access attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-ext-users-attach-access.md).
+-   **Offline** - Mobile offline mode is not available. External users without an internet connection cannot continue to work from a mobile device.
 -   **Debug drawer** - The ability to display performance-related data via the debug drawer, is not available.
--   **Impersonate user** - External users cannot use the [[mobile-impersonation|mobile impersonation]] functionality.
+-   **Impersonate user** - External users cannot use the mobile impersonation functionality.
 
-## Related
-
-- [[enable-ext-users-attach-access|Enable external users to access attachments]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-impersonation|Mobile impersonation]]

@@ -16,7 +16,7 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 As a provider, use the Scratchpad feature of the Service Exchange application to send updates to the ServiceNow instance of your consumer while performing the request fulfillment tasks.
 
-The [[zero-touch-request|Zero Touch request flow]] requires you to send Scratchpad updates to your consumer's ServiceNow instance when you complete the confirmation and shipment tasks successfully. Based on the updates that you send, the Zero Touch flow progresses on your consumer's ServiceNow instance.
+The Zero Touch request flow requires you to send Scratchpad updates to your consumer's ServiceNow instance when you complete the confirmation and shipment tasks successfully. Based on the updates that you send, the Zero Touch flow progresses on your consumer's ServiceNow instance.
 
 You must include the code specific to your tasks in the **PSBScratchpadUtil** API. For more information, see [Using the Scratchpad for Service Exchange tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scratchpad.md). Confirm that the Scratchpad codes associated with the tasks of your request fulfillment flow are in the following format.
 
@@ -78,9 +78,5 @@ When you ship the requested items and confirm the shipment, a Scratchpad update 
 -   **Asset tag**: Unique asset tag of the asset that is shipped.
 -   **Serial number**: Serial number of the asset.
 
-**Note:** The shipment update for [[c_ReceiveAConsumableAsset|consumable assets]] doesn't include Asset tag and Serial number details. If there are multiple shipments, the information of the asset in a shipment must be sent to your consumer's ServiceNow instance only once.
+**Note:** The shipment update for consumable assets doesn't include Asset tag and Serial number details. If there are multiple shipments, the information of the asset in a shipment must be sent to your consumer's ServiceNow instance only once.
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

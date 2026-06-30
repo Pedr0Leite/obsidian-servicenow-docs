@@ -14,7 +14,7 @@ breadcrumb: [Portal content, Creating employee communications, Authoring and man
 
 # Create customized media with styled content
 
-Create banners, block/announcements, or videos using the styled content type to customize settings such as text color, text alignment, links, background colors, and images on [[employee-center-pro-landing|Employee Center Pro]].
+Create banners, block/announcements, or videos using the styled content type to customize settings such as text color, text alignment, links, background colors, and images on Employee Center Pro.
 
 ## Before you begin
 
@@ -101,11 +101,11 @@ CONTENT
 
 </td></tr><tr><td>
 
-User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] table
+User reference table
 
 </td><td>
 
-Determines the variables you can use to personalize text for the block content.Select **[[c_HRProfileRecords|HR Profile]]** to select variables from the sn\_hr\_core\_profile table.
+Determines the variables you can use to personalize text for the block content.Select **HR Profile** to select variables from the sn\_hr\_core\_profile table.
 
 **Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, only **HR Profile** appears.
 
@@ -418,7 +418,7 @@ Indicates that you want the text to include color gradient to make your text eas
 
     **Note:** Only translate content after you are done modifying the content. For best results, we do not recommend that you add or remove components or change the formatting after translation.
 
-    To [[ec-content-library-portal-rich-content|create rich content]] that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use [[ecpro-audience|Audiences]] to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
+    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use Audiences to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
 
 -   Preview your content from the **Publish** tab.
 
@@ -426,10 +426,3 @@ Indicates that you want the text to include color gradient to make your text eas
 
 -   Configure a publish plan to control where the content is delivered, the audience, and the period of time it is available: [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[ec-content-library-portal-rich-content|Create rich content]]
-- [[ecpro-audience|Audiences]]

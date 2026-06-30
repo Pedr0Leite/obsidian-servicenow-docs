@@ -93,7 +93,7 @@ TPR assessor \(Third-party risk assessor\)
 
 </td><td>
 
--   Includes all permissions of the Third-party assessment reviewer role plus: Manage third parties, third-party contacts, external [[risk-assessments|risk assessments]], and issues.
+-   Includes all permissions of the Third-party assessment reviewer role plus: Manage third parties, third-party contacts, external risk assessments, and issues.
 -   You can set the following options for the sn\_svdp.allow\_assessor\_edit property:
 
     -   Enable TPR assessors to answer questions or modify responses in third-party questionnaires \(default\).
@@ -135,8 +135,8 @@ TPR manager \(Third-party risk manager\)\[sn\_vdr\_risk\_asmt.vendor\_risk\_mana
 
 Includes all permissions of the TPR assessor role plus:
 
- -   Manage third-party [[airc-assessment-templates|assessment templates]] and scheduled assessments.
--   [[c_Engagements|Manage engagements]] and engagement contacts.
+ -   Manage third-party assessment templates and scheduled assessments.
+-   Manage engagements and engagement contacts.
 -   Manage scoring rules for both third parties and engagements.
 
 </td><td>
@@ -231,7 +231,7 @@ A user with one of the following roles can access the Digital resilience third-p
     The TPR admin contains this role.
 
 
-For more information on DORA related roles, see [[roles-for-drtpr|Roles installed with Digital resilience third-party registers]].
+For more information on DORA related roles, see [Roles installed with Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-for-drtpr.md).
 
 ## Roles required for using Smart Assessment Engine
 
@@ -294,9 +294,3 @@ The TPRM GenAI User \[sn\_tprm\_genai.nowassist\_user\] role is granted to Third
 
 [Roles installed in Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-roles-defined.md)
 
-## Related
-
-- [[roles-for-drtpr|Roles installed with Digital resilience third-party registers]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[c_Engagements|Manage engagements]]

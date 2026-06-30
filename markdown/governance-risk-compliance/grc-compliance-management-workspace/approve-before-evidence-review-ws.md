@@ -14,7 +14,7 @@ breadcrumb: [Manage evidence requests using the Compliance Workspace, Use, GRC C
 
 # Approve evidence before evidence review using the Compliance Workspace
 
-Using the Compliance Workspace, approve the evidence being provided before the requester views the evidence. When evidence is provided in response to an [[evidence-request|evidence request]], the evidence may need an approval before the evidence is sent back to the requester. This ability ensures security and confidentiality of the evidence.
+Using the Compliance Workspace, approve the evidence being provided before the requester views the evidence. When evidence is provided in response to an evidence request, the evidence may need an approval before the evidence is sent back to the requester. This ability ensures security and confidentiality of the evidence.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ After receiving a request to approve evidence, an approver can do one of the fol
     |**Request Revision**|Request that the attached evidence be reviewed. Enter comments when you request revision. The assignee gets a notification to review the attached evidence.|
     |**Request Information**|Seek more information and details about the attached evidence. The assignee gets a notification to provide more information about the attached evidence.|
 
-## Related
 
-- [[evidence-request|Evidence request]]

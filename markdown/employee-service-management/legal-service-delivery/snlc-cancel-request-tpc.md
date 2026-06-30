@@ -37,7 +37,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user, sn\_lg\_
 
 ## Result
 
--   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **[[activity-lxp|Activity]]** tab of the request.
+-   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **Activity** tab of the request.
 -   The Contract status changes to Contract cancelled.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the legal request has been canceled.
 
@@ -62,9 +62,5 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user, sn\_lg\_
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

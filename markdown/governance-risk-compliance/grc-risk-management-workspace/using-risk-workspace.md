@@ -19,7 +19,7 @@ Starting with Version 13.0.5, a new workspace has been introduced for the Risk M
 -   **[Create a risk framework in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-framework.md)**  
 Create risk frameworks to group risk statements into manageable categories and generate risks. After the risks are generated, you can identify methods to mitigate them.
 -   **[Associate a risk statement with a control objective in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-control-objective-ws.md)**  
-Associate risk statements to control objectives in the [[risk-workspace|Risk Workspace]]. This association helps you to manage your risks by ensuring that the risks have mitigating controls.
+Associate risk statements to control objectives in the Risk Workspace. This association helps you to manage your risks by ensuring that the risks have mitigating controls.
 -   **[Common controls in Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/shared-common-controls-in-risk-management.md)**  
 By linking the risks to a common control in the Risk Management application, you can reduce the time and effort that is needed to manage and apply these centralized controls to your reliant entities. For example, a fire sprinkler system can be a common control for multiple business units \(BUs\), such as finance, security, and human resources \(HR\).
 -   **[Create and run a manual risk indicator in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-manual-indicator-risk-ws.md)**  
@@ -29,17 +29,17 @@ Create and run a basic risk indicator to identify the possibility of a future ad
 -   **[Create and run a scripted risk indicator in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-scripted-indicator.md)**  
 Create and run a scripted risk indicator to identify the possibility of a future adverse impact on your organization. A scripted indicator enables you to write your own script to run the indicators. Indicators are an early warning system and they enable you to take preventative action on the risks.
 -   **[Issue management in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/issues-in-ws.md)**  
-The issues landing page in the Risk Workspace provides logged-in managers and users with all the information they need to [[manage-issues-common-core|manage issues]] on a single page. The landing page features actionable insights, quick action buttons, filters, and access to open issue triages.
+The issues landing page in the Risk Workspace provides logged-in managers and users with all the information they need to manage issues on a single page. The landing page features actionable insights, quick action buttons, filters, and access to open issue triages.
 -   **[Create a risk assessment scope in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-asses-scope-workspace.md)**  
 Create a risk assessment scope to identify risks for an entity, define assessors and approvers, set assessment frequency, and initiate assessments using the Risk Management application.
 -   **[Schedule risk assessments in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/schedule-risk-assessment-workspace.md)**  
-Schedule [[risk-assessments|risk assessments]] automatically for multiple entities. The [[risk-assessment-scheduler|risk assessment scheduler]] helps the risk managers save time by automatically initiating the assessments based on the defined frequency.
+Schedule risk assessments automatically for multiple entities. The risk assessment scheduler helps the risk managers save time by automatically initiating the assessments based on the defined frequency.
 -   **[Perform advanced risk assessment in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-ara-workspace.md)**  
 Conduct risk assessments to assess inherent risks, effectiveness of controls, residual risks, and target risks in the Risk Workspace application. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 -   **[Perform any object assessment in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/any-object-assessment-ws.md)**  
 Assess the risks on any object or record in ServiceNow®. An example of object assessment is assessing change management or assessing a citation.
 -   **[Workflow of risk response task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-of-risk-response-task.md)**  
-The [[risk-response|risk response]] task workflow is a structured process to manage assessed risks by defining plans of action to either accept, mitigate, avoid, or transfer those risks.
+The risk response task workflow is a structured process to manage assessed risks by defining plans of action to either accept, mitigate, avoid, or transfer those risks.
 -   **[Workflow of action item in risk response task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-action-item-risk-response-task.md)**  
 The action item workflow is a structured process for managing the granular tasks associated with risk response tasks, which are assigned to multiple stakeholders.
 -   **[Create a risk response task in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-response-task-risk-workspace.md)**  
@@ -59,15 +59,15 @@ Create a risk event entry to determine the monetary or non-monetary impact of th
 -   **[Create an ORX external event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-orx-event.md)**  
 Create an Operational Riskdata eXchange \(ORX\) external risk event to share the risk event of your company with other organizations. This exchange of risk events information acts as a learning for other organizations in the industry and prevents them from making the same errors.
 -   **[Report a risk event from the Risk Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/report-risk-event-risk-portal.md)**  
-Report a risk event from the [[risk-portal|Risk Portal]]. The Risk Portal provides an easy method to quickly report risk events.
+Report a risk event from the Risk Portal. The Risk Portal provides an easy method to quickly report risk events.
 -   **[Chart colors for risk data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/chart-colors-in-risk.md)**  
 You can view your risk data visualizations in different colors for a quick overview of your risks.
 -   **[Create a business process in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-business-process-ws.md)**  
-[[create-a-business-process|Create a business process]] in the Risk Workspace and define the owners, approvers, business criticality, and review frequency for the process.
+Create a business process in the Risk Workspace and define the owners, approvers, business criticality, and review frequency for the process.
 -   **[Create a test plan in Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-test-plan-in-risk-ws.md)**  
 Create a test plan to document the control testing procedure. You can create a test plan from scratch or based on a test template to describe how a feature is to be tested.
 -   **[Filter data in the risk heatmap workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/filtering-in-the-risk-heatmap.md)**  
-As a risk user, filter data in the [[risk-heatmap-workbench|risk heatmap workbench]] to get a granular view of your risks.
+As a risk user, filter data in the risk heatmap workbench to get a granular view of your risks.
 -   **[Define the risk appetite for an entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-entity.md)**  
 Define the risk appetite on the entity records in the Risk Management application to evaluate all the possible risks and to set the boundaries for the acceptable and unacceptable risks for your business.
 -   **[Define the risk appetite for a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-risk.md)**  
@@ -77,21 +77,9 @@ Define the risk appetite on the risk statement records in the Risk Management ap
 -   **[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)**  
 Learn how to use the Review and feedback workflow to enable the 2nd and 3rd line managers to review records, capture feedback, and track the closure of feedback.
 -   **[Risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)**  
-You can perform assessments on multiple risks and controls simultaneously by creating a [[risk-assessment-project|risk assessment project]]. Risk assessment project enables assessors to review multiple risks and controls to understand their potential impact, likelihood, and associated mitigation strategies.
+You can perform assessments on multiple risks and controls simultaneously by creating a risk assessment project. Risk assessment project enables assessors to review multiple risks and controls to understand their potential impact, likelihood, and associated mitigation strategies.
 -   **[Matrix report in Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/matrix-report-in-risk-workspace.md)**  
 Matrix report is a structured report that you can configure to view in a grid or table format in the Risk Workspace. You can use the matrix report to access and analyze the risk posture of your organization using entity-related data, such as risks, controls, KRIs, and events.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-workspace|risk workspace]]
-- [[manage-issues-common-core|Manage issues]]
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-scheduler|risk assessment scheduler]]
-- [[risk-response|risk response]]
-- [[risk-portal|risk portal]]
-- [[create-a-business-process|create a business process]]
-- [[risk-heatmap-workbench|risk heatmap workbench]]
-- [[risk-assessment-project|risk assessment project]]

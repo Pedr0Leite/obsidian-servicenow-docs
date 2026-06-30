@@ -27,37 +27,22 @@ Each category can be assigned to a different user or the same users. You can als
 1.  Create a quiz using these procedures.
 
 
--   **[[t_CreateAQuizCategory|Create quiz categories]]**  
+-   **[Create quiz categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAQuizCategory.md)**  
 Create quiz categories, which represent a theme for evaluating a specific element of the quiz topic and contain questions pertaining to that theme.
--   **[[t_CreateAQuizQuestion|Create quiz questions]]**  
+-   **[Create quiz questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAQuizQuestion.md)**  
 Create multiple questions for each category. Each question can be associated with only one category.
--   **[[t_ConfigureATemplateQuestion|Configure a template question]]**  
-You can configure template questions when designing [[c_Quizzes|quizzes]].
--   **[[t_ConfigureAScoredQuestion|Configure a scored question]]**  
+-   **[Configure a template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureATemplateQuestion.md)**  
+You can configure template questions when designing quizzes.
+-   **[Configure a scored question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAScoredQuestion.md)**  
 Only scored questions are considered when calculating category and quiz results.
--   **[[t_ConfigureaQuiz|Configure a quiz]]**  
+-   **[Configure a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureaQuiz.md)**  
 You can configure an entire quiz.
--   **[[t_SelectAQuizRecipient|Select a quiz recipient]]**  
-When the system distributes a quiz, it sends [[email|email]] notifications to the category users and their managers.
--   **[[t_PublishaQuiz|Publish a quiz]]**  
-When you publish a quiz, the system sends email notifications to the recipients and to their managers. A card in each recipient's **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]** portal displays a link to the quiz.
--   **[[copy-quiz|Copy a quiz]]**  
+-   **[Select a quiz recipient](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectAQuizRecipient.md)**  
+When the system distributes a quiz, it sends email notifications to the category users and their managers.
+-   **[Publish a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishaQuiz.md)**  
+When you publish a quiz, the system sends email notifications to the recipients and to their managers. A card in each recipient's **My Assessments &amp; Surveys** portal displays a link to the quiz.
+-   **[Copy a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/copy-quiz.md)**  
 Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
-**Parent Topic:**[[c_QuizDesigner|Quiz designer]]
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[t_CreateAQuizCategory|Create quiz categories]]
-- [[t_CreateAQuizQuestion|Create quiz questions]]
-- [[t_ConfigureATemplateQuestion|Configure a template question]]
-- [[t_ConfigureAScoredQuestion|Configure a scored question]]
-- [[t_ConfigureaQuiz|Configure a quiz]]
-- [[t_SelectAQuizRecipient|Select a quiz recipient]]
-- [[t_PublishaQuiz|Publish a quiz]]
-- [[copy-quiz|Copy a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[c_Quizzes|Quizzes]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]

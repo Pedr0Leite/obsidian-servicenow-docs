@@ -28,7 +28,7 @@ Parameter records are supported for on-screen tasks and SSH background tasks. Us
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agentic-desktop-landing-page|AI Desktop Actions]]** &gt; **Desktop Action Parameters**.
+1.  Navigate to **All** &gt; **AI Desktop Actions** &gt; **Desktop Action Parameters**.
 
 2.  Select **New**.
 
@@ -50,9 +50,5 @@ Parameter records are supported for on-screen tasks and SSH background tasks. Us
 
 ## Result
 
-The Desktop action parameter record is created and appears in the Desktop Action Parameters list. You can now create Desktop action parameter value records under this parameter. For more information, see [[configure-parameter-value-record|Create a parameter value record]].
+The Desktop action parameter record is created and appears in the Desktop Action Parameters list. You can now create Desktop action parameter value records under this parameter. For more information, see [Create a parameter value record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-parameter-value-record.md).
 
-## Related
-
-- [[configure-parameter-value-record|Create a parameter value record]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]

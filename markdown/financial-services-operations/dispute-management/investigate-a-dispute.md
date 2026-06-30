@@ -14,10 +14,10 @@ breadcrumb: [Resolving disputes without network integration, Processing, Use, Di
 
 # Investigating a dispute
 
-Complete tasks such as determining a recovery option, writing off a disputed transaction amount, and [[provide-immediate-final-credit-visa|provide immediate final credit]], notify the merchant, initiate provisional credit, determine reversal of provisional credit, and investigate the transaction.
+Complete tasks such as determining a recovery option, writing off a disputed transaction amount, and provide immediate final credit, notify the merchant, initiate provisional credit, determine reversal of provisional credit, and investigate the transaction.
 
 -   **[Detect friendly fraud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/resolve-friendly-fraud.md)**  
-[[resolve-friendly-fraud|Detect friendly fraud]] and determine the course of actions required depending on the amount being disputed, the customer relationship, and the outcome of the detection logic.
+Detect friendly fraud and determine the course of actions required depending on the amount being disputed, the customer relationship, and the outcome of the detection logic.
 -   **[Manage customer communication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/resolve-fraud-customer-communication.md)**  
 Provide a response and feedback to the customer for a decision made on a dispute, such as friendly fraud.
 -   **[Issue provisional credit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/provide-provisional-credit-to-customer.md)**  
@@ -33,7 +33,3 @@ Alert the merchant about a card transaction dispute.
 
 **Parent Topic:**[Managing disputes without network integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-dispute-case.md)
 
-## Related
-
-- [[provide-immediate-final-credit-visa|Provide immediate final credit]]
-- [[resolve-friendly-fraud|Detect friendly fraud]]

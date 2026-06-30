@@ -14,9 +14,9 @@ breadcrumb: [Asset Management, IT Service Management]
 
 # ITSM Software Asset Management
 
-The software [[c_AssetManagement|asset management]] features of the ITSM suite can be activated using one of the plugins in the feature table.
+The software asset management features of the ITSM suite can be activated using one of the plugins in the feature table.
 
-**Note:** These features support [[r_ITServiceManagement|IT service management]] processes related to software assets.
+**Note:** These features support IT service management processes related to software assets.
 
 For the Software Asset Management product \(requires a separate subscription\), see [Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_SAMOverview.md).
 
@@ -66,12 +66,7 @@ Manage your software licenses.
 </table>-   **[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin activates the legacy ITSM Software Asset Management feature that is provided with the Asset Management application.
 -   **[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md)**  
-The [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] activates the ITSM Software Asset Management feature provided with the Asset Management application.
+The Software Asset Management Foundation plugin activates the ITSM Software Asset Management feature provided with the Asset Management application.
 
 **Parent Topic:**[Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_AssetManagement.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]

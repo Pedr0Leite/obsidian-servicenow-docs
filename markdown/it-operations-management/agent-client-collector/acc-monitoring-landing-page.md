@@ -34,7 +34,7 @@ The user needs to monitor the activity of the ACC to resolve the issue through m
 
 </td><td>
 
-[Metric Intelligence \[Omitted image "bus-integration-and-apis.svg"\] Alt text:Use [[operational-metrics|Metric Intelligence]] to explore metric data and identify anomalies.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/operational-metrics.md)
+[Metric Intelligence \[Omitted image "bus-integration-and-apis.svg"\] Alt text:Use Metric Intelligence to explore metric data and identify anomalies.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/operational-metrics.md)
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ The user needs to monitor the activity of the ACC to resolve the issue through m
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get additional details about [[checks-policies|checks and policies]], and metric collection.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get additional details about checks and policies, and metric collection.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -55,7 +55,3 @@ The user needs to monitor the activity of the ACC to resolve the issue through m
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[checks-policies|Checks and policies]]

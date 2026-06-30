@@ -45,7 +45,7 @@ A knowledge article is published depending on the workflow setting of its knowle
 
 For more information, see [Schedule a knowledge article for publishing in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/schedule-article-publishing-agent.md).
 
-When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the [[article-versioning|article versioning]] feature is enabled, the version of the article is incremented based on the [version number pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md).
+When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md).
 
 **Related topics**  
 
@@ -56,6 +56,3 @@ When published, your knowledge article appears in the My Articles - Published an
 
 [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]

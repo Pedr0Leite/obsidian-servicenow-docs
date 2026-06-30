@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Copy a risk assessment methodology
 
-Modify your [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] and [[factors|factors]] by creating a copy of the record. The option to copy allows the system to create a true copy of the underlying record including all the related lists. This action saves the time of risk administrators as they do not have to create the records from the beginning each time.
+Modify your risk assessment methodology \(RAM\) and factors by creating a copy of the record. The option to copy allows the system to create a true copy of the underlying record including all the related lists. This action saves the time of risk administrators as they do not have to create the records from the beginning each time.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **[[airc-rams|Risk Assessment Methodologies]]**
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Assessment Methodologies**
 
 2.  Open the RAM you want to copy.
 
@@ -31,10 +31,3 @@ Role required: sn\_risk.admin
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[factors|factors]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[airc-rams|Risk assessment methodologies]]

@@ -22,9 +22,9 @@ Company event troubleshooting steps help resolve reservation changes and cancell
 
 ## About this task
 
-Provides helpful troubleshooting steps to manage new and existing reservations for your [[ec-company-events|company events]].
+Provides helpful troubleshooting steps to manage new and existing reservations for your company events.
 
-**Note:** This integration is for **Company Events** only. [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] core and Workplace Reservation plugin is required to complete company event reservations.
+**Note:** This integration is for **Company Events** only. Workplace Service Delivery core and Workplace Reservation plugin is required to complete company event reservations.
 
 ## Procedure
 
@@ -55,7 +55,3 @@ Provides helpful troubleshooting steps to manage new and existing reservations f
 
 **Parent Topic:**[Workplace Service Delivery Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-wsd-integration-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

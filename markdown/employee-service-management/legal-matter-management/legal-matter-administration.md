@@ -17,13 +17,9 @@ breadcrumb: [Configure, Legal Matter Management, Legal Service Delivery, Legal a
 Legal matter templates help you standardize legal procedures​, policies, and workflows for various matter types.
 
 -   **[Create a legal matter template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-legal-matter-template.md)**  
-[[create-legal-matter-template|Create a legal matter template]] that you can apply to a legal matter when promoting from a legal request. The legal matter created using the template contains predefined data such as phases, tasks, ownership, and approvals.
+Create a legal matter template that you can apply to a legal matter when promoting from a legal request. The legal matter created using the template contains predefined data such as phases, tasks, ownership, and approvals.
 -   **[Approve or reject a matter template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/approve-reject-matter-template.md)**  
-Review and [[approve-reject-matter-template|approve or reject a matter template]] that is assigned to a user group of which you are a member. An approved matter template is published and is available for use when promoting legal requests to legal matters.
+Review and approve or reject a matter template that is assigned to a user group of which you are a member. An approved matter template is published and is available for use when promoting legal requests to legal matters.
 
 **Parent Topic:**[Setting up Legal Matter Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/setting-up-legal-matter-managemment.md)
 
-## Related
-
-- [[create-legal-matter-template|Create a legal matter template]]
-- [[approve-reject-matter-template|Approve or reject a matter template]]

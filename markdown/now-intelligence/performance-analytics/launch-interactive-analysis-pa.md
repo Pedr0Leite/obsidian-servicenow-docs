@@ -28,7 +28,7 @@ You must have access to the list of records that you want to analyze.
 
 2.  Configure the columns that are displayed on the list.
 
-    The columns that appear on the list when you launch Interactive Analysis determine which fields are included in the analysis. The included fields determine which **Group by** and **Stack by** options are available, and which [[c_HomepagePublishers|interactive filters]] appear by default.
+    The columns that appear on the list when you launch Interactive Analysis determine which fields are included in the analysis. The included fields determine which **Group by** and **Stack by** options are available, and which interactive filters appear by default.
 
 3.  Right-click the column header for a reference, choice, date/time, integer, or boolean field and select **Launch Interactive Analysis**.
 
@@ -43,6 +43,3 @@ You must have access to the list of records that you want to analyze.
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]

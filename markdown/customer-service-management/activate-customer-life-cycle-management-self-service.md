@@ -44,11 +44,7 @@ Role required: admin
 **Related topics**  
 
 
-[[view-product-info-business-portal|View product information from Business Portal]]
+[View product information from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-info-business-portal.md)
 
-[[view-product-inventory-information-on-business-portal|View Product Inventory information on Business Portal]]
+[View Product Inventory information on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-inventory-information-on-business-portal.md)
 
-## Related
-
-- [[view-product-info-business-portal|View product information from Business Portal]]
-- [[view-product-inventory-information-on-business-portal|View Product Inventory information on Business Portal]]

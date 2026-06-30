@@ -14,7 +14,7 @@ breadcrumb: [Using Document Templates, Document Templates, HR Documents, HR Serv
 
 # Using Guided Tours in Document Templates
 
-Use Guided Tours in [[document-templates-overview|Document Templates]] to get instructions on how to create a document template.
+Use Guided Tours in Document Templates to get instructions on how to create a document template.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 
 [Working on a document task]()
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

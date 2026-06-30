@@ -28,7 +28,7 @@ Tables that are configured in the Trigger Rule Table Configuration \[trigger\_ru
 
 1.  Navigate to **All** &gt; **On-Call Administration** &gt; **Administration** &gt; **Trigger Rule Table Configuration**.
 
-    In Service Operations Workspace \(SOW\), you can access On-call trigger rule table configuration by navigating to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview** &gt; **Configuration**. On the **Configurations** tab, from the **SOW configurations** section, navigate to the **[[c_OnCallScheduling|On-call Scheduling]]** tile and select **Configure** and then select **Table configuration for trigger rules**. For more information, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md)
+    In Service Operations Workspace \(SOW\), you can access On-call trigger rule table configuration by navigating to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview** &gt; **Configuration**. On the **Configurations** tab, from the **SOW configurations** section, navigate to the **On-call Scheduling** tile and select **Configure** and then select **Table configuration for trigger rules**. For more information, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md)
 
 2.  Select **New**.
 
@@ -49,6 +49,3 @@ Tables that are configured in the Trigger Rule Table Configuration \[trigger\_ru
 
 **Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/designing-escalation-process-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

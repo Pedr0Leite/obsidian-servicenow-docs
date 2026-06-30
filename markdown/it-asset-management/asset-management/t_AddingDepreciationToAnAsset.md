@@ -36,7 +36,7 @@ For more information about fixed assets and depreciation, see [Using Depreciatio
 
 1.  Navigate to **All** &gt; **Asset** &gt; **Portfolios** &gt; **Hardware Assets**.
 
-2.  [[select-daas-asset|Select an asset]].
+2.  Select an asset.
 
 3.  Fill in the **Depreciation**, **Depreciation effective date**, **Salvage Value**, and **Covered by fixed asset** fields as described in [Create assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingAssets.md).
 
@@ -62,6 +62,3 @@ For more information about fixed assets and depreciation, see [Using Depreciatio
 
 [Set asset states and substates]()
 
-## Related
-
-- [[select-daas-asset|Select an asset]]

@@ -22,7 +22,7 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-Configure the control assessment criteria with details such as [[factors|factors]], the scoring logic, and the rating criteria. You can also specify if you would like to assess the complete control environment or if you would like to assess controls individually. These details are the aspects on which the risk assessment is performed. You can also enable the options to add existing controls or new controls during an assessment. This exercise ensures that each [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] has its own control assessment criteria.
+Configure the control assessment criteria with details such as factors, the scoring logic, and the rating criteria. You can also specify if you would like to assess the complete control environment or if you would like to assess controls individually. These details are the aspects on which the risk assessment is performed. You can also enable the options to add existing controls or new controls during an assessment. This exercise ensures that each risk assessment methodology \(RAM\) has its own control assessment criteria.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Configure the control assessment criteria with details such as [[factors|factors
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[control-assessment-form|control assessment form]], see [Control Assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/control-assessment-form.md).
+    For a description of the field values on the control assessment form, see [Control Assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/control-assessment-form.md).
 
 4.  Select the Factors section and select **Edit**.
 
@@ -71,7 +71,7 @@ Configure the control assessment criteria with details such as [[factors|factors
         |Record Type|Name of the applicable record type. This field is automatically set based on the selected record type.|
         |Control effectiveness|Column where the control effectiveness rating value is stored in the source record. After the assessment, the control effectiveness result is copied to the column selected in this field.|
 
-        **Note:** If the same record type is used in another risk assessment methodology, the source record will update based on the field defined in the RAM of the latest [[advanced-risk-assessment|advanced risk assessment]].
+        **Note:** If the same record type is used in another risk assessment methodology, the source record will update based on the field defined in the RAM of the latest advanced risk assessment.
 
     4.  Select **Update**.
 
@@ -89,9 +89,3 @@ Use the Control Assessment form in the Advanced Risk application to assess the e
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[control-assessment-form|control assessment form]]
-- [[advanced-risk-assessment|advanced risk assessment]]

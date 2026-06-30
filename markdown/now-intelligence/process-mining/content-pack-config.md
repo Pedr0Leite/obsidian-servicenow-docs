@@ -32,10 +32,7 @@ This section covers the following topics:
 -   **[Install Process Mining content pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/install-content-pack.md)**  
 Install the content pack to copy the process configurations set for the content pack to your process configuration.
 -   **[Create process configurations using content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-content-pack.md)**  
-[[process-config-content-pack|Create process configurations using content packs]] to use the configuration already created for the content packs.
+Create process configurations using content packs to use the configuration already created for the content packs.
 
 **Parent Topic:**[Creating process configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/creating-process-config.md)
 
-## Related
-
-- [[process-config-content-pack|Create process configurations using content packs]]

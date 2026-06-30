@@ -12,11 +12,11 @@ breadcrumb: [Sales Forecasting, Lead and opportunity management, Explore, Sales 
 
 # Sales Forecasting terminology
 
-Use the following list of terms to gain an understanding of [[sales-forecasting|Sales Forecasting]] concepts, components, and configuration.
+Use the following list of terms to gain an understanding of Sales Forecasting concepts, components, and configuration.
 
 ## Forecast Model
 
-The Forecast Model is a framework or method used to predict future sales based on historical data, current sales activities, and other relevant factors. It helps businesses estimate the expected sales figures over a specific period, such as a quarter or year. Only one forecast model, Opportunity Amount Forecast is available to the users. You can forecast the sales for the current opportunities in the system. The **Submission Required** option is enabled by default. From the **Submission Frequency** list, select weekly, monthly, or configure a customized time period to submit your final forecasts. For more info, see [Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/business-calendars.md). By default, Sales Team is selected in the Forecast Hierarchy Type list and the Sales Forecasting dashboard displays the forecasts based on sales teams. To view forecasts by regions or territories, select **Territory** from the **Forecast Hierarchy Type** list. To configure a territory see, [[configure-territories|Configuring the Territory]]. For more info, see [[explore-sales-territory-management|Sales Territory Management​]].
+The Forecast Model is a framework or method used to predict future sales based on historical data, current sales activities, and other relevant factors. It helps businesses estimate the expected sales figures over a specific period, such as a quarter or year. Only one forecast model, Opportunity Amount Forecast is available to the users. You can forecast the sales for the current opportunities in the system. The **Submission Required** option is enabled by default. From the **Submission Frequency** list, select weekly, monthly, or configure a customized time period to submit your final forecasts. For more info, see [Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/business-calendars.md). By default, Sales Team is selected in the Forecast Hierarchy Type list and the Sales Forecasting dashboard displays the forecasts based on sales teams. To view forecasts by regions or territories, select **Territory** from the **Forecast Hierarchy Type** list. To configure a territory see, [Configuring the Territory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-territories.md). For more info, see [Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md).
 
 ## Forecast Category
 
@@ -63,13 +63,6 @@ You can assign sales quota targets to sales representatives and managers based o
 
 ## What to explore next
 
--   [[configure-sales-forecasting|Configure Sales Forecasting]]
--   [[using-sales-forecasting|Using Sales Forecasting]]
+-   [Configure Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-forecasting.md)
+-   [Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-## Related
-
-- [[configure-territories|Configuring the Territory]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[configure-sales-forecasting|Configure Sales Forecasting]]
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]

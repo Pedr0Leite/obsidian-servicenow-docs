@@ -22,7 +22,7 @@ Role required: sn\_spend\_psd.agent, sn\_spend\_psd.psd\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Knowledge**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Knowledge**.
 
 2.  Select **Create New Article**.
 
@@ -63,6 +63,3 @@ Role required: sn\_spend\_psd.agent, sn\_spend\_psd.psd\_admin
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]

@@ -14,11 +14,11 @@ breadcrumb: [Localize Virtual Agent topics that use NLU topic discovery, Localiz
 
 # Map a topic to a secondary NLU model
 
-Map a [[virtual-agent-landing-page|Virtual Agent]] topic to a secondary model in the model group or to a standalone, single-language NLU model for each supported language.
+Map a Virtual Agent topic to a secondary model in the model group or to a standalone, single-language NLU model for each supported language.
 
 ## Before you begin
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 If you're using ServiceNow NLU, review [NLU model mapping in Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/nlu-model-binding-vad.md) for an understanding of NLU model groups.
 
@@ -38,7 +38,7 @@ For more information, see [NLU model mapping in Virtual Agent Designer](https://
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Slide the discovery type toggle switch to **NLU/keyword** toggle, and open a topic.
 
@@ -71,9 +71,3 @@ For more information, see [NLU model mapping in Virtual Agent Designer](https://
 
 **Parent Topic:**[Localize Virtual Agent topics that use NLU topic discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-lf-translate-va-nlu.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

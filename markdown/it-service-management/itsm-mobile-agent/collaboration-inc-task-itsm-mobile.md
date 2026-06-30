@@ -14,8 +14,5 @@ breadcrumb: [My incidents, Managing incidents and tasks using My Work applet, IT
 
 # Collaboration with incident tasks
 
-Initiate and manage the collaboration for incident task records from the [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+Initiate and manage the collaboration for incident task records from the ITSM Mobile Agent app.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

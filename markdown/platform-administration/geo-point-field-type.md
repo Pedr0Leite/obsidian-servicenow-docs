@@ -41,7 +41,7 @@ Function fields provide several glidefunction operations for working with geo po
     ```
 
 
-See [[platform-support-functions|Function field]].
+See [Function field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-support-functions.md).
 
 Values for geo points are in longitude, latitude format where:
 
@@ -50,6 +50,3 @@ Values for geo points are in longitude, latitude format where:
 -   The latitude range is \[-90, 90\].
 -   Values entered outside the ranges for longitude or latitude are normalized to values inside their respective ranges.
 
-## Related
-
-- [[platform-support-functions|Function field]]

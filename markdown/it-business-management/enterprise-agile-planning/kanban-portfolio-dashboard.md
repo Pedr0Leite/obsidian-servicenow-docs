@@ -14,7 +14,7 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 # Kanban Portfolio dashboard in EAP
 
-The Kanban [[c_PortfolioManagerDashboard|Portfolio dashboard]] in Enterprise Agile Planning \(EAP\) provides progress metrics and work item status for your EAP portfolios of the Kanban configuration.
+The Kanban Portfolio dashboard in Enterprise Agile Planning \(EAP\) provides progress metrics and work item status for your EAP portfolios of the Kanban configuration.
 
 \[Omitted image "eap-dashboard-kanban-portfolio.png"\] Alt text: Kanban Portfolio dashboard in Enterprise Agile Planning.
 
@@ -26,7 +26,7 @@ sn\_apw\_advanced.eap\_read\_only or the sn\_apw\_advanced.eap\_user.
 
 To open the dashboard:
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 2.  From the Agile structure section of the navigation panel, choose your Kanban EAP Portfolio.
 3.  Select the **Home** tab.
 
@@ -114,8 +114,3 @@ Distribution of work items for the selected attribute. You can group the data us
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

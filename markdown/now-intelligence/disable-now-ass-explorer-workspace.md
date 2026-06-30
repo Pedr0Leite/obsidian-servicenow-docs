@@ -35,8 +35,5 @@ Role required: now\_assist\_explorer\_admin or higher
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[configure-now-ass-explorer|Configure AI Data Explorer]]
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-now-ass-explorer.md)
 
-## Related
-
-- [[configure-now-ass-explorer|Configure AI Data Explorer]]

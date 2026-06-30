@@ -14,7 +14,7 @@ breadcrumb: [Configuration, Hardening settings, Platform Security]
 
 # Require write access to access service catalog add item page
 
-Use the **glide.sc.[[c_requestAPI|request]].add\_item\_write\_access** property to prevent unauthorized operations from being performed on catalog items.
+Use the **glide.sc.request.add\_item\_write\_access** property to prevent unauthorized operations from being performed on catalog items.
 
 When the **glide.sc.request.add\_item\_write\_access** system property is not set to **true**, any logged in user can access the **Add Catalog Item** UI page. This could result in unauthorized operations performed on catalog items.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ When the property is true, the user must have write access to the record in the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

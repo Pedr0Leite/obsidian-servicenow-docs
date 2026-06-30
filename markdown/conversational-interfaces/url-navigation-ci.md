@@ -149,18 +149,12 @@ Default URL mapping for records other than knowledge articles, Service Catalog i
 </table>
 ## Smart links
 
-As an admin, you can specify the target for URL links based on patterns that you specify. For example, if you want all KB articles to open in a new window, you can configure the mapping in general chat settings. For more information, see [[create-smart-link-preference|Create a smart link preference]].
+As an admin, you can specify the target for URL links based on patterns that you specify. For example, if you want all KB articles to open in a new window, you can configure the mapping in general chat settings. For more information, see [Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md).
 
--   **[[ac-configure-url-navigation|Configure URL navigation for chat links]]**  
-Configure the portals in which links to ServiceNow records in Live Agent and [[virtual-agent-landing-page|Virtual Agent]] conversations are opened, including links in output cards and cards for Virtual Agent notifications and AI Search results.
+-   **[Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md)**  
+Configure the portals in which links to ServiceNow records in Live Agent and Virtual Agent conversations are opened, including links in output cards and cards for Virtual Agent notifications and AI Search results.
 -   **[Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md)**  
 Create smart links to specify where a URL should open. For example, the URL could open in a new browser window, in a new browser tab, in the chat window, or in a pop-up window.
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[create-smart-link-preference|Create a smart link preference]]
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[ci-configuring-chat-features|General chat settings]]
-- [[virtual-agent-landing-page|Virtual Agent]]

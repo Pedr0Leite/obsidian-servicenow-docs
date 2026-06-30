@@ -15,7 +15,7 @@ breadcrumb: [Configure agentic workflows, Configure, Now Assist in CM Pro, Contr
 
 # Activate business rules for the Manage contract repository agentic workflow
 
-Activate the Agentic AI - Set reminders for contract and the Agentic AI Set reminders for Econtract business rules to autonomously run the [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]].
+Activate the Agentic AI - Set reminders for contract and the Agentic AI Set reminders for Econtract business rules to autonomously run the Manage contract repository agentic workflow.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Role required: admin
 
 ## Result
 
-The Manage contract repository agentic workflow is activated for [[cncore-now-assit-landing|Now Assist in Contract Management]].
+The Manage contract repository agentic workflow is activated for Now Assist in Contract Management.
 
 **Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-agentic-workflow.md)
 
@@ -65,7 +65,3 @@ The Manage contract repository agentic workflow is activated for [[cncore-now-as
 
 [Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

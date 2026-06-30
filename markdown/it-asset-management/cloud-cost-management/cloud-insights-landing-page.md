@@ -36,7 +36,7 @@ Watch this short video for an introduction to the Cloud Cost Management applicat
 
 </td></tr><tr><td>
 
-[Cloud Cost Management Infra Stack\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Learn the key features and business value that the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application offers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ccm-infra-stack.md)
+[Cloud Cost Management Infra Stack\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Learn the key features and business value that the Cloud Cost Management Infra Stack application offers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ccm-infra-stack.md)
 
 </td><td>
 
@@ -57,6 +57,3 @@ Watch this short video for an introduction to the Cloud Cost Management applicat
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]

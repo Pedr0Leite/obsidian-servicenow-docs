@@ -14,7 +14,7 @@ breadcrumb: [Promote a legal request to a legal matter through Mobile Agent, Wor
 
 # Attach files to a legal matter through Mobile Agent
 
-Upload supporting documentation, such as documents, copies of email messages, images, or any other files into the artifact while you are working on a legal matter or matter task. You can also use these artifacts as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] material to solve similar requests in future.
+Upload supporting documentation, such as documents, copies of email messages, images, or any other files into the artifact while you are working on a legal matter or matter task. You can also use these artifacts as a reference material to solve similar requests in future.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
     **Note:** If a file is no longer required for the legal matter, you can remove the file by tapping the delete icon \(\[Omitted image "delete-icon.png"\] Alt text: Delete icon.\).
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

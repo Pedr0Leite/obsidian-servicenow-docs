@@ -40,7 +40,7 @@ If you are experiencing performance problems when running queries, you can modif
 
 ## Set batch size for a specific saved query
 
-Configure a custom batch size for a [[cmdb-query-builder-landing-page|CMDB Query Builder]] saved query that takes a long time to complete or that times out. A custom batch size overrides the global batch size in the base system and the value of the **glide.cmdb.query.batch.size** system property.
+Configure a custom batch size for a CMDB Query Builder saved query that takes a long time to complete or that times out. A custom batch size overrides the global batch size in the base system and the value of the **glide.cmdb.query.batch.size** system property.
 
 ### Before you begin
 
@@ -60,6 +60,4 @@ Contact Support for assistance in calculating the batch size for your query.
 
     Set the value to be greater than the global value in the [glide.cmdb.query.batch.size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-sysproprties.md) property, or increase any existing value.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

@@ -14,7 +14,7 @@ breadcrumb: [Google Maps, Set up workforce, Configure, Field Service Management]
 
 # System properties for Google Maps in FSM
 
-[[fsm-application-landing-page|Field Service Management]] requires Google Maps configuration for users to view maps and operate location features properly.
+Field Service Management requires Google Maps configuration for users to view maps and operate location features properly.
 
 ## Before you begin
 
@@ -33,12 +33,9 @@ Role required: wm\_admin
 **|Navigate to**All** &gt; **Field Service** &gt; **Administration** &gt; **Properties** &gt; **Route optimization**|
     |**Dynamic SchedulingAuto assigns tasks and adapts to changing conditions, as well as needing to focus only on exception cases.
 
-**|Navigate to**All** &gt; **Field Service** &gt; **[[dynamic-scheduling|Dynamic scheduling]] administration** &gt; **Properties** &gt; **Distance calculation method**|
+**|Navigate to**All** &gt; **Field Service** &gt; **Dynamic scheduling administration** &gt; **Properties** &gt; **Distance calculation method**|
     |**Last MileShows how far an agent’s location is from a task location and calculates an estimated arrival time.
 
 **|Navigate to**All** &gt; **Field Service** &gt; **Administration** &gt; **Properties** &gt; **Agent Expected Arrival time calculation**|
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

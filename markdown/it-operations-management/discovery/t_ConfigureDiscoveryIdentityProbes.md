@@ -14,7 +14,7 @@ breadcrumb: [Discovery identifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Configure Discovery identity probes
 
-Identity probes are multi-probes, which contain one or more simple probes configured to extract specific information from manageable devices. You can create your own identity multi-probe to identify CIs that [[r-discovery|Discovery]] does not already identify.
+Identity probes are multi-probes, which contain one or more simple probes configured to extract specific information from manageable devices. You can create your own identity multi-probe to identify CIs that Discovery does not already identify.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Identity probes return such information as device serial numbers \(there can be 
 
 **Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryIdentifiers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

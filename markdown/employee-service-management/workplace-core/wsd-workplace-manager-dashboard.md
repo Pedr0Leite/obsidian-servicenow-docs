@@ -14,11 +14,11 @@ breadcrumb: [Workplace dashboards, Analytics and Reporting, Workplace Core, Work
 
 # Workplace manager dashboard
 
-Use the [[workplace-manager-dashboard|Workplace manager dashboard]] to monitor the space allocation and workplace maintenance activities at your office campus. For any given day, you can view the details for available spaces, space reservations, pending workplace requests, arrival times for different locations, employee arrivals, and maintenance tasks.
+Use the Workplace manager dashboard to monitor the space allocation and workplace maintenance activities at your office campus. For any given day, you can view the details for available spaces, space reservations, pending workplace requests, arrival times for different locations, employee arrivals, and maintenance tasks.
 
 \[Omitted image "workplace-mgr-dashboard.png"\] Alt text: Workplace manager dashboard
 
-To access the Workplace Manager Dashboard, navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[workplace-dashboards-wsd-core|Workplace dashboards]]** &gt; **Safety management**.
+To access the Workplace Manager Dashboard, navigate to **Workplace Core** &gt; **Workplace dashboards** &gt; **Safety management**.
 
 Selecting a region, site, and a campus in the Workplace Report Filter at the top of the dashboard displays reports for that campus.
 
@@ -72,8 +72,3 @@ sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[Workplace dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-workplace-dashboards.md)
 
-## Related
-
-- [[workplace-manager-dashboard|Workplace Manager Dashboard]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]

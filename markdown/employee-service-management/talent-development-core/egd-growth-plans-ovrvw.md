@@ -18,12 +18,12 @@ Build your growth plan to organize and track your career goals.
 
 Growth plans are a simplified and intuitive way to build growth plans that give your career goals guidance and structure and are used to do the following:
 
--   [[egd-create-growth-plan|Create a growth plan]].
+-   Create a growth plan.
 -   View tasks connected to your growth plan such as trainings or connections with peers or managers.
 -   View growth plan items and their state, progress, and status updates.
 -   View growth plan details such as due dates and plan activities, plan status, and edit your plan details.
 -   View and add additional plan activities.
--   Learn more about how growth plans can help you develop and [[discover-lxp|discover]] new opportunities.
+-   Learn more about how growth plans can help you develop and discover new opportunities.
 
 **Note:** Create a growth plan based on your aspirations and conversations or you can build a growth plan from scratch based off criteria selected during the creation of your growth plan.
 
@@ -53,7 +53,7 @@ Build a growth plan \(from scratch\)
 
 </td><td>
 
-Takes you through the steps to build a new growth plan based on review activities or trending [[exploring-learning-exp|learning]] courses.
+Takes you through the steps to build a new growth plan based on review activities or trending learning courses.
 
 1:1 Check-in with your manager is Required.
 
@@ -75,7 +75,7 @@ Your next tasks
 
 Shows you activities that help you stay on track by completing some tasks that need your attention.
 
-You can start any [[activity-lxp|activity]] listed in this section. The status of a plan item might be listed as any one of the following \(upcoming, required, overdue, due soon, and up next\).
+You can start any activity listed in this section. The status of a plan item might be listed as any one of the following \(upcoming, required, overdue, due soon, and up next\).
 
 </td></tr><tr><td>
 
@@ -111,9 +111,3 @@ Shows you plan details such as plan status \(all, completed, canceled\), name, s
 
 **Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 
-## Related
-
-- [[egd-create-growth-plan|Create a growth plan]]
-- [[discover-lxp|Discover]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

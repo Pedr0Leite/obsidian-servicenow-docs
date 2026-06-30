@@ -17,16 +17,16 @@ View warnings and errors for instance processes, records, and non-critical event
 The following information is tracked in the system log:
 
 -   Workflows
--   [[sc-configuration|Configuration]]
+-   Configuration
 -   Chats sessions
 -   Transactions for each view of each page in the system, including load times for network, server, and browser
--   Inbound and outbound [[email|email]]
+-   Inbound and outbound email
 -   Events triggered in the system
 -   Imports and integrations
--   System warnings, errors, and script [[logs|logs]]
+-   System warnings, errors, and script logs
 -   Upgrade information for any plugin activations, update sets, or system upgrades
 
-Log entries appear for the current day only. To view other log files, [[r_LogUtilities|use the log file browser]].
+Log entries appear for the current day only. To view other log files, use the log file browser.
 
 Syslog messages serve diagnostic and maintenance purposes. Log messages can have different owners and may not require action from all readers. Check the message source to determine relevance and ownership. The following fields describe the attributes of each message.
 
@@ -63,7 +63,7 @@ Message
 
 </td><td>
 
-System-generated message regarding the nature of the occurrence.**Note:** Long messages and stack traces are collapsed by default and can be expanded. To disable, see [[diable-system-log-display|Disable stack trace formatting in system logs]].
+System-generated message regarding the nature of the occurrence.**Note:** Long messages and stack traces are collapsed by default and can be expanded. To disable, see [Disable stack trace formatting in system logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/diable-system-log-display.md).
 
 </td></tr><tr><td>
 
@@ -112,10 +112,3 @@ Name of the application package associated with the occurrence. Select the name 
 -   Type of object being changed
 -   View in which the change was made, for form or list changes
 
-## Related
-
-- [[diable-system-log-display|Disable stack trace formatting in system logs]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]
-- [[logs|Logs]]
-- [[r_LogUtilities|Use the log file browser]]

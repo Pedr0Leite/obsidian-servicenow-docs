@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Verify the configuration of entity filters
 
-Verify that [[what-is-an-entity-filter|entity filters]] are configured correctly and produce accurate results. Confirm that filters are active, assigned to the correct [[entity-type-in-risk-ws|entity types]], and use valid field conditions. If possible, test your filter logic directly in the source CMDB table to see which records match your criteria. This proactive verification helps you capture the right data without including unwanted records.
+Verify that entity filters are configured correctly and produce accurate results. Confirm that filters are active, assigned to the correct entity types, and use valid field conditions. If possible, test your filter logic directly in the source CMDB table to see which records match your criteria. This proactive verification helps you capture the right data without including unwanted records.
 
 ## Before you begin
 
@@ -28,7 +28,4 @@ Role required: sn\_oper\_res.manager
 
     Note the Filter condition that displays a summary of criteria.
 
-## Related
 
-- [[what-is-an-entity-filter|Entity filters]]
-- [[entity-type-in-risk-ws|Entity types]]

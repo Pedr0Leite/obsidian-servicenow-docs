@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Enable Problem Management models
 
-Enable the [[problem-mgmt-models|Problem Management models]] system property so that you can create and use custom [[c_Models|models]].
+Enable the Problem Management models system property so that you can create and use custom models.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ Problem Management models are enabled.
 
 **Next topic:**[Create a problem model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-model.md)
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]

@@ -26,7 +26,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Enterprise Agile Planning** &gt; **SAFe Migration requests**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Enterprise Agile Planning** &gt; **SAFe Migration requests**.
 
 2.  Select **New**.
 
@@ -41,7 +41,7 @@ Role required: sn\_apw\_advanced.eap\_admin
         For example, submit migration requests in the sequence of PI 1 &gt; PI 2 &gt; PI 3 and so on.
 
     -   If the composition of a SAFe ART has been changed any time after it is created, it is suggested to migrate only those PIs that have the current composition of the ART.
-    -   For a [[portfolio-overview|Portfolio SAFe]] migration, if a SAFe Epic is associated with SAFe Features but is not linked to any Portfolio, then this Epic will not be migrated by the automated migration.
+    -   For a Portfolio SAFe migration, if a SAFe Epic is associated with SAFe Features but is not linked to any Portfolio, then this Epic will not be migrated by the automated migration.
     -   Migration can be run multiple times for the same criteria. In such case, any newly created records will be migrated to EAP.
     -   If changes are made to already migrated SAFe records, these changes will not be synched with the EAP records.
 4.  Select **Submit**.
@@ -60,7 +60,3 @@ Monitor the progress of data migration:
 
 [Add Agile Team type to SAFe groups for EAP migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/change-safe-groups-type-to-agile-team.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-overview|Portfolio SAFe]]

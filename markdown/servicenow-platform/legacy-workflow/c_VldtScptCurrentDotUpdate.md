@@ -14,7 +14,7 @@ breadcrumb: [Workflow validator, Workflow validation, Workflow management, Class
 
 # ValidateScriptForCurrentDotUpdate
 
-The **ValidateScriptForCurrentDotUpdate** validator finds [[c_WorkflowActivities|workflow activities]] with scripts that use the current.update\(\) function.
+The **ValidateScriptForCurrentDotUpdate** validator finds workflow activities with scripts that use the current.update\(\) function.
 
 Calling current.update\(\) causes significant performance delays in transaction processing and might cause an instance to hang.
 
@@ -25,7 +25,7 @@ Calling current.update\(\) causes significant performance delays in transaction 
 -   Valid Result: Valid
 -   Valid Message: The JavaScript in this workflow has no instances of 'current.update\(\)'.
 -   Invalid Result: Invalid
--   Invalid Message: This workflow uses 'current.update\(\)' in &lt;count of current.update [[reference-document-management|references]]&gt; JavaScript statements.
+-   Invalid Message: This workflow uses 'current.update\(\)' in &lt;count of current.update references&gt; JavaScript statements.
 -   Suggested Action: Remove current.update\(\) from the activity scripts cited by this validator. Workflows execute within a transaction, and current is updated, or possibly inserted, at the end of the transaction, as appropriate. There is no need to explicitly update the record during the transaction.
 -   Publishable: Yes
 -   Runnable: Yes
@@ -39,7 +39,7 @@ A workflow initiates execution in one of these ways:
 
 The workflow engine initiates a workflow based on the matched criteria of the current record being inserted. The transaction for current is managed by the script engine and not the workflow. Workflows that progress on the update\(\) of the current record are not invoked via the workflow engine, but as a call from either a client script or business rule. In either case, the script engine is invoked, and the current record is put in memory. Edits and modifications to any current fields are made and are available to other activities and scripts that are executed in the same transaction.
 
-When appropriate, other engines that run in sequence with the workflow engine, such as the business rule engine or field normalization, are invoked against the same current record transaction. Any changes made to current through these scripts and activities modify the record in memory. These changing values are available for [[reference|reference]] in any other transactions called from activities and scripts in the same INSERT transaction. When all expected changes are executed, the current record is inserted.
+When appropriate, other engines that run in sequence with the workflow engine, such as the business rule engine or field normalization, are invoked against the same current record transaction. Any changes made to current through these scripts and activities modify the record in memory. These changing values are available for reference in any other transactions called from activities and scripts in the same INSERT transaction. When all expected changes are executed, the current record is inserted.
 
 When one of these scripts calls current.update\(\) on a record that has yet to be inserted, the action forces an unnecessary and error-prone database transaction. If a record is not yet in the database, it cannot be updated. Business rules that trigger on update\(\) on a record that is in the process of being inserted can cause a very unstable and potentially infinite looping condition.
 
@@ -49,8 +49,3 @@ This validator detects the use of current.update\(\) in any of the editable scri
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]

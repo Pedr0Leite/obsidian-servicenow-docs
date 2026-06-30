@@ -28,7 +28,7 @@ When configuring the setup for multiple users using a shared device, keep these 
 
 -   **Pre-loginand device sharing compatibility**
 
-    The shared device and pre-login \(branded landing page\) features are designed for different personas and cannot work in parallel. If the pre-login feature is configured, the device sharing option is hidden. For more information, see [[branded-landing-page|Branded landing page for a single instance]].
+    The shared device and pre-login \(branded landing page\) features are designed for different personas and cannot work in parallel. If the pre-login feature is configured, the device sharing option is hidden. For more information, see [Branded landing page for a single instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/branded-landing-page.md).
 
     If the pre-login feature is configured on an instance after a device is already in shared mode, existing shared devices are not impacted. However, any new devices connecting to that instance cannot be used in shared mode.
 
@@ -40,7 +40,7 @@ When configuring the setup for multiple users using a shared device, keep these 
     -   An inactive user on the device logs back in.
     -   A new user is added.
     -   A pull-to-refresh has taken place while a user is logged in.
--   **[[sg-mobile-security-push-notif|Push notifications]]**
+-   **Push notifications**
 
     Push notifications are disabled by default in shared device mode. When enabling push notifications on a shared device, be aware that other users on the device may be able to see each others notifications. Depending on the context of use, this could raise privacy or security concerns.
 
@@ -57,7 +57,7 @@ When configuring the setup for multiple users using a shared device, keep these 
 
 -   **MAM app configuration**
 
-    Changes to either the **SNDefaultInstanceURL** or **SNDefaultInstanceName** properties in the MAM app configuration will not take effect once the application is converted to shared device mode. For more information, see [[appconfig|AppConfig for Mobile Apps]].
+    Changes to either the **SNDefaultInstanceURL** or **SNDefaultInstanceName** properties in the MAM app configuration will not take effect once the application is converted to shared device mode. For more information, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/appconfig.md).
 
     **Note:** When using MAM/MDM with the multi-user feature, only the policies of the user who first authenticates into MAM/MDM are applied, even after the app is converted to shared mode.
 
@@ -73,15 +73,8 @@ When configuring the setup for multiple users using a shared device, keep these 
 
     The following features are not available in shared mode:
 
-    -   [[mobile-impersonation|Mobile impersonation]]
+    -   Mobile impersonation
     -   Biometric login
     -   Location tracking
-    -   The ability to work in [[mobile-offline-mode|offline mode]]
+    -   The ability to work in offline mode
 
-## Related
-
-- [[branded-landing-page|Branded landing page for a single instance]]
-- [[appconfig|AppConfig for Mobile Apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-impersonation|Mobile impersonation]]
-- [[mobile-offline-mode|Offline mode]]

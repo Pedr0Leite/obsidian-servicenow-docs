@@ -27,7 +27,7 @@ Role required: sn\_hcls.admin
 
 ## About this task
 
-By default, the application provides a few sample dosage characteristics for the [[hcls-overview|Healthcare and Life Sciences]] workflows that you can as a reference when creating a dosage characteristic. All the same dosage characteristics are associated with the Dosage Characteristics group.
+By default, the application provides a few sample dosage characteristics for the Healthcare and Life Sciences workflows that you can as a reference when creating a dosage characteristic. All the same dosage characteristics are associated with the Dosage Characteristics group.
 
 ## Procedure
 
@@ -142,6 +142,4 @@ Additional information about the dosage specification.
 
     2.  On the Dosage specification form, click **Publish**.
 
-## Related
 
-- [[hcls-overview|Healthcare and Life Sciences]]

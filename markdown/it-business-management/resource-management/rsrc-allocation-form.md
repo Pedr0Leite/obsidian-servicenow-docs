@@ -30,7 +30,7 @@ Start date
 
 </td><td>
 
-Start date for the [[r_AllocatingResources|resource allocation]]. The start and end dates must fall within the dates of the resource plan.
+Start date for the resource allocation. The start and end dates must fall within the dates of the resource plan.
 
 </td></tr><tr><td>
 
@@ -135,6 +135,3 @@ Confirmed/Allocated cost of a project task in project currency when the PPM Stan
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]

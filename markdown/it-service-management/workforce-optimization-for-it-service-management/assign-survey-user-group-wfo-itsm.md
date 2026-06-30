@@ -26,7 +26,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|Coaching]] icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
+2.  Select the Coaching icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
 
 3.  Assign a survey to an agent or a group.
 
@@ -49,6 +49,3 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 **Parent Topic:**[Surveys in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/surveys-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

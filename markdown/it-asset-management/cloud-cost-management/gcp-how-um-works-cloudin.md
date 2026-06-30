@@ -14,7 +14,7 @@ breadcrumb: [Unused resources, Exploring Cloud Cost Management, Cloud Cost Manag
 
 # Unused resources analysis for Google Cloud
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses an optimized [[um-cloudin|Unused resources]] process for each provider.
+Cloud Cost Management uses an optimized Unused resources process for each provider.
 
 ## How Unused resources analysis works for Google Cloud
 
@@ -24,7 +24,3 @@ The Google Cloud compute engine generates the recommendations that appear in the
 
 To get the recommendations from the Google Cloud console and perform start, stop, resize, and delete operations, you must have specific roles and permissions. For detailed information on these permissions, see [Setup roles for Google Cloud billing download](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-user-policy-create-cloudin.md).
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[um-cloudin|Unused resources]]

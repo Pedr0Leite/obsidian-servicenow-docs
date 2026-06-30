@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Sales CRM for Telecommunications, Telecommunications
 
 # Using agentic workflows in Now Assist for Sales CRM for Telecommunications
 
-Use the [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]] to complete tasks autonomously.
+Use the Now Assist for Sales CRM for Telecommunications to complete tasks autonomously.
 
 Enable security implementation to execute AI agents and agentic workflows through access control lists \(ACLs\) and user identities. ACLs provide the Run As capability to let agents and agentic workflows execute actions either as a dynamic user or as an AI user. For more information, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
@@ -28,6 +28,3 @@ Once you [duplicate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]]

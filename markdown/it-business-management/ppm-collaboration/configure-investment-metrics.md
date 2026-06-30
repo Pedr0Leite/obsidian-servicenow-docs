@@ -14,7 +14,7 @@ breadcrumb: [Investment Portal, Project Portfolio Management, Strategic Portfoli
 
 # Configure your investment metrics as widgets
 
-Configure investment metrics based on your business requirements. These metrics appear as widgets on the [[investment-portal|Investment Portal]] page.
+Configure investment metrics based on your business requirements. These metrics appear as widgets on the Investment Portal page.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: pps\_admin
 
 [Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/investment-portal.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

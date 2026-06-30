@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Create a disposal order in the Enterprise Asset Workspace
 
-[[create-disposal-order|Create a disposal order]] for an asset that has reached the end of its life cycle or is no longer functional.
+Create a disposal order for an asset that has reached the end of its life cycle or is no longer functional.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-Only assets that are associated with enterprise or palletmodels can be disposed of using an enterprise disposal order.You can add simple assets; multi-component assets, which include pre-assembled and user-assembled assets; and [[pallet-assets|pallet assets]] with children to an enterprise disposal order.
+Only assets that are associated with enterprise or palletmodels can be disposed of using an enterprise disposal order.You can add simple assets; multi-component assets, which include pre-assembled and user-assembled assets; and pallet assets with children to an enterprise disposal order.
 
 **Note:** If you are adding a multi-component asset or a pallet asset with children to a disposal order, any changes that you make to the parent asset are automatically applied to all child assets.
 
@@ -34,7 +34,7 @@ The disposal order goes through various stages before it’s completed. Each sta
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory** &gt; **Disposal orders**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Inventory** &gt; **Disposal orders**.
 
 2.  Select **New**.
 
@@ -177,8 +177,3 @@ Vendor that you want to dispose the asset to.
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[create-disposal-order|Create a disposal order]]
-- [[pallet-assets|Pallet assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure KPI groups, Configure, Digital Portfolio Management, IT S
 
 # Configure KPIs in Digital Portfolio Management with service availability example
 
-Configure key performance indicators \(KPIs\) in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to surface performance information in the context of your solutions. This procedure uses the example of configuring service availability to display the availability score in the Run life-cycle phase.
+Configure key performance indicators \(KPIs\) in Digital Portfolio Management \(DPM\) to surface performance information in the context of your solutions. This procedure uses the example of configuring service availability to display the availability score in the Run life-cycle phase.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Configure key performance indicators \(KPIs\) in [[dpm-landing|Digital Portfolio
 
 As a user with the sn\_dpm.dpm\_admin role, you can configure KPIs to display in DPM. This task uses the Outage and Availability KPI group to show how to configure the service availability KPI.
 
-**Note:** You must have [[SPM2-landing-page|Service Portfolio Management]] premium subscription to perform this task. This premium subscription automatically installs if you have DPM installed.
+**Note:** You must have Service Portfolio Management premium subscription to perform this task. This premium subscription automatically installs if you have DPM installed.
 
 For general information about KPI groups, see [KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi.md).
 
@@ -162,7 +162,3 @@ Mapping that you want to associate with this KPI group. The fields that are disp
 
 [Create KPI groups and mappings in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-kpi-groups.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]

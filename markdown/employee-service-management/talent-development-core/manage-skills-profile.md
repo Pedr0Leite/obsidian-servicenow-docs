@@ -14,13 +14,13 @@ breadcrumb: [Exploring Skills Foundation, Skills Foundation, Growth Experiences,
 
 # Career tab in Employee Center
 
-View update, and manage all aspects of your career using the **Career** tab in [[employee-center-landing-page|Employee Center]].
+View update, and manage all aspects of your career using the **Career** tab in Employee Center.
 
 Role required: sn\_skills\_int.emp
 
 The **Career** tab contains various widgets to manage your work data like, experience, aspirations, and skills in your profile.
 
-**Note:** The **Career** tab and the widgets are activated with the installation of the [[skills-intelligence|Skills Foundation]] application driven by the sn\_skills\_int.enable\_skills property. For more information, see [Add the Career tab and enable the Skills widget in the Employee Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-career-tab.md).
+**Note:** The **Career** tab and the widgets are activated with the installation of the Skills Foundation application driven by the sn\_skills\_int.enable\_skills property. For more information, see [Add the Career tab and enable the Skills widget in the Employee Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-career-tab.md).
 
 ## Role details
 
@@ -31,7 +31,7 @@ View your business title, role group and your role specialty that accurately ref
 **Note:**
 
 -   The Business title is derived from the Employee position table \(sn\_employee\_position\) where the primary role is marked as true because an employee can have multiple job profiles.
--   The Employee position table updates whenever the [[c_HRProfileRecords|HR profile]] table \(sn\_skills\_int\_job\_profile\) is updated.
+-   The Employee position table updates whenever the HR profile table \(sn\_skills\_int\_job\_profile\) is updated.
 -   A scheduled job synchronizes the HR jobs table \(sn\_hr\_core.job\) and HR profiles table, ensuring accurate data during integration.
 -   The Job code in the Job profile table \(sn\_skills\_int\_job\_profile\) and HR jobs table \(sn\_hr\_core.job\) should match for the Role specialty to be populated.
 
@@ -49,7 +49,7 @@ Import and view your accomplishments as credentials from Credly by syncing the b
 
 ## Upload Resume/LinkedIn Profile
 
-Get your existing skill set quickly by uploading your resume or LinkedIn profile to your [[emp-slate-employee-profile|Employee Profile]] using the **Upload resume or LinkedIn profile** button. For more information on the import process, see [Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md).
+Get your existing skill set quickly by uploading your resume or LinkedIn profile to your Employee Profile using the **Upload resume or LinkedIn profile** button. For more information on the import process, see [Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md).
 
 ## Skills
 
@@ -68,7 +68,7 @@ There are three sections within the skills widget. All the skills within these s
 
 -   **Essential skills**
 
-    This section displays the skills that are derived from your associated role group based on your current position. You can use the essential skills section to determine the skills required for the role and see the recommended [[exploring-learning-exp|learning]] opportunities to bridge the skill gaps. You can also focus on excelling in the skills and pursue growth opportunities. For more information, see [Selecting a Role specialty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/select-role-speciality.md).
+    This section displays the skills that are derived from your associated role group based on your current position. You can use the essential skills section to determine the skills required for the role and see the recommended learning opportunities to bridge the skill gaps. You can also focus on excelling in the skills and pursue growth opportunities. For more information, see [Selecting a Role specialty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/select-role-speciality.md).
 
 -   **Additional skills**
 
@@ -85,10 +85,3 @@ Displays the experience journey in your organization with the roles that you hav
 
 \[Omitted image "skills-int-experience.png"\] Alt text: Experience
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[skills-intelligence|Skills Foundation]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[exploring-learning-exp|Learning]]

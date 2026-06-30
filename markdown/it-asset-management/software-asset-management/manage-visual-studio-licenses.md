@@ -14,13 +14,13 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 # Manage licenses for Microsoft Visual Studio
 
-Manage your Visual Studio subscriptions with the [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]. Verify license compliance and detect unlicensed installations. Reduce licensing costs by identifying subscriptions that are allocated but aren’t being used.
+Manage your Visual Studio subscriptions with the Software Asset Management publisher pack for Microsoft. Verify license compliance and detect unlicensed installations. Reduce licensing costs by identifying subscriptions that are allocated but aren’t being used.
 
 ## Before you begin
 
 Set up ServiceNow [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md) to find Microsoft software installations on your network. By using Discovery, you can view license compliance information by comparing your purchased licenses with actual installations.
 
-You must set up the environment on the Configuration Management Database \(CMDB\) before you begin. Setting up of development, production, or test environment helps [[c_SoftwareAssetMgmt|Software Asset Management]] Professional to apply licenses correctly. You should use the  Environment field  on the configuration item \(CI\).
+You must set up the environment on the Configuration Management Database \(CMDB\) before you begin. Setting up of development, production, or test environment helps Software Asset Management Professional to apply licenses correctly. You should use the  Environment field  on the configuration item \(CI\).
 
 Role required: sam\_admin
 
@@ -30,7 +30,7 @@ Visual Studio subscriptions enable developers to download, install, configure, a
 
 To access the advantages of Visual Studio Standard subscriptions, you must maintain active Microsoft Software Assurance. These benefits enable you to use a range of Microsoft products, including SQL Server, Windows Server for development and testing purposes only.
 
-First, set up [[c_CreatingSoftwareModels|software models]] and entitlements to track your Visual Studio subscriptions. Then, run reconciliation and view the License Workbench to manage license compliance.
+First, set up software models and entitlements to track your Visual Studio subscriptions. Then, run reconciliation and view the License Workbench to manage license compliance.
 
 ## Procedure
 
@@ -38,11 +38,11 @@ First, set up [[c_CreatingSoftwareModels|software models]] and entitlements to t
 
     **Important:** Fill in the **Publisher part number** column on the entitlement import template to automatically create software models for Visual Studio and all included software \(suite components\). You can look up publisher part numbers in the Software Product Definition table \[samp\_sw\_product\_definition\]. If you fill in the **Publisher part number** field, **Publisher**, **Product**, **Version**, **Edition**, **Platform**, and **Language** aren’t required because the publisher part number provides that information.
 
-    When the import is complete, software models and entitlements are automatically created for your Visual Studio subscriptions. The Visual Studio software models are automatically populated with Suite Components and [[downgrade-rights|Downgrade Rights]].
+    When the import is complete, software models and entitlements are automatically created for your Visual Studio subscriptions. The Visual Studio software models are automatically populated with Suite Components and Downgrade Rights.
 
     You can also create software entitlements manually. For details, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md).
 
-    **Important:** You can view your software models in both the Software Asset Management classic application and the [[sam-workspace|Software Asset Workspace]].
+    **Important:** You can view your software models in both the Software Asset Management classic application and the Software Asset Workspace.
 
 2.  Add product install conditions to your Visual Studio software models that apply across all software models including downgrades and editions.
 
@@ -67,10 +67,3 @@ Run a reconciliation to view your Visual Studio license compliance. Reconciliati
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[sam-workspace|Software Asset Workspace]]

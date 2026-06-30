@@ -15,7 +15,7 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 # Accounts Payable Operations integration with Document Intelligence
 
-Accounts Payable Operations integration with Document Intelligence \(com.sn\_ap\_ic\) automatically extracts invoice data from emails and creates invoice records in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]], reducing manual effort.
+Accounts Payable Operations integration with Document Intelligence \(com.sn\_ap\_ic\) automatically extracts invoice data from emails and creates invoice records in Accounts Payable Operations, reducing manual effort.
 
 Accounts Payable Operations integration with Document Intelligence uses the capabilities of the ServiceNow® Document Intelligence application to quickly and accurately extract information from invoice documents that are received as attachment via email, and creates invoice records in the Accounts Payable Operations application.
 
@@ -34,6 +34,3 @@ For more information, see [Exploring Document Intelligence](https://raw.githubus
 
 [Source-to-Pay Workspace]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

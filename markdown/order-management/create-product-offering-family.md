@@ -12,7 +12,7 @@ breadcrumb: [Configuring product offerings and catalogs, Lead-to-cash foundation
 
 # Create a product offering family
 
-Create a product offering family for products with similar or common features that have multiple variations. You can apply common [[rules_101|rules]] or attributes for product offerings at the product offering family level instead of applying them individually to each product offering.
+Create a product offering family for products with similar or common features that have multiple variations. You can apply common rules or attributes for product offerings at the product offering family level instead of applying them individually to each product offering.
 
 ## Before you begin
 
@@ -55,18 +55,12 @@ After you create product offering families, you assign a product offering to a p
 
 ## What to do next
 
-[[som-create-product-offering|Create product offerings]]
+[Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[rules_101|Rules]]

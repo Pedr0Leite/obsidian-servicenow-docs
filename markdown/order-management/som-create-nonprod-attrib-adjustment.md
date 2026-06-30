@@ -20,9 +20,9 @@ Role required: sn\_csm\_pricing.pricelist\_administrator, sn\_csm\_pricing.price
 
 ## About this task
 
-Non-product attributes are represented as context variables, which identify non-product characteristics, such as billing state or shipping zip code. [[pricing-management|Pricing Management]] provides a set of default context variables for non-product attributes. You can view the list of context variables for non-product attributes in the **Context variables** field in the Standard Price Adjustment Rule Matrix. You can also review a list of system-defined context variables in the Context Variables \[sn\_csm\_ctxrul\_mgt\_context\_variable\] table.
+Non-product attributes are represented as context variables, which identify non-product characteristics, such as billing state or shipping zip code. Pricing Management provides a set of default context variables for non-product attributes. You can view the list of context variables for non-product attributes in the **Context variables** field in the Standard Price Adjustment Rule Matrix. You can also review a list of system-defined context variables in the Context Variables \[sn\_csm\_ctxrul\_mgt\_context\_variable\] table.
 
-However, if you have a non-product attribute that is not available as a default context variable, such as sales channel, your system administrator can [[som-create-context-variable|create a custom context variable]] for that attribute. You can then use the custom context variable as an input in the decision table for the Standard Price Adjustment Matrix.
+However, if you have a non-product attribute that is not available as a default context variable, such as sales channel, your system administrator can [create a custom context variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-context-variable.md) for that attribute. You can then use the custom context variable as an input in the decision table for the Standard Price Adjustment Matrix.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ However, if you have a non-product attribute that is not available as a default 
 
 5.  If you have a large number of rows in the decision table and you want to optimize rule matrix performance, in **Query optimization variables**, select one or more context variables that the system uses to filter the pricing decision table rows that are evaluated.
 
-6.  Select the option in **Rule selection criteria** that indicates whether single or multiple [[rules_101|rules]] are applied in the Standard Adjustment Matrix.
+6.  Select the option in **Rule selection criteria** that indicates whether single or multiple rules are applied in the Standard Adjustment Matrix.
 
     If multiple rules match and the option is marked true, all applicable pricing rules are applied when evaluating adjustments for product offers. If the option isn’t selected, the first rule based on priority is applied for adjustment calculation.
 
@@ -62,11 +62,6 @@ However, if you have a non-product attribute that is not available as a default 
 
     7.  Select **Publish**.
 
-        The adjustments are available to agents when working on [[order-mgt-overview|Sales Customer Relationship Management]] transactions, such as quotes or orders and to customers using the Business Portal.
+        The adjustments are available to agents when working on Sales Customer Relationship Management transactions, such as quotes or orders and to customers using the Business Portal.
 
-## Related
 
-- [[som-create-context-variable|Create a custom context variable]]
-- [[pricing-management|Pricing Management]]
-- [[rules_101|Rules]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

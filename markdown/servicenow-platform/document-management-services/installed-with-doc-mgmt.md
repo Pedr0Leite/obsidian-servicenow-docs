@@ -14,7 +14,7 @@ breadcrumb: [References, Document Management, Document Services, Manage content 
 
 # Components installed with Document Management
 
-Several types of components are installed with activation of the [[doc-mgt-plugin|Document Management plugin]], including tables and user roles.
+Several types of components are installed with activation of the Document Management plugin, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -118,7 +118,7 @@ ds\_document\_version
 
 </td><td>
 
-Stores [[document-mgt-versions|document versions]] containing the actual document file or URL to the file.
+Stores document versions containing the actual document file or URL to the file.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ ds\_document\_references
 
 </td><td>
 
-Stores [[reference-document-management|references]] between document records and other records.
+Stores references between document records and other records.
 
 **Note:** The records can be from any other table and record on the platform
 
@@ -202,8 +202,3 @@ Stores the permalink and expiration date for the document.
 
 [Granular admin roles in Document Management]()
 
-## Related
-
-- [[doc-mgt-plugin|Document Management plugin]]
-- [[document-mgt-versions|Document versions]]
-- [[reference-document-management|References]]

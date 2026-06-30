@@ -26,7 +26,7 @@ You can also import your user badge data from an Excel spreadsheet. For more inf
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Badge Management** &gt; **User Badges**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Badge Management** &gt; **User Badges**.
 
 2.  Click **New** to add details of a new user badge or select an existing user badge to edit.
 
@@ -44,6 +44,3 @@ You can also import your user badge data from an Excel spreadsheet. For more inf
 
 **Parent Topic:**[Collecting user badge data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/badge-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

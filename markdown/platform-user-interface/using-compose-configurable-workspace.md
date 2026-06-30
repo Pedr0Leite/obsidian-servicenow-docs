@@ -14,30 +14,24 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 Learn how to send emails on a Configurable Workspace record page.
 
--   **[[compose-email|Full email composer]]**
+-   **[Full email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/compose-email.md)**
 
     Create and send an email from a separate workspace tab.
 
--   **[[compose-emails-in-the-activity-stream|Mini email composer]]**
+-   **[Mini email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/compose-emails-in-the-activity-stream.md)**
 
     Create and send and send emails without leaving the record.
 
--   **[[drag-and-drop-recipients-in-to-cc-and-bcc-email-fields|Edit and move recipients]]**
+-   **[Edit and move recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/drag-and-drop-recipients-in-to-cc-and-bcc-email-fields.md)**
 
     Edit and move recipients across the To, Cc, and Bcc email fields instead of manually removing and adding individual recipients.
 
--   **[[keyboard-and-mouse-shortcuts-for-adding-recipients-to-email|Recipient shortcuts]]**
+-   **[Recipient shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md)**
 
     Add and remove recipients in the To, Cc, and Bcc email fields by using keyboard and mouse device shortcuts instead of adding individual recipients.
 
--   **[[add-response-templates-shortcut|Use keyboard shortcuts]]**
+-   **[Use keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-response-templates-shortcut.md)**
 
     Use keyboard shortcuts to view response templates, drafts, and email templates.
 
-## Related
 
-- [[compose-email|Send emails from the full email composer]]
-- [[compose-emails-in-the-activity-stream|Send emails from the mini email composer]]
-- [[drag-and-drop-recipients-in-to-cc-and-bcc-email-fields|Edit and move email recipients]]
-- [[keyboard-and-mouse-shortcuts-for-adding-recipients-to-email|Keyboard and mouse device shortcuts for adding recipients]]
-- [[add-response-templates-shortcut|Use keyboard shortcuts for emails]]

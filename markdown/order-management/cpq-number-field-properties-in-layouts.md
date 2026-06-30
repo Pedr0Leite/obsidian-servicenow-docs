@@ -12,9 +12,9 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # Number field properties in layouts
 
-Control how number [[fields|fields]] behave and display in CPQ [[layouts|layouts]] using the step and precision properties. Define valid input intervals, enforce decimal formatting, and ensure consistent numeric entry for [[use-cases|use cases]] like quantities and currency values.
+Control how number fields behave and display in CPQ layouts using the step and precision properties. Define valid input intervals, enforce decimal formatting, and ensure consistent numeric entry for use cases like quantities and currency values.
 
-When the input parameters of a number field are defined in the [[layout_editor|layout editor]], either the step property or the precision property can be set.
+When the input parameters of a number field are defined in the layout editor, either the step property or the precision property can be set.
 
 These properties can conflict and should not be combined.
 
@@ -54,9 +54,3 @@ The step property is required for this component. Minimum and maximum values are
 
 The precision property is included and defaults to 0. The step property is not included.
 
-## Related
-
-- [[fields|Fields]]
-- [[layouts|Layouts]]
-- [[use-cases|Use cases]]
-- [[layout_editor|Layout editor]]

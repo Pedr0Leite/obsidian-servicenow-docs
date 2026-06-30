@@ -14,9 +14,9 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Preferences widget for Employee Profile
 
-User Preferences can be accessed as a separate Preferences widget for customers who have opted in for the [[emp-slate-employee-profile|Employee Profile]].
+User Preferences can be accessed as a separate Preferences widget for customers who have opted in for the Employee Profile.
 
-User Preferences on the user profile page, is available, on the [[employee-center-landing-page|Employee Center]] and [[employee-center-pro-landing|Employee Center Pro]] portal, as the **Preferences** widget for customers who have opted in to the Employee Profile.
+User Preferences on the user profile page, is available, on the Employee Center and Employee Center Pro portal, as the **Preferences** widget for customers who have opted in to the Employee Profile.
 
 If you have opted in to the Employee Profile, you can see the **Preferences** option available on the list when you select your user avatar.
 
@@ -26,8 +26,3 @@ The **User preferences** on the user profile page is no longer available for Emp
 
 However, if you have never opted in to the Employee Profile or have opted out of it, you can still see the embedded feature residing on the user profile page.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

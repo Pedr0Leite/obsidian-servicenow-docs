@@ -18,7 +18,7 @@ Requesting workstation user data enables you to collect and store data for futur
 
 The process to request workstation user data is as follows:
 
-1.  A [[task-mining|Task Mining]] analyst submits a data request in the Employee Center. For more information, see [Submit a data collection request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/request-workstation-user-logs.md).
+1.  A Task Mining analyst submits a data request in the Employee Center. For more information, see [Submit a data collection request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/request-workstation-user-logs.md).
 
     **Note:**
 
@@ -32,6 +32,4 @@ The process to request workstation user data is as follows:
 
     For more information, see [Follow data request progress](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/manage-data-log-requests.md).
 
-## Related
 
-- [[task-mining|Task Mining]]

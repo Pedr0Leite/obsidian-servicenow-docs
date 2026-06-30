@@ -12,7 +12,7 @@ breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get sta
 
 # Terms and conditions in the ServiceNow Store
 
-Learn about when terms and conditions must be accepted in the [[servicenow-store|ServiceNow Store]]. Unaccepted terms and conditions block procurement and installations.
+Learn about when terms and conditions must be accepted in the ServiceNow Store. Unaccepted terms and conditions block procurement and installations.
 
 Applications in the ServiceNow Store might use standard or custom terms and conditions. You can review and download all terms and conditions that apply to an application from its listing details page.
 
@@ -31,6 +31,3 @@ Standard terms and conditions must be accepted before you can procure or install
 
 Application providers can also include custom terms and conditions that must be accepted before their applications can be procured. If an application has custom terms and conditions, you're prompted to accept them when you procure the application from the ServiceNow Store. If the application uses custom terms and conditions, procurement and installation are blocked until the custom terms and conditions are accepted.
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]

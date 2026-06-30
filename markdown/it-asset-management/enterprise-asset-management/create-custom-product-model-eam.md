@@ -14,7 +14,7 @@ breadcrumb: [Normalizing enterprise models, Managing enterprise models and asset
 
 # Create custom enterprise product models
 
-If you have a product model that is not represented in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service yet, you can create a custom product model.
+If you have a product model that is not represented in the Enterprise Asset Management Content Service yet, you can create a custom product model.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Normalization**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Normalization**.
 
-2.  Select the **Custom enterprise product [[c_Models|models]]** tab.
+2.  Select the **Custom enterprise product models** tab.
 
 3.  Select **New**.
 
@@ -43,8 +43,4 @@ Role required: sn\_eam.enterprise\_admin
 
     After the product model is created, normalize the product model.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

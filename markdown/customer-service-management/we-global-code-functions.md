@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables reference, Reference, Customer Service Management]
 
 # Functions available in Web Embeddables global and component code
 
-ServiceNow Embeddables API enables you to integrate [[servicenow-web-components-overview|ServiceNow components]] into your external websites. These functions provide essential functionality for initialization, authentication, component management, and event handling.
+ServiceNow Embeddables API enables you to integrate ServiceNow components into your external websites. These functions provide essential functionality for initialization, authentication, component management, and event handling.
 
 ## Global code
 
@@ -127,6 +127,3 @@ Here are some key considerations to help you implement this effectively:
 -   Cache frequently used components. Use cacheComponents in init\(\) for better performance.
 -   Implement
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]

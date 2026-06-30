@@ -12,11 +12,11 @@ breadcrumb: [Configure a record UI section, Launcher screen UI sections, Launche
 
 # Configure action functions in a record section
 
-Add [[mobile-actions|action functions]], like buttons to the footer area of record sections to enable users to trigger functions within a record section and quickly perform repetitive processes. This capability can be added to [[sg-mobile-applet-launcher|launcher screens]] and section screens within a record section.
+Add action functions, like buttons to the footer area of record sections to enable users to trigger functions within a record section and quickly perform repetitive processes. This capability can be added to launcher screens and section screens within a record section.
 
 ## Before you begin
 
-To configure record section functions within a sections screen, at least one pre-configured record section must be created. For more information, see [[sg-ui-section-config-item|Configure a record UI section]].
+To configure record section functions within a sections screen, at least one pre-configured record section must be created. For more information, see [Configure a record UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 Role required: admin
 
@@ -79,7 +79,7 @@ Card
 
 </td><td>
 
-Card instance that hosts the action functions.These cards can contain one or more elements. For example, buttons, text block, and icons. Supported action functions include [[mobile-nav-functions|navigation functions]], URL links, phone calling ability, open email, open chat, and uploaded attachment.
+Card instance that hosts the action functions.These cards can contain one or more elements. For example, buttons, text block, and icons. Supported action functions include navigation functions, URL links, phone calling ability, open email, open chat, and uploaded attachment.
 
 </td></tr><tr><td>
 
@@ -125,9 +125,4 @@ Function not displayed when 'Hide if empty' field is checked
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[sg-ui-section-config-item|Configure a record UI section]]
-- [[mobile-actions|Action functions]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mobile-nav-functions|Navigation functions]]

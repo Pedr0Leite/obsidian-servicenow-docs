@@ -14,11 +14,11 @@ breadcrumb: [Cloud API \(CAPI\), Cloud Provisioning and Governance, ITOM Cloud A
 
 # CAPI classes in MID Server script includes
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] provides several JavaScript classes that make REST calls to cloud providers. These classes are called from MID Server script includes \(for Azure by default\) or from Java calls in the system \(for AWS by default\). If you create custom providers, interfaces, or CAPI APIs \(for any cloud provider\), you can use MID Server script includes to call the classes.
+Cloud Provisioning and Governance provides several JavaScript classes that make REST calls to cloud providers. These classes are called from MID Server script includes \(for Azure by default\) or from Java calls in the system \(for AWS by default\). If you create custom providers, interfaces, or CAPI APIs \(for any cloud provider\), you can use MID Server script includes to call the classes.
 
 **Note:** In CAPI APIs, there are no MID Server script includes \(in Method Mappers\) that you can customize to call the AWS classes. By default, the CAPI APIs for AWS make Java calls to then call the AWS classes. However, if you create CAPI APIs, you can also create custom script includes to call the classes.
 
-View CAPI classes by navigating to **MID Servers** &gt; **Script Includes** in the base system instance interface \(not the [[cloud-admin-portal|Cloud Admin Portal]]\). You search for the name of a class in the **Go to** search box using the **Name** column:
+View CAPI classes by navigating to **MID Servers** &gt; **Script Includes** in the base system instance interface \(not the Cloud Admin Portal\). You search for the name of a class in the **Go to** search box using the **Name** column:
 
 \[Omitted image "capi-classes-finding.png"\] Alt text: Searching for MID Server script includes
 
@@ -228,7 +228,3 @@ Class with [AWS topics](http://docs.aws.amazon.com/sns/latest/api/API_ListTopics
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

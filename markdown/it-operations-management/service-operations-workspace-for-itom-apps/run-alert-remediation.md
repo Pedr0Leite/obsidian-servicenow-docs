@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Run actions to resolve alert issues in Service Operations Workspace for ITOM
 
-Resolve the underlying issue of an alert by running predefined [[ccg-remediation|remediation]] tasks, ensuring faster issue resolution and ensuring consistent resolution.
+Resolve the underlying issue of an alert by running predefined remediation tasks, ensuring faster issue resolution and ensuring consistent resolution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_operator
 
 5.  Select the **Playbook** tab.
 
-    The **[[ccg-run-remediation|Run remediation]]** card displays the available remediation actions.
+    The **Run remediation** card displays the available remediation actions.
 
     \[Omitted image "playbook-tab.png"\] Alt text: An alert displayed in a separate tab with the Overview, Details, Related records, and Playbook sub-tabs. The Playbook subtab shows Run remediation and Alert executions cards.
 
@@ -47,8 +47,3 @@ Role required: evt\_mgmt\_operator
 
 When the action is complete, it appears in the **Completed** card underneath the Alert remediation section.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[ccg-run-remediation|Run remediation]]

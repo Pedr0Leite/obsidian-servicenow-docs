@@ -22,7 +22,7 @@ Enable SAM managers to map the entire process from software installation to lice
 
 To gain further insights into your installations, use node maps for a detailed numerical breakdown. For each product, explore the installation layer to see the product versions and editions, examine the consumption status layer to determine if the installations are licensed, unlicensed, ignored, or require action. Finally, review the licensing layer that displays the software model results.
 
-The nodes of a node map are stored in the Install Consumption Nodes \[samp\_install\_consumption\_nodes\] table and the nodes are generated during reconciliation. You can view the node map in the [[operations-workspace|License operations view]] in the Products with installs list. For details on node maps, see [View license usage for your installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-install-usage.md).
+The nodes of a node map are stored in the Install Consumption Nodes \[samp\_install\_consumption\_nodes\] table and the nodes are generated during reconciliation. You can view the node map in the License operations view in the Products with installs list. For details on node maps, see [View license usage for your installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-install-usage.md).
 
 ## Benefits to the SAM manager
 
@@ -46,6 +46,3 @@ Here are some special considerations to keep in mind for node maps:
 
 [View license usage for your installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-install-usage.md)
 
-## Related
-
-- [[operations-workspace|License operations view]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure an Emergency Outreach notification for the daily contact log
 
-As an administrator, create or configure the [[emergency-outreach|Emergency Outreach]] notification to send email and mobile push notifications to employees to ask them to submit a list of co-workers whom they have interacted with on a given day.
+As an administrator, create or configure the Emergency Outreach notification to send email and mobile push notifications to employees to ask them to submit a list of co-workers whom they have interacted with on a given day.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Administration** &gt; **Daily Log Alerts**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Administration** &gt; **Daily Log Alerts**.
 
 2.  Either edit the existing notification by opening the **Daily Contact Log** outreach record or click **New** to create one.
 
@@ -39,8 +39,8 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 5.  On the **Select targeted audience** tab, select the target audience for the notification, and click **Save**.
 
     -   You can choose from user lists, groups, departments, locations, or other search filters such as building, cost center, or country code.
-    -   If you have the ServiceNow® [[employee-health-screening|Employee Health Screening]] application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md).
-    -   If you have the ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md).
+    -   If you have the ServiceNow® Employee Health Screening application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md).
+    -   If you have the ServiceNow® Workplace Core application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md).
 6.  On the **Content configuration** tab, select a notification in the **Notification** field, and choose how to send the notification.
 
     -   To send the notification by email, select the **Email notification** check box and enter the email subject and body.
@@ -81,9 +81,3 @@ A user with the admin or sn\_imt\_checkin.checkin\_admin role can stop the sched
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

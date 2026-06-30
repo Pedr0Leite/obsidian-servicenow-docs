@@ -18,7 +18,7 @@ Configure the Export to PowerPoint add-in in your Microsoft PowerPoint to intera
 
 ## Before you begin
 
--   Let us connect your instance to the Microsoft PowerPoint using the add-in login and create a template [[portfolio-planning-app-landing-page|Portfolio Planning]] to generate a report for epic details.
+-   Let us connect your instance to the Microsoft PowerPoint using the add-in login and create a template Portfolio Planning to generate a report for epic details.
 -   Role required: sn\_ppt\_export.ppt\_user
 
 ## Procedure
@@ -129,12 +129,8 @@ Configure the Export to PowerPoint add-in in your Microsoft PowerPoint to intera
 
 10. Save the Microsoft PowerPoint file in the `.pptx` format with a maximum of 50 slides and file size not exceeding 15 MB.
 
-    **Note:** The [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] application comes with default templates which you can use to generate reports and consider as a reference to create templates.
+    **Note:** The Export to PowerPoint for Strategic Portfolio Management application comes with default templates which you can use to generate reports and consider as a reference to create templates.
 
 
 **Parent Topic:**[Using Export to PowerPoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/using-export-to-ppt.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]

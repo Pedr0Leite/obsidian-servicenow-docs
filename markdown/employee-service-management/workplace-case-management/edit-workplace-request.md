@@ -38,17 +38,17 @@ If you have created a request from a workplace reservation, you can only edit th
 -   Based on the configuration set by your admin, you might not be able to edit a request.
 -   Editing a request is only supported for open requests. If a request is closed or complete, it can't be edited.
 -   Editing a request is supported only if the request contains workplace service items.
--   If all the [[workplace-services|workplace services]] of a request are fulfilled, the request can't be edited, even if it's an open request.
+-   If all the workplace services of a request are fulfilled, the request can't be edited, even if it's an open request.
 -   Service items that are within the lead time can't be modified.
 
 Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     1.  On the Employee Center landing homepage, select the **Workplace Services** &gt; **Maintenance**.
-    2.  Select **[[submit-a-maintenance-request|Submit a maintenance request]]**.
+    2.  Select **Submit a maintenance request**.
 2.  On the Employee Center landing page, select **My Requests**.
 
 3.  From the My Requests list, select the workplace request that you want to edit.
@@ -81,7 +81,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -101,9 +101,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Submit a change event request for a reservation]()
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-a-maintenance-request|Submit a maintenance request]]
-- [[space-assistance|Space assistance]]

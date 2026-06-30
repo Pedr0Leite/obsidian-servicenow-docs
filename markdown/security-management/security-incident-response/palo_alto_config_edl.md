@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks Next-Generation Firewall integration, Security I
 
 # Create an EDL for Palo Alto Networks Next-Generation Firewall
 
-Create an External Dynamic List \(EDL\) in your ServiceNow AI Platform instance. Once approved and activated, you can create entries for EDLs from [[c_Observables|observables]] determined to be malicious on ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) incidents and request approval to block them.
+Create an External Dynamic List \(EDL\) in your ServiceNow AI Platform instance. Once approved and activated, you can create entries for EDLs from observables determined to be malicious on ServiceNow AI Platform Security Incident Response \(SIR\) incidents and request approval to block them.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Description
 
 </td><td>
 
-Palo Alto Networks Firewall Dynamic List name. Include the observable type \(URL, IP, domain\) in this field so the security analyst can easily recognize the intention of the EDL by its name. The name should also clearly indicate what firewall policy these EDL objects are mapped to. Some examples of EDL names are, Outbound [[threat-intelligence-malware|Malware]] IP, or Outbound Phishing URL.
+Palo Alto Networks Firewall Dynamic List name. Include the observable type \(URL, IP, domain\) in this field so the security analyst can easily recognize the intention of the EDL by its name. The name should also clearly indicate what firewall policy these EDL objects are mapped to. Some examples of EDL names are, Outbound Malware IP, or Outbound Phishing URL.
 
 </td></tr><tr><td>
 
@@ -221,7 +221,7 @@ Delete the record.
 
 ## What to do next
 
-[[paloalto_activate_edl_manually|Activate an EDL manually]], or with a ServiceNow AI Platform change request.
+Activate an EDL manually, or with a ServiceNow AI Platform change request.
 
 **Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_integration.md)
 
@@ -229,9 +229,3 @@ Delete the record.
 
 **Next topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-activate-edl.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[paloalto_activate_edl_manually|Activate an EDL manually]]

@@ -38,13 +38,13 @@ Action
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Inventory** &gt; **Stock** &gt; **[[c_StockRules|Stock Rules]]**.
+1.  Navigate to **All** &gt; **Inventory** &gt; **Stock** &gt; **Stock Rules**.
 2.  Select **New**.
 
 
 </td></tr><tr><td id="d273976e102">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
@@ -86,7 +86,7 @@ Restocking option
 
 </td><td>
 
-Location where additional supplies should come from. If [[c_Procurement|Procurement]] isn’t active, then restocking option is **Stockroom** only. Otherwise, select one of the following:
+Location where additional supplies should come from. If Procurement isn’t active, then restocking option is **Stockroom** only. Otherwise, select one of the following:
 
  -   **Stockroom**: Creates a transfer order to obtain the asset from another stockroom.
 -   **Vendor**: Sends an email to the stockroom manager to order from a vendor. In addition to the email notification, a purchase order and purchase order line item are created.
@@ -136,8 +136,3 @@ Minimum order quantity for stockroom transfers or vendor purchases. ServiceNow c
 
 [Stock rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_StockRules.md)
 
-## Related
-
-- [[c_StockRules|Stock rules]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Procurement|Procurement]]

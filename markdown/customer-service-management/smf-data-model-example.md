@@ -12,7 +12,7 @@ breadcrumb: [Data model, Overview, Configure Service Model Foundation, Data mode
 
 # Industry-specific data model scenarios
 
-The [[data-models-smf|Service Model Foundation data model]] is vital for modeling the business organization structure. It can be configured and applied across different industry verticals. Each example demonstrates how internal and external business locations, service organizations, and customer relationships are structured to support real-world operational models.
+The Service Model Foundation data model is vital for modeling the business organization structure. It can be configured and applied across different industry verticals. Each example demonstrates how internal and external business locations, service organizations, and customer relationships are structured to support real-world operational models.
 
 ## Exploring Service Model Foundation across industries
 
@@ -77,7 +77,7 @@ These challenges led to data governance risks, reduced customer trust, and incre
 
 4.  Determine access control and data visibility
 
-    SMF automatically applied access [[gamification-components-rules|rules]] based on persona and business location.
+    SMF automatically applied access rules based on persona and business location.
 
     -   Access to records such as accounts or customer profiles is based on:
         -   The employee’s assigned business location.
@@ -238,7 +238,3 @@ By implementing the Service Model Foundation data model, DSS achieved:
 
 The framework enabled a unified, transparent, and secure management approach for Public Sector Digital Services delivery.
 
-## Related
-
-- [[data-models-smf|Service Model Foundation data model]]
-- [[gamification-components-rules|Rules]]

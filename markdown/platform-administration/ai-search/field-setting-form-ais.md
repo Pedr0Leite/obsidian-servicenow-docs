@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Field Setting form
 
-The Field Setting form enables you to create a field setting for an indexed source in [[ia-ai-search|AI Search]].
+The Field Setting form enables you to create a field setting for an indexed source in AI Search.
 
 For details on creating or editing field settings for indexed sources, see [Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md).
 
@@ -29,6 +29,3 @@ For details on creating or editing field settings for indexed sources, see [Fiel
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

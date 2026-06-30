@@ -26,8 +26,8 @@ The roles required to define requirements and set up forums include sn\_communit
 
     |Stakeholder|Responsibilities|
     |-----------|----------------|
-    |Forum administrators|Define and oversee the forum processes for day-to-day operations related to topic creation, [[user-management|user management]], and moderation.|
-    |Community administrators|Configure advanced settings for [[servicenow-communities|Communities]] features.|
+    |Forum administrators|Define and oversee the forum processes for day-to-day operations related to topic creation, user management, and moderation.|
+    |Community administrators|Configure advanced settings for Communities features.|
     |Community users|Contribute content in the form of questions, answers, blogs, and comments.|
 
 -   **With stakeholders, determine your community requirements**
@@ -44,12 +44,12 @@ The roles required to define requirements and set up forums include sn\_communit
 
 Use the following steps as guidance to setting up your community.
 
-1.  [[add-user|Create a forum user]]: [Create a forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) to use to define memberships to a forum.
-2.  [[create-permission|Create a permission]]: [Create a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-permission.md) to use to define a user's access to a forum and its content types.
+1.  Create a forum user: [Create a forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) to use to define memberships to a forum.
+2.  Create a permission: [Create a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-permission.md) to use to define a user's access to a forum and its content types.
 3.  Add access and content types to your permission: [Add access types to a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/define-access-type-permission.md) to determine the access that users have to certain forums and content.
-4.  [[create-forum|Create a forum]]: [Create a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum.md) to provide a place for users to share content and configure the forum to allow registered users to request access to join.
-5.  [[add-content-type-to-forum|Configure content types for a forum]]: [Configure content types for a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-content-type-to-forum.md) to define which types of content to use in a particular forum.
-6.  [[create-forum-permission|Create a forum permission]]: [Create a forum permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md) by adding a forum user and a permission to a forum.
+4.  Create a forum: [Create a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum.md) to provide a place for users to share content and configure the forum to allow registered users to request access to join.
+5.  Configure content types for a forum: [Configure content types for a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-content-type-to-forum.md) to define which types of content to use in a particular forum.
+6.  Create a forum permission: [Create a forum permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md) by adding a forum user and a permission to a forum.
 
 If required, perform the following actions:
 
@@ -64,7 +64,7 @@ If required, perform the following actions:
 -   **Copy permissions**
     -   [Copy permissions from a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-another-forum.md) to copy all permissions and content types from one forum to another.
     -   [Copy permissions from a parent forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-parent-forum.md).
--   **[[debug-user-permissions|Debug user permissions]]**
+-   **Debug user permissions**
 
     [Debug user permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/debug-user-permissions.md) to investigate and diagnose problems with user access to forums.
 
@@ -128,13 +128,3 @@ For more information about using the guided setup interface, see [Using guided s
 
 [Community Service Portal]()
 
-## Related
-
-- [[user-management|User management]]
-- [[servicenow-communities|Communities]]
-- [[add-user|Create a forum user]]
-- [[create-permission|Create a permission]]
-- [[create-forum|Create a forum]]
-- [[add-content-type-to-forum|Configure content types for a forum]]
-- [[create-forum-permission|Create a forum permission]]
-- [[debug-user-permissions|Debug user permissions]]

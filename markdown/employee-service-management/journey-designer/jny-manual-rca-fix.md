@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey designer, Employee Journey Management, HR Servic
 
 # Fix Restricted Caller Access \(RCA\) approval requests
 
-After you install or upgrade to the latest [[jny-dsgnr-landing-page-1|Journey designer]] application from ServiceNow Store, you might encounter RCA approval messages requesting for an update in the access request.
+After you install or upgrade to the latest Journey designer application from ServiceNow Store, you might encounter RCA approval messages requesting for an update in the access request.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ RCA requests that are generated after the installation of a newer version of the
 
 **Parent Topic:**[Installation and configuration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-inst-config-overview.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

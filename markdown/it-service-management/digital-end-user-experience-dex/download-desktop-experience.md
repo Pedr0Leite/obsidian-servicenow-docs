@@ -18,10 +18,10 @@ Download and install Desktop Assistant by using operating system-specific instal
 
 ## Before you begin
 
--   Make sure that you have installed the [[dex-landing|Digital End-User Experience]] application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
+-   Make sure that you have installed the Digital End-User Experience application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
 -   Make sure that you install Desktop Assistant client version 2.6.0 or higher on end-user computers, as this is the minimum version supported by this version of the Desktop Assistant application.
 
-**Note:** You can install Desktop Assistant on 75000 [[dex-workspace-devices-tab|devices]] for each instance.
+**Note:** You can install Desktop Assistant on 75000 devices for each instance.
 
 Role required: admin, sn\_dex\_desktop.admin
 
@@ -92,7 +92,3 @@ For more information, see [Update instance URL in the Desktop Assistant configur
 
 Desktop Assistant is downloaded and installed.
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The **Enable [[article-versioning|article versioning]] feature**\(glide.knowman.versioning.enabled\) property controls the article versioning feature. Setting this property to **false** disables the article versioning feature. Once disabled:
+The **Enable article versioning feature**\(glide.knowman.versioning.enabled\) property controls the article versioning feature. Setting this property to **false** disables the article versioning feature. Once disabled:
 
 -   The **Version** field is removed from the Knowledge form. The **Version** column remains on the Knowledge list and can be removed manually.
 -   The **Article Versions** related list is removed from the Knowledge form.
@@ -40,14 +40,10 @@ Users can still access outdated articles that have been attached to incidents. O
 
 2.  Locate the **Enable article versioning feature** property in the Article Versioning Properties section.
 
-3.  Click the [[check-box|check box]] to disable the property.
+3.  Click the check box to disable the property.
 
 4.  Click **Save**.
 
 
 **Parent Topic:**[Use article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-versioning_0.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]
-- [[check-box|Check box]]

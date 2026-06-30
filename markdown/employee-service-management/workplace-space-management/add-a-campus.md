@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Space Management, Workplace Service Delivery, Emp
 
 # Add a campus
 
-A [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] campus contains buildings, floors, areas, or spaces.
+A Workplace Service Delivery campus contains buildings, floors, areas, or spaces.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration** &gt; **Campuses**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration** &gt; **Campuses**.
 
 2.  Continue with one of the following options.
 
@@ -89,7 +89,7 @@ Managed by group
 
 </td><td>
 
-Group assigned to manage the campus.**Note:** If a Workplace Service Delivery campus is synchronized with [[Indoor-mapping|Indoor Mapping]] campus and if new Indoor mapping objects are added, workplace user groups are notified to synchronize the latest changes in Indoor Mapping with Workplace Service Delivery.
+Group assigned to manage the campus.**Note:** If a Workplace Service Delivery campus is synchronized with Indoor Mapping campus and if new Indoor mapping objects are added, workplace user groups are notified to synchronize the latest changes in Indoor Mapping with Workplace Service Delivery.
 
 For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
@@ -212,7 +212,7 @@ Search and select the Indoor Mapping campus that you want to integrate with Work
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -220,9 +220,3 @@ Search and select the Indoor Mapping campus that you want to integrate with Work
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-assistance|Space assistance]]

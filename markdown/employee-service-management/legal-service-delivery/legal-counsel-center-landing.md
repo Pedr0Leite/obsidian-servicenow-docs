@@ -16,7 +16,7 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 The Legal Counsel Center is the next experience Workspace that enables the legal department members to work with actionable widgets to quickly categorize, prioritize, and efficiently resolve legal issues.
 
-It is a redesigned and restructured version of the [[legal-counsel-center|Legal Counsel Center Classic]] Workspace experience built on a configurable UI Builder version. For more information on UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md)
+It is a redesigned and restructured version of the Legal Counsel Center Classic Workspace experience built on a configurable UI Builder version. For more information on UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md)
 
 **Important:** Legal Counsel Center Classic is now deprecated and no longer supported or available for new activation. For enhanced workspace experience, use [Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-landing.md). For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -41,7 +41,7 @@ Legal Counsel Center Classic
 </td></tr><tr><td>
 
 Leverage UI Builder-   Edit component properties
--   Utilize variants and [[ecpro-audience|audiences]]
+-   Utilize variants and audiences
 -   Next Experience UI Branding
 -   Styling Configuration
 
@@ -83,7 +83,7 @@ Integration with the Legal Tracker application for Outside counsel engagement
 
 </td></tr><tr><td>
 
-[[legal-request-management-landing-page|Legal Request Management]]
+Legal Request Management
 
 </td><td>
 
@@ -95,7 +95,7 @@ Integration with the Legal Tracker application for Outside counsel engagement
 
 </td></tr><tr><td>
 
-[[legal-matter-management-landing-page|Legal Matter Management]]
+Legal Matter Management
 
 </td><td>
 
@@ -107,7 +107,7 @@ Integration with the Legal Tracker application for Outside counsel engagement
 
 </td></tr><tr><td>
 
-[[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
+Contract Management Pro for Legal Service Delivery
 
 </td><td>
 
@@ -131,7 +131,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
+Legal Conflict of Interest
 
 </td><td>
 
@@ -143,7 +143,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-content-review|Legal Content Review]]
+Legal Content Review
 
 </td><td>
 
@@ -155,7 +155,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+Legal Digital Forensics
 
 </td><td>
 
@@ -167,7 +167,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-investigations-landing-page|Legal Investigations]]
+Legal Investigations
 
 </td><td>
 
@@ -179,7 +179,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-simple-contracts-landing-page|Legal Simple Contracts]]
+Legal Simple Contracts
 
 </td><td>
 
@@ -191,7 +191,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-simple-privacy-landing-page|Legal Simple Privacy]]
+Legal Simple Privacy
 
 </td><td>
 
@@ -203,7 +203,7 @@ Legal Simple Intellectual Property
 
 </td></tr><tr><td>
 
-[[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]
+Legal Stock Preclearance
 
 </td><td>
 
@@ -215,18 +215,3 @@ Legal Simple Intellectual Property
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[legal-counsel-center|Legal Counsel Center Classic]]
-- [[ecpro-audience|Audiences]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[legal-content-review|Legal Content Review]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]

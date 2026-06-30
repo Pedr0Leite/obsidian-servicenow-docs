@@ -14,7 +14,7 @@ breadcrumb: [CI relations formatter, CI relationships in the CMDB, Configuration
 
 # Domain separation
 
-Domain separation is supported in the relations formatter and the [[c_RelationshipEditor|CI relationship editor]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the relations formatter and the CI relationship editor. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## How domain separation works in the relations formatter and relationship editor
 
@@ -44,6 +44,3 @@ By default domain separation is supported in the relationship editor.
 
 [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 
-## Related
-
-- [[c_RelationshipEditor|CI relationship editor]]

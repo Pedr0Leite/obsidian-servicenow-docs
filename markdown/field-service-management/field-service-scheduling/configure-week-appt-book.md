@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Set the starting day of the week on the appointment booking calendar
 
-Customize the starting day of the week on your [[appointment-booking|appointment booking]] calendar to match your organization's scheduling preferences. By default, the calendar week starts on Sunday, but you can easily set it to any day \(e.g., Monday\) or revert it if needed.
+Customize the starting day of the week on your appointment booking calendar to match your organization's scheduling preferences. By default, the calendar week starts on Sunday, but you can easily set it to any day \(e.g., Monday\) or revert it if needed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Role required: appointment\_booking\_admin
 
 The appointment booking calendar displays your selected starting day of the week.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

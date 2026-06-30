@@ -15,7 +15,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Configure and activate agentic workflows for Enterprise Asset Management
 
-Configure and activate the agentic workflows that you want to use in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Configure and activate the agentic workflows that you want to use in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: sn.aia\_admin role or an appropriate role that is defined in your
 
     **Note:** If you do not activate the trigger, you must invoke the agentic workflow manually.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

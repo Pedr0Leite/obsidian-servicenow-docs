@@ -14,7 +14,7 @@ breadcrumb: [Service Portal reference, Service Portal, Configure UIs and portals
 
 # Plugins installed with Service Portal
 
-The following plugins are installed with the [[c_ServicePortal|Service Portal]] for Enterprise Service Management \[com.glide.service-portal.esm\] plugin, which is a ServiceNow AI Platform feature that is active by default.
+The following plugins are installed with the Service Portal for Enterprise Service Management \[com.glide.service-portal.esm\] plugin, which is a ServiceNow AI Platform feature that is active by default.
 
 -   Service Portal - Knowledge Base \[com.glide.service-portal.knowledge-base\]
 -   Service Portal - Service Catalog \[com.glide.service-portal.service-catalog\]
@@ -27,6 +27,3 @@ If Service Portal \[com.glide.service-portal.esm\] is not active on your instanc
 
 **Parent Topic:**[Service Portal reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reference-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

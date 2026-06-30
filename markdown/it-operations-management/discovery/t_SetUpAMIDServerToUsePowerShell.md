@@ -14,7 +14,7 @@ breadcrumb: [PowerShell for Discovery and Service Mapping, Advanced Discovery co
 
 # Set up MID Servers to use PowerShell
 
-Configure MID Servers in your organization to use PowerShell for horizontal and top-down [[r-discovery|discovery]] of Windows servers.
+Configure MID Servers in your organization to use PowerShell for horizontal and top-down discovery of Windows servers.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ PowerShell version 2.0 is not supported, therefore it is recommended to upgrade 
 2.  Determine which credentials MID Servers use for PowerShell.
 
     -   To discover Windows computers using credentials from the credentials table, set the **mid.powershell.use\_credentials** parameter to **true**. Using credentials form the credentials table is the default behavior when PowerShell is enabled.
-    -   To force Discovery and [[c_ServiceMappingOverview|Service Mapping]] to use the credentials of the MID Server service user, set the **mid.powershell.use\_credentials** parameter to **false** on the MID Server. The MID Server service must have domain admin credentials to have access to the Windows machines in the domain.
+    -   To force Discovery and Service Mapping to use the credentials of the MID Server service user, set the **mid.powershell.use\_credentials** parameter to **false** on the MID Server. The MID Server service must have domain admin credentials to have access to the Windows machines in the domain.
 3.  If necessary, configure advanced parameters for PowerShell and PowerShell Remoting on each MID Server separately.
 
     Although you can disable PowerShell by changing the **mid.use\_powershell** and **mid.sa.prefer\_powershell**, this method is deprecated and should not be used.
@@ -41,7 +41,3 @@ PowerShell version 2.0 is not supported, therefore it is recommended to upgrade 
 
 **Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

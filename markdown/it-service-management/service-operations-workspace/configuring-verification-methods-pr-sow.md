@@ -19,12 +19,9 @@ Create and edit verification methods to ensure they align with service desk proc
 -   **[Create verification settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-verification-settings-pr-sow.md)**  
 Create a verification type in the base system to authenticate the user credentials while resetting the password.
 -   **[Map the password reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/map-password-reset-process-pr-sow.md)**  
-[[map-password-reset-process-pr-sow|Map the password reset process]] to verify the identity of the user requesting a password reset.
+Map the password reset process to verify the identity of the user requesting a password reset.
 -   **[Map the UXF routes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/map-uxf-routes-pr-sow.md)**  
 Create a route for the verification method to map the verification process.
 
 **Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-password-reset-sow.md)
 
-## Related
-
-- [[map-password-reset-process-pr-sow|Map the password reset process]]

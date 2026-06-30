@@ -14,11 +14,11 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 # Microsoft SQL Server licensing in container deployments
 
-The [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]] supports licensing rules for Microsoft SQL Server products that are deployed across both on-premise and cloud environments using Docker containers.
+The Software Asset Management publisher pack for Microsoft supports licensing rules for Microsoft SQL Server products that are deployed across both on-premise and cloud environments using Docker containers.
 
 Containers are executable software packages that bundle all the code and dependencies that are required for deploying and running a specific application. With a container, you can deploy and run the same application uniformly across any computing environment, such as a desktop computer or the cloud, without having to reconfigure the application. Each container also virtualizes an operating system \(OS\) so that you can quickly and easily deploy multiple isolated applications within the same computing environment.
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application works in conjunction with the ServiceNow® Discovery application to identify the following information in both on-premise and cloud environments:
+The Software Asset Management application works in conjunction with the ServiceNow® Discovery application to identify the following information in both on-premise and cloud environments:
 
 -   The Docker containers through which your Microsoft SQL Server products are deployed.
 -   The corresponding Kubernetes clusters that enable each container to run.
@@ -34,7 +34,7 @@ For more information on Docker discovery, see [Docker virtualization](https://ra
 
 ## Supported licensing models
 
-The Microsoft publisher pack supports the following licensing [[c_Models|models]] for Microsoft SQL Server products that are deployed through containers:
+The Microsoft publisher pack supports the following licensing models for Microsoft SQL Server products that are deployed through containers:
 
 **Note:** For more information on each licensing model, refer to [Supported Microsoft license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-microsoft-license-types.md).
 
@@ -71,13 +71,7 @@ You must license each container using a server \(per instance or per server\) li
 
 </td></tr></tbody>
 </table>-   **[Licensable Software Products Deployed on Containers report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-licensable-software-products-deployed-containers-report.md)**  
-You can use the [[microsoft-licensable-software-products-deployed-containers-report|Licensable Software Products Deployed on Containers report]] to gain visibility into the software products that are deployed across both on-premise and cloud environments using Docker containers.
+You can use the Licensable Software Products Deployed on Containers report to gain visibility into the software products that are deployed across both on-premise and cloud environments using Docker containers.
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]
-- [[microsoft-licensable-software-products-deployed-containers-report|Licensable Software Products Deployed on Containers report]]

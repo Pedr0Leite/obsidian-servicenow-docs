@@ -14,9 +14,9 @@ breadcrumb: [Now Mobile experience for Employee Center, Employee Center Integrat
 
 # Search topic content in Now Mobile app
 
-The search functionality for topic content is available on the [[mobile-employee-experience|Now Mobile app]].
+The search functionality for topic content is available on the Now Mobile app.
 
-You can search for Knowledge Base articles, Service Catalog items, and [[exploring-learning-exp|Learning]] content available on the topic pages with the search functionality.
+You can search for Knowledge Base articles, Service Catalog items, and Learning content available on the topic pages with the search functionality.
 
 You can quickly look for any desired result using different filter and sort options that help with easier content discovery.
 
@@ -29,7 +29,3 @@ To access the search functionality for topic content in the Now Mobile app:
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[exploring-learning-exp|Learning]]

@@ -23,19 +23,19 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Select a roadmap item and [[t_CreateMilestones|create a milestone]] for it. Use the roadmap side panel to fill in the details and submit.
+Select a roadmap item and create a milestone for it. Use the roadmap side panel to fill in the details and submit.
 
 For free-form roadmaps, milestones are supported only if the source table is Planning Item \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
 **Important:**
 
-You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
 However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-integration-with-execution-applications.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_ngc_1zz_5wb"><thead><tr><th align="left" id="d169738e126">
 
@@ -109,9 +109,3 @@ Update or delete the milestones that you added to your planning items \(such as 
 
 **Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md)
 
-## Related
-
-- [[t_CreateMilestones|Create a milestone]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

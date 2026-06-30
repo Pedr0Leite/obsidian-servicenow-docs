@@ -14,7 +14,7 @@ breadcrumb: [Configuring SCCM, Client software distribution from SCCM, Client So
 
 # Configure the MID Server for SCCM activities
 
-To use a [[mid-server-landing|MID Server]] with Microsoft System Center [[manage-cmdb|Configuration Management]] \(SCCM\) activities, configure it to communicate with the SCCM server.
+To use a MID Server with Microsoft System Center Configuration Management \(SCCM\) activities, configure it to communicate with the SCCM server.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 4.  Right-click in the form header and select **Save**.
 
-5.  In the **[[ip-address|IP Address]]** related list, click **New**.
+5.  In the **IP Address** related list, click **New**.
 
 6.  In the **IP Address** field, enter the IP address of the SCCM server.
 
@@ -45,8 +45,3 @@ Role required: admin
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[manage-cmdb|Configuration Management]]
-- [[ip-address|IP Address]]

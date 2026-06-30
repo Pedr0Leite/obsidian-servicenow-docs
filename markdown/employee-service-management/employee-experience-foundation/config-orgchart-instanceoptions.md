@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -50,6 +50,3 @@ Role required: sp\_admin or admin
 
 [Configure eligible users for org chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-eligible-users-orgchart.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

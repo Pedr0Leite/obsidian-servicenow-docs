@@ -24,7 +24,7 @@ Role required: cmdb\_query\_builder. Authorized users can delete a query created
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** and select **[[cmdb-query-builder-landing-page|CMDB Query Builder]]**.
+1.  Navigate to **All** &gt; **Configuration** and select **CMDB Query Builder**.
 
 2.  On the **CMDB Query Builder** page, select the Saved Queries tab and set the viewing mode to Card view.
 
@@ -32,6 +32,4 @@ Role required: cmdb\_query\_builder. Authorized users can delete a query created
 
 4.  Select the Delete Query \(X\) icon that appears in the card.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

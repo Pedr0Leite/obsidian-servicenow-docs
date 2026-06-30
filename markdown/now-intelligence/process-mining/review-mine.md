@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## About this task
 
-**Record limits for [[process-mining|Process Mining]] projects**
+**Record limits for Process Mining projects**
 
 Process Mining enforces a maximum of 500,000 records from the primary table. This limit scales down proportionally as child tables are added to the project.
 
@@ -48,7 +48,7 @@ If your record count exceeds the adjusted limit, mining is blocked. To resolve t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Improvement opportunities** page, you are on the **Review and mine** page.
 
@@ -65,7 +65,7 @@ If your record count exceeds the adjusted limit, mining is blocked. To resolve t
     -   Select **Manage watchlist** to add users who receive notifications regarding the status of the mined project.
     -   Select **Copy project definition** to copy the project.
 
-        When you [[copy-process-model-definition|copy a project]], the associated improvement opportunities also get copied.
+        When you copy a project, the associated improvement opportunities also get copied.
 
     -   Select **Extract data logs** to view any logs available.
     -   Select **Delete** to delete the project.
@@ -84,8 +84,3 @@ The **Mining Progress** page is displayed. After the mining is completed, a **Mi
 
 **Parent Topic:**[Create a project or template using Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[copy-process-model-definition|Copy a project]]

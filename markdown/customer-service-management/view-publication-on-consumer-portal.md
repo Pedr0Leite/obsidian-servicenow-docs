@@ -12,7 +12,7 @@ breadcrumb: [Use Consumer Portal, Customer communication, Use, Customer Service 
 
 # View a publication on the Consumer Portal
 
-View publications on the Consumer Portal to read [[c_TargetedCommunications|targeted communications]] and download any associated attachments.
+View publications on the Consumer Portal to read targeted communications and download any associated attachments.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ The **Publications** link on the Consumer Portal displays a list of current publ
 
 7.  Select the return arrow at the top of the publication to return to the Publications list.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

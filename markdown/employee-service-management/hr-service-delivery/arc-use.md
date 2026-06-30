@@ -14,7 +14,7 @@ breadcrumb: [Anonymous Report Center \(ARC\), Employee Relations, Case and Knowl
 
 # Using the Anonymous Report Center
 
-Your employees can use the [[arc-portal|Anonymous Report Center \(ARC\)]] to submit sensitive complaints or misconduct cases anonymous to the agent working on the case.
+Your employees can use the Anonymous Report Center \(ARC\) to submit sensitive complaints or misconduct cases anonymous to the agent working on the case.
 
 -   **[Anonymously report misconduct](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-create-anon-report.md)**  
 Create misconduct cases that are sent to your Human Resources department without your identity being revealed.
@@ -25,6 +25,3 @@ You can retrieve your anonymous report to submit or view comments and updates fr
 
 **Parent Topic:**[Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md)
 
-## Related
-
-- [[arc-portal|Anonymous Report Center \(ARC\)]]

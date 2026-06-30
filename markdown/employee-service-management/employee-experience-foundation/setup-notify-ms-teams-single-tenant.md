@@ -14,7 +14,7 @@ breadcrumb: [Integration for Agent Experience, Setup for integrating self-config
 
 # Integrating Notify connector self-configured app with Microsoft Teams
 
-Set up the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] using the self-configured app.
+Set up the Notify connector for Microsoft Teams using the self-configured app.
 
 You might need to use the self-configured app setup due to your company or regulatory requirements.
 
@@ -35,6 +35,3 @@ Verify whether the OIDC Application Registry was created when Microsoft Teams Ap
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_ex_s_tnt.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

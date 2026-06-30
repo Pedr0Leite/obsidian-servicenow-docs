@@ -15,13 +15,13 @@ breadcrumb: [Enterprise Agile Planning, Strategic Planning, Strategic Portfolio 
 
 # Using Enterprise Agile Planning
 
-[[manage-team-backlog|Manage your team backlog]], plan for sprints and iterations, add dependencies, and collaborate using team-level and work item level Docs using Enterprise Agile Planning in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Manage your team backlog, plan for sprints and iterations, add dependencies, and collaborate using team-level and work item level Docs using Enterprise Agile Planning in the Strategic Planning Workspace.
 
 Use the following areas of Enterprise Agile Planning to plan, track, and collaborate on work across your agile structure.
 
 -   **Manage team backlog**
 
-    Create, update, and [[prioritize-work-portfolio-planning-workspace|prioritize work]] items from the Backlog page. Schedule work into Planning Intervals \(PIs\) or Sprints, make inline edits, and [[t_SDLCPPSTrackProgress|track progress]] at every level of your agile structure, from Agile Teams up through ARTs, Solution Trains, and Portfolios.
+    Create, update, and prioritize work items from the Backlog page. Schedule work into Planning Intervals \(PIs\) or Sprints, make inline edits, and track progress at every level of your agile structure, from Agile Teams up through ARTs, Solution Trains, and Portfolios.
 
 -   **Perform PI planning**
 
@@ -39,9 +39,4 @@ Use the following areas of Enterprise Agile Planning to plan, track, and collabo
 
     Define functional goals for PIs or sprints to keep teams aligned on what they plan to accomplish. Connect work items to portfolio-level or enterprise goals and OKRs to give teams greater visibility into the value their work delivers.
 
-## Related
 
-- [[manage-team-backlog|Manage your team backlog]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[t_SDLCPPSTrackProgress|Track progress]]

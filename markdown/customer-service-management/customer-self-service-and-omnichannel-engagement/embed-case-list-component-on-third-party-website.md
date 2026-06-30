@@ -14,7 +14,7 @@ breadcrumb: [Case list component, Configure web components, Web Embeddables, Set
 
 # Embed the Case list component instance on the third-party website
 
-Embed the global code and component code of the [[case-list-component|Case list component]] instance that you configured so that you can enable your customers to start using the Case list component instance on your third-party website.
+Embed the global code and component code of the Case list component instance that you configured so that you can enable your customers to start using the Case list component instance on your third-party website.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: None
 
 The Case list component instance appears on your third-party website.
 
-## Related
-
-- [[case-list-component|Case list component]]

@@ -14,13 +14,13 @@ breadcrumb: [Use, Individual Life Claims, Exploring insurance claims application
 
 # Individual Life Claims workflows
 
-The [[individual-life-claims-landing-page|Individual Life Claims]] application installs automated workflows that you can configure for any individual life claims tasks. These workflows create cases and routes any tasks to different departments in your organization.
+The Individual Life Claims application installs automated workflows that you can configure for any individual life claims tasks. These workflows create cases and routes any tasks to different departments in your organization.
 
 ## Overview of Individual Life Claims workflows
 
 After a claim case is initiated in the Individual Life Claims application, the workflow proceeds through phases.
 
-The following workflow routes the case and tasks for investigating and managing individual life [[insurance-claims-flow|insurance claims]] to the roles in different departments. Agents can log in to [[fso-overview|Financial Services]] Workspace to work on the tasks in their queue. The workflow includes a decision table to triage and set the priority of a claim.
+The following workflow routes the case and tasks for investigating and managing individual life insurance claims to the roles in different departments. Agents can log in to Financial Services Workspace to work on the tasks in their queue. The workflow includes a decision table to triage and set the priority of a claim.
 
 The case playbook guides agents through the process to fulfill claims:
 
@@ -83,8 +83,3 @@ The case is complete when the states and stage of the case are set to Closed Com
 
 **Note:** The adjuster must settle each claim before the case can be closed.
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

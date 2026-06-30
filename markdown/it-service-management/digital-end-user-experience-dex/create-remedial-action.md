@@ -24,9 +24,9 @@ Role required: admin, dex\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **Services Operations Workspace** &gt; **[[dex-workspace-administration-tab|DEX Administration]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Services Operations Workspace** &gt; **DEX Administration**.
 
-    \[Omitted video\] Description: Create [[remedial-action|remedial action]]
+    \[Omitted video\] Description: Create remedial action
 
 2.  Select **Create new** in the Create Remedial Actions section.
 
@@ -49,7 +49,7 @@ Role required: admin, dex\_admin
 
 8.  Select the origin of remediation.
 
-    This setting indicates where the remedial action should be executed from the [[user-health-card|device health page]] or alert details.
+    This setting indicates where the remedial action should be executed from the device health page or alert details.
 
 9.  Select the **Remedial Action** check box if it’s available for bulk remediation.
 
@@ -64,8 +64,3 @@ Role required: admin, dex\_admin
 
 **Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-remedial-actions.md)
 
-## Related
-
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[remedial-action|Remedial action]]
-- [[user-health-card|Device health page]]

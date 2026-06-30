@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.permit\_requestor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self service** &gt; **[[employee-center-landing-page|Employee Center]]** and then select **Permit to work**.
+1.  Navigate to **All** &gt; **Self service** &gt; **Employee Center** and then select **Permit to work**.
 
 2.  Select the **Request a permit to work** card or select the quick link to request a permit-to-work.
 
@@ -52,12 +52,8 @@ Role required: sn\_hs\_rm.permit\_requestor
 
     -   Select **Print permit** to print the permit request.
     -   Select **Print checklist** to print the completed checklist.
-    **Note:** The printed permit and checklist can be signed and attached in the attachment tab for this permit. The attached documents can be viewed in the [[activity-lxp|activity]] stream.
+    **Note:** The printed permit and checklist can be signed and attached in the attachment tab for this permit. The attached documents can be viewed in the activity stream.
 
 
 **Parent Topic:**[Permit-to-work system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-permit-to-work.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

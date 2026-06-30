@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog and CSDM, Configuring Service Catalog, Service Cata
 
 # Service Catalog and CSDM tables
 
-[[service-catalog|Service Catalog]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Service Catalog.
+Service Catalog manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Service Catalog.
 
 ## CSDM tables managed by the Service Catalog
 
@@ -26,7 +26,7 @@ The CIs can include:
 
 -   PC Hardware Item \(pc\_hardware\_cat\_item\): Submits hardware asset requests included in Asset Management workflows.
 -   PC Software Item \(pc\_software\_cat\_item\): Submits software asset requests included in Asset Management workflows.
--   [[c_RecordProducer|Record Producer]] \(sc\_cat\_item\_producer\): Submits requests or generates records other than Request Management tables for services that aren't serviced by Request Management \(for example, HR Cases, Facilities Requests, or Legal Requests\).
+-   Record Producer \(sc\_cat\_item\_producer\): Submits requests or generates records other than Request Management tables for services that aren't serviced by Request Management \(for example, HR Cases, Facilities Requests, or Legal Requests\).
 
 \[Omitted image "csdm-v5-tables-managed-by-req-cat.png"\] Alt text: CSDM tables managed by Request Catalog.
 
@@ -58,7 +58,7 @@ The CIs can include:
 
 -   **Hardware Asset Management and Software Asset Management**
 
-    [[self-service-landing|Self-service]] catalog lets you order an asset and track service delivery.
+    Self-service catalog lets you order an asset and track service delivery.
 
 -   **Human Resources \(HR\)**
 
@@ -71,8 +71,3 @@ The CIs can include:
 
 **Parent Topic:**[Service Catalog and CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-use-case-product-view.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[self-service-landing|Self-service]]

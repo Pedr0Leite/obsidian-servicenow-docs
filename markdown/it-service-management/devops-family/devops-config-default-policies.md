@@ -15,7 +15,7 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # Default DevOps Config policies
 
-The [[devops-config-landing-page|DevOps Config]] Policy content pack contains a set of default DevOps Config policies to validate your configuration data.
+The DevOps Config Policy content pack contains a set of default DevOps Config policies to validate your configuration data.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -39,7 +39,3 @@ Select a category to view the DevOps Config policies available within the catego
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

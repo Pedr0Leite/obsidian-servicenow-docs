@@ -14,7 +14,7 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Create inventory template relationship
 
-Use this sequence as a guide when creating inventory templates for your equipment and establishing the proper template relationships in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Use this sequence as a guide when creating inventory templates for your equipment and establishing the proper template relationships in the Telecommunications Network Inventory application.
 
 ## Sequence for creating template relationships
 
@@ -44,7 +44,7 @@ To learn more, see [Create a default template](https://raw.githubusercontent.com
 After establishing a default template, begin the sequence by creating an inventory template for the equipment model. To learn more, see [Create an inventory template for the equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-an-inventory-template-for-the-equipment-model.md).
 
 1.  [Create an inventory template for the equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-an-inventory-template-for-the-equipment-model.md)  
-In the Inventory Template form in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], you can [[creating-an-inventory-template-for-the-equipment-model|create an inventory template for the equipment model]].
+In the Inventory Template form in the Network Inventory Workspace Lists view, you can create an inventory template for the equipment model.
 2.  [Create inventory templates for related interface card models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md)  
 In the Inventory Template form in the Network Inventory Workspace Lists view, you can create inventory templates for the interface card models that are associated with the equipment inventory template.
 3.  [Creating inventory templates for related network interface models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-related-network-interface-models.md)  
@@ -64,7 +64,7 @@ Add an interface card to the subslots that are associated with a piece of equipm
 10. [Add a network interface template to a child or daughter card template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/adding-network-interface-template-child-daughter-card.md)  
 As a last step, you can optionally add a network interface template to a child and daughter card template in the Network Inventory Workspace Lists view.
 11. [Create an inventory template for cable models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-inventory-tenplate-cable-models.md)  
-[[create-inventory-templates|Create an inventory template]] for the cable models in the Telecommunications Network Inventory application. You can use this template to instantiate a cable record and related stand records.
+Create an inventory template for the cable models in the Telecommunications Network Inventory application. You can use this template to instantiate a cable record and related stand records.
 12. [Create an inventory template for a logical composite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-template-logical-composite.md)  
 Create an inventory template for the logical composite in the Telecommunications Network Inventory application. You can use this template to instantiate a logical composite record and its related equipment and rack records.
 
@@ -75,10 +75,3 @@ Create an inventory template for the logical composite in the Telecommunications
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[creating-an-inventory-template-for-the-equipment-model|Create an inventory template for the equipment model]]
-- [[create-inventory-templates|Create an inventory template]]

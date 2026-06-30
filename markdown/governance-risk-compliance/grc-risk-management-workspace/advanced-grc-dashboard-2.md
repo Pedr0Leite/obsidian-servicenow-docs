@@ -14,11 +14,11 @@ breadcrumb: [Analytics and reporting solutions for Risk Management, Risk Managem
 
 # Advanced Governance, Risk, and Compliance Application Risk dashboard
 
-The GRC **[[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview Dashboard]]** provides the latest view of risk and compliance aspects for the business applications that are used in an enterprise.
+The GRC **Application Risk and Compliance Overview Dashboard** provides the latest view of risk and compliance aspects for the business applications that are used in an enterprise.
 
 The Application Risk Dashboard is useful for the Chief Information Officer \(CIO\) and application owners. Both these users must have the sn\_compliance.reader, sn\_risk.reader, and sn\_audit.user roles to view the dashboard. Navigate to **Advanced GRC Dashboard** &gt; **Application Risk Dashboard**. The **Application Risk and Compliance Overview Dashboard** is displayed.
 
-**Note:** To be able to view this dashboard, you must activate the GRC: Advanced Dashboards \(com.sn\_grc\_pa\_advanced\) plugin and the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(sn\_compliance\) plugin.
+**Note:** To be able to view this dashboard, you must activate the GRC: Advanced Dashboards \(com.sn\_grc\_pa\_advanced\) plugin and the GRC: Policy and Compliance Management \(sn\_compliance\) plugin.
 
 The Application Risk and Compliance Overview dashboard provides you a detailed report of the risk and compliance posture of all the business applications in an organization.
 
@@ -69,7 +69,7 @@ The following filters can be used to filter data on the reports:
 The Risk Overview tab appears when you activate the Advanced Risk plugin. The Risk Overview tab provides an overview of the risks associated with business applications and displays the following reports:
 
 -   Risk Heatmap by Application Criticality: This report displays the heatmap of the application risks based on criticality of applications versus the risk rating of the application.
--   [[risk-response|Risk Response]] Tasks Overview: This report displays the response tasks created for a risk and different states of those tasks.
+-   Risk Response Tasks Overview: This report displays the response tasks created for a risk and different states of those tasks.
 
     **Note:** This bar chart can be grouped by and stacked by risk response, risk response state, risk calculated score, risk response assigned to, or business application.
 
@@ -148,8 +148,3 @@ The Issues Overview tab appears when you activate either the Risk Management plu
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview dashboard]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-response|risk response]]

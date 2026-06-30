@@ -20,11 +20,11 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-All associated questions \(type\), configurations, categories, metrics, [[domain-separation-relationship-formatter-editor|domain separation]] rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
+All associated questions \(type\), configurations, categories, metrics, domain separation rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quizzes**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quizzes**.
 
 2.  Select a quiz.
 
@@ -56,7 +56,7 @@ In the title bar, select **Copy** from the context menu.
 
 </td></tr><tr><td id="d228815e117">
 
-**From [[c_QuizDesigner|quiz designer]]**
+**From quiz designer**
 
 </td><td>
 
@@ -66,11 +66,5 @@ In the title bar, select **Copy** from the context menu.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-## Related
-
-- [[t_CreateaQuiz|Create a quiz]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_Quizzes|Quizzes]]
-- [[c_QuizDesigner|Quiz designer]]

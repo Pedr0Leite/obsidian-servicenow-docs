@@ -22,7 +22,7 @@ Role required: sn\_shop.shopper
 
 ## About this task
 
-You can view and edit the **Watchlist** either from the **Reason for purchase** page or on the [[purchase-requisition|Purchase requisition]] under **My Purchases** in the [[shopping-hub-overview|Shopping hub]]. For more information, see [Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activity-stream.md). By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/installed-with-FSC.md).
+You can view and edit the **Watchlist** either from the **Reason for purchase** page or on the Purchase requisition under **My Purchases** in the Shopping hub. For more information, see [Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activity-stream.md). By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/installed-with-FSC.md).
 
 **Note:** This limit for the number of users on the watchlist is applicable only while making the purchase request. You can add more users to the watchlist after the purchase request is created. However, you can add more users only at the purchase requisitions page.
 
@@ -53,7 +53,3 @@ You can view and edit the **Watchlist** either from the **Reason for purchase** 
 
 **Parent Topic:**[Provide a reason for your purchase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/provide-reason-for-purchase.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[shopping-hub-overview|Shopping Hub]]

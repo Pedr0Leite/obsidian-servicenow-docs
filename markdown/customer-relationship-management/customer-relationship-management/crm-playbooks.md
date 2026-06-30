@@ -10,7 +10,7 @@ reading_time_minutes: 5
 
 # Playbooks
 
-Playbooks are structured workflows that guide users, agents, and technicians step-by-step through the activities required to complete a business process. They are available as discrete applications for [[crm-about-som-in-crm|Sales CRM]], [[crm-about-csm-in-crm|Customer Service Management]] \(CSM\), [[crm-about-fsm-in-crm|Field Service Management]] \(FSM\), and individual [[crm-about-industry-solutions-in-crm|industry solutions]], and are installed separately from the core [[crm-product-portfolio|CRM products]].
+Playbooks are structured workflows that guide users, agents, and technicians step-by-step through the activities required to complete a business process. They are available as discrete applications for Sales CRM, Customer Service Management \(CSM\), Field Service Management \(FSM\), and individual industry solutions, and are installed separately from the core CRM products.
 
 ## Playbooks overview
 
@@ -81,10 +81,3 @@ Playbooks ensure that the correct process is applied consistently across every r
 
 [Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-csm-in-crm|Customer Service Management]]
-- [[crm-about-fsm-in-crm|Field Service Management]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]
-- [[crm-product-portfolio|CRM products]]

@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Mapping application services containing Microsoft Exchange Server
 
-[[c_ServiceMappingOverview|Service Mapping]] can discover service instances containing a Microsoft Exchange Server and the Exchange Server components.
+Service Mapping can discover service instances containing a Microsoft Exchange Server and the Exchange Server components.
 
 ## Discovered components
 
@@ -38,7 +38,7 @@ Protocol
 
 </th><th>
 
-[[r-discovery|Discovery]] type
+Discovery type
 
 </th><th>
 
@@ -151,7 +151,7 @@ CAS On Windows pattern
 </td></tr></tbody>
 </table>Typically, you do not want to discover Outlook clients connected to the Exchange Server to avoid noise. If this is the case, disable the traffic-based discovery for this application service.
 
-For information on the discovery flow, refer to [[pattern-based-discovery|pattern-based discovery in Service Mapping]]. Failure to provide users with required permissions may cause Service Mapping to perform [traffic-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md).
+For information on the discovery flow, refer to pattern-based discovery in Service Mapping. Failure to provide users with required permissions may cause Service Mapping to perform [traffic-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md).
 
 ## Limitations
 
@@ -292,9 +292,3 @@ Make sure that you provided a user with permissions to run PowerShell commands o
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[pattern-based-discovery|Pattern-based discovery in Service Mapping]]

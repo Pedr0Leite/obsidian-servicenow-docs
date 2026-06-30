@@ -22,7 +22,7 @@ An AI model acts as the "brain" of an AI system. It learns from previous data an
 -   Unsupervised learning
 -   Reinforcement learning
 
-Learning which models power your [[ai-system|AI systems]] is important for monitoring their accuracy, fairness, and potential risks.
+Learning which models power your AI systems is important for monitoring their accuracy, fairness, and potential risks.
 
 Examples:
 
@@ -31,6 +31,3 @@ Examples:
 -   Image model- Recognizes objects in photos
 -   Credit model- Predicts who might default on a loan
 
-## Related
-
-- [[ai-system|AI systems]]

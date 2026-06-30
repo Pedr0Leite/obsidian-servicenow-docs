@@ -12,7 +12,7 @@ breadcrumb: [Zero Trust Access, Access Management]
 
 # Activating Zero Trust Access
 
-Activate the **Zero Trust - Policy Based Session Access** `com.snc.zero_trust_session_access` plugin to enable security admins to reduce or limit user access in a session based on IP address, location, [[identity-landing|Identity]] Provider attributes, and user attributes using [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]].
+Activate the **Zero Trust - Policy Based Session Access** `com.snc.zero_trust_session_access` plugin to enable security admins to reduce or limit user access in a session based on IP address, location, Identity Provider attributes, and user attributes using adaptive authentication policies.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Plugin type: Paid and requires license.
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Zero Trust - Policy Based Session Access** \(`com.snc.zero_trust_session_access`\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the **Zero Trust - Policy Based Session Access** \(`com.snc.zero_trust_session_access`\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -34,10 +34,4 @@ Plugin type: Paid and requires license.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

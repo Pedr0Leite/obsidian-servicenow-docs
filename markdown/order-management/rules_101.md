@@ -12,16 +12,16 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Rules
 
-Learn how to create and manage rules to deliver dynamic configuration experiences. Define conditions and actions to show or hide [[fields|fields]], display messages, calculate values, and generate bills of material \(BOMs\). Explore rule types, including visibility, message, inclusion, exclusion, determination, and product actions, to efficiently build intelligent, responsive configurations.
+Learn how to create and manage rules to deliver dynamic configuration experiences. Define conditions and actions to show or hide fields, display messages, calculate values, and generate bills of material \(BOMs\). Explore rule types, including visibility, message, inclusion, exclusion, determination, and product actions, to efficiently build intelligent, responsive configurations.
 
 As the end user navigates through the configuration experience and populates information, rules provide its dynamic elements: hiding and showing content, calculating values, delivering recommendations and messages, and building the bill of materials \(BOM\).
 
-With a focus on administering rules in the administration user interface, this article discusses the two components of rules, conditions and actions, and the six action types available in CPQ. Much like other elements in the application, the UI is a good place to add or edit small numbers of rules. When many rules need manipulation, we recommend using the [[matrix_loader_table_of_contents|Matrix Loader]]. For more information, see [[matrix_loader_csv_rules_upload|Matrix Loader: CSV rules upload]].
+With a focus on administering rules in the administration user interface, this article discusses the two components of rules, conditions and actions, and the six action types available in CPQ. Much like other elements in the application, the UI is a good place to add or edit small numbers of rules. When many rules need manipulation, we recommend using the Matrix Loader. For more information, see [Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md).
 
 In the administration UI, rules are accessible in two ways:
 
 -   Global rules: In the navigation pane, click **Rules**. The rule list administration page displays all rules defined in the environment. If your task is to add new rules, this is the only place in the Admin UI where you can initiate a new rule.
--   Rules associated with a single blueprint: Click **[[blueprints|Blueprints]]**, and then click a blueprint. Click the Rules tab to view the rules. Click a rule to open it.
+-   Rules associated with a single blueprint: Click **Blueprints**, and then click a blueprint. Click the Rules tab to view the rules. Click a rule to open it.
 
 ## Conditions
 
@@ -73,7 +73,7 @@ During runtime, if a picklist option is selected \(either by an end user or via 
 
 ## Determination actions
 
-A determination action programmatically [[cpq-sets|sets]] the value of a field. The administrator can choose whether the determined value is soft-set or read-only \(forceset\).
+A determination action programmatically sets the value of a field. The administrator can choose whether the determined value is soft-set or read-only \(forceset\).
 
 If an end user changes the value of a field that had been soft-set by a determination rule, CPQ displays a message to the user reminding them of the recommended value. The message does not limit the user from quoting the configuration; it is informational only. If the user reverts the value of the field to the determination-recommended value, the message goes away. The Admin can choose not to display this message.
 
@@ -171,7 +171,7 @@ Sales, Manufacturing, All
 
 </td><td>
 
-In Salesforce- integrated [[use-cases|use cases]], Manufacturing items are only written to LGK\_\_Configurat ionLineItem\_\_c; Sales items are written to the QLE and LGK\_\_Configurat ionLineItem\_\_c
+In Salesforce- integrated use cases, Manufacturing items are only written to LGK\_\_Configurat ionLineItem\_\_c; Sales items are written to the QLE and LGK\_\_Configurat ionLineItem\_\_c
 
 </td></tr><tr><td>
 
@@ -409,7 +409,7 @@ Unit of measure
 </table>**Note:**
 
 1.  The ProductList.extended parameter can take a shallow JSON object. Example: `{ “key1”: “val1”, “key2”: “val2” }` Also, the Admin can define the extended key : value pairs for a ProductList record using JavaScript. Examples:`ProductList.extended[“key”] = “val”; ProductList.extended.key = “val”;`
-2.  To simplify the migration of product data between test and production environments, particularly in SF-integrated environments, administrators can request product actions to reference a ProductCode or External Id rather than ProductId. In the CPQ Admin, go to the [[cpq-utilities|Utilities]] menu in the navigation pane, and then click **Settings**. You can then set the Product Id field to Product Code, Partner Id, or External Id. If considering migrating from ProductId to ProductCode after go-live, you must coordinate the setting change with the values referenced in your Product actions and the implicit product actions in any picklist extension data you have defined.
+2.  To simplify the migration of product data between test and production environments, particularly in SF-integrated environments, administrators can request product actions to reference a ProductCode or External Id rather than ProductId. In the CPQ Admin, go to the Utilities menu in the navigation pane, and then click **Settings**. You can then set the Product Id field to Product Code, Partner Id, or External Id. If considering migrating from ProductId to ProductCode after go-live, you must coordinate the setting change with the values referenced in your Product actions and the implicit product actions in any picklist extension data you have defined.
 
 ## Unique Identifier attribute
 
@@ -422,15 +422,5 @@ See the following sample script to observe how item hierarchy, differentiating p
 **Related topics**  
 
 
-[[quote_line_unique_ids|Quote line unique IDs]]
+[Quote line unique IDs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote_line_unique_ids.md)
 
-## Related
-
-- [[matrix_loader_csv_rules_upload|matrix_loader_csv_rules_upload]]
-- [[quote_line_unique_ids|Quote line unique IDs]]
-- [[fields|Fields]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[blueprints|Blueprints]]
-- [[cpq-sets|Sets]]
-- [[use-cases|Use cases]]
-- [[cpq-utilities|Utilities]]

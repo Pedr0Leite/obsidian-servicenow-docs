@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Portfolio Management, IT Service Management]
 
 # Installed with Service Portfolio Management
 
-[[SPM2-landing-page|Service Portfolio Management]] Core is active by default for users with ITSM licenses. Service Portfolio Management Foundation is administrator activated and enables you to document portfolios, taxonomies, services, and service offerings using a standardized, structured format.
+Service Portfolio Management Core is active by default for users with ITSM licenses. Service Portfolio Management Foundation is administrator activated and enables you to document portfolios, taxonomies, services, and service offerings using a standardized, structured format.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -27,7 +27,7 @@ The following two plugins enable you to use the full functionality of Service Po
 
 The Service Portfolio Management Foundation plugin automatically activates the Service Portfolio Management Core plugin. Each plugin independently installs a set of roles and tables.
 
-If you [[install-service-builder|install Service Builder]] from the ServiceNow Store, its plugin \[com.snc.service\_builder\] automatically installs. [[service-builder|Service Builder]] uses the same role set as Service Portfolio Management. See [Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/service-builder.md) for more information.
+If you install Service Builder from the ServiceNow Store, its plugin \[com.snc.service\_builder\] automatically installs. Service Builder uses the same role set as Service Portfolio Management. See [Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/service-builder.md) for more information.
 
 ## Service Portfolio Management Core roles and tables
 
@@ -316,8 +316,3 @@ Used to create and define services Out of Scope and specify the scope parameters
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-reference.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[install-service-builder|Install Service Builder]]
-- [[service-builder|Service Builder]]

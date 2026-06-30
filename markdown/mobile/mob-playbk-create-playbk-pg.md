@@ -12,7 +12,7 @@ breadcrumb: [Configure mobile web screens, Mobile App Bridge, Before implementat
 
 # Create a Now Experience Framework page in UI Builder
 
-To configure mobile web screens that use [[mobile-playbooks|Mobile App Bridge]] to leverage a playbook on mobile devices, the first step is to create a Now Experience Framework page in UI Builder.
+To configure mobile web screens that use Mobile App Bridge to leverage a playbook on mobile devices, the first step is to create a Now Experience Framework page in UI Builder.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-You must create a Now Experience Framework page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md) before you can configure mobile web screens that can leverage a playbook on mobile devices. After you configure the page, you must configure a web screen in [[mab-concept|Mobile App Builder]] \(MAB\). For details about configuring mobile web screens that use Mobile App Bridge to leverage platform features on mobile devices, see [[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]].
+You must create a Now Experience Framework page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md) before you can configure mobile web screens that can leverage a playbook on mobile devices. After you configure the page, you must configure a web screen in Mobile App Builder \(MAB\). For details about configuring mobile web screens that use Mobile App Bridge to leverage platform features on mobile devices, see [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
 ## Procedure
 
@@ -58,7 +58,7 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
     **Note:** Scroll down the page to see the **Add** button if it isn't visible.
 
-13. Add event handlers to trigger Mobile App Bridge APIs to enable native functionality on [[mobile-screens-landing|mobile screens]].
+13. Add event handlers to trigger Mobile App Bridge APIs to enable native functionality on mobile screens.
 
     For example, if you want an event to be triggered for a button on the mobile device:
 
@@ -87,14 +87,7 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
 ## What to do next
 
-After you’ve created the Now Experience Framework page, you must create a [[url-screen|mobile web screen]] in MAB. Then you must add the Now Experience Framework page URL to the mobile web screen configuration in MAB. For details on completing this configuration, see Step 2 in [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
+After you’ve created the Now Experience Framework page, you must create a mobile web screen in MAB. Then you must add the Now Experience Framework page URL to the mobile web screen configuration in MAB. For details on completing this configuration, see Step 2 in [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
 **Parent Topic:**[Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md)
 
-## Related
-
-- [[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]]
-- [[mobile-playbooks|Mobile App Bridge]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-screens-landing|Mobile screens]]
-- [[url-screen|Mobile web screen]]

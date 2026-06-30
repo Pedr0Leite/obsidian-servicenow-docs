@@ -118,7 +118,7 @@ Investment type of the program.The default available options are **Cost Reductio
 
 </td></tr><tr><td>
 
-Impacted [[c_BusinessUnits|Business Units]]
+Impacted Business Units
 
 </td><td>
 
@@ -413,7 +413,7 @@ You can create program tasks from the Program form related lists.
 -   **[Allocate budget to a program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/allocate-budget-to-program.md)**  
 Set the budget of a program according to the fiscal years.
 -   **[Create a program status report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/create-program-status-report.md)**  
-[[create-program-status-report|Create a program status report]] periodically to view a status rollup of the projects in the program. When you create a status report, the status for different aspects of the program is rolled up from the project status reports of all projects.
+Create a program status report periodically to view a status rollup of the projects in the program. When you create a status report, the status for different aspects of the program is rolled up from the project status reports of all projects.
 -   **[View program status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/view-program-status-report.md)**  
 Program status reports provide the up-to-date at-a-glance progress of all the projects in the program in several categories.
 
@@ -426,7 +426,3 @@ Program status reports provide the up-to-date at-a-glance progress of all the pr
 
 [Program Dashboard]()
 
-## Related
-
-- [[c_BusinessUnits|Business units]]
-- [[create-program-status-report|Create a program status report]]

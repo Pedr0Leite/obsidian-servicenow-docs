@@ -12,7 +12,7 @@ breadcrumb: [Administering applications, Get started, Administer the ServiceNow 
 
 # Legacy Application Manager
 
-The information in this section describes using the legacy or classic [[application-manager|application manager]] experience. A new Application Manager experience is now available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all your licensed applications, plugins, installed applications, and available updates. For more information, see Application Manager.
+The information in this section describes using the legacy or classic application manager experience. A new Application Manager experience is now available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all your licensed applications, plugins, installed applications, and available updates. For more information, see Application Manager.
 
 ## Get started
 
@@ -39,17 +39,10 @@ A new Application Manager experience is available. The new experience simplifies
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
--   **[[exploring-legacy-application-manager|Exploring Legacy Application Manager]]**  
+-   **[Exploring Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-legacy-application-manager.md)**  
 The information in this section describes using the legacy or classic application manager experience. A new Application Manager experience is now available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all your licensed applications, plugins, installed applications, and available updates. For more information, see Application Manager.
--   **[[using-legacy-application-manager|Using Legacy Application Manager]]**  
-Use legacy application manager to request applications or [[entite-app|manage entitlements from your ServiceNow instance]].
+-   **[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)**  
+Use legacy application manager to request applications or manage entitlements from your ServiceNow instance.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[exploring-legacy-application-manager|Exploring Legacy Application Manager]]
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[administering-applications|Administering applications]]
-- [[application-manager|Application Manager]]
-- [[entite-app|Manage entitlements from your ServiceNow instance]]

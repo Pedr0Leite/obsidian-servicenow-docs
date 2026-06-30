@@ -15,11 +15,11 @@ breadcrumb: [Configuring Now Assist in AI Search, Now Assist in AI Search, Servi
 
 # Configure AI Search as the source for Ask Now Assist suggestions
 
-Enable term highlighting in enhanced chat's Ask Now Assist suggestions by [[configuring-ais|configuring AI Search]] as the source for those suggestions.
+Enable term highlighting in enhanced chat's Ask Now Assist suggestions by configuring AI Search as the source for those suggestions.
 
 ## Before you begin
 
-You must have at least [[now-assist-ais|Now Assist in AI Search]] 15 installed.
+You must have at least Now Assist in AI Search 15 installed.
 
 Role required: admin
 
@@ -27,7 +27,7 @@ Role required: admin
 
 By default, Ask Now Assist suggestions are generated using a prefix-based GlideAggregate query against the Utterance Suggestion \[sys\_suggested\_utterance\] table.
 
-Admins can configure the system to use [[ia-ai-search|AI Search]] as the source for Ask Now Assist suggestions in enhanced chat. Making this change activates suggestion term highlighting in Ask Now Assist and provides improvements such as wildcard searching and lemmatization for suggestions.
+Admins can configure the system to use AI Search as the source for Ask Now Assist suggestions in enhanced chat. Making this change activates suggestion term highlighting in Ask Now Assist and provides improvements such as wildcard searching and lemmatization for suggestions.
 
 For more information on Ask Now Assist suggestions in enhanced chat, see [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/nava-enhanced-chat.md).
 
@@ -64,8 +64,3 @@ For more information on Ask Now Assist suggestions in enhanced chat, see [Enhanc
 
 **Parent Topic:**[Configuring Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
 
-## Related
-
-- [[configuring-ais|Configuring AI Search]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[ia-ai-search|AI Search]]

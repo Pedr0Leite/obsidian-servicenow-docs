@@ -14,16 +14,16 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Working with Space Optimization
 
-Perform [[space-optimization|space optimization]]-related actions such as creating scenarios, approving scenarios and more.
+Perform space optimization-related actions such as creating scenarios, approving scenarios and more.
 
-**Note:** To access the Space Optimization module in [[workplace-central-feat|Workplace Central]], you must have the sn\_wsd\_spcmgmt.space\_planner role or the sn\_wsd\_spcmgmt.scenario\_reader role; sn\_wsd\_spcmgmt.scenario\_reader is a read-only role.
+**Note:** To access the Space Optimization module in Workplace Central, you must have the sn\_wsd\_spcmgmt.space\_planner role or the sn\_wsd\_spcmgmt.scenario\_reader role; sn\_wsd\_spcmgmt.scenario\_reader is a read-only role.
 
 -   **[Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-[[create-multi-building-scenario|Create a scenario]] with a building. Add, update, or remove space allocations before publishing and deploying a scenario. Manage and update your scenarios using the Stack plan and Floor map component tabs.
+Create a scenario with a building. Add, update, or remove space allocations before publishing and deploying a scenario. Manage and update your scenarios using the Stack plan and Floor map component tabs.
 -   **[Viewing or editing a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/viewing-editing-scenario.md)**  
 You can view the details like the floor details and space KPIs. You can edit a scenario to allocate spaces to projects and neighborhoods, assign spaces to users, or edit space assignments.
 -   **[Review a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/review-a-scenario.md)**  
-[[review-a-scenario|Review a scenario]] created by your colleague on a building in a read-only mode.
+Review a scenario created by your colleague on a building in a read-only mode.
 -   **[Publish a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md)**  
 After creating a scenario and implementing the space allocation and assignment, assignment type change for a department, cost center, or neighborhood publish the scenario. Share the scenario with your colleagues or stake holders.
 -   **[Send a scenario for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/send-a-scenario-for-approval.md)**  
@@ -35,11 +35,11 @@ After publishing a scenario plan, deploy the scenario on your production.
 -   **[View scenario change details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-scenario-change-details.md)**  
 View details of each change that you implemented in a scenario. You can view details such as the space that is changed, the type of change, and the workplace move case associated with the change.
 -   **[Create a copy of an existing scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md)**  
-[[create-copy-of-scenario|Create a copy of an existing scenario]] and make changes. Save time from a creating a scenario from scratch if there are only minor changes to an already created scenario.
+Create a copy of an existing scenario and make changes. Save time from a creating a scenario from scratch if there are only minor changes to an already created scenario.
 -   **[View or edit space allocations of a building](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-or-edit-space-alloctions-of-a-building.md)**  
 The Space optimization also enables you to view space allocations and make any space-related changes on a building directly. You can view a building stack plan and floor map same as scenarios.
 -   **[Work on a space assist request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-space-assist-request.md)**  
-As a space planner, fulfill workplace [[space-assistance|space assistance]] requests. View the selected space plan of the request and deploy accordingly. You can also assign the request to another assignment group or a user.
+As a space planner, fulfill workplace space assistance requests. View the selected space plan of the request and deploy accordingly. You can also assign the request to another assignment group or a user.
 -   **[Map based space administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/map-based-space-administration.md)**  
 As a space planner, perform space assignments, user assignments and other actions on a building using the building's floor map directly.
 
@@ -64,11 +64,3 @@ As a space planner, perform space assignments, user assignments and other action
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[review-a-scenario|Review a scenario]]
-- [[create-copy-of-scenario|Create a copy of an existing scenario]]
-- [[space-assistance|Space assistance]]

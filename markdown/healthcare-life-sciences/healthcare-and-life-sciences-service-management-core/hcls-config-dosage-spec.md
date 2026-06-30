@@ -32,7 +32,7 @@ Description
 
 </td><td>
 
-Configure a characteristic for a dosage so that you can define the dosages for a medication product in [[hcls-overview|Healthcare and Life Sciences]] workflows.
+Configure a characteristic for a dosage so that you can define the dosages for a medication product in Healthcare and Life Sciences workflows.
 
 </td></tr><tr><td>
 
@@ -48,12 +48,7 @@ Create a dosage specification associated with a medication product included in a
 
 </td><td>
 
-Use scripted extension points to decide which dosage characteristics are mapped to the fields on the Dosage details section of a [[hcls-med-prescription-form|Medication Prescription form]].
+Use scripted extension points to decide which dosage characteristics are mapped to the fields on the Dosage details section of a Medication Prescription form.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-med-prescription-form|Medication Prescription form]]

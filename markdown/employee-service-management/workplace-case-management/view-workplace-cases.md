@@ -26,7 +26,7 @@ You can view any workplace case when required.View the details provided by the u
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Cases**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Cases**.
 
 2.  Select any of the following options to view workplace cases:
 
@@ -198,7 +198,7 @@ Replacement for
 
 </td><td>
 
-When a service is updated or edited on the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] portal, the workplace case that was originally raised is replaced by a new workplace case.This notification is meant for the workplace manager or workplace agent and does the following:
+When a service is updated or edited on the Workplace Reservation Management portal, the workplace case that was originally raised is replaced by a new workplace case.This notification is meant for the workplace manager or workplace agent and does the following:
 
 -   On the old case, a notification is displayed pointing to the new case.
 -   On the old case, a notification is displayed to enable easy access to the previous case to look up past actions.
@@ -250,7 +250,7 @@ Tracks the total time spent on a case or task. The timer starts at zero, tracks 
     -   **Parent**: In a Parent case, cost is shown as a sum of the active child \(category\) cases.
     -   **Child \(category\)**: For child cases, cost is shown as a sum of the costs for the related tasks and cases.
     -   **Tasks**: In related tasks and cases, cost is shown as price per item, quantity, and the total costs.
-10. To retain services while making a reservation using the [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]], employees must open the reservation and open the plugin to change the date, time, or locations.
+10. To retain services while making a reservation using the Workplace Reservations for Microsoft Outlook Add-in, employees must open the reservation and open the plugin to change the date, time, or locations.
 
 11. Select **Save reservation** to confirm that the services are retained,
 
@@ -270,8 +270,3 @@ Tracks the total time spent on a case or task. The timer starts at zero, tracks 
 
 [Managing print cases]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]

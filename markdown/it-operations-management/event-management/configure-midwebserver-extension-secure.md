@@ -14,7 +14,7 @@ breadcrumb: [Configure the MID Web Server extension, MID Web Server, Event Manag
 
 # Configure a secure MID Web Server extension
 
-Configure a TLS listener for extra security and encryption of data transferred to and from the [[mid-web-server|MID Web Server]] extension. Access both a private key and a certificate \(or certificate chain\) from a Java keystore to use during the TLS handshake where the MID Web Server and the client acknowledge each other.
+Configure a TLS listener for extra security and encryption of data transferred to and from the MID Web Server extension. Access both a private key and a certificate \(or certificate chain\) from a Java keystore to use during the TLS handshake where the MID Web Server and the client acknowledge each other.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ For more information, see the **Install custom certificates in the MID Server un
 
 [Connect the agent to the MID Server using mTLS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/enable-tls-agent.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

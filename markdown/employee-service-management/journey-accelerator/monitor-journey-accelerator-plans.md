@@ -14,7 +14,7 @@ breadcrumb: [Use, Journey Accelerator, Employee Journey Management, HR Service D
 
 # Monitor Journey Accelerator plans
 
-Monitor plans and to-do tasks from the [[journey-accelerator-1|Journey Accelerator]] dashboard.
+Monitor plans and to-do tasks from the Journey Accelerator dashboard.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ Role required: Reader \[sn\_ja.reader\]
 
 **Parent Topic:**[Working with Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/working-with-journey-accelerator-plans.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

@@ -18,7 +18,7 @@ Create a serverless schedule to discover Nutanix Acropolis using REST API.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -81,6 +81,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Nutanix Acropolis discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nutanix-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Skills Foundation, Skills Foundation, Growth Experience
 
 # Skills Foundation guided setup
 
-Install and set up [[skills-intelligence|Skills Foundation]] and Company Job Architecture confidently with step-by-step instructions using guided setup.
+Install and set up Skills Foundation and Company Job Architecture confidently with step-by-step instructions using guided setup.
 
 ## Before you begin
 
@@ -70,8 +70,8 @@ Set up Relevant Plugin\(s\)
 
 Install the optional plugins that enhance the Skills Foundation experience.Related tasks:
 
--   [[skills-intelligence-workspace|Skills Workspace]] plugin.
--   [[proactive-prompts-for-hrsd|Proactive Prompts]] plugin.
+-   Skills Workspace plugin.
+-   Proactive Prompts plugin.
 
 
 </td></tr><tr><td>
@@ -105,7 +105,7 @@ Upload your existing company job architecture data, set the growth path using jo
 
 </td></tr><tr><td>
 
-[[emp-slate-employee-profile|Employee Profile]] Upload and Setup
+Employee Profile Upload and Setup
 
 </td><td>
 
@@ -128,9 +128,4 @@ Control various Skills Foundation features using these system properties.Related
 </td></tr></tbody>
 </table>6.  Select **Complete** after you have finished all the tasks within all categories.
 
-## Related
 
-- [[skills-intelligence|Skills Foundation]]
-- [[skills-intelligence-workspace|Skills Workspace]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[emp-slate-employee-profile|Employee profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage a Universal Request from the Health and Safety Workspace, Un
 
 # Create associated tickets for Universal record within Health and Safety Workspace
 
-The agent working on the primary ticket of a [[ur-landing-limitedaccess|Universal Request]] can request other departments for assistance in resolving a universal request \(UR\) by creating associated tickets for the UR.
+The agent working on the primary ticket of a Universal Request can request other departments for assistance in resolving a universal request \(UR\) by creating associated tickets for the UR.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A routing agent of the primary ticket can request other departments for assistan
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\) to open the **Cases** tab.
 
@@ -54,8 +54,3 @@ A routing agent of the primary ticket can request other departments for assistan
 
 An associated ticket is created with the descriptions provided and is associated with the existing UR of the primary ticket. The associated ticket can also be viewed in the **Associated Ticket** related item of the Universal Request record.
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

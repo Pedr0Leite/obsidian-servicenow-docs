@@ -22,7 +22,7 @@ Role required: it\_program\_manager, scrum\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the **Program** tab, select **Backlog**.
 
@@ -107,6 +107,3 @@ Use the keyboard to rearrange a group of epics
 
 **Parent Topic:**[Scrum Programs for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/scrum-programs-concept.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

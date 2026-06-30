@@ -14,7 +14,7 @@ breadcrumb: [Manage service capabilities, Extend ServiceNow AI Platform capabili
 
 # Password Reset
 
-The ServiceNow® Password Reset application enforces strong and secure passwords by enabling end users to reset or change their passwords either by using the [[self-service-landing|self-service]] process or by requesting the assistance of a service desk agent.
+The ServiceNow® Password Reset application enforces strong and secure passwords by enabling end users to reset or change their passwords either by using the self-service process or by requesting the assistance of a service desk agent.
 
 ## Password Reset for Virtual Agent
 
@@ -22,7 +22,7 @@ Augment an end-user experience with Password Reset for ServiceNow® Virtual Agen
 
 ## Password Reset Windows Application
 
-The [[win-password-reset-overview|Password Reset Windows Application]] enables a user, who forgets the password or is locked out of a Windows computer, to reset the password directly from the Windows login screen.
+The Password Reset Windows Application enables a user, who forgets the password or is locked out of a Windows computer, to reset the password directly from the Windows login screen.
 
 ## Get started
 
@@ -40,13 +40,7 @@ The [[win-password-reset-overview|Password Reset Windows Application]] enables a
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-[[reference|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[reference|Reference]]

@@ -16,7 +16,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 CDM system properties.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## CDM system properties
 
@@ -88,7 +88,7 @@ sn\_cdm.exception\_enabled
 
 </td><td>
 
-If set to false, the control exception functionality is disabled regardless of other policy [[settings-mobile|settings]].
+If set to false, the control exception functionality is disabled regardless of other policy settings.
 
  Default: true
 
@@ -290,8 +290,3 @@ File types for which the content preview is available on the Preview pane.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Document Management, Document Services, Manage content capabilities
 
 # Activate Document Management
 
-Activate the [[doc-mgt-plugin|Document Management plugin]].
+Activate the Document Management plugin.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[doc-management-landing|Document Management]]:
+The following items are installed with Document Management:
 
 -   Roles
 -   Tables
@@ -39,12 +39,8 @@ For more information, see[Components installed with Document Management](https:/
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[doc-mgt-plugin|Document Management plugin]]
-- [[doc-management-landing|Document Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

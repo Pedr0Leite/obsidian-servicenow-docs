@@ -22,18 +22,14 @@ The Now Assist for CWM application is compatible with Yokohama Patch 3 release a
 
 ## Supported user interfaces
 
-The Now Assist for CWM application is supported for [[cwm-landing|Collaborative Work Management]] version 6.0.0 and later.
+The Now Assist for CWM application is supported for Collaborative Work Management version 6.0.0 and later.
 
 ## Application information
 
-Installing the latest [[now-assist-for-cwm-landing|Now Assist for Collaborative Work Management \(CWM\)]] store app \(sn\_cwm\_ai\) also installs Now Assist for Platform \(sn\_genai\_platform\).
+Installing the latest Now Assist for Collaborative Work Management \(CWM\) store app \(sn\_cwm\_ai\) also installs Now Assist for Platform \(sn\_genai\_platform\).
 
 **Related topics**  
 
 
 [Configure Now Assist for Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/configure-now-assist-for-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[now-assist-for-cwm-landing|Now Assist for Collaborative Work Management \(CWM\)]]

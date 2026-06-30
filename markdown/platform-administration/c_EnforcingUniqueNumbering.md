@@ -24,7 +24,7 @@ To enforce uniqueness, you can:
 
 ## Sample business rule
 
-This sample script can be used as part of a before business rule on insert only to check for duplicate numbers and replace them with the next available number. The following script references a script created in [[t_RenumberingRecords|Configure left padding of a system number in a table]].
+This sample script can be used as part of a before business rule on insert only to check for duplicate numbers and replace them with the next available number. The following script references a script created in [Configure left padding of a system number in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RenumberingRecords.md).
 
 ```javascript
 var curNum = current.number + '';
@@ -47,14 +47,10 @@ if(curNum) {
 
 ```
 
-**Parent Topic:**[[c_ManagingRecordNumbering|Record numbering]]
+**Parent Topic:**[Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md)
 
 **Related topics**  
 
 
 [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 
-## Related
-
-- [[t_RenumberingRecords|Configure left padding of a system number in a table]]
-- [[c_ManagingRecordNumbering|Record numbering]]

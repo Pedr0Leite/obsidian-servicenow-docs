@@ -14,11 +14,11 @@ breadcrumb: [Bitbucket, Integrate, DevOps Change Velocity, IT Service Management
 
 # Set up OAuth 2.0 Authorization Code for Bitbucket Cloud
 
-Set up OAuth 2.0 Authorization Code credentials for Bitbucket in [[devops-landing-page-new|DevOps Change Velocity]] to use a more secure authentication method.
+Set up OAuth 2.0 Authorization Code credentials for Bitbucket in DevOps Change Velocity to use a more secure authentication method.
 
 ## Before you begin
 
-The OAuth consumer must be created in the Bitbucket tool with the required permissions before creating the OAuth credential record. You can navigate to **Workspace [[settings-mobile|settings]] &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. The following permissions must be selected when you create the credentials for OAuth 2.0.
+The OAuth consumer must be created in the Bitbucket tool with the required permissions before creating the OAuth credential record. You can navigate to **Workspace settings &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. The following permissions must be selected when you create the credentials for OAuth 2.0.
 
 -   Account: Read
 -   Projects: Read
@@ -51,7 +51,7 @@ When you select the credential type as OAuth 2.0 - Authorization Code for Bitbuc
 
 3.  Select **Connect to a third party OAuth Provider**.
 
-    The system displays an empty [[application-registries-form|Application Registries form]].
+    The system displays an empty Application Registries form.
 
 4.  Fill the following fields in the form.
 
@@ -188,8 +188,3 @@ Select the order to apply this credential. For example, enter `100`.
 
 **Parent Topic:**[Bitbucket integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/bitbucket-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]
-- [[application-registries-form|Application Registries form]]

@@ -28,7 +28,7 @@ The customer service portal includes a link to the knowledge base that you can u
 
 2.  Click **Knowledge**.
 
-    The knowledge page displays a separate category for each of the products purchased by this customer. It also displays [[migration-lists|lists]] of articles by:
+    The knowledge page displays a separate category for each of the products purchased by this customer. It also displays lists of articles by:
 
     -   Featured content
     -   Most useful
@@ -61,7 +61,3 @@ Displays a list of related articles. Click a link to display the desired article
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]

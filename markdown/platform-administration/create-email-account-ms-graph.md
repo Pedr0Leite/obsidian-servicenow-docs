@@ -12,7 +12,7 @@ breadcrumb: [Read email using Microsoft Graph, Read or send emails using Microso
 
 # Create an email account for Microsoft Graph \(receive\)
 
-[[t_ConfigureAnEmailAccount|Create an email account]] for reading emails from Microsoft Exchange Online using Microsoft Graph Endpoints.
+Create an email account for reading emails from Microsoft Exchange Online using Microsoft Graph Endpoints.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Antispam and malware scanning are managed by Microsoft Graph account and not Ser
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
 2.  Select **New**.
 
@@ -102,7 +102,7 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Select the test connection link at the bottom to test the account.
 
 
-**Parent Topic:**[[read-email-using-ms-graph|Reading email using Microsoft Graph]]
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-email-using-ms-graph.md)
 
 **Related topics**  
 
@@ -111,9 +111,3 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 [Configure an OAuth profile to use certificates for authentication with Microsoft Azure]()
 
-## Related
-
-- [[read-email-using-ms-graph|Reading email using Microsoft Graph]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]

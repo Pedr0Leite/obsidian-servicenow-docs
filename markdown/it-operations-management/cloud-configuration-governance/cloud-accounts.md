@@ -14,12 +14,12 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 # Cloud accounts
 
-A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
+A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
 From a cloud account, you can:
 
 -   Add LDCs. A logical datacenter \(LDC\) is a region-specific virtual cloud that is associated with a service account. The datacenter hosts your cloud resources.
--   Run [[r-discovery|Discovery]] on LDCs to update the CMDB with configuration changes or life cycle changes \(create/modify/terminate\) for each resource in each logical datacenter \(LDC\) that is associated with the cloud account.
+-   Run Discovery on LDCs to update the CMDB with configuration changes or life cycle changes \(create/modify/terminate\) for each resource in each logical datacenter \(LDC\) that is associated with the cloud account.
 -   Set capacity limits on cloud services like virtual machines, virtual CPUs, virtual networks, aggregate storage volume size, and others. Set limits to help ensure that cloud resources are provisioned at appropriate scales. Limits are especially important for capacity-constrained environments like private clouds.
 -   Publish a cloud account to enable business teams to deploy stacks.
 
@@ -82,7 +82,7 @@ X
 </td></tr></tbody>
 </table>## Update a cloud account
 
-You keep a cloud account in the **Draft** state until you are ready to make the datacenters and capacity limits available for use — in blueprints and the [[cloudmgt-cloud-user-portal|Cloud User Portal]], for example. You can change the state to **Published** after you run Discovery.
+You keep a cloud account in the **Draft** state until you are ready to make the datacenters and capacity limits available for use — in blueprints and the Cloud User Portal, for example. You can change the state to **Published** after you run Discovery.
 
 ## Set up an additional cloud account
 
@@ -118,8 +118,3 @@ The Discovery process discovers Microsoft Azure services.
 
 [Moving Cloud Provisioning and Governance content across environments]()
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

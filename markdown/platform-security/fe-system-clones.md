@@ -12,7 +12,7 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Field Encryption and system clones
 
-Cloning an instance with [[field-encryption|Field Encryption]] installed automatically generates new field encryption module [[encryption-landing|encryption]] keys on the target clone instance.
+Cloning an instance with Field Encryption installed automatically generates new field encryption module encryption keys on the target clone instance.
 
 If Field Encryption is installed on your instance, a new field encryption module encryption key is automatically generated on the target clone instance as a part of clone process. These keys are generated for all modules to which the user has access, and that does not have a key already.
 
@@ -23,14 +23,8 @@ Because of this, field encryption modules on the target clone instance may have 
 
     The active module encryption key is used to encrypt inserted data as needed on the target clone instance. The deactivated module is used to decrypt existing data that was cloned over as part of the system clone.
 
-    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]].
+    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [Schedule mass encryption, decryption, and rekeying jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md).
 
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]

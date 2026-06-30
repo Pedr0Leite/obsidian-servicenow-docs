@@ -14,7 +14,7 @@ breadcrumb: [Overview, Continual Improvement Management, IT Service Management]
 
 # Domain separation and Continual Improvement Management
 
-Domain separation in [[cim-landing-page|Continual Improvement Management]] is configured to apply to all features of the application. Separation of data is configured along with separation of logic and process. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation in Continual Improvement Management is configured to apply to all features of the application. Separation of data is configured along with separation of logic and process. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -71,7 +71,7 @@ Use cases:
 
 -   An Improvement Manager has access to multiple domains, but wants to update a record with content within a specific domain.
 
-    The domain specified for the current record drives the functionality of that record and [[reference-for-itsm-mobile-agent|reference]] fields.
+    The domain specified for the current record drives the functionality of that record and reference fields.
 
 
 **Parent Topic:**[Continual Improvement Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/get-started-cim.md)
@@ -81,7 +81,3 @@ Use cases:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

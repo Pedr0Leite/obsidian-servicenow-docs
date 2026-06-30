@@ -26,7 +26,7 @@ Modifying a request does not resubmit it to the approval process.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Open Records** &gt; **Requests** and open an existing request.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Open Records** &gt; **Requests** and open an existing request.
 
 2.  Click **Add New Item**.
 
@@ -39,6 +39,3 @@ Modifying a request does not resubmit it to the approval process.
 
 **Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

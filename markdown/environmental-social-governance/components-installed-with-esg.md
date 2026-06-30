@@ -18,7 +18,7 @@ Several types of components such as roles, tables, and properties are installed 
 
 The following roles are installed with the Operational Sustainability Management application.
 
-**Note:** For the tables and roles installed with the GRC: Metrics application, see [[tables-installed-with-metrics|Components installed with the GRC: Metrics application]].
+**Note:** For the tables and roles installed with the GRC: Metrics application, see [Components installed with the GRC: Metrics application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/tables-installed-with-metrics.md).
 
 <table id="table_m4l_lwl_frb"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Users with this role can read, write, update, and delete the following:-   Mater
 -   Disclosures
 -   Authority documents
 -   Citations
--   Citations and metric definitions from the [[esg-content-accelerator|Unified content management]] application
+-   Citations and metric definitions from the Unified content management application
 -   Risk assessment factors
 -   Update and publish risk assessments methodologies
 -   Emission activity
@@ -70,7 +70,7 @@ If Scope 3 emissions is installed, this role can do the read, write, update, and
 -   Supplier emissions by model
 -   Inflation factors
 
-These users can read and update the **sn\_esg\_scope3.historical\_years\_selector** system property and can access the [[scope-3-dashboard|Scope 3 dashboard]].
+These users can read and update the **sn\_esg\_scope3.historical\_years\_selector** system property and can access the Scope 3 dashboard.
 
 </td><td>
 
@@ -703,11 +703,5 @@ The following scheduled jobs are installed with the Operational Sustainability M
 |Calculate ESG license count|This Job executes daily at 11:00 PM. It calculates the license based on active data in base metric definition where domain area is ESG.|
 |Generate ESG goals activity summary|This job executes periodically for every 12 hours. This job deletes the existing goal activity summary and creates new goal activity summary for all goals classified on "environmental, social, governance".|
 
-**Parent Topic:**[[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/reference-data-esg.md)
 
-## Related
-
-- [[tables-installed-with-metrics|tables installed with metrics]]
-- [[reference-data-esg|Operational Sustainability Management \(formerly ESG\) reference]]
-- [[esg-content-accelerator|Unified content management]]
-- [[scope-3-dashboard|Scope 3 dashboard]]

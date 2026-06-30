@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Create a TCO report source in Enterprise Asset Workspace
 
-[[create-tco-report-source-ham|Create a TCO report source]] to add report sources to a TCO report.
+Create a TCO report source to add report sources to a TCO report.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset analytics** &gt; **Asset TCO**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Asset analytics** &gt; **Asset TCO**.
 
 2.  Open the report for which you want to create report sources from the Comparative reports section.
 
@@ -92,7 +92,3 @@ Description of the report source.
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[create-tco-report-source-ham|Create a TCO report source]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

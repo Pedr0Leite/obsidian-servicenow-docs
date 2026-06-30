@@ -24,7 +24,7 @@ Role required: sn\_prd\_pm.product\_catalog\_manager, sn\_prd\_pm.product\_catal
 
 2.  Navigate to **Needs** &gt; **Needs Template** and select **New**.
 
-    On the form, fill in the [[fields|fields]].
+    On the form, fill in the fields.
 
 <table id="table_vtf_v4k_c1c"><thead><tr><th>
 
@@ -113,12 +113,7 @@ Stage of the needs template:-   Draft: Initial state of the needs template. The 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

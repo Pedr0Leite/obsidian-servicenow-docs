@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Test a prompt
 
-After you [[create-prompt-template|create a prompt]] for your custom skill, test the prompt template before you finalize it. Testing the prompt verifies that you’re seeing the expected prompt results before it’s activated.
+After you create a prompt for your custom skill, test the prompt template before you finalize it. Testing the prompt verifies that you’re seeing the expected prompt results before it’s activated.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you created the prompt for.
 
@@ -73,7 +73,3 @@ If you have not configured the deployment settings for your skill, see [Configur
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[create-prompt-template|Create a prompt]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

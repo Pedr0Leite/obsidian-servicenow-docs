@@ -16,13 +16,13 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 Advanced Shipment Notification \(ASN\) automates the creation of asset records in the In transit state when vendors supply both asset and shipment details before delivery.
 
-When a purchase order is created for specific [[c_Models|models]], vendors can provide detailed asset and shipment information ahead of delivery. ASN uses this information to generate asset records in the In Transit state automatically, reducing manual entry, and enhancing tracking accuracy.
+When a purchase order is created for specific models, vendors can provide detailed asset and shipment information ahead of delivery. ASN uses this information to generate asset records in the In Transit state automatically, reducing manual entry, and enhancing tracking accuracy.
 
 You can initiate the ASN workflow with any of the following roles:
 
 -   ham\_admin
 -   ham\_user
--   [[c_Procurement|procurement]]\_admin
+-   procurement\_admin
 -   asset
 -   admin
 
@@ -59,7 +59,7 @@ The system validates the data in the ASN import template to verify its accuracy 
     2.  if no PO is mentioned in the template, validates the provided location.
 -   **Model validations**
     1.  Checks that the model is provided and exists in the system.
-    2.  Ignores [[c_CreatingSoftwareModels|software models]] automatically, as software licenses aren’t supported through the ASN import.
+    2.  Ignores software models automatically, as software licenses aren’t supported through the ASN import.
     3.  Evaluates the asset tracking strategy for the model:
         -   If the strategy is set to **Don't create asset**, asset record isn't created.
         -   If the strategy is set to **Track as Consumable**, unique identifier check isn't performed.
@@ -67,15 +67,9 @@ The system validates the data in the ASN import template to verify its accuracy 
         1.  Retrieves unique identifier fields.
         2.  Validates that all required unique fields are present.
         3.  Verifies that at least one unique field value in the import data is different from the values in existing asset records.
--   **Quantity validations for non-[[c_ReceiveAConsumableAsset|consumable assets]]**
+-   **Quantity validations for non-consumable assets**
     1.  Checks that the quantity doesn't exceed 1.
     2.  If the provided quantity exceeds 1, logs an error message in the staging table, resets the quantity to **1**, and creates an asset record.
 
 For more details on ASN import process, see [Use Advanced Shipment Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/advanced-shipment-notification.md).
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

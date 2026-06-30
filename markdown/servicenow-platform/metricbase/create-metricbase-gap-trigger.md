@@ -14,7 +14,7 @@ breadcrumb: [Trigger flows, MetricBase, Manage instance data sources, Extend Ser
 
 # Create a MetricBase gap trigger
 
-Create a MetricBase gap trigger to alert you when [[metricbase|MetricBase]] stops receiving data.
+Create a MetricBase gap trigger to alert you when MetricBase stops receiving data.
 
 ## Before you begin
 
@@ -137,6 +137,3 @@ Description of the trigger.
 
 Associate this trigger with a Workflow Studio flow. For more information, see [Assign a trigger to a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/assign-trigger-to-workflow.md).
 
-## Related
-
-- [[metricbase|MetricBase]]

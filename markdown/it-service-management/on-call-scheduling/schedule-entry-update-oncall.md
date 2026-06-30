@@ -22,7 +22,7 @@ Role required: rota\_admin or rota\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Calendars**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Calendars**.
 
     The on-call coverage for your group's calendar appears.
 
@@ -168,6 +168,3 @@ Delete the schedule entry. A warning message appears.
 
 [Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/roles-assigning-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

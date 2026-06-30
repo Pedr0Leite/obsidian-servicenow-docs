@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Install Pricing Management
 
-You can install the [[pricing-management|Pricing Management]] application \(sn\_csm\_pricing\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Pricing Management application \(sn\_csm\_pricing\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following items are installed with Pricing Management:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-with-pricing-management|Components installed with Pricing Management]].
+For more information, see [Components installed with Pricing Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-with-pricing-management.md).
 
 ## Procedure
 
@@ -48,12 +48,8 @@ For more information, see [[components-installed-with-pricing-management|Compone
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[components-installed-with-pricing-management|Components installed with Pricing Management]]
-- [[pricing-management|Pricing Management]]
-- [[use-cases|Use cases]]

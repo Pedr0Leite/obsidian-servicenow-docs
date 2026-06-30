@@ -14,7 +14,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 Use the Picklist Extension Pricing enrichment to adjust pricing according to location or other factors.
 
-The Picklist Extension Pricing enrichment can be used to dynamically change the pricing of Field Options in designated picklist extension [[fields|fields]].
+The Picklist Extension Pricing enrichment can be used to dynamically change the pricing of Field Options in designated picklist extension fields.
 
 ## Prerequisites
 
@@ -118,7 +118,7 @@ Sample enrichment script design:
 2.  Get prices for options and store them \(either via table lookup or in the function itself\)
 3.  Set the price for the right option \(pleRequest.forEach\(\)\)
 
-[[use-cases|Use cases]]:
+Use cases:
 
 -   ZIP code dependent pricing
 -   Price multipliers and discounts
@@ -139,7 +139,3 @@ Referencing elements in the `pleRequest` object is similar to referencing object
 
 [CPQ scripting language reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[fields|Fields]]
-- [[use-cases|Use cases]]

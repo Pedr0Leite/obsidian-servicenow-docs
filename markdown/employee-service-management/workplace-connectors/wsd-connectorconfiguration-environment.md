@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for environmental data, Configure, Workp
 
 # Set up Connector Configuration for Environmental sensor data
 
-Configure the [[connector-configuration-occupancy|Connector Configurations]] table for loading the Environmental data. Connector configuration table retrieves the sensor data from different environmental sensor data providers.
+Configure the Connector Configurations table for loading the Environmental data. Connector configuration table retrieves the sensor data from different environmental sensor data providers.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Connector Configuration**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Connector Configuration**.
 
 2.  Select **New**.
 
@@ -90,7 +90,3 @@ Time \(in minutes\) beyond which data is considered stale.Beyond this time, fres
 
 **Next topic:**[Provider Connector Configuration for Environmental sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-env-provider-connectorconfig.md)
 
-## Related
-
-- [[connector-configuration-occupancy|Connector Configurations]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]

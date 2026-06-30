@@ -26,9 +26,9 @@ Role required: Azure admin
 
 2.  Select single sign-on.
 
-    On the Select a single sign-on method page, select [[c_SAML2.0WebBrowserSSOProfile|SAML]].
+    On the Select a single sign-on method page, select SAML.
 
-3.  On the Set up single sign-on with SAML page, select the pen icon for Basic SAML [[sc-configuration|Configuration]] to edit the settings.
+3.  On the Set up single sign-on with SAML page, select the pen icon for Basic SAML Configuration to edit the settings.
 
     \[Omitted image "configure-azure-ad-sso.png"\] Alt text: SAML Configuration.
 
@@ -70,7 +70,4 @@ Role required: Azure admin
 
     \[Omitted image "set-up-saml.png"\] Alt text: Setup SAML.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]

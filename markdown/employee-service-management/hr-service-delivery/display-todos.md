@@ -14,7 +14,7 @@ breadcrumb: [Use, Enterprise Service Management Integrations Framework, Integrat
 
 # View tasks of a third-party system
 
-View tasks that are pulled from the third-party system into [[hr-integrations-framework|Enterprise Service Management Integrations Framework]].
+View tasks that are pulled from the third-party system into Enterprise Service Management Integrations Framework.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: sn\_hr\_integr\_fw.admin
         3.  To specify a different condition in the retention policy, add a script in the **Condition** field.
     -   If you want use the Pulled Integration To-do table to pull to-dos or tasks from a third-party system, then you must create an implementation of this extension point: sn\_hr\_integr\_fw.TodoTransformHelper.
 
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

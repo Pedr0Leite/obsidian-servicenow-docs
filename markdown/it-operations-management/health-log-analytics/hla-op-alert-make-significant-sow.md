@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  In the [[workspace-dashboard-use|Service Operations Workspace]], open a Log Analytics alert and then select **Apply ML feedback** &gt; **Mark as significant**.
+1.  In the Service Operations Workspace, open a Log Analytics alert and then select **Apply ML feedback** &gt; **Mark as significant**.
 
 2.  Confirm the action in the dialog box.
 
@@ -37,6 +37,3 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 **Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-significance.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

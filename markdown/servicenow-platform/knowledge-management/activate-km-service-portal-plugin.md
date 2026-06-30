@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Activate the Knowledge Management Service Portal plugin
 
-The [[knowledge-management|Knowledge Management]] - Service Portal plugin \(com.snc.knowledge\_serviceportal\) is active by default for customers on Madrid and later releases. Existing customers on release versions prior to Madrid can activate the plugin, if required.
+The Knowledge Management - Service Portal plugin \(com.snc.knowledge\_serviceportal\) is active by default for customers on Madrid and later releases. Existing customers on release versions prior to Madrid can activate the plugin, if required.
 
 ## Before you begin
 
@@ -41,14 +41,10 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

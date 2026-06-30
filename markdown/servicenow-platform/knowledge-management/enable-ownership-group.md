@@ -27,7 +27,7 @@ When [Create a knowledge article from an incident in ITSM Agent Workspace](https
 
 ## Activation information
 
-To enable the use of ownership groups, enable the **glide.knowman.ownership\_group.enabled** property. This property is available when the [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) is activated. By default, the property is disabled.
+To enable the use of ownership groups, enable the **glide.knowman.ownership\_group.enabled** property. This property is available when the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. By default, the property is disabled.
 
 **Note:** If you use ownership groups, try not to disable the **glide.knowman.ownership\_group.enabled** property later. If you must disable the property later, ensure that you manually reassign all knowledge articles associated with any ownership group, close all article approvals sent to ownership groups, and resolve all open feedback tasks assigned to ownership groups.
 
@@ -46,6 +46,3 @@ With an ownership group associated with a knowledge article, ownership group mem
 
 [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

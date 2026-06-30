@@ -29,7 +29,7 @@ The ServiceNow® Retail product empowers managers and associates to manage daily
 
 </td></tr><tr><td>
 
-[Manage store inquiries\[Omitted image "bus-customer-service-agent.svg"\] Alt text:Create, manage, track, and resolve the store inquiries through the [[rahi-retail-portal|retail portal]], workspace, or mobile app.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
+[Manage store inquiries\[Omitted image "bus-customer-service-agent.svg"\] Alt text:Create, manage, track, and resolve the store inquiries through the retail portal, workspace, or mobile app.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
 </td><td>
 
@@ -41,11 +41,11 @@ The ServiceNow® Retail product empowers managers and associates to manage daily
 
 </td></tr><tr><td>
 
-[Manage store plans\[Omitted image "bus-task-list.svg"\] Alt text:[[rahi-retail-manage-store-plans|Manage store plans]] to plan and schedule generation of cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
+[Manage store plans\[Omitted image "bus-task-list.svg"\] Alt text:Manage store plans to plan and schedule generation of cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 
 </td><td>
 
-[Track and monitor store plans\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:[[track-monitor-store-plans|Track and monitor store plans]] from the workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/track-monitor-store-plans.md)
+[Track and monitor store plans\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Track and monitor store plans from the workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/track-monitor-store-plans.md)
 
 </td><td>
 
@@ -58,8 +58,3 @@ The ServiceNow® Retail product empowers managers and associates to manage daily
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[rahi-retail-portal|Retail portal]]
-- [[rahi-retail-manage-store-plans|Manage store plans]]
-- [[track-monitor-store-plans|Track and monitor store plans]]

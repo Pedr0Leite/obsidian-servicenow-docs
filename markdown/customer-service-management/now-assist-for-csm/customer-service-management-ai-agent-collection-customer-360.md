@@ -32,7 +32,7 @@ This feature consolidates scattered user and case data, providing agents with ti
 
 Customer 360 insights agentic workflow is set up as a promoted asset in the Now Assist panel.
 
-This workflow manages all case-related queries and actions, including retrieval of case details, history, timelines, assignments, status, customer information, [[case-sentiment-analysis|sentiment analysis]], related cases, knowledge articles, and case updates. It supports natural language requests for specific case numbers, aggregates comprehensive case and [[customer-data|customer data]], analyzes historical patterns and sentiment, and executes [[case-management|case management]] operations such as creation, modification, escalation, and closure.
+This workflow manages all case-related queries and actions, including retrieval of case details, history, timelines, assignments, status, customer information, sentiment analysis, related cases, knowledge articles, and case updates. It supports natural language requests for specific case numbers, aggregates comprehensive case and customer data, analyzes historical patterns and sentiment, and executes case management operations such as creation, modification, escalation, and closure.
 
 ## Role masking
 
@@ -72,7 +72,7 @@ In the Now Assist panel, the agent receives a notification as soon as the intera
 
 ## Access Control lists \(ACLs\)
 
-Access Control [[migration-lists|Lists]] \(ACLs\) are preconfigured to support the Provide customer 360 insights use case, including AI agents and their associated flows and actions, such as the Customer insights Agent. By default, ACLs are configured for the sn\_esm\_agent role. Customers can modify these ACLs to align with their specific business requirements and security policies. For more information, [Configure security controls for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nask-access-control.md).
+Access Control Lists \(ACLs\) are preconfigured to support the Provide customer 360 insights use case, including AI agents and their associated flows and actions, such as the Customer insights Agent. By default, ACLs are configured for the sn\_esm\_agent role. Customers can modify these ACLs to align with their specific business requirements and security policies. For more information, [Configure security controls for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nask-access-control.md).
 
 When updating the agent role for the Provide customer 360 insights Agentic Workflow, it is important to also update the corresponding Access Control Lists \(ACLs\) to ensure proper permissions. To manually update ACLs for custom roles:
 
@@ -91,7 +91,7 @@ The following tables list the agents that are used in the Provide customer 360 i
 
 ## Use Provide customer 360 insights Agentic Workflow
 
-The Provide customer 360 insights agentic workflow in [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] gives agents contextual, GenAI-driven insights about customers directly within a case. By selecting the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now assist icon. in a case record, agents can access the Now Assist panel that delivers real-time insights based on customer data.
+The Provide customer 360 insights agentic workflow in Now Assist for Customer Service Management \(CSM\) gives agents contextual, GenAI-driven insights about customers directly within a case. By selecting the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now assist icon. in a case record, agents can access the Now Assist panel that delivers real-time insights based on customer data.
 
 Agents can ask natural language questions, such as "What products is this customer currently using?" The AI agent responds with accurate, contextually relevant answers and maintains conversational context across multiple questions.
 
@@ -142,11 +142,3 @@ Agents can give thumbs up or thumbs down or flag inaccurate responses for retrai
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[customer-data|Customer data]]
-- [[case-management|Case management]]
-- [[migration-lists|Lists]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

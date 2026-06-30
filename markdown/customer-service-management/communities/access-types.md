@@ -25,7 +25,7 @@ You can define the access types for a forum and a content type in a permission. 
 |Content Read|Applies to all content types.|
 |Content Write|Applies to all content types. Content Read access is automatically included in Content Write.|
 
-**Note:** It is not recommended that you create your own access types. Advanced knowledge of [[servicenow-communities|Communities]] architecture and scripting code to support and interpret the new access type is required.
+**Note:** It is not recommended that you create your own access types. Advanced knowledge of Communities architecture and scripting code to support and interpret the new access type is required.
 
 Contact Customer Service and Support for further information.
 
@@ -76,6 +76,3 @@ To see all available access types, navigate to **Community** &gt; **Administrati
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

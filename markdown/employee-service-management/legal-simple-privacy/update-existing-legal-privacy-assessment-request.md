@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -42,7 +42,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     The request is updated with the new information. The changes appear as comments in the Additional Comments section of the request.
 
-9.  In the **[[activity-lxp|Activity]]** tab, provide comments or more information about your request for the request fulfiller.
+9.  In the **Activity** tab, provide comments or more information about your request for the request fulfiller.
 
 10. Manage documents supporting your request.
 
@@ -95,7 +95,3 @@ A link to the document is listed in the **External URL** column of the documents
 
 [Cancel a privacy assessment request]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

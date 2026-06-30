@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Planning dependency update configuration**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Planning dependency update configuration**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[pla-dep-update-confi-form|Planning dependency update configuration form]].
+    For more information on the fields in the form, see [Planning dependency update configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/pla-dep-update-confi-form.md).
 
 4.  Select **Submit**.
 
@@ -42,10 +42,5 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 -   **[Planning dependency update configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/pla-dep-update-confi-form.md)**  
 Use the Planning dependency update configuration form to configure the plan record, its sources, and preferences such as the plan record name, sources, and notification preferences and schedule an auto-update of the related assets in the plans.
 
-**Parent Topic:**[[confi-planning-dep-updates|Configuring planning dependency updates]]
+**Parent Topic:**[Configuring planning dependency updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/confi-planning-dep-updates.md)
 
-## Related
-
-- [[pla-dep-update-confi-form|Planning dependency update configuration form]]
-- [[confi-planning-dep-updates|Configuring planning dependency updates]]
-- [[Administration|Administration]]

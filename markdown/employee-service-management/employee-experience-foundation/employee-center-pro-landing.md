@@ -28,11 +28,11 @@ Employee Center Pro expands the portal experience beyond service delivery with e
 
 </td></tr><tr><td>
 
-[Author and Manage\[Omitted image "bus-documentation.svg"\] Alt text:Create [[eslate-employee-comms|employee communications]] and manage content requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-emp-center.md)
+[Author and Manage\[Omitted image "bus-documentation.svg"\] Alt text:Create employee communications and manage content requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-emp-center.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Employee Center Pro components such as fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-pro-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Employee Center Pro components such as fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-pro-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,7 +43,3 @@ Employee Center Pro expands the portal experience beyond service delivery with e
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[eslate-employee-comms|Employee communications]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -18,13 +18,13 @@ Prevent the ServiceNow AI Platform from tracking a subset of fields in an audite
 
 Role required: admin
 
-To exclude a field in a table from being audited, you must have first [[t_EnableAuditingForATable|enable auditing for that table]].
+To exclude a field in a table from being audited, you must have first [enable auditing for that table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).
 
 ## About this task
 
-Add a set of fields to an exclusion list when you want to audit most of the fields in an auditable table. If you want to audit only a few fields, follow the [[security-whitelist-audit-field|inclusion listing procedure]] instead.
+Add a set of fields to an exclusion list when you want to audit most of the fields in an auditable table. If you want to audit only a few fields, follow the [inclusion listing procedure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-whitelist-audit-field.md) instead.
 
-**Note:** Disabling [[c_AuditedTables|auditing]] on journal-based fields can impact the functionality of features, such as the Activity Formatter.
+**Note:** Disabling auditing on journal-based fields can impact the functionality of features, such as the Activity Formatter.
 
 ## Procedure
 
@@ -36,8 +36,4 @@ Add a set of fields to an exclusion list when you want to audit most of the fiel
 
 4.  In the **Attributes** column for that row, enter `no_audit`.
 
-## Related
 
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[security-whitelist-audit-field|Include a table field in auditing \(inclusion listing\)]]
-- [[c_AuditedTables|Auditing]]

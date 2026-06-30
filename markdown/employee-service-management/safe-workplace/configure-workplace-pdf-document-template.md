@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Workplace Core, Safe Workplace, Health an
 
 # Configure an HTML template
 
-Configure a signing template that you want to make available for signing the completed [[workplace-safety-mgmt-hr|Workplace Core]] workplace tasks. You can configure the default signing template available with the application or create a new template.
+Configure a signing template that you want to make available for signing the completed Workplace Core workplace tasks. You can configure the default signing template available with the application or create a new template.
 
 ## Before you begin
 
@@ -122,6 +122,3 @@ Placeholder for HTML text and variables. The variables are resolved when the PDF
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -14,13 +14,13 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 # On-Call Scheduling workflows
 
-Workflows perform [[c_OnCallScheduling|On-Call Scheduling]] operations.
+Workflows perform On-Call Scheduling operations.
 
 ## Workflows installed with On-Call Scheduling
 
 -   **On-Call: Assign by Acknowledgement**
 
-    The workflow uses data from escalation [[settings-mobile|settings]], including overlapping shifts and custom escalation settings for shifts and rosters. Depending on the settings, the workflow moves through the escalation path and sends notifications by SMS, voice, or email that ask users to accept a task.
+    The workflow uses data from escalation settings, including overlapping shifts and custom escalation settings for shifts and rosters. Depending on the settings, the workflow moves through the escalation path and sends notifications by SMS, voice, or email that ask users to accept a task.
 
     To send notifications, a trigger rule is required. Trigger rules supersede some On-Call business rules in earlier releases. To define a trigger rule, you must deactivate business rules that you customized in earlier releases.
 
@@ -63,7 +63,3 @@ Workflow activities in On-Call Scheduling workflows.
 
 **Parent Topic:**[Reference for on-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

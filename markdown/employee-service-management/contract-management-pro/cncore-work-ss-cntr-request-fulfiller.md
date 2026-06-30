@@ -62,7 +62,7 @@ Create a version of the contract document. Using this option discards the change
 
 </td></tr><tr><td id="d706806e152">
 
-**Sync the document__Note:__ This option is available on [[cncore-cmpro-landing-page|Contract Management Pro]] starting with version 1.2.1
+**Sync the document__Note:__ This option is available on Contract Management Pro starting with version 1.2.1
 
 **
 
@@ -76,7 +76,7 @@ Create a version of the contract document while retaining the changes made in th
 
 </td><td>
 
-[[cncore-create-doc-rev|Create a document revision]]. For more information, see [Create a document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
+Create a document revision. For more information, see [Create a document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
 
 </td></tr><tr><td id="d706806e190">
 
@@ -152,7 +152,3 @@ Cancel a request:-   On the contract request page, from the Actions menu, select
 </table>
 **Parent Topic:**[Use self-served contract request]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-create-doc-rev|Create a document revision]]

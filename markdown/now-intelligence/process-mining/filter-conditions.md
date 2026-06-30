@@ -26,7 +26,7 @@ Setting filters is an optional task for project creation.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -105,6 +105,3 @@ You can provide only 2 steps here.
 
 **Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

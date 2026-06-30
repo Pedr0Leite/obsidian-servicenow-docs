@@ -14,7 +14,7 @@ breadcrumb: [Using Enterprise graph schema, Knowledge Graph, Enable AI experienc
 
 # View and manage Enterprise Graph schema
 
-Use [[knowledge-graph-landing|Knowledge Graph]] Designer to view and manage Enterprise Graph schema
+Use Knowledge Graph Designer to view and manage Enterprise Graph schema
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: admin
     -   Search and select a table from the search bar.
     -   Select **Open your last view**.
     -   Select **Start with user tables**.
-    -   Select**[[select-a-table|Select multiple tables]]**.
+    -   Select**Select multiple tables**.
     \[Omitted image "EG-canvas.png"\] Alt text: Enterprise Graph canvas
 
     The Enterprise graph schema​ opens in the Knowledge Graph canvas page.
@@ -46,7 +46,7 @@ Role required: admin
 
     The other fields are read-only and cannot be edited. In the tag view of Enterprise Graph, you can also see tag configuration when you click on a node.
 
-5.  Use the \[Omitted image "icon-edit-pencil.png"\] icon in the **Tag [[exploring-ai-governance|configurations]]** section to go to the Edit tag configurations page and update the following details:
+5.  Use the \[Omitted image "icon-edit-pencil.png"\] icon in the **Tag configurations** section to go to the Edit tag configurations page and update the following details:
 
     -   Node synonyms
     -   Column with synonyms
@@ -62,8 +62,4 @@ Role required: admin
 
 9.  Select **Discard** to delete your changes.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[select-a-table|Select multiple tables]]
-- [[exploring-ai-governance|Configurations]]

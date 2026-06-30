@@ -14,17 +14,17 @@ breadcrumb: [Adaptive authentication for Trusted Mobile apps, Adaptive authentic
 
 # Activate Trusted Mobile app
 
-[[adaptive-authentication-plugin|Activate adaptive authentication]] with trusted mobile app by using the [[c_Authentication|authentication]] policy and filter conditions.
+Activate adaptive authentication with trusted mobile app by using the authentication policy and filter conditions.
 
 ## Before you begin
 
-Make sure the [[adaptive-authentication|Adaptive Authentication]] \(**com.snc.adaptive\_authentication**\) plugin is installed.
+Make sure the Adaptive Authentication \(**com.snc.adaptive\_authentication**\) plugin is installed.
 
 Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **Properties**.
 
 2.  On the Adaptive Authentication Properties page, enable the following properties:
 
@@ -34,15 +34,15 @@ Role required: adaptive\_auth\_admin
 
     **Note:** To disable the device trust flow property, you must remove the conditions with trusted mobile filter. Otherwise, an error message is displayed to remove the conditions.
 
-3.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Contexts** &gt; **[[pre-auth-context|Pre Authentication Context]]**.
+3.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Contexts** &gt; **Pre Authentication Context**.
 
 4.  Define the conditions in the Pre Authentication context.
 
     For more information, [Pre authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/pre-auth-context.md).
 
-    **Note:** By default, the policy condition is **Deny Policy**. You can change to **Allow Policy**. These [[ca-policies|policies]] are direct opposites.
+    **Note:** By default, the policy condition is **Deny Policy**. You can change to **Allow Policy**. These policies are direct opposites.
 
-    -   With the **Allow Policy**, all [[users|users]] are denied access by default, and it only allows access when the allow access policy conditions are true.
+    -   With the **Allow Policy**, all users are denied access by default, and it only allows access when the allow access policy conditions are true.
     -   With the **Deny Policy**, all users are allowed access by default, and it only denies access when the deny access policy conditions are true.
     In the Policy Input, the policy input **Trusted Mobile App** is a policy input for the trusted mobile app.
 
@@ -68,12 +68,3 @@ Role required: adaptive\_auth\_admin
 
 The policy input and filter conditions are created for the Trusted Device feature. Users can proceed with using the Trusted Device feature to access the ServiceNow instance from untrusted networks by using the Now Mobile app. For more information, see [Register a trusted device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/register-trusted-device.md).
 
-## Related
-
-- [[adaptive-authentication-plugin|Activate adaptive authentication]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[pre-auth-context|Pre authentication context]]
-- [[ca-policies|Policies]]
-- [[users|Users]]

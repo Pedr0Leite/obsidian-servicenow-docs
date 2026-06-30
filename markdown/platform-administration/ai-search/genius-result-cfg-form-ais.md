@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # AI Search Genius Result Configuration form
 
-The AI Search Genius Result Configuration form enables you to [[create-genius-results-config-ais|create a Genius Result configuration]] for use in your [[ia-ai-search|AI Search]] search profiles.
+The AI Search Genius Result Configuration form enables you to create a Genius Result configuration for use in your AI Search search profiles.
 
 For details on creating or editing a Genius Result configuration, see [Create a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-genius-results-config-ais.md).
 
@@ -76,7 +76,7 @@ Active
 
 </td><td>
 
-Option to activate the Genius Result configuration. Inactive Genius Result [[clone-configurations-tab|configurations]] never trigger.
+Option to activate the Genius Result configuration. Inactive Genius Result configurations never trigger.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ AI Search request processor
 
 </td><td>
 
-Server-side script function that takes a GeniusResultContext object as its parameter. The function must return a GeniusResultAnswer object that contains a search query. Up to three [[hs-results|results]] from this search query display as Genius Result answer cards.**Note:** This field is required if **AI Search response processor** isn't populated. You can copy the code from the **Processor script template** to use as a starting point for your script function.
+Server-side script function that takes a GeniusResultContext object as its parameter. The function must return a GeniusResultAnswer object that contains a search query. Up to three results from this search query display as Genius Result answer cards.**Note:** This field is required if **AI Search response processor** isn't populated. You can copy the code from the **Processor script template** to use as a starting point for your script function.
 
  When a search query triggers the Genius Result configuration, the system executes this script and then sends both the triggering search query and the scripted search query to the AI Search back end for computation of search results.
 
@@ -125,7 +125,7 @@ Return fields
 Comma-separated list of fields to display on the Genius Result answer card. This field is required if **AI Search response processor** is populated. Behavior depends on which processor script field is populated:
 
 -   If **AI Search response processor** is populated, you must use this field to specify the names of fields defined in your GeniusResultAnswer response object that you want to display on the Genius Result answer card.
--   If **AI Search response processor** isn't populated, the Genius Result answer card automatically displays the common [[index-fields-list-ais|AI Search index fields]]:
+-   If **AI Search response processor** isn't populated, the Genius Result answer card automatically displays the common AI Search index fields:
 
     -   ai\_search\_parent\_title
     -   ai\_search\_teaser\_text
@@ -141,10 +141,3 @@ To view the list of AI Search index fields, see [AI Search index fields](https:/
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[create-genius-results-config-ais|Create a Genius Result configuration]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[index-fields-list-ais|AI Search index fields]]

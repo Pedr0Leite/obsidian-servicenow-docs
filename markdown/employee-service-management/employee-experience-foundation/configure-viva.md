@@ -17,16 +17,11 @@ breadcrumb: [Employee Center for Microsoft Viva Connections, Employee Center Int
 Configure your ServiceNow instance and Microsoft Teams application to enable the ServiceNow card in the Microsoft Viva dashboard.
 
 -   **[Authorize Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-employee-experience.md)**  
-Authorize the [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]] application to enable the display of the ServiceNow card in the Microsoft Viva dashboard.
+Authorize the Employee Center for Microsoft Viva Connections application to enable the display of the ServiceNow card in the Microsoft Viva dashboard.
 -   **[Update the Microsoft Teams application ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-ms-teams-app-id.md)**  
-[[update-ms-teams-app-id|Update the Microsoft Teams application ID]] in your ServiceNow instance to navigate to your custom ServiceNow for Microsoft Teams app.
+Update the Microsoft Teams application ID in your ServiceNow instance to navigate to your custom ServiceNow for Microsoft Teams app.
 -   **[Allow cross-domain requests to REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-cors-rules-viva.md)**  
-[[update-cors-rules-viva|Allow cross-domain requests to REST APIs]] from a browser-based application in a different domain by creating a record in CORS rules through the Microsoft Viva Connections Integration application scope.
+Allow cross-domain requests to REST APIs from a browser-based application in a different domain by creating a record in CORS rules through the Microsoft Viva Connections Integration application scope.
 
 **Parent Topic:**[Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-viva-integrations.md)
 
-## Related
-
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]
-- [[update-ms-teams-app-id|Update the Microsoft Teams application ID]]
-- [[update-cors-rules-viva|Allow cross-domain requests to REST APIs]]

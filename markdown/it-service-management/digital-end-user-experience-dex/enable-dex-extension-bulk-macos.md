@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The following procedure describes how to deploy the DEX browser extension on multiple [[dex-workspace-devices-tab|devices]] using Jamf. Your organization might have a different method to accomplish this task.
+The following procedure describes how to deploy the DEX browser extension on multiple devices using Jamf. Your organization might have a different method to accomplish this task.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The following procedure describes how to deploy the DEX browser extension on mul
 
     3.  In the General tab of the new profile form, provide a meaningful name.
 
-    4.  In the Application &amp; Custom [[settings-mobile|Settings]] tab, select **Upload** &gt; **Add**.
+    4.  In the Application &amp; Custom Settings tab, select **Upload** &gt; **Add**.
 
     5.  Under **Preference Domain**, enter `com.google.chrome`.
 
@@ -79,7 +79,3 @@ The following procedure describes how to deploy the DEX browser extension on mul
 
 **Parent Topic:**[Deploying DEX to employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/deploying-dex-to-employees.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

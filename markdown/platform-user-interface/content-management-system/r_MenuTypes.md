@@ -27,10 +27,7 @@ By changing the **Type** field on the navigation menu block, you can format the 
 |Vertical Blocks|\[Omitted image "CMSMenuVerticalblocks.png"\] Alt text: CMS menu vertical blocks|The vertical blocks menu renders the menu sections as block headings with menu items as links within the block. The blocks are arranged vertically.|
 
 -   **[Menu style customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CustomizeTheMenuStyle.md)**  
-You can customize menu styles in the [[c_StyleSheets|style sheets]] your site uses.
+You can customize menu styles in the style sheets your site uses.
 
 **Parent Topic:**[Create a navigation menu block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateNavigationMenuBlock.md)
 
-## Related
-
-- [[c_StyleSheets|Style sheets]]

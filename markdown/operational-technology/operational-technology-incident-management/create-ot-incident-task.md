@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Create tasks to fulfill an OT incident
 
-Create a set of incident tasks to fulfill an [[operational-technology-overview|Operational Technology]] \(OT\) incident. Incident tasks help you to split up and categorize the work that is needed to resolve an incident.
+Create a set of incident tasks to fulfill an Operational Technology \(OT\) incident. Incident tasks help you to split up and categorize the work that is needed to resolve an incident.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_incident\_write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -166,7 +166,3 @@ You can view incident tasks in the Industrial Workspace list view in the followi
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

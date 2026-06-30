@@ -26,8 +26,5 @@ Standalone installation supports the following use cases:
 
 **Note:** Existing WFO deployments that include Schedule Management continue to function after standalone activation. No additional configuration is required for existing integrated environments. Scheduling workflows, permissions, and integrations remain unchanged.
 
-**Parent Topic:**[[schedule-management-capabilities-in-csm-configurable-workspace|Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service]]
+**Parent Topic:**[Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/schedule-management-capabilities-in-csm-configurable-workspace.md)
 
-## Related
-
-- [[schedule-management-capabilities-in-csm-configurable-workspace|Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service]]

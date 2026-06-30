@@ -36,7 +36,7 @@ The instance accepts two types of LDAP certificates:
 
 If there are multiple server certificates, the instance tries each server certificate in turn until the LDAP server allows the connection. If you use multiple LDAP servers, be sure to include the SSL certificate for each LDAP server.
 
-Mutual [[c_Authentication|authentication]] requires the client to present a certificate in addition to the server. If your LDAP server requires mutual authentication, you must also provide your LDAP server's client certificate in a Java keystore type certificate.
+Mutual authentication requires the client to present a certificate in addition to the server. If your LDAP server requires mutual authentication, you must also provide your LDAP server's client certificate in a Java keystore type certificate.
 
 ## Certificate criteria
 
@@ -57,9 +57,9 @@ A valid certificate must meet these criteria:
 
 By default, your instance trusts only certificates from a Certificate Authority \(CA\) recognized in the Java Virtual Machine \(JVM\). Self-signed and enterprise-signed certificates aren’t trusted.
 
-**Note:** To learn more about the properties that affect the use of certificates, see  in Instance [[sc-hardening|Security Hardening]] Settings.
+**Note:** To learn more about the properties that affect the use of certificates, see  in Instance Security Hardening Settings.
 
-**Parent Topic:**[[c_Certificates|Certificates]]
+**Parent Topic:**[Certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_Certificates.md)
 
 **Related topics**  
 
@@ -68,8 +68,3 @@ By default, your instance trusts only certificates from a Certificate Authority 
 
 [Uploading a certificate to an instance]()
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]
-- [[sc-hardening|Security hardening]]

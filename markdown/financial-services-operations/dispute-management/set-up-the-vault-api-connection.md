@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up the Connection &amp; Credential records
 
-Configure the Connection &amp; Credential records to enable secure communication between ServiceNow and the tokenizer service for [[card-data-security|Card Data Security]]. This connection establishes the endpoint URL and vault ID required for data tokenization operations.
+Configure the Connection &amp; Credential records to enable secure communication between ServiceNow and the tokenizer service for Card Data Security. This connection establishes the endpoint URL and vault ID required for data tokenization operations.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ The Card Data Security connection records are configured.
 
 [Set up an OAuth Credential](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-credential.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

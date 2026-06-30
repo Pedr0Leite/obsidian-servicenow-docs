@@ -14,7 +14,7 @@ breadcrumb: [Import set tables, Use, HR Service Delivery Integration with Workda
 
 # HR Service Delivery Integration with Workday Learning user course activity staging
 
-Import workday [[exploring-learning-exp|learning]] user course [[activity-lxp|activity]] staging information.
+Import workday learning user course activity staging information.
 
 ## Before you begin
 
@@ -35,7 +35,3 @@ Role required: sn\_hr\_workday.admin
 
 **Parent Topic:**[Import set tables in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/import-set-tables.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

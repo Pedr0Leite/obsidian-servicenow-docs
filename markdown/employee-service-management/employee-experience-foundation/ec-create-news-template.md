@@ -14,7 +14,7 @@ breadcrumb: [News articles, Creating employee communications, Authoring and mana
 
 # Create a news article template
 
-Create a news article template to enable content authors to reuse the article layout to rapidly assemble [[ec-news-articles|news articles]].
+Create a news article template to enable content authors to reuse the article layout to rapidly assemble news articles.
 
 ## Before you begin
 
@@ -38,14 +38,10 @@ You can create a reusable article template from scratch or based on an existing 
 
 6.  Click **Save**.
 
-    The reusable article appears in **Content Publishing** &gt; **[[ec-re-usable-components|Reusable Components]]** &gt; **Reusable Articles**.
+    The reusable article appears in **Content Publishing** &gt; **Reusable Components** &gt; **Reusable Articles**.
 
 
 ## What to do next
 
 Add the reusable article to a new or existing content template: [Create a Content template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md)
 
-## Related
-
-- [[ec-news-articles|News articles]]
-- [[ec-re-usable-components|Reusable components]]

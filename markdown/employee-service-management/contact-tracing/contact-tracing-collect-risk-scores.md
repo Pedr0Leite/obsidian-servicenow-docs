@@ -18,7 +18,7 @@ Identify at-risk and potentially exposed users by importing and monitoring risk 
 
 Use risk scores to identify at-risk and potentially exposed users by integrating the Devvio DevvTrace platform. Create cases to investigate potentially exposed or infected users based on their scores.
 
-The Devvio DevvTrace platform collects data from supported wearable devices and generates a risk score. Use [[contact-tracing|Contact Tracing]] and the Devvio API to import data into the Devvio Users Risk Reports \[sn\_imt\_tracing\_devvio\_users\_risk\_report\] table. You can use this data in the following ways:
+The Devvio DevvTrace platform collects data from supported wearable devices and generates a risk score. Use Contact Tracing and the Devvio API to import data into the Devvio Users Risk Reports \[sn\_imt\_tracing\_devvio\_users\_risk\_report\] table. You can use this data in the following ways:
 
 -   Update the Devvio Users Risk Reports table daily with the Devvio Integration scheduled job.
 -   Create cases and work notes automatically if a risk score is equal to or greater than a risk threshold value.
@@ -29,6 +29,3 @@ Configure Contact Tracing properties to import risk scores from the DevvTrace pl
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

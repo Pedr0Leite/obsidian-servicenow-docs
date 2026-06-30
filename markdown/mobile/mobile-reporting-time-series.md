@@ -12,13 +12,13 @@ breadcrumb: [Using data visualizations, Mobile platform dashboards, Using the mo
 
 # Time series reports for mobile
 
-Learn to use time series reports for mobile, which enable you to display a series of data points over successive intervals of time. For example, the number of incidents opened over a certain period. The [[mobile-config-navigation|mobile platform]] supports the following time series reports, line, spline, and step line.
+Learn to use time series reports for mobile, which enable you to display a series of data points over successive intervals of time. For example, the number of incidents opened over a certain period. The mobile platform supports the following time series reports, line, spline, and step line.
 
-**Note:** For information on how to configure time series reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [[sg-mobile-applet-launcher|Launcher screens]] and [[mobile-dashboard-preview|Mobile dashboard preview]].
+**Note:** For information on how to configure time series reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
 <table id="table_jwk_r4p_1mb"><tbody><tr><td>
 
-Tap a time series dashboard preview in a launcher screen to display a detailed screen of the report. Alternatively, you can navigate to a [[chart-screen|chart screen]] via a navigation button.
+Tap a time series dashboard preview in a launcher screen to display a detailed screen of the report. Alternatively, you can navigate to a chart screen via a navigation button.
 
 Scroll along the lines to display the number of records contained in your selection. A list of the data contained in the displayed lines is listed in the header. Tap each segment in the header to see a list of records contained within that segment. To magnify or contract the chart view, spread or pinch your fingers on the screen. Tap the zoom-out button \( \[Omitted image "button-zoom-out.png"\] Alt text: Zoom-out button\) to return the screen to its original magnification. For time series charts that support multiple lines, select lines from the legend that you want to include or omit from the chart.
 
@@ -39,9 +39,3 @@ Scroll along the lines to display the number of records contained in your select
     -   [Spline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_CreateAreaAndSplineCharts.md)
     -   [Step line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/step-reports.md)
 
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mobile-dashboard-preview|Mobile dashboard preview]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[chart-screen|Chart screen]]

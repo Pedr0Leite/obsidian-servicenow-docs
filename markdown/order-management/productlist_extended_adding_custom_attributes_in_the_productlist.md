@@ -14,7 +14,7 @@ breadcrumb: [ProductList.Type options: Accessory and Component, CPQ app, Configu
 
 Use ProductList.extended to add custom attributes such as cost, margin, and discount to a product list.
 
-Custom attributes can be added to a product list, bill of materials, or Shopping Cart beyond the standard attributes that are provided by default. Common [[use-cases|use cases]] include attributes for cost, margin, list price, discount, and so on.
+Custom attributes can be added to a product list, bill of materials, or Shopping Cart beyond the standard attributes that are provided by default. Common use cases include attributes for cost, margin, list price, discount, and so on.
 
 ## Advanced Script
 
@@ -24,7 +24,7 @@ To add a custom attribute to a product list, use `.extended` and provide data in
 ProductList.extended = {"cost": 62};
 ```
 
-To add multiple custom [[fields|fields]], add to the same JSON object, as shown below:
+To add multiple custom fields, add to the same JSON object, as shown below:
 
 ```
 var myMargin = 38;
@@ -63,10 +63,5 @@ To add custom ProductList attributes to a layout, use `extended.{attributename}`
 **Related topics**  
 
 
-[[reverse_twin_productlist_extended_data_to_quoteline|Using ProductList.extended to populate the Quote Line record]]
+[Using ProductList.extended to populate the Quote Line record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reverse_twin_productlist_extended_data_to_quoteline.md)
 
-## Related
-
-- [[reverse_twin_productlist_extended_data_to_quoteline|Using ProductList.extended to populate the Quote Line record]]
-- [[use-cases|Use cases]]
-- [[fields|Fields]]

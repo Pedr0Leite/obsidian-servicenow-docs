@@ -14,7 +14,7 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Vulnerability relationship mapping
 
-Use many-to-many \(M2M\) relationship records to map connections between [[vulnerabilities|vulnerabilities]] and other entities.
+Use many-to-many \(M2M\) relationship records to map connections between vulnerabilities and other entities.
 
 -   **Vulnerability Products**: maps vulnerabilities to products with a status field indicating the relationship \(for example, **Known Affected**, **Fixed**, **Under Investigation**\).
 -   **Vulnerability CWEs**: maps vulnerabilities to CWEs. No status field is required for this relationship.
@@ -46,6 +46,3 @@ Bulk delete operations are available for all M2M relationship records from the r
 
 [Potential Relationships]()
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]

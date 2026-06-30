@@ -26,7 +26,7 @@ To translate a choice in a list, you must create a choice record for each langua
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Choices**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Choices**.
 
 2.  Select **New**.
 
@@ -52,6 +52,4 @@ To translate a choice in a list, you must create a choice record for each langua
 
 5.  From the context menu, select **Insert and Stay** and update the form to translate the choice into another language.
 
-## Related
 
-- [[system-localization-landing|System Localization]]

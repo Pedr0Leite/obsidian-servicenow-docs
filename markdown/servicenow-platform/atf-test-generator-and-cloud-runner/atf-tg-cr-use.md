@@ -14,7 +14,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner, Extend ServiceNow AI Platform 
 
 # Using ATF Test Generator and Cloud Runner
 
-Use the [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]] store application to execute the generated tests using the Cloud Runner option. You can also schedule test execution and nightly runs to completely automate test execution.
+Use the ATF Test Generator and Cloud Runner store application to execute the generated tests using the Cloud Runner option. You can also schedule test execution and nightly runs to completely automate test execution.
 
 -   **[Executing the tests using Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-execute-tests.md)**  
 Execute the generated tests suite using the Cloud Runner browser option.
@@ -23,6 +23,3 @@ Use schedules and nightly runs to execute tests and test suites in ServiceNow’
 
 **Parent Topic:**[ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-intro.md)
 
-## Related
-
-- [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]]

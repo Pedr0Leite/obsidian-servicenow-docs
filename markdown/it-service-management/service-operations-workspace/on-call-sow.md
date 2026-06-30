@@ -30,7 +30,7 @@ For each of these fields, on-call information such as shift names and on-call me
 
 \[Omitted image "on-call-section-sow.png"\] Alt text: Experts on-call panel
 
-For information about [[c_OnCallScheduling|On-Call Scheduling]], see [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
+For information about On-Call Scheduling, see [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
 
 **Parent Topic:**[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)
 
@@ -83,6 +83,4 @@ Ensure that the escalation logging, that is, the **com.snc.on\_call\_rotation.lo
 
     \[Omitted image "escalation\_tracking\_details\_SOWOncall.png"\] Alt text: View escalation tracking details
 
-## Related
 
-- [[c_OnCallScheduling|On-Call Scheduling]]

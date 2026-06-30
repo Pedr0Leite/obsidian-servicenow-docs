@@ -49,14 +49,9 @@ All translations automatically being disassociated from a topic, when one of the
 All translated versions of the deleted Knowledge Base article was automatically removed.
 
 </td></tr></tbody>
-</table>## Translated Knowledge Base article view on [[employee-center-landing-page|Employee Center]]
+</table>## Translated Knowledge Base article view on Employee Center
 
 As an employee user, view articles in your preferred language by using the respective Employee Center settings. If the preferred language translation is not available for any article, it is visible in the default language. The default language is configured by the **glide.sys.language** system property.
 
-The feature applies to the [[rfy-ec|Recommended for you]] section in the Employee Center portal and [[mobile-employee-experience|Now Mobile app]].
+The feature applies to the Recommended for you section in the Employee Center portal and Now Mobile app.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]
-- [[mobile-employee-experience|Now Mobile app]]

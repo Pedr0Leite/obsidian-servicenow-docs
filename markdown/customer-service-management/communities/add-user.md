@@ -79,10 +79,7 @@ A group of members who have joined a specific forum. Once logged in, their acces
 
 
 -   **[Add members to a forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-members-to-forum-user.md)**  
-[[add-members-to-forum-user|Add members to a forum user]]. Members can be individual users or user groups.
+Add members to a forum user. Members can be individual users or user groups.
 
 **Parent Topic:**[Forum and user permissions management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-permissions.md)
 
-## Related
-
-- [[add-members-to-forum-user|Add members to a forum user]]

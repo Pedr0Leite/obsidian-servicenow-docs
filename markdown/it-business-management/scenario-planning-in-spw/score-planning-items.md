@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Strategic Planning Workspace**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace**.
 
 2.  Select to open the portfolio plan for which you want to start scoring.
 
@@ -59,6 +59,3 @@ The score for each item is populated based on the scoring attribute values and c
 
 [Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/custom-scoring-frameworks-in-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

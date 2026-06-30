@@ -14,11 +14,11 @@ breadcrumb: [Explore, Privacy Case Management, Privacy Management, Governance, R
 
 # Smart assessments in Privacy Case Management
 
-Utilize the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] to perform smart assessments on privacy case action tasks.
+Utilize the Smart Assessment Engine to perform smart assessments on privacy case action tasks.
 
 Using the abilities of the Smart Assessment Engine, you can empower the privacy teams to initiate privacy case assessments. These assessments assist privacy case analysts in identifying impacted and related areas during a privacy case investigation. They also help determine whether employees in your organization adhere to the required regulations. The analyst can then collect observations and evidence from the stakeholders and arrive at a resolution. The Smart Assessment Engine provides numerous benefits some of which are listed as follows:
 
--   Configuring the [[airc-assessment-templates|assessment templates]]
+-   Configuring the assessment templates
 -   Identifying the assessment responders
 -   Defining the due date for responding to the assessment
 
@@ -47,10 +47,5 @@ For more information about Smart Assessment Engine, refer to [Exploring Smart As
     Create a new template in Smart Assessment Engine. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-migrating.md).
 
 
-To get started with smart assessments, the privacy case administrator \(sn\_comp\_case.compliance\_case\_admin\), configures the assessment questionnaire. When an action task moves from the **Draft** state to the **Assigned** state, the assessment is sent. Based on the assessment results, appropriate remediation measures are identified and implemented. To learn more about how to configure a questionnaire in the [Exploring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-explore.md), refer to [Configuring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-config.md). To learn how to [[perform-smart-assessment-on-action-task|perform smart assessment on action tasks]], refer to [Perform smart assessment on action tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/perform-smart-assessment-on-action-task.md).
+To get started with smart assessments, the privacy case administrator \(sn\_comp\_case.compliance\_case\_admin\), configures the assessment questionnaire. When an action task moves from the **Draft** state to the **Assigned** state, the assessment is sent. Based on the assessment results, appropriate remediation measures are identified and implemented. To learn more about how to configure a questionnaire in the [Exploring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-explore.md), refer to [Configuring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-config.md). To learn how to perform smart assessment on action tasks, refer to [Perform smart assessment on action tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/perform-smart-assessment-on-action-task.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[perform-smart-assessment-on-action-task|Perform smart assessment on action tasks]]

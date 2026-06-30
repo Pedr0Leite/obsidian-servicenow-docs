@@ -12,7 +12,7 @@ breadcrumb: [Use omnichannel callback, Customer communication, Use, Customer Ser
 
 # Callback requests by agents
 
-Agents can create callback requests on behalf of customers directly from [[csm-workspaces-configure|CSM Configurable Workspace]] when customers request a return call or when follow-up is needed.
+Agents can create callback requests on behalf of customers directly from CSM Configurable Workspace when customers request a return call or when follow-up is needed.
 
 ## When to use agent-scheduled callbacks
 
@@ -26,7 +26,7 @@ Agents typically schedule callbacks in the following scenarios:
 
 Agent-scheduled callbacks can be created from:
 
--   [[omnichannel|Omnichannel]] interactions: Chat, voice, email, and messaging interactions
+-   Omnichannel interactions: Chat, voice, email, and messaging interactions
 -   Case records: Directly from customer service cases
 
     When an agent schedules a callback:
@@ -47,22 +47,13 @@ Agents can perform the following actions on scheduled callbacks:
 **Related topics**  
 
 
-[[agent-scheduled-callbacks|Schedule a callback for a customer]]
+[Schedule a callback for a customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-scheduled-callbacks.md)
 
-[[view-scheduled-callbacks|View scheduled callbacks]]
+[View scheduled callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-scheduled-callbacks.md)
 
-[[view-related-callbacks-contextual-side-panel|View related callbacks in the contextual side panel]]
+[View related callbacks in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-related-callbacks-contextual-side-panel.md)
 
-[[reschedule-callback|Reschedule a callback]]
+[Reschedule a callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/reschedule-callback.md)
 
-[[cancel-callback|Cancel a callback]]
+[Cancel a callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cancel-callback.md)
 
-## Related
-
-- [[agent-scheduled-callbacks|Schedule a callback for a customer]]
-- [[view-scheduled-callbacks|View scheduled callbacks]]
-- [[view-related-callbacks-contextual-side-panel|View related callbacks in the contextual side panel]]
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[omnichannel|Omnichannel]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage consumer access, Administer, Instance Data Replication, Mana
 
 # Restore access to replication data for Instance Data Replication
 
-Restore [[instance-data-replication|Instance Data Replication]] \(IDR\) access to replicated data by sending a request to the producer replication set admin.
+Restore Instance Data Replication \(IDR\) access to replicated data by sending a request to the producer replication set admin.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ When the producer replication set administrator generates a new encryption key, 
 
 3.  Click the **Request Shared Key** related link.
 
-    The system sends a request to the producer replication set administrator. If you are granted access, the consumer [[c_ApprovalStatus|Approval Status]] changes to Approved.
+    The system sends a request to the producer replication set administrator. If you are granted access, the consumer Approval Status changes to Approved.
 
 4.  If the producer replication set has changed, click the **Synchronize Replication Entries** related link.
 
@@ -41,7 +41,3 @@ When the producer replication set administrator generates a new encryption key, 
 
 **Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/approve-consumer.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[c_ApprovalStatus|Approval status]]

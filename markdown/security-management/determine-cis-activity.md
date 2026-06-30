@@ -43,8 +43,5 @@ The output variables contain data that can be used in subsequent activities.
 |cis\_affected|Filtered CIs|
 |task\_sys\_id|Task identifier \(maps security incident to CIs\).|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]

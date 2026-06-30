@@ -14,8 +14,5 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # SIR Integration References
 
-This section outlines the reference details for SIR integrations including the integration components and [[qradar-ibm-intg-settings|configuration settings]].
+This section outlines the reference details for SIR integrations including the integration components and configuration settings.
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]

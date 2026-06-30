@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Virtual Agent scripts
 
-Use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] script methods and variables to write chat scripts, such as response, trigger, and flow scripts. Variables can also provide context for your live support topics and conversations.
+Use ServiceNow® Virtual Agent script methods and variables to write chat scripts, such as response, trigger, and flow scripts. Variables can also provide context for your live support topics and conversations.
 
 Virtual Agent scripts can provide context for topics, such as retaining information about a user or a user's input. You can use this information to personalize a conversation, such as to present a scripted greeting or confirmation. Scripts can also specify certain actions to be performed on information that was obtained during a conversation. These actions can be used for creating or updating ServiceNow records.
 
@@ -107,13 +107,13 @@ vaInputs.myvar.unbindEntity\(\);
 
 Removes the value of input variables that the NLU prediction service slot-filled with extracted entities \(unbinds it from the initial input value\). For example, if the user decides to change their choice on a confirmation prompt, you can unbind the entity's value from the input variable. The user will then be prompted again when they loop back to the corresponding input node.
 
- **Note:** NLU must be enabled on the topic. In the [[assistant-designer|Assistant Designer]], select the **Properties** tab to set up NLU. For information about defining NLU entities, see [Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/entities.md).
+ **Note:** NLU must be enabled on the topic. In the Assistant Designer, select the **Properties** tab to set up NLU. For information about defining NLU entities, see [Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/entities.md).
 
 </td></tr></tbody>
 </table>
 ## Script variables
 
-You can define script variables for information that is not stored in ServiceNow tables but that can be used to share that information elsewhere in a topic. Script variables are similar to workflow scratchpad variables that store primitives such as integers, Boolean values, or strings. A string value can be either a static or dynamic scripted value. Use the Variables [[sidebar-landing|sidebar]] to [[define-script-variables-topic|define script variables for a topic]] in Assistant Designer.
+You can define script variables for information that is not stored in ServiceNow tables but that can be used to share that information elsewhere in a topic. Script variables are similar to workflow scratchpad variables that store primitives such as integers, Boolean values, or strings. A string value can be either a static or dynamic scripted value. Use the Variables sidebar to define script variables for a topic in Assistant Designer.
 
 \[Omitted image "ScriptVariablesExample.png"\] Alt text: Sidebar in theAssistant Designer canvas for manually adding script variables that are used in topic scripts.
 
@@ -141,7 +141,7 @@ A number of Live Agent variables are available for use in topic scripts. These v
 -   *search\_text*
 -   *short\_description*
 
-The variable syntax is `vaContext.LiveAgent_myvar`, where `myvar` is one of the available [[live-agent-chat-context-vars|live agent context variables]]. Access the variable using `vaContext.LiveAgent_myvar = value;`.
+The variable syntax is `vaContext.LiveAgent_myvar`, where `myvar` is one of the available [live agent context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md). Access the variable using `vaContext.LiveAgent_myvar = value;`.
 
 To use Live Agent variables in topic scripts, open the topic in Assistant Designer. On the **Properties** tab, select the pencil icon next to **Live Agent Variables** to add them to the topic.
 
@@ -412,10 +412,3 @@ Gets the transcript for the current Virtual Agent conversation.
 
 [Latency feedback in Virtual Agent]()
 
-## Related
-
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[sidebar-landing|Sidebar]]
-- [[define-script-variables-topic|Define script variables for a topic]]

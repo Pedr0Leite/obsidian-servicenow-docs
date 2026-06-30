@@ -14,7 +14,7 @@ breadcrumb: [Manage RMA requests, Use, Hardware Asset Management, IT Asset Manag
 
 # Submit an RMA request
 
-Submit a [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) request to initiate an RMA process with your vendor. You can repair or replace a faulty asset.
+Submit a Return Merchandise Authorization \(RMA\) request to initiate an RMA process with your vendor. You can repair or replace a faulty asset.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The RMA request is created. A confirmation message appears with the RMA request 
 
 **Parent Topic:**[Manage RMA requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-rma-req.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

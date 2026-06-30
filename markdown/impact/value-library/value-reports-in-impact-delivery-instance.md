@@ -14,11 +14,11 @@ breadcrumb: [Value management, Using Impact, Impact]
 
 # Value Reports in Impact Delivery Instance
 
-Your [[impact-squad|impact squad]] can work with you to calculate the operational or monetized value you have realized with ServiceNow in a **Value Report.**
+Your impact squad can work with you to calculate the operational or monetized value you have realized with ServiceNow in a **Value Report.**
 
-To access the value report in [[impact-landing-page|Impact]] Delivery Instance, navigate to **Impact** &gt; **[[impact-in-platform-business-outcomes|Value Management]]** &gt; **Value reports**.
+To access the value report in Impact Delivery Instance, navigate to **Impact** &gt; **Value Management** &gt; **Value reports**.
 
-You may work with your squad to assess overall value realized with ServiceNow \(comparing pre- and post-implementation [[instance-observer-performance|performance]]\) if you are able to provide pre-ServiceNow baseline information for the success metrics.
+You may work with your squad to assess overall value realized with ServiceNow \(comparing pre- and post-implementation performance\) if you are able to provide pre-ServiceNow baseline information for the success metrics.
 
 You may have already initiated ongoing data collection for these key success metrics through your Quarterly Review Cycle. If not, however, your Impact squad will work with you to provide an overview of data collection options to support this process of ongoing value management.
 
@@ -65,14 +65,7 @@ Value reporting actuals
 </td></tr></tbody>
 </table>## Value Reports in Impact Store Application
 
-To access the value report in Impact Store Application, navigate to All &gt; Impact &gt; Value Management &gt; Value reports, and then select the [[ide-consumption-report|Consumption Report]] menu item in the Impact workspace.
+To access the value report in Impact Store Application, navigate to All &gt; Impact &gt; Value Management &gt; Value reports, and then select the Consumption Report menu item in the Impact workspace.
 
 You can view the value reports published in Impact Delivery Instance under the value reports section of the Impact store. However, you cannot create or manage value reports in the impact store experience.
 
-## Related
-
-- [[impact-squad|Impact Squad]]
-- [[impact-landing-page|Impact]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[instance-observer-performance|Performance]]
-- [[ide-consumption-report|Consumption Report]]

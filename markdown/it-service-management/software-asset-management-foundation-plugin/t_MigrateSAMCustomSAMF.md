@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management Foundation plugin migration, Software Ass
 
 # Overwrite customizations for Software Asset Management Foundation plugin migration
 
-When migrating from the Software [[c_AssetManagement|Asset Management]] plugin to the [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]], further actions are required by the customer after plugin activation to ensure successful migration of customized forms and lists.
+When migrating from the Software Asset Management plugin to the Software Asset Management Foundation plugin, further actions are required by the customer after plugin activation to ensure successful migration of customized forms and lists.
 
 ## Before you begin
 
@@ -26,8 +26,8 @@ If these lists and forms have been customized before the migration, they may hav
 
 -   Software Entitlements \(formerly Software Licenses\)
 -   Software Allocations \(formerly Software Entitlements\)
--   [[c_CreatingSoftwareModels|Software Models]]
--   Discovery [[c_Models|Models]]
+-   Software Models
+-   Discovery Models
 -   Software Installations
 
 You can review plugin activation changes in the Upgrade History module to determine what changes have automatically been skipped so you can resolve the skipped update, if needed.
@@ -40,7 +40,7 @@ Certain fields added by the migration also must be configured to take advantage 
 
 2.  Identify the records that correspond to the upgrade history for the activation of the Software Asset Management Foundation plugin.
 
-    The records in System Upgrades list that represent plugin activation contain the value **n/a** in the **From** field, and plugin name in the **To** field \(such as com.snc.samp, com.snc.samp.core, com.snc.sam.core, com.glide.data\_services\_canonicalization.client, com.snc.asset\_management, com.snc.model, com.snc.[[c_Procurement|procurement]]\).
+    The records in System Upgrades list that represent plugin activation contain the value **n/a** in the **From** field, and plugin name in the **To** field \(such as com.snc.samp, com.snc.samp.core, com.snc.sam.core, com.glide.data\_services\_canonicalization.client, com.snc.asset\_management, com.snc.model, com.snc.procurement\).
 
     You can determine the list of related plugins based on the time stamp of when the Software Asset Management plugin was activated by sorting on the **Upgrade started** column.
 
@@ -58,7 +58,7 @@ Certain fields added by the migration also must be configured to take advantage 
 
     1.  Navigate to **Software Asset** &gt; **Licensing** &gt; **Software Models**.
 
-        -   Select the software product in the **Product** [[reference-for-itsm-mobile-agent|reference]] field.
+        -   Select the software product in the **Product** reference field.
         -   Select a discovery map, or clear the **Discovery Map** field and set the discovery conditions to find all discovery models that correspond to the software model.
     2.  Navigate to **Software Asset** &gt; **Licensing** &gt; **Software Entitlements** \(formerly Software Licenses\).
 
@@ -74,11 +74,3 @@ Certain fields added by the migration also must be configured to take advantage 
 
 **Parent Topic:**[Software Asset Management Foundation plugin migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMMigrationSAMF.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[reference-for-itsm-mobile-agent|Reference]]

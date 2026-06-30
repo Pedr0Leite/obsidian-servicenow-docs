@@ -22,7 +22,7 @@ To add attributes to a dynamic attribute store field, you must have write access
 
 ## About this task
 
-Once you [[create-dynamic-attribute-store-field-transient|create a dynamic attribute store field]] and set up the dynamic categories and dynamic attributes for its namespace, you can use one or more of the dynamic attributes to describe your records.
+Once you create a dynamic attribute store field and set up the dynamic categories and dynamic attributes for its namespace, you can use one or more of the dynamic attributes to describe your records.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Once you [[create-dynamic-attribute-store-field-transient|create a dynamic attri
 
 2.  Create a record by selecting **New**.
 
-3.  In the category [[reference-email-admin|reference]] field, select the dynamic category that contains the dynamic attributes that you want to use.
+3.  In the category reference field, select the dynamic category that contains the dynamic attributes that you want to use.
 
 4.  Capture one or more dynamic attributes in the dynamic attribute store field by entering JSON or using the API.
 
@@ -78,7 +78,3 @@ gr.addQuery(‘televisions->screen_type', ‘OLED’);
 gr.query();
 ```
 
-## Related
-
-- [[create-dynamic-attribute-store-field-transient|Create a dynamic attribute store field]]
-- [[reference-email-admin|Reference]]

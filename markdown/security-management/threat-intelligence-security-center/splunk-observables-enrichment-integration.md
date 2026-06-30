@@ -15,7 +15,7 @@ breadcrumb: [TISC add-on for Splunk overview, TISC Security Tools integrations, 
 
 # TISC integration with Splunk
 
-The integration between the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) and Splunk lets you filter and pull relevant [[threat-intel-landing-page|threat intelligence]] [[c_Observables|observables]] data into Splunk.In Splunk, you can use this data to generate security alerts.
+The integration between the Threat Intelligence Security Center \(TISC\) and Splunk lets you filter and pull relevant threat intelligence observables data into Splunk.In Splunk, you can use this data to generate security alerts.
 
 Role required: Splunk admin
 
@@ -27,8 +27,3 @@ After the observables are pulled from ServiceNow, the observables data is stored
 
 **Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-addon-splunk.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]

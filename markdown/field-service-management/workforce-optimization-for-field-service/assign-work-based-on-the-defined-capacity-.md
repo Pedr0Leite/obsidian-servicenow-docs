@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Create a capacity assignment
 
-Create the [[capacity|capacity]] assignment of work based on the selected source, such as agent schedules, tasks, or hours.
+Create the capacity assignment of work based on the selected source, such as agent schedules, tasks, or hours.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Work assignment rules:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Capacity Management** &gt; **Capacity Assignments**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Capacity Management** &gt; **Capacity Assignments**.
 
 2.  Click **New**.
 
@@ -132,7 +132,4 @@ Select the appropriate time zone for agents to ensure consistency across regions
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[capacity|Capacity]]
-- [[fsm-application-landing-page|Field Service Management]]

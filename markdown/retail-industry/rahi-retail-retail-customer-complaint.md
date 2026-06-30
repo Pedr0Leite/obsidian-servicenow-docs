@@ -12,7 +12,7 @@ breadcrumb: [Retail case types, Explore, Retail]
 
 # Customer complaint case
 
-The customer complaint case type helps manage and resolve customer feedback related to store experiences. This case type enables customers to submit complaints anonymously to encourage honest feedback and help stores improve their service. This case type is included in the [[rahi-retail-operations-overview|Retail]] customer complaint plugin.
+The customer complaint case type helps manage and resolve customer feedback related to store experiences. This case type enables customers to submit complaints anonymously to encourage honest feedback and help stores improve their service. This case type is included in the Retail customer complaint plugin.
 
 \[Omitted image "z-customer-complaint1.png"\] Alt text: Customer complaint case details
 
@@ -21,17 +21,12 @@ The customer complaint case feature enables back-office teams to capture, classi
 -   Rude Employee at Store – Shoppers sometimes receive poor support from store staff, such as being ignored or treated rudely.
 -   Hygiene issue at Store - Shoppers sometimes encounter poor hygiene at stores, such as unclean floors, poorly handled aisles, staff not adhering to proper sanitation protocols.
 
-    For information on the components installed with customer complaint case, see [[rahi-retail-components-customer-complaint|Components installed with Retail customer complaint]].
+    For information on the components installed with customer complaint case, see [Components installed with Retail customer complaint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-customer-complaint.md).
 
 
 **Note:**
 
 In accordance with the Australia Security Directive, designated fields are required to be read‑only to enforce appropriate access controls. This requirement is implemented at the user interface layer through UI Policies, ensuring that restricted fields cannot be modified while preserving consistency with established platform security patterns and maintaining configuration flexibility.
 
-**Parent Topic:**[[rahi-retail-retail-case-types|Retail case types]]
+**Parent Topic:**[Retail case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-case-types.md)
 
-## Related
-
-- [[rahi-retail-components-customer-complaint|Components installed with Retail customer complaint]]
-- [[rahi-retail-retail-case-types|Retail case types]]
-- [[rahi-retail-operations-overview|Retail]]

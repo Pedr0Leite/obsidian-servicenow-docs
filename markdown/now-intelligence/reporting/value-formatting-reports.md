@@ -140,10 +140,8 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 5.  In the Value Formatting window, configure duration, decimal precision, rounding options, unit separators, and abbreviations.
 
-    Value formatting options for a [[c_SingleScoreCharts|single score report]] with Count aggregation:
+    Value formatting options for a single score report with Count aggregation:
 
     \[Omitted image "value-formatting-example.png"\] Alt text: Value formatting example
 
-## Related
 
-- [[c_SingleScoreCharts|Single score report]]

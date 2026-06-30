@@ -14,7 +14,7 @@ breadcrumb: [Complete your checkout, Using Shopping Hub, Use, Sourcing and Procu
 
 # Configure purchase requisition line-level questions in ShoppingHub
 
-As a procurement administrator, you can create configurable, line-level questions for shoppers to provide the information needed to complete the purchase during the checkout process in [[shopping-hub-overview|Shopping Hub]]. These questions are defined in Catalog Builder and specific to certain products or product categories.
+As a procurement administrator, you can create configurable, line-level questions for shoppers to provide the information needed to complete the purchase during the checkout process in Shopping Hub. These questions are defined in Catalog Builder and specific to certain products or product categories.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_administrator
 
 Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
-Use a record producer to create a custom set of questions to ask shoppers during the quick and full checkout for specific products or product categories. Build this record producer in Catalog Builder using the **ShoppingHub: Additional information on [[supplier|supplier]] products or product models or product categories** template. For information on how to create a record producer, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-item-cat-builder.md).
+Use a record producer to create a custom set of questions to ask shoppers during the quick and full checkout for specific products or product categories. Build this record producer in Catalog Builder using the **ShoppingHub: Additional information on supplier products or product models or product categories** template. For information on how to create a record producer, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-item-cat-builder.md).
 
 \[Omitted image "sh-addl-catalog.png"\] Alt text: ShoppingHub additional information for supplier product.
 
@@ -53,7 +53,7 @@ Shopping Hub checks for the existence of the record producer used for the additi
 
     **Note:** For information on how to create a record producer, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-item-cat-builder.md).
 
-5.  Navigate to **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+5.  Navigate to **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
     \[Omitted image "sh-addl-questions-record.png"\] Alt text: ShoppingHub Configuration page showing the Content details tab and Record producer field.
 
@@ -63,7 +63,7 @@ Shopping Hub checks for the existence of the record producer used for the additi
 
 8.  In the **Content details** tab, do one or more of the following as needed.
 
-    -   In the **Supplier product** field, search for and [[add-supplier-product|add a supplier product]] that you want to display additional information at checkout.
+    -   In the **Supplier product** field, search for and add a supplier product that you want to display additional information at checkout.
     -   In the **Product model** field, search for and add a product model that you want to display additional information at checkout.
     -   In the **Product category** field, search for and add a product category that you want to display additional information at checkout.
     **Note:** Shopping Hub checks for the existence of the record producer used for the additional information configuration in the specified order:
@@ -83,9 +83,3 @@ Shopping Hub checks for the existence of the record producer used for the additi
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[add-supplier-product|Add a supplier product]]

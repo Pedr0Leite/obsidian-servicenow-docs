@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[r-discovery|Discovery]] Pattern name
+Discovery Pattern name
 
 </td><td>
 
@@ -64,7 +64,7 @@ Suggested Group Name
 
 </td><td>
 
-The name [[itom-visibility-landing-page|ITOM Visibility]] generates for the suggestion. This field is pre-populated, but you can modify it if necessary.
+The name ITOM Visibility generates for the suggestion. This field is pre-populated, but you can modify it if necessary.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,3 @@ The top 10 key words that provide more information about the process. Predictive
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery Admin Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

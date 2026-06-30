@@ -15,7 +15,7 @@ breadcrumb: [Invoice exceptions, Using Accounts Payable Invoice Processing, Use,
 
 # Work on an invoice exception
 
-As an Accounts Payable Specialist, analyze the [[work-with-invoice-exceptions|invoice exceptions]], create exception tasks, and assign them to the relevant individuals to resolve the invoice exceptions.
+As an Accounts Payable Specialist, analyze the invoice exceptions, create exception tasks, and assign them to the relevant individuals to resolve the invoice exceptions.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-For a description of the field values and information about the available tabs on the [[exception-form-fields|invoice exception form]], see [Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md). For details about the available tabs for an exception task, see [Invoice task form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-task-form-related-list.md).
+For a description of the field values and information about the available tabs on the invoice exception form, see [Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md). For details about the available tabs for an exception task, see [Invoice task form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-task-form-related-list.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -60,7 +60,7 @@ View exceptions from an invoice processing case
 </td><td>
 
 1.  Do one of the following:
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice processing cases**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**.
 2.  Open an invoice processing case that contains exceptions.
 
@@ -94,20 +94,11 @@ Mark an assigned invoice exception task as complete from Employee Center when yo
 -   **[Edit a purchase for an Insufficient Funds invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/edit-purchase-insufficient-funds.md)**  
 Edit a purchase to resolve invoice exceptions of type Insufficient Funds \(Amount variance\) and Insufficient Funds \(Quantity variance\).
 -   **[Resolve unverified sender source exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/resolve-unverified-sender-exception.md)**  
-Review an unverified sender source exception in APO and resolve it by adding the sender as a [[supplier-contact|supplier contact]] or rejecting the invoice.
+Review an unverified sender source exception in APO and resolve it by adding the sender as a supplier contact or rejecting the invoice.
 -   **[Confirm receipt of your order from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/confirm-receipt-task.md)**  
-Confirm the receipt of the ordered items so that the payment is made to the [[supplier|supplier]].
+Confirm the receipt of the ordered items so that the payment is made to the supplier.
 -   **[Bypass an invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/bypass-invoice-exception.md)**  
-[[bypass-invoice-exception|Bypass an invoice exception]] if you find that it is not applicable to the invoice.
+Bypass an invoice exception if you find that it is not applicable to the invoice.
 
 **Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-## Related
-
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[exception-form-fields|Invoice exception form]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[bypass-invoice-exception|Bypass an invoice exception]]

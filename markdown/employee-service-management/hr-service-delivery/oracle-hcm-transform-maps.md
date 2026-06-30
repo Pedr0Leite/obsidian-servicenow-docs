@@ -14,9 +14,9 @@ breadcrumb: [Reference, HR Service Delivery integration with Oracle Cloud HCM, I
 
 # Transform maps for HR Service Delivery integration with Oracle Cloud HCM
 
-[[transform-maps-navex|Transform maps]] specify data relationships between a source table and a target table.
+Transform maps specify data relationships between a source table and a target table.
 
-[[c_HRProfileRecords|HR Profile]] Transform Map, Job Transform Map, Department Transform Map, Location Transform Map, Position Transform Map are the transform maps used in [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-HR.md).
+HR Profile Transform Map, Job Transform Map, Department Transform Map, Location Transform Map, Position Transform Map are the transform maps used in HR Service Delivery integration with Oracle Cloud HCM. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-HR.md).
 
 **Note:** Ensure that you index coalesce fields for better transformation performance.
 
@@ -25,11 +25,5 @@ breadcrumb: [Reference, HR Service Delivery integration with Oracle Cloud HCM, I
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] integration with Oracle Cloud HCM]()
+[Components installed with HR Service Delivery integration with Oracle Cloud HCM]()
 
-## Related
-
-- [[transform-maps-navex|Transform maps]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]
-- [[hr-service-delivery|HR Service Delivery]]

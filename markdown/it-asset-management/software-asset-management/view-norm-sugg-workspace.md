@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View normalization suggestions in the Software Asset Workspace
 
-View normalization suggestion records in the [[sam-workspace|Software Asset Workspace]] that are created for discovery [[c_Models|models]]. You can accept or reject these suggestions.
+View normalization suggestion records in the Software Asset Workspace that are created for discovery models. You can accept or reject these suggestions.
 
 ## Before you begin
 
@@ -42,7 +42,3 @@ The normalization suggestion records are stored in the Normalization Suggestions
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Models|Models]]

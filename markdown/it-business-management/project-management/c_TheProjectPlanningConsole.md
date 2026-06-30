@@ -14,13 +14,13 @@ breadcrumb: [Using Project Management, Project Management, Project Portfolio Man
 
 # Using Planning console - Legacy
 
-The planning console is a centralized interface for the [[c_ProjectApplicationOverview|Project Management]] application.
+The planning console is a centralized interface for the Project Management application.
 
 **Important:**
 
 The Planning console is no longer deployed, enhanced, or supported. It will be hidden and no longer available for upgrades or installation. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
 
-The planning console gives project managers a comprehensive view of all aspects of a project, including a hierarchical list of sub-projects, if any, [[t_CreateAProjectTask|project tasks]] that appear in a work breakdown structure \(WBS\) list, and the project [[c_GanttChart|Gantt chart]]. The console also integrates with Live Feed so your users can collaborate on projects.
+The planning console gives project managers a comprehensive view of all aspects of a project, including a hierarchical list of sub-projects, if any, project tasks that appear in a work breakdown structure \(WBS\) list, and the project Gantt chart. The console also integrates with Live Feed so your users can collaborate on projects.
 
 ## Sections in the planning console
 
@@ -34,7 +34,7 @@ The planning console is divided into the following sections:
 
 For more information on the Gantt chart and the task relationships and dependencies that you can build, see [Gantt chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_GanttChart.md) and [Parent-child rollup task calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ParentChildRollupTaskCalcs.md).
 
-**Note:** The resources in the **Assigned to** column of the planning console can be constrained to be derived only from the allocated [[c_ResourcePlans|resource plans]] associated to the project or any of its tasks.
+**Note:** The resources in the **Assigned to** column of the planning console can be constrained to be derived only from the allocated resource plans associated to the project or any of its tasks.
 
 ## Business rules
 
@@ -54,7 +54,7 @@ In an **automatic** project, any change to the dates, duration, or relationships
 
 In a **manual** project, changes to the dates, duration, or relationships of a project task do not automatically update all tasks. So parent task dates do not reflect any changes made to dependents or child tasks. The only change that is made automatically is when a task date or duration change updates dates and duration of the project record. In a manual project, any update to actual start date does not update the planned end date of the project or project task. However, enabling the [project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) **Enable alter of planned date with Actual for Manual Project** updates the planned end date from actual start date and planned duration. The manual project icon \(\[Omitted image "manual\_project.png"\] Alt text: screenshot for manual project icon\) appears adjacent to the project name.
 
-You can specify if a project is automatic or manual in the **Calculation** field on the [[create-a-project-form|Project form]]. This field becomes read-only when the project starts.
+You can specify if a project is automatic or manual in the **Calculation** field on the Project form. This field becomes read-only when the project starts.
 
 ## Tutorial
 
@@ -63,7 +63,7 @@ A tutorial walk through is available in the console. It shows you all the featur
 -   **[Open the project planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_OpenPlanningConsole.md)**  
 Access the planning console to perform the planning for the project.
 -   **[Planning console tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md)**  
-You can perform several tasks on the planning console that you can perform on lists and [[form-field-information-for-dw|forms]], such as creating project tasks and copying projects. You can also perform several tasks unique to the console.
+You can perform several tasks on the planning console that you can perform on lists and forms, such as creating project tasks and copying projects. You can also perform several tasks unique to the console.
 -   **[Client side planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/client-side-planning-console.md)**  
 During calculation of project schedule in the planning console, it is possible to build your project structure quickly on the client side \(browser\) without having to save details in the server for each interaction. It prevents any time lags that occur after you perform any actions in the planning console, and improves the scheduling performance.
 -   **[Gantt chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_GanttChart.md)**  
@@ -79,11 +79,3 @@ Create a dependency between two tasks on the planning console.
 
 **Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/using-project-management.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_GanttChart|Gantt chart]]
-- [[c_ResourcePlans|Resource plans]]
-- [[create-a-project-form|Project form]]
-- [[form-field-information-for-dw|Forms]]

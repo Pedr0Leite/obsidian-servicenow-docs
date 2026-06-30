@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Tasks, Working with Security Incident Re
 
 # Create a Response Task
 
-[[t_CreateResponseTask|Create response tasks]] to track separate actions to be performed to respond to the security issue.
+Create response tasks to track separate actions to be performed to respond to the security issue.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select **Create Response Task** from the UI actions.
 
@@ -44,7 +44,7 @@ Short description
 
 </td><td>
 
-A description of the [[sir-landing-page|Security Incident Response]] task.
+A description of the Security Incident Response task.
 
 </td></tr><tr><td>
 
@@ -144,8 +144,3 @@ The person affected by the security issue.
 
 **Parent Topic:**[Security Incident Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-tasks.md)
 
-## Related
-
-- [[t_CreateResponseTask|Create response tasks]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

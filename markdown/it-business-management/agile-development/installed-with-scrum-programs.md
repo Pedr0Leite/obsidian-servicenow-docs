@@ -47,7 +47,7 @@ Users with this role have full control on all the scrum programs.
 -   scrum\_master
 
 </td></tr></tbody>
-</table>**Note:** The it\_program\_manager role is installed with the activation of Scrum Programs only if it is not already installed through the [[c_ProjectPortfolioSuite|Project Portfolio Management]] plugin.
+</table>**Note:** The it\_program\_manager role is installed with the activation of Scrum Programs only if it is not already installed through the Project Portfolio Management plugin.
 
 ## Tables installed with Scrum Programs
 
@@ -80,7 +80,7 @@ program\_planning\_constants
 
 Contains customizable TEAM\_LIMIT and STORY\_LIMIT properties.
 
- These properties limit the number of teams and stories that can be shown on the [[planning-scrum-program-overview|scrum program planning board]].
+ These properties limit the number of teams and stories that can be shown on the scrum program planning board.
 
 </td></tr></tbody>
 </table>The default value for the TEAM\_LIMIT property is 15 and STORY\_LIMIT property is 1000. You can change these values according to your preferences.
@@ -89,7 +89,3 @@ Contains customizable TEAM\_LIMIT and STORY\_LIMIT properties.
 
 **Parent Topic:**[Scrum Programs for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/scrum-programs-concept.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[planning-scrum-program-overview|Scrum program planning board]]

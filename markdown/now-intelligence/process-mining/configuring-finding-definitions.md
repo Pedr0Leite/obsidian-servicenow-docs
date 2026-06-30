@@ -14,7 +14,7 @@ breadcrumb: [Create a project using Classic view, Use, Process Mining, Platform 
 
 # Configuring improvement opportunities
 
-Configure an improvement opportunities to view the insights on the [[summary-insights-dashboard|Summary and insights page]].
+Configure an improvement opportunities to view the insights on the Summary and insights page.
 
 An improvement opportunity creates the rule that searches for insights relevant to a process that is based on a specified table. After you configure a definition, any relevant records show as opportunities for in the Insights section of the Summary and insights page.
 
@@ -33,6 +33,3 @@ For more information on creating finding definitions, see [Setting improvement o
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[summary-insights-dashboard|Summary and insights page]]

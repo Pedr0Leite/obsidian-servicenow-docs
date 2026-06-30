@@ -82,7 +82,7 @@ Fired by
 
 </td><td>
 
-Name of the business rule that runs the event. This field is for [[reference-email-admin|reference]] only and is not used by any process. Make sure that there is enough information to locate your event again.
+Name of the business rule that runs the event. This field is for reference only and is not used by any process. Make sure that there is enough information to locate your event again.
 
 </td></tr><tr><td>
 
@@ -96,6 +96,3 @@ Short description of the purpose of the event.
 </table>
 **Parent Topic:**[Managing system events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/managing-system-events.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

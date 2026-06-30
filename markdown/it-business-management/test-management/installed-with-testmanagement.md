@@ -38,7 +38,7 @@ Test manager\[tm\_test\_manager\]
 
 </td><td>
 
-Manages [[c_TestPlans|test plans]] and [[c_TestSuites|test suites]] \(metadata\). Has all privileges within test management, including planning, execution, and administration.
+Manages test plans and test suites \(metadata\). Has all privileges within test management, including planning, execution, and administration.
 
 </td><td>
 
@@ -50,7 +50,7 @@ Tester\[tm\_tester\]
 
 </td><td>
 
-Executes [[c_TestCases|test cases]] and [[c_Tests|tests]].
+Executes test cases and tests.
 
 </td><td>
 
@@ -133,10 +133,3 @@ Stores the test case defects that are recorded for failed tests.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_TestPlans|Test plans]]
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

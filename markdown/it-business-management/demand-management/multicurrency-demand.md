@@ -18,11 +18,11 @@ Manage and track the financials of your demands in the corporate currency, regio
 
 **Important:**
 
-Demands are available in the Next Experience for [[c_DemandManagement|Demand Management]]. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -33,7 +33,7 @@ The multicurrency feature in Demand Management makes it easier for you to manage
 
 ## Activation information
 
-Activate the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable the multicurrency features in Demand Management. Activating the plugin enables the demand currency view in demand, cost plans, and benefit plans [[form-field-information-for-dw|forms]]. With the demand currency view, you can manage your simple demand financials, cost plans, benefit plans, and budgets in the demand currency.
+Activate the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable the multicurrency features in Demand Management. Activating the plugin enables the demand currency view in demand, cost plans, and benefit plans forms. With the demand currency view, you can manage your simple demand financials, cost plans, benefit plans, and budgets in the demand currency.
 
 **Note:** Activating this plugin automatically activates the PPM Standard \(com.snc.financial\_planning\_pmo\) plugin and therefore you get the option to switch between the default view and the demand currency view.
 
@@ -43,17 +43,17 @@ After activating the multicurrency plugin, specify your currency preference for 
 
 ## Demand currency view
 
-In addition to the default view in the [[demand-form|Demand form]], the Demand Currency view enables you to view the multicurrency fields. You can enable this view from the form context menu.
+In addition to the default view in the Demand form, the Demand Currency view enables you to view the multicurrency fields. You can enable this view from the form context menu.
 
 You can designate a currency other than the functional currency as the processing Demand Currency for a demand. The **Financials** tab of the Demand form has the **Demand currency** field. You can select an active currency from the Currencies \[fx\_currency\] table.
 
 **Note:**
 
-The **Demand currency** field of a demand becomes read only once you create a cost plan, [[cost-plan-breakdown|cost plan breakdown]], benefit plan, or benefit plan breakdown for the demand.
+The **Demand currency** field of a demand becomes read only once you create a cost plan, cost plan breakdown, benefit plan, or benefit plan breakdown for the demand.
 
 ## Multicurrency in Demand Tasks
 
-Track the expenses incurred while performing the [[demand-task|demand tasks]] in demand currency. When the time card for a demand task is submitted and processed, the actual cost is calculated based on the rate model, the default labor rate, or the rate defined in the system property. You can view this actual cost in the [[demand-task-form|Demand Task form]] in the **Demand currency** and **Actual cost in demand currency** fields. For more information, see [Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
+Track the expenses incurred while performing the demand tasks in demand currency. When the time card for a demand task is submitted and processed, the actual cost is calculated based on the rate model, the default labor rate, or the rate defined in the system property. You can view this actual cost in the Demand Task form in the **Demand currency** and **Actual cost in demand currency** fields. For more information, see [Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
 
 ## Multicurrency in Demand Baseline
 
@@ -64,20 +64,9 @@ Set your currency preference to use for managing and tracking the financials of 
 -   **[Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md)**  
 Switch to the demand currency view to track the planned costs of a demand in the selected currency.
 -   **[Quick start tests for Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/quick-start-tests-ppm-demand-multicurrency.md)**  
-Validate that the multicurrency in Demand Management still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that the multicurrency in Demand Management still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Upgrade existing demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/upgrade-demand-demand-currency.md)**  
 Execute scheduled jobs to upgrade your existing active and inactive demands, respectively, after activating the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin.
 
 **Parent Topic:**[Configuring Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/configuring-demand-management.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[form-field-information-for-dw|Forms]]
-- [[demand-form|Demand form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[demand-task|Demand tasks]]
-- [[demand-task-form|Demand task form]]
-- [[c_Tests|Tests]]

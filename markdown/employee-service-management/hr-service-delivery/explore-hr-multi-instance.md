@@ -14,20 +14,20 @@ breadcrumb: [HR Multi Instance Integration, HR Service Delivery, Employee Servic
 
 # Explore HR Multi Instance Integration
 
-Learn about the benefits and key offerings of the [[multi-instance-int|HR Multi Instance Integration]] application.
+Learn about the benefits and key offerings of the HR Multi Instance Integration application.
 
 ## HR Multi Instance Integration overview
 
-Partners and service providers for HR service fulfillment often are running their own instance of [[hr-service-delivery|HR Service Delivery]]. HR Multi Instance Integration provides inter-instance communication and uniform HR service experiences \(for remote [[hr-service-administration|HR services]] and local HR services\) with fulfillment in different instances through the following capabilities:
+Partners and service providers for HR service fulfillment often are running their own instance of HR Service Delivery. HR Multi Instance Integration provides inter-instance communication and uniform HR service experiences \(for remote HR services and local HR services\) with fulfillment in different instances through the following capabilities:
 
 -   Ability to control your organization employee’s experience according to your organization's culture, branding, and policies.
 -   Ability to outsource services.
 -   Consistent user experience for employees across the entire HR catalog, regardless of whether they are interacting locally or remotely from any third-party provider.
 -   Because HR workflows or business process are not restricted to a single instance, they can flow seamlessly across instances. Ability to fulfill a case partially by providers and partially by consumers.
--   Uniformity and standardization for HR agents on the provider instance enables them to work on local cases or remote HR cases from the provider’s ServiceNow AI Platform instance with a minimal [[exploring-learning-exp|learning]] curve.
+-   Uniformity and standardization for HR agents on the provider instance enables them to work on local cases or remote HR cases from the provider’s ServiceNow AI Platform instance with a minimal learning curve.
 -   Managing and controlling access at the remote catalog level to meet security and compliance requirements at both the provider and consumer instances.
 -   Synchronization of relevant information such as submitted request \(provider task\) status, comments, and attachments by service providers.
--   Use [[universal-task-landing|Universal Task]] as the remote tasking medium in consumer instance.
+-   Use Universal Task as the remote tasking medium in consumer instance.
 -   Ability to create HR tasks and approval tasks for remote cases.
 -   Initiate document signing tasks for remote users via universal tasks.
 
@@ -94,7 +94,7 @@ Consumer employee
 
 </td><td>
 
--   Can access and submit service requests from a consumer [[employee-center-portal-overview|employee portal]].
+-   Can access and submit service requests from a consumer employee portal.
 -   Can complete the HR tasks, approval tasks, and document tasks via the URL links in assigned tasks.
 
 </td></tr></tbody>
@@ -158,18 +158,9 @@ Consumer employee
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[using-hr-mii|using HR Multi Instance Integration]], see:
+To learn more about configuring and using HR Multi Instance Integration, see:
 
 -   [Configuring HR Multi Instance Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hr-mii-bs.md)
 -   [Using HR Multi Instance Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-mii.md)
 -   [Reference for HR Multi Instance Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hr-multi-instance.md)
 
-## Related
-
-- [[multi-instance-int|HR Multi Instance Integration]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[exploring-learning-exp|Learning]]
-- [[universal-task-landing|Universal Task]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[using-hr-mii|Using HR Multi Instance Integration]]

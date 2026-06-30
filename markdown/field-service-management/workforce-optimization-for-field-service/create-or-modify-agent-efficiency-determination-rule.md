@@ -22,7 +22,7 @@ Role required: wm\_admin, wm\_dispatcher
 
 ## About this task
 
-An Agent Efficiency determination rule automatically assigns Agent Efficiency criteria to a qualified work order task. [[fsm-task-recommendation|Intelligent Task Recommendation]] uses Agent Efficiency determination rules to recommend the best-suited tasks for an agent.
+An Agent Efficiency determination rule automatically assigns Agent Efficiency criteria to a qualified work order task. Intelligent Task Recommendation uses Agent Efficiency determination rules to recommend the best-suited tasks for an agent.
 
 ## Procedure
 
@@ -128,6 +128,3 @@ The determination rule is created.
 
 [Assign an Agent Efficiency value to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-efficiency-value-to-agents.md)
 
-## Related
-
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]

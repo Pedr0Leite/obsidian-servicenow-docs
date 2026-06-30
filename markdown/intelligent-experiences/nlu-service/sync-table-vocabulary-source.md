@@ -14,11 +14,11 @@ breadcrumb: [NLU vocabulary, Build and train your model, Model management, Natur
 
 # Sync a table vocabulary source
 
-Synchronize your table vocabulary sources to obtain the latest changes to the ServiceNow source table. Synchronizing your vocabulary sources ensures your [[nlu-models|NLU models]] have the latest values when predicting intents.
+Synchronize your table vocabulary sources to obtain the latest changes to the ServiceNow source table. Synchronizing your vocabulary sources ensures your NLU models have the latest values when predicting intents.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Role required: admin or nlu\_admin
 
 ## About this task
@@ -65,7 +65,3 @@ For information about errors when syncing a table vocabulary source, see article
 
 [Create a table vocabulary source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-table-lookup-source.md)
 
-## Related
-
-- [[nlu-models|NLU models]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

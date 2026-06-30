@@ -15,13 +15,10 @@ breadcrumb: [Accounts Payable Operations, Finance and Supply Chain]
 
 # Integrate APO with other applications
 
-Extend [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] by integrating with ERP systems, Document Intelligence, IT Asset Management, and other business applications.
+Extend Accounts Payable Operations by integrating with ERP systems, Document Intelligence, IT Asset Management, and other business applications.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents.
 
 -   [Accounts Payable Operations integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-integration-to-create-invoice.md)
 -   [IT Asset Management purchase order invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-integration-with-itam.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

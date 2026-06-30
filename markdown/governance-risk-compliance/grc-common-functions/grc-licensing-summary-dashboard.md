@@ -16,7 +16,7 @@ breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
 
 Use the GRC licensing summary dashboard to track license usage trends and next month's projected usage. You can see the aggregated counts of license consumption across different product families. You can also search for roles to identify their combined GRC license treatment when these roles are assigned to a user.
 
-The GRC licensing summary dashboard displays the monthly aggregated counts of license consumption across different product families including Integrated Risk Management, [[business-continuity-mangmt-overview|Business Continuity Management]], and [[privacy-management|Privacy Management]].
+The GRC licensing summary dashboard displays the monthly aggregated counts of license consumption across different product families including Integrated Risk Management, Business Continuity Management, and Privacy Management.
 
 You must have the product owner role \(sn\_irm\_shared\_cmn.product\_owner\) to access the dashboard. Navigate to **All** &gt; **GRC Licensing Overview** &gt; **Licensing Summary Dashboard**.
 
@@ -217,7 +217,3 @@ The role hierarchy node map displays the relationship between the license contri
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[privacy-management|privacy management]]

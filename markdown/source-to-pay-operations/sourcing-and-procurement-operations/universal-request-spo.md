@@ -15,11 +15,11 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 # Universal Request in Sourcing and Procurement Operations
 
-[[universal-request|Universal Request]] \(UR\) in [[psm-overview|Sourcing and Procurement Operations]] enables employees to submit procurement-related requests through Employee Center, even when a request requires collaboration across multiple departments or teams. After submission, a routing agent creates a procurement case and routes it to the appropriate fulfillers for resolution.
+Universal Request \(UR\) in Sourcing and Procurement Operations enables employees to submit procurement-related requests through Employee Center, even when a request requires collaboration across multiple departments or teams. After submission, a routing agent creates a procurement case and routes it to the appropriate fulfillers for resolution.
 
 ## Plugin
 
-To enable Universal Request in Sourcing and Procurement Operations, install the Universal Request for [[source-to-pay-operations-overview|Source-to-Pay Operations]] plugin \(sn\_fsc\_ur\_common\). For more information, see [Install Universal Request for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-universal-request-spo.md).
+To enable Universal Request in Sourcing and Procurement Operations, install the Universal Request for Source-to-Pay Operations plugin \(sn\_fsc\_ur\_common\). For more information, see [Install Universal Request for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-universal-request-spo.md).
 
 ## Key stakeholders
 
@@ -74,8 +74,3 @@ To create routing agents, add users to the Source Operations Universal Request G
 
 [AI Search for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

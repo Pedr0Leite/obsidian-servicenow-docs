@@ -63,8 +63,5 @@ The request is no longer required, because another request has already performed
  **This is a duplicate \[SM application\] request.**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+</table>**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[rm-sm-application|Request Management in a Service Management application]]

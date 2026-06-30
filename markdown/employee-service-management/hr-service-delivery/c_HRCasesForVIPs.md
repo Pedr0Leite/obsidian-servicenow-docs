@@ -21,7 +21,7 @@ If your organization uses the VIP feature, set up the following to ensure that V
 -   Navigate to **Skills** &gt; **Groups**.
 -   Add members or a group to **HR VIP Watchlist**. When an HR case is submitted, members of this group receive notification as the case progresses.
 -   Review the HR service level agreement \(SLA\) for handling VIP cases. The duration is two hours. When the duration is reached, the SLA is breached and the members of the watchlist are notified.
--   Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**.
+-   Navigate to **HR Administration** &gt; **Properties**.
 -   Enter a case priority number in the **Default case priority for VIP requestor** field.
 -   For VIP employees, check the **VIP** box on their User \[sys\_user\] record.
 
@@ -36,6 +36,3 @@ You can identify VIP HR cases in the following ways:
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

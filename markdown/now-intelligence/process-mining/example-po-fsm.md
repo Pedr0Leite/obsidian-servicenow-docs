@@ -35,7 +35,7 @@ You would analyze the work order process flow and suggest ways to improve the pr
     In your notes, you suggest review the reason for higher dispatch time in the installation tasks.
 
 
-\[Omitted image "example-po-fsm1.png"\] Alt text: Example: [[process-mining|Process Mining]] Analyst workbench for FSM
+\[Omitted image "example-po-fsm1.png"\] Alt text: Example: Process Mining Analyst workbench for FSM
 
 **Parent Topic:**[Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md)
 
@@ -44,6 +44,3 @@ You would analyze the work order process flow and suggest ways to improve the pr
 
 [Process Mining for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/process-opt-fsm.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

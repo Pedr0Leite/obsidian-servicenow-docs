@@ -14,7 +14,7 @@ breadcrumb: [Analyze CMDB settings, Use Data Foundations advisor, CMDB success a
 
 # Settings checklist for Data Foundations in CMDB success advisor
 
-Use this checklist to review [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] and Data Foundations settings in [[cmdb-sa|CMDB success advisor]] that directly affect Data Foundations data quality, configuration item \(CI\) to asset synchronization, and life cycle alignment.
+Use this checklist to review Configuration Management Database \(CMDB\) and Data Foundations settings in CMDB success advisor that directly affect Data Foundations data quality, configuration item \(CI\) to asset synchronization, and life cycle alignment.
 
 ## CMDB and Data Foundations settings checklist
 
@@ -22,8 +22,8 @@ Confirm that each setting is configured to support accurate and complete CI data
 
 |Select|Check item \(field\)|Description|Action|
 |------|--------------------|-----------|------|
-|\[Omitted image "square-outline-24.svg"\] Alt text:|CI creation from assets using IRE|Enables the automatic creation of a CI from an asset record using the CMDB [[ire|Identification and Reconciliation Engine \(IRE\)]] for CI classes identified by serial number and without dependent relationships.|Verify that the rule is active for all applicable principal classes.|
-|\[Omitted image "square-outline-24.svg"\] Alt text:|Review reconciliation rules|Evaluates whether [[r_ReconciliationRulesPrinciples|reconciliation rules]] correctly assign attribute ownership to the authoritative integration source for each principal CI class, preventing lower-quality sources from overwriting high-quality data.|Update reconciliation rules to ensure the most authoritative source owns each CI attribute.|
+|\[Omitted image "square-outline-24.svg"\] Alt text:|CI creation from assets using IRE|Enables the automatic creation of a CI from an asset record using the CMDB Identification and Reconciliation Engine \(IRE\) for CI classes identified by serial number and without dependent relationships.|Verify that the rule is active for all applicable principal classes.|
+|\[Omitted image "square-outline-24.svg"\] Alt text:|Review reconciliation rules|Evaluates whether reconciliation rules correctly assign attribute ownership to the authoritative integration source for each principal CI class, preventing lower-quality sources from overwriting high-quality data.|Update reconciliation rules to ensure the most authoritative source owns each CI attribute.|
 |\[Omitted image "square-outline-24.svg"\] Alt text:|Review CMDB Data Manager policies|Assesses the configuration of Data Manager policies, including archive, attestation, certification, delete, and retire, for your principal classes.|Enable and configure appropriate policies for all principal classes.|
 
 ## Final validation
@@ -33,12 +33,5 @@ Once all settings checks are complete:
 -   The business rule for CI creation from assets using IRE is `Active` for applicable principal classes.
 -   Reconciliation rules are configured to protect high-quality CI attribute data from being overwritten by lower-quality sources.
 -   Data Manager policies are configured for all principal classes.
--   No `[[exploring-requires-attention|Requires attention]]` status is displayed for any setting in the **Settings** tab.
+-   No `Requires attention` status is displayed for any setting in the **Settings** tab.
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[exploring-requires-attention|Requires attention]]

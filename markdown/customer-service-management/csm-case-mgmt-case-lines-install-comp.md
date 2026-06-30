@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Components installed with Case lines and workflows
 
-Several types of components are installed with the [[csm-case-mgmt-case-lines|Case lines and workflows]] application, including tables and roles.
+Several types of components are installed with the Case lines and workflows application, including tables and roles.
 
 ## Tables
 
@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[case-line-form|Case Line]]\[sn\_case\_line\]
+[Case Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-form.md)\[sn\_case\_line\]
 
 </td><td>
 
@@ -34,7 +34,7 @@ The Case Line table stores case line item records that are created for parent ca
 
 </td></tr><tr><td>
 
-[[case-line-task-form|Case Line Task]]\[sn\_case\_line\_task\]
+[Case Line Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-task-form.md)\[sn\_case\_line\_task\]
 
 </td><td>
 
@@ -42,7 +42,7 @@ The Case Line Task table stores the tasks related to case line items. This table
 
 </td></tr><tr><td>
 
-[[case-line-characteristics-form|Case Line Characteristic]]\[sn\_case\_line\_characteristic\]
+[Case Line Characteristic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-characteristics-form.md)\[sn\_case\_line\_characteristic\]
 
 </td><td>
 
@@ -50,7 +50,7 @@ The Case Line Characteristic form displays details about the product offering in
 
 </td></tr><tr><td>
 
-[[case-line-entitlements-form|Case Line Entitlement]]\[sn\_case\_line\_entitlement\]
+[Case Line Entitlement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-entitlements-form.md)\[sn\_case\_line\_entitlement\]
 
 </td><td>
 
@@ -202,7 +202,7 @@ This is an existing role.The customer service agent role has read, write, and up
 
 </td><td>
 
-For more information, see [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]].
+For more information, see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 </td></tr><tr><td>
 
@@ -236,17 +236,7 @@ sn\_customerservice.advanced\_entitlements
 Displays the Entitlements related list on the Case Line form.-   True: the related list is visible.
 -   False: the related list is hidden.
 
-This property applies to both [[csm-workspaces-configure|CSM Configurable Workspace]] and Core UI.
+This property applies to both CSM Configurable Workspace and Core UI.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[case-line-form|Case line item form]]
-- [[case-line-task-form|Case line task form]]
-- [[case-line-characteristics-form|Case line characteristic form]]
-- [[case-line-entitlements-form|Case line entitlement form]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

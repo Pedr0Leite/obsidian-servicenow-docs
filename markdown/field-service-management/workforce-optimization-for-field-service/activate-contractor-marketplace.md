@@ -14,7 +14,7 @@ breadcrumb: [Marketplace, Contractor capabilities, Set up workforce, Configure, 
 
 # Activate Field Service Marketplace
 
-You can activate the [[fsm-marketplace|Field Service Marketplace]] plugin \(com.snc.fsm\_marketplace\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data if they aren’t already installed.
+You can activate the Field Service Marketplace plugin \(com.snc.fsm\_marketplace\) for Field Service Management if you have the admin role. The application includes demo data if they aren’t already installed.
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ The following items are installed with Field Service Marketplace:
 -   Business rules
 -   Script includes
 
-For more information, see [[contractor-marketplace-cmpnts|Field Service Marketplace components]].
+For more information, see [Field Service Marketplace components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-marketplace-cmpnts.md).
 
-**Note:** To utilize automation in Field Service Marketplace, the [[dynamic-scheduling|Dynamic Scheduling]] plugin must be installed and the **Use task filters for determining contractor tasks** property must be enabled.
+**Note:** To utilize automation in Field Service Marketplace, the Dynamic Scheduling plugin must be installed and the **Use task filters for determining contractor tasks** property must be enabled.
 
 ## Procedure
 
@@ -48,9 +48,4 @@ For more information, see [[contractor-marketplace-cmpnts|Field Service Marketpl
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[contractor-marketplace-cmpnts|Field Service Marketplace components]]
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

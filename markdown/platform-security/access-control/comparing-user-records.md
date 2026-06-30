@@ -14,13 +14,13 @@ breadcrumb: [Using Access Analyzer, Access Analyzer, Access Management]
 
 # Comparing user records
 
-Compare user records to understand the access between two [[users|users]].
+Compare user records to understand the access between two users.
 
 ## Before you begin
 
 Role required: access\_analyzer\_admin
 
-The following procedure describes the steps for comparing user records using the [[access-analyzer|Access Analyzer]].
+The following procedure describes the steps for comparing user records using the Access Analyzer.
 
 **Note:** Access Analyzer is a ServiceNow® Store product.
 
@@ -45,7 +45,4 @@ The following procedure describes the steps for comparing user records using the
     -   **Groups**: Displays the groups that are assigned to the user. You can select the group to know more about the group and its entitlements.\[Omitted image "group-compare-user-records.png"\] Alt text: Group
     Similarly, you can compare different users in the ServiceNow instance to understand the access that's assigned to them.
 
-## Related
 
-- [[users|Users]]
-- [[access-analyzer|Access Analyzer]]

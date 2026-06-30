@@ -26,7 +26,7 @@ Details on this page are refreshed once daily.
 
 ## Required ServiceNow AI Platform roles
 
-The admin role is required to view the [[c_DataManagement|Data Management]] console.
+The admin role is required to view the Data Management console.
 
 ## Accessing data usage by table in the Data Management Console
 
@@ -69,6 +69,3 @@ Associated tables store records like attachments, audit records, and journal ent
 -   View the size of associated records and the total record count in each associated table.
 -   Address growth in associated tables by creating data management rules on the current table.
 
-## Related
-
-- [[c_DataManagement|Data Management]]

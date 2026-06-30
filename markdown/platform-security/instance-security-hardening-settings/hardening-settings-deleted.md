@@ -14,7 +14,7 @@ breadcrumb: [Baseline versions, Hardening settings, Platform Security]
 
 # Deleted hardening settings
 
-Some [[security-hardening-settings|hardening settings]] are removed from [[sec-center-v2|Security Center]] baselines.
+Some hardening settings are removed from Security Center baselines.
 
 -   **[Deleted hardening settings for baseline version 8.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/deleted-hardening-settings-for-baseline-version-eight.md)**  
 Some hardening settings have been removed with the release of Security Center baseline version 8.0.
@@ -31,7 +31,3 @@ Some hardening settings have been removed with the release of Security Center ba
 
 **Parent Topic:**[Hardening settings baseline versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-baseline.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]

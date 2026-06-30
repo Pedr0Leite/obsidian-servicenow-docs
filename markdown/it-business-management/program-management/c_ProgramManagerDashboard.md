@@ -14,7 +14,7 @@ breadcrumb: [Program Management, Project Portfolio Management, Strategic Portfol
 
 # Program Dashboard
 
-The [[pmo-dashboard|PMO dashboard]] provides a central location to a program manager to generate different graphical reports.
+The PMO dashboard provides a central location to a program manager to generate different graphical reports.
 
 From Madrid release onward, the program manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your programs. For more information, see [PMO Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/pmo-dashboard.md).
 
@@ -30,6 +30,3 @@ View different graphical reports for your programs on the PMO Dashboard.
 
 [Program workbench]()
 
-## Related
-
-- [[pmo-dashboard|PMO dashboard]]

@@ -12,7 +12,7 @@ breadcrumb: [Manage, Legal Digital Forensics, Legal Service Delivery Practice Ap
 
 # Work on a digital forensic request
 
-As a member of the digital forensic team, you [[work-on-legal-request|work on a legal request]] to investigate and resolve the request.
+As a member of the digital forensic team, you work on a legal request to investigate and resolve the request.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -32,7 +32,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
     -   If the legal request is unassigned, click **Assign to me** to assign it to yourself. To assign to another member, select the member's name in the **Assigned to** field and click **Save**.
 
-        The state of the legal request updates to Assigned. If the **Digital Forensics - Privacy Approval** flow is active, an approval flow is triggered. For each custodial and non-custodial data in the digital forensic request, one corresponding approval record is created and is assigned to each member in the legal privacy group. Any member from the legal privacy group can review and [[approve-reject-dft-request|approve or reject these approval records]].
+        The state of the legal request updates to Assigned. If the **Digital Forensics - Privacy Approval** flow is active, an approval flow is triggered. For each custodial and non-custodial data in the digital forensic request, one corresponding approval record is created and is assigned to each member in the legal privacy group. Any member from the legal privacy group can review and [approve or reject these approval records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/approve-reject-dft-request.md).
 
         The status of custodial and non-custodial data updates to Pending Approval. You can review the status of the approval records in the **Approvers** tab.
 
@@ -54,7 +54,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
         -   To promote them to an existing legal matter, select them and click **Add to an Existing Matter**. In the Add to Existing Matter dialog box, select a matter from the list, and click **OK**.
         For more information, see [Promote a legal request to a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/promote-legal-request-to-matter.md).
 
-        **Note:** You can promote the legal request to a legal matter only if you have installed [[legal-matter-management-landing-page|Legal Matter Management]] and [set the record producer type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) in the associated intake form as **Request and Matter**.
+        **Note:** You can promote the legal request to a legal matter only if you have installed Legal Matter Management and [set the record producer type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) in the associated intake form as **Request and Matter**.
 
         The legal matter to which the custodial and non-custodial data records are promoted appears in the **Legal Matters** tab.
 
@@ -69,12 +69,5 @@ Role required: sn\_lg\_ops.legal\_fulfiller
         All custodial and non-custodial data records, as well as any pending approval records associated with them, are also cancelled.
 
 
-**Parent Topic:**[[managing-legal-dft-request|Managing digital forensics requests]]
+**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/managing-legal-dft-request.md)
 
-## Related
-
-- [[approve-reject-dft-request|Approve or reject the processing of custodial and non-custodial data]]
-- [[managing-legal-dft-request|Managing digital forensics requests]]
-- [[work-on-legal-request|Work on a legal request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]

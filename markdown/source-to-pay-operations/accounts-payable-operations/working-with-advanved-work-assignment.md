@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Working with Advanced Work Assignment
 
-Use live chat in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to interact with AP agents and resolve [[work-with-inquiry-cases|invoice inquiry cases]] as a [[supplier|supplier]].
+Use live chat in Accounts Payable Operations to interact with AP agents and resolve invoice inquiry cases as a supplier.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supplier-central|Supplier Collaboration portal]]**.
+1.  Navigate to **All** &gt; **Supplier Collaboration portal**.
 
     Suppliers interact with APO live agent for invoice inquiry cases. The interactions between supplier and APO live agent is recorded in an auto-generated interaction record. For more information regarding interaction record, refer [Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/interaction-record.md).
 
@@ -47,7 +47,7 @@ Role required: admin
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -61,10 +61,3 @@ Role required: admin
 
 [Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[advanced-work-assignment|advanced work assignment]]

@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile app, Setting up Field Service M
 
 # Activate the Field Service Contractor for mobile feature in the Now Mobile Agent application
 
-Activate the [[wot-fsc|Field Service Contractor for mobile]] plugin \(com.snc.fsm\_ext\_mobile\) to [[manage-work-order-tasks-dw|manage work order tasks]] assigned to the contractor company. This plugin activates related plugins if they are not already active.
+Activate the Field Service Contractor for mobile plugin \(com.snc.fsm\_ext\_mobile\) to manage work order tasks assigned to the contractor company. This plugin activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -46,7 +46,4 @@ My work, Articles, Notifications, My Incidentals and More applets, navigation ta
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]

@@ -219,7 +219,7 @@ while (count.next()) {
 }
 ```
 
-**Parent Topic:**[[c_MapPages|Map pages]]
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_MapPages.md)
 
 **Related topics**  
 
@@ -236,6 +236,3 @@ while (count.next()) {
 
 [Create a smartphone map page module]()
 
-## Related
-
-- [[c_MapPages|Map pages]]

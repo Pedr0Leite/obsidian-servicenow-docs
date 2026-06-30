@@ -14,7 +14,7 @@ breadcrumb: [Schedule Optimization, Setting up a Field Service scheduling method
 
 # Optimizing technician schedules at set intervals throughout the day
 
-Efficiently reassign tasks and maximize productivity by continuously running [[schedule-optimization|schedule optimization]] at selected intervals throughout the day.
+Efficiently reassign tasks and maximize productivity by continuously running schedule optimization at selected intervals throughout the day.
 
 ## About intraday optimization
 
@@ -26,11 +26,7 @@ The basic intra-day flow runs every 60 minutes by default, with a minimum option
 
 Prioritized event optimization responds immediately to critical events instead of waiting for the next scheduled intraday run. When a high-priority event occurs, prioritized optimization triggers shortly after and targets only the specific technicians and tasks affected by the event. This focused approach ensures urgent scheduling changes are handled quickly without reoptimizing all tasks in the group or territory.
 
-Dispatchers can manually trigger optimization to run from the [[dispatcher-activities|Dispatcher Workspace]] when the intraday on demand optimization configuration is enabled and an on demand applicable policy has been added to the scheduling attribute. See [Create a scheduling attribute for Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-scheduling-attributes.md) to add an on demand applicable policy to the configuration.
+Dispatchers can manually trigger optimization to run from the Dispatcher Workspace when the intraday on demand optimization configuration is enabled and an on demand applicable policy has been added to the scheduling attribute. See [Create a scheduling attribute for Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-scheduling-attributes.md) to add an on demand applicable policy to the configuration.
 
 Note that agent schedules can't be manually updated until intraday optimization is complete.
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -18,7 +18,7 @@ If the approval option is enabled in your ServiceNow AI Platform instance, reque
 
 ## Before you begin
 
-Verify that you have the **Approvals** option selected on the Additional Settings tab of the Exchange Online Search and Delete Emails [[qradar-ibm-intg-settings|Configuration Settings]] form.
+Verify that you have the **Approvals** option selected on the Additional Settings tab of the Exchange Online Search and Delete Emails Configuration Settings form.
 
 Verify that you have enabled the email **Email sending enabled**and **Email receiving enabled** options in your ServiceNow AI Platform instance for approval requests.
 
@@ -147,6 +147,3 @@ Review the related security incident and any related search data before processi
 
 **Next topic:**[Recover deleted emails on the Microsoft Exchange Online service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-recover-deleted-emails.md)
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]

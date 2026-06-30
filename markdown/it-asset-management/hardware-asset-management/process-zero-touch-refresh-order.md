@@ -14,13 +14,13 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Fulfill a Zero Touch Refresh Fulfillment Request
 
-As a provider, ship a replacement asset requested through a [[zero-touch-asset-refresh|Zero Touch Refresh]] Fulfillment Request to the requester.
+As a provider, ship a replacement asset requested through a Zero Touch Refresh Fulfillment Request to the requester.
 
 ## Before you begin
 
 The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/service-bridge-config-ztr.md).
 
-Role required: admin, asset, [[c_Procurement|procurement]]\_user, or inventory\_user
+Role required: admin, asset, procurement\_user, or inventory\_user
 
 ## About this task
 
@@ -70,7 +70,7 @@ An asset with the serial number and asset tag specified in the Zero Touch Refres
 **Related topics**  
 
 
-[Configure replacement [[c_Models|models]] for a refresh model]()
+[Configure replacement models for a refresh model]()
 
 [Request a hardware asset refresh through Zero Touch Refresh]()
 
@@ -80,8 +80,3 @@ An asset with the serial number and asset tag specified in the Zero Touch Refres
 
 [Acknowledge receipt of an asset through the Core UI]()
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]

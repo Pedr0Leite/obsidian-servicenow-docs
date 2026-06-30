@@ -12,7 +12,7 @@ breadcrumb: [Use, Now Assist for Order Management, Sales Customer Relationship M
 
 # Manage order updates with Now Assist
 
-Use [[now-assist-order-management|Now Assist for Order Management]] to manage order updates, such as applying bulk changes to order line items, removing order lines, or creating an order case, without navigating between individual records.
+Use Now Assist for Order Management to manage order updates, such as applying bulk changes to order line items, removing order lines, or creating an order case, without navigating between individual records.
 
 ## Before you begin
 
@@ -159,9 +159,5 @@ Describe the issue with the order when prompted, review the generated summary, t
 
 After updating quantity or shipping address, you can keep the changes or undo them when prompted.
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]
-- [[now-assist-order-management|Now Assist for Order Management]]

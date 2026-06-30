@@ -14,7 +14,7 @@ breadcrumb: [SAML 2.0 configuration using Multi-Provider SSO, SAML, Multi-Provid
 
 # X.509 certificates for SAML
 
-Store and activate the necessary IdP [[c_Certificates|certificates]] for your [[c_SAML2.0WebBrowserSSOProfile|SAML]] [[sc-configuration|configuration]].
+Store and activate the necessary IdP certificates for your SAML configuration.
 
 The X.509 certificates are the IdP certificates that a SAML configuration uses. After you install a certificate, you can add as many certificates as necessary. When there are multiple certificates, the system uses the first active certificate that is found. If you set the URL for the **Metadata URL from which IDP properties are imported field**, the system automatically polls the IdP for a current, valid certificate when your certificate is no longer valid. It appends this certificate to your instance, and uses it for your active SAML configuration.
 
@@ -22,8 +22,3 @@ The X.509 certificates are the IdP certificates that a SAML configuration uses. 
 
 \[Omitted image "x-509-certificate-saml.png"\] Alt text: X.509 certificates
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]

@@ -28,7 +28,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 You may create your own signed certificate with a private certificate authority or purchase one from a public certificate authority.
 
-The following steps illustrate how to generate a new Java Keytool keystore file, create a certificate signing [[c_requestAPI|request]] \(CSR\), and import [[c_Certificates|certificates]]. Any root or intermediate certificates need to be imported before importing the primary certificate for your domain. Type these commands in a command line interface.
+The following steps illustrate how to generate a new Java Keytool keystore file, create a certificate signing request \(CSR\), and import certificates. Any root or intermediate certificates need to be imported before importing the primary certificate for your domain. Type these commands in a command line interface.
 
 **Note:** These instructions are not specific to the platform and require technical knowledge of security certificates to complete. Technical Support cannot assist in creating the certificates.
 
@@ -58,7 +58,4 @@ The following steps illustrate how to generate a new Java Keytool keystore file,
     keytool -import -trustcacerts -alias mydomain -file mydomain.crt -keystore my.keystore
     ```
 
-## Related
 
-- [[c_requestAPI|request]]
-- [[c_Certificates|Certificates]]

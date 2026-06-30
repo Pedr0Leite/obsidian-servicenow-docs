@@ -32,9 +32,9 @@ Some knowledge bases may allow only certain users to contribute. For example, a 
 
 1.  There are three ways of creating knowledge articles.
 
-    -   Navigate to **[[self-service-landing|Self-Service]]** &gt; **Knowledge** and select the Create an Article icon.
+    -   Navigate to **Self-Service** &gt; **Knowledge** and select the Create an Article icon.
     -   Navigate to **Knowledge** &gt; **Articles** &gt; **Create New**.
-    -   From the [[knowledge-management|Knowledge Management]] homepage, select the more icon \(\[Omitted image "KnowledgeServicePortalOverflowIcon.png"\] Alt text: More icon\) and then select **Create Article**.
+    -   From the Knowledge Management homepage, select the more icon \(\[Omitted image "KnowledgeServicePortalOverflowIcon.png"\] Alt text: More icon\) and then select **Create Article**.
 2.  On the Create new article page, select a knowledge base.
 
     The list of article templates to select in the next step is filtered according to the article templates available for the selected knowledge base.
@@ -91,7 +91,7 @@ Ownership Group
 
 </td><td>
 
-The ownership group for this knowledge article. An ownership group is a group of members and a manager who are responsible for approvals, ensuring article quality, and feedback tasks. [[enable-ownership-group|Ownership groups]] can publish, edit, and retire knowledge articles that they’re associated with.**Note:** If no ownership group is assigned, the article automatically goes to the knowledge administrator and knowledge manager for approval.
+The ownership group for this knowledge article. An ownership group is a group of members and a manager who are responsible for approvals, ensuring article quality, and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they’re associated with.**Note:** If no ownership group is assigned, the article automatically goes to the knowledge administrator and knowledge manager for approval.
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ The date this knowledge article expires. Articles don’t appear in search resul
 
  An article author or editor can select whether to keep or change the default **Valid to** date. For more information, see [Validity of a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-validity.md).
 
- On the first day of each month, the application sends an [[email|email]] notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
+ On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
 
  **Note:** If the system date format or user preferences is set to use `yy` year format, you might face issues when the **Valid to** date is set to the default date. Contact your administrator or modify the user preferences to use a date format with the `yyyy` year format. For more information, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FormatDateAndTimeFields.md) and [Personalize the system date format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PersonalizeTheSystemDateFormat.md) topics.
 
@@ -137,7 +137,7 @@ Version
 
 </td><td>
 
-Version of the article. This field appears only when the [[article-versioning|article versioning]] feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+Version of the article. This field appears only when the article versioning feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Parent
 
 </td><td>
 
-Number of the article that represents the base language article. This setting keeps translations of the same article related to each other. Consider choosing the same language consistently for the parent article. This field appears only when the I18N:Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md).**Note:** The **Parent** field contains the first version of the parent article only. This field is used by the [[translation-management|translation management]] feature to maintain the relationship between the source article and its translations.
+Number of the article that represents the base language article. This setting keeps translations of the same article related to each other. Consider choosing the same language consistently for the parent article. This field appears only when the I18N:Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md).**Note:** The **Parent** field contains the first version of the parent article only. This field is used by the translation management feature to maintain the relationship between the source article and its translations.
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ Article type
 
 </td><td>
 
-The type of article, either [[html|HTML]] or wiki.**Note:** This field is only visible in the standard template.
+The type of article, either HTML or wiki.**Note:** This field is only visible in the standard template.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ The task this knowledge article was created in response to, if any. This field i
 
 </td></tr><tr><td>
 
-[[attachment|Attachment]] link
+Attachment link
 
 </td><td>
 
@@ -296,13 +296,3 @@ After you create and publish a knowledge article, you can perform the following 
 
 [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[knowledge-management|Knowledge Management]]
-- [[enable-ownership-group|Ownership groups]]
-- [[email|Email]]
-- [[article-versioning|Article versioning]]
-- [[translation-management|Translation management]]
-- [[html|HTML]]
-- [[attachment|Attachment]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Smart Assessment from new templates, Set up Smart Asses
 
 # Author and publish a Smart Assessment template
 
-Author and publish Smart Assessment template, and associate it with Work Order Task tables to create [[smart-assessment-questionnaire|Smart Assessment questionnaires]] for work order tasks using this template.
+Author and publish Smart Assessment template, and associate it with Work Order Task tables to create Smart Assessment questionnaires for work order tasks using this template.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: questionnaire\_admin
 
 Author a new Smart Assessment template to configure Smart Assessment questionnaire from new template.
 
-To configure Smart Assessment questionnaires by migrating from [[survey-based-questionnaires|survey-based questionnaires]], review the template and publish it.
+To configure Smart Assessment questionnaires by migrating from survey-based questionnaires, review the template and publish it.
 
 **Note:**
 
@@ -88,7 +88,7 @@ Category of the assessment template. This value should be **Field Service**.
  **Note:**
 
 -   The **Purpose** field in the **Create assessment template** form corresponds to **Template category** in Smart Assessment Engine.
--   **Field Service** is the only **Purpose** available in [[fsm-application-landing-page|Field Service Management]] for smart assessments. However, you can create and customize additional purposes, as required. For more information, see [Create an assessment template category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-category-create.md).
+-   **Field Service** is the only **Purpose** available in Field Service Management for smart assessments. However, you can create and customize additional purposes, as required. For more information, see [Create an assessment template category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-category-create.md).
 -   To view and use any template from the newly created purpose, ensure that you have access to the correct role associated with it.
 
 
@@ -111,8 +111,4 @@ Table to be assessed. Selecting multiple tables makes the scope a combination of
 
 7.  Select **Publish** to publish the new template.
 
-## Related
 
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[fsm-application-landing-page|Field Service Management]]

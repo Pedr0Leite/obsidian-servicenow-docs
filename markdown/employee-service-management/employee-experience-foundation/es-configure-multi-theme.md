@@ -49,7 +49,7 @@ Configure multiple themes to provide different branding experiences based on use
 
 6.  Select **View/Add user criteria** to define the target users criteria for theme.
 
-    \[Omitted image "es-user-criteria-form.png"\] Alt text: [[ec-user-criteria-form|User Criteria form]] with Name, Companies, Groups, Locations, Roles, and Departments fields
+    \[Omitted image "es-user-criteria-form.png"\] Alt text: User Criteria form with Name, Companies, Groups, Locations, Roles, and Departments fields
 
     1.  Select the user criteria from available options include user roles, groups, companies departments, geographic locations, advanced, and more.
 
@@ -77,6 +77,3 @@ Monitor theme performance and user feedback to optimize the audience targeting c
 
 [User criteria form and reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/es-audience-applicability-criteria.md)
 
-## Related
-
-- [[ec-user-criteria-form|User Criteria form]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Notify Cisco Webex Connector, Configuring Notify, Notify,
 
 # Manage Notify properties
 
-Manage the [[notify-landing-page|Notify]] Webex Connector application properties to configure the meeting capabilities.
+Manage the Notify Webex Connector application properties to configure the meeting capabilities.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Enable Notify integration for Task table and extensions
 
 Option to enable Notify integration for Task table and extensions.
 
- Select the [[check-box|check box]].
+ Select the check box.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,3 @@ Option to use Notify Webex Connector for incident and major incident-related rec
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]

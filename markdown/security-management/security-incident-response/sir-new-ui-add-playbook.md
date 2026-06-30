@@ -14,7 +14,7 @@ breadcrumb: [Additional Security Analyst Workspace configuration, Configure the 
 
 # Enable playbooks for analyst selection
 
-Add new [[tisc-playbooks-admin|playbooks]] to the playbook selection list.
+Add new playbooks to the playbook selection list.
 
 You can select an appropriate playbook to investigate security incidents in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui.md)\). The playbook selection option supports only the playbooks which are designed using Flow Designer.
 
@@ -26,6 +26,3 @@ After you have created a playbook using Flow Designer, follow these steps to inc
 
 **Note:** If you have old playbooks that have not been migrated from workflows to Flow Designer, they will not appear in the list. But, if a playbook created using workflows is assigned to a security incident either by a trigger condition or by manual selection \(using **Run Orchestration** option in the classic environment\), this playbook is launched when you open the security incident in the Security Analyst Workspace.
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]

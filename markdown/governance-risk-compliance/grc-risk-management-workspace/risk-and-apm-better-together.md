@@ -45,22 +45,16 @@ Before assessing an application, specify the target application where the risk i
 -   **[Respond to an application questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/respond-to-app-questionnaire.md)**  
 Respond to a questionnaire about an application for risk assessment.
 -   **[Create a smart assessment template for risk identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-smart-assessment-template-for-risk-identification.md)**  
-[[create-sm-asmt-temp-as-ws|Create a smart assessment template]] for risk identification using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Create a smart assessment template for risk identification using the Smart Assessment Engine application.
 -   **[Review responses and perform inherent risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/review-responses-to-apm-risk-assmt.md)**  
-Compute the overall risk score for an application by performing an [[advanced-risk-assessment|advanced risk assessment]]. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
+Compute the overall risk score for an application by performing an advanced risk assessment. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
 -   **[Associate risks, citations, policies, and controls with a risk identification record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/associate-risks-pols-citations-risk-idenfn.md)**  
 After the inherent assessment is completed, you can associate risks, citations, policies, and controls with the risk identification record. You can identify what methods to use to mitigate the risks.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
 **Related topics**  
 
 
 [Workflow of risk identification for business applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-risk-identification.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[advanced-risk-assessment|advanced risk assessment]]

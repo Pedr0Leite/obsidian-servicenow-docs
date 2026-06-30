@@ -18,7 +18,7 @@ The base system includes the following roll-up calculators:
 
 -   **Discovered Application Rollup Calculator**: Roll up the risk scores for all application vulnerable items with the same discovered application, to provide an overall risk score for the discovered application.
 -   **Vulnerability Entry Rollup Calculator**: Roll up the risk scores for all vulnerable items with the same vulnerability entry, to provide an overall risk score for the vulnerability entry.
--   **Discovered Item Rollup Calculator**: Roll up the risk scores for all vulnerable items and test results with the same discovered item, to provide an overall risk score for the [[cj-discovered-items|discovered items]].
+-   **Discovered Item Rollup Calculator**: Roll up the risk scores for all vulnerable items and test results with the same discovered item, to provide an overall risk score for the discovered items.
 -   **Remediation Task Rollup Calculator**: Roll up the risk scores for all vulnerable items in a remediation task, to provide an overall risk score for the entire group of vulnerable items.
 -   **Configuration Test Rollup Calculator**: Roll up the risk scores for all test results with the same configuration test, to provide an overall risk score for the configuration test.
 -   **Discovered Image Rollup Calculator**: Roll up the risk scores for all container vulnerable items with the same discovered container image, to provide an overall risk score for the discovered container images.
@@ -83,7 +83,7 @@ The **Risk Score** would be 45 \[\(50/100\) \* 80 + \(40/100\) \* 5 + 0.2 \* 15 
 
 ## Organizational risk score roll-up calculations
 
-The Organization Risk Score Rollup calculator calculates the overall risk score for an organization in the [Unified Vulnerability Response Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-unified-dashboard.md) and [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]. It rolls up the risk scores for host vulnerable items, application vulnerable items, container vulnerable items, and configuration issues.
+The Organization Risk Score Rollup calculator calculates the overall risk score for an organization in the [Unified Vulnerability Response Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-unified-dashboard.md) and [Cybersecurity Executive Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-unified-CISO-dashboard.md). It rolls up the risk scores for host vulnerable items, application vulnerable items, container vulnerable items, and configuration issues.
 
 To calculate the maximum risk score, the highest score among VIT, AVIT, test results, and CVIT is chosen. For example, if VITs have the highest score, that score is considered as the maximum risk score.
 
@@ -91,21 +91,13 @@ Once the counts of VIT, AVIT, CVIT, and test results are obtained, they’re add
 
 The same process is followed for calculating the average risk score. The risk scores for AVIT, configuration issues, test results, and other scores are summed up, and then divided by the total count to obtain the average risk score. Finally, all the risk scores are added to derive the organization risk score.
 
--   **[[sem-vuln-rollup-calculator|Vulnerability Response Rollup Calculators]]**  
-After your initial assessment of risk calculators in the Setup Assistant, use the vulnerability rollup calculators to configure how the cumulative risk score is computed for remediation tasks and imported [[vulnerabilities|vulnerabilities]].
+-   **[Vulnerability Response Rollup Calculators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-vuln-rollup-calculator.md)**  
+After your initial assessment of risk calculators in the Setup Assistant, use the vulnerability rollup calculators to configure how the cumulative risk score is computed for remediation tasks and imported vulnerabilities.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-risk-rules|Configuring roll-up calculator rules]]
+[Configuring roll-up calculator rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-risk-rules.md)
 
-## Related
-
-- [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]
-- [[sem-vuln-rollup-calculator|Vulnerability Response Rollup Calculators]]
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-risk-rules|Configuring roll-up calculator rules]]
-- [[cj-discovered-items|Discovered Items]]
-- [[vulnerabilities|Vulnerabilities]]

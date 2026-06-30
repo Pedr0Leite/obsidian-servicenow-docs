@@ -18,7 +18,7 @@ Most of the content in a CMS site is managed in different locations throughout t
 
 For example, if you are building a knowledge website, the pages and blocks exist in CMS, but the knowledge articles are authored and managed in the Knowledge application. The same is true for any other type of content you plan to leverage. It is important to take time to understand the table structure of data to become acquainted with content.
 
-Links to content are typically static, however, take time to look at the document tree and review how field values are formatted for use within the CMS. To understand the information provided below, right-click within [[form-configurable-workspace|forms]] in the platform and select **Show XML** to view the document tree for the referenced table. To see the table values for each field, right-click the form label and choose **Show - \(field name\)** or **[[configure-onboarding-modals|Configure]] Dictionary** for [[onboarding-modals-reference|reference]].
+Links to content are typically static, however, take time to look at the document tree and review how field values are formatted for use within the CMS. To understand the information provided below, right-click within forms in the platform and select **Show XML** to view the document tree for the referenced table. To see the table values for each field, right-click the form label and choose **Show - \(field name\)** or **Configure Dictionary** for reference.
 
 Look at several internet news sites for ideas on how to format dynamic list data and also the full article detail. Research blog sites, shopping sites, and any other site you find easy to use, as layout and usability design can be time-consuming. If you find a site that inspires you, emulate it in your design.
 
@@ -82,8 +82,3 @@ When you right-click and select **Show XML** on any form within the system, the 
 
 **Parent Topic:**[Content Management design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

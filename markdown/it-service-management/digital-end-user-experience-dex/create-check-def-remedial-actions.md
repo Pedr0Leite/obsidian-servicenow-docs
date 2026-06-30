@@ -14,7 +14,7 @@ breadcrumb: [Creating and executing a PowerShell script-based remedial action, D
 
 # Create a check definition for a custom remedial action
 
-Create a check definition and link it to the Agent Client Collector \(ACC\) plugin to enable the ACC agent to run a custom [[remedial-action|remedial action]].
+Create a check definition and link it to the Agent Client Collector \(ACC\) plugin to enable the ACC agent to run a custom remedial action.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Role required: admin
 
 **Parent Topic:**[Creating and executing a PowerShell script-based remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-ps.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]

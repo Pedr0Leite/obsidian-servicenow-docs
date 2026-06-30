@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Order a product with quick checkout
 
-Order a product or service that you want to purchase from the product catalog available on [[shopping-hub-overview|Shopping Hub]] Home.
+Order a product or service that you want to purchase from the product catalog available on Shopping Hub Home.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: sn\_shop.shopper
     -   If you’re a returning shopper, find your recently viewed items on the home page.
     On the product details page, you can see the price of the product and the probable date of its delivery.
 
-    If the [[pricing|pricing]] isn’t available and you need to contact the [[supplier|supplier]] for it, you can check the expected date by which the pricing details will likely be provided. For more information, see [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md).
+    If the pricing isn’t available and you need to contact the supplier for it, you can check the expected date by which the pricing details will likely be provided. For more information, see [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md).
 
 3.  Place an order for a product or service that has pricing.
 
@@ -50,7 +50,7 @@ Role required: sn\_shop.shopper
         -   To perform a quick checkout with your selected product, select **Request to buy**.
         -   To save your product to your cart and continue shopping, select **Add to cart**.
 
-            **Note:** For more information on how to use your [[shopping-cart|shopping cart]], see [Shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-cart.md).
+            **Note:** For more information on how to use your shopping cart, see [Shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-cart.md).
 
             \[Omitted image "spo-order-quick-checkout.png"\] Alt text: Order a product with quick checkout
 
@@ -95,9 +95,9 @@ Payment method
 
 </td><td>
 
-Method of making the payment. Select a [[cost-center|cost center]] from the list, which is defaulted with your assigned cost center. You can also add multiple cost centers, if necessary, and save them for future use.**Note:** Verify that the total percentage of all the cost centers doesn’t exceed 100%.
+Method of making the payment. Select a cost center from the list, which is defaulted with your assigned cost center. You can also add multiple cost centers, if necessary, and save them for future use.**Note:** Verify that the total percentage of all the cost centers doesn’t exceed 100%.
 
-You can view the cost center and allocation breakup from the [[purchase-requisition|purchase requisition]] that is created, by navigating to the [[cost-allocations|Cost Allocations]] related list of the associated purchase requisition line.
+You can view the cost center and allocation breakup from the purchase requisition that is created, by navigating to the Cost Allocations related list of the associated purchase requisition line.
 
 If you have available credits, the same is displayed here as a mode of payment. For details, see [Shop with employee credits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shop-employee-credits.md).
 
@@ -149,24 +149,13 @@ Purchase is for an existing project. Enter the project details as required.**Not
 
 ## What to do next
 
--   Review your purchase. After you [[complete-your-checkout|complete your checkout]], select **Review your purchase** to view the details or your order.
+-   Review your purchase. After you complete your checkout, select **Review your purchase** to view the details or your order.
 -   To review your orders anytime later, you can select **My purchases** from your profile on ShoppingHub.
 
     -   View the list of all purchases placed from your shopping account.
     -   Track the progress of an order, review to-dos, and so on.
-    **Note:** For more information, see [[my-purchases|My purchases]].
+    **Note:** For more information, see [My purchases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md).
 
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[pricing|Pricing]]
-- [[supplier|Supplier]]
-- [[shopping-cart|Shopping cart]]
-- [[cost-center|Cost center]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-allocations|Cost allocations]]
-- [[complete-your-checkout|Complete your checkout]]

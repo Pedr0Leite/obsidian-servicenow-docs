@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Catalog Wizard form
 
-Description of the fields for the Catalog Wizard Step, Catalog Wizard Section, Variable, and Catalog Wizard Question forms in [[service-catalog|Service Catalog]] wizards.
+Description of the fields for the Catalog Wizard Step, Catalog Wizard Section, Variable, and Catalog Wizard Question forms in Service Catalog wizards.
 
 <table id="table_qfy_vyc_vtb"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Feedback
 
 </td><td>
 
-Option to associate a feedback record with the step in the catalog item builder wizard or [[c_RecordProducer|record producer]] builder wizard.
+Option to associate a feedback record with the step in the catalog item builder wizard or record producer builder wizard.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Order
 
 </td><td>
 
-Order where the step is placed in [[catalog-builder|Catalog Builder]].
+Order where the step is placed in Catalog Builder.
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Macroponent
 
 </td><td>
 
-Reusable seismic building blocks in the Next Experience UI Framework that can be used to create a custom step. This field appears only when the **Custom step** [[check-box|check box]] is selected.For more information, see [https://developer.servicenow.com/dev.do\#!/reference/now-experience/sandiego/ui-framework/getting-started/introduction](https://developer.servicenow.com/dev.do#!/reference/now-experience/sandiego/ui-framework/getting-started/introduction)
+Reusable seismic building blocks in the Next Experience UI Framework that can be used to create a custom step. This field appears only when the **Custom step** check box is selected.For more information, see [https://developer.servicenow.com/dev.do\#!/reference/now-experience/sandiego/ui-framework/getting-started/introduction](https://developer.servicenow.com/dev.do#!/reference/now-experience/sandiego/ui-framework/getting-started/introduction)
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -200,8 +200,8 @@ Example Text
 
 </td><td>
 
-Hint that is displayed in the **Question** field before a catalog item creator enters a value. Applicable for the following variables:-   [[ip-address|IP Address]]
--   [[email|Email]]
+Hint that is displayed in the **Question** field before a catalog item creator enters a value. Applicable for the following variables:-   IP Address
+-   Email
 -   URL
 -   Single Line Text
 -   Wide Single Line Text
@@ -265,11 +265,3 @@ Option to associate a question set to the section if you have selected the **Map
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[catalog-builder|Catalog Builder]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]
-- [[email|Email]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # SAP SuccessFactors external content connector
 
-The SAP SuccessFactors external content connector parses trainings exported from your SAP SuccessFactors Learning environment and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The SAP SuccessFactors external content connector parses trainings exported from your SAP SuccessFactors Learning environment and makes their content and metadata searchable in AI Search applications.
 
 The SAP SuccessFactors connector runs content and user permission crawls. Unlike most connector crawls, these crawls don't retrieve content or security principals directly from your SAP SuccessFactors Learning source system. Instead, content retrieval involves these steps:
 
@@ -42,6 +42,3 @@ Upload newly generated comma-separated value \(CSV\) data files to your SAP Succ
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

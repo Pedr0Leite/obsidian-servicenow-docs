@@ -24,11 +24,11 @@ Role required: sn\_hr\_core.case\_writer
 
 An interaction is a request for assistance made through chat, phone, or in person. Interaction records are automatically created when you are using agent chat.
 
-The **Compose SMS** option is only enabled for active chat interactions. For more information about interactions in [[hr-service-delivery|HR Service Delivery]], refer to .
+The **Compose SMS** option is only enabled for active chat interactions. For more information about interactions in HR Service Delivery, refer to .
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Agent Workspace**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
 2.  Select the \[Omitted image "IconList.png"\] Alt text: List icon HR case list icon and navigate to **Interactions** &gt; **Assigned to me**.
 
@@ -44,7 +44,7 @@ The **Compose SMS** option is only enabled for active chat interactions. For mor
 
     The **Opened for** field is populated on the interaction with phone number.
 
-    The phone numbers as specified on the [[c_HRProfileRecords|HR Profile]] record. The label for each phone number on the **Send via SMS** modal will match the label for the **Phone number** field on HR Profile record.
+    The phone numbers as specified on the HR Profile record. The label for each phone number on the **Send via SMS** modal will match the label for the **Phone number** field on HR Profile record.
 
     If a manually added phone number is not associated with an existing active channel user profile record, the record is created automatically when you send the SMS message.
 
@@ -58,8 +58,4 @@ The **Compose SMS** option is only enabled for active chat interactions. For mor
 
     **Note:** For complete details regarding initiating SMS conversations in Agent Workspace, refer to [Agent initiated SMS conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-initiated-sms-store-app.md). For details about using Agent Workspace with HR Service Delivery, refer to .
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]
-- [[c_HRProfileRecords|HR Profile]]

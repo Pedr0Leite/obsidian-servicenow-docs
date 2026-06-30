@@ -12,7 +12,7 @@ breadcrumb: [Domain order forms, Order Management reference, Reference, Sales Cu
 
 # Service Order form fields
 
-The Service Order form enables you to review and [[Modify|modify]] domain service orders that are associated with a selected customer order.
+The Service Order form enables you to review and modify domain service orders that are associated with a selected customer order.
 
 <table id="table_service_order_form"><thead><tr><th>
 
@@ -122,7 +122,7 @@ Action
 
 </td><td>
 
-Indicator of the order line item action type, such as Add, Disconnect, [[Suspend|Suspend]].
+Indicator of the order line item action type, such as Add, Disconnect, Suspend.
 
 </td></tr><tr><td>
 
@@ -215,10 +215,5 @@ Attachments
 File attachments for the service order. Select **Browse** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[field-descriptions-product-domain-orders|Domain order forms]]
+</table>**Parent Topic:**[Domain order forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/field-descriptions-product-domain-orders.md)
 
-## Related
-
-- [[field-descriptions-product-domain-orders|Domain order forms]]
-- [[Modify|Modify]]
-- [[Suspend|Suspend]]

@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # SAML 2.0 concepts
 
-Familiarize yourself with these [[c_SAML2.0WebBrowserSSOProfile|SAML]] concepts.
+Familiarize yourself with these SAML concepts.
 
 Review the following topics to become familiar with SAML 2.0:
 
@@ -23,6 +23,3 @@ Review the following topics to become familiar with SAML 2.0:
 -   [Logout \(LogoutRequest\) process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_LogoutLogoutRequestProcessFlow.md)
 -   [URL information for an SSO provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_URLInformationForAnSSOProvider.md)
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

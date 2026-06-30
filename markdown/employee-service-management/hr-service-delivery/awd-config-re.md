@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Advanced Integration with Workday, I
 
 # Configure reports HR Service Delivery Advanced Integration with Workday
 
-Configure the necessary reports to pull data, such as [[config-w-daytimeoff|time offs]] plans, time off reasons, holiday calendar WID, and work schedule calendar WID, from Workday into the ServiceNow tables.
+Configure the necessary reports to pull data, such as time offs plans, time off reasons, holiday calendar WID, and work schedule calendar WID, from Workday into the ServiceNow tables.
 
 **Important:** Only a Workday administrator can create reports in Workday. A ServiceNow administrator must collect the report details from a Workday administrator.
 
@@ -59,10 +59,6 @@ To use the Holiday calendar functionality, create the Get holiday calendar WID r
 **Note:**
 
 -   If you have already created Get holiday calendar WID report for the Time off request functionality, creating another report of Get holiday calendar WID is not required.
--   For more information about the [[holiday-calendar-awd|Holiday Calendars]] functionality, see [Holiday calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/holiday-calendar-awd.md).
+-   For more information about the Holiday Calendars functionality, see [Holiday calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/holiday-calendar-awd.md).
 -   For information about the Holiday Calendar report creation, see this [KB article](https://support.servicenow.com/kb_knowledge.do?sys_id=39fa1ff1dbc63c58f21f5583ca961941&sysparm_view=&sysparm_domain=null&sysparm_domain_scope=null).
 
-## Related
-
-- [[config-w-daytimeoff|Time offs]]
-- [[holiday-calendar-awd|Holiday calendars]]

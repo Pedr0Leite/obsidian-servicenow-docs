@@ -16,7 +16,7 @@ Root Cause Correlation \(RCC\) finds a root cause by automatically correlating m
 
 ## RCC symptom categories
 
-The RCC feature is available for self-service alerts and Critical or Warning [[instance-observer-performance|performance]] symptom categories:
+The RCC feature is available for self-service alerts and Critical or Warning performance symptom categories:
 
 -   Memory
 -   Longest running sessions
@@ -41,7 +41,7 @@ Corresponding alert
 
 </th></tr></thead><tbody><tr><td>
 
-Database [[impact-landing-page|Impact]]​
+Database Impact​
 
 </td><td>
 
@@ -83,7 +83,7 @@ Slow Transactions ​
 </td><td>
 
 -   Identifies the top long-running transactions using the total duration, including ACL time, SQL time, CPU time, processing time, BR time, and script time.
--   Returns the transaction IDs, the pattern hash, and these metrics to [[io-help|help]] you identify the specific causes of long-running transactions.
+-   Returns the transaction IDs, the pattern hash, and these metrics to help you identify the specific causes of long-running transactions.
 
 ​
 
@@ -122,11 +122,5 @@ Threads running​
 </td></tr></tbody>
 </table>**Note:** As soon as any of the aforementioned alerts or Critical or Warning performance are identified, the system automatically generates an RCA report after waiting for a maximum of 10 minutes, depending on the conditions.
 
-**Parent Topic:**[[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]]
+**Parent Topic:**[Generative AI powered Root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/generative-ai-root-cause-anal.md)
 
-## Related
-
-- [[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

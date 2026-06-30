@@ -13,13 +13,13 @@ breadcrumb: [Configure, price, quote apps, Use, Sales Customer Relationship Mana
 
 # Using the CPQ Configurator
 
-Agents and customers use [[understand-the-commerce-logic-engine|the CPQ Configurator]] to customize [[configurable-products-explore|configurable products]] in [[order-mgt-overview|Sales Customer Relationship Management]] transactions such as opportunities, quotes, and orders.
+Agents and customers use the CPQ Configurator to customize configurable products in Sales Customer Relationship Management transactions such as opportunities, quotes, and orders.
 
 ## CPQ Configurator overview
 
 With the CPQ Configurator, agents and customers can configure offerings dynamically based on customer needs or product attributes, without having extensive knowledge of product structures and hierarchies. Agents use the configurator in the CSM Configurable Workspace, while customers use the configurator in the Business Portal for self-service transactions.
 
-**Note:** The CPQ Configurator is available if it's been implemented in your organization. Otherwise, the [[using-som-product-configurator|legacy product configurator]] is available for customizing configurable products.
+**Note:** The CPQ Configurator is available if it's been implemented in your organization. Otherwise, the [legacy product configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-som-product-configurator.md) is available for customizing configurable products.
 
 \[Omitted image "cpq-config-workspace-portal.png"\] Alt text: Example product bundle displayed in the CSM Configurable Workspace and the Business Portal.
 
@@ -51,7 +51,7 @@ Products that comprise the bundle. Select a product in the bundle to view the fe
 
 </td><td>
 
-Section that displays the available product attributes and features, such as characteristics and characteristic options for the product. This section can include text [[fields|fields]] for entering relevant product information.
+Section that displays the available product attributes and features, such as characteristics and characteristic options for the product. This section can include text fields for entering relevant product information.
 
 </td></tr><tr><td>
 
@@ -84,22 +84,13 @@ Icons that indicate the state of the configuration:-   Checkmark \[Omitted image
 -   Attention \[Omitted image "icon-attention.png"\] Alt text: icon: Indicates that a required entry must be made. Select the icon for a description of the option or entry to be completed. To locate the required entry, review the selections for all the products in the bundle. The required entry is identified by an alert \[Omitted image "icon-alert-triangle.png"\] Alt text: icon and message.
 
 </td></tr></tbody>
-</table>-   **[[add-products-with-cpq-config|Add customizable products using CPQ Configurator]]**  
+</table>-   **[Add customizable products using CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-products-with-cpq-config.md)**  
 Use the CPQ Configurator to add configurable products to a Sales Customer Relationship Management transaction, for example an opportunity or quote.
 
-**Parent Topic:**[[using-cpq|Using configure, price, quote applications]]
+**Parent Topic:**[Using configure, price, quote applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-cpq.md)
 
 **Related topics**  
 
 
 [Add customizable products using CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-products-with-cpq-config.md)
 
-## Related
-
-- [[using-som-product-configurator|Using the legacy product configurator]]
-- [[add-products-with-cpq-config|Add customizable products using CPQ Configurator]]
-- [[using-cpq|Using configure, price, quote applications]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[configurable-products-explore|Configurable products]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]

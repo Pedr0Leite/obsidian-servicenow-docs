@@ -20,13 +20,13 @@ By using the MITRE-ATT&amp;CK framework's knowledge base, the cyberthreat intell
 
 ## MITRE-ATT&amp;CK and Security Operations
 
-Learn how the MITRE-ATT&amp;CK information flows with [[security-operations-landing-page|Security Operations]] applications.
+Learn how the MITRE-ATT&amp;CK information flows with Security Operations applications.
 
--   The [[setup-mitre-profile|pre-loaded TAXII client]] connects to the TAXII server to ingest the [[view-mitre-collection|data collections]] to Threat Intelligence.
--   Existing [[auto-extract-technique-rules|Security Information and Event Manager \(SIEM\) integrations]] ingest their threat data \(alerts and events\), with relevant TTPs and are [[associate-mitre-with-sir|associated with security incidents]].
--   When an [[associate-mitre-observables|IoC is associated to a security incident]], Threat Intelligence automatically searches threat feeds for relevant information and sends IoCs to third-party sources such as EDR, Sandbox, or TIP for additional analysis.
--   If any third-party source contains the MITRE-ATT&amp;CK information, then [[create-detection-rules|Threat Intelligence extracts the technique information]] and enriches the data in the Threat Intelligence repository for correlation and analysis.
--   MITRE-ATT&amp;CK also shares [[mitre-att-ck-heatmap-and-navigator|CVE context information]] for each technique. Your security team can review the exploited techniques in [[vuln-landing-page|Vulnerability Response]] to determine if your business-critical assets are threatened.
+-   The [pre-loaded TAXII client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md) connects to the TAXII server to ingest the [data collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-mitre-collection.md) to Threat Intelligence.
+-   Existing [Security Information and Event Manager \(SIEM\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/auto-extract-technique-rules.md) ingest their threat data \(alerts and events\), with relevant TTPs and are [associated with security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-with-sir.md).
+-   When an [IoC is associated to a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-observables.md), Threat Intelligence automatically searches threat feeds for relevant information and sends IoCs to third-party sources such as EDR, Sandbox, or TIP for additional analysis.
+-   If any third-party source contains the MITRE-ATT&amp;CK information, then [Threat Intelligence extracts the technique information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-detection-rules.md) and enriches the data in the Threat Intelligence repository for correlation and analysis.
+-   MITRE-ATT&amp;CK also shares [CVE context information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md) for each technique. Your security team can review the exploited techniques in Vulnerability Response to determine if your business-critical assets are threatened.
 
 ## MITRE-ATT&amp;CK matrixes, tactics, and techniques
 
@@ -49,7 +49,7 @@ Techniques may be associated with more than one tactic. For example, Access Toke
 
 An intent-based response uses a dynamic and contextual kill chain framework that can help your organization to correlate security incidents and to identify a large scope of attacks. Your security team can use an intent-based response to understand how the organization is being attacked and what the attacker might do next. This type of response enables you to predict an attacker's behavior so that you can focus your resources effectively.
 
-Using [[sir-landing-page|Security Incident Response]], your security team can manage the life cycle of each security incident from analysis to containment by focusing on [[c_IoCs|indicators of compromise]] \(IOCs\) like IP addresses, file hashes, and domains.
+Using Security Incident Response, your security team can manage the life cycle of each security incident from analysis to containment by focusing on indicators of compromise \(IOCs\) like IP addresses, file hashes, and domains.
 
 By integrating Security Incident Response with the MITRE-ATT&amp;CK framework, security incidents are handled as links in a larger enterprise-wide attack.
 
@@ -62,12 +62,12 @@ Using the MITRE-ATT&amp;CK framework can help your organization do the following
 -   Prioritize indicators of compromise and threat hunting with MITRE-ATT&amp;CK information.
 -   Understand the high-level security posture of your organization in the context of the MITRE-ATT&amp;CK framework.
 
--   **[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]**  
-You can set up, map [[data-sources|data sources]], map overall technique detection coverage, and maintain the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]] in the ServiceNow AI Platform.
--   **[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]**  
+-   **[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)**  
+You can set up, map data sources, map overall technique detection coverage, and maintain the MITRE-ATT&amp;CK repository in the ServiceNow AI Platform.
+-   **[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)**  
 Use the MITRE-ATT&amp;CK framework across the Threat Intelligence and the SIR module to detect and analyze threats to your organization.
 
-**Parent Topic:**[[threat-intel-landing-page|Threat Intelligence]]
+**Parent Topic:**[Threat Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intel-landing-page.md)
 
 **Related topics**  
 
@@ -88,21 +88,3 @@ Use the MITRE-ATT&amp;CK framework across the Threat Intelligence and the SIR mo
 
 [Security Case Management]()
 
-## Related
-
-- [[setup-mitre-profile|Set up the MITRE-ATT&amp;CK framework]]
-- [[view-mitre-collection|Manage matrices]]
-- [[auto-extract-technique-rules|Auto-extract technique rules for importing MITRE-ATT&amp;CK information]]
-- [[associate-mitre-with-sir|Associate MITRE-ATT&amp;CK information with security incidents]]
-- [[associate-mitre-observables|Associate MITRE-ATT&amp;CK information with observables]]
-- [[create-detection-rules|Create and map detection rules]]
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_IoCs|Indicators of compromise]]
-- [[data-sources|Data Sources]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]

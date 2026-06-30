@@ -12,7 +12,7 @@ breadcrumb: [Fulfill task plans, Care Team Work Management, Healthcare Operation
 
 # Fulfill healthcare orchestration cases and tasks
 
-Fulfill the [[healthcare-operations-overview|healthcare operations]] orchestration cases and tasks created from task plans.
+Fulfill the healthcare operations orchestration cases and tasks created from task plans.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.admin
 
 ## About this task
 
-For more information on healthcare orchestration cases and tasks, see [[ctwm-healthcare-orc-cases-task|Healthcare orchestration cases and tasks]].
+For more information on healthcare orchestration cases and tasks, see [Healthcare orchestration cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-healthcare-orc-cases-task.md).
 
 ## Procedure
 
@@ -34,7 +34,4 @@ For more information on healthcare orchestration cases and tasks, see [[ctwm-hea
 
 5.  Use **Close case** or **Close task** to close out the case or task, respectively.
 
-## Related
 
-- [[ctwm-healthcare-orc-cases-task|Healthcare orchestration cases and tasks]]
-- [[healthcare-operations-overview|Healthcare Operations]]

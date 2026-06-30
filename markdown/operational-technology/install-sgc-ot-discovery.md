@@ -35,8 +35,5 @@ The Service Graph Connector for ServiceNow Store OT Discovery application is ins
 
 ## What to do next
 
-From your ServiceNow instance, navigate the **All** menu to find the Service Graph Connector for ServiceNow [[operational-technology-discovery-landing|Operational Technology Discovery]] Guided Setup. This guides you through all the mandatory and optional steps to setting up the Service Graph Connector for OT Discovery.
+From your ServiceNow instance, navigate the **All** menu to find the Service Graph Connector for ServiceNow Operational Technology Discovery Guided Setup. This guides you through all the mandatory and optional steps to setting up the Service Graph Connector for OT Discovery.
 
-## Related
-
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]

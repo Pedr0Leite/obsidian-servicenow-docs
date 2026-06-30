@@ -16,7 +16,7 @@ Publish the Virtual Agent topics for callback to help your customers request a c
 
 ## Before you begin
 
-Ensure that the [[conv_appt_booking|Conversational appointment booking]] application is installed.
+Ensure that the Conversational appointment booking application is installed.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -31,8 +31,8 @@ Deploy the inactive topic to save it and make it available to users on Virtual A
 2.  In the Topics page, publish the following topics.
 
     -   Request a callback
-    -   [[reschedule-callback|Reschedule a callback]]
-    -   [[cancel-callback|Cancel a callback]]
+    -   Reschedule a callback
+    -   Cancel a callback
 3.  In the Header bar for the topic, select **Publish**.
 
     If you're using NLU discovery, the Choose what to publish dialog box appears. Select the available items to publish with the topic, such as the NLU model and language mappings, and then click **Publish**.
@@ -54,8 +54,3 @@ Deploy the inactive topic to save it and make it available to users on Virtual A
 
 The topics are published and are available for use in calling topics.
 
-## Related
-
-- [[conv_appt_booking|Conversational Appointment Booking]]
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]

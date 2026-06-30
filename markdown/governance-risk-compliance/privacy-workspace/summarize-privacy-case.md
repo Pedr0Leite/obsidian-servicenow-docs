@@ -18,7 +18,7 @@ Use the GRC case summarization skill to generate an AI summary of a privacy case
 
 ## Before you begin
 
-Install the [[now-assist-for-privacy-management|Now Assist for Privacy Management]] application. For more information, see [Install Now Assist for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-install-now-assist.md).
+Install the Now Assist for Privacy Management application. For more information, see [Install Now Assist for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-install-now-assist.md).
 
 Role required:
 
@@ -130,6 +130,3 @@ If you think that data might have changed after you viewed the summary, select t
 
 The summary reflects case data at the time of generation. As the case progresses, regenerate the summary to capture the latest information, and save it to the record.
 
-## Related
-
-- [[now-assist-for-privacy-management|Now Assist for Privacy Management]]

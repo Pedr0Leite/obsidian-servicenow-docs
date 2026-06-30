@@ -19,8 +19,8 @@ You can install the Conversational Integration with Workplace from Facebook \(sn
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   If you're using an earlier release of [[virtual-agent-landing-page|Virtual Agent]], you must upgrade to the Australia release to use the features supported in this messaging integration.
--   [[mssg-workplace|Conversational Integration with Workplace from Facebook]] requires the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) to activate full functionality in Virtual Agent or the [[va-lite|Virtual Agent Lite]] plugin \(com.glide.cs.chatbot.lite\) to activate a limited version of Virtual Agent. Activate the appropriate plugin before you install the integration.
+-   If you're using an earlier release of Virtual Agent, you must upgrade to the Australia release to use the features supported in this messaging integration.
+-   Conversational Integration with Workplace from Facebook requires the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) to activate full functionality in Virtual Agent or the Virtual Agent Lite plugin \(com.glide.cs.chatbot.lite\) to activate a limited version of Virtual Agent. Activate the appropriate plugin before you install the integration.
 -   Install the Conversational Integration with Workplace from Facebook from the ServiceNow® Store.
 
     **Important:** Installing the Conversational Integration app from the ServiceNow Store store activates the corresponding **Install** button in the Channels and integrations page. If you have not installed the integration app, the Workplace from Facebook app is listed in the Available Channels section.
@@ -34,7 +34,7 @@ Roles required: virtual\_agent\_admin and external\_app\_install\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, click **View All**.
 
@@ -65,9 +65,3 @@ Roles required: virtual\_agent\_admin and external\_app\_install\_admin or admin
 
 **Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-workplace-fb.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]
-- [[va-lite|Virtual Agent Lite]]
-- [[convint-landing-page|Conversational Interfaces]]

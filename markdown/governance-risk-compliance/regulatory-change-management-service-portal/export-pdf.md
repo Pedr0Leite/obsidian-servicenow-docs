@@ -26,7 +26,7 @@ You can export compliance data to PDF reports for easy sharing with audit teams,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\].
 
@@ -50,6 +50,4 @@ You can export compliance data to PDF reports for easy sharing with audit teams,
 
 10. To download a local copy of the PDF report, select the **More actions** \[Omitted image "more-actions-vertical-icon.png"\] icon on the PDF report, and select **Download**.
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

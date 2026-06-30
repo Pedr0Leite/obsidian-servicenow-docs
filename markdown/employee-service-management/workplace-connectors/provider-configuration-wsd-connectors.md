@@ -18,13 +18,13 @@ Register details for a new provider, configure a badging table and import data f
 
 ## Before you begin
 
-The Badging data table is the source table and the [[employee-attendance|Employee Attendance Data]] table is the target table. The badging data from the source table is imported from a badging provider \(for example, the attendance data from badge readers\).
+The Badging data table is the source table and the Employee Attendance Data table is the target table. The badging data from the source table is imported from a badging provider \(for example, the attendance data from badge readers\).
 
 Role required: sn\_wsd\_wc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Provider [[connector-configuration-occupancy|Connector Configurations]]**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Provider Connector Configurations**.
 
 2.  From the menu, select the application scope icon \(\[Omitted image "wsd-appl-global-scope-icon.png"\] Alt text: Application Scope icon.\).
 
@@ -114,8 +114,3 @@ Select the lookup list icon \(\[Omitted image "look-up-icon.png"\] Alt text: Loo
 
 **Next topic:**[Configure a webhook event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-webhook-restapi.md)
 
-## Related
-
-- [[employee-attendance|Employee attendance data]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[connector-configuration-occupancy|Connector Configurations]]

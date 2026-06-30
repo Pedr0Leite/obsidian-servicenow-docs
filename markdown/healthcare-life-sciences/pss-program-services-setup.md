@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Configuring a program for Patient Support Services
 
-Enable your patients to enroll to a program in the [[pss-app|Patient Support Services]] application.
+Enable your patients to enroll to a program in the Patient Support Services application.
 
 **Important:**
 
@@ -20,9 +20,5 @@ Starting with the Yokohama release, Patient Support Services is being prepared f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-The Patient Support Services application uses the programs and program services available in the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application. As a user with the sn.hcls\_manager role, you can create programs and program services tailored to a Patient Support Services program. By default, the application includes default programs and program services that you can use as a reference while creating a program and program service. For more information, see [Configure a program service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-create-program-service.md) and [Configure a program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-create-program.md).
+The Patient Support Services application uses the programs and program services available in the Healthcare and Life Sciences Service Management Core application. As a user with the sn.hcls\_manager role, you can create programs and program services tailored to a Patient Support Services program. By default, the application includes default programs and program services that you can use as a reference while creating a program and program service. For more information, see [Configure a program service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-create-program-service.md) and [Configure a program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-create-program.md).
 
-## Related
-
-- [[pss-app|Patient Support Services]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

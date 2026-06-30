@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Customize related lists in Agent Workspace for HR Case Management
 
-Customize which related lists are visible to users in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+Customize which related lists are visible to users in Agent Workspace for HR Case Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_agent\_ws.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases** &gt; **All**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases** &gt; **All**.
 
 2.  Select the case that you want to customize related lists for.
 
@@ -36,7 +36,4 @@ Role required: sn\_hr\_agent\_ws.admin
 
 7.  Select **Save**.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

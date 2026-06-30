@@ -12,7 +12,7 @@ breadcrumb: [Test AI voice agents, Deploy AI voice agents, Now Assist AI agents,
 
 # Test a voice agent from AI Agent Studio
 
-Test your AI voice agent directly from [[ai-agent-studio|AI Agent Studio]] by launching the voice testing interface from the agent's channel configuration page.
+Test your AI voice agent directly from AI Agent Studio by launching the voice testing interface from the agent's channel configuration page.
 
 ## Before you begin
 
@@ -26,19 +26,14 @@ Role required: sn\_aia.admin
 
 2.  Find the AI voice agent that you want to test and select it to open the agent configuration.
 
-3.  Select the **Select channels and status** page from the guided setup [[now-assist-global-navigation|navigation]].
+3.  Select the **Select channels and status** page from the guided setup navigation.
 
 4.  Select **Test in assistant** and select the voice assistant you want to test from the dropdown.
 
-    The voice testing interface opens. See [[test-voice-assistant-from-assistant-designer|Test a voice assistant from Assistant Designer]] for details on using the testing interface.
+    The voice testing interface opens. See [Test a voice assistant from Assistant Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-voice-assistant-from-assistant-designer.md) for details on using the testing interface.
 
 
 ## Result
 
 The AI voice agent is tested from AI Agent Studio. Use the analysis results to identify gaps in agent routing or tool execution and refine your voice agent configuration as needed.
 
-## Related
-
-- [[test-voice-assistant-from-assistant-designer|Test a voice assistant from Assistant Designer]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-global-navigation|Navigation]]

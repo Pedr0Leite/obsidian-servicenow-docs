@@ -14,10 +14,10 @@ breadcrumb: [GCP, Service Graph Connectors, Integrating third-party data into CM
 
 # Service Graph Connector for GCP reference
 
-[[reference|Reference]] topics provide additional information about [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] components.
+Reference topics provide additional information about Service Graph Connector for GCP components.
 
 -   **[GCP discovery solutions comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] with their attributes.
+ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 -   **[Deep discovery for Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md)**  
 The SG-GCP Execute Patch Job and SG-GCP Get Patch Job scheduled import jobs enable deep discovery by running patch jobs at the GCP project level.
 -   **[Life cycle management of records in Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-lc.md)**  
@@ -25,13 +25,7 @@ Life cycle management in the in the Service Graph Connector for GCP monitors and
 -   **[Record removal process in Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-removal.md)**  
 The Service Graph Connector for GCP uses soft deletion and hard deletion to manage the removal of records.
 -   **[Service Graph Connector for GCP properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-gcp-props.md)**  
-[[cmdb-sgc-gcp-props|Service Graph Connector for GCP properties]] control the behavior of the connector.
+Service Graph Connector for GCP properties control the behavior of the connector.
 
 **Parent Topic:**[Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-gcp.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-sgc-gcp-props|Service Graph Connector for GCP properties]]

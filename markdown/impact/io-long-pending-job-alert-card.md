@@ -22,7 +22,7 @@ The job details capability is available to all users regardless of their tier le
 
 ## About this task
 
-Instance Observer's job monitoring capability has expanded with a new telemetry to [[io-help|help]] you analyze job behavior more deeply. Existing IO job performance capability already supports in-depth analysis into job execution, anomalies, and top resource-intensive jobs — top 2000 by execution time.
+Instance Observer's job monitoring capability has expanded with a new telemetry to help you analyze job behavior more deeply. Existing IO job performance capability already supports in-depth analysis into job execution, anomalies, and top resource-intensive jobs — top 2000 by execution time.
 
 The new telemetry addresses pending jobs that have been scheduled but are stuck in a ready or queuing state, and have not transitioned into an executing phase.
 
@@ -43,7 +43,7 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer**.
 
 2.  In the **Performance** menu, select the **Job Details** option.
 
@@ -76,14 +76,7 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 ## What to do next
 
-You can also set alert card for pending jobs. For more information, see [[io-long-pending-jobs|Configure long pending jobs alert by job priority]].
+You can also set alert card for pending jobs. For more information, see [Configure long pending jobs alert by job priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-long-pending-jobs.md).
 
-**Parent Topic:**[[instance-observer-performance|Performance]]
+**Parent Topic:**[Performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-performance.md)
 
-## Related
-
-- [[io-long-pending-jobs|Configure long pending jobs alert by job priority]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

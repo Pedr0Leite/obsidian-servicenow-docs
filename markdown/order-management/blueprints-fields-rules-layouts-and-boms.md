@@ -12,14 +12,14 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Blueprints, fields, rules, layouts, and BOMs
 
-Learn how the core building blocks of ServiceNow CPQ—[[blueprints|blueprints]], [[fields|fields]], [[rules_101|rules]], [[layouts|layouts]], and bills of material \(BOMs\)—work together to power configuration and transaction experiences.
+Learn how the core building blocks of ServiceNow CPQ—blueprints, fields, rules, layouts, and bills of material \(BOMs\)—work together to power configuration and transaction experiences.
 
 ## Blueprints
 
 Blueprints define the configuration model for a product or offering. They include all the attributes, rules, and user experiences required to guide users through selection and configuration.
 
 -   Each blueprint represents a distinct configurator.
--   Blueprints connect directly to transaction workflows through [[transaction-manager|Transaction Manager]].
+-   Blueprints connect directly to transaction workflows through Transaction Manager.
 -   A blueprint includes fields, rules, layouts, and optional BOM definitions.
 
 ## Fields
@@ -65,10 +65,3 @@ Bills of material \(BOMs\) translate configured data into structured outputs tha
 -   Layouts deliver the tailored UI experience to users.
 -   BOMs package the result into line items for quoting and manufacturing.
 
-## Related
-
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[transaction-manager|Transaction Manager]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Usage Insights, Usage Insights, Platform Analytics]
 
 # Enable Usage Insights
 
-You can enable or turn off [[user-exp-analytics-landing|Usage Insights]] for all applications in Usage Insights Properties.
+You can enable or turn off Usage Insights for all applications in Usage Insights Properties.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Usage Insights is enabled by default for all applications.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **UX Analytics Settings &gt; Properties**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **UX Analytics Settings &gt; Properties**.
 
 2.  Confirm that the Usage Insights check box is selected.
 
@@ -36,7 +36,3 @@ You can enable or turn off Usage Insights for specific Core UI, Next Experience,
 
 **Parent Topic:**[Configuring Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/configuring-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

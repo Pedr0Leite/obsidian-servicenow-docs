@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology Native Discovery components, Operational Tec
 
 # Deploy Operational Technology Discovery
 
-Consider deployment options for your [[operational-technology-discovery-landing|Operational Technology Discovery]] components.
+Consider deployment options for your Operational Technology Discovery components.
 
 ## Where to start
 
@@ -22,7 +22,7 @@ You can use the links to explore, configure, and learn more about deploying Oper
 
 Decisions\[Omitted image "BUS\_64px\_Service-Portal\_YG.png"\] Alt text:
 
- [[before-ot-deployment|Before deploying Operational Technology Discovery \(OT\)]]
+ [Before deploying Operational Technology Discovery \(OT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/before-ot-deployment.md)
 
 </td><td>
 
@@ -34,20 +34,13 @@ Communicate\[Omitted image "BUS\_64px\_Workflow\_YG.png"\] Alt text:
 
 Deploy\[Omitted image "BUS\_64px\_Release\_YG.png"\] Alt text:
 
- [[deployment-scenarios|Operational Technology Discovery deployment scenarios]]
+ [Operational Technology Discovery deployment scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md)
 
 </td><td>
 
 Architecture\[Omitted image "BUS\_64px\_3-Buildings\_YG.png"\] Alt text:
 
- [[architect-considerations|Architectural considerations]]
+ [Architectural considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/architect-considerations.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[before-ot-deployment|Before deploying Operational Technology Discovery \(OT\)]]
-- [[deployment-scenarios|Operational Technology Discovery deployment scenarios]]
-- [[architect-considerations|Architectural considerations]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]

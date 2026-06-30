@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Edit the security tag name for the Check Point NGTP integration
 
-If the Display tag check box is selected when you create the Block List record, you can edit the tag names and colors of the security tags. Security tags help you track [[c_Observables|observables]] that are already blocked.
+If the Display tag check box is selected when you create the Block List record, you can edit the tag names and colors of the security tags. Security tags help you track observables that are already blocked.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn.si.admin
 
 ## About this task
 
-Security tags help you quickly identify which security incidents have observables on a block list. Tags also help you identify whether an observable is already blocked, or, if it has been removed from a Block List. By default, the color of the security tag is black for [[cs-fal-insight-block-list-entries|block list entries]] and gray for [[cs-fal-insight-allow-list-entries|allow list entries]]. You can change the names and colors of the tags to help you recognize certain tags more easily.
+Security tags help you quickly identify which security incidents have observables on a block list. Tags also help you identify whether an observable is already blocked, or, if it has been removed from a Block List. By default, the color of the security tag is black for block list entries and gray for allow list entries. You can change the names and colors of the tags to help you recognize certain tags more easily.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Security tags help you quickly identify which security incidents have observable
 
 2.  Click an item in the **Name** column to open it.
 
-    The Block List record is displayed. By default, the security tag name is the same value you entered in the Name field of the Block List when you created it. By default, the name also includes a Block List prefix, for example, Block List – [[threat-intelligence-malware|Malware]] Malicious URLs.
+    The Block List record is displayed. By default, the security tag name is the same value you entered in the Name field of the Block List when you created it. By default, the name also includes a Block List prefix, for example, Block List – Malware Malicious URLs.
 
     \[Omitted image "block-ip.png"\] Alt text: Tag for Observables field
 
@@ -50,7 +50,7 @@ Security tags help you quickly identify which security incidents have observable
 
     The updated Block List record is displayed with the modified tag name.
 
-    **Note:** In the following example, Outbound has been added to the tag name. Keep the Check Point prefix in your new tag name to help you identify the tag is associated with the Check Point next-generation [[tisc-security-tools|firewall integration]].
+    **Note:** In the following example, Outbound has been added to the tag name. Keep the Check Point prefix in your new tag name to help you identify the tag is associated with the Check Point next-generation firewall integration.
 
     \[Omitted image "block-ip.png"\] Alt text: Block IP
 
@@ -65,10 +65,3 @@ If an observable has already been added to a Block List, and a security tag is d
 
 When an observable is no longer blocked, a security tag is not displayed on the security incident record or the observable record. In this instance, no security tag indicates that the expiration date of the observable may have passed, or the observable has been deactivated from a Block List.
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[cs-fal-insight-allow-list-entries|Allow List Entries]]
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-security-tools|Firewall integration]]

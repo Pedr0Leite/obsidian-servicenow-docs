@@ -16,7 +16,7 @@ Configure a playbook to provide step-by-step guidance for resolving enrollment c
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -26,9 +26,5 @@ The playbooks in the Patient Support Services application use the CSM Configurab
 
 Configure a playbook by navigating to **All** &gt; **Process Automation** &gt; **Process Automation Designer**. You can either select an existing process definition or create a new process definition for the playbook associated with enrollment cases.
 
-**Note:** When configuring a process definition for the playbook associated with enrollment cases, ensure that the application scope is set to Patient Support Services or [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+**Note:** When configuring a process definition for the playbook associated with enrollment cases, ensure that the application scope is set to Patient Support Services or Healthcare and Life Sciences Service Management Core using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-## Related
-
-- [[pss-app|Patient Support Services]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

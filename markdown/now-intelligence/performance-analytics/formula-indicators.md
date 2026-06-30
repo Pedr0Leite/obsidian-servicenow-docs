@@ -16,11 +16,11 @@ breadcrumb: [Indicators, Configure fundamentals, Performance Analytics \(Indicat
 
 Formula indicators use data from other indicators to calculate new metrics.
 
-Unlike [[automated-indicators|automated indicators]], formula indicators are not based on an indicator source that is populated during data collection. The score of a formula indicator is calculated from a mathematical statement that includes data from one or more other indicators. This data can be the score of an indicator or a PAFormulaUtils\(\) calculated value for the indicator. For example, a formula can include the gap, or difference, between the score of an indicator and the indicator target value set in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or [[kpi-details|KPI Details]].
+Unlike automated indicators, formula indicators are not based on an indicator source that is populated during data collection. The score of a formula indicator is calculated from a mathematical statement that includes data from one or more other indicators. This data can be the score of an indicator or a PAFormulaUtils\(\) calculated value for the indicator. For example, a formula can include the gap, or difference, between the score of an indicator and the indicator target value set in the Analytics Hub or KPI Details.
 
 **Important:** Formula indicator scores are calculated when a user views the indicator on a dashboard or in KPI Details or the Analytics Hub.
 
-[[t_CreateAFormulaIndicator|Create a formula indicator]] in these cases:
+Create a formula indicator in these cases:
 
 -   To calculate a score from multiple indicators, such as the average of two indicators.
 -   To extract a calculated value of an indicator from the PAFormulaUtils\(\) API and perform operations on that value.
@@ -47,9 +47,3 @@ For formula indicators, the values of the variables `score_start` and `score_end
 
 **Parent Topic:**[Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md)
 
-## Related
-
-- [[automated-indicators|Automated indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]

@@ -16,13 +16,13 @@ There are three types of journal field: journal, journal\_list, and journal\_inp
 
 |Journal field types|Description|
 |-------------------|-----------|
-|journal|Allow and store input, and display the combined inputs below the input box. [[r_JournalFields|Journal fields]] display in the activity stream in the form and in the list view.|
+|journal|Allow and store input, and display the combined inputs below the input box. Journal fields display in the activity stream in the form and in the list view.|
 |journal\_input|Allow and store input, but do not display the combined inputs. Journal input fields only display with the record they are associated with, so they do not display in the activity stream on the list view.|
 |journal\_list|Do not allow or store input; they merely display the contents of other Journal fields upon which the journal\_list field is dependent. If a journal\_list field is dependent on more than one Journal field, it will chronologically interweave those fields' inputs. The journal\_list field does not display content within the activity stream, but rather in a separate block.|
 
 ## Restricting journal entries sent in a notification
 
-Administrators can control the number of journal entries [[notifications|notifications]] include with the following system property.
+Administrators can control the number of journal entries notifications include with the following system property.
 
 <table id="table_wj5_yw1_dr"><thead><tr><th>
 
@@ -50,7 +50,7 @@ Specifies the number of entries from a journal field \(such as **Additional comm
 
  -   Type: integer
 -   Default value: 3
--   Location: [[r_SetArchiveRuleProcessingBehavior|System Properties]] &gt; Email
+-   Location: System Properties &gt; Email
 
 </td></tr></tbody>
 </table>## Code for getting the contents of a journal field into an array
@@ -92,8 +92,3 @@ gr.update();
 }
 ```
 
-## Related
-
-- [[r_JournalFields|Journal fields]]
-- [[notifications|Notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

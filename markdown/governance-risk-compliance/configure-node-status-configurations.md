@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration** and open the desired Main node configuration from the list.
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration** and open the desired Main node configuration from the list.
 
-2.  Open the desired Nexus map configuration record from the [[nexus-map-configuration|Nexus map configurations]] related list.
+2.  Open the desired Nexus map configuration record from the Nexus map configurations related list.
 
 3.  Open the desired Node configuration record from the Node configurations related list.
 
@@ -30,7 +30,7 @@ Role required: sn\_oper\_res.admin
 
     You can customize the map display such as assigning specific colors and icons to nodes that meet certain conditions by configuring the Node status configuration record.
 
-    For more information on the fields, see [[node-status-configuration-form|Node status configuration form]].
+    For more information on the fields, see [Node status configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/node-status-configuration-form.md).
 
     The Node status configuration record is displayed in which the **Node configuration** and **Table** are auto-populated.
 
@@ -50,8 +50,4 @@ Role required: sn\_oper\_res.admin
 
     The Node status configuration record is displayed in the Node status configurations related list.
 
-## Related
 
-- [[node-status-configuration-form|Node status configuration form]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[nexus-map-configuration|Nexus map configurations]]

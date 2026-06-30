@@ -46,7 +46,7 @@ A time card is created for each category type and work order task. The total hou
 
 5.  Select a **Rate type** for the time being recorded.
 
-    When multiple rate types are enabled for [[fsm-application-landing-page|Field Service Management]], agents can specify multiple rate types for time worked against a task.
+    When multiple rate types are enabled for Field Service Management, agents can specify multiple rate types for time worked against a task.
 
 6.  Fill in the **Time worked**.
 
@@ -54,6 +54,4 @@ A time card is created for each category type and work order task. The total hou
 
     The **Time Worked** form is saved and added to the **Time Worked** list. If your entry is the first time worked entry for the selected category, a time card is created for that category and the time worked record is added to the card. If a time card for the category exists, the time worked record is added to that card.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

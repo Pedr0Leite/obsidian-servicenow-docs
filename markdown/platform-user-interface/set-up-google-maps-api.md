@@ -50,7 +50,7 @@ Tasks
     -   In the **google.maps.client** field,enter the Client ID for your organization. This ID is from Google and starts with `gme-`, such as `gme-mycompanyname`.
     -   In the **google.maps.client.key** field, enter the private key for Google Maps API for Business. An example of an encoded key is `vNIXE0xscrmjlyV-12Nj_BvUPaw=`. The ServiceNow AI Platform® requires this key to retrieve accurate driving time estimates from Google for some Geolocation features.
     -   Fill out the remaining values on the form.
-2.  [[configure-onboarding-modals|Configure]] your maps using the property definitions from the table.
+2.  Configure your maps using the property definitions from the table.
  **Important:**
 
 The Google Maps Client ID–based configuration is being deprecated. Client ID authentication will not be supported starting May 2026, and configurations relying on it will no longer work.
@@ -291,7 +291,7 @@ Maximum number of records in a table that can be processed using the scheduled j
     5.  Click **Save**.
 
 
-**Parent Topic:**[[c_MapPages|Map pages]]
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_MapPages.md)
 
 **Related topics**  
 
@@ -308,7 +308,3 @@ Maximum number of records in a table that can be processed using the scheduled j
 
 [Scripting for map pages]()
 
-## Related
-
-- [[c_MapPages|Map pages]]
-- [[configure-onboarding-modals|Configure]]

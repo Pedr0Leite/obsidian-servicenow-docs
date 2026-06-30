@@ -18,7 +18,7 @@ Create a course catalog to maintain courses under one category and drive access 
 
 ## Before you begin
 
-Role required: sn\_lc.[[exploring-learning-exp|learning]]\_admin, sn\_lc.learning\_course\_catalog\_admin
+Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 ## Procedure
 
@@ -57,6 +57,3 @@ After creating a course catalog, define user access criteria at the course catal
 
 [Define user access to course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-user-access-to-cc.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

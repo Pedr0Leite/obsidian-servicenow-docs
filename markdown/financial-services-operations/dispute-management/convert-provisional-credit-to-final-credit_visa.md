@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -40,7 +40,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 7.  The **Chargeback** stage is initiated for the transaction.
 
-8.  Select the  **[[convert-provisional-credit-to-final-credit|Convert provisional credit to final credit]] ** activity.
+8.  Select the  **Convert provisional credit to final credit ** activity.
 
 9.  On the form, fill in the required fields.
 
@@ -49,7 +49,3 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 **Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/collaboration-dispute-workflow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[convert-provisional-credit-to-final-credit|Convert provisional credit to final credit]]

@@ -13,7 +13,7 @@ breadcrumb: [Now Assist AI agents, Enable AI experiences]
 
 # Create an AI agent
 
-Create an AI agent in [[ai-agent-studio|AI Agent Studio]] to solve problems for your users and coordinate with other AI agents while executing the agentic workflows.
+Create an AI agent in AI Agent Studio to solve problems for your users and coordinate with other AI agents while executing the agentic workflows.
 
 ## Before you begin
 
@@ -35,27 +35,27 @@ An AI agent can collaborate with other agents to achieve better results by using
 
         The following instructions are for Chat AI agents. See the following links for guides to create other types of AI agents.
 
-    2.  **Voice**: Select the Voice option to [[create-a-voice-enabled-ai-agent|create an AI voice agent]].
+    2.  **Voice**: Select the Voice option to create an AI voice agent.
 
-        See [[deploy-ai-agents-for-voice|Deploy AI agents for voice]] for more information on setting up and creating AI voice agents.
+        See [Deploy AI agents for voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md) for more information on setting up and creating AI voice agents.
 
     3.  **External**: Select the External option to create external AI agents in the AI Agent Studio to connect the ServiceNow AI Platform with the third-party agentic AI providers.
 
-        For more information about creating external AI agents in the AI Agent Studio, see [[create-external-aia|Create an external AI agent]].
+        For more information about creating external AI agents in the AI Agent Studio, see [Create an external AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-external-aia.md).
 
-3.  [[define-specialty|Define the AI agent's specialty]].
+3.  [Define the AI agent's specialty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-specialty.md).
 
-4.  [[define-sec-controls-aia|Define the AI agent security controls]].
+4.  [Define the AI agent security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
-5.  [[add-trigger-aia|Add a trigger to automatically invoke your AI agent if a specified event occurs]].
+5.  [Add a trigger to automatically invoke your AI agent if a specified event occurs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-trigger-aia.md).
 
     If you want your AI agent to be used only in chats, you don’t need to add a trigger.
 
-6.  [[channels-access-aia|Determine the chat assistants to access your AI agent, set the processing messages, and activate your AI agent.]].
+6.  [Determine the chat assistants to access your AI agent, set the processing messages, and activate your AI agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 
 7.  Select **Save and test** to complete the configuration steps or review a previous step by selecting **Back**.
 
-    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [[test-ai-agent|Manually test the execution of an AI agent]].
+    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md).
 
     To test the AI agent, you must have the sn\_aia.admin role and any roles the ACLs configured for the AI agent and its tools require, if applicable.
 
@@ -66,14 +66,3 @@ You can see the AI agent that you created in the **Manage agentic workflows and 
 
 If you selected **Users with specific roles** for your ACL, you can change roles at any point. Return to the guided setup and double-click the pills to make changes. All other security changes must be done on the ACL \[sys\_security\_acl\] table by a user with elevated permissions.
 
-## Related
-
-- [[deploy-ai-agents-for-voice|Deploy AI voice agents]]
-- [[create-external-aia|Create an external AI agent]]
-- [[define-specialty|Define the specialty of an AI agent]]
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[add-trigger-aia|Add a trigger to an AI agent]]
-- [[channels-access-aia|Select channels and status for an AI agent]]
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[create-a-voice-enabled-ai-agent|Create an AI voice agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Deposit Operations, Banking applications, Financial Services Operat
 
 # Using Financial Services Deposit Operations
 
-Learn how branch workers and agents use the [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]] application to initiate, research, and resolve the deposit service cases.
+Learn how branch workers and agents use the Financial Services Deposit Operations application to initiate, research, and resolve the deposit service cases.
 
 ## Workspace
 
@@ -24,7 +24,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -72,12 +72,12 @@ Deposit admin
 
 </td><td>
 
-Configures the deposit workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the deposit workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows
 
-Predefined workflows for deposit cases are available with [[fso-overview|Financial Services]] Business Deposit Operations and Financial Services Personal Deposit Operations applications.
+Predefined workflows for deposit cases are available with Financial Services Business Deposit Operations and Financial Services Personal Deposit Operations applications.
 
 When a customer requests a deposit service, a deposit contributor initiates a case and updates its details, triggering the workflow. The flow triggers various tasks from the case and the assignment rules route these tasks to the appropriate back-office agents such as deposit and document agent. The agents work on these tasks to fulfill the deposit service request.
 
@@ -94,7 +94,7 @@ Performance Analytics give business owners an insight into how the team and busi
 -   **[Financial Services Deposit Operations workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/deposit-operations-workflows.md)**  
 The Financial Services Deposit Operations application installs automated workflows for origination, servicing, and closure of deposit accounts. These workflows enable routing of cases and tasks to different teams, including the deposit and document agents.
 -   **[Submitting a deposit service request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/submit-deposit-request.md)**  
-Bank workers can begin the deposit workflow by [[submit-deposit-request|submitting a deposit service request]] received from customers \(consumer or business contact\). Customers \(consumer or contact\) can also directly submit a request from the service catalog.
+Bank workers can begin the deposit workflow by submitting a deposit service request received from customers \(consumer or business contact\). Customers \(consumer or contact\) can also directly submit a request from the service catalog.
 -   **[Submit a deposit service case for fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/submit-deposit-service-application-fulfilment.md)**  
 Collect all required information and documents from the customer and submit the deposit service case to back-office agents for fulfillment.
 -   **[Work on a deposit service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/work-deposit-service-case.md)**  
@@ -106,10 +106,3 @@ Work on a deposit task to perform a fulfillment activity for the parent deposit 
 
 **Parent Topic:**[Financial Services Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-ops-landing-page.md)
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]]
-- [[fso-overview|Financial Services]]
-- [[submit-deposit-request|Submitting a deposit service request]]

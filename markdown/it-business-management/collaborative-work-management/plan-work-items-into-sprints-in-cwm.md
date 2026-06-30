@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Plan work items into sprints in CWM
 
-Schedule stories and other CWM tasks from the backlog into sprints or move work across sprints in [[cwm-landing|Collaborative Work Management]].
+Schedule stories and other CWM tasks from the backlog into sprints or move work across sprints in Collaborative Work Management.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: admin
 
 [Update sprint details in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/modify-sprint-details-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

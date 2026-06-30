@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## About this task
 
-Dispatchers can use non-work order personal events to show an agent is busy. For example, if an agent is in training all day, you can use a personal event to show an agent is busy on the calendar in [[dispatcher-activities|Dispatcher Workspace]].
+Dispatchers can use non-work order personal events to show an agent is busy. For example, if an agent is in training all day, you can use a personal event to show an agent is busy on the calendar in Dispatcher Workspace.
 
 For information on editing or deleting personal events, see [Edit or delete an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/edit-delete-event.md).
 
@@ -82,7 +82,7 @@ Allows the task to be scheduled at the same time as existing work order tasks.**
 
 If you don’t allow double booking, and the event is at the same time that the agent has a scheduled work order task, or the travel time overlaps with a schedule work order task, then the task they’ve assigned is unassigned.
 
-**Allow double booking with tasks** is only available if you have [[using-wfo-fsm|workforce optimization]] configured.
+**Allow double booking with tasks** is only available if you have workforce optimization configured.
 
 </td></tr><tr><td>
 
@@ -135,7 +135,4 @@ The time zone is determined by the person that is added to the event. If there's
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[using-wfo-fsm|Workforce Optimization]]

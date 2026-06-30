@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Setup** &gt; **Investment Entities**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Setup** &gt; **Investment Entities**.
 
 2.  Open an entity for which you want to enable synchronization of owners.
 
@@ -37,6 +37,3 @@ A business rule is created for the investment entity that synchronizes the owner
 
 **Parent Topic:**[Create an investment entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-funding-entity.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

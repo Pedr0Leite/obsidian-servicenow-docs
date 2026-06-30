@@ -14,7 +14,7 @@ breadcrumb: [Create a telephone infrastructure, Inventory number allocation, Def
 
 # Create a telephone number to an area or region
 
-Create a telephone number to add that number to an area or to a region by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can review, create, update, or delete a telephone number.
+Create a telephone number to add that number to an area or to a region by using the Telecommunications Network Inventory application. You can review, create, update, or delete a telephone number.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ Create a telephone number to add that number to an area or to a region by using 
 
 ## About this task
 
-Setting the Create telephone allocations and numbers checkbox as true, while creating a telephone block, creates individual numbers and [[telephone_number_management|telephone allocation]]. You can also add a telephone number to a telephone number allocation.
+Setting the Create telephone allocations and numbers checkbox as true, while creating a telephone block, creates individual numbers and telephone allocation. You can also add a telephone number to a telephone number allocation.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **Telephone Numbers**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Number Allocation** &gt; **Telephone Numbers**.
 
 3.  Select **New**
 
@@ -73,14 +73,7 @@ Portion of a telephone number that uniquely identifies an individual telephone l
 
 ## What to do next
 
-You can review and update the fields, create a related tab record, or [[delete-inventory-record|delete a record]]. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
+You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
 
 **Parent Topic:**[Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telephone_number_management|Telephone allocation]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[delete-inventory-record|Delete a record]]

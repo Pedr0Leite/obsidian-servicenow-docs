@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization for ITSM in the Service Operations Workspace
 
 # Take a survey in Service Operations Workspace
 
-Complete the survey assigned to you in Service Operations Workspace This feature is available only when the [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] plugin `sn_wfo_cfg_itsm` is installed.
+Complete the survey assigned to you in Service Operations Workspace This feature is available only when the Workforce Optimization for ITSM plugin `sn_wfo_cfg_itsm` is installed.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ You can respond to surveys or your assessments. You can access surveys available
 
 **Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/wfo-itsm-service-operations-workspace.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -31,7 +31,7 @@ The  ServiceNow® Manufacturing Commercial Operations \(MCO\) enables you to o
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about Manufacturing Commercial Operations use cases and components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-[[manufacturing-reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about Manufacturing Commercial Operations use cases and components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
 </td><td>
 
@@ -58,6 +58,3 @@ The  ServiceNow® Manufacturing Commercial Operations \(MCO\) enables you to o
 -   Find useful resources related to your role and explore best practices at the .
 -   Connect with other Manufacturing Commercial Operations users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[manufacturing-reference|Reference]]

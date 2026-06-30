@@ -16,13 +16,13 @@ Add additional contacts for the B2B \(accounts or contacts\) or B2B2C sold produ
 
 ## Before you begin
 
-**Note:** Additional contacts can be enabled using the **Restrict Contact Access** field. For details, see [[manage-account-access-cam|Restrict contact access]].
+**Note:** Additional contacts can be enabled using the **Restrict Contact Access** field. For details, see [Restrict contact access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-account-access-cam.md).
 
 Role required: admin and sn\_customerservice\_manager
 
 ## About this task
 
-The responsibility assigned to the additional contact that is associated with a sold product gets access to the sold product and the related entities, which include [[installed-products|installed products]], [[install-base-item|install base items]], and cases associated with [[sold-product|sold products]].
+The responsibility assigned to the additional contact that is associated with a sold product gets access to the sold product and the related entities, which include installed products, install base items, and cases associated with sold products.
 
 ## Procedure
 
@@ -74,7 +74,7 @@ Responsibility
 
 </td><td>
 
-Access level to the sold product and related information.Additional contact with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to associated sold product and related entities. For details, see [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]].
+Access level to the sold product and related information.Additional contact with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, contacts won’t have any access to the sold product and associated case.
 
@@ -91,7 +91,7 @@ Specifies the sequence in which records are displayed, organized according to bu
 
     Additional contacts can be added to the B2B sold product.
 
-    **Note:** Added contacts can be from the same account, partner account, or from [[c_ContactRelationships|contact relationships]].
+    **Note:** Added contacts can be from the same account, partner account, or from contact relationships.
 
 
 ## Result
@@ -110,11 +110,3 @@ Once additional contacts are added to the sold product with a proper functional 
 -   While creating a case for a sold product, you can only see authorized contacts.
 -   If you choose someone as a contact, you can only associate the sold products they have full access to on the case.
 
-## Related
-
-- [[manage-account-access-cam|Restrict contact access]]
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[installed-products|Installed products]]
-- [[install-base-item|Install base items]]
-- [[sold-product|Sold products]]
-- [[c_ContactRelationships|Contact relationships]]

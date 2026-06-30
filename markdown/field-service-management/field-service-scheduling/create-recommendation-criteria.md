@@ -22,7 +22,7 @@ Role required: admin, sn\_task\_recommend.task\_rec\_admin
 
 ## About this task
 
-Some predefined recommendation criteria are provided for you. For more information, see [[fsm-task-recommendation-components|Predefined recommendation criteria]].
+Some predefined recommendation criteria are provided for you. For more information, see [Predefined recommendation criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation-components.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Some predefined recommendation criteria are provided for you. For more informati
     |Prefetched fields|Supporting prefetched fields from the prefetched table.|
     |Type|Type of the criterion, either filter or rank.|
     |Application|The application containing this record.|
-    |Application module|The default value is [[fsm-application-landing-page|Field Service Management]].|
+    |Application module|The default value is Field Service Management.|
 
 4.  In the **Script** field, enter the script that you want to run when recommending tasks to the agent.
 
@@ -61,7 +61,3 @@ Some predefined recommendation criteria are provided for you. For more informati
 
 The recommendation criterion is created successfully, and sorted into either the Filtering Constraints or Ranking Criteria group based on the selected type.
 
-## Related
-
-- [[fsm-task-recommendation-components|Intelligent Task Recommendations components]]
-- [[fsm-application-landing-page|Field Service Management]]

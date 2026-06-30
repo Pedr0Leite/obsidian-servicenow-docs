@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Explain the risk of a change request by using Now Assist for IT Service Management \(ITSM\)
 
-Quickly generate the explanation of the calculated risk rating for a change request by using the change request risk explanation skill in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Quickly generate the explanation of the calculated risk rating for a change request by using the change request risk explanation skill in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -37,14 +37,14 @@ Additional inputs include:
 
 -   Similar change requests and the incidents caused by those changes
 -   Risk condition that was met
--   [[c_RskAsmtCalc|Risk assessment]]
+-   Risk assessment
 
     By default, the assessment uses the top five normalized risk values sorted in descending order. If there’s a tie between the two values, the one with the lower order number is used. For information on risk assessment, see [Risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_RskAsmtCalc.md).
 
 
 You can also add custom input fields.
 
-You can generate the explanation of the calculated risk rating for a change request in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can generate the explanation of the calculated risk rating for a change request in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -98,9 +98,3 @@ If you want to check some details about the change request risk explanation, sel
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

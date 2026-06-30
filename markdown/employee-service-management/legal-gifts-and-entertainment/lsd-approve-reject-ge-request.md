@@ -40,7 +40,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d559056e90">
 
-**From [[legal-counsel-center-landing|Legal Counsel Center]] list**
+**From Legal Counsel Center list**
 
 </td><td>
 
@@ -63,7 +63,7 @@ Steps
 
 </td></tr><tr><td id="d559056e180">
 
-**From [[employee-center-landing-page|Employee Center]]**
+**From Employee Center**
 
 </td><td>
 
@@ -110,7 +110,3 @@ Reject
 </td></tr></tbody>
 </table>**Parent Topic:**[Managing gifts and entertainment disclosure requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-manage-ge-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[employee-center-landing-page|Employee Center]]

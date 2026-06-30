@@ -14,7 +14,7 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 # Migration from ITSM Mobile to ITSM Mobile Agent
 
-The ITSM Mobile plugin \(com.sn\_itsm\_mobile\) was deprecated in Quebec. The existing customers can migrate to [[itsm-mobile-agent|ITSM Mobile Agent]] for enhanced mobile-first experiences in the base system, designed for agents to triage, act on, and resolve incidents on the go. ITSM Mobile Agent application improves productivity with an intuitive interface to manage all the work, view schedules, check who is on-call, respond to major incidents, and more.
+The ITSM Mobile plugin \(com.sn\_itsm\_mobile\) was deprecated in Quebec. The existing customers can migrate to ITSM Mobile Agent for enhanced mobile-first experiences in the base system, designed for agents to triage, act on, and resolve incidents on the go. ITSM Mobile Agent application improves productivity with an intuitive interface to manage all the work, view schedules, check who is on-call, respond to major incidents, and more.
 
 For information about getting started with ITSM Mobile Agent, see [Log in to ITSM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/install-itsm-mobile-app.md).
 
@@ -40,7 +40,7 @@ Since the single-click uninstallation of plugins isn't supported, the deprecated
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **Studio**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **Studio**.
 
 2.  From the Select Application pop-up window, open the ITSM Mobile application in the studio.
 
@@ -86,7 +86,3 @@ Similarly, the admin must deactivate or move the custom launcher screens or cust
 -   Copy the custom code and paste it in the ITSM Mobile Agent application scope.
 -   Redefine the code in the ITSM Mobile Agent application scope.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[dex-workspace-application-tab|Applications]]

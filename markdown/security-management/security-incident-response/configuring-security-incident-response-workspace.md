@@ -14,24 +14,24 @@ breadcrumb: [Security Incident Response Workspace, Security Incident Response, E
 
 # Configuring SIR Workspace
 
-This section describes the configurations needed to work with the [[sir-workspace-landing-page|Security Incident Response Workspace]].
+This section describes the configurations needed to work with the Security Incident Response Workspace.
 
 -   **[Set up view of SIR Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-view-of-sir-records.md)**  
 This section describes how the related lists are grouped and presented on the SIR Related Records tab for easy navigation.
 -   **[Configure SI design time investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md)**  
 Use this section to configure security incident design time investigation page to add multiple entry points and its associated records within the Security Incident Response Workspace.
 -   **[SIR Workspace Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-records.md)**  
-This section consists of the related lists items that are grouped into sections such as associated [[c_Observables|observables]] and configuration items.
+This section consists of the related lists items that are grouped into sections such as associated observables and configuration items.
 -   **[Define the new Risk Score Calculator Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/define-risk-score-calculator-rules-sir.md)**  
 Use the new Risk Score Calculator to define and calculate the risk score of security incidents based on the user-defined criteria, which provide a transparent intelligence scoring of security incidents. The risk score is auto-calculated for the security incident records.
 -   **[Configure Shift Handover](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/config-shift-handover.md)**  
-[[config-shift-handover|Configure Shift Handover]] settings to provide complete shift information to the next shift analysts.
+Configure Shift Handover settings to provide complete shift information to the next shift analysts.
 -   **[Security Incident Response conference call integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-conf-call-capability.md)**  
-The [[sir-conf-call-capability|Security Incident Response Conference Call integration]] enables you to manage and initiate conference call and chat for analysts, managers and affected users.
+The Security Incident Response Conference Call integration enables you to manage and initiate conference call and chat for analysts, managers and affected users.
 -   **[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)**  
 You can create report templates that can be used to generate an incident summary or an executive summary for analysis and sharing.
 -   **[On-Call scheduling in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/on-call-schedule-sir.md)**  
-Use [[on-call-schedule-sir|On-Call Scheduling in Security Incident Response]] to view and manage shifts for your analysts.
+Use On-Call Scheduling in Security Incident Response to view and manage shifts for your analysts.
 -   **[Category management in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/category-management-sir.md)**  
 Configure security incident categories and subcategories for granular classification of incidents, which helps you accurately route security incidents.
 -   **[View and update Security Incident Response system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-update-sirw-system-properties.md)**  
@@ -43,10 +43,3 @@ The timeline provides a chronological view of events related to a security incid
 
 **Parent Topic:**[Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[config-shift-handover|Configure Shift Handover]]
-- [[sir-conf-call-capability|Security Incident Response conference call integration]]
-- [[on-call-schedule-sir|On-Call scheduling in Security Incident Response]]

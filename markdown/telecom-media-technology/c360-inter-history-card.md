@@ -32,8 +32,5 @@ You can do the following:
 
 The information displayed in the customer history is based on the facets configured for the activity contexts in the [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md) module. For more details on configuring the information displayed, see [Create facets for activity contexts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-facet-customer-central.md).
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-home-page|Telecommunications Customer 360 home page]]

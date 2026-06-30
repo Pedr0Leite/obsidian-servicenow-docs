@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Notify users during password reset/change process \[Removed in Security Center 1.5\]
 
-Use this property to enable end [[users|users]] to reset or change passwords using a self-service process.
+Use this property to enable end users to reset or change passwords using a self-service process.
 
-This property enables an end user to reset or change a password using a self-service process. Alternatively, your organization could implement a process that requires a service desk agent to reset passwords for end users. If a password change and or reset process doesn't notify users on password update, a bad actor may be able to lock that user out of their account without their knowledge. This would provide the bad actor more time to perform malicious activities. Ensure [[c_SelfServicePasswordReset|password reset]] process notifies users upon password change or reset.
+This property enables an end user to reset or change a password using a self-service process. Alternatively, your organization could implement a process that requires a service desk agent to reset passwords for end users. If a password change and or reset process doesn't notify users on password update, a bad actor may be able to lock that user out of their account without their knowledge. This would provide the bad actor more time to perform malicious activities. Ensure password reset process notifies users upon password change or reset.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -97,9 +97,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

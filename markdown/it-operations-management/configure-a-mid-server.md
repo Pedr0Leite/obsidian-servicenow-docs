@@ -16,13 +16,9 @@ You can configure a MID Server with additional configuration parameters or creat
 
 A system property 'mid.property.probe.api.timeout.minutes' enables you to decide the amount of time mid-server should wait before throwing a timeout error while provisioning.
 
-This [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] MID Server property with name and value parameters handles the timeout exception.
+This Cloud Provisioning and Governance MID Server property with name and value parameters handles the timeout exception.
 
 See [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerProperties.md) for more information on creating a MID Server property.
 
-**Parent Topic:**[[itom-optimization-reference|ITOM Optimization reference]]
+**Parent Topic:**[ITOM Optimization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-optimization-reference.md)
 
-## Related
-
-- [[itom-optimization-reference|ITOM Optimization reference]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

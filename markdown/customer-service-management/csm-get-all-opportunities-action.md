@@ -55,7 +55,7 @@ The pre-processing output is a query.
 
 ## REST step
 
-The REST step is a standard REST step from the Salesforce spoke REST-based actions. You don’t need to make any changes. Make sure that it [[gamification-components-points|points]] to the correct Connection Alias.
+The REST step is a standard REST step from the Salesforce spoke REST-based actions. You don’t need to make any changes. Make sure that it points to the correct Connection Alias.
 
 \[Omitted image "get-all-opportunities-rest.jpg"\] Alt text: REST step screen showing connection details and request details for verification.
 
@@ -124,9 +124,5 @@ The following are outputs of the post-processing step.
 
 Action outputs consist of the query status, error and information messages, and opportunity records. See the preceding screenshot for the action outputs.
 
-**Parent Topic:**[[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve opportunities]]
+**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-salesforce-spoke.md)
 
-## Related
-
-- [[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve opportunities]]
-- [[gamification-components-points|Points]]

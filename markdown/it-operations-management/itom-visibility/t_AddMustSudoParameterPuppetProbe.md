@@ -26,7 +26,7 @@ You add the must\_sudo parameter for each Puppet probe.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]]** &gt; **Probes**.
+1.  Navigate to **All** &gt; **Discovery** &gt; **Probes**.
 
 2.  In the **Search** field, search on the name **Puppet**.
 
@@ -47,6 +47,3 @@ You add the must\_sudo parameter for each Puppet probe.
 
 **Parent Topic:**[Puppet automation software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_PuppetAutomationSoftwareDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

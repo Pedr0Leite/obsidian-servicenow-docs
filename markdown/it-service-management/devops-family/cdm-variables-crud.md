@@ -18,7 +18,7 @@ Define variables and set their values in components, collections, and deployable
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -47,7 +47,7 @@ Role required: cdm\_editor or cdm\_admin
         \[Omitted image "cdm-var-folder-example.png"\] Alt text: A var folder and its contents
 
     -   Create the variable in a dialog box. Follow the procedure in the next step.
-2.  Select the more actions menu icon \(\[Omitted image "icon-actions-menu.png"\] Alt text: More actions icon.\) for the appropriate **vars** folder, select **Create variable**, and then specify its [[settings-mobile|settings]].
+2.  Select the more actions menu icon \(\[Omitted image "icon-actions-menu.png"\] Alt text: More actions icon.\) for the appropriate **vars** folder, select **Create variable**, and then specify its settings.
 
 <table id="table_prr_pzv_1qb"><thead><tr><th>
 
@@ -87,8 +87,3 @@ Option to specify that the value of the variable should be encrypted. The option
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

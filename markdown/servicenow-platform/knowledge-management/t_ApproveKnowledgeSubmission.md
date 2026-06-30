@@ -14,7 +14,7 @@ breadcrumb: [Creating and maintaining articles, Knowledge Management, Manage con
 
 # Create knowledge from incident or problem
 
-[[create-knowledge-article|Create a knowledge article]], so the next time the issue comes up the resolution is easy to find.
+Create a knowledge article, so the next time the issue comes up the resolution is easy to find.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Depending on the value of the **glide.knowman.submission.workflow** property, kn
 
 1.  Open a resolved incident or problem.
 
-2.  Select the **Knowledge** [[check-box|check box]] on the form.
+2.  Select the **Knowledge** check box on the form.
 
     You may need to configure the form to include the **Languages** field. Click the form context menu icon \(\[Omitted image "ContextMenu.png"\] Alt text: context menu icon\) and navigate to **Configure** &gt; **Form layout**. Use slushbucket to add the Languages field.
 
@@ -53,7 +53,3 @@ Depending on the value of the **glide.knowman.submission.workflow** property, kn
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]
-- [[check-box|Check box]]

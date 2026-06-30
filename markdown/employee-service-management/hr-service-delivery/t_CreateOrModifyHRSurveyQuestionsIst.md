@@ -28,7 +28,7 @@ The following steps describe how to work with survey questions in the Survey Def
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Surveys** &gt; **[[c_HRSurveysIst|HR Surveys]]**, and open the survey to add questions.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Surveys** &gt; **HR Surveys**, and open the survey to add questions.
 
 2.  In the **Metrics Categories** related list, complete one of the following actions.
 
@@ -68,7 +68,3 @@ The following steps describe how to work with survey questions in the Survey Def
 
 **Parent Topic:**[HR surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSurveysIst.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRSurveysIst|HR surveys]]

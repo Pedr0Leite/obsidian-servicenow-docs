@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS Lambda discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] applications can find and map Lambda functions that run in your AWS cloud. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications can find and map Lambda functions that run in your AWS cloud. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery and Service Mapping use the Amazon AWS Lambda pattern to run horizontal and top-down discovery. When you run cloud discovery, your instance queries your AWS service account using the necessary credentials, and then runs a query to obtain Lambda information. The pattern parses this information and then it is saved in the CMDB.
 
@@ -32,7 +32,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **User policy for AWS user**
 
-    If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]] in the ServiceNow [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] documentation.
+    If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md) in the ServiceNow Cloud Provisioning and Governance documentation.
 
 -   **AWS service account with credentials**
 
@@ -42,7 +42,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Service account**
 
-    On the ServiceNow platform, [[create-service-account|create a service account]]. Set the Account ID to the Amazon account IT to which AWS Lambda belongs. Use the Account ID as it appears in the AWS Management Console. Ensure to place the MID Server on the virtual machine that is part of the service account that you are planning to discover.
+    On the ServiceNow platform, create a service account. Set the Account ID to the Amazon account IT to which AWS Lambda belongs. Use the Account ID as it appears in the AWS Management Console. Ensure to place the MID Server on the virtual machine that is part of the service account that you are planning to discover.
 
 -   **Discover logical datacenters using horizontal discovery**
 
@@ -198,10 +198,3 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 
 [Define a Cloud REST Query for cloud computing devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cloud-rest-query-pattern.md)
 
-## Related
-
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[create-service-account|Create a service account]]

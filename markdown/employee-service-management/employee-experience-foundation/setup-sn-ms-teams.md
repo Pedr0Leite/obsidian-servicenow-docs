@@ -69,12 +69,9 @@ Use the self-configured app or pre-published app configuration based on the foll
 -   In case of a single ServiceNow® instance to multiple Microsoft tenant integration, use the Self-configured configuration setup.
 
 -   **[Plan your installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/plan-installation-ms-teams.md)**  
-Identify the need and [[plan-installation-ms-teams|plan your installation]] for ServiceNow® for Microsoft Teams.
+Identify the need and plan your installation for ServiceNow® for Microsoft Teams.
 -   **[Setting up the ServiceNow instance for Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-tenants.md)**  
 Set up your ServiceNow® instance for the Microsoft Teams integrations.
 
 **Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_ServiceNowForMSTeams.md)
 
-## Related
-
-- [[plan-installation-ms-teams|Plan your installation]]

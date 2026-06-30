@@ -14,7 +14,7 @@ breadcrumb: [Create policies, Schedule Optimization, Setting up a Field Service 
 
 # Add objectives to a policy
 
-Add objectives to [[schedule-optimization|Schedule Optimization]] policies to achieve additional optimization goals.
+Add objectives to Schedule Optimization policies to achieve additional optimization goals.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Example optional objectives:
 -   Minimize Overtime: Caps agent work hours within standard time ranges.
 -   Maximize Balance in Tasks and Work Hours: Distributes tasks and hours evenly among agents.
 
-**Note:** Objectives act as levers that adjust optimization to better suit your needs. For example, if Minimize Overtime is set as an objective, Schedule Optimization assigns tasks to agents during normal hours when possible. If that is not possible, tasks are assigned even if overtime is required. For a list of objectives, see [[hard-soft-constraints|Objectives and constraints used with Schedule Optimization]].
+**Note:** Objectives act as levers that adjust optimization to better suit your needs. For example, if Minimize Overtime is set as an objective, Schedule Optimization assigns tasks to agents during normal hours when possible. If that is not possible, tasks are assigned even if overtime is required. For a list of objectives, see [Objectives and constraints used with Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/hard-soft-constraints.md).
 
 ## Procedure
 
@@ -56,7 +56,4 @@ Example optional objectives:
 
 6.  Select **Submit**.
 
-## Related
 
-- [[hard-soft-constraints|Objectives and constraints used with Schedule Optimization]]
-- [[schedule-optimization|Schedule Optimization]]

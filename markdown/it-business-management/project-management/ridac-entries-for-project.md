@@ -18,7 +18,7 @@ Create a risk record for your project that you can convert to other records duri
 
 As a project progresses through the project life cycle, a risk might result in an issue, or a new issue might occur. After you have a risk record, you can convert that record into related records such as issues, actions, or decisions. The conversion and association of records helps you analyze and identify patterns, trends, and probable resolution for planning future projects.
 
-Plan and manage all RIDAC records on a single RIDAC page in [[project-workspace-landing-page|Project Workspace]]. This page enables you to create, edit, convert, and associate RIDAC records on a central location. Navigate to the RIDAC page or Classic Project Workspace from Project Workspace interface.
+Plan and manage all RIDAC records on a single RIDAC page in Project Workspace. This page enables you to create, edit, convert, and associate RIDAC records on a central location. Navigate to the RIDAC page or Classic Project Workspace from Project Workspace interface.
 
 Consider the following points before converting or associating RIDAC records in Project Workspace:
 
@@ -39,6 +39,3 @@ Consider the following points before converting or associating RIDAC records in 
 
 [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

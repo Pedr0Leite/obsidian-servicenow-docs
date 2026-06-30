@@ -18,7 +18,7 @@ Cancel an entitlement by creating an order on the CSM Configurable Workspace. By
 
 You can cancel an entitlement when the associated root sold product is in Active or Suspended state. For product inventory records, you can cancel an entitlement when the associated product inventory record is in Active or Suspended state.
 
-**Note:** You can only [[cancel|cancel]] entitlements associated with an account. You cannot cancel entitlements associated to customer contract lines.
+**Note:** You can only cancel entitlements associated with an account. You cannot cancel entitlements associated to customer contract lines.
 
 Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
@@ -51,6 +51,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 The entitlement is permanently cancelled and will move to Cancelled state.
 
-## Related
-
-- [[cancel|Cancel]]

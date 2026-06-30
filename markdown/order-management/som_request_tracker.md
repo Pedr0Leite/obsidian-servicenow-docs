@@ -18,7 +18,7 @@ Track the status of Sales CRM workflows and enable agents to track the status 
 
 Add a record to the modified Inbound Request table \[sn\_tmt\_core\_inbound\_queue\].
 
-The following [[fields|fields]] have been added to enhance the Inbound Request table:
+The following fields have been added to enhance the Inbound Request table:
 
 -   Requested flow
 -   Account
@@ -289,7 +289,7 @@ Reference: sn\_ind\_tmt\_orm\_upgrade\_inventory\_job
 </td></tr></tbody>
 </table>**Note:** The **requested\_flow** and **response\_payload** fields aren’t visible to agents.
 
-Use the **Requested flow &lt;is not empty&gt;** to filter out records using the [[lead-to-cash|Lead to Cash core]] APIs. The Inbound Request table \[sn\_tmt\_core\_inbound\_queue\] provides the status and other details related to the request. For example, while creating an order through a quote record, a confirmation message with the order header number.
+Use the **Requested flow &lt;is not empty&gt;** to filter out records using the Lead to Cash core APIs. The Inbound Request table \[sn\_tmt\_core\_inbound\_queue\] provides the status and other details related to the request. For example, while creating an order through a quote record, a confirmation message with the order header number.
 
 **Note:** The flow designer **SOM Request Processor** is deprecated. Requests are directed to the flow designer IBQ Request Processor.
 
@@ -352,10 +352,5 @@ Archive the records in the Inbound Request table and determine when to clean up 
 **Related topics**  
 
 
-[[inbound-request-configuration-table|Inbound Request Configuration]]
+[Inbound Request Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inbound-request-configuration-table.md)
 
-## Related
-
-- [[inbound-request-configuration-table|Inbound Request Configuration]]
-- [[fields|Fields]]
-- [[lead-to-cash|Lead to Cash Core]]

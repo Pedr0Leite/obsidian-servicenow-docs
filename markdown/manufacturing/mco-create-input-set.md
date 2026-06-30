@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-sales-promotion|Sales Promotion]] Setup** &gt; **Promotion Questionnaires**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales Promotion Setup** &gt; **Promotion Questionnaires**.
 
 2.  Select **New**.
 
@@ -53,6 +53,4 @@ Configuration record details. You can’t edit the application.**Note:** To lear
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-## Related
 
-- [[mco-sales-promotion|Sales promotion]]

@@ -14,7 +14,7 @@ breadcrumb: [Enhanced Requests Experience forms, Employee Center reference, Empl
 
 # Request filter condition form
 
-The field descriptions provide a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point when you're creating a Requests filter definition.
+The field descriptions provide a reference point when you're creating a Requests filter definition.
 
 |Field|Description|
 |-----|-----------|
@@ -28,6 +28,3 @@ The field descriptions provide a [[reference-hr-service-delivery-advanced-integr
 
 **Parent Topic:**[Enhanced Requests Experience forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

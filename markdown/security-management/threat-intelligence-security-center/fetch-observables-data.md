@@ -14,7 +14,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Fetch Observables Data
 
-Fetch the [[c_Observables|observables]] related records data.
+Fetch the observables related records data.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -32,7 +32,7 @@ Role required: sn\_sec\_tisc.analyst
 
 4.  Select any observable record.
 
-    If the given observables has any CVEs associated with it then you can fetch its vulnerable related data automatically using the button provided, and these associated records are displayed in the Business Context section of the [[vulnerabilities|Vulnerabilities]].
+    If the given observables has any CVEs associated with it then you can fetch its vulnerable related data automatically using the button provided, and these associated records are displayed in the Business Context section of the Vulnerabilities.
 
 5.  Go to **Internal Intelligence** &gt; **Vulnerable entries**.
 
@@ -47,8 +47,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure AWS account, Configuring Conversational IVR with Amazon C
 
 # Set up transcription for Amazon Connect
 
-[[configure-va-ivr|Configure Conversational IVR with Amazon Connect]] application to store the conversation between the agent and the user over Softphone as a transcript.
+Configure Conversational IVR with Amazon Connect application to store the conversation between the agent and the user over Softphone as a transcript.
 
 ## Before you begin
 
@@ -103,6 +103,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
-## Related
-
-- [[configure-va-ivr|Configure Conversational IVR with Amazon Connect]]

@@ -26,7 +26,7 @@ You can process only transfer orders that contain parts sourced from a warehouse
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **My Lists** &gt; **Transfer Orders**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **My Lists** &gt; **Transfer Orders**.
 
 2.  Select a transfer order to transfer the asset.
 
@@ -121,7 +121,3 @@ The task moves to the Closed Complete state.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

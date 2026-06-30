@@ -14,13 +14,13 @@ breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conve
 
 # Theming for Now Assist in Virtual Agent enhanced chat
 
-You can customize the look and feel of the [[now-assist-in-va-landing|Now Assist in Virtual Agent]] [[nava-enhanced-chat|enhanced chat]] experience in your ServiceNow portal by updating the relevant Cascading Style Sheet \(CSS\) variables.
+You can customize the look and feel of the Now Assist in Virtual Agent enhanced chat experience in your ServiceNow portal by updating the relevant Cascading Style Sheet \(CSS\) variables.
 
-As a [[virtual-agent-landing-page|Virtual Agent]] admin or admin, you can customize the default enhanced chat theming variables. Information on how to customize theming can be found in [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CustomCSS.md). Edit these variables in the following table within the CSS variables field \(sp\_theme\) record. You can also configure these variables with a CSS Include associated with a portal's theme.
+As a Virtual Agent admin or admin, you can customize the default enhanced chat theming variables. Information on how to customize theming can be found in [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CustomCSS.md). Edit these variables in the following table within the CSS variables field \(sp\_theme\) record. You can also configure these variables with a CSS Include associated with a portal's theme.
 
 **Note:**
 
-The chat header logo is shared between standard and enhanced chat, and it’s determined by the selected [[nava-standard-chat|standard chat]] branding profile. You can’t configure a separate chat header logo for each experience. Updating the chat header logo in one experience updates it for the other. To view the branding profile, navigate to **[[assistant-designer|Assistant Designer]]** &gt; **Assistants** &gt; **Branding**.
+The chat header logo is shared between standard and enhanced chat, and it’s determined by the selected standard chat branding profile. You can’t configure a separate chat header logo for each experience. Updating the chat header logo in one experience updates it for the other. To view the branding profile, navigate to **Assistant Designer** &gt; **Assistants** &gt; **Branding**.
 
 For the variables, `nass` refers to enhanced chat.
 
@@ -664,11 +664,3 @@ Handles size of Image within the chat icon.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[assistant-designer|Assistant Designer]]

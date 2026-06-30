@@ -14,7 +14,7 @@ breadcrumb: [Explore, Contract Management Pro, Legal and Contract Operations, Em
 
 # Clause Management
 
-Clause management enables you to effectively manage a library of clauses, clause variations, and [[cncore-expl-wdt|word document templates]].
+Clause management enables you to effectively manage a library of clauses, clause variations, and word document templates.
 
 ## Clause
 
@@ -26,7 +26,7 @@ Clauses are stored in a clause library, from which you can insert them in contra
 
 ## Clause variations
 
-A clause variation is a block of content, which can be dynamically added to the contract document, eliminating the need for several templates for the same type of request. For example, say that for a Non-disclosure Agreement contract document only one section needs to be changed based on the geographic region of the signing entity. You would create multiple [[document-templates-overview|document templates]] with identical content with the only difference being location-related content. You could now use the condition-based clause variations to create only one contract template that can generate documents for different locations. For more information, see [Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md).
+A clause variation is a block of content, which can be dynamically added to the contract document, eliminating the need for several templates for the same type of request. For example, say that for a Non-disclosure Agreement contract document only one section needs to be changed based on the geographic region of the signing entity. You would create multiple document templates with identical content with the only difference being location-related content. You could now use the condition-based clause variations to create only one contract template that can generate documents for different locations. For more information, see [Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md).
 
 \[Omitted image "cmpro-cls-variation.png"\] Alt text: View clause variations and its' content
 
@@ -37,7 +37,3 @@ A clause variation is a block of content, which can be dynamically added to the 
 -   Use contract templates to dynamically generate contracts for different conditions instead of having to create contracts for different circumstances manually.
 -   Add clauses from clause library to the contract revision during authoring or negotiation.
 
-## Related
-
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[document-templates-overview|Document Templates]]

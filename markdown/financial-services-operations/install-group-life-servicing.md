@@ -12,7 +12,7 @@ breadcrumb: [Configure, Group Life Servicing, Life Insurance Servicing, Insuranc
 
 # Install Group Life Servicing
 
-You can install the [[group-life-servicing|Group Life Servicing]] application \(sn\_ins\_group\_life\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Group Life Servicing application \(sn\_ins\_group\_life\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The following items are installed with sn\_ins\_group\_life:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-with-group-life-servicing|Components installed with Group Life Servicing]].
+For more information, see [Components installed with Group Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-group-life-servicing.md).
 
 ## Procedure
 
@@ -54,7 +54,4 @@ For more information, see [[components-installed-with-group-life-servicing|Compo
 
 6.  Select **Install**.
 
-## Related
 
-- [[components-installed-with-group-life-servicing|Components installed with Group Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]

@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Directory Scan monitoring default checks and policies
 
-The [[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Directory Scan monitoring.
+The Agent Client Collector provides the following default checks and policies for Directory Scan monitoring.
 
 <table id="table_x53_1mq_12c"><thead><tr><th>
 
@@ -514,7 +514,3 @@ Linux Checks CRITICAL: Directory &lt;path to file&gt; space: 374.00 KB exceeds c
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

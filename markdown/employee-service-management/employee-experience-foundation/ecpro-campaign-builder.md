@@ -14,7 +14,7 @@ breadcrumb: [Campaign bundle triggers, Creating campaigns, Authoring and managin
 
 # Create campaign stages with Content Experience Builder
 
-Use the Content Experience Builder to create stages for your campaign on [[employee-center-pro-landing|Employee Center Pro]]. Campaign stages control when content is available to your employees and for how long. The Content Experience Builder provides a simple, single-page view for managing content and assembling your campaign.
+Use the Content Experience Builder to create stages for your campaign on Employee Center Pro. Campaign stages control when content is available to your employees and for how long. The Content Experience Builder provides a simple, single-page view for managing content and assembling your campaign.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Stages organize and manage the delivery of campaign content. When configuring a 
 -   Click **Add stage** to configure additional stages
 -   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

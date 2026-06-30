@@ -13,22 +13,14 @@ breadcrumb: [ServiceNow Store, Administering applications, Get started, Administ
 
 # ServiceNow Store reference
 
-[[reference-email-admin|Reference]] topics provide more information about guest review form fields and types of [[servicenow-store|ServiceNow Store]] listings.
+Reference topics provide more information about guest review form fields and types of ServiceNow Store listings.
 
--   **[[guest-contact-form-fields|Guest contact form fields]]**  
+-   **[Guest contact form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guest-contact-form-fields.md)**  
 A description of the fields on the Guest contact form in the ServiceNow Store.
--   **[[guest-review-form-fields|Guest review form fields]]**  
+-   **[Guest review form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guest-review-form-fields.md)**  
 A description of the fields on the Guest review form in the ServiceNow Store, as well as which fields are publicly visible after the review is published.
--   **[[store-glossary|ServiceNow Store glossary]]**  
+-   **[ServiceNow Store glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-glossary.md)**  
 Review important terms related to the ServiceNow Store to help determine which listings meet your organization's needs.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[guest-contact-form-fields|Guest contact form fields]]
-- [[guest-review-form-fields|Guest review form fields]]
-- [[store-glossary|ServiceNow Store glossary]]
-- [[administering-applications|Administering applications]]
-- [[reference-email-admin|Reference]]
-- [[servicenow-store|ServiceNow Store]]

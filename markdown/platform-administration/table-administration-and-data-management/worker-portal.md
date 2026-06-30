@@ -18,12 +18,12 @@ Time Sheet Portal categorizes and displays all your assigned tasks in a single v
 
 Time Sheet Portal works with the Task table to record the time that you spend on various task types, such as projects, incidents, problems, and change requests. It provides a complete breakdown of the time you enter for the task, task categories, and days in a week. It enables you to:
 
--   Generate [[c_TimeCards|time cards]] for assigned projects or project tasks.
--   [[copy-time-sheet|Copy time cards from a previous time sheet]].
--   Search and [[t_CreateATimeCard|create a time card]] for a task that is not displayed in the assigned tasks list.
+-   Generate time cards for assigned projects or project tasks.
+-   Copy time cards from a previous time sheet.
+-   Search and create a time card for a task that is not displayed in the assigned tasks list.
 -   Edit, delete, or add notes to a time card.
 -   Submit, approve, reject, and recall a time sheet.
--   View [[notifications|notifications]] for the submitted, rejected, and recalled [[time-sheets|time sheets]] or time cards.
+-   View notifications for the submitted, rejected, and recalled time sheets or time cards.
 
 Time Sheet Portal comprises of the following sections:
 
@@ -125,17 +125,9 @@ When there are no time cards, the Logged Time Cards section displays the **Gener
 -   **[Create time cards and log time through Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-timecards-through-worker-portal.md)**  
 After you create time cards in Time Sheet Portal, log time in the time cards.
 -   **[Submit time sheet through Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/submit-timesheet-workerportal.md)**  
-Once you update the time sheet with [[c_TimeWorked|time worked]] for a given week, submit it for approval.
+Once you update the time sheet with time worked for a given week, submit it for approval.
 -   **[Log time and submit time sheets of your resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/submit-time-sheet-other-users.md)**  
 As a user manager, you can log time and submit the time sheet of your resources.
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[copy-time-sheet|Copy time cards from a previous time sheet]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[notifications|Notifications]]
-- [[time-sheets|Time Sheets]]
-- [[c_TimeWorked|Time worked]]

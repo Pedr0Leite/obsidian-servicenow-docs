@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Orchestration, Security Incident Respons
 
 # Understand Security Incident Response Orchestration workflows and workflow templates
 
-The [[sir-landing-page|Security Incident Response]] base system includes a series of workflows and workflow templates designed to work with security incident records.
+The Security Incident Response base system includes a series of workflows and workflow templates designed to work with security incident records.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.basic
 
 ## About this task
 
-You can tailor all workflows and workflow templates to better suit your needs, assuming you have the appropriate role: sn\_sec\_cmn.admin. Workflows are used throughout the [[security-operations-landing-page|Security Operations]] system to perform a variety of tasks.
+You can tailor all workflows and workflow templates to better suit your needs, assuming you have the appropriate role: sn\_sec\_cmn.admin. Workflows are used throughout the Security Operations system to perform a variety of tasks.
 
 Workflow templates, however, are triggered by selecting a value in the **Category** field in a security incident. When this occurs, the workflow template associated with the selection kicks off a workflow template that instructs the security analysts how to deal with a specific type of threat.
 
@@ -44,14 +44,9 @@ So Security Incident Response workflows and workflow templates are essentially t
 
 
 -   **[Security Incident Response Orchestration workflows and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sec-inc-resp-orchestration-workflows.md)**  
-Several workflows and activities are included with [[c_SecIncRespOrchestration|Security Incident Response Orchestration]].
+Several workflows and activities are included with Security Incident Response Orchestration.
 -   **[Security Incident Response workflow templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-orch-workflow-templates.md)**  
 Workflow templates are provided with Security Incident Response Orchestration to allow you to perform basic security operation-related analysis procedures. The templates can be used as is or you can customize them to create workflows to better suit your specific needs. The workflow templates are deactivated by default.
 
 **Parent Topic:**[Security Incident Response Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecIncRespOrchestration.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]

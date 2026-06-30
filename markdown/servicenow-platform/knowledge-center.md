@@ -26,7 +26,7 @@ The ServiceNow® Knowledge Center \(KC\) is designed to simplify the discovery a
 
 </td><td>
 
-[[using-knowledge-center|Use]]\[Omitted image "bus-workflow.svg"\] Alt text: configureUse Knowledge Center and related features.
+[Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-knowledge-center.md)\[Omitted image "bus-workflow.svg"\] Alt text: configureUse Knowledge Center and related features.
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -37,9 +37,5 @@ The ServiceNow® Knowledge Center \(KC\) is designed to simplify the discovery a
 **Related topics**  
 
 
-[[exploring-knowledge-center|Exploring Knowledge Center]]
+[Exploring Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-knowledge-center.md)
 
-## Related
-
-- [[using-knowledge-center|Using Knowledge Center]]
-- [[exploring-knowledge-center|Exploring Knowledge Center]]

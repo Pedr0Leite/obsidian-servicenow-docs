@@ -26,7 +26,7 @@ If you have purchased a subscription for the Field Service Management \(FSM\) ap
 
 ## Changes to the Field Service Management application
 
-In the Field Service Management application, this integration adds the following [[fields|fields]] to the Work Order form. These fields are visible in the Case view. To display these fields, right-click the Work Order form header and select **View** &gt; **Case**.
+In the Field Service Management application, this integration adds the following fields to the Work Order form. These fields are visible in the Case view. To display these fields, right-click the Work Order form header and select **View** &gt; **Case**.
 
 -   Account
 -   Consumer
@@ -47,9 +47,5 @@ Select a work order in this list to display the work order details.
 
 There is no synchronization between the Work Order form and the associated Case form. If information changes on the Case form, it does not get updated on the Work Order form.
 
-**Parent Topic:**[[activate-fsm-csm-integration|Integrate with Field Service Management]]
+**Parent Topic:**[Integrate with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-fsm-csm-integration.md)
 
-## Related
-
-- [[activate-fsm-csm-integration|Integrate with Field Service Management]]
-- [[fields|Fields]]

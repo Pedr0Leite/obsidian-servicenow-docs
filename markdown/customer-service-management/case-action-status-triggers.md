@@ -12,9 +12,9 @@ breadcrumb: [Case action status, Configure case management, Case management, Org
 
 # Actionable case flows
 
-Actionable case flows contain predefined user actions that automatically create and resolve [[case-action-status-blocking-tasks|blocking tasks]] for customer service cases.
+Actionable case flows contain predefined user actions that automatically create and resolve blocking tasks for customer service cases.
 
-The [[case-action-status-csm-workspace|Case Action Status]] plugin provides several actionable case flows that create and resolve blocking tasks for different case-related actions. These flows are enabled by default. If you don't want to create blocking tasks for a specific action, disable the associated flow.
+The Case Action Status plugin provides several actionable case flows that create and resolve blocking tasks for different case-related actions. These flows are enabled by default. If you don't want to create blocking tasks for a specific action, disable the associated flow.
 
 To view these flows, navigate to **Customer Service** &gt; **Administration** &gt; **Actionable Case Flows**.
 
@@ -64,7 +64,3 @@ If a problem is associated with a case with the **Need task resolution** blockin
 
 If a problem is associated with a case with the **Need PRB workaround** blocking reason, a case flow is provided to resolve the blocking task when a workaround is provided or the problem record is closed or cancelled.
 
-## Related
-
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[case-action-status-csm-workspace|Case action status]]

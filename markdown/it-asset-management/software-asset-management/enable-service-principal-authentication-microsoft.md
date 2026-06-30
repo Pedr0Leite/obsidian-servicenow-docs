@@ -22,7 +22,7 @@ Microsoft Entra ID Role required: global administrator
 
 Power BI Role required: Power platform administrator
 
-**Note:** This configuration enables the ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] application to get the usage information \(Last usage time\) for all Power BI Pro deployments across the Web and Desktop. The Software Asset Management application pulls the last activity date for Power BI deployments that are part of Microsoft 365 subscriptions.
+**Note:** This configuration enables the ServiceNow Software Asset Management application to get the usage information \(Last usage time\) for all Power BI Pro deployments across the Web and Desktop. The Software Asset Management application pulls the last activity date for Power BI deployments that are part of Microsoft 365 subscriptions.
 
 ## About this task
 
@@ -171,6 +171,4 @@ Method in which members can be added to or removed from the group.Set this field
 
     After you enable this setting through the Power BI Admin portal, any application permissions that you set from the Microsoft Azure portal are no longer effective. All application permissions must subsequently be set and managed through the Power BI Admin portal.
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When configuring your department for [[ur-landing-limitedaccess|Universal Request]], to use transfer to other department capability, create scripted extension points and add them to the script includes of the application code. A sample **CreateDepartmentTicket** extension point is provided for you to modify and use.
+When configuring your department for Universal Request, to use transfer to other department capability, create scripted extension points and add them to the script includes of the application code. A sample **CreateDepartmentTicket** extension point is provided for you to modify and use.
 
 **Note:** For a better user experience, you can choose to use the Mapping configuration to define and configure fields that must be copied to the end-points for ticket transfers and creation. For more information, see [Configure mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md).
 
@@ -41,6 +41,3 @@ When configuring your department for [[ur-landing-limitedaccess|Universal Reques
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

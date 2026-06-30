@@ -14,7 +14,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Create sub-groups for automation opportunities
 
-Large [[automation-opportunities|automation opportunities]] in LEAP are broken into smaller, more manageable sub-groups to support focused and contextual incident resolution steps.
+Large automation opportunities in LEAP are broken into smaller, more manageable sub-groups to support focused and contextual incident resolution steps.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: LEAP admin
 
     Each child sub-group has it own ID and you can generate focused resolution steps with only the records in the sub-group. On the LEAP landing page, the parent automation opportunity shows child automation opportunity in the Sub Groups column.
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]

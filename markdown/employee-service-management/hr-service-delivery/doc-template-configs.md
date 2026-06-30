@@ -28,7 +28,7 @@ Role required: sn\_doc.writer
 
 ### Procedure
 
-1.  Navigate to **[[document-templates-overview|Document Templates]]** &gt; **Document Configuration** &gt; **Table of Contents Configurations**.
+1.  Navigate to **Document Templates** &gt; **Document Configuration** &gt; **Table of Contents Configurations**.
 
 2.  Click **New**.
 
@@ -201,6 +201,4 @@ Horizontal alignment of the page number: **Left**, **Center**, or **Right**
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Define filters for My Requests
 
-Define request filters to filter incidents, requests, or tasks under the **[[self-service-landing|Self-Service]]** &gt; **My Requests** module in ServiceNow AI Platform, the **My Requests** widget in Service Portal, and the My Requests applet in the Now® Mobile app.
+Define request filters to filter incidents, requests, or tasks under the **Self-Service** &gt; **My Requests** module in ServiceNow AI Platform, the **My Requests** widget in Service Portal, and the My Requests applet in the Now® Mobile app.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Since the My Request Filter \[request\_filter\] table has been reparented to the
 
 ## Procedure
 
-1.  Navigate to **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **My Request Filter**.
+1.  Navigate to **Service Catalog** &gt; **Catalog Administration** &gt; **My Request Filter**.
 
 2.  On the form, fill the fields.
 
@@ -140,7 +140,3 @@ Secondary information displayed for the request.**Note:**
 
 [Activate the page route map for the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-pageroutemap-stpage.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[service-catalog|Service Catalog]]

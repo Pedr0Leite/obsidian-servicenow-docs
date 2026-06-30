@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Properties**.
 
 2.  Set the following property values.
 
@@ -38,6 +38,3 @@ Role required: sn\_imt\_core.admin
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]

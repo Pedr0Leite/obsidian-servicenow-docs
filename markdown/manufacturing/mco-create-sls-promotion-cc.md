@@ -12,7 +12,7 @@ breadcrumb: [Create a checklist template, My promotions, Sales promotion managem
 
 # Create a sales promotion claim case
 
-[[mco-create-sls-pro-claim-case|Create a sales promotion claim case]] to claim the reimbursement or discount.
+Create a sales promotion claim case to claim the reimbursement or discount.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-sls-pro-mgmt|Sales Promotion Management]]** &gt; **[[mco-my-promotions|My Promotions]]** &gt; **All Claims**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales Promotion Management** &gt; **My Promotions** &gt; **All Claims**.
 
 2.  Select **New**.
 
@@ -35,11 +35,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
     |Sale price|Sale price of the product sold. Select the required currency from the list|
 
 
-**Parent Topic:**[[mco-create-checklist|Create a checklist template]]
+**Parent Topic:**[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)
 
-## Related
-
-- [[mco-create-checklist|Create a checklist template]]
-- [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-my-promotions|My promotions]]

@@ -26,7 +26,7 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 ## Procedures
 
-Follow these procedures to set up and configure [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]].
+Follow these procedures to set up and configure Now Assist for Configuration Management Database \(CMDB\).
 
 -   **[Configure Now Assist for CMDB 3.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-configure-3.0.md)**  
 Configure the Now Assist for CMDB application so users can benefit from Agentic workflows, agents, and skills.
@@ -39,7 +39,7 @@ Review and configure the settings of the Now Assist for Configuration Management
 -   **[Activate the Now Assist CMDB MCP server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-mcp-server.md)**  
 Enable Al agents and other clients to securely access data and perform actions using the Model Context Protocol \(MCP\).
 -   **[Configure the CI form contextual help skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-form-sense-config.md)**  
-[[na-cmdb-skill-form-sense-config|Configure the CI form contextual help skill]].
+Configure the CI form contextual help skill.
 -   **[Configure the manage duplicate CIs skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-config-mng-dupe-ci-skill.md)**  
 Enable and configure scheduled jobs that support the manage duplicate CIs skill.
 -   **[Configure the Service Graph Connector diagnosis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
@@ -47,7 +47,3 @@ Review and configure the settings of the Service Graph Connector diagnosis skill
 
 **Parent Topic:**[Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)
 
-## Related
-
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]
-- [[na-cmdb-skill-form-sense-config|Configure the CI form contextual help skill]]

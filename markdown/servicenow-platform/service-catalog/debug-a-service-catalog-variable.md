@@ -14,7 +14,7 @@ breadcrumb: [Debugging Service Catalog, Service Catalog, Manage service capabili
 
 # Debug a Service Catalog variable
 
-Monitor changes in the state and the value of a [[service-catalog|Service Catalog]] variable due to catalog client scripts, catalog UI policies, and catalog data lookups. You can diagnose and resolve issues related to such changes, and track client-side scripting errors on this tab.
+Monitor changes in the state and the value of a Service Catalog variable due to catalog client scripts, catalog UI policies, and catalog data lookups. You can diagnose and resolve issues related to such changes, and track client-side scripting errors on this tab.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: admin or catalog\_admin
 
 3.  In the Catalog Items list, select a catalog item to debug its variables, and click **Try it**.
 
-4.  On the form, right-click a variable field [[label|label]] and select **Watch Variable**.
+4.  On the form, right-click a variable field label and select **Watch Variable**.
 
     The debug icon \(\[Omitted image "Debug.png"\] Alt text: Debug icon\) is displayed next to the variable, and the **Field Watcher** tab in the bottom pane is replaced with the **Variable Watcher** tab.
 
@@ -53,8 +53,8 @@ Role required: admin or catalog\_admin
     |Write roles|User type that can edit values for the variable.|
     |Read roles|User type that can read values for the variable.|
     |||
-    |Reference|Reference table for the variable. Applicable for [[reference|reference]] variables.|
-    |Reference Qual|Qualifiers to restrict data that is available in the field. Applicable for [[list-collector|list collector]], [[lookup-multiple-choice|lookup multiple choice]], [[lookup-select-box|lookup select box]], and reference variables.|
+    |Reference|Reference table for the variable. Applicable for reference variables.|
+    |Reference Qual|Qualifiers to restrict data that is available in the field. Applicable for list collector, lookup multiple choice, lookup select box, and reference variables.|
     |Attributes|Attributes of the variable.|
     |Delete roles|User type that can delete values for the variable.|
     |All|If selected, displays the action log of the variable due to catalog client scripts, data lookups, and catalog UI policies.|
@@ -79,11 +79,3 @@ Role required: admin or catalog\_admin
 
 **Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]
-- [[reference|Reference]]
-- [[list-collector|List collector]]
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[lookup-select-box|Lookup select box]]

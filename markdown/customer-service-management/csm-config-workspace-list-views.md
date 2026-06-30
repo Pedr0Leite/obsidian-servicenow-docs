@@ -12,11 +12,11 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 # CSM Configurable Workspace list views
 
-The CSM Configurable Workspace list views provide filtered [[migration-lists|lists]] of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.
+The CSM Configurable Workspace list views provide filtered lists of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.
 
-A list displays records from a database table. Each list includes rows and columns of data. Each row is a record in a table and each column is a field from the record. [[csm-workspaces-configure|CSM Configurable Workspace]] uses list pages to display list information such as [[csm-cases-case-tasks-overview|cases and case tasks]]. These pages are designed to help agents navigate, filter, and manage records.
+A list displays records from a database table. Each list includes rows and columns of data. Each row is a record in a table and each column is a field from the record. CSM Configurable Workspace uses list pages to display list information such as cases and case tasks. These pages are designed to help agents navigate, filter, and manage records.
 
-CSM Configurable Workspace presents the Core UI lists and [[migration-forms|forms]] in one interface and consolidates multiple tabs into a single, focused work area. From this single view, agents can:
+CSM Configurable Workspace presents the Core UI lists and forms in one interface and consolidates multiple tabs into a single, focused work area. From this single view, agents can:
 
 -   Work on multiple issues concurrently in an intuitive layout, reducing context and tab switching.
 -   Resolve issues faster with automated suggestions powered by machine learning.
@@ -25,7 +25,7 @@ CSM Configurable Workspace presents the Core UI lists and [[migration-forms|form
 
 ## List pages in CSM Configurable Workspace
 
-List pages for CSM Configurable Workspace are created with the List page template in UI Builder. The List page template includes the [[csm-record-page-record-list-component-bundle|Record List component bundle]] and List menu component.
+List pages for CSM Configurable Workspace are created with the List page template in UI Builder. The List page template includes the Record List component bundle and List menu component.
 
 \[Omitted image "csm-config-ws-lists.png"\] Alt text: CSM Configurable Workspace includes several filtered lists that display database table, record, and field data
 
@@ -70,10 +70,3 @@ For more information about working with lists, see the following topics in the [
 -   [Administering lists for Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-lists-configurable-workspace.md)
 -   [Using lists in Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/using-lists-configurable-workspace.md)
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[migration-forms|Forms]]
-- [[csm-record-page-record-list-component-bundle|Record List component bundle]]

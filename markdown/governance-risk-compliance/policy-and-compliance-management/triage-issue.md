@@ -129,7 +129,7 @@ Issue owner
 Ability to resolve the reportable issue assigned to them
 
 </td></tr></tbody>
-</table>**Note:** The triage user/manager and Issue manager roles were introduced in GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] version 11.1.0.
+</table>**Note:** The triage user/manager and Issue manager roles were introduced in GRC: Policy and Compliance Management version 11.1.0.
 
 ## Procedure
 
@@ -177,6 +177,3 @@ Ability to resolve the reportable issue assigned to them
 
 **Parent Topic:**[Report self-identified issues via the Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-self-identified-issues.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

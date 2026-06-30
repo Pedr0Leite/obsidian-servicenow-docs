@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Remove a Walk-up Experience location
 
-If you permanently close down a physical [[walkup-experience-landing-page|Walk-up Experience]] location, you can also remove the location from the Walk-up Location Queues table.
+If you permanently close down a physical Walk-up Experience location, you can also remove the location from the Walk-up Location Queues table.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_walkup.walkup\_admin or admin
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -16,13 +16,13 @@ breadcrumb: [Request employee-related services, Workplace Core, Workplace Servic
 
 Explore workplace campuses, sites, buildings, and neighborhoods using the Location directory. Get directions using map routes to a meeting room, building, or co-workers to collaborate effectively. Search for employees, locations, and neighborhood spaces. Reserve a space, request, or report a workplace service issue. Filter spaces by reservation states, occupancy states to get insights on space availability.
 
-The location directory provides the Map view and the Card view to manage workplace activities and services. [[Indoor-mapping|Indoor Mapping]] must be configured so that your locations can be viewed on a floor map. If a location doesn’t have a floor map, then only Card view is displayed.
+The location directory provides the Map view and the Card view to manage workplace activities and services. Indoor Mapping must be configured so that your locations can be viewed on a floor map. If a location doesn’t have a floor map, then only Card view is displayed.
 
 ## Reservation and occupancy status on the Location directory
 
 Configure the Location directory to filter spaces by reservation and occupancy states.
 
-**Note:** This is controlled through the **Show reservation and/or occupancy information on Location directory** map property and when it is set to true, you can view the reservation and occupancy status for a selected location on the floor map. The [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] and [[workplace-connectors-landing-page|Workplace Connectors]] must be installed and configured to show both reservation and occupancy statuses. Occupancy state for a location is displayed when an occupancy sensor provider is integrated with Workplace Connectors and occupancy sensor data is available for a selected location. For more information, see [Configure map properties for Location Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-map-properties-location-directory.md).
+**Note:** This is controlled through the **Show reservation and/or occupancy information on Location directory** map property and when it is set to true, you can view the reservation and occupancy status for a selected location on the floor map. The Workplace Reservation Management and Workplace Connectors must be installed and configured to show both reservation and occupancy statuses. Occupancy state for a location is displayed when an occupancy sensor provider is integrated with Workplace Connectors and occupancy sensor data is available for a selected location. For more information, see [Configure map properties for Location Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-map-properties-location-directory.md).
 
 Filter spaces by occupancy and reservation statuses for a selected space.
 
@@ -51,7 +51,7 @@ Configure Map properties to refresh automatically and get the latest reservation
 -   **[Configure map properties for Location Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-map-properties-location-directory.md)**  
 Configure map properties to enable reservation states, occupancy states, display permanent seat assignments, or auto-refresh time interval for showing the latest reservation and occupancy information on the map. Show or hide neighborhoods on the Location directory by using a map property.
 -   **[Work with the Map view on the Location Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-map-view-loc-directiory.md)**  
-Work with Map view to search for workplace users, locations, spaces, and neighborhoods. [[get-directions-to-a-workplace|Get directions to a workplace]] location, meeting rooms, or an employee to collaborate quickly and effectively. Filter spaces based on reservation and occupancy states, space types, or neighborhoods.
+Work with Map view to search for workplace users, locations, spaces, and neighborhoods. Get directions to a workplace location, meeting rooms, or an employee to collaborate quickly and effectively. Filter spaces based on reservation and occupancy states, space types, or neighborhoods.
 -   **[Work with the Card view on the Location directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-card-view-loc-directory.md)**  
 Work with Card view to reserve a space or raise a workplace service request. Filter spaces based on reservation and occupancy data. View designated neighborhoods on the space card. Switch to Map view anytime when you want to locate a workplace location on the map or to get directions to a collaborator or location.
 
@@ -64,9 +64,3 @@ Work with Card view to reserve a space or raise a workplace service request. Fil
 
 [Making workplace reservations]()
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[get-directions-to-a-workplace|Get directions to a workplace]]

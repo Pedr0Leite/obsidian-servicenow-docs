@@ -14,11 +14,11 @@ breadcrumb: [Explore, Instance Data Replication, Manage instance data sources, E
 
 # Continuous replication
 
-Replicate inserts and updates from a producer instance to one or more consumer instances in near-real time in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Replicate inserts and updates from a producer instance to one or more consumer instances in near-real time in Instance Data Replication \(IDR\).
 
 Continuous replication in IDR enables syncing of specified tables and columns between instances. With continuous replication, inserts and updates are replicated in one direction from a producer instance to one or more consumer instances.
 
-After you [[set-up-continuous-replication-idr|set up continuous replication]], the IDRProducerJob job runs on the producer instance to detect data updates. When there are updates to replicate, the producer instance sends the updates to each subscribed consumer instance.
+After you set up continuous replication, the IDRProducerJob job runs on the producer instance to detect data updates. When there are updates to replicate, the producer instance sends the updates to each subscribed consumer instance.
 
 The IDRConsumerJob job runs on the consumer instances to detect the data updates from the producer. When the IDRConsumerJob job detects updates, it updates the data in consumer tables.
 
@@ -31,7 +31,3 @@ Inserts and updates on the producer instance are replicated in near-real time.
 
 For more information, see [Set up continuous replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-continuous-replication-idr.md).
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[set-up-continuous-replication-idr|Set up continuous replication]]

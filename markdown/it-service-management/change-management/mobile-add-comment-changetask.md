@@ -22,7 +22,7 @@ Role required: itil or sn\_change\_write
 
 ## Procedure
 
-1.  Tap **[[change-tasks|Change Tasks]]** to open the list of change tasks.
+1.  Tap **Change Tasks** to open the list of change tasks.
 
 2.  Tap the change task to open the detailed view.
 
@@ -38,6 +38,3 @@ Role required: itil or sn\_change\_write
 
 [Resolve or close a change task]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for TMT, Telecommunications, Media, and Technology \(TMT
 
 # Exploring Now Assist for Telecommunications, Media and Technology \(TMT\)
 
-With the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application, your agents can use generative AI to summarize service problem cases, account onboarding cases, engagements, touchpoints, internal plays, customer plays, successive initiatives, tests, risk signal and issues, and generate resolution notes. Additionally, you can automate transformation mapping between provider and consumer instances in [[tmt-service-bridge-both-landing-page|Service Exchange]].
+With the Now Assist for Telecommunications, Media and Technology \(TMT\) application, your agents can use generative AI to summarize service problem cases, account onboarding cases, engagements, touchpoints, internal plays, customer plays, successive initiatives, tests, risk signal and issues, and generate resolution notes. Additionally, you can automate transformation mapping between provider and consumer instances in Service Exchange.
 
 ## Overview of Now Assist for TMT
 
@@ -35,7 +35,7 @@ The following generative AI capabilities are available:
 -   **Technology Now Assist capabilities**
     -   A draft closure notes for a risk signal automatically generates closure notes and closes eligible risk signals at the end of each day based on the status of their associated risk solutions.
     -   A lookup similar engagements skill to automatically generate a product adoption roadmap based on engagement data and insights from similar engagements.
-    -   A [[renewal-insight|renewal insight engine skill]] to analyze the renewal likelihood and expansion potential of an engagement or contract and generate recommended actions.
+    -   A renewal insight engine skill to analyze the renewal likelihood and expansion potential of an engagement or contract and generate recommended actions.
     -   An account onboarding case summary enables an agent to gather case context on onboarding cases. Agents can generate a summary to gain an understanding of any stage of the onboarding cycle.
     -   An engagement record summary can enable an agent to summarize initiatives, outcomes, risks, and internal plays associated with an engagement.
     -   A touchpoint record summary can enable an agent to summarize meetings and emails exchanged during the engagement life cycle.
@@ -216,7 +216,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Next steps
     \[Omitted image "success-init-summary.jpg"\] Alt text: Success initiative summary
 
--   **[[now-assist-tmt-analyze-metric-trend|Analyze metric data trend]]**
+-   **Analyze metric data trend**
 
     Collects and analyzes metric data, processes large data sets, identifies patterns and anomalies. Provides clear actionable insights that enables the [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-monitor-health.md) to make informed decisions and take appropriate actions.
 
@@ -262,9 +262,3 @@ The comprehensive summary includes the following sections:
 
 [Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-## Related
-
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[renewal-insight|Renewal insight engine skill]]
-- [[now-assist-tmt-analyze-metric-trend|Analyze metric data trend]]

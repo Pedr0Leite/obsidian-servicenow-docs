@@ -30,8 +30,5 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Sample code for the Catalog browse component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-catalog-browse-samp-code.md)
 
-[[we-catalog-browse-comp-prop|Component properties for the Catalog browse]]
+[Component properties for the Catalog browse](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-browse-comp-prop.md)
 
-## Related
-
-- [[we-catalog-browse-comp-prop|Component properties for the Catalog browse]]

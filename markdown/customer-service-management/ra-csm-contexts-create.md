@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Recommended Actions application, Recommended Action
 
 # Create a context in Recommended Actions
 
-Create a context for an individual table, such as the Case table. Contexts store information including the [[configure-nba|recommended actions]] that agents can use and the [[gamification-components-rules|rules]] that determine when those actions are available.
+Create a context for an individual table, such as the Case table. Contexts store information including the recommended actions that agents can use and the rules that determine when those actions are available.
 
 ## Before you begin
 
@@ -76,7 +76,7 @@ Asynchronous Evaluation
 
 </td><td>
 
-When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [[ra-csm-contexts|Synchronous and asynchronous modes of evaluation for Recommended Actions]].
+When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Inherit exclusions from parent context
 
 </td><td>
 
-When selected, includes the exclusion fields of the parent context table to prevent the trigger of the Recommendations refresh in the [[csm-workspaces-configure|CSM Configurable Workspace]].**Note:** This field appears only when a context is added in the Parent context field.
+When selected, includes the exclusion fields of the parent context table to prevent the trigger of the Recommendations refresh in the CSM Configurable Workspace.**Note:** This field appears only when a context is added in the Parent context field.
 
 </td></tr><tr><td colspan="2">
 
@@ -125,7 +125,7 @@ Search application configuration that specifies AI Search as the search engine a
 
 The **\[CSM AIS\] Configurable Workspace Search Config** search application configuration is provided with the CSM Configurable Workspace store application. To access this configuration, navigate to **AI Search** &gt; **Search Experience** &gt; **Search Applications**.
 
-For more information about AI search configurations, see [[ra-configuring-ai-search|Configuring AI Search in Recommended Actions]].
+For more information about AI search configurations, see [Configuring AI Search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search.md).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Grouping strategy \(Optional\)
 
 Strategy for grouping recommendations.For example, you can define a grouping strategy to group recommendations that have similar criteria.
 
-**Note:** You might need to configure the Context form to display the **Grouping strategy** field. This field is available by default for ITSM Workforce [[optimization|Optimization]] users.
+**Note:** You might need to configure the Context form to display the **Grouping strategy** field. This field is available by default for ITSM Workforce Optimization users.
 
 </td></tr><tr><td>
 
@@ -172,14 +172,14 @@ Limits the number of search results displayed in the AI search tab of Recommende
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-    After saving the context record, the system displays the Rules and Recommendations related [[migration-lists|lists]].
+    After saving the context record, the system displays the Rules and Recommendations related lists.
 
 
 ## What to do next
 
--   Configure context inputs. For more information, see [[ra-csm-create-context-inputs|Create a context input in Recommended Actions]].
--   Use the Rules related list to view or create rules for this context. For more information on how to create a rule, [[ra-csm-rules-create|Create a rule in Recommended Actions]].
--   Use the Recommendations related list to view the recommendations related to the context rules. You can only create a recommendation from within the rule. For more information on how to create a recommendation within a rule, see [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]].
+-   Configure context inputs. For more information, see [Create a context input in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-create-context-inputs.md).
+-   Use the Rules related list to view or create rules for this context. For more information on how to create a rule, [Create a rule in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md).
+-   Use the Recommendations related list to view the recommendations related to the context rules. You can only create a recommendation from within the rule. For more information on how to create a recommendation within a rule, see [Create a recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md).
 -   Use the Search result mapping related list to view or create mappings between AI search outputs and guidance inputs.
 
 **Related topics**  
@@ -187,15 +187,3 @@ Limits the number of search results displayed in the AI search tab of Recommende
 
 [Contexts in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts.md)
 
-## Related
-
-- [[ra-csm-contexts|Contexts in Recommended Actions]]
-- [[ra-configuring-ai-search|Configuring AI search in Recommended Actions]]
-- [[ra-csm-create-context-inputs|Create a context input in Recommended Actions]]
-- [[ra-csm-rules-create|Create a rule in Recommended Actions]]
-- [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[optimization|Optimization]]
-- [[migration-lists|Lists]]

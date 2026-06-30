@@ -14,7 +14,7 @@ breadcrumb: [Homepage migration status table, Homepage deprecation, Administerin
 
 # Populate the homepage migration status table for multiple domains
 
-By default, the flow to [[hpm-populate-hp-status-table|populate the homepage migration status table]] applies only to the global domain. You can create a flow to apply to the other domains in your instance.
+By default, the flow to populate the homepage migration status table applies only to the global domain. You can create a flow to apply to the other domains in your instance.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 2.  Navigate to **All** &gt; **Flow Designer**.
 
-3.  Find the Populate [[homepage-migration-status-table|Homepage migration status table]] flow and open it.
+3.  Find the Populate Homepage migration status table flow and open it.
 
     \[Omitted image "populate-hpmst-flow.png"\] Alt text: Flow designer list of flows that contain the name Populate Homepage migration status table
 
@@ -36,7 +36,7 @@ Role required: admin
 
     \[Omitted image "flow-designer-copy-flow.png"\] Alt text: Flow designer More Actions menu with the Copy flow option highlighted.
 
-5.  Select the application `[[hp-dep-help-tool-features|Homepage deprecation help tool]]` and select **Copy**.
+5.  Select the application `Homepage deprecation help tool` and select **Copy**.
 
 6.  Select the **More Actions** menu and choose **Flow properties**.
 
@@ -44,8 +44,4 @@ Role required: admin
 
     \[Omitted image "flow-designer-sub-domain-properties.png"\] Alt text: Properties of the copied homepage migration status table flow pointing to the selected domain
 
-## Related
 
-- [[hpm-populate-hp-status-table|Populate the homepage migration status table]]
-- [[homepage-migration-status-table|Homepage migration status table]]
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]

@@ -48,8 +48,5 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     **Note:** Deleting the last remaining font face removes the entire font family. If your custom font is your default font, then the default font automatically reverts to Source Sans Pro. If you delete a custom font family that is used for theming your components, Source Sans Pro is applied. If you delete a font face that is used for theming your components, the first font face of that font family is used. If none remain, Source Sans Pro Regular is applied.
 
 
-**Parent Topic:**[[upload-custom-font|Upload a custom font to your theme]]
+**Parent Topic:**[Upload a custom font to your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md)
 
-## Related
-
-- [[upload-custom-font|Upload a custom font to your theme]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conve
 
 # Set up your Now Assist in Virtual Agent branding
 
-Create different [[now-assist-in-va-landing|Now Assist in Virtual Agent]] branding configurations for the various organizations that use your instance. These configurations only apply to chat widget branding on portals.
+Create different Now Assist in Virtual Agent branding configurations for the various organizations that use your instance. These configurations only apply to chat widget branding on portals.
 
 ## Before you begin
 
@@ -28,16 +28,12 @@ Create different chat widget branding configurations.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In the Display Options section, select **View All** next to **Branding**.
 
 3.  Select **New** to create a branding configuration or select **Now Assist in VA** to update it.
 
-4.  To edit the settings, see [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]].
+4.  To edit the settings, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md).
 
-## Related
 
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

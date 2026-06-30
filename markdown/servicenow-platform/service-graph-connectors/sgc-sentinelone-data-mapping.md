@@ -218,7 +218,7 @@ The following attributes in the SentinelOne Asset Tags \[sn\_sec\_sgc\_sntlone\_
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data.
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data.
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -252,7 +252,7 @@ The following attributes in the SentinelOne Additional Attributes \[sn\_sec\_sgc
 
 <table id="table_whf_nq3_ccc"><thead><tr><th>
 
-Attribute [[label|label]]
+Attribute label
 
 </th><th>
 
@@ -807,7 +807,7 @@ Missing Permissions
 missing\_permissions
 
 </td></tr></tbody>
-</table>## [[sgc-sentinelone-integration|Service Graph Connector for SentinelOne]] Properties
+</table>## Service Graph Connector for SentinelOne Properties
 
 <table id="table_r4g_4r3_ccc"><thead><tr><th>
 
@@ -830,8 +830,3 @@ Enter the number of records per page to retrieve.-   Type: string
 </td></tr></tbody>
 </table>**Note:** To open the System Properties \[sys\_properties\] table, enter sys\_properties.LIST in the navigation filter.
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[label|Label]]
-- [[sgc-sentinelone-integration|Service Graph Connector for SentinelOne]]

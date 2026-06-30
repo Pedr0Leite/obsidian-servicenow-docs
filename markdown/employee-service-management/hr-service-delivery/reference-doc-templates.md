@@ -14,7 +14,7 @@ breadcrumb: [Document Templates, HR Documents, HR Service Delivery, Employee Ser
 
 # Reference for Document Templates
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about [[document-templates-overview|Document Templates]].
+Reference topics provide additional information about Document Templates.
 
 ## Components installed with Document Templates
 
@@ -149,7 +149,7 @@ Document Template Category\[sn\_doc\_template\_category\]
 
 </td><td>
 
-Table to store [[document-types-document-templates|document template categories]].
+Table to store document template categories.
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Document Template Script\[sn\_doc\_template\_script\]
 
 </td><td>
 
-Table to store [[document-template-scripts|document template scripts]].
+Table to store document template scripts.
 
 </td></tr><tr><td>
 
@@ -177,10 +177,3 @@ Table to store page number configurations that are used in an HTML template.**No
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[document-templates-overview|Document Templates]]
-- [[document-types-document-templates|Document template categories]]
-- [[document-template-scripts|Document template scripts]]

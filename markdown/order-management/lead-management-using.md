@@ -20,19 +20,19 @@ The Lead Management interface contains the following tabs:
 
 |Tab|Description|
 |---|-----------|
-|[[lead-management-details-tab|Details tab]]|Add basic information for your lead.|
-|[[lead-management-add-product|Catalog tab]]|Search for and add product offerings to your lead.|
-|[[lead-management-use-needs-analysis|Needs tab]]|Lists the need templates that provide product recommendations for a lead.|
-|[[lead-management-use-tasks-tab|Tasks tab]]|Create lead tasks.|
-|[[lead-management-create-appointment|Appointments tab]]|Create appointments for your lead.|
-|[[lead-management-use-line-items-tab|Line items tab]]|Add different line items to a lead.|
-|[[lead-management-use-emails-tab|Emails tab]]|Create emails to communicate with the required stakeholders.|
+|[Details tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-details-tab.md)|Add basic information for your lead.|
+|[Catalog tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-add-product.md)|Search for and add product offerings to your lead.|
+|[Needs tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-needs-analysis.md)|Lists the need templates that provide product recommendations for a lead.|
+|[Tasks tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md)|Create lead tasks.|
+|[Appointments tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-create-appointment.md)|Create appointments for your lead.|
+|[Line items tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-line-items-tab.md)|Add different line items to a lead.|
+|[Emails tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-emails-tab.md)|Create emails to communicate with the required stakeholders.|
 
--   **[[create-new-lead|Create a lead]]**  
+-   **[Create a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-lead.md)**  
 Create a lead in the Lead Management application by entering the details, such as customer name, sales stage, lead type, score, and source.
--   **[[lead-management-edit-update|Update a lead]]**  
+-   **[Update a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-edit-update.md)**  
 Edit or update a lead in Lead Management.
--   **[[lead-management-assign-lead|Assign a lead]]**  
+-   **[Assign a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-assign-lead.md)**  
 Assign a lead to a sales agent in Lead Management.
 -   **[Add and view the details of a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-details-tab.md)**  
 Use the Details tab to add more information about your lead.
@@ -44,48 +44,27 @@ Choose a needs template from the product selection guide in the product catalog 
 Create a new product line item for your lead by entering the details, such as product offering and quantity.
 -   **[Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md)**  
 Create lead tasks to follow-up calls, emails, or meetings with your to progress on the lead.
--   **[[manage-touchpoints-lead|Manage touchpoints on a lead]]**  
+-   **[Manage touchpoints on a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-lead.md)**  
 View, create, and delete touchpoints associated with a lead from the touchpoints related list.
 -   **[Compose emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-emails-tab.md)**  
 Create an email to communicate the product information to your customer as per the business requirements.
--   **[[schedule-meeting-lead|Schedule a meeting from a lead]]**  
+-   **[Schedule a meeting from a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-meeting-lead.md)**  
 Schedule a client meeting directly from a lead record to associate it with the lead.
--   **[[lead-management-use-kanban-view|Manage leads using Kanban view]]**  
+-   **[Manage leads using Kanban view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-kanban-view.md)**  
 Personalize and manage the leads information that is most relevant to you and your stakeholders using the Kanban view.
--   **[[lead-management-use-convert-lead|Convert a lead into an opportunity]]**  
+-   **[Convert a lead into an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-convert-lead.md)**  
 Convert a lead into an opportunity in Lead Management.
--   **[[lead-management-disqualify-lead|Disqualify a lead]]**  
+-   **[Disqualify a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-disqualify-lead.md)**  
 Disqualify a lead in Lead Management.
--   **[[lead-management-export-leads|Export leads]]**  
+-   **[Export leads](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-export-leads.md)**  
 You can export a quote as a JSON file in Lead Management and provide it to a customer.
 
-**Parent Topic:**[[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
+**Parent Topic:**[Using lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[lead-management-details-tab|Add and view the details of a lead]]
-- [[lead-management-add-product|Add products to a lead]]
-- [[lead-management-use-needs-analysis|Get product recommendations for leads using needs analysis]]
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[lead-management-create-appointment|Create appointments for lead tasks]]
-- [[lead-management-use-line-items-tab|Add line items to a lead]]
-- [[lead-management-use-emails-tab|Compose emails]]
-- [[create-new-lead|Create a lead]]
-- [[lead-management-edit-update|Update a lead]]
-- [[lead-management-assign-lead|Assign a lead]]
-- [[manage-touchpoints-lead|Manage touchpoints on a lead]]
-- [[schedule-meeting-lead|Schedule a meeting from a lead]]
-- [[lead-management-use-kanban-view|Manage leads using Kanban view]]
-- [[lead-management-use-convert-lead|Convert a lead into an opportunity]]
-- [[lead-management-disqualify-lead|Disqualify a lead]]
-- [[lead-management-export-leads|Export leads]]
-- [[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]

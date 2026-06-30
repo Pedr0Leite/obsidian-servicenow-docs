@@ -14,7 +14,7 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # View all maturity items for Software Asset Management
 
-View the maturity of your [[c_SoftwareAssetMgmt|Software Asset Management]] \(SAM\) program to analyze the status of each maturity stage, where each stage shows the number of maturity items completed.
+View the maturity of your Software Asset Management \(SAM\) program to analyze the status of each maturity stage, where each stage shows the number of maturity items completed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ For more information, see [Maturity stages of your Software Asset Management pro
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Success portal**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **Success portal**.
 
 2.  On the Overview page, select **View all maturity items**.
 
@@ -46,15 +46,10 @@ For more information, see [Maturity stages of your Software Asset Management pro
 
     For a description of the field values, see [Maturity item details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-maturity-item-details.md).
 
-4.  If you want to [[create-valuebuilder-task|create a Value builder task]] for the maturity item, select the **[[sam-value-builder|Value builder]] tasks** tab.
+4.  If you want to create a Value builder task for the maturity item, select the **Value builder tasks** tab.
 
     For more information about creating a Value builder task, see [Create a Value builder task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-valuebuilder-task.md).
 
 5.  Select **Save**.
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[create-valuebuilder-task|Create a Value builder task]]
-- [[sam-value-builder|Value builder]]

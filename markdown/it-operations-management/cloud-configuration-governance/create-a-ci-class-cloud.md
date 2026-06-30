@@ -66,7 +66,7 @@ This topic provides general instructions for extending an existing cloud provide
 
 11. On the **Set Identification Rule** step, create an identification rule that specifies a unique Object ID, which is required for identification.
 
-    **Important:** [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] depends on the Object ID to uniquely identify an instance of the CI Class Type.
+    **Important:** Cloud Provisioning and Governance depends on the Object ID to uniquely identify an instance of the CI Class Type.
 
     1.  Click **Replace** on the default rule under **Identification Rule**.
 
@@ -109,6 +109,3 @@ Your response processor, which is part of the resource block, must also specify 
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

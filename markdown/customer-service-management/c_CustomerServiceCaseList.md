@@ -14,7 +14,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 The Cases list displays a list of customer service cases for the current user.
 
-Users with the sn\_customerservice\_agent or sn\_customerservice\_manager roles can view the Cases list in the [[c_CustomerServiceManagement|Customer Service Management]] application. The default view of the Cases list includes the following columns:
+Users with the sn\_customerservice\_agent or sn\_customerservice\_manager roles can view the Cases list in the Customer Service Management application. The default view of the Cases list includes the following columns:
 
 -   **Number**
 -   **Short description**
@@ -91,7 +91,7 @@ sn\_customerservice.customer\_admin
 -   Cases created for the customer administrator's account
 -   Cases created by contacts who have a contact relationship with the customer administrator's account
 
- **Note:** A [[c_ContactRelationships|contact relationship]] enables a contact with the customer role or customer admin role to manage the account for which the contact relationship has been established.
+ **Note:** A [contact relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ContactRelationships.md) enables a contact with the customer role or customer admin role to manage the account for which the contact relationship has been established.
 
 </td></tr><tr><td>
 
@@ -126,8 +126,3 @@ sn\_customerservice.partner
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ContactRelationships|Contact relationships]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

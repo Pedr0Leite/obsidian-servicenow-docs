@@ -26,7 +26,7 @@ The user that creates a journey is the journey owner. Journey owners create, mod
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], select **Journeys**.
+1.  From the Employee Center, select **Journeys**.
 
 2.  Select **Create a new journey**.
 
@@ -50,7 +50,7 @@ The user that creates a journey is the journey owner. Journey owners create, mod
 
 Journey owners and mentors with permission can edit existing journeys.
 
--   Add [[journey-accelerator-1|Journey Accelerator]] tasks to a Journey.
+-   Add Journey Accelerator tasks to a Journey.
 -   Add Journey Accelerator stages to a journey.
 -   Drag stages and tasks within a journey to change the order.
 -   Add a mentor.
@@ -59,7 +59,3 @@ Journey owners and mentors with permission can edit existing journeys.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

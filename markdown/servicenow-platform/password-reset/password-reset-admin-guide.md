@@ -14,7 +14,7 @@ breadcrumb: [Password Reset, Manage service capabilities, Extend ServiceNow AI P
 
 # Configuring Password Reset
 
-The [[password-reset-landing-page|Password Reset]] application enables an end user to reset or change a password using a [[self-service-landing|self-service]] process. Alternatively, your organization can implement a process that requires a service desk agent to reset passwords for end users.
+The Password Reset application enables an end user to reset or change a password using a self-service process. Alternatively, your organization can implement a process that requires a service desk agent to reset passwords for end users.
 
 Watch the video: [Introducing Password Reset \(video\)](https://www.youtube.com/watch?v=6VbPR7CWF0M)
 
@@ -24,7 +24,7 @@ You configure the following elements of the process for your organization:
 
 -   A connection to the credential store for your organization where user credentials, like user name and password, are securely stored.
 -   One or more user groups on the ServiceNow instance that can use the password reset process.
--   The type of identification that users must enter to identify themselves \(generally user name or [[email|email]] address\).
+-   The type of identification that users must enter to identify themselves \(generally user name or email address\).
 -   One or more verifications — Methods to verify the identity of the user. Here are some examples of the verifications:
     -   Question and answer: Answer a question that only the user knows \(based on the **Security Question verification** type\).
     -   Email: Enter a code number that was emailed to the user.
@@ -88,8 +88,3 @@ You can configure a site in the ServiceNow content management \(CMS\) applicatio
 
 **Parent Topic:**[Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-landing-page.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[self-service-landing|Self-service]]
-- [[email|Email]]

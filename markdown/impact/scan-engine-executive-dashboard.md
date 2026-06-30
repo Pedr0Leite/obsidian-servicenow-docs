@@ -72,7 +72,7 @@ Findings resolved by proposed fix
 
 </td><td>
 
-The number of findings resolved using the proposed fix feature. **Note:** This feature is only available to ServiceNow customers who have purchased the [[impact-landing-page|Impact]] Total package or the [[platform-health-idi|Platform Health]] add-on.
+The number of findings resolved using the proposed fix feature. **Note:** This feature is only available to ServiceNow customers who have purchased the Impact Total package or the Platform Health add-on.
 
 </td></tr><tr><td>
 
@@ -172,7 +172,7 @@ Total resolved findings
     -   **Findings by proposed fix applied**
     -   **Findings that were resolved manually**
 
- **Note:** The Scan Engine property **Track resolved findings** must be active to populate this chart. See [[configure-scan-engine-properties|Configure Scan Engine properties]].
+ **Note:** The Scan Engine property **Track resolved findings** must be active to populate this chart. See [Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md).
 
 </td></tr><tr><td>
 
@@ -213,8 +213,3 @@ The following tables show the data source for each overview and trend chart in t
 
 **Note:** `sn_se_scan_result` and `sn_se_summary_scan_detail` are populated from the latest full scan or delta scan, the values are updated after the scan is completed.
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

@@ -14,13 +14,13 @@ breadcrumb: [Unified Map, Configuration Management Database \(CMDB\), Configurat
 
 # Unified Map
 
-The Unified Map feature displays a graphical hierarchical map of the CMDB — CIs and the connections between them. Unified Map combines some of the capabilities of [[c_BusinesssServiceManagementMaps|Dependency Views]] and of Service Mapping into a single map experience.
+The Unified Map feature displays a graphical hierarchical map of the CMDB — CIs and the connections between them. Unified Map combines some of the capabilities of Dependency Views and of Service Mapping into a single map experience.
 
 ## Unified Map
 
-Unified Map is included in [[sg-workspace|Service Graph Workspace]] andCMDB Workspace.
+Unified Map is included in Service Graph Workspace andCMDB Workspace.
 
-Nodes on the map represent CIs in the CMDB and lines represent connections between CIs \(relationships, [[reference-document-management|references]], and other kinds of connection\). The relationships help you, for example, to assess the impact of a change to a selected node by showing CIs that are connected to it through relationships. Products such as [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md), [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md), and [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) benefit from such information.
+Nodes on the map represent CIs in the CMDB and lines represent connections between CIs \(relationships, references, and other kinds of connection\). The relationships help you, for example, to assess the impact of a change to a selected node by showing CIs that are connected to it through relationships. Products such as [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md), [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md), and [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) benefit from such information.
 
 When the Service Mapping application is active, the map also shows the composition of service instances — useful with products such as [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) and [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md). For example, you can view all CIs that are members of the 'Revenue App' service instance. You can review historical changes and then, for example, filter the CIs so that only application CIs appear on the map.
 
@@ -52,7 +52,7 @@ Use any of the following methods to open Unified Map:
     Two CIs might be connected by one or more relationships \(stored in the CI Relationship \[cmdb\_rel\_ci\] table\). For example, two CIs might be connected by the **Runs On::Runs**, **Depends On::Discovered From**, and by the **Owned By::Owns** relationships.
 
     -   A solid line indicates a relationship. The arrowhead indicates the dependent node.
-    -   A dashed line indicates a [[reference|reference]].
+    -   A dashed line indicates a reference.
     -   A badge on a line indicates the number of relationships between the CIs.
 -   **B: Content controls**
     -   **Home node search box:** Search for and select the home node — the node to focus on \(CRM in the image\). For more information, see [Controlling Unified Map contents and appearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-appearance.md).
@@ -87,9 +87,3 @@ Use any of the following methods to open Unified Map:
 
 [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]

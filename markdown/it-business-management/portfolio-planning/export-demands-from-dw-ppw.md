@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Next Experience for Demand Management in Portfolio 
 
 # Export demands
 
-Export demand records from the Next Experience for [[c_DemandManagement|Demand Management]] to share data with stakeholders or perform further analysis outside the platform.
+Export demand records from the Next Experience for Demand Management to share data with stakeholders or perform further analysis outside the platform.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Demands**.
 
 2.  Select the demands that you want to export.
 
@@ -42,7 +42,4 @@ Role required: it\_demand\_manager
 
     The export file is downloaded on your system or mailed to your provided email addressed.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

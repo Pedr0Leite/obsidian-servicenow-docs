@@ -18,14 +18,14 @@ Set up scheduled import jobs to pull in data from a Wiz project into your CMDB.
 
 ## Before you begin
 
-**Important:** Starting with the [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]] version 1.4.0, the guided setup method is deprecated. Use the [[sgcc-landing|SGC Central]] view in the CMDB Workspace to configure the connection for the connector.
+**Important:** Starting with the Service Graph Connector for Wiz version 1.4.0, the guided setup method is deprecated. Use the SGC Central view in the CMDB Workspace to configure the connection for the connector.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
 Dependencies and requirements:
 
 -   Wiz advanced or standard license
--   The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+-   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   ITOM Licensing plugin \(com.snc.itom.license\). See [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
 -   Discovery and Service Mapping Patterns \(sn\_itom\_pattern\). See [Install Discovery and Service Mapping Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/install-discovery-service-mapping-patterns.md).
@@ -53,7 +53,7 @@ Role required: admin
 
     For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Wiz** &gt; **Setup**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Wiz** &gt; **Setup**.
 
 3.  On the Service Graph Connector for Wiz page, verify that the **Quick Start** option is selected and then select **Continue**.
 
@@ -89,7 +89,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to your Wiz application. **Note:** Based on the region of your Wiz application, enter the connection URL in the following format:
+Base URL to connect to your Wiz application. **Note:** Based on the region of your Wiz application, enter the connection URL in the following format:
 
 ```
 https://api.*&lt;region&gt;*.app.wiz.io
@@ -126,7 +126,7 @@ https://auth.app.wiz.io/oauth/token
 </td></tr></tbody>
 </table>        4.  Select **Edit and Get OAuth Token**.
         5.  Return to the guided setup.
-        6.  Set the Configure the Connection task to complete by selecting the **Mark as complete** [[check-box|check box]] and then select **Continue**.
+        6.  Set the Configure the Connection task to complete by selecting the **Mark as complete** check box and then select **Continue**.
     3.  Configure the connection properties.
 
         1.  Select the Add configuration properties task.
@@ -190,11 +190,4 @@ https://auth.app.wiz.io/oauth/token
 
 8.  In the message box that appears, select **Done**.
 
-## Related
 
-- [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]]
-- [[sgcc-landing|SGC Central]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

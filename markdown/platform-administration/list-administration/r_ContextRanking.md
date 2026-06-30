@@ -23,14 +23,9 @@ If you have the admin role, you can activate the Context Ranking plugin \(com.gl
 -   **[Create a ranking definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_CreatingARankingDefinition.md)**  
 Enable context ranking for a related list by creating a ranking definition.
 -   **[Rank a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_RankingAList.md)**  
-After you [[t_CreatingARankingDefinition|create a ranking definition]] for a table, related lists based on that table and context include options for ranking the list and displaying the list by rank.
+After you create a ranking definition for a table, related lists based on that table and context include options for ranking the list and displaying the list by rank.
 -   **[Scrum ranking definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ScrumRankingDefinitions.md)**  
-Ranking [[clone-exclusions-preservers-cleanupscripts|definitions]] for user stories are part of the SDLC \(scrum process\) application.
+Ranking definitions for user stories are part of the SDLC \(scrum process\) application.
 
-**Parent Topic:**[[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]]
+**Parent Topic:**[ServiceNow AI Platform forms, fields, and lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-platform-forms-fields-lists.md)
 
-## Related
-
-- [[now-platform-forms-fields-lists|ServiceNow AI Platform forms, fields, and lists]]
-- [[t_CreatingARankingDefinition|Create a ranking definition]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

@@ -15,11 +15,11 @@ breadcrumb: [Use, Core Business Suite]
 
 Requesters in CBS can use Now Assist in the conversational interface and in search functionality to raise requests and get AI-enabled responses.
 
-After the [[cbs-landing|Core Business Suite]] application setup, requesters gain access to enhanced Now Assist capabilities. These configurations enable AI assistance for raising and managing requests across HR, Legal services, Health &amp; Safety, Workplace services, Finance, and Procurement.
+After the Core Business Suite application setup, requesters gain access to enhanced Now Assist capabilities. These configurations enable AI assistance for raising and managing requests across HR, Legal services, Health &amp; Safety, Workplace services, Finance, and Procurement.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-The Now Assist configuration activates automatically when the **CBS NAVA preset** runs during installation. This one-time action establishes the foundation for Now Assist enabled requester interactions. For more information, see [[cbs-default-configs|Core Business Suite Foundation default configurations]].
+The Now Assist configuration activates automatically when the **CBS NAVA preset** runs during installation. This one-time action establishes the foundation for Now Assist enabled requester interactions. For more information, see [Core Business Suite Foundation default configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-default-configs.md).
 
 The conversational interface provides natural language interaction for request submission and support. Enhanced search functionality delivers relevant results from comprehensive data sources across departments.
 
@@ -27,10 +27,5 @@ The configuration aggregates data from all business units within your organizati
 
 The Now Assist search sources also consider your Employee Center content to resolve queries and service requests.
 
-**Parent Topic:**[[cbs-using-parent|Using Core Business Suite]]
+**Parent Topic:**[Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
 
-## Related
-
-- [[cbs-default-configs|Core Business Suite Foundation default configurations]]
-- [[cbs-using-parent|Using Core Business Suite]]
-- [[cbs-landing|Core Business Suite]]

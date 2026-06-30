@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Mapping application services containing Oracle Tuxedo platform
 
-[[c_ServiceMappingOverview|Service Mapping]] can discover application services containing Oracle Tuxedo platform and its components.
+Service Mapping can discover application services containing Oracle Tuxedo platform and its components.
 
 ## Discovered components
 
@@ -36,7 +36,7 @@ Protocol
 
 </th><th>
 
-[[r-discovery|Discovery]] type
+Discovery type
 
 </th><th>
 
@@ -163,7 +163,3 @@ If the mapping result is not as you expected, perform basic troubleshooting.
 |Service Mapping fails to discover the Tuxedo CI. The discovery log displays the message that states that the credentials are insufficient for running the command including "permissions.tmadadmin -v".|The provided user does not have elevated permissions for running this command.|Make sure that you provided a user with permissions to run [commands requiring elevated rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md).|
 |Service Mapping fails to discover the Tuxedo CI. The discovery log displays the message that states that the user cannot run the tux.env script.|The provided user does not have the permissions to run the tux.env script.|Make sure that you provided a user with permissions to run the tux.env script.|
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

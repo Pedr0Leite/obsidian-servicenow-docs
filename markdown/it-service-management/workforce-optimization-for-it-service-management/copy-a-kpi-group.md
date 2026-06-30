@@ -22,7 +22,7 @@ Role required: sn\_team\_perf.team\_performance\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Team Performance** &gt; **KPI Groups**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Team Performance** &gt; **KPI Groups**.
 
 2.  Open any KPI group that you want to copy.
 
@@ -35,6 +35,3 @@ Role required: sn\_team\_perf.team\_performance\_admin
 
 **Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

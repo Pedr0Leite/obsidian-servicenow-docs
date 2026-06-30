@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro reference, Employee Center Pro, Unified Employe
 
 # Components installed with Content engagement
 
-Several types of components are installed with activation of the [[ec-content-engagement|Content engagement]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Content engagement plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -70,7 +70,7 @@ None
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content Experiences]()
 
@@ -106,7 +106,3 @@ None
 
 [To-do content form]()
 
-## Related
-
-- [[ec-content-engagement|Content engagement]]
-- [[employee-center-landing-page|Employee Center]]

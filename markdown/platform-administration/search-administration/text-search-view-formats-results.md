@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Text search views control format of global search results for tables
 
-The text\_search view for a table determines how global search displays [[hs-results|results]] from that table.
+The text\_search view for a table determines how global search displays results from that table.
 
 Results displayed by global search include multiple elements. For each search result, the system populates these elements with values of fields included in the table's text\_search list view.
 
@@ -101,6 +101,3 @@ Multiple tables are enabled for global search in the base system. Each global se
 
 [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md)
 
-## Related
-
-- [[hs-results|Results]]

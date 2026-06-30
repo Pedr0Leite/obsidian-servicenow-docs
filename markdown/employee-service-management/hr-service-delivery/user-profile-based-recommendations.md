@@ -14,7 +14,7 @@ breadcrumb: [Machine learning solutions for HR Service Delivery, Integration of 
 
 # Discovering knowledge articles and catalog items for employees
 
-[[discover-lxp|Discover]] all the users who have a similar profile as the employee who has logged in to Employee Service Center. Identify the top viewed knowledge articles and top submitted catalog items by those users. Display the top three knowledge articles and top three catalog items to the employee.
+Discover all the users who have a similar profile as the employee who has logged in to Employee Service Center. Identify the top viewed knowledge articles and top submitted catalog items by those users. Display the top three knowledge articles and top three catalog items to the employee.
 
 ## Top three knowledge articles and top three catalog items
 
@@ -37,14 +37,9 @@ You can [manually train the predictive model](https://raw.githubusercontent.com/
 You can also configure the following widget options:
 
 -   **User prediction count**: Number of similar users discovered by the predictive model. By default, the top 25 similar users are discovered for the user.
--   **Recent [[activity-lxp|activity]] cut off days**: Number of days considered by the predictive model for querying the articles and catalog items. By default, the last 30 days activity is checked from the Knowledge Use table, Requested Items table, and Items Produced Records table.
+-   **Recent activity cut off days**: Number of days considered by the predictive model for querying the articles and catalog items. By default, the last 30 days activity is checked from the Knowledge Use table, Requested Items table, and Items Produced Records table.
 
 To configure the widget options, navigate to the **Service Portal Configuration** module, select the widget editor, search for **Relevant for you**, and click **Edit Option Schema**.
 
-**Parent Topic:**[Machine [[exploring-learning-exp|learning]] solutions for HR Service Delivery]()
+**Parent Topic:**[Machine learning solutions for HR Service Delivery]()
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[activity-lxp|Activity]]
-- [[exploring-learning-exp|Learning]]

@@ -32,7 +32,7 @@ Role required: sn\_si.admin.
 
 5.  Go to the View name, and select **Risk Score Calculator**.
 
-    After you select the view, choose the required related list that you want to add from the slush bucket. For example, Associated [[indicator-sightings|Sightings]].
+    After you select the view, choose the required related list that you want to add from the slush bucket. For example, Associated Sightings.
 
 6.  Select **Save**.
 
@@ -48,11 +48,11 @@ Role required: sn\_si.admin.
     -   Add Relation to Score Calculator Queue \(This is applicable for m2m tables\)
     \[Omitted image "risk-br-list-view.png"\] Alt text: Business rules
 
-8.  For example, to get the associated [[c_Observables|observables]] criteria to work, we have defined two business rules.
+8.  For example, to get the associated observables criteria to work, we have defined two business rules.
 
     The first is the **Add SIs To Score Calculator Queue** business rule.
 
-    For example, a new security incident is created and associated with an observable \(`Observables[sn_ti_observable]`\) table. After [[tisc-threat-lookup|threat lookup]], the observable is found to be malicious. You then need to add all the security incidents associated with this malicious observable to the Queue to recalculate the risk score of the security incidents.
+    For example, a new security incident is created and associated with an observable \(`Observables[sn_ti_observable]`\) table. After threat lookup, the observable is found to be malicious. You then need to add all the security incidents associated with this malicious observable to the Queue to recalculate the risk score of the security incidents.
 
     \[Omitted image "risk-br-si-score.png"\] Alt text: Add SIs To Score Calculator Queue business rule
 
@@ -65,8 +65,3 @@ Role required: sn\_si.admin.
 
 **Parent Topic:**[Define the new Risk Score Calculator Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/define-risk-score-calculator-rules-sir.md)
 
-## Related
-
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]

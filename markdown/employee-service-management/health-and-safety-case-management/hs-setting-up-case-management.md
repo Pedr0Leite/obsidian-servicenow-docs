@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Serv
 
 # Configuring Health and Safety Case Management
 
-Set up your implementation for [[hs-case-management-landing-page|Health and Safety Case Management]] by installing the application and reviewing and configuring the components that are installed with the application.
+Set up your implementation for Health and Safety Case Management by installing the application and reviewing and configuring the components that are installed with the application.
 
 ## Configuration overview
 
@@ -25,6 +25,3 @@ Configure the HR service that you want to use for creating HR cases for injuries
 
 **Parent Topic:**[Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/health-safety-overview.md)
 
-## Related
-
-- [[hs-case-management-landing-page|Health and Safety Case Management]]

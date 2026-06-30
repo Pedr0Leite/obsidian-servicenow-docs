@@ -20,7 +20,7 @@ You can configure shopping cart status screens for desktop and Classic Mobile or
 
 ## Configure desktop order status screen
 
-Using [[service-catalog|Service Catalog]], customize the order status screen that is displayed on desktops.
+Using Service Catalog, customize the order status screen that is displayed on desktops.
 
 ### Before you begin
 
@@ -65,6 +65,4 @@ You cannot modify widget macros or button labels on Classic Mobile devices.
 
     \[Omitted image "Service\_Catalog\_Mobile\_Status\_View.png"\] Alt text:
 
-## Related
 
-- [[service-catalog|Service Catalog]]

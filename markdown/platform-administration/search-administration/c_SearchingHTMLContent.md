@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Zing indexes some HTML elements
 
-Zing indexes the contents of certain HTML elements to improve document search [[hs-results|results]]. This indexing is addition to the normal indexing by word.
+Zing indexes the contents of certain HTML elements to improve document search results. This indexing is addition to the normal indexing by word.
 
 |HTML element|Description|
 |------------|-----------|
@@ -51,6 +51,3 @@ Zing indexes the contents of certain HTML elements to improve document search [[
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

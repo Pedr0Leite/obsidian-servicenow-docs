@@ -23,7 +23,7 @@ Map a field of your preference for a Jira project.
 
 ## About this task
 
-If you have a custom field for a Jira project that you want to map with a field in [[agile-landing-page|Agile Development 2.0]], you can create custom field map configuration that would apply only to this Jira project.
+If you have a custom field for a Jira project that you want to map with a field in Agile Development 2.0, you can create custom field map configuration that would apply only to this Jira project.
 
 If you have a custom field that is applicable to all Jira projects of a specific project type, see [Apply custom map configuration to multiple Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/apply-custom-field-map-to-all-jira-projects.md).The following field types are supported for custom field map configuration:
 
@@ -104,7 +104,7 @@ Display name of the field in Jira. Ensure that this field is added to the Jira p
 
 ## What to do next
 
-1.  Validate your field map configuration by clicking **Validate and fix mapping** from your [[create-a-project-form|project form]].
+1.  Validate your field map configuration by clicking **Validate and fix mapping** from your project form.
 2.  From the Table maps related list of your project, navigate to your new field map configuration. If the Valid column of your configuration shows:
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter the correct values for all fields and validate again.
@@ -122,7 +122,3 @@ When you select a reference field for the **Internal Field** field, you must sel
 
 During import, the integration application searches for the record in the reference table using the **Lookup Column Name** field. If the record is not found, the value in the work item will be empty in Agile Development 2.0.
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[create-a-project-form|Project form]]

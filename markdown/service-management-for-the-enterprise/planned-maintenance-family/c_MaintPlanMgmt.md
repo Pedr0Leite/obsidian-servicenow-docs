@@ -14,13 +14,13 @@ breadcrumb: [Planned Maintenance, Service Management]
 
 # Managing maintenance plans
 
-[[c_SMPlanMaint|Planned Maintenance]] allows you to create, maintain, and schedule maintenance for equipment that requires regular maintenance.
+Planned Maintenance allows you to create, maintain, and schedule maintenance for equipment that requires regular maintenance.
 
 The maintenance plan specifies the CI class, product model, or other criteria, such as location, and specifies the maintenance to be performed. The maintenance schedule specifies the timing, by specifying how often and when to perform the maintenance.
 
 For example, you can configure a maintenance plan to inspect and clean all air conditioners for a particular product model. The maintenance schedule specifies that the inspection is performed every six months.
 
-Maintenance plans and schedules also take into consideration [[c_ServiceManagement|service management]] work orders and [[c_FacilitiesRequests|facilities requests]] opened against that equipment.
+Maintenance plans and schedules also take into consideration service management work orders and facilities requests opened against that equipment.
 
 ## Timing the first maintenance
 
@@ -56,8 +56,3 @@ You can view all maintenance performed on a particular CI, the next scheduled ma
 
 **Parent Topic:**[Planned Maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_SMPlanMaint.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]
-- [[c_ServiceManagement|Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]

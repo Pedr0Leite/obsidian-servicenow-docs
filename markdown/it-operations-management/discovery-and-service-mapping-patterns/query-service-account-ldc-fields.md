@@ -19,7 +19,7 @@ The **Populate Service Account and LDC IN CMDB** scheduled job populates the Ser
 
 Cloud Service Account \(such as AWS Account, Azure Subscription, or GCP Project\) and Logical Datacenter \(such as AWS, Azure, or GCP Regions\) information is stored separately from cloud CIs. To retrieve account or datacenter information for a cloud resource, queries require joins across multiple tables, including the relationship table that connects CIs. Similarly, Virtual Machine Object information is stored separately from the Hardware CI, requiring additional joins to retrieve data from the Virtual Machine Object \[cmdb\_ci\_vm\_object\] table. With potentially millions of records in the relationship table, these joins could increase query time for teams working with cloud infrastructure data.
 
-Starting with the [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns version 1.30.2, you can enable a feature that denormalizes cloud CI tables by populating the **Service Account** \[cloud\_service\_account\] and **Logical Datacenter** \[logical\_datacenter\] fields directly in cloud CI tables. The scheduled job also references tables extended from the Virtual Machine Object \[cmdb\_ci\_vm\_object\] table via the Virtual Machine Object reference field in the Hardware \[cmdb\_ci\_hardware\] table. Populating these fields directly reduces the need for complex joins, supporting more efficient queries for reporting, analytics, and operational workflows involving cloud resources. After you enable this feature, Discovery populates these fields for both existing and newly discovered CIs.
+Starting with the Discovery and Service Mapping Patterns version 1.30.2, you can enable a feature that denormalizes cloud CI tables by populating the **Service Account** \[cloud\_service\_account\] and **Logical Datacenter** \[logical\_datacenter\] fields directly in cloud CI tables. The scheduled job also references tables extended from the Virtual Machine Object \[cmdb\_ci\_vm\_object\] table via the Virtual Machine Object reference field in the Hardware \[cmdb\_ci\_hardware\] table. Populating these fields directly reduces the need for complex joins, supporting more efficient queries for reporting, analytics, and operational workflows involving cloud resources. After you enable this feature, Discovery populates these fields for both existing and newly discovered CIs.
 
 \[Omitted image "multi-joins-vs-direct-fields.png"\] Alt text: Comparison between complex multi-table joins without the feature versus direct field access with the feature
 
@@ -78,7 +78,3 @@ Populate Service Account, Logical Datacenter, and Virtual Machine Object fields 
 
 [Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

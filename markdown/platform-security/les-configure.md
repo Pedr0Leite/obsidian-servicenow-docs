@@ -12,23 +12,16 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 # Configuring Log Export Service \(LES\)
 
-Use guided setup to step through the initial [[sc-configuration|configuration]] of LES. Guided setup assists you with planning the roll-out of the product and performing the basic configuration to go live.
+Use guided setup to step through the initial configuration of LES. Guided setup assists you with planning the roll-out of the product and performing the basic configuration to go live.
 
 Guided setup organizes configuration activities into categories. Each category provides information, such as planning guidance, pre-setup steps, and links to useful help content. Categories also provide a set of links to the pages in your instance where you perform the configuration. The guided setup process keeps track of what you have completed, so you can stop and start again where you left off.
 
--   **[[les-kafka-consumer|Kafka consumer]]**  
+-   **[Kafka consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-kafka-consumer.md)**  
 Use guided setup to step through the initial configuration of LES for Kafka consumers.
--   **[[les-mid-server-consumer|MID server consumer]]**  
+-   **[MID server consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-mid-server-consumer.md)**  
 Use guided setup to step through the initial configuration of LES for MID server consumer.
--   **[[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]]**  
+-   **[Set up a secure connection to the Hermes Messaging Service for LES](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-hermes-cert.md)**  
 Secure your Kafka topics by generating a ServiceNow® instance-signed certificate.
 
-**Parent Topic:**[[les-intro|Log Export Service \(LES\)]]
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 
-## Related
-
-- [[les-kafka-consumer|Kafka consumer]]
-- [[les-mid-server-consumer|MID server consumer]]
-- [[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[sc-configuration|Configuration]]

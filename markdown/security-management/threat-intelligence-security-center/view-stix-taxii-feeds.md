@@ -14,7 +14,7 @@ breadcrumb: [View Threat Intel Feeds, Threat Intelligence Feeds, Integrate, Thre
 
 # View STIX TAXII Feeds
 
-View and manage STIX TAXII [[threat-intelligence-feeds|threat intelligence feeds]] that provide automated security data to your ServiceNow instance.
+View and manage STIX TAXII threat intelligence feeds that provide automated security data to your ServiceNow instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Integrations** icon.
 
@@ -32,9 +32,9 @@ Role required: sn\_sec\_tisc.admin
 
     |Threat Feed|Description|URL|
     |-----------|-----------|---|
-    |Cyware TAXII|The Cyware [[threat-intel-landing-page|Threat Intelligence]] eXchange \(CTIX\) is a platform that facilitates cyberthreat intelligence sharing. It enables organizations to share threat intelligence among themselves.|[https://threatfeed.cyware.com/ctixapi/ctix21/](https://threatfeed.cyware.com/ctixapi/ctix21/)|
+    |Cyware TAXII|The Cyware Threat Intelligence eXchange \(CTIX\) is a platform that facilitates cyberthreat intelligence sharing. It enables organizations to share threat intelligence among themselves.|[https://threatfeed.cyware.com/ctixapi/ctix21/](https://threatfeed.cyware.com/ctixapi/ctix21/)|
     |RecordedFuture TAXII|Recorded Future is an independent threat intelligence cloud platform. It enables organizations to identify and mitigate threats across cyber, supply-chain, physical and fraud domains.|[https://api.recordedfuture.com/taxii2](https://api.recordedfuture.com/taxii2)|
-    |Pulsedive TAXII|Pulsedive is a threat intelligence platform. It provides a wide range of cyberthreat intelligence services and [[tools|tools]] to organizations.|[https://pulsedive.com/taxii2/api/](https://pulsedive.com/taxii2/api/)|
+    |Pulsedive TAXII|Pulsedive is a threat intelligence platform. It provides a wide range of cyberthreat intelligence services and tools to organizations.|[https://pulsedive.com/taxii2/api/](https://pulsedive.com/taxii2/api/)|
 
 4.  Select **Edit** to edit the feed, if required.
 
@@ -43,9 +43,3 @@ Role required: sn\_sec\_tisc.admin
 
 **Parent Topic:**[View Threat Intel Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/base-system-threat-intel-feeds.md)
 
-## Related
-
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]

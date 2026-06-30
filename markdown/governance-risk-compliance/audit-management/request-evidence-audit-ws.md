@@ -14,7 +14,7 @@ breadcrumb: [Audit Supervisor Workspace, Audit Workspace Overview, Audit Managem
 
 # Request evidence during audits using Audit Workspace
 
-Request evidence at any stage during an audit using the [[audit-management-overview-ws|Audit Workspace]]. The details about the items for which evidence is requested are also provided to the person responsible for providing the evidence.
+Request evidence at any stage during an audit using the Audit Workspace. The details about the items for which evidence is requested are also provided to the person responsible for providing the evidence.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Number
 
 </td><td>
 
-Unique number of the [[evidence-request|evidence request]].
+Unique number of the evidence request.
 
 </td></tr><tr><td>
 
@@ -337,7 +337,4 @@ Instructions for providing evidence. For example, list of supporting documents, 
 
     The Evidence related list appears with the list of evidences and the person who is assigned the request receives an email notification to provide the requested evidence. Also, the state of the request changes to **Work in Progress**.You can view the description. Monitor the state of the Evidence request in the stepper of the Overview page as it progresses through the evidence request process flow.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[evidence-request|Evidence request]]

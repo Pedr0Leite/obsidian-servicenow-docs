@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Admin** &gt; **Admin Home** &gt; **[[cbs-landing|Core Business Suite]]**.
+1.  Navigate to **Admin** &gt; **Admin Home** &gt; **Core Business Suite**.
 
 2.  On the Product Hub page, select **Configure** to open the Configuration Console page.
 
@@ -31,17 +31,12 @@ Role required: admin
 
 5.  On the CBS Client Role Rule form, fill in the fields and select **Submit**.
 
-    For a description of the field values, see [[cbs-role-rule-form|CBS Client Role Rule form]].
+    For a description of the field values, see [CBS Client Role Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-role-rule-form.md).
 
 
 ## Result
 
 A role rule is created to determine how the CBS requester role gets assigned to your employees.
 
-**Parent Topic:**[[cbs-requester-role-enhancements|CBS requester role enhancements]]
+**Parent Topic:**[CBS requester role enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-requester-role-enhancements.md)
 
-## Related
-
-- [[cbs-role-rule-form|CBS Client Role Rule form]]
-- [[cbs-requester-role-enhancements|CBS requester role enhancements]]
-- [[cbs-landing|Core Business Suite]]

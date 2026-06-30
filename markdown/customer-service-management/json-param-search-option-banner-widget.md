@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal Widgets reference, Reference, Customer Service 
 
 # Script parameters for the search option in the Portal Banner widget
 
-Description of the JSON parameters for the search option in the [[portal-banner-widget|Portal Banner widget]].
+Description of the JSON parameters for the search option in the Portal Banner widget.
 
 |Parameter|Description|
 |---------|-----------|
@@ -25,6 +25,3 @@ Description of the JSON parameters for the search option in the [[portal-banner-
 
 [Add and configure the Portal Banner widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-banner-widget-inst-opt.md)
 
-## Related
-
-- [[portal-banner-widget|Portal Banner widget]]

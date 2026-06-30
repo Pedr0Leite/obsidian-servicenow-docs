@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The following matching [[gamification-components-rules|rules]], which are available by default, are based on the selection criteria matching type:
+The following matching rules, which are available by default, are based on the selection criteria matching type:
 
 |Rule name|Work configuration name|Table|UX app route|
 |---------|-----------------------|-----|------------|
@@ -32,11 +32,11 @@ The following matching [[gamification-components-rules|rules]], which are availa
 |Change Request Matching rule|Change Request|Change Request \[change\_request\]|Change requests|
 |Change Task Matching rule|Change Task|Change Task \[change\_task\]|Change task|
 
-For information on how matching criteria works, see [[work-items-assignment-matching-criteria-wfo-cs|Matching criteria for work items in Work scheduler]].
+For information on how matching criteria works, see [Matching criteria for work items in Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-items-assignment-matching-criteria-wfo-cs.md).
 
 The following four criteria are available by default:
 
--   WFO-[[mandatory-skills|Mandatory skills]]
+-   WFO-Mandatory skills
 -   WFO-Availability
 -   WFO-Optional skills
 -   WFO-Timezone overlap
@@ -51,7 +51,7 @@ The following four criteria are available by default:
 
 4.  Fill in the fields on the form.
 
-    For information on creating a new matching criteria, see [[create-assignment-wkbench-criteria|Create assignment workbench matching criteria]].
+    For information on creating a new matching criteria, see [Create assignment workbench matching criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-assignment-wkbench-criteria.md).
 
 5.  Select **Submit**.
 
@@ -59,12 +59,5 @@ The following four criteria are available by default:
 -   **[Matching criteria for work items in Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-items-assignment-matching-criteria-wfo-cs.md)**  
 The assignment workbench uses configurable matching criteria, such as skills and availability, to evaluate the agents in a selected group and provide an overall ranking.
 
-**Parent Topic:**[[work-scheduler-wfo-cs|Assigning work using Work Scheduler in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs.md)
 
-## Related
-
-- [[work-items-assignment-matching-criteria-wfo-cs|Matching criteria for work items in Work scheduler]]
-- [[create-assignment-wkbench-criteria|Create assignment workbench matching criteria]]
-- [[work-scheduler-wfo-cs|Assigning work using Work Scheduler in Workforce Optimization for Customer Service]]
-- [[gamification-components-rules|Rules]]
-- [[mandatory-skills|Mandatory skills]]

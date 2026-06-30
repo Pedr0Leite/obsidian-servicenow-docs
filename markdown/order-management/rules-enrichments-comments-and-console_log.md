@@ -12,9 +12,9 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 # Using comments and the console to debug scripts
 
-Learn how comments and the console can help you debug your [[scripts|scripts]].
+Learn how comments and the console can help you debug your scripts.
 
-CPQ has several areas where the admin can use scripts to define behavior. These include advanced conditions for [[rules_101|rules]], advanced actions for rules, and enrichments.
+CPQ has several areas where the admin can use scripts to define behavior. These include advanced conditions for rules, advanced actions for rules, and enrichments.
 
 ## Advanced conditions for rules
 
@@ -77,7 +77,7 @@ When you add a multiline comment, be careful not to comment out important elemen
 
 \[Omitted image "cpq-scripting-comments-multi-line.png"\] Alt text: Comments
 
-When you frequently revisit or [[Modify|modify]] a rule that takes inputs from many other [[fields|fields]], it can be helpful to paste the input into the debugger section as a multiline comment. This way, when you return to work on the rule later, you won't need to rewrite the inputs.
+When you frequently revisit or modify a rule that takes inputs from many other fields, it can be helpful to paste the input into the debugger section as a multiline comment. This way, when you return to work on the rule later, you won't need to rewrite the inputs.
 
 ```
 /* inputs
@@ -88,9 +88,3 @@ When you frequently revisit or [[Modify|modify]] a rule that takes inputs from m
 */
 ```
 
-## Related
-
-- [[scripts|Scripts]]
-- [[rules_101|Rules]]
-- [[Modify|Modify]]
-- [[fields|Fields]]

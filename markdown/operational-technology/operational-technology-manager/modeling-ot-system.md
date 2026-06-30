@@ -15,7 +15,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Modeling an Operational Technology system service
 
-You can model an [[operational-technology-overview|Operational Technology]] \(OT\) system service to create other control systems, such as a distributed control system \(DCS\).
+You can model an Operational Technology \(OT\) system service to create other control systems, such as a distributed control system \(DCS\).
 
 An OT system service refers to a category of technology and systems that are used to manage, control, and monitor physical processes, machinery, and industrial operations. OT system services are typically employed in sectors such as manufacturing, energy, utilities, and transportation.
 
@@ -59,6 +59,3 @@ View the dependency map for an Operational Technology \(OT\) system service to s
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

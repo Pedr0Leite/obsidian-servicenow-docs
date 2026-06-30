@@ -24,7 +24,7 @@ When workflow performance timing is enabled, the workflow engine tracks key perf
 
 ## Workflow estimated run time properties
 
-Administrators can enable the collection of [[c_WorkflowRunTimeMetrics|workflow run time metrics]] by setting Estimated Run Time \(ERT\) properties.
+Administrators can enable the collection of workflow run time metrics by setting Estimated Run Time \(ERT\) properties.
 
 Administrators can use ERT metrics to determine if workflows are running longer or shorter than expected and to identify errors in workflow processing. The system displays run time metrics on the Workflow Operations Dashboard.
 
@@ -46,6 +46,4 @@ Role required: admin
     |Type|true \| false|
     |Value|true|
 
-## Related
 
-- [[c_WorkflowRunTimeMetrics|Workflow run time metrics]]

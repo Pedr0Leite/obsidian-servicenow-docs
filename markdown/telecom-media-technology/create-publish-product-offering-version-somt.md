@@ -16,7 +16,7 @@ Create and publish a version of an existing product offering in a Published stat
 
 ## Before you begin
 
-Before you can create a version of a product offering, an initial base version of the product offering must exist and already be published. The type of information that you supply for a new version is the same as what you entered for an initial base version, but with certain differences. To learn more, see [[create-product-offerings-somt|Create and publish your product offerings to a catalog]].
+Before you can create a version of a product offering, an initial base version of the product offering must exist and already be published. The type of information that you supply for a new version is the same as what you entered for an initial base version, but with certain differences. To learn more, see [Create and publish your product offerings to a catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-product-offerings-somt.md).
 
 Role required: sn\_prd\_pm.product-catalog\_manager
 
@@ -83,7 +83,3 @@ Copy the data in this product offering so that you can create a product offering
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-product-offerings-somt|Create and publish your product offerings to a catalog]]

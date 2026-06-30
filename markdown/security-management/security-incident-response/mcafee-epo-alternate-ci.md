@@ -14,9 +14,9 @@ breadcrumb: [Capability profiles, McAfee ePO integration, Security Incident Resp
 
 # Defining triggering conditions with a Configuration item \(CI\) field
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the McAfee ePO capabilities that you want the profile to run, you configure the settings of the profile so that it runs only when a set of specific conditions are met.
+After you create a profile and select the McAfee ePO capabilities that you want the profile to run, you configure the settings of the profile so that it runs only when a set of specific conditions are met.
 
-You have the flexibility to set these triggering conditions so the profile runs automatically based on the default field values that are matched on a ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] security incident. Alternatively, you can set up a profile so it searches for matches on field values you specifically identify on the security incident.
+You have the flexibility to set these triggering conditions so the profile runs automatically based on the default field values that are matched on a ServiceNow AI Platform® Security Incident Response security incident. Alternatively, you can set up a profile so it searches for matches on field values you specifically identify on the security incident.
 
 One of the keys to the functionality of the integration and how a profile works is the Configuration Item \(CI\) field on the ServiceNow AI Platform® Security Incident Response \(SIR\) security incident. The value of this field is the principle value on a security incident. This value is used to match the IDs of your assets with the information stored in the ServiceNow AI Platform® database. When a SIR security incident is created by a security event, and a profile is activated, your assets are scanned for a matching value for a Fully Qualified Domain Name \(FQDN\), a host name, or an IP address based on the value of the Configuration Item field.
 
@@ -28,7 +28,7 @@ In cases when the Configuration item \(CI\) field is not populated on the securi
 
 During the configuration step of the profile setup, you can select an alternate CI trigger field for endpoint identification to ensure that the CI enrichment data from the McAfee ePO lookup is populated on the associated security incident. You can select any field on the security incident as an alternate CI trigger field including custom fields that you create. By selecting this alternate CI field as a backup, you ensure that your profiles run even if the CI field is not populated on the associated security incident upon incident creation.
 
-As an example, as a [[security-operations-landing-page|security operations]] center \(SOC\) analyst, you create a custom field for a security incident called, IP Address on my security incident. If you do not think that the value of this custom field will be displayed in the Configuration Item field on the security incident upon incident creation, you can set up the profile so it scans for this IP address. If matched, the IP address is displayed on the security incident in the field of your choice. In the following figure, the `Identified CI` field is selected as the alternate field for the IP Address for this example.
+As an example, as a security operations center \(SOC\) analyst, you create a custom field for a security incident called, IP Address on my security incident. If you do not think that the value of this custom field will be displayed in the Configuration Item field on the security incident upon incident creation, you can set up the profile so it scans for this IP address. If matched, the IP address is displayed on the security incident in the field of your choice. In the following figure, the `Identified CI` field is selected as the alternate field for the IP Address for this example.
 
 \[Omitted image "mcafee-si-ci-fieldexmp2.png"\] Alt text: Identified CI field highlighted as alternate CI field.
 
@@ -42,8 +42,3 @@ You enable the alternate CI trigger field and select the field you want to displ
 
 **Parent Topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

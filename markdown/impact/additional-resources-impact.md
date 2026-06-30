@@ -12,7 +12,7 @@ breadcrumb: [Impact]
 
 # Additional resources for Impact
 
-If you’re looking for [[impact-landing-page|Impact]] leading practices, troubleshooting, or other informational guidelines, select a feature or resource type to discover additional ServiceNow resources.
+If you’re looking for Impact leading practices, troubleshooting, or other informational guidelines, select a feature or resource type to discover additional ServiceNow resources.
 
 **Note:** Many resources in this table require you to log in to sites like ServiceNow ServiceNow University, Now Create, or the ServiceNow Community. If the expected resource does not load, please log in and try to access the resource again.
 
@@ -79,7 +79,7 @@ Getting started
 
 </td></tr><tr><td>
 
-[[platform-health-idi|Platform Health]]
+Platform Health
 
 </td><td>
 
@@ -140,8 +140,3 @@ Getting Started
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

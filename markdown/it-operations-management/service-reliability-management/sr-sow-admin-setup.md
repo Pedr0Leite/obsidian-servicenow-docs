@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # Service Operations Workspace setup for SRM
 
-Install and configure [[sr-landing-page|Service Reliability Management]] \(SRM\) within the [[workspace-dashboard-use|Service Operations Workspace]] Admin Center so that SRM admins, managers and responders can provide service reliability efficiently.
+Install and configure Service Reliability Management \(SRM\) within the Service Operations Workspace Admin Center so that SRM admins, managers and responders can provide service reliability efficiently.
 
 You can [Install Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-install-sr-store-app.md) from the Service Operations Workspace Admin Center.
 
@@ -33,7 +33,3 @@ Using the Service Reliability Management menus in the Service Operations Workspa
 
 Alert automations are conditional triggers that execute response actions automatically, based on the contents of the alert. This functionality is available to SRM upon request, from the Alert automations application in the ServiceNow Store.
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[hs-contractor-service-center-landing-page|Contractor Service Center]] application ships a default **CSC theme** that has the best visual design experience. The CSC theme provides a consistent experience across all portal pages.
+Contractor Service Center application ships a default **CSC theme** that has the best visual design experience. The CSC theme provides a consistent experience across all portal pages.
 
 ## Procedure
 
@@ -57,6 +57,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]

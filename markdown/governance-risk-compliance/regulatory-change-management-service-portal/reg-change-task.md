@@ -20,7 +20,7 @@ A regulatory change task serves as the parent record for all action tasks create
 
 A manager with the `sn_grc_reg_change.manager` role assigns a regulatory change task to a user with the `sn_grc_reg_change.user` role. The task captures key information such as the assignment group, approver, assignee, and related regulatory alert to support visibility and accountability throughout the change process.
 
-Starting with version 21.0.1, regulatory change tasks support earlier execution of compliance activities. Tasks can enter the **Implementation** state before approval is requested, allowing teams to begin work while approvals proceed based on [[work-configuration|workflow configuration]].
+Starting with version 21.0.1, regulatory change tasks support earlier execution of compliance activities. Tasks can enter the **Implementation** state before approval is requested, allowing teams to begin work while approvals proceed based on workflow configuration.
 
 A regulatory alert can be closed after all required regulatory change tasks and their associated action tasks are completed, and any required approvals are finalized, in accordance with the configured workflow.
 
@@ -31,6 +31,3 @@ Manage the regulatory action tasks in the Regulatory Change Tasks module so that
 
 **Parent Topic:**[Regulatory Change Management Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/using-rcm-classic-ui.md)
 
-## Related
-
-- [[work-configuration|Workflow configuration]]

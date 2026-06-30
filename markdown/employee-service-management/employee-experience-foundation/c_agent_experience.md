@@ -17,13 +17,9 @@ breadcrumb: [Explore, ServiceNow for Microsoft Teams and Microsoft 365, Unified 
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams.
 
 -   **[Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md)**  
-[[notify-connector-ms-teams|Notify connector for Microsoft Teams]] enables you to manage and initiate a Microsoft Teams meeting directly from any record such as an incident, or a task.
+Notify connector for Microsoft Teams enables you to manage and initiate a Microsoft Teams meeting directly from any record such as an incident, or a task.
 -   **[Meeting Extensions for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/meeting-extensibility-ms-teams.md)**  
-The [[meeting-extensibility-ms-teams|Meeting extensions for Microsoft Teams]] enables the major incident manager, and the participants to view the communication tasks from within Microsoft Teams during an active conference call.
+The Meeting extensions for Microsoft Teams enables the major incident manager, and the participants to view the communication tasks from within Microsoft Teams during an active conference call.
 
 **Parent Topic:**[Exploring ServiceNow for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-sn-teams.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]]

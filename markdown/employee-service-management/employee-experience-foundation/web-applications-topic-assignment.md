@@ -14,7 +14,7 @@ breadcrumb: [App Launcher, Setup task management, Configuring Employee Center Pr
 
 # Assign topics to web applications
 
-Associate topics to the applications which can help [[discover-lxp|discover]] and launch useful applications right from topic page.
+Associate topics to the applications which can help discover and launch useful applications right from topic page.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: Taxonomy admin, taxonomy manager, and taxonomy contributor
 
 Your employees can access all applications and associated topics. See [Access applications from App Launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-application-employee.md)
 
-## Related
-
-- [[discover-lxp|Discover]]

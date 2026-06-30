@@ -14,7 +14,7 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 # System properties for On-Call Scheduling
 
-The property [[settings-mobile|settings]] configure [[c_OnCallScheduling|On-Call Scheduling]] operations.
+The property settings configure On-Call Scheduling operations.
 
 ## Setting properties from the UI
 
@@ -208,7 +208,7 @@ com.snc.iam.conference\_call\_follow\_on\_call\_escalation
 
 </td><td>
 
-If selected, On-Call the escalation path is followed when a user group is added to a conference call.This property is added when the [[c_IncidentAlertManagement|Incident Communications Management]] \(com.snc.iam\) plugin is activated.
+If selected, On-Call the escalation path is followed when a user group is added to a conference call.This property is added when the Incident Communications Management \(com.snc.iam\) plugin is activated.
 
 </td></tr><tr><td>
 
@@ -216,7 +216,7 @@ com.snc.iam.conference\_call\_escalation\_workflow
 
 </td><td>
 
-If selected, custom escalation hierarchy is applicable in [[workflows-oncall|On-Call Scheduling workflows]].This property is added when the Incident Communications Management \(com.snc.iam\) plugin is activated.
+If selected, custom escalation hierarchy is applicable in On-Call Scheduling workflows.This property is added when the Incident Communications Management \(com.snc.iam\) plugin is activated.
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ com.snc.on\_call\_rotation.landing\_page.show\_pending\_actions
 
 </td><td>
 
-If true, displays the pending actions on the On-Call Schedules [[dex-workspace-dashboard-tab|landing page]].
+If true, displays the pending actions on the On-Call Schedules landing page.
 
 </td></tr><tr><td>
 
@@ -320,10 +320,3 @@ If true, a new on-call trigger engine is activated which enables on-call subflow
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference for on-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[workflows-oncall|On-Call Scheduling workflows]]
-- [[dex-workspace-dashboard-tab|Landing page]]

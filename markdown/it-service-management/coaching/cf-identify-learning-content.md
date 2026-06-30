@@ -14,7 +14,7 @@ breadcrumb: [Configure, Coaching, IT Service Management]
 
 # Identify and add course items for a virtual coach
 
-Define filters and add course items for automated virtual [[cf-coaching-landing|coaching]]. When a coaching assessment is triggered, the course items are automatically attached to the assessment.
+Define filters and add course items for automated virtual coaching. When a coaching assessment is triggered, the course items are automatically attached to the assessment.
 
 ## Before you begin
 
@@ -174,6 +174,3 @@ Autofill fields
 
 [Coaching field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-field-descriptions.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

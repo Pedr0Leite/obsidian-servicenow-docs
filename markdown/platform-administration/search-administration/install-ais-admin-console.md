@@ -15,17 +15,17 @@ breadcrumb: [AI Search Admin console, Search administration, Configure core feat
 
 # Install AI Search Admin console
 
-The [[ais-admin-console|AI Search Admin console]] application \(sn\_ai\_search\_admin\) is available from the ServiceNow® Store.
+The AI Search Admin console application \(sn\_ai\_search\_admin\) is available from the ServiceNow® Store.
 
 ## Before you begin
 
--   Confirm that the application and all of its associated [[servicenow-store|ServiceNow Store]] applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Confirm that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 Role required: admin
 
 ## About this task
 
-Installing the [[ia-ai-search|AI Search]] Admin Admin console makes the application available to users with the ais\_admin or admin roles. For more information, see [AI Search Admin console roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-roles.md).
+Installing the AI Search Admin Admin console makes the application available to users with the ais\_admin or admin roles. For more information, see [AI Search Admin console roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-roles.md).
 
 For information on the tasks that users can perform in the application, see [Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md).
 
@@ -51,8 +51,3 @@ Access the AI Search Admin console application by navigating to **All** &gt; **A
 
 [Components installed with AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-components.md)
 
-## Related
-
-- [[ais-admin-console|AI Search Admin console]]
-- [[servicenow-store|ServiceNow Store]]
-- [[ia-ai-search|AI Search]]

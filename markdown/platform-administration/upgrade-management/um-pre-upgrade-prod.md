@@ -18,7 +18,7 @@ Complete the pre-upgrade tasks for a successful upgrade experience on your produ
 
 ## Before you begin
 
-**Note:** For each step, you will have the option to either skip the step or mark complete and only then move to the next [[um-guided-tour|guided upgrade]] step.
+**Note:** For each step, you will have the option to either skip the step or mark complete and only then move to the next guided upgrade step.
 
 Role required: admin
 
@@ -169,6 +169,3 @@ Role required: admin
 
 **Parent Topic:**[Access guided upgrade on a production instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement-prod.md)
 
-## Related
-
-- [[um-guided-tour|Guided upgrade]]

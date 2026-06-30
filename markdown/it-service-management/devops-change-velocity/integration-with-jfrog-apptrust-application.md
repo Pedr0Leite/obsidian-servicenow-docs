@@ -14,7 +14,7 @@ breadcrumb: [JFrog, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Integration with JFrog AppTrust application
 
-Integrate [[devops-landing-page-new|DevOps Change Velocity]] with JFrog AppTrust [[dex-workspace-application-tab|applications]] to automate change request creation, approval, and evidence collection as application versions are promoted through life-cycle stages.
+Integrate DevOps Change Velocity with JFrog AppTrust applications to automate change request creation, approval, and evidence collection as application versions are promoted through life-cycle stages.
 
 Install the JFrog plugin \(x\_snc\_jfrog\) by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -67,13 +67,13 @@ JFrog AppTrust is an application risk governance solution containing application
 
 When an application version is promoted to a new stage in JFrog, the integration with DevOps Change Velocity \(DCV\) automatically creates a change request in ServiceNow, populated with the required evidences.\[Omitted image "jfrog-lifecycle-change.png"\] Alt text: ServiceNow Change request added in JFrog stage
 
-In JFrog, change request creation can be enabled for a stage in the AppTrust Integrations page. \[Omitted image "jfrog-change-creation.png"\] Alt text: Change request creation [[settings-mobile|settings]] in JFrog
+In JFrog, change request creation can be enabled for a stage in the AppTrust Integrations page. \[Omitted image "jfrog-change-creation.png"\] Alt text: Change request creation settings in JFrog
 
 Once the change request is reviewed and approved in ServiceNow, the approval is passed back to JFrog, which then automatically promotes the application version to the new stage.
 
 ## Change policy
 
-You can add [[change-approval-policy|change approval policies]] to the model you created for JFrog change requests. For information on [[using-change-approval-policies-cf|creating change approval policies]], see [Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md).
+You can add change approval policies to the model you created for JFrog change requests. For information on creating change approval policies, see [Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md).
 
 In the change policy, to retrieve the evidence associated with a JFrog change request, you can use the JFrog Fetch evidences flow action. This flow action collects the relevant evidence data such as artifact promotion details from JFrog and attaches it to the corresponding change request. You can incorporate this flow action into your change policy's approval workflow to ensure that the required evidence is available before the change request is approved or moved forward.
 
@@ -94,10 +94,3 @@ Associate a business application with a JFrog project in the JFrog tool record t
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]
-- [[change-approval-policy|Change approval policies]]
-- [[using-change-approval-policies-cf|Creating change approval policies]]

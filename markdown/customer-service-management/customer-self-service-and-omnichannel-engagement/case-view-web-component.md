@@ -14,7 +14,7 @@ breadcrumb: [Configure web components, Web Embeddables, Set up self-service, Con
 
 # Case view component
 
-Displays a detailed view of all case-related activities that help you to make effective decisions and act on a case. It also displays an activity tab and an attachments tab for [[case-management|case management]].
+Displays a detailed view of all case-related activities that help you to make effective decisions and act on a case. It also displays an activity tab and an attachments tab for case management.
 
 You can enable playbook guided experience in the Case view component within a case record. When enabled, it adds a process tab that displays relevant playbooks for the case record. Enabling a playbook streamlines complex workflows, confirming users follow a predefined series of steps to resolve any case.
 
@@ -26,6 +26,3 @@ The Case view component includes essential case details such as case number, sta
 
 \[Omitted image "we-case-view-playbook-comp.png"\] Alt text: Case view component instance displaying playbook case-related information in the Preview tab.
 
-## Related
-
-- [[case-management|Case management]]

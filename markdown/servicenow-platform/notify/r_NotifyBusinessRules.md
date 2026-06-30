@@ -14,13 +14,13 @@ breadcrumb: [Components installed with Notify, Notify reference, Notify, Manage 
 
 # Business rules installed with Notify
 
-[[notify-landing-page|Notify]] adds the following business rules.
+Notify adds the following business rules.
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
 |No Call Workflows for Shortcodes|\[notify\_group\]|Checks and displays an error if the call is being triggered by a short code.|
 |Update Participant Duration|\[notify\_participant\]|Updates participant duration when it becomes inactive.|
-|Check if Notify call exists and active|\[notify\_participant\_session\]|Checks if Notify call has valid [[reference|reference]] record and updates it if the call is inactive currently.|
+|Check if Notify call exists and active|\[notify\_participant\_session\]|Checks if Notify call has valid reference record and updates it if the call is inactive currently.|
 |Update Last Active On|\[notify\_participant\]|Sets the last active before insertion/update of Notify participant.|
 |Show info msg about selection in choice|\[notify\_group\_selector\_choice\]|Displays a message if either Notify group or conference provider is not selected.|
 |Validate values in the choice|\[notify\_group\_selector\_choice\]|Checks if either of Notify group or conference provider is filled.|
@@ -48,7 +48,3 @@ breadcrumb: [Components installed with Notify, Notify reference, Notify, Manage 
 
 **Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[reference|Reference]]

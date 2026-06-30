@@ -14,7 +14,7 @@ breadcrumb: [Use HAM advisor, Asset and CI management, Explore, Hardware Asset M
 
 # Improving CMDB data quality for HAM
 
-The Remediation actions panel available for a chart in the CMDB success advisor dashboard for [[ham-landing-page|Hardware Asset Management]] \(HAM\) suggests targeted actions to improve the overall quality of your Configuration Management Database \(CMDB\).
+The Remediation actions panel available for a chart in the CMDB success advisor dashboard for Hardware Asset Management \(HAM\) suggests targeted actions to improve the overall quality of your Configuration Management Database \(CMDB\).
 
 \[Omitted image "cmdb-sa-ham-remediation-actions.png"\] Alt text: Example actions in the remediation actions panel shown for virtual CIs with asset.
 
@@ -72,6 +72,4 @@ The remediation actions are available for the improvement of the following issue
 
     Identify and resolve CIs where the installation status does not align with the corresponding asset state, which can lead to inaccurate asset life cycle reporting.
 
-## Related
 
-- [[ham-landing-page|Hardware Asset Management]]

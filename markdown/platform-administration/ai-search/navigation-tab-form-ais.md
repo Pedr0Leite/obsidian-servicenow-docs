@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Source Facet Bucket form
 
-The Source Facet Bucket form enables you to configure display settings for a source facet bucket in the search application configuration for an [[ia-ai-search|AI Search]] application.
+The Source Facet Bucket form enables you to configure display settings for a source facet bucket in the search application configuration for an AI Search application.
 
 For information on configuring source facet bucket display settings for an AI Search application, see [Configure source facet buckets in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/config-nav-tabs-ais.md).
 
@@ -28,6 +28,3 @@ For information on configuring source facet bucket display settings for an AI Se
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

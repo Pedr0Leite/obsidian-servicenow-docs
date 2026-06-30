@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for Healthcare reference, HR Service Delivery f
 
 # Installed with HR Service Delivery for Healthcare
 
-Several types of components are installed with activation of the [[healthcare-hr|HR Service Delivery for Healthcare]] plugin, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery for Healthcare plugin, including tables and user roles.
 
 ## Roles
 
@@ -136,7 +136,7 @@ Stores the healthcare professional details related to payer enrollments.
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -156,7 +156,3 @@ Stores the healthcare professional details related to payer enrollments.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[healthcare-hr|HR Service Delivery for Healthcare]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

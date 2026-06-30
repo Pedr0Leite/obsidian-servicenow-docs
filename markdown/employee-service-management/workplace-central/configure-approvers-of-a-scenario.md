@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Central, Workplace Service Delivery, Employee 
 
 # Configure approvers of a scenario
 
-Configure approvers for scenarios that are sent for approval. Edit the scenario approval definition to add or remove scenarios. By default, the workplace managers are configured to [[approve-a-scenario|approve a scenario]]
+Configure approvers for scenarios that are sent for approval. Edit the scenario approval definition to add or remove scenarios. By default, the workplace managers are configured to approve a scenario
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Approval definitions**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Approval definitions**.
 
 2.  Select **Scenario Plan Approval** approval definition.
 
@@ -52,7 +52,3 @@ The approver is configured to review the scenario.
 
 [Install Workplace Central]()
 
-## Related
-
-- [[approve-a-scenario|Approve a scenario]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

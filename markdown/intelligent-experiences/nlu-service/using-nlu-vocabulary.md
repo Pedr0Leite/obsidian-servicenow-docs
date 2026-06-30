@@ -20,7 +20,7 @@ Use NLU vocabulary items to help the system recognize the various ways your user
 
 Vocabulary helps your model with the various words and phrases that it may encounter from your users. Since humans are not computers, they may come up with different ways to say the same thing. For example, if one user inputs an acronym rather than the full phrase, the system might be able to predict the correct intent by using the context in the utterance. However, by defining the acronym with a vocabulary item, you raise the model's confidence level and capability to predict intents correctly.
 
-\[Omitted image "using-nlu-vocabularyU2.png"\] Alt text: The [[managing-model-content|Build and train your model]] phase with the Vocabulary tab highlighted.
+\[Omitted image "using-nlu-vocabularyU2.png"\] Alt text: The Build and train your model phase with the Vocabulary tab highlighted.
 
 Vocabulary items cover the varying words or phrases that might appear in utterances. The vocabulary items are mapped to the synonyms that you provide, for intent prediction. This helps the system recognize the various ways your users express their requests, while at the same time ensuring the consistency, confidence, and accuracy of predictions.
 
@@ -62,7 +62,7 @@ A regular expression \(regex\) that can capture specific formats such as email a
 You can also use vocabulary sources to cover various objects that your users might request. Vocabulary items and vocabulary sources differ in their usage:
 
 -   Use a vocabulary item for an individual word, phrase, or pattern that can easily be mapped to a single synonym for the model to use.
--   Use a vocabulary source to reference a ServiceNow table or list so that the values can all be replaced by the single synonym you define. Vocabulary sources can be reused across all your [[nlu-models|NLU models]].
+-   Use a vocabulary source to reference a ServiceNow table or list so that the values can all be replaced by the single synonym you define. Vocabulary sources can be reused across all your NLU models.
 
 Use vocabulary sources when your user utterances refer to objects in a set. The sources can be referenced from a list of values from a ServiceNow table or a static list that you define, such as a list of catalog items or conference rooms. Once you create and save these sources, you can use the @ symbol to specify them in training utterances. You can also use these sources as entity values.
 
@@ -100,7 +100,7 @@ Issue and Solution
 </td><td>
 
 -   Issue: The term word is very common and does not necessarily indicate a software product. The term install may provide helpful context, but the confidence score may be too low to predict the OrderSoftware intent.
--   Solution: [[create-pattern-vocabulary-item|Create a pattern vocabulary item]] with a regex for capitalized Word, so that the system can recognize it as a software product. This added constraint makes it more likely that the OrderSoftware intent will be predicted.
+-   Solution: Create a pattern vocabulary item with a regex for capitalized Word, so that the system can recognize it as a software product. This added constraint makes it more likely that the OrderSoftware intent will be predicted.
 
 **Note:** To extract the specific software name to use in a Virtual Agent conversation topic, annotate it as an entity in the utterance.
 
@@ -127,8 +127,3 @@ For more information, see [Using regular expressions in entities](https://raw.gi
 
 [Create an NLU intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-nlu-intent.md)
 
-## Related
-
-- [[managing-model-content|Build and train your model]]
-- [[nlu-models|NLU models]]
-- [[create-pattern-vocabulary-item|Create a pattern vocabulary item]]

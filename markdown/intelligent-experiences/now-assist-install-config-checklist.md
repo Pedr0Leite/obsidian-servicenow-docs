@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow AI implementation, Enable AI experiences]
 
 # Solving installation and configuration issues with Now Assist
 
-Use this checklist to address issues or gaps in your [[platform-now-assist-landing|Now Assist]] configuration.
+Use this checklist to address issues or gaps in your Now Assist configuration.
 
 <table id="table_xxd_g5n_5fc"><thead><tr><th class="filter">
 
@@ -41,7 +41,7 @@ Install the Now Assist for Spokes application from the ServiceNow Store. For det
 
 </td></tr><tr><td>
 
-[[ai-control-tower-landing|AI Control Tower]]
+AI Control Tower
 
 </td><td>
 
@@ -74,7 +74,7 @@ Now Assist in AI Search Genius results don't appear
 </td><td>
 
 1.  Verify that AI Search and Now Assist in AI Search are installed and configured.
-2.  To use [[now-assist-qa-genius-result|Now Assist Q&amp;A Genius Results]] in AI Search applications, link the Now Assist Q&amp;A Genius Result configuration to your search profiles for those applications. For details, see [Link a Genius Result configuration to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/link-gr-search-profile-ais.md).
+2.  To use Now Assist Q&amp;A Genius Results in AI Search applications, link the Now Assist Q&amp;A Genius Result configuration to your search profiles for those applications. For details, see [Link a Genius Result configuration to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/link-gr-search-profile-ais.md).
 3.  Verify that all Now Assist plugins are up to date.
 4.  Try repairing the plugins.
 
@@ -90,7 +90,7 @@ I can't generate a knowledge article
 
 1.  Verify that Now Assist in Knowledge Management is installed and configured.
 2.  Verify that all Now Assist plugins are up to date.
-3.  Verify that the knowledge generation skill is activated. For details, see [[configure-a-now-assist-skill|Activate a Now Assist skill]].
+3.  Verify that the knowledge generation skill is activated. For details, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 4.  Try repairing the plugins.
 
 </td></tr><tr><td>
@@ -119,7 +119,7 @@ See [Product subscriptions overview](https://raw.githubusercontent.com/ServiceNo
 
 </td></tr><tr><td>
 
-[[now-assist-center-now-assist-panel|Now Assist panel]]
+Now Assist panel
 
 </td><td>
 
@@ -127,7 +127,7 @@ Can't access skills in the Now Assist panel
 
 </td><td>
 
--   Verify that the skill is configured to display in the Now Assist panel. For details, see [[edit-a-now-assist-skill|Edit a Now Assist skill]].
+-   Verify that the skill is configured to display in the Now Assist panel. For details, see [Edit a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-a-now-assist-skill.md).
 -   If you are using Now Assist in Virtual Agent, verify that search sources were configured for the Now Assist panel. You can specify search sources for a Now Assist panel assistant when you set it up. Search sources are essential for the Now Assist panel and Virtual Agent. Without them, they cannot discover or rank skills and agentic workflows. For details, see  and .
 
 If Now Assist in Virtual Agent is not installed, the Now Assist panel uses default search sources.
@@ -143,7 +143,7 @@ Some users don't get a response to a question
 
 </td><td>
 
-Many [[now-assist-skills|Now Assist skills]] require specific user roles. Verify that there are active skills with the user's role. For details, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
+Many Now Assist skills require specific user roles. Verify that there are active skills with the user's role. For details, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ Features/skills are missing or generally not working
 -   For skills, verify that they are active in the Now Assist Admin console. For details, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 -   Verify that the user has the correct role for the skill.
 -   Try clearing the cookies and cache in the web browser.
--   Try repairing [[generative-ai-controller|Generative AI Controller]]. For details, see [Repair a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/repair-app.md).
+-   Try repairing Generative AI Controller. For details, see [Repair a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/repair-app.md).
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Can't edit a skill
 
 Verify that you have the Now Assist Admin role: sn\_nowassist\_admin.nsa\_admin.
 
- You can edit a skill or make a copy of a skill to edit. For details, see [Edit a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-a-now-assist-skill.md) and [[make-a-copy-of-a-now-assist-skill|Make a copy of a Now Assist skill]].
+ You can edit a skill or make a copy of a skill to edit. For details, see [Edit a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-a-now-assist-skill.md) and [Make a copy of a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/make-a-copy-of-a-now-assist-skill.md).
 
 </td></tr><tr><td>
 
@@ -293,7 +293,7 @@ Skills not available or not working
 
 </td></tr><tr><td>
 
-[[now-assist-skill-kit-landing|Now Assist Skill Kit]]
+Now Assist Skill Kit
 
 </td><td>
 
@@ -301,7 +301,7 @@ Now Assist Skill Kit is not visible on my instance
 
 </td><td>
 
--   Verify that you have at least one Now Assist product installed. For details, see [[install-now-assist-feature-plugins|Install Now Assist plugins]].
+-   Verify that you have at least one Now Assist product installed. For details, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 -   Verify that the sn\_skill\_builder.admin role is assigned to the user.
 
 </td></tr><tr><td>
@@ -394,17 +394,3 @@ Verify that you have the correct role, either virtual\_agent\_admin or sn\_vad\_
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[edit-a-now-assist-skill|Edit a Now Assist skill]]
-- [[make-a-copy-of-a-now-assist-skill|Make a copy of a Now Assist skill]]
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-qa-genius-result|Now Assist Q&amp;A Genius Results]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Notify for making conference calls, Using Notify, Notify, Man
 
 # List of Notify calls
 
-If you are a [[notify-landing-page|Notify]] administrator, you can view a list of calls and the status of a call made to or from Notify. The call records help in reporting and analytics.
+If you are a Notify administrator, you can view a list of calls and the status of a call made to or from Notify. The call records help in reporting and analytics.
 
 ## Notify list
 
@@ -40,6 +40,3 @@ For Notify calls where the source is specified, such as a task number, the sourc
 
 **Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

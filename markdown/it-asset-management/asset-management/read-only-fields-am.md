@@ -15,7 +15,7 @@ breadcrumb: [Reference, Asset Management, IT Asset Management]
 
 # Read-only and client script modifiable fields in Asset Management tables
 
-Comprehensive reference of [[am-landing-page|Asset Management]] table fields that are restricted from UI editing and those which can be modified using client scripts.
+Comprehensive reference of Asset Management table fields that are restricted from UI editing and those which can be modified using client scripts.
 
 ## Strict read-only fields in Asset Management tables
 
@@ -205,7 +205,7 @@ Asset Job Log Details
 
 </td></tr><tr><td>
 
-[[reclaim-asset|Asset Reclamation]] Request
+Asset Reclamation Request
 
  \[asset\_reclamation\_request\]
 
@@ -229,7 +229,7 @@ Contract
 -   process
 -   Has rate card \[ratecard\]
 -   State \[state\]
--   [[c_TermsAndConditions|Terms and conditions]] \[terms\_and\_conditions\]
+-   Terms and conditions \[terms\_and\_conditions\]
 
 </td></tr><tr><td>
 
@@ -327,7 +327,7 @@ Vendor Catalog Item
 
 </td><td>
 
-[[c_ProductCatalog|Product Catalog]] Item \[product\_catalog\_item\]
+Product Catalog Item \[product\_catalog\_item\]
 
 </td></tr><tr><td>
 
@@ -448,7 +448,7 @@ Results deletion in progress \[results\_deletion\_in\_progress\]
 
 </td></tr><tr><td>
 
-[[zero-touch-asset-refresh|Zero Touch Refresh]] Fulfillment Request
+Zero Touch Refresh Fulfillment Request
 
  sn\_itam\_ztr\_fulfillment\_req
 
@@ -501,11 +501,3 @@ Total cost \[total\_cost\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[reclaim-asset|Asset reclamation]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

@@ -149,7 +149,7 @@ Display key information of a record from the tables available on ServiceNow® ta
 Displays topics as cards on your portal page enabling your users to access knowledge articles and catalog items related to a topic displayed on your portal in a Portal Browse Taxonomy widget.
 
 </td></tr></tbody>
-</table>You can use these widgets as is, or you can duplicate and edit them to suit your needs. For information on how to clone and edit a default GDS Service Portal widget, see [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]].
+</table>You can use these widgets as is, or you can duplicate and edit them to suit your needs. For information on how to clone and edit a default GDS Service Portal widget, see [Customize Widgets for GOV.UK Design System Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-edit.md).
 
 For more information on using configurable widgets in portals, see [Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
 
@@ -240,9 +240,5 @@ Adding a widget to a page creates a new Widget Instance, as well as a record on 
 
 You can use widget instances to configure the location, properties, and CSS specific to that instance of the widget.
 
-For more information on configuring widget instances, see [[psds-config-govuk-dev-tk-portal-widgets-instances|Configure Widgets Instances for GDS Service Portal pages]].
+For more information on configuring widget instances, see [Configure Widgets Instances for GDS Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-instances.md).
 
-## Related
-
-- [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets-instances|Configure Widgets Instances for GDS Service Portal pages]]

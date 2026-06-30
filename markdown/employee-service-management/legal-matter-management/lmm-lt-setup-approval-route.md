@@ -14,7 +14,7 @@ breadcrumb: [Configure data to enable matter creation in Legal Tracker, Configur
 
 # Add approval route details
 
-Add approval route details in [[legal-matter-management-landing-page|Legal Matter Management]] to enable matter creation in Legal Tracker.
+Add approval route details in Legal Matter Management to enable matter creation in Legal Tracker.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ As there is no scheduled job to pull the approval route details, you must manual
 
 **Parent Topic:**[Configure data to enable matter creation in Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-config-data-mtemplates.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]

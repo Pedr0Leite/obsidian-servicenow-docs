@@ -14,7 +14,7 @@ breadcrumb: [Cancel a resource plan, Resource plans, Resource Management classic
 
 # Cancel a resource plan from a project, planning console, or demand record
 
-If a project or a project task is marked Closed, the project manager can cancel the associated future [[c_ResourcePlans|resource plans]]. Similarly, the demand manager can cancel the future resource plans for a Closed or Deferred demand.
+If a project or a project task is marked Closed, the project manager can cancel the associated future resource plans. Similarly, the demand manager can cancel the future resource plans for a Closed or Deferred demand.
 
 ## Before you begin
 
@@ -24,12 +24,12 @@ Role required: it\_project\_manager or it\_demand\_manager
 
 ## About this task
 
-When a project or a project task moves to Closed Complete, Closed Incomplete or Closed Skipped state, the system prompts a message on the project and project task [[form-field-information-for-dw|forms]], and in the planning console for canceling the resource plans if one of the following conditions is met.
+When a project or a project task moves to Closed Complete, Closed Incomplete or Closed Skipped state, the system prompts a message on the project and project task forms, and in the planning console for canceling the resource plans if one of the following conditions is met.
 
 -   Corresponding resource plan is in Confirmed, Planning, or Requested state.
 -   Resource plan is in Allocated state with start date later than the project or task end date.
 
-A similar message for canceling the resource plans appears on the [[demand-form|demand form]] when a demand moves to Closed or Deferred state.
+A similar message for canceling the resource plans appears on the demand form when a demand moves to Closed or Deferred state.
 
 ## Procedure
 
@@ -41,9 +41,9 @@ A similar message for canceling the resource plans appears on the [[demand-form|
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open the project record in the Closed state.
-3.  Click the **Details** tab to display the [[create-a-project-form|project form]].
+3.  Click the **Details** tab to display the project form.
 
 
 </td></tr><tr><td id="d318222e146">
@@ -54,7 +54,7 @@ A similar message for canceling the resource plans appears on the [[demand-form|
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open the required project record.
-3.  In the **[[t_CreateAProjectTask|Project Tasks]]** related list, open the project task record in the Closed state.
+3.  In the **Project Tasks** related list, open the project task record in the Closed state.
 
 
 </td></tr><tr><td id="d318222e185">
@@ -91,7 +91,7 @@ A similar message for canceling the resource plans appears on the [[demand-form|
 
     -   The list contains only those resource plans for the record that can be canceled.
     -   If the list is opened from the message link on a Project form, the resource plans for the project and project task are listed.
-    -   If the list is opened from the message link on a [[project-task-form|Project task form]], only the resource plans for the project task are listed.
+    -   If the list is opened from the message link on a Project task form, only the resource plans for the project task are listed.
 3.  In the list, select the resource plan to be canceled, and click **Cancel**.
 
 
@@ -102,12 +102,3 @@ A similar message for canceling the resource plans appears on the [[demand-form|
 
 **Parent Topic:**[Cancel a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CancelAResourcePlan.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[form-field-information-for-dw|Forms]]
-- [[demand-form|Demand form]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]

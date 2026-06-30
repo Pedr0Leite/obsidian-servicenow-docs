@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management reference, Project Portfolio Managemen
 
 # Related lists added for financials
 
-PPM Standard adds several related lists to both the Project and Portfolio [[form-field-information-for-dw|forms]].
+PPM Standard adds several related lists to both the Project and Portfolio forms.
 
 ## Portfolio related lists
 
@@ -44,6 +44,3 @@ This table explains the related lists for financials in a project record.
 
 **Parent Topic:**[Project Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-management-reference.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]

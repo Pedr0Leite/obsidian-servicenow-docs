@@ -22,7 +22,7 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click **SIR Dashboards** icon, displayed on the left side of the workspace home page.
 
@@ -32,6 +32,4 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 4.  View the Context Sensitive Analytics – SI dashboard for further action.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

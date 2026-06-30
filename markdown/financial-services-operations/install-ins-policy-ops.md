@@ -30,7 +30,7 @@ The following items are installed with Personal Lines Servicing.
 -   Roles
 -   Tables
 
-For more information, see [[installed-with-ins-policy-ops|Components installed with Personal Lines Servicing]].
+For more information, see [Components installed with Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/installed-with-ins-policy-ops.md).
 
 ## Procedure
 
@@ -53,9 +53,5 @@ For more information, see [[installed-with-ins-policy-ops|Components installed w
 5.  Select **Install**.
 
 
-**Parent Topic:**[[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
+**Parent Topic:**[Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-personal-policy-ops-landing-page.md)
 
-## Related
-
-- [[installed-with-ins-policy-ops|Components installed with Personal Lines Servicing]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]

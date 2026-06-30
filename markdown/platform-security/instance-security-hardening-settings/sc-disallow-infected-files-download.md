@@ -14,7 +14,7 @@ breadcrumb: [File and resources, Hardening settings, Platform Security]
 
 # Disallow infected file download
 
-Control whether [[users|users]] can download non-scanned attachments if the [[antivirus|antivirus]] service is down or unreachable.
+Control whether users can download non-scanned attachments if the antivirus service is down or unreachable.
 
 When the property **com.glide.snap.infected\_download\_allowed** is set to **true**, users can still download non-scanned attachments in the case that the antivirus service is down or unreachable.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,9 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[users|Users]]
-- [[antivirus|Antivirus]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

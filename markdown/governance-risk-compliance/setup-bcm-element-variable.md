@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Element Variables**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Element Variables**.
 
 2.  Click **New**.
 
@@ -47,6 +47,4 @@ Role required: admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

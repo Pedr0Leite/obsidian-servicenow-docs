@@ -14,14 +14,14 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Table map form
 
-Understand the fields of the table map form. This form is used to create a new custom table map for any record to integrate with [[agile-landing-page|Agile Development 2.0]], SAFe, and PPM.
+Understand the fields of the table map form. This form is used to create a new custom table map for any record to integrate with Agile Development 2.0, SAFe, and PPM.
 
 |Field|Description|
 |-----|-----------|
 |Alignment Integration|Specifies the Alignment integration type. The value is **ServiceNow Internal** by default.|
-|Execution table|Table in Agile Development 2.0, SAFe, or PPM that needs to be mapped with a table in [[alignment-planner-workspace-landing-page|Strategic Planning]]. For example, Defect \[rm\_defect\].|
+|Execution table|Table in Agile Development 2.0, SAFe, or PPM that needs to be mapped with a table in Strategic Planning. For example, Defect \[rm\_defect\].|
 |Alignment table|Table in Strategic Planning that needs to be mapped with a table in Agile Development 2.0, SAFe, or PPM. For example, Milestone \[sn\_milestones\_milestone\].|
-|Milestone table map|This field is relevant only for Project \[pm\_project\] table map. It is a reference to the new Milestone table map \(sn\_milestones\_milestone\) for integrating project milestones from [[c_ProjectPortfolioSuite|Project Portfolio Management]] workspace to Strategic Planning. For all the other table maps, the milestone table map field is not available.|
+|Milestone table map|This field is relevant only for Project \[pm\_project\] table map. It is a reference to the new Milestone table map \(sn\_milestones\_milestone\) for integrating project milestones from Project Portfolio Management workspace to Strategic Planning. For all the other table maps, the milestone table map field is not available.|
 |Execution table filter|Filter condition to retrieve the relevant records from PPM, Agile Development 2.0, or SAFe. For example, Portfolio is HR or Active is True.​|
 |Alignment table filter|Filter condition to retrieve the relevant records from Strategic Planning.​|
 |Active flag|Ensures that the table map sync is active. This field is checked by default.|
@@ -29,8 +29,3 @@ Understand the fields of the table map form. This form is used to create a new c
 
 **Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

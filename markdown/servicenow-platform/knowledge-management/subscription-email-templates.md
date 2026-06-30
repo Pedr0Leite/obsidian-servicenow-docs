@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Knowledge subscription email notification templates
 
-The knowledge subscription feature uses [[email|email]] notification templates to send subscription notifications to knowledge users.
+The knowledge subscription feature uses email notification templates to send subscription notifications to knowledge users.
 
 |Email template|Subscription type|
 |--------------|-----------------|
@@ -28,6 +28,3 @@ Users with the admin or knowledge\_admin role can customize these email notifica
 
 Subscription notifications include a link at the bottom of the email to the user's Notification Preferences page.
 
-## Related
-
-- [[email|Email]]

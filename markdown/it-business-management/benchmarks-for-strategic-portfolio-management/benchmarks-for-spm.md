@@ -23,13 +23,9 @@ The SPM Benchmarks application provides clear visibility into your key performan
 -   **[Configuring SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/configuring-benchmarks.md)**  
 Learn about the process required to set up SPM Benchmarks to view the comparative understandings on your key performance indicators \(KPIs\).
 -   **[Customize the SPM Benchmarks KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/using-benchmarks.md)**  
-You can customize the KPI information you would want to see in your [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]].
+You can customize the KPI information you would want to see in your SPM Benchmarks dashboard.
 -   **[SPM Benchmarks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-reference.md)**  
 Reference information to provide additional details about SPM Benchmarks such as the fields, user roles, and scheduled job information.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]]

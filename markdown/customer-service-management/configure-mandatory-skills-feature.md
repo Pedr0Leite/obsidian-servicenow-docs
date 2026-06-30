@@ -12,7 +12,7 @@ breadcrumb: [Mandatory skills, Configure Skills Management, Configure case routi
 
 # Configuring mandatory skills
 
-Configure the [[mandatory-skills|mandatory skills]] feature for use with the [[c_CustomerServiceManagement|Customer Service Management]] and Field Service Management applications.
+Configure the mandatory skills feature for use with the Customer Service Management and Field Service Management applications.
 
 Mandatory skills is an optional feature included with the Customer Service Management and Field Service Management plugins. Use the steps below to configure this feature with the desired application.
 
@@ -20,14 +20,14 @@ Mandatory skills is an optional feature included with the Customer Service Manag
 
 To configure the mandatory skills feature for use with Customer Service Management:
 
--   In the [[r_CustomerServiceCaseForm|Case form]]:
+-   In the Case form:
     -   Configure the form layout to use the Task Skills \[task\_m2m\_skill\] table.
     -   In the Task Skills table, set the **Mandatory** field to **True** to identify skills that are mandatory to complete a task.
 
         **Note:** The Case form should use either the **Skills** field or the Task Skills table, but not both.
 
--   \[Optional\] For existing cases that have data populated in the **Skills** field on the Case form, run the **Migrate Skills to Task Skill M2M** script to move this data to the Task Skills table. By default, this fix script migrates the skills from existing entries in the Case, Work Order, and Work Order Task tables to the Task Skills table. For more information, see [[migrate-skills-m2m-table|Migrate skills to the Task Skill table]].
--   If you are using the [[case-assignment-workbench|assignment workbench]], replace the **Matching Skills** matching criteria with the **Matching Skills - Mandatory Skills Support** matching criteria. For more information, see [[case-assignment-matching-criteria|Matching rules for case assignment]].
+-   \[Optional\] For existing cases that have data populated in the **Skills** field on the Case form, run the **Migrate Skills to Task Skill M2M** script to move this data to the Task Skills table. By default, this fix script migrates the skills from existing entries in the Case, Work Order, and Work Order Task tables to the Task Skills table. For more information, see [Migrate skills to the Task Skill table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-skills-m2m-table.md).
+-   If you are using the [assignment workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-workbench.md), replace the **Matching Skills** matching criteria with the **Matching Skills - Mandatory Skills Support** matching criteria. For more information, see [Matching rules for case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-matching-criteria.md).
 
 ## Field Service Management configuration
 
@@ -35,7 +35,7 @@ To configure the mandatory skills feature for use with Field Service Management:
 
 1.  Enable the **work.management.use.mandatory.skills** system property.
 2.  Configure the Work Order form and the Work Order Task form to use the Task Skills \[task\_m2m\_skill\] table.
-3.  \[Optional\] For existing work orders and tasks that have data populated in the **Skills** field on the Work Order and Work Order Task [[migration-forms|forms]], run the **Migrate Skills to Task Skill M2M** script to move this data to the Task Skills table. By default, this fix script migrates the skills from existing entries in the Case, Work Order, and Work Order Task tables to the Task Skills table and configures them as optional skills. For more information, see [Migrate skills to the Task Skill table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-skills-m2m-table.md).
+3.  \[Optional\] For existing work orders and tasks that have data populated in the **Skills** field on the Work Order and Work Order Task forms, run the **Migrate Skills to Task Skill M2M** script to move this data to the Task Skills table. By default, this fix script migrates the skills from existing entries in the Case, Work Order, and Work Order Task tables to the Task Skills table and configures them as optional skills. For more information, see [Migrate skills to the Task Skill table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-skills-m2m-table.md).
 4.  If you are using dynamic scheduling, update the task filter for the dynamic scheduling configuration and replace the **Matching Skills for Dynamic Scheduling** matching criteria with the **Matching Mandatory Skills for Dynamic Scheduling** matching criteria. For more information, see [Create a task filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/create-dynamic-scheduling-config.md).
 
 For configuring optional skills, navigate to **Field Service** &gt; **Administration** &gt; **Configuration**, click the **Assignment** tab and set **Auto-selection of agents for tasks requires them to have skills** to one of the following:
@@ -75,7 +75,7 @@ skills\_management.migration
 
 </td><td>
 
-[[migration-lists|Lists]] the task tables to migrate to the Task Skills \[task\_m2m\_skill\] table when an admin runs the **Migrate Skills to Task Skill M2M** script. -   **Type**: choice list
+Lists the task tables to migrate to the Task Skills \[task\_m2m\_skill\] table when an admin runs the **Migrate Skills to Task Skill M2M** script. -   **Type**: choice list
 -   **Default value**: wm\_task,customerservice\_case,wm\_order
 
 </td></tr><tr><td>
@@ -89,14 +89,3 @@ Contains a list of tables for which the **Skills** field has already been migrat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migrate-skills-m2m-table|Migrate skills to the Task Skill table]]
-- [[case-assignment-workbench|Assignment workbench overview]]
-- [[case-assignment-matching-criteria|Matching criteria for case assignment]]
-- [[mandatory-skills|Mandatory skills]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]

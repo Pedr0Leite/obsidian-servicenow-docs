@@ -15,12 +15,9 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Discovery for VMware virtual machines
 
-[[r-discovery|Discovery]] gathers information about virtual machines managed by VMware vCenter.
+Discovery gathers information about virtual machines managed by VMware vCenter.
 
 The Discovery product can extract information from VMware configuration items \(CI\), including their relationships. Discovery is configured to work with the Orchestration VMware Support Plugin, which enables the automatic cloning of virtual machines by an ESX server managed by vCenter. For information about data collected by Discovery on vCenter, see [Data collected for VMware Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-vmware-cloud-disco.md).
 
 **Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

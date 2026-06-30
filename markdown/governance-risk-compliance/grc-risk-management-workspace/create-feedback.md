@@ -22,7 +22,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-risk-workspace.png"\] Alt text: list icon. icon.
 
@@ -63,6 +63,3 @@ Use the Create new feedback form to provide feedback on a record or fields in a 
 
 **Parent Topic:**[Create feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-feedback-risk.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

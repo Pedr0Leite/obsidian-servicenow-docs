@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks - Firewall integration, Security Incident Respon
 
 # Palo Alto Networks Firewall Launcher Workflow
 
-**[[security-operations-landing-page|Security Operations]] Integration Palo Alto Networks Firewall Launcher** workflow is the Palo Alto Networks Firewall implementation launched by the **Security Operations Integration - Block Request** capability workflow.
+**Security Operations Integration Palo Alto Networks Firewall Launcher** workflow is the Palo Alto Networks Firewall implementation launched by the **Security Operations Integration - Block Request** capability workflow.
 
 ## Before you begin
 
@@ -24,6 +24,3 @@ Role required: sn\_si.analyst
 
 \[Omitted image "PANFirewallWorkflow.png"\] Alt text: Palo Alto Networks - Firewall workworkflow diagram
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

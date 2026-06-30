@@ -20,7 +20,7 @@ Associate the EAP read-only \(sn\_apw\_advanced.eap\_read\_only\) role to the da
 
 -   [Add a tag to the EAP dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/add-tag-to-the-eap-dashboard.md).
 
--   Set the Application Scope of your ServiceNow instance to [[alignment-planner-workspace-landing-page|Strategic Planning]].
+-   Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -41,6 +41,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 [Add EAP dashboards to an Agile configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/associate-the-eap-dashboard-with-agile-configuration.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

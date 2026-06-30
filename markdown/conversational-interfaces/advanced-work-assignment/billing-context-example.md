@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Route interactions by context, Configure reasons for reje
 
 # Create a queue for billing issues
 
-[[skills-example-queue|Create a queue]] for the Chat service channel that routes billing issues.
+Create a queue for the Chat service channel that routes billing issues.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: awa\_admin or admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[skills-example-queue|Create a queue]]

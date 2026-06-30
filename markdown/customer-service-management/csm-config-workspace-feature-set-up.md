@@ -26,46 +26,46 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[customer-central|Customer Central]]
+[Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md)
 
 </td><td>
 
 Customer Central provides customer service agents with all the information about the customer in one central place. -   The Customer Information view displays key information about the customer.
--   The Customer History view displays recent customer touch [[gamification-components-points|points]] in an activity feed.
+-   The Customer History view displays recent customer touch points in an activity feed.
 
- Use Customer Service guided setup to [[configure-customer-central|Configure Customer Central]].
+ Use Customer Service guided setup to [Configure Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-central.md).
 
 </td></tr><tr><td>
 
-[[customer-service-case-types|Customer Service Case Types]]
+[Customer Service Case Types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
 </td><td>
 
-Configure case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card. Use Customer Service guided setup to [[configure-csm-case-types|Configure customer service case types]].
+Configure case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card. Use Customer Service guided setup to [Configure customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-types.md).
 
 </td></tr><tr><td>
 
-[[proactive-service-operations|Proactive Customer Service Operations]]
+[Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/proactive-service-operations.md)
 
 </td><td>
 
-Use this feature to track the digital services used by your customers and to proactively create cases for service disruptions. Use Customer Service guided setup to [[configure-pcso|Configure Proactive Customer Service Operations]].
+Use this feature to track the digital services used by your customers and to proactively create cases for service disruptions. Use Customer Service guided setup to [Configure Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-pcso.md).
 
 </td></tr><tr><td>
 
-[[customer-service-case-playbooks|Playbooks for Customer Service Management]]
+[Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md)
 
 </td><td>
 
-Playbooks provide step-by-step guidance for completing the tasks needed to resolve specific types of customer service cases.The following playbooks are available for [[c_CustomerServiceManagement|Customer Service Management]] from the ServiceNow Store:
+Playbooks provide step-by-step guidance for completing the tasks needed to resolve specific types of customer service cases.The following playbooks are available for Customer Service Management from the ServiceNow Store:
 
--   [[csm-case-type-onboarding|Case Playbook for Onboarding]]
--   [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
--   [[csm-playbook-product-support|Case Playbook for Product Support]]
+-   Case Playbook for Onboarding
+-   Case Playbook for Complaints
+-   Case Playbook for Product Support
 
 </td></tr><tr><td>
 
-[[setting-up-guided-decisions|Guided decisions]]
+[Guided decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Resolve complex cases faster and more efficiently by guiding customer service ag
 
 </td></tr><tr><td>
 
-[[lookup-and-verify-overview|Lookup and verify]]
+[Lookup and verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-and-verify-overview.md)
 
 </td><td>
 
@@ -81,30 +81,11 @@ This feature enables customer service agents to quickly look up contacts or cons
 
 </td></tr><tr><td>
 
-[[ettr|Estimated time to resolve a case]]
+[Estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr.md)
 
 </td><td>
 
-Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group. For details, see [[ettr_configure|Configure estimated time to resolve a case]].
+Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group. For details, see [Configure estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr_configure.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customer-central|Customer Central]]
-- [[configure-customer-central|Configure Customer Central]]
-- [[customer-service-case-types|Customer service case types]]
-- [[configure-csm-case-types|Configuring customer service case types]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[configure-pcso|Configure Proactive Customer Service Operations]]
-- [[customer-service-case-playbooks|Playbook capabilities]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[ettr|Estimated time to resolve a case]]
-- [[ettr_configure|Configure the default estimated resolution time]]
-- [[gamification-components-points|Points]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-case-type-onboarding|Case Playbook for Onboarding]]
-- [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
-- [[csm-playbook-product-support|Case Playbook for Product Support]]

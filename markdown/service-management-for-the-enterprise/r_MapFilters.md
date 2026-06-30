@@ -19,18 +19,12 @@ There are two types of map filters:
 -   Simple filter: Allows you to quickly highlight spaces based on conditions.
 -   Saved filter: Allows advanced filtering when you want to highlight spaces, based on conditions not supported by a simple filter.
 
--   **[[r_SimpleFilters|Simple filters]]**  
+-   **[Simple filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SimpleFilters.md)**  
 Simple filters are available for the **Workbench** and the floor plan.
--   **[[r_SavedFilters|Saved filters]]**  
+-   **[Saved filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SavedFilters.md)**  
 A saved filter allows advanced filtering when you want to highlight spaces, based on conditions not supported by a simple filter.
--   **[[t_CreateAMapFilter|Create a map filter in Facilities Service Management]]**  
+-   **[Create a map filter in Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateAMapFilter.md)**  
 Create a custom filter to highlight spaces on a map for fast and easy recognition. You can create custom filters for any mappable space \(fm\_space\), asset, associated user, CI, or task with a location defined.
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[r_SimpleFilters|Simple filters]]
-- [[r_SavedFilters|Saved filters]]
-- [[t_CreateAMapFilter|Create a map filter in Facilities Service Management]]
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

@@ -12,7 +12,7 @@ breadcrumb: [Mobile app components, Building mobile apps, Mobile Platform]
 
 # Navigation bar
 
-User the navigation bar in your mobile apps to access [[sg-mobile-applet-launcher|launcher screens]], screens, settings, and notifications.
+User the navigation bar in your mobile apps to access launcher screens, screens, settings, and notifications.
 
 <table id="table_pll_qnn_rhb"><tbody><tr><td>
 
@@ -38,7 +38,7 @@ The navigation bar consists of these components:
 
 The navigation bar appears at the bottom of each mobile app. You can create navigation bar tabs in the navigation bar. Users can access launcher screens and regular screens within the navigation bar.
 
- **Note:** The navigation bar in each mobile app is preconfigured with **Notifications** and **Settings** navigation bar tabs. For more information about the content of these tabs, see [[mobile-layout|Mobile app structure]]. There is also a saved tab, which displays a page showing the user's saved records.
+ **Note:** The navigation bar in each mobile app is preconfigured with **Notifications** and **Settings** navigation bar tabs. For more information about the content of these tabs, see [Mobile app structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-layout.md). There is also a saved tab, which displays a page showing the user's saved records.
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ When you add more than five tabs to the navigation bar, a **More** \(\[Omitted i
 
 </td><td>
 
-Use a screen tab to enable access directly to a calendar, custom map, list, map, or [[url-screen|mobile web screen]].
+Use a screen tab to enable access directly to a calendar, custom map, list, map, or mobile web screen.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Consider these general guidelines when configuring your navigation bar.
     -   Rather than removing the Setting and Notification tabs, consider changing the order in which they appear in the navigation bar.
     -   The Settings, Notifications, and Saved tabs navigate to specific pages, so only one of each tab is required. You can use multiple screen and launcher screen tabs, however it's suggested that you use no more than five tabs.
 -   **Display specific tabs to specified users**
-    -   Apply user criteria permissions, so users only view tabs relevant to their work. For more information, see [[user-criteria-permissions|User criteria permissions in mobile apps]].
+    -   Apply user criteria permissions, so users only view tabs relevant to their work. For more information, see [User criteria permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-permissions.md).
     -   You should have the Settings and Navigation tabs available to users.
 -   **Tab names**
     -   Give your navigation tabs a descriptive name that provides context. Avoid generic names like Home or Apps.
@@ -99,9 +99,4 @@ Consider these general guidelines when configuring your navigation bar.
 
     The order of the tabs should be listed in the level of importance. This order varies for left-to-right languages and right-to-left languages.
 
-## Related
 
-- [[mobile-layout|Mobile app structure]]
-- [[user-criteria-permissions|User criteria permissions in mobile apps]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[url-screen|Mobile web screen]]

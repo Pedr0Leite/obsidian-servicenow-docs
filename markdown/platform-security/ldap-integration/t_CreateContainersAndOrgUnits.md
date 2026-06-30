@@ -26,7 +26,7 @@ Role required: admin
 
     **Note:** You can also view the list of other objects that are available. This list varies based on the schema extensions installed when you imported the LDF files.
 
-2.  When prompted for a value, enter the name of the OU such as `[[users|Users]]`.
+2.  When prompted for a value, enter the name of the OU such as `Users`.
 
     The screen displays a **More Attributes** button.
 
@@ -42,6 +42,3 @@ Role required: admin
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[users|Users]]

@@ -20,11 +20,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **Catalogs** &gt; **Customer operations** &gt; **Repair claim**.
+1.  Navigate to **Dealer Portal** &gt; **Catalogs** &gt; **Customer operations** &gt; **Repair claim**.
 
 2.  On the Claim details form, fill in the fields.
 
-    For a description of the field values, see [[mco-claim-details-form|Claim details form]].
+    For a description of the field values, see [Claim details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-claim-details-form.md).
 
 3.  Select **Continue**.
 
@@ -36,7 +36,7 @@ Role required: admin
 
 6.  On the Claim jobs form, fill in the fields.
 
-    For a description of the field values, see [[repair-claim-form|Repair claim form]].
+    For a description of the field values, see [Repair claim form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-form.md).
 
 7.  Select **Submit**.
 
@@ -50,14 +50,7 @@ The Claim job is successfully submitted for review and approval.
 **Related topics**  
 
 
-[[mco-warranty-clms|Repair claim]]
+[Repair claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-warranty-clms.md)
 
-[[mco-use-repair-claim|Repair claim]]
+[Repair claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-repair-claim.md)
 
-## Related
-
-- [[mco-claim-details-form|Claim details form]]
-- [[repair-claim-form|Repair claim form]]
-- [[mco-warranty-clms|Repair claim]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-dealer-portal|Dealer portal]]

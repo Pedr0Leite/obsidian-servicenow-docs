@@ -20,7 +20,7 @@ Report a safety concern or observation without revealing your identity.
 
 Role required:
 
--   For **[[employee-center-landing-page|Employee Center]]**: sn\_ohs\_im.requestor
+-   For **Employee Center**: sn\_ohs\_im.requestor
 -   For **Anonymous Report Center**: None/Anonymous reporter
 
 ## About this task
@@ -31,7 +31,7 @@ The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin mus
 
 1.  Navigate to **All** &gt; **Self service** &gt; **Employee Center**.
 
-2.  In the [[health-safety-overview|Health and Safety]] tab
+2.  In the Health and Safety tab
 
     -   Select the **Anonymously report a safety concern** quick link.
     -   Select **Health and safety observations** and then select the **Anonymously report a safety concern** card.
@@ -118,7 +118,3 @@ The anonymous report is submitted and you can use the report key and report numb
 
 [Work on an anonymous safety concern]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]

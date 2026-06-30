@@ -14,13 +14,13 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # Risk and compliance tab in AI Control Tower
 
-The Risk and compliance tab on the [[ai-control-tower-landing|AI Control Tower]] displays the risk classification of [[ai-assets|AI assets]] and the compliance posture for selected authority documents and policies.
+The Risk and compliance tab on the AI Control Tower displays the risk classification of AI assets and the compliance posture for selected authority documents and policies.
 
 AI assets refer to the various components and resources that are essential for the development, deployment, and operation of artificial intelligence systems. These assets can include:
 
-1.  [[ai-system|AI systems]]: The complete software or hardware infrastructure that runs AI algorithms and processes. This can include machine learning platforms, natural language processing systems, and other AI-driven applications.
-2.  [[ai-models|AI models]]: The mathematical and computational models that are trained on data to perform specific tasks. These models can range from simple linear regression models to complex deep learning neural networks.
-3.  AI [[ai-datasets|datasets]]: The collections of data used to train, validate, and test AI models.
+1.  AI systems: The complete software or hardware infrastructure that runs AI algorithms and processes. This can include machine learning platforms, natural language processing systems, and other AI-driven applications.
+2.  AI models: The mathematical and computational models that are trained on data to perform specific tasks. These models can range from simple linear regression models to complex deep learning neural networks.
+3.  AI datasets: The collections of data used to train, validate, and test AI models.
 
 For more information, see , , and .
 
@@ -36,22 +36,22 @@ The Risk and compliance dashboard has the following sections. You can drill down
 
 -   **Compliance by authority documents and policies**
 
-    The section shows compliance based on [[controls|controls]] implemented. By default, the compliance scores are displayed for the following frameworks that are provided in the library:
+    The section shows compliance based on controls implemented. By default, the compliance scores are displayed for the following frameworks that are provided in the library:
 
     -   NIST AI Risk Management Framework: This framework displays the four key associated citations, namely map, measure, manage, and govern. Each citation's compliance score is displayed based on its control attestations.
     -   EU Artificial Intelligence Act: This framework has multiple chapters that are displayed as citations and child citations. Each citation is mapped to a control objective to provide you with a compliance percentage score.
     -   Transparency in Frontier Artificial Intelligence Act \(SB 53\): Covers transparency and safety requirements for frontier AI system developers.
     -   Colorado Artificial Intelligence Act \(SB 205\): Covers requirements for developers and deployers of high-risk AI systems.
-    You can choose to view compliance data by selecting one of two options: **Authority Documents** or **Policies**. Additionally, you can view the overall compliance score percentage, along with the number of compliant and non-compliant authority documents and policies, by using the drop-down filter to select specific authority documents or policies. You can also see all the issues that require immediate attention and AI [[cases|cases]] related to each authority document or policy.
+    You can choose to view compliance data by selecting one of two options: **Authority Documents** or **Policies**. Additionally, you can view the overall compliance score percentage, along with the number of compliant and non-compliant authority documents and policies, by using the drop-down filter to select specific authority documents or policies. You can also see all the issues that require immediate attention and AI cases related to each authority document or policy.
 
     The authority documents are provided solely for informational and guidance purposes to assist with the initial setup of AI Risk and Compliance frameworks. It does not constitute legal advice or assurance of regulatory compliance. You are solely responsible for ensuring that all use of the content complies with applicable laws, regulations, directives, and industry standards in their jurisdictions.
 
-    **Note:** You can configure which authority documents and policies you want to display on the [[now-assist-center-home-page|home page]]. For more information, see Set up properties for compliance posture.
+    **Note:** You can configure which authority documents and policies you want to display on the home page. For more information, see Set up properties for compliance posture.
 
 
 ## Risk overview
 
-This section monitors and tracks the risk posture of the AI assets in your organization. Using the **AI asset** filter, you can filter risk posture insights by the type of [[ai-inventory|AI asset inventory]].
+This section monitors and tracks the risk posture of the AI assets in your organization. Using the **AI asset** filter, you can filter risk posture insights by the type of AI asset inventory.
 
 -   **AI systems by aggregated risk score**
 
@@ -86,14 +86,3 @@ The following image shows the Risk and compliance dashboard.
 
 For more information, see AI Risk and Compliance documentation.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]
-- [[controls|Controls]]
-- [[cases|Cases]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-inventory|AI asset inventory]]

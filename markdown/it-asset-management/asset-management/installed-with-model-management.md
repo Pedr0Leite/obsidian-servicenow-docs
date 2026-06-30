@@ -36,7 +36,7 @@ Model Management uses a number of business rules.
 |Protect Contract|\[cmdb\_model\_category\]|Prevents changes to the Contract model category record.|
 |Set parent's main component link|\[cmdb\_m2m\_model\_component\]|Populates a read-only reference from the bundle to the component when a bundle component is selected as the main component.|
 |Unflag parent on last delete|\[cmdb\_m2m\_model\_component\]|Removes the bundle flag from a model when the last component is deleted from the bundle.|
-|Update model category|\[cmdb\_ci\]|Updates the [[model-hierarchy|model categories]] for the associated model if the model is not already associated with the CI's model category.|
+|Update model category|\[cmdb\_ci\]|Updates the model categories for the associated model if the model is not already associated with the CI's model category.|
 |Validate record before creation|\[cmdb\_m2m\_model\_component\]|Ensures that a component is not already in a bundle when an attempt is made to add the component to a bundle.|
 
 ## Client scripts installed with Model Management
@@ -45,7 +45,7 @@ Model Management includes a number of client scripts.
 
 |Name|Table|Description|
 |----|-----|-----------|
-|Clear [[c_Models|models]] not matching license|\[cmdb\_m2m\_downgrade\_model\]|Clears the **Upgrade parent** and **Downgrade child** fields when the **License** field is changed to a license and neither the upgrade or downgrade fields match the license model.|
+|Clear models not matching license|\[cmdb\_m2m\_downgrade\_model\]|Clears the **Upgrade parent** and **Downgrade child** fields when the **License** field is changed to a license and neither the upgrade or downgrade fields match the license model.|
 |Constraints based on asset class|\[cmdb\_model\_category\]|Enables or disables bundling options based on the asset class of the category.|
 |Hide sections when needed|\[cmdb\_model\]|Shows and hides sections according to what is relevant for a given model.|
 |model\_category change|\[cmdb\_model\]|Ensures compatibility of classes between the several categories referenced by the same model \(client part\).|
@@ -75,7 +75,7 @@ When set to **true**, generates shorter display names for models by eliminating 
 -   false: Display name is Spotify Spotify Premium
 -   true: Display name is Spotify Premium
 
- For [[c_CreatingSoftwareModels|software models]], the edition and version are also included in the name, if they are specified.
+ For software models, the edition and version are also included in the name, if they are specified.
 
 -   Type: true \| false
 -   Default value: false
@@ -184,12 +184,6 @@ Model Management includes user roles.
 
 |Role|Contains Roles|Description|
 |----|--------------|-----------|
-|category\_manager|model manager|Can create, edit, and [[t_DeletingModelCategories|delete model categories]].|
+|category\_manager|model manager|Can create, edit, and delete model categories.|
 |model\_manager|none|Can create new CMDB models. The model manager role can control the base models and any model extensions that are not hardware, software, or consumables. Hardware and consumable models are controlled by the asset manager \(asset\) role. Software models are controlled by the software asset manager \(sam\) role.|
 
-## Related
-
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[t_DeletingModelCategories|Delete model categories]]

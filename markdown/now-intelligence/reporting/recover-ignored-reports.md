@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # Reassess ignored reports
 
-When you address the [[report-view-acl-dashboard|ACL Assessment for Reports]], you can ignore any report. View these reports to consider their statuses again.
+When you address the ACL Assessment for Reports, you can ignore any report. View these reports to consider their statuses again.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ The ACL Assessment for Reports assesses the `false` reports the next time you ru
 
 **Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)
 
-## Related
-
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Cost Management, Cloud Cost Management, IT Asset 
 
 # Configure Cloud Cost Management for AWS
 
-The [[cloud-insights-landing-page|Cloud Cost Management]] application is available on the ServiceNow Store.
+The Cloud Cost Management application is available on the ServiceNow Store.
 
 For more information, see [Configuring Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/configuring-cloud-insights.md).
 
@@ -26,11 +26,5 @@ For more information, see [Configuring Cloud Cost Management](https://raw.github
 ## Requirements and limitations for AWS
 
 -   You must have AWS administrator permissions to work in the AWS Management console.
--   The [[bh-cloudin|Business hours]], [[ur-cloudin|Unassigned resources]], [[um-cloudin|Unused resources]], and Rightsizing recommendations features support Amazon Elastic Compute Cloud \(EC2\) virtual machine \(VM\), storage \(volume and storage snapshots\), and database resources.
+-   The Business hours, Unassigned resources, Unused resources, and Rightsizing recommendations features support Amazon Elastic Compute Cloud \(EC2\) virtual machine \(VM\), storage \(volume and storage snapshots\), and database resources.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]
-- [[ur-cloudin|Unassigned resources]]
-- [[um-cloudin|Unused resources]]

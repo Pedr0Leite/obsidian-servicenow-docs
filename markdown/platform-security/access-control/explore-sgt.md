@@ -15,19 +15,19 @@ breadcrumb: [Scripting Governance Tool, Access Management]
 
 # Explore Scripting Governance Tool
 
-The [[scripting-governance|Scripting Governance Tool]] provides a single, centralised control for managing scripting access across your ServiceNow AI Platform.
+The Scripting Governance Tool provides a single, centralised control for managing scripting access across your ServiceNow AI Platform.
 
-The Zurich release introduces a feature that gives administrators centralised control over who can edit script fields on the ServiceNow AI Platform. The feature adds a new permission layer built on the **Conditional Script Writer** group and its child role, `snc_required_script_writer_permission`. [[users|Users]] must be members of this group to edit any script field, regardless of their existing ACL-based access. This permission layer is enforced through data-type ACLs and maintained by scheduled jobs and [[ca-system-properties|system properties]].
+The Zurich release introduces a feature that gives administrators centralised control over who can edit script fields on the ServiceNow AI Platform. The feature adds a new permission layer built on the **Conditional Script Writer** group and its child role, `snc_required_script_writer_permission`. Users must be members of this group to edit any script field, regardless of their existing ACL-based access. This permission layer is enforced through data-type ACLs and maintained by scheduled jobs and system properties.
 
 To manage this feature, ServiceNow AI Platform provides the **Scripting Governance Tool** — a dashboard where administrators can see which users have scripting access, scan the instance for users who have edited script fields, and directly add or revoke scripting access from users.
 
 ## Why it matters
 
-Scripting can read and write data across tables, bypass [[sc-business-logic|business logic]], and alter platform behaviour at a fundamental level making scripting access one of the most important permissions to govern on any instance.
+Scripting can read and write data across tables, bypass business logic, and alter platform behaviour at a fundamental level making scripting access one of the most important permissions to govern on any instance.
 
 Before Zurich, scripting access was controlled solely by ACLs on individual script fields. To determine which users could edit scripts, administrators had to check each ACL individually. There was no single place to view or manage scripting access across the instance.
 
-Scripting governance feature addresses it by adding a mandatory second layer of [[sc-access-control|access control]] on top of existing ACL-based permissions. Satisfying a field-level ACL alone is no longer sufficient to edit a script field. Now, security administrators can manage scripting access centrally by adding or removing users from the **Conditional Script Writer** group.
+Scripting governance feature addresses it by adding a mandatory second layer of access control on top of existing ACL-based permissions. Satisfying a field-level ACL alone is no longer sufficient to edit a script field. Now, security administrators can manage scripting access centrally by adding or removing users from the **Conditional Script Writer** group.
 
 ## The two-layer access model
 
@@ -65,7 +65,7 @@ Scripting governance feature introduces 9 data type ACLs to enforce Layer 2. The
     -   script\_client
     -   script\_plain
     -   script\_server
-    -   [[email|email]]\_script
+    -   email\_script
     -   html\_script
     -   html\_template
     -   xml
@@ -115,21 +115,10 @@ The Scripting Governance Tool is a dashboard that helps administrators manage sc
 
 You can also view which groups contain the scripting role and which roles contain it as a child role. There are two ways to manage scripting access through the tool:
 
--   **Manual [[sc-configuration|configuration]]**: Manually add or remove users from the **Conditional Script Writer** group to control who has scripting access.
--   **[[scan-for-users-who-have-scripted|Scan for users who have scripted]]**: Scan your instance to find users who have scripted within a specific time frame. The scan queries the audit [[logs|logs]] and identifies any user who has performed write or update to a table having script field.
+-   **Manual configuration**: Manually add or remove users from the **Conditional Script Writer** group to control who has scripting access.
+-   **Scan for users who have scripted**: Scan your instance to find users who have scripted within a specific time frame. The scan queries the audit logs and identifies any user who has performed write or update to a table having script field.
 
 \[Omitted image "scripting-governance-dashboard.png"\] Alt text: Scripting Governance Tool dashboard
 
 **Note:** It is recommended to manage scripting access exclusively through the **Conditional Script Writer** group. Adding the `snc_required_script_writer_permission` role as a child role to other roles or groups reduces your ability to centrally control who can script on your instance.
 
-## Related
-
-- [[scripting-governance|Scripting Governance Tool]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-business-logic|Business Logic]]
-- [[sc-access-control|Access control]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[scan-for-users-who-have-scripted|Scan for users who have scripted]]
-- [[logs|Logs]]

@@ -20,8 +20,8 @@ Workplace administrators and managers can view the workspace occupancy metrics t
 
 To view the Occupancy Dashboard report, ensure you have:
 
--   Installed [[workplace-central-feat|Workplace Central]] \(sn\_wsd\_central\) application plugin.
--   Workplace users must have an [[emp-slate-employee-profile|employee profile]] created.
+-   Installed Workplace Central \(sn\_wsd\_central\) application plugin.
+-   Workplace users must have an employee profile created.
 -   Workplace users must have a workplace location assigned in the employee profile.
 
 Workplace users with the following roles can access the Occupancy Dashboard report:
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_wc.admin
 
 1.  Navigate to **All** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard is displayed.
+    The Workplace Analytics dashboard is displayed.
 
 2.  Select **Occupancy Dashboard**.
 
@@ -80,7 +80,7 @@ Role required: sn\_wsd\_wc.admin
 **Related topics**  
 
 
-[View [[space-optimization|Space Optimization]] metrics]()
+[View Space Optimization metrics]()
 
 [View Lease Administration metrics]()
 
@@ -88,9 +88,3 @@ Role required: sn\_wsd\_wc.admin
 
 [Manage Workplace Dashboards]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

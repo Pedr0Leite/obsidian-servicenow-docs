@@ -14,11 +14,11 @@ breadcrumb: [Adding Virtual Agent to your web page, Configure, Virtual Agent, Co
 
 # Embed the Virtual Agent chat widget in an external web page \(legacy method\)
 
-Load the [[virtual-agent-landing-page|Virtual Agent]] chat widget interface in an external web page by using an inline frame element \(iframe\). You can also optionally enable the single sign-on \(SSO\) authentication process to run automatically for guest users who are using the chat widget and are not logged in.
+Load the Virtual Agent chat widget interface in an external web page by using an inline frame element \(iframe\). You can also optionally enable the single sign-on \(SSO\) authentication process to run automatically for guest users who are using the chat widget and are not logged in.
 
 ## Before you begin
 
-**Important:** Consider adding the Portable Virtual Agent Web Client to your web page instead. It reduces code complexity and is easier to implement. It also includes [[nava-standard-chat|standard chat]] features, such as click actions for launching or closing the chat. For details, see [Add the portable Virtual Agent chat widget to a third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-portable-va-client-website.md).
+**Important:** Consider adding the Portable Virtual Agent Web Client to your web page instead. It reduces code complexity and is easier to implement. It also includes standard chat features, such as click actions for launching or closing the chat. For details, see [Add the portable Virtual Agent chat widget to a third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-portable-va-client-website.md).
 
 -   In the iframe, you specify the URL of the instance to be embedded. If you're embedding the chat widget on any page that is not on your ServiceNow instance, the URL must be a custom instance URL. Due to increased browser security, the chat widget may fail to load if you don't use a custom URL. To learn more about using custom URLs, see [Associating custom URLs to your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/custom-url.md).
 
@@ -42,11 +42,11 @@ This procedure requires that you set values for the following two system propert
 -   **com.glide.cs.embed.csp\_frame\_ancestors**
 -   **com.glide.cs.embed.xframe\_options**
 
-These properties determine the security policy for the embedded chat widget, namely how browsers render and secure HTML content for Virtual Agent and Live [[ci-use-agent-chat|Agent chat]], in an iframe, before you embed the web chat client.
+These properties determine the security policy for the embedded chat widget, namely how browsers render and secure HTML content for Virtual Agent and Live Agent chat, in an iframe, before you embed the web chat client.
 
 To generate SSO authentication for your guest users, you can create a script that uses the `window.postMessage()` method \(Web API\) to trigger authentication and specify the URL where users are redirected after authentication. For more information on this method and Window objects, see [Window.postMessage\(\)](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage).
 
-**Note:** If you're using the Content [[management|Management]] System \(CMS\) application to create custom interfaces for the ServiceNow AI Platform and ServiceNow® applications, be aware that it does not support Virtual Agent.
+**Note:** If you're using the Content Management System \(CMS\) application to create custom interfaces for the ServiceNow AI Platform and ServiceNow® applications, be aware that it does not support Virtual Agent.
 
 ## Procedure
 
@@ -175,9 +175,3 @@ Specify a value, including: -   `sameorigin`. Default value. Displays the page i
 
 **Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-portable-va-web-client.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[management|Management]]

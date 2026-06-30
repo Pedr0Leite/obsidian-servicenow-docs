@@ -16,7 +16,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 You can consistently represent a product along all applications, processes, workflows, and user interactions through the Product Instance feature. Changes made to any of the product representations are synchronized automatically.
 
-The Product Instance feature enables you to have a common representation for any product tracked as an asset in [[it-asset-management|IT Asset Management]], an install base item \(IBI\) in Customer Service Management \(CSM\), and a configuration item in Configuration Management Database \(CMDB\). A Product Instance is associated with assets of a particular model category.
+The Product Instance feature enables you to have a common representation for any product tracked as an asset in IT Asset Management, an install base item \(IBI\) in Customer Service Management \(CSM\), and a configuration item in Configuration Management Database \(CMDB\). A Product Instance is associated with assets of a particular model category.
 
 **Note:** Product Instance is currently enabled only for the Medical device model category.
 
@@ -74,6 +74,4 @@ Synchronization of PID between an asset, CI, and IBI happens in the following ci
 
     A PID is regenerated and synchronized when any updates are made to the fields of the IBI that are part of the PID configuration parameters.
 
-## Related
 
-- [[it-asset-management|IT Asset Management]]

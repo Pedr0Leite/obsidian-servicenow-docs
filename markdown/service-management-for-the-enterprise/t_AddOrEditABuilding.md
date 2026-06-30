@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Building**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Building**.
 
 2.  Continue with one of the following options.
 
@@ -91,7 +91,7 @@ Location
 
 </td><td>
 
-Select the location for this building. Define the locations in Organization Management. A good practice is to select a location that is defined at the address, not at the floor level. Floors are defined separately in [[FacilitiesLandingPage|Facilities Service Management]].
+Select the location for this building. Define the locations in Organization Management. A good practice is to select a location that is defined at the address, not at the floor level. Floors are defined separately in Facilities Service Management.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Area unit
 
 Select the unit used for defining the space size: square feet or square meters.
 
- **Note:** The **Area unit** assigned to all spaces must be consistent for the roll-up calculations to work properly. See [[c_SpaceRollupCalculations|Space roll up calculations]].
+ **Note:** The **Area unit** assigned to all spaces must be consistent for the roll-up calculations to work properly. See [Space roll up calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_SpaceRollupCalculations.md).
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Enter a number to define the maximum level of utilization for the building.
 </table>4.  Click **Save** and the **Related Links** section displays.
 
     -   Show Floor Plan: Click to display a floor plan of the selected floor.
-    -   View Facilities Schedule: Click to [[t_CreateFacScheduleBlackout|create a facilities schedule blackout]] and prevent work from being performed in a defined area for a scheduled time period.
+    -   View Facilities Schedule: Click to create a facilities schedule blackout and prevent work from being performed in a defined area for a scheduled time period.
 5.  Three tabs appear:
 
     -   Levels: List of levels for the building. Click **New** to create a level or on an existing level to edit.
@@ -213,12 +213,5 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[c_SpaceRollupCalculations|Space roll up calculations]]
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[t_CreateFacScheduleBlackout|Create a facilities schedule blackout]]

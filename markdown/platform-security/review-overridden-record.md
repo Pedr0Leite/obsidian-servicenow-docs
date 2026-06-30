@@ -41,7 +41,7 @@ Role required: domain\_admin or admin
     |Process Name|Name of the process \(for example, Business Rule, UI Action, or Deactivate Audit\) that is overriding the upgraded global record.|
     |Domain Name|Name of the domain in which the record is overriding the upgraded global record.|
 
-5.  You can check a process name then select **Compare**. This allows [[users|users]] to view a side-by-side comparison of the overridden version \(version in global domain\) and the updated override version \(version in a specific domain\).
+5.  You can check a process name then select **Compare**. This allows users to view a side-by-side comparison of the overridden version \(version in global domain\) and the updated override version \(version in a specific domain\).
 
     **Note:** You will need the Admin role to use this feature.
 
@@ -52,6 +52,3 @@ Once you've reviewed the record's information, you can return to the overridden 
 
 **Note:** This marks the overridden record as **Reviewed**, and the dashboard will now indicate this status for the record.
 
-## Related
-
-- [[users|Users]]

@@ -14,15 +14,10 @@ breadcrumb: [Operational Sustainability Management \(formerly Environmental, Soc
 
 In the Operational Sustainability Workspace, you can view various dashboards and relevant data based on the overview pages of records. The data displayed is based on the user role of the users.
 
--   **[[goals-overview-page|Goals overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]**  
+-   **[Goals overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/goals-overview-page.md)**  
 Goals refer to objectives that an organization sets for itself to make an impact on their ESG initiatives. They help you to track your progress toward the material topics that you have identified.
--   **[[disclosure-overview-esg-workspace|Disclosure overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]**  
+-   **[Disclosure overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/disclosure-overview-esg-workspace.md)**  
 The **Overview** tab for the disclosure records in the Operational Sustainability Workspace is designed for different users to view the state and summary of the disclosures.
 
-**Parent Topic:**[[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
+**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-landing-page.md)
 
-## Related
-
-- [[goals-overview-page|Goals overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]
-- [[disclosure-overview-esg-workspace|Disclosure overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]
-- [[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]

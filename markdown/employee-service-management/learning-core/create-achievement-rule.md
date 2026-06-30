@@ -22,7 +22,7 @@ Role required: sn\_lep.achievement\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exploring-learning-exp|Learning]]** &gt; **[[achievements-lxp|Achievements]]** &gt; **Achievement Rules**.
+1.  Navigate to **All** &gt; **Learning** &gt; **Achievements** &gt; **Achievement Rules**.
 
 2.  Select **New**.
 
@@ -54,7 +54,3 @@ Role required: sn\_lep.achievement\_manager
 
 [Create an achievement rule item]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[achievements-lxp|Achievements]]

@@ -45,7 +45,7 @@ Role required: sn\_hr\_workday.admin
     |Worker home phone communication usage type ID|Unique identifier for the worker home phone communication usage type.|
     |Worker mobile phone device type ID|Unique identifier for worker mobile phone device type.|
     |Worker phone device Type ID|Unique identifier for worker phone device type.|
-    |Worker Home Address Type [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] Communication Usage Type ID|Unique identifier for worker home address.|
+    |Worker Home Address Type Reference Communication Usage Type ID|Unique identifier for worker home address.|
 
 3.  Click **Submit**.
 
@@ -54,6 +54,3 @@ Role required: sn\_hr\_workday.admin
 
 Click the Get Reference ID Types related link to run the flow that interacts with Workday to pull the reference ID types that are referenced in the configuration fields.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

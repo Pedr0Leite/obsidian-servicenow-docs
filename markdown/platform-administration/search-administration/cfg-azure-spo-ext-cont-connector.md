@@ -15,7 +15,7 @@ breadcrumb: [Microsoft SharePoint Online external content connector, Configure, 
 
 # Configure Microsoft SharePoint Online for external content indexing
 
-Register an OAuth 2.0 application in the Microsoft Entra [[admin-center-intro|admin center]] to allow the [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]] to access your Microsoft SharePoint Online source system.
+Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft SharePoint Online external content connector to access your Microsoft SharePoint Online source system.
 
 ## Before you begin
 
@@ -217,7 +217,3 @@ For details on creating and configuring a Microsoft SharePoint Online external c
 
 **Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]

@@ -19,7 +19,7 @@ All the response tasks associated with a security incident are displayed within 
 The analyst will be able to:
 
 -   create response task
--   [[assign_response_tasks|assign response tasks]] to self or others
+-   assign response tasks to self or others
 -   delete response tasks
 
 \[Omitted image "response-task.png"\] Alt text: Security Incident Response Tasks highlighted
@@ -27,7 +27,7 @@ The analyst will be able to:
 **Note:** To make any quick edits to the response tasks. Select the response task and a list of response tasks are displayed, select the record and make changes and save the response task.
 
 -   **[Create a Response Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create_response_task.md)**  
-[[t_CreateResponseTask|Create response tasks]] to track separate actions to be performed to respond to the security issue.
+Create response tasks to track separate actions to be performed to respond to the security issue.
 
 **Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
@@ -58,7 +58,3 @@ The analyst will be able to:
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[assign_response_tasks|Assign Response Tasks]]
-- [[t_CreateResponseTask|Create response tasks]]

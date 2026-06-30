@@ -26,7 +26,7 @@ Involved parties are individuals who are directly or indirectly connected to a c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Open a legal request or legal matter assigned to you in which you want to manage the involved parties.
 
@@ -43,6 +43,3 @@ Involved parties are individuals who are directly or indirectly connected to a c
 
 **Parent Topic:**[Managing complaint requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/managing-legal-investigations-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -26,7 +26,7 @@ In an iterative process, before the TPR manager closes an assessment, the TPR ma
 
 ## Procedure
 
-1.  In the **Quick actions** box on the [[tprm-ws-home-page|TPRM home page]] \[Omitted image "icon-tprm-ws-home.png"\] Alt text:, select **Create issue**.
+1.  In the **Quick actions** box on the TPRM home page \[Omitted image "icon-tprm-ws-home.png"\] Alt text:, select **Create issue**.
 
 2.  Select a template to fill in several fields on the form.
 
@@ -191,6 +191,3 @@ The highest priority issues are listed in the Issues by priority section of the 
 
 [Manage issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-manage.md)
 
-## Related
-
-- [[tprm-ws-home-page|TPRM Home page]]

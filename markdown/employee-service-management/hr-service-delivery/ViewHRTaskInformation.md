@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Tasks**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Tasks**.
 
     -   **Assigned to me:** All tasks assigned to the current user.
     -   **Open:** All open tasks.
@@ -34,6 +34,3 @@ Role required: sn\_hr\_core.case\_writer
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

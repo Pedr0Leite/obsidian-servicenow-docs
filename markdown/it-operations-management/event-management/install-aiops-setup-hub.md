@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
     The Admin Home page opens.
 
     \[Omitted image "aiops-admin-conf-home-page1.png"\] Alt text: Admin home page showing the product families.
 
-2.  In the [[r_ITOMApplications|IT Operations Management]] tile, select **View product overview**.
+2.  In the IT Operations Management tile, select **View product overview**.
 
     The Welcome! Let's get started dialog box appears.
 
@@ -40,7 +40,7 @@ Role required: admin
 
     \[Omitted image "aiops-admin-conf-not-installed-tab.png"\] Alt text: IT Operations Management page showing the plugins to be installed.
 
-4.  Install the [[itom-health-landing-page|ITOM AIOps]] plugin by selecting the install icon \(\[Omitted image "icon-aiops-admin-conf-install.png"\] Alt text: install icon\).
+4.  Install the ITOM AIOps plugin by selecting the install icon \(\[Omitted image "icon-aiops-admin-conf-install.png"\] Alt text: install icon\).
 
 5.  To select the Now Assist for IT Operations Management \(ITOM\) plugin, perform the following steps:
 
@@ -48,8 +48,4 @@ Role required: admin
     2.  On the Application manager page, select **Install**.
     Both plugins are installed and listed in the **Installed** tab in the IT Operations Management page.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[itom-health-landing-page|ITOM AIOps]]

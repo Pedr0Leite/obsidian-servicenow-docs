@@ -71,7 +71,7 @@ Content type
 </td><td>
 
 Select a content type to use the video content. Choose from:-   Rich content
--   [[ec-news-articles|News articles]]
+-   News articles
 -   Banner
 
 
@@ -93,6 +93,3 @@ Makes this content provider available for use in the specific content type
 -   To provide content managers with an interface where they can select a video, [Configure video content search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-search.md)
 -   To add interface elements to the Content Library video picker, [Configure content rendering parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-rendering-parameter.md)
 
-## Related
-
-- [[ec-news-articles|News articles]]

@@ -19,22 +19,17 @@ After a PIP request is initiated by a manager, a structured workflow \(a predefi
 ## Before you begin
 
 -   Role required: admin
--   Install the Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]], and Enterprise Onboarding and Transitions plugins.
--   Activate the HR Taxonomy, and [[document-templates-overview|Document Templates]] applications from ServiceNow Store.
+-   Install the Human Resources Scoped App: Employee Relations, and Enterprise Onboarding and Transitions plugins.
+-   Activate the HR Taxonomy, and Document Templates applications from ServiceNow Store.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**.
 
-2.  Open the Performance Improvement plan \(PIP\) life cycle event with predefined [[activity-lxp|activity]] sets and activities.
+2.  Open the Performance Improvement plan \(PIP\) life cycle event with predefined activity sets and activities.
 
     \[Omitted image "pip-service.png"\] Alt text: Performance Improvement plan lifecycle event
 
 3.  Configure the activity set and activities as per your business use case.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

@@ -18,11 +18,11 @@ Complete the accelerator fulfillment process without squad assistance.
 
 ## Before you begin
 
-Role required: [[impact-landing-page|impact]] app admin, impact platform owner, or impact portfolio owner
+Role required: impact app admin, impact platform owner, or impact portfolio owner
 
 ## About this task
 
-The self-serve flow for [[on-demand-accelerators|on-demand accelerators]] is structured across different types of activities grouped as questionnaire, transformation, and action plan. Each group has multiple steps with a set of instructions and related forms that you must complete in sequence. At the end of the self-serve flow, download the 90-day action plan for the selected accelerator.
+The self-serve flow for on-demand accelerators is structured across different types of activities grouped as questionnaire, transformation, and action plan. Each group has multiple steps with a set of instructions and related forms that you must complete in sequence. At the end of the self-serve flow, download the 90-day action plan for the selected accelerator.
 
 ## Procedure
 
@@ -65,7 +65,3 @@ The self-serve flow for [[on-demand-accelerators|on-demand accelerators]] is str
 
 [ServiceNow Governance – On Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/servicenow-governance-on-demand.md)
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[on-demand-accelerators|On-demand accelerators]]

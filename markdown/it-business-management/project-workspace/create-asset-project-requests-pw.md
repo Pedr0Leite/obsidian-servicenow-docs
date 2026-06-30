@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Create an Asset Project Request from Project Workspace
 
-Create a new asset project request directly from [[project-workspace-landing-page|Project Workspace]] and associate it to a project for tracking and reporting purpose.
+Create a new asset project request directly from Project Workspace and associate it to a project for tracking and reporting purpose.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Analyze asset project requests associated with a project from Project Workspace,
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

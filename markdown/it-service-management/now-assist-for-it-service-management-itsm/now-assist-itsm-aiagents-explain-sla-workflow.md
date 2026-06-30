@@ -19,7 +19,7 @@ Use the explain SLA agentic workflow to analyze a Service Level Agreement \(SLA\
 
 ## Explain SLA agentic workflow overview
 
-The explain SLA agentic workflow begins with identifying the most important SLA associated with a task. By default, the matched SLA is the SLA that would be breached first. However, a different SLA can also be identified based on your [[sla-timer|SLA timer]] configuration. The workflow then suggests a few standard questions about the identified SLA. Based on the questions asked, the workflow explains the SLA breakdown by assignment, SLA duration, and provides insight into the task ownership, reassignment, and causes for the SLA breach.
+The explain SLA agentic workflow begins with identifying the most important SLA associated with a task. By default, the matched SLA is the SLA that would be breached first. However, a different SLA can also be identified based on your SLA timer configuration. The workflow then suggests a few standard questions about the identified SLA. Based on the questions asked, the workflow explains the SLA breakdown by assignment, SLA duration, and provides insight into the task ownership, reassignment, and causes for the SLA breach.
 
 The explain SLA agentic workflow can be used in the following scenarios:
 
@@ -28,7 +28,7 @@ The explain SLA agentic workflow can be used in the following scenarios:
 
 **Note:** The explain SLA agentic workflow doesn’t have a trigger and is invoked manually.
 
-To modify the explain SLA agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the explain SLA agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
@@ -79,7 +79,3 @@ For the query instruction, follow the steps specified in the **List of steps** f
 
 In the AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[sla-timer|SLA timer]]
-- [[settings-mobile|Settings]]

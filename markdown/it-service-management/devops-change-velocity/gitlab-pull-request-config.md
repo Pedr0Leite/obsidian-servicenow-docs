@@ -14,10 +14,10 @@ breadcrumb: [GitLab, Integrate, DevOps Change Velocity, IT Service Management]
 
 # GitLab pull request configurations
 
-GitLab pull \(merge\) request pipeline executions, which goes through change acceleration before moving to production, can be tracked in [[devops-landing-page-new|DevOps Change Velocity]]. This integration also collects GitLab merge requests meta data to persist in DevOps Change Velocity. The data is linked with the change created in the merge request pipeline execution and can be used for applying change policies, review, and approval.
+GitLab pull \(merge\) request pipeline executions, which goes through change acceleration before moving to production, can be tracked in DevOps Change Velocity. This integration also collects GitLab merge requests meta data to persist in DevOps Change Velocity. The data is linked with the change created in the merge request pipeline execution and can be used for applying change policies, review, and approval.
 
 -   Create, update, close, re-open, and merge of pull requests are supported.
--   Pull request pipeline execution for [[dev-ops-change-gitlab|change acceleration in GitLab]] pipelines is supported. Pull request details will be available for use in the change approval policy.
+-   Pull request pipeline execution for change acceleration in GitLab pipelines is supported. Pull request details will be available for use in the change approval policy.
 -   Status of GitLab pipeline is updated with the pull request status automatically after the change creation. The pipeline is paused and resumed automatically.
 -   Email ids are defaulted to the format `<user_name>@noreply.gitlab.com`.
 -   Comments are supported as part of merge request support. Create and update to pull requests are supported, while delete and edit are not supported.
@@ -36,7 +36,7 @@ For pull request and orchestration pipeline linking and to enable change approva
 -   Use GitLab Docker for change tracking. For detailed information, see [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md).
 -   From your GitLab project,
     1.  Navigate to
-        -   For GitLab cloud: **[[settings-mobile|Settings]]** &gt; **Merge requests**.
+        -   For GitLab cloud: **Settings** &gt; **Merge requests**.
         -   For On premises \(13.x\): **Settings** &gt; **General** &gt; **Merge requests**.
     2.  Select the **Pipelines must succeed** check box.
 
@@ -81,8 +81,3 @@ For pull request and orchestration pipeline linking and to enable change approva
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dev-ops-change-gitlab|Change acceleration in GitLab]]
-- [[settings-mobile|Settings]]

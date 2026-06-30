@@ -16,7 +16,7 @@ Review the components that are installed with the Commercial Lines Servicing app
 
 ## Before you begin
 
-Make sure that the Commercial Lines Servicing application is installed. For more information, see [[install-ins-policy-ops|Install Personal Lines Servicing]].
+Make sure that the Commercial Lines Servicing application is installed. For more information, see [Install Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/install-ins-policy-ops.md).
 
 Role required: sn\_ins\_policy\_b2b.admin or admin
 
@@ -24,7 +24,7 @@ Role required: sn\_ins\_policy\_b2b.admin or admin
 
 1.  Import your financial accounts, financial products, financial institutions, and transactions data into ServiceNow tables.
 
-    For more information, see [[import-financial-accounts-products-institutions|Import your financial data using import sets]].
+    For more information, see [Import your financial data using import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/import-financial-accounts-products-institutions.md).
 
 2.  Review the installed components and modify them or add new ones as applicable.
 
@@ -42,7 +42,7 @@ Description
 
 </td><td>
 
-[[configure-service-definitions|Configure service definitions]] to enable unique flows and views for policy service case and task. You should configure service definitions for:-   Commercial Lines Servicing
+[Configure service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md) to enable unique flows and views for policy service case and task. You should configure service definitions for:-   Commercial Lines Servicing
 -   Commercial Lines Underwriting
 
 
@@ -52,7 +52,7 @@ Description
 
 </td><td>
 
-[[create-modify-record-producers-fso-apps|Create or modify record producers]] to define request forms.
+[Create or modify record producers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/create-modify-record-producers-fso-apps.md) to define request forms.
 
 </td></tr><tr><td id="d36235e188">
 
@@ -60,7 +60,7 @@ Description
 
 </td><td>
 
-[[configure-flow-designer-flows-fso-apps|Create flows]] using Workflow Studio.
+[Create flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
 
 </td></tr><tr><td id="d36235e210">
 
@@ -68,7 +68,7 @@ Description
 
 </td><td>
 
-[[configure-playbooks-fso-apps|Edit or create a new playbook]] using Playbooks.
+[Edit or create a new playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-playbooks-fso-apps.md) using Playbooks.
 
 </td></tr><tr><td id="d36235e232">
 
@@ -76,7 +76,7 @@ Description
 
 </td><td>
 
-[[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]] to enable requesters, contributors, and processors to interact with customers, and create and work on cases.
+[Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md) to enable requesters, contributors, and processors to interact with customers, and create and work on cases.
 
 </td></tr><tr><td id="d36235e259">
 
@@ -84,7 +84,7 @@ Description
 
 </td><td>
 
-[[configure-request-types-fso|Modify interceptors and workspace record type selectors]] to configure policy request types.
+[Modify interceptors and workspace record type selectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-request-types-fso.md) to configure policy request types.
 
 </td></tr><tr><td id="d36235e278">
 
@@ -92,7 +92,7 @@ Description
 
 </td><td>
 
-[[configure-groups-fso|Configure user groups]] for assignment of cases and tasks. You can also assign roles to groups and users.
+[Configure user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.
 
 </td></tr><tr><td id="d36235e297">
 
@@ -100,7 +100,7 @@ Description
 
 </td><td>
 
-[[configure-assignment-rules-fso-applications|Configure assignment rules]] to identify cases that meet certain conditions and then route those cases to agents.
+[Configure assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
 
 </td></tr><tr><td id="d36235e314">
 
@@ -108,7 +108,7 @@ Description
 
 </td><td>
 
-[[configure-sla-definitions-fso-cases|Configure the installed SLAs]] to configure SLA timings for policy service cases and tasks.
+[Configure the installed SLAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-sla-definitions-fso-cases.md) to configure SLA timings for policy service cases and tasks.
 
 </td></tr><tr><td id="d36235e333">
 
@@ -116,24 +116,9 @@ Description
 
 </td><td>
 
-[[configuring-fso-document-processor|Configure Document Processor]] for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
+[Configure Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
+**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)
 
-## Related
-
-- [[install-ins-policy-ops|Install Personal Lines Servicing]]
-- [[import-financial-accounts-products-institutions|Import your financial data using import sets]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[create-modify-record-producers-fso-apps|Create or modify record producers]]
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[configure-playbooks-fso-apps|Configure playbooks]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[configure-request-types-fso|Configure request types]]
-- [[configure-groups-fso|Configure groups]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configure-sla-definitions-fso-cases|Configure SLA definitions]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]

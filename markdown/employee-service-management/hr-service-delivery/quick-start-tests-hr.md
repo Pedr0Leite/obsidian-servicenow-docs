@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Quick start tests for HR Service Delivery
 
-Validate the continued functionality of [[hr-service-delivery|HR Service Delivery]] after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate the continued functionality of HR Service Delivery after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 All test suites and tests should pass on a default implementation. To validate a custom implementation, copy the automated tests and configure them for your customizations.
 
@@ -28,7 +28,7 @@ The Agile Development 2.0 plugin \(com.snc.sdlc.agile.2.0\) and the Agile Develo
 
 ## Employee Document Management
 
-[[hr-employee-doc-management|Employee Document Management]] quick start tests require activating the Employee Document Management \(com.sn\_employee\_document\_management\) plugin.
+Employee Document Management quick start tests require activating the Employee Document Management \(com.sn\_employee\_document\_management\) plugin.
 
 |Test|Description|Release version|
 |----|-----------|---------------|
@@ -76,7 +76,7 @@ Create HR Employee Document
 
 </td><td>
 
-Creates an employee document and ensures the Attachment \[sys\_attachment\] table points back to the record in the Employee Document \[sn\_hr\_ef\_employee\_document\] table.Verifies that the employee document is accessible from the [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]] via the employee [[c_HRProfileRecords|HR profile]].
+Creates an employee document and ensures the Attachment \[sys\_attachment\] table points back to the record in the Employee Document \[sn\_hr\_ef\_employee\_document\] table.Verifies that the employee document is accessible from the Employee Center or Employee Center Pro via the employee HR profile.
 
 </td><td>
 
@@ -160,7 +160,7 @@ Madrid
 
 </td></tr><tr><td>
 
-HR: Creation of [[hr-case-employee-relations|Employee Relations]] case from ESC portal
+HR: Creation of Employee Relations case from ESC portal
 
 </td><td>
 
@@ -352,7 +352,7 @@ San Diego
 
 </td></tr><tr><td>
 
-[[jny-dsgnr-landing-page-1|Journey Designer]]: Create stage and edit stage
+Journey Designer: Create stage and edit stage
 
 </td><td>
 
@@ -388,11 +388,11 @@ Vancouver
 
 </td></tr><tr><td>
 
-[[learning-core_overview|Learning Core]] Task Assignment
+Learning Core Task Assignment
 
 </td><td>
 
-Verifies a [[exploring-learning-exp|learning]] task from a learning catalog can be assigned to a user.
+Verifies a learning task from a learning catalog can be assigned to a user.
 
 </td><td>
 
@@ -417,7 +417,7 @@ San Diego
 
 -   Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 -   Employee Center \[com.sn\_hr\_service\_portal\]
--   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\]
+-   Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\]
 -   Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\]
 
 |Test|Description|Release version|
@@ -432,15 +432,3 @@ Requires the following plugin activation: Human Resources Scoped App: Core \[com
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

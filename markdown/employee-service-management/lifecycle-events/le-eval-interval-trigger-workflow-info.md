@@ -14,11 +14,11 @@ breadcrumb: [Lifecycle Events evaluation interval, Configure a lifecycle event, 
 
 # Lifecycle Events triggers and workflow reference
 
-Information about [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] triggers and workflow.
+Information about Lifecycle Events triggers and workflow.
 
 ## HR Activity launcher flow
 
-When a lifecycle event case is changed to the Ready state, all [[activity-lxp|activity]] sets run through the HR Activity Launcher flow. The activities in each activity set aren’t triggered. When an activity set isn’t dependent on other activity sets to trigger activities, the trigger conditions are analyzed.
+When a lifecycle event case is changed to the Ready state, all activity sets run through the HR Activity Launcher flow. The activities in each activity set aren’t triggered. When an activity set isn’t dependent on other activity sets to trigger activities, the trigger conditions are analyzed.
 
 If the trigger condition hasn’t been met, it waits for the Wait to reevaluate the Trigger Script timer to run \(default is every four hours\).
 
@@ -83,7 +83,3 @@ After you've determined the server-side location to check the trigger criteria, 
 
 **Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

@@ -16,9 +16,9 @@ breadcrumb: [Legal Service Delivery Practice Applications, Legal Service Deliver
 
 The ServiceNow® Legal Content Review application enables employees to raise a legal review request of any marketing materials, collaterals, or presentation contents and resolve the issues.
 
-Employees can submit [[legal-content-review-requests|Legal Content Review requests]], monitor the progress of the requests, and read related knowledge base articles through a web portal or Virtual Agent. The Legal Content Review request is associated with the Compliance practice area.
+Employees can submit Legal Content Review requests, monitor the progress of the requests, and read related knowledge base articles through a web portal or Virtual Agent. The Legal Content Review request is associated with the Compliance practice area.
 
-Legal teams can collaborate in a centralized [[legal-counsel-center-landing|Legal Counsel Center]] to manage legal intake volume, resolve Legal Content Review requests, and monitor work analytics.
+Legal teams can collaborate in a centralized Legal Counsel Center to manage legal intake volume, resolve Legal Content Review requests, and monitor work analytics.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -34,7 +34,7 @@ Legal teams can collaborate in a centralized [[legal-counsel-center-landing|Lega
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-cr-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-cr-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -81,8 +81,3 @@ Reference topics provide additional information about the lists and forms that y
 
 [Legal Hold Notification]()
 
-## Related
-
-- [[legal-content-review-requests|Legal Content Review requests]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

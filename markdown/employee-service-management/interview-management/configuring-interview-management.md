@@ -14,7 +14,7 @@ breadcrumb: [Interview Management, Hiring Experiences, HR Service Delivery, Empl
 
 # Configuring Interview Management
 
-Install and configure [[interview-management-landing|Interview management]] to get started with your interview scheduling and management journey.
+Install and configure Interview management to get started with your interview scheduling and management journey.
 
 -   **[Install Interview management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/install-interview-management.md)**  
 You can install the Interview management application \(sn\_ta\_int\_mgmt\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
@@ -25,6 +25,3 @@ The interview health tracker alerts are driven by the Needs-attention framework.
 
 **Parent Topic:**[Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-landing.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]

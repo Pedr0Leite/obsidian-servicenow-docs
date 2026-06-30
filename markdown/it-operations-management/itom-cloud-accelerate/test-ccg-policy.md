@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Test the policy
 
-Test the [[cloud-configuration-governance|Cloud Configuration Governance]] policy against the configuration data imported for a previous [[ccg-scan-run|scan run]]. Test the policy to make sure that it is working properly.
+Test the Cloud Configuration Governance policy against the configuration data imported for a previous scan run. Test the policy to make sure that it is working properly.
 
 ## Before you begin
 
@@ -33,7 +33,4 @@ Test the [[cloud-configuration-governance|Cloud Configuration Governance]] polic
 
 5.  Select **OK**.
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-run|Scan run]]

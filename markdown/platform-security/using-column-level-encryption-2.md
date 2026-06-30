@@ -14,24 +14,24 @@ breadcrumb: [Column Level Encryption, Encryption]
 
 Use Column Level Encryption to manage access to encrypted data on your instances.
 
-Use the related links to find information on common [[field-encryption|Field Encryption]] tasks.
+Use the related links to find information on common Field Encryption tasks.
 
--   **[[create-PE-cryptographic-module-2|Create cryptographic module for Column Level Encryption]]**  
+-   **[Create cryptographic module for Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module-2.md)**  
 Create a Field Encryption cryptographic module to define the mechanisms used for cryptographic operations.
--   **[[encrypt-data-using-multiple-modules-feature|Encrypt data using the Multiple Modules feature]]**  
-Encrypt data with more than one [[encryption-landing|encryption]] module permitting the user to determine which keys are used for specific rows within the encrypted data.
--   **[[create-crypto-spec-pe-2|Create a cryptographic specification for Column Level Encryption]]**  
-After you [[create-cryptographic-module|create a cryptographic module]], access the corresponding cryptographic specification to define the algorithm.
--   **[[adv-algorithm-cleent-2|Configure advanced algorithms for Column Level Encryption Enterprise]]**  
-[[create-crypto-spec|Create a cryptographic specification]] to define the algorithm for a cryptographic module. Customize the encryption specifications with advanced options that are available for [[now-platform-encryption-2|Column Level Encryption Enterprise]].
--   **[[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]**  
+-   **[Encrypt data using the Multiple Modules feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encrypt-data-using-multiple-modules-feature.md)**  
+Encrypt data with more than one encryption module permitting the user to determine which keys are used for specific rows within the encrypted data.
+-   **[Create a cryptographic specification for Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-crypto-spec-pe-2.md)**  
+After you create a cryptographic module, access the corresponding cryptographic specification to define the algorithm.
+-   **[Configure advanced algorithms for Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/adv-algorithm-cleent-2.md)**  
+Create a cryptographic specification to define the algorithm for a cryptographic module. Customize the encryption specifications with advanced options that are available for Column Level Encryption Enterprise.
+-   **[Using customer supplied keys with Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing-2.md)**  
 You can use your own customer-supplied key instead of using the ServiceNow® system-generated keys.
--   **[[field-encryption-key-management|Encrypting fields and attachments]]**  
-Once cryptographic modules are created, a security admin can define the encrypted fields [[sc-configuration|configuration]] \(EFC\) and opt to encrypt a field or attachment on a table.
--   **[[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]**  
+-   **[Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)**  
+Once cryptographic modules are created, a security admin can define the encrypted fields configuration \(EFC\) and opt to encrypt a field or attachment on a table.
+-   **[Column Level Encryption Enterprise examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/kmf-walkthroughs-tutorials-2.md)**  
 These examples walk you through the encryption of fields and attachments using customer-supplied keys.
 
-**Parent Topic:**[[column-level-encryption-landing|Column Level Encryption]]
+**Parent Topic:**[Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/column-level-encryption-landing.md)
 
 **Related topics**  
 
@@ -42,24 +42,7 @@ These examples walk you through the encryption of fields and attachments using c
 
 [Configure advanced algorithms for Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/adv-algorithm-cleent-2.md)
 
-[[customer-supplied-keys|Configure properties for customer-supplied keys]]
+[Configure properties for customer-supplied keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/customer-supplied-keys.md)
 
 [Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)
 
-## Related
-
-- [[create-PE-cryptographic-module-2|Create cryptographic module for Column Level Encryption]]
-- [[encrypt-data-using-multiple-modules-feature|Encrypt data using the Multiple Modules feature]]
-- [[create-crypto-spec-pe-2|Create a cryptographic specification for Column Level Encryption]]
-- [[adv-algorithm-cleent-2|Configure advanced algorithms for Column Level Encryption Enterprise]]
-- [[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]
-- [[field-encryption-key-management|Encrypting fields and attachments]]
-- [[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[customer-supplied-keys|Configure properties for customer-supplied keys]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[sc-configuration|Configuration]]

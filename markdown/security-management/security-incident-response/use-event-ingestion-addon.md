@@ -14,7 +14,7 @@ breadcrumb: [Splunk Enterprise Security event ingestion integration, Security In
 
 # Using ServiceNow Security Operations Event Ingestion Add-on for Splunk ES
 
-Forward events on-demand from your Splunk Enterprise Security console to create a [[sir-landing-page|Security Incident Response]] \(SIR\) on the ServiceNow instance.
+Forward events on-demand from your Splunk Enterprise Security console to create a Security Incident Response \(SIR\) on the ServiceNow instance.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ Role required: sn\_sec\_splunkes.api\_account\_access
 
 ## Result
 
-A Security Incident Response \(SIR\) record is created on the ServiceNow instance as per the [[mapping-logrhythm|mapping]] specified in the Manual event forwarding profile. For instructions on how to set up a Manual event forwarding profile, see [Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
+A Security Incident Response \(SIR\) record is created on the ServiceNow instance as per the mapping specified in the Manual event forwarding profile. For instructions on how to set up a Manual event forwarding profile, see [Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]

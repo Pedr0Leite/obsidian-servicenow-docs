@@ -15,7 +15,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector upgrade properties
 
-System properties that control [[acc-landing-page|Agent Client Collector]] upgrade behavior, including the target version, rate limits, retry logic, and timeouts.
+System properties that control Agent Client Collector upgrade behavior, including the target version, rate limits, retry logic, and timeouts.
 
 ## Selective upgrade properties
 
@@ -45,6 +45,3 @@ The **sn\_agent.agent\_upgrade\_version** property is specifically for overridin
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

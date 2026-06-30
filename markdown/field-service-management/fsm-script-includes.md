@@ -12,11 +12,11 @@ breadcrumb: [Reference, Field Service Management]
 
 # Field Service Management script includes
 
-Script includes used in [[fsm-application-landing-page|Field Service Management]] help configure agent scheduling, dispatch operations, part management, integrations, and more.
+Script includes used in Field Service Management help configure agent scheduling, dispatch operations, part management, integrations, and more.
 
 |Script include|Description|
 |--------------|-----------|
-|AffectedProductUtil|Manages affected product records \(wm\_m2m\_product\_to\_work\_order\) on work orders and tasks, providing methods to determine product display names from assets/install base items/CIs, create primary affected products, and update related [[c_PartRequirements|part requirements]] and asset usage references.|
+|AffectedProductUtil|Manages affected product records \(wm\_m2m\_product\_to\_work\_order\) on work orders and tasks, providing methods to determine product display names from assets/install base items/CIs, create primary affected products, and update related part requirements and asset usage references.|
 |AgentScheduleAttributePlanAJAX|AJAX processor that retrieves a field service agent's default location from sys\_user and calculates the next available rank for agent schedule attribute plans by querying the wm\_agent\_schedule\_attribute\_plan table.|
 |AgentScheduleAttributePlanConstants|Customer-extensible constants class that clones AgentScheduleAttributePlanConstantsSNC, providing a customization layer for agent schedule attribute plan constants without modifying the base SNC version.|
 |AgentScheduleAttributePlanConstantsSNC|Defines base constants for the agent schedule attribute plan feature, including the table name \(wm\_agent\_schedule\_attribute\_plan\), default rank values, date range defaults, role references, and field lists used by the scheduling attribute plan framework.|
@@ -28,7 +28,7 @@ Script includes used in [[fsm-application-landing-page|Field Service Management]
 |AutoRejectWorkOrderTask|Automatically rejects \(unassigns\) a work order task if the assigned agent hasn't accepted it within the configured acceptance duration, logging a rejection record to wm\_task\_rejection with an 'auto\_reject' reason.|
 |CollisionDetectorDelegate|Thin wrapper around ServiceNow's GlideCollisionDetector API that checks whether the collision detector is loaded and whether a specific update name key exists in the collision detector cache.|
 |DeliveryTypeCheckUtils|Determines whether a transfer order line qualifies as a local pickup by checking if the source stockroom type doesn't require shipment, the transfer order isn't a drop-off, and the associated task is a WM task or field stockroom request.|
-|DynamicSchedulingConfigID|AJAX processor that returns the sys\_id of the appropriate [[dynamic-scheduling|dynamic scheduling]] configuration record based on whether the work order \(wm\_order\) configuration is request-driven or not.|
+|DynamicSchedulingConfigID|AJAX processor that returns the sys\_id of the appropriate dynamic scheduling configuration record based on whether the work order \(wm\_order\) configuration is request-driven or not.|
 |ExecuteAffectedProductRules|Evaluates changes to asset and install\_base\_item fields on work order/task records and triggers the appropriate AffectedProductUtil action \(add, update, or remove\) to keep the primary affected product in synchronization.|
 |FlagTaskUtil|AJAX utility that enables field service agents to flag and unflag work order tasks by creating or deleting records in the wm\_m2m\_user\_flag\_task many-to-many table, and provides methods to check if a task is flagged and retrieves all flagged tasks for the current user.|
 |FSMAgentInfo|Manages field service agent status transitions \(on-shift, off-shift, on-break, on-route, on-site\) by validating enabled state changes, updating the sys\_user agent\_status field, storing shift/break history, and recording geolocation history for tracked agents.|
@@ -58,13 +58,13 @@ Script includes used in [[fsm-application-landing-page|Field Service Management]
 |FSMRoutingUtil|Calculates driving distance and estimated travel time between agents and tasks for agent recommendation, supporting both map-provider-based \(for example, Google Maps\) routing and crow-fly distance, with methods for processing suggested agents with or without agent recommendation enabled.|
 |FSMSchedulingAjax|Simple AJAX processor wrapper that exposes the setManualSchedulingMethod function, enabling the client side to set the scheduling method of one or more work order tasks to 'manual' via FSMSchedulingUtil.|
 |FSMSchedulingAssistantInfoUtil|Provides supporting data for the scheduling assistant by evaluating agent part availability \(matching task part requirements against agents' personal stockroom inventory\) and integrating with WFO scheduling when enabled.|
-|FSMSchedulingAssistantUtil|Powers the scheduling assistant by retrieving available work blocks \(time slots\) for task assignment, supporting both dynamic scheduling \(via DynamicSchedulingProcessor\) and non-dynamic modes, and checking for [[schedule-optimization|schedule optimization]] conflicts on locked tasks.|
+|FSMSchedulingAssistantUtil|Powers the scheduling assistant by retrieving available work blocks \(time slots\) for task assignment, supporting both dynamic scheduling \(via DynamicSchedulingProcessor\) and non-dynamic modes, and checking for schedule optimization conflicts on locked tasks.|
 |FSMSchedulingFilters|Provides filter queries for the dispatch map and scheduling views, including retrieving tasks flagged for review, tasks assigned to undersized crews, users with active work schedules \(supporting both FSM and WFO schedule sources\), and users with specific roles.|
 |FSMSchedulingUtil|Provides core scheduling record management utilities: inserting tasks into the review queue, proposed schedule, and scheduling history tables; setting tasks to manual scheduling method; retrieving user timezone information; and checking for schedule overlaps between agents.|
 |FSMSkillUtil|Queries and matches skills for tasks and agents by reading from the task\_m2m\_skill table \(with task bundle support\), retrieves an agent's matching skills, and checks whether skills-based configuration is enabled for dispatch.|
 |FSMStateFlowUtil|Determines whether a completed work order task qualifies for the task review flow by running the sn\_fsm\_quality task review subflow, checks if a task is assigned to an external contractor \(wm\_ext\_agent role\), and verifies whether the task review configuration flow is active.|
 |FSMTaskDependencyConstants|Defines static constants for the task dependency feature, including table/column names, dependency types \(finish-to-start, start-together\), lag time fields, violation types \(for example, min lag not elapsed, predecessor not finished\), and user-facing conflict/error messages.|
-|FSMTaskDependencyHelper|Evaluates task dependency violations for a successor task by checking predecessor completion status and lag time constraints, determines whether a dependency conflict exists \(distinguishing warning vs. info severity\), and supports ignoring predecessor dependencies to force-[[t_StartWork|start work]].|
+|FSMTaskDependencyHelper|Evaluates task dependency violations for a successor task by checking predecessor completion status and lag time constraints, determines whether a dependency conflict exists \(distinguishing warning vs. info severity\), and supports ignoring predecessor dependencies to force-start work.|
 |FSMTaskDependencyUtil|Validates scheduling conflicts for task dependencies by comparing parent/child expected start and estimated end times against min/max lag time constraints for both finish-to-start and start-together dependency types, returning conflicting task numbers.|
 |FSMTaskMoveUtil|Handles task rescheduling and movement on the dispatch calendar by recalculating task end times based on current state \(WIP, on-route, closed, scheduled\), adjusting expected start times, managing travel/work duration estimates, and handling conflict detection with work spacing.|
 |FSMTaskQueryHelper|Retrieves an agent's \(or crew's\) assigned task events and personal calendar events for a given date range, supporting bundle tasks, dynamic scheduling, crew member expansion, and WFO schedule integration for the dispatch calendar view.|
@@ -76,7 +76,7 @@ Script includes used in [[fsm-application-landing-page|Field Service Management]
 |FSMTimeZoneUtil|Resolves timezones for various resource types \(agents, crews, equipment\) by querying user timezone settings, crew records, and equipment location timezone fields, with fallback to the system default timezone when a resource-specific timezone isn't available.|
 |FSMURLUtil|Constructs portal URLs for FSM by checking for custom URL configurations, and generates survey links for customer/consumer feedback by looking up assessment instances and building shortened portal URLs with the appropriate survey instance ID.|
 |FSMUtil|Central utility library for Field Service Management providing helper methods for user profiles, assignment group lookups \(for agents/managers/dispatchers\), role checks, Google Maps integration, agent geolocation and distance calculations, task state flow processing, work order/task relationship management, contextual search, and various record-level operations on wm\_task and wm\_order tables.|
-|FSMWFOUtil|Provides [[using-wfo-fsm|Workforce Optimization]] \(WFO\) integration for FSM agent shift scheduling, including methods to check if the FSM WFO plugin is active and enabled via sm\_config, create GlideDateTime objects with specific timezones, convert between timezones, and build timemaps from include/exclude spans.|
+|FSMWFOUtil|Provides Workforce Optimization \(WFO\) integration for FSM agent shift scheduling, including methods to check if the FSM WFO plugin is active and enabled via sm\_config, create GlideDateTime objects with specific timezones, convert between timezones, and build timemaps from include/exclude spans.|
 |FSMWMAssignmentGroupUtil|Determines whether the current user \(as a dispatcher\) is the dispatcher for a given agent by checking if the agent's group membership \(sys\_user\_grmember\) overlaps with the dispatcher's assigned groups.|
 |FSMWorkspaceUAUtil|Tracks and sends usage analytics events for work order creation within the FSM Agent Workspace, using the ServiceNow Usage Analytics Platform Analytics Framework \(sn\_uapaf\) to stream telemetry data to the 'snc.fsm.workspace' stream.|
 |GlideMutexAPI|Provides a scoped wrapper around GlideMutex for acquiring and releasing named mutex locks with configurable spin count and wait time, used for thread-safe synchronization in server-side scripts.|
@@ -104,14 +104,5 @@ Script includes used in [[fsm-application-landing-page|Field Service Management]
 |WorkManagementInitiation|Creates work orders \(wm\_order\) from various source records \(incidents, problems, changes, or other work orders\), checking for existing open work orders linked to the source via the initiated\_from field to prevent duplicates, and redirecting users to the newly created or existing work order.|
 |WOT\_Radius\_Checker|AJAX processor that checks whether an agent or crew is within the configured geofence radius of a work order task location by calling FSMUtil.calculateDistance/calculateCrewDistance, and returns the proximity result along with distance details to the client.|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[t_StartWork|Start work]]
-- [[using-wfo-fsm|Workforce Optimization]]

@@ -14,7 +14,7 @@ breadcrumb: [Legal Matter Management, Legal Service Delivery, Legal and Contract
 
 # Exploring Legal Matter Management
 
-[[legal-matter-management-landing-page|Legal Matter Management]] enables you to manage legal matters and cross-functional tasking to effectively complete legal work. You can store relevant documents and track important milestones of these legal matters from a single place.
+Legal Matter Management enables you to manage legal matters and cross-functional tasking to effectively complete legal work. You can store relevant documents and track important milestones of these legal matters from a single place.
 
 ## Legal Matter Management overview
 
@@ -36,7 +36,7 @@ Matter Configurator
 
 </td><td>
 
-Matter Configurator configures data such as practice area, category, [[legal-matter-administration|legal matter templates]], and notification templates
+Matter Configurator configures data such as practice area, category, legal matter templates, and notification templates
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Matter Manager
 
 Matter Manager can do the following:-   Create and promote legal matter.
 -   Mark matter as Privileged and confidential.
--   Use [[legal-counsel-center-landing|Legal Counsel Center]] to manage and track matter progress.
+-   Use Legal Counsel Center to manage and track matter progress.
 
 </td></tr></tbody>
 </table>## Legal Matter Management workflow
@@ -71,12 +71,12 @@ Matter Manager can do the following:-   Create and promote legal matter.
 3.  The legal matter fulfiller performs the following actions as required:
     -   Marks a matter as Privileged and Confidential.
     -   Initiates an ad hoc approval for a legal matter.
-    -   [[lmm-eng-outcounsel|Engage with outside counsel]].
-    -   [[send-receive-email-legal-matter|Communicate using emails from Legal Counsel Center]].
+    -   Engage with outside counsel.
+    -   Communicate using emails from Legal Counsel Center.
     -   Add a phase to a matter to track specific tasks to complete the matter.
     -   Create a task in a legal matter or a phase of the matter that you or another user should perform to resolve the matter.
-    -   [[add-artifact-to-legal-matter|Create an artifact for a legal matter]] to upload and store documents, emails, and files related to the matter.
-    -   [[add-milestone-to-legal-matter|Add a milestone to a legal matter]]
+    -   Create an artifact for a legal matter to upload and store documents, emails, and files related to the matter.
+    -   Add a milestone to a legal matter
     -   Associate one or more legal requests with a legal matter to organize and resolve related requests through a single matter.
 4.  Matter Fulfiller closes the legal request on fulfilling it.
 
@@ -88,25 +88,14 @@ Matter Manager can do the following:-   Create and promote legal matter.
 |Track and complete tasks and milestones through notifications|[Create a task for a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-tasks-to-legal-matter.md)|Matter fulfiller|
 |Make meaningful decisions by gaining real-time visibility on legal matters|[Analytics and Reporting Solutions for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legalsd-content-pack.md)|Matter Manager|
 |Track, prioritize, and work on multiple legal matters concurrently with an optimized Legal Counsel Center|[Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-landing.md)|Matter fulfiller and Matter Manager|
-|Attorney Client Privilege enables legal fulfillers to mark legal requests as privileged and confidential. This capability helps you protect sensitive legal communications and comply with [[lsd-acp-landing|attorney-client privilege]] requirements.|[Attorney Client Privilege](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-acp-landing.md)|Legal Fulfiller and matter owner|
+|Attorney Client Privilege enables legal fulfillers to mark legal requests as privileged and confidential. This capability helps you protect sensitive legal communications and comply with attorney-client privilege requirements.|[Attorney Client Privilege](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-acp-landing.md)|Legal Fulfiller and matter owner|
 |Engage with outside firms &amp; counsels by integrating legal matters with Legal Tracker application to track areas or matters handled by outside counsels and track spends on outside counsel engagement.|[Engage with outside counsel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-eng-outcounsel.md)|Matter fulfiller|
 
 ## What to explore next
 
-To learn more about configuring and [[lmm-use-landing|using Legal Matter Management]], see:
+To learn more about configuring and using Legal Matter Management, see:
 
 -   [Setting up Legal Matter Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/setting-up-legal-matter-managemment.md)
 -   [Work on a legal matter]()
 -   [Legal Matter Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-management-reference.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-matter-administration|Legal matter templates]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lmm-eng-outcounsel|Engage with outside counsel]]
-- [[send-receive-email-legal-matter|Communicate using emails from Legal Counsel Center]]
-- [[add-artifact-to-legal-matter|Create an artifact for a legal matter]]
-- [[add-milestone-to-legal-matter|Add a milestone to a legal matter]]
-- [[lsd-acp-landing|Attorney-Client Privilege]]
-- [[lmm-use-landing|Using Legal Matter Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 With the B2B2C model, organizations across industries can easily configure multi-level customer relationships and support business customers who, in turn, support their end consumers.
 
-[[customer-data-model-b2b2c|Customer data models for B2B2C]] require different roles, depending on the tasks you perform.
+Customer data models for B2B2C require different roles, depending on the tasks you perform.
 
 <table id="table_nkn_3tg_4qb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ sn\_customerservice\_agent \(customer service agent\)
 
 </td><td>
 
-Create a case for an account consumer from platform or [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) workspaces to track issues. See [[t_CreateACaseFromCustServApp|Create cases for an account consumer]].
+Create a case for an account consumer from platform or Customer Service Management \(CSM\) workspaces to track issues. See [Create cases for an account consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustServApp.md).
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ sn\_acct\_consumer.consumer \(account consumer\)
 
 </td><td>
 
-View sold products/install bases items to track the instances provisioned for your account and the products or services sold to your account.Create a case for [[install-base-item|install base items]] or [[sold-product|sold products]] issues from the CSM portal. You get email notifications when a case is created, commented, resolved, or closed. See [[t_CreateACaseFromCustPortal|Create a case from the CSM portal]].
+View sold products/install bases items to track the instances provisioned for your account and the products or services sold to your account.Create a case for install base items or sold products issues from the CSM portal. You get email notifications when a case is created, commented, resolved, or closed. See [Create a case from the CSM portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustPortal.md).
 
 </td></tr><tr><td>
 
@@ -62,18 +62,7 @@ sn\_customerservice.customer \(account contact\)
 
 </td><td>
 
-View sold products/install bases items to track end consumer issues. See[[view-install-base-info|View install base information from the Customer Service Portal]] and [[view-product-info-csp|View products information from the Customer Service Portal]].Create a case for an account consumer to track consumer issues. See [Create cases for an account consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustPortal.md).
+View sold products/install bases items to track end consumer issues. See[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-info.md) and [View products information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-info-csp.md).Create a case for an account consumer to track consumer issues. See [Create cases for an account consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustPortal.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[t_CreateACaseFromCustPortal|Create a product case from the Customer Service Portal]]
-- [[view-install-base-info|View install base information from the Customer Service Portal]]
-- [[view-product-info-csp|View product information from the Customer Service Portal]]
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]
-- [[sold-product|Sold products]]

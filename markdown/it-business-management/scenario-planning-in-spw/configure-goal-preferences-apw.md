@@ -14,7 +14,7 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Configure goal preferences
 
-[[configure-goal-preferences|Configure goal preferences]] to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
+Configure goal preferences to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_gf.goal\_admin
 
 1.  Navigate to **All** &gt; **Enterprise Goal Management** &gt; **Preferences**.
 
-2.  On the [[goal-preferences-form|Goal Preferences form]], configure the properties.
+2.  On the Goal Preferences form, configure the properties.
 
     For properties information, see [Goal Preferences form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-preferences-form.md).
 
@@ -33,7 +33,3 @@ Role required: sn\_gf.goal\_admin
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[configure-goal-preferences|Configure goal preferences]]
-- [[goal-preferences-form|Goal Preferences form]]

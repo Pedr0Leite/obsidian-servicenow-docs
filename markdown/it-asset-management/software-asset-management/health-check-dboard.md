@@ -14,9 +14,9 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # Health check
 
-Use the Health check dashboard to view the results of the health scan that is performed on the configurations in your [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Use the Health check dashboard to view the results of the health scan that is performed on the configurations in your Software Asset Management application.
 
-To access the Health check dashboard, navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Success portal** &gt; **Health check**.
+To access the Health check dashboard, navigate to **Software Asset Workspace** &gt; **Success portal** &gt; **Health check**.
 
 **Important:** Ensure that you’ve activated the Software Asset Workspace \(sn\_sam\_workspace\) store application and installed the ITAM Health Check application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/88804de177a94110ce3b5a11fe5a99c4/2.0.4?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DITAM%2520health%2520check&sl=sh) to view the Health check dashboard. You must have the scan\_user and sam\_admin role to access this dashboard and view the health score data.
 
@@ -118,7 +118,3 @@ Categorization of issues identified as a result of the health check scan.-   Dis
 
 [Run a health check scan for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-healthcheck.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -24,8 +24,5 @@ Use cases:
 -   If there is a .txt extension containing only one certificate, it is considered as a server certificate and no certificate relationship are maintained.
 -   If there is a .txt extension, containing two certificates, the first certificate is considered as server certificate and the second certificate is considered as root certificate, with no intermediate certificates.
 
-**Note:** The certificate chain relationship is dependent on the latest URL/IP [[r-discovery|Discovery]] run. Importing a file without certificate chain relations disrupts any existing chain relationships associated with the same certificate \(fingerprint\).
+**Note:** The certificate chain relationship is dependent on the latest URL/IP Discovery run. Importing a file without certificate chain relations disrupts any existing chain relationships associated with the same certificate \(fingerprint\).
 
-## Related
-
-- [[r-discovery|Discovery]]

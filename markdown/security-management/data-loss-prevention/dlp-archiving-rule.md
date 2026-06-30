@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # DLP Incidents Archival
 
-The [[dlp-landing|Data Loss Prevention Incident Response]] is provisioned with one archival rule in the base system for the DLP incident table. The related records are also added in the base system to the DLP incident archive rule.
+The Data Loss Prevention Incident Response is provisioned with one archival rule in the base system for the DLP incident table. The related records are also added in the base system to the DLP incident archive rule.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ Use the Archive Related Records related list for DLP incidents to add the relate
 
 [DLP Incident Access Restrictions]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

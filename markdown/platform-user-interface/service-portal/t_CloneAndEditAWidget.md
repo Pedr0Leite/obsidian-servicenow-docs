@@ -26,7 +26,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Open the Widget Editor in the [[service-portal-configuration-page|Service Portal Configuration page]], then select an existing widget from the **Select a widget** list.
+1.  Open the Widget Editor in the Service Portal Configuration page, then select an existing widget from the **Select a widget** list.
 
     For example, select **Hello World 2**.
 
@@ -55,16 +55,11 @@ Role required: admin or sp\_admin
 
 ## What to do next
 
-If you clone a widget that uses the Angular ng-template, you must manually clone the template and change the name of the template [[onboarding-modals-reference|reference]] in the widget.
+If you clone a widget that uses the Angular ng-template, you must manually clone the template and change the name of the template reference in the widget.
 
-For example, the [[header-widget|header menu widget]] uses the Angular ng-template `menuTemplate`. If you clone the header menu widget, you must also clone the `menuTemplate` and give the clone a unique name. When you open the clone of the header menu widget, you can see a reference to the menuTemplate in the HTML.
+For example, the header menu widget uses the Angular ng-template `menuTemplate`. If you clone the header menu widget, you must also clone the `menuTemplate` and give the clone a unique name. When you open the clone of the header menu widget, you can see a reference to the menuTemplate in the HTML.
 
 \[Omitted image "NgTemplateCopy.png"\] Alt text: ng-template called menuTemplate highlighted and changed to menuTemplateCopy in header menu widget HTML
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[onboarding-modals-reference|Reference]]
-- [[header-widget|Header menu widget]]

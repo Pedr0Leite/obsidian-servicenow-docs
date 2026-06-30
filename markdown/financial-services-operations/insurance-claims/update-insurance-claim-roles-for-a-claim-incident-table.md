@@ -14,11 +14,11 @@ breadcrumb: [Claim incidents, Configure, Insurance claims, Exploring insurance c
 
 # Grant Insurance claims roles access to a claim incident table
 
-Grant the sn\_bom.fnol\_representative and sn\_ins\_gen\_claim.processor roles with access to a claim incident table by using the [[insurance-claims-flow|Insurance claims]] application. This way, the users with these roles can read and write entries in a claim incident table during the claim creation process.
+Grant the sn\_bom.fnol\_representative and sn\_ins\_gen\_claim.processor roles with access to a claim incident table by using the Insurance claims application. This way, the users with these roles can read and write entries in a claim incident table during the claim creation process.
 
 ## Before you begin
 
-Set the application scope of your instance to **[[financial-services-operations-core-data-model|Financial Services Operations Core]]**.
+Set the application scope of your instance to **Financial Services Operations Core**.
 
 Role required: admin
 
@@ -41,7 +41,3 @@ Role required: admin
 
 Repeat these steps for the sn\_ins\_gen\_claim.processor role. Ensure that the application scope of your instance is set correctly.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

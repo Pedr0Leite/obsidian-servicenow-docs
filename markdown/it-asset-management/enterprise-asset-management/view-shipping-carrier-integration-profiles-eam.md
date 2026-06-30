@@ -14,7 +14,7 @@ breadcrumb: [Configuring shipping, Configure, Enterprise Asset Management, IT As
 
 # View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace
 
-View the integration profiles for your third-party shipping carriers in the [[asset-operations-view|Asset operations view]] of the [[using-eam-workspace|Enterprise Asset Workspace]]. These integration profiles enable you to connect to third-party shipping carrier applications so that you can retrieve shipment details for your enterprise assets.
+View the integration profiles for your third-party shipping carriers in the Asset operations view of the Enterprise Asset Workspace. These integration profiles enable you to connect to third-party shipping carrier applications so that you can retrieve shipment details for your enterprise assets.
 
 ## Before you begin
 
@@ -33,7 +33,3 @@ Role required: sn\_eam.enterprise\_asset\_technician, sn\_eam.enterprise\_asset\
 
 **Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-shipments-eam.md)
 
-## Related
-
-- [[asset-operations-view|Asset operations view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

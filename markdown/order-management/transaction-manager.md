@@ -16,12 +16,12 @@ Set up, govern, and troubleshoot Transaction Manager so sales teams can capture 
 
 As a transaction administrator, you can
 
--   Access stages, associated [[fields|fields]], related [[rules_101|rules]], rule groups, events, [[layouts|layouts]], views, and personas.
+-   Access stages, associated fields, related rules, rule groups, events, layouts, views, and personas.
 -   Decide the sales workflow stages you need and what must be true to enter each stage \(entry criteria\).
 -   Identify transaction-level \(header\) fields and transaction-line fields you’ll capture.
 -   Enable these optional pilots:
-    -   [[cpq-transaction-converse|Transaction Converse]] for natural-language line-item operations
-    -   [[cpq-cosmo-smartpredict|Cosmo SmartPredict]] for in-context predictive recommendations
+    -   Transaction Converse for natural-language line-item operations
+    -   Cosmo SmartPredict for in-context predictive recommendations
 
 ## How Transaction Manager is organized
 
@@ -42,13 +42,5 @@ Core building blocks and relationships include:
 **Related topics**  
 
 
-[[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]]
+[Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md)
 
-## Related
-
-- [[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[cpq-transaction-converse|Transaction Converse]]
-- [[cpq-cosmo-smartpredict|Cosmo SmartPredict]]

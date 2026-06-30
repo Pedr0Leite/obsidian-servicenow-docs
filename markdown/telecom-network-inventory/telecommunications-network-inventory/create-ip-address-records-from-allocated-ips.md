@@ -33,11 +33,11 @@ The two IP allocation methods \(from allocated IPs and at subnet level\) are mut
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]** or **Service Operations Workspace**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace** or **Service Operations Workspace**.
 
 2.  Open the IP Subnetwork record.
 
-    \(**[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **IP Network Subnets** &gt; select the subnetwork.\)
+    \(**Inventory Number Allocation** &gt; **IP Network Subnets** &gt; select the subnetwork.\)
 
 3.  Select the **Allocated IP Address** tab.
 
@@ -80,7 +80,7 @@ The two IP allocation methods \(from allocated IPs and at subnet level\) are mut
 
 ## Result
 
-Effect on the underlying allocated IP slots For each IP Address record created by this task, the system writes two CMDB relationships: IP Address → Manages → Allocated IP Address — links the new record to the slot it was created from.IP Subnetwork → Contains → IP Address — links the new record to the parent subnetwork. The corresponding allocated IP record’s Is Managed flag is set to True automatically. If you later delete the IP Address record, both relationships are removed and the allocated IP slot’s Is Managed flag flips back to False. The slot itself is preserved and can be promoted again. To learn more, see [[cmdb-relationships-for-ip-address-records|CMDB relationships for IP address records]].
+Effect on the underlying allocated IP slots For each IP Address record created by this task, the system writes two CMDB relationships: IP Address → Manages → Allocated IP Address — links the new record to the slot it was created from.IP Subnetwork → Contains → IP Address — links the new record to the parent subnetwork. The corresponding allocated IP record’s Is Managed flag is set to True automatically. If you later delete the IP Address record, both relationships are removed and the allocated IP slot’s Is Managed flag flips back to False. The slot itself is preserved and can be promoted again. To learn more, see CMDB relationships for IP address records.
 
 **Parent Topic:**[Manage IP addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/manage-ip-addresses.md)
 
@@ -95,8 +95,3 @@ Effect on the underlying allocated IP slots For each IP Address record created b
 
 [CMDB relationships for IP address records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cmdb-relationships-for-ip-address-records.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[cmdb-relationships-for-ip-address-records|CMDB relationships for IP address records]]

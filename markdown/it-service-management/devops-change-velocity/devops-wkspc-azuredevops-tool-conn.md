@@ -16,11 +16,11 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 Connect to your Azure DevOps instance using the DevOps Change Workspace playbook to collect data for planning, coding, orchestration, artifact, and software quality functions.
 
-You can connect to Azure DevOps \(ADO\) at your organization level or at individual project level. If you're connecting at the project level, for each project at your organization, you must repeat the connection process. After connecting to an instance of the tool, you can configure additional [[settings-mobile|settings]] that enable DevOps to import pipelines, task execution records, and step execution records.
+You can connect to Azure DevOps \(ADO\) at your organization level or at individual project level. If you're connecting at the project level, for each project at your organization, you must repeat the connection process. After connecting to an instance of the tool, you can configure additional settings that enable DevOps to import pipelines, task execution records, and step execution records.
 
-When you configure webhooks in your Azure DevOps instance to send data to [[devops-landing-page-new|DevOps Change Velocity]], Azure DevOps uses token authentication for the integration user by default. The [[devops-change-velocity-apis|DevOps Change Velocity APIs]] are invoked using token authentication and you don’t have to enter the integration user name and password while configuring. If the devops.system user isn’t available in your ServiceNow instance, you must set the **Switch to this user after token based authentication is successful** property. For more information, see [DevOps Change Velocity properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-administration.md). The step to enter the integration user name and password is required only in the following scenarios:
+When you configure webhooks in your Azure DevOps instance to send data to DevOps Change Velocity, Azure DevOps uses token authentication for the integration user by default. The DevOps Change Velocity APIs are invoked using token authentication and you don’t have to enter the integration user name and password while configuring. If the devops.system user isn’t available in your ServiceNow instance, you must set the **Switch to this user after token based authentication is successful** property. For more information, see [DevOps Change Velocity properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-administration.md). The step to enter the integration user name and password is required only in the following scenarios:
 
--   If [[devops-config-landing-page|DevOps Config]] is installed, as DevOps Config APIs are invoked using basic authentication.
+-   If DevOps Config is installed, as DevOps Config APIs are invoked using basic authentication.
 -   If you use the Azure Invoke REST API service connection. You must enable the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property in this case.
 
 **Note:** DevOps Change Velocity uses the term instance to refer to a particular occurrence of a tool. Azure DevOps uses the term project instead.
@@ -61,7 +61,7 @@ Steps
 
 </td></tr><tr><td id="d42075e253">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -486,10 +486,3 @@ From the **Projects** tab on the tool record page, select a project to navigate 
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[devops-change-velocity-apis|DevOps Change Velocity APIs]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

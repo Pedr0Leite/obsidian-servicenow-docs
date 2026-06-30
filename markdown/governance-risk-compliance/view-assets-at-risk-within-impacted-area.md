@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Crisis map, Manage, Business Continuity Ma
 
 # Monitor assets within the impacted areas
 
-Monitor at-risk assets in the Crisis map within the [[bcm-workspace|BCM Configurable Workspace]] when alert threats appear near your business locations. This functionality enables you to protect resources in impacted areas and help prevent significant losses to your organization.
+Monitor at-risk assets in the Crisis map within the BCM Configurable Workspace when alert threats appear near your business locations. This functionality enables you to protect resources in impacted areas and help prevent significant losses to your organization.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the list view.
 
 2.  Select an alert record to open the alert in its detailed view.
 
@@ -52,10 +52,5 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
     You can view the complete details of the asset including its latitude and longitude.
 
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[list-view-uib-ws|List view]]

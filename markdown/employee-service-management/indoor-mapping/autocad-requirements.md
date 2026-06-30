@@ -16,7 +16,7 @@ breadcrumb: [Manage CAD source files, Indoor Mapping, Workplace Service Delivery
 
 After adding a building, you can start importing your CAD floor plan source file in the Map Studio.
 
-Creating indoor maps in [[Indoor-mapping|Indoor Mapping]] can be done by manually importing the CAD floor plan sources or by automating the import process using the AutoCAD import capability in the Map Studio. CAD files must meet certain requirements in the Map Studio before the CAD source files are imported. For more information, see [ServiceNow Blog](https://www.servicenow.com/community/wsd-blog/cad-file-guidelines-for-indoor-mapping/ba-p/2266775)
+Creating indoor maps in Indoor Mapping can be done by manually importing the CAD floor plan sources or by automating the import process using the AutoCAD import capability in the Map Studio. CAD files must meet certain requirements in the Map Studio before the CAD source files are imported. For more information, see [ServiceNow Blog](https://www.servicenow.com/community/wsd-blog/cad-file-guidelines-for-indoor-mapping/ba-p/2266775)
 
 **Note:** Map administrators must ensure that their CAD sources adhere to the import requirements of Indoor Mapping Map Studio. Before importing, ensure that the AutoCAD sources are reviewed by graphic designers for design corrections and accuracy. Import of JSON or GEOJSON files is only available for third-party mapping provider migration process.
 
@@ -52,6 +52,3 @@ Export your CAD file in DWG or DXF formats. Other formats are not supported. Mak
 
 **Parent Topic:**[Manage CAD source files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-autocad-files.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

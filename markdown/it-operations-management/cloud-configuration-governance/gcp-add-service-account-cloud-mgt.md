@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Google Cloud through Cloud Services Catalog T
 
 # \(Optional\) Add a Google Cloud Platform service account to the cloud account
 
-During [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] Day 1 setup, you added one service account to the cloud account. To compartmentalize your infrastructure or to include different datacenters, you can add another service account. A particular datacenter, however, cannot be selected in more than one service account in a cloud account.
+During Cloud Provisioning and Governance Day 1 setup, you added one service account to the cloud account. To compartmentalize your infrastructure or to include different datacenters, you can add another service account. A particular datacenter, however, cannot be selected in more than one service account in a cloud account.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-A service account is a secure record on your instance that stores the credential and access information for your provider account. [[r-discovery|Discovery]] uses the information to access your provider account to get data on each resource in each specified datacenter.
+A service account is a secure record on your instance that stores the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
 In this example, you added the service account named **ProviderB-ServiceAccount-1** and selected three datacenters to include in the cloud account:
 
@@ -32,7 +32,7 @@ In this example, you added the service account named **ProviderB-ServiceAccount-
 
 ## Procedure
 
-1.  Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Service Accounts**.
+1.  Navigate to **Cloud Admin Portal** &gt; **Service Accounts**.
 
 2.  Click **New**, enter a unique and meaningful **Name**, and then fill in the form.
 
@@ -80,7 +80,7 @@ Select **Google Cloud Platform Datacenter**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -93,9 +93,4 @@ Auto-generated value: Status and timestamp of the last execution of Discovery on
 
 5.  Repeat the process to add as many service accounts as needed.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[c_DiscoveryStatus|Discovery status]]

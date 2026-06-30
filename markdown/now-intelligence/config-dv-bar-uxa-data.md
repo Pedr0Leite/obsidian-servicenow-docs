@@ -12,9 +12,9 @@ breadcrumb: [Horizontal and vertical bar visualizations, Create, Data visualizat
 
 # Usage Insights data options for bar visualizations
 
-When you select a [[user-exp-analytics-landing|Usage Insights]] data source for a horizontal or vertical bar visualization, the following Data configuration options are available.
+When you select a Usage Insights data source for a horizontal or vertical bar visualization, the following Data configuration options are available.
 
-**Note:** If you add a [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
+**Note:** If you add a Platform Analytics data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
 
 <table id="table_wqy_sjr_qtb"><thead><tr><th>
 
@@ -34,11 +34,11 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]].
+You have selected a Usage Insights data source in [Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-MetricYou can set multiple metrics. You can set whether dashboard filters apply to individual metrics. For more information, see [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]].
+MetricYou can set multiple metrics. You can set whether dashboard filters apply to individual metrics. For more information, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -256,7 +256,7 @@ Follow filter per metric
 
 </td><td>
 
-If the visualization shows multiple metrics, toggle filter following on and off for each metric. Default: All metrics follow filters if Follow filters is on. For more information, see [[chart-options-bars-multi-metrics|Following filters per metric]].
+If the visualization shows multiple metrics, toggle filter following on and off for each metric. Default: All metrics follow filters if Follow filters is on. For more information, see [Following filters per metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-bars-multi-metrics.md).
 
 </td></tr><tr><td>
 
@@ -329,11 +329,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md)
 
-## Related
-
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[chart-options-bars-multi-metrics|Following filters per metric]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

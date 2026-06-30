@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Use, Configurable Workspace UI, Configure UIs and 
 
 # Use filter sets in the Activity stream
 
-Create and save filter sets with custom conditions in the [[activity-stream-configurable-workspace|Activity stream]].
+Create and save filter sets with custom conditions in the Activity stream.
 
 ## Before you begin
 
@@ -58,6 +58,4 @@ Role required: workspace\_user
 
         The filter set is deleted from the **Filter sets** list.
 
-## Related
 
-- [[activity-stream-configurable-workspace|Activity stream]]

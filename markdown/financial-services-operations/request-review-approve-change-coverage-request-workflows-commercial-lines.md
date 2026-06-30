@@ -16,7 +16,7 @@ Learn how agents, using the change coverage limits workflows, resolve service re
 
 The following diagram shows how the application helps agents resolve a change policy coverage request.
 
-\[Omitted image "change-coverage-workflow.png"\] Alt text: Workflow showing how a policy change coverage request is resolved using the [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]] application. For the text description, refer to the workflow steps that follow.
+\[Omitted image "change-coverage-workflow.png"\] Alt text: Workflow showing how a policy change coverage request is resolved using the Commercial Lines Servicing application. For the text description, refer to the workflow steps that follow.
 
 The insurance policy admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -49,9 +49,5 @@ The following workflow routes the case and tasks for changing coverage for a pol
 
 The case is complete, and the state and stage of the case are set to Closed Complete.
 
-**Parent Topic:**[[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
+**Parent Topic:**[Using Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-financial-services-commercial-lines-servicing.md)
 
-## Related
-
-- [[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]

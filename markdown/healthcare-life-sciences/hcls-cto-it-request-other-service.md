@@ -12,7 +12,7 @@ breadcrumb: [Create service requests, Care Team Operations for Healthcare IT, He
 
 # Request other IT service with Care Team Operations for IT
 
-Request IT service for non-EMR issues using the Request other IT service catalog item from the [[care-team-portal-landing|Care Team Portal]].
+Request IT service for non-EMR issues using the Request other IT service catalog item from the Care Team Portal.
 
 ## Before you begin
 
@@ -123,6 +123,4 @@ The phone number of the associated contact for this request.
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

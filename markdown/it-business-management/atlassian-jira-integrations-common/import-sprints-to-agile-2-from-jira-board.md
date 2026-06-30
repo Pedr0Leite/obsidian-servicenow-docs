@@ -14,7 +14,7 @@ breadcrumb: [Importing issues and sprints from Jira to Agile Development 2.0, Se
 
 # Import sprints from Jira to Agile Development 2.0
 
-Import sprints from a Jira board so that you can [[t_SDLCPPSTrackProgress|track progress]] of these sprints directly in [[agile-landing-page|Agile Development 2.0]].
+Import sprints from a Jira board so that you can track progress of these sprints directly in Agile Development 2.0.
 
 ## Before you begin
 
@@ -41,13 +41,8 @@ Import completed and current sprints of Jira board into Agile Development 2.0.
 
 7.  Click **Submit**.
 
-    An import request of type Import Sprints is created in the Jira Import Requests related list. Once the state of this request changes to Completed, you can view all the imported sprint data in the Sprints related list of the associated assignment group in [[agile-development|Agile Development]].
+    An import request of type Import Sprints is created in the Jira Import Requests related list. Once the state of this request changes to Completed, you can view all the imported sprint data in the Sprints related list of the associated assignment group in Agile Development.
 
 
 **Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 
-## Related
-
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

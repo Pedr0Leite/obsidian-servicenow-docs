@@ -28,13 +28,13 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  [[assign-legal-request-1|Assign a legal request]] to yourself or to someone in your assignment group.
+1.  Assign a legal request to yourself or to someone in your assignment group.
 
     For more information, see [Assign a legal request]()
 
 2.  Start working on a legal request.
 
-    1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+    1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
     2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -147,9 +147,9 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
     For more information, see [Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)
 
-    **Note:** This option is not available on [[cncore-cmpro-landing-page|Contract Management Pro]] starting with version 1.2.1.
+    **Note:** This option is not available on Contract Management Pro starting with version 1.2.1.
 
-12. In the [[activity-lxp|Activity]] section, review the changes requested by the requester and make the necessary changes in the contract document.
+12. In the Activity section, review the changes requested by the requester and make the necessary changes in the contract document.
 
 13. Upload the revised contract document.
 
@@ -226,19 +226,11 @@ As a legal user or legal fulfiller, regenerate the contract document for non-dis
 -   **[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)**  
 As a legal user or fulfiller, update and sync signatory details when the contract submission has failed, or contract document cannot be sent due to incomplete signatory information.
 -   **[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)**  
-[[finalize-contract-document-nda|Review and finalize the contract document]] generated after the self-serve contract request is submitted, then send it for signature.
+Review and finalize the contract document generated after the self-serve contract request is submitted, then send it for signature.
 -   **[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-initiate-approval-cr.md)**  
-[[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]] from a user or a user group.
+Initiate an ad hoc approval for a contract document revision from a user or a user group.
 -   **[Send a non-disclosure agreement document for signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-send-doc-sign-nda.md)**  
 After a non-disclosure agreement contract document has been reviewed and finalized, send the document for signature.
 
 **Parent Topic:**[Non-disclosure agreement requests]()
 
-## Related
-
-- [[assign-legal-request-1|Assign a legal request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[activity-lxp|Activity]]
-- [[finalize-contract-document-nda|Review and finalize the contract document]]
-- [[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]]

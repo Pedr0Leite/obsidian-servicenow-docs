@@ -16,7 +16,7 @@ Apply user roles to determine which components are accessible within mobile apps
 
 ## About this task
 
-You can apply user roles to certain components of your mobile apps. For a complete list, see [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]. The instructions in this topic demonstrate how to apply roles to supported mobile components. Some components can have either user roles or user criteria components associated with them, in such a situation you must select whether this component is assigned a user role or a user criteria.
+You can apply user roles to certain components of your mobile apps. For a complete list, see [Mobile components where user roles and user criteria permissions apply](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/components-roles-criteria.md). The instructions in this topic demonstrate how to apply roles to supported mobile components. Some components can have either user roles or user criteria components associated with them, in such a situation you must select whether this component is assigned a user role or a user criteria.
 
 **Note:** If you do not add roles to any of the components, all users who have access to the mobile app can see those components. There may be a situation where users may still not see certain components as user criteria permissions may be implemented.
 
@@ -24,7 +24,7 @@ You can apply user roles to certain components of your mobile apps. For a comple
 
 Role required: admin
 
-When working with user roles in the [[mab-concept|Mobile App Builder]], you assign existing user roles permissions and map them to a mobile component. To create additional user roles, you must access the Roles \[sys\_user\_role\] table. For more information, see [Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ua-creating-roles.md).
+When working with user roles in the Mobile App Builder, you assign existing user roles permissions and map them to a mobile component. To create additional user roles, you must access the Roles \[sys\_user\_role\] table. For more information, see [Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ua-creating-roles.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ When working with user roles in the [[mab-concept|Mobile App Builder]], you assi
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -53,11 +53,5 @@ When working with user roles in the [[mab-concept|Mobile App Builder]], you assi
 9.  Select **Save**.
 
 
-**Parent Topic:**[[sg-roles-permissions|User role permissions in mobile apps]]
+**Parent Topic:**[User role permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-roles-permissions.md)
 
-## Related
-
-- [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]
-- [[sg-roles-permissions|User role permissions in mobile apps]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

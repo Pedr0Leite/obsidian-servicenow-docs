@@ -14,7 +14,7 @@ breadcrumb: [Configure and customize the migration to SOW, Migrate from ITSM Age
 
 # Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Migration of the highlighted fields in lists and forms from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] includes identifying the required tables, identifying eligible highlighted field records for migrations, and the migration process.
+Migration of the highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying eligible highlighted field records for migrations, and the migration process.
 
 ## Highlighted fields in lists and forms
 
@@ -22,7 +22,7 @@ Use colors to highlight list and form fields to get the attention of an agent or
 
 ## Table used for migration
 
-The [[migration-utility|migration utility]] uses the Highlighted Value \[sys\_highlighted\_value\] table for migration.
+The migration utility uses the Highlighted Value \[sys\_highlighted\_value\] table for migration.
 
 ## How the migration utility identifies highlighted fields for migration
 
@@ -37,7 +37,7 @@ The Service Operations Workspace migration utility uses the following sequence t
 3.  Maps the Sys Ux M2m Highlighted Value Config \[sys\_ux\_m2m\_highlighted\_value\_config\] table record.
 
 -   **[Perform post-migration tasks for highlighted fields in list and forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-highlighted-fields-lists-forms.md)**  
-Verify that the highlighted fields in list and forms in Service Operations Workspace \(SOW\) are consistent with the highlighted fields in list and forms in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the [[migrated-records|migrated]] highlighted fields in list and forms [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the highlighted fields in list and forms in Service Operations Workspace \(SOW\) are consistent with the highlighted fields in list and forms in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated highlighted fields in list and forms settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -66,9 +66,3 @@ Verify that the highlighted fields in list and forms in Service Operations Works
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]

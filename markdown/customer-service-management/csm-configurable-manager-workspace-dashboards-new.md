@@ -46,7 +46,7 @@ The landing page provides the real-time data of the current workload and the tea
 |Top skills in 24 hrs|View the most frequently utilized skills over the past 24 hours. This feature helps you identify high-demand skills and guide or plan training efforts.|
 |Team's performance|View important metrics for individual team members, including agent adherence percentages and CSAT scores. This feature helps you evaluate each agent's contributions and confirms they meet scheduled commitments and customer expectations.|
 
-The Manager Dashboard includes [[case-sentiment-analysis|Sentiment Analysis]] and Trending Topic widgets that give supervisors visibility into customer sentiment and agent performance.
+The Manager Dashboard includes Sentiment Analysis and Trending Topic widgets that give supervisors visibility into customer sentiment and agent performance.
 
 The Manager Dashboard in Manager Workspace includes an **AI Insights** tab. This tab contains AI widgets that surface customer sentiment signals, trending interaction themes, and quality evaluations. The tab follows existing UI and loading standards, and its tab-switching behavior is consistent with current dashboard interactions.
 
@@ -57,7 +57,7 @@ The Manager Dashboard in Manager Workspace includes an **AI Insights** tab. This
 
     **Access and governance**: Access is role‑based \(`sn_mgr_dashboard.user`\) and enforced through ACLs at the page, tab, and widget level. Unauthorized users do not see the dashboard in navigation, and APIs are protected. Role inheritance keeps additional manager records in sync with the primary manager’s roles \(sn\_mgr\_dashboard.user\) and entitlements.
 
--   **Sentiment Analysis Widget**: Provides a consolidated view of customer sentiment indicators, enabling supervisors to quickly gauge shifts in satisfaction and emerging pain [[gamification-components-points|points]].
+-   **Sentiment Analysis Widget**: Provides a consolidated view of customer sentiment indicators, enabling supervisors to quickly gauge shifts in satisfaction and emerging pain points.
 -   **Trending Topics Widget**: Displays recurring themes from customer interactions, helping managers identify the root causes of service patterns or issues.
 
 ## Manager dashboard availability and configurations
@@ -81,23 +81,16 @@ Advanced configuration: When additional insights and analytics capabilities are 
 
 The available widgets and tabs depend on which capabilities are enabled in the instance.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[create-configurable-csm-landing-page|Create Manager Workspace Landing Page]]
+[Create Manager Workspace Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-configurable-csm-landing-page.md)
 
 [Use sentiment analysis dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-sentiment-analysis-dashboard.md)
 
 [View trending topics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/view-trending-topics-dashboard.md)
 
-[[wfo-cs-manager-landing-page-new|Workforce Optimization for Customer Service manager workspace landing page]]
+[Workforce Optimization for Customer Service manager workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/wfo-cs-manager-landing-page-new.md)
 
-## Related
-
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[create-configurable-csm-landing-page|Create Manager Workspace Landing Page]]
-- [[wfo-cs-manager-landing-page-new|Workforce Optimization for Customer Service manager workspace landing page]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[gamification-components-points|Points]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Hiring tab, Hiring Experiences, HR Service Delivery, Employee 
 
 # Tracking a job requisition in the Hiring tab
 
-[[hiring-tab-concept|Hiring]] manager can view the detailed status of an open job requisition to track and update. Hiring managers can refer to relevant hiring materials to enhance their knowledge base.
+Hiring manager can view the detailed status of an open job requisition to track and update. Hiring managers can refer to relevant hiring materials to enhance their knowledge base.
 
 View the details of the job requisition when you open a requisition from the Hiring dashboard.
 
@@ -24,7 +24,7 @@ See the progression of the job requisition and the current state with the requis
 
 The **Details** tab provides all the detailed field values given at the time of job requisition request.
 
-The **[[activity-lxp|Activity]]** tab helps the hiring manager [[collab-recruiter|collaborate with the recruiter]] and the approvers to fill in the vacancy.
+The **Activity** tab helps the hiring manager collaborate with the recruiter and the approvers to fill in the vacancy.
 
 The **Approvals** tab shows the name of the approver and the state of the approval request for easy tracking.
 
@@ -44,8 +44,3 @@ The **Interview phases** tab lists all the interview phases set up for the job r
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[activity-lxp|Activity]]
-- [[collab-recruiter|Collaborate with the recruiter]]

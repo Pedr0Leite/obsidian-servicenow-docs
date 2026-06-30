@@ -19,7 +19,7 @@ Activate the Contextual Email Matching skill in Now Assist Skill Kit to link ema
 
 Confirm the following prerequisites are met before you begin:
 
--   The [[email-as-an-interaction|Email Interaction]] for CSM plugin must be installed and active on your instance.
+-   The Email Interaction for CSM plugin must be installed and active on your instance.
 -   A Now Assist for CSM license must be active on your instance.
 
 Role required: sn\_nowassist\_admin.nsa\_admin
@@ -53,6 +53,3 @@ The Contextual Email Matching skill analyzes emails on closed interactions and i
 
 The Contextual Email Matching skill is active. When an email on a closed interaction is received, the skill analyzes closed email interactions and returns a recommended case match that downstream flows can use to link the new email to the correct open case.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

@@ -15,13 +15,13 @@ breadcrumb: [Incident Management, IT Service Management]
 
 # Agentic AI in Incident Management
 
-Use the ITSM [[c_IncidentManagement|Incident Management]] agentic workflows to manage, resolve and close incidents and incident tasks autonomously.
+Use the ITSM Incident Management agentic workflows to manage, resolve and close incidents and incident tasks autonomously.
 
 **Important:**
 
-To access the agentic workflow for Incident Management, make sure that you install the following [[dex-workspace-application-tab|applications]]:
+To access the agentic workflow for Incident Management, make sure that you install the following applications:
 
-1.  [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 2.  Incident Management application. For more information, see [Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md).
 
 **Note:**
@@ -39,8 +39,3 @@ The agentic workflow uses the following AI agents:
 
 For more information, see [IT Service Management AI agent collection Wrap-up and resolve incident agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-wrap-up-resolve-incident-aw.md).
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

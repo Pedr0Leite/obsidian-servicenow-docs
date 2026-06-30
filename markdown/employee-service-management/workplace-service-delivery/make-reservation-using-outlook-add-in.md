@@ -14,7 +14,7 @@ breadcrumb: [Workplace Reservations for Microsoft Outlook Add-in, Workplace Serv
 
 # Make a reservation using Workplace Reservations for Microsoft Outlook Add-in
 
-Schedule an event or appointment in the Microsoft Outlook using the additional features provided by the [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] application.
+Schedule an event or appointment in the Microsoft Outlook using the additional features provided by the Workplace Reservations for Microsoft Outlook Add-in application.
 
 ## Before you begin
 
@@ -99,7 +99,7 @@ Role required: admin
 
 18. Click **Save reservation**.
 
-    The reservation is created and logged in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+    The reservation is created and logged in the Workplace Reservation Management application.
 
     \[Omitted image "reservation-outlook.png"\] Alt text: Save reservation in the Microsoft Outlook Add-in
 
@@ -107,15 +107,10 @@ Role required: admin
 
     The meeting request will be sent to the selected spaces to confirm the reservation.
 
-    **Note:** If [[workplace-calendar-sync-feat|Workplace calendar synchronization]] is installed and personal authentication mode is enabled, a pop-up notification appears if a user does not have a token while attempting to reserve a sync-enabled room. The notification informs the user that the token is not available and instructs them to log in to Microsoft Exchange with the respective email to retrieve the token.
+    **Note:** If Workplace calendar synchronization is installed and personal authentication mode is enabled, a pop-up notification appears if a user does not have a token while attempting to reserve a sync-enabled room. The notification informs the user that the token is not available and instructs them to log in to Microsoft Exchange with the respective email to retrieve the token.
 
 
 ## Result
 
 The reservation is created. The reservation is sent only if you send the invite from the Microsoft Outlook window.
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

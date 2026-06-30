@@ -29,12 +29,12 @@ Each action taken after a **Help Request** is accepted and recorded with a times
 
 For more information, see:
 
--   [[csm-configurable-manager-workspace-dashboards-new|Manager Workspace landing page]]
--   [[listen-agent-call-configurable-wfo-cs|Listen, Monitor or Barge in to an agent call]]
+-   [Manager Workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-configurable-manager-workspace-dashboards-new.md)
+-   [Listen, Monitor or Barge in to an agent call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/listen-agent-call-configurable-wfo-cs.md)
 
 ## Dependencies
 
-Enable the following capabilities to view and use the call monitoring features in the Active call and [[ccaas-global-call-list|Global call list]]:
+Enable the following capabilities to view and use the call monitoring features in the Active call and Global call list:
 
 -   **Contact Center as a Service \(CCaaS\) integration:**
 
@@ -60,7 +60,7 @@ Enable the following capabilities to view and use the call monitoring features i
 
     Each supervisor action triggered through a **Help Request** is logged with a timestamp.
 
-    The system [[gamification-components-tracks|tracks]] the **Help Request** status and supports Search for audit and analytics.
+    The system tracks the **Help Request** status and supports Search for audit and analytics.
 
     Supervisor actions are scoped to the relevant tenant or domain.
 
@@ -105,9 +105,3 @@ The following steps define a typical workflow for a supervisor-initiated call mo
     -   A confirmation alert displays.
     -   The agent can submit a new **Help Request** after closing a current one for additional help with the same call, or for a new one.
 
-## Related
-
-- [[csm-configurable-manager-workspace-dashboards-new|Manager Workspace landing page]]
-- [[listen-agent-call-configurable-wfo-cs|Listen, Monitor or Barge in to an agent call]]
-- [[ccaas-global-call-list|Global call list]]
-- [[gamification-components-tracks|Tracks]]

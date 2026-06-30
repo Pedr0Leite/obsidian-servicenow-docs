@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Advanced Service Mapping configuration
 
-Fine-tune [[c_ServiceMappingOverview|Service Mapping]] collaboration with other components and modules as well as customize data display in service instance maps.
+Fine-tune Service Mapping collaboration with other components and modules as well as customize data display in service instance maps.
 
 In addition to the basic setup described in [Configuring Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-setup.md), you can perform optional configurations to meet the needs of your organization.
 
@@ -30,6 +30,3 @@ In addition to the basic setup described in [Configuring Service Mapping](https:
 -   [Upload the rctrlx.exe file to MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/upload-rctrlx-file.md)
 -   [Fine-tune Service Mapping with MID affinity and IP reuse](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/network-location-mid-affinity-td-discovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

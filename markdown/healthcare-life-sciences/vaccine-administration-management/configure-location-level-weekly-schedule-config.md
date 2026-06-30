@@ -18,7 +18,7 @@ Configure advanced appointment scheduling for a center. Advanced appointment sch
 
 ## Before you begin
 
-Navigate to **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Properties**, and make sure that the **Enable Vaccine Administration Management location specific Appointment Configuration** property \(**sn\_vaccine\_sm.enable\_vam\_appointment\_config**\) is selected.
+Navigate to **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**, and make sure that the **Enable Vaccine Administration Management location specific Appointment Configuration** property \(**sn\_vaccine\_sm.enable\_vam\_appointment\_config**\) is selected.
 
 **Warning:** Once you have enabled the property and your advanced appointment scheduling configurations are live, avoid disabling the property to help prevent any data inconsistencies.
 
@@ -240,6 +240,3 @@ Advanced appointment scheduling configuration enables administrators to configur
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

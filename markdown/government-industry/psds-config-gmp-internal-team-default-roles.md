@@ -45,8 +45,5 @@ Role required: admin
     Users with these roles now have read access to program or read/write access to the grant program.
 
 
-**Parent Topic:**[[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]
+**Parent Topic:**[Assign user personas, roles, groups, and responsibilities in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-assign-user-roles-responsibilities.md)
 
-## Related
-
-- [[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]

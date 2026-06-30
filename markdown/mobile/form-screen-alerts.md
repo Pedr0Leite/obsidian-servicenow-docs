@@ -16,7 +16,7 @@ Configure a mobile alert overlay for a record screen to inform users of an impor
 
 ## Before you begin
 
-When configuring an alert for a record screen, you must have a record screen to display the alert. See, [[form-screen|Record screen]].
+When configuring an alert for a record screen, you must have a record screen to display the alert. See, [Record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md).
 
 Role required: admin
 
@@ -34,7 +34,7 @@ Role required: admin
         2.  **Type**: Select the `Navigation` option.
         3.  **Context**: Select the `Record` option.
         4.  **Destination type**: Select the `Screen` option.
-    4.  Select the **Condition** tab and define the conditions that apply for the display and the hiding of the mobile alert. For more information, see [[sg-config-navigation-function|Configure a navigation to a screen]].
+    4.  Select the **Condition** tab and define the conditions that apply for the display and the hiding of the mobile alert. For more information, see [Configure a navigation to a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-navigation-function.md).
 
     5.  Select the **Action Completion** tab.
 
@@ -82,12 +82,7 @@ Role required: admin
 
 ## Result
 
-The mobile alert overlay displays over a [[list-screen|list screen]]. The alert contains a message, the navigation function button, and the option to close the alert. There is also an alert icon \(\[Omitted image "alert-form-screen-icon.png"\] Alt text: Alert icon with a red spot to show call to action is required.\) in the screen header. The user can tap on the icon at any time, to review the mobile alert. The red spot indicates to the user that they have not performed the call to action.
+The mobile alert overlay displays over a list screen. The alert contains a message, the navigation function button, and the option to close the alert. There is also an alert icon \(\[Omitted image "alert-form-screen-icon.png"\] Alt text: Alert icon with a red spot to show call to action is required.\) in the screen header. The user can tap on the icon at any time, to review the mobile alert. The red spot indicates to the user that they have not performed the call to action.
 
 \[Omitted image "alert-form-screen.png"\] Alt text: Mobile alert overlay
 
-## Related
-
-- [[form-screen|Record screen]]
-- [[sg-config-navigation-function|Configure a navigation to a screen]]
-- [[list-screen|List screen]]

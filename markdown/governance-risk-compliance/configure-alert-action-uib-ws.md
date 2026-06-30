@@ -12,7 +12,7 @@ breadcrumb: [Setup for Crisis map, Configure, Business Continuity Management, Go
 
 # Configure alert actions
 
-[[crisis-map-alert-actions|Configure an alert action]] from the [[threats-feeds-alerts-crisis-map|Crisis map interface]] in the [[bcm-workspace|BCM Configurable Workspace]].
+Configure an alert action from the Crisis map interface in the BCM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_bcm.program\_manager
 
 ## About this task
 
-You can open or dismiss an alert from the Crisis map interface. For more information, see [[manage-alerts-in-crisis-map-interface-uib-ws|Manage alerts from the map interface]].
+You can open or dismiss an alert from the Crisis map interface. For more information, see [Manage alerts from the map interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-alerts-in-crisis-map-interface-uib-ws.md).
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Alert Actions**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Alert Actions**.
 
     These alert actions are available within the base system.
 
@@ -37,7 +37,7 @@ You can open or dismiss an alert from the Crisis map interface. For more informa
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[alert-action-form|Alert Action form]].
+    For more information on the fields, see [Alert Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/alert-action-form.md).
 
 4.  Select **Submit**.
 
@@ -51,14 +51,5 @@ The alert action is displayed in the **Alert Actions** record page.
 -   **[Alert Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/alert-action-form.md)**  
 Use the Alert Action form in BCM UIB Workspace to add details about the alert actions.
 
-**Parent Topic:**[[crisis-map-admin-tasks|Setup for Crisis map]]
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md)
 
-## Related
-
-- [[manage-alerts-in-crisis-map-interface-uib-ws|Manage alerts from the map interface]]
-- [[alert-action-form|Alert Action form]]
-- [[crisis-map-admin-tasks|Setup for Crisis map]]
-- [[crisis-map-alert-actions|Configure an alert action]]
-- [[threats-feeds-alerts-crisis-map|Crisis map interface]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[Administration|Administration]]

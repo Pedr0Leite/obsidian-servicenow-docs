@@ -18,14 +18,14 @@ The **Overview** tab gives you the details of the plan and the exercise and actu
 
 The Plan Usage and Results section shows the details of the crisis and exercise events that use the current plan that you are viewing.
 
--   **Related [[crisis-management-uib|Crisis Events]]**
+-   **Related Crisis Events**
 
     -   Total Crisis Events: The total number of crisis events that use the current plan.
     -   Ongoing Crisis Events: The number of crisis events that are currently in progress.
     -   Last Crisis Event Date: The actual end date and time of the last crisis event that happened.
     \[Omitted image "RelatedCrisisEventsScorecard.png"\] Alt text: Related crisis events of the plan
 
--   **Related [[exercise-management-uib|Exercises]]**
+-   **Related Exercises**
 
     -   Total Exercises: The total number of exercises that use the current plan.
     -   Ongoing Exercises: The number of exercise events that are currently in progress.
@@ -72,7 +72,4 @@ The Plan Usage and Results section shows the details of the crisis and exercise 
 
     \[Omitted image "DependenciesByLS.png"\] Alt text: Dependencies by loss scenarios
 
-## Related
 
-- [[crisis-management-uib|Crisis events]]
-- [[exercise-management-uib|Exercises]]

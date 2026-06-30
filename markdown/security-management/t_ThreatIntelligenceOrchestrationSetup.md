@@ -24,7 +24,7 @@ To use Threat Intelligence Orchestration you need a fully populated CMDB with do
 
 ## Procedure
 
-1.  Activate the [[threat-intel-landing-page|Threat Intelligence]] plugin.
+1.  Activate the Threat Intelligence plugin.
 
 2.  [Configure the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MIDServerConfiguration.md)
 
@@ -33,9 +33,5 @@ To use Threat Intelligence Orchestration you need a fully populated CMDB with do
     You are now ready to use Threat Intelligence Orchestration activities within a workflow.
 
 
-**Parent Topic:**[[c_ThreatIntelligenceOrchestration|Threat Intelligence Orchestration]]
+**Parent Topic:**[Threat Intelligence Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_ThreatIntelligenceOrchestration.md)
 
-## Related
-
-- [[c_ThreatIntelligenceOrchestration|Threat Intelligence Orchestration]]
-- [[threat-intel-landing-page|Threat Intelligence]]

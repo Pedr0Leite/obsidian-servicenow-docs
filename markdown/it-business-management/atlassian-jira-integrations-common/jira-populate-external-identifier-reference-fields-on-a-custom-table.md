@@ -14,7 +14,7 @@ breadcrumb: [Customizing map configuration for your Jira projects, Setting up th
 
 # Populate Jira project identifier reference fields for Agile Development 2.0 custom table
 
-Enable Jira identifier reference fields for your [[agile-landing-page|Agile Development 2.0]] custom table that you added to the map configuration.
+Enable Jira identifier reference fields for your Agile Development 2.0 custom table that you added to the map configuration.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ Configure the form layout or personalize the list layout of your custom table to
 
 [Populate external identifier on custom tables for Azure DevOps](https://www.servicenow.com/community/spm-articles/populate-external-identifier-on-custom-tables-for-azure-devops/ta-p/3359244)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

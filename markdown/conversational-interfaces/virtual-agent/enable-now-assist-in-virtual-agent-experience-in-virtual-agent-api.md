@@ -18,7 +18,7 @@ Enable Now Assist experience in Virtual Agent API to support generative AI skill
 
 ## Before you begin
 
-Set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]]. See [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md) for more information.
+Set up Now Assist in Virtual Agent. See [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md) for more information.
 
 Role required: admin
 
@@ -33,8 +33,8 @@ Role required: admin
 4.  |Field|Value|
 |-----|-----|
 |Document Table|Select Provider Channel Identity from the dropdown.|
-|Document Id|Select the Provider Channel Identity \[sys\_cs\_provider\_application\] record corresponding to [[virtual-agent-api-landing-page|Virtual Agent API]].|
-|Now Assist Deployment|Select Now Assist for [[virtual-agent-landing-page|Virtual Agent]].|
+|Document Id|Select the Provider Channel Identity \[sys\_cs\_provider\_application\] record corresponding to Virtual Agent API.|
+|Now Assist Deployment|Select Now Assist for Virtual Agent.|
 |Active|Select the **Active** check box.|
 
 5.  Select **Submit**.
@@ -42,8 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]

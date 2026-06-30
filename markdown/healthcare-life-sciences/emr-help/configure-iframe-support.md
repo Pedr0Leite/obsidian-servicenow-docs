@@ -14,7 +14,7 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Configure iFrame support for EMR Help in ServiceNow
 
-Configure [[emr-exploring|EMR Help]] to launch within a frame in Epic Hyperspace and Hyperdrive.
+Configure EMR Help to launch within a frame in Epic Hyperspace and Hyperdrive.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ For any ServiceNow page or portal to be launched within an iframe, an HTTP Respo
 
 For additional configuration steps within Epic, see the [How to configure EMR Help to launch within an iFrame in Epic's Hyperdrive \[KB1207128\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1207128) article in the Now Support knowledge base.
 
-## Related
-
-- [[emr-exploring|EMR Help]]

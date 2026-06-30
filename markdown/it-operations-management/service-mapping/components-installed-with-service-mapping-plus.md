@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Components installed with Service Mapping Plus
 
-Several types of components are installed with activation of the [[c_ServiceMappingOverview|Service Mapping]] Plus plugin, including tables and scheduled jobs.
+Several types of components are installed with activation of the Service Mapping Plus plugin, including tables and scheduled jobs.
 
 **Note:** The Service Mapping Plus application is available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -63,7 +63,7 @@ sa.topdown.enable\_cmdb\_based\_mapping
 
 </td><td>
 
-This property enables [[cmdb-based-mapping|CMDB-based mapping]] using the CMDB instead of the MID Server.-   **Type:** boolean
+This property enables CMDB-based mapping using the CMDB instead of the MID Server.-   **Type:** boolean
 -   **Default value:** false
 -   **Other possible values:** true
 
@@ -73,7 +73,7 @@ sn\_sm\_scoped\_app\_app.sa.unified\_map.enabled
 
 </td><td>
 
-Enables access to the Unified Map through the [[sm-dashboard|Service Mapping workspace]].-   **Type:** boolean
+Enables access to the Unified Map through the Service Mapping workspace.-   **Type:** boolean
 -   **Default value:** false
 -   **Other possible values:** true
 
@@ -109,7 +109,7 @@ sn\_sm\_scoped\_app.max\_valid\_discovery\_period\_in\_days
 
 Sets the maximum number of days a host is considered valid when generating application service candidates. Setting this value to any non-positive integer deactivates this feature.
 
- **Warning:** If this value is set lower than or too close to the [[r-discovery|discovery]] cycle, it might result in the removal of all hosts. Consequently, no new candidates are created and existing candidates are deleted.
+ **Warning:** If this value is set lower than or too close to the discovery cycle, it might result in the removal of all hosts. Consequently, no new candidates are created and existing candidates are deleted.
 
  -   **Type:** integer
 -   **Default value:** 0
@@ -117,9 +117,3 @@ Sets the maximum number of days a host is considered valid when generating appli
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cmdb-based-mapping|CMDB-based mapping]]
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[r-discovery|Discovery]]

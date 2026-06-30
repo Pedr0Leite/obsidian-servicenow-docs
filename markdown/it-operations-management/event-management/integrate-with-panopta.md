@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Panopta as a data source
 
-Integrate the Panopta cloud-based monitoring solution with [[c_EM|Event Management]]. To add Panopta as a data source, configuration is required in Panopta.
+Integrate the Panopta cloud-based monitoring solution with Event Management. To add Panopta as a data source, configuration is required in Panopta.
 
 ## Configure Panopta
 
@@ -33,6 +33,3 @@ Configure an alert action rule for launch in context of Panopta. For more inform
 
 [Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 
-## Related
-
-- [[c_EM|Event Management]]

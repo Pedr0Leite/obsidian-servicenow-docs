@@ -24,11 +24,11 @@ Role required: Salesforce admin, sam\_admin
 
 ## About this task
 
-**Note:** The **Client Credentials** grant type is supported in [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) 16.1.0, Salesforce CRM application 2.0.2, and Salesforce CRM Spoke 2.4.0 version onwards.
+**Note:** The **Client Credentials** grant type is supported in Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 16.1.0, Salesforce CRM application 2.0.2, and Salesforce CRM Spoke 2.4.0 version onwards.
 
 ## Procedure
 
-1.  From your ServiceNow instance, navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics**.
+1.  From your ServiceNow instance, navigate to **Software Asset Workspace** &gt; **Software asset analytics**.
 
 2.  Select **Create direct integration**.
 
@@ -216,13 +216,7 @@ URL of the OAuth provider that users are redirected to after authentication. Thi
 
 ## Result
 
-After the integration is published successfully, you’re redirected to the record page. You can view the details of the integration profile, associated [[c_CreatingSoftwareModels|software models]], triggered scheduled jobs, scheduled job results, and unrecognized subscription identifier.
+After the integration is published successfully, you’re redirected to the record page. You can view the details of the integration profile, associated software models, triggered scheduled jobs, scheduled job results, and unrecognized subscription identifier.
 
 **Parent Topic:**[Playbook for SaaS integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/playbook-saas-integrations.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

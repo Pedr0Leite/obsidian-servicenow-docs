@@ -104,7 +104,7 @@ Change
 
 </td></tr><tr><td>
 
-Project task**Note:** Before work orders can be created from project tasks, [[fsm-application-landing-page|Field Service Management]] must be integrated with Project Portfolio Management
+Project task**Note:** Before work orders can be created from project tasks, Field Service Management must be integrated with Project Portfolio Management
 
 </td><td>
 
@@ -120,6 +120,4 @@ Project task**Note:** Before work orders can be created from project tasks, [[fs
 </td></tr></tbody>
 </table>    Work orders can be filtered based on different attributes, such as qualification group, location, initiated from, priority, state, and so on. This help to create a group of similar work orders.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

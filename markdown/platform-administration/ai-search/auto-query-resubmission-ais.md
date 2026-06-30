@@ -14,9 +14,9 @@ breadcrumb: [Search, AI Search, Search administration, Configure core features, 
 
 # Automatic search query resubmission
 
-When a search query returns too few [[hs-results|results]], [[ia-ai-search|AI Search]] automatically modifies and resubmits it with the goal of returning at least the desired number of results.
+When a search query returns too few results, AI Search automatically modifies and resubmits it with the goal of returning at least the desired number of results.
 
-Search administrators configure the minimum number of desired results per search query using the **Search Results Limit** field in [[defining-search-app-cfgs-ais|search application configurations]]. For more details, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-app-config-ais.md).
+Search administrators configure the minimum number of desired results per search query using the **Search Results Limit** field in search application configurations. For more details, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-app-config-ais.md).
 
 ## AND-to-OR search query resubmission
 
@@ -39,8 +39,3 @@ Automatic search query resubmission ignores search queries that meet any of the 
 
 **Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

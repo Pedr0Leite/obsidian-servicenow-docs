@@ -20,11 +20,11 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-Adding a trigger is optional. If you want your agentic workflow to be used only in chats such as in [[platform-now-assist-landing|Now Assist]] for Virtual Agent or [[now-assist-center-now-assist-panel|Now Assist panel]], you don't need to add a trigger. Only add a trigger if you want to invoke the agentic workflow automatically when some event occurs.
+Adding a trigger is optional. If you want your agentic workflow to be used only in chats such as in Now Assist for Virtual Agent or Now Assist panel, you don't need to add a trigger. Only add a trigger if you want to invoke the agentic workflow automatically when some event occurs.
 
 **Note:** Triggers contain instance-specific information. If you are moving AI agents or agentic workflows between instances using Update Sets, you must set the triggers to inactive before adding them to the update sets and then activate them on the new instance.
 
-If you don't want to add a trigger, skip to the final step, [[channels-access-aw|Select channels and access]].
+If you don't want to add a trigger, skip to the final step, [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md).
 
 ## Procedure
 
@@ -70,7 +70,7 @@ Active trigger toggle
 
 </td><td>
 
-Only enable the trigger once you’re confident in the execution of your agentic workflow. Try testing the [[test-aia-use-case|agentic workflow execution]] and [[test-aw-access|user access]] first. To review overall trends over many executions, try an [[execute-aia-eval|automated evaluation]].
+Only enable the trigger once you’re confident in the execution of your agentic workflow. Try testing the [agentic workflow execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md) and [user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md) first. To review overall trends over many executions, try an [automated evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 </td></tr></tbody>
 </table>    \[Omitted image "edit-trigger-2.png"\] Alt text: Define when the trigger occurs section
@@ -123,11 +123,3 @@ You have added triggers to your agentic workflow to run it automatically under t
 
 Select **Save and continue** to move to the final step, [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md).
 
-## Related
-
-- [[channels-access-aw|Select channels and access for an agentic workflow]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[test-aw-access|Test user access to an agentic workflow]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

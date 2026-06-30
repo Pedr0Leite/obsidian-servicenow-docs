@@ -15,19 +15,19 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Initiate risk assessment on AI asset
 
-Initiate risk assessment to enable the risk assessor to [[perform-risk-assessments-on-ai-systems|perform risk assessments on AI systems]], evaluating the likelihood and impact of potential risks.
+Initiate risk assessment to enable the risk assessor to perform risk assessments on AI systems, evaluating the likelihood and impact of potential risks.
 
 ## Before you begin
 
-Role required: AI Asset Owner or [[ai-risk-and-compliance|AI Risk and Compliance]] Analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\]
+Role required: AI Asset Owner or AI Risk and Compliance Analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list icon\[Omitted image "list-icon-airc-ws.png"\] Alt text: .
 
-3.  From the List, open the AI asset for which you want to initiate [[risk-assessments|risk assessments]].
+3.  From the List, open the AI asset for which you want to initiate risk assessments.
 
 4.  Navigate to **Assessments** &gt; **Risk assessments**.
 
@@ -51,9 +51,3 @@ Role required: AI Asset Owner or [[ai-risk-and-compliance|AI Risk and Compliance
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[perform-risk-assessments-on-ai-systems|Perform risk assessments on AI systems]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[risk-assessments|risk assessments]]

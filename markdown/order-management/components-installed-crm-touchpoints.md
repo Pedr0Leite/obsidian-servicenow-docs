@@ -12,7 +12,7 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 # Components installed with CRM Touchpoints
 
-Several types of components are installed with activation of the [[explore-crm-touchpoints|CRM Touchpoints]] plugin, including tables and user roles.
+Several types of components are installed with activation of the CRM Touchpoints plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -94,9 +94,5 @@ Stores touchpoint records that track customer engagement activities across the s
 </td></tr></tbody>
 </table>The CRM Touchpoint \[sn\_crm\_touchpoint\_touchpoint\] table extends the Case \[case\] table.
 
-**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

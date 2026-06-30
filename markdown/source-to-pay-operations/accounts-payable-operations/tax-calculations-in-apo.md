@@ -15,11 +15,11 @@ breadcrumb: [Create an invoice manually, Work with invoices, Using Accounts Paya
 
 # Tax calculations
 
-Tax calculations in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] validate [[supplier|supplier]]-provided taxes against system-calculated amounts to determine the final tax for [[invoices|invoices]].
+Tax calculations in Accounts Payable Operations validate supplier-provided taxes against system-calculated amounts to determine the final tax for invoices.
 
 The Accounts Payable Operations application enables the validation of supplier-provided taxes for enhanced tax compliance and improved operational effectiveness.
 
-Tax specialists create tax types of either indirect tax or withholding tax. One or more [[create-tax-lines-apo|tax lines]] are added to invoice lines. Based on the tax type, the supplier tax is calculated against the invoice line amount. If the supplier tax amount is greater than the system tax amount, an overtax amount variance is calculated. If the supplier tax is less than the system tax amount, an undertax variance is calculated. You can choose to accept the system tax or the supplier tax,which will determine the final tax that is calculated and displayed on the invoice tax line and invoice header.
+Tax specialists create tax types of either indirect tax or withholding tax. One or more tax lines are added to invoice lines. Based on the tax type, the supplier tax is calculated against the invoice line amount. If the supplier tax amount is greater than the system tax amount, an overtax amount variance is calculated. If the supplier tax is less than the system tax amount, an undertax variance is calculated. You can choose to accept the system tax or the supplier tax,which will determine the final tax that is calculated and displayed on the invoice tax line and invoice header.
 
 For example, for an invoice line amount of $1000, add a tax line of the indirect tax type with a supplier tax of $100. The final tax amount would be calculated as the sum of $1000 and $100, for a total of $1100. If you select the withholding tax type, the final tax amount is calculated as the difference between the invoice line amount of $1000 and the supplier tax of $100, for a total of $900.
 
@@ -30,9 +30,3 @@ Create tax types to categorize taxes applied to invoices.
 
 **Parent Topic:**[Create an invoice manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[create-tax-lines-apo|Tax lines]]

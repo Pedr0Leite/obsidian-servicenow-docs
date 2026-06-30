@@ -22,7 +22,7 @@ Role required: Administrator
 
 Configure an alert to notify the crisis manager of an impending danger, potential harm, or risk that can cause business disruption. Set up filter conditions to notify events or feeds that can happen within a boundary from the location of your assets.
 
-Configuring an alert rule: Define simple conditions to evaluate an alert rule and determine the feed items that generate an alert. These alerts are displayed on the [[crisis-management-map-integration|Crisis Management map]].
+Configuring an alert rule: Define simple conditions to evaluate an alert rule and determine the feed items that generate an alert. These alerts are displayed on the Crisis Management map.
 
 -   **Feed condition filters**
 
@@ -37,7 +37,7 @@ Configuring an alert rule: Define simple conditions to evaluate an alert rule an
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Alert Rules**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Alert Rules**.
 
 2.  Click **New**.
 
@@ -62,7 +62,4 @@ Configuring an alert rule: Define simple conditions to evaluate an alert rule an
 
 4.  Click **Submit**.
 
-## Related
 
-- [[crisis-management-map-integration|Crisis Management map]]
-- [[Administration|Administration]]

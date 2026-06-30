@@ -14,7 +14,7 @@ breadcrumb: [Managing cloud accounts, Using Cloud Account Management in Cloud Wo
 
 # Reactivate a cloud account
 
-Reactivate an account that was previously suspended if there is a need retrieve the account. After reactivating an account, the account status changes from suspended to active. Only [[cam-landing|Cloud Account Management]] managed accounts can be reactivated.
+Reactivate an account that was previously suspended if there is a need retrieve the account. After reactivating an account, the account status changes from suspended to active. Only Cloud Account Management managed accounts can be reactivated.
 
 ## About this task
 
@@ -40,6 +40,4 @@ Role required: sn\_itom\_cam.cw\_admin or sn\_itom\_cam.cw\_requestor
 
     The reactivation request is sent for approval. Reactivated accounts are listed in the **Managed Accounts** section.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

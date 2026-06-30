@@ -23,7 +23,7 @@ Notice that you cannot export the actual application services, only service defi
 By default, you export the following service definitions:
 
 -   Service name
--   Traffic-based [[r-discovery|discovery]] usage
+-   Traffic-based discovery usage
 -   Entry point
 -   Business criticality
 -   Group to which the service belongs
@@ -73,7 +73,7 @@ Create an import set containing definitions of services. You use this import set
 
 -   Verify that the source and the target instances are on the same ServiceNow release.
 -   Open the source instance from which you want to copy service definitions.
--   If necessary, fine-tune the import set creation by modifying relevant properties under **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Administration** &gt; **Properties**. For more information, see [Components installed with Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/components-installed-with-service-mapping.md).
+-   If necessary, fine-tune the import set creation by modifying relevant properties under **Service Mapping** &gt; **Administration** &gt; **Properties**. For more information, see [Components installed with Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/components-installed-with-service-mapping.md).
 
 Role required: service\_mapping\_admin
 
@@ -194,8 +194,3 @@ This is a different service group with the same name, not the service group you 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

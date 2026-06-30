@@ -24,7 +24,7 @@ The experience for fulfillers streamlines the process of making catalog requests
 1.  Initiation: A fulfiller initiates a catalog request from an incident or case using a Now Assist chat.
 2.  Association Confirmation: The fulfiller confirms the association between the request and the relevant parent record.
 3.  Automatic Prefill: The system pre-fills the requestor information based on the parent context.
-4.  Question Rephrasing: Questions within the request are reworded to [[reference|reference]] the requestor for greater specificity.
+4.  Question Rephrasing: Questions within the request are reworded to reference the requestor for greater specificity.
 5.  Submission and Linking: The request is submitted and, where applicable, linked to the originating incident or case for comprehensive record-keeping.
 
 For example, fulfillers are able to enter specific requests, such as ordering a phone, using Now Assist, which subsequently displays a selection of relevant catalog items. The platform automatically retrieves pertinent details, including the number and caller information from the associated incident, thus streamlining the workflow and facilitating efficient record creation.
@@ -35,6 +35,3 @@ Once a request is submitted, all details and associated information are automati
 
 **Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 
-## Related
-
-- [[reference|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Incident Management in Service Operations Workspace reference, Inci
 
 # Components installed with Agent Client Collector for Investigation
 
-Several types of components are installed with activation of the Agent Client Collector for Investigation \(sn\_acc\_adapter\) application, including user roles and ServiceNow Store [[dex-workspace-application-tab|applications]].
+Several types of components are installed with activation of the Agent Client Collector for Investigation \(sn\_acc\_adapter\) application, including user roles and ServiceNow Store applications.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -137,6 +137,3 @@ Framework to remediate or resolve the CI related issues. For more information on
 </td></tr></tbody>
 </table>**Parent Topic:**[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-im-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

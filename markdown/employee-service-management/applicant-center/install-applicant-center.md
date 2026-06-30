@@ -14,7 +14,7 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Install Applicant Center
 
-You can install the [[applicant-center-concept|Applicant Center]] application \(sn\_ta\_applicant\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Applicant Center application \(sn\_ta\_applicant\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ For more information, see [Components installed with Applicant Center](https://r
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Employee requests page, Setup task management, Configuring Employee
 
 # Create or modify a request filter
 
-Create or modify a request filter for the requests page in the [[employee-center-landing-page|Employee Center]].
+Create or modify a request filter for the requests page in the Employee Center.
 
 ## Before you begin
 
@@ -95,6 +95,4 @@ Ticket page that the request filter is associated with.
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

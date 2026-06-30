@@ -34,7 +34,7 @@ Role required: Tax manager
     |Field|Description|
     |-----|-----------|
     |Invoice Case|
-    |Tax code ID|Unique tax code generated from the [[erp-source|ERP source]].|
+    |Tax code ID|Unique tax code generated from the ERP source.|
     |Name|Name of the tax code.|
     |Description|The details of the tax code used in transactions or financial activities.|
     |Country|The country for which the tax code is applied to.|
@@ -51,6 +51,3 @@ The tax code details are added.
 
 **Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-calculations-in-apo.md)
 
-## Related
-
-- [[erp-source|ERP source]]

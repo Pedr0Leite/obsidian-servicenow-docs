@@ -14,7 +14,7 @@ breadcrumb: [Desired State, CMDB Compliance, Configuration Management Database \
 
 # Desired State Overview module
 
-The Desired State Overview module displays various [[c_DesiredState|desired state]] reports. The Overview module is a type of homepage.
+The Desired State Overview module displays various desired state reports. The Overview module is a type of homepage.
 
 ## Desired State Overview module roles
 
@@ -88,6 +88,3 @@ Role required: none
     -   Desired State Discrepancies: All audit discrepancies for attributes and relationships.
     -   30/60/90 Day Task Aging: All outstanding follow-on tasks grouped by age in 30-day increments.
 
-## Related
-
-- [[c_DesiredState|Desired State]]

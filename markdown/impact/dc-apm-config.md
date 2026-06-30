@@ -22,13 +22,10 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
 ## Procedure
 
-1.  Navigate to **Performance/Platform [[io-analytics|Analytics]] &gt; Scoresheet**, and then select **[[impact-landing-page|Impact]] VM - Legacy APM systems run-rate**.
+1.  Navigate to **Performance/Platform Analytics &gt; Scoresheet**, and then select **Impact VM - Legacy APM systems run-rate**.
 
 2.  Enter the data point in the relevant month cell.
 
     \[Omitted image "dct\_config\_apm.png"\] Alt text: Example with Jul 2024 cell selected with an Indicator score of 3,000.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

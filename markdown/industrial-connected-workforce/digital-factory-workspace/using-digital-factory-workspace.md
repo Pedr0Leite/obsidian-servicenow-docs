@@ -14,7 +14,7 @@ breadcrumb: [Digital Factory Workspace, Industrial Connected Workforce]
 
 # Using Digital Factory Workspace
 
-Use the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] to manage your [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) data.
+Use the Digital Factory Workspace to manage your Industrial Connected Workforce \(ICW\) data.
 
 Digital Factory Workspace enables you to manage your organization data and processes.
 
@@ -56,23 +56,15 @@ Use the Industrial Standards application to manage industrial standards in your 
 -   **[Using Industrial Guided Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-guided-tasks.md)**  
 Use Industrial Guided Tasks to manage Industrial Guided Task standards.
 -   **[Industrial Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-workflows.md)**  
-Use [[industrial-workflows|Industrial Workflows]] to manage different types of tasks in the Industrial Connected Workforce \(ICW\).
+Use Industrial Workflows to manage different types of tasks in the Industrial Connected Workforce \(ICW\).
 -   **[Industrial Data Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-data-models.md)**  
-Use the [[industrial-data-models|Industrial Data Models]] to manage data models for the Industrial Connected Workforce \(ICW\).
+Use the Industrial Data Models to manage data models for the Industrial Connected Workforce \(ICW\).
 -   **[Industrial Failure Modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-failure-modes.md)**  
-Use [[industrial-failure-modes|Industrial Failure Modes]] to manage failure modes in the Industrial Connected Workforce.
+Use Industrial Failure Modes to manage failure modes in the Industrial Connected Workforce.
 -   **[Initiate a Sidebar chat in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/initiate-sidebar-chat-digital-factory-workspace.md)**  
-[[initiate-sidebar-chat-digital-factory-workspace|Initiate a Sidebar chat in the Digital Factory Workspace]]. Sidebar discussion enables operators to collaborate with others when working on deviations, actions, root cause analyses, and standards. For example, if you want to notify the deviation expert that a deviation is fixed and can be closed.
+Initiate a Sidebar chat in the Digital Factory Workspace. Sidebar discussion enables operators to collaborate with others when working on deviations, actions, root cause analyses, and standards. For example, if you want to notify the deviation expert that a deviation is fixed and can be closed.
 -   **[Using ICW Health and Safety Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-icw-health-and-safety-integration.md)**  
 Use the ICW Health and Safety Integration application to manage and resolve safety incidents in your organization.
 
 **Parent Topic:**[Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-digital-factory-workspace-landing-page.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[industrial-workflows|Industrial Workflows]]
-- [[industrial-data-models|Industrial Data Models]]
-- [[industrial-failure-modes|Industrial Failure Modes]]
-- [[initiate-sidebar-chat-digital-factory-workspace|Initiate a Sidebar chat in the Digital Factory Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Enable users to enroll for Password Reset
 
-To enable users to enroll for the [[password-reset-landing-page|Password Reset]] program, you specify a UI macro that takes the user through the enrollment process and a script that processes the enrollment data that the user entered. The base system includes a functioning macro and script.
+To enable users to enroll for the Password Reset program, you specify a UI macro that takes the user through the enrollment process and a script that processes the enrollment data that the user entered. The base system includes a functioning macro and script.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ To enable users to enroll, you configure settings for the verification type that
 
     |Field|Description|
     |-----|-----------|
-    |Automatic enrollment|Clear the [[check-box|check box]] to disable automatic enrollment.|
+    |Automatic enrollment|Clear the check box to disable automatic enrollment.|
     |Enrollment UI|Enrollment UI macro that takes the user through the enrollment process.|
     |Enrollment processor|Enrollment processor script that processes enrollment data.|
 
@@ -72,7 +72,7 @@ A verification type must also define a verification UI macro and a corresponding
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
@@ -80,8 +80,3 @@ A verification type must also define a verification UI macro and a corresponding
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[email|Email]]

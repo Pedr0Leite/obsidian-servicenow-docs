@@ -19,13 +19,13 @@ Create an external content connector to retrieve searchable content and security
 
 ## Before you begin
 
-A source system administrator must have already configured your Microsoft SharePoint Online source system to allow access by the [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]. For details on configuring these settings in the source system, see [Create a public/private key pair for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/gen-cert-spo-ext-cont-connector.md) and [Configure Microsoft SharePoint Online for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-azure-spo-ext-cont-connector.md).
+A source system administrator must have already configured your Microsoft SharePoint Online source system to allow access by the Microsoft SharePoint Online external content connector. For details on configuring these settings in the source system, see [Create a public/private key pair for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/gen-cert-spo-ext-cont-connector.md) and [Configure Microsoft SharePoint Online for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-azure-spo-ext-cont-connector.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -59,7 +59,7 @@ Application \(client\) ID
 
 </td><td>
 
-Application \(client\) ID for the OAuth 2.0 application defined in the Microsoft Entra [[admin-center-intro|admin center]] that grants access to your Microsoft SharePoint Online source system. If you have access to the OAuth 2.0 application's registration record in the Microsoft Entra admin center, you can navigate to **Overview** and copy this ID from the **Application \(client\) ID** field in the Essentials section.
+Application \(client\) ID for the OAuth 2.0 application defined in the Microsoft Entra admin center that grants access to your Microsoft SharePoint Online source system. If you have access to the OAuth 2.0 application's registration record in the Microsoft Entra admin center, you can navigate to **Overview** and copy this ID from the **Application \(client\) ID** field in the Essentials section.
 
  If you can't access the OAuth 2.0 application's registration record in the Microsoft Entra admin center, ask your Microsoft Entra administrator for the application's **Application \(client\) ID** value.
 
@@ -207,16 +207,10 @@ To make content crawled by your new connector searchable in portals and search a
 
 -   **Custom search sources**
 
-    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
+    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
 
 You can link connector search sources to search profiles from the External Content Admin Home page. For details on this procedure, see [Connect an external content connector to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/connect-external-content-connector-search-profile.md).
 
 **Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[admin-center-intro|Admin Center]]
-- [[ia-ai-search|AI Search]]

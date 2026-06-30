@@ -22,7 +22,7 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **Portfolios**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **Portfolios**.
 
 2.  Click **New**.
 
@@ -49,6 +49,3 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 
 [SAFe Board—Portfolio level]()
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

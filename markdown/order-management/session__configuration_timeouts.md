@@ -36,12 +36,9 @@ Here are a few example scenarios.
 
     **Note:** While this behavior works well in CPQ, we cannot guarantee the same functionality in Salesforce iframe tabs. SFDC may not allow JavaScript to run on inactive tabs, potentially affecting the 2-hour timeout in that environment.
 
--   Scenario 5: If [[understand-the-commerce-logic-engine|the CPQ configurator]] is in an SFDC iframe and the user navigates to a different tab, the 15-minute cache expiry for inactive sessions may occur.
+-   Scenario 5: If the CPQ configurator is in an SFDC iframe and the user navigates to a different tab, the 15-minute cache expiry for inactive sessions may occur.
 
 The most effective approach to avoid a timeout is to manually save your configurations, especially when working across multiple tabs. This way, progress is not lost when completing other work.
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]

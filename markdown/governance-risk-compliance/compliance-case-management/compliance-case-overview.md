@@ -14,7 +14,7 @@ breadcrumb: [Explore, Compliance Case Management, Governance, Risk, and Complian
 
 # Using the compliance case overview related list
 
-The compliance case overview related list shows the details about a case. For example, you can see the description, state, schedule and milestones, case tasks, and issues that are related to a case in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+The compliance case overview related list shows the details about a case. For example, you can see the description, state, schedule and milestones, case tasks, and issues that are related to a case in the GRC: Compliance Case Management application.
 
 The Compliance Case Management overview related list includes the following sections:
 
@@ -107,6 +107,3 @@ The Attachment section enables you to upload a file as an attachment to a case. 
 
 **Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

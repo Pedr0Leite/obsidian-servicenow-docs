@@ -18,10 +18,7 @@ Standard services are amenities or basic services that are available with a work
 
 Standard service is like a basic provision available to employees which they can use in their reservation without having to request separately. For example, when an employee reserves a meeting room, services like telephone, computer, plugs, video call items are considered as standard services unless until the company makes it a requested service.
 
-Employees can see details of the available standard services with each workplace item that an employee can reserve in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]. The standard services are also displayed as icons in the card view of workplace items when you search for an item. For example, the following image shows standard services available with a meeting room:
+Employees can see details of the available standard services with each workplace item that an employee can reserve in the Workplace Reservation Management. The standard services are also displayed as icons in the card view of workplace items when you search for an item. For example, the following image shows standard services available with a meeting room:
 
 \[Omitted image "standard-services.png"\] Alt text: Standard services available with a meeting room
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

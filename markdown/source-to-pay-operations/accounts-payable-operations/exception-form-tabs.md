@@ -15,7 +15,7 @@ breadcrumb: [Invoice exception form, Reference, Accounts Payable Operations, Fin
 
 # Invoice exception form tabs
 
-Descriptions of the tabs on the [[exception-form-fields|Invoice exception form]], including the invoice exception information available for exception resolution.
+Descriptions of the tabs on the Invoice exception form, including the invoice exception information available for exception resolution.
 
 <table id="table_bgh_hwr_2wb"><thead><tr><th>
 
@@ -43,27 +43,27 @@ Invoice lines that have exceptions.**Note:** This tab is shown only for line-lev
 
 </td></tr><tr><td>
 
-[[purchase-order-lines|Purchase Order Lines]]
+Purchase Order Lines
 
 </td><td>
 
-Purchase order lines corresponding to the invoice lines for which the invoice exception has been raised.This tab is shown only for [[work-with-invoice-exceptions|invoice exceptions]] of type Insufficient Funds \(Quantity variance\) and Insufficient Funds \(Amount variance\).
+Purchase order lines corresponding to the invoice lines for which the invoice exception has been raised.This tab is shown only for invoice exceptions of type Insufficient Funds \(Quantity variance\) and Insufficient Funds \(Amount variance\).
 
 </td></tr><tr><td>
 
-[[receipts|Receipts]]
+Receipts
 
 </td><td>
 
-Goods receipts for all the purchase order lines of a [[purchase-order-table|purchase order]]. For more information, see [Receipts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/receipts.md).
+Goods receipts for all the purchase order lines of a purchase order. For more information, see [Receipts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/receipts.md).
 
 </td></tr><tr><td>
 
-Related [[invoices|invoices]]
+Related invoices
 
 </td><td>
 
-Related invoices from the same [[supplier|supplier]].This tab is shown only for invoice exceptions of type Insufficient Funds \(Quantity variance\) and Insufficient Funds \(Amount variance\).
+Related invoices from the same supplier.This tab is shown only for invoice exceptions of type Insufficient Funds \(Quantity variance\) and Insufficient Funds \(Amount variance\).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Related tasks
 
 </td><td>
 
-If [[psm-overview|Sourcing and Procurement Operations]] is installed, the following tasks are shown:
+If Sourcing and Procurement Operations is installed, the following tasks are shown:
 
 -   Receipt. For more information, see [Receipt tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/receipt-tasks.md).
 -   Milestone. For more information, see [Milestones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/milestones.md).
@@ -92,13 +92,3 @@ If [[psm-overview|Sourcing and Procurement Operations]] is installed, the follow
 </td></tr></tbody>
 </table>**Parent Topic:**[Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 
-## Related
-
-- [[exception-form-fields|Invoice exception form]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[psm-overview|Sourcing and Procurement Operations]]

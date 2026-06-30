@@ -54,7 +54,7 @@ Document type
 
 </td><td>
 
-Indicates how the contract document is generated. The available values are:-   Word template: Contract document is generated from [[cncore-expl-wdt|Word document templates]] for the contract configuration.
+Indicates how the contract document is generated. The available values are:-   Word template: Contract document is generated from Word document templates for the contract configuration.
 -   Third-party contract: Contract documents is generated from the documents attached in the third-party contract request.
 
 </td></tr><tr><td>
@@ -139,6 +139,3 @@ Conditions under which the contract configuration is applied. For example, to ap
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-expl-wdt|Word Document Templates]]

@@ -32,7 +32,7 @@ Data source
 
 </td><td>
 
-You have selected a Table data source in [[create-dv-sing-sc-ac|Create a single score data visualization]].
+You have selected a Table data source in [Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -263,6 +263,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md)
 
-## Related
-
-- [[create-dv-sing-sc-ac|Create a single score data visualization]]

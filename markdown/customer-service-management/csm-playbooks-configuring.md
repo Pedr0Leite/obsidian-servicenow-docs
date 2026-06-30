@@ -30,8 +30,8 @@ Create or customize a playbook record page
 
 </td><td>
 
-A record page provides the base structure for how a record is displayed in [[csm-workspaces-configure|CSM Configurable Workspace]]. The following playbook record pages are available with the Playbooks for [[c_CustomerServiceManagement|Customer Service Management]] application \[com.sn\_csm\_playbook\]:-   [[csm-playbook-horizontal-stages|Case playbook: horizontal stages page]]
--   [[csm-playbook-vertical-stages|Case playbook: vertical stages page]]
+A record page provides the base structure for how a record is displayed in CSM Configurable Workspace. The following playbook record pages are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]:-   [Case playbook: horizontal stages page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-horizontal-stages.md)
+-   [Case playbook: vertical stages page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-vertical-stages.md)
 
 For more information, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-pages.md).
 
@@ -53,7 +53,7 @@ For more information, see the following topics:
 
 </td></tr><tr><td>
 
-[[playbook-select-activity-view|Select a playbook activity view]]
+[Select a playbook activity view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-select-activity-view.md)
 
 </td><td>
 
@@ -64,7 +64,7 @@ Users with the system administrator role can select a playbook activity view in 
 
 </td></tr><tr><td>
 
-[[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
+[Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Different playbooks for the same record type can use different playbook experien
 
 </td></tr><tr><td>
 
-[[setup-record-generator-for-case-type|Set up a record generator for a case type]]
+[Set up a record generator for a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-record-generator-for-case-type.md)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Create a record for a case type by using a playbook record generator. With a rec
 
 </td></tr><tr><td>
 
-[[configure-optional-activity-for-a-case-type-playbook|Configure an optional activity for a playbook]]
+[Configure an optional activity for a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-optional-activity-for-a-case-type-playbook.md)
 
 </td><td>
 
@@ -137,13 +137,3 @@ Within UI Builder, system administrators can configure playbook component settin
 
 For more information, see [Configuring playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-configuring.md).
 
-## Related
-
-- [[csm-playbook-horizontal-stages|csm playbook horizontal stages]]
-- [[csm-playbook-vertical-stages|csm playbook vertical stages]]
-- [[playbook-select-activity-view|Select a playbook activity view]]
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[setup-record-generator-for-case-type|Set up a record generator for case type]]
-- [[configure-optional-activity-for-a-case-type-playbook|Configure an optional activity for a playbook]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

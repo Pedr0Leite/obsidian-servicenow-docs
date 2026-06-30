@@ -62,7 +62,7 @@ Root email
 
 </td><td>
 
-[[cam-landing|Cloud Account Management]] uses an email address to generate the root email ID for newly created account.
+Cloud Account Management uses an email address to generate the root email ID for newly created account.
 
  For example, if your root email ID is myawsaccount@example.com, the Cloud Account Management application appends a request ID to generate myawsaccount-CWSAREQ0000001@example.com.
 
@@ -121,6 +121,3 @@ Option to provide a description for the Terraform account.
 
 **Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

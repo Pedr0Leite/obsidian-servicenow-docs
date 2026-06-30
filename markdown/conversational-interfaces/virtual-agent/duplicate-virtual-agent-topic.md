@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Duplicating a Virtual Agent topic
 
-Create a topic or topic block by copying an existing [[virtual-agent-landing-page|Virtual Agent]] topic or topic block and customize it.
+Create a topic or topic block by copying an existing Virtual Agent topic or topic block and customize it.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Consider duplicating topics in the following scenarios:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**, and in the [[vad-topics-page|Assistant Designer Asset library]], select the topic you want to duplicate.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**, and in the Assistant Designer Asset library, select the topic you want to duplicate.
 
 2.  In the topic header bar, select the more actions on topics icon \[Omitted image "kebab-menu.png"\] Alt text:, then select **Duplicate**.
 
@@ -41,7 +41,7 @@ Consider duplicating topics in the following scenarios:
 
 3.  Update the properties on the **Properties** tab and on the **Flow** tab, change the conversation flow design as needed.
 
-    **Note:** Keep in mind the goal or purpose of your new topic as you set the properties and update the flow. For example, if you're using keyword-based topics, you might need to change certain keywords based on the purpose of your new topic. For LLM topics, you might need to select one or more [[llm-assistants|LLM assistants]]. For Natural Language Understanding \(NLU\)-enabled topics, you might need to change the NLU model and intent associated with the topic.
+    **Note:** Keep in mind the goal or purpose of your new topic as you set the properties and update the flow. For example, if you're using keyword-based topics, you might need to change certain keywords based on the purpose of your new topic. For LLM topics, you might need to select one or more LLM assistants. For Natural Language Understanding \(NLU\)-enabled topics, you might need to change the NLU model and intent associated with the topic.
 
 <table id="table_ahw_hqt_hmb"><thead><tr><th>
 
@@ -81,9 +81,3 @@ If you’ve completed the topic or topic block, [publish](https://raw.githubuser
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[llm-assistants|LLM assistants]]

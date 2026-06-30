@@ -14,7 +14,7 @@ breadcrumb: [Install Now Assist in AI Search, Now Assist in AI Search, ServiceNo
 
 # Review available versions of Now Assist in AI Search
 
-View all versions of the [[now-assist-ais|Now Assist in AI Search]] application on the [[servicenow-store|ServiceNow Store]]. Use this information to find the latest version of the application that's compatible with your instance's current ServiceNow AI Platform® family release.
+View all versions of the Now Assist in AI Search application on the ServiceNow Store. Use this information to find the latest version of the application that's compatible with your instance's current ServiceNow AI Platform® family release.
 
 ## Before you begin
 
@@ -73,7 +73,3 @@ Role required: none
 
 **Parent Topic:**[Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md)
 
-## Related
-
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[servicenow-store|ServiceNow Store]]

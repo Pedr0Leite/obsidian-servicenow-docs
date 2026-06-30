@@ -14,7 +14,7 @@ breadcrumb: [Set up B2B2C, Configure, Healthcare and Life Sciences Service Manag
 
 # Create a table for B2B2C in Healthcare and Life Sciences Service Management Core
 
-Create a table that extends the [[hcls-case-table|Healthcare case table]].
+Create a table that extends the Healthcare case table.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] case table must be extended in order for new cases to be created.
+The Healthcare and Life Sciences Service Management Core case table must be extended in order for new cases to be created.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ A table is created that extends the Healthcare case table for use with B2B2C.
 
 Create a record producer for use with B2B2C. For more information, see [Create a record producer for B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-b2b2c-create-record-producer.md).
 
-## Related
-
-- [[hcls-case-table|Healthcare case table]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

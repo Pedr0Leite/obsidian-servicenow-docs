@@ -16,7 +16,7 @@ breadcrumb: [Source-to-Pay Workspace landing page, Explore, Workspace, Source-to
 
 As a fulfiller within the procurement team, you can visually launch into your day with a one-stop-shop experience where you can view work that needs your attention, and use quick actions to navigate to internal and external websites.
 
-As a Procurement Specialist or [[psd-overview|Procurement Case Management]] \(PCM\) Agent, you can use the [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]] to view all your open requests, which include purchasing to-dos that need your attention, along with their overdue status. You can also view requests that need your review, and filter them by priority and work type, such as purchase requisitions, sourcing requests, negotiation events, and cases. You can also filter your tasks by due date for better planning. The distribution of your work by work type and priority is displayed in a stacked bar chart format. This quick glance of your work enables you to better plan and prioritize your work. You can also view the recently updated records, which enables you to keep up with the progress when collaborating with other stakeholders.
+As a Procurement Specialist or Procurement Case Management \(PCM\) Agent, you can use the Source-to-Pay Workspace landing page to view all your open requests, which include purchasing to-dos that need your attention, along with their overdue status. You can also view requests that need your review, and filter them by priority and work type, such as purchase requisitions, sourcing requests, negotiation events, and cases. You can also filter your tasks by due date for better planning. The distribution of your work by work type and priority is displayed in a stacked bar chart format. This quick glance of your work enables you to better plan and prioritize your work. You can also view the recently updated records, which enables you to keep up with the progress when collaborating with other stakeholders.
 
 Each record widget displays details such as the record number, short description, state, date opened, priority, business owner, and last updated. You can then select the widget to view more details pertaining to that record.
 
@@ -136,11 +136,11 @@ Widget
 
 </td><td>
 
-Open a new tab with the procurement dashboards, where dashboards are filtered by the [[psm-overview|Sourcing and Procurement Operations]] group.
+Open a new tab with the procurement dashboards, where dashboards are filtered by the Sourcing and Procurement Operations group.
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] directory
+Supplier directory
 
 </td><td>
 
@@ -202,9 +202,3 @@ You can configure the landing page using UI Builder, define different audiences 
 
 [POM landing page]()
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]

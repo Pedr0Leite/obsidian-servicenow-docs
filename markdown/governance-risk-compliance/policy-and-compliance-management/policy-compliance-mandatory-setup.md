@@ -14,7 +14,7 @@ breadcrumb: [Implement, Policy and Compliance Management, Governance, Risk, and 
 
 # Policy and Compliance Management mandatory setup
 
-After you have assigned roles to your users and [[set-policy-compliance-properties|set Policy and Compliance Management properties]], proceed with the mandatory setup steps.
+After you have assigned roles to your users and set Policy and Compliance Management properties, proceed with the mandatory setup steps.
 
 The flow of mandatory steps in the checklist are illustrated here.
 
@@ -35,6 +35,3 @@ Indicator data for controls, risk, and audit evidence are measured differently d
 
 **Parent Topic:**[Implementing Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-impl-overview.md)
 
-## Related
-
-- [[set-policy-compliance-properties|Set Policy and Compliance Management properties]]

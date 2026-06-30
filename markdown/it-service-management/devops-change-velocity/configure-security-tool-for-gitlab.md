@@ -112,7 +112,7 @@ global
 
 7.  Modify the **sn\_devops\_ints.DevOpsGitLabIntegrationHandler**script include by navigating to **System definitions &gt; Script include**, and searching for the **DevOpsGitLabIntegrationHandler** script.
 
-    1.  Modify the handleEvent method to process the [[security-tool-framework|security scan results]] from the GitLab pipeline. Ensure that your security stage name in your GitLab pipeline is same as the name you update in the VERACODE\_STAGE\_NAME, CMARX\_ONE\_STAGE\_NAME, or CMARX\_SAST\_STAGE\_NAME variable in the handleEvent method. Replace the handleEvent method code with the following code snippet.
+    1.  Modify the handleEvent method to process the security scan results from the GitLab pipeline. Ensure that your security stage name in your GitLab pipeline is same as the name you update in the VERACODE\_STAGE\_NAME, CMARX\_ONE\_STAGE\_NAME, or CMARX\_SAST\_STAGE\_NAME variable in the handleEvent method. Replace the handleEvent method code with the following code snippet.
 
         ```
          handleEvent: function(eventGr) {
@@ -320,6 +320,3 @@ global
 
 **Parent Topic:**[DevOps user-created security tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-security-tool-integration.md)
 
-## Related
-
-- [[security-tool-framework|Security scan results]]

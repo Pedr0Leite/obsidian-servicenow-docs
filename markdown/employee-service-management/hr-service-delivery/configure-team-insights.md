@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Configure widgets
 
-Configure the widgets in the [[manager-hub-overview|Manager Hub]] and Team Insights pages as per your business requirements.
+Configure the widgets in the Manager Hub and Team Insights pages as per your business requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_mh.admin, sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -75,7 +75,3 @@ Role required: sn\_mh.admin, sp\_admin
 
 [Configure to do mappings]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

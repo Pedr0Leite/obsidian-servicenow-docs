@@ -70,7 +70,7 @@ Change task
 
 </td><td>
 
-This will allow you to search for AI powered recommendations for [[change-tasks|change tasks]] in Service Operations Workspace.
+This will allow you to search for AI powered recommendations for change tasks in Service Operations Workspace.
 
 </td></tr><tr><td>
 
@@ -91,6 +91,3 @@ This will allow you to search for AI powered recommendations for requests in Ser
 </td></tr></tbody>
 </table>**Parent Topic:**[Recommended Actions for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-reference.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

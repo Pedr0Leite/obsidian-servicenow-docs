@@ -26,7 +26,7 @@ When you run a planned work schedule on demand, all of the next run dates for th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open a work plan that contains the schedule to run.
 
@@ -34,7 +34,4 @@ When you run a planned work schedule on demand, all of the next run dates for th
 
 4.  In the Related Link section, select **Run on demand**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

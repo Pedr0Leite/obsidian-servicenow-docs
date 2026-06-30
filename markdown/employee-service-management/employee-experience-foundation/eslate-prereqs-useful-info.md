@@ -15,7 +15,7 @@ breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Em
 
 # Before you start with Employee Slate
 
-Verify the prerequisites, plugins, roles, licenses, and assets that [[employee-slate-landing-page|Employee Slate]] needs.
+Verify the prerequisites, plugins, roles, licenses, and assets that Employee Slate needs.
 
 Employee Slate has distinct prerequisites for the administrator who configures the deployment and for the employee who uses it. Review the lists that apply to your role before you begin.
 
@@ -25,10 +25,10 @@ Before you install and configure Employee Slate, verify the following prerequisi
 
 -   The ServiceNow instance runs a platform version with the Employee Slate release.
 -   Verify that you have the System administrator role or an equivalent role.
--   Determine the deployment path with [[employee-slate-moveworks|Employee Slate for Moveworks]] or [[employee-slate-nowassist|Employee Slate for Now Assist]]. Verify that you have all the entitlements.
+-   Determine the deployment path with Employee Slate for Moveworks or Employee Slate for Now Assist. Verify that you have all the entitlements.
 -   Verify that the Employee Slate plugin for your deployment is available.
--   Install the [[employee-slate-advanced|Employee Slate Advanced]] plugin if your deployment requires the advanced experience.
--   Verify that you have tools and licenses to build widgets with the [[eslate-ai-widget-builder|AI-powered Widget Builder]].
+-   Install the Employee Slate Advanced plugin if your deployment requires the advanced experience.
+-   Verify that you have tools and licenses to build widgets with the AI-powered Widget Builder.
 -   Keep the branding assets such as logo file, favicon, primary color hex code, accent color hex code, and a URL suffix ready.
 -   Verify you configure the AI-driven capabilities — AI summaries, prioritization, conversational filters, and chat-driven actions — Moveworks or Now Assist.
 
@@ -48,10 +48,3 @@ If your team publishes content or announcements in Employee Slate, verify the fo
 -   Associate knowledge articles and catalog items that are published and accessible.
 -   Populate the holiday calendar table for the work locations that your Upcoming Holiday widget targets.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[eslate-ai-widget-builder|AI-powered Widget Builder]]

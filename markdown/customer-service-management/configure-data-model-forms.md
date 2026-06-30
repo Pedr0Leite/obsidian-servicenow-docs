@@ -12,7 +12,7 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Configure forms and lists
 
-Configure [[migration-forms|forms]] to add the fields and related [[migration-lists|lists]] that are necessary to support the business location and household [[data-models|data models]].
+Configure forms to add the fields and related lists that are necessary to support the business location and household data models.
 
 ## Before you begin
 
@@ -36,8 +36,8 @@ Role required: One of the following:
     -   Consumer Relationships
     -   Household Relationships
     -   Consumer Team Member &gt; Consumer \(Consumer Team\)
-    -   [[sold-product|Sold Products]]
-5.  Add the **Service Organization** field to the [[r_CustomerServiceCaseForm|Case form]] for these views: Case and Workspace.
+    -   Sold Products
+5.  Add the **Service Organization** field to the Case form for these views: Case and Workspace.
 
 6.  Add the **Requesting Service Organization** field to the Case form for these views: Case and Workspace.
 
@@ -53,11 +53,11 @@ Role required: One of the following:
 
     -   All Consumers
     -   More Consumers
-11. Add the **Household** field to the [[entitlement-form|Entitlement form]] for these views: Case and Workspace.
+11. Add the **Household** field to the Entitlement form for these views: Case and Workspace.
 
 12. Add the **Household** field to the Contract form for these views: Case and Workspace.
 
-13. Add the **Household** field to the [[sold-product-form|Sold Product form]] for these views: Case and Workspace.
+13. Add the **Household** field to the Sold Product form for these views: Case and Workspace.
 
 14. Add the following related lists to the Service Organization form for these views: Case and Workspace.
 
@@ -66,7 +66,7 @@ Role required: One of the following:
     -   Account Staff Relationships
     -   Consumer Staff Relationships
     -   Household Staff Relationships
-15. Add the following related lists to the [[data-model-household-form|Household form]] for these views: Case and Workspace.
+15. Add the following related lists to the Household form for these views: Case and Workspace.
 
     -   Current Members
     -   Household Member &gt; Household \(All Members\)
@@ -77,13 +77,3 @@ Role required: One of the following:
     -   Contract &gt; Household \(Contracts\)
     -   Sold Product &gt; Household \(Sold Products\)
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]
-- [[data-models|Data models]]
-- [[sold-product|Sold products]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[entitlement-form|Entitlement form]]
-- [[sold-product-form|Sold product form]]
-- [[data-model-household-form|Household form]]

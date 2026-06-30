@@ -18,12 +18,9 @@ breadcrumb: [Now Assist in CM Pro, Contract Management Pro, Legal and Contract O
 If you have the sn\_cm\_gen\_ai.ai\_contract\_fulfiller role, you can review the non-standard and missing clauses in a contract, extract the information from a signed contract to add it to the contract repository and search using natural language by using the Now Assist in the Contract Management application.
 
 -   **[Contract metadata extraction using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-metadata-extract-land.md)**  
-As a contract fulfiller, use [[cncore-now-assit-landing|Now Assist in Contract Management]] Pro to extract metadata from a signed contract and add the information to the mapped fields in the contract repository.
+As a contract fulfiller, use Now Assist in Contract Management Pro to extract metadata from a signed contract and add the information to the mapped fields in the contract repository.
 -   **[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md)**  
 As a contract fulfiller, you can analyze your contract documents and identify non-standard or missing clauses from the Now Assist contextual side panel by using the Now Assist in the Contract Management application.
 
 **Parent Topic:**[Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

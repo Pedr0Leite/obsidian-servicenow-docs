@@ -15,11 +15,11 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # Featured applications
 
-Employees can [[discover-lxp|discover]], access, and manage all their business applications from a single location.
+Employees can discover, access, and manage all their business applications from a single location.
 
 The featured apps serves as a central hub where employees can discover, access, and manage all their work applications from a single location.
 
-**Note:** To use featured application, you must install [[employee-slate-advanced|Employee Slate Advanced]].
+**Note:** To use featured application, you must install Employee Slate Advanced.
 
 \[Omitted image "es-featured-applications.png"\] Alt text: featured applications
 
@@ -34,7 +34,7 @@ With the Featured applications, you can:
 
 ## Quick access to applications
 
-The [[web-application-employee-about|app launcher]] enhances employee productivity by:
+The app launcher enhances employee productivity by:
 
 -   Reducing time spent searching for applications across different systems
 -   Providing a consistent user experience across all business applications
@@ -49,7 +49,7 @@ The app launcher supports various types of business applications that you use in
 -   Human resources and payroll systems \(ADP, Workday\)
 -   Communication and collaboration tools \(MS Teams, Zoom, Outlook\)
 -   Financial and expense management platforms \(Concur, Fidelity\)
--   [[exploring-learning-exp|Learning]] and development resources \(LinkedIn Learning\)
+-   Learning and development resources \(LinkedIn Learning\)
 -   File storage and sharing services \(OneDrive\)
 -   Recognition and engagement platforms \(Culture Amp, You earned it\)
 -   Procurement and business management tools \(Coupa, Smartrecruiters\)
@@ -57,9 +57,3 @@ The app launcher supports various types of business applications that you use in
 
 **Note:** Application availability depends on your organization subscriptions and SSO configuration. Contact your system administrator if you can't access a required application.
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[web-application-employee-about|App Launcher]]
-- [[exploring-learning-exp|Learning]]

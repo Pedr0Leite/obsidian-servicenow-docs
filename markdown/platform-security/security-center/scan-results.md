@@ -16,11 +16,11 @@ breadcrumb: [Security scanner, Security configuration console, Security Center, 
 
 View data related to your scan results from a single view.
 
-\[Omitted image "scan-results-2.png"\] Alt text: [[scan-findings|Scan findings]] list in a scan result
+\[Omitted image "scan-results-2.png"\] Alt text: Scan findings list in a scan result
 
-A scan result reports the status and type of the scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan [[logs|logs]].
+A scan result reports the status and type of the scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs.
 
-You can find your scan results dashboard by selecting the **Scanner** tab in [[sec-center-v2|Security Center]], then selecting **Results** in the left panel. The scan results are listed under the **Scan results** list. Select a result to drill in and view the details, which are separated into tabbed sections.
+You can find your scan results dashboard by selecting the **Scanner** tab in Security Center, then selecting **Results** in the left panel. The scan results are listed under the **Scan results** list. Select a result to drill in and view the details, which are separated into tabbed sections.
 
 -   **Details**
 
@@ -57,8 +57,3 @@ You can find your scan results dashboard by selecting the **Scanner** tab in [[s
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[scan-findings|Scan findings]]
-- [[logs|Logs]]
-- [[sec-center-v2|Security Center]]

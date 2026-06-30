@@ -37,9 +37,9 @@ When you create Demand Forecast configurations, the application creates these me
 
 ## Analyzing Demand Forecast resource prediction
 
-\[Omitted video\] Description: Demand Forecast in Workforce [[optimization|Optimization]]
+\[Omitted video\] Description: Demand Forecast in Workforce Optimization
 
-As a manager with the forecast admin role, you can create forecast parameters in the Manager Workspace. [[modify-demand-forecast-parameters-configurable-wfo|Modify forecast parameters to visualize forecast data]] and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
+As a manager with the forecast admin role, you can create forecast parameters in the Manager Workspace. [Modify forecast parameters to visualize forecast data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/modify-demand-forecast-parameters-configurable-wfo.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
 
 You can also make manual adjustments to tweak the forecast and analyze the forecast pattern. Overlay the manual adjustments on the visualized forecast data and view the time-series data to analyze the forecast model. For example, you have a specific pattern for the upcoming week that has a national holiday in the middle of the week where you need more agents. Because you expect the sales to go up, you can manually tweak the forecast to increase it by 10% and analyze that data.
 
@@ -64,7 +64,7 @@ To forecast the demand:
 4.  Associate the formulas to assignment groups.
 5.  View the predicted demand on the calendar.
 
-**Note:** See the Demand Forecast section in [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]] for information on the default components and configurations.
+**Note:** See the Demand Forecast section in [Components installed with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) for information on the default components and configurations.
 
 ## Collect data by defining data collection definitions
 
@@ -109,20 +109,12 @@ As a WFO admin, you need to configure assignment groups associated with Workforc
 
 **Note:** If you need to add new assignment groups after the historical or daily data collection job has already been run, update the corresponding data collection definition by setting the `is_historical_data_collected` flag to false and the duration to 0. After making these changes, rerun the historical data collection job to ensure that historical data is collected for the newly added groups, maintaining the accuracy and completeness of demand forecasts.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[configure-data-collection-demand-forecast|Configure the data collection for resources demands]]
+[Configure the data collection for resources demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-collection-demand-forecast.md)
 
-[[analyze-staff-alignment-configurable-wfo-cs|Analyze staff alignment using Demand Forecast]]
+[Analyze staff alignment using Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analyze-staff-alignment-configurable-wfo-cs.md)
 
-## Related
-
-- [[modify-demand-forecast-parameters-configurable-wfo|Modify forecast parameters to visualize forecast data]]
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[configure-data-collection-demand-forecast|Configure the data collection for resources demands]]
-- [[analyze-staff-alignment-configurable-wfo-cs|Analyze staff alignment using Demand Forecast]]
-- [[optimization|Optimization]]

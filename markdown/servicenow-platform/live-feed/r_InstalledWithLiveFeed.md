@@ -27,10 +27,7 @@ The Live Feed plugin installs the following script includes.
 -   **[Business rules installed with Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_BRIWLiveFeed.md)**  
 The Live Feed plugin includes the following business rules.
 -   **[Email notifications installed with Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_EmailNotificationsUsedByLiveFeed.md)**  
-The Live Feed plugin includes the following [[email|email]] notifications.
+The Live Feed plugin includes the following email notifications.
 
 **Parent Topic:**[Live Feed reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/live-feed-reference.md)
 
-## Related
-
-- [[email|Email]]

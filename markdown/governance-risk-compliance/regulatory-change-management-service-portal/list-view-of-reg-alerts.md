@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Regulatory alerts
 
-The [[list-view-uib-ws|List view]] in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application in the Compliance Workspace displays all the regulatory alerts received under the **Regulatory alerts** option in the menu. The **Unassigned alerts** list displays all the new and unassigned regulatory alerts. The Type column in the **Unassigned alerts** list displays the type of the regulatory alert.
+The List view in the Regulatory Change Management application in the Compliance Workspace displays all the regulatory alerts received under the **Regulatory alerts** option in the menu. The **Unassigned alerts** list displays all the new and unassigned regulatory alerts. The Type column in the **Unassigned alerts** list displays the type of the regulatory alert.
 
 The regulatory alerts are of two types:
 
@@ -46,7 +46,7 @@ The [regulatory event alerts page](https://raw.githubusercontent.com/ServiceNow/
 -   Overview tab
 -   Details tab
 -   Impacted areas
--   [[risk-assessments|Risk assessments]]
+-   Risk assessments
 -   Regulatory assessments
 -   Regulatory tasks
 
@@ -80,8 +80,3 @@ The overview page displays the following:
 
 The following figure displays the overview page of the regulatory alert. \[Omitted image "reg-alert-overview-page.png"\] Alt text: Overview page of regulatory alert.
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[risk-assessments|risk assessments]]

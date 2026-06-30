@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Payment Optimization, Use, Supplier Lifecycle Operat
 
 # Create a case for supplier credit card enablement
 
-[[create-supplier-case-spo|Create a supplier case]] to request for the credit card information from a [[supplier|supplier]].
+Create a supplier case to request for the credit card information from a supplier.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  On the home page, do one of the following:
 
@@ -32,7 +32,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
     -   Under Quick actions, select **Manage my suppliers** and do the following:
         1.  Select the link to the supplier name under the Legal name column.
         2.  From the **Create** drop-down list, select **Supplier case**.
-3.  On the [[new-supplier-case|Create New Supplier Case form]], fill in the fields.
+3.  On the Create New Supplier Case form, fill in the fields.
 
     In the **Case type** field, select **Credit card enablement**.
 
@@ -70,10 +70,3 @@ For more information, see [Supplier credit card enablement playbook](https://raw
 
 [Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/estimate-savings.md)
 
-## Related
-
-- [[create-supplier-case-spo|Create a supplier case]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[new-supplier-case|Create New Supplier Case form]]

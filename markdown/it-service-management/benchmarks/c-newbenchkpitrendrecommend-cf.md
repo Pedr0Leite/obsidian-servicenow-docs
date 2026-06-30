@@ -14,7 +14,7 @@ breadcrumb: [New Benchmarks Dashboard, Use, Benchmarks, IT Service Management]
 
 # Benchmarks KPI performance trend
 
-The [[benchmarks-landing|Benchmarks]] KPI performance chart trend view shows your KPI performance comparison with global data, and provides details about the KPI on the contextual side panel.
+The Benchmarks KPI performance chart trend view shows your KPI performance comparison with global data, and provides details about the KPI on the contextual side panel.
 
 The KPI Performance Trends chart section is shown only for users with the Benchmarks viewer role \(sn\_bm\_client.benchmark\_data\_viewer\).
 
@@ -30,6 +30,3 @@ Functionality of the performance trend chart view includes:
 -   Accessing the Performance Analytics scorecard for a data point in your instance.
 -   Filtering data by type of industry, number of users, or geographic region.
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

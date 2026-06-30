@@ -18,7 +18,7 @@ Discover Linux virtual machines on Azure using Service Principal \(SP\) with sho
 
 ## Before you begin
 
-Before creating a Cloud [[r-discovery|Discovery]] credentials, Service Principles must be set up on the Azure Portal. See the [Microsoft Azure](https://learn.microsoft.com/en-us/azure/?product=popular) documentation site for more information. After creating a Linux VM with Azure AD login enabled, be sure to verify the requirements for login with Azure AD using OpenSSH certificate-based authentication for Linux VMs. Configure suitable role assignments for the Service Principle and Resource Group.
+Before creating a Cloud Discovery credentials, Service Principles must be set up on the Azure Portal. See the [Microsoft Azure](https://learn.microsoft.com/en-us/azure/?product=popular) documentation site for more information. After creating a Linux VM with Azure AD login enabled, be sure to verify the requirements for login with Azure AD using OpenSSH certificate-based authentication for Linux VMs. Configure suitable role assignments for the Service Principle and Resource Group.
 
 Before creating credentials, the **External Credential Storage** plugin is required to connect Azure VM using OpenSSH certificates.
 
@@ -42,7 +42,7 @@ Role required: admin
 
     The Azure Service Provider and SSH Certificate credentials have been created and linked. Continue the procedure to create the Cloud Discovery schedule.
 
-7.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Schedules**.
+7.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Schedules**.
 
 8.  Select **New Discovery** from the header of any tab on the Schedules page.
 
@@ -56,7 +56,7 @@ Role required: admin
 
 13. Create a new cloud account using your Azure Service Principal credential.
 
-    For more information, see [[setup-azure-service-accounts|Set up Azure service accounts]].
+    For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-azure-service-accounts.md).
 
 14. Select **next**.
 
@@ -83,8 +83,3 @@ Role required: admin
 
 The Discovery schedule should start, and the Discovery Admin Workspace should show the running status for the newly created schedule. After some time, the scheduled discovery should be completed and a new schedule for the VM discovery is then created and run. The new VM discovery schedule utilizes the SP we created for the generation of SSH certs to authenticate with the VMs. You can observe this in the Discovery IP Affinity section for the credential.
 
-## Related
-
-- [[setup-azure-service-accounts|Set up Azure service accounts]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

@@ -12,22 +12,14 @@ breadcrumb: [Order operations, Reference, Sales Customer Relationship Management
 
 # Return Merchandise Authorization Case Management
 
-Reference topic provides additional information about lists and forms that you can use to configure [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) Case Management.
+Reference topic provides additional information about lists and forms that you can use to configure Return Merchandise Authorization \(RMA\) Case Management.
 
--   **[[rma-case-table-fields|Return Merchandise Authorization case table fields]]**  
-Information about Return Merchandise Authorization \(RMA\) case table [[fields|fields]].
--   **[[return-merchandise-authorization-case-line-table-fields|Return Merchandise Authorization case line table fields]]**  
+-   **[Return Merchandise Authorization case table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rma-case-table-fields.md)**  
+Information about Return Merchandise Authorization \(RMA\) case table fields.
+-   **[Return Merchandise Authorization case line table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-line-table-fields.md)**  
 Information about Return Merchandise Authorization \(RMA\) case line table fields.
--   **[[return-merchandise-authorization-roles|Return Merchandise Authorization roles]]**  
+-   **[Return Merchandise Authorization roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-roles.md)**  
 Information about Return Merchandise Authorization \(RMA\) roles.
 
-**Parent Topic:**[[reference-order-operations|Order operations reference]]
+**Parent Topic:**[Order operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-order-operations.md)
 
-## Related
-
-- [[rma-case-table-fields|Return Merchandise Authorization case table fields]]
-- [[return-merchandise-authorization-case-line-table-fields|Return Merchandise Authorization case line table fields]]
-- [[return-merchandise-authorization-roles|Return Merchandise Authorization roles]]
-- [[reference-order-operations|Order operations reference]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[fields|Fields]]

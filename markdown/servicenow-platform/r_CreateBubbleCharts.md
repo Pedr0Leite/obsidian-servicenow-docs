@@ -12,11 +12,11 @@ breadcrumb: [View a bubble chart for assessments, View a metric result, Assessme
 
 # Create a bubble chart
 
-Assessment administrators can create bubble charts to compare the relative standing of [[c_assessable-records|assessable records]] in three metric categories.
+Assessment administrators can create bubble charts to compare the relative standing of assessable records in three metric categories.
 
-To create a bubble chart, navigate to **[[r_Assessments|Assessments]]** &gt; **Admin** &gt; **Bubble Charts** and create a record \(see table for field descriptions\).
+To create a bubble chart, navigate to **Assessments** &gt; **Admin** &gt; **Bubble Charts** and create a record \(see table for field descriptions\).
 
-**Note:** For color fields, either [[html|HTML]] [color names](http://www.w3.org/TR/css3-color/#svg-color) or [hexadecimal](http://www.w3schools.com/tags/ref_colorpicker.asp) \(hex\) values are acceptable. For hex values, the \# character is optional. Values are not case-sensitive. For example, all of the following values are valid: LightGray, lightgray, \#D3D3D3, d3d3d3.
+**Note:** For color fields, either HTML [color names](http://www.w3.org/TR/css3-color/#svg-color) or [hexadecimal](http://www.w3schools.com/tags/ref_colorpicker.asp) \(hex\) values are acceptable. For hex values, the \# character is optional. Values are not case-sensitive. For example, all of the following values are valid: LightGray, lightgray, \#D3D3D3, d3d3d3.
 
 \[Omitted image "BubbleChartForm.png"\] Alt text: Bubble chart
 
@@ -38,14 +38,14 @@ Descriptive name for the bubble chart. **Bubble Chart** is appended to the name 
 
 </td></tr><tr><td>
 
--   Top left [[label|label]]
+-   Top left label
 -   Top right label
 -   Bottom left label
 -   Bottom right label
 
 </td><td>
 
-Label text for the top left, top right, bottom left, and bottom right quadrants, respectively. Choose labels that help interpret results. For example, a bubble chart that displays vendor [[r_AssessmentResults|assessment results]] might have the following quadrant labels, where vendors in the top right quadrant have the best scores: -   **Top left label**: Resource
+Label text for the top left, top right, bottom left, and bottom right quadrants, respectively. Choose labels that help interpret results. For example, a bubble chart that displays vendor assessment results might have the following quadrant labels, where vendors in the top right quadrant have the best scores: -   **Top left label**: Resource
 -   **Top right label**: Essential Partner
 -   **Bottom left label**: Poor Performer
 -   **Bottom right label**: Reevaluate
@@ -103,17 +103,8 @@ Default
 
 </td><td>
 
-[[check-box|Check box]] that enables \(selected\) or disables \(cleared\) the bubble chart as the default. There can be only one default bubble chart per metric type.
+Check box that enables \(selected\) or disables \(cleared\) the bubble chart as the default. There can be only one default bubble chart per metric type.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
+</table>**Parent Topic:**[View a bubble chart for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_view-bubble-chart-assessments.md)
 
-## Related
-
-- [[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]
-- [[html|HTML]]
-- [[label|Label]]
-- [[r_AssessmentResults|Assessment results]]
-- [[check-box|Check box]]

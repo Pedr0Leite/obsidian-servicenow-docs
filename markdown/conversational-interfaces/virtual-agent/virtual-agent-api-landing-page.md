@@ -20,7 +20,7 @@ The ServiceNow® Virtual Agent API is a REST API built on ServiceNow's conversat
 
 <table id="table_sy2_rf4_qhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about [[virtual-agent-landing-page|Virtual Agent]] and its features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/explore-virtual-agent-api.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about Virtual Agent and its features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/explore-virtual-agent-api.md)
 
 </td><td>
 
@@ -36,19 +36,13 @@ The ServiceNow® Virtual Agent API is a REST API built on ServiceNow's conversat
 
 </td></tr></tbody>
 </table>-   **[Exploring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/explore-virtual-agent-api.md)**  
-Use the ServiceNow® Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or [[ci-use-agent-chat|Agent Chat]]. The app is available from the ServiceNow® Store.
+Use the ServiceNow® Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or Agent Chat. The app is available from the ServiceNow® Store.
 -   **[Configuring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent-api.md)**  
 Configure Virtual Agent API to connect ServiceNow Virtual Agent and Live Agent with any conversational interface.
 -   **[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)**  
-Virtual Agent API enables ServiceNow developers, advanced users, and admins to use Virtual Agent with an enterprise or any other third-party chat interface that supports [[convint-landing-page|conversational interfaces]] or as a secondary bot in an environment with multiple, specialized bots managed by a primary bot.
+Virtual Agent API enables ServiceNow developers, advanced users, and admins to use Virtual Agent with an enterprise or any other third-party chat interface that supports conversational interfaces or as a secondary bot in an environment with multiple, specialized bots managed by a primary bot.
 -   **[Virtual Agent API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-reference.md)**  
-Reference topics provide information about troubleshooting common errors, logs, and debugging while [[use-virtual-agent-api|using Virtual Agent API]].
+Reference topics provide information about troubleshooting common errors, logs, and debugging while using Virtual Agent API.
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[use-virtual-agent-api|Using Virtual Agent API]]

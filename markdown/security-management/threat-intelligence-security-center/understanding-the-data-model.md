@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center Library, Use, Threat Intelligen
 
 # TISC Data Model
 
-The data model and architecture of [[tisc-landing-page|threat intelligence security center]] module is designed to support [[threat-intel-landing-page|threat intelligence]] platform capabilities and different security views that provides detailed data for threat analysts.
+The data model and architecture of threat intelligence security center module is designed to support threat intelligence platform capabilities and different security views that provides detailed data for threat analysts.
 
 The data model has the data structures which are represented as objects in the Threat intelligence repository.
 
@@ -33,12 +33,7 @@ The data model has the data structures which are represented as objects in the T
 
 [Export intelligence data]()
 
-[Confirm [[potential-relationships|Potential Relationships]] from Related Records]()
+[Confirm Potential Relationships from Related Records]()
 
 [Automated Correlation]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[potential-relationships|Potential Relationships]]

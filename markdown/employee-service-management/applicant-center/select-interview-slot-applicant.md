@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 ## Procedure
 
-1.  Log in to [[applicant-center-concept|Applicant Center]].
+1.  Log in to Applicant Center.
 
     For more information, see [Access the Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/view-applicant-center.md).
 
-2.  On the [[applicant-portal-home-page|Applicant Center home page]], under the Keep track of what’s going on section, locate the proposed interview.
+2.  On the Applicant Center home page, under the Keep track of what’s going on section, locate the proposed interview.
 
 3.  Select **Select slot**.
 
@@ -40,12 +40,7 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 ## Result
 
-After a slot is selected, an email with the confirmed slot is sent to the recruiter and the [[hiring-tab-concept|hiring]] team, and the interview is scheduled.
+After a slot is selected, an email with the confirmed slot is sent to the recruiter and the hiring team, and the interview is scheduled.
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[applicant-portal-home-page|Applicant Center home page]]
-- [[hiring-tab-concept|Hiring]]

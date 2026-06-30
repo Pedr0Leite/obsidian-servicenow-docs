@@ -25,16 +25,16 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Spoke: Install [[security-operations-landing-page|Security Operations]] Spoke \(sn\_sec\_spoke\)
+Spoke: Install Security Operations Spoke \(sn\_sec\_spoke\)
 
 ## Key capabilities
 
 The Failed login playbook covers the following capabilities to investigate security incidents:
 
 1.  Checks if the affected user is an active/inactive user
-2.  Filters allowed list [[c_Observables|observables]]
+2.  Filters allowed list observables
 3.  Enriches the observables
-4.  Performs automated [[tisc-threat-lookup|threat lookup]].
+4.  Performs automated threat lookup.
 5.  Sends automated email to the user to confirm the failed login attempt.
 6.  Assigns tasks to analyst to investigate user access
 7.  Identifies malicious observables and block IPs and URLs.
@@ -45,7 +45,7 @@ The Failed login playbook covers the following capabilities to investigate secur
 ## Capabilities required
 
 -   Threat Lookup \(Virus Total, Hybrid Analysis\)
--   [[tisc-observable-enrichment|Observable Enrichment]] \(Whois, ReverseWhois\)
+-   Observable Enrichment \(Whois, ReverseWhois\)
 -   Sighting Search \(Splunk, QRadar\)
 -   Observable Blocking \(CheckPoint, Palo Alto\)
 
@@ -65,7 +65,7 @@ To understand how to resolve security threats in a step-by-step manner, see [Res
     -   Failed Login Manual Playbook V1
     -   Failed Login - Parse User's reply and Update Response Task V1
 4.  Make the necessary modifications according to your requirement. \(This is an optional step. Follow this step only if you plan to customize or make specific changes to the flow\).
-5.  Activate the [[tisc-playbooks-admin|playbooks]].
+5.  Activate the playbooks.
     -   Activate the main flow to use the playbook available with the base system.
     -   Activate the copied flows after making any modifications according to your requirements.
 
@@ -141,10 +141,3 @@ The following steps walks you through the actions, tasks, and subflows that are 
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-playbooks-admin|Playbooks]]

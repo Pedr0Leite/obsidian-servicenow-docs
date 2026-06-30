@@ -20,7 +20,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Access Observer** &gt; **Access Observer [[sc-configuration|Configuration]]**.
+1.  Navigate to **All** &gt; **Access Observer** &gt; **Access Observer Configuration**.
 
 2.  Select **New** to create a record.
 
@@ -64,7 +64,7 @@ Column
 
 </td><td>
 
-The column within the selected table to be observed. The following field types are supported:-   [[email|Email]]
+The column within the selected table to be observed. The following field types are supported:-   Email
 -   Date
 -   Date/Time
 -   Journal
@@ -111,10 +111,5 @@ The time at which observation begins. This field is only visible if **Start job 
 
 Once the observation window your defined has started, you can see each instance where the column was access detailed in the records on the Access Observer log \[sys\_data\_ob\_log\] table.
 
-**Parent Topic:**[[access-observer|Access observer]]
+**Parent Topic:**[Access observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-observer.md)
 
-## Related
-
-- [[access-observer|Access observer]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]

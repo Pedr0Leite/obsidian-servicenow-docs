@@ -22,7 +22,7 @@ Role required: Azure admin
 
 ## Procedure
 
-1.  On the Azure portal, navigate to **All** &gt; **Azure Active Directory** &gt; **[[users|Users]]** &gt; **All users**.
+1.  On the Azure portal, navigate to **All** &gt; **Azure Active Directory** &gt; **Users** &gt; **All users**.
 
 2.  Select **New user**.
 
@@ -33,6 +33,4 @@ Role required: Azure admin
     -   Password
 4.  Click **Create**.
 
-## Related
 
-- [[users|Users]]

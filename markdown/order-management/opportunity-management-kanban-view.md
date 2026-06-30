@@ -26,7 +26,7 @@ A Kanban view is a visual representation of the data that enables you to drag an
 -   Updating the state of an opportunity by navigating them in between different stages.
 -   Viewing the auto-calculated rollup amount \(in the base currency\) on the sub-header for all opportunities in Kanban lane.
 
-The Kanban view as part of Opportunity Management in [[order-mgt-overview|Sales Customer Relationship Management]].
+The Kanban view as part of Opportunity Management in Sales Customer Relationship Management.
 
 \[Omitted image "opportunity-management-kanban-view.png"\] Alt text: The image shows the Kanban view in Opportunity Management
 
@@ -38,21 +38,14 @@ The Kanban view as part of Opportunity Management in [[order-mgt-overview|Sales 
 
     -   To change an opportunity state, drag the opportunity card from one state and drop it into another state.
     -   To view the opportunities of different sales type, use the Filter by option on the page.
-    -   To create a new opportunity directly from this page, select the **Create Opportunity** button. To learn more, see [[create-new-opportunity|Create an opportunity]].
+    -   To create a new opportunity directly from this page, select the **Create Opportunity** button. To learn more, see [Create an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-opportunity.md).
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[create-new-opportunity|Create an opportunity]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

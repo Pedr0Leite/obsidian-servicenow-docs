@@ -15,7 +15,7 @@ breadcrumb: [Additional data input setup tasks, Set up data inputs manually, Set
 
 # Verify your log sources in Health Log Analytics
 
-Verify that all your log sources are present and active after [[hla-landing-page|Health Log Analytics]] tagging has assigned a log to a service instance and components, and has automatically mapped the log to a source.
+Verify that all your log sources are present and active after Health Log Analytics tagging has assigned a log to a service instance and components, and has automatically mapped the log to a source.
 
 ## Before you begin
 
@@ -112,6 +112,3 @@ The last time logs streamed into the system from this source.
 
 [Extract specific log data in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-data-extract.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

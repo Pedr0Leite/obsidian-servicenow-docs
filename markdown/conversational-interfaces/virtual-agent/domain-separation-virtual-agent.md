@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Domain separation and Virtual Agent
 
-Domain separation is supported in the [[virtual-agent-landing-page|Virtual Agent]] application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Virtual Agent application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -58,7 +58,7 @@ All domain support features require the Domain Support - Domain Extensions Insta
 
 -   **Branding**
 
-    Service providers can create a [[ac-configure-chat-branding|chat branding configuration]] per domain.
+    Service providers can create a [chat branding configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md) per domain.
 
 -   **[Chat experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)**
 
@@ -79,7 +79,7 @@ Topic names within a domain must be unique, but Virtual Agent does allow you to 
 
 Only service provider admins can do the following:
 
--   [[activate-virtual-agent|Activate Virtual Agent]] conversation plugins or store apps for other ServiceNow business applications, such as ITSM, CSM, or HRSD, to enable pre-built topics for the subdomain.
+-   Activate Virtual Agent conversation plugins or store apps for other ServiceNow business applications, such as ITSM, CSM, or HRSD, to enable pre-built topics for the subdomain.
 -   Assign roles on a particular subdomain to control which topics can be run by users.
 
 Admin users assigned to the subdomain can do the following:
@@ -130,8 +130,3 @@ The Service Portal platform is not domain-separated, but you can create differen
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[activate-virtual-agent|Activate Virtual Agent]]

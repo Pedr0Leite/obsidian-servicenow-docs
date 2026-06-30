@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Overview dashboard, Visual representatio
 
 # Security incident map
 
-The security incident map provides data by geographical [[location|location]]. The world map is highlighted in every area in which an incident occurs. When the Security Incident Analytics plugin is activated, you can add the security incident map to the [[sir-landing-page|Security Incident Response]] overview. After it has been added, you can configure the map by modifying the map filters.
+The security incident map provides data by geographical location. The world map is highlighted in every area in which an incident occurs. When the Security Incident Analytics plugin is activated, you can add the security incident map to the Security Incident Response overview. After it has been added, you can configure the map by modifying the map filters.
 
 -   **[Add map to Security Incident Response overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_AddGeoHeatmapToSIROverview.md)**  
 You can add the map to the Security Incident Response overview to view security incident data by geographical location. A map allows you to drill down to security incident information by location.
@@ -23,7 +23,3 @@ Administrators in the global domain, can modify how the security incident map ha
 
 **Parent Topic:**[Security Incident Response Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIROverview.md)
 
-## Related
-
-- [[location|Location]]
-- [[sir-landing-page|Security Incident Response]]

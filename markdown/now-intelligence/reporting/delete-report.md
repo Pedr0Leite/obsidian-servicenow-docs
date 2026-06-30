@@ -20,7 +20,7 @@ Delete Core UI reports that are no longer used.
 
 Role required: report\_admin, or be the owner of the report
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. For instances migrated to [[par-workspace|Platform Analytics experience]] and new Australia instances, see [[delete-visualization-vd|Delete a visualization in the Visualization Designer]].
+This topic refers to Reporting in the Core UI. For instances migrated to Platform Analytics experience and new Australia instances, see [Delete a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-visualization-vd.md).
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Role required: report\_admin
 
 ### Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data visualizations**.
+1.  Navigate to **Platform Analytics** &gt; **Library** &gt; **Data visualizations**.
 
 2.  Select the boxes next to the Core UI reports that you want to delete.
 
@@ -78,9 +78,3 @@ The selected reports are removed, and are no longer available to share, publish,
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[delete-visualization-vd|Delete a visualization in the Visualization Designer]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

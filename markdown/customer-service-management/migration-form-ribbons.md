@@ -12,7 +12,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 # Ribbons
 
-Learn how CSM Agent Workspace ribbons function with [[csm-workspaces-configure|CSM Configurable Workspace]].
+Learn how CSM Agent Workspace ribbons function with CSM Configurable Workspace.
 
 Ribbons help agents quickly scan relevant information about a record, such as a timeline, a user, or a customer summary.
 
@@ -22,9 +22,5 @@ Ribbons help agents quickly scan relevant information about a record, such as a 
 
 Legacy ribbon widgets work in CSM Configurable Workspace, but not the legacy ribbon configurations. Add ribbon settings to a ribbon configuration to appear in CSM Configurable Workspace.
 
-For more information, see [[config-csm-config-ws-ribbon|Set up a ribbon configuration in Configurable Workspace]].
+For more information, see [Set up a ribbon configuration in Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-ribbon.md).
 
-## Related
-
-- [[config-csm-config-ws-ribbon|Set up a ribbon configuration in CSM Configurable Workspace]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

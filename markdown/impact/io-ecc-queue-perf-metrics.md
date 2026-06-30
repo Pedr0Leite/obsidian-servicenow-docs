@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # ECC Queue performance metrics
 
-The metrics provide the ECC Queue [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the ECC Queue performance snapshot within the ServiceNow AI Platform®.
 
 ## ECC Queue Metrics
 
@@ -49,7 +49,7 @@ The MID Server status is not an indication of whether the MID Server service is 
 -   The communication from the MID Server to the instance is being blocked, which could be due to a proxy or a firewall.
 -   The MID Server service is not running, which could be caused by a manual stop or a crash of the MID Server service.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -58,7 +58,7 @@ The MID Server status is not an indication of whether the MID Server service is 
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -94,8 +94,3 @@ The MID Server status is not an indication of whether the MID Server service is 
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

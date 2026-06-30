@@ -12,13 +12,13 @@ breadcrumb: [Chief Digital Officer \(CDO\) Dashboard, Executive dashboard overvi
 
 # Install the CDO Dashboard
 
-The [[cdo-dashboard|Chief Digital Officer \(CDO\) Dashboard]] provides ...
+The Chief Digital Officer \(CDO\) Dashboard provides ...
 
 ## Before you begin
 
 Role required: admin, platform\_analytics\_admin, cdo\_dashboard\_admin
 
-**Note:** The CDO Dashboard application is free from the ServiceNow Store. However, the contents of the dashboard require professional entitlements to the following applications: IT Service Management. This professional entitlement includes a license for [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+**Note:** The CDO Dashboard application is free from the ServiceNow Store. However, the contents of the dashboard require professional entitlements to the following applications: IT Service Management. This professional entitlement includes a license for Platform Analytics.
 
 These solutions consist of Platform Analytics indicators and associated data collection jobs, used by the metrics on the CDO Dashboard. If you don’t have the prerequisite licenses, the installation proceeds. However, without the required plugins \(found in the application manager\) and applications \(found in the ServiceNow store\) and the underlying data, the dashboard won’t show any relevant metrics. If you have any questions about your licensing and entitlements, consult your account executive.
 
@@ -52,7 +52,4 @@ In addition, the com.snc.pa.premium.all\_content application plugin is required 
 
     Users must log out and log back in to enable their new roles after the admin assigns them. For more information on user roles, see .
 
-## Related
 
-- [[cdo-dashboard|Chief Digital Officer \(CDO\) Dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

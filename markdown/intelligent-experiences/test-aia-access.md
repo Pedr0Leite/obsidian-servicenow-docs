@@ -20,15 +20,15 @@ Role required: sn\_aia.admin and either admin or at least one role required by t
 
 ## About this task
 
-You can establish the security settings for an AI agent in the guided setup to establish which users can access it. See [[define-sec-controls-aia|Define security controls]] for instructions on how to change the user access settings. When you select **Save and continue** on that step of the guided setup, an ACL is created that establishes limitations on which users can access the AI agent.
+You can establish the security settings for an AI agent in the guided setup to establish which users can access it. See [Define security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md) for instructions on how to change the user access settings. When you select **Save and continue** on that step of the guided setup, an ACL is created that establishes limitations on which users can access the AI agent.
 
 Once you have created these ACLs, you can verify that they work as intended by using the **Test access** test type of a manual test of an AI agent.
 
-To see instructions for performing manual tests to evaluate performance, see [[test-ai-agent|Test performance manually]]. For more information about automated tests, see [[execute-aia-eval|Evaluate an AI agent]].
+To see instructions for performing manual tests to evaluate performance, see [Test performance manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md). For more information about automated tests, see [Evaluate an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Testing**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Testing**.
 
 2.  Select **Start manual test**.
 
@@ -40,7 +40,7 @@ To see instructions for performing manual tests to evaluate performance, see [[t
 
 5.  Select an invoking user.
 
-    The invoking user can be the user that triggers the AI agent or it can be the invoking user of an upstream component, such as an agentic workflow. For more information about how the invoking user works, see [[aia-security-implementation|Security for AI agents]].
+    The invoking user can be the user that triggers the AI agent or it can be the invoking user of an upstream component, such as an agentic workflow. For more information about how the invoking user works, see [Security for AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
     When you select an invoking user, the user roles are populated in the **Invoking user roles** field. The field is read-only. If you want to change a user's roles, you must change the user's User record. See [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
@@ -59,13 +59,5 @@ Access Analyzer identifies all the ACL calls made in the execution of the AI age
 
 If the results are different than what you expect or want, you can [redefine the security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md) of the AI agent.
 
-You can also [[test-ai-agent-mcp|test an AI agent]]'s performance with either a manual test or automated evaluations. See [Test performance manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) or [Evaluate an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
+You can also test an AI agent's performance with either a manual test or automated evaluations. See [Test performance manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) or [Evaluate an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
-## Related
-
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[test-ai-agent-mcp|Test an AI agent]]

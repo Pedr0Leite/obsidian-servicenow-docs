@@ -52,11 +52,8 @@ Guided Flow for Case Creation
 
         Enable enhanced chat experience from the Now Assist in Virtual Agent guided setup for the feature to work. For details, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
 
-    -   If no relevant results are found, select **Continue with case creation** to proceed. This action enables the **Submit** button and shows the additional fields needed to complete the [[r_CustomerServiceCaseForm|case form]].
+    -   If no relevant results are found, select **Continue with case creation** to proceed. This action enables the **Submit** button and shows the additional fields needed to complete the case form.
     -   Select **Submit** to create a record case.
 
 This guided flow helps you find solutions faster, improves the user experience, and reduces case creation and agent effort.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

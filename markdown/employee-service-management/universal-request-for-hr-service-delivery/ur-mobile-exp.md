@@ -27,7 +27,7 @@ A requester can use the mobile device to create universal requests by tapping on
 \[Omitted image "ur-mobile-request-form.png"\] Alt text: Mobile request help form
 
 </td></tr></tbody>
-</table>The mobile experience for Universal Request provides a snapshot of the Universal Requests created in the list view along with their statuses. Tapping on the [[ur-landing-limitedaccess|Universal Request]] takes you to the detailed view of the request with the updates.
+</table>The mobile experience for Universal Request provides a snapshot of the Universal Requests created in the list view along with their statuses. Tapping on the Universal Request takes you to the detailed view of the request with the updates.
 
 <table id="table_q3q_bsn_3mb"><tbody><tr><td>
 
@@ -53,6 +53,3 @@ A requester can use the mobile device to create universal requests by tapping on
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

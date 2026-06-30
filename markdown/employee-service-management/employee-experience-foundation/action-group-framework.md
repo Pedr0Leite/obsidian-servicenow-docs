@@ -35,7 +35,7 @@ Using actions that are relevant to the user journey, you can complete workflows 
 
 ## Employee Profile action group
 
-[[emp-slate-employee-profile|Employee Profile]] action group provides quick access to frequently used action items, such as, viewing the org chart, using email directly or calling. You can edit the default behaviors of the actions to match your requirements.
+Employee Profile action group provides quick access to frequently used action items, such as, viewing the org chart, using email directly or calling. You can edit the default behaviors of the actions to match your requirements.
 
 ## Approvals experience action group
 
@@ -43,9 +43,5 @@ Approvals experience action group provides quick access to approve or reject the
 
 ## Manager Hub action group
 
-[[manager-hub-overview|Manager Hub]] action group provides quick access to the action items available on the employee cards to view, call, or access email directly on the **Your team** page of the Manager Hub. You can customize the actions to suit your business requirements.
+Manager Hub action group provides quick access to the action items available on the employee cards to view, call, or access email directly on the **Your team** page of the Manager Hub. You can customize the actions to suit your business requirements.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[manager-hub-overview|Manager Hub]]

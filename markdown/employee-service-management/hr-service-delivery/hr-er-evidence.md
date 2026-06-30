@@ -14,7 +14,7 @@ breadcrumb: [Using Evidence Management, Using HR Service Delivery Employee Relat
 
 # Adding evidence to an Employee Relations case in legacy UI
 
-Create evidence records to attach to an [[hr-case-employee-relations|Employee Relations]] case to help with investigations.
+Create evidence records to attach to an Employee Relations case to help with investigations.
 
 ## Before you begin
 
@@ -160,6 +160,4 @@ Description of the evidence.
 </td></tr></tbody>
 </table>6.  Select **Submit**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]

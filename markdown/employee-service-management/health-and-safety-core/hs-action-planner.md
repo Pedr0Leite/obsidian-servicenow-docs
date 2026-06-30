@@ -14,16 +14,16 @@ breadcrumb: [Use, Health and Safety Core, Health and Safety, Employee Service Ma
 
 # Managing safety actions in the Action planner
 
-The Action planner sidebar panel in the [[health-safety-core-workspace|Health and Safety Workspace]] enables safety teams to manage actions directly from a [[health-safety-overview|Health and Safety]] record, without navigating away from the page.
+The Action planner sidebar panel in the Health and Safety Workspace enables safety teams to manage actions directly from a Health and Safety record, without navigating away from the page.
 
-\[Omitted image "health-safety-action-planner-example.png"\] Alt text: [[hs-risk-assessment-form|Risk assessment form]] with the Action planner panel open.
+\[Omitted image "health-safety-action-planner-example.png"\] Alt text: Risk assessment form with the Action planner panel open.
 
 ## What you can do with the Action planner
 
 -   View all actions associated with the current record.
 -   Create and edit actions inline.
 -   Search, filter, and sort actions by type, state, or priority.
--   When the [[now-assist-hs-landing|Now Assist for Health and Safety]] application \(sn\_hs\_gen\_ai\) is installed, generate AI-suggested actions based on the record's description and similar historical records.
+-   When the Now Assist for Health and Safety application \(sn\_hs\_gen\_ai\) is installed, generate AI-suggested actions based on the record's description and similar historical records.
 
 ## Accessing the Action planner
 
@@ -41,9 +41,3 @@ Create and manage safety actions in context while reviewing a Health and Safety 
 
 **Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-risk-assessment-form|Risk assessment form]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

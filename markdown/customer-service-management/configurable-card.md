@@ -257,13 +257,10 @@ Condition that restricts the records that appear in a list in the messenger.
 
 </td></tr><tr><td colspan="2">
 
-**Note:** Engagement Messenger honors Access Control [[gamification-components-rules|rules]] \(ACLs\) defined for any tables in your ServiceNow instance. If users don’t have access, the feature card doesn't appear on the messenger.
+**Note:** Engagement Messenger honors Access Control rules \(ACLs\) defined for any tables in your ServiceNow instance. If users don’t have access, the feature card doesn't appear on the messenger.
 
 </td></tr></tbody>
 </table>\[Omitted image "em-config-cards-data-table-1.png"\] Alt text: Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as link using Mobile phones card.
 
 \[Omitted image "em-config-cards-data-table-2.png"\] Alt text: Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as card using Mobile phones card.
 
-## Related
-
-- [[gamification-components-rules|Rules]]

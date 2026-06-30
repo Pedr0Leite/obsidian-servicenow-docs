@@ -26,7 +26,7 @@ All data requests to collect data for the workstation users for a project must b
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Navigate to the project you want to add workstation users to.
 
@@ -48,7 +48,7 @@ All data requests to collect data for the workstation users for a project must b
 
 7.  Select the workstation users that you want to add to this project, and select **Add selected users**.
 
-    \[Omitted image "tm-select-users.png"\] Alt text: Screenshot showing adding users to a [[task-mining|Task Mining]] project.
+    \[Omitted image "tm-select-users.png"\] Alt text: Screenshot showing adding users to a Task Mining project.
 
 8.  Obtain permission to collect a workstation user's data if no data request has been approved for that user.
 
@@ -77,7 +77,3 @@ A data request is sent to all managers of every workstation user. Once a data re
 
 Generate an analysis of the project data. For more information, see [Generating a project data analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mining-a-task-mining-project.md).
 
-## Related
-
-- [[task-mining-workspace|Task Mining Workspace]]
-- [[task-mining|Task Mining]]

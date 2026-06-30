@@ -14,7 +14,7 @@ breadcrumb: [Problem Management plugins, Configuring Problem Management, Problem
 
 # Activate Problem Management Best Practice — Jakarta
 
-The [[c_ProblemManagement|Problem Management]] Best Practice - Jakarta plugin introduces lookups \(impact, urgency and priority\) for Problem Management.
+The Problem Management Best Practice - Jakarta plugin introduces lookups \(impact, urgency and priority\) for Problem Management.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ If you have modified the base functionality required for the [Problem Management
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -48,7 +48,3 @@ If you have modified the base functionality required for the [Problem Management
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[dex-workspace-application-tab|Applications]]

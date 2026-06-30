@@ -12,7 +12,7 @@ breadcrumb: [Record screen, Mobile App Builder, Building tools, Building mobile 
 
 # UI elements of the record screen
 
-Familiarize yourself with the various elements contained within a [[form-screen|record screen]].
+Familiarize yourself with the various elements contained within a record screen.
 
 <table id="table_ebd_ktg_5qb"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Function
 
 </th></tr></thead><tbody><tr><td>
 
-\[Omitted image "mab-button-home.png"\] Alt text: [[mab-concept|Mobile App Builder]] home icon
+\[Omitted image "mab-button-home.png"\] Alt text: Mobile App Builder home icon
 
 </td><td>
 
@@ -81,8 +81,3 @@ The more icon provides the following options:-   The table name of the selected 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]

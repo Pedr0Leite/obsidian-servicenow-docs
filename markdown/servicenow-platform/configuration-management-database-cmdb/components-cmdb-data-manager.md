@@ -14,7 +14,7 @@ breadcrumb: [CMDB data management, Configuration Management Database \(CMDB\), C
 
 # Components related to CMDB Data Manager
 
-The following scheduled jobs, tables, roles, and properties, are related to CMDB Data Manager. Some of those, are installed with CMDB Workspaceand [[sg-workspace|Service Graph Workspace]].
+The following scheduled jobs, tables, roles, and properties, are related to CMDB Data Manager. Some of those, are installed with CMDB Workspaceand Service Graph Workspace.
 
 ## System properties
 
@@ -44,7 +44,7 @@ Size of each batch of CIs that is deleted or archived \(affects performance opti
 
 </td></tr><tr><td>
 
-[[life-cycle-rules|Retirement definitions]]
+Retirement definitions
 
 </td><td>
 
@@ -69,7 +69,7 @@ sn\_cmdb\_ws.cmdb.dm.policy\_types.due\_date\_notification
 
 </td><td>
 
-Policy types that should [[c_ReceiveNotifications|receive notifications]] for approaching due date and for a breached due date.
+Policy types that should receive notifications for approaching due date and for a breached due date.
 
  Default value is "attestation,certification" in which case notifications about certification and attestation incomplete tasks are sent. When either is checked, the system notifies task owners as the due date for incomplete tasks is approaching. Notifications are sent when 50%, 70%, and 90% of the time to due date has passed. On the task due date, a past due notification is sent to the task owner and to the task owner's manager.
 
@@ -215,7 +215,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[cmdb-data-management-landing|CMDB Data Management]] Policy\[cmdb\_data\_management\_policy\]
+CMDB Data Management Policy\[cmdb\_data\_management\_policy\]
 
 </td><td>
 
@@ -229,7 +229,7 @@ CMDB Data Management Policy Executions\[cmdb\_data\_management\_policy\_executio
 
 Execution records that correspond to each policy run. As policies run according to their recurring schedule, for each run the system generates a record with a unique policy execution number for that run. A policy execution number has a prefix of 'PLCEXEC'.
 
- Execution records associated with certification policy runs, are used for populating the [[data-cert-dashboard-workspace|Data Certification Dashboard]].
+ Execution records associated with certification policy runs, are used for populating the Data Certification Dashboard.
 
 </td></tr><tr><td>
 
@@ -398,7 +398,7 @@ CMDB Data Manager user\[data\_manager\_user\]
 
 </td><td>
 
-Can [[data-manager-view-policies-wrkspc|view CMDB Data Manager policies]] in read-only mode and calculate previews.
+Can view CMDB Data Manager policies in read-only mode and calculate previews.
 
 Can perform the following tasks:-   View assigned tasks.
 -   Update, approve, or reject an assigned task.
@@ -424,12 +424,3 @@ Default user for the **Scheduled job default user** CMDB Data Manager property.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[life-cycle-rules|Retirement definitions]]
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[cmdb-data-management-landing|CMDB data management]]
-- [[data-cert-dashboard-workspace|Data Certification Dashboard]]
-- [[data-manager-view-policies-wrkspc|View CMDB Data Manager policies]]

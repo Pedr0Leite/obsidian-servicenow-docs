@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
-2.  Go to the **[[talent-pool-overview|Talent pool]]** tab.
+2.  Go to the **Talent pool** tab.
 
-3.  In the All talent section, select the required [[talent-profile-landing|talent profile]].
+3.  In the All talent section, select the required talent profile.
 
 4.  Go to the **Details** tab in the talent profile record page.
 
@@ -35,13 +35,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Result
 
-The email is sent to the talent profile and the record is visible in the [[activity-lxp|Activity]] stream.
+The email is sent to the talent profile and the record is visible in the Activity stream.
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-pool-overview|Talent pool]]
-- [[talent-profile-landing|Talent Profile]]
-- [[activity-lxp|Activity]]

@@ -14,17 +14,17 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Create a classification code
 
-Create a classification code and assign it to enterprise [[c_Models|models]] and [[model-hierarchy|model categories]] to increase the efficiency of enterprise models.
+Create a classification code and assign it to enterprise models and model categories to increase the efficiency of enterprise models.
 
 ## Before you begin
 
-Each classification code is assigned to one or many model categories. Classification codes are stored in the Enterprise [[classification-codes|model classification]] \[sn\_ent\_model\_classification\] table.
+Each classification code is assigned to one or many model categories. Classification codes are stored in the Enterprise model classification \[sn\_ent\_model\_classification\] table.
 
 Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management** &gt; **Classification**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise model management** &gt; **Classification**.
 
 2.  Select **New**.
 
@@ -95,9 +95,4 @@ Mode categories assigned to the code.
 
     The display name of the classification code is generated and displayed in the **Classification** field. The display name represents the code, the description, and the source. You can view the new classification code record in the Classifications list view page.
 
-## Related
 
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]
-- [[classification-codes|Model classification]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

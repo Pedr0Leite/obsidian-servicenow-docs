@@ -14,7 +14,7 @@ breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Managem
 
 # Manage your time cards
 
-View, edit, or delete your [[c_TimeCards|time cards]] from your mobile device.
+View, edit, or delete your time cards from your mobile device.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Manage your time cards by performing actions such as submitting the time card, v
 
 1.  Log in to your instance using the Now Mobile application.
 
-2.  Open a time sheet from the **[[time-sheets|Time Sheets]]** tab.
+2.  Open a time sheet from the **Time Sheets** tab.
 
 3.  In the **All Week** tab, tap the action menu for a task.
 
@@ -93,7 +93,3 @@ To delete a time card:-   Tap **Delete time card**.
 </table>
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

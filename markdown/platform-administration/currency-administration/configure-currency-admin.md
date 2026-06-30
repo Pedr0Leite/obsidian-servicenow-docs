@@ -17,13 +17,9 @@ breadcrumb: [Currency administration, Configure core features, Administer the Se
 Configure defaults for standard currency and Foreign Exchange \(FX\) currency.
 
 -   **[Setting up defaults required for standard currency use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/setting-up-standard-currency-defaults.md)**  
-Set up the defaults required for use of [[configure-and-use-default-currency-fields|standard currency fields]] in your instance.
+Set up the defaults required for use of standard currency fields in your instance.
 -   **[Setting up defaults required for FX Currency use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/setting-up-defaults-fx-currency-use.md)**  
-Set up the defaults required for use of [[fx-currency|FX Currency fields]] in your instance.
+Set up the defaults required for use of FX Currency fields in your instance.
 
 **Parent Topic:**[Currency administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency.md)
 
-## Related
-
-- [[configure-and-use-default-currency-fields|Standard currency fields]]
-- [[fx-currency|FX Currency fields]]

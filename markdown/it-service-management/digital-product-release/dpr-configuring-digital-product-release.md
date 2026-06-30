@@ -14,7 +14,7 @@ breadcrumb: [Digital Product Release, IT Service Management]
 
 # Configuring Digital Product Release
 
-Plan and configure the [[dpr-landing-page|Digital Product Release]] application.
+Plan and configure the Digital Product Release application.
 
 ## Configuration overview
 
@@ -28,11 +28,7 @@ Plan and configure the [[dpr-landing-page|Digital Product Release]] application.
 
 ## Get started with Digital Product Release through the Onboarding section
 
-If you have the sn\_dpr\_model.release\_admin or admin role, you see an Onboarding section on the home page of the [[dpr-workspace|Digital Product Release Workspace]] that helps you get started with configuration tasks.
+If you have the sn\_dpr\_model.release\_admin or admin role, you see an Onboarding section on the home page of the Digital Product Release Workspace that helps you get started with configuration tasks.
 
 \[Omitted image "dpr-onboarding-section.png"\] Alt text: Onboarding section on the homepage of Digital Product Release Workspace.
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]

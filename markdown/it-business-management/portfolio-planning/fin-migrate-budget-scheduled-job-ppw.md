@@ -26,12 +26,10 @@ Role required: admin
 
 2.  Filter the name field to locate and open **Migrate budget for active demands and projects**.
 
-3.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+3.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
 4.  Select **Execute Now** to execute the scheduled job or select **Update** to save your changes.
 
-## Related
 
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

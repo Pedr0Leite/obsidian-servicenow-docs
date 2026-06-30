@@ -14,7 +14,7 @@ breadcrumb: [Install Asset Management - Procurement Integration, Integrating wit
 
 # Components installed with Asset Management - Procurement Integration
 
-Several types of components are installed with activation of the [[am-landing-page|Asset Management]] - [[c_Procurement|Procurement]] Integration application, such as tables and scheduled jobs.
+Several types of components are installed with activation of the Asset Management - Procurement Integration application, such as tables and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -73,8 +73,3 @@ Includes the details of the failure of the scheduled job execution.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[c_Procurement|Procurement]]

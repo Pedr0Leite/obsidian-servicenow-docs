@@ -61,8 +61,5 @@ Do the following steps to add the next question node:
 
     You can add a question node only after a guidance node. The execution of the decision tree continues after the guidance is performed. The path configuration isn’t required because there can only be one question node after a guidance node.
 
-2.  [[configure-a-question-node-for-further-assistance|Configure a question node for further assistance]].
+2.  [Configure a question node for further assistance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-a-question-node-for-further-assistance.md).
 
-## Related
-
-- [[configure-a-question-node-for-further-assistance|Configure a question node for further assistance]]

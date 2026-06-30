@@ -16,7 +16,7 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 Set the duration to read knowledge articles and whether to exclude weekends for trainees to complete training using Coaching properties.
 
-These properties are available for [[cf-coaching-landing|Coaching]].
+These properties are available for Coaching.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -87,6 +87,3 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 </td></tr></tbody>
 </table>**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

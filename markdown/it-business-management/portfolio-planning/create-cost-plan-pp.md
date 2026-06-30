@@ -22,7 +22,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and open a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and open a planning item.
 
 2.  Select the **Financials** tab.
 
@@ -44,7 +44,7 @@ Description
 
 A side panel opens to create a cost plan.
 
-2.  On the [[demand-plan-form|Cost plan form]], fill the fields.
+2.  On the Cost plan form, fill the fields.
 
 For a description of the field names, see [Create cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-cost-plan-form-pp.md).
 
@@ -78,7 +78,4 @@ You can edit a cost plan by one of the following ways.1.  Select the name of the
 
     This helps you to plan for the future expenses and re-forecast the planned costs.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[demand-plan-form|Cost plan form]]

@@ -28,7 +28,7 @@ Roles required:
 
 When you're using the Azure Export method to download billing data, you must create an export for your service account on the Azure portal to export billing data to your ServiceNow storage account.
 
-[[cloud-insights-landing-page|Cloud Cost Management]] 10.0 and later versions support the FOCUS billing format in addition to the Cloud Native billing format. You must create exports for your Azure service account with the appropriate cost template.
+Cloud Cost Management 10.0 and later versions support the FOCUS billing format in addition to the Cloud Native billing format. You must create exports for your Azure service account with the appropriate cost template.
 
 ## Procedure
 
@@ -133,6 +133,3 @@ The export that you have created appears in the list of exports.
 
 [Schedule and manage the jobs that download Azure billing data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/schedule-azure-billing-job.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

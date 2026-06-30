@@ -14,23 +14,16 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Enable AI Search in supported ServiceNow AI Platform applications
 
-Provide multiple search entry points across your organization by enabling [[ia-ai-search|AI Search]] as the search engine for search applications. The base system enables AI Search as the search engine for global and workspace search, Customer Service Management, Now Mobile, Service Portal, and Virtual Agent.
+Provide multiple search entry points across your organization by enabling AI Search as the search engine for search applications. The base system enables AI Search as the search engine for global and workspace search, Customer Service Management, Now Mobile, Service Portal, and Virtual Agent.
 
-Search administrators define [[defining-search-app-cfgs-ais|search application configurations]] for ServiceNow AI Platform applications. Each configuration links to a search profile defining the search experience for the application. Administrators can configure the application's behavior in the following ways:
+Search administrators define search application configurations for ServiceNow AI Platform applications. Each configuration links to a search profile defining the search experience for the application. Administrators can configure the application's behavior in the following ways:
 
--   Enable or disable [[typo-handling-ais|typo handling]] auto-correction for search queries.
--   Configure source facet bucket and facet filters to enable users to refine search [[hs-results|results]].
--   Limit the maximum number of [[search-suggestions-overview|search suggestions]] and Genius Result cards the application can display for a search.
+-   Enable or disable typo handling auto-correction for search queries.
+-   Configure source facet bucket and facet filters to enable users to refine search results.
+-   Limit the maximum number of search suggestions and Genius Result cards the application can display for a search.
 -   Limit the number of search results the application displays on each result page.
 
 To learn more about configuring and enabling AI Search in supported ServiceNow AI Platform applications, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md) and [Enabling and configuring AI Search in ServiceNow AI Platform applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-configure-apps-ais.md).
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[typo-handling-ais|Typo handling]]
-- [[hs-results|Results]]
-- [[search-suggestions-overview|Search Suggestions]]

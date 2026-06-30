@@ -14,7 +14,7 @@ breadcrumb: [Upgrading legacy Investment Funding to Store application, Investmen
 
 # Migrate data from legacy Investment Funding to Store application
 
-With the admin role, you can migrate your existing data from the legacy [[investment-funding-overview|Investment Funding]] tables to the new ServiceNow Store application tables by running the scheduled job.
+With the admin role, you can migrate your existing data from the legacy Investment Funding tables to the new ServiceNow Store application tables by running the scheduled job.
 
 ## Before you begin
 
@@ -28,14 +28,10 @@ Role required: admin
 
 2.  Search for and click the **Migrate Investment Funding To Store** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], ensure that the frequency is selected as **On Demand** in the **Run** field.
+3.  On the Scheduled Script Execution form, ensure that the frequency is selected as **On Demand** in the **Run** field.
 
 4.  Click **Execute Now**.
 
 
 **Parent Topic:**[Upgrading legacy Investment Funding to Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/upgrading-legacy-investment-funding-to-store.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

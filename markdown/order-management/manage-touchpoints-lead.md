@@ -51,27 +51,19 @@ The **Touchpoints** tab on a lead record displays all touchpoints associated wit
 
 Changes are saved to the lead. The Touchpoints tab reflects the current state of all linked touchpoints.
 
--   **[[create-touchpoint-lead|Create a touchpoint from a lead]]**  
+-   **[Create a touchpoint from a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-lead.md)**  
 Create a touchpoint to log a customer interaction directly from a lead record.
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[explore-crm-touchpoints|CRM Touchpoints]]
+[CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-crm-touchpoints.md)
 
-[[install-crm-touchpoints|Install CRM Touchpoints]]
+[Install CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-crm-touchpoints.md)
 
-[[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]
+[Manage touchpoints on an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-opportunity.md)
 
-[[create-crm-touchpoint-form|Create new CRM touchpoint form]]
+[Create new CRM touchpoint form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint-form.md)
 
-## Related
-
-- [[create-touchpoint-lead|Create a touchpoint from a lead]]
-- [[lead-management-using|Using Lead Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[install-crm-touchpoints|Install CRM Touchpoints]]
-- [[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]
-- [[create-crm-touchpoint-form|Create new CRM touchpoint form]]

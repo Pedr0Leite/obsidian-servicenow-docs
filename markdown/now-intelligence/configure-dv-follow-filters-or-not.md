@@ -33,8 +33,5 @@ Role required: You can edit any data visualization you own unless it is a shared
     \[Omitted image "db-config-data-update-ac.png"\] Alt text: Element configuration- Data update section
 
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]

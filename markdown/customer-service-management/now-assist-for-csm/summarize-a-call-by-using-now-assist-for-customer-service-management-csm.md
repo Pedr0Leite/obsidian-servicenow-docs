@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Summarize a call by using Now Assist for Customer Service Management \(CSM\)
 
-Generate a summary of the call conversation between a live agent and a customer by using the call summarization skill in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Generate a summary of the call conversation between a live agent and a customer by using the call summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ The call summarization skill enables you to do the following actions:
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Set your status as Available in [[csm-workspaces-configure|CSM Configurable Workspace]] so that you can receive a call request when a customer calls in and requests to speak to an agent.
+2.  Set your status as Available in CSM Configurable Workspace so that you can receive a call request when a customer calls in and requests to speak to an agent.
 
     The call summarization skill creates an inline summary in the Active Chat window. This summary includes the transcript of the conversation between the agent and the customer.
 
@@ -86,7 +86,3 @@ The system displays the Now Assist icon \(\[Omitted image "bus-ai-sparkle.svg"\]
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

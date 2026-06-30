@@ -14,9 +14,9 @@ breadcrumb: [Self-Service Analytics, Exploring Knowledge Management, Knowledge M
 
 # Self-Service Analytics concepts
 
-You can quantify your [[self-service-landing|self-service]] effectiveness by measuring case deflections.
+You can quantify your self-service effectiveness by measuring case deflections.
 
-The [[self-service-analytics|Self-Service Analytics]] framework enables you to measure case deflection by defining user activity patterns for a deflection outcome. A case deflection is when you are able to provide a resolution using one of the self-service channels, such as Knowledge, Communities, Catalog, and Virtual Agent, to a user who intended to create a case and as a result, no case is created.
+The Self-Service Analytics framework enables you to measure case deflection by defining user activity patterns for a deflection outcome. A case deflection is when you are able to provide a resolution using one of the self-service channels, such as Knowledge, Communities, Catalog, and Virtual Agent, to a user who intended to create a case and as a result, no case is created.
 
 By default, the Self-Service Analytics framework is used by the Self-Service Analytics dashboard for customer service. The framework can also be used in dashboards of other applications that use the Subscriptions and Activity Feed Framework.
 
@@ -166,7 +166,3 @@ The following figure illustrates the components of the activity context Contact.
 
 [Configure Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[self-service-analytics|Self-Service Analytics]]

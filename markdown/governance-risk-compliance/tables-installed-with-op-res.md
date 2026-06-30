@@ -12,7 +12,7 @@ breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance
 
 # Tables installed with Operational Resilience
 
-Several types of tables are installed with the [[grc-opres-landing-page|Operational Resilience]] application.
+Several types of tables are installed with the Operational Resilience application.
 
 ## Tables installed with Operational Resilience
 
@@ -36,7 +36,7 @@ Several types of tables are installed with the [[grc-opres-landing-page|Operatio
 |Scenario analysis \[sn\_oper\_res\_m2m\_scenario\_analysis\_scenario\]|Many-to-many relationship table that links scenario analyses to related scenarios.|
 |Reference data \[sn\_oper\_res\_m2m\_scenario\_analysis\_reference\_data\]|Many-to-many relationship table that maps scenario analyses to reference data.|
 |Supporting tables|
-|Issues \[sn\_oper\_res\_scenario\_issues\]|Issues logged and tracked in relation to a [[scenario-analysis-ov|scenario analysis]].|
+|Issues \[sn\_oper\_res\_scenario\_issues\]|Issues logged and tracked in relation to a scenario analysis.|
 |Model profile \[sn\_oper\_res\_statistical\_model\_profile\]|Profile configuration for a statistical model used in scenario analysis.|
 |Model registry \[sn\_oper\_res\_statistical\_model\_registry\]|Registry of statistical models available for use in scenario analysis.|
 |Model parameter \[sn\_oper\_res\_statistical\_model\_parameter\]|Parameters defined for a statistical model used in scenario analysis.|
@@ -46,8 +46,8 @@ Several types of tables are installed with the [[grc-opres-landing-page|Operatio
 |M2M scenario event \[sn\_oper\_res\_m2m\_scenario\_event\]|Association between scenario and event.|
 |M2M service importance impact tolerance assessment \[sn\_oper\_res\_m2m\_service\_importance\_impact\_tolerance\_assessment\]|Association between service and importance of the impact tolerance assessment.|
 |Operational Resilience profile \[sn\_oper\_res\_profile\]|Operational Resilience entity.|
-|Profile type \[sn\_grc\_profile\_type\]|List of all GRC [[entity-type-in-risk-ws|entity types]].|
-|Risk \[sn\_oper\_res\_risk\]|Risk defined in the application. Starting with the Xanadu release \(Release 19.0.4\), the [[advanced-risk-assessment|Advanced Risk Assessment]] \(ARA\) integration with Operational Resilience uses the **Status** field. When an entity is shared between Operational Resilience and Advanced Risk Assessment \(ARA\), and the ARA has the highest risk rating with a status of **Completed**, a record is created for the ARA integration and stored in the \[sn\_oper\_res\_risk\] table.|
+|Profile type \[sn\_grc\_profile\_type\]|List of all GRC entity types.|
+|Risk \[sn\_oper\_res\_risk\]|Risk defined in the application. Starting with the Xanadu release \(Release 19.0.4\), the Advanced Risk Assessment \(ARA\) integration with Operational Resilience uses the **Status** field. When an entity is shared between Operational Resilience and Advanced Risk Assessment \(ARA\), and the ARA has the highest risk rating with a status of **Completed**, a record is created for the ARA integration and stored in the \[sn\_oper\_res\_risk\] table.|
 |Scenario \[sn\_oper\_res\_scenario\]|Scenario defined in the application.|
 |Scenario analysis \[sn\_oper\_res\_scenario analysis\]|Scenario analysis defined in the application.|
 |Service impact analysis \[sn\_oper\_res\_service\_impact\_analysis\]|Service impact analysis defined in the application.|
@@ -80,9 +80,3 @@ Several types of tables are installed with the [[grc-opres-landing-page|Operatio
 |sn\_oper\_res\_failed\_control\_dependency|Services with failed control|Services with failed controls|
 |sn\_oper\_res\_service\_outage|Service Outage|Service Outage|
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[advanced-risk-assessment|advanced risk assessment]]

@@ -18,7 +18,7 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 ## Before you begin
 
-To use an asset as a loaner asset or consumable, go to the asset record and set the **Asset function** field to **Loaner**. These assets are reserved for use as [[loaner-asset|loaner assets]]. You cannot use an asset that has the Asset function field set to anything other than **Loaner**.
+To use an asset as a loaner asset or consumable, go to the asset record and set the **Asset function** field to **Loaner**. These assets are reserved for use as loaner assets. You cannot use an asset that has the Asset function field set to anything other than **Loaner**.
 
 The Loaner asset orders tab in the **Inventory** view shows all the loaner orders the asset has served in the past and at present. In case of consumables, if the consumable is not in a stockroom, it shows only the current loaner asset order that it's serving at present.
 
@@ -26,7 +26,7 @@ Role required: inventory\_user
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory** &gt; **Loaner Asset Orders**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Inventory** &gt; **Loaner Asset Orders**.
 
 2.  Open an enterprise loaner asset order.
 
@@ -100,7 +100,3 @@ Role required: inventory\_user
 
 **Parent Topic:**[Request a loaner asset in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/request-eam-assetloaner-request.md)
 
-## Related
-
-- [[loaner-asset|Loaner assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

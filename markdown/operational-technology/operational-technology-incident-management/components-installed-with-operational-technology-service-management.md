@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Incident Management, Operational 
 
 # Components installed with Operational Technology Incident Management
 
-Several types of components may be installed with activation of the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] \(sn\_ot\_inc\_mgmt\) plugin, including user roles.
+Several types of components may be installed with activation of the Operational Technology Incident Management \(sn\_ot\_inc\_mgmt\) plugin, including user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -112,6 +112,3 @@ List of rules to calculate the priority of an OT incident.
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/oper-tech-incident-management-reference.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

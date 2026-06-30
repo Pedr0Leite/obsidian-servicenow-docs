@@ -12,7 +12,7 @@ breadcrumb: [Setup for a BIA, Configure, Business Continuity Management, Governa
 
 # Configure RTO and RPO Smart Assessment templates workflow
 
-Configure Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) assessments using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] for [[bia-uib|Business Impact Analysis]] \(BIA\). The Smart Assessment Engine replaces the traditional non-smart assessment questionnaires with an automated, rule-based approach.
+Configure Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) assessments using the Smart Assessment Engine for Business Impact Analysis \(BIA\). The Smart Assessment Engine replaces the traditional non-smart assessment questionnaires with an automated, rule-based approach.
 
 ## Before you begin
 
@@ -49,15 +49,15 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
         \[Omitted image "bia-sa-temp-categories-imp-asmt.png"\] Alt text: Business impact assessment category.
 
-        **Note:** Only templates assigned to the “Business impact assessment” category are displayed in the **Impact [[airc-assessment-templates|assessment templates]]** field when configuring a BIA template.
+        **Note:** Only templates assigned to the “Business impact assessment” category are displayed in the **Impact assessment templates** field when configuring a BIA template.
 
         \[Omitted image "bia-sa-temp-categories-rpo-rto-templates.png"\] Alt text: Impact assessment templates field.
 
-        **Note:** The **Business impact assessment** template category also controls how the Smart Assessment Engine handles open BIA assessments when an impact assessment template is re-versioned. Set **Assessment handling on version retirement** to **Retain** to let in-progress BIAs complete on the retired version, or to **Cancel** to force in-progress BIAs to a canceled state so all active BIAs use the latest version. For more information, see [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]].
+        **Note:** The **Business impact assessment** template category also controls how the Smart Assessment Engine handles open BIA assessments when an impact assessment template is re-versioned. Set **Assessment handling on version retirement** to **Retain** to let in-progress BIAs complete on the retired version, or to **Cancel** to force in-progress BIAs to a canceled state so all active BIAs use the latest version. For more information, see [Using latest assessment template for conducting BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-smart-asmt-template.md).
 
 2.  Select **New template** in the Assessment Workspace or open an existing template.
 
-    When you select **New template**, the [[create-assessment-template-form|Create assessment template form]] is displayed.
+    When you select **New template**, the Create assessment template form is displayed.
 
     1.  To configure the **General** tab, fill in the fields in the Create assessment template form and select **Create**.
 
@@ -124,7 +124,7 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
         **Note:** The Create automation option only appears after publishing the template.
 
-        **Note:** Starting with GRC: [[business-continuity-mangmt-overview|Business Continuity Management]] - Core, version 11.0.1, Smart Assessment templates support version control, and version details are displayed on each template.
+        **Note:** Starting with GRC: Business Continuity Management - Core, version 11.0.1, Smart Assessment templates support version control, and version details are displayed on each template.
 
 4.  Create automation rules in the **Automations** tab.
 
@@ -331,7 +331,7 @@ Set recovery point objective: **1 week**
 
 7.  To create a BIA, select **New** in the Business Continuity Workspace.
 
-    For more information, see [[create-bia-in-uib-ws|Create a business impact analysis]].
+    For more information, see [Create a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bia-in-uib-ws.md).
 
 8.  Complete the BIA configuration and save the BIA.
 
@@ -347,7 +347,7 @@ Set recovery point objective: **1 week**
 
         1.  Open the assessment.
         2.  Answer all required questions \(for example, data change frequency, data value\)
-        3.  [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]].
+        3.  Submit the assessment.
     -   **Automatic RTO and RPO calculation after submission**
 
         After submission, the system calculates the RTO and RPO:
@@ -357,16 +357,5 @@ Set recovery point objective: **1 week**
         3.  RTO and RPO fields are automatically populated on the impact analysis record.
         4.  Values appear in the Business Impact Analysis record.
 
-**Parent Topic:**[[bcm-admin-tasks|Setup for a business impact analysis]]
+**Parent Topic:**[Setup for a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md)
 
-## Related
-
-- [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[bcm-admin-tasks|Setup for a business impact analysis]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[bia-uib|Business impact analysis]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[create-assessment-template-form|Create assessment template form]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

@@ -16,7 +16,7 @@ breadcrumb: [DEX Application and Device Health pages, Monitor, Digital End-User 
 
 Manage the active applications in your organization to enhance user productivity and engagement. The Application list serves as a central hub, offering visibility into monitored applications. Access details such as the name of an application, its type, the number of alerts and incidents associated with each of those applications, and impacted users.
 
-To access the [[application-form|Applications list]], navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\) in the primary navigation pane.
+To access the Applications list, navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\) in the primary navigation pane.
 
 You can also access the application health from an incident platform view by selecting a service or a service offering.
 
@@ -26,6 +26,3 @@ Select the column filtering row icon \(\[Omitted image "icon-filtering-row.png"\
 
 To learn details of any application, select the name of the application. For more details on each field, see [Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md).
 
-## Related
-
-- [[application-form|Applications list]]

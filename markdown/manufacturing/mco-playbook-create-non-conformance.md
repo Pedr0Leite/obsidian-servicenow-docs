@@ -234,13 +234,13 @@ Planned cost will be auto calculated based on the `quantity * unit cost * unit` 
     The PNCC case is submitted for review.
 
 
-**Parent Topic:**[[mco-product-non-conformances|Product non-conformance]]
+**Parent Topic:**[Product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformances.md)
 
 ## Create a product non-conformance case as resolver
 
 ### Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
+Role required: Quality Issue Management Admin or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
 
 ### Procedure
 
@@ -262,7 +262,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
         1.  On the **Product Details** form, fill in the fields.
 
-            For a description of the field values, see [[mco-product-non-conformance-case-form|Product details form]].
+            For a description of the field values, see [Product details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-form.md).
 
         2.  Select **Assign to me,** to assign the case to self.
         3.  Select **Save &amp; continue**.
@@ -288,11 +288,11 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
     4.  Select edit to view and edit the correction actions form.
 
-        You can add [[mco-correction-actions-form|Correction actions form]] and [[mco-copq-expense-line-form|CoPQ expense line form]] details.
+        You can add [Correction actions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions-form.md) and [CoPQ expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line-form.md) details.
 
     5.  Select **Create work order** activity.
 
-        On the work order form, add the [[work-order-form|Work order form]] details.
+        On the work order form, add the [Work order form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/work-order-form.md) details.
 
     6.  Select **Save**.
 
@@ -342,32 +342,17 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 **Related topics**  
 
 
-[[mco-root-cause-analysis-task|Create a root cause analysis]]
+[Create a root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task.md)
 
-[[mco-correction-actions|Create a correction action]]
+[Create a correction action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)
 
-[[mco-impacted-asset|Create an impacted asset]]
+[Create an impacted asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset.md)
 
-[[mco-containment-actions|Create a containment action]]
+[Create a containment action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions.md)
 
-[[mco-task-sla|Task SLA]]
+[Task SLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-task-sla.md)
 
-[[mco-relationships|Create a parent-child relationship]]
+[Create a parent-child relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-relationships.md)
 
-[[mco-remediation-action-plans|Remediation action plans]]
+[Remediation action plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-remediation-action-plans.md)
 
-## Related
-
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-product-non-conformance-case-form|Product details form]]
-- [[mco-correction-actions-form|Correction actions form]]
-- [[mco-copq-expense-line-form|CoPQ expense line form]]
-- [[work-order-form|Work order form]]
-- [[mco-root-cause-analysis-task|Create a root cause analysis]]
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-impacted-asset|Create an impacted asset]]
-- [[mco-containment-actions|Create a containment action]]
-- [[mco-task-sla|Task SLA]]
-- [[mco-relationships|Create a parent-child relationship]]
-- [[mco-remediation-action-plans|Remediation action plans]]
-- [[mco-quality-issue-management|Quality issue management]]

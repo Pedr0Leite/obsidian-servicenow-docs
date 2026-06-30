@@ -112,7 +112,7 @@ Inbound transformer
 
 </td><td>
 
-Optional. You can use the default rich controls if they apply to your chat provider. You do not need to provide a separate inbound transform for each input control. If a default behavior does not work, you can override the default with your own inbound transform for a specific [[virtual-agent-landing-page|Virtual Agent]] server control.
+Optional. You can use the default rich controls if they apply to your chat provider. You do not need to provide a separate inbound transform for each input control. If a default behavior does not work, you can override the default with your own inbound transform for a specific Virtual Agent server control.
 
 </td><td>
 
@@ -549,6 +549,3 @@ Virtual Agent - SMS Twilio Adapter Default Picker Inbound TransformerPurpose: Fi
 </td></tr></tbody>
 </table>**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-features-custom-chat-integrations.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

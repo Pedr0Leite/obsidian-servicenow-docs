@@ -25,7 +25,7 @@ Role required: ui\_builder\_admin, rights to edit a technical dashboard
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Locate and open the desired technical dashboard.
 
@@ -77,7 +77,7 @@ Role required: ui\_builder\_admin, rights to edit a technical dashboard
 
 ## Drilldown for a table data source
 
-You have a vertical data visualization that shows the number of records on the Incident \[incident\] table grouped by Priority. When a viewer interacts with this visualization, you want it to open a list of Incident records in the [[par-workspace|Platform Analytics experience]].
+You have a vertical data visualization that shows the number of records on the Incident \[incident\] table grouped by Priority. When a viewer interacts with this visualization, you want it to open a list of Incident records in the Platform Analytics experience.
 
 **Note:** This example uses the Context of the Platform Analytics experience and default Route names to components therein.
 
@@ -129,7 +129,7 @@ In runtime, a user can interact with the visualization to open a list of Inciden
 
 ## Drilldown for an indicator data source
 
-You have a Line data visualization for the indicator Number of open incidents. When a viewer interacts with this visualization, you want it to open the [[kpi-details|KPI Details]] page for that indicator.
+You have a Line data visualization for the indicator Number of open incidents. When a viewer interacts with this visualization, you want it to open the KPI Details page for that indicator.
 
 1.  You repeat steps 1-5 from the Table data source example, because in this case too you are drilling down to a page on the Platform Analytics experience.
 2.  For the Route, you enter `ac_kpi_details`.
@@ -151,16 +151,10 @@ In runtime, a viewer can interact with the visualization to open KPI Details for
 
 \[Omitted image "db-adv-ex-ddown-indicator.gif"\] Alt text: Opening KPI Details by clicking a Line visualization on a technical dashboard.
 
-**Parent Topic:**[[technical-dashboards|Technical dashboards]]
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-dashboards.md)
 
 **Related topics**  
 
 
 [More examples and information are available in KB2663434](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2663434)
 
-## Related
-
-- [[technical-dashboards|Technical dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[kpi-details|KPI Details]]

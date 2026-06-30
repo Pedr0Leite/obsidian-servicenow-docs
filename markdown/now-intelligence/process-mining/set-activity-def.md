@@ -24,15 +24,15 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## About this task
 
-Setting activity definitions is a mandatory task to [[create-project|create a project]].
+Setting activity definitions is a mandatory task to create a project.
 
-[[process-mining|Process Mining]] gathers audit log field data for the activities that you define. Configure at least one activity to create a Process Mining project.
+Process Mining gathers audit log field data for the activities that you define. Configure at least one activity to create a Process Mining project.
 
 **Note:** When configuring a project, start by setting up the main \(parent\) table, defining the activity and breakdown definitions. If only one table is needed, generate the full project with the data. For multiple tables, create additional \(child\) tables, relate them to the main table, and define their activity definitions.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Process Mining** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -97,7 +97,7 @@ Get recommended fields
 
 This field is available only if you choose **Field Values \(Default\)** in the **Select type** field.This button provides recommendations of fields that are ideal to be set as activity definitions for your project.
 
-These recommendations come from the process configuration set for the table on which the project is based. They’re derived from the Process perspectives section of the [[project-view-screen|Process details page]] in the Process Configuration Builder.
+These recommendations come from the process configuration set for the table on which the project is based. They’re derived from the Process perspectives section of the Process details page in the Process Configuration Builder.
 
 For more information on Process perspectives, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
@@ -227,7 +227,7 @@ This field is available only if you choose **Field Values \(Default\)** in the *
 
 8.  Select **Breakdowns**, **Use cases**, or **Add child entity** in the side panel if you want to add any of these entities.
 
-9.  Select improvement opportunities to [[improve-opportunities|set improvement opportunities]].
+9.  Select improvement opportunities to set improvement opportunities.
 
     For more information, see [Set improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md)
 
@@ -243,10 +243,3 @@ This field is available only if you choose **Field Values \(Default\)** in the *
 
 [Add a child entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/child-entity.md)
 
-## Related
-
-- [[create-project|Create a project]]
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[project-view-screen|Process details page]]
-- [[improve-opportunities|Set improvement opportunities]]

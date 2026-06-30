@@ -14,18 +14,12 @@ breadcrumb: [Workplace Services Kiosk, Workplace Service Delivery, Employee Serv
 
 # Integrating Workplace Services Kiosk
 
-Integrate [[workplace-services-kiosk|Workplace Services Kiosk]] with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] features to provide different experiences to kiosk users.
+Integrate Workplace Services Kiosk with Workplace Service Delivery features to provide different experiences to kiosk users.
 
 -   **[Integrating Workplace Services Kiosk with Workplace Visitor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/integrating-kiosk-visitor.md)**  
-Integrate Workplace Services Kiosk with [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] to create a check-in, check-out, and self-registration experience for visitors.
+Integrate Workplace Services Kiosk with Workplace Visitor Management to create a check-in, check-out, and self-registration experience for visitors.
 -   **[Integrating Workplace Services Kiosk with Workplace Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/integrating-kiosk-indoor-map.md)**  
-Integrate Workplace Services Kiosk with Workplace [[Indoor-mapping|Indoor Mapping]] to provide options to kiosk users to search for a space, get directions, and raise cases.
+Integrate Workplace Services Kiosk with Workplace Indoor Mapping to provide options to kiosk users to search for a space, get directions, and raise cases.
 
 **Parent Topic:**[Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[Indoor-mapping|Indoor Mapping]]

@@ -14,9 +14,9 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Redirect single sign-on \(SSO\) logins
 
-When SSO is enabled, you can redirect [[users|users]] to specific pages or direct users to login locally.
+When SSO is enabled, you can redirect users to specific pages or direct users to login locally.
 
-For example, if a user attempts to go to `https://customerX.service-now.com`, an internal company portal can display instead of the default login page. Or, when a user [[logs|logs]] out of an application, the browser can redirect them to a specific internal page. You can set redirection properties within the instance to ensure that users see an SSO login page rather than the default login page.
+For example, if a user attempts to go to `https://customerX.service-now.com`, an internal company portal can display instead of the default login page. Or, when a user logs out of an application, the browser can redirect them to a specific internal page. You can set redirection properties within the instance to ensure that users see an SSO login page rather than the default login page.
 
 **Note:** The following properties do not force SSO. The login.do page is still accessible and users can login to the system if they have a local password set.
 
@@ -36,7 +36,7 @@ When a user logs out, or if there is a failed attempt to sign on using SSO, you 
 
     URL to redirect users after logging out, typically back to the portal that enabled the single sign-on log in \(for example, `http://portal.companya.com/logout`\).
 
--   **glide.[[c_Authentication|authentication]].external.disable\_local\_login**
+-   **glide.authentication.external.disable\_local\_login**
 
     When set to true, requires SSO credentials for the main login page. Defaults to false. This property needs to be used in conjunction with the **glide.authenticate.honor.sso\_record.failed\_requirement\_redirect** property.
 
@@ -69,8 +69,3 @@ target. user_password = newPass ;
  //qvm81zdrn7cwwylpvw94eebk
 ```
 
-## Related
-
-- [[users|Users]]
-- [[logs|Logs]]
-- [[c_Authentication|Authentication]]

@@ -14,7 +14,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Define an Observable
 
-[[c_Observables|Observables]] can be retrieved from scheduled feed ingestion or from the import assistant. However, you can create observables, as needed.
+Observables can be retrieved from scheduled feed ingestion or from the import assistant. However, you can create observables, as needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Click **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_sec\_tisc.analyst
 
     Create New Observable record form is displayed.
 
-    **Note:** Whenever you create new object records for observables, [[indicator|indicators]], entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 4.  On the form, fill in the fields.
 
@@ -168,7 +168,7 @@ A boolean flag that indicates if observable is identified as false positive.
 </table>    |Field|Description|
     |-----|-----------|
     |Resolves To|Specifies a list of references to one or more IP addresses or domain names that the domain name resolves to.|
-    |Is FQDN|A fully qualified domain name\(FQDN\) is the complete address of an internet host or computer. It provides its exact [[location|location]] within the domain name system \(DNS\) by specifying the hostname, domain name and top-level domain \(TLD\).|
+    |Is FQDN|A fully qualified domain name\(FQDN\) is the complete address of an internet host or computer. It provides its exact location within the domain name system \(DNS\) by specifying the hostname, domain name and top-level domain \(TLD\).|
 
     |Field|Description|
     |-----|-----------|
@@ -468,7 +468,7 @@ X.509 Certificate
 
 5.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 6.  Click **Continue**.
 
@@ -508,7 +508,7 @@ Observable
 
 </td><td>
 
-List of observables related to this observable.**Note:** This section also contains the [[potential-relationships|potential relationships]] between two observables. For more information, see [Confirm observable-observable potential relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable-potential-relationship.md)and see [Define observable-observable relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable.md) for the confirmed relationships between the two observables.
+List of observables related to this observable.**Note:** This section also contains the potential relationships between two observables. For more information, see [Confirm observable-observable potential relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable-potential-relationship.md)and see [Define observable-observable relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable.md) for the confirmed relationships between the two observables.
 
 </td></tr><tr><td>
 
@@ -520,7 +520,7 @@ List of indicators related to this observable.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -528,7 +528,7 @@ List of attack patterns that are related to this observable.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -536,7 +536,7 @@ List the campaigns that are related to this observable.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -552,7 +552,7 @@ List the intrusion sets such as a set of adversarial behaviors and resources wit
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -560,7 +560,7 @@ List the malware source records that are related to this observable.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -576,7 +576,7 @@ List the threat events that are related to this observable.
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
@@ -592,17 +592,3 @@ If the observable is an IP address, this list shows any resources \(configuratio
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[indicator|Indicators]]
-- [[location|Location]]
-- [[stix-relationships|Relationships]]
-- [[potential-relationships|Potential Relationships]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[vulnerabilities|Vulnerabilities]]

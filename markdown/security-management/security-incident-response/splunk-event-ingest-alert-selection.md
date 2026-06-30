@@ -14,7 +14,7 @@ breadcrumb: [Create an event profile, Splunk Enterprise Event Ingestion integrat
 
 # Select scheduled alerts for the Splunk Enterprise Event Ingestion integration
 
-After you have created a profile for a scheduled alert, select a Splunk alert for this profile that you want to map to a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] security incident.
+After you have created a profile for a scheduled alert, select a Splunk alert for this profile that you want to map to a ServiceNow AI Platform Security Incident Response security incident.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## About this task
 
-View the available alerts in your ServiceNow AI Platform instance so you know which field values are available for [[mapping-logrhythm|mapping]]. Select an alert to verify that you receive the expected results on the basic form layout before you map the values to fields on SIR security incidents. You can only select one alert from the list in this form.
+View the available alerts in your ServiceNow AI Platform instance so you know which field values are available for mapping. Select an alert to verify that you receive the expected results on the basic form layout before you map the values to fields on SIR security incidents. You can only select one alert from the list in this form.
 
 ## Procedure
 
@@ -98,7 +98,3 @@ You have successfully selected an alert for a scheduled alert profile. The next 
 
 **Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]

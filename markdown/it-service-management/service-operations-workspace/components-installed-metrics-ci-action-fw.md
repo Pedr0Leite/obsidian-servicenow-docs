@@ -14,7 +14,7 @@ breadcrumb: [Incident Management in Service Operations Workspace reference, Inci
 
 # Components installed with Metrics and CI Actions Framework
 
-Several types of components are installed with activation of the Metrics and CI Actions Framework \(sn\_cimaf\) application, including user roles and ServiceNow Store [[dex-workspace-application-tab|applications]].
+Several types of components are installed with activation of the Metrics and CI Actions Framework \(sn\_cimaf\) application, including user roles and ServiceNow Store applications.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -223,6 +223,3 @@ List of the CI action output records. Each record is linked to the record in act
 
 **Parent Topic:**[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-im-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

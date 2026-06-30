@@ -14,7 +14,7 @@ breadcrumb: [Configuring Search Suggestions, Search Suggestions, Search administ
 
 # Schedule suggestion pruning
 
-[[search-suggestions-overview|Search Suggestions]] limits the number of auto-complete suggestions and search suggestions stored in the Search Suggestion \[sys\_search\_suggestion\] table to 500,000. A periodic pruning job removes the least relevant suggestions and increases the overall relevancy of suggestions.
+Search Suggestions limits the number of auto-complete suggestions and search suggestions stored in the Search Suggestion \[sys\_search\_suggestion\] table to 500,000. A periodic pruning job removes the least relevant suggestions and increases the overall relevancy of suggestions.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ How often you run the pruning job might depend on how frequently you [generate s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Open the **Prune Search Suggestions** job.
 
@@ -47,7 +47,4 @@ How often you run the pruning job might depend on how frequently you [generate s
 
 4.  Select **Update**.
 
-## Related
 
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_ScheduledJobs|Scheduled jobs]]

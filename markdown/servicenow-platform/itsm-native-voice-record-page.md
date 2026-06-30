@@ -41,7 +41,7 @@ The agent can switch between phone interactions and chat interactions. If an int
 
     For example, select **CTI**.
 
-3.  Select the **Enable interaction controls** [[check-box|check box]] to enable interaction controls for OpenFrame.
+3.  Select the **Enable interaction controls** check box to enable interaction controls for OpenFrame.
 
 4.  Select a group from the available **User Group** column and move it to the **Selected** column.
 
@@ -54,9 +54,5 @@ The agent can switch between phone interactions and chat interactions. If an int
 6.  Select **Update**.
 
 
-**Parent Topic:**[[integrate-ccc-itsm|Integrating ServiceNow Voice with ITSM]]
+**Parent Topic:**[Integrating ServiceNow Voice with ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-itsm.md)
 
-## Related
-
-- [[integrate-ccc-itsm|Integrating ServiceNow Voice with ITSM]]
-- [[check-box|Check box]]

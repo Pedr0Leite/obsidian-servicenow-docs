@@ -26,7 +26,7 @@ Prior to configuring the UCF integration, you need a UCF basic subscription and 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Unified Compliance Integration**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Unified Compliance Integration**.
 
 2.  Click the UCF configuration.
 
@@ -45,6 +45,3 @@ Prior to configuring the UCF integration, you need a UCF basic subscription and 
 
 **Parent Topic:**[Manage the UCF integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/manage_compliance_frameworks.md)
 
-## Related
-
-- [[Administration|Administration]]

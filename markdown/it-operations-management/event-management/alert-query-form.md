@@ -90,7 +90,7 @@ Operational status
 
 The status of the alert query. -   **Operational**: The alert query is running. Impact calculation runs only on alert queries in the Operational status.
 
-Select this option to use this service. If you customized preconfigured options for this category, select the option whose value is set to 1. [[c_EM|Event Management]] calculates impact only on services in use.
+Select this option to use this service. If you customized preconfigured options for this category, select the option whose value is set to 1. Event Management calculates impact only on services in use.
 
 If you do not want to use this service now, select one of these options:
 
@@ -124,14 +124,10 @@ Filter
 
 The conditions for sending a notification to the alert query. The conditions must meet the alert values.**Note:**
 
--   When defining an alert query filter, include only fields that appear in the Alert Histories \[em\_alert\_history\] table. Impact calculation is based on Alert History data and fields such as Overall Event Count, Priority, and [[alert-priority-group|Priority group]] are not copied to the Alert Histories \[em\_alert\_history\] table.
+-   When defining an alert query filter, include only fields that appear in the Alert Histories \[em\_alert\_history\] table. Impact calculation is based on Alert History data and fields such as Overall Event Count, Priority, and Priority group are not copied to the Alert Histories \[em\_alert\_history\] table.
 -   Do not specify a dynamic time condition. For example, in the filter, do not specify `Created` condition of `Last 45 minutes` because impact calculation is triggered by a change of alert or alert query. However, for the dynamic time condition, none of these conditions have changed. \[Omitted image "dynamic-time-condition.png"\] Alt text: Do not specify a dynamic time condition
 -   Some filters may slow down impact calculation. To solve this problem, adjust your alert query by adding an appropriate index, as described in [Index suggestions for slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/index-suggestions.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-priority-group|Priority group]]

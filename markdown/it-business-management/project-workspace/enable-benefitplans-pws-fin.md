@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Project Workspace, Configuring Project Wor
 
 # Enable monetary benefit plans for projects
 
-Enable the benefit plans property to [[create-and-manage-benefit-plans-ppw|create and manage benefit plans]] for planning items.
+Enable the benefit plans property to create and manage benefit plans for planning items.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-pws.md)
 
-## Related
-
-- [[create-and-manage-benefit-plans-ppw|Create and manage benefit plans]]

@@ -14,11 +14,11 @@ breadcrumb: [Roles installed with Usage Insights, Usage Insights reference, Usag
 
 # Mobile analytics admin\[mobile\_analytics\_admin\]
 
-View settings within [[user-exp-analytics-landing|Usage Insights]] in the application navigator and control the Usage Insights settings for each mobile application. Assigned users have admin role permissions to be able to create funnel and cohort reports within the Usage Insights application.
+View settings within Usage Insights in the application navigator and control the Usage Insights settings for each mobile application. Assigned users have admin role permissions to be able to create funnel and cohort reports within the Usage Insights application.
 
 ## Contains Roles
 
-Mobile analytics admin \[mobile\_analytics\_admin\] contains with [[uxa-role-5|Mobile analytics viewer \[mobile\_analytics\_viewer\]]] role.
+Mobile analytics admin \[mobile\_analytics\_admin\] contains with Mobile analytics viewer \[mobile\_analytics\_viewer\] role.
 
 ## Groups
 
@@ -32,7 +32,3 @@ For more information, see .
 
 **Parent Topic:**[Roles installed with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/components-installed-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[uxa-role-5|Mobile analytics viewer \[mobile\_analytics\_viewer\]]]

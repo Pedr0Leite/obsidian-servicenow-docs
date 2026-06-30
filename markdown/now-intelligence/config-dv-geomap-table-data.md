@@ -32,7 +32,7 @@ Data source
 
 </td><td>
 
-You have selected a Table data source in [[create-dv-geomap-ac|Create a geomap data visualization]].
+You have selected a Table data source in [Create a geomap data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-geomap-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -144,7 +144,7 @@ Field for \[table\]
 
 Select a field that is in a geomap for map sources. By default, the fields you can select point to the Location \[cmn\_location\] table, such as Assigned to.Location. You must select a reference field that points to a table, like Location, that has an associated entry in the Map sources \[viz\_map\_source\] table. If only one field on the main level references a location table, this field is selected by default.
 
- For more information, including how to create map sources for geomaps, see [[geomap-map-source|Map sources for geomap data visualizations]].
+ For more information, including how to create map sources for geomaps, see [Map sources for geomap data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/geomap-map-source.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -229,7 +229,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a geomap data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-geomap-ac.md)
 
-## Related
-
-- [[create-dv-geomap-ac|Create a geomap data visualization]]
-- [[geomap-map-source|Map sources for geomap data visualizations]]

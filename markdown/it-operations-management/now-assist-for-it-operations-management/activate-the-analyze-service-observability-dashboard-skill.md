@@ -14,20 +14,20 @@ breadcrumb: [Activate Now Assist skills in Now Assist for IT Operations Manageme
 
 # Activate the analyze Service Observability dashboard skill
 
-The analyze [[service-observability|Service Observability]] dashboard skill uses generative AI to provide an analysis of a Service Observability dashboard. You need to activate this skill before using it.
+The analyze Service Observability dashboard skill uses generative AI to provide an analysis of a Service Observability dashboard. You need to activate this skill before using it.
 
 ## Before you begin
 
 Before activating the Now Assist skills, you must install the following:
 
--   Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+-   Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 -   Service Observability. For more information, see [Install Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/install-service-observability.md).
 
 You must configure the following settings:
 
 -   ITOM pro plus SKU
--   [[now-assist-itom|Now Assist for ITOM]] 9.10
--   [[c_ServiceMappingOverview|Service Mapping]] Plus \(minimum version 1.16.3\)
+-   Now Assist for ITOM 9.10
+-   Service Mapping Plus \(minimum version 1.16.3\)
 -   Now Assist for IT Service Management \(ITSM\)
 -   Now Assist for Platform \(minimum version 9.1.0\)
 
@@ -44,9 +44,3 @@ Role required: admin
 
 **Parent Topic:**[Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-now-assist-skills-itom.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[c_ServiceMappingOverview|Service Mapping]]

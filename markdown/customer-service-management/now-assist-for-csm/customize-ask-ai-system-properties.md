@@ -21,8 +21,8 @@ Update the Case Insights Ask AI button system properties to control the drop-dow
 
 Role required: admin
 
--   [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] must be installed in your instance.
--   Case summarization, Customer summarization or [[c_OnScreenAlerts|Special handling notes]] summarization skills must be activated.
+-   Now Assist for Customer Service Management \(CSM\) must be installed in your instance.
+-   Case summarization, Customer summarization or Special handling notes summarization skills must be activated.
 
 ## About this task
 
@@ -73,10 +73,5 @@ The Ask AI system property is updated. The new value takes effect for the Ask AI
 ## What to do next
 
 -   To configure the second Ask AI property, select its name from the list and repeat this procedure.
--   Test the Ask AI feature in the **[[csm-workspaces-configure|CSM Configurable Workspace]]** to verify that the updated questions appear as expected.
+-   Test the Ask AI feature in the **CSM Configurable Workspace** to verify that the updated questions appear as expected.
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

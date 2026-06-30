@@ -41,7 +41,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d620914e78">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -83,7 +83,7 @@ Steps
 
         The value is automatically saved.
 
-    3.  For [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] fields, select **Edit**, search for the correct value in the **Matched to** field, and then select **Save**.
+    3.  For reference fields, select **Edit**, search for the correct value in the **Matched to** field, and then select **Save**.
 
     4.  For date fields, select **Edit**, select the date, and then select **Save**.
 
@@ -102,7 +102,3 @@ When the extraction process is completed, you can view the status of the extract
 
 **Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-metadata-extract-land.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

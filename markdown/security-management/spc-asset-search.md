@@ -22,7 +22,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **Asset search**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Asset search**.
 
 2.  Choose one.
 
@@ -57,6 +57,4 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
     After a few moments, results are displayed on the Matching assets tab. If you see no matches, you can refine your search. After you are satisfied you have set the conditions correctly, you can save the search as a policy and activate it. Like other policies, it searches your assets with a background job continuously after you activate it.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

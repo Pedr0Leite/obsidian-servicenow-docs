@@ -14,13 +14,13 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 # Create licenses and counters for distributed software
 
-Licenses and software counters are associated with the software model and must be created if you want to track the license for software deployed by [[c_ClientSoftwareDistribution|client software distribution]] \(CSD\).
+Licenses and software counters are associated with the software model and must be created if you want to track the license for software deployed by client software distribution \(CSD\).
 
 ## Before you begin
 
 Role required: sam or admin
 
-You can create software licenses and counters in Software Asset Management for software items deployed from the [[service-catalog|service catalog]] by CSD. CSD depends on the software counter result to determine if the license is available for the requested software. If the license **Valuation** is greater than 0, and the license type is **Not allocated**, CSD assumes that the license is available for the software.
+You can create software licenses and counters in Software Asset Management for software items deployed from the service catalog by CSD. CSD depends on the software counter result to determine if the license is available for the requested software. If the license **Valuation** is greater than 0, and the license type is **Not allocated**, CSD assumes that the license is available for the software.
 
 ## Procedure
 
@@ -49,11 +49,11 @@ All software deployed by CSD requires users to specify the beginning date for th
 
 If the catalog item is configured for revocation \(uninstall\), the form displays the **Lease end** field, which allows the requester to define an end date and time for the lease. The system validates user input in these fields to ensure that the dates selected define a future window. The **Lease end** field is not mandatory and can be left blank to order software with no end date.
 
-**Note:** For systems deploying software from Microsoft System Center [[manage-cmdb|Configuration Management]] \(SCCM\), the **Lease end** field is only available if the [SCCM configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ConfigureSCCMCollections.md) specifies an uninstall collection.
+**Note:** For systems deploying software from Microsoft System Center Configuration Management \(SCCM\), the **Lease end** field is only available if the [SCCM configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ConfigureSCCMCollections.md) specifies an uninstall collection.
 
 ### Software offered only to the logged in user
 
-If the [software catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateCatItemSCCMApp.md) is configured with the **Order on behalf of** [[check-box|check box]] cleared, the **User** field does not appear on the order form. The logged in user selects the device on which to deploy the software from the **Device to install this software on** field. Only those devices assigned to the logged in user appear in the list.
+If the [software catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateCatItemSCCMApp.md) is configured with the **Order on behalf of** check box cleared, the **User** field does not appear on the order form. The logged in user selects the device on which to deploy the software from the **Device to install this software on** field. Only those devices assigned to the logged in user appear in the list.
 
 In this example, a user has logged into the service catalog to order Firefox for a computer that is assigned to the user. User selects the machine from a list of owned devices and selects the date and time the lease should begin. This software is deployed through Microsoft System Center Configuration Management \(SCCM\), but does not have an uninstall collection configured and cannot be revoked automatically by the system. As a result, the **Lease end** field is not available.
 
@@ -67,9 +67,3 @@ In this example, a manager is ordering Google Chrome for a contractor. The manag
 
 \[Omitted image "CSDCatOrderLease.png"\] Alt text: Defining software lease window
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]
-- [[manage-cmdb|Configuration Management]]
-- [[check-box|Check box]]

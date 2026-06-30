@@ -14,9 +14,9 @@ breadcrumb: [Integrate with other applications, Configuration Compliance, Unifie
 
 # Understanding the Vulnerability Response Integration with Palo Alto Prisma Cloud
 
-Prisma Cloud is an API-based cloud [[threat-intelligence-infrastructure|infrastructure]] security solution. It connects to your cloud environment and monitors the resources deployed on the public cloud environments, such as Amazon Web Services \(AWS\), Microsoft Azure, and so on. You get complete visibility and control over risks within your public cloud infrastructure.
+Prisma Cloud is an API-based cloud infrastructure security solution. It connects to your cloud environment and monitors the resources deployed on the public cloud environments, such as Amazon Web Services \(AWS\), Microsoft Azure, and so on. You get complete visibility and control over risks within your public cloud infrastructure.
 
-The [[vuln-landing-page|Vulnerability Response]] Integration with Palo Alto Prisma Cloud application facilitates ingestion of policies and alerts from Prisma Cloud, as tests and test results respectively, in the [[vr-config-compliance-landing|Configuration Compliance]] application. With the right configuration, the test results can be managed seamlessly by assigning appropriate risk scores, and grouping and assigning them to relevant users and groups.
+The Vulnerability Response Integration with Palo Alto Prisma Cloud application facilitates ingestion of policies and alerts from Prisma Cloud, as tests and test results respectively, in the Configuration Compliance application. With the right configuration, the test results can be managed seamlessly by assigning appropriate risk scores, and grouping and assigning them to relevant users and groups.
 
 ## Available versions
 
@@ -96,9 +96,3 @@ Prisma Alerts Integration
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

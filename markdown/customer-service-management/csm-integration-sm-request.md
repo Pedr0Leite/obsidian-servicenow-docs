@@ -38,11 +38,11 @@ The following roles enable customer service agents to view and create requests f
 -   sn\_request\_read
 -   sn\_request\_write
 
-For more information, see [[assign-csm-itsm-integration-roles|Assign CSM/ITSM integration roles]].
+For more information, see [Assign CSM/ITSM integration roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-itsm-integration-roles.md).
 
 ## Enabling the Create Request UI action for case types
 
-To enable the **Create Request** UI action for a case type table that extends the Case \[sn\_customerservice\_case\] table, add an entry for the case type to the Request Parent Mapping \[request\_parent\_mapping\] table. For more information, see [[enable-create-request-case-type|Enable the Create Request UI action for case types]].
+To enable the **Create Request** UI action for a case type table that extends the Case \[sn\_customerservice\_case\] table, add an entry for the case type to the Request Parent Mapping \[request\_parent\_mapping\] table. For more information, see [Enable the Create Request UI action for case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-create-request-case-type.md).
 
 ## Synchronizing data between the request and the case
 
@@ -63,16 +63,9 @@ If the case is the parent of the request, notifications to the requester are sup
 **Related topics**  
 
 
-[[agent-create-request-for-customer|Create a request on behalf of a customer or consumer]]
+[Create a request on behalf of a customer or consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-create-request-for-customer.md)
 
-[[csm-item-agent-tasks|Create a request record from a case]]
+[Create a request record from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-item-agent-tasks.md)
 
-[[create-request-from-csp|Create a request from the Customer and Consumer Service Portals]]
+[Create a request from the Customer and Consumer Service Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-request-from-csp.md)
 
-## Related
-
-- [[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]
-- [[enable-create-request-case-type|Enable the Create Request UI action for case types]]
-- [[agent-create-request-for-customer|Create a request on behalf of a customer or consumer]]
-- [[csm-item-agent-tasks|Create incident, problem, change, and request records from cases]]
-- [[create-request-from-csp|Create a request from the Customer and Consumer Service Portals]]

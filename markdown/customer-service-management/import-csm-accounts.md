@@ -12,7 +12,7 @@ breadcrumb: [Configure accounts and contacts, Customer data, Set up your environ
 
 # Import accounts and contacts with guided setup
 
-Use [[c_CustomerServiceManagement|Customer Service Management]] guided setup to import existing accounts and contacts.
+Use Customer Service Management guided setup to import existing accounts and contacts.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: import\_admin, sn\_crm\_foundation\_admin, and csm\_guided\_setup
 
 ## About this task
 
-After importing customer account data, you must also [[set-csm-account-code-property|set the account code system property]].
+After importing customer account data, you must also [set the account code system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/set-csm-account-code-property.md).
 
 ## Procedure
 
@@ -40,7 +40,4 @@ After importing customer account data, you must also [[set-csm-account-code-prop
 
 7.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[set-csm-account-code-property|Set the account code property]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -14,17 +14,12 @@ breadcrumb: [Common UI elements, Working in Core UI, Configure UIs and portals, 
 
 Dot-walking provides access to fields on related tables from a form, list, or script.
 
-If the current table contains a [[onboarding-modals-reference|reference]] to another table, any field on the referenced table can be accessed using dot-walking.
+If the current table contains a reference to another table, any field on the referenced table can be accessed using dot-walking.
 
 Dot-walking references a field by building a chain of field names separated by dots \(periods\). For instance, **incident.assigned\_to.company** references the company of the user assigned to an incident. The recommended limit for chain length is three levels.
 
--   **[[dot-walking-examples|Dot-walking examples]]**  
+-   **[Dot-walking examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/dot-walking-examples.md)**  
 Access fields on a related table from a form, list, or script by dot-walking. This topic includes examples of the different ways that you can dot-walk.
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[dot-walking-examples|Dot-walking examples]]
-- [[p_CommonUIElements|Common UI elements]]
-- [[onboarding-modals-reference|Reference]]

@@ -24,7 +24,7 @@ Passwords in your ServiceNow® instance must meet complexity requirements.
 
 </td><td>
 
-[Enable\[Omitted image "bus-optimize-manage.svg"\] Alt text: Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/enable-password-[[ca-policies|policies]].md)
+[Enable\[Omitted image "bus-optimize-manage.svg"\] Alt text: Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/enable-password-policies.md)
 
  [Understand how to enable Password complexity requirements.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/enable-password-policies.md)
 
@@ -36,14 +36,9 @@ Passwords in your ServiceNow® instance must meet complexity requirements.
 
 </td><td>
 
-[Reference - [[unsupported-password-characters|Unsupported password characters]]\[Omitted image "bus-learn.svg"\] Alt text: Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/unsupported-password-characters.md)
+[Reference - Unsupported password characters\[Omitted image "bus-learn.svg"\] Alt text: Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/unsupported-password-characters.md)
 
  [Know about the unsupported password characters.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/unsupported-password-characters.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-policies|Policies]]
-- [[unsupported-password-characters|Unsupported password characters]]

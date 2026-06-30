@@ -12,7 +12,7 @@ breadcrumb: [Certifying services using self-attestation, Manage, Operational Res
 
 # Submit the self-attestation report
 
-Submit the self-attestation report to its owner for the certification. You can then generate the PDF of the self-attestation report in the [[grc-opres-landing-page|Operational Resilience]] Workspace for your records.
+Submit the self-attestation report to its owner for the certification. You can then generate the PDF of the self-attestation report in the Operational Resilience Workspace for your records.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_oper\_res.manager
 
 3.  Ensure that all questions are answered and select **Submit**.
 
-    When you [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], your responses are stored in the application and then the state of the self-attestation is updated to **Attestation received**.
+    When you submit the assessment, your responses are stored in the application and then the state of the self-attestation is updated to **Attestation received**.
 
     When the self-attestation is updated to the **Attestation received** state, the attestation is complete and the **Export to PDF** button is displayed on the form.
 
@@ -40,7 +40,4 @@ Role required: sn\_oper\_res.manager
 
 6.  To close the self-attestation record, select **Close**.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

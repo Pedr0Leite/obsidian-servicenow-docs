@@ -12,7 +12,7 @@ breadcrumb: [Exploring CA, Continuous Authentication \(CA\), Zero Trust Access, 
 
 # Metrics
 
-View the different metrics for continuous [[c_Authentication|authentication]].
+View the different metrics for continuous authentication.
 
 To access the metrics page, navigate to **All** &gt; **Continuous Authentication**, select **Metrics** tab.
 
@@ -20,7 +20,7 @@ Following are the different KPI details that you can view for continuous authent
 
 |Metrics|Description|
 |-------|-----------|
-|Total policies|KPI for number of continuous authentication policy that are created for the [[users|users]].|
+|Total policies|KPI for number of continuous authentication policy that are created for the users.|
 |Total protected classifications|KPI for number of classification that are protected due to the CA policy creation.|
 |Failed step-up or re-authentication|KPI for the number of failed step-up \(MFA\) or re-authentication \(SSO\).|
 |No of times policies invoked|KPI for the total number of times CA policies invoked.|
@@ -32,18 +32,11 @@ Following are the different KPI details that you can view for continuous authent
 **Related topics**  
 
 
-[[ca-policies|Policies]]
+[Policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-policies.md)
 
 [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md)
 
-[[ca-system-properties|System properties]]
+[System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md)
 
-[[explore-continuous-auth|Exploring Continuous Authentication]]
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[ca-system-properties|System properties]]
-- [[explore-continuous-auth|Exploring Continuous Authentication]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

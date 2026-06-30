@@ -14,7 +14,7 @@ breadcrumb: [Create a privacy assessment, Configure, Privacy Management, Governa
 
 # Map an information object to a question response
 
-Map the \[PI\] [[information-objects|Information objects]] to the responses of the assessment questions that must be associated to the processing activity. This association helps the privacy teams to understand what personal information is being processed by the processing activity.
+Map the \[PI\] Information objects to the responses of the assessment questions that must be associated to the processing activity. This association helps the privacy teams to understand what personal information is being processed by the processing activity.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ To understand more about information objects and their uses, see [Information ob
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessment Templates**.
 
 2.  Click and open the required assessment template.
 
@@ -62,8 +62,3 @@ The information objects are related to the processing activity.
 
 **Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

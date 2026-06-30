@@ -14,7 +14,7 @@ breadcrumb: [Activate, HR Integrations, Integration of HR Service Delivery with 
 
 # Components installed with HR Integrations
 
-Several types of components install with the activation of the [[scoped-hr-third-party-integrations|HR Integrations]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the HR Integrations plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -73,7 +73,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Assign HR [[c_ClientRoles|Client Roles]] for Integration Users Sync.
+Assign HR Client Roles for Integration Users Sync.
 
 </td><td>
 
@@ -321,7 +321,3 @@ Staging table for worker profiles, effective worker profiles, and future worker 
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-hr-integrations.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[c_ClientRoles|Client roles]]

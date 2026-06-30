@@ -26,7 +26,7 @@ You can add and modify any useful quick links and bookmark those links that help
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Quick links**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Quick links**.
 
 2.  Click **Add Quick Link** icon to add the links.
 
@@ -36,7 +36,7 @@ You can add and modify any useful quick links and bookmark those links that help
 
     \[Omitted image "add-quick-links.png"\] Alt text: Add quick links
 
-    The new link gets added below the [[quick-links|quick links section]].
+    The new link gets added below the quick links section.
 
 5.  **To modify or delete the links:**
 
@@ -57,7 +57,3 @@ You can add and modify any useful quick links and bookmark those links that help
 
 **Parent Topic:**[Quick links section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/quick-links.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[quick-links|Quick links section]]

@@ -14,7 +14,7 @@ breadcrumb: [SRM interface, Get started with Service Reliability Management, Exp
 
 # Manually create SRM tags
 
-Add tags to classify, categorize, and add context to data. [[sr-landing-page|Service Reliability Management]] \(SRM\) imports tags and attaches them to services, alerts, and incidents. You can also manually create tags.
+Add tags to classify, categorize, and add context to data. Service Reliability Management \(SRM\) imports tags and attaches them to services, alerts, and incidents. You can also manually create tags.
 
 ## Before you begin
 
@@ -32,9 +32,9 @@ This task describes how to add tags to services and incidents in SRM. For inform
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -57,8 +57,3 @@ This task describes how to add tags to services and incidents in SRM. For inform
 
 **Parent Topic:**[SRM interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-navigate-interface.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

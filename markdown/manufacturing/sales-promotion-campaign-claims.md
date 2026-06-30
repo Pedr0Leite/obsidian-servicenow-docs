@@ -12,7 +12,7 @@ breadcrumb: [Data model, Reference, Manufacturing Commercial Operations]
 
 # Sales promotion campaign data model
 
-A [[mco-sales-promotion|sales promotion]] is a marketing strategy of implementing new ideas to increase sales, raise brand awareness, and provide discounts to the customers.
+A sales promotion is a marketing strategy of implementing new ideas to increase sales, raise brand awareness, and provide discounts to the customers.
 
 ## Introduction to sales promotion campaign claims
 
@@ -34,14 +34,8 @@ The sales promotion supports bulk import functionality, where the dealer sales a
 
 To learn more about the Business Location Service Portal, see .
 
--   **[[sales-promotion-campaign-claim-table|Sales Promotion Campaign Claim tables]]**  
-This section explains the sales promotion campaign claims tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+-   **[Sales Promotion Campaign Claim tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-campaign-claim-table.md)**  
+This section explains the sales promotion campaign claims tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[[data-model|Data model]]
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 
-## Related
-
-- [[sales-promotion-campaign-claim-table|Sales Promotion Campaign Claim tables]]
-- [[data-model|Data model]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

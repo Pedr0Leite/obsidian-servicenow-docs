@@ -64,14 +64,14 @@ A cost plan breakdown captures the estimated cost and actual cost for every fisc
 
 When an expense line is created without populating the **Cost Plan** field, system-generated cost plans are created automatically.
 
-The orphan expense lines are associated to the system-generated cost plans. This association ensures that the project actuals shown on the widgets or the total actuals are the same as the aggregate of the cost plan actuals on the grid shown on the Project Financials page and [[investment-portal|Investment Portal]].
+The orphan expense lines are associated to the system-generated cost plans. This association ensures that the project actuals shown on the widgets or the total actuals are the same as the aggregate of the cost plan actuals on the grid shown on the Project Financials page and Investment Portal.
 
 **Note:** System-generated cost plans are created only when the project has a minimum of one cost plan.
 
 System-generated cost plans are created for any of the following reasons:
 
--   When you [[t_CreateAExpenseLine|create an expense line]] without populating the **Cost Plan** field.
--   When you [[t_CreateATimeCard|create a time card]] and approve it.
+-   When you create an expense line without populating the **Cost Plan** field.
+-   When you create a time card and approve it.
 
 There are two system-generated cost plans, CapEx and OpEx. Depending on the type of expense selected while creating an expense line, the type of system-generated cost plan is created. The following are the name formats for the system-generated cost plans:
 
@@ -80,11 +80,5 @@ There are two system-generated cost plans, CapEx and OpEx. Depending on the type
 
 When you create a time card and approve it, an expense line of type CapEx is created and then the orphan expense line is associated to the system-generated cost plan of type CapEx. The system-generated cost plans are created to ensure that none of the expense lines are left without being associated to a cost plan. The system-generated cost plans are read-only.
 
-For customers upgrading to Australia, you can run the [[project-diagnostics-overview|project diagnostics]], **Associate orphan expense lines to the system generated cost plan**, to associate orphan expense lines to a system-generated cost plan. The diagnostic scan lists the expense lines that are not associated to any cost plan. When you run the fix script, system-generated cost plans are created, and the orphan expense lines are associated to the system-generated cost plans.
+For customers upgrading to Australia, you can run the project diagnostics, **Associate orphan expense lines to the system generated cost plan**, to associate orphan expense lines to a system-generated cost plan. The diagnostic scan lists the expense lines that are not associated to any cost plan. When you run the fix script, system-generated cost plans are created, and the orphan expense lines are associated to the system-generated cost plans.
 
-## Related
-
-- [[investment-portal|Investment Portal]]
-- [[t_CreateAExpenseLine|Create an expense line]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[project-diagnostics-overview|Project Diagnostics]]

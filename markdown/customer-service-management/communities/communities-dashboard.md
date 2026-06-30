@@ -108,7 +108,7 @@ The Communities dashboard presents the following key performance indicators:
 
 The following breakdowns apply to the indicators on the dashboard:
 
--   [[servicenow-communities|Communities]] Content Type
+-   Communities Content Type
 -   Communities Forum
 -   Communities Topic
 
@@ -251,6 +251,3 @@ View the number of posts featured by different users per month.
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform Analytics Solutions for Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-content-pack.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

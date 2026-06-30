@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Install and configure Security Incident Response integration with Zscaler
 
-[[configure-cortex-xsiam-siem|Install and configure]] the [[zscaler-integration-for-security-operations|Security Incident Response integration with Zscaler]] internet Access product from the ServiceNow Store to start using the integration on your ServiceNow AI Platform instance.
+Install and configure the Security Incident Response integration with Zscaler internet Access product from the ServiceNow Store to start using the integration on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 1.  Download the Security Incident Response integration with Zscaler product from the ServiceNow Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the Security Incident Response integration with Zscaler tile and select **Configure** &gt; **Create new configuration**.
 
@@ -106,8 +106,3 @@ API key that you obtained from the Zscaler Internet Access administration portal
 
 After you validate and save this configuration, return to the Zscaler Configurations page.
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[zscaler-integration-for-security-operations|Security Incident Response integration with Zscaler]]
-- [[security-operations-landing-page|Security Operations]]

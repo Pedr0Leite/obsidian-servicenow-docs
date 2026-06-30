@@ -14,7 +14,7 @@ breadcrumb: [Execute work order tasks, Updating task status, Completing work ord
 
 # View asset usage
 
-The [[fsm-application-landing-page|Field Service Management]] application tracks the consumable and non-consumable parts that are used or changed during the execution of work order tasks.
+The Field Service Management application tracks the consumable and non-consumable parts that are used or changed during the execution of work order tasks.
 
 ## Before you begin
 
@@ -70,7 +70,3 @@ When an agent records the removal of an asset, the asset is added to the Asset U
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

@@ -14,9 +14,9 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Manage the receiving of assets at stockrooms in the Hardware Asset Workspace
 
-Receive hardware and [[c_ReceiveAConsumableAsset|consumable assets]] at [[c_Stockrooms|stockrooms]] from any workflow at a centralized location on the stockroom form in the [[using-ham-workspace|Hardware Asset Workspace]].
+Receive hardware and consumable assets at stockrooms from any workflow at a centralized location on the stockroom form in the Hardware Asset Workspace.
 
-Depending on the number and type of assets that you want to receive, you can select from the following options to [[c_ReceiveAssets|receive assets]] at your stockroom:
+Depending on the number and type of assets that you want to receive, you can select from the following options to receive assets at your stockroom:
 
 -   [Receive a single hardware asset at your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-stockroom-hws.md).
 -   [Receive one or more hardware and consumable assets from the list of shipment assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-shipment-assets-ham.md).
@@ -36,9 +36,3 @@ Receive multiple hardware and consumable assets at your stockroom by importing t
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_ReceiveAssets|Receive assets]]

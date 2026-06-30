@@ -12,7 +12,7 @@ breadcrumb: [Task dependencies for task plan templates, Task Plan Templates, Cas
 
 # Add and Manage Task Dependencies
 
-Add, edit, and manage dependencies within template items so that tasks execute in the correct sequence and follow defined dependency [[gamification-components-rules|rules]].
+Add, edit, and manage dependencies within template items so that tasks execute in the correct sequence and follow defined dependency rules.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Role required: admin, task plan template user
 
     The system generates task records based on the template items. Using the dependency rules configured in the **Task Plan Template Dependency** table, corresponding dependency relationships are created between the generated tasks in the `sn_task_dependency_m2m` table.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

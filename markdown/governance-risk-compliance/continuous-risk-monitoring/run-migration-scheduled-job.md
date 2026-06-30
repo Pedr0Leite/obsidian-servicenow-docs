@@ -14,7 +14,7 @@ breadcrumb: [CAM workflow configuration, Using CAM, Continuous Authorization and
 
 # Run migration scheduled job
 
-Run the migration scheduled job to associate existing authorization packages and boundaries with the workflow after enabling the [[cam-workflow-configurator|CAM workflow configuration]] property. The migration confirms that existing data is compatible with the [[work-configuration|workflow configuration]].
+Run the migration scheduled job to associate existing authorization packages and boundaries with the workflow after enabling the CAM workflow configuration property. The migration confirms that existing data is compatible with the workflow configuration.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: sn\_irm\_cont\_auth.admin
 
 5.  Select **Execute Now** to confirm execution.
 
-## Related
 
-- [[cam-workflow-configurator|CAM workflow configuration]]
-- [[work-configuration|Workflow configuration]]

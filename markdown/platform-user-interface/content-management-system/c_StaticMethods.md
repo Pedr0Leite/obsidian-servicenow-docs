@@ -26,7 +26,7 @@ Form-based menu management and WYSYWIG code editing can be useful to both advanc
 
 -   **Static HTML Details**
 
-    [[c_ContentBlocks|Content blocks]] that are useful for areas administered by developers unfamiliar with HTML or markup. Anyone familiar with markup can use dynamic blocks because they are extendable. For more information on static HTML, see [Using Content Blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md).
+    Content blocks that are useful for areas administered by developers unfamiliar with HTML or markup. Anyone familiar with markup can use dynamic blocks because they are extendable. For more information on static HTML, see [Using Content Blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md).
 
 -   **Content Links**
 
@@ -34,12 +34,8 @@ Form-based menu management and WYSYWIG code editing can be useful to both advanc
 
 -   **iFrame Details**
 
-    Used both dynamically and statically throughout the system. Using them is an easy way to bring any form or list into your CMS pages. For more information on [[c_IFrameMethods|iFrame methods]], see [Using Content Blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_IFrameMethods.md).
+    Used both dynamically and statically throughout the system. Using them is an easy way to bring any form or list into your CMS pages. For more information on iFrame methods, see [Using Content Blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_IFrameMethods.md).
 
 
 **Parent Topic:**[Content Management integration points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]
-- [[c_IFrameMethods|iFrame methods]]

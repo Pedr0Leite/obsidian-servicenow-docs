@@ -24,7 +24,7 @@ Depending on the selected skill, you can configure inputs or triggers. These set
 
 For the sidebar discussion summarization skill, select the triggers that determine when a sidebar discussion summary is generated.
 
-The following table [[migration-lists|lists]] the triggers that determine when a sidebar discussion summary is generated.
+The following table lists the triggers that determine when a sidebar discussion summary is generated.
 
 |Trigger|Description|
 |-------|-----------|
@@ -32,7 +32,7 @@ The following table [[migration-lists|lists]] the triggers that determine when a
 
 ## Case sentiment analysis skill
 
-The case [[case-sentiment-analysis|sentiment analysis]] skill includes the inputs and outputs that identify the table and fields that are used when a case sentiment is generated.
+The case sentiment analysis skill includes the inputs and outputs that identify the table and fields that are used when a case sentiment is generated.
 
 The following table lists the inputs for the case sentiment analysis skill.
 
@@ -157,8 +157,3 @@ Filter conditions to generate the suggested steps.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[case-sentiment-analysis|Sentiment Analysis]]

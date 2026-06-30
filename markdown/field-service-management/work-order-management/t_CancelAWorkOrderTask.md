@@ -27,7 +27,7 @@ Work orders and work order tasks cannot be canceled while in **Closed Complete**
 -   Cancels all associated transfer orders if the items have not already shipped. If the items have shipped, the system blocks the cancellation of the task until the parts are delivered.
 -   Removes all predecessor \(upstream\) and successor \(downstream\) dependencies.
 -   Changes the state of the parent work order to **Canceled** if all associated work order tasks are **Canceled**.
--   Removes all [[c_PartRequirements|part requirements]] without a transfer order line.
+-   Removes all part requirements without a transfer order line.
 -   Retains all asset usage information.
 -   Sends a notification email and SMS to the customer about the cancellation of work order task.
 
@@ -35,7 +35,7 @@ Work order tasks can be canceled by users with these roles:
 
 |Role|Description|
 |----|-----------|
-|Initiator|Can [[t_CancelAWorkOrder|cancel a work order]], which automatically cancels all associated work order tasks.|
+|Initiator|Can cancel a work order, which automatically cancels all associated work order tasks.|
 |Qualifier|Can cancel work orders and work order tasks.|
 |Dispatcher|Can cancel work orders and work order tasks.|
 |Agent|Can cancel work order tasks assigned to them.|
@@ -62,7 +62,3 @@ Work order tasks can be canceled by users with these roles:
 
 The customer receives an SMS and email notification that the work order task is canceled.
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]
-- [[t_CancelAWorkOrder|Cancel a work order]]

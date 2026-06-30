@@ -18,7 +18,7 @@ Keep Virtual Agent chats focused with Irrelevance detection. Use the Irrelevance
 
 ## Summary information
 
-The Irrelevance detection feature improves the prediction accuracy of [[nlu-models|NLU models]] by training them to ignore certain utterances. These utterances from your users may not apply to any intent, so should not get any prediction.
+The Irrelevance detection feature improves the prediction accuracy of NLU models by training them to ignore certain utterances. These utterances from your users may not apply to any intent, so should not get any prediction.
 
 To ensure that models do not predict an intent when they are not supposed to, you can mark utterances as `Not relevant`. These marked utterances are included as part of model training. When the published model encounters similar utterances from your users, no intent is matched or predicted.
 
@@ -77,9 +77,9 @@ Because irrelevant utterances impact the model's predictions, they are displayed
 
 There are two locations where conflicts with irrelevant utterances are highlighted:
 
--   The [[nlu-intent-conflict-review-resolution|Cross-model Conflict Review]] module. For more information about this module, see [Cross-model Conflict Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-intent-conflict-review-resolution.md).
+-   The Cross-model Conflict Review module. For more information about this module, see [Cross-model Conflict Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-intent-conflict-review-resolution.md).
 
-    **Note:** The Cross-model Conflict Review module is available with the [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] application from ServiceNow® Store. For more information, see [NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-workbench-advanced-features.md).
+    **Note:** The Cross-model Conflict Review module is available with the NLU Workbench - Advanced Features application from ServiceNow® Store. For more information, see [NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-workbench-advanced-features.md).
 
 -   The Conflicts tab of an intent. For more information on conflicts in an intent, see [Resolve intent issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/resolve-intent-issues.md).
 
@@ -101,8 +101,3 @@ Note that irrelevant utterances cannot be edited or deleted on the conflict page
 -   Utterances can be deleted or edited in the Irrelevance detection table.
 -   Irrelevant utterances should have content that is different from utterances associated to an intent.
 
-## Related
-
-- [[nlu-models|NLU models]]
-- [[nlu-intent-conflict-review-resolution|Cross-model Conflict Review]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

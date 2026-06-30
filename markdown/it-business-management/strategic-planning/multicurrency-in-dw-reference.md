@@ -14,8 +14,5 @@ breadcrumb: [Reference, Next Experience for Demand Management in Strategic Plann
 
 # Multicurrency in Next Experience for Demand Management reference
 
-The multicurrency features in Next Experience for [[c_DemandManagement|Demand Management]] enable you to manage and track demand financials in multiple currencies. This section provides field references and explains how cost and benefit plan updates recalculate values in demand currency.
+The multicurrency features in Next Experience for Demand Management enable you to manage and track demand financials in multiple currencies. This section provides field references and explains how cost and benefit plan updates recalculate values in demand currency.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

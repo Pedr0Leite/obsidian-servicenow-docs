@@ -14,22 +14,22 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Check Point Next Generation Threat Prevention integration
 
-This document describes the steps required to [[integrating-threat-intelligence-security-center|integrate]] Check Point Next Generation Threat Prevention \(NGTP\) capabilities with ServiceNow® [[sir-landing-page|Security Incident Response]] \(SIR\) so that applications function properly together.
+This document describes the steps required to integrate Check Point Next Generation Threat Prevention \(NGTP\) capabilities with ServiceNow® Security Incident Response \(SIR\) so that applications function properly together.
 
-Once installed and configured, the security incident analyst uses this integration to block malicious IP addresses, URLs, and Domains using Block Request List capabilities with the ServiceNow Security Incident Response \(SIR\) products. This Block Request List is configured on Check Point Gateways as a Custom Intelligence Feed. The Custom Intelligence Feeds feature provides an ability to add custom cyber intelligence feeds into the Next Generation Threat Prevention engine. It allows fetching feeds from a third-party server, in this case the ServiceNow Security Incident Response application, directly to the Check Point Next Generation Gateway to be enforced by Anti-Virus and Anti-Bot blades. The security incident response analyst creates entries for Check Point Block List from [[c_Observables|observables]] determined to be malicious on ServiceNow SIR security incidents.
+Once installed and configured, the security incident analyst uses this integration to block malicious IP addresses, URLs, and Domains using Block Request List capabilities with the ServiceNow Security Incident Response \(SIR\) products. This Block Request List is configured on Check Point Gateways as a Custom Intelligence Feed. The Custom Intelligence Feeds feature provides an ability to add custom cyber intelligence feeds into the Next Generation Threat Prevention engine. It allows fetching feeds from a third-party server, in this case the ServiceNow Security Incident Response application, directly to the Check Point Next Generation Gateway to be enforced by Anti-Virus and Anti-Bot blades. The security incident response analyst creates entries for Check Point Block List from observables determined to be malicious on ServiceNow SIR security incidents.
 
 For most implementations, a Block Request List is a csv file that is hosted on an external web server. For this integration, this web server is your ServiceNow AI Platform instance, which permits the Check Point next-generation Threat Prevention Engine to fetch the list of IP Addresses, URLs and Domains to be blocked.
 
-To enforce the blocking observables on Check Point Gateway, ensure that Threat Prevention Policy is configured with Anti-Bot and Anti-Virus Blades activated. As the [[cs-fal-insight-block-list-entries|Block List entries]] are modified, the Threat Prevention Engine dynamically imports the list at the configured interval and enforces policy without a configuration change or a commit on the firewall. For this integration, ServiceNow AI Platform has created a table containing Block List entries that are retrieved by authorized Check Point next-generation Gateway at the configured retrieval intervals.
+To enforce the blocking observables on Check Point Gateway, ensure that Threat Prevention Policy is configured with Anti-Bot and Anti-Virus Blades activated. As the Block List entries are modified, the Threat Prevention Engine dynamically imports the list at the configured interval and enforces policy without a configuration change or a commit on the firewall. For this integration, ServiceNow AI Platform has created a table containing Block List entries that are retrieved by authorized Check Point next-generation Gateway at the configured retrieval intervals.
 
 The integration includes the following features:
 
 -   Flexibility to create multiple Block Lists that apply to multiple Check Point Gateways.
--   Detailed reporting on the types of sites being blocked \(phishing, [[threat-intelligence-malware|malware]], and allow listed sites\).
+-   Detailed reporting on the types of sites being blocked \(phishing, malware, and allow listed sites\).
 -   Tagging of ServiceNow AI Platform security incidents with Block List entries by the observable type \(URL, domain, IP address\).
 -   Configuring Block List expiration periods to maintain Block List size by automatically expiring or removing older entries.
 -   Searching Block List entries between different Block Lists.
--   Linking Block List entries to observable records and security incidents that include [[threat-intel-landing-page|threat intelligence]] results and details about why an entry is blocked.
+-   Linking Block List entries to observable records and security incidents that include threat intelligence results and details about why an entry is blocked.
 
 ## Integration architecture diagram
 
@@ -82,15 +82,5 @@ The following ServiceNow roles are required.
 -   Security incident administrator \(sn\_si.admin\) for creating Block Lists in ServiceNow and approving requests for adding and deactivating Blocklist Entries.
 -   Security analyst \(also referred to here as a SOC Analyst, sn\_si.analyst\) for creating and maintaining Block List Entry records.
 
-For more information on assigning the security analyst role, on the [ServiceNow documentation website](https://www.servicenow.com/docs), navigate to [[security-operations-landing-page|Security operations]]&gt;Security Incident Response&gt; [[r_AgentAssignment|Assigning security analysts]].
+For more information on assigning the security analyst role, on the [ServiceNow documentation website](https://www.servicenow.com/docs), navigate to Security operations&gt;Security Incident Response&gt; Assigning security analysts.
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]
-- [[r_AgentAssignment|Assigning security analysts]]

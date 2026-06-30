@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration for Service Mapping, Configuring Service M
 
 # Choose MID Server selection algorithm
 
-[[c_ServiceMappingOverview|Service Mapping]] supports the new and the legacy algorithms for selecting a MID Server for a [[r-discovery|discovery]] request. Depending on your organization needs, you can choose which algorithm to enable.
+Service Mapping supports the new and the legacy algorithms for selecting a MID Server for a discovery request. Depending on your organization needs, you can choose which algorithm to enable.
 
 ## Before you begin
 
@@ -63,7 +63,3 @@ By default, Service Mapping uses the legacy algorithm in all deployments upgrade
 
 **Parent Topic:**[MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

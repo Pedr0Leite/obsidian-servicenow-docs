@@ -14,7 +14,7 @@ breadcrumb: [User created, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Create a DevOps tool integration
 
-To create a DevOps tool integration, your integration developer configures DevOps tool integration [[settings-mobile|settings]], and a Workflow Studio subflow to collect and transform data from the source tool. Then your DevOps admin configures your DevOps tool connections.
+To create a DevOps tool integration, your integration developer configures DevOps tool integration settings, and a Workflow Studio subflow to collect and transform data from the source tool. Then your DevOps admin configures your DevOps tool connections.
 
 ## Before you begin
 
@@ -241,7 +241,7 @@ global
 
     1.  The tool record must contain:
 
-        -   [[reference-for-itsm-mobile-agent|Reference]] to the tool integration record created by the integration developer \(in the **Tool** field\)
+        -   Reference to the tool integration record created by the integration developer \(in the **Tool** field\)
         -   Tool label
         -   Connection alias \(connection and credential\)
     2.  Copy the notification \(webhook\) created on the DevOps planning tool to the source tool service hook of the notification endpoint and set the credentials to devops.integration.user.
@@ -252,7 +252,7 @@ global
 
 3.  If the tool integration record and the subflow are created in a different scope, the DevOps admin must create two new Cross scope privileges records to allow the app to access the inbound events table.
 
-    Navigate to **System [[dex-workspace-application-tab|Applications]]** &gt; **Application Cross-Scope Access** and create read and write cross scope privileges records to allow your app to access the inbound events table.
+    Navigate to **System Applications** &gt; **Application Cross-Scope Access** and create read and write cross scope privileges records to allow your app to access the inbound events table.
 
     |Field|Read|Write|
     |-----|----|-----|
@@ -266,8 +266,3 @@ global
 
 **Parent Topic:**[User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]

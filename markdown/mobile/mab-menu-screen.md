@@ -14,7 +14,7 @@ breadcrumb: [Mobile App Builder, Building tools, Building mobile apps, Mobile Pl
 
 Use the Mobile App Builder categories home screen to select or create the most commonly used configuration options. Select category options like **Screens** or **Cards &amp; Icons** to create and edit records.
 
-The [[mab-concept|Mobile App Builder]] home screen contains the following elements.
+The Mobile App Builder home screen contains the following elements.
 
 -   The left menu panel groups the most important mobile components into categories. These menu items are fixed and you cannot add or remove them from the list.
 
@@ -25,7 +25,7 @@ The [[mab-concept|Mobile App Builder]] home screen contains the following elemen
 -   A help menu icon \(\[Omitted image "mab-help-icon.png"\] Alt text: Mobile App Builder help icon\) with the following options:
     -   **Record configuration tour**: Provides an on-screen step-by-step guide demonstrating how to create records.
 
-        **Note:** The Record configuration tour menu option is only available in the [[mab-workspace|Mobile App Builder record screen]].
+        **Note:** The Record configuration tour menu option is only available in the Mobile App Builder record screen.
 
     -   **Mobile App Builder overview**: Opens the Mobile App Builder tour modal window.
     -   **App preview instructions**: Opens a modal window with instructions to help users download mobile apps and log in to their instances.
@@ -38,7 +38,3 @@ The [[mab-concept|Mobile App Builder]] home screen contains the following elemen
 
 \[Omitted image "mab-categories-screen.png"\] Alt text: Mobile App Builder categories home screen.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mab-workspace|Mobile App Builder record screen]]

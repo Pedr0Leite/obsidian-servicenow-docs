@@ -14,7 +14,7 @@ breadcrumb: [Configure Platform Analytics Solutions, Platform Analytics solution
 
 # Review the breakdown sources
 
-[[breakdown-sources|Breakdown sources]] represent the elements that you use to examine a KPI in more detail. Modify the breakdown source to limit the element list to only those items that are meaningful for the data analysis.
+Breakdown sources represent the elements that you use to examine a KPI in more detail. Modify the breakdown source to limit the element list to only those items that are meaningful for the data analysis.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Restricting the number of elements that a breakdown source returns has the follo
 -   Smaller element lists make it easier for consumers to find the data they need. Sorting through a list of 25 groups associated with a particular process is easier than trying to sort through thousands of groups.
 -   Smaller element lists lead to less data collection and more efficient use of data. Instead of the [data collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) crunching through 1,000 different groups, the data collector can analyze the 25 groups that are meaningful to the process.
 
-**Note:** You probably do not need to change the breakdown sources in [[content-packs-in-form-analytics-published|Platform Analytics Solutions]]. However, you may find it helpful to review and understand exactly what is being measured in your processes.
+**Note:** You probably do not need to change the breakdown sources in Platform Analytics Solutions. However, you may find it helpful to review and understand exactly what is being measured in your processes.
 
 ## Procedure
 
@@ -73,7 +73,3 @@ You are now ready to collect data, as described in [Collect data for Platform An
 
 [Define a breakdown source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_DefiningABreakdownSource.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]

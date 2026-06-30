@@ -18,7 +18,7 @@ Set up the features and work flows that you need to manage your organization's f
 
 <table id="table_u5l_hkt_hcc" class="nav-card"><tbody><tr><td>
 
-[Plan\[Omitted image "bus-project.svg"\] Alt text: Plan your [[fsm-application-landing-page|Field Service Management]] implementation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planning-implementation-fsm.md)
+[Plan\[Omitted image "bus-project.svg"\] Alt text: Plan your Field Service Management implementation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planning-implementation-fsm.md)
 
 </td><td>
 
@@ -57,13 +57,13 @@ Set up the features and work flows that you need to manage your organization's f
 
 The process for configuring Field Service Management includes:
 
-1.  [[planning-implementation-fsm|Planning your Field Service Management implementation]]
+1.  [Planning your Field Service Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planning-implementation-fsm.md)
 
     Learn where to find information about planning your implementation, Field Service Management packaging and licensing, and training for the features you want to implement.
 
 2.  [Setting up your workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/setting-up-workforce.md)
 
-    Set up foundational information such as users, locations,and territories. If your organization is using Crew, Contractor Management, [[capacity|Capacity]] Management, or [[using-wfo-fsm|Workforce Optimization]], complete additional configuration steps for each feature.
+    Set up foundational information such as users, locations,and territories. If your organization is using Crew, Contractor Management, Capacity Management, or Workforce Optimization, complete additional configuration steps for each feature.
 
 3.  [Setting up work orders and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/setting-up-work-orders-and-tasks.md)
 
@@ -71,28 +71,18 @@ The process for configuring Field Service Management includes:
 
 4.  \(Optional\) [Setting up inventory and asset management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/setting-up-inventory-and-asset-management.md)
 
-    If your organization needs to [[view-available-parts-inventory|track inventory]] or schedule equipment, configure the Inventory and Resource Scheduling features.
+    If your organization needs to track inventory or schedule equipment, configure the Inventory and Resource Scheduling features.
 
-5.  [[setting-up-configurable-workspace|Setting up CSM/FSM Configurable Workspace]]
+5.  [Setting up CSM/FSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/setting-up-configurable-workspace.md)
 
-    Configure the layouts, filters and sorting for specialized views in the CSM/FSM Configurable Workspace such as [[dispatcher-activities|Dispatcher Workspace]], Territory Planning console, and CSM Agent Workspace.
+    Configure the layouts, filters and sorting for specialized views in the CSM/FSM Configurable Workspace such as Dispatcher Workspace, Territory Planning console, and CSM Agent Workspace.
 
 6.  [Setting up a Field Service scheduling method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/setting-up-scheduling-methods.md)
 
-    Configure the scheduling method \(Scheduling Optimization, [[dynamic-scheduling|Dynamic Scheduling]], Intelligent Task Recommendations, or Route Optimization\) that best meets your organization's needs. Optionally, configure additional scheduling options and capabilities.
+    Configure the scheduling method \(Scheduling Optimization, Dynamic Scheduling, Intelligent Task Recommendations, or Route Optimization\) that best meets your organization's needs. Optionally, configure additional scheduling options and capabilities.
 
 7.  [Setting up Field Service Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/setting-up-field-service-mobile-agent.md)
 
-    Configure access to tasks, locations, and other information from your mobile device. If you are using Contractor Management, set up [[wot-fsc|Field Service Contractor for mobile]] so that contractors can manage their assigned tasks.
+    Configure access to tasks, locations, and other information from your mobile device. If you are using Contractor Management, set up Field Service Contractor for mobile so that contractors can manage their assigned tasks.
 
-## Related
 
-- [[planning-implementation-fsm|Planning your Field Service Management implementation]]
-- [[setting-up-configurable-workspace|Setting up CSM/FSM Configurable Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[capacity|Capacity]]
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[view-available-parts-inventory|Track inventory]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[wot-fsc|Field Service Contractor for mobile]]

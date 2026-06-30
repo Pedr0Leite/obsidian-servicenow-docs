@@ -17,19 +17,19 @@ Remove unwanted code and protect against security concerns such as cross-site sc
 
 [Explore the HTML Sanitizer\[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-html-sanitizer.md)
 
- [[exploring-html-sanitizer|Learn how the HTML sanitizer works.]]
+ [Learn how the HTML sanitizer works.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-html-sanitizer.md)
 
 </td><td>
 
 [Configure HTML Sanitizer\[Omitted image "icon-set-up.png"\] Alt text: Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ConfigureHTMLSanitizer.md)
 
- [[t_ConfigureHTMLSanitizer|Configure the HTML sanitizer.]]
+ [Configure the HTML sanitizer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ConfigureHTMLSanitizer.md)
 
 </td></tr><tr><td>
 
 [Activate HTML Sanitizer\[Omitted image "icon-manage.png"\] Alt text: Reviewing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHTMLSanitizer.md)
 
- [[t_ActivateHTMLSanitizer|Learn how to enable the HTML sanitizer.]]
+ [Learn how to enable the HTML sanitizer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHTMLSanitizer.md)
 
 </td><td>
 
@@ -37,9 +37,3 @@ Remove unwanted code and protect against security concerns such as cross-site sc
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-html-sanitizer|Exploring HTML sanitizer]]
-- [[t_ConfigureHTMLSanitizer|Configuring HTML sanitizer]]
-- [[t_ActivateHTMLSanitizer|Enabling HTML sanitizer]]

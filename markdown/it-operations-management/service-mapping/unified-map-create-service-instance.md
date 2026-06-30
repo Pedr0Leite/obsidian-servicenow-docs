@@ -15,7 +15,7 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Create a service instance from various data sources
 
-Search for mapped and unmapped services to unify. The flow is available using the [[sm-dashboard|Service Mapping workspace]].
+Search for mapped and unmapped services to unify. The flow is available using the Service Mapping workspace.
 
 ## About this task
 
@@ -25,7 +25,7 @@ Search for mapped and unmapped services to unify. The flow is available using th
 
 You must have at least Australia platform version installed.
 
-You must have the latest version of [[c_ServiceMappingOverview|Service Mapping]] Plus.
+You must have the latest version of Service Mapping Plus.
 
 At least two existing services to merge, or at least two sources of data that are actively updated.
 
@@ -142,7 +142,3 @@ Provide a brief summary of what this service instance does. For example: Unified
 
 [Delete a unified service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-delete-unified-service.md)
 
-## Related
-
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]

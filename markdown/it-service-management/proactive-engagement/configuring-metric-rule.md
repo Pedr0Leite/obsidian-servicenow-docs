@@ -18,13 +18,13 @@ Metric rules help the organization by setting the criteria and trigger alerts wh
 
 ## Before you begin
 
-Set the resolutions to help you proactively resolve the digital issue using the ServiceNow [[dex-landing|Digital End-User Experience]]. For details on the installation of the Digital End-User Experience application, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
+Set the resolutions to help you proactively resolve the digital issue using the ServiceNow Digital End-User Experience. For details on the installation of the Digital End-User Experience application, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **SOW** &gt; **[[dex-workspace-administration-tab|DEX Administration]]** &gt; **Metric rules** &gt; **Create metric rule**.
+1.  Navigate to **All** &gt; **SOW** &gt; **DEX Administration** &gt; **Metric rules** &gt; **Create metric rule**.
 
     \[Omitted image "select\_ci\_pe.png"\] Alt text: Select the CI window
 
@@ -46,7 +46,7 @@ Role required: admin
 
     \[Omitted image "alert-action.png"\] Alt text: Set alert action
 
-    **Note:** Remedial actions that require entering parameters are not supported and you won't be able to select when the resolution type is [[remedial-action|Remedial Action]].
+    **Note:** Remedial actions that require entering parameters are not supported and you won't be able to select when the resolution type is Remedial Action.
 
 7.  Select **Next**.
 
@@ -56,7 +56,7 @@ Role required: admin
 
     \[Omitted image "resolutions\_y.png"\] Alt text: Proactive resolution content window to add the Resolution details.
 
-9.  If you select resolution type as remedial action that has input parameters, enter the **Advanced [[settings-mobile|settings]]** for each of the input parameters of the selected remedial action.
+9.  If you select resolution type as remedial action that has input parameters, enter the **Advanced settings** for each of the input parameters of the selected remedial action.
 
     For more information about the Advanced settings, see [Input parameters for Remedial action in Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/advanced-settings.md).
 
@@ -79,9 +79,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-proactive-engagement.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[remedial-action|Remedial action]]
-- [[settings-mobile|Settings]]

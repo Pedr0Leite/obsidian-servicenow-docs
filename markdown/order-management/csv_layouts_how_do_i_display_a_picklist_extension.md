@@ -12,7 +12,7 @@ breadcrumb: [Configure picklist extensions, CPQ app, Configure, price, quote app
 
 # Displaying a picklist extension on a layout
 
-Learn how to display a picklist extension \(PLE\) on a layout using either the CPQ Admin UI or a CSV upload. Configure foundational picklist [[fields|fields]], map extension columns, and design [[layouts|layouts]] that present rich, multi-column picklist data.
+Learn how to display a picklist extension \(PLE\) on a layout using either the CPQ Admin UI or a CSV upload. Configure foundational picklist fields, map extension columns, and design layouts that present rich, multi-column picklist data.
 
 In this article, we show a simple picklist extension \(PLE\) as it appears to an end user and how to display it in the layout, either by adding it using the admin UI or by uploading a CSV file.
 
@@ -76,7 +76,3 @@ The setup above would result in the following layout:
 
 For your reference, this is the [sample CSV layout in spreadsheet format](https://docs.google.com/spreadsheets/d/1xNHwJ-ROze2xmz1gPCNNhBSCl9pmtMttd9U5zFI-5Ek/edit#gid%3D1182883775).
 
-## Related
-
-- [[fields|Fields]]
-- [[layouts|Layouts]]

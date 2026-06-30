@@ -18,11 +18,11 @@ If you customize an identify multi-probe, you can also configure a multi-sensor 
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
-These multi-sensors pass the data returned by the identity probes to the [[c_DiscoveryIdentifiers|Discovery identifiers]]. The identifiers then search the CMDB for matching CIs. When the identity of a device is resolved, the identifiers pass the result state for the device to the multi-sensors, which react accordingly, either by launching exploration probes or stopping Discovery for that device.
+These multi-sensors pass the data returned by the identity probes to the Discovery identifiers. The identifiers then search the CMDB for matching CIs. When the identity of a device is resolved, the identifiers pass the result state for the device to the multi-sensors, which react accordingly, either by launching exploration probes or stopping Discovery for that device.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ Run a discovery through the [Discovery Schedule](https://raw.githubusercontent.c
 
 **Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryIdentifiers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryIdentifiers|Discovery identifiers]]

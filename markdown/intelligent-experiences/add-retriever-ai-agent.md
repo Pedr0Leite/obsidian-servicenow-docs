@@ -12,7 +12,7 @@ breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents
 
 # Add a search retrieval to an AI agent
 
-Add a search retrieval to an AI agent in [[ai-agent-studio|AI Agent Studio]]. Leveraging the Retrieval-Augmented Generation \(RAG\) enables an AI agent to retrieve and incorporate relevant information from an external source.
+Add a search retrieval to an AI agent in AI Agent Studio. Leveraging the Retrieval-Augmented Generation \(RAG\) enables an AI agent to retrieve and incorporate relevant information from an external source.
 
 ## Before you begin
 
@@ -135,9 +135,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the tool execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the tool execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -180,8 +180,4 @@ Message to display to users during tool execution.-   In-progress message: Write
 
     A search retrieval tool is added in the Search retrievals section on the Add tools and information page.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

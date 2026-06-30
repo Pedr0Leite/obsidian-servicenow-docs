@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Manager, Operational Technology]
 
 # Using the Operational Technology Manager
 
-After you complete all required set up tasks, including installing the [[operational-technology-overview|Operational Technology]] \(OT\) extension classes and assigning user roles, perform the following tasks to create the foundational data and relationships for the ServiceNow® Operational Technology solution.
+After you complete all required set up tasks, including installing the Operational Technology \(OT\) extension classes and assigning user roles, perform the following tasks to create the foundational data and relationships for the ServiceNow® Operational Technology solution.
 
 |Task|Purpose|
 |----|-------|
@@ -24,9 +24,9 @@ After you complete all required set up tasks, including installing the [[operati
 |4. Use the selections on the Operational Technology \(OT\) menu.|Enables editing or viewing detailed information for the OT devices in your enterprise.|
 
 -   **[Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/service-graph-connector-for-OT-excel.md)**  
-The [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]] function enables you to import your existing Operational Technology data from a populated Microsoft Excel flat-file spreadsheet. You use it in the Integration Hub Extract Transform Load \(ETL\) to upload this data to the Configuration Management Database \(CMDB\).
+The Service Graph Connector for Microsoft Excel function enables you to import your existing Operational Technology data from a populated Microsoft Excel flat-file spreadsheet. You use it in the Integration Hub Extract Transform Load \(ETL\) to upload this data to the Configuration Management Database \(CMDB\).
 -   **[Create an Operational Technology device in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/create-ot-ci-industrial-workspace.md)**  
-Create an Operational Technology \(OT\) device in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Create an Operational Technology \(OT\) device in the Industrial Workspace.
 -   **[Edit or view OT devices after import or discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/view-ot-assets.md)**  
 Use the options on the Operational Technology \(OT\) menu to edit or view detailed information for the OT devices in your enterprise.
 -   **[Managing Network Intrusion Detection System appliances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/managing_network_intrusion_detection_system_nids_appliances.md)**  
@@ -44,8 +44,3 @@ View Security Incident Response \(SIR\) tasks related to an Operational Technolo
 
 **Parent Topic:**[Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

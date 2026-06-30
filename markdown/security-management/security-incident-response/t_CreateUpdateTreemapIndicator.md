@@ -14,7 +14,7 @@ breadcrumb: [Security incident treemaps, Security Incident Response Overview das
 
 # Create or update a treemap indicator
 
-You can modify the predefined [[indicator|indicators]] for a treemap category or create new indicators. For each indicator, you can configure its data source and specify how lists of security incidents are opened from treemaps that are viewed with the indicator.
+You can modify the predefined indicators for a treemap category or create new indicators. For each indicator, you can configure its data source and specify how lists of security incidents are opened from treemaps that are viewed with the indicator.
 
 ## Before you begin
 
@@ -178,6 +178,3 @@ Select **Query Condition** from the **Data Source** field, and then make the fol
 
 **Parent Topic:**[Security incident treemaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ConfigureTreemaps.md)
 
-## Related
-
-- [[indicator|Indicators]]

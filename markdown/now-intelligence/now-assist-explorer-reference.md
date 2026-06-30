@@ -14,15 +14,10 @@ breadcrumb: [AI Data Explorer, Now Assist in Platform Analytics, Platform Analyt
 
 Reference topics provide additional information about the roles and tables in AI Data Explorer. They also describe how AI Data Explorer supports domain separation.
 
--   **[[tables-now-assist-explorer|Roles and tables installed with AI Data Explorer]]**  
+-   **[Roles and tables installed with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/tables-now-assist-explorer.md)**  
 Reference information for roles and tables installed when you activate AI Data Explorer. Use this information to understand permissions and metadata storage for explorations.
--   **[[domain-sep-now-assist-explorer|Domain separation support for AI Data Explorer]]**  
+-   **[Domain separation support for AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/domain-sep-now-assist-explorer.md)**  
 Domain separation is supported for AI Data Explorer. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[now-assist-explorer|Use AI to explore data with AI Data Explorer]]
+**Parent Topic:**[Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md)
 
-## Related
-
-- [[tables-now-assist-explorer|Roles and tables installed with AI Data Explorer]]
-- [[domain-sep-now-assist-explorer|Domain separation support for AI Data Explorer]]
-- [[now-assist-explorer|Use AI to explore data with AI Data Explorer]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Manage Journey designer user roles
 
-Manage [[jny-dsgnr-landing-page-1|Journey designer]] users and the roles that they have.
+Manage Journey designer users and the roles that they have.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ As an administrator, you can assign users to roles to enable them to perform tas
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

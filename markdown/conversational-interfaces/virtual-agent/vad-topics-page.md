@@ -15,11 +15,11 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Assistant Designer Asset library
 
-The Assistant Designer Asset library page lists all LLM assets and NLU/Keyword topics in [[virtual-agent-landing-page|Virtual Agent]] Designer. You can also create more topics, subflows, actions, custom skills, AI agents, and agentic workflows.
+The Assistant Designer Asset library page lists all LLM assets and NLU/Keyword topics in Virtual Agent Designer. You can also create more topics, subflows, actions, custom skills, AI agents, and agentic workflows.
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
-To navigate to Assistant Designer Asset library, select **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+To navigate to Assistant Designer Asset library, select **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 \[Omitted image "convo-studio-list-view.png"\] Alt text: Assistant Designer Asset library page with 4 highlighted sections. For more information, see the Options in the Asset library table.
 
@@ -37,7 +37,7 @@ Fields and descriptions
 
 </td><td>
 
-Header bar for navigation and [[assistant-designer|Assistant Designer]] settings.-   **Assistants**: Select this tab to view and create [[llm-assistants|LLM assistants]].
+Header bar for navigation and Assistant Designer settings.-   **Assistants**: Select this tab to view and create LLM assistants.
 -   **Asset library**: Select this tab while viewing a topic in the Virtual Agent Designer canvas to return to the Virtual Agent Asset library page.
 -   **Analytics**: Select this tab to view the Virtual Agent Analytics page.
 -   Topic tabs: Shows any open LLM assets and NLU/Keyword topics as navigation tabs. Hover over a tab to show its type and scope. Select the tab to view that asset or topic. Select the close icon \[Omitted image "gray-x-icon.png"\] Alt text: Close icon. on a tab to close it.
@@ -67,7 +67,7 @@ Controls for filtering, managing, testing, creating, and deleting Virtual Agent 
 
         -   **Test Assistant**: Opens the testing window for the topics that are associated with the assistant you selected.
 
-You can use three testing options: [[nava-standard-chat|Standard Chat]], [[nava-enhanced-chat|Enhanced Chat]], or [[nava-integrated-chat|Premium chat]].  If you configured either Enhanced Chat or Premium Chat for your instance, you can use that test option.  If you configured both Enhanced and Premium chat, you can choose between the two.  If you configured Standard Chat, you can choose from all three options.
+You can use three testing options: Standard Chat, Enhanced Chat, or Premium chat.  If you configured either Enhanced Chat or Premium Chat for your instance, you can use that test option.  If you configured both Enhanced and Premium chat, you can choose between the two.  If you configured Standard Chat, you can choose from all three options.
 
 You can see which chat experiences an assistant has by checking **Display experiences** under the assistant's **Settings** tab. For more information on assistants and testing options, see [Testing assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/testing-enhanced-chat-conversations.md) and [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md).
 
@@ -145,13 +145,3 @@ Collapsible panel showing recently opened topics and helpful resources. Select t
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]
-- [[llm-assistants|LLM assistants]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-integrated-chat|Premium chat]]

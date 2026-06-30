@@ -34,7 +34,7 @@ Search field used to find a skill using a skill name or keyword. [Search and add
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[mentoring-egd-overview|Mentoring]] focus areas
+Mentoring focus areas
 
 </td></tr><tr><td>
 
@@ -123,7 +123,3 @@ Option to select preferred languages.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mentoring-egd-overview|Mentoring]]

@@ -14,7 +14,7 @@ breadcrumb: [Submit request using external-facing PDR form, Use, Personal Data R
 
 # External-facing PDR form fields
 
-Use the field descriptions as reference when you fill the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form.
+Use the field descriptions as reference when you fill the external-facing Personal Data Rights \(PDR\) form.
 
 ## Form fields on self-submission
 
@@ -40,7 +40,7 @@ Indicator of who is filing the request. Select **Self** to submit a request for 
 
 </td><td>
 
-Relationship of the requester to the organization, such as employee, vendor, or customer. The available options depend on the location selected.**Note:** The field denotes the [[data-subjects|data subject types]] that are configured for the selected location.
+Relationship of the requester to the organization, such as employee, vendor, or customer. The available options depend on the location selected.**Note:** The field denotes the data subject types that are configured for the selected location.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,3 @@ First name, last name, and email address of the requester. The email address is 
 
 **Parent Topic:**[Submit a privacy request using the external-facing PDR form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/submit-privacy-request-external-pdr.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[data-subjects|Data subject types]]

@@ -15,7 +15,7 @@ breadcrumb: [Recommend invoice owner AI agent, Using AI agents in Now Assist for
 
 # Resolution plan scenarios
 
-Reference information for the resolution plan scenarios recommended by the [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]] based on historical invoice data and [[supplier|supplier]] information.
+Reference information for the resolution plan scenarios recommended by the Recommend invoice owner AI agent based on historical invoice data and supplier information.
 
 For information on using the Recommend invoice owner AI agent, see [Use Recommend invoice owner AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-recommend-invoice-owner-ai-agent.md).
 
@@ -37,11 +37,11 @@ Resolution plan
 
 </td><td>
 
-No historically processed [[invoices|invoices]] exist in the system
+No historically processed invoices exist in the system
 
 </td><td>
 
-The Recommend invoice owner AI agent suggests reaching out to the existing [[supplier-contact|supplier contact]]. If the accounts payable specialist opts to reach out to supplier contact, a task is created and assigned to the supplier contact.
+The Recommend invoice owner AI agent suggests reaching out to the existing supplier contact. If the accounts payable specialist opts to reach out to supplier contact, a task is created and assigned to the supplier contact.
 
 </td></tr><tr><td>
 
@@ -78,10 +78,3 @@ The Recommend invoice owner AI agent uses the score calculated by the [Relevant 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[supplier-contact|Supplier contact]]

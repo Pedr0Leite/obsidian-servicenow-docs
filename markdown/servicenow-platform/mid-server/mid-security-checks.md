@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server certificate check policies
 
-[[mid-server-landing|MID Server]] uses four kinds of security checks to secure external traffic. The security checks use TLS/SSL certificate validation, hostname validation, Certificate Revocation List \(CRL\), and Online Certificate Status Protocol \(OCSP\) validation to improve security. Control these security checks with the MID Server certificate check policies table.
+MID Server uses four kinds of security checks to secure external traffic. The security checks use TLS/SSL certificate validation, hostname validation, Certificate Revocation List \(CRL\), and Online Certificate Status Protocol \(OCSP\) validation to improve security. Control these security checks with the MID Server certificate check policies table.
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
@@ -25,7 +25,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 TLS/SSL encryption security uses asymmetric encryption, also called public-key encryption. This encryption uses two cryptographic keys: the public key and the private key. The public key is used for encryption of data and is publicly visible. The private key is used for decryption of data and its security is essential to verifying authenticity.
 
-In TLS/SSL certificate validation, the MID Server attempts to [[c_Connect|connect]] to a web server secured with a TLS or SSL certificate. The web server sends a copy of its TLS/SSL certificate to the MID Server. The MID Server checks the authenticity of the certificate and sends a message to the webserver. The webserver responds with a digitally signed acceptance for initiating an TLS/SSL encrypted session. After which the MID Server can begin encrypted communication with the web server.
+In TLS/SSL certificate validation, the MID Server attempts to connect to a web server secured with a TLS or SSL certificate. The web server sends a copy of its TLS/SSL certificate to the MID Server. The MID Server checks the authenticity of the certificate and sends a message to the webserver. The webserver responds with a digitally signed acceptance for initiating an TLS/SSL encrypted session. After which the MID Server can begin encrypted communication with the web server.
 
 ## Hostname validation
 
@@ -138,7 +138,3 @@ Self-hosted or on-prem instances must add the following parameter for the **conf
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Resource form
 
-Use the resource form to create an operational [[c_ResourcePlans|resource plans]].
+Use the resource form to create an operational resource plans.
 
 <table id="table_OperationalResourcePlanFieldFormDescriptions"><thead><tr><th>
 
@@ -111,7 +111,7 @@ Actual hours
 
 </td><td>
 
-Hours spent on a planned operational task.**Note:** When you [[submit-time-card|submit a time card]], upon approval of the time card, actual hours are updated for an allocation record of an operational resource plan.
+Hours spent on a planned operational task.**Note:** When you submit a time card, upon approval of the time card, actual hours are updated for an allocation record of an operational resource plan.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Allocation spread
 
 </td><td>
 
-Type of allocation spread. The value in this field determines the manner in which the allocated hours are spread while creating hard allocations:-   **Even**: Creates [[c_ResourceEvents|resource events]] for the resource by splitting the hours evenly across all the working days for the allocation duration.
+Type of allocation spread. The value in this field determines the manner in which the allocated hours are spread while creating hard allocations:-   **Even**: Creates resource events for the resource by splitting the hours evenly across all the working days for the allocation duration.
 -   **Front Load**: Creates resource events for the resource by filling up all the available slots of the resource from the start date of the allocation.
 
  For example, if a resource is requested for 30 hours in week 10, then:
@@ -269,8 +269,3 @@ List of [resources allocated](https://raw.githubusercontent.com/ServiceNow/Servi
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[submit-time-card|Submit a time card]]
-- [[c_ResourceEvents|Resource events]]

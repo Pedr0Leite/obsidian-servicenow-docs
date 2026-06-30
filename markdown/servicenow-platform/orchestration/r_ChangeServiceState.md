@@ -22,7 +22,7 @@ This activity replaces a Powershell activity by the same name available in relea
 
 |Variable|Description|
 |--------|-----------|
-|hostname|Hostname or [[ip-address|IP address]] of the target Windows machine on which the service is installed. Use the Resolve DNS activity to resolve hostnames into IP addresses.|
+|hostname|Hostname or IP address of the target Windows machine on which the service is installed. Use the Resolve DNS activity to resolve hostnames into IP addresses.|
 |service|Name of the Windows service to start or stop. The **service** parameter is the service name, not the display name of the service affected.|
 |state|There are two actions to select for a service state change: **StartService** or **StopService**.|
 
@@ -41,6 +41,3 @@ This activity replaces a Powershell activity by the same name available in relea
 
 **Parent Topic:**[PowerShell activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPwrshellActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

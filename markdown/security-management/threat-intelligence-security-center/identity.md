@@ -14,17 +14,12 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Identity
 
-[[threat-intelligence-identities|Identities]] represent actual individuals, organizations or groups, and classes of individuals, systems, or groups. Identities apply for STIX 2.x.
+Identities represent actual individuals, organizations or groups, and classes of individuals, systems, or groups. Identities apply for STIX 2.x.
 
-An Identity SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and [[threat-actor|threat actor]] identities.
+An Identity SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and threat actor identities.
 
 -   **[Define identities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-identity.md)**  
-[[define-identities|Define identities]] who represent actual individuals, organizations, or groups.
+Define identities who represent actual individuals, organizations, or groups.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-intelligence-identities|Identities]]
-- [[threat-actor|Threat Actor]]
-- [[define-identities|Define identities]]

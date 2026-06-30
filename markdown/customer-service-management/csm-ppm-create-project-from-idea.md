@@ -20,7 +20,7 @@ Role required: customer project manager \(it\_project\_manager + sn\_customerser
 
 ## About this task
 
-The Idea Portal provides a central location to collect, curate, and promote ideas into demand, project, epic, or story. With the [[c_CustomerServiceManagement|Customer Service Management]] integration with Project Portfolio Management, you can also create a customer project from an idea. For more information, see [Idea Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/idea-portal.md).
+The Idea Portal provides a central location to collect, curate, and promote ideas into demand, project, epic, or story. With the Customer Service Management integration with Project Portfolio Management, you can also create a customer project from an idea. For more information, see [Idea Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/idea-portal.md).
 
 ## Procedure
 
@@ -36,6 +36,4 @@ The Idea Portal provides a central location to collect, curate, and promote idea
 
     The system creates the project and displays the project number in an information message at the top of the Idea pop-up window. On the Customer Project form, the idea record is added to the Ideas related list.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

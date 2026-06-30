@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Create and assign project tasks from Project Workspace
 
-Add new tasks for your projects and assign them to your team directly from the new [[project-workspace-landing-page|Project Workspace]].
+Add new tasks for your projects and assign them to your team directly from the new Project Workspace.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Role required: it\_project\_manager
 
     For notifications to work, your admin must enable them by setting the **Project task assigned to** notification record as **true** in Email Notifications and Provider Notifications.
 
-    Team members can access [[t_CreateAProjectTask|project tasks]] assigned to them from [[cwm-landing|Collaborative Work Management]] workspace. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
+    Team members can access project tasks assigned to them from Collaborative Work Management workspace. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
 
 
 ## What to do next
@@ -59,8 +59,3 @@ Update the details of existing tasks from the planning page of the Project Works
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[cwm-landing|Collaborative Work Management]]

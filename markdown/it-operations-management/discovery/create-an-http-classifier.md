@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Create an HTTP classification
 
-An HTTP classifier enables the horizontal [[r-discovery|discovery]] process to find devices via the HTTP protocol.
+An HTTP classifier enables the horizontal discovery process to find devices via the HTTP protocol.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ By default, the [F5 HTTP classifier](https://raw.githubusercontent.com/ServiceNo
 Of all protocols that Discovery uses \(including WMI, SSH, and SNMP\), HTTP is the lowest priority by default. Discovery uses HTTP classification only if:
 
 -   Shazzam determines that the ports for HTTP \(80\) and HTTPS \(443\) traffic are open.
--   The horizontal discovery process fails for the higher priority [[r_PortProbes|port probes]] \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
+-   The horizontal discovery process fails for the higher priority port probes \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
 
     **Note:** See [Port Probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
 
@@ -180,7 +180,4 @@ Enter the value that the body of the returned REST method must have.
 
     4.  If there are different patterns for different versions of the device you’re trying to discover, define as many HTTP Classification Matches as necessary.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

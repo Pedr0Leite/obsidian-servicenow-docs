@@ -15,15 +15,15 @@ breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery,
 
 # Assign Discovery admins
 
-Assign the [[r-discovery|discovery]]\_admin role to users who will be in charge of Discovery configuration and operational control.
+Assign the discovery\_admin role to users who will be in charge of Discovery configuration and operational control.
 
 ## Before you begin
 
 Verify the following:
 
 -   You're using the Zurich Patch 8 or later version of the ServiceNow AI Platform.
--   You have installed the [[itom-visibility-landing-page|ITOM Visibility]] plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
--   You have installed the Now Assist for [[r_ITOMApplications|IT Operations Management]] plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
+-   You have installed the ITOM Visibility plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
+-   You have installed the Now Assist for IT Operations Management plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
 -   You're on the Configure IT Operations Management page of the Configuration Console. For more information, see [Access the ITOM Configuration Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/access-itom-config-console-disco.md).
 
 Role required: admin
@@ -50,8 +50,4 @@ The discovery\_admin role provides users with the necessary permissions to confi
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r_ITOMApplications|IT Operations Management]]

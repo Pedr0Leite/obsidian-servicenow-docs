@@ -14,15 +14,10 @@ breadcrumb: [SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
 
 Reference information to provide additional details about Enterprise-Wide Deployment such as the fields, user roles, tables, scheduled jobs, and system properties information.
 
--   **[[components-installed-with-ewd|Components installed with Enterprise-Wide Deployment]]**  
+-   **[Components installed with Enterprise-Wide Deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/components-installed-with-ewd.md)**  
 Several types of components are installed with installation of the Enterprise-Wide Deployment application, such as user roles, tables, and scheduled jobs.
--   **[[supported-tables-for-partition-ewd|Supported tables for partition]]**  
+-   **[Supported tables for partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/supported-tables-for-partition-ewd.md)**  
 Several tables are supported for partition using Enterprise-Wide Deployment, including direct and indirect related tables for each entity.
 
-**Parent Topic:**[[ewd-landing-page|SPM Enterprise-Wide Deployment]]
+**Parent Topic:**[SPM Enterprise-Wide Deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ewd-landing-page.md)
 
-## Related
-
-- [[components-installed-with-ewd|Components installed with Enterprise-Wide Deployment]]
-- [[supported-tables-for-partition-ewd|Supported tables for partition]]
-- [[ewd-landing-page|SPM Enterprise-Wide Deployment]]

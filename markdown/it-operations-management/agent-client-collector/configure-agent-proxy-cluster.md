@@ -30,7 +30,7 @@ The default CPU threshold value when working with proxy agent clusters is 80%. Y
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Proxy Agent Cluster**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Proxy Agent Cluster**.
 
 2.  Select **New**.
 
@@ -59,6 +59,3 @@ Select this proxy cluster to monitor CIs specified in an agent policy. For detai
 
 **Parent Topic:**[Using proxy agents in Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/proxy-agent.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

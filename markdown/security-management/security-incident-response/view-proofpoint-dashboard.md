@@ -26,7 +26,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select **SIR Dashboards**.
 
@@ -44,6 +44,4 @@ Role required: sn\_si\_admin
 
     2.  View the details of a top clicker by selecting the user name.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

@@ -14,17 +14,17 @@ breadcrumb: [Problem Management, IT Service Management]
 
 # Exploring Problem Management
 
-[[c_ProblemManagement|Problem Management]] supports the ITIL process used to find and fix the root cause of issues that result in incidents. You can record problems, associate incidents, and assign them to the appropriate groups. You can document and communicate known errors and initiate actions to resolve the situation.
+Problem Management supports the ITIL process used to find and fix the root cause of issues that result in incidents. You can record problems, associate incidents, and assign them to the appropriate groups. You can document and communicate known errors and initiate actions to resolve the situation.
 
 Problem Management is responsible for managing the life cycle of all problems and preventing problems and resulting incidents from happening. It also aims to eliminate recurring incidents and minimize the impact of incidents that can’t be prevented. Resolving a problem includes the activities required to diagnose the root cause of incidents and determine the resolution for the problem. Problem resolution and elimination of the root cause often calls for applying a change to the configuration item in the existing IT environment.
 
-Problem Management also maintains information about problems and the appropriate workarounds and resolutions, enabling an organization to reduce the number and impact of incidents over time. Problem Management interfaces with Knowledge Management, which is used to document known error articles thoroughly for future [[reference-for-itsm-mobile-agent|reference]].
+Problem Management also maintains information about problems and the appropriate workarounds and resolutions, enabling an organization to reduce the number and impact of incidents over time. Problem Management interfaces with Knowledge Management, which is used to document known error articles thoroughly for future reference.
 
 ## Problem Management workflow
 
 The Problem Management workflow includes the following:
 
-1.  Problem Creation: You can [[create-a-problem-v2|create a problem]] to identify and permanently fix the underlying root cause when:
+1.  Problem Creation: You can create a problem to identify and permanently fix the underlying root cause when:
     -   You've resolved a major incident.
     -   You have recurring incidents.
 2.  Assign the problem: You can now assign the problem to be assessed.
@@ -41,8 +41,8 @@ The Problem Management workflow includes the following:
     -   If there's no permanent fix for the problem, or you don't have the sufficient budget to fix the problem at this time, accept the risk that it can't be fixed at this time. The problem enters the Closed state. It's a good idea to review risk-accepted problems periodically.
 5.  Communicate the outcome of the problem:
     -   After you identify the fix or workaround of the problem, update the workaround or fix for the problem. Communicate updates to the related incidents.
-    -   If the problem is a known error, [[create-known-error-from-problem|create a known error article]] that is primarily available to help others find information and deflect additional incidents. The known error article can also be referred to by agents who are facing similar problems and incidents.
-6.  Fix the underlying root cause if possible. If you can fix the root cause, [[t_CreateAChange|create a change request]] and assign it to the relevant team. When the change request is completed, resolve the problem. If no new incidents come in, close the problem.
+    -   If the problem is a known error, create a known error article that is primarily available to help others find information and deflect additional incidents. The known error article can also be referred to by agents who are facing similar problems and incidents.
+6.  Fix the underlying root cause if possible. If you can fix the root cause, create a change request and assign it to the relevant team. When the change request is completed, resolve the problem. If no new incidents come in, close the problem.
 7.  Reanalyze the problem if it resurfaces. If you're the problem manager and you're not satisfied with the analysis after resolving or closing the problem, or the problem resurfaces, you can decide to reanalyze the problem. The problem is reopened and the state is changed to  Root Cause Analysis.
 
 ## Problem Management benefits
@@ -73,7 +73,7 @@ Agent and Problem write users
 
 </td></tr><tr><td>
 
-[[add-multiple-incidents-to-problem|Add multiple incidents to a problem]] to avoid creating multiple problems for incidents that have the same issue.
+Add multiple incidents to a problem to avoid creating multiple problems for incidents that have the same issue.
 
 </td><td>
 
@@ -85,7 +85,7 @@ Agent
 
 </td></tr><tr><td>
 
-[[create-problem-task|Create a problem task]] to initiate the root cause analysis.
+Create a problem task to initiate the root cause analysis.
 
 </td><td>
 
@@ -153,17 +153,7 @@ If the UI16 module link redirection feature is enabled in Service Operations Wor
 -   **[Problem Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagementProcess.md)**  
 Within the platform, problems are handled using the task record system. Each problem is generated as a task record through various means, and is populated with the pertinent information. These tasks are assigned to Problem Management team members to resolve and then close.
 -   **[Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md)**  
-You can use [[problem-mgmt-models|Problem Management models]] to tailor processes for specific use cases.
+You can use Problem Management models to tailor processes for specific use cases.
 
 **Parent Topic:**[Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagement.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[create-a-problem-v2|Create a problem]]
-- [[create-known-error-from-problem|Create a known error article]]
-- [[t_CreateAChange|Create a change request]]
-- [[add-multiple-incidents-to-problem|Add multiple incidents to a problem]]
-- [[create-problem-task|Create a problem task]]
-- [[problem-mgmt-models|Problem Management models]]

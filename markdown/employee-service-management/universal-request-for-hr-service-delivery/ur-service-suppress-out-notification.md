@@ -14,7 +14,7 @@ breadcrumb: [Email notification preferences for your service, Unified ticket exp
 
 # Suppress outbound notification for services leveraging Universal Request
 
-You can configure outbound email notifications to define the emails a requester must receive when a [[ur-landing-limitedaccess|universal request]] is created. For example, if your service \(department\) ticket is associated with a universal request, you can customize the notifications to send only the emails that are relevant to the requester.
+You can configure outbound email notifications to define the emails a requester must receive when a universal request is created. For example, if your service \(department\) ticket is associated with a universal request, you can customize the notifications to send only the emails that are relevant to the requester.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Service emails, such as, service ticket creation, notes or state changes, can be
 
 **Parent Topic:**[Email notification preferences for your service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-customize-email-notifcations.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -31,7 +31,7 @@ The following items are installed with Operational Sustainability Integration wi
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
 ## Procedure
 
@@ -56,9 +56,5 @@ For more information, see [[components-installed-with-esg|Components installed w
 6.  Select **Install**.
 
 
-**Parent Topic:**[[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-esg-management-with-urjanet.md)
 
-## Related
-
-- [[components-installed-with-esg|components installed with esg]]
-- [[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]

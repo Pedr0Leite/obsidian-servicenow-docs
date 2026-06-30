@@ -14,7 +14,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 Create and edit application menus and modules directly in the Platform All menu.
 
-Next Experience All Menu Editing is a simplified configuration interface within the Next Experience that enables you to create and manage application menus, navigation modules, and page layouts directly in context. Instead of navigating to UI16 platform records, you can [[configure-onboarding-modals|configure]] navigation structure, [[lists-configurable-workspace|lists]], [[form-configurable-workspace|forms]], and actions inline with real-time visual feedback.
+Next Experience All Menu Editing is a simplified configuration interface within the Next Experience that enables you to create and manage application menus, navigation modules, and page layouts directly in context. Instead of navigating to UI16 platform records, you can configure navigation structure, lists, forms, and actions inline with real-time visual feedback.
 
 Use Next Experience All Menu Editing to:
 
@@ -43,10 +43,10 @@ When you select a module, the editor panel updates to show the page preview with
 
 These modules can be created, configured, and edited directly within Next Experience All Menu Editing:
 
--   [[next-experience-dashboard-module|Dashboard module]]
--   [[next-experience-list-module|List module]]
--   [[next-experience-new-record-module|New record module]]
--   [[next-experience-single-record-module|Single record module]]
+-   [Dashboard module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-dashboard-module.md)
+-   [List module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-list-module.md)
+-   [New record module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-new-record-module.md)
+-   [Single record module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-single-record-module.md)
 
 ## Classic modules
 
@@ -68,7 +68,7 @@ These modules can be added to an All menu but must be edited using the classic U
 
 Use folders and line separators to create a clear, navigable structure that improves user productivity. Well-organized menus help you find what they need faster by grouping related functionality and visually separating distinct areas of your application.\[Omitted image "neame-folder-line-sep.png"\] Alt text: Next Experience All Menu editor with a line separator and folder in the content tree panel.
 
--   **[[next-experience-create-menu-application|Create a Next Experience Menu Application]]**  
+-   **[Create a Next Experience Menu Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-create-menu-application.md)**  
 Create and configure application menus and modules directly within the All menu.
 -   **[Create a Dashboard Module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-dashboard-module.md)**  
 Create custom dashboards for the All menu using the Next Experience All Menu Editor.
@@ -79,16 +79,5 @@ Create custom New Record form for the All menu using the Next Experience All Men
 -   **[Create a Single Record Module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-single-record-module.md)**  
 Create custom Single Record form for the All menu using the Next Experience All Menu Editing.
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-dashboard-module|Create a Dashboard Module]]
-- [[next-experience-list-module|Create a List Module]]
-- [[next-experience-new-record-module|Create a New Record module]]
-- [[next-experience-single-record-module|Create a Single Record Module]]
-- [[next-experience-create-menu-application|Create a Next Experience Menu Application]]
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

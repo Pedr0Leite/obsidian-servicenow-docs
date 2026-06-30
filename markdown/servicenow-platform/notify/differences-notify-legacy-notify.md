@@ -14,7 +14,7 @@ breadcrumb: [Activate Notify, Configuring Notify, Notify, Manage service capabil
 
 # Differences between Notify and Legacy Notify
 
-Describes the differences between the [[notify-landing-page|Notify]] and Legacy Notify applications, including architecture, workflows, Twilio support, and task-initiated conference calls.
+Describes the differences between the Notify and Legacy Notify applications, including architecture, workflows, Twilio support, and task-initiated conference calls.
 
 |Legacy Notify \(com.snc.notifynow\)|Notify \(com.snc.notify\)|
 |-----------------------------------|-------------------------|
@@ -26,6 +26,3 @@ Describes the differences between the [[notify-landing-page|Notify]] and Legacy 
 
 **Parent Topic:**[Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

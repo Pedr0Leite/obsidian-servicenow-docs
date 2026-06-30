@@ -20,7 +20,7 @@ Role required: `sn_telecom_c360.admin`
 
 ## About this task
 
-Use the guided setup option to review the default configuration for the [[c360-land-page|Telecommunications Customer 360]] view, and make changes if required. You can skip individual tasks if no changes are needed, but all three tasks must be marked complete before the setup is finished.
+Use the guided setup option to review the default configuration for the Telecommunications Customer 360 view, and make changes if required. You can skip individual tasks if no changes are needed, but all three tasks must be marked complete before the setup is finished.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Use the guided setup option to review the default configuration for the [[c360-l
     The following cards are included with the base system:
 
     -   Insights
-    -   [[c360-contact-card|Contact card]]
+    -   Contact card
     -   Interaction history
     -   Data visualization group
     -   Billing
@@ -73,17 +73,10 @@ Use the guided setup option to review the default configuration for the [[c360-l
 
 ## Result
 
-After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [[c360-home-page|Telecommunications Customer 360 home page]] for details.
+After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md) for details.
 
--   **[[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]**  
+-   **[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md)**  
 Configure the properties for each card, such as data tables, query conditions, and display fields.
 
-**Parent Topic:**[[c360-configure|Configure Telecommunications Customer 360]]
+**Parent Topic:**[Configure Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure.md)
 
-## Related
-
-- [[c360-home-page|Telecommunications Customer 360 home page]]
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-configure|Configure Telecommunications Customer 360]]
-- [[c360-land-page|Telecommunications Customer 360]]
-- [[c360-contact-card|Contact card]]

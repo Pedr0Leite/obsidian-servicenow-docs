@@ -16,7 +16,7 @@ Form annotations are additional pieces of information on a form, such as a line 
 
 Form annotations are enabled by default in the base system. To disable them, set the `glide.ui.form_annotations` system property to false.
 
-**Parent Topic:**[[form-administration|Administering forms on the ServiceNow AI Platform]]
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
 ## Support multiple languages for a form annotation
 
@@ -44,7 +44,7 @@ To support multiple languages, use [message records](https://raw.githubuserconte
 
 5.  In the **Message** field, enter the translated annotation text.
 
-6.  Edit the form annotation and [[reference-email-admin|reference]] the message key with a gs.getMessage call.
+6.  Edit the form annotation and reference the message key with a gs.getMessage call.
 
     For example, if the message key is **Message key text**, enter`${gs.getMessage("Message key text")}` in the form annotation.
 
@@ -65,7 +65,4 @@ Role required: admin
 
 3.  Click **New** to add a type.
 
-## Related
 
-- [[form-administration|Administering forms on the ServiceNow AI Platform]]
-- [[reference-email-admin|Reference]]

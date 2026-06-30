@@ -14,7 +14,7 @@ breadcrumb: [Potential Relationships, TISC Library Repository, Threat Intelligen
 
 # Confirm object-object potential relationships
 
-Define the [[potential-relationships|potential relationships]] between the objects.
+Define the potential relationships between the objects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -32,7 +32,7 @@ Role required: sn\_sec\_tisc.analyst
 
 5.  Click **Confirm Relation**.
 
-    A Potential relationship record is ideally created which is identified based on its correlation rules. Once you confirm the relationship from this section, then the [[c_Observables|observables]] record will move to the [[stix-relationships|Relationships]] section which means that the relation between the observables to observables is confirmed. The record shows a confirmed relation only when the correlation rules are matched. For example, a potential relationship can be created when two observables of type URLs has the same domain name.
+    A Potential relationship record is ideally created which is identified based on its correlation rules. Once you confirm the relationship from this section, then the observables record will move to the Relationships section which means that the relation between the observables to observables is confirmed. The record shows a confirmed relation only when the correlation rules are matched. For example, a potential relationship can be created when two observables of type URLs has the same domain name.
 
     Alternatively, you can also create new observables record by linking the observables from the list of observables and confirm the relationships from the related records tab of each observable.
 
@@ -53,9 +53,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[Potential Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-## Related
-
-- [[potential-relationships|Potential Relationships]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[stix-relationships|Relationships]]

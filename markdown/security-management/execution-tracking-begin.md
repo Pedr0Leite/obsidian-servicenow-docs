@@ -12,7 +12,7 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 # Execution Tracking - Begin Flow Action
 
-The Execution Tracking - Begin flow action starts the auditing process for a [[security-operations-landing-page|Security Operations]] Integration flow that operates on [[c_Observables|observables]].
+The Execution Tracking - Begin flow action starts the auditing process for a Security Operations Integration flow that operates on observables.
 
 The Execution Tracking - Begin flow action can be used with any flow to begin recording the progress of the flow in an audit.
 
@@ -50,7 +50,7 @@ isImpl
 
 </td><td>
 
-Flag that specifies whether auditing is done for an Integration Capability flow or an Integration Capability implementation flow. Possible values are: -   false - denotes auditing on an abstract Integration Capability flow such as [[indicator-sightings|Sightings]] Search. \(default.\)
+Flag that specifies whether auditing is done for an Integration Capability flow or an Integration Capability implementation flow. Possible values are: -   false - denotes auditing on an abstract Integration Capability flow such as Sightings Search. \(default.\)
 -   true - denotes auditing on an Integration Capability implementation flow. For example, Splunk or Elasticsearch.
 
 </td></tr><tr><td>
@@ -102,16 +102,8 @@ The output variables contain data that can be used in subsequent actions.
 |--------|-----------|
 |capabilityExecutionId|System identifier of the audit record.|
 
--   [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
--   [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
-- [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]

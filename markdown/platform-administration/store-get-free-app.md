@@ -13,7 +13,7 @@ breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get sta
 
 # Get a free application
 
-Get an app that's available at no additional cost from the [[servicenow-store|ServiceNow Store]] when the app has custom terms and conditions or requires provider approval.
+Get an app that's available at no additional cost from the ServiceNow Store when the app has custom terms and conditions or requires provider approval.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: none
 
 Applications that are available at no additional cost must be procured from the ServiceNow Store before installation in the following scenarios:
 
--   If the application has the "Approval Required" state indicator in the [[application-manager|Application Manager]], it must be requested through the ServiceNow Store.
+-   If the application has the "Approval Required" state indicator in the Application Manager, it must be requested through the ServiceNow Store.
 -   If the application has the "App Terms Not Accepted" state indicator in the Application Manager, it has custom terms and conditions that must be accepted from the ServiceNow Store.
 -   If a new application version has the "App Terms Not Accepted" indicator in the Application Manager, that version has custom terms and conditions that must be accepted from the ServiceNow Store before the application can be updated.
 
@@ -35,7 +35,7 @@ For more information about application state indicators, see [Application state 
 
 1.  Log in to the ServiceNow Store using your Now Support account credentials.
 
-    For more information about accessing isolated federal or regional version of the ServiceNow Store, see [[access-regulated-store|Access the ServiceNow Store for a regulated environment]].
+    For more information about accessing isolated federal or regional version of the ServiceNow Store, see [Access the ServiceNow Store for a regulated environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/access-regulated-store.md).
 
 2.  Find and select the application in the ServiceNow Store to navigate to the listing details.
 
@@ -62,7 +62,7 @@ Confirmation emails for the application and any dependencies that were procured 
 
 If the application isn't available to install from the Application Manager within the expected amount of time, try the following actions.
 
--   Verify that all necessary dependencies have been procured. For more information, see [[versions-dependencies|Evaluating version requirements and dependencies]].
+-   Verify that all necessary dependencies have been procured. For more information, see [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md).
 -   Review application state indicators from application's details in the Application Manager. For more information about what each indicator means, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
 -   If the previous options don't work, contact Now Support for assistance.
 
@@ -71,12 +71,5 @@ If the application isn't available to install from the Application Manager withi
 Install the app on compatible production or non-production instances, based on whether you have a hosted or on-premise instance:
 
 -   If your instance is in a hosted environment, install the app using the Application Manager. For more information, see [Install an application or plugin]().
--   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [[getting-apps-on-prem|Getting apps as an on-premise customer]]
+-   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-on-prem.md)
 
-## Related
-
-- [[access-regulated-store|Access the ServiceNow Store for a regulated environment]]
-- [[versions-dependencies|Evaluating version requirements and dependencies]]
-- [[getting-apps-on-prem|Getting apps as an on-premise customer]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

@@ -27,7 +27,7 @@ Sample code is provided to define an action when an event is triggered. Update t
 
 var {table, record_sys_id} = e.detail.payload; 
 
-// the logic to construct the URL for the [[case-view-web-component|Case View component]]. Add your portal URL here. 
+// the logic to construct the URL for the Case View component. Add your portal URL here. 
 
 const caseViewURL = '/caseview?emb_table='+table+'&emb_recordid='+record_sys_id; 
 
@@ -61,12 +61,7 @@ console.log(errorMessage, errorType);
 
 [Embed the Case list component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-list-component-on-third-party-website.md)
 
-[[component-properties-for-the-case-list|Component properties for the Case list]]
+[Component properties for the Case list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-the-case-list.md)
 
-[[we-case-list-event-handlers|Event handler in the Case list component]]
+[Event handler in the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-list-event-handlers.md)
 
-## Related
-
-- [[component-properties-for-the-case-list|Component properties for the Case list]]
-- [[we-case-list-event-handlers|Event handler in the Case list component]]
-- [[case-view-web-component|Case view component]]

@@ -14,7 +14,7 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require Authentication on Event Management HTTP Processor \[New in Security Center 1.3, Updated in 1.5, and removed in 2.0\]
 
-Learn how to establish secure [[basic-authentication|basic authentication]] for inbound Amazon Simple Notification Service \(SNS\) requests when the Event Management plugin \(**com.glideapp.itom.snac**\) is enabled.
+Learn how to establish secure basic authentication for inbound Amazon Simple Notification Service \(SNS\) requests when the Event Management plugin \(**com.glideapp.itom.snac**\) is enabled.
 
 If the **glide.basicauth.required.evtmgmthttpprocessor** property isn’t set to the recommended value of **true**, and the Event Management plugin \(**com.glideapp.itom.snac**\) is active, then basic authentication is not required for all inbound Amazon Simple Notification Service \(SNS\) requests. This can lead to unauthenticated access to instance data.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -116,8 +116,3 @@ If **glide.basicauth.required.evtmgmthttpprocessor** is not set to the recommend
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

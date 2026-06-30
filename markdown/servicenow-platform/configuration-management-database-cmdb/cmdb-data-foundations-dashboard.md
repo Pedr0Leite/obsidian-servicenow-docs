@@ -302,7 +302,7 @@ The **ITSM Processes** tab contains the following metrics:
 
 -   **Changes Referencing a CI**
 
-    Percentage of change requests with a [[reference|reference]] to CIs versus those change requests without. The complete set includes all change requests created in the last 90 days. Compliant records are those change requests in which the **cmdb\_ci** field is not empty.
+    Percentage of change requests with a reference to CIs versus those change requests without. The complete set includes all change requests created in the last 90 days. Compliant records are those change requests in which the **cmdb\_ci** field is not empty.
 
     The percentage score for the metric is calculated as \(Compliant change requests/Total change requests\) \* 100.
 
@@ -338,6 +338,4 @@ The **ITSM Processes** tab contains the following metrics:
 
     **Note:** Viewing all the data provided by Performance Analytics for this metric \(when drilling down\), requires the additional role of sn\_cmdb\_editor,itil, or sn\_incident\_read. Click the tile to drill down the PA widget for further details, such as the list all those CIs.
 
-## Related
 
-- [[reference|Reference]]

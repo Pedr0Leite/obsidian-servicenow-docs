@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  On the **Work orders** tab, select **New**.
 
@@ -44,6 +44,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     A service event gets created along with condition lines. Depending on the number of attributes created on the asset, an equivalent number of condition lines are generated. Only a single service event gets created per work order task. The technician must log in to begin work on the work order task.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Use Location Filter criteria, Location Filter, Filter cri
 
 # Use Location Filter in MFA Context
 
-Use the [[location-filter|location filter]] criteria created in MFA Context.
+Use the location filter criteria created in MFA Context.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-The following procedure describes on how to create a Location Filter with the countries that you want to configure MFA as a second factor for [[c_Authentication|authentication]] to the [[users|users]] based on the location.
+The following procedure describes on how to create a Location Filter with the countries that you want to configure MFA as a second factor for authentication to the users based on the location.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Auth Policy Context** &gt; **MFA Context**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Context** &gt; **MFA Context**.
 
 2.  Select the **Step-Up MFA Policy** information icon and then select **Open Record** to open the **MFA Context**.
 
@@ -48,14 +48,8 @@ The following procedure describes on how to create a Location Filter with the co
 
 8.  On the Step-Up MFA Policy page, activate the MFA Policy if it’s **Deactivated**.
 
-9.  Select **Update** to update the [[sc-configuration|configuration]].
+9.  Select **Update** to update the configuration.
 
     The users outside the configured country \(Australia\) selecting the instance link, specifying their credential; will be shown with the MFA screen to provide the second factor credentials to log in to the instance.
 
-## Related
 
-- [[location-filter|Location Filter]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[sc-configuration|Configuration]]

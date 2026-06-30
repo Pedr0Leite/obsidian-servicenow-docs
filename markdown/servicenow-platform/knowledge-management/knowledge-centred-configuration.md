@@ -16,7 +16,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 Knowledge-Centered Service \(KCS\) is a method for the creation and continuous improvement of knowledge based on the experience of agents and the patterns observed by knowledge reuse.
 
-ServiceNow [[knowledge-management|Knowledge Management]] is a KCS \(V6\) verified product. As a KCS \(V6\) verified product, Knowledge Management provides features to improve knowledge, such as article quality reviews, in-context knowledge capture, and feedback management.
+ServiceNow Knowledge Management is a KCS \(V6\) verified product. As a KCS \(V6\) verified product, Knowledge Management provides features to improve knowledge, such as article quality reviews, in-context knowledge capture, and feedback management.
 
 Visit the following page on the ServiceNow Community for information about getting started with Knowledge Management and KCS: [Knowledge Management Getting Started](https://www.servicenow.com/community/knowledge-management-articles/knowledge-management-getting-started/ta-p/2533067).
 
@@ -31,6 +31,3 @@ The Knowledge-Centered Service configuration is activated with the Knowledge Man
 
 [Managing KCS article states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/managing-kcs-article-states.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

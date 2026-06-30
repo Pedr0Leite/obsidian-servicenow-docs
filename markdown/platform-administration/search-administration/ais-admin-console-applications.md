@@ -15,7 +15,7 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Search 
 
 # AI Search Admin console Applications page
 
-The AI Search Admin console Applications page is where you monitor all the applications which use [[ia-ai-search|AI Search]], as well as create and adjust AI Search [[clone-configurations-tab|configurations]].
+The AI Search Admin console Applications page is where you monitor all the applications which use AI Search, as well as create and adjust AI Search configurations.
 
 \[Omitted image "ais-admin-02.png"\] Alt text: AI Search Admin console Applications page with 5 callouts highlighted. For a text description, see the table that follows.
 
@@ -58,7 +58,7 @@ Tabs to filter AI Search applications by type:-   All
 
 </td><td>
 
-List of cards for applications with AI Search prebuilt. Select a card to go to the application's [[ai-search-configuration|AI Search configuration]] page.
+List of cards for applications with AI Search prebuilt. Select a card to go to the application's AI Search configuration page.
 
 </td></tr><tr><td>
 
@@ -90,9 +90,9 @@ Frequently asked questions related to AI Search.
 
 When you select an application's card in the Applications page, the application's configuration data appears. In the Configuration view, you can turn AI Search on and off for the application, choose and test search profiles and application configurations before publishing, and publish profiles. Select **Search Profile** or **Search Application Configuration** to view profile summaries. You can also select an individual option from the sidebar or its matching card on the main view to display it in detail.
 
-\[Omitted image "ais-admin-02b.png"\] Alt text: [[ais-admin-console|AI Search Admin console]] Employee Center application configuration summary view. The application's Current Status and Search Profile sections respectively show the AI Search and profile publication status.
+\[Omitted image "ais-admin-02b.png"\] Alt text: AI Search Admin console Employee Center application configuration summary view. The application's Current Status and Search Profile sections respectively show the AI Search and profile publication status.
 
-**Note:** The Applications view varies if you select a Search Profile with [[genius-results-ais|Genius Results]] activated. For more information, see Genius Results in [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md)
+**Note:** The Applications view varies if you select a Search Profile with Genius Results activated. For more information, see Genius Results in [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md)
 
 <table id="table_szg_w5q_1cc"><thead><tr><th>
 
@@ -108,7 +108,7 @@ Home
 
 </td><td>
 
-Navigation bar button to go to [[ais-admin-console-home|AI Search Admin console Home page]].
+Navigation bar button to go to AI Search Admin console Home page.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Shared Configurations
 
 </td><td>
 
-Navigation bar button to go to [[ais-admin-console-shared-configs|AI Search Admin console Shared Configurations page]].
+Navigation bar button to go to AI Search Admin console Shared Configurations page.
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Search Profile
 
 Sidebar tab to view Search Profile summary info:-   Search Sources
 -   Dictionaries
--   [[result-improvement-rules-ais|Result Improvement Rules]]
+-   Result Improvement Rules
 -   Genius Results
 
 </td></tr><tr><td>
@@ -304,7 +304,7 @@ You use Search Sources to make your searchable content available in search exper
 |Link|Button to select a Search Source to add to the list.|
 |Unlink|Button to unlink a Search Source from the list. Select one or more Search Sources from the list before selecting **Unlink**.|
 
-Dictionaries are an optional part of your search profile that guide your searches with [[synonyms-ais|synonyms]], [[stop-words-ais|stop words]], and spell checking options. For more information on synonyms, see [Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md), [Create synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-ais.md), and [Create a synonym dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-dict-ais.md). For more information on stop words, see [Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md), [Create stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-ais.md), and [Create a stop word dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-dict-ais.md).
+Dictionaries are an optional part of your search profile that guide your searches with synonyms, stop words, and spell checking options. For more information on synonyms, see [Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md), [Create synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-ais.md), and [Create a synonym dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-dict-ais.md). For more information on stop words, see [Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md), [Create stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-ais.md), and [Create a stop word dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-dict-ais.md).
 
 \[Omitted image "ais-admin-02e.png"\] Alt text: AI Search Admin console Dictionaries view.
 
@@ -317,7 +317,7 @@ Dictionaries are an optional part of your search profile that guide your searche
 |Link|Button to select a Dictionary to add to the list.|
 |Unlink|Button to unlink a Dictionary from the list. Select one or more Dictionaries from the list before selecting **Unlink**.|
 
-Result improvement rules are an optional part of the search profile that boost, block, or improve search [[hs-results|results]] based on various trigger conditions. For more information, see [Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md) and [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
+Result improvement rules are an optional part of the search profile that boost, block, or improve search results based on various trigger conditions. For more information, see [Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md) and [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
 
 \[Omitted image "ais-admin-02f.png"\] Alt text: AI Search Admin console Result Improvement rules view.
 
@@ -326,7 +326,7 @@ Result improvement rules are an optional part of the search profile that boost, 
 |Refresh list \[Omitted image "refresh-list-icon.png"\] Alt text: Refresh list icon.|Button to refresh list of result improvement rules.|
 |List Actions \[Omitted image "list-actions-icon.png"\] Alt text: List actions icon.|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
 |Show/Hide Filter panel \[Omitted image "filter-panel-icon.png"\] Alt text: Filter panel icon.|Button to open filter conditions panel. Select the clear input icon \(\[Omitted image "icon-clear-input.png"\] Alt text: Clear input icon.\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filter-conditions.md).|
-|New|Button to [[create-result-improve-rule-ais|create a result improvement rule]].|
+|New|Button to create a result improvement rule.|
 |Link|Button to select a result improvement rule to add to the list.|
 |Unlink|Button to unlink a Result improvement rule from the list. Select one or more result improvement rules from the list before selecting **Unlink**.|
 |Mirrored Result Improvement rules \(advanced\)|List of result improvement rules mirrored from another Search Profile. Use the search window to find one or more Result Improvement rule, and select **Save**. For more information, see [Share result improvement rules between search profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/mirror-result-improvement-rules.md).|
@@ -471,17 +471,3 @@ Result-card interfaces are an optional part of your search application configura
 |Link|Button to select a result-card interface to add to the list.|
 |Unlink|Button to unlink a result-card interface from the list. Select one or more Navigation tabs from the list before selecting **Unlink**.|
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[ais-admin-console|AI Search Admin console]]
-- [[genius-results-ais|Genius Results]]
-- [[ais-admin-console-home|AI Search Admin console Home page]]
-- [[ais-admin-console-shared-configs|AI Search Admin console Shared Configurations page]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[synonyms-ais|Synonyms]]
-- [[stop-words-ais|Stop words]]
-- [[hs-results|Results]]
-- [[create-result-improve-rule-ais|Create a result improvement rule]]

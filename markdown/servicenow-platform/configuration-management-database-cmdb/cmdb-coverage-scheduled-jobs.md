@@ -14,17 +14,17 @@ breadcrumb: [Reference, CMDB Coverage, Configuration Management Database \(CMDB\
 
 # CMDB Coverage scheduled jobs
 
-[[cmdb-coverage|CMDB Coverage]] uses scheduled jobs to identify stale and missing data.
+CMDB Coverage uses scheduled jobs to identify stale and missing data.
 
 To view the list of scheduled jobs, enter `sysauto_script.list` in the navigation filter.
 
 ## PopulateBinaryTable
 
-The **PopulateBinaryTable** scheduled job is a one-time initialization job that processes the historical records that existed before the CMDB Coverage was configured. All historical IP addresses \(IPv4 addresses\) are converted into binary format for fast matching. The records are added to the Binary [[ip-address|IP Address]] \[sn\_cmdb\_ip\_cov\_binary\_ip\_address\] table. IPv6 addresses are processed as is.
+The **PopulateBinaryTable** scheduled job is a one-time initialization job that processes the historical records that existed before the CMDB Coverage was configured. All historical IP addresses \(IPv4 addresses\) are converted into binary format for fast matching. The records are added to the Binary IP Address \[sn\_cmdb\_ip\_cov\_binary\_ip\_address\] table. IPv6 addresses are processed as is.
 
 ## InitializeAllocatedIPTable
 
-The **InitializeAllocatedIPTable** scheduled job is another one-time initialization job that runs after the **PopulateBinaryTable** job. This scheduled job performs the following tasks and populates records in the [[cmdb-coverage-initialization|CMDB Coverage Initialization]] Tracker \[sn\_cmdb\_ip\_cov\_init\_tracker\] table:
+The **InitializeAllocatedIPTable** scheduled job is another one-time initialization job that runs after the **PopulateBinaryTable** job. This scheduled job performs the following tasks and populates records in the CMDB Coverage Initialization Tracker \[sn\_cmdb\_ip\_cov\_init\_tracker\] table:
 
 -   Processes the historical records in the Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\] table.
 -   Updates the value of the `ci_match_status` attribute for the records in the Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\] table.
@@ -66,8 +66,3 @@ The **Find missing IPAM ips in discovery** scheduled job compares the IPAM data 
 
 **Parent Topic:**[CMDB Coverage reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-reference.md)
 
-## Related
-
-- [[cmdb-coverage|CMDB Coverage]]
-- [[ip-address|IP Address]]
-- [[cmdb-coverage-initialization|CMDB Coverage initialization]]

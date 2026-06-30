@@ -40,11 +40,11 @@ This error occurs because the plugin was not active and did not load the .jar fi
 
 </td></tr><tr><td>
 
-[[c_SAML2.0WebBrowserSSOProfile|SAML]] does not authenticate [[users|users]] accessing CMS pages.
+SAML does not authenticate users accessing CMS pages.
 
 </td><td>
 
-By default, CMS pages are public and therefore do not require [[c_Authentication|authentication]]. If you want SAML to authenticate CMS pages, change the view\_content.do public page from active=true to active=false.
+By default, CMS pages are public and therefore do not require authentication. If you want SAML to authenticate CMS pages, change the view\_content.do public page from active=true to active=false.
 
 </td></tr><tr><td>
 
@@ -62,14 +62,7 @@ SAML does not redirect users to the appropriate page after authentication.
 
 </td><td>
 
-Determine if the relay state is passed out to the IdP and then passed back during authentication. You can do this with a browser capable of saving HTTP [[c_requestAPI|request]] headers and POST info, such as Chrome with its built-in developer tools, or Firefox with the add-on called HTTPfox. For Internet Explorer, use a third-party application such as Fiddler. The goal is to watch the requests pass from the client \(browser\) to the instance, and from the client to the IdP.
+Determine if the relay state is passed out to the IdP and then passed back during authentication. You can do this with a browser capable of saving HTTP request headers and POST info, such as Chrome with its built-in developer tools, or Firefox with the add-on called HTTPfox. For Internet Explorer, use a third-party application such as Fiddler. The goal is to watch the requests pass from the client \(browser\) to the instance, and from the client to the IdP.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

@@ -34,29 +34,21 @@ The following generative AI skill and agentic workflows are available in Now Ass
 
 |Skill|Description|User|
 |-----|-----------|----|
-|Document Intelligence for Utility Invoices|Streamlines data management by automating the extraction of utility bill data, including consumption, billing dates, amounts, and units of measurement, within the Operational Sustainability Workspace. For more information, refer to [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]].|sn\_esg\_gen\_ai.docintel\_user|
+|Document Intelligence for Utility Invoices|Streamlines data management by automating the extraction of utility bill data, including consumption, billing dates, amounts, and units of measurement, within the Operational Sustainability Workspace. For more information, refer to [Document intelligence for utility invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ai-driven-document-intelligence-for-utility-invoices.md).|sn\_esg\_gen\_ai.docintel\_user|
 
 ## What to explore next
 
 To learn more about configuring and using Now Assist for Operational Sustainability skills, see:
 
--   [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
--   [[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]
+-   [Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md)
+-   [Using Now Assist for Operational Sustainability \(formerly ESG\) skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-now-assist-for-esg-skills.md)
 
 -   **[Document intelligence for utility invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ai-driven-document-intelligence-for-utility-invoices.md)**  
 The AI-driven document intelligence for utility invoices feature is designed to automate metric data collection. It automates the metric data collection by extracting utility bill data such as consumption, billing dates, amounts, and units of measurement within the Operational Sustainability Workspace.
--   **[[supporting-information-for-now-assist-for-esg|Supporting information for Now Assist for Operational Sustainability Management]]**  
+-   **[Supporting information for Now Assist for Operational Sustainability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/supporting-information-for-now-assist-for-esg.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Operational Sustainability application.
--   **[[carbon-calulations-agentic-workflow|Carbon calculations using AI agents]]**  
+-   **[Carbon calculations using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/carbon-calulations-agentic-workflow.md)**  
 Automates the creation of calculated metric definition \(CMD\) records and formulas for Scope 3 carbon emissions categories. Uses AI-powered document analysis and semantic matching to confirm accuracy, reducing manual effort for ESG program managers.
 
-**Parent Topic:**[[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/now-assist-for-esg.md)
 
-## Related
-
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]
-- [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]
-- [[supporting-information-for-now-assist-for-esg|Supporting information for Now Assist for Operational Sustainability Management]]
-- [[carbon-calulations-agentic-workflow|Carbon calculations using AI agents]]
-- [[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]

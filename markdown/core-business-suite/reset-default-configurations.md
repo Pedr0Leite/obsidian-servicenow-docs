@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Reapply the default configurations
 
-If the default configurations aren’t applied for [[cbs-landing|Core Business Suite]] or its business units, reapply the default configurations by running a script.
+If the default configurations aren’t applied for Core Business Suite or its business units, reapply the default configurations by running a script.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ Role required: admin
     After the script completes, the script-completed page displays the execution logs followed by a success message.
 
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

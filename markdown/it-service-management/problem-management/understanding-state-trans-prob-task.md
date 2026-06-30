@@ -18,7 +18,7 @@ A problem task is the smallest unit of work that you should perform to complete 
 
 If a problem coordinator requires help to resolve a problem, the coordinator can create and assign problem tasks to assignment groups or users to complete those activities.
 
-**Note:** The state-based information is available only in new instances starting from the Madrid release. Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Existing users cannot activate the plugin.
+**Note:** The state-based information is available only in new instances starting from the Madrid release. Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Existing users cannot activate the plugin.
 
 By default, you can create the following types of tasks:
 
@@ -29,11 +29,7 @@ By default, you can create the following types of tasks:
 
 **Note:**
 
-You can use [[problem-mgmt-models|Problem Management models]] to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
+You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
 
 **Parent Topic:**[Problem Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagementProcess.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-mgmt-models|Problem Management models]]

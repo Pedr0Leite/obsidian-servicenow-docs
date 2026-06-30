@@ -14,7 +14,7 @@ breadcrumb: [Implement a check timeout threshold, Timeout threshold, Configuring
 
 # Create a new check timeout system property
 
-Create a new [[hs-quota-rules|timeout threshold]] property for a check if the **glide.scan.process\_check.time\_out** system property is not present. Setting of a timeout threshold prevents your instance from running a long check.
+Create a new timeout threshold property for a check if the **glide.scan.process\_check.time\_out** system property is not present. Setting of a timeout threshold prevents your instance from running a long check.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin.
 
     **Note:** The minimum allowed timeout threshold is 5 seconds. If you set the timeout to anything less than 5 seconds, the system still considers it to be 5 seconds. By default, it has been set to 600 seconds.
 
-## Related
 
-- [[hs-quota-rules|Timeout threshold]]

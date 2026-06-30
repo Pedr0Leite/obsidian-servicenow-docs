@@ -14,7 +14,7 @@ breadcrumb: [Defining On-Call Scheduling escalation process, On-Call Scheduling,
 
 # Create a shift template to simplify configuring shifts
 
-You can predefine sets of shift [[settings-mobile|settings]] using shift templates. Shift templates are a subset of group templates.
+You can predefine sets of shift settings using shift templates. Shift templates are a subset of group templates.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: rota\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Administration** &gt; **Group Templates**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Group Templates**.
 
 2.  From the list of group schedule templates, select the template for which you want to create a new shift template.
 
@@ -50,7 +50,3 @@ The template is now available for you to choose when creating or updating a shif
 
 **Parent Topic:**[Defining On-Call Scheduling escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/defining-escalation-process-and-template.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

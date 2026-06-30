@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Create a custom file rule to manually define file sets
 
-Create custom rules to manually define file sets and normalize data not recognized by the SAM API. After you have created custom rules, custom file sets can be discovered with [[sam-file-based-discovery|File Signature Normalization]] and software records can be generated.
+Create custom rules to manually define file sets and normalize data not recognized by the SAM API. After you have created custom rules, custom file sets can be discovered with File Signature Normalization and software records can be generated.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Product
 
 </td><td>
 
-Software product name. The same lookup list provided on the [[sam-software-discovery|Software Discovery]] [[c_Models|Models]] form. You can create a custom product from the lookup list, if desired. **Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] table and the company \[core\_company\] table is not correct, products for that publisher may not be shown.
+Software product name. The same lookup list provided on the Software Discovery Models form. You can create a custom product from the lookup list, if desired. **Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] table and the company \[core\_company\] table is not correct, products for that publisher may not be shown.
 
 </td></tr><tr><td>
 
@@ -128,8 +128,3 @@ The custom rule is added to the Unidentified File Sets list.
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[sam-file-based-discovery|File Signature Normalization]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

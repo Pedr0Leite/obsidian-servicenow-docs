@@ -14,7 +14,7 @@ breadcrumb: [Conversational Interfaces reference, Conversational Interfaces Cons
 
 # Interaction Insights table
 
-User sentiment analysis prepares agents for the tone of incoming conversations. Business rules can be created based on this value and agents can take appropriate actions on the chat, whether it comes from [[virtual-agent-landing-page|Virtual Agent]], another live agent, or from a queue.
+User sentiment analysis prepares agents for the tone of incoming conversations. Business rules can be created based on this value and agents can take appropriate actions on the chat, whether it comes from Virtual Agent, another live agent, or from a queue.
 
 Both synchronous and asynchronous channels support sentiment analysis. Use [Task Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence.md) to set up sentiment analysis.
 
@@ -42,7 +42,7 @@ Sentiment
 
 </td><td>
 
-Shows the sentiment level of the interaction, if sentiment analysis is enabled on the instance. This value can be shown to agents in the [[ci-use-agent-chat|Agent Chat]] interface. Business rules can be created based on this value at handoff \(Virtual Agent to live agent, live agent to live agent, or live agent to queue\). Valid values are as follows:-   Positive
+Shows the sentiment level of the interaction, if sentiment analysis is enabled on the instance. This value can be shown to agents in the Agent Chat interface. Business rules can be created based on this value at handoff \(Virtual Agent to live agent, live agent to live agent, or live agent to queue\). Valid values are as follows:-   Positive
 -   Neutral
 -   Negative
 -   null \(no value assessed\)
@@ -80,10 +80,5 @@ User Type
 Type of user. For example, **Agent**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ci-reference-parent|Conversational Interfaces reference]]
+</table>**Parent Topic:**[Conversational Interfaces reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-reference-parent.md)
 
-## Related
-
-- [[ci-reference-parent|Conversational Interfaces reference]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

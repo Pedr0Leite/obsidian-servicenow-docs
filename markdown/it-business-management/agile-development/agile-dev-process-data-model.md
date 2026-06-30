@@ -14,15 +14,11 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Agile Development process data model
 
-Learn about the relationship between tables that [[agile-landing-page|Agile Development 2.0]] uses to manage the agile process, represent releases, and represent product backlog items to be included in a sprint.
+Learn about the relationship between tables that Agile Development 2.0 uses to manage the agile process, represent releases, and represent product backlog items to be included in a sprint.
 
-The following diagram displays the [[agile-development|Agile Development]] tables as well as their relationships to other tables.
+The following diagram displays the Agile Development tables as well as their relationships to other tables.
 
 \[Omitted image "AgileProcessDataModel.png"\] Alt text: Agile development process relation diagram
 
 **Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

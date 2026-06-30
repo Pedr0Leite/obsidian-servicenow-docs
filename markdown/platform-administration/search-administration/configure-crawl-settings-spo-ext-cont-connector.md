@@ -15,7 +15,7 @@ breadcrumb: [Microsoft SharePoint Online external content connector, Configure, 
 
 # Configure crawl settings for a Microsoft SharePoint Online external content connector
 
-Specify the sites you want your [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]] to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to [[ia-ai-search|AI Search]] for indexing.
+Specify the sites you want your Microsoft SharePoint Online external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ If your Microsoft SharePoint Online connector reaches the content indexing limit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the Microsoft SharePoint Online external content connector whose settings you want to modify.
 
@@ -113,8 +113,3 @@ To retrieve content from your Microsoft SharePoint Online source system using yo
 
 **Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

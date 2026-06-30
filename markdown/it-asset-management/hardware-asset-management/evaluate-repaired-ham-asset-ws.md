@@ -14,7 +14,7 @@ breadcrumb: [Fulfill repair orders manually, Repair order fulfillment in the Har
 
 # Evaluate the repaired asset in the Hardware Asset Workspace
 
-[[evaluate-asset|Evaluate the repaired asset]] and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
+Evaluate the repaired asset and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -87,7 +87,3 @@ Role required: asset
 
 [Cancel a repair order line in the Hardware Asset Workspace]()
 
-## Related
-
-- [[evaluate-asset|Evaluate the repaired asset]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [View the Initiatives and Accelerators catalog, Initiatives and Acce
 
 # Initiatives catalog
 
-This is a complete catalog of [[impact-landing-page|Impact]] initiatives.
+This is a complete catalog of Impact initiatives.
 
 Refer to  for additional information on initiative consumption.
 
@@ -28,12 +28,7 @@ Refer to  for additional information on initiative consumption.
 
 </td><td>
 
-[Preventive Care\[Omitted image "bus-compliance.svg"\] Alt text:A premium, engineer-led diagnostic of instance [[instance-observer-performance|performance]] executed quarterly.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/preventive-care.md)
+[Preventive Care\[Omitted image "bus-compliance.svg"\] Alt text:A premium, engineer-led diagnostic of instance performance executed quarterly.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/preventive-care.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

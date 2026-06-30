@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-If the monitoring app is down, the Zscaler tunnel status is either **51\(SERVICE-DOWN-ERROR\)** or **56\(SYSTEM\_SOCKETS\_EXHAUSTED\_ERROR\)**. When that happens, a [[ccg-remediation|remediation]] check runs, which shuts down and then starts the Zscaler app.
+If the monitoring app is down, the Zscaler tunnel status is either **51\(SERVICE-DOWN-ERROR\)** or **56\(SYSTEM\_SOCKETS\_EXHAUSTED\_ERROR\)**. When that happens, a remediation check runs, which shuts down and then starts the Zscaler app.
 
 By default, the Zscaler monitoring check \(**zscaler-monitoring-check**\) runs automatically every 30 minutes. If you are experiencing problems with your Zscaler app, you may want to run the check more often or immediately. For details, see [Customize the Zscaler monitoring check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-customize-monitoring.md).
 
@@ -41,6 +41,3 @@ By default, the Zscaler monitoring check \(**zscaler-monitoring-check**\) runs a
     -   For details on customizing the amount of time after which the system verifes the Zscaler status, see [Customize the Zscaler remediation wait time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/customize-remediation-wait-time.md).
     -   For details on monitoring Zscaler remediation checks, see [Check Zscaler remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-check-remediation.md).
 
-## Related
-
-- [[ccg-remediation|Remediation]]

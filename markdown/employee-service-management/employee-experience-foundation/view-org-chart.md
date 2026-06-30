@@ -19,7 +19,7 @@ Use the Employee Profile org chart widget to easily browse, search, and navigate
 As an employee, you can do the following:
 
 -   Navigate through a visual employee directory of names and title information.
--   Learn more about an employee and the org structure by navigating to a detailed [[emp-slate-employee-profile|employee profile]].
+-   Learn more about an employee and the org structure by navigating to a detailed employee profile.
 -   View the other managers of the current user in a pop-up.
 -   View direct reports and other reports of a user. The total number of reports is displayed on the user card.
 -   Perform quick actions based on the org chart action group.
@@ -31,7 +31,7 @@ For more information on widget instance options, see [Organization chart in Empl
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -45,7 +45,7 @@ For more information on widget instance options, see [Organization chart in Empl
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -61,8 +61,3 @@ For more information on widget instance options, see [Organization chart in Empl
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

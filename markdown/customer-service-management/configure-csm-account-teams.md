@@ -12,7 +12,7 @@ breadcrumb: [Create customer relationships, Configure accounts and contacts, Cus
 
 # Creating an account team
 
-Create an account team that is made up of both employees and customer contacts who fulfill the jobs or roles for a particular account in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. By defining responsibilities or roles for your team and customer contacts, you confirm that your account team has the functions needed to support customer accounts.
+Create an account team that is made up of both employees and customer contacts who fulfill the jobs or roles for a particular account in the Customer Service Management \(CSM\) application. By defining responsibilities or roles for your team and customer contacts, you confirm that your account team has the functions needed to support customer accounts.
 
 If you have any one of the sn\_crm\_foundation\_admin, sn\_crm\_foundation\_data\_manager, and sn\_crm\_account\_relationship\_data\_manager roles, you can create an account team by using a responsibility definition. By defining the responsibilities that you need for this account team, you create the relationships between the different entities like the accounts, contacts, and more.If you have sn\_crm\_account\_relationship\_viewer or sn\_crm\_foundation\_data\_viewer role, you can view the Account team members table.
 
@@ -27,11 +27,6 @@ After these definitions or roles, are created, the sn\_customerservice\_manager 
 
 The users who have been assigned to this role are displayed in the Account Team Members related list on the Responsibility Definition form. For more information, see the following topics:
 
--   [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
--   [[declarative-resposibility-framework|Configure access through the responsibility access configuration]]
+-   [Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md)
+-   [Configure access through the responsibility access configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/declarative-resposibility-framework.md)
 
-## Related
-
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[declarative-resposibility-framework|Configure access through the responsibility access configuration]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

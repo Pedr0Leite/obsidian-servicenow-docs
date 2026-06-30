@@ -15,13 +15,13 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Email One-time passwords \(OTP\) authentication
 
-[[email|Email]] OTP for AI voice agents sends a one-time numeric code to the caller's email address. The caller retrieves the code from their email and provides it to the agent to verify their [[identity-landing|identity]].
+Email OTP for AI voice agents sends a one-time numeric code to the caller's email address. The caller retrieves the code from their email and provides it to the agent to verify their identity.
 
 ## When to use Email OTP
 
-Email OTP is appropriate for caller verification when the caller has access to their email during the session and SMS delivery is not preferred or available. Email OTP can be configured as a single factor, the first factor in a [[mfa-landing|multi-factor authentication]] flow, or a second factor.
+Email OTP is appropriate for caller verification when the caller has access to their email during the session and SMS delivery is not preferred or available. Email OTP can be configured as a single factor, the first factor in a multi-factor authentication flow, or a second factor.
 
-Email OTP is a medium-assurance factor and is not suitable as the only [[c_Authentication|authentication]] factor for sensitive operations. For those flows, combine Email OTP with a higher-assurance factor such as Okta Verify push notification or a time-based one-time password \(TOTP\). For guidance on combining factors, see [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
+Email OTP is a medium-assurance factor and is not suitable as the only authentication factor for sensitive operations. For those flows, combine Email OTP with a higher-assurance factor such as Okta Verify push notification or a time-based one-time password \(TOTP\). For guidance on combining factors, see [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
 
 ## How Email OTP works
 
@@ -29,7 +29,7 @@ During an AI voice agent session, the platform generates a one-time numeric code
 
 ## Email source configuration
 
-Email OTP determines which email address to send the code to by reading from a [[sc-configuration|configuration]] record in the Email OTP Service Configurations table. Each record specifies a user record location: which table to look in, which column holds the email, and which column links that record back to the user's identity in sys\_user. The table is domain-separated.
+Email OTP determines which email address to send the code to by reading from a configuration record in the Email OTP Service Configurations table. Each record specifies a user record location: which table to look in, which column holds the email, and which column links that record back to the user's identity in sys\_user. The table is domain-separated.
 
 By default, the ServiceNow AI Platform ships an instance-level configuration base system that reads the Email field from the User \(sys\_user\) table, keyed by Sys ID. Administrators can override this by pointing to a different table — for example, a custom contact table or a group table — as long as the table has an email field and a column that references sys\_user. Service profile-specific configurations take precedence over the instance-level default.
 
@@ -48,10 +48,3 @@ Email OTP is available base system on ServiceNow AI Platform. No plugin installa
 
 [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
 
-## Related
-
-- [[email|Email]]
-- [[identity-landing|Identity]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing portal access, Configuring Service Portal, Service Portal,
 
 # Enable e-signature for Service Portal
 
-You can [[configure-onboarding-modals|configure]] e-signature in [[c_ServicePortal|Service Portal]] to require re-authentication from approving users.
+You can configure e-signature in Service Portal to require re-authentication from approving users.
 
 ## Before you begin
 
@@ -83,7 +83,7 @@ Role required: admin
 
     2.  Identify the Service Portal you want to apply the esignature support to and select the Theme.
 
-    3.  In the [[c_RelatedLists|related lists]], select **JS Includes**.
+    3.  In the related lists, select **JS Includes**.
 
     4.  Select **New**.
 
@@ -398,8 +398,3 @@ angular.module('sn.$sp').factory('spAuthModal', function($q, spModal, i18n, $htt
 
 ```
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_RelatedLists|Related lists]]

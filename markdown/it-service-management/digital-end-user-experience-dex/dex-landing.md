@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Digital End-User Experience
 
-ServiceNow® Digital End-User Experience \(DEX\) offers comprehensive monitoring for [[dex-workspace-application-tab|applications]], networks, and [[dex-workspace-devices-tab|devices]], promoting optimal performance across all channels. DEX includes Application and Device Health for monitoring performance and compliance, DEX Content Playbook for facilitating remediation with policies and metrics checks, and Desktop Assistant for integrating ServiceNow functionalities into the daily end-user workflows.
+ServiceNow® Digital End-User Experience \(DEX\) offers comprehensive monitoring for applications, networks, and devices, promoting optimal performance across all channels. DEX includes Application and Device Health for monitoring performance and compliance, DEX Content Playbook for facilitating remediation with policies and metrics checks, and Desktop Assistant for integrating ServiceNow functionalities into the daily end-user workflows.
 
 ## DEX Overview
 
@@ -22,19 +22,19 @@ ServiceNow DEX empowers you as IT professionals with proactive oversight of end-
 
 \[Omitted video\] Description: DEX Overview
 
-DEX Application and Device Health collects and tracks user experience data and [[perf-metrics-mob|performance metrics]], supporting application, user, and device management.
+DEX Application and Device Health collects and tracks user experience data and performance metrics, supporting application, user, and device management.
 
 Desktop Assistant enables employees to troubleshoot issues, receive notifications, and interact with the Virtual Agent. The application provides a convenient access for the employees to monitor local applications, requests, and perform network tests.
 
-The [[dex-self-service|Digital End-user Experience Self-service]] functionality is available through a widget in Desktop Assistant and Employee Center, as well as through the Virtual Agent. You can check device issues, resolve them based on suggested resolutions, and initiate [[device-actions|device actions]] to maintain optimal device performance. With Virtual Agent, you can get answers to your questions quickly and seamlessly, without having to wait on hold or speak to a representative over the phone.
+The Digital End-user Experience Self-service functionality is available through a widget in Desktop Assistant and Employee Center, as well as through the Virtual Agent. You can check device issues, resolve them based on suggested resolutions, and initiate device actions to maintain optimal device performance. With Virtual Agent, you can get answers to your questions quickly and seamlessly, without having to wait on hold or speak to a representative over the phone.
 
 DEX Content Playbook typically includes web or installed application monitoring, user device health monitoring, remediation, as well as diagnostic actions for users to run on their connected devices for troubleshooting.
 
 For a unified monitoring workspace and relevant content \(policies, check definitions, and actions\), refer to Application and Device Health and DEX Content Playbook.
 
-The [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-digital-experience-score.md).
+The Digital Experience Score​ dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-digital-experience-score.md).
 
-[[proactive-engagement-landing-page|Proactive Engagement]] can assist your organization to improve employee productivity and satisfaction by proactively detecting digital experience issues and enabling employees to self-solve on a day-to-day basis.
+Proactive Engagement can assist your organization to improve employee productivity and satisfaction by proactively detecting digital experience issues and enabling employees to self-solve on a day-to-day basis.
 
 ## Get started with DEX
 
@@ -52,7 +52,7 @@ The [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard pr
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about the DEX Workspace administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about the DEX Workspace administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
 </td></tr><tr><td>
 
@@ -67,13 +67,3 @@ The [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard pr
 
 [Contact Now Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-self-service|Digital End-user Experience Self-service]]
-- [[device-actions|Device actions]]
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -14,11 +14,11 @@ breadcrumb: [Administration tasks in Learning Core, Configuring Learning Core, L
 
 # Configure properties for Learning Core
 
-[[oracle-hcm-properties|Configure properties]] for various settings used in [[learning-core_overview|Learning Core]].
+Configure properties for various settings used in Learning Core.
 
 ## Before you begin
 
-Role required: [[exploring-learning-exp|learning]]\_admin
+Role required: learning\_admin
 
 ## Procedure
 
@@ -68,8 +68,3 @@ Specify the number of bytes allowed for runtime values in each step in the flow 
 
 **Parent Topic:**[Administration tasks in Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-administration.md)
 
-## Related
-
-- [[oracle-hcm-properties|Configure properties]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]

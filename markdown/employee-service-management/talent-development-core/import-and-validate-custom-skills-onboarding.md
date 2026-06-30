@@ -14,7 +14,7 @@ breadcrumb: [Skills Workspace, Exploring Skills Foundation, Skills Foundation, G
 
 # Bring in skills through Skills import
 
-Import the skills specific to your organization into your [[skills-intelligence|Skills Foundation]] application through the [[skills-intelligence-workspace|Skills Workspace]].
+Import the skills specific to your organization into your Skills Foundation application through the Skills Workspace.
 
 ## Before you begin
 
@@ -159,7 +159,3 @@ All imported skills are displayed.
 
 In the **Skills in this import** tab, you can check all the imported skills. All the skills will be read only after marking the import as complete.
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[skills-intelligence-workspace|Skills Workspace]]

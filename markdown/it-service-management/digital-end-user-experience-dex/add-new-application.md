@@ -14,7 +14,7 @@ breadcrumb: [Application monitoring setup, Configure, Digital End-User Experienc
 
 # Add an application for monitoring
 
-Add an application to the list of all the [[dex-workspace-application-tab|applications]] that are being monitored. With a comprehensive view of your applications, you can quickly identify and address issues as they arise.
+Add an application to the list of all the applications that are being monitored. With a comprehensive view of your applications, you can quickly identify and address issues as they arise.
 
 ## Before you begin
 
@@ -34,9 +34,9 @@ Role required: sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
-3.  On the [[app-mngmt-card|Application management card]], select **Configure applications**.
+3.  On the Application management card, select **Configure applications**.
 
     The list of monitored applications appears.
 
@@ -57,8 +57,3 @@ The application is added to the list of monitored applications.
 
 **Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-application-monitoring.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[app-mngmt-card|Application management card]]

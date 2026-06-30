@@ -14,11 +14,11 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Making workplace reservations
 
-Make workplace reservations in [[workplace-safety-mgmt-hr|Workplace Core]] when you are ready to return to the office. You can [[reserve-space-for-a-day|reserve a workplace for a day]] or less directly or request a workplace for a specified period. Once a reservation request is approved and confirmed, you are notified about the reservation details.
+Make workplace reservations in Workplace Core when you are ready to return to the office. You can reserve a workplace for a day or less directly or request a workplace for a specified period. Once a reservation request is approved and confirmed, you are notified about the reservation details.
 
 ## Reserving a workplace
 
-As an employee, you can request a workplace reservation [[using-emp-center|using Employee Center]].
+As an employee, you can request a workplace reservation using Employee Center.
 
 When making a reservation, you can choose an available space that you want to access or select an available area. If you have made a reservation for an area, you can work from any available space within that area when you return to the office.
 
@@ -56,8 +56,3 @@ Reserve workplaces for a day on which you want to return to the office by using 
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reserve-space-for-a-day|Reserve a workplace for a day]]
-- [[using-emp-center|Using Employee Center]]

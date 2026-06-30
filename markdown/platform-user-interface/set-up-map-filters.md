@@ -16,13 +16,13 @@ Add a map filter to display filtered map markers. This filter enables you to see
 
 ## Before you begin
 
-A [[configure-map-data-items|map data item]] should be configured before accomplishing this task. The example map data item can work with the example map filter tables below to successfully set up a map filter.
+A [map data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md) should be configured before accomplishing this task. The example map data item can work with the example map filter tables below to successfully set up a map filter.
 
 Role required: admin
 
 ## About this task
 
-Map [[c_Filters|filters]] can be configured using [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]], or scripting. Create a container for your map filters first, [[configure-onboarding-modals|configure]] filter items, and then choose a Map Page for your filter.
+Map filters can be configured using lists and forms, or scripting. Create a container for your map filters first, configure filter items, and then choose a Map Page for your filter.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Map [[c_Filters|filters]] can be configured using [[lists-configurable-workspace
 
 6.  In the **Map filter item** field, double-click the record and click the search icon \(\[Omitted image "QueryIcon.png"\] Alt text: Search icon\).
 
-7.  To [[t_CreateAMapPage|create a Map Page]] filter item, click **New**.
+7.  To create a Map Page filter item, click **New**.
 
 8.  On the form, fill in the fields.
 
@@ -221,7 +221,7 @@ Skip this field.
 
 Continue to the next task to [configure a map filter data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md).
 
-**Parent Topic:**[[create-advanced-map-page|Create an advanced Map Page]]
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
 ## Configure a map filter data mapping
 
@@ -378,7 +378,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System Map Page** &gt; **[[c_MapPages|Map Pages]]**.
+1.  Navigate to **All** &gt; **System Map Page** &gt; **Map Pages**.
 
 2.  Select the Map Page that you want to apply your map filter to.
 
@@ -413,13 +413,4 @@ Role required: admin
 
     Your map filter displays.
 
-## Related
 
-- [[configure-map-data-items|Configure map data items]]
-- [[create-advanced-map-page|Create an advanced Map Page]]
-- [[c_Filters|Filters]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]
-- [[t_CreateAMapPage|Create a map page]]
-- [[c_MapPages|Map pages]]

@@ -17,12 +17,9 @@ breadcrumb: [Enhance employee experience by integrating ServiceNow with Zoom, In
 Initiate a Zoom Team Chat conversation with the requester to resolve the ticket and import the chat as task record comments.
 
 -   **[Start a Zoom Team Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/start-zoom-chat.md)**  
-[[start-zoom-chat|Start a Zoom Team Chat]] with an employee through an open ticket to resolve an incident, request item, and change request.
+Start a Zoom Team Chat with an employee through an open ticket to resolve an incident, request item, and change request.
 -   **[Import Zoom Team Chat messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/import-zoom-chat.md)**  
 Import the chat conversation manually or automatically with a user from  Zoom application, which appends and stores the messages in the  Comments section of the ticket in the ServiceNow® instance.
 
 **Parent Topic:**[Enhance employee experience by integrating ServiceNow with Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhance-emp-exp-integrating-sn-zoom.md)
 
-## Related
-
-- [[start-zoom-chat|Start a Zoom Team Chat]]

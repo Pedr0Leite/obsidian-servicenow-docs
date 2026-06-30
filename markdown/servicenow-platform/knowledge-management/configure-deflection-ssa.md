@@ -24,7 +24,7 @@ Role required: sn\_ssa\_core.self\_service\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-analytics|Self-Service Analytics]]** &gt; **Configuration** &gt; **Deflection Configuration**.
+1.  Navigate to **All** &gt; **Self-Service Analytics** &gt; **Configuration** &gt; **Deflection Configuration**.
 
 2.  In the Deflection Configurations list, search for and select the deflection configuration for your activity context.
 
@@ -83,7 +83,7 @@ Activity context window \(duration\) for tracking activities that match a deflec
 
  -   If the consumer created a case within that window, the deflection pattern matched is not a deflection.
 -   If the consumer did not create a case within that window, the deflection pattern matched is a potential deflection.
--   If the consumer did not create a case and the last activity is submitted positive feedback for any [[self-service-landing|self-service]] channel content within that window, the deflection pattern matched is a confirmed deflection.
+-   If the consumer did not create a case and the last activity is submitted positive feedback for any self-service channel content within that window, the deflection pattern matched is a confirmed deflection.
 
 
 </td></tr></tbody>
@@ -104,7 +104,3 @@ Activity context window \(duration\) for tracking activities that match a deflec
 
 **Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 
-## Related
-
-- [[self-service-analytics|Self-Service Analytics]]
-- [[self-service-landing|Self-service]]

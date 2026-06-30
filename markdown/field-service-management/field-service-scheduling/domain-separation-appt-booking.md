@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Domain Separation and Appointment Booking
 
-Domain separation is supported for [[appointment-booking|Appointment Booking]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Appointment Booking. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -74,7 +74,7 @@ Attributes:
 
 </td></tr><tr><td>
 
-[[customizations|Advanced Configurations]]\[sn\_appmnt\_booking\_day\_configuration\]
+Advanced Configurations\[sn\_appmnt\_booking\_day\_configuration\]
 
 </td><td>
 
@@ -106,7 +106,3 @@ Fields-   Domain ID
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[customizations|Advanced configurations]]

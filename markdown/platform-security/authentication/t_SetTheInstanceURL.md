@@ -14,7 +14,7 @@ breadcrumb: [Service Provider \(SP\) system properties, SAML, Multi-Provider sin
 
 # Set the instance URL for SAML
 
-Set the instance-specific URLs so that the IdP can authenticate [[users|users]].
+Set the instance-specific URLs so that the IdP can authenticate users.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     For example: https://yourinstance.service-now.com/
 
-## Related
 
-- [[users|Users]]

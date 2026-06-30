@@ -22,8 +22,5 @@ The following example shows a Performance Analytics dashboard with citizen servi
 
 \[Omitted image "constituent-service-overview-dboard-new.png"\] Alt text: Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.
 
-To learn more about the Performance Analytics solutions, see [[psds-content-pack|Analytics and Reporting Solutions for Public Sector Digital Services]].
+To learn more about the Performance Analytics solutions, see [Analytics and Reporting Solutions for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-content-pack.md).
 
-## Related
-
-- [[psds-content-pack|psds content pack]]

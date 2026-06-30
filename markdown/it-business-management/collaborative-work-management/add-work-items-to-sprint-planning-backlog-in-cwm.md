@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Add work items to Sprint planning Backlog in CWM
 
-Create and add new work items to the Backlog directly from the Sprint planning view of [[cwm-landing|Collaborative Work Management]].
+Create and add new work items to the Backlog directly from the Sprint planning view of Collaborative Work Management.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ You can plan this item into one of the active sprints by dragging and dropping i
 
 **Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

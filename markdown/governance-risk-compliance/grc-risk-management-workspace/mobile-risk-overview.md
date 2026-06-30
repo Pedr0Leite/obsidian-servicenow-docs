@@ -34,7 +34,7 @@ For step-by-step instructions about how to set up your ServiceNow AI Platform in
 
 -   **Applications**
 
-    Applications are the ServiceNow® software components such as [[r_PolicyComplianceMgmt|Policy and Compliance Management]], Risk Management, and [[c_GRCAudits|Audit Management]] that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install these core applications and the GRC Mobile app on your ServiceNow AI Platform instance, these applications are displayed as icons on the bottom of your Android or iOS mobile device after you log in.
+    Applications are the ServiceNow® software components such as Policy and Compliance Management, Risk Management, and Audit Management that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install these core applications and the GRC Mobile app on your ServiceNow AI Platform instance, these applications are displayed as icons on the bottom of your Android or iOS mobile device after you log in.
 
 -   **Folders**
 
@@ -56,7 +56,7 @@ Assign unassigned issues to a member of your assignment group. Navigate through 
 -   **[Assign Risk Management remediation tasks with the GRC Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-remed-tasks.md)**  
 Assign an unassigned remediation task to a user of your group. Edit the fields including the **Extend by days** field. Navigate through the record to view more details about the Risk Statement, the Risk record, and the Issues associated with a Remediation Task.
 -   **[Reassign overdue Risk Management assessments with the GRC Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-assessments.md)**  
-Reassign overdue [[risk-assessments|risk assessments]] to another member of your assignment group.
+Reassign overdue risk assessments to another member of your assignment group.
 -   **[Reassign overdue Risk Management issues with the GRC Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-reassign-issues.md)**  
 Reassign overdue Risk Management issues that are assigned to your assignment group.
 -   **[Filter records with the GRC Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-set-filters.md)**  
@@ -64,8 +64,3 @@ Set additional filters to limit the number of records that are displayed on a sc
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]
-- [[risk-assessments|risk assessments]]

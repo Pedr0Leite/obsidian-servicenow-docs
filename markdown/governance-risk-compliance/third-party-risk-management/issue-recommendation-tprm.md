@@ -15,7 +15,7 @@ breadcrumb: [Exploring, Now Assist, Third-party Risk Management, Governance, Ris
 
 # TPRM issue recommendation skill
 
-The issue recommendation skill in [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] uses generative AI to suggest potential issues based on historical assessment data, helping assessors and reviewers identify relevant risks more efficiently while retaining control over which issues are created.
+The issue recommendation skill in Now Assist for Third-party Risk Management \(TPRM\) uses generative AI to suggest potential issues based on historical assessment data, helping assessors and reviewers identify relevant risks more efficiently while retaining control over which issues are created.
 
 ## Overview of issue recommendations
 
@@ -49,7 +49,7 @@ The following table describes the key elements associated with an issue recommen
 |Historical issues|Previously created issues that were used as reference data to generate the recommendation.|
 |Priority|Priority of the historical issue.|
 
-**Note:** Issue recommendations can be generated only from [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] questionnaires. They are generated based on historical assessment data from classic and smart assessments and configured recommendation logic. Reviewers must evaluate and confirm each recommendation before creating an issue.
+**Note:** Issue recommendations can be generated only from Smart Assessment Engine questionnaires. They are generated based on historical assessment data from classic and smart assessments and configured recommendation logic. Reviewers must evaluate and confirm each recommendation before creating an issue.
 
 The accuracy of issue recommendations depends on the quality and configuration of Smart Assessment Engine templates, including supported question types and historical issue data.
 
@@ -62,7 +62,3 @@ The accuracy of issue recommendations depends on the quality and configuration o
 
 [Activate TPRM issue recommendation skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-recommend-an-issue.md)
 
-## Related
-
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

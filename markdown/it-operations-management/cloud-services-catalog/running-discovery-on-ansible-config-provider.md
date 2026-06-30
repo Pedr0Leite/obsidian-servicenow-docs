@@ -14,7 +14,7 @@ breadcrumb: [Integrating Ansible with Cloud Services Catalog, Configuring Cloud 
 
 # Run Discovery on the Ansible config provider
 
-Add the Ansible config provider and run [[r-discovery|Discovery]] to discover what's in the inventory, the host group, and the available job templates.
+Add the Ansible config provider and run Discovery to discover what's in the inventory, the host group, and the available job templates.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Manage** &gt; **Credentials** &gt; **New** &gt; **Ansible Tower Credentials**.
+1.  Navigate to **Cloud Admin Portal** &gt; **Manage** &gt; **Credentials** &gt; **New** &gt; **Ansible Tower Credentials**.
 
 2.  On the form, fill in the fields as per the information received from the Ansible Tower.
 
@@ -51,7 +51,3 @@ You’re all set to take the next steps to order an Ansible item.
 
 **Parent Topic:**[Integrating Ansible with Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-ansible-with-cloud-services-catalog.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

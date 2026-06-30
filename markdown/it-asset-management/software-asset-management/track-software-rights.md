@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Management classic, Software Asset Management,
 
 # Create entitlements in Software Asset Management classic
 
-Create entitlements in the [[c_SoftwareAssetMgmt|Software Asset Management]] application classic to record your license details and allocate purchased software rights to users or devices.
+Create entitlements in the Software Asset Management application classic to record your license details and allocate purchased software rights to users or devices.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ To better manage your existing entitlements, you can edit certain fields in enti
 
 **Note:** Microsoft reserve entitlements and source entitlements are not editable.
 
-If you installed [[sam-subscription-management|SaaS License Management]], a software model is generated automatically after you create an integration profile. Create an entitlement for the software model to track software used against software owned. For more information about tracking SaaS licenses and usage, see [Viewing your SaaS and SSO subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/usage-summary-saas.md).
+If you installed SaaS License Management, a software model is generated automatically after you create an integration profile. Create an entitlement for the software model to track software used against software owned. For more information about tracking SaaS licenses and usage, see [Viewing your SaaS and SSO subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/usage-summary-saas.md).
 
 If you installed the SAP publisher pack, see [Record software rights for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md).
 
@@ -54,7 +54,7 @@ If you installed the Citrix publisher pack, see [Record software rights for Citr
 
     The **Device Allocations** section is not visible for the IBM Resource Value Unit \(RVU\) license metric. The Resource Value Unit \(RVU\) license metric is licensed at the product level and so rights are not used by individual devices. When you upgrade from a prior release, that had device allocations, to the Australia release, the existing device relocations are removed.
 
-6.  To track your software [[downgrade-rights|downgrade rights]], select the [Downgrade Rights related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md) and specify the version.
+6.  To track your software downgrade rights, select the [Downgrade Rights related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md) and specify the version.
 
     Creating a new record allows you to set an entitlement to previous versions of software. For example, the purchase of Microsoft Office Professional Plus 2016 rights entitles you to Microsoft Office Professional Plus 2013 too\).
 
@@ -76,7 +76,7 @@ If you installed the Citrix publisher pack, see [Record software rights for Citr
 
 
 -   **[Create maintenance entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/Record-software-rights-non-microsoft.md)**  
-Define license details, for all publishers other than Microsoft, to manage all your [[software-license-maintenance|software license maintenance]] needs such as start and end dates of your [[c_Contracts|contracts]] and software upgrades.
+Define license details, for all publishers other than Microsoft, to manage all your software license maintenance needs such as start and end dates of your contracts and software upgrades.
 -   **[Create entitlements for Microsoft Software Assurance in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-microsoft-sa.md)**  
 Define license details for Microsoft Software Assurance \(SA\) to manage your contracts start and end dates, software upgrades, and related software entitlements.
 
@@ -91,10 +91,3 @@ Define license details for Microsoft Software Assurance \(SA\) to manage your co
 
 [Software license metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMLicenseMetrics.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[software-license-maintenance|Software license maintenance]]
-- [[c_Contracts|Contracts]]

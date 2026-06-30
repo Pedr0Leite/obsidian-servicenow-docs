@@ -14,9 +14,9 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 # Applicant Center home page
 
-[[applicant-center-concept|Applicant Center]] is the dedicated and personalized portal for your applicants.
+Applicant Center is the dedicated and personalized portal for your applicants.
 
-The applicant Center provides the applicants with a wholesome [[hiring-tab-concept|hiring]] experience.
+The applicant Center provides the applicants with a wholesome hiring experience.
 
 As an admin, it brings you:
 
@@ -34,7 +34,3 @@ As an applicant, it lets you:
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[hiring-tab-concept|Hiring]]

@@ -16,7 +16,7 @@ Use the Technical Service Qualification API to evaluate a service request for fe
 
 ## Service qualification request overview
 
-If orders are submitted without feasibility checks, the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process may be delayed and lead to cancellations and order fallouts. When you make feasibility checks a part of the pre-ordering process, the order fulfillment process is more efficient, and unnecessary delays can be avoided.
+If orders are submitted without feasibility checks, the order fulfillment process may be delayed and lead to cancellations and order fallouts. When you make feasibility checks a part of the pre-ordering process, the order fulfillment process is more efficient, and unnecessary delays can be avoided.
 
 Let's understand this with an example. A communication service provider wants a broadband service at 3000 Main Street, Santa Clara, CA. As a part of the service delivery process, the service provider determines the technical feasibility of whether a given service can be delivered to their customers. This request then goes to the external inventory systems, which would do a further feasibility check based on the capacity, resources, and other parameters and send a response back to the order management system. The response regarding the qualified response can vary, or if the qualification isn't met, alternate proposals could be provided.
 
@@ -63,31 +63,21 @@ Order fulfillment managers can review customer orders that are captured through 
 2.  The system decomposes the order line items into resource facing domain orders \(RFS\) based on catalog definition.
 3.  The Order Management system coordinates and processes the technical service qualification request and returns the response to the external inventory system.
 
--   **[[order-mgt-tsq-approve|Review and approve service qualification requests]]**  
+-   **[Review and approve service qualification requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-approve.md)**  
 Review and approve customer orders captured through the Technical Service Qualification API.
--   **[[order-mgt-tsq-subflow|Process Qualification Request subflow]]**  
+-   **[Process Qualification Request subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-subflow.md)**  
 The Process Qualification Request subflow generates a qualification request based on the customer order, sends the request to the third party inventory system, and executes the integration request.
--   **[[edit-order-mgt-tsq-spoke|Edit the Order Qualification Request]]**  
+-   **[Edit the Order Qualification Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/edit-order-mgt-tsq-spoke.md)**  
 Use the Order Qualification Request integration request type in the Order Management for Telecommunications application to process the customer order qualification requests and retrieve the results from the external inventory systems.
--   **[[order-mgt-tsq-alternate|Alternate proposal for service orders]]**  
+-   **[Alternate proposal for service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-alternate.md)**  
 Learn how you can provide alternate proposals if a service qualification isn't met.
 
-**Parent Topic:**[[managing-service-orders|Managing service orders]]
+**Parent Topic:**[Managing service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-service-orders.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-tsq-approve|Review and approve service qualification requests]]
-- [[order-mgt-tsq-subflow|Process Qualification Request subflow]]
-- [[edit-order-mgt-tsq-spoke|Edit the Order Qualification Request]]
-- [[order-mgt-tsq-alternate|Alternate proposal for service orders]]
-- [[managing-service-orders|Managing service orders]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

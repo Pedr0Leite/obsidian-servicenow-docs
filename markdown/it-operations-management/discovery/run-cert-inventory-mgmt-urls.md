@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Run Certificate Discovery via individual URL scans
 
-To initiate certificate [[r-discovery|discovery]] through URL scans, you must manually include individual URLs and configure a new certificate Discovery schedule.
+To initiate certificate discovery through URL scans, you must manually include individual URLs and configure a new certificate Discovery schedule.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Only the certificates that are available on the server during URL scans can be d
 
 When your Discovery schedule runs, it automatically scans for any certificates on the specified URLs and fetches all URLs from the cmdb\_ci\_endpoint\_http table. It then creates a mapping between the URL and the schedule in the **sn\_disco\_certmgmt\_cert\_url\_sched\_m2m**.
 
-With [[c_ServiceMappingOverview|Service Mapping]] enabled, by default, it creates a relationship between the HTTP endpoint and application when it creates an entry in cmdb\_ci\_endpoint\_http. For example, the Amazon application is automatically connected to amazon.com.
+With Service Mapping enabled, by default, it creates a relationship between the HTTP endpoint and application when it creates an entry in cmdb\_ci\_endpoint\_http. For example, the Amazon application is automatically connected to amazon.com.
 
 The relationship is: cmdb\_ci\_endpoint\_http\[parent\] --&gt; \[Implement End Point To::Implement End Point From\] --&gt; cmdb\_ci\_appl\[child\].
 
@@ -63,7 +63,3 @@ If the above relationship exists, the URL certificate discovery creates an addit
 
 **Note:** URL discovery schedules do not generate server configuration items \(CIs\).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

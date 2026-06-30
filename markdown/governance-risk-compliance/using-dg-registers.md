@@ -12,7 +12,7 @@ breadcrumb: [Maintaining Digital resilience third-party registers, Manage, Opera
 
 # Using Digital resilience third-party registers
 
-Use the Digital resilience third-party registers application in the [[grc-opres-landing-page|Operational Resilience]] Workspace to create, update, and track records of ICT third-party service providers.
+Use the Digital resilience third-party registers application in the Operational Resilience Workspace to create, update, and track records of ICT third-party service providers.
 
 When you launch the Digital resilience third-party registers application in the Operational Resilience Workspace, you can view the different functionalities that can be accessed from the application menu.
 
@@ -29,55 +29,36 @@ From the menu in the Digital resilience third-party registers, you can access th
 -   Contracts - Register contractual arrangements and their Specific information, Intra-group, and ICT service supply chain sub-records.
 -   Supply chains - Register ICT service supply chain rows independently of a contract.
 -   Assessments - Register assessments of ICT services.
--   Setup - Configure [[entity-type-in-risk-ws|Entity types]] and Pillars used across the registers.
+-   Setup - Configure Entity types and Pillars used across the registers.
 
--   **[[create-legal-entity|Create a legal entity and enhance digital resilience data]]**  
+-   **[Create a legal entity and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-legal-entity.md)**  
 Create a legal entity record in Digital resilience third-party registers. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-branch|Create a branch and enhance digital resilience data]]**  
+-   **[Create a branch and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-branch.md)**  
 Create a branch record in Digital resilience third-party registers. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-function|Create a function and enhance digital resilience data]]**  
+-   **[Create a function and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-function.md)**  
 Create a function record in Digital resilience third-party registers where you can configure details of the function such as function identifier, license activity, function name, criticality or importance assessment details, and so on. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]**  
+-   **[Create a third party and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-third-party.md)**  
 Create a third party record in Digital resilience third-party registers. Add the details of the third party company such as its name, address, phone number, vendor manager, and so on. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]**  
+-   **[Create a third-party engagement and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-tp-engagement.md)**  
 Create a third-party engagement record in Digital resilience third-party registers. Add details of the third-party engagement such as name of the third party, its type, annual spend, engagement tier, and so on. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-contract|Create a contract and enhance digital resilience data]]**  
+-   **[Create a contract and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-contract.md)**  
 Create a contract record in Digital resilience third-party registers where you add details of the contract such as vendor name, start and end dates, state, substate, and so on. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-supply-chain|Create a supply chain and enhance digital resilience data]]**  
+-   **[Create a supply chain and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-supply-chain.md)**  
 Create an Information and Communication Technology \(ICT\) service supply chain record in Digital resilience third-party registers. Add details of the supply chain such as type of the ICT services, Legal Entity Identifier \(LEI\) of the entity that provides the ICT services, and so on. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-drtp-reg-assmt|Create an assessment and enhance digital resilience data]]**  
+-   **[Create an assessment and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-assmt.md)**  
 Create an assessment of the Information and Communication Technology \(ICT\) service in Digital resilience third-party registers. Add details such as the contractual arrangement reference number, identification code, and type of code for the ICT third-party service provider. You can then enhance its digital resilience information for compliance with DORA regulation.
--   **[[create-excel-upload-download-request|Create Microsoft Excel download and upload request]]**  
+-   **[Create Microsoft Excel download and upload request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-excel-upload-download-request.md)**  
 Create a Microsoft Excel upload and download request to upload and download the records from and into the Digital resilience third-party registers for auditing purposes.
--   **[[currency-conversion-aggregation|Currency conversion and third-party aggregation]]**  
+-   **[Currency conversion and third-party aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/currency-conversion-aggregation.md)**  
 Beginning with Digital Operational Resilience Management \(sn\_dora\_accel\), version 22.x.x, currency conversion and third-party aggregation capabilities are supported for DORA reporting of third-party expenses. As a DORA application user, you can convert and aggregate contractual expenses from multiple currencies to a regulator-required designated base currency using automated daily exchange rates.
--   **[[create-records-in-bulk-opres-ws|Create records in bulk]]**  
+-   **[Create records in bulk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-records-in-bulk-opres-ws.md)**  
 Create records in bulk from the Digital resilience third-party registers using Third-party Risk Management rather than creating one record at a time for single or multiple entities. You can save time and effort by working on multiple records at a time.
--   **[[update-records-bulk-opres-ws|Update existing records in bulk]]**  
+-   **[Update existing records in bulk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-records-bulk-opres-ws.md)**  
 Update existing records in bulk from the Digital resilience third-party registers using Third-party Risk Management.
--   **[[opres-drtp-gen-roi-pkg|Generate a Register of Information package]]**  
+-   **[Generate a Register of Information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-gen-roi-pkg.md)**  
 Generate a register of information package. Use the CSV report option in the download page to generate regulator-ready Register of Information \(RoI\) packages.
--   **[[validate-lei|Validate Legal Entity Identifier codes for DORA reporting]]**  
+-   **[Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/validate-lei.md)**  
 Review and resolve Legal Entity Identifier \(LEI\) validation results for DORA Register of Information reporting. LEI validation runs automatically during Plain-CSV Reporting Package generation and Microsoft Excel upload to verify that LEI codes in the digital resilience registers exist in the GLEIF database and have an active and issued status.
 
-**Parent Topic:**[[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
+**Parent Topic:**[Maintaining Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-third-party-registers.md)
 
-## Related
-
-- [[create-legal-entity|Create a legal entity and enhance digital resilience data]]
-- [[create-drtp-reg-branch|Create a branch and enhance digital resilience data]]
-- [[create-drtp-reg-function|Create a function and enhance digital resilience data]]
-- [[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]
-- [[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]
-- [[create-drtp-reg-contract|Create a contract and enhance digital resilience data]]
-- [[create-drtp-reg-supply-chain|Create a supply chain and enhance digital resilience data]]
-- [[create-drtp-reg-assmt|Create an assessment and enhance digital resilience data]]
-- [[create-excel-upload-download-request|Create Microsoft Excel download and upload request]]
-- [[currency-conversion-aggregation|Currency conversion and third-party aggregation]]
-- [[create-records-in-bulk-opres-ws|Create records in bulk]]
-- [[update-records-bulk-opres-ws|Update existing records in bulk]]
-- [[opres-drtp-gen-roi-pkg|Generate a Register of Information package]]
-- [[validate-lei|Validate Legal Entity Identifier codes for DORA reporting]]
-- [[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]

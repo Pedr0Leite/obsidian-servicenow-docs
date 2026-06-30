@@ -14,7 +14,7 @@ breadcrumb: [Use, Dashboards, Strategic Planning, Strategic Portfolio Management
 
 # Share a dashboard
 
-[[share-dashboard-ppw|Share a dashboard]] with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
+Share a dashboard with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ pf\_read
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -107,7 +107,3 @@ You can change the rights of whom you have shared the dashboard with in the Shar
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
-## Related
-
-- [[share-dashboard-ppw|Share a dashboard]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

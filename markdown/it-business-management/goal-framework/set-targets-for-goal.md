@@ -25,7 +25,7 @@ Role required: sn\_gf.goal\_user or sn\_gf.goal\_admin
 A SMART target can be defined as S = Specific, M = Measurable, A = Attainable, R = Relevant, and T = Time-bound.
 
 -   Only the owner or contributors of the goal can create targets for the goal.
--   You can also restrict the access for a target record to the specific users by enabling the **Confidential** field on the [[target-form|target form]] if the Operational Sustainability Management application is installed.
+-   You can also restrict the access for a target record to the specific users by enabling the **Confidential** field on the target form if the Operational Sustainability Management application is installed.
 
 ## Procedure
 
@@ -78,6 +78,3 @@ The target progress records are automatically created when you save the target p
 
 Update the progress of the targets.
 
-## Related
-
-- [[target-form|Target form]]

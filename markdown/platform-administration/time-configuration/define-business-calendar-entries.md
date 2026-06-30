@@ -14,7 +14,7 @@ breadcrumb: [Creating business calendars, Use, Time configuration, Configure cor
 
 # Define business calendar entries
 
-Create business calendar entry records that define the individual time periods that make up a business calendar. You [[create-business-calendar|create a business calendar]] entry for every individual time span in the calendar.
+Create business calendar entry records that define the individual time periods that make up a business calendar. You create a business calendar entry for every individual time span in the calendar.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: business\_calendar\_admin
 
 In contrast to legacy schedule entries that have repeating and excluding time spans, you have to create individual business calendar entries for every business calendar time span. For example, if you are creating a Fiscal Year 2020 business calendar with 13 fiscal periods, you have to create individual business calendar entries for each fiscal period. For each fiscal period, you specify start and end date times. The year is appended to the beginning of the display name, according to the information entered in the `long name` field. This helps in avoiding confusion between similarly named entries.
 
-**Note:** Fiscal calendars or [[c_UseSchedules|schedules]] you may have created in the **Fiscal Calendar** or **System Scheduler** &gt; **Schedules** menu also appear on the lists on the **Business Calendar** menu. If you select a fiscal calendar or schedule, it appears in the legacy function that you originally used to create it. You can't view or update legacy fiscal calendars or schedules using this form.
+**Note:** Fiscal calendars or schedules you may have created in the **Fiscal Calendar** or **System Scheduler** &gt; **Schedules** menu also appear on the lists on the **Business Calendar** menu. If you select a fiscal calendar or schedule, it appears in the legacy function that you originally used to create it. You can't view or update legacy fiscal calendars or schedules using this form.
 
 To create business calendar entries and associate them with a business calendar, use the Business Calendar Entries related list in the Business Calendar form. To learn more about creating a business calendar, see [Create a business calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-business-calendar.md).
 
@@ -50,7 +50,7 @@ Name
 
 </td><td>
 
-Unique [[reference-email-admin|reference]] name for the business calendar entry. To select a business calendar name or to create one: 1.  To search for an existing business calendar entry name, select \[Omitted image "SearchIcon.png"\] Alt text: Search button.
+Unique reference name for the business calendar entry. To select a business calendar name or to create one: 1.  To search for an existing business calendar entry name, select \[Omitted image "SearchIcon.png"\] Alt text: Search button.
 2.  If no business calendar entry name exists and you want to create a business calendar entry name, select **New**. The Business Calendar Entry Name form appears.
 
 **Note:** To learn how to create business calendar entry names, see [Create business calendar entry names](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md).
@@ -169,8 +169,3 @@ Application that is associated with this business calendar. If you are working o
 
 Records are created in the Business Calendar Entry \(business\_calendar\_span\) and the Business Calendar Entry Name \(business\_calendar\_span\_name\) tables. If you create business calendar entries in the Business Calendar Entries related list in the Business Calendar form, these records are also associated with the specific business calendar.
 
-## Related
-
-- [[create-business-calendar|Create a business calendar]]
-- [[c_UseSchedules|Schedules]]
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Install Workplace Core, Workplace Core, Safe Workplace, Health and 
 
 # Components installed with Workplace Core
 
-Several types of components are installed with installation of the [[workplace-safety-mgmt-hr|Workplace Core]] application, including user roles, scheduled jobs, tables, and business rules.
+Several types of components are installed with installation of the Workplace Core application, including user roles, scheduled jobs, tables, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -69,7 +69,7 @@ Workplace exposure analyst\[sn\_wsd\_core.workplace\_exposure\_analyst\]
 
 </td><td>
 
-Identifies potentially exposed employees in the ServiceNow® [[emergency-exposure-management|Emergency Exposure Management]] application using workspace reservations.
+Identifies potentially exposed employees in the ServiceNow® Emergency Exposure Management application using workspace reservations.
 
 </td><td>
 
@@ -96,7 +96,7 @@ Workplace user\[sn\_wsd\_core.workplace\_user\]
 
 </td><td>
 
--   Requests area or workspace reservations from the [[workplace-services-portal-hr|Workplace Service Portal]] or the Now® Mobile app
+-   Requests area or workspace reservations from the Workplace Service Portal or the Now® Mobile app
 -   Schedules arrival to workplace locations using the Workplace Service Portal or the Now® Mobile app
 
  **Note:** From Workplace Core v1.3.2 onwards, this role is required for employees to request reservations from Workplace Service Portal.
@@ -336,7 +336,7 @@ Workplace Client Role Rule\[sn\_wsd\_core\_client\_role\_rule\]
 
 </td><td>
 
-Stores the workplace [[t_ClientRoleAssignRules|client role assignment rules]] created for employees.
+Stores the workplace client role assignment rules created for employees.
 
 </td></tr><tr><td>
 
@@ -375,9 +375,3 @@ Extends the Space \[sn\_wsd\_core\_space\] table. It holds the reservable items 
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/install-workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[t_ClientRoleAssignRules|Client role assignment rules]]

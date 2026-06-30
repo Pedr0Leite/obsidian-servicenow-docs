@@ -14,7 +14,7 @@ breadcrumb: [Workflow configuration, CAM workflow configuration, Using CAM, Cont
 
 # Add version to workflow
 
-Add workflow versions to a [[work-configuration|workflow configuration]] to support different revisions or iterations of your workflow. Workflow versions filter control objectives based on the version requirements.
+Add workflow versions to a workflow configuration to support different revisions or iterations of your workflow. Workflow versions filter control objectives based on the version requirements.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Workflow versions and impacts work together to filter control objectives:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Workflow Configurations**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Workflow Configurations**.
 
 2.  Select a Workflow Configuration from the list to add the version.
 
@@ -108,8 +108,3 @@ The workflow version is available for selection in authorization packages based 
 
 [Add impact to version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-impact-to-version.md)
 
-## Related
-
-- [[work-configuration|Workflow configuration]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

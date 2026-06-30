@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # MongoDB default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following policies for MongoDB health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for both Windows and Linux.
+Agent Client Collector provides the following policies for MongoDB health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for both Windows and Linux.
 
 <table id="table_y3r_2qd_2tb"><thead><tr><th>
 
@@ -79,7 +79,7 @@ app.mongodb.check-mongodb-metrics
 
 </td><td>
 
-Creates alerts for any of the [[mongodb-metrics|MongoDB metrics]], based on the threshold limit. To trigger the alerts for any MongoDB server metric, pass the whole metric name in the parameter.
+Creates alerts for any of the MongoDB metrics, based on the threshold limit. To trigger the alerts for any MongoDB server metric, pass the whole metric name in the parameter.
 
 </td><td>
 
@@ -163,7 +163,3 @@ Returns metrics of the MongoDB server and all databases.Sample metrics:
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mongodb-metrics|MongoDB metrics]]

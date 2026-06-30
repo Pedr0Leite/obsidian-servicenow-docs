@@ -14,7 +14,7 @@ breadcrumb: [Browser Extension for Employee Center, Setup task management, Confi
 
 # Configure browser extension sites
 
-Configure the [[ecbe-intro|Browser Extension for Employee Center]] in your desired websites for easy access to the [[employee-center-landing-page|Employee Center]] portal.
+Configure the Browser Extension for Employee Center in your desired websites for easy access to the Employee Center portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ex\_brw\_ext.ecbe\_admin / sn\_ex\_brw\_ext.ecbe\_manager
 
 ## About this task
 
-The Browser Extension for Employee Center lets you access your extension-supported Employee Center [[ec-streamline-content|portal content]] via the browser extension.
+The Browser Extension for Employee Center lets you access your extension-supported Employee Center portal content via the browser extension.
 
 **Note:**
 
@@ -45,8 +45,3 @@ The Browser Extension for Employee Center lets you access your extension-support
 
 You have set up the Browser Extension for Employee Center in your desired website.
 
-## Related
-
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-streamline-content|Portal content]]

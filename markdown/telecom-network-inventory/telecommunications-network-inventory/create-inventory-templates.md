@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template for network asset instantiation, Use, Tel
 
 # Create an inventory template
 
-Create an inventory template in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to represent a configuration of the created inventory model.
+Create an inventory template in the Telecommunications Network Inventory application to represent a configuration of the created inventory model.
 
 ## Before you begin
 
@@ -29,9 +29,9 @@ A network inventory template contains a set of detailed business guidance rules 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[using-templates-tni|Network Inventory Templates]]** &gt; **Inventory Templates**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Network Inventory Templates** &gt; **Inventory Templates**.
 
 3.  Select **New**.
 
@@ -115,8 +115,3 @@ To delete a template, select the options icon \(\[Omitted image "options-icon.pn
 
 **Parent Topic:**[Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[using-templates-tni|Network inventory templates]]

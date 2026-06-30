@@ -14,11 +14,11 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # View stockroom details in the Enterprise Asset Workspace
 
-Use stockroom records to view detailed information about the [[c_Stockrooms|stockrooms]] that your enterprise, hardware, consumable, bundle, loaner, and other assets reside in.
+Use stockroom records to view detailed information about the stockrooms that your enterprise, hardware, consumable, bundle, loaner, and other assets reside in.
 
 ## Before you begin
 
-The following stockroom record tabs are available only if you've installed and activated the [[ham-landing-page|Hardware Asset Management]] application on your ServiceNow® instance:
+The following stockroom record tabs are available only if you've installed and activated the Hardware Asset Management application on your ServiceNow® instance:
 
 -   **Hardware**
 -   **Bundles**
@@ -33,7 +33,7 @@ Role required: sn\_eam.enterprise\_admin, sn\_eam.enterptrise\_asset\_manager, o
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  Select the **All stockrooms** tab.
 
@@ -59,7 +59,7 @@ Details
 
 Get a detailed overview of the stockroom, including open stockroom tasks and general stockroom details.
 
- The Open stockroom tasks cards show all open orders, audits, and requests that are associated with the stockroom. Select a card to view the list of corresponding order, audit, or request records. If you select a card for any open Hardware Asset Management orders, audits, or requests, the list opens in the [[using-ham-workspace|Hardware Asset Workspace]].
+ The Open stockroom tasks cards show all open orders, audits, and requests that are associated with the stockroom. Select a card to view the list of corresponding order, audit, or request records. If you select a card for any open Hardware Asset Management orders, audits, or requests, the list opens in the Hardware Asset Workspace.
 
  In addition, use the interactive map to view the location of the stockroom based on the specified stockroom address. Expand the map to view all supported service locations and all stockrooms that are linked as part of the stockroom distribution channel.
 
@@ -108,7 +108,7 @@ Consumables
 
 </td><td>
 
-Create and view the [[c_ReceiveAConsumableAsset|consumable assets]] that reside in the stockroom.
+Create and view the consumable assets that reside in the stockroom.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Bundles**Note:** This tab appears only if you have installed and activated the H
 
 </td><td>
 
-Create and view the [[asset-bundles-concept|asset bundles]] that reside in the stockroom.
+Create and view the asset bundles that reside in the stockroom.
 
  If you are creating an asset bundle or selecting an existing asset bundle, you are automatically redirected to the corresponding form or record in the Hardware Asset Workspace.
 
@@ -126,7 +126,7 @@ Pallets
 
 </td><td>
 
-Create and view the [[pallet-assets|pallet assets]] that reside in the stockroom.
+Create and view the pallet assets that reside in the stockroom.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Hardware Loaner Pool**Note:** This tab appears only if you have installed and ac
 
 </td><td>
 
-View all hardware [[loaner-asset|loaner assets]] that reside in the stockroom.
+View all hardware loaner assets that reside in the stockroom.
 
  If you select a loaner asset, you are automatically redirected to the corresponding record in the Hardware Asset Workspace.
 
@@ -201,7 +201,7 @@ Enterprise Asset Audits
 Create and view audits for your enterprise asset inventory.
 
 </td></tr></tbody>
-</table>5.  View all active [[c_StockRules|stock rules]] that are configured for the stockroom.
+</table>5.  View all active stock rules that are configured for the stockroom.
 
     1.  From the sidebar of the stockroom record, select the Stock rules icon \[Omitted image "stock-rules-icon.png"\] Alt text:.
 
@@ -212,15 +212,3 @@ Create and view audits for your enterprise asset inventory.
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[pallet-assets|Pallet assets]]
-- [[loaner-asset|Loaner assets]]
-- [[c_StockRules|Stock rules]]

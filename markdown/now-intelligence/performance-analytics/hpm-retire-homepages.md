@@ -14,7 +14,7 @@ breadcrumb: [Homepage deprecation, Administering dashboards, Responsive dashboar
 
 # Retire a homepage
 
-Use the [[homepage-migration-status-table|homepage migration status table]] to retire homepages. When you retire a homepage, you remove visibility and editing options from all but the admin.
+Use the homepage migration status table to retire homepages. When you retire a homepage, you remove visibility and editing options from all but the admin.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ To configure the time limit to respond to a retirement request, edit the system 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hp-dep-help-tool-features|Homepage deprecation help tool]]** &gt; **Homepage migration status**.
+1.  Navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Homepage migration status**.
 
 2.  Check the boxes next to the homepages that you want to retire.
 
@@ -53,15 +53,10 @@ Changes are made on the homepage migration status table.
 -   Entries in the State column for the converted homepages are changed to **Closed complete**.
 -   Entries in the Decision column for retired homepages are changed to **Retired**.
 -   Entries in the Decision column for homepages the owner rejects for retirement are changed to **Converted**.
--   Personal homepages of users who are inactive or locked out no longer appear on the **Personal homepages** tab of the [[homepage-deprecation-help-tool|Homepage deprecation]] dashboard.
+-   Personal homepages of users who are inactive or locked out no longer appear on the **Personal homepages** tab of the Homepage deprecation dashboard.
 -   Read and write permissions for retired homepages are limited to admin.
 
 ## What to do next
 
 [Restore a homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-restore-homepages.md)
 
-## Related
-
-- [[homepage-migration-status-table|Homepage migration status table]]
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]
-- [[homepage-deprecation-help-tool|Homepage deprecation]]

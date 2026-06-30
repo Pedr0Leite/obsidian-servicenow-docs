@@ -14,7 +14,7 @@ breadcrumb: [Viewing third-party risk reports, Monitor third-party risk, Third-p
 
 # TPRM Unified content management page
 
-The unified content management page provides access to a centralized library of smart [[airc-assessment-templates|assessment templates]]. You can use this library to activate ready‑to‑use questionnaires aligned with global regulations and industry standards, helping ensure consistent and comprehensive assessments.
+The unified content management page provides access to a centralized library of smart assessment templates. You can use this library to activate ready‑to‑use questionnaires aligned with global regulations and industry standards, helping ensure consistent and comprehensive assessments.
 
 ## Accessing the page
 
@@ -30,6 +30,3 @@ For a list of questionnaires that are provided as part of the base system, see [
 
 **Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/unified-vrm-workspace.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]

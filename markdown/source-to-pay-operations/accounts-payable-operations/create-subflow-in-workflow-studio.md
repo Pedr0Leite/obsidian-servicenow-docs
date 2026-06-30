@@ -33,13 +33,13 @@ This video shows you how to create subflow in workflow studio.\[Omitted video\] 
 
 3.  Enter the **Description**.
 
-4.  Choose the **Application** as [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] in the drop-down list.
+4.  Choose the **Application** as Accounts Payable Invoice Processing in the drop-down list.
 
 5.  Click **Build subflow**.
 
 6.  Configure Inputs and Outputs for Subflow.
 
-    Example: In Subflows, you must fetch the invoice record based on sys\_id. Traverse through the invoice record and check if the condition business owner or [[legal-entity|legal entity]] is empty. If the condition matches, then the system raises an exception.
+    Example: In Subflows, you must fetch the invoice record based on sys\_id. Traverse through the invoice record and check if the condition business owner or legal entity is empty. If the condition matches, then the system raises an exception.
 
     1.  In the **Inputs** area, enter **Label** as invoice Sysids.
 
@@ -128,7 +128,3 @@ This video shows you how to create subflow in workflow studio.\[Omitted video\] 
 
 **Parent Topic:**[Create an invoice exception definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/define-new-invoice-exception.md)
 
-## Related
-
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[legal-entity|Legal entity]]

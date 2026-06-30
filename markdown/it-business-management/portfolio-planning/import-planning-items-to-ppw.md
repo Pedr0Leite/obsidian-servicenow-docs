@@ -14,7 +14,7 @@ breadcrumb: [Execute work in PPM, Portfolio Planning, Strategic Portfolio Manage
 
 # Import records to Portfolio Planning Workspace
 
-Import records from [[c_ProjectPortfolioSuite|Project Portfolio Management]], after the relevant table maps, fields maps, and choice maps are configured.
+Import records from Project Portfolio Management, after the relevant table maps, fields maps, and choice maps are configured.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Portfolio Planning** &gt; **Integrations**.
 
 2.  Select **ServiceNow Internal** Alignment Integration record.
 
@@ -36,7 +36,4 @@ Role required: sn\_align\_core.apw\_admin
 
     **Note:** Records that have been created within the specified dates will be imported.
 
-## Related
 
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

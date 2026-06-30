@@ -26,7 +26,7 @@ The users register and provide personal information in the portal. The informati
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Programs**.
+1.  Navigate to **All** &gt; **Vaccine Administration Management** &gt; **Administration** &gt; **Programs**.
 
 2.  Open the vaccination program record that you want to configure the eligibility criteria for.
 
@@ -39,6 +39,3 @@ The users register and provide personal information in the portal. The informati
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

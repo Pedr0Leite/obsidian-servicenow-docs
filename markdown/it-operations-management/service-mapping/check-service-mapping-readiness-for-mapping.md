@@ -24,16 +24,16 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-[[c_ServiceMappingOverview|Service Mapping]] performs an automatic scan of the following resources and configurations to give you the readiness status:
+Service Mapping performs an automatic scan of the following resources and configurations to give you the readiness status:
 
 -   \(Mandatory\) There are MID Servers with correctly configured IP ranges and the applications and capabilities settings. For more information, see [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md).
 
-    If this check does not recognize correctly configured MID Servers, you cannot perform the bulk [[r-discovery|discovery]].
+    If this check does not recognize correctly configured MID Servers, you cannot perform the bulk discovery.
 
 -   \(Optional\) There are credentials for operating systems and applications as described in [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md).
 -   \(Optional\) There are at least three load balancers recently discovered during horizontal discovery.
 -   \(Optional\) There are at least 100 hosts discovered by the horizontal discovery in the last 14 days.
--   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the [[traffic-based-discovery|traffic-based discovery in Service Mapping]]. For more information, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md).
+-   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the traffic-based discovery in Service Mapping. For more information, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md).
 -   \(Optional\) Cloud Discovery is activated and configured. This setting is necessary to discover application service based on IaaS.
 
 If an optional resource or configuration is missing, you can still map application service, but it may result in partial discovery of some CIs and connections.
@@ -62,7 +62,7 @@ In addition, Service Mapping performs the readiness check for mapping functional
 
 3.  If more than one setup category has an error, return to the Readiness Checklist window and fix any other errors.
 
-4.  Verify that Service Mapping is ready for [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]].
+4.  Verify that Service Mapping is ready for discovery based on Predictive Intelligence.
 
     1.  Navigate to **Workspaces** &gt; **Service Mapping**, and then select **Application Service Readiness** icon \[Omitted image "icon-clipboard-check.png"\] Alt text:.
 
@@ -80,9 +80,3 @@ In addition, Service Mapping performs the readiness check for mapping functional
 
 [Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[traffic-based-discovery|Traffic-based discovery in Service Mapping]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]

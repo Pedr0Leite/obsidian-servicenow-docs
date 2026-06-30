@@ -24,11 +24,11 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst a
 
 Because the agentic workflow uses AI to generate responses, review all output before acting on it and apply human judgment to any remediation decisions.
 
-Before providing the agent with instructions, [[ai-security-exposure-use-aiskill|use the AI guardrails helper skill]] to collect guardrail suggestions for findings that have associated [[vulnerabilities|vulnerabilities]].
+Before providing the agent with instructions, use the AI guardrails helper skill to collect guardrail suggestions for findings that have associated vulnerabilities.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  If the **AI validation findings** tab is not displayed, select it.
 
@@ -46,7 +46,7 @@ Before providing the agent with instructions, [[ai-security-exposure-use-aiskill
 
     -   **Create exception rule**
 
-        Create exception rules to automatically defer future AI validation findings that have guardrails as mitigations already present in the AI security platform. See [[sem-configure-exp-mngmt-vr|Configure Exception Management for Security Exposure Management]] for more information about exception management.
+        Create exception rules to automatically defer future AI validation findings that have guardrails as mitigations already present in the AI security platform. See [Configure Exception Management for Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exp-mngmt-vr.md) for more information about exception management.
 
     -   **Learn about guardrails**
 
@@ -60,20 +60,12 @@ Before providing the agent with instructions, [[ai-security-exposure-use-aiskill
 
     The system displays a justification for the deferral for your review. You can approve or reject the justification. If you approve it, a calendar is displayed so you can choose an end date for the deferral. After you select **Submit**, the finding state transitions from **Open** to **Deferred**.
 
-    The system displays the number of findings associated with your deferral request and prompts you to [[sem-create-exception-rule|create an exception rule]].
+    The system displays the number of findings associated with your deferral request and prompts you to create an exception rule.
 
     If you select **Yes**, a rule is created. Select the link to view your new rule. The system displays the record for review. You can modify the conditions of the rule and select **Save** to preserve your changes. Select **Submit** to send your new rule for approval based on your approval hierarchy and approval rules described in &lt;link to Exception Management.&gt;
 
     Select the **Approvals** tab on the approval rule record to view the status of your requests.
 
 
-**Parent Topic:**[[ai-security-exposure-skill-agent|Using the AI guardrails helper skill and agentic workflow]]
+**Parent Topic:**[Using the AI guardrails helper skill and agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-skill-agent.md)
 
-## Related
-
-- [[sem-configure-exp-mngmt-vr|Configure Exception Management for Security Exposure Management]]
-- [[ai-security-exposure-skill-agent|Using the AI guardrails helper skill and agentic workflow]]
-- [[ai-security-exposure-use-aiskill|Use the AI guardrails helper skill]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[sem-create-exception-rule|Create an exception rule]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Create Talent Development Core Activity Categories
 
-As an [[egd-landing-page|Talent Development Core]] admin you create **[[activity-lxp|Activity]] Categories** that are used in growth plans.
+As an Talent Development Core admin you create **Activity Categories** that are used in growth plans.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ An **Activity Category** helps to identify what an activity is intended to do.
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[activity-lxp|Activity]]

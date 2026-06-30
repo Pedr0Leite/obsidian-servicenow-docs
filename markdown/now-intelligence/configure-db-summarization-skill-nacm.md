@@ -30,7 +30,7 @@ To want to enable additional skills, follow these steps and then go to [Create N
 
 3.  In the **Configurations** tab, select **Create new**.
 
-4.  In the [[configure-now-assist-cm|Configure Now Assist context menu]] window, select
+4.  In the Configure Now Assist context menu window, select
 
     -   Workflow: `Data and Analytics`
     -   Product: `Analytics`
@@ -43,9 +43,5 @@ To want to enable additional skills, follow these steps and then go to [Create N
 
 See [Create Now Assist context Menu configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-now-assist-configuration-with-guided-setup.md) for the rest of the process.
 
-**Parent Topic:**[[add-nacm|Add the Now Assist context menu]]
+**Parent Topic:**[Add the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-nacm.md)
 
-## Related
-
-- [[add-nacm|Add the Now Assist context menu]]
-- [[configure-now-assist-cm|Configure Now Assist context menu]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 # Command List form for pattern-based discovery
 
-The **Command List** form contains all commands used in [[r-discovery|discovery]] by infrastructure or application type patterns.
+The **Command List** form contains all commands used in discovery by infrastructure or application type patterns.
 
 For information on viewing a list of commands used by a pattern, see [View Patterns commands through the Discovery Patterns module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/view-command-pattern-discovery.md)and [View Patterns commands through the Command List module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/view-pattern-command-in-command-list.md).
 
@@ -112,6 +112,3 @@ The command is validated for discovering CIs in this domain. This field is appli
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

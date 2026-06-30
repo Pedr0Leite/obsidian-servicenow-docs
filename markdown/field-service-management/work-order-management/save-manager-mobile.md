@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Open a task.
 
@@ -36,6 +36,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
     The task shows on the home page of Field Service Manager Mobile under **Saved tasks**.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

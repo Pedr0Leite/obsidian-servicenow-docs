@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Using agentic flows in Universal Request AI agent collection
 
-Use the [[ur-landing-limitedaccess|Universal Request]] AI agent collection to complete tasks autonomously.
+Use the Universal Request AI agent collection to complete tasks autonomously.
 
 <table id="table_gyx_brq_l2c11"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Available AI agents
 
 </th></tr></thead><tbody><tr><td>
 
-[[agentic-flow-ur|Universal Request Router agentic workflow]]
+Universal Request Router agentic workflow
 
 </td><td>
 
@@ -44,7 +44,7 @@ Enables employees to request a department agnostic ticket to avail services that
 </td></tr></tbody>
 </table>|AI agents|Description|
 |---------|-----------|
-|Universal Request departmental ticket creator|Automates the routing of universal requests to appropriate departmental ticketing systems by analyzing department predictions and creating properly configured HR cases or IT incidents with all necessary [[field-mappings-sf|field mappings]] and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] tracking.|
+|Universal Request departmental ticket creator|Automates the routing of universal requests to appropriate departmental ticketing systems by analyzing department predictions and creating properly configured HR cases or IT incidents with all necessary field mappings and reference tracking.|
 |Record field value prediction AI agent|Predict fields of an incoming task/record by gathering incoming task sys\_id. It can also provide a summary and justification of the field predictions.|
 
 **Important:** All agentic workflow and AI agent records are read-only by default.
@@ -70,9 +70,3 @@ Enables employees to request a department agnostic ticket to avail services that
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[agentic-flow-ur|Universal Request Router agentic workflow]]
-- [[field-mappings-sf|Field mappings]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

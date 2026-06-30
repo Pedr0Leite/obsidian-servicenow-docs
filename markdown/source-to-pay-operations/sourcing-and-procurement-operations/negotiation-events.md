@@ -14,13 +14,13 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Sourcing events
 
-Sourcing events represent the type of sourcing activity needed to negotiate with each [[supplier|supplier]], and track the individual [[negotiations|negotiations]] with each supplier. They help sourcing managers manage multi-supplier and multi-product negotiations.
+Sourcing events represent the type of sourcing activity needed to negotiate with each supplier, and track the individual negotiations with each supplier. They help sourcing managers manage multi-supplier and multi-product negotiations.
 
 Instead of individually managing negotiations of similar item requests from various suppliers who provide that item, sourcing managers can create a sourcing event for a negotiation intent or objective to manage multi-supplier and multi-product negotiations. Multiple negotiations and sourcing requests can be mapped to a single sourcing event as child entities.
 
-Through this sourcing event, the sourcing managers can view and effectively manage the progress of the negotiations created for each supplier​. They can also discuss, follow, update, or cancel the event, as required. Further, they can award a single supplier or multiple suppliers, or even reject bids by selecting **Award**, **Award multiple suppliers**, or **Reject bids** respectively. Selecting **Award multiple suppliers** redirects them to the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], where they can complete the process. For more information on this, see [Award multiple suppliers from a sourcing event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/award-multiple-suppliers-from-a-ne.md).
+Through this sourcing event, the sourcing managers can view and effectively manage the progress of the negotiations created for each supplier​. They can also discuss, follow, update, or cancel the event, as required. Further, they can award a single supplier or multiple suppliers, or even reject bids by selecting **Award**, **Award multiple suppliers**, or **Reject bids** respectively. Selecting **Award multiple suppliers** redirects them to the Source-to-Pay Workspace, where they can complete the process. For more information on this, see [Award multiple suppliers from a sourcing event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/award-multiple-suppliers-from-a-ne.md).
 
-Sourcing events can be best viewed from the [[source-to-pay-list-page|Source-to-Pay Workspace list page]].
+Sourcing events can be best viewed from the Source-to-Pay Workspace list page.
 
 Here’s a list of key fields of a sourcing event:
 
@@ -177,7 +177,7 @@ View all the negotiations with each supplier that are mapped to this sourcing ev
 
 </td></tr><tr><td>
 
-[[purchase-lines|Purchase Lines]]
+Purchase Lines
 
 </td><td>
 
@@ -201,7 +201,7 @@ View information on all the cases that are related to the sourcing event.
 
 </td></tr><tr><td>
 
-Draft [[contracts|Contracts]]
+Draft Contracts
 
 </td><td>
 
@@ -229,7 +229,7 @@ Contract Requests
 
 </td><td>
 
-Displays all the associated contract requests against this sourcing event.**Note:** This field is displayed only if you have the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
+Displays all the associated contract requests against this sourcing event.**Note:** This field is displayed only if you have the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ Purchase SLAs
 
 </td><td>
 
-View all the purchase SLAs associated to purchasing tasks against the sourcing event, along with tasks associated to the underlying [[purchase-requisition|purchase requisition]] lines.
+View all the purchase SLAs associated to purchasing tasks against the sourcing event, along with tasks associated to the underlying purchase requisition lines.
 
 </td></tr><tr><td>
 
@@ -271,7 +271,7 @@ The default states that are available for a sourcing event are listed.
 -   Draft
 -   Planned
 -   Work in Progress
--   [[pricing|Pricing]] Obtained
+-   Pricing Obtained
 -   Awaiting Task Completion
 -   Requires Decision
 -   Closed Complete
@@ -280,14 +280,3 @@ The default states that are available for a sourcing event are listed.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-list-page|Source-to-Pay Workspace list page]]
-- [[purchase-lines|Purchase lines]]
-- [[contracts|Contracts]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[pricing|Pricing]]

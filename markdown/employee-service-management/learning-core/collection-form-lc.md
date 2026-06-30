@@ -14,7 +14,7 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Collection form
 
-Use the Collection form to [[create-content-collection|create a content collection]] in [[learning-core_overview|Learning Core]] to dynamically group [[exploring-learning-exp|learning]] content that includes multiple internal and external courses.
+Use the Collection form to create a content collection in Learning Core to dynamically group learning content that includes multiple internal and external courses.
 
 <table id="table_oys_rvn_wvb"><thead><tr><th>
 
@@ -191,8 +191,3 @@ Retirement date of the collection.
 
 [Learning External Contents form]()
 
-## Related
-
-- [[create-content-collection|Create a content collection]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]

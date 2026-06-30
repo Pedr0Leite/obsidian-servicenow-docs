@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related links and lists for a Story in Agile Development 2.0
 
-Use the related links and related lists on the Story form for the actions that you need to perform on your story in [[agile-landing-page|Agile Development 2.0]], such as adding scrum tasks, dependencies, or splitting the story.
+Use the related links and related lists on the Story form for the actions that you need to perform on your story in Agile Development 2.0, such as adding scrum tasks, dependencies, or splitting the story.
 
 <table id="table_fvc_l4s_klb"><thead><tr><th>
 
@@ -63,7 +63,7 @@ Copy Story
 
 </td><td>
 
-Copies the details of an existing active story to a new story. The [[c_Tests|tests]] and tasks of the story are also copied.The state of the newly created story is automatically set to Draft.
+Copies the details of an existing active story to a new story. The tests and tasks of the story are also copied.The state of the newly created story is automatically set to Draft.
 
 This action is not available for stories added from the triage board.
 
@@ -120,7 +120,3 @@ Adds existing tests to the story.These tests are also listed on the **Sprint Tra
 
 [Writing effective stories in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/how-to-write-stories.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]

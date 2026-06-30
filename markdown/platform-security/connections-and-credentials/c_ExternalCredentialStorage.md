@@ -31,7 +31,7 @@ The MID Server retrieves credentials from an external store using this process:
 
     Many Credential Resolvers such CyberArk call an application supplied by the third-party vault vendor running on same machine as the MID Server. That application can often be configured to cache credentials and knows to update the cache when a credential changes in the vault, which is very important to avoid unnecessary network calls to the vault each time MID Server requests a credential. The Credential Resolver \(using optional vendor application if present\) makes a call to the vault to get the actual user name, password, etc.
 
-    For Credential Resolvers supplied out-of-box \(only CyberArk today\), the MID Server only caches a credential for up to several seconds using [[encryption-landing|encryption]] in MID Server process memory. This means the MID Server can make multiple requests to the Credential Resolver for the same credential even when discovering a single device. Contact third party vendors for information about caching implementations for other Credential Resolvers.
+    For Credential Resolvers supplied out-of-box \(only CyberArk today\), the MID Server only caches a credential for up to several seconds using encryption in MID Server process memory. This means the MID Server can make multiple requests to the Credential Resolver for the same credential even when discovering a single device. Contact third party vendors for information about caching implementations for other Credential Resolvers.
 
 3.  MID Server executes the probe with the appropriate credential.
 
@@ -41,7 +41,7 @@ The MID Server retrieves credentials from an external store using this process:
 
 The MID Server posts log messages about external credential storage.
 
-If the repository encounters an error while attempting to resolve a credentials [[c_requestAPI|request]], the MID Server posts log messages with this prefix: `Problem with client's CredentialResolver:`
+If the repository encounters an error while attempting to resolve a credentials request, the MID Server posts log messages with this prefix: `Problem with client's CredentialResolver:`
 
 ## Components installed with External Credential Storage
 
@@ -49,7 +49,7 @@ If the repository encounters an error while attempting to resolve a credentials 
 
     The External Credential Storage business rule performs the following tasks when an administrator makes any change to the Enable External Credential Storage property:
 
-    -   Changes the view for the Credentials record list and form to the External Storage view. This view enables [[users|users]] to see the **Credential ID** column in the list.
+    -   Changes the view for the Credentials record list and form to the External Storage view. This view enables users to see the **Credential ID** column in the list.
     -   Instructs the MID Server to refresh its credentials cache in preparation for a change in the way credentials are obtained.
 -   **Property**
 
@@ -65,14 +65,7 @@ Configure your instance to obtain credentials from a remote repository.
 -   **[CyberArk credential storage integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md)**  
 The MID Server integration with the CyberArk vault enables ServiceNow® Orchestration, ServiceNow® Discovery, and ServiceNow® Service Mapping to run without storing any credentials on the instance.
 -   **[OAuth 2.0 authentication via MID Server using external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/oauth-2-0-support-in-external-credential.md)**  
-Store [[oauth-2-credentials|OAuth 2.0 credentials]]-client ID and client secret-in the CyberArk vault instead of the ServiceNow instance. The MID Server gets the credentials from the CyberArk vault, when required to get the [[oauth-inbound-and-outbound|OAuth]] token. The token is stored in the MID Server and refreshed automatically upon expiry.
+Store OAuth 2.0 credentials-client ID and client secret-in the CyberArk vault instead of the ServiceNow instance. The MID Server gets the credentials from the CyberArk vault, when required to get the OAuth token. The token is stored in the MID Server and refreshed automatically upon expiry.
 
 **Parent Topic:**[Get started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-getting-started.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[oauth-2-credentials|OAuth 2.0 credentials]]
-- [[oauth-inbound-and-outbound|OAuth]]

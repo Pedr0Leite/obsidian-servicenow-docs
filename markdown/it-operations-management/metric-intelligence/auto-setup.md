@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Automated Metric Intelligence setup
 
-When you initially set up [[operational-metrics|Metric Intelligence]], you can automate many of the setup steps. For example, the automated setup configures a MID Server for Metric Intelligence and creates a MID Server distributed cluster which contains that MID Server.
+When you initially set up Metric Intelligence, you can automate many of the setup steps. For example, the automated setup configures a MID Server for Metric Intelligence and creates a MID Server distributed cluster which contains that MID Server.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ The Metric Intelligence automated setup performs the following setup tasks:
 3.  Creates a new MID Server cluster of type ‘distributed’ set with a default port of 47100 for Apache Ignite
 4.  Adds the MID Server to the new MID Server distributed cluster
 5.  Creates a Metric Intelligence Metrics Extension and starts it
-6.  Opens the Metric Intelligence Metrics Context form. On this form, you can click the **Setup REST Listener** UI action to create the [[mid-web-server|MID Web Server]] extension configured with the ‘Enable REST Listener’ option and default port 8097
+6.  Opens the Metric Intelligence Metrics Context form. On this form, you can click the **Setup REST Listener** UI action to create the MID Web Server extension configured with the ‘Enable REST Listener’ option and default port 8097
 
 If automatic setup fails, you can create a MID Server distributed cluster manually, as described in the Use the **Setup Metric Intelligence** link only to create the first MID Server distributed cluster that contains a single MID Server, with default values. After the automated setup completes, you have to manually create any additional MID Server distributed clusters or add Metric Intelligence MID Servers.
 
@@ -61,7 +61,3 @@ If automatic setup fails, you can create a MID Server distributed cluster manual
 
 [MID Server and MID Server distributed cluster for Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/ops-intelligence-mid-server.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[mid-web-server|MID Web Server]]

@@ -12,7 +12,7 @@ breadcrumb: [Customer communication, Use, Customer Service Management]
 
 # Using Omnichannel Callback for Customer Service Management
 
-The ServiceNow® [[omni-callback-csm|Omnichannel Callback for Customer Service Management]] app enables a callback option for customers when there's a long wait time for a live agent.Additionally, agents can schedule callbacks on behalf of customers from [[csm-workspaces-configure|CSM Configurable Workspace]]
+The ServiceNow® Omnichannel Callback for Customer Service Management app enables a callback option for customers when there's a long wait time for a live agent.Additionally, agents can schedule callbacks on behalf of customers from CSM Configurable Workspace
 
 For more information, see [Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback.md).
 
@@ -56,7 +56,7 @@ The callback workflow proceeds as follows:
 
 ## Agent-scheduled callbacks
 
-In addition to customer-scheduled callbacks, agents can now create callbacks on behalf of customers from CSM Configurable Workspace. Agent-scheduled callbacks can be created from any [[omnichannel|omnichannel]] interaction \(chat, voice, email, messaging\) or case records. Agents can schedule, reschedule, and cancel callbacks.
+In addition to customer-scheduled callbacks, agents can now create callbacks on behalf of customers from CSM Configurable Workspace. Agent-scheduled callbacks can be created from any omnichannel interaction \(chat, voice, email, messaging\) or case records. Agents can schedule, reschedule, and cancel callbacks.
 
 The following diagram shows the agent-scheduled callback workflow.
 
@@ -78,14 +78,7 @@ Customers can request a callback during a chat on Virtual Agent or Engagement Me
 **Related topics**  
 
 
-[[request-callback-from-agent|Working with callback requests from customers]]
+[Working with callback requests from customers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-callback-from-agent.md)
 
-[[callback-requests-agents-customer|Callback requests by agents]]
+[Callback requests by agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/callback-requests-agents-customer.md)
 
-## Related
-
-- [[request-callback-from-agent|Working with callback requests from customers]]
-- [[callback-requests-agents-customer|Callback requests by agents]]
-- [[omni-callback-csm|Omnichannel Callback for Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[omnichannel|Omnichannel]]

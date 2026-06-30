@@ -16,7 +16,7 @@ When you have completed the migration process, review the results.
 
 ## Before you begin
 
-Role required: To perform the full migration and activate [[par-workspace|Platform Analytics experience]]: admin. Users with other admin roles \(pa\_admin, report\_admin, and dashboard\_admin\) have access to the Migration Center to evaluate the migration.
+Role required: To perform the full migration and activate Platform Analytics experience: admin. Users with other admin roles \(pa\_admin, report\_admin, and dashboard\_admin\) have access to the Migration Center to evaluate the migration.
 
 ## About this task
 
@@ -24,7 +24,7 @@ As soon as your data has been migrated, you see the results of the migration. Re
 
 ## Procedure
 
-1.  In the Migration Center, select an item from the Fully migrated column, Dashboards, Visualizations, Reports, PA [[widgets|Widgets]], or [[c_HomepagePublishers|Interactive Filters]] to review a list of all of the migrated items.
+1.  In the Migration Center, select an item from the Fully migrated column, Dashboards, Visualizations, Reports, PA Widgets, or Interactive Filters to review a list of all of the migrated items.
 
     \[Omitted image "data-mig-complete-db-list.png"\] Alt text: Complete migration dashboard list
 
@@ -40,11 +40,6 @@ As soon as your data has been migrated, you see the results of the migration. Re
 
     Any menu item previously connected to Core UI dashboards and reports automatically redirects to the new migrated version.
 
-    Both Core UI and Platform Analytics experience dashboards and visualizations sit side by side in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library.
+    Both Core UI and Platform Analytics experience dashboards and visualizations sit side by side in the Platform Analytics library.
 
-## Related
 
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

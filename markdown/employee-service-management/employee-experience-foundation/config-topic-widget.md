@@ -26,7 +26,7 @@ You can configure the topic header widget display using the following steps. To 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -190,6 +190,3 @@ Specify a hex code for the icon background color. Enter a value in this field on
 
 **Parent Topic:**[Employee Center browse experience widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/custom-widget-landing-ec.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

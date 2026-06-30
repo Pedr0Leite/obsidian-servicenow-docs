@@ -25,7 +25,7 @@ Career hub is a simplified and intuitive way to start building your development 
 -   Navigate ongoing aspirations and find inspiration by motivating, inspiring, and pointing you in the right direction.
 -   View your profile and provide employment and personal details. View details such as your manager, coworkers, personal contacts, and update your Career hub skills.
 -   View your growth plan tasks and stay on track by completing tasks that might need your attention.
--   View courses in [[exploring-learning-exp|Learning]] to complete your training to help you grow and show off all your learning [[achievements-lxp|achievements]].
+-   View courses in Learning to complete your training to help you grow and show off all your learning achievements.
 -   View your current learning development and keep up with your assigned, saved, and ongoing courses.
 -   Connect with coworkers and managers and view your scheduled conversations.
 -   View your recent conversations and manage your talking points and follow-up items.
@@ -107,7 +107,7 @@ Opportunities
 
 </td><td>
 
-Provides you with a recommendation of internal job opportunities. The job opportunities in this widget are mapped to the job opportunities in the following widgets that appear in the [[egd-oppt-mrktplc-landing|Opportunity marketplace]] module:-   Opportunities that might interest you
+Provides you with a recommendation of internal job opportunities. The job opportunities in this widget are mapped to the job opportunities in the following widgets that appear in the Opportunity marketplace module:-   Opportunities that might interest you
 -   Based on your skills
 
 </td></tr><tr><td>
@@ -116,7 +116,7 @@ Application status
 
 </td><td>
 
-Helps you keep track of [[egd-oppt-mrktplc-internal-job|internal jobs]] for which you applied. It provides you with the current status of your job application.
+Helps you keep track of internal jobs for which you applied. It provides you with the current status of your job application.
 
 </td></tr><tr><td>
 
@@ -161,9 +161,3 @@ Lets you search the org chart to browse peers with whom you can make connections
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[achievements-lxp|Achievements]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]

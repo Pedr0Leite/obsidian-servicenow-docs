@@ -12,7 +12,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 # CSM Configurable Workspace form templates
 
-Create and edit form templates for use in [[csm-workspaces-configure|CSM Configurable Workspace]] and then use the templates to automatically populate fields on case and interaction records.
+Create and edit form templates for use in CSM Configurable Workspace and then use the templates to automatically populate fields on case and interaction records.
 
 Form templates simplify the process of creating and submitting new records by populating fields with selected values. In CSM Configurable Workspace, form templates are available in the Templates tab in the contextual side panel.
 
@@ -23,7 +23,7 @@ Form templates include advanced capabilities that let you control when and how t
 From the **Templates** tab, you can do the following:
 
 -   View template cards that display information including the template name, description, and when the template was last used.
--   View different [[migration-lists|lists]] of templates, including **Favorites**, **My Templates**, and **All**.
+-   View different lists of templates, including **Favorites**, **My Templates**, and **All**.
 -   Mark templates as Favorites by selecting the star icon on the template card.
 -   Sort the available templates alphabetically or by last used.
 -   Create a new template by selecting the Create icon \(**+**\) at the top of the **Templates** tab.
@@ -148,13 +148,7 @@ Example: A case has **Account = XYZ** **and** **State = Open**. The template "St
 
 ## Adding comments, work notes, and email with templates
 
-You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the [[csm-config-ws-activity-stream|activity stream]]. Selecting a template displays a modeless dialog with the template content. For more information, see [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]].
+You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the activity stream. Selecting a template displays a modeless dialog with the template content. For more information, see [Modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md).
 
 **Using template email content:** When a template is applied that includes email content, an email draft appears in the Email tab. Select the **Email** tab to view the draft. The **To**, **Cc**, and **Subject** fields are populated based on case information. Review the email, make any edits if needed, and select **Send**.
 
-## Related
-
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]

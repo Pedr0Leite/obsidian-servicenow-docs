@@ -15,7 +15,7 @@ breadcrumb: [Manage Hardware Asset Management subscriptions, Use, Hardware Asset
 
 # View the license report for the Hardware Asset Management application
 
-View details of the subscriptions purchased and consumed by your organization for the [[managed-it-resource-ccm|managed IT resource types]] such as Server, End User Computing Device, Networking Device, Mobile Device, and Telecom Network Inventory using the ITAM License Report.
+View details of the subscriptions purchased and consumed by your organization for the managed IT resource types such as Server, End User Computing Device, Networking Device, Mobile Device, and Telecom Network Inventory using the ITAM License Report.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin, usage\_admin
 
 1.  Navigate to **All** &gt; **ITAM Licensing** &gt; **ITAM License Report**.
 
-2.  Search for the [[ham-landing-page|Hardware Asset Management]] application.
+2.  Search for the Hardware Asset Management application.
 
     \[Omitted image "itam-license-ham.png"\] Alt text: ITAM License Report
 
@@ -58,10 +58,10 @@ Role required: admin, usage\_admin
         **Note:**
 
         -   Resource Subcategory is available with Hardware Asset Management version 10.1.0 and later.
-        -   Based on the acquisition method, the following resource subcategories are available for the Mobile Device only when the [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]] is activated on your ServiceNow instance:
+        -   Based on the acquisition method, the following resource subcategories are available for the Mobile Device only when the Hardware Asset Management integration with Zero Touch Mobility is activated on your ServiceNow instance:
             -   Bring Your Own Asset
             -   Corporate Asset
-    -   **Resource Total Count**: Asset count of the managed IT resources that is grouped by Resource categories and [[model-hierarchy|Model categories]].
+    -   **Resource Total Count**: Asset count of the managed IT resources that is grouped by Resource categories and Model categories.
     -   **Subscription Unit Ratio**: Predefined ratios that determine how many assets of a Resource category require a subscription. For example, the defined ratio of 4:1 for End User Computers means that every four assets of that resource category require one Subscription Unit.
     -   **Total Subscription Units Consumed**: The number of subscriptions per Resource category that your organization consumed. The licensing module calculates this number by applying the Subscription Unit Ratio to the Resource Total Count for each Resource Category.
 
@@ -74,9 +74,3 @@ Role required: admin, usage\_admin
 
 [Exclude assets]()
 
-## Related
-
-- [[managed-it-resource-ccm|Managed IT Resource types]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]]
-- [[model-hierarchy|Model categories]]

@@ -14,13 +14,13 @@ breadcrumb: [Adaptive authentication, Authentication, Access Management]
 
 # Authentication policy contexts
 
-Use authentication policy contexts to determine how and when your instance enforces [[authentication-policies|authentication policies]].
+Use authentication policy contexts to determine how and when your instance enforces authentication policies.
 
-[[c_Authentication|Authentication]] contexts define how and when a policy is enforced during the login process. Assign a policy to a policy context to define inputs and conditions regarding how your instance handles authentication.
+Authentication contexts define how and when a policy is enforced during the login process. Assign a policy to a policy context to define inputs and conditions regarding how your instance handles authentication.
 
 ## Pre-authentication context
 
-[[ca-policies|Policies]] in the pre-authorization context execute when a user first accesses the instance, before the they see a login screen. You can use the pre-authorization context to allow or deny access before your [[users|users]] are prompted for login credentials based on your selected policy. Because these policies evaluate before a user enters any information, those policies cannot take criteria such as a user's roles or groups into account.
+Policies in the pre-authorization context execute when a user first accesses the instance, before the they see a login screen. You can use the pre-authorization context to allow or deny access before your users are prompted for login credentials based on your selected policy. Because these policies evaluate before a user enters any information, those policies cannot take criteria such as a user's roles or groups into account.
 
 For more detail on this context, see [Pre authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/pre-auth-context.md).
 
@@ -32,28 +32,17 @@ For more detail on this context, see [Post-authentication context](https://raw.g
 
 ## MFA \(Multi-Factor Authentication\) context
 
-Policies assigned to the MFA context define whether to enforce MFA during the login process. Whether your instance enforces MFA is determined by the [[sc-configuration|configuration]] of policies in this context. For more detail on this context, see [Multi-factor Authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
+Policies assigned to the MFA context define whether to enforce MFA during the login process. Whether your instance enforces MFA is determined by the configuration of policies in this context. For more detail on this context, see [Multi-factor Authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 
 ## Account recovery context
 
-Administrators can configure [[sso-acct-recovery|account recovery \(ACR\)]] to perform recovery activities such as addressing SSO misconfiguration or expired [[c_Certificates|certificates]]. To use account recovery, you must register at least one admin account as an account recovery user. Single sign-on can’t be activated on your instance until there is at least one account configured. For more information about the context that can be set, see [Account recovery context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/account-recovery-context.md).
+Administrators can configure account recovery \(ACR\) to perform recovery activities such as addressing SSO misconfiguration or expired certificates. To use account recovery, you must register at least one admin account as an account recovery user. Single sign-on can’t be activated on your instance until there is at least one account configured. For more information about the context that can be set, see [Account recovery context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/account-recovery-context.md).
 
 ## Session Validation context
 
-The [[session-context|Session Validation context]] can be used with the [[adaptive-authentication|Adaptive authentication]] policy framework. The framework uses authentication policies to evaluate authentication requests \(session\) and then either deny or allow access based on policy conditions. For more information, see [Session validation context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/session-context.md).
+The Session Validation context can be used with the Adaptive authentication policy framework. The framework uses authentication policies to evaluate authentication requests \(session\) and then either deny or allow access based on policy conditions. For more information, see [Session validation context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/session-context.md).
 
 ## Default policy
 
 Within the policy context, you can define a default policy in the **Default Policy** field. This default defines how your instance responds to the result of your policy. The available default policy options are determined by which context you are using. Detail on these options can be found in the docs describing these individual contexts.
 
-## Related
-
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[sso-acct-recovery|Account recovery \(ACR\)]]
-- [[c_Certificates|Certificates]]
-- [[session-context|Session validation context]]
-- [[adaptive-authentication|Adaptive authentication]]

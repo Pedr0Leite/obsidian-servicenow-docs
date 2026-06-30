@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # Manage automatically assigned Walk-up Experience interactions
 
-The agents supporting [[walkup-experience-landing-page|Walk-up Experience]] locations can view and manage interactions automatically pushed to the Agent Workspace inbox.
+The agents supporting Walk-up Experience locations can view and manage interactions automatically pushed to the Agent Workspace inbox.
 
 ## Before you begin
 
@@ -113,6 +113,3 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
 [Create a request through a catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateARequestThroughTheCatalog.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

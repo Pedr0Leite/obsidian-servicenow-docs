@@ -229,8 +229,5 @@ Allowed groups
 Groups that can view the record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-composite-metric-definition|Create a calculated metric definition]]
+</table>**Parent Topic:**[Create a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-composite-metric-definition.md)
 
-## Related
-
-- [[create-composite-metric-definition|Create a calculated metric definition]]

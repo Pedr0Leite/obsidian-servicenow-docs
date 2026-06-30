@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[crisis-management-uib|Crisis events]]** &gt; **Pending**.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Crisis events** &gt; **Pending**.
 
 2.  Select the crisis event from the list.
 
@@ -28,7 +28,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     You can add an asset that you want to recover during the crisis. The primary elements of the asset are listed as **Asset types**. The primary elements belong to the element definition type that is identified in the plan template. When you add an asset to the event, its associated dependencies are pulled into the event. The dependencies are displayed in the **Asset types** panel.
 
-    **Note:** When you select **Add** for an application, all the dependencies that you had identified in the [[bia-uib|business impact analysis]] of that application are also added to the exercise.
+    **Note:** When you select **Add** for an application, all the dependencies that you had identified in the business impact analysis of that application are also added to the exercise.
 
 4.  In the Applications list, select the application and navigate to the **Plans** tab.
 
@@ -43,10 +43,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     The crisis event is saved in the **Pending** state.
 
 
-**Parent Topic:**[[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
+**Parent Topic:**[Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md)
 
-## Related
-
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[crisis-management-uib|Crisis events]]
-- [[bia-uib|Business impact analysis]]

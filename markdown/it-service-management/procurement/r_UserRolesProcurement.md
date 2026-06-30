@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 # User roles installed with Procurement
 
-[[c_Procurement|Procurement]] plugin adds the following user roles.
+Procurement plugin adds the following user roles.
 
 <table id="id_anj_yhk_wwb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ procurement\_user
 
 </td><td>
 
-Can create purchase orders without a request. Can view requests and requested items. Can view transfer orders. Can [[t_CreateAPurchaseOrder|create a purchase order]] or transfer order when sourcing items for a request. Can view the vendor catalog.Can refresh, add, delete, and rearrange gauges in the Procurement Overview module.
+Can create purchase orders without a request. Can view requests and requested items. Can view transfer orders. Can create a purchase order or transfer order when sourcing items for a request. Can view the vendor catalog.Can refresh, add, delete, and rearrange gauges in the Procurement Overview module.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,3 @@ Can create purchase orders without a request. Can view requests and requested it
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]

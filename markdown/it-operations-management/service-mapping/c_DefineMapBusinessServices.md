@@ -16,13 +16,13 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 You can perform initial mapping of multiple or single application services in your organization using a method that best suits you.
 
-You can map application services after you complete the [[c_ServiceMappingOverview|Service Mapping]] setup.
+You can map application services after you complete the Service Mapping setup.
 
 \[Omitted image "SMMapFlowDiscoverBulk.png"\] Alt text: Initial mapping of business services as part of the Service Mapping workflow
 
 A typical organization has hundreds of application services. Mapping each of them individually can be time and effort consuming. With Service Mapping, you can map most IT services in bulk. Mapping multiple application services at once is very effective, but is not precise. You may need to individually map application services omitted during bulk mapping.
 
-A [[r-discovery|discovery]] method depends on how you have been managing your application services prior to mapping them and what information about them you gathered:
+A discovery method depends on how you have been managing your application services prior to mapping them and what information about them you gathered:
 
 -   [Map multiple application services suggested by classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-business-services-in-bulk.md)
 
@@ -64,7 +64,3 @@ Service Mapping creates maps to help you see the architecture and organization o
 
 **Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/using-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

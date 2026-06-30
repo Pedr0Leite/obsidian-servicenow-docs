@@ -14,7 +14,7 @@ breadcrumb: [Configure a reservable module, Configure, Workplace Reservation Man
 
 # Create a record producer to add additional details
 
-[[wsd-create-record-producer|Configure a record producer]] with additional details and add it to the reservable module. The fields configured for additional details will be displayed to the employee when they [[reservation-portal|make a reservation]].
+Configure a record producer with additional details and add it to the reservable module. The fields configured for additional details will be displayed to the employee when they make a reservation.
 
 ## Before you begin
 
@@ -103,7 +103,7 @@ Reservation portal - Reservation form with the 'Related Information' section:
 
     -   Checkbox
     -   Multiple Choice
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     -   Select Box
     -   Single Line Text
     To learn more about the different types of variables and how to configure them, see [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_VariableTypes.md) Types of service catalog variables.
@@ -165,8 +165,3 @@ The record producer is created with the additional details.
 
 **Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-## Related
-
-- [[wsd-create-record-producer|Configure a Record producer]]
-- [[reservation-portal|Make a reservation]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

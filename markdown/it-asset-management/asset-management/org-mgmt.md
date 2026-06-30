@@ -14,7 +14,7 @@ breadcrumb: [Use, Asset Management, IT Asset Management]
 
 # Use Organization Management
 
-The Organization Management application provides an easy way to perform such [[am-landing-page|asset management]] tasks as updating users and adding vendors.
+The Organization Management application provides an easy way to perform such asset management tasks as updating users and adding vendors.
 
 It includes managing your vendors and manufacturers, as well as managing locations.
 
@@ -71,6 +71,3 @@ In addition to the physical specifics for the location, the Asset view includes 
 
 \[Omitted image "AssetLocation.png"\] Alt text: Asset location
 
-## Related
-
-- [[am-landing-page|Asset Management]]

@@ -12,11 +12,11 @@ breadcrumb: [Configure a parametrized data item, Data items, Mobile app componen
 
 # Assign a data item with parameters to a list screen
 
-When you associate a parametrized data item with a [[list-screen|list screen]], additional fields appear in the screen configuration that you must complete for the parameter to be applied.
+When you associate a parametrized data item with a list screen, additional fields appear in the screen configuration that you must complete for the parameter to be applied.
 
 ## Before you begin
 
-Make sure that you have configured a data item that has parameters. For more information, see [[sg-config-parametrized-data-item|Configure a parametrized data item]].
+Make sure that you have configured a data item that has parameters. For more information, see [Configure a parametrized data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md).
 
 Role required: admin
 
@@ -24,13 +24,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
@@ -227,15 +227,8 @@ The value that appears by default in the UI field. The Default value type field 
         -   **Append encoded query**: Automatically inputs data from an encoded query.
     3.  Select **Save**.
 
-13. Complete any additional [[sg-screen-field-enhancements|screen fields]] as needed. For more information on creating a screen, see [[sg-studio-configure-applet-screens|Create a screen]].
+13. Complete any additional screen fields as needed. For more information on creating a screen, see [Create a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-configure-applet-screens.md).
 
 14. Select **Save**.
 
-## Related
 
-- [[sg-config-parametrized-data-item|Configure a parametrized data item]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-screen-field-enhancements|Screen fields]]

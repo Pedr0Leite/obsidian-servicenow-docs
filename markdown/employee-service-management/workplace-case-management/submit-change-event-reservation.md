@@ -18,7 +18,7 @@ As a workplace employee, request a change to the date, time, and duration of you
 
 ## Before you begin
 
-**Note:** Only reservations created by an employee or if they are set as requested by in [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] are visible for you to select and update.
+**Note:** Only reservations created by an employee or if they are set as requested by in Workplace Reservation Management are visible for you to select and update.
 
 Select a reservation that you want to update and select the new date, time, and duration for which you want to update your reservation. A workplace case is created with an updated or a new workplace service.
 
@@ -28,7 +28,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Home** &gt; **Catalog** on the navigation menu bar.
 
-    You can also access the Emergency Maintenance request form using the [[employee-center-landing-page|Employee Center]] portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **[[workplace-services|Workplace Services]]** &gt; **Maintenance** &gt; **Change Event Reservation**.
+    You can also access the Emergency Maintenance request form using the Employee Center portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Maintenance** &gt; **Change Event Reservation**.
 
 2.  Select **Change Event Reservation** record form.
 
@@ -46,7 +46,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     When a change event request is submitted, a workplace case is created. The case is automatically assigned to the Workplace Event Planners assignment group. It is then assigned manually to a user in the Workplace Event Planners assignment group.
 
-    When the change event request case is assigned to a Workplace [[event-planner|Event Planner]], AI agentic workflow **Help Manage workplace Reservations** is triggered. AI agents retrieve a reservation from case details, analyze the reservation, and update the reservation case notes for workplace event planners to review. If the same location is available for the updated date and time, application reserves a space for you. If you cannot find a location of your choice when you are changing the date, time, and duration of a reservation, application provides a link for you to select a preferred location manually.
+    When the change event request case is assigned to a Workplace Event Planner, AI agentic workflow **Help Manage workplace Reservations** is triggered. AI agents retrieve a reservation from case details, analyze the reservation, and update the reservation case notes for workplace event planners to review. If the same location is available for the updated date and time, application reserves a space for you. If you cannot find a location of your choice when you are changing the date, time, and duration of a reservation, application provides a link for you to select a preferred location manually.
 
     For more information, see [View change event reservation case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-case-change-event-reservation.md) and [Help manage workplace reservations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/manage-workplace-reservations-agent-ai.md).
 
@@ -64,7 +64,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -84,10 +84,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Submit an emergency maintenance request]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[event-planner|Event Planner]]
-- [[space-assistance|Space assistance]]

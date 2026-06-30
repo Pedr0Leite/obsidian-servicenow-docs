@@ -14,7 +14,7 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Localization Framework support for Surveys
 
-[[localization-framework-landing|Localization Framework]] enables the translation of surveys items when a translation request for a survey is created and when a [[ia-localization-il|localization]] requested item \(LRITM\) is created.
+Localization Framework enables the translation of surveys items when a translation request for a survey is created and when a localization requested item \(LRITM\) is created.
 
 ## Localizing Surveys
 
@@ -25,7 +25,7 @@ The extension of the Localization Framework capabilities to surveys enables you 
 -   Translate the content of the surveys directly using the edit translations option.
 -   Read, edit, and machine translate the content. You can also send the content to TMS or via email. You can export and import the content of the survey elements.
 
-    **Note:** Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework. For more information, see [Exploring Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/exploring-dynamic-translation.md).
+    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework. For more information, see [Exploring Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/exploring-dynamic-translation.md).
 
 -   Approve and publish the translated content.
 -   Monitor the overall localization health of the surveys from the [Localization Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-insights-dashboard.md).
@@ -34,8 +34,3 @@ For more information on requesting and editing translation for surveys, see [Req
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]

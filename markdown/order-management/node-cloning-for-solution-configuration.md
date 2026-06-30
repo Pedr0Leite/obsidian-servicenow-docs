@@ -12,7 +12,7 @@ breadcrumb: [Solution configuration setup, CPQ app, Configure, price, quote apps
 
 # Node cloning for solution configuration
 
-Node cloning lets you duplicate an existing solution configuration node in a set, producing an independent copy that you can [[Modify|modify]] without affecting the source.
+Node cloning lets you duplicate an existing solution configuration node in a set, producing an independent copy that you can modify without affecting the source.
 
 In solution configuration, a set groups related configuration nodes. When you need a new node that resembles an existing one, cloning that node is faster and less error-prone than building a new one from scratch. The cloned node starts as an exact copy of the source, then diverges as you edit it.
 
@@ -20,7 +20,7 @@ Cloning is available from the solution configuration navigation sidebar. You can
 
 When you clone a node, the following are copied to the new node:
 
--   All field values, including set-based [[fields|fields]], boolean fields, number fields, picklists, product fields, and text fields.
+-   All field values, including set-based fields, boolean fields, number fields, picklists, product fields, and text fields.
 -   Child configurations associated with the source node, preserving their structure and field values.
 -   Nested child configurations, so that the full hierarchy of the source node is reproduced in the clone.
 
@@ -41,7 +41,3 @@ Cloning is an additional option in the solution configuration navigation sidebar
 
 A cloned node can itself be the parent of child and grandchild configurations. When you clone a parent node, the full hierarchy beneath it is reproduced in the new node. This means you do not need to rebuild nested configurations manually after cloning. The depth of the hierarchy that can be cloned depends on the configuration design. Solution configuration supports cloning up to four levels deep.
 
-## Related
-
-- [[Modify|Modify]]
-- [[fields|Fields]]

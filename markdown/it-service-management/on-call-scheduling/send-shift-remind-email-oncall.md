@@ -24,7 +24,7 @@ Role required: rota\_admin or admin
 
 The reminder is sent to the email address specified in the user record, unless the address is specified in other notification preferences. Notification preferences take precedence over the user record.
 
-For all major on-call shift email notifications, you can now decide where the links to an on-call shift records are redirected. Instead of an on-call shift record automatically opening in the classic UI16 interface in [[c_OnCallScheduling|On-Call Scheduling]], the record can be opened in SOW. The on-call shift record link in an email notification opens in SOW only if the following conditions are met:
+For all major on-call shift email notifications, you can now decide where the links to an on-call shift records are redirected. Instead of an on-call shift record automatically opening in the classic UI16 interface in On-Call Scheduling, the record can be opened in SOW. The on-call shift record link in an email notification opens in SOW only if the following conditions are met:
 
 -   The **Redirect SOW Email notification** \(**sow\_email\_notification\_redirect**\) property is set to `true`.
 -   The **Redirect SOW Email notification for On-call scheduling** \(**sow\_email\_notification\_redirect.on\_call**\) property is set to `true`.
@@ -58,6 +58,3 @@ The ITSM Notifications Redirection \(com.snc.itsm.notifications\_redirection\) p
 
 [Manage shifts from the Calendar view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/customize-calendar-view-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

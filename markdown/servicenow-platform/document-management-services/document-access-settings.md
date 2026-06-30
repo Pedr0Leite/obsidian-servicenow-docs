@@ -21,8 +21,8 @@ Document access permissions for users and groups provide you with security for y
 By default, the document owner has all privileges to the document and can do the following:
 
 -   Update the document parameters
--   Upload [[document-mgt-versions|document versions]]
--   Create [[doc-mgt-references|document references]]
+-   Upload document versions
+-   Create document references
 -   Share a document with other users
 -   Delete a document
 
@@ -88,7 +88,7 @@ To share documents with other users and groups you must have write access to the
 |[User Criteria Permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/share-docs-user-criteria.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_criteria\_read|
 
 -   **[Share documents with users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/share-docs-users.md)**  
-Assign Reader, Writer or Owner permissions to users to enable them to read, download, update, or [[delete-a-doc|delete documents]].
+Assign Reader, Writer or Owner permissions to users to enable them to read, download, update, or delete documents.
 -   **[Share documents with groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/share-docs-groups.md)**  
 As a Writer or Owner, assign access to user groups based on your access permissions.
 -   **[Share documents with roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/share-docs-roles.md)**  
@@ -98,8 +98,3 @@ As a Writer or Owner assign access to a document based on the user criteria perm
 
 **Parent Topic:**[Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-management-landing.md)
 
-## Related
-
-- [[document-mgt-versions|Document versions]]
-- [[doc-mgt-references|Document references]]
-- [[delete-a-doc|Delete documents]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for CSM, Customer Service Management]
 
 # Using agentic AI in Now Assist for Customer Service Management \(CSM\)
 
-The [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) AI Agent Collection provides a set of prebuilt, fully configured AI agents and agentic workflows designed to address common Customer Service Management scenarios.
+The Customer Service Management \(CSM\) AI Agent Collection provides a set of prebuilt, fully configured AI agents and agentic workflows designed to address common Customer Service Management scenarios.
 
 These model examples combine autonomous and supervised flows to perform multi-step actions using advanced reasoning, triggered by customer cases, conversations, or detected intents. Built on the ServiceNow AI Platform, the agents leverage capabilities such as Knowledge Graph, Flow Designer, scripting, Topics, Catalog Items, Retrieval-Augmented Generation \(RAG\), record operations, web search, and generative inputs. Powered by AI Agent Fabric and Workflow Data Fabric, the collection operates seamlessly across systems without dependency on data location, while Guardian enforces guardrails for security and compliance. By offering ready-to-use building blocks, it helps guide and automate complex processes, reduce agent friction, and free human agents to focus on higher-value work—ultimately accelerating resolution times and enhancing customer experience.
 
@@ -55,7 +55,7 @@ Handles end-to-end case or case type validation, creation, verification, and esc
 
 </td><td>
 
-Provides agents with real-time, context aware responses to queries on [[customer-data|customer data]], case details, product information, catalog entries, and interaction history, using multi-turn Q&amp;A to maintain conversational context and accuracy.
+Provides agents with real-time, context aware responses to queries on customer data, case details, product information, catalog entries, and interaction history, using multi-turn Q&amp;A to maintain conversational context and accuracy.
 
 </td><td>
 
@@ -86,7 +86,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Security implementation considerations
 
-Enable security implementation to execute AI agents and agentic workflows through Access Control [[migration-lists|Lists]] \(ACLs\) and user identities. For more information, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md)
+Enable security implementation to execute AI agents and agentic workflows through Access Control Lists \(ACLs\) and user identities. For more information, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md)
 
 ## Considerations for running the autonomous AI Agents
 
@@ -102,8 +102,3 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-data|Customer data]]
-- [[migration-lists|Lists]]

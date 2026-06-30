@@ -14,11 +14,11 @@ breadcrumb: [Case view component, Configure web components, Web Embeddables, Set
 
 # Embed the Case view component instance on the third-party website
 
-Embed the global code and component code of the [[case-view-web-component|Case view component]] instance that you configured so that you can enable your customers to start using the Case view component instance on your third-party website.
+Embed the global code and component code of the Case view component instance that you configured so that you can enable your customers to start using the Case view component instance on your third-party website.
 
 ## Before you begin
 
-You must [[configure-case-view-component-on-instance|configure the Case view component instance]]. For information, see. [Configure the Case view component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-case-view-component-on-instance.md).
+You must configure the Case view component instance. For information, see. [Configure the Case view component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-case-view-component-on-instance.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Case view component instance appears on your third-party website.
 
-## Related
-
-- [[case-view-web-component|Case view component]]
-- [[configure-case-view-component-on-instance|Configure the Case view component instance]]

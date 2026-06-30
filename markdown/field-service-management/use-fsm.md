@@ -12,11 +12,11 @@ breadcrumb: [Field Service Management]
 
 # Using Field Service Management
 
-Use [[fsm-application-landing-page|Field Service Management]] to manage work tasks performed on location. Match tasks to agents based on skills, geographic territory assignments, and available inventory. Collaborate between operations, field resources, and customers through mobile channels.
+Use Field Service Management to manage work tasks performed on location. Match tasks to agents based on skills, geographic territory assignments, and available inventory. Collaborate between operations, field resources, and customers through mobile channels.
 
 <table id="table_ukd_qhh_gfc" class="nav-card"><tbody><tr><td>
 
-[Prepare work orders\[Omitted image "bus-automated-testing-framework.svg"\] Alt text:[[preparing-work-orders|Prepare work orders]] to dispatch to Field Service agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/preparing-work-orders.md)
+[Prepare work orders\[Omitted image "bus-automated-testing-framework.svg"\] Alt text:Prepare work orders to dispatch to Field Service agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/preparing-work-orders.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Use [[fsm-application-landing-page|Field Service Management]] to manage work tas
 </td></tr></tbody>
 </table>## Field Service Management using overview
 
-The process for [[configure-fsm|configuring Field Service Management]] includes:
+The process for configuring Field Service Management includes:
 
 -   [Prepare work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/preparing-work-orders.md)
 
@@ -83,8 +83,4 @@ The process for [[configure-fsm|configuring Field Service Management]] includes:
 
     The Mobile Agent app is the most effective place for agents to interact with work order tasks.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[preparing-work-orders|Prepare work orders]]
-- [[configure-fsm|Configuring Field Service Management]]

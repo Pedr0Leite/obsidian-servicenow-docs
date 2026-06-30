@@ -14,9 +14,9 @@ breadcrumb: [Regulatory Change Management Core UI, Use, Regulatory Change Manage
 
 # Regulatory alerts
 
-[[list-view-of-reg-alerts|Regulatory alerts]] are an aggregation of different regulatory events and documents that are sourced from multiple regulatory intelligence providers. Similar to web feeds, a regulatory alert is a record of these regulatory changes. Such changes are frequently updated, and the alerts help you stay informed about the regulatory landscape.
+Regulatory alerts are an aggregation of different regulatory events and documents that are sourced from multiple regulatory intelligence providers. Similar to web feeds, a regulatory alert is a record of these regulatory changes. Such changes are frequently updated, and the alerts help you stay informed about the regulatory landscape.
 
-The [[reg-change-mgmt-landing-page|Regulatory Change Management]] application transforms and maps the alerts. The application provides the information in regulatory alert tables.
+The Regulatory Change Management application transforms and maps the alerts. The application provides the information in regulatory alert tables.
 
 The Regulatory Change Management life cycle starts with the regulatory alert record. Each regulatory alert record contains metadata that helps stakeholders to translate the changes, create an action plan, and implement actions to comply with the regulatory changes.
 
@@ -79,14 +79,9 @@ Add an AI-recommended citation to a regulatory alert by using the GRC: Predictiv
 -   **[Manage and assign regulatory event alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-regulatory-feeds.md)**  
 Assign regulatory event alerts that are received from the regulatory intelligence provider to an appropriate user. You can review other properties of the regulatory event alert.
 -   **[Train and use the similarity solution to recommend citations on regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/retrain-ml-reg-compliance-mapping.md)**  
-Train and use the machine learning solution by activating the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Predictive Intelligence plugin. The solution enables the system to automatically recommend correct citations on regulatory alerts to associate.
+Train and use the machine learning solution by activating the Governance, Risk, and Compliance Predictive Intelligence plugin. The solution enables the system to automatically recommend correct citations on regulatory alerts to associate.
 -   **[Manage and assign source document alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-source-document-feeds.md)**  
 Assign source document alerts that are received from the regulatory intelligence provider to an appropriate user. You can review other properties of the source document alert.
 
 **Parent Topic:**[Regulatory Change Management Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/using-rcm-classic-ui.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

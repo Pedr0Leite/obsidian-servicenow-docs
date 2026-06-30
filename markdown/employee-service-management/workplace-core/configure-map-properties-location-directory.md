@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Configure the map properties for the Location directory.
 
-    For more information about the map properties, see [[wsd-space-mapping-properties|Properties installed with Workplace Space Mapping]].
+    For more information about the map properties, see [Properties installed with Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsd-space-mapping-properties.md).
 
 3.  Select **Save**.
 
@@ -50,6 +50,3 @@ Role required: admin
 
 [Work with the Card view on the Location directory]()
 
-## Related
-
-- [[wsd-space-mapping-properties|Properties installed with Workplace Space Mapping]]

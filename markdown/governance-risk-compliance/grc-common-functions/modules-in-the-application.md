@@ -14,7 +14,7 @@ breadcrumb: [Integration with Thomson Reuters Regulatory Intelligence \(TRRI\), 
 
 # Modules in the GRC integration with Thomson Reuters Regulatory Intelligence application
 
-The [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]] application includes various modules.
+The GRC integration with Thomson Reuters Regulatory Intelligence application includes various modules.
 
 The following modules are displayed under the GRC integration with Thomson Reuters Regulatory Intelligence application:
 
@@ -172,6 +172,3 @@ Mapping of the Thomson Reuters platform taxonomy to internal taxonomy.
 
 **Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md)
 
-## Related
-
-- [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]]

@@ -12,41 +12,41 @@ breadcrumb: [Using MISP to investigate and analyze threats, MISP integration for
 
 # Sighting searches in MISP
 
-You can perform sighting searches on [[c_Observables|observables]] in the MISP instance to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL, occur in your network. Each occurrence is considered a sighting.
+You can perform sighting searches on observables in the MISP instance to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL, occur in your network. Each occurrence is considered a sighting.
 
 ## Sightings in MISP
 
-[[indicator-sightings|Sightings]] denote that an indicator, object, or attribute, was seen and its validity is confirmed. Sightings in MISP is a system that allows you to respond to attributes on an event. It is designed to provide an easy method for your users to confirm that they have seen a given attribute, giving it more credibility. You can sight an attribute multiple times.
+Sightings denote that an indicator, object, or attribute, was seen and its validity is confirmed. Sightings in MISP is a system that allows you to respond to attributes on an event. It is designed to provide an easy method for your users to confirm that they have seen a given attribute, giving it more credibility. You can sight an attribute multiple times.
 
 **Note:** Observables are known as attributes in MISP.
 
-Some attributes are considered as false positives, which means that they are not valid sightings. Other attributes are valid for only a certain duration, such as a phishing [[campaign|campaign]] that runs for only one week. You can assign an expiration date to the attributes that are valid for a certain duration, but each organization can assign only one valid expiration date to an attribute.
+Some attributes are considered as false positives, which means that they are not valid sightings. Other attributes are valid for only a certain duration, such as a phishing campaign that runs for only one week. You can assign an expiration date to the attributes that are valid for a certain duration, but each organization can assign only one valid expiration date to an attribute.
 
 Sightings that are created in MISP by users of organizations that are marked as local in the corresponding MISP server are known as internal sightings. Sightings that are created in MISP by users of organizations that are marked as remote in the corresponding MISP server are known as external sightings.
 
 ## Sighting searches in SIR
 
-The [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search workflow]] executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries that are based on the sighting search configurations, and executes the searches that are based on the configured flow.
+The [Security Operations Integration - Sightings Search workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md) executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries that are based on the sighting search configurations, and executes the searches that are based on the configured flow.
 
-Sighting searches helps analysts to determine the prevalence of a threat over time. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the Security Incident [Sightings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md), [[view-sightings-search-results|Sightings Search Results]], and [[view-sightings-search-details|Sightings Search Details]] related lists.
+Sighting searches helps analysts to determine the prevalence of a threat over time. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the Security Incident [Sightings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md), [Sightings Search Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md), and [Sightings Search Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-details.md) related lists.
 
 As you start to analyze an incident, you can set up your ServiceNow AI Platform to [automatically perform a sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md) or [manually perform an observable sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md) to identify other users in your organization who are impacted by the same phishing attack.
 
-**Parent Topic:**[[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
+**Parent Topic:**[Using MISP to investigate and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-misp-to-detect-and-analyze-threats.md)
 
 ## Enable automatic sighting searches in MISP
 
-Enable the sighting search in MISP to run automatically so that the [[security-operations-landing-page|Security Operations]] Integration - Sightings Search workflow is triggered whenever new observables are associated with a security incident.
+Enable the sighting search in MISP to run automatically so that the Security Operations Integration - Sightings Search workflow is triggered whenever new observables are associated with a security incident.
 
 ### Before you begin
 
-Verify that the [[configure-sightings-search|Sightings Search Configuration profile for MISP]] is active.
+Verify that the [Sightings Search Configuration profile for MISP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-sightings-search.md) is active.
 
 Role required: sn\_si.analyst
 
 ### About this task
 
-If you enable [[review-the-misp-integration-settings|the sighting search capability to run automatically in the MISP integration configuration]], the sighting search in MISP triggers when new observables are associated with a security incident. By default, the **[[tisc-run-sighting-search|Run Sighting Search]] automatically when new observables are associated with the security incident** option is enabled.
+If you enable [the sighting search capability to run automatically in the MISP integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-the-misp-integration-settings.md), the sighting search in MISP triggers when new observables are associated with a security incident. By default, the **Run Sighting Search automatically when new observables are associated with the security incident** option is enabled.
 
 ### Procedure
 
@@ -130,7 +130,7 @@ Summary
 
 </td><td>
 
-Type of sightings that are associated with the record. The three types of Sightings are Sighting, False-positive, and Expiration.The Summary column appears only when the [[misp-integration-for-security-operations|MISP integration for Security Operations]] is installed. If sources other than MISP appears, the Summary column entry is empty for that record.
+Type of sightings that are associated with the record. The three types of Sightings are Sighting, False-positive, and Expiration.The Summary column appears only when the MISP integration for Security Operations is installed. If sources other than MISP appears, the Summary column entry is empty for that record.
 
 </td></tr></tbody>
 </table>
@@ -140,7 +140,7 @@ Select individual or multiple observables and perform a manual sighting search i
 
 ### Before you begin
 
--   [[misp-user-roles-and-permissions|Review the MISP user role and permissions]] for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -268,18 +268,3 @@ To report a sighting to MISP, the observable or the attribute must be available 
 
 The sightings successfully update to the MISP server.
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[view-sightings-search-results|View Sightings Search Results]]
-- [[view-sightings-search-details|View Sightings Search Details]]
-- [[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
-- [[configure-sightings-search|Configure MISP sighting searches]]
-- [[review-the-misp-integration-settings|Review the MISP integration settings]]
-- [[misp-user-roles-and-permissions|MISP user roles and permissions]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[campaign|Campaign]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-run-sighting-search|Run Sighting Search]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]

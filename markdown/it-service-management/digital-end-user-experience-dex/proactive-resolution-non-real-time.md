@@ -24,27 +24,23 @@ DEX provides in-product reports and dashboards for manual detection, and support
 
 -   **Manual detection**
 
-    Use in-product reports and dashboards to identify [[dex-workspace-devices-tab|devices]] or users that meet a condition of interest. Review insight reports for battery health, system compliance, and similar metrics on a schedule that fits your organization's operational cadence.
+    Use in-product reports and dashboards to identify devices or users that meet a condition of interest. Review insight reports for battery health, system compliance, and similar metrics on a schedule that fits your organization's operational cadence.
 
 -   **Automated detection**
 
     Create scheduled jobs that query aggregated data tables, such as DEX Score tables or insight report tables for battery health and system compliance. When the scheduled job identifies devices that meet a condition, it can trigger a remediation action automatically.
 
 
-**Note:** DEX ships a scheduled job for battery replacement requests as demonstration data. You can use this as a [[reference-for-itsm-mobile-agent|reference]] when creating your own scheduled jobs.
+**Note:** DEX ships a scheduled job for battery replacement requests as demonstration data. You can use this as a reference when creating your own scheduled jobs.
 
 ## Remediation methods
 
 -   **Manual remediation**
 
-    After identifying affected devices through reports or dashboards, trigger bulk remediation directly from an insights report to remediate multiple devices in a single action. You can also use customer-created custom flows for cases that require additional logic beyond a single [[remedial-action|remedial action]]. For the bulk remediation procedure, see [Trigger bulk remediation from Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/trigger-bulk-remediation-insights.md).
+    After identifying affected devices through reports or dashboards, trigger bulk remediation directly from an insights report to remediate multiple devices in a single action. You can also use customer-created custom flows for cases that require additional logic beyond a single remedial action. For the bulk remediation procedure, see [Trigger bulk remediation from Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/trigger-bulk-remediation-insights.md).
 
 -   **Automated remediation**
 
     Configure scheduled jobs to both detect and remediate issues. The scheduled job evaluates a condition in an aggregated data table and executes a remediation action for all matching devices.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[remedial-action|Remedial action]]

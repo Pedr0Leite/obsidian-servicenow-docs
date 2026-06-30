@@ -59,7 +59,7 @@ Role required: sn\_si.analyst.
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open any incident record.
 
@@ -67,7 +67,7 @@ Role required: sn\_si.analyst.
 
     \[Omitted image "create-incident.png"\] Alt text: create incident
 
-4.  Enter the details such as Configuration Item, Impact, Urgency, [[location|Location]], Priority, and Short Description.
+4.  Enter the details such as Configuration Item, Impact, Urgency, Location, Priority, and Short Description.
 
 5.  Click **Create**.
 
@@ -248,7 +248,4 @@ Role required: sn\_si.analyst
 
         After a new entry is created within the table, the new template appears in the contextual menu.
 
-## Related
 
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[location|Location]]

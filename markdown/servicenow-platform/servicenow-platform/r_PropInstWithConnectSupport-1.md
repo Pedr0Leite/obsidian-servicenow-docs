@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Properties installed with Connect Support
 
-Properties are added with activation of [[c_ConnectSupport|Connect Support]].
+Properties are added with activation of Connect Support.
 
 <table id="table_vmr_bbd_br1"><thead><tr><th>
 
@@ -22,7 +22,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_Connect|connect]].support.conversation\_limit
+connect.support.conversation\_limit
 
 </td><td id="Entry_ConnectSupportConversationLimitDescription">
 
@@ -76,7 +76,7 @@ glide.connect.support.enabled
 
 </td><td id="entry_GlideConnectSupportEnabledDescription">
 
-Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee [[self-service-landing|Self-Service]] portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
+Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee Self-Service portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Support Administration** &gt; **Properties**
 
@@ -92,9 +92,3 @@ Controls whether Connect Support reflects system messages in records created fro
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[self-service-landing|Self-service]]

@@ -14,7 +14,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 # Parent and child schedules
 
-[[c_UseSchedules|Schedules]] can have one of two parent-child relationships with other schedules.
+Schedules can have one of two parent-child relationships with other schedules.
 
 -   **Parent field**
 
@@ -22,7 +22,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 -   **Child schedule**
 
-    When a schedule record has one or more child schedules in the **Child Schedules** related list, schedule entries from the child schedule apply to the containing schedule. By default, there are several sample schedules that use child schedules. For example, see the **8-5 weekdays excluding [[c_Holidays|holidays]]** schedule that includes the **U.S. Holidays** schedule.
+    When a schedule record has one or more child schedules in the **Child Schedules** related list, schedule entries from the child schedule apply to the containing schedule. By default, there are several sample schedules that use child schedules. For example, see the **8-5 weekdays excluding holidays** schedule that includes the **U.S. Holidays** schedule.
 
 
 Parent and child schedules cannot contain conflicting schedule entry types. For example, a schedule containing maintenance schedule entries cannot also contain blackout schedule entries. Nor can a maintenance schedule have a child schedule containing blackout schedule entries.
@@ -58,7 +58,3 @@ Parent schedules must have at least one entry that is not an **Excluded** type. 
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[c_Holidays|Holidays]]

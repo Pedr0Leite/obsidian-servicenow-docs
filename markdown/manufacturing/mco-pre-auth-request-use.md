@@ -12,8 +12,5 @@ breadcrumb: [Dealer management, Use, Manufacturing Commercial Operations]
 
 # Pre-authorization request
 
-MCO [[mco-dealer-portal|dealer portal]] enable you to create and submit the pre-authorization request.
+MCO dealer portal enable you to create and submit the pre-authorization request.
 
-## Related
-
-- [[mco-dealer-portal|Dealer portal]]

@@ -12,25 +12,25 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Configure groups
 
-Configure user groups for [[fso-overview|Financial Services]] Operations applications for assignment of cases and tasks. You can assign roles to groups to provide access to all group members or assign roles to individual users.
+Configure user groups for Financial Services Operations applications for assignment of cases and tasks. You can assign roles to groups to provide access to all group members or assign roles to individual users.
 
 ## Before you begin
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
--   For [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
+-   For Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_card.admin and admin
+-   For Financial Services Complaint Management: sn\_bom\_compl.admin and admin
 -   For Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   For Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
 -   For Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   For Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
 -   For Financial Services Business Lifecycle: sn\_bom\_clo\_b2b.admin and admin
 -   For Financial Services Client Lifecycle: sn\_bom\_clo\_b2c.admin and admin
--   For [[fso-kyc-landing-page|Financial Services Know Your Customer]]: sn\_bom\_kyc.admin and admin
--   For [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]: sn\_bom\_treasury.admin and admin
--   [[individual-life-claims-landing-page|Individual Life Claims]]: sn\_ins\_claim\_indl.admin and admin
--   [[insurance-claims-flow|Insurance claims]]: sn\_ins\_gen\_claim.admin and admin
+-   For Financial Services Know Your Customer: sn\_bom\_kyc.admin and admin
+-   For Financial Services Treasury Operations: sn\_bom\_treasury.admin and admin
+-   Individual Life Claims: sn\_ins\_claim\_indl.admin and admin
+-   Insurance claims: sn\_ins\_gen\_claim.admin and admin
 
 ## About this task
 
@@ -59,19 +59,8 @@ Any rule that is applied to a group is automatically assigned to group members. 
 
     Configure agent connector and contributor roles for the group, if required.
 
-    **Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+    **Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 -   Add users to the group.
 -   Associate groups with assignment rules.
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

@@ -32,7 +32,7 @@ The first participant represents the user initiating the call. Adding subsequent
 
 2.  Select **Submit** to display the Global call window with your updated selections.
 
-    The [[voice-control-simulator-tool|Voice Controls Simulator tool]] provides a synchronized view across both Global Call and Active Call windows. Selecting any call button, such as hold or mute, instantly updates both call windows.
+    The Voice Controls Simulator tool provides a synchronized view across both Global Call and Active Call windows. Selecting any call button, such as hold or mute, instantly updates both call windows.
 
     \[Omitted image "int-test-active-call-simulation-call-controls.png"\] Alt text: Test the simulated active call controls
 
@@ -43,6 +43,3 @@ The first participant represents the user initiating the call. Adding subsequent
 
 The **Add participants** is the final step in the Voice Controls Simulator. After submitting your configuration, you're ready to begin using the configured call workflow in your workspace.
 
-## Related
-
-- [[voice-control-simulator-tool|Voice Controls Simulator tool]]

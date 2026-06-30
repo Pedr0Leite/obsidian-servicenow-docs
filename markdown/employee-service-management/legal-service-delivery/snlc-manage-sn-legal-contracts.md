@@ -14,25 +14,25 @@ breadcrumb: [Use, Contract Management Pro for Legal Service Delivery, Integratio
 
 # Manage Contract Management Pro for Legal Service Delivery
 
-As administrator work on managing the [[cncore-expl-wdt|word document templates]] and legal contracts.
+As administrator work on managing the word document templates and legal contracts.
 
 Refer to the following topics on how to manage word document templates and legal contracts.
 
 -   **[Manage clauses, tables, and contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-clauses-ctemplates.md)**
 
-    [[cncore-create-contract-type|Create a contract type]] for defining different types of legal contract requests and associate it to a contract model.
+    Create a contract type for defining different types of legal contract requests and associate it to a contract model.
 
 -   **[Manage contract records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-cont-records.md)**
 
-    [[define-internal-signers|Define a user as an internal signer]] so that the signer can be added to a contract template to automatically add to the contract document for a request.
+    Define a user as an internal signer so that the signer can be added to a contract template to automatically add to the contract document for a request.
 
 -   **[View a contract repository record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-rec.md)**
 
-    [[cncore-create-doc-tmplt-cat|Create document template categories]] to easily identify similar documents and find the correct document template more easily.
+    Create document template categories to easily identify similar documents and find the correct document template more easily.
 
 -   **[Modify a contract record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-modify-contract-rec.md)**
 
-    Enable users to view the details of email sent in the [[activity-lxp|activity]] stream.
+    Enable users to view the details of email sent in the activity stream.
 
 
 -   **[View a contract repository record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-rec.md)**  
@@ -65,10 +65,3 @@ As administrator manage clauses, clause variations, and contract templates.
 
 [View contract requests]()
 
-## Related
-
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[cncore-create-contract-type|Create a contract type]]
-- [[define-internal-signers|Define a user as an internal signer]]
-- [[cncore-create-doc-tmplt-cat|Create document template categories]]
-- [[activity-lxp|Activity]]

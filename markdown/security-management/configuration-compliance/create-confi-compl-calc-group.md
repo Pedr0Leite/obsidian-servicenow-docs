@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Create a Configuration Compliance calculator group
 
-[[vuln-config-compl-calc-groups|Configuration Compliance calculator groups]] are used to group calculators based on how you want to use them.
+Configuration Compliance calculator groups are used to group calculators based on how you want to use them.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_vulc.admin
 
 ## About this task
 
-The [[vr-config-compliance-landing|Configuration Compliance]] base system includes one calculator group: **Risk Score**. As you create other calculators, you can add them to this group or create other groups and calculators. Within each group, the first calculator that matches the test result runs.
+The Configuration Compliance base system includes one calculator group: **Risk Score**. As you create other calculators, you can add them to this group or create other groups and calculators. Within each group, the first calculator that matches the test result runs.
 
 There are two calculator groups that are included with the Configuration Compliance application:
 
@@ -65,7 +65,4 @@ You also create new calculators directly from these groups.
 
     Case sensitivity for the search text you enter in the condition builder is not supported on this record or form.
 
-## Related
 
-- [[vuln-config-compl-calc-groups|Configuration Compliance calculator groups]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

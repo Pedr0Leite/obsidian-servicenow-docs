@@ -14,7 +14,7 @@ breadcrumb: [Learning Core, HR Service Delivery, Employee Service Management]
 
 # Reporting Solutions for Learning Core
 
-[[exploring-learning-exp|Learning]] Experience Dashboard provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.
+Learning Experience Dashboard provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.
 
 \[Omitted image "learning-exp-db.png"\] Alt text: Provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.
 
@@ -30,6 +30,3 @@ Displays the number of catalogs associated with each of the source. Indicates ho
 
 Displays the status of all the learning tasks within each source.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

@@ -18,13 +18,10 @@ Connect to your Harness instance to discover pipeline definitions and configure 
 
 ## Get started
 
-Use the workspace to onboard the Harness tool. Configure webhooks manually in Harness to send pipeline notifications to [[devops-landing-page-new|DevOps Change Velocity]].
+Use the workspace to onboard the Harness tool. Configure webhooks manually in Harness to send pipeline notifications to DevOps Change Velocity.
 
 -   **[Onboard Harness to DevOps Change Velocity - Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/onboard-harness-to-devops-change-velocity.md)**  
 Connect to your Harness instance using the DevOps Change Workspace playbook to discover pipelines.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

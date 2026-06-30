@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], navigate to the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, navigate to the Inventory view.
 
 2.  Select the **RMA orders** tab.
 
@@ -163,7 +163,3 @@ If you set the **RMA type** field to **On-site** or **Off-site**, complete all s
 
 **Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/closing-rma-order.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]

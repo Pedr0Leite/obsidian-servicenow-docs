@@ -37,11 +37,7 @@ After the data is loaded to the Operational Sustainability Management applicatio
 
 ## What to do next
 
-[[create-a-transform-map|Create a transform map]].
+[Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-transform-map.md).
 
-**Parent Topic:**[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)
 
-## Related
-
-- [[create-a-transform-map|Create a transform map]]
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]

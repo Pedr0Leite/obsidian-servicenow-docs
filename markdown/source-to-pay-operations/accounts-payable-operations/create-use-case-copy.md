@@ -19,7 +19,7 @@ Create a copy of the default invoice processing use case to customize the invoic
 
 ## Before you begin
 
-Ensure that the application scope is set to [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Ensure that the application scope is set to Accounts Payable Operations integration with Document Intelligence.
 
 Role required: admin
 
@@ -48,7 +48,7 @@ Do this task to copy the default **DO NOT USE- Invoice Processing V3** use case 
 
 ## Result
 
-Copy of the default [[docintel-invoice-process-usecase|invoice processing use case]] is created.
+Copy of the default invoice processing use case is created.
 
 **Related topics**  
 
@@ -57,7 +57,3 @@ Copy of the default [[docintel-invoice-process-usecase|invoice processing use ca
 
 [Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-docintel-integration.md)
 
-## Related
-
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[docintel-invoice-process-usecase|Invoice Processing use case]]

@@ -15,7 +15,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Define script variables for a topic
 
-Use the Variables [[sidebar-landing|sidebar]] to define script variables for a topic. Script variables can store information that is not found in ServiceNow tables. This information can then be shared elsewhere in a topic.
+Use the Variables sidebar to define script variables for a topic. Script variables can store information that is not found in ServiceNow tables. This information can then be shared elsewhere in a topic.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-For more information about writing scripts for [[virtual-agent-landing-page|Virtual Agent]], see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md).
+For more information about writing scripts for Virtual Agent, see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, open an existing topic or create a new one.
 
@@ -47,8 +47,3 @@ For more information about writing scripts for [[virtual-agent-landing-page|Virt
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[sidebar-landing|Sidebar]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

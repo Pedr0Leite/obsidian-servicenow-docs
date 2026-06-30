@@ -12,7 +12,7 @@ breadcrumb: [Security Operations field mapping, Security Operations common funct
 
 # Map tables to tables with Security Operations field mapping
 
-[[security-operations-landing-page|Security Operations]] provides you with finer field-[[mapping-logrhythm|mapping]] granularity so you can map a Security Operations table to any other table.
+Security Operations provides you with finer field-mapping granularity so you can map a Security Operations table to any other table.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Duplication rule
 
 </td><td>
 
-Governs how to handle source records that would generate a duplicate record. For more information, see [[shared-data-transformation|Shared data transformation]].
+Governs how to handle source records that would generate a duplicate record. For more information, see [Shared data transformation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/shared-data-transformation.md).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ When **Store value in a field or related list** is set to **Link to this value i
 
 </td><td>
 
-**When Store value in a field or related list** is set to **Link to this value, creating a new record if a matching record does not exist**, if a related record matching the parsed value is not found, a new record is created. This field specifies the static data to add to that record. For example, for **Affected CIs**, if we cannot find the CI, this setting indicates that a new CI is created\). The value found in the source record is set to the **Value** field in the CI record. You can set additional data – a note indicating why this CI was created, some information about what type of CIs you are working with. A sample would be: `description=Created by [[threat-intelligence-malware|malware]] Incident report^type=autodetect`
+**When Store value in a field or related list** is set to **Link to this value, creating a new record if a matching record does not exist**, if a related record matching the parsed value is not found, a new record is created. This field specifies the static data to add to that record. For example, for **Affected CIs**, if we cannot find the CI, this setting indicates that a new CI is created\). The value found in the source record is set to the **Value** field in the CI record. You can set additional data – a note indicating why this CI was created, some information about what type of CIs you are working with. A sample would be: `description=Created by malware Incident report^type=autodetect`
 
 </td></tr><tr><td id="d150267e409">
 
@@ -229,12 +229,5 @@ Auto-populated with the source table.
 </table>7.  Click **Submit.**
 
 
-**Parent Topic:**[[field-mapping|Security Operations field mapping]]
+**Parent Topic:**[Security Operations field mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/field-mapping.md)
 
-## Related
-
-- [[shared-data-transformation|Shared data transformation]]
-- [[field-mapping|Security Operations field mapping]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intelligence-malware|Malware]]

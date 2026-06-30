@@ -12,7 +12,7 @@ breadcrumb: [Embed Care Team Portal in Epic, Configure, Care Team Portal, Health
 
 # Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic
 
-Set up an Identity Provider in your ServiceNow instance to enable OIDC for [[hcls-cto-app|Healthcare Operations Core]].
+Set up an Identity Provider in your ServiceNow instance to enable OIDC for Healthcare Operations Core.
 
 ## Before you begin
 
@@ -81,6 +81,3 @@ Role required: admin
 
 An Identity Provider has been created and configured based on the information provided by the well-known configuration.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

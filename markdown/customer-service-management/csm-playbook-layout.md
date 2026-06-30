@@ -12,14 +12,14 @@ breadcrumb: [Playbooks in Customer Service Management, Agent tools, Organize age
 
 # Playbook layout and features
 
-A playbook includes several features that agents use to complete activities and resolve cases, including the playbook stage picker, activity picker, and activity viewer. Record pages created in UI Builder determine how these playbook features are displayed in [[csm-workspaces-configure|CSM Configurable Workspace]].
+A playbook includes several features that agents use to complete activities and resolve cases, including the playbook stage picker, activity picker, and activity viewer. Record pages created in UI Builder determine how these playbook features are displayed in CSM Configurable Workspace.
 
-UI Builder [[csm-playbook-templates|page templates]] and [[csm-playbook-pages|record pages]] that include horizontally and vertically oriented playbooks are available with the Playbooks for [[c_CustomerServiceManagement|Customer Service Management]] application \[com.sn\_csm\_playbook\].
+UI Builder [page templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-templates.md) and [record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-pages.md) that include horizontally and vertically oriented playbooks are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\].
 
 For more information about using these record pages, see the following topics:
 
--   [[csm-playbook-horizontal-stages|Case playbook: horizontal stages]] record page
--   [[csm-playbook-vertical-stages|Case playbook: vertical stages]] record page
+-   [Case playbook: horizontal stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-horizontal-stages.md) record page
+-   [Case playbook: vertical stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-vertical-stages.md) record page
 
 \[Omitted image "csm-playbook-horiz-stages-callouts.png"\] Alt text: Playbook with horizontal stage picker and playbook features highlighted. Descriptions of each feature are included in the following table.
 
@@ -102,7 +102,7 @@ Activity cards
 
 </td><td>
 
-Activity cards display the details about the current activity in the activity viewer. Depending on the type of activity, the activity cards can display information such as form data, task status, SLA timers, or attachments.Agents use the cards to complete the work for each activity, such as filling in [[migration-forms|forms]], completing checklists, completing tasks, or adding attachments.
+Activity cards display the details about the current activity in the activity viewer. Depending on the type of activity, the activity cards can display information such as form data, task status, SLA timers, or attachments.Agents use the cards to complete the work for each activity, such as filling in forms, completing checklists, completing tasks, or adding attachments.
 
 </td></tr></tbody>
 </table>## Playbook activity view
@@ -112,7 +112,7 @@ The activity view determines how the stages and activities are displayed in the 
 -   **Focused**: Displays the stages and activities in the playbook lifecycle panel and the current activity in the playbook work area.
 -   **Stacked**: Displays the stages in the playbook lifecycle panel and cards for each of the activities in the current stage in the playbook work area.
 
-The system administrator can configure the playbook activity view in UI Builder. For more information, see [[playbook-select-activity-view|Select a playbook activity view]].
+The system administrator can configure the playbook activity view in UI Builder. For more information, see [Select a playbook activity view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-select-activity-view.md).
 
 ## Playbook stages
 
@@ -144,11 +144,11 @@ Selecting an activity displays the details of that activity in the activity view
 
 Agents can use the stage picker and activity picker to navigate between stages and activities as assigned roles or activity security configurations permit. For example, activities such as case tasks can be assigned to different users. A user with the case task agent role can only see the case tasks that are assigned to them.
 
-When an agent opens a record that uses a playbook, it opens to the current stage and [[migration-form-highlights|highlights]] the current activity. For stages with multiple activities, the current activity is the first available activity. An available activity is an activity that has a state other than Complete.
+When an agent opens a record that uses a playbook, it opens to the current stage and highlights the current activity. For stages with multiple activities, the current activity is the first available activity. An available activity is an activity that has a state other than Complete.
 
 When an agent selects an available activity, it becomes the current activity. An agent can navigate stages and activities in any order as long as there is at least one available activity to select.
 
-**Note:** The playbook configuration determines the visibility and accessibility of pending stages and activities. For more information, see [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]].
+**Note:** The playbook configuration determines the visibility and accessibility of pending stages and activities. For more information, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
 ## Using keyboard navigation in a playbook
 
@@ -160,7 +160,7 @@ Use the following keyboard keys to navigate playbook stages and activities.
 
 ## Filtering playbook activities
 
-Agents can [[csm-playbook-filter-activities|filter playbook activities]] and see those activities that match the filter conditions.
+Agents can filter playbook activities and see those activities that match the filter conditions.
 
 -   To filter playbook activities, select the filter icon \(\[Omitted image "playbook-filter.png"\] Alt text: playbook header filter icon.\) and select one or more of the following states:
     -   Complete
@@ -178,16 +178,3 @@ Users with the admin role can configure the visibility of playbook stages and ac
 
 The administrator configures these settings in the Playbook Experience record. For more information, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
-## Related
-
-- [[csm-playbook-templates|Playbook page templates]]
-- [[csm-playbook-pages|Playbook pages]]
-- [[csm-playbook-horizontal-stages|csm playbook horizontal stages]]
-- [[csm-playbook-vertical-stages|csm playbook vertical stages]]
-- [[playbook-select-activity-view|Select a playbook activity view]]
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-forms|Forms]]
-- [[migration-form-highlights|Highlights]]
-- [[csm-playbook-filter-activities|Filter playbook activities]]

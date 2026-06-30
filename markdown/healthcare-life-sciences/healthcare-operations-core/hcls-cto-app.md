@@ -24,11 +24,11 @@ Healthcare Operations Core provides the foundation to enable hospitals to stream
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:[[activate-hco-core|Install Healthcare Operations Core]] and configure your environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-configuring.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install Healthcare Operations Core and configure your environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-configuring.md)
 
 </td><td>
 
-[Care Team Portal\[Omitted image "bus-service-portal.svg"\] Alt text:Open the standalone [[care-team-portal-landing|Care Team Portal]] docs to learn how care teams create and track support requests from inside Epic Hyperspace or the Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/care-team-portal-landing.md)
+[Care Team Portal\[Omitted image "bus-service-portal.svg"\] Alt text:Open the standalone Care Team Portal docs to learn how care teams create and track support requests from inside Epic Hyperspace or the Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/care-team-portal-landing.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,3 @@ Healthcare Operations Core provides the foundation to enable hospitals to stream
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[activate-hco-core|Install Healthcare Operations Core]]
-- [[care-team-portal-landing|Care Team Portal]]

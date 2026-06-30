@@ -20,7 +20,7 @@ Create an alias and add it to a basic authentication credential to discover Rubr
 
 Confirm that a basic authentication account is configured with the Read-Only Administrator role in Rubrik.
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -53,7 +53,7 @@ Role required: [[r-discovery|discovery]]\_admin
 
 ## What to do next
 
-Create a [[serverless-discovery|serverless discovery]] schedule. For more information, see [Create a serverless discovery schedule for Rubrik cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-rubrik.md).
+Create a serverless discovery schedule. For more information, see [Create a serverless discovery schedule for Rubrik cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-rubrik.md).
 
 **Parent Topic:**[Rubrik Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/rubrik-discovery.md)
 
@@ -62,7 +62,3 @@ Create a [[serverless-discovery|serverless discovery]] schedule. For more inform
 
 [Rubrik Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/rubrik-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[serverless-discovery|Serverless Discovery]]

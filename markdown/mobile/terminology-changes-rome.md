@@ -82,7 +82,7 @@ browser applet
 
 </td><td>
 
-[[url-screen|mobile web screen]]
+mobile web screen
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ calendar applet
 
 </td><td>
 
-[[calendar-screen|calendar screen]]
+calendar screen
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ chart applet
 
 </td><td>
 
-[[chart-screen|chart screen]]
+chart screen
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ dynamic form screen segment
 
 </td><td>
 
-dynamic [[form-screen|record screen]] segment
+dynamic record screen segment
 
 </td></tr><tr><td>
 
@@ -330,7 +330,7 @@ list applet
 
 </td><td>
 
-[[list-screen|list screen]]
+list screen
 
 </td></tr><tr><td>
 
@@ -346,7 +346,7 @@ map applet
 
 </td><td>
 
-[[map-screen|map screen]]
+map screen
 
 </td></tr><tr><td>
 
@@ -394,7 +394,7 @@ navigation
 
 </td><td>
 
-[[sg-mobile-tab-bar|navigation bar]]
+navigation bar
 
 </td></tr><tr><td>
 
@@ -466,7 +466,7 @@ parameter screen
 
 </td><td>
 
-[[parameter-input-screen|input form screen]]
+input form screen
 
 </td></tr><tr><td>
 
@@ -486,7 +486,7 @@ input form section**Note:** From San Diego and later versions this term is calle
 
 </td></tr><tr><td>
 
-[[sg-config-quick-actions|quick actions]] menu map
+quick actions menu map
 
 </td><td>
 
@@ -590,15 +590,3 @@ card template element attribute
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[url-screen|Mobile web screen]]
-- [[calendar-screen|Calendar screen]]
-- [[chart-screen|Chart screen]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]
-- [[map-screen|Map screen]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[parameter-input-screen|Input form screen]]
-- [[sg-config-quick-actions|Quick actions]]

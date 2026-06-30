@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Create a slot for equipment
 
-Create a slot to provide a designated space for the equipment to maintain, update and access all types of equipment. You can route cables using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a slot to provide a designated space for the equipment to maintain, update and access all types of equipment. You can route cables using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,19 +26,19 @@ Slots help a rack to distribute the weight of the equipment across the rack even
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Slot**.
 
 3.  Create a slot by selecting **New**.
 
-4.  On the [[tni-equipment-holder-form-configuration|Equipment Holder form]], fill in the fields.
+4.  On the Equipment Holder form, fill in the fields.
 
     To learn more, see [Equipment Holder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -47,9 +47,3 @@ Slots help a rack to distribute the weight of the equipment across the rack even
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-equipment-holder-form-configuration|Equipment Holder form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

@@ -16,12 +16,6 @@ Create an installed product to track information on the instances that a sold pr
 
 |Task|Description|
 |----|-----------|
-|[[import-csm-installed-products|Import installed products with guided setup]]|Import installed products to provide information on the [[sold-product|sold products]] and how they are deployed or installed. Import installed products to create an association between sold products and [[install-base-item|install base items]].|
-|[[create-deployed-sold-item|Create installed products]]|Create an installed product to create an association between sold products and install base items.|
+|[Import installed products with guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-csm-installed-products.md)|Import installed products to provide information on the sold products and how they are deployed or installed. Import installed products to create an association between sold products and install base items.|
+|[Create installed products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-deployed-sold-item.md)|Create an installed product to create an association between sold products and install base items.|
 
-## Related
-
-- [[import-csm-installed-products|Import installed products with guided setup]]
-- [[create-deployed-sold-item|Create installed products]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

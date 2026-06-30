@@ -13,7 +13,7 @@ breadcrumb: [Getting started with Customer Service Management, Set up your envir
 
 # Install all Customer Service Management applications
 
-Install all eligible [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) applications from a single ServiceNow Store product. Use this procedure to find and install the CSM apps your organization is entitled to in one step.
+Install all eligible Customer Service Management \(CSM\) applications from a single ServiceNow Store product. Use this procedure to find and install the CSM apps your organization is entitled to in one step.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ The [Install all CSM Apps](https://store.servicenow.com/store/product/04085a3793
 
 6.  Select **Confirm**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -18,7 +18,7 @@ Once you've configured one or more access observation records, your instance beg
 
 ## Access observer log results
 
-Use the following table to understand the information presented in the [[logs|logs]].
+Use the following table to understand the information presented in the logs.
 
 <table id="table_m1t_znb_qbc"><thead><tr><th>
 
@@ -135,9 +135,5 @@ Session ID
 ID of the session in which the column was accessed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[access-observer|Access observer]]
+</table>**Parent Topic:**[Access observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-observer.md)
 
-## Related
-
-- [[access-observer|Access observer]]
-- [[logs|Logs]]

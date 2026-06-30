@@ -14,7 +14,7 @@ breadcrumb: [Explore Predictive Intelligence, Predictive Intelligence, Enable AI
 
 # Predictive Intelligence frameworks
 
-[[predictive-intelligence-landing|Predictive Intelligence]] provides three different model frameworks in the Australia release: classification, similarity, and clustering. Each framework specializes in different types of predictions.
+Predictive Intelligence provides three different model frameworks in the Australia release: classification, similarity, and clustering. Each framework specializes in different types of predictions.
 
 ## Predictive Intelligence classification framework
 
@@ -57,6 +57,3 @@ For more information, see [Create and train a regression solution](https://raw.g
 
 [ServiceNow apps and features that use Predictive Intelligence]()
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

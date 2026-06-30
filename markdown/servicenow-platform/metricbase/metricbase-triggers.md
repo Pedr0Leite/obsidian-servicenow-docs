@@ -14,7 +14,7 @@ breadcrumb: [MetricBase, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Triggering flows using MetricBase data
 
-Time-series data that is stored in the [[metricbase|MetricBase]] database can trigger Workflow Studio flows. These triggers can log incidents, send emails, and create other alerts.
+Time-series data that is stored in the MetricBase database can trigger Workflow Studio flows. These triggers can log incidents, send emails, and create other alerts.
 
 ## Overview of implementing triggers
 
@@ -60,6 +60,3 @@ If a trigger is associated with a flow, you can't delete it in MetricBase. To de
 
 Legacy triggers are deprecated. You can't create legacy triggers; you can only carry forward legacy triggers that exist.
 
-## Related
-
-- [[metricbase|MetricBase]]

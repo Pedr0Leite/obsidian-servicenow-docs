@@ -18,7 +18,7 @@ This Accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator overview
 
-Jumpstart Your Now Assist Skill Kit provides [[impact-landing-page|Impact]] customers with an overview of the capabilities and features of Now Assist Skill Kit. Through an applied  demonstration, we highlight the  creation of a simple, custom use case, such as Sentiment Analysis, illustrating how Skill Kit enables customers to harness the full potential of Now LLM and the platform combined for their unique needs. Additionally, this Accelerator provides customers with key resources and leading practices guides for getting started.​
+Jumpstart Your Now Assist Skill Kit provides Impact customers with an overview of the capabilities and features of Now Assist Skill Kit. Through an applied  demonstration, we highlight the  creation of a simple, custom use case, such as Sentiment Analysis, illustrating how Skill Kit enables customers to harness the full potential of Now LLM and the platform combined for their unique needs. Additionally, this Accelerator provides customers with key resources and leading practices guides for getting started.​
 
 ## Package Availability
 
@@ -68,6 +68,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

@@ -36,7 +36,7 @@ Name
 
 </td><td>
 
-Name of the [[mco-sales-promotion|sales promotion]].
+Name of the sales promotion.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Promotion type
 
 </td><td>
 
-Promotion type.Choose an option from the list. To create promotion type, see [[create-promotion-type|Create promotion type]].
+Promotion type.Choose an option from the list. To create promotion type, see [Create promotion type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/create-promotion-type.md).
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Checklist template
 
 </td><td>
 
-Predefined checklist template.Choose an option from the list. To create checklist template, [[mco-create-checklist|Create a checklist template]]
+Predefined checklist template.Choose an option from the list. To create checklist template, [Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)
 
 </td></tr><tr><td>
 
@@ -140,17 +140,10 @@ Max percentage
 Highest discount percentage applicable for the campaign. This field appears only when **percentage** is selected from **Incentive type**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[sales-promotion-form|Sales promotion form]]
+</table>**Parent Topic:**[Sales promotion form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-form.md)
 
 **Related topics**  
 
 
-[[mco-all-promotions|View all promotions]]
+[View all promotions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-all-promotions.md)
 
-## Related
-
-- [[create-promotion-type|Create promotion type]]
-- [[mco-create-checklist|Create a checklist template]]
-- [[sales-promotion-form|Sales promotion form]]
-- [[mco-all-promotions|View all promotions]]
-- [[mco-sales-promotion|Sales promotion]]

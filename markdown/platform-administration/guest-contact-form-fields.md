@@ -12,7 +12,7 @@ breadcrumb: [Reference, ServiceNow Store, Administering applications, Get starte
 
 # Guest contact form fields
 
-A description of the fields on the Guest contact form in the [[servicenow-store|ServiceNow Store]].
+A description of the fields on the Guest contact form in the ServiceNow Store.
 
 |Field|Description|
 |-----|-----------|
@@ -23,9 +23,5 @@ A description of the fields on the Guest contact form in the [[servicenow-store|
 |Country|Country where you are located.|
 |Message to Seller|Question or request.|
 
-**Parent Topic:**[[store-reference|ServiceNow Store reference]]
+**Parent Topic:**[ServiceNow Store reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 
-## Related
-
-- [[store-reference|ServiceNow Store reference]]
-- [[servicenow-store|ServiceNow Store]]

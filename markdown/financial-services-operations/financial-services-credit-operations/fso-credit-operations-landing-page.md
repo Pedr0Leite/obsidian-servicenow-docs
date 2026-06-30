@@ -14,7 +14,7 @@ breadcrumb: [Common applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Credit Operations
 
-With Financial Services Credit Operations application, you can manage middle and back office tasks that are assigned to the Credit Risk Assessment team across any [[fso-overview|Financial Services]] workflow.
+With Financial Services Credit Operations application, you can manage middle and back office tasks that are assigned to the Credit Risk Assessment team across any Financial Services workflow.
 
 ## Request apps on the Store
 
@@ -32,7 +32,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -18,7 +18,7 @@ The account recovery context uses a policy to define how and when the account re
 
 Administrators can view and modify this context and its associated policy by navigating to **Multi-Provider SSO** &gt; **Account Recovery** &gt; **Account Recovery Context**.
 
-**Note:** By default the policy is **Allow Policy**. The Login for [[users|users]] are restricted by default and the login is allowed only if the conditions defined in **Allow Policy** evaluates to true.
+**Note:** By default the policy is **Allow Policy**. The Login for users are restricted by default and the login is allowed only if the conditions defined in **Allow Policy** evaluates to true.
 
 Use the fields in the account recovery context record to define how your instance uses the policy.
 
@@ -80,6 +80,3 @@ The **Policy Input** and **Policy Conditions** tabs display the inputs and condi
 
 \[Omitted image "account-recovery.png"\] Alt text: Account Recovery Context
 
-## Related
-
-- [[users|Users]]

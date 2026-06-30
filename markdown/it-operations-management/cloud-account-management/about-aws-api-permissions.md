@@ -15,9 +15,9 @@ breadcrumb: [Explore, Cloud Account Management, ITOM Cloud Accelerate, IT Operat
 
 # About Amazon Web Services API permissions
 
-[[cam-landing|Cloud Account Management]] interacts with Amazon Web Services to create and manage subscription accounts.
+Cloud Account Management interacts with Amazon Web Services to create and manage subscription accounts.
 
-**Note:** You must establish an AWS service account for Cloud Account Management that is separate from the account for Cloud [[r-discovery|Discovery]].
+**Note:** You must establish an AWS service account for Cloud Account Management that is separate from the account for Cloud Discovery.
 
 The following API permissions are required to start a new subscription account in AWS:
 
@@ -49,7 +49,3 @@ The following API permissions are required to start a new subscription account i
 
 For more details on API permissions, download the [Cloud Discovery REST API permissions spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can research and grant the user permissions required for running the discovery process.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[r-discovery|Discovery]]

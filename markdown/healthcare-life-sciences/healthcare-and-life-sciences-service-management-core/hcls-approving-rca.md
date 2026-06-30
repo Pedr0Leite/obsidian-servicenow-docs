@@ -14,11 +14,11 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 # Approve restricted caller access privileges for Healthcare and Life Sciences Service Management
 
-Approve restricted caller access \(RCA\) privileges for accessing document templates from the [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] applications.
+Approve restricted caller access \(RCA\) privileges for accessing document templates from the Healthcare and Life Sciences Service Management applications.
 
 RCA privileges define cross-scope access to an application, an event, or an application resource. Application resources include access control roles, business rules, UI actions, and script includes.
 
-The real and requested RCAs required for accessing document templates from a Healthcare and Life Sciences Service Management application are included within the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application.
+The real and requested RCAs required for accessing document templates from a Healthcare and Life Sciences Service Management application are included within the Healthcare and Life Sciences Service Management Core application.
 
 When you install a Healthcare and Life Sciences Service Management application, the status of Real RCAs of the Document Templates application are set to **Requested**. For more information, see [Requested restricted caller access \(RCA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/requested-rca.md).
 
@@ -48,7 +48,4 @@ Role required: admin
 
 6.  Repeat steps 3 through to 5 for each requested RCA.
 
-## Related
 
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

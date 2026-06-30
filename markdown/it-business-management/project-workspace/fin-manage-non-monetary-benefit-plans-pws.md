@@ -22,7 +22,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -30,7 +30,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
     \[Omitted image "fin-slct-non-monetary-benefit-plan-gif.gif"\] Alt text: GIF showing selection of Non-monetary Benefit Plans related link.
 
-4.  On the [[benefit-plan-form-project-management|Benefit Plan form]], fill the fields.
+4.  On the Benefit Plan form, fill the fields.
 
     For a description of the field names, see [Non-monetary benefit plans form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/non-monetary-benefit-plans-form.md).
 
@@ -39,7 +39,3 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

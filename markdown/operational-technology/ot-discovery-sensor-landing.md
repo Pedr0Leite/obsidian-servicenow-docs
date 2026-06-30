@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology Native Discovery components, Operational Tec
 
 # Discovery Sensor for Operational Technology \(OT\)
 
-Use the Discovery Sensor for Operational Technology \(OT\) application to discover and query devices in the [[operational-technology-overview|Operational Technology]] environment.
+Use the Discovery Sensor for Operational Technology \(OT\) application to discover and query devices in the Operational Technology environment.
 
 ## Get started
 
@@ -22,13 +22,13 @@ Use the links to explore and configure the Discovery Sensor for OT.
 
 Explore\[Omitted image "BUS\_64px\_Explore\_YG.png"\] Alt text:
 
- [[explore-ot-sensor|Explore the Discovery Sensor for OT]]
+ [Explore the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/explore-ot-sensor.md)
 
 </td><td>
 
 Configure\[Omitted image "BUS\_64px\_SDLC\_YG.png"\] Alt text:
 
- [[configure-discovery-sensor-ot|Configure the Discovery Sensor for OT]]
+ [Configure the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configure-discovery-sensor-ot.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -39,8 +39,3 @@ To review files on your Sensor and access logs for troubleshooting purposes, you
 
 If you have any errors or difficulties while using the Discovery Sensor for OT, contact [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[explore-ot-sensor|Explore the Discovery Sensor for OT]]
-- [[configure-discovery-sensor-ot|Configure the Discovery Sensor for OT]]
-- [[operational-technology-overview|Operational Technology]]

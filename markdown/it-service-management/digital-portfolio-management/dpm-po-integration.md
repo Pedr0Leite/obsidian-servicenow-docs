@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # Process Mining components for Digital Portfolio Management
 
-Admins must install the ITSM Process Mining Content Pack from the ServiceNow® Store to get the insights and system property for Process Mining in [[dpm-landing|Digital Portfolio Management]] \(DPM\). Use Process Mining to analyze and improve key performance indicator \(KPI\) outputs in DPM.
+Admins must install the ITSM Process Mining Content Pack from the ServiceNow® Store to get the insights and system property for Process Mining in Digital Portfolio Management \(DPM\). Use Process Mining to analyze and improve key performance indicator \(KPI\) outputs in DPM.
 
 ## Properties
 
@@ -68,6 +68,3 @@ Navigate to **All** &gt; **System Definition** &gt; **Scheduled jobs**.
 
 [Create Process Mining projects for KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-project-po.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]

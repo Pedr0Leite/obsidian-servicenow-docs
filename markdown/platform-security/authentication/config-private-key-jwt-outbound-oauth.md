@@ -18,11 +18,11 @@ Configure Private Key JWT for outbound OAuth integrations.
 
 ## Before you begin
 
-Role required: [[oauth-inbound-and-outbound|oauth]]\_admin
+Role required: oauth\_admin
 
 Before configuring Private Key JWT for outbound OAuth integrations, you must perform the following tasks:
 
--   [Upload Java Key Store certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md): Attach a JKS certificate to your instance to use to enable the JWT client [[c_Authentication|authentication]].
+-   [Upload Java Key Store certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md): Attach a JKS certificate to your instance to use to enable the JWT client authentication.
 -   [Configure a JWT signing key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md): Create a JWT signing key to assign to your Java KeyStore \(JKS\) certificate.
 
     **Note:** If you want to add **X.509 Certificate SHA-1 Thumbprint int \(x5t\)** to the header as part of the JWT Key, you must configure the form and add the **X.509 Certificate SHA-1 Thumbprint int \(x5t\)** field.
@@ -33,7 +33,7 @@ Before configuring Private Key JWT for outbound OAuth integrations, you must per
 
 1.  Navigate to **All** &gt; **System OAuth** &gt; **Application Registry** and then click **New**.
 
-2.  On the interceptor page, click **[[connect-3rd-party-oauth-provider|Connect to a third-party OAuth provider]]** and then fill in the form.
+2.  On the interceptor page, click **Connect to a third-party OAuth provider** and then fill in the form.
 
     **Note:** You must add **Send Credentials** and **JWT Provider** fields to the form to use the Private Key JWT for Outbound OAuth authentication requests.
 
@@ -91,7 +91,7 @@ Default Grant type
 
 </td><td>
 
-Choose: **[[client-credentials|Client Credentials]]**: The client ID and client secret, which are both used to get the access token. This method does not provide refresh tokens.
+Choose: **Client Credentials**: The client ID and client secret, which are both used to get the access token. This method does not provide refresh tokens.
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ Use mutual authentication
 
 </td><td>
 
-Check the box to use mutual authentication for token [[c_requestAPI|request]] and revocation. This feature requires a mutual authentication profile to be specified.
+Check the box to use mutual authentication for token request and revocation. This feature requires a mutual authentication profile to be specified.
 
 </td></tr><tr><td>
 
@@ -200,10 +200,4 @@ JWT Provider details. You can use the lookup to select the JWT provider.
 </td></tr></tbody>
 </table>    The system creates a record in the Application Registries \[oauth\_entity\] table with type OAuth Provider that can be used for Private JWT Key authentication.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[connect-3rd-party-oauth-provider|Connect to a third-party OAuth provider]]
-- [[client-credentials|Client Credentials]]
-- [[c_requestAPI|request]]

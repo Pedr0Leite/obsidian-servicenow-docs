@@ -14,7 +14,7 @@ breadcrumb: [Set up the Industrial Connected Workforce Mobile Agent, Configure, 
 
 # Configure the Now Mobile Agent application
 
-Configure the Now Mobile Agent application and customize it for [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) users.
+Configure the Now Mobile Agent application and customize it for Industrial Connected Workforce \(ICW\) users.
 
 ## Before you begin
 
@@ -129,6 +129,3 @@ Enable or disable the desired UI actions to reduce the load on mobile devices. I
 
 **Parent Topic:**[Setting up the Industrial Connected Workforce Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/setting-up-icw-mobile-agent.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

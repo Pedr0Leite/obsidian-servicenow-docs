@@ -16,7 +16,7 @@ Create the list of assets that are impacted under non-conformance cases.
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
+Role required: Quality Issue Management Admin or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
 
 ## Procedure
 
@@ -34,10 +34,5 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-correction-actions|Create a correction action]]
+**Parent Topic:**[Create a correction action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)
 
-## Related
-
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

@@ -24,7 +24,7 @@ Use the Performance Analytics widgets on the dashboard to visualize data over ti
 
 For unlimited access to all features of this Platform Analytics Solution, purchase a Performance Analytics subscription. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md).
 
-To enable a solution for [[awa-application-landing-page|Advanced Work Assignment]], an admin navigates to **System Definitions** &gt; **Plugins** and activates the Performance Analytics - Content Pack - Advanced Work Assignment plugin.
+To enable a solution for Advanced Work Assignment, an admin navigates to **System Definitions** &gt; **Plugins** and activates the Performance Analytics - Content Pack - Advanced Work Assignment plugin.
 
 \[Omitted image "icon-video-link.png"\] Alt text: Video link to Platform Analytics. [Virtual Agent Academy: Using analytics to optimize Advanced Work Assignment](https://www.youtube.com/watch?v=BNLBkULwTBE&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=6) Watch this video for more information about the Platform Analytics Solution for Advanced Work Assignment.
 
@@ -33,6 +33,3 @@ To enable a solution for [[awa-application-landing-page|Advanced Work Assignment
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

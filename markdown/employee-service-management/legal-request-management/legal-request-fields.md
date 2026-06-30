@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Request Management, Legal Service Delivery, Legal 
 
 # Legal request record - Details tab
 
-List of fields in the **Details** tab of a legal request in the [[legal-counsel-center-landing|Legal Counsel Center]].
+List of fields in the **Details** tab of a legal request in the Legal Counsel Center.
 
 A legal request record in the Legal Counsel Center contains the complete information about the request. The **Details** tab contains fields from the legal intake form and other fields required by legal department users.
 
@@ -171,6 +171,3 @@ Comments or notes for the requester or users in the **Watch list** field who hav
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -30,7 +30,7 @@ Field descriptions for the Invoice attributes form stored in the \[sn\_apm\_invo
 |Manual review in ingestion|Indicates that the invoice was flagged for manual review during the ingestion process.|
 |Matching error|Indicates that the invoice encountered the **PO matching error** state.|
 |Rejected|Indicates that the invoice or line has been rejected and will not be processed for payment.|
-|Suspected duplicate|Indicates that the invoice is suspected to be a duplicate of another invoice in the system. The value is set to true for [[invoices|invoices]] that run into the **Suspected duplicate** state, otherwise, it is false.|
+|Suspected duplicate|Indicates that the invoice is suspected to be a duplicate of another invoice in the system. The value is set to true for invoices that run into the **Suspected duplicate** state, otherwise, it is false.|
 |Sys\_id|Unique ID of the invoice processing detail record.|
 |Tags|Invoice processing detail-related tags.|
 |Tolerance applied|Indicates whether tolerance rules were applied so the invoice can proceed despite variances.|
@@ -40,6 +40,3 @@ Field descriptions for the Invoice attributes form stored in the \[sn\_apm\_invo
 
 **Parent Topic:**[Invoice processing case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-## Related
-
-- [[invoices|Invoices]]

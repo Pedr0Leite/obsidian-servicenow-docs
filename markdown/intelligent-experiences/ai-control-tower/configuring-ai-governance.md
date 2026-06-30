@@ -15,7 +15,7 @@ breadcrumb: [Configure, AI Control Tower, Enable AI experiences]
 
 # Configure AI Control Tower
 
-Configuring the [[ai-control-tower-landing|AI Control Tower]] for [[platform-now-assist-landing|Now Assist]] from the **[[exploring-ai-governance|Configurations]]** page.
+Configuring the AI Control Tower for Now Assist from the **Configurations** page.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 2.  Expand **Data** and select **Opt in** under **Data sharing**.
 
-    To view the **Data** section, confirm that the [[generative-ai-controller|generative AI Controller]] plugin is installed.
+    To view the **Data** section, confirm that the generative AI Controller plugin is installed.
 
     The **Opt in** option is enabled by default.
 
@@ -35,7 +35,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
     For more information about Data sharing, see the FAQs \(common questions\) section on the Data Sharing page.
 
-3.  Select **[[controls|Controls]]** and activate the **Automatically trigger [[playbooks|playbooks]]** option.
+3.  Select **Controls** and activate the **Automatically trigger playbooks** option.
 
     The **Automatically trigger playbooks** option is inactive by default.
 
@@ -50,11 +50,3 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 The AI Control Tower is configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[controls|Controls]]
-- [[playbooks|Playbooks]]

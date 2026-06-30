@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # Now Assist for Operational Technology Service Management \(OTSM\)
 
-Use the Now Assist for Operational Technology Service Management \(OTSM\) application to summarize the [[operational-technology-overview|Operational Technology]] \(OT\) incident information and generate incident resolution notes. You can enable your users to understand the context so that they can implement quicker resolutions.
+Use the Now Assist for Operational Technology Service Management \(OTSM\) application to summarize the Operational Technology \(OT\) incident information and generate incident resolution notes. You can enable your users to understand the context so that they can implement quicker resolutions.
 
 ## Get started
 
@@ -70,6 +70,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

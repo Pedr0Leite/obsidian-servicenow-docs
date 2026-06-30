@@ -14,7 +14,7 @@ breadcrumb: [Playbook for asset attestation, Audit assets using Asset Attestatio
 
 # Return to the playbook to continue pending asset attestation activities
 
-Resume work on the incomplete [[asset-attestation-ham|asset attestation]] activities in the playbook by using the attestation schedule details.
+Resume work on the incomplete asset attestation activities in the playbook by using the attestation schedule details.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: asset or inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the Attestation list, select **Schedule**.
 
@@ -41,7 +41,3 @@ Complete all the pending activities in the playbook. For details, see [Create an
 
 **Parent Topic:**[Playbook for asset attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/playbook-asset-attestation-ham.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Reservation Management - Field descriptions, Reference, W
 
 # User criteria form
 
-Use the [[ec-user-criteria-form|User Criteria form]] field information when creating a new user criteria record.
+Use the User Criteria form field information when creating a new user criteria record.
 
 |Field|Description|
 |-----|-----------|
@@ -23,7 +23,7 @@ Use the [[ec-user-criteria-form|User Criteria form]] field information when crea
 |Groups|Groups who can access the reservable modules when you apply the user criteria. Click the unlock groups icon \(\[Omitted image "unlock-icon.png"\] Alt text: Unlock groups icon\) to select the groups.|
 |Roles|Roles who can access the reservable modules when you apply the user criteria. Click the unlock roles icon \(\[Omitted image "unlock-icon.png"\] Alt text: Unlock roles icon\) to select the groups.|
 |Advanced|Option to create a script for the user criteria.|
-|Application|This field is automatically set to `[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]`.|
+|Application|This field is automatically set to `Workplace Reservation Management`.|
 |Active|Option to make the user criteria available.|
 |Companies|Companies who can access the reservable modules when you apply the user criteria. Click the inlock companies icon \(\[Omitted image "unlock-icon.png"\] Alt text: Unlock companies icon\) to select the companies.|
 |Location|Locations which can access reservable modules when you apply the user criteria. Click the unlock locations icon \(\[Omitted image "unlock-icon.png"\] Alt text: Unlock locations icon\) to select the locations.|
@@ -43,7 +43,3 @@ Use the [[ec-user-criteria-form|User Criteria form]] field information when crea
 
 [Apply user criteria on a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/apply-user-crit-resvbl-module.md)
 
-## Related
-
-- [[ec-user-criteria-form|User Criteria form]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

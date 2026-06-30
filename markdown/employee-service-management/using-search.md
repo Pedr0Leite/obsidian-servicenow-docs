@@ -12,7 +12,7 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # SharePoint Online Search Connector search results
 
-Learn about the [[sharepoint-search-overview|SharePoint Online Search Connector]] searches and the results displayed for your search requests.
+Learn about the SharePoint Online Search Connector searches and the results displayed for your search requests.
 
 This example shows the SharePoint Online Search Connector search results page. Based on your settings, the layout and appearance may vary. For more information, see [View configurations, view templates, and configuration bundles for EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-configuration-bundle.md).
 
@@ -20,6 +20,3 @@ This example shows the SharePoint Online Search Connector search results page. B
 
 For more information, see the [Using AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/use-ais.md) page.
 
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]

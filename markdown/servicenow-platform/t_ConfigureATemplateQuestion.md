@@ -12,7 +12,7 @@ breadcrumb: [Create a quiz, Quiz designer, Using Quizzes, Quizzes, Assessments a
 
 # Configure a template question
 
-You can configure template questions when designing [[c_Quizzes|quizzes]].
+You can configure template questions when designing quizzes.
 
 ## Before you begin
 
@@ -47,20 +47,14 @@ Role required: assessment\_admin or admin
 8.  Click the **X** icon to close the template properties dialog box and save your settings.
 
 
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-**Parent Topic:**[[t_EditaQuiz|Edit a quiz]]
+**Parent Topic:**[Edit a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditaQuiz.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
 [Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-## Related
-
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_EditaQuiz|Edit a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[c_Quizzes|Quizzes]]

@@ -22,7 +22,7 @@ Role required: sn\_wfo\_cfg\_itsm.admin
 
 ## About this task
 
-Before you set up [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], you must assign each agent in your team to an assignment group that is identified as the primary assignment group to which they belong.
+Before you set up Workforce Optimization for ITSM, you must assign each agent in your team to an assignment group that is identified as the primary assignment group to which they belong.
 
 ## Procedure
 
@@ -37,6 +37,3 @@ Before you set up [[workforce-optimization-itsm-landing-page|Workforce Optimizat
 
 **Parent Topic:**[Configuring groups in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configuring-groups-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

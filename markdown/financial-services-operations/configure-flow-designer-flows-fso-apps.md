@@ -12,7 +12,7 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Configure flows
 
-Review the flows that are available with [[fso-overview|Financial Services]] Operations applications to see if these flows meet your business needs. You might need to customize these flows or design new ones as needed.
+Review the flows that are available with Financial Services Operations applications to see if these flows meet your business needs. You might need to customize these flows or design new ones as needed.
 
 ## Before you begin
 
@@ -22,20 +22,20 @@ Role required: Based on the application that you are configuring, you need the f
 
 -   Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
--   [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
--   [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
--   [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
+-   Financial Services Card Operations: sn\_bom\_card.admin and admin
+-   Financial Services Complaint Management: sn\_bom\_compl.admin and admin
+-   Financial Services Payment Operations: sn\_bom\_payment.admin and admin
 -   Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
 -   Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
--   [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]: sn\_bom\_treasury.admin and admin
--   [[individual-life-claims-landing-page|Individual Life Claims]]: sn\_ins\_claim\_indl.admin and admin
--   [[insurance-claims-flow|Insurance claims]]: sn\_ins\_gen\_claim.admin and admin
+-   Financial Services Treasury Operations: sn\_bom\_treasury.admin and admin
+-   Individual Life Claims: sn\_ins\_claim\_indl.admin and admin
+-   Insurance claims: sn\_ins\_gen\_claim.admin and admin
 
 ## About this task
 
 The flows are built using ServiceNow Workflow Studio, so make sure you’re familiar with [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) basics.
 
-For information on flows that are installed with Financial Services Operations applications, see [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]].
+For information on flows that are installed with Financial Services Operations applications, see [Designer flows for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/flow-designer-flows-fso-apps.md).
 
 ## Procedure
 
@@ -53,13 +53,4 @@ For information on flows that are installed with Financial Services Operations a
 
     For more information, see [Test a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flow-test.md).
 
-## Related
 
-- [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]]
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

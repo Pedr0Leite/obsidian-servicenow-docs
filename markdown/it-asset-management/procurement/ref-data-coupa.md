@@ -14,7 +14,7 @@ breadcrumb: [Create a requisition on Coupa through Procurement application, Inte
 
 # Reference data synchronization
 
-For a successful integration of Coupa with [[c_SoftwareAssetMgmt|Software Asset Management]], you must synchronize the following reference data types on both the ServiceNow [[c_Procurement|Procurement]] application and Coupa.
+For a successful integration of Coupa with Software Asset Management, you must synchronize the following reference data types on both the ServiceNow Procurement application and Coupa.
 
 |Coupa Requisition field|ServiceNow Procurement Purchase Order field|Description|
 |-----------------------|-------------------------------------------|-----------|
@@ -94,8 +94,3 @@ The model of the purchase order line item. **Note:** This field is only used for
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Procurement|Procurement]]

@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[emp-slate-employee-profile|Employee profile]]
+Employee profile
 
 </td><td>
 
@@ -81,7 +81,7 @@ Status of the languages spoken record: -   New: When profile intake form is sent
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -89,7 +89,7 @@ Status of the languages spoken record: -   New: When profile intake form is sent
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -107,8 +107,3 @@ Status of the languages spoken record: -   New: When profile intake form is sent
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

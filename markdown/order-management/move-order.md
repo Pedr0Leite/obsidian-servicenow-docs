@@ -16,7 +16,7 @@ The move order helps agents to change the location for product inventory at the 
 
 The move order is triggered from the TMF 622 and 641 APIs.
 
-When the action is **Change** and move operation is **true**. Two [[cpq-sets|sets]] of domain orders and composedof items are created with the action state **Add** and **Change**. The inventory hierarchies present in change domain order are got replicated for add domain order. If the Order Characteristics values are available for change domain order, it gets replicated for add domain order.
+When the action is **Change** and move operation is **true**. Two sets of domain orders and composedof items are created with the action state **Add** and **Change**. The inventory hierarchies present in change domain order are got replicated for add domain order. If the Order Characteristics values are available for change domain order, it gets replicated for add domain order.
 
 The state of inventory for an add domain order becomes **Installation pending**.
 
@@ -28,18 +28,12 @@ For all the product inventory records that are in **Activation pending** state a
 
 On successful completion of the order, the old inventory with state **Change pending** becomes **Inactive**. The new inventory with state **Activation pending** becomes **Active**.
 
-**Parent Topic:**[[managing-orders|Managing post-fulfillment order changes]]
+**Parent Topic:**[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[cpq-sets|Sets]]

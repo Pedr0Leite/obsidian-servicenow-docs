@@ -12,11 +12,11 @@ breadcrumb: [Exploring CA, Continuous Authentication \(CA\), Zero Trust Access, 
 
 # Policies
 
-View the different continuous [[authentication-policies|authentication policies]] that are created.
+View the different continuous authentication policies that are created.
 
 The CA policies form includes the details of the CA policies that are created for the table or data class. You can manage policy records from the custom policies.
 
-To access the policies page, navigate to **All** &gt; **Continuous [[c_Authentication|Authentication]]**, select **Policies** tab. Following are the policy details that are displayed on the page:
+To access the policies page, navigate to **All** &gt; **Continuous Authentication**, select **Policies** tab. Following are the policy details that are displayed on the page:
 
 |Field|Description|
 |-----|-----------|
@@ -33,16 +33,9 @@ To access the policies page, navigate to **All** &gt; **Continuous [[c_Authentic
 **Related topics**  
 
 
-[[ca-metrics|Metrics]]
+[Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md)
 
-[[ca-system-properties|System properties]]
+[System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md)
 
-[[explore-continuous-auth|Exploring Continuous Authentication]]
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 
-## Related
-
-- [[ca-metrics|Metrics]]
-- [[ca-system-properties|System properties]]
-- [[explore-continuous-auth|Exploring Continuous Authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]

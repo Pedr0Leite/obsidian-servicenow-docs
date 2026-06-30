@@ -12,13 +12,9 @@ breadcrumb: [Group Life Servicing, Life Insurance Servicing, Insurance applicati
 
 # Analytics and reporting for Group Life Servicing
 
-[[group-life-servicing|Group Life Servicing]] contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Group Life Servicing contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[group-life-servicing-dashboard|Group Life Servicing dashboard]] is available for Group Life Servicing.
+The [Group Life Servicing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/group-life-servicing-dashboard.md) is available for Group Life Servicing.
 
-## Related
-
-- [[group-life-servicing-dashboard|Group Life Servicing dashboard]]
-- [[group-life-servicing|Group Life Servicing]]

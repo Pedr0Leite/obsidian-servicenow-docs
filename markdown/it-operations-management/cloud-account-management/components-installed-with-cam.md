@@ -14,7 +14,7 @@ breadcrumb: [Cloud Account Management reference, Cloud Account Management, ITOM 
 
 # Components installed with Cloud Account Management
 
-Several user roles are installed with the [[cam-landing|Cloud Account Management]] app.
+Several user roles are installed with the Cloud Account Management app.
 
 ## Roles installed
 
@@ -88,6 +88,3 @@ ITOM CAM Certifier Group
 
 **Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

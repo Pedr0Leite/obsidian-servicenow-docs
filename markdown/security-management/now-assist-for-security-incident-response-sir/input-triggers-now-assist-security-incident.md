@@ -64,9 +64,9 @@ Related Input tables
 
 -   Affected CIs - configuration item
 -   Affected Users - Users
--   [[sir-landing-page|Security Incident Response]] Task - Short description
+-   Security Incident Response Task - Short description
 -   State - Any state other than **Cancelled**.
--   Associated [[c_Observables|Observables]] - Observable finding is Malicious or Suspicious.
+-   Associated Observables - Observable finding is Malicious or Suspicious.
 
 </td></tr></tbody>
 </table>## Resolution notes generation skill
@@ -147,8 +147,3 @@ Security Incident \[sn\_si\_incident\] table.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]

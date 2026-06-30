@@ -14,7 +14,7 @@ breadcrumb: [Configuring Portfolio Planning with PPM, Configure, Portfolio Plann
 
 # Configure bulk import
 
-This system property enables you to update the bulk import functionality in [[portfolio-planning-app-landing-page|Portfolio Planning]] with PPM.
+This system property enables you to update the bulk import functionality in Portfolio Planning with PPM.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ Role required: sn\_align\_core.apw\_admin
 
     When the records are imported from PPM to Portfolio Planning, only the last comment will be imported.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

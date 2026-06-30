@@ -14,7 +14,7 @@ breadcrumb: [Initiatives and Accelerators, Using Impact, Impact]
 
 # Accelerator request
 
-Depending on the [[impact-landing-page|Impact]] package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators.
+Depending on the Impact package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators.
 
 The process of requesting an Accelerator from IDI and Impact Store App is similar. When you request an Accelerator, you need to complete a request form and follow the on-screen guidance to complete the setup.
 
@@ -27,6 +27,3 @@ Some Accelerators require additional terms and conditions and are offered pursua
 -   Request an Accelerator from [Request an Accelerator from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/request-accelerator.md)
 -   Request an Accelerator from [Request Accelerators and Initiatives for Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerators.md)
 
-## Related
-
-- [[impact-landing-page|Impact]]

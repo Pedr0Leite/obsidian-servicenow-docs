@@ -28,8 +28,8 @@ To find the cause of this error, identify the **Short Message** field of the err
 
 1.  Depending on the application you're using, do one of the following:
 
-    -   To identify the cause of the error using [[cow-landing-page|Cloud Discovery Workspace]], navigate to **Cloud Discovery Workspace** &gt; **Cloud [[r-discovery|Discovery]]** &gt; **Diagnostics** &gt; **Discovery Log**.
-    -   To identify the cause of the error [[using-discovery|using Discovery]], navigate to **All** &gt; **Discovery** &gt; **Output and Artifacts** &gt; **Discovery Log**.
+    -   To identify the cause of the error using Cloud Discovery Workspace, navigate to **Cloud Discovery Workspace** &gt; **Cloud Discovery** &gt; **Diagnostics** &gt; **Discovery Log**.
+    -   To identify the cause of the error using Discovery, navigate to **All** &gt; **Discovery** &gt; **Output and Artifacts** &gt; **Discovery Log**.
 2.  Filter the **Level** column by **Error**.
 
     If you are using Discovery, you can also view the Error Report on the Discovery dashboard.
@@ -50,8 +50,3 @@ To find the cause of this error, identify the **Short Message** field of the err
 
 [Find the cause of a "Probe not found" error]()
 
-## Related
-
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]

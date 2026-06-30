@@ -22,7 +22,7 @@ Role required: kg\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[knowledge-graph-landing|Knowledge Graph]]** &gt; **Knowledge Graph Designer**.
+1.  Navigate to **All** &gt; **Knowledge Graph** &gt; **Knowledge Graph Designer**.
 
     The UI displays a list of all the Knowledge Graph schemas on the landing page.
 
@@ -47,6 +47,4 @@ Role required: kg\_admin
 
     \[Omitted image "discard-changes-in-kg-schema.png"\] Alt text: Discard changes.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

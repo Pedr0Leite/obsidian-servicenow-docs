@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Assign learning form
 
-Use the Assign learning form to assign a [[exploring-learning-exp|learning]] course to an employee.
+Use the Assign learning form to assign a learning course to an employee.
 
 |Field|Description|
 |-----|-----------|
@@ -47,7 +47,7 @@ Use the Assign learning form to assign a [[exploring-learning-exp|learning]] cou
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
@@ -55,7 +55,3 @@ Use the Assign learning form to assign a [[exploring-learning-exp|learning]] cou
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

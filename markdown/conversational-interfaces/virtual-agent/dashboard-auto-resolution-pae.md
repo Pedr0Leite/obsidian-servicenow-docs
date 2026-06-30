@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Issue auto-resolution tab
 
-The **Issue auto-resolution** tab helps you understand how well your [[virtual-agent-landing-page|Virtual Agent]] \(VA\) chatbot anticipates user needs. It displays information about the number of user issues intercepted by the auto-resolution service and resolved by VA.
+The **Issue auto-resolution** tab helps you understand how well your Virtual Agent \(VA\) chatbot anticipates user needs. It displays information about the number of user issues intercepted by the auto-resolution service and resolved by VA.
 
 Issue auto-resolution takes place when a user is diverted to VA from a non-conversational interface. For example, a user might request a new keyboard through a service portal or email. The auto-resolution service can detect the user request and use VA to resolve the user's request in a VA chatbot session. For more information, see [Auto Resolution for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md).
 
@@ -109,6 +109,3 @@ Frequently used topics in auto resolution conversations. Select the indicator to
 </td></tr></tbody>
 </table>**Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

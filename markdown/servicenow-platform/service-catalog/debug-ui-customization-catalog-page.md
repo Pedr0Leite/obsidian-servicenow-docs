@@ -14,13 +14,13 @@ breadcrumb: [Debugging Service Catalog, Service Catalog, Manage service capabili
 
 # Debug UI customizations for a Service Catalog page
 
-Perform the health check of a [[service-catalog|Service Catalog]] page. The [[ui-page|UI Page]] Customization Diagnostics window displays the UI macros applicable for the Service Catalog page and their corresponding states. For issues on a Service Catalog page due to customized UI macros, you can identify the source of broken functionality.
+Perform the health check of a Service Catalog page. The UI Page Customization Diagnostics window displays the UI macros applicable for the Service Catalog page and their corresponding states. For issues on a Service Catalog page due to customized UI macros, you can identify the source of broken functionality.
 
 ## Before you begin
 
 Role required: admin or catalog\_admin.
 
-Watch this seven-minute video to learn more about UI customization debugging, variable action logger, variable watcher, and the [[c_ItemDiagnostic|Item Diagnostic report]].
+Watch this seven-minute video to learn more about UI customization debugging, variable action logger, variable watcher, and the Item Diagnostic report.
 
 ## Procedure
 
@@ -125,8 +125,3 @@ data-sn-macro-sys-id="${jvar_macro_sys_id}"
 
 [bundle-platadm.c_UpgradeHistory]
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[ui-page|UI page]]
-- [[c_ItemDiagnostic|Item diagnostic report]]

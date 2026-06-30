@@ -26,7 +26,7 @@ Audit tasks are completed throughout an engagement and provide documented eviden
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "TasksIcon.jpg"\] Alt text: Tasks icon.\).
 
@@ -42,6 +42,4 @@ Audit tasks are completed throughout an engagement and provide documented eviden
 
 5.  Select **Save**.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

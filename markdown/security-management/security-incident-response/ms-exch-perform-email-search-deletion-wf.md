@@ -24,12 +24,12 @@ Role required: sn\_si.analyst
 
 The **Microsoft Exchange - Perform Email Search and Deletion** flow is executed when email searches are set up and the **Delete from Email Server\(s\)** or **Search on Email Server\(s\)** button are pressed.
 
-Actions specific to this integration are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this integration are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 The flow actions include:
 
--   [[get-email-details-from-exch-server|Create Compliance Search Action]]
--   [[search-delete-email-threat-exchange|Check Compliance Search Status Action]]
+-   [Create Compliance Search Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-email-details-from-exch-server.md)
+-   [Check Compliance Search Status Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/search-delete-email-threat-exchange.md)
 
 ## Create Compliance Search Preview Action
 
@@ -156,8 +156,3 @@ Input variables determine the initial behavior of the action.
 |targetId|Mandatory target host identifier field where the Exchange Server is located.|
 |searchName|Mandatory name of compliance search created on exchange server.|
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-email-details-from-exch-server|Create Compliance Search Action]]
-- [[search-delete-email-threat-exchange|Check Compliance Search Status Action]]

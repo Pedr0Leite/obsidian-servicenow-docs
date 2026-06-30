@@ -14,7 +14,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 Approver configurator provides you with capabilities to define multiple levels of approvals based on business rule definitions.
 
-To set up multiple levels of approvals in your [[bia-uib|business impact analysis]] and business plans, you must configure these setup steps:
+To set up multiple levels of approvals in your business impact analysis and business plans, you must configure these setup steps:
 
 -   Set up approval configuration
 -   Set up approval levels
@@ -22,25 +22,16 @@ To set up multiple levels of approvals in your [[bia-uib|business impact analysi
 
 **Note:**
 
-For more information on the roles in the [[business-continuity-mangmt-overview|Business Continuity Management]] application, see [[installed-with-bcm|Components installed with Business Continuity Management]].
+For more information on the roles in the Business Continuity Management application, see [Components installed with Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/installed-with-bcm.md).
 
 For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/roles-installed-with-approver-configurator.md).
 
--   **[[setup-bcm-approval-configurator|Set up approval configuration]]**  
+-   **[Set up approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-approval-configurator.md)**  
 Set up approval configuration to enable multiple levels of approvals and select approvers for each level based on approval rules.
--   **[[setup-bcm-approval-levels|Set up approval levels]]**  
+-   **[Set up approval levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-approval-levels.md)**  
 Assign multiple levels of approvals to users or groups to support each step of your BIA, BCP, or events workflow processes.
--   **[[setup-bcm-approval-rules|Set up approval rules]]**  
+-   **[Set up approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-approval-rules.md)**  
 Set up rules for approvals at each approval level by selecting an approver type and the requirement of approval from either one or all the stakeholders. Define filter conditions on the source table to which the approval rule is applied.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[installed-with-bcm|Components installed with Business Continuity Management]]
-- [[setup-bcm-approval-configurator|Set up approval configuration]]
-- [[setup-bcm-approval-levels|Set up approval levels]]
-- [[setup-bcm-approval-rules|Set up approval rules]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

@@ -26,7 +26,7 @@ Forcing a notification means that the relevant users receive the notification, e
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**.
 
 2.  Open the appropriate notification.
 
@@ -40,7 +40,7 @@ Forcing a notification means that the relevant users receive the notification, e
 
     3.  Select **Save**.
 
-        For more information about configuring the form, see [[configure-form-layout|Configuring the form layout]].
+        For more information about configuring the form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 4.  Select the **Force delivery** check box.
 
@@ -49,10 +49,5 @@ Forcing a notification means that the relevant users receive the notification, e
     Unlike using the **Mandatory** option, forcing the delivery does not lock the user's preference or prevent the user from unsubscribing from the notification.
 
 
-**Parent Topic:**[[c_SubscriptionBasedNotifications|Subscription-based notifications]]
+**Parent Topic:**[Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[notifications|Notifications]]

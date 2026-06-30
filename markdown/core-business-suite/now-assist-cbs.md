@@ -12,7 +12,7 @@ breadcrumb: [Configure Core Business Suite using Now Assist, Configure, Core Bus
 
 # Now Assist for Core Business Suite
 
-Now Assist for Core Business Suite supports administrators during [[cbs-landing|Core Business Suite]] configuration through a guided conversational experience. It can help drive setup completion by displaying next actions, tracking configuration progress, and assisting with error resolution from a single chat interface.
+Now Assist for Core Business Suite supports administrators during Core Business Suite configuration through a guided conversational experience. It can help drive setup completion by displaying next actions, tracking configuration progress, and assisting with error resolution from a single chat interface.
 
 ## Now Assist for Core Business Suite overview
 
@@ -60,28 +60,18 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
--   **[[using-ai-agent-workflows-na-cbs|Agentic Workflow in Now Assist for Core Business Suite]]**  
+-   **[Agentic Workflow in Now Assist for Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/using-ai-agent-workflows-na-cbs.md)**  
 Agentic workflow in Now Assist for Core Business Suite supports the Core Business Suite setup process through a conversational interface.
--   **[[config-groups|Configure groups and roles]]**  
+-   **[Configure groups and roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-groups.md)**  
 Configure groups and roles for Core Business Suite business units through the Now Assist conversational experience.
--   **[[create-notification-using-na|Create a notification]]**  
+-   **[Create a notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/create-notification-using-na.md)**  
 Create notifications for Core Business Suite business units through the Now Assist conversational experience.
--   **[[edit-existing-notification-using-na|Edit a notification]]**  
+-   **[Edit a notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/edit-existing-notification-using-na.md)**  
 Edit notifications for Core Business Suite business units through the Now Assist conversational experience.
--   **[[manage-bulk-upload-using-na|Bulk upload]]**  
+-   **[Bulk upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/manage-bulk-upload-using-na.md)**  
 Upload records in bulk for Core Business Suite business units through the Now Assist conversational experience.
--   **[[manage-bulk-edit-using-na|Bulk edit]]**  
+-   **[Bulk edit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/manage-bulk-edit-using-na.md)**  
 Edit records in bulk for Core Business Suite business units through the Now Assist conversational experience.
 
-**Parent Topic:**[[configure-cbs-using-now-assist|Configure Core Business Suite using Now Assist]]
+**Parent Topic:**[Configure Core Business Suite using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs-using-now-assist.md)
 
-## Related
-
-- [[using-ai-agent-workflows-na-cbs|Agentic Workflow in Now Assist for Core Business Suite]]
-- [[config-groups|Configure groups and roles]]
-- [[create-notification-using-na|Create a notification]]
-- [[edit-existing-notification-using-na|Edit a notification]]
-- [[manage-bulk-upload-using-na|Bulk upload]]
-- [[manage-bulk-edit-using-na|Bulk edit]]
-- [[configure-cbs-using-now-assist|Configure Core Business Suite using Now Assist]]
-- [[cbs-landing|Core Business Suite]]

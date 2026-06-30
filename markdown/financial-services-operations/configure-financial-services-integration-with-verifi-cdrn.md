@@ -12,7 +12,7 @@ breadcrumb: [Verifi, Integrate, Financial Services Operations \(FSO\)]
 
 # Configuring Financial Services Operations Integration with Verifi
 
-Configure the connection between ServiceNow FSO [[dispute-management|Dispute Management]] application to the Verifi Cardholder Dispute Resolution Network \(CDRN\) API to enable end-to-end dispute case submission and resolution.
+Configure the connection between ServiceNow FSO Dispute Management application to the Verifi Cardholder Dispute Resolution Network \(CDRN\) API to enable end-to-end dispute case submission and resolution.
 
 ## Before you begin
 
@@ -35,11 +35,11 @@ Obtain the following information from the Verifi team.
 
 ## Procedure
 
-1.  [[configure-rest-end-point|Configure the REST End Point]]
+1.  [Configure the REST End Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-rest-end-point.md)
 
 2.  
 
-3.  [[configure-the-authentication-profile|Configure the Authentication Profile]]
+3.  [Configure the Authentication Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-the-authentication-profile.md)
 
 
 -   **[Configure the REST End Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-rest-end-point.md)**  
@@ -47,11 +47,5 @@ The REST Endpoint record in ServiceNow® stores the base URL, API version header
 -   **[Configure the Authentication Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-the-authentication-profile.md)**  
 The Verifi Issuer API uses JSON Web Tokens \(JWT\) for authentication. A fresh JWT must be generated for every API call. This section explains how to store credentials securely and how the ServiceNow® script generates and attaches the JWT.
 
-**Parent Topic:**[[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]
+**Parent Topic:**[Financial Services Operations Integration with Verifi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-verifi-cdrn-integration-app-landing-page.md)
 
-## Related
-
-- [[configure-rest-end-point|configure rest end point]]
-- [[configure-the-authentication-profile|Configure the Authentication Profile]]
-- [[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]
-- [[dispute-management|Dispute Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Major Security Incident status reports, Manage MSIM statu
 
 # Add system properties
 
-Add system properties to control MSIM application behavior. Following are the default system properties that are introduced as part of the [[major-security-incident-management-landing-page|Major Security Incident Management]] status reports.
+Add system properties to control MSIM application behavior. Following are the default system properties that are introduced as part of the Major Security Incident Management status reports.
 
 |Property Name|Description|
 |-------------|-----------|
@@ -40,6 +40,3 @@ Add system properties to control MSIM application behavior. Following are the de
 
 [Create Report Subsection Element template]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

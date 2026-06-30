@@ -47,11 +47,7 @@ The Opportunity Related Channel Partner \[sn\_bus\_org\_opptym\_related\_busines
 **Related topics**  
 
 
-[[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
+[Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration-oppMgmt.md)
 
-[[activate-opportunity-management-for-business-locations|Activate Opportunity Management for Business Locations]]
+[Activate Opportunity Management for Business Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-opportunity-management-for-business-locations.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
-- [[activate-opportunity-management-for-business-locations|Activate Opportunity Management for Business Locations]]

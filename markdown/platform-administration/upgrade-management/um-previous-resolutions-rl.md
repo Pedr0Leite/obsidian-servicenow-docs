@@ -14,7 +14,7 @@ breadcrumb: [Skipped Records visual task board \(VTB\), Reviewing upgrade histor
 
 # Previous Resolutions related list
 
-The [[uc-previous-resolutions-rl|Previous Resolutions related list]] shows the history of the selected skipped record. You can see what resolutions have been done with the selected skipped record in the previous upgrades.
+The Previous Resolutions related list shows the history of the selected skipped record. You can see what resolutions have been done with the selected skipped record in the previous upgrades.
 
 <table id="table_tht_fp2_clb"><thead><tr><th>
 
@@ -87,6 +87,3 @@ The table where the skipped record belongs.
 </td></tr></tbody>
 </table>**Parent Topic:**[Skipped Records visual task board \(VTB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-vtb-history.md)
 
-## Related
-
-- [[uc-previous-resolutions-rl|Previous Resolutions related list]]

@@ -14,7 +14,7 @@ breadcrumb: [Continual Improvement Management, IT Service Management]
 
 # Monitor and plan improvements
 
-Monitor and plan improvements using the [[continual-improvement-workbench|Continual Improvement Workbench]] that displays improvements in progress, under review, and in the backlog to help you plan your sprint.
+Monitor and plan improvements using the Continual Improvement Workbench that displays improvements in progress, under review, and in the backlog to help you plan your sprint.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ Role required: sn\_cim.improvement\_manager, sn\_cim.improvement\_coordinator
 
         **Note:** Only the fields visible in the Improvement Register or Workbench Planning view are shown in the workbench planning section.
 
-## Related
 
-- [[continual-improvement-workbench|Continual Improvement Workbench]]

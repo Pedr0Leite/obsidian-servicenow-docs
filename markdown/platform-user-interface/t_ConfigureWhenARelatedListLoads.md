@@ -24,7 +24,7 @@ Role required: none
 
 1.  Navigate to \[Omitted image "user-menu-icon.png"\] Alt text: User menu icon. **User Menu** &gt; **Preferences** &gt; **Display**.
 
-2.  Select one of the following options from the **Loads related lists in classic [[form-configurable-workspace|forms]]** menu.
+2.  Select one of the following options from the **Loads related lists in classic forms** menu.
 
 <table id="choicetable_rmk_dk5_1r"><tbody><tr><td id="d87156e86">
 
@@ -54,7 +54,7 @@ Related lists load on demand. When this option is selected, a **Load Related Lis
 </table>3.  Close the display preferences menu.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -71,7 +71,3 @@ Related lists load on demand. When this option is selected, a **Load Related Lis
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[form-configurable-workspace|Forms]]

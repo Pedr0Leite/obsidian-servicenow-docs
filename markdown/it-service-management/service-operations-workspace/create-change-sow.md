@@ -14,7 +14,7 @@ breadcrumb: [Change Management in Service Operations Workspace, Operating IT ser
 
 # Create a change request in Service Operations Workspace
 
-Track [[migration-utility-modification|modifications]] to a supported configuration item \(CI\) by using a change request. You can record information such as the reason for the change, and the change type, priority, and risk.
+Track modifications to a supported configuration item \(CI\) by using a change request. You can record information such as the reason for the change, and the change type, priority, and risk.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Description
 5.  View the new change request record created using the selected template by selecting **Continue**.
  **Note:** When you select an existing template, information in the predefined fields will be populated. Template fields are either read-only or mandatory depending on the template field policies configured while creating the template.
 
-For more information on [[change-templates|change templates]], see [Create and propose a change template in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-template-sow.md).
+For more information on change templates, see [Create and propose a change template in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-template-sow.md).
 
 </td></tr><tr><td id="d174427e165">
 
@@ -106,7 +106,7 @@ For more information on [[change-templates|change templates]], see [Create and p
 
     You can filter and search for the change type.
 
-    The following [[change-types|change types]] are available:
+    The following change types are available:
 
 <table id="table_qbj_vqx_mhc"><thead><tr><th>
 
@@ -146,12 +146,12 @@ DevOps or DevOps Simplified
 
 </td><td>
 
-Change model used for DevOps change requests.To use the DevOps [[c_Models|models]], you must activate the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Change model used for DevOps change requests.To use the DevOps models, you must activate the DevOps Change Velocity application.
 
 </td></tr></tbody>
 </table>    For more information, see .
 
-    **Note:** When you [[t_CreateAChange|create a change request]] from an interaction, only pre-approved change types are available.
+    **Note:** When you create a change request from an interaction, only pre-approved change types are available.
 
 3.  In the Overview tab, fill in the fields.
 
@@ -243,7 +243,7 @@ Refresh impact services
 
 </td><td>
 
-When you refresh impacted services, the Impacted Services/CIs, Business [[dex-workspace-application-tab|Applications]], and Service Offerings related lists get updated based on the affected CIs. The records in each of the related list are unique even though the impact can be from a single affected CI.
+When you refresh impacted services, the Impacted Services/CIs, Business Applications, and Service Offerings related lists get updated based on the affected CIs. The records in each of the related list are unique even though the impact can be from a single affected CI.
 
 </td></tr></tbody>
 </table>    3.  Select **Save**.
@@ -295,7 +295,7 @@ Information about how to resolve the change or steps taken to resolve it, if app
 
 7.  Schedule the implementation for the change and view conflicts detected.
 
-    **Note:** The [[c_ConflictDetection|conflict detection]] feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md)
+    **Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md)
 
     1.  Select **Set schedule**.
 
@@ -441,7 +441,7 @@ The specific data to associate with the change request. You can select multiple 
 
     3.  Navigate the tabs to verify that the associated data is mapped accurately.
 
-        Update [[settings-mobile|settings]] as needed.
+        Update settings as needed.
 
         -   Work Items
         -   Commits
@@ -467,11 +467,11 @@ The specific data to associate with the change request. You can select multiple 
 
 10. Select **New** in **Change task** section.
 
-    For more information to [[create-a-change-task|create a change task]], refer [Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md).
+    For more information to create a change task, refer [Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md).
 
 11. Associate the change with a product or service release.
 
-    This option is available only if you have the [[dpr-landing-page|Digital Product Release]] v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-sow-integration-cr.md).
+    This option is available only if you have the Digital Product Release v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-sow-integration-cr.md).
 
     1.  Select **Assign** in the **Related release** card on the contextual side panel.
 
@@ -503,7 +503,7 @@ The specific data to associate with the change request. You can select multiple 
 
     The state is moved forward based on the type of change request:
 
-    -   Assess state: Group level approval for a normal change request. Approval records are automatically generated based on the  [[change-approval-policy|Change approval policies]]. You can conduct peer and technical reviews of the proposed change.
+    -   Assess state: Group level approval for a normal change request. Approval records are automatically generated based on the  Change approval policies. You can conduct peer and technical reviews of the proposed change.
     -   Authorize state: Approval required by the business stakeholders, or by the Change Advisory Board.
     -   Scheduled state: Pre-approved standard changes.
     **Note:** To mail the change record, select the more options icon \(\[Omitted image "more-options.png"\] Alt text: More options icon.\) in the content frame and select **Email**. Both the user who requested the change and the user who is assigned to the change are automatically populated in the list of recipients.
@@ -537,17 +537,3 @@ Propose new values for one or more CI attributes, review the proposed values, an
 
 [Conduct a CAB meeting in the CAB workbench]()
 
-## Related
-
-- [[migration-utility-modification|Modifications]]
-- [[change-templates|Change templates]]
-- [[change-types|Change types]]
-- [[c_Models|Models]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[t_CreateAChange|Create a change request]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ConflictDetection|Conflict detection]]
-- [[settings-mobile|Settings]]
-- [[create-a-change-task|Create a change task]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[change-approval-policy|Change approval policies]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Configure and manage the Action Plan Guided Tour for Journey Accelerator
 
-As an administrator \[admin\] or a guided tour administrator \[guided\_tour\_admin\], you can manage and update the Action Plan Guided Tour for [[journey-accelerator-1|Journey Accelerator]].
+As an administrator \[admin\] or a guided tour administrator \[guided\_tour\_admin\], you can manage and update the Action Plan Guided Tour for Journey Accelerator.
 
 Journey Accelerator has a guided tour to help managers learn about action plans and come up-to-speed on the available features.
 
@@ -26,6 +26,3 @@ Guided tours help train role-based users on how to use an application's user int
 -   [Guided Tour Designer interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-tour-designer-interface.md): Learn about the Guided Tour Designer features and interface.
 -   [Edit a guided tour](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/edit-guided-tour.md): This task provides details about how to modify guided tours.
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

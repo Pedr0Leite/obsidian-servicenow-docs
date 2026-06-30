@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Monitor incoming alerts
 
-You can monitor incoming alerts in [[workspace-dashboard-use|Service Operations Workspace]]. You can also monitor and manage alerts in the [[c_EM|Event Management]] interface.
+You can monitor incoming alerts in Service Operations Workspace. You can also monitor and manage alerts in the Event Management interface.
 
 ## Before you begin
 
@@ -82,7 +82,7 @@ The severity of the event. The value for this field is copied from the event unl
 
 </td></tr><tr><td>
 
-[[alert-priority-group|Priority group]]
+Priority group
 
 </td><td>
 
@@ -182,7 +182,7 @@ Time that the initial event occurred in the remote system.
 </table>
 ## What to do next
 
-If Operational Intelligence is activated, you can right-click an alert and click **View Metrics** to open the integrated Insights Explorer and [[dependency-views-map|Dependency Views map]] for the CI that is associated with the alert.
+If Operational Intelligence is activated, you can right-click an alert and click **View Metrics** to open the integrated Insights Explorer and Dependency Views map for the CI that is associated with the alert.
 
 **Related topics**  
 
@@ -193,9 +193,3 @@ If Operational Intelligence is activated, you can right-click an alert and click
 
 [Alert grouping types and creation methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/Alert-Groups.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]
-- [[alert-priority-group|Priority group]]
-- [[dependency-views-map|Dependency Views map]]

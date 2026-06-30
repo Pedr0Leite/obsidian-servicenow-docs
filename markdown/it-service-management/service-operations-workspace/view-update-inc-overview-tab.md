@@ -135,7 +135,7 @@ Major Incident state
 
 </td><td>
 
-State of the Major incident. **Note:** This field is available only if the Major [[c_IncidentManagement|Incident Management]] for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-mim-sow.md).
+State of the Major incident. **Note:** This field is available only if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-mim-sow.md).
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ URL that you can click to open on a new tab for more information on the issue. O
         |Service offering|Consists of one or more service commitments that uniquely define the level of service in terms of availability, scope, pricing, and packaging options. Service offering enables you to receive different features and their levels of performance for a given service.|
         |Business impact|Impact of the incident on the business.|
 
-        For the [[reference-for-itsm-mobile-agent|reference]] fields such as **Configuration item**, **Service offering** and **Service**, you can perform the following actions:
+        For the reference fields such as **Configuration item**, **Service offering** and **Service**, you can perform the following actions:
 
         -   Select the **Preview record** icon \(\[Omitted image "inc-preview-record.png"\] Alt text: Preview icon\) to display a preview of that record information on the same page. If necessary, you can also select **Open record** to open the record on a separate tab.
         -   Select the **Dependency view** icon \(\[Omitted image "dependency-icon-r.png"\] Alt text: Dependency icon\) to view the unified dependency CMDB map in a new tab within the workspace view.
@@ -187,7 +187,7 @@ URL that you can click to open on a new tab for more information on the issue. O
 
         -   Caller of the incident.
         -   Callers of the child incidents.
-        -   Service offerings associated with the Incident. This source is only used if [[SPM2-landing-page|Service Portfolio Management]] Foundation is activated and being used. For more information, see [Activate Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-plugin.md).
+        -   Service offerings associated with the Incident. This source is only used if Service Portfolio Management Foundation is activated and being used. For more information, see [Activate Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-plugin.md).
     -   Number of impacted locations – Number of unique locations calculated based on the number of users.
     -   Impact world map – Map of impacted locations marked on the world map along with the impacted users. You can view the impacted users counts and details at these locations. You can further narrow down to the continent, country, state, or city level.
     **Note:**
@@ -276,8 +276,3 @@ URL that you can click to open on a new tab for more information on the issue. O
 
 [Incident Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[SPM2-landing-page|Service Portfolio Management]]

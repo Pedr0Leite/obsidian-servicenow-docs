@@ -14,7 +14,7 @@ breadcrumb: [Reference, Leader Hub, HR Service Delivery, Employee Service Manage
 
 # Org Support Relationships table
 
-The form associated with a record in the Org Support Relationships table enables you to create a relationship between an organizational leader and an organizational supporter. After the relationship is established, supporters can use [[td-lh-landing|Leader Hub]] to view their designated leader's organization and provide support accordingly.
+The form associated with a record in the Org Support Relationships table enables you to create a relationship between an organizational leader and an organizational supporter. After the relationship is established, supporters can use Leader Hub to view their designated leader's organization and provide support accordingly.
 
 The form that appears when you create a record in the Org Support Relationships table contains the following fields:
 
@@ -25,6 +25,3 @@ The form that appears when you create a record in the Org Support Relationships 
 
 **Parent Topic:**[Leader Hub reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-reference.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]

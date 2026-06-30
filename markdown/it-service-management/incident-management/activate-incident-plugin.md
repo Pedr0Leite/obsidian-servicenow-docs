@@ -42,7 +42,7 @@ Provides the baseline for Service Management functionality.
 
 </td></tr><tr><td>
 
-[[c_IncidentManagement|Incident Management]] Notification\[com.snc.incident\_notification\]
+Incident Management Notification\[com.snc.incident\_notification\]
 
 </td><td>
 
@@ -59,7 +59,7 @@ Incident Overview Homepage
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -82,7 +82,3 @@ Several types of components are installed with activation of the Incident plugin
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 # Domain support and schedules
 
-Domain separation is supported in [[c_UseSchedules|schedules]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Activate the Domain Support \[com.glide.domain\] plugin to enable the domain separation functionality for schedules.
+Domain separation is supported in schedules. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Activate the Domain Support \[com.glide.domain\] plugin to enable the domain separation functionality for schedules.
 
 ## Support level: Basic
 
@@ -41,12 +41,12 @@ The following diagram illustrates the scope of domain separation in different sc
 
 ## Custom domain support implementations
 
-Domain separation support does not automatically occur when you migrate to a new release containing a custom implementation of domain support for tables such as Schedule Entry \[cmn\_schedule\_span\]. This action avoids changing any specific [[clone-configurations-tab|configurations]] that you may have in place.
+Domain separation support does not automatically occur when you migrate to a new release containing a custom implementation of domain support for tables such as Schedule Entry \[cmn\_schedule\_span\]. This action avoids changing any specific configurations that you may have in place.
 
 To implement the base system domain support for schedules, a sys.script utility is provided. To run this utility, navigate to **Background** &gt; **Scripts – Background**. The script is listed under the com.glide.schedules plugin as `fix_schedule_domain_support.js`.
 
 -   The utility attempts to add the **Domain** \[sys\_domain\] column to the Schedule \[cmn\_schedule\], Schedule Page \[cmn\_schedule\_page\], and Timeline page \[cmn\_timeline\_page\] tables.
--   It then attempts to add the domain\_master attribute to the Schedule Entry \[cmn\_schedule\_span\], Other Schedule \[cmn\_other\_schedule\], [[t_TimelineSubItem|Timeline Sub Item]] \[cmn\_timeline\_sub\_item\], and Timeline Page Span Style \[cmn\_timeline\_page\_style\] tables.
+-   It then attempts to add the domain\_master attribute to the Schedule Entry \[cmn\_schedule\_span\], Other Schedule \[cmn\_other\_schedule\], Timeline Sub Item \[cmn\_timeline\_sub\_item\], and Timeline Page Span Style \[cmn\_timeline\_page\_style\] tables.
 -   If the script finds existing records between a child and parent record that have differing domain, the script does not introduce the **domain\_master** attribute to the child table.
 
 For example, consider the relationship of the Schedule \[cmn\_schedule\] \(parent\) and Schedule Entry \[cmn\_schedule\_span\] \(child\) tables. If the **Domain** \[sys\_domain\] column is available on both tables in the upgrading instance, the utility must migrate to the base system implementation of domain support for schedules.
@@ -55,7 +55,7 @@ For example, consider the relationship of the Schedule \[cmn\_schedule\] \(paren
 -   If the script does not find differing records, it deactivates and limits read access to the **Domain** \[sys\_domain\] and **Domain Path** \[sys\_domain\_path\] columns on the Schedule Entry \[cmn\_schedule\_span\] table.
 -   Finally, the script adds the domain\_master=schedule attribute to the dictionary file for the Schedule Entry \[cmn\_schedule\_span\] table.
 
-**Note:** The **domain\_master** attribute ensures that the child and parent record domains remain the same as the domain for the child that is derived from the specified [[reference-email-admin|reference]] field.
+**Note:** The **domain\_master** attribute ensures that the child and parent record domains remain the same as the domain for the child that is derived from the specified reference field.
 
 **Parent Topic:**[Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
@@ -78,9 +78,3 @@ For example, consider the relationship of the Schedule \[cmn\_schedule\] \(paren
 
 [Using schedules and calendars]()
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[clone-configurations-tab|Configurations]]
-- [[t_TimelineSubItem|Timeline sub item]]
-- [[reference-email-admin|Reference]]

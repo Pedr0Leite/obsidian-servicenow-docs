@@ -14,19 +14,19 @@ breadcrumb: [Security configuration console, Security Center, Platform Security]
 
 # Customer Actions
 
-Use the Customer Actions tool to implement important security updates based on your instance and the [[sc-configuration|configuration]] of plugins.
+Use the Customer Actions tool to implement important security updates based on your instance and the configuration of plugins.
 
 \[Omitted image "critical-updates-homepage.png"\] Alt text: Customer Actions app homepage
 
-ServiceNow updates your instance with family releases and patches to keep base system platform code and functionality current and secure. However can be additional actions you can take to [[platsec-landing|secure your instance]] that are unique to your custom instance configuration. These recommended updates are found in the Customer Actions tool.
+ServiceNow updates your instance with family releases and patches to keep base system platform code and functionality current and secure. However can be additional actions you can take to secure your instance that are unique to your custom instance configuration. These recommended updates are found in the Customer Actions tool.
 
 |Feature|Customer Actions|Family releases and patches|
 |-------|----------------|---------------------------|
 |Definition|Manual, guided tasks for admins to implement important security changes.|System-driven updates applied automatically during family releases or patches.|
 |Purpose|Address security risks that can’t be resolved by ServiceNow upgrades alone. Designed to avoid disrupting custom configurations.|Keep platform code and functionality current and secure.|
-|Examples|Deprecating weak [[c_Certificates|certificates]], enforcing [[mfa-landing|multi-factor authentication]] \(MFA\), disabling insecure protocols.|Platform version upgrades, patch-level fixes, backend security enhancements.|
+|Examples|Deprecating weak certificates, enforcing multi-factor authentication \(MFA\), disabling insecure protocols.|Platform version upgrades, patch-level fixes, backend security enhancements.|
 
-Access this tool by navigating to **Customer Actions** within [[sec-center-v2|Security Center]].
+Access this tool by navigating to **Customer Actions** within Security Center.
 
 ## Elements of the Customer Actions tool
 
@@ -59,17 +59,9 @@ For details on how to review individual Customer Actions, see [View Customer Act
 For information on how to apply the changes recommended by Customer Actions, see [Implement Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/implement-steps-for-critical-updates.md).
 
 -   **[Implement Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/implement-steps-for-critical-updates.md)**  
-Learn how to [[implement-steps-for-critical-updates|implement Customer Actions]] on your instance to increase its security posture.
+Learn how to implement Customer Actions on your instance to increase its security posture.
 -   **[View Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/view-activity-of-critical-updates.md)**  
 See details of all of the activity related to your Customer Actions.
 
 **Parent Topic:**[Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[platsec-landing|Secure your instance]]
-- [[c_Certificates|Certificates]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sec-center-v2|Security Center]]
-- [[implement-steps-for-critical-updates|Implement Customer Actions]]

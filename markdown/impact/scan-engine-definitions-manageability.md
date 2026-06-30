@@ -40,7 +40,7 @@ Short Description
 
 </th><th>
 
-Business [[impact-landing-page|Impact]]
+Business Impact
 
 </th><th>
 
@@ -909,7 +909,7 @@ Scripts should not use gs.sql
 
 </td><td>
 
-Functionality may be impacted, resulting in poor [[user-experience-insights|user experience]].
+Functionality may be impacted, resulting in poor user experience.
 
 </td><td>
 
@@ -1837,7 +1837,7 @@ The sys\_update\_xml table exceeds the recommended threshold
 
 </td><td>
 
-[[instance-observer-performance|Performance]] issues may arise during upgrades.
+Performance issues may arise during upgrades.
 
 </td><td>
 
@@ -3359,7 +3359,7 @@ Article with No Meta and No Tags
 
 </td><td>
 
-Article relevancy may be under or over stated without use of meta tags to [[io-help|help]] with relevancy.
+Article relevancy may be under or over stated without use of meta tags to help with relevancy.
 
 </td><td>
 
@@ -3659,10 +3659,3 @@ Add a LOG step to each branch of a flow to make debugging easier.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]

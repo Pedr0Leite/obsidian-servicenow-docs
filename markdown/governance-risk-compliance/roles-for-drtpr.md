@@ -76,7 +76,7 @@ TPR assessor \(Third-party risk assessor\) \[sn\_vdr\_risk\_asmt.vendor\_assesso
 
 </td><td>
 
-Role that includes all permissions of the Third-party assessment reviewer role including managing third parties, third-party contacts, external [[risk-assessments|risk assessments]], and issues.
+Role that includes all permissions of the Third-party assessment reviewer role including managing third parties, third-party contacts, external risk assessments, and issues.
 
 </td><td>
 
@@ -151,7 +151,7 @@ TPR Manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\]
 
 </td><td>
 
-Role to manage third parties, third-party contacts, third-party [[airc-assessment-templates|assessment templates]], questionnaire templates, documentation request templates, and scheduled assessments.
+Role to manage third parties, third-party contacts, third-party assessment templates, questionnaire templates, documentation request templates, and scheduled assessments.
 
 </td><td>
 
@@ -161,10 +161,5 @@ Role to manage third parties, third-party contacts, third-party [[airc-assessmen
 -   sn\_vdr\_risk\_asmt.vendor\_assessor
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[digi-resi-ref|Digital resilience third-party registers reference]]
+</table>**Parent Topic:**[Digital resilience third-party registers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-ref.md)
 
-## Related
-
-- [[digi-resi-ref|Digital resilience third-party registers reference]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Result improvement rules, Search profiles, Configuring AI Search, A
 
 # Share result improvement rules between search profiles
 
-Make your search experiences more consistent by configuring a search profile to mirror [[result-improvement-rules-ais|result improvement rules]] from other search profiles.
+Make your search experiences more consistent by configuring a search profile to mirror result improvement rules from other search profiles.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ This procedure is called mirroring, since your affected search profile reflects 
 
 **Note:** You can link multiple mirror source search profiles to a single mirror target search profile. Similarly, you can link a single mirror source search profile to multiple mirror target search profiles.
 
-When you modify result improvement rules in a mirror source search profile and then publish that search profile, [[ia-ai-search|AI Search]] checks all mirror target search profiles that link to that mirror source.
+When you modify result improvement rules in a mirror source search profile and then publish that search profile, AI Search checks all mirror target search profiles that link to that mirror source.
 
 -   If the mirror target search profile is published, AI Search republishes it so that it reflects your result improvement rule changes.
 -   If the mirror target search profile isn't published, an informational message reminds you to publish it so that it can reflect your result improvement rule changes.
@@ -72,7 +72,3 @@ This check keeps result improvement rule changes in sync across your search prof
 
 **Parent Topic:**[Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md)
 
-## Related
-
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[ia-ai-search|AI Search]]

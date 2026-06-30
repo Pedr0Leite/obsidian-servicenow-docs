@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Hold Notification, Legal Service Delivery Practice
 
 # Configure a restricted caller access privilege
 
-Configure a restricted caller access privilege for the [[document-templates-overview|document templates]] application with a global scope to allow the legal matter application to perform read operations.
+Configure a restricted caller access privilege for the document templates application with a global scope to allow the legal matter application to perform read operations.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

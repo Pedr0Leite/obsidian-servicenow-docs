@@ -32,7 +32,7 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 3.  From the Actions related list, select **New**.
 
-4.  On the [[action-form|Action form]], fill in the fields.
+4.  On the Action form, fill in the fields.
 
     For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-forms.md).
 
@@ -51,6 +51,3 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-entries-for-project.md)
 
-## Related
-
-- [[action-form|Action form]]

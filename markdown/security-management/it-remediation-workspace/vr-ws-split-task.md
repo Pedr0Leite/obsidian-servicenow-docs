@@ -27,15 +27,15 @@ Role required:
 
 ## About this task
 
-You can select individual records in the [[vr-va-ws-overview-tab|Overview tab]] of a remediation task and move them to a new remediation task.
+You can select individual records in the Overview tab of a remediation task and move them to a new remediation task.
 
 Use cases for splitting records \(VITs, AVITs, CVITs or CTRs\) from existing remediation tasks into new tasks might include the following examples:
 
 -   You want to create a change request or change requests for a split task.
 -   You want to reassign a split task to another user in your assignment group.
--   You request a deferral or exception for a split task, because you know that some [[vulnerabilities|vulnerabilities]] on specific configuration items \(CIs\) cannot be remediated by the target date.
+-   You request a deferral or exception for a split task, because you know that some vulnerabilities on specific configuration items \(CIs\) cannot be remediated by the target date.
 
-For more information about change requests and splitting a remediation task in the classic environment and for versions of [[vuln-landing-page|Vulnerability Response]] prior to v15.0, see [Split a remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln_change_mgmnt_split.md).
+For more information about change requests and splitting a remediation task in the classic environment and for versions of Vulnerability Response prior to v15.0, see [Split a remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln_change_mgmnt_split.md).
 
 **Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
@@ -47,7 +47,7 @@ For more information about change requests and splitting a remediation task in t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[it-remediation-workspace-landing-page|IT Remediation Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **IT Remediation Workspace**.
 
 2.  Open a remediation task \(VUL, AVUL, CVUL, or CRG\) from Home page or List page.
 
@@ -81,9 +81,4 @@ For more information about change requests and splitting a remediation task in t
 
     The new remediation task is displayed as a new tab.
 
-## Related
 
-- [[vr-va-ws-overview-tab|Overview tab]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

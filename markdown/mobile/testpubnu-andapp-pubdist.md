@@ -37,7 +37,7 @@ After the build successfully completes and your app is ready for testing:
 
 After testing completes successfully, you can set up your app for use. These configurations are optional.
 
-1.  Set up [[sg-mobile-security-push-notif|push notifications]] by adding your Google Firebase Cloud Messaging HTTPv1 Oauth token to your app type's push application record.
+1.  Set up push notifications by adding your Google Firebase Cloud Messaging HTTPv1 Oauth token to your app type's push application record.
 
     See [KB1639289](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sys_kb_id%3D68456c07471d86d030fba325126d43e5) for detailed instructions.
 
@@ -59,11 +59,11 @@ Make sure the app meets your branding requirements:
 
 ## 4. Customize your app's workflows
 
-Use Mobile App Builder to customize your app. See [[mab-concept|Mobile App Builder]] for detailed information about how you can customize your branded app.
+Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md) for detailed information about how you can customize your branded app.
 
 ## 5. Publish and distribute your app
 
-After you have tested your app, set it up, and customized its workflows, you are ready to publish your branded Android for public distribution. Deploy your AAB file to the Google Play console, or your [[enterprise-mobility-management|enterprise mobility management \(EMM\)]] provider:
+After you have tested your app, set it up, and customized its workflows, you are ready to publish your branded Android for public distribution. Deploy your AAB file to the Google Play console, or your enterprise mobility management \(EMM\) provider:
 
 -   **Upload your app to the Google Play Console:**
 
@@ -80,11 +80,5 @@ After you have tested your app, set it up, and customized its workflows, you are
 
 ## 6. Keep your app updated
 
-Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]].
+Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]

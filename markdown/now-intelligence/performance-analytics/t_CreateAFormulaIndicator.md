@@ -37,7 +37,7 @@ The fields of a formula indicator are similar to the fields of an automated indi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **[[formula-indicators|Formula Indicators]]** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Formula Indicators** and select **New**.
 
 2.  In the **Name** field, give the indicator a descriptive name, such as Average duration of open incidents.
 
@@ -117,7 +117,7 @@ Use in method
 
 </td><td>
 
-Returns a unique identifier instead of the score for this indicator. Select this box when you're specifying an indicator for a method in the formula. These methods get calculated values for the indicator from the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. For more information about using these methods, see [Get analytics methods in formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/get-indicator-analytics.md).
+Returns a unique identifier instead of the score for this indicator. Select this box when you're specifying an indicator for a method in the formula. These methods get calculated values for the indicator from the Analytics Hub. For more information about using these methods, see [Get analytics methods in formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/get-indicator-analytics.md).
 
 </td></tr></tbody>
 </table>        You could add indicators manually. However, by using the **Browse for an indicator** function, you ensure that you have the proper notation for indicators and [breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md).
@@ -132,7 +132,7 @@ Returns a unique identifier instead of the score for this indicator. Select this
 
         **Warning:** Try not to use GlideRecords or GlideAggregates in Performance Analytics scripts or formula indicators. While sometimes you must use these operations to get what you want, they are expensive, potentially running hundreds of thousands of times. Be certain that no alternative exists before you use them.
 
-7.  In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+7.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
 8.  In the **Other** tab, set miscellaneous properties.
 
@@ -172,7 +172,7 @@ Order
 
 Number indicating the order in which indicators are displayed in the Analytics Hub. Indicators with the lowest value are displayed at the top of the list. If no values are provided in the **Order** field, indicators are displayed from a to z using the **Name** field. To use the order field, you must enter order numbers for all indicators. If you put in numbers for only a few indicators, the order in which indicators are displayed reverts to a to z.
 
- Not used in [[par-workspace|Platform Analytics experience]].
+ Not used in Platform Analytics experience.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Render continuous lines
 
 </td><td>
 
-When selected, the Analytics Hub and [[kpi-details|KPI Details]] show unbroken data lines for this indicator, even when there’s no data for a specific date. This behavior may be useful when displaying datasets with varied starting dates or for data that aren’t regularly updated, such as stock information.
+When selected, the Analytics Hub and KPI Details show unbroken data lines for this indicator, even when there’s no data for a specific date. This behavior may be useful when displaying datasets with varied starting dates or for data that aren’t regularly updated, such as stock information.
 
  Continuous lines aren’t rendered when a time series is set on the indicator or the Analytics Hub or KPI Details.
 
@@ -206,7 +206,7 @@ Allow aggregation of multiple breakdown element scores
 
 </td><td>
 
-Enables [[widgets|widgets]] to show the summed score of multiple breakdown elements on this indicator. If this field is selected, you can select either aggregated or separated values on the form for a breakdown dashboard that uses this indicator. Formulas based on addition, subtraction, or multiplication are generally good candidates for allowing aggregation. Percentages are also supported, provided the percentages total to 100%. On the other hand, the results of aggregating elements on averages, or of percentages that are not related, are usually not meaningful. **Warning:** These aggregations are not checked for mathematical validity.
+Enables widgets to show the summed score of multiple breakdown elements on this indicator. If this field is selected, you can select either aggregated or separated values on the form for a breakdown dashboard that uses this indicator. Formulas based on addition, subtraction, or multiplication are generally good candidates for allowing aggregation. Percentages are also supported, provided the percentages total to 100%. On the other hand, the results of aggregating elements on averages, or of percentages that are not related, are usually not meaningful. **Warning:** These aggregations are not checked for mathematical validity.
 
 </td></tr></tbody>
 </table>9.  In the **Forecasting** tab, set the forecast method, the number of data collection periods to forecast, the amount of historical data to base the forecast on, and the upper and lower limits of forecast values.
@@ -261,12 +261,3 @@ By turning on **Show in library**, you make the indicator visible in KPI Details
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[formula-indicators|Formula indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[access-control|Access control]]
-- [[par-workspace|Platform Analytics experience]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]

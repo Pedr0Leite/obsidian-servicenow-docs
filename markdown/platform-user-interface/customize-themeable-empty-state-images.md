@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** You can customize empty state images for Workspaces, but customization is not supported in the [[c_UI16|Core UI]].
+**Important:** You can customize empty state images for Workspaces, but customization is not supported in the Core UI.
 
 ## Procedure
 
@@ -83,8 +83,8 @@ Role required: admin
         1.  On the **UX Style Assets** tab, select **New**.
         2.  Select the Lookup icon\[Omitted image "SearchIcon.png"\] Alt text:next to the **Asset** item.
         3.  In the UX Theme Assets list, select **New**.
-        4.  Select the [[t_ManagingAttachments|Manage Attachments]] icon \[Omitted image "icon-manage-attachment.png"\] Alt text: to add an image.
-        5.  When the image asset is uploaded, close the [[attachments-configurable-workspace|Attachments]] window.
+        4.  Select the Manage Attachments icon \[Omitted image "icon-manage-attachment.png"\] Alt text: to add an image.
+        5.  When the image asset is uploaded, close the Attachments window.
 
             **Note:** Verify that your image is in SVG format.
 
@@ -95,7 +95,7 @@ Role required: admin
 
         **Note:** Verify that your image is in SVG format.
 
-        1.  For detailed instructions, see [[upload-multiple-images|Upload one or more images]].
+        1.  For detailed instructions, see [Upload one or more images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-multiple-images.md).
         2.  From the Imagery style record, enter the image file name into the **Style** field using the following format: `"/FILENAME.svg"`.
 6.  Select **Update**.
 
@@ -108,12 +108,5 @@ Role required: admin
     **Note:** Using the default theme hooks is recommended.
 
 
-**Parent Topic:**[[themeable-empty-state-images|Working with theme-able empty state images]]
+**Parent Topic:**[Working with theme-able empty state images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/themeable-empty-state-images.md)
 
-## Related
-
-- [[upload-multiple-images|Upload one or more images]]
-- [[themeable-empty-state-images|Working with theme-able empty state images]]
-- [[c_UI16|Core UI]]
-- [[t_ManagingAttachments|Manage attachments]]
-- [[attachments-configurable-workspace|Attachments]]

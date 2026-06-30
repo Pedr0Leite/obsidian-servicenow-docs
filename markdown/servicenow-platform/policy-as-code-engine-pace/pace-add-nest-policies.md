@@ -36,7 +36,7 @@ Role required: sn\_pace.code\_editor
 
 5.  In the Add policy window, search and select the policy you want to add as a data source, then select **Next**.
 
-6.  On the Details tab, enter the **[[label|Label]]** field and **Variable name** field and other configuration inputs as needed for the policy.
+6.  On the Details tab, enter the **Label** field and **Variable name** field and other configuration inputs as needed for the policy.
 
 7.  In the Configure Inputs tab, under the Document section, select the value of the document type that depends on the integration for the policy.\[Omitted image "pace-config-inputs-tab.jpg"\] Alt text: Input document config tab.
 
@@ -53,6 +53,3 @@ Role required: sn\_pace.code\_editor
 
 The policies now appear on the Policies tab and can be added in the condition section or the Then section of the Policy builder. For more information on how to add the policies in the builder, see [Policy logic condition fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-policy-logic-fields.md).
 
-## Related
-
-- [[label|Label]]

@@ -14,11 +14,11 @@ breadcrumb: [Resource Profiles, Cloud Admin Portal, Cloud Provisioning and Gover
 
 # Create an OS profile
 
-An OS profile installs a specified image on a newly-provisioned virtual machine. You map an OS profile to a cloud account, a location \(datacenter\), an image template, and a cloud script. OS profiles are provider-agnostic and you can use the same profile for multiple [[cloud-accounts|cloud accounts]].
+An OS profile installs a specified image on a newly-provisioned virtual machine. You map an OS profile to a cloud account, a location \(datacenter\), an image template, and a cloud script. OS profiles are provider-agnostic and you can use the same profile for multiple cloud accounts.
 
 ## Before you begin
 
--   You must have a cloud account with datacenters. You must run [[r-discovery|Discovery]] on the service accounts to populate the datacenters.
+-   You must have a cloud account with datacenters. You must run Discovery on the service accounts to populate the datacenters.
 -   Role required: sn\_cmp.cloud\_admin
 
 ## About this task
@@ -27,7 +27,7 @@ An OS profile installs a specified image on a newly-provisioned virtual machine.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Profiles**.
 
 2.  In the **Profiles** list, select **OS Profile** and then click **New**.
 
@@ -77,7 +77,7 @@ Select an image template that the profile should be mapped to. Click the referen
 
  **Important:** Do not create a new image template. Image templates must be discovered from the Cloud Accounts page on the Cloud Admin Portal \(**Manage** &gt; **Cloud Accounts**\).
 
- When you [[add-credential-to-template-type|add credentials to an image template]], the credentials are inherited by all VMs that are provisioned using the template. See [Add credentials to an image template]().
+ When you add credentials to an image template, the credentials are inherited by all VMs that are provisioned using the template. See [Add credentials to an image template]().
 
 </td></tr></tbody>
 </table>5.  Map the profile to a cloud script. In this procedure, you specify an existing script. See [Create cloud initialization script templates and a script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-init-template-and-script.md).
@@ -122,7 +122,7 @@ Application
 
 </td><td>
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] is auto-selected.
+Cloud Provisioning and Governance is auto-selected.
 
 </td></tr><tr><td>
 
@@ -147,11 +147,4 @@ If you specify a resource alias for the blueprint, then the cloud script is exec
 
     3.  In the OS Profile Mapping Overrides list, enter an attribute name and value to use when the resource is provisioned.
 
-## Related
 
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[add-credential-to-template-type|Add credentials to an image template]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

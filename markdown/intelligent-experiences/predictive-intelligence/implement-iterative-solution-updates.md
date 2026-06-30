@@ -28,7 +28,7 @@ Plan your changes carefully, and remember that update sets match records based o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions** or **Predictive Intelligence** &gt; **Similarity** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions** or **Predictive Intelligence** &gt; **Similarity** &gt; **Solution Definitions**.
 
 2.  Click the name of your trained ML Solution Definition record to open it.
 
@@ -49,6 +49,3 @@ Depending on where you are in your solution testing, schedule your update set fo
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

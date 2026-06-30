@@ -15,7 +15,7 @@ breadcrumb: [Microsoft Teams external content connector, Configure, External Con
 
 # Configure Microsoft Teams for external content indexing
 
-Register an OAuth 2.0 application in the Microsoft Entra [[admin-center-intro|admin center]] to allow the [[microsoft-teams-external-content-connector|Microsoft Teams external content connector]] to access your Microsoft Teams source system.
+Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft Teams external content connector to access your Microsoft Teams source system.
 
 ## Before you begin
 
@@ -158,7 +158,3 @@ For details on creating and configuring a Microsoft Teams external content conne
 
 **Parent Topic:**[Microsoft Teams external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-teams-external-content-connector.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[microsoft-teams-external-content-connector|Microsoft Teams external content connector]]

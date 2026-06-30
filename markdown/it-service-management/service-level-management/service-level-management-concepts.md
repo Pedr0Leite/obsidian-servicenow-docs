@@ -14,7 +14,7 @@ breadcrumb: [Exploring Service Level Management, Service Level Management, IT Se
 
 # Service Level Management concepts
 
-The ServiceNow® [[service-level-mgmt-landing-page|Service Level Management]] \(SLM\) application facilitates you to oversee and control the services within the organization.
+The ServiceNow® Service Level Management \(SLM\) application facilitates you to oversee and control the services within the organization.
 
 Service Level Managers are responsible for a set of agreements between a service provider and customer that define the scope, quality, and speed of the services being provided. The intention of SLM is to provide the customer with an expectation of service within a known timescale and the ability to monitor when service levels are not being met.
 
@@ -46,7 +46,7 @@ Use the SLA Definition record to define a specific set of criteria that would re
 
 When an SLA definition is triggered against a particular task, the task SLA record is generated and contains all the tracking data for the specific SLA on that record. For example, if an SLA definition exists for P1 incidents a task SLA record attaches to the P1 incident record and captures all the data associated with it. Often there are multiple task SLA records against a single task because many definitions apply.
 
-**Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+**Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
 On the Task SLA form, you can also select the target for the SLA: **Response**, **Resolution**, or **None**.
 
@@ -55,23 +55,16 @@ On the Task SLA form, you can also select the target for the SLA: **Response**, 
 The following plugins introduce extra functionality within SLM:
 
 -   SLA Contract Add-on
--   [[SPM2-landing-page|Service Portfolio Management]] - SLA Commitments
+-   Service Portfolio Management - SLA Commitments
 
 ## SLM Template support in App Engine Studio
 
-Application Templates support Service Level Management tables to be included when creating templates from [[dex-workspace-application-tab|applications]] in the App Engine Studio. The SLM tables that can be included in templates are:
+Application Templates support Service Level Management tables to be included when creating templates from applications in the App Engine Studio. The SLM tables that can be included in templates are:
 
 -   SLA Definition \[contract\_sla\]
 -   Service Offering SLA \[service\_offering\_sla\]
--   [[sla-timer|SLA Timer]] Configuration\[sla\_timer\_config\]
+-   SLA Timer Configuration\[sla\_timer\_config\]
 -   SLA timer configuration mapping\[sla\_timer\_config\_mapping\]
 
 **Parent Topic:**[Exploring Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/exploring-slm.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[sla-timer|SLA timer]]

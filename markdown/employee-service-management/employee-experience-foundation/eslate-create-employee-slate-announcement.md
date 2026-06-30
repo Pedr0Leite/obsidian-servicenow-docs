@@ -15,7 +15,7 @@ breadcrumb: [Employee communications, Working with Employee Slate capabilities, 
 
 # Create an announcement
 
-Create announcements to highlight important content on the [[emp-slate-home-page|Employee Slate home]] page, such as new policies, required actions, or featured knowledge articles as a carousel.
+Create announcements to highlight important content on the Employee Slate home page, such as new policies, required actions, or featured knowledge articles as a carousel.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ You can also create an announcement from an existing knowledge article or catalo
 
 [Conversational authoring for announcements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-conversational-authoring-announcements.md)
 
-## Related
-
-- [[emp-slate-home-page|Employee Slate home]]

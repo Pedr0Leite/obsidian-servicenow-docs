@@ -14,7 +14,7 @@ breadcrumb: [Configuring Conversational IVR with Amazon Connect, Conversational 
 
 # Configure Conversational IVR with Amazon Connect
 
-Configure Amazon Connect service provider to integrate with [[virtual-agent-landing-page|Virtual Agent]] and use interactive voice response.
+Configure Amazon Connect service provider to integrate with Virtual Agent and use interactive voice response.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **Virtual Agent**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Virtual Agent**.
 
 2.  On the Virtual Agent Settings page, navigate to the **Configure your interactive voice response \(IVR\)** tile.
 
@@ -32,7 +32,7 @@ Role required: admin
 
 4.  In the Select IVR service provider page, select **VA Amazon Connect Adapter Provider** as the IVR service provider from the drop-down.
 
-    **Note:** VA Amazon Connect Adapter Provider is available by default, with the [[va-ivr-voice|Conversational IVR with Amazon Connect]] application installation. To use the Amazon Connect adapter, get the Conversational IVR with Amazon Connect app from the ServiceNow Store.
+    **Note:** VA Amazon Connect Adapter Provider is available by default, with the Conversational IVR with Amazon Connect application installation. To use the Amazon Connect adapter, get the Conversational IVR with Amazon Connect app from the ServiceNow Store.
 
     Conversational IVR with Amazon Connect supports multiple service provider applications and you can create new ones if you want.
 
@@ -129,8 +129,3 @@ View and update the provider properties available for Amazon Connect
 
 **Parent Topic:**[Configuring Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-ivr-amazon-connect.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[va-ivr-voice|Conversational IVR with Amazon Connect]]

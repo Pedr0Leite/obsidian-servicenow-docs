@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Docs for planning items in Strategic Planning
 
-Store and manage all kinds of documentation for planning items from a centralized location of [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Store and manage all kinds of documentation for planning items from a centralized location of Strategic Planning Workspace.
 
 ## Docs overview
 
@@ -74,7 +74,7 @@ With the feature of real-time collaboration, edit a doc page concurrently with m
 
 Keep record information in your documentation always current and reduce manual effort with the Dynamic data linking feature in Docs. You can now reference any ServiceNow application record and Docs will automatically reflect the latest updates from those records.
 
-For example, if you add a reference to a Project record, the reference shows the latest field information of the project in Docs without requiring manual edits. Selecting the project reference opens up the [[create-a-project-form|project form]] so that you can view the full details of the project and make any necessary changes.
+For example, if you add a reference to a Project record, the reference shows the latest field information of the project in Docs without requiring manual edits. Selecting the project reference opens up the project form so that you can view the full details of the project and make any necessary changes.
 
 A hover popover displays the details of the mentioned record, providing quick access to additional information without leaving the current context.
 
@@ -88,7 +88,3 @@ You can add references from any ServiceNow table you have access to, with no set
 
 This feature reduces the need to switch between multiple ServiceNow applications within your instance and helps maintain a single, reliable source of truth for collaborative work, making it easier for teams to stay aligned and informed.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-a-project-form|Project form]]

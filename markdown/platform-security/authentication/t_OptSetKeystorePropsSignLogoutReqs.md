@@ -14,7 +14,7 @@ breadcrumb: [Service Provider \(SP\) system properties, SAML, Multi-Provider sin
 
 # \(Optional\) Set keystore properties for signing logout requests for SAML
 
-Set the keystore properties to enable the integration to sign logout requests by using your signed server and signed CA [[c_Certificates|certificates]].
+Set the keystore properties to enable the integration to sign logout requests by using your signed server and signed CA certificates.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  In the property The alias of key entry stored in [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 SP Keystore used to sign SAML 2 requests, enter the alias name that you created for the SAML 2.0 Keystore.
+1.  In the property The alias of key entry stored in SAML 2.0 SP Keystore used to sign SAML 2 requests, enter the alias name that you created for the SAML 2.0 Keystore.
 
     By default, the integration looks for the alias saml2sp.
 
@@ -36,7 +36,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     For more information, see [SP metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_GenerateServiceNowSPMetadata.md).
 
-## Related
 
-- [[c_Certificates|Certificates]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

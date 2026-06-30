@@ -12,7 +12,7 @@ breadcrumb: [Add a reference field, Reference field type, Reference, Field admin
 
 # Define the reference key
 
-By default, [[reference-email-admin|reference]] fields store the sys\_id of the record in the database.
+By default, reference fields store the sys\_id of the record in the database.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ By defining a reference key, you can identify a field other than sys\_id to use 
 
 4.  Select **Update**.
 
-## Related
 
-- [[reference-email-admin|Reference]]

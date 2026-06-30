@@ -14,7 +14,7 @@ breadcrumb: [Field Service Manager Mobile, Completing work on mobile, Use, Field
 
 # Show that an agent is busy with a non-work order event on Field Service Manager Mobile
 
-Managers can show that agents are busy with personal events like a meeting, training or time off from the [[manager-mobile-app|Field Service Manager Mobile]].
+Managers can show that agents are busy with personal events like a meeting, training or time off from the Field Service Manager Mobile.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 1.  From the Home tab, tap Teams.
 
-2.  Tap the territory or assignment group that the agent you want to [[creating-an-event|create a personal event]] for is a member of.
+2.  Tap the territory or assignment group that the agent you want to create a personal event for is a member of.
 
 3.  Tap the more actions icon \(\[Omitted image "more-action-manager.png"\] Alt text: more actions\) next to the agent that you want to create an event for.
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-A description of the event.Description is only available if you have [[using-wfo-fsm|Workforce Optimization]] configured.
+A description of the event.Description is only available if you have Workforce Optimization configured.
 
 </td></tr><tr><td>
 
@@ -149,8 +149,4 @@ Locations on events are only available if you have Workforce Optimization config
 </td></tr></tbody>
 </table>7.  Tap **Submit**.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]
-- [[creating-an-event|Create a personal event]]
-- [[using-wfo-fsm|Workforce Optimization]]

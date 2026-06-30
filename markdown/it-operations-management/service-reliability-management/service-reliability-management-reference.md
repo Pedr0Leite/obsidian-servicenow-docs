@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # Service Reliability Management reference
 
-Reference topics provide additional information about administering [[sr-landing-page|Service Reliability Management]].
+Reference topics provide additional information about administering Service Reliability Management.
 
 -   **[SRM roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-roles.md)**  
 Roles grant users access to different parts of the SRM console. Roles determine the actions that users can or can't perform in Service Reliability Management.
@@ -41,11 +41,7 @@ Incidents can be in a few different states depending on how they are acted on.
 -   **[CMDB service classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-cmdb-service-classes.md)**  
 Service Reliability Management \(SRM\) typically supports several Configuration Management Database \(CMDB\) service classes.
 -   **[Troubleshoot SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/srm-troubleshoot.md)**  
-Find answers to issues that you may encounter when [[using-service-reliability-management|using Service Reliability Management]] \(SRM\).
+Find answers to issues that you may encounter when using Service Reliability Management \(SRM\).
 
 **Parent Topic:**[Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-landing-page.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[using-service-reliability-management|Using Service Reliability Management]]

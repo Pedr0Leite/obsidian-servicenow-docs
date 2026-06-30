@@ -41,7 +41,7 @@ An accurate service model that includes the following relationships can serve as
 -   Business capability **Provided By::Provides** Business application
 -   Business capability **Provided By::Provides** Business service \(Service Consumption domain\)
 -   Business application **Uses::Used By** Information object
--   Business application \([[reference|reference]] attribute\) Business application
+-   Business application \(reference attribute\) Business application
 -   Business application **Contains::Contained By** Agile development component \(optional\) \(Build &amp; Integration domain\)
 -   Business application **Consumes::Consumed By** Service instance \(Service Delivery domain\)
 
@@ -80,7 +80,7 @@ To update capabilities, select the **Update Capability Level and HierarchyID** r
 
 ## Adding a Business application
 
-A business application is a manually managed CI class that has a Consumes :: Consumed By relationship with a service instance. You must therefore manually create required relationships to CIs \(for example, with instances of the service instances in use\). Creating relationships also enables you to relate business applications to infrastructure CIs such as databases and web servers. If needed, you can integrate or [[c_Connect|connect]] two or more business applications to establish their relationship.
+A business application is a manually managed CI class that has a Consumes :: Consumed By relationship with a service instance. You must therefore manually create required relationships to CIs \(for example, with instances of the service instances in use\). Creating relationships also enables you to relate business applications to infrastructure CIs such as databases and web servers. If needed, you can integrate or connect two or more business applications to establish their relationship.
 
 A business application can span the following entities:
 
@@ -90,7 +90,7 @@ A business application can span the following entities:
 
 Use either of the following methods to add a business application:
 
--   Import the list of applications from a spreadsheet or third-party tool. To import data, [[define-evam-datasource|define a data source]] and a transform map and then run or schedule an import.
+-   Import the list of applications from a spreadsheet or third-party tool. To import data, define a data source and a transform map and then run or schedule an import.
 
 -   Use the Business Application form.
 
@@ -117,8 +117,3 @@ Use either of the following methods to add a business application:
 
 [CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[c_Connect|Connect]]
-- [[define-evam-datasource|Define a data source]]

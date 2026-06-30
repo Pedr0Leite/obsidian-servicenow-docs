@@ -22,7 +22,7 @@ Role required: sp\_admin and sn\_hr\_integr\_fw.admin
 
 ## About this task
 
-When you sync requests, you can view, track, and manage the pending requests from SAP Concur right from [[employee-center-pro-landing|Employee Center Pro]].
+When you sync requests, you can view, track, and manage the pending requests from SAP Concur right from Employee Center Pro.
 
 ## Procedure
 
@@ -61,7 +61,7 @@ The SAP Concur integration syncs the requests automatically and displays the pen
 
 ## What to do next
 
-You can navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **SAP Concur Spoke** &gt; **Concur Sync Details** to check the timestamp of the last sync.
+You can navigate to **All** &gt; **Employee Center** &gt; **SAP Concur Spoke** &gt; **Concur Sync Details** to check the timestamp of the last sync.
 
 -   Only the open requests are displayed on the approvers **My tasks** page.
 -   Changes to the reports and requests reflect when the approver selects the open task.
@@ -71,7 +71,3 @@ Proceed to To-dos Configuration and use the default **Approval \| SAP Concur** t
 
 **Parent Topic:**[Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-sa-integration.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]

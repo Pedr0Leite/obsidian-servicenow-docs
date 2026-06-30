@@ -26,7 +26,7 @@ There are several key features to a case.
 -   Any additional tasks that result from a case, such as a work order. Tasks are tracked from a related list on the Case form. These tasks may be internal to the organization or they may involve the customer.
 -   Information from the case that can be included in the knowledge base and used to help resolve other cases.
 
-There are two different Case form views: a detailed view that is available to agents and agent managers in the [[c_CustomerServiceManagement|Customer Service Management]] application and a simplified view that is available to external customers from the Customer and Consumer Service Portals.
+There are two different Case form views: a detailed view that is available to agents and agent managers in the Customer Service Management application and a simplified view that is available to external customers from the Customer and Consumer Service Portals.
 
 ## Agent view
 
@@ -179,7 +179,7 @@ Follow the sun
 
 Option to indicate that a case should be handed-off for global follow-up. If a customer enters additional comments on a **Priority 1 - Critical** or a**Priority 2 - High** case, or if the case is escalated, the flag is automatically selected.
 
- The [[csm-config-ws-activity-stream|activity stream]] on the case form is updated with any changes.
+ The activity stream on the case form is updated with any changes.
 
  **Note:** Enable the **Follow the sun** check box on the Customer Service case form by setting the value of the property **sn\_customerservice.FTS\_flag\_enabled** to **true**. Configure the form layout to add this field to the Case form.
 
@@ -216,7 +216,7 @@ State
 
 </td><td>
 
-Customer service [[r_CustomerServiceCaseStates|case states]]:-   New
+Customer service case states:-   New
 -   Open
 -   Awaiting Info
 -   Resolved
@@ -267,8 +267,8 @@ Entitlement associated with this case. The entitlements available for selection 
 
 Starting with the Zurich release, agents can add multiple entitlements to a case. If the **sn\_customerservice.advanced\_entitlements** system property is set to true, the Case Entitlements related list is visible on the Case form and the **Entitlement** field is hidden. For more information, see the following topics:
 
--   [[add-entitlement-to-case|Add an entitlement to a case]]
--   [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
+-   [Add an entitlement to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-entitlement-to-case.md)
+-   [Properties installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md)
 
 </td></tr><tr><td>
 
@@ -303,7 +303,7 @@ Internal users who receive a notification about this case when work notes are ad
  To enable notifications for users in the **Work notes list** field:
 
 1.  Navigate to the Notifications \(sys\_notification\) table.
-2.  Select [[case-action-status-csm-workspace|Case Action Status]].
+2.  Select Case Action Status.
 3.  In the **Who will receive** tab, do one of the following:
     -   Add a user in the **Users** field.
     -   In the **Recipients listed in fields** field, add the **Work notes list** field.
@@ -311,11 +311,11 @@ Internal users who receive a notification about this case when work notes are ad
 
 </td></tr><tr><td>
 
-[[customer-service-contributor-users|Contributor Users]]
+Contributor Users
 
 </td><td>
 
-When a user with the case task agent role \(sn\_customerservice.case\_task\_agent\) is assigned to a case task, the user is added to the **Contributor Users** field.If this user is removed from the **Assigned to** field on the [[csm-case-task-form|Case Task form]], and they are not assigned to any other tasks for the case, thenn they are also removed from the **Contributor Users** field.
+When a user with the case task agent role \(sn\_customerservice.case\_task\_agent\) is assigned to a case task, the user is added to the **Contributor Users** field.If this user is removed from the **Assigned to** field on the Case Task form, and they are not assigned to any other tasks for the case, thenn they are also removed from the **Contributor Users** field.
 
 </td></tr><tr><td>
 
@@ -434,13 +434,3 @@ The customer view of the Case form includes the following components:
 -   The related entity information, including account and contact information, product and asset information, and service contract information.
 -   An **Activity** field that stores all communication for the case in a chronological list.
 
-## Related
-
-- [[add-entitlement-to-case|Add an entitlement to a case]]
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[r_CustomerServiceCaseStates|Case states]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[csm-case-task-form|Case task form]]

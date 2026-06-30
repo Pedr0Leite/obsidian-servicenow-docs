@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The View log displays data from the Knowledge Use \[kb\_use\] table. By default, all the records in the Knowledge Use \[kb\_use\] table are retained. Activating the data retention policy for the kb\_use table deletes records that you no longer need. The deleted data is not visible on the reports used in dashboards such as [[self-service-analytics|Self-Service Analytics]] for customer service and [[knowledge-management|Knowledge Management]] dashboards.
+The View log displays data from the Knowledge Use \[kb\_use\] table. By default, all the records in the Knowledge Use \[kb\_use\] table are retained. Activating the data retention policy for the kb\_use table deletes records that you no longer need. The deleted data is not visible on the reports used in dashboards such as Self-Service Analytics for customer service and Knowledge Management dashboards.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ The View log displays data from the Knowledge Use \[kb\_use\] table. By default,
 
 2.  In the **Tablename** column, search for `kb_use` and click the **kb\_use** link.
 
-3.  On the Auto Flush form, activate the kb\_user table cleanup job by selecting the **Active** [[check-box|check box]].
+3.  On the Auto Flush form, activate the kb\_user table cleanup job by selecting the **Active** check box.
 
 4.  Adjust the amount of time the system waits before deleting the records by modifying the value in the **Age in seconds** field.
 
@@ -45,8 +45,3 @@ The View log displays data from the Knowledge Use \[kb\_use\] table. By default,
 
 **Parent Topic:**[View knowledge logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-knowledge-logs.md)
 
-## Related
-
-- [[self-service-analytics|Self-Service Analytics]]
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

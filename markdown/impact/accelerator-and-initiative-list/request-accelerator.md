@@ -14,7 +14,7 @@ breadcrumb: [Accelerator request, Initiatives and Accelerators, Using Impact, Im
 
 # Request an Accelerator from IDI
 
-Depending on the [[impact-landing-page|Impact]] package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators, from the IDI.
+Depending on the Impact package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators, from the IDI.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: Impact platform owner
 
 ## Procedure
 
-1.  Navigate to **Impact** &gt; **Impact [[impact-features|Benefits &amp; Usage]]** &gt; **Impact benefits** &gt; **Capabilities** &gt; **** &gt; **Experts on demand** &gt; **** &gt; **Accelerators**.
+1.  Navigate to **Impact** &gt; **Impact Benefits &amp; Usage** &gt; **Impact benefits** &gt; **Capabilities** &gt; **** &gt; **Experts on demand** &gt; **** &gt; **Accelerators**.
 
     \[Omitted image "accelerators.png"\] Alt text: Accelerators selection screen.
 
 2.  Select **Accelerators** from the **Experts on demand** section in the left-hand **Capabilities** menu.
 
-    Each Accelerator tile contains a brief description and the [[io-availability|availability]] of Accelerators with individual consumption bars. Drill in for additional details on availability.
+    Each Accelerator tile contains a brief description and the availability of Accelerators with individual consumption bars. Drill in for additional details on availability.
 
 3.  Select an Accelerator.
 
@@ -46,8 +46,4 @@ Role required: Impact platform owner
 
     **Note:** An Impact Permissions Authorizer will grant or deny the request to start the initiative. See [Manage Initiative and Accelerator permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/grant-ide-permissions.md) for additional information.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-features|Benefits &amp; Usage]]
-- [[io-availability|Availability]]

@@ -14,9 +14,9 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 # Tag-based discovery for the Service Mapping Workspace
 
-If your organization uses tags for asset management, you can use the [[sm-dashboard|Service Mapping workspace]] to manage these tags and create tag-based application services.
+If your organization uses tags for asset management, you can use the Service Mapping workspace to manage these tags and create tag-based application services.
 
-A tag is a label that consists of a key-value pair, used to categorize and organize assets within your organization. Tags enhance query and reporting capabilities, making it easier to manage and track resources. Unlike other mapping methods, tag-based mapping does not require configuring credentials or providing users with elevated rights. You can effectively use tags to map multiple service instances. [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] can automatically detect tags from all major cloud providers and container ecosystems. Once these tags are discovered, [[c_ServiceMappingOverview|Service Mapping]] can leverage them to create and manage application services. This approach is useful for resource management in virtualized, hyper-converged, and multi-cloud environments.
+A tag is a label that consists of a key-value pair, used to categorize and organize assets within your organization. Tags enhance query and reporting capabilities, making it easier to manage and track resources. Unlike other mapping methods, tag-based mapping does not require configuring credentials or providing users with elevated rights. You can effectively use tags to map multiple service instances. Discovery and Cloud Provisioning and Governance can automatically detect tags from all major cloud providers and container ecosystems. Once these tags are discovered, Service Mapping can leverage them to create and manage application services. This approach is useful for resource management in virtualized, hyper-converged, and multi-cloud environments.
 
 For information about the traditional tag-based discovery process, see [Tag-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping.md). Tag-based discovery for the Service Mapping workspace operates differently and consists of the following stages:
 
@@ -27,7 +27,7 @@ Access to tag-based service mapping in the Service Mapping workspace requires th
 1.  Discovery and Cloud Provisioning and Governance discover tags for cloud and resource configuration items \(CIs\) and then populate data for discovered tags into the Key Value \[cmdb\_key\_value\] table.
 2.  The administrator creates CI tag categories and defines tag keys that the categories contain. Tag categories contain tags with similar use. For example, if your organization has production and staging environments, you could create "production" and "staging" tag values.
 
-    **Note:** Starting with version 1.7.0, [[landing-page-tag-governance|Tag Governance]] offers five predefined categories that you can use without modification. Administrators can also modify these categories or add new ones.
+    **Note:** Starting with version 1.7.0, Tag Governance offers five predefined categories that you can use without modification. Administrators can also modify these categories or add new ones.
 
 3.  The process begins with the selection of a tag category from the available categories or a category that the administrator creates.
     -   Only CIs with discovered tag keys for the selected tag categories become part of application services.
@@ -56,10 +56,3 @@ Access to tag-based service mapping in the Service Mapping workspace requires th
 
 [Map your application services using tags in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-tag-based-services-workspace.md)
 
-## Related
-
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[landing-page-tag-governance|Tag Governance]]

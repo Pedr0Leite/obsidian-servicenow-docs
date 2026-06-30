@@ -14,13 +14,13 @@ breadcrumb: [Users, Set up workforce, Configure, Field Service Management]
 
 # Setting up Field Service user groups
 
-[[fsm-application-landing-page|Field Service Management]] groups are sets of users or agents, who perform specific tasks. Configuring your field service groups efficiently enables you to align the right skills and resources to the right tasks.
+Field Service Management groups are sets of users or agents, who perform specific tasks. Configuring your field service groups efficiently enables you to align the right skills and resources to the right tasks.
 
 There are several types of user groups that serve different capabilities. The most common types include user groups for agents and dispatchers. These user groups are essential for organizing and managing the tasks and responsibilities of field service agents.
 
 Additionally, you can create optional group types based on your specific needs, including user groups for initiators, managers, territory planners, and more. For example, you can create user groups for qualifiers to implement an additional qualification step to review and approve work orders. By setting up these groups, you can assign the appropriate roles and users to each group. The roles assigned to the group are automatically inherited by the users within that group, so you don’t need to individually assign roles to each user.
 
-For more information about Field Service Roles, see [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]].
+For more information about Field Service Roles, see [Roles installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md).
 
 For information about assigning a role to a user group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
@@ -493,7 +493,3 @@ In addition to setting up Field Service specific user groups, you can set up use
 |Initiator 1|San Diego|SD Initiators|wm\_initiator|Creates work orders for SD Qualifiers|
 |Initiator 2|Los Angeles|LA Initiators|wm\_initiator|Creates work orders for LA Qualifiers|
 
-## Related
-
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Customer Contracts and Entitlements reference, Configure, price, qu
 
 # Customer contract form
 
-The [[exploring-post-sales-support|Customer Contracts and Entitlements]] application uses the Customer contract form to create customer contracts.
+The Customer Contracts and Entitlements application uses the Customer contract form to create customer contracts.
 
 <table id="table_jtd_tbk_bzb"><thead><tr><th>
 
@@ -55,7 +55,7 @@ Account
 The name of the account associated with the customer contract.**Note:**
 
 -   A customer contract can be associated with either an account or a consumer.
--   An account can be created if no account is found by selecting **New** on the Account form. For more information on the [[fields|fields]] in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
+-   An account can be created if no account is found by selecting **New** on the Account form. For more information on the fields in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
 
 </td></tr><tr><td>
 
@@ -110,10 +110,5 @@ Renewed from
 A customer contract can be renewed multiple times. Renewed from field refers to the previous customer contract that was renewed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[pss-reference|Customer Contracts and Entitlements reference]]
+</table>**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Customer Contracts and Entitlements reference]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]
-- [[fields|Fields]]

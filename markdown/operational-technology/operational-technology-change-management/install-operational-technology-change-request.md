@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Change Management, Operational Te
 
 # Install Operational Technology Change Management
 
-You can install the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application \(sn\_ot\_chg\_mgmt\) if you have the admin role.
+You can install the Operational Technology Change Management application \(sn\_ot\_chg\_mgmt\) if you have the admin role.
 
 ## Before you begin
 
@@ -27,15 +27,15 @@ You can install the [[operational-technology-change-management-landing-page|Oper
 
         -   **ISA Equipment Model \(sn\_isa\_model\)**
 
-            The data model for [[isa-95-equipment-model|ISA-95 equipment model]] entities and templates. For more information, see [ISA-95 equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/isa-95-equipment-model.md).
+            The data model for ISA-95 equipment model entities and templates. For more information, see [ISA-95 equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/isa-95-equipment-model.md).
 
 -   The Operational Technology Change Management application requires either one or both of the following ServiceNow Store applications. Ensure that at least one of these applications is installed before you install the Operational Technology Change Management application.
     -   **Required ServiceNow Store applications**
-        -   **[[operational-technology-manager|Operational Technology Manager]]**
+        -   **Operational Technology Manager**
 
-            The Operational Technology Manager application creates the foundational data and relationships that enable your organization to use the [[operational-technology-overview|Operational Technology]] solution. The Operational Technology Manager application supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform. For more information, see [Configuring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-operational-technology-manager.md).
+            The Operational Technology Manager application creates the foundational data and relationships that enable your organization to use the Operational Technology solution. The Operational Technology Manager application supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform. For more information, see [Configuring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-operational-technology-manager.md).
 
-        -   **[[industrial-process-manager-overview|Industrial Process Manager]]**
+        -   **Industrial Process Manager**
 
             The Industrial Process Manager application creates the ISA-95 Equipment Model data foundation that is required for the ServiceNow® Industrial solution, enabling you to create your own version of the equipment models in each of your industrial sites. For more information, see [Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md).
 
@@ -54,7 +54,7 @@ For more information about the roles and ACLs installed, see [Components install
 
 **Note:** For Operational Technology Service Management users with no license for Operational Technology Visibility, note the following:
 
--   When you have the latest version of [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] installed, Industrial Process Manager is also installed.
+-   When you have the latest version of Operational Technology Incident Management installed, Industrial Process Manager is also installed.
 -   When you have the latest version of Operational Technology Change Management installed, Industrial Process Manager is also installed.
 
 You should upgrade to the latest versions so you have access to the Operational Technology Service Management experience.
@@ -78,11 +78,3 @@ You should upgrade to the latest versions so you have access to the Operational 
 
 **Parent Topic:**[Configuring Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/configuring-operational-technology-change-request.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

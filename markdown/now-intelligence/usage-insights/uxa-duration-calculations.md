@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights reference, Usage Insights, Platform Analytics]
 
 # Duration calculations
 
-Durations in [[user-exp-analytics-landing|Usage Insights]] have specific calculations. Review these equations to understand the average duration per page and percentage time on site values.
+Durations in Usage Insights have specific calculations. Review these equations to understand the average duration per page and percentage time on site values.
 
 ## Average duration per page
 
@@ -30,6 +30,3 @@ For example, the Service Portal application contains three pages tracked by Usag
 
 **Parent Topic:**[Usage Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-experience-analytics-reference.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

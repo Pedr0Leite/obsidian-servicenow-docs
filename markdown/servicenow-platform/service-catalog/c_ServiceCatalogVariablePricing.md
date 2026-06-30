@@ -14,18 +14,18 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Using variables for price setup
 
-You can define a price for every [[service-catalog|service catalog]] item. The price or recurring price of a catalog item can be modified with variables, increasing the base price for that item.
+You can define a price for every service catalog item. The price or recurring price of a catalog item can be modified with variables, increasing the base price for that item.
 
 This pricing is useful if you want the price or recurring price dynamically calculated based on how a user completes the ordering form. For example, the cost of an item can be increased based on options the user selects, such as extra memory in a PC.
 
 The following [variable types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_VariableTypes.md) can be configured to modify the total cost of an item:
 
--   [[check-box|Check box]]
--   [[multiple-choice|Multiple choice]]
--   [[reference|Reference]]
--   [[list-collector|List collector]]
--   [[select-box|Select box]]
--   [[lookup-select-box|Lookup select box]]
+-   Check box
+-   Multiple choice
+-   Reference
+-   List collector
+-   Select box
+-   Lookup select box
 
 ## Check box
 
@@ -77,19 +77,9 @@ Specify the following when [creating a lookup select box variable](https://raw.g
 
 -   **Lookup from table**: the table from which values are queried.
 -   **Lookup value field**: the field on the lookup table whose value is used as the value of the variable \(typically sys\_id\).
--   **Lookup [[label|label]] field\(s\)**: a comma-separated list of fields on the lookup table whose values are used to display the selections in the select box. For example,**manufacturer,name** for the Software \[cmdb\_ci\_spkg\] table would display selections as:
+-   **Lookup label field\(s\)**: a comma-separated list of fields on the lookup table whose values are used to display the selections in the select box. For example,**manufacturer,name** for the Software \[cmdb\_ci\_spkg\] table would display selections as:
     -   Microsoft \| Excel
     -   Adobe \| Photoshop Elements
 -   **Lookup price field**: the field whose value is used to modify the price of the item being ordered.
 -   **Lookup recurring price field**: the field whose value is used to modify the recurring price of the item being ordered.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[multiple-choice|Multiple choice]]
-- [[reference|Reference]]
-- [[list-collector|List collector]]
-- [[select-box|Select box]]
-- [[lookup-select-box|Lookup select box]]
-- [[label|Label]]

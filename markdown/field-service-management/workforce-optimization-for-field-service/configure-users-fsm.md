@@ -26,11 +26,11 @@ The steps for configuring users are:
 
 2.  [Assign additional managers to user groups when Workforce Optimization for Field Service is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-additional-managers-to-user-groups.md)
 
-    Appoint additional managers for your user groups when [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is active, ensuring the continuity of work in the absence of a manager.
+    Appoint additional managers for your user groups when Workforce Optimization for Field Service is active, ensuring the continuity of work in the absence of a manager.
 
 3.  [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUser.md)
 
-    Create a user for Field Service organization for various tasks and responsibilities. A [[fsm-application-landing-page|Field Service Management]] user can be an admin, a manager, an agent, etc. Each user must be added to appropriate user groups with the required roles and permissions.
+    Create a user for Field Service organization for various tasks and responsibilities. A Field Service Management user can be an admin, a manager, an agent, etc. Each user must be added to appropriate user groups with the required roles and permissions.
 
 4.  [Configure an agent's profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configure-an-agent-s-profile.md)
 
@@ -40,12 +40,7 @@ The steps for configuring users are:
 **Related topics**  
 
 
-[[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
+[Roles installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 [Setting up Field Service user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/setting-up-field-service-user-groups.md)
 
-## Related
-
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[fsm-application-landing-page|Field Service Management]]

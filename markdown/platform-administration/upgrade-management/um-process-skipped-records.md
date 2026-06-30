@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Monitor tool in Upgrade Console, Upgrade Console tools, Use
 
 # Process the skipped records list
 
-[[uc-process-skipped-records|Process the skipped records list]] to resolve the differences between the upgraded and customized versions of a record. If you have customized or altered a record affected by this upgrade, such as a business rule or script, the upgrade generates a skip log record.
+Process the skipped records list to resolve the differences between the upgraded and customized versions of a record. If you have customized or altered a record affected by this upgrade, such as a business rule or script, the upgrade generates a skip log record.
 
 ## Before you begin
 
@@ -30,14 +30,14 @@ Review the changes you made to baseline records, such as business rules and scri
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
 
     **Note:** If the upgrade is still in progress, the system displays the [Upgrade Progress](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-monitor-progress.md) screen. When the upgrade finishes, the system displays the [Upgrade Summary Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-complete-summary.md).
 
     A list of upgrades is displayed.
 
-2.  After the system displays the [[uc-complete-summary|Upgrade Summary Report]], click the Review changes link in the Skipped box.
+2.  After the system displays the Upgrade Summary Report, click the Review changes link in the Skipped box.
 
     The system displays the [System Upgrades form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-system-upgrades-form.md).
 
@@ -97,7 +97,7 @@ After reviewing the changes, click **Revert to Base System**.-   The **Dispositi
 -   The system creates a Customer Update record.
 -   The record moves from the Skipped Changes to Review to the Skipped Changes Reviewed related list.
 
-**Note:** At any time after you [[uc-revert-customization|revert a customization]], you can click **Reapply Changes** to reapply the customization \(undo the revert\).
+**Note:** At any time after you revert a customization, you can click **Reapply Changes** to reapply the customization \(undo the revert\).
 
 </td></tr><tr><td>
 
@@ -130,9 +130,3 @@ When an upgrade is complete, the System Upgrades form displays key statistics ab
 
 **Parent Topic:**[Upgrade Monitor tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-monitor-tool.md)
 
-## Related
-
-- [[uc-process-skipped-records|Process the skipped records list]]
-- [[admin-center-intro|Admin Center]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[uc-revert-customization|Revert a customization]]

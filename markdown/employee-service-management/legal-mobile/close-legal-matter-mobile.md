@@ -14,7 +14,7 @@ breadcrumb: [Promote a legal request to a legal matter through Mobile Agent, Wor
 
 # Close a legal matter through Mobile Agent
 
-[[close-legal-matter|Close a legal matter]] assigned to you when you complete all activities for resolving it, or if you find that it doesn’t need any further action.
+Close a legal matter assigned to you when you complete all activities for resolving it, or if you find that it doesn’t need any further action.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: sn\_lg\_matter.matter\_fulfiller
     -   Those requests are not associated with any other open matters.
 -   Comments entered in the Close Matter screen are posted in all the open related requests.
 
-## Related
-
-- [[close-legal-matter|Close a legal matter]]

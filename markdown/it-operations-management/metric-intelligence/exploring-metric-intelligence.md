@@ -14,7 +14,7 @@ breadcrumb: [Metric Intelligence, IT Operations Management]
 
 # Exploring Metric Intelligence
 
-Learn more about using [[operational-metrics|Metric Intelligence]] to analyze metric data and identify anomalies.
+Learn more about using Metric Intelligence to analyze metric data and identify anomalies.
 
 ## Metric Intelligence overview
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_EM|Event Management]] user\[evt\_mgmt\_user\]
+Event Management user\[evt\_mgmt\_user\]
 
 </td><td>
 
@@ -132,7 +132,3 @@ To learn more about configuring and using Metric Intelligence, see:
 -   [Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 -   [Metric Intelligence reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/metric-intelligence-reference.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

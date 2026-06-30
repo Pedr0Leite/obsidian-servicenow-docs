@@ -24,7 +24,7 @@ The Certificate Inventory Management glossary comprises a set of concise definit
 
     Carries the unique information of the certificate, meta data.
 
--   **[[r-discovery|Discovery]] Method - CA \(Version 1.1.7 [[cert-inventory-mgmt|Certificate Inventory and Management]]\)**
+-   **Discovery Method - CA \(Version 1.1.7 Certificate Inventory and Management\)**
 
     TLS certificates belonging to this category of discovery method are discovered from a Certificate Authority such as GoDaddy or DigiCert.
 
@@ -69,7 +69,3 @@ The Certificate Inventory Management glossary comprises a set of concise definit
 
 **Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

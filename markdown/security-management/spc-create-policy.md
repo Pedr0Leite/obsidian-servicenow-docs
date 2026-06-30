@@ -16,7 +16,7 @@ Create your own custom policies to monitor assets for tool coverage and other hi
 
 ## Before you begin
 
-To help you understand the steps required to create a policy with more details, refer to [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]]. The examples walk you through the steps required to create a base policy, use the base policy to create a child policy, and clone a policy.
+To help you understand the steps required to create a policy with more details, refer to [Examples of base, child, and cloned policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policy-examples.md). The examples walk you through the steps required to create a base policy, use the base policy to create a child policy, and clone a policy.
 
 For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policy-examples.md).
 
@@ -24,7 +24,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **List** &gt; **Policies** &gt; **All**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **List** &gt; **Policies** &gt; **All**.
 
 2.  Select **New policy**.
 
@@ -85,7 +85,7 @@ A unique description for your policy. 
 
 7.  Select one from the list for the Connection field.
 
-    The target Entity field is auto populated based on your choice. A new Criteria field is displayed along with Property, Operator, and Value fields. For more information about asset types and the schema for [[stix-relationships|relationships]], see [[spc-policies-overview|Policies for Security Posture Control]].
+    The target Entity field is auto populated based on your choice. A new Criteria field is displayed along with Property, Operator, and Value fields. For more information about asset types and the schema for relationships, see [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 
 8.  Select one from the list for Property.
 
@@ -140,17 +140,11 @@ Configure assignment rules
 
 </td><td>
 
-Select the link to set up assignment rules to assign findings for remediation in the [[vr-config-compliance-landing|Configuration Compliance]] application. There is a default assignment rule in the \[sn\_vulc\_assignment\_rule\_list\] table you can use in Configuration Compliance.
+Select the link to set up assignment rules to assign findings for remediation in the Configuration Compliance application. There is a default assignment rule in the \[sn\_vulc\_assignment\_rule\_list\] table you can use in Configuration Compliance.
 
 </td></tr></tbody>
 </table>15. Select **Save configuration**.
 
     After you save and activate a policy, it evaluates the imported data from the service graph connector scheduled in the next run. If you want to display the data on the Configured insights dashboard in the workspace, you must create a New insight in the Custom insight builder module. After you activate the configured insight, its data is displayed on the Configured insights dashboard in the workspace.
 
-## Related
 
-- [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]]
-- [[spc-policies-overview|Policies for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[stix-relationships|Relationships]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

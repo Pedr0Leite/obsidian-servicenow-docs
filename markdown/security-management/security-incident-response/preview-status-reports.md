@@ -14,7 +14,7 @@ breadcrumb: [Create a Report Template, Configure Major Security Incident status 
 
 # Preview the Report Template
 
-Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the [[msim-workspace|Major Security Incident Management workspace]].
+Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the Major Security Incident Management workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -45,7 +45,3 @@ Role required: sn\_msi.workspace\_manager
 
 **Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

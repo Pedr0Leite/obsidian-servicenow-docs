@@ -20,7 +20,7 @@ Role required: Scan Engine Admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Scheduled Scan**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health** &gt; **Scheduled Scan**.
 
 2.  To run a full scan, set `force_full_scan` to **True**.
 
@@ -30,14 +30,8 @@ Role required: Scan Engine Admin
 
 4.  To review the scan as it runs or after it is completed, open the **Scan Status** module.
 
-    See [[viewing-scan-results-scan-engine|View scan results for Scan Engine]] .
+    See [View scan results for Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/viewing-scan-results-scan-engine.md) .
 
 
-**Parent Topic:**[[using-impact-scan-engine|Running on-demand scans]]
+**Parent Topic:**[Running on-demand scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/using-impact-scan-engine.md)
 
-## Related
-
-- [[viewing-scan-results-scan-engine|View scan results for Scan Engine]]
-- [[using-impact-scan-engine|Running on-demand scans]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

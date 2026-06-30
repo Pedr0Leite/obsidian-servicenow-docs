@@ -22,7 +22,7 @@ When product actions are set with a defined parent/child relationship, by defaul
 
 ## Collapsible behavior
 
-This behavior can be overridden by adding `{“hierarchyColumn”: “<productListColumnVariableName>”}` to the value column of the productList element in the [[layout_editor|layout editor]] or in the layout CSV file.
+This behavior can be overridden by adding `{“hierarchyColumn”: “<productListColumnVariableName>”}` to the value column of the productList element in the layout editor or in the layout CSV file.
 
 \[Omitted image "cpq-bom-enable-collapse.png"\] Alt text: Collapsible Behavior
 
@@ -34,6 +34,3 @@ Admins can change where the collapse arrow appears by defining a different produ
 
 \[Omitted image "cpq-bom-collapse-result-alternate.png"\] Alt text: product list column
 
-## Related
-
-- [[layout_editor|Layout editor]]

@@ -18,7 +18,7 @@ Configure this property so that basic authorization is required for all inbound 
 
 If the **glide.basicauth.required.xmloutputprocessor** system property is not set to the recommended value of **true**, then basic authorization is not required for all inbound XMLOutputProcessor requests. This could lead to unauthenticated information disclosure from the instance.
 
-Ensure that the property **glide.basicauth.required.xmloutputprocessor** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure that the property **glide.basicauth.required.xmloutputprocessor** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 7.5
 -   CVSS rating: High
--   Security risk details: Unauthenticated access to XML [[export|export]] data, when combined with misconfigured guest user role, poses a significant risk of unauthorized data exposure.
+-   Security risk details: Unauthenticated access to XML export data, when combined with misconfigured guest user role, poses a significant risk of unauthorized data exposure.
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[export|Export]]

@@ -15,7 +15,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Agent Client Collector upgrade overview
 
-The [[acc-landing-page|Agent Client Collector]] Framework manages agent upgrades directly from the instance, with no manual action required on individual agent hosts.
+The Agent Client Collector Framework manages agent upgrades directly from the instance, with no manual action required on individual agent hosts.
 
 You can upgrade Agent Client Collector agents one at a time through the UI, or upgrade all eligible agents at once using the auto-upgrade feature. After an upgrade starts, each agent downloads the new version, installs it, restarts, and reports the result back to the instance.
 
@@ -95,6 +95,3 @@ Add a proxy server entry so that agents behind a corporate proxy can download up
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

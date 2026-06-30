@@ -12,7 +12,7 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # Create a work plan in Customer Service Management \(CSM\) Configurable Workspace
 
-Create a work plan in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) Configurable Workspace so that your agents can fulfill and implement the maintenance requirements for an install base item.
+Create a work plan in the Customer Service Management \(CSM\) Configurable Workspace so that your agents can fulfill and implement the maintenance requirements for an install base item.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_customerservice\_agent and sn\_fsm\_planned\_wm.planned\_work
 
 2.  In the list view, navigate to **Customer** &gt; **Accounts**.
 
-3.  Open an account and navigate to the [[install-base-item|Install Base Items]] related list.
+3.  Open an account and navigate to the Install Base Items related list.
 
 4.  Open an install base item from the list.
 
@@ -79,7 +79,3 @@ One or more product catalog items that you can select to identify the configurat
 
 You created a work plan in Customer Service Management \(CSM\) Configurable Workspace.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

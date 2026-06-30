@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # 'Walk' stage reports on the CSDM Data Foundations dashboard
 
-Walk stage reports on the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]
+Walk stage reports on the CSDM Data Foundations dashboard
 
 ## Reports on the Walk tab
 
@@ -42,6 +42,3 @@ To view detailed information on the impact of a metric and for details on workin
 
 [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)
 
-## Related
-
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

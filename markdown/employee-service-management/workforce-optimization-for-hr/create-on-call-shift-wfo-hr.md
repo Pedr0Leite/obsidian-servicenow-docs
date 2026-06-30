@@ -20,7 +20,7 @@ Create on-call shift.
 
 Role required: sn\_hr\_wfo.admin
 
-[[create-shift-wfo-hr|Create a shift plan]]. [Create a shift plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-shift-wfo-hr.md)
+Create a shift plan. [Create a shift plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-shift-wfo-hr.md)
 
 ## Procedure
 
@@ -41,11 +41,7 @@ Role required: sn\_hr\_wfo.admin
 
 
 -   **[Create on-call rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/on-call-rotation-wfo-hr.md)**  
-After creating on-call shift, [[on-call-rotation-wfo-hr|create on-call rotation]] to be able to rotate the shift among employees.
+After creating on-call shift, create on-call rotation to be able to rotate the shift among employees.
 
 **Parent Topic:**[Create a shift plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-shift-wfo-hr.md)
 
-## Related
-
-- [[create-shift-wfo-hr|Create a shift plan]]
-- [[on-call-rotation-wfo-hr|Create on-call rotation]]

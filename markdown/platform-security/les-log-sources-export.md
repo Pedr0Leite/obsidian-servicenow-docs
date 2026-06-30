@@ -12,7 +12,7 @@ breadcrumb: [Explore, Log Export Service \(LES\), Platform Security]
 
 # Log sources
 
-[[les-intro|Log Export Service \(LES\)]] can [[export|export]] log sources from some [[r_SystemLogs|System Log]] Tables, the Audit Table, and Application Node Log Files.
+Log Export Service \(LES\) can export log sources from some System Log Tables, the Audit Table, and Application Node Log Files.
 
 The following are the log sources that can be exported by LES.
 
@@ -23,14 +23,7 @@ The following are the log sources that can be exported by LES.
 -   Audit Table: Use the sys\_audit table view record changes made to tables chosen to be audited
 -   Application Node Log Files: Use the localhost log files to view application node errors. Your instance will have multiple nodes and each node will have multiple log files.
 
-See [[system-logs|System logs]] to learn more about the schema and purpose for the above log sources.
+See [System logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/system-logs.md) to learn more about the schema and purpose for the above log sources.
 
-**Parent Topic:**[[les-landing-page|Exploring Log Export Service \(LES\)]]
+**Parent Topic:**[Exploring Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
 
-## Related
-
-- [[system-logs|System logs]]
-- [[les-landing-page|Exploring Log Export Service \(LES\)]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[r_SystemLogs|System log]]

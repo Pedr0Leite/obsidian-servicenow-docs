@@ -15,7 +15,7 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Deploying Virtual Agent topics in other channels
 
-When creating a topic or topic block, you can specify the chat channels in which the topic or topic block will run. During conversation design, [[virtual-agent-landing-page|Virtual Agent]] Designer provides built-in guardrails to help you tailor your conversations to those channels.
+When creating a topic or topic block, you can specify the chat channels in which the topic or topic block will run. During conversation design, Virtual Agent Designer provides built-in guardrails to help you tailor your conversations to those channels.
 
 In Virtual Agent, a channel is a chat interface or application in which Virtual Agent interacts with end users. Default channels are the chat applications natively supported by Virtual Agent, such as the Slack, Microsoft Teams, Workplace, and Facebook Messenger applications, and the web and mobile clients. Virtual Agent also supports custom channels created through the [conversational custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md) feature, which enables third-party applications \(other chat providers\) to work in Virtual Agent.
 
@@ -25,7 +25,7 @@ For example, admins can build a custom conversational chat integration for a spe
 
 When you create or edit a topic or topic block, you can specify the applicable channels in the **Channels** field under Advanced properties in the Topic Properties page. Applicable channels are the custom channels created for your instance through the conversational custom chat integrations. Use this field to specify chat clients in which the topic or topic block will run.
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 \[Omitted image "va-prop-channelsup-2.png"\] Alt text: The Topic Properties page displaying the Channels support field under Advanced properties, along with the Channels pop-up.
 
@@ -52,7 +52,7 @@ When you're designing your conversation, built-in guardrails identify the Virtua
 
 ## Finding the channels available in your instance
 
-To see a list of the available channels in your instance, use the filter icon \(\[Omitted image "filter-icon.png"\] Alt text:\) in the Assistant Designer Asset library \(**[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**\). The Messaging Channels \[sys\_cs\_channel\] table also shows the available channels.
+To see a list of the available channels in your instance, use the filter icon \(\[Omitted image "filter-icon.png"\] Alt text:\) in the Assistant Designer Asset library \(**Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**\). The Messaging Channels \[sys\_cs\_channel\] table also shows the available channels.
 
 \[Omitted image "va-custom-channels-2.png"\] Alt text: Use the filter icon to find topics based on channel support on the Assistant Designer Asset library.
 
@@ -60,9 +60,3 @@ The default channels in Virtual Agent are the web chat and mobile clients and al
 
 **Parent Topic:**[Exploring other Virtual Agent features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

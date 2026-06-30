@@ -14,7 +14,7 @@ breadcrumb: [Features, Managed Documents, Document Services, Manage content capa
 
 # Defining Document Parameters
 
-Before using the [[c_ManagedDocuments|Managed Documents]] application, the user with the `document_management_admin` role needs to set the parameters that define the kinds of documents to be managed through the application. Managed Documents provides both base and custom parameter options.
+Before using the Managed Documents application, the user with the `document_management_admin` role needs to set the parameters that define the kinds of documents to be managed through the application. Managed Documents provides both base and custom parameter options.
 
 ## Defining Document Parameters
 
@@ -24,8 +24,8 @@ The following document parameters should be defined:
 -   **Classification:** indicates the security level assigned to the document and determines who can view or edit the document.
 -   **Audience:** specifies the intended readers of the document.
 -   **Name format:** specifies the name format to use when a document revision is added.
--   **Name components:** are individual identifiers used inside a name format. Name components define a [[reference|reference]] path \(often by dot-walking\) that holds the value specific to the document.
--   **[[c_ApprovalRules|Approval rules]]:** determine which approvers are added to documents \(in addition to the **Reviewers** specified on the document record\).
+-   **Name components:** are individual identifiers used inside a name format. Name components define a reference path \(often by dot-walking\) that holds the value specific to the document.
+-   **Approval rules:** determine which approvers are added to documents \(in addition to the **Reviewers** specified on the document record\).
 
 ## Defining Types
 
@@ -35,7 +35,7 @@ To define a new type, navigate to **Managed Documents** &gt; **Administration** 
 |-----|-----------|
 |Name|A unique name for the type.|
 |Code|A short code for the type. Referenced as a name component for the name format.|
-|Label|A [[label|label]] to display in the **Type** choice list.|
+|Label|A label to display in the **Type** choice list.|
 |Name Format|The name format that documents of this type will use.|
 |Order|A number indicating the type's sequence in the choice list.|
 
@@ -64,9 +64,3 @@ The name format automatically generates a name for a document revision by arrang
 
 **Parent Topic:**[Managed Document features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentFeatures.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[reference|Reference]]
-- [[c_ApprovalRules|Approval rules]]
-- [[label|Label]]

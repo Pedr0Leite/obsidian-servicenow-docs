@@ -46,7 +46,7 @@ Description
 
 </td><td>
 
-Create a table by extending the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] table and add fields to store the additional input. For example, to create a step type for [[email|email]] notifications, the email id and body are the additional input provided by the catalog item owner while defining the steps. So, fields for email id and body should be added to the extended table to store the input.**Note:** Ensure that the new table has similar ACLs as that of the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] table.
+Create a table by extending the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] table and add fields to store the additional input. For example, to create a step type for email notifications, the email id and body are the additional input provided by the catalog item owner while defining the steps. So, fields for email id and body should be added to the extended table to store the input.**Note:** Ensure that the new table has similar ACLs as that of the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] table.
 
  **Note:** Ensure that the new table has the canCreate, canUpdate, and canRead application access enabled.
 
@@ -61,13 +61,13 @@ Create a table by extending the Service Fulfillment Step \[sc\_service\_fulfillm
 Use the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] base table. For example, a department head approval does not require any additional input from the catalog item owner and does not need a new table.
 
 </td></tr></tbody>
-</table>2.  [[t_DefRecProdInSCat|Create a record producer]] to store the values provided by the catalog item owner to the data store \(base table or extended table\) of that step. For information about creating a [[c_RecordProducer|record producer]], see [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md).
+</table>2.  Create a record producer to store the values provided by the catalog item owner to the data store \(base table or extended table\) of that step. For information about creating a record producer, see [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md).
 
     **Note:**
 
     -   The Service Fulfillment Steps - Properties set variable set is automatically added to the record producer and it should not be removed from the record producer.
     -   All additional columns defined in the extended table should have corresponding variables mapped in the record producer.
-    -   Configure the [[record-producer-form|Record Producer form]] to display the **Allow edit** option and **Save Options** field. Also, select the **Allow edit** option and set the value of the **Save Options** field to **Save in Destination**.
+    -   Configure the Record Producer form to display the **Allow edit** option and **Save Options** field. Also, select the **Allow edit** option and set the value of the **Save Options** field to **Save in Destination**.
     -   Ensure that the record producer is not restricted for the users with catalog\_builder\_editor role.
 3.  Create a subflow to perform a sequence of actions by copying the Template: Service Fulfillment Steps subflow and then defining your subflow. For information about subflows, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
@@ -89,7 +89,7 @@ requested\_item
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -127,7 +127,7 @@ Step defined on a catalog item. It must refer to a table in which the record pro
 
 4.  Create a step configuration to define the behavior and display of a service fulfillment step type.
 
-    1.  Navigate to **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Service Fulfillment Step Configurations**.
+    1.  Navigate to **Service Catalog** &gt; **Catalog Administration** &gt; **Service Fulfillment Step Configurations**.
 
     2.  Click **New**.
 
@@ -227,11 +227,3 @@ Text that should be displayed for the corresponding service fulfillment step in 
 
 **Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 
-## Related
-
-- [[email|Email]]
-- [[t_DefRecProdInSCat|Create a record producer]]
-- [[c_RecordProducer|Record Producer]]
-- [[record-producer-form|Record Producer form]]
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]

@@ -15,7 +15,7 @@ breadcrumb: [Customizing Virtual Agent with custom controls, Exploring other Vir
 
 # Create a Virtual Agent custom control
 
-Build a custom input or response control that topic authors can use in topics or topic blocks. In [[virtual-agent-landing-page|Virtual Agent]] conversations, an input control gathers information from end users, while a response control displays information to end users.
+Build a custom input or response control that topic authors can use in topics or topic blocks. In Virtual Agent conversations, an input control gathers information from end users, while a response control displays information to end users.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ Build a custom input or response control that topic authors can use in topics or
 
 **Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-fd-app-reqs-secure-inputs.md).
 
-**Tip:** Developers and topic authors may need to access custom controls created in other [[c_ApplicationScopes|application scopes]]. To give them access, see [Configure cross-scope access privileges for topic blocks and custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-cross-scope-privileges.md).
+**Tip:** Developers and topic authors may need to access custom controls created in other application scopes. To give them access, see [Configure cross-scope access privileges for topic blocks and custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-cross-scope-privileges.md).
 
 Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, select **Create.**
 
@@ -223,8 +223,3 @@ If you selected **Available on the palette** in the Properties page, the Custom 
 
 [Add a custom control to a Virtual Agent topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/embed-custom-control.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[c_ApplicationScopes|Application scopes]]
-- [[convint-landing-page|Conversational Interfaces]]

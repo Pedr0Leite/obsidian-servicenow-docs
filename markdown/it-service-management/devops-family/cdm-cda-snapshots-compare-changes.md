@@ -18,7 +18,7 @@ Use the Config Data Analyzer tool to find changes between two snapshots of a dep
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 There must be more than one snapshot available in a deployable to compare and the target snapshot must not be the first snapshot in the deployable.
 
@@ -26,7 +26,7 @@ Role required: cdm\_viewer, cdm\_editor, or cdm\_admin
 
 ## About this task
 
-To compare snapshots from different deployables or [[dex-workspace-application-tab|applications]], see [Compare snapshots from the same or different applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-cda-snapshots-compare.md).
+To compare snapshots from different deployables or applications, see [Compare snapshots from the same or different applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-cda-snapshots-compare.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ To compare snapshots from different deployables or [[dex-workspace-application-t
 
     \[Omitted image "cdm-snapshot-compare-change.png"\] Alt text: Compare config data tab for comparing application snapshots.
 
-4.  Select another snapshot in the **[[reference-for-itsm-mobile-agent|Reference]] snapshot** field.
+4.  Select another snapshot in the **Reference snapshot** field.
 
     The **Reference snapshot** field lists all snapshots that are older than the target snapshot. The **Reference snapshot** field is inactive when older snapshots are not available. Even if newer snapshots created after the target snapshots exist in the deployable, they are not listed.
 
@@ -167,9 +167,3 @@ Details of the file present in the target changeset.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]

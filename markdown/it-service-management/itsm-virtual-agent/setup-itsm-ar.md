@@ -14,7 +14,7 @@ breadcrumb: [Setting up ITSM Virtual Agent, ITSM Virtual Agent, IT Service Manag
 
 # Set up Issue Auto Resolution for ITSM Virtual Agent
 
-Users with the virtual\_agent\_admin or admin role can configure Virtual Agent [[settings-mobile|settings]] to indicate discoverable topics, set business rules, and more.
+Users with the virtual\_agent\_admin or admin role can configure Virtual Agent settings to indicate discoverable topics, set business rules, and more.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin or virtual\_agent\_admin
 -   [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activate-virtual-agent.md) to use Virtual Agent as a response channel.
 -   [Set up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent.md)
 
-    Install the [[itsm-virtual-agent|ITSM Virtual Agent]] Conversations app, which includes the ITSM NLU Model for Virtual Agent Conversations. Request this app from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+    Install the ITSM Virtual Agent Conversations app, which includes the ITSM NLU Model for Virtual Agent Conversations. Request this app from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 
 ## About this task
@@ -75,7 +75,3 @@ Most of the Issue Auto Resolution functionality is included with the Glide Virtu
 
 **Parent Topic:**[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setting-up-itsm-va.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

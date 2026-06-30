@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the [[invoice-exception-definition-form|Invoice exception definition form]]. For more information, see [Invoice exception definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md).
+The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the Invoice exception definition form. For more information, see [Invoice exception definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -48,7 +48,7 @@ View exceptions from the List page
 </td><td>
 
 1.  Do one of the following:
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-invoice-exceptions|invoice exceptions]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice exceptions**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice exceptions**.
 2.  Select the link to the invoice exception under the Number column to open the exception and view its details.
 
@@ -60,7 +60,7 @@ View exceptions from an invoice processing case
 </td><td>
 
 1.  Do one of the following:
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice processing cases**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**.
 2.  Open an invoice processing case that contains exceptions.
 
@@ -84,9 +84,3 @@ View exceptions from an invoice processing case
 
 **Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 
-## Related
-
-- [[invoice-exception-definition-form|Invoice exception definition form]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[working-with-ingestion-cases|Invoice processing cases]]

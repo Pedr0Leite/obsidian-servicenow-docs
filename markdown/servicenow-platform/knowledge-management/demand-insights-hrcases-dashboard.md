@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting Solutions for Knowledge Management, Knowled
 
 The Demand Insights for HR cases dashboard enables you as an HR agent to identify which HR cases have no or insufficient knowledge coverage. You can then create feedback tasks for knowledge gaps to deflect such HR cases.
 
-**Note:** For Demand Insights for HR cases dashboard, activate the Human Resources Scoped App: Core plugin \[com.sn\_hr\_core\] and [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] plugin \[com.snc.knowledge\_ml\].
+**Note:** For Demand Insights for HR cases dashboard, activate the Human Resources Scoped App: Core plugin \[com.sn\_hr\_core\] and Predictive Intelligence for Knowledge Management plugin \[com.snc.knowledge\_ml\].
 
 \[Omitted image "demand-insights-hrcases.png"\] Alt text: Demand insights for HR cases
 
@@ -34,6 +34,3 @@ The Demand Insights for HR cases dashboard enables you as an HR agent to identif
 
 **Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analytics-and-reporting-solutions-for-knowlege-management.md)
 
-## Related
-
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]

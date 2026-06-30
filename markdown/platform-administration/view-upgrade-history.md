@@ -12,7 +12,7 @@ breadcrumb: [Installation considerations, Use, Legacy Application Manager, Admin
 
 # View the upgrade history of a ServiceNow Store application
 
-View the upgrade history of an application that you purchased and installed from the [[servicenow-store|ServiceNow Store]].
+View the upgrade history of an application that you purchased and installed from the ServiceNow Store.
 
 ## Before you begin
 
@@ -29,9 +29,5 @@ Role required: admin, sn\_appclient.app\_client\_company\_installer \(can only i
     **Note:** When customers upgrade to this new version of your application, the Deletes in your author\_elective\_update folder will be written as Skips in the Upgrade History entry for this application upgrade. Your users can browse the Skip list, and apply the changes on a case-by-case basis. Your customers have the option of setting com.glide.apps.include\_my\_deletes to false, which will skip writing Skip records as well.
 
 
-**Parent Topic:**[[install-considerations|Installation considerations]]
+**Parent Topic:**[Installation considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-considerations.md)
 
-## Related
-
-- [[install-considerations|Installation considerations]]
-- [[servicenow-store|ServiceNow Store]]

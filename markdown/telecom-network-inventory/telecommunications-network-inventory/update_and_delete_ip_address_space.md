@@ -14,7 +14,7 @@ breadcrumb: [Inventory number allocation, Define inventory records, Use, Telecom
 
 # Update or delete a record of an inventory number allocation
 
-Review, update, and [[delete-inventory-record|delete a record]] of an IP address space element using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, and delete a record of an IP address space element using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -22,18 +22,18 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-This task enables you to update, and delete a record of an item of any [[inventory_number_allocation|inventory number allocation]].
+This task enables you to update, and delete a record of an item of any inventory number allocation.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List Icon.\), and then go to **Inventory number allocation**.
 
 3.  Select any one of the following items of inventory number allocation.
 
     -   Telephone block
-    -   [[telephone_number_management|Telephone allocation]]
+    -   Telephone allocation
     -   Telephone number
     -   Inventory numbers
     -   IP pool
@@ -73,10 +73,3 @@ This task enables you to update, and delete a record of an item of any [[invento
 
 **Parent Topic:**[Inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/vlan_or_lag_number_management.md)
 
-## Related
-
-- [[delete-inventory-record|Delete a record]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[telephone_number_management|Telephone allocation]]

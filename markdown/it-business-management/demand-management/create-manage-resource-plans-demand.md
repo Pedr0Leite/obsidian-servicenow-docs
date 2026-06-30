@@ -24,7 +24,7 @@ Role required: it\_demand\_manager
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
-2.  Open the required [[demand-form|demand form]].
+2.  Open the required demand form.
 
 3.  Select the **Resource assignments** related list and select **New**.
 
@@ -40,6 +40,3 @@ Recalculate the costs of all active resource assignments of a demand whenever th
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]

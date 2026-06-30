@@ -48,7 +48,7 @@ Read, create, update, and delete records in the AI agent table.
 </td></tr></tbody>
 </table>## Before you begin
 
-Install the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] plugin \(sn\_psds\_gen\_ai\), and ensure that it is up to date.
+Install the Now Assist for Public Sector Digital Services \(PSDS\) plugin \(sn\_psds\_gen\_ai\), and ensure that it is up to date.
 
 Role required: admin, sn\_gsm\_ai\_agents.admin
 
@@ -97,6 +97,3 @@ Use the Testing playground to [Manually test the execution of an AI agent](https
 
 If activation fails, check roles and skill configuration.
 
-## Related
-
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

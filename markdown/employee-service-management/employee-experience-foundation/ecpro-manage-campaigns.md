@@ -14,7 +14,7 @@ breadcrumb: [Creating campaigns, Authoring and managing employee communications,
 
 # Create a campaign
 
-[[ecpro-create-campaign|Create a campaign]] to push communications and important information to your employees.
+Create a campaign to push communications and important information to your employees.
 
 ## Before you begin
 
@@ -118,7 +118,7 @@ Re-evaluate frequency
 
 </td><td>
 
-The frequency, in days, that you want to re-evaluate the audience. [[ecpro-audience|Audiences]] are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
+The frequency, in days, that you want to re-evaluate the audience. Audiences are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
 
  This field allows you to override the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md).
 
@@ -167,7 +167,7 @@ After completing all parts of a campaign, click the **Publish** button.
 The Trigger Campaign Published Workflow business rule executes and the scheduled jobs are bypassed. The Campaign Targets tab populates with the targeted audience and content is delivered. There are several states that appear after you publish your campaign with the Used to manage whether we want to trigger the campaign publishing process immediately after publishing the campaign \(sn\_ca.publish.campaign.immediately\) sys property is set to **Yes**. The states are:
 
 -   Targeting Audience: The audience is in the process of being built/defined.
--   Add Non-Portal Campaign Content: Email, SMS, Push, and [[ec-to-do-content|To-do content]] are being added and ready to be distributed.
+-   Add Non-Portal Campaign Content: Email, SMS, Push, and To-do content are being added and ready to be distributed.
 -   Delivering Content: The audience and content has been defined and in the process of delivering the content.
 
 The other scheduled jobs related to re-evaluate a campaign and frequency are not affected by this sys property. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md).
@@ -178,8 +178,3 @@ Campaign Targets show a list of users assigned to a campaign after the **Content
 
 **Note:** The **Publish** button only appears when at least one bundle or stage with content is attached to the campaign, a title, and start time. Publishing activates all content for a selected audience and duration.
 
-## Related
-
-- [[ecpro-create-campaign|Create a campaign]]
-- [[ecpro-audience|Audiences]]
-- [[ec-to-do-content|To-do content]]

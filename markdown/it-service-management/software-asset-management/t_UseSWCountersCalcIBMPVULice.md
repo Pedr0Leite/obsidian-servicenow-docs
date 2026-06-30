@@ -14,7 +14,7 @@ breadcrumb: [Legacy IBM PVU Process Pack, Legacy Software Asset Management plugi
 
 # Use software counters with the legacy IBM PVU Process Pack
 
-To calculate IBM PVU licenses through the [[c_IBMPVUProcessPack|legacy IBM PVU Process Pack]], you can create a software counter with the IBM PVU license type. For a given PVU software package, you only need to create the counter once and then it can be reused.
+To calculate IBM PVU licenses through the legacy IBM PVU Process Pack, you can create a software counter with the IBM PVU license type. For a given PVU software package, you only need to create the counter once and then it can be reused.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Processor definitions are searched as licenses are counted. If a processor defin
 
 **Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-## Related
-
-- [[c_IBMPVUProcessPack|Legacy IBM PVU Process Pack]]

@@ -14,15 +14,15 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Support for continuous delivery \(configuration management\)
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application supports integration with continuous delivery solutions \(also known as configuration management\). Ansible is supported as the default config management provider.
+The Cloud Provisioning and Governance application supports integration with continuous delivery solutions \(also known as configuration management\). Ansible is supported as the default config management provider.
 
 The Cloud Provisioning and Governance application supports configuration management providers in two ways:
 
--   **Application profile based approach**: [[create-app-profile|Create an application profile]] for an entity and in the order catalog form, select that profile to deploy that entity. Each profile has a config installable. You can create multiple application profiles- as an example, one for PostgreSQL and one for Apache. Each profile can be mapped to a configuration management provider. In the [[cloudmgt-cloud-user-portal|Cloud User Portal]], based on the profile you select, a configuration grid appears populated with attributes and values for that specific configuration management provider. You can modify any values in the order form and provision the entity.
+-   **Application profile based approach**: Create an application profile for an entity and in the order catalog form, select that profile to deploy that entity. Each profile has a config installable. You can create multiple application profiles- as an example, one for PostgreSQL and one for Apache. Each profile can be mapped to a configuration management provider. In the Cloud User Portal, based on the profile you select, a configuration grid appears populated with attributes and values for that specific configuration management provider. You can modify any values in the order form and provision the entity.
 -   **Resource block based approach**: Use a resource block, like Apache2, in a blueprint to represent an entity that a configuration management provider manages. The same resource block can be used to support more than one entity of the same kind. As an example, an Apache2 resource block can be used to support multiple Apache2 servers. In the order catalog form, select a provider type and then select a provider. Based on the specific provider, configuration management attributes and values appear. Once you provision the entity, you can save the configuration of the resource block and store it in the CMDB for future use.
 -   **Post-provisioning actions during catalog deployment**: Users can call ansible job as a post-provisioning step in any catalog which deploys a VM. This will be executed as a day-2 operation once the VM installation is completed. For more information on the processes, see [https://www.servicenow.com/community/itom-blog/cpg-calling-ansible-job-as-post-provision-step-for-cloud-catalog/ba-p/2271552](https://www.servicenow.com/community/itom-blog/cpg-calling-ansible-job-as-post-provision-step-for-cloud-catalog/ba-p/2271552) and [https://www.servicenow.com/community/itom-blog/cpg-calling-ansible-job-as-day2-operation/ba-p/2270969](https://www.servicenow.com/community/itom-blog/cpg-calling-ansible-job-as-day2-operation/ba-p/2270969).
 
-**Important:** Starting with the Orlando release, the [[blueprints|cloud provisioning blueprints]] are available on instances upgraded from a previous release but you cannot create new blueprints. Existing blueprints and catalog items from those blueprints remain unaffected and continue to work.
+**Important:** Starting with the Orlando release, the cloud provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Existing blueprints and catalog items from those blueprints remain unaffected and continue to work.
 
 ## What to do
 
@@ -56,7 +56,7 @@ Enable Cloud Provisioning and Governance to access the configuration provider wi
 
 </td><td>
 
-Configure Cloud Provisioning and Governance to work with the configuration management provider of your choice. Then run [[r-discovery|discovery]] on the provider, using the credentials you provide, to find the resources that the provider already owns.
+Configure Cloud Provisioning and Governance to work with the configuration management provider of your choice. Then run discovery on the provider, using the credentials you provide, to find the resources that the provider already owns.
 
 </td><td>
 
@@ -100,11 +100,3 @@ The resource should provision, with the stack status indicating the **BootstrapN
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[create-app-profile|Create an application profile]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[blueprints|Cloud Provisioning Blueprints]]
-- [[r-discovery|Discovery]]

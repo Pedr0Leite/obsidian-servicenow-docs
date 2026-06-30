@@ -47,7 +47,7 @@ Plugin: com.glide.script.packages\_call\_removal
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
@@ -117,6 +117,3 @@ Activate and run the Packages Call Removal Tool \(**com.glide.script.packages\_c
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

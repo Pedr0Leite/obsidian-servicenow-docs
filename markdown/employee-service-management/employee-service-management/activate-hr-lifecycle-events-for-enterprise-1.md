@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Activate Lifecycle Events for Enterprise
 
-You can activate the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise plugin \[com.sn\_hr\_lifecycle\_ent\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Human Resources Scoped App: Lifecycle Events for Enterprise plugin \[com.sn\_hr\_lifecycle\_ent\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Employee Service Center\[com.sn\_hr\_service\_portal\]
 
 </td><td>
 
-Provides [[employee-center-landing-page|Employee Center]].
+Provides Employee Center.
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Provides lifecycle events.
 
 </td></tr><tr><td>
 
-[[document-templates-overview|Document Templates]]\[com.snc.document\_templates\]
+Document Templates\[com.snc.document\_templates\]
 
 </td><td>
 
@@ -77,8 +77,4 @@ Provides Document templates.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[document-templates-overview|Document Templates]]

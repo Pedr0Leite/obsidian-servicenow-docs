@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # View and edit the OT Network Map
 
-View and edit the [[operational-technology-overview|Operational Technology]] \(OT\) Network Map in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] to visualize your OT networks per site and their OT devices.
+View and edit the Operational Technology \(OT\) Network Map in the Industrial Workspace to visualize your OT networks per site and their OT devices.
 
 ## Before you begin
 
@@ -114,7 +114,3 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

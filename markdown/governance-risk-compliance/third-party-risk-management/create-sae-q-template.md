@@ -20,7 +20,7 @@ Create a TPRM SAE questionnaire or document request template that supports SAE f
 
 Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
-You must set the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
+You must set the Smart Assessment Engine enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
 
 **Warning:** After this option is enabled, this selection can’t be reversed.
 
@@ -82,6 +82,3 @@ Select the copy icon \[Omitted image "copy-icon.png"\] Alt text: and make any ne
 
 [Using the template designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-template-designer.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

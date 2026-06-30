@@ -12,7 +12,7 @@ breadcrumb: [Install Automation Discovery, Automation Discovery, Platform Analyt
 
 # Components installed with Automation Discovery
 
-Tables and roles are installed with activation of the [[automation-discovery|Automation Discovery]] plugin.
+Tables and roles are installed with activation of the Automation Discovery plugin.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -88,7 +88,7 @@ Automation Discovery Job\[sn\_auto\_discovery\_job\]
 
 </td><td>
 
-Table that manages the execution of Automation Discovery [[reporting-landing-page|reporting]] jobs.
+Table that manages the execution of Automation Discovery reporting jobs.
 
 </td></tr><tr><td>
 
@@ -135,7 +135,3 @@ None.
 
 None.
 
-## Related
-
-- [[automation-discovery|Automation Discovery]]
-- [[reporting-landing-page|Reporting]]

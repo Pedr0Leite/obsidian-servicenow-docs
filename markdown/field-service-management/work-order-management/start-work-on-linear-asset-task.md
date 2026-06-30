@@ -39,7 +39,7 @@ Role required: wm\_agent
 
     Each segment displays the asset name and a sequential number along with the start and location details.
 
-6.  On the segment that you want to start inspecting, tap **[[t_StartWork|Start Work]]**.
+6.  On the segment that you want to start inspecting, tap **Start Work**.
 
 7.  Open the asset page and review the asset details by tapping the selected segment.
 
@@ -119,6 +119,3 @@ Detailed description of the issue.
 
 You have successfully inspected the selected linear asset segments in a work order task and created corresponding work orders for any segments requiring attention or maintenance.
 
-## Related
-
-- [[t_StartWork|Start work]]

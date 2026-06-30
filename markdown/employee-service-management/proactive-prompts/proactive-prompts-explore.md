@@ -14,7 +14,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 # Exploring Proactive Prompts
 
-Learn how to use the [[proactive-prompts-for-hrsd|Proactive Prompts]] application in your organization, configuring the signal for prompts, generating the prompts, and displaying them with actions on the selected channels.
+Learn how to use the Proactive Prompts application in your organization, configuring the signal for prompts, generating the prompts, and displaying them with actions on the selected channels.
 
 ## Proactive Prompts workflow
 
@@ -49,7 +49,7 @@ Portal widget
 
 </td><td>
 
-Prompts are displayed through a widget on the [[employee-center-portal-overview|Employee Portal]].**Note:** To see the prompts on the portal, the Prompt widget must be added to the portal page. For information on configuring portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md). For information on adding widgets to a page, see [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
+Prompts are displayed through a widget on the Employee Portal.**Note:** To see the prompts on the portal, the Prompt widget must be added to the portal page. For information on configuring portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md). For information on adding widgets to a page, see [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
 
 </td></tr><tr><td>
 
@@ -68,10 +68,5 @@ Configure signals, data sources, channels, categories, actions, and schedules to
 
 ## Proactive Prompts in Manager Hub
 
-Generate and display micro insights to managers using [[manager-hub-overview|Manager Hub]] through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/insight-based-sug.md).
+Generate and display micro insights to managers using Manager Hub through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/insight-based-sug.md).
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[manager-hub-overview|Manager Hub]]

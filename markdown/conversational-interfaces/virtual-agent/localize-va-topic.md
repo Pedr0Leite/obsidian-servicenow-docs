@@ -16,11 +16,11 @@ breadcrumb: [Localization options for Virtual Agent, Build and deploy, Virtual A
 
 The ServiceNow platform provides several methods for localizing Virtual Agent conversations, depending on your needs. Use the Localization Framework to manage all aspects of the translation process, whether you are using machine translation, a third-party provider, or both.
 
-Use the ServiceNow Localization Framework to standardize and track the translation process for [[virtual-agent-landing-page|Virtual Agent]] topics. The framework enables you to define the business process for translating your conversations. Use it to configure the following:
+Use the ServiceNow Localization Framework to standardize and track the translation process for Virtual Agent topics. The framework enables you to define the business process for translating your conversations. Use it to configure the following:
 
 -   How localization requests are fulfilled.
 
-    Options include machine translation, a translation [[management|management]] system \(TMS\), and exporting and importing files.
+    Options include machine translation, a translation management system \(TMS\), and exporting and importing files.
 
 -   Who is responsible for each step in the process.
 
@@ -76,7 +76,7 @@ Do the following before you begin managing translations:
 
 ## Manage languages by model
 
-If NLU is enabled for your instance, you can view and manage translations by model and language. Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**, and then click **Manage languages**. Choose a model and a language, and then you can do the following:
+If NLU is enabled for your instance, you can view and manage translations by model and language. Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**, and then click **Manage languages**. Choose a model and a language, and then you can do the following:
 
 -   View translation status
 -   Request translations
@@ -98,7 +98,7 @@ A Virtual Agent admin user can edit and publish translations directly in Virtual
 -   **[Request bulk translations for multiple topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/request-bulk-translations-va.md)**  
 If you need to translate many Virtual Agent topics across multiple models at one time, you can use the \[sys\_cs\_topic\] table list view to request translations.
 -   **[Authoring Virtual Agent conversations for localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/authoring-va-l18n.md)**  
-Use localization methods in your [[virtual-agent-scripts|Virtual Agent scripts]] to ensure that the content can be translated. Localization methods are designed to show the original text when no translation is found. These methods can be applied to your code before you have created translations.
+Use localization methods in your Virtual Agent scripts to ensure that the content can be translated. Localization methods are designed to show the original text when no translation is found. These methods can be applied to your code before you have created translations.
 -   **[Language support for NLU services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/language-support-nlu-services.md)**  
 Entity extraction is supported on ServiceNow® NLU models for specific languages only. The remaining languages support intent matching only. If you are using IBM Watson Assistant, supported languages vary.
 -   **[Localization roles for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localization-roles-va.md)**  
@@ -108,9 +108,3 @@ Virtual Agent uses the \[sys\_translated\_text\] and \[sys\_ui\_message\] tables
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-scripts|Virtual Agent scripts]]

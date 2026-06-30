@@ -18,11 +18,11 @@ Determine which shortcut key pairings users can use to access elements in an ins
 
 Role required: admin
 
-For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI keyboard shortcuts]].
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User Administration** &gt; **[[c_UserPreferences|User Preferences]]**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **User Preferences**.
 
 2.  Search for the user preference you want to change the key combination for.
 
@@ -54,7 +54,3 @@ For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI ke
 
 **Parent Topic:**[Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)
 
-## Related
-
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]
-- [[c_UserPreferences|User preferences]]

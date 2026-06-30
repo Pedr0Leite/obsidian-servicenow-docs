@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 ## About this task
 
-The work notes added when requesting information are available in the [[activity-lxp|Activity]] stream. Review the information needed and gather the information to be sent to the reviewer.
+The work notes added when requesting information are available in the Activity stream. Review the information needed and gather the information to be sent to the reviewer.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d153622e70">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -100,7 +100,3 @@ The information is shared with reviewer and the review task State changes to Wor
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[cncore-contract-workspace|Contract Workspace]]

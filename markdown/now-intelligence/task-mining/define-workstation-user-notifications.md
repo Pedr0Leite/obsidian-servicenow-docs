@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Mining, Platform Analytics]
 
 # Customize Task Mining notifications for workstation users
 
-Use [[task-mining|Task Mining]] notifications to notify workstation users that their work is being monitored, request consent, and inform them if they have any actions to take.
+Use Task Mining notifications to notify workstation users that their work is being monitored, request consent, and inform them if they have any actions to take.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Configuration icon \[Omitted image "task-mining-configuration-icon.png"\].
 
@@ -60,7 +60,4 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

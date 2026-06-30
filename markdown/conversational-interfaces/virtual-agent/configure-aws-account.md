@@ -19,7 +19,7 @@ To enable the Conversational IVR functionality within your ServiceNow instance, 
 ## Configure your AWS account
 
 1.  To grant a ServiceNow user the required permissions to complete the Conversational Integration with Amazon Connect on the AWS Console, see [Grant access to an IAM \(Identity and Access Management\) role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-user-assign-roles.md).
-2.  To [[create-amazon-s3-bucket|create an Amazon S3 bucket]] and to store objects within your AWS account, see [Create an Amazon S3 bucket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-amazon-s3-bucket.md).
+2.  To create an Amazon S3 bucket and to store objects within your AWS account, see [Create an Amazon S3 bucket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-amazon-s3-bucket.md).
 
     This will host the files required to complete the configuration.
 
@@ -27,8 +27,8 @@ To enable the Conversational IVR functionality within your ServiceNow instance, 
 
     You will be populating a template provided by ServiceNow that will then generate the required configuration.
 
-4.  To [[claim-phone-nmbr-ivr|claim a phone number]] for setting up Conversational IVR, see [Claim a phone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/claim-phone-nmbr-ivr.md).
-5.  To [[configure-va-ivr|configure Conversational IVR with Amazon Connect]] application in your ServiceNow instance to store the conversation between the agent and the user over Softphone as a transcript, see [Set up transcription for Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-amzn-transcription-ggl-sentiment.md).
+4.  To claim a phone number for setting up Conversational IVR, see [Claim a phone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/claim-phone-nmbr-ivr.md).
+5.  To configure Conversational IVR with Amazon Connect application in your ServiceNow instance to store the conversation between the agent and the user over Softphone as a transcript, see [Set up transcription for Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-amzn-transcription-ggl-sentiment.md).
 
 -   **[Grant access to an IAM \(Identity and Access Management\) role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-user-assign-roles.md)**  
 Grant a ServiceNow user the required permissions to complete the Conversational Integration with Amazon Connect on the AWS Console.
@@ -37,7 +37,7 @@ Create an Amazon S3 bucket to store the files required for configuring Conversat
 -   **[Create an Amazon CloudFormation Stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-amzn-cloudformation-stack.md)**  
 Create an AWS CloudFormation stack to provision all the infrastructure resources required to enable the Conversational IVR feature. You will be populating a template provided by ServiceNow that will then generate the required configuration.
 -   **[Configure localization in Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/config-ivr-localization.md)**  
-Configure localization in Conversational IVR to use localization with [[virtual-agent-landing-page|Virtual Agent]] in other supported languages.
+Configure localization in Conversational IVR to use localization with Virtual Agent in other supported languages.
 -   **[Customize keywords in Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-ivr-keywords.md)**  
 Customize the IVR integration-specific keywords that are provided by default for better conversation in another language with the Virtual Agent.
 -   **[Claim a phone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/claim-phone-nmbr-ivr.md)**  
@@ -49,9 +49,3 @@ Configure Conversational IVR with Amazon Connect application to store the conver
 
 **Parent Topic:**[Configuring Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-ivr-amazon-connect.md)
 
-## Related
-
-- [[create-amazon-s3-bucket|Create an Amazon S3 bucket]]
-- [[claim-phone-nmbr-ivr|Claim a phone number]]
-- [[configure-va-ivr|Configure Conversational IVR with Amazon Connect]]
-- [[virtual-agent-landing-page|Virtual Agent]]

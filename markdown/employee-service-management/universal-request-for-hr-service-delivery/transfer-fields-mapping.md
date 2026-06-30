@@ -14,15 +14,15 @@ breadcrumb: [Configure mappings, Configure service to use Universal Request, Set
 
 # Map UR fields with target table fields
 
-Define the fields that you want to map between the [[ur-landing-limitedaccess|universal request]] and the target table fields that you already configured. This configuration enables you to copy the values of mapped fields from the universal request to the new ticket, and vice versa.
+Define the fields that you want to map between the universal request and the target table fields that you already configured. This configuration enables you to copy the values of mapped fields from the universal request to the new ticket, and vice versa.
 
 ## Before you begin
 
 Role required: ur\_admin
 
-To map automatically the fields, select **[[map-fields-navex|Map fields]] automatically** related link. This action maps all fields that are common between UR and the service ticket and vice versa.
+To map automatically the fields, select **Map fields automatically** related link. This action maps all fields that are common between UR and the service ticket and vice versa.
 
-**Note:** [[field-mappings-sf|Field mappings]] will take precedence over transfer template configuration, if you’ve already defined them.
+**Note:** Field mappings will take precedence over transfer template configuration, if you’ve already defined them.
 
 ## Procedure
 
@@ -92,8 +92,3 @@ Map the fields to create automatically a universal request when a request is rai
 
 **Parent Topic:**[Configure mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[map-fields-navex|Map fields]]
-- [[field-mappings-sf|Field mappings]]

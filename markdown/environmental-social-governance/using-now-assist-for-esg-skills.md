@@ -15,7 +15,7 @@ breadcrumb: [Now Assist, Use, Operational Sustainability Management \(formerly E
 
 If you have the sn\_esg\_gen\_ai.docintel\_user role, you can leverage the Now Assist for Operational Sustainability skill to automate the extraction of metrics data from utility invoices. Then map the extracted data to the correct metric definitions and entities.
 
-The [[ai-driven-document-intelligence-for-utility-invoices|document intelligence for utility invoices]] reduces manual entry, and increases accuracy as it enables you to streamline the data collection process. The Document Intelligence for Utility Invoices skills automates the extraction of utility bill data, including consumption, billing dates, and amounts, within the Operational Sustainability Workspace. Then the extracted data is mapped to the correct metric definitions and entities.
+The document intelligence for utility invoices reduces manual entry, and increases accuracy as it enables you to streamline the data collection process. The Document Intelligence for Utility Invoices skills automates the extraction of utility bill data, including consumption, billing dates, and amounts, within the Operational Sustainability Workspace. Then the extracted data is mapped to the correct metric definitions and entities.
 
 ## Modifying the instructions for Now Assist for Operational Sustainability skills
 
@@ -23,13 +23,8 @@ Starting with the Australia release, users who have the Now Assist for Operation
 
 To modify the instructions for the Document Intelligence for utility invoices skill, follow the steps that are mentioned in [KB1806035](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1806035).
 
--   **[[extract-data-from-utility-invoices|Extract data from utility invoices]]**  
+-   **[Extract data from utility invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/extract-data-from-utility-invoices.md)**  
 The AI-driven Document Intelligence for utility invoices feature automates the extraction of utility bill data, including consumption, billing dates, and amounts. Then the extracted data is mapped to the correct metric definitions and entities using configurable mapping tables within the Operational Sustainability Workspace. This streamlines data processing and enhances accuracy.
 
-**Parent Topic:**[[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/now-assist-for-esg.md)
 
-## Related
-
-- [[extract-data-from-utility-invoices|Extract data from utility invoices]]
-- [[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]

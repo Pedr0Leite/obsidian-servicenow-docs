@@ -14,19 +14,19 @@ breadcrumb: [Initiatives catalog, View the Initiatives and Accelerators catalog,
 
 # Get started with Developer Support
 
-Get Started with Developer Support is an [[impact-landing-page|Impact]] Initiative that facilitates the understanding of the Developer Support offering and identification of named contacts for requesting Developer Support.
+Get Started with Developer Support is an Impact Initiative that facilitates the understanding of the Developer Support offering and identification of named contacts for requesting Developer Support.
 
 ## Overview
 
 Get Started with Developer Support helps you expedite identifying technical stakeholder solutions to issues with access to Developer Support. The Initiative includes the following benefits:
 
--   Enables a ServiceNow Support Account Manager \(SAM\) to [[io-help|help]] you determine the stakeholders to be named as contacts for Developer Support access
+-   Enables a ServiceNow Support Account Manager \(SAM\) to help you determine the stakeholders to be named as contacts for Developer Support access
 -   Equips admins and developers with a streamlined method for resolving issues associated with existing customizations
 -   Provides access to a specialized subject matter expert \(SME\) to assist in troubleshooting customizations
 -   Delivers insights into customization scope, including business rules, UI \(user interface\) scripts, script includes, and UI macros
 -   Provides a review of up to 200 lines of custom code in a break-fix model
 
-Developer Support is available in the Advanced and Total [[impact-packages1|Impact packages]] and offers expert assistance in troubleshooting and debugging customization-related issues. For more information on Developer Support, see [[developer-support|Impact Developer Support]].
+Developer Support is available in the Advanced and Total Impact packages and offers expert assistance in troubleshooting and debugging customization-related issues. For more information on Developer Support, see [Impact Developer Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/developer-support.md).
 
 |Developer Support|Troubleshooting and assistance|
 |-----------------|------------------------------|
@@ -60,13 +60,6 @@ Get Started with Developer Support does not include:
 
 -   A detailed review of your data
 -   Technical, hands-on troubleshooting or configuration
--   Solutioning and scoping related to [[instance-observer-performance|performance]] data
+-   Solutioning and scoping related to performance data
 -   Decision making
 
-## Related
-
-- [[developer-support|Impact Developer Support]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[impact-packages1|Impact Packages]]
-- [[instance-observer-performance|Performance]]

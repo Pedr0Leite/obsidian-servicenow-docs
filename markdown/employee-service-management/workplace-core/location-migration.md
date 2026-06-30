@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Location migration
 
-Learn how to migrate location data from the ServiceNow Locations table to the Workplace Location table to use them in [[workplace-service-delivery-apps|Workplace Service Delivery applications]].
+Learn how to migrate location data from the ServiceNow Locations table to the Workplace Location table to use them in Workplace Service Delivery applications.
 
 You can create a hierarchy to be used while migrating location data from the ServiceNow Location table \[cmn\_location\] to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table.
 
@@ -27,10 +27,10 @@ You can set a location hierarchy configuration as optional depending on the Floo
 
 When you set a configuration as optional, then the records that don’t match that configuration are matched with the next hierarchy. For example, if there are locations that don’t match the **Area** &gt; **Room** hierarchy, then they’re matched with the next hierarchy, which is **Floor** &gt; **Room**. If there are Rooms that aren’t assigned to any Areas, then they’re matched with Floors because the Area is optional.
 
-After migrating the locations, if you create a location in the [[workplace-safety-mgmt-hr|Workplace Core]] application, the location is automatically added in the ServiceNow® Location \[cmn\_location\] table. You can configure the type of the location by setting Dictionary Overrides.
+After migrating the locations, if you create a location in the Workplace Core application, the location is automatically added in the ServiceNow® Location \[cmn\_location\] table. You can configure the type of the location by setting Dictionary Overrides.
 
 -   **[Configure location migration hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-location-migration-hierarchy.md)**  
-Create a hierarchy for how the location data from the ServiceNow® Location table \[cmn\_location\] must be migrated to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table of [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+Create a hierarchy for how the location data from the ServiceNow® Location table \[cmn\_location\] must be migrated to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table of Workplace Service Delivery.
 -   **[Set the location type in Location table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/set-loc-type-in-loc-table.md)**  
 Set the location type of a location by creating a dictionary override of the table.
 
@@ -77,8 +77,3 @@ Set the location type of a location by creating a dictionary override of the tab
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

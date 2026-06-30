@@ -43,7 +43,7 @@ Businesses can encounter order issues for many reasons such as inventory discrep
 
 ## Overview of creating an order case
 
-The following table provides an overview of the process for [[csm-case-mgmt-order-ops-create-order-case|creating an order case]]. For detailed steps, see [[csm-order-ops-create-order-case|Create an order case]].
+The following table provides an overview of the process for creating an order case. For detailed steps, see [Create an order case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-create-order-case.md).
 
 <table id="table_hpc_lhk_fdc"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Selecting a service
 
 </td><td>
 
-After initiating an order case, the agent selects an order-related service from the [[csm-case-type-select-modals|case type selector]] modal.This modal displays the services that are available for order cases, such as Sales Order Change Request or Sales Order Dispute.
+After initiating an order case, the agent selects an order-related service from the case type selector modal.This modal displays the services that are available for order cases, such as Sales Order Change Request or Sales Order Dispute.
 
 </td></tr><tr><td>
 
@@ -106,19 +106,19 @@ Submitting the order case record
 
 </td><td>
 
-Selecting **Submit** on the Order case record moves the order case and the order case line items to the New state. Once in the New state, agents can begin working to resolve the order case. This includes [[csm-order-ops-order-case-create-task|creating tasks for order case line items]], assigning them to other agents or team members, and monitoring case progress.
+Selecting **Submit** on the Order case record moves the order case and the order case line items to the New state. Once in the New state, agents can begin working to resolve the order case. This includes [creating tasks for order case line items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-create-task.md), assigning them to other agents or team members, and monitoring case progress.
 
 </td></tr></tbody>
 </table>## Order Operations Case Management plugin
 
-Order Operations Case Management \(com.sn\_order\_case\) is a [[case-management|case management]] application for handling support requests on orders or order lines. This application enables customers to process order-related services such as inflight order changes, order inquiries, and order dispute requests. It provides an order case type that includes order line items that need changes, workflows, and agent and customer experiences.
+Order Operations Case Management \(com.sn\_order\_case\) is a case management application for handling support requests on orders or order lines. This application enables customers to process order-related services such as inflight order changes, order inquiries, and order dispute requests. It provides an order case type that includes order line items that need changes, workflows, and agent and customer experiences.
 
-The Order Operations Case Management application includes list views for [[csm-workspaces-configure|CSM Configurable Workspace]] and Core UI.
+The Order Operations Case Management application includes list views for CSM Configurable Workspace and Core UI.
 
--   In CSM Configurable Workspace, expand the **Order Cases** list category in the [[migration-lists|Lists]] tab.
+-   In CSM Configurable Workspace, expand the **Order Cases** list category in the Lists tab.
 -   In Core UI, navigate to **All** &gt; **Customer Order Management** &gt; **Order Cases**.
 
-The Order Operations Case Management application also includes tables, roles, [[csm-service-definitions|service definitions]] and other components. For more information, see [[csm-case-mgmt-order-ops-install-comp|Components installed with Order Operations Case Management]].
+The Order Operations Case Management application also includes tables, roles, service definitions and other components. For more information, see [Components installed with Order Operations Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops-install-comp.md).
 
 The Order Operations Case Management application is available from the ServiceNow Store.
 
@@ -129,17 +129,5 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[[csm-case-mgmt-case-lines|Case Lines and Workflows]]
+[Case Lines and Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md)
 
-## Related
-
-- [[csm-order-ops-create-order-case|Create an order case]]
-- [[csm-order-ops-order-case-create-task|Create a task for an order case line item]]
-- [[csm-case-mgmt-order-ops-install-comp|Components installed with Order Operations Case Management]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-case-mgmt-order-ops-create-order-case|Creating an order case]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[case-management|Case management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-service-definitions|Service definitions]]

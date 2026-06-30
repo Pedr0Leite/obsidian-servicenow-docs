@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with Facebook Messenger, Inte
 
 # Install Conversational Integration with Facebook Messenger
 
-You can install the [[messg-fbm|Conversational Integration with Facebook Messenger]] application \(sn\_va\_fb\_messenger\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Conversational Integration with Facebook Messenger application \(sn\_va\_fb\_messenger\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following applications or plugins are installed with Conversational Integrat
 
 -   **Conversational Custom Chat Integration \(com.glide.cs.custom.adapter\)**
 
-    Provides custom chat integration framework of scriptable APIs to enable the [[virtual-agent-landing-page|Virtual Agent]] application on any conversational interface.
+    Provides custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
     For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md).
 
@@ -60,7 +60,3 @@ The following applications or plugins are installed with Conversational Integrat
 
 **Parent Topic:**[Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md)
 
-## Related
-
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[virtual-agent-landing-page|Virtual Agent]]

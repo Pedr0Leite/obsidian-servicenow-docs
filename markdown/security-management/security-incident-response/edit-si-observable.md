@@ -14,7 +14,7 @@ breadcrumb: [Manage observables, Managing security incidents and inbound request
 
 # Edit a security incident observable list
 
-You can edit which [[c_Observables|observables]] in the list associated with a security incident to display.
+You can edit which observables in the list associated with a security incident to display.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: sn\_si.basic
 
 6.  Select **Save**.
 
-    **Note:** When you add an observable to the security incident, the system checks for any other configuration items or users associated with it. The **Related Configuration Items** and **Related Users** related list tabs are updated accordingly. Also, if the [[threat-intel-landing-page|Threat Intelligence]] plugin is activated, and you have at least one [Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md) integration implementation activated, the [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]] executes one or more workflows, and threat security lookups are performed on the observables you added. The results appear in the **[[tisc-threat-lookup|Threat Lookup]] Results** tab.
+    **Note:** When you add an observable to the security incident, the system checks for any other configuration items or users associated with it. The **Related Configuration Items** and **Related Users** related list tabs are updated accordingly. Also, if the Threat Intelligence plugin is activated, and you have at least one [Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md) integration implementation activated, the [Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md) executes one or more workflows, and threat security lookups are performed on the observables you added. The results appear in the **Threat Lookup Results** tab.
 
 
 **Related topics**  
@@ -46,9 +46,3 @@ Role required: sn\_si.basic
 
 [Create a security incident observable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-si-observable.md)
 
-## Related
-
-- [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-threat-lookup|Threat Lookup]]

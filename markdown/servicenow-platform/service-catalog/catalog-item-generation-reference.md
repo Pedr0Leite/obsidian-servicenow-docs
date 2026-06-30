@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in Catalog Builder, Service Catalog, Manage service capa
 
 # Catalog item generation reference
 
-[[reference|Reference]] topics provide additional information about configuration properties, roles, and more.
+Reference topics provide additional information about configuration properties, roles, and more.
 
 -   **[Now Assist: Location, catalog, category, and topic functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/setting-location-catalog-category-and-topic-with-now-assist.md)**  
 When creating or editing a catalog item, you can use plain language to assign values for catalog, category, or topic. If the value you provide matches an existing entry, Now Assist automatically applies it to the item. This streamlines the process and reduces manual data entry.
@@ -26,14 +26,9 @@ Now Assist can generate UI policies with multiple actions from simple natural la
 -   **[Suggestions to describe catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/how-to-describe-catalog-item.md)**  
 Now Assist uses the description that you write to generate a catalog item for you. If you're using Now Assist for creating a catalog item, use these suggestions to describe your catalog item.
 -   **[Catalog item generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-catalog-item-generation.md)**  
-Use the [[now-assist-catalog-item-generation|Catalog item generation]] skill to create catalog items of your choice using Now Assist.
+Use the Catalog item generation skill to create catalog items of your choice using Now Assist.
 -   **[Refine content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-refine-content.md)**  
-Use the [[now-assist-refine-content|refine content]] skill to shorten, elaborate, rephrase, or generate content in the fields by using Now Assist.
+Use the refine content skill to shorten, elaborate, rephrase, or generate content in the fields by using Now Assist.
 
 **Parent Topic:**[Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[now-assist-catalog-item-generation|Catalog item generation]]
-- [[now-assist-refine-content|Refine content]]

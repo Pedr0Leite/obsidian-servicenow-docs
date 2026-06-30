@@ -27,12 +27,12 @@ Role required: admin
 -   For the Requester Message without Agent Response event, the default length of time that elapses before an agent is sent a reminder is 30 minutes.
 -   For the Agent Message without Requester Response event, the default length of time that elapses before the conversation is set to the Closed Abandoned state is 2 days.
 
-    If you're using both [[virtual-agent-landing-page|Virtual Agent]] and Live Agent, the system closes an abandoned live conversation based on the lowest timeout value for closing conversations. Be aware that other conversation timeout behavior can affect idle live chat timeouts, regardless of the **Duration** and **Action** that you specify. For details, see [Closing Virtual Agent and Agent Chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-open-conversations.md).
+    If you're using both Virtual Agent and Live Agent, the system closes an abandoned live conversation based on the lowest timeout value for closing conversations. Be aware that other conversation timeout behavior can affect idle live chat timeouts, regardless of the **Duration** and **Action** that you specify. For details, see [Closing Virtual Agent and Agent Chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-open-conversations.md).
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Messaging** &gt; **Actions**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Messaging** &gt; **Actions**.
 
     -   To create a new messaging action, click **New**.
     -   To update an existing messaging action, click the messaging action.
@@ -119,7 +119,4 @@ State of the interaction. This field appears when you select **State** in the **
 </td></tr></tbody>
 </table>3.  Click **Submit** for a new messaging action or **Update** to modify an existing messaging action.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

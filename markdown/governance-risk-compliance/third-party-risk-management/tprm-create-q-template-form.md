@@ -14,7 +14,7 @@ breadcrumb: [Third-party \(external\) risk assessment management, Reference, Thi
 
 # Assessment metric type form
 
-Use the [[new-assessment-reference|assessment metric type form]] to capture all the information that you need to create a questionnaire template using the Third-party Risk Management application. As a third-party risk admin, you can create a questionnaire template.
+Use the assessment metric type form to capture all the information that you need to create a questionnaire template using the Third-party Risk Management application. As a third-party risk admin, you can create a questionnaire template.
 
 <table id="table_FloorForm"><thead><tr><th>
 
@@ -98,6 +98,3 @@ Option to pre-populate the questionnaire with responses from a completed questio
 
 [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md)
 
-## Related
-
-- [[new-assessment-reference|Assessment Metric Type form]]

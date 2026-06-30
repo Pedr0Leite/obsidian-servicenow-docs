@@ -35,7 +35,7 @@ Application, service, and software class instance CIs are not created through Di
 The CSDM Product Model Assignment job calls the CSDMModelUtil script. The script performs these actions for each instance of the supported CSDM classes that does not refer to a product model:
 
 1.  Create an application model, service model, or software model record with the same name as the CI. If the requisite info for generating the name value does not appear in the CI, the script uses the default value that you specified.
-2.  For the CI, add a [[reference|reference]] to the new product model in the **Model ID \[model\_id\]** field.
+2.  For the CI, add a reference to the new product model in the **Model ID \[model\_id\]** field.
 
 Operation of the script:
 
@@ -47,7 +47,7 @@ Operation of the script:
 
 1.  Specify the default name to use if the name / version values of a CI are insufficient to auto-generate the name for the new product model.
 
-    1.  Navigate to **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]** and then select **Open Hierarchy**.
+    1.  Navigate to **Configuration** &gt; **CI Class Manager** and then select **Open Hierarchy**.
 
     2.  Navigate to each of the supported classes in turn \(service instance, business service, and so on\).
 
@@ -77,7 +77,3 @@ Operation of the script:
 
 **Parent Topic:**['Foundation' stage reports on the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-datafdn-dash-foundation-tab.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

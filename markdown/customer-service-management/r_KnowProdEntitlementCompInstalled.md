@@ -12,11 +12,11 @@ breadcrumb: [Components installed with additional plugins for Customer Service M
 
 # Components installed with Knowledge Product Entitlements
 
-Several types of components are installed with the [[c_KnowledgeProductEntitlements|Knowledge Product Entitlements]] application.
+Several types of components are installed with the Knowledge Product Entitlements application.
 
 ## Business rules installed with Knowledge Product Entitlements
 
-Business [[gamification-components-rules|rules]] are added with activation of Knowledge Product Entitlements.
+Business rules are added with activation of Knowledge Product Entitlements.
 
 <table id="table_fgq_n12_z5"><thead><tr><th>
 
@@ -117,8 +117,3 @@ Allow access to Knowledge Articles with empty **Related Products** field. If ena
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_KnowledgeProductEntitlements|Knowledge product entitlements]]
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring shifts for your workplace, Manage workplace safety acti
 
 # Associate areas and spaces with a shift
 
-Associate work areas and spaces with a shift in [[workplace-safety-mgmt-hr|Workplace Core]] so that they are available only for that shift. Workplace managers can later reserve these workplaces for employees operating in that shift.
+Associate work areas and spaces with a shift in Workplace Core so that they are available only for that shift. Workplace managers can later reserve these workplaces for employees operating in that shift.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configuring-shifts-for-your-workplace-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

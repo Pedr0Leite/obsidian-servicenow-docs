@@ -14,9 +14,9 @@ breadcrumb: [Explore, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Common Architecture
 
-The Supplier Common Architecture application \(com.snc.sn\_slm\) contains tables of the [[supplier-case-management|Supplier Case Management]] application that can be commonly used and extended by other products. The Supplier Common Architecture application also contains the roles required for the Supplier Case Management application.
+The Supplier Common Architecture application \(com.snc.sn\_slm\) contains tables of the Supplier Case Management application that can be commonly used and extended by other products. The Supplier Common Architecture application also contains the roles required for the Supplier Case Management application.
 
-The Supplier Case Management application and the [[supplier-central|Supplier Collaboration Portal]] have a dependency on the Supplier Common Architecture application.
+The Supplier Case Management application and the Supplier Collaboration Portal have a dependency on the Supplier Common Architecture application.
 
 Supplier Common Architecture is automatically installed when you install either the Supplier Case Management application or the Supplier Collaboration Portal.
 
@@ -36,7 +36,3 @@ Supplier Common Architecture installs the following dependent plugins:
 
 [Supplier Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-operations.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-central|Supplier Collaboration Portal]]

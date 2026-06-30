@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Configuring Agent Client Collector with a MID Server
 
-Configure the [[acc-landing-page|Agent Client Collector]] with a MID Server to enable communication between network servers and the ServiceNow instance.
+Configure the Agent Client Collector with a MID Server to enable communication between network servers and the ServiceNow instance.
 
 -   **[Configure an Agent Client Collector with a MID Server using a single-line command](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-acc-with-mid.md)**  
 Use a single-line command to set up an Agent Client Collector with a MID Server. You can also use the single-line command to migrate agents with MID-less configuration to be used with a MID Server.
@@ -25,15 +25,9 @@ Configure a websocket to enable the endpoint to provide web access from the MID 
 -   **[Configure the frequency of updating the agent MID Server list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-update-mid-server-list.md)**  
 By default, the list of MID servers connected to agents is updated once daily. If you have a dynamic environment that adds MID servers frequently, you may want to schedule updates more often, or execute the job on demand.
 -   **[Enable Agent Client Collector monitoring on the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-setup.md)**  
-[[acc-monitoring-setup|Enable Agent Client Collector monitoring on the MID Server]] by configuring the Agent Client Collector framework \(ACC-F\) and [[operational-metrics|Metric Intelligence]] extensions in a single action. Enabling [[acc-monitoring-landing-page|Agent Client Collector monitoring]] also enables monitoring on agents connected to the MID Server.
+Enable Agent Client Collector monitoring on the MID Server by configuring the Agent Client Collector framework \(ACC-F\) and Metric Intelligence extensions in a single action. Enabling Agent Client Collector monitoring also enables monitoring on agents connected to the MID Server.
 -   **[Automatic MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-auto-mid-selection.md)**  
 Automatic selection of MID Servers ensures that each agent uses the most efficient available MID Server.
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-setup|Enable Agent Client Collector monitoring on the MID Server]]
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]

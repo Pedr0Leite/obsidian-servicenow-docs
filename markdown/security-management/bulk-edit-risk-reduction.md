@@ -27,8 +27,5 @@ Work notes added during the bulk edit are recorded on the Remediation Task and r
 
 The bulk edit action applies only to items in an **Open**, **Under Investigation**, or **Awaiting Review** state. Items in other states are excluded from the update regardless of their selection status.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]

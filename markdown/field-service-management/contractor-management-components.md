@@ -18,7 +18,7 @@ Contractor Management adds the Outsourced Field Service menu to the application 
 
 -   **My Outsourced Service providers**: Use this module to view the list of onboarded contractor companies and its external workforce managed by the logged-in user.
 -   **Outsourced Service Providers**: Use this module to view the list of all the contractor companies, onboard contractor companies and their external workforce, and create groups.
--   **Field Service**: Use this module to view a list of activities associated with [[fsm-application-landing-page|Field Service Management]] and managed by an internal contractor manager. This list includes the work order tasks assigned to external agents, personal stockrooms of external agents and managers, stockrooms based on the associated external groups, and groups created for contractor companies.
+-   **Field Service**: Use this module to view a list of activities associated with Field Service Management and managed by an internal contractor manager. This list includes the work order tasks assigned to external agents, personal stockrooms of external agents and managers, stockrooms based on the associated external groups, and groups created for contractor companies.
 
 ## Roles
 
@@ -97,9 +97,5 @@ Distance between task and contractorsMatching skills of contractors
 Only eligible for external contractor assignment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

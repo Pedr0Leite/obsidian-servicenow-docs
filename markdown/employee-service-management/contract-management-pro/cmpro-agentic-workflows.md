@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in CM Pro, Contract Management Pro, Legal and Contract O
 
 # Using agentic workflows in Now Assist in Contract Management
 
-Use agentic workflows in [[cncore-cmpro-landing-page|Contract Management Pro]] to extract metadata and obligations from signed contracts, and set reminders for contract renewals or termination.
+Use agentic workflows in Contract Management Pro to extract metadata and obligations from signed contracts, and set reminders for contract renewals or termination.
 
 <table id="table_dxr_mb1_v2c"><thead><tr><th>
 
@@ -35,7 +35,7 @@ Manage contract repository
 
 </td><td>
 
-Uses an AI agent to extract key metadata and obligations from a signed contract, and calculate the contract reminder date by analyzing the contract end date, auto-renewal clause, and notice period for contract renewal or termination. The playbook in the contract record enables users to review AI extracted metadata and obligations to update the contract repository with extracted metadata, and [[cncore-create-obligations|create obligation records]], respectively. Users can also set reminders for contract renewal or termination.**Note:** The agentic workflow is triggered in the Now Assist panel. It is not supported in the Virtual Agent panel.
+Uses an AI agent to extract key metadata and obligations from a signed contract, and calculate the contract reminder date by analyzing the contract end date, auto-renewal clause, and notice period for contract renewal or termination. The playbook in the contract record enables users to review AI extracted metadata and obligations to update the contract repository with extracted metadata, and create obligation records, respectively. Users can also set reminders for contract renewal or termination.**Note:** The agentic workflow is triggered in the Now Assist panel. It is not supported in the Virtual Agent panel.
 
 </td><td>
 
@@ -52,14 +52,9 @@ To modify an agentic workflow, you must first duplicate it, and then update it. 
 
 **Note:** When you modify an agentic workflow, AI agents, or tools, make sure that you update all instructions accordingly.
 
-If you have customized the [[cmpro-na-reminder-agentic-wf|manage contract repository agentic workflow]], [update the script include to run it autonomously.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md)
+If you have customized the manage contract repository agentic workflow, [update the script include to run it autonomously.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md)
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-create-obligations|Create obligation records]]
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]

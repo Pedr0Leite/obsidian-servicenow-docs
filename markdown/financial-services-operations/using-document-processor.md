@@ -12,7 +12,7 @@ breadcrumb: [Document Processor, Integrate, Financial Services Operations \(FSO\
 
 # Using Document Processor
 
-Learn how document collectors and document agents use the [[fso-overview|Financial Services]] Document Processor application to submit and approve or reject documents for verification.
+Learn how document collectors and document agents use the Financial Services Document Processor application to submit and approve or reject documents for verification.
 
 Document collectors and document agents use a personalized Workspace to work on the following aspects of document processing.
 
@@ -20,7 +20,7 @@ Document collectors and document agents use a personalized Workspace to work on 
 -   Use Document Intelligence to quickly and accurately extract and process document information
 -   Approve and reject documents needing verification
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 |User|Description|
 |----|-----------|
@@ -33,10 +33,5 @@ Several predefined workflows for Document Processor are available with the appli
 
 When a customer requests a financial service, a service case is created and assigned to an agent. After the agent updates the case details, a workflow is triggered. The flow triggers various tasks from the case and route these tasks to document service.
 
-For more information, see [[document-processor-workflows|Document Processor workflows]].
+For more information, see [Document Processor workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/document-processor-workflows.md).
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[document-processor-workflows|Document Processor workflows]]
-- [[fso-overview|Financial Services]]

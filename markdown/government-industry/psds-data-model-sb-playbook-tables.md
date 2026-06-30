@@ -137,8 +137,5 @@ Tracks individual social benefit items received by constituents, noting benefit 
 Install Base Item \(sn\_install\_base\_item\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-data-model-sb-playbook|Public Sector Digital Services Social Benefits Data Model]]
+</table>**Parent Topic:**[Public Sector Digital Services Social Benefits Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-sb-playbook.md)
 
-## Related
-
-- [[psds-data-model-sb-playbook|Public Sector Digital Services Social Benefits Data Model]]

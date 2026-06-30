@@ -22,11 +22,11 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 ## About this task
 
-As part of an assessment, the TPR manager can send multiple questionnaires and document requests by using [[airc-assessment-templates|assessment templates]]. The TPR admin first defines the required questionnaire templates and document request templates and then the TPR managers groups them into an assessment template. The TPR manager can use the resulting assessment template to send the appropriate questionnaires, document requests, or both in future assessments.
+As part of an assessment, the TPR manager can send multiple questionnaires and document requests by using assessment templates. The TPR admin first defines the required questionnaire templates and document request templates and then the TPR managers groups them into an assessment template. The TPR manager can use the resulting assessment template to send the appropriate questionnaires, document requests, or both in future assessments.
 
 **Note:**
 
-When you create a new assessment template and have the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] property enabled, the Supports smart assessment option is selected by default after saving the template.
+When you create a new assessment template and have the Smart Assessment Engine property enabled, the Supports smart assessment option is selected by default after saving the template.
 
 For existing assessments, the Supports smart assessment option is set automatically when all Classic engine templates have been removed. You can add associated questionnaire and document request templates that have been migrated to and published in the Smart Assessment Engine.
 
@@ -119,7 +119,3 @@ In the Vendor Management Workspace, navigate to the SAE Document request templat
 
 [Create a TPRM SAE questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-sae-q-template.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

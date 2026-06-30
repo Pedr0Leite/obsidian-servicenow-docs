@@ -14,7 +14,7 @@ breadcrumb: [Set up advisor, Use HAM advisor, Asset and CI management, Explore, 
 
 # Manage HAM advisor scope in CMDB success advisor
 
-Manage the scope of your advisor for [[ham-landing-page|Hardware Asset Management]] \(HAM\) by editing [[model-hierarchy|model categories]] in CMDB success advisor to support your targeted HAM outcomes.
+Manage the scope of your advisor for Hardware Asset Management \(HAM\) by editing model categories in CMDB success advisor to support your targeted HAM outcomes.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Control which resource and model categories are included in your HAM advisor das
 
 ## Procedure
 
-1.  On the HAM advisor dashboard, select **[[t_EditingModelCategories|Edit model categories]]**.
+1.  On the HAM advisor dashboard, select **Edit model categories**.
 
 2.  In the Edit model categories dialog box, add or remove categories to update your model category selection.
 
@@ -45,8 +45,3 @@ Control which resource and model categories are included in your HAM advisor das
 
 The HAM dashboard in CMDB success advisor is updated to reflect the data based on the model category selection.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[t_EditingModelCategories|Edit model categories]]

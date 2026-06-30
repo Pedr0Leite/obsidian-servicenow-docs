@@ -39,7 +39,7 @@ Work Set Standard Author
 
 </td><td>
 
-Can create, update, and publish [[work-set-standards|work set standards]] and sub-activities.
+Can create, update, and publish work set standards and sub-activities.
 
 </td><td>
 
@@ -90,6 +90,3 @@ Can execute work set tasks and the child tasks and actions that they generate.
 
 [Work set standard and task life cycles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-standard-task-life-cycle.md)
 
-## Related
-
-- [[work-set-standards|Work set standards]]

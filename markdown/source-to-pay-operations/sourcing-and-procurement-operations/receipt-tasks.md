@@ -16,11 +16,11 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 Receipt tasks are created when goods receipt is required for the purchase line.
 
-A receipt task references a [[purchase-order-table|purchase order]] and is grouped by the recipient and the calendar month of the product's expected delivery date. A receipt task is created only during the month of the expected delivery date, irrespective of the purchase order creation date, and remains open until all the expected deliveries for the recipient in a calendar month are confirmed. This is done using the \[PSM\] Create Receiving Task scheduled job.
+A receipt task references a purchase order and is grouped by the recipient and the calendar month of the product's expected delivery date. A receipt task is created only during the month of the expected delivery date, irrespective of the purchase order creation date, and remains open until all the expected deliveries for the recipient in a calendar month are confirmed. This is done using the \[PSM\] Create Receiving Task scheduled job.
 
 Consider the following example:
 
-The current month is September 2020, and for a purchase order, there are five [[purchase-order-lines|purchase order lines]]:
+The current month is September 2020, and for a purchase order, there are five purchase order lines:
 
 |Purchase order line|Expected delivery date|Recipient|
 |-------------------|----------------------|---------|
@@ -36,7 +36,7 @@ On the purchase order, three receipt tasks are created as follows:
 -   Receipt task 2, associated to purchase order line 3 and 5, is created on October 1, 2020, with the state **Open**.
 -   Receipt task 3, associated to purchase order line 4, is created on September 1, 2020, with the state **Open**.
 
-You can view all receipt tasks from the **Receipt Acknowledgment** sub-module under the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module. The following are the key fields of a receipt task:
+You can view all receipt tasks from the **Receipt Acknowledgment** sub-module under the Sourcing and Purchasing Automation module. The following are the key fields of a receipt task:
 
 <table id="table_icy_vyy_hlb"><thead><tr><th>
 
@@ -68,7 +68,7 @@ Primary contact
 
 </td><td>
 
-Person within the procurement team who can be contacted with questions about [[receipts|receipts]], [[milestones|milestones]], [[invoices|invoices]], or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For a receipt or acknowledgment task, from the referenced purchase order.
+Person within the procurement team who can be contacted with questions about receipts, milestones, invoices, or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For a receipt or acknowledgment task, from the referenced purchase order.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Short description
 
 </td><td>
 
-Brief description of the receipt task. This description is dynamically populated based on whether there are one or multiple products to be received from the [[supplier|supplier]].
+Brief description of the receipt task. This description is dynamically populated based on whether there are one or multiple products to be received from the supplier.
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ List of all the receipts for this task.This list is populated when the shipment 
 
 </td></tr><tr><td>
 
-[[shipment-details|Shipment details]]
+Shipment details
 
 </td><td>
 
@@ -178,13 +178,3 @@ List of all the shipment tracking numbers for this receipt task.For more details
 </td></tr></tbody>
 </table>**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[receipts|Receipts]]
-- [[milestones|Milestones]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[shipment-details|Shipment details]]

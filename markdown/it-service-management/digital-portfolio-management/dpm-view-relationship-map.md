@@ -14,7 +14,7 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # View relationship maps in Digital Portfolio Management
 
-View a relationship map in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to see all relationships that make up a given solution. DPM uses the ServiceNow Unified Map to display a graphical hierarchical map based on the CMDB.
+View a relationship map in Digital Portfolio Management \(DPM\) to see all relationships that make up a given solution. DPM uses the ServiceNow Unified Map to display a graphical hierarchical map based on the CMDB.
 
 ## Access a relationship map
 
@@ -38,6 +38,3 @@ On the map page, use the panels for more information about the mapped solutions.
 
 **Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Network topology, Network visualization view, Use, Telecommunicatio
 
 # Viewing a network topology
 
-View the details of a [[using-network-topology|network topology]] and visualize how the network elements are organized and connected to one another. You can understand the detailed overview of the network infrastructure of the topology in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+View the details of a network topology and visualize how the network elements are organized and connected to one another. You can understand the detailed overview of the network infrastructure of the topology in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the blue hub icon \[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon..
 
@@ -41,8 +41,3 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 **Parent Topic:**[Network topology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-topology.md)
 
-## Related
-
-- [[using-network-topology|Network topology]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

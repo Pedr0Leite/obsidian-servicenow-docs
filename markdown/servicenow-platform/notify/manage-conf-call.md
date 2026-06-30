@@ -18,7 +18,7 @@ Add and manage multiple participants on the conference including self-joining in
 
 ## Before you begin
 
--   Role required: [[notify-landing-page|notify]]\_view, itil, itil\_admin, or notify\_setup\_admin
+-   Role required: notify\_view, itil, itil\_admin, or notify\_setup\_admin
 -   A conference call is already initiated.
 
 ## About this task
@@ -53,6 +53,3 @@ The **Manage Conference Calls** UI action is available for any table that extend
 
 [Send an SMS alert from a task]()
 
-## Related
-
-- [[notify-landing-page|Notify]]

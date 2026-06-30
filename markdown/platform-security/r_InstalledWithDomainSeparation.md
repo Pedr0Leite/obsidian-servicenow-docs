@@ -59,8 +59,8 @@ MSP Extensions add several new default options to the type field of the Group ta
 |Name|Table|Description|
 |----|-----|-----------|
 |Domain - Activate/Deactivate|core\_company|Activates the related domain if at least one of its companies is active. Deactivates the related domain if all related companies are inactive.|
-|Domain - Cascade Company|core\_company|Keeps a company's domain in sync with its [[users|users]], groups, departments, and locations.|
-|Domain - Cascade Domain - Email|sys\_email|Keeps an [[email|email]]'s domain in sync with its attachments.|
+|Domain - Cascade Company|core\_company|Keeps a company's domain in sync with its users, groups, departments, and locations.|
+|Domain - Cascade Domain - Email|sys\_email|Keeps an email's domain in sync with its attachments.|
 |Domain - Cascade Domain - Group|sys\_user\_group|Keeps a group's domain in sync with its inherited roles \(sys\_group\_has\_role records\).|
 |Domain - Cascade Domain - Knowledge|kb\_knowledge|keeps a knowledge article's domain in sync with its related feedback.|
 |Domain - Cascade Domain - Task|task|Keeps the domain in sync with related tasks for wf\_context, wf\_executing, wf\_history, attachments, emails, task\_sla and its workflow, sysapproval\_approver and its workflow, and sysapproval\_group and its workflow.|
@@ -93,13 +93,13 @@ MSP Extensions add several new default options to the type field of the Group ta
 |Domain - Set Domain - WF Activity Hist|wf\_history|Sets the workflow activity history domain based on the parent workflow context's domain.|
 |Domain - Set Domain - WF Context|wf\_context|Sets the workflow context domain based on the referenced record's domain, if it has one.|
 |Domain - Set Domain - WF Exec Activity|wf\_executing|Sets the workflow executing activity domain based on the parent workflow context's domain.|
-|Domain - Set task for - Change|change-request|When converting a ticket to a change [[c_requestAPI|request]], sets the Requested by field to the ticket's Task for value.|
+|Domain - Set task for - Change|change-request|When converting a ticket to a change request, sets the Requested by field to the ticket's Task for value.|
 |Domain - Set task for - Incident|incident|When converting a ticket to an incident, sets the Caller field to the ticket's Task for value.|
 |Domain - Validate Default|domain|Ensures only one domain has the Default check box selected.|
 |Domain - Validate Primary|domain|Ensures only one domain has the Primary check box selected.|
 |Business Rules Installed with Domain Support Plugin|
 |Change Domain Set|sys\_dictionary|Sets the domain set to the current domain.|
-|Domain support properties|sys\_properties|Sets the [[ca-system-properties|system properties]] to match the domain query method \(domain paths or domain numbering\).|
+|Domain support properties|sys\_properties|Sets the system properties to match the domain query method \(domain paths or domain numbering\).|
 
 ## Client scripts
 
@@ -109,7 +109,7 @@ MSP Extensions add several new default options to the type field of the Group ta
 |Deactivated script|
 |\(BP\) Set Location to User|Monitors the incident location field and sets the location field to the caller's location.|
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -124,13 +124,5 @@ MSP Extensions add several new default options to the type field of the Group ta
 
 [Concepts for service providers]()
 
-[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-## Related
-
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[email|Email]]
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]

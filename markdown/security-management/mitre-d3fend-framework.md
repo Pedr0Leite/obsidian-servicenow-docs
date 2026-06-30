@@ -31,7 +31,7 @@ Over 200 standardized defensive techniques organized hierarchically with parent 
 Seven high-level tactical categories organize defensive techniques:
 
 -   Model: Understand the system and its behavior
--   Harden: Reduce attack surface and [[vulnerabilities|vulnerabilities]]
+-   Harden: Reduce attack surface and vulnerabilities
 -   Detect: Identify malicious activity
 -   Isolate: Contain threats and limit damage
 -   Deceive: Entice, and allow potential attackers access to an observed/ controlled environment
@@ -48,15 +48,10 @@ Bidirectional mappings between D3FEND defensive techniques and ATT&amp;CK offens
 
 ## Integration with Threat Intelligence
 
-The ServiceNow [[threat-intel-landing-page|Threat Intelligence]] application integrates D3FEND to provide:
+The ServiceNow Threat Intelligence application integrates D3FEND to provide:
 
 -   Automatic ingestion of D3FEND techniques, tactics, and artifacts via API
--   Bidirectional [[mapping-logrhythm|mapping]] between D3FEND defensive and ATT&amp;CK offensive techniques
+-   Bidirectional mapping between D3FEND defensive and ATT&amp;CK offensive techniques
 -   Coverage analysis showing defensive posture against ATT&amp;CK techniques
 -   Task tracking for implementing defensive countermeasures
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[mapping-logrhythm|Mapping]]

@@ -13,19 +13,19 @@ breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
 
 # Install Vault Suite
 
-Use [[vault-suite|Vault Suite]] to deploy [[servicenow-vault-landing|ServiceNow Vault]] and its underlying plugins in a single step, without configuring each plugin separately.
+Use Vault Suite to deploy ServiceNow Vault and its underlying plugins in a single step, without configuring each plugin separately.
 
 ## Before you begin
 
-Your instance must have a ServiceNow Vault entitlement. Without an entitlement, the underlying plugins remain inactive after installation and the tool cards on the [[vault-dashboard|ServiceNow Vault console dashboard]] appear as inactive.
+Your instance must have a ServiceNow Vault entitlement. Without an entitlement, the underlying plugins remain inactive after installation and the tool cards on the [ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md) appear as inactive.
 
 Role required: admin
 
 ## About this task
 
-Vault Suite includes ServiceNow Vault and its premium plugins, including [[data-privacy-landing|Data Privacy]], Log [[export|Export]] Service, Zero Trust Access, [[field-encryption|Field Encryption]], and [[code-signing-landing|Code Signing]]. Installing Vault Suite activates all included plugins together.
+Vault Suite includes ServiceNow Vault and its premium plugins, including Data Privacy, Log Export Service, Zero Trust Access, Field Encryption, and Code Signing. Installing Vault Suite activates all included plugins together.
 
-**Note:** If ServiceNow Vault is already installed on your instance, installing Vault Suite adds the remaining plugins without affecting your existing ServiceNow Vault [[sc-configuration|configuration]].
+**Note:** If ServiceNow Vault is already installed on your instance, installing Vault Suite adds the remaining plugins without affecting your existing ServiceNow Vault configuration.
 
 ## Procedure
 
@@ -49,17 +49,5 @@ Vault Suite and the following premium plugins are installed on your instance:
 
 ## What to do next
 
-Navigate to the [ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md) to confirm that the tool cards are enabled. On Vault Console 2.1 or later, if your instance doesn't already have [[ca-policies|policies]] or configurations for Anonymization and Log Export Service, then ServiceNow Vault can apply ready-to-use defaults to help you get started. For more information, see [[vault-default-policies-configs|Default policies and configurations in ServiceNow Vault]].
+Navigate to the [ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md) to confirm that the tool cards are enabled. On Vault Console 2.1 or later, if your instance doesn't already have policies or configurations for Anonymization and Log Export Service, then ServiceNow Vault can apply ready-to-use defaults to help you get started. For more information, see [Default policies and configurations in ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-default-policies-configs.md).
 
-## Related
-
-- [[vault-dashboard|ServiceNow Vault console dashboard]]
-- [[vault-default-policies-configs|Default policies and configurations in ServiceNow Vault]]
-- [[vault-suite|Vault Suite]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[data-privacy-landing|Data Privacy]]
-- [[export|Export]]
-- [[field-encryption|Field Encryption]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]

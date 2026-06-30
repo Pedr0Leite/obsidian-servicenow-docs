@@ -14,7 +14,7 @@ breadcrumb: [Business roles, Lifecyle events for enterprise, Employee Journey Ma
 
 # Update the assign\_business\_roles\_catalog system property
 
-The **assign\_business\_roles\_catalog** system property enables you to assign [[business-roles|business roles]] to users through a catalog item as part of a lifecycle event, and is included with the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin. If you are using a custom catalog item with your lifecycle event, you must update the system property with the sys id of that item.
+The **assign\_business\_roles\_catalog** system property enables you to assign business roles to users through a catalog item as part of a lifecycle event, and is included with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin. If you are using a custom catalog item with your lifecycle event, you must update the system property with the sys id of that item.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ Role required: sn\_hr\_le\_ent.admin
 
 **Parent Topic:**[Business roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/business-roles.md)
 
-## Related
-
-- [[business-roles|Business roles]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

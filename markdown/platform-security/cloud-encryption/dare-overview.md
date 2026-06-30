@@ -42,9 +42,9 @@ The Cloud Encryption Key Management module consists of the following submodules:
     Use your own customer-managed key for encryption.
 
 
-In certain circumstances, you may opt for a key withdrawal [[c_requestAPI|request]] when using a customer-managed key. To do so, you must license the Cloud Encryption Withdraw and Resupply optional add-on SKU and then request the key withdrawal functionality be activated by a Customer Service and Support team member.
+In certain circumstances, you may opt for a key withdrawal request when using a customer-managed key. To do so, you must license the Cloud Encryption Withdraw and Resupply optional add-on SKU and then request the key withdrawal functionality be activated by a Customer Service and Support team member.
 
-The [[quorum-ctrl-policy|Quorum Control Policy]] Settings option becomes available when the withdrawal feature is activated, otherwise the module isn’t visible on the menu. This feature can be activated only when using customer-managed keys. This policy enables settings to be configured regarding quorum when the withdrawal feature is activated. For more details on this feature, see [Quorum Control Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-policy.md).
+The Quorum Control Policy Settings option becomes available when the withdrawal feature is activated, otherwise the module isn’t visible on the menu. This feature can be activated only when using customer-managed keys. This policy enables settings to be configured regarding quorum when the withdrawal feature is activated. For more details on this feature, see [Quorum Control Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-policy.md).
 
 Cloud Encryption supports production and non-production instances for MariaDB and RaptorDB databases. Cloud Encryption is supported in the ServiceNow Commercial Cloud, Government Customer Cloud \(GCC\) pod 101, and ServiceNow Protected Platform – Australia \(SPP-AU\).
 
@@ -60,26 +60,18 @@ For licensed customers with existing instances, to request an instance be moved 
 
 When Cloud Encryption is enabled, the Cloud Encryption user interface \(UI\) is visible to the security\_admin user when this user has the sn\_kmf.admin role.
 
-To access the Cloud Encryption UI by searching for **Cloud Encryption Key Management** in the navigation bar. Navigate to the **[[key-mgmt-operations-ce|Key Management Operations]]** section to see information about encryption keys, such as details of the active key, and whether Cloud Encryption is enabled for the instance.
+To access the Cloud Encryption UI by searching for **Cloud Encryption Key Management** in the navigation bar. Navigate to the **Key Management Operations** section to see information about encryption keys, such as details of the active key, and whether Cloud Encryption is enabled for the instance.
 
 -   **[Key management operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-operations-ce.md)**  
 The Key Management Operations submodule provides access to view and manage all encryption keys used with ServiceNow Cloud Encryption.
 -   **[Quorum Control Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-policy.md)**  
 The Quorum Control Policy specifies the minimum number of approvals required among the total number of selected approvers to reach quorum for customer managed key withdrawal.
 -   **[Key management transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-transactions-ce.md)**  
-The [[key-mgmt-transactions-ce|Key Management Transactions]] submodule displays all transactions that have occurred for the keys in your ServiceNow instance.
+The Key Management Transactions submodule displays all transactions that have occurred for the keys in your ServiceNow instance.
 -   **[Cloud Encryption logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-logging.md)**  
 Learn about logging options for Cloud Encryption.
 -   **[Tamper Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/tamper-detect.md)**  
-Use [[tamper-detect|tamper detection]] to improve security by detecting unauthorized changes to your quorum control settings.
+Use tamper detection to improve security by detecting unauthorized changes to your quorum control settings.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[quorum-ctrl-policy|Quorum Control Policy]]
-- [[key-mgmt-operations-ce|Key management operations]]
-- [[key-mgmt-transactions-ce|Key management transactions]]
-- [[tamper-detect|Tamper Detection]]

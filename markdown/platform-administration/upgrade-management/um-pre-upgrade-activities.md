@@ -18,7 +18,7 @@ Complete the pre-upgrade tasks for a successful upgrade experience on your insta
 
 ## Before you begin
 
-**Note:** For each step, you will have the option to either skip the step or mark complete and only then move to the next [[um-guided-tour|guided upgrade]] step.
+**Note:** For each step, you will have the option to either skip the step or mark complete and only then move to the next guided upgrade step.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Role required: admin
 
     **Note:** This step is visible only if you are in a non-production instance.
 
-2.  [[t_StartAClone|Request a clone]].
+2.  Request a clone.
 
     **Note:** This step is visible only if you are in a non-production instance. It is recommended to clone the production instance to non-production instance. Select **Request clone** to configure the source and target instances.
 
@@ -61,7 +61,7 @@ Role required: admin
 
     -   You will be redirected to the Cloning tool to initiate the cloning process.
     -   The Cloning tool guides you through the cloning process of your production instance.
-    -   You will be reminded to ensure to back up the update sets before starting the cloning process to save any changes and [[clone-configurations-tab|configurations]].
+    -   You will be reminded to ensure to back up the update sets before starting the cloning process to save any changes and configurations.
 3.  Choose an upgrade plan.
 
     There are two options to choose your upgrade plan.
@@ -273,8 +273,3 @@ Role required: admin
 
 [Implement post-upgrade activities on a non-prod instance]()
 
-## Related
-
-- [[um-guided-tour|Guided upgrade]]
-- [[t_StartAClone|Request a clone]]
-- [[clone-configurations-tab|Configurations]]

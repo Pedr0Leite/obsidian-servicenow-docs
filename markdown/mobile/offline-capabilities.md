@@ -56,7 +56,7 @@ Mobile application
 
 </td><td>
 
-[[now-mobile-app|Now Mobile app]], [[mobile-experience|Mobile Agent app]], Custom app, and Mobile Publishing
+Now Mobile app, Mobile Agent app, Custom app, and Mobile Publishing
 
 </td><td>
 
@@ -198,7 +198,7 @@ Screen
 
 </td><td>
 
-[[form-screen|Record screen]]
+Record screen
 
 </td><td>
 
@@ -214,7 +214,7 @@ n/a
 
 </td><td>
 
-Not all record screen segments are supported. For a list, see [[screens-offline|Supported screens for offline mode]].
+Not all record screen segments are supported. For a list, see [Supported screens for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/screens-offline.md).
 
 </td><td>
 
@@ -312,7 +312,7 @@ Screen
 
 </td><td>
 
-[[map-screen|Map screen]]
+Map screen
 
 </td><td>
 
@@ -342,7 +342,7 @@ Screen
 
 </td><td>
 
-[[list-screen|List screen]], [[calendar-screen|calendar screen]]
+List screen, calendar screen
 
 </td><td>
 
@@ -370,7 +370,7 @@ Screen
 
 </td><td>
 
-[[chart-screen|Chart screen]], [[url-screen|mobile web screen]]
+Chart screen, mobile web screen
 
 </td><td>
 
@@ -448,7 +448,7 @@ Dedicated offline data item, pre-cached before device download.
 
 </td><td>
 
-Record data [[sg-mobile-security-retrieval|retrieval]]
+Record data retrieval
 
 </td></tr><tr><td>
 
@@ -476,7 +476,7 @@ Videos not supported.
 
 </td><td>
 
-UI components used to display a compact summary of a record or information block in a visually structured way inside [[mobile-screens-landing|mobile screens]]. Mobile cards are commonly implemented in list screen and home tab sections.
+UI components used to display a compact summary of a record or information block in a visually structured way inside mobile screens. Mobile cards are commonly implemented in list screen and home tab sections.
 
 </td></tr><tr><td>
 
@@ -906,7 +906,7 @@ Action dialog
 
 </td><td>
 
-[[mobile_popups|Mobile pop-ups]]
+Mobile pop-ups
 
 </td><td>
 
@@ -985,20 +985,5 @@ n/a
 ServiceNow Sidebar is a real-time, record-based collaboration tool that allows agents to privately chat and share knowledge with subject matter experts to quickly resolve tasks, cases, and incidents.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mobile-offline-mode|Offline mode]]
+</table>**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md)
 
-## Related
-
-- [[screens-offline|Supported screens for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-experience|Mobile Agent app]]
-- [[form-screen|Record screen]]
-- [[map-screen|Map screen]]
-- [[list-screen|List screen]]
-- [[calendar-screen|Calendar screen]]
-- [[chart-screen|Chart screen]]
-- [[url-screen|Mobile web screen]]
-- [[sg-mobile-security-retrieval|Retrieval]]
-- [[mobile-screens-landing|Mobile screens]]
-- [[mobile_popups|Mobile pop-ups]]

@@ -12,11 +12,11 @@ breadcrumb: [Record screen, Mobile screen types, Mobile screens, Mobile app comp
 
 # Configure a record UI section for a record screen
 
-Enrich your [[form-screen|record screen]] with the addition of record UI sections displayed in a card format. This capability presents content and users can trigger actions without the need to navigate to an additional [[list-screen|list screen]].
+Enrich your record screen with the addition of record UI sections displayed in a card format. This capability presents content and users can trigger actions without the need to navigate to an additional list screen.
 
 ## Before you begin
 
-At least one pre-configured record UI section must be created. For more information, see [[sg-ui-section-config-item|Configure a record UI section]].
+At least one pre-configured record UI section must be created. For more information, see [Configure a record UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 Role required: admin
 
@@ -35,7 +35,7 @@ Role required: admin
 
             **Note:** The icon selected is not displayed in this configuration.
 
-        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [[applet-fetch-types|Mobile fetch types]].
+        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [Mobile fetch types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/applet-fetch-types.md).
     4.  Right-click in the header and select **Save**.
 
 2.  Add record UI sections to the selected section screen.
@@ -81,9 +81,4 @@ Role required: admin
         3.  **Order**: Enter a number to define where to display the tab in the record screen.
     7.  Select **Submit**.
 
-## Related
 
-- [[sg-ui-section-config-item|Configure a record UI section]]
-- [[applet-fetch-types|Mobile fetch types]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

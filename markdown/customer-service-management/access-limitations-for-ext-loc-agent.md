@@ -188,7 +188,7 @@ Supported
 
 </td></tr><tr><td>
 
-[[product-models|Product Models]]
+Product Models
 
 </td><td>
 
@@ -228,7 +228,7 @@ Overview
 
 </td></tr><tr><td>
 
-[[c_OnScreenAlerts|Special Handling Notes]]
+Special Handling Notes
 
 </td><td>
 
@@ -356,7 +356,7 @@ Workspaces
 
 </td><td>
 
-[[csm-workspaces-configure|CSM Configurable Workspace]]
+CSM Configurable Workspace
 
 </td><td>
 
@@ -371,23 +371,13 @@ Unsupported**Note:** All aspects of the workspace experience remain inaccessible
 However, with an external business location as a fulfiller, the external location agents can:
 
 -   Access Service Model Foundation data, such as internal business location, external business location, service organization members, and responsibilities, on the platform.
--   Access customer foundation data, including accounts, contacts, [[sold-product|sold products]], and [[install-base-item|install base items]] on the platform.
--   Access the [[r_CustomerServiceCaseForm|case form]] on the platform.
+-   Access customer foundation data, including accounts, contacts, sold products, and install base items on the platform.
+-   Access the case form on the platform.
 -   Self-assign and start working on a case.
 -   View related search results.
 -   Add comments or work notes.
--   View the [[csm-config-ws-activity-stream|activity stream]], work notes, and case timelines.
+-   View the activity stream, work notes, and case timelines.
 -   Add resolution notes, propose a solution, and close the case.
 -   Create and update case tasks.
--   View [[csm-service-definitions|service definitions]].
+-   View service definitions.
 
-## Related
-
-- [[product-models|Product models]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-service-definitions|Service definitions]]

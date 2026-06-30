@@ -14,7 +14,7 @@ breadcrumb: [Document Management in Workspace, Use, Document Management, Documen
 
 # Manage document versions in external cloud
 
-Manage [[document-mgt-versions|document versions]] from external cloud directly in the record within the workspace.
+Manage document versions from external cloud directly in the record within the workspace.
 
 ## About this task
 
@@ -46,7 +46,7 @@ Role required: none
 
     4.  Select **Attach** to attach a new document version.
 
-    5.  If you want to link the URL, select the **Link instead of attach** [[check-box|check box]].
+    5.  If you want to link the URL, select the **Link instead of attach** check box.
 
     6.  Select **Attach**.
 
@@ -71,7 +71,3 @@ Role required: none
 
 **Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-management-workspace.md)
 
-## Related
-
-- [[document-mgt-versions|Document versions]]
-- [[check-box|Check box]]

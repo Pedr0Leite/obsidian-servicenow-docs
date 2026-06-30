@@ -25,7 +25,7 @@ ServiceNow stores translation information in these tables.
 
 To see which table contains a specific translated label, enable the display of translation prefixes. For more information, see [Debug translations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_DisplayATranslationPrefix.md).
 
-**Note:** The [[r_LanguagesTable|Languages table]] is available only after at least one I18N:Internationalization plugin has been activated.
+**Note:** The Languages table is available only after at least one I18N:Internationalization plugin has been activated.
 
 -   **[Languages table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_LanguagesTable.md)**  
 The Languages \[sys\_language\] table contains a list of the languages for which translated text is available.
@@ -47,6 +47,3 @@ The Message \[sys\_ui\_message\] table contains the translations for information
 
 [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md)
 
-## Related
-
-- [[r_LanguagesTable|Languages table]]

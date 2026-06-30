@@ -46,7 +46,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
     On the form, the **Parent case** field is automatically set with the case number of the case to which you are adding this child task.
 
-    **Note:** You can also create a task by quick action without connecting to any parent case from the **Work view** page in the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application.
+    **Note:** You can also create a task by quick action without connecting to any parent case from the **Work view** page in the Workplace Agent for mobile application.
 
     |Field|Description|
     |-----|-----------|
@@ -96,6 +96,3 @@ The child task is created. After creation, the child task details are displayed 
 
 [Offline mode]()
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

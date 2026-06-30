@@ -34,7 +34,7 @@ Role required: none
 
 5.  Select **Reset Password**.
 
-    The **Field Service [[field-service-contractor-portal|Contractor Portal]]** login page displays.
+    The **Field Service Contractor Portal** login page displays.
 
 6.  Enter your user ID in the **User name** field.
 
@@ -42,6 +42,4 @@ Role required: none
 
 8.  Select **Login**.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

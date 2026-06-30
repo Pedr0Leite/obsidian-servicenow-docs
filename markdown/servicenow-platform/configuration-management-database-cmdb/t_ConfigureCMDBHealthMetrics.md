@@ -18,7 +18,7 @@ Include or exclude KPIs and metrics as needed in your organization, and configur
 
 ## Before you begin
 
-To start collecting and reporting [[r_CMDBHealthMetrics|CMDB health KPIs and metrics]], you must first [enable and configure the CMDB Health Dashboard jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
+To start collecting and reporting CMDB health KPIs and metrics, you must first [enable and configure the CMDB Health Dashboard jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
 
 Role required: sn\_cmdb\_admin or itil\_admin \(on top of sn\_cmdb\_editor or itil\)
 
@@ -32,7 +32,7 @@ If Domain Support - Domain Extensions is activated, then you can configure aggre
 
 2.  Select **Health Metrics** on the right-hand side bar.
 
-    1.  In the **Select Metric** drop-down list select the **Completeness**, **Compliance**, or the **Correctness** KPI and toggle **Active** to included that KPI and its associated metrics in [[c_CMDBHealth|CMDB Health]] analysis and reporting.
+    1.  In the **Select Metric** drop-down list select the **Completeness**, **Compliance**, or the **Correctness** KPI and toggle **Active** to included that KPI and its associated metrics in CMDB Health analysis and reporting.
 
     2.  In the **Select Metric** drop-down list select a metric, such as **Required**, and configure its associated fields.
 
@@ -83,7 +83,4 @@ An assignment group for the task.
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[r_CMDBHealthMetrics|CMDB Health KPIs and metrics]]
-- [[c_CMDBHealth|CMDB Health]]

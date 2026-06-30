@@ -12,13 +12,13 @@ breadcrumb: [Configure Proactive Customer Service, Extend capabilities, Configur
 
 # Configure form views for Proactive Customer Service Operations
 
-Configure the form layout and related [[migration-lists|lists]] for the different views of the Case, Install Base Item, and Account [[migration-forms|forms]] to display the fields you require.
+Configure the form layout and related lists for the different views of the Case, Install Base Item, and Account forms to display the fields you require.
 
 ## Before you begin
 
 Role required: admin
 
-Certain fields on the forms can only be added if you have activated the [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management plugin. This is noted in the following table.
+Certain fields on the forms can only be added if you have activated the Proactive Customer Service Operations with Event Management plugin. This is noted in the following table.
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Case
 
 3.  **Note:** This only applies if you have activated the Proactive Customer Service Operations with Event Management plugin.
 
-Add the following fields to the **Affected [[install-base-item|Install Base Items]]** related list, **Proactive Case** and **Workspace** view, and other views as required.
+Add the following fields to the **Affected Install Base Items** related list, **Proactive Case** and **Workspace** view, and other views as required.
 
     -   **Health Status**
     -   **Health Status Last Updated**
@@ -83,10 +83,3 @@ Install Base Item
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[install-base-item|Install base items]]

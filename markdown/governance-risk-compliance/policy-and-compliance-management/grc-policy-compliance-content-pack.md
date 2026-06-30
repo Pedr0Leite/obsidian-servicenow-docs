@@ -16,7 +16,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
-The Analytics and Reporting Solution for GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] is available on the ServiceNow Store.
+The Analytics and Reporting Solution for GRC: Policy and Compliance Management is available on the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -39,24 +39,17 @@ The Compliance Overview dashboard provides an executive view into compliance req
 -   **[Policy Overview Performance Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-overview-pa-db-pc.md)**  
 Policies Overview dashboard provides an executive view into compliance requirements, overall compliance, and compliance breakdowns so areas of concern can be identified quickly. Users with the compliance administrator and compliance manager roles view the Policies Overview dashboard.
 -   **[Policy Exception Overview Performance Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-exception-dashboard.md)**  
-The [[grc-policy-exception-dashboard|Policy Exception Overview Performance Analytics dashboard]] provides views into the number, severity, and source of policy exceptions. It also shows exempted controls.
+The Policy Exception Overview Performance Analytics dashboard provides views into the number, severity, and source of policy exceptions. It also shows exempted controls.
 -   **[Policy Acknowledgement dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-ack-db-pc.md)**  
-The [[policy-ack-db-pc|Policy Acknowledgement dashboard]] gives you the acknowledgement status of the policies. It includes count of policy acknowledgements that have been accepted, declined, pending, past the due date of acknowledgement, exemptions requested, and those that are exempted.
+The Policy Acknowledgement dashboard gives you the acknowledgement status of the policies. It includes count of policy acknowledgements that have been accepted, declined, pending, past the due date of acknowledgement, exemptions requested, and those that are exempted.
 -   **[My Attestation Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/my-attestation-ovrview-pa-pc.md)**  
 The Assessment Overview dashboard displays various assessment reports, such as Assessable Records by Type, Total Metrics by Metric Type, and Assessments by State. You can now view the dashboard in the Next Experience UI Framework.
 -   **[NIST Cybersecurity Framework Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/nist-cybersecurity-ovrvw-db-pc.md)**  
-[[nist-cybersecurity-ovrvw-db-pc|NIST Cybersecurity Framework Overview dashboard]] contains a variety of reports displayed on different dashboards, available within each of the sections in the NIST CSF process.
+NIST Cybersecurity Framework Overview dashboard contains a variety of reports displayed on different dashboards, available within each of the sections in the NIST CSF process.
 -   **[NIST Framework Profiling Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/nist-framework-db-pc.md)**  
 NIST Framework Profiling Overview dashboard contains reports within each of the sections in the NIST RMF process: Categorize, Select, Implement, Assess, Authorize, and Monitor. You can view these reports in the Next Experience UI Framework.
 -   **[Application Risk and Compliance Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/application-risk-comp-ovrvw-db-pc.md)**  
-The [[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview dashboard]] provides the current view of risk and compliance posture for the business applications that are used in an enterprise. You can now view the dashboard in Next Experience UI Framework.
+The Application Risk and Compliance Overview dashboard provides the current view of risk and compliance posture for the business applications that are used in an enterprise. You can now view the dashboard in Next Experience UI Framework.
 
 **Parent Topic:**[Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[grc-policy-exception-dashboard|Policy Exception Overview Performance Analytics dashboard]]
-- [[policy-ack-db-pc|Policy Acknowledgement dashboard]]
-- [[nist-cybersecurity-ovrvw-db-pc|NIST Cybersecurity Framework Overview dashboard]]
-- [[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview dashboard]]

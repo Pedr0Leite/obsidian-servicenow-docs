@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Click **New**.
 
@@ -65,11 +65,7 @@ Unique name of the investment.
 -   [Allocate funds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/allocate-funds-to-investment.md) from your available funds.
 
 -   **[Add a business case for an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/add-business-case.md)**  
-[[add-business-case|Add a business case for an investment]] to define its business needs and goals.
+Add a business case for an investment to define its business needs and goals.
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[add-business-case|Add a business case for an investment]]

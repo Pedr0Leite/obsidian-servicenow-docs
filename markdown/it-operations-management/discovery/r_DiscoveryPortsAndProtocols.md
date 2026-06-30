@@ -14,11 +14,11 @@ breadcrumb: [Port probes, List of Discovery probes, Discovery probes and sensors
 
 # Shazzam probe, port probes, and protocols
 
-Port scanning is the first step in the [[r-discovery|discovery]] process. The Shazzam probe performs port scanning, regardless of whether you use patterns for horizontal discovery. The following table lists the known ports and protocols used by Discovery.
+Port scanning is the first step in the discovery process. The Shazzam probe performs port scanning, regardless of whether you use patterns for horizontal discovery. The following table lists the known ports and protocols used by Discovery.
 
-After upgrading to [[discovery-admin-workspace|Discovery Admin Workspace]] version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
+After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
 
-Several [[r_PortProbes|port probes]] are available in the base system. Each port probe uses an IP Service, which is a record that tells Discovery which port to use for a specific protocol. Review this table before you block any ports with a firewall.
+Several port probes are available in the base system. Each port probe uses an IP Service, which is a record that tells Discovery which port to use for a specific protocol. Review this table before you block any ports with a firewall.
 
 **Important:** Make sure that you do not block any ports that Discovery needs.
 
@@ -265,8 +265,3 @@ Supported Windows machines can have dynamic ports ranges: 49152-65535 for both T
 
 **Parent Topic:**[Port probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PortProbes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r_PortProbes|Port probes]]

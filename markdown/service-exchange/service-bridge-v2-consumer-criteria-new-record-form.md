@@ -62,7 +62,7 @@ Customer field
 
 </td><td>
 
-Select the field on the table being queried that matches the Company or Account defined on the [[tmt-service-bridge-both-landing-page|Service Exchange]] connection. If the consumer connected through Service Exchange is an Account, you can use either a Company or Account field to match against it. If the consumer connected is only a Company, you will be restricted to Company.
+Select the field on the table being queried that matches the Company or Account defined on the Service Exchange connection. If the consumer connected through Service Exchange is an Account, you can use either a Company or Account field to match against it. If the consumer connected is only a Company, you will be restricted to Company.
 
 </td></tr><tr><td>
 
@@ -75,9 +75,5 @@ Details of the filter. For example, Active is True.
 </td></tr></tbody>
 </table>## Useful references
 
-[[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]].
+[Create a consumer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-consumer-criteria.md).
 
-## Related
-
-- [[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

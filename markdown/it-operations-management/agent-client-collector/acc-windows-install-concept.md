@@ -14,17 +14,12 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Agent Client Collector installation on a Windows machine
 
-When installing the [[acc-landing-page|Agent Client Collector]] on a Windows machine, either download an installation file and use a wizard to install the agent manually, or use silent installation to automate agent installation and configuration. Manual installation enables you to test the agent on a single system, while silent installation enables you to deploy the agent at scale.
+When installing the Agent Client Collector on a Windows machine, either download an installation file and use a wizard to install the agent manually, or use silent installation to automate agent installation and configuration. Manual installation enables you to test the agent on a single system, while silent installation enables you to deploy the agent at scale.
 
 -   **[Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-windows.md)**  
-[[acc-install-windows|Install the Agent Client Collector on a Windows machine manually]] when you want to test the agent on a single system.
+Install the Agent Client Collector on a Windows machine manually when you want to test the agent on a single system.
 -   **[Install the Agent Client Collector on a Windows machine using silent installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-windows-install-silent.md)**  
-[[acc-windows-install-silent|Install the Agent Client Collector on a Windows machine using silent installation]] when you want to deploy the agent at scale.
+Install the Agent Client Collector on a Windows machine using silent installation when you want to deploy the agent at scale.
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-install-windows|Install the Agent Client Collector on a Windows machine manually]]
-- [[acc-windows-install-silent|Install the Agent Client Collector on a Windows machine using silent installation]]

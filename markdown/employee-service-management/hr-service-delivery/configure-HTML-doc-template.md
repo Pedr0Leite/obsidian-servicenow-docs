@@ -26,7 +26,7 @@ Role required: sn\_hr\_core.admin and Delegated developer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **All Document Templates**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **All Document Templates**.
 
 2.  Select **New**.
 
@@ -310,6 +310,4 @@ Space from the left of the page until the starting of the HTML content or space 
 
 10. To save and return to the All Document Templates list, select **Submit**.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

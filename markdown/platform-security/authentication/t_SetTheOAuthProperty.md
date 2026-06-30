@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0, OAuth authentication, Authentication, Access Management]
 
 # Set the OAuth property
 
-To generate [[c_OAuthApplications|OAuth 2.0]] tokens to registered applications, the `com.snc.platform.security.[[oauth-inbound-and-outbound|oauth]].is.active` property must be active for the instance.
+To generate OAuth 2.0 tokens to registered applications, the `com.snc.platform.security.oauth.is.active` property must be active for the instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: oauth\_admin
 
 1.  To use OAuth 2.0, enter **sys\_properties.list** in the navigator and select **New**.
 
-    You can also open the [[ca-system-properties|system properties]] list by navigating to **All** &gt; **System Properties** &gt; **All Properties** &gt; ****.
+    You can also open the system properties list by navigating to **All** &gt; **System Properties** &gt; **All Properties** &gt; ****.
 
 2.  Fill out the form with the following settings:
 
@@ -32,8 +32,3 @@ Role required: oauth\_admin
     -   **Type**: true \| false
     -   **Value**: true
 
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[ca-system-properties|System properties]]

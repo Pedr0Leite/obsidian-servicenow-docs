@@ -12,7 +12,7 @@ breadcrumb: [Activate document intelligence for utility invoices skill, Configur
 
 # Setup metric definition and entity-mapping records
 
-Configure your environment so that values extracted using the [[ai-driven-document-intelligence-for-utility-invoices|Document Intelligence for Utility Invoices]] skill map to the correct Environmental, Social, and Governance metrics and entities. This eliminates manual data entry and improves accuracy.
+Configure your environment so that values extracted using the Document Intelligence for Utility Invoices skill map to the correct Environmental, Social, and Governance metrics and entities. This eliminates manual data entry and improves accuracy.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 -   If the preconfigured metric definitions don’t meet your requirements, you can create or use an existing metric definition. Then update the Metric Definition table and create or update mapping records to link the new definition to the appropriate record identifiers. When using custom metric definitions, confirm that all relevant mapping records are updated to reference the new definitions for accurate data association.
 -   The metric definition must be activated before using the Document Intelligence for Utility Invoices skill.
 
-The metric definitions are only one part of the setup. The entity mapping table ships empty and must be populated before the skill can route extracted data. For each billing or service address in your utility invoices, [[create-entity|create an entity]] mapping record that links the address to the corresponding organizational entity. Once the metric definitions and entity mappings are both configured, the system uses them to determine where extracted data belongs. The extracted utility type \(for example, electricity\) is matched to the correct metric definition based on the metric definition mapping, and the billing or service address identifies the relevant organizational entity. The extracted consumption or bill amount is then assigned to the correct metric data task.
+The metric definitions are only one part of the setup. The entity mapping table ships empty and must be populated before the skill can route extracted data. For each billing or service address in your utility invoices, create an entity mapping record that links the address to the corresponding organizational entity. Once the metric definitions and entity mappings are both configured, the system uses them to determine where extracted data belongs. The extracted utility type \(for example, electricity\) is matched to the correct metric definition based on the metric definition mapping, and the billing or service address identifies the relevant organizational entity. The extracted consumption or bill amount is then assigned to the correct metric data task.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ The metric definitions are only one part of the setup. The entity mapping table 
 
 5.  On the form, fill in the fields.
 
-    For information on the fields of the form, see [[automated-metric-definition-fields|Automated metric definition fields]].
+    For information on the fields of the form, see [Automated metric definition fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/automated-metric-definition-fields.md).
 
 6.  Select the **Entities** tab and add the entities related to your organization for which you want to collect data.
 
@@ -117,11 +117,5 @@ Review state. Based on the information provided in the **Additional information*
 
 An uploaded electricity bill contains a $416 charge and lists the service address as “1201 W Lake Street, Unit 4”. If an entity mapping record exists with Record identifier set to “1201 W Lake Street, Unit 4” and Related record set to the “Chicago Office” entity, the system automatically assigns the $416 charge to that entity’s electricity metric data task. Without the entity mapping record, the system can’t determine where to route the extracted data.
 
-**Parent Topic:**[[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]
+**Parent Topic:**[Activate the document intelligence for utility invoices skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-the-document-intelligence-for-utility-invoices-skill.md)
 
-## Related
-
-- [[automated-metric-definition-fields|Automated metric definition fields]]
-- [[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]
-- [[create-entity|Create an entity]]

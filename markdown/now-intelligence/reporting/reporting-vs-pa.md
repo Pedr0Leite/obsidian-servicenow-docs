@@ -14,7 +14,7 @@ breadcrumb: [Exploring reporting, Reporting, Reporting, dashboards, and Performa
 
 # Reporting compared to Performance Analytics
 
-[[reporting-landing-page|Reporting]] and Performance Analytics are two distinct applications. They address different use cases and are complementary to each other.
+Reporting and Performance Analytics are two distinct applications. They address different use cases and are complementary to each other.
 
 Performance Analytics is able to generate accurate historical trends by capturing continuous snapshots on a regular schedule. As illustrated by the following diagram, table data answers the question of "Where are we today," while indicators answer questions of what is happening over time.
 
@@ -30,6 +30,3 @@ In addition to calculating trends from snapshots, Performance Analytics is able 
 
 For more information on using Performance Analytics, see [Exploring Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md).
 
-## Related
-
-- [[reporting-landing-page|Reporting]]

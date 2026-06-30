@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Run tests for a story in Agile Development 2.0
 
-For a story whose [[c_Tests|tests]] are marked ready to be run, run those tests and execute all the test steps using the Sprint Tracking tab of the [[agile-board|Agile board in Agile Development 2.0]].
+For a story whose tests are marked ready to be run, run those tests and execute all the test steps using the Sprint Tracking tab of the Agile board in Agile Development 2.0.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ From the Agile board, use the List view of the Sprint Tracking tab to check stor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the Sprint Tracking tab, select the **List**view.
 
@@ -73,8 +73,3 @@ The result of each test is indicated on the Agile board as Passed, Failed, Block
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[agile-board|Agile board in Agile Development 2.0]]
-- [[agile-development|Agile Development]]

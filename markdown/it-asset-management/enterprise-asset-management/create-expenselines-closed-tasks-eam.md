@@ -33,7 +33,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **TCO configuration** &gt; **Task rate card**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **TCO configuration** &gt; **Task rate card**.
 
 2.  Select **Create expense lines for tasks**.
 
@@ -43,6 +43,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     The background job **Asset Common Expense Lines for Historical tasks** runs only once and looks for closed tasks without any expense lines and creates expense lines for all those closed tasks. Once the expense lines are created, the **Create expense lines for tasks** button is no longer visible.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

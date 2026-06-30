@@ -24,7 +24,7 @@ Providing resources for deskless workers is essential for boosting productivity,
 
 ## Benefits
 
-[[deskless-kiosk-overview|Employee Center Pro Kiosk]] is a centralized platform that helps employees with essential services and information. The Kiosk offers a user-friendly interface that presents relevant details and options tailored to the deskless employees needs.
+Employee Center Pro Kiosk is a centralized platform that helps employees with essential services and information. The Kiosk offers a user-friendly interface that presents relevant details and options tailored to the deskless employees needs.
 
 -   **Shift information**: Displays the shortest and upcoming work shift info with the date and time on the home page. Go to the shift page to see detailed information to plan and manage work routines productively. For more information, see [Schedule in Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/shift-time-kiosk-ec.md).
 
@@ -34,13 +34,13 @@ Providing resources for deskless workers is essential for boosting productivity,
 
     You can use instance options to change the display preferences. For more information, see [Modify the Time off widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-timeoff-instanceoptions.md).
 
--   **[[apn-config-getsupport|Get support]]**: Provides employees with quick access to various services and requests such as:
+-   **Get support**: Provides employees with quick access to various services and requests such as:
 
     -   Ask HR Question: Allows employees to submit queries or seek assistance from the HR department.
-    -   Request Profile Update: Allows employees to request updates or changes to the [[emp-slate-employee-profile|employee profile]] information.
-    -   Report [[health-safety-overview|Health and Safety]] Incident: Provides a convenient way for employees to report any health and safety incidents or concerns.
+    -   Request Profile Update: Allows employees to request updates or changes to the employee profile information.
+    -   Report Health and Safety Incident: Provides a convenient way for employees to report any health and safety incidents or concerns.
 
-        **Note:** With the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] plugin, you can report health and safety with the `sn_ohs_im.reporter` role.
+        **Note:** With the Health and Safety Incident Management plugin, you can report health and safety with the `sn_ohs_im.reporter` role.
 
     For more information, see [Get support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/apn-config-getsupport.md).
 
@@ -63,10 +63,3 @@ For more information on how to use the Kiosk application, see [Use Employee Cent
 
 **Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[apn-config-getsupport|Get support]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

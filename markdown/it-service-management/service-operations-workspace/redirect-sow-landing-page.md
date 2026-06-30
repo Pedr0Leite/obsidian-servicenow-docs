@@ -26,7 +26,7 @@ Ensure that Next Experience is enabled on your instance. For information about i
 
 1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
-2.  On the **Overview** tab, from the **Initial Setup** section, select the **Configure the [[dex-workspace-dashboard-tab|landing page]]** option.
+2.  On the **Overview** tab, from the **Initial Setup** section, select the **Configure the landing page** option.
 
 3.  Select **Initial setup** &gt; **Landing page redirection**.
 
@@ -50,6 +50,3 @@ Ensure that Next Experience is enabled on your instance. For information about i
 
 **Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-redirection-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

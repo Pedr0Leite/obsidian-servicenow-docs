@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # View a link or video from Shopping Hub Home
 
-Complete your task by viewing a link or video that your procurement specialist has assigned to you, directly from [[shopping-hub-overview|Shopping Hub]] Home. This action is listed as a task under **My to-dos**.
+Complete your task by viewing a link or video that your procurement specialist has assigned to you, directly from Shopping Hub Home. This action is listed as a task under **My to-dos**.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

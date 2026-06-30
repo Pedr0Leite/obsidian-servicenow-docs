@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Using interactions in Agent Workspace for HR Case Management
 
-Use interaction records to [[search-hr-case|create an HR case]] or [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] employee information to decide to create a case or request from different types of [[eslate-employee-comms|employee communications]].
+Use interaction records to create an HR case or reference employee information to decide to create a case or request from different types of employee communications.
 
 An interaction is a request for assistance made through chat, phone, or in person. You can route interactions by skill, group, or directly to an HR agent.
 
@@ -26,8 +26,3 @@ Interaction records are automatically created when you are using agent chat.
 
 For more information on interactions, see Interaction records in Agent Workspace.
 
-## Related
-
-- [[search-hr-case|Create an HR case]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[eslate-employee-comms|Employee communications]]

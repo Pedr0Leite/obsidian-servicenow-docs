@@ -14,11 +14,11 @@ breadcrumb: [Project Workspace, Project Portfolio Management, Strategic Portfoli
 
 # Exploring Project Workspace
 
-The ServiceNow® [[project-workspace-landing-page|Project Workspace]] application helps you to manage projects, resources, and financials in a single workspace.
+The ServiceNow® Project Workspace application helps you to manage projects, resources, and financials in a single workspace.
 
 ## Project Workspace overview
 
-Project Workspace is a [[c_ProjectApplicationOverview|project management]] application that optimizes different workflows and enables planning and managing of projects or tasks, resources, and financials in one place. This application centralizes access to Projects, subprojects, [[t_CreateAProjectTask|project tasks]], resources, and financials, reducing the need to navigate through various applications.
+Project Workspace is a project management application that optimizes different workflows and enables planning and managing of projects or tasks, resources, and financials in one place. This application centralizes access to Projects, subprojects, project tasks, resources, and financials, reducing the need to navigate through various applications.
 
 The Project Workspace provides Project Managers with a comprehensive overview of the all projects and project-related information. This project management application enables better project planning by providing ways to define project scope, dependencies, and time lines.
 
@@ -37,13 +37,13 @@ The Project Workspace provides Project Managers with a comprehensive overview of
 |Generate and schedule project summary emails for your projects.|[Schedule the project insights email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/email-project-summary-pw.md)|
 |Add Risk, Issue, Decision, Action, or Change request to your project to track and manage the RIDAC records throughout project development.|[Add a RIDAC record to your project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-risk-project-project-workspace.md)|
 |Export your project as a PowerPoint file directly from the workspace without copying the project information in to slides.|[Export a project to Microsoft PowerPoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/export-project-to-powerpoint-from-project-workspace.md)|
-|Create and track resource assignments at project or task level to optimize [[r_AllocatingResources|resource allocation]] throughout the project.|[Create resource assignments and initiate resources planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-resource-mgmt-prj-wksp.md)|
+|Create and track resource assignments at project or task level to optimize resource allocation throughout the project.|[Create resource assignments and initiate resources planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-resource-mgmt-prj-wksp.md)|
 |Create a cost plan for the required duration to monitor your projected and actual expenses.|[Create a cost plan for your project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-cost-plan-prj-wrkspc.md)|
 |Add an expense line into project cost plans to establish a comprehensive and detailed financial framework for your project.|[Add an expense line for a cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-expense-line-prj-wrkspc.md)|
 |Generate labor costs for attribute-based resource assignments to track expenses for your project.|[Generate labor costs for your project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/gen-labor-costs-prj-wrkspc.md)|
 |Collaborate with team members, save notes, generate project charters, and create project briefs using Docs.|[Collaborate on projects using Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/collaborative-project-planning-with-docs.md)|
 |Secure a project to ensure only authorized users can access the project.|[Enable security for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-security-for-a-project-in-project-workspace.md)|
-|Configure and [[use-playbooks-pw|use playbooks in Project Workspace]] to guide project teams through standard project stages and activities.|[Use Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-playbooks-pw.md)|
+|Configure and use playbooks in Project Workspace to guide project teams through standard project stages and activities.|[Use Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-playbooks-pw.md)|
 
 -   **[Project planning in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-planning-in-pw.md)**  
 Plan your projects with an intuitive Project Workspace application to achieve successful project outcomes.
@@ -73,10 +73,3 @@ Integrate Hardware Asset Management \(HAM\) with Project Workspace to track whic
 
 [Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[use-playbooks-pw|Use Playbooks in Project Workspace]]

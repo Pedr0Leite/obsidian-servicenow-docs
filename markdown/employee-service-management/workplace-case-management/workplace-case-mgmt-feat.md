@@ -24,7 +24,7 @@ Fulfilling employee workplace requests involves multiple, complex back-end proce
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: Configure [[workplace-services|workplace services]] and related settings using which employees can submit workplace requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-setup.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: Configure workplace services and related settings using which employees can submit workplace requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-setup.md)
 
 </td><td>
 
@@ -56,7 +56,3 @@ Fulfilling employee workplace requests involves multiple, complex back-end proce
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-services|Workplace Services]]

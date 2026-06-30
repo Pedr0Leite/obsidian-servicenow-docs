@@ -14,7 +14,7 @@ breadcrumb: [Configure, Instance Data Replication, Manage instance data sources,
 
 # Preparing for Instance Data Replication
 
-Before you set up [[instance-data-replication|Instance Data Replication]] \(IDR\), analyze the tables and columns in the producer and consumer instances to replicate data successfully.
+Before you set up Instance Data Replication \(IDR\), analyze the tables and columns in the producer and consumer instances to replicate data successfully.
 
 ## Preparing your instances
 
@@ -24,7 +24,7 @@ Reduce latency by ensuring that the producer and consumer instances are in the s
 
 Before you create a producer replication set, decide which tables to replicate. Avoid replicating system tables \(tables with a sys\_ prefix\). If you replicate system tables \(like sys\_user, sys\_user\_group, or sys\_user\_grmember\) that have existing data in the consumer instance, insert and update failures can occur during replication. If you decide to replicate these tables, you may have additional work afterwards to clean these tables.
 
-Avoid [[continuous-replication|continuous replication]] of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. If you must replicate CMDB tables, consider scheduling replication or use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
+Avoid continuous replication of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. If you must replicate CMDB tables, consider scheduling replication or use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
 
 For a list of tables to avoid replicating, see [Excluded tables in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/IDR-excluded-tables.md).
 
@@ -32,7 +32,7 @@ For a list of tables to avoid replicating, see [Excluded tables in Instance Data
 
 For each table you want to replicate, determine if the table is a parent or child table. If the table belongs to a parent-child hierarchy, decide if you want to preserve the hierarchy and what strategy you want to use to move the hierarchy from the producer to the consumer.
 
-**Important:** To maintain data integrity and ensure that [[reference|reference]] fields are populated on the consumer as you'd expect, you must replicate all of the parent and child tables in the table hierarchy.
+**Important:** To maintain data integrity and ensure that reference fields are populated on the consumer as you'd expect, you must replicate all of the parent and child tables in the table hierarchy.
 
 See [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
 
@@ -84,7 +84,7 @@ You can use business rules to trigger workflows after replication, such as sendi
 
 If failures related to business rules occur, they appear in the **Instance Data Replication** &gt; **Replication Payload Error** table on the consumer instance. View the **Error Message** field for details on the script that is causing the failure.
 
-With [[bidirectional-replication|bidirectional replication]], records created on the producer instance are replicated to a consumer instance and vice versa. When the record is inserted on the consumer instance and it triggers a business rule that updates the record, that update is not replicated back to the producer instance.
+With bidirectional replication, records created on the producer instance are replicated to a consumer instance and vice versa. When the record is inserted on the consumer instance and it triggers a business rule that updates the record, that update is not replicated back to the producer instance.
 
 ## Reviewing ACLs
 
@@ -100,9 +100,3 @@ If failures related to data policies occur, they appear in the **Instance Data R
 
 **Parent Topic:**[Configuring Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configuring-instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[continuous-replication|Continuous replication]]
-- [[reference|Reference]]
-- [[bidirectional-replication|Bidirectional replication]]

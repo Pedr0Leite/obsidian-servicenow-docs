@@ -12,7 +12,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 # Request domain separation
 
-All domain support features are activated with a plugin called **Domain Support - Domain Extensions Installer**. Administrators can [[c_requestAPI|request]] activation of this plugin.
+All domain support features are activated with a plugin called **Domain Support - Domain Extensions Installer**. Administrators can request activation of this plugin.
 
 ## Before you begin
 
@@ -92,9 +92,5 @@ Activating the Domain Extension Installer plugin enables these features:
 **Related topics**  
 
 
-[[domain-sep-plugin|Domain separation plugin]]
+[Domain separation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-plugin.md)
 
-## Related
-
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[c_requestAPI|request]]

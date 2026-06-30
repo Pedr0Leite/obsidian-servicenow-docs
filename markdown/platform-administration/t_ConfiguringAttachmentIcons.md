@@ -72,8 +72,5 @@ Enter the path to the icon image file \(example: `images/icons/attach_pdf.gifx`\
 </table>5.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[[r_AdministeringAttachments|Administering attachments]]
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md)
 
-## Related
-
-- [[r_AdministeringAttachments|Administering attachments]]

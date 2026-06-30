@@ -14,7 +14,7 @@ breadcrumb: [Complete a resource plan, Resource plans, Resource Management class
 
 # Complete a resource plan from a project, planning console, or demand record
 
-If a project or a project task is marked Closed, the project manager can complete the associated Allocated [[c_ResourcePlans|resource plans]]. Similarly, the demand manager can complete the resource plans for a Closed or Deferred demand.
+If a project or a project task is marked Closed, the project manager can complete the associated Allocated resource plans. Similarly, the demand manager can complete the resource plans for a Closed or Deferred demand.
 
 ## Before you begin
 
@@ -24,12 +24,12 @@ Role required: it\_project\_manager or it\_demand\_manager
 
 ## About this task
 
-When a project or a project task moves to Closed Complete, Closed Incomplete or Closed Skipped state, the system prompts a message on the project and project task [[form-field-information-for-dw|forms]], and in the planning console for completing the Allocated resource plans if the following conditions is met.
+When a project or a project task moves to Closed Complete, Closed Incomplete or Closed Skipped state, the system prompts a message on the project and project task forms, and in the planning console for completing the Allocated resource plans if the following conditions is met.
 
 -   Corresponding resource plan is in the Allocated state.
 -   Resource plan start date is less than or equal to the project or task actual end date.
 
-A similar message for completing the resource plans appears on the [[demand-form|Demand form]] when a demand moves to Closed or Deferred state.
+A similar message for completing the resource plans appears on the Demand form when a demand moves to Closed or Deferred state.
 
 ## Procedure
 
@@ -41,9 +41,9 @@ A similar message for completing the resource plans appears on the [[demand-form
 
 </td><td>
 
-1.  Navigate to **Project** &gt; **Projects** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open the project record in the Closed state.
-3.  Select the **Details** tab to display the [[create-a-project-form|project form]].
+3.  Select the **Details** tab to display the project form.
 
 
 </td></tr><tr><td id="d111442e118">
@@ -54,7 +54,7 @@ A similar message for completing the resource plans appears on the [[demand-form
 
 1.  Navigate to **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open the required project record.
-3.  In the **[[t_CreateAProjectTask|Project Tasks]]** related list, open the project task record in the Closed state.
+3.  In the **Project Tasks** related list, open the project task record in the Closed state.
 
 
 </td></tr><tr><td id="d111442e154">
@@ -91,7 +91,7 @@ A similar message for completing the resource plans appears on the [[demand-form
 
     -   The list contains only those resource plans for the record that should be completed.
     -   If the list is opened from the message link on a Project form, the resource plans for the project and project task are listed.
-    -   If the list is opened from the message link on a [[project-task-form|Project task form]], only the resource plans for the project task are listed.
+    -   If the list is opened from the message link on a Project task form, only the resource plans for the project task are listed.
 3.  In the list, select the resource plan to be completed, and select **Complete**.
 
 4.  In the **Confirm** dialog box, select the completion date of the resource plan and select **Yes**.
@@ -109,12 +109,3 @@ A similar message for completing the resource plans appears on the [[demand-form
 
 **Parent Topic:**[Complete a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CloseAResourcePlan.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[form-field-information-for-dw|Forms]]
-- [[demand-form|Demand form]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]

@@ -14,7 +14,7 @@ breadcrumb: [Use guided tours, Using HR Service Delivery Employee Relations, Emp
 
 # Enable guided tours in Employee Relations
 
-Enable guided tours in Employee Relations to get an overview of [[hr-case-employee-relations|Employee Relations]] cases.
+Enable guided tours in Employee Relations to get an overview of Employee Relations cases.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
     3.  Select the **Auto Launch** toggle beside **Details View of Employee Relations Case** so it switches to the right.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]

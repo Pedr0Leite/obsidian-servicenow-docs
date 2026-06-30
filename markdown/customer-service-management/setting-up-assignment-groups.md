@@ -12,19 +12,12 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Setting up assignment groups
 
-Associate your assignment groups with an internal or an external business location. This association [[migration-forms|forms]] a one-to-many \(1:M\) relationship, which means, one or more groups can be associated with a service organization. This process makes it easier to route cases to the appropriate team member using the inter-organization support capability.
+Associate your assignment groups with an internal or an external business location. This association forms a one-to-many \(1:M\) relationship, which means, one or more groups can be associated with a service organization. This process makes it easier to route cases to the appropriate team member using the inter-organization support capability.
 
 |Task|Description|
 |----|-----------|
-|[[create-a-group-so|Create a group]]|Create a group to associate it with a service organization.|
-|[[configuring-a-group|Configuring a group]]|Configure a group that includes adding group members and assigning them required roles.|
-|[[associate-a-group-to-a-business-location-so|Associate a group to a business location]]|Establish a one-to-many \(1:M\) relationship between a group and a business location.|
-|[[add-group-members-to-a-business-location-so|Add group members to a business location]]|Enroll group members to a business location and have a dedicated group working on cases.|
+|[Create a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-group-so.md)|Create a group to associate it with a service organization.|
+|[Configuring a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-group.md)|Configure a group that includes adding group members and assigning them required roles.|
+|[Associate a group to a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-a-group-to-a-business-location-so.md)|Establish a one-to-many \(1:M\) relationship between a group and a business location.|
+|[Add group members to a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-group-members-to-a-business-location-so.md)|Enroll group members to a business location and have a dedicated group working on cases.|
 
-## Related
-
-- [[create-a-group-so|Create a group]]
-- [[configuring-a-group|Configuring a group]]
-- [[associate-a-group-to-a-business-location-so|Associate a group to a business location]]
-- [[add-group-members-to-a-business-location-so|Add group members to a business location]]
-- [[migration-forms|Forms]]

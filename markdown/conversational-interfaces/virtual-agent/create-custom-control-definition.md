@@ -29,7 +29,7 @@ For a given custom control, create a separate control definition for each channe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Custom Control Definitions**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Custom Control Definitions**.
 
 2.  Select **New**.
 
@@ -134,7 +134,3 @@ The custom control definition is available for use. You can specify it when you 
 
 [Create the custom control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-custom-control.md) in Virtual Agent Designer.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

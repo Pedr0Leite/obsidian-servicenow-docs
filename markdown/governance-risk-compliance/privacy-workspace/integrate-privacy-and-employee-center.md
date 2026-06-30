@@ -14,7 +14,7 @@ breadcrumb: [Privacy Management, Governance, Risk, and Compliance]
 
 # Integrating Employee Center and Risk portal with Privacy Management
 
-The integration of [[employee-center|Employee Center]] with [[privacy-management|Privacy Management]] provides all employees and users a simplified user experience to perform tasks such as submitting a privacy impact assessment for a new implementation, responding to control attestations, and accessing [[ropa-record|processing activities]] and privacy impact assessments.
+The integration of Employee Center with Privacy Management provides all employees and users a simplified user experience to perform tasks such as submitting a privacy impact assessment for a new implementation, responding to control attestations, and accessing processing activities and privacy impact assessments.
 
 ## Employee Center
 
@@ -26,13 +26,7 @@ If you integrate Privacy Management with the Employee Center, you can provide al
 
 ## Risk portal
 
-If a privacy analyst assigns a processing activity to a business user to get more details on the processing activity, the business users can access the assigned processing activity from the [[risk-portal|risk portal]].
+If a privacy analyst assigns a processing activity to a business user to get more details on the processing activity, the business users can access the assigned processing activity from the risk portal.
 
 \[Omitted image "grc-tasks-risk-portal.png"\] Alt text: Access My to-dos tasks on the Risk portal.
 
-## Related
-
-- [[employee-center|employee center]]
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[risk-portal|risk portal]]

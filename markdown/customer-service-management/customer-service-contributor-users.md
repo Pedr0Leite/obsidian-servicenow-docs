@@ -26,7 +26,7 @@ The contributor users feature includes several roles that you can assign to user
 
 \[Omitted image "csm-contributor-user-role-diagram.png"\] Alt text: Table that defines contributor user roles. For a text description, refer to the Contributor user role description and capabilities table.
 
-The contributor users feature also includes viewer roles that enable employees to [[osp-view-cases|view cases]], cases tasks, or core [[customer-data|customer data]]. These roles include:
+The contributor users feature also includes viewer roles that enable employees to view cases, cases tasks, or core customer data. These roles include:
 
 -   Case Viewer
 -   Case Task Viewer
@@ -74,7 +74,7 @@ This user can:
 
 -   Add additional comments and attachments
 -   Accept or reject a solution
--   [[osp-close-case|Close a case]]
+-   Close a case
 -   Receive notifications of case updates
 -   Read work notes
 
@@ -196,11 +196,11 @@ This user can:
 -   Search for knowledge articles to assist with the case task.
 
 </td></tr></tbody>
-</table>The contributor user roles are available with different CSM plugins. For a more detailed description of these user roles, see [[csm-contributor-user-roles|Contributor user roles]].
+</table>The contributor user roles are available with different CSM plugins. For a more detailed description of these user roles, see [Contributor user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contributor-user-roles.md).
 
 ## Fields added to the Case form
 
-The contributor users feature adds two fields to the [[r_CustomerServiceCaseForm|Case form]] that are used to identify the customer for a case. These fields are used in addition to the **Account** and **Consumer** fields.
+The contributor users feature adds two fields to the Case form that are used to identify the customer for a case. These fields are used in addition to the **Account** and **Consumer** fields.
 
 <table id="table_lzh_skg_h4b"><thead><tr><th>
 
@@ -243,7 +243,7 @@ Contributor Users
 
 </td><td>
 
-When a user with the case task agent role is assigned to a case task, the user is added to the **Contributor Users** field. If a user is removed from the **Assigned to** field on the [[csm-case-task-form|Case Task form]], and they aren’t assigned to any other tasks for the case, they’re also removed from the **Contributor Users** field.
+When a user with the case task agent role is assigned to a case task, the user is added to the **Contributor Users** field. If a user is removed from the **Assigned to** field on the Case Task form, and they aren’t assigned to any other tasks for the case, they’re also removed from the **Contributor Users** field.
 
 </td></tr><tr><td>
 
@@ -315,7 +315,7 @@ Myself
 
 ## Viewing record lists on the Customer and Consumer Service Portals
 
-The My [[migration-lists|Lists]] widget on the Customer and Consumer Service Portals includes different filters for viewing records.
+The My Lists widget on the Customer and Consumer Service Portals includes different filters for viewing records.
 
 \[Omitted image "contributor-users-portal-my-lists-widget.png"\] Alt text: My Lists widget with filters for sorting case records. For a text description of the filters, refer to the My Lists filters table.
 
@@ -373,7 +373,7 @@ Displays filters depending on the relationships established for this user. -   *
 -   **My Cases for Consumers**: Cases created by the contributor user on behalf of consumers or households where the user is a Relationship Manager.
 -   **All Cases for Consumers**: All cases created on behalf of consumers or households where the user is a Relationship Manager, independent of who created the case.
 
- For more information, see [[csm-data-model-relationships|Service Model Foundation relationships]].
+ For more information, see [Service Model Foundation relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-relationships.md).
 
 </td></tr></tbody>
 </table>## Access to case tasks
@@ -420,7 +420,7 @@ This widget includes the following information for each case task:-   Task numbe
 </td></tr></tbody>
 </table>**Note:** If a playbook is available, the system opens the case task within in the playbook. If no playbook is available, the system opens the Case Task form.
 
-Depending on assigned roles, contributor users can see different modules in CSM Agent Workspace and [[csm-workspaces-configure|CSM Configurable Workspace]].
+Depending on assigned roles, contributor users can see different modules in CSM Agent Workspace and CSM Configurable Workspace.
 
 <table id="table_qxh_f5h_3nb"><thead><tr><th>
 
@@ -478,7 +478,7 @@ Users with the case viewer role can see the cases that they have access to in th
 
 Users with the case task agent role have read-only access to some of the customer information for the parent case.
 
--   For B2B cases: Account and contact records, including addresses, [[sold-product|sold products]], and install base.
+-   For B2B cases: Account and contact records, including addresses, sold products, and install base.
 -   For B2C cases: Consumer and household records, including addresses, sold products, install base, and head of household.
 -   For business location cases: Service organization records, including internal contact information.
 
@@ -487,18 +487,5 @@ Users with the case task agent role have read-only access to some of the custome
 
 [Contributor user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contributor-user-roles.md)
 
-[[config-contributor-user|Configure Contributor Users]]
+[Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md)
 
-## Related
-
-- [[csm-contributor-user-roles|Contributor user roles]]
-- [[csm-data-model-relationships|Service Model Foundation relationships]]
-- [[config-contributor-user|Configure Contributor Users]]
-- [[osp-view-cases|View cases]]
-- [[customer-data|Customer data]]
-- [[osp-close-case|Close a case]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-case-task-form|Case task form]]
-- [[migration-lists|Lists]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

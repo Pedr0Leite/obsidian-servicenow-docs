@@ -15,7 +15,7 @@ breadcrumb: [Configuring Knowledge Graph, Knowledge Graph, Enable AI experiences
 
 # Configure LLM for Knowledge Graph
 
-Choose which large language model \(LLM\) service provider for [[knowledge-graph-landing|Knowledge Graph]].
+Choose which large language model \(LLM\) service provider for Knowledge Graph.
 
 ## Before you begin
 
@@ -39,6 +39,4 @@ Role required: admin
 
 4.  Select the LLM to open the record and update the default field to **True**.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

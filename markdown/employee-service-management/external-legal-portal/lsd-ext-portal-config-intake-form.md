@@ -14,7 +14,7 @@ breadcrumb: [Configuring up External Legal Service Center, External Legal Servic
 
 # Enable record producer for external user
 
-External users can submit requests through the [[lsd-ext-portal-landing-page|External Legal Service Center]] catalog after you configure the record producer availability, access roles, and catalog topics.
+External users can submit requests through the External Legal Service Center catalog after you configure the record producer availability, access roles, and catalog topics.
 
 ## Before you begin
 
@@ -81,6 +81,3 @@ The record producer is available for the external users in the External Legal Se
 
 If you want **Save as Draft** option to be enabled for a record producer, enable the system property **glide.sc.enable.save\_as\_draft.portal.elp**. For more information, see [Enable save as draft option for record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-enable-draft.md).
 
-## Related
-
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

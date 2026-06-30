@@ -14,7 +14,7 @@ breadcrumb: [Request SaaS License Management, SaaS License Management, Software 
 
 # Installed with SaaS License Management
 
-User roles and tables are installed with SaaS License Management. Demo data is available for the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) plugin.
+User roles and tables are installed with SaaS License Management. Demo data is available for the Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) plugin.
 
 ## User roles
 
@@ -26,7 +26,7 @@ User roles and tables are installed with SaaS License Management. Demo data is a
 
 |Table|Description|
 |-----|-----------|
-|Custom Subscription Product Definitions \[samp\_sw\_custom\_subscription\_product\_definition\]|Enables you to create and update customized [[c_CreatingSoftwareModels|software models]] for SaaS and SSO applications.|
+|Custom Subscription Product Definitions \[samp\_sw\_custom\_subscription\_product\_definition\]|Enables you to create and update customized software models for SaaS and SSO applications.|
 |Custom Subscription Integration \[samp\_sw\_custom\_subscription\_integration\]|List of SaaS and SSO providers for your custom integration profiles.|
 |Product profile types \[samp\_sw\_product\_profile\_type\]|Provides a mapping between integration profile types and products in the Software Product \[samp\_sw\_product\] table.|
 |SAM Subscription Script Routes \[sam\_saas\_script\_route\]|Stores which script includes and scopes implement a given integration type to register available integrations from separate scoped apps.|
@@ -44,8 +44,3 @@ User roles and tables are installed with SaaS License Management. Demo data is a
 
 **Parent Topic:**[Request SaaS License Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/request-saas-license-management.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_CreatingSoftwareModels|Software models]]

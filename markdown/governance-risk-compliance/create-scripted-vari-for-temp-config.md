@@ -20,7 +20,7 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Template Configurations**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Template Configurations**.
 
 2.  Open the template for which you want to create scripted variables.
 
@@ -44,6 +44,4 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
 6.  To edit an existing scripted variable, select it from the related list, make the changes, and select **Update**.
 
-## Related
 
-- [[Administration|Administration]]

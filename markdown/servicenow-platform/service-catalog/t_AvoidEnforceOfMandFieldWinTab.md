@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default, mandatory fields must be filled in before switching tabs in the **Choose Options** section of [[c_ServiceCatalogOrderGuides|order guides]].
+By default, mandatory fields must be filled in before switching tabs in the **Choose Options** section of order guides.
 
 In this example, if the customer attempts to select another tab without filling in the Street Address field, a warning prompt appears. The customer cannot switch tabs without entering this information.
 
@@ -30,11 +30,11 @@ To avoid this enforcement in all order guides:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
 2.  Locate the property Validate mandatory fields when switching tabs in 'Choose Options' section of Order Guides \(glide.sc.guide.tab.validate\).
 
-3.  Clear the Yes [[check-box|check box]].
+3.  Clear the Yes check box.
 
     If you make this change, mandatory fields are still mandatory, but the customer can switch between tabs before filling in the mandatory fields. Enforcement is then checked when the customer chooses to proceed to the next step.
 
@@ -43,8 +43,3 @@ To avoid this enforcement in all order guides:
 
 **Parent Topic:**[Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 
-## Related
-
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Using Service Catalog for Enterprise Asset Management requests and flows
 
-Use the Service Catalog application to create catalog requests for the [[enterprise-asset-management|Enterprise Asset Management]] application.
+Use the Service Catalog application to create catalog requests for the Enterprise Asset Management application.
 
 ## Overview of using Service Catalog
 
@@ -28,6 +28,3 @@ Use the Service Catalog for creating catalog requests for Enterprise Asset Manag
 |Onboard multiple assets at one go| |[Create a catalog request for onboarding multiple assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-onboard-catalog-req.md)|
 |Reclaim enterprise assets| |[Create a catalog request to reclaim enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-enterprise-catalog-request.md)|
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

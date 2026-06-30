@@ -14,9 +14,9 @@ breadcrumb: [Privacy Workspace for the privacy manager, Explore, Privacy Managem
 
 # Operations tab
 
-The [[operations-tab|Operations tab]] on the [[privacy-management|privacy management]] dashboard offers visibility into operational performance across key privacy compliance processes, supporting proactive management and confirming adherence to regulatory and internal risk standards.
+The Operations tab on the privacy management dashboard offers visibility into operational performance across key privacy compliance processes, supporting proactive management and confirming adherence to regulatory and internal risk standards.
 
-The Operations tab on the privacy management dashboard provides a centralized and real-time overview of key privacy-related operational metrics. This dashboard is designed to help analysts, privacy officers, and compliance personnel. It supports monitoring the progress and status of various privacy assurance activities. These activities include [[risk-assessments|risk assessments]], privacy assessments, issues, policy exceptions, and control assurance.
+The Operations tab on the privacy management dashboard provides a centralized and real-time overview of key privacy-related operational metrics. This dashboard is designed to help analysts, privacy officers, and compliance personnel. It supports monitoring the progress and status of various privacy assurance activities. These activities include risk assessments, privacy assessments, issues, policy exceptions, and control assurance.
 
 The Operations dashboard helps monitor the progress and status of operational activities. These activities include risk assessments, privacy impact assessments, issues, policy exceptions, and control assurance. Data is displayed using intuitive pie and donut charts. Charts are categorized by status, priority, and risk rating for clarity. This categorization makes it easier to identify areas that need attention. You can quickly see open, overdue, or upcoming tasks in each category.
 
@@ -45,13 +45,7 @@ This dashboard displays the following widgets.
 
 The following image shows the Operations dashboard.
 
-\[Omitted image "operations-tab-prm.png"\] Alt text: Operations tab on the [[privacy-manager-dashboard|privacy management home page]].
+\[Omitted image "operations-tab-prm.png"\] Alt text: Operations tab on the privacy management home page.
 
 **Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 
-## Related
-
-- [[operations-tab|Operations tab]]
-- [[privacy-management|privacy management]]
-- [[risk-assessments|risk assessments]]
-- [[privacy-manager-dashboard|Privacy Management home page]]

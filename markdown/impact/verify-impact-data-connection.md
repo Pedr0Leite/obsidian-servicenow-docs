@@ -12,11 +12,11 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Verify Impact data connection
 
-During [[impact-landing-page|Impact]] Guided Setup automated registration, a status is provided to indicate a successful connection. Use the Verify the Connection step to track the progress.
+During Impact Guided Setup automated registration, a status is provided to indicate a successful connection. Use the Verify the Connection step to track the progress.
 
 ## Before you begin
 
-[[start-automated-registration-IDI|Use automated registration to connect to the Impact Delivery Instance]] before this procedure.
+[Use automated registration to connect to the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/start-automated-registration-IDI.md) before this procedure.
 
 Role required: impact app admin, impact admin \(IDI\)
 
@@ -59,23 +59,16 @@ Inbound status
 
 
 </td></tr></tbody>
-</table>    **Warning:** If either status does not update to Active Replication, contact your Impact Customer Success Manager for further assistance. In some cases, you may be instructed to continue with the manual registration process. See [[initiate-the-connection-impact-delivery-instance|Initiate the connection to Impact data with manual registration]] for manual registration.
+</table>    **Warning:** If either status does not update to Active Replication, contact your Impact Customer Success Manager for further assistance. In some cases, you may be instructed to continue with the manual registration process. See [Initiate the connection to Impact data with manual registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-the-connection-impact-delivery-instance.md) for manual registration.
 
 
 ## What to do next
 
-[[initiate-migration-idi|Initiate data migration from IDI]]
+[Initiate data migration from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-migration-idi.md)
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
 **Previous topic:**[Use automated registration to connect to the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/start-automated-registration-IDI.md)
 
 **Next topic:**[Initiate data migration from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-migration-idi.md)
 
-## Related
-
-- [[start-automated-registration-IDI|Use automated registration to connect to the Impact Delivery Instance]]
-- [[initiate-the-connection-impact-delivery-instance|Initiate the connection to Impact data with manual registration]]
-- [[initiate-migration-idi|Initiate data migration from IDI]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[impact-landing-page|Impact]]

@@ -22,7 +22,7 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -36,7 +36,7 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 7.  Click **Open Record**.
 
-8.  On the [[monetary-benefit-plan-breakdown-form|Monetary Benefit Plan Breakdown form]], view and update the enabled fields.
+8.  On the Monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
 <table id="choicetable_os3_4p1_dcb"><thead><tr><th align="left" id="d221344e131">
 
@@ -132,7 +132,3 @@ First date of the fiscal period corresponding to the benefit plan breakdown.
 
 **Parent Topic:**[Create a monetary benefit plan for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-monetary-benefit-plan-agile-epic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[monetary-benefit-plan-breakdown-form|Monetary Benefit Plan Breakdown form]]

@@ -33,7 +33,7 @@ Using the Move project's Schedule view, you can:
 The following process explains how the start and end dates of a move project are determined:
 
 1.  An employee or a move manager raises a move request. They specify a date in the **Requested move date** field.
-2.  When the move requests are collated in the [[move-mgmt|Move Management]] workspace, they’re displayed with the **Requested move date**, **Expected start**, and **Due date**.
+2.  When the move requests are collated in the Move Management workspace, they’re displayed with the **Requested move date**, **Expected start**, and **Due date**.
 3.  The planned start and end date of the move project are set based on the minimum **Expected start** date and the maximum **Due date** from the move requests that are associated with the project.
 
 ## Move project views
@@ -64,7 +64,7 @@ When you select a move project to work, it’s opened in a separate tab. It’s 
 
     -   You can change the state of the project that is assigned to you.
     -   You can reassign the project to yourself by changing the **Assigned to** field.
-    -   You can track the activities such as state changes and user assignment changes performed on the project in the [[activity-lxp|Activity]] section.
+    -   You can track the activities such as state changes and user assignment changes performed on the project in the Activity section.
     -   You can add work notes in the project using the Compose section. You can enter your names and select **Post Work notes \(Private\)**.
 -   **Attachments**
 
@@ -112,7 +112,3 @@ A move project goes through the following state changes:
 
 **Parent Topic:**[Move management key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)
 
-## Related
-
-- [[move-mgmt|Move Management]]
-- [[activity-lxp|Activity]]

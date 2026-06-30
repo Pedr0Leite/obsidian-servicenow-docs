@@ -14,7 +14,7 @@ breadcrumb: [Explore, Compliance Case Management, Governance, Risk, and Complian
 
 # 360° Relationship Visualization of a compliance case
 
-Use the 360° compliance case view to explore the relationship between your compliance case and all its associated records in a distinctive visualization. To use this feature, you must integrate [[compliance-case-management|Compliance Case Management]] with the 360° Relationship Visualization application.
+Use the 360° compliance case view to explore the relationship between your compliance case and all its associated records in a distinctive visualization. To use this feature, you must integrate Compliance Case Management with the 360° Relationship Visualization application.
 
 ## 360° view of a compliance case
 
@@ -38,6 +38,3 @@ The following example shows the entities linked to a compliance case:\[Omitted i
 
 **Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

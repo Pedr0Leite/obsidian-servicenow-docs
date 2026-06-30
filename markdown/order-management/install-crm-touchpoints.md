@@ -12,7 +12,7 @@ breadcrumb: [Activity Management, Lead and opportunity management apps, Configur
 
 # Install CRM Touchpoints
 
-You can install the [[explore-crm-touchpoints|CRM Touchpoints]] application \(com.sn\_crm\_touchpoint\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the CRM Touchpoints application \(com.sn\_crm\_touchpoint\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following items are installed with CRM Touchpoints:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-crm-touchpoints|Components installed with CRM Touchpoints]].
+For more information, see [Components installed with CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-crm-touchpoints.md).
 
 ## Procedure
 
@@ -48,27 +48,19 @@ For more information, see [[components-installed-crm-touchpoints|Components inst
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
 
 ## What to do next
 
-[[create-custom-touchpoint-types|Create custom touchpoint types]]
+[Create custom touchpoint types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-custom-touchpoint-types.md)
 
 **Related topics**  
 
 
-[[using-activity-management|Using Activity Management]]
+[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[components-installed-crm-touchpoints|Components installed with CRM Touchpoints]]
-- [[create-custom-touchpoint-types|Create custom touchpoint types]]
-- [[using-activity-management|Using Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[use-cases|Use cases]]

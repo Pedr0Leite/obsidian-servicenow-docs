@@ -27,7 +27,7 @@ You can view the following information for each connection:
 -   The source and target CIs of this connection displayed in the Context \(right-click\) menu.
 -   A complete list of all attributes collected about the connection in the Properties pane.
 
-By default, [[c_ServiceMappingOverview|Service Mapping]] merges connection lines for the same CI to declutter an application service map. It helps to make the map more readable.
+By default, Service Mapping merges connection lines for the same CI to declutter an application service map. It helps to make the map more readable.
 
 \[Omitted image "MapAddOptionsMergeEdgesExample.png"\] Alt text: Merged connection lines
 
@@ -149,7 +149,7 @@ All concealed connections for this CI appear on the map.
 
 </td></tr><tr><td>
 
-\(Available for application services discovered with Service Mapping\) Traffic-based connections for a CI. **Note:** You can see traffic-based connections for a CI, even if you disabled the traffic-based [[r-discovery|discovery]] for an service instance the CI is part of.
+\(Available for application services discovered with Service Mapping\) Traffic-based connections for a CI. **Note:** You can see traffic-based connections for a CI, even if you disabled the traffic-based discovery for an service instance the CI is part of.
 
 </td><td>
 
@@ -236,7 +236,3 @@ User decision
 </table>
 **Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

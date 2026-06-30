@@ -14,17 +14,13 @@ breadcrumb: [Execute from the agent map, Execute work order tasks, Updating task
 
 # Agent location
 
-The [[fsm-application-landing-page|Field Service Management]] application calculates your location from a set of geographical coordinates.
+The Field Service Management application calculates your location from a set of geographical coordinates.
 
 These coordinates are updated at a predefined interval based on geolocation data returned by your mobile device. Your position at the beginning of the day might be calculated from mobile device coordinates or from the location of the home office, whichever is more current. If you are starting the day completing a task that carried over from the previous day, the system uses the location of that task as your starting position. The system uses your precise location throughout the day to calculate accurate travel times, route your tasks automatically, and schedule fixed time windows.
 
-**Note:** The actions such as start travel, [[t_StartWork|start work]], pause work, resume work, close complete, and close incomplete performed either from the desktop application or mobile application generate an entry in the geolocation history table with the following additional details:
+**Note:** The actions such as start travel, start work, pause work, resume work, close complete, and close incomplete performed either from the desktop application or mobile application generate an entry in the geolocation history table with the following additional details:
 
 -   Action description
 -   Work order task number
 -   Location timestamp
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[t_StartWork|Start work]]

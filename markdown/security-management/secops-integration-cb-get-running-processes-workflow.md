@@ -12,50 +12,34 @@ breadcrumb: [Security Operations Integration- Get Running Processes capability, 
 
 # Security Operations Carbon Black Integration - Get Running Processes Flow
 
-The [[security-operations-landing-page|Security Operations]] [[carbon-black-landing-page|Carbon Black Integration]] - Get Running Processes is the implementation for the Carbon Black integration launched by the Security Operations Integration - Get Running Process flow.
+The Security Operations Carbon Black Integration - Get Running Processes is the implementation for the Carbon Black integration launched by the Security Operations Integration - Get Running Process flow.
 
 Role required: sn\_si.analyst
 
 \[Omitted image "carbon-black-get-running-proccess-1.png"\] Alt text: Flow Design for Security Operations Carbon Black Integration - Get Running Processes 1 \[Omitted image "carbon-black-get-running-proccess-2.png"\] Alt text: Flow Design for Security Operations Carbon Black Integration - Get Running Processes 2 \[Omitted image "carbon-black-get-running-proccess-3.png"\] Alt text: Flow Design for Security Operations Carbon Black Integration - Get Running Processes 3 \[Omitted image "carbon-black-get-running-proccess-4.png"\] Alt text: Flow Design for Security Operations Carbon Black Integration - Get Running Processes 4 \[Omitted image "carbon-black-get-running-proccess-5.png"\] Alt text: Flow Design for Security Operations Carbon Black Integration - Get Running Processes 5
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
--   **[[collect-cb-config-activity|Collect Carbon Black Configurations Flow Action]]**  
+-   **[Collect Carbon Black Configurations Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/collect-cb-config-activity.md)**  
 The Collect Carbon Black Configurations flow action gathers configuration information to use in the flow.
--   **[[check-mid-server-status|Check MID Server Status]]**  
+-   **[Check MID Server Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/check-mid-server-status.md)**  
 Determines whether the MID Server identified in the **MID Server Host** field of the integration's configuration is up and running. If the field is set to **Any**, the flow action verifies that any MID Server is up and running.
--   **[[get-sensor-id-activity|Get Sensor ID Flow Action]]**  
+-   **[Get Sensor ID Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-sensor-id-activity.md)**  
 The Get Sensor ID flow action gathers sensor identifiers to use in the flow.
--   **[[create-session-activity|Create Session Flow Action]]**  
+-   **[Create Session Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-session-activity.md)**  
 The Create Session flow action establishes a Carbon Black session to use in the flow.
--   **[[check-session-status-activity|Check Session Status Flow Action]]**  
+-   **[Check Session Status Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/check-session-status-activity.md)**  
 Determines the status of a Carbon Black session within the flow.
--   **[[create-command-process-activity|Create Command Process Flow Action]]**  
+-   **[Create Command Process Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-command-process-activity.md)**  
 The Create Command Process flow action create a Carbon Black command process to use in the flow .
--   **[[check-command-status-get-process-activity|Check Command Status and Get Process Flow Action]]**  
+-   **[Check Command Status and Get Process Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/check-command-status-get-process-activity.md)**  
 Checks the Carbon Black command status and retrieves processes to use in the flow.
--   **[[map-processes-data-activity|Map Processes Data Flow Action]]**  
+-   **[Map Processes Data Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/map-processes-data-activity.md)**  
 The Map Processes Data flow action maps Carbon Black process data within the flow.
--   **[[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]**  
+-   **[Capability Execution Tracking - Complete Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-complete.md)**  
 The Capability Execution Tracking - Complete flow action updates the audit record when the flow is complete.
--   **[[close-session-activity|Close Session Flow Action]]**  
+-   **[Close Session Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/close-session-activity.md)**  
 Closes a Carbon Black session within the flow.
 
-**Parent Topic:**[[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
+**Parent Topic:**[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[collect-cb-config-activity|Collect Carbon Black Configurations Flow Action]]
-- [[check-mid-server-status|Check MID Server Status]]
-- [[get-sensor-id-activity|Get Sensor ID Flow Action]]
-- [[create-session-activity|Create Session Flow Action]]
-- [[check-session-status-activity|Check Session Status Flow Action]]
-- [[create-command-process-activity|Create Command Process Flow Action]]
-- [[check-command-status-get-process-activity|Check Command Status and Get Process Flow Action]]
-- [[map-processes-data-activity|Map Processes Data Flow Action]]
-- [[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]
-- [[close-session-activity|Close Session Flow Action]]
-- [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
-- [[security-operations-landing-page|Security Operations]]
-- [[carbon-black-landing-page|Carbon Black integration]]

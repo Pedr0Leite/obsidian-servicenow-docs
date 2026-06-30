@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology \(OT\) Manager Foundation
 
-Use the Operational Technology \(OT\) Manager Foundation to help streamline processes in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] related to your OT device data.
+Use the Operational Technology \(OT\) Manager Foundation to help streamline processes in the Industrial Workspace related to your OT device data.
 
 ## Get started
 
@@ -24,7 +24,7 @@ Use the Operational Technology \(OT\) Manager Foundation to help streamline proc
 
 </td><td>
 
-[[configuring-na-otm|Configure]]
+[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
  [\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the OT Manager Foundation to get started](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
@@ -38,7 +38,7 @@ Use the Operational Technology \(OT\) Manager Foundation to help streamline proc
 
 </td><td>
 
-[[now-assist-for-otm-use-cases|Use the OTM AI agent collection]]
+[Use the OTM AI agent collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-use-cases.md)
 
  [\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use agentic workflows for the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-use-cases.md)
 
@@ -74,8 +74,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[configuring-na-otm|Configuring the OT Manager Foundation]]
-- [[now-assist-for-otm-use-cases|Use agentic AI for the OT Manager Foundation]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

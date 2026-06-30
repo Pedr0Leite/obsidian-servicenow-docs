@@ -60,7 +60,7 @@ Risk Value
 
 The value for the specified risk impact and probability combination.The available values are High, Medium, and Low.
 
-This value is displayed in the **Risk value** field of the [[risk-form|Risk form]].
+This value is displayed in the **Risk value** field of the Risk form.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,3 @@ Numerical value to indicate the probability of the risk. This value is multiplie
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-form|Risk form]]

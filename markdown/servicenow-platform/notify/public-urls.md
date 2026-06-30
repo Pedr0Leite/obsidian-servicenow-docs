@@ -14,7 +14,7 @@ breadcrumb: [Notify reference, Notify, Manage service capabilities, Extend Servi
 
 # Public URLs
 
-On-premise customers should ensure that the URLs are accessible from the Internet for the [[notify-landing-page|Notify]]-Twilio driver to work correctly.
+On-premise customers should ensure that the URLs are accessible from the Internet for the Notify-Twilio driver to work correctly.
 
 The Notify-Twilio drivers \(both new and old\) require that specific URLs on the instance be accessible from the Internet by the Twilio server without authentication. If the instance is within a private network, you need to either port forward or set up a reverse proxy.
 
@@ -37,6 +37,3 @@ For the Notify-Twilio Direct driver, the URLs are:
 
 **Parent Topic:**[Notify reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-reference-section.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

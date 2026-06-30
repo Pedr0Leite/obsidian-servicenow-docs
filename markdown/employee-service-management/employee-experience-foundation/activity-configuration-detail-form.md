@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Activity Configuration Detail form
 
-Use the Activity Configuration Detail form to specify which records you want to retrieve from a table when certain conditions are met for a basic [[activity-lxp|activity]] configuration.
+Use the Activity Configuration Detail form to specify which records you want to retrieve from a table when certain conditions are met for a basic activity configuration.
 
 <table id="table_cxh_dwv_nqb"><thead><tr><th>
 
@@ -128,7 +128,7 @@ In the Card mapping script section, add a JSON script to retrieve records from a
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -158,7 +158,7 @@ In the Card mapping script section, add a JSON script to retrieve records from a
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -180,8 +180,3 @@ In the Card mapping script section, add a JSON script to retrieve records from a
 
 [Website configuration form]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -22,7 +22,7 @@ Role required: admin or evam\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\)** &gt; **Data sources**, and then select **New**.
+1.  Navigate to **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **Data sources**, and then select **New**.
 
 2.  On the form, fill in the fields.
 
@@ -85,6 +85,4 @@ Table column to use for sorting the table data. For example, you can select to s
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]

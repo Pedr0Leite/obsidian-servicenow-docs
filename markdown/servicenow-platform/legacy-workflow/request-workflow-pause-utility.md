@@ -14,7 +14,7 @@ breadcrumb: [Workflow pause utility, Workflow administration, Classic Workflow, 
 
 # Request workflow pause utility
 
-You can request the [[workflow-pause-utility|Workflow Pause Utility]] plugin \(com.glideapp.workflow.pause\) if you have the admin role. This plugin may include demo data and activates related plugins if they are not already active.
+You can request the Workflow Pause Utility plugin \(com.glideapp.workflow.pause\) if you have the admin role. This plugin may include demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 There are two ways to request a plugin:
 
--   Access the Now Support [[service-catalog|Service Catalog]] directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
+-   Access the Now Support Service Catalog directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
 -   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
 
 For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
@@ -61,7 +61,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -81,8 +81,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[Workflow pause utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-pause-utility.md)
 
-## Related
-
-- [[workflow-pause-utility|Workflow pause utility]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

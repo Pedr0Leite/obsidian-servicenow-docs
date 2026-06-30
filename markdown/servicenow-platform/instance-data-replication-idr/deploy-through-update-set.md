@@ -14,7 +14,7 @@ breadcrumb: [Deploying replication configuration, Administer, Instance Data Repl
 
 # Deploy a replication configuration through an update set in Instance Data Replication
 
-Export a replication configuration from one instance and import it on another instance through an update set in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Export a replication configuration from one instance and import it on another instance through an update set in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ You can copy a replication configuration from one instance to another using an u
 
     -   Producer replication \(one-way\)
     -   Producer replication with bi-directional replication
-    -   Producer replication with [[discrete-producer-replication-sets|discrete replication]]
+    -   Producer replication with discrete replication
 <table id="choicetable_ap2_cnm_3yb"><thead><tr><th align="left" id="d463399e143">
 
 Option
@@ -171,7 +171,7 @@ Steps
 1.  Navigate to **All** &gt; **Instance Data Replication** &gt; **Producer Replication Sets**.
 2.  Create a producer replication set by selecting **New**.
 3.  On the Producer replication Set form, enter a value in the **Name** field.
-4.  Select the **Bi-Directional** [[check-box|check box]].
+4.  Select the **Bi-Directional** check box.
 5.  In the **Entry Set** field, select the entry set that you imported from the source instance.
 6.  Select **Submit**.
 
@@ -205,8 +205,3 @@ The replication configuration that you exported from the source instance is impo
 
 **Parent Topic:**[Deploying a replication configuration from one instance to another in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/copying-replication-configuration.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[discrete-producer-replication-sets|Discrete replication]]
-- [[check-box|Check box]]

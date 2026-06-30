@@ -12,7 +12,7 @@ breadcrumb: [Create an agentic workflow, Now Assist AI agents, Enable AI experie
 
 # Duplicate an agentic workflow
 
-Duplicate an existing agentic workflow in [[ai-agent-studio|AI Agent Studio]] to save time by not having to manually configure or create agentic workflows.
+Duplicate an existing agentic workflow in AI Agent Studio to save time by not having to manually configure or create agentic workflows.
 
 ## Before you begin
 
@@ -56,15 +56,10 @@ Custom columns, such as the Tools and Knowledge sources, Status, and a column wi
 
     **Note:** The triggers that you see in the duplicated agentic workflows are from the original agentic workflow. They aren’t active by default but you can activate them if necessary.
 
-6.  In the Toggle display section, turn on the Display toggle for the duplicated agentic workflow to be visible in the [[now-assist-center-now-assist-panel|Now Assist panel]] and select **Save and test**.
+6.  In the Toggle display section, turn on the Display toggle for the duplicated agentic workflow to be visible in the Now Assist panel and select **Save and test**.
 
 
 ## Result
 
-You’re redirected to the AI Agent Studio [[now-assist-center-home-page|home page]]. In the Manage and configure AI agents to solve agentic workflow section on the **Agentic workflows** tab, you see the duplicated agentic workflow.
+You’re redirected to the AI Agent Studio home page. In the Manage and configure AI agents to solve agentic workflow section on the **Agentic workflows** tab, you see the duplicated agentic workflow.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-center-home-page|Home page]]

@@ -15,7 +15,7 @@ breadcrumb: [SAP SuccessFactors external content connector, Configure, External 
 
 # Export SAP SuccessFactors Learning data for external content indexing
 
-Export user, library and assignment, and training item data from your SAP SuccessFactors Learning environment. The [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]] needs this exported data to index your content and user permissions for search.
+Export user, library and assignment, and training item data from your SAP SuccessFactors Learning environment. The SAP SuccessFactors external content connector needs this exported data to index your content and user permissions for search.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Role required: none
 
 ## About this task
 
-Unlike most other [[ext-cont-connectors-landing-page|external content connectors]], the SAP SuccessFactors connector doesn't retrieve content and metadata directly from your source system.
+Unlike most other external content connectors, the SAP SuccessFactors connector doesn't retrieve content and metadata directly from your source system.
 
 Instead, the SAP SuccessFactors external content connector retrieves user, library and assignment, and training item data from three comma-separated value \(CSV\) files. These CSV data files are generated using custom reports that you run in your SAP SuccessFactors Learning environment. Your connector administrator needs these generated CSV data files to configure the SAP SuccessFactors external content connector.
 
@@ -70,7 +70,7 @@ Perform these steps to import the custom reports into your SAP SuccessFactors Le
         AND c.col_num = 10) as "Custom Column 10"
         ```
 
-3.  In the Learning Report Designer query editor, edit the SQL query clause from the preceding step to [[reference-email-admin|reference]] the user mapping column for your SAP SuccessFactors Learning environment.
+3.  In the Learning Report Designer query editor, edit the SQL query clause from the preceding step to reference the user mapping column for your SAP SuccessFactors Learning environment.
 
     Your user mapping column is the column with values that uniquely identify each user in your SAP SuccessFactors Learning environment. Values in this column might contain user IDs, email addresses, or some other uniquely identifying information.
 
@@ -146,8 +146,3 @@ For details on creating and configuring a SAP SuccessFactors external content co
 
 **Parent Topic:**[SAP SuccessFactors external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-successfactors-external-content-connector.md)
 
-## Related
-
-- [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[reference-email-admin|Reference]]

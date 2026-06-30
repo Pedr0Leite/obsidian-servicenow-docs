@@ -22,11 +22,11 @@ Role required: Admin or Scan Engine user.
 
 A proposed fix is a recommended remediation option provided for certain definition findings. It includes a specific, predefined solution that developers can apply to resolve issues quickly and accurately. Clear, guided resolutions significantly reduce troubleshooting time and provides consistency in how issues are addressed.
 
-Proposed fixes are defined in the `autofix_script` field of the scan definition. The script executes against the finding's target record when **Apply Proposed Fix** is selected. Refer to the Configuration tab in [[create-scan-engine-definitions|Create custom Scan Engine definitions]] for details.
+Proposed fixes are defined in the `autofix_script` field of the scan definition. The script executes against the finding's target record when **Apply Proposed Fix** is selected. Refer to the Configuration tab in [Create custom Scan Engine definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/create-scan-engine-definitions.md) for details.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Proposed Fix Findings**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health** &gt; **Proposed Fix Findings**.
 
     All findings with available proposed fixes display.
 
@@ -39,8 +39,3 @@ Proposed fixes are defined in the `autofix_script` field of the scan definition.
 
 After applying the fix, the system executes the autofix script and marks the finding as resolved. Review the finding record and the target record to verify the fix was applied successfully. Some fixes may require additional manual validation.
 
-## Related
-
-- [[create-scan-engine-definitions|Create custom Scan Engine definitions]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

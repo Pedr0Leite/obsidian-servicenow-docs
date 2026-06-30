@@ -18,7 +18,7 @@ After you've imported your entitlements, use ServiceNow Discovery or Microsoft S
 
 \[Omitted image "mmasset0021825software-discovery-and-normalization.svg"\] Alt text: This graphic provides an overview of how to setup either ServiceNow Discovery or Microsoft SCCM.
 
-While you may use Discovery Home for datacenters and Microsoft SCCM for desktop environments, you can integrate other third-party discovery solutions with CMDB to support [[c_SoftwareAssetMgmt|Software Asset Management]]. To integrate a different discovery solution, add it manually, or you can download an application, from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For more information about integrating a discovery source manually, see the [Customer Success Center](https://www.servicenow.com/success.html).
+While you may use Discovery Home for datacenters and Microsoft SCCM for desktop environments, you can integrate other third-party discovery solutions with CMDB to support Software Asset Management. To integrate a different discovery solution, add it manually, or you can download an application, from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For more information about integrating a discovery source manually, see the [Customer Success Center](https://www.servicenow.com/success.html).
 
 To learn more about collecting data after you've integrated with both Discovery and SCCM, see [Collect software data with either SCCM or Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_DiscoveryAndSCCMTogether.md).
 
@@ -63,7 +63,7 @@ Microsoft SCCM Integration plugins:
 -   Integration — Microsoft SCCM 2012 v2 \(com.snc.integration.sccm2012v2\) plugin
 -   Integration — Microsoft SCCM 2016 \(com.snc.integration.sccm2016\) plugin
 
-[[sccm-software-usage|Microsoft SCCM Software Usage]] plugins:
+Microsoft SCCM Software Usage plugins:
 
 -   Integration — Microsoft SCCM 2012 v2 Software Usage \(com.snc.samp\_usage\_sccm\) plugin
 -   Integration — Microsoft SCCM 2016 Software Usage \(com.snc.samp.usage\_sccm\_2016\) plugin
@@ -76,7 +76,3 @@ For more information on SCCM and how to import your data into your instance, see
 
 **Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sccm-software-usage|Microsoft SCCM software usage]]

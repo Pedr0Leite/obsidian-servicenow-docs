@@ -18,7 +18,7 @@ The Create Address List activity creates a new address list that acts as an alia
 
 This alias cannot be used to manage user permissions. This activity implements the Microsoft Exchange [New-AddressList](https://technet.microsoft.com/en-us/library/aa996912%28v=exchg.160%29.aspx) command.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
 
 **Note:** This activity replaces an Exchange activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -38,7 +38,7 @@ hostname
 
 </td><td>
 
-The hostname of the Exchange server with which the activity interacts. Do not enter an [[ip-address|IP address]] in this variable.
+The hostname of the Exchange server with which the activity interacts. Do not enter an IP address in this variable.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ parameters
 
 </td><td>
 
-Optional parameters to pass to the Exchange server written in JavaScript Object Notation \(JSON\). Exchange activities cannot pass parameters that [[reference|reference]] an object, such as a PSCredential object. Plain text is automatically converted to SecureString objects for parameters that require that data type.Attempting to save an activity that specifies duplicate parameters, including parameters from activity variables, or incorrectly formatted JSON causes a warning message to appear.
+Optional parameters to pass to the Exchange server written in JavaScript Object Notation \(JSON\). Exchange activities cannot pass parameters that reference an object, such as a PSCredential object. Plain text is automatically converted to SecureString objects for parameters that require that data type.Attempting to save an activity that specifies duplicate parameters, including parameters from activity variables, or incorrectly formatted JSON causes a warning message to appear.
 
 **Note:** When passing a switch parameter, such as ForceUpgrade, you must use the format **"parameter":"true"**.
 
@@ -82,8 +82,3 @@ Optional parameters to pass to the Exchange server written in JavaScript Object 
 |Success|The activity succeeded in creating a new address list.|
 |Failure|The activity failed to create a new address list.|
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]
-- [[reference|Reference]]

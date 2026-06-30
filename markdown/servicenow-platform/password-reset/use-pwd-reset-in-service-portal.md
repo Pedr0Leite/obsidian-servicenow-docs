@@ -14,7 +14,7 @@ breadcrumb: [Configuring Password Reset, Password Reset, Manage service capabili
 
 # Integrate Password Reset with a Service Portal widget
 
-You can enable a [[password-reset-landing-page|Password Reset]] process in a Service Portal page by adding a widget that opens the password reset pages inside the portal.
+You can enable a Password Reset process in a Service Portal page by adding a widget that opens the password reset pages inside the portal.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin or sp\_admin
 
 **Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

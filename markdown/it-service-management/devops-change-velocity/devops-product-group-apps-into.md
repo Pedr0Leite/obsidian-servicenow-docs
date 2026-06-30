@@ -14,7 +14,7 @@ breadcrumb: [Insights reports, DevOps Change Velocity, IT Service Management]
 
 # Group DevOps applications into a product
 
-Products that use an application model in the CSDM support hierarchies of [[dex-workspace-application-tab|applications]]. You can customize hierarchies to simplify tracking of "rolled-up" data on [[devops-insights-working-in|DevOps Insights reports]]. This is used for the Product filter in insights.
+Products that use an application model in the CSDM support hierarchies of applications. You can customize hierarchies to simplify tracking of "rolled-up" data on DevOps Insights reports. This is used for the Product filter in insights.
 
 ## Before you begin
 
@@ -36,11 +36,11 @@ For every product, the system creates a corresponding entry in the application m
 
 1.  Create applications as described in [Create an application - Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 
-2.  Open the application [[c_Models|models]] table: `<instanceName>/cmdb_application_product_model_list.do` and then follow this procedure to configure each application that will be included in a product.
+2.  Open the application models table: `<instanceName>/cmdb_application_product_model_list.do` and then follow this procedure to configure each application that will be included in a product.
 
     1.  In the Application models list, select the application model to open the record.
 
-    2.  On the Application model form, in the **[[c_ModelCategories|Model categories]]** field, select the appropriate category.
+    2.  On the Application model form, in the **Model categories** field, select the appropriate category.
 
     3.  Save the record.
 
@@ -58,7 +58,7 @@ For every product, the system creates a corresponding entry in the application m
 
 4.  Open the Model category of component table \(`<instanceName>/cmdb_m2m_model_component_list.do`\) to specify the category of each application \(the application is the component in this case\).
 
-5.  For each application, select **New**, specify the following [[settings-mobile|settings]], and then submit the record.
+5.  For each application, select **New**, specify the following settings, and then submit the record.
 
     |Field|Description|
     |-----|-----------|
@@ -78,10 +78,3 @@ The DevOps Insights tabs provides filters for the reports.
 -   The **Product** filter lists all applications plus all products.
 -   To view the members of a product, view the list in the Model category of component table \(`<instanceName>/cmdb_m2m_model_component_list.do`\). Applications are listed in the **Component** column and products are listed in the **Bundle** column.
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-insights-working-in|DevOps Insights reports]]
-- [[c_Models|Models]]
-- [[c_ModelCategories|Model categories]]
-- [[settings-mobile|Settings]]

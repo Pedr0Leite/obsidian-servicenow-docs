@@ -14,7 +14,7 @@ breadcrumb: [Planning item configuration for lenses and portfolio plans, Configu
 
 # Enable custom item types in Strategic Planning
 
-Enable the usage of a custom planning item type in [[alignment-planner-workspace-landing-page|Strategic Planning]] so that your planning managers can start adding them to their free-form roadmaps or portfolio plans.
+Enable the usage of a custom planning item type in Strategic Planning so that your planning managers can start adding them to their free-form roadmaps or portfolio plans.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Add the table that you want to allow for planning in Portfolio plans and free-fo
 -   For portfolio plans: Add your custom planning item type to the lens that your planning managers want to use. See [Lens form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/lens-form-alignment-planner-workspace.md).
 -   For free-form roadmaps: [Create planning items from the roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-new-items-from-a-roadmap.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

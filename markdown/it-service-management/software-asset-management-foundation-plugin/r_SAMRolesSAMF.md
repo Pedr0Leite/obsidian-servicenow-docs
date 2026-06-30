@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management Foundation plugin, Software Ass
 
 # Software Asset Management Foundation plugin roles
 
-[[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] adds the following roles.
+Software Asset Management Foundation plugin adds the following roles.
 
 |Role|Description|
 |----|-----------|
@@ -25,6 +25,3 @@ Users with the sam\_user or sam\_admin role can view and refresh the overview pa
 
 **Parent Topic:**[Exploring Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/exploring-sam-foundation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]

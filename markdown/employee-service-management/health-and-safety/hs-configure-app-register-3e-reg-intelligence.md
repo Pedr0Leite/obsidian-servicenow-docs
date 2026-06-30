@@ -14,7 +14,7 @@ breadcrumb: [3E Regulatory Intelligence, 3E, Integration with third-party servic
 
 # Configure the application registry for 3E Regulatory Intelligence
 
-Configure [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]] with [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] to retrieve regulatory list data from 3E server and populate the Regulatory tab on chemical substance records.
+Configure 3E Regulatory Intelligence with Health and Safety Environmental Management to retrieve regulatory list data from 3E server and populate the Regulatory tab on chemical substance records.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ For more information about the 3E Regulatory Intelligence API and subscription r
 
 **Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-regulatory-intelligence.md)
 
-## Related
-
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]

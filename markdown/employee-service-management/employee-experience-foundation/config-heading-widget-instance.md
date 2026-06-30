@@ -26,13 +26,13 @@ Manage widget headings from Heading1 to Heading6 to support company standards, c
 
 ## Procedure
 
-1.  On the [[employee-center-landing-page|Employee Center]] home page, press and hold the control key, right-click one of the following widgets, and then select **Instance Options**.
+1.  On the Employee Center home page, press and hold the control key, right-click one of the following widgets, and then select **Instance Options**.
 
     -   Topic Header
     -   Content Experience
     -   Sub Topic
     -   Rich Content
-    -   [[emp-center-quick-link-config|Quick Links]]
+    -   Quick Links
     -   Topic Content
     The following example shows an instance option for topic page.
 
@@ -53,7 +53,3 @@ Manage widget headings from Heading1 to Heading6 to support company standards, c
 
 A flexible heading for the widget is configured.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]

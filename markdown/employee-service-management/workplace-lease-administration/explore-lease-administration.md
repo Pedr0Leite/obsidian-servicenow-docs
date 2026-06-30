@@ -14,13 +14,13 @@ breadcrumb: [Workplace Lease Administration, Workplace Service Delivery, Employe
 
 # Exploring Workplace Lease Administration
 
-The ServiceNow® [[workplace-lease-admin-feat|Workplace Lease Administration]] enables you to create, manage and track workplace contracts from a single interface. You can also add workplace contract services, assets, locations, documents and track important dates.
+The ServiceNow® Workplace Lease Administration enables you to create, manage and track workplace contracts from a single interface. You can also add workplace contract services, assets, locations, documents and track important dates.
 
 ## Key features
 
 Workplace Lease Administration provides the following features:
 
--   Single interface to create and [[manage-lease-contracts|manage workplace contracts]].
+-   Single interface to create and manage workplace contracts.
 -   Include terms and conditions in a contract.
 -   Attach documents to a contract record.
 -   Associate assets with a contract.
@@ -38,7 +38,7 @@ The benefits of this application include:
 
 ## Workplace contract details
 
-[[use-lease-administration|Using Workplace Lease Administration]] you can create workplace contracts with the following details:
+Using Workplace Lease Administration you can create workplace contracts with the following details:
 
 -   Workplace contract- Basic details for a workplace contract.
 -   Financial- Financial details, for example, a payment schedule, payment amount, and various costs.
@@ -54,8 +54,3 @@ The benefits of this application include:
 
 You will receive notifications on a weekly basic with the list of contracts that are near to their expiration date. For information about how to renew contracts, see [Renew workplace contract in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/renew-lease-workplace-contracts.md).
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[manage-lease-contracts|Manage workplace contracts]]
-- [[use-lease-administration|Using Workplace Lease Administration]]

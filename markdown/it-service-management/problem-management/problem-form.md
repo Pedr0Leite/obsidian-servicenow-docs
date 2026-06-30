@@ -100,7 +100,7 @@ Duplicate of
 
 </td><td>
 
-When **Resolution code** is **Duplicate**, the **Duplicate of** field is the [[reference-for-itsm-mobile-agent|reference]] to the Problem from which the current Problem is duplicated.
+When **Resolution code** is **Duplicate**, the **Duplicate of** field is the reference to the Problem from which the current Problem is duplicated.
 
 </td></tr><tr><td>
 
@@ -302,6 +302,3 @@ Read-only field. The date and time when the user started the fix.
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

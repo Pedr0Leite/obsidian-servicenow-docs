@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Assign roles for Pre-Visit Management users
 
-Assign roles to control access to features, capabilities, and data in the [[pre-visit-mgmt-app|Pre-Visit Management]] application.
+Assign roles to control access to features, capabilities, and data in the Pre-Visit Management application.
 
 **Important:**
 
@@ -86,7 +86,7 @@ sn\_previsit.agent\_connector
 
 Views, creates, and updates procedure request cases for all associated objects.
 
- You can combine this role with other roles for a user with the agent connector profile. For more information, see [[pre-visit-connector-contributor|Determining additional user profiles in Pre-Visit Management]].
+ You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-connector-contributor.md).
 
 </td><td>
 
@@ -146,7 +146,3 @@ sn\_previsit.case\_creator
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[pre-visit-connector-contributor|Determining additional user profiles in Pre-Visit Management]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

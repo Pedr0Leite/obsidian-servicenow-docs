@@ -18,7 +18,7 @@ You can view alerts that are specifically in the flapping state.
 
 ## Before you begin
 
-Before starting this procedure, ask your administrator to [[t_EMConfigAlertStateFlapDetect|configure alert flapping]] properties.
+Before starting this procedure, ask your administrator to configure alert flapping properties.
 
 Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
@@ -28,7 +28,7 @@ Flapping occurs when the event source continues to generate events even after it
 
 The frequency of events from an identical source within a given time interval determines whether an alert is in a flapping state or a new issue has occurred. Based on the **evt\_mgmt.flap\_frequency** and **__evt\_mgmt.flap\_interval__** property values:
 
--   If the same issue is recurring, [[c_EM|Event Management]] associates the new event with the existing alert and the state of the alert is set to **Flapping**.
+-   If the same issue is recurring, Event Management associates the new event with the existing alert and the state of the alert is set to **Flapping**.
 -   If the issue occurs after the time interval expires, Event Management creates an alert.
 
 For example, you can respond to an alert by rebooting a problematic server. After no events are generated for several minutes, it is assumed that the issue is fixed and the alert is closed. If the reboot did not actually fix the issue, this server can generate more events later. Then additional alerts are generated for the same issue.
@@ -59,7 +59,3 @@ For example, you can respond to an alert by rebooting a problematic server. Afte
 
 [Configure alert flapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigAlertStateFlapDetect.md)
 
-## Related
-
-- [[t_EMConfigAlertStateFlapDetect|Configure alert flapping]]
-- [[c_EM|Event Management]]

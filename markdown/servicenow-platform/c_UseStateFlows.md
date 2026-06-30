@@ -18,8 +18,8 @@ Make state transitions occur in any order or skip specific states according to y
 
 Administrators can configure state flows to:
 
--   Limit the [[t_CreateAStateFlow|choice list]] for the **State** field to contain only those states that are valid for the flow.
--   Define the [[c_StateFlows|behavior and visibility]] of specific fields on a task form when state transitions occur and for certain end states.
+-   Limit the [choice list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md) for the **State** field to contain only those states that are valid for the flow.
+-   Define the [behavior and visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md) of specific fields on a task form when state transitions occur and for certain end states.
 -   Configure [events that are triggered when a task changes states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md).
 -   [Set up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md) UI actions and business rules to implement certain state transitions, or while the task is in certain states.
 
@@ -46,7 +46,7 @@ You set an override in tables that extend a base table only, so that your custom
 
 You can configure a state flow to trigger a registered system event when a task transitions from a starting state to a specified end state.
 
-For example, you can use events to trigger [[email|email]] notifications and create script actions. When you attach an event to a state flow, the system creates a business rule called State Flow Events for &lt;table name&gt; for the table specified in the state flow. If you specify a start and end state, the business rule executes when the record transitions from the start state to the end state. If the state flow only specifies an end state, the business rule executes whenever that end state is reached. The system creates one business rule for all state flows containing events on a single table. When all events or all state flows on a table are deleted, the system deletes the business rule.
+For example, you can use events to trigger email notifications and create script actions. When you attach an event to a state flow, the system creates a business rule called State Flow Events for &lt;table name&gt; for the table specified in the state flow. If you specify a start and end state, the business rule executes when the record transitions from the start state to the end state. If the state flow only specifies an end state, the business rule executes whenever that end state is reached. The system creates one business rule for all state flows containing events on a single table. When all events or all state flows on a table are deleted, the system deletes the business rule.
 
 ## Field controls
 
@@ -86,9 +86,9 @@ When matching fails, the start and end states of affected records are left blank
 
 -   **[Create a state flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md)**  
 Creating State Flows.
--   **[[c_StateFlowCleanup|State flow cleanup]]**  
+-   **[State flow cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlowCleanup.md)**  
 The business rules, client scripts, and UI actions that the system creates automatically to perform custom transitions exist only while the state flow records that use them are present.
--   **[[c_WorkNotes|Work notes]]**  
+-   **[Work notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_WorkNotes.md)**  
 Work notes are an important part of the state flow process and are used to communicate information about state transitions.
 
 **Parent Topic:**[State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
@@ -100,10 +100,3 @@ Work notes are an important part of the state flow process and are used to commu
 
 [Create a state flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md)
 
-## Related
-
-- [[t_CreateAStateFlow|Create a state flow]]
-- [[c_StateFlows|State flows]]
-- [[c_StateFlowCleanup|State flow cleanup]]
-- [[c_WorkNotes|Work notes]]
-- [[email|Email]]

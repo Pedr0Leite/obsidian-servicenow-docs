@@ -36,7 +36,7 @@ New
 
 Improvement request is created either manually, or from within an integrated application by an Improvement Requester.
 
- Integrated [[dex-workspace-application-tab|applications]] include [[benchmarks-landing|Benchmarks]], CMDB, [[cf-coaching-landing|Coaching]], Demand, GRC, Major [[c_IncidentManagement|Incident Management]], [[c_ProblemManagement|Problem Management]], and Survey Management.
+ Integrated applications include Benchmarks, CMDB, Coaching, Demand, GRC, Major Incident Management, Problem Management, and Survey Management.
 
  **States** list:
 
@@ -473,7 +473,7 @@ Click **Close**.
 
 </td></tr></tbody>
 </table>-   **[Continual Improvement Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-roles.md)**  
-Roles are added with installation of [[cim-landing-page|Continual Improvement Management]].
+Roles are added with installation of Continual Improvement Management.
 -   **[Improvement field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-field-descriptions.md)**  
 Improvement Initiative form and related field descriptions.
 -   **[Components installed with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-components.md)**  
@@ -483,16 +483,7 @@ Validate the continued functionality of Continual Improvement Management during 
 -   **[Updates after improvement initiative creation from integrated applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/ui-updates-initiative-from-app.md)**  
 UI changes display on the source application record and on the initiative record when you create an improvement initiative from an integrated application.
 -   **[Updates after application record creation from improvement initiatives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/updates-app-record-from-initiative.md)**  
-UI changes display on the source improvement initiative or CIM task record and on the corresponding application records of some applications when you [[create-app-records|create application records from improvement initiatives]] or CIM tasks.
+UI changes display on the source improvement initiative or CIM task record and on the corresponding application records of some applications when you create application records from improvement initiatives or CIM tasks.
 
 **Parent Topic:**[Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[benchmarks-landing|Benchmarks]]
-- [[cf-coaching-landing|Coaching]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[create-app-records|Create application records from improvement initiatives]]

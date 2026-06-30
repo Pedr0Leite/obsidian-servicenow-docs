@@ -26,7 +26,7 @@ You can create email accounts in addition to the accounts provisioned for you.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Email Accounts**, and then select **New**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**, and then select **New**.
 
 2.  On the form, fill in the fields.
 
@@ -60,7 +60,7 @@ A shared address refers to a shared mailbox that multiple users or team members 
 
 A forwarding address is an email address where emails are automatically redirected or forwarded from another account.
 
- **Note:** Account type is specific to personal corporate mailbox. For more information,see [[personal-corporate-mailbox|Personal corporate mailbox]].
+ **Note:** Account type is specific to personal corporate mailbox. For more information,see [Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md).
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ From
 
 </td><td>
 
-\(SMTP only\) The From address used for [[notifications|notifications]] sent with this account. This address takes precedence over the **User name** field. If nothing is present in this field, the User name is used as the return address for notifications sent from the instance.
+\(SMTP only\) The From address used for notifications sent with this account. This address takes precedence over the **User name** field. If nothing is present in this field, the User name is used as the return address for notifications sent from the instance.
 
 </td></tr><tr><td>
 
@@ -195,16 +195,16 @@ System Address Filter
 
 </td><td>
 
-System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or [[ia-outbound-email-il|outbound email]].
+System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [[system-address-filters|System address filters]].
+ For more information, see [System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md).
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
 4.  Select the test connection link at the bottom to test the SMTP, POP3, or IMAP account.
 
-    The system displays a pop-up window with the [[hs-results|results]] of the connection test.
+    The system displays a pop-up window with the results of the connection test.
 
     \[Omitted image "connection-successful.png"\] Alt text: Connection Test pop-up window displaying the results connection successful.
 
@@ -219,14 +219,5 @@ The system uses the email account to send or receive email.
 
 Enable the system to send or receive email.
 
-**Parent Topic:**[[c_EmailAccounts|Email accounts]]
+**Parent Topic:**[Email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md)
 
-## Related
-
-- [[personal-corporate-mailbox|Personal corporate mailbox]]
-- [[system-address-filters|System address filters]]
-- [[c_EmailAccounts|Email accounts]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[notifications|Notifications]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[hs-results|Results]]

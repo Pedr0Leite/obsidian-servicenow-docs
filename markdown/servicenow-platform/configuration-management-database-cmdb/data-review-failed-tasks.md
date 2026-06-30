@@ -25,7 +25,7 @@ Role required: sn\_cmdb\_admin
 1.  Navigate to the Certification tasks list in either of the following ways:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace**, then select **My Work** in the CMDB Workspace menu bar. In the Certification exceptions pop-up banner, select **Click here to view**.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** and in the navigation panel select the Tasks icon. In the Tasks navigation panel select **Certification** and on the [[c_DataCertification|Data Certification]] page, select the Exceptions tab.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** and in the navigation panel select the Tasks icon. In the Tasks navigation panel select **Certification** and on the Data Certification page, select the Exceptions tab.
 2.  Select a drop-down to expand a task to show the records and fields that failed the certification review.
 
 3.  Select the Certification Document Id of the field that you want to update.
@@ -39,7 +39,3 @@ Role required: sn\_cmdb\_admin
 
 See the [Review certification tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md) topic to locate and review the respective certification task and to update incorrect field values. You can also directly access record and CI forms to update incorrect values.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_DataCertification|Data Certification]]

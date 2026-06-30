@@ -26,7 +26,7 @@ Introduction to CPQ:
 
 These modules are free to view by any individual without the need to create an account on the portal. These modules provide the student with a high level overview of the CPQ Commerce Logic Engine, its purpose, its main features and advantages, as well as a review of its major components. There is also a video demonstration of the end-user interface that a sales rep or customer would use to configure products for purchase, as well as a video demonstration of the CPQ Administration user interface that system administrators use to create and maintain CPQ configurations.
 
-[[cpq-using|Using CPQ]] with Salesforce:
+Using CPQ with Salesforce:
 
 CPQ Essentials: The student is presented with learning modules that cover the core, central features of the Commerce Logic Engine as they are used in a Salesforce application environment. These 18 modules provide you with practical knowledge of how to perform various processes in the software that an administrator will perform on a daily basis. The student is provided video-based lectures on each topic, a video-based demonstration of how to complete any practice exercise for that topic, a PDF student guide document that has all the slides, and student notes,. Also, a lab exercise is provided that will allow the student to perform the practical procedures described for the topic.
 
@@ -44,7 +44,7 @@ CPQ admin APIs: These 25 learning modules provide the student with an overview o
 
 CPQ Run Time APIs: This set of 3 learning modules provides content that cover the various Run Time APIs for CPQ. Each module reviews a specific subset of the Run Time APIs, and gives the student the syntax of each API call, the required parameters for each call, a description of each parameter, and real world examples of what an actual call might look like in use. Also, a demonstration of the use of every API call is performed so that the student can see what the complete API request would look like, including the request payload, if needed. The response to each API call is then reviewed to allow the students to see what they should expect to get back once the call is executed.
 
-[[use-cases|Use Cases]]:
+Use Cases:
 
 These modules cover specific use cases for CPQ and provide the student with an explanation of the use case and why you might need it, as well as a demonstration of how the use case can be implemented in CPQ, including the components that need to be set up in order to implement the use case.
 
@@ -62,7 +62,3 @@ For more information about the Training Portal and how to purchase a subscriptio
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[cpq-using|Using CPQ]]
-- [[use-cases|Use cases]]

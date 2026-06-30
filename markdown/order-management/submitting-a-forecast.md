@@ -32,7 +32,7 @@ Role required: sn\_sales\_forecast.submission\_writer
 
 5.  From the **Forecast** list, select the forecast record that you want to submit.
 
-6.  Check the values in the following [[fields|fields]] that are automatically populated:
+6.  Check the values in the following fields that are automatically populated:
 
     -   Owner
     -   Sales Team
@@ -50,18 +50,12 @@ Role required: sn\_sales\_forecast.submission\_writer
     The forecast has been submitted. The forecast values have been locked and cannot be changed.
 
 
-**Parent Topic:**[[using-sales-forecasting|Using Sales Forecasting]]
+**Parent Topic:**[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
 **Related topics**  
 
 
-[[configure-sales-forecasting|Configure Sales Forecasting]]
+[Configure Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[configure-sales-forecasting|Configure Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[fields|Fields]]

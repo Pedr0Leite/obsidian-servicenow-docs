@@ -14,9 +14,9 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Minimize session window timeout duration
 
-Use the **glide.ui.user\_cookie.life\_span\_in\_days** property to set the expiration time period for the [[c_ChSetRemMeChkbxCookie|Remember Me]] cookie. The default value is 15 days and the maximum cap is at 30 days.
+Use the **glide.ui.user\_cookie.life\_span\_in\_days** property to set the expiration time period for the Remember Me cookie. The default value is 15 days and the maximum cap is at 30 days.
 
-The **glide.ui.user\_cookie.life\_span\_in\_days** system property affects the expiry of cookies. After each successful [[c_Authentication|authentication]], the cookie will expire after the number of days specified as the property value. If **glide.ui.user\_cookie.life\_span\_in\_days** isn't set to the recommended value of `15` or less, then there is a higher risk that the cookie, if stolen, can be used for longer.
+The **glide.ui.user\_cookie.life\_span\_in\_days** system property affects the expiry of cookies. After each successful authentication, the cookie will expire after the number of days specified as the property value. If **glide.ui.user\_cookie.life\_span\_in\_days** isn't set to the recommended value of `15` or less, then there is a higher risk that the cookie, if stolen, can be used for longer.
 
 Ensure the property **glide.ui.user\_cookie.life\_span\_in\_days** is set to `15` or less.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Functional impact
 
 </td><td>
 
-This property is enabled by the end user when the end user checks the **Remember me** check box from the login page and [[logs|logs]] in to the ServiceNow AI Platform.
+This property is enabled by the end user when the end user checks the **Remember me** check box from the login page and logs in to the ServiceNow AI Platform.
 
 </td></tr><tr><td>
 
@@ -115,10 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]

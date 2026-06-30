@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 # Establish MS Teams Graph connection on ServiceNow AI Platform
 
-[[integrating-threat-intelligence-security-center|Integrate]] ServiceNow AI Platform instance and Microsoft Teams account by establishing a Microsoft Teams Graph connection.
+Integrate ServiceNow AI Platform instance and Microsoft Teams account by establishing a Microsoft Teams Graph connection.
 
 ## Before you begin
 
@@ -59,13 +59,9 @@ Use client secret value to configure the Graph application registry record.
 **Related topics**  
 
 
-[Integrate [[major-security-incident-management-landing-page|Major Security Incident Management]] with Microsoft SharePoint]()
+[Integrate Major Security Incident Management with Microsoft SharePoint]()
 
 [Integrate Major Security Incident Management with Microsoft Teams]()
 
 [Major Security Incident Management Conference Call Integration]()
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Supported screens, Align apps, screens, and functions, Offline mode
 
 # Configure data items in offline mode
 
-Define a separate data item for [[mobile-offline-mode|offline mode]], giving you the flexibility to define the amount of data to display when a user is offline.
+Define a separate data item for offline mode, giving you the flexibility to define the amount of data to display when a user is offline.
 
 ## Before you begin
 
@@ -26,19 +26,19 @@ Use data items to confirm the offline cache reflects only what users need, such 
 
 **Note:** Offline mode for data configuration is intended to support brief periods without connectivity; the cache isn’t designed for long-term data retention.
 
-Use the Mobile Ofﬂine properties area to specify the type and amount of information to display to a user when they are in ofﬂine mode. For example, you can display a month’s worth of tasks in online mode and only three days’ worth in ofﬂine mode. In both online and ofﬂine modes, the data item type is always the same, and the information is extracted from the same table. For more information, see [[sg-data-item|Data items]].
+Use the Mobile Ofﬂine properties area to specify the type and amount of information to display to a user when they are in ofﬂine mode. For example, you can display a month’s worth of tasks in online mode and only three days’ worth in ofﬂine mode. In both online and ofﬂine modes, the data item type is always the same, and the information is extracted from the same table. For more information, see [Data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item.md).
 
 **Note:** If a data item is not created for offline mode, then the standard data item is used for both offline and online modes.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -50,22 +50,13 @@ Use the Mobile Ofﬂine properties area to specify the type and amount of inform
 
     **Note:** **Declarative** and **Scripts** are supported conditional types.
 
-    Scripted data item conditions are evaluated only when the offline cache is generated. Once the data is downloaded and the user is offline, the script no longer runs. Instead, the app uses the pre-generated query string to filter the data as it was prepared at download time. For more information, see [[offline-capabilities|Mobile experience capabilities available in offline mode]].
+    Scripted data item conditions are evaluated only when the offline cache is generated. Once the data is downloaded and the user is offline, the script no longer runs. Instead, the app uses the pre-generated query string to filter the data as it was prepared at download time. For more information, see [Mobile experience capabilities available in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-capabilities.md).
 
 6.  Select **Save**.
 
 
--   **[[offline-data-items-general-guidelines|General guidelines for working with data items in offline mode]]**  
+-   **[General guidelines for working with data items in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-data-items-general-guidelines.md)**  
 When working with data items keep these general guidelines in mind for usability and a good user experience.
 
-**Parent Topic:**[[screens-offline|Supported screens for offline mode]]
+**Parent Topic:**[Supported screens for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/screens-offline.md)
 
-## Related
-
-- [[sg-data-item|Data items]]
-- [[offline-capabilities|Mobile experience capabilities available in offline mode]]
-- [[offline-data-items-general-guidelines|General guidelines for working with data items in offline mode]]
-- [[screens-offline|Supported screens for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

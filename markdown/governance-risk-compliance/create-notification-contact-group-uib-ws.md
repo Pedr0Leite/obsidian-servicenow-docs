@@ -12,7 +12,7 @@ breadcrumb: [Setup for Everbridge notifications, Configure, Business Continuity 
 
 # Create notification contact groups
 
-[[create-notification-contact-group|Create a notification contact group]] using the ServiceNow AI Platform groups. Use the group members as the contacts for an emergency notification. Synchronize the group members as the contacts with Everbridge and track the non-synchronized members as exceptions.
+Create a notification contact group using the ServiceNow AI Platform groups. Use the group members as the contacts for an emergency notification. Synchronize the group members as the contacts with Everbridge and track the non-synchronized members as exceptions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[notification-contact-group-form|Notification Contact Group form]].
+    For more information, see [Notification Contact Group form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/notification-contact-group-form.md).
 
 4.  Select **Submit**.
 
@@ -48,10 +48,5 @@ You can synchronize this particular contact first and then the group with Everbr
 -   **[Notification Contact Group form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/notification-contact-group-form.md)**  
 Use the Notification Contact Group form to create a notification contact group.
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[notification-contact-group-form|Notification Contact Group form]]
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
-- [[create-notification-contact-group|Create a notification contact group]]

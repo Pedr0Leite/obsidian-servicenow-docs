@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Day 1 setup guide for VMware on Cloud Provisioning and Governance
 
-To set up [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] for the very first time, you perform the procedures in this "Day 1" setup guide. Be sure to perform the procedures in order. After you have performed Day 1 setup, you can perform optional Day 2 setup and configuration procedures as needed and in any order. Detailed instructions for each procedure follow this overview.
+To set up Cloud Provisioning and Governance for the very first time, you perform the procedures in this "Day 1" setup guide. Be sure to perform the procedures in order. After you have performed Day 1 setup, you can perform optional Day 2 setup and configuration procedures as needed and in any order. Detailed instructions for each procedure follow this overview.
 
 ## Request the Cloud Provisioning and Governance application
 
@@ -33,11 +33,11 @@ Cloud providers often use different names for accounts, regions, and credential 
 
 Your setup process includes these tasks:
 
--   If needed: [[request-plugin-cloud-mgt|Request the Cloud Provisioning and Governance application]].
+-   If needed: Request the Cloud Provisioning and Governance application.
 -   Assign appropriate roles to cloud users.
 -   Set up the MID Servers that will handle secure communications with the provider API endpoints.
--   On the provider portal, collect your account settings and the credentials that the [[r-discovery|Discovery]] process will use \(through a MID Server\) to programatically access your provider accounts. Securely associate the account settings and credentials with a service account in Cloud Provisioning and Governance.
--   Set up a cloud account to represent your entire managed cloud infrastructure and set up a service account that works with one of your provider accounts. You specify which datacenters in the service account should be included in the cloud account. \(Later, on "Day 2", you can set up additional [[cloud-accounts|cloud accounts]] and service accounts from the same or other providers.\)
+-   On the provider portal, collect your account settings and the credentials that the Discovery process will use \(through a MID Server\) to programatically access your provider accounts. Securely associate the account settings and credentials with a service account in Cloud Provisioning and Governance.
+-   Set up a cloud account to represent your entire managed cloud infrastructure and set up a service account that works with one of your provider accounts. You specify which datacenters in the service account should be included in the cloud account. \(Later, on "Day 2", you can set up additional cloud accounts and service accounts from the same or other providers.\)
 -   Cloud Provisioning uses CMDB data to help users request and manage cloud resources and to help you manage your cloud infrastructure. To populate the CMDB with resource data for all datacenters, you manually run the Discovery process on each datacenter in the service account. Then, to ensure that the data continues to be updated, you configure Discovery to run on a regular schedule. Your cloud account might look like this:
 
     \[Omitted image "cloud-acct-day-1.png"\] Alt text: Structure of a cloud account on Day 1
@@ -48,23 +48,23 @@ Your setup process includes these tasks:
 
 Detailed instructions for each procedure follow this overview.
 
--   **1. [[vmware-assign-roles-cloud-mgt|Assign roles to VMware users of Cloud Provisioning and Governance]]**
+-   **1. Assign roles to VMware users of Cloud Provisioning and Governance**
 
     You assign Cloud Provisioning and Governance roles to user groups and to individual users based on user activities and responsibilities.
 
--   **2. [[vmware-create-creds-cloud-mgt|Create the credential and service account that will access your VMware data]]**
+-   **2. Create the credential and service account that will access your VMware data**
 
     To securely access data on your provider account, the Discovery process must present appropriate credentials. To make the credentials available to Discovery, you first create an account in the VMware Console. You then securely store the credentials in a service account in your instance. A service account is a secure record on your instance that stores the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
--   **3. [[disco-datacntrs-in-srv-acct|Discover all datacenters in a service account on-demand]]**
+-   **3. Discover all datacenters in a service account on-demand**
 
     Discovery uses the information in the service account to identify all logical datacenters associated with the provider account.
 
--   **4. [[vmware-cloud-accts-cloud-mgt|Set up cloud accounts for VMware]]**
+-   **4. Set up cloud accounts for VMware**
 
     A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
--   **5. [[set-capacity-limits-cloud-mgt|Set capacity limits on user requests for resources]]**
+-   **5. Set capacity limits on user requests for resources**
 
     Capacity limits place restrictions on the attributes of cloud resources such as the number of virtual machines, virtual CPUs, or aggregate storage. You can set limits on resources separately for each logical datacenter in a cloud account.
 
@@ -109,14 +109,3 @@ Detailed instructions for each procedure follow this overview.
 
 When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[request-plugin-cloud-mgt|Request the Cloud Provisioning and Governance application]]
-- [[r-discovery|Discovery]]
-- [[cloud-accounts|Cloud accounts]]
-- [[vmware-assign-roles-cloud-mgt|Assign roles to VMware users of Cloud Provisioning and Governance]]
-- [[vmware-create-creds-cloud-mgt|Create the credential and service account that will access your VMware data]]
-- [[disco-datacntrs-in-srv-acct|Discover all datacenters in a service account on-demand]]
-- [[vmware-cloud-accts-cloud-mgt|Set up cloud accounts for VMware]]
-- [[set-capacity-limits-cloud-mgt|Set capacity limits on user requests for resources]]

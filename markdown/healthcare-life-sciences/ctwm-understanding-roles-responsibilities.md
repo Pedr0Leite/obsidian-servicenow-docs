@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Work Management, Healthcare Operations, Health
 
 # Setting up roles and responsibilities in Care Team Work Management
 
-To manage access effectively in [[ctwm-landing|Care Team Work Management]], first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for [[healthcare-operations-overview|Healthcare Operations]]-specific use cases.
+To manage access effectively in Care Team Work Management, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
 To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
@@ -70,8 +70,3 @@ Use the Care Team Agent Manager responsibility to work on care team cases and ca
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Create a lineage for a processing activity
 
-Establish a lineage to visualize data consumption, sharing, and the associated risks for a processing activity. Each processing activity involves multiple [[information-objects|information objects]] classified as personal information. These objects exchange data with various other entities, making it essential to establish a lineage or hierarchy that tracks where personal data is shared.
+Establish a lineage to visualize data consumption, sharing, and the associated risks for a processing activity. Each processing activity involves multiple information objects classified as personal information. These objects exchange data with various other entities, making it essential to establish a lineage or hierarchy that tracks where personal data is shared.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You add lineage relationships from the **Hierarchy** tab using the **Add** butto
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **Workspaces** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Navigate to the **Hierarchy** tab.
 
@@ -74,14 +74,9 @@ The new node appears in the **Hierarchy** tab list. When you select the View lin
 -   **[Edit a lineage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/editing-data-lineage.md)**  
 Edit an existing lineage relationship to update the relationship type, description, or key relationship status of a connected node.
 -   **[Delete a lineage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/delete-data-lineage.md)**  
-[[delete-data-lineage|Delete a lineage]] to remove a specific connection or node from the hierarchy of a processing activity.
+Delete a lineage to remove a specific connection or node from the hierarchy of a processing activity.
 -   **[Update the maximum node level for the lineage map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/updating-node-level-for-lineage-map.md)**  
 Update the `sn_privacy.nodemap.maxLevel system` property to control how many node levels are visible on the lineage map.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[ropa-record|Processing activities]]
-- [[delete-data-lineage|Delete a lineage]]

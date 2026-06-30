@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure the Pre-hire Experience, Configure, Journey de
 
 # Activate new Lifecycle Events activities
 
-[[jny-dsgnr-landing-page-1|Journey designer]] customers must activate the following [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] activities to enable support for the [[jny-pre-hire-experience|Pre-hire experience]]: Account/role setup and notification and Transition pre-hire to employee. These activities facilitate the transition of roles through which the employee navigates during the preboarding process.
+Journey designer customers must activate the following Lifecycle Events activities to enable support for the Pre-hire experience: Account/role setup and notification and Transition pre-hire to employee. These activities facilitate the transition of roles through which the employee navigates during the preboarding process.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_jny.admin
 
 ## About this task
 
-The Account/role setup and notification [[activity-lxp|activity]] is used to facilitate the employee's transition from the applicant role to the pre-hire role. This activity performs the following actions when the Pre-hire activity set is triggered:
+The Account/role setup and notification activity is used to facilitate the employee's transition from the applicant role to the pre-hire role. This activity performs the following actions when the Pre-hire activity set is triggered:
 
 -   Creates an account for the employee to enable access to the onboarding portal.
 -   Adds the sn\_jny.pre\_hire and snc\_external roles to the employee's user record.
@@ -35,7 +35,7 @@ The Transition pre-hire to employee activity is used to facilitate the employee'
 -   Removes the sn\_jny.pre\_hire and snc\_external roles from the employee's user record.
 -   Adds the snc\_internal role to the employee's user record.
 
-The activity set in which this activity is nested is triggered when the date in the **Employment start date** field in the [[c_HRProfileRecords|HR profile]] record of the onboarding employee is equal to the system date.
+The activity set in which this activity is nested is triggered when the date in the **Employment start date** field in the HR profile record of the onboarding employee is equal to the system date.
 
 ## Procedure
 
@@ -68,10 +68,3 @@ Configure the widgets for the Pre-hire experience to ensure that they meet your 
 
 **Parent Topic:**[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[jny-pre-hire-experience|Pre-hire experience]]
-- [[activity-lxp|Activity]]
-- [[c_HRProfileRecords|HR Profile]]

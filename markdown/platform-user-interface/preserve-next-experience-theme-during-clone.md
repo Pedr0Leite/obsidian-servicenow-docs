@@ -65,8 +65,5 @@ This procedure preserves theme-related data during a clone. If the theme is not 
     **Note:** A clone profile enables you to store predefined target and clone options. If you don’t have a clone profile, or don’t need one, skip this step.
 
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]

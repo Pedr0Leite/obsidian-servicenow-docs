@@ -34,13 +34,9 @@ The contextual side panel on the case line page includes different tools that ag
 
 ## Activity stream
 
-The [[csm-config-ws-activity-stream|activity stream]] on the case line task page displays a list of activities occurring on the case line task record.
+The activity stream on the case line task page displays a list of activities occurring on the case line task record.
 
 The activity stream can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.
 
-Agents can [[filter-activity-stream-csm|use the activity stream]] to post work notes and comments about the case line task and to view a list of the task activities.
+Agents can use the activity stream to post work notes and comments about the case line task and to view a list of the task activities.
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[filter-activity-stream-csm|Use the Activity Stream]]

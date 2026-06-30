@@ -14,12 +14,12 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Create an NLU model from blank
 
-Create a [[nlu-landing|Natural Language Understanding]] \(NLU\) model from scratch. Start with an empty model to have full control over the model's content.
+Create a Natural Language Understanding \(NLU\) model from scratch. Start with an empty model to have full control over the model's content.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
--   You can create [[nlu-models|NLU models]] for Virtual Agent and AI Search.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
+-   You can create NLU models for Virtual Agent and AI Search.
 -   Role required: nlu\_admin or admin
 
 ## About this task
@@ -65,8 +65,3 @@ Your new model contains no content. Select **Add content** to begin adding inten
 
 Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-test-set-creation-management.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]

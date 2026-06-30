@@ -22,7 +22,7 @@ Role required: it\_portfolio\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the [[demand-form|demand form]].
+1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the demand form.
 
 2.  In the related links, select **Demand Budget**.
 
@@ -56,6 +56,3 @@ The demand budget for the selected year appears in the **Demand Budget** related
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]

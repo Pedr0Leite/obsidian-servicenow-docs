@@ -14,7 +14,7 @@ breadcrumb: [Reference, Time configuration, Configure core features, Administer 
 
 # Viewing record information over time
 
-You can use three different interfaces to view record information over time: reports and performance analytics, [[c_TimelinePages|timeline pages]], and schedule pages.
+You can use three different interfaces to view record information over time: reports and performance analytics, timeline pages, and schedule pages.
 
 ## Reports and performance analytics
 
@@ -39,6 +39,3 @@ Use timeline pages to track any activity bounded by two dates, such as change re
 
 **Parent Topic:**[Time configuration references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/reference-time-configuration.md)
 
-## Related
-
-- [[c_TimelinePages|Timeline pages]]

@@ -12,7 +12,7 @@ breadcrumb: [Explore, Provider notifications, Notifications, Configure core feat
 
 # Provider notification
 
-Send [[notifications|notifications]] directly to recipients via the provider on supported channels. Notifications can be simple messages for review, or actionable messages with buttons that users can select to perform certain actions.
+Send notifications directly to recipients via the provider on supported channels. Notifications can be simple messages for review, or actionable messages with buttons that users can select to perform certain actions.
 
 ## Important terms
 
@@ -59,9 +59,5 @@ Enable provider admins to define an actionable notification and send it to users
 
 All the above-mentioned capabilities are applicable only for [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) and [Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) providers.
 
-**Parent Topic:**[[exploring-provider-notification|Exploring provider notification]]
+**Parent Topic:**[Exploring provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-provider-notification.md)
 
-## Related
-
-- [[exploring-provider-notification|Exploring provider notification]]
-- [[notifications|Notifications]]

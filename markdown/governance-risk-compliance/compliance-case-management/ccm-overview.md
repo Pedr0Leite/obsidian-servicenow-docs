@@ -14,7 +14,7 @@ breadcrumb: [Compliance Case Management, Governance, Risk, and Compliance]
 
 # Exploring Compliance Case Management
 
-Learn how you can use the GRC: [[compliance-case-management|Compliance Case Management]] application to report, investigate, analyze, and resolve a compliance case, or raise a compliance request for your organization.
+Learn how you can use the GRC: Compliance Case Management application to report, investigate, analyze, and resolve a compliance case, or raise a compliance request for your organization.
 
 ## Benefits of Compliance Case Management
 
@@ -36,16 +36,11 @@ Use the request workflow in the Compliance Case Management application to raise 
 -   **[Compliance Case Management landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-workspace.md)**  
 See an overview of all your compliance case-related information on your GRC: Compliance Case Management landing page. You can also create the cases, requests, and issues from this GRC: Compliance Case Management landing page.
 -   **[Using the compliance case overview related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-overview.md)**  
-The [[compliance-case-overview|compliance case overview]] related list shows the details about a case. For example, you can see the description, state, schedule and milestones, case tasks, and issues that are related to a case in the GRC: Compliance Case Management application.
+The compliance case overview related list shows the details about a case. For example, you can see the description, state, schedule and milestones, case tasks, and issues that are related to a case in the GRC: Compliance Case Management application.
 -   **[Smart assessments in Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/smart-assessment-in-ccm.md)**  
-Use the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] to perform smart assessments on compliance case action tasks.
+Use the Smart Assessment Engine to perform smart assessments on compliance case action tasks.
 -   **[360° Relationship Visualization of a compliance case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/case-task-visualization.md)**  
 Use the 360° compliance case view to explore the relationship between your compliance case and all its associated records in a distinctive visualization. To use this feature, you must integrate Compliance Case Management with the 360° Relationship Visualization application.
 
 **Parent Topic:**[Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[compliance-case-overview|compliance case overview]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

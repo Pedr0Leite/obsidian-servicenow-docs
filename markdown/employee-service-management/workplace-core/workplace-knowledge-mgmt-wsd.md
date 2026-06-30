@@ -14,9 +14,9 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Workplace knowledge management
 
-As a workplace admin, you can create knowledge base articles for employees. In the articles, provide information to your employees about [[workplace-services|workplace services]], such as workplace updates, self-help, troubleshoot, and others.
+As a workplace admin, you can create knowledge base articles for employees. In the articles, provide information to your employees about workplace services, such as workplace updates, self-help, troubleshoot, and others.
 
-With the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application, you can create knowledge base articles and display them as wiki pages or HTML pages. The Workplace Service Delivery Knowledge Management is the same as the ServiceNow AI Platform Knowledge Management, for more information, see [Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-knowledge-management.md).
+With the Workplace Service Delivery application, you can create knowledge base articles and display them as wiki pages or HTML pages. The Workplace Service Delivery Knowledge Management is the same as the ServiceNow AI Platform Knowledge Management, for more information, see [Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-knowledge-management.md).
 
 You can perform the following actions on a knowledge base article:
 
@@ -90,7 +90,3 @@ Update a knowledge base article at any time. Retire a published article or repub
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

@@ -24,7 +24,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  Select the name of a report that uses to imported data source to open the report in the Report Designer.
 
@@ -61,6 +61,3 @@ If you changed the file, the data from the new file replaces that of the old in 
 
 **Parent Topic:**[Create a Core UI report from an imported Microsoft Excel document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/create-report-with-imported-data-source.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

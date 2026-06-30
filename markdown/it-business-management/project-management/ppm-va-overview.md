@@ -16,7 +16,7 @@ breadcrumb: [Using Project Management, Project Management, Project Portfolio Man
 
 ServiceNow® Virtual Agent for PPM enables project managers to get quick answers to business-related queries by interacting with a virtual agent through various messaging services.
 
-Virtual Agent for PPM helps project managers view business-related information quickly in a single step rather than having to navigate through various lists. For example, you can get the list of all your [[t_CreateAProjectTask|project tasks]] that are overdue.
+Virtual Agent for PPM helps project managers view business-related information quickly in a single step rather than having to navigate through various lists. For example, you can get the list of all your project tasks that are overdue.
 
 The base system provides the following predefined Virtual Agent topics \(chatbot conversations\):
 
@@ -28,7 +28,7 @@ The base system provides the following predefined Virtual Agent topics \(chatbot
     -   Overdue tasks
     -   Delayed tasks
 -   Resources
-    -   [[c_ResourcePlans|Resource plans]] with actual hours greater than allocated hours
+    -   Resource plans with actual hours greater than allocated hours
     -   Unallocated resource plans starting next week
     -   Unallocated resource plans with requested extension
 -   Financials
@@ -67,7 +67,3 @@ For more information on integrating with Slack or Microsoft Teams, see [Setting 
 
 [Reusable PPM Virtual Agent topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-va-topic-blocks.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]

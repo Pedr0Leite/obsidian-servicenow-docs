@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 # Service Graph Connector for Qualys
 
-The Service Graph Connector for Qualys pulls in asset inventory data \(hardware and software\) from the Qualys database into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application in your ServiceNow AI Platform® instance.
+The Service Graph Connector for Qualys pulls in asset inventory data \(hardware and software\) from the Qualys database into the Configuration Management Database \(CMDB\) application in your ServiceNow AI Platform® instance.
 
 ## Request apps on the Store
 
@@ -49,7 +49,7 @@ The guided setup for the Service Graph Connector for Qualys provides you with an
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Qualys integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Qualys integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Hardware CI Rules
 
@@ -59,15 +59,9 @@ The hardware Configuration item \(CI\) mapping rule table is equipped with hardw
 
 The Computer CI Mapping Rule table is equipped with predefined rules, including criteria such as OS name, OS category, OS category 2, OS Publisher, OS Product name, and the corresponding target CI class. Following a Qualys API call, the system checks these rules to determine their satisfaction. If a rule is met, the associated target CI class is added to the import set table data. During the mapping process, this designated target CI class is then used.
 
-If you want to update CI attributes, you must create new [[r_ReconciliationRulesPrinciples|reconciliation rules]] to determine which discovery sources can update CI attributes. See 'Reconciliation rules' in the online product documentation and the Identification and Reconciliation Fundamentals article in the ServiceNow Support Knowledge base for more information.
+If you want to update CI attributes, you must create new reconciliation rules to determine which discovery sources can update CI attributes. See 'Reconciliation rules' in the online product documentation and the Identification and Reconciliation Fundamentals article in the ServiceNow Support Knowledge base for more information.
 
 ## Asset Management CI Rules
 
 The Asset Management CI Mapping Rule table is equipped with predefined rules, including criteria such as Operating System, Is Volume Info Present, Is processor Present, Cloud Provider and the corresponding target CI class. Following a Qualys API call, the system checks these rules to determine their satisfaction. If a rule is met, the associated target CI class is added to the import set table data. During the mapping process, this designated target CI class is then used.
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]

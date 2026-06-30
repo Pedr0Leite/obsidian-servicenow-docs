@@ -22,7 +22,7 @@ Role required: sn\_doc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **Document Template Blocks**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **Document Template Blocks**.
 
 2.  Select a document template block.
 
@@ -105,6 +105,4 @@ Text that you want to include in the block content.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

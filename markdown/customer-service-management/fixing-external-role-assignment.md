@@ -12,7 +12,7 @@ breadcrumb: [User management, Set up your environment, Configure, Customer Servi
 
 # Fix external user role assignments
 
-You may have external users \(contacts or consumers\) on your instance that have been assigned internal roles. If so, you can use the [[c_CustomerServiceManagement|Customer Service Management]] guided setup to evaluate and correct these role assignments as needed.
+You may have external users \(contacts or consumers\) on your instance that have been assigned internal roles. If so, you can use the Customer Service Management guided setup to evaluate and correct these role assignments as needed.
 
 Because external users with internal roles can result in access issues, it’s recommended that external users only be assigned external roles.
 
@@ -96,7 +96,3 @@ To help prevent external users from being assigned the snc\_internal role in the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # AI Search dashboard
 
-The AI Search dashboard summarizes [[ia-ai-search|AI Search]] indexed documents, configuration settings in use, and search query traffic. An interactive filter enables users to select the time frame for analysis of search query traffic.
+The AI Search dashboard summarizes AI Search indexed documents, configuration settings in use, and search query traffic. An interactive filter enables users to select the time frame for analysis of search query traffic.
 
 \[Omitted image "adv-ais-mgmt-dashboard-index-index.png"\] Alt text: AI Search dashboard showing AI Search Index tab.
 
@@ -134,7 +134,7 @@ sys\_search\_context\_config
 
 </td><td>
 
-Shows the number of [[defining-search-app-cfgs-ais|search application configurations]] defined that use the AI Search search engine.
+Shows the number of search application configurations defined that use the AI Search search engine.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Shows the number of synonym and stop word dictionaries defined in AI Search.
 
 </td></tr><tr><td>
 
-Configured [[genius-results-ais|Genius Results]]
+Configured Genius Results
 
 </td><td>
 
@@ -166,11 +166,11 @@ ais\_genius\_result\_configuration
 
 </td><td>
 
-Shows the number of Genius Result [[clone-configurations-tab|configurations]] defined in AI Search.
+Shows the number of Genius Result configurations defined in AI Search.
 
 </td></tr><tr><td>
 
-[[hs-results|Results]] Improvement Rules
+Results Improvement Rules
 
 </td><td>
 
@@ -182,7 +182,7 @@ ais\_rule
 
 </td><td>
 
-Shows the number of [[result-improvement-rules-ais|result improvement rules]] defined in AI Search.
+Shows the number of result improvement rules defined in AI Search.
 
 </td></tr><tr><td>
 
@@ -223,11 +223,3 @@ Shows the number of newly indexed records grouped by month.
 |Queries by Language|Donut \[Omitted image "donut-icon.png"\] Alt text:|sys\_search\_event|Shows the number of search queries in the selected time frame, grouped by query language \(ServiceNow AI Platform language context\).|
 |Queries Run Against Index|Line \[Omitted image "line-icon.png"\] Alt text:|sys\_search\_event|Shows the number of search queries in the selected time frame, grouped by month.|
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[genius-results-ais|Genius Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]

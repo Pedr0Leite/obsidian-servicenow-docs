@@ -14,9 +14,9 @@ breadcrumb: [Configuring contextual search, Contextual search, Search administra
 
 # Contextual search properties
 
-Contextual search properties are used to control the fields that you can search from and the number of [[hs-results|results]] displayed per page.
+Contextual search properties are used to control the fields that you can search from and the number of results displayed per page.
 
-The contextual search properties are available at **[[c_ContextualSearch|Contextual Search]]** &gt; **Properties**.
+The contextual search properties are available at **Contextual Search** &gt; **Properties**.
 
 <table id="table_oqg_wbw_wq"><thead><tr><th>
 
@@ -28,11 +28,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Default value for maximum number of search results returned for table and record producer [[clone-configurations-tab|configurations]] \[com.snc.contextual\_search.result.default.limit\]
+Default value for maximum number of search results returned for table and record producer configurations \[com.snc.contextual\_search.result.default.limit\]
 
 </td><td>
 
-Default value for the maximum number of search results returned when you [[t_CreateATable|create a table]] or record producer configuration. By default, the value is 10.
+Default value for the maximum number of search results returned when you create a table or record producer configuration. By default, the value is 10.
 
 </td></tr><tr><td>
 
@@ -109,17 +109,10 @@ The property ensures that only relative links open from the contextual search mo
 
 When the value is set to false, a relative or external link can be opened from the contextual search modal window.
 
-To review this property in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
+To review this property in the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
 **Note:** The contextual search window is displayed in the core UI.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/configuring-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]
-- [[t_CreateATable|Create a table]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

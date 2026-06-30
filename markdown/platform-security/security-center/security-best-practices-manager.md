@@ -14,9 +14,9 @@ breadcrumb: [Security posture console, Security Center, Platform Security]
 
 # Security Best Practices
 
-Use Security Best Practices to implement privacy and security [[sc-configuration|configuration]] tasks on your ServiceNow instance.
+Use Security Best Practices to implement privacy and security configuration tasks on your ServiceNow instance.
 
-Identify [[best-practices|best practices]] to improve your security posture, and follow step-by-step instructions on how to implement them. Security Best Practices provide the following:
+Identify best practices to improve your security posture, and follow step-by-step instructions on how to implement them. Security Best Practices provide the following:
 
 -   The home page shows an overview of your progress on implementing security best practices. You can also organize and manage lists of security best practices according to your organization's goals.
 -   The overview page provides details of each security best practice, the steps to implement them, and a record of all activities and comments.
@@ -43,7 +43,7 @@ The home page displays a **Manage your best practices** section, which includes 
 
 -   **Create a task**
 
-    Use the **+Create task** button to create a Security Task to track or delegate best practice work. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+    Use the **+Create task** button to create a Security Task to track or delegate best practice work. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 
 The table enables you to apply filters so that you can sort and save filtered lists, which you can use as work lists for different use cases or roles. See [save a filtered list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/apply-filters-to-the-security-best-practices-table.md) for more information.
@@ -107,9 +107,9 @@ Goals
 
 Security category that a best practice addresses: -   Address initial security configurations
 -   Secure emails
--   Monitoring [[logs|logs]]
+-   Monitoring logs
 -   Manage access controls
--   Protect with [[encryption-landing|encryption]]
+-   Protect with encryption
 -   Keep instances up to date
 
 </td></tr><tr><td>
@@ -118,7 +118,7 @@ First introduced
 
 </td><td>
 
-Which [[sec-center-v2|Security Center]] version the best practice was introduced.
+Which Security Center version the best practice was introduced.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ This page provides more information on the best practice, divided into tabs:
 
 
 -   **[Complete a security best practice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/complete-a-security-best-practice-on-your-servicenow-instance.md)**  
-Learn how to [[complete-a-security-best-practice-on-your-servicenow-instance|complete a security best practice]] on your ServiceNow instance.
+Learn how to complete a security best practice on your ServiceNow instance.
 -   **[View activity of a best practice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/view-activity-of-a-best-practice.md)**  
 Track the chronological and timestamped history related to a security best practice that you're completing on your ServiceNow instance, along with the user that initiated the activity.
 -   **[View data of completed best practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/view-statistics-of-completed-best-practices.md)**  
@@ -173,17 +173,7 @@ See visual representations of the total amount of best practices completed, or s
 -   **[Filters the security best practices table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/apply-filters-to-the-security-best-practices-table.md)**  
 Apply filters to return more relevant results for your security best practices.
 -   **[Best Practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/best-practices.md)**  
-Learn details about the Best Practices in the [[sc-posture-console|Security Posture Console]].
+Learn details about the Best Practices in the Security Posture Console.
 
 **Parent Topic:**[Security posture console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-posture-console.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[best-practices|Best Practices]]
-- [[security-task-manager|Security Tasks]]
-- [[logs|Logs]]
-- [[encryption-landing|Encryption]]
-- [[sec-center-v2|Security Center]]
-- [[complete-a-security-best-practice-on-your-servicenow-instance|Complete a security best practice]]
-- [[sc-posture-console|Security posture console]]

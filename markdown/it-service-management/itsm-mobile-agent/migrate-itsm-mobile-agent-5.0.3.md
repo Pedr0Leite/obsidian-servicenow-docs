@@ -14,11 +14,11 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 # Migration to ITSM Mobile Agent 5.0.3
 
-Migration to ITSM Mobile Agent 5.0.3 enables the Next Experience theme and accessibility compliance in [[itsm-mobile-agent|ITSM Mobile Agent]].
+Migration to ITSM Mobile Agent 5.0.3 enables the Next Experience theme and accessibility compliance in ITSM Mobile Agent.
 
 This migration includes the following component changes:
 
--   Migration of legacy icon sections to new icon sections. It includes better grouping of icon sections for [[c_OnCallScheduling|on-call scheduling]] and incidents along with color variables for icons.
+-   Migration of legacy icon sections to new icon sections. It includes better grouping of icon sections for on-call scheduling and incidents along with color variables for icons.
 -   Migration of legacy UI parameters to new input form screens. It simplifies the way parameters are defined, enables theming on the input form screen, and supports accessibility enhancements by Mobile Platform.
 -   Migration of legacy card views to mobile views. It allows using color variables as per theme.
 -   All styling changes can be done through UI rules instead of UI styles.
@@ -54,7 +54,7 @@ The `Run clean upgrade for ITSM Mobile Agent` script action upgrade script runs 
 
 -   Custom icon sections that are not available by default continues to function but may not support Next Experience theme and accessibility compliance. Customers must migrate them to navigation sections for better experience.
 -   For customized icon sections that are available by default, customers must manually review the legacy default icon sections that are still active and move their customizations to the new default navigation sections.
--   If customized icon sections are not [[migrated-records|migrated]] to the new navigation sections, then users will have a mixed experience that may not be fully compatible with the new Next Experience theme and can lead to accessibility issues.
+-   If customized icon sections are not migrated to the new navigation sections, then users will have a mixed experience that may not be fully compatible with the new Next Experience theme and can lead to accessibility issues.
 
 ## Migration of UI parameters to input form screen
 
@@ -100,8 +100,3 @@ The `Run clean upgrade for ITSM Mobile Agent` script action upgrade script then 
 -   For custom icon sections that are available by default, customers must manually review the old default flows which are still active and move their customizations to the new flow. For information about configuring cards on mobile, see [Customize a screen using Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-customize-item-view.md).
 -   If customized item views are not migrated to new mobile cards, then users will have a mixed experience that may not be fully compatible with the new Next Experience theme and can lead to accessibility issues.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[migrated-records|Migrated]]

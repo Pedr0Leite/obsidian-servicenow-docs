@@ -14,7 +14,7 @@ breadcrumb: [Using Help Center, Help Center, In-product help, Adoption services,
 
 # Help Center content thumbs up and down feedback
 
-[[help-center|Help Center]] content includes a thumb up or thumbs down feedback option for each Help center article in your instance.
+Help Center content includes a thumb up or thumbs down feedback option for each Help center article in your instance.
 
 ## Help Center content feedback
 
@@ -42,6 +42,3 @@ In this example, after selecting the **Thumbs up** event, the thumbs up dashboar
 -   Topic Id
 -   Version
 
-## Related
-
-- [[help-center|Help Center]]

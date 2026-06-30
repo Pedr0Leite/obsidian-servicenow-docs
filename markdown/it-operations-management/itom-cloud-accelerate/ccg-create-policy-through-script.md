@@ -22,7 +22,7 @@ Role required: sn\_itom\_ccg.governor
 
 ## Procedure
 
-1.  Navigate to **[[cloud-configuration-governance|Cloud Configuration Governance]]** &gt; **Policies**.
+1.  Navigate to **Cloud Configuration Governance** &gt; **Policies**.
 
 2.  Select **New**.
 
@@ -37,9 +37,5 @@ Role required: sn\_itom\_ccg.governor
 
 ## What to do next
 
-[[test-ccg-policy|Test the policy]] to make sure that it is working properly. For more information, see [Test the policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/test-ccg-policy.md).
+Test the policy to make sure that it is working properly. For more information, see [Test the policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/test-ccg-policy.md).
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[test-ccg-policy|Test the policy]]

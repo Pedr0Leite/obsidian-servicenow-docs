@@ -12,7 +12,7 @@ breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capa
 
 # Configuring custom script based Article Optimization scans
 
-The Out-of-Box \(OOB\) [[knowledge-center|Knowledge Center]] settings provide default configurations for article optimization scans. However, users can configure new scans for article optimization.
+The Out-of-Box \(OOB\) Knowledge Center settings provide default configurations for article optimization scans. However, users can configure new scans for article optimization.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ The Article Optimization scan is custom configured.
 
 ## What to do next
 
-To run the scan, you must add the configured scan to a job. For more information see, [[configuring-article-optimization-jobs|Configuring Article Optimization jobs]]
+To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-article-optimization-jobs.md)
 
 **Related topics**  
 
@@ -71,7 +71,3 @@ To run the scan, you must add the configured scan to a job. For more information
 
 [Activate Article Optimization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/activate-kc-AO-skill.md)
 
-## Related
-
-- [[configuring-article-optimization-jobs|Configuring Article Optimization jobs]]
-- [[knowledge-center|Knowledge Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure or update an On-Call shift, Managing schedules and shifts
 
 # Configure a roster
 
-Edit a roster to specify its reminder and escalation [[settings-mobile|settings]] and to identify a subset of group members to participate in the On-Call roster.
+Edit a roster to specify its reminder and escalation settings and to identify a subset of group members to participate in the On-Call roster.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: rota\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Calendars**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Calendars**.
 
 2.  Right-click a shift and select **Edit Shift** from the **Actions** list.
 
@@ -179,7 +179,3 @@ Lead time for email reminders.**Note:** This field is displayed only when the **
 
 [Escalation and reminder settings for rosters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/escalation-remind-settings-oncall.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

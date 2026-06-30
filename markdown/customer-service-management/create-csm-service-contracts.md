@@ -125,11 +125,11 @@ A name for the contract.
 </td></tr></tbody>
 </table>4.  Right-click the form header and select **Save**.
 
-    The **Entitlements**, **Assets Covered**, **Terms and Conditions**, **Contracts**, **Cases**, and **Products Covered** related [[migration-lists|lists]] are displayed.
+    The **Entitlements**, **Assets Covered**, **Terms and Conditions**, **Contracts**, **Cases**, and **Products Covered** related lists are displayed.
 
-5.  On the **Products Covered** related list, click **Edit** to associate [[sold-product|sold products]] to the contract.
+5.  On the **Products Covered** related list, click **Edit** to associate sold products to the contract.
 
-    The list of sold products displayed is filtered based on the account. Click **Run filter** to see a list of all sold products, but you can only add the sold products that belong to the account selected or to the [[c_AccountHierarchy|account hierarchy]].
+    The list of sold products displayed is filtered based on the account. Click **Run filter** to see a list of all sold products, but you can only add the sold products that belong to the account selected or to the account hierarchy.
 
 6.  Click **Submit**.
 
@@ -137,8 +137,4 @@ A name for the contract.
 
     Customer service agents can view contract information in Agent Workspace and customers can view contract information on the Customer and Consumer Service Portals.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[sold-product|Sold products]]
-- [[c_AccountHierarchy|Account hierarchy]]

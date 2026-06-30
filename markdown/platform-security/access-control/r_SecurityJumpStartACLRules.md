@@ -14,7 +14,7 @@ breadcrumb: [Explore Access Control Lists, Access Control List Rules, Access Man
 
 # Security jump-start - ACL rules plugin
 
-The Security jump-start [[sc-access-control|access control]] level \(ACL Rules\) plugin is installed automatically on all new instances. Use this plugin to quickly secure multiple system tables and expedite the production launch process for your organization.
+The Security jump-start access control level \(ACL Rules\) plugin is installed automatically on all new instances. Use this plugin to quickly secure multiple system tables and expedite the production launch process for your organization.
 
 This plugin isn’t intended for existing instances, as it may alter security access to tables already in use in a production environment. If an admin strongly desires to install this plugin on an existing instance, you should test it thoroughly in a test instance first. Doing so helps to verify compatibility with the organization's current implementation.
 
@@ -29,7 +29,7 @@ The following ACLs are included in this plugin. Select the icon in a header row 
 
 |Name|Operation|Description|
 |----|---------|-----------|
-|`cmdb_ci`|WCD|asset or itil role required to write/create/delete [[sc-configuration|Configuration]] Item records|
+|`cmdb_ci`|WCD|asset or itil role required to write/create/delete Configuration Item records|
 |`cmn_department`|WD|user\_admin role required to write/delete Department records|
 |`cmn_location`|WC|user\_admin role required to write/create Location records|
 |`core_company`|WD|user\_admin role required to write/delete Company records|
@@ -44,7 +44,7 @@ The following ACLs are included in this plugin. Select the icon in a header row 
 |`sc_cat_item`|write|catalog\_admin role required to write to Catalog Item records|
 |`sc_cat_item`|delete|catalog\_admin role required to delete Catalog Item records|
 |`sc_cat_item`|create|catalog\_admin role required to create Catalog Item records|
-|`sysevent_email_action`|read|all [[users|users]] can read [[email|Email]] Notification records \(for subscription purposes\)|
+|`sysevent_email_action`|read|all users can read Email Notification records \(for subscription purposes\)|
 |`sysevent_register`|RWCD|admin role required to read/write/create/delete Event Registry records|
 |`sysevent_script_action`|RWCD|admin role required to read/write/create/delete Script Action records|
 |`syslog`|RWCD|admin required to read/write/create/delete Log Entry records|
@@ -129,12 +129,5 @@ The following ACLs are included in this plugin. Select the icon in a header row 
 |`sys_user_role_contains`|write|admin role required to write to Contained Role records|
 |`sys_user_token`|RWCD|admin role required to read/write/create/delete User Token records|
 
-**Note:** To learn more about this plugin, see [Enable security jump start plugin \(ACL Rules\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-security-jump-start-plugin-acl-rules.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+**Note:** To learn more about this plugin, see [Enable security jump start plugin \(ACL Rules\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-security-jump-start-plugin-acl-rules.md) in Instance Security Hardening Settings.
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[email|Email]]
-- [[sc-hardening|Security hardening]]

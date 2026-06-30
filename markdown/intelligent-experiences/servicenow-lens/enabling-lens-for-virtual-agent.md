@@ -14,13 +14,13 @@ breadcrumb: [Configure, ServiceNow AI Lens, Enable AI experiences]
 
 # Enabling ServiceNow AI Lens in Virtual Agent
 
-You can enable [[servicenow-lens-landing-page|ServiceNow AI Lens]] in Virtual Agent so that ServiceNow AI Lens can be triggered from Virtual Agent conversation.
+You can enable ServiceNow AI Lens in Virtual Agent so that ServiceNow AI Lens can be triggered from Virtual Agent conversation.
 
 By enabling ServiceNow AI Lens in Virtual Agent, you can trigger AI-powered ServiceNow AI Lens to scan an image for getting insights, recommendation, resolution steps, and more.
 
 ## Enable AI Search
 
-Enable the AI Search application on your instance so that you can use [[servicenow-lens-skill|ServiceNow AI Lens skill]] to gather insights from an image using generative AI.
+Enable the AI Search application on your instance so that you can use ServiceNow AI Lens skill to gather insights from an image using generative AI.
 
 ### Before you begin
 
@@ -41,7 +41,7 @@ Role required: ais\_admin or admin
 
 ## Enable the default Now Assist assistant for ServiceNow AI Lens
 
-Enable the default [[platform-now-assist-landing|Now Assist]] in Virtual Agent assistant so that you can use ServiceNow AI Lens in Virtual Agent.
+Enable the default Now Assist in Virtual Agent assistant so that you can use ServiceNow AI Lens in Virtual Agent.
 
 ### Before you begin
 
@@ -61,7 +61,7 @@ Role required: virtual\_agent\_admin or admin
 
 3.  On the Overview tab, select **Save and continue**.
 
-4.  On the [[now-assist-skills|Now Assist Skills]] tab, ensure that **Now Assist Topics** is selected.
+4.  On the Now Assist Skills tab, ensure that **Now Assist Topics** is selected.
 
     \[Omitted image "now-assist-topics-lens.png"\] Alt text: Selected Now Assist Topics from the Now Assist Skills tab.
 
@@ -75,7 +75,7 @@ Role required: virtual\_agent\_admin or admin
 
         \[Omitted image "display-exp-portal-lens.png"\] Alt text: Configuring display experience for a portal.
 
-    3.  On the Add chat experience dialog box, select **[[now-assist-panel-enhanced|Enhanced chat]]** option.
+    3.  On the Add chat experience dialog box, select **Enhanced chat** option.
 
         \[Omitted image "display-exp-portal-enhanced-chat-lens.png"\] Alt text: Selecting Enhanced chat option while configuring display experience for a portal.
 
@@ -167,10 +167,4 @@ Do this procedure when you do not see the Now Assist \[Omitted image "icon-ai-sp
 
     \[Omitted image "mobile-agent-chat-active-lens.png"\] Alt text: Activating Chat with Virtual Agent setting for Homepage of Now Mobile in Mobile App Builder.
 
-## Related
 
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-panel-enhanced|Enhanced chat]]

@@ -22,9 +22,9 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -54,7 +54,7 @@ Steps
 
 </td><td>
 
-1.  In the **New or existing** field, select **Create a new service in [[sr-landing-page|Service Reliability Management]]**.
+1.  In the **New or existing** field, select **Create a new service in Service Reliability Management**.
 2.  On the form, fill in the fields.
 
 For more information on the field descriptions, see [Add service form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-service-form.md).
@@ -115,8 +115,3 @@ Select **Do it later**.
 
 **Parent Topic:**[Add an SRM team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-team.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]
-- [[sr-landing-page|Service Reliability Management]]

@@ -14,13 +14,13 @@ breadcrumb: [Integrating with external procurement applications, Procurement, IT
 
 # Integrating with Coupa
 
-Integrating Coupa with [[c_SoftwareAssetMgmt|Software Asset Management]] helps you create software requisitions directly on Coupa. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on Coupa.
+Integrating Coupa with Software Asset Management helps you create software requisitions directly on Coupa. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on Coupa.
 
 **Note:** This integration doesn't pull requisitions created on Coupa to Software Asset Management.
 
 ## Before you begin
 
--   Install the [[am-landing-page|Asset Management]] - [[c_Procurement|Procurement]] Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
+-   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
 -   You must have the Software Asset Management Enterprise license.
 -   Activate the Coupa spoke. For more information, see [Coupa Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/coupa-spoke.md).
 -   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ActivateProcurement.md).
@@ -31,8 +31,3 @@ Both ServiceNow Procurement and Coupa have theirs own set of tables and referenc
 
 **Warning:** If you don't synchronize data, you might encounter a few issues while creating a requisition on Coupa.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[c_Procurement|Procurement]]

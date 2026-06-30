@@ -22,8 +22,5 @@ These default configurations are applied automatically when Apply default config
 |Intake forms|Activates required intake forms for submitting Human Resources requests and capturing request details.|
 |Human Resources services|Configures required Human Resources services that define service offerings and support request routing and fulfillment.|
 
-**Parent Topic:**[[install-human-resources|Install Human Resources]]
+**Parent Topic:**[Install Human Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/install-human-resources.md)
 
-## Related
-
-- [[install-human-resources|Install Human Resources]]

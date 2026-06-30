@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # Standard Ticket Page view for HR Service Delivery
 
-Configure your [[hr-service-administration|HR services]] to use the Standard Ticket page to provide a consistent user experience for your employees.
+Configure your HR services to use the Standard Ticket page to provide a consistent user experience for your employees.
 
 You can configure the appearance of your ticket page layout \(such as header and tabs\) from **Standard Ticket** &gt; **Standard Ticket Configuration**. For more information, see [Configure custom HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-ticket-ur.md).
 
@@ -33,6 +33,3 @@ If you have upgraded your instance, redirect your HR ticket pages to the Standar
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]

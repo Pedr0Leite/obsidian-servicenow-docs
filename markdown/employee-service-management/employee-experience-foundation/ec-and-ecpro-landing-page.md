@@ -14,7 +14,7 @@ breadcrumb: [Employee Service Management]
 
 # Unified Employee Experience
 
-The Unified Employee Experience suite of products consist of [[employee-center-landing-page|Employee Center]], the unified portal available in two tiers: the standard version of the product and the subscription-based application, [[employee-center-pro-landing|Employee Center Pro]], offering advanced features along with other omnichannel experiences and integrations.
+The Unified Employee Experience suite of products consist of Employee Center, the unified portal available in two tiers: the standard version of the product and the subscription-based application, Employee Center Pro, offering advanced features along with other omnichannel experiences and integrations.
 
 <table id="table_mtz_sfy_sdc" class="nav-card presentation"><tbody><tr><td>
 
@@ -154,7 +154,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](https://raw.githubu
 
 </td></tr><tr><td>
 
-[[eslate-employee-comms|Employee communications]]-   [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md)
+Employee communications-   [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md)
 -   [Microsites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content.md)
 -   [Employee News](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-news-articles.md)
 -   [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
@@ -172,7 +172,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](https://raw.githubu
 
 </td></tr><tr><td>
 
-Enterprise Search \(with [[sharepoint-search-overview|SharePoint Online Search Connector]]\)
+Enterprise Search \(with [SharePoint Online Search Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-search-overview.md)\)
 
 </td><td>
 
@@ -266,7 +266,7 @@ The omnichannel experiences provide different information and communication chan
 
 </td><td>
 
-[Employee Center Pro Kiosk\[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text:[[deskless-kiosk-overview|Employee Center Pro Kiosk]] enables the deskless workers with in-context information for operational efficiency.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
+[Employee Center Pro Kiosk\[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text:Employee Center Pro Kiosk enables the deskless workers with in-context information for operational efficiency.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
 
 </td></tr><tr><td>
 
@@ -274,7 +274,7 @@ The omnichannel experiences provide different information and communication chan
 
 </td><td>
 
-[ServiceNow for Zoom\[Omitted image "bus-integration-and-apis.svg"\] Alt text:[[sn_zoomIntegration|ServiceNow for Zoom]] helps create a connected experience for users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
+[ServiceNow for Zoom\[Omitted image "bus-integration-and-apis.svg"\] Alt text:ServiceNow for Zoom helps create a connected experience for users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -285,11 +285,3 @@ The omnichannel experiences provide different information and communication chan
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[eslate-employee-comms|Employee communications]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[sn_zoomIntegration|ServiceNow for Zoom]]

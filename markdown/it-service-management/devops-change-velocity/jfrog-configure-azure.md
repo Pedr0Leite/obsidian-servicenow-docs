@@ -16,7 +16,7 @@ breadcrumb: [JFrog, Integrate, DevOps Change Velocity, IT Service Management]
 
 Configure your Azure DevOps instance to enable upload and download of JFrog artifacts.
 
-The following [[settings-mobile|settings]] are required in your Azure DevOps instance:
+The following settings are required in your Azure DevOps instance:
 
 1.  Install the plugin [JFrog Artifactory](https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-artifactory-vsts-extension).
 2.  Select your project and navigate to **Project settings** &gt; **Pipelines** &gt; **Service connections**.
@@ -158,6 +158,3 @@ stages:
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

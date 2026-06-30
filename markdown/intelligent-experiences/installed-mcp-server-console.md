@@ -12,7 +12,7 @@ breadcrumb: [Reference, MCP Server Console, Enable AI experiences]
 
 # Components installed with MCP Server Console
 
-Several types of components are installed with activation of the [[mcp-platform-manager-landing|MCP Server Console]] application, including tables and user roles.
+Several types of components are installed with activation of the MCP Server Console application, including tables and user roles.
 
 ## Roles installed
 
@@ -94,7 +94,7 @@ AI Skill Tool Definition
 
 </td><td>
 
-Tools based on [[now-assist-skills|Now Assist skills]]. Extends the Tool Definition table.
+Tools based on Now Assist skills. Extends the Tool Definition table.
 
 </td></tr><tr><td>
 
@@ -157,10 +157,5 @@ Tool Input
 Inputs defined for use by MCP server tools.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mcp-server-console-reference|MCP Server Console reference]]
+</table>**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
-## Related
-
-- [[mcp-server-console-reference|MCP Server Console reference]]
-- [[mcp-platform-manager-landing|MCP Server Console]]
-- [[now-assist-skills|Now Assist skills]]

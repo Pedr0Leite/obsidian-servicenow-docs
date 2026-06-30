@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM PowerHA SystemMirror for AIX discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the IBM PowerHA Cluster \(HACMP\) pattern to find IBM PowerHA SystemMirror for AIX \(formerly HACMP\) high-availability clusters on AIX UNIX and Linux systems running on IBM platforms. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the IBM PowerHA Cluster \(HACMP\) pattern to find IBM PowerHA SystemMirror for AIX \(formerly HACMP\) high-availability clusters on AIX UNIX and Linux systems running on IBM platforms. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses this pattern to run horizontal discovery.
 
@@ -34,7 +34,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     1.  Navigate to **CI Classification** &gt; **UNIX**.
     2.  Select **AIX**.
     3.  In The **Triggers probes** tab, verify that the IBM PowerHA Cluster \(HACMP\) pattern is listed as an exploration that runs after the AIX Server pattern.
-    For more information on [[r_DataCollDiscoAIXComputers|AIX Server discovery]], see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md).
+    For more information on AIX Server discovery, see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md).
 
 -   **Verify server IP address or hostname**
 
@@ -123,7 +123,7 @@ Discovery populates the data in the CMDB when running the IBM PowerHA Cluster \(
 |IP Address \[ip\_address\]|Hostname or IP address where the Hostname represents the cluster node network interface name and the IP address the IPv4 address associated to the network interface name. \(As the IBM PowerHA/HACMP cluster does not have dedicated VIP address\).|
 |Cluster \[cluster\]|The name of the PowerHA/HACMP cluster.|
 
-On the [[dependency-views-map|Dependency Views map]] you can see all discovered cluster CIs in your organization and the relationships between them.
+On the Dependency Views map you can see all discovered cluster CIs in your organization and the relationships between them.
 
 In this example, UNIX Cluster Node represents a cluster of UNIX Clusters. UNIX Cluster Node gets resources from UNIX Cluster Resource and uses Cluster Virtual IP. UNIX Cluster Node contains three Cluster Resource Groups.
 
@@ -147,9 +147,3 @@ These relationships are created to support IBM HACMP/PowerHA cluster discovery:
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DataCollDiscoAIXComputers|AIX server discovery]]
-- [[dependency-views-map|Dependency Views map]]

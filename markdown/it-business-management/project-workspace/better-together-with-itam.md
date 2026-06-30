@@ -14,9 +14,9 @@ breadcrumb: [Explore, Project Workspace, Project Portfolio Management, Strategic
 
 # Better together with other ServiceNow applications
 
-Integrate Hardware Asset Management \(HAM\) with [[project-workspace-landing-page|Project Workspace]] to track which HAM requests or refreshes belong to an SPM project. Provide portfolio and project managers visibility into request status without leaving Project Workspace.
+Integrate Hardware Asset Management \(HAM\) with Project Workspace to track which HAM requests or refreshes belong to an SPM project. Provide portfolio and project managers visibility into request status without leaving Project Workspace.
 
-This integration enables Hardware Asset Management \(HAM\) requests and refreshes to be associated with [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) projects in Project Workspace, allowing hardware-related tasks to be tracked within the context of a project.
+This integration enables Hardware Asset Management \(HAM\) requests and refreshes to be associated with Strategic Portfolio Management \(SPM\) projects in Project Workspace, allowing hardware-related tasks to be tracked within the context of a project.
 
 ## Key capabilities
 
@@ -26,7 +26,3 @@ This integration enables Hardware Asset Management \(HAM\) requests and refreshe
 
 **Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

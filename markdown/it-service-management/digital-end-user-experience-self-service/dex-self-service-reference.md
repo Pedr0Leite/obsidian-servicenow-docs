@@ -14,8 +14,5 @@ breadcrumb: [Digital End-user Experience Self-service, Digital End-User Experien
 
 # Digital End-user Experience Self-service Reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about the cards, lists, and forms that help you configure and use DEX Self-service.
+Reference topics provide additional information about the cards, lists, and forms that help you configure and use DEX Self-service.
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

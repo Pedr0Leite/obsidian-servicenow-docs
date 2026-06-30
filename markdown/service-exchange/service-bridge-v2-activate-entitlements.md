@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  Select the Number column to navigate to the Provider connection record.
 
@@ -40,7 +40,4 @@ Role required: admin
 
     You must approve all the scripts to activate the remote record producer. If you don't approve all the scripts, you can't activate the remote record producer.
 
-## Related
 
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

@@ -18,13 +18,13 @@ Define policies in DevOps Config to validate your configuration data.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: sn\_devops\_config.admin
 
 ## About this task
 
-You can use or customize [[devops-config-default-policies|default DevOps Config policies]] to validate that your config data content is compliant, or [write and test custom DevOps Config policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-write-test-policies.md).
+You can use or customize default DevOps Config policies to validate that your config data content is compliant, or [write and test custom DevOps Config policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-write-test-policies.md).
 
 ## Procedure
 
@@ -44,7 +44,3 @@ You can use or customize [[devops-config-default-policies|default DevOps Config 
 
 [How to write and test custom PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-write-test-policies.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-config-default-policies|Default DevOps Config policies]]

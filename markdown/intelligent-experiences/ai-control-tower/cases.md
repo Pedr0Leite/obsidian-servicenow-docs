@@ -14,7 +14,7 @@ breadcrumb: [AI assets, AI Control Tower dashboard, Explore, AI Control Tower, E
 
 # Cases
 
-You can view all the assigned and unassigned AI cases in a list view in the [[ai-control-tower-landing|AI Control Tower]].
+You can view all the assigned and unassigned AI cases in a list view in the AI Control Tower.
 
 ## Cases list view
 
@@ -24,11 +24,7 @@ Select any case from the list, select **Edit-More Actions** to assign the case t
 
 The following image displays all the AI cases in a list view.
 
-\[Omitted image "aict-cases.png"\] Alt text: List view of the cases on the [[ai-assets|AI assets]] page.
+\[Omitted image "aict-cases.png"\] Alt text: List view of the cases on the AI assets page.
 
 For information about creating AI cases from the AI cases tab in the AI Control Tower workspace, see [Create an AI case in the AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-case-in-the-ai-control-tower.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]

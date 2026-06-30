@@ -12,7 +12,7 @@ breadcrumb: [Prioritizing vulnerabilities and other findings using roll-up calcu
 
 # Vulnerability Response Rollup Calculators
 
-After your initial assessment of risk calculators in the Setup Assistant, use the vulnerability rollup calculators to configure how the cumulative risk score is computed for remediation tasks and imported [[vulnerabilities|vulnerabilities]].
+After your initial assessment of risk calculators in the Setup Assistant, use the vulnerability rollup calculators to configure how the cumulative risk score is computed for remediation tasks and imported vulnerabilities.
 
 Use the vulnerability rollup calculators to configure how the cumulative risk score is computed for remediation tasks and imported vulnerabilities. The following rollup calculators are shipped with the base system:
 
@@ -20,7 +20,7 @@ Use the vulnerability rollup calculators to configure how the cumulative risk sc
 -   **Patch Update Rollup**: Rolls up the risk scores for all vulnerable items with same patch update, to provide an overall risk score for the patch update.
 -   **Organization Risk Score Rollup**: Rolls up the risk scores for all host vulnerable items, application vulnerable items, container vulnerable items and configuration issues in an organization, to provide an overall risk score for the entire organization in unified dashboard.
 
-    **Note:** Starting with v22.0 of [[vuln-landing-page|Vulnerability Response]], you can configure rollup weights for organizational score. Also, individual roll-up calculators have been removed.
+    **Note:** Starting with v22.0 of Vulnerability Response, you can configure rollup weights for organizational score. Also, individual roll-up calculators have been removed.
 
 -   **Vulnerable Item Rollup**: Rolls up the risk scores for all host vulnerable items in an organization, to contribute to the overall risk score of the entire organization for unified dashboard.
 -   **Vulnerability Entry Rollup**: Rolls up the risk scores for all vulnerable items with the same vulnerability entry, to provide an overall risk score for the vulnerability entry.
@@ -101,10 +101,5 @@ Which says that the probability of at least one of the vulnerabilities being exp
 
 **Important:** To modify the **Rollup EPSS Scores from NVD to TPEs**, you need to switch the Form context menu view to **Rollup Developer View** from the **Default view**.
 
-**Parent Topic:**[[sem-prioritizing-vulnerabilities-other-findings|Prioritizing vulnerabilities and other findings using roll-up calculators]]
+**Parent Topic:**[Prioritizing vulnerabilities and other findings using roll-up calculators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-prioritizing-vulnerabilities-other-findings.md)
 
-## Related
-
-- [[sem-prioritizing-vulnerabilities-other-findings|Prioritizing vulnerabilities and other findings using roll-up calculators]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Agent Chat, Conversational Interfaces]
 
 # Agent Chat reference
 
-Reference topics provide descriptions about [[ci-use-agent-chat|Agent Chat]].
+Reference topics provide descriptions about Agent Chat.
 
 ## Domain separation and Agent Chat
 
@@ -132,6 +132,3 @@ Two policies that are included with the base system govern behavior for relation
 
 The com.glide.interaction.autocreate\_relationships property is set to true by default. If it is set to false, only relationships created via the interaction\_related\_record form are created. All others are blocked by the "Block relationship autocreation" business rule.
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

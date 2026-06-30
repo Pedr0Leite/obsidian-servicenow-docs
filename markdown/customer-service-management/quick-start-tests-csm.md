@@ -12,7 +12,7 @@ breadcrumb: [Getting started with Customer Service Management, Set up your envir
 
 # Quick start tests for Customer Service Management
 
-Quick start tests are part of the Automated Test Framework \(ATF\). Use these tests to validate that the [[c_CustomerServiceManagement|Customer Service Management]] application still works after you make any configuration change, such as applying an upgrade or developing an application.
+Quick start tests are part of the Automated Test Framework \(ATF\). Use these tests to validate that the Customer Service Management application still works after you make any configuration change, such as applying an upgrade or developing an application.
 
 A quick start test is a test or test suite installed with the demo data of an application. You can use quick start tests as templates to build your own tests and test suites that ensure successful execution with your instance-specific data.
 
@@ -26,14 +26,14 @@ For more information about using quick start tests, see the following topics:
 
 The CSM test suites and tests are listed in the tables below.
 
--   CSM: [[case-management|Case management]] test suite
--   [[csm-workspaces-configure|CSM Configurable Workspace]] test suite
+-   CSM: Case management test suite
+-   CSM Configurable Workspace test suite
 -   CSM: Case Types - Complaint
 -   CSM: Case Types - Onboarding
 -   CSM: Operations Dashboard test suite
 -   CSM Portal test suite
 -   Guided Decision - Next Best Action ATF test suite
--   TC: [[c_TargetedCommunications|Targeted Communications]] test suite
+-   TC: Targeted Communications test suite
 -   CSM Walkup Experience tests
 
 ## Plugins
@@ -41,8 +41,8 @@ The CSM test suites and tests are listed in the tables below.
 All Customer Service Management quick start tests require activating the Customer Service Management Demo Data plugin \(com.snc.customerservice.demo\). Some quick start tests also require activating the following plugins:
 
 -   Business Location \(com.snc.business\_location\)
--   [[csm-playbook-complaint-overview|Case Playbook for Complaints]] \(sn\_complaint\)
--   [[csm-case-type-onboarding|Case Playbook for Onboarding]] \(sn\_onboarding\)
+-   Case Playbook for Complaints \(sn\_complaint\)
+-   Case Playbook for Onboarding \(sn\_onboarding\)
 -   Consumer Service Portal \(com.glide.service-portal.consumer-portal\)
 -   CSM Contributor User \(com.snc\_csm\_contributor\_user\)
 -   CSM Extension for Proxy Contacts \(com.snc.csm\_proxy\_contacts\)
@@ -54,7 +54,7 @@ All Customer Service Management quick start tests require activating the Custome
 -   Guided Decisions Experience \(com.snc.guided\_decisions\_playbook\_experience\)
 -   Guided Decision - Next Best Action \(com.snc.next\_best\_action\)
 -   Major Issue Management \(com.sn\_majorissue\_mgt\)
--   [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management \(com.snc.proactive\_cs\_itom\)
+-   Proactive Customer Service Operations with Event Management \(com.snc.proactive\_cs\_itom\)
 -   Skill Determination \(com.snc.skill\_determination\)
 -   UX ATF Action \(com.glide.ux.atf\_action\)
 -   Walk-Up for CSM \(com.snc.walkup\_for\_csm\)
@@ -133,7 +133,7 @@ Madrid
 
 </td></tr><tr><td>
 
-CSM: [[osp-escalate-case|Escalate a Case]]
+CSM: Escalate a Case
 
 </td><td>
 
@@ -145,7 +145,7 @@ Madrid
 
 </td></tr><tr><td>
 
-CSM: Create [[c_OnScreenAlerts|Special Handling Notes]]
+CSM: Create Special Handling Notes
 
 </td><td>
 
@@ -157,7 +157,7 @@ Madrid
 
 </td></tr><tr><td>
 
-CSM: [[osp-close-case|Close a Case]]
+CSM: Close a Case
 
 </td><td>
 
@@ -221,7 +221,7 @@ CSM - Create Order Case as Customer from CSM Portal
 
 </td><td>
 
-[[csm-order-ops-create-order-case|Create an order case]] as a customer from the Customer Service Portal. **Note:** Requires the Customer Service Portal. Also requires that the test be run as admin.
+Create an order case as a customer from the Customer Service Portal. **Note:** Requires the Customer Service Portal. Also requires that the test be run as admin.
 
 </td><td>
 
@@ -245,7 +245,7 @@ CSM: Create Major Case and its Child Cases
 
 </td><td>
 
-[[create-major-case|Create a major case]] and the associated child cases for the customer accounts in the recipient list. **Note:** Requires Major Issue Management.
+Create a major case and the associated child cases for the customer accounts in the recipient list. **Note:** Requires Major Issue Management.
 
 </td><td>
 
@@ -343,7 +343,7 @@ CSM: Create Task from Case
 
 </td><td>
 
-[[osp-create-case-task|Create a case task]] from a case.
+Create a case task from a case.
 
 </td><td>
 
@@ -439,7 +439,7 @@ CSM: OCS Manager creating New OSP
 
 </td><td>
 
-Verify that a new Outsourced Service Provider \(OSP\) is created by the OCS internal manager. **Note:** Requires [[outsourced-service-provider|Outsourced Customer Service]].
+Verify that a new Outsourced Service Provider \(OSP\) is created by the OCS internal manager. **Note:** Requires Outsourced Customer Service.
 
 </td><td>
 
@@ -571,7 +571,7 @@ CSM - Service Contracts covered under Sold Product
 
 </td><td>
 
-Create [[sold-product|sold products]] and service contracts and associate service contracts to a sold product. Verify the association between the active contracts and the sold product.**Note:** Requires Customer Service Install Base Management.
+Create sold products and service contracts and associate service contracts to a sold product. Verify the association between the active contracts and the sold product.**Note:** Requires Customer Service Install Base Management.
 
 </td><td>
 
@@ -621,7 +621,7 @@ CSM: Create Sold Product on Household
 
 </td><td>
 
-[[create-sold-item|Create a sold product]] on a household and its member. **Note:** Requires Customer Service Install Base Management and Customer Household Data Model with **Load demo data** enabled.
+Create a sold product on a household and its member. **Note:** Requires Customer Service Install Base Management and Customer Household Data Model with **Load demo data** enabled.
 
 </td><td>
 
@@ -641,7 +641,7 @@ Quebec
 
 </td></tr><tr><td>
 
-CSM: [[csm-workspace-report-knowledge-gap|Report a knowledge gap]] from a case in Agent Workspace
+CSM: Report a knowledge gap from a case in Agent Workspace
 
 </td><td>
 
@@ -737,7 +737,7 @@ Yokohama
 
 </td></tr><tr><td>
 
-CSM: [[create-business-location|Create a Business Location]] And Onboard a Member To It
+CSM: Create a Business Location And Onboard a Member To It
 
 </td><td>
 
@@ -1036,7 +1036,7 @@ CSP - Register your product
 
 </td><td>
 
-[[register-product-consumer-portal|Register a product from the Consumer Service Portal]].
+Register a product from the Consumer Service Portal.
 
 </td><td>
 
@@ -1129,7 +1129,7 @@ Australia
 </td></tr></tbody>
 </table>|Test|Description|Release version|
 |----|-----------|---------------|
-|Validate Next Best Action List- Guided Decisions|Validates the list of next best actions recommended based on the configured [[gamification-components-rules|rules]].|San Diego|
+|Validate Next Best Action List- Guided Decisions|Validates the list of next best actions recommended based on the configured rules.|San Diego|
 |Validate Next Best Action Ranking- Guided Decisions|Validates the list of next best actions recommended based on the configured rules.|San Diego|
 
 |Test|Description|Release version|
@@ -1167,25 +1167,3 @@ Rome
 |CSM PPM: Case creation from project workflow|As a customer service agent, create a case from a CSM project record in CSM Configurable Workspace.|Yokohama|
 |CSM PPM: Case creation from project task workflow|As a customer service agent, create a case from a CSM project task record in CSM Configurable Workspace.|Yokohama|
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-management|Case management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
-- [[csm-case-type-onboarding|Case Playbook for Onboarding]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[osp-escalate-case|Escalate a case]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[osp-close-case|Close a case]]
-- [[csm-order-ops-create-order-case|Create an order case]]
-- [[create-major-case|Create a major case]]
-- [[osp-create-case-task|Create a case task]]
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[sold-product|Sold products]]
-- [[create-sold-item|Create a sold product]]
-- [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
-- [[create-business-location|Create a business location]]
-- [[register-product-consumer-portal|Register a product from the Consumer Service Portal]]
-- [[gamification-components-rules|Rules]]

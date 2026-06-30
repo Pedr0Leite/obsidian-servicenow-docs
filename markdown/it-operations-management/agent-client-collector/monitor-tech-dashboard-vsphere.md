@@ -20,17 +20,17 @@ With the VMware vSphere Monitoring Technology Dashboard, you can monitor the hea
 
 The VMware vSphere Monitoring Technology Dashboard shows the five CIs and servers with the highest metric readouts during the past six hours. The dashboard also shows the 50 most recent active alerts in your VMware vSphere environment.
 
-To view the dashboard, navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **Monitoring Technology Dashboards** and select **VMWare vSphere Monitoring**.
+To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Monitoring Technology Dashboards** and select **VMWare vSphere Monitoring**.
 
 ## Using the Monitoring Technology Dashboard for VMware vSphere
 
 Before using the Monitoring Technology Dashboard for VMware vSphere:
 
--   Create a VMware vSphere credential and use it to create a [[r-discovery|Discovery]] schedule. For details on creating VMware vSphere credentials, see [Discovery for VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vmware-cloud-discovery.md).
+-   Create a VMware vSphere credential and use it to create a Discovery schedule. For details on creating VMware vSphere credentials, see [Discovery for VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vmware-cloud-discovery.md).
 -   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for VMware virtualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoverVMwareInfrastructure.md).
--   Ensure that you’re working in the [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] scope in your ServiceNow instance.
+-   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
--   Enable [[operational-metrics|Metric Intelligence]] on the MID Server.
+-   Enable Metric Intelligence on the MID Server.
 -   Ensure that the **VSphere Datacenter Metrics**, **VSphere Datastore Metrics**, **VSphere ESX Server Metrics** and **VSphere VirtualMachine Metrics** policies are enabled.
 
     Enabling these policies activates metric to CI mapping.
@@ -63,9 +63,3 @@ You can customize the appearance of the individual widgets on the VMware vSphere
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-concept.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[operational-metrics|Metric Intelligence]]

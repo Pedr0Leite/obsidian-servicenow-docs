@@ -63,8 +63,5 @@ Private discussion
 Select this option to make the discussion private.**Start private discussion** option is enabled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-general-form|General form]]
+</table>**Parent Topic:**[General form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-general-form.md)
 
-## Related
-
-- [[mco-general-form|General form]]

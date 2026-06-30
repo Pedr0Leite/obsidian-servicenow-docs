@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist in Virtual Agent, Con
 
 # Premium chat
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] premium chat is a contextual chat experience that appears throughout the platform, adapting its behavior and interface based on where users are and what they're doing.
+Now Assist in Virtual Agent premium chat is a contextual chat experience that appears throughout the platform, adapting its behavior and interface based on where users are and what they're doing.
 
 To access the Now Assist in Virtual Agent premium chat screen, select the Now Assist icon or enter text in the omnibar. \[Omitted image "nava-portal-screen.png"\] Alt text:
 
@@ -38,7 +38,7 @@ The chat input box has these features:
 
 -   **Plus sign icon**
 
-    Select the plus sign \(+\) icon to access additional options including [[web-search-requestor|web search]] and file upload.\[Omitted image "nava-premium-chat-add-files.png"\] Alt text:
+    Select the plus sign \(+\) icon to access additional options including web search and file upload.\[Omitted image "nava-premium-chat-add-files.png"\] Alt text:
 
 -   **Web search**
 
@@ -74,11 +74,11 @@ All chats appear.
  Chats are organized with the most recent conversations at the top. Selecting a chat opens the chat in the conversation area. If there are unread chats or notifications, a badge number appears on the Chats icon \(\[Omitted image "list-hamburger-icon.png"\] Alt text: Chats icon.\). Any unread chat or notification appears with a red dot next to it and the chat title appears in bold. Additionally, if you switch to a new chat while another active chat is ongoing, a pop-up message on the Chats icon \(\[Omitted image "list-hamburger-icon.png"\] Alt text: Chats icon.\) appears: `Your previous chat was saved. You can revisit all of your past chats and continue ones that are still active.` The following list includes the chat sections that you may see in the chats area.
 
  -   Active: Chats where you can continue the conversation. If applicable, active chats move to the Closed chats section after two hours of inactivity. This 2 hour time limit can be configured within the Messaging Channels \{sys\_cs\_channel.list\} table. To change the inactivity time limit, from the Messaging Channels \{sys\_cs\_channel.list\} table, select the **NASS** record and populate the **Conversation Idle Timeout** field with your preferred active chat time limit. If you have no active chats, `No chatter at the moment` is displayed. If more than 12 active chats are running, a **Show more** link appears to view more chats. Selecting **Show more** displays an additional 10 chats.
--   Updates: Updates for important notifications and reminders can be configured to display. When **sn\_nowassist\_va.nass\_notification\_enabled** is set to `true` \(the default\), simple \(nonactionable\) [[virtual-agent-landing-page|Virtual Agent]] notifications appear on your portal home page. After selecting a notification, you’re redirected to this Updates section. If you have no updates, `You're all caught up` is displayed. If more than four updates are available, a **Show more** link appears to view more updates. Selecting **Show more** displays an additional 10 updates.
+-   Updates: Updates for important notifications and reminders can be configured to display. When **sn\_nowassist\_va.nass\_notification\_enabled** is set to `true` \(the default\), simple \(nonactionable\) Virtual Agent notifications appear on your portal home page. After selecting a notification, you’re redirected to this Updates section. If you have no updates, `You're all caught up` is displayed. If more than four updates are available, a **Show more** link appears to view more updates. Selecting **Show more** displays an additional 10 updates.
 
 **Note:** If **sn\_nowassist\_va.nass\_notification\_enabled** is set to `false`, the Updates section doesn't appear.
 
--   Closed: Closed chats can be configured to display. You know that a message has closed when the designated time has passed \(2 hours of inactivity\) or you receive the following response in the chat: `It looks like you're finished with this chat, so I'll go ahead and close it.` Turn on closed chats by selecting the **Show closed chats** check box within **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistants** &gt; **\[Selected Assistant Name\]** &gt; **Chat experience** &gt; **Closed chats**. After being turned on, closed chats are displayed for as long as they’re available within the Conversations \(sys\_cs\_conversation\) table. Closed chats appear in a read-only mode and can’t become active again. If more than four closed chats are available, a **Show more** link appears to view more closed chats. Selecting **Show more** displays an additional 10 closed chats. After a conversation has closed, you can’t reopen it.Hovering over a closed chat displays the delete icon \(\[Omitted image "delete-agent.png"\] Alt text: Delete icon\). Confirm the chat deletion on the Delete this chat? modal to permanently delete the chat from the interface.
+-   Closed: Closed chats can be configured to display. You know that a message has closed when the designated time has passed \(2 hours of inactivity\) or you receive the following response in the chat: `It looks like you're finished with this chat, so I'll go ahead and close it.` Turn on closed chats by selecting the **Show closed chats** check box within **Conversational Interfaces** &gt; **Assistants** &gt; **\[Selected Assistant Name\]** &gt; **Chat experience** &gt; **Closed chats**. After being turned on, closed chats are displayed for as long as they’re available within the Conversations \(sys\_cs\_conversation\) table. Closed chats appear in a read-only mode and can’t become active again. If more than four closed chats are available, a **Show more** link appears to view more closed chats. Selecting **Show more** displays an additional 10 closed chats. After a conversation has closed, you can’t reopen it.Hovering over a closed chat displays the delete icon \(\[Omitted image "delete-agent.png"\] Alt text: Delete icon\). Confirm the chat deletion on the Delete this chat? modal to permanently delete the chat from the interface.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Select an entity in-line citation to view that entity record in a new tab, or se
 
 ## Chatting with a live agent in Virtual Agent
 
-You can chat with a live agent if you need more support. Select the **Contact Live Agent** button found in the Support and settings \(\[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: Support and settings icon.\) option, enter a request such as `Chat with live agent` into the chat, or select the **Request a live agent** fallback option. After an agent has accepted your chat, the agent's name and avatar appears at the top of the chat in a banner. Only one live [[ci-use-agent-chat|agent chat]] at a time is permitted. To exit the live chat, select **End live chat**. The chat history then moves to the Closed chat section.
+You can chat with a live agent if you need more support. Select the **Contact Live Agent** button found in the Support and settings \(\[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: Support and settings icon.\) option, enter a request such as `Chat with live agent` into the chat, or select the **Request a live agent** fallback option. After an agent has accepted your chat, the agent's name and avatar appears at the top of the chat in a banner. Only one live agent chat at a time is permitted. To exit the live chat, select **End live chat**. The chat history then moves to the Closed chat section.
 
 \[Omitted image "dw-end-live-chat-yp6.png"\] Alt text: End live chat button appears in a banner at the top of the chat.
 
@@ -239,10 +239,3 @@ After selecting the chat widget button on the portal, the floating chat window o
 
 If language detection is turned on and the initial utterance entered into the portal's search bar or chat differs from the user's profile language preference, the conversational language automatically switches to the detected language. For more information and examples of language detection in premium chat conversations, see [Using language detection and dynamic machine translation in Virtual Agent enhanced chat conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/dynamic-lang-detection-translation-enhanced-chat.md).
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[web-search-requestor|Web search]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]

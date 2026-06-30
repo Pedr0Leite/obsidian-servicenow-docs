@@ -14,7 +14,7 @@ breadcrumb: [Context ranking, Administer, List administration, Forms, fields, an
 
 # Activate context ranking
 
-If you have the admin role, you can activate the [[r_ContextRanking|Context Ranking]] plugin \(com.glide.sorting\). This plugin activates related plugins if they are not already active.
+If you have the admin role, you can activate the Context Ranking plugin \(com.glide.sorting\). This plugin activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -30,12 +30,8 @@ If you have the admin role, you can activate the [[r_ContextRanking|Context Rank
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Context ranking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ContextRanking.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[r_ContextRanking|Context ranking]]

@@ -22,14 +22,14 @@ Role required: admin
 
 ## Procedure
 
-1.  To disable the drag-and-drop features, navigate to **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  To disable the drag-and-drop features, navigate to **System Properties** &gt; **UI Properties**.
 
 2.  Clear the check box for the **Allow attachment drag and drop in supported HTML5 browsers** property.
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[[r_AdministeringAttachments|Administering attachments]]
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md)
 
 ## Limit attachment file size
 
@@ -99,7 +99,4 @@ Restrict attachment file extensions to prevent users from uploading invalid file
 
     If no extensions are specified, then all extensions are allowed. However, if any extensions are specified, all unlisted extensions are restricted. Listed extensions should not include the dot \(.\) prefix or spaces after commas. For example, enter `xls,xlsx,doc,docx`.
 
-## Related
 
-- [[r_AdministeringAttachments|Administering attachments]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -12,11 +12,11 @@ breadcrumb: [Threat Intelligence, Enterprise security case management applicatio
 
 # Security Case Management
 
-Security Case Management provides a means for security analysts who are engaged in threat hunting to gather information on suspicious activity in their environment. Case-related records, such as security incidents, [[c_Observables|observables]], CIs, and affected users can be added to cases to accommodate broad and specific analysis.
+Security Case Management provides a means for security analysts who are engaged in threat hunting to gather information on suspicious activity in their environment. Case-related records, such as security incidents, observables, CIs, and affected users can be added to cases to accommodate broad and specific analysis.
 
-With the ability to easily pivot through the records and related information, analysts can assess whether they are facing a targeted [[campaign|campaign]], advanced persistent threat, and so forth.
+With the ability to easily pivot through the records and related information, analysts can assess whether they are facing a targeted campaign, advanced persistent threat, and so forth.
 
-Security cases can be created from various sources on your instance, including Security Case Management, [[sir-landing-page|Security Incident Response]], and [[threat-intel-landing-page|Threat Intelligence]]. You can also create cases from configuration items and affected users in the Configuration Items \[cmdb.ci\] and Users \[sys.user\] tables, respectively. After cases have been created, each of these sources can be also used to add valuable analysis resources to existing cases.
+Security cases can be created from various sources on your instance, including Security Case Management, Security Incident Response, and Threat Intelligence. You can also create cases from configuration items and affected users in the Configuration Items \[cmdb.ci\] and Users \[sys.user\] tables, respectively. After cases have been created, each of these sources can be also used to add valuable analysis resources to existing cases.
 
 Each security case consists of three main sections, a header section, a section with additional case details, and a case artifacts section containing a collection of records that aid in building an argument for identifying and dealing with particular threats.
 
@@ -48,17 +48,8 @@ You can also select a record and click the **Annotate** button for a case-relate
 
 \[Omitted image "annotations.png"\] Alt text: Annotations
 
-Other [[tools|tools]] the analyst can use for examining cases include:
+Other tools the analyst can use for examining cases include:
 
--   [[run-local-sighted-srch|Run a sightings search on observables in a case]]
--   [[search-for-artifacts|Search for security artifacts]]
+-   [Run a sightings search on observables in a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-local-sighted-srch.md)
+-   [Search for security artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/search-for-artifacts.md)
 
-## Related
-
-- [[run-local-sighted-srch|Run a sightings search on observables in a case]]
-- [[search-for-artifacts|Search for security artifacts]]
-- [[c_Observables|Observables]]
-- [[campaign|Campaign]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]

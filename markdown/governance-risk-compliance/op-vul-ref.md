@@ -12,7 +12,7 @@ breadcrumb: [Tables installed with Operational Resilience, Reference, Operationa
 
 # Tables relevant to Operational vulnerability
 
-Reference topics provide additional information about the [[exploring-op-vul|Operational vulnerability]], including the associated tables and roles.
+Reference topics provide additional information about the Operational vulnerability, including the associated tables and roles.
 
 ## Tables installed
 
@@ -32,9 +32,5 @@ Reference topics provide additional information about the [[exploring-op-vul|Ope
 |Regulation \[sn\_grc\_case\_mgmt\_regulation\]|Stores the regulations mapped at the case level.|GRC: Core Case Management|
 |Related area \[sn\_grc\_case\_mgmt\_related\_area\]|Stores the related areas associated with the case.|GRC: Core Case Management|
 
-**Parent Topic:**[[tables-installed-with-op-res|Tables installed with Operational Resilience]]
+**Parent Topic:**[Tables installed with Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/tables-installed-with-op-res.md)
 
-## Related
-
-- [[tables-installed-with-op-res|Tables installed with Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

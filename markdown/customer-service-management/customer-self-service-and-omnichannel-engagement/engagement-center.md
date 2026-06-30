@@ -29,7 +29,7 @@ Engagement Messenger provides the following benefits:
 -   Let your customers access your services from within an integrated messenger in your third-party websites.
 -   Integrate customer support capabilities via a no or low-code configuration.
 -   Meet your customer needs faster with these pre-packaged features:
-    -   [[case-management|Case management]] including case types
+    -   Case management including case types
     -   Service catalog requests
     -   Virtual and live agent chat
     -   Field service management
@@ -41,6 +41,3 @@ For more information about the Engagement Messenger application, see [Features o
 
 To get started with the Engagement Messenger application, see [Set up Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/setting-up-engagement-messenger.md).
 
-## Related
-
-- [[case-management|Case management]]

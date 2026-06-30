@@ -16,7 +16,7 @@ You can schedule an auto-update of the related assets in the plans based on the 
 
 ## Scheduling an auto-update of the related assets
 
-The BCM administrators can schedule an auto-update of the related assets in the plans in the Planning dependency update configuration module, based on the source data and relationships in the CMDB. You can access the auto-update configuration module by navigating to **Business Continuity Workspace** &gt; **General [[Administration|Administration]]** &gt; **Planning dependency update configuration**.
+The BCM administrators can schedule an auto-update of the related assets in the plans in the Planning dependency update configuration module, based on the source data and relationships in the CMDB. You can access the auto-update configuration module by navigating to **Business Continuity Workspace** &gt; **General Administration** &gt; **Planning dependency update configuration**.
 
 The Planning dependency update configuration module is shown in the example.\[Omitted image "plan-dep-update-config.png"\] Alt text: Updating the BCP dependencies.
 
@@ -28,13 +28,13 @@ Planning dependencies are fetched from different sources such as BIA upstream de
 
 Setting up the Planning dependency update configuration module is a one-time activity. Once the sources are configured in the Planning dependency update configuration module, the updates are synchronized in the plan.
 
-For more information on setting up the Planning dependency update configuration module, see [[confi-planning-dep-updates|Configuring planning dependency updates]].
+For more information on setting up the Planning dependency update configuration module, see [Configuring planning dependency updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/confi-planning-dep-updates.md).
 
 ## Using the updated dependencies with the Xanadu release
 
 Beginning with the Xanadu release, you can use the updated dependencies from the latest BIA record to conduct a dependency assessment on an asset. Information from the columns labeled Related item BIA, Related item Recovery Time Objective \(RTO\), Related item Recovery Point Objective \(RPO\), and Related item Recovery Tier is used to ascertain the required recovery timeframe and data backup needs, which are then displayed in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
-For more information on the source BIA records option in the Dependency configuration modules, see [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]].
+For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-plan-dep-update-confi-module.md).
 
 **Note:** The filter condition in the Element definition is used to add specific configuration items \(CIs\) via the pop-up. The **Update dependencies** UI action also considers the element definition's filter and retrieves the related CIs of the configuration item listed in the **Applies to** field of the BIA. These relationships are retrieved from the CI Relationships table.
 
@@ -80,7 +80,7 @@ See the workflow for using the **Update dependencies** UI action and updating th
     -   If the planning record matches any configuration filter, the application gets the dependencies in real time according to the sources in the configuration. Then, the BCM planner updates the planning record according to the **Fields to be updated** in the configuration. The plan workflow then continues for the next steps.
     -   If the planning record does not match the configuration filter, the plan workflow then continues for the next steps.
 
-For more information on updating the planning dependencies manually, see [[import-cmdb-updates-in-bcp|Update the planning dependencies]].
+For more information on updating the planning dependencies manually, see [Update the planning dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-cmdb-updates-in-bcp.md).
 
 **Note:**
 
@@ -88,7 +88,7 @@ For more information on updating the planning dependencies manually, see [[impor
 
 ## Snapshot record of the plan
 
-When the scheduled job runs at set intervals, it creates a snapshot record of each plan update in the application. The snapshot record contains the delta of the changes in the configuration such as new, updated, and deleted assets for the plan. The snapshot records are listed in the Pending updates module in the Planning [[list-view-uib-ws|list view]] in the Business Continuity Workspace. A snapshot record is shown in the example.
+When the scheduled job runs at set intervals, it creates a snapshot record of each plan update in the application. The snapshot record contains the delta of the changes in the configuration such as new, updated, and deleted assets for the plan. The snapshot records are listed in the Pending updates module in the Planning list view in the Business Continuity Workspace. A snapshot record is shown in the example.
 
 \[Omitted image "bcp-snapshot-record.png"\] Alt text: BCP snapshot record.
 
@@ -98,22 +98,12 @@ If the planning record does not have any changes in the dependencies, then a sna
 
 ## Data Relationships Framework
 
-When you [[create-bcp-plan-in-uib-ws|create a business continuity plan]], you must update the related assets in the plans. Beginning with the Australia release, the Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\) application supports the BCM application with the underlying framework to fetch the related assets in the plans. The Data Relationships Framework application is installed with the BCM application by default.
+When you create a business continuity plan, you must update the related assets in the plans. Beginning with the Australia release, the Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\) application supports the BCM application with the underlying framework to fetch the related assets in the plans. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [[data-relationship-framework|Data Relationships Framework]].
+For more information on the Data Relationships Framework, see [Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/data-relationship-framework.md).
 
 -   **[Update the planning dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-cmdb-updates-in-bcp.md)**  
 Update the plan dependencies manually from the snapshot if the scheduled job is not activated in the Planning dependency update configuration module. You can update the dependencies in an active plan.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[confi-planning-dep-updates|Configuring planning dependency updates]]
-- [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]]
-- [[import-cmdb-updates-in-bcp|Update the planning dependencies]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[Administration|Administration]]
-- [[list-view-uib-ws|List view]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]

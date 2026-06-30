@@ -14,7 +14,7 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 # Security in Legal Service Delivery
 
-[[legal-management-overview|Legal Service Delivery]] provides security through various ServiceNow AI Platform security features such as Restricted Caller Access, Encryption Support, and Edge Encryption.
+Legal Service Delivery provides security through various ServiceNow AI Platform security features such as Restricted Caller Access, Encryption Support, and Edge Encryption.
 
 ## Restricted caller access for Legal Service Delivery
 
@@ -59,6 +59,3 @@ You can encrypt columns \(fields\) or attachments associated with tables. See [E
 
 **Note:** There are limitations when using edge encryption. See [Edge Encryption limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption-limitations.md).
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]

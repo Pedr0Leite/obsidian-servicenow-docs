@@ -15,7 +15,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning, Strategic Portf
 
 # Personalizing views for prioritization
 
-Personalize how the Prioritization and Hierarchy tabs on the Planning page are displayed in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace so that you can view the information that is most relevant to you and your stakeholders.
+Personalize how the Prioritization and Hierarchy tabs on the Planning page are displayed in Portfolio Planning Workspace so that you can view the information that is most relevant to you and your stakeholders.
 
 -   **[Personalize Prioritization view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/personalize-prioritization-page-portfolio-planning-workspace.md)**
 
@@ -25,6 +25,4 @@ Personalize how the Prioritization and Hierarchy tabs on the Planning page are d
 
     Modify the views based on the lens to learn how work in the current portfolio plan relates to other lenses and gain better visibility into roll-ups of finances and schedules.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

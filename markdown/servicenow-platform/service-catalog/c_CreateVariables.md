@@ -18,19 +18,14 @@ You can create variables within an order guide.
 
 To create or edit order guide variables, open an order guide, then select an entry from the **Variables** related list.
 
-[[c_ServiceCatalogVariables|Service catalog variables]] within [[c_ServiceCatalogOrderGuides|order guides]] define the questions and potential answers presented to the customer while ordering. This information is used by order guide rules. Variables can also be cascaded, which passes the variable values along to individual ordered items.
+Service catalog variables within order guides define the questions and potential answers presented to the customer while ordering. This information is used by order guide rules. Variables can also be cascaded, which passes the variable values along to individual ordered items.
 
 Pricing is not supported for an order guide variable, even when you define the pricing for the variable though a variable set, and associate the variable set to the order guide.
 
 -   **[Create an item variable assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnItemVarAssignment.md)**  
-[[t_CreateAnItemVarAssignment|Create an item variable assignment]] that enables the catalog admin set up a default value mechanism in the order guide context so that the user can focus only on required values.
+Create an item variable assignment that enables the catalog admin set up a default value mechanism in the order guide context so that the user can focus only on required values.
 -   **[Cascade an order guide variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CascadeTheOrderGuideVariables.md)**  
 Cascading enables values entered for variables in the initial order form to be passed to the equivalent variables in the ordered catalog items.
 
 **Parent Topic:**[Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 
-## Related
-
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[t_CreateAnItemVarAssignment|Create an item variable assignment]]

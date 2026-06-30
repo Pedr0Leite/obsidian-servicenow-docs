@@ -15,7 +15,7 @@ breadcrumb: [Explore, Now Assist for SLO, Supplier Lifecycle Operations, Finance
 
 # Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)
 
-Get a quick overview of the important information that is related to the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 ## Supported versions
 
@@ -44,11 +44,11 @@ Virtual Agent
 
 </td></tr><tr><td>
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+Source-to-Pay Workspace
 
 </td><td>
 
-[[supplier|Supplier]] case summarization
+Supplier case summarization
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Activate the Now Assist for SLO store app \(com.snc.sn\_supplier\_gen\_ai\) to u
 This store app has the following dependencies:
 
 -   Now Assist for Platform \(com.sn.now.platform\)
--   [[supplier-case-management|Supplier Case Management]] \(com.snc.sn\_supplier\_mgmt\)
+-   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
 
 Activate the applications in the following order:
 
@@ -85,9 +85,3 @@ For more information, see [Configure Now Assist for Supplier Lifecycle Operation
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-case-management|Supplier Case Management]]

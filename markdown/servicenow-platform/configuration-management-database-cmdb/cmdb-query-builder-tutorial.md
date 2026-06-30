@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[cmdb-query-builder-landing-page|CMDB Query Builder]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CMDB Query Builder**.
 
 2.  Select **Create new** and then enter a name, for example `All servers with a connection to a DB`.
 
@@ -66,6 +66,4 @@ Role required: none
 
     5.  Select **Save** again to save your customization for this query.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

@@ -14,13 +14,13 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Tutorial: Build a custom widget
 
-Follow this tutorial to build a custom widget that displays Service Catalog items. Use this tutorial as a model to help you understand the advanced scripting power of the [[c_ServicePortal|Service Portal]].
+Follow this tutorial to build a custom widget that displays Service Catalog items. Use this tutorial as a model to help you understand the advanced scripting power of the Service Portal.
 
 In this tutorial, you will create the Quick Order widget. This widget:
 
 -   Displays popular items to the user prior to any search.
 -   Queries the Service Catalog and displays available options to the user.
--   Includes an embedded [[sc-catalog-item-widget|SC Catalog Item widget]], allowing the user to view and order items within the Quick Order widget.
+-   Includes an embedded SC Catalog Item widget, allowing the user to view and order items within the Quick Order widget.
 -   Uses an Angular Provider to display a category icon beside each queried item.
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
@@ -37,7 +37,7 @@ Role required: admin or sp\_admin
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration** and click **Widget Editor**.
 
-2.  Click **[[create-new-widget|Create a new widget]]**.
+2.  Click **Create a new widget**.
 
 3.  Define the following values.
 
@@ -470,7 +470,7 @@ Angular Providers let you build angular directives and services that can be inje
 
     2.  Open the Quick Order widget.
 
-    3.  Under **[[c_RelatedLists|Related Lists]]**, select **Angular Providers**.
+    3.  Under **Related Lists**, select **Angular Providers**.
 
     4.  In the Angular Providers list, select **Edit** and associate the categoryIcon Angular Provider with the Quick Order widget.
 
@@ -515,9 +515,4 @@ Angular Providers let you build angular directives and services that can be inje
 
     \[Omitted image "category-icon.png"\] Alt text:
 
-## Related
 
-- [[c_ServicePortal|Service Portal]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]
-- [[create-new-widget|Create a new widget]]
-- [[c_RelatedLists|Related lists]]

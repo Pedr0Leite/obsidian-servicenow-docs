@@ -14,7 +14,7 @@ breadcrumb: [Configure Agent-Initiated Messaging Interface, Configure, Agent Cha
 
 # Install Agent-Initiated Messaging Interface
 
-You can install the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] application \(sn\_agent\_initiated\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Agent-Initiated Messaging Interface application \(sn\_agent\_initiated\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ For more information, see [Components installed with Agent-initiated messaging i
 
 **Parent Topic:**[Configuring Agent-Initiated Messaging Interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/config-agent-init-messg-interface.md)
 
-## Related
-
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

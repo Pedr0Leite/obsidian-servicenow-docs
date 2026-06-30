@@ -14,7 +14,7 @@ breadcrumb: [Personal Data Rights \(PDR\), Privacy Management, Governance, Risk,
 
 # Configuring Personal Data Rights
 
-Set up the [[personal-data-rights|Personal Data Rights]] to address various types of data rights request.
+Set up the Personal Data Rights to address various types of data rights request.
 
 The following are the configuration tasks that must be performed before using the Personal Data Rights application.
 
@@ -33,6 +33,3 @@ Privacy teams can tailor the external-facing Personal Data Rights \(PDR\) form p
 
 **Parent Topic:**[Personal Data Rights \(PDR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

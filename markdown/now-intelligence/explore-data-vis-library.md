@@ -12,21 +12,21 @@ breadcrumb: [Data visualizations, Platform Analytics experience, Platform Analyt
 
 # Exploring the Data Visualizations library
 
-Find any data visualization in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] Data Visualizations library so that you can share information about your data with stakeholders and other users to evaluate the trends with real-time data. With the appropriate role, you can also create a visualization.
+Find any data visualization in the Platform Analytics Data Visualizations library so that you can share information about your data with stakeholders and other users to evaluate the trends with real-time data. With the appropriate role, you can also create a visualization.
 
 ## Data Visualizations Library overview
 
-On Australia instances, you can find both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations in the Data Visualizations library.
+On Australia instances, you can find both Core UI reports and Platform Analytics experience data visualizations in the Data Visualizations library.
 
 When you edit Core UI dashboards and their content, you do so in the Core UI tools including Report Designer. For more information, see [Reporting, dashboards, and Performance Analytics in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/classic-vis-overview.md) and [Using reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_GenerateReports.md).
 
 To open the data visualizations library, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. You can also navigate to this library from other Platform Analytics library pages.
 
-Library pages like this one include a navigation pane that provides access to the other libraries and the [[user-exp-analytics-landing|Usage Insights]] page. Use it to navigate between the libraries without interrupting your workflow.
+Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
 ## Data Visualizations library elements
 
-Access to certain elements in the Data Visualizations library is based on whether the user is associated with specific admin roles. For Data Visualizations, the analytics admin roles include report\_admin, pa\_admin, platform\_analytics\_admin, and admin. The lowest required role is viz\_admin. For users with the lowest role, the application navigator provides a direct access only to the [[find-dashboard-library|Dashboards]], [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), and [[your-kpis|Indicators]] from the Platform Analytics library. For more information on user roles in Data Visualizations, see [[platform-analytics-roles|Data visualization roles]].
+Access to certain elements in the Data Visualizations library is based on whether the user is associated with specific admin roles. For Data Visualizations, the analytics admin roles include report\_admin, pa\_admin, platform\_analytics\_admin, and admin. The lowest required role is viz\_admin. For users with the lowest role, the application navigator provides a direct access only to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), and [Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/your-kpis.md) from the Platform Analytics library. For more information on user roles in Data Visualizations, see [Data visualization roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 The following image shows the Data Visualizations library elements that are accessible for users with analytics admin roles.
 
@@ -93,10 +93,10 @@ Option to create data visualizations.
 
 </td><td>
 
-Option for filtering the data visualizations list to display the data based on the following predefined conditions:-   **Bookmarked**: Your bookmarked visualizations. Bookmark any data visualization that you have access to so that you can find it easily. To bookmark a visualization, see [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]].
--   **Certified**: Visualizations that an administrator has certified. To certify a data visualization, see [[certify-dv-ac|Certify a data visualization in the Visualization Designer]].
+Option for filtering the data visualizations list to display the data based on the following predefined conditions:-   **Bookmarked**: Your bookmarked visualizations. Bookmark any data visualization that you have access to so that you can find it easily. To bookmark a visualization, see [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md).
+-   **Certified**: Visualizations that an administrator has certified. To certify a data visualization, see [Certify a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/certify-dv-ac.md).
 -   **Owned by me**: Visualizations that you own or you created.
--   **Shared with me**: Visualizations that have been shared with you as a user, member of a group, or role. To share a data visualization, see [[share-dv-ac|Share a data visualization in the Visualization Designer]].
+-   **Shared with me**: Visualizations that have been shared with you as a user, member of a group, or role. To share a data visualization, see [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md).
 
 </td></tr><tr><td>
 
@@ -344,22 +344,8 @@ Application navigator
 
 </td><td>
 
-Provides direct access to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), [Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/your-kpis.md), [[interactive-filters-workspace|Filters]], and [[schedule-visn-export-vd|Scheduled exports]] from the Platform Analytics library and the Usage Insights page.**Note:** Users with non-admin roles can only access Dashboards, Data Visualizations, and Indicators from the Platform Analytics library using the application navigator.
+Provides direct access to the [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/find-dashboard-library.md), [Data Visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md), [Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/your-kpis.md), [Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md), and [Scheduled exports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/schedule-visn-export-vd.md) from the Platform Analytics library and the Usage Insights page.**Note:** Users with non-admin roles can only access Dashboards, Data Visualizations, and Indicators from the Platform Analytics library using the application navigator.
 
 </td></tr></tbody>
-</table>**Note:** A user with the viz\_admin role or higher might also see a panel with recommendations about problematic data visualizations. For more information, see [[pa-library-recommendations|Platform Analytics library recommendations]].
+</table>**Note:** A user with the viz\_admin role or higher might also see a panel with recommendations about problematic data visualizations. For more information, see [Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md).
 
-## Related
-
-- [[find-dashboard-library|Dashboards in the library]]
-- [[your-kpis|Managing indicators from the Platform Analytics library]]
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[certify-dv-ac|Certify a data visualization in the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]
-- [[pa-library-recommendations|Platform Analytics library recommendations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[user-exp-analytics-landing|Usage Insights]]

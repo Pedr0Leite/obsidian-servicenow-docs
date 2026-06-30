@@ -15,7 +15,7 @@ breadcrumb: [Explore, Digital Product Release, IT Service Management]
 
 # Managing releases in Service Operations Workspace
 
-Service Operations Workspace \(SOW\) and [[dpr-landing-page|Digital Product Release]] \(DPR\) workspaces provide a unified release and [[c_ITILChangeManagement|change management]] experience. You can manage releases, view release details, and associate change requests with releases — all from SOW.
+Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and change management experience. You can manage releases, view release details, and associate change requests with releases — all from SOW.
 
 ## Overview of DPR and SOW unified experience
 
@@ -31,7 +31,7 @@ For more information, see [Service Operations Workspace for ITSM](https://raw.gi
 
 Verify the following before you begin:
 
--   Both DPR \(v2.4 or later\) and SOW \(v9.0.0 or later\) [[dex-workspace-application-tab|applications]] are activated in your ServiceNow AI Platform instance.
+-   Both DPR \(v2.4 or later\) and SOW \(v9.0.0 or later\) applications are activated in your ServiceNow AI Platform instance.
 -   You have the required roles for both applications.
 
 ## Viewing releases in Service Operations Workspace
@@ -40,7 +40,7 @@ You can access releases, execute them, and view release details directly from SO
 
 -   **Releases list in SOW**
 
-    SOW includes a **Releases** list that provides direct access to your releases without switching to the [[dpr-workspace|Digital Product Release Workspace]]. The list includes the following filters:
+    SOW includes a **Releases** list that provides direct access to your releases without switching to the Digital Product Release Workspace. The list includes the following filters:
 
     -   Open releases: Shows active and open releases
     -   My releases: Shows releases where you’re the owner or assigned user
@@ -63,9 +63,3 @@ You can also perform release execution from SOW if you have the appropriate DPR 
 
 **Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpr-workspace|Digital Product Release Workspace]]

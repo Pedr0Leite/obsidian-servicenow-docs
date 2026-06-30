@@ -12,7 +12,7 @@ breadcrumb: [Metric types and assessable records, Create an assessment metric fo
 
 # Export an assessment
 
-You can share [[r_Assessments|assessments]] between ServiceNow instances by exporting an assessment and then importing the assessment on another instance.
+You can share assessments between ServiceNow instances by exporting an assessment and then importing the assessment on another instance.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: assessment\_admin or admin
 
 The XML file contains a metric type `[asmt_metric_type]` and the following records that are associated with the type:
 
--   [[c_assessable-records|Assessable records]] `[asmt_assessable_record]`
+-   Assessable records `[asmt_assessable_record]`
 -   Metric categories `[asmt_metric_category]`
 -   Metrics `[asmt_metric]`
 -   Metric definitions `[asmt_metric_definition]`
 -   Category users `[asmt_m2m_category_user]`
 -   Stakeholders `[asmt_m2m_stakeholder]`
--   [[r_AdministerDecisionMatrixes|Decision matrixes]] `[asmt_decision_matrix]`, `[asmt_m2m_xcategory_matrix]`, and `[asmt_m2m_ycategory_matrix]`
+-   Decision matrixes `[asmt_decision_matrix]`, `[asmt_m2m_xcategory_matrix]`, and `[asmt_m2m_ycategory_matrix]`
 
 ## Procedure
 
@@ -43,19 +43,12 @@ The XML file contains a metric type `[asmt_metric_type]` and the following recor
 3.  Save the XML file.
 
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[[t_ImportAssessment|Import an assessment]]
+[Import an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ImportAssessment.md)
 
 [Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[t_ImportAssessment|Import an assessment]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]

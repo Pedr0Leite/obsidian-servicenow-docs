@@ -14,7 +14,7 @@ breadcrumb: [Manage observables, Managing security incidents and inbound request
 
 # Show IoC information for a security incident
 
-You can view IoC information, such as [[c_Observables|observables]] and [[indicator-sightings|sightings]] search results associated with a security incident.
+You can view IoC information, such as observables and sightings search results associated with a security incident.
 
 ## Before you begin
 
@@ -31,10 +31,10 @@ Role required: sn\_si.basic
     |Tab|Description|
     |---|-----------|
     |Observables|View or manually add or edit observables associated with the security incident. For more information, see [Manage observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sec-inc-observables.md).|
-    |Associated Indicators|If [[threat-intel-landing-page|Threat Intelligence]] is activated, you can view any other [[indicator|indicators]] associated with any of the same threat records.|
+    |Associated Indicators|If Threat Intelligence is activated, you can view any other indicators associated with any of the same threat records.|
     |Sightings Search Results|Contains Sightings Search results.|
     |Sightings Search Details|Contains Sightings Search record details.|
-    |Threat Lookups|Stores enrichment data from [[threat-intelligence-malware|malware]] detection systems. This tab only appears when the Threat Intelligence plugin is installed.|
+    |Threat Lookups|Stores enrichment data from malware detection systems. This tab only appears when the Threat Intelligence plugin is installed.|
     |Associated Attack Modes/Methods|If Threat Intelligence is activated, you can view any other attack types associated with any of the same threat records.|
     |Security Scan Requests|If Threat Intelligence is activated, you can view scan and lookup requests attached to the security incident.|
     |Resources with Similar IoC|If Threat Intelligence is activated, you can view any other resources with similar indicators.|
@@ -48,10 +48,4 @@ Role required: sn\_si.basic
     -   [Show Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 5.  When you have completed your entries, click **Submit**.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator|Indicators]]
-- [[threat-intelligence-malware|Malware]]

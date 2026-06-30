@@ -49,7 +49,7 @@ Users with the Security Incident Analyst role view the Security Analyst Overview
 |Security Incidents assigned to me|Bar chart|Security Incidents assigned to me by incident state or category.|
 |Work assigned to me by Type|Bar chart|Security tasks \(incidents, tasks, or requests\) assigned to me by type or priority.|
 |Security Incidents, Requests, Tasks assigned to me|List|A list of all security incidents, security requests, and tasks assigned to me.|
-|Security Incident Location|Map|Regional [[location|location]] of the security incidents.|
+|Security Incident Location|Map|Regional location of the security incidents.|
 |Count|Map|Number of security incidents per region.|
 |Min/Max Count|Color Spectrum Bar|The minimum and maximum numbers of security incidents per region represented by a color spectrum bar.|
 |Percentage of Count|Map|Percentage of the total incident count per region.|
@@ -70,7 +70,7 @@ When the Security Incident Analytics plugin is activated, users with the Securit
 |Security Incident Business Impact|Treemap|Business services with security incidents with available groupings by business criticality.|
 |Average Time to Contain \(Weekly\)|Trend|The 7-day average time it takes to contain a security incident over time.|
 |Average Time to Eradicate \(Weekly\)|Trend|The 7-day average time it takes to eradicate a security incident over time.|
-|Average Time to [[identity|Identity]] \(Weekly\)|Trend|The 7-day average time it takes to identify a security incident over time.|
+|Average Time to Identity \(Weekly\)|Trend|The 7-day average time it takes to identify a security incident over time.|
 |Security Incident Location|Map|Regional location of the security incidents.|
 |Count|Map|Number of security incidents per region.|
 |Min/Max Count|Color Spectrum Bar|The minimum and maximum numbers of security incidents per region represented by a color spectrum bar.|
@@ -94,24 +94,16 @@ When the Security Incident Analytics plugin is not activated, users with the Sec
 |Average Time to Contain Critical|Single score|The average time it takes to contain all critical security incidents.|
 |Average Time to Identity|Single score|The average time it takes to identify all security incidents.|
 
-**Note:** The [[sir-landing-page|Security Incident Response]] base system includes Performance Analytics Solutions for displaying preconfigured best practice dashboards. The dashboards present important metrics for analyzing your Security Incident Response process, such as new security incidents or the average age of open security incidents. For more information and installation instructions, see [Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md).
+**Note:** The Security Incident Response base system includes Performance Analytics Solutions for displaying preconfigured best practice dashboards. The dashboards present important metrics for analyzing your Security Incident Response process, such as new security incidents or the average age of open security incidents. For more information and installation instructions, see [Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md).
 
 -   **[Access Security Incident Response Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/access-sec-in-resp-explorer.md)**  
 You can access the Security Incident Response Explorer dashboard to view security incident activity in order to instantly pinpoint areas of concern and quickly resolve issues.
 -   **[Security incident map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecurityIncidentGeoHeatmap.md)**  
-The [[c_SecurityIncidentGeoHeatmap|security incident map]] provides data by geographical location. The world map is highlighted in every area in which an incident occurs. When the Security Incident Analytics plugin is activated, you can add the security incident map to the Security Incident Response overview. After it has been added, you can configure the map by modifying the map filters.
+The security incident map provides data by geographical location. The world map is highlighted in every area in which an incident occurs. When the Security Incident Analytics plugin is activated, you can add the security incident map to the Security Incident Response overview. After it has been added, you can configure the map by modifying the map filters.
 -   **[Security incident treemaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ConfigureTreemaps.md)**  
-When the Security Incident Analytics plugin is activated, you can add the security incident - service impact and security incident - real-time treemaps to the Security Incident Response overview. After they have been added, you can configure the treemaps by modifying treemap categories and [[indicator|indicators]].
+When the Security Incident Analytics plugin is activated, you can add the security incident - service impact and security incident - real-time treemaps to the Security Incident Response overview. After they have been added, you can configure the treemaps by modifying treemap categories and indicators.
 -   **[Add vulnerability significance charts to an overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_AddVulnSignTreemaps.md)**  
-If the [[vuln-landing-page|Vulnerability Response]] plugin is activated, you can add vulnerability significance definition charts and other visualizations to the Overview.
+If the Vulnerability Response plugin is activated, you can add vulnerability significance definition charts and other visualizations to the Overview.
 
 **Parent Topic:**[Visual representation of Security Incident Response reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIRHomepage.md)
 
-## Related
-
-- [[location|Location]]
-- [[identity|Identity]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_SecurityIncidentGeoHeatmap|Security incident map]]
-- [[indicator|Indicators]]
-- [[vuln-landing-page|Vulnerability Response]]

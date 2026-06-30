@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Components installed with Software Asset Management Professional
 
-Roles, plugins, and scheduled jobs are installed with the activation of the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional application. Demo data is available with this application.
+Roles, plugins, and scheduled jobs are installed with the activation of the Software Asset Management Professional application. Demo data is available with this application.
 
 ## Scheduled jobs installed
 
@@ -52,7 +52,7 @@ Granular admin role that has full access to the Software Asset Management applic
 -   model\_manager
 -   contract\_manager
 
- **Note:** The sam\_spend\_import role is [[installed-with-spend-detection|installed with Software Spend Detection]]. The it\_demand\_user role is no longer automatically installed with [PPM Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_ProjectPortfolioSuiteWithFinancials.md).
+ **Note:** The sam\_spend\_import role is installed with Software Spend Detection. The it\_demand\_user role is no longer automatically installed with [PPM Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_ProjectPortfolioSuiteWithFinancials.md).
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Software Asset Management user \[sam\_user\]
 
 </td><td>
 
-This role has access to all Software Asset Management features except administrative. If [[software-spend-detection|Software Spend Detection]] is installed, this role has access to all Software Spend Detection features except financial transaction data import and Content Service setup.
+This role has access to all Software Asset Management features except administrative. If Software Spend Detection is installed, this role has access to all Software Spend Detection features except financial transaction data import and Content Service setup.
 
 </td><td>
 
@@ -83,7 +83,7 @@ sam\_admin
 
 </td></tr><tr><td>
 
-[[sam-subscription-management|SaaS License Management]] integration administrator\[sam\_integrator\]
+SaaS License Management integration administrator\[sam\_integrator\]
 
 </td><td>
 
@@ -126,7 +126,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Activate all Software Asset Management Professional plugins including [[sam-workspace|Software Asset Workspace]] com.sn\_samp\_master\_ws
+Activate all Software Asset Management Professional plugins including Software Asset Workspace com.sn\_samp\_master\_ws
 
 </td><td>
 
@@ -134,7 +134,7 @@ Now Support Service Portal
 
 </td><td>
 
-Requires subscription. Provides the capability to normalize [[sam-software-discovery|software discovery]] information, reconcile entitlements with installs, and reclaiming unused software. Provides additional capabilities to reconcile publisher products. Loads the following plugin and store application in one step:-   Software Asset Management Professional \(com.sn\_samp\_master\) plugin
+Requires subscription. Provides the capability to normalize software discovery information, reconcile entitlements with installs, and reclaiming unused software. Provides additional capabilities to reconcile publisher products. Loads the following plugin and store application in one step:-   Software Asset Management Professional \(com.sn\_samp\_master\) plugin
 -   Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 </td></tr><tr><td>
@@ -223,7 +223,7 @@ Requires the Software Asset Management Professional \(com.snc.samp\) plugin. Pro
 
 </td></tr><tr><td>
 
-[[sam-file-based-discovery|File Signature Normalization]] \(com.snc.file\_signature\_normalization\)
+File Signature Normalization \(com.snc.file\_signature\_normalization\)
 
 </td><td>
 
@@ -247,7 +247,7 @@ Provides the capabilities needed for end users to view assigned assets on a mobi
 
 </td></tr><tr><td>
 
-[[it-asset-management|IT Asset Management]] Mobile\(com.sn\_itam\_mobile\)
+IT Asset Management Mobile\(com.sn\_itam\_mobile\)
 
 </td><td>
 
@@ -362,13 +362,3 @@ Requires the Software Asset Management Professional \(com.snc.samp\) plugin. Pro
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[installed-with-spend-detection|Installed with Software Spend Detection]]
-- [[software-spend-detection|Software Spend Detection]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-software-discovery|Software discovery]]
-- [[sam-file-based-discovery|File Signature Normalization]]
-- [[it-asset-management|IT Asset Management]]

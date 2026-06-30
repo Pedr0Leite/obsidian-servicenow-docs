@@ -14,7 +14,7 @@ breadcrumb: [Typo handling, Search profiles, Configuring AI Search, AI Search, S
 
 # Exclude a term from a typo handling dictionary
 
-Prevent [[ia-ai-search|AI Search]] from auto-correcting a term in user search queries by excluding the term from a [[typo-handling-ais|typo handling]] dictionary.
+Prevent AI Search from auto-correcting a term in user search queries by excluding the term from a typo handling dictionary.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: ais\_admin
 
 4.  In the AI Search Dictionary Terms related list, select **New**.
 
-5.  On the [[dictionary-term-form-ais|Dictionary Term form]], fill in the fields.
+5.  On the Dictionary Term form, fill in the fields.
 
     For a description of the field values, see [Dictionary Term form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dictionary-term-form-ais.md).
 
@@ -53,8 +53,3 @@ To make updated typo handling settings take effect, publish the search profile t
 
 **Parent Topic:**[Typo handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/typo-handling-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[typo-handling-ais|Typo handling]]
-- [[dictionary-term-form-ais|Dictionary Term form]]

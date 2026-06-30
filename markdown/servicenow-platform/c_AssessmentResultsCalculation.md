@@ -12,25 +12,18 @@ breadcrumb: [View a metric result, Assessment administrator tasks, Using assessm
 
 # Assessment results calculation
 
-For every assessment group, there are [[r_AssessmentResults|assessment results]].
+For every assessment group, there are assessment results.
 
 Data calculated from an evaluation of one metric is classified as a metric result. Data calculated from the weighted average of all metric results in a category is classified as a category result. The system calculates some assessment results when the assessment is generated, and others when users complete questionnaires.
 
-**Parent Topic:**[[t_ViewAMetricResult|View a metric result]]
+**Parent Topic:**[View a metric result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 
 **Related topics**  
 
 
-[[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
-[[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]
+[Generate a vendor type assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAVendorTypeAssmtManually.md)
 
-[[c_AssessmentGroups|Assessment groups]]
+[Assessment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md)
 
-## Related
-
-- [[t_ViewAMetricResult|View a metric result]]
-- [[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
-- [[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]
-- [[c_AssessmentGroups|Assessment groups]]
-- [[r_AssessmentResults|Assessment results]]

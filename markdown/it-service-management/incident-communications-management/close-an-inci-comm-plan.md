@@ -25,12 +25,12 @@ Role required: itil, ia\_admin, or admin
 -   The business rule **IA\_State\_Management** allows any user with the ia\_admin role or an itil user who is assigned to the incident communication plan, to close or cancel an incident communication plan.
 -   If a user with the itil role closes or cancels a parent incident, all related incident communication plans are closed or canceled.
 
-    **Note:** Use the [[c_IncidentManagement|incident management]] property **Close open Incident Communication Plans when Incident is closed or canceled** \(**com.snc.incident.incident\_alert.closure**\) to control this behavior.
+    **Note:** Use the incident management property **Close open Incident Communication Plans when Incident is closed or canceled** \(**com.snc.incident.incident\_alert.closure**\) to control this behavior.
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_IncidentAlertManagement|Incident Communications Management]]** &gt; **Open**.
+1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Open**.
 
     **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-ui16-module-links-sow.md).
 
@@ -43,7 +43,3 @@ Role required: itil, ia\_admin, or admin
 
 **Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/working-with-inci-comm-mgmt.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]

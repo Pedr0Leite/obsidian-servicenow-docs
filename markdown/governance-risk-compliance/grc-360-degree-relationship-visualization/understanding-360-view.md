@@ -14,13 +14,13 @@ breadcrumb: [360° Relationship Visualization, Common GRC features, Governance, 
 
 # Exploring the 360º view
 
-After you have successfully set up your data registries for the tables you use, you can use the 360º view feature to view the relationships between a selected record and related objects, such as controls, risks, and [[entity-type-in-risk-ws|entity types]].
+After you have successfully set up your data registries for the tables you use, you can use the 360º view feature to view the relationships between a selected record and related objects, such as controls, risks, and entity types.
 
 When you launch the 360º view from a particular record, the relationships between the selected record and all associated objects are displayed in a distinctive visualization that allows you to instantly understand how the objects interact with one another. The relationships are linked to your data so you can perform actions on the displayed records, such as drilling down into them to view additional details or creating new records.
 
 \[Omitted image "360-rel-viz.png"\] Alt text: 360º view
 
-The screen above shows the relationships that you set up in the data registry for the selected main object \(in this case, the Risk: Loss of Availability entity\). As you can see, one entity and one control apply to the main object. And the main object includes a range of relationships related to [[risk-response|risk response]] tasks, internal risk events, and [[risk-assessments|risk assessments]]. Additionally, there is a risk statement relationship upstream from the main object. All these relationships to the main object are available to you at a glance.
+The screen above shows the relationships that you set up in the data registry for the selected main object \(in this case, the Risk: Loss of Availability entity\). As you can see, one entity and one control apply to the main object. And the main object includes a range of relationships related to risk response tasks, internal risk events, and risk assessments. Additionally, there is a risk statement relationship upstream from the main object. All these relationships to the main object are available to you at a glance.
 
 **Parent Topic:**[360° Relationship Visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md)
 
@@ -114,8 +114,3 @@ The following enhancements and bug fixes are supported with the updated 360º vi
     -   Defect fix for the Apple iPad Pro devices: Earlier, multiple vertical and horizontal scrolls were displayed in the default view on the smaller Apple iPad devices such as the 12.9-inch \(0.328 meter\) and 16-inch \(0.406 meter\) Apple iPad Pro devices. The defect related to the view on the smaller Apple iPad devices has been fixed. You can see the entire 360º component on an Apple iPad device without needing to scroll the view.
     -   Defect fix on the navigation path: A defect that is related to the caching issue that existed in the prior releases was fixed. You can now view the navigation path correctly for the records.
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[risk-response|risk response]]
-- [[risk-assessments|risk assessments]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Audit Management, Governance, Risk, and Compliance]
 
 # Quick start tests for Audit Management
 
-Validate that GRC: [[c_GRCAudits|Audit Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that GRC: Audit Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 ## GRC Audit Management
 
@@ -62,7 +62,7 @@ GRC: Cost and Resource plan rollup
 
 </td><td>
 
-[[create-audit-plan|Create an audit plan]] and associate an engagement to it, on adding cost plan and resource plan to this engagement, notice that these costs are rolled up to the plan. Any edits to these costs in engagement reflects in the plan.
+Create an audit plan and associate an engagement to it, on adding cost plan and resource plan to this engagement, notice that these costs are rolled up to the plan. Any edits to these costs in engagement reflects in the plan.
 
 </td><td>
 
@@ -86,7 +86,7 @@ GRC: Auditable Unit with Detailed Risk Assessment
 
 </td><td>
 
-[[create-auditable-unit|Create an Auditable unit]] with method as "Detailed Risk Assessment" and request for Assessing the Risk Assessment by adding the Assessor once the assessor responds and Marks Assessment as Complete after performing the control assessment and residual assessment, the risk assessment fields should be auto updated.
+Create an Auditable unit with method as "Detailed Risk Assessment" and request for Assessing the Risk Assessment by adding the Assessor once the assessor responds and Marks Assessment as Complete after performing the control assessment and residual assessment, the risk assessment fields should be auto updated.
 
 </td><td>
 
@@ -100,8 +100,3 @@ Paris
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[create-audit-plan|Create an audit plan]]
-- [[create-auditable-unit|Create an auditable unit]]

@@ -32,9 +32,9 @@ An escalation policy is a set of guidelines that outlines how and when incidents
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -58,12 +58,7 @@ An escalation policy is a set of guidelines that outlines how and when incidents
 
 
 -   **[Create an escalation trigger for an SRM team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-trigger-escalation-policy.md)**  
-To address issues promptly, define the conditions that trigger a team's escalation policy in [[sr-landing-page|Service Reliability Management]] \(SRM\).
+To address issues promptly, define the conditions that trigger a team's escalation policy in Service Reliability Management \(SRM\).
 
 **Parent Topic:**[Working with SRM teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-teams.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]
-- [[sr-landing-page|Service Reliability Management]]

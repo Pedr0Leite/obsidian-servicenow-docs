@@ -15,7 +15,7 @@ breadcrumb: [Find correlations between alerts, Analyzing and resolving alerts, H
 
 # Exclude a source from a log correlator in Health Log Analytics
 
-Prevent [[hla-landing-page|Health Log Analytics]] from analyzing log lines from a specific source by excluding that source from the log correlator.
+Prevent Health Log Analytics from analyzing log lines from a specific source by excluding that source from the log correlator.
 
 ## Before you begin
 
@@ -34,6 +34,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 **Parent Topic:**[Identifying related alerts in log data by using log correlators in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-correlator-what-is-a.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

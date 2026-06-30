@@ -14,25 +14,25 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Award multiple suppliers from a sourcing event
 
-When [[negotiations|negotiations]] are complete for a sourcing event, you can award one or multiple suppliers from the sourcing event, or reject all bids, as required. Awarding suppliers create purchase requisitions for the selected suppliers and items.
+When negotiations are complete for a sourcing event, you can award one or multiple suppliers from the sourcing event, or reject all bids, as required. Awarding suppliers create purchase requisitions for the selected suppliers and items.
 
 ## Before you begin
 
-Ensure that you’ve qualified all the relevant suppliers, and have received all the bids and responses from them, before you begin the awarding process. At this point, the sourcing event that you plan to work on, and all its associated negotiations, sourcing requests, and [[purchase-lines|purchase lines]] must be in the Requires Decision state.
+Ensure that you’ve qualified all the relevant suppliers, and have received all the bids and responses from them, before you begin the awarding process. At this point, the sourcing event that you plan to work on, and all its associated negotiations, sourcing requests, and purchase lines must be in the Requires Decision state.
 
 Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
-2.  On the list page, navigate to **All work** &gt; **[[negotiation-events|Sourcing Events]]**.
+2.  On the list page, navigate to **All work** &gt; **Sourcing Events**.
 
 3.  Select and open the sourcing event that you plan to work on.
 
     The **Details** page is displayed with a list of all the negotiations, suppliers, state, and negotiation outcome.
 
-4.  From the **Award single [[supplier|supplier]]** list, select **Award multiple suppliers**.
+4.  From the **Award single supplier** list, select **Award multiple suppliers**.
 
     The **Award suppliers** tab is displayed with all the supplier bids and responses grouped by products, with details of the requester’s intake.
 
@@ -47,11 +47,3 @@ Role required: sn\_shop.procurement\_specialist
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiation-events|Sourcing events]]
-- [[supplier|Supplier]]

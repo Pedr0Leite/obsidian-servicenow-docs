@@ -22,13 +22,13 @@ After creating a scenario and implementing the space allocation and assignment, 
 
 **Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md).
 
-\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about [[reviewing-allocation-changes|reviewing allocation changes]].
+\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about reviewing allocation changes.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## About this task
 
-Publish a scenario after it’s created so that it’s available for others to view in a read-only mode. Share the scenario with your colleagues or stakeholders to review in a read-only mode. Access the published scenario from the [[space-optimization|Space optimization]] module.
+Publish a scenario after it’s created so that it’s available for others to view in a read-only mode. Share the scenario with your colleagues or stakeholders to review in a read-only mode. Access the published scenario from the Space optimization module.
 
 When you publish a scenario, the state of the scenario changes from **Draft** state to **Ready** state. For more information about the states of a scenario, refer to [Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md).
 
@@ -36,8 +36,8 @@ When you publish a scenario, the state of the scenario changes from **Draft** st
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
 2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
     The Space optimization dashboard opens.
@@ -100,7 +100,7 @@ The stack plan view of the building opens.
 
 The scenario is published.
 
-View all the scenario real estate and allocation changes in detail using the **[[space-deployment-plan|Space Deployment plan]]** or the **[[user-deployment-plan|User Deployment plan]]** tab. The details of all the changes that you performed in the scenario are displayed. View details related to space, floor, building, type of change, current value, scenario value, and workplace cases.
+View all the scenario real estate and allocation changes in detail using the **Space Deployment plan** or the **User Deployment plan** tab. The details of all the changes that you performed in the scenario are displayed. View details related to space, floor, building, type of change, current value, scenario value, and workplace cases.
 
 ## What to do next
 
@@ -133,11 +133,3 @@ View all the scenario real estate and allocation changes in detail using the **[
 
 [Map based space administration]()
 
-## Related
-
-- [[reviewing-allocation-changes|Reviewing allocation changes]]
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[space-deployment-plan|Space Deployment Plan]]
-- [[user-deployment-plan|User Deployment Plan]]

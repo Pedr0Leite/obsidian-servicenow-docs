@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # Configure metric charts for Agent Workspace
 
-Configure the set of [[operational-metrics|Metric Intelligence]] metric charts, chart types, and other chart characteristics, that appear in Agent Workspace.
+Configure the set of Metric Intelligence metric charts, chart types, and other chart characteristics, that appear in Agent Workspace.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ If [resource binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Metrics View Configuration**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Metrics View Configuration**.
 
 2.  In the Metric Dashboard Metadatas \(Dashboard Metadata\) list view, select an existing configuration or click **New**.
 
@@ -113,7 +113,3 @@ Chart Type
 </table>
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

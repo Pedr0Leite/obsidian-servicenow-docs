@@ -28,7 +28,7 @@ Each tagging rule consists of matching criteria that TISC evaluates against inco
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Rules Engine** &gt; **Tagging Rules**.
 
@@ -297,6 +297,3 @@ If this check box isn't selected, spaces are preserved and treated as part of th
 
 If multiple rules are triggered, each rule appears as a separate row. When multiple tags and taxonomies values are applied by a single rule, they are listed as comma-separated values with tags and taxonomies separately applied by each tagging rule. When multiple tagging rules utilize the same tags or taxonomies values, the application ensures that duplicate tags and taxonomies are automatically managed. This prevents the same tag or taxonomy from being applied more than once to an RSS Feed record.
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

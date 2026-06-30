@@ -17,9 +17,9 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 You can self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process. Use this information to gain more comprehensive visibility into your SAP license compliance position so that you can optimize your licensing costs.
 
 -   **[Self-declare SAP engine license usage in the Software Asset Management classic application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/self-declare-sap-products.md)**  
-Use the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
+Use the Software Asset Management classic application to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
 -   **[Self-declare SAP engine license usage in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/self-declare-sap-products-workspace.md)**  
-Use the [[sam-workspace|Software Asset Workspace]] to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
+Use the Software Asset Workspace to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
 
 **Parent Topic:**[Software Asset Management publisher pack for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-publisher-pack.md)
 
@@ -36,7 +36,7 @@ Use the [[sam-workspace|Software Asset Workspace]] to self-declare the license u
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -56,8 +56,3 @@ Use the [[sam-workspace|Software Asset Workspace]] to self-declare the license u
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

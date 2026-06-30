@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Getting started with Security Incident Response integration with Zscaler
 
-Activate and set up the Zscaler Internet Access product to interface with your ServiceNow AI Platform instance and [[sir-landing-page|Security Incident Response]] product.
+Activate and set up the Zscaler Internet Access product to interface with your ServiceNow AI Platform instance and Security Incident Response product.
 
 <table id="table_z2c_gyj_vpb"><thead><tr><th>
 
@@ -45,7 +45,7 @@ Verify that the ServiceNow core applications are installed and activated before 
 
 The ServiceNow Integration Hub Enterprise Pack Installer \[com.glide.hub.integrations.enterprise\] plugin is required.
 
- The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies for the Security Incident Response product. Install and activate this plugin before you install and activate the other [[security-operations-landing-page|Security Operations]] applications for the integration.
+ The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies for the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications for the integration.
 
  Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If these applications are not already installed, install and activate each application one at a time in the following order:
 
@@ -53,7 +53,7 @@ The ServiceNow Integration Hub Enterprise Pack Installer \[com.glide.hub.integra
 2.  Security Integration Framework
 3.  Security Support Common
 4.  Security Support Orchestration
-5.  [[threat-intel-landing-page|Threat Intelligence]] Support Common
+5.  Threat Intelligence Support Common
 6.  Trusted Security Circles
 7.  Security Operations Setup Assistant
 8.  Security Incident Response
@@ -85,9 +85,3 @@ Verify that you have the required Zscaler permissions and have configured [acces
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intel-landing-page|Threat Intelligence]]

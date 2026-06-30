@@ -22,7 +22,7 @@ Role required: scrum\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  Click the **Sprint Tracking** tab and select the **List** view.
 
@@ -30,7 +30,7 @@ Role required: scrum\_user
 
 4.  Verify a story by clicking **Run** on the story.
 
-    This step runs all [[c_Tests|tests]] of the story at once.
+    This step runs all tests of the story at once.
 
 5.  In the pop-up, select the environment on which the test is to be run.
 
@@ -67,7 +67,3 @@ The overall status of the test is defined by statuses of the test steps:
 
 [Create a test for a story]()
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[c_Tests|Tests]]

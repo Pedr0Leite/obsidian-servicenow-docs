@@ -14,7 +14,7 @@ breadcrumb: [Create a supplier, Using Source-to-Pay Workspace, Use, Supplier Lif
 
 # Add a subsidiary for a supplier from the Source-to-Pay Workspace
 
-If a [[supplier|supplier]] has subsidiaries, you can add them to that supplier from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+If a supplier has subsidiaries, you can add them to that supplier from the Source-to-Pay Workspace.
 
 \[Omitted video\] Description: Procedure for adding a subsidiary to a supplier from the Source-to-Pay Workspace.
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.owner or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Manage my suppliers**.
 
@@ -50,11 +50,5 @@ When you add a subsidiary, the supplier you added it under becomes the parent en
 
 [Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md)
 
-[[perform-risk-playbook|Perform risk assessment playbook]]
+[Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

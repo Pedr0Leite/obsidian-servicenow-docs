@@ -12,9 +12,9 @@ breadcrumb: [Customer Contracts and Entitlements reference, Configure, price, qu
 
 # Sold Product Covered form
 
-The [[exploring-post-sales-support|Customer Contracts and Entitlements]] application uses the Sold Product Covered form to add sold products or install base items that are covered to the Customer Contracts and Entitlements entities.
+The Customer Contracts and Entitlements application uses the Sold Product Covered form to add sold products or install base items that are covered to the Customer Contracts and Entitlements entities.
 
-For information about adding sold products or install base items that are covered, see [[add-products-service-contract|Add a sold product or install base item to a customer contract]].
+For information about adding sold products or install base items that are covered, see [Add a sold product or install base item to a customer contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-products-service-contract.md).
 
 <table id="table_tk2_ntk_bzb"><thead><tr><th>
 
@@ -91,10 +91,5 @@ The date until which the product is active on the entity.
 </td></tr></tbody>
 </table>**Note:** The activation time period for the sold product or install base item covered must comply with the related entity's activation period.
 
-**Parent Topic:**[[pss-reference|Customer Contracts and Entitlements reference]]
+**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 
-## Related
-
-- [[add-products-service-contract|Add a sold product or install base item to a customer contract]]
-- [[pss-reference|Customer Contracts and Entitlements reference]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]

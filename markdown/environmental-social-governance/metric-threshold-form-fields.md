@@ -39,7 +39,7 @@ Threshold type
 Type of threshold. The available options are:-   Static: A fixed value used as a limit for tracking a metric.
 -   Dynamic: Percentage-based thresholds where variance is calculated based on previous period data
 
-For more information, see [[thresholds-for-metrics|Thresholds for metrics]]
+For more information, see [Thresholds for metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/thresholds-for-metrics.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Color
 
 </td><td>
 
-Color that represents this  threshold level. The available color list  can be customized, and each threshold level must have a unique color. For information on how to customize colors, see [[customize-threshold-colors|Customize threshold colors]].
+Color that represents this  threshold level. The available color list  can be customized, and each threshold level must have a unique color. For information on how to customize colors, see [Customize threshold colors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/customize-threshold-colors.md).
 
 </td></tr><tr><td>
 
@@ -98,10 +98,5 @@ Actions
 Actions to execute when the threshold condition is satisfied. By default, Send email is available. Additional actions can be created using decision tables.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[grc-metrics-reference|GRC: Metrics reference]]
+</table>**Parent Topic:**[GRC: Metrics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/grc-metrics-reference.md)
 
-## Related
-
-- [[thresholds-for-metrics|Thresholds for metrics]]
-- [[customize-threshold-colors|Customize threshold colors]]
-- [[grc-metrics-reference|grc metrics reference]]

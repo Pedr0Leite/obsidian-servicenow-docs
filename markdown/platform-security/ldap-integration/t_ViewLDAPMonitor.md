@@ -100,7 +100,7 @@ Starting search directory
 
 </td><td>
 
-The starting directory or RDN \(Relative Distinguished Name\) where the system begins searching for [[users|users]] or groups. Example value: DC=service-now,DC=com
+The starting directory or RDN \(Relative Distinguished Name\) where the system begins searching for users or groups. Example value: DC=service-now,DC=com
 
  No data ABOVE this point is available for import. The instance has visibility into the specified directory and directories BELOW it in the LDAP hierarchy.
 
@@ -150,7 +150,3 @@ This shows the last error that occurred on to the LDAP server, and the time it o
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Relationship and Performance Management
 
-Managing [[supplier|supplier]] relationship and performance is a key aspect of supplier management that aims to optimize the value and quality of the products and services delivered by suppliers.
+Managing supplier relationship and performance is a key aspect of supplier management that aims to optimize the value and quality of the products and services delivered by suppliers.
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Relationship and Performance Management.
 
@@ -33,17 +33,17 @@ To install Supplier Relationship and Performance Management, the following plugi
 -   **Required plugin**: Supplier Relationship and Performance Management \(com.snc.sn\_slm\_perf\)
 -   **Dependent plugins**:
     -   KPI Framework \(com.snc.sn\_kpi\)
-    -   [[supplier-common|Supplier Common Architecture]] \(com.snc.sn\_slm\)
-    -   [[supplier-operations|Supplier Operations]] \(com.snc.sn\_so\)
+    -   Supplier Common Architecture \(com.snc.sn\_slm\)
+    -   Supplier Operations \(com.snc.sn\_so\)
     -   Gantt Component for ServiceNow \(com.servicenow\_now\_gantt\)
 
 To enable the Automated KPIs feature after an upgrade, run the fix scripts **KPI - Dec 25 records script** and **KPI - Dec 25 data records script**. For more information, see [Run fix scripts to enable Automated KPI collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-automated-kpis.md).
 
 For more information about configuring Supplier Relationship and Performance Management, see [Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md).
 
-For more information about [[using-supplier-relationship-and-performance-management|using Supplier Relationship and Performance Management]], see [Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md).
+For more information about using Supplier Relationship and Performance Management, see [Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md).
 
-For more information about [[supplier-relationship-and-performance-management-data-model|Supplier Relationship and Performance Management data model]] and primary tables, see [Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md).
+For more information about Supplier Relationship and Performance Management data model and primary tables, see [Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md).
 
 **Related topics**  
 
@@ -54,10 +54,3 @@ For more information about [[supplier-relationship-and-performance-management-da
 
 [Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier-operations|Supplier Operations]]
-- [[using-supplier-relationship-and-performance-management|Using Supplier Relationship and Performance Management]]
-- [[supplier-relationship-and-performance-management-data-model|Supplier Relationship and Performance Management data model]]

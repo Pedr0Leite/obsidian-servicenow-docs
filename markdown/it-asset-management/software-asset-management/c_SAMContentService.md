@@ -16,11 +16,11 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Opt in to the Software Asset Management Content Service to share unnormalized software installation data from your organization with ServiceNow® to improve the normalization process.
 
-The Software Asset Management Content Service is an [[it-asset-management|IT Asset Management]] \(ITAM\) shared service that provides users with continual software recognition improvements. By sharing unnormalized software installation data with ServiceNow, you receive automatic content updates based on your unique software installation footprint. For more information on content updates, see [Content updates for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-content-updates.md).
+The Software Asset Management Content Service is an IT Asset Management \(ITAM\) shared service that provides users with continual software recognition improvements. By sharing unnormalized software installation data with ServiceNow, you receive automatic content updates based on your unique software installation footprint. For more information on content updates, see [Content updates for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-content-updates.md).
 
 The Software Asset Management Content Service transfers data between your organization and ServiceNow through a Content Data Service \(CDS\) instance. In commercial deployments, data is transferred through a CDS instance that is deployed in a commercial data center. In National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployments, data is transferred through a CDS instance that is deployed in an NSC DOD IL5 data center.
 
-**Note:** Data for your NSC DOD IL5 deployments can be transferred only from ServiceNow to your organization. It cannot be transferred from your organization to ServiceNow. Since you cannot share any unnormalized software installation data with ServiceNow, you must manually create a software content request for any software product that you want to add to the [[c_SoftwareAssetMgmt|Software Asset Management]] Content Library. After the software product is added to the Content Library, the Software Asset Management application can begin normalizing the corresponding software installations that are discovered in your NSC DOD IL5 deployments. See [[create-itam-content-request|Create IT Asset Management content request]] for instructions on how to create a software content request.
+**Note:** Data for your NSC DOD IL5 deployments can be transferred only from ServiceNow to your organization. It cannot be transferred from your organization to ServiceNow. Since you cannot share any unnormalized software installation data with ServiceNow, you must manually create a software content request for any software product that you want to add to the Software Asset Management Content Library. After the software product is added to the Content Library, the Software Asset Management application can begin normalizing the corresponding software installations that are discovered in your NSC DOD IL5 deployments. See [Create IT Asset Management content request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/create-itam-content-request.md) for instructions on how to create a software content request.
 
 No personally identifiable information is shared with ServiceNow. However, please note the exception for custom software products, as described in the Software Asset Management Content Service asset data types table below.
 
@@ -28,7 +28,7 @@ Data that is shared using the Software Asset Management Content Service remains 
 
 This new content improves your normalization hit ratios, which enable you to manage your software assets better. By default, you aren’t opted in to the Content Service. For information on how to opt-in, see [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md).
 
-If you want to exclude any [[sam-software-discovery|software discovery]] [[c_Models|models]], custom software products, or custom publisher part numbers from being shared with ServiceNow, select the **Exclude from content service** check box on the Software Discovery Model, Custom Software Product, or Custom Part Number form.
+If you want to exclude any software discovery models, custom software products, or custom publisher part numbers from being shared with ServiceNow, select the **Exclude from content service** check box on the Software Discovery Model, Custom Software Product, or Custom Part Number form.
 
 The normalization process acts only on active publishers, products, and rules. Obsolete rules aren’t used. You can deactivate any Normalization Library content version at any time.
 
@@ -90,7 +90,7 @@ Software Product Lifecycles
 
 </td><td>
 
-The externally defined or publisher-defined life cycle of the software product. Only software [[calculated-lifecycles|product life cycles]] that aren’t created by ServiceNow and have a life-cycle type that is not internal are transferred.
+The externally defined or publisher-defined life cycle of the software product. Only software product life cycles that aren’t created by ServiceNow and have a life-cycle type that is not internal are transferred.
 
 </td><td>
 
@@ -163,7 +163,7 @@ Signature that identifies software packages discovered on CIs. Software packages
 
 </td></tr><tr><td>
 
-Software Spend Transactions**Note:** Displays only if [[software-spend-detection|Software Spend Detection]] is installed.
+Software Spend Transactions**Note:** Displays only if Software Spend Detection is installed.
 
 Data sharing for Software Spend Transactions is inactive by default.
 
@@ -186,7 +186,7 @@ Unrecognized Subscription Identifier
 
 </td><td>
 
-Subscription identifiers that [[c_CreatingSoftwareModels|software models]] aren’t associated with in the ServiceNow content.
+Subscription identifiers that software models aren’t associated with in the ServiceNow content.
 
 </td><td>
 
@@ -253,7 +253,7 @@ Custom software products that were manually added to your ServiceNow instance.
 
 </td></tr><tr><td>
 
-Extracted Entitlements from Software [[c_Contracts|Contracts]] using Machine Learning
+Extracted Entitlements from Software Contracts using Machine Learning
 
 </td><td>
 
@@ -295,14 +295,3 @@ The Software Asset Management Content Service provides content updates to your i
 
 [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md)
 
-## Related
-
-- [[create-itam-content-request|Create IT Asset Management content request]]
-- [[it-asset-management|IT Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[calculated-lifecycles|Product life cycles]]
-- [[software-spend-detection|Software Spend Detection]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Contracts|Contracts]]

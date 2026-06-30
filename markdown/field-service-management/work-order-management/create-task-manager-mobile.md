@@ -14,7 +14,7 @@ breadcrumb: [Field Service Manager Mobile, Completing work on mobile, Use, Field
 
 # Create a work order task
 
-Managers can quickly create tasks from [[manager-mobile-app|Field Service Manager Mobile]].
+Managers can quickly create tasks from Field Service Manager Mobile.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
     A work order task is created and is ready to be qualified or dispatched.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

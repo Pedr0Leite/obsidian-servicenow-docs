@@ -78,7 +78,7 @@ These filter settings remain saved until you change them, and they are available
 
 </td><td>
 
-Request approval option. Default is cleared.This approval option is available for any profile. Usually, approvals are used for capabilities that invoke actions such as host isolation and [[threat-intelligence-malware|malware]] scans.
+Request approval option. Default is cleared.This approval option is available for any profile. Usually, approvals are used for capabilities that invoke actions such as host isolation and malware scans.
 
 When the check box is cleared, and this option is disabled, no approval requests are submitted. For this example, no prior permission is required for system enrichment queries.
 
@@ -112,6 +112,3 @@ When the check box is cleared, and this option is disabled, no approval requests
 
 **Parent Topic:**[Configure settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-configuring-profile.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

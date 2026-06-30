@@ -14,7 +14,7 @@ breadcrumb: [Extend ServiceNow AI Platform capabilities]
 
 A response header is a simple name-value pair used in an HTTP response to provide additional information about page content or how the client should process it.
 
-You can [[configure-http-response-header|configure HTTP response headers]] for all, or specific types of pages, which include Service Portal, [[ui-page|UI Page]], or UX applications. The ability to configure and pass response headers enables special handling of the page content by a client, most typically a browser.
+You can configure HTTP response headers for all, or specific types of pages, which include Service Portal, UI Page, or UX applications. The ability to configure and pass response headers enables special handling of the page content by a client, most typically a browser.
 
 To learn more about what an HTTP header is, and about configuring the name-value pair for specific HTTP response headers, see:[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
@@ -75,7 +75,3 @@ If the Internet Explorer request includes the referrer URL header:
 
 [X-Frame-Options: ALLOW-FROM URL](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options)
 
-## Related
-
-- [[configure-http-response-header|Configure HTTP response headers]]
-- [[ui-page|UI page]]

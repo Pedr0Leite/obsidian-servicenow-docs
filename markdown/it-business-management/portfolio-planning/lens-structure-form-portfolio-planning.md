@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Lens structure form
 
-Learn about the fields of the Lens structure form. Use this form to define a structure for your lens in the [[portfolio-planning-app-landing-page|Portfolio Planning]] application.
+Learn about the fields of the Lens structure form. Use this form to define a structure for your lens in the Portfolio Planning application.
 
 <table id="table_hvj_25t_fvb"><thead><tr><th>
 
@@ -81,6 +81,3 @@ Then the field of the Strategic Program \[sn\_align\_core\_program\] table that 
 
 [Modify lens structure in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-lens-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

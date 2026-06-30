@@ -20,7 +20,7 @@ Manually configure webhooks in Azure DevOps and test them.
 
 ## Configure webhooks in Azure DevOps manually
 
-Configure webhooks in Azure DevOps to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks in Azure DevOps to send sync notifications to the DevOps Change Velocity application.
 
 ### Before you begin
 
@@ -34,7 +34,7 @@ You can also access manual configuration from the Azure DevOps tool record in De
 
 1.  In Azure DevOps, open the project for which you are configuring webhooks.
 
-2.  Navigate to **[[settings-mobile|Settings]]** &gt; **Service Hooks** and create a NEW SERVICE HOOKS SUBSCRIPTION, in Azure DevOps.
+2.  Navigate to **Settings** &gt; **Service Hooks** and create a NEW SERVICE HOOKS SUBSCRIPTION, in Azure DevOps.
 
 3.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
@@ -160,7 +160,4 @@ Role required: Azure DevOps admin privileges
 
             \[Omitted image "azure-test-wh-06.png"\] Alt text: Token in the webhook.
 
-## Related
 
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

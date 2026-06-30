@@ -15,7 +15,7 @@ breadcrumb: [Install, Conversational Integration with Microsoft Teams, Integrate
 
 # Activate Now Assist in Virtual Agent for Microsoft Teams
 
-Add [[now-assist-in-va-landing|Now Assist in Virtual Agent]] to your Microsoft Teams and Microsoft Copilot bot.
+Add Now Assist in Virtual Agent to your Microsoft Teams and Microsoft Copilot bot.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Create a self-configured bot for Microsoft Copilot. For more information, see [S
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[assistant-designer|Assistant Designer]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer**.
 
 2.  Under **Now Assist in Virtual Agent \(default\)**, select the **Edit** button.
 
@@ -60,8 +60,3 @@ Upload the manifest to Microsoft Teams to make your bot experience available in 
 
 **Parent Topic:**[Install Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]

@@ -20,14 +20,14 @@ You can put a change request on hold to get additional information for the creat
 
 The following plugins need to be activated to avail the synchronization of the **On Hold** functionality between change task and change request:
 
--   [[c_ITILChangeManagement|Change Management]] — Core \[com.snc.change\_management\]
+-   Change Management — Core \[com.snc.change\_management\]
 -   Change Management — State Model \[com.snc.change\_management.state\_model\]
 
 Roles required: itil, admin, sn\_change\_write, or change manager
 
 ## About this task
 
-[[change-tasks|Change tasks]] inherit some state conditions from the parent change request they are related to. When a change request is placed on hold, these conditions are applied to it:
+Change tasks inherit some state conditions from the parent change request they are related to. When a change request is placed on hold, these conditions are applied to it:
 
 -   If the change is waiting for approval, the pending approvals are marked **No Longer Required**. When the change request is no longer **On Hold**, the pending approvals are reinstated and are **Awaiting approval**.
 -   The change can progress only to the **Canceled** state while it is **On Hold**.
@@ -60,7 +60,3 @@ Roles required: itil, admin, sn\_change\_write, or change manager
 
 [Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-tasks|Change tasks]]

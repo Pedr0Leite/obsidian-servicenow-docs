@@ -14,7 +14,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Control topic discovery and visibility
 
-Admins and topic authors can enable [[virtual-agent-landing-page|Virtual Agent]] to discover topics for use in chats, include a topic in the list users see, or both. The topics can be setup topics and small talk topics.
+Admins and topic authors can enable Virtual Agent to discover topics for use in chats, include a topic in the list users see, or both. The topics can be setup topics and small talk topics.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Depending on the options enabled, Virtual Agent can discover the topic, the topi
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

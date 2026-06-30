@@ -15,15 +15,15 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Upgrade Kubernetes Visibility Agent Informers remotely
 
-[[acckv-upgrade|Upgrade Kubernetes Visibility Agent]] Informer pods in Kubernetes clusters remotely from the ServiceNow Instance to avoid dependence on your Kubernetes admin. You can upgrade a single Informer or multiple Informers together.
+Upgrade Kubernetes Visibility Agent Informer pods in Kubernetes clusters remotely from the ServiceNow Instance to avoid dependence on your Kubernetes admin. You can upgrade a single Informer or multiple Informers together.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Kubernetes Visibility Agent** &gt; **Properties**.
 
 2.  In the **Kubernetes Visibility Agent Image** field, set the image to which you want to upgrade Informers that are currently running, and then select **Save**.
 
@@ -71,8 +71,3 @@ Steps
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acckv-upgrade|Upgrade Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

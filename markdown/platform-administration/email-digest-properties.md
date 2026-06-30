@@ -14,9 +14,9 @@ breadcrumb: [Email properties, Configure, Email Administration, Notifications, C
 
 Several properties are available to manage digest intervals for email digests.
 
-The following properties are available for the [[email-digests|email digest feature]].
+The following properties are available for the [email digest feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md).
 
-**Note:** To open the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
+**Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
 <table id="table_ant_ppl_rbb"><thead><tr><th>
 
@@ -45,10 +45,10 @@ glide.email.digest.max\_intervals
 The maximum number of email digest intervals that can be defined. -   **Type**: integer
 -   **Default value**: 100
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: For details on digest intervals, see [[create-digest-intervals|Create or modify email digest intervals]].
+-   **Learn more**: For details on digest intervals, see [Create or modify email digest intervals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-digest-intervals.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_EmailProperties|Email properties]]
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
 **Related topics**  
 
@@ -61,9 +61,3 @@ The maximum number of email digest intervals that can be defined. -   **Type**: 
 
 [Advanced email properties]()
 
-## Related
-
-- [[email-digests|Email digests]]
-- [[create-digest-intervals|Create or modify email digest intervals]]
-- [[c_EmailProperties|Email properties]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

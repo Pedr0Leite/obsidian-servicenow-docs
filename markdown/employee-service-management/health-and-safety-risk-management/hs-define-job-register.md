@@ -33,7 +33,7 @@ Consequently, these predefined jobs simplify the process of submitting JSAs and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -93,7 +93,7 @@ Use details from an existing job to create a new one in the job register. Copyin
 
     3.  In the **Order** field, select the order in which the job step appears.
 
-        The value in this field determines the sequence in which job steps appear when submitting a JSA from the [[employee-center-landing-page|Employee Center]].
+        The value in this field determines the sequence in which job steps appear when submitting a JSA from the Employee Center.
 
     4.  Select **Save**.
 
@@ -189,7 +189,3 @@ Controls that are selected to be added for the hazard.
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supp
 
 # Explore Now Assist for Supplier Lifecycle Operations \(SLO\)
 
-With the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application, [[supplier|supplier]] managers can summarize the details of supplier-related cases to keep them informed about their progress and action items.
+With the Now Assist for Supplier Lifecycle Operations \(SLO\) application, supplier managers can summarize the details of supplier-related cases to keep them informed about their progress and action items.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -30,7 +30,7 @@ Now Assist for Supplier Lifecycle Operations \(SLO\) includes the following capa
 -   Sentiment Analysis helps reduce escalated cases by providing agents with the current sentiment on a case, based on interactions and the latest trends. It also offers insights into why the sentiment is what it is today.
 -   Email response generation generates contextually relevant email responses by analyzing case and task details.
 
-\[Omitted image "now-assist-slo-skills.png"\] Alt text: Now Assist skills for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
+\[Omitted image "now-assist-slo-skills.png"\] Alt text: Now Assist skills for Supplier Lifecycle Operations
 
 **Note:**
 
@@ -38,11 +38,11 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Skills
 
-The Now Assist for SLO application includes generative AI skills and features that enable supplier managers to summarize the supplier-related cases within the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+The Now Assist for SLO application includes generative AI skills and features that enable supplier managers to summarize the supplier-related cases within the Source-to-Pay Workspace.
 
 -   **Supplier case summarization**
 
-    Provides supplier managers a summary of the supplier-related cases. Supplier managers can see the status of any case in the supply process and take the necessary actions quickly. Supplier managers can also refresh and post the summary to the work notes or [[activity-stream|activity stream]].
+    Provides supplier managers a summary of the supplier-related cases. Supplier managers can see the status of any case in the supply process and take the necessary actions quickly. Supplier managers can also refresh and post the summary to the work notes or activity stream.
 
     Fulfillers can customize prompt configuration and prompt optimization using the preprocessor in the Now Assist Skill kit \(NASK\). The skill supports multiple models such as OpenAI, Claude, Gemini, Now LLM. To customize the prompt instructions, sn\_skill\_builder\_admin role is mandatory.
 
@@ -80,10 +80,3 @@ To learn more about how to use Now Assist for SLO, see [Use Now Assist for Suppl
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[activity-stream|Activity stream]]

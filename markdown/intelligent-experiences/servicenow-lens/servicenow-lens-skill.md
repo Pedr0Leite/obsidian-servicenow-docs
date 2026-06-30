@@ -46,8 +46,5 @@ Platform
 </td></tr></tbody>
 </table>## Licensing requirements
 
-The [[servicenow-lens-landing-page|ServiceNow AI Lens]] application requires a ServiceNow Pro Plus or Enterprise Plus license.
+The ServiceNow AI Lens application requires a ServiceNow Pro Plus or Enterprise Plus license.
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

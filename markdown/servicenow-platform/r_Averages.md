@@ -12,7 +12,7 @@ breadcrumb: [View an assessment scorecard, Assessment administrator tasks, Using
 
 # Assessment scorecard averages
 
-The Averages view compares the current ratings for an assessable record in each metric category with the average, minimum, and maximum values from all [[c_assessable-records|assessable records]] in the filter. All ratings are from [[r_Assessments|assessments]] generated over the trailing twelve months \(TTM\).
+The Averages view compares the current ratings for an assessable record in each metric category with the average, minimum, and maximum values from all assessable records in the filter. All ratings are from assessments generated over the trailing twelve months \(TTM\).
 
 Select a filter option to compare the current record against all assessable records in that filter. An assessment administrator configures these options in the **Filter field** field in the Assessment Metric Type form.
 
@@ -26,7 +26,7 @@ In the following example, the ratings of the current group are compared against 
 
 \[Omitted image "GroupScorecardWithRatingsFilter.png"\] Alt text: Group scorecard with ratings filter
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -45,8 +45,3 @@ In the following example, the ratings of the current group are compared against 
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]

@@ -14,11 +14,11 @@ breadcrumb: [Data model, Reference, Service Exchange]
 
 # Service Exchange for Providers data model
 
-The Service Exchange for Providers data model provides insight into how the tables that are used in the [[service-bridge-providers-landing-page|Service Exchange for Providers]] application relate to each other.
+The Service Exchange for Providers data model provides insight into how the tables that are used in the Service Exchange for Providers application relate to each other.
 
 The Service Exchange for Providers application data model uses a combination of the following types of tables to store data:
 
--   [[tmt-service-bridge-both-landing-page|Service Exchange]] of Providers application tables.
+-   Service Exchange of Providers application tables.
 -   Customer Service Management application tables.
 -   ServiceNow AI Platform standard tables.
 
@@ -612,8 +612,3 @@ admin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

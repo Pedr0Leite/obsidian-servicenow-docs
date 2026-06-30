@@ -15,7 +15,7 @@ breadcrumb: [Large language models on the ServiceNow AI Platform, Enable AI expe
 
 # General guidelines for writing instructions for generative AI large language models \(LLMs\)
 
-When using [[platform-now-assist-landing|Now Assist]] products and skills, you may have the option to give specific instructions or other guidance to the LLM. Writing generative AI instructions is different from conducting a keyword search. Use the following general guidelines when crafting your instructions.
+When using Now Assist products and skills, you may have the option to give specific instructions or other guidance to the LLM. Writing generative AI instructions is different from conducting a keyword search. Use the following general guidelines when crafting your instructions.
 
 Writing instructions for generative AI is very different from using search keywords. Keywords are the words that you might expect to appear in your results. For example, if you search for "gray bobtail cats," then you can reasonably expect your search results to return with topics or media that is about gray cats, bobtail cats, or even just cats in general. But with generative AI, you are asking the LLM to perform a task for you. The phrase "gray bobtail cats" does not include a verb to tell the LLM what to do. What about these gray cats? Should it locate all there is to know about them? Should it find gray bobtail cats to adopt? Should it create a picture of a gray bobtail cat? Should it be a realistic picture, or more of a line drawing? Generative AI needs more than just keywords.
 
@@ -220,7 +220,7 @@ LLM result
 Evaluation of result
 
 </td></tr></tbody>
-</table>In some Now Assist applications, you may have the option to specify formatting. In those [[cases|cases]], you can tell the LLM to provide answers in a bulleted list, for example. Bulleted lists are often easier to read.
+</table>In some Now Assist applications, you may have the option to specify formatting. In those cases, you can tell the LLM to provide answers in a bulleted list, for example. Bulleted lists are often easier to read.
 
 \[Omitted image "enable-bulleted-list-chat-summarization.png"\] Alt text: In the Now Assist Admin console, some skills allow you to specify formatting. The chat summarization skill has an option to render results in a bulleted list.
 
@@ -235,8 +235,8 @@ For more information about configuring sources for skill or AI agent use, see th
 -   [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md)
 -   [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-assist-ais.md)
 -   [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ext-cont-connectors-landing-page.md)
--   [[configuring-now-assist|Overview tab in Now Assist Admin]]
--   [[na-ai-agents|Now Assist AI agents]]
+-   [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
+-   [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
 
 ## Additional guidelines for Now Assist skills and tools
 
@@ -255,9 +255,3 @@ For more information about configuring sources for skill or AI agent use, see th
 
 **Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 
-## Related
-
-- [[configuring-now-assist|Overview tab in Now Assist Admin]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

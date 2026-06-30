@@ -14,7 +14,7 @@ breadcrumb: [Create assessment template, Configure, Compliance Case Management, 
 
 # Assessment Metric Type form
 
-Use the [[new-assessment-reference|Assessment Metric Type form]] to create an assessment questionnaire template by using the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Use the Assessment Metric Type form to create an assessment questionnaire template by using the GRC: Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -30,7 +30,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md)
 
-## Related
-
-- [[new-assessment-reference|Assessment Metric Type form]]
-- [[compliance-case-management|compliance case management]]

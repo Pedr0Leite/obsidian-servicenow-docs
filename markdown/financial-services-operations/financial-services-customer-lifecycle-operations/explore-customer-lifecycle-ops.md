@@ -14,13 +14,13 @@ breadcrumb: [Customer Lifecycle Operations, Common applications, Financial Servi
 
 # Explore Financial Services Customer Lifecycle Operations
 
-You can use [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] to simplify and streamline the management of business and consumer accounts throughout their entire customer life cycle.
+You can use Financial Services Customer Lifecycle Operations to simplify and streamline the management of business and consumer accounts throughout their entire customer life cycle.
 
 ## Key features
 
 -   Reduce the complexity of the account application and services with a unified playbook experience.
 -   Create and manage multiple cases within a single onboarding workflow.
--   Collect and organize essential documentation using the ServiceNow® [[fso-overview|Financial Services]] Document Management application.
+-   Collect and organize essential documentation using the ServiceNow® Financial Services Document Management application.
 -   Manage and verify potential clientele using the Know Your Customer \(KYC\) and Know Your Business \(KYB\) processes.
 -   Focus on specific tasks and complete them in the right order by using custom workspaces and roles.
 
@@ -87,8 +87,3 @@ Agents include in-branch employees and back-office workers who handle various ta
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]
-- [[fso-overview|Financial Services]]

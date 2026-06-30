@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Assign the Operational Technology Progress Scorecard roles
 
-Assign the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard roles to your users so that you can control their access to the features, capabilities, and data for OT Progress Scorecard.
+Assign the Operational Technology \(OT\) Progress Scorecard roles to your users so that you can control their access to the features, capabilities, and data for OT Progress Scorecard.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Users with the role that are listed in the following table can use the OT Progre
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

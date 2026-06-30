@@ -14,20 +14,20 @@ breadcrumb: [CrowdStrike Falcon Host integration, Security Incident Response int
 
 # Get started with the CrowdStrike Falcon Host integration
 
-The Integration Configuration feature allows you to quickly activate and set up third-party security integrations, including the [[crowdstrike-falcon-host-landing-page|CrowdStrike Falcon Host integration]]. Before you can use the CrowdStrike Falcon Host integration, you must download it from the ServiceNow Store and then add a user name and password.
+The Integration Configuration feature allows you to quickly activate and set up third-party security integrations, including the CrowdStrike Falcon Host integration. Before you can use the CrowdStrike Falcon Host integration, you must download it from the ServiceNow Store and then add a user name and password.
 
 ## Before you begin
 
 -   If you are upgrading CrowdStrike Falcon Host integration from a previous version, then you must delete the existing configuration and set up a new configuration. The new integration supports OAUTH2 authentication. This update requires you to enter the **API Client ID** and the **API Client Secret** to authenticate and complete the configuration.
--   In the CrowdStrike Falcon Host portal **API Scopes**, enable the **Read** and **Write** setting for **IOCs \([[c_IoCs|Indicators of Compromise]]\)**.
+-   In the CrowdStrike Falcon Host portal **API Scopes**, enable the **Read** and **Write** setting for **IOCs \(Indicators of Compromise\)**.
 
 Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
-2.  When the installation is complete, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  When the installation is complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
     The available security integrations appear as a series of cards.
 
@@ -73,13 +73,5 @@ The client secret key that you obtain from the settings section of your account 
 
 ## Result
 
-After it is configured, the CrowdStrike Falcon Host integration can be selected for publishing [[c_Observables|observables]] to watchlists in [[sir-landing-page|Security Incident Response]].
+After it is configured, the CrowdStrike Falcon Host integration can be selected for publishing observables to watchlists in Security Incident Response.
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[crowdstrike-falcon-host-landing-page|CrowdStrike Falcon Host integration]]
-- [[c_IoCs|Indicators of compromise]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

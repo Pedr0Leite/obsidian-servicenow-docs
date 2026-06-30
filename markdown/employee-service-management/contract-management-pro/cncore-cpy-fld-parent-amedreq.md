@@ -93,7 +93,7 @@ When a contract request is initiated, the configured fields are automatically po
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -103,6 +103,3 @@ When a contract request is initiated, the configured fields are automatically po
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[activity-lxp|Activity]]

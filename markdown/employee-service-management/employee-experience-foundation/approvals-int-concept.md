@@ -17,12 +17,9 @@ breadcrumb: [Approvals hub, Setup task management, Configuring Employee Center P
 The Approval Hub integration with different external applications enable different access points to fulfill organizational approval tasks.
 
 -   **[Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-sa-integration.md)**  
-Enable easier access to all active approvals of external business applications such as SAP Concur from [[employee-center-pro-landing|Employee Center Pro]]. The SAP Concur spoke is built by Bristlecone, Inc.
+Enable easier access to all active approvals of external business applications such as SAP Concur from Employee Center Pro. The SAP Concur spoke is built by Bristlecone, Inc.
 -   **[Approvals hub integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/wd-ec-integration.md)**  
 Enable easier access to all active approvals of external business applications such as Workday from Employee Center Pro. The Workday spoke is built by Bristlecone, Inc.
 
 **Parent Topic:**[Approvals hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-intro.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

@@ -12,12 +12,8 @@ reading_time_minutes: 1
 
 Enterprise Architecture \(formerly Application Portfolio Management\) has new and updated features in the Australia release.
 
--   **[[enterprise-architecture-rn|Enterprise Architecture release notes]]**  
+-   **[Enterprise Architecture release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/enterprise-architecture-rn.md)**  
 The ServiceNow® Enterprise Architecture application unites strategic and operational teams, enabling organizations to achieve their business objectives. Enterprise Architecture was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[enterprise-architecture-rn|Enterprise Architecture release notes]]
-- [[new-features-changes|Features and changes by product]]

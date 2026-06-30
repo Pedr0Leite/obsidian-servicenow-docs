@@ -14,7 +14,7 @@ breadcrumb: [Explore, Regulatory Change Management, Governance, Risk, and Compli
 
 # Regulatory Change Management application in the Compliance Workspace
 
-Starting with GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]], version 13.0.1, the Regulatory Change Management application is available in Compliance Workspace. Compliance Workspace provides your users with a single-pane view so that they can check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes for the organization.
+Starting with GRC: Regulatory Change Management, version 13.0.1, the Regulatory Change Management application is available in Compliance Workspace. Compliance Workspace provides your users with a single-pane view so that they can check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes for the organization.
 
 You can access Regulatory Change Management in the Compliance Workspace using the regulatory change icon \[Omitted image "reg-change-icon.png"\] Alt text: icon.
 
@@ -26,7 +26,7 @@ The Compliance Workspace using the provides a single-pane view with a personaliz
 -   The contextual side panel displays the regulatory taxonomy for each regulatory alert record.
 -   View the number of overdue or open risk and regulatory assessments.
 -   The record pages provide a quick summary and insights that are specific to what is being viewed.
--   The form layout, field labels, messages, and [[breadcrumb-navigation|breadcrumb navigation]] provide a consistent experience to the users across the ServiceNow AI Platform.
+-   The form layout, field labels, messages, and breadcrumb navigation provide a consistent experience to the users across the ServiceNow AI Platform.
 -   A 360° view provides an overview of the data relationship for a record across an enterprise.
 
 ## Regulatory Change Management application views in Compliance Workspace
@@ -56,7 +56,7 @@ The Regulatory Change Management application in Compliance Workspace contains th
 
 \[Omitted image "home-page-compliance-workspace.png"\] Alt text: RCM dashboard view with Alerts, Tasks, and Trend reports from the Compliance Workspace.
 
-**Note:** GRC administrators configure the tasks and issues in the [[admin-config-using-grc-common|Landing Page Configurations module]] in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md).
+**Note:** GRC administrators configure the tasks and issues in the Landing Page Configurations module in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md).
 
 **Parent Topic:**[Exploring Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/what-is-rcm.md)
 
@@ -71,8 +71,3 @@ The Regulatory Change Management application in Compliance Workspace contains th
 
 [Exploring Now Assist in Regulatory Change Management \(RCM\)]()
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]
-- [[admin-config-using-grc-common|Landing Page Configurations module]]

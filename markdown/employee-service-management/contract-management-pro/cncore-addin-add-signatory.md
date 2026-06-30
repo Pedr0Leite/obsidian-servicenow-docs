@@ -18,7 +18,7 @@ As a contract configurator, configure participants and add placeholders for thei
 
 ## Before you begin
 
-The [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
 An active contract template must exist in the Draft or Editing state where the **Signature blocks** option is not selected. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
@@ -158,6 +158,3 @@ The signatory content controls are added and the metadata is synced to the Servi
 
 [Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

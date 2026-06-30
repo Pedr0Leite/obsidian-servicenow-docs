@@ -14,7 +14,7 @@ breadcrumb: [Roles installed with Usage Insights, Usage Insights reference, Usag
 
 # Usage Insights viewer \[analytics\_viewer\]
 
-View [[user-exp-analytics-landing|Usage Insights]] in the application navigator. Assigned users have viewer role permissions for Usage Insights for mobile and web applications.
+View Usage Insights in the application navigator. Assigned users have viewer role permissions for Usage Insights for mobile and web applications.
 
 ## Contains Roles
 
@@ -37,6 +37,3 @@ None.
 
 **Parent Topic:**[Roles installed with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/components-installed-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

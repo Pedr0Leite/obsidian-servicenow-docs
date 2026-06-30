@@ -45,7 +45,7 @@ Right-click a table node header to display a context menu with these functions:
     The new focus table is added as a breadcrumb at the top, allowing you to return to the previous table at any time.
 
 -   **Go to list**: Display the list of records for the table.
--   **Go to dictionary**: Display the [[c_SystemDictionary|system dictionary]], filtered for the selected table.
+-   **Go to dictionary**: Display the system dictionary, filtered for the selected table.
 
 To hide a related table from view, click the eye icon in the node header \(the node can be made visible again with the table selector\).
 
@@ -57,7 +57,7 @@ Click the expand button \(**+**\) beside **Columns** to expand the table fields.
 
 \[Omitted image "ERD10.png"\] Alt text: Expanded view of tables.
 
-The [[reference-email-admin|reference]] fields show a red notation of the table they refer to.
+The reference fields show a red notation of the table they refer to.
 
 If any tables extend from a table, their columns are displayed in reverse derivation order. For example:
 
@@ -69,7 +69,3 @@ Similarly, the Computer table displays the columns from the Hardware and Configu
 
 **Parent Topic:**[Viewing table references and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_SchemaMapForTables.md)
 
-## Related
-
-- [[c_SystemDictionary|System dictionary]]
-- [[reference-email-admin|Reference]]

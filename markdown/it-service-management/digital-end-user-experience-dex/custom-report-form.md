@@ -86,7 +86,7 @@ Filter by Department
 
 </td><td>
 
-Limits report results to [[dex-workspace-devices-tab|devices]] or [[dex-workspace-application-tab|applications]] associated with a specific department.
+Limits report results to devices or applications associated with a specific department.
 
 </td></tr><tr><td>
 
@@ -131,7 +131,3 @@ Runs the query and displays matching metrics data based on your selections and f
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

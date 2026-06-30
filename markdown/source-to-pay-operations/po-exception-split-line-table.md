@@ -12,7 +12,7 @@ breadcrumb: [Master data tables for Purchase Order Management, Reference, Purcha
 
 # Purchase Order Exception Split Line Table
 
-A [[purchase-order-exception-table|purchase order exception]] split line is a subdivided line item created when a line item requires delivery in phases. A split line is created when a [[supplier|supplier]] selects the **Delivery plan change** exception type and the **Phased delivery** subtype.
+A purchase order exception split line is a subdivided line item created when a line item requires delivery in phases. A split line is created when a supplier selects the **Delivery plan change** exception type and the **Phased delivery** subtype.
 
 ## sn\_poem\_exception\_split\_line table
 
@@ -30,10 +30,5 @@ The Purchase Order Exception Split Line \[sn\_poem\_exception\_split\_line\] tab
 |Proposed delivery quantity|Decimal|Revised delivery quantity proposed by the supplier.|
 |Created by|String|The user who created this split line record.|
 
-**Parent Topic:**[[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
+**Parent Topic:**[Master data tables for Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/master-data-tables-for-pom.md)
 
-## Related
-
-- [[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[supplier|Supplier]]

@@ -28,7 +28,7 @@ Role required: portfolio\_admin or service\_editor
 
 2.  Define the scope of the service offerings.
 
-    Scope in [[SPM2-landing-page|Service Portfolio Management]] refers to the detailed service parameters that define the limits of a service. Define specific additional services related to the service as **In Scope** or **Out of Scope**. For instructions to apply scope definitions to services, refer to [Apply scope to a service in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-apply-scope-to-service.md).
+    Scope in Service Portfolio Management refers to the detailed service parameters that define the limits of a service. Define specific additional services related to the service as **In Scope** or **Out of Scope**. For instructions to apply scope definitions to services, refer to [Apply scope to a service in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-apply-scope-to-service.md).
 
 3.  Configure the price of the service offering.
 
@@ -49,6 +49,3 @@ Role required: portfolio\_admin or service\_editor
 
 **Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

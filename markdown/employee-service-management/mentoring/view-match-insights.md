@@ -20,13 +20,13 @@ View the Match Insights score that is calculated based on the match score of the
 
 Enroll as a mentee. See [Enroll as a mentor or mentee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
-[[add-preferences-mentee|Add mentee preferences]]. See [Add mentee preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/add-preferences-mentee.md).
+Add mentee preferences. See [Add mentee preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/add-preferences-mentee.md).
 
 Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your career** &gt; **[[mentoring-egd-overview|Mentoring]]** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your career** &gt; **Mentoring** &gt; **Overview**.
 
 2.  In the **Suggested mentors**, click the hamburger menu on a suggested mentor.
 
@@ -37,8 +37,4 @@ Role required: none
     -   Language
 4.  Select **Close** to close the match insights card view.
 
-## Related
 
-- [[add-preferences-mentee|Add mentee preferences]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

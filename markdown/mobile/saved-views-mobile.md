@@ -16,7 +16,7 @@ Use saved views to gain quick access to frequently used screens and views.
 
 Saved views enable you to save any screen or web page within your mobile app.
 
-You can bookmark any screen on the [[mobile-config-navigation|mobile platform]], including the following items:
+You can bookmark any screen on the mobile platform, including the following items:
 
 -   List
 -   Maps
@@ -29,9 +29,5 @@ For lists and maps, you can save values, for example, a list of all critical inc
 
 **Note:**
 
-If configured by your administrator, you can access your saved views while working in [[mobile-offline-mode|offline mode]]. However, you cannot save, rename, or remove views in offline mode.
+If configured by your administrator, you can access your saved views while working in offline mode. However, you cannot save, rename, or remove views in offline mode.
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mobile-offline-mode|Offline mode]]

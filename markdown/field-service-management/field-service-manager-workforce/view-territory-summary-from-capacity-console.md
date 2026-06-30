@@ -14,7 +14,7 @@ breadcrumb: [Using the Capacity Console, Capacity, Managing workforce, Use, Fiel
 
 # View data in capacity console
 
-The [[capacity-console|Capacity Console]] is a visualization tool designed to address common organizational challenges related to resource availability and [[capacity|capacity]] utilization. It enables real-time visibility into capacity, identifies bottlenecks, and enables quick adjustments to meet changing demands, helping organizations optimize their operations effectively.
+The Capacity Console is a visualization tool designed to address common organizational challenges related to resource availability and capacity utilization. It enables real-time visibility into capacity, identifies bottlenecks, and enables quick adjustments to meet changing demands, helping organizations optimize their operations effectively.
 
 ## Before you begin
 
@@ -76,7 +76,3 @@ The capacity data appears in the calendar based on the applied filters.
 
 [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md)
 
-## Related
-
-- [[capacity-console|Capacity Console]]
-- [[capacity|Capacity]]

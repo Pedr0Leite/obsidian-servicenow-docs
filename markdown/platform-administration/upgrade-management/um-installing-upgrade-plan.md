@@ -26,7 +26,7 @@ Role required: admin
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
 
     **Note:** If you are on the Upgrade Monitor page, click **Manage Upgrade Plan**.
@@ -65,6 +65,3 @@ Role required: admin
 
 [Apply Upgrade Plan on your upgrade]()
 
-## Related
-
-- [[admin-center-intro|Admin Center]]

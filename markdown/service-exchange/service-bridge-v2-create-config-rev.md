@@ -16,7 +16,7 @@ breadcrumb: [Configure for providers, Service Exchange for Providers, Service Ex
 
 As a provider, you can edit and create revisions of entitlements that contain updated functionality that can be developed and deployed to consumers.
 
-When the new revision is deployed, consumers can either activate and use the new revision, or continue to use the old revision. The new revision can be activated only if the consumer is using a [[tmt-service-bridge-both-landing-page|Service Exchange]] application version that is compatible with the Service Exchange application version compatibility set on the revision. If the consumers want to use the new revision, they must upgrade their Service Exchange application to the minimum compatibility that is set on the configuration.
+When the new revision is deployed, consumers can either activate and use the new revision, or continue to use the old revision. The new revision can be activated only if the consumer is using a Service Exchange application version that is compatible with the Service Exchange application version compatibility set on the revision. If the consumers want to use the new revision, they must upgrade their Service Exchange application to the minimum compatibility that is set on the configuration.
 
 ## Configuration revision life cycle
 
@@ -44,7 +44,7 @@ You can follow the same process to create revisions for a remote record producer
 
     \[Omitted image "service-bridge-v2-remote-task-defn1.jpg"\] Alt text: Service Exchange Remote Task Definition
 
-    Note the **Compatibility** field. This field shows the Service Exchange version that is being used by the provider. If the consumer is using a compatible Service Exchange version, data can be synced between the provider and consumer instances. But if the consumer isn’t using a compatible version, any new entitlements can’t be activated until the corresponding Service Exchange version is upgraded. See [[service-bridge-v2-mismatch-version|Mismatched version support]] for additional information.
+    Note the **Compatibility** field. This field shows the Service Exchange version that is being used by the provider. If the consumer is using a compatible Service Exchange version, data can be synced between the provider and consumer instances. But if the consumer isn’t using a compatible version, any new entitlements can’t be activated until the corresponding Service Exchange version is upgraded. See [Mismatched version support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-mismatch-version.md) for additional information.
 
 3.  Select **Checkout**.
 4.  A new revision of the configuration is created and the State is set to **In Draft**.
@@ -57,7 +57,7 @@ You can follow the same process to create revisions for a remote record producer
 
     **Note:** The inactive configuration is still available to the consumers and data synchronization will continue until this configuration is either archived or retired.
 
-6.  On the consumer instance, navigate to **Service Exchange Consumer** &gt; **Provider [[se-connections-tab|Connections]]**. You can see the newly published configuration revision under the Entitlements tab in the Related Links section.\[Omitted image "service-bridge-v2-config-rev-entitle.jpg"\] Alt text: Configuration revisions entitled to consumer
+6.  On the consumer instance, navigate to **Service Exchange Consumer** &gt; **Provider Connections**. You can see the newly published configuration revision under the Entitlements tab in the Related Links section.\[Omitted image "service-bridge-v2-config-rev-entitle.jpg"\] Alt text: Configuration revisions entitled to consumer
 7.  Select the newly published configuration reference and select the **Entity reference** link to navigate to the Remote task definition page.
 8.  Select **Activate** to activate the new configuration revision. When the new revision is activated, the earlier revision moves to an **Inactive** state. Consumers can continue to use the earlier revision until it’s archived or retired.
 9.  You can create multiple configuration revisions for a single configuration but only the latest published revision is active and can be used by the consumers.
@@ -69,7 +69,7 @@ You can follow the same process to create revisions for a remote record producer
 
 ## Archive a configuration revision
 
-You can archive an inactive configuration revision. When a revision is archived by the provider, it’s deactivated and the State is set to **Archived** on the consumer instance. The following steps describe how to archive a remote task definition configuration revision. The same process is applicable to the remote record producers and [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] offerings.
+You can archive an inactive configuration revision. When a revision is archived by the provider, it’s deactivated and the State is set to **Archived** on the consumer instance. The following steps describe how to archive a remote task definition configuration revision. The same process is applicable to the remote record producers and foundation data sync offerings.
 
 1.  Navigate to the **All** &gt; **Service Exchange Provider** &gt; **Remote task definitions**.
 2.  Select a remote task definition in the list.
@@ -115,9 +115,3 @@ You can delete a configuration that has been retired. There may be many retired 
 2.  Select a remote task definition that is in the **Retired** state.
 3.  Select **Delete** to delete the configuration if it’s no longer required. Once deleted, all records associated with this identity are deleted and can’t be undone.
 
-## Related
-
-- [[service-bridge-v2-mismatch-version|Mismatched version support]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]

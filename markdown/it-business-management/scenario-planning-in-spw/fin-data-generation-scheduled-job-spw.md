@@ -32,7 +32,7 @@ Role required: admin
 
 3.  Select Active option to activate and schedule the job.
 
-4.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+4.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
@@ -45,6 +45,3 @@ All the required mappings to view the portfolio financials for Epics, Demands, a
 
 To validate if the data generation job is successful, navigate to **All** &gt; **System Definition** &gt; **Tables** and check the mappings for **Investment** record in the **Project** \[sn\_align\_core\_project\] table.
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

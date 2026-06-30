@@ -14,7 +14,7 @@ breadcrumb: [Service catalog variables, Service Catalog Reference, Service Catal
 
 # Service catalog data lookup
 
-The Data Lookup and Record Matching Support for [[service-catalog|Service Catalog]] plugin offers similar features to the general Data Lookup and Record Matching Support plugin.
+The Data Lookup and Record Matching Support for Service Catalog plugin offers similar features to the general Data Lookup and Record Matching Support plugin.
 
 Use the plugin for service catalog to perform data lookups for variables. This lookup can be on service catalog item screens, on requested items, and on catalog tasks as a user fills out the values contained in variables.
 
@@ -34,6 +34,3 @@ You can create a custom table to store lookup data.
 
 **Parent Topic:**[Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

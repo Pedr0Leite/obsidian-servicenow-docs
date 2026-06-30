@@ -96,20 +96,11 @@ Before you start using color variables, keep the following guidelines in mind.
 
 Use these links to learn how to use color variables to change theming in your mobile components.
 
--   [[color-var-ui-rule|Color variable support for UI rules]]
--   [[color-var-ui-section|Color variable support for icon UI sections]]
--   [[color-var-map-pin|Color variable support for map icons]]
--   [[color-var-mobile-icons|Color variable support for icons]]
--   [[color-var-mobile-template|Color variable support for card view templates]]
--   [[color-var-cardview-button|Color variable support for card view buttons]]
--   [[color-var-input-description|Color variable support for input descriptions]]
+-   [Color variable support for UI rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-ui-rule.md)
+-   [Color variable support for icon UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-ui-section.md)
+-   [Color variable support for map icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-map-pin.md)
+-   [Color variable support for icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-mobile-icons.md)
+-   [Color variable support for card view templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-mobile-template.md)
+-   [Color variable support for card view buttons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-cardview-button.md)
+-   [Color variable support for input descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-input-description.md)
 
-## Related
-
-- [[color-var-ui-rule|Color variable support for UI rules]]
-- [[color-var-ui-section|Color variable support for icon UI sections]]
-- [[color-var-map-pin|Color variable support for map icons]]
-- [[color-var-mobile-icons|Color variable support for icons]]
-- [[color-var-mobile-template|Color variable support for card view templates]]
-- [[color-var-cardview-button|Color variable support for card view buttons]]
-- [[color-var-input-description|Color variable support for input descriptions]]

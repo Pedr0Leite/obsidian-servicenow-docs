@@ -12,7 +12,7 @@ breadcrumb: [Navigate the Care Team Portal, Navigate, Care Team Portal, Healthca
 
 # View knowledge articles in the Care Team Portal
 
-Review knowledge articles posted by your organization from directly within the [[care-team-portal-landing|Care Team Portal]].
+Review knowledge articles posted by your organization from directly within the Care Team Portal.
 
 ## Before you begin
 
@@ -24,6 +24,4 @@ Role required: sn\_hco.care\_team\_member or sn\_hco.care\_team\_manager
 
 2.  Use Search to look up an article, or select one from the KB Top Rated or KB Most Viewed widgets.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

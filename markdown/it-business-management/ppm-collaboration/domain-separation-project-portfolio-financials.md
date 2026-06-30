@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management reference, Project Portfolio Managemen
 
 # Domain separation and Project Portfolio Management
 
-Domain separation is supported in [[c_ProjectPortfolioSuite|Project Portfolio Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Project Portfolio Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level - Basic\*
 
@@ -29,7 +29,7 @@ Use case: As a service provider when I use chat to respond to a tenant-customerâ
 Project Portfolio Management is domain separation-compliant with the following limitations:
 
 -   All PPM entities such as ideas, project, demand, resource plan, and allocations are expected to be in the same domain. A project entity having tasks or resources from multiple domains is not supported.
--   A parent entity and all child entities, such as a project record and its [[t_CreateAProjectTask|project tasks]], are expected to be in the same domain.
+-   A parent entity and all child entities, such as a project record and its project tasks, are expected to be in the same domain.
 -   When you change the domain of a parent record, for example a project record, the domain of the child records are not changed.
 -   Only users belonging to the same domain, parent domain, or the top domain have the visibility into PPM entities of a domain.
 -   All system properties are in the global domain and are not specific to a domain. Planning console settings, however, are still domain-specific.
@@ -41,7 +41,3 @@ Project Portfolio Management is domain separation-compliant with the following l
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[t_CreateAProjectTask|Project tasks]]

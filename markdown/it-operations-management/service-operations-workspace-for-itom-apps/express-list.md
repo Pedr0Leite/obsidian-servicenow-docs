@@ -14,9 +14,9 @@ breadcrumb: [Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIO
 
 # Express List in the Service Operations Workspace for ITOM
 
-The ServiceNow [[c_EM|Event Management]] Express List feature helps you identify health issues across the datacenter on the [[workspace-dashboard-use|Service Operations Workspace]]. It provides a list of quick information on alerts so you can more efficiently monitor systems and services,​ resolve alerts, evaluate the alert impact,​ track issues, and report incidents.
+The ServiceNow Event Management Express List feature helps you identify health issues across the datacenter on the Service Operations Workspace. It provides a list of quick information on alerts so you can more efficiently monitor systems and services,​ resolve alerts, evaluate the alert impact,​ track issues, and report incidents.
 
-\[Omitted video\] Description: [[sow-landing-page-itom|Service Operations Workspace for ITOM]] \| Identify health issues with Event Management
+\[Omitted video\] Description: Service Operations Workspace for ITOM \| Identify health issues with Event Management
 
 The Express List pane sortable alert list reduces the number of clicks necessary to access alert information. Selecting the check box of an alert opens a preview panel where you can view data that helps for prioritization, impact realization, and root cause analysis. You can easily modify the Express List pane to narrow down the display by using a provided fields list, displaying additional alert information, and filtering out or showing matching alerts. You can also modify the displayed time range.
 
@@ -97,8 +97,3 @@ Default time ranges can be defined by your administrator using the system proper
 
 [Roles used by Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/roles-used-by-express-list.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]

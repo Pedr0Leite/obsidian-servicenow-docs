@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Activate the Advanced Promotion Engine
 
-Before you can use the [[advanced-promotion-engine|Advanced Promotion Engine]] feature, you must activate it from the list of plugins.
+Before you can use the Advanced Promotion Engine feature, you must activate it from the list of plugins.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-To activate the *var.adv-promo-eng*, you also need to install a plugin for ACC-M, which includes [[operational-metrics|Metric Intelligence]] plugin, as described in [Exploring Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/exploring-agent-client-collector-monitoring.md).
+To activate the *var.adv-promo-eng*, you also need to install a plugin for ACC-M, which includes Metric Intelligence plugin, as described in [Exploring Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/exploring-agent-client-collector-monitoring.md).
 
 If you don't plan to use ACC-M, install Metrics Intelligence plugin only, as described in [Get started with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/get-started-metrics.md).
 
@@ -38,7 +38,4 @@ If you don't plan to use ACC-M, install Metrics Intelligence plugin only, as des
 
 5.  Select **Activate**.
 
-## Related
 
-- [[advanced-promotion-engine|Advanced Promotion Engine]]
-- [[operational-metrics|Metric Intelligence]]

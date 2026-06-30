@@ -14,7 +14,7 @@ breadcrumb: [Working with job architecture, Skills Workspace, Exploring Skills F
 
 # Edit skills and proficiencies in the Skills Matrix
 
-Edit skills data and their proficiency levels to manage the progression at each role level in a role group using the Skills Matrix in the [[skills-intelligence-workspace|Skills Workspace]].
+Edit skills data and their proficiency levels to manage the progression at each role level in a role group using the Skills Matrix in the Skills Workspace.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Role required: sn\_skills\_int.admin
 
 [Create related role groups]()
 
-## Related
-
-- [[skills-intelligence-workspace|Skills Workspace]]

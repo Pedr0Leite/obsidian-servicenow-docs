@@ -20,21 +20,16 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Campaign Tasks**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Campaign Tasks**.
 
 2.  Select **New**.
 
 3.  On the Campaign tasks form, fill in the fields.
 
-    For a description of the field values, see [[mco-campaign-tasks-form|Campaign tasks form]].
+    For a description of the field values, see [Campaign tasks form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-campaign-tasks-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-rc-my-campaigns|Create a campaign]]
+**Parent Topic:**[Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
 
-## Related
-
-- [[mco-campaign-tasks-form|Campaign tasks form]]
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-recall-management|Recall management]]

@@ -12,18 +12,18 @@ breadcrumb: [Explore, Unified Security Exposure Management, Security Operations]
 
 # Security Exposure Management Workspace Health dashboard
 
-The [[vuln-landing-page|Vulnerability Response]] Health dashboard is a tool designed to empower organizations with comprehensive insights into the implementation and usage of their Security Exposure Management applications.
+The Vulnerability Response Health dashboard is a tool designed to empower organizations with comprehensive insights into the implementation and usage of their Security Exposure Management applications.
 
 The overall health assessment is determined by aggregating various critical factors across configuration, implementation, integration, performance, data, and process. View the aggregate dashboard for each category for the following applications:
 
 -   Vulnerability Response
--   [[avr-landing|Application Vulnerability Response]]
--   [[cvr-landing|Container Vulnerability Response]]
--   ​[[vr-config-compliance-landing|Configuration Compliance]]​
+-   Application Vulnerability Response
+-   Container Vulnerability Response
+-   ​Configuration Compliance​
 
 ## Installing the SecOps Vulnerability Response Health Dashboard
 
-To [[configure-cortex-xsiam-siem|install and configure]] the [[health-dashboard-overview|SecOps Vulnerability Response Health Dashboard]] for Vulnerability Response applications in your ServiceNow AI Platform instance, navigate to the ServiceNow® Store and activate the SecOps Health Analytics \(sn\_sec\_analytics\) plugin.
+To install and configure the SecOps Vulnerability Response Health Dashboard for Vulnerability Response applications in your ServiceNow AI Platform instance, navigate to the ServiceNow® Store and activate the SecOps Health Analytics \(sn\_sec\_analytics\) plugin.
 
 ## Required ServiceNow AI Platform roles
 
@@ -37,7 +37,7 @@ To view the scheduled job, navigate to **All** &gt; **System Scheduler** &gt; **
 
 To access the SecOps Vulnerability Response Health Dashboard,
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select the **Dashboards** icon.
 3.  Select **SecOps Vulnerability Response Health Dashboard** from the drop-down list.
@@ -113,7 +113,7 @@ This dashboard displays the trends for the findings ingestion performance metric
 |-----|-----------|----------------------------------------|-----------------|------------------|
 |Configuration|
 |Auto-delete rules|Displays the number of enabled auto-delete rules.|Review and resolve the inactive auto-delete rules.|3|1|
-|Auto-close stale records|Closes stale detections automatically. For more information, see the[[sem-closing-stale-findings-automatically|Closing stale detections and findings automatically using auto-close rules]].|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
+|Auto-close stale records|Closes stale detections automatically. For more information, see the[Closing stale detections and findings automatically using auto-close rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-closing-stale-findings-automatically.md).|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
 |Implementation health|
 |Customized script includes|Number of 'script includes' customized.|Minimize customized 'script includes' for easier upgrades.|10|12|
 |Business rules on the detections table|Number of customized business rules in the detection table.|Minimize business rules for easier upgrades.|4|8|
@@ -159,7 +159,7 @@ Discovered item matching rate
 
 </td><td>
 
-Number of [[cj-discovered-items|discovered items]] matched to existing CIs.
+Number of discovered items matched to existing CIs.
 
 </td><td>
 
@@ -382,14 +382,3 @@ Review the remediation task rules.
 |-----|-----------|
 |Last 30 days vulnerable item ingestion performance metrics|Average time taken to ingest vulnerable items and process multiple rules in the past 30 days.|
 
-## Related
-
-- [[sem-closing-stale-findings-automatically|Closing stale detections and findings automatically using auto-close rules]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[health-dashboard-overview|SecOps Vulnerability Response Health dashboard]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[cj-discovered-items|Discovered Items]]

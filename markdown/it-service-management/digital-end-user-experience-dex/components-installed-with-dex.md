@@ -36,7 +36,7 @@ DEX administrator \[sn\_dex.admin\]
 
 </td><td>
 
-Responsible for managing user access to DEX, managing the [[dex-workspace-application-tab|applications]] that are being monitored, and handling onboarding/offboarding-related tasks. They also troubleshoot any issues that arise within the application.
+Responsible for managing user access to DEX, managing the applications that are being monitored, and handling onboarding/offboarding-related tasks. They also troubleshoot any issues that arise within the application.
 
 </td><td>
 
@@ -85,7 +85,7 @@ DEX Service Desk agent\[sn\_dex.service\_desk\_user\]
 
 </td><td>
 
-Responsible for L1 or L2 support representatives accessing DEX from the incident platform to explore and investigate the details of the [[dex-workspace-devices-tab|devices]] linked to the incident.
+Responsible for L1 or L2 support representatives accessing DEX from the incident platform to explore and investigate the details of the devices linked to the incident.
 
 </td><td>
 
@@ -161,7 +161,3 @@ Table that stores the device configuration data including the logged-in user inf
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

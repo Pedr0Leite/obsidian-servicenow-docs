@@ -85,7 +85,7 @@ The ServiceNow AI Platform includes the following base-system service types that
 
     A business service is a service type that is published to business users. A business service typically implements one or more business capabilities.
 
-    Usually, business users order business services. Business users can select the desired offering and service commitment levels via the [[service-catalog|Service Catalog]]. For example, procurement, shipping, and finance.
+    Usually, business users order business services. Business users can select the desired offering and service commitment levels via the Service Catalog. For example, procurement, shipping, and finance.
 
     -   A business service is an operational CI.
     -   A business service must be a one-level service and not a hierarchy of business services.
@@ -115,6 +115,3 @@ The Manage Portfolio domain is a layer on top of the CSDM conceptual model that 
 
 **Parent Topic:**[Exploring the CSDM model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-exploring.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

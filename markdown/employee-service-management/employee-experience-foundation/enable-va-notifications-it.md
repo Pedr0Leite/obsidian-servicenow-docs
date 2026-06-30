@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management integration, Microsoft Teams Integration for 
 
 # Enable Virtual Agent notifications for IT Service Management
 
-Configure system properties to enable [[va-notification-ta|Virtual Agent notifications]] in Microsoft Teams.
+Configure system properties to enable Virtual Agent notifications in Microsoft Teams.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ To configure LLM actionable provider notifications, refer to [Configure LLM base
 
 **Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-it.md)
 
-## Related
-
-- [[va-notification-ta|Virtual Agent notifications]]

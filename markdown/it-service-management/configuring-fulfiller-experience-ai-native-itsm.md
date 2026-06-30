@@ -12,14 +12,14 @@ breadcrumb: [Configure integrations and ITSM experiences in Simplified IT Servic
 
 # Configuring the fulfiller experience in Simplified IT Service Management
 
-Enable an AI-first fulfiller experience for simplified incident and [[c_RequestManagement|request management]].
+Enable an AI-first fulfiller experience for simplified incident and request management.
 
 The following experiences are available after configuring the fulfiller experience:
 
 -   Simplified fulfiller experience with a unified record view and AI-embedded workflows.
 -   Improved triage and resolution of incidents by leveraging historical resolution patterns to inform decision-making, thereby enabling service desk agents to focus on resolving complex issues.
 
-For information about available AI agents for fulfiller configurations, see [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]].
+For information about available AI agents for fulfiller configurations, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/agents-ai-native-it-service-desk.md).
 
 ## Incident Management
 
@@ -87,7 +87,7 @@ None
 
 </td><td>
 
-For information about [[r_CategorizingIncidents|incident categories and subcategories]], see[Incident categories and subcategories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/r_CategorizingIncidents.md).For information about the Incident Category Configuration AI Agent that provides conversational AI-native experience for incident category configurations, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/agents-ai-native-it-service-desk.md).
+For information about incident categories and subcategories, see[Incident categories and subcategories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/r_CategorizingIncidents.md).For information about the Incident Category Configuration AI Agent that provides conversational AI-native experience for incident category configurations, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/agents-ai-native-it-service-desk.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ For information about incident assignment rules, [Define assignment rules for in
 
 </td></tr><tr><td>
 
-[[service-level-mgmt-landing-page|Service Level Management]]
+Service Level Management
 
 </td><td>
 
@@ -135,7 +135,7 @@ Service level agreements \(SLAs\) define the amount of time for a task to reach 
 
 </td><td>
 
-SLAs and their associated flows are preconfigured for [[c_IncidentManagement|Incident Management]]. Response and resolution SLAs are defined for incidents with priority P1 through P4.
+SLAs and their associated flows are preconfigured for Incident Management. Response and resolution SLAs are defined for incidents with priority P1 through P4.
 
 </td><td>
 
@@ -235,25 +235,25 @@ For information about configuring Major Incident Management from SOW Admin Cente
 
 Ensures that the right person is available to assign an incident to, by rotation through a hierarchy of duty rosters.
 
-For information about [[configuration|configuring On-Call Scheduling]] from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
+For information about configuring On-Call Scheduling from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
 
 ## Problem Management
 
 Manages the life cycle of all problems and prevents problems and resulting incidents from happening. It also aims to eliminate recurring incidents and minimize the impact of incidents that can’t be prevented.
 
-For information about [[configuring-problem-mgmt|configuring Problem Management]] from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
+For information about configuring Problem Management from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
 
 ## Walk-up Experience
 
 Enhances the user experience by providing in-person as well as remote assistance to the users for their IT-related issues.
 
-For information about [[walkup-experience-configuration|configuring Walk-up Experience]] from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
+For information about configuring Walk-up Experience from SOW Admin Center, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
 
 ## Analytics
 
 |Configuration|Description|Default configuration|Optional configurations|
 |-------------|-----------|---------------------|-----------------------|
-|Dashboard|Managing dashboards and data visualizations to track progress quickly.|Preconfigured dashboard on workspace [[dex-workspace-dashboard-tab|landing page]] that provides visibility into agent workload with key metrics such as Assigned to you, Overdue, and Unassigned.|Edit the existing dashboard or create your own dashboard in Platform Analytics workspace. To create a dashboard using Platform Analytics, see [[operational-success-kpi|Platform Analytics KPIs and dashboards]].|
+|Dashboard|Managing dashboards and data visualizations to track progress quickly.|Preconfigured dashboard on workspace landing page that provides visibility into agent workload with key metrics such as Assigned to you, Overdue, and Unassigned.|Edit the existing dashboard or create your own dashboard in Platform Analytics workspace. To create a dashboard using Platform Analytics, see [Platform Analytics KPIs and dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/operational-success-kpi.md).|
 
 ## Now Assist for ITSM
 
@@ -307,7 +307,7 @@ Now Assist skills such as KB generation, Incident summarization, Chat summarizat
 Activate or deactivate these skills based on business requirements. For information about modifying Now Assist skills, see [Edit a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-a-now-assist-skill.md).
 
 </td></tr></tbody>
-</table>## [[c_ITILChangeManagement|Change Management]]
+</table>## Change Management
 
 <table id="table_xcv_3ms_w3c"><thead><tr><th>
 
@@ -351,7 +351,7 @@ Survey, score, and assign a risk level and the appropriate response.
 
 </td><td>
 
-[[c_RskAsmtCalc|Risk assessment]] questions, responses, and threshold score boundaries for Moderate and High risk levels.
+Risk assessment questions, responses, and threshold score boundaries for Moderate and High risk levels.
 
 </td><td>
 
@@ -377,7 +377,7 @@ Assign CAB members.
 
 </td></tr><tr><td>
 
-Change [[c_Models|models]]
+Change models
 
 </td><td>
 
@@ -389,11 +389,11 @@ Core change models \(Normal, Standard, Emergency\) and Change Registration model
 
 </td><td>
 
-For more information, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+For more information, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 </td></tr><tr><td>
 
-[[change-schedule|Change schedules]]
+Change schedules
 
 </td><td>
 
@@ -424,29 +424,10 @@ Notifications based on change definitions, showing each notification's name, act
 Review and update the pre-configured notifications, or create new ones.
 
 </td></tr></tbody>
-</table>For more information on Change Management, see [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]].
+</table>For more information on Change Management, see [Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md).
 
 -   **[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)**  
 Configure Change Management through a guided experience that walks you through the core setup areas required to make Change Management operational.
 
-**Parent Topic:**[[configure-ai-native-itsm|Configure integrations and ITSM experiences in Simplified IT Service Management]]
+**Parent Topic:**[Configure integrations and ITSM experiences in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-ai-native-itsm.md)
 
-## Related
-
-- [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]]
-- [[operational-success-kpi|Platform Analytics KPIs and dashboards]]
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[configure-ai-native-itsm|Configure integrations and ITSM experiences in Simplified IT Service Management]]
-- [[c_RequestManagement|Request Management]]
-- [[r_CategorizingIncidents|Incident categories and subcategories]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[configuration|Configuring On-Call Scheduling]]
-- [[configuring-problem-mgmt|Configuring Problem Management]]
-- [[walkup-experience-configuration|Configuring Walk-up Experience]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_Models|Models]]
-- [[change-schedule|Change schedules]]

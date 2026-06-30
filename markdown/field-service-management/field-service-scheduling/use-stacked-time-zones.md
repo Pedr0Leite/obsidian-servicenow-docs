@@ -14,7 +14,7 @@ breadcrumb: [Time zones, Using Dispatcher Workspace, Assigning tasks from Dispat
 
 # Show multiple time zones in Dispatcher Workspace
 
-Dispatchers can show multiple time zones on the calendar in [[dispatcher-activities|Dispatcher Workspace]] that are stacked on top of each other. Showing multiple time zones makes it easier to see every agent’s schedule in their local time zone at a glance.
+Dispatchers can show multiple time zones on the calendar in Dispatcher Workspace that are stacked on top of each other. Showing multiple time zones makes it easier to see every agent’s schedule in their local time zone at a glance.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ You must have **Show multiple time zone rows** enabled, and multiple time zones 
 
 4.  Select **Add time zones** and select up to three time zones.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

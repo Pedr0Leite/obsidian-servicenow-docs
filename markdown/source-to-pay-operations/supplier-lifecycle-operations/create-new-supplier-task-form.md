@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Create new task form
 
-Use the Create new task form to add a new task to a [[supplier|supplier]] case.
+Use the Create new task form to add a new task to a supplier case.
 
 <table id="table_gnl_4vt_2bc"><thead><tr><th>
 
@@ -57,7 +57,7 @@ Action type that defines the employee task. The options for an employee task are
 
 </td></tr></tbody>
 </table>-   **[Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-task-form.md)**  
-Use the **Details** tab of the [[slo-task-form|task form]] to provide details about the supplier or employee task.
+Use the **Details** tab of the task form to provide details about the supplier or employee task.
 
 **Parent Topic:**[Supplier Lifecycle Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-reference.md)
 
@@ -90,7 +90,3 @@ Use the **Details** tab of the [[slo-task-form|task form]] to provide details ab
 
 [Create a task for a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-task-for-supp-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[slo-task-form|Task form]]

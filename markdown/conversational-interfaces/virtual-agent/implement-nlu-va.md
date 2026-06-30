@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Understanding \(NLU\) topic discovery in Virtual A
 
 # Implement NLU in Virtual Agent
 
-Create and maintain NLU model groups and intents that map to your conversation topics in [[virtual-agent-landing-page|Virtual Agent]]. You can create and edit model groups in NLU Workbench or from topics in Virtual Agent Designer.
+Create and maintain NLU model groups and intents that map to your conversation topics in Virtual Agent. You can create and edit model groups in NLU Workbench or from topics in Virtual Agent Designer.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ When authoring conversations for an NLU instance, be aware of the following guid
 
 The topic state changes to **Active**.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -33,12 +33,8 @@ Role required: admin
 
 After the plugin is installed, Field Service Management application is integrated with Customer Service Management.
 
--   **[[csm-fsm-integration|Integrating with Field Service Management]]**  
+-   **[Integrating with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csm-fsm-integration.md)**  
 The Customer Service with Field Service Management plugin \(com.snc.csm\_fsm\_integration\) provides an integration between the Customer Service Management and Field Service Management applications.
 
-**Parent Topic:**[[configure-order-fulfillment|Configure order fulfillment]]
+**Parent Topic:**[Configure order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-fulfillment.md)
 
-## Related
-
-- [[csm-fsm-integration|Integrating with Field Service Management]]
-- [[configure-order-fulfillment|Configure order fulfillment]]

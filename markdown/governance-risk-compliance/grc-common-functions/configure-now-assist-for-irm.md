@@ -41,11 +41,11 @@ This store app has the following dependencies:
 
 -   GRC Common Generative AI
 
-    Provides foundational AI capabilities for [[r_WhatIsGRC|Governance, Risk, and Compliance]] \(GRC\), automating tasks like [[risk-assessments|risk assessments]] and compliance documentation while helping ensure consistency across GRC workflows.
+    Provides foundational AI capabilities for Governance, Risk, and Compliance \(GRC\), automating tasks like risk assessments and compliance documentation while helping ensure consistency across GRC workflows.
 
 -   GRC Shared Generative AI
 
-    Delivers centralized generative AI services for multiple GRC domains, supporting shared governance, secure automation, and integration with [[ai-system-airc|AI systems]] for compliance and risk management.
+    Delivers centralized generative AI services for multiple GRC domains, supporting shared governance, secure automation, and integration with AI systems for compliance and risk management.
 
 -   GRC Compliance Generative AI
 
@@ -60,8 +60,3 @@ For information about the installation process, see [Install Now Assist plugins]
 
 **Note:** For more information on Retrieval Augmented Generation \(RAG\) and Retention policies, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/indexed-sources-ais.md) and [User data usage policy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-data-usage-policy-now-assist.md).
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[ai-system-airc|AI systems]]

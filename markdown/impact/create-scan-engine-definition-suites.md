@@ -21,7 +21,7 @@ Role required: Scan Engine admin \(`sn_se.scan_engine_admin_role` role\)
 ## Procedure
 
 1.  Create Definition Suites
-2.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Definition Suites.**.
+2.  Navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Definition Suites.**.
 
 3.  Select **New**.
 
@@ -84,7 +84,7 @@ Definition
 
 </th></tr></thead><tbody><tr><td>
 
-[[scan-engine-definitions|Scan Engine Definitions]]
+Scan Engine Definitions
 
 </td><td>
 
@@ -109,9 +109,3 @@ Displays findings found during on-demand or instance scans as defined by the def
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[scan-engine-definitions|Scan Engine definitions]]

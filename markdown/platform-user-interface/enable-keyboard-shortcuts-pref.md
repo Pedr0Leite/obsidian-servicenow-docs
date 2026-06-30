@@ -12,7 +12,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Use, Next Experie
 
 # Enable keyboard shortcuts preference
 
-Learn more about the [[enable-keyboard-shortcuts|Enable keyboard shortcuts]] accessibility preference.
+Learn more about the Enable keyboard shortcuts accessibility preference.
 
 \[Omitted image "coral-pref-shortcuts.png"\] Alt text: Enable keyboard shortcuts accessibility preference.
 
@@ -67,7 +67,3 @@ Keyboard shortcuts are not available.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[enable-keyboard-shortcuts|Enable keyboard shortcuts]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Train the similarity solution for Knowledge Management to find related articles
 
-Train the Knowledge Similar Articles solution definition included within the [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] capability to find related knowledge articles when creating or viewing a knowledge article.
+Train the Knowledge Similar Articles solution definition included within the Predictive Intelligence for Knowledge Management capability to find related knowledge articles when creating or viewing a knowledge article.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: admin
 
     For more information about the Similarity Definition form fields, see [Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-similarity-solution.md).
 
-    **Note:** If the application scope isn't set to [[knowledge-management|Knowledge Management]] - Machine Learning, you cannot edit the form and a warning message appears. To make the form editable, click the word **here** at the end of the message.
+    **Note:** If the application scope isn't set to Knowledge Management - Machine Learning, you cannot edit the form and a warning message appears. To make the form editable, click the word **here** at the end of the message.
 
 4.  Click **Update &amp; Retrain**.
 
@@ -76,7 +76,3 @@ When the solution is complete, the related knowledge articles appear in the Know
 
 [Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/mobile-experience-for-km.md)
 
-## Related
-
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]
-- [[knowledge-management|Knowledge Management]]

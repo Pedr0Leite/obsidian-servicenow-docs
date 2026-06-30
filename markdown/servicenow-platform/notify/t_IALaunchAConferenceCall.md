@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with Incident Communications Management, Using Notify,
 
 # Initiate a conference call from incident communication plan
 
-Use [[notify-landing-page|Notify]] to initiate a conference call from an incident communication plan by inviting one or more users.
+Use Notify to initiate a conference call from an incident communication plan by inviting one or more users.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: notify\_view, or notify\_setup\_admin
 
 **Parent Topic:**[Using Notify with Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyWithIncidentAlert.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

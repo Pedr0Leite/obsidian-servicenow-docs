@@ -126,12 +126,12 @@ Option to update the generated Microsoft Word template report with fields from t
 
     -   Design Template — Inserts empty data points that populate when a document is generated.
     -   Add Content — Inserts live data \(reports, charts, visualizations\) into the document directly.
-    -   [[manage-content|Manage Content]] — Lists all content inserted via Add Content, with hyperlinks to navigate to specific content blocks and back to the reporting configuration in ServiceNow.
+    -   Manage Content — Lists all content inserted via Add Content, with hyperlinks to navigate to specific content blocks and back to the reporting configuration in ServiceNow.
     The panel offers the following report types: **Data point**, **Table**, and **Charts** \(bar chart and pie chart\).
 
     \[Omitted image "document-designer-add-in-panel-tabs.png"\] Alt text: Document designer add-in panel tabs.
 
-    **Note:** The reporting items that appear in the panel are obtained from the records you created in the Reporting Configurations module. For information, see [[create-reporting-configurations|Create reporting configurations]].
+    **Note:** The reporting items that appear in the panel are obtained from the records you created in the Reporting Configurations module. For information, see [Create reporting configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-reporting-configurations.md).
 
 5.  Select a reporting item and select **Add** to insert the item at the cursor position in the Word document.
 
@@ -147,10 +147,5 @@ Option to update the generated Microsoft Word template report with fields from t
 **Related topics**  
 
 
-[[generate-word-report|Generate a Microsoft Word report]]
+[Generate a Microsoft Word report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-word-report.md)
 
-## Related
-
-- [[create-reporting-configurations|Create reporting configurations]]
-- [[generate-word-report|Generate a Microsoft Word report]]
-- [[manage-content|Manage content]]

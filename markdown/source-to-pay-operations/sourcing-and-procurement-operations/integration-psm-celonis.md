@@ -14,11 +14,11 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations integration with Celonis
 
-Identify inefficiencies in your customer business process, understand their business impact, and gain insights into the root causes, by integrating [[psm-overview|Sourcing and Procurement Operations]] with Celonis.
+Identify inefficiencies in your customer business process, understand their business impact, and gain insights into the root causes, by integrating Sourcing and Procurement Operations with Celonis.
 
 Some insights provided by Celonis are listed here.
 
--   Inconsistent [[payment-terms|payment terms]]: Where the payment terms agreed with the [[supplier|supplier]] is Net 45 on the supplier primary record, but [[invoices|invoices]] have an earlier payment term like Net 15 or Net 30. Such inconsistent payment terms, if not recognized, may lead to an inefficient usage of the working capital and the days payable outstanding of the customer may get reduced.
+-   Inconsistent payment terms: Where the payment terms agreed with the supplier is Net 45 on the supplier primary record, but invoices have an earlier payment term like Net 15 or Net 30. Such inconsistent payment terms, if not recognized, may lead to an inefficient usage of the working capital and the days payable outstanding of the customer may get reduced.
 -   Duplicate suppliers: Where a same supplier is wrongly created twice, for example, “California Academy of Sciences” and “The California Academy of Sciences.” Such duplicate records may confuse end users, with some invoices getting created for the first supplier and some for the second. This makes supplier account reconciliation difficult and prone to frauds, where the same invoice may be recorded for both the suppliers.
 -   Duplicate invoices: Where the same supplier invoice gets recorded twice. This could be because it has been entered once based on the invoice that was emailed, and reentered by another payables specialist later when the physical copy of the invoice was received from the inward mail department. Such invoices, if not identified, may result in overbooking of an invoice and double payment to the supplier.
 -   Invoices for late payment risk: Where some invoices are on hold as the price billed is marginally greater than the tolerance defined, for example, 0.5% above tolerance. In such cases, the has to be released so that the payment can be made on time.
@@ -34,7 +34,7 @@ Here's an example of an inconsistent payment term insight provided by Celonis, a
 
 Create a flow in Playbooks:
 
--   Ingest the data from the Celonis API, [[create-procurement-case|create a procurement case]], and assign it to a user or group. These cases are displayed in the assigned user's [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]].
+-   Ingest the data from the Celonis API, create a procurement case, and assign it to a user or group. These cases are displayed in the assigned user's Source-to-Pay Workspace landing page.
 -   Customers can configure various options like updating the ERP directly from the case playbook, or manually logging in to the ERP to update the data.
 -   Customers can configure the closure steps like sending an email to the supplier with the information that the payment terms have been updated to the original agreed term recorded in the primary record. Customers can also mark a copy of this email to their manager with the case closure information.
 
@@ -56,7 +56,7 @@ A sample payload from Celonis for payment term mismatch is provided.
     "Supplier": "PolyTec",
     "Supplier City": "Munich",
     "Supplier Country": "DE",
-    "[[purchase-order-table|Purchase Order]]": "PO10008760",
+    "Purchase Order": "PO10008760",
     "Invoice Number": 9350035113,
     "Payment Block Reason": "Payment Term Mismatch",
     "Due Date": "5/15/21",
@@ -95,12 +95,3 @@ The incoming payload from Celonis is stored in a custom staging table, from wher
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[payment-terms|Payment terms]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[create-procurement-case|Create a procurement case]]
-- [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]]
-- [[purchase-order-table|Purchase order]]

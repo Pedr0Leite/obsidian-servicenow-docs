@@ -14,7 +14,7 @@ breadcrumb: [Telecommunications Service Operations Management]
 
 # Exploring Telecommunications Service Operations Management
 
-Learn how [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] \(TSOM\) empowers communication service providers \(CSPs\) proactively monitor, analyze, and resolve network and service issues before they impact customers. Built on the ServiceNow AI Platform, TSOM delivers a unified operations view across distributed, multi-domain telecom environments, helping teams improve service availability, operational efficiency, and customer satisfaction.
+Learn how Telecommunications Service Operations Management \(TSOM\) empowers communication service providers \(CSPs\) proactively monitor, analyze, and resolve network and service issues before they impact customers. Built on the ServiceNow AI Platform, TSOM delivers a unified operations view across distributed, multi-domain telecom environments, helping teams improve service availability, operational efficiency, and customer satisfaction.
 
 Telecommunications Service Operations Management is a solution for telecom providers that offers complete visibility into network and service health. TSOM collects, correlates, and prioritizes events from across network domains—such as access, transport, and core—using standard APIs and the power of the ServiceNow AI Platform. By providing real-time, actionable insights, TSOM enables both frontline and back-office teams to address service-impacting issues and maintain consistent performance.
 
@@ -22,7 +22,7 @@ Telecommunications Service Operations Management is a solution for telecom provi
 
 Telecommunications Service Operations Management simplifies telecom operations by connecting with existing monitoring and telemetry platforms, identifying actionable patterns, and automating resolution workflows. It leverages:
 
--   [[telecommunications-api-notification|External event management via Telecommunications API notifications]] for standardized alarm ingestion.
+-   External event management via Telecommunications API notifications for standardized alarm ingestion.
 -   Event Management for event correlation, suppression, and prioritization.
 -   Metric Intelligence to detect threshold breaches, performance degradation, and anomalous behavior in real time.
 -   Health Log Analytics to analyze log data, triage related issues, and identify root causes before users are impacted.
@@ -78,7 +78,3 @@ This integration confirms consistent workflows, accurate service models, and uni
 
 [Telecom Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/tsom-visibility.md)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
-- [[telecommunications-api-notification|External event management via Telecommunications API notifications]]

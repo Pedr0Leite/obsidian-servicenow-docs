@@ -14,19 +14,19 @@ breadcrumb: [Exploring Machine Identity Console, Machine Identity Console, Ident
 
 # Metrics
 
-[[ca-metrics|Metrics]] of the machine identities.
+Metrics of the machine identities.
 
 ## Unique API calls in last 7 days
 
 The following results are unique API calls in the last 7 days. Records collected in this table are in real time.
 
-**Note:** Accounts that have the **Internal Integration User** field set to `true` in their `sys_user` record will not populate data in the [[machine-identity-console|Machine Identity Console]].
+**Note:** Accounts that have the **Internal Integration User** field set to `true` in their `sys_user` record will not populate data in the Machine Identity Console.
 
 ## Machine identity accounts
 
-The following results are the machine [[integration-accounts|integration accounts]] used for integrations. Records collected in this table are in real time.
+The following results are the machine integration accounts used for integrations. Records collected in this table are in real time.
 
-\[Omitted image "metrics-mic-accounts.png"\] Alt text: Machine [[identity-landing|identity]] accounts
+\[Omitted image "metrics-mic-accounts.png"\] Alt text: Machine identity accounts
 
 ## High Privilege machine accounts
 
@@ -34,9 +34,3 @@ The following results are the high privilege machine integration accounts used f
 
 \[Omitted image "metrics-high-privilege.png"\] Alt text: High Privilege machine accounts
 
-## Related
-
-- [[ca-metrics|Metrics]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[integration-accounts|Integration Accounts]]
-- [[identity-landing|Identity]]

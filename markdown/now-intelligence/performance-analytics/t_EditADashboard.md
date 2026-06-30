@@ -15,13 +15,13 @@ breadcrumb: [Create and use dashboards, Responsive dashboards in the Core UI, Re
 
 # Edit a responsive dashboard
 
-You can edit the contents of a dashboard, including [[c_Widgets|Performance Analytics widgets]], reports, and tabs. Because dashboards are shared, any modifications you make are applied globally.
+You can edit the contents of a dashboard, including Performance Analytics widgets, reports, and tabs. Because dashboards are shared, any modifications you make are applied globally.
 
 ## Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[edit-db-in-ac|Edit Platform Analytics dashboards]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]].
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-migrate-dbs-you-own.md).
 
 If Platform Analytics experience is enabled, the dashboard picker shows both Core UI and Platform Analytics experience dashboards.
 
@@ -85,7 +85,7 @@ To change widget appearance and layouts, and show and hide widget headers, see [
 </td><td>
 
 1.  Click the plus sign \(\[Omitted image "icon-add-user-db.png"\] Alt text: Plus sign button\) to put the dashboard in edit mode.
-2.  Point to the widget's header and select the pencil icon \(\[Omitted image "EditWidgetButton.png"\] Alt text: Pencil icon\). This icon is available only if your roles give you access to the widget's source. Edit rights to a dashboard do not necessarily give you edit rights to the [[widgets|widgets]] on that dashboard.
+2.  Point to the widget's header and select the pencil icon \(\[Omitted image "EditWidgetButton.png"\] Alt text: Pencil icon\). This icon is available only if your roles give you access to the widget's source. Edit rights to a dashboard do not necessarily give you edit rights to the widgets on that dashboard.
 
 \[Omitted image "widget-edit-mode-header.png"\] Alt text: Widget header with edit options shown by pointing at it
 
@@ -151,7 +151,7 @@ Click the tab to make it active. Point to the tab name and click the trash icon 
 
 </td><td>
 
-[[c_HomepagePublishers|Interactive filters]] let users filter data for all report widgets on a dashboard that follow them.1.  Click the plus sign \(\[Omitted image "AddWidgetButton.png"\] Alt text: Plus sign button\) to put the dashboard in edit mode.
+Interactive filters let users filter data for all report widgets on a dashboard that follow them.1.  Click the plus sign \(\[Omitted image "AddWidgetButton.png"\] Alt text: Plus sign button\) to put the dashboard in edit mode.
 2.  From the list, select **Interactive Filters**.
 3.  Navigate to the filter you want to add.
 4.  Click **Add**.
@@ -198,11 +198,3 @@ You can change the appearance of widgets; change widget layouts; change the colo
 
 [Share a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]

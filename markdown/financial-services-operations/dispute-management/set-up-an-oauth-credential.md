@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up an OAuth Credential
 
-Create an OAuth 2.0 credential to enable secure authentication for [[card-data-security|Card Data Security]] integrations. This credential uses an existing OAuth Provider to establish authenticated connections with external systems.
+Create an OAuth 2.0 credential to enable secure authentication for Card Data Security integrations. This credential uses an existing OAuth Provider to establish authenticated connections with external systems.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The OAuth credential record is created.
 
 [Set up the OAuth Vault API REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-the-vault-api-rest-message.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

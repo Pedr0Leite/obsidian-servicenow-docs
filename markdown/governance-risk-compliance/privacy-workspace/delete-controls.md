@@ -28,7 +28,7 @@ You can delete controls if the control objectives associated with those controls
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select and open the processing activity from which you want to delete controls.
 
@@ -45,6 +45,3 @@ The selected controls are deleted from the processing activity.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]

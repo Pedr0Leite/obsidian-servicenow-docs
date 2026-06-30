@@ -14,11 +14,11 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Create a requirement for employees to acknowledge the privacy consent request
 
-Create a requirement for your employees to respond to the privacy consent request before entering the workplace to facilitate the use of their data for [[contact-tracing|contact tracing]].
+Create a requirement for your employees to respond to the privacy consent request before entering the workplace to facilitate the use of their data for contact tracing.
 
 ## Before you begin
 
--   Requirements are available in the ServiceNow® [[employee-readiness-core|Employee Readiness Core]] application, which must be installed.
+-   Requirements are available in the ServiceNow® Employee Readiness Core application, which must be installed.
 -   Privacy Consent requirement is built with ServiceNow® Workflow Studio, so make sure you're familiar with the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) basics.
 
 Role required: sn\_imt\_core.admin
@@ -97,7 +97,7 @@ Define the privacy consent requirement for employees to return to work. Employee
 
 2.  Create a privacy consent requirement.
 
-    1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **[[health-safety-overview|Health and Safety]] Requirements**.
+    1.  Navigate to **Employee Health and Safety Status** &gt; **Health and Safety Requirements**.
 
     2.  Click **New**.
 
@@ -143,7 +143,7 @@ Default status
 
 </td><td>
 
-The default status assigned to employees who don't have any [[activity-lxp|activity]] towards completing the requirement. The options are Cleared and Not Cleared.For example, employees who don't have a record in the User Privacy Notice and Consents \[sn\_imt\_tracing\_user\_privacy\_consent\] table are assigned a default status of Not Cleared for the Privacy Consent Requirement.
+The default status assigned to employees who don't have any activity towards completing the requirement. The options are Cleared and Not Cleared.For example, employees who don't have a record in the User Privacy Notice and Consents \[sn\_imt\_tracing\_user\_privacy\_consent\] table are assigned a default status of Not Cleared for the Privacy Consent Requirement.
 
 </td></tr><tr><td>
 
@@ -217,10 +217,3 @@ You must activate the requirement before you can track whether employees have fu
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[health-safety-overview|Health and Safety]]
-- [[activity-lxp|Activity]]

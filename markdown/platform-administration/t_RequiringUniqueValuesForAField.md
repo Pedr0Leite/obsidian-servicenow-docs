@@ -30,21 +30,17 @@ The system also doesn't allow you to add a unique index if a non-unique index al
 
 2.  Right-click the field label in the form and select **Configure Dictionary**.
 
-3.  [[configure-form-layout|Configure the form]] to add the **Unique** field if it does not already appear.
+3.  [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the **Unique** field if it does not already appear.
 
 4.  Select the **Unique** check box.
 
 5.  **Update**.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
 [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **[[settings-mobile|Settings]]** &gt; **Assignment Rules**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Settings** &gt; **Assignment Rules**.
 
 2.  Select the Chat - Most Capacity assignment rule.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Configure the inbox in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-inbox-in-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

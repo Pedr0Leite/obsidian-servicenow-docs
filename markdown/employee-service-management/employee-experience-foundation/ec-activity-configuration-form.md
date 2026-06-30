@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Activity Configuration form
 
-Use the Activity Configuration form to do a basic configuration or an advanced configuration for an [[activity-lxp|activity]].
+Use the Activity Configuration form to do a basic configuration or an advanced configuration for an activity.
 
 <table id="table_erv_qfv_nqb"><thead><tr><th>
 
@@ -152,7 +152,7 @@ Script to read existing configurations and display tasks only for the primary ac
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -182,7 +182,7 @@ Script to read existing configurations and display tasks only for the primary ac
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -204,8 +204,3 @@ Script to read existing configurations and display tasks only for the primary ac
 
 [Website configuration form]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -28,7 +28,7 @@ The following definitions have been deprecated for the August release.
 
 ## Updated definitions
 
-The following definitions have been updated for the August release to improve [[instance-observer-performance|performance]], reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative [[impact-landing-page|impact]] on your customer instance scores.
+The following definitions have been updated for the August release to improve performance, reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative impact on your customer instance scores.
 
 **Important:** This list doesn't contain the definitions for the Security category.
 
@@ -46,7 +46,7 @@ Category
 
 </th><th>
 
-Included in [[health-assessment|Health Assessment]] scans 
+Included in Health Assessment scans 
 
 </th><th>
 
@@ -122,7 +122,7 @@ Too many fields on a form
 
 </td><td>
 
-[[user-experience-insights|User Experience]]
+User Experience
 
 </td><td>
 
@@ -928,12 +928,5 @@ X
 -   Baseline findings were removed
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[healthscan-definitions|HealthScan definitions]]
+</table>**Parent Topic:**[HealthScan definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions.md)
 
-## Related
-
-- [[healthscan-definitions|HealthScan definitions]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[health-assessment|Health Assessment]]
-- [[user-experience-insights|User Experience]]

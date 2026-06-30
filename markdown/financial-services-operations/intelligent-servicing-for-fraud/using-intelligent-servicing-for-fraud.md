@@ -15,7 +15,7 @@ breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Se
 
 # Using Intelligent Servicing for Fraud
 
-Learn how fraud agents and managers use the [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] application to initiate, investigate, and resolve fraud cases.
+Learn how fraud agents and managers use the Intelligent Servicing for Fraud application to initiate, investigate, and resolve fraud cases.
 
 ## General workflow for a fraud case
 
@@ -43,6 +43,4 @@ A fraud case can be initiated as follows:
     -   Card fraud: A fraud agent can investigate a fraudulent case that is reported by a customer or from external sources such as from a law enforcement agency or regulators.
     To resolve cases, a fraud agent can also gather documents until the closure of the case. The case can also be sent for approval to a fraud manager.​
 
-## Related
 
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

@@ -14,7 +14,7 @@ breadcrumb: [Desktop Assistant, Digital End-User Experience, IT Service Manageme
 
 # Chat using Now Assist in Virtual Agent
 
-Use [[dex-landing|Digital End-User Experience]] \(DEX\) Virtual Agent to access a convenient chat-based support powered by Now Assist to find answers and guidance.
+Use Digital End-User Experience \(DEX\) Virtual Agent to access a convenient chat-based support powered by Now Assist to find answers and guidance.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_dex\_desktop.user or sn\_dex\_desktop.admin
     -   To customize the topics that must be displayed and available on the **Show me everything** window, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-designer-virtual-agent.md)
     -   To monitor and improve your device performance using Now Assist in Virtual Agent, see [Check device health using Now Assist for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/check-your-device-s-health-using-now-assist-for-itsm.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]

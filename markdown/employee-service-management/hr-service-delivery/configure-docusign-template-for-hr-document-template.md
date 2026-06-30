@@ -26,11 +26,11 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-You must map each signature field from the DocuSign template to an appropriate user field in a table. You can also [[map-fields-navex|map fields]] from the DocuSign template to corresponding table fields to auto-populate the document when it is generated for signing.
+You must map each signature field from the DocuSign template to an appropriate user field in a table. You can also map fields from the DocuSign template to corresponding table fields to auto-populate the document when it is generated for signing.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[document-templates-overview|Document Templates]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Document Templates**.
 
 2.  Click **New** or open a record.
 
@@ -100,7 +100,7 @@ Select the DocuSign template to use.**Note:** You must synchronize each time you
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR criteria]]
+HR criteria
 
 </td><td>
 
@@ -148,9 +148,3 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
 **Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md)
 
-## Related
-
-- [[map-fields-navex|Map fields]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-criteria|HR criteria]]

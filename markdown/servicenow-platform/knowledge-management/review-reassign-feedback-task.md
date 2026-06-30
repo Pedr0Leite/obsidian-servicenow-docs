@@ -84,7 +84,7 @@ Start working on the feedback task. You can save the feedback task and edit the 
 
 </td><td>
 
-Request clarification from the feedback submitter. In the **Additional Comments** field, enter information you need from the submitter and select **Update**. This triggers an [[email|email]] notification for the feedback task submitter. Use **[[c_WorkNotes|Work notes]]** field, to track any work about the feedback task internally with the knowledge team.
+Request clarification from the feedback submitter. In the **Additional Comments** field, enter information you need from the submitter and select **Update**. This triggers an email notification for the feedback task submitter. Use **Work notes** field, to track any work about the feedback task internally with the knowledge team.
 
 </td></tr><tr><td id="d486250e211">
 
@@ -113,7 +113,3 @@ Close the feedback task without the submitter having to accept the feedback reso
 </table>
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[email|Email]]
-- [[c_WorkNotes|Work notes]]

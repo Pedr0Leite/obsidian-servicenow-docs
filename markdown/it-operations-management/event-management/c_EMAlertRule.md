@@ -14,7 +14,7 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 # Alert lifecycle configuration
 
-[[c_EM|Event Management]] provides various modules, templates, and properties for configuring alerts and the actions that execute for these alerts.
+Event Management provides various modules, templates, and properties for configuring alerts and the actions that execute for these alerts.
 
 -   **[Configure the alert active interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSetTheAlertActiveInterval.md)**  
 The active interval property \(**evt\_mgmt.active\_interval**\) determines how Event Management handles a new event that is similar to events that appear on an existing closed alert. Based on the active interval, event, and existing closed alert information, the alert is reopened and the event information is added to the existing alert or a new alert is created.
@@ -23,6 +23,3 @@ Set flapping properties to determine when an alert enters and exits the flapping
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

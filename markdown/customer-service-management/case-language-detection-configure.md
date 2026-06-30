@@ -28,22 +28,22 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Ensure that your instance is set up for Predictive [[intelligence-csm|Intelligence]] \(PI\).
+Ensure that your instance is set up for Predictive Intelligence \(PI\).
 
 </td><td>
 
 Predictive Intelligence is a ServiceNow platform feature that provides a layer of artificial intelligence, which serves as a framework for machine learning models. For more information, see:
 
 -   [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence.md)
--   [[machine-learning-csm|Machine learning solutions for Customer Service Management]]
+-   [Machine learning solutions for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/machine-learning-csm.md)
 
 </td></tr><tr><td>
 
-Activate the [[csm-task-intelligence|Task Intelligence for Customer Service]] application \(com.snc.csm\_ml\_task\).
+Activate the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\).
 
 </td><td>
 
-The Task Intelligence for Customer Service application enables customers to leverage machine learning algorithms in [[c_CustomerServiceManagement|Customer Service Management]]. The [[case-sentiment-analysis|sentiment analysis]] feature is included with this application.
+The Task Intelligence for Customer Service application enables customers to leverage machine learning algorithms in Customer Service Management. The sentiment analysis feature is included with this application.
 
  This application automatically activates the following plugins:
 
@@ -69,13 +69,5 @@ To activate the translator:1.  Navigate to **Dynamic Translation** &gt; **Transl
 </table>**Related topics**  
 
 
-[[case-language-detection|Language detection]]
+[Language detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-language-detection.md)
 
-## Related
-
-- [[machine-learning-csm|Machine learning solutions for Customer Service Management]]
-- [[case-language-detection|Language detection]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-sentiment-analysis|Sentiment Analysis]]

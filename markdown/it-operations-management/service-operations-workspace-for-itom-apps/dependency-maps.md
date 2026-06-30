@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Dependency View maps
 
-Explore the Dependency Views in Express List and the [[c_EM|Event Management]] Alert form.
+Explore the Dependency Views in Express List and the Event Management Alert form.
 
 Dependency View maps are visual tools that illustrate the relationships between configuration items \(CIs\), helping you understand how different components are connected. These maps rely on the Configuration Management Database \(CMDB\) as a foundational data source, which stores detailed information about each CI and their interdependencies. By leveraging the CMDB, dependency maps provide a comprehensive view of the IT environment, enabling better impact analysis and decision-making in IT operations.
 
@@ -29,6 +29,3 @@ View the **Dependency View** map for an alert from the **Quick Response** menu i
 
 **Parent Topic:**[Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-landing-page-itom.md)
 
-## Related
-
-- [[c_EM|Event Management]]

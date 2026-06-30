@@ -18,7 +18,7 @@ Publish contract template to make it available for generating a standard legal c
 
 ## Before you begin
 
-Ensure the template mappings has been completed before you [[cncore-publish-template|publish a contract template]] mappings. For more information, [Update contract template mappings for legal contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md).
+Ensure the template mappings has been completed before you publish a contract template mappings. For more information, [Update contract template mappings for legal contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md).
 
 Role required: sn\_lg\_contracts.contracts\_config
 
@@ -56,6 +56,3 @@ The state of the contract template is published.
 
 [Update contract template mappings for legal contract template]()
 
-## Related
-
-- [[cncore-publish-template|Publish a contract template]]

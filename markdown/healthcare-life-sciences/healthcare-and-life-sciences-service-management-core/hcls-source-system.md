@@ -18,7 +18,7 @@ The Source system \[sn\_hcls\_source\_system\] table stores the source and desti
 
 ## Key features
 
--   All [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] data tables contain a reference to the Source system \[sn\_hcls\_source\_system\] table.
+-   All Healthcare and Life Sciences Service Management Core data tables contain a reference to the Source system \[sn\_hcls\_source\_system\] table.
 -   Includes the source and destination IDs of external EMR systems or another healthcare system.
 
 Role required to configure the table: sn\_hcls.admin.
@@ -60,6 +60,3 @@ Name to identify the external Redox healthcare system as a source system in your
 </td></tr></tbody>
 </table>**Parent Topic:**[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # Create email templates
 
-Create and manage the preconfigured email templates for sending notifications to your end users, user groups, or managers. With these templates, you can coach and communicate with your end users about the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) incidents.
+Create and manage the preconfigured email templates for sending notifications to your end users, user groups, or managers. With these templates, you can coach and communicate with your end users about the Data Loss Prevention Incident Response \(DLP IR\) incidents.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-[[tisc-email-notifications|Email notifications]] are categorized by the incident notifications that are sent to the end users, the escalation notifications that are sent to the managers, or the due date notifications. You can send email notifications about the due dates for DLP incidents, or even coach the end users about what to do when certain conditions are met in the email conditions filter.
+Email notifications are categorized by the incident notifications that are sent to the end users, the escalation notifications that are sent to the managers, or the due date notifications. You can send email notifications about the due dates for DLP incidents, or even coach the end users about what to do when certain conditions are met in the email conditions filter.
 
 DLP email templates enable you to send the email notification for end users, managers, and analysts. You can configure the templates to be sent per incident or as a digest. Your email subject and body can contain variables so that you can reuse your existing content.
 
@@ -366,7 +366,3 @@ The end user receives a digest notification email with all the selected variable
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[tisc-email-notifications|Email Notifications]]

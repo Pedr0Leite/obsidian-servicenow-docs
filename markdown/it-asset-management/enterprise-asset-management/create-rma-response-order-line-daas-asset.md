@@ -14,7 +14,7 @@ breadcrumb: [Managing RMA response orders for defective DaaS assets, Enterprise 
 
 # Create a Return Merchandise Authorization \(RMA\) response order line for a defective Device as a Service \(DaaS\) asset
 
-[[create-rma-response-order-line|Create an RMA response order line]] for each defective DaaS asset that you want to repair or replace through an RMA response order. Use each order line to track and manage the tasks that you must complete to repair or replace the given asset.
+Create an RMA response order line for each defective DaaS asset that you want to repair or replace through an RMA response order. Use each order line to track and manage the tasks that you must complete to repair or replace the given asset.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the RMA response order lines list.
 
@@ -110,8 +110,3 @@ Perform all tasks that are required for completing the RMA response order line s
 
 **Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-rma-response-orders-daas-assets.md)
 
-## Related
-
-- [[create-rma-response-order-line|Create an RMA response order line]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

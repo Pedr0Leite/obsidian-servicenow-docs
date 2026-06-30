@@ -754,8 +754,5 @@ Margin left
 The left margin of your video component in pixels.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mcb-stage-ui|Mobile Card Builder user interface]]
+</table>**Parent Topic:**[Mobile Card Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-stage-ui.md)
 
-## Related
-
-- [[mcb-stage-ui|Mobile Card Builder user interface]]

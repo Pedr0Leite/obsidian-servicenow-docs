@@ -14,7 +14,7 @@ breadcrumb: [Configure and customize the migration to SOW, Migrate from ITSM Age
 
 # List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Migration of the list actions from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] includes identifying the tables and the migration process.
+Migration of the list actions from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the tables and the migration process.
 
 ## List declarative actions
 
@@ -24,7 +24,7 @@ For more information about types of declarative actions and how to create these 
 
 ## Table used for migration
 
-Action Assignment \[sys\_declarative\_action\_assignment\]: Contains all list action [[settings-mobile|settings]].
+Action Assignment \[sys\_declarative\_action\_assignment\]: Contains all list action settings.
 
 ## Conditions for migration
 
@@ -54,7 +54,7 @@ Configure the client actions to migrate list actions from ITSM Agent Workspace t
 -   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-list-ui-component-from-aw-to-sow.md)**  
 Configure the UI component to migrate list actions from ITSM Agent Workspace to Service Operations Workspace \(SOW\) for ITSM.
 -   **[Perform post-migration tasks for list actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-list-actions.md)**  
-Verify that the list actions in Service Operations Workspace \(SOW\) are consistent with the list actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the [[migrated-records|migrated]] list actions settings in SOW based on your requirements.
+Verify that the list actions in Service Operations Workspace \(SOW\) are consistent with the list actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the migrated list actions settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -83,8 +83,3 @@ Verify that the list actions in Service Operations Workspace \(SOW\) are consist
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[settings-mobile|Settings]]
-- [[migrated-records|Migrated]]

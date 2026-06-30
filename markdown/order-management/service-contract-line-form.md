@@ -12,7 +12,7 @@ breadcrumb: [Customer Contracts and Entitlements reference, Configure, price, qu
 
 # Customer contract line form
 
-You can create customer contract lines in the [[exploring-post-sales-support|Customer Contracts and Entitlements]] application by using the Customer Contract Line form.
+You can create customer contract lines in the Customer Contracts and Entitlements application by using the Customer Contract Line form.
 
 <table id="table_jtd_tbk_bzb"><thead><tr><th>
 
@@ -55,7 +55,7 @@ Account
 The name of the account associated with this customer contract.**Note:**
 
 -   A customer contract can be associated with either an account or a consumer.
--   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the [[fields|fields]] in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
+-   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ The current state of the contract line:-   Draft
 **Note:**
 
 -   The state of the customer contract line is inherited from its parent customer contract.
--   Suspended state is only applicable when the contract line item is created via the [[order-mgt-overview|Sales Customer Relationship Management]] workflow.
+-   Suspended state is only applicable when the contract line item is created via the Sales Customer Relationship Management workflow.
 
 </td></tr><tr><td>
 
@@ -291,11 +291,5 @@ Represents the total price of the contract line by calculating the roll-up amoun
 </td></tr></tbody>
 </table>**Note:** When a customer contract line item is created manually, the **Pricing method**, **Unit net price**, and **Periodicity** fields are invalid. They’re only applicable when the contract line is created by the Sales Customer Relationship Management workflow or by integration. In that case, these fields are auto-populated with the details from the related sold product. The start and end dates of a child customer contract line must be in between the start and end date of the associated parent customer contract line.
 
-**Parent Topic:**[[pss-reference|Customer Contracts and Entitlements reference]]
+**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Customer Contracts and Entitlements reference]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]
-- [[fields|Fields]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

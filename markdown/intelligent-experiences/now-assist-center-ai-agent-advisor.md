@@ -19,7 +19,7 @@ AI Agent Advisor automatically discovers automation opportunities in your instan
 
 AI Agent Advisor analyzes your instance data to identify the most frequent and impactful opportunities for efficiency gains in your workflows. For each identified opportunity, it proposes AI agents that can automate the solution, and generates new agents when no existing match is available.
 
-This gives the [[platform-now-assist-landing|Now Assist]] administrator a data-driven starting point for AI adoption, eliminating the guesswork of deciding where to apply automation.
+This gives the Now Assist administrator a data-driven starting point for AI adoption, eliminating the guesswork of deciding where to apply automation.
 
 ## How it works
 
@@ -44,15 +44,15 @@ AI Agent Advisor operates through three sequential phases:
     When no existing agent is a strong match for a resolution step, the system generates a new AI agent tailored to that specific problem.
 
 
-The result is a prioritized list of automation opportunities. Each opportunity displays the estimated time and cost savings, number of records analyzed, and available [[ai-assets|AI assets]]. AI Agent Advisor generates the resolution steps using the data from existing records on your instance. You can use this list to decide which opportunities to act on first.
+The result is a prioritized list of automation opportunities. Each opportunity displays the estimated time and cost savings, number of records analyzed, and available AI assets. AI Agent Advisor generates the resolution steps using the data from existing records on your instance. You can use this list to decide which opportunities to act on first.
 
-For more information on the AI Agent Advisor application, see [[ai-agent-advisor-landing-page|AI Agent Advisor]].
+For more information on the AI Agent Advisor application, see [AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-landing-page.md).
 
 ## Accessing AI Agent Advisor in Now Assist Center
 
-AI Agent Advisor displays automation opportunities in several places in [[now-assist-center-landing-page|Now Assist Center]].
+AI Agent Advisor displays automation opportunities in several places in Now Assist Center.
 
--   **[[now-assist-center-home-page|Home page]]**
+-   **Home page**
 
     The home page displays the top automation opportunities as summary cards, ranked by relevance, volume, and estimated return on investment \(ROI\).
 
@@ -65,9 +65,9 @@ AI Agent Advisor displays automation opportunities in several places in [[now-as
     The resolution steps page displays the automation opportunity details and includes a set of proposed resolution steps that show how to automate it.
 
 
-For more information on using AI Agent Advisor in Now Assist Center, see [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]].
+For more information on using AI Agent Advisor in Now Assist Center, see [Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md).
 
-**Parent Topic:**[[exploring-now-assist-center|Exploring Now Assist Center]]
+**Parent Topic:**[Exploring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-center.md)
 
 **Related topics**  
 
@@ -78,12 +78,3 @@ For more information on using AI Agent Advisor in Now Assist Center, see [[now-a
 
 [Supporting information for Now Assist Center]()
 
-## Related
-
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[exploring-now-assist-center|Exploring Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-assets|AI assets]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]

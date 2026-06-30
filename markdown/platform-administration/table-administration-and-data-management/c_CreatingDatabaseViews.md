@@ -16,7 +16,7 @@ breadcrumb: [Work with database views, Table admin, Tables and data, Configure c
 
 Join tables into a single view and then create a report based on that view.
 
-Use the **Database Views** module to [[t_CreateADatabaseView|create a database view]] that joins tables to create a pseudo-table that combines data from each table in the view. You can create a report on this data by adding the database view as a table in a report. Accessing the database view does not require database access.
+Use the **Database Views** module to create a database view that joins tables to create a pseudo-table that combines data from each table in the view. You can create a report on this data by adding the database view as a table in a report. Accessing the database view does not require database access.
 
 1.  [Create a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateADatabaseView.md)  
 Create the database view.
@@ -38,13 +38,9 @@ Verify that the database view works correctly.
 **Related topics**  
 
 
-[Displaying function [[hs-results|results]] in a database view]()
+[Displaying function results in a database view]()
 
 [Using disjunctions in complex queries]()
 
 [Database views in the base system]()
 
-## Related
-
-- [[t_CreateADatabaseView|Create a database view]]
-- [[hs-results|Results]]

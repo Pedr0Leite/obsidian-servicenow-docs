@@ -14,15 +14,15 @@ breadcrumb: [Operational Technology Knowledge Management, Operational Technology
 
 # Configuring Operational Technology Knowledge Management
 
-Configure [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]] so that you can create the data foundation for the [[operational-technology-overview|Operational Technology]] \(OT\) solution.
+Configure Operational Technology Knowledge Management so that you can create the data foundation for the Operational Technology \(OT\) solution.
 
 If you have the admin role, you can use Guided Setup to lead you through the setup of Operational Technology Knowledge Management. Guided Setup is a tool that assists with application configuration. It organizes the configuration activities into categories. These categories contain the information about the setup tasks, the steps to complete each task, and the links to the pages in your instance where you perform the configuration. The links to useful help content are also provided.
 
-To access Guided Setup, navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+To access Guided Setup, navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 The following table lists the Guided Setup tasks and their purposes for Operational Technology Knowledge Management.
 
-**Note:** Operational Technology Knowledge Management is included with the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application. As long as you have the Operational Technology Incident Management application \(version 2.0.2\) installed and configured, you can configure Operational Technology Knowledge Management. No additional plugins are needed.
+**Note:** Operational Technology Knowledge Management is included with the Operational Technology Incident Management application. As long as you have the Operational Technology Incident Management application \(version 2.0.2\) installed and configured, you can configure Operational Technology Knowledge Management. No additional plugins are needed.
 
 The following table shows the tasks that your users must complete for a successful setup and configuration.
 
@@ -41,7 +41,7 @@ Assign Knowledge Management roles to your users so that you can control their ac
 -   **[Create an OT knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configure-ot-knowledge-base.md)**  
 Create an Operational Technology \(OT\) knowledge base to provide a self-service platform for OT knowledge users to store, share, and manage content that is related to OT incidents.
 -   **[Create the user criteria for an OT knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/create-user-criteria-otkm.md)**  
-[[create-user-ot-console|Create a user]] criteria record to determine the users who can read or contribute to an Operational Technology \(OT\) knowledge base.
+Create a user criteria record to determine the users who can read or contribute to an Operational Technology \(OT\) knowledge base.
 -   **[Assign the user criteria to an OT knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-ot-user-criteria-otkm.md)**  
 Assign the user criteria records to an Operational Technology \(OT\) knowledge base to control which users can create, read, write, and retire knowledge articles within the knowledge base.
 -   **[Review access to OT knowledge bases for unauthenticated users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configure-access-to-ot-knowledge-bases.md)**  
@@ -53,10 +53,3 @@ As an administrator, you can configure the look and functionalities of Operation
 
 **Parent Topic:**[Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[create-user-ot-console|Create a user]]

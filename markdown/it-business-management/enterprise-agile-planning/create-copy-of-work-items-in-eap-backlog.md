@@ -24,7 +24,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the left navigation panel, choose your EAP team.
 
@@ -52,6 +52,3 @@ From the full details page of the work item, you can refine the description with
 
 [Schedule work items into iterations in EAP Backlog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/schedule-work-items-into-iterations-in-eap-backlog.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

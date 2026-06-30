@@ -26,7 +26,7 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 
 3.  On the Create New Pre Authorized Repair Request form, fill in the fields.
 
-    For a description of the field values, see [[mco-pre-auth-form|Pre-authorization form]].
+    For a description of the field values, see [Pre-authorization form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-form.md).
 
 4.  Select **Continue**.
 
@@ -38,9 +38,9 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 
     -   Warranty: Repair, replacement, or service that is covered under the warranty.
     -   Goodwill: Repair services that may be free or discounted at the manufacturer's discretion.
-8.  On the [[mco-use-repair-claim|Repair claim]] jobs form, fill in the fields.
+8.  On the Repair claim jobs form, fill in the fields.
 
-    For a description of the field values, see [[mco-pre-auth-job-details-form|Pre-authorization job details form]].
+    For a description of the field values, see [Pre-authorization job details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-job-details-form.md).
 
 9.  Select **Save**.
 
@@ -48,26 +48,17 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 
 11. Select **Submit**.
 
-    The [[mco-pre-auth-request|Pre-authorization]] in review window is displayed.
+    The Pre-authorization in review window is displayed.
 
 12. Select **Pre-authorization review**, and then either approve, reject, or return the request.
 
-    For more information on pre-authorization review tasks, see [[mco-pre-auth-review|Review and approve a pre-authorization request]].
+    For more information on pre-authorization review tasks, see [Review and approve a pre-authorization request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-review.md).
 
 13. Select **Assign to me** to assign the case to yourself.
 
 
 -   **[Review and approve a pre-authorization request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-review.md)**  
-Review and approve the [[mco-pre-auth-request-use|pre-authorization request]] submitted by a dealer.
+Review and approve the pre-authorization request submitted by a dealer.
 
-**Parent Topic:**[[mco-agents-pre-auth-requests|Pre-authorization requests]]
+**Parent Topic:**[Pre-authorization requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agents-pre-auth-requests.md)
 
-## Related
-
-- [[mco-pre-auth-form|Pre-authorization form]]
-- [[mco-pre-auth-job-details-form|Pre-authorization job details form]]
-- [[mco-pre-auth-review|Review and approve a pre-authorization request]]
-- [[mco-agents-pre-auth-requests|Pre-authorization requests]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]

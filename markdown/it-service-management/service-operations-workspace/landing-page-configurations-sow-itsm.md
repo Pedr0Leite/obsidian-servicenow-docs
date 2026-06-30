@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Landing page configurations in Service Operations Workspace for ITSM
 
-You can configure the data on the [[dex-workspace-dashboard-tab|landing page]] from [[admin-center-sow|Admin Center in Service Operations Workspace for ITSM]].
+You can configure the data on the landing page from Admin Center in Service Operations Workspace for ITSM.
 
 -   **[Configure record creation from the new tab menu in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-new-tab-records.md)**  
 Customize the records that can be created from the new tab menu in all pages of Service Operations Workspace.
@@ -39,7 +39,3 @@ Configure the data displayed in the **Upcoming** section.
 
 **Parent Topic:**[Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[admin-center-sow|Admin Center in Service Operations Workspace for ITSM]]

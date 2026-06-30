@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 View the license usage breakdown for CrowdStrike products to understand how your license rights are used and the methodology behind license calculations.
 
-View the license usage breakdown for your CrowdStrike products by navigating to the **[[sam-workspace|Software Asset Workspace]]** &gt; **License usage** &gt; **Publishers**. Select the publisher card for CrowdStrike to view the license usage on the Publisher details page.
+View the license usage breakdown for your CrowdStrike products by navigating to the **Software Asset Workspace** &gt; **License usage** &gt; **Publishers**. Select the publisher card for CrowdStrike to view the license usage on the Publisher details page.
 
 <table id="table_aqj_ktx_13c"><thead><tr><th>
 
@@ -59,6 +59,3 @@ License metric for CrowdStrike that identifies how licenses are measured, billed
 
 [View calculations for your licenses in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/licenses-required-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

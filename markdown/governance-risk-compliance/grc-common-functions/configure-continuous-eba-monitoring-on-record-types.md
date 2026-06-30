@@ -22,7 +22,7 @@ Role required:sn\_grc\_ent\_access.admin or sn\_grc\_ent\_access.bulk\_access\_a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity based record access rules**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity based record access rules**.
 
 2.  Select **New**.
 
@@ -57,6 +57,3 @@ When record attribute user access is configured, users and groups referenced in 
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

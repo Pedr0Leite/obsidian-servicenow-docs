@@ -14,14 +14,14 @@ breadcrumb: [Configure the Security Analyst Workspace, Install and configure Sec
 
 # Security Analyst Workspace properties
 
-These system properties are used to [[sir-new-ui-configure|configure the Security Analyst Workspace]].
+These system properties are used to configure the Security Analyst Workspace.
 
 There are two types of properties:
 
 -   Properties that are typically not modified like sys\_ids and product keys.
 -   Properties that are modified as required like long poll intervals and user interface configurations.
 
-**Note:** The Security Analyst Workspace properties are located at this [[location|location]]: **Security Incident** &gt; **Analyst Workspace Setup** &gt; **Analyst Workspace Properties**.
+**Note:** The Security Analyst Workspace properties are located at this location: **Security Incident** &gt; **Analyst Workspace Setup** &gt; **Analyst Workspace Properties**.
 
 <table id="table_ftv_dry_hhb"><thead><tr><th>
 
@@ -237,7 +237,7 @@ Controls the frequency \(in milliseconds\) at which the result data is refreshed
 
 </td></tr><tr><td>
 
-ID for the [[security-operations-landing-page|Security Operations]] Integration - Isolate Host workflow.
+ID for the Security Operations Integration - Isolate Host workflow.
 
  sn\_app\_secops\_ui.workflow.id.isolate\_host
 
@@ -314,7 +314,7 @@ ID for the Microsoft Exchange - Perform Email Search and Delete workflow.
 
 </td></tr><tr><td>
 
-ID for the Add to Deny list custom action under the [[threat-intelligence-security-center-overview|Explore]] tab in the Security Analyst Workspace.
+ID for the Add to Deny list custom action under the Explore tab in the Security Analyst Workspace.
 
  sn\_app\_secops\_ui.explore.action.direct.id.deny\_list
 
@@ -336,7 +336,7 @@ ID for the Add to Allow list custom action under the Explore tab in the Security
 
 </td></tr><tr><td>
 
-ID for the [[tisc-run-threat-lookup|Run Threat Lookup]] UI Action.
+ID for the Run Threat Lookup UI Action.
 
  sn\_app\_secops\_ui.explore.action.id.run\_threat\_lookup
 
@@ -347,7 +347,7 @@ ID for the [[tisc-run-threat-lookup|Run Threat Lookup]] UI Action.
 
 </td></tr><tr><td>
 
-ID for the [[tisc-threat-lookup|Threat Lookup]] integration capability.
+ID for the Threat Lookup integration capability.
 
  sn\_app\_secops\_ui.explore.capability.id.threat\_lookup
 
@@ -358,7 +358,7 @@ ID for the [[tisc-threat-lookup|Threat Lookup]] integration capability.
 
 </td></tr><tr><td>
 
-ID for the [[tisc-observable-enrichment|Observable Enrichment]] custom action under the Explore tab in the Security Analyst Workspace.
+ID for the Observable Enrichment custom action under the Explore tab in the Security Analyst Workspace.
 
  sn\_app\_secops\_ui.explore.action.id.observable\_enrichment
 
@@ -402,7 +402,7 @@ ID for the Block Request UI Action.
 
 </td></tr><tr><td>
 
-ID for the Run [[indicator-sightings|Sightings]] Search UI Action.
+ID for the Run Sightings Search UI Action.
 
  sn\_app\_secops\_ui.explore.action.id.sightings\_search
 
@@ -457,7 +457,7 @@ ID for the Isolate Host UI Action.
 
 </td></tr><tr><td>
 
-ID for the Add Multiple [[c_Observables|Observables]] UI Action.
+ID for the Add Multiple Observables UI Action.
 
  sn\_app\_secops\_ui.explore.action.id.multiple\_observable
 
@@ -479,15 +479,3 @@ Product key for ag-Grid-Enterprise.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-new-ui-configure|Configure the Security Analyst Workspace]]
-- [[location|Location]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

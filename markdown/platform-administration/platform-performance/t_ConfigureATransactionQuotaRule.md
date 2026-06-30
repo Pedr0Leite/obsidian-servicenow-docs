@@ -25,10 +25,10 @@ Role required: admin
 Transaction quota rules allow you to specify the following conditions.
 
 -   The conditions under which the policy applies.
--   The order in which [[c_TransactionQuotas|transaction quotas]] apply.
+-   The order in which transaction quotas apply.
 -   The maximum duration of a transaction before the quota manager cancels it.
 
-Before setting transaction quotas, navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Active Transactions** to review the normal transaction activities for your instance. You can [view and terminate long-running transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md) if necessary. Over time, you can determine the normal transaction load for your instance and set your quotas to match these norms.
+Before setting transaction quotas, navigate to **All** &gt; **User Administration** &gt; **Active Transactions** to review the normal transaction activities for your instance. You can [view and terminate long-running transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md) if necessary. Over time, you can determine the normal transaction load for your instance and set your quotas to match these norms.
 
 **Warning:** Setting transaction quotas too low can severely impact your users and prevent normal instance operations. Test your transaction quotas rigorously before implementing them in production.
 
@@ -36,35 +36,27 @@ Before setting transaction quotas, navigate to **All** &gt; **[[c_UserAdministra
 
 1.  If necessary, activate the Transaction Quotas plugin.
 
-    To verify whether the Transaction Quotas plugin is already active, navigate to **Admin** &gt; **[[application-manager|Application Manager]]** and search for Transaction Quotas in Application Manager. If the plugin is included in the **Installed** tab, it is already activated.
+    To verify whether the Transaction Quotas plugin is already active, navigate to **Admin** &gt; **Application Manager** and search for Transaction Quotas in Application Manager. If the plugin is included in the **Installed** tab, it is already activated.
 
 2.  Navigate to **All** &gt; **System Definition** &gt; **Quota Rules**.
 
 3.  Click **New**.
 
-4.  On the [[transaction-quota-rule-form|Transaction Quota Rule form]], fill in the fields.
+4.  On the Transaction Quota Rule form, fill in the fields.
 
     For a description of the field values, see [Transaction quota rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-quota-rule-form.md).
 
 5.  Set a condition to specify when the transaction quota should take effect.
 
-    The [[transaction-quota-condition-builder|transaction quota rule condition builder]] displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Transaction quota rule condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-quota-condition-builder.md).
+    The transaction quota rule condition builder displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Transaction quota rule condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-quota-condition-builder.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
 **Related topics**  
 
 
 [Optimize widget rendering time on responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_optimizeWidgetRenderingTime.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[c_TransactionQuotas|Transaction quotas]]
-- [[c_UserAdministration|User administration]]
-- [[application-manager|Application Manager]]
-- [[transaction-quota-rule-form|Transaction quota rule form]]
-- [[transaction-quota-condition-builder|Transaction quota rule condition builder]]

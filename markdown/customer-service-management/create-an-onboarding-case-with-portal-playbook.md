@@ -12,17 +12,17 @@ breadcrumb: [Using Playbooks for Portals, Customer communication, Use, Customer 
 
 # Creating an onboarding case with Playbooks for Portals
 
-Whether you're a contact or a consumer, you can [[create-onboarding-case|create an onboarding case]] with a case type that is based on the issue or request in either the Customer Service Portal or Consumer Service Portal.
+Whether you're a contact or a consumer, you can create an onboarding case with a case type that is based on the issue or request in either the Customer Service Portal or Consumer Service Portal.
 
 ## Playbooks for Portals overview
 
-With [[playbooks-for-portals|Playbooks for Portals]], you get a clear roadmap where you can see your progress in the submission process and in the remaining steps that you have left to complete. If needed, you can easily navigate back to a previous step. To expedite the process, you’re presented with the options and input controls so that you can quickly and accurately input your information. Additionally, you can save an application or form that is not yet ready for submission so that you can resume work on it later. After saving the case, you can access the playbook through the case [[migration-lists|lists]] and find your saved drafts in the case list view on the **My Draft Cases** tab.
+With Playbooks for Portals, you get a clear roadmap where you can see your progress in the submission process and in the remaining steps that you have left to complete. If needed, you can easily navigate back to a previous step. To expedite the process, you’re presented with the options and input controls so that you can quickly and accurately input your information. Additionally, you can save an application or form that is not yet ready for submission so that you can resume work on it later. After saving the case, you can access the playbook through the case lists and find your saved drafts in the case list view on the **My Draft Cases** tab.
 
-These playbooks are designed to guide you through the steps of the intake process. Within the playbooks, you can locate the tasks that are assigned to the case, view all ongoing activities with the associated actions, and do the actions on the assigned tasks. The [[csm-config-ws-activity-stream|activity stream]] for the case playbook enables you to track your progress. If it's available, you can also see the related information about the case.
+These playbooks are designed to guide you through the steps of the intake process. Within the playbooks, you can locate the tasks that are assigned to the case, view all ongoing activities with the associated actions, and do the actions on the assigned tasks. The activity stream for the case playbook enables you to track your progress. If it's available, you can also see the related information about the case.
 
 ## Navigating the catalog to create an onboarding request
 
-You can navigate the catalog to create a new onboarding request from the Customer or Consumer Service Portals. For detailed steps, see [[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]].
+You can navigate the catalog to create a new onboarding request from the Customer or Consumer Service Portals. For detailed steps, see [Create an onboarding request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-request-from-catalog.md).
 
 ## Workflow steps
 
@@ -45,15 +45,7 @@ The following diagram shows how a customer creates a case.
 **Related topics**  
 
 
-[[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]
+[Creating a guided onboarding case from CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-guided-onboarding-case-from-workspace.md)
 
 [Create an onboarding request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-request-from-catalog.md)
 
-## Related
-
-- [[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]]
-- [[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]
-- [[create-onboarding-case|Create an onboarding case]]
-- [[playbooks-for-portals|Playbooks for Portals]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]

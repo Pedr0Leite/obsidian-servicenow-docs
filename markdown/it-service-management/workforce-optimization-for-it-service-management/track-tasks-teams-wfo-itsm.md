@@ -39,7 +39,7 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
     -   You can view the work shifts of all of your agents for all teams you manage. When you select the shift, the pop-up displays the shift details such as the shift time span and agent break times.
     -   In the contextual side panel, select the Filter icon \( \[Omitted image "filter-icon.png"\] Alt text: Filter icon\) and then select any filter, add the desired criteria, and select **Apply** to narrow down the display of the team members in the calendar. You can filter based on your team's assignment group, skills, location, schedule plan, or shift plan.
-3.  If you don’t have any queue configurations in the Work scheduler, select the queue [[settings-mobile|settings]] icon \(\[Omitted image "queuefilter.png"\] Alt text: Queue filter icon\) and then enable up to five work item types.
+3.  If you don’t have any queue configurations in the Work scheduler, select the queue settings icon \(\[Omitted image "queuefilter.png"\] Alt text: Queue filter icon\) and then enable up to five work item types.
 
     The application creates a queue configuration and corresponding filters for each enabled work item type.
 
@@ -65,7 +65,7 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
     1.  From the **Queue** menu, select a work item to view related tasks.
 
-        For example, if you select **[[process-unassigned-incident|Unassigned Incidents]]**, you can see all tasks related to the Unassigned Incident queue.
+        For example, if you select **Unassigned Incidents**, you can see all tasks related to the Unassigned Incident queue.
 
         You can select a time zone to view the agent schedule in that time zone.
 
@@ -116,7 +116,3 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
 **Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-scheduler-wfo-itsm.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[process-unassigned-incident|Unassigned incidents]]

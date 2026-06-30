@@ -63,7 +63,7 @@ System decision
 
 </td><td>
 
-The setting defines if [[c_ServiceMappingOverview|Service Mapping]] keeps the discovered traffic-based connection or removes it. The value comes from the algorithm that Service Mapping uses.
+The setting defines if Service Mapping keeps the discovered traffic-based connection or removes it. The value comes from the algorithm that Service Mapping uses.
 
 </td></tr><tr><td>
 
@@ -76,6 +76,3 @@ User decision
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

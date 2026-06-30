@@ -34,7 +34,7 @@ Users that the investment owner adds in the **Viewable by** field can also revie
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Click an investment card to open an active investment to review fund allocations.
 
@@ -53,6 +53,3 @@ Users that the investment owner adds in the **Viewable by** field can also revie
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

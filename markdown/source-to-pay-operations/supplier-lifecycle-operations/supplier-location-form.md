@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Add New Location form
 
-Use the Add New Location form to provide details about the location of a [[supplier|supplier]].
+Use the Add New Location form to provide details about the location of a supplier.
 
 <table id="table_l33_pt5_msb"><thead><tr><th>
 
@@ -135,6 +135,3 @@ You can select multiple values from the choice list.
 
 [Add a supplier location from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-location.md)
 
-## Related
-
-- [[supplier|Supplier]]

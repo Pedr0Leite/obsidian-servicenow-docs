@@ -14,11 +14,11 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # AI cases tab in AI Control Tower
 
-Track, monitor, and analyze your AI case workflows, identify your workflow bottlenecks, and check your accountability of your AI-related risks by using the AI risk and compliance dashboard. As an AI steward, you can also use the dashboard to track the status and trends of your AI-related [[inquiries|inquiries]].
+Track, monitor, and analyze your AI case workflows, identify your workflow bottlenecks, and check your accountability of your AI-related risks by using the AI risk and compliance dashboard. As an AI steward, you can also use the dashboard to track the status and trends of your AI-related inquiries.
 
 ## AI cases
 
-The **AI [[cases|cases]]** tab on the AI risk and compliance dashboard provides the key metrics, trends, and actionable tasks that you can use to track your AI risks, case activities, compliance tracking, and governance enforcement. You can get case-level insights, task-level tracking, and accountability for your responsibilities and progress. As an AI steward, you can report a case when a violation is found. An AI analyst also follows the case and comes up with a resolution.
+The **AI cases** tab on the AI risk and compliance dashboard provides the key metrics, trends, and actionable tasks that you can use to track your AI risks, case activities, compliance tracking, and governance enforcement. You can get case-level insights, task-level tracking, and accountability for your responsibilities and progress. As an AI steward, you can report a case when a violation is found. An AI analyst also follows the case and comes up with a resolution.
 
 You can drill down into the data on each of the following widgets to learn more about an AI case.
 
@@ -44,7 +44,7 @@ You can drill down into the data on each of the following widgets to learn more 
 
     Visual patterns and historical data that are associated with the AI cases:
 
-    -   AI cases by subtype widget: Trends by different categories of the AI case subtypes. You can group data by business unit, location, or primary cause to get contextual insight into the issues or AI cases patterns across the departments or systems. You can filter by [[ai-assets|AI assets]].
+    -   AI cases by subtype widget: Trends by different categories of the AI case subtypes. You can group data by business unit, location, or primary cause to get contextual insight into the issues or AI cases patterns across the departments or systems. You can filter by AI assets.
     -   Open and closed cases widget: Historical trends of the case resolutions over a specified time frame. You can see the historical trends in the last 12 months. The historical trends help stakeholders to analyze the volume fluctuations and how efficiently the cases were closed.
 
         For example, in the last 12 months, consider that 4,200 cases were created and 3,960 cases were closed. The average time of case closure was 2.8 days, the peak case volume was in January 2025 \(510 cases were created\), and the fastest case resolution month was March 2025. You can see that over the past 12 months, the case closure efficiency has steadily improved, with a 12% decrease in the average resolution time compared to the previous year.
@@ -60,7 +60,7 @@ You can drill down into the data on each of the following widgets to learn more 
         -   Counts of issues that are linked to AI cases by their states like New, Review, or Responds.
         -   Counts of issues that are linked to AI cases by additional details like Overdue, Due in 7 days, or Unassigned.
 
-You can create AI cases and issues from the AI cases tab in both the [[ai-control-tower-landing|AI Control Tower]] Workspace and the AI Risk and Compliance Workspace. The Create AI case button lets you initiate a new AI case record directly from the monitoring dashboard. Use this option to document, investigate, or track issues, risks, or compliance concerns related to [[ai-models|AI models]] or [[ai-datasets|datasets]]. Select the dropdown arrow next to Create AI case, and then select Create issue to create an issue related to an existing AI case.
+You can create AI cases and issues from the AI cases tab in both the AI Control Tower Workspace and the AI Risk and Compliance Workspace. The Create AI case button lets you initiate a new AI case record directly from the monitoring dashboard. Use this option to document, investigate, or track issues, risks, or compliance concerns related to AI models or datasets. Select the dropdown arrow next to Create AI case, and then select Create issue to create an issue related to an existing AI case.
 
 You can also submit AI cases anonymously through the Employee Center. A Visit Anonymous Reporting card is available in the Support resources section of the AI assets page in the Employee Center, enabling users to report AI-related concerns without disclosing their identity. For more information, see  and .
 
@@ -114,11 +114,3 @@ The following example shows the **Inquiries** tab on the AI risk and compliance 
 
 For more information, see AI Risk and Compliance documentation.
 
-## Related
-
-- [[inquiries|Inquiries]]
-- [[cases|Cases]]
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]

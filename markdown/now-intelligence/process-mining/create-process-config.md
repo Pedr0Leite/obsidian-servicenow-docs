@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Process Configurations** &gt; **All configurations**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations** &gt; **All configurations**.
 
     A list of process configurations that are already created is displayed.\[Omitted image "process-congif-classic.png"\] Alt text: Process configurations in classic view
 
@@ -60,7 +60,7 @@ Select a KPI dashboard.
 
 </td></tr><tr><td>
 
-[[auto-rca|Automated Root Cause Analysis]]
+Automated Root Cause Analysis
 
 </td><td>
 
@@ -68,7 +68,7 @@ Select to set the automated root cause analysis. For more information, see [Auto
 
 </td></tr><tr><td>
 
-[[cluster-analysis|Cluster Analysis]]
+Cluster Analysis
 
 </td><td>
 
@@ -100,8 +100,3 @@ Select to set the automated improvement opportunities either from the Classic vi
 
 **Parent Topic:**[Creating process configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/creating-process-config.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[auto-rca|Automated root cause analysis]]
-- [[cluster-analysis|Cluster analysis]]

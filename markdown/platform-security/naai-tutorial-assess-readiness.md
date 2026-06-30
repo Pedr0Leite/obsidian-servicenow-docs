@@ -12,13 +12,13 @@ breadcrumb: [Create and secure an AI agent in Now Assist, Agentic AI security an
 
 # Assess readiness
 
-Verify that your instance is prepared for AI agent deployment, install the required applications, assign the required roles, and classify user [[identity-landing|identity]] types before you begin building.
+Verify that your instance is prepared for AI agent deployment, install the required applications, assign the required roles, and classify user identity types before you begin building.
 
 Before building an AI agent, verify that your instance meets the technical and organizational requirements for deployment. Identifying and resolving gaps now helps to prevent blockers during the build and testing stages.
 
 ## Run the readiness evaluation
 
-The Now Assist Readiness Evaluation app automates the process of checking whether your instance is ready for generative AI and agentic AI deployment. It identifies [[sc-configuration|configuration]] gaps, data readiness issues, and customizations that could affect your implementation, and provides direct links to resolve each issue. Activate the Now Assist Readiness Evaluation \[sn\_assess\] plugin to use this feature. Learn more about this evaluation at Now Assist Readiness Evaluation.
+The Now Assist Readiness Evaluation app automates the process of checking whether your instance is ready for generative AI and agentic AI deployment. It identifies configuration gaps, data readiness issues, and customizations that could affect your implementation, and provides direct links to resolve each issue. Activate the Now Assist Readiness Evaluation \[sn\_assess\] plugin to use this feature. Learn more about this evaluation at Now Assist Readiness Evaluation.
 
 **Important:** Don't proceed until all blocking issues identified by the readiness evaluation have been resolved.
 
@@ -43,35 +43,24 @@ Once the required applications are installed, assign the following roles to the 
 
 -   **__sn\_nowassist\_admin.nsa\_admin__**
 
-    Required to configure Now Assist Admin settings, activate guardrails, and manage privacy [[ca-policies|policies]].
+    Required to configure Now Assist Admin settings, activate guardrails, and manage privacy policies.
 
 -   **__sn\_generative\_ai.data\_steward__**
 
-    Required to make data sharing decisions and configure privacy policies. Assign this role before configuring [[naai-data-protection|data protection]] settings in [[naai-tutorial-configure-security|Configure security controls]].
+    Required to make data sharing decisions and configure privacy policies. Assign this role before configuring data protection settings in [Configure security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-configure-security.md).
 
 
 For a full list of roles installed with Now Assist, see [Now Assist Admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/roles-installed-with-now-assist-admin.md).
 
 ## Classify user identity types
 
-The ServiceNow AI Platform uses the **Identity type** field on the User \[**sys\_user**\] table to distinguish between human [[users|users]], AI agent users, and machine accounts. Classifying users correctly before you build ensures that your [[sc-access-control|access control]] and role masking configuration works as intended.
+The ServiceNow AI Platform uses the **Identity type** field on the User \[**sys\_user**\] table to distinguish between human users, AI agent users, and machine accounts. Classifying users correctly before you build ensures that your access control and role masking configuration works as intended.
 
 For any dedicated AI user accounts your agents will run as, set the Identity type to **AI Agent**. Existing human user records default to **Unclassified** until updated. Records with the web service account flag set to true are automatically classified as **Machine**.
 
 ## Next step
 
-When your instance passes the readiness evaluation and roles are assigned, proceed to [[naai-tutorial-plan-agent|Plan your agent]].
+When your instance passes the readiness evaluation and roles are assigned, proceed to [Plan your agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-plan-agent.md).
 
-**Parent Topic:**[[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 
-## Related
-
-- [[naai-tutorial-configure-security|Configure security controls]]
-- [[naai-tutorial-plan-agent|Plan your agent]]
-- [[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]
-- [[naai-data-protection|Data protection]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]

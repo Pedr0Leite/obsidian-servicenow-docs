@@ -13,7 +13,7 @@ breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get sta
 
 # Getting products
 
-Procure products from the [[servicenow-store|ServiceNow Store]] based on the terms of your license. A product is a collection of functionalities, typically including multiple applications, that aims to fulfill a category of business need.
+Procure products from the ServiceNow Store based on the terms of your license. A product is a collection of functionalities, typically including multiple applications, that aims to fulfill a category of business need.
 
 ## Overview of getting products
 
@@ -25,12 +25,7 @@ From the product details page, you can see all applications included in the prod
 
 \[Omitted image "store-products-page.png"\] Alt text: Some apps in the product Integrated Risk Management are labeled "Ready to install." Others are labeled "License not found" and require purchase.
 
-Each unlicensed application in a product must be procured individually. Select each unlicensed application and request procurement from the application details page. For more information, see [[buy-servicenow-app|Buy a ServiceNow application]].
+Each unlicensed application in a product must be procured individually. Select each unlicensed application and request procurement from the application details page. For more information, see [Buy a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-servicenow-app.md).
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[buy-servicenow-app|Buy a ServiceNow application]]
-- [[administering-applications|Administering applications]]
-- [[servicenow-store|ServiceNow Store]]

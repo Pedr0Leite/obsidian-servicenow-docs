@@ -23,7 +23,7 @@ Role required: password\_reset\_admin
 1.  Be sure to [Plan your Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_PlanPasswordReset.md).
 2.  Create the credential store record for user names and passwords that are managed.
 
-    **Note:** For LDAP integrations: If the Active Directory settings require users to reset the password when logging in, the results depend on the installed [[password-reset-landing-page|Password Reset]] plugin.
+    **Note:** For LDAP integrations: If the Active Directory settings require users to reset the password when logging in, the results depend on the installed Password Reset plugin.
 
     -   The Password Reset plugin cannot change an AD password. End users will not be able to log in to the instance.
     -   The Self Service Password Reset plugin depends on the Password Reset Basic plugin. Self service is intended for password reset only on the local ServiceNow instance and cannot change an AD password. In order to change AD password, you must install the **Microsoft AD spoke for Password Reset**.
@@ -31,9 +31,9 @@ Role required: password\_reset\_admin
 3.  Define the verifications that the process can use.
 4.  Configure Password Reset to auto-enroll users or to enable users to enroll for the program. See [Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-auto-enroll-for-pwd-reset.md) and [Enable users to enroll for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-user-enroll-for-pwd-reset.md).
 
-[[password-reset-admin-guide|Configuring password reset]] for external users: External users \(users with the snc\_external role\) cannot manually enroll their devices in the password reset system. Security restrictions prevent external users from writing data to the password reset enrollment tables, and the enrollment form is not accessible to external users by default.
+Configuring password reset for external users: External users \(users with the snc\_external role\) cannot manually enroll their devices in the password reset system. Security restrictions prevent external users from writing data to the password reset enrollment tables, and the enrollment form is not accessible to external users by default.
 
-To enable password reset for external users, configure an automatic verification that does need manual enrollment such as Personal data verification or [[email|Email]] Code or SMS Code verification. Make sure that their email address or phone number is already stored in their user record.
+To enable password reset for external users, configure an automatic verification that does need manual enrollment such as Personal data verification or Email Code or SMS Code verification. Make sure that their email address or phone number is already stored in their user record.
 
 To configure automatic verification for external users:
 
@@ -62,7 +62,7 @@ A Password Reset process consists of the following elements:
 
 3.  Select the **Credential store** that contains the user credentials that the process applies to.
 
-4.  Specify the process that you are defining: Select the **Password reset** [[check-box|check box]], the **Password change** check box, or both check boxes.
+4.  Specify the process that you are defining: Select the **Password reset** check box, the **Password change** check box, or both check boxes.
 
 5.  Specify the **Apply to all users** setting.
 
@@ -71,7 +71,7 @@ A Password Reset process consists of the following elements:
     |**Selected**|All users use the process that you are defining. This setting is useful only if all users have access to the authentication methods that are defined in this process.|
     |**Not selected**|Only the users in the groups that you specify use the process. You specify the groups in the **Groups** related list.|
 
-    For more information about the fields on the [[configure-password-reset-form|Password Reset Process form]], see [Password Reset Process form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-password-reset-form.md).
+    For more information about the fields on the Password Reset Process form, see [Password Reset Process form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-password-reset-form.md).
 
 6.  For Password Reset, configure settings on the **Password Reset Details** tab.
 
@@ -134,10 +134,3 @@ To use the Google reCAPTCHA service, instances that are running on a domain othe
 
 [Configure the required strength for passwords](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-strength-rqmts.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[password-reset-admin-guide|Configuring Password Reset]]
-- [[email|Email]]
-- [[check-box|Check box]]
-- [[configure-password-reset-form|Password Reset Process form]]

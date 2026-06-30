@@ -15,7 +15,7 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Using Virtual Agent Bot Interconnect in your configuration
 
-Use [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect to create a unified chat experience across multiple channels. You can support secondary bots, such as Google Dialogflow, Microsoft Power Virtual Agents, and ServiceNow® Virtual Agent.
+Use Virtual Agent Bot Interconnect to create a unified chat experience across multiple channels. You can support secondary bots, such as Google Dialogflow, Microsoft Power Virtual Agents, and ServiceNow® Virtual Agent.
 
 Virtual Agent Bot Interconnect functions as the primary bot in a diverse chat environment. It can help you reduce complexity and create a unified chat experience for your end users. Virtual Agent Bot Interconnect gives your end users access to multiple channels and a wide variety of enterprise tasks that are available from ServiceNow.
 
@@ -98,7 +98,7 @@ All input controls and bot response controls are supported.
 
     In this example, `text`, `info`, `description`, and so forth are the control types that correspond to the secondary bot. The specified method \(such as transformText is called to do the transformation for the control type. For each secondary bot response, Virtual Agent uses the getControlType method to return the control type specified in the transformation map for the secondary bot message. The inbound transformer in Google Dialogflow provides a good example for how to use this.
 
-    If the transformation method called does not exist, [[virtual-agent-api-landing-page|Virtual Agent API]] logs it as an error.
+    If the transformation method called does not exist, Virtual Agent API logs it as an error.
 
 -   **Live agent connection**
 
@@ -123,7 +123,3 @@ Virtual Agent Bot Interconnect enables you to use ServiceNow® Virtual Agent as 
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

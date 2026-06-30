@@ -14,7 +14,7 @@ breadcrumb: [Automated certificate management for TLS certificates, Configuring 
 
 # Request new certificate using automated certificate management
 
-Request a new certificate and automatically retrieve the certificates for an application using automated certificate management. [[cert-inventory-mgmt|Certificate Inventory and Management]] Version 2.1.0 supports requesting certificates from DigiCert and Entrust CA Gateway. Version 2.3.2 also supports Microsoft CA.
+Request a new certificate and automatically retrieve the certificates for an application using automated certificate management. Certificate Inventory and Management Version 2.1.0 supports requesting certificates from DigiCert and Entrust CA Gateway. Version 2.3.2 also supports Microsoft CA.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Certificate requester is a user who does not have the PKI Admin or PKI User role
 -   If multiple tasks are created for the same CSR and Allow Duplication is not checked in the routing policy, the task fails.
 -   If the validity period exceeds the matched routing policy validity period, the task fails.
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

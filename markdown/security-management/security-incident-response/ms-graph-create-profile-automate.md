@@ -14,7 +14,7 @@ breadcrumb: [Create a profile, Microsoft Graph Security API alert ingestion inte
 
 # Automate alert updates and closure based on SIR incident status
 
-The [[ms-graph-about|Microsoft Graph Security API alert ingestion integration]] has a bi-directional interface that allows for both alerts to create security incidents, as well as an ability to update the alerts once the security incident is created and/or closed with relevant incident details such as SIR incident number, assignment group, SIR incident URL, and so on. T
+The Microsoft Graph Security API alert ingestion integration has a bi-directional interface that allows for both alerts to create security incidents, as well as an ability to update the alerts once the security incident is created and/or closed with relevant incident details such as SIR incident number, assignment group, SIR incident URL, and so on. T
 
 ## Before you begin
 
@@ -89,6 +89,4 @@ The default closure comments are displayed here. You can edit the default text a
 
     A confirmation dialog is displayed. You have successfully completed the setup and configuration for the integration. Activate this profile to pull alerts from the Microsoft Azure tenant based on your scheduling. A maximum of 1000 security incidents can be created within a 24 hour period.
 
-## Related
 
-- [[ms-graph-about|Microsoft Graph Security API alert ingestion integration]]

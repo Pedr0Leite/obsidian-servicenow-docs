@@ -15,7 +15,7 @@ breadcrumb: [Create New Invoice Line form, Reference, Accounts Payable Operation
 
 # Create New Invoice form
 
-Field descriptions for the Create New Invoice form, organized by section, for entering invoice details, [[supplier|supplier]] information, accounting data, and address fields.
+Field descriptions for the Create New Invoice form, organized by section, for entering invoice details, supplier information, accounting data, and address fields.
 
 <table id="table_lwn_2jj_lvb"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Type
 
 </td><td>
 
-The type of invoice.**Note:** [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] supports [[invoices|invoices]] of type **PO invoice** and **Non-PO invoice**.
+The type of invoice.**Note:** Accounts Payable Operations supports invoices of type **PO invoice** and **Non-PO invoice**.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Supplier who delivers the product or service.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]]
+Purchase order
 
 </td><td>
 
@@ -142,7 +142,7 @@ Purchase order associated with this invoice.**Note:** For **Non-PO invoice** the
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -254,7 +254,7 @@ Accounting Details
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -410,11 +410,3 @@ Field descriptions and data types for the outbound invoice table used to transfe
 
 **Parent Topic:**[Create New Invoice Line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[payment-terms|Payment terms]]
-- [[legal-entity|Legal entity]]

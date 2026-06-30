@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Cornerstone external content connector
 
-The Cornerstone external content connector retrieves Catalogue and Learning objects from organization units in your Cornerstone Learning Management System \(LMS\) and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Cornerstone external content connector retrieves Catalogue and Learning objects from organization units in your Cornerstone Learning Management System \(LMS\) and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to update searchable content and metadata from your source system. Content crawls feed their data to AI Search for indexing.
 
@@ -35,6 +35,3 @@ Specify the organization units you want your Cornerstone external content connec
 
 [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-content-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

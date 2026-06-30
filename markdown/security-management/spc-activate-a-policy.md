@@ -12,15 +12,15 @@ breadcrumb: [Use the workspace, Security Posture Control, Security Operations]
 
 # Activate a policy included with the Security Posture Control application
 
-Policies that are included with the application must be activated before [[spc-landing|Security Posture Control]] can monitor the assets that match that policy. By default, none of the policies included with the application are activated.
+Policies that are included with the application must be activated before Security Posture Control can monitor the assets that match that policy. By default, none of the policies included with the application are activated.
 
 ## Before you begin
 
 You must verify that all the required prerequisites are met before you activate the policies that are included with the application.
 
 -   Verify required Service Graph Connectors activated.
--   Verify any required applications such as [[vuln-landing-page|Vulnerability Response]] are installed and activated, if applicable.
--   For more information about policies used for mitigation controls monitoring, see [[spc-mitigation-policies|Mitigation controls policies]].
+-   Verify any required applications such as Vulnerability Response are installed and activated, if applicable.
+-   For more information about policies used for mitigation controls monitoring, see [Mitigation controls policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-policies.md).
 
 **Note:**
 
@@ -64,7 +64,7 @@ Configure findings
 
 Select **Yes** in the modal to generate findings for the policy.
 
- Select the **Configure assignment rules** link to set up assignment rules in the [[vr-config-compliance-landing|Configuration Compliance]] application to assign any findings for your policy for resolution.
+ Select the **Configure assignment rules** link to set up assignment rules in the Configuration Compliance application to assign any findings for your policy for resolution.
 
  **Note:** For policies you create with ‘Software’ as the Asset type, you can save the policy and create custom insights, but you cannot configure findings from the policy record.
 
@@ -76,7 +76,7 @@ Clone policy
 
 Create a new policy with all the conditions from the displayed policy as a starting point.
 
- See [[spc-create-policy|Create and activate custom policies for Security Posture Control]] for more information.
+ See [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md) for more information.
 
 </td></tr><tr><td>
 
@@ -104,11 +104,3 @@ Open a new tab and view the matching assets if available. Findings are also refe
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[spc-mitigation-policies|Mitigation controls policies]]
-- [[spc-create-policy|Create and activate custom policies for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 Domain separation for Customer Service Management is designed for:
 
 -   **Customers using the application in a domain-separated environment or in a hybrid environment**. With domain separation, a customer can grant access to end users \(contacts or consumers\) to other entities in addition to customer service cases. For example, contacts or consumers can access problems, changes, or projects. Administrators can synchronize the CSM account model with the domain structure and maintain data separation for entities that don’t have account-based data separation enabled.
--   **Managed service providers \(MSPs\) using the application to provide customer support**. In this scenario, an MSP can provide support to multiple customers, where domains are necessary to contain all relevant [[customer-data|customer data]] and processes. For example, an MSP providing support to customers related to billing questions, contract renewals, or other non-service operations.
+-   **Managed service providers \(MSPs\) using the application to provide customer support**. In this scenario, an MSP can provide support to multiple customers, where domains are necessary to contain all relevant customer data and processes. For example, an MSP providing support to customers related to billing questions, contract renewals, or other non-service operations.
 -   **Managed service providers offering the application as a service that customers can provide to their customers**. In this scenario, an MSP can offer Customer Service Management as a service to customers who, in turn, use the application to support their end customers. This scenario requires additional configuration due to domain support for some of the core entities in the platform such as Product Model.
 
 ## How domain separation works in Customer Service Management
@@ -54,7 +54,7 @@ When the **csm\_auto\_account\_domain\_generation** property is enabled, the Cus
 
 ## Changes to Customer Service Management tables
 
-Domain separation for Customer Service Management adds the **Domain** and **Domain Path** fields to the Account \[customer\_account\] table. These fields aren’t exposed by default. Customers can customize [[migration-lists|lists]] and [[migration-forms|forms]] to view these fields.
+Domain separation for Customer Service Management adds the **Domain** and **Domain Path** fields to the Account \[customer\_account\] table. These fields aren’t exposed by default. Customers can customize lists and forms to view these fields.
 
 ## Account domains and related entities
 
@@ -68,9 +68,9 @@ When creating related entities for an account, the domain for the related entiti
 -   Addresses
 -   Social profiles
 -   Escalations
--   [[sold-product|Sold Products]]
--   [[installed-products|Installed Products]]
--   [[install-base-item|Install Base Items]]
+-   Sold Products
+-   Installed Products
+-   Install Base Items
 -   Affected Install Base Items
 -   Sold Product Covered
 
@@ -88,28 +88,17 @@ When an escalation record is created from a case or account, it’s created in t
 
 ## Domain separation for ribbon configuration, Lookup and Verify configuration, and Special Handling Notes
 
-Ribbon and Lookup Verify configurations and [[c_OnScreenAlerts|Special Handling Notes]] support domain separation as process-separated tables.
+Ribbon and Lookup Verify configurations and Special Handling Notes support domain separation as process-separated tables.
 
 When inserting or updating a record for process-separated tables, the picker domain scope takes precedence by design with the Overrides \[sys\_override\] field on process-separated tables. For more information, see [Process administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DelegatedAdministration.md).
 
--   **[[domain_separation_csm_accounts|Domain separation and entity relationships]]**  
+-   **[Domain separation and entity relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/domain_separation_csm_accounts.md)**  
 With domain separation in Customer Service Management, you can further control visibility and access to data by using contact, partner, and parent-child relationships.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain_separation_csm_accounts|Domain separation and entity relationships]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-data|Customer data]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[sold-product|Sold products]]
-- [[installed-products|Installed products]]
-- [[install-base-item|Install base items]]
-- [[c_OnScreenAlerts|Special handling notes]]

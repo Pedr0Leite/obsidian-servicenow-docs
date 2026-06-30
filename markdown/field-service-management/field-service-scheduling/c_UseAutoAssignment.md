@@ -45,14 +45,14 @@ You can configure whether an agent's home location should be considered when aut
 
  -   If the **Use Google Maps API for travel time estimates** geolocation property is enabled, then you can select Google Maps API or straight-line estimates in the properties for calculating estimated travel time and distance.
 -   If the **Use Google Maps API for travel time estimates** is not enabled, then the system uses the value in the Estimated Travel Duration field in the work order task to determine task assignment for the agent.
--   For more information, see [[r_InstalledWithFSM|Components installed with Field Service Management]].
+-   For more information, see [Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md).
 
  **Note:** Set up the following configurations:
 
 -   Enable **Use agent or task scheduling** to calculate the estimated time to arrive.
 -   Enable **Auto-selection of agents will consider location of agents** to configure the agent’s home location.
 
-For more information about enabling the configurations, see [[t_ConfigureFieldService|Global domain configurations.]]
+For more information about enabling the configurations, see [Global domain configurations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md)
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Skills
 
 </td><td>
 
-You can configure whether an agent's skills should be considered when auto-assigning a task.If you are assigning tasks to agents based on [mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configure-mandatory-skills-feature.md) requirements, you cannot auto-assign tasks if the agent does not have the [[mandatory-skills|mandatory skills]] required to perform the task.
+You can configure whether an agent's skills should be considered when auto-assigning a task.If you are assigning tasks to agents based on [mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configure-mandatory-skills-feature.md) requirements, you cannot auto-assign tasks if the agent does not have the mandatory skills required to perform the task.
 
  **Note:** The work.management.use.mandatory.skills [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md) must be enabled to configure the agent's skills.
 
@@ -74,7 +74,7 @@ Auto-assignment considers an agent's existing schedule when auto-assigning addit
 
 </td></tr><tr><td>
 
-[[r_TaskWindows|Task windows]]
+Task windows
 
 </td><td>
 
@@ -94,7 +94,7 @@ Agent schedules
 
 </td><td>
 
-Auto-assignment considers agents schedules from [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] application to auto-assign a task only if the **Enable Shift Scheduling for FSM to Determine Availability** property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
+Auto-assignment considers agents schedules from Workforce Optimization for Field Service application to auto-assign a task only if the **Enable Shift Scheduling for FSM to Determine Availability** property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 
 </td></tr></tbody>
 </table>## Auto assignment of a request and a task
@@ -131,10 +131,4 @@ Role required: wm\_qualifier, wm\_initiator
 
 6.  To auto-assign a task that failed previously, enter any missing information or change the schedule, and save the record.
 
-## Related
 
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[mandatory-skills|Mandatory skills]]
-- [[r_TaskWindows|Task windows]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

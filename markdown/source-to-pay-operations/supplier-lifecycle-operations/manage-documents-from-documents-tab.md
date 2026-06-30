@@ -14,7 +14,7 @@ breadcrumb: [Manage documents, Using Supplier Collaboration Portal, Use, Supplie
 
 # Manage documents from Documents tab
 
-The Documents tab lets [[supplier|supplier]] contacts upload and manage documents without needing a supplier manager to initiate the process first. Supplier contacts can also manage document permissions from the Documents tab.
+The Documents tab lets supplier contacts upload and manage documents without needing a supplier manager to initiate the process first. Supplier contacts can also manage document permissions from the Documents tab.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.contact
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a `/supplier` suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a `/supplier` suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -77,7 +77,7 @@ Use this option to manage read and write permissions for a document.
 2.  Go to the **Permissions** tab.
 3.  Provide read or write access to supplier contacts, as required.
 
-**Note:** The document owner and primary [[supplier-contact|supplier contact]] are automatically granted read and write access. Secondary contacts are granted read access by default.
+**Note:** The document owner and primary supplier contact are automatically granted read and write access. Secondary contacts are granted read access by default.
 
 </td></tr><tr><td id="d196987e200">
 
@@ -109,8 +109,3 @@ Download the latest or specific version of a document.
 
 [Upload document from My Tasks page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-document-from-my-tasks-page.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]

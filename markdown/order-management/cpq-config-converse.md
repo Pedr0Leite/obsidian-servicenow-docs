@@ -26,7 +26,7 @@ To enable Config Converse, follow these steps:
 
     You’ll receive a message confirming that the features have been enabled. When the features are enabled, continue to step 2.
 
-2.  In CPQ Admin, click **[[cpq-utilities|Utilities]]**.
+2.  In CPQ Admin, click **Utilities**.
 3.  On the Utilities page, open the settings.
 4.  Click to set **Enable Smart Predict**.
 5.  Click to set **Enable Config Converse**.
@@ -47,12 +47,7 @@ To use Config Converse, type a configuration request into the prompt box, and th
 
 `I need to config a workload type of AI/ML using unstructured data types. Data will be accessed moderately frequently, with a data size of 20 TB, a growth rate of 20%, and 99.99% uptime. Data should be retained for two years. Setup will be handled in house.`
 
-Config Converse searches for relevant [[fields|fields]] based on the information in the prompt and updates the fields to generate a configuration that meets the requirements you provide. Depending on the configuration, a bill of materials \(BOM\) is also created.
+Config Converse searches for relevant fields based on the information in the prompt and updates the fields to generate a configuration that meets the requirements you provide. Depending on the configuration, a bill of materials \(BOM\) is also created.
 
-As the configuration is generated, a **Configuration AI** pane appears that shows the details of the new configuration. When the initial configuration is complete, the user is prompted to specify any changes to be made. These changes can also be specified using natural language. Users can also [[Modify|modify]] the configuration without using Config Converse.
+As the configuration is generated, a **Configuration AI** pane appears that shows the details of the new configuration. When the initial configuration is complete, the user is prompted to specify any changes to be made. These changes can also be specified using natural language. Users can also modify the configuration without using Config Converse.
 
-## Related
-
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

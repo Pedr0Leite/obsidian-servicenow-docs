@@ -18,7 +18,7 @@ FAQ related to understanding the MFA metrics.
 
 1.  How can I check the count of local logins which are not undergoing MFA?
 
-    You can navigate to **[[sec-center-v2|Security Center]]** &gt; **Security Console** &gt; **[[sc-metrics|Security Metrics]]**. Under [[ca-metrics|metrics]] for [[users|users]] click on local login not protected by MFA.
+    You can navigate to **Security Center** &gt; **Security Console** &gt; **Security Metrics**. Under metrics for users click on local login not protected by MFA.
 
     \[Omitted image "mfa-metrics-page.png"\] Alt text: MFA Metrics
 
@@ -26,9 +26,4 @@ FAQ related to understanding the MFA metrics.
 
     You can navigate to **Security Center** &gt; **Security Console** &gt; **Security Metrics**. Under metrics for users click on local login not protected by MFA.
 
-## Related
 
-- [[sec-center-v2|Security Center]]
-- [[sc-metrics|Security metrics]]
-- [[ca-metrics|Metrics]]
-- [[users|Users]]

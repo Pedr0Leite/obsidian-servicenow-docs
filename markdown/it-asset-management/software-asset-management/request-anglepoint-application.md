@@ -14,7 +14,7 @@ breadcrumb: [Setting up an ASP integration, Authorized SAM Provider \(ASP\) inte
 
 # Request Anglepoint's IBM Licensing for Software Asset Management application
 
-If you are integrating the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with Anglepoint, request Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. This application extends the base [[c_SoftwareAssetMgmt|Software Asset Management]] File Names \[samp\_file\_name\], File Maps \[samp\_file\_map\], and File Sets \[samp\_file\_set\] tables so that you can store IBM software information from Anglepoint.
+If you are integrating the Software Asset Management publisher pack for IBM with Anglepoint, request Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. This application extends the base Software Asset Management File Names \[samp\_file\_name\], File Maps \[samp\_file\_map\], and File Sets \[samp\_file\_set\] tables so that you can store IBM software information from Anglepoint.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The IBM Licensing for Software Asset Management application contains table dicti
 |File Maps \[samp\_file\_map\]|Anglepoint File Maps \[samp\_anglepoint\_file\_map\]|
 |File Sets \[samp\_file\_set\]|Anglepoint File Sets \[samp\_anglepoint\_file\_set\]|
 
-The extended tables store software information from the IBM [[sam-software-discovery|software discovery]] catalog that is maintained by Anglepoint. You can add this software information to these tables by downloading the IBM software discovery catalog from the Anglepoint Elevate platform and then uploading it to your ServiceNow instance. Discovery tools, such as the ServiceNow® Discovery application, can then use this software information to identify the IBM software that is discovered in your environment. See [Upload the IBM software discovery catalog to your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/upload-anglepoint-software-discovery-catalog.md) for more information on the IBM software discovery catalog.
+The extended tables store software information from the IBM software discovery catalog that is maintained by Anglepoint. You can add this software information to these tables by downloading the IBM software discovery catalog from the Anglepoint Elevate platform and then uploading it to your ServiceNow instance. Discovery tools, such as the ServiceNow® Discovery application, can then use this software information to identify the IBM software that is discovered in your environment. See [Upload the IBM software discovery catalog to your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/upload-anglepoint-software-discovery-catalog.md) for more information on the IBM software discovery catalog.
 
 ## Procedure
 
@@ -68,8 +68,3 @@ Install the application according to the instructions in the email.
 
 **Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/setting-up-anglepoint-integration.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]

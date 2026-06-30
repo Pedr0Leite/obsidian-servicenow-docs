@@ -14,7 +14,7 @@ breadcrumb: [Set up the Hardware Vulnerability Assessment of Operational Technol
 
 # Configure Normalization Opt-in for Hardware Vulnerability Assessment
 
-Select **Firmware Discovery Model** Opt-in option for ServiceNow Asset Management Content Service to collect unnormalized firmware details of [[operational-technology-overview|Operational Technology]] \(OT\) devices and update the normalized content library. This process improves the ratio of normalized data mapping to CVEs and therefore improves assessment of vulnerabilities.
+Select **Firmware Discovery Model** Opt-in option for ServiceNow Asset Management Content Service to collect unnormalized firmware details of Operational Technology \(OT\) devices and update the normalized content library. This process improves the ratio of normalized data mapping to CVEs and therefore improves assessment of vulnerabilities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup** &gt; **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]** &gt; **Hardware Vulnerability Assessment** &gt; **Normalization opt-in** &gt; **Configure**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **Operational Technology Vulnerability Response** &gt; **Hardware Vulnerability Assessment** &gt; **Normalization opt-in** &gt; **Configure**.
 
 2.  Select **Yes**.
 
@@ -36,8 +36,3 @@ Role required: sn\_eam.enterprise\_admin or admin
 
 [Opt-in to the Enterprise Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/optin-cs-eam.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Navigate to **My hub** &gt; **Register product** in the portal header.
 
@@ -37,6 +37,3 @@ Role required: sn\_customerservice.consumer
 
 After the product is successfully registered, it appears in the Manage products list.
 
-## Related
-
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

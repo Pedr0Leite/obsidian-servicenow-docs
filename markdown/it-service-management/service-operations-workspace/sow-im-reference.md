@@ -14,10 +14,10 @@ breadcrumb: [Incident Management in Service Operations Workspace, Operating IT s
 
 # Incident Management in Service Operations Workspace reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about [[incident-sow|Incident Management in Service Operations Workspace]].
+Reference topics provide additional information about Incident Management in Service Operations Workspace.
 
 -   **[Components installed with Agent Client Collector for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-investigate.md)**  
-Several types of components are installed with activation of the Agent Client Collector for Investigation \(sn\_acc\_adapter\) application, including user roles and ServiceNow Store [[dex-workspace-application-tab|applications]].
+Several types of components are installed with activation of the Agent Client Collector for Investigation \(sn\_acc\_adapter\) application, including user roles and ServiceNow Store applications.
 -   **[Components installed with Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-mecm-adapter.md)**  
 Several types of components are installed with activation of the Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application, including user roles and ServiceNow Store applications.
 -   **[Components installed with Remedial Actions Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-with-remediation-fw.md)**  
@@ -52,8 +52,3 @@ Validate that Incident Management in Service Operations Workspace still works af
 
 [Reopen an incident in Service Operations Workspace]()
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[incident-sow|Incident Management in Service Operations Workspace]]
-- [[dex-workspace-application-tab|Applications]]

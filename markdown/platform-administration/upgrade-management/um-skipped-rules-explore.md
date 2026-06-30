@@ -36,7 +36,7 @@ The following is the list of tables from which if any skipped record is being ge
 
 **Note:** For wf\_workflow\_version table, the new skipped rules automatically sets the generated skipped records to **Keep My Modifications \(Always Retain\)**. This table is generally used for configuration changes and doesn’t need to be reviewed.
 
-The skipped records that are retained automatically by the [[uc-default-skipped-rules|default skipped rules]] are found in the Skipped Changes Reviewed related list.
+The skipped records that are retained automatically by the default skipped rules are found in the Skipped Changes Reviewed related list.
 
 \[Omitted image "uc-default-skipped-rules.png"\] Alt text: Image showing retained skipped rules in the Skipped Changes Reviewed related list
 
@@ -44,6 +44,3 @@ The skipped records that are retained automatically by the [[uc-default-skipped-
 
 See [Upgrade Skipped Record Rules Editor tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-skipped-rules-tool.md) for more information.
 
-## Related
-
-- [[uc-default-skipped-rules|Default skipped rules]]

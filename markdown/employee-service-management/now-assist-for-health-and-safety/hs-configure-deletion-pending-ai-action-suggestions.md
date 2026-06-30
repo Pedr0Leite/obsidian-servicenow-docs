@@ -20,8 +20,8 @@ Configure how long the pending AI-generated action suggestions are retained befo
 
 Verify the following conditions:
 
--   The [[now-assist-hs-landing|Now Assist for Health and Safety]] application \(sn\_hs\_gen\_ai\) is installed. For more information, see [Install Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-install.md).
--   The application scope is selected as [[hs-core-landing|Health and Safety Core]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   The Now Assist for Health and Safety application \(sn\_hs\_gen\_ai\) is installed. For more information, see [Install Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-install.md).
+-   The application scope is selected as Health and Safety Core. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_ohs\_im.admin
 
@@ -33,7 +33,7 @@ For information on using Action planner for AI suggested actions, see [Generate 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  To enable or disable cleanup, set the **Enables or disables the scheduled job that cleans up stale pending AI action suggestions** \[sn\_ohs\_im.ai\_suggestion.cleanup\_enabled\] property.
 
@@ -59,8 +59,3 @@ For information on using Action planner for AI suggested actions, see [Generate 
 
 **Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md)
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]

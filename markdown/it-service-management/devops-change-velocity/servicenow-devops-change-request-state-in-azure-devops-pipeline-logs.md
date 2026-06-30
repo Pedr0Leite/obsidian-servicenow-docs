@@ -36,7 +36,7 @@ The following change request details are displayed:
 
 **Note:** **changeState** is the state of the change request, and **status** is the status of the step execution.
 
-The logs for policy conditions will be displayed for the base system [[change-flows|change flows]] as follows:
+The logs for policy conditions will be displayed for the base system change flows as follows:
 
 -   DevOps Model Change Policy: Only logs will be displayed on change creation and when the change state is updated.
 -   DevOps Change Request Minimal Automation Policy: Logs along with change decision and policy conditions corresponding to the change decision will be displayed.
@@ -84,6 +84,3 @@ If a change request does not get created due to any issue, then the reason for t
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[change-flows|Change flows]]

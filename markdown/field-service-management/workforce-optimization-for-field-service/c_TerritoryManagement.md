@@ -16,7 +16,7 @@ breadcrumb: [Set up workforce, Configure, Field Service Management]
 
 Territory management determines, by geographical location, the individual or group best positioned to execute a service call.
 
-Territory management allows the assignment of a set of geographical locations to an individual or group. This assignment creates a territory. Territory management is based on a hierarchy where all locations are attached to a parent location. Top-level locations do not have a parent location. Territory Management is activated automatically with [[fsm-application-landing-page|Field Service Management]].
+Territory management allows the assignment of a set of geographical locations to an individual or group. This assignment creates a territory. Territory management is based on a hierarchy where all locations are attached to a parent location. Top-level locations do not have a parent location. Territory Management is activated automatically with Field Service Management.
 
 ## Configuration overview
 
@@ -113,6 +113,4 @@ This creates a territory, or set of locations covered by a given group. The asso
     -   Click **New** to create a new location to associate to the group.
     **Note:** To determine which group covers a given location, the system checks the location hierarchy to see if there are any groups assigned to the location. If not, the system checks the upper level of hierarchy.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

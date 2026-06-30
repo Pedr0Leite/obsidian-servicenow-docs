@@ -16,7 +16,7 @@ breadcrumb: [Use, Major Security Incident Management, Security Incident Response
 
 Propose or promote security incidents as major security incidents when incidents are identified as critical threat to the organization.
 
-Once [[major-security-incident-management-landing-page|Major Security Incident Management]] is installed on your ServiceNow instance, you can handle the transition of security incidents to major incidents as follows:
+Once Major Security Incident Management is installed on your ServiceNow instance, you can handle the transition of security incidents to major incidents as follows:
 
 -   Propose a security incident to major security incident candidate to initiate a review process.
 -   Directly promote a security incident to a major security incident without a review process.
@@ -54,6 +54,3 @@ Link security incidents to a major security incident.
 
 [Create and distribute MSIM Status Reports]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

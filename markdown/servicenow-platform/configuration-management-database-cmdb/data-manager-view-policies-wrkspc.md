@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # View CMDB Data Manager policies
 
-View Data Manager policies on a dashboard view in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]], with a timeline of upcoming scheduled policies, counts, and grouped by policy status.
+View Data Manager policies on a dashboard view in CMDB Workspaceor in Service Graph Workspace, with a timeline of upcoming scheduled policies, counts, and grouped by policy status.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: sn\_cmdb\_admin
 -   [Create a CMDB Data Manager policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-create-policy-wrkspc.md)
 -   [Manage retirement definitions for CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-manage-ret-def-wrkspc.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

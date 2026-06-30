@@ -88,7 +88,7 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -109,6 +109,3 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 
 [Push notification retention]()
 
-## Related
-
-- [[c_PushNotifications|Push notifications]]

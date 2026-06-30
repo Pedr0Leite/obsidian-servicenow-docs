@@ -45,11 +45,7 @@ The spreadsheet is loaded in the staging table. All the columns from the spreads
 
 ## What to do next
 
-[[view-and-verify-the-import-sets|View the import set]].
+[View the import set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/view-and-verify-the-import-sets.md).
 
-**Parent Topic:**[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)
 
-## Related
-
-- [[view-and-verify-the-import-sets|View and verify the import sets]]
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]

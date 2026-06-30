@@ -78,7 +78,7 @@ Approval scriptOnly appears if **Wait for** is set to **Condition based on scrip
 
 </td><td>
 
-If the **Wait for** variable is set to **Condition based on script** this script is called to determine how to handle an approval or rejection. The script needs to set the variable *answer* to , approved or rejected to indicate the overall [[c_ApprovalStatus|approval status]] for this approval. When called, the following variable is available to the script:```
+If the **Wait for** variable is set to **Condition based on script** this script is called to determine how to handle an approval or rejection. The script needs to set the variable *answer* to , approved or rejected to indicate the overall approval status for this approval. When called, the following variable is available to the script:```
 counts.total = total number of child approval activities that are part of this approval
       counts.approved = # of child approval activities that approved so far
       counts.rejected = # of child approval activities that rejected so far
@@ -111,6 +111,3 @@ The activity state tells the workflow engine what to do with the activity.
 
 **Parent Topic:**[Approval and rollback workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_ApprovalAndRollbackActivities.md)
 
-## Related
-
-- [[c_ApprovalStatus|Approval status]]

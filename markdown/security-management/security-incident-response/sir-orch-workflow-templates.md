@@ -14,7 +14,7 @@ breadcrumb: [Understand Security Incident Response Orchestration workflows and w
 
 # Security Incident Response workflow templates
 
-Workflow templates are provided with [[c_SecIncRespOrchestration|Security Incident Response Orchestration]] to allow you to perform basic security operation-related analysis procedures. The templates can be used as is or you can customize them to create workflows to better suit your specific needs. The workflow templates are deactivated by default.
+Workflow templates are provided with Security Incident Response Orchestration to allow you to perform basic security operation-related analysis procedures. The templates can be used as is or you can customize them to create workflows to better suit your specific needs. The workflow templates are deactivated by default.
 
 Only users with the sn\_sec\_cmn.admin role can [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-editor.md).
 
@@ -43,6 +43,3 @@ The Security Incident - Web/BBS Defacement - Template allows you to perform a se
 
 **Parent Topic:**[Understand Security Incident Response Orchestration workflows and workflow templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-wf-templates.md)
 
-## Related
-
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]

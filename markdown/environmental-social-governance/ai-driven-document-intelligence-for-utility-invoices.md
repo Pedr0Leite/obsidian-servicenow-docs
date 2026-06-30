@@ -22,7 +22,7 @@ The AI-extracted fields are clearly marked for verification, and you can overrid
 
 **Note:** The sn\_esg\_gen\_ai.docintel\_user role is required to view the option to document intelligence for utility bills. This role must be manually assigned to an ESG user.
 
-To understand how you can extract details from the utility bills, refer to [[extract-data-from-utility-invoices|Extract data from utility invoices]].
+To understand how you can extract details from the utility bills, refer to [Extract data from utility invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/extract-data-from-utility-invoices.md).
 
 **Note:** The fields extracted by AI on the Metric Data task page must be verified for accuracy before use.
 
@@ -51,18 +51,12 @@ After the extraction and data mapping you can view the following:
 -   The ability to override extracted data and provide justification if needed.
 -   The original utility bill attached as evidence for audit and compliance.
 
-**Parent Topic:**[[exploring-now-assist-for-esg|Exploring Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)
 
 **Related topics**  
 
 
-[[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]
+[Activate the document intelligence for utility invoices skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-the-document-intelligence-for-utility-invoices-skill.md)
 
-[[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]
+[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-now-assist-for-esg-skills.md)
 
-## Related
-
-- [[extract-data-from-utility-invoices|Extract data from utility invoices]]
-- [[exploring-now-assist-for-esg|Exploring Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]
-- [[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]

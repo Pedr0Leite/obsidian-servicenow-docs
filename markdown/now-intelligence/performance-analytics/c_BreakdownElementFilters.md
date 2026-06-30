@@ -18,7 +18,7 @@ Element filters enable you to specify or limit the displayed breakdown elements 
 
 An elements filter consists of a conditional filter or related list conditions and the breakdown source that the conditions apply to.
 
-**Tip:** Use an elements filter with dynamic conditions to create [[personalized-visuals|personalized visuals]] on a widget. For more information, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
+**Tip:** Use an elements filter with dynamic conditions to create personalized visuals on a widget. For more information, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
 
 **Parent Topic:**[Indicator breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 
@@ -27,7 +27,7 @@ An elements filter consists of a conditional filter or related list conditions a
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 
-[[kpi-details-components|Examining indicators with KPI Details]]
+[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
 
@@ -41,7 +41,7 @@ Role required: pa\_data\_collector or admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Breakdowns** &gt; **Elements Filters** and create a new record \(see table for field descriptions\).
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Breakdowns** &gt; **Elements Filters** and create a new record \(see table for field descriptions\).
 
 <table id="table_yvq_m5s_vv"><thead><tr><th>
 
@@ -99,18 +99,18 @@ All widget indicators that use this elements filter and all diagnostic results t
 
 ## Element filters in visualizations
 
-Element filters can be seen in a Platform Analytics data visualization or on [[kpi-details|KPI Details]]. In the Core UI, they can be seen in [[c_Widgets|Performance Analytics widgets]] or the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. Some restrictions apply.
+Element filters can be seen in a Platform Analytics data visualization or on KPI Details. In the Core UI, they can be seen in Performance Analytics widgets or the Analytics Hub. Some restrictions apply.
 
 You can select the element filter in the following ways on different visualizations:
 
 -   On the Core UI Analytics Hub: When you select a breakdown, if that breakdown has elements filters, you get a list of them to choose from.
--   In a Core UI Performance Analytics widget: When configuring the widget, fill in the **Elements filter** field in the **Element settings** tab. Only breakdown, time series, and [[score-widgets|score widgets]] support elements filters. For time series and score widgets, an elements filter replaces the first-level breakdown element. For [[breakdown-widgets|breakdown widgets]], an elements filter limits the elements that are shown.
+-   In a Core UI Performance Analytics widget: When configuring the widget, fill in the **Elements filter** field in the **Element settings** tab. Only breakdown, time series, and score widgets support elements filters. For time series and score widgets, an elements filter replaces the first-level breakdown element. For breakdown widgets, an elements filter limits the elements that are shown.
 -   In a Core UI widget indicator on a time series widget: Select a filter in the **Elements filter** field in the Element Settings. You must first select a breakdown with element filters on its breakdown source.
 
     **Note:** The names of all elements that get applied are appended to the name or label of the indicator.
 
 -   On KPI Details in Platform Analytics: When you select a breakdown in the **Filters** pane, if that breakdown has elements filters, you get a list of them to choose from under **Refine by**.
--   In a Platform Analytics data visualization: While configuring the data visualization, select an indicator data source, a breakdown, and the \[is \(dynamic\)\] operator. Any elements filters for that breakdown are then available in the **Element** field. Only [[automated-indicators|automated indicators]] with the Count, Minimize, or Maximize aggregate are supported.
+-   In a Platform Analytics data visualization: While configuring the data visualization, select an indicator data source, a breakdown, and the \[is \(dynamic\)\] operator. Any elements filters for that breakdown are then available in the **Element** field. Only automated indicators with the Count, Minimize, or Maximize aggregate are supported.
 
 In all of these cases, you can select an elements filter only if you first select a breakdown with at least one elements filter on its breakdown source. You may also need a certain role to select an elements filter, depending on the configuration of that filter.
 
@@ -118,14 +118,3 @@ Besides specifying an elements filter on a visualization, you can specify a **De
 
 **Note:** It is not possible to change elements filters that are used to personalize visuals when simply viewing the visual on a dashboard or workspace. Only a user with the rights to edit the underlying widget or data visualization can change the elements filter. For more information, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
 
-## Related
-
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[personalized-visuals|Personalized visuals]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[score-widgets|Score widgets]]
-- [[breakdown-widgets|Breakdown widgets]]
-- [[automated-indicators|Automated indicators]]

@@ -72,7 +72,7 @@ Role required:external\_app\_install\_admin
 
     2.  **Tab name**: Option to provide a name for the Service portal tab that appears in Microsoft Teams.
 
-    3.  **Enable [[activity-lxp|Activity]] Feed**: Option to enable activity feed to receive campaign notifications in Microsoft Teams and this option is selected by default.
+    3.  **Enable Activity Feed**: Option to enable activity feed to receive campaign notifications in Microsoft Teams and this option is selected by default.
 
     4.  Click **Next**.
 
@@ -93,6 +93,3 @@ You must upload the manifest file in Microsoft Teams. For more information, refe
 
 **Parent Topic:**[Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-teams-va-integration-gcch.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

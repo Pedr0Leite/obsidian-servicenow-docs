@@ -14,7 +14,7 @@ breadcrumb: [App Launcher, Setup task management, Configuring Employee Center Pr
 
 # Configure application visibility and access
 
-Enhance application discovery and navigation on the [[web-application-employee-about|App launcher]] by configuring the access and visibility settings.
+Enhance application discovery and navigation on the App launcher by configuring the access and visibility settings.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Administrators can control user access by specifying who can and can’t use the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Web Applications**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Web Applications**.
 
 2.  Click **New**.
 
@@ -72,7 +72,3 @@ For more information on Application security directive changes, see [App Launche
 
 [Manage favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md)
 
-## Related
-
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-landing-page|Employee Center]]

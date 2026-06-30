@@ -28,7 +28,7 @@ Create campus, buildings and floors, import your floor plan source files, and ma
 
 </td><td>
 
-[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Install and [[configure-ind-mapping|configure Indoor Mapping]] as your map provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md)
+[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Install and configure Indoor Mapping as your map provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md)
 
 </td></tr><tr><td>
 
@@ -47,6 +47,3 @@ Create campus, buildings and floors, import your floor plan source files, and ma
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[configure-ind-mapping|Configure Indoor Mapping]]

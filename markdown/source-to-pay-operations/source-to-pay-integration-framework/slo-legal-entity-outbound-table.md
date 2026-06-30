@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Supplier Lifecycle Operations, Outbound
 
 # Supplier legal entity mapping outbound staging table
 
-The [[supplier-legal-entity-mapping|Supplier legal entity mapping]] outbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_outbound\] staging table temporarily stores important data about the legal entities of a [[supplier|supplier]] so that an ERP integrator can export this data to a third-party ERP system.
+The Supplier legal entity mapping outbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_outbound\] staging table temporarily stores important data about the legal entities of a supplier so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Supplier legal entity mapping outbound staging table
 
@@ -22,7 +22,7 @@ The following table lists the mandatory fields for the Supplier legal entity map
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Active|String|Indicates if the supplier [[legal-entity|legal entity]] is active or not.|
+|Active|String|Indicates if the supplier legal entity is active or not.|
 |Bank details|String|Bank details of the supplier legal entity.|
 |Domain|String|Domain name of the supplier legal entity.|
 |ERP company code|String|Company code of the entity in the ERP system.|
@@ -43,8 +43,3 @@ The following table lists the mandatory fields for the Supplier legal entity map
 |Remit to zipcode|String|Zip code to which the payment is made.|
 |Supplier|String|Name of the supplier.|
 
-## Related
-
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]

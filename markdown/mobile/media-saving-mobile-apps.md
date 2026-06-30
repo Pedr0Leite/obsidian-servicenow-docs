@@ -46,7 +46,7 @@ By default, these images and videos are saved for 24 hours on the phone’s loca
 
 9.  Select **Submit**.
 
-    The [[mobile-properties|Mobile Properties]] page displays with your recently created property.
+    The Mobile Properties page displays with your recently created property.
 
 10. Select  **New**  to create a mobile property record.
 
@@ -67,9 +67,5 @@ By default, these images and videos are saved for 24 hours on the phone’s loca
 16. Set the **Mobile Applications** to who you want to send the mobile property.
 
 
-**Parent Topic:**[[images-and-attachments|Working with images and attachments in mobile]]
+**Parent Topic:**[Working with images and attachments in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/images-and-attachments.md)
 
-## Related
-
-- [[images-and-attachments|Working with images and attachments in mobile]]
-- [[mobile-properties|Mobile properties]]

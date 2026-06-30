@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Enable search-based auto-complete suggestions in AI Search for Next Experience
 
-Run a scheduled job to make search-based auto-complete suggestions available in [[ais-next-experience-app|AI Search for Next Experience]].
+Run a scheduled job to make search-based auto-complete suggestions available in AI Search for Next Experience.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: admin
 
 ## About this task
 
-If you [[install-ais-next-experience-app|install AI Search for Next Experience]] 3.x on a San Diego instance and then upgrade to Tokyo or a later release, the new search-based auto-complete suggestion types introduced in Tokyo aren't automatically enabled in the **\[AIS\] Next Experience Search Configuration** search application configuration used by global search.
+If you install AI Search for Next Experience 3.x on a San Diego instance and then upgrade to Tokyo or a later release, the new search-based auto-complete suggestion types introduced in Tokyo aren't automatically enabled in the **\[AIS\] Next Experience Search Configuration** search application configuration used by global search.
 
 To enable the new search-based auto-complete suggestion types in AI Search for Next Experience and remove the legacy suggestion types that they replace, administrators can run a scheduled job.
 
 Running the scheduled job adds these auto-complete suggestion types to the **\[AIS\] Next Experience Search Configuration** search application configuration, making them available for global search:
 
--   Search-based Suggested [[hs-results|Results]] Reader Group for \[AIS\] Next Experience Search Configuration
+-   Search-based Suggested Results Reader Group for \[AIS\] Next Experience Search Configuration
 -   User History Reader Group for \[AIS\] Next Experience Search Configuration
 
 The scheduled job removes these two legacy auto-complete suggestion types from the **\[AIS\] Next Experience Search Configuration** search application configuration, making them unavailable for global search:
@@ -44,7 +44,7 @@ To learn more about auto-complete suggestion types in AIS applications, see [Aut
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Open the **Enable search-based suggestions** scheduled job record.
 
@@ -67,9 +67,3 @@ Global search uses the updated set of auto-complete suggestion types.
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[install-ais-next-experience-app|Install AI Search for Next Experience]]
-- [[hs-results|Results]]
-- [[c_ScheduledJobs|Scheduled jobs]]

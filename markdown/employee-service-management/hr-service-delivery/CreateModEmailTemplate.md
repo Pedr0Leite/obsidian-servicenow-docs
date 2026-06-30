@@ -18,9 +18,9 @@ Use the **Email Content** form to create notification templates to alert the ass
 
 ## Before you begin
 
-Roles required: sn\_hr\_core.case\_writer, sn\_hr\_le.[[activity-lxp|activity]]\_writer
+Roles required: sn\_hr\_core.case\_writer, sn\_hr\_le.activity\_writer
 
-You must have the HR Case Writer \[sn\_hr\_core.case\_writer\] or Lifecycle Event Activity Writer \[sn\_hr\_le.activity\_writer\] role to select an **Email Content** template. For [[hr-lifecycle-events-landing-page-1|Lifecycle Events]], you must have the Lifecycle Event Activity Writer \[sn\_hr\_le.activity\_writer\] role to create or edit an HR task template for Lifecycle Events.
+You must have the HR Case Writer \[sn\_hr\_core.case\_writer\] or Lifecycle Event Activity Writer \[sn\_hr\_le.activity\_writer\] role to select an **Email Content** template. For Lifecycle Events, you must have the Lifecycle Event Activity Writer \[sn\_hr\_le.activity\_writer\] role to create or edit an HR task template for Lifecycle Events.
 
 When setting up notifications, an email template must be created. The base system provides an email template that can be used as a model.
 
@@ -32,7 +32,7 @@ Email notifications can be sent for HR tasks with due dates and can be configure
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Email Content**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Email Content**.
 
 2.  From the **Email Contents** list, select **New** or an existing email template to edit.
 
@@ -108,8 +108,3 @@ This section provides a list of variables that can be used in the email template
 
 **Parent Topic:**[HR notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRNotifications.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

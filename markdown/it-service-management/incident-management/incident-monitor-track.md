@@ -18,7 +18,7 @@ Service desk and other IT managers can use dashboards and reports to monitor and
 
 ## Incident Overview
 
-The **Incident** &gt; **Overview** dashboard provides a quick glance at the current state of open incidents. At the top, single score widgets enumerate the open incident statuses, such as critical incidents, [[process-unassigned-incident|unassigned incidents]], and overdue incidents. Charts in the dashboard group incidents by factors such as priority and state. The incident overview is fully interactive and configurable.
+The **Incident** &gt; **Overview** dashboard provides a quick glance at the current state of open incidents. At the top, single score widgets enumerate the open incident statuses, such as critical incidents, unassigned incidents, and overdue incidents. Charts in the dashboard group incidents by factors such as priority and state. The incident overview is fully interactive and configurable.
 
 ## Incident reports
 
@@ -30,13 +30,13 @@ Various incident reports are available in the base system, and you can modify th
 
 ## Incident metric definition
 
-A metric measures and evaluates the effectiveness of [[r_ITServiceManagement|IT service management]] processes. The service desk can improve the [[c_IncidentManagement|incident management]] process using information gathered within the platform. You can activate the Metric Definition plugin \(com.glide.metrics\) and define the metrics to monitor within the system. With these metrics, and the information within the database, it is possible to [generate reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateYourOwnReport.md) that can be [added to dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-report-to-dashboard.md) or [automatically generated and distributed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAScheduledJob.md).
+A metric measures and evaluates the effectiveness of IT service management processes. The service desk can improve the incident management process using information gathered within the platform. You can activate the Metric Definition plugin \(com.glide.metrics\) and define the metrics to monitor within the system. With these metrics, and the information within the database, it is possible to [generate reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateYourOwnReport.md) that can be [added to dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-report-to-dashboard.md) or [automatically generated and distributed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAScheduledJob.md).
 
 Using this information, it is possible to refine automatic rules such as the assignment rules, service level agreements, or inactivity monitors to better suit the unique environment of the service desk. Unnecessary incidents can be avoided by encouraging users to consult the knowledge base before creating an incident. The related search results function in the Incident form assists with this strategy.
 
 ## Complimentary Performance Analytics for Incident Management
 
-Complimentary Performance Analytics for Incident Management and aggregates data over time, and is enabled by default for Incident Management. Complimentary Performance Analytics for Incident Management provides an [[incident|Incident Management dashboard]] with 15 indicators to help you assess organizational performance. For more information, see [Performance Analytics for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/r_StUpPAInctMgmt.md).
+Complimentary Performance Analytics for Incident Management and aggregates data over time, and is enabled by default for Incident Management. Complimentary Performance Analytics for Incident Management provides an Incident Management dashboard with 15 indicators to help you assess organizational performance. For more information, see [Performance Analytics for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/r_StUpPAInctMgmt.md).
 
 A subscription to Performance Analytics also gives you access to In-form analytics. In-form analytics integrate performance insights into Incident records so that users can access important metrics in context and make better decisions.
 
@@ -54,9 +54,3 @@ Platform Analytics Solutions contain preconfigured dashboards. These dashboards 
 
 [Insights and Opportunities for Incident dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/insights-opportunities-incident-dashboard.md)
 
-## Related
-
-- [[process-unassigned-incident|Unassigned incidents]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[incident|Incident management dashboard]]

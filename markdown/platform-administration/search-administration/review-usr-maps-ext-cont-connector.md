@@ -27,17 +27,17 @@ The User permissions list for an external content connector shows user and group
 
 To view the user permissions list, you must elevate to the ais\_high\_security\_admin role. If you don't elevate or don't have this role, you can see the number of user permissions created for the external content connector, but can't see details of those user permissions.
 
-**Note:** The following [[ext-cont-connectors-landing-page|external content connectors]] don't retrieve user or group access permissions. You can't run user permission crawls for these connectors.
+**Note:** The following external content connectors don't retrieve user or group access permissions. You can't run user permission crawls for these connectors.
 
--   [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
--   [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
--   [[cornerstone-external-content-connector|Cornerstone external content connector]]
+-   Adobe Experience Manager as a Cloud Service external content connector
+-   Amazon S3 external content connector
+-   Cornerstone external content connector
 -   ServiceNow® product documentation external content connector
--   [[slack-external-content-connector|Slack external content connector]]
--   [[trello-external-content-connector|Trello external content connector]]
--   [[webcrawler-external-content-connector|Webcrawler external content connector]]
+-   Slack external content connector
+-   Trello external content connector
+-   Webcrawler external content connector
 
-The [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]] only retrieves permissions for Confluence Cloud users who have made their email addresses visible to all users. To allow user permission, each Confluence Cloud user must set their own email visibility to **Anyone** as explained in the [https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/](https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/) Atlassian support resource.
+The Atlassian Confluence Cloud external content connector only retrieves permissions for Confluence Cloud users who have made their email addresses visible to all users. To allow user permission, each Confluence Cloud user must set their own email visibility to **Anyone** as explained in the [https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/](https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/) Atlassian support resource.
 
 ## Procedure
 
@@ -99,13 +99,3 @@ In the banner frame, select your name to open the user menu, then select **Eleva
 
 **Parent Topic:**[Reviewing external content connector crawl results and analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reviewing-external-content-connector-results-and-analytics.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
-- [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
-- [[cornerstone-external-content-connector|Cornerstone external content connector]]
-- [[slack-external-content-connector|Slack external content connector]]
-- [[trello-external-content-connector|Trello external content connector]]
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]
-- [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]]

@@ -15,17 +15,17 @@ breadcrumb: [Discovery Admin Workspace, Exploring Discovery, Discovery, ITOM Vis
 
 # Discovery Admin Workspace Home
 
-The Discovery Admin Workspace Home page features tools to help you identify and address the most critical [[r-discovery|discovery]] errors.
+The Discovery Admin Workspace Home page features tools to help you identify and address the most critical discovery errors.
 
-To access the [[discovery-admin-workspace|Discovery Admin Workspace]], navigate to **Workspaces** &gt; **Discovery Admin Workspace**.
+To access the Discovery Admin Workspace, navigate to **Workspaces** &gt; **Discovery Admin Workspace**.
 
 **Note:** The capabilities described here are available in Discovery Admin Workspace v1.17.0. If the **sn\_disco\_workspace.enable\_error\_framework** system property is turned off, the Home page displays the legacy experience. Specific version requirements are noted for individual features where applicable.
 
-\[Omitted image "daw-home-ef.png"\] Alt text: [[discovery-admin-workspace-setup|Discovery Admin Workspace Settings]] page
+\[Omitted image "daw-home-ef.png"\] Alt text: Discovery Admin Workspace Settings page
 
 ## Onboarding for Discovery
 
-The onboarding experience on the Home page changes based on your configuration progress. Before you create an IP or cloud-based Discovery schedule, the Home page displays an Onboarding for Discovery section. Select **Get started** to [[access-itom-config-console-disco|access the ITOM Configuration Console]].
+The onboarding experience on the Home page changes based on your configuration progress. Before you create an IP or cloud-based Discovery schedule, the Home page displays an Onboarding for Discovery section. Select **Get started** to access the ITOM Configuration Console.
 
 **Note:** Note: The ITOM Configuration Console is available in Zurich Patch 8 or later versions of the ServiceNow AI Platform. For more information, see [ITOM Configuration Console for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/itom-conf-console.md).
 
@@ -60,7 +60,7 @@ The following data counts display in the Quick overview section:
 
 ## Top discovery errors
 
-View the most critical Discovery errors currently active on your instance, including a summary count of active errors by severity. Each error card displays the error title, severity, refined code, occurrence count, and error category. Selecting an error card or the **Occurrences** link opens the [Error Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/daw-error-details.md) page, where you can view the root cause, [[ccg-remediation|remediation]] steps, and individual error instances. Select **View all** to access the [Diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md) page.
+View the most critical Discovery errors currently active on your instance, including a summary count of active errors by severity. Each error card displays the error title, severity, refined code, occurrence count, and error category. Selecting an error card or the **Occurrences** link opens the [Error Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/daw-error-details.md) page, where you can view the root cause, remediation steps, and individual error instances. Select **View all** to access the [Diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md) page.
 
 ## Discovery tuning advice
 
@@ -78,11 +78,11 @@ Select a MID Server, a MID cluster, or enable Discovery to select the MID Server
 
 ## ITOM Visibility apps
 
-Enhance the functionality of the Discovery Admin Workspace by integrating additional [[itom-visibility-landing-page|ITOM Visibility]] applications. When you select **View all**, you can view both the applications installed on your instance and others that are available for installation.
+Enhance the functionality of the Discovery Admin Workspace by integrating additional ITOM Visibility applications. When you select **View all**, you can view both the applications installed on your instance and others that are available for installation.
 
 **Note:** Updating applications requires you to have the admin role.
 
-While you can access details about the apps installed on your instance, information regarding pricing and packages isn't provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]].
+While you can access details about the apps installed on your instance, information regarding pricing and packages isn't provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [ITOM/OT SU Licensing and subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-landing-page.md).
 
 ## Learnings
 
@@ -90,16 +90,6 @@ Receive guidance on managing the Discovery process and resolving Discovery error
 
 **Important:**
 
--   To view the resources in this section, confirm that you have installed [[discovery-content-services|ITOM Content Service]] version 1.2.8.
+-   To view the resources in this section, confirm that you have installed ITOM Content Service version 1.2.8.
 -   If you encounter an **Error 153: Video player configuration error** message when attempting to play a video on the **Videos** tab, update the system property **com.glide.security.referrerpolicy** to **origin-when-cross-origin**. For more information, see [Enforce secure referrer policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sc-enforce-secure-referrer-policy.md).
 
-## Related
-
-- [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[discovery-admin-workspace-setup|Discovery Admin Workspace Settings]]
-- [[access-itom-config-console-disco|Access the ITOM Configuration Console]]
-- [[ccg-remediation|Remediation]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[discovery-content-services|ITOM Content Service]]

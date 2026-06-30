@@ -14,7 +14,7 @@ breadcrumb: [Configure offline cache to devices, Offline mode setup options, Off
 
 Incremental offline synchronization downloads only the changes to records, rather than the full dataset. This approach keeps offline data current while reducing network and battery usage.
 
-Instead of downloading a full dataset, incremental offline synchronization only changes records that are retrieved, including any additions, updates, and deletions. The system tracks changes only in the specific records defined by the admin through [[sg-data-item|data items]], so the device receives targeted updates rather than a full download. This method keeps the offline cache consistent without placing unnecessary load on the network or device.
+Instead of downloading a full dataset, incremental offline synchronization only changes records that are retrieved, including any additions, updates, and deletions. The system tracks changes only in the specific records defined by the admin through data items, so the device receives targeted updates rather than a full download. This method keeps the offline cache consistent without placing unnecessary load on the network or device.
 
 This method periodically compares the data on your instance with the data cached on the mobile device. When a difference is detected, only the changed records are downloaded, removing the need for users to manually update the entire cache or follow a fixed schedule. This makes incremental sync particularly useful in environments where users frequently or unexpectedly lose network connectivity.
 
@@ -33,16 +33,10 @@ The following system properties are available when managing incremental offline 
 |glide.sg.ofﬂine.incremental.silent\_push.min\_wait\_time|Specifies the minimum interval between consecutive incremental updates sent to the user’s device.|
 |glide.sg.offline.job.maxRuntime|Controls how long the server can spend generating the offline cache payload for a user.|
 
-For information on other related offline system properties, see [[mobile-system-properties|System properties in offline mode]].
+For information on other related offline system properties, see [System properties in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-system-properties.md).
 
--   **[[general-guidelines-increment-offline-cache|General guidelines for incremental ofﬂine caching]]**  
+-   **[General guidelines for incremental ofﬂine caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/general-guidelines-increment-offline-cache.md)**  
 When working with incremental offline caching keep these general guidelines in mind for usability and a good user experience.
 
-**Parent Topic:**[[offline-cache|Configure offline cache downloads to user devices]]
+**Parent Topic:**[Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md)
 
-## Related
-
-- [[mobile-system-properties|System properties in offline mode]]
-- [[general-guidelines-increment-offline-cache|General guidelines for incremental ofﬂine caching]]
-- [[offline-cache|Configure offline cache downloads to user devices]]
-- [[sg-data-item|Data items]]

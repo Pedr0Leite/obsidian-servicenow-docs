@@ -12,9 +12,9 @@ breadcrumb: [Agentic AI security and governance]
 
 # AI threat protection
 
-Learn how Now Assist helps defend against AI-specific threats including offensive content, prompt injection, and sensitive subject detection using [[now-assist-guardian|Now Assist Guardian]].
+Learn how Now Assist helps defend against AI-specific threats including offensive content, prompt injection, and sensitive subject detection using Now Assist Guardian.
 
-Now Assist Guardian monitors requests sent to large language models and their responses to protect you, your [[users|users]], and your data. It detects offensive or harmful content, prompt injection attempts, and sensitive subjects, and can log or block detected content depending on your [[sc-configuration|configuration]].
+Now Assist Guardian monitors requests sent to large language models and their responses to protect you, your users, and your data. It detects offensive or harmful content, prompt injection attempts, and sensitive subjects, and can log or block detected content depending on your configuration.
 
 ## Configure guardrails
 
@@ -47,7 +47,7 @@ The following topics describe how to set up Now Assist Guardian and configure th
 
 ## Monitor guardrail activity
 
-The following topics describe how to review and [[export-now-assist-guardian-logs|export Now Assist Guardian logs]] to evaluate guardrail effectiveness and support security review.
+The following topics describe how to review and export Now Assist Guardian logs to evaluate guardrail effectiveness and support security review.
 
 -   **[Now Assist Guardian analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-guardian-analytics.md)**
 
@@ -55,17 +55,8 @@ The following topics describe how to review and [[export-now-assist-guardian-log
 
 -   ****
 
-    [[export|Export]] [[logs|logs]] from Now Assist Guardian to get insights into how often different guardrails are being detected and used.
+    Export logs from Now Assist Guardian to get insights into how often different guardrails are being detected and used.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[now-assist-security|Agentic AI security and governance]]
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[export-now-assist-guardian-logs|Export Now Assist Guardian logs]]
-- [[export|Export]]
-- [[logs|Logs]]

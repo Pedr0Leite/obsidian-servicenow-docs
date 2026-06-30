@@ -20,7 +20,7 @@ When you request a life-cycle operation on a stack or resource, the system gener
 
 The stacks and resources undergo life-cycle operations from the time that they're started, provisioned, de-provisioned, and then stopped. At times, you must update or stop a particular resource's schedule for configuration issues. You can select a stack or resource to perform these operations. The actions include only the appropriate operations for the selected resource or stack. Not all operations are supported for all providers or for all service categories \(resource types\) by default.
 
-The following example shows the actions that the [[csc-home|Cloud Services Catalog]] application supports on stacks. The actions are stop, start, deprovision, ModifyLease, or ModifySchedule.
+The following example shows the actions that the Cloud Services Catalog application supports on stacks. The actions are stop, start, deprovision, ModifyLease, or ModifySchedule.
 
 \[Omitted image "performing-actions-on-stacks.png"\] Alt text: Actions on stacks.
 
@@ -36,6 +36,3 @@ The following table lists the operations that the Cloud Services Catalog applica
 
 **Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

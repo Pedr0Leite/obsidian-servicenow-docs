@@ -14,7 +14,7 @@ breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Servi
 
 # Working with schedule view
 
-You can check any reservations created in your workplace and also make changes using the schedule view of the [[event-planner|event planner]].
+You can check any reservations created in your workplace and also make changes using the schedule view of the event planner.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
 
 Using the Event planner Schedule view, do the following:
 
--   You can only manage reservations created using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] applications.
+-   You can only manage reservations created using the Workplace Reservation Management applications.
 -   Manage single and multi-day reservations.
 -   You can manage or update a reservation only by opening a reservation on the reservation portal page and not using the Schedule view.
 
@@ -44,11 +44,11 @@ You can view reservations created in any campus, building, or floor of your orga
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select the **Event planner** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
@@ -135,9 +135,9 @@ You can view reservations created in any campus, building, or floor of your orga
         -   After you move the reservation, you must request the extra services again. When you move a reservation, the extra services are not moved as the services vary for different locations.
         -   If you are moving a reservation requested by an employee, a notification is sent to the employee to confirm the action.
         -   To change the reservation and keep the services, edit the reservation first.
-14. To [[create-reservation-request-1|create a reservation]] on the selected campus, select **Create new reservation**.
+14. To create a reservation on the selected campus, select **Create new reservation**.
 
-    For more information on how to [[reservation-portal|make a reservation]], refer to [Create a reservation]().
+    For more information on how to make a reservation, refer to [Create a reservation]().
 
 
 -   **[Allow Event planners to handle reservations with more flexibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner-bypass-validation-rule-overview.md)**  
@@ -147,19 +147,9 @@ Reservation or space planners can move or update reservation between Reservable 
 -   **[Create custom filters on the schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-custom-filters-on-schedule-view.md)**  
 Create custom filters in the schedule view to control which records appear in your list. You can set filter conditions to view only the records that meet your criteria.
 -   **[View space details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-space-details.md)**  
-View the full details of a workspace that you selected in the schedule view. You can view details such as the floor, building, capacity, [[standard-service|standard services]], and reservation purpose on the space details panel.
+View the full details of a workspace that you selected in the schedule view. You can view details such as the floor, building, capacity, standard services, and reservation purpose on the space details panel.
 -   **[Schedule view flexibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-view-flexibility.md)**  
 Event planners and space planners can organize, view, and manage events across multiple spaces and time zones using the Event planner **Scheduled view** tab.
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[reservation-portal|Make a reservation]]
-- [[standard-service|Standard services]]

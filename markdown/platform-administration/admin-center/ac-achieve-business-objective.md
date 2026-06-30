@@ -16,7 +16,7 @@ breadcrumb: [Discovering adoption blueprints, Admin Center, Get started, Adminis
 
 Adoption blueprints display the applications and features available to you and the recommended solutions to achieve business goals.
 
-Adoption blueprints are the specific and measurable [[hs-results|results]] that an organization needs to accomplish their growth. You can target the strategic business improvements with a set of apps and features.
+Adoption blueprints are the specific and measurable results that an organization needs to accomplish their growth. You can target the strategic business improvements with a set of apps and features.
 
 Some of the goals based on which adoption blueprints are recommended:
 
@@ -64,6 +64,3 @@ Install applications from the selected adoption blueprint to work towards achiev
 
 **Parent Topic:**[Discovering adoption blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-discover-ab.md)
 
-## Related
-
-- [[hs-results|Results]]

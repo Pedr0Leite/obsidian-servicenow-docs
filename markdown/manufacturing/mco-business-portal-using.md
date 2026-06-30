@@ -12,7 +12,7 @@ breadcrumb: [Order Management, Additional workflows, Use, Manufacturing Commerci
 
 # Using the Business Portal in Manufacturing Commercial Operations
 
-Customers can use the Business Portal to browse product catalogs and create product orders in Sales Customer Relationship Management for [[manufacturing-overview|Manufacturing Commercial Operations]].
+Customers can use the Business Portal to browse product catalogs and create product orders in Sales Customer Relationship Management for Manufacturing Commercial Operations.
 
 The Business Portal is a self-service web portal in Manufacturing Commercial Operations based on the Service Portal application.
 
@@ -27,7 +27,7 @@ The Business Portal supports your business-to-business \(B2B\) customers, allowi
 
 **Note:** The Business Portal Store app is automatically installed when you install the Customer Service Portal store app. For details, see .
 
-**Parent Topic:**[[mco-som-using|Order Management]]
+**Parent Topic:**[Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-som-using.md)
 
 ## Create an order using the Business Portal in Manufacturing Commercial Operations
 
@@ -91,7 +91,3 @@ Role required: agent
 
 The agent has the option to approve or reject the order.
 
-## Related
-
-- [[mco-som-using|Order Management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

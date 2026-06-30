@@ -86,7 +86,7 @@ Type of approver.-   Specific approvers: Your choice of approvers.
 -   Scripted approvers: Script to determine approvers. See the script shown as an example below.\[Omitted image "approval-rule-sample-script.png"\] Alt text: Sample script
 **Note:**
 
-For security reasons, the BCM admin doesn’t have write access to the **Script** field on the [[approval-rule-form|Approval Rule form]]. Only the Approver Configurator developer has create and write access to the **Script** field on the Approval Rule form.
+For security reasons, the BCM admin doesn’t have write access to the **Script** field on the Approval Rule form. Only the Approver Configurator developer has create and write access to the **Script** field on the Approval Rule form.
 
 If you have the BCM admin role, you can set up an approval rule only with types of approvers from the Approver type list:
 
@@ -217,9 +217,5 @@ Field values on the form:
 
 \[Omitted image "ScriptedApproverSampleScript.png"\] Alt text: Sample script to add approvers.
 
-**Parent Topic:**[[bcm-approval-configuration|Approval configuration]]
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-approval-configuration.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[approval-rule-form|Approval Rule form]]

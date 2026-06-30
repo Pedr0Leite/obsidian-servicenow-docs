@@ -18,7 +18,7 @@ Create or modify a record producer to define an intake form for a legal request.
 
 ## Before you begin
 
-Ensure that you have the [[legal-request-management-landing-page|Legal Request Management]] application scope selected.
+Ensure that you have the Legal Request Management application scope selected.
 
 Role required: sn\_lg\_ops.legal\_catalog\_admin
 
@@ -61,7 +61,7 @@ Table name
 Name of the table that stores the data collected through the record producer.-   Select **Legal Request \[sn\_lg\_ops\_request\]** if you are creating the record producer for legal requests.
 -   Select **Legal Matter \[sn\_lg\_matter\_matter\]** if you are creating the record producer for legal matters.
 
-**Note:** You must have installed the [[legal-matter-management-landing-page|Legal Matter Management]] app to use this option.
+**Note:** You must have installed the Legal Matter Management app to use this option.
 
 -   Select a table specific to a practice area if you want to use the data collected from the record producer for reporting. For more information, see [Configure a practice area table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/configure-pa-tables-for-reporting.md).
 
@@ -143,7 +143,7 @@ Name of the [service catalog category](https://raw.githubusercontent.com/Service
 
     For more information on creating variables, see [Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAVariableForACatalogItem.md).
 
-6.  In the Assigned topics related list, assign the catalog item to a topic in a taxonomy so that the catalog item is added to the [[employee-center-landing-page|Employee Center]] portal.
+6.  In the Assigned topics related list, assign the catalog item to a topic in a taxonomy so that the catalog item is added to the Employee Center portal.
 
     For more information on assigned topics and taxonomy, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
 
@@ -217,8 +217,3 @@ Name of the [service catalog category](https://raw.githubusercontent.com/Service
 
 **Parent Topic:**[Managing record producers for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/record-producers-legal-services.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[employee-center-landing-page|Employee Center]]

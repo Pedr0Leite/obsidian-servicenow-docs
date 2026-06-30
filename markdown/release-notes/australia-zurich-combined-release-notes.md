@@ -2156,7 +2156,7 @@ Order Management
 
 </td></tr><tr><td>
 
-[[partner-relationship-management-rn|Partner Relationship Management]]
+Partner Relationship Management
 
 </td><td>
 
@@ -3188,7 +3188,3 @@ Zero Copy Connectors
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[partner-relationship-management-rn|Partner Relationship Management]]

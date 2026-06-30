@@ -14,17 +14,13 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure Content Experiences and Quick links
 
-Configure the campaigns and other company resources that you want to provide your applicants in the [[applicant-center-concept|Applicant Center]].
+Configure the campaigns and other company resources that you want to provide your applicants in the Applicant Center.
 
 Create dedicated banners and campaigns with the Content Experiences in the Applicant Center. For more information on setting up the Content Experiences, see [Activate Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-automation-plugin.md).
 
 **Note:** You can provide the recruiters with the appropriate roles, so that they can target relevant content for the applicants in the Applicant Center.
 
-Provide your applicants relevant company content like the recruitment process and the company culture through [[emp-center-quick-link-config|Quick links]]. For more information creating Quick links, see [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md).
+Provide your applicants relevant company content like the recruitment process and the company culture through Quick links. For more information creating Quick links, see [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md).
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[emp-center-quick-link-config|Quick links]]

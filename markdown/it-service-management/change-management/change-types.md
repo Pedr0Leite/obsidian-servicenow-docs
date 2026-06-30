@@ -14,7 +14,7 @@ breadcrumb: [Explore, Change Management, IT Service Management]
 
 # Change types
 
-[[c_ITILChangeManagement|Change Management]] supports the three types of service changes ITIL describes — standard, emergency, and normal. The change type determines which state model is invoked and the change process that must be followed.
+Change Management supports the three types of service changes ITIL describes — standard, emergency, and normal. The change type determines which state model is invoked and the change process that must be followed.
 
 -   **Standard change**
 
@@ -34,7 +34,7 @@ breadcrumb: [Explore, Change Management, IT Service Management]
     -   Fail or fail situations where the impact to service is imminent if action is not taken.
     These changes do not follow the complete life cycle of a normal change due to the speed with which they must be authorized. Therefore, they progress directly to the **Authorize** state for approval from the CAB Approval group.
 
-    During an emergency change, there are chances that an unplanned CI change activity occurs. During such a case, an [[unauthorized-change-request|unauthorized change request]] is created and sent for approvals. For more information, see [Unauthorized change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauthorized-change-request.md).
+    During an emergency change, there are chances that an unplanned CI change activity occurs. During such a case, an unauthorized change request is created and sent for approvals. For more information, see [Unauthorized change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauthorized-change-request.md).
 
 -   **Normal change**
 
@@ -50,7 +50,3 @@ breadcrumb: [Explore, Change Management, IT Service Management]
 
 [Add a new change request type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewChangeType.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[unauthorized-change-request|Unauthorized change request]]

@@ -14,15 +14,15 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 
 # Using Enterprise graph schema
 
-Use Enterprise Graph for accurate [[natural-language-query|natural language query]] responses, across the entire database.
+Use Enterprise Graph for accurate natural language query responses, across the entire database.
 
-Enterprise graph is a pre-configured [[knowledge-graph-landing|Knowledge Graph]] schema that maps all instance tables and their connections, enabling natural language queries for data across all tables.
+Enterprise graph is a pre-configured Knowledge Graph schema that maps all instance tables and their connections, enabling natural language queries for data across all tables.
 
 To see some examples of the Natural Language query responses, refer [Natural language queries use cases and examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/natural-language-queries-example-usecases.md).
 
 Enterprise graph schema simplifies Knowledge Graph setup by providing a preconfigured schema, eliminating the need for custom schema creation in Knowledge Graph designer.
 
-Admins can choose Enterprise graph as the Knowledge Graph schema when using AI agents, [[platform-now-assist-landing|Now Assist]] Virtual Agent, or [[now-assist-center-now-assist-panel|Now Assist panel]] admin and add tags to enhance accuracy.
+Admins can choose Enterprise graph as the Knowledge Graph schema when using AI agents, Now Assist Virtual Agent, or Now Assist panel admin and add tags to enhance accuracy.
 
 By mapping all tables, the Enterprise graph schema expands query capabilities to cover the entire database, whereas a custom or out-of-the-box \(OOTB\) schema limits queries to only the tables included in its specific schema.
 
@@ -41,7 +41,7 @@ Enterprise Graph has two modes:
 -   Enterprise Graph- regular mode
 -   Enterprise Graph \(Small\)
 
-Regular mode is used for use [[cases|cases]] with large number of tables \(more than 50 tables\), to:
+Regular mode is used for use cases with large number of tables \(more than 50 tables\), to:
 
 -   Searches across all tables, but gives more priority to tables which are included in the tag added at time of configuring Enterprise Graph in the consuming app \(AI agent or VA\).
 -   Useful for scenarios where answer is expected from large number of tables.
@@ -55,10 +55,3 @@ Enterprise Graph \(Small\) is a version of Enterprise Graph that limits the sear
 
 Tags are lists of key tables that are important for answering natural language questions in a specific use case. They are required to be used with Enterprise Graph and Enterprise Graph \(Small\).
 
-## Related
-
-- [[natural-language-query|Natural Language Query]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[cases|Cases]]

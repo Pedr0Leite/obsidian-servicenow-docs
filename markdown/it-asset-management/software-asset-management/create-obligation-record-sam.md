@@ -15,7 +15,7 @@ breadcrumb: [Manage obligation tasks in the Software Asset Workspace, Using Soft
 
 # Create an obligation record in the Software Asset Workspace
 
-Create obligation records for signed [[c_Contracts|contracts]] in [[sam-workspace|Software Asset Workspace]] to fulfill the responsibilities specified in the contract through obligation tasks.
+Create obligation records for signed contracts in Software Asset Workspace to fulfill the responsibilities specified in the contract through obligation tasks.
 
 ## Before you begin
 
@@ -71,7 +71,3 @@ View the obligation record by navigating to any of the following paths:
 
 [Create an ad hoc obligation task in Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-adhoc-obligation-task-sam.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]

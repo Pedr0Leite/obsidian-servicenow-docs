@@ -26,7 +26,7 @@ Labor rate cards are included in the base system. Except for the **Number** fiel
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **TCO configuration** &gt; **Labor rate card**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **TCO configuration** &gt; **Labor rate card**.
 
 2.  Select **New**.
 
@@ -48,6 +48,4 @@ Labor rate cards are included in the base system. Except for the **Number** fiel
 
     After a labor rate card is created, expense lines are created based on the value in the **Use time worked** field.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

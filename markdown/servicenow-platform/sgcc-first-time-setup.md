@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Perform initial setup tasks when creating a connection in SGC Central
 
-Complete the prerequisites for setting up a connection for the first time using a Service Graph Connector within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+Complete the prerequisites for setting up a connection for the first time using a Service Graph Connector within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 ## Before you begin
 
@@ -55,7 +55,3 @@ During the initial connection setup with a Service Graph Connector, a few tasks 
     6.  From the application picker, select the application scope of the connector.
     7.  After completing the **Clear cache** activity, select **Continue**.
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

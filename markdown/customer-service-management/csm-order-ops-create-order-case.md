@@ -20,13 +20,13 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 
 ## Procedure
 
-1.  In [[csm-workspaces-configure|CSM Configurable Workspace]], create an order case in one of the following ways.
+1.  In CSM Configurable Workspace, create an order case in one of the following ways.
 
     -   Select **Create case** from a customer order.
     -   Select **Create case** from the Order Line Items list on a customer order. \(This UI action is enabled if one or more order lines are selected.\)
     -   Select **Create case** from an interaction record.
     -   Select **New** from the Order Cases list view.
-2.  Select an order-related service from the [[csm-case-type-select-modals|case type selector]] modal and then select **Create case**.
+2.  Select an order-related service from the case type selector modal and then select **Create case**.
 
     This modal displays the services that are available for order cases, such as Sales Order Change Request or Sales Order Dispute.
 
@@ -63,14 +63,7 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 After submitting an order case, you can:
 
 -   [Add or delete orders or order lines to an order case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-create-order-case.md)
--   [[csm-order-ops-order-case-add-lines|Create new order case lines for an order case]]
--   [[csm-order-ops-order-case-edit-lines|Edit the information in order case line records]]
--   [[csm-order-ops-order-case-create-task|Create tasks for order case lines and assign them to other users]]
+-   [Create new order case lines for an order case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-add-lines.md)
+-   [Edit the information in order case line records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-edit-lines.md)
+-   [Create tasks for order case lines and assign them to other users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-create-task.md)
 
-## Related
-
-- [[csm-order-ops-order-case-add-lines|Add orders or order lines to an order case]]
-- [[csm-order-ops-order-case-edit-lines|Edit an order case line item]]
-- [[csm-order-ops-order-case-create-task|Create a task for an order case line item]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-case-type-select-modals|Case type selector]]

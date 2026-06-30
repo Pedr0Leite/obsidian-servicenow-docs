@@ -22,7 +22,7 @@ Enable container image scanning using the Aqua Trivy tool.
 
 Verify the following setup:
 
--   [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns, starting 1.7.0 \(August 2023 store release\).
+-   Discovery and Service Mapping Patterns, starting 1.7.0 \(August 2023 store release\).
 -   CMDB CI Class Models, starting 1.43.0.
 -   Visibility Content, starting 6.7.2.
 -   For the container images scan to run successfully, verify that all the MID Servers in your environment are configured for specific capabilities and are not set to **All**. For more information on configuring capabilities, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/mid-server-capabilities.md).
@@ -59,7 +59,3 @@ The Scan Container Image pattern finds the image OS packages and creates applica
 
 **Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

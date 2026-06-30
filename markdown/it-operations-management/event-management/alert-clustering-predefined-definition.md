@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; ** [[c_EM|Event Management]]** &gt; **Tag Based Alert Clustering Engine** &gt; **Clustering Definitions**.
+1.  Navigate to **All** &gt; ** Event Management** &gt; **Tag Based Alert Clustering Engine** &gt; **Clustering Definitions**.
 
 2.  Select a predefined definition.
 
@@ -39,9 +39,5 @@ Role required: evt\_mgmt\_admin
 
 In the Tag Based Alert Clustering Definitions table, the **Active** field for the activated definition displays the value **true**. You can now associate an alert clustering tag with this definition, enabling effective grouping of alerts based on the defined criteria.
 
-To group alerts using tag-based grouping, you can also create a grouping automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
+To group alerts using tag-based grouping, you can also create a grouping automation in Service Operations Workspace. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

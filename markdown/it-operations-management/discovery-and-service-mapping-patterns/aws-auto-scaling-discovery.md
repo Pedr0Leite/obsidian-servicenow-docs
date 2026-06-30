@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS Auto Scaling groups discovery with Patterns
 
-The ® [[r-discovery|Discovery]] application uses the Amazon AWS - AutoScaling Groups \(LP\) pattern and Auto Scaling extensions to find AWS Auto Scaling groups. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ® Discovery application uses the Amazon AWS - AutoScaling Groups \(LP\) pattern and Auto Scaling extensions to find AWS Auto Scaling groups. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Starting with Discovery and Service Mapping Patterns version 1.0.95, the pattern extension is automatically displayed and collects the Auto Scaling tags.
 
@@ -26,11 +26,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Configure AWS Credentials**
 
-    On your instance, configure credentials of type **AWS Credentials** and set them to **Active**. For more information, see [[access-aws-accounts|Access setup for AWS service accounts]].
+    On your instance, configure credentials of type **AWS Credentials** and set them to **Active**. For more information, see [Access setup for AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/access-aws-accounts.md).
 
 -   **Configure a Cloud service account**
 
-    Configure the AWS service account valid in the ServiceNow instance. For more information, see [[setup-aws-service-accounts|Set up AWS service accounts.]]
+    Configure the AWS service account valid in the ServiceNow instance. For more information, see [Set up AWS service accounts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
 
 -   **Configure user permissions to execute the list AWS Auto Scaling groups API call**
 
@@ -166,9 +166,3 @@ The Amazon AWS - AutoScaling Groups \(LP\) pattern collects tags and populates t
 
 [AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[access-aws-accounts|Access setup for AWS service accounts]]
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

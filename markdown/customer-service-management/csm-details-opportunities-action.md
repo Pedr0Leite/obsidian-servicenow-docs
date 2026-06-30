@@ -16,7 +16,7 @@ The **Get Opportunities Details** action retrieves a single Opportunity record f
 
 ## Action inputs
 
-The **Get Opportunities Details** action takes a single integer parameter that identifies the Salesforce Account ID. This parameter is set by the form based on the sys\_id that was provided to the remote table in the remote table script. For more information, see [[csm-opportunity-table-script|Example script that queries the Opportunity table]].
+The **Get Opportunities Details** action takes a single integer parameter that identifies the Salesforce Account ID. This parameter is set by the form based on the sys\_id that was provided to the remote table in the remote table script. For more information, see [Example script that queries the Opportunity table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-opportunity-table-script.md).
 
 \[Omitted image "get-opportunity-details-action.jpg"\] Alt text: Get Opportunity Details page with Action Input section and Action Outline side panel with: Pre Processing script, REST step, and Post Processing script inputs.
 
@@ -46,9 +46,5 @@ The pre-processing output is a query similar to the other custom actions.
 
 These steps and outputs are the same as for the other custom actions except there is no maximum number of records parameter and no information message.
 
-**Parent Topic:**[[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve opportunities]]
+**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-salesforce-spoke.md)
 
-## Related
-
-- [[csm-opportunity-table-script|Example script that queries the Opportunity table]]
-- [[csm-integration-salesforce-spoke|Create Salesforce spoke actions to retrieve opportunities]]

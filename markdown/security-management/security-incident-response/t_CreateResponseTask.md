@@ -18,13 +18,13 @@ After a security incident has been created, you can create response tasks to tra
 
 ## Before you begin
 
-**Important:** If you are unable to [[create_response_task|create a response task]], verify that no custom ACLs on the task table are blocking access.
+**Important:** If you are unable to create a response task, verify that no custom ACLs on the task table are blocking access.
 
 Role required: sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to the appropriate [[location|location]] to open the security incident for which you want to create tasks.
+1.  Navigate to the appropriate location to open the security incident for which you want to create tasks.
 
     For example:
 
@@ -53,7 +53,7 @@ Select security tag
 
 </td><td>
 
-If you set up and activated [[create-class-group-and-tags|security tags]], you can select one or more tags to add metadata to the record or specify the degree of sensitivity of the response task. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md), you can select one or more tags to add metadata to the record or specify the degree of sensitivity of the response task. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Number
 
 </td><td>
 
-\[Read only\] The automatically generated [[sir-landing-page|Security Incident Response]] number.
+\[Read only\] The automatically generated Security Incident Response number.
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ Option to send email to the stakeholders.
 </td></tr></tbody>
 </table>5.  When you have completed your entries, select **Submit**.
 
-    **Note:** After you have created [[security-incident-response-tasks|Security Incident Response tasks]], you can view them using any of the following applications under the **Response Tasks** module:
+    **Note:** After you have created Security Incident Response tasks, you can view them using any of the following applications under the **Response Tasks** module:
 
     -   **Assigned to Me**.
     -   **Assigned to Team**.
@@ -194,10 +194,3 @@ Option to send email to the stakeholders.
     -   **Show All Tasks**
     -   **Unassigned Tasks**.
 
-## Related
-
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[create_response_task|Create a Response Task]]
-- [[location|Location]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-incident-response-tasks|Security Incident Response Tasks]]

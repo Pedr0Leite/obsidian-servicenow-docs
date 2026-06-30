@@ -14,7 +14,7 @@ breadcrumb: [Unified Employee Experience, Employee Service Management]
 
 # Employee Center for IT Service Management
 
-Employee Center for IT Service Management \(ITSM\) helps you improve the self-service capabilities and perform diverse admin and service management tasks from a dynamic unified [[employee-center-portal-overview|employee portal]].
+Employee Center for IT Service Management \(ITSM\) helps you improve the self-service capabilities and perform diverse admin and service management tasks from a dynamic unified employee portal.
 
 \[Omitted image "itsm-ec-functionalities.png"\] Alt text: This image lists the EC capabilities and benefits for ITSM.
 
@@ -22,7 +22,7 @@ Employee Center for IT Service Management \(ITSM\) helps you improve the self-se
 
 <table id="table_xns_mdm_s2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:[[employee-center-landing-page|Employee Center]] with the IT Service Management suite enhances the service experience leveraging a unified portal environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-itsm-ec.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Employee Center with the IT Service Management suite enhances the service experience leveraging a unified portal environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-itsm-ec.md)
 
 </td><td>
 
@@ -41,7 +41,3 @@ Employee Center for IT Service Management \(ITSM\) helps you improve the self-se
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]

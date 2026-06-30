@@ -14,7 +14,7 @@ breadcrumb: [Migrating to Smart Assessment, Set up Smart Assessment questionnair
 
 # Migrate survey instances to Smart Assessment
 
-When you [[migrate-to-smart-assessment-template|migrate a survey-based questionnaire to Smart Assessment]], migrate all the associated instances of a survey to Smart Assessment and re-trigger them.
+When you migrate a survey-based questionnaire to Smart Assessment, migrate all the associated instances of a survey to Smart Assessment and re-trigger them.
 
 ## About this task
 
@@ -48,6 +48,3 @@ Role required: questionnaire\_admin
 
 Survey instances for the questionnaire are migrated to Smart Assessment and re-triggered.
 
-## Related
-
-- [[migrate-to-smart-assessment-template|Migrate a survey-based questionnaire to Smart Assessment]]

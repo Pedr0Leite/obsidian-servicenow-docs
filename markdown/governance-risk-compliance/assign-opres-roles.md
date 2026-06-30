@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Assign Operational Resilience roles to your users
 
-Assign the appropriate roles to the users of the [[grc-opres-landing-page|Operational Resilience]] application.
+Assign the appropriate roles to the users of the Operational Resilience application.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To use the Operational Resilience application successfully, you must assign rele
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User [[Administration|Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Click the name of a user.
 
@@ -36,10 +36,6 @@ To use the Operational Resilience application successfully, you must assign rele
 
 6.  Repeat these steps for each of your users.
 
-    For more information on the roles, see [[roles-installed-with-op-res|Roles installed with Operational Resilience]].
+    For more information on the roles, see [Roles installed with Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-installed-with-op-res.md).
 
-## Related
 
-- [[roles-installed-with-op-res|Roles installed with Operational Resilience]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[Administration|Administration]]

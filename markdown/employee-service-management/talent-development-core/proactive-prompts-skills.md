@@ -14,13 +14,13 @@ breadcrumb: [Solve the challenge of adoption with Proactive Prompts, Exploring S
 
 # Proactive Prompts for Skills Foundation
 
-Recommend roles, skills, and missing proficiencies to the employees and get approval from managers in their flow of work [[proactive-prompts-using|using Proactive Prompts]].
+Recommend roles, skills, and missing proficiencies to the employees and get approval from managers in their flow of work using Proactive Prompts.
 
-Make sure that the signals are configured and scheduled to deliver the prompts. Prompts are displayed in [[employee-center-portal-overview|Employee Portal]] and Virtual Agent.
+Make sure that the signals are configured and scheduled to deliver the prompts. Prompts are displayed in Employee Portal and Virtual Agent.
 
 |Prompts|Description|
 |-------|-----------|
-|Employee Role Selection Prompt to Managers|Signal configuration to trigger prompts for employees to associate a primary role to their [[emp-slate-employee-profile|employee profile]].|
+|Employee Role Selection Prompt to Managers|Signal configuration to trigger prompts for employees to associate a primary role to their employee profile.|
 |Skills Update Reminder Prompt to Managers|Signal configuration to trigger prompt for managers that their employees didn't update their skills for a long time and reminding them to update those.|
 |Employee Role Selection Prompt to Employees|Signal configuration to trigger prompt for employees to associate skills to the primary role in their profile.|
 |Employee Skill Selection Prompt to Employees|Signal configuration to trigger prompt for employees to add appropriate skills to their profile.|
@@ -30,8 +30,3 @@ Make sure that the signals are configured and scheduled to deliver the prompts. 
 
 **Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/drive-adoption-proactive-prompts.md)
 
-## Related
-
-- [[proactive-prompts-using|Using Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[emp-slate-employee-profile|Employee profile]]

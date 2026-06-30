@@ -15,7 +15,7 @@ breadcrumb: [Work on an invoice exception, Invoice exceptions, Using Accounts Pa
 
 # Edit a purchase for an Insufficient Funds invoice exception
 
-Edit a purchase to resolve [[work-with-invoice-exceptions|invoice exceptions]] of type Insufficient Funds \(Amount variance\) and Insufficient Funds \(Quantity variance\).
+Edit a purchase to resolve invoice exceptions of type Insufficient Funds \(Amount variance\) and Insufficient Funds \(Quantity variance\).
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_shop.shopper
 
 ## About this task
 
-For more information about editing a [[purchase-order-table|purchase order]] line, see [Edit a purchase order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-purchase-order.md).
+For more information about editing a purchase order line, see [Edit a purchase order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-purchase-order.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For more information about editing a [[purchase-order-table|purchase order]] lin
 
 5.  In the **Purchase** field, select the purchase order and do one of the following:
 
-    -   To resolve the Insufficient Funds \(Quantity variance\) invoice exception, edit the purchase order and ensure that the purchase order quantity is greater than the invoiced quantity of all the [[invoices|invoices]] received for this purchase order.
+    -   To resolve the Insufficient Funds \(Quantity variance\) invoice exception, edit the purchase order and ensure that the purchase order quantity is greater than the invoiced quantity of all the invoices received for this purchase order.
     -   Insufficient Funds \(Line amount variance\) invoice exception, edit the purchase order and ensure that the purchase order amount is greater than the invoiced amount of all the invoices received for this purchase order.
 6.  Select **Submit**.
 
@@ -48,8 +48,3 @@ Mark the Insufficient Funds exception task as complete. For more information, se
 
 **Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 
-## Related
-
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[purchase-order-table|Purchase order]]
-- [[invoices|Invoices]]

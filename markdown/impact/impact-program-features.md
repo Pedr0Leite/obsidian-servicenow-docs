@@ -12,7 +12,7 @@ breadcrumb: [Impact]
 
 # Exploring Impact
 
-ServiceNow [[impact-landing-page|Impact]] personalizes your digital transformation journey and accelerates your time-to-value integrated within your ServiceNow AI Platform instance and Impact.
+ServiceNow Impact personalizes your digital transformation journey and accelerates your time-to-value integrated within your ServiceNow AI Platform instance and Impact.
 
 ## Impact overview
 
@@ -23,7 +23,7 @@ ServiceNow Impact is a customer success product that helps you to leverage the p
 -   Maintain a high-performing platform ready for growth.
 -   Enhance business continuity with 24x7 technical support.
 
-Track progress against your outcomes, share insights and industry benchmark comparisons, and make data-driven decisions to optimize your digital transformation journey. Enable proactive management of instance quality, compliance, and [[instance-observer-performance|performance]] with [[platform-health-idi|platform health]].
+Track progress against your outcomes, share insights and industry benchmark comparisons, and make data-driven decisions to optimize your digital transformation journey. Enable proactive management of instance quality, compliance, and performance with platform health.
 
 ## Impact platforms
 
@@ -43,7 +43,7 @@ See the Impact overview video to get started with the Impact Store Application.
 
 ## Impact Delivery Instance
 
--   Your [[impact-squad|Impact squad]] interactive space.
+-   Your Impact squad interactive space.
 -   The provider for data synced with the Impact Store Application.
 -   Existing data from the Impact IDI is migrated at setup to the Impact Store Application to ensure that critical information is integrated within your ServiceNow instance.
 -   Impact Store Application: The customer instance where the Impact Store Application is installed and is accessed in addition to the Impact Delivery Instance portal.
@@ -57,12 +57,5 @@ See the Impact overview video to get started with the Impact Store Application.
 
 Impact Digest is auto-generated periodically and offers a personalized Impact consumption snapshot with curated content from Customer Support Managers \(CSMs\) on ServiceNow products, and Impact content.
 
-With manual curation of content by a CSM Newsletter team, based on Impact Squad’s opted topics and insightful consumption statistics, access your goals and improve platform health, [[product-adoption|product adoption]], and value-realization.
+With manual curation of content by a CSM Newsletter team, based on Impact Squad’s opted topics and insightful consumption statistics, access your goals and improve platform health, product adoption, and value-realization.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-squad|Impact Squad]]
-- [[product-adoption|Product Adoption]]

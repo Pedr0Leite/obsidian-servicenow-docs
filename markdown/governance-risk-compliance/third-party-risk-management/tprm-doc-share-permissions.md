@@ -15,7 +15,7 @@ breadcrumb: [DMS system, Third-party Risk Management, Governance, Risk, and Comp
 
 # Define document sharing permissions
 
-Controls who can view, edit, or manage a document using the [[tprm-dms|Document Management system in Third-party Risk Management]] \(TPRM\).
+Controls who can view, edit, or manage a document using the Document Management system in Third-party Risk Management \(TPRM\).
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Sharing permissions define which users or groups can view, edit, or manage a doc
 
 Verify that permissions work as expected by checking access from a user account with restricted rights.
 
-## Related
-
-- [[tprm-dms|Document Management system in Third-party Risk Management]]

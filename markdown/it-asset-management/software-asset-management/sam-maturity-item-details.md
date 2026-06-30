@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Maturity item details
 
-Fields on the [[maturity-item-details|Maturity item details]] form help you view and update the state and success goal of the maturity item.
+Fields on the Maturity item details form help you view and update the state and success goal of the maturity item.
 
 <table id="table_i2p_nkq_bzb"><thead><tr><th>
 
@@ -134,6 +134,3 @@ Notes about the maturity item, which are visible to all users within your organi
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[maturity-item-details|Maturity item details]]

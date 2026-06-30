@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Use Location Filter criteria, Location Filter, Filter cri
 
 # Use Location Filter for Session Access
 
-Use the [[location-filter|location filter]] criteria created in Session Access to reduce roles based on the location of the user.
+Use the location filter criteria created in Session Access to reduce roles based on the location of the user.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-The following procedure describes on how to create a Location Filter with the countries that you want to remove or limit roles to the [[users|users]] based on the location.
+The following procedure describes on how to create a Location Filter with the countries that you want to remove or limit roles to the users based on the location.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Zero Trust Access** &gt; **Session Access Role Configurations**.
 
-2.  To create a session access role [[sc-configuration|configuration]], select **New**.
+2.  To create a session access role configuration, select **New**.
 
 3.  On the form, fill the fields:
 
@@ -97,11 +97,6 @@ Choose the role from the Group List.
 
     -   If **Remove Roles**, the users from the configured countries in the location filter will be removed with the roles configured for the session.
     -   If **Limit To Roles**, the users from the configured countries in the location filter has only the roles that are configured for the session.
-    To know more about how to remove or limit roles for a session, see [[use-zero-trust-access|Tutorial: Use Zero Trust Access]].
+    To know more about how to remove or limit roles for a session, see [Tutorial: Use Zero Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-zero-trust-access.md).
 
-## Related
 
-- [[use-zero-trust-access|use zero trust access]]
-- [[location-filter|Location Filter]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

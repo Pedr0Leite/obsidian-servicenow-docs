@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Identify Instance Data Replication errors
 
-Identify [[instance-data-replication|Instance Data Replication]] \(IDR\) errors by viewing the metadata for messages between producer and consumer instances, payload error logs, and message logs.
+Identify Instance Data Replication \(IDR\) errors by viewing the metadata for messages between producer and consumer instances, payload error logs, and message logs.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ Navigate to **Instance Data Replication** &gt; **Consumer Replication Sets**, se
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

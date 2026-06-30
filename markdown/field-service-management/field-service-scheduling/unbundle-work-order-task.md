@@ -26,7 +26,7 @@ When you unbundle a work order task bundle, the work order task bundle enters a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -62,6 +62,4 @@ Select the bundle.
 </td></tr></tbody>
 </table>4.  Select **Unbundle**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

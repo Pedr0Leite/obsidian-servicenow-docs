@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.ws\_admin and sn\_hr\_core.admin
 
 ## About this task
 
-Guided Setup supports domain separation at the global and at the parent or child levels. You can run the guided setup separately for each domain within [[hr-service-delivery|HR Service Delivery]].
+Guided Setup supports domain separation at the global and at the parent or child levels. You can run the guided setup separately for each domain within HR Service Delivery.
 
 To learn more about domain separation, see [Domain Separation and HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-domain-separation.md).
 
@@ -40,7 +40,7 @@ To learn more about domain separation, see [Domain Separation and HR Service Del
 
 3.  Expand any category to view detailed status and related tasks.
 
-    1.  Click **Start** to set up each task or [[activity-lxp|activity]] within a category.
+    1.  Click **Start** to set up each task or activity within a category.
     2.  Click **Mark as complete** after you are done with the set up.
 <table id="table_zdv_f41_ybc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Set up your HR team's groups, roles and tier escalation definitions to enable wh
 -   Set up HR roles to control access to functions in the HR application.
 -   Set up group's roles.
 -   Set up individual user's roles.
--   Set up client role rules for non HR team users to be able to access [[hr-service-administration|HR Services]].
+-   Set up client role rules for non HR team users to be able to access HR Services.
 -   Set up HR tier escalation rules.
 
 
@@ -82,7 +82,7 @@ HR Chat and Email Configuration
 
 </td><td>
 
-Set up your [[HRNotifications|HR notifications]], email, and chat settings.-   Set up HR chat queue so that users can communicate to HR staff via chats.
+Set up your HR notifications, email, and chat settings.-   Set up HR chat queue so that users can communicate to HR staff via chats.
 -   Set up email notifications to define who receives what content when process related changes occur.
 -   Set up email templates used in notifications.
 -   Set up email scripts used by templates.
@@ -95,16 +95,16 @@ HR Application Configuration
 </td><td>
 
 Set up your applications with components that define the operation and available data groupings:-   Set up criteria to define groups of users based on conditions, allowing for pre defined group actions.
--   Set up [[document-templates-overview|Document Templates]] to define text and formats that can be used for HR application functions such as signed documents and employee verification letters.
+-   Set up Document Templates to define text and formats that can be used for HR application functions such as signed documents and employee verification letters.
 -   Set up external links to manage URL based content available to users.
 -   Set up properties that adjust runtime behavior of the HR application.
 -   Set up relationships between users.
--   Set up surveys to define who receives and what type of information is captured from users during [[case-management-workspace|case management]].
+-   Set up surveys to define who receives and what type of information is captured from users during case management.
 
 
 </td></tr><tr><td>
 
-[[hr-knowledge-management|HR Knowledge Management]]
+HR Knowledge Management
 
 </td><td>
 
@@ -126,7 +126,7 @@ Service catalog helps to present the services that your organization offers to e
 
 </td></tr><tr><td>
 
-[[hr-service-configuration|HR Service Configuration]]
+HR Service Configuration
 
 </td><td>
 
@@ -155,13 +155,4 @@ HR Service Definitions tables that contain data used by the HR Services. -   Set
 </td></tr></tbody>
 </table>4.  Click **Complete** after you have finished all the tasks within all categories.
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]
-- [[HRNotifications|HR notifications]]
-- [[document-templates-overview|Document Templates]]
-- [[case-management-workspace|Case management]]
-- [[hr-knowledge-management|HR Knowledge Management]]
-- [[hr-service-configuration|HR service configuration]]

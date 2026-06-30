@@ -14,7 +14,7 @@ breadcrumb: [Displaying function results, Work with database views, Table admin,
 
 # Display function results in a database view
 
-Add a [[platform-support-functions|function field]] to the output of a database view to see function [[hs-results|results]].
+Add a function field to the output of a database view to see function results.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ The function field operation is executed and the results appear in the database 
 
 **Parent Topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 
-## Related
-
-- [[platform-support-functions|Function field]]
-- [[hs-results|Results]]

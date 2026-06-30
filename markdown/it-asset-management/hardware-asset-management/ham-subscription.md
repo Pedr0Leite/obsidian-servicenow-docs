@@ -15,7 +15,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Hardware Asset Management subscription
 
-The ServiceNow platform uses a licensing method where your organization is charged for using the IT Asset Management application- ServiceNow [[ham-landing-page|Hardware Asset Management]].
+The ServiceNow platform uses a licensing method where your organization is charged for using the IT Asset Management application- ServiceNow Hardware Asset Management.
 
 **Note:** You must install Hardware Asset Management from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to help you automate tasks and simplify work.
 
@@ -66,13 +66,13 @@ Get the most out of your asset data to save time and resources with the followin
 -   [Inventory reports for managing stockrooms in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-inventory-report-ham.md)
 -   [Approximated lifecycle and lifecycle code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/approximated-lifecycles-hardware-products.md)
 
-The following base system features of Core [[am-landing-page|Asset Management]] are provided with ServiceNow IT Service Management \(ITSM\) and Customer Service Management \(CSM\) product.
+The following base system features of Core Asset Management are provided with ServiceNow IT Service Management \(ITSM\) and Customer Service Management \(CSM\) product.
 
 -   Asset and model records
--   [[c_Stockrooms|Stockrooms]]
+-   Stockrooms
 -   Transfer orders
 -   Purchase orders
--   [[c_Contracts|Contracts]]
+-   Contracts
 -   Mobile asset receiving
 -   Mobile - My Assets
 
@@ -85,12 +85,5 @@ Manage the subscription units purchased and consumed by your organization for al
 -   **[Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md)**  
 Pay only for the assets using licensed Hardware Asset Management features and exclude an asset for which you don't want to use the licensed features.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Contracts|Contracts]]

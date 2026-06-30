@@ -14,7 +14,7 @@ breadcrumb: [Unified ticket experience setting, Configure service to use Univers
 
 # Configure a catalog item or record producer to create a universal request
 
-Create a [[ur-landing-limitedaccess|universal request]] along with a requested item or task-based record to provide unified ticketing experience.
+Create a universal request along with a requested item or task-based record to provide unified ticketing experience.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ UR certified/enabled item
 
 </td><td>
 
-Option to specify that a universal request should also be created along with a requested item or task-based record. In the universal request, a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] is created to the associated requested item or task-based record, which becomes the primary task of the universal request.
+Option to specify that a universal request should also be created along with a requested item or task-based record. In the universal request, a reference is created to the associated requested item or task-based record, which becomes the primary task of the universal request.
 
 </td></tr><tr><td>
 
@@ -78,12 +78,7 @@ Option to automatically select the **Needs resolution review** check box on the 
 
 [Email notification preferences for your service]()
 
-[Automatically [[ur-create-universal-request-record|create universal request]] from an inbound email]()
+[Automatically create universal request from an inbound email]()
 
 [Service Catalog configuration for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ur-catalog-config.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ur-create-universal-request-record|Create Universal Request]]

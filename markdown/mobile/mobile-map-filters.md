@@ -22,20 +22,14 @@ By default, the instance automatically creates a filter and sorting functionalit
 
 ## Custom filters
 
-If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the map filter, as well as enable keyword filtering. Custom filters can include fields that are not in the map pattern. For more details on creating custom filters, see [[config-mobile-list-filter|Configure a custom filter]].
+If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the map filter, as well as enable keyword filtering. Custom filters can include fields that are not in the map pattern. For more details on creating custom filters, see [Configure a custom filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-list-filter.md).
 
 **Note:** For those who have upgraded to the Rome release, consider the following:
 
 -   If you did not define filters and are using the default setup, you automatically use the default filters and sorting capabilities after the upgrade.
--   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [[list-filter-sorting|Configure sorting capabilities within mobile filters]].
+-   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [Configure sorting capabilities within mobile filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-filter-sorting.md).
 
 ## Disable filters
 
-To disable filters and sorting on [[map-screen|map screen]], open the map screen record, click the **Filter** tab, and disable the **Show or hide filters for this [[list-screen|list screen]]** option. When filtering is turned off, users are unable to filter or sort records.
+To disable filters and sorting on map screen, open the map screen record, click the **Filter** tab, and disable the **Show or hide filters for this list screen** option. When filtering is turned off, users are unable to filter or sort records.
 
-## Related
-
-- [[config-mobile-list-filter|Configure a custom filter]]
-- [[list-filter-sorting|list filter sorting]]
-- [[map-screen|Map screen]]
-- [[list-screen|List screen]]

@@ -36,7 +36,7 @@ Once you run this job, the finanical baselines are updated with the investment c
 
 2.  Filter the Name field to locate and open **Update multi-currency fields to investment currency for existing demands and projects**.
 
-3.  Select **Active** and on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill in the details.
+3.  Select **Active** and on the Scheduled Script Execution form, fill in the details.
 
     For a description of the field names, see [Scheduled Script Execution form to generate labor costs for planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/gen-labor-costs-scheduled-script-execution-form-spw.md).
 
@@ -47,6 +47,3 @@ Once you run this job, the finanical baselines are updated with the investment c
 
 After executing the job, ensure the investment currency fields are populated correctly based on your project or demand currency.
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

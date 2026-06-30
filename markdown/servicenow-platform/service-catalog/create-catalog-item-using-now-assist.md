@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist conversation to create and edit catalog items, Now
 
 # Creating a catalog item conversationally using Now Assist
 
-Create a catalog item conversationally using Now Assist and make the item available in [[service-catalog|Service Catalog]] for catalog item requests. You can also define dynamic behavior for your catalog item and apply auto-populate settings.
+Create a catalog item conversationally using Now Assist and make the item available in Service Catalog for catalog item requests. You can also define dynamic behavior for your catalog item and apply auto-populate settings.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: catalog\_builder\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Catalog** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Dashboard** tab and select **Create a new catalog item**.
 
@@ -61,7 +61,3 @@ Role required: catalog\_builder\_editor
 
 [Suggestions to describe catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/how-to-describe-catalog-item.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]

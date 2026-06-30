@@ -26,7 +26,7 @@ You can generate a report for engagements that are in the **Awaiting approval**,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -49,6 +49,4 @@ You can generate a report for engagements that are in the **Awaiting approval**,
 
 8.  To generate the report, select the **Generate report** button.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

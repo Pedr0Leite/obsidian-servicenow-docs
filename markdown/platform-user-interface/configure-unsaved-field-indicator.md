@@ -22,7 +22,7 @@ Role required: admin
 
 The unsaved field indicator displays a dot on unsaved fields. You can configure the unsaved field indicator for individual workspace pages in UI Builder.
 
-If you want to display the unsaved field indicator for the entire workspace experience, [[configure-onboarding-modals|configure]] a UX page property.
+If you want to display the unsaved field indicator for the entire workspace experience, configure a UX page property.
 
 The following fields don't support the unsaved field indicator:
 
@@ -69,11 +69,8 @@ Unsaved fields display an indicator across the entire workspace experience.
 
 ## What to do next
 
--   **[[configure-background-color-unsaved-indicator|Configure a background color for unsaved fields]]**
+-   **[Configure a background color for unsaved fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-background-color-unsaved-indicator.md)**
 
     Configure a background color for unsaved fields in addition to the unsaved field indicator.
 
-## Related
 
-- [[configure-background-color-unsaved-indicator|Configure a background color for unsaved fields]]
-- [[configure-onboarding-modals|Configure]]

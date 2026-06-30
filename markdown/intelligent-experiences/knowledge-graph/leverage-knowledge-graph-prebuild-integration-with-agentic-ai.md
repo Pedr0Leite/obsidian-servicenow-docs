@@ -14,16 +14,16 @@ breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
 
 # Leverage Knowledge Graph prebuild integration with AI agents
 
-The prebuilt integrations of [[knowledge-graph-landing|Knowledge Graph]], can improve live agent productivity by assisting AI agents in performing tasks and answering user queries.
+The prebuilt integrations of Knowledge Graph, can improve live agent productivity by assisting AI agents in performing tasks and answering user queries.
 
 In this release, the available prebuilt integrations with AI agents are:
 
-1.  Integration with [[na-ai-agents|Now Assist AI agents]] for User Context: Helps users with personalized responses.
+1.  Integration with Now Assist AI agents for User Context: Helps users with personalized responses.
 2.  Integration with AI agents as a tool: Used to perform specific tasks that are assigned to the AI agents.
 
 ## Integration with AI agents for User Context
 
-For the users of [[platform-now-assist-landing|Now Assist]], AI agents integrates the context from the prebuilt User Profile schema to fetch relevant data and provide personalized responses.
+For the users of Now Assist, AI agents integrates the context from the prebuilt User Profile schema to fetch relevant data and provide personalized responses.
 
 By leveraging relationships between users, teams, and content, Now Assist AI agents can fetch relevant, permission-aware user information and provide answers to reduce slot-filing requirement.
 
@@ -47,7 +47,7 @@ Knowledge Graph can now be used as a tool within AI agents. Users can choose Kno
 
 You can define the flow action to use Knowledge Graph as a reusable operation in automating the ServiceNow AI Platform features without having to write code.
 
-See [[add-knowledge-graph|Add a Knowledge Graph to an AI agent]] to add Knowledge Graph to an AI agents in [[ai-agent-studio|AI Agent Studio]].
+See [Add a Knowledge Graph to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-knowledge-graph.md) to add Knowledge Graph to an AI agents in AI Agent Studio.
 
 Example use case:
 
@@ -115,10 +115,3 @@ When a user ask a query `What is my Manager's name?`, AI agents reaches out to K
 
 In this example, the table that is called is `sys_user` and column referred is `user_name`. The output also displays SysId , example: `"sysId": "62826bf03710200044e0bfc8bcbe5df1"`.
 
-## Related
-
-- [[add-knowledge-graph|Add a Knowledge Graph to an AI agent]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]

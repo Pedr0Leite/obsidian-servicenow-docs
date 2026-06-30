@@ -16,7 +16,7 @@ Configure the ServiceNow AI Platform to automatically create events in MISP.
 
 ## Before you begin
 
--   [[misp-user-roles-and-permissions|Review the MISP user role and permissions]] that are required for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md) that are required for using the MISP bi-directional features.
 -   Role required: sn\_si.admin, sn\_ti.admin
 
 ## Procedure
@@ -79,7 +79,7 @@ Option that indicates if the profile is active or inactive. The option is cleare
 </table>4.  Click **Continue**.
 
 
-**Parent Topic:**[[misp-administration|MISP administration]]
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -114,7 +114,7 @@ Role required: sn\_sec\_misp.write
 
 1.  On the Trigger Conditions form, fill in the details that can trigger an event.
 
-    You can build a compound logic by providing the trigger conditions that are based on security incident fields or observable fields. You can also create events in MISP if [[c_Observables|observables]] don't have a corresponding event in MISP. You can choose to build a compound logic by using a combination of the three trigger conditions - Trigger based on security incident fields, Trigger based on observable fields, and Create MISP event, if an observable doesn't have corresponding events in MISP. If you select multiple triggers, you can join them by using the AND condition. Consider creating a profile with new conditions if you must use the OR condition.
+    You can build a compound logic by providing the trigger conditions that are based on security incident fields or observable fields. You can also create events in MISP if observables don't have a corresponding event in MISP. You can choose to build a compound logic by using a combination of the three trigger conditions - Trigger based on security incident fields, Trigger based on observable fields, and Create MISP event, if an observable doesn't have corresponding events in MISP. If you select multiple triggers, you can join them by using the AND condition. Consider creating a profile with new conditions if you must use the OR condition.
 
 <table id="table_bkc_wps_lqb"><thead><tr><th>
 
@@ -198,7 +198,7 @@ Event Info
 
 </td><td>
 
-Event information that is automatically created from the ServiceNow AI Platform [[sir-landing-page|Security Incident Response]].The **Event Info** field supports substitution variables by using $⁠\{SIR FIELD LABEL\}$. During an event creation, these variables are replaced with the actual security incident field values. The $\{URL\}$ substitution variable is replaced with the URL of the security incident.
+Event information that is automatically created from the ServiceNow AI Platform Security Incident Response.The **Event Info** field supports substitution variables by using $⁠\{SIR FIELD LABEL\}$. During an event creation, these variables are replaced with the actual security incident field values. The $\{URL\}$ substitution variable is replaced with the URL of the security incident.
 
 </td></tr><tr><td>
 
@@ -218,7 +218,7 @@ Threat Level
 
 </td><td>
 
-Field that indicates the risk level of the event. You can categorize incidents into three different threat categories \(low, medium, high\). This field can also be left as undefined. The following are the options: -   Low: General mass [[threat-intelligence-malware|malware]]
+Field that indicates the risk level of the event. You can categorize incidents into three different threat categories \(low, medium, high\). This field can also be left as undefined. The following are the options: -   Low: General mass malware
 -   Medium: Advanced Persistent Threats \(APT\)
 -   High: Sophisticated APTs and 0-day attacks
 
@@ -239,7 +239,7 @@ Current stage of the analysis for the event, with the following possible options
 
 
 
-    \[Omitted image "misp-event-field-[[mapping-logrhythm|mapping]].png"\] Alt text: Configure the form to create a new event in MISP.
+    \[Omitted image "misp-event-field-mapping.png"\] Alt text: Configure the form to create a new event in MISP.
 
 2.  Click **Continue**.
 
@@ -254,7 +254,7 @@ Role required: sn\_sec\_misp.write
 
 ### About this task
 
-The [[misp-integration-for-security-operations|MISP integration for Security Operations]] provides a base system mapping that you use when you add SIR observables as attributes to a MISP event.
+The MISP integration for Security Operations provides a base system mapping that you use when you add SIR observables as attributes to a MISP event.
 
 You can choose to modify the base system mapping to suit your environment. For example, you can map multiple SIR observables to only one MISP attribute type. If any observable types are not mapped, the **other** MISP attribute type is selected by default.
 
@@ -362,7 +362,7 @@ Option to synchronize the ServiceNow AI Platform SIR security incident MITRE-ATT
 </table>
 ### Result
 
-You created a profile that enables you to automatically create events in MISP from the ServiceNow AI Platform. You can now view the events in the [[associated-misp-events|Associated MISP Events]] related list.
+You created a profile that enables you to automatically create events in MISP from the ServiceNow AI Platform. You can now view the events in the Associated MISP Events related list.
 
 ## Add MISP tags to events
 
@@ -391,13 +391,3 @@ Role required: sn\_sec\_misp.write
 
 Adding MISP tags helps in classification of the event.
 
-## Related
-
-- [[misp-user-roles-and-permissions|MISP user roles and permissions]]
-- [[misp-administration|MISP administration]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[mapping-logrhythm|Mapping]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]
-- [[associated-misp-events|Associated MISP events]]

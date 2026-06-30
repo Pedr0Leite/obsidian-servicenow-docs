@@ -23,7 +23,7 @@ For an auto-generated interaction record, the **Details** tab contains details o
 |Type|Channel through which interaction is created. For example, chat.|
 |Assigned to|Name of the assigned agent.|
 |State|Status of the interaction|
-|Application|Type of application. For example, [[fin-case-mgmt-landing-page|Finance Case Management]].|
+|Application|Type of application. For example, Finance Case Management.|
 |Short description|Brief description of the interaction.|
 |Work notes|Additional notes about the interaction record.|
 
@@ -42,6 +42,3 @@ For an auto-generated interaction record, the **Details** tab contains details o
 
 [Create knowledge base article form]()
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

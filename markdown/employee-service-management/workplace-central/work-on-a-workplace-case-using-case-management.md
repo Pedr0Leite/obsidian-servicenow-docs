@@ -14,7 +14,7 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Work on a workplace case using Case management
 
-Update, edit, or resolve a workplace case at any time from a single workspace using the [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace.
+Update, edit, or resolve a workplace case at any time from a single workspace using the Workplace Central Case management workspace.
 
 ## Before you begin
 
@@ -39,9 +39,9 @@ For more information about the features and actions that you can perform in the 
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the pane, select the **Case Management** icon \[Omitted image "casemgmt-icon.png"\] Alt text:.
 
@@ -60,7 +60,7 @@ For more information about the features and actions that you can perform in the 
 
     The case details are displayed in a new tab. For more information about the view, the actions that you can perform and additional features, see the Case details page section in the [Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md) topic.
 
-5.  Summarize the case [[now-assist-wsd-using|using Now Assist for WSD]].
+5.  Summarize the case using Now Assist for WSD.
 
     For more information about summarizing a workplace case, see [Summarize a workplace case using Now Assist for WSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/summarize-workplace-case.md).
 
@@ -95,7 +95,7 @@ You can edit details like the **Workplace service** using the case that was requ
 
 </td><td>
 
-In the **Details** tab, do the following:1.  Go to the **Compose &amp; [[activity-lxp|Activity]]** panel.
+In the **Details** tab, do the following:1.  Go to the **Compose &amp; Activity** panel.
 2.  To add a comment, select the **Comments** tab and add your comment.
 3.  To add private notes, select **Work notes \(Private\)** and add your notes.
 4.  Select **Post comments**.
@@ -185,7 +185,7 @@ Select the Location icon \[Omitted image "casemgmt-locationicon.png"\] Alt text:
 
 </td><td>
 
-Select the fulfillment Instructions icon \[Omitted image "casemgmt-fulfimenticon.png"\] Alt text:.To [[add-fulfillment-instructions|add fulfillment instructions]], see [Add Fulfillment instructions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-fulfillment-instructions.md).
+Select the fulfillment Instructions icon \[Omitted image "casemgmt-fulfimenticon.png"\] Alt text:.To add fulfillment instructions, see [Add Fulfillment instructions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-fulfillment-instructions.md).
 
 </td></tr><tr><td id="d364035e625">
 
@@ -307,12 +307,3 @@ The workplace case is updated or modified based on your changes. To cancel or de
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[now-assist-wsd-using|Using Now Assist for WSD]]
-- [[activity-lxp|Activity]]
-- [[add-fulfillment-instructions|Add Fulfillment instructions]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate Release Management, Release Management, IT Service Managem
 
 # Components installed with Release Management
 
-Several types of components are installed with activation of the [[c_ITILReleaseManagement|Release Management]] v2 plugin, including tables and user roles.
+Several types of components are installed with activation of the Release Management v2 plugin, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -116,6 +116,3 @@ Represents work items and change records associated to the release.
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/t_ActivateReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]

@@ -50,7 +50,7 @@ cd-announcements
 
 </td><td>
 
-Shows [[ec-streamline-content|portal content]] with content type of Rich Text. Generally, a brief broadcast message and shows in a carousel when there are multiple items.
+Shows portal content with content type of Rich Text. Generally, a brief broadcast message and shows in a carousel when there are multiple items.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ cd-news-feed-category
 
 </td><td>
 
-Shows previews of [[ec-news-articles|news articles]] for a specific category.
+Shows previews of news articles for a specific category.
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Shows an organization chart of an employee.
 
 </td></tr><tr><td>
 
-Preview [[ec-mobile-content|Mobile Content]] \(CD\)
+Preview Mobile Content \(CD\)
 
 </td><td>
 
@@ -218,11 +218,11 @@ preview\_content\_todos
 
 </td><td>
 
-Shows a preview of [[ec-to-do-content|to-do content]].
+Shows a preview of to-do content.
 
 </td></tr><tr><td>
 
-[[emp-center-quick-link-config|Quick Links]] \(CD\)
+Quick Links \(CD\)
 
 </td><td>
 
@@ -308,7 +308,7 @@ Shows portal content with content type of Banner. Generally used to show informa
 |Widget|ID|Description|
 |------|---|-----------|
 |Employee Profile Details|employee\_profile\_details|Displays the basic profile and work- related information of an employee.|
-|Employee Profile Header|employee\_profile\_header|Appears across the [[emp-slate-employee-profile|employee profile]] page.|
+|Employee Profile Header|employee\_profile\_header|Appears across the employee profile page.|
 |Employee Profile My Team|employee\_profile\_my\_team|Displays my team information.|
 |Employee Profile Overview|employee-profile-overview|Displays the employee profile overview.|
 |Public Profile Visibility|public\_profile\_visibility|Shows the visibility setting for the profile. You can modify the visibility settings based on your needs.|
@@ -339,7 +339,7 @@ For more information on configuring widgets, see [Customize Employee Center Pro 
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -375,12 +375,3 @@ For more information on configuring widgets, see [Customize Employee Center Pro 
 
 [To-do content form]()
 
-## Related
-
-- [[ec-streamline-content|Portal content]]
-- [[ec-news-articles|News articles]]
-- [[ec-mobile-content|Mobile content]]
-- [[ec-to-do-content|To-do content]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

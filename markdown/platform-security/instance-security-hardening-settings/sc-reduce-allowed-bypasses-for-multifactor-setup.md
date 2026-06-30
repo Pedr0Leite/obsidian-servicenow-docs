@@ -16,15 +16,15 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Decrease the window of time an account is at risk of compromise by reducing allowed bypasses for multifactor setup.
 
-Reduce the number of times a user can skip the multifactor passcode setup requirement to decrease the window of time an account is at risk of compromise. Multifactor [[c_Authentication|authentication]] \(MFA\) protects against password-related attacks or weak passwords by requiring an additional form of verification. Reducing the length of time a user can skip this setup reduces this vulnerability.
+Reduce the number of times a user can skip the multifactor passcode setup requirement to decrease the window of time an account is at risk of compromise. Multifactor authentication \(MFA\) protects against password-related attacks or weak passwords by requiring an additional form of verification. Reducing the length of time a user can skip this setup reduces this vulnerability.
 
-Set the **glide.authenticate.multifactor.setup.bypass.count** system property to **0** to prevent [[users|users]] from skipping multifactor passcode setup.
+Set the **glide.authenticate.multifactor.setup.bypass.count** system property to **0** to prevent users from skipping multifactor passcode setup.
 
 ## More information
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|glide.authenticate.multifactor.setup.bypass.count|
+|Technical configuration name|glide.authenticate.multifactor.setup.bypass.count|
 |Plugin applicability|None.|
 |Security risk|Multifactor authentication protects against password-related attacks or weak passwords by requiring an additional form of verification. A high number of allowed multifactor setup bypasses increases the risk of account compromise as the account isn’t protected by multifactor. A small number of allowed bypasses reduces this window of time.|
 |Common Vulnerability Scoring System \(CVSS\) score|3.9|
@@ -40,8 +40,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

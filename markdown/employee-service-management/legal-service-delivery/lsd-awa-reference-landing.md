@@ -14,14 +14,10 @@ breadcrumb: [Advanced work assignment for Legal Service Delivery, Integration wi
 
 # Advanced Work Assignment for Legal Service Delivery reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about components installed, the lists and forms that you use in [[lsd-awa-landing|Advanced Work Assignment for Legal Service Delivery]].
+Reference topics provide additional information about components installed, the lists and forms that you use in Advanced Work Assignment for Legal Service Delivery.
 
 -   **[Components installed for Advanced Work Assignment for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-components-installed-awa.md)**  
 Several types of components are installed with activation of the Advanced Work Assignment for Legal Service Delivery plugin application, including user roles.
 
 **Parent Topic:**[Advanced work assignment for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-landing.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[lsd-awa-landing|Advanced work assignment for Legal Service Delivery]]

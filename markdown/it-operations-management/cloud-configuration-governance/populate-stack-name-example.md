@@ -14,7 +14,7 @@ breadcrumb: [Cloud catalog form configuration examples, Form configuration with 
 
 # Populate stack name with a script
 
-This example illustrates how to populate the name of the stack that a user requests from the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] catalog by utilizing the user's ID. The example uses a script include that you can call from a blueprint rule action.
+This example illustrates how to populate the name of the stack that a user requests from the Cloud Provisioning and Governance catalog by utilizing the user's ID. The example uses a script include that you can call from a blueprint rule action.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The goal of this example is to take the ID of the catalog requester and populate
 
 1.  Create a script include that returns the user ID of the person requesting the catalog item:
 
-    1.  In the standard interface for the instance \(not in the [[cloud-admin-portal|Cloud Admin Portal]]\), click the gear icon \(\[Omitted image "icon-gear-system-settings.png"\] Alt text: System settings gear icon\) in the upper left, and then click **Developer**.
+    1.  In the standard interface for the instance \(not in the Cloud Admin Portal\), click the gear icon \(\[Omitted image "icon-gear-system-settings.png"\] Alt text: System settings gear icon\) in the upper left, and then click **Developer**.
 
     2.  In the **Application** field, select **Cloud Provisioning and Governance**.
 
@@ -185,14 +185,9 @@ Call the method in the script include that returns the user ID. The call must be
 
 ## Result
 
-In the [[cloudmgt-cloud-user-portal|Cloud User Portal]], the catalog order form for the Provision operation shows the user ID of the logged-in user. This example uses the user Able Tutor, which comes in the base system as demo data. The value in the **Stack Name** field is the same value as in the User ID field on the User \[sys\_user\] table. The profile icon for the same logged in user is also displayed in the upper right of the Cloud User Portal.
+In the Cloud User Portal, the catalog order form for the Provision operation shows the user ID of the logged-in user. This example uses the user Able Tutor, which comes in the base system as demo data. The value in the **Stack Name** field is the same value as in the User ID field on the User \[sys\_user\] table. The profile icon for the same logged in user is also displayed in the upper right of the Cloud User Portal.
 
 \[Omitted image "logged-in-user.png"\] Alt text: The Logged In User
 
 **Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/example-blueprint-rules.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

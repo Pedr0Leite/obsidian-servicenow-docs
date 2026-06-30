@@ -16,7 +16,7 @@ breadcrumb: [Topics tab, Using the Conversational Analytics Dashboard, Conversat
 
 Use the Spokes indicators to view details such as spoke usage, spoke actions, and subflows for the selected spoke.
 
-In [[virtual-agent-landing-page|Virtual Agent]], conversations contain topics, topics contain spokes, and spokes contain spoke actions or subflows. The **Spokes** indicators show which spokes, actions, and subflows were used and how often.
+In Virtual Agent, conversations contain topics, topics contain spokes, and spokes contain spoke actions or subflows. The **Spokes** indicators show which spokes, actions, and subflows were used and how often.
 
 \[Omitted image "dashboard-spoke-used-2-pae.png"\] Alt text: Conversational Analytics dashboard with global spoke usage, actions, subflows, and topics indicators.
 
@@ -31,6 +31,3 @@ The Spokes tab contains the following indicators.
 
 **Parent Topic:**[Topics tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topics-tab-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

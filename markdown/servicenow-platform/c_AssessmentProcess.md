@@ -12,9 +12,9 @@ breadcrumb: [Using assessments, Assessments, Assessments and Surveys, Exploring 
 
 # Assessment administrator tasks
 
-Before you create [[r_Assessments|assessments]], assign the assessment\_admin role to the appropriate users in your organization and determine your objectives for the assessment.
+Before you create assessments, assign the assessment\_admin role to the appropriate users in your organization and determine your objectives for the assessment.
 
-Decide which sets of records in the system to assess, which themes you are interested in, and which traits to measure. Consider your organization's options for obtaining the data to compare. If you intend to use [[c_AssessmentQuestionnaires|assessment questionnaires]], consider which people can answer the questions.
+Decide which sets of records in the system to assess, which themes you are interested in, and which traits to measure. Consider your organization's options for obtaining the data to compare. If you intend to use assessment questionnaires, consider which people can answer the questions.
 
 ## Assessment terminology
 
@@ -42,7 +42,7 @@ Assessable record
 
 </td><td>
 
-An assessable record links a record to evaluate, such as the company record for Amazon or the user record for a sales representative, to a metric type, such as vendors or employees. You define sets of [[c_assessable-records|assessable records]] when you create metric types.
+An assessable record links a record to evaluate, such as the company record for Amazon or the user record for a sales representative, to a metric type, such as vendors or employees. You define sets of assessable records when you create metric types.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Scorecard
 
 </td><td>
 
-A scorecard provides a visual illustration of an assessable record's performance, based on [[r_AssessmentResults|assessment results]]. Use scorecards to view a variety of data summaries for one assessable record and to compare the ratings with other assessable records.
+A scorecard provides a visual illustration of an assessable record's performance, based on assessment results. Use scorecards to view a variety of data summaries for one assessable record and to compare the ratings with other assessable records.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Decision matrix
 
 </td><td>
 
-A decision matrix is a graph with two axes that plots the assessment results for multiple assessable records. Use [[r_AdministerDecisionMatrixes|decision matrixes]] to determine the relative standing of assessable records in selected categories.
+A decision matrix is a graph with two axes that plots the assessment results for multiple assessable records. Use decision matrixes to determine the relative standing of assessable records in selected categories.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Metrics with the Method set to Assessment are called non-scripted metrics. Use e
 
 You can use the Assessment method with these **Data type** values:
 
--   [[attachment|Attachment]]
+-   Attachment
 -   Checkbox
 -   Choice
 -   Date
@@ -185,7 +185,7 @@ You can use the Assessment method with these **Data type** values:
 -   Percentage
 -   String
 -   Template
--   [[yes-no|Yes/No]]
+-   Yes/No
 
 ## Script method
 
@@ -203,7 +203,7 @@ You must use the following variables in your script:
 
 -   *primary*: Input variable used to access the sys\_id of the record being assessed.
 -   *string\_result*: Output variable that contains the display string value for this metric
--   *actual\_result*: Output variable that contains the actual value for this metric. The system uses this variable to populate the Actual value field on the [[r_MetricResultFieldNames|Metric Result form]]. For each *actual\_result,* you must specify a corresponding **scaled\_result** value.
+-   *actual\_result*: Output variable that contains the actual value for this metric. The system uses this variable to populate the Actual value field on the Metric Result form. For each *actual\_result,* you must specify a corresponding **scaled\_result** value.
 -   *scaled\_result*: Output variable that contains a numerical scaled value to represent an actual value. The system uses this variable to populate the **Scaled value** field on the **Metric Result** form. Ensure the scaled values you specify are between or equal to the **Min** and **Max** values for the metric. The **Scale definition** field determines how the system uses the scaled value. A scale definition of **Low** means smaller numbers are better, such as for a metric that measures the number of incidents for a vendor. **High** means larger numbers are better, such as for a metric that measures user satisfaction on a scale of one to five.
 
 ## Script example
@@ -212,84 +212,49 @@ The metric Number of active devices uses the script pictured below. The *primary
 
 \[Omitted image "ScriptedMetricExample.png"\] Alt text: Scripted metric example
 
--   **[[configure-assessment|Configure an assessment]]**  
+-   **[Configure an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-assessment.md)**  
 You can create a new assessment on a selected assessable records to evaluate, score, and rank records from any table in the system. Then create a metric category and assessment metrics for the assessment, publish the assessment, and assign it to the selected users.
--   **[[c_AssessmentGeneration|Assessment generation]]**  
+-   **[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)**  
 In the Assessments application, administrators or assessment administrators can trigger the system to generate scheduled assessments or on-demand assessments when all the prerequisite steps are completed.
--   **[[c_AssessmentGroups|Assessment groups]]**  
-An assessment group is a container for [[c_AssessmentInstances|assessment instances]] and assessment results generated in a single occurrence.
--   **[[t_CreateAnAssessmentCategory|View an assessment metric category]]**  
-View [[c_AssessmentMetricCategories|assessment metric categories]] that are used with assessment metric types and assessment metrics in generating the bubble charts on the Demand Workbench. The bubble charts help the demand managers to assess the demands visually.
--   **[[c_AssessmentMetrics|Assessment metrics]]**  
+-   **[Assessment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md)**  
+An assessment group is a container for assessment instances and assessment results generated in a single occurrence.
+-   **[View an assessment metric category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentCategory.md)**  
+View assessment metric categories that are used with assessment metric types and assessment metrics in generating the bubble charts on the Demand Workbench. The bubble charts help the demand managers to assess the demands visually.
+-   **[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)**  
 In the Assessments application, a metric is a trait or value used to evaluate assessable records.
--   **[[add-questionbank-assessment|Add a metric category and metric in the question bank for assessments]]**  
+-   **[Add a metric category and metric in the question bank for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-assessment.md)**  
 Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for assessments. You can add metric categories or metrics from the question bank to an assessment, or from the assessment to a question bank.
--   **[[copy-assessment|Copy an assessment]]**  
+-   **[Copy an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/copy-assessment.md)**  
 Create a copy of an assessment with at least one category to reduce the effort of creating another assessment with similar data.
--   **[[t_CreateAMetricTemplate|Create a metric template]]**  
+-   **[Create a metric template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricTemplate.md)**  
 Create a metric template to define reusable rating scales for evaluating non-scripted metrics.
--   **[[r_CategoryUsersAndStakeholders|Category users and stakeholders]]**  
+-   **[Category users and stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md)**  
 Users who take assessments are individuals in your organization who have specific knowledge of the assessment categories and the records being assessed.
--   **[[c_OnDemandAssessments|On-demand assessments]]**  
+-   **[On-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md)**  
 On-demand assessments can be generated for metric types with the Schedule type field set to On demand.
--   **[[c_ScheduledAssessments|Scheduled assessments]]**  
+-   **[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)**  
 The system generates a unique scheduled job for each metric type with the **Schedule type** field set to **Scheduled**.
--   **[[t_CreateTriggerAssessment|Configure trigger conditions for an assessment]]**  
+-   **[Configure trigger conditions for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateTriggerAssessment.md)**  
 Trigger conditions specify when to send a particular assessment and who to send the assessment to.
--   **[[t_EnablingManagerNotifications|Enable manager notifications]]**  
-Users with the assessment\_admin role can enable the [[notify-landing-page|Notify]] manager assessment is overdue [[email|email]] notification.
--   **[[t_ViewAMetricResult|View a metric result]]**  
-Metric results contain values that represent an evaluated record's performance for a specific metric, based on a single evaluation from one user or from the execution of a script. Metric results contain actual values as well as calculated values. The system uses values from metric results to calculate [[r_CategoryResults|category results]].
--   **[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]**  
+-   **[Enable manager notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnablingManagerNotifications.md)**  
+Users with the assessment\_admin role can enable the Notify manager assessment is overdue email notification.
+-   **[View a metric result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)**  
+Metric results contain values that represent an evaluated record's performance for a specific metric, based on a single evaluation from one user or from the execution of a script. Metric results contain actual values as well as calculated values. The system uses values from metric results to calculate category results.
+-   **[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)**  
 The Assessments application prepares printable scorecards. A scorecard displays easy-to-interpret assessment results, in which the current calculated ratings for an assessable record are compared to previous ratings or to the ratings of other records.
--   **[[t_CreateADecisionMatrix|Create a decision matrix]]**  
+-   **[Create a decision matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateADecisionMatrix.md)**  
 The name and labels on a decision matrix are closely linked to the categories you choose for the axes. For that reason, first select the metric type and define the X and Y axes before you fill in other fields on the Decision Matrix form.
 
-**Parent Topic:**[[using-assessments|Using assessments]]
+**Parent Topic:**[Using assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-assessments.md)
 
 **Related topics**  
 
 
 [Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateAMetric|Create an assessment metric for a category]]
+[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
-[[t_CreateAMetricDefinition|Create an assessment metric definition]]
+[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-[[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
+[Update a metric minimum and maximum value to match a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdAMetrMinMaxValToMatchATmplate.md)
 
-## Related
-
-- [[configure-assessment|Configure an assessment]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[c_AssessmentGroups|Assessment groups]]
-- [[t_CreateAnAssessmentCategory|View an assessment metric category]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[add-questionbank-assessment|Add a metric category and metric in the question bank for assessments]]
-- [[copy-assessment|Copy an assessment]]
-- [[t_CreateAMetricTemplate|Create a metric template]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[t_CreateTriggerAssessment|Configure trigger conditions for an assessment]]
-- [[t_EnablingManagerNotifications|Enable manager notifications]]
-- [[t_ViewAMetricResult|View a metric result]]
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[t_CreateADecisionMatrix|Create a decision matrix]]
-- [[using-assessments|Using assessments]]
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[c_assessable-records|Assessable records]]
-- [[r_AssessmentResults|Assessment results]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[attachment|Attachment]]
-- [[yes-no|Yes/No]]
-- [[r_MetricResultFieldNames|Metric Result form]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[c_AssessmentMetricCategories|Assessment metric categories]]
-- [[notify-landing-page|Notify]]
-- [[email|Email]]
-- [[r_CategoryResults|Category results]]

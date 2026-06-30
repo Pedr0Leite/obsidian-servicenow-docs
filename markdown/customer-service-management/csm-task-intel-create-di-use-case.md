@@ -12,7 +12,7 @@ breadcrumb: [Configure, Task Intelligence for Customer Service, Machine learning
 
 # Create a Document Intelligence use case
 
-Create a use case that identifies the information to extract from email and case attachments and determines how users with CSM agent roles interact with the extracted values in the Document [[intelligence-csm|Intelligence]] workspace.
+Create a use case that identifies the information to extract from email and case attachments and determines how users with CSM agent roles interact with the extracted values in the Document Intelligence workspace.
 
 -   **Before you begin**
 
@@ -32,19 +32,19 @@ Create a use case that identifies the information to extract from email and case
 
 -   **Prerequisite**
 
-    -   Activate [[csm-task-intelligence|Task Intelligence for Customer Service]] \(com.snc.csm\_ml\_task\).
+    -   Activate Task Intelligence for Customer Service \(com.snc.csm\_ml\_task\).
     -   Activate Document Intelligence Admin \(com.snc.docintel\_admin\).
-    For more information, see [[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]].
+    For more information, see [Configure Document Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-configuring-.md).
 
 
 ## Access the DocIntel Admin experience
 
-1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to open the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to open the Task Intelligence Admin Console.
 2.  In the Explore related applications section of the console, select **Open DocIntel** in the Document Intelligence card to open the DocIntel Admin experience.
 
 ## Create a use case
 
-Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [[csm-document-intelligence|Use Cases list]] in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
+Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [Use Cases list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-document-intelligence.md) in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
 
 -   Application = Task Intelligence for Customer service -or-
 -   MLUC ID = MLUC CSM-00003
@@ -99,7 +99,7 @@ After creating a use case, select the fields that you want to extract. You can s
 1.  Select a use case in the Use Cases list.
 2.  Select the Fields tab.
 
-    This tab [[migration-lists|lists]] the fields that have been selected for extraction for the use case.
+    This tab lists the fields that have been selected for extraction for the use case.
 
 3.  Select **Define your fields**.
 
@@ -289,11 +289,3 @@ By default, agents review and verify the fields with values that are extracted f
 3.  If desired, enable **Straight Through Processing**.
 4.  Enter a percentage value in the **Set Straight Through Processing Threshold** field.
 
-## Related
-
-- [[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]]
-- [[csm-document-intelligence|Document Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[migration-lists|Lists]]

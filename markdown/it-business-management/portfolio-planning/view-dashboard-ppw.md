@@ -14,7 +14,7 @@ breadcrumb: [Use dashboards, Portfolio Planning, Strategic Portfolio Management]
 
 # View a dashboard in Portfolio Planning Workspace
 
-View key data and metrics on a dashboard to monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to planning and execution.
+View key data and metrics on a dashboard to monitor performance, track progress, and make informed decisions related to planning and execution.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -56,7 +56,3 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)
 
-## Related
-
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -26,7 +26,7 @@ You can assign personas to Remote Record Producers \(RRPs\). Personas are associ
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **Catalog Personas**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **Catalog Personas**.
 
 2.  Click **New**.
 
@@ -34,6 +34,4 @@ You can assign personas to Remote Record Producers \(RRPs\). Personas are associ
 
 4.  Click **Submit**.
 
-## Related
 
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

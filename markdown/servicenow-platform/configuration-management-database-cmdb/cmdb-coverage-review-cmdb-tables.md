@@ -14,7 +14,7 @@ breadcrumb: [Use, CMDB Coverage, Configuration Management Database \(CMDB\), Con
 
 # Review CMDB tables used for CMDB Coverage analysis
 
-Review the CMDB tables that are used for [[cmdb-coverage|CMDB Coverage]] analysis, and add additional tables to enable complete visibility.
+Review the CMDB tables that are used for CMDB Coverage analysis, and add additional tables to enable complete visibility.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_cmdb\_admin
 
 1.  Use one of the following methods to open the **CMDB Coverage** dashboard:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **Quick links** &gt; **CMDB Coverage Dashboard**.
 2.  Select **Settings**.
 
@@ -32,7 +32,4 @@ Role required: sn\_cmdb\_admin
 
 4.  Review and update the CMDB tables listed in the IP coverage CI table configurations list.
 
-## Related
 
-- [[cmdb-coverage|CMDB Coverage]]
-- [[sg-workspace|Service Graph Workspace]]

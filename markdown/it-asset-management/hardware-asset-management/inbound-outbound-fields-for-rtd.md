@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Remote task definition inbound and outbound fields
 
-The inbound and outbound fields of the remote task definition required for the [[zero-touch-asset-refresh|Zero Touch Refresh]] flow.
+The inbound and outbound fields of the remote task definition required for the Zero Touch Refresh flow.
 
 ## Inbound field values
 
@@ -64,6 +64,3 @@ The **Sync when** value is **Insert and Update**, which updates the target field
 
 **Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

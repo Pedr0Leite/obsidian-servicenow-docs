@@ -12,11 +12,11 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure a background color for unsaved fields
 
-[[configure-onboarding-modals|Configure]] a background color to display on unsaved fields across the entire workspace experience.
+Configure a background color to display on unsaved fields across the entire workspace experience.
 
 ## Before you begin
 
-Configure a UX page property to enable the unsaved field indicator. For instructions, see [[configure-unsaved-field-indicator|Configure the unsaved indicator]].
+Configure a UX page property to enable the unsaved field indicator. For instructions, see [Configure the unsaved indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-unsaved-field-indicator.md).
 
 Role required: admin
 
@@ -84,7 +84,3 @@ Unsaved field display both an indicator and a background color across the entire
 
 \[Omitted image "form-unsaved-background-color.png"\] Alt text: Unsaved field with a background color and indicator
 
-## Related
-
-- [[configure-unsaved-field-indicator|Configure the unsaved field indicator]]
-- [[configure-onboarding-modals|Configure]]

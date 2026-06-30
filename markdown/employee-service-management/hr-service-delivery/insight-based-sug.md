@@ -20,11 +20,11 @@ Recommend actions to managers based on collected data and best practices, help m
 
 Role required: sn\_mh.manager\_hub\_user
 
-Ensure to activate [[proactive-prompts-for-hrsd|Proactive Prompts]] application from ServiceNow Store.
+Ensure to activate Proactive Prompts application from ServiceNow Store.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your team** &gt; **[[manager-hub-overview|Manager Hub]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your team** &gt; **Manager Hub**.
 
 2.  In the Suggestions for you and your team widget, work on your actionable items:
 
@@ -61,7 +61,7 @@ Displays employees who haven’t taken a time off. Encourage work-life balance f
 
 </td></tr><tr><td>
 
-Support your employees with [[exploring-learning-exp|learning]]
+Support your employees with learning
 
 </td><td>
 
@@ -78,7 +78,7 @@ Help your employee grow their career
 
 Displays employees who haven’t had a job change in a while. -   To mark the suggestion as complete, select \[Omitted image "com-mh.png"\] Alt text: Complete.
 -   To dismiss the suggestion, select \[Omitted image "dismiss-mh.png"\] Alt text: Dismiss.
--   To learn about [[egd-activities-conversations-module|career conversations]], select **Learn about career conversations**.
+-   To learn about career conversations, select **Learn about career conversations**.
 
 
 </td></tr><tr><td>
@@ -121,10 +121,4 @@ Displays employees who haven’t had a job change in a while. -   To mark the su
     3.  Turn off the prompts that you do not want to view on the widget.
     Your preferences will be saved and the prompts that have been turned off do not appear in the widget the next time you login to the Manager Hub page. You can change your preferences at any given time.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]
-- [[exploring-learning-exp|Learning]]
-- [[egd-activities-conversations-module|Career Conversations]]

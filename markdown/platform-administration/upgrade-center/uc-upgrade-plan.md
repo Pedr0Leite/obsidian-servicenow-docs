@@ -16,7 +16,7 @@ breadcrumb: [Exploring Upgrade Center, Upgrade Center, Upgrade, Administer the S
 
 Accelerate your upgrades using the Upgrade Plan that automates the installation of applications during upgrades, giving you a seamless upgrade experience. It helps you define applications and target versions to be installed in your instance.
 
-Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade Plan**.
+Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade Plan**.
 
 You will need the following instances to use Upgrade Plan.
 
@@ -36,7 +36,7 @@ Starting Yokohama release, customizations and skipped records are not a part of 
 
 You will see one of the following modal messages depending on the scenario:
 
--   First time user: When you are [[uc-building-upgrade-plan|building your Upgrade Plan]] for the first time \(the property is disabled by default\)
+-   First time user: When you are building your Upgrade Plan for the first time \(the property is disabled by default\)
 
     \[Omitted image "uc\_up\_first\_time\_user.png"\] Alt text: Screenshot showing first time user for Upgrade Plan
 
@@ -111,7 +111,3 @@ During the consumption of the upgrade plan, the following operations are done at
 
 -   Auto-generation of the preview for the upgrade plan
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-building-upgrade-plan|Building your Upgrade Plan]]

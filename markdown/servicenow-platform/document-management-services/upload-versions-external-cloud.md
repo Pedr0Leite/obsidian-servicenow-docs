@@ -14,7 +14,7 @@ breadcrumb: [Document Management integration with external content providers, Us
 
 # Upload versions to an external cloud
 
-Upload [[document-mgt-versions|document versions]] [[doc-management-landing|Document Management]] to an external cloud.
+Upload document versions Document Management to an external cloud.
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ Role required: mp\_document\_admin
 
 3.  Select the default version if available or attach a local file.
 
-4.  -   Select **Remove from instance** [[check-box|check box]] to remove the attached version from the database
+4.  -   Select **Remove from instance** check box to remove the attached version from the database
 
-    **Note:** The removed [[attachment|attachment]] version will still appear for tracking.
+    **Note:** The removed attachment version will still appear for tracking.
 
 -   Select **Do not store instance** check box not to store the attachment in the database.
 
@@ -47,9 +47,3 @@ Role required: mp\_document\_admin
 
 **Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integration-external-content-providers.md)
 
-## Related
-
-- [[document-mgt-versions|Document versions]]
-- [[doc-management-landing|Document Management]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]

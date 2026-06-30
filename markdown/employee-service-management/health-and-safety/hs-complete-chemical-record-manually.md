@@ -22,7 +22,7 @@ Role required: sn\_hs\_chm.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  In the primary navigation, select **Environmental Management** \(\[Omitted image "icon-hs-envt-mgmt.png"\] Alt text: environmental management icon\) icon.
 
@@ -32,7 +32,7 @@ Role required: sn\_hs\_chm.manager
 
     For more information, see [Chemical form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-form.md).
 
-5.  In the **Regulatory** tab, view the aggregated regulatory list retrieved from [[hs-3e-regulatory-intelligence|3E regulatory intelligence]] for the chemical substances present in the chemical.
+5.  In the **Regulatory** tab, view the aggregated regulatory list retrieved from 3E regulatory intelligence for the chemical substances present in the chemical.
 
 6.  In the **Chemical hazard identification** tab, select **New**.
 
@@ -40,7 +40,7 @@ Role required: sn\_hs\_chm.manager
 
 7.  In the **Chemical ingredients** tab, select **New** to add the name of the substance, its concentration, and function.
 
-    For more information, see [Chemical ingredient form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-ingredient-form.md). If the substance does not exists in the [[hs-chemical-ingredient-form|chemical ingredient form]], select **Create substance** to create a record under the **Substance** list in the **Environmental Management** list view.
+    For more information, see [Chemical ingredient form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-ingredient-form.md). If the substance does not exists in the chemical ingredient form, select **Create substance** to create a record under the **Substance** list in the **Environmental Management** list view.
 
 8.  In the **First aid** tab, update information about first aid measures on exposure to the chemical.
 
@@ -65,9 +65,3 @@ Role required: sn\_hs\_chm.manager
 
 **Parent Topic:**[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]
-- [[hs-chemical-ingredient-form|Chemical ingredient form]]

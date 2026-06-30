@@ -28,7 +28,7 @@ Avoid generating duplicate work orders for overlapping schedule occurrences by c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open your work plan.
 
@@ -40,7 +40,4 @@ Avoid generating duplicate work orders for overlapping schedule occurrences by c
 
 6.  Select **Update**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

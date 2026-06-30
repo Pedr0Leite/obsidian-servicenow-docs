@@ -17,17 +17,17 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 Enable the Asset put away task explicitly for your stockroom to put away the assets from the receiving bay in the designated aisle-space. View the open Asset put away task and close it after specifying the aisle-space value to move the asset in the stockroom.
 
-The Asset put away task enables you to track asset movement from the receiving bay of the inventory to the designated space within the stockroom. The Asset put away task confirms that when an asset is received in the inventory, you have filled the aisle-space information for it. An Asset put away task is automatically created in the [[enterprise-asset-management|Enterprise Asset Management]] when the following required business rules are met:
+The Asset put away task enables you to track asset movement from the receiving bay of the inventory to the designated space within the stockroom. The Asset put away task confirms that when an asset is received in the inventory, you have filled the aisle-space information for it. An Asset put away task is automatically created in the Enterprise Asset Management when the following required business rules are met:
 
 -   When an enterprise asset is created in the Enterprise Asset Management and the **Aisle-space** field value isn’t available, an Asset put away task is created. Open the Asset put away task and updated the **Drop off location** field value, to move the asset to designated aisle-space in the stockroom.
 
-    **Note:** You can [[create-asset-put-away-task|create an Asset put away task]] manually for the in stock assets in the inventory. For more information about manually creating an Asset put away task in the Enterprise Asset Management, see [Create an Asset put away task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-put-away-task-eam.md).
+    **Note:** You can create an Asset put away task manually for the in stock assets in the inventory. For more information about manually creating an Asset put away task in the Enterprise Asset Management, see [Create an Asset put away task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-put-away-task-eam.md).
 
 -   When the **Stockroom** field is updated for an enterprise asset in the [Asset Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md) form, an Asset put away task is created. Open the Asset put away task and update the **Drop off location** field value, to move the asset to the designated aisle-space in the stockroom.
 
 **Note:** You can create the Asset put away task for a stockroom only if the stockroom is enabled to perform warehouse tasks. For more information about enabling the feature, see [Enable the asset put away task for your stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enable-putaway-task-for-stockroom-eam.md).
 
-In the [[using-eam-workspace|Enterprise Asset Workspace]], the inventory users can perform the following actions:
+In the Enterprise Asset Workspace, the inventory users can perform the following actions:
 
 -   Create an Asset put away task manually for the in stock assets. For more information, see [Create an Asset put away task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-put-away-task-eam.md).
 -   View the open put away tasks related to the inventory and stockroom. For more information, see [View open put away tasks for your stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-open-putaway-tasks-eam.md).
@@ -46,8 +46,3 @@ Add the asset drop-off location for an open Asset put away task and close it in 
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[create-asset-put-away-task|Create an Asset put away task]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Dashboard permissions, Administering dashboards, Responsive dashboa
 
 # Solving permissions issues on a responsive dashboard
 
-[[c_DashboardRoles|Dashboard permissions]] can be set in several different locations.
+Dashboard permissions can be set in several different locations.
 
 ## Before you begin
 
@@ -99,7 +99,7 @@ Role required: admin
 
 ### About this task
 
-A dashboard is shared with a user with edit permissions. On some tabs, the user cannot add [[widgets|widgets]]. When the user selects **Add widgets**, nothing happens. The same user is able to add widgets to other tabs and dashboards. The cause for the problem is related to how the affected dashboard tab was created.
+A dashboard is shared with a user with edit permissions. On some tabs, the user cannot add widgets. When the user selects **Add widgets**, nothing happens. The same user is able to add widgets to other tabs and dashboards. The cause for the problem is related to how the affected dashboard tab was created.
 
 ### Procedure
 
@@ -107,7 +107,7 @@ A dashboard is shared with a user with edit permissions. On some tabs, the user 
 
 2.  From the context menu \[Omitted image "icon-context-p.png"\] Alt text:, select **Dashboard Properties**.
 
-3.  Select [[launch-dependency-assessment|Launch Dependency Assessment]].
+3.  Select Launch Dependency Assessment.
 
     The results show the dashboard and all the tabs used by the dashboard.
 
@@ -161,8 +161,3 @@ Users may see the message 'Dashboard hasn't been shared with user' or 'This dash
     -   Tabs \[pa\_tabs\]
     -   Dashboard Permissions \[pa\_dashboards\_permissions\]
 
-## Related
-
-- [[c_DashboardRoles|Dashboard permissions]]
-- [[widgets|Widgets]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]

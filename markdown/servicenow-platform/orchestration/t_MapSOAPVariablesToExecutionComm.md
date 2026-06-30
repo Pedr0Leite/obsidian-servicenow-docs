@@ -22,7 +22,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: web\_service\_admin, activity\_admin, activity\_creator
 
-**Note:** You can test the SOAP connection between the [[mid-server-landing|MID Server]] and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md).
+**Note:** You can test the SOAP connection between the MID Server and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md).
 
 ## Procedure
 
@@ -88,13 +88,13 @@ Use MID Server
 
 </td><td>
 
-[[check-box|Check box]] that determines if a MID Server must be used to invoke the SOAP web service. **Note:**
+Check box that determines if a MID Server must be used to invoke the SOAP web service. **Note:**
 
 If the SOAP web service message function defines a MID Server, that MID Server is used instead of the one selected here.
 
 </td></tr><tr><td>
 
-Required [[mid-server-capabilities|MID Server capabilities]]
+Required MID Server capabilities
 
 </td><td>
 
@@ -145,8 +145,3 @@ Protocol Profile
 
 **Parent Topic:**[Create a SOAP web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateASOAPWebServiceActivity.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[mid-server-capabilities|MID Server capabilities]]

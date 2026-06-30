@@ -16,7 +16,7 @@ breadcrumb: [Exploring Agile Development 2.0, Agile Development 2.0, Agile Devel
 
 The ServiceNow® Agile Development — Unified Backlog application helps you maintain a centralized backlog for records of different task types, such as defects, problems, or enhancements. Prioritize different task types from one location, and automatically create stories for these records, saving time.
 
-The work flow described here represents the common practice of creating and managing records using the Agile Development — Unified Backlog with [[agile-landing-page|Agile Development 2.0]].
+The work flow described here represents the common practice of creating and managing records using the Agile Development — Unified Backlog with Agile Development 2.0.
 
 -   **Set up a triage board**
 
@@ -50,6 +50,3 @@ The work flow described here represents the common practice of creating and mana
 
 **Parent Topic:**[Exploring Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/exploring-agile-development-2.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

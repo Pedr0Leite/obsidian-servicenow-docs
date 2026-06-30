@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure DevOps Integration for Agile Development, Strategic
 
 # Troubleshooting issues for Azure DevOps integration with Agile Development
 
-Resolve common issues that you might face while working with the integration of Azure DevOps and [[agile-landing-page|Agile Development 2.0]].
+Resolve common issues that you might face while working with the integration of Azure DevOps and Agile Development 2.0.
 
 <table id="table_gsp_wdx_hkb"><thead><tr><th>
 
@@ -158,6 +158,3 @@ Webhooks are only to import data from Azure DevOps to Agile Development 2.0. To 
 
 To view all the details on project logging, enable the integration project logging property. For more information, see [Enable detailed project logging in Microsoft Azure DevOps Integration with Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/enable-integration-logs-azure.md).
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

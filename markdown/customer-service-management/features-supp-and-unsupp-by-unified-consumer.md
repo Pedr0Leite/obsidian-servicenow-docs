@@ -95,7 +95,7 @@ Unsupported
 
 </td><td>
 
-[[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) fulfiller as a consumer
+Customer Service Management \(CSM\) fulfiller as a consumer
 
 </td><td>
 
@@ -162,18 +162,18 @@ Features
 
 </th></tr></thead><tbody><tr><td>
 
--   [[case-management|Case Management]]
+-   Case Management
 -   Case Tasks
 -   Install Base Management
 -   Inbound/Outbound Email Notifications
--   [[c_TargetedCommunications|Targeted Communications]]
+-   Targeted Communications
 -   Service Catalog Product​ Case
 -   Consumer Profile and Consumer Profile Locations
 -   Household​
 -   Case Application Programming Interface \(APIs\)​​
 -   Asset \(IT Asset Management\)
 -   Contracts and Entitlements​
--   Contracts on Sold Product or [[install-base-item|Install Base Items]]
+-   Contracts on Sold Product or Install Base Items
 -   Virtual Agent or​ Agent Chat
 -   Live Agent Chat
 -   Look up and Verify
@@ -183,13 +183,13 @@ Features
 -   Case Playbooks for Complaint
 -   Case Playbooks for Onboarding
 -   Order Management
--   [[omnichannel|Omnichannel]] Callback
+-   Omnichannel Callback
 -   Engagement Messenger
 -   ServiceNow Voice for CSM
 -   Business Location
--   [[csm-walkup-experience|Walk-up Experience for Customer Service Management]]
+-   Walk-up Experience for Customer Service Management
 -   Knowledge Management
--   [[servicenow-communities|Communities]]
+-   Communities
 -   CSM Integrations
     -   Customer Service Management and Field Service Management Integration
     -   Customer Service Management and Request Management Integration
@@ -197,28 +197,15 @@ Features
 -   Field Service Management
     -   Work Orders and Work Order Tasks
     -   Appointment Booking
-    -   [[conv_appt_booking|Conversational Appointment Booking]]
+    -   Conversational Appointment Booking
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-employee-as-a-consumer.md)
 
-[[roles-installed-with-employee-as-consumer|Roles installed with Employee as a Consumer]]
+[Roles installed with Employee as a Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/roles-installed-with-employee-as-consumer.md)
 
-[[setting-up-a-user|Setting up a user as a Unified Consumer]]
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-a-user.md)
 
-## Related
-
-- [[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
-- [[roles-installed-with-employee-as-consumer|Roles installed with Employee as a Consumer]]
-- [[setting-up-a-user|Setting up a user as a Unified Consumer]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-management|Case management]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[install-base-item|Install base items]]
-- [[omnichannel|Omnichannel]]
-- [[csm-walkup-experience|Walk-up Experience for Customer Service Management]]
-- [[servicenow-communities|Communities]]
-- [[conv_appt_booking|Conversational Appointment Booking]]

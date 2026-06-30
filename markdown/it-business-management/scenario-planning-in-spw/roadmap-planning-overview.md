@@ -34,7 +34,7 @@ The features available in these roadmaps are:
 -   Planning item dependencies
 -   Tracking mode
 
-**Note:** Roadmaps are available with [[alignment-planner-workspace-landing-page|Strategic Planning]] by default. Roadmap Planning \(sn\_roadmap\_plng\) is no longer available to install as a separate application.
+**Note:** Roadmaps are available with Strategic Planning by default. Roadmap Planning \(sn\_roadmap\_plng\) is no longer available to install as a separate application.
 
 ## Portfolio plan roadmaps
 
@@ -72,7 +72,7 @@ You can create milestones for your roadmap, or for each planning item on the roa
 
     Using the milestones created at the item level, you can focus better on strategic outcomes. These milestones help with tracking deadlines or other important dates. You can access milestones on all the planning items such as projects, demands, epics, and others.
 
-    From the roadmap, milestones can be created and updated for all types of planning items, except on projects. Project milestones are read-only on the roadmap because any changes to project milestones may impact the associated project plans. So, it is recommended to create or update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+    From the roadmap, milestones can be created and updated for all types of planning items, except on projects. Project milestones are read-only on the roadmap because any changes to project milestones may impact the associated project plans. So, it is recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
     To learn how to create item-level milestones on a roadmap, see [Add milestones for roadmap items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-item-milestones.md).
 
@@ -103,7 +103,7 @@ On the roadmap, you can group your planning items by the **Strategic priority** 
 
 ## Better together with other ServiceNow® applications
 
-Integrate ServiceNow® Digital [[c_PortfolioManagement|Portfolio Management]] \(DPM\) with Strategic Planning to provide DPM managers the access to roadmap planning. With this integration, you can:
+Integrate ServiceNow® Digital Portfolio Management \(DPM\) with Strategic Planning to provide DPM managers the access to roadmap planning. With this integration, you can:
 
 -   Optimize portfolio performance by monitoring services and their performance levels in a comprehensive roadmap.
 -   Make informed budgetary decisions and deliver shared outcomes by prioritizing backlogs and managing roadmaps of business applications.
@@ -117,9 +117,3 @@ For more information, see [Exploring Digital Portfolio Management](https://raw.g
 
 [Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_PortfolioManagement|Portfolio Management]]

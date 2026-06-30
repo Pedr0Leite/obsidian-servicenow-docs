@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
--   If you’ve upgraded from Alignment Planner Workspace v4.1.1 or v5.0.1 to [[alignment-planner-workspace-landing-page|Strategic Planning]] v2.0.1 and have created m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**, you can migrate those lens entities from the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table to the Goals table to access and manage the goals for those lens entities in the respective portfolio plans.
+-   If you’ve upgraded from Alignment Planner Workspace v4.1.1 or v5.0.1 to Strategic Planning v2.0.1 and have created m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**, you can migrate those lens entities from the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table to the Goals table to access and manage the goals for those lens entities in the respective portfolio plans.
 -   Migrating goal relationships data for assigned entities is a one-time job, and not meant to be on a schedule.
 -   Running the job populates the **Assigned entity type** and **Assigned entity** fields on the [Goal form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you have any customized lenses other than the lens entity types, **Company**, **Business Unit**, **Department**, and **Portfolio**.
 
@@ -32,7 +32,7 @@ Role required: admin
 
 2.  Search for and click the **Migrate goal relationships for assigned entities** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]:
+3.  On the Scheduled Script Execution form:
 
     1.  Ensure that the frequency is selected as **On Demand** in the **Run** field.
 
@@ -45,7 +45,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

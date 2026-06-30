@@ -12,11 +12,11 @@ breadcrumb: [Enable manager notifications, Assessment administrator tasks, Using
 
 # Assessment notifications
 
-You can configure the system to send [[email|email]] notifications for [[r_Assessments|assessments]].
+You can configure the system to send email notifications for assessments.
 
-You can configure any of the following types of notification during the process of generating [[c_assessable-records|assessable records]]:
+You can configure any of the following types of notification during the process of generating assessable records:
 
--   [[notify-landing-page|Notify]] assessment user: This messages notifies you of an assigned an assessment and includes the [[c_MetricTypesAndAssessableRecords|type]], the due date, and basic instructions. The message also contains a link to the record where you take the assessment.
+-   Notify assessment user: This messages notifies you of an assigned an assessment and includes the [type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md), the due date, and basic instructions. The message also contains a link to the record where you take the assessment.
 
     **Note:** If a user has a pending assessment, then the system will not generate another instance of the same assessment.
 
@@ -25,21 +25,12 @@ You can configure any of the following types of notification during the process 
 
 **Note:** By default, the system runs a script every 30 days to cancel expired assessment and survey instances that are in the **Work in progress** or **Ready to take** states.
 
-**Parent Topic:**[[t_EnablingManagerNotifications|Enable manager notifications]]
+**Parent Topic:**[Enable manager notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnablingManagerNotifications.md)
 
 **Related topics**  
 
 
-[[t_CreatMetricTypesAndGenAssessRecs|Create metric types and generate assessable records]]
+[Create metric types and generate assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreatMetricTypesAndGenAssessRecs.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[t_EnablingManagerNotifications|Enable manager notifications]]
-- [[t_CreatMetricTypesAndGenAssessRecs|Create metric types and generate assessable records]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[notify-landing-page|Notify]]

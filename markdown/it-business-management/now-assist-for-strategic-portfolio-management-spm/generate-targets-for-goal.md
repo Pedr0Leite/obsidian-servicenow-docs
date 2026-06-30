@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # Generate targets for a goal in Strategic Planning Workspace using Now Assist for SPM
 
-Generate measurable targets for your [[goal-management-in-alignment-planner-workspace|goals in Strategic Planning]] Workspace using Now Assist for SPM.
+Generate measurable targets for your goals in Strategic Planning Workspace using Now Assist for SPM.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user and \(sn\_align\_core.apw\_user
 
 The Target generation skill leverages the goal’s details and provided context to create a precise target for the goal. The more specific the input, the stronger the recommendations.
 
-The skill automatically populates key fields in the [[target-form|Target form]], ensuring accuracy and alignment with the goal. This helps teams define clear, measurable outcomes and speeds up the target-setting process.
+The skill automatically populates key fields in the Target form, ensuring accuracy and alignment with the goal. This helps teams define clear, measurable outcomes and speeds up the target-setting process.
 
 **Note:** Only the owner or contributors of the goal can create targets for the goal.
 
@@ -35,7 +35,7 @@ The skill automatically populates key fields in the [[target-form|Target form]],
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select the required portfolio plan that the goal belongs to.
 
@@ -73,9 +73,3 @@ The target progress records are automatically created when you save the target p
 
 [Add targets for a goal in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/set-targets-for-goal-egm.md)
 
-## Related
-
-- [[goal-management-in-alignment-planner-workspace|Goals in Strategic Planning]]
-- [[target-form|Target form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -27,7 +27,7 @@ Role required: One of the following roles:
 
 ## About this task
 
-The main address for an account is stored in fields on the [[customer-service-account-form|Account form]]. Shipping and billing addresses for an account are created and stored in the **Addresses** related list. An account can have multiple shipping and billing addresses.
+The main address for an account is stored in fields on the [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md). Shipping and billing addresses for an account are created and stored in the **Addresses** related list. An account can have multiple shipping and billing addresses.
 
 ## Procedure
 
@@ -47,6 +47,4 @@ The main address for an account is stored in fields on the [[customer-service-ac
 
 7.  Select **Submit**.
 
-## Related
 
-- [[customer-service-account-form|Account form]]

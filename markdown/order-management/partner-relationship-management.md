@@ -18,7 +18,7 @@ Learn how the Partner Relationship Management application enables enterprises to
 
 Channel partners streamline and help manage the sales process of a product or a service for an enterprise. The PRM solution offers tools to manage the end-to-end partner life cycle.
 
-PRM enables an efficient and continuous partner engagement and collaboration system with the enterprise to provide essential support. The PRM system enables partner onboarding, life cycle management, and improves the overall collaboration between channel partners and enterprises. To learn how to configure Partner Relationship Management, see [[configure-partner-relationship-management|Configure Partner Relationship Management]].
+PRM enables an efficient and continuous partner engagement and collaboration system with the enterprise to provide essential support. The PRM system enables partner onboarding, life cycle management, and improves the overall collaboration between channel partners and enterprises. To learn how to configure Partner Relationship Management, see [Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md).
 
 The collaboration improves case management solutions and enables partners to log in to the Partner Portal to raise concerns or queries and communicate directly with the enterprise. This provides better resolutions leading to improved enterprise and partner collaboration.
 
@@ -55,14 +55,10 @@ The Partner Relationship Management solution offers the following benefits.
 
 The Partner portal enables channel partners to create cases, register external members as staff, and view knowledge articles.
 
-To learn more about the Partner portal, see [[using-partner-relationship-management|Using Partner Relationship Management]]. \[Omitted image "partner-portal-ui.png"\] Alt text: Partner portal UI displaying a list of partner organizations and other related information.
+To learn more about the Partner portal, see [Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md). \[Omitted image "partner-portal-ui.png"\] Alt text: Partner portal UI displaying a list of partner organizations and other related information.
 
 ## What to explore next
 
 -   [Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 -   [Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]

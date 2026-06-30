@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery integration with Oracle Cloud HCM, I
 
 # Activate schedule flows
 
-[[activate-sch-flow-magnit|Activate a schedule flow]] that interacts with Oracle HCM to pull worker profile information into a ServiceNow instance. This flow automatically pulls all new changes in the Oracle HCM and keeps the worker profiles updated in the [[hr-service-delivery|HR Service Delivery]].
+Activate a schedule flow that interacts with Oracle HCM to pull worker profile information into a ServiceNow instance. This flow automatically pulls all new changes in the Oracle HCM and keeps the worker profiles updated in the HR Service Delivery.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: sn\_hr\_oracle\_hcm.admin
 
 5.  Click **Activate**.
 
-## Related
 
-- [[activate-sch-flow-magnit|Activate a schedule flow]]
-- [[hr-service-delivery|HR Service Delivery]]

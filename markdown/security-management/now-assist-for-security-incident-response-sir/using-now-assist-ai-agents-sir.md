@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Security Incident Response, Security Operations]
 
 # Using agentic AI workflows in Now Assist for Security Incident Response
 
-Use the [[sir-landing-page|Security Incident Response]] AI agentic workflows to complete your tasks autonomously.
+Use the Security Incident Response AI agentic workflows to complete your tasks autonomously.
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
@@ -58,7 +58,7 @@ Wrap up security incident
 
 </td><td>
 
-This agentic workflow helps the security analysts to [[close-sir-incident-aiagent|close a security incident]] using natural language in the Now Assist panel.
+This agentic workflow helps the security analysts to close a security incident using natural language in the Now Assist panel.
 
 </td><td>
 
@@ -66,7 +66,7 @@ Security incident wrap-up generator AI agent
 
 </td></tr><tr><td>
 
-Analyze [[security-operations-landing-page|security operations]] metrics
+Analyze security operations metrics
 
 </td><td>
 
@@ -98,7 +98,7 @@ This agentic workflow helps the security analysts to identify a security inciden
 
 </td></tr><tr><td>
 
-[[add-incidents-shifthandover-ai-agent|Generate SIR Shift Handover Report]]
+Generate SIR Shift Handover Report
 
 </td><td>
 
@@ -115,9 +115,3 @@ To modify an agentic workflow, you must first [duplicate the agentic workflow](h
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[close-sir-incident-aiagent|Close a security incident]]
-- [[security-operations-landing-page|Security Operations]]
-- [[add-incidents-shifthandover-ai-agent|Generate SIR Shift Handover Report]]

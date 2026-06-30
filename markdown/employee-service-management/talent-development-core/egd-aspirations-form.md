@@ -57,7 +57,7 @@ Details of the aspiration can help to keep you on track with the goals you have 
 
 </td><td>
 
-The [[emp-slate-employee-profile|employee profile]] number of the employee who created the aspiration.
+The employee profile number of the employee who created the aspiration.
 
 </td></tr><tr><td>
 
@@ -99,6 +99,3 @@ A general guiding time within which you plan to complete your aspiration.-   **W
 </td></tr></tbody>
 </table>**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

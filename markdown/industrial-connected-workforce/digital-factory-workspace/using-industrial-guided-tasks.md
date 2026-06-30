@@ -52,7 +52,7 @@ Use Industrial Guided Task \(IGT\) standards to create and publish custom indust
 -   **[Copy an Industrial Guided Task standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/copy-industrial-guided-task-standard.md)**  
 Copy an Industrial Guided Task \(IGT\) standard to reuse it as a template, without having to draft the entire standard from the start.
 -   **[Using templates to create standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/creating-standards-from-templates.md)**  
-You can create templates as a means to implement structured standards. These templates are developed and maintained by [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) admins and are made accessible to operators through the Standards hub.
+You can create templates as a means to implement structured standards. These templates are developed and maintained by Industrial Connected Workforce \(ICW\) admins and are made accessible to operators through the Standards hub.
 -   **[Create an Industrial Guided Task from the Standards hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-industrial-guided-task.md)**  
 Create an Industrial Guided Task \(IGT\) from an IGT standard.
 -   **[Create an Industrial Guided Task from Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-igt-from-recommended-actions.md)**  
@@ -62,6 +62,3 @@ Set up an automation to create a standard task that is directly related to the I
 
 **Parent Topic:**[Using Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

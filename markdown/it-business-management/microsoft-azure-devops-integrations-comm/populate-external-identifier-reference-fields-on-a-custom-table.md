@@ -14,7 +14,7 @@ breadcrumb: [Customizing your map configuration for Azure DevOps integration, Se
 
 # Populate Azure DevOps identifier reference fields for a custom table
 
-Enable Azure DevOps project identifier reference fields for an [[agile-landing-page|Agile Development 2.0]] table that you added to the map configuration of a process type.
+Enable Azure DevOps project identifier reference fields for an Agile Development 2.0 table that you added to the map configuration of a process type.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ Configure the form layout or personalize the list layout of your custom table to
 
 [Populate external identifier on custom tables for Azure DevOps](https://www.servicenow.com/community/spm-articles/populate-external-identifier-on-custom-tables-for-azure-devops/ta-p/3359244)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

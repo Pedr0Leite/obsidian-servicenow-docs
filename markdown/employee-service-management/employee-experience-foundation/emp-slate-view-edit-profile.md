@@ -15,7 +15,7 @@ breadcrumb: [Employee profile, Working with Employee Slate capabilities, Employe
 
 # View and edit employee profiles
 
-Access [[emp-slate-employee-profile|employee profile]] information and edit your personal details to keep your information current.
+Access employee profile information and edit your personal details to keep your information current.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Employee profiles display comprehensive information about individuals in your or
 
 Your profile displays updated personal information that is visible to colleagues.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

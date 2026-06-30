@@ -21,12 +21,12 @@ The Order Acknowledgment \[sn\_spend\_intg\_imp\_purchase\_order\_ack\] staging 
 |Customer id|String|Unique identifier for a customer.|
 |Estimated arrival date|String|Date on which the order is expected to arrive.|
 |Purchase order line number|String|Line number against which the receipt of the product is acknowledged.|
-|Purchase order number|String|Unique number for the [[purchase-order-table|purchase order]].|
+|Purchase order number|String|Unique number for the purchase order.|
 |Sales order line number|String|Unique identifier for each item on a sales order.|
 |Sales order number|String|Unique identifier for a customer's purchase.|
 |Status code|String|Code indicating the current status.|
 |Status message|String|A message that indicates the current status.|
-|Supplier id|String|Unique identifier for the [[supplier|supplier]].|
+|Supplier id|String|Unique identifier for the supplier.|
 |Third party import ID|String|Unique identifier for external data imports.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
@@ -106,7 +106,3 @@ The Order Acknowledgment \[sn\_spend\_intg\_imp\_purchase\_order\_ack\] staging 
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

@@ -45,7 +45,7 @@ Role required:
 
 ## Result
 
-Once a task SLA record for a [[dlp-landing|Data Loss Prevention Incident Response]] incident is created, the SLA records tab becomes visible for that particular incident in the workspace. This tab enables you to use an SLA system for your organization's task.
+Once a task SLA record for a Data Loss Prevention Incident Response incident is created, the SLA records tab becomes visible for that particular incident in the workspace. This tab enables you to use an SLA system for your organization's task.
 
 **Parent Topic:**[DLP Incident Response Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/data-loss-prevention-administration.md)
 
@@ -94,6 +94,3 @@ Once a task SLA record for a [[dlp-landing|Data Loss Prevention Incident Respons
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

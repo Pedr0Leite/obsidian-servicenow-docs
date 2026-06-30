@@ -14,7 +14,7 @@ breadcrumb: [Configure or update an On-Call shift, Managing schedules and shifts
 
 # Configure the lead time for email reminders
 
-[[c_OnCallScheduling|On-Call Scheduling]] includes a scheduled job that checks if any shift members should be notified about upcoming On-Call commitments. Modify the lead time for the reminder to be sent.
+On-Call Scheduling includes a scheduled job that checks if any shift members should be notified about upcoming On-Call commitments. Modify the lead time for the reminder to be sent.
 
 ## Before you begin
 
@@ -30,14 +30,10 @@ Role required: rota\_manager or rota\_admin
 
     The reminder lead time defined on a roster is always respected. If no lead time is defined, the instance uses the schedule reminder lead time. If the reminder lead time is not defined for either the schedule or its rosters, then the instance uses a default of 2 days.
 
-    **Note:** The **Reminder lead time** on the Roster form is different from the **\# reminders** and **Time between reminders** values in the Escalation [[settings-mobile|Settings]] section of the form.
+    **Note:** The **Reminder lead time** on the Roster form is different from the **\# reminders** and **Time between reminders** values in the Escalation Settings section of the form.
 
     The escalation settings are used only to configure reminders for escalations. The **Reminder lead time** is in the Reminder Communication section of the Roster form, and is used to email reminders for upcoming on-call commitments.
 
 
 **Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

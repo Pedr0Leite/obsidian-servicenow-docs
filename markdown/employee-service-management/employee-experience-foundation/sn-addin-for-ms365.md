@@ -14,7 +14,7 @@ breadcrumb: [Unified Employee Experience, Employee Service Management]
 
 # ServiceNow Add-in for Microsoft 365
 
-Create an add-in with customized office controls and [[emp-center-quick-link-config|quick links]] for employees. Increase efficiency by allowing employees to submit requests directly from their Microsoft 365 applications.
+Create an add-in with customized office controls and quick links for employees. Increase efficiency by allowing employees to submit requests directly from their Microsoft 365 applications.
 
 ## Get started
 
@@ -32,7 +32,7 @@ Create an add-in with customized office controls and [[emp-center-quick-link-con
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about the lists and forms used in the application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about the lists and forms used in the application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -49,7 +49,3 @@ Create an add-in with customized office controls and [[emp-center-quick-link-con
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

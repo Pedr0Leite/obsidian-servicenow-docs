@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Apache Kafka and Apache Zookeeper discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Kafka and Zookeeper discovery pattern to find Kafka data built on the Zookeeper synchronization service.
+ServiceNow Discovery uses the Kafka and Zookeeper discovery pattern to find Kafka data built on the Zookeeper synchronization service.
 
 ## Request apps on the Store
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     Verify the CMDB CI Class Models store app \(version 1.20.0\) is installed.
 
--   **Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns store app**
+-   **Discovery and Service Mapping Patterns store app**
 
     Verify the Discovery and Service Mapping Patterns store app \(version 1.0.72\) is installed.
 
@@ -94,7 +94,3 @@ The Kafka and Zookeeper pattern does not create any CI relationships.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -14,13 +14,13 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Request clarification on a purchase request from your mobile device
 
-As an approver, request clarification from the shopper on a [[purchase-requisition|purchase requisition]] if you have questions that you need answers to before approving or rejecting the purchase requisition, from your mobile application. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria.
+As an approver, request clarification from the shopper on a purchase requisition if you have questions that you need answers to before approving or rejecting the purchase requisition, from your mobile application. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria.
 
 ## Before you begin
 
 To request clarification on a purchase requisition, you should be assigned as an approver for the shopper requesting the purchase. Also, specific approval rules must be triggered on meeting certain criteria. Only then, this approval to-do is displayed to you on the Now Mobile **My Tasks** tab.
 
-**Note:** You can also request clarification from your [[shopping-hub-overview|Shopping Hub]] desktop, virtual agent, or by selecting **Ask for Clarification** from the purchase requisition approval record in [[purchase-experience-workflow|Sourcing and Purchasing Automation]] or from **Requisition Approvals** in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+**Note:** You can also request clarification from your Shopping Hub desktop, virtual agent, or by selecting **Ask for Clarification** from the purchase requisition approval record in Sourcing and Purchasing Automation or from **Requisition Approvals** in Source-to-Pay Workspace.
 
 Role required: sn\_shop.shopper
 
@@ -45,9 +45,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

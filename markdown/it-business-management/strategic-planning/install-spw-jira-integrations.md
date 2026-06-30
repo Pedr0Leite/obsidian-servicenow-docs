@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Install SPW Jira Integrations
 
-You can install the [[spw-jira-landing|SPW Jira Integrations]] application \(sn\_spw\_jira\_int\) if you have the admin role.The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the SPW Jira Integrations application \(sn\_spw\_jira\_int\) if you have the admin role.The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with SPW Jira Integrations](http
 
 6.  Select **Install**.
 
-## Related
 
-- [[spw-jira-landing|SPW Jira Integrations]]

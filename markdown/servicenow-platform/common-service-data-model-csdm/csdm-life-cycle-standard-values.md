@@ -19,7 +19,7 @@ You can align life-cycle values for each product instance on the asset, CI, and 
 This topic provides an overview of the entire align and synchronize process.
 
 -   Detailed instructions for running the align and synchronize process appears in [Migrate legacy asset and CI settings to CSDM life-cycle values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cycle-standard-values.md).
--   A detailed [[reference|reference]] to all synchronization options appears in [How life-cycle values for Asset, CI, and IBI are synchronized](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/cmdb-asset-CI-IBI-sync-options.md).
+-   A detailed reference to all synchronization options appears in [How life-cycle values for Asset, CI, and IBI are synchronized](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/cmdb-asset-CI-IBI-sync-options.md).
 
 **Tip:** Terms used in this document are defined in [CSDM life-cycle terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cyle-terms.md).
 
@@ -148,7 +148,7 @@ Because the base system includes many default mappings, you might not have to cr
 
 **Tip:** Terms used in this document are defined in [CSDM life-cycle terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-life-cyle-terms.md).
 
-In the following example, your existing data uses a status attribute named **Install Status** for hardware CIs. You configure the [[csdm-life-cycle-mapping-form|Life cycle mapping form]] to map the existing **Pending Install** value of the **Install Status** attribute to the **Deploy/Test** life-cycle value pair in the CMDB.
+In the following example, your existing data uses a status attribute named **Install Status** for hardware CIs. You configure the Life cycle mapping form to map the existing **Pending Install** value of the **Install Status** attribute to the **Deploy/Test** life-cycle value pair in the CMDB.
 
 \[Omitted image "csdm-lifecycle-mapping-form.png"\] Alt text: Map existing legacy values to CSDM life-cycle values.
 
@@ -211,7 +211,3 @@ After the data has migrated successfully, you can start managing data following 
 1.  [Activate the CSDM Activation \(com.snc.cmdb.csdm.activation\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 2.  Use the [CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md) to centrally govern the life cycle of CIs in bulk and in a standard and consistent way.
 
-## Related
-
-- [[reference|Reference]]
-- [[csdm-life-cycle-mapping-form|Life cycle mapping form]]

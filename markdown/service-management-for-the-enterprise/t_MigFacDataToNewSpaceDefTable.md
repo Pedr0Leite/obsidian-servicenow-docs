@@ -45,8 +45,5 @@ The following results can be expected:
     **Note:** Any object that is marked as migrated does not get migrated again, so you can safely run through the migration process multiple times without creating duplicated objects in the space tables. This behavior can be modified in the migration script include or by resetting the migration flag on the original objects.
 
 
-**Parent Topic:**[[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
+**Parent Topic:**[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)
 
-## Related
-
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]

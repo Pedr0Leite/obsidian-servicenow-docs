@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics]
 
 # Now Assist in Platform Analytics
 
-[[c_performanceAnalyticsAndReporting|Platform Analytics]] includes several applications that leverage AI to generate insights into data.
+Platform Analytics includes several applications that leverage AI to generate insights into data.
 
 ## Get started
 
@@ -30,7 +30,3 @@ breadcrumb: [Platform Analytics]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

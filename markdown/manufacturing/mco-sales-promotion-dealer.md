@@ -12,16 +12,10 @@ breadcrumb: [Dealer management, Use, Manufacturing Commercial Operations]
 
 # Sales promotion for the dealer
 
-The [[mco-dealer-portal|dealer portal]] enables the dealers to view the sales promotions campaign created by OEMs. Dealers can also raise a claim request on the [[mco-sales-promotion|sales promotion]].
+The dealer portal enables the dealers to view the sales promotions campaign created by OEMs. Dealers can also raise a claim request on the sales promotion.
 
 |Task|Description|
 |----|-----------|
-|[[mco-sales-promotion-single-claim|Submit a sales promotion claim]]|Submit a single sales promotion claim case.|
-|[[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]]|Bulk upload the sales promotion claims.|
+|[Submit a sales promotion claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-single-claim.md)|Submit a single sales promotion claim case.|
+|[Upload a bulk sales promotion claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-bulk-upload.md)|Bulk upload the sales promotion claims.|
 
-## Related
-
-- [[mco-sales-promotion-single-claim|Submit a sales promotion claim]]
-- [[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-sales-promotion|Sales promotion]]

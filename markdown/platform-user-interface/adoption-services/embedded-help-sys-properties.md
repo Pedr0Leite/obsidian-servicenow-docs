@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help reference, Embedded Help, In-product help, Adoption s
 
 # Embedded Help system properties
 
-[[embedded-help|Embedded help]] is active by default on your instance. The administrator can change system properties to modify how the instance interacts with embedded help.
+Embedded help is active by default on your instance. The administrator can change system properties to modify how the instance interacts with embedded help.
 
 The administrator navigates to **Embedded Help** &gt; **Properties** to change these properties.
 
@@ -32,7 +32,7 @@ com.glide.embedded\_help.auto\_close
 
 </td><td>
 
-Auto-closes the help pane when the user clicks **Start a Tour** or **Back To [[guided-setup|Guided Setup]]**.-   Type: true \| false
+Auto-closes the help pane when the user clicks **Start a Tour** or **Back To Guided Setup**.-   Type: true \| false
 -   Default value: true
 
 </td></tr><tr><td>
@@ -99,7 +99,7 @@ com.glide.embedded\_help.url
 
 </td><td>
 
-[[lists-configurable-workspace|Lists]] the location from where embedded help is dynamically retrieved.-   Type: string
+Lists the location from where embedded help is dynamically retrieved.-   Type: string
 -   Default value: varies
 
 </td></tr><tr><td>
@@ -136,8 +136,3 @@ Enables Guided Setup actions in the embedded help panel that are based on states
 </td></tr></tbody>
 </table>**Parent Topic:**[Embedded Help reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-reference.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[guided-setup|Guided Setup]]
-- [[lists-configurable-workspace|Lists]]

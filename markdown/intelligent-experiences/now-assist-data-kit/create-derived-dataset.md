@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Data Kit, Now Assist Data Kit, Enable AI experienc
 
 # Create a derived dataset
 
-Create a smaller, derived dataset from an existing dataset [[using-now-assist-data-kit|using Now Assist Data Kit]]. Use derived [[ai-datasets|datasets]] to isolate specific records for focused ground truth labeling or evaluation without modifying the original dataset.
+Create a smaller, derived dataset from an existing dataset using Now Assist Data Kit. Use derived datasets to isolate specific records for focused ground truth labeling or evaluation without modifying the original dataset.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_data\_kit.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-data-kit-landing|Now Assist Data Kit]]** &gt; **Home**, and open an existing dataset in the **Datasets** tab.
+1.  Navigate to **All** &gt; **Now Assist Data Kit** &gt; **Home**, and open an existing dataset in the **Datasets** tab.
 
 2.  Select the **Create derived dataset** button at the top of the **Records** list.
 
@@ -51,8 +51,3 @@ Role required: sn\_data\_kit.admin
 
 After you have created the derived dataset, you can add ground truth to its records. For more information, see [Add a ground truth to each dataset record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/add-ground-truth.md).
 
-## Related
-
-- [[using-now-assist-data-kit|Using Now Assist Data Kit]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

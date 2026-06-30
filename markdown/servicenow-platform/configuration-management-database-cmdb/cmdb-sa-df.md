@@ -14,10 +14,7 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Using CMDB success advisor for Data Foundations
 
-As a CMDB administrator, you can use the Data Foundations dashboard in [[cmdb-sa|CMDB success advisor]] to improve data quality for the most critical CI classes. Use Data Foundations to keep your CI data accurate, complete, and reliable across the CI classes your organization relies on for incidents, problems, and changes.
+As a CMDB administrator, you can use the Data Foundations dashboard in CMDB success advisor to improve data quality for the most critical CI classes. Use Data Foundations to keep your CI data accurate, complete, and reliable across the CI classes your organization relies on for incidents, problems, and changes.
 
 When you configure your Data Foundations scope, the selected CI classes are automatically marked as principal classes, filtering CI picker fields on task records to show only the most relevant CIs. The default configuration enables you to select up to 200 principal classes.
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]

@@ -14,17 +14,17 @@ breadcrumb: [View SIR Workspace Dashboards, Security Incident Response Workspace
 
 # View Security Incident Explorer dashboard
 
-With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, [[location|location]], priority and business impact.
+With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, location, priority and business impact.
 
 ## Before you begin
 
-By default, [[si-explorer-dashboard|Security Incident Explorer dashboard]] is displayed for the users with sn\_si.manager access.
+By default, Security Incident Explorer dashboard is displayed for the users with sn\_si.manager access.
 
 Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click **SIR Dashboards** icon, displayed on the left side of the workspace home page.
 
@@ -37,11 +37,5 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
     In the current release, the following list of reports is not supported in the Security Incident Explorer dashboard: 
 
     -   Security Incident Assignment HeatMap - HeatMap visualisation is not available. 
-    -   [[c_SecurityIncidentGeoHeatmap|Security Incident Map]] - Map visualisation is not available.
+    -   Security Incident Map - Map visualisation is not available.
 
-## Related
-
-- [[location|Location]]
-- [[si-explorer-dashboard|Security Incident Explorer dashboard]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_SecurityIncidentGeoHeatmap|Security incident map]]

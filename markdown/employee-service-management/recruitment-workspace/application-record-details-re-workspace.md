@@ -18,9 +18,9 @@ Track an application for a job requisition and its corresponding applicant and i
 
 From the Applications section of a job requisition, select an application to view its details.
 
-You can select **Request [[hiring-tab-concept|hiring]] manager response** to send an email notification to the hiring manager requesting a recommendation for the application.
+You can select **Request hiring manager response** to send an email notification to the hiring manager requesting a recommendation for the application.
 
-You can [[schedule-interview|schedule an interview]] with an applicant from the application page. For more information, see [Schedule an interview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/schedule-interview.md).
+You can schedule an interview with an applicant from the application page. For more information, see [Schedule an interview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/schedule-interview.md).
 
 The **Overview** tab displays the following:
 
@@ -29,7 +29,7 @@ The **Overview** tab displays the following:
 -   Application state journey with the current state highlighted.
 -   Applicant details that include the basic information, professional experience, and education information.
 
-The **Details** tab displays the applicant details, enables you to communicate with the hiring team and the applicant using the Compose section, and view updates to the application record in the [[activity-lxp|Activity]] section.
+The **Details** tab displays the applicant details, enables you to communicate with the hiring team and the applicant using the Compose section, and view updates to the application record in the Activity section.
 
 The **Tasks** tab displays a detailed list of the tasks assigned to the applicant or hiring team. You can select **Add new** to assign a new task to the applicant or hiring team. For more information, see [Create tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/create-applicant-tasks.md).
 
@@ -44,13 +44,7 @@ The **Interview feedback** tab enables you to do the following:
 -   View feedback records assigned to other interviewers by selecting the respective record and nudge interviewers if there’s a delay in submitting feedback.
 -   As an interviewer, select the record assigned to you to provide feedback. For more information, see [Provide interview feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/provide-interview-feedback-recruiter.md).
 
-**Note:** You must activate the [[interview-management-landing|Interview Management]] plugin to have access to the **Job interviews** and **Interview feedback** tabs.
+**Note:** You must activate the Interview Management plugin to have access to the **Job interviews** and **Interview feedback** tabs.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[schedule-interview|Schedule an interview]]
-- [[activity-lxp|Activity]]
-- [[interview-management-landing|Interview Management]]

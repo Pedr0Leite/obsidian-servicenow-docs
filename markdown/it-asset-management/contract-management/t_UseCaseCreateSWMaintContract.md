@@ -14,7 +14,7 @@ breadcrumb: [Create a contract, Contracts, Contract Management use, Contract Man
 
 # Create a software maintenance contract example
 
-One common use case for the [[c_ContractManagement|Contract Management]] application is creating a contract to track maintenance payments for enterprise software. You can use this example to learn how to create a software maintenance contract.
+One common use case for the Contract Management application is creating a contract to track maintenance payments for enterprise software. You can use this example to learn how to create a software maintenance contract.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: contract\_manager or admin
 
 ## About this task
 
-The goal of this example is to [[t_CreateAContract|create a contract]] that shows the total amount of maintenance that must be paid for the software application, independent of different license purchases made over time. The [[c_SoftwareAssetMgmt|Software Asset Management]] plugin must be activated to use this example.
+The goal of this example is to create a contract that shows the total amount of maintenance that must be paid for the software application, independent of different license purchases made over time. The Software Asset Management plugin must be activated to use this example.
 
 ## Procedure
 
-1.  Create an [application model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md), adding a **Name** and specifying **Software License** in **[[model-hierarchy|Model categories]]**.
+1.  Create an [application model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md), adding a **Name** and specifying **Software License** in **Model categories**.
 
 2.  Create a [software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md), adding a **Name** and **Model Number**, and selecting the application model created in step 1.
 
 3.  Create a new software entitlement by selecting the software model created in step 2.
 
-4.  Navigate to **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **Maintenance**.
+4.  Navigate to **Contract** &gt; **Contracts** &gt; **Maintenance**.
 
 5.  Click **New** and enter the following information.
 
@@ -119,10 +119,3 @@ Enter the value.
 
 [Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMOverview.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[t_CreateAContract|Create a contract]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[c_Contracts|Contracts]]

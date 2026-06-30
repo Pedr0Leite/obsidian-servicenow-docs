@@ -12,7 +12,7 @@ breadcrumb: [Configure Visualization library, Implement, Unified Security Exposu
 
 # Create a custom widget
 
-Create a custom widget in the Security exposure management \(SEM\) workspace to visualize findings data that meets your organization’s reporting needs. This feature enables administrators to extend the default widgets in the [[sem-visualization-library|visualization library]] by adding new widgets that reflect organization-specific risk and exposure metrics.
+Create a custom widget in the Security exposure management \(SEM\) workspace to visualize findings data that meets your organization’s reporting needs. This feature enables administrators to extend the default widgets in the visualization library by adding new widgets that reflect organization-specific risk and exposure metrics.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 3.  On the new Visualization widget form, enter the required details.
 
-    For a full description of each field, see [[sem-vis-widget-fields|Visualization widget fields]].
+    For a full description of each field, see [Visualization widget fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-vis-widget-fields.md).
 
 4.  Select **Save**.
 
@@ -43,10 +43,5 @@ The widget is now saved to the **Visualization Library** and can be used when cr
 -   You can create or update widgets in the **Findings view**, but not in the **Remediation overview** page. Widgets in the **Remediation overview** are predefined and cannot be created or edited. You can only change their display order or activate or deactivate them.
 -   Only the widgets marked **Active** = true appear in the dashboard creation view.
 
-**Parent Topic:**[[sem-configure-visualization-library|Configure Visualization library]]
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 
-## Related
-
-- [[sem-vis-widget-fields|Visualization widget fields]]
-- [[sem-configure-visualization-library|Configure Visualization library]]
-- [[sem-visualization-library|Visualization library]]

@@ -22,15 +22,11 @@ The chart screen supports the following report types:
 -   Bar
 -   Pie and donut
 
-To use a chart screen, you will first need to create a dashboard preview to link to your chart screen. For details on dashboard previews, see [[mobile-dashboard-preview|Mobile dashboard preview]].
+To use a chart screen, you will first need to create a dashboard preview to link to your chart screen. For details on dashboard previews, see [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
 \[Omitted image "donut-flow.png"\] Alt text: Three screen shots showing a flow from launcher screen to chart screen to parameterized list.
 
 For general information on using and configuring data visualizations \(not specifically for mobile\), see the following documentation topics: [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md) and [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
-For information on the various data visualizations supported in mobile, see the user-related topics in [[mobile-reporting-dashboard|Mobile platform dashboards]].
+For information on the various data visualizations supported in mobile, see the user-related topics in [Mobile platform dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-dashboard.md).
 
-## Related
-
-- [[mobile-dashboard-preview|Mobile dashboard preview]]
-- [[mobile-reporting-dashboard|Mobile platform dashboards]]

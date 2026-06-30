@@ -18,13 +18,13 @@ As a procurement specialist, you can easily define your Non-Disclosure Agreement
 
 ## Before you begin
 
-Procurement specialists can do this with the help of a document template that is provided by default with the Document Template plugin \[sn\_doc\], which is added as a dependency on [[psd-overview|Procurement Case Management]] \[sn\_spend\_psd\]. The signer details are stored in the Signers table.​
+Procurement specialists can do this with the help of a document template that is provided by default with the Document Template plugin \[sn\_doc\], which is added as a dependency on Procurement Case Management \[sn\_spend\_psd\]. The signer details are stored in the Signers table.​
 
-**Note:** You must use the November 2023 version of the Document Template plugin \[sn\_doc\] for using the November 2023 versions of the Procurement Case Management and Playbooks for [[psm-overview|Sourcing and Procurement Operations]] plugins.
+**Note:** You must use the November 2023 version of the Document Template plugin \[sn\_doc\] for using the November 2023 versions of the Procurement Case Management and Playbooks for Sourcing and Procurement Operations plugins.
 
 Role required: Procurement specialist
 
-\[Omitted image "nda\_content.png"\] Alt text: [[supplier|Supplier]] NDA draft.
+\[Omitted image "nda\_content.png"\] Alt text: Supplier NDA draft.
 
 ## Procedure
 
@@ -49,8 +49,3 @@ Role required: Procurement specialist
 
 **Parent Topic:**[Routing NDAs to suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/routing-ndas-to-suppliers.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]

@@ -14,20 +14,20 @@ breadcrumb: [Properties, Reference, Performance Analytics \(Indicator data sourc
 
 # Collected scores and com.snc.pa.breakdown\_element\_cutoff
 
-The elements of a breakdown that the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and [[kpi-details|KPI Details]] display for a selected date depend on the number of elements and the value of **com.snc.pa.breakdown\_element\_cutoff**.
+The elements of a breakdown that the Analytics Hub and KPI Details display for a selected date depend on the number of elements and the value of **com.snc.pa.breakdown\_element\_cutoff**.
 
 In general, when the number of elements for a breakdown exceeds **com.snc.pa.breakdown\_element\_cutoff**, the Analytics Hub and KPI Details display only the elements that have ever had a score.
 
-For a formula indicator, the elements that have ever had a score for all the contributing [[automated-indicators|automated indicators]] are displayed. These scores do not need to be on the same date. The requirement is only that for each [contributing indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md), on some date, there was a score for the element.
+For a formula indicator, the elements that have ever had a score for all the contributing automated indicators are displayed. These scores do not need to be on the same date. The requirement is only that for each [contributing indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md), on some date, there was a score for the element.
 
-For collected scores of an automated indicator—that is, for all scores other than [[real-time-scores|real-time scores]]—there are two behaviors:
+For collected scores of an automated indicator—that is, for all scores other than real-time scores—there are two behaviors:
 
 -   If the number of elements that have ever had a score is less than the limit set in **com.snc.pa.breakdown\_element\_cutoff**, all of these elements are listed for any selected date. Elements that do not have a score for the selected date are still listed for that date. This behavior is the same as the behavior for real-time scores.
 -   If the number of elements that have ever had a score is greater than the limit set in **com.snc.pa.breakdown\_element\_cutoff**, only elements that have a score or a Change value for a selected date are listed for that date. Elements that do not have a score or Change value for that date are not listed regardless of whether they have a score for any other date.
 
 **Tip:**
 
-To prevent elements with null scores appearing in the Analytics Hub or KPI Details for automated indicators, consider setting a low value for **com.snc.pa.breakdown\_element\_cutoff**, such as 0 or 1. Elements with null scores may still appear however for real-time scores and [[formula-indicators|formula indicators]].
+To prevent elements with null scores appearing in the Analytics Hub or KPI Details for automated indicators, consider setting a low value for **com.snc.pa.breakdown\_element\_cutoff**, such as 0 or 1. Elements with null scores may still appear however for real-time scores and formula indicators.
 
 ## Scores appearing for automated indicators with different values of com.snc.pa.breakdown\_element\_cutoff
 
@@ -67,10 +67,3 @@ On March 22, six elements are shown. Openspace now has a non-null value so is sh
 
 **Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[automated-indicators|Automated indicators]]
-- [[real-time-scores|Real-time scores]]
-- [[formula-indicators|Formula indicators]]

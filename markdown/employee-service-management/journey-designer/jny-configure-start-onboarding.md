@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure the Pre-hire Experience, Configure, Journey de
 
 # Configure the Start onboarding widget
 
-[[jny-dsgnr-landing-page-1|Journey designer]] administrators can configure the Start onboarding widget to create a banner that's used for welcoming an onboarding employee to your organization. Administrators can configure the content and design associated with the banner to meet the needs of your organization.
+Journey designer administrators can configure the Start onboarding widget to create a banner that's used for welcoming an onboarding employee to your organization. Administrators can configure the content and design associated with the banner to meet the needs of your organization.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

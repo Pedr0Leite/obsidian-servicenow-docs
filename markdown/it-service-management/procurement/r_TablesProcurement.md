@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 # Tables installed with Procurement
 
-[[c_Procurement|Procurement]] plugin adds the following tables.
+Procurement plugin adds the following tables.
 
 <table id="table_yfh_trv_dp"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Purchase Order \[proc\_po\]
 
 </td><td>
 
-Stores information about items ordered, cost of items ordered, and users that require the items for orders placed with a vendor.**Note:** The asset, procurement\_user, inventory\_admin, or contract\_manager role can only access the reports. You must activate the Hardware [[c_AssetManagement|Asset Management]] Professional \(com.sn\_hamp\) plugin for the contract\_manager and inventory\_admin role.
+Stores information about items ordered, cost of items ordered, and users that require the items for orders placed with a vendor.**Note:** The asset, procurement\_user, inventory\_admin, or contract\_manager role can only access the reports. You must activate the Hardware Asset Management Professional \(com.sn\_hamp\) plugin for the contract\_manager and inventory\_admin role.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Receiving Slip \[proc\_rec\_slip\]
 
 </td><td>
 
-Stores receiving information for items ordered with a purchase order. Can [[reference-for-itsm-mobile-agent|reference]] multiple receiving slip lines.
+Stores receiving information for items ordered with a purchase order. Can reference multiple receiving slip lines.
 
 </td></tr><tr><td>
 
@@ -59,8 +59,3 @@ Stores receiving information for items ordered on a specific purchase order line
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_AssetManagement|Asset Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

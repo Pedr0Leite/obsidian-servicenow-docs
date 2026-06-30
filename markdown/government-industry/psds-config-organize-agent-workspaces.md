@@ -33,25 +33,20 @@ Configure agent workspaces and boost efficiency by optimizing interfaces, config
 </td></tr></tbody>
 </table>\[Omitted image "psds-workflow\_agent-workspace.png"\] Alt text: overview showing the different topics in agent workspaces and how they relate to each other
 
--   **[[psds-install-playbooks-solutions|Playbooks]]**
+-   **[Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-install-playbooks-solutions.md)**
 
     Install one or more playbook applications with Public Sector Digital Services. These tools provide an end-to-end workflow for handling public service requests submitted by consitutuents, enabling agents to resolve cases quickly and efficiently.
 
--   **[[setting-up-csm-fsm|CSM Configurable Workspace]]**
+-   **[CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md)**
 
     Set up the CSM Configurable Workspace and expand the Workspace UI to optimize agent government service processes. This user interface provides agents with the tools they need to answer constituent questions and resolve issues efficiently.
 
--   **[[psds-config-case-routing|Case routing and assignment]]**
+-   **[Case routing and assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-case-routing.md)**
 
     Set up Advanced Work Assignment in the CSM Configurable Workspace to route and assign cases automatically to the appropriate agents based on their availability, capacity, and skills. This setup helps to improve efficiency and response times.
 
--   **[[psds-config-case-management|Case management]]**
+-   **[Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-case-management.md)**
 
     Configure your case management tools to manage cases efficiently by setting up features that permit you and your constituents to create, resolve, and categorize cases. Define case types for different public services, configure service definitions to link services and case types, and allow accurate tracking and resolution.
 
-## Related
 
-- [[psds-install-playbooks-solutions|Install and configure playbooks and other solutions in Public Sector Digital Services]]
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
-- [[psds-config-case-routing|Case Routing in Public Sector Digital Services]]
-- [[psds-config-case-management|Configure Case Management in Public Sector Digital Services]]

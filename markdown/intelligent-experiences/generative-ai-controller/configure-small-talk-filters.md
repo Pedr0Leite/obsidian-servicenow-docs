@@ -30,7 +30,7 @@ When engaging with generative AI, many people send conversational messages that 
 
 2.  Open the record for the small talk filter that you want to configure or select **New** to create one.
 
-    By default, the four available filters for small talk are Greetings, Gratitude, Complaint, and Closure. If you see other filters, those filters are sensitive topic filters that can be set up with the [[platform-now-assist-landing|Now Assist]] Admin console. See Configure subject filters for generative AI for more information.
+    By default, the four available filters for small talk are Greetings, Gratitude, Complaint, and Closure. If you see other filters, those filters are sensitive topic filters that can be set up with the Now Assist Admin console. See Configure subject filters for generative AI for more information.
 
 3.  If creating a filter, add a **Name** and **Description** for the filter.
 
@@ -42,7 +42,7 @@ When engaging with generative AI, many people send conversational messages that 
 
     Filters are processed by lowest order to highest. A filter with order 100 is processed before a filter with order 200.
 
-6.  In the **Filter [[exploring-ai-governance|Configurations]]** field, use the name "portal" to determine where the filter should be run, such as setting "portal" to value "sp" to apply only the filter on the sp portal.
+6.  In the **Filter Configurations** field, use the name "portal" to determine where the filter should be run, such as setting "portal" to value "sp" to apply only the filter on the sp portal.
 
     Use a comma-separated list to select multiple values.
 
@@ -77,7 +77,3 @@ When engaging with generative AI, many people send conversational messages that 
 
 When engaging in conversations with generative AI, users are redirected to a new topic when filtered subjects or sentiments are detected.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]

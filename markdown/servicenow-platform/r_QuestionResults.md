@@ -18,14 +18,14 @@ Select a question by name from the choice list to display the results in a pie c
 
 ## Pie chart
 
-The pie chart shows question results for these [[c_QuizDesigner|data types]]:
+The pie chart shows question results for these [data types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md):
 
 -   Checkbox
 -   Choice
 -   Likert Scale
 -   Number
 -   Template
--   [[yes-no|Yes/No]]
+-   Yes/No
 
 **Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
@@ -39,10 +39,5 @@ Percentage
 
 By default, all results for percentage questions use a report range of 20% segments. To configure a report range, navigate to **Reports** &gt; **Administration** &gt; **Report Ranges**.
 
-**Parent Topic:**[[c_QuizScorecards|Quiz scorecards]]
+**Parent Topic:**[Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md)
 
-## Related
-
-- [[c_QuizDesigner|Quiz designer]]
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[yes-no|Yes/No]]

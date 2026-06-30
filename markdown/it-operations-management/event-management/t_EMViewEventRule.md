@@ -14,7 +14,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # View event rules
 
-You can view all [[create-event-rules|event rules]] on the Event Rules list.
+You can view all event rules on the Event Rules list.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 <table><thead><tr><th align="left">
 
@@ -87,7 +87,3 @@ Update date and time for the rule.
 
 [View events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMManageEvent.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

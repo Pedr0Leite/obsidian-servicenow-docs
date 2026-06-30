@@ -15,7 +15,7 @@ breadcrumb: [GitLab external content connector, Configure, External Content Conn
 
 # Configure GitLab for external content indexing
 
-Create a personal access token for a group owner user account on GitLab.com to allow the [[gitlab-external-content-connector|GitLab external content connector]] to access your GitLab source system.
+Create a personal access token for a group owner user account on GitLab.com to allow the GitLab external content connector to access your GitLab source system.
 
 ## Before you begin
 
@@ -78,7 +78,7 @@ Your ServiceNow AI Platform instance admin needs this personal access token to c
 
     \[Omitted image "gitlab-access-tokens-copy-new-personal-access-token.png"\] Alt text: Access tokens page on GitLab.com showing new personal access token.
 
-    **Important:** Your connector administrator needs this personal access token to [[create-ext-cont-connector-gitlab|create a GitLab external content connector]]. You won't be able to access the token again after creating it.
+    **Important:** Your connector administrator needs this personal access token to create a GitLab external content connector. You won't be able to access the token again after creating it.
 
 
 ## What to do next
@@ -94,7 +94,3 @@ For details on creating and configuring a GitLab external content connector, see
 
 **Parent Topic:**[GitLab external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/gitlab-external-content-connector.md)
 
-## Related
-
-- [[gitlab-external-content-connector|GitLab external content connector]]
-- [[create-ext-cont-connector-gitlab|Create a GitLab external content connector]]

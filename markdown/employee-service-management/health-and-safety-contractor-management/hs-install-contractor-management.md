@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Contractor Management, Health and Safe
 
 # Install Health and Safety Contractor Management
 
-You can install the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] application \(sn\_hs\_crm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and Safety Contractor Management application \(sn\_hs\_crm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with Health and Safety Contracto
 
 6.  Select **Install**.
 
-## Related
 
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]

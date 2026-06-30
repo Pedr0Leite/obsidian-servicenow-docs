@@ -12,7 +12,7 @@ breadcrumb: [Installed products, Configure install base, Configure product data,
 
 # Create installed products
 
-Create an installed product to create an association between [[sold-product|sold products]] and [[install-base-item|install base items]]. [[installed-products|Installed products]] provide information on the instances that a sold product is deployed on.
+Create an installed product to create an association between sold products and install base items. Installed products provide information on the instances that a sold product is deployed on.
 
 ## Before you begin
 
@@ -35,8 +35,4 @@ Ensure that the Customer Service Install Base Management plugin \(com.snc.instal
 
 4.  Click **Submit**.
 
-## Related
 
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]

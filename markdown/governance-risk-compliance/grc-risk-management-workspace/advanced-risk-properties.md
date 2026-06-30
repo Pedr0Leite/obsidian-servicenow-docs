@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Advanced Risk, Reference, Risk Management
 
 # Properties installed with Advanced Risk
 
-Properties are added with activation of GRC: Advanced Risk. There are also properties that are available for the various capabilities such as risk events and advanced [[risk-assessments|risk assessments]].
+Properties are added with activation of GRC: Advanced Risk. There are also properties that are available for the various capabilities such as risk events and advanced risk assessments.
 
 ## Properties for Advanced Risk
 
@@ -71,7 +71,7 @@ This property enables the GRC enterprise risk licensing features.-   Type: true 
 </td></tr></tbody>
 </table>## Properties for Risk Events
 
-To access the risk event properties, navigate to **All** &gt; **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+To access the risk event properties, navigate to **All** &gt; **Risk Events** &gt; **Administration** &gt; **Properties**.
 
 <table id="table_dhr_rjk_3jb"><thead><tr><th>
 
@@ -111,7 +111,7 @@ Property to define currency conversion dates for the risk event entries. You can
 -   **Last recovery entry date**
 -   **Custom date**
 
-**Note:** You can also override the defined currency conversion dates in the [[risk-response|risk response]] template configuration. These changes apply to both new and ongoing risk event workflows.
+**Note:** You can also override the defined currency conversion dates in the risk response template configuration. These changes apply to both new and ongoing risk event workflows.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Select how many years of risk event data must be shown on the report.
  **Note:** This property is visible on the System Properties page.
 
 </td></tr></tbody>
-</table>## Properties for [[advanced-risk-assessment|advanced risk assessment]]
+</table>## Properties for advanced risk assessment
 
 To access the advanced risk assessment properties, navigate to **All** &gt; **Advanced Risk Assessments** &gt; **Administration** &gt; **Properties**.
 
@@ -202,9 +202,3 @@ Enables Risk administrators to define either the simple approval flow or the adv
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/components-risk-advanced.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[Administration|Administration]]
-- [[risk-response|risk response]]
-- [[advanced-risk-assessment|advanced risk assessment]]

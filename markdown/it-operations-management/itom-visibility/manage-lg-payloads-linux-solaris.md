@@ -18,7 +18,7 @@ Large payloads for Linux and Solaris direct attached storage can cause out of me
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -49,6 +49,3 @@ When Linux or Solaris storage sensors process payloads from large disk arrays, w
 
 **Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

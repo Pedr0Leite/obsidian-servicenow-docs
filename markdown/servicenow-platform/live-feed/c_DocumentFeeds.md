@@ -16,16 +16,16 @@ breadcrumb: [Administering Live Feed, Live Feed Core UI, Manage people and work 
 
 A document feed is a Live Feed group that is associated with a record, such as an incident or change.
 
-Document feeds allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or [[c_WorkNotes|work notes]] on the record, if the record has these journal fields.
+Document feeds allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or work notes on the record, if the record has these journal fields.
 
 The benefits of using document feeds include the following.
 
 -   Improving communication between users working on the same record.
 -   Improving visibility into progress for end users.
 -   Providing a single place to see updates on multiple records.
--   Saving conversation history in the record so that knowledge is not lost in an [[email|email]] chain.
+-   Saving conversation history in the record so that knowledge is not lost in an email chain.
 
-To use document feeds, [[t_ActivateLiveFeedDocument|activate the Live Feed Document plugin]], which is active by default in new instances. See [Use Live Feed to work on records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UsingLiveFeedToWorkOnRecords.md) to learn how to use this feature.
+To use document feeds, activate the Live Feed Document plugin, which is active by default in new instances. See [Use Live Feed to work on records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UsingLiveFeedToWorkOnRecords.md) to learn how to use this feature.
 
 The system automatically creates a document group for the feed when a user follows or shows a record on Live Feed. The system also creates a document group when a user creates a new record on a table that has Live Feed enabled.
 
@@ -49,7 +49,7 @@ Document feeds honor the access control rules \(ACLs\) for the associated record
 -   **[Disable a record feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DisableARecordFeed.md)**  
 You can disable Live Feed functionality from the form of any table.
 -   **[Disable a document feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DisableADocumentFeed.md)**  
-You can [[t_DisableADocumentFeed|disable a document feed]] from the form of any table.
+You can disable a document feed from the form of any table.
 -   **[Business rule installed with Live Feed Document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledComponents.md)**  
 This business rule is installed with Live Feed Document. There are no tables, roles, or notifications installed with it.
 
@@ -68,9 +68,3 @@ This business rule is installed with Live Feed Document. There are no tables, ro
 
 [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[email|Email]]
-- [[t_ActivateLiveFeedDocument|Activate the Live Feed Document plugin]]
-- [[t_DisableADocumentFeed|Disable a document feed]]

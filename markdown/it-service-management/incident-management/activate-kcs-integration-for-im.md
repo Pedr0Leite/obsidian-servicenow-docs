@@ -14,7 +14,7 @@ breadcrumb: [Incident Management plugins, Reference, Incident Management, IT Ser
 
 # Activate KCS Integration for Incident Management
 
-Activate the KCS Integration for [[c_IncidentManagement|Incident Management]] plugin \(com.snc.incident.knowledge\) if you have the admin role. This plugin provides integration of Incident Management with the Advanced Knowledge Management features.
+Activate the KCS Integration for Incident Management plugin \(com.snc.incident.knowledge\) if you have the admin role. This plugin provides integration of Incident Management with the Advanced Knowledge Management features.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Use this plugin to install the Knowledge Management Advanced plugin. Activating 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -72,7 +72,3 @@ The Incident KCS Article table is installed with the activation of the KCS Integ
 
 [Create a knowledge article from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-knowledge-incident.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

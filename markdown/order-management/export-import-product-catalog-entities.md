@@ -32,25 +32,16 @@ Follow these steps to export and import product catalog entities.
 
 |Step|Description|
 |----|-----------|
-|[[run-fix-script-sched-job-export|Add Code field values to catalog entities]]|Add the **Code** field values for the main product catalog entities on your source and target instances.|
-|[[export-product-catalog-entities|Export product catalog entities]]|Export product catalog entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
-|[[view-export-job-status|View export job status]]|Check the state of the export job.|
-|[[import-product-catalog-entities|Import product catalog entities]]|Import product entities exported as JSON files to another instance.|
-|[[view-import-job-status|View import job status]]|Check the state of the import job.|
+|[Add Code field values to catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/run-fix-script-sched-job-export.md)|Add the **Code** field values for the main product catalog entities on your source and target instances.|
+|[Export product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/export-product-catalog-entities.md)|Export product catalog entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
+|[View export job status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-export-job-status.md)|Check the state of the export job.|
+|[Import product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/import-product-catalog-entities.md)|Import product entities exported as JSON files to another instance.|
+|[View import job status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-import-job-status.md)|Check the state of the import job.|
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[run-fix-script-sched-job-export|Add Code field values to catalog entities]]
-- [[export-product-catalog-entities|Export product catalog entities]]
-- [[view-export-job-status|View export job status]]
-- [[import-product-catalog-entities|Import product catalog entities]]
-- [[view-import-job-status|View import job status]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

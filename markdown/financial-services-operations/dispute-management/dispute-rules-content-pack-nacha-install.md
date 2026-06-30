@@ -14,7 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Nacha, Dispute Management, Banking a
 
 # Installing Dispute Rules Content Pack for Nacha
 
-If you have the admin role, you can install the [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]] application.
+If you have the admin role, you can install the Dispute Rules Content Pack for Nacha application.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
 5.  Select **Install**.
 
-## Related
 
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]

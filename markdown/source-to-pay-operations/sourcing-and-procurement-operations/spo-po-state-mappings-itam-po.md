@@ -15,7 +15,7 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 # SPO PO state mappings to ITAM PO
 
-Lists the state mappings between SPO [[purchase-order-table|purchase order]] \(PO\) records and ITAM purchase order \(PO\) records.
+Lists the state mappings between SPO purchase order \(PO\) records and ITAM purchase order \(PO\) records.
 
 State alignment between SPO PO records and ITAM PO follows the mappings in this table, with the SPO PO driving the state behavior. SPO PO and purchase order line \(POL\) states drive all states except for delivered and partially delivered, which reference receiving actions in ITAM.
 
@@ -58,6 +58,3 @@ State alignment between SPO PO records and ITAM PO follows the mappings in this 
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

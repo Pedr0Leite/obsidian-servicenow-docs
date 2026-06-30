@@ -14,7 +14,7 @@ breadcrumb: [Explore, Instance Data Replication, Manage instance data sources, E
 
 # Bidirectional replication
 
-Bidirectional replication in [[instance-data-replication|Instance Data Replication]] \(IDR\) enables data to flow from a producer instance to a consumer instance and accept data from a consumer instance to flow back to the producer instance.
+Bidirectional replication in Instance Data Replication \(IDR\) enables data to flow from a producer instance to a consumer instance and accept data from a consumer instance to flow back to the producer instance.
 
 All inserts and changes to records on either instance are sent to the other instance to keep the tables identical on both instances. For example, you can enable bidirectional replication for the Incidents table to keep incident records synchronized between two instances.
 
@@ -43,6 +43,3 @@ Bidirectional replication has the following limitations:
 
 If you must understand the implications of bi-direction and data transfer between instances, see [data privacy in IDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/data-privacy-consumers-idr.md) for more information.
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

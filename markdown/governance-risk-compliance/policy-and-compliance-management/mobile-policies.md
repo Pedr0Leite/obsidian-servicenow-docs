@@ -22,7 +22,7 @@ Role required: Compliance manager \(sn\_compliance.manager\)
 
 ## About this task
 
-Approve or reject a pending [[r_PolicyComplianceMgmt|Policy and Compliance Management]] request from the list of records. Alternatively, view the details of the record or add a work note prior to processing the request. Time to complete this task: 5-10 minutes.
+Approve or reject a pending Policy and Compliance Management request from the list of records. Alternatively, view the details of the record or add a work note prior to processing the request. Time to complete this task: 5-10 minutes.
 
 ## Procedure
 
@@ -109,6 +109,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Policy and Compl
 </table>
 **Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-policy_compliance-ovrvw.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

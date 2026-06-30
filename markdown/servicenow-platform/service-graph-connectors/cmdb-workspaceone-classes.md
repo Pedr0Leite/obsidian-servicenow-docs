@@ -71,7 +71,7 @@ The following attribute in the Hardware \[cmdb\_ci\_hardware\] table is populate
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -192,6 +192,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |------------|-----------------|-----------|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Hardware \[cmdb\_ci\_hardware\]|
 
-## Related
-
-- [[ip-address|IP Address]]

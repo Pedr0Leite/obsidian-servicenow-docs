@@ -14,7 +14,7 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure the email notification state
 
-Determine at which state the applicant receives an email to [[view-applicant-center|access the Applicant Center]].
+Determine at which state the applicant receives an email to access the Applicant Center.
 
 Choose when the applicant can access the Applicant Center.
 
@@ -22,6 +22,3 @@ Choose when the applicant can access the Applicant Center.
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[view-applicant-center|Access the Applicant Center]]

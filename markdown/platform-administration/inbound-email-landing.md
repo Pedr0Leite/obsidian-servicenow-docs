@@ -22,7 +22,7 @@ Save time from responding to emails manually when you configure your instance to
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure a processing order for [[ia-inbound-email-il|inbound email]] actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-inbound-email.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure a processing order for inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-inbound-email.md)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Save time from responding to emails manually when you configure your instance to
 
 </td><td>
 
-[References and Examples\[Omitted image "bus-learn.svg"\] Alt text:See examples for [[actions-inbound-email|inbound email actions]], inbound events integration and details about email objects, email matching, user impersonation and redirecting emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
+[References and Examples\[Omitted image "bus-learn.svg"\] Alt text:See examples for inbound email actions, inbound events integration and details about email objects, email matching, user impersonation and redirecting emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
 </td><td>
 
@@ -43,13 +43,8 @@ Save time from responding to emails manually when you configure your instance to
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]

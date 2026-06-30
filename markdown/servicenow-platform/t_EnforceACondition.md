@@ -24,7 +24,7 @@ The system can be configured so you can trigger the deletion of assessable recor
 
 ## Procedure
 
-1.  On the Assessment Metric Type form, select the **Enforce condition** [[check-box|check box]] to enable deletion of existing assessable records of this type that do not match the table or conditions specified.
+1.  On the Assessment Metric Type form, select the **Enforce condition** check box to enable deletion of existing assessable records of this type that do not match the table or conditions specified.
 
     When the check box is cleared, the system retains existing assessable records of this type, even if they do not match the table and conditions specified.
 
@@ -33,15 +33,10 @@ The system can be configured so you can trigger the deletion of assessable recor
     The system does not automatically delete assessable records, even if the **Enforce condition** check box is selected. You must click **Generate Assessable Records** with the check box selected every time you want the system to delete non-matching assessable records.
 
 
-**Parent Topic:**[[c_assessable-records|Assessable records]]
+**Parent Topic:**[Assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md)
 
 **Related topics**  
 
 
-[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[c_assessable-records|Assessable records]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[check-box|Check box]]

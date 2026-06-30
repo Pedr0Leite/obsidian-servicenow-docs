@@ -14,8 +14,5 @@ breadcrumb: [Managing security incidents and inbound requests, Security Incident
 
 # Manage lookups and scans
 
-You can perform lookups and vulnerability scans from security incidents and from the security incident catalog to identify potential threats and [[vulnerabilities|vulnerabilities]].
+You can perform lookups and vulnerability scans from security incidents and from the security incident catalog to identify potential threats and vulnerabilities.
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]

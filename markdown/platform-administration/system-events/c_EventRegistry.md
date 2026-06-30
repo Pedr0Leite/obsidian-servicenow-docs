@@ -14,11 +14,11 @@ breadcrumb: [Exploring system events, System Events, Configure core features, Ad
 
 # Event registry
 
-The events registry lists the events the system recognizes. Use registered events to automate other activities, such as [[r_ScriptActions|script actions]] or [[notifications|notifications]].
+The events registry lists the events the system recognizes. Use registered events to automate other activities, such as script actions or notifications.
 
 After you create a new event and a business rule that uses the event, you must register it.
 
-Registration lets other parts of the system, such as [[c_EmailNotifications|Email and SMS notifications]] and Script Actions, see the event in their list of available events and react to the event when it occurs.
+Registration lets other parts of the system, such as [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md) and Script Actions, see the event in their list of available events and react to the event when it occurs.
 
 **Parent Topic:**[Exploring system events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/exploring-system-events.md)
 
@@ -27,8 +27,3 @@ Registration lets other parts of the system, such as [[c_EmailNotifications|Emai
 
 [Register an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/t_RegisterAnEvent.md)
 
-## Related
-
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[r_ScriptActions|Script actions]]
-- [[notifications|Notifications]]

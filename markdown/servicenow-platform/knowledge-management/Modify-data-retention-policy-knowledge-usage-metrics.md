@@ -30,7 +30,7 @@ Activating the data retention policy for the kb\_usage\_metrics table deletes re
 
 2.  In the **Tablename** column, search for `kb_usage_metrics` and click the **kb\_usage\_metrics** link.
 
-3.  On the Auto Flush form, activate the kb\_usage\_metrics table cleanup job by selecting the **Active** [[check-box|check box]].
+3.  On the Auto Flush form, activate the kb\_usage\_metrics table cleanup job by selecting the **Active** check box.
 
 4.  Adjust the duration the system waits before deleting the records by modifying the value in the **Age in seconds** field.
 
@@ -41,6 +41,3 @@ Activating the data retention policy for the kb\_usage\_metrics table deletes re
 
 **Parent Topic:**[Collect knowledge usage metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/Guest-user-diagnostic.md)
 
-## Related
-
-- [[check-box|Check box]]

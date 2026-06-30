@@ -14,9 +14,9 @@ breadcrumb: [Source-to-Pay Workspace list page, Explore, Workspace, Source-to-Pa
 
 # SLO list page
 
-As a [[supplier|supplier]] manager, use the list page to work on the various supplier case types, view the cases and tasks assigned to you, all the cases and tasks, all the unassigned tasks, Knowledge Base articles, and active suppliers.
+As a supplier manager, use the list page to work on the various supplier case types, view the cases and tasks assigned to you, all the cases and tasks, all the unassigned tasks, Knowledge Base articles, and active suppliers.
 
-Open the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] by navigating to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+Open the Source-to-Pay Workspace by navigating to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 As a supplier manager, you have access to the following modules and sub-modules.
 
@@ -94,8 +94,3 @@ Suppliers: Displays a list of active suppliers.
 
 [POM list page]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

@@ -32,16 +32,11 @@ ServiceNow® Finance and Supply Chain workflows unify processes, data, and techn
 
 ## Products, features, and customer journeys
 
--   [[finance-supply-chain-workflows|Finance and Supply Chain workflows]]
--   [[fsc-common-apps-landing|Finance and Supply Chain applications]]
+-   [Finance and Supply Chain workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-supply-chain-workflows.md)
+-   [Finance and Supply Chain applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/fsc-common-apps-landing.md)
 -   [Now Assist for Finance and Supply Chain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/now-assist-fsc-common-landing.md)
--   [[source-to-pay-operations-overview|Source-to-Pay Operations]]
+-   [Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-operations-overview.md)
 -   [Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-overview.md)
 -   [Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-landing-page.md)
 -   [Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-mgmt-landing-page.md)
 
-## Related
-
-- [[finance-supply-chain-workflows|Finance and Supply Chain workflows]]
-- [[fsc-common-apps-landing|Finance and Supply Chain applications]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

@@ -18,7 +18,7 @@ This section provides a clear visibility to the TISC administrators on the email
 
 ## Email Notifications &amp; Logs purview
 
-TISC provides different purview to access, view, or modify both [[tisc-email-notifications|email notifications]] and logs based on different persona.
+TISC provides different purview to access, view, or modify both email notifications and logs based on different persona.
 
 **Note:**
 
@@ -60,6 +60,3 @@ As an admin, you can create, view, and edit the notifications in the classic UI.
 
 [Email Notifications]()
 
-## Related
-
-- [[tisc-email-notifications|Email Notifications]]

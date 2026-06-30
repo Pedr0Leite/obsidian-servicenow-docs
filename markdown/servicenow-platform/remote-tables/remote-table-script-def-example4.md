@@ -35,7 +35,7 @@ v\_changed\_fields is a map of changed field names and values.
 				switch (k){
 				case "u_number" :
 					gr.number = v_changed_fields.u_number;
-					[[break|break]];
+					break;
 				case "u_short_description" :
 					gr.short_description = v_changed_fields.u_short_description;
 					break;
@@ -51,6 +51,3 @@ v\_changed\_fields is a map of changed field names and values.
 
 **Parent Topic:**[Create script definitions for a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table-script.md)
 
-## Related
-
-- [[break|Break]]

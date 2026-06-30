@@ -34,7 +34,7 @@ ServiceNow Change Management integrates with the [Vulnerability response](https:
 
 </td></tr><tr><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about Change Management components such as roles and dependent [[dex-workspace-application-tab|applications]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about Change Management components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
 </td><td>
 
@@ -54,12 +54,7 @@ Work on a change request seamlessly and create the approval policies as required
 -   **[Agentic AI in change management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/now-assist-itsm-agentic-ai-in-change.md)**  
 Use the ITSM change management agentic workflows to manage and complete tasks autonomously.
 -   **[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)**  
-[[reference-for-itsm-mobile-agent|Reference]] sections provide additional information about components installed with Change Management.
+Reference sections provide additional information about components installed with Change Management.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]

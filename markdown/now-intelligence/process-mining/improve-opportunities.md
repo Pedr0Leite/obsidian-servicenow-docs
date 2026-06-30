@@ -31,7 +31,7 @@ There are two types of improvement opportunities that could be set up:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Scope your analysis** page, select the **Set improvement opportunities** tab.
 
@@ -66,6 +66,3 @@ There are two types of improvement opportunities that could be set up:
 
 **Parent Topic:**[Create a project or template using Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

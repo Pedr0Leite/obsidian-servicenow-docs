@@ -18,7 +18,7 @@ The External Communication Channel \(ECC\) Queue is a connection point between y
 
 ## Contents of the ECC Queue
 
-The ECC queue contains records that are created during all stages of [[r-discovery|discovery]]. Each record is a message from the instance to system your are targeting for discovery, classified as **output**, or a message from that system to the instance, classified as **input**.
+The ECC queue contains records that are created during all stages of discovery. Each record is a message from the instance to system your are targeting for discovery, classified as **output**, or a message from that system to the instance, classified as **input**.
 
 ECC queue records provide you with a connected flow of probe and sensor activity along with the XML payload sent to or from an instance and the assets you're targeting.
 
@@ -82,7 +82,7 @@ Save ECC queue attachments
 
 </td><td>
 
-The normal behavior for [[r_Sensors|Discovery sensors]] is to delete attachments to ECC queue entries on successful sensor processing. Enabling this property overrides this behavior, and forces attachments to be preserved. This is typically done for debugging purposes.To enable this property, navigate to **Discovery Definition** &gt; **Properties**.
+The normal behavior for Discovery sensors is to delete attachments to ECC queue entries on successful sensor processing. Enabling this property overrides this behavior, and forces attachments to be preserved. This is typically done for debugging purposes.To enable this property, navigate to **Discovery Definition** &gt; **Properties**.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
@@ -92,7 +92,3 @@ The normal behavior for [[r_Sensors|Discovery sensors]] is to delete attachments
 
 [Manage ECC Queue content for a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ecc-queue-mid-server.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_Sensors|Discovery sensors]]

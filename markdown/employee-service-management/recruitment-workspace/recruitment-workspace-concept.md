@@ -14,11 +14,11 @@ breadcrumb: [Explore, Recruitment Workspace, Hiring Experiences, HR Service Deli
 
 # Recruitment workspace
 
-Increase productivity with a flexible workspace that facilitates effective communications among the [[hiring-tab-concept|hiring]] manager, the hiring team, and the applicants.
+Increase productivity with a flexible workspace that facilitates effective communications among the hiring manager, the hiring team, and the applicants.
 
 Leverage the flexible workspace and its native communication channel among all stakeholders in the hiring process - the hiring manager, the hiring team, and the applicants.
 
-\[Omitted image "recruit-update-aug24.png"\] Alt text: Recruitment Workspace overview page displays the job requisitions listed by different states, filters, and sort options and the [[talent-pool-overview|Talent Pool]] tab.
+\[Omitted image "recruit-update-aug24.png"\] Alt text: Recruitment Workspace overview page displays the job requisitions listed by different states, filters, and sort options and the Talent Pool tab.
 
 The Recruitment workspace enables you to have:
 
@@ -31,7 +31,3 @@ For more information on the Talent Pool tab in the Recruitment workspace, see [T
 
 For more information on using different features on the Recruitment workspace, see [Get overview of recruitment workload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-oveview.md).
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[talent-pool-overview|Talent pool]]

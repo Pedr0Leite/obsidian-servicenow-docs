@@ -22,7 +22,7 @@ Role required: sn\_vulc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** &gt; **Risk Calculators**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** &gt; **Risk Calculators**.
 
 2.  Click **Default Risk Calculator**.
 
@@ -145,6 +145,3 @@ Preview the items in this table that match the defined conditions. This field ap
 
 In the Rule page, activate and reapply the rule to reevaluate the risk score on the active test result.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

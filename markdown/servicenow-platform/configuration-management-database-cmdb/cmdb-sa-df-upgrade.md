@@ -16,7 +16,7 @@ breadcrumb: [Configure, CMDB success advisor, Configuration Management Database 
 
 Make sure that existing Hardware Asset Management \(HAM\) CI classes are included as principal classes in Data Foundations during upgrade, without requiring manual configuration.
 
-Upgrading to a version of [[cmdb-sa|CMDB success advisor]] that introduces the Data Foundations principal class concept can result in CI classes being automatically marked as principal classes when existing HAM model category selections are present.
+Upgrading to a version of CMDB success advisor that introduces the Data Foundations principal class concept can result in CI classes being automatically marked as principal classes when existing HAM model category selections are present.
 
 In CMDB success advisor, each HAM model category maps to one or more CI classes.
 
@@ -48,9 +48,5 @@ The following table shows how principal classes from HAM model categories are ap
 
 **Note:**
 
-Automatic principal class marking happens only once during upgrade. Later changes to HAM model categories do not update the principal classes list automatically. Similarly, principal class changes made without using CMDB success advisor, for example through [[ci-class-manager-landing-page|CI Class Manager]], are not reflected in the Data Foundations advisor scope automatically.
+Automatic principal class marking happens only once during upgrade. Later changes to HAM model categories do not update the principal classes list automatically. Similarly, principal class changes made without using CMDB success advisor, for example through CI Class Manager, are not reflected in the Data Foundations advisor scope automatically.
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

@@ -31,7 +31,7 @@ Use the Engagement Messenger API and your website URL to create a CORS rule.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **REST** &gt; **CORS [[gamification-components-rules|Rules]]**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **REST** &gt; **CORS Rules**.
 
 2.  Select **New**.
 
@@ -115,6 +115,3 @@ Comma-separated list of HTTP headers to send in the response. You can leave this
 
 [Create HTTP response headers for Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-http-response-headers-for-ec.md).
 
-## Related
-
-- [[gamification-components-rules|Rules]]

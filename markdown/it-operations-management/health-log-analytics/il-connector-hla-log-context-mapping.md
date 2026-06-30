@@ -15,7 +15,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Mapping logs for contextual alerts in Health Log Analytics
 
-Map your logs to service instances, components, and source types so that [[hla-landing-page|Health Log Analytics]] \(HLA\) can generate alerts in context. Contextualizing your log data is especially important when the integration processes logs from multiple service instances and components.
+Map your logs to service instances, components, and source types so that Health Log Analytics \(HLA\) can generate alerts in context. Contextualizing your log data is especially important when the integration processes logs from multiple service instances and components.
 
 The AI agent suggests the optimal log field for mapping to service instances and components. When you use the AI-suggested field, or when that field is the default, an AI sparkle icon \(\[Omitted image "icon-ai-sparkle.png"\] Alt text:\) appears. You can select a different field if needed. If the AI agent cannot find an optimal match, HLA uses the system default. The system default also applies if the selected field is not present in the sample log.
 
@@ -25,6 +25,3 @@ A large financial institution might face performance issues with its e-banking a
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

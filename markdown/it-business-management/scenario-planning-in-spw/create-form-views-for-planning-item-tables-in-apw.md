@@ -19,7 +19,7 @@ For every new planning item table that you create, you must create the necessary
 ## Before you begin
 
 -   [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md).
--   Ensure that the application scope in your instance is set to [[portfolio-planning-app-landing-page|Portfolio Planning]].
+-   Ensure that the application scope in your instance is set to Portfolio Planning.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Role required: admin
 The following are the necessary form views:
 
 -   APW Preview: Supports the view that is used to display the planning item details on the roadmap side panel.
--   APW Default: Supports the default view of the [[planning-item-form|planning item form]] in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+-   APW Default: Supports the default view of the planning item form in Strategic Planning.
 -   APW New: Supports the form view that is used while creating a planning item of this type from the roadmap.
 
 ## Procedure
@@ -70,8 +70,3 @@ The following are the necessary form views:
 
 [Create list views for new planning item tables in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-list-views-for-new-planning-item-tables-in-strategic-planning.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[planning-item-form|Planning item form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

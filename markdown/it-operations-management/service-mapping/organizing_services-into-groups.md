@@ -14,7 +14,7 @@ breadcrumb: [Application service completion, Application service mapping using c
 
 # Group application services
 
-Organize application services by groups to perform actions simultaneously on multiple services, and to control user access to services. You can use [[c_EM|Event Management]] to track service health by service groups.
+Organize application services by groups to perform actions simultaneously on multiple services, and to control user access to services. You can use Event Management to track service health by service groups.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ How you group service instances depends on the user and on service provisioning 
 
 \[Omitted image "BusinessService3Groups.png"\] Alt text: A service instance belonging to different groups
 
-You can embed a service group within another service group to create a hierarchy of service groups. If users have access to a parent service group, they automatically have access to all its child groups. By default, all new services are assigned to the **All** service group that lets all users view and manage service instances. When you [[t_EMAssignRoleSvcGroup|assign a role to a service group]], the users with this role can access service instances in this service group and in the **All** service group. To enable users with this role to access other services, assign this role to the respective service group. Do not assign user roles directly to the **All** service group.
+You can embed a service group within another service group to create a hierarchy of service groups. If users have access to a parent service group, they automatically have access to all its child groups. By default, all new services are assigned to the **All** service group that lets all users view and manage service instances. When you assign a role to a service group, the users with this role can access service instances in this service group and in the **All** service group. To enable users with this role to access other services, assign this role to the respective service group. Do not assign user roles directly to the **All** service group.
 
-If [[c_ServiceMappingOverview|Service Mapping]] is activated, service groups can contain a mixture of manually created application services and application services discovered by Service Mapping.
+If Service Mapping is activated, service groups can contain a mixture of manually created application services and application services discovered by Service Mapping.
 
 You can use ServiceNow AI Platform Notifications to alert users if the service group severity changes to critical. The overall severity of the group is determined by the highest alert severity within the group.
 
@@ -52,7 +52,7 @@ You can use ServiceNow AI Platform Notifications to alert users if the service g
 
     2.  In the **Name** field, enter the name of the service instance.
 
-        If you are [[user-guide|using Event Management]], you can also enter an alert group name.
+        If you are using Event Management, you can also enter an alert group name.
 
     3.  Click **Submit**.
 
@@ -80,14 +80,7 @@ You can use ServiceNow AI Platform Notifications to alert users if the service g
 
 [Control user access to application services]()
 
-[Schedule a top-down [[r-discovery|discovery]] by Service Mapping]()
+[Schedule a top-down discovery by Service Mapping]()
 
 [Service definition transfer from one instance to another]()
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[t_EMAssignRoleSvcGroup|Assign a role to a service group]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[user-guide|Using Event Management]]
-- [[r-discovery|Discovery]]

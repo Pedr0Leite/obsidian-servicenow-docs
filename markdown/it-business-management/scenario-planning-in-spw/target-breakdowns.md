@@ -14,7 +14,7 @@ breadcrumb: [Manage portfolio plan goals, Portfolio Planning in Strategic Planni
 
 # Target breakdowns in Strategic Planning
 
-Breaking down a target into smaller periods \(for example, Monthly\) helps you set a target value for each month and focus on that specific monthly target. The [[target-breakdowns-gf|target breakdowns]] are automatically created based on the Check-in frequency and Target value distribution set for the target.
+Breaking down a target into smaller periods \(for example, Monthly\) helps you set a target value for each month and focus on that specific monthly target. The target breakdowns are automatically created based on the Check-in frequency and Target value distribution set for the target.
 
 The check-in frequency for a target can be set to Daily, Weekly, Monthly, Quarterly, or Yearly. Based on the Check-in frequency of the target, the corresponding target breakdowns are created. For example, if the Check-in frequency is set to Monthly for a target spanning for a year, 12 monthly target breakdowns are created. Planned target values are automatically set for each target breakdown based on the Target value distribution setting of the target.
 
@@ -88,6 +88,3 @@ When the check-in frequency is set to None for a target, the actual value must b
 
 If you’ve enabled the target automation feature for a target and set the check-in frequency and Target value distribution, the target automation feature automatically updates the actual value in the respective target breakdown based on the check-in due date. After the actual value of a target breakdown is updated, the value is rolled up to rolls up to the actual value of the main target. Then, the progress of the target and its goal are auto-updated.
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]

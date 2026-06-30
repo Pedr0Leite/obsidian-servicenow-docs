@@ -14,7 +14,7 @@ breadcrumb: [Indexing and searching external content, Configuring AI Search, AI 
 
 # Components installed with External Content for AI Search
 
-When you activate the External Content for [[ia-ai-search|AI Search]] plugin \(com.glide.ais.external\_content\), the system creates a new virtual table.
+When you activate the External Content for AI Search plugin \(com.glide.ais.external\_content\), the system creates a new virtual table.
 
 ## Tables installed
 
@@ -45,6 +45,3 @@ Stores links between user mapping tables and indexed sources.
 </td></tr></tbody>
 </table>**Parent Topic:**[Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Display a filtered list on your portal using the data table from instance definition widget. From the widget's context menu, portal users can export the filtered list. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-After you add the data table from instance definition widget to a page, use the instance options to [[configure-onboarding-modals|configure]] the appearance of the table.
+After you add the data table from instance definition widget to a page, use the instance options to configure the appearance of the table.
 
 \[Omitted image "DataTableInstanceDefinition.png"\] Alt text: Data table from instance definition widget with instance option set to table=incident
 
@@ -27,7 +27,7 @@ After you add the data table from instance definition widget to a page, use the 
 |Field|Description|
 |-----|-----------|
 |Table|The table that the widget displays records from.|
-|Filter|Text field from the [[c_ConditionBuilder|condition builder]] that you can use to limit the items returned in the table. To create a filter, use the context menu to open the widget instance in the platform. Then use the condition builder to create a filter.|
+|Filter|Text field from the condition builder that you can use to limit the items returned in the table. To create a filter, use the context menu to open the widget instance in the platform. Then use the condition builder to create a filter.|
 |Fields|Columns to display in the table.|
 |Maximum entries|Limits the number of items displayed in the table. If there are more entries than allowed in the table, users can scroll to the next page.|
 |Order by|The table field used to order items.|
@@ -43,14 +43,9 @@ After you add the data table from instance definition widget to a page, use the 
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[c_ServicePortal|Service Portal]]

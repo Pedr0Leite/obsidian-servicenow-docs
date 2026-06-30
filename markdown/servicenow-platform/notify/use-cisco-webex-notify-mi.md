@@ -16,7 +16,7 @@ breadcrumb: [Using Notify, Notify, Manage service capabilities, Extend ServiceNo
 
 Initiate a conference call from the major incident workbench by inviting one or more users to join a call.
 
-[[notify-landing-page|Notify]] administrators, major incident managers, or communications managers can manage conference calls.
+Notify administrators, major incident managers, or communications managers can manage conference calls.
 
 -   **[Create a collaborative communication task from MIM workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/create-collab-comm-cisco-webex-notify.md)**  
 Create a communication plan or add a new communication task to an existing communication plan to resolve a major incident from the major incident management workbench.
@@ -29,6 +29,3 @@ You can join an active conference call from an incident to discuss about the res
 
 **Parent Topic:**[Using Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/using-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create an achievement definition
 
-Create definitions for [[achievements-lxp|achievements]] to define the end goal.
+Create definitions for achievements to define the end goal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lep.achievement\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exploring-learning-exp|Learning]]** &gt; **Achievements** &gt; **Achievement Definitions**.
+1.  Navigate to **All** &gt; **Learning** &gt; **Achievements** &gt; **Achievement Definitions**.
 
 2.  Select **New**.
 
@@ -34,7 +34,7 @@ Role required: sn\_lep.achievement\_manager
 -   **[Define user access for achievements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/user-access-achievements.md)**  
 Define user access to the collection to configure who has can and can’t read access to the achievements.
 -   **[Add associated skills to an achievement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/associate-skills-achievements.md)**  
-[[add-associated-skills|Add associated skills]] to define the scope of an achievement.
+Add associated skills to define the scope of an achievement.
 
 **Parent Topic:**[Manage Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 
@@ -57,8 +57,3 @@ Define user access to the collection to configure who has can and can’t read a
 
 [Create an achievement rule item]()
 
-## Related
-
-- [[achievements-lxp|Achievements]]
-- [[exploring-learning-exp|Learning]]
-- [[add-associated-skills|Add associated skills]]

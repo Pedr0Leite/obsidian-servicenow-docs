@@ -14,24 +14,24 @@ breadcrumb: [Health and Safety Risk Management, Health and Safety, Employee Serv
 
 # Health and Safety Risk Management reference
 
-Using the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the [[hs-risk-management-landing-page|Health and Safety Risk Management]] application. Reference topics also provide additional information about the lists and forms that you use to configure and use Health and Safety Risk Management.
+Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Health and Safety Risk Management application. Reference topics also provide additional information about the lists and forms that you use to configure and use Health and Safety Risk Management.
 
 -   **[Components installed with Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/components-installed-with-hs-risk-mgmt.md)**  
 Several types of components are installed with installation of the Health and Safety Risk Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
 -   **[Submit JSA form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-jsa-form.md)**  
-Employees can use the [[hs-submit-jsa-form|Submit JSA form]] to analyze their job safety at their point of work and create a JSA.
+Employees can use the Submit JSA form to analyze their job safety at their point of work and create a JSA.
 -   **[Risk matrix form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-matrix-form.md)**  
-Safety team can use the risk matrixes to create and conduct risk assessments in the [[health-safety-core-workspace|Health and Safety Workspace]].
+Safety team can use the risk matrixes to create and conduct risk assessments in the Health and Safety Workspace.
 -   **[Risk assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-assessment-form.md)**  
-Risk assessment managers can use the [[hs-risk-assessment-form|risk assessment form]] to conduct their risk assessments.
+Risk assessment managers can use the risk assessment form to conduct their risk assessments.
 -   **[Hazard assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-hazard-assessment-form.md)**  
-Risk assessment managers can use the [[hs-hazard-assessment-form|hazard assessment form]] to review a hazard and choose their control measures and assess their risk levels.
+Risk assessment managers can use the hazard assessment form to review a hazard and choose their control measures and assess their risk levels.
 -   **[Inspection schedule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-inspection-schedule-form.md)**  
-Safety inspection manager can use the [[hs-inspection-schedule-form|inspection schedule form]] to set up a recurring workplace safety inspection.
+Safety inspection manager can use the inspection schedule form to set up a recurring workplace safety inspection.
 -   **[Audit schedule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-audit-schedule-form.md)**  
-The safety audit manager can use the [[hs-audit-schedule-form|audit schedule form]] to set up a recurring workplace safety audit.
+The safety audit manager can use the audit schedule form to set up a recurring workplace safety audit.
 -   **[Audit questionnaire form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-audit-survey-form.md)**  
-The safety audit manager can use the [[hs-audit-survey-form|audit questionnaire form]] to assign a smart assessment or survey to be conducted as part of a safety audit.
+The safety audit manager can use the audit questionnaire form to assign a smart assessment or survey to be conducted as part of a safety audit.
 -   **[Objective form for safety audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-audit-objectives-form.md)**  
 The safety audit manager can use the audit objectives form to define the objectives and scope of a safety audit.
 -   **[Finding form for safety audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-audit-finding-form.md)**  
@@ -51,14 +51,3 @@ Domain separation is supported for Health and Safety Risk Management. Domain sep
 
 **Parent Topic:**[Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-management-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[hs-submit-jsa-form|Submit JSA form]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-risk-assessment-form|Risk assessment form]]
-- [[hs-hazard-assessment-form|Hazard assessment form]]
-- [[hs-inspection-schedule-form|Inspection schedule form]]
-- [[hs-audit-schedule-form|Audit schedule form]]
-- [[hs-audit-survey-form|Audit questionnaire form]]

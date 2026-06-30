@@ -32,7 +32,7 @@ Next, the agent then contacts the customer to collect the required details and c
 
 Only the information necessary for fulfillment is displayed in the configurator UI and stored in the order record.
 
-The fulfillment agent reviews and closes each task after capturing the required additional details for [[order-mgt-order-decomposition|order decomposition]] and fulfillment. When the order enrichment is completed, the state of the order line items and the parent order changes to New.
+The fulfillment agent reviews and closes each task after capturing the required additional details for order decomposition and fulfillment. When the order enrichment is completed, the state of the order line items and the parent order changes to New.
 
 The fulfillment agent or manager can now approve or reject the order.
 
@@ -45,18 +45,12 @@ The fulfillment agent or manager can now approve or reject the order.
 
 ## Configuration requirements
 
-Order enrichment tasks are only created if the enrichment process is explicitly configured in the Order Enrichment Flow Policy in the decision tables for a product or service offering. This process ensures that enrichment is applied selectively and only when necessary. For more information, see [[configure-order-enrichment|Configure order enrichment flows using Decision Tables]].
+Order enrichment tasks are only created if the enrichment process is explicitly configured in the Order Enrichment Flow Policy in the decision tables for a product or service offering. This process ensures that enrichment is applied selectively and only when necessary. For more information, see [Configure order enrichment flows using Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-enrichment.md).
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[configure-order-enrichment|Configure order enrichment flows using Decision Tables]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-order-decomposition|Order decomposition]]

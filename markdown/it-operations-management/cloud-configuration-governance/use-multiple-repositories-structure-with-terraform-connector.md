@@ -32,7 +32,7 @@ Perform the [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow
 
     Example: Repo1::Branch1, Repo2::Branch2.
 
-    Leave the field bank if you want to [[r-discovery|discovery]] all the repositories and branches in that VCS.
+    Leave the field bank if you want to discovery all the repositories and branches in that VCS.
 
 4.  Select **Do you wish to specify sub-folder paths for Discovery** if you want to discover Terraform configurations from specific folder paths of the repository.
 
@@ -42,6 +42,3 @@ Perform the [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow
     -   All Terraform configurations you want to discover from a specific folder path needs to be in subfolders just one level below in folder hierarchy. Example:**/gcp/vm** folder path has one Terraform configuration for virtual machine,
     -   Specify **/gcp** in folder path list to discover vm Terraform configuration.
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Model categories, Product Catalog, IT Asset Management]
 
 # Create model categories
 
-You can add custom [[model-hierarchy|model categories]] for your instance.
+You can add custom model categories for your instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## About this task
 
-When you [[create-custom-model-category|create model categories]], keep the following in mind:
+When you create model categories, keep the following in mind:
 
 -   The base system provides a model category for each CI class in the CMDB. As you create cmdb\_ci classes, create a corresponding row in the model category table for the model table to be used.
 -   If you select an **Asset class** on any existing model category, the system automatically creates assets for all configuration items associated with the model category, if configured to do so. If an asset is not created automatically, you can create the asset manually. After an asset class is selected for a model category, the asset class cannot be changed.
@@ -30,7 +30,7 @@ When you [[create-custom-model-category|create model categories]], keep the foll
 -   If you select **Consumable** or **Software License** for the asset class, the **Allow in bundle** option is available, but not **Allow pre-allocation** or **Allow as main**.
 -   When a CI is created from a model category that requires asset tracking, the system automatically creates an asset record for the asset class specified in the model category. It then links that asset record to the CI. If a model is specified, the model category of the CI is determined by a combination of the CI class and the list of categories supported by the model. Asset tracking is specified on the model record.
 -   When an asset is created from a model category that requires CI tracking, the system automatically creates a CI record of the class specified by the category and links it to the asset.
--   The Model Categories list \(**[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Model Categories**\) shows all the CI classes and what asset class is generated on the asset side.
+-   The Model Categories list \(**Product Catalog** &gt; **Product Model** &gt; **Model Categories**\) shows all the CI classes and what asset class is generated on the asset side.
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Product model class
 
 </td><td>
 
-Class table where the [[c_Models|models]] are stored. The default values are:-   Application
+Class table where the models are stored. The default values are:-   Application
 -   Consumable
 -   Contract
 -   Facility
@@ -156,9 +156,3 @@ Prevents the system from automatically creating assets in a specific model categ
 
 [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md)
 
-## Related
-
-- [[model-hierarchy|Model categories]]
-- [[create-custom-model-category|Create model categories]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

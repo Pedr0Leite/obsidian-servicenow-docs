@@ -24,7 +24,7 @@ CPQ passes the unique identifier of a product in CPQ back to the Unique Line ID 
 
 Have the Logik Extension for CPQ package version 2.2 or later installed on the org.
 
-Add the Unique Line ID field to the quote line page layout through Setup&gt;Object Manager&gt;Quote Line&gt;Page [[layouts|Layouts]].
+Add the Unique Line ID field to the quote line page layout through Setup&gt;Object Manager&gt;Quote Line&gt;Page Layouts.
 
 Assign a unique identifier to a product in CPQ using a simple or advanced product action.
 
@@ -40,7 +40,7 @@ ProductList.uniqueIdentifier = cfg.<yourSetFieldForProduct> + set.<yourSetVariab
 return ProductList;
 ```
 
-[[use-cases|Use cases]] include ramping deals, such as subscription-based pricing that applies discounts based on the length of the contract. Although the same product, discounts are applied in year 2 or 3 with a unique ID for the same product name. Another use case would be multiple copies of the same product on quote, with different product extended data.
+Use cases include ramping deals, such as subscription-based pricing that applies discounts based on the length of the contract. Although the same product, discounts are applied in year 2 or 3 with a unique ID for the same product name. Another use case would be multiple copies of the same product on quote, with different product extended data.
 
 ## Use case: Adding extended data to identical product code products in SFDC using flows
 
@@ -56,7 +56,3 @@ If you are using the unique ID attribute, you can add another condition to the "
 
 This correctly writes the BOM data to each unique child line with the correct extended information.
 
-## Related
-
-- [[layouts|Layouts]]
-- [[use-cases|Use cases]]

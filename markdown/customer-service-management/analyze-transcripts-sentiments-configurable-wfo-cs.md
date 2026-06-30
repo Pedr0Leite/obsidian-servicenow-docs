@@ -22,7 +22,7 @@ Role required: sn\_cti\_core.user\_manager
 
 When an agent interacts with an external caller, the call gets recorded and transcribed. The application tags every statement within a transcript with a sentiment score. After a call has been completed, a sentiment report is automatically generated.
 
-**Note:** The manager must have an active session with Amazon Connect to view the transcripts and sentiments. The transcripts and sentiments are generated in the Amazon Connect application. They are then displayed in the Channels application in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+**Note:** The manager must have an active session with Amazon Connect to view the transcripts and sentiments. The transcripts and sentiments are generated in the Amazon Connect application. They are then displayed in the Channels application in Workforce Optimization for Customer Service.
 
 ## Procedure
 
@@ -79,7 +79,7 @@ Do this
 
 </td></tr><tr><td id="d132941e196">
 
-**From [[migration-lists|Lists]]**
+**From Lists**
 
 </td><td>
 
@@ -90,19 +90,12 @@ Do this
 </td></tr></tbody>
 </table>3.  Click **Call Analysis**.
 
-    The Amazon Connect application generates the interactions and [[case-sentiment-analysis|sentiment analysis]] of those interactions and displays them as a report in Workforce Optimization for Customer Service.
+    The Amazon Connect application generates the interactions and sentiment analysis of those interactions and displays them as a report in Workforce Optimization for Customer Service.
 
-    In the [[csm-workspaces-configure|CSM Configurable Workspace]], agents use the **Call Analysis** tab to review calls, transcripts, and sentiment analysis. The recording playback widget is available if the agent's Amazon Connect security profile is configured to enable access to call recordings.
+    In the CSM Configurable Workspace, agents use the **Call Analysis** tab to review calls, transcripts, and sentiment analysis. The recording playback widget is available if the agent's Amazon Connect security profile is configured to enable access to call recordings.
 
 4.  [Analyze transcripts and sentiments for the Amazon Connect phone channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analyze-transcripts-sentiments-configurable-wfo-cs.md) and assign training to coach the agents.
 
 
-**Parent Topic:**[[configurable-servicenow-voice-cs|Using Voice with Workforce Optimization for Customer Service]]
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-servicenow-voice-cs.md)
 
-## Related
-
-- [[configurable-servicenow-voice-cs|Using Voice with Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

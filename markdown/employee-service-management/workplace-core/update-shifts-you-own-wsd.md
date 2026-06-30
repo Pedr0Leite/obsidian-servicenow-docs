@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace shifts that you own, Manage workplace safety act
 
 # Update details of the shifts that you own
 
-Review and modify the details of the workplace shifts that you own in [[workplace-safety-mgmt-hr|Workplace Core]]. You can modify the general shift details, and add or remove employees or workplaces associated with the shift.
+Review and modify the details of the workplace shifts that you own in Workplace Core. You can modify the general shift details, and add or remove employees or workplaces associated with the shift.
 
 ## Before you begin
 
@@ -143,6 +143,3 @@ Area that is active for operation and use during this shift.
 
 **Parent Topic:**[Managing workplace shifts that you own](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-shifts-you-own-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

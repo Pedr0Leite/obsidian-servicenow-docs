@@ -30,7 +30,7 @@ The **Asset performance - Map schedule policies** job runs weekly to sync the ma
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations** &gt; **KPI configuration**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations** &gt; **KPI configuration**.
 
 2.  From the KPI configuration list, select **Asset schedules**.
 
@@ -110,6 +110,4 @@ Indicates whether the asset schedule is active.
 
 6.  To sync the mapping between the assets and the operational schedules on demand, select **Sync KPI records**.
 
-## Related
 
-- [[using-ham-workspace|Hardware Asset Workspace]]

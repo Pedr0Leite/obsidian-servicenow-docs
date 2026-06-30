@@ -18,10 +18,10 @@ breadcrumb: [Impact operating model, Exploring Impact, Impact]
 
 |Package|What you get|
 |-------|------------|
-|Guided|The [[impact-landing-page|Impact]] App, 24/7 support, access to [[accelerator-catalog|Accelerator Catalog]], and guidance from a Customer Success Manager|
+|Guided|The Impact App, 24/7 support, access to Accelerator Catalog, and guidance from a Customer Success Manager|
 |Total|Everything in Impact Guided, enhanced response times for Priority 1 and Priority 2 tickets, Developer Support, expanded access to the Accelerator Catalog, and a dedicated Impact Squad|
 
-Both the Impact core packages include the full Impact App, with [[platform-health-idi|Platform Health]], Instance Observer, [[impact-in-platform-business-outcomes|Value Management]], and [[product-adoption|Product Adoption]] features, and access to Accelerators.
+Both the Impact core packages include the full Impact App, with Platform Health, Instance Observer, Value Management, and Product Adoption features, and access to Accelerators.
 
 ## Integrated Success
 
@@ -29,11 +29,11 @@ Some customers may have an Integrated Success package which includes all the Im
 
 ## Entitlements
 
-The entitlements for [[impact-squad|Impact Squad]], Impact features, accelerator catalog concurrency, Support and the add-on packages vary between the Impact packages.
+The entitlements for Impact Squad, Impact features, accelerator catalog concurrency, Support and the add-on packages vary between the Impact packages.
 
 ## Impact Squad
 
-Impact Squad is a team of dedicated professionals who [[io-help|help]] you manage your Impact platform.
+Impact Squad is a team of dedicated professionals who help you manage your Impact platform.
 
 <table id="table_squad_diff"><thead><tr><th>
 
@@ -175,11 +175,11 @@ Managed Support
 
 </td></tr><tr><td>
 
-[[preventive-care|Preventive Care]]
+Preventive Care
 
 </td><td>
 
-bi-annual [[instance-observer-performance|performance]] assessments from an account escalation engineer, who reviews your instance performance data, makes improvement recommendations, and implements them for you.
+bi-annual performance assessments from an account escalation engineer, who reviews your instance performance data, makes improvement recommendations, and implements them for you.
 
 </td></tr><tr><td>
 
@@ -207,7 +207,7 @@ Instance Observer Features
 
 -   6 month data look back
 -   40 alert types
--   Instance Observer [[io-analytics|Analytics]]
+-   Instance Observer Analytics
 
 </td></tr><tr><td>
 
@@ -280,15 +280,3 @@ Instance Observer Seats
 </td></tr></tbody>
 </table>Offered pursuant to the applicable ServiceNow Impact Package and Accelerator descriptions available at [https://www.servicenow.com/legal/servicenow-impact.html](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[accelerator-catalog|Accelerator catalog]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[product-adoption|Product Adoption]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]
-- [[preventive-care|Preventive Care]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

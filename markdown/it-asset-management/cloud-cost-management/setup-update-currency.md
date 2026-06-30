@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Set up or update preferred currency options
 
-Set up or update the preferred currency options for your cloud cost and usage data to gain reporting flexibility. These currency options become available for [[cloud-insights-landing-page|Cloud Cost Management]] users to choose from.
+Set up or update the preferred currency options for your cloud cost and usage data to gain reporting flexibility. These currency options become available for Cloud Cost Management users to choose from.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Setting up currency options enables Cloud Cost Management users to choose from t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Multi-currency setup**.
+1.  Navigate to **Workspaces** &gt; **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Multi-currency setup**.
 
 2.  Select a currency code from the **Currency Option 1** drop-down list
 
@@ -49,12 +49,7 @@ Setting up currency options enables Cloud Cost Management users to choose from t
 
 ## Result
 
-After the **Status** field changes to Ready, the selected currencies become available for selection in the **Currency preference** list on the [[operation-view-ccm-ws|Operations view]].
+After the **Status** field changes to Ready, the selected currencies become available for selection in the **Currency preference** list on the Operations view.
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[operation-view-ccm-ws|Operations view]]

@@ -19,7 +19,7 @@ Set Microsoft Teams as your virtual meeting provider.
 ## Before you begin
 
 -   Ensure the following:
-    -   Update the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application only after installing the Microsoft Teams spoke. Otherwise, you must repair the Workplace Reservation Management application.
+    -   Update the Workplace Reservation Management application only after installing the Microsoft Teams spoke. Otherwise, you must repair the Workplace Reservation Management application.
     -   Microsoft Teams works only with a Microsoft account \(Exchange Online, Exchange OnPrem\). If you have both Google and a Microsoft Teams account, the virtual meeting provider cannot be added. If you want to create a Microsoft Teams account, you must create a Microsoft account. The Microsoft Teams account is mapped to the Microsoft account and not to the Google account.
     -   For Microsoft Teams, to create a meeting link on behalf of other users, refer to [Microsoft documentation](https://learn.microsoft.com/en-us/graph/cloud-communication-online-meeting-application-access-policy/).
 
@@ -101,6 +101,3 @@ Microsoft Teams is set as the virtual meeting provider.
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating or editing catalog item template, Catalog Builder, Service
 
 # Create a catalog item using a template
 
-Make an item available in [[service-catalog|service catalog]] for catalog item requests.
+Make an item available in service catalog for catalog item requests.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You must create a catalog item using one of the available catalog item templates
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Catalog** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Dashboard** tab and click **Create a new catalog item**.
 
@@ -72,7 +72,7 @@ Destination
 
 </td><td>
 
-Destination table in which a [[c_RecordProducer|record producer]] creates records. **Note:** This step is available when using a record producer template.
+Destination table in which a record producer creates records. **Note:** This step is available when using a record producer template.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Catalogs, categories, and topics that the item can belong to.
 
  You can only view the catalogs, categories, and topics specified in the template.
 
- [[configure-catalog|Configure catalogs]] and categories to make the catalog item discoverable on the Service Portal.
+ Configure catalogs and categories to make the catalog item discoverable on the Service Portal.
 
  In the Topics card, select taxonomy and its associated topics for a catalog item to make the catalog item discoverable on the Employee Center.
 
@@ -96,7 +96,7 @@ Questions
 
 Question sets \(variable sets\) or questions for the item. By default, the question sets included in the template are added and cannot be removed. Available question types are restricted to those specified in the template.
 
- From the **Insert new question** list, you can include additional question sets, questions, deactivated questions, single-column container, two-column container, and line [[break|break]]. For information on creating a question and supported question types, see [Create a question for a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-question-cat-builder.md).
+ From the **Insert new question** list, you can include additional question sets, questions, deactivated questions, single-column container, two-column container, and line break. For information on creating a question and supported question types, see [Create a question for a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-question-cat-builder.md).
 
  You can also add dynamic form behavior for a question. For information on adding dynamic form behavior, see [Edit a question in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-question-cat-builder.md).
 
@@ -222,10 +222,3 @@ From the catalog builder, a user can preview a catalog item in a Virtual Agent c
 
 [Edit a question in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-question-cat-builder.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]
-- [[c_RecordProducer|Record Producer]]
-- [[configure-catalog|Configure catalogs]]
-- [[break|Break]]

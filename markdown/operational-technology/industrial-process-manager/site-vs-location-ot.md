@@ -14,7 +14,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 # Site vs location
 
-The site and location attributes have different uses for [[operational-technology-overview|Operational Technology]] \(OT\).
+The site and location attributes have different uses for Operational Technology \(OT\).
 
 ## Site
 
@@ -28,6 +28,3 @@ Location refers to the value stored in the **Locations** \(cmn\_location\) table
 
 **Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -15,7 +15,7 @@ breadcrumb: [Finance and Supply Chain]
 
 # Accounts Payable Operations
 
-The ServiceNow® Accounts Payable Operations provides a centralized platform to manage [[invoices|invoices]], exceptions, approvals, and [[supplier|supplier]] inquiries in one place, improving visibility and control across accounts payable processes.
+The ServiceNow® Accounts Payable Operations provides a centralized platform to manage invoices, exceptions, approvals, and supplier inquiries in one place, improving visibility and control across accounts payable processes.
 
 This video provides a visual overview of Accounts Payable Operations and its key capabilities.
 
@@ -25,7 +25,7 @@ This video provides a visual overview of Accounts Payable Operations and its key
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about how accounts payable specialists, employees, and suppliers [[use-acc-pay-mgmt|use Accounts Payable Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about how accounts payable specialists, employees, and suppliers use Accounts Payable Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ This video provides a visual overview of Accounts Payable Operations and its key
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "bus-supervised-machine-learning.svg"\] Alt text: Work on invoices, view invoice statuses, identify and resolve [[work-with-invoice-exceptions|invoice exceptions]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md)
+[Use \[Omitted image "bus-supervised-machine-learning.svg"\] Alt text: Work on invoices, view invoice statuses, identify and resolve invoice exceptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md)
 
 </td><td>
 
@@ -72,9 +72,4 @@ Here are some additional ServiceNow resources that can help you:
 
     Connect with other Accounts Payable Operations users at [ServiceNow Community](https://www.servicenow.com/community/source-to-pay-operations/ct-p/source-2-pay-operations).
 
-## Related
 
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[use-acc-pay-mgmt|Use Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

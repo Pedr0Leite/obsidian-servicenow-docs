@@ -16,12 +16,12 @@ breadcrumb: [Platform Analytics Solution for Software Asset Management classic, 
 
 View normalization trend charts on the Normalization and Content Service dashboard integrated with Performance Analytics.
 
-**Note:** The Normalization and Content Service dashboard is no longer available for new Australia users who have activated the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
+**Note:** The Normalization and Content Service dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
--   If you activated the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
+-   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
 
-The Normalization and Content Service dashboard tab is accessed by navigating to **Software Asset** &gt; **Overview** and selecting **Normalization and Content Service** from the dashboard list. You can also access it from the dashboard list of another [[c_SAMDashboard|Software Asset Management dashboard]]. Select an element within a report to see more information, or add and move widgets as needed.
+The Normalization and Content Service dashboard tab is accessed by navigating to **Software Asset** &gt; **Overview** and selecting **Normalization and Content Service** from the dashboard list. You can also access it from the dashboard list of another Software Asset Management dashboard. Select an element within a report to see more information, or add and move widgets as needed.
 
 Normalization chart results are updated daily when the **SAM — Discovery Model Normalization** job is run. You can save charts in PNG or JPG formats.
 
@@ -44,8 +44,3 @@ The Central Data Service Download Status related list is updated daily when the 
 
 **Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-asset-mgmt-content-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SAMDashboard|Software Asset Management dashboard]]

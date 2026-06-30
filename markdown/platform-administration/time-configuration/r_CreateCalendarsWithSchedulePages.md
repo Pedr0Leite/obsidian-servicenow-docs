@@ -19,14 +19,14 @@ Specific applications within the ServiceNow AI Platform generate graphical calen
 These schedule pages appear in daily, weekly, or monthly views. Currently, the applications using schedule pages include:
 
 -   Project Management
--   Maintenance [[c_UseSchedules|Schedules]]
+-   Maintenance Schedules
 -   Group On-Call Rotation
 -   Field Service Management
 
 Schedule pages are records that contain the scripts that determine the functionality of the graphical display.
 
 -   Because of the heavy degree of scripting involved in a schedule page, you should, for most instances, use the default schedule pages in the base platform.
--   The schedule page uses a URL with a series of [[r_DirectJDBCProbeParameters|parameters]] attached to generate the graphical display.
+-   The schedule page uses a URL with a series of parameters attached to generate the graphical display.
 -   A schedule page controls calendar content \(`cmn_schedule_page`\) record.
 
 To access Schedule Pages, navigate to **System Scheduler &gt; Schedules &gt; Schedule Pages**. The Schedule Pages form provides the following fields:
@@ -152,7 +152,7 @@ The Server AJAX processor is specific to calendar type schedule pages that is us
 </table>-   **[Invoke the Schedule page and view a calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_GenCalViewsFromSchedPages.md)**  
 You can use the URL from arguments module, a field decoration \(dictionary attribute `ref_contributions`\), or a UI Action linking to `show_schedule.do` to invoke the Schedule page.
 -   **[Schedule calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/schedule-calendar.md)**  
-Use the [[schedule-calendar|Schedule calendar]] to create, view, and edit events.
+Use the Schedule calendar to create, view, and edit events.
 
 **Parent Topic:**[Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
@@ -175,8 +175,3 @@ Use the [[schedule-calendar|Schedule calendar]] to create, view, and edit events
 
 [Domain support and schedules]()
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[schedule-calendar|Schedule calendar]]

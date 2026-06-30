@@ -12,41 +12,28 @@ breadcrumb: [Activate Facilities Move Management, Facilities Service Management 
 
 # Installed with Facilities Move Management
 
-Several types of components are installed with the [[c_FacMoveMgmt|Facilities Move Management]] plugin.
+Several types of components are installed with the Facilities Move Management plugin.
 
 Demo data is available with Facilities Move Management.
 
--   **[[r_TblsInstallWFacMoveMgmt|Tables installed with Facilities Move Management]]**  
+-   **[Tables installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_TblsInstallWFacMoveMgmt.md)**  
 Facilities Move Management adds the following tables.
--   **[[r_PropsInstallWFacMoveMgmt|Properties installed with Facilities Move Management]]**  
+-   **[Properties installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_PropsInstallWFacMoveMgmt.md)**  
 Properties control the behavior of the Facilities Move Management application.
--   **[[r_RolesInstallWFacMoveMgmt|Roles installed with Facilities Move Management]]**  
+-   **[Roles installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_RolesInstallWFacMoveMgmt.md)**  
 Roles control access to features and capabilities in Facilities Move Management.
--   **[[r_EmailTemplInstallWFacMoveMgmt|Email templates installed with Facilities Move Management]]**  
+-   **[Email templates installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EmailTemplInstallWFacMoveMgmt.md)**  
 Email templates allow you to create reusable content for the subject line and message body of email notifications.
--   **[[r_ScrptIncludeInstallWFacMoveMgmt|Script includes installed with Facilities Move Management]]**  
+-   **[Script includes installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ScrptIncludeInstallWFacMoveMgmt.md)**  
 Script includes are used to store JavaScript that runs on the server.
--   **[[r_CScriptsInstallWFacMoveMgmt|Client scripts installed with Facilities Move Management]]**  
+-   **[Client scripts installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CScriptsInstallWFacMoveMgmt.md)**  
 Client scripts define custom behaviors that run when events occur like when a form is loaded or submitted, or a cell changes value.
--   **[[r_NotifyEmailScriptsInstallWFacMoveMgmt|Notification email scripts installed with Facilities Move Management]]**  
+-   **[Notification email scripts installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_NotifyEmailScriptsInstallWFacMoveMgmt.md)**  
 Email notifications are a way to send selected users email or SMS notifications about specific activities in Facilities Move Management.
--   **[[r_BRulesInstallWFacMoveMgmt|Business rules installed with Facilities Move Management]]**  
+-   **[Business rules installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_BRulesInstallWFacMoveMgmt.md)**  
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
--   **[[r_WrkflwsInstallWFacMoveMgmt|Workflows installed with Facilities Move Management]]**  
+-   **[Workflows installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_WrkflwsInstallWFacMoveMgmt.md)**  
 Workflows provide a drag-and-drop interface for automating multi-step processes.
 
-**Parent Topic:**[[t_ActivateFacMoveMgmt|Activate Facilities Move Management]]
+**Parent Topic:**[Activate Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacMoveMgmt.md)
 
-## Related
-
-- [[r_TblsInstallWFacMoveMgmt|Tables installed with Facilities Move Management]]
-- [[r_PropsInstallWFacMoveMgmt|Properties installed with Facilities Move Management]]
-- [[r_RolesInstallWFacMoveMgmt|Roles installed with Facilities Move Management]]
-- [[r_EmailTemplInstallWFacMoveMgmt|Email templates installed with Facilities Move Management]]
-- [[r_ScrptIncludeInstallWFacMoveMgmt|Script includes installed with Facilities Move Management]]
-- [[r_CScriptsInstallWFacMoveMgmt|Client scripts installed with Facilities Move Management]]
-- [[r_NotifyEmailScriptsInstallWFacMoveMgmt|Notification email scripts installed with Facilities Move Management]]
-- [[r_BRulesInstallWFacMoveMgmt|Business rules installed with Facilities Move Management]]
-- [[r_WrkflwsInstallWFacMoveMgmt|Workflows installed with Facilities Move Management]]
-- [[t_ActivateFacMoveMgmt|Activate Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]

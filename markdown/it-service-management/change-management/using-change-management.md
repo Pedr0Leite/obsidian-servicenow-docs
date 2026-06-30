@@ -17,7 +17,7 @@ breadcrumb: [Change Management, IT Service Management]
 Work on a change request seamlessly and create the approval policies as required to meet your organizational needs.
 
 -   **[Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)**  
-[[t_CreateAChange|Create a change request]] to implement a controlled process for modifying approved and supported configuration items \(CIs\).
+Create a change request to implement a controlled process for modifying approved and supported configuration items \(CIs\).
 -   **[Process a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ProcessAChangeRequest.md)**  
 You can approve, implement, review, and close a change request.
 -   **[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)**  
@@ -25,7 +25,7 @@ Use the change approval policy to create change approval definitions and the cha
 -   **[Working with the CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-cab-workbench-cf.md)**  
 Use the CAB workbench to review and authorize change requests and review recently implemented changes.
 -   **[Mobile experience for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-experience-cm.md)**  
-Manage your [[change-tasks|change tasks]] from anywhere using the Mobile Agent mobile application. With this mobile application, you can stay connected and access the information in real time to complete your tasks.
+Manage your change tasks from anywhere using the Mobile Agent mobile application. With this mobile application, you can stay connected and access the information in real time to complete your tasks.
 -   **[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)**  
 Platform Analytics Solutions and in-form analytics contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 -   **[Manage the workspace configuration for a Change request in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-sow-chg-dynamic-overview-pages.md)**  
@@ -33,7 +33,3 @@ Utilize the new table-based configuration to align with the Service Operations W
 
 **Parent Topic:**[Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]
-- [[change-tasks|Change tasks]]

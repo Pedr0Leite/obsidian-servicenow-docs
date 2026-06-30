@@ -18,13 +18,13 @@ Delete a CDM application to delete all associated config data and snapshots.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## Procedure
 
-1.  Select the **[[dex-workspace-application-tab|Applications]]** icon \(\[Omitted image "icon-applications-nav.png"\] Alt text: Applications icon\) and then select one or more applications.
+1.  Select the **Applications** icon \(\[Omitted image "icon-applications-nav.png"\] Alt text: Applications icon\) and then select one or more applications.
 
 2.  Select **Delete** and then confirm the delete action.
 
@@ -38,7 +38,3 @@ The system performs the following operations when you delete an application:
 -   Disconnect deployables from CMDB services.
 -   Return an error for any attempt to query associated snapshots.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

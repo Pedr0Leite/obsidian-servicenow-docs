@@ -12,16 +12,16 @@ breadcrumb: [Design defined-path desktop actions, AI Desktop Actions, Enable AI 
 
 # Automate repetitive tasks by recording steps with AI in AI Desktop Actions
 
-Create desktop actions by recording steps with AI to automate repetitive tasks in [[agentic-desktop-landing-page|AI Desktop Actions]]. AI validates anchor positions and generates screen contexts automatically after recording, reducing the risk of automation failures at runtime.
+Create desktop actions by recording steps with AI to automate repetitive tasks in AI Desktop Actions. AI validates anchor positions and generates screen contexts automatically after recording, reducing the risk of automation failures at runtime.
 
 ## Before you begin
 
-Familiarize yourself with the Design workspace and Action recorder. For more information, see [[agentic-desktop-overview|AI Desktop Actions Design workspace]] and [[action-recorder-ad|Action recorder in AI Desktop Actions]].
+Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/action-recorder-ad.md).
 
 To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [[configure-agentic-desktop|Configure AI Desktop Actions]].
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [[download-agentic-desktop-installer|Download AI Desktop Actions installer]].
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -29,7 +29,7 @@ Confirm that the following system requirements are met:
 -   A .NET 9.0 runtime v9.0.10 and .NET 9 Desktop Runtime v9.0.10 is installed.
 -   No extended monitors are connected.
 -   Theme must match between the systems used for recording and execution.
--   The [[servicenow-lens-skill|ServiceNow AI Lens skill]] must be active on your instance. Contact your ServiceNow administrator if you're unsure whether this condition is met.
+-   The ServiceNow AI Lens skill must be active on your instance. Contact your ServiceNow administrator if you're unsure whether this condition is met.
 
 Role required: sn\_desktop\_core.desktop\_action\_user
 
@@ -67,7 +67,7 @@ The **sn\_desktop\_core.record\_with\_ai** property is enabled by default, makin
 
     If you launch the AI Desktop Actions for the first time, the onboarding journey widget appears. You can select **Don't show me again** to hide the widget the next time you launch AI Desktop Actions or **Skip intro** to skip the onboarding.
 
-6.  On the AI Desktop Actions [[now-assist-center-home-page|home page]], select **Create desktop action**.
+6.  On the AI Desktop Actions home page, select **Create desktop action**.
 
     \[Omitted image "home-page-actions-ad.png"\] Alt text: AI Desktop Actions home page displaying the Create desktop action UI action, search and select options, and cards of existing desktop actions.
 
@@ -75,7 +75,7 @@ The **sn\_desktop\_core.record\_with\_ai** property is enabled by default, makin
 
     \[Omitted image "create-desktop-action-with-ai.png"\] Alt text: Create desktop action modal with Record with AI option selected and a field to enter name for the desktop action.
 
-    **Important:** If the **Record with AI \(recommended\)** check box is unavailable, the [[servicenow-lens-landing-page|ServiceNow AI Lens]] is inactive on your instance. Contact your ServiceNow administrator to enable it. You can still create desktop actions using [[auto-create-desktop-action-ad|auto-capture]] mode.
+    **Important:** If the **Record with AI \(recommended\)** check box is unavailable, the ServiceNow AI Lens is inactive on your instance. Contact your ServiceNow administrator to enable it. You can still create desktop actions using [auto-capture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md) mode.
 
     \[Omitted image "ad-lens-skill-disabled.png"\] Alt text: Create desktop action modal with Record with AI option inactive and a fields to enter name and description for the desktop action.
 
@@ -182,7 +182,7 @@ Input
 
 </td><td>
 
-Enter any text data such as a user name, an address, a survey response, or in any situation where text entry is accepted.**Note:** If you set a static value for this field, the automation uses it during execution and doesn’t prompt you for input from the [[now-assist-center-now-assist-panel|Now Assist panel]].
+Enter any text data such as a user name, an address, a survey response, or in any situation where text entry is accepted.**Note:** If you set a static value for this field, the automation uses it during execution and doesn’t prompt you for input from the Now Assist panel.
 
 </td></tr><tr><td>
 
@@ -262,7 +262,7 @@ Output
 
 </td><td>
 
-Receive table from the source area when the text is in the table format.**Note:** For the step to capture table data successfully, the data must already be in the [[table-form|table form]]. The step can’t convert ordinary text to table data.
+Receive table from the source area when the text is in the table format.**Note:** For the step to capture table data successfully, the data must already be in the table form. The step can’t convert ordinary text to table data.
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Recognize text from images and return it in the standard text format.
 
 19. Configure the properties for added screens, anchors, and steps in the Properties panel.
 
-    For more information, see [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]].
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/screen-anchor-and-action-properties-ad.md).
 
 20. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -300,9 +300,9 @@ Recognize text from images and return it in the standard text format.
 
 ## What to do next
 
-1.  Configure the details of your desktop action. For more information, see [[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]].
-2.  Test and activate the desktop action so that it can be added as a tool to AI agents. For more information, see [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]].
-3.  Add the desktop action as a tool to AI agents in [[ai-agent-studio|AI Agent Studio]]. For more information, see [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]].
+1.  Configure the details of your desktop action. For more information, see [Add details to desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-details-desktop-action-ad.md).
+2.  Test and activate the desktop action so that it can be added as a tool to AI agents. For more information, see [Test and activate a desktop action in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-activate-desktop-action-ad.md).
+3.  Add the desktop action as a tool to AI agents in AI Agent Studio. For more information, see [Add a defined desktop action tool to an AI agent for desktop and web-based task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-desktop-action-ai-agent.md).
 
 **Related topics**  
 
@@ -315,32 +315,11 @@ Recognize text from images and return it in the standard text format.
 
 [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md)
 
-[[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
+[Extend a desktop action by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md)
 
 [Add a defined desktop action tool to an AI agent for desktop and web-based task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-desktop-action-ai-agent.md)
 
-[[examples-of-agentic-desktop-automation|Examples of creating desktop actions]]
+[Examples of creating desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/examples-of-agentic-desktop-automation.md)
 
-[[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
+[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-## Related
-
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[action-recorder-ad|Action recorder in AI Desktop Actions]]
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[download-agentic-desktop-installer|Download AI Desktop Actions installer]]
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
-- [[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]]
-- [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]]
-- [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
-- [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
-- [[examples-of-agentic-desktop-automation|Examples of creating desktop actions]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]
-- [[now-assist-center-home-page|Home page]]
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[table-form|Table form]]
-- [[ai-agent-studio|AI Agent Studio]]

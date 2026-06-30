@@ -14,7 +14,7 @@ breadcrumb: [Configure KBA, Knowledge-based authentication, Configure authentica
 
 # Map KBA questions to answers
 
-Create knowledge-based questions and answer mapping to confirm the user's [[identity-landing|identity]].
+Create knowledge-based questions and answer mapping to confirm the user's identity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: auth\_factors\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Knowledge Based Factor** &gt; **Question Answer Mappings**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Knowledge Based Factor** &gt; **Question Answer Mappings**.
 
 2.  Select **New** on the Knowledge Based Question Answer Mappings page.
 
@@ -45,7 +45,3 @@ You’re redirected to the Knowledge Based Question Answer Mappings list view. V
 
 \[Omitted image "configure-kba-question-answer-result.png"\] Alt text: Knowledge Based Question Answer Mappings - list
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[authentication-factors|Authentication factors]]

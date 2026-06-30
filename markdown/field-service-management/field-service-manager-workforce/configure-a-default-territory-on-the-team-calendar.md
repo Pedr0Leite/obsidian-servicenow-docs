@@ -30,8 +30,8 @@ Whenever you log in to the team calendar, the default territory is displayed.
 
     -   Managers, navigate to **All** &gt; **Field Service** &gt; **Manager** &gt; **Workforce**.
     -   Agents, navigate to **All** &gt; **Field Service** &gt; **Agent** &gt; **Workforce**.
-    -   If [[using-wfo-fsm|Workforce Optimization]] is installed and activated, managers can navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
-2.  Select the gear icon.\[Omitted image "fsm-dsw-settings-icon.png"\] Alt text: [[dispatcher-activities|Dispatcher Workspace]] settings icon
+    -   If Workforce Optimization is installed and activated, managers can navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
+2.  Select the gear icon.\[Omitted image "fsm-dsw-settings-icon.png"\] Alt text: Dispatcher Workspace settings icon
 
 3.  In the **Default Territories** field, select the territory that you would like to set as default.
 
@@ -39,7 +39,4 @@ Whenever you log in to the team calendar, the default territory is displayed.
 
     Whenever you log in to **Workforce**, default territory is displayed.
 
-## Related
 
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

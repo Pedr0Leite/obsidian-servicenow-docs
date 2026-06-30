@@ -19,7 +19,7 @@ Analyze and resolve Log Analytics alerts by investigating log data and taking ac
 
 ## Overview of analyzing and resolving a Log Analytics alert
 
-As an Operator, you're responsible for analyzing and resolving the alerts that [[hla-landing-page|Health Log Analytics]] generates. When HLA creates an alert, you review the alert's severity, the affected configuration item \(CI\), the log data associated with the anomaly, and the impacted services. You try to identify the root cause by investigating the logs that surround the anomaly.
+As an Operator, you're responsible for analyzing and resolving the alerts that Health Log Analytics generates. When HLA creates an alert, you review the alert's severity, the affected configuration item \(CI\), the log data associated with the anomaly, and the impacted services. You try to identify the root cause by investigating the logs that surround the anomaly.
 
 In the Express List, review alert details and use Now Assist to get an in-depth analysis of the alert and potential resolutions in straightforward, human-readable language. By drilling down into the alert, you can quickly identify the issue and proceed to resolve it before it affects your users.
 
@@ -29,7 +29,7 @@ More detailed information on tasks and procedures for analyzing and resolving Lo
 
 -   [Start remediation of a Log Analytics alert from the Overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-overview-tab-view-sow.md)
 
-    Begin the [[ccg-remediation|remediation]] process of a Log Analytics alert from the alert **Overview** tab. This tab provides information on the alert, log data associated with the anomalous behavior, CIs associated with the alert, and services impacted by it.
+    Begin the remediation process of a Log Analytics alert from the alert **Overview** tab. This tab provides information on the alert, log data associated with the anomalous behavior, CIs associated with the alert, and services impacted by it.
 
 -   [Analyzing the logs around an anomaly to help find the alert's root cause in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-surrounding-logs-view-concept-sow.md)
 
@@ -55,7 +55,3 @@ For a brief explanation of key terms and concepts used in HLA, see the [Health L
 
 [Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-use-case-syslogs.md) - Use Health Log Analytics to detect and resolve emerging issues in your organization's ServiceNow instance before they affect platform users.
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[ccg-remediation|Remediation]]

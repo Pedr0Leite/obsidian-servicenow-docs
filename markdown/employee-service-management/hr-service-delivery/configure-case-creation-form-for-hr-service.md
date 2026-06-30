@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-This is the form that displays when an HR agent selects an HR service from the **Create New Case** module. You can include additional fields on the HR case creation form so that HR agents are able to collect relevant information before beginning work on the case. The case creation configuration records can be applied to one or more [[hr-service-administration|HR services]].
+This is the form that displays when an HR agent selects an HR service from the **Create New Case** module. You can include additional fields on the HR case creation form so that HR agents are able to collect relevant information before beginning work on the case. The case creation configuration records can be applied to one or more HR services.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Open the HR service.
 
@@ -94,7 +94,7 @@ Fields to add on the bottom of the form.
 
 ## Additional fields for tuition reimbursement HR case creation forms
 
-You are part of an enterprise HR organization using the [[hr-service-delivery|HR Service Delivery]] application. You have several HR services related to tuition reimbursement, and you know this case type requires the HR agent to collect information such as the school name, course title, and course justification before case work can begin. If that information is collected prior to case creation, you can save your organization time by avoiding the back-and-forth the HR agent and employee must engage in to capture the relevant information.
+You are part of an enterprise HR organization using the HR Service Delivery application. You have several HR services related to tuition reimbursement, and you know this case type requires the HR agent to collect information such as the school name, course title, and course justification before case work can begin. If that information is collected prior to case creation, you can save your organization time by avoiding the back-and-forth the HR agent and employee must engage in to capture the relevant information.
 
 To do this, you need to configure the HR case creation form for tuition reimbursement HR services to include additional fields that ask for the school or program name, course title, course justification, course start date, and course end date. So you create a case creation service configuration record and associate it with the HR Total Rewards Case \[sn\_hr\_core\_case\_total\_rewards\] table. For the left, right, and bottom task fields, you add the additional fields you want to appear on the form.
 
@@ -106,9 +106,3 @@ Once the configuration is complete, HR agents that select the tuition reimbursem
 
 **Parent Topic:**[Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]
-- [[hr-service-delivery|HR Service Delivery]]

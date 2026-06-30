@@ -20,11 +20,11 @@ This accelerator measures readiness and platform maturity of your ServiceNow pla
 
 The Success Readiness Assessment \(SRA\) is a process designed to identify, target, and prescribe areas of improvement during the digital transformation journey with the ServiceNow platform.
 
-The SRA is composed of a series of interviews with a range of stakeholders used to solicit quantitative and qualitative customer feedback. These interviews produce trackable data that provides a baseline of information the [[impact-squad|Impact Squad]] can use when recommending improvement steps.
+The SRA is composed of a series of interviews with a range of stakeholders used to solicit quantitative and qualitative customer feedback. These interviews produce trackable data that provides a baseline of information the Impact Squad can use when recommending improvement steps.
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided+ \(Strategic Value add-on\), Advanced and Total Packages.
+**Note:** This Accelerator is available for Impact Guided+ \(Strategic Value add-on\), Advanced and Total Packages.
 
 ## What You Get
 
@@ -111,7 +111,3 @@ N/A
 
 ServiceNow is not responsible for implementing the recommendations made based on the SRA.
 
-## Related
-
-- [[impact-squad|Impact Squad]]
-- [[impact-landing-page|Impact]]

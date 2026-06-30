@@ -14,7 +14,7 @@ breadcrumb: [Configure widget loading order in Service Portal, Using portal widg
 
 # Deferred loading of AI Search assets in Service Portal
 
-Deferred loading of AI Search on the [[c_ServicePortal|Service Portal]] delays the loading of certain AI Search assets until the main page content is loaded. This delay helps the page to load faster, thus improving user experience in the portal. st.
+Deferred loading of AI Search on the Service Portal delays the loading of certain AI Search assets until the main page content is loaded. This delay helps the page to load faster, thus improving user experience in the portal. st.
 
 A new system property, **glide.service\_portal.ais\_defer\_load\_enable.list**, has been added to control for which portals deferred loading is applied. This property accepts a comma-separated list of portal url\_suffix values. By default, deferred loading is enabled for the Service Portal.
 
@@ -22,6 +22,3 @@ A new system property, **glide.service\_portal.ais\_defer\_load\_enable.list**, 
 
 **Parent Topic:**[Configure widget loading order in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-loading-order.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

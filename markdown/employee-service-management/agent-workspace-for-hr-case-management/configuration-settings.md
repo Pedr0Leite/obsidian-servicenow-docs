@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspace for HR Case Management reference, Agent Workspace, 
 
 # Page Configurations reference
 
-A description of the page configuration settings in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+A description of the page configuration settings in Agent Workspace for HR Case Management.
 
 <table id="table_gkz_3fz_jzb"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Timeline for ER cases
 
 </td><td>
 
-Option to configure the display of case timeline on record page. ER \([[hr-case-employee-relations|Employee Relations]]\) agents use case timelines to track ER cases.To preview your configured setting before applying it on the case, select **Preview**.
+Option to configure the display of case timeline on record page. ER \(Employee Relations\) agents use case timelines to track ER cases.To preview your configured setting before applying it on the case, select **Preview**.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Update employee info
 
 </td><td>
 
-Option to navigate to configure settings in [[c_HRProfileRecords|HR profile]] form. This option contains information related to the employee in the **At a Glance** panel.To preview your configured setting before applying it on the case form, select **Preview**.
+Option to navigate to configure settings in HR profile form. This option contains information related to the employee in the **At a Glance** panel.To preview your configured setting before applying it on the case form, select **Preview**.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -178,7 +178,7 @@ Fulfillment instructions configuration
 
 </td><td>
 
-Option to navigate to the [[hr-fulfillment-instructions|HR Fulfillment Instructions]] form to configure the Fulfillment instructions section on HR case.
+Option to navigate to the HR Fulfillment Instructions form to configure the Fulfillment instructions section on HR case.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -266,7 +266,7 @@ Option to navigate to the Schedule Content page to configure the Announcements s
 
 </td></tr><tr><td>
 
-[[emp-center-quick-link-config|Quick links]]
+Quick links
 
 </td><td>
 
@@ -292,10 +292,3 @@ Option to navigate to the Schedule Content page to configure the My frequently u
 
 [Bulk case request form]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-fulfillment-instructions|HR fulfillment instructions]]
-- [[emp-center-quick-link-config|Quick links]]

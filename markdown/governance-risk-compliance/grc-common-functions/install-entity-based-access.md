@@ -14,7 +14,7 @@ breadcrumb: [Configure Entity Based Access, Entity Based Access, Common GRC feat
 
 # Install the Entity Based Access application
 
-Install the GRC: [[entity-based-access|Entity Based Access]] application.
+Install the GRC: Entity Based Access application.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/setting-up-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

@@ -14,7 +14,7 @@ breadcrumb: [Authorized SAM Provider \(ASP\) integrations for IBM, Software Asse
 
 # Creating a connection for the Anglepoint integration
 
-If you are integrating the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with Anglepoint, you can create a connection between your ServiceNow instance and the Anglepoint Elevate platform to transfer licensing data for your IBM software products.
+If you are integrating the Software Asset Management publisher pack for IBM with Anglepoint, you can create a connection between your ServiceNow instance and the Anglepoint Elevate platform to transfer licensing data for your IBM software products.
 
 -   **[Create an API user for the Anglepoint integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-anglepoint-integration-user.md)**  
 Create a user who is permitted to access the APIs used by the Anglepoint integration. These APIs provide the given user access to the Anglepoint integration resources that are available on your ServiceNow instance.
@@ -23,6 +23,3 @@ You can configure the API authentication method that grants users access to the 
 
 **Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

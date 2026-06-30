@@ -17,7 +17,7 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 Install and configure DEX components on your local machine before you deploy them to your organization's employees.
 
 -   **[Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md)**  
-[[dex-landing|Digital End-User Experience]] \(DEX\) is available with activation of the Digital End-User Experience \[sn\_dex\] plugin. You must have the admin role to install the DEX product \[sn\_dex\]. During installation, Application and Device Health is included as a component in DEX.
+Digital End-User Experience \(DEX\) is available with activation of the Digital End-User Experience \[sn\_dex\] plugin. You must have the admin role to install the DEX product \[sn\_dex\]. During installation, Application and Device Health is included as a component in DEX.
 -   **[Create an ACC registration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/setup-acc.md)**  
 Set up an Agent Client Collector \(ACC\) by creating an agent registration key to identify and authenticate agents that are enabled to send data to the collector. The key helps promote the security and integrity of the data collected from the system.
 -   **[Test connectivity to the ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/test-connectivity-to-instance.md)**  
@@ -31,11 +31,7 @@ Configure the ServiceNow sudoers file to grant the servicenow user the necessary
 -   **[Test Agent Client Collector connectivity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/test-acc-connectivity.md)**  
 Test the Agent Client Collector \(ACC\) connectivity to identify any proxy issues.
 -   **[Enable DEX browser extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-dex-browser-extension.md)**  
-Activate the DEX Chrome or Edge Extension on your system to collect different operational or performance-based metrics for the web [[dex-workspace-application-tab|applications]].
+Activate the DEX Chrome or Edge Extension on your system to collect different operational or performance-based metrics for the web applications.
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]

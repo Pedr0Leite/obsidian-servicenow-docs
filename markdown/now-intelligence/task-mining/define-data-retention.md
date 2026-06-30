@@ -18,7 +18,7 @@ Modify the default retention configuration rules to delete data automatically.
 
 ## Before you begin
 
-Set the application scope to [[task-mining|Task Mining]] core using the application picker.
+Set the application scope to Task Mining core using the application picker.
 
 Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
@@ -28,7 +28,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Configuration icon \[Omitted image "task-mining-configuration-icon.png"\].
 
@@ -56,7 +56,4 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

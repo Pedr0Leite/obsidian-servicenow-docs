@@ -14,9 +14,9 @@ breadcrumb: [Setup Workplace Calendar Synchronization, Configure, Workplace Cale
 
 # Microsoft Exchange Online - Calendar synchronization
 
-Synchronize reservations between Microsoft Exchange Online and [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].
+Synchronize reservations between Microsoft Exchange Online and Workplace Reservation Management.
 
-The [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application provides a medium to establish a connection between your Microsoft Exchange Online Outlook calendar and the Workplace Reservation Management application. You can synchronize reservations made in the Reservation portal to the Microsoft Outlook calendar and block the date and time. Similarly, you can also synchronize the events made in the Microsoft Outlook calendar with the Workplace Reservation Management application and track the reservations and its details.
+The Workplace Calendar Synchronization application provides a medium to establish a connection between your Microsoft Exchange Online Outlook calendar and the Workplace Reservation Management application. You can synchronize reservations made in the Reservation portal to the Microsoft Outlook calendar and block the date and time. Similarly, you can also synchronize the events made in the Microsoft Outlook calendar with the Workplace Reservation Management application and track the reservations and its details.
 
 ## Microsoft Graph API
 
@@ -35,7 +35,7 @@ A webhook registry contains the subscription-related details to perform a call-b
 
 ## Synchronization from Workplace Service Delivery to Microsoft Exchange Online
 
-To synchronize reservations made using the Workplace Reservation Management application to the Microsoft Exchange Online Microsoft Outlook calendar, you must first [[set-up-ms-exhchange-cc|create a connection with Microsoft Exchange Online]]. Depending on how you want to establish the connections, refer to the respective topics:
+To synchronize reservations made using the Workplace Reservation Management application to the Microsoft Exchange Online Microsoft Outlook calendar, you must first create a connection with Microsoft Exchange Online. Depending on how you want to establish the connections, refer to the respective topics:
 
 **Note:** By default, Microsoft Exchange Online Spoke provides you with the MS Graph 1 and MS Graph two credentials. If you do not want to use the default connection and credential alias provided by the application, you can create your own alias.
 
@@ -60,7 +60,7 @@ To configure personal authentication mode, enable the Personal mode option while
 
 ## Sync past reservations
 
-The Workplace Calendar Synchronization application enables you to sync reservations that were made in the past. You can specify the duration in date and time to get those past reservations to sync with Microsoft Exchange Online or Workplace Reservation Management. You can configure the setting using the **[[sync-past-reservation|Synchronize past reservations]]**. Specify the **Sync start date time** manually from the subscription record of the reservable sync record for which you are synchronizing the past reservations. In the **Sync end date time**, you can specify the end time as you want.
+The Workplace Calendar Synchronization application enables you to sync reservations that were made in the past. You can specify the duration in date and time to get those past reservations to sync with Microsoft Exchange Online or Workplace Reservation Management. You can configure the setting using the **Synchronize past reservations**. Specify the **Sync start date time** manually from the subscription record of the reservable sync record for which you are synchronizing the past reservations. In the **Sync end date time**, you can specify the end time as you want.
 
 ## Multi-provider setup
 
@@ -78,9 +78,3 @@ Execute an Instance scan on your Workplace Calendar Synchronization configuratio
 
 Refer to [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[set-up-ms-exhchange-cc|Create a connection with Microsoft Exchange Online]]
-- [[sync-past-reservation|Synchronize past reservations]]

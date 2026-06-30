@@ -14,7 +14,7 @@ breadcrumb: [AI assets, AI Control Tower dashboard, Explore, AI Control Tower, E
 
 # Inquiries
 
-You can view all the assigned and unassigned inquiries in a list view in the [[ai-control-tower-landing|AI Control Tower]].
+You can view all the assigned and unassigned inquiries in a list view in the AI Control Tower.
 
 ## Inquiries list view
 
@@ -26,12 +26,7 @@ Select any inquiry from the list, click **Assign to me** to assign the inquiry t
 
 The following image displays all the AI inquiries in a list view.
 
-\[Omitted image "aict-inquiries.png"\] Alt text: Inquiries in a list view on the [[ai-assets|AI assets]] page.
+\[Omitted image "aict-inquiries.png"\] Alt text: Inquiries in a list view on the AI assets page.
 
-For information about creating AI inquiries from the AI [[cases|cases]] tab in the AI Control Tower workspace, see [Create an AI issue in the AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-an-ai-issue-in-the-ai-control-tower.md)
+For information about creating AI inquiries from the AI cases tab in the AI Control Tower workspace, see [Create an AI issue in the AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-an-ai-issue-in-the-ai-control-tower.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[cases|Cases]]

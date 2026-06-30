@@ -15,11 +15,11 @@ breadcrumb: [Now Assist Q&amp;A Genius Results, Configuring Now Assist in AI Sea
 
 # Dynamic Translation for Now Assist Q&amp;A Genius Results
 
-[[dynamic-translation|Dynamic Translation]] improves the international search experience for knowledge article content. When Dynamic Translation is activated, [[ia-ai-search|AI Search]] can generate Now Assist Q&amp;A Genius Result answers from non-English knowledge articles. Dynamic Translation also enables AI Search to translate Now Assist Q&amp;A Genius Result answers into the search user's language.
+Dynamic Translation improves the international search experience for knowledge article content. When Dynamic Translation is activated, AI Search can generate Now Assist Q&amp;A Genius Result answers from non-English knowledge articles. Dynamic Translation also enables AI Search to translate Now Assist Q&amp;A Genius Result answers into the search user's language.
 
 When computing Now Assist Q&amp;A Genius Result answers, the Now LLM Service only accepts English-language knowledge article content and only generates answers in English.
 
-Dynamic Translation expands the range of languages supported by [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] by adding the following features:
+Dynamic Translation expands the range of languages supported by Now Assist Q&amp;A Genius Results by adding the following features:
 
 <table id="table_zpz_prq_4bc"><thead><tr><th>
 
@@ -65,8 +65,3 @@ For more details on the query-time caches for Now Assist Q&amp;A Genius Results,
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[ia-ai-search|AI Search]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]

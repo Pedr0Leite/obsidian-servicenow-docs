@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM Db2 on Linux database discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Db2 on [[r_DataCollDiscoLinuxComputers|Linux discovery]] pattern to find IBM Db2 instances on Linux servers.
+ServiceNow Discovery uses the Db2 on Linux discovery pattern to find IBM Db2 instances on Linux servers.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -68,7 +68,7 @@ The Identification for Db2 on Z/OS section collects the following tables and fie
 |TCP port\(s\) \[tcp\_port\]|TCP port.|
 |Install Directory \[installed\_dir\]|Installation directory.|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered IBM Db2 instances in your organization and the relationships between them.
+The Dependency Views map shows all discovered IBM Db2 instances in your organization and the relationships between them.
 
 \[Omitted image "IBM-Db2-dependency.png"\] Alt text: IBM db2 dependency view
 
@@ -78,8 +78,3 @@ The IBM Db2 on Linux pattern does not create any CI relationships.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoLinuxComputers|Linux discovery]]
-- [[dependency-views-map|Dependency Views map]]

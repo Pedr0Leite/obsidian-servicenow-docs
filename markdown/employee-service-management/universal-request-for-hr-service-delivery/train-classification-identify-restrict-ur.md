@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence for Universal Request, Configuring Universa
 
 # Train the classification solution to identify UR with sensitive information
 
-Train the [[ur-landing-limitedaccess|Universal Request]] classification solution definition to identify and predict universal request with sensitive information using the short description and description. The solution identifies and marks the UR as restricted, allowing only agents with access or from the assignment group to work on the request.
+Train the Universal Request classification solution definition to identify and predict universal request with sensitive information using the short description and description. The solution identifies and marks the UR as restricted, allowing only agents with access or from the assignment group to work on the request.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Set the **Enable to auto-restrict requests with sensitive information** property
 
 **Parent Topic:**[Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/predictive-intelligence-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

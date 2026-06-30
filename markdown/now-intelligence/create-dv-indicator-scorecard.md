@@ -12,11 +12,11 @@ breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platfor
 
 # Create an Indicator Scorecard
 
-The Indicator Scorecard component enables users to visualize and compare data between multiple [[c_Indicators|Performance Analytics indicators]]. It highlights the information regarding the last score collected, the change from the previous data point, the trend over time, and the value of the target to achieve.​
+The Indicator Scorecard component enables users to visualize and compare data between multiple Performance Analytics indicators. It highlights the information regarding the last score collected, the change from the previous data point, the trend over time, and the value of the target to achieve.​
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -26,7 +26,7 @@ For information about the use of an Indicator Scorecard in a dashboard, see [the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -308,7 +308,7 @@ Target color scheme
 
 </td><td>
 
-Select a target color scheme. By default, the value defined in the **Default indicator target color scheme** property on the [[pa-properties|Performance Analytics Properties]] page is applied.
+Select a target color scheme. By default, the value defined in the **Default indicator target color scheme** property on the Performance Analytics Properties page is applied.
 
 </td></tr><tr><td>
 
@@ -344,7 +344,7 @@ Allow chart interaction
 
 </td><td>
 
-Enable navigation to the [[kpi-details|KPI Details]] page of an indicator when that indicator's name is selected.
+Enable navigation to the KPI Details page of an indicator when that indicator's name is selected.
 
 </td></tr><tr><td>
 
@@ -362,20 +362,9 @@ Only the **Go to data view** interaction is available. This action opens the ind
 
 ## What to do next
 
--   [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
--   [[share-dv-ac|Share a data visualization in the Visualization Designer]]
--   [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
+-   [Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)
+-   [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[pa-properties|Performance Analytics properties]]
-- [[kpi-details|KPI Details]]

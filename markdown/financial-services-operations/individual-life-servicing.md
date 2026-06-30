@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:[[configure-individual-life-servicing|Configure Individual Life Servicing]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-individual-life-servicing.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure Individual Life Servicing.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-individual-life-servicing.md)
 
 </td></tr><tr><td>
 
@@ -36,7 +36,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-individual-life-servicing|Configure Individual Life Servicing]]

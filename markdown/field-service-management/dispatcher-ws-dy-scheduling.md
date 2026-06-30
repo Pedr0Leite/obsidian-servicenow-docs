@@ -14,7 +14,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 Dynamic scheduling enables you as a dispatcher to efficiently assign, unassign, or reassign work order tasks.
 
-The [[dispatcher-activities|Dispatcher Workspace]] integration with dynamic scheduling enables you to automatically select an agent and assign work order tasks. When you attempt to assign the new task, dynamic scheduling unassigns or reassigns the existing tasks and assigns the new task to an agent.
+The Dispatcher Workspace integration with dynamic scheduling enables you to automatically select an agent and assign work order tasks. When you attempt to assign the new task, dynamic scheduling unassigns or reassigns the existing tasks and assigns the new task to an agent.
 
 **Note:** Tasks that are already set to Work in Progress cannot be unassigned. Only tasks that are scheduled but not started can be reassigned or unassigned.
 
@@ -37,9 +37,5 @@ System administrators enable double-booking by setting the **work.management.all
 **Related topics**  
 
 
-[[dynamic-scheduling|Dynamic scheduling]]
+[Dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

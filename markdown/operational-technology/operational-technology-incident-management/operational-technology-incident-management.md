@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Incident Management, Operational Te
 
 # Operational Technology Incident Management
 
-[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] enables engineers to quickly resolve [[operational-technology-overview|Operational Technology]] \(OT\) device and production process issues.
+Operational Technology Incident Management enables engineers to quickly resolve Operational Technology \(OT\) device and production process issues.
 
 Operational Technology Incident Management enables you to manage OT incidents separately from IT incidents. OT incidents occur when there’s a disruption in service provided by an OT device on an OT network. Sometimes, the OT device may not be known when the incident is first created. If the OT device is unknown, an incident can be raised for an equipment model entity where the issue occurred.
 
@@ -90,7 +90,3 @@ Incident was triaged but found to be a duplicate incident, an unnecessary incide
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/exploring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-overview|Operational Technology]]

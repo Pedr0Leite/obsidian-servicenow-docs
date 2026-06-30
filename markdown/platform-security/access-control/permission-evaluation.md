@@ -14,7 +14,7 @@ breadcrumb: [Access Analyzer, Access Management]
 
 # Permission evaluation
 
-Understand permission evaluation criteria when [[use-access-analyzer|using Access Analyzer]].
+Understand permission evaluation criteria when using Access Analyzer.
 
 ## Evaluation hierarchy
 
@@ -22,8 +22,8 @@ Permission for the selected user, group, or role is evaluated in the following h
 
 -   Business rule: A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
 -   Access Handler: An internal system check using hidden source code on the platform.
--   Data Filtration: Data filters are a form of [[sc-access-control|access control]] designed to work with existing Access Control rules \(ACLs\) on your instance. Data filters support only read operations.
--   Access control list \(ACL\): Rules for access control lists \(ACLs\) restrict access to specified data by requiring [[users|users]] to pass a set of requirements before they can interact with it. Within an ACL, the following hierarchy is evaluated:
+-   Data Filtration: Data filters are a form of access control designed to work with existing Access Control rules \(ACLs\) on your instance. Data filters support only read operations.
+-   Access control list \(ACL\): Rules for access control lists \(ACLs\) restrict access to specified data by requiring users to pass a set of requirements before they can interact with it. Within an ACL, the following hierarchy is evaluated:
     -   Role
     -   Security Attribute
     -   Condition
@@ -43,7 +43,7 @@ The **Access results** table includes:
 -   Evaluation process
 -   IAccessHandlers
 -   Data filters
--   [[access-control-rules|Access control list rules]]
+-   Access control list rules
 
 ## Presence of a script
 
@@ -51,7 +51,7 @@ An Alert Icon next to any status indicates the presence of a script in the ACL. 
 
 ## Status in Access Analyzer
 
-When analyzing access and permissions, [[access-analyzer|Access Analyzer]] shows the evaluation's result or status. Statuses include:
+When analyzing access and permissions, Access Analyzer shows the evaluation's result or status. Statuses include:
 
 -   \[Passed\] Access granted
 -   \[Blocked\] Access denied
@@ -80,10 +80,3 @@ Data filters are a form of access control designed to work along with the existi
 
 Rules for access control lists \(ACLs\) restrict access to specific data by requiring users to pass a set of requirements before they can interact with it.
 
-## Related
-
-- [[use-access-analyzer|Using Access Analyzer]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[access-control-rules|Access Control List Rules]]
-- [[access-analyzer|Access Analyzer]]

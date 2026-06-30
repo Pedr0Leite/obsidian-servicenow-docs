@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Next Experience for Demand Management in Portfolio 
 
 # Access demands
 
-Learn how to navigate to the Next Experience for [[c_DemandManagement|Demand Management]] and open a demand from the **All Demands** page.
+Learn how to navigate to the Next Experience for Demand Management and open a demand from the **All Demands** page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Demands**.
 
     Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demands-list-view-ppw.md).\[Omitted image "ppw-all-demands-list.png"\] Alt text: All Demands home page.
 
@@ -49,7 +49,3 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 [Demands list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demands-list-view-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

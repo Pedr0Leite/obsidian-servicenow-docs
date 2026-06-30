@@ -16,7 +16,7 @@ Enable the expanded universal linking option to display the web banner on mobile
 
 ## Before you begin
 
-The mobile universal linking feature must be enabled, see [[universal-linking-enable|Enable mobile universal linking]].
+The mobile universal linking feature must be enabled, see [Enable mobile universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-enable.md).
 
 Role required: admin
 
@@ -45,9 +45,5 @@ Role required: admin
 7.  Right-click in the header and select **Save**.
 
 
-**Parent Topic:**[[universal-links-mobile|Universal linking for mobile]]
+**Parent Topic:**[Universal linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-links-mobile.md)
 
-## Related
-
-- [[universal-linking-enable|Enable mobile universal linking]]
-- [[universal-links-mobile|Universal linking for mobile]]

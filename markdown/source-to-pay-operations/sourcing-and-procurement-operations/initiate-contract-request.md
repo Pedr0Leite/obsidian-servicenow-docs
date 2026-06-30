@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay Operations integration Contract Management, Integrate
 
 # Initiate a contract request
 
-Initiate a contract request from the [[purch-order-mgmt-ws|Source-to-Pay workspace]].
+Initiate a contract request from the Source-to-Pay workspace.
 
 ## Before you begin
 
@@ -30,14 +30,14 @@ You can initiate contract requests from the related work section, the Dynamic Re
 
 2.  Open the entity for which you have to initiate a contract request.
 
-    **Note:** Contract requests can be initiated for [[purchase-lines|purchase lines]], purchase requisitions, sourcing requests, [[negotiations|negotiations]], and [[negotiation-events|sourcing events]].
+    **Note:** Contract requests can be initiated for purchase lines, purchase requisitions, sourcing requests, negotiations, and sourcing events.
 
-3.  [[initiate-contract-from-related-work|Initiate a contract request from the related work section]], the DRR, or the playbook.
+3.  Initiate a contract request from the related work section, the DRR, or the playbook.
 
     -   From Related work: Contract requests can be initiated for all types of entities. For more information on how to initiate a contract request from the related work section, see [Initiate a contract request from the related work section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-from-related-work.md).
     -   From DRR: Contract requests can be initiated for all types of entities, except purchase lines. For more information on how to initiate a contract request from the DRR, see [Initiate a contract request from Dynamic Related Records \(DRR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-from-drr.md).
-    -   From Playbook: Contract requests can be initiated only for sourcing events and sourcing requests. For more information on how to [[initiate-contract-from-playbook|initiate a contract request from the playbook]], see [Initiate a contract request from the playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-from-playbook.md).
-    **Note:** You can manually create a contract request for a given [[supplier|supplier]] throughout the S2P workflow, so that a signed contract can be created with that supplier.
+    -   From Playbook: Contract requests can be initiated only for sourcing events and sourcing requests. For more information on how to initiate a contract request from the playbook, see [Initiate a contract request from the playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-from-playbook.md).
+    **Note:** You can manually create a contract request for a given supplier throughout the S2P workflow, so that a signed contract can be created with that supplier.
 
 
 -   **[Initiate a contract request from the related work section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-from-related-work.md)**  
@@ -49,12 +49,3 @@ Initiate a contract request for sourcing requests or sourcing event from the pla
 
 **Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-spo-cmpro.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-lines|Purchase lines]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[initiate-contract-from-related-work|Initiate a contract request from the related work section]]
-- [[initiate-contract-from-playbook|Initiate a contract request from the playbook]]
-- [[supplier|Supplier]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default the Populate Agents Daily Schedule Table runs once a day at midnight in the time zone the instance is set up in. If a dispatcher changes an agent’s schedule, it won’t reflect in the calendar in [[dispatcher-activities|Dispatcher Workspace]] until the Populate Agents Daily Schedule Table runs. Administrators can trigger the table to run at any time.
+By default the Populate Agents Daily Schedule Table runs once a day at midnight in the time zone the instance is set up in. If a dispatcher changes an agent’s schedule, it won’t reflect in the calendar in Dispatcher Workspace until the Populate Agents Daily Schedule Table runs. Administrators can trigger the table to run at any time.
 
 ## Procedure
 
@@ -40,11 +40,7 @@ By default the Populate Agents Daily Schedule Table runs once a day at midnight 
 **Related topics**  
 
 
-[[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]]
+[Change the number of days that dispatchers can hide off shift agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/change-hide-off-shift.md)
 
 [Show or hide off shift agents from the calendar in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/hide-off-shift-agents.md)
 
-## Related
-
-- [[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]]
-- [[dispatcher-activities|Dispatcher Workspace]]

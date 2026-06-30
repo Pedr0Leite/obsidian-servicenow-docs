@@ -16,7 +16,7 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 If your organization uses tags, or establishes them in a local ServiceNow instance, you can use these tags to map application services.
 
-A tag is a label that consists of a key-value pair. Your organization might use tags to categorize its assets and to enhance query and reporting capabilities. [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, [[c_ServiceMappingOverview|Service Mapping]] can create application services based on these tags. Typically organizations use tagging in virtualized, hyper-converged, or multi-cloud infrastructures.
+A tag is a label that consists of a key-value pair. Your organization might use tags to categorize its assets and to enhance query and reporting capabilities. Discovery and Cloud Provisioning and Governance can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, Service Mapping can create application services based on these tags. Typically organizations use tagging in virtualized, hyper-converged, or multi-cloud infrastructures.
 
 |Segment|Technology providers|What is tagged|
 |-------|--------------------|--------------|
@@ -69,8 +69,3 @@ For information about how to create multiple tag-based services, see [Map applic
 
 [Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/landing-page-tag-governance.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

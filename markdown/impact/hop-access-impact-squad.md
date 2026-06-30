@@ -12,7 +12,7 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Grant temporary instance access to your Impact Squad
 
-Familiarize yourself with your ServiceNow [[impact-squad|Impact Squad]], a dedicated team of experts ready to assist in tackling your team's unique transformation challenges. View or grant your Impact squad 30 day read-only access to your instance to support you with [[impact-landing-page|Impact]] features.
+Familiarize yourself with your ServiceNow Impact Squad, a dedicated team of experts ready to assist in tackling your team's unique transformation challenges. View or grant your Impact squad 30 day read-only access to your instance to support you with Impact features.
 
 ## Before you begin
 
@@ -98,19 +98,11 @@ Date access to the instance expires for the squad member.
 
 ## What to do next
 
-Refer to [[impact-in-app|Using Impact]] to get started with the Impact Store Application.
+Refer to [Using Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-in-app.md) to get started with the Impact Store Application.
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[configure-other-integration-options|Configure other integration options]]
+**Previous topic:**[Configure other integration options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-other-integration-options.md)
 
-**Next topic:**[[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]]
+**Next topic:**[Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/activate-now-assist-skills-in-now-assist-for-impact.md)
 
-## Related
-
-- [[impact-in-app|Using Impact]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[configure-other-integration-options|Configure other integration options]]
-- [[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]]
-- [[impact-squad|Impact Squad]]
-- [[impact-landing-page|Impact]]

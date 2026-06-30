@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Search for crews on Dispatcher Workspace
 
-Search for crews with specific attributes on [[dispatcher-activities|Dispatcher Workspace]] so you can make appropriate assignments.
+Search for crews with specific attributes on Dispatcher Workspace so you can make appropriate assignments.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: wm\_dispatcher
 
 A list of crews appears based on the filter criteria. If crews aren’t available for the selected time period, a message displays.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

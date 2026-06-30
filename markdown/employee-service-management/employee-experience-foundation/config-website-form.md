@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Website configuration form
 
-The field descriptions provide a point of [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] when you're configuring the [[ecbe-intro|Browser Extension for Employee Center]] for a website.
+The field descriptions provide a point of reference when you're configuring the Browser Extension for Employee Center for a website.
 
 <table id="table_z1x_1tq_vfc"><thead><tr><th>
 
@@ -74,7 +74,7 @@ List of active applications to be associated with access from the website throug
 
 </td></tr><tr><td>
 
-[[emp-center-quick-link-config|Quick links]] Associated
+Quick links Associated
 
 </td><td>
 
@@ -110,7 +110,7 @@ List of connected content from the portal to be associated with access from the 
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -140,7 +140,7 @@ List of connected content from the portal to be associated with access from the 
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -160,10 +160,3 @@ List of connected content from the portal to be associated with access from the 
 
 [Location Consent form]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -24,11 +24,11 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Appointment Booking** &gt; **Appointment Booking Configuration**.
 
-2.  Select **[[walkup-experience-landing-page|Walk-up Experience]]**.
+2.  Select **Walk-up Experience**.
 
 3.  In the Appointment Booking Service Configuration related list, select a service configuration for which you want to configure the appointment schedules.
 
-4.  Select **Enable [[dex-advanced-configuration|Advanced Configuration]]**.
+4.  Select **Enable Advanced Configuration**.
 
 5.  In the Appointment Booking Day Configuration related list, click **New**.
 
@@ -152,7 +152,3 @@ Provides a preview of the appointment windows and times based on the selected st
 
 **Parent Topic:**[Create or modify a Walk-up Experience appointment booking service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-appointments.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-advanced-configuration|Advanced configuration]]

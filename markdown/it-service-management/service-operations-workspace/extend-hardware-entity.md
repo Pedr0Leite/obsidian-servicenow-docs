@@ -28,7 +28,7 @@ Role required: admin
 
 2.  On the Microsoft Endpoint Configuration Manager, select **Administration**.
 
-3.  On the Administration section, click **Client [[settings-mobile|Settings]]**.
+3.  On the Administration section, click **Client Settings**.
 
 4.  Double-click the **Default Client Settings** that is displayed on the right pane of the window.
 
@@ -53,6 +53,3 @@ The added hardware inventory is displayed in the CMPivot entity list to verify t
 
 **Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ci-metrics-mecm-adapter.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

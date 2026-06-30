@@ -15,7 +15,7 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Configure Document Intelligence using Now Assist for Accounts Payable Operations \(APO\)
 
-Configure Document Intelligence using Now Assist skill in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to enable AI-powered invoice data extraction.
+Configure Document Intelligence using Now Assist skill in Accounts Payable Operations to enable AI-powered invoice data extraction.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Plugins required:
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills for Common Finance &amp; Supply Chain features** tab of the Now Assist Admin console.
 
-2.  Select **[[finance-supply-chain-landing|Finance and Supply Chain]]** &gt; **Accounts Payable Operations** &gt; **Invoice data extraction** to view the skills for the APO features.
+2.  Select **Finance and Supply Chain** &gt; **Accounts Payable Operations** &gt; **Invoice data extraction** to view the skills for the APO features.
 
 3.  Select **Activate** the skill.
 
@@ -48,7 +48,4 @@ Plugins required:
 
     The **Invoice data extraction** skill is activated successfully.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]

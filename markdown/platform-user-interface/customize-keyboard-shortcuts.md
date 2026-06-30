@@ -24,7 +24,7 @@ Customizations apply to your user profile and persist across sessions.
 
 Learn more about customizing keyboard shortcuts from the following tutorial:
 
-\[Omitted video\] Description: Customize the [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]
+\[Omitted video\] Description: Customize the Next Experience keyboard shortcuts
 
 ## Procedure
 
@@ -65,6 +65,3 @@ Learn more about customizing keyboard shortcuts from the following tutorial:
 
 The keyboard shortcut is saved and ready to use.
 
-## Related
-
-- [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]

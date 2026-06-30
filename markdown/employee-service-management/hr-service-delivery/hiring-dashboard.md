@@ -14,7 +14,7 @@ breadcrumb: [Use, Hiring tab, Hiring Experiences, HR Service Delivery, Employee 
 
 # Hiring tab
 
-The hiring tab works as the source of truth for the [[hiring-tab-concept|hiring]] manager.
+The hiring tab works as the source of truth for the hiring manager.
 
 The hiring tab helps the hiring managers track the requests raised by them from the My job requests section.
 
@@ -26,6 +26,3 @@ It also lists out all the job requisition by Job Title, Recruiter, State, and La
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

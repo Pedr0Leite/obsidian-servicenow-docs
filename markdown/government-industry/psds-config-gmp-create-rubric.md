@@ -55,8 +55,5 @@ An ownership group reviews and approves the article. Once approved, it can be pu
 
 All knowledge articles are available for selection under both the Rubric section of the Merit Review activity, as well as the Article number section of the Resources and support activity, once the Knowledge article resource type is selected.
 
-**Parent Topic:**[[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]]
+**Parent Topic:**[Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-scoring-framework.md)
 
-## Related
-
-- [[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]]

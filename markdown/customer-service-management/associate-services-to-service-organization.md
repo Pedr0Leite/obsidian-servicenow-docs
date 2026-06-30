@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Associate service organizations with a service
 
-Associate your service organizations with a service by using the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. With this association, your service organization \(SO\) staff can address customer queries for products and services offered at the business location and can raise a case on the behalf of the customer.
+Associate your service organizations with a service by using the Customer Service Management \(CSM\) application. With this association, your service organization \(SO\) staff can address customer queries for products and services offered at the business location and can raise a case on the behalf of the customer.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ An SO can have multiple services associated with it. A service-to-service organi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **[[csm-service-definitions|Service Definitions]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **Service Definitions**.
 
 2.  Select a service definition.
 
@@ -56,7 +56,7 @@ Reference
 
 Criteria to define the service organizations that provide the service.
 
- **Note:** For more information about the criteria for the service organization, see [[create-service-organization-criteria|Create the criteria for a service organization]].
+ **Note:** For more information about the criteria for the service organization, see [Create the criteria for a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-service-organization-criteria.md).
 
 </td></tr><tr><td>
 
@@ -93,8 +93,4 @@ Check box to activate or deactivate the organization criteria.
 
     The organization criteria are added to the Organizations offering Service related list.
 
-## Related
 
-- [[create-service-organization-criteria|Create the criteria for a service organization]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-service-definitions|Service definitions]]

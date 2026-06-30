@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -32,7 +32,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
     -   View the contract document by accessing **Contract documents** tab.
     -   View the supporting documents by accessing the **Supporting documents** tab.
-    -   Track the request's activities and post messages for the fulfiller working on it by accessing the **[[activity-lxp|Activity]]** tab.
+    -   Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
     -   View the list of signatories and their details by accessing the **Signatories** tab.
     -   View the details of the third-party contract review by accessing the **Request Details** tab.
 
@@ -42,7 +42,3 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 **Parent Topic:**[Third-party contract review requests]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

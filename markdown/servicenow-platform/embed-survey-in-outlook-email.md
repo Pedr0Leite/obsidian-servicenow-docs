@@ -12,13 +12,13 @@ breadcrumb: [Survey distribution, Survey administration, Use surveys, Surveys, A
 
 # Embed a survey within the Outlook email client
 
-Embed an interactive survey in the [[email|email]] notification sent to a user. The user can answer the [[c_SurveyQuestion|survey questions]] and submit the survey from the email client instead of opening the survey in a new browser tab.
+Embed an interactive survey in the email notification sent to a user. The user can answer the survey questions and submit the survey from the email client instead of opening the survey in a new browser tab.
 
 ## Before you begin
 
 Role required: admin or survey\_admin
 
-The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(sn\_ms\_oam\) should be activated.
+The Outlook Actionable Messages plugin \(sn\_ms\_oam\) should be activated.
 
 **Note:**
 
@@ -39,9 +39,9 @@ The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(sn\_ms\
 
     This script includes the Outlook actionable message in the email notification sent to the user.
 
-3.  Navigate to **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**, and open a survey.
+3.  Navigate to **Survey** &gt; **View Surveys**, and open a survey.
 
-4.  To send an email notification to the survey user, select the **Send notifications** [[check-box|check box]].
+4.  To send an email notification to the survey user, select the **Send notifications** check box.
 
 5.  Select the **Outlook Actionable Message** check box and save the survey.
 
@@ -53,20 +53,20 @@ The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(sn\_ms\
     -   Two duplicate choice display values should not be used as the internal value may not be submitted incorrectly.
     -   The answer for String type question can be validated based on the option selected in the Field Validation field. For example, if you select the option as email address, then the answer entered can only be in the email-id format. Answers in any other format will not be accepted.
     -   The version of Microsoft Outlook does not support the following question types to create an embedded survey:
-        -   [[attachment|Attachment]]
-        -   [[reference|Reference]]
+        -   Attachment
+        -   Reference
         -   Ranking
     -   Dependent questions are not supported.
     -   Signature is not supported.
     -   Mandatory questions are supported.
-    In both the Platform UI and [[c_SurveyDesigner|Survey Designer]], a validation is run to ensure all survey questions are supported.
+    In both the Platform UI and Survey Designer, a validation is run to ensure all survey questions are supported.
 
 6.  Click **Assign Survey** and assign the survey to a user.
 
     An email notification with the embedded survey is sent to the user. The user can take the survey and submit it from the email client instead of opening the survey in a new browser tab.
 
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -87,17 +87,5 @@ The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(sn\_ms\
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[c_SurveyDistribution|Survey distribution]]
-- [[email|Email]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[outlook-actionable-messages|Outlook Actionable Messages]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]
-- [[reference|Reference]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[c_Collaboration|Connect Chat]]

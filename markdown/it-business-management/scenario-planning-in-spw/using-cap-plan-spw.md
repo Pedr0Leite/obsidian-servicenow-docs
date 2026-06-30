@@ -14,9 +14,9 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Planning user capacity in Strategic Planning Workspace
 
-Assess the resource capacity and review existing allocations, which help you to make informed decisions while working on assigning resources in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Assess the resource capacity and review existing allocations, which help you to make informed decisions while working on assigning resources in Strategic Planning.
 
-Use the [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-rsrc-cap-spw.md) screen to [[manage-rsrc-cap-pp|generate resource capacity]] details.
+Use the [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-rsrc-cap-spw.md) screen to generate resource capacity details.
 
 Use the [Capacity screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/using-cap-planning-screen-spw.md) to view detailed information about the resource capacity mapping to a portfolio.
 
@@ -97,7 +97,3 @@ Consider the same group for which resource manager creates an operation resource
 
 \[Omitted image "cp-operational-rsrc-asgnmnt.png"\] Alt text: Capacity view showing Operational work in a red highlight box.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[manage-rsrc-cap-pp|Generate resource capacity]]

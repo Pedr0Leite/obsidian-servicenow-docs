@@ -14,7 +14,7 @@ breadcrumb: [Collect data for Platform Analytics Solutions, Platform Analytics s
 
 # Schedule data collection for a Platform Analytics Solution
 
-Enable the periodic data collection job for your [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution. Check that the time that it runs is correct.
+Enable the periodic data collection job for your Platform Analytics Solution. Check that the time that it runs is correct.
 
 Prerequisites
 :   [Run historical data collection for a Platform Analytics Solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/historical-data-nowintel-solution.md)
@@ -43,7 +43,7 @@ Every Platform Analytics Solution includes a periodic [data collection job](http
 
 4.  Ensure that the user specified in the **Run as** field exists.
 
-    If you are using domain separation, you collect records only from domains that the **Run as** user can view. However, the [[access-control|access control]] list permissions of the **Run as** user do not affect data collection.
+    If you are using domain separation, you collect records only from domains that the **Run as** user can view. However, the access control list permissions of the **Run as** user do not affect data collection.
 
 5.  Verify that the **Run As tz** time zone is appropriate for your company.
 
@@ -61,7 +61,7 @@ Every Platform Analytics Solution includes a periodic [data collection job](http
 
 ## Result
 
-After the next collection period, the dashboards and [[widgets|widgets]] should show scores from that period.
+After the next collection period, the dashboards and widgets should show scores from that period.
 
 ## What to do next
 
@@ -71,16 +71,10 @@ Check the **Job Logs** to see if the job ran successfully after the next period.
 
 **Previous topic:**[Run historical data collection for a Platform Analytics Solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/historical-data-nowintel-solution.md)
 
-**Next topic:**[[automation-discovery|Automation Discovery]]
+**Next topic:**[Automation Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/automation-discovery.md)
 
 **Related topics**  
 
 
 [Create or schedule a data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreatASchedDataCollJob.md)
 
-## Related
-
-- [[automation-discovery|Automation Discovery]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[access-control|Access control]]
-- [[widgets|Widgets]]

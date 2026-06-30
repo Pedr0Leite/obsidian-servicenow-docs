@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Definitions** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Definitions** &gt; **All**.
 
 2.  Select the test definition that you want to open.
 
@@ -67,6 +67,4 @@ Auto-populated name of the test definition for which you’re defining the chara
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[stm-landing-page|Service Test Management]]

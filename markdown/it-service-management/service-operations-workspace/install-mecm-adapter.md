@@ -14,7 +14,7 @@ breadcrumb: [Setting up investigation framework using Microsoft Endpoint Configu
 
 # Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation
 
-You can install the Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they aren’t already installed.
+You can install the Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ For more information, see [Components installed with Microsoft Endpoint Configur
 
 **Parent Topic:**[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate-fw-mecm.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

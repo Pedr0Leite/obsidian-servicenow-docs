@@ -24,7 +24,7 @@ Role required: agent\_client\_collector\_admin
 
 1.  To limit metrics collection and evaluation for specific CIs:
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Anomaly Detection** &gt; **Metric to CI**.
+    1.  Navigate to **Event Management** &gt; **Anomaly Detection** &gt; **Metric to CI**.
 
         The **Metric to CI Mappings** page appears.
 
@@ -44,6 +44,4 @@ Role required: agent\_client\_collector\_admin
 
     2.  To prevent sending metrics for a metric type, set the value of the **Active** column to **false**.
 
-## Related
 
-- [[c_EM|Event Management]]

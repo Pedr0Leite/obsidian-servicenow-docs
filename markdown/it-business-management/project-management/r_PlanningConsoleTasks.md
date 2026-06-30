@@ -14,11 +14,11 @@ breadcrumb: [Using Planning console - Legacy, Using Project Management, Project 
 
 # Planning console tasks
 
-You can perform several tasks on the planning console that you can perform on lists and [[form-field-information-for-dw|forms]], such as creating [[t_CreateAProjectTask|project tasks]] and copying projects. You can also perform several tasks unique to the console.
+You can perform several tasks on the planning console that you can perform on lists and forms, such as creating project tasks and copying projects. You can also perform several tasks unique to the console.
 
 |Task|Steps|
 |----|-----|
-|Display a project in the planning console|Select the project from the list in the [[project-workspace-landing-page|project workspace]] banner.|
+|Display a project in the planning console|Select the project from the list in the project workspace banner.|
 
 <table id="table_m3q_lsy_fdc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Edit a task record
 
 </td><td>
 
-Right-click a task and select **Edit**. The [[project-task-form|Project Task form]] appears in the overlay. You can also edit a field directly in one of the columns in the planning console. You can also edit project tasks that represent phases in the project workbench.
+Right-click a task and select **Edit**. The Project Task form appears in the overlay. You can also edit a field directly in one of the columns in the planning console. You can also edit project tasks that represent phases in the project workbench.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Add an agile phase or a test phase
 
 Right-click a project and select **Add Agile Phase** or **Add Test Phase**. The agile phase icon or test phase icons appear next to the task in the **Name** column. See [phase icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_GanttChart.md). **Note:**
 
--   The **Add Agile Phase** option is available only for Agile and Hybrid projects. You must also have the [[agile-landing-page|Agile Development 2.0]] plugin installed.
+-   The **Add Agile Phase** option is available only for Agile and Hybrid projects. You must also have the Agile Development 2.0 plugin installed.
 -   You can add multiple agile phases and multiple test phases to a project.
 -   You can add only one test phase for a test plan in a project. You must have the Test Management plugin installed to view the **Add Test Phase** option.
 -   An agile phase cannot overlap another agile phase for an assignment group in a project.
@@ -102,15 +102,15 @@ Right-click a task \(a task that represents a phase in the workbench\) and then 
 
 </td></tr><tr><td>
 
-[[t_CancelAResourcePlan|Cancel a resource plan]] for a Closed project
+Cancel a resource plan for a Closed project
 
 </td><td>
 
-Right-click the project and select **Cancel [[c_ResourcePlans|Resource Plans]]**. All past and future allocations for the selected [resource plan are canceled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/cancel-resource-plan-from-project-or-demand.md).The option is available only for a project in any of the Closed states.
+Right-click the project and select **Cancel Resource Plans**. All past and future allocations for the selected [resource plan are canceled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/cancel-resource-plan-from-project-or-demand.md).The option is available only for a project in any of the Closed states.
 
 </td></tr><tr><td>
 
-[[t_CloseAResourcePlan|Complete a resource plan]] for a Closed project
+Complete a resource plan for a Closed project
 
 </td><td>
 
@@ -324,7 +324,7 @@ Show weekends on the calendar
 
 </td><td>
 
-Select the more options icon, and then select the **Show Weekends** switch. The weekends appear as light-blue vertical bars in the [[c_GanttChart|Gantt chart]].
+Select the more options icon, and then select the **Show Weekends** switch. The weekends appear as light-blue vertical bars in the Gantt chart.
 
 </td></tr><tr><td>
 
@@ -377,7 +377,7 @@ Select the more options icon, and then select **Show live feed**.
 
 </td></tr><tr><td>
 
-[[t_ExportAProjectWithTheProjectForm|Export project data]] in MPP, CSV, or XML format
+Export project data in MPP, CSV, or XML format
 
 </td><td>
 
@@ -400,15 +400,3 @@ Select the more options icon, and then select **Print**.**Note:**
 
 [Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[project-task-form|Project task form]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[t_CancelAResourcePlan|Cancel a resource plan]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CloseAResourcePlan|Complete a resource plan]]
-- [[c_GanttChart|Gantt chart]]
-- [[t_ExportAProjectWithTheProjectForm|Export project data]]

@@ -19,7 +19,7 @@ Use the Create New Knowledge form to provide details about the knowledge base ar
 |Field|Description|
 |-----|-----------|
 |Number|System-generated unique identifier for the knowledge base article.|
-|Knowledge base|Knowledge base to which this article belongs, such as [[fin-case-mgmt-landing-page|Finance Case Management]] Knowledge Base.|
+|Knowledge base|Knowledge base to which this article belongs, such as Finance Case Management Knowledge Base.|
 |Category|Category of the article. Use the category picker to select an existing category or subcategory.|
 |Scheduled publish date|Future date on which the article is published automatically. If approvals are enabled, the approval process must be completed before this date.|
 |Valid to|Validity of the article.|
@@ -47,6 +47,3 @@ Use the Create New Knowledge form to provide details about the knowledge base ar
 
 [Email notifications from Finance Case Management]()
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

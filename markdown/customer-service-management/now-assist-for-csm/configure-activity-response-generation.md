@@ -70,7 +70,7 @@ Use the Now Assist Admin console for configuring the activity response generatio
 
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
-7.  Toggle **Select display** to determine if activity response generation skill appears in In-product desktop, displaying Now Assist skills on [[migration-forms|forms]] and workspaces.
+7.  Toggle **Select display** to determine if activity response generation skill appears in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
     Additionally, verify the sn\_customerservice\_agent or sn\_customerservice.consumer\_agent  role you configured in the previous step.
 
@@ -90,6 +90,3 @@ Use the Now Assist Admin console for configuring the activity response generatio
 
 [Generate activity stream responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/generate-a-recommendation-to-respond-to-an-activity.md)
 
-## Related
-
-- [[migration-forms|Forms]]

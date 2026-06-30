@@ -31,7 +31,7 @@ Indexed
 
 </td><td>
 
-Score shows the total number of new and updated items that were successfully processed by the content crawl and are included in the [[ia-ai-search|AI Search]] index.
+Score shows the total number of new and updated items that were successfully processed by the content crawl and are included in the AI Search index.
 
 </td></tr><tr><td>
 
@@ -100,6 +100,3 @@ Score shows the total number of items that were processed during the content cra
 
 **Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

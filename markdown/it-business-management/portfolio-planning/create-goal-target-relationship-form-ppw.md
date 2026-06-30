@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create goal/target relationship form
 
-The [[goal-relationship-form|goal/target relationship form]] information is used to create a relationship between a goal and a demand.
+The goal/target relationship form information is used to create a relationship between a goal and a demand.
 
 <table id="table_irz_1dp_c3c"><thead><tr><th>
 
@@ -126,7 +126,3 @@ Category of the goal. The available options are: -   Total Applications
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[goal-relationship-form|Goal/Target Relationship form]]

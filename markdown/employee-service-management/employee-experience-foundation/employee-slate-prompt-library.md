@@ -15,7 +15,7 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 # Employee Slate prompt library
 
-Example natural-language prompts that you can use across [[employee-slate-landing-page|Employee Slate]] features. Use these prompts in the home page chat bar, the full-page conversation view, or the contextual assistant on any page.
+Example natural-language prompts that you can use across Employee Slate features. Use these prompts in the home page chat bar, the full-page conversation view, or the contextual assistant on any page.
 
 ## About prompt library
 
@@ -43,8 +43,8 @@ For more information, see [Employee Slate for Now Assist](https://raw.githubuser
 |Category|Example prompts|
 |--------|---------------|
 |Approval-focused|"Show my pending approvals." / "What needs my approval?" / "Pull up my approval queue." / "Show approvals waiting more than three days." / "List my overdue tasks" / "Show my critical items" /|
-|Task-focused|"List my overdue tasks." / "What tasks do I have due today?" / "Show completed tasks." / / "Sort tasks by priority." "Show [[overview-lxp|my learning]] tasks" / "Show my IT requests" / "Show my HR requests"/ "What happened to my expense claim?" / "Show my closed requests" / What requests have I submitted?|
-|Tasks and requests navigation|"Open [[emp-slate-inbox|Tasks and requests]]." / "Show only unread items." / "Filter Tasks and requests by Now Assist actions." / "Clear all notifications I've already seen."|
+|Task-focused|"List my overdue tasks." / "What tasks do I have due today?" / "Show completed tasks." / / "Sort tasks by priority." "Show my learning tasks" / "Show my IT requests" / "Show my HR requests"/ "What happened to my expense claim?" / "Show my closed requests" / What requests have I submitted?|
+|Tasks and requests navigation|"Open Tasks and requests." / "Show only unread items." / "Filter Tasks and requests by Now Assist actions." / "Clear all notifications I've already seen."|
 
 ## Notifications
 
@@ -58,7 +58,7 @@ For more information, see [Employee Slate for Now Assist](https://raw.githubuser
 |Category|Example prompts|
 |--------|---------------|
 |Org chart|"Show me my org chart." / "Who reports to Maria Lopez?" / "Find a person named Aaron Patel." / "Show me the people on the platform team."|
-|Profile updates|"Open my [[emp-slate-employee-profile|employee profile]]." / "Update my work location to Hyderabad." / "Add my emergency contact." / "Change my preferred name."|
+|Profile updates|"Open my employee profile." / "Update my work location to Hyderabad." / "Add my emergency contact." / "Change my preferred name."|
 
 ## Employee communications
 
@@ -122,13 +122,6 @@ The following patterns work across multiple features. Use them when you don't kn
 -   Start with a verb, such as `Show`, `Find`, `Approve`, `Schedule`, or `Update`.
 -   Include the object ID, such as `request`, `approval`, `article`, or `meeting`.
 -   Add a filter when the result set could be large, such as `today`, `this week`, `by team`, or `by priority`.
--   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] the page you're on for contextual actions, such as "approve this" or "update this ticket".
+-   Reference the page you're on for contextual actions, such as "approve this" or "update this ticket".
 -   Ask follow-up questions in the same chat to refine results. The assistant retains conversation context across turns.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[overview-lxp|My Learning]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

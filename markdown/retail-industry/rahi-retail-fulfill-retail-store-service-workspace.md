@@ -12,7 +12,7 @@ breadcrumb: [Manage store inquiries, Retail]
 
 # Resolve a store inquiry support request from workspace
 
-Resolve a [[rahi-retail-retail-store-services|store inquiry case]] with a resolution from your workspace.
+Resolve a store inquiry case with a resolution from your workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_rtl\_stre\_servcs.agent or sn\_rtl\_stre\_servcs.agent\_manag
 
 ## Procedure
 
-1.  Navigate to **Lists** &gt; **[[rahi-retail-operations-overview|Retail]] Store Inquiry Cases** &gt; **All**.
+1.  Navigate to **Lists** &gt; **Retail Store Inquiry Cases** &gt; **All**.
 
 2.  Open your cases by selecting **My Open Cases**.
 
@@ -38,10 +38,5 @@ Role required: sn\_rtl\_stre\_servcs.agent or sn\_rtl\_stre\_servcs.agent\_manag
     |**Resolution notes**|Note about the resolution.|
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-operations-overview|Retail]]

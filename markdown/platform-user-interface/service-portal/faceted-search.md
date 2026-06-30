@@ -18,7 +18,7 @@ The Faceted Search widget displays search results and search facets defined for 
 
 ## Using the widget
 
-You can use facet [[c_Filters|filters]] to refine your search in [[c_ServicePortal|Service Portal]]. For example, you can view only knowledge article search results by selecting the **Knowledge** source facet bucket. Or, to filter search results by certain knowledge categories, you can select one or more facets.
+You can use facet filters to refine your search in Service Portal. For example, you can view only knowledge article search results by selecting the **Knowledge** source facet bucket. Or, to filter search results by certain knowledge categories, you can select one or more facets.
 
 \[Omitted image "faceted-search-widget.png"\] Alt text: Filter for faceted Search widget showing "email" search results with available facet filters
 
@@ -32,7 +32,7 @@ For more information on configuring the available facets, see [Create a facet in
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Faceted Search widget for a portal page.
+Use the instance options to configure the Faceted Search widget for a portal page.
 
 <table id="table_rm5_ksh_zz"><thead><tr><th>
 
@@ -76,7 +76,7 @@ Typeahead Search - Glyph
 
 </td><td>
 
-Icon that appears in the search field beside the widget. The search icon is the default. To use a different icon, type the name of the icon in the field, for example `search-plus`. For a list of icons to choose from, open the instance options for the [[icon-link-widget|Icon Link widget]].
+Icon that appears in the search field beside the widget. The search icon is the default. To use a different icon, type the name of the icon in the field, for example `search-plus`. For a list of icons to choose from, open the instance options for the Icon Link widget.
 
 </td></tr><tr><td>
 
@@ -156,9 +156,3 @@ Text that appears in the search box before the user enters anything. By default,
 
 [Clone a widget]()
 
-## Related
-
-- [[c_Filters|Filters]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[icon-link-widget|Icon Link widget]]

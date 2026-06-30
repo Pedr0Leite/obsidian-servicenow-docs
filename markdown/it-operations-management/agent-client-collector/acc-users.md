@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector user roles
 
-Administrators can assign user roles to grant access to the [[acc-landing-page|Agent Client Collector]]. The following standard roles for the Agent Client Collector Framework \(ACC-F\) are included in the ServiceNow system with the Agent Client Collector installed on it.
+Administrators can assign user roles to grant access to the Agent Client Collector. The following standard roles for the Agent Client Collector Framework \(ACC-F\) are included in the ServiceNow system with the Agent Client Collector installed on it.
 
 <table id="table_ih3_r3y_fkb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ agent\_client\_collector\_user
 
 </td><td>
 
--   View [[checks-policies|checks and policies]]
+-   View checks and policies
 -   Access to some REST APIs
 
 </td></tr><tr><td>
@@ -62,7 +62,3 @@ Starts the ACC listener.
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

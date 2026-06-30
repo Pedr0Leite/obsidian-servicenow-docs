@@ -26,7 +26,7 @@ When the approval process is enabled, an EDL entry is not activated or deactivat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **[[threat-analyst-workbench|Threat Analyst Workbench]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Analyst Workbench**.
 
 2.  Drill down to **PAN NGFW** section and select the EDL record for approval.
 
@@ -72,7 +72,3 @@ On the entry record, the Status field changes to **Rejected**, and the **Active*
 
 **Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/palo-alto-networks-integration.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

@@ -14,9 +14,9 @@ breadcrumb: [Industry-specific EAM solutions, Enterprise Asset Management, IT As
 
 # Enterprise Asset Management for Healthcare
 
-The Enterprise Asset Management for Healthcare application is a licensable application that on activation enables you to manage healthcare-specific [[c_Models|models]], assets, and workflows.
+The Enterprise Asset Management for Healthcare application is a licensable application that on activation enables you to manage healthcare-specific models, assets, and workflows.
 
-The Enterprise Asset Management for Healthcare \(com.sn\_eamhc\) application is available on the ServiceNow Store. When you install this application on your ServiceNow instance, the [[enterprise-asset-management|Enterprise Asset Management]] application also gets installed. For more information, see [Installed with Enterprise Asset Management for Healthcare](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/installed-with-eam-healthcare.md).
+The Enterprise Asset Management for Healthcare \(com.sn\_eamhc\) application is available on the ServiceNow Store. When you install this application on your ServiceNow instance, the Enterprise Asset Management application also gets installed. For more information, see [Installed with Enterprise Asset Management for Healthcare](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/installed-with-eam-healthcare.md).
 
 This application provides functionalities, features, and workflows of Enterprise Asset Management that support healthcare-related roles and asset models.
 
@@ -32,14 +32,9 @@ The user role components, plugins, and applications are installed with activatio
 
 [OT Asset Management]()
 
-[Enterprise [[am-landing-page|Asset Management]] for Data Center and Network Asset Management \(DCNAM\)]()
+[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]()
 
 [Enterprise Asset Management for Providers]()
 
 [Exploring Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/exploring-eam.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[am-landing-page|Asset Management]]

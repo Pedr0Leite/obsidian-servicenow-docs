@@ -32,10 +32,6 @@ Sales managers own the overall forecast for a group of sales representatives. Sa
 
 The following topics provide more information about configuring and using Sales Forecasting:
 
--   [[configure-sales-forecasting|Configure Sales Forecasting]]
--   [[using-sales-forecasting|Using Sales Forecasting]]
+-   [Configure Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-forecasting.md)
+-   [Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-## Related
-
-- [[configure-sales-forecasting|Configure Sales Forecasting]]
-- [[using-sales-forecasting|Using Sales Forecasting]]

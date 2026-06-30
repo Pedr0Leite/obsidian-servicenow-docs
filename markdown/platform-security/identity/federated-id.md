@@ -14,7 +14,7 @@ breadcrumb: [Global Identity, Identity]
 
 # Exploring Federated ID
 
-The ServiceNow® [[identity-landing|Identity]] system deduplicates [[users|users]] across multiple instances using their User ID and [[email|email]], and assigns each resolved user a unique Federated ID for consistent identification.
+The ServiceNow® Identity system deduplicates users across multiple instances using their User ID and email, and assigns each resolved user a unique Federated ID for consistent identification.
 
 With Federated ID, you can accurately calculate the number of unique users across instances, which is useful for licensing and user management. For more information, see [Federated ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/federated-id.md).
 
@@ -25,7 +25,7 @@ With the user’s **User ID** and **Email** \(default setting\) to identify and 
 **Note:**
 
 -   **User ID** is required for generating Federated IDs. If the user name is null or empty, then the Federated ID is null.
--   **User ID** and **Email** are used to generate Federated IDs by default. To configure the fields used for generating Federated IDs based on your requirements, see [Updating ID fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/updating-id-fields.md). The**Iamsync\_admin** role is required to update the [[sc-configuration|configuration]].
+-   **User ID** and **Email** are used to generate Federated IDs by default. To configure the fields used for generating Federated IDs based on your requirements, see [Updating ID fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/updating-id-fields.md). The**Iamsync\_admin** role is required to update the configuration.
 -   If multiple users share the same username and email, the system generates a Federated ID for only one of the users.
 
 \[Omitted image "federated-id-sys.png"\] Alt text: Federated ID in sys\_user table
@@ -37,9 +37,3 @@ After upgrading to the Australia release, the Federated ID Generation \(**com.gl
 
 Federated ID is only supported for the **sys\_user** table and all the tables that extend the **sys\_user** table.
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]

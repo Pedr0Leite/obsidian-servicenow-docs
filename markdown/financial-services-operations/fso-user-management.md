@@ -32,7 +32,7 @@ Configure the individual users and the user groups who can access your instance.
 
 </td></tr><tr><td>
 
-[[fso-core-roles|User roles and FSO Business rules]]
+[User roles and FSO Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-roles.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Assign roles to individual users and user groups to control access to features, 
 
 </td></tr><tr><td>
 
-[[fso-combine-csm-industry-roles|Roles and Personas]]
+[Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md)
 
 </td><td>
 
@@ -98,8 +98,3 @@ Configure customer access management to support multiple contacts and consumers 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-core-roles|User roles and FSO Business rules]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]

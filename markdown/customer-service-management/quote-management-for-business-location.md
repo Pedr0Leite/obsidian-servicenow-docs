@@ -130,11 +130,7 @@ Boolean
 </table>**Related topics**  
 
 
-[[personas-roles-and-tables-post-integration|Roles and responsibilities]]
+[Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration.md)
 
-[[activate-quote-management-for-business-locations|Activate Quote Management for Business Locations]]
+[Activate Quote Management for Business Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-quote-management-for-business-locations.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration|Roles and responsibilities]]
-- [[activate-quote-management-for-business-locations|Activate Quote Management for Business Locations]]

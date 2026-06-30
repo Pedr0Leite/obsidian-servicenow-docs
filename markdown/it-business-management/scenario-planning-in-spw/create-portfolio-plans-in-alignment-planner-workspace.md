@@ -15,7 +15,7 @@ breadcrumb: [Manage portfolio plans, Portfolio Planning in Strategic Planning Wo
 
 # Create a portfolio plan
 
-Use lens and build a personalized portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace so that you can start to prioritize and align work.
+Use lens and build a personalized portfolio plan in Strategic Planning Workspace so that you can start to prioritize and align work.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 ## About this task
 
-Use a four-step wizard to select a lens, add conditions to filter the planning items that you need, and enter additional details to [[create-portfolio-plan-in-portfolio-planning-workspace|create a portfolio plan]].
+Use a four-step wizard to select a lens, add conditions to filter the planning items that you need, and enter additional details to create a portfolio plan.
 
 \(For Enterprise Architecture Workspace users only\) You must install Enterprise Architecture Workspace to create a portfolio plan using the Business Capability lens. You must have the sn\_apm.apm\_user role to create a portfolio plan using the Business Capability lens.
 
@@ -31,7 +31,7 @@ This task guides you on creating a regular work item-level portfolio plan. To cr
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the Portfolio Plans page, select **New**.
 
@@ -51,7 +51,7 @@ This task guides you on creating a regular work item-level portfolio plan. To cr
 
         You can further filter the planning item data with additional conditions.
 
-        For example, to plan and [[t_SDLCPPSTrackProgress|track progress]] for all HR projects created this year, select **Project** as your planning item and add a condition to filter all the HR projects created this year.
+        For example, to plan and track progress for all HR projects created this year, select **Project** as your planning item and add a condition to filter all the HR projects created this year.
 
         You can also add multiple conditions to set a complex filter and add the right planning items to your portfolio plan.
 
@@ -67,7 +67,7 @@ This task guides you on creating a regular work item-level portfolio plan. To cr
 
     5.  Select a scoring framework using the drop-down values or from the Scoring framework window.
 
-        To [[create-a-custom-scoring-framework|create a custom scoring framework]] for your portfolio plan, select **Explore scoring frameworks**.\[Omitted image "scoring.png"\] Alt text: Select a scoring framework for your portfolio plan.
+        To create a custom scoring framework for your portfolio plan, select **Explore scoring frameworks**.\[Omitted image "scoring.png"\] Alt text: Select a scoring framework for your portfolio plan.
 
     You can use **Previous** and **Next** to navigate between the steps.
 
@@ -85,20 +85,11 @@ Planning items that meet the following criteria appear in the portfolio plan:
 -   Planning items with an approved start date or an end date that falls within the portfolio plan timeline
 -   Planning items that don't have both Approved start and Approved end dates
 
-**Note:** If any demands were converted into projects in [[c_ProjectPortfolioSuite|Project Portfolio Management]], only the resulting project planning items \(converted from demands\) appear in the portfolio plan.
+**Note:** If any demands were converted into projects in Project Portfolio Management, only the resulting project planning items \(converted from demands\) appear in the portfolio plan.
 
 ## What to do next
 
 -   Define goals for your portfolio plan and align your work to them. See [Managing portfolio plan goals in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-goals-in-alignment-planner-workspace.md).
--   Analyze the backlog and [[prioritize-work-portfolio-planning-workspace|prioritize work]] for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md).
+-   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md).
 -   Show or hide features for your portfolio plan according to your requirement while sharing a portfolio plan with your stakeholders. See, [Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/show-or-hide-the-features-for-your-portfolio-plan-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[create-a-custom-scoring-framework|Create a custom scoring framework]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]

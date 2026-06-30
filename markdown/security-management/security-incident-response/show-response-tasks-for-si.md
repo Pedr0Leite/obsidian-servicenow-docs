@@ -42,7 +42,7 @@ Tasks
 
 </td><td>
 
-Displays tasks already defined for the security incident. You can manually [[create_response_task|create a response task]].
+Displays tasks already defined for the security incident. You can manually create a response task.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Email Search
 
 </td><td>
 
-A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [[email-search-capability|Security Operations Integration- Email Search and Delete capability]] is not active, the **Email Search** related link is not displayed.
+A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-search-capability.md) is not active, the **Email Search** related link is not displayed.
 
 </td></tr></tbody>
 </table>4.  Click any of the following related links to further update the security incident:
@@ -93,7 +93,4 @@ A list of records that holds search criteria to run queries on an email server, 
     -   [Show Enrichment Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-enrich-data-for-si.md)
 5.  When you have completed your entries, click **Submit**.
 
-## Related
 
-- [[email-search-capability|Security Operations Integration- Email Search and Delete capability]]
-- [[create_response_task|Create a Response Task]]

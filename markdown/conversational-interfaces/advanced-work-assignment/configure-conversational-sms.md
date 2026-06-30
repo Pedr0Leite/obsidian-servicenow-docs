@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Set up the Conversational SMS service channel
 
-Configure the [[conversation-sms-service-channel-store-app|Conversational SMS service channel]] store app.
+Configure the Conversational SMS service channel store app.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to the service channel settings through one of the following navigation paths.
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select the SMS service channel.
@@ -49,8 +49,4 @@ Role required: admin
 
 10. Select **Update**.
 
-## Related
 
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

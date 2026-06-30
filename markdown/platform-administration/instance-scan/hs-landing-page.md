@@ -14,7 +14,7 @@ breadcrumb: [Maintain and monitor, Administer the ServiceNow AI Platform]
 
 # Instance Scan
 
-Use ServiceNow® Instance Scan to interrogate your instance for [[clone-configurations-tab|configurations]] that indicate health issues and identify opportunities to address best practices. Instance Scan checks your existing configurations and helps you avoid creating future configuration issues. Instance Scan is a tool that can be used as a part of your development operations, release management as well as pre- and post-upgrades.
+Use ServiceNow® Instance Scan to interrogate your instance for configurations that indicate health issues and identify opportunities to address best practices. Instance Scan checks your existing configurations and helps you avoid creating future configuration issues. Instance Scan is a tool that can be used as a part of your development operations, release management as well as pre- and post-upgrades.
 
 ## Get started
 
@@ -28,11 +28,11 @@ Use ServiceNow® Instance Scan to interrogate your instance for [[clone-configur
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "icon-use.png"\] Alt text: Use [[hs-dashboard|Instance Scan dashboard]] for a system wide visual representation of the health of your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-dashboard.md)
+[Use \[Omitted image "icon-use.png"\] Alt text: Use Instance Scan dashboard for a system wide visual representation of the health of your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-dashboard.md)
 
 </td><td>
 
-[References \[Omitted image "uc-[[reference-email-admin|reference]]-icon.png"\] Alt text: Learn additional information about Instance Scan.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-references.md)
+[References \[Omitted image "uc-reference-icon.png"\] Alt text: Learn additional information about Instance Scan.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-references.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -40,8 +40,3 @@ Use ServiceNow® Instance Scan to interrogate your instance for [[clone-configur
 -   [Ask or answer questions about Instance Scan in the ServiceNow Community](https://www.servicenow.com/community/)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[hs-dashboard|Instance Scan dashboard]]
-- [[reference-email-admin|Reference]]

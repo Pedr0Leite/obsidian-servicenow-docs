@@ -14,22 +14,16 @@ breadcrumb: [TISC Security Tools integrations, TISC Integrations, Integrate, Thr
 
 # Microsoft Defender for EDR integration
 
-Integration with the Microsoft Defender for EDR allows Cyber [[threat-intel-landing-page|Threat Intelligence]] \(CTI\) analysts to automatically push malicious or suspicious IP addresses, domains, file hashes, and URLs to Microsoft Defender for continuous monitoring and real-time alerting.
+Integration with the Microsoft Defender for EDR allows Cyber Threat Intelligence \(CTI\) analysts to automatically push malicious or suspicious IP addresses, domains, file hashes, and URLs to Microsoft Defender for continuous monitoring and real-time alerting.
 
 -   **[Register and configure the Microsoft Defender in the Microsoft Azure portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/register-and-configure-the-microsoft-defender-in-the-microsoft-azure-portal.md)**  
 Register the Microsoft Defender EDR in the Microsoft Azure portal and grant the read and write access to the application.
 -   **[Install and configure Microsoft Defender for EDR Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defender-configure.md)**  
-[[configure-cortex-xsiam-siem|Install and configure]] the Microsoft Defender for EDR integration from the ServiceNow Store.
+Install and configure the Microsoft Defender for EDR integration from the ServiceNow Store.
 -   **[System properties for Microsoft Defender EDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-defender-sys-props.md)**  
-The following details the [[tisc-defender-sys-props|system properties for Microsoft Defender EDR]].
+The following details the system properties for Microsoft Defender EDR.
 -   **[Send observables to EDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defend-edr.md)**  
-Send [[c_Observables|observables]] to the EDR security tool.
+Send observables to the EDR security tool.
 
 **Parent Topic:**[TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[tisc-defender-sys-props|System properties for Microsoft Defender EDR]]
-- [[c_Observables|Observables]]

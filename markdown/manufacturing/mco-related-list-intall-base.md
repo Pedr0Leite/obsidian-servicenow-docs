@@ -12,19 +12,13 @@ breadcrumb: [Create an install base item, Set up Manufacturing Commercial Operat
 
 # Related list for an install base item
 
-In the [[manufacturing-overview|Manufacturing Commercial Operations]] application, you can use the Install base related list to track information that is related to the install base hierarchy, cases, entitlements, and other entities. By using these tables, you can understand your customers' purchases and provide efficient post-sales support.
+In the Manufacturing Commercial Operations application, you can use the Install base related list to track information that is related to the install base hierarchy, cases, entitlements, and other entities. By using these tables, you can understand your customers' purchases and provide efficient post-sales support.
 
 |Related list|Description|
 |------------|-----------|
-|[[mco-create-child-install-base-item|Create a child install base item]]|List of child install based items.|
-|[[create-a-sold-product|Create a installed product]]|List of sold products associated with the install base items.|
+|[Create a child install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-child-install-base-item.md)|List of child install based items.|
+|[Create a installed product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/create-a-sold-product.md)|List of sold products associated with the install base items.|
 ||List of entities, such as accounts, customers, or products|
 ||List of cases raised for an account, customer, or product.|
-|[[create-sold-product-covered|Create sold product or install base item for contract]]|List of sold products.|
+|[Create sold product or install base item for contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/create-sold-product-covered.md)|List of sold products.|
 
-## Related
-
-- [[mco-create-child-install-base-item|Create a child install base item]]
-- [[create-a-sold-product|Create a installed product]]
-- [[create-sold-product-covered|Create sold product or install base item for contract]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

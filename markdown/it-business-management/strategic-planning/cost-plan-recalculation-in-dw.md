@@ -18,10 +18,10 @@ Updating the unit cost, quantity, or fiscal period of a cost plan updates all re
 
 ## Unit cost, Quantity, and Recurring field changes
 
-When you modify these fields in the [[demand-plan-form|Cost Plan form]] with multicurrency view enabled, the following values are recalculated:
+When you modify these fields in the Cost Plan form with multicurrency view enabled, the following values are recalculated:
 
 -   **Total planned cost** in demand currency.
--   **Cost in demand currency** in the [[cost-plan-breakdown|Cost Plan Breakdown]].
+-   **Cost in demand currency** in the Cost Plan Breakdown.
 -   **Capital expense in demand currency**, **Operating expense in demand currency**, and **Total planned cost in demand currency** fields in the demand.
 
 ## Fiscal period changes
@@ -39,7 +39,3 @@ When you change the entered cost in an individual Cost Plan Breakdown record or 
 -   **Total planned cost** of the cost plan in demand currency.
 -   **Capital expense in demand currency**, **Operating expense in demand currency**, and **Total planned cost in demand currency** fields in the demand.
 
-## Related
-
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

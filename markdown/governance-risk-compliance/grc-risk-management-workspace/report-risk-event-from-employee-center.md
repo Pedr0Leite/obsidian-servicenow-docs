@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Events, Use, Risk Management, Governance, Risk, and Compli
 
 # Report a risk event from Employee Center
 
-When you identify any event that might have a financial or non financial impact on your organization, report it from the ServiceNow, Inc. [[employee-center|Employee Center]]. You can also report any event that has already occurred with a financial or non financial impact.
+When you identify any event that might have a financial or non financial impact on your organization, report it from the ServiceNow, Inc. Employee Center. You can also report any event that has already occurred with a financial or non financial impact.
 
 ## Before you begin
 
@@ -157,6 +157,3 @@ The risk event is submitted for review.
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[employee-center|employee center]]

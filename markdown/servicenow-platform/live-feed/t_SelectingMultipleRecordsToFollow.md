@@ -24,13 +24,10 @@ Role required: none
 
 1.  Navigate to a list of records \(for example, **Assigned to me**\).
 
-2.  Select the **Action** [[check-box|check box]] beside each record to follow.
+2.  Select the **Action** check box beside each record to follow.
 
 3.  In the **Actions** choice list, select **Follow on Live Feed**.
 
 
 **Parent Topic:**[Working with record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_WorkingWithRecordFeeds.md)
 
-## Related
-
-- [[check-box|Check box]]

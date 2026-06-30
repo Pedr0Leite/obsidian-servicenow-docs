@@ -26,9 +26,9 @@ Many-to-many relationships allow a list to point to a list of entries, rather th
 
 If a knowledge base article points to a list of related configuration items, it uses a related list. Not all lists can be used as related lists, however. For a list to be related to another list, a many-to-many relationship that refers to both tables must exist.
 
-The Many to Many [[clone-exclusions-preservers-cleanupscripts|Definitions]] `[sys_m2m]` table allows administrators to create custom many-to-many relationships.
+The Many to Many Definitions `[sys_m2m]` table allows administrators to create custom many-to-many relationships.
 
-Many-to-Many tables aren't considered [[custom-tables|custom tables]] and don't count toward your custom table allotment.
+Many-to-Many tables aren't considered custom tables and don't count toward your custom table allotment.
 
 ## Procedure
 
@@ -57,7 +57,3 @@ Some many-to-many relationships are defined by default.
 
 [Reference default many-to-many relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_RefDefaultManyToManyRels.md)
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[custom-tables|Custom tables]]

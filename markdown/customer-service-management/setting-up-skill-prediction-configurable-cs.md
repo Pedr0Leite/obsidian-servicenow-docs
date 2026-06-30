@@ -18,7 +18,7 @@ Collect skill data based on skills agents have used for case resolution. Use sup
 
 Set up skills. For more information, see [Skills Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management.md).
 
-Predictive [[intelligence-csm|Intelligence]] must be set up and configured on your instance to train the models. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence.md).
+Predictive Intelligence must be set up and configured on your instance to train the models. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence.md).
 
 Activate the Skill Recommendation application plugin \(com.snc.sre\) to use predictive intelligence for recommending skills.
 
@@ -26,7 +26,7 @@ Role required: sn\_sre.admin
 
 ## Procedure
 
-1.  Configure the [[components-installed-configurable-wfo-cs|properties for the Skill Recommendation application]].
+1.  Configure the [properties for the Skill Recommendation application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md).
 
 2.  Run the solution definition models such as **Recommend similar skills for cases** or **Recommend skills from similar cases** to train the supervised and unsupervised solutions.
 
@@ -39,11 +39,11 @@ Role required: sn\_sre.admin
     **Note:** Recommended skills will start appearing once the number of records in \[sn\_sre\_task\_predicted\_skill\] table exceeds the value defined in the \[sn\_sre.user\_predicted\_skill\_threshold\] [Components installed with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md).
 
 
-**Parent Topic:**[[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-coaching-configurable-wfo-cs.md)
 
 ## Use extension points for skill prediction
 
-Use scripted extension [[gamification-components-points|points]] to customize skill prediction for tasks.
+Use scripted extension points to customize skill prediction for tasks.
 
 ### Before you begin
 
@@ -69,9 +69,4 @@ Note that the Skill Recommendation extension point is included with the Skill Re
 
 5.  Click **Update**.
 
-## Related
 
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[gamification-components-points|Points]]

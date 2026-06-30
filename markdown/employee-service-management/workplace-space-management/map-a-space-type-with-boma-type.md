@@ -14,14 +14,14 @@ breadcrumb: [Manage, Workplace Space Management, Workplace Service Delivery, Emp
 
 # Map a space type with BOMA type
 
-Using [[workplace-space-mgmt-ovw|Workplace Space Management]], map a space type that you created using [[workplace-safety-mgmt-hr|Workplace Core]] with a BOMA type.
+Using Workplace Space Management, map a space type that you created using Workplace Core with a BOMA type.
 
 ## Before you begin
 
 Ensure the following:
 
 -   Space type is configured. To configure a space type, refer to [Add a space type configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-space-type-configuration-wsd.md).
--   BOMA type is configured. To [[configure-a-boma-type|configure a BOMA type]], refer to [Configure a BOMA type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-a-boma-type.md).
+-   BOMA type is configured. To configure a BOMA type, refer to [Configure a BOMA type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-a-boma-type.md).
 
 Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
@@ -77,7 +77,7 @@ The space type is mapped with a BOMA type. All the spaces that are assigned to t
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -85,9 +85,3 @@ The space type is mapped with a BOMA type. All the spaces that are assigned to t
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[configure-a-boma-type|Configure a BOMA type]]
-- [[space-assistance|Space assistance]]

@@ -15,7 +15,7 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Tax type fields
 
-Field descriptions for the Tax type form used to define and apply tax types to [[invoices|invoices]].
+Field descriptions for the Tax type form used to define and apply tax types to invoices.
 
 ## Tax type fields
 
@@ -39,7 +39,7 @@ Code
 
 </td><td>
 
-A unique tax code generated from the [[erp-source|ERP source]].
+A unique tax code generated from the ERP source.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,3 @@ The status of the tax type. By default the active check box is inactive.
 </td></tr></tbody>
 </table>**Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]

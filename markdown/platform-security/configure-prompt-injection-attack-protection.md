@@ -21,11 +21,11 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## About this task
 
-Now Assist Guardian detects and [[logs|logs]] prompt injection attempts across all generative AI applications and features on your instance. You can configure Now Assist Guardian to block the AI-generated response when an attack is detected.
+Now Assist Guardian detects and logs prompt injection attempts across all generative AI applications and features on your instance. You can configure Now Assist Guardian to block the AI-generated response when an attack is detected.
 
 Prompt injection detection is enabled by default for all Now Assist skills, except Platform and custom skills, which can be configured manually. The default action is block and log, with a medium severity threshold. When a skill has its own setting, Now Assist Guardian automatically applies the more protective of the two settings, the skill-level setting or the instance-level setting.
 
-You can [[export|export]] logs for review. For more information, see [[export-now-assist-guardian-logs|Export Now Assist Guardian logs]].
+You can export logs for review. For more information, see [Export Now Assist Guardian logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/export-now-assist-guardian-logs.md).
 
 ## Procedure
 
@@ -39,14 +39,14 @@ You can [[export|export]] logs for review. For more information, see [[export-no
 
 4.  In the **Choose an action when prompt injection is detected** section, select one of the following options to handle the detected attacks:
 
-    -   To log the [[c_requestAPI|request]] and conversation while keeping the model response visible to the user, select **Log the output**.
+    -   To log the request and conversation while keeping the model response visible to the user, select **Log the output**.
     -   To block the model response and log the request and conversation, select **Block the response and log the output**.
 5.  In the **Select the attack severity level to check for prompt injection** section, select a severity level to check for prompt injection.
 
     -   To flag even the slightest hints of injection or manipulation attempts, select **Low**.
     -   To flag clear or moderate prompt injection attempts, select **Medium**.
     -   To flag only high certainty prompt injection attempts, select **High**.
-6.  In the **Product-specific [[sc-configuration|configuration]] for skills** section, select the skill you want to configure.
+6.  In the **Product-specific configuration for skills** section, select the skill you want to configure.
 
     The Prompt injection for the selected skill page opens.
 
@@ -67,13 +67,5 @@ You can [[export|export]] logs for review. For more information, see [[export-no
 
 Prompt injection detection is configured on your instance for all generative AI workflows. Now Assist Guardian detects prompt injection attempts based on the severity level you selected and responds according to the action you configured. When a skill has its own setting, the more protective setting applies automatically.
 
-**Parent Topic:**[[now-assist-guardian|Now Assist Guardian]]
+**Parent Topic:**[Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md)
 
-## Related
-
-- [[export-now-assist-guardian-logs|Export Now Assist Guardian logs]]
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[logs|Logs]]
-- [[export|Export]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]

@@ -24,7 +24,7 @@ Role required: password\_reset\_admin
 
 -   The procedure described in this topic is optional for instances that are running on the `service-now.com` domain.
 -   Because on-premises instances do not have access to the Internet, they cannot use the Google reCAPTCHA service. Do not follow the procedure described in this topic. Instead, set the password\_reset.captcha.google.enabled system property to **false**. This setting enables the CAPTCHA service that is provided with the base system.
--   The [[win-password-reset-overview|Password Reset Windows Application]] uses the base-system CAPTCHA service even if the [[password-reset-landing-page|Password Reset]] application is configured to use Google reCAPTCHA.
+-   The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA.
 
 ## Procedure
 
@@ -97,14 +97,9 @@ Select reCAPTCHA v2, **I'm not a robot** option. \(reCAPTCHA v3 is not currently
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
 [Specify lockout for failed login attempts]()
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]

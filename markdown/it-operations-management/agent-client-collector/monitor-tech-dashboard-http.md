@@ -20,15 +20,15 @@ With the HTTP Monitoring Technology Dashboard you can monitor the response time 
 
 The HTTP Monitoring Technology Dashboard shows the five URLs with the highest metric readouts during the past six hours. The dashboard also shows the 50 most recent active alerts on those URLs.
 
-To view the dashboard, navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **Monitoring Technology Dashboards** and select **HTTP**.
+To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Monitoring Technology Dashboards** and select **HTTP**.
 
 ## Using the Monitoring Technology Dashboard for HTTP
 
 Before using the Monitoring Technology Dashboard for HTTP:
 
--   Ensure that you’re working in the [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] scope in your ServiceNow instance.
+-   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
--   Enable [[operational-metrics|Metric Intelligence]] on the MID Server.
+-   Enable Metric Intelligence on the MID Server.
 -   Ensure that the **HTTP Entry Points Events** and **HTTP Entry Points Metrics** policies are enabled.
 
     Enabling these policies activates metric to CI mapping.
@@ -53,8 +53,3 @@ You can customize the appearance of the individual widgets on the HTTP Monitorin
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-concept.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[operational-metrics|Metric Intelligence]]

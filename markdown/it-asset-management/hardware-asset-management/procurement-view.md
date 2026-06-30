@@ -14,7 +14,7 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # Procurement view
 
-Use the Procurement view in the [[using-ham-workspace|Hardware Asset Workspace]] to view and manage [[c_Procurement|procurement]]-related details such as procurement requests, purchase orders, sourcing tasks, and receiving slips.
+Use the Procurement view in the Hardware Asset Workspace to view and manage procurement-related details such as procurement requests, purchase orders, sourcing tasks, and receiving slips.
 
 The Procurement view provides access to actions for managing your open requests, pending purchase orders and transfer orders, and requests that need manager approval.
 
@@ -39,7 +39,3 @@ Select any widget or chart to view the details. You can also use **Location**, *
 
 [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Procurement|Procurement]]

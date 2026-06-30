@@ -91,7 +91,7 @@ Access all the connected content to the categories linked to the topic pages.
 
 ## What to do next
 
-Click **[[may-associate-updated-content-categories-topics|Check for updated content in categories]]** related link to see the content creation source.
+Click **Check for updated content in categories** related link to see the content creation source.
 
 \[Omitted image "connected-content-tab.png"\] Alt text: Creation source list of Connected Content tab in a Topic
 
@@ -106,6 +106,3 @@ Track and manage the updated content in categories for better visibility, conten
 
 **Parent Topic:**[Taxonomy and connected content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/track-new-content.md)
 
-## Related
-
-- [[may-associate-updated-content-categories-topics|Check for updated content in categories]]

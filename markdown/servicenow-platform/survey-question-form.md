@@ -36,7 +36,7 @@ Question
 
 </td><td>
 
-Text to use for the question, which appears on [[c_SurveyQuestionnairesForUsers|survey questionnaires]].
+Text to use for the question, which appears on survey questionnaires.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Randomize answers
 
 </td><td>
 
-[[check-box|Check box]] that determines whether to present the answer options for this question in a random order each time a user opens the survey. Answer preference is sometimes influenced by the order in which answer options appear, which can result in biased results. Randomize answer options to help prevent this bias.This field is visible only if the data type is **Choice** or **Likert Scale**.
+Check box that determines whether to present the answer options for this question in a random order each time a user opens the survey. Answer preference is sometimes influenced by the order in which answer options appear, which can result in biased results. Randomize answer options to help prevent this bias.This field is visible only if the data type is **Choice** or **Likert Scale**.
 
  **Note:** Randomizing answer options may make a question confusing. In general, only randomize answer options that do not follow a logical order.
 
@@ -88,7 +88,7 @@ Allow not applicable
 
 </td><td>
 
-Check box that determines whether to include a **Not Applicable** answer option for this question on survey questionnaires. User responses of **Not Applicable** are excluded from results calculations.This field is visible only if the data type is **Choice**, **Likert Scale**, **Template**, or **[[yes-no|Yes/No]]**.
+Check box that determines whether to include a **Not Applicable** answer option for this question on survey questionnaires. User responses of **Not Applicable** are excluded from results calculations.This field is visible only if the data type is **Choice**, **Likert Scale**, **Template**, or **Yes/No**.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Allow Additional Information
 
 </td><td>
 
-If selected, the **Additional Information [[label|Label]]** field is enabled. The **Additional Information Label** field value is displayed as a field on the survey response page to provide additional information for a question.**Note:**
+If selected, the **Additional Information Label** field is enabled. The **Additional Information Label** field value is displayed as a field on the survey response page to provide additional information for a question.**Note:**
 
 -   This is only available on the Service Portal and is not supported on the Platform or Mobile views.
 -   This is not applicable for the String and Template data types.
@@ -107,7 +107,7 @@ Depends on
 
 </td><td>
 
-Setting used to make this a conditional question, meaning that it only appears when users answer another question a certain way. To make a question depend on another question, select an existing question from the list, which displays **Checkbox**, **Choice**, **Template**, and **Yes/No** questions of the same category as this question. Then, use the **Displayed when** field to set the conditions that cause this question to appear on [[r_SurveyManagementLandingPage|surveys]].
+Setting used to make this a conditional question, meaning that it only appears when users answer another question a certain way. To make a question depend on another question, select an existing question from the list, which displays **Checkbox**, **Choice**, **Template**, and **Yes/No** questions of the same category as this question. Then, use the **Displayed when** field to set the conditions that cause this question to appear on surveys.
 
  The system prevents the creation of recursive dependencies between questions. For example, if Question A depends on Question B, Question B cannot depend on Question A.
 
@@ -155,7 +155,7 @@ Source table field that appears as a dynamic value for the question in a trigger
 
  If the record table specified in the trigger condition does not match the source table specified for the survey, or if the system fails to get the dynamic value from the source record, the **$\{param\}** placeholder is not replaced by any value and is displayed as is in the question.
 
-For example, if the survey is triggered from a **PRB** record and the survey question is configured with a dynamic value from **Incident**, the **$\{param\}** placeholder in the survey question label is not replaced by any dynamic value and is displayed as is.When [[c_SurveyQuestion|survey questions]] are translated to other languages by a survey admin, the **$\{param\}**placeholder should not be translated.
+For example, if the survey is triggered from a **PRB** record and the survey question is configured with a dynamic value from **Incident**, the **$\{param\}** placeholder in the survey question label is not replaced by any dynamic value and is displayed as is.When survey questions are translated to other languages by a survey admin, the **$\{param\}**placeholder should not be translated.
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Condition
 
 </td><td>
 
-Condition to filter the [[reference|reference]] records from the table specified in the **Reference** field.**Note:** This field appears only for the Reference metric type.
+Condition to filter the reference records from the table specified in the **Reference** field.**Note:** This field appears only for the Reference metric type.
 
 </td></tr><tr><td>
 
@@ -179,8 +179,8 @@ Field validation
 
 </td><td>
 
-Validate the value entered for a String type metric of a survey. Possible validations are:-   [[email|Email]]
--   [[ip-address|IP Address]]\(IPV4,IPV6\)
+Validate the value entered for a String type metric of a survey. Possible validations are:-   Email
+-   IP Address\(IPV4,IPV6\)
 -   Phone Number \(E.164\)
 -   URL
 
@@ -199,23 +199,10 @@ Assessment Metric Definitions
 Answer options for this question.This related list is available only if the **Data type** is **Choice** or **Likert Scale**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateOrModifySurveyQuestions|Create or modify survey questions]]
+[Create or modify survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[t_CreateOrModifySurveyQuestions|Create or modify survey questions]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[label|Label]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[reference|Reference]]
-- [[email|Email]]
-- [[ip-address|IP Address]]

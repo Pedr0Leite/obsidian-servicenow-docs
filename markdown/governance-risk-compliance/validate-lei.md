@@ -33,7 +33,7 @@ Level 4 LEI validation checks LEI codes in the Digital resilience third-party re
 
 1.  Configure LEI validation system properties to control upload save behavior and API settings.
 
-    1.  Navigate to **All** &gt; **Digital [[grc-opres-landing-page|Operational Resilience]] Management** &gt; **Properties**.
+    1.  Navigate to **All** &gt; **Digital Operational Resilience Management** &gt; **Properties**.
 
     2.  In the DORA LEI Validation section, review and update the following properties as needed.
 
@@ -98,7 +98,7 @@ Maximum number of LEI codes sent in a single batch GLEIF API call. Valid range: 
 
 4.  If the message indicates issues, download `Consolidated_Reports.zip` from the attachments area of the request record and open `Level4_LEI_Validation_Report.csv`.
 
-    For descriptions of all columns in the report, see [[lei-validation-report|Level 4 LEI Validation Report columns]].
+    For descriptions of all columns in the report, see [Level 4 LEI Validation Report columns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/lei-validation-report.md).
 
 5.  Review the **Validation Result** and **Validation Messages** columns to identify which LEI codes require attention and why.
 
@@ -118,10 +118,5 @@ When all LEI codes pass validation, the Level 4 LEI Validation Report is still i
 -   **[Level 4 LEI Validation Report columns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/lei-validation-report.md)**  
 The Level 4 LEI Validation Report \(`Level4_LEI_Validation_Report.csv`\) is generated during Plain-CSV Reporting Package download and lists the validation result for each Legal Entity Identifier \(LEI\) code found in the reporting package.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[lei-validation-report|Level 4 LEI Validation Report columns]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

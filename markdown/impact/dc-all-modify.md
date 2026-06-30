@@ -16,7 +16,7 @@ You can make changes to the Data Collection configuration to align with your org
 
 When the standard definitions for the Success Metrics from ServiceNow don’t align with how your organization functions or how you use the platform, you can change the configuration of the data collection app to reflect your processes and implementation.
 
-Alterations of a success metric data point definition require changes to one or both of the following pieces of the metric architecture within [[instance-observer-performance|Performance]] or Performance/Platform [[io-analytics|Analytics]]:
+Alterations of a success metric data point definition require changes to one or both of the following pieces of the metric architecture within Performance or Performance/Platform Analytics:
 
 -   Change the Indicator Source when you need a different basic data set.
 -   Change the automated indicator when you need to change the filters that are applied on the basic data set for the calculation.
@@ -30,13 +30,8 @@ In this case, work with the Service Owner and your Squad to define the correct w
 The alterations for this change in metric definition would imply the following configuration changes:
 
 -   A basic data set indicator source for the incident table already exists as it is leveraged by some of the other success metrics. Therefore, you don’t have to create a new indicator source.
--   The Automated Indicators configurations for the following need to be adjusted: [[impact-landing-page|Impact]] VM - Mean Time to Restore - Unplanned Outages \(hrs\) and Impact VM - \# of Unplanned Outages This Month.
+-   The Automated Indicators configurations for the following need to be adjusted: Impact VM - Mean Time to Restore - Unplanned Outages \(hrs\) and Impact VM - \# of Unplanned Outages This Month.
     -   Change the Indicator Source field to **Impact VM - Incidents Closed This Month** on both indicators.
     -   Change the Additional Conditions to add a filter for **Priority 1** on both indicators.
     -   For Time to Restore, as the duration field may not be in use, you can use a scripted calculation for the duration. You can re-use the script from the automate indicator **Impact VM - Average Time to Close an Incident \(hrs\)** for this.
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

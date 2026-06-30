@@ -12,15 +12,10 @@ breadcrumb: [Manufacturing Commercial Operations]
 
 # Using Manufacturing Commercial Operations
 
-Learn how [[manufacturing-overview|Manufacturing Commercial Operations]] enables you to manage the end-to-end life-cycle of your products, subscriptions, and services.
+Learn how Manufacturing Commercial Operations enables you to manage the end-to-end life-cycle of your products, subscriptions, and services.
 
--   **[[mco-agent-management|Agent management]]**  
+-   **[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)**  
 The workspace portal or the agent workspace enables the OEM or the manufacturers to create, view, and approve claims.
--   **[[mco-additional-workflows|Additional workflows]]**  
+-   **[Additional workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-additional-workflows.md)**  
 Additional workflows installed with the Manufacturing Commercial Operations.
 
-## Related
-
-- [[mco-agent-management|Agent management]]
-- [[mco-additional-workflows|Additional workflows]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

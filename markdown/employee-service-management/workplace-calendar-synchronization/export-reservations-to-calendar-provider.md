@@ -18,13 +18,13 @@ As a one time procedure, export all your confirmed reservations to your calendar
 
 ## Before you begin
 
-You must have the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application installed.
+You must have the Workplace Reservation Management application installed.
 
 Role required: admin
 
 ## About this task
 
-If you have installed [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] after using Workplace Reservation Management for a long time, run the export scheduled job to export all your confirmed present and future reservations to your calendar provider. During the export, for every 45 seconds, the scheduled job exports 10 reservations to the calendar.
+If you have installed Workplace Calendar Synchronization after using Workplace Reservation Management for a long time, run the export scheduled job to export all your confirmed present and future reservations to your calendar provider. During the export, for every 45 seconds, the scheduled job exports 10 reservations to the calendar.
 
 The export runs based on the following conditions:
 
@@ -51,7 +51,3 @@ The export process runs in the background. For every 45 seconds, 10 reservations
 
 **Note:** The application will not send any notification when the export process is complete and if any reservation is not exported.
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure for providers, Service Exchange for Providers, Service Ex
 
 # Create catalog client scripts
 
-As a provider, create catalog client scripts in [[tmt-service-bridge-both-landing-page|Service Exchange]] to control the behavior of the catalog items when presented to your consumers.
+As a provider, create catalog client scripts in Service Exchange to control the behavior of the catalog items when presented to your consumers.
 
 ## Before you begin
 
@@ -38,11 +38,8 @@ You can apply catalog client scripts to a catalog item or a variable set. These 
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [[service-bridge-v2-cat-script-fd.dita|Catalog client script record form]].
+    For a description of the field values, see [Catalog client script record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cat-script-fd.dita.md).
 
 5.  Select **Submit**.
 
-## Related
 
-- [[service-bridge-v2-cat-script-fd.dita|Catalog client script record form]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

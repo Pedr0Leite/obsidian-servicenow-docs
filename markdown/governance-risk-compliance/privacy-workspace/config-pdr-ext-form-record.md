@@ -15,7 +15,7 @@ breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights
 
 # Create a PDR external-facing form configuration record
 
-Create the parent external form configuration record that anchors all location, data subject type, and request type rules for the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form.
+Create the parent external form configuration record that anchors all location, data subject type, and request type rules for the external-facing Personal Data Rights \(PDR\) form.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ An external facing Personal Data Rights \(PDR\) form configuration record holds 
 
 **Parent Topic:**[External-facing Personal Data Rights form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-pdr-ext-form.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

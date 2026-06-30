@@ -15,7 +15,7 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Change Virtual Agent and Agent Chat system messages
 
-Customize the default system messages displayed during [[virtual-agent-landing-page|Virtual Agent]] conversations and [[ci-use-agent-chat|Agent Chat]].
+Customize the default system messages displayed during Virtual Agent conversations and Agent Chat.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-Use **System messages** in Chat Settings to change the properties that control [[nava-standard-chat|standard chat]] messages displayed in your instance. If you're using Virtual Agent and Agent Chat, the **System Messages** list displays properties for both Virtual Agent and Agent Chat messages. If you're [[ci-agent-chat-using|using Agent Chat]] only, the **System Messages** list displays only the properties relevant to Agent Chat.
+Use **System messages** in Chat Settings to change the properties that control standard chat messages displayed in your instance. If you're using Virtual Agent and Agent Chat, the **System Messages** list displays properties for both Virtual Agent and Agent Chat messages. If you're using Agent Chat only, the **System Messages** list displays only the properties relevant to Agent Chat.
 
 **Note:** While the chat widget uses the Messages table \[sys\_ui\_message\] to configure the greeting and closing messages, third-party Conversational Integrations \(such as Microsoft Teams\) use system messages. To change them, modify these messages in System Messages as follows:
 
@@ -32,7 +32,7 @@ Use **System messages** in Chat Settings to change the properties that control [
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Under **System messages**, select **View All**.
 
@@ -43,13 +43,5 @@ Use **System messages** in Chat Settings to change the properties that control [
     Any changes are immediately applied to the system messages displayed in your instance.
 
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ci-configuring-chat-features|General chat settings]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[nava-standard-chat|Standard chat]]
-- [[ci-agent-chat-using|Using Agent Chat]]
-- [[convint-landing-page|Conversational Interfaces]]

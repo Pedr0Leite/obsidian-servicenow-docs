@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Assign a work order task
 
-Assign agents to unassigned work order tasks using the [[dispatcher-activities|Dispatcher Workspace]] map.
+Assign agents to unassigned work order tasks using the Dispatcher Workspace map.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Role required: wm\_dispatcher, wm\_initiator\_qualifier\_dispatcher
 
 The customer receives a text message and email notification that the work order task is assigned.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

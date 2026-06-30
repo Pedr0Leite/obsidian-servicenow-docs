@@ -14,9 +14,9 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP, Integration with thi
 
 # ERP Source Configuration for SAP
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 
-[[erp-source-configuration|ERP source configuration]] enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all integration services defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct [[erp-source|ERP source]] entries with their corresponding integration services.
+ERP source configuration enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all integration services defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct ERP source entries with their corresponding integration services.
 
 To meet specific requirements, you can modify the service-mapping logic by updating the relevant service element map entry within the integration service record. For organizations using multiple ERP systems, an ERP Source field has been incorporated into the tables to ensure accurate identification of the respective integrated ERP system.
 
@@ -62,7 +62,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
         Set up subflows for the source configuration to lookup departments from SAP.
 
-    -   **[[payment-terms|Payment Terms]]**
+    -   **Payment Terms**
 
         Set up subflows for the source configuration to lookup payment terms from SAP.
 
@@ -86,7 +86,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
         Set up subflows for the source configuration to lookup product models from SAP.
 
-    -   **[[invoices|Invoices]]**
+    -   **Invoices**
 
         Set up subflows for the source configuration to lookup invoices from SAP.
 
@@ -103,7 +103,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
     **Note:** Similarly, you can select SAP ECC configuration to view the list of services.
 
 5.  Configure a scheduled job to synchronize primary data updates from SAP.
-6.  Set the time interval in the lookup [[cost-center|Cost Center]] scheduled job to periodically synchronize primary data updates from the ERP, for posting services to work.
+6.  Set the time interval in the lookup Cost Center scheduled job to periodically synchronize primary data updates from the ERP, for posting services to work.
 
     **Note:** Similarly, you can configure schedule jobs for the other integrations services.
 
@@ -125,11 +125,3 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
 [Scheduled jobs to look up primary data in SAP]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[payment-terms|Payment terms]]
-- [[invoices|Invoices]]
-- [[cost-center|Cost center]]

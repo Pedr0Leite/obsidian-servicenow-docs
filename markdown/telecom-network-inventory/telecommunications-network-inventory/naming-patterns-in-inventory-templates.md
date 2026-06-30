@@ -27,7 +27,7 @@ A naming pattern can be defined in two places:
 -   **On a related template within an inventory template.** Each related template — a slot, sub-slot, or interface — carries its own naming pattern. The pattern on a related template starts as a copy of the model's default and can be edited to override the default on a per-template basis.
 
 
-A related template that does not define a naming pattern, such as a card or module template, falls back to the inventory model name at instantiation. In [[inventory-template-overview-tab|the Inventory Template Overview tab]], this fallback name appears as the tree node label so that you see the same name that the CI will carry once it is created.
+A related template that does not define a naming pattern, such as a card or module template, falls back to the inventory model name at instantiation. In the Inventory Template Overview tab, this fallback name appears as the tree node label so that you see the same name that the CI will carry once it is created.
 
 ## What a naming pattern looks like
 
@@ -73,6 +73,3 @@ The Inventory Template Overview tab lets you verify naming end-to-end at design 
 
 [Naming pattern validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/naming-pattern-validation.md)
 
-## Related
-
-- [[inventory-template-overview-tab|The Inventory Template Overview tab]]

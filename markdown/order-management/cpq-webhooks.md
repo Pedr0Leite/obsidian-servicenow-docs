@@ -22,13 +22,13 @@ To enable webhooks, log a case with support. Only one webhook can be created per
 
 ## Webhook use cases
 
-Webhooks can be used to integrate data from CPQ to other downstream systems. [[use-cases|Use cases]] include:
+Webhooks can be used to integrate data from CPQ to other downstream systems. Use cases include:
 
 -   Displaying the CPQ native UI via direct URL and sending the config result, via webhook, to a third-party destination. See:
 
-    [[use_case_display_logik_io_native_ui_via_direct_url|Use case: Displaying the CPQ native UI via direct URL]]
+    [Use case: Displaying the CPQ native UI via direct URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use_case_display_logik_io_native_ui_via_direct_url.md)
 
--   Sending config data directly to a quoting or [[explore-order-management|order management]] system
+-   Sending config data directly to a quoting or order management system
 -   Pushing the configuration result to middleware that can manipulate the data and pass it along to downstream systems
 
 [Webhook demo](https://youtu.be/khjWIDJ9SHk)
@@ -37,7 +37,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. [[u
 
 \[Omitted image "cpq-webhooks-setup-1.png"\] Alt text: Webhook setup
 
--   When webhooks are enabled, they can be found in the [[cpq-utilities|Utilities]] menu in the CPQ Admin screen.
+-   When webhooks are enabled, they can be found in the Utilities menu in the CPQ Admin screen.
 -   Summary: Webhook configuration is similar to external connections. The Name, Description and Integration type can all be defined.
 -   Authentication: Webhooks support both no authentication \(None\) as well as bearer token authentication \(Bearer Token\).
 -   Webhook Details: Additional details of the webhook can be specified as well to control the behavior.
@@ -52,7 +52,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. [[u
     When disabled, this ensures that the webhook process is resolved before the user is redirected. The save process is synchronous.
 
 3.  Content: The data that CPQ should send to the endpoint.
-    -   Config Data: all admin-created configuration [[fields|fields]] and their input values
+    -   Config Data: all admin-created configuration fields and their input values
     -   BOM and System Fields: all system configuration fields and their values; the bill of materials \(as specified in the BOM Types input immediately below\)
 4.  BOM Types: The BOM types to be sent in the request.
 5.  Timeout: The timeout value in milliseconds
@@ -60,7 +60,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. [[u
 
 ## Example webhook body
 
-The body that the webhook sends to the external resource looks like the following. This example covers [[product_picker_overview|product pickers]] and the built-in system fields from an environment.
+The body that the webhook sends to the external resource looks like the following. This example covers product pickers and the built-in system fields from an environment.
 
 ```
 {
@@ -433,11 +433,3 @@ The body that the webhook sends to the external resource looks like the followin
 }
 ```
 
-## Related
-
-- [[use_case_display_logik_io_native_ui_via_direct_url|use_case_display_logik_io_native_ui_via_direct_url]]
-- [[use-cases|Use cases]]
-- [[explore-order-management|Order management]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[product_picker_overview|Product pickers]]

@@ -14,7 +14,7 @@ breadcrumb: [Bulk imports, Use, Employee Document Management, HR Documents, HR S
 
 # Correcting employee documents in the staging table
 
-Use the Employee Document Staging form to correct staging records prior to importing to [[hr-service-delivery|HR Service Delivery]]. Staging records are created after you have mapped your source employee documents and the Start staging job has run.
+Use the Employee Document Staging form to correct staging records prior to importing to HR Service Delivery. Staging records are created after you have mapped your source employee documents and the Start staging job has run.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_ef.admin, sn\_hr\_ef.document\_import
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Bulk Import** &gt; **Document Staging**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Bulk Import** &gt; **Document Staging**.
 
     Or, from the Employee Document Import Configuration form, click the **Start staging job** related link.
 
@@ -82,7 +82,7 @@ State
 
 </td><td>
 
-The state of the employee document.-   Ready: Document is ready to be captured and moved to [[hr-employee-doc-management|Employee Document Management]].
+The state of the employee document.-   Ready: Document is ready to be captured and moved to Employee Document Management.
 -   Draft: Document ignored when the Capture job is run and not moved to Employee Document Management.
 
 
@@ -172,8 +172,3 @@ Automatically populated via domain separation and identifies the specific domain
 
 **Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-uploads.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-employee-doc-management|Employee Document Management]]

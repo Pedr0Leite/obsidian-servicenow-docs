@@ -22,11 +22,11 @@ Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset Estate**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Asset Estate**.
 
 2.  Select the **All assets** tab.
 
-3.  [[select-daas-asset|Select an asset]] with state as **In stock** and substate as **Defective** or **Pending repair**.
+3.  Select an asset with state as **In stock** and substate as **Defective** or **Pending repair**.
 
 4.  Select the More Options icon \[Omitted image "more-actions-icon.png"\] Alt text: on the Asset form.
 
@@ -39,7 +39,3 @@ A repair order with a repair order line in the **Troubleshoot** stage is created
 
 **Parent Topic:**[Request repair of defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/request-repair-defective-eam-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

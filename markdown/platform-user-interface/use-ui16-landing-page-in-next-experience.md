@@ -12,7 +12,7 @@ breadcrumb: [Landing pages, Configure, Next Experience UI, Configure UIs and por
 
 # Configure a Core UI global landing page in Next Experience enabled instances
 
-Set a [[c_UI16|Core UI]] landing page for all users so users on instances with Next Experience enabled see the same landing page as users on upgraded instances. Upgraded users see the landing pages they had before in the [[next-experience-landing-page|Next Experience UI]].
+Set a Core UI landing page for all users so users on instances with Next Experience enabled see the same landing page as users on upgraded instances. Upgraded users see the landing pages they had before in the Next Experience UI.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include [[lists-configurable-workspace|lists]], Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
+Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include lists, Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
 
 Values in the user preference **my\_home\_navigation\_page** override the value in the **glide.login.home** system property. If no user is specified in **my\_home\_navigation\_page**, the value in the preference overrides **glide.login.home** for all users.
 
@@ -45,11 +45,5 @@ Values in the user preference **my\_home\_navigation\_page** override the value 
 
 When users log in, they see the selected landing page instead of the default.
 
-**Parent Topic:**[[next-experience-landing-pages|Next Experience landing pages]]
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-pages.md)
 
-## Related
-
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[c_UI16|Core UI]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[lists-configurable-workspace|Lists]]

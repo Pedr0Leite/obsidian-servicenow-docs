@@ -14,13 +14,13 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Get directions to a workplace
 
-View the directions from one workplace location to another using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]].
+View the directions from one workplace location to another using the Workplace Service Delivery for Mobile.
 
 ## Before you begin
 
-The [[wsm-mappedin-admin|Workplace Space Mapping]] application must be installed.
+The Workplace Space Mapping application must be installed.
 
-**Note:** The **Get Directions** option appears only if the workplace has a floor map defined and a map provider is selected as **[[Indoor-mapping|Indoor Mapping]]** or **Mappedin** in Map Properties.
+**Note:** The **Get Directions** option appears only if the workplace has a floor map defined and a map provider is selected as **Indoor Mapping** or **Mappedin** in Map Properties.
 
 Native mobile Indoor Mapping capabilities are dependent on the Tokyo family release.
 
@@ -37,11 +37,11 @@ Using the Workplace Service Delivery for Mobile, get directions for workplace fr
 
 ## Procedure
 
-1.  On your mobile device, open the [[mobile-employee-experience|Now Mobile app]].
+1.  On your mobile device, open the Now Mobile app.
 
 2.  **Note:** When using the Now Mobile app, the privacy setting will apply for all spaces in the reservation.
 
-    Use workplace floor maps to find and reserve a space within [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] For more information, see [Make a reservation using the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/make-a-reservation-on-mobile.md).
+    Use workplace floor maps to find and reserve a space within Workplace Service Delivery For more information, see [Make a reservation using the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/make-a-reservation-on-mobile.md).
 
 3.  To get direction to a colleague's workplace, perform the following steps:
 
@@ -134,10 +134,3 @@ The directions are displayed to the desired location.
 
 **Next topic:**[Edit or cancel a reservation on Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/edit-rsv-on-mobile.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

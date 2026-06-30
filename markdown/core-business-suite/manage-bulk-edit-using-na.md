@@ -12,14 +12,14 @@ breadcrumb: [Now Assist for Core Business Suite, Configure Core Business Suite u
 
 # Bulk edit
 
-Edit records in bulk for [[cbs-landing|Core Business Suite]] business units through the Now Assist conversational experience.
+Edit records in bulk for Core Business Suite business units through the Now Assist conversational experience.
 
 ## Before you begin
 
 Ensure that the following are activated:
 
--   AI search \([[activate-ai-search|Activate AI Search]]\)
--   Now Assist panel \([[enable-now-assist-panel|Activate Now Assist panel]]\)
+-   AI search \([Activate AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/activate-ai-search.md)\)
+-   Now Assist panel \([Activate Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/enable-now-assist-panel.md)\)
 
 Role required: admin, sn\_cbs.admin
 
@@ -37,7 +37,7 @@ Role required: admin, sn\_cbs.admin
 
 5.  Select **Configure with Now Assist**.
 
-    Now Assist opens the conversational panel, detects the current page context, and invokes the CBS [[manage-bulk-upload-using-na|Bulk Upload]] agent.
+    Now Assist opens the conversational panel, detects the current page context, and invokes the CBS Bulk Upload agent.
 
     **Note:** The CBS Bulk Upload Agent supports Workplace Locations for bulk edit.
 
@@ -79,12 +79,5 @@ Role required: admin, sn\_cbs.admin
 16. Refresh the Core Business Suite Configuration Console to verify that the records are updated successfully.
 
 
-**Parent Topic:**[[now-assist-cbs|Now Assist for Core Business Suite]]
+**Parent Topic:**[Now Assist for Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/now-assist-cbs.md)
 
-## Related
-
-- [[activate-ai-search|Activate AI Search]]
-- [[enable-now-assist-panel|Activate Now Assist panel]]
-- [[now-assist-cbs|Now Assist for Core Business Suite]]
-- [[cbs-landing|Core Business Suite]]
-- [[manage-bulk-upload-using-na|Bulk upload]]

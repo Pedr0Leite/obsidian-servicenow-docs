@@ -18,7 +18,7 @@ Create schedules for discovering cloud resources using service accounts or IP ra
 
 ## Discovery Manager interface
 
-Use the Cloud [[r-discovery|Discovery]] Schedule Configuration interface to input the information that you need to access your service accounts and sub-accounts. You can specify the credentials to validate the selected accounts. Test the connections to your accounts and then create schedules to discover the cloud resources in your selected datacenters.
+Use the Cloud Discovery Schedule Configuration interface to input the information that you need to access your service accounts and sub-accounts. You can specify the credentials to validate the selected accounts. Test the connections to your accounts and then create schedules to discover the cloud resources in your selected datacenters.
 
 The following private and public cloud platforms support VMware Discovery:
 
@@ -60,7 +60,7 @@ Role required: discovery\_admin
 
 ### About this task
 
-The ServiceNow® [[cloud-discovery-wizard|Cloud Discovery wizard]] begins with the account selection and testing phase. To prevent long waits or unexpected timeouts, use the **cdu.record.watcher.timeout** system property to define the maximum waiting period for these Cloud Discovery configuration processes:
+The ServiceNow® Cloud Discovery wizard begins with the account selection and testing phase. To prevent long waits or unexpected timeouts, use the **cdu.record.watcher.timeout** system property to define the maximum waiting period for these Cloud Discovery configuration processes:
 
 -   Service account validation
 -   Member account discovery
@@ -129,7 +129,7 @@ The default timeout value is 300000 milliseconds or 5 minutes.
 
     3.  Complete the form and select **Save**.
 
-        **Note:** You can configure AWS to generate temporary credentials for service accounts. This capability eliminates the need to define some credentials on the instance, and it can increase security on your member accounts \(sub-accounts\). For details, see [[access-aws-accounts|Access setup for AWS service accounts]].
+        **Note:** You can configure AWS to generate temporary credentials for service accounts. This capability eliminates the need to define some credentials on the instance, and it can increase security on your member accounts \(sub-accounts\). For details, see [Access setup for AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/access-aws-accounts.md).
 
 9.  To validate the account with the provided details, select **Test Account**.
 
@@ -176,7 +176,7 @@ Role required: discovery\_admin
 
 4.  Select the next phase in the tab bar.
 
-    If required, you can configure IP ranges to discover virtual machines \(VM\), or move to the schedule phase and complete Cloud [[discovery-setup|Discovery setup]].
+    If required, you can configure IP ranges to discover virtual machines \(VM\), or move to the schedule phase and complete Cloud Discovery setup.
 
 
 ## Enable discovery of virtual machines
@@ -287,9 +287,4 @@ Cloud Discovery can automatically refresh the list of sub-accounts and datacente
 
 4.  Select **Update**.
 
-## Related
 
-- [[access-aws-accounts|Access setup for AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-discovery-wizard|cloud discovery wizard]]
-- [[discovery-setup|Discovery setup]]

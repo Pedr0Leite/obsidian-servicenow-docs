@@ -18,14 +18,14 @@ Create a hierarchy when defining a domain architecture to track your processes a
 
 The following diagram is a good starting point for defining domain architecture. It demonstrates the relationship between the TOP and lower domains and how the process, data, and business rules impact parent and child domains.
 
--   In the following example, TOP is a process domain. It should never contain [[users|users]]. Rather, TOP should contain the new processes that instance owners develop and the overrides to these processes from the global domain.
+-   In the following example, TOP is a process domain. It should never contain users. Rather, TOP should contain the new processes that instance owners develop and the overrides to these processes from the global domain.
 -   Only the service provider \(SP\) has access to the default domain. This domain never contains active users. It contains only the "lost" data that you need to reassign to the correct domain.
 
     **Note:** When data is not assigned to a specific domain, it moves to the default domain. It is temporarily "lost" and needs to be assigned to its correct domain.
 
 -   Tasks and users without a domain are placed in the default domain automatically when you create or update domains. You can override that action by either clearing the **Default** option on this record or selecting the **Default** option on another domain record. If you have not set a default domain yet, tasks and users with no domain move to the global domain.
     -   Don't move data between domains while you are using the instance.
-    -   If any data ends up in the default domain, that means you have a [[sc-configuration|configuration]] or procedural problem to address.
+    -   If any data ends up in the default domain, that means you have a configuration or procedural problem to address.
 
 You don't see the word "Global" in this diagram because there is no global domain. Remember that "global" is the absence of a domain on a record.
 
@@ -87,9 +87,9 @@ The following diagram delineates how to choose which hierarchy model is right fo
 
 \[Omitted image "bp-dedicated-vs-shared.png"\] Alt text: Dedicated vs shared hierarchy of data separation
 
-To learn more about hierarchy architecture, see [[bp-sp-reference-arch-ds|Service provider reference architecture]].
+To learn more about hierarchy architecture, see [Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md).
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -126,7 +126,7 @@ To learn more about hierarchy architecture, see [[bp-sp-reference-arch-ds|Servic
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -144,10 +144,3 @@ To learn more about hierarchy architecture, see [[bp-sp-reference-arch-ds|Servic
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

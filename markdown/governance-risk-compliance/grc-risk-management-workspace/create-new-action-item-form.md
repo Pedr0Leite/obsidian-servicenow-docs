@@ -31,7 +31,7 @@ See the following table for a description of the field values.
 |Watchlist|List of individuals who can view and receive notifications about the action item.|
 |Details|
 |The Details section is a read-only section.|
-|Risk response task|Name of the [[risk-response|risk response]] task that includes this action item.|
+|Risk response task|Name of the risk response task that includes this action item.|
 |Risk|Name of the risk for which this action item is created.|
 |Priority|Importance or urgency of the risk response task.|
 |State|Status of the risk response task.|
@@ -43,6 +43,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Create an action item in the risk response task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-action-item-risk-response-task.md)
 
-## Related
-
-- [[risk-response|risk response]]

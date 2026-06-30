@@ -12,7 +12,7 @@ breadcrumb: [Configuring Impact, Impact]
 
 # Activate Now Assist skills in Now Assist for Impact
 
-Activate a skill before you can use the generative AI capabilities for Now Assist for [[impact-landing-page|Impact]].
+Activate a skill before you can use the generative AI capabilities for Now Assist for Impact.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ Role required: Impact Platform owner, Impact Admin, Impact Portfolio Owner
 
     Your skill is configured.
 
-## Related
 
-- [[impact-landing-page|Impact]]

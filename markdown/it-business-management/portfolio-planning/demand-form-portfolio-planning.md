@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Demand planning item form
 
-Learn about the fields of the [[demand-form|demand form]]. Use this form to create or edit the details of a planning item of the type Demand in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the demand form. Use this form to create or edit the details of a planning item of the type Demand in Portfolio Planning.
 
 These fields are displayed on the full details page of the planning item.
 
@@ -64,7 +64,7 @@ Planning state
 
 </td><td>
 
-State of the planning item in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Backlog.
+State of the planning item in the Strategic Planning Backlog.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Execution URL
 
 </td><td>
 
-Link to the demand's execution record in Next Experience for [[c_DemandManagement|Demand Management]].
+Link to the demand's execution record in Next Experience for Demand Management.
 
 </td></tr><tr><td>
 
@@ -211,9 +211,3 @@ Strategic priority that this planning item is associated to.
 
 **Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_DemandManagement|Demand Management]]

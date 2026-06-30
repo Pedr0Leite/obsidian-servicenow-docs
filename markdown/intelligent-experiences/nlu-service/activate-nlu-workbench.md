@@ -38,7 +38,7 @@ NLU Workbench - Corecom.glide.nlu
 
 </td><td>
 
-Installs the required tables for persisting [[nlu-models|NLU models]] that are created using the NLU Workbench.
+Installs the required tables for persisting NLU models that are created using the NLU Workbench.
 
 </td></tr><tr><td>
 
@@ -46,11 +46,11 @@ NLU Workbench com.snc.nlu\_studio
 
 </td><td>
 
-Enables the creation of [[nlu-landing|Natural Language Understanding]] \(NLU\) models. These models can understand the intent \(action\) and entities \(details about the action\) for a given user utterance. Any ServiceNow application can invoke an NLU model.Requires the NLU Workbench - Core plugin and the NLU Common Model plugin.
+Enables the creation of Natural Language Understanding \(NLU\) models. These models can understand the intent \(action\) and entities \(details about the action\) for a given user utterance. Any ServiceNow application can invoke an NLU model.Requires the NLU Workbench - Core plugin and the NLU Common Model plugin.
 
 </td></tr><tr><td>
 
-[[predictive-intelligence-landing|Predictive Intelligence]] com.glide.platform\_ml
+Predictive Intelligence com.glide.platform\_ml
 
 </td><td>
 
@@ -89,7 +89,7 @@ Description
 
 </td><td>
 
-Delivers the [[intent-discovery|Intent Discovery]] feature, which identifies user intents by analyzing incident/case data. Use this application to help identify which intents to model and build for Virtual Agent conversations to attain maximum deflection. For more information, see [Install Intent Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-intent-discovery.md).
+Delivers the Intent Discovery feature, which identifies user intents by analyzing incident/case data. Use this application to help identify which intents to model and build for Virtual Agent conversations to attain maximum deflection. For more information, see [Install Intent Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-intent-discovery.md).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Delivers the [[intent-discovery|Intent Discovery]] feature, which identifies use
 
 </td><td>
 
-Delivers the Model Performance, [[batch-testing-nlu|Multi-model Batch Testing]], [[nlu-intent-conflict-review-resolution|Cross-model Conflict Review]], and Expert Feedback Loop features.For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
+Delivers the Model Performance, Multi-model Batch Testing, Cross-model Conflict Review, and Expert Feedback Loop features.For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -114,11 +114,4 @@ Delivers the Model Performance, [[batch-testing-nlu|Multi-model Batch Testing]],
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[nlu-models|NLU models]]
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[intent-discovery|Intent Discovery]]
-- [[batch-testing-nlu|Multi-model Batch Testing]]
-- [[nlu-intent-conflict-review-resolution|Cross-model Conflict Review]]

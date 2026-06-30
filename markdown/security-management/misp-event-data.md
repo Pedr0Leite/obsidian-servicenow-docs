@@ -60,7 +60,7 @@ Threat Level
 
 </td><td>
 
-Risk level of the event. Incidents can be categorized into three different threat categories \(low, medium, high\). This field can be left as undefined. The following are the options:-   Low: General mass [[threat-intelligence-malware|malware]]
+Risk level of the event. Incidents can be categorized into three different threat categories \(low, medium, high\). This field can be left as undefined. The following are the options:-   Low: General mass malware
 -   Medium: Advanced Persistent Threats \(APT\)
 -   High: Sophisticated APTs and 0-day attacks
 
@@ -283,7 +283,3 @@ Galaxies that are available globally to be shared and synchronized with other MI
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[threat-intelligence-malware|Malware]]

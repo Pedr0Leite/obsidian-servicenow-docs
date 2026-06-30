@@ -26,7 +26,7 @@ Role required: sn\_sd.success\_dashboard\_admin
 
 2.  Select **Review and Configure** in **Configure Knowledge deflection** card.
 
-3.  Select **[[settings-mobile|Settings]]** tab.
+3.  Select **Settings** tab.
 
 4.  Select a deflection pattern under Knowledge deflection.
 
@@ -40,11 +40,7 @@ Role required: sn\_sd.success\_dashboard\_admin
 
 
 -   **[Configure the knowledge base for ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-knowledge-sdb.md)**  
-Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]].
+Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in ITSM Success Dashboard indicators.
 
 **Parent Topic:**[ITSM Success Dashboard Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/admin-console-sd.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]

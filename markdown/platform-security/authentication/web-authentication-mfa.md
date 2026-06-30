@@ -14,7 +14,7 @@ breadcrumb: [MFA verification methods, Configuring MFA, Multi-factor authenticat
 
 # Web Authentication - MFA
 
-Use the **Integration - [[mfa-web-auth|Web Authentication]] \(com.snc.integration.webauthn\)** to allow hardware key or biometric reader [[c_Authentication|authentication]] on your instance.
+Use the **Integration - Web Authentication \(com.snc.integration.webauthn\)** to allow hardware key or biometric reader authentication on your instance.
 
 <table id="table_wdw_nyp_dpb"><tbody><tr><td>
 
@@ -30,13 +30,7 @@ Hardware keys are physical hardware that you can use to authenticate. Hardware k
 
 </td><td>
 
-Biometric authenticators use fingerprint or facial recognition to identify [[users|users]]. Your users can use these authenticators on their devices as part of the multi-factor login process. For details on registering biometric authenticators, see [Register a biometric authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-setup-bio-auth.md).
+Biometric authenticators use fingerprint or facial recognition to identify users. Your users can use these authenticators on their devices as part of the multi-factor login process. For details on registering biometric authenticators, see [Register a biometric authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-setup-bio-auth.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mfa-web-auth|Web Authentication]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

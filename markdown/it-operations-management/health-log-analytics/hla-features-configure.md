@@ -14,7 +14,7 @@ breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT O
 
 # Enable or disable Health Log Analytics system features
 
-Customize the basic configuration of [[hla-landing-page|Health Log Analytics]] by enabling or disabling system features.
+Customize the basic configuration of Health Log Analytics by enabling or disabling system features.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: evt\_mgmt\_admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

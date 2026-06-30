@@ -20,7 +20,7 @@ The Declarative Action framework is used to integrate Core UI behaviors such as 
 
 ## Tables used for migration
 
-Action Assignment \[sys\_declarative\_action\_assignment\]: Contains all declarative [[settings-mobile|settings]].
+Action Assignment \[sys\_declarative\_action\_assignment\]: Contains all declarative settings.
 
 ## Conditions for migration
 
@@ -36,7 +36,7 @@ view != sow and sow_new_record
 
 ## How the migration works
 
-The SOW [[migration-utility|migration utility]] uses the following to migrate the related list declarative actions along with type available in ITSM Agent Workspace to SOW:
+The SOW migration utility uses the following to migrate the related list declarative actions along with type available in ITSM Agent Workspace to SOW:
 
 -   Client Script
 -   Server Script
@@ -52,7 +52,7 @@ Configure the client actions to migrate related list declarative actions from IT
 -   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-related-list-ui-component-aw-sow.md)**  
 Configure the UI component to migrate related list declarative actions from ITSM Agent Workspace to Service Operations Workspace.
 -   **[Perform post-migration tasks for related list declarative form actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-related-actions-aw-sow.md)**  
-Verify that the related list declarative form actions in Service Operations Workspace \(SOW\) are consistent with the related list declarative form actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the [[migrated-records|migrated]] related list declarative form actions settings in SOW based on your requirements.
+Verify that the related list declarative form actions in Service Operations Workspace \(SOW\) are consistent with the related list declarative form actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the migrated related list declarative form actions settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -81,8 +81,3 @@ Verify that the related list declarative form actions in Service Operations Work
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]

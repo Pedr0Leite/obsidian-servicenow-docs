@@ -14,12 +14,12 @@ breadcrumb: [Skills Foundation, Growth Experiences, HR Service Delivery, Employe
 
 # Using Skills Foundation
 
-By using the [[skills-intelligence|Skills Foundation]] application, your organization can identify the skills that an employee needs, determine the skill gaps within a role, and recommend the [[exploring-learning-exp|learning]] opportunities that the employee can do to bridge those gaps.
+By using the Skills Foundation application, your organization can identify the skills that an employee needs, determine the skill gaps within a role, and recommend the learning opportunities that the employee can do to bridge those gaps.
 
 Employees can use the skills profile to add, delete, and update skills. For more information on skills profiles, see [Career tab in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/manage-skills-profile.md).
 
 -   **[Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md)**  
-Import the skills residing in your resume or LinkedIn profile and add them to your [[emp-slate-employee-profile|Employee Profile]] in the [[employee-center-landing-page|Employee Center]] so that you have all your skills at one place and focus on your career development in the organization.
+Import the skills residing in your resume or LinkedIn profile and add them to your Employee Profile in the Employee Center so that you have all your skills at one place and focus on your career development in the organization.
 -   **[Add skills as part of your onboarding journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-preseeding-onboarding.md)**  
 Upload your resume or LinkedIn profile as part of your onboarding journey and add skills from them to your profile in Employee Center so that you can focus on growth and career development in the organization.
 -   **[Update your skill proficiency level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/update-skill-proficiency-level.md)**  
@@ -29,14 +29,7 @@ Search for the skills that you're interested in developing or improving and then
 -   **[Delete skills from skills profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/delete-skills-skills-profile.md)**  
 Employees can delete skills from the additional skills section in their skills profile.
 -   **[Validate skills in Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence-manager-hub.md)**  
-Affirm the skills that your employee claims to have by reviewing and validating them in [[manager-hub-overview|Manager Hub]].
+Affirm the skills that your employee claims to have by reviewing and validating them in Manager Hub.
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[exploring-learning-exp|Learning]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]

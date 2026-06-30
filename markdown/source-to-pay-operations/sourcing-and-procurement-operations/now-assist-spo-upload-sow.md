@@ -62,7 +62,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
     4.  Return to the Employee Center and select **Yes** to proceed.
 
-    Your [[purchase-requisition|purchase requisition]] has been created and submitted for approval.
+    Your purchase requisition has been created and submitted for approval.
 
 9.  Select **Submit** to submit the request.
 
@@ -73,6 +73,3 @@ Your purchase requisition has been created and submitted for approval.
 
 **Parent Topic:**[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]

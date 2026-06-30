@@ -20,7 +20,7 @@ View feedback and bookmarks tables to view which community content was given fee
 
 Role required: sn\_communities.admin, sn\_communities.community\_moderator, sn\_communities.moderation\_admin, sn\_communities.forum\_admin, or sn\_communities.forum\_moderator
 
-**Note:** [[servicenow-communities|Communities]] users \(sn\_communities.community\_user\) have read access to the bookmarks table and the feedback table. Users can only view another user's bookmark and feedback records for content they themselves can access. Bookmark and feedback record visibility is constrained by the viewer's access to the underlying content.
+**Note:** Communities users \(sn\_communities.community\_user\) have read access to the bookmarks table and the feedback table. Users can only view another user's bookmark and feedback records for content they themselves can access. Bookmark and feedback record visibility is constrained by the viewer's access to the underlying content.
 
 ## Procedure
 
@@ -76,6 +76,3 @@ Role required: sn\_communities.admin, sn\_communities.community\_moderator, sn\_
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

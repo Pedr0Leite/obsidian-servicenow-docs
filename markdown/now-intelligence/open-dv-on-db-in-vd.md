@@ -26,13 +26,13 @@ While working in the dashboard editor, you may find that you want to reconfigure
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Dashboards** and open your dashboard.
+1.  Navigate to **Platform Analytics** &gt; **Dashboards** and open your dashboard.
 
 2.  Select **Edit** to put the dashboard in edit mode.
 
 3.  Add the data visualization if it is not already there.
 
-    For more information, see [[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]].
+    For more information, see [Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md).
 
 4.  On the data visualization, expand the **Actions** menu.
 
@@ -43,13 +43,7 @@ While working in the dashboard editor, you may find that you want to reconfigure
 
 ## What to do next
 
-Proceed to edit the data visualization as described in [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]].
+Proceed to edit the data visualization as described in [Edit a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-dv-ac-center.md).
 
-**Parent Topic:**[[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]
+**Parent Topic:**[Edit a data visualization in an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/editing-dv-in-line-db.md)
 
-## Related
-
-- [[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]]
-- [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]
-- [[editing-dv-in-line-db|Edit a data visualization in an inline dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

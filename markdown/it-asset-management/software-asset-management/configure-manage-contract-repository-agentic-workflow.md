@@ -14,7 +14,7 @@ breadcrumb: [Use manage contract repository agentic workflow, Using Software Ass
 
 # Configure the manage contract repository agentic workflow for Software Asset Management
 
-Install the Now Assist in [[c_ContractManagement|Contract Management]] plugin \(sn\_cm\_gen\_ai\) and activate the generative AI skills to use the manage contract repository agentic workflow.
+Install the Now Assist in Contract Management plugin \(sn\_cm\_gen\_ai\) and activate the generative AI skills to use the manage contract repository agentic workflow.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
     For more information on configuring Contract obligation extraction skill, see [Configuring contract obligation extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-conf-obligation-extraction.md).
 
-    **Note:** On the use case mapping page, the **[[c_Contracts|Contracts]] created from contract request** check box is visible only if the Contracts core \(sn\_cm\_core\) plugin is installed. If you have the Contracts core \(sn\_cm\_core\) plugin installed, it means you're already availing the contract pre-signature capabilities. You must clear the **Contracts created from contract request** check box.
+    **Note:** On the use case mapping page, the **Contracts created from contract request** check box is visible only if the Contracts core \(sn\_cm\_core\) plugin is installed. If you have the Contracts core \(sn\_cm\_core\) plugin installed, it means you're already availing the contract pre-signature capabilities. You must clear the **Contracts created from contract request** check box.
 
     If the Contracts core \(sn\_cm\_core\) plugin is not installed, this check box will not be displayed.
 
@@ -63,7 +63,3 @@ When a software contract record is created, the **Initiate contract extraction**
 
 **Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-contract-repository-workflow.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_Contracts|Contracts]]

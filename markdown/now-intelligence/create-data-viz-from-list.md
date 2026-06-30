@@ -12,11 +12,11 @@ breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platfor
 
 # Create a data visualization from a list
 
-You can create a [[c_performanceAnalyticsAndReporting|Platform Analytics]] vertical bar or pie data visualization from inside a Core UI list. If you have a data visualization role, you can save, share, export, or duplicate the visualization.
+You can create a Platform Analytics vertical bar or pie data visualization from inside a Core UI list. If you have a data visualization role, you can save, share, export, or duplicate the visualization.
 
 ## Before you begin
 
-Role required: You need a role that gives access to the list. To save, share, export, or duplicate the visualization, you need itil, viz\_creator, or a role that contains viz\_creator, such as any of the [[reporting-roles|reporting roles]].
+Role required: You need a role that gives access to the list. To save, share, export, or duplicate the visualization, you need itil, viz\_creator, or a role that contains viz\_creator, such as any of the reporting roles.
 
 ## About this task
 
@@ -35,10 +35,5 @@ If you're on a new instance or an instance that has fully migrated to Platform A
     The data visualization is generated and opened in the Visualization Designer.
 
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-roles|Reporting roles]]

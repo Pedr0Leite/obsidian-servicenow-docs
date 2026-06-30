@@ -15,7 +15,7 @@ breadcrumb: [Working with setup topics, Customizing a chat experience, Configure
 
 # Change the Virtual Agent greeting messages in the Greeting setup topic
 
-The [[virtual-agent-landing-page|Virtual Agent]] greeting setup topic provides default greeting messages for your conversations. Customize these greetings by adding system properties that change the default welcome message and the top selection message prompting users to enter an issue or request.
+The Virtual Agent greeting setup topic provides default greeting messages for your conversations. Customize these greetings by adding system properties that change the default welcome message and the top selection message prompting users to enter an issue or request.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-Starting with the Orlando release, the **com.glide.cs.general.welcome\_message** and **com.glide.cs.general.top\_selection\_message** properties are no longer automatically [[installed-wth-virtual-agent|installed with Virtual Agent]]. These properties define the greeting messages used in the Greeting setup topic.
+Starting with the Orlando release, the **com.glide.cs.general.welcome\_message** and **com.glide.cs.general.top\_selection\_message** properties are no longer automatically installed with Virtual Agent. These properties define the greeting messages used in the Greeting setup topic.
 
 In the Orlando release, the default Greeting setup topic was updated. If you upgraded from the New York release, these properties are retained so that you can continue using the original Greeting setup topic. If you want to use the updated Greeting setup topic, delete the **com.glide.cs.general.welcome\_message** and **com.glide.cs.general.top\_selection\_message** system properties that contain the original Greeting messages.
 
@@ -137,7 +137,3 @@ Enter the text that specifies the next selection action that the user can make a
 
 **Parent Topic:**[Working with setup topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/working-setup-topics.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[installed-wth-virtual-agent|Installed with Virtual Agent]]

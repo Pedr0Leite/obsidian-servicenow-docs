@@ -14,7 +14,7 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 # Alert impact calculation
 
-Impact calculation shows the magnitude of an outage on CIs, services, alerts, and alert groups. The system uses factors such as impact rules and CI relationships to calculate the severity of a generated alert. The severity appears on the impact tree, application services maps, and [[otto-aiops-dashboards|dashboards]].
+Impact calculation shows the magnitude of an outage on CIs, services, alerts, and alert groups. The system uses factors such as impact rules and CI relationships to calculate the severity of a generated alert. The severity appears on the impact tree, application services maps, and dashboards.
 
 Impact calculations are available for application services alert groups. The following factors are used to calculate the overall impact of an outage.
 
@@ -41,7 +41,7 @@ Impact calculation varies depending on the CI relationships for a application se
 
 -   **Services**
 
-    The following impact calculation flow operates for alerts where the outage does not affect a network or network storage. [[c_EM|Event Management]] performs the following steps:
+    The following impact calculation flow operates for alerts where the outage does not affect a network or network storage. Event Management performs the following steps:
 
     1.  Create a service map. Use the Service Configuration Item Associations \[svc\_ci\_assoc\] and CI Relationships \[cmdb\_rel\_ci\] tables to create child-parent relationships in the application service or application services.
     2.  If there is no CMDB path from the service to the CI but an association appears in the svc\_ci\_assoc table, show a Depends-on relationship between the application service and the CI. Otherwise, show no connection.
@@ -194,7 +194,3 @@ The delay after creating or updating an alert, before it is used for impact calc
 </td></tr></tbody>
 </table>For more information, see [Event Management - Impact calculation \[KB1157218\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1157218).
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[c_EM|Event Management]]

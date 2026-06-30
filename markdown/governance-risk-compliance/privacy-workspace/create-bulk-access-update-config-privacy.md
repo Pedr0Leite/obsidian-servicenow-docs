@@ -14,7 +14,7 @@ breadcrumb: [Configuring access control, Access control by legal entity, Use, Pr
 
 # Set access restrictions using an entity based record access update utility
 
-Set access restrictions for the existing records in bulk by using the [[entity-based-access-playbook|Entity based record access update utility]] guided-experience. Use the workflow to enable or disable access to record types.
+Set access restrictions for the existing records in bulk by using the Entity based record access update utility guided-experience. Use the workflow to enable or disable access to record types.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The system provides real-time status tracking of update operations, categorized 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity based record access update utility**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity based record access update utility**.
 
 2.  Select **New**.
 
@@ -78,7 +78,3 @@ Entity-based restrictions are enabled at the record level for the scoped entity.
 
 **Parent Topic:**[Configuring access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-access-control-by-legal-entity.md)
 
-## Related
-
-- [[entity-based-access-playbook|Entity based record access update utility]]
-- [[entity-based-access|Entity Based Access]]

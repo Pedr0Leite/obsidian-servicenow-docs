@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # View the Agent Client Collector configuration file for an agent
 
-View the `acc.yml` [[acc-landing-page|Agent Client Collector]] configuration file without having to access the host server by retrieving the file from an agent.
+View the `acc.yml` Agent Client Collector configuration file without having to access the host server by retrieving the file from an agent.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: agent\_client\_collector\_admin
 
 [Configuration file options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-yml-options.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

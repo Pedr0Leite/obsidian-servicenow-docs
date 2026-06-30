@@ -22,7 +22,7 @@ Role required: cmdb\_ot\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Industrial Workspace**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Workspace**.
 
 2.  In the Industrial Workspace, navigate to the All IT Hardware list.
 
@@ -109,6 +109,3 @@ You can also use the Bulk Update Ruleset for Reassigning IT to OT feature to cre
 
 **Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

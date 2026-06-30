@@ -14,7 +14,7 @@ breadcrumb: [Report\_view access control, Administering reports, Reporting, Repo
 
 # Report execution security
 
-When a report is run, [[report-view-access-control|report\_view access control]] lists \(ACLs\) are evaluated on the table and table fields that the report is based on. If no report\_view ACL exists, there is a fallback check on table-level read ACL roles. The report\_view ACL checks on all fields, including those used in the condition builder \(including dot-walked fields\).
+When a report is run, report\_view access control lists \(ACLs\) are evaluated on the table and table fields that the report is based on. If no report\_view ACL exists, there is a fallback check on table-level read ACL roles. The report\_view ACL checks on all fields, including those used in the condition builder \(including dot-walked fields\).
 
 The fallback read ACL is controlled by the system property **glide.report.report\_view.read\_acl**.
 
@@ -41,6 +41,3 @@ It isn’t recommended to change the system property to ignore or log as the rea
 
 **Parent Topic:**[Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md)
 
-## Related
-
-- [[report-view-access-control|Report\_view access control]]

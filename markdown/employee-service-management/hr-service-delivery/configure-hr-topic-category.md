@@ -14,7 +14,7 @@ breadcrumb: [HR service categorization, HR Centers of Excellence data model, HR 
 
 # Configure an HR topic category
 
-Create or modify an HR topic category to define the first-level of categorization for [[hr-service-administration|HR services]]. Each topic category is associated with a single HR Center of Excellence \(COE\).
+Create or modify an HR topic category to define the first-level of categorization for HR services. Each topic category is associated with a single HR Center of Excellence \(COE\).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **Topic Categories**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **Topic Categories**.
 
 2.  Click **New** or open a record.
 
@@ -39,7 +39,3 @@ Role required: sn\_hr\_core.admin
 
 **Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

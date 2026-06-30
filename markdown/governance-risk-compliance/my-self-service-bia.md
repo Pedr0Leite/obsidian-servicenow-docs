@@ -18,7 +18,7 @@ Use contributor role to update the disruption duration of the impact category re
 
 Role required: sn\_bcm.contributor
 
-If you are a BCM contributor and is part of the Contributors list, then you can update the dependency details of a [[bia-uib|business impact analysis]] \(BIA\).
+If you are a BCM contributor and is part of the Contributors list, then you can update the dependency details of a business impact analysis \(BIA\).
 
 ## Procedure
 
@@ -42,6 +42,4 @@ If you are a BCM contributor and is part of the Contributors list, then you can 
 
 9.  Click **Update** after your changes.
 
-## Related
 
-- [[bia-uib|Business impact analysis]]

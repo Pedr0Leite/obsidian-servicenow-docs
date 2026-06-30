@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 After a new case is submitted, an email notification is sent to all approvers. Approvals for HR cases are assigned to individual users or to members of a specified group. Approvers can reject or approve from the HR Service Portal or HR Ticket Page.
 
-When a service [[activity-lxp|activity]] for an HR service has **Allow resubmit of approvals** for **On rejection**, the Assigned to person can resubmit an approval request after rejection. See [Configure an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-approval-to-fulfill-hr-service.md).
+When a service activity for an HR service has **Allow resubmit of approvals** for **On rejection**, the Assigned to person can resubmit an approval request after rejection. See [Configure an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-approval-to-fulfill-hr-service.md).
 
 You can view a list of approvers at the bottom of the HR case form under the **Approvers** tab.
 
@@ -40,7 +40,7 @@ HR cases: Approvals for HR cases use workflows. Do the following to resubmit a r
 
 3.  Select **OK**.
 
-    [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] cases:
+    Lifecycle Events cases:
 
     Approvals for HR activities under a lifecycle event are configured differently than an HR case. There are more options for approvals. See [For an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity.md).
 
@@ -49,7 +49,3 @@ HR cases: Approvals for HR cases use workflows. Do the following to resubmit a r
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

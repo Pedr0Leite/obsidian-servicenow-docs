@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Custom scoring frameworks in Strategic Planning
 
-Learn how to [[create-a-custom-scoring-framework|create a custom scoring framework]] and associate it with a portfolio plan, so you can prioritize your planning items based on a defined score.
+Learn how to create a custom scoring framework and associate it with a portfolio plan, so you can prioritize your planning items based on a defined score.
 
 You may use one of the three pre-defined scoring frameworks - RICE, Value vs Effort, or WSJF, or you can create a custom scoring framework and associate it with your portfolio plan.
 
@@ -29,6 +29,3 @@ Learn how to create an attribute to calculate the final score of your Scoring Fr
 
 **Parent Topic:**[Configuring Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-up-alignment-planner-workspace.md)
 
-## Related
-
-- [[create-a-custom-scoring-framework|Create a custom scoring framework]]

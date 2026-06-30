@@ -15,7 +15,7 @@ breadcrumb: [Reference, External Content Connectors, Search administration, Conf
 
 # Components installed with External Content Connectors
 
-The [[ext-cont-connectors-landing-page|External Content Connectors]] plugin installs a connector administrator role and a scheduled job to remove unused OAuth 2.0 credentials for deleted external content connectors.
+The External Content Connectors plugin installs a connector administrator role and a scheduled job to remove unused OAuth 2.0 credentials for deleted external content connectors.
 
 ## Roles installed
 
@@ -40,7 +40,7 @@ External Content Connectors administrator \[sn\_ext\_conn.xcc\_admin\]
 Manages configuration settings for the External Content Connectors application, including the following:-   Creates, reads, updates, and deletes external content connectors
 -   Creates, reads, updates, and deletes crawl settings for external content connectors
 -   Tests and validates external content connector configuration and crawl settings
--   [[c_UseSchedules|Schedules]] and runs external content connectors
+-   Schedules and runs external content connectors
 -   Views external content connector crawl logs
 
 This is a granular admin role that allows you to complete external content connector configuration tasks without requiring the full admin role. To learn more about how granular admin roles improve security and efficiency, see [Granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/granular-admin-roles.md).
@@ -52,7 +52,7 @@ This is a granular admin role that allows you to complete external content conne
 -   sn\_kmf.cryptographic\_manager
 
 </td></tr></tbody>
-</table>## [[c_ScheduledJobs|Scheduled jobs]] installed
+</table>## Scheduled jobs installed
 
 <table id="table_azz_5cm_w2c"><thead><tr><th>
 
@@ -78,8 +78,3 @@ Deletes stored OAuth 2.0 credentials for external content connectors that have b
 </td></tr></tbody>
 </table>**Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_UseSchedules|Schedules]]
-- [[c_ScheduledJobs|Scheduled jobs]]

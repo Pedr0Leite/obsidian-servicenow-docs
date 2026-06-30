@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for Security Incident Response
 
-Using the [[process-mining|Process Mining]] content pack for Security Incident Response, you can analyze inefficiencies through the life cycle of your security incidents. You can use this information to optimize the processes for your security incidents.
+Using the Process Mining content pack for Security Incident Response, you can analyze inefficiencies through the life cycle of your security incidents. You can use this information to optimize the processes for your security incidents.
 
 For more information about enabling the Process Mining Content Pack for SIR, see [Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md).
 
@@ -27,6 +27,3 @@ If you have the required roles, you can use the Analyst workbench to access the 
 
 **Parent Topic:**[Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

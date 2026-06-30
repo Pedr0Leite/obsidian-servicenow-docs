@@ -15,7 +15,7 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 # Link a topic recommendation to an existing Virtual Agent topic
 
-Instead of creating a new topic from a topic recommendation, you can link it to an existing topic. This lets [[virtual-agent-landing-page|Virtual Agent]] know that you have a topic that addresses the recommendation.
+Instead of creating a new topic from a topic recommendation, you can link it to an existing topic. This lets Virtual Agent know that you have a topic that addresses the recommendation.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ If you continue to get recommendations for an active topic after linking it, the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 2.  Select the info icon \[Omitted image "icon-info-blue.png"\] Alt text: Info icon. to open the overlay card for a topic that has a **New** status.
 
@@ -52,7 +52,3 @@ If a topic recommendation continues to appear in your analysis results after you
 
 You can also [unlink a topic recommendation from a Virtual Agent topic.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/unlink-tr-va-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

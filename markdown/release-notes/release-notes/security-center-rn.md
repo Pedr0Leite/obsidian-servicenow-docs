@@ -56,8 +56,5 @@ See for more information.
 
 Security Center is a ServiceNow AI Platform application that is installed by default with the Zurich release. In addition, Security Center can be updated from the ServiceNow Store in between family releases for faster adoption of new features.
 
-**Parent Topic:**[[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]
+**Parent Topic:**[ServiceNow AI Platform security release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-security-rn-landing.md)
 
-## Related
-
-- [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]

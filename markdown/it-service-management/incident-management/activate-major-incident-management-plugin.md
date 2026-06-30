@@ -14,11 +14,11 @@ breadcrumb: [Major Incident Management plugins, Managing major incidents, Incide
 
 # Activate Incident Management - Major Incident Management
 
-You can activate the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin \(com.snc.incident.mim\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
-Confirm that the application and all of its associated ServiceNow store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Store installation links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+Confirm that the application and all of its associated ServiceNow store applications have valid ServiceNow entitlements. For more information, see [Store installation links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) 
 
 Incident Management - Major Incident Management plugin activates these related plugins if they are not already active:
 
--   [[c_IncidentAlertManagement|Incident Communications Management]] \(com.snc.iam\)
+-   Incident Communications Management \(com.snc.iam\)
 -   Incident Updates \(com.snc.incident.updates\)
 -   Task-Outage Relationship \(com.snc.task\_outage\)
 
@@ -50,7 +50,7 @@ Provides platform features for workflow-driven voice calls, conference calls, an
 
 </td></tr><tr><td>
 
-[[c_OnCallScheduling|On-Call Scheduling]]\[com.snc.on\_call\_rotation\]
+On-Call Scheduling\[com.snc.on\_call\_rotation\]
 
 </td><td>
 
@@ -90,9 +90,3 @@ Slack notifications are added with activation of Incident Management – Major I
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

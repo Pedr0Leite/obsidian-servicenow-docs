@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Card bot response control
 
-Use the Card bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to upload and display selected information from a record on your instance, along with rich content, such as a video or image.
+Use the Card bot response control in a Virtual Agent topic to upload and display selected information from a record on your instance, along with rich content, such as a video or image.
 
 A card can contain record information, an image, or a YouTube video content in a compact format. The compact format is designed for readability within the chat window.
 
@@ -26,7 +26,7 @@ The Card bot response can show the following types of content:
 
     In the Australia release, only YouTube videos are supported.
 
-    **Tip:** You can also use the [Video bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-video-bot-response.md) to include YouTube videos in conversations. The [[va-video-bot-response|Video bot response control]] includes a navigation button that pauses the conversation. If you want the user to watch the video before continuing with the conversation, use this navigation button. When users have finished watching the video, they can click this navigation button to continue with the conversation.
+    **Tip:** You can also use the [Video bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-video-bot-response.md) to include YouTube videos in conversations. The Video bot response control includes a navigation button that pauses the conversation. If you want the user to watch the video before continuing with the conversation, use this navigation button. When users have finished watching the video, they can click this navigation button to continue with the conversation.
 
 
 **Note:** If you previously created conversations that use the [HTML bot response control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-html-output.md) to generate card layouts, consider updating your conversations to use the Card bot response control. The Card displays information from a record in your instance and contains a link to that related record. Or, it can display images and can include rich content such as a video.
@@ -260,7 +260,7 @@ Supported
 
 </td><td>
 
-[[mssg-slack|Conversational Integration with Slack]] Version 2.0.0 and later.The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
+Conversational Integration with Slack Version 2.0.0 and later.The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
 
 </td></tr><tr><td>
 
@@ -459,8 +459,3 @@ Card output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-video-bot-response|Video bot response control]]
-- [[mssg-slack|Conversational Integration with Slack]]

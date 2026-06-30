@@ -98,7 +98,7 @@ Select the OAuth credential record. For more information, see [Connect a Jira to
 
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 4.  Select **Discover**  to discover all existing projects from Jira.
 
@@ -120,12 +120,8 @@ Select the OAuth credential record. For more information, see [Connect a Jira to
 
     Imported work items are added to the corresponding related lists.
 
-    **Note:** If the project key for a project is updated in Jira, the updated object names will not reflect in [[devops-landing-page-new|DevOps Change Velocity]]. Only when the object is updated in Jira, the new name will reflect in DevOps Change Velocity.
+    **Note:** If the project key for a project is updated in Jira, the updated object names will not reflect in DevOps Change Velocity. Only when the object is updated in Jira, the new name will reflect in DevOps Change Velocity.
 
 
 **Parent Topic:**[Jira integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jira-integration-dev-ops.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

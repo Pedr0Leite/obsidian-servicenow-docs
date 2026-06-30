@@ -16,7 +16,7 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 Prints a message to the wrapper log file: `<proxy server directory>/logs/wrapper_<date>.log`.
 
-This method is available only in an [[edge-encryption|Edge Encryption]] rule action script.
+This method is available only in an Edge Encryption rule action script.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -28,6 +28,3 @@ This method is available only in an [[edge-encryption|Edge Encryption]] rule act
 
 **Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/api-overview.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

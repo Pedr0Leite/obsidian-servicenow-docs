@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with On-Call Scheduling, Using Notify, Notify, Manage 
 
 # Set up Notify with On-Call Scheduling
 
-You can configure on-call scheduling to use [[notify-landing-page|Notify]] functionality to send SMS alerts and assign users to tasks based on the SMS responses.
+You can configure on-call scheduling to use Notify functionality to send SMS alerts and assign users to tasks based on the SMS responses.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Set up Notify with On-Call Scheduling for the first time or migrate from On-Call
 
     The On-Call Group is configured with the on-call workflows: **On-Call: Check Assignment Response**and **On-Call: Assign by Acknowledgement Voice** by default.
 
-4.  Navigate to **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+4.  Navigate to **Workflow** &gt; **Workflow Editor**.
 
 5.  Select the **On-Call: Assign by Acknowledgement** workflow.
 
@@ -80,7 +80,3 @@ Set up Notify with On-Call Scheduling for the first time or migrate from On-Call
 
 [Workflow editor title bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowEditorTitleBar.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[workflow-editor|Workflow editor]]

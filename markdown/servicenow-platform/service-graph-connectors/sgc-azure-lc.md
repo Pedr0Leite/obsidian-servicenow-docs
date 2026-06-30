@@ -14,9 +14,9 @@ breadcrumb: [Reference, Microsoft Azure, Service Graph Connectors, Integrating t
 
 # Life cycle management of records in Service Graph Connector for Microsoft Azure
 
-Life cycle management in the [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] monitors and updates the statuses of Azure resources throughout their entire life cycle, from creation to deletion.
+Life cycle management in the Service Graph Connector for Microsoft Azure monitors and updates the statuses of Azure resources throughout their entire life cycle, from creation to deletion.
 
-The life cycle management process helps maintain the accuracy and integrity of data in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The life cycle management process helps maintain the accuracy and integrity of data in the Configuration Management Database \(CMDB\).
 
 ## Life cycle management for CIs in Service Graph Connector for Microsoft Azure
 
@@ -248,7 +248,7 @@ Yes
 
 </td></tr><tr><td>
 
-[[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+IP Address \[cmdb\_ci\_ip\_address\]
 
 </td><td>
 
@@ -645,8 +645,3 @@ Yes
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-azure-reference.md)
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ip-address|IP Address]]

@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Dependencies and Requirements:
 
--   [[tsom-visibility|Telecom Visibility]] Core \(sn\_tsom\_core\)
+-   Telecom Visibility Core \(sn\_tsom\_core\)
 -   Discovery Core plugin \(com.snc.discovery.core\), which is automatically installed by Discovery.
 -   ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
@@ -71,7 +71,7 @@ Pattern execution logic: By default, when a TSOM pattern is run, it executes bot
 
 5.  Enable the replacement of various ITOM patterns with TSOM patters on a specific MID Server:
 
-    For example: The [[telecom-router-pattern|Telecom Router pattern]] replaces the Network Router pattern for a specific MID Server when **mid.telecom.discovery.patterns.enabled** is set to true for that MID Server.
+    For example: The Telecom Router pattern replaces the Network Router pattern for a specific MID Server when **mid.telecom.discovery.patterns.enabled** is set to true for that MID Server.
 
     1.  Go to the **Filter Navigator** and type **ecc\_agent\_config.list**.
 
@@ -87,7 +87,3 @@ Pattern execution logic: By default, when a TSOM pattern is run, it executes bot
 
 [Direct Discovery using Discovery Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/telecom-discovery-using-telecommunication-discovery-pattern.md)
 
-## Related
-
-- [[tsom-visibility|Telecom Visibility]]
-- [[telecom-router-pattern|Telecom Router Pattern]]

@@ -55,8 +55,5 @@ Monitor how users interact in your ServiceNow  web and mobile applications.
 -   **[Usage Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-experience-analytics-reference.md)**  
 Roles and properties installed with Usage Insights.
 
-**Parent Topic:**[[c_performanceAnalyticsAndReporting|Platform Analytics]]
+**Parent Topic:**[Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_performanceAnalyticsAndReporting.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [3E, Integration with third-party services, Health and Safety, Emplo
 
 # 3E Protect
 
-3E provides an external API called 3E Protect that integrates with [[hs-environmental-management-landing-page|Health and Safety Environmental management]] to automate chemical safety information retrieval and maintenance.
+3E provides an external API called 3E Protect that integrates with Health and Safety Environmental management to automate chemical safety information retrieval and maintenance.
 
 -   **[3E service provider overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3E-protect-overview.md)**  
 3E Protect is an external API service that provides access to a vast database of chemical metadata and Safety Data Sheets \(SDS\).
@@ -29,6 +29,3 @@ You can sync details of chemicals, such as hazard identification, chemical ingre
 
 **Parent Topic:**[Integration of 3E with Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-integration.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]

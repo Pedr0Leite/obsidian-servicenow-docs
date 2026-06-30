@@ -14,7 +14,7 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 # Service Portal Config Overview widget
 
-The Service Portal Config Overview widget is the widget that appears on the sp\_config homepage. Use this widget to navigate [[c_ServicePortal|Service Portal]] Configuration. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Service Portal Config Overview widget is the widget that appears on the sp\_config homepage. Use this widget to navigate Service Portal Configuration. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetSPConfigOverview.png"\] Alt text: Service Portal Config Overview widget with Branding Editor, Designer, Page Editor, Widget Editor, and Get Help as tiled options
 
@@ -29,6 +29,3 @@ The Service Portal Config Overview widget is the widget that appears on the sp\_
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

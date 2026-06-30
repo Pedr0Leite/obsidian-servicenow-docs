@@ -14,7 +14,7 @@ breadcrumb: [Getting started, Workforce Optimization for ITSM, IT Service Manage
 
 # Configuring groups in Workforce Optimization for ITSM
 
-As a manager, you can manage and optimize your entire workforce using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] from one central location. Organizing your teams, for example, different levels of employees in your organizational chart, into groups is the foundation on which Workforce Optimization for ITSM operates.
+As a manager, you can manage and optimize your entire workforce using Workforce Optimization for ITSM from one central location. Organizing your teams, for example, different levels of employees in your organizational chart, into groups is the foundation on which Workforce Optimization for ITSM operates.
 
 Therefore, after you set up your teams as groups in Workforce Optimization for ITSM, as a manager, you can route work, set up schedules, train your teams, and analyze all aspects of your workforce from one location.
 
@@ -30,7 +30,7 @@ Before you start implementing Workforce Optimization for ITSM, make sure you do 
 
 2.  **Assign a primary assignment group for each member of your team**
 
-    A team member can belong to multiple groups but you must identify one group identified as the primary group for each team member and assign it to them. This determines which assignment group's team calendar that the team member can view in the Schedules module in [Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-sow-workspace-scheduling.md) and also determines activities such as [[cf-coaching-landing|coaching]] and approvals. For more information on setting a primary assignment group, see [Assign a primary assignment group for each agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-primary-group-wfo-itsm.md).
+    A team member can belong to multiple groups but you must identify one group identified as the primary group for each team member and assign it to them. This determines which assignment group's team calendar that the team member can view in the Schedules module in [Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-sow-workspace-scheduling.md) and also determines activities such as coaching and approvals. For more information on setting a primary assignment group, see [Assign a primary assignment group for each agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-primary-group-wfo-itsm.md).
 
     The following image shows a representation of assigning a primary group to a team member who belongs to more than one group.\[Omitted image "organize-teams-wfo-itsm.png"\] Alt text: Diagram showing three regional assignment groups under Global Teams, each with managers and team members. Two team members belong to more than one group.
 
@@ -57,7 +57,3 @@ Associate each agent in your team to a primary assignment group to enable them t
 
 [Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/ext-points-exclude-access-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

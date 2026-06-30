@@ -14,7 +14,7 @@ breadcrumb: [Administer, Customer Service Management]
 
 Anonymous chat allows guest users to initiate chat sessions with consumer service agents through the Consumer Service Portal without requiring authentication.
 
-From the Consumer Service Portal, guest users can click the **Chat** link in the portal header to initiate a chat session with a consumer service agent. Clicking this link opens a form that requests some basic information, including the user's name, email address, and type of issue. Completing and submitting the form creates a chat request that is routed to the appropriate agent queue based on the selected issue type. Once the assigned agent accepts the request, a chat session is established. If necessary, the agent can [[create-a-consumer-record|create a consumer record]] or a case for the guest user, or transfer the chat to another agent.
+From the Consumer Service Portal, guest users can click the **Chat** link in the portal header to initiate a chat session with a consumer service agent. Clicking this link opens a form that requests some basic information, including the user's name, email address, and type of issue. Completing and submitting the form creates a chat request that is routed to the appropriate agent queue based on the selected issue type. Once the assigned agent accepts the request, a chat session is established. If necessary, the agent can create a consumer record or a case for the guest user, or transfer the chat to another agent.
 
 ## Setting up anonymous chat
 
@@ -23,7 +23,7 @@ Setting up the anonymous chat feature involves the following steps.
 1.  Activate the Consumer Service Portal plugin \(com.glide.service-portal.consumer-portal\).
 2.  Modify the default anonymous chat record producer or create a new record producer.
 3.  Create one matching rule for each agent queue.
-4.  [[set-anonymous-chat-properties|Configure anonymous chat properties]].
+4.  Configure anonymous chat properties.
 5.  If necessary, modify the Connect actions to provide the desired functionality for consumer service agents in chat conversations. The anonymous chat feature includes these actions: **Create Case for Guest** and **Create Consumer and Case for Guest**. For more information, see [Administer Connect actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_AdministerConnectActions.md).
 
 ## Anonymous chat plugins
@@ -43,7 +43,7 @@ For more information, see [Record Producer](https://raw.githubusercontent.com/Se
 
 ## Anonymous chat routing
 
-Information provided by the guest user assists with routing and also provides the context of the request to the consumer service agent. The chat request is routed to the appropriate agent queue based on the type of issue selected. The routing for anonymous chat requests uses [[c_CaseRouting|matching rules]]. Create one matching rule for each queue and tie a chat request to a chat queue based on the selected issue type. Matching [[gamification-components-rules|rules]] for anonymous chat are based on the Customer Interaction table.
+Information provided by the guest user assists with routing and also provides the context of the request to the consumer service agent. The chat request is routed to the appropriate agent queue based on the type of issue selected. The routing for anonymous chat requests uses [matching rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md). Create one matching rule for each queue and tie a chat request to a chat queue based on the selected issue type. Matching rules for anonymous chat are based on the Customer Interaction table.
 
 The following matching rules are provided:
 
@@ -95,9 +95,3 @@ Message shown to user when rate limit for guest conversations is breached. -   T
 
 [Routing and assigning customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md)
 
-## Related
-
-- [[c_CaseRouting|Routing and assigning customer service cases]]
-- [[create-a-consumer-record|Create a consumer record]]
-- [[set-anonymous-chat-properties|Configure anonymous chat properties]]
-- [[gamification-components-rules|Rules]]

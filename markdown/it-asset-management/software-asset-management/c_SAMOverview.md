@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Software Asset Management overview
 
-An overview of the functionality of the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+An overview of the functionality of the Software Asset Management application.
 
 Software Asset Management functionality consists of these main features.
 
@@ -50,7 +50,7 @@ Licensing
 
 </td><td>
 
-[[c_CreatingSoftwareModels|Software models]] created for all installed software products are used to tie software installations \(software being used\) with entitlements \(software owned\). Entitlements define license details and are assigned to software models.Features include publisher part number lookup, common per core and per processor license metrics, entitlement discovery maps, exclusion listing, client access, license change projection, entitlement import, and entitlement import error results list.
+Software models created for all installed software products are used to tie software installations \(software being used\) with entitlements \(software owned\). Entitlements define license details and are assigned to software models.Features include publisher part number lookup, common per core and per processor license metrics, entitlement discovery maps, exclusion listing, client access, license change projection, entitlement import, and entitlement import error results list.
 
 </td></tr><tr><td>
 
@@ -60,9 +60,9 @@ Discovery and normalization
 
 A discovery process, such as ServiceNow Discovery or Microsoft SCCM \(2012 v2 or 2016\), can be used to discover the software installed in your environment. The normalization process compares the discovered publisher, discovered product, and discovered version values against the ServiceNow repository of normalized equivalents
 
- An OOB Normalization library contains all content except publisher and product. Custom products can be created if a software product does not exist in the Software Library. Discovered software can also be manually normalized for reconciliation. A [[sam-software-discovery|software discovery]] model is then matched to discovered software installations.
+ An OOB Normalization library contains all content except publisher and product. Custom products can be created if a software product does not exist in the Software Library. Discovered software can also be manually normalized for reconciliation. A software discovery model is then matched to discovered software installations.
 
- Features include partial, full, and publisher normalization, License Workbench, License Position report, custom pattern normalization rules, normalization suggestions, on-premise customer support, and an optional [[c_SAMContentService|Software Asset Management content service]] to update the Normalization Library with pattern normalization rules.
+ Features include partial, full, and publisher normalization, License Workbench, License Position report, custom pattern normalization rules, normalization suggestions, on-premise customer support, and an optional Software Asset Management content service to update the Normalization Library with pattern normalization rules.
 
  The Integration — Microsoft SCCM 2016 plugin is compatible with SCCM version 1606, 1906, 1910, and 2002.
 
@@ -74,7 +74,7 @@ Reconciliation
 
 </td><td>
 
-The reconciliation process calculates the compliance status of software products regarding discovery and entitlements.Removal candidates are generated for unused software that can be used to [[reclaiming-software-sam|reclaim software]] rights.
+The reconciliation process calculates the compliance status of software products regarding discovery and entitlements.Removal candidates are generated for unused software that can be used to reclaim software rights.
 
  Features include reconciliation grouping, and remediation actions for resolving compliance issues.
 
@@ -84,11 +84,11 @@ Optimization
 
 </td><td>
 
-The reclamation process remediates non-compliance by uninstalling software from devices and reclaiming those software rights. The reclamation process can be automated using Client Software Distribution \(CSD\).Features include removal candidate and workflows, reclamation rule creation, software usage listing, and support for creating a purchase order directly using [[c_Procurement|Procurement]] integration. For more information, see the [Procurement overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md).
+The reclamation process remediates non-compliance by uninstalling software from devices and reclaiming those software rights. The reclamation process can be automated using Client Software Distribution \(CSD\).Features include removal candidate and workflows, reclamation rule creation, software usage listing, and support for creating a purchase order directly using Procurement integration. For more information, see the [Procurement overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md).
 
 </td></tr><tr><td>
 
-[[downgrade-rights|Downgrade Rights]]
+Downgrade Rights
 
 </td><td>
 
@@ -97,12 +97,3 @@ The concept of downgrading licenses is built into the Software Asset Management 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[reclaiming-software-sam|Reclaim software]]
-- [[c_Procurement|Procurement]]
-- [[downgrade-rights|Downgrade Rights]]

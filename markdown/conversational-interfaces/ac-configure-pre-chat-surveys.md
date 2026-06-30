@@ -14,11 +14,11 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Define pre-chat survey configurations
 
-Use pre-[[ci-conversational-chat-surveys|chat surveys]] to capture preliminary information from a customer. You can define a configuration that determines the pre-chat survey to be presented to your customers. From the responses received, [[awa-application-landing-page|Advanced Work Assignment]] routes chat conversations to appropriate queues and groups.
+Use pre-chat surveys to capture preliminary information from a customer. You can define a configuration that determines the pre-chat survey to be presented to your customers. From the responses received, Advanced Work Assignment routes chat conversations to appropriate queues and groups.
 
 ## Before you begin
 
-[[create-chat-surveys|Create the chat survey]] to be used in this pre-chat survey configuration.
+[Create the chat survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md) to be used in this pre-chat survey configuration.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Apply the conditions that determine the pre-chat questionnaire to be presented t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Under **Pre-chat surveys** on the **General** tab, select **View all**.
 
@@ -108,16 +108,7 @@ List of the pre-chat surveys available. Choose the survey to be presented to the
 
 ## Result
 
-When a requester completes the pre-chat survey, the user is transferred either to a live agent if [[ci-use-agent-chat|Agent Chat]] is set as the fulfiller interface or a [[virtual-agent-landing-page|virtual agent]] if Virtual Agent is set as the fulfiller. The user's pre-chat responses are stored as context in the chat interaction record. Before entering into a chat conversation, the assigned agent can review the context of the issue.
+When a requester completes the pre-chat survey, the user is transferred either to a live agent if Agent Chat is set as the fulfiller interface or a virtual agent if Virtual Agent is set as the fulfiller. The user's pre-chat responses are stored as context in the chat interaction record. Before entering into a chat conversation, the assigned agent can review the context of the issue.
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[create-chat-surveys|Create chat surveys]]
-- [[ci-configuring-chat-features|General chat settings]]
-- [[ci-conversational-chat-surveys|Chat surveys]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

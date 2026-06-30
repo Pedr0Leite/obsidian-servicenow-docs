@@ -21,20 +21,20 @@ Enable Accounts Payable fulfillers to use generative AI case summarization to qu
 
 Role required: admin
 
-Install the Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack from the ServiceNow® Store for the invoice data extraction skill.
+Install the Document Intelligence for Accounts Payable Operations Content Pack from the ServiceNow® Store for the invoice data extraction skill.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-2.  Expand the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group and select **Accounts Payable Operations**.
+2.  Expand the **Finance and Supply Chain** workflow group and select **Accounts Payable Operations**.
 
 3.  Activate and configure the skills for the APO application.
 
     |Skills|Action|
     |------|------|
     | | |
-    |Invoice case summarization|On the [[purchase-order-table|Purchase order]] line mapping skill card, select **Activate skill**.|
+    |Invoice case summarization|On the Purchase order line mapping skill card, select **Activate skill**.|
 
 4.  For Invoice case summarization skill:
 
@@ -114,8 +114,4 @@ Now Assist skills are available in the Now Assist panel. Turn on multi-language 
 
     The skill is displayed in the Active skills section.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[purchase-order-table|Purchase order]]

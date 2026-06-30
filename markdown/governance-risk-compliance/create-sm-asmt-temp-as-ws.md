@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create a Smart Assessment template
 
-Create a Smart Assessment template and impact automation that can be used in the vulnerability types of an [[exploring-op-vul|operational vulnerability]].
+Create a Smart Assessment template and impact automation that can be used in the vulnerability types of an operational vulnerability.
 
 ## Before you begin
 
@@ -20,21 +20,21 @@ Role required: sn\_oper\_res.admin
 
 ## About this task
 
-[[grc-opres-landing-page|Operational Resilience]] administrators contain the flow\_designer role, enabling them to update automation flows as needed.
+Operational Resilience administrators contain the flow\_designer role, enabling them to update automation flows as needed.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Assessment Workspace** or navigate to **All** &gt; **[[smart-asmnt-engine-landing-page|Smart Assessment Engine]]** &gt; **[[Administration|Administration]]** &gt; **Template Categories**.
+1.  Navigate to **Workspaces** &gt; **Assessment Workspace** or navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Template Categories**.
 
 2.  Select **New template**.
 
-    You can create [[airc-assessment-templates|assessment templates]] to manage your assessments in the Assessment Workspace. The following example shows demo data in an instance.
+    You can create assessment templates to manage your assessments in the Assessment Workspace. The following example shows demo data in an instance.
 
     \[Omitted image "asmt-workspace.png"\] Alt text: Assessment Workspace.
 
     When you select **New template**, the form is displayed.
 
-3.  In the [[create-assessment-template-form|Create assessment template form]], fill in the fields.
+3.  In the Create assessment template form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -74,14 +74,5 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-Configure the vulnerability type after adding the Smart Assessment template. For more information, see [[set-up-op-vul-type|Set up the Operational vulnerability type]].
+Configure the vulnerability type after adding the Smart Assessment template. For more information, see [Set up the Operational vulnerability type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-op-vul-type.md).
 
-## Related
-
-- [[set-up-op-vul-type|Set up the Operational vulnerability type]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[create-assessment-template-form|Create assessment template form]]

@@ -26,7 +26,7 @@ This task is similar to customizing the homepage for an individual catalog. In t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalogs**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalogs**.
 
 2.  Select **Add Catalogs** at the top of the page to add catalogs to this page.
 
@@ -56,6 +56,3 @@ This task is similar to customizing the homepage for an individual catalog. In t
 
 **Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ManagingTheHomepageForACatalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

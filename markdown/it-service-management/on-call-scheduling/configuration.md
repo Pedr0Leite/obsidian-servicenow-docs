@@ -14,7 +14,7 @@ breadcrumb: [On-Call Scheduling, IT Service Management]
 
 # Configuring On-Call Scheduling
 
-Plan and configure [[c_OnCallScheduling|On-Call Scheduling]] properties, templates, trigger rules, escalation policies, rosters, and schedules.
+Plan and configure On-Call Scheduling properties, templates, trigger rules, escalation policies, rosters, and schedules.
 
 As an administrator, you can configure preferences and application behavior and create tools that improve the effectiveness of roster members and shift managers. These are some of the tasks you can perform as an administrator.
 
@@ -28,7 +28,7 @@ You can configure the following contact methods and enable users to receive noti
 
 -   Slack: You can also configure a template and subflow for user responses to the notifications.
 -   Text and voice messages: You can configure phone number and workflows to drive escalation via text and voice message.
--   Microsoft Teams: Ensure that your ServiceNow instance is configured to integrate with Virtual Agent and [[r_ITServiceManagement|IT Service Management]] integration with Microsoft Teams plugin \(sn\_now\_teams\_it\) is active.
+-   Microsoft Teams: Ensure that your ServiceNow instance is configured to integrate with Virtual Agent and IT Service Management integration with Microsoft Teams plugin \(sn\_now\_teams\_it\) is active.
 -   Mobile push notifications: Configure ServiceNow Agent and enable mobile push notifications
 
 ## Redirection of UI16 module links to Service Operations Workspace
@@ -52,7 +52,3 @@ You can define and integrate a custom channel to send on-call escalation notific
 
 **Parent Topic:**[On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[r_ITServiceManagement|IT Service Management]]

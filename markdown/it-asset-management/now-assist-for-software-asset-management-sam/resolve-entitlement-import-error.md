@@ -15,14 +15,14 @@ breadcrumb: [Use generative AI skills, Now Assist for Software Asset Management 
 
 # Resolve entitlement import errors by using Now Assist for SAM
 
-Reduce manual effort when reviewing entitlement import errors in the [[sam-workspace|Software Asset Workspace]] using Now Assist for SAM AI skills.
+Reduce manual effort when reviewing entitlement import errors in the Software Asset Workspace using Now Assist for SAM AI skills.
 
 ## Before you begin
 
 The following plugins and store applications must be installed from [ServiceNow Store](https://store.servicenow.com/store) to use the AI skills:
 
--   [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]] \(sn-now-assist-sam\)
--   [[c_SoftwareAssetMgmt|Software Asset Management]] AI Advance \(sn-ai-sam-advance\)
+-   Now Assist for Software Asset Management \(SAM\) \(sn-now-assist-sam\)
+-   Software Asset Management AI Advance \(sn-ai-sam-advance\)
 -   Content library portal \(sn-itam-contlookup\)
 
 Role required: sam\_user or sam\_admin
@@ -35,7 +35,7 @@ When you import software entitlements using the [Import bulk entitlements in the
 
 To resolve this issue, Now Assist for SAM provides the following AI-powered skills that normalize publisher and product values:
 
--   [[sam-normalization|Software normalization]]
+-   Software normalization
 -   Product match reviewer
 
 After the file import completes, if any publisher or product names in the import file are misspelled, incomplete, or unrecognized, the skills run automatically to identify the correct values and provide corrections.
@@ -118,7 +118,7 @@ The Product match reviewer skill performs an AI-powered search and selects the c
 
 -   After the import is complete, an entitlement record is created and displayed on the **Entitlements** tab.
 -   The import error record is removed from the **Errors** tab.
--   The Entitlement creation widget in the AI activity section of the [[sam-workspace-landing|Software Asset overview]] page is updated. The widget displays the number of entitlement import errors requiring review. Select the link to view the Entitlement Import Error list.
+-   The Entitlement creation widget in the AI activity section of the Software Asset overview page is updated. The widget displays the number of entitlement import errors requiring review. Select the link to view the Entitlement Import Error list.
 
     \[Omitted image "import-errors-require-review.png"\] Alt text: Import errors to review
 
@@ -130,10 +130,3 @@ The Product match reviewer skill performs an AI-powered search and selects the c
 
 [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-normalization|Software normalization]]
-- [[sam-workspace-landing|Software asset overview]]

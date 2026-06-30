@@ -24,7 +24,7 @@ Enable the Take actions. For more information, see [Configuring the Access Simul
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[access-analyzer|Access Analyzer]]** &gt; **[[access-simulator|Access Simulator]]**.
+1.  Navigate to **All** &gt; **Access Analyzer** &gt; **Access Simulator**.
 
 2.  To simulate a change, click **Simulate** next to one the following scenarios:
 
@@ -33,7 +33,3 @@ Enable the Take actions. For more information, see [Configuring the Access Simul
     -   [Adding users to Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/add-user-to-group.md)
     -   [Removing users from Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/remove-user-from-group.md)
 
-## Related
-
-- [[access-analyzer|Access Analyzer]]
-- [[access-simulator|Access simulator]]

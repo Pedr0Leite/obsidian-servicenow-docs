@@ -18,7 +18,7 @@ An audit supervisor organizes and manages internal audits according to plans.
 
 ## Overview of audit supervisor workspace
 
-[[audit-management-overview-ws|Audit workspace]] provides a personalized experience for audit supervisors to manage their work better. There are four main sections that help in accomplishing their audit tasks better.
+Audit workspace provides a personalized experience for audit supervisors to manage their work better. There are four main sections that help in accomplishing their audit tasks better.
 
 -   **Overview**
 
@@ -71,7 +71,7 @@ Approve an plan.
 
 </td><td>
 
-[[approve-plan|Approve a plan]]
+Approve a plan
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Create an audit engagement
 
 </td></tr><tr><td>
 
-Perform [[risk-assessments|risk assessments]] and scope auditable units and entities based on the risk rating.
+Perform risk assessments and scope auditable units and entities based on the risk rating.
 
 </td><td>
 
@@ -95,12 +95,12 @@ Create test plans to document control testing procedure. Coordinate walkthroughs
 
 </td><td>
 
--   [[t_CreateATestTemplate|Create a test template]]
+-   Create a test template
 -   Create a test plan
 
 </td></tr><tr><td>
 
-Review [[audit-observations|audit observations]], issues and follow up on them.
+Review audit observations, issues and follow up on them.
 
 </td><td>
 
@@ -113,7 +113,7 @@ Review and approve audit engagements.
 
 </td><td>
 
-[[approve-reject-engagement|Approve or reject an engagement]]
+Approve or reject an engagement
 
 </td></tr><tr><td>
 
@@ -125,12 +125,3 @@ Generating report for an engagement
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[approve-plan|Approve a plan]]
-- [[risk-assessments|risk assessments]]
-- [[t_CreateATestTemplate|Create a test template]]
-- [[audit-observations|Audit observations]]
-- [[approve-reject-engagement|Approve or reject an engagement]]

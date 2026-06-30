@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with other channels, Virtual Agent, Conversational Int
 
 # Integrating Virtual Agent with messaging apps
 
-Enable users to run [[virtual-agent-landing-page|Virtual Agent]] bot conversations in supported third-party messaging apps. Use the Conversational Integration apps for Slack, Microsoft Teams, and Workplace that are available from the ServiceNow Store to configure these messaging apps on your ServiceNow instance.
+Enable users to run Virtual Agent bot conversations in supported third-party messaging apps. Use the Conversational Integration apps for Slack, Microsoft Teams, and Workplace that are available from the ServiceNow Store to configure these messaging apps on your ServiceNow instance.
 
 **Note:** Conversational Integration apps for Slack, Microsoft Teams, and Workplace, other consumer apps and voice apps are not supported for on-prem instances.
 
@@ -28,7 +28,7 @@ Use the Virtual Agent Conversational Integration apps to configure the messaging
 
 2.  Install the Conversational Integration apps for Slack, Microsoft Teams, and Workplace, LINE, Twilio, WhatsApp, Facebook Messenger, Alexa, Google Assistant, Amazon Connect, on your ServiceNow instance once they become available for installation after installing from the ServiceNow Store.
 
-    \[Omitted image "channels-and-integrations.png"\] Alt text: Channels and integrations in the [[convint-landing-page|Conversational Interfaces]] general settings portal.
+    \[Omitted image "channels-and-integrations.png"\] Alt text: Channels and integrations in the Conversational Interfaces general settings portal.
 
 3.  If needed, configure the system messages that users see in Virtual Agent conversations. You can also customize the common commands used in these messaging integrations.
 
@@ -56,9 +56,9 @@ The Virtual Agent interface for the Conversational Integration apps \(Slack, Mic
     4.  Click the **Manage** button in the specific channel and navigate to the Settings tab.
     5.  Click the **view settings** button against Contextual Actions.
     6.  Select the command record to be changed and update as needed.
--   **[[configure-virtual-agent|Configuring Virtual Agent]] system messaging in the Conversational Integration apps**
+-   **Configuring Virtual Agent system messaging in the Conversational Integration apps**
 
-    You can modify the default messages displayed to your users in Virtual Agent and [[ci-use-agent-chat|Agent Chat]] conversations. For details on customizing them, see [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]].
+    You can modify the default messages displayed to your users in Virtual Agent and Agent Chat conversations. For details on customizing them, see [Change Virtual Agent and Agent Chat system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md).
 
 -   **Rendering of input controls and bot responses in conversations**
 
@@ -93,21 +93,21 @@ In Virtual Agent, account linking maps the users of a supported chat or messagin
 -   **[Control topic visibility in Virtual Agent messaging channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/control-topic-visibility-channel.md)**  
 Suppress the display of a topic in a Virtual Agent messaging channel by using a condition script that excludes the topic from a channel.
 -   **[Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integration-apple-mssg.md)**  
-Use the [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]] application to empower customers to engage with your business using their Apple devices. Conversational Integration with Apple Messages for Business provides rich messaging capabilities such as Apple pay, forms, time picker, and authentication.
+Use the Conversational Integration with Apple Messages for Business application to empower customers to engage with your business using their Apple devices. Conversational Integration with Apple Messages for Business provides rich messaging capabilities such as Apple pay, forms, time picker, and authentication.
 -   **[Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm.md)**  
 Use this application to empower customers to engage with your business using Facebook Messenger.
 -   **[Conversational Integration with Google Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/gchat-conv-integration.md)**  
-Enable requesters to chat with Google Chat or live agents using the Google Chat application. Use the [[gchat-conv-integration|Conversational Integration with Google Chat]] app, available from the ServiceNow Store, to associate your instance with Google Chat.
+Enable requesters to chat with Google Chat or live agents using the Google Chat application. Use the Conversational Integration with Google Chat app, available from the ServiceNow Store, to associate your instance with Google Chat.
 -   **[Conversational Integration with LINE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-line.md)**  
-Conduct user-initiated, system-initiated, or agent-initiated conversations using the [[messg-line|Conversational Integration with LINE]] application. The application connects a requester with a virtual agent or live agent using your company's LINE account.
+Conduct user-initiated, system-initiated, or agent-initiated conversations using the Conversational Integration with LINE application. The application connects a requester with a virtual agent or live agent using your company's LINE account.
 -   **[Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md)**  
-Enable requesters to chat with Microsoft Teams or live agents using the Microsoft Teams application. Use the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] app, available from the ServiceNow Store, to associate your instance with Microsoft Teams.
+Enable requesters to chat with Microsoft Teams or live agents using the Microsoft Teams application. Use the Conversational Integration with Microsoft Teams app, available from the ServiceNow Store, to associate your instance with Microsoft Teams.
 -   **[Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-slack.md)**  
-Use the [[mssg-slack|Conversational Integration with Slack]] application to connect your requesters with Virtual Agent or live agents through your company’s Slack workspace.
+Use the Conversational Integration with Slack application to connect your requesters with Virtual Agent or live agents through your company’s Slack workspace.
 -   **[Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sms-twilio-store-app.md)**  
 Use this ServiceNow Store application to host Virtual Agent conversations on Twilio SMS to chat with virtual agent or live agents.
 -   **[Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-workplace.md)**  
-Use the [[mssg-workplace|Conversational Integration with Workplace from Facebook]] application to connect your requesters with Virtual Agent or live agents through your company’s Workplace from Facebook application.
+Use the Conversational Integration with Workplace from Facebook application to connect your requesters with Virtual Agent or live agents through your company’s Workplace from Facebook application.
 -   **[Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-twilio.md)**  
 Use this application to enable requesters to interact on WhatsApp chat with a virtual agent or live agent. The application connects a requester with a virtual agent or live agent using your company's WhatsApp-enabled Twilio phone number.
 -   **[Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp.md)**  
@@ -119,16 +119,3 @@ Use the IBM Watson Assistant topic to enable Virtual Agent to exchange informati
 
 **Parent Topic:**[Integrating Virtual Agent with other channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integrate-virtual-agent.md)
 
-## Related
-
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[configure-virtual-agent|Configuring Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]]
-- [[gchat-conv-integration|Conversational Integration with Google Chat]]
-- [[messg-line|Conversational Integration with LINE]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]

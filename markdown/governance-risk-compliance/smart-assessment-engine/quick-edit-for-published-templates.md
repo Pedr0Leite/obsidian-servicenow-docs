@@ -26,7 +26,7 @@ All changes made through quick edit are tracked in an edit history, providing fu
 
 ## Benefits of quick edit
 
-Quick edit in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] provides the following benefits:
+Quick edit in Smart Assessment Engine provides the following benefits:
 
 -   Reduces friction by enabling quick fixes for typos, grammar, and minor formatting issues directly in published templates.
 -   Avoids unnecessary creation of new template versions for small changes, streamlining template maintenance.
@@ -34,6 +34,3 @@ Quick edit in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] provid
 -   Maintains a complete history of all quick edits, supporting compliance and governance requirements.
 -   Improves operational efficiency for template managers.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

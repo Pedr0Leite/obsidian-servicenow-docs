@@ -14,9 +14,9 @@ breadcrumb: [Instance Scan, Maintain and monitor, Administer the ServiceNow AI P
 
 # Exploring Instance Scan
 
-If you are new to [[hs-landing-page|Instance Scan]], read this overview to learn what the tool can do. Follow the tutorial to create checks and execute scans that uses most basics of Instance Scan features.
+If you are new to Instance Scan, read this overview to learn what the tool can do. Follow the tutorial to create checks and execute scans that uses most basics of Instance Scan features.
 
-**Note:** Instance Scan doesn't fully support domain separation. [[hs-findings|Findings]] are visibly domain separated based on the domain of the source record. For more information see [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md).
+**Note:** Instance Scan doesn't fully support domain separation. Findings are visibly domain separated based on the domain of the source record. For more information see [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md).
 
 ## Instance Scan overview
 
@@ -26,17 +26,17 @@ Instance Scan uses the following records, components and scan types.
 
     Checks are singular focused rules that detect anomalies or opportunities in an instance. These checks can run against tables, records, or metadata. Checks are defined to identify security, upgrade best practices, manageability, user experience and performance vulnerabilities. See [Getting started with checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-intro-health-check.md) for more information.
 
--   **[[hs-results|Results]]**
+-   **Results**
 
     An Instance Scan result reports the status and type of the scan. See [Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md) for more information.
 
 -   **Findings**
 
-    A finding is a [[reference-email-admin|reference]] to a record that has violated a rule from a check on the instance. See [Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md) for more information.
+    A finding is a reference to a record that has violated a rule from a check on the instance. See [Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md) for more information.
 
 -   **Dashboard**
 
-    The [[hs-dashboard|Instance Scan dashboard]] is a system-wide visual representation of the health of your instance. The dashboard helps you manage and analyze the full [[hc-scan-results|scan results]] against your instance. See [Instance Scan dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-dashboard.md) for more information.
+    The Instance Scan dashboard is a system-wide visual representation of the health of your instance. The dashboard helps you manage and analyze the full scan results against your instance. See [Instance Scan dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-dashboard.md) for more information.
 
 -   **Quota rule**
 
@@ -48,11 +48,11 @@ Instance Scan uses the following records, components and scan types.
 
 -   **Point scan**
 
-    Execute all applicable checks against a single record, update set, or an application by selecting **Run Point Scan**. For example, if you [[hs-execute-point-scan|execute a point scan]] against a business rule, only the checks that are applicable to the business rule table run, and only that single target record is scanned. If you [[hs-execute-update-set-scan|execute an update set scan]] or an application scan, all records related to that update set or application are scanned. See [Execute an app scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-app-scan.md) and [Execute an update set scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-update-set-scan.md) for more information.
+    Execute all applicable checks against a single record, update set, or an application by selecting **Run Point Scan**. For example, if you execute a point scan against a business rule, only the checks that are applicable to the business rule table run, and only that single target record is scanned. If you execute an update set scan or an application scan, all records related to that update set or application are scanned. See [Execute an app scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-app-scan.md) and [Execute an update set scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-update-set-scan.md) for more information.
 
 -   **Test scan**
 
-    [[hs-execute-test-scan|Execute a test scan]] to verify if the check works as expected. The test scan enables you to test a single check instead of a full scan by selecting a single check and selecting **Test Check** on the Check form.
+    Execute a test scan to verify if the check works as expected. The test scan enables you to test a single check instead of a full scan by selecting a single check and selecting **Test Check** on the Check form.
 
 
 ## Instance Scan users
@@ -144,21 +144,9 @@ scan\_user
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about [[hs-using-scans|using Instance Scan]], see:
+To learn more about using Instance Scan, see:
 
 -   [Configuring Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-intro-scans.md)
 -   [Using Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-using-scans.md)
 -   [Instance Scan references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-references.md)
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[hs-dashboard|Instance Scan dashboard]]
-- [[hc-scan-results|Scan results]]
-- [[hs-execute-point-scan|Execute a point scan]]
-- [[hs-execute-update-set-scan|Execute an update set scan]]
-- [[hs-execute-test-scan|Execute a test scan]]
-- [[hs-using-scans|Using Instance Scan]]

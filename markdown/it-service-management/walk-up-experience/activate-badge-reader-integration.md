@@ -22,7 +22,7 @@ Role required: sn\_badge.badge\_admin
 
 ## About this task
 
-The Badge Reader Integration application is a framework enabling other [[dex-workspace-application-tab|applications]], such as [[walkup-experience-landing-page|Walk-up Experience]], to integrate with badge reader hardware. Administrators configure and manage badge reader clients and integrations by linking badge scanners to walk-up locations and ensuring there is mapping between badge ID numbers and the reader.
+The Badge Reader Integration application is a framework enabling other applications, such as Walk-up Experience, to integrate with badge reader hardware. Administrators configure and manage badge reader clients and integrations by linking badge scanners to walk-up locations and ensuring there is mapping between badge ID numbers and the reader.
 
 Developers can extend the badge scanning framework to trigger actions in other applications based on a badge scan event. The Badge Reader Integration application does not require customization, but is customizable to respond to unique badge system hardware.
 
@@ -46,7 +46,3 @@ Several types of components are installed with activation of the Badge Reader In
 
 **Parent Topic:**[Badge Reader Integration for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/badge-scan-walkup-onsite.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[walkup-experience-landing-page|Walk-up Experience]]

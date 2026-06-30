@@ -15,7 +15,7 @@ breadcrumb: [Smartsheet external content connector, Configure, External Content 
 
 # Configure Smartsheet for external content indexing
 
-Generate an API key in Smartsheet to allow the [[smartsheet-external-content-connector|Smartsheet external content connector]] to access your Smartsheet source system.
+Generate an API key in Smartsheet to allow the Smartsheet external content connector to access your Smartsheet source system.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ For details on creating and configuring a Smartsheet external content connector,
 
 **Parent Topic:**[Smartsheet external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/smartsheet-external-content-connector.md)
 
-## Related
-
-- [[smartsheet-external-content-connector|Smartsheet external content connector]]

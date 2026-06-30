@@ -14,12 +14,9 @@ breadcrumb: [Explore, Application Manager, Administering applications, Get start
 
 # Application Manager installed tab
 
-You can view all installed applications and plugins from one place in the [[application-manager|Application Manager]].
+You can view all installed applications and plugins from one place in the Application Manager.
 
 The **Installed** tab displays applications and plugins that are currently installed on your instance. Installed applications and plugins display their current version, as well as notifying you if the app is up to date or has an update available. You can also apply filters to narrow your search or use the sorting option to display by alphabetical order or based on recently released.
 
 \[Omitted image "app-mgr-installed.png"\] Alt text: application manager installed page.
 
-## Related
-
-- [[application-manager|Application Manager]]

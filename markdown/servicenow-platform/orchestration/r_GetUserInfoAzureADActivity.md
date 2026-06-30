@@ -16,7 +16,7 @@ breadcrumb: [Azure AD activity pack, Orchestration activity packs, Classic Orche
 
 The Get User Info activity returns the named user's information from the Azure Active Directory.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
 
 **Important:** The REST message used for this activity must be configured to use [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_OAuthApplications.md).
 
@@ -84,7 +84,7 @@ user\_info
 The **user\_info** array contains attributes that can be leveraged by other activities as inputs. For example, the user **objectid** output \(GUID\) can be passed to the Add User to Group activity as the **user\_id** input.-   **objectid**: User's Azure AD identifier.
 -   **accountEnabled**: Boolean variable indicating whether the user's account is active or inactive.
 -   **displayName**: Users display name, such as **jacinto.gawron**.
--   **userPrincipalName**: User's name in [[email|email]] format, such as **jacinto.gawron@wammo.com**.
+-   **userPrincipalName**: User's name in email format, such as **jacinto.gawron@wammo.com**.
 -   **mailNickname**: User's email alias.
 
 </td></tr></tbody>
@@ -94,12 +94,7 @@ The **user\_info** array contains attributes that can be leveraged by other acti
 |---------|-----------|
 |User exists|Activity found the named user.|
 |User does not exist|Activity was unable to find the named user in the customer tenant domain.|
-|Failure|Activity failed to [[c_Connect|connect]] to Azure AD.|
+|Failure|Activity failed to connect to Azure AD.|
 
 **Parent Topic:**[Azure AD activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_AzureADActivityPack.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[email|Email]]
-- [[c_Connect|Connect]]

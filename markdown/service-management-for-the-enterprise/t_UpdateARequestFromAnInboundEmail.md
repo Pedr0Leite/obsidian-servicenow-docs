@@ -27,8 +27,5 @@ Requests can be automatically updated from the information in inbound email repl
 3.  You can use the email action as is or modify it to meet the needs of your organization.
 
 
-**Parent Topic:**[[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]
+**Parent Topic:**[Request creation using inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ReqCreateUseInboundEmailAct.md)
 
-## Related
-
-- [[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]

@@ -12,7 +12,7 @@ breadcrumb: [Activate Service Management, Service Management]
 
 # Activate other Service Management applications
 
-After the [[c_ServiceManagement|Service Management]] Core plugin has been activated, you can activate other SM applications, such as Field Service management and [[FacilitiesLandingPage|facilities service management]]. You can also activate CMS portals for each of these SM applications to add them to the Service Management Portal.
+After the Service Management Core plugin has been activated, you can activate other SM applications, such as Field Service management and facilities service management. You can also activate CMS portals for each of these SM applications to add them to the Service Management Portal.
 
 <table id="table_lnh_kp3_br"><thead><tr><th>
 
@@ -36,7 +36,7 @@ com.snc.facilities.core
 
 </td><td>
 
-Manages [[c_FacilitiesRequests|facilities requests]] and enables users to report and track requests by their location on a floor plan. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
+Manages facilities requests and enables users to report and track requests by their location on a floor plan. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
 
  Facilities Service Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported until deprecation. Workplace Service Delivery provides the latest experience for this functionality. For details, see the [KB0867184 Deprecation Process](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -173,11 +173,5 @@ com.snc.marketing\_service\_automation.cms
 Displays the Marketing Service Automation SM application on the Service Management portal. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[t_ActivateServiceManagement|Activate Service Management]]
+</table>**Parent Topic:**[Activate Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateServiceManagement.md)
 
-## Related
-
-- [[t_ActivateServiceManagement|Activate Service Management]]
-- [[c_ServiceManagement|Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]

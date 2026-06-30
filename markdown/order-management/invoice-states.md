@@ -25,8 +25,5 @@ Invoices move through different states during its life cycle after an accounts p
 |Paid|The customer has submitted payment in full for the invoice.|
 |Partially paid|The customer has submitted partial payment, and a balance remains outstanding.|
 
-**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]

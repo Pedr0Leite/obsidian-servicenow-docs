@@ -14,7 +14,7 @@ breadcrumb: [Manage financials for demands, Next Experience for Demand Managemen
 
 # Associate monetary and non-monetary benefit plans
 
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -40,7 +40,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 4.  Select the benefit plan that you want to associate.
 
-5.  On the [[benefit-plan-form-project-management|Benefit Plan form]], fill in the **Associated benefit** field with the benefit plan that you want to associate.
+5.  On the Benefit Plan form, fill in the **Associated benefit** field with the benefit plan that you want to associate.
 
 6.  Select **Save**.
 
@@ -62,8 +62,3 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 [Non-monetary benefit plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/non-monetary-benefit-plan-form-ppw.md)
 
-## Related
-
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]
-- [[c_DemandManagement|Demand Management]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

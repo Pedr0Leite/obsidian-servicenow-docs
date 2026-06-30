@@ -12,28 +12,16 @@ breadcrumb: [Security Case Management, Threat Intelligence, Enterprise security 
 
 # Case creation from security artifacts
 
-In addition to creating cases manually from Security Case Management, you can also create cases from security artifacts, such as security incidents, [[c_IoCs|indicators of compromise]], affected users, and configuration items.
+In addition to creating cases manually from Security Case Management, you can also create cases from security artifacts, such as security incidents, indicators of compromise, affected users, and configuration items.
 
--   **[[cases-in-threat|IoCs and observables in cases]]**  
-In [[threat-intel-landing-page|Threat Intelligence]], you can create cases from IoCs and [[c_Observables|observables]], as well as add IoCs and observables to existing cases. You can also create observables directly from a case.
--   **[[case-in-sir|Security incidents in cases]]**  
-In [[sir-landing-page|Security Incident Response]], you can create cases from security incidents, CIs, and affected users, as well as add those artifacts to existing cases.
--   **[[cases-from-cis|Configuration items in cases]]**  
-You can create a new case from one or more configuration items \(CI\) in the Configuration Item \[cmdb\_ci\] table. You can also [[add-cis-to-cases-sir|add CIs to existing cases]].
--   **[[cases-from-affected-users|Affected users in cases]]**  
+-   **[IoCs and observables in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-in-threat.md)**  
+In Threat Intelligence, you can create cases from IoCs and observables, as well as add IoCs and observables to existing cases. You can also create observables directly from a case.
+-   **[Security incidents in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-in-sir.md)**  
+In Security Incident Response, you can create cases from security incidents, CIs, and affected users, as well as add those artifacts to existing cases.
+-   **[Configuration items in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-from-cis.md)**  
+You can create a new case from one or more configuration items \(CI\) in the Configuration Item \[cmdb\_ci\] table. You can also add CIs to existing cases.
+-   **[Affected users in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-from-affected-users.md)**  
 You can create a new case from one or more affected users in the User \[sys\_user\] table. You can also add users to existing cases.
 
-**Parent Topic:**[[case-mgmt|Security Case Management]]
+**Parent Topic:**[Security Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)
 
-## Related
-
-- [[cases-in-threat|IoCs and observables in cases]]
-- [[case-in-sir|Security incidents in cases]]
-- [[cases-from-cis|Configuration items in cases]]
-- [[cases-from-affected-users|Affected users in cases]]
-- [[case-mgmt|Security Case Management]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[add-cis-to-cases-sir|Add CIs to existing cases]]

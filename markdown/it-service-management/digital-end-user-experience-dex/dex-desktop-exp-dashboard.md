@@ -64,9 +64,9 @@ Desktop Assistant Version in use
 
 </td><td>
 
-Displays the current version of Desktop Assistant running on user [[dex-workspace-devices-tab|devices]].
+Displays the current version of Desktop Assistant running on user devices.
 
- This information can help you confirm that the application is up to date and identify any potential compatibility issues with the OS or other [[dex-workspace-application-tab|applications]].
+ This information can help you confirm that the application is up to date and identify any potential compatibility issues with the OS or other applications.
 
 </td><td>
 
@@ -77,7 +77,3 @@ DEX Desktop Assistant\[sn\_dex\_desktop\_exp\]
 
 **Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure Telecom Visibility, Configure, Telecommunications Service
 
 # Activate Telecom Discrepancy Identification and Reconciliation
 
-Activate the [[exploring-telecom-reconciliation|Telecom Discrepancy Identification and Reconciliation]] feature \(part of the [[tsom-visibility|Telecom Visibility]] plugin\) to ensure consistency between telecom network resources discovered in the live network and the data represented in the CMDB or Telecom Network Inventory \(TNI\). This feature helps detect and remediate mismatches automatically, supporting service accuracy and data integrity across your telecom environment.
+Activate the Telecom Discrepancy Identification and Reconciliation feature \(part of the Telecom Visibility plugin\) to ensure consistency between telecom network resources discovered in the live network and the data represented in the CMDB or Telecom Network Inventory \(TNI\). This feature helps detect and remediate mismatches automatically, supporting service accuracy and data integrity across your telecom environment.
 
 ## Before you begin
 
 Role required: admin
 
-To use this feature, your organization must have an active subscription to TSOM. [[exploring-telecom-discovery|Telecom Discovery]], Telecom Visibility, and this feature are licensed together.
+To use this feature, your organization must have an active subscription to TSOM. Telecom Discovery, Telecom Visibility, and this feature are licensed together.
 
 ## About this task
 
@@ -57,8 +57,3 @@ Plugin dependencies - Ensure the following plugins are installed and activated:
 
 [Control CI attribute updates using Reconciliation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/control-ci-attribute-updates-using-reconciliation-rules.md)
 
-## Related
-
-- [[exploring-telecom-reconciliation|Telecom Discrepancy Identification and Reconciliation]]
-- [[tsom-visibility|Telecom Visibility]]
-- [[exploring-telecom-discovery|Telecom Discovery]]

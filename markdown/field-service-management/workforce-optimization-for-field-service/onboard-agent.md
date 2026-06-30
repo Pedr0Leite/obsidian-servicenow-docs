@@ -54,8 +54,5 @@ You can also do the initial configuration of onboarding an external manager thro
 
 ## Result
 
-The system sends an email to the newly onboarded agent that includes a URL to reset the password while logging to Field Service [[field-service-contractor-portal|Contractor Portal]] for the first time.
+The system sends an email to the newly onboarded agent that includes a URL to reset the password while logging to Field Service Contractor Portal for the first time.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

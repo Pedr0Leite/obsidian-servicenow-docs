@@ -18,7 +18,7 @@ After you identify the specific correlation event rule from the list, the next s
 
 ## Overview of mapping correlation event fields
 
-For the [[mapping-logrhythm|mapping]] step, you can ingest sample correlation events for the selected correlation rule. During this mapping phase, you can ensure all relevant correlation event field data is mapped to the appropriate place on the SIR incident form and then visualize the SIR incident in the preview section.
+For the mapping step, you can ingest sample correlation events for the selected correlation rule. During this mapping phase, you can ensure all relevant correlation event field data is mapped to the appropriate place on the SIR incident form and then visualize the SIR incident in the preview section.
 
 The following figure shows the default mapping configuration that is provided for creating the correlation event profile. You can customize the fields that populate the security incident.
 
@@ -36,12 +36,8 @@ Below is a summary of the steps required to map correlation events:
 -   Event Aggregation Criteria: Define additional event aggregation criteria that aggregates an incoming correlation event to an existing SIR security incident instead of creating similar, potentially duplicate incidents. Using field matching value criteria for each profile, this additional aggregation capability can reduce the number of active, overlapping security incidents by placing all related security notable event data on a single security incident.
 -   Format Field Translation: In certain cases, event field values in the ArcSight ESM correlation event may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical.
 
-    For example, with the script editor, a category value of [[threat-intelligence-malware|Malware]] Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
+    For example, with the script editor, a category value of Malware Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
 
 
 The next step is to ingest sample correlation events and map values to the SIR security incident fields.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intelligence-malware|Malware]]

@@ -22,11 +22,11 @@ Role required: sn\_egd\_core.admin
 
 ## About this task
 
-**Aspirations** are used by employees to identify and track personal and professional goals. An employee can [[egd-create-growth-plan|create a growth plan]] from an **Aspiration**.
+**Aspirations** are used by employees to identify and track personal and professional goals. An employee can create a growth plan from an **Aspiration**.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Aspirations** &gt; **Aspirations**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Aspirations** &gt; **Aspirations**.
 
 2.  Select **New**.
 
@@ -43,7 +43,3 @@ As an Talent admin you can create and maintain aspiration types, see [Add Talent
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-create-growth-plan|Create a growth plan]]
-- [[egd-landing-page|Talent Development Core]]

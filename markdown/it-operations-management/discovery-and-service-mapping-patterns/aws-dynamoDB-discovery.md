@@ -14,11 +14,11 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Amazon DynamoDB discovery using Patterns
 
-The ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] applications use the Amazon AWS DynamoDB pattern to find components of DynamoDB. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications use the Amazon AWS DynamoDB pattern to find components of DynamoDB. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Amazon AWS DynamoDB pattern deploys REST APIs for fetching information about DynamoDB. You can also configure Service Mapping and Discovery to discover AWS DynamoDB components using AWS events.
 
-The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and [[cloud-governance|cloud governance]]. C2S is the government program that brings AWS into the Intelligence Community.
+The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and cloud governance. C2S is the government program that brings AWS into the Intelligence Community.
 
 ## Request apps on the Store
 
@@ -46,7 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **\(For top-down discovery by Service Mapping\) Run horizontal discovery of the Logical Datacenters**
 
-    Discover Logical Datacenters hosting DynamoDBs as described in Run Discovery on an AWS cloud service account in the ServiceNow [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] documentation.
+    Discover Logical Datacenters hosting DynamoDBs as described in Run Discovery on an AWS cloud service account in the ServiceNow Cloud Provisioning and Governance documentation.
 
 -   **Cloud Discovery**
 
@@ -321,9 +321,3 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 
 [Define a Cloud REST Query for cloud computing devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cloud-rest-query-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-governance|Cloud Governance]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

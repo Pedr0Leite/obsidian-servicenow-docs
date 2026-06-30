@@ -14,7 +14,7 @@ breadcrumb: [Enhanced handling of user inputs, Configure NLU in Virtual Agent, C
 
 # Configure enhanced natural language user input handling
 
-Add enhanced natural language handling for boolean user responses to your [[virtual-agent-landing-page|Virtual Agent]] environment. If you're using additional languages or third-party NLU providers, specify the model and intents that define variations in yes/no utterances for your bot.
+Add enhanced natural language handling for boolean user responses to your Virtual Agent environment. If you're using additional languages or third-party NLU providers, specify the model and intents that define variations in yes/no utterances for your bot.
 
 ## Before you begin
 
@@ -100,6 +100,3 @@ Depending on your environment, your configuration may contain entries for other 
 
 **Parent Topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/natural-language-user-response-handling.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

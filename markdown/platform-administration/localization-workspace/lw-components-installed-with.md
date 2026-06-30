@@ -14,11 +14,11 @@ breadcrumb: [Localization Workspace reference, Localization Workspace, Translati
 
 # Components installed with Localization Workspace
 
-Several types of components are installed with activation of the [[localization-workspace|Localization Workspace]] plugin, including tables, user roles, and [[c_ScheduledJobs|scheduled jobs]].
+Several types of components are installed with activation of the Localization Workspace plugin, including tables, user roles, and scheduled jobs.
 
 ## Components from Localization Framework used in Localization Workspace
 
-Localization Workspace builds on functionality from [[localization-framework-landing|Localization Framework]], including tables and roles. Installing Localization Workspace also installs Localization Framework if it isn't already activated. For detailed information see [Components installed with Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/components-installed-with-lf.md).
+Localization Workspace builds on functionality from Localization Framework, including tables and roles. Installing Localization Workspace also installs Localization Framework if it isn't already activated. For detailed information see [Components installed with Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/components-installed-with-lf.md).
 
 ## Roles installed
 
@@ -181,11 +181,5 @@ Translation Target Group Info \(from version 2.0.2\)
 **Related topics**  
 
 
-[[find-components|Find components installed with an application]]
+[Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[localization-workspace|Localization Workspace]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[localization-framework-landing|Localization Framework]]

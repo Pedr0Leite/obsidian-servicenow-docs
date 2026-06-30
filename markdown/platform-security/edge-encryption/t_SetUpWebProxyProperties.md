@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Configure a web proxy
 
-If your network uses a web proxy, you can set up the [[edge-encryption|Edge Encryption]] proxy to use the web proxy.
+If your network uses a web proxy, you can set up the Edge Encryption proxy to use the web proxy.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-If your network does not use a web proxy, leave the [web proxy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md) in the [[sc-configuration|configuration]] file commented out.
+If your network does not use a web proxy, leave the [web proxy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md) in the configuration file commented out.
 
-The Edge Encryption proxy server supports HTTP connection to and [[basic-authentication|basic authentication]] with the web proxy.
+The Edge Encryption proxy server supports HTTP connection to and basic authentication with the web proxy.
 
 ## Procedure
 
@@ -49,8 +49,3 @@ The Edge Encryption proxy server supports HTTP connection to and [[basic-authent
 
 **Next topic:**[Set the proxy server initial memory limit and upper bound memory limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/increase-memory.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[basic-authentication|Basic authentication]]

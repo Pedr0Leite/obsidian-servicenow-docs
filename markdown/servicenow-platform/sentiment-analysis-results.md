@@ -22,8 +22,5 @@ Following are the color indicators in the bar chart:
 -   Red: Negative
 -   Blue: Neutral
 
-**Parent Topic:**[[sentiment-analysis|Sentiment analysis for surveys]]
+**Parent Topic:**[Sentiment analysis for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis.md)
 
-## Related
-
-- [[sentiment-analysis|Sentiment analysis for surveys]]

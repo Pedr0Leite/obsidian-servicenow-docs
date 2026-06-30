@@ -14,7 +14,7 @@ breadcrumb: [Field settings, Indexed sources, Configuring AI Search, AI Search, 
 
 # Create a field setting for an AI Search indexed source
 
-Define an indexed source field setting to configure [[ia-ai-search|AI Search]] content indexing behavior for a specific field on source table records.
+Define an indexed source field setting to configure AI Search content indexing behavior for a specific field on source table records.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ To make the new field setting take effect, perform a full table reindex for the 
 
 **Parent Topic:**[Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

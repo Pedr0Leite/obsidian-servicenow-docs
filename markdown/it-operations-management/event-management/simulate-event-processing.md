@@ -26,7 +26,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Events**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Events**.
 
 2.  Open the event you want to simulate.
 
@@ -34,12 +34,8 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 4.  In the info message that appears at the top of the screen, select the link to the created simulated alert.
 
-5.  View which [[create-event-rules|event rules]] and event field mapping rules were applied and the event field values by selecting the **Activities** tab.
+5.  View which event rules and event field mapping rules were applied and the event field values by selecting the **Activities** tab.
 
 
 **Parent Topic:**[Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

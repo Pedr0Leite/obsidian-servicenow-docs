@@ -12,7 +12,7 @@ breadcrumb: [Tables and data, Configure core features, Administer the ServiceNow
 
 # Data Management
 
-Manage your instance data by [[configuring-data-management|configuring data management]] policies to archive and delete data from the tables in your primary database.
+Manage your instance data by configuring data management policies to archive and delete data from the tables in your primary database.
 
 ## Get started
 
@@ -34,18 +34,11 @@ Manage data growth\[Omitted image "bus-database.svg"\] Alt text:Manage the growt
 
 </td><td>
 
-[Database rotation\[Omitted image "ind-renewable-recycling.svg"\] Alt text:Learn about [[c_DatabaseRotation|applying database rotation techniques]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseRotation.md)
+[Database rotation\[Omitted image "ind-renewable-recycling.svg"\] Alt text:Learn about applying database rotation techniques.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseRotation.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Data Management [[r_SetArchiveRuleProcessingBehavior|system properties]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Data Management system properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configuring-data-management|Configuring Data Management]]
-- [[c_DatabaseRotation|Applying database rotation techniques]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[reference-email-admin|Reference]]

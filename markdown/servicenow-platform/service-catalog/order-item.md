@@ -58,7 +58,7 @@ Role required: none
 
     2.  To view field changes and comments about your request, use the **Updates** tab.
 
-    3.  Tap \[Omitted image "more-items.png"\] Alt text: Plus icon to add comments and [[c_WorkNotes|work notes]], or to attach a file.
+    3.  Tap \[Omitted image "more-items.png"\] Alt text: Plus icon to add comments and work notes, or to attach a file.
 
     **Note:** When you add comments for a resolved incident, you can reopen it.
 
@@ -80,11 +80,7 @@ Role required: none
 
 [Enable the cart in Now Mobile]()
 
-[Edit the [[label|label]] of Submit button for a record producer]()
+[Edit the label of Submit button for a record producer]()
 
 [Configure Now Mobile properties]()
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[label|Label]]

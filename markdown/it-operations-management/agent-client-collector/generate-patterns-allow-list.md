@@ -20,7 +20,7 @@ Generate an allowlist for a selection of patterns, to configure the patterns per
 
 Ensure that the following plugins are installed on your instance:
 
--   [[r-discovery|Discovery]] \(com.snc.discovery\)
+-   Discovery \(com.snc.discovery\)
 -   Pattern Designer Enhancements \(com.sn\_itom\_pde\)
 
 Role required: discovery\_admin or agent\_client\_collector\_admin
@@ -54,6 +54,3 @@ Define temporary variables by assigning values such as executable paths, config 
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -32,7 +32,7 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
-2.  Open the required [[demand-form|demand form]].
+2.  Open the required demand form.
 
 3.  Select the Monetary Benefit Plans related list.
 
@@ -40,7 +40,7 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
     **Note:** To create a monetary benefit plan from the **Financials Summary** page, select **Manage**.
 
-5.  On the [[monetary-benefit-plan-form|Monetary Benefit Plan form]], fill in the fields.
+5.  On the Monetary Benefit Plan form, fill in the fields.
 
     For a description of the field names, see [Monetary Benefit Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/monetary-benefit-plan-form.md).
 
@@ -51,15 +51,10 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
 ## What to do next
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
+On the Benefit Plan form, view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
 
 -   **[Update a monetary benefit plan breakdown for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/update-a-monetary-benefit-plan-breakdown-for-a-demand.md)**  
 Update a monetary benefit plan breakdown record that specifies the estimated and actual benefits, at a granular level, for specific fiscal periods.
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[monetary-benefit-plan-form|Monetary Benefit Plan form]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

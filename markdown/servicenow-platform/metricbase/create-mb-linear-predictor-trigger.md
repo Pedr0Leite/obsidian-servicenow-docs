@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The linear predictor trigger uses past data to generate a line that predicts future values. When [[metricbase|MetricBase]] predicts that the linear value reaches a threshold, the trigger executes.
+The linear predictor trigger uses past data to generate a line that predicts future values. When MetricBase predicts that the linear value reaches a threshold, the trigger executes.
 
 \[Omitted image "linear-predictor-trigger.png"\] Alt text: Linear predictor crosses the threshold.
 
@@ -193,6 +193,3 @@ How far into the future that you want the linear predictor to look to see if the
 
 Associate this trigger with a Workflow Studio flow. For more information, see [Assign a trigger to a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/assign-trigger-to-workflow.md).
 
-## Related
-
-- [[metricbase|MetricBase]]

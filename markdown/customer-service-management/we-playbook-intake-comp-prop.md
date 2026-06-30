@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Playbook intake
 
-Component properties enable you to configure the behavior of the [[we-playbook-intake-comp-overview|Playbook intake component]] instance on the third-party website.
+Component properties enable you to configure the behavior of the Playbook intake component instance on the third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Prefill fields
 
 </td><td>
 
-Query that automatically populates fields on the Playbook [[r_CustomerServiceCaseForm|case form]]. Example account = Solana^state=draft.The query overrides all the template fields configured on the record generator.
+Query that automatically populates fields on the Playbook case form. Example account = Solana^state=draft.The query overrides all the template fields configured on the record generator.
 
 </td></tr><tr><td>
 
@@ -182,12 +182,7 @@ Option to hide the error messages from end user when the component fails to load
 
 [Embed the Playbook intake component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-playbook-intake-comp.md)
 
-[[we-playbook-intake-event-handler|Event handler in the Playbook intake component]]
+[Event handler in the Playbook intake component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-event-handler.md)
 
 [Sample code for the Playbook intake component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-playbook-intake-sample-code.md)
 
-## Related
-
-- [[we-playbook-intake-event-handler|Event handler in the Playbook intake component]]
-- [[we-playbook-intake-comp-overview|Playbook intake component]]
-- [[r_CustomerServiceCaseForm|Case form]]

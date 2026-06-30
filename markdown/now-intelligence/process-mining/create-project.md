@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the left of the page, select the External data integration icon \( \[Omitted image "ext-dataset-modules.png"\] Alt text: External data integration icon\).
 
@@ -44,7 +44,7 @@ Role required: sn\_process\_mining\_admin
 
 6.  Select **Add child entity**.
 
-    **Note:** You must [[child-entity|add a child entity]] if you are doing multi-dimensional mining using external data.
+    **Note:** You must add a child entity if you are doing multi-dimensional mining using external data.
 
 7.  On the form, fill in the fields.
 
@@ -123,7 +123,3 @@ Select the target reference field.**Note:** To provide a value for this field, y
 
 **Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/external-dataset.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[child-entity|Add a child entity]]

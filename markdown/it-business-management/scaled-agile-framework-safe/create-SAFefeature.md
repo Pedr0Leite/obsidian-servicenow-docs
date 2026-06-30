@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board** &gt; **Backlog**.
+1.  Navigate to **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board** &gt; **Backlog**.
 2.  From the list, select **ART**.
 3.  From the adjacent list, select your agile release train \(ART\).
 4.  From the Create list, select **Create Feature**. The feature is displayed in the **Backlog** tab with the state as **Backlog**.
@@ -111,7 +111,7 @@ Color
 
 </td><td>
 
-Color that you attribute to the feature. Feature colors help you visually identify and group stories by their feature on the team's backlog page of the SAFe board.This color also appears as a filled circle on the SAFe story cards on the [[safe-pi-planning-board|SAFe PI planning board]] so that you can identify its feature.
+Color that you attribute to the feature. Feature colors help you visually identify and group stories by their feature on the team's backlog page of the SAFe board.This color also appears as a filled circle on the SAFe story cards on the SAFe PI planning board so that you can identify its feature.
 
 </td></tr><tr><td>
 
@@ -246,7 +246,7 @@ Estimated duration for completion of the job.
 Use the SAFe stories related list to view and add stories to the feature.
 
 -   **[Split a SAFe feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/split-a-safe-feature.md)**  
-[[split-a-safe-feature|Split a SAFe feature]] into two separate features so that you can track complete and incomplete stories. You can move the feature with the incomplete stories to your backlog or to a future program increment \(PI\) so that you can maintain accurate metrics of the previous sprints and PIs.
+Split a SAFe feature into two separate features so that you can track complete and incomplete stories. You can move the feature with the incomplete stories to your backlog or to a future program increment \(PI\) so that you can maintain accurate metrics of the previous sprints and PIs.
 
 **Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/key-entities-SAFe.md)
 
@@ -255,8 +255,3 @@ Use the SAFe stories related list to view and add stories to the feature.
 
 [Define a story in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[safe-pi-planning-board|SAFe PI planning board]]
-- [[split-a-safe-feature|Split a SAFe feature]]

@@ -14,7 +14,7 @@ breadcrumb: [Data Classification, Platform Privacy]
 
 # Installing Data Classification plugin demo data
 
-When you upgrade to or install Australia \(and above\), the [[data-classification|Data Classification]] \(com.glide.data\_classification\) plugin is automatically activated. However, you should manually install the demo data that comes with the plugin. It includes several important pre-defined data classifications, and it also assigns one of them to specific User \[sys\_user\] table columns in your instance.
+When you upgrade to or install Australia \(and above\), the Data Classification \(com.glide.data\_classification\) plugin is automatically activated. However, you should manually install the demo data that comes with the plugin. It includes several important pre-defined data classifications, and it also assigns one of them to specific User \[sys\_user\] table columns in your instance.
 
 ## Before you begin
 
@@ -31,13 +31,13 @@ Regardless of whether you install demo data, the activated Data Classification p
 
 All decisions in connection with the implementation of this application are at the sole decision of the Customer. Customers acknowledge and agree that use of the application is not a representation by ServiceNow of compliance with any law or regulation and any suggested language, field or classification provided out of the box with the application does not constitute legal advice by ServiceNow.
 
-Customers remain solely responsible for complying with their legal obligations under applicable law, including \(but not limited to\) [[naai-data-protection|data protection]], security requirements, and privacy laws, and are responsible for configuring and making any necessary modifications to this application, including \(but not limited to\) templates, to meet the Customers’ requirements.
+Customers remain solely responsible for complying with their legal obligations under applicable law, including \(but not limited to\) data protection, security requirements, and privacy laws, and are responsible for configuring and making any necessary modifications to this application, including \(but not limited to\) templates, to meet the Customers’ requirements.
 
 ## Procedure
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Data Classification plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Data Classification plugin using the filter criteria and search bar.
 
     An `Installed` message appears after you locate the plugin.
 
@@ -79,8 +79,3 @@ When you install the demo data included in the Data Classification \(com.glide.d
 |sys\_user|state|Personally identifiable information|
 |sys\_user|home\_phone|Personally identifiable information|
 
-## Related
-
-- [[data-classification|Data Classification]]
-- [[naai-data-protection|Data protection]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

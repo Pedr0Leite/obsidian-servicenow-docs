@@ -14,7 +14,7 @@ breadcrumb: [Using Visual Task Boards, Visual Task Boards, Configure UIs and por
 
 # Viewing and sharing Visual Task Boards
 
-View details about [[c_VisualTaskBoards|Visual Task Boards]], view them as a list, and share them with others.
+View details about Visual Task Boards, view them as a list, and share them with others.
 
 -   **[View Visual Task Boards details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ViewBoardInformation.md)**  
 You can display the key information about any Visual Task Board.
@@ -29,6 +29,3 @@ Create a Connect Chat conversation from a Visual Task Board to collaborate with 
 
 **Parent Topic:**[Using Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/working-in-vtb.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

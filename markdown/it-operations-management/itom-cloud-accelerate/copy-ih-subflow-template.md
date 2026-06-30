@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Copy an Integration Hub subflow template
 
-Copy an Integration Hub subflow template to create subflows for the [[cloud-configuration-governance|Cloud Configuration Governance]] application.
+Copy an Integration Hub subflow template to create subflows for the Cloud Configuration Governance application.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: sn\_itom\_ccg.governor
 
     The new subflow is created and is opened as a tab in the subflow designer.
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

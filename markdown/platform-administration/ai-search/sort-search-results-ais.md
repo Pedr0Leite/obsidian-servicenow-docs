@@ -14,7 +14,7 @@ breadcrumb: [Search, AI Search, Search administration, Configure core features, 
 
 # Change the sort order for your search results
 
-Choose the order in which [[ia-ai-search|AI Search]] displays [[hs-results|results]] for your search. By default, the most relevant search results appear first. You can override this behavior and view search results ordered by their field values.
+Choose the order in which AI Search displays results for your search. By default, the most relevant search results appear first. You can override this behavior and view search results ordered by their field values.
 
 ## Before you begin
 
@@ -45,7 +45,3 @@ Sorting enables you to view your search results in an order based on their field
 
 **Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

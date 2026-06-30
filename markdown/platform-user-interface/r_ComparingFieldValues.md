@@ -29,17 +29,17 @@ Field comparison provides several filter operators for comparing field values.
 
 ## Comparing choice list values
 
-Field comparison compares the dictionary **Value** field of a choice list, not the **Label** value. For example, a high priority incident has a priority value of **1**, not **1 - High**. To find the **Value** of a choice, right-click the field label and select **[[configure-onboarding-modals|Configure]] Dictionary**. The **Choices** related list shows the **Value** for each choice.
+Field comparison compares the dictionary **Value** field of a choice list, not the **Label** value. For example, a high priority incident has a priority value of **1**, not **1 - High**. To find the **Value** of a choice, right-click the field label and select **Configure Dictionary**. The **Choices** related list shows the **Value** for each choice.
 
 ## Comparing empty fields
 
-By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [[t_FilteringOnEmptyFields|Filtering on empty fields]].
+By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [Filtering on empty fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_FilteringOnEmptyFields.md).
 
 ## Using operators and operands
 
 When comparing fields, the two fields being compared are called the left operand and right operand. The type of field selected in the left operand, and the operator selected, determine which right operands are available. When using the **\[is same\]** or **\[is different\]** operators, the right operand choices include only fields of the same field type, such as **String** or **Integer**, as the left operand.
 
-For example, a filter on the Task \[task\] table with a left operand of **\[Opened by\]** and an operator of **\[is same\]**, only allows you to choose user [[onboarding-modals-reference|reference]] fields, such as the **\[Closed by\]** field, in the right operand.
+For example, a filter on the Task \[task\] table with a left operand of **\[Opened by\]** and an operator of **\[is same\]**, only allows you to choose user reference fields, such as the **\[Closed by\]** field, in the right operand.
 
 The **\[is more than\]** and **\[is less than\]** operators are only available with date type fields.
 
@@ -63,7 +63,7 @@ Date comparison allows you to evaluate equality between two components of the da
 
 Date comparisons are based on the active user's time zone. For example, as a user in the PST time zone, a filter of **\[Created\] \[is same\] \[Day\] as \[Closed\]** evaluates true for an incident created at 6 AM PST and closed at 3:00 PM PST as both times are within the same day. However, a user in the GMT time zone would not see this same incident record in response to the example filter; in GMT those times do not fall on the same date.
 
-You can [[t_EvaluatingEqualityBetweenDates|Evaluate equality between date values]] and you can evaluate unequal dates within a range.
+You can [Evaluate equality between date values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EvaluatingEqualityBetweenDates.md) and you can evaluate unequal dates within a range.
 
 ## Evaluate unequal dates within a range
 
@@ -80,7 +80,7 @@ You can compare unequal date field values by evaluating whether two dates fall w
 -   **[Evaluate equality between date values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EvaluatingEqualityBetweenDates.md)**  
 Date comparison evaluates a match for one of several date increments.
 
-**Parent Topic:**[[c_ConditionBuilder|Condition builder]]
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
 **Related topics**  
 
@@ -89,10 +89,3 @@ Date comparison evaluates a match for one of several date increments.
 
 [Values for date/time fields]()
 
-## Related
-
-- [[t_FilteringOnEmptyFields|Filtering on empty fields]]
-- [[t_EvaluatingEqualityBetweenDates|Evaluate equality between date values]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

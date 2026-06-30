@@ -44,7 +44,7 @@ Team member
 
 </td></tr></tbody>
 </table>-   Real-time updates on changes to milestones, risks, issues, decisions, actions, and change requests \(RIDAC\), and project financials.
--   Automatic addition and removal of members of the collaboration channel or team based on who the [[t_CreateAProjectTask|project tasks]] are assigned to.
+-   Automatic addition and removal of members of the collaboration channel or team based on who the project tasks are assigned to.
 
 **Note:** PPM Collaboration is not supported for teamspaces.
 
@@ -55,6 +55,3 @@ Team member
 
 [Install PPM Collaboration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/install-ppm-collab-store-app.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

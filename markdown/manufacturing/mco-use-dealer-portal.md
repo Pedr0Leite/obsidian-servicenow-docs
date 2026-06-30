@@ -12,22 +12,12 @@ breadcrumb: [Use, Manufacturing Commercial Operations]
 
 # Dealer management
 
-The [[mco-dealer-portal|dealer portal]] enables you to manage the repair, recall, and [[mco-sales-promotion|sales promotion]] claims.
+The dealer portal enables you to manage the repair, recall, and sales promotion claims.
 
 |Tasks|Description|
 |-----|-----------|
-|[[mco-lookup|Look up an asset or claim by its serial number]]|View asset or claim details.|
-|[[repair-claim-dealer|Repair claim for the dealer]]|Submit a [[mco-use-repair-claim|repair claim]] for warranty and recall.|
-|[[mco-sales-promotion-dealer|Sales promotion for the dealer]]|Submit a sales promotion claim.|
-|[[mco-qim-for-the-dealer|Quality issue management for the dealer]]|Submit a [[mco-product-non-conformances|product non-conformance]] issue report.|
+|[Look up an asset or claim by its serial number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-lookup.md)|View asset or claim details.|
+|[Repair claim for the dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-dealer.md)|Submit a repair claim for warranty and recall.|
+|[Sales promotion for the dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-dealer.md)|Submit a sales promotion claim.|
+|[Quality issue management for the dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-for-the-dealer.md)|Submit a product non-conformance issue report.|
 
-## Related
-
-- [[mco-lookup|Look up an asset or claim by its serial number]]
-- [[repair-claim-dealer|Repair claim for the dealer]]
-- [[mco-sales-promotion-dealer|Sales promotion for the dealer]]
-- [[mco-qim-for-the-dealer|Quality issue management for the dealer]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-product-non-conformances|Product non-conformance]]

@@ -14,7 +14,7 @@ breadcrumb: [Portal Banner widget, Configurable Portal widgets, Set up self-serv
 
 # Provide web page link buttons to display on the Portal Banner widget
 
-Provide a link to a web page that you want to display by defining primary or secondary buttons on the [[portal-banner-widget|Portal Banner widget]]. The widget displays these buttons by default.
+Provide a link to a web page that you want to display by defining primary or secondary buttons on the Portal Banner widget. The widget displays these buttons by default.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Extension [[gamification-components-points|Points]]** &gt; **Scripted Extension Points**.
+1.  Navigate to **All** &gt; **System Extension Points** &gt; **Scripted Extension Points**.
 
 2.  On the Extension Points page, in the API Name column, enter `*banner`.
 
@@ -76,7 +76,4 @@ Role required: sp\_admin
 
 14. Select **Save**.
 
-## Related
 
-- [[portal-banner-widget|Portal Banner widget]]
-- [[gamification-components-points|Points]]

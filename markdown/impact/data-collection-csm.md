@@ -18,18 +18,10 @@ Install and configure the Data Collection Content Pack for CSM.
 
 Perform the steps in the following order:
 
-1.  [[dc-csm-install|Install the Data Collection Pack for CSM]]
-2.  [[dc-csm-config|Configure Data Collection for CSM]]
-3.  [[dc-csm-activate|Activate Data Collection for CSM]]
-4.  [[dc-csm-install-artifacts|Review CSM artifacts]]
+1.  [Install the Data Collection Pack for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-csm-install.md)
+2.  [Configure Data Collection for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-csm-config.md)
+3.  [Activate Data Collection for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-csm-activate.md)
+4.  [Review CSM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-csm-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-csm-install|Install the Data Collection Pack for CSM]]
-- [[dc-csm-config|Configure Data Collection for CSM]]
-- [[dc-csm-activate|Activate Data Collection for CSM]]
-- [[dc-csm-install-artifacts|Review CSM artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

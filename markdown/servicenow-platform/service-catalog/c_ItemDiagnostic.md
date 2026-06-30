@@ -88,7 +88,7 @@ checkSelectBoxUnique
 
 </td><td>
 
-Identifies [[select-box|Select Box]] type variables that have the attribute enabled to show only unique entries in the select box.
+Identifies Select Box type variables that have the attribute enabled to show only unique entries in the select box.
 
 </td></tr><tr><td>
 
@@ -105,8 +105,8 @@ checkFormatterVariablesUsage
 </td><td>
 
 Checks if the item has the following variable types:-   Macro
--   Macro with [[label|label]]
--   [[ui-page|UI Page]]
+-   Macro with label
+-   UI Page
 
  For information on the variable availability across various channels, see [Variable support in various channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variables-availability.md).
 
@@ -116,8 +116,3 @@ Identify the catalog items that are not designed per ServiceNow recommended prac
 
 **Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 
-## Related
-
-- [[select-box|Select box]]
-- [[label|Label]]
-- [[ui-page|UI page]]

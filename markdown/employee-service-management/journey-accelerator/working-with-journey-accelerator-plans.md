@@ -14,7 +14,7 @@ breadcrumb: [Journey Accelerator, Employee Journey Management, HR Service Delive
 
 # Working with Journey Accelerator plans
 
-Managers, employees, and mentors can access the [[journey-accelerator-1|Journey Accelerator]] plans through the [[employee-center-landing-page|Employee Center]] \(EC\).
+Managers, employees, and mentors can access the Journey Accelerator plans through the Employee Center \(EC\).
 
 For information about the EC, see [Employee Center with HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-center-hr.md) and [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 
@@ -29,7 +29,3 @@ Mentor employees that are assigned to you and view or edit employee plans depend
 
 **Parent Topic:**[Journey Accelerator]()
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

@@ -28,7 +28,7 @@ Turn on SBOM collection on a due diligence request and send the external assessm
     -   Vulnerability Response \(sn\_vul\)
     For more information see, [Activate SBOM support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/sbom-activate.md).
 
--   Confirm that the engagement uses the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. SBOM collection isn't supported for Classic assessments.
+-   Confirm that the engagement uses the Smart Assessment Engine. SBOM collection isn't supported for Classic assessments.
 -   Inform the engagement contact that they will receive an external assessment requesting an SBOM file in JSON or XML format. The third party generates this file using their own tooling. The ServiceNow platform does not create or edit SBOM files.
 
 **Important:** Depending on your entitlements, some SBOM capabilities require additional configuration. For more information, see [Activate SBOM support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/sbom-activate.md).
@@ -37,7 +37,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager or sn\_vdr\_risk\_asmt.
 
 ## About this task
 
-SBOM collection uses the standard third-party [[tprm-workflow-in-workspace|due diligence workflow]] and does not change onboarding or IRQ processes.
+SBOM collection uses the standard third-party due diligence workflow and does not change onboarding or IRQ processes.
 
 The engagement-level external assessment is the mechanism through which SBOM information is collected.
 
@@ -104,7 +104,3 @@ After the external assessment is submitted, review the submission outcome. For d
 
 [SBOM records and relationships in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-relationship.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

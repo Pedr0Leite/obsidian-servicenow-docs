@@ -54,7 +54,7 @@ A rollback context is created when:
 
 -   GlideRecord.delete\(\) or GlideRecord.deleteMultiple\(\) delete records.
 -   There is a patch upgrade.
--   You [[t_ActivateAPlugin|activate a plugin]] that supports rollback contexts.
+-   You activate a plugin that supports rollback contexts.
 -   A script executes using the **Scripts-Background** module, and rollback was enabled by selecting the **Record for Rollback?** check box.
 
 Rollbacks do not impact other database activities. If a database activity modifies a record that is part of a rollback context, the rollback does not affect that record.
@@ -97,6 +97,3 @@ Change the default expiration period for different types of rollback context rec
 
 **Parent Topic:**[ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md)
 
-## Related
-
-- [[t_ActivateAPlugin|Activate a plugin]]

@@ -14,7 +14,7 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 # HR Service Delivery Process Mining
 
-Integrating the Process Mining application with the [[hr-service-delivery|HR Service Delivery]] application enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with HR service cases and, if installed, [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] cases.
+Integrating the Process Mining application with the HR Service Delivery application enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with HR service cases and, if installed, Lifecycle Events cases.
 
 ## Process Mining for HR Service Delivery feature overview
 
@@ -24,7 +24,7 @@ The HRSD Process Mining content pack contains preconfigured process mining model
 
 **Note:** As a process mining analyst, you can mark the content pack configurations as read-only, to preserve their custom configurations across upgrades.
 
-Use Process Mining to [[discover-lxp|discover]], streamline, visualize, analyze, monitor, and more.
+Use Process Mining to discover, streamline, visualize, analyze, monitor, and more.
 
 -   **Visualize your processes**: Map processes across system and functional boundaries based on data analysis.​
 -   **Streamline your processes**: Identify bottlenecks, siloes, redundancies, and other inefficiency drivers.
@@ -37,7 +37,7 @@ To enable the Process Mining content pack for HR Service Delivery, see .
 
 ## HR Service Delivery Process Mining configuration model
 
-HR Service Delivery Process Mining configuration model includes process definitions for standard [[hr-service-administration|HR services]], as well as a process map that uses multi-dimensional mining for Lifecycle Events if this application is installed.
+HR Service Delivery Process Mining configuration model includes process definitions for standard HR services, as well as a process map that uses multi-dimensional mining for Lifecycle Events if this application is installed.
 
 Process maps and transitions look across your portfolio of HR services to find and visualize problem areas, opportunities for enhancements, and process compliance​.
 
@@ -63,7 +63,7 @@ The following combinations of roles are required for using the Process Mining ap
 
 The HRSD Process Mining content pack \(com.sn\_hr\_process\_mining\) adds a prebuilt project that includes predefined HR service cases and, if installed, Lifecycle Events cases process model definitions. By default, the project filters cases for the last two quarters. You can also configure a new process project based on the prebuilt project. For more information, see [Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-process-mining.md).
 
-The process model definitions include default [[activity-lxp|activity]] definitions and breakdown definitions for cases that you can use as they are or modify for a custom configuration.
+The process model definitions include default activity definitions and breakdown definitions for cases that you can use as they are or modify for a custom configuration.
 
 -   Use activity definitions to understand state transitions such as cases transitioning from the work in progress state to the solution proposed state and analyze the linked processes such as Problem \(PRB\) records.
 
@@ -79,10 +79,3 @@ If the Continual Improvement Management \(CIM\) application is enabled, you can 
 
 If the Performance Analytics \(PA\) application is enabled, you can also use the available template configurations to open the Process Mining application from a PA indicator based on the HR service case data. For more information, see [Integration with Performance Analytics \(PA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/integrate-pa.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[discover-lxp|Discover]]
-- [[hr-service-administration|HR services]]
-- [[activity-lxp|Activity]]

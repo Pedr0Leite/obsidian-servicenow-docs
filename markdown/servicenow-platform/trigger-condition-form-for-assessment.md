@@ -28,7 +28,7 @@ Assessment
 
 </td><td>
 
-\[Required\] Metric type to generate [[c_AssessmentInstances|assessment instances]] for. Triggered [[r_Assessments|assessments]] only work if the metric type is set to the **On demand** schedule type.
+\[Required\] Metric type to generate assessment instances for. Triggered assessments only work if the metric type is set to the **On demand** schedule type.
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Table
 
 </td><td>
 
-\[Required\] Table to run the trigger condition on. You can select only tables in the current application scope. The table must have a connection to the [[c_assessable-records|assessable records]] for the selected **Assessment**. For example, you might want to send a vendor assessment when incidents close that are related to vendors you assess. In this case, select the Incident \[incident\] table. After you select a table, ensure there is at least one option for the **Assessable Record Field**. If there is not, select a different table.
+\[Required\] Table to run the trigger condition on. You can select only tables in the current application scope. The table must have a connection to the assessable records for the selected **Assessment**. For example, you might want to send a vendor assessment when incidents close that are related to vendors you assess. In this case, select the Incident \[incident\] table. After you select a table, ensure there is at least one option for the **Assessable Record Field**. If there is not, select a different table.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ User field
 
 </td><td>
 
-\[Required\] Field that stores the users you want to send the assessment. You can select any field, on the selected **Table** or on a related table, that [[reference-document-management|references]] the User \[sys\_user\] table. Use the tree picker to select a field.\[Omitted image "SelectUserField.png"\] Alt text: Tree picker
+\[Required\] Field that stores the users you want to send the assessment. You can select any field, on the selected **Table** or on a related table, that references the User \[sys\_user\] table. Use the tree picker to select a field.\[Omitted image "SelectUserField.png"\] Alt text: Tree picker
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this trigger condition is active \(selected\).
+Check box that determines whether this trigger condition is active \(selected\).
 
 </td></tr><tr><td>
 
@@ -92,11 +92,11 @@ Assessable Record Field
 
 </td><td>
 
-\[Required\] Field on the selected **Table** that determines which assessable record will be the subject of the assessment. Only appropriate [[reference|reference]] fields on the selected **Table** are available to select. If there are no **Assessable Record Field** options available, you must select a different **Table**.
+\[Required\] Field on the selected **Table** that determines which assessable record will be the subject of the assessment. Only appropriate reference fields on the selected **Table** are available to select. If there are no **Assessable Record Field** options available, you must select a different **Table**.
 
  If the selected **Assessment** evaluates records on the Company `[core_company]` table and the selected **Table** is Incident, the only **Assessable Record Field** options are fields on the Incident table that reference the Company table. For example, **Company** or, if vendor ticketing is enabled, **Vendor**. If you select **Vendor**, the trigger condition sends an assessment about the **Vendor** for the incident, assuming there is an assessable record for the associated company. The assessment contains questions from all metric categories associated with the assessable record.
 
-**Note:** This field is not available if the selected **Assessment** is a metric type used for [[r_SurveyManagementLandingPage|surveys]]. See [[c_TriggerConditions|Survey trigger conditions]].
+**Note:** This field is not available if the selected **Assessment** is a metric type used for surveys. See [Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md).
 
 </td></tr><tr><td>
 
@@ -125,22 +125,10 @@ Condition
 \[Required\] Condition builder that defines the criteria that must be true to send the assessment. For example, if you want to send an assessment whenever an incident closes, create the condition \[State\] \[is\] \[Closed\].
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessment-reference|Assessments reference]]
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateATriggerCondition|Configure a trigger condition for a survey]]
+[Configure a trigger condition for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateATriggerCondition.md)
 
-## Related
-
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[assessment-reference|Assessments reference]]
-- [[t_CreateATriggerCondition|Configure a trigger condition for a survey]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[reference-document-management|References]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[r_SurveyManagementLandingPage|Surveys]]

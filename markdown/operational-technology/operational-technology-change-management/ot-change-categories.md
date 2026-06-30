@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Change Management, Operational Te
 
 # Change categories
 
-By categorizing the [[operational-technology-overview|Operational Technology]] \(OT\) change requests, you can group and narrow the search for specific OT change requests. Categories also help stakeholders know what the change is about.
+By categorizing the Operational Technology \(OT\) change requests, you can group and narrow the search for specific OT change requests. Categories also help stakeholders know what the change is about.
 
 When you can create an OT change request, you can choose from the categories listed in the following table.
 
@@ -35,6 +35,3 @@ When you can create an OT change request, you can choose from the categories lis
 
 **Parent Topic:**[Operational Technology Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

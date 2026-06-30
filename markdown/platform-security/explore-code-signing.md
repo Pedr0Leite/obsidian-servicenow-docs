@@ -14,13 +14,13 @@ breadcrumb: [Code Signing, Platform Security]
 
 Code Signing provides cryptographic verification to ensure that only authorized scripts can execute on MID Servers. Code Signing prevents unauthorized or tampered External Communication Channel \(ECC\) queue records from being processed by MID Servers, maintaining the integrity of integrations between ServiceNow and external systems.
 
-Code Signing creates digital signatures for your data, which are later checked to confirm the authenticity and integrity of the data. Code Signing is a module licensed as a component of [[servicenow-vault-landing|ServiceNow Vault]].
+Code Signing creates digital signatures for your data, which are later checked to confirm the authenticity and integrity of the data. Code Signing is a module licensed as a component of ServiceNow Vault.
 
 **Note:** The Customer Service and Support team must grant access to Code Signing.
 
 <table id="table_f3d_s52_sxb"><tbody><tr><td>
 
-Code Signing declares the intent behind the operation being performed and validates whether the resource or record may be used for the intended purpose. To facilitate Code Signing, the [[encryption|Key Management Framework]] \(KMF\) uses digital [[c_Certificates|certificates]] and industry standard asymmetric [[encryption-landing|encryption]] for digital signatures.
+Code Signing declares the intent behind the operation being performed and validates whether the resource or record may be used for the intended purpose. To facilitate Code Signing, the Key Management Framework \(KMF\) uses digital certificates and industry standard asymmetric encryption for digital signatures.
 
  Use Code Signing internally on the platform and infrastructure side. Code signing provides a way to sign the content of specific tables or of a subset of records in a given metadata table.
 
@@ -35,14 +35,14 @@ Code Signing declares the intent behind the operation being performed and valida
 
 ## How Code Signing protects your environment
 
-Without Code Signing, an attacker who gains access to ServiceNow records can modify SQL statements in a protected instance. When the MID Server processes this data source [[c_requestAPI|request]], it would execute the malicious SQL commands, potentially compromising system integrity and security.
+Without Code Signing, an attacker who gains access to ServiceNow records can modify SQL statements in a protected instance. When the MID Server processes this data source request, it would execute the malicious SQL commands, potentially compromising system integrity and security.
 
 When you implement a Circle of Trust architecture with Code Signing, transfer of data to the MID Server follows the following verification process. This process helps verify that only authorized code originating from the trusted instance can execute on the MID Server. The process reduces potential attack vectors that could otherwise compromise your systems.
 
 1.  Digital signatures are applied to data sources created or updated within the trusted instance.
 2.  Use the Code signing process to transfer the signed data from the trusted instance to the protected instance.
 3.  The MID Server verifies the digital signature on all incoming requests, automatically rejecting any requests lacking valid signatures.
-4.  If the MID Server rejects a request, it [[logs|logs]] this rejection and sends a notification to the protected instance.
+4.  If the MID Server rejects a request, it logs this rejection and sends a notification to the protected instance.
 
 ## Benefits of implementing Code Signing
 
@@ -52,7 +52,7 @@ Code Signing provides several key advantages:
 
     Only cryptographically verified scripts can run on MID Servers
 
--   **[[tamper-detect|Tamper Detection]]**
+-   **Tamper Detection**
 
     Any modifications to signed records are immediately identified and blocked.
 
@@ -67,7 +67,7 @@ Code Signing provides several key advantages:
 
 ## Code Signing validation and jobs
 
-All the metadata tables with valid configurations are signed at build time using the Code Signing metadata plugin​ \(com.glide.code\_signing\). Installing this plugin automatically installs the Code Signing OOB App Signatures plugin \(com.glide.code\_signing.oob\_apps\_signatures\) which contains build time signatures for all relevant records in the trued-up ServiceNow® Store application versions. If you choose to sign tables, admin [[users|users]] with the Security administrator role have access to Code Signing job​s:
+All the metadata tables with valid configurations are signed at build time using the Code Signing metadata plugin​ \(com.glide.code\_signing\). Installing this plugin automatically installs the Code Signing OOB App Signatures plugin \(com.glide.code\_signing.oob\_apps\_signatures\) which contains build time signatures for all relevant records in the trued-up ServiceNow® Store application versions. If you choose to sign tables, admin users with the Security administrator role have access to Code Signing job​s:
 
 -   Sign update sets.
 -   Mass sign records.
@@ -75,7 +75,7 @@ All the metadata tables with valid configurations are signed at build time using
 
 -   **Sign update set**
 
-    This job signs records that match a signature [[sc-configuration|configuration]] in the update set. The job also adds all the new signature records and the verification certificates to the update set.
+    This job signs records that match a signature configuration in the update set. The job also adds all the new signature records and the verification certificates to the update set.
 
     **Note:** With the Australia release, script includes and business rule records are signed using the new "Wild Card Purpose". This replaces the previously empty purpose value. This change eliminates import warnings and manual intervention when handling large numbers of such records. You cannot create or update a signature configuration with the wild card purpose because it is already predefined. This value is reserved for script includes and business rules only, not for other tables. Attempts to use it elsewhere result in an error.
 
@@ -92,17 +92,5 @@ All the metadata tables with valid configurations are signed at build time using
     \[Omitted image "encryption-job.png"\] Alt text: Encryption job to mass sign records.
 
 
-**Parent Topic:**[[code-signing-landing|Code Signing]]
+**Parent Topic:**[Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
-## Related
-
-- [[code-signing-landing|Code Signing]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[encryption|Key Management Framework]]
-- [[c_Certificates|Certificates]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[logs|Logs]]
-- [[tamper-detect|Tamper Detection]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

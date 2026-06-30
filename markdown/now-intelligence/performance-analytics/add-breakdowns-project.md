@@ -81,7 +81,7 @@ Role required: sn\_kpi\_composer.user, sn\_kpi\_composer.admin \(to link to Perf
 
 ### About this task
 
-The breakdown definitions that you add to [[kpi-composer-projects|KPI Composer projects]] are not actual Performance Analytics breakdowns. They are only placeholders that describe what the Performance Analytics breakdown should be. In KPI Composer breakdown definitions, you provide either or both of the following pieces of information:
+The breakdown definitions that you add to KPI Composer projects are not actual Performance Analytics breakdowns. They are only placeholders that describe what the Performance Analytics breakdown should be. In KPI Composer breakdown definitions, you provide either or both of the following pieces of information:
 
 -   The details that a Performance Analytics expert needs to create the actual breakdown.
 -   A reference to an existing Performance Analytics breakdown that meets your requirements.
@@ -144,7 +144,3 @@ The filter conditions to apply to the facts table either in the breakdown source
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[kpi-composer-projects|KPI Composer projects]]

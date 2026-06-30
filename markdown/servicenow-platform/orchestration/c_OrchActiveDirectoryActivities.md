@@ -18,9 +18,9 @@ The Active Directory \(AD\) activity pack enables an administrator to create, de
 
 Activities in this pack can reset a password automatically from a user request or manage any user account in Active Directory, whether or not it was created by a Orchestration workflow.
 
-Domain controllers are identified by the [[ip-address|IP address]] of the host machine. To use the hostname of the domain controller, add the [[resolve-dns-name-activity-1|Resolve DNS Name activity]] to resolve the hostname into an IP, and then pass the IP into the Active Directory activity.
+Domain controllers are identified by the IP address of the host machine. To use the hostname of the domain controller, add the Resolve DNS Name activity to resolve the hostname into an IP, and then pass the IP into the Active Directory activity.
 
-Your instance must have access to a [[mid-server-landing|MID Server]] configured to use PowerShell to run these activities.
+Your instance must have access to a MID Server configured to use PowerShell to run these activities.
 
 **Note:** All Active Directory activities pass through error messages returned from Active Directory. To view these error messages, point to the failed activity in the workflow canvas or select the **Workflow Log** tab in a [Workflow Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/r_AdministeringWorkflowContexts.md) record.
 
@@ -32,7 +32,7 @@ Orchestration provides custom Active Directory activities that were created with
 
 ## Active Directory credentials with LDAP
 
-If you are using an LDAP Server with MID Servers, note that Orchestration and Active Directory activities do not use the user name and password configured on LDAP Servers. You must create a [Windows type orchestration credential record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md) [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md). The username and password in the credentials record is used for LDAP queries that Orchestration and [[c_WorkflowActivities|workflow activities]] perform.
+If you are using an LDAP Server with MID Servers, note that Orchestration and Active Directory activities do not use the user name and password configured on LDAP Servers. You must create a [Windows type orchestration credential record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md) [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md). The username and password in the credentials record is used for LDAP queries that Orchestration and workflow activities perform.
 
 ## Connection port used by AD Orchestration activities
 
@@ -41,43 +41,27 @@ All Active Directory activities use port 389 for LDAP access. If you are using A
 -   **[Add User to Group AD activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_AddUserToGroupADActivity.md)**  
 The Add User to Group activity adds a user to a group in Windows Active Directory.
 -   **[Change AD User Password activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ChangeADUserPassword.md)**  
-The [[r_ChangeADUserPassword|Change AD User Password activity]] changes the password for an Active Directory user account.
+The Change AD User Password activity changes the password for an Active Directory user account.
 -   **[Create AD Object activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_CreateADObject.md)**  
-The [[r_CreateADObject|Create AD Object activity]] creates an object in Windows Active Directory.
+The Create AD Object activity creates an object in Windows Active Directory.
 -   **[Disable AD User Account activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_DisableADUserAccount.md)**  
-The [[r_DisableADUserAccount|Disable AD User Account activity]] disables a Windows Active Directory user account, making it inactive.
+The Disable AD User Account activity disables a Windows Active Directory user account, making it inactive.
 -   **[Enable AD User Account activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_EnableADUserAccount.md)**  
-The [[r_EnableADUserAccount|Enable AD User Account activity]] enables a Windows Active Directory user account, making it active.
+The Enable AD User Account activity enables a Windows Active Directory user account, making it active.
 -   **[Is AD Account Locked activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_IsADAccountLocked.md)**  
-The [[r_IsADAccountLocked|Is AD Account Locked activity]] determines whether an Active Directory user account is locked.
+The Is AD Account Locked activity determines whether an Active Directory user account is locked.
 -   **[Query AD activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_QueryAD.md)**  
-The [[r_QueryAD|Query AD activity]] retrieves entries from the Windows Active Directory based on an LDAP search filter and stores the results as a JSON string that can be used in the data bus.
+The Query AD activity retrieves entries from the Windows Active Directory based on an LDAP search filter and stores the results as a JSON string that can be used in the data bus.
 -   **[Remove AD Object activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_RemoveADObject.md)**  
-The [[r_RemoveADObject|Remove AD Object activity]] deletes an object from Windows Active Directory.
+The Remove AD Object activity deletes an object from Windows Active Directory.
 -   **[Remove User from Group AD activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_RemoveUserFromGroupADActivity.md)**  
 The Remove User from Group activity removes a user from a group in Windows Active Directory.
 -   **[Reset AD User Password activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ResetADUserPassword.md)**  
-The [[r_ResetADUserPassword|Reset AD User Password activity]] resets the password of a user account in Windows Active Directory.
+The Reset AD User Password activity resets the password of a user account in Windows Active Directory.
 -   **[Unlock AD Account activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_UnlockADAccount.md)**  
-The [[r_UnlockADAccount|Unlock AD Account activity]] unlocks a locked Active Directory user account.
+The Unlock AD Account activity unlocks a locked Active Directory user account.
 -   **[Update AD Object activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_UpdateADObject.md)**  
-The [[r_UpdateADObject|Update AD Object activity]] updates an object in Windows Active Directory.
+The Update AD Object activity updates an object in Windows Active Directory.
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[resolve-dns-name-activity-1|Resolve DNS Name activity]]
-- [[mid-server-landing|MID Server]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[r_ChangeADUserPassword|Change AD User Password activity]]
-- [[r_CreateADObject|Create AD Object activity]]
-- [[r_DisableADUserAccount|Disable AD User Account activity]]
-- [[r_EnableADUserAccount|Enable AD User Account activity]]
-- [[r_IsADAccountLocked|Is AD Account Locked activity]]
-- [[r_QueryAD|Query AD activity]]
-- [[r_RemoveADObject|Remove AD Object activity]]
-- [[r_ResetADUserPassword|Reset AD User Password activity]]
-- [[r_UnlockADAccount|Unlock AD Account activity]]
-- [[r_UpdateADObject|Update AD Object activity]]

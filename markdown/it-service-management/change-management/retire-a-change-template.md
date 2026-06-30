@@ -14,7 +14,7 @@ breadcrumb: [Create and propose a change template, Create a Change model, Config
 
 # Retire a change template
 
-Retire [[change-templates|change templates]] that you no longer need.
+Retire change templates that you no longer need.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Before retiring a template, you can analyze the template usage by viewing the **
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Models|Models]]** &gt; **Change Templates**.
+1.  Navigate to **All** &gt; **Models** &gt; **Change Templates**.
 
 2.  Select the template you want to retire.
 
@@ -43,7 +43,7 @@ Before retiring a template, you can analyze the template usage by viewing the **
 
 </td><td>
 
-Select **Retire**.The retirement request is sent for approval. The template moves to Pending Retirement state, and is no longer be available for [[migration-utility-modification|modifications]].
+Select **Retire**.The retirement request is sent for approval. The template moves to Pending Retirement state, and is no longer be available for modifications.
 
 After approval, the template moves to the **Retired** state, and is unavailable for use. If rejected, the state of the template changes to **Published**.
 
@@ -72,8 +72,3 @@ After the copied template is published, the original template moves to the **Ret
 
 [Review a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/review-change-template.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_Models|Models]]
-- [[migration-utility-modification|Modifications]]

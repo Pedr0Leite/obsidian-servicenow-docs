@@ -69,7 +69,7 @@ Active
 
 </td><td>
 
-Indicates the [[ec-to-do-content|to-do content]] is active and available to use.
+Indicates the to-do content is active and available to use.
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Area to provide detailed information about the task. Use the editing tools to en
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -167,7 +167,3 @@ Area to provide detailed information about the task. Use the editing tools to en
 
 [Standard banner and icon sizes]()
 
-## Related
-
-- [[ec-to-do-content|To-do content]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,12 +14,12 @@ breadcrumb: [Reference section for Problem Management, Problem Management, IT Se
 
 # Known error article form
 
-Description of the field values for the [[legacy-problem-form|legacy problem form]].
+Description of the field values for the legacy problem form.
 
 |Field|Description|
 |-----|-----------|
 |Number|Read-only field. Unique number to identify the known error article.|
-|Knowledge base|Knowledge base \(defaults to Known Error\) in which the article is stored for future [[reference-for-itsm-mobile-agent|reference]]. The article is saved in the Known Error article \[kb\_template\_known\_error\_article\] table.|
+|Knowledge base|Knowledge base \(defaults to Known Error\) in which the article is stored for future reference. The article is saved in the Known Error article \[kb\_template\_known\_error\_article\] table.|
 |Category|Read-only field. The value of this field is reference from the Category field of the Problem.|
 |Valid to|Date after which the known error article is deleted from the database. After this date, the article does not appear in the search result.|
 |Version|Read-only field. Managed by the Knowledge Management process when changes are made to a published article.|
@@ -34,7 +34,3 @@ Description of the field values for the [[legacy-problem-form|legacy problem for
 
 **Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[legacy-problem-form|Legacy Problem form]]
-- [[reference-for-itsm-mobile-agent|Reference]]

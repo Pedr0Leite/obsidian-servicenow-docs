@@ -14,7 +14,7 @@ breadcrumb: [PowerShell probe, List of Discovery probes, Discovery probes and se
 
 # Create a custom PowerShell probe
 
-You can create your own [[c_PowershellProbe|PowerShell probe]] and configure probe parameters.
+You can create your own PowerShell probe and configure probe parameters.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]] Definition** &gt; **Probes**.
+1.  Navigate to **All** &gt; **Discovery Definition** &gt; **Probes**.
 
 2.  Click **New**.
 
@@ -42,7 +42,3 @@ Role required: admin
 
 **Parent Topic:**[PowerShell probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_PowershellProbe.md)
 
-## Related
-
-- [[c_PowershellProbe|PowerShell probe]]
-- [[r-discovery|Discovery]]

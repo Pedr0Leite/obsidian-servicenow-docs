@@ -12,7 +12,7 @@ breadcrumb: [Register, Government Service Portal, Portals, Use, Public Sector Di
 
 # View or update a constituent profile in the government service portal
 
-As a registered constituent, view your profile, update your information, and change your password directly on the Public Sector Digital Services [[gsp-overview-public-sector|government service portal]].
+As a registered constituent, view your profile, update your information, and change your password directly on the Public Sector Digital Services government service portal.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_gsm.constituent
 
     3.  Select **Save**.
 
-    For more information on the fields, see [[government-service-constituent-form|Constituent Profile form]].
+    For more information on the fields, see [Constituent Profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-constituent-form.md).
 
 4.  To change your password, select **Change Password**.
 
@@ -44,7 +44,4 @@ Role required: sn\_gsm.constituent
 
     Your preferences are automatically saved.
 
-## Related
 
-- [[government-service-constituent-form|Constituent Profile form]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -44,7 +44,7 @@ Only basic authentication is supported for the external content integration feat
         |-----|-----------|
         |Name|Enter unique name for the external source.|
         |Target Knowledge Base|Select the knowledge base in which you want to create articles for the external content.|
-        |Connection Alias|Select the connection alias to [[c_Connect|connect]] to the external source.|
+        |Connection Alias|Select the connection alias to connect to the external source.|
 
     4.  Right-click the form header and click **Save**.
 
@@ -74,6 +74,3 @@ Only basic authentication is supported for the external content integration feat
 
 **Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-external-content-integration.md)
 
-## Related
-
-- [[c_Connect|Connect]]

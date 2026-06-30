@@ -14,15 +14,15 @@ breadcrumb: [Using Impact, Impact]
 
 # Value management
 
-The value management constitutes a continuous loop of the end-to-end process of managing the value lifecycle, inclusive of envisioning value, creating value, ongoing management, optimization, and validation of value realized with the [[impact-landing-page|Impact]] store app.
+The value management constitutes a continuous loop of the end-to-end process of managing the value lifecycle, inclusive of envisioning value, creating value, ongoing management, optimization, and validation of value realized with the Impact store app.
 
 ## Objectives and outcomes
 
-The value management lifecycle starts with the creation of the Objectives and outcomes, which captures your objectives, which are high-level goals tied to measurable outcomes that [[io-help|help]] illustrate value over time. Understand and measure the value you receive from the ServiceNow products in the same instance where your applications live. By default, this cycle is executed on a yearly basis, although deviations of this time frame are possible by exception.
+The value management lifecycle starts with the creation of the Objectives and outcomes, which captures your objectives, which are high-level goals tied to measurable outcomes that help illustrate value over time. Understand and measure the value you receive from the ServiceNow products in the same instance where your applications live. By default, this cycle is executed on a yearly basis, although deviations of this time frame are possible by exception.
 
 -   Decide which objectives you want to focus on and track your progress.
 -   See which outcomes, success metrics,and capabilities will best support your vision.
--   Tell your transformation story with operational [[instance-observer-performance|performance]] and value reports.
+-   Tell your transformation story with operational performance and value reports.
 -   Measure a selected business objective under the same product across multiple ServiceNow instances. Use the Instance option on the Objectives and Outcomes, and Outcomes Insights to filter objectives and outcomes by the ServiceNow instance.
 
 ## Outcomes Insights
@@ -36,7 +36,7 @@ Trends can easily be filtered and viewed to track objectives and outcomes.
 
 ## Using Impact Value Management data collection apps
 
-Impact Value Management data collection apps are a detailed overview of the Report configuration options and potential implementation recommendations for collecting the data required for your value blueprint, outcome performance report, and value reports that are part of the Impact program. See [[data-collection-toolkit|Enable data collection for Value Management]] for additional information on how to use the data collection apps to simplify and optimize the value metrics data collection process using Performance [[io-analytics|Analytics]] \(PA\).
+Impact Value Management data collection apps are a detailed overview of the Report configuration options and potential implementation recommendations for collecting the data required for your value blueprint, outcome performance report, and value reports that are part of the Impact program. See [Enable data collection for Value Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/data-collection-toolkit.md) for additional information on how to use the data collection apps to simplify and optimize the value metrics data collection process using Performance Analytics \(PA\).
 
 The Impact Value Management data collection apps are available on the ServiceNow Impact Store Application. These apps are accessible directly on a your instance as part of the Impact package, eliminating the need for separate downloads from the store or individual content packs. By leveraging predefined data definitions within Performance Analytics \(PA\), customers can automatically collect essential data for Value Metrics. This streamlined approach enhances the accuracy and efficiency of data collection for value measurement, providing a seamless experience and improving both customer satisfaction and product evaluation in the Value management within Impact.
 
@@ -48,10 +48,3 @@ The Value report evaluates the impact of improvements in key success metrics ove
 
 For more information on value reports in Impact, see .
 
-## Related
-
-- [[data-collection-toolkit|Enable data collection for Value Management]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

@@ -14,17 +14,17 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Use consumable assets in Enterprise Asset Workspace
 
-To use [[c_ReceiveAConsumableAsset|consumable assets]], ensure that they are in the **In stock** state and **Available** substate.
+To use consumable assets, ensure that they are in the **In stock** state and **Available** substate.
 
 ## Before you begin
 
-**Note:** Only consumables created from [[c_Models|models]] in the [[enterprise-asset-management|Enterprise Asset Management]] application can be used if the **Asset strategy tracking** for the model is set to **create consumable asset**.
+**Note:** Only consumables created from models in the Enterprise Asset Management application can be used if the **Asset strategy tracking** for the model is set to **create consumable asset**.
 
 Role required: asset
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Consumable assets**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Consumable assets**.
 
 2.  Select a consumable asset with a state of **In Stock** and a substate of **Available**.
 
@@ -47,9 +47,3 @@ Role required: asset
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

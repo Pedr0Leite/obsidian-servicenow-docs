@@ -14,7 +14,7 @@ breadcrumb: [Appointment slot recommendation, Configure Appointment Booking, Con
 
 # Add selection criteria for an appointment slot recommendation rule
 
-Enhance [[appointment-booking|appointment booking]] by adding selection criteria to your recommendation rules. Selection criteria help determine the best appointment slots to recommend to your customers—ensuring optimal scheduling based on factors like proximity, skill availability, or travel time.
+Enhance appointment booking by adding selection criteria to your recommendation rules. Selection criteria help determine the best appointment slots to recommend to your customers—ensuring optimal scheduling based on factors like proximity, skill availability, or travel time.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Criterion
 
 </td><td>
 
-Select a criterion to recommend appointment slots.[[fsm-application-landing-page|Field Service Management]] provides a default selection criterion **Proximate appointments** that recommends slots based on the appointment location.
+Select a criterion to recommend appointment slots.Field Service Management provides a default selection criterion **Proximate appointments** that recommends slots based on the appointment location.
 
 You can use this criterion or create a new one.
 
@@ -109,7 +109,3 @@ Select how to rank the criteria.
 
 The selection criterion is added successfully to the recommendation rule.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]

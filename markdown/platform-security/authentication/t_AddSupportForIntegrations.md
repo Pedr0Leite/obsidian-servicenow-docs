@@ -14,8 +14,5 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Integrating SAML 2.0 with other features
 
-You can integration your [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 solution with other features like E-Signature, deep linking, and ADFS.
+You can integration your SAML 2.0 solution with other features like E-Signature, deep linking, and ADFS.
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

@@ -14,9 +14,9 @@ breadcrumb: [Integrate Digital Portfolio Management with other ServiceNow applic
 
 # View service and service offering data in Digital Portfolio Management
 
-See service and service offering data in the context of your solutions in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+See service and service offering data in the context of your solutions in the Digital Portfolio Management \(DPM\) Workspace.
 
-The following image shows the service and service offering data views when you integrate the stated [[dex-workspace-application-tab|applications]] with your DPM Workspace.
+The following image shows the service and service offering data views when you integrate the stated applications with your DPM Workspace.
 
 \[Omitted image "dpm-integrations-services.png"\] Alt text: Service and service offering integrations.
 
@@ -74,7 +74,7 @@ Tracking roadmap
 
 </td></tr><tr><td>
 
-[[cim-landing-page|Continual Improvement Management]]
+Continual Improvement Management
 
 </td><td>
 
@@ -101,7 +101,7 @@ Project data
 
 </td></tr><tr><td>
 
-[[c_ITILChangeManagement|Change Management]]
+Change Management
 
 </td><td>
 
@@ -140,10 +140,10 @@ General info
 
 </td><td>
 
-General information about the service or the service offering including, status, subscribers, service scope, [[c_Contracts|contracts]], commitments, and more. The following lists a few, but for more detailed information on each section of the **Info** tab, see **Table 4. Service and service offering Info tab** in [View service and service offering details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-service-details.md).-   Service portfolio
+General information about the service or the service offering including, status, subscribers, service scope, contracts, commitments, and more. The following lists a few, but for more detailed information on each section of the **Info** tab, see **Table 4. Service and service offering Info tab** in [View service and service offering details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-service-details.md).-   Service portfolio
 -   Taxonomy node
 -   Service classification \(business or technical\)
--   Phase and Status \(if using the [[SPM2-landing-page|Service Portfolio Management]] fields\) or
+-   Phase and Status \(if using the Service Portfolio Management fields\) or
 -   Stage and Status \(if using the CSDM life-cycle fields\)
 -   Consumer type
 -   Last review date
@@ -159,11 +159,3 @@ General information about the service or the service offering including, status,
 
 [View service and service offering details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-service-details.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Contracts|Contracts]]
-- [[SPM2-landing-page|Service Portfolio Management]]

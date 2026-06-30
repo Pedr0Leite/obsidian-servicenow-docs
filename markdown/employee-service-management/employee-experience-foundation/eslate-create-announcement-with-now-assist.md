@@ -15,7 +15,7 @@ breadcrumb: [Conversational authoring for announcements, Employee communications
 
 # Create an announcement using chat
 
-Use conversational authoring with Chat to create [[employee-slate-landing-page|Employee Slate]] announcements from existing knowledge articles or catalog items.
+Use conversational authoring with Chat to create Employee Slate announcements from existing knowledge articles or catalog items.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Conversational authoring streamlines announcement creation by using AI to genera
 
 1.  Navigate to the knowledge article or catalog item you want to promote or provide the article ID or URL directly to Chat.
 
-2.  Open Chat and enter a natural language prompt to [[eslate-create-employee-slate-announcement|create an announcement]].
+2.  Open Chat and enter a natural language prompt to create an announcement.
 
     For example, use a prompt such as `Create an announcement for this article` or `Create an announcement for knowledge article KB0001234`.
 
@@ -80,7 +80,3 @@ The AI-generated announcement is now live and visible to employees who match the
 
 If the AI assistant doesn't recognize the article or catalog item, verify that you have the correct ID or URL and that the content is published and accessible. Also check if you have user permissions to the content.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[eslate-create-employee-slate-announcement|Create an announcement]]

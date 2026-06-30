@@ -14,7 +14,7 @@ breadcrumb: [ACC certificates, ACC deployment - shared between servers and endpo
 
 # Revoke Agent Client Collector certificates
 
-Stop communication between the agent and ITOM cloud services by removing an [[acc-landing-page|Agent Client Collector]] certificate. For example, there might be a security breach due to which you want to stop communication by revoking the agent's certificate.
+Stop communication between the agent and ITOM cloud services by removing an Agent Client Collector certificate. For example, there might be a security breach due to which you want to stop communication by revoking the agent's certificate.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Communication between the agent and ITOM cloud services is stopped.
 
 [Add a self-signed certificate to your operating system's truststore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/add-certificate-trust-store.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

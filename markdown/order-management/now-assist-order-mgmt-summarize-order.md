@@ -90,8 +90,5 @@ If you want to check details about the summary, select the more info icon \[Omit
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]

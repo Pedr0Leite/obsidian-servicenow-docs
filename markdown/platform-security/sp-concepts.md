@@ -14,12 +14,12 @@ breadcrumb: [Exploring domain separation, Domain separation for service provider
 
 These concepts work with the existing ServiceNow platform capabilities to help you solve for common use cases.
 
--   **[[global-queue|Global queue v.2]]**  
+-   **[Global queue v.2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/global-queue.md)**  
 The global queue concept provides a single virtual view of tasks that reside in multiple instances. The concept creates a custom application to provide a fulfiller view of work that resides in multiple instances without having to replicate tasks or data.
--   **[[bp-service-connector|Service provider connector]]**  
+-   **[Service provider connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-service-connector.md)**  
 The service provider connector application is a reference design for creating a ServiceNow Store application for your customers to use to integrate with your systems. Service provider applications help you speed on-boarding and create standardized integrations.
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -34,8 +34,3 @@ The service provider connector application is a reference design for creating a 
 
 [Installed with domain separation]()
 
-## Related
-
-- [[global-queue|Global queue v.2]]
-- [[bp-service-connector|Service provider connector]]
-- [[c_DomainSeparation|Exploring domain separation]]

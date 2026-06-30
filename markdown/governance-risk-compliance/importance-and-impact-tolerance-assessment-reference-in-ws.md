@@ -12,7 +12,7 @@ breadcrumb: [Create an Importance and impact tolerance assessment, Performing Im
 
 # Create New Importance and impact tolerance assessment form
 
-Use the Create New Importance and impact tolerance assessment form in [[grc-opres-landing-page|Operational Resilience]] Workspace to create an assessment for the business service.
+Use the Create New Importance and impact tolerance assessment form in Operational Resilience Workspace to create an assessment for the business service.
 
 ## Create New Importance and impact tolerance assessment form
 
@@ -64,11 +64,11 @@ Type of the assessment. You can choose the **Smart assessment** or **Legacy asse
 
 </td></tr><tr><td>
 
-Smart [[airc-assessment-templates|Assessment templates]]
+Smart Assessment templates
 
 </td><td>
 
-Templates supported by the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. You can choose either the **Importance assessment template**, **Impact tolerance assessment template**, **Importance and impact tolerance assessment template** or all of them based on your assessment requirement.
+Templates supported by the Smart Assessment Engine. You can choose either the **Importance assessment template**, **Impact tolerance assessment template**, **Importance and impact tolerance assessment template** or all of them based on your assessment requirement.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -128,9 +128,3 @@ Auto-recorded log on the activities related to the assessment.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

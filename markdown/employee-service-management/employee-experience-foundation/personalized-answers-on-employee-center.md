@@ -28,7 +28,7 @@ In addition to searching for leave balances specifically, employees can also sea
 
 ## Set up Personalized Answers for PTO
 
-Set up a third-party-integrated instance to provide employees with Personalized Answers for leave balances on [[employee-center-landing-page|Employee Center]].
+Set up a third-party-integrated instance to provide employees with Personalized Answers for leave balances on Employee Center.
 
 ### Before you begin
 
@@ -145,6 +145,4 @@ Use any data fetch type, Live Call, AI Search, and Glide Query as required for t
 
 4.  Navigate to **All** &gt; **System Definition** &gt; **Tables** &gt; **Employee Time off balance** to view the source of the **AI Search** and **Glide Query** data.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

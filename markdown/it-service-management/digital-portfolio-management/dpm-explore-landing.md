@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Portfolio Management, IT Service Management]
 
 # Digital Portfolio Management Workspace homepage
 
-The [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace homepage is the starting point where you navigate to all aspects of your solutions and portfolios. You’re encouraged to personalize your Digital Portfolio Management \(DPM\) homepage so you can view and track the solutions that matter to you most.
+The Digital Portfolio Management \(DPM\) Workspace homepage is the starting point where you navigate to all aspects of your solutions and portfolios. You’re encouraged to personalize your Digital Portfolio Management \(DPM\) homepage so you can view and track the solutions that matter to you most.
 
 ## DPM Workspace overview
 
@@ -32,8 +32,8 @@ The homepage includes the following main areas.
     **Note:** The data on each solution card reflects current data at the time that you view the page. Refresh the page \(\[Omitted image "icon-refresh.png"\] Alt text: Refresh icon\) to update the data.
 
 -   Fields to enable you to search, filter, and personalize what you see on your DPM Workspace homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-personalize-homepage.md).
--   A [[dpm-personal-portfolio|Personal portfolios]] section that shows personal portfolios that you recently visited in DPM. You can also select the link to go to the personal portfolios page.
--   An [[dpm-enterprise-portfolios|Enterprise portfolios]] section that shows enterprise portfolios that you recently visited in DPM. You can also select the link to go to the enterprise portfolios page.
+-   A Personal portfolios section that shows personal portfolios that you recently visited in DPM. You can also select the link to go to the personal portfolios page.
+-   An Enterprise portfolios section that shows enterprise portfolios that you recently visited in DPM. You can also select the link to go to the enterprise portfolios page.
 -   A Recently viewed section that shows items that you recently visited in DPM.
 
 ## Current status solution cards
@@ -140,8 +140,3 @@ Severe
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

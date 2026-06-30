@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Verify expected results for manual WHOISIQ lookups
 
-Run a manual lookup on an observable when it does not automatically generate a security incident. For [[tisc-observable-enrichment|observable enrichment]] lookups using the WHOISIQ API for email addresses, organization names, phone numbers, or mailing addresses, initiate the lookup manually from the [[c_Observables|Observables]] table.
+Run a manual lookup on an observable when it does not automatically generate a security incident. For observable enrichment lookups using the WHOISIQ API for email addresses, organization names, phone numbers, or mailing addresses, initiate the lookup manually from the Observables table.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Create an observable for a manual lookup using the WHOISIQ API. For more informa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Observables** and locate the observable in the list you're working with.
+1.  Navigate to **All** &gt; **IoC Repository** &gt; **Observables** and locate the observable in the list you're working with.
 
 2.  Select your observable in the **Value** column to open the record.
 
-3.  Select the **[[tisc-run-observable-enrichment|Run Observable Enrichment]]** related link to run the lookup.
+3.  Select the **Run Observable Enrichment** related link to run the lookup.
 
 4.  In the **Run Observable Enrichment** window, move **RiskIQ Whois** to the Selected list.
 
@@ -52,9 +52,3 @@ If no results are returned for the observable, a message is displayed in the **S
 
 [Supported observables for RISKIQ and RISKIQ WHOISIQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/riskiq_supported_obsv.md)
 
-## Related
-
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[c_Observables|Observables]]
-- [[ioc-repository|IoC Repository]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

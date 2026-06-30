@@ -40,7 +40,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d285235e106">
 
-**From the [[demand-form|Demand form]]**
+**From the Demand form**
 
 </td><td>
 
@@ -48,7 +48,7 @@ Steps
 2.  Open a demand.
 3.  On the Demand form, select the **Cost Plans** or **Benefit Plans** related list.
 4.  Select **Manage**.
-5.  On the [[c_DemandWorkbench|Demand Workbench]], select the baseline information icon \( \[Omitted image "new-baseline-info-icon.png"\] Alt text: \) and then select **Compare Baselines**.
+5.  On the Demand Workbench, select the baseline information icon \( \[Omitted image "new-baseline-info-icon.png"\] Alt text: \) and then select **Compare Baselines**.
 
 
 </td></tr><tr><td id="d285235e165">
@@ -99,7 +99,3 @@ Steps
 
 **Parent Topic:**[Create a baseline of a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-baseline.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[c_DemandWorkbench|Demand workbench]]

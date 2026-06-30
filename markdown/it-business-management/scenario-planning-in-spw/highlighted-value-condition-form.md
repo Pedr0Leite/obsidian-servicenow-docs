@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Highlighted Value Condition form
 
-Learn about the fields of the Highlighted Value Conditions form. Use this form to configure the display of highlighted fields in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the Highlighted Value Conditions form. Use this form to configure the display of highlighted fields in Strategic Planning workspace.
 
 <table id="table_dyb_41y_2wb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Application
 
 </td><td>
 
-Scope of yourServiceNow instance. By default, this field is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+Scope of yourServiceNow instance. By default, this field is set to **Portfolio Planning**.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,3 @@ Custom display text that replaces the actual field value in the view. When speci
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

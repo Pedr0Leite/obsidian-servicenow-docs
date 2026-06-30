@@ -18,7 +18,7 @@ ServiceNow® Edge Encryption ™ encrypts sensitive data on your company premise
 
 **Important:**
 
-Starting with the Zurich release, Edge Encryption and Edge Encryption Core are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [[field-encryption|Field Encryption]] and [[now-platform-encryption|Field Encryption Enterprise]] provide the latest experience for this functionality.
+Starting with the Zurich release, Edge Encryption and Edge Encryption Core are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. Field Encryption and Field Encryption Enterprise provide the latest experience for this functionality.
 
 For details, see the Deprecation Process \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] article in the Now Support knowledge base.
 
@@ -58,8 +58,3 @@ For details, see the Deprecation Process \[[KB0867184](https://support.serviceno
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

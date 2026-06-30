@@ -26,11 +26,11 @@ After you define a compatibility rule, when you capture a customer order, you ca
 
 Validations occur at two levels:
 
-1.  Validations before the order approval. If these validations fail, the [[order-mgt-order-decomposition|order decomposition]] process doesn't stop. The following validations take place:
+1.  Validations before the order approval. If these validations fail, the order decomposition process doesn't stop. The following validations take place:
     -   Source specification and source specification configuration
     -   Compatibles validation
     -   Compatibles quantity validation
-2.  Validation at the time that a domain order is closed. If this validation fails, the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process stops. The following validations take place:
+2.  Validation at the time that a domain order is closed. If this validation fails, the order fulfillment process stops. The following validations take place:
     -   Source specification and source specification configuration
     -   Compatibles validation
     -   Compatibles quantity validation
@@ -72,21 +72,14 @@ The ServiceNow AI Platform displays a message that confirms whether the order in
 
 ## What to do next
 
-[[som-om-approve-product-order|Approve orders in Order Management]]
+[Approve orders in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-om-approve-product-order.md)
 
 **Note:** Upon approving for the change and disconnect type of order requests with horizontal relationships, the ServiceNow system analyzes its impact on the product inventory relationships and displays a message if it invalidates the existing relationships due to the impact of the requested change by the customer.
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[som-om-approve-product-order|Approve orders in Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-order-decomposition|Order decomposition]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

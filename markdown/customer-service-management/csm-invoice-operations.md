@@ -14,9 +14,9 @@ breadcrumb: [Case management, Organize agent workspaces, Configure, Customer Ser
 
 The Case Management for Invoice Operations application enables customer service agents to create cases for specific lines from a single invoice or for multiple invoices.
 
-\[Omitted image "invoice-operations-case-form.png"\] Alt text: Invoice case page with case details and the [[csm-config-ws-activity-stream|activity stream]]. This page also includes the configurable side panel.
+\[Omitted image "invoice-operations-case-form.png"\] Alt text: Invoice case page with case details and the activity stream. This page also includes the configurable side panel.
 
-The Case Management for Invoice Operations application includes the [[invoice-ops-installed-components|Invoice case type]]. This case type provides the ability to reference multiple invoices or invoice lines as case lines on an invoice case record. By using case lines, agents can track multiple issues for the same invoice case and resolve the issues in each case line independently before resolving and closing the invoice case.
+The Case Management for Invoice Operations application includes the [Invoice case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-installed-components.md). This case type provides the ability to reference multiple invoices or invoice lines as case lines on an invoice case record. By using case lines, agents can track multiple issues for the same invoice case and resolve the issues in each case line independently before resolving and closing the invoice case.
 
 Use invoice cases to handle issues such as invoice disputes or requested corrections. With this application, agents can create an invoice case and add the invoices or invoice lines that are being disputed or that must be corrected. Agents can work through the case, create case tasks for other team members as needed, or assign case lines to other agents.
 
@@ -38,7 +38,7 @@ Businesses can encounter invoice issues for many reasons including price or quan
 
 ## Overview of creating an invoice case
 
-The following table provides an overview of the process for [[invoice-ops-creating-invoice-cases|creating an invoice case]]. For detailed steps, see [[invoice-ops-create-invoice-case|Create an invoice case]].
+The following table provides an overview of the process for creating an invoice case. For detailed steps, see [Create an invoice case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-create-invoice-case.md).
 
 <table id="table_hpc_lhk_fdc"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Creating an invoice case
 
 </td><td>
 
-An agent can create an invoice case from [[csm-workspaces-configure|CSM Configurable Workspace]] or from the Core UI by selecting **New** from the Invoice Cases list view.
+An agent can create an invoice case from CSM Configurable Workspace or from the Core UI by selecting **New** from the Invoice Cases list view.
 
 </td></tr><tr><td>
 
@@ -82,16 +82,16 @@ Selecting **Save** on the Invoice case record moves the invoice case to the Draf
 </td></tr></tbody>
 </table>## Case Management for Invoice Operations plugin
 
-Case Management for Invoice Operations \(com.sn\_csm\_invoice\) is a [[case-management|case management]] application for handling support requests on invoices or invoice lines. This application enables customers to process invoice service requests such as invoice disputes or invoice inquiries.
+Case Management for Invoice Operations \(com.sn\_csm\_invoice\) is a case management application for handling support requests on invoices or invoice lines. This application enables customers to process invoice service requests such as invoice disputes or invoice inquiries.
 
-**Note:** The Case Management for Invoice Operations application has a dependency on the [[csm-case-mgmt-case-lines|Case lines and workflows]] application \(com.sn\_case\_line\).
+**Note:** The Case Management for Invoice Operations application has a dependency on the [Case lines and workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md) application \(com.sn\_case\_line\).
 
 The Case Management for Invoice Operations application includes list views for CSM Configurable Workspace and Core UI.
 
--   In CSM Configurable Workspace, expand the **Invoice Cases** list category in the [[migration-lists|Lists]] tab.
+-   In CSM Configurable Workspace, expand the **Invoice Cases** list category in the Lists tab.
 -   In Core UI, navigate to **All** &gt; **Invoice Case**.
 
-The Case Management for Invoice Operations application also includes tables, roles, [[csm-service-definitions|service definitions]], the Invoice case type, and other components. For more information, see [Components installed with Case Management for Invoice Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-installed-components.md).
+The Case Management for Invoice Operations application also includes tables, roles, service definitions, the Invoice case type, and other components. For more information, see [Components installed with Case Management for Invoice Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-installed-components.md).
 
 The Case Management for Invoice Operations application is available from the ServiceNow Store.
 
@@ -99,14 +99,3 @@ The Case Management for Invoice Operations application is available from the Ser
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[invoice-ops-installed-components|Components installed with Case Management for Invoice Operations]]
-- [[invoice-ops-create-invoice-case|Create an invoice case]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[invoice-ops-creating-invoice-cases|Creating an invoice case]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-management|Case management]]
-- [[migration-lists|Lists]]
-- [[csm-service-definitions|Service definitions]]

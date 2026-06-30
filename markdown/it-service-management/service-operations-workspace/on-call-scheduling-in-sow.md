@@ -50,13 +50,13 @@ Use the Teams menu \(\[Omitted image "icon-sr-teams.png"\] Alt text: Teams icon\
 
 Use the **Schedule** tab to create and manage shifts for your team. This feature verifies that the right person is available to respond to incidents and critical alerts. You can also add or edit team members, description, and the contact information of your team.
 
-Use the **[[work-on-escalation-trigger-rules-and-policies-in-sow|Escalation triggers and policies]]** tab to set an escalation policy and the trigger rules to be followed if there's an incident. You assign these policies and trigger rules, along with notification preferences, to a team.
+Use the **Escalation triggers and policies** tab to set an escalation policy and the trigger rules to be followed if there's an incident. You assign these policies and trigger rules, along with notification preferences, to a team.
 
 Use the **On-call Team preferences** tab to edit shift preferences for a group. You can add a Shift Manager and the start day of the week, set preferences for absence requests and shift overlap, and escalation rules for shift overlap.
 
 ## Contextual side panel
 
-Use [[c_OnCallScheduling|On-Call Scheduling]] from the Contextual side panel, when you open an incident. You can also configure experts on call and escalation tracking for any other record, if necessary.
+Use On-Call Scheduling from the Contextual side panel, when you open an incident. You can also configure experts on call and escalation tracking for any other record, if necessary.
 
 Select the Experts On-call icon \(\[Omitted image "experts-on-call.png"\] Alt text: Experts on-call icon.\) from the Contextual side panel to view and contact the recommended subject matter experts for help.
 
@@ -76,7 +76,7 @@ You can identify available on-call members of a support group and contact them t
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [Problem Management in Service Operations Workspace]()
 
@@ -100,8 +100,3 @@ You can identify available on-call members of a support group and contact them t
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[work-on-escalation-trigger-rules-and-policies-in-sow|Escalation triggers and policies]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[c_IncidentManagement|Incident Management]]

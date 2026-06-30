@@ -36,13 +36,13 @@ A permit type is a specific category of permit that addresses unique risks and s
 
 5.  Select the Choices related list and select **New**.
 
-6.  On the [[hs-choice-new-record-form|Choice new record form]], fill in the fields.
+6.  On the Choice new record form, fill in the fields.
 
     For a description of the field values, see [Choice new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-choice-new-record-form.md).
 
 7.  Select **Submit**.
 
-    A new permit type is created which appears in the **Permit type** field of the [[hs-permit-to-work-form|permit-to-work request form]]. Repeat the steps to create multiple permit types.
+    A new permit type is created which appears in the **Permit type** field of the permit-to-work request form. Repeat the steps to create multiple permit types.
 
 8.  Automatically display questions specific to a permit type when the user selects it on the permit-to-work request form by creating a variable set for each permit type. For more information on variable sets and the layout, see [Variable set layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_DefineVariableSetLayout.md).
 
@@ -51,7 +51,7 @@ A permit type is a specific category of permit that addresses unique risks and s
     3.  If the request form displays a message about the application scope, select **here** to be able to edit the record.
     4.  On the **Variable sets** tab of the related list, select **New**.
     5.  Create a variable set with grouped variables by selecting **Single row variable set**.
-    6.  On the [[hs-variable-set-new-record-form|Variable set new record form]], fill in the fields..
+    6.  On the Variable set new record form, fill in the fields..
 
         For a description of the field values, see [Variable set new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-variable-set-new-record-form.md).
 
@@ -60,7 +60,7 @@ A permit type is a specific category of permit that addresses unique risks and s
 9.  Add customized questions to the permit type.
 
     1.  Open a variable set.
-    2.  On the [[hs-variable-new-record|Variable new record form]], fill in the fields.
+    2.  On the Variable new record form, fill in the fields.
     3.  For a description, see [Variable new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-variable-new-record.md).
     4.  Select **Submit**.
 10. Link the variable set to the permit type.
@@ -78,9 +78,3 @@ A permit type is a specific category of permit that addresses unique risks and s
 
 **Parent Topic:**[Configure permit-to-work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-configure-permit-to-work.md)
 
-## Related
-
-- [[hs-choice-new-record-form|Choice new record form]]
-- [[hs-permit-to-work-form|Permit-to-work request form]]
-- [[hs-variable-set-new-record-form|Variable set new record form]]
-- [[hs-variable-new-record|Variable new record form]]

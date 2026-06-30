@@ -14,11 +14,11 @@ breadcrumb: [Configure, CMDB Identification and Reconciliation \(IRE\), Configur
 
 # Configure CI reclassification during IRE processing
 
-During the [[ire|Identification and Reconciliation Engine \(IRE\)]] CI identification process, a CI might need to be reclassified to a different sys\_class\_name type. By default, CIs are reclassified automatically. If automatic reclassification is disabled, then the CI is not reclassified and the system generates a reclassification task for your review.
+During the Identification and Reconciliation Engine \(IRE\) CI identification process, a CI might need to be reclassified to a different sys\_class\_name type. By default, CIs are reclassified automatically. If automatic reclassification is disabled, then the CI is not reclassified and the system generates a reclassification task for your review.
 
 The class of a CI can be upgraded, downgraded, or switched to a different branch in the class hierarchy. For more details about reclassification operations, see [Reclassify a CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ManuallyReclassifyCI.md). You can use system properties and payload flags to configure the IRE behavior of CI reclassification, globally or individually per CI.
 
-**Note:** CI reclassification is possible only between two classes that have identical [[c_IdentificationRules|identification rules]].
+**Note:** CI reclassification is possible only between two classes that have identical identification rules.
 
 ## Configure automatic CI reclassification using system properties
 
@@ -150,7 +150,3 @@ A reclassification restriction rule applies only to the direction between the sp
 
 In the Reclassification Restrictions list view, you can activate or deactivate a reclassification restriction rule by setting its **Active** value to true or false.
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]

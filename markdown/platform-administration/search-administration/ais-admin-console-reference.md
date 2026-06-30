@@ -15,9 +15,5 @@ breadcrumb: [AI Search Admin console, Search administration, Configure core feat
 
 # AI Search Admin console reference
 
-[[reference-email-admin|Reference]] information for the [[ais-admin-console|AI Search Admin console]] application.
+Reference information for the AI Search Admin console application.
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[ais-admin-console|AI Search Admin console]]

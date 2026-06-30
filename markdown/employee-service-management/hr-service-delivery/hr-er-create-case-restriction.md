@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations case restrictions, Configuring Employee Relation
 
 # Configure an employee relations case restriction
 
-Define what groups can view or access [[hr-case-employee-relations|employee relations]] cases using Case Restriction Configuration.
+Define what groups can view or access employee relations cases using Case Restriction Configuration.
 
 ## Before you begin
 
@@ -100,6 +100,3 @@ Option to activate the case restriction configuration record.
 
 Case restriction configuration enables the HR confidential group members to restrict a case using the **Restrict** button available on the case. When a case is marked as Restricted only the members in the HR confidential group can view the ER case.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

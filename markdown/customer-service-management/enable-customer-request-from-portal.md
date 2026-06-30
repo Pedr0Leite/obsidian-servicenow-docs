@@ -26,7 +26,7 @@ Each submitted request generates a case, with the request record associated to t
 
 ## Procedure
 
--   Configure the [[r_CustomerServiceCaseForm|Case form]] to display the **Initiated as request** field.
+-   Configure the Case form to display the **Initiated as request** field.
 
     When a request is created from the portal, the system creates a case for the request and sets this field to true.
 
@@ -36,12 +36,7 @@ Each submitted request generates a case, with the request record associated to t
 **Related topics**  
 
 
-[[agent-create-request-for-customer|Create a request on behalf of a customer or consumer]]
+[Create a request on behalf of a customer or consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-create-request-for-customer.md)
 
-[[customer-request-from-portal|Request an item or service from the Customer Service Portal]]
+[Request an item or service from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-request-from-portal.md)
 
-## Related
-
-- [[agent-create-request-for-customer|Create a request on behalf of a customer or consumer]]
-- [[customer-request-from-portal|Request an item or service from the Customer Service Portal]]
-- [[r_CustomerServiceCaseForm|Case form]]

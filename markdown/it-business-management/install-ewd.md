@@ -12,7 +12,7 @@ breadcrumb: [Configure, SPM Enterprise-Wide Deployment, Strategic Portfolio Mana
 
 # Install SPM Enterprise-Wide Deployment
 
-You can install the [[ewd-landing-page|SPM Enterprise-Wide Deployment]] application \(sn\_spm\_ewd\) if you have the admin role.
+You can install the SPM Enterprise-Wide Deployment application \(sn\_spm\_ewd\) if you have the admin role.
 
 ## Before you begin
 
@@ -21,10 +21,10 @@ You can install the [[ewd-landing-page|SPM Enterprise-Wide Deployment]] applicat
 
 **Note:** SPM Enterprise-Wide Deployment is installed automatically if any of the following applications are already installed on your instance at the specified version or later. Verify the installation status before proceeding:
 
--   [[project-workspace-landing-page|Project Workspace]] \(7.3.0\)
--   [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace \(8.15.0\)
--   [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(4.15.0\)
--   [[rsrc-mgmt-wrkspc|Resource Management Workspace]] \(5.7.0\)
+-   Project Workspace \(7.3.0\)
+-   Portfolio Planning Workspace \(8.15.0\)
+-   Strategic Planning Workspace \(4.15.0\)
+-   Resource Management Workspace \(5.7.0\)
 
 Role required: admin
 
@@ -36,7 +36,7 @@ The following items are installed with Enterprise-Wide Deployment:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-installed-with-ewd|Components installed with Enterprise-Wide Deployment]].
+For more information, see [Components installed with Enterprise-Wide Deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/components-installed-with-ewd.md).
 
 ## Procedure
 
@@ -62,11 +62,3 @@ For more information, see [[components-installed-with-ewd|Components installed w
 
 [https://store.servicenow.com/store/apps?q=enterprise-wide%20deployment](https://store.servicenow.com/store/apps?q=enterprise-wide%20deployment)
 
-## Related
-
-- [[components-installed-with-ewd|Components installed with Enterprise-Wide Deployment]]
-- [[ewd-landing-page|SPM Enterprise-Wide Deployment]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

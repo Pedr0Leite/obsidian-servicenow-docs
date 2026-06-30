@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # DEX Insights reports
 
-The [[dex-landing|Digital End-User Experience]] \(DEX\) Insights tab provides reports on the user device battery health, system compliance, system performance, and system time, which enables efficient monitoring and issue identification.
+The Digital End-User Experience \(DEX\) Insights tab provides reports on the user device battery health, system compliance, system performance, and system time, which enables efficient monitoring and issue identification.
 
 ## Battery health
 
@@ -48,7 +48,7 @@ Operating system
 
 </td><td>
 
-OS that manages and controls the device hardware, as well as enables the execution of [[dex-workspace-application-tab|applications]] such as Windows or macOS.
+OS that manages and controls the device hardware, as well as enables the execution of applications such as Windows or macOS.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Device count
 
 </td><td>
 
-Number of [[dex-workspace-devices-tab|devices]] that have the file. You can select the number to see all devices where the file was detected.
+Number of devices that have the file. You can select the number to see all devices where the file was detected.
 
 </td></tr></tbody>
 </table>## System compliance
@@ -349,8 +349,3 @@ The error `No value (check the configuration)` appears when the path is incomple
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

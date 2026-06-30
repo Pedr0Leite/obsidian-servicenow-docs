@@ -18,12 +18,12 @@ Use the enterprise asset request flow to request, source, and deploy catalog ite
 
 ## Before you begin
 
-Before requesting for an enterprise asset, confirm that you have already created a model for that asset in the [[using-eam-workspace|Enterprise Asset Workspace]] and published that model to the Service Catalog application.
+Before requesting for an enterprise asset, confirm that you have already created a model for that asset in the Enterprise Asset Workspace and published that model to the Service Catalog application.
 
 Role required:
 
 -   catalog\_admin
--   [[c_Procurement|procurement]]\_admin
+-   procurement\_admin
 -   sn\_eam.enterptrise\_asset\_manager
 -   sys\_admin
 
@@ -94,7 +94,3 @@ The Workflow Studio application is used to create the Standard Enterprise Asset 
 
 **Parent Topic:**[Fulfilling enterprise asset requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/fulfilling-enterprise-asset-requests.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Procurement|Procurement]]

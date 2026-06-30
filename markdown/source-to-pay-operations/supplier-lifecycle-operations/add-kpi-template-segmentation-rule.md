@@ -14,7 +14,7 @@ breadcrumb: [Create segmentation rule, Configure Supplier Relationship and Perfo
 
 # Add KPI templates to a segmentation rule
 
-You can add new [[kpi-templates|KPI templates]] to a segmentation rule if the existing templates used for suppliers don’t meet your needs.
+You can add new KPI templates to a segmentation rule if the existing templates used for suppliers don’t meet your needs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**.
 
@@ -32,7 +32,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 5.  On the Add KPI template form, select the check box next to the KPI template and select **Add**.
 
-    The newly added [[supplier|supplier]] is shown in the **KPI Template** related tab for the segmentation rule.
+    The newly added supplier is shown in the **KPI Template** related tab for the segmentation rule.
 
     **Note:** The weight of the new KPI template doesn’t affect the original KPI template weight or the weight of the KPI that was previously created from this template. However, this change will affect any newly created KPIs that are part of this segmentation rule after you run it by selecting Execute. For more information, see [Run segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-segmentation-rule.md).
 
@@ -52,9 +52,3 @@ KPIs are generated on the next segmentation rule run.
 
 [Create segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-segmentation-rule-slo.md)
 
-## Related
-
-- [[kpi-templates|KPI templates]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

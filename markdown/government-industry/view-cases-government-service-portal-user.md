@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Track your cases from the Government Service Portal in Public Sector Digital Services
 
-Track your service request, information request, or license/permit request cases in the [[gsp-overview-public-sector|Government Service Portal]] by viewing a list of your cases and selecting the ones that you want to see more details about. Here, you can respond to an agent's inquiry, view a response, or see if there are any next steps required to resolve the case.
+Track your service request, information request, or license/permit request cases in the Government Service Portal by viewing a list of your cases and selecting the ones that you want to see more details about. Here, you can respond to an agent's inquiry, view a response, or see if there are any next steps required to resolve the case.
 
 ## Before you begin
 
@@ -119,6 +119,4 @@ All license and permit request cases that a user has access to. The License and 
 
     Your message becomes part of the case conversation. All responses from the agent are also included in the conversation, and you can see responses from other agents here.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

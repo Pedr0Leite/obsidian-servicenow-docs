@@ -14,7 +14,7 @@ breadcrumb: [Explore, Personal Data Rights \(PDR\), Privacy Management, Governan
 
 # Personal Data Rights workspace
 
-The Personal Data Rights Workspace offers you the ability to create new [[personal-data-rights|personal data rights]] request and view the requests by their type, due date, and status.
+The Personal Data Rights Workspace offers you the ability to create new personal data rights request and view the requests by their type, due date, and status.
 
 The following image shows the Personal Data Rights workspace homepage.
 
@@ -30,6 +30,3 @@ The overview section displays the tasks that need attention and are either overd
 
 In the task overview section, you can view the tasks by their SLA and by their status. You can click on each item on the charts to obtain more details.
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

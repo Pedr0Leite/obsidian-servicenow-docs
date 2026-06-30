@@ -22,7 +22,7 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
 ## About this task
 
-By default, the [[file-access-permissions|file access permissions]] are enabled on the engagement and audit task records. A user that is part of a group can select **Request access** to request an access to the file. The **Request access** UI action is available only to the group members. A user that is part of a cloud file configuration can use **Refresh file access** to refresh or configure the file access. The **Refresh file access** action is available to the users that are listed in the cloud file configuration.
+By default, the file access permissions are enabled on the engagement and audit task records. A user that is part of a group can select **Request access** to request an access to the file. The **Request access** UI action is available only to the group members. A user that is part of a cloud file configuration can use **Refresh file access** to refresh or configure the file access. The **Refresh file access** action is available to the users that are listed in the cloud file configuration.
 
 Instead of using the manual **Request access** and **Refresh file access** actions, you can configure file access permissions on other tables such as control records or policy records. For more information, see the configuration steps in KB1587297.
 
@@ -32,7 +32,7 @@ The File access permission record enables the users to manage access permissions
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Cloud file configuration**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Cloud file configuration**.
 
 2.  Select an active parent cloud file configuration record.
 
@@ -60,7 +60,4 @@ The File access permission record enables the users to manage access permissions
 
     Based on the configuration set up in the form, the permissions on the cloud document are evaluated.
 
-## Related
 
-- [[file-access-permissions|File access permissions]]
-- [[Administration|Administration]]

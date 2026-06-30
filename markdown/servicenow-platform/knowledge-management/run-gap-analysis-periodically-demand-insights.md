@@ -20,7 +20,7 @@ Set the frequency of the scheduled job for your task to automatically run knowle
 
 This task describes the process for setting the frequency of knowledge gap analysis.
 
-Instead of doing the configuration through this procedure, consider using a guided setup. Navigate to **Knowledge** &gt; **Administration** &gt; **Guided Setup**, click **Get Started**, and then scroll to the [[knowledge-demand-insights|Knowledge Demand Insights]] section.
+Instead of doing the configuration through this procedure, consider using a guided setup. Navigate to **Knowledge** &gt; **Administration** &gt; **Guided Setup**, click **Get Started**, and then scroll to the Knowledge Demand Insights section.
 
 Role required: admin
 
@@ -40,7 +40,7 @@ Role required: admin
 
 4.  Click **Update**.
 
-    **Note:** If the application scope is not set to [[knowledge-management|Knowledge Management]] - Machine Learning, a warning message appears and the **Update** button is not available. Click the word **here** at the end of the message to change the scope and click **Update**.
+    **Note:** If the application scope is not set to Knowledge Management - Machine Learning, a warning message appears and the **Update** button is not available. Click the word **here** at the end of the message to change the scope and click **Update**.
 
 5.  To run the job immediately, click **Execute Now**.
 
@@ -60,7 +60,3 @@ Create assignment rules to assign knowledge gap feedback tasks. For more informa
 
 [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[knowledge-management|Knowledge Management]]

@@ -14,19 +14,19 @@ breadcrumb: [Exploring Metric Intelligence, Metric Intelligence, IT Operations M
 
 # MID Server and MID Server distributed cluster for Metric Intelligence
 
-Using [[operational-metrics|Metric Intelligence]] requires at least one MID Server distributed cluster which contains a single MID Server that is configured for Metric Intelligence.
+Using Metric Intelligence requires at least one MID Server distributed cluster which contains a single MID Server that is configured for Metric Intelligence.
 
 When using a single Metric Intelligence MID Server, that server must be added to a MID Server distributed cluster.
 
-To support the specified throughput, create a distributed cluster with a single MID Server that meets the Metric Intelligence MID Server requirements. When using a virtual machine \(VM\), only a single MID Server can run that supports Metric Intelligence. When working with [[acc-landing-page|Agent Client Collector]], a MID Server can also be connected to multiple agents \(ACC-M and ACC-L\).
+To support the specified throughput, create a distributed cluster with a single MID Server that meets the Metric Intelligence MID Server requirements. When using a virtual machine \(VM\), only a single MID Server can run that supports Metric Intelligence. When working with Agent Client Collector, a MID Server can also be connected to multiple agents \(ACC-M and ACC-L\).
 
-A MID Server supporting [[r-discovery|Discovery]] can also be used with other applications.
+A MID Server supporting Discovery can also be used with other applications.
 
 For details on setting up Metric Intelligence, see [Get started with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/get-started-metrics.md).
 
 ## MID Server distributed clusters
 
-[[activating-metric-intelligence|Activating Metric Intelligence]] \(com.snc.sa.metric\), automatically activates MID Server distributed cluster \(com.snc.agent.distributed.cluster\). A MID Server distributed cluster supports the Distributed MID Server cluster type which is used exclusively with Metric Intelligence.
+Activating Metric Intelligence \(com.snc.sa.metric\), automatically activates MID Server distributed cluster \(com.snc.agent.distributed.cluster\). A MID Server distributed cluster supports the Distributed MID Server cluster type which is used exclusively with Metric Intelligence.
 
 If automatic creation of a MID Server distributed cluster fails, you can configure the cluster manually. For details, contact Customer Support.
 
@@ -171,9 +171,3 @@ Use the `../agent/conf/wrapper.conf` file to configure memory for Metric Intelli
 
 Optionally, if a server has additional RAM available, for example 16 GB RAM, you can replace `4096` with `8192` in `wrapper.java.maxmemory=4096`.
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[activating-metric-intelligence|Activating Metric Intelligence]]

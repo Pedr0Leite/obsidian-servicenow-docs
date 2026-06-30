@@ -56,7 +56,7 @@ Assessment contribution
 
 </td><td>
 
-Type of factor contribution:-   **Qualitative**: Provides a numerical score and then converts the score into a rating. Selecting this option ensures that only qualitative [[factors|factors]] are available for adding.
+Type of factor contribution:-   **Qualitative**: Provides a numerical score and then converts the score into a rating. Selecting this option ensures that only qualitative factors are available for adding.
 -   **Quantitative**: Provides the losses that can be incurred in monetary terms. The losses contribute to the annual loss expectancy \(ALE\). Selecting this option ensures that only quantitative factors are available for adding.
 -   **Both**: Provides both the qualitative and quantitative assessment type.
 
@@ -117,9 +117,9 @@ Section Labels
 
 </td></tr><tr><td colspan="2">
 
-This section appears only when **Configure section [[tprm-terminology|terminology]]** is selected in the RAM form.
+This section appears only when **Configure section terminology** is selected in the RAM form.
 
- **Note:** Section label renaming applies only to the [[advanced-risk-assessment|advanced risk assessment]] interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
+ **Note:** Section label renaming applies only to the advanced risk assessment interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Factor for X-axis
 
 </td><td>
 
-Factor that appears on the X-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or factors with the [[transformation-criteria|transformation criteria]] can be selected. For more information, see [Transformation criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/transformation-criteria.md).
+Factor that appears on the X-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or factors with the transformation criteria can be selected. For more information, see [Transformation criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/transformation-criteria.md).
 
 </td></tr><tr><td>
 
@@ -172,9 +172,3 @@ Factor that appears on the Y-axis of the heatmap.**Note:** Only qualitative fact
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure an inherent assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-inherent-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[tprm-terminology|Terminology]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[transformation-criteria|transformation criteria]]

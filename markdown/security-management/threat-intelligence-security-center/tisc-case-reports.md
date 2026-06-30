@@ -26,7 +26,7 @@ Case Reports provide a structured way to document and present intelligence tied 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library**.
 
 2.  Select **Reports** &gt; **Case Reports**
 
@@ -45,6 +45,3 @@ Case Reports provide a structured way to document and present intelligence tied 
 
 **Parent Topic:**[Working with Reports in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports-lib-view.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

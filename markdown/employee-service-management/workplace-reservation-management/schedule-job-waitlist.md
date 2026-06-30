@@ -18,7 +18,7 @@ A nightly scheduled job Waitlist Expirations handles expiration of past or stale
 
 ## Before you begin
 
-Stale or past entries are removed from the queue so that they don't remain active in the waitlist queue and affect [[space-optimization|space optimization]] and utilization insights.
+Stale or past entries are removed from the queue so that they don't remain active in the waitlist queue and affect space optimization and utilization insights.
 
 **Note:** Expired entries are retained in the system until the purge job removes them based on the configured retention period \(30 days or more\). For more information, see [Purge a waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/purge-waitlist.md).
 
@@ -49,6 +49,3 @@ Role required: sn\_wsd\_core.admin
 
 **Next topic:**[Purge a waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/purge-waitlist.md)
 
-## Related
-
-- [[space-optimization|Space Optimization]]

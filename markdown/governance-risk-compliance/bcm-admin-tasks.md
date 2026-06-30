@@ -12,30 +12,18 @@ breadcrumb: [Configure, Business Continuity Management, Governance, Risk, and Co
 
 # Setup for a business impact analysis
 
-The administrative tasks that are associated with a [[bia-uib|business impact analysis]] \(BIA\) are listed in **General [[Administration|Administration]]** of the [[business-continuity-mangmt-overview|Business Continuity Management]] application.
+The administrative tasks that are associated with a business impact analysis \(BIA\) are listed in **General Administration** of the Business Continuity Management application.
 
-BIA administrator with the sn\_bia.bia\_admin role configures the BIA templates. For more information, see [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]].
+BIA administrator with the sn\_bia.bia\_admin role configures the BIA templates. For more information, see [Configure BIA templates with legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bia-template-uib-ws.md).
 
 -   **[Configure BIA templates with legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bia-template-uib-ws.md)**  
 Configure a business impact analysis \(BIA\) template in the Business Continuity Workspace with a legacy assessment. Select the type of elements, impact categories, and dependencies to be assessed. The legacy assessment uses the older method of selecting impact categories.
--   **[[conf-impact-asmt-template|Create Smart Assessment templates for BIA]]**  
-Create Smart [[airc-assessment-templates|Assessment templates]] in the Assessment Workspace for the Business Impact Analysis \(BIA\) workflow.
--   **[[configure-rto-rpo-sa-templates|Configure RTO and RPO Smart Assessment templates workflow]]**  
-Configure Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) assessments using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] for Business Impact Analysis \(BIA\). The Smart Assessment Engine replaces the traditional non-smart assessment questionnaires with an automated, rule-based approach.
--   **[[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]**  
+-   **[Create Smart Assessment templates for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-impact-asmt-template.md)**  
+Create Smart Assessment templates in the Assessment Workspace for the Business Impact Analysis \(BIA\) workflow.
+-   **[Configure RTO and RPO Smart Assessment templates workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-rto-rpo-sa-templates.md)**  
+Configure Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) assessments using the Smart Assessment Engine for Business Impact Analysis \(BIA\). The Smart Assessment Engine replaces the traditional non-smart assessment questionnaires with an automated, rule-based approach.
+-   **[Configure BIA templates with Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-bia-temp-smart-asmt-type.md)**  
 Configure a business impact analysis \(BIA\) template in the Business Continuity Workspace with the Smart Assessment. Select the type of the elements, impact categories, and dependencies that are assessed in the BIA. The Smart Assessment lets you choose a custom Smart Assessment template for the BIA.
 
-**Parent Topic:**[[configuring-business-continuity-management|Configuring Business Continuity Management]]
+**Parent Topic:**[Configuring Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-business-continuity-management.md)
 
-## Related
-
-- [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]]
-- [[conf-impact-asmt-template|Create Smart Assessment templates for BIA]]
-- [[configure-rto-rpo-sa-templates|Configure RTO and RPO Smart Assessment templates workflow]]
-- [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]
-- [[configuring-business-continuity-management|Configuring Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[Administration|Administration]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -12,9 +12,9 @@ breadcrumb: [IT Service Management]
 
 # Platform Analytics ITSM Dashboards
 
-The [[itsm-dashboards-content-pack|ITSM Dashboards content pack]] provides several Platform Analytics Solutions that contain preconfigured dashboards. This content pack also includes several dashboards and indicators of its own. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
+The ITSM Dashboards content pack provides several Platform Analytics Solutions that contain preconfigured dashboards. This content pack also includes several dashboards and indicators of its own. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
-Alternatively, executives and managers can use the metrics in the ITSM Success Dashboard to make informed decisions. For more information, see [Exploring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md). Agents can use the [[it-agent-dashboard|IT Agent dashboard]] in Service Operations Workspace to obtain information about their work and their group's work. For more information, see [[it-agent-dashboard-sow|IT Agent dashboard for Service Operations Workspace]].
+Alternatively, executives and managers can use the metrics in the ITSM Success Dashboard to make informed decisions. For more information, see [Exploring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md). Agents can use the IT Agent dashboard in Service Operations Workspace to obtain information about their work and their group's work. For more information, see [IT Agent dashboard for Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/it-agent-dashboard-sow.md).
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
@@ -25,8 +25,3 @@ Platform Analytics data visualizations use Performance Analytics [indicator](htt
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[it-agent-dashboard-sow|IT Agent dashboard for Service Operations Workspace]]
-- [[itsm-dashboards-content-pack|itsm dashboards content pack]]
-- [[it-agent-dashboard|it agent dashboard]]

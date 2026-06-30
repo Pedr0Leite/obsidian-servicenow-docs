@@ -18,13 +18,13 @@ Fuzzy numeric search lets you find indexed records by their Number field values 
 
 ## Fuzzy numeric search overview
 
-Fuzzy numeric search in AI Search allows your numerical search terms to match indexed ServiceNow AI Platform® records by their Number field values. The fuzzy matching compares the numeric search term with each indexed record's Number, ignoring its alphabetical prefix and any leading zeroes. As an example, if you index knowledge article and problem records, a search for `23583` might return knowledge article KB00023583 and problem PRB00023583 as search [[hs-results|results]].
+Fuzzy numeric search in AI Search allows your numerical search terms to match indexed ServiceNow AI Platform® records by their Number field values. The fuzzy matching compares the numeric search term with each indexed record's Number, ignoring its alphabetical prefix and any leading zeroes. As an example, if you index knowledge article and problem records, a search for `23583` might return knowledge article KB00023583 and problem PRB00023583 as search results.
 
-When fuzzy numeric search is activated, [[ia-ai-search|AI Search]] checks all-numeric search terms for fuzzy numeric matches when you search and when computing auto-complete suggestions for your search terms.
+When fuzzy numeric search is activated, AI Search checks all-numeric search terms for fuzzy numeric matches when you search and when computing auto-complete suggestions for your search terms.
 
 **Important:**
 
-Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [[c_ManagingRecordNumbering|Record numbering]].
+Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md).
 
 Child tables that inherit the Number field from their parent table can't be searched using fuzzy numeric search. Only tables that have their own Number field defined work with this feature.
 
@@ -123,8 +123,3 @@ Fuzzy numeric search is deactivated by default. It's only available at search ti
 
 **Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[c_ManagingRecordNumbering|Record numbering]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]

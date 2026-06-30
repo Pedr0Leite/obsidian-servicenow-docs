@@ -30,8 +30,6 @@ Role required: admin
 
     **Note:** Administrators should ensure that choices are unique across domains to prevent administrative confusion in the global domain.
 
-    If an administrator adds a new choice from the global domain, then [[users|users]] from domains lower in the hierarchy see the new choice at the end of their current choice lists. If the new choice is not active at the global level, then it is available to the domain users via **Configure Choices** but does not show as an active choice.
+    If an administrator adds a new choice from the global domain, then users from domains lower in the hierarchy see the new choice at the end of their current choice lists. If the new choice is not active at the global level, then it is available to the domain users via **Configure Choices** but does not show as an active choice.
 
-## Related
 
-- [[users|Users]]

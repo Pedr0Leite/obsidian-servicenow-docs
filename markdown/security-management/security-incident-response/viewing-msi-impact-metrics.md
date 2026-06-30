@@ -16,9 +16,9 @@ breadcrumb: [Use, Major Security Incident Management, Security Incident Response
 
 View the major security incident impact progress metrics visualized as bar graphs and charts.
 
-In addition to the incident timeline and progress trend chart visualizations, the **Overview** tab provides relevant impact metrics to manage the changing scope of the incident, including rollup of affected assets, users, [[threat-intelligence-locations|locations]], and team resources.
+In addition to the incident timeline and progress trend chart visualizations, the **Overview** tab provides relevant impact metrics to manage the changing scope of the incident, including rollup of affected assets, users, locations, and team resources.
 
-The counts displayed in the visualization components are based on active tasks on linked [[sir-landing-page|Security Incident Response]] \(SIR\) incidents. As tasks are opened and closed, these counts change in terms of the nature and volume of remaining activity planned for the major security incident to represent the trends shown in the trend chart visualization components.
+The counts displayed in the visualization components are based on active tasks on linked Security Incident Response \(SIR\) incidents. As tasks are opened and closed, these counts change in terms of the nature and volume of remaining activity planned for the major security incident to represent the trends shown in the trend chart visualization components.
 
 \[Omitted image "overview-tab-msim.png"\] Alt text: View the impact metrics of the major security incident
 
@@ -78,7 +78,7 @@ This section is updated and refreshed automatically whenever changes occur to th
 
 Displays active task totals that are linked to the MSI record via SIR incidents.-   **By task state**: View the incident response tasks based on the incident state such as Draft, Assigned, Work in progress, Closed Complete. This distribution chart allows for a further distribution breakdown by assignment groups. Selecting each task state allows you to view a filtered list by incident task state on the **Tasks** tab of the workspace. The filtered view allows you to view and update individual task details.
 -   **In progress tasks by incident state label**: Displays active tasks and groups based on incident state label that must be applied in the Task Organizer components. These default labels have values such as Analysis, Contain, Eradicate, Recover, or Review to indicate the nature of the task involved.
--   **Overdue**: Displays the [[security-incident-response-tasks|security incident response tasks]], which are active and had exceeded the due date.
+-   **Overdue**: Displays the security incident response tasks, which are active and had exceeded the due date.
 
 You can view the details of all the overdue tasks by selecting the total Overdue count and having it auto navigate to the Tasks tab.
 
@@ -129,8 +129,3 @@ Displays collaboration activities in total for all the labelled collaboration ac
 
 [Create and distribute MSIM Status Reports]()
 
-## Related
-
-- [[threat-intelligence-locations|Locations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-incident-response-tasks|Security Incident Response Tasks]]

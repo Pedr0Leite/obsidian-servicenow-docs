@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Only the agents who are part of specified user groups are redirected to Service Operations Workspace. All other agents are redirected either to the agent-configured [[dex-workspace-dashboard-tab|landing page]] or ServiceNow AI Platform landing page.
+Only the agents who are part of specified user groups are redirected to Service Operations Workspace. All other agents are redirected either to the agent-configured landing page or ServiceNow AI Platform landing page.
 
 ## Procedure
 
@@ -48,6 +48,3 @@ Only the agents who are part of specified user groups are redirected to Service 
 
 **Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-redirection-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -44,7 +44,7 @@ Forum permissions are a combination of a forum, forum users, and permissions. As
 
 
 -   **[Copy permissions from a parent forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-parent-forum.md)**  
-You can [[copy-permissions-from-parent-forum|copy permissions from a parent forum]] to a child forum.
+You can copy permissions from a parent forum to a child forum.
 -   **[Copy permissions from a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-another-forum.md)**  
 You can copy all permissions and content types from one forum to another.
 -   **[Debug user permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/debug-user-permissions.md)**  
@@ -52,6 +52,3 @@ Investigate and diagnose problems with user access to forums.
 
 **Parent Topic:**[Forum and user permissions management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-permissions.md)
 
-## Related
-
-- [[copy-permissions-from-parent-forum|Copy permissions from a parent forum]]

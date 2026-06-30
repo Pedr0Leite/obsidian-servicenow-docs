@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -34,6 +34,4 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     **Note:** If the list is empty, no response actions are available.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]

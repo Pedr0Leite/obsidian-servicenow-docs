@@ -18,7 +18,7 @@ As a legal contract configurator, prepare a Microsoft Word document that you wan
 
 ## Before you begin
 
-Ensure that you are on a Windows system to [[cncore-word-doc-tmplt-contls|add content controls in a Microsoft Word document]].
+Ensure that you are on a Windows system to add content controls in a Microsoft Word document.
 
 Role required: sn\_lg\_contracts.contracts\_config
 
@@ -52,7 +52,7 @@ Role required: sn\_lg\_contracts.contracts\_config
     |signature\_|Indicates a signature.|
     |sign\_date\_|Indicates the signing date.|
 
-    For example, [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] If you are adding a metadata for company name, you would name the tag **field\_company**.
+    For example, Microsoft Outlook Add-In for Legal Service Delivery If you are adding a metadata for company name, you would name the tag **field\_company**.
 
     \[Omitted image "lsc-add-ctrl-field.png"\] Alt text: Content control example
 
@@ -72,7 +72,3 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 [Publish a contract template]()
 
-## Related
-
-- [[cncore-word-doc-tmplt-contls|Add content controls in a Microsoft Word document]]
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]

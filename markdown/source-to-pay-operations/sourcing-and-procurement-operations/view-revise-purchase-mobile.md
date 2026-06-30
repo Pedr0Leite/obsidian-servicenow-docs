@@ -33,7 +33,7 @@ Role required: sn\_shop.shopper
     |Action|Description|
     |------|-----------|
     |**View your purchase details**|On the **Purchase** tab, view the details of your purchase, such as quantity, recipient, delivery location, start date, end date, subtotal, tax, purchase reason, and so on.|
-    |**View more information on your purchase**|Select the **More Info** tab to view more information associated to your purchase, such as additional quotes, [[receipts|receipts]], prepayments, and other related lists.|
+    |**View more information on your purchase**|Select the **More Info** tab to view more information associated to your purchase, such as additional quotes, receipts, prepayments, and other related lists.|
     |**Revise purchase**|Tap the Actions icon to revise your purchase. On the **Revise purchase** screen, enter the revised quantity and delivery location, and tap the Next icon.|
 
 
@@ -44,16 +44,11 @@ Role required: sn\_shop.shopper
 
 [Shopper to-dos on your mobile]()
 
-[Display [[my-purchases-mobile|My Purchases on your mobile]] instance]()
+[Display My Purchases on your mobile instance]()
 
 [Shopping Hub Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-mobile.md)
 
-[[my-purchases|My purchases on Shopping Hub]]
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md)
 
 [Display My Purchases on your mobile instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/display-my-purchases-on-mobile.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[receipts|Receipts]]
-- [[my-purchases-mobile|My purchases on your mobile]]

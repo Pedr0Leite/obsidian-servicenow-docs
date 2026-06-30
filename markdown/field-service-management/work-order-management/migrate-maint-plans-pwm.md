@@ -14,7 +14,7 @@ breadcrumb: [Configure work plans, Planned Work Management, Set up work orders a
 
 # Migrate maintenance plans to Planned Work Management
 
-You can migrate plans from Planned Maintenance to [[planned-work-management|Planned Work Management]] so that plans can utilize the features in Planned Work Management.
+You can migrate plans from Planned Maintenance to Planned Work Management so that plans can utilize the features in Planned Work Management.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ The maintenance plan will be deactivated and a new plan record will be created i
 
 To verify that the plan was migrated, navigate to **All** &gt; **Planned Work Management** &gt; **Plans**.
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]

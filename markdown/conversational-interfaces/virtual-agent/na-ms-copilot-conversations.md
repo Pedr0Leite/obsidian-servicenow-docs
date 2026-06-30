@@ -18,7 +18,7 @@ Use Now Assist plugins in Microsoft Copilot to connect with the Copilot by provi
 
 ## Copilot Conversations
 
-**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables [[virtual-agent-landing-page|Virtual Agent]] to be discoverable by Microsoft Copilot, with full functional access to [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and multi-turn conversations.
+**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables Virtual Agent to be discoverable by Microsoft Copilot, with full functional access to Now Assist in Virtual Agent and multi-turn conversations.
 
 You must have version 10.1.1 or higher of the Microsoft Teams plugin to have CEA support. In version 10.2 of the Microsoft Teams plugin, streaming is inactive by default and CEA is active by default.
 
@@ -69,7 +69,7 @@ With the Microsoft Copilot integration, you can initiate generative AI chat with
 
     \[Omitted image "msteams-copliot-support-catlog-req.png"\] Alt text: Virtual Agent completes the request submission by continuing with the Copilot conversation.
 
--   **Transfer to a Live [[ci-use-agent-chat|Agent chat]]**
+-   **Transfer to a Live Agent chat**
 
     You can ask Copilot to connect you to a Now Assist Live Agent.
 
@@ -93,8 +93,3 @@ To add a bot to Copilot, login to your Microsoft Teams tenant and navigate to **
 
 **Parent Topic:**[Integrating Now Assist in Virtual Agent with Microsoft Copilot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ms-copilot-na-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

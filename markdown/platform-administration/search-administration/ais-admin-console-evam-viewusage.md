@@ -14,7 +14,7 @@ breadcrumb: [Customizing the result-card, Using AI Search Admin console, AI Sear
 
 # Track how your EVAM view configurations are used
 
-Track where Entity View Action Mapper \(EVAM\) view [[clone-configurations-tab|configurations]] are being used in the [[ia-ai-search|AI Search]] application. It helps you understand search result layouts, identify shared settings, and make adjustments for better search [[hs-results|results]].
+Track where Entity View Action Mapper \(EVAM\) view configurations are being used in the AI Search application. It helps you understand search result layouts, identify shared settings, and make adjustments for better search results.
 
 ## Before you begin
 
@@ -48,8 +48,3 @@ Tracking the usage of view configuration enables you to do the following tasks:
 
 **Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-managing-evam.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

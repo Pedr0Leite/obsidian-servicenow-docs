@@ -14,11 +14,11 @@ breadcrumb: [TISC Integrations, Integrate, Threat Intelligence Security Center, 
 
 # TISC Enrichment integrations
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] base system does not include any pre-configured integrations. This section provides instructions for configuring both ServiceNow and third-party integrations.
+The Threat Intelligence Security Center base system does not include any pre-configured integrations. This section provides instructions for configuring both ServiceNow and third-party integrations.
 
 **Important:**
 
-Verify that you have installed the required third-party app integrations. You can see the [[c_Observables|observables]], sighting search, and [[tisc-threat-lookup|threat lookup]] details only for the third-party apps that are installed.
+Verify that you have installed the required third-party app integrations. You can see the observables, sighting search, and threat lookup details only for the third-party apps that are installed.
 
 ## All Integration Configurations
 
@@ -30,7 +30,7 @@ Each enrichment type section appears only if at least one corresponding integrat
 
 The configured integration cards can be viewed by navigating to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations** &gt; **Enrichment Integrations** &gt; **All Integrations**.
 
-\[Omitted image "enrich-all-integrations.png"\] Alt text: [[threat-intelligence-integrations|Threat Intelligence integrations]]
+\[Omitted image "enrich-all-integrations.png"\] Alt text: Threat Intelligence integrations
 
 ## Actions on the All Integrations view
 
@@ -100,13 +100,13 @@ Use this action to search for configured integrations based on name and descript
 
 </td></tr></tbody>
 </table>-   **[Configure new enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-new-enrich.md)**  
-[[c_GetStartedWithThreatIntel|Set up threat intelligence]] enrichment integrations to automatically gather additional context about observables, search for [[indicator-sightings|sightings]], or perform threat lookups from external security vendors.
+Set up threat intelligence enrichment integrations to automatically gather additional context about observables, search for sightings, or perform threat lookups from external security vendors.
 -   **[Configure Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-observable-enrichment.md)**  
 Enrich one or more observables to identify whether they're associated with known threats. The results are based on the enrichment integrations active in your environment.
 -   **[Configure Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-sighting-search.md)**  
-[[configure-sighting-search|Configure sighting search]] integration to search your organization logs for one or more observables to determine how many times each observable appears, within a specified date range or number of days.
+Configure sighting search integration to search your organization logs for one or more observables to determine how many times each observable appears, within a specified date range or number of days.
 -   **[Configure Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-threat-lookup.md)**  
-Scan selected observables for [[threat-intelligence-malware|malware]] using [[threat-intel-landing-page|Threat Intelligence]] to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
+Scan selected observables for malware using Threat Intelligence to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
 -   **[Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-lookup.md)**  
 Scan selected observables for malware using VirusTotal and CrowdStrike Falcon Intelligence. This workflow checks observables against both threat intelligence sources and returns detailed security analysis results.
 
@@ -115,17 +115,5 @@ Scan selected observables for malware using VirusTotal and CrowdStrike Falcon In
 **Related topics**  
 
 
-[TISC Security [[tools|Tools]] integrations]()
+[TISC Security Tools integrations]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[indicator-sightings|Sightings]]
-- [[configure-sighting-search|Configure Sighting Search]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]

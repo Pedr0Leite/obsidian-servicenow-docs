@@ -14,7 +14,7 @@ breadcrumb: [Service offerings in Service Portfolio Management, Use, Service Por
 
 # Reporting for services and service offerings in Service Portfolio Management
 
-See what's impacting your services and service offerings and report on them by using related list information in [[SPM2-landing-page|Service Portfolio Management]].
+See what's impacting your services and service offerings and report on them by using related list information in Service Portfolio Management.
 
 Service owners can track service level agreements \(SLA\) when an incident \(or a problem or a change\) references their service offering in one of these related lists: Impacted services or Affected configuration items \(CIs\). Portfolio admins can create indicators and reports for service offerings to get a comprehensive view of what is impacting each service offering.
 
@@ -45,6 +45,3 @@ When a service offering is added to the impacted service or to the affected CI r
 
 [View availability results in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-view-availability-results.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

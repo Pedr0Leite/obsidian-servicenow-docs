@@ -14,7 +14,7 @@ breadcrumb: [Cloud Discovery reference, Discovery reference, Discovery, ITOM Vis
 
 # Cloud Discovery service account form reference
 
-The Cloud [[r-discovery|Discovery]] service account form displays detailed information about the selected cloud provider. The Cloud Discovery service account form is available in the [[cow-landing-page|Cloud Discovery Workspace]].
+The Cloud Discovery service account form displays detailed information about the selected cloud provider. The Cloud Discovery service account form is available in the Cloud Discovery Workspace.
 
 <table id="table_nw1_xt5_fwb"><thead><tr><th>
 
@@ -139,7 +139,7 @@ Pull Events
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables [[azure-change-processing|Azure change processing]] for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table><table id="table_sfg_t55_fwb"><thead><tr><th>
@@ -270,7 +270,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for [[oracle-cloud-infrastructure-discovery|Oracle Cloud Infrastructure \(OCI\) discovery]]. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(\[Omitted image "workspace-icon-add.png"\] Alt text: Add new credentials icon.\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(\[Omitted image "workspace-icon-edit.png"\] Alt text: Edit credentials icon.\).
+Name of the credentials that you have created for Oracle Cloud Infrastructure \(OCI\) discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(\[Omitted image "workspace-icon-add.png"\] Alt text: Add new credentials icon.\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(\[Omitted image "workspace-icon-edit.png"\] Alt text: Edit credentials icon.\).
 
 </td></tr><tr><td>
 
@@ -426,9 +426,3 @@ Full URL of the vCenter.
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[azure-change-processing|Azure change processing]]
-- [[oracle-cloud-infrastructure-discovery|Oracle Cloud Infrastructure \(OCI\) discovery]]

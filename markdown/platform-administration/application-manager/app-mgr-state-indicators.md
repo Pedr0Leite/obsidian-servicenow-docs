@@ -90,7 +90,7 @@ This application has custom terms and conditions that haven't been accepted yet.
 
 </td><td>
 
-Accept the application's custom terms and conditions on the [[servicenow-store|ServiceNow Store]] to enable installation. For more information, see [[get-free-app|Get a free application]].
+Accept the application's custom terms and conditions on the ServiceNow Store to enable installation. For more information, see [Get a free application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-free-app.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ The standard terms and conditions for the ServiceNow Store must be accepted.
 
 </td><td>
 
-Go to the  and accept the standard terms and conditions. For more information, see [[sn-store-tncs|Terms and conditions in the ServiceNow Store]].
+Go to the  and accept the standard terms and conditions. For more information, see [Terms and conditions in the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/sn-store-tncs.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ The application requires a license to install in non-production instances. You d
 
 </td><td>
 
-Purchase the necessary license. For more information, see [[buy-servicenow-app|Buy a ServiceNow application]].
+Purchase the necessary license. For more information, see [Buy a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-servicenow-app.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Your license for this application is expiring soon.
 
 </td><td>
 
-Contact your account executive or the application's provider and renew your license to continue using the application. For more information about contacting an application provider, see [[contact-seller|Contact a seller]].
+Contact your account executive or the application's provider and renew your license to continue using the application. For more information about contacting an application provider, see [Contact a seller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contact-seller.md).
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ You don't have a valid license for this application yet, or your license has exp
 
 </td><td>
 
-Purchase the necessary license. For more information about purchasing applications, see [Buy a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-servicenow-app.md) or [[buy-partner-app|Buy a partner application]].
+Purchase the necessary license. For more information about purchasing applications, see [Buy a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-servicenow-app.md) or [Buy a partner application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-partner-app.md).
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ This application requires approval from the provider before it can be procured o
 
 Go to the ServiceNow Store and request the application. Paid applications and applications that are available at no additional cost can require approval.
 
- For more information about procuring applications from the ServiceNow Store, see [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]].
+ For more information about procuring applications from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md).
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ A trial of this application is available to request from the ServiceNow Store.
 
 </td><td>
 
-Request a trial of the application from the ServiceNow Store. For more information, see [[start-trial|Start an application trial from the ServiceNow Store]].
+Request a trial of the application from the ServiceNow Store. For more information, see [Start an application trial from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/start-trial.md).
 
 </td></tr><tr><td>
 
@@ -335,13 +335,3 @@ This state indicator is for informational purposes and requires no action. Refer
 </td></tr></tbody>
 </table>**Parent Topic:**[Application Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-reference.md)
 
-## Related
-
-- [[get-free-app|Get a free application]]
-- [[sn-store-tncs|Terms and conditions in the ServiceNow Store]]
-- [[buy-servicenow-app|Buy a ServiceNow application]]
-- [[contact-seller|Contact a seller]]
-- [[buy-partner-app|Buy a partner application]]
-- [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]]
-- [[start-trial|Start an application trial from the ServiceNow Store]]
-- [[servicenow-store|ServiceNow Store]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 # Microsoft dashboards in Software Asset Management classic
 
-View installations, cost, and compliance for Microsoft software such as SQL Server in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application. View subscription use, cost, and compliance for Microsoft 365.
+View installations, cost, and compliance for Microsoft software such as SQL Server in the Software Asset Management classic application. View subscription use, cost, and compliance for Microsoft 365.
 
 **Note:** The add-on Microsoft publisher pack \(com.snc.samp.microsoft\) plugin must be installed to view the dashboards.
 
@@ -275,7 +275,7 @@ Aggregate sum of the total cost for subscription rights.
 
 </td></tr><tr><td>
 
-[[c_CreatingSoftwareModels|Software Models]] Out of Compliance
+Software Models Out of Compliance
 
 </td><td>
 
@@ -348,7 +348,3 @@ Breakdown of subscription total cost by product/version/edition \(software model
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

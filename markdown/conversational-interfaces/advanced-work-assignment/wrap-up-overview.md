@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Wrap up overview
 
-When agents close an interaction, the wrap up feature enables them to enter closing details and [[wrap-up-codes|wrap up codes]] for future reference.
+When agents close an interaction, the wrap up feature enables them to enter closing details and wrap up codes for future reference.
 
 To configure the wrap up feature, follow these steps:
 
@@ -22,6 +22,3 @@ To configure the wrap up feature, follow these steps:
 -   [Wrap up codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/wrap-up-codes.md)
 -   [Wrap up segments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/wrap-up-segments.md)
 
-## Related
-
-- [[wrap-up-codes|Wrap up codes]]

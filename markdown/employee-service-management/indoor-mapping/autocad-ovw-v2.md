@@ -14,18 +14,18 @@ breadcrumb: [Manage CAD source files, Indoor Mapping, Workplace Service Delivery
 
 # Autocad import tool
 
-The Autocad import tool in [[Indoor-mapping|Indoor Mapping]] v 1.8.0 provides the ability to configure, optimize, improve the quality and level of design and details in your CAD file.
+The Autocad import tool in Indoor Mapping v 1.8.0 provides the ability to configure, optimize, improve the quality and level of design and details in your CAD file.
 
 Upload your CAD source file using the latest Autocad import tool. It imports the named objects, blocks, and layers in your CAD file.
 
 1.  [Configure the AutoCAD import tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-autocad-v2.md)  
 Configure and import your CAD source file to Map Studio.
 2.  [CAD configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/autocad-v2-config-layout.md)  
-The [[autocad-v2-config-layout|CAD Configuration]] page layout provides the **Map Configuration** tab and the **CAD Editor** tab options.
+The CAD Configuration page layout provides the **Map Configuration** tab and the **CAD Editor** tab options.
 3.  [Configure CAD objects using the Map Configuration tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-cad-map-config.md)  
-Manage objects and elements in your CAD file using the [[map-configuration-v2|Map Configuration tab]].
+Manage objects and elements in your CAD file using the Map Configuration tab.
 4.  [Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/cad-editor-v2-ovw.md)  
-Edit and manage CAD objects using the [[autocad-editor|CAD Editor tab]]. Draw polylines or polygons, add text or mtext, edit text, place or block attributes.
+Edit and manage CAD objects using the CAD Editor tab. Draw polylines or polygons, add text or mtext, edit text, place or block attributes.
 5.  [Export CAD configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/export-cad-config.md)  
 Export the updated CAD changes to your CAD file. Exporting the updated changes creates a copy of the modified CAD file in Indoor Mapping.
 6.  [Import CAD configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-cad-config.md)  
@@ -35,9 +35,3 @@ Modify the unit file settings of your CAD source file.
 
 **Parent Topic:**[Manage CAD source files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-autocad-files.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[autocad-v2-config-layout|CAD configuration]]
-- [[map-configuration-v2|Map Configuration tab]]
-- [[autocad-editor|CAD Editor tab]]

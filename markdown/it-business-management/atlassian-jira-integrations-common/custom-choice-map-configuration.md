@@ -23,7 +23,7 @@ Create a custom workflow state map of your preference for a Jira project.
 
 ## About this task
 
-Map a custom workflow state from Jira to [[agile-landing-page|Agile Development 2.0]].
+Map a custom workflow state from Jira to Agile Development 2.0.
 
 You can map a workflow state in Jira to multiple workflow states in Agile Development 2.0. In such cases, the state in Agile Development 2.0 for an issue type depends on the choice order value that you provide for this state configuration.
 
@@ -89,14 +89,10 @@ Display name of the workflow transition in Jira.**Note:** In case there is no tr
 
 ## What to do next
 
-1.  Validate your choice map configuration by clicking **Validate and fix mapping** from your [[create-a-project-form|project form]].
+1.  Validate your choice map configuration by clicking **Validate and fix mapping** from your project form.
 2.  From the Table maps related list of your project, navigate to your new choice map configuration. If the Valid column for your configuration shows:
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter correct values for all fields and validate again.
 
 **Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[create-a-project-form|Project form]]

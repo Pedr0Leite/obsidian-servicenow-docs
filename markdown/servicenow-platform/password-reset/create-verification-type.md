@@ -14,7 +14,7 @@ breadcrumb: [Customizing Password Reset processes, Configuring Password Reset, P
 
 # Create a custom Password Reset verification type
 
-Each verification in [[password-reset-landing-page|Password Reset]] is based on the settings for a verification type. If the [[verification-types-in-the-base-system|verification types in the base system]] do not meet your needs, you can create a custom verification type.
+Each verification in Password Reset is based on the settings for a verification type. If the verification types in the base system do not meet your needs, you can create a custom verification type.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Review the verification types that are provided in the base system to determine 
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then fill in the form.
 
-    For information about the fields on the [[password-reset-verification-type-form|Password Reset Verification Type form]], see [Password Reset Verification Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-verification-type-form.md).
+    For information about the fields on the Password Reset Verification Type form, see [Password Reset Verification Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-verification-type-form.md).
 
 3.  Click **Submit**.
 
@@ -44,8 +44,3 @@ Review the verification types that are provided in the base system to determine 
 
 [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[verification-types-in-the-base-system|Verification types in the base system]]
-- [[password-reset-verification-type-form|Password Reset Verification Type form]]

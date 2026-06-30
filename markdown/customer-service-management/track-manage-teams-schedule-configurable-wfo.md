@@ -45,11 +45,11 @@ Using the calendar, you can do the following:
         **Note:** If the existing shift has a break, you can add more breaks to the shift.
 
         -   Select **Select shift times** and modify the **Start time** or **End time** fields to change the timing of the shift.
-        -   Select the **Select preset shift** option and from the Shift plan list, select an existing shift to assign another shift plan to the agent. For more info on creating a shift plan, see [[create-shift-plan-configurable-wfo-cs|Create a shift plan]].
+        -   Select the **Select preset shift** option and from the Shift plan list, select an existing shift to assign another shift plan to the agent. For more info on creating a shift plan, see [Create a shift plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-shift-plan-configurable-wfo-cs.md).
     4.  Select **Save**.
 4.  Approve or reject an agent's time off or shift-swap with another agent.
 
-    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval is auto-rejected. An administrator can change this default setting. For more information, see Setting the due date for time-off and shift-swap request approvals in [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]] Overlapping time-off requests by an agent is rejected.
+    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval is auto-rejected. An administrator can change this default setting. For more information, see Setting the due date for time-off and shift-swap request approvals in [Components installed with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) Overlapping time-off requests by an agent is rejected.
 
     |Tab|Description|
     |---|-----------|
@@ -60,10 +60,5 @@ Using the calendar, you can do the following:
     If you approve the request, the schedule gets updated in the team calendar based on the approvals.
 
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[create-shift-plan-configurable-wfo-cs|Create a shift plan]]
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

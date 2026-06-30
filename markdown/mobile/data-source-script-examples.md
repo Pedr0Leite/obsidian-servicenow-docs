@@ -20,11 +20,11 @@ The data source script accepts two parameters: *valuesMapper* and *context*. The
 valuesMapper.addRecordMapping(UNIQUE_ELEMENT_IDENTIFIER, GLIDE_RECORD_INSTANCE, COLUMN_NAME);
 ```
 
-**Note:** All the scripts listed in this topic are configured within the data source record. For more information, see [[data-sources-config|Configure data sources]].
+**Note:** All the scripts listed in this topic are configured within the data source record. For more information, see [Configure data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-sources-config.md).
 
 ## Default sample script
 
-The following is the sample script provided within the [[mab-concept|Mobile App Builder]]. The script provides a template showing how to filter an existing table and to map specific fields to UI elements.
+The following is the sample script provided within the Mobile App Builder. The script provides a template showing how to filter an existing table and to map specific fields to UI elements.
 
 ```
 (function DataSource(valuesMapper, context) {
@@ -161,7 +161,3 @@ This code defines the function *DataSource* that maps specific columns from an I
     -   *comment\_by\_agent*to *input\_1\_action\_comment*for handling comment type input actions.
     -   *sys\_id* to *input\_1\_navigation* for handling navigation type input actions with a record context.
 
-## Related
-
-- [[data-sources-config|Configure data sources]]
-- [[mab-concept|Mobile App Builder]]

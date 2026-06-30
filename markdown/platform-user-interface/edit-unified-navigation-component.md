@@ -87,8 +87,5 @@ The Unified Navigation component is made up of several subcomponents that you mu
 
 ## Result
 
-If your theme is published, your Unified Navigation edits will be visible to users who have your theme applied upon refresh. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your Unified Navigation edits will be visible to users who have your theme applied upon refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]

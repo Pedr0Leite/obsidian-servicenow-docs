@@ -14,11 +14,11 @@ breadcrumb: [Using Talent Feedback, Talent Feedback, Growth Experiences, HR Serv
 
 # Working with Skill feedback in Talent Feedback
 
-Skill feedback is one of the main features of [[talent-feedback-landing|Talent Feedback]] that can be used by managers to request feedback for their employees, and by employees to provide feedback for their peers.
+Skill feedback is one of the main features of Talent Feedback that can be used by managers to request feedback for their employees, and by employees to provide feedback for their peers.
 
 -   [Request skill feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/request-skill-feedback.md)
 
-    As a manager, [[request-skill-feedback-widget|request skill feedback]] from an employee.
+    As a manager, request skill feedback from an employee.
 
 -   [View feedback requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/view-feedback-request.md)
 
@@ -26,10 +26,6 @@ Skill feedback is one of the main features of [[talent-feedback-landing|Talent F
 
 -   [View skill feedback submitted](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/view-skill-feedback.md)
 
-    As an employee, [[view-skill-feedback-requested|view and submit feedback]] requested from you.
+    As an employee, view and submit feedback requested from you.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]
-- [[request-skill-feedback-widget|Request skill feedback]]
-- [[view-skill-feedback-requested|View and submit feedback]]

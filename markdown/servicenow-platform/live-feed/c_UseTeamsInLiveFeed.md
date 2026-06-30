@@ -26,7 +26,7 @@ The record feed name is based on the table name.
 
 ## Reply to email notifications using email
 
-After receiving an [[email|email]] about a posted message or a reply, you can post your reply to Live Feed by responding to the email.
+After receiving an email about a posted message or a reply, you can post your reply to Live Feed by responding to the email.
 
 The body of the email reply is posted as a response to the Live Feed message. Any attachments that you include in your reply email are also posted in the Live Feed reply.
 
@@ -35,11 +35,11 @@ When you create a team, you become the team administrator.
 -   **[Join a team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_JoinATeam.md)**  
 You can join a public team, accept an invitation, or request access to a team.
 -   **[View a team feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewATeamFeed.md)**  
-[[t_ViewATeamFeed|View a team feed]] to see messages belonging to that team.
+View a team feed to see messages belonging to that team.
 -   **[View a team member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewATeamMember.md)**  
 View a list of members belonging to a Live Feed team.
 -   **[Invite a new member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_InviteANewMember.md)**  
-You can invite another user to [[t_JoinATeam|join a team]].
+You can invite another user to join a team.
 -   **[Remove a member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_RemoveAMember.md)**  
 If you're a team administrator, you can remove any member from the team.
 -   **[Subscribe to team and email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SubscribToTeamEmailNotif.md)**  
@@ -53,14 +53,7 @@ If you are team administrator, you can modify an existing team.
 -   **[Manage a membership request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ManageAMembershipRequest.md)**  
 When a user requests membership to a private team, the team administrator receives an email.
 -   **[Delete a team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DeleteATeam.md)**  
-If you are the team administrator, you can [[t_DeleteATeam|delete a team]].
+If you are the team administrator, you can delete a team.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[email|Email]]
-- [[t_ViewATeamFeed|View a team feed]]
-- [[t_JoinATeam|Join a team]]
-- [[t_DeleteATeam|Delete a team]]

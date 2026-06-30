@@ -14,7 +14,7 @@ breadcrumb: [Define an epic in SAFe, SAFe entities, Essential SAFe, Scaled Agile
 
 # Associate monetary and non-monetary benefit plans
 
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -56,7 +56,7 @@ Action
 
 </td><td>
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], fill in the **Associated benefit** field with the benefit plan that you want to associate.
+On the Benefit Plan form, fill in the **Associated benefit** field with the benefit plan that you want to associate.
 
 </td></tr><tr><td id="d305125e149">
 
@@ -82,8 +82,3 @@ Click the **View Associated benefit plan** related link to view the associated b
 
 **Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 
-## Related
-
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]
-- [[agile-development|Agile Development]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

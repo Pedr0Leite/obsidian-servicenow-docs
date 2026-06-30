@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration file security, Securing and encrypting MID
 
 # Use CyberArk as a secure configuration provider
 
-You can use a CyberArk vault to secure any sensitive data from the [[mid-server-landing|MID Server]] **config.xml** file.
+You can use a CyberArk vault to secure any sensitive data from the MID Server **config.xml** file.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 Before configuring CyberArk as secured config provider, make sure that **JavaPasswordSDK.jar** is available in the `<mid_installation_folder>/agent/extlib` folder.
 
-To configure the MID Server to [[c_Connect|connect]] to CyberArk using AIM, see CyberArk JAR import.
+To configure the MID Server to connect to CyberArk using AIM, see CyberArk JAR import.
 
 ## About this task
 
@@ -60,7 +60,3 @@ CyberArk is commonly used to secure credentials in its external vault. However, 
 
 **Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

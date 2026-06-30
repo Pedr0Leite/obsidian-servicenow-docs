@@ -15,7 +15,7 @@ breadcrumb: [Trello external content connector, Configure, External Content Conn
 
 # Configure Trello for external content indexing
 
-Create and authorize a Power-Up in the Trello Power-Up Admin Portal to allow the [[trello-external-content-connector|Trello external content connector]] to access your Trello source system.
+Create and authorize a Power-Up in the Trello Power-Up Admin Portal to allow the Trello external content connector to access your Trello source system.
 
 ## Before you begin
 
@@ -107,6 +107,3 @@ For details on creating and configuring a Trello external content connector, see
 
 **Parent Topic:**[Trello external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/trello-external-content-connector.md)
 
-## Related
-
-- [[trello-external-content-connector|Trello external content connector]]

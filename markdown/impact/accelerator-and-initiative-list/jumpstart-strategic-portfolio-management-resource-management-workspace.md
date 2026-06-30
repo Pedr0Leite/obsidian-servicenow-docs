@@ -18,7 +18,7 @@ The Jumpstart Your Strategic Portfolio Management \(SPM\) – Resource Managemen
 
 ## Accelerator overview
 
-Jumpstart Your Jumpstart Your Strategic Portfolio Management – Resource Management Workspace provides [[impact-landing-page|Impact]] customers with a comprehensive overview of the Resource Management Workspace in SPM, demonstrating how to gain a centralized view of resource allocations and requests to drive more efficient and informed resource management. This accelerator also equips customers with key resources and leading practices to [[io-help|help]] them get started quickly.
+Jumpstart Your Jumpstart Your Strategic Portfolio Management – Resource Management Workspace provides Impact customers with a comprehensive overview of the Resource Management Workspace in SPM, demonstrating how to gain a centralized view of resource allocations and requests to drive more efficient and informed resource management. This accelerator also equips customers with key resources and leading practices to help them get started quickly.
 
 ## Package Availability
 
@@ -159,7 +159,3 @@ Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leadin
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

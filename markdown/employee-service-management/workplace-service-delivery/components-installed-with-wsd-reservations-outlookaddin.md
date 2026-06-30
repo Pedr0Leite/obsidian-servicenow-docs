@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Reservations for Microsoft Outlook Add-in, Wor
 
 # Components installed with Workplace Reservations for Microsoft Outlook Add-in
 
-Several types of components are installed with the [[workplace-space-mgmt-ovw|Workplace Space Management]] application, including tables and user roles.
+Several types of components are installed with the Workplace Space Management application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -24,7 +24,7 @@ Demo data is available for this feature.
 
 |Role title \[name\]|Description|Contains roles|
 |-------------------|-----------|--------------|
-|sn\_wsd\_msaddin.admin|As a [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] admin, you can access the application completely.|None|
+|sn\_wsd\_msaddin.admin|As a Workplace Reservations for Microsoft Outlook Add-in admin, you can access the application completely.|None|
 
 **Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-rsv-for-outlook-addin-reference.md)
 
@@ -33,7 +33,3 @@ Demo data is available for this feature.
 
 [Properties installed with Workplace Reservations for Microsoft Outlook Add-in]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]

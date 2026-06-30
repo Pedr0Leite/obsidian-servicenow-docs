@@ -20,10 +20,10 @@ The Source-to-Pay integration with Oracle EBS enables you to handle sales orders
 
 With this application, you can perform the following:
 
--   Integration hub actions for [[invoices|invoices]], cost centers, product models, [[payment-terms|payment terms]], purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, plant addresses, and legal entities.
+-   Integration hub actions for invoices, cost centers, product models, payment terms, purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, plant addresses, and legal entities.
 -   Create or update purchase orders in Oracle EBS.
 -   Cancel purchase orders in Oracle EBS.
--   Create good [[receipts|receipts]] in Oracle EBS.
+-   Create good receipts in Oracle EBS.
 -   Create invoices in Oracle EBS.
 
 \[Omitted image "oracle-ebs-integration-overview.png"\] Alt text: Overview of the Source-to-Pay integration with Oracle EBS
@@ -44,8 +44,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The subflows enable a plug-and-play experience for the integration scenarios. Integration Hub Actions provide the building blocks for Source-to-Pay subflows and connects to the Oracle EBS system through REST APIs.
 
-## Related
-
-- [[invoices|Invoices]]
-- [[payment-terms|Payment terms]]
-- [[receipts|Receipts]]

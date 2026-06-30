@@ -14,7 +14,7 @@ breadcrumb: [Configure Google Dialogflow ES as the NLU provider for Virtual Agen
 
 # Test Virtual Agent with Google Dialogflow ES NLU in Virtual Agent Designer
 
-Test topic discovery with Google Dialogflow and [[virtual-agent-landing-page|Virtual Agent]] in the Virtual Agent Designer interface.
+Test topic discovery with Google Dialogflow and Virtual Agent in the Virtual Agent Designer interface.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  In the Topics page, click **Test Active Topics**.
 
@@ -53,7 +53,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Next topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/natural-language-user-response-handling.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

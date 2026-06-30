@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration file security, Securing and encrypting MID
 
 # MID Server ISecuredConfigProvider interface
 
-Use the methods in this interface to create custom providers that manage secured parameter values in the [[mid-server-landing|MID Server]] **config.xml** file.
+Use the methods in this interface to create custom providers that manage secured parameter values in the MID Server **config.xml** file.
 
 **Note:** These methods are contained in the **snc-automation-api.jar** file, located in the MID Server installation folder.
 
@@ -113,6 +113,3 @@ This parameter returns the unsecured value.
 </td></tr></tbody>
 </table>**Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

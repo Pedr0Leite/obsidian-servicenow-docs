@@ -18,7 +18,7 @@ Select which letter templates you want to use to notify applicants of their resu
 
 Role required: sn\_gsm\_grnt\_mgmt.program\_manager, sn\_gsm\_grnt\_mgmt.grant\_director
 
-**Note:** Requires it to already be created. For info on how to create see [[psds-config-gmp-configure-results-template|Create a Grants Program results letter template]]
+**Note:** Requires it to already be created. For info on how to create see [Create a Grants Program results letter template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-configure-results-template.md)
 
 ## Procedure
 
@@ -37,9 +37,5 @@ Role required: sn\_gsm\_grnt\_mgmt.program\_manager, sn\_gsm\_grnt\_mgmt.grant\_
 
 ## What to do next
 
-[[psds-using-gmp-pgr-announcement|Set up the grants program announcement details]]
+[Set up the grants program announcement details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-pgr-announcement.md)
 
-## Related
-
-- [[psds-config-gmp-configure-results-template|Create a Grants Program results letter template]]
-- [[psds-using-gmp-pgr-announcement|Set up the grants program announcement details]]

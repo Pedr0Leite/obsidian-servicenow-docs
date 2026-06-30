@@ -14,7 +14,7 @@ breadcrumb: [Individual Life Claims, Exploring insurance claims applications, In
 
 # Exploring Individual Life Claims
 
-Learn how your first-notice-of-loss \(FNOL\) representatives, adjusters, and managers can use [[individual-life-claims-landing-page|Individual Life Claims]] to create and manage individual life [[insurance-claims-flow|insurance claims]].
+Learn how your first-notice-of-loss \(FNOL\) representatives, adjusters, and managers can use Individual Life Claims to create and manage individual life insurance claims.
 
 With the Individual Life Claims application, you can manage the initiation, processing, and resolving of individual life insurance policy claims for your customers. With this application, you can coordinate with others to manage the claims tasks across the parent and child claims. You can also collect and validate the required claim documentation, investigate the claim, and settle the claim.
 
@@ -37,7 +37,3 @@ The following table shows which personas in your organization can use the Indivi
 |Claims adjuster|Person who collects and verifies the documents and loss of life assessment details, and then settles a claim.|
 |Claims manager|Manager who approves the reserves and payment requests and can view an overview of all claims, including the Performance Analytics dashboards and reports.|
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

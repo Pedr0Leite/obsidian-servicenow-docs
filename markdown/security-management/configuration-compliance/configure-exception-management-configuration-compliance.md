@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Configure Exception Management for Configuration Compliance
 
-Limit the duration of an exception requested and add a questionnaire to the exception using the [[vr-config-compliance-landing|Configuration Compliance]] module. By default, an exception is requested using the ServiceNow® [[vuln-landing-page|Vulnerability Response]] module. You can also request an exception using the GRC: Policy and Compliance Management integration.
+Limit the duration of an exception requested and add a questionnaire to the exception using the Configuration Compliance module. By default, an exception is requested using the ServiceNow® Vulnerability Response module. You can also request an exception using the GRC: Policy and Compliance Management integration.
 
 ## Before you begin
 
@@ -53,12 +53,8 @@ It’s useful for the exception approver to understand the reason for requesting
     |Enable questionnaire to request exception|Option to add a questionnaire to the exception request being raised.|
     |Questionnaire to request exception|Option to display the questionnaire selected by you to request an exception. The Exception Questionnaire is displayed by default.|
     |Enable questionnaire to mark false positive|Option to add a questionnaire to the false positive request being raised.|
-    |Questionnaire to mark false positive|Option to display the questionnaire selected by you to [[raise-fp-request|mark as a false positive]]. The questionnaire for a false positive request is displayed by default.|
+    |Questionnaire to mark false positive|Option to display the questionnaire selected by you to mark as a false positive. The questionnaire for a false positive request is displayed by default.|
 
 4.  Select **Save**.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[raise-fp-request|Mark as a false positive]]

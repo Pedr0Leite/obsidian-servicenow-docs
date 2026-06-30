@@ -22,13 +22,13 @@ Role required: admin
 
 ## About this task
 
-The Field Service Contractor Management plugin is available only for customers who are licensed for the [[fsm-application-landing-page|Field Service Management]] application.
+The Field Service Contractor Management plugin is available only for customers who are licensed for the Field Service Management application.
 
-**Note:** To utilize automation, the [[dynamic-scheduling|Dynamic Scheduling]] plugin must be installed and the **Use task filters for determining contractor tasks** property in Field Service Configuration must be enabled.
+**Note:** To utilize automation, the Dynamic Scheduling plugin must be installed and the **Use task filters for determining contractor tasks** property in Field Service Configuration must be enabled.
 
 Roles are installed with Field Service Contractor Management.
 
-For more information, see [[contractor-management-components|Contractor Management components]].
+For more information, see [Contractor Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-management-components.md).
 
 ## Procedure
 
@@ -38,8 +38,4 @@ For more information, see [[contractor-management-components|Contractor Manageme
 
 3.  Click **Activate**.
 
-## Related
 
-- [[contractor-management-components|Contractor Management components]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

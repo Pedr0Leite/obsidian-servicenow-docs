@@ -14,53 +14,34 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 Includes all the forms related to repair and recall.
 
--   **[[mco-campaign-tasks-form|Campaign tasks form]]**  
-Campaign tasks form enables you to add the [[mco-rcl-clms|recall campaign]] details.
--   **[[mco-cp-form|Channel partner form]]**  
+-   **[Campaign tasks form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-campaign-tasks-form.md)**  
+Campaign tasks form enables you to add the recall campaign details.
+-   **[Channel partner form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-cp-form.md)**  
 Use the fields on the channel partner form to manage and store information related to channel partners.
--   **[[mco-corrective-action-form|Corrective action form]]**  
+-   **[Corrective action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-action-form.md)**  
 The corrective action form enables the OEM to address the asset issue, either by eliminating or replacing the asset.
--   **[[mco_corrective_action_charges_form|Corrective action charges form]]**  
+-   **[Corrective action charges form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_corrective_action_charges_form.md)**  
 Corrective action charges form include the expenses related to addressing a non-conformance like labor charges.
--   **[[mco-claim-details-form|Claim details form]]**  
+-   **[Claim details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-claim-details-form.md)**  
 The Claim details form enables the dealer to enter the claim details for the repair work performed.
--   **[[install-based-item-form|Install based item form]]**  
+-   **[Install based item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/install-based-item-form.md)**  
 An install base item refers to an application service configuration item. Each install base item references the configuration item record for the customer. If issues arise with a configuration item, customer service agents can trace which install base items that the case is affecting.
--   **[[mco-internal-business-location-form|Internal business location form]]**  
+-   **[Internal business location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-internal-business-location-form.md)**  
 Internal Business Location \(IBL\) form to store information about an internal business location. This information includes the staff members assigned to that location, cases, sold products, and install base items created for customers.
--   **[[mco-input-atrributes_form|MCO input attributes form]]**  
+-   **[MCO input attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-input-atrributes_form.md)**  
 MCO input attributes form.
--   **[[mco-phase-task-form|Phase task form]]**  
+-   **[Phase task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-phase-task-form.md)**  
 Phase task form enables you to add the details of the recall phase.
--   **[[mco-recall-campaign-form|Recall campaign form]]**  
+-   **[Recall campaign form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-form.md)**  
 The recall campaign form provides the original equipment manufacturer \(OEM\) with the required information to initiate a recall campaign.
--   **[[mco-recall-campaign-phases-form|Recall campaign phase form]]**  
+-   **[Recall campaign phase form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases-form.md)**  
 The recall campaign phase form enables you to add the recall campaign phases details.
--   **[[repair-claim-form|Repair claim form]]**  
+-   **[Repair claim form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-form.md)**  
 The repair claim form enables you to enter the warranty and recall claim details.
--   **[[mco-pre-auth-form|Pre-authorization form]]**  
-The pre-authorization form enables you to enter the [[mco-pre-auth-request|pre-authorization]] details.
--   **[[mco-pre-auth-job-details-form|Pre-authorization job details form]]**  
+-   **[Pre-authorization form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-form.md)**  
+The pre-authorization form enables you to enter the pre-authorization details.
+-   **[Pre-authorization job details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-pre-auth-job-details-form.md)**  
 The pre-authorization job form enables you to enter the warranty, labor, and part details.
 
-**Parent Topic:**[[manufacturing-reference|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
-## Related
-
-- [[mco-campaign-tasks-form|Campaign tasks form]]
-- [[mco-cp-form|Channel partner form]]
-- [[mco-corrective-action-form|Corrective action form]]
-- [[mco_corrective_action_charges_form|Corrective action charges form]]
-- [[mco-claim-details-form|Claim details form]]
-- [[install-based-item-form|Install based item form]]
-- [[mco-internal-business-location-form|Internal business location form]]
-- [[mco-input-atrributes_form|MCO input attributes form]]
-- [[mco-phase-task-form|Phase task form]]
-- [[mco-recall-campaign-form|Recall campaign form]]
-- [[mco-recall-campaign-phases-form|Recall campaign phase form]]
-- [[repair-claim-form|Repair claim form]]
-- [[mco-pre-auth-form|Pre-authorization form]]
-- [[mco-pre-auth-job-details-form|Pre-authorization job details form]]
-- [[manufacturing-reference|Reference]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-pre-auth-request|Pre-authorization]]

@@ -12,7 +12,7 @@ breadcrumb: [Work items, Using Impact, Impact]
 
 # Manage work items with recommendations for the Impact Store Application
 
-Convert an [[impact-landing-page|Impact]] entity to an SPM entity either from the Impact home page or from the **Recommendations list**. Creating an Impact entity and associating the SPM record details [[io-help|help]] you to avoid manual intervention in converting the entities from Impact to SPM portals, and thereafter any duplication of entities in the process.
+Convert an Impact entity to an SPM entity either from the Impact home page or from the **Recommendations list**. Creating an Impact entity and associating the SPM record details help you to avoid manual intervention in converting the entities from Impact to SPM portals, and thereafter any duplication of entities in the process.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ It can be associated to a free form initiative as well.
 
 Impact entities that can be converted to SPM entities are:
 
--   Recommendations that are created via rule engine or manually created by [[impact-squad|Impact squad]] user, which are not associated with any initiative or accelerator type, except for free form initiatives, can be converted into an SPM entity such as a demand, epic, project, or any other available options.
+-   Recommendations that are created via rule engine or manually created by Impact squad user, which are not associated with any initiative or accelerator type, except for free form initiatives, can be converted into an SPM entity such as a demand, epic, project, or any other available options.
 -   If the status of the recommendation changes to **Rejected**, or as a user you hide the recommendation after creating the SPM entity, then you cannot view the created SPM entity list, and can no longer take any action such as create or delete the SPM entity within Impact.
 
 ## Procedure
@@ -89,8 +89,3 @@ Impact entities that can be converted to SPM entities are:
         -   Collaborative Work Management
         -   Portfolio Planning Core
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[impact-squad|Impact Squad]]

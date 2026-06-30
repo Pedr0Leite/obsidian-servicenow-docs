@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, SolarWinds, Service Graph Connecto
 
 # Configure air gap solution for Service Graph Connector for SolarWinds in a low-secure server
 
-Configure the air gap solution for the [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]] in your low-secure server after you finish the configuration in your high-secure server.
+Configure the air gap solution for the Service Graph Connector for SolarWinds in your low-secure server after you finish the configuration in your high-secure server.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **SolarWinds** &gt; **Setup** &gt; **Add Multiple Instances** &gt; **Add Another Connection**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **SolarWinds** &gt; **Setup** &gt; **Add Multiple Instances** &gt; **Add Another Connection**.
 
 2.  Download the `SgSolarWindsLowSecureSetup.ps1` PowerShell script from the link provided in the Add Another Connection section.
 
@@ -52,7 +52,3 @@ Role required: admin
 
 [Configure air gap solution for Service Graph Connector for SolarWinds in a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-sn-instance.md)
 
-## Related
-
-- [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

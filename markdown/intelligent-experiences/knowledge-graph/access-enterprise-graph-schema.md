@@ -14,7 +14,7 @@ breadcrumb: [Using Enterprise graph schema, Knowledge Graph, Enable AI experienc
 
 # Access Enterprise Graph schema
 
-[[view-and-manage-enterprise-graph-schema|View and manage Enterprise Graph schema]], select tables and test the schema with [[knowledge-graph-landing|Knowledge Graph]] Designer.
+View and manage Enterprise Graph schema, select tables and test the schema with Knowledge Graph Designer.
 
 You can view and manage the Enterprise Graph schema, go to **All** &gt; **Knowledge Graph Designer** &gt; **Open Enterprise Graph**.
 
@@ -24,14 +24,9 @@ Use Enterprise Graph to view and test the schema. You can also contribute synony
 
 On the Enterprise Graph start page, use the search bar to search and select a table you want to view or manage. Alternately, you can use the **Open your last view** or **Start with user tables** to view the user and the related table.
 
-The Enterprise Graph start page displays the total number of nodes. You can use the **[[select-a-table|Select multiple tables]]** option to select tables that you want to view in the schema.
+The Enterprise Graph start page displays the total number of nodes. You can use the **Select multiple tables** option to select tables that you want to view in the schema.
 
 Within **Select multiple tables** option, you can select an application, tag or individual tables. Once you select the node, you will see selected nodes and their associated tables on the schema.
 
 You can also use the **Test Enterprise Graph** option to run a query on the Enterprise Graph schema.
 
-## Related
-
-- [[view-and-manage-enterprise-graph-schema|View and manage Enterprise Graph schema]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[select-a-table|Select multiple tables]]

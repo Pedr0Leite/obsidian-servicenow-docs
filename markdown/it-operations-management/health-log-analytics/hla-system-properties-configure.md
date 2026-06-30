@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Changing [[hla-landing-page|Health Log Analytics]] system properties affects back-end processes and can produce unexpected results. Therefore, if you need to make changes to these properties, keep a record of your adjustments. For example, note the value before and after a modification and the time of the change.
+Changing Health Log Analytics system properties affects back-end processes and can produce unexpected results. Therefore, if you need to make changes to these properties, keep a record of your adjustments. For example, note the value before and after a modification and the time of the change.
 
 **Note:** To modify a Health Log Analytics system property whose **Requires restart** value is **true**, contact ServiceNow support to modify it for you.
 
@@ -52,6 +52,3 @@ For a complete description of all the Health Log Analytics system properties, se
 
 [Configure Health Log Analytics system properties for a single log source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure-single.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

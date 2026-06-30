@@ -24,7 +24,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon\).
 
-3.  Click **Pending** state in the [[crisis-management-uib|Crisis Events]] list.
+3.  Click **Pending** state in the Crisis Events list.
 
 4.  Click the link to the event record in the **Number** column.
 
@@ -181,6 +181,4 @@ Additional information about the crisis event.
 
     **Note:** By default, the PDF is generated and attached after the event is closed.
 
-## Related
 
-- [[crisis-management-uib|Crisis events]]

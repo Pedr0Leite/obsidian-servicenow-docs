@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Understanding Security Incident Response
 
-With [[sir-landing-page|Security Incident Response]] \(SIR\), manage the life cycle of your security incidents from initial analysis to containment, eradication, and recovery. Security Incident Response enables you to get a comprehensive understanding of incident response procedures performed by your analysts, and understand trends and bottlenecks in those procedures with analytic-driven dashboards and reporting.
+With Security Incident Response \(SIR\), manage the life cycle of your security incidents from initial analysis to containment, eradication, and recovery. Security Incident Response enables you to get a comprehensive understanding of incident response procedures performed by your analysts, and understand trends and bottlenecks in those procedures with analytic-driven dashboards and reporting.
 
 \[Omitted video\] Description: An introduction to Security Incident Response, showing how to get started using the application.
 
@@ -37,7 +37,7 @@ Security incidents can be logged or created in the following ways.
 
 ## Analysis
 
-Depending on the selected view, you are using \(default, Non-IT Security, Security ITIL, and so on\), the Security Incident form can show any combination of [[vulnerabilities|vulnerabilities]], incidents, changes, problems, tasks on the affected CI and affected CI groups. The system can identify [[threat-intelligence-malware|malware]], viruses, and other areas of vulnerability by cross-referencing the National Institute of Standards and Technology \(NIST\) database, or other third-party detection software. As security incidents are resolved, you can use any incident to create a security knowledge base article for future reference.
+Depending on the selected view, you are using \(default, Non-IT Security, Security ITIL, and so on\), the Security Incident form can show any combination of vulnerabilities, incidents, changes, problems, tasks on the affected CI and affected CI groups. The system can identify malware, viruses, and other areas of vulnerability by cross-referencing the National Institute of Standards and Technology \(NIST\) database, or other third-party detection software. As security incidents are resolved, you can use any incident to create a security knowledge base article for future reference.
 
 Perform further analysis using a business service map to locate other affected systems or business services that can be infected.
 
@@ -83,8 +83,3 @@ The following terms are used in Security Incident Response.
 |[Threat lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_SubmitThrtScnReqFromCat.md)|A request submitted from the security incident catalog for scanning files, URLs, and IP addresses for malware.|
 |[Vulnerability scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_SubmitVScanReqFromSecInc.md)|A request initiated from the Security Incident form for scanning affected resources \(servers, computers, and other configuration items\) for vulnerabilities.|
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-malware|Malware]]

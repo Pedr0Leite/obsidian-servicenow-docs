@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Create a custom United Nations Standard Products and Services Code \(UNSPSC\) classification for firmware in your operational technology \(OT\) assets
 
-If the UNSPSC classification for any firmware that is embedded into your OT assets isn't already represented in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service, create a custom UNSPSC classification.
+If the UNSPSC classification for any firmware that is embedded into your OT assets isn't already represented in the Enterprise Asset Management Content Service, create a custom UNSPSC classification.
 
 ## Before you begin
 
-**Important:** You can create custom UNSPSC classifications only using the [[ot-asset-ws-otam|OT Asset Workspace]]. To use the OT Asset Workspace, install the [[ot-asset-management|OT Asset Management]] application on your ServiceNow instance. See [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md) for detailed instructions.
+**Important:** You can create custom UNSPSC classifications only using the OT Asset Workspace. To use the OT Asset Workspace, install the OT Asset Management application on your ServiceNow instance. See [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_admin
 
@@ -46,8 +46,4 @@ The UNSPSC is a global multi-sector standard for classifying products and servic
 
 5.  Select **Save**.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]

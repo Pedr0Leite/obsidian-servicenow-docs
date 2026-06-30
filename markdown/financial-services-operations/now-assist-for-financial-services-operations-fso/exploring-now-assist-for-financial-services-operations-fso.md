@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for FSO, Financial Services Operations \(FSO\)]
 
 # Exploring Now Assist for Financial Services Operations \(FSO\)
 
-With the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application, use AI skills and agentic AI to summarize case and customerdetails, enhance disputes intake with Disputes intake via Virtual Agent, and leverage agentic workflows and AI agents to automate dispute resolution.
+With the Now Assist for Financial Services Operations \(FSO\) application, use AI skills and agentic AI to summarize case and customerdetails, enhance disputes intake with Disputes intake via Virtual Agent, and leverage agentic workflows and AI agents to automate dispute resolution.
 
 ## Overview of Now Assist for Financial Services Operations \(FSO\)
 
@@ -34,7 +34,7 @@ For more information on AI agents and agentic workflows, see [Agentic AI use cas
 
 ## Now Assist panel in Financial Services Workspace
 
-An agent can use the Now Assist panel in [[fso-overview|Financial Services]] Workspace for scenarios such as:
+An agent can use the Now Assist panel in Financial Services Workspace for scenarios such as:
 
 -   Case summarization
 -   Conversational interaction for dispute resolution
@@ -48,7 +48,3 @@ Personally identifiable information and other sensitive data can be masked so th
 
 **Important:** Exercise caution when using Now Assist for FSO with cases that contain sensitive data or other regulated workloads, such as healthcare claims. Now Assist for FSO should not be used for processing protected health information \(PHI\). When using Now Assist for FSO in a protected industry, validate and test the generated results in accordance with corresponding legislation and requirements. See [AI limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md) for more information.
 
-## Related
-
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[fso-overview|Financial Services]]

@@ -35,11 +35,11 @@ Role required: admin
 
 4.  If you have installed:
 
-    -   [[personal-lines-claims-landing-page|Personal Lines Claims]], search for **Get Personal Auto Claim** in the Name field.
-    -   [[commercial-lines-claims-landing-page|Commercial Lines Claims]], search for **Get Commercial Auto Claim** in the Name field.
+    -   Personal Lines Claims, search for **Get Personal Auto Claim** in the Name field.
+    -   Commercial Lines Claims, search for **Get Commercial Auto Claim** in the Name field.
 5.  Locate the flow from the list and open it.
 
-    For information about subflows, see [[fso-guidewire-integration-subflows|Financial Services Operations Integration with Guidewire subflows]].
+    For information about subflows, see [Financial Services Operations Integration with Guidewire subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-guidewire-integration-subflows.md).
 
 6.  Select **Test**.
 
@@ -56,11 +56,5 @@ Role required: admin
     The Execution Details open.
 
 
-**Parent Topic:**[[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
+**Parent Topic:**[Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-guidewire-landing-page.md)
 
-## Related
-
-- [[fso-guidewire-integration-subflows|Financial Services Operations Integration with Guidewire subflows]]
-- [[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Import and install certificates for Circle of Trust
 
-Retrieve the update set in production to establish the trust relationship between the two instances. The [[c_Certificates|certificates]] that have been created to represent trust in the trusted instance must be accepted into the protected instance.
+Retrieve the update set in production to establish the trust relationship between the two instances. The certificates that have been created to represent trust in the trusted instance must be accepted into the protected instance.
 
 ## Before you begin
 
@@ -26,19 +26,19 @@ Roles required: admin, security\_admin
 
     \[Omitted image "import-update-set-1.png"\] Alt text: Import XML screen to retrieve update set.
 
-3.  Select **Choose File** and browse to select the XML file that you exported in [[create-updateset-nonprod|Prepare Circle of Trust certificates]].
+3.  Select **Choose File** and browse to select the XML file that you exported in [Prepare Circle of Trust certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-updateset-nonprod.md).
 
     \[Omitted image "retrieve-update-set.png"\] Alt text: Import XML screen to retrieve update set.
 
 4.  Select **Upload**.
 
-    The [[code-signing-landing|Code Signing]] update set is added to the Retrieved Update Sets table.
+    The Code Signing update set is added to the Retrieved Update Sets table.
 
     \[Omitted image "loaded-updateset-prod.png"\] Alt text: Loaded update set to production.
 
     **Note:** If you don’t see your update set, filter your list for records in the Loaded state, and sort the list by the **Loaded** field.
 
-5.  Open the update set record to verify that the [[r_CustomerUpdatesTable|Customer Updates table]] contains the following three records:
+5.  Open the update set record to verify that the Customer Updates table contains the following three records:
 
     -   Two KMF Signature Records
     -   X.509 Certificate
@@ -71,12 +71,5 @@ Roles required: admin, security\_admin
 
 ## Result
 
-The trust relationship is established between trusted and protected instances. You’re ready to enable Code Signing. See [[enable-codesiging|Turn on Code Signing]] to complete the steps.
+The trust relationship is established between trusted and protected instances. You’re ready to enable Code Signing. See [Turn on Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/enable-codesiging.md) to complete the steps.
 
-## Related
-
-- [[create-updateset-nonprod|Prepare Circle of Trust certificates]]
-- [[enable-codesiging|Turn on Code Signing]]
-- [[c_Certificates|Certificates]]
-- [[code-signing-landing|Code Signing]]
-- [[r_CustomerUpdatesTable|Customer Updates table]]

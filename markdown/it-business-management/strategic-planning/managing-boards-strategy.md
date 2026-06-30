@@ -14,7 +14,7 @@ breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Managem
 
 # Managing boards in Strategic Planning Workspace
 
-Using boards in [[strategy-goals-landing-page|Strategy and Goals]] within [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can organize strategic plans, priorities, goals, and targets in a single, focused view.
+Using boards in Strategy and Goals within Strategic Planning Workspace, you can organize strategic plans, priorities, goals, and targets in a single, focused view.
 
 Strategy and Goals within Strategic Planning Workspace lets you create and manage boards. A board is a collection of strategic plans, priorities, goals, and targets based on your selected filter criteria—helping you stay focused and manage them effectively.
 
@@ -27,7 +27,7 @@ Strategy and Goals within Strategic Planning Workspace lets you create and manag
 
 ## Board types
 
-When you [[create-board-strategy|create a board]], you can choose whether to base it on strategic plans, strategic priorities, goals, or both.
+When you create a board, you can choose whether to base it on strategic plans, strategic priorities, goals, or both.
 
 -   A strategy-based board lets you create and manage strategic plans and priorities, aligning high-level direction with the priorities your teams are executing against.
 -   A goals-based board lets you create goals and targets that align with your strategic priorities, with the ability to tailor the board by entity type and entity to focus on the goals that matter most.
@@ -61,8 +61,3 @@ Share your board with stakeholders and planning managers to provide visibility i
 
 **Parent Topic:**[Strategy and Goals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/strategy-goals-landing-page.md)
 
-## Related
-
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-board-strategy|Create a board]]

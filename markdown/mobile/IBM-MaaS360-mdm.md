@@ -16,15 +16,10 @@ Use IBM Maas360 to monitor and manage smartphones, tablets, and other mobile dev
 
 Before adding the ServiceNow app to the IBM Maas360 portal, complete the IBM Maas360 [setup procedures](https://www.ibm.com/support/knowledgecenter/SS8H2S/com.ibm.mc.doc/pag_source/concepts/pag_getstart.htm).
 
--   **[[add-ios-ibm|Add the ServiceNow app for iOS to the IBM MaaS360 portal]]**  
+-   **[Add the ServiceNow app for iOS to the IBM MaaS360 portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-ios-ibm.md)**  
 Configure the ServiceNow app for iOS for IBM MaaS360 distribution.
--   **[[add-android-ibm|Add the ServiceNow app for Android to the IBM MaaS360 portal]]**  
+-   **[Add the ServiceNow app for Android to the IBM MaaS360 portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-android-ibm.md)**  
 Configure the ServiceNow app for Android for IBM MaaS360 distribution.
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[add-ios-ibm|Add the ServiceNow app for iOS to the IBM MaaS360 portal]]
-- [[add-android-ibm|Add the ServiceNow app for Android to the IBM MaaS360 portal]]
-- [[mobile-vendors|Supported mobile device management vendors]]

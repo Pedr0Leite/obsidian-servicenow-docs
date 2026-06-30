@@ -14,7 +14,7 @@ breadcrumb: [Cybersecurity Executive Dashboard, Security Operations]
 
 The Risk and compliance dashboard gives the compliance and risk users a comprehensive overview of risk and compliance information in a single dashboard that aids in their key decisions.
 
-You can navigate to the Risk and compliance dashboard from the single unified [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]] to view the risk and compliance metrics of Governance, Risk, and Compliance applications.
+You can navigate to the Risk and compliance dashboard from the single unified [Cybersecurity Executive Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-unified-CISO-dashboard.md) to view the risk and compliance metrics of Governance, Risk, and Compliance applications.
 
 The dashboard provides features such as:
 
@@ -47,9 +47,5 @@ The main GRC user role is the sn\_grc\_dashboards.grc\_ciso\_user who can view t
 
     \[Omitted image "cybersecurity-executive-dashboard.png"\] Alt text: Unified Cybersecurity Executive Dashboard for risk, and compliance metrics.
 
-3.  To visualize your data, and to view the reports and solutions available on the dashboard that is designed for the user, select the [[grc-ced-risk-compliance-db-reports|Explore Risk and Compliance Dashboard label]].
+3.  To visualize your data, and to view the reports and solutions available on the dashboard that is designed for the user, select the [Explore Risk and Compliance Dashboard label](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/grc-ced-risk-compliance-db-reports.md).
 
-## Related
-
-- [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]
-- [[grc-ced-risk-compliance-db-reports|Risk and Compliance Dashboard reports and solutions]]

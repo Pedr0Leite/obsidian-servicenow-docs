@@ -14,7 +14,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning in Strategic Pla
 
 # Add planning items to Prioritization
 
-Add new planning items to your portfolio plan's work backlog in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and ensure that the work pipeline is current.
+Add new planning items to your portfolio plan's work backlog in Strategic Planning Workspace and ensure that the work pipeline is current.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as PPM, [[agile-landing-page|Agile Development 2.0]], or SAFe.
+Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as PPM, Agile Development 2.0, or SAFe.
 
 You can use the Prioritization, Kanban, or the Hierarchy tabs while you perform this task.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -70,8 +70,3 @@ The new item is created with its **Planning state** field is set to **New** and 
 -   [Update planning item details from Prioritization tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-planning-item-details-from-backlog-in-alignment-planner-workspace.md).
 -   Learn about [Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

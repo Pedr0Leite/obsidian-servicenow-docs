@@ -14,17 +14,17 @@ breadcrumb: [SCIM customization, SCIM Provider, System for Cross-domain Identity
 
 # Handling unmapped fields
 
-You can handle unmapped fields in [[scim-customisation|SCIM customization]] in different ways.
+You can handle unmapped fields in SCIM customization in different ways.
 
 During SCIM customization, the fields that are not part of the `sys_user` and `sys_user_group` tables can be mapped by performing the following functions.
 
 ## Customize SCIM \(Create or Update\)
 
-You can create or update the [[scim-client-app|SCIM Client]].
+You can create or update the SCIM Client.
 
 -   The SCIM admin can add custom scripts in the **onBefore** and **onAfter** scripts for fields that are not mapped in ETL Definition or RTE.
 -   The SCIM admin can override RTE Mappings by adding custom scripts in the **onBefore** and **onAfter** scripts.
--   You can invoke a scriptable API in the RTE **onBefore** or **onAfter** scripts to access incoming [[c_requestAPI|request]] and perform transformations on other tables, lists, and unmapped attributes.
+-   You can invoke a scriptable API in the RTE **onBefore** or **onAfter** scripts to access incoming request and perform transformations on other tables, lists, and unmapped attributes.
 -   You can use the **sn\_auth.SCIM2Util.getScimProviderCustomizationContext\(\)** method to provide the SCIM request context that contains the **scimResource** object. The **scimResource** in context represents the following in each operation:
     -   **POST**: The SCIM resource sent in the request payload.
     -   **PUT**: The current SCIM resource from database replaced with the SCIM resource sent in thee request payload.
@@ -160,8 +160,3 @@ SCIMProviderCustomization.prototype.setCustomExtensionNodeValue call(this, "User
 
 **Note:** RTE supports setting data in tables other than the sys\_user and sys\_user\_group tables.
 
-## Related
-
-- [[scim-customisation|SCIM customization]]
-- [[scim-client-app|SCIM Client]]
-- [[c_requestAPI|request]]

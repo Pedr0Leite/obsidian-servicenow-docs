@@ -14,7 +14,7 @@ breadcrumb: [Custom instance URLs, Authentication, Access Management]
 
 # Custom URL with Identity Provider
 
-Set your custom URL with the [[identity-landing|Identity]] Provider to enable the user to login with their IdP's.
+Set your custom URL with the Identity Provider to enable the user to login with their IdP's.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: custom\_url\_admin
 
 3.  Provide the details of the IdP in the **Identity Provider** field.
 
-    For information about other fields, see [Set a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-custom-url.md). \[Omitted image "new-custom-url-idp.png"\] Alt text: A Custom URL"[[sc-configuration|configuration]] interface with fields for domain name, status, service portal, and identity provider \(set to "GOOGLE OIDC"\), along with helpful setup links.
+    For information about other fields, see [Set a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-custom-url.md). \[Omitted image "new-custom-url-idp.png"\] Alt text: A Custom URL"configuration interface with fields for domain name, status, service portal, and identity provider \(set to "GOOGLE OIDC"\), along with helpful setup links.
 
 4.  Click **Create**.
 
@@ -45,7 +45,4 @@ Role required: custom\_url\_admin
     -   If both the Service Portal and Identity Provider field is defined, when the user accesses the custom URL with the different portal that is not defined, the user is navigated to the auto-redirect Identity Provider if configured on the instance.
 5.  Use the credentials to login to the application.
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]

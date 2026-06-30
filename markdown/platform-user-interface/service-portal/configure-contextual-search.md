@@ -18,7 +18,7 @@ Use contextual search to limit search results for an instance of the type-ahead 
 
 With contextual search enabled, users only see type-ahead results for specific search sources. For example, searching on the Service Catalog page only shows results from the Service Catalog search source when contextual search is enabled.
 
-1.  In the [[c_ServicePortal|Service Portal]] Designer \(**Service Portal** &gt; **Service Portal Configuration** &gt; **Service Portal Designer**, find an instance of the type-ahead search widget.
+1.  In the Service Portal Designer \(**Service Portal** &gt; **Service Portal Configuration** &gt; **Service Portal Designer**, find an instance of the type-ahead search widget.
 2.  Point to the widget and click the edit icon \(\[Omitted image "IconEditOption.png"\] Alt text: Edit icon from a widget in the Service Portal Designer\).
 
     Alternatively, in any preview page containing the type-ahead search widget, for example the Service Catalog homepage, control + right-click to open the widget context menu. Then click **Instance Options**.
@@ -32,6 +32,3 @@ Default search sources are defined in the **glide.service\_portal.default\_searc
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

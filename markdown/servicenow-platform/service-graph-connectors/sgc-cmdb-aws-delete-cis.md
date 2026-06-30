@@ -18,7 +18,7 @@ Enable the **sn\_aws\_integ.enableOptimizedDeletion** system property for the op
 
 ## Before you begin
 
-Set the application scope to [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Service Graph Connector for AWS using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -36,6 +36,4 @@ When your AWS instance has a large number of CIs to import, you can enable the *
 
 3.  Select **Update**.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

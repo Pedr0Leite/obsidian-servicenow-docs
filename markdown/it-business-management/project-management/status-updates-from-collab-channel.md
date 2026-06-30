@@ -31,7 +31,7 @@ A notification with the consolidated project status is sent to the project's cha
     -   State of the project, for example, Work in Progress.
     -   Status of the project, for example, Green.
     -   Percentage of project completion.
--   **[[t_CreateAProjectTask|Project tasks]] due today**
+-   **Project tasks due today**
 
     List of project tasks that have planned end date marked as today and are in the Work in Progress state. The list displays only five project tasks that are sorted alphabetically by their short description.
 
@@ -96,6 +96,3 @@ When there is a change in the manager of your project, an update is made to the 
 
 [Collaborate with your project teams using PPM Collaboration application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-collab-overview.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

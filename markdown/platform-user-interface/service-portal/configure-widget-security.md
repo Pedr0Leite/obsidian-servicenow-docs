@@ -28,11 +28,11 @@ There are several ways to configure widget security:
 -   Restrict the widget to users with certain roles only
 -   Restrict which tables a public widget can access and return data from for guest \(unauthenticated\) users
 
-When you configure widget security, [[configure-onboarding-modals|configure]] the page security accordingly so that users can access the widget via the page on which it appears. For more information, see [Configure page security by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-page-security.md).
+When you configure widget security, configure the page security accordingly so that users can access the widget via the page on which it appears. For more information, see [Configure page security by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-page-security.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Widgets**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Widgets**.
 
 2.  Open the record of the widget to configure.
 
@@ -105,7 +105,3 @@ The parameters passed with SPWidgetAccessControl should be the same as those pas
 
 **Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-security.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

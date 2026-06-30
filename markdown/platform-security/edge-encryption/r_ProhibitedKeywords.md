@@ -14,7 +14,7 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 # Prohibited keywords
 
-The [[edge-encryption|Edge Encryption]] proxy validates [[encryption-landing|encryption]] rule scripts before saving the rule. Many JavaScript keywords aren’t allowed in encryption rule scripts.
+The Edge Encryption proxy validates encryption rule scripts before saving the rule. Many JavaScript keywords aren’t allowed in encryption rule scripts.
 
 |Keyword|
 |-------|
@@ -44,7 +44,3 @@ The [[edge-encryption|Edge Encryption]] proxy validates [[encryption-landing|enc
 
 **Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/api-overview.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]

@@ -16,7 +16,7 @@ breadcrumb: [MFA enforcement, Multi-factor authentication, Authentication, Acces
 
 Troubleshooting information due to the MFA enforcement.
 
-ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO logins \([[users|users]] performing login with only username and password or LDAP based [[c_Authentication|authentication]]\) to ensure a better security posture and reduce the risk of breaches.
+ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO logins \(users performing login with only username and password or LDAP based authentication\) to ensure a better security posture and reduce the risk of breaches.
 
 MFA enforcement is carried though a MFA policy that is activated by default from Yokohama or upgrade to Yokohama. Following are some of the troubleshooting task that you can perform if there's any change to the MFA behavior:
 
@@ -29,15 +29,15 @@ MFA enforcement is carried though a MFA policy that is activated by default from
 
 Use the either of the following tools or a combination to understand the debug information:
 
--   **Splunk** - to see the debug [[logs|logs]].
--   [[system-logs|System logs]] or Node logs.
+-   **Splunk** - to see the debug logs.
+-   System logs or Node logs.
 -   **HAR** logs to analyze the debug logs for the MFA.
 
 ## Log location and Debug properties
 
 Navigate to the following location to know more about logs:
 
--   For system logs, navigate to **All** &gt; **[[r_SystemLogs|System Log]]** &gt; **System Logs**.
+-   For system logs, navigate to **All** &gt; **System Log** &gt; **System Logs**.
 -   For node logs, navigate to **All** &gt; **System Logs** &gt; **Utilities** &gt; **Node Log File Browser**.
 
 The system debug logs and instance node logs are required for the debug purpose. Following are the debug properties that are required to be enabled:
@@ -67,15 +67,6 @@ The system debug logs and instance node logs are required for the debug purpose.
     Perform the following steps:
 
     -   In case of TOTP Authenticator App, if the date and time of the Authenticator MFA device and instance are not in sync \(±30 sec\), then the TOTP code is not accepted. Verify the device and instance date and time.
-    -   In case of [[email|email]], configure the user level notification, outbound email [[sc-configuration|configuration]], and user correctly in the `sys_user` table.
+    -   In case of email, configure the user level notification, outbound email configuration, and user correctly in the `sys_user` table.
     -   In case of SMS, configure the Twillio or other SMS service provider integration correctly and set to active. Verify if the user's mobile number is configured correctly in the `sys_user` table.
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[logs|Logs]]
-- [[system-logs|System logs]]
-- [[r_SystemLogs|System log]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]

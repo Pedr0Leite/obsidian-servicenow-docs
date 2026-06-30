@@ -18,21 +18,14 @@ The Now Support portal is where you can access self-help, get technical support,
 
 If you are responsible for managing, monitoring, or maintaining your company's ServiceNow instance\(s\), then you will likely use the Now Support portal. ServiceNow Customer Administrators are the gatekeepers and manage their companies' Now Support users. Administrators can then add or remove other users, such as developers, architects, and partners. What you can do within the portal will vary based on your role.
 
-**Note:** For information about the types of [[notifications|notifications]] different Now Support users may receive, see [KB0547262: Company Key Contacts and Notification List Overview on Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0547262).
+**Note:** For information about the types of notifications different Now Support users may receive, see [KB0547262: Company Key Contacts and Notification List Overview on Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0547262).
 
--   **[[view-now-support-users|View Now Support users]]**  
+-   **[View Now Support users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/view-now-support-users.md)**  
 As a Now Support admin, you can view active and inactive users and their roles.
--   **[[create-a-user-in-now-support|Create a user in Now Support]]**  
+-   **[Create a user in Now Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-a-user-in-now-support.md)**  
 You can create users in Now Support and assign them access roles.
--   **[[manage-user-access-in-now-support|Manage user access in Now Support]]**  
+-   **[Manage user access in Now Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/manage-user-access-in-now-support.md)**  
 You can manage users in Now Support and change their access roles.
 
-**Parent Topic:**[[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
+**Parent Topic:**[Getting started on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-started-now-platform.md)
 
-## Related
-
-- [[view-now-support-users|View Now Support users]]
-- [[create-a-user-in-now-support|Create a user in Now Support]]
-- [[manage-user-access-in-now-support|Manage user access in Now Support]]
-- [[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
-- [[notifications|Notifications]]

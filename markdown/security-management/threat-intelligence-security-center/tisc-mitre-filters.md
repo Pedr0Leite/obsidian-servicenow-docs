@@ -26,9 +26,9 @@ Analysts can use the filters available on the MITRE card to filter specific acto
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -40,7 +40,7 @@ Analysts can use the filters available on the MITRE card to filter specific acto
 
 7.  Fill in the necessary values in the filter panel to apply your desired filters.
 
-    The MITRE filter panel allows you to filter and visualize MITRE ATT&amp;CK techniques based on selected criteria such as Groups, [[threat-intelligence-malware|Malware]], [[tools|Tools]], Tags, and Priority.
+    The MITRE filter panel allows you to filter and visualize MITRE ATT&amp;CK techniques based on selected criteria such as Groups, Malware, Tools, Tags, and Priority.
 
 <table id="table_bld_4lg_bgc"><thead><tr><th>
 
@@ -184,9 +184,3 @@ The visual representation on the MITRE Framework indicates how techniques and su
 
 **Parent Topic:**[Investigation canvas and MITRE ATT&amp;CK](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/investigation-and-mitre.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]

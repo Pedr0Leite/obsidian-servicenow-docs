@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Associate a risk statement with a control objective in the Risk Workspace
 
-Associate risk statements to control objectives in the [[risk-workspace|Risk Workspace]]. This association helps you to manage your risks by ensuring that the risks have mitigating controls.
+Associate risk statements to control objectives in the Risk Workspace. This association helps you to manage your risks by ensuring that the risks have mitigating controls.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The risks associated with the risk statement automatically inherit the controls 
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

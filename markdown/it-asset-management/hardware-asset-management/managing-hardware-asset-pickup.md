@@ -14,9 +14,9 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Inventory picking for Hardware Asset Management
 
-As an inventory user working in large [[c_Stockrooms|stockrooms]], use the Inventory picking feature to pick the assets in the stockroom easily and facilitate the asset pick-up by technicians.
+As an inventory user working in large stockrooms, use the Inventory picking feature to pick the assets in the stockroom easily and facilitate the asset pick-up by technicians.
 
-The Inventory picking feature includes adding an Asset pick task in the following [[ham-landing-page|Hardware Asset Management]] workflows:
+The Inventory picking feature includes adding an Asset pick task in the following Hardware Asset Management workflows:
 
 -   [Standard Hardware Asset Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-request-flow.md)
 -   [Hardware Refresh Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-asset-refresh.md)
@@ -28,7 +28,3 @@ The Asset pick task enables you to pick the assets from any aisle and space with
 
 For more information on the Asset pick task, see [Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-picking-stockroom-ham-ws.md) and [Manage hardware asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-pick-task-ham-mobile-app.md).
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[ham-landing-page|Hardware Asset Management]]

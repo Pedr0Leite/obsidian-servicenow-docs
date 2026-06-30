@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Configure activity stream tile colors
 
-Administrators can control how activity tile colors display in the [[csm-config-ws-activity-stream|activity stream]] for both collapsed and expanded views.
+Administrators can control how activity tile colors display in the activity stream for both collapsed and expanded views.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ You can control whether the activity stream tile color appears on the border onl
 
 7.  Refresh the activity stream to view the changes.
 
-## Related
 
-- [[csm-config-ws-activity-stream|Activity stream]]

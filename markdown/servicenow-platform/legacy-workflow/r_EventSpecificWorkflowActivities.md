@@ -14,7 +14,7 @@ breadcrumb: [Workflow events in the base system, Workflow events, Workflow manag
 
 # Event-specific workflow activities
 
-The following [[c_WorkflowActivities|workflow activities]] trigger events.
+The following workflow activities trigger events.
 
 <table id="table_pmc_twt_hp"><thead><tr><th>
 
@@ -61,7 +61,7 @@ Fires the notification event specified in the Workflow Activity \[wf\_activity\]
 1.  Navigate to **System Policy** &gt; **Events** &gt; **Registry**
 2.  Create an event.
 3.  Navigate to **System Policy** &gt; **Templates** and create an [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md).
-4.  Navigate to **System Policy** &gt; **[[email|Email]]** &gt; **Notifications**.
+4.  Navigate to **System Policy** &gt; **Email** &gt; **Notifications**.
 5.  [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md) that is triggered by the event you created and sends the template you created.
 6.  On the workflow canvas, drag the **Create Event** activity onto the canvas and associate it with the newly registered event.
 
@@ -110,7 +110,3 @@ The onUnhandledEvent of the **Wait for WF Event** activity
 </td></tr></tbody>
 </table>**Parent Topic:**[Workflow events in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowEventsInTheBaseSystem.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[email|Email]]

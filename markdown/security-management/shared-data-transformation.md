@@ -12,15 +12,15 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 # Shared data transformation
 
-The [[sir-landing-page|Security Incident Response]], [[vuln-landing-page|Vulnerability Response]], and [[threat-intel-landing-page|Threat Intelligence]] plugins share common features, for relationship data and duplication rules, used to import external and internal information into [[security-operations-landing-page|Security Operations]].
+The Security Incident Response, Vulnerability Response, and Threat Intelligence plugins share common features, for relationship data and duplication rules, used to import external and internal information into Security Operations.
 
-Email Parsing, Duplication Rules, and Field [[mapping-logrhythm|Mapping]] take input data \(an email, JSON or XML file, or a record\) and transform that data into the correct format to create a new record. Each of these features pulls data in their own way but, it is transformed into the new record using many of the same processes.
+Email Parsing, Duplication Rules, and Field Mapping take input data \(an email, JSON or XML file, or a record\) and transform that data into the correct format to create a new record. Each of these features pulls data in their own way but, it is transformed into the new record using many of the same processes.
 
 ## Relationship data
 
 When you add information to a related list \(such as an associated observable in a security incident\), you can create a relationship record consisting of an m2m table. Sometimes, there is additional data on that relationship record to set. For example, an observable being a Source IP \(as opposed to a destination IP\). That information goes in the **Relationship data** field in the **Field Transform** form used by **Email Parsing** or a **Field Mapping Fields** related list in the **Field Mapping** form.
 
-The **Relationship data** field is usually empty. It is most commonly used for IP addresses on [[c_Observables|observables]] in **Email Parsing**.
+The **Relationship data** field is usually empty. It is most commonly used for IP addresses on observables in **Email Parsing**.
 
 You can transform data from any ServiceNow record to any other ServiceNow record using **Field Mapping Fields** in the **Field Mapping** feature. For example, to transform data from an incident to a security incident, or a security incident to a PRB.
 
@@ -30,30 +30,17 @@ Use Duplication Rules to handle duplicate records for security, vulnerability, I
 
 Duplication rules have two purposes. They prevent too many duplicate records from being created and, when a duplicate is detected, they specify which fields in the record are updated. Only active duplicates are looked for. If the record is not active, for example, if the incident is closed, then any new identical problem becomes a new incident.
 
-Duplication rules are used by **Email Parsing**, **Field Mapping**, and **Enrichment [[cc-prisma-import-data|Data Mapping]]**.
+Duplication rules are used by **Email Parsing**, **Field Mapping**, and **Enrichment Data Mapping**.
 
--   **[[create-duplication-rules|Create duplication rules in Security Operations]]**  
+-   **[Create duplication rules in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-duplication-rules.md)**  
 You can use Duplication Rules to identify new email, enrichment data, or field maps with active duplicate records and process them appropriately.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
 **Related topics**  
 
 
-[[parsing-emails|Create email parsers in Security Operations]]
+[Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md)
 
-[[create-field-mapping|Map tables to tables with Security Operations field mapping]]
+[Map tables to tables with Security Operations field mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-field-mapping.md)
 
-## Related
-
-- [[create-duplication-rules|Create duplication rules in Security Operations]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[create-field-mapping|Map tables to tables with Security Operations field mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]
-- [[cc-prisma-import-data|Data mapping]]

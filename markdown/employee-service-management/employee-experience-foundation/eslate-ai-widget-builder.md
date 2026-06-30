@@ -15,7 +15,7 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # AI-powered Widget Builder
 
-Administrators and partners use the AI-powered Widget Builder to generate, clone, and refine [[employee-slate-landing-page|Employee Slate]] widgets. The builder provides natural-language prompts, a visual preview, and direct access to the generated component and server script.
+Administrators and partners use the AI-powered Widget Builder to generate, clone, and refine Employee Slate widgets. The builder provides natural-language prompts, a visual preview, and direct access to the generated component and server script.
 
 The Widget Builder is the single authoring surface for all Employee Slate canvas widgets. It combines a widget library, an AI chat panel, and an inline code and preview workspace. Administrators move from a written requirement to a working widget without leaving the tool.
 
@@ -53,6 +53,3 @@ The Widget Builder preview supports drag, resize, and responsive checks so admin
 
 Administrators open the generated component and server script to inspect the code and run manual quality checks. They can also edit the widget outside of the chat panel. To drive the preview, administrators provide sample input values through the widget settings.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]

@@ -12,13 +12,13 @@ breadcrumb: [Use, Legacy Application Manager, Administering applications, Get st
 
 # Manage entitlements from your ServiceNow instance
 
-Manage entitlement of applications and products purchased on the [[servicenow-store|ServiceNow Store]] from your ServiceNow instance.
+Manage entitlement of applications and products purchased on the ServiceNow Store from your ServiceNow instance.
 
 ## Before you begin
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -26,18 +26,10 @@ A new Application Manager experience is available. The new experience simplifies
 
 Role required: admin
 
--   **[[ent-app|Entitle an application from your ServiceNow instance]]**  
+-   **[Entitle an application from your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ent-app.md)**  
 Manage entitlement of applications from your ServiceNow instance.
--   **[[ent-prod|Entitle a product from your ServiceNow instance]]**  
+-   **[Entitle a product from your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ent-prod.md)**  
 Manage entitlement of products from your ServiceNow instance.
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[ent-app|Entitle an application from your ServiceNow instance]]
-- [[ent-prod|Entitle a product from your ServiceNow instance]]
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[servicenow-store|ServiceNow Store]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

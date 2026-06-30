@@ -14,7 +14,7 @@ breadcrumb: [Cloud Account Management, ITOM Cloud Accelerate, IT Operations Mana
 
 # Cloud Account Management reference
 
-Reference topics provide additional information for configuring and using the [[cam-landing|Cloud Account Management]] in Cloud Workspace application.
+Reference topics provide additional information for configuring and using the Cloud Account Management in Cloud Workspace application.
 
 -   **[Components installed with Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/components-installed-with-cam.md)**  
 Several user roles are installed with the Cloud Account Management app.
@@ -27,7 +27,7 @@ New cloud account request form and related list field descriptions.
 -   **[Suspend account configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/suspend-details.md)**  
 Suspend the account configuration form and related list field descriptions.
 -   **[Policy list for scanning cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policies-for-scanning-cloud-accounts.md)**  
-A list of default policies provided for scanning the [[cloud-accounts|cloud accounts]].
+A list of default policies provided for scanning the cloud accounts.
 -   **[Cloud Account Management ACL groups, roles, and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-acl-groups-and-roles.md)**  
 Access control lists \(ACLs\), groups, and roles in Cloud Account Management control how access permissions are organized and managed within a cloud environment.
 -   **[Permissions required for Azure Service Principal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/permissions-required-for-azure-service-principal.md)**  
@@ -35,12 +35,7 @@ This table provides the permissions needed to create, close or cancel an Azure s
 -   **[Cloud Asset Collection table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cloud-asset-collection-table.md)**  
 Stores metadata of cloud assets collected from providers for IT operations.
 -   **[Cloud account details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cloud-accounts-details.md)**  
-The [[cloud-accounts-details|Cloud account details]] table provides detailed information about each account.
+The Cloud account details table provides detailed information about each account.
 
 **Parent Topic:**[Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-landing.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-accounts-details|Cloud account details]]

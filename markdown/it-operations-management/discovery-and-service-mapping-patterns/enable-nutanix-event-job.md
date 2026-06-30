@@ -18,9 +18,9 @@ Activate the Nutanix events scheduled job to trigger rediscovery of Nutanix comp
 
 ## Before you begin
 
--   Verify that Nutanix Components [[r-discovery|discovery]] has run and that the Nutanix Prism Central \[cmdb\_ci\_nutanix\_prism\_central\] table is populated.
+-   Verify that Nutanix Components discovery has run and that the Nutanix Prism Central \[cmdb\_ci\_nutanix\_prism\_central\] table is populated.
 -   Verify that the MID Servers for Nutanix event discovery have **All** or **Nutanix** capability.
--   For Nutanix v4 event discovery, verify that you have at least version 1.31.0 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   For Nutanix v4 event discovery, verify that you have at least version 1.31.0 of Discovery and Service Mapping Patterns.
 
 Role required: discovery\_admin
 
@@ -50,7 +50,3 @@ Role required: discovery\_admin
 
 [Nutanix Acropolis discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nutanix-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

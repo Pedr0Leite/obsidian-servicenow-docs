@@ -21,13 +21,13 @@ Use Now Assist for CSM in Virtual Agent to provide users a content-driven genera
 
 Role required: admin
 
-To ensure LLM-based appointment booking works in [[c_CustomerServiceManagement|Customer Service Management]], the following apps are required:
+To ensure LLM-based appointment booking works in Customer Service Management, the following apps are required:
 
 ## About this task
 
 There are 6 main steps to configure Now Assist for CSM in Virtual Agent:
 
-1.  [[activate-virtual-agent-csm|Activate Virtual Agent for Customer Service Management \(CSM\).]]
+1.  [Activate Virtual Agent for Customer Service Management \(CSM\).](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-virtual-agent-csm.md)
 2.  [Configure Now Assist in Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md)
 3.  [Install Conversational Appointment Booking.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv_appt_booking_install.md)
 4.  [Enable Walk-up Experience Appointment Booking.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-walkup-appt-booking.md)
@@ -53,7 +53,3 @@ There are 6 main steps to configure Now Assist for CSM in Virtual Agent:
 
 The topic is available and active in the chat window.
 
-## Related
-
-- [[activate-virtual-agent-csm|Activate Virtual Agent for Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

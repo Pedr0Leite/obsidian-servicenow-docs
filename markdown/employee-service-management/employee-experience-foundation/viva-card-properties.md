@@ -22,7 +22,7 @@ Add properties of the Microsoft Viva integrations card to view tasks from Micros
 |Card Title|Title of the card.|
 |Card Icon|Icon for the card.|
 |Description Field|Description of the card.|
-|Employee Center Label|Option to customize the [[employee-center-landing-page|Employee Center]] label.|
+|Employee Center Label|Option to customize the Employee Center label.|
 |View Tasks Label|Option to customize the View Tasks label.|
 |Primary Text Label|Option to customize the primary tasks label.|
 |Get Help Label|Option to customize the get help label.|
@@ -31,6 +31,3 @@ Add properties of the Microsoft Viva integrations card to view tasks from Micros
 
 **Parent Topic:**[Employee Center for Microsoft Viva Connections reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-viva.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

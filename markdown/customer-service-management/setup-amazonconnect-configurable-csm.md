@@ -12,7 +12,7 @@ breadcrumb: [Using Voice, Using Channel Management, Channel Management, Workforc
 
 # Associate Amazon Connect queues for CSM to a ServiceNow instance
 
-Set up phone queues for Amazon Connect to gain visibility into the queues using [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+Set up phone queues for Amazon Connect to gain visibility into the queues using Workforce Optimization for Customer Service.
 
 ## Before you begin
 
@@ -78,9 +78,5 @@ A routing profile links queues to agents. Every agent must have a routing profil
     5.  In the **Order** field, select the order number for the assignment group. This is the order of assignment group priority in which the incoming calls are handled.
     6.  Click **Submit**.
 
-**Parent Topic:**[[configurable-servicenow-voice-cs|Using Voice with Workforce Optimization for Customer Service]]
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-servicenow-voice-cs.md)
 
-## Related
-
-- [[configurable-servicenow-voice-cs|Using Voice with Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

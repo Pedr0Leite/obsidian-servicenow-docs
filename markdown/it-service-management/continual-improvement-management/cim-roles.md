@@ -14,7 +14,7 @@ breadcrumb: [Reference, Continual Improvement Management, IT Service Management]
 
 # Continual Improvement Management roles
 
-Roles are added with installation of [[cim-landing-page|Continual Improvement Management]].
+Roles are added with installation of Continual Improvement Management.
 
 <table id="table_wq3_tps_ycb"><thead><tr><th>
 
@@ -50,7 +50,7 @@ Improvement Coordinator\[sn\_cim.improvement\_coordinator\]
 </td><td>
 
 Can perform Improvement Manager functions for improvements that they’re assigned to as Improvement Coordinator. -   Coordinate improvements within their area of expertise at the process or service level
--   Access the [[continual-improvement-workbench|Continual Improvement Workbench]]
+-   Access the Continual Improvement Workbench
 
  Improvement Coordinators can’t perform these functions:
 
@@ -79,7 +79,7 @@ Can assess existing Performance Analytics indicators and create new ones.
 -   sn\_bm\_client.benchmark\_data\_viewer
 -   sn\_bm\_client.benchmark\_recommendation\_viewer
 
-Can view [[benchmarks-landing|Benchmarks]] data and recommendations and create improvement initiatives from Benchmarks recommendations.
+Can view Benchmarks data and recommendations and create improvement initiatives from Benchmarks recommendations.
 
 -   template\_editor
 -   view\_changer
@@ -182,7 +182,7 @@ Benchmarks
 
 </td></tr><tr><td>
 
-[[c_ITILChangeManagement|Change Management]]
+Change Management
 
 </td><td>
 
@@ -190,7 +190,7 @@ change\_manager
 
 </td></tr><tr><td>
 
-[[cf-coaching-landing|Coaching]]
+Coaching
 
 </td><td>
 
@@ -198,7 +198,7 @@ sn\_coaching.admin
 
 </td></tr><tr><td>
 
-[[c_IncidentManagement|Incident Management]]
+Incident Management
 
 </td><td>
 
@@ -251,11 +251,3 @@ Email notifications are sent when the state of the improvement request changes o
 
 **Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[continual-improvement-workbench|Continual Improvement Workbench]]
-- [[benchmarks-landing|Benchmarks]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[cf-coaching-landing|Coaching]]
-- [[c_IncidentManagement|Incident Management]]

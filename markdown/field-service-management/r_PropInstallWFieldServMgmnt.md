@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Properties installed with Field Service Management
 
-System properties provided with the [[fsm-application-landing-page|Field Service Management]] application.
+System properties provided with the Field Service Management application.
 
 <table id="table_properties"><thead><tr><th>
 
@@ -58,7 +58,7 @@ work.management.allow.doublebooking.dynamicscheduling
 
 </td><td>
 
-When set to true, dispatchers can double-book agents manually even when [[dynamic-scheduling|dynamic scheduling]] is enabled. -   Type: true/false
+When set to true, dispatchers can double-book agents manually even when dynamic scheduling is enabled. -   Type: true/false
 -   Default value: false
 -   Location: System Properties list \[sys\_properties\] table
 
@@ -134,7 +134,7 @@ work.management.allow.travel.task.timecard
 
 </td><td>
 
-Enables recording the amount of time an agent spent to execute a work order task. The time card is generated when an agent clicks **[[t_StartWork|Start work]]**.-   Type: true/false
+Enables recording the amount of time an agent spent to execute a work order task. The time card is generated when an agent clicks **Start work**.-   Type: true/false
 -   Default value: false
 -   Location: System Properties list \[sys\_properties\] table
 
@@ -184,7 +184,7 @@ work.management.use.mandatory.skills
 
 </td><td>
 
-Enables the [[mandatory-skills|mandatory skills]] feature and indicates that the Task Skills \[task\_m2m\_skill\] table is being used for work orders and work order tasks. -   Type: true/false
+Enables the mandatory skills feature and indicates that the Task Skills \[task\_m2m\_skill\] table is being used for work orders and work order tasks. -   Type: true/false
 -   Default value: false
 -   Location: System Properties list
 
@@ -712,7 +712,7 @@ Sets the travel time \(in minutes\) that assigns a work order task to the neares
 -   Location: **Field Service** &gt; **Dynamic Scheduling Administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>## [[dispatcher-activities|Dispatcher Workspace]] properties
+</table>## Dispatcher Workspace properties
 
 <table id="table_ndm_qzl_kbc"><thead><tr><th>
 
@@ -798,7 +798,7 @@ sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.enable\_straight\_line\_location\_hi
 
 </td><td>
 
-Enable simple straight line for drawing [[c_AgentLocation|agent location]] history routes.-   Type: true/ false
+Enable simple straight line for drawing agent location history routes.-   Type: true/ false
 -   Default value: true
 -   Location: System Properties list \[sys\_properties\] table
 
@@ -1195,14 +1195,5 @@ Mobile live location\[sn\_fsm\_mobile\_live\_location\_view​\]
 Mobile live location of Field Service agents.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[t_StartWork|Start work]]
-- [[mandatory-skills|Mandatory skills]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[c_AgentLocation|Agent location]]

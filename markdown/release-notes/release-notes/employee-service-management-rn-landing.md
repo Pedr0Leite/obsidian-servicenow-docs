@@ -12,21 +12,14 @@ reading_time_minutes: 1
 
 Employee Service Management has new and updated features in the Australia release
 
--   **[[hr-service-delivery-landing|HR Service Delivery release notes]]**  
+-   **[HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md)**  
 The ServiceNow® HR Service Delivery application improves the employee service experience by automating HR interactions and providing a single platform for all HR services. HR Service Delivery was enhanced and updated in the Australia release.
--   **[[cmpro-rn|Contract Management Pro release notes]]**  
+-   **[Contract Management Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/cmpro-rn.md)**  
 The ServiceNow® Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.Contract Management Pro was enhanced and updated in the Australia release.
--   **[[lsd-rn-landing-page|Legal Service Delivery release notes]]**  
+-   **[Legal Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/lsd-rn-landing-page.md)**  
 The ServiceNow® Legal Service Delivery streamlines legal operations by automating request intake, managing legal matters and investigations, and enabling secure collaboration across departments. Legal Service Delivery was enhanced and updated in the Australia release.
--   **[[uex-rn-landing|Unified Employee Experience release notes]]**  
+-   **[Unified Employee Experience release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/uex-rn-landing.md)**  
 The Unified Employee Experience has new and updated applications and features in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[hr-service-delivery-landing|HR Service Delivery release notes]]
-- [[cmpro-rn|Contract Management Pro release notes]]
-- [[lsd-rn-landing-page|Legal Service Delivery release notes]]
-- [[uex-rn-landing|Unified Employee Experience release notes]]
-- [[new-features-changes|Features and changes by product]]

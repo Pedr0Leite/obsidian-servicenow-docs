@@ -74,7 +74,7 @@ Document all additional information such as the goals, objectives, and scope tha
 
     -   **Change section order at the plan template level**
 
-        You can define the order of document sections in the Plan template as well. This order is applied to all the plans that use the template. However, only a BCM administrator can change the order of the sections in the [[plan-template-form|Plan Template form]], when the template is created.
+        You can define the order of document sections in the Plan template as well. This order is applied to all the plans that use the template. However, only a BCM administrator can change the order of the sections in the Plan Template form, when the template is created.
 
         1.  To rearrange the section order, navigate to **Business Continuity** &gt; **Plan Configuration** &gt; **Plan Templates**
         2.  Click the plan template in the **Name** link.
@@ -88,6 +88,4 @@ Document all additional information such as the goals, objectives, and scope tha
 
     \[Omitted image "DocumentSectionOrder.png"\] Alt text: Order of documentation sections
 
-## Related
 
-- [[plan-template-form|Plan Template form]]

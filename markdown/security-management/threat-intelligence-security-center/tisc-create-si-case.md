@@ -14,7 +14,7 @@ breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center,
 
 # Create a security incident from a TISC case
 
-Create security incidents and associate [[c_Observables|observables]] to the security incidents from a TISC case.
+Create security incidents and associate observables to the security incidents from a TISC case.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_si\_basic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -58,7 +58,7 @@ Role required: sn\_si\_basic
 
 9.  Review the security incident details and observable that will be associated with the newly created security incident then click **Create** to continue and create the security incident.
 
-    **Note:** A confirmation message is displayed indicating that the security incident is created, with a link to the security incident, clicking the link will direct you to the security incident in the [[sir-workspace-landing-page|Security Incident Response Workspace]].
+    **Note:** A confirmation message is displayed indicating that the security incident is created, with a link to the security incident, clicking the link will direct you to the security incident in the Security Incident Response Workspace.
 
     After the security incident is created, you will be redirected to the TISC **Artifacts** tab of the case.
 
@@ -94,9 +94,3 @@ Role required: sn\_si\_basic
 
 [Using playbooks]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

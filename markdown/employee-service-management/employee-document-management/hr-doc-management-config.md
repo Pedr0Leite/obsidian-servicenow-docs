@@ -14,7 +14,7 @@ breadcrumb: [Configure, Employee Document Management, HR Documents, HR Service D
 
 # Defining and setting for employee documents
 
-Use [[hr-employee-doc-management|Employee Document Management]] to configure how employee documents should be handled based on company policy, processes, and regulatory compliance.
+Use Employee Document Management to configure how employee documents should be handled based on company policy, processes, and regulatory compliance.
 
 ## Document types
 
@@ -51,7 +51,7 @@ Document types combine topic detail, retention policies, and legal holds. The de
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Employee Documents** &gt; **Document Types**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Employee Documents** &gt; **Document Types**.
 
 2.  Click **New** or an existing document type to edit.
 
@@ -157,7 +157,7 @@ Retention Policies
 
 </td><td>
 
-Retention policy associated with the document type.The retention policy combines the retention period \(determines how long a document should be saved\) and [[hr-criteria|HR criteria]] \(filters who the policy is applicable to\).
+Retention policy associated with the document type.The retention policy combines the retention period \(determines how long a document should be saved\) and HR criteria \(filters who the policy is applicable to\).
 
  See [Add or modify a retention policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
 
@@ -279,7 +279,7 @@ Role required: sn\_hr\_ef.manager
 
 You can edit default retention policies.
 
-The [[hr-service-delivery|HR Service Delivery]] base system provides default retention policies for each employee document associated with a Center or Excellence \(COE\) table.
+The HR Service Delivery base system provides default retention policies for each employee document associated with a Center or Excellence \(COE\) table.
 
 Default retention policies are assigned to all documents that fall under a COE and the retention period is indefinite and never purged.
 
@@ -335,7 +335,7 @@ Application associated with the default retention policy.
 
 ## Add or modify a retention policy
 
-Set policies determining how long documents should be retained and [[t_WhosCovered|who is covered]]. Retention policies combine the retention period and conditions or criteria.
+Set policies determining how long documents should be retained and who is covered. Retention policies combine the retention period and conditions or criteria.
 
 ### Before you begin
 
@@ -505,7 +505,7 @@ Role required: sn\_hr\_ef.admin
 
 You can determine who can read, write, or authorize purging of documents by adding or modifying document security policies.
 
-**Note:** You can provide employees visibility into their own employee documents through their [[c_HRProfileRecords|HR profile]]. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
+**Note:** You can provide employees visibility into their own employee documents through their HR profile. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md).
 
 Users are granted access to employee documents by:
 
@@ -730,11 +730,3 @@ Option to activate the expiration notification recipient.
 </table>4.  In the Groups section, add groups to which you want to send notifications. Groups receive notifications at the same time as the recipients.
 5.  Click **Submit**.
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[t_WhosCovered|Who is covered]]
-- [[c_HRProfileRecords|HR Profile]]

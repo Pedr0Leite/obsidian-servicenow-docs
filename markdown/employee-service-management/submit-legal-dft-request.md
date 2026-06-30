@@ -12,7 +12,7 @@ breadcrumb: [Requests, Legal Digital Forensics, Legal Service Delivery Practice 
 
 # Submit a digital forensic request
 
-[[submit-legal-request|Submit a legal request]] to access data of current or former employees for internal investigation or litigation reasons.
+Submit a legal request to access data of current or former employees for internal investigation or litigation reasons.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you are using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
@@ -73,7 +73,7 @@ Name of the new legal matter.This field appears only when the **New matter** opt
 
 </td></tr><tr><td>
 
-[[activity-lxp|Activity]] request
+Activity request
 
 </td><td>
 
@@ -125,7 +125,7 @@ Type of actions required on the data for the investigation.-   Preserve: Secure 
 
 </td></tr><tr><td>
 
-Third party [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] ID
+Third party reference ID
 
 </td><td>
 
@@ -167,7 +167,7 @@ Date by which the investigation must be complete. The date and time is based on 
 
     The number of records successfully uploaded from the file into the request is posted as additional comments in the Activity tab on the Standard Ticket page.
 
-    If a record from the file isn't added to the request, an error log file is added in the Activity tab. You can review the reason for failure in the error log file, fix the errors in your file, and upload it again by [[modify-legal-dft-request|editing the request]].
+    If a record from the file isn't added to the request, an error log file is added in the Activity tab. You can review the reason for failure in the error log file, fix the errors in your file, and upload it again by [editing the request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/modify-legal-dft-request.md).
 
 -   For each custodian added in the request, a record is created in the Custodial Data \[sn\_lg\_forensics\_custodial\_data\] table. If a legal profile record for each custodian is not already present in the Legal Profile \[sn\_lg\_ops\_legal\_profile\] table, a corresponding record is created.
 -   For each non-custodial data added in the request, a record is created in the Non Custodial Data \[sn\_lg\_forensics\_non\_custodial\_data\] table.
@@ -176,13 +176,13 @@ Date by which the investigation must be complete. The date and time is based on 
 
 On the Standard Ticket page, you can update request details, add comments, manage custodial and non-custodial data, upload supporting documents, or cancel the request. For more information, see [Update a submitted digital forensic request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/modify-legal-dft-request.md).
 
-Any member from the digital forensic team can triage and assign the request to themselves or to any other member in the group. Once the request is assigned, an approval flow is triggered. The flow creates an approval record for each custodial and non-custodial added in the digital forensic request. These approval records are assigned to the privacy team in the legal department. Any member from the legal privacy team can approve the request. After the approval, a digital forensic team member to whom the legal request is assigned can start working on the request. For more information, see [[work-on-legal-dft-request|Work on a digital forensic request]].
+Any member from the digital forensic team can triage and assign the request to themselves or to any other member in the group. Once the request is assigned, an approval flow is triggered. The flow creates an approval record for each custodial and non-custodial added in the digital forensic request. These approval records are assigned to the privacy team in the legal department. Any member from the legal privacy team can approve the request. After the approval, a digital forensic team member to whom the legal request is assigned can start working on the request. For more information, see [Work on a digital forensic request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-legal-dft-request.md).
 
 **Note:**
 
 The approval details appear under the **Approvals** tab on the Standard Ticket page.
 
-**Parent Topic:**[[submitting-legal-dft-request|Submitting digital forensics requests]]
+**Parent Topic:**[Submitting digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/submitting-legal-dft-request.md)
 
 ## Add a custodian to a digital forensic request
 
@@ -388,12 +388,4 @@ Use a file with a predefined format available on the digital forensics request p
 
     The file is attached to the request. The data from the file is uploaded into the request when you submit the request.
 
-## Related
 
-- [[modify-legal-dft-request|Update a submitted digital forensic request]]
-- [[work-on-legal-dft-request|Work on a digital forensic request]]
-- [[submitting-legal-dft-request|Submitting digital forensics requests]]
-- [[submit-legal-request|Submit a legal request]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

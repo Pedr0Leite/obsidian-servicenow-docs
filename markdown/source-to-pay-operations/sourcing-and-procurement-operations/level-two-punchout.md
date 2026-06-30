@@ -14,7 +14,7 @@ breadcrumb: [Understanding punchout, Explore, Sourcing and Procurement Operation
 
 # How L2 punchout works
 
-Level 2 \(L2\) PunchOut enables buying organizations to search for and discover PunchOut items directly within their procurement application, eliminating the need to search each [[supplier|supplier]]’s site individually.
+Level 2 \(L2\) PunchOut enables buying organizations to search for and discover PunchOut items directly within their procurement application, eliminating the need to search each supplier’s site individually.
 
 ## Key APIs used in L2 punchout
 
@@ -34,7 +34,7 @@ When a search is initiated, SPO queries all configured systems and presents a co
 
     \[Omitted image "punchout-level-two-search-products.png"\] Alt text: Search products.
 
--   Selected products are added to the cart, and checkout is completed within SPO. Upon checkout, a [[purchase-requisition|Purchase Requisition]] \(PR\) is created. Once approved, a [[purchase-order-table|Purchase Order]] \(PO\) is generated and synced to the corresponding PunchOut system.
+-   Selected products are added to the cart, and checkout is completed within SPO. Upon checkout, a Purchase Requisition \(PR\) is created. Once approved, a Purchase Order \(PO\) is generated and synced to the corresponding PunchOut system.
 
     \[Omitted image "punchout-level-two-cart.png"\] Alt text: Products added to cart.
 
@@ -59,8 +59,3 @@ The following figure illustrates the L2 PunchOut flow.\[Omitted image "punchout-
 
 **Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

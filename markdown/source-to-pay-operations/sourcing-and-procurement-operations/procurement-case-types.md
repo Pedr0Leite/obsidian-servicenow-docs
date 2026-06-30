@@ -19,7 +19,7 @@ Procurement case types classify and route procurement work items to the appropri
 
 ## What procurement case types do
 
-Each procurement case in [[psd-overview|Procurement Case Management]] \(PCM\) carries a case type that determines its purpose, the team that handles it, and its effect on the associated [[purchase-order-table|purchase order]] or sourcing activity. When a case is open, the case type controls whether the purchase order or sourcing process can advance or must wait until the case is resolved.
+Each procurement case in Procurement Case Management \(PCM\) carries a case type that determines its purpose, the team that handles it, and its effect on the associated purchase order or sourcing activity. When a case is open, the case type controls whether the purchase order or sourcing process can advance or must wait until the case is resolved.
 
 Procurement Case Management provides 13 base system case types covering purchase modifications, compliance reviews, and employee support requests. Each case type follows a defined workflow, and some are handled through guided playbooks that walk fulfillers through the required activities.
 
@@ -29,13 +29,13 @@ The 13 base system case types fall into three categories based on who initiates 
 
 |Category|Case type|Purpose|
 |--------|---------|-------|
-|Purchase modification|Edit a purchase|Modify an existing [[purchase-requisition|purchase requisition]] or purchase order — for example, to change quantity, price, or delivery date.|
-|Return a purchase|Return received goods to the [[supplier|supplier]].|
+|Purchase modification|Edit a purchase|Modify an existing purchase requisition or purchase order — for example, to change quantity, price, or delivery date.|
+|Return a purchase|Return received goods to the supplier.|
 |Replace a purchase|Replace damaged, incorrect, or defective goods.|
 |Edit a receipt|Correct a receiving record after goods have been received.|
-|Compliance review|GL Coding Review|Verify and correct the general [[ledger-account|ledger account]] coding on a purchase line before the order is placed.|
+|Compliance review|GL Coding Review|Verify and correct the general ledger account coding on a purchase line before the order is placed.|
 |Budget Review|Confirm that sufficient budget exists for the purchase.|
-|Contract Review|Review applicable [[contracts|contracts]] before the purchase proceeds.|
+|Contract Review|Review applicable contracts before the purchase proceeds.|
 |Send NDA for Signature|Send a non-disclosure agreement to the supplier associated with the purchase.|
 |Delivery Address Review|Verify and approve the delivery address for a purchase before the order proceeds.|
 |Due Diligence|Conduct a supplier due diligence assessment before a purchase proceeds.|
@@ -45,7 +45,7 @@ The 13 base system case types fall into three categories based on who initiates 
 
 ## How it works
 
-When a procurement event occurs — such as a purchase requisition submission, a [[shopping-hub-overview|Shopping Hub]] action, or an employee catalog request — the system creates a procurement case on the `sn_spend_psd_procurement_request` table and stamps the appropriate case type.
+When a procurement event occurs — such as a purchase requisition submission, a Shopping Hub action, or an employee catalog request — the system creates a procurement case on the `sn_spend_psd_procurement_request` table and stamps the appropriate case type.
 
 The following describes how a procurement case moves through its lifecycle:
 
@@ -74,12 +74,3 @@ The hold releases automatically. When the blocking case is closed, the next time
 
 [Base system procurement case type reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/base-system-procurement-case-types.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[ledger-account|Ledger account]]
-- [[contracts|Contracts]]
-- [[shopping-hub-overview|Shopping Hub]]

@@ -20,9 +20,9 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager \(The R
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Operational Resilience Workspace**.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Operational Resilience Workspace**.
 
-2.  Open a record, such as an action task, from the [[list-view-uib-ws|list view]].
+2.  Open a record, such as an action task, from the list view.
 
 3.  To generate the report in Microsoft Word format, select **...** and select **Generate MS Word** in the record view.
 
@@ -38,7 +38,7 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager \(The R
 
     \[Omitted image "word-rep-1.png"\] Alt text: Contents of the Microsoft Word report.\[Omitted image "word-rep-2.png"\] Alt text: Fields in the Microsoft Word report.
 
-    For information on Microsoft Word templates and Template configurations, see [[gen-word-reports|Generating Microsoft Word reports using Document designer]].
+    For information on Microsoft Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-word-reports.md).
 
     The generation of Microsoft Word reports, required by the authorities for analysis in Digital resilience incident reporting, is completed with this step.
 
@@ -50,8 +50,4 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager \(The R
 
     You can save the generated reports of the action tasks in your ServiceNow instances or in the cloud \(Microsoft Office 365\) for future references.
 
-## Related
 
-- [[gen-word-reports|Generating Microsoft Word reports using Document designer]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

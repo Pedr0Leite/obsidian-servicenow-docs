@@ -15,14 +15,14 @@ breadcrumb: [Explore, Legal Request Management, Legal Service Delivery, Legal an
 
 # Attorney-Client Privilege
 
-[[lmm-acp-landing|Attorney Client Privilege]] functionality enables legal fulfiller to designate legal requests as privileged and confidential. It restricts access to authorized stakeholders, marks communications with confidentiality banners, and maintains a document audit trail to help you protect sensitive legal communications.
+Attorney Client Privilege functionality enables legal fulfiller to designate legal requests as privileged and confidential. It restricts access to authorized stakeholders, marks communications with confidentiality banners, and maintains a document audit trail to help you protect sensitive legal communications.
 
 Attorney Client Privilege applies to following:
 
 -   Legal Request: Legal fulfillers can mark legal requests as privileged and confidential, when the request is in Assigned or Work in Progress state. The system enforces access control, adds confidentiality markers to emails, and restricts collaboration to authorized stakeholders.
 -   Legal Matter: Legal fulfillers and matter owners can independently mark or unmark individual matters as privileged and confidential, provided the matter is in the Assigned or Work in Progress state.
 
-The Attorney Client Privilege feature is not available for legal contracts requests. Example: Non-disclosure Agreement \(NDA\) and Third-party Contracts submitted [[cncore-use-cmpro|using Contract Management Pro]] for [[legal-management-overview|Legal Service Delivery]] application.
+The Attorney Client Privilege feature is not available for legal contracts requests. Example: Non-disclosure Agreement \(NDA\) and Third-party Contracts submitted using Contract Management Pro for Legal Service Delivery application.
 
 ## Assignment group permission changes
 
@@ -73,8 +73,3 @@ The Privileged and Confidential status of a legal request and its associated mat
 
 [Transfer a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/transfer-existing-legal-request.md)
 
-## Related
-
-- [[lmm-acp-landing|Attorney Client Privilege]]
-- [[cncore-use-cmpro|Using Contract Management Pro]]
-- [[legal-management-overview|Legal Service Delivery]]

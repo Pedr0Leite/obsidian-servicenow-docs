@@ -14,11 +14,11 @@ breadcrumb: [Legacy: State model and transitions, Configure, Change Management, 
 
 # Legacy: Add a state to the state model
 
-You can add a new state to the existing state model for different [[change-types|change types]] based on the requirements of your organization.
+You can add a new state to the existing state model for different change types based on the requirements of your organization.
 
 ## Before you begin
 
-**Note:** The change states functionality has been replaced with change [[c_Models|models]] since the Quebec release. For more information, see [Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
+**Note:** The change states functionality has been replaced with change models since the Quebec release. For more information, see [Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
 
 Role required: script\_include\_admin, ui\_policy\_admin, ui\_action\_admin, or admin
 
@@ -77,7 +77,7 @@ The [State model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/au
 
     \[Omitted image "state-script-normal.png"\] Alt text: changing the change request state script
 
-5.  [[t_CreateNewUIAction|Create a UI action]] to provide a button to progress the change request to the new state.
+5.  Create a UI action to provide a button to progress the change request to the new state.
 
     1.  Use **Insert and Stay** to make a copy of one of the default UI actions, such as **implement**.
 
@@ -203,11 +203,6 @@ Each change type has a default workflow. To ensure that any change to the state 
     |Standard|ChangeRequestStateModel\_standard|Change Request - Standard|
     |Emergency|ChangeRequestStateModel\_emergency|Change Request - Emergency|
 
-    [[migration-utility-modification|Modifications]] to the default workflow for each change type depend on where the new state is added in the sequences of states.
+    Modifications to the default workflow for each change type depend on where the new state is added in the sequences of states.
 
-## Related
 
-- [[change-types|Change types]]
-- [[c_Models|Models]]
-- [[t_CreateNewUIAction|Create a UI action]]
-- [[migration-utility-modification|Modifications]]

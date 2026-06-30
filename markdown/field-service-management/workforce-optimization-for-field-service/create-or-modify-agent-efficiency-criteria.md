@@ -14,7 +14,7 @@ breadcrumb: [Agent Efficiency, Set up workforce, Configure, Field Service Manage
 
 # Create or modify Agent Efficiency criteria
 
-Create or modify [[agent-efficiency|Field Service Agent Efficiency]] criteria to evaluate agent efficiency and calculate the work duration for a work order task.
+Create or modify Field Service Agent Efficiency criteria to evaluate agent efficiency and calculate the work duration for a work order task.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ The Agent Efficiency criterion is created or modifications saved.
 
 [Create or modify an Agent Efficiency determination rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-or-modify-agent-efficiency-determination-rule.md)
 
-## Related
-
-- [[agent-efficiency|Field Service Agent Efficiency]]

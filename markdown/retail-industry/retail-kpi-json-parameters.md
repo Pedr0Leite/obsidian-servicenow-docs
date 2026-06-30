@@ -12,7 +12,7 @@ breadcrumb: [Add and configure the Retail KPI widget, Set up Retail Portal, Conf
 
 # Retail KPI JSON parameters
 
-JSON parameters define aspects of the [[rahi-retail-operations-overview|Retail]] KPI list widget on the portal page.
+JSON parameters define aspects of the Retail KPI list widget on the portal page.
 
 **Note:**  This information assumes that you’re familiar with the JSON code format.
 
@@ -74,7 +74,3 @@ Number field that defines the order of execution. The lower value is evaluated f
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]

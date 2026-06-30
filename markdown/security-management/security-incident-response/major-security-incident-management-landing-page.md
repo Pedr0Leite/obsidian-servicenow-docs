@@ -20,7 +20,7 @@ Major Security Incident Management
 
 <table id="table_sxm_bbz_xtb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text: Learn about how analysts, administrators, and managers use Major Security Incident Management \(MSIM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-major-security-incident-management.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Learn about how analysts, administrators, and managers use Major Security Incident Management \(MSIM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-major-security-incident-management.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Request a Security Operations app on Store
 
-If you are a new [[security-operations-landing-page|Security Operations]] customer on Rome or later, visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view the available apps and information on how to submit requests to the store.
+If you are a new Security Operations customer on Rome or later, visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view the available apps and information on how to submit requests to the store.
 
 ## Troubleshoot and get help
 
@@ -71,7 +71,3 @@ If you are a new [[security-operations-landing-page|Security Operations]] custom
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[security-operations-landing-page|Security Operations]]

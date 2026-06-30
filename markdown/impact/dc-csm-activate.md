@@ -16,7 +16,7 @@ Activate the Data Collection Pack for CSM after you enable and configure it.
 
 ## Before you begin
 
-Monthly Data collection within Performance/Performance [[io-analytics|Analytics]] runs on a schedule.
+Monthly Data collection within Performance/Performance Analytics runs on a schedule.
 
 **Important:** To get data collection up and running, perform the monthly setup only once.
 
@@ -24,7 +24,7 @@ Role required: admin, pa\_admin, pa\_data\_collector
 
 ## Procedure
 
-1.  Navigate to **Performance/PlatformAnalytics &gt; Data Collector&gt; Jobs**, and then open **[[impact-landing-page|Impact]] VM – CSM - Monthly Data Collection**.
+1.  Navigate to **Performance/PlatformAnalytics &gt; Data Collector&gt; Jobs**, and then open **Impact VM – CSM - Monthly Data Collection**.
 
 2.  Select **Active**, and then update the record.
 
@@ -58,7 +58,4 @@ Role required: admin, pa\_admin, pa\_data\_collector
 
     4.  To validate historical data for any specific indicator, select the widget on the dashboard.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

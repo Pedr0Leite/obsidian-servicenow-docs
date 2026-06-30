@@ -23,7 +23,7 @@ As an asset manager, you can get the defective hardware assets in your stockroom
 -   **[Repair order fulfillment in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/fulfilling-repair-orders-ham.md)**  
 Repair order fulfillment tracks the resolution of defective and out-of-warranty hardware assets. Repair asset tasks associated with each repair order line must be completed before an order is fulfilled. Orders can be completed manually or through the Help repair hardware assets agentic workflow.
 -   **[Record time worked on asset repair tasks in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/record-repair-time-ham-ws.md)**  
-Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the [[using-ham-workspace|Hardware Asset Workspace]]. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
+Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the Hardware Asset Workspace. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
 
 **Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
@@ -34,7 +34,7 @@ Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate 
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -56,13 +56,13 @@ Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate 
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -80,7 +80,7 @@ Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate 
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage picking hardware assets within your stockroom for Hardware Asset Management workflows]()
 
@@ -94,10 +94,3 @@ Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate 
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

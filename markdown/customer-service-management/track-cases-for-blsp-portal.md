@@ -12,9 +12,9 @@ breadcrumb: [Create cases, Using the Business Location Service Portal, Customer 
 
 # Track cases on the Business Location Service Portal
 
-Track cases on behalf of a business location against [[sold-product|sold products]] deployed at a business location, or against installed base items deployed at a business location.
+Track cases on behalf of a business location against sold products deployed at a business location, or against installed base items deployed at a business location.
 
-\[Omitted image "my-[[migration-lists|lists]]-widget.png"\] Alt text: Filter options for My Lists widget on the Business Location Service Portal.
+\[Omitted image "my-lists-widget.png"\] Alt text: Filter options for My Lists widget on the Business Location Service Portal.
 
 Depending on the roles assigned to the logged-in user, the widget displays the following filters.
 
@@ -27,16 +27,10 @@ Depending on the roles assigned to the logged-in user, the widget displays the f
 |Cases for Accounts|Cases created by the account contributor.|
 |Cases for Consumers|Cases created by the consumer contributor.|
 |My Cases for Business Locations|Cases created by the contributor user on behalf of their business locations.|
-|All Cases for Business Locations|All cases created on behalf of the [[customer-service-contributor-users|contributor users]]' business locations, independent of who created the case.|
+|All Cases for Business Locations|All cases created on behalf of the contributor users' business locations, independent of who created the case.|
 
 **Related topics**  
 
 
-[[using-blsp-portal|Using the Business Location Service Portal]]
+[Using the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-blsp-portal.md)
 
-## Related
-
-- [[using-blsp-portal|Using the Business Location Service Portal]]
-- [[sold-product|Sold products]]
-- [[migration-lists|Lists]]
-- [[customer-service-contributor-users|Contributor users]]

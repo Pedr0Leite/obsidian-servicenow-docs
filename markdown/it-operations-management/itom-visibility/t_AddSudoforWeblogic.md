@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]] Definition** &gt; **Probes**.
+1.  Navigate to **All** &gt; **Discovery Definition** &gt; **Probes**.
 
 2.  Search for and select the **Linux - Weblogic - Find config.xml** probe.
 
@@ -40,6 +40,3 @@ Role required: admin
 
 **Parent Topic:**[WebLogic application server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DataCollDiscoWebLogicServers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

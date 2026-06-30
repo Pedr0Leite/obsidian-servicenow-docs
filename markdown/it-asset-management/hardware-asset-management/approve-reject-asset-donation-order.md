@@ -24,9 +24,9 @@ Role required: asset
 
 1.  Navigate to **All** &gt; **Contract** &gt; **My Approvals**.
 
-2.  [[select-daas-asset|Select an Asset]] Donation Order record that is in the **Requested** state.
+2.  Select an Asset Donation Order record that is in the **Requested** state.
 
-3.  Approve or reject the [[asset-donation|Asset Donation]] Order.
+3.  Approve or reject the Asset Donation Order.
 
     -   To approve the order, select **Approve.**
 
@@ -48,7 +48,3 @@ Role required: asset
 
 [Add a charity organization for donating assets]()
 
-## Related
-
-- [[select-daas-asset|Select an asset]]
-- [[asset-donation|Asset donation]]

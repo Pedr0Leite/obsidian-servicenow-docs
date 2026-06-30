@@ -14,7 +14,7 @@ breadcrumb: [Manage API data connections, API Insights, Configuration Management
 
 # Monitor configuration progress of connections in API Insights
 
-Check progress status of API data connections in [[api-insights|API Insights]].
+Check progress status of API data connections in API Insights.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
 ## About this task
 
-[[cmdb-sgc-available|Service Graph Connectors]] are integrations that facilitate API data ingestion into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+Service Graph Connectors are integrations that facilitate API data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -44,8 +44,4 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
     See [Exploring Service Graph Connectors for API data within API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-explore-connectors.md).
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

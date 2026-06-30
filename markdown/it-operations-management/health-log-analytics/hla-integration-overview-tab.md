@@ -14,7 +14,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Monitoring log data flow and optimizing integration settings in Health Log Analytics
 
-The Overview screen in [[hla-landing-page|Health Log Analytics]] provides a comprehensive view of the components in the log-processing pipeline of a specific active integration. From this screen, you can troubleshoot any streaming issues for this integration and adjust its settings if needed.
+The Overview screen in Health Log Analytics provides a comprehensive view of the components in the log-processing pipeline of a specific active integration. From this screen, you can troubleshoot any streaming issues for this integration and adjust its settings if needed.
 
 The **Overview** screen shows the log data streaming status and streaming sources of an active integration. It provides direct access to the **Data Input Mapping**, **Source Type Structures**, and **Log Sources** pages, as well as the **Log Viewer**, all with context from the current integration.
 
@@ -138,6 +138,3 @@ The **Log Streaming Sources** table now shows a connection state of Connected or
 
 [Review log streaming data and adjust integration settings in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-overview-tab.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

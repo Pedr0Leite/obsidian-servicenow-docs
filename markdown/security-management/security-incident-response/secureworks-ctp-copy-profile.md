@@ -30,7 +30,7 @@ As a user with the sn\_si.admin role, if you copy a profile, the profile name is
 
 2.  In the Secureworks Profiles list that is displayed, select a profile that you want to copy, and, from the **Actions on selected rows** choice list, click **Copy**.
 
-    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the [[mapping-logrhythm|mapping]] and scheduling configuration. The name of the profile contains \(copy\). Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the [[qradar-ibm-intg-settings|configuration settings]] apply to the new profile as required.
+    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains \(copy\). Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the configuration settings apply to the new profile as required.
 
     You have successfully copied the settings from an existing profile to a new profile. Note that the **Active** column status is set to false as the profile needs to be activated.
 
@@ -39,7 +39,3 @@ As a user with the sn\_si.admin role, if you copy a profile, the profile name is
 
 You are prompted to activate \(enable\) the new profile after you complete the configuration steps.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

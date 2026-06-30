@@ -20,31 +20,31 @@ Create a cost plan to specify the unit cost of a cost type for a fiscal period. 
 
 Role required: it\_project\_manager
 
-Application required: [[c_ProjectPortfolioSuite|Project Portfolio Management]] with Financials
+Application required: Project Portfolio Management with Financials
 
 ## About this task
 
 The application automatically creates [cost plan breakdown records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md) when you save the cost plan. Cost plans can also have associated [expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md).
 
-**Note:** Cost plans are automatically created for [[c_ResourcePlans|resource plans]] that are associated to projects and [[t_CreateAProjectTask|project tasks]].
+**Note:** Cost plans are automatically created for resource plans that are associated to projects and project tasks.
 
 To use multiple currencies, create a new cost plan for another currency.
 
 ## Procedure
 
-1.  Open the [[create-a-project-form|project form]].
+1.  Open the project form.
 
 2.  From the related links, select **Cost Plans**.
 
 3.  Select **New**.
 
-    **Note:** To create a cost plan from the **Financials** tab in [[project-workspace-landing-page|Project Workspace]], select **Manage**.
+    **Note:** To create a cost plan from the **Financials** tab in Project Workspace, select **Manage**.
 
 4.  On the form, fill in the fields.
 
     For field information, see [Cost Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-form-project-management.md).
 
-    **Note:** When you [[change-planned-start-date-of-project|change the planned start date of a project]], the associated cost plans and resource plan also change. The [project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
+    **Note:** When you change the planned start date of a project, the associated cost plans and resource plan also change. The [project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
 
 5.  Select **Submit**.
 
@@ -54,11 +54,11 @@ To use multiple currencies, create a new cost plan for another currency.
 To recalculate the values in the **Estimate at Completion** field, use the **Calculate Estimate at Completion** related link. To view the cost plan breakdowns, select the **Cost Plan Breakdowns** related list.
 
 -   **[Update a cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-cost-plan-breakdown.md)**  
-[[update-cost-plan-breakdown|Update a cost plan breakdown]] record that specifies the estimated and actual cost, at a granular level, for specific fiscal periods.
+Update a cost plan breakdown record that specifies the estimated and actual cost, at a granular level, for specific fiscal periods.
 -   **[Enable cost rollup calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_EnablingCostRollupCalculations.md)**  
 Enable rollup calculations from the project properties.
 -   **[View actual project costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ViewActualProjectCosts.md)**  
-When you are using Project Portfolio Management with Financials, you can [[t_ViewActualProjectCosts|view actual project costs]] on cost plans and projects.
+When you are using Project Portfolio Management with Financials, you can view actual project costs on cost plans and projects.
 
 **Parent Topic:**[Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
@@ -115,13 +115,3 @@ When you are using Project Portfolio Management with Financials, you can [[t_Vie
 
 [System-generated cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[change-planned-start-date-of-project|Change the planned start date of a project]]
-- [[update-cost-plan-breakdown|Update a cost plan breakdown]]
-- [[t_ViewActualProjectCosts|View actual project costs]]

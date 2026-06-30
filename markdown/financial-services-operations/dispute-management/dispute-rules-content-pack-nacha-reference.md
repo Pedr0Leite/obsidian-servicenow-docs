@@ -15,16 +15,12 @@ breadcrumb: [Dispute Rules Content Pack for Nacha, Dispute Management, Banking a
 
 # Dispute Rules Content Pack for Nacha reference
 
-Learn about the components and properties that are installed with the [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]] application.
+Learn about the components and properties that are installed with the Dispute Rules Content Pack for Nacha application.
 
 -   **[Components installed with Dispute Rules Content Pack for Nacha](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/components-installed-with-dispute-rules-content-pack-for-nacha.md)**  
 Several types of components are installed with Dispute Rules Content Pack for Nacha.
 -   **[Domain separation and Dispute Rules Content Pack for Nacha](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/domain-separation-dispute-rules-content-pack-nacha.md)**  
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is unsupported for Dispute Rules Content Pack for Nacha. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Dispute Rules Content Pack for Nacha. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Dispute Rules Content Pack for Nacha](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-nacha.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]

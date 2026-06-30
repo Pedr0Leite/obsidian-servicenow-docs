@@ -14,7 +14,7 @@ breadcrumb: [HR Success Dashboard indicators, HR Service Delivery, Employee Serv
 
 # HR Success Dashboard indicators reference
 
-See additional information about components installed with the [[success-dashboard-landing|HR Success Dashboard indicators]].
+See additional information about components installed with the HR Success Dashboard indicators.
 
 For more information on the roles and responsibilities required to perform different tasks, see [User roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/success-roles.md).
 
@@ -24,6 +24,3 @@ The roles are universal for both ITSM and HR, that is all Service groups of the 
 
 For more information on how to determine the dashboard configuration to use the KPI and formulae, see [HR Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-## Related
-
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

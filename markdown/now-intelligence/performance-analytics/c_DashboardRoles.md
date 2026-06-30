@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Dashboard permissions
 
-Dashboards have special granular view and edit permissions that are managed from the Sharing pane. [[access-control|Access control]] lists \(ACLs\) apply to most [[widgets|widgets]] that are added to dashboards.
+Dashboards have special granular view and edit permissions that are managed from the Sharing pane. Access control lists \(ACLs\) apply to most widgets that are added to dashboards.
 
 -   Users with any role can create dashboards, share dashboards that they own with users and groups, and edit dashboards if they have been given edit permissions. Users with any role can restrict access by role to any dashboard that they have created. The user also needs whatever roles are necessary to access the specific data on the dashboards.
 -   Users without a role can view dashboards that have been shared with them, but cannot create or edit dashboards.
@@ -28,7 +28,7 @@ Dashboards have special granular view and edit permissions that are managed from
 | |View|Create|Edit|Share|Delete|
 |---|----|------|----|-----|------|
 |No role|Only dashboards that have been shared with them.|No|No|No|No|
-|Any role|Dashboards that they create and that have been shared with them.|Yes|Only dashboards they have created or that have been shared with them with edit rights. Cannot add or remove [[c_Widgets|Performance Analytics widgets]] without at least pa\_power\_user rights.|Only dashboards they have created and only with users and groups. The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboard-properties.md).|Only dashboards they own or have created.|
+|Any role|Dashboards that they create and that have been shared with them.|Yes|Only dashboards they have created or that have been shared with them with edit rights. Cannot add or remove Performance Analytics widgets without at least pa\_power\_user rights.|Only dashboards they have created and only with users and groups. The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboard-properties.md).|Only dashboards they own or have created.|
 |admin|All|Yes|Edit and manage dashboard owners, users, groups, and roles for any dashboard.|Yes|Any dashboard|
 |dashboard\_admin|All|Yes|Edit and manage dashboard owners, users, groups, and roles for any dashboard.|Yes|Any dashboard|
 |pa\_admin|Dashboards that they create and that have been shared with them.|Yes|Only dashboards they have created or that have been shared with them with edit rights. Can add or remove Performance Analytics widgets.|Only dashboards they have created and only with users and groups. The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboard-properties.md).|Only dashboards they own or have created.|
@@ -39,7 +39,7 @@ Widget ACLs apply when that widget is added to dashboards \(except for Performan
 
 **Note:** ACLs are not applied to Performance Analytics widgets that are added to dashboards. Any user who can view a dashboard can view all its Performance Analytics widgets. Performance Analytics widgets can only be added to dashboards by users with the pa\_power\_user, pa\_admin, and admin roles.
 
-However, if a Performance Analytics widget displays [[real-time-scores|real-time scores]], the score each logged-in user sees depends on their roles and the ACLs of the facts table. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
+However, if a Performance Analytics widget displays real-time scores, the score each logged-in user sees depends on their roles and the ACLs of the facts table. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
 
 The **Restrict to role** field on the dashboard properties form and dashboard group permissions may have an impact on dashboard permissions. The dashboard owner, and users with pa\_power \_user, pa\_admin, or admin roles can change dashboard properties. Users with the pa\_power\_user, pa\_admin, and admin roles can change dashboard group permissions.
 
@@ -56,9 +56,3 @@ For example, when you add a pie report widget with 36 records to a dashboard, us
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[access-control|Access control]]
-- [[widgets|Widgets]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[real-time-scores|Real-time scores]]

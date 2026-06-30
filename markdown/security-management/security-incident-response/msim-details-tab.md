@@ -107,7 +107,7 @@ Estimated resolution date
 
 </td><td>
 
-The estimated date by when the incident is expected to be resolved. The default value is 7 days from the time of the major [[si-creation|security incident creation]].
+The estimated date by when the incident is expected to be resolved. The default value is 7 days from the time of the major security incident creation.
 
 </td></tr><tr><td>
 
@@ -289,6 +289,3 @@ Manage who can view or modify major security incidents that contain sensitive in
 
 [Create and distribute MSIM Status Reports]()
 
-## Related
-
-- [[si-creation|Security incident creation]]

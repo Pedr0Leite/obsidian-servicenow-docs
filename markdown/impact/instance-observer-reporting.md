@@ -12,7 +12,7 @@ breadcrumb: [Monitoring instance health with Instance Observer, Platform Health,
 
 # Instance performance telemetry reports
 
-Quickly generate reports to download and share with your business stakeholders, making  organizations faster, smarter, and better in their  instance [[instance-observer-performance|performance]] management.
+Quickly generate reports to download and share with your business stakeholders, making  organizations faster, smarter, and better in their  instance performance management.
 
 Visualize instance performance  telemetry over time and quickly generate reports to share with your team and business stakeholders.
 
@@ -28,11 +28,11 @@ Select **Generate report** and the report renders. On the report page, you have 
 
 \[Omitted image "io-reports.png"\] Alt text: Report types.
 
-For additional information about a report, select **[[io-help|Help]]** &gt; **Metrics** from the main menu and select the option from the right-hand menu.
+For additional information about a report, select **Help** &gt; **Metrics** from the main menu and select the option from the right-hand menu.
 
 ## Support matrix per Impact package
 
-Some Instance Observer reporting features vary between the [[impact-landing-page|Impact]] package that you are subscribed to. Reference the support matrix for details.
+Some Instance Observer reporting features vary between the Impact package that you are subscribed to. Reference the support matrix for details.
 
 -   ✓ = Supported
 -   X = Not supported
@@ -61,11 +61,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-ServiceNow [[platform-health-idi|Platform Health]]
+ServiceNow Platform Health
 
 </td><td>
 
--   Reflects node [[io-availability|availability]], response, and lag times.
+-   Reflects node availability, response, and lag times.
 -   Compares availability and anomalies from today and the last 30 days.
 -   Reports are based on the system thresholds that are set in the system and color codes the anomalies accordingly, with Green, Yellow, or Red.
 
@@ -171,13 +171,5 @@ There are several database growth reports that are available that show how the i
 |Database by Size \(Including Shards\)|Various metrics on how the database has either grown or decreased over the selected, including shards. Total DBI Size align with primary shards, this is calculated every 4 hours and can be used to visualize database growth over time.|
 |Top 20 Tables \(By Size\)|Lists table name, size \(GB\), 1 day growth and rate, and the 7 day growth rate.|
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-availability|Availability]]

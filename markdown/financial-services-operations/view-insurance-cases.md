@@ -13,7 +13,7 @@ breadcrumb: [Using Agentic Contact Center for Insurance, Agentic Contact Center 
 
 # View insurance cases in Agentic Contact Center for Insurance
 
-Review [[insurance-claims-flow|insurance claims]] and service cases for a customer in the Customer 360 page so that you can understand the customer's open and recent service activity.
+Review insurance claims and service cases for a customer in the Customer 360 page so that you can understand the customer's open and recent service activity.
 
 ## Before you begin
 
@@ -48,15 +48,9 @@ The case record opens in a new tab.
 **Related topics**  
 
 
-[[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]]
+[Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-insurance-agentic-contact-centre.md)
 
-[[view-insurance-customer-profile|View an insurance customer profile in Agentic Contact Center for Insurance]]
+[View an insurance customer profile in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-insurance-customer-profile.md)
 
-[[view-insurance-policies-coverages|View insurance policies and coverages in Agentic Contact Center for Insurance]]
+[View insurance policies and coverages in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-insurance-policies-coverages.md)
 
-## Related
-
-- [[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]]
-- [[view-insurance-customer-profile|View an insurance customer profile in Agentic Contact Center for Insurance]]
-- [[view-insurance-policies-coverages|View insurance policies and coverages in Agentic Contact Center for Insurance]]
-- [[insurance-claims-flow|Insurance claims]]

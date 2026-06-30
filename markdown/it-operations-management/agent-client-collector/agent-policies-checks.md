@@ -14,7 +14,7 @@ breadcrumb: [ACC-M reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector Monitoring default checks and policies
 
-[[acc-monitoring-landing-page|Agent Client Collector Monitoring]] provides various default [[checks-policies|checks and policies]].
+Agent Client Collector Monitoring provides various default checks and policies.
 
 ## Provided checks
 
@@ -699,7 +699,7 @@ metrics.windows.active-directory
 
 </td><td>
 
-Collects [[ad-metrics|Active Directory metrics]] on the Windows host.Usage: winchecks metric-windows-active-dir -s hostname
+Collects Active Directory metrics on the Windows host.Usage: winchecks metric-windows-active-dir -s hostname
 
 </td><td>
 
@@ -1361,7 +1361,7 @@ Creates a formatted metric for the length of a MySQL query result set.
 </table>|Type|Event/Metric|Description|Minimum version|
 |----|------------|-----------|---------------|
 |Event|app.mongodb.check-mongodb-alive|Monitors whether the MongoDB server is alive and creating alerts for the MongoDB server health status.| |
-|Event|app.mongodb.check-mongodb-metrics|Creates alerts for any of the [[mongodb-metrics|MongoDB metrics]], based on the threshold limit.| |
+|Event|app.mongodb.check-mongodb-metrics|Creates alerts for any of the MongoDB metrics, based on the threshold limit.| |
 |Metric|app.mongodb.metrics-mongodb|Returns metrics of the MongoDB server and all databases.| |
 
 <table id="table_sd5_ccz_dkb"><thead><tr><th>
@@ -1513,7 +1513,7 @@ Collects Windows service status, providing metric of number of services running.
 </td></tr></tbody>
 </table>|Type|Name|Description|
 |----|----|-----------|
-|Metric|app.varnish.metrics-varnish|Collects [[varnish-metrics|Varnish metrics]] from the host.|
+|Metric|app.varnish.metrics-varnish|Collects Varnish metrics from the host.|
 
 |Type|Name|Description|
 |----|----|-----------|
@@ -1525,7 +1525,7 @@ Collects Windows service status, providing metric of number of services running.
 |Type|Name|Description|
 |----|----|-----------|
 |Metric|zscaler-monitoring-check|Verifies whether the Zscaler app is running properly.|
-|Metric|zscaler-[[ccg-remediation|remediation]]-check|Shuts down and restarts the Zscaler app, and creates an incident. Runs only when the zscaler-monitoring-check fails.|
+|Metric|zscaler-remediation-check|Shuts down and restarts the Zscaler app, and creates an incident. Runs only when the zscaler-monitoring-check fails.|
 
 |Type|Event/Metric|Description|Command|
 |----|------------|-----------|-------|
@@ -1693,7 +1693,7 @@ Collects the following memory metrics:-   FreePhysicalMemory
 
 ## Supported Agent policies
 
-This table lists the supported [[acc-landing-page|Agent Client Collector]] for Monitoring policies that the check definitions are associated with. The policies consist of the monitored CIs and the checks that run on them.
+This table lists the supported Agent Client Collector for Monitoring policies that the check definitions are associated with. The policies consist of the monitored CIs and the checks that run on them.
 
 <table id="table_gft_tt1_ckb"><thead><tr><th>
 
@@ -1751,7 +1751,7 @@ Monitors the status of Kafka Broker, Kafka topics, partictions, replicas and Zoo
 
 </td></tr><tr><td>
 
-[[kafka-metrics|Apache Kafka Metrics]]
+Apache Kafka Metrics
 
 </td><td>
 
@@ -1820,7 +1820,7 @@ Monitors the Azure CI, **cmdb\_ci\_azure\_datacenter**. Binds with the virtual m
 
 </td></tr><tr><td>
 
-Basic [[r-discovery|Discovery]]
+Basic Discovery
 
 </td><td>
 
@@ -1896,7 +1896,7 @@ Example for using SNMP metrics. Because the Agent doesn't run on SNMP devices, p
 
 </td></tr><tr><td>
 
-[[glassfish-metrics|Glassfish Metrics]]
+Glassfish Metrics
 
 </td><td>
 
@@ -1920,7 +1920,7 @@ Retrieves the HAProxy load balancer details to determine whether it is running.H
 
 </td></tr><tr><td>
 
-[[haproxy-metrics|HAProxy Metrics]]
+HAProxy Metrics
 
 </td><td>
 
@@ -2075,7 +2075,7 @@ Linux OS Metrics
 
 </td><td>
 
-Collects [[linux-metrics|Linux metrics]] on operational Linux servers.
+Collects Linux metrics on operational Linux servers.
 
 </td><td>
 
@@ -2148,7 +2148,7 @@ Monitors operational MySQL instances.On the **Credentials** tab, specify Basic A
 
 </td></tr><tr><td>
 
-[[network-ping-metrics|Network ping metrics]]
+Network ping metrics
 
 </td><td>
 
@@ -2245,7 +2245,7 @@ Monitors and collects metrics from Varnish.Varnish metrics are supported in ITOM
 
 </td></tr><tr><td>
 
-[[vsphere-metrics|vSphere Metrics]]
+vSphere Metrics
 
 </td><td>
 
@@ -2366,7 +2366,7 @@ Windows OS Metrics
 
 </td><td>
 
-Collects [[windows-metrics|Windows metrics]] on operational Windows servers.
+Collects Windows metrics on operational Windows servers.
 
 </td><td>
 
@@ -2406,7 +2406,7 @@ Agent Client Collector provides the following default checks and policies for Az
 -   **[Azure metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/azure-metrics.md)**  
 The following tables list and describe the metrics that are gathered as output from Azure checks. Entries indicated as **Featured metrics** are high-visibility metrics that are displayed in the Operator Workspace Metric tab after an alert is generated. These metrics provide the operator with additional information to help them further explore the specified issue.
 -   **[Azure cloud metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/azure-cloud-metrics.md)**  
-[[azure-cloud-metrics|Azure cloud metrics]] are gathered from Azure virtual machines \(VMs\) and Azure storage account policies. Collecting the cloud metrics enables you to monitor the performance of your Azure resources.
+Azure cloud metrics are gathered from Azure virtual machines \(VMs\) and Azure storage account policies. Collecting the cloud metrics enables you to monitor the performance of your Azure resources.
 -   **[Cassandra default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/cassandra-checks-policies.md)**  
 Agent Client Collector provides the following policies for Cassandra health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for Linux only.
 -   **[Cassandra metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/cassandra-metrics.md)**  
@@ -2484,21 +2484,3 @@ Agent Client Collector provides the following policy for Linux log monitoring.
 
 **Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[checks-policies|Checks and policies]]
-- [[ad-metrics|Active Directory metrics]]
-- [[mongodb-metrics|MongoDB metrics]]
-- [[varnish-metrics|Varnish metrics]]
-- [[ccg-remediation|Remediation]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[kafka-metrics|Apache Kafka metrics]]
-- [[r-discovery|Discovery]]
-- [[glassfish-metrics|GlassFish metrics]]
-- [[haproxy-metrics|HAProxy metrics]]
-- [[linux-metrics|Linux metrics]]
-- [[network-ping-metrics|Network ping metrics]]
-- [[vsphere-metrics|vSphere metrics]]
-- [[windows-metrics|Windows metrics]]
-- [[azure-cloud-metrics|Azure cloud metrics]]

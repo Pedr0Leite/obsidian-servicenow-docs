@@ -22,7 +22,7 @@ Role required: SM admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SMPlanMaint|Planned Maintenance]]** &gt; **Maintenance Plans**.
+1.  Navigate to **All** &gt; **Planned Maintenance** &gt; **Maintenance Plans**.
 
 2.  Click **New**, specify a meaningful **Name** and **Short description**, fill in the form, and then click **Submit**.
 
@@ -113,6 +113,3 @@ Specify what to do when a maintenance plan runs on a record that is already unde
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

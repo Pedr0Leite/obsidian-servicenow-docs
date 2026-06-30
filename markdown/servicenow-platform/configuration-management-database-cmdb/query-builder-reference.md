@@ -14,13 +14,13 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # CMDB Query Builder reference
 
-[[reference|Reference]] topics provide [[sample-queries|example queries]] and descriptions of navigation and property settings.
+Reference topics provide example queries and descriptions of navigation and property settings.
 
 ## Reference topics
 
 -   **[Domain separation and CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-groups-query-builder.md)**
 
-    [[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the [[cmdb-query-builder-landing-page|CMDB Query Builder]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+    Domain separation is supported in the CMDB Query Builder. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 -   **[Navigation in CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/navigation-cmdb-query-builder.md)**
 
@@ -34,9 +34,4 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
     Use the example queries as models for building your custom CMDB queries and Service Mapping queries.
 
-## Related
 
-- [[reference|Reference]]
-- [[sample-queries|Example queries]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

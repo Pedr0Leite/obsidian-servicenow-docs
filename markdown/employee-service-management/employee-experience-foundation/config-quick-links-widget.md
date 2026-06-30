@@ -20,11 +20,11 @@ Design and manage the appearance of the widget, such as the title, display style
 
 Role required: sp\_admin or admin
 
-**Note:** These configuration options are only available for the [[emp-center-quick-link-config|Quick links]] widget, not the Quick links \(CD\) widget. To verify which widget is present in your portal, open the page in the Service Portal Designer [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md). For more information on how to configure quick links, see [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
+**Note:** These configuration options are only available for the Quick links widget, not the Quick links \(CD\) widget. To verify which widget is present in your portal, open the page in the Service Portal Designer [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md). For more information on how to configure quick links, see [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  On the Employee Center home page, press and hold the control key, right-click the Quick links widget, and then select **Instance Options**.
 
@@ -225,7 +225,3 @@ Option to show the widget with empty state message.
 
 [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

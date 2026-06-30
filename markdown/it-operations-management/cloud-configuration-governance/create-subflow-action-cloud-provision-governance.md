@@ -14,7 +14,7 @@ breadcrumb: [Day 2 operations using Workflow Studio subflow, Cloud Admin Portal,
 
 # Create a response action for Cloud Provisioning and Governance
 
-Create a subflow with the required input parameters that notifies [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] whether the flow completes successfully or not.
+Create a subflow with the required input parameters that notifies Cloud Provisioning and Governance whether the flow completes successfully or not.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ Test the subflow, and publish it when it is ready to be added to a flow or calle
 
 **Note:** You can only test or publish subflows that contain at least one action.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

@@ -57,7 +57,7 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 2.  In the **Incident fields with matching values** field, enter the field values that you want to match on existing security incidents in your ServiceNow AI Platform instance.
 
-    All field values that you selected in the multi selection input field must match so that the aggregation criteria is met and that this incoming incident can be appended to an existing security incident. This selection implies it is an `AND` condition where fields, such as [[c_Observables|Observables]] and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Cortex XSIAM Incident aggregation conditions are not met and a new security incident is created.
+    All field values that you selected in the multi selection input field must match so that the aggregation criteria is met and that this incoming incident can be appended to an existing security incident. This selection implies it is an `AND` condition where fields, such as Observables and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Cortex XSIAM Incident aggregation conditions are not met and a new security incident is created.
 
 3.  Select **Add New Criteria** to add multiple field matching conditions.
 
@@ -65,7 +65,7 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 4.  Select **Log work note for new Incident** to update the work note for a new incident when it is added to a security incident.
 
-    The work note logs that a new incident is added and includes a link to the incident details. The log work note also updates more details that you add to the work note field in your [[mapping-logrhythm|mapping]] section.
+    The work note logs that a new incident is added and includes a link to the incident details. The log work note also updates more details that you add to the work note field in your mapping section.
 
     \[Omitted image "xsiam-filtering-aggregation.png"\] Alt text: Define filtering and aggregation conditions
 
@@ -76,7 +76,3 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-xsiam-schedule-inc-retrieval.md).
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[mapping-logrhythm|Mapping]]

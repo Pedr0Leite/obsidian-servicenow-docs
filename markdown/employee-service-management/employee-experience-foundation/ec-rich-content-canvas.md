@@ -20,7 +20,7 @@ Use the **Rich Content Editor** canvas to create columns to help define and orga
 
 Role required: sn\_cd.content\_manager
 
-After you have completed the **New content** form \(see [Create rich content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-rich-content.md)\) and navigated to the Rich content canvas, you can [[ec-content-library-portal-rich-content|create rich content]].
+After you have completed the **New content** form \(see [Create rich content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-rich-content.md)\) and navigated to the Rich content canvas, you can create rich content.
 
 You can add 1, 2, or 3 columns. Each column acts as a container for other components. Each column component can also be edited by selecting the component and updating the properties under settings.
 
@@ -167,6 +167,3 @@ Then, add components such as images, videos, text boxes, and buttons:
 -   [Add a Link or Link block with the Rich Content Editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-link-block.md)
 -   [Add a Button with the Rich Content Editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-button.md)
 
-## Related
-
-- [[ec-content-library-portal-rich-content|Create rich content]]

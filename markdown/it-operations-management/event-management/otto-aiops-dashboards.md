@@ -15,13 +15,13 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Dashboards
 
-Access [[c_EM|Event Management]] dashboards to monitor system performance, alert trends, and operational metrics for your IT operations.
+Access Event Management dashboards to monitor system performance, alert trends, and operational metrics for your IT operations.
 
 To get to the AIOps dashboards in Service Operation Workspace page, navigate to **Configuration Summary** &gt; **Event Management** &gt; **Report on outcomes** &gt; **Dashboards**.
 
 ## AIOps dashboards
 
-The Dashboards section surfaces three purpose-built AIOps dashboards inside [[workspace-dashboard-use|Service Operations Workspace]], each serving a different reporting need:
+The Dashboards section surfaces three purpose-built AIOps dashboards inside Service Operations Workspace, each serving a different reporting need:
 
 -   [AIOps 360° Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/aiops-360-overview-dashboard.md): A comprehensive view of AIOps activities and their overall impact, including time saved through automation and grouping, workload savings, and incident prevention rates.
 -   [AIOps Value Realization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/value-realization-dashboard.md): Focused on business value metrics, helping stakeholders see the tangible ROI of AIOps adoption.
@@ -29,7 +29,3 @@ The Dashboards section surfaces three purpose-built AIOps dashboards inside [[wo
 
 To open a dashboard, select its tile.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

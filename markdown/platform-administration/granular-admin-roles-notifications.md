@@ -166,13 +166,13 @@ notification\_admin
 
 </td><td>
 
-[[notifications|Notifications]]
+Notifications
 
 </td><td>
 
 Provides access to configure notifications through the sysevent\_email\_action table,with access to the sys\_email\_layout and sysevent\_email\_template tables. Additionally,they can set the digest interval.
 
- For Request Translation user needs to have [[ia-localization-il|localization]]\_requestor role.
+ For Request Translation user needs to have localization\_requestor role.
 
 </td><td>
 
@@ -211,10 +211,5 @@ Provides access to authorize an email account and do test connection. To view lo
 com.glide.mailbox
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-email-admin|Reference]]
+</table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reference-email-admin.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[notifications|Notifications]]
-- [[ia-localization-il|Localization]]

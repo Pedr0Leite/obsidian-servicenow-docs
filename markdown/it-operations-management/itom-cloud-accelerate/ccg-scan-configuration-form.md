@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud Configuration Governance Scan configuration form
 
-The Cloud Configuration Governance Scan configuration form displays detailed information about the [[ccg-scan-configuration|scan configuration]].
+The Cloud Configuration Governance Scan configuration form displays detailed information about the scan configuration.
 
 |Field|Description|
 |-----|-----------|
@@ -23,7 +23,7 @@ The Cloud Configuration Governance Scan configuration form displays detailed inf
 
 ## Configuration tab
 
-Define the configuration settings, such as cloud provider, [[aws-policy-set|policy sets]], target service accounts, and datacenters for the scan.
+Define the configuration settings, such as cloud provider, policy sets, target service accounts, and datacenters for the scan.
 
 <table id="table_ogb_3lv_gsb"><thead><tr><th>
 
@@ -60,13 +60,13 @@ Service account or service-account datacenter combination for the scan.1.  In th
 You can select an Amazon Web Services \(AWS\) management account, and then add all of its member accounts to the scan configuration, subject to the fulfillment of the following conditions:
 
     -   An assume role configuration exists for the management account.
-    -   Cloud [[r-discovery|Discovery]] has completed the datacenter discovery for the member accounts.
-For more information on creating assume role configurations, see [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]].
+    -   Cloud Discovery has completed the datacenter discovery for the member accounts.
+For more information on creating assume role configurations, see [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
 
 2.  Save the form.
 3.  In the empty row of the Datacenter Filters list, double-click the datacenter cell, and then select a datacenter.
 
-If you do not select a datacenter, [[cloud-configuration-governance|Cloud Configuration Governance]] scans all the datacenters that are associated with the service account.
+If you do not select a datacenter, Cloud Configuration Governance scans all the datacenters that are associated with the service account.
 
 
 </td></tr></tbody>
@@ -112,10 +112,3 @@ Comma-separated list of the cloud identifiers.This field appears only when the *
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]]
-- [[ccg-scan-configuration|Scan configuration]]
-- [[aws-policy-set|Policy sets]]
-- [[r-discovery|Discovery]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

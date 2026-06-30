@@ -18,7 +18,7 @@ Visualize and analyze your business flows from automated process data, and act o
 
 ## Summary and insights page
 
-In addition to having a visualization of your process, you can also see interesting facts which can help improve it. [[process-mining|Process Mining]] uses rules and [[cluster-analysis|cluster analysis]] of connections, activities, and routes to deliver these calculated insights to you. From the [[summary-insights-dashboard|Summary and insights page]], you can access statistically relevant findings on such metrics as speed, quality, and cost impacts to your business. You can view an overview of the improvement opportunities as well as a detailed report. You can also create a new finding rule for the project from here.
+In addition to having a visualization of your process, you can also see interesting facts which can help improve it. Process Mining uses rules and cluster analysis of connections, activities, and routes to deliver these calculated insights to you. From the Summary and insights page, you can access statistically relevant findings on such metrics as speed, quality, and cost impacts to your business. You can view an overview of the improvement opportunities as well as a detailed report. You can also create a new finding rule for the project from here.
 
 ## Analyst workbench page
 
@@ -43,19 +43,19 @@ Add, view, and remove notes for a project to help manage tasks, ideas, and insig
 -   **[Export a process to Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/export-to-playbook.md)**  
 Export a process to Playbooks to use the advanced features available from Workflow Studio to improve your processes. This feature works with Now Assist.
 -   **[Comparing projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/comparing-models.md)**  
-[[comparing-models|Comparing projects]] side by side enables you to investigate performance differences or deviations from an ideal route.
+Comparing projects side by side enables you to investigate performance differences or deviations from an ideal route.
 -   **[Automated root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/auto-rca.md)**  
-Find where and why inefficiencies occur within your processes using [[auto-rca|automated root cause analysis]].
+Find where and why inefficiencies occur within your processes using automated root cause analysis.
 -   **[Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md)**  
 When identifying an activity, connection, improvement opportunity, or route as a potential bottleneck, view clusters of keyword descriptions and assignment groups to gain insights.
 -   **[Intent and activity analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/intent-activity-analysis.md)**  
-The [[intent-activity-analysis|Intent and activity analysis]] automates the extraction and interpretation of work notes, enabling analysts to understand task patterns, identify rework, and uncover automation opportunities across end-to-end processes.
+The Intent and activity analysis automates the extraction and interpretation of work notes, enabling analysts to understand task patterns, identify rework, and uncover automation opportunities across end-to-end processes.
 -   **[Work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes-analysis.md)**  
-[[worknotes-analysis|Work notes analysis]] helps you understand the operational reasons behind activity transitions, as recorded in work notes and comments. Typical examples include transitions from resolved to work in progress or changes in assignment groups, such as from service desk to specialist group.
+Work notes analysis helps you understand the operational reasons behind activity transitions, as recorded in work notes and comments. Typical examples include transitions from resolved to work in progress or changes in assignment groups, such as from service desk to specialist group.
 -   **[Idle time analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/idle-time-analysis.md)**  
-[[idle-time-analysis|Idle time analysis]] focuses on the periods when a case is assigned to a team but not yet assigned to a specific resource. This is the time during which the case remains inactive, waiting for someone to take action.
+Idle time analysis focuses on the periods when a case is assigned to a team but not yet assigned to a specific resource. This is the time during which the case remains inactive, waiting for someone to take action.
 -   **[Touchpoint analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/touchpoint-analysis.md)**  
-[[touchpoint-analysis|Touchpoint analysis]] studies specific record updates within a process to identify areas of high interaction. This enables process optimization by surfacing opportunities for automation, ultimately improving performance and lowering operational costs.
+Touchpoint analysis studies specific record updates within a process to identify areas of high interaction. This enables process optimization by surfacing opportunities for automation, ultimately improving performance and lowering operational costs.
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
@@ -64,14 +64,3 @@ The [[intent-activity-analysis|Intent and activity analysis]] automates the extr
 
 [Create a project or template using Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[comparing-models|Comparing projects]]
-- [[auto-rca|Automated root cause analysis]]
-- [[intent-activity-analysis|Intent and activity analysis]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[idle-time-analysis|Idle time analysis]]
-- [[touchpoint-analysis|Touchpoint analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Incident Management integrations, Reference, Incident Management, I
 
 # Universal Request integration - Incident Management
 
-[[c_IncidentManagement|Incident Management]] integrates with Universal Request to provide incident-related service as unified services to users. The integration helps users to have a single service desk.
+Incident Management integrates with Universal Request to provide incident-related service as unified services to users. The integration helps users to have a single service desk.
 
 Install and configure the Universal Request Integration for the Incident Management plugin \(com.snc.incident.universal\_request\). The integration provides the following configurations and functionalities:
 
@@ -22,7 +22,7 @@ Install and configure the Universal Request Integration for the Incident Managem
 
 The integration of Incident Management with Universal Request provides the following features:
 
--   The Universal Request form has the UI action to [[create-an-incident|create an incident]]. The following fields are copied by default from the universal request record to the incident record when a new incident is created:
+-   The Universal Request form has the UI action to create an incident. The following fields are copied by default from the universal request record to the incident record when a new incident is created:
 
     -   universal\_request
     -   short\_description
@@ -71,7 +71,3 @@ You can restrict an incident ticket that contains sensitive information. By mark
 
 **Parent Topic:**[Incident Management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inci-mgmt-integrations.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[create-an-incident|Create an incident]]

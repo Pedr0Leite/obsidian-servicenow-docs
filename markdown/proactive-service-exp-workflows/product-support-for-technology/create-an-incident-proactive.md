@@ -14,7 +14,7 @@ breadcrumb: [Identify affected accounts, Use, Proactive Service Experience Workf
 
 # Create an incident in Proactive Service Experience Workflows
 
-Create an incident record in [[psew-landing-page|Proactive Service Experience Workflows]] to document an issue that your customer is facing.
+Create an incident record in Proactive Service Experience Workflows to document an issue that your customer is facing.
 
 ## Before you begin
 
@@ -205,6 +205,3 @@ The incident is created.
 
 **Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-identify-act-incident.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

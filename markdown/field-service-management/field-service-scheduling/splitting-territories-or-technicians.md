@@ -14,7 +14,7 @@ breadcrumb: [Schedule Optimization, Setting up a Field Service scheduling method
 
 # Running Schedule Optimization jobs for large workloads
 
-Run [[schedule-optimization|Schedule Optimization]] as multiple jobs for large workloads.
+Run Schedule Optimization as multiple jobs for large workloads.
 
 For large workloads, Schedule Optimization runs as multiple jobs rather than one job at a time. The jobs use available ML trainers to process portions of the territories or assignment groups, reducing total processing time for large workloads.
 
@@ -27,7 +27,7 @@ Split qualifiers are a configuration setting that controls whether Schedule Opti
 
 By default, Schedule Optimization supports three concurrent jobs. For information about adjusting this limit, see the `sn_schedule_optim.so_max_solution_threshold` property description.
 
-For property descriptions and supported values, see [[schedule-optimization-properties|Schedule Optimization properties]].
+For property descriptions and supported values, see [Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md).
 
 ## When to use split qualifiers
 
@@ -35,7 +35,7 @@ Consider enabling split qualifiers when:
 
 -   You're optimizing large numbers of territories or work orders
 -   You want to process optimization workloads faster
--   Your instance has ML trainer [[capacity|capacity]] available
+-   Your instance has ML trainer capacity available
 
 ## When not to use split qualifiers
 
@@ -68,8 +68,3 @@ When data sets are small, splitting qualifiers may add extra processing without 
 
 **Solution:** Enable split qualifiers for both batch and intraday optimization, incrementally increasing split count as needed to maintain acceptable optimization times.
 
-## Related
-
-- [[schedule-optimization-properties|Schedule Optimization properties]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[capacity|Capacity]]

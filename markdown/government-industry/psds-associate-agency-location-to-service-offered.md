@@ -12,7 +12,7 @@ breadcrumb: [Case Management, Configure agent workspaces, Configure, Public Sect
 
 # Associate an agency location to a Public Service definition
 
-Associate your government service agency locations with a service definition using the [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]] application. With this association, your government service agency staff can address constituent requests for documents, records, or services that are offered at a particular agency location, and can raise a case on behalf of a constituent or business.
+Associate your government service agency locations with a service definition using the Public Sector Digital Services \(PSDS\) application. With this association, your government service agency staff can address constituent requests for documents, records, or services that are offered at a particular agency location, and can raise a case on behalf of a constituent or business.
 
 ## Before you begin
 
@@ -91,6 +91,4 @@ Check box to activate or deactivate the agency location criteria.
 
     The agency locations criteria are added to the Agency Locations offering Public Service related list.
 
-## Related
 
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

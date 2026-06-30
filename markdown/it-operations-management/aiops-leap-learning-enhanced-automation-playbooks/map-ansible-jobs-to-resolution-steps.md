@@ -15,13 +15,13 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Map Ansible jobs to resolution steps
 
-Create mappings between automation opportunity resolution steps and Ansible job templates to enable automated incident [[ccg-remediation|remediation]].
+Create mappings between automation opportunity resolution steps and Ansible job templates to enable automated incident remediation.
 
 ## Before you begin
 
 Before mapping Ansible jobs to resolution steps:
 
--   The [[ansible-discovery-agent|Ansible discovery agent]] must have analyzed the automation opportunity
+-   The Ansible discovery agent must have analyzed the automation opportunity
 -   Job templates related to the resolution steps must exist and be available in your connected Ansible Automation Platform instance.
 -   The [automation opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/automation-opportunities.md) must have generated resolution steps
 
@@ -58,7 +58,7 @@ Step-to-job mapping creates the relationship between specific resolution steps a
 
     -   Job template name
     -   Description
-    -   Confidence score from the [[r-discovery|discovery]] analysis
+    -   Confidence score from the discovery analysis
 6.  Review your mappings to verify that:
 
     -   Automated steps have appropriate job templates selected.
@@ -71,7 +71,7 @@ Step-to-job mapping creates the relationship between specific resolution steps a
 
 ## Result
 
-The step-to-job mapping is created and activated. The automation opportunity detail page now displays each resolution step with its mapped job templates. Manual steps are indicated with **\(manual\)**. The mapping is available for incident remediation in the [[workspace-dashboard-use|Service Operations Workspace]].
+The step-to-job mapping is created and activated. The automation opportunity detail page now displays each resolution step with its mapped job templates. Manual steps are indicated with **\(manual\)**. The mapping is available for incident remediation in the Service Operations Workspace.
 
 ## Step-to-job mapping
 
@@ -97,9 +97,3 @@ After creating the mapping:
 
 Editing replaces the existing mapping. Don't edit a mapping while it is in use during an active incident remediation.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[ansible-discovery-agent|Ansible discovery agent]]
-- [[r-discovery|Discovery]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

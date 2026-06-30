@@ -26,9 +26,9 @@ Role required:
 -   Users with the pa\_admin or pa\_power\_user role can share dashboards that they can edit.
 -   Users with the admin role can share any dashboard they can access.
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[share-db-in-ac|Share a Platform Analytics dashboard]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Share a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md).
 
-[[access-control|Access control]] list \(ACL\) rules for scoped applications apply to dashboards created within scoped applications. To apply pa\_dashboard ACLs to dashboards within a scoped app, see [Enable pa\_dashboard records in scoped applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/enable-pa-db-records-scoped-apps.md).
+Access control list \(ACL\) rules for scoped applications apply to dashboards created within scoped applications. To apply pa\_dashboard ACLs to dashboards within a scoped app, see [Enable pa\_dashboard records in scoped applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/enable-pa-db-records-scoped-apps.md).
 
 Reports and other data visualizations on dashboards are subject to report\_view ACLs and may not be visible to all users you share a dashboard with. For more information, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md).
 
@@ -49,9 +49,9 @@ For more information, see [Dashboard permissions](https://raw.githubusercontent.
 
 ## About this task
 
-In general, when you share a dashboard, you aren’t granting permission to the [[widgets|widgets]] on that dashboard. Most [[c_Widgets|Performance Analytics widgets]], however, inherit security rules from the dashboards where they’ve been added. If you can view a dashboard, you can see the Performance Analytics widgets on that dashboard.
+In general, when you share a dashboard, you aren’t granting permission to the widgets on that dashboard. Most Performance Analytics widgets, however, inherit security rules from the dashboards where they’ve been added. If you can view a dashboard, you can see the Performance Analytics widgets on that dashboard.
 
-**Note:** Performance Analytics [[list-widgets|List widgets]] don’t show the indicators that you don’t have permission to read. While the dashboard permission applies to the whole Performance Analytics list widget, individual indicators in the widget follow the permissions for those indicators. For more information about indicator permissions, see [Control access to an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToAnIndicator.md).
+**Note:** Performance Analytics List widgets don’t show the indicators that you don’t have permission to read. While the dashboard permission applies to the whole Performance Analytics list widget, individual indicators in the widget follow the permissions for those indicators. For more information about indicator permissions, see [Control access to an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToAnIndicator.md).
 
 When domain separation is enabled and the system property **glide.security.admin.override.accessterm** is not selected, admins must be in the same domain as the dashboard to share it. See Evaluate the admin override at the access level.
 
@@ -98,11 +98,3 @@ When domain separation is enabled and the system property **glide.security.admin
 
 The dashboard is shared and, if specified, an invitation is sent to the invited users.
 
-## Related
-
-- [[share-db-in-ac|Share a Platform Analytics dashboard]]
-- [[par-workspace|Platform Analytics experience]]
-- [[access-control|Access control]]
-- [[widgets|Widgets]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[list-widgets|List widgets]]

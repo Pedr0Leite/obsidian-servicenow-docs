@@ -14,7 +14,7 @@ breadcrumb: [Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversat
 
 # Enhanced natural language handling of user inputs in NLU topic discovery
 
-Give [[virtual-agent-landing-page|Virtual Agent]] the capability of recognizing natural variations on `yes` and `no` from the user, such as `sure` or `nope`. By defining a range of boolean responses as affirmative or negative, Virtual Agent doesn't have to prompt the user to restate their preference.
+Give Virtual Agent the capability of recognizing natural variations on `yes` and `no` from the user, such as `sure` or `nope`. By defining a range of boolean responses as affirmative or negative, Virtual Agent doesn't have to prompt the user to restate their preference.
 
 When Virtual Agent doesn't understand unexpected user input, it prompts the user again for information that it can understand. Starting with the Tokyo release, Virtual Agent can understand natural variations in boolean "yes/no" responses, such as `yep` or `nah`.
 
@@ -41,6 +41,3 @@ Add enhanced natural language handling for boolean user responses to your Virtua
 
 **Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -31,7 +31,7 @@ With the legacy Simple Security Manager, you could secure fields and tables by a
 
 ## Contextual security and roles
 
-You can grant roles to [[users|users]] or groups. However, after installing the Contextual Security Manager, the **roles** field on the user record is no longer checked and no longer appears on your user and group forms. Instead, you must add roles to the Roles related list instead of to the user or group record.
+You can grant roles to users or groups. However, after installing the Contextual Security Manager, the **roles** field on the user record is no longer checked and no longer appears on your user and group forms. Instead, you must add roles to the Roles related list instead of to the user or group record.
 
 Applications and modules contain lists of the roles required to view them. For example, to view the System Definition application, the admin role is required. Security rights for applications and modules are still defined using role arrays.
 
@@ -55,12 +55,12 @@ The Contextual Security Manager is active in the base system. If there are many 
 **Note:** After activating Role Management V2, you must set the glide.role\_management.v2.audit\_roles system property to allow the Audit Roles table to create audit records related to user roles. To learn more about setting this property and about the Audit Roles table, see:
 
 -   [Enable role auditing with Contextual Security: Role Management V2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/enable-audit-roles.md).
--   [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+-   [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md) in Instance Security Hardening Settings.
 -   [Audit user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/audit-user-roles.md)
 
 ## Security Attribute Conditions
 
-Starting with the Vancouver release, ACL rules support a Security Attribute Condition type in addition to the standard role, condition, and script fields. Security Attribute Conditions evaluate properties of the current user or session, such as group membership, [[c_Authentication|authentication]] state, or network location, to determine whether access is granted.
+Starting with the Vancouver release, ACL rules support a Security Attribute Condition type in addition to the standard role, condition, and script fields. Security Attribute Conditions evaluate properties of the current user or session, such as group membership, authentication state, or network location, to determine whether access is granted.
 
 Security Attribute Conditions can be defined as local or existing:
 
@@ -73,11 +73,5 @@ Security Attribute Conditions can be defined as local or existing:
     The condition references a Security Attribute condition already defined on another ACL, enabling reuse across multiple rules.
 
 
-For a complete list of built-in security attribute types and [[sc-configuration|configuration]] details, see [Security Attributes Fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/security-attribute-fundamentals.md) and [Security Attribute Scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/security-attribute-scope.md).
+For a complete list of built-in security attribute types and configuration details, see [Security Attributes Fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/security-attribute-fundamentals.md) and [Security Attribute Scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/security-attribute-scope.md).
 
-## Related
-
-- [[users|Users]]
-- [[sc-hardening|Security hardening]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]

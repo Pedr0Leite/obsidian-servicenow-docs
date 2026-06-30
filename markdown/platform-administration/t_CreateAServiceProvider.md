@@ -32,7 +32,7 @@ Administrators also have the option of configuring how a device's service provid
 
 3.  Select **Update**.
 
-4.  Select **Save** on the [[preferences-landing|Notification Preferences]] page.
+4.  Select **Save** on the Notification Preferences page.
 
 <table id="table_fhh_d32_nr"><thead><tr><th>
 
@@ -80,7 +80,7 @@ Advanced script
 
 </td><td>
 
-Used for custom [[notifications|notifications]] that run a script rather than construct a traditional SMS/email. This is used when all outbound SMS messages must run through a central SMS hub, as opposed to being sent directly from the instance to the SMS provider. Advanced users can construct a script in this field that will send a notification to an old style numeric pager that can’t receive SMS communications. This field is rarely used and employs advanced scripts. Contact your representative to assist you with any advanced SMS scripting.
+Used for custom notifications that run a script rather than construct a traditional SMS/email. This is used when all outbound SMS messages must run through a central SMS hub, as opposed to being sent directly from the instance to the SMS provider. Advanced users can construct a script in this field that will send a notification to an old style numeric pager that can’t receive SMS communications. This field is rarely used and employs advanced scripts. Contact your representative to assist you with any advanced SMS scripting.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Construction script
 
 </td><td>
 
-Enables you to script the email address construction as you would in a business rule. For example, `abc + current.phone_number + def@text.att.net` would construct an email address of `abc2223334444def@text.att.net`.**Note:** `Current` is a [[reference-email-admin|reference]] to the device, not the service provider, therefore the *current.phone\_number* variable that uses the device's `phone_number` value.
+Enables you to script the email address construction as you would in a business rule. For example, `abc + current.phone_number + def@text.att.net` would construct an email address of `abc2223334444def@text.att.net`.**Note:** `Current` is a reference to the device, not the service provider, therefore the *current.phone\_number* variable that uses the device's `phone_number` value.
 
 </td></tr><tr><td>
 
@@ -124,18 +124,10 @@ Optional attributes of an SMS device used inside an SMS service provider's **Adv
 
 </td></tr></tbody>
 </table>
--   **[[t_SelectingAServiceProvider|Select a service provider]]**  
+-   **[Select a service provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectingAServiceProvider.md)**  
 You can configure how a device's service provider affects the construction of the device's email address.
--   **[[r_SMSNotificationAdvancedScripting|SMS notification advanced scripting]]**  
+-   **[SMS notification advanced scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SMSNotificationAdvancedScripting.md)**  
 You can use these objects and their attributes in your advanced notification scripts on the SMS Notification Service Provider form.
 
-**Parent Topic:**[[c_SubscriptionBasedNotifications|Subscription-based notifications]]
+**Parent Topic:**[Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 
-## Related
-
-- [[t_SelectingAServiceProvider|Select a service provider]]
-- [[r_SMSNotificationAdvancedScripting|SMS notification advanced scripting]]
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]
-- [[reference-email-admin|Reference]]

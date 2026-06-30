@@ -66,7 +66,7 @@ Create Stakeholders
 
 </td><td>
 
-Unused by [[sir-landing-page|Security Incident Response]].
+Unused by Security Incident Response.
 
 </td></tr><tr><td>
 
@@ -119,6 +119,4 @@ Description of the questionnaire.
 </td></tr></tbody>
 </table>5.  Select **Submit** to save the category.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

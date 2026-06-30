@@ -14,17 +14,17 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Create a purchasing assignment rule
 
-Automatically assign a [[sourcing-request|sourcing request]], negotiation, or [[purchase-requisition|purchase requisition]] to a procurement specialist user or a task fulfiller’s group based on pre-defined conditions by using a purchasing assignment rule.
+Automatically assign a sourcing request, negotiation, or purchase requisition to a procurement specialist user or a task fulfiller’s group based on pre-defined conditions by using a purchasing assignment rule.
 
 ## Before you begin
 
-To create a purchasing assignment rule, you must have set up your product catalog \(with the necessary product categories, product models, and [[supplier|supplier]] products\) and should be able to raise a purchase request. For more information on how to set up your product catalog, see [Create a product category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), [Create a product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md), and [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md). You should have also set up user attributes on the sys\_user record appropriately.
+To create a purchasing assignment rule, you must have set up your product catalog \(with the necessary product categories, product models, and supplier products\) and should be able to raise a purchase request. For more information on how to set up your product catalog, see [Create a product category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), [Create a product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md), and [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md). You should have also set up user attributes on the sys\_user record appropriately.
 
 Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-You can create a purchasing assignment rule to route sourcing requests, [[negotiations|negotiations]], or purchase requisitions to an individual or group, from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+You can create a purchasing assignment rule to route sourcing requests, negotiations, or purchase requisitions to an individual or group, from the Sourcing and Purchasing Automation module.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ You can create a purchasing assignment rule to route sourcing requests, [[negoti
     |Field|Description|
     |-----|-----------|
     |Name|The name you assign to the assignment rule.|
-    |Application|The application containing this record. In this case, it displays the default application, which is [[psm-overview|Sourcing and Procurement Operations]].|
+    |Application|The application containing this record. In this case, it displays the default application, which is Sourcing and Procurement Operations.|
     |Active|Option to decide if this rule is in use.|
 
 4.  Select the **Applies To** tab and fill in the fields.
@@ -95,11 +95,3 @@ Combination of conditions that must be met before the task is assigned to a user
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[psm-overview|Sourcing and Procurement Operations]]

@@ -28,7 +28,7 @@ When you add an entity to an engagement, the corresponding risks, controls, test
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -68,6 +68,4 @@ When you add an entity to an engagement, the corresponding risks, controls, test
 
     As an audit supervisor, you can review the risks, controls, test plans, and indicator results, and update the scope of the engagement, if necessary. You can also begin creating and planning audit tasks for the engagement.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

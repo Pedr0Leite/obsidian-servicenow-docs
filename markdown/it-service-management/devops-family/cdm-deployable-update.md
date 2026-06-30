@@ -14,11 +14,11 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # Update the associations for a deployable
 
-Update the name and description of a deployable as well as its associations with [[dex-workspace-application-tab|applications]] and other items. This procedure is optional.
+Update the name and description of a deployable as well as its associations with applications and other items. This procedure is optional.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_policy\_editor or cdm\_editor or cdm\_admin
 
@@ -30,7 +30,7 @@ This optional procedure explains how to update the details of a deployable defin
 
 ## Procedure
 
-1.  On the **[[settings-mobile|Settings]]** tab for an application, select **Deployables** in the tree view.
+1.  On the **Settings** tab for an application, select **Deployables** in the tree view.
 
 2.  Select the check box for the deployable, select **Edit**, and then update the settings for the deployable.
 
@@ -128,8 +128,3 @@ Text description that helps other users understand the purpose, scope, and inten
 
 [Create or update a variable CDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

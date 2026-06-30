@@ -14,7 +14,7 @@ breadcrumb: [Explore, Task Intelligence for ITSM, IT Service Management]
 
 # Task Intelligence for ITSM Admin Console
 
-Admin Console for [[c-itsm-task-intelligence|Task Intelligence for ITSM]] provides you with an interface to create, train, access, set preferences, deploy, and monitor predictive [[c_Models|models]] used for incident predictions and similar patterns recognition.
+Admin Console for Task Intelligence for ITSM provides you with an interface to create, train, access, set preferences, deploy, and monitor predictive models used for incident predictions and similar patterns recognition.
 
 ServiceNow® Task Intelligence for ITSM admin console supports the following features:
 
@@ -23,7 +23,3 @@ ServiceNow® Task Intelligence for ITSM admin console supports the following fea
 -   Track and monitor the performance of the deployed model.
 -   Edit the deployed model based on its performance results, then train and deploy the model again.
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[c_Models|Models]]

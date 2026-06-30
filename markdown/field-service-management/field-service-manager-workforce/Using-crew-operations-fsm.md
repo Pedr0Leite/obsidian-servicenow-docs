@@ -14,7 +14,7 @@ breadcrumb: [Managing workforce, Use, Field Service Management]
 
 # Using Field Service Crew operations
 
-Use [[field-service-crew-scheduling|Field Service Crew Operations]] to assign the same set of resources repeatedly to the tasks that requires a crew to work on them.
+Use Field Service Crew Operations to assign the same set of resources repeatedly to the tasks that requires a crew to work on them.
 
 **Related topics**  
 
@@ -23,6 +23,3 @@ Use [[field-service-crew-scheduling|Field Service Crew Operations]] to assign th
 
 [Managing crew tasks using the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/executing-crew-tasks.md)
 
-## Related
-
-- [[field-service-crew-scheduling|Field Service Crew Operations]]

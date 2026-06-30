@@ -17,13 +17,10 @@ breadcrumb: [Use, Talent Profile, Hiring Experiences, HR Service Delivery, Emplo
 Email communications and other targeted communications like campaigns provide efficient means of conveying important messages to different stakeholders.
 
 -   Create campaigns as the means of targeted engagement for both the internal and external applicants. For more information, see [Creating campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md).
--   Send personalized email communications to all your internal or external talent types from different access points within the [[recruitment-workspace-concept|Recruitment workspace]]. For more information, see:
+-   Send personalized email communications to all your internal or external talent types from different access points within the Recruitment workspace. For more information, see:
     -   [Send an email from a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/send-email-to-applicants.md)
     -   [Send an email from a talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/send-email-tp.md)
     -   [Send an email from a talent pool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/send-email-tpool.md)
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

@@ -28,7 +28,7 @@ Role required: sn\_csm\_pricing.pricelist\_manager and sn\_sales\_common.sales\_
 
     After the sales agreement is created, a message displays the sales agreement number. The request tracker enables agents to monitor the progress of sales agreements creation. All the information on the sales agreement is captured from the selected quote.
 
-    For more information, see [[quote-create-sales-agreement|Enable a sales agreement in a quote]].
+    For more information, see [Enable a sales agreement in a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-create-sales-agreement.md).
 
 4.  Select the sales agreement number.
 
@@ -37,13 +37,7 @@ Role required: sn\_csm\_pricing.pricelist\_manager and sn\_sales\_common.sales\_
 
 ## What to do next
 
-An order can be placed in the [[explore-order-management|Order Management]] application based on a sales agreement. For more info, see [[som-add-sales-agreement-to-order|Add a sales agreement to an order in Order Management]].
+An order can be placed in the Order Management application based on a sales agreement. For more info, see [Add a sales agreement to an order in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-add-sales-agreement-to-order.md).
 
-**Parent Topic:**[[sales-agreement-mgmt-using|Using Sales Agreement Management]]
+**Parent Topic:**[Using Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-agreement-mgmt-using.md)
 
-## Related
-
-- [[quote-create-sales-agreement|Enable a sales agreement in a quote]]
-- [[som-add-sales-agreement-to-order|Add a sales agreement to an order in Order Management]]
-- [[sales-agreement-mgmt-using|Using Sales Agreement Management]]
-- [[explore-order-management|Order management]]

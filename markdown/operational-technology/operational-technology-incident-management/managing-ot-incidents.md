@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Managing OT incidents
 
-Depending on your assigned user role, you can manage OT incidents in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Depending on your assigned user role, you can manage OT incidents in the Industrial Workspace.
 
 In the Industrial Workspace, the OT incident writer can create and update an OT incident form from the following places:
 
@@ -35,6 +35,3 @@ The OT incident administrator can go to any OT incident record in the Industrial
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

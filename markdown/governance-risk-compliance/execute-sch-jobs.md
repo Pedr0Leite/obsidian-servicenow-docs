@@ -12,7 +12,7 @@ breadcrumb: [Gathering data aligned with the CSDM setup, Manage, Operational Res
 
 # Execute the scheduled jobs
 
-Execute the scheduled jobs required for the main node relationships. After the scheduled jobs are executed, CSDM objects with their configured relationships are imported into [[grc-opres-landing-page|Operational Resilience]] for reporting.
+Execute the scheduled jobs required for the main node relationships. After the scheduled jobs are executed, CSDM objects with their configured relationships are imported into Operational Resilience for reporting.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 Before executing the scheduled job, ensure that the following pre-requisites are met:
 
-1.  [[entity-type-in-risk-ws|Entity types]] and pillars have been defined and entities have been generated.
+1.  Entity types and pillars have been defined and entities have been generated.
 2.  Configuration item \(CI\) relationships have been created as required for the Main node configuration relationships.
 
 Once all these pre-requisites are met, you can execute the scheduled job.
@@ -31,7 +31,7 @@ Once all these pre-requisites are met, you can execute the scheduled job.
 
 **Note:**
 
-The **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** scheduled jobs [[create-new-entity-ws|create an entity]] hierarchy and all types of red flags. All CSDM and red flags are rolled up based on their entity hierarchy.
+The **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** scheduled jobs create an entity hierarchy and all types of red flags. All CSDM and red flags are rolled up based on their entity hierarchy.
 
 The scheduled jobs are configured to run according to the following schedule:
 
@@ -77,11 +77,6 @@ Before running the scheduled job, verify that the relationships are set up for a
     -   sn\_oper\_res\_critical\_service\_outage
     -   sn\_oper\_res\_incident
     -   sn\_oper\_res\_issue
-    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [[bs-ov|Business services overview tab]].
+    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [Business services overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bs-ov.md).
 
-## Related
 
-- [[bs-ov|Business services overview tab]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[create-new-entity-ws|Create an entity]]

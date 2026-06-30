@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[Documentviewer|Document Viewer]] is enabled by default. Activate it at the instance level and then enable it at the table level for the tables where you want to use it. Ensure that the system property **com.snc.documentviewer.enable\_document\_viewer** is set to true or create it if it does not already exist. To de-activate Document Viewer, create the system property **com.snc.documentviewer.enable\_document\_viewer** manually and set it to false.
+Document Viewer is enabled by default. Activate it at the instance level and then enable it at the table level for the tables where you want to use it. Ensure that the system property **com.snc.documentviewer.enable\_document\_viewer** is set to true or create it if it does not already exist. To de-activate Document Viewer, create the system property **com.snc.documentviewer.enable\_document\_viewer** manually and set it to false.
 
 ## Procedure
 
@@ -52,6 +52,3 @@ Role required: admin
 
 [Disable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/disable-doc-viewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]

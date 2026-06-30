@@ -22,11 +22,11 @@ Role required: sn\_hr\_er.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  From **Search for Employee or case number**, enter an employee name or click **Skip verification**.
 
-    \[Omitted image "hr-er-case-creation-skip.png"\] Alt text: HR [[hr-case-employee-relations|Employee Relations]] - Skip verification
+    \[Omitted image "hr-er-case-creation-skip.png"\] Alt text: HR Employee Relations - Skip verification
 
     **Note:** Skipping verification enables you to create an ER case without identifying an Opened for person and takes you directly to case details.
 
@@ -62,10 +62,10 @@ The HR service depends on the COE selected or what you select based on communica
 -   Report Discrimination
 -   Report Misconduct
 -   Performance improvement plan\(PIP\)
- [[hr-service-administration|HR services]] available to an employee filter by:
+ HR services available to an employee filter by:
 
 -   COE selected.
--   [[hr-criteria|HR criteria]] for the **Subject person** based on the [[hr-service-configuration|HR service configuration]].
+-   HR criteria for the **Subject person** based on the HR service configuration.
 
 Limit services filter on the **Case Creation Configuration** form. If the HR service field is empty, ensure that you did not remove the Opened for field.
 
@@ -83,7 +83,7 @@ The person the HR service request is for. **Note:** This field does not appear i
 
  Use the choice list to search and select another employee.
 
- Click the **[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] field** icon to view or edit **[[c_HRProfileRecords|HR profile]]** information.
+ Click the **Reference field** icon to view or edit **HR profile** information.
 
 **Note:** Selecting the **Do Not Default Subject Person** HR Service Option for an HR service, prevents the **Subject Person** from automatically filling in when creating an HR case. For more information, see [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
@@ -290,7 +290,7 @@ Description
 
 </td><td>
 
-A longer, detailed description after the ER case is created. Use the Rich Text Format \(RTF\) tools to format your text.Rich text formatting also appears for a case or task description on the [[employee-center-landing-page|Employee Center]] or service portal.
+A longer, detailed description after the ER case is created. Use the Rich Text Format \(RTF\) tools to format your text.Rich text formatting also appears for a case or task description on the Employee Center or service portal.
 
 </td></tr></tbody>
 </table>    The following buttons appear:
@@ -378,13 +378,4 @@ A longer, detailed description after the ER case is created. Use the Rich Text F
 
         Lists other ER cases for the involved parties of the ER case.
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-configuration|HR service configuration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]

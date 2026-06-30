@@ -14,7 +14,7 @@ breadcrumb: [Explore entities, Common GRC features, Governance, Risk, and Compli
 
 # An entity in the workspace view
 
-The Entity form in the workspace provides a complete view of an entity across your organization. The Entity form is listed under the Library menu of the [[list-view-uib-ws|List view]] in the workspace. Select an entity in the list view so that you can display its overview, details, hierarchy, [[entity-type-in-risk-ws|entity types]], or downstream risks.
+The Entity form in the workspace provides a complete view of an entity across your organization. The Entity form is listed under the Library menu of the List view in the workspace. Select an entity in the list view so that you can display its overview, details, hierarchy, entity types, or downstream risks.
 
 ## Overview details on the Entity form
 
@@ -38,7 +38,7 @@ Details tab
 
 </td><td>
 
-Information about the entity such as Name, Active condition that shows whether the entity is active, Owned by, Class, Description, and Location information in the Entity section. The Compliance section displays the Attestation frequency such as Annually.The Cybersecurity [[tprm-risk-profile-what-is|Risk Profile]] \(CRI\) displays the following fields:
+Information about the entity such as Name, Active condition that shows whether the entity is active, Owned by, Class, Description, and Location information in the Entity section. The Compliance section displays the Attestation frequency such as Annually.The Cybersecurity Risk Profile \(CRI\) displays the following fields:
 
 -   **Tier**
 
@@ -48,7 +48,7 @@ Controls are generated based on the change of the tier. If you change the tier v
 
 -   **Tiering assessment**
 
-Assessment method based on the new smart control assessment engine, which has the tiering [[airc-assessment-templates|assessment templates]] as the CRI templates.
+Assessment method based on the new smart control assessment engine, which has the tiering assessment templates as the CRI templates.
 
 -   **Tiering assessor**
 
@@ -57,11 +57,11 @@ User who can perform the tiering assessment.
 
 </td></tr><tr><td>
 
-[[hierarchy-tab|Hierarchy tab]]
+Hierarchy tab
 
 </td><td>
 
-Information about the upstream entities and downstream entities, [[entity-class|entity class]], owner information.
+Information about the upstream entities and downstream entities, entity class, owner information.
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Details of the content reference such as Content reference, Description, and ver
 
 </td></tr><tr><td>
 
-[[risk-assessments|Risk assessments]]
+Risk assessments
 
 </td><td>
 
@@ -218,18 +218,7 @@ Stakeholders with customizable roles relevant to single and composite entities, 
 \[Omitted image "360-degree-view-of-the-entity.png"\] Alt text: 360 degree view of the entity
 
 -   **[Create an entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-ws.md)**  
-[[create-new-entity-ws|Create an entity]] for your enterprise. In [[r_WhatIsGRC|Governance, Risk, and Compliance]], entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
+Create an entity for your enterprise. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[hierarchy-tab|Hierarchy tab]]
-- [[entity-class|entity class]]
-- [[risk-assessments|risk assessments]]
-- [[create-new-entity-ws|Create an entity]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

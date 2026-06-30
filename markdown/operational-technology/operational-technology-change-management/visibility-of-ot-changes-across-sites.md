@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Visibility of change model records across sites
 
-Depending on your [[operational-technology-overview|Operational Technology]] \(OT\) change role and site role, you can view, create, or edit the change model record for your site or other sites.
+Depending on your Operational Technology \(OT\) change role and site role, you can view, create, or edit the change model record for your site or other sites.
 
 ## OT Change roles and visibility to change model records​
 
@@ -71,11 +71,7 @@ sn\_ot\_change\_manager with no site role
 Can’t view or edit change models for any site. Can only view the base system change models that aren't associated with any site.
 
 </td></tr></tbody>
-</table>If you have the sn\_ot\_change\_admin role, you can use the change models to [[create-ot-change-request|create a change request]] for any site.
+</table>If you have the sn\_ot\_change\_admin role, you can use the change models to create a change request for any site.
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[create-ot-change-request|Create a change request]]

@@ -14,13 +14,13 @@ breadcrumb: [Install the Task Mining agent, Configure, Task Mining, Platform Ana
 
 # Install the Task Mining agent for Windows
 
-Install the [[task-mining|Task Mining]] desktop agent on Windows workstations using the installation wizard. Convert the agent installer to `.intunewin` format and deploy it to managed Windows devices through the Microsoft Intune admin center.
+Install the Task Mining desktop agent on Windows workstations using the installation wizard. Convert the agent installer to `.intunewin` format and deploy it to managed Windows devices through the Microsoft Intune admin center.
 
 ## Before you begin
 
 Role required: Task Mining Agent Install
 
-**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to [[install-agent|install the Task Mining agent]]. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
+**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to install the Task Mining agent. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
 You have access to the Microsoft Intune admin center.
 
@@ -146,7 +146,3 @@ Check the Notifications section for upload progress. Once the package is uploade
 
 Verify the deployment by opening the company portal on a target device, search for Task Mining Agent, and check the installation status.
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[install-agent|Install the Task Mining agent]]

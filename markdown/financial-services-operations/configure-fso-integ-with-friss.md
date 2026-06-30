@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-1.  In the **Application** search field, search for **[[financial-services-operations-core-data-model|Financial Services Operations Core]]**.
+1.  In the **Application** search field, search for **Financial Services Operations Core**.
 2.  In the Name **Search** field, search for the **Look up Claim Fraud Score via Spoke selector** option and open it.
 
 
@@ -76,9 +76,5 @@ Description
     The Execution Details open.
 
 
-**Parent Topic:**[[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
+**Parent Topic:**[Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-friss-overview.md)
 
-## Related
-
-- [[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

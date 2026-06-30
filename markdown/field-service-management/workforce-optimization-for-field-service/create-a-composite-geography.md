@@ -101,12 +101,9 @@ Select the geographies which you want to comprise into a composite geography. **
 
 ## Result
 
-The composite geography encompasses all the latitude, longitude, and geo points contained within the selected geographies. Associate the composite geography to a territory to [[manage-work-order-tasks-dw|manage work order tasks]] in the Territory Planning console. The geography appears visually on the map when its territory is selected in the Territory Planning console.
+The composite geography encompasses all the latitude, longitude, and geo points contained within the selected geographies. Associate the composite geography to a territory to manage work order tasks in the Territory Planning console. The geography appears visually on the map when its territory is selected in the Territory Planning console.
 
 ## What to do next
 
 Link the geography to a territory. For more information, see [Create a Field Service territory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-territories-territory-planning-console.md).
 
-## Related
-
-- [[manage-work-order-tasks-dw|Manage work order tasks]]

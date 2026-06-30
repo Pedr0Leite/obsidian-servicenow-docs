@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Create a paycheck period
 
-Assign a time period for an employee shopper to pay back costs in excess of the allocated credit amount in [[shopping-hub-overview|Shopping Hub]] Home, by creating a paycheck period.
+Assign a time period for an employee shopper to pay back costs in excess of the allocated credit amount in Shopping Hub Home, by creating a paycheck period.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ You can create a paycheck period for an employee shopper from Shopping Hub.
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

@@ -12,7 +12,7 @@ breadcrumb: [Activate, Configure, Field Service Management]
 
 # Additional plugins for Field Service Management
 
-After [[fsm-application-landing-page|Field Service Management]] is activated, you can activate additional plugins that provide demo data and enable a variety of features.
+After Field Service Management is activated, you can activate additional plugins that provide demo data and enable a variety of features.
 
 You must have the admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -126,7 +126,7 @@ Enables customers to leverage machine learning algorithms for availing its vario
 
 </td></tr><tr><td>
 
-Field Service [[capacity-management|Capacity and Reservations Management]]
+Field Service Capacity and Reservations Management
 
 </td><td>
 
@@ -134,7 +134,7 @@ com.snc.fsm\_capacity\_management
 
 </td><td>
 
-Provides capabilities to manage task [[capacity|capacity]] for groups and field agents. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
+Provides capabilities to manage task capacity for groups and field agents. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Repository to store the FSM Custom Components to be used in the UIB Central Disp
 
 </td></tr><tr><td>
 
-Field Service Management Configurable [[dispatcher-activities|Dispatcher Workspace]]
+Field Service Management Configurable Dispatcher Workspace
 
 </td><td>
 
@@ -198,7 +198,7 @@ Enables Field Service agents to provide timely support to customers while away f
 
 </td></tr><tr><td>
 
-[[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]]
+Field Service Management Access Hours Management
 
 </td><td>
 
@@ -234,7 +234,7 @@ Improves agent utilization by recommending tasks to fill agent schedules.
 
 </td></tr><tr><td>
 
-[[field-service-crew-scheduling|Field Service Crew Operations]]
+Field Service Crew Operations
 
 </td><td>
 
@@ -246,7 +246,7 @@ Enables organizations to assign the same set of resources repeatedly to differen
 
 </td></tr><tr><td>
 
-[[territory-planning-fsm|Field Service Territory Planning]]
+Field Service Territory Planning
 
 </td><td>
 
@@ -266,7 +266,7 @@ com.snc.fsm\_advanced\_parts\_sourcing
 
 </td><td>
 
-Enables Field Service agents to request and source multiple parts. Agents can receive mobile notifications when part requests are raised by their peers. **Note:** This plugin installs several system components such as tables, business rules, and scripts. For more information, see [[advanced-part-souring-components|Advanced Part Sourcing components]].
+Enables Field Service agents to request and source multiple parts. Agents can receive mobile notifications when part requests are raised by their peers. **Note:** This plugin installs several system components such as tables, business rules, and scripts. For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-part-souring-components.md).
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ com.snc.fsm\_template\_management
 
 </td><td>
 
-Enables the [[customizations|advanced configurations]] for work order templates to dynamically fetch information for work orders and create tasks independently for work orders.
+Enables the advanced configurations for work order templates to dynamically fetch information for work orders and create tasks independently for work orders.
 
 </td></tr><tr><td>
 
@@ -302,7 +302,7 @@ sn\_fsm\_po
 
 </td><td>
 
-[[process-opt-fsm|Process Mining for Field Service Management]] creates business process flows from the work order task data in audit trails, allowing process owners to perform in-depth analysis and discover process insights to improve business outcomes.
+Process Mining for Field Service Management creates business process flows from the work order task data in audit trails, allowing process owners to perform in-depth analysis and discover process insights to improve business outcomes.
 
 </td></tr><tr><td>
 
@@ -318,7 +318,7 @@ Enables customer service agents and field service technicians to see work schedu
 
 </td></tr><tr><td>
 
-[[appointment-booking|Appointment Booking]]
+Appointment Booking
 
 </td><td>
 
@@ -368,19 +368,5 @@ Enables users to quickly view important information about records.
 </table>**Related topics**  
 
 
-[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[advanced-part-souring-components|Advanced Part Sourcing components]]
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[capacity|Capacity]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[customizations|Advanced configurations]]
-- [[process-opt-fsm|Process Mining for Field Service Management]]
-- [[appointment-booking|Appointment booking]]

@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-See the [[navigate-using-url|Navigate to a record or module using a URL]] page for an overview of URL syntax in the ServiceNow platform.
+See the [Navigate to a record or module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md) page for an overview of URL syntax in the ServiceNow platform.
 
 The Incidents list offers a quick example of viewing a form within its own tab. This viewing method illustrates how to append the URL string to render more specific content within your site.
 
@@ -38,7 +38,7 @@ The Incidents list offers a quick example of viewing a form within its own tab. 
 
     The URL is comprised of the following elements.
 
-    -   `incident_list.do?` is the call to the list with no parameters passed into it. [[exploring|Explore]] context menu options and list filtering variations to see how the URL string is appended with each action.
+    -   `incident_list.do?` is the call to the list with no parameters passed into it. Explore context menu options and list filtering variations to see how the URL string is appended with each action.
     -   `incident_list.do?sysparm_query=&sysparm_view=ess` is an example of how the view is passed in the URL string.
     -   `incident_list.do?sysparm_query=GROUPBYactive&sysparm_view=` is how the URL looks when the **group by** option is chosen from the context menu.
     -   `incident_list.do?sysparm_query=category%3Dsoftware` is the result of applying a **category is software** filter to the list.
@@ -46,14 +46,9 @@ The Incidents list offers a quick example of viewing a form within its own tab. 
 
 
 -   **[Element link examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_Examples.md)**  
-View examples that show how to [[t_CreateANewSite|create a site]] pointing to various system data in several different data tables.
+View examples that show how to create a site pointing to various system data in several different data tables.
 -   **[Page source view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_PageSourceView.md)**  
 Use the tools available in your browser to view the frame source page and understand what URL address bars pass between system frame sets.
 
 **Parent Topic:**[Content Management integration points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)
 
-## Related
-
-- [[navigate-using-url|Navigate to a record or module using a URL]]
-- [[exploring|Explore]]
-- [[t_CreateANewSite|Create a site]]

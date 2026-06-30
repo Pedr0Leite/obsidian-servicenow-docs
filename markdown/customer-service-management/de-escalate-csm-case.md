@@ -18,7 +18,7 @@ The de-escalation requester can de-escalate cases or accounts when the cause of 
 
 Role required:
 
--   sn\_customerservice.deescalation\_requester or sn\_crm\_escalation\_admin to [[osp-escalate-case|escalate a case]].
+-   sn\_customerservice.deescalation\_requester or sn\_crm\_escalation\_admin to escalate a case.
 -   sn\_customerservice.deescalation\_requester or sn\_crm\_escalation\_admin or sn\_crm\_account\_data\_manager to escalate an account.
 
 sn\_customerservice.deescalation\_requester
@@ -33,7 +33,7 @@ sn\_customerservice.deescalation\_requester
 
     This opens the De-escalate Case pop-up window.
 
-    \[Omitted image "escalated-case-form.png"\] Alt text: Escalated [[r_CustomerServiceCaseForm|case form]] with De-escalate UI action in the form header
+    \[Omitted image "escalated-case-form.png"\] Alt text: Escalated case form with De-escalate UI action in the form header
 
 3.  Enter the necessary information in the **De-escalation Justification** field.
 
@@ -41,7 +41,4 @@ sn\_customerservice.deescalation\_requester
 
     The state of the escalation record changes to **Closed**.
 
-## Related
 
-- [[osp-escalate-case|Escalate a case]]
-- [[r_CustomerServiceCaseForm|Case form]]

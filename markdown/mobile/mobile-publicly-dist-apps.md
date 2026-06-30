@@ -18,7 +18,7 @@ Public distribution can be used to distribute iOS or Android branded application
 
 -   If you select **iOS &amp; Android** as your **Operating System \(OS\)** when you request your branded mobile app, all builds are delivered to you at the same time. This means that both your Android and iOS apps are delivered to you within the publicly distributed iOS delivery timeline of 1 week.
 -   If you have an implementation date deadline within days, it's suggested that you request the Android app first, test it, and approve its branding. Then submit your iOS app request.
--   Another way to expedite delivery of your branded app is to test the mobile workflows and functions [[use-mobile-platform-landing|using the mobile apps]] that are available on the ServiceNow® Store while your branded app is being built. Your branded app uses all the same workflows and mobile app functions as the apps that are available on the ServiceNow Store. Then when your branded app is available, you only need to test the branding, the login flow for pre-filled instance URLs, [[sg-mobile-security-push-notif|push notifications]], and the app store listings.
+-   Another way to expedite delivery of your branded app is to test the mobile workflows and functions using the mobile apps that are available on the ServiceNow® Store while your branded app is being built. Your branded app uses all the same workflows and mobile app functions as the apps that are available on the ServiceNow Store. Then when your branded app is available, you only need to test the branding, the login flow for pre-filled instance URLs, push notifications, and the app store listings.
 
 ## iOS branded apps for public distribution
 
@@ -36,10 +36,5 @@ The following image summarizes the workflow. It usually takes about a week or le
 
 \[Omitted image "mobile-android-public-brand-app-proc.png"\] Alt text: Public publishing process for Android branded apps.
 
-**Parent Topic:**[[mobile-distribution|Distributing your mobile app]]
+**Parent Topic:**[Distributing your mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-distribution.md)
 
-## Related
-
-- [[mobile-distribution|Distributing your mobile app]]
-- [[use-mobile-platform-landing|Using the mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]

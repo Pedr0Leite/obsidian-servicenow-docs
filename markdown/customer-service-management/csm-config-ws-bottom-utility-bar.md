@@ -14,7 +14,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 The dock is a bar at the bottom of the workspace where agents can see drafts of current comments, work notes, or emails at a glance.
 
-\[Omitted image "csm-config-ws-case-bottom-bar.png"\] Alt text: The dock is a bar at the bottom of the workspace where agents can minimize drafts of comments, work notes, or emails that they have created in [[csm-front-line-case-page-modeless-dialogs|modeless dialogs]]
+\[Omitted image "csm-config-ws-case-bottom-bar.png"\] Alt text: The dock is a bar at the bottom of the workspace where agents can minimize drafts of comments, work notes, or emails that they have created in modeless dialogs
 
 Agents can create drafts of comments, work notes, or emails in modeless dialogs and then minimize these drafts to the dock at the bottom of the workspace page. This feature centralizes drafts in the dock rather than behind a button.
 
@@ -24,10 +24,5 @@ The dock can also include actions such as **Manage** and **Save**.
 
 **Note:** Depending on the record page configuration, action buttons can appear in the dock or at the top of the page in the action bar.
 
-The dock is a UI element that appears at the bottom of the workspace and is available on all of the [[csm-workspaces-configure|CSM Configurable Workspace]] [[csm-config-workspace-record-pages|record pages]].
+The dock is a UI element that appears at the bottom of the workspace and is available on all of the CSM Configurable Workspace [record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md).
 
-## Related
-
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

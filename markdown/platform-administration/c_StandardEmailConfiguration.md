@@ -28,22 +28,16 @@ Below is an example of a basic email network with ServiceNow as the domain.
         If your internal mail servers send and receive messages via a TLS-encrypted channel, ServiceNow mail servers support that communication.
 
     -   Provide a dedicated mailbox for your instance.
--   Pre-configured [[c_EmailAccounts|email accounts]] to connect to ServiceNow mail servers.
+-   Pre-configured email accounts to connect to ServiceNow mail servers.
     -   An SMTP account sends email to your primary Mail Exchange \(MX\) server from your instance email address of instance@service-now.com.
     -   A POP3 account receives email sent to your instance email address of instance@service-now.com.
 -   High availability features from ServiceNow datacenters.
 -   Spam detection for incoming email.
 
-Administrators who want to use basic email services can do so by enabling the [[c_EmailProperties|email properties]] for sending and receiving email.
+Administrators who want to use basic email services can do so by enabling the email properties for sending and receiving email.
 
--   **[[t_ConfiguringStandardEmail|Enable basic email]]**  
+-   **[Enable basic email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md)**  
 Enable basic email to use ServiceNow - provided email servers and accounts.
 
-**Parent Topic:**[[configuring-email-admin|Configure email administration]]
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-admin.md)
 
-## Related
-
-- [[t_ConfiguringStandardEmail|Enable basic email]]
-- [[configuring-email-admin|Configure email administration]]
-- [[c_EmailAccounts|Email accounts]]
-- [[c_EmailProperties|Email properties]]

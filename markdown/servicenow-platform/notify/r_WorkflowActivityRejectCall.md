@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Reject workflow
 
-The **Reject** workflow activity rejects an incoming [[notify-landing-page|Notify]] call.
+The **Reject** workflow activity rejects an incoming Notify call.
 
 You can use the **reject** activity to disconnect only calls that have not yet been answered. Use the **hang up** activity to disconnect calls that have been answered.
 
@@ -28,6 +28,3 @@ Input variables determine the initial behavior of the activity.
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

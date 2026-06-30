@@ -16,7 +16,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 View a list of search results as well as options for sorting and filtering the items in the list. You can also use knowledge search in other Service Portals.
 
-**Note:** When you perform a new search, the filters you selected earlier on the [[knowledge-management|Knowledge Management]] search results page are not saved. You must reselect the filters that you want to apply for every search.
+**Note:** When you perform a new search, the filters you selected earlier on the Knowledge Management search results page are not saved. You must reselect the filters that you want to apply for every search.
 
 <table id="table_qtz_wzp_kbb"><thead><tr><th>
 
@@ -127,6 +127,3 @@ The search functionality in Knowledge Management Service Portal pages uses the *
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

@@ -15,11 +15,11 @@ breadcrumb: [AI Agent Topology Mapping, ITOM Visibility, IT Operations Managemen
 
 # Exploring AI Agent Topology Mapping
 
-Learn how [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]] discovers AI infrastructure components across cloud platforms using patterns.
+Learn how AI Agent Topology Mapping discovers AI infrastructure components across cloud platforms using patterns.
 
 ## AI Agent Topology Mapping overview
 
-AI Agent Topology Mapping extends the pattern-based [[r-discovery|discovery]] framework to identify and track AI-specific components in your environment. The application uses patterns to discover AI components from cloud platforms, populating the CMDB with configuration items \(CIs\). This approach provides centralized visibility into your AI infrastructure alongside traditional IT assets. For more information about how patterns work, see [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md).
+AI Agent Topology Mapping extends the pattern-based discovery framework to identify and track AI-specific components in your environment. The application uses patterns to discover AI components from cloud platforms, populating the CMDB with configuration items \(CIs\). This approach provides centralized visibility into your AI infrastructure alongside traditional IT assets. For more information about how patterns work, see [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md).
 
 AI Agent Topology Mapping discovers the following AI components:
 
@@ -45,7 +45,7 @@ Discovery admin
 
 </td><td>
 
-Can view, create, edit, and publish patterns. The role enables users to run discovery, migrate probes or CAPI to patterns, and access discovery logs and [[otto-aiops-dashboards|dashboards]].
+Can view, create, edit, and publish patterns. The role enables users to run discovery, migrate probes or CAPI to patterns, and access discovery logs and dashboards.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Can grant the MID Server access to the instance.
 
 The following workflow describes how a discovery administrator uses AI Agent Topology Mapping to discover and track AI infrastructure components.
 
-1.  [[install-ai-agent-topology-mapping|Install AI Agent Topology Mapping]] patterns from the ServiceNow Store.
+1.  Install AI Agent Topology Mapping patterns from the ServiceNow Store.
 2.  Configure cloud credentials with appropriate permissions for AI platforms.
 3.  Create or update discovery schedules for environments containing AI resources.
 4.  Run discovery to identify AI components and populate the CMDB.
@@ -129,9 +129,3 @@ To learn more about configuring and using AI Agent Topology Mapping, see:
 -   [Configuring AI Agent Topology Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/configuring-ai-agent-topology-mapping.md)
 -   [AI Agent Topology Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ai-agent-topology-mapping-reference.md)
 
-## Related
-
-- [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]]
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[install-ai-agent-topology-mapping|Install AI Agent Topology Mapping]]

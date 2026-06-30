@@ -18,10 +18,10 @@ Fix code in real-time with Now Assist provides the following capabilities:
 
 -   Immediate detection: Identifies potential violations in scripts, includes, and other fields at the moment of edit.
 -   On-screen alerts: Displays findings in real-time with severity levels.
--   Guided resolution: Provides details such as line numbers, [[impact-landing-page|impact]] levels, and steps to resolve found issues.
+-   Guided resolution: Provides details such as line numbers, impact levels, and steps to resolve found issues.
 -   Governance: Supports exception workflows and links to supporting documentation for compliance.
 
-**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time for Platform Health]].
+**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure Fix code in real-time for Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-ai-code-fix-for-platform-health.md).
 
 When working with ServiceNow code, the following development areas are supported with the Fix code in real-time with Now Assist feature:
 
@@ -65,7 +65,7 @@ Recommend
 </td><td>
 
 -   Prevents users from saving the record unless they resolve the issue or provide an exception reason.
--   For more information, refer to [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]].
+-   For more information, refer to [Submit exceptions for Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Displays an informational message without blocking saves or creating finding rec
 </td></tr></tbody>
 </table>If code is misconfigured in those development areas in an instance, Fix code in real-time can be triggered by the developer after a finding is returned for Act or Recommend level findings.
 
-**Note:** Fix code in real-time with Now Assist only displays if there are actual findings for the code, and if there is an Act or Recommend level violation against active [[scan-engine-definitions|Scan Engine definitions]].
+**Note:** Fix code in real-time with Now Assist only displays if there are actual findings for the code, and if there is an Act or Recommend level violation against active Scan Engine definitions.
 
 The agent will not display if:
 
@@ -107,12 +107,5 @@ When findings are resolved, a blue banner displays a summary of the resolved iss
 
 [Configure Fix code in real-time for Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-ai-code-fix-for-platform-health.md)
 
-[[work-with-scan-engine-findings|Work with Scan Engine findings]]
+[Work with Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/work-with-scan-engine-findings.md)
 
-## Related
-
-- [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time for Platform Health]]
-- [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]]
-- [[work-with-scan-engine-findings|Work with Scan Engine findings]]
-- [[impact-landing-page|Impact]]
-- [[scan-engine-definitions|Scan Engine definitions]]

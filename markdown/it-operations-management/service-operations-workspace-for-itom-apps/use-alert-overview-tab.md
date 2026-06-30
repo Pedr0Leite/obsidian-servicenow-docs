@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -30,7 +30,7 @@ Role required: evt\_mgmt\_operator
 
     The alert opens in a separate tab, displaying the **Overview** tab.
 
-4.  [[t_EMViewAlert|View alert information]] on the **Overview** tab.
+4.  View alert information on the **Overview** tab.
 
 <table id="table_vs2_prb_5tb"><thead><tr><th>
 
@@ -70,8 +70,3 @@ Lists the log properties with information contributing the alert issue, as well 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[t_EMViewAlert|View alert information]]

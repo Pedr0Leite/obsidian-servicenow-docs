@@ -16,7 +16,7 @@ You can approve a shift swap requested by your peer if you are available to work
 
 ## Before you begin
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
 Role required: sn\_shift\_planning.agent
 
@@ -24,7 +24,7 @@ Role required: sn\_shift\_planning.agent
 
 1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **Agent Workspace Home**.
 
-2.  Click the [[migration-lists|Lists]] icon.
+2.  Click the Lists icon.
 
 3.  Go to **Approvals** &gt; **My Approvals**.
 
@@ -34,10 +34,6 @@ Role required: sn\_shift\_planning.agent
 
     -   To approve the request, click **Approve**.
     -   To reject the request, click **Reject**.
-    If you approve a shift swap, the application moves the request to your manager's approval queue. For more information, refer to [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]].
+    If you approve a shift swap, the application moves the request to your manager's approval queue. For more information, refer to [Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md).
 
-## Related
 
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]

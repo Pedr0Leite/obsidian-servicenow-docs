@@ -14,7 +14,7 @@ breadcrumb: [Reference, Dispute Management, Banking applications, Financial Serv
 
 # Unsupported features in Dispute Management
 
-Learn about features in [[dispute-management|Dispute Management]] that are currently not supported.
+Learn about features in Dispute Management that are currently not supported.
 
 -   **[Review chargeback response and decide on pre-arbitration or arbitration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/review-and-decide-prearbitration.md)**
 
@@ -23,6 +23,3 @@ Learn about features in [[dispute-management|Dispute Management]] that are curre
 
 **Parent Topic:**[Dispute management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management-reference.md)
 
-## Related
-
-- [[dispute-management|Dispute Management]]

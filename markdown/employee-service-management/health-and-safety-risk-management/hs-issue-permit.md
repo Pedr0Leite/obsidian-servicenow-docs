@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.permit\_coordinator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -44,7 +44,7 @@ Role required: sn\_hs\_rm.permit\_coordinator
 
 ## Result
 
-The permit status changes to active and the permit requestor can print the permit through the [[employee-center-landing-page|Employee Center]].
+The permit status changes to active and the permit requestor can print the permit through the Employee Center.
 
 ## What to do next
 
@@ -55,8 +55,3 @@ Select **Close permit** when the job is complete. If necessary, the permit coord
 
 **Parent Topic:**[Permit-to-work system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-permit-to-work.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

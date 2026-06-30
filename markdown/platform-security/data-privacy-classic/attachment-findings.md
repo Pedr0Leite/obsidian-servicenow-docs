@@ -22,7 +22,7 @@ Role required: data\_privacy\_admin and admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data privacy]]** &gt; **[[real-time-protection|Real time protection]]** &gt; **Attachment findings**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data privacy** &gt; **Real time protection** &gt; **Attachment findings**.
 
 2.  Review the list of attachment quarantine findings. The following information is shown:
 
@@ -78,7 +78,7 @@ The status of the attachment found in the scan. Status options include:-   **Pen
 
 **Note:** The default value of the property is `true`. If the property is not set, the default value applies.
 
-This state allows [[users|users]] to download an attachment even if it has not yet been scanned, as long as the `dp.pii.document.download.allowed` is set to `true`. If this property is `false`, existing attachments in the **Available conditionally** state will not be available for download.
+This state allows users to download an attachment even if it has not yet been scanned, as long as the `dp.pii.document.download.allowed` is set to `true`. If this property is `false`, existing attachments in the **Available conditionally** state will not be available for download.
 
 -   **Quarantined** - The file was scanned and sensitive data was discovered. The file is quarantined and not available to download \(until reviewed and approved by an Admin\).
 **Note:** Even if a file has been quarantined, a user may still be able to select the file name as if it were available. However, the attachment will not download and they will see a message indicating that it contains sensitive data.
@@ -97,8 +97,3 @@ The confidential information patterns discovered in the scan.
 
 You can make quarantined attachments available. To do so, check the boxes of the individual attachments you want to release from quarantine, then select **Mark as available**. If the attachments can be released, a dialog will ask you to confirm. Select **Mark as available** once more to release the attachments to their original locations and allow them to be accessed.
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[real-time-protection|Real time protection]]
-- [[users|Users]]

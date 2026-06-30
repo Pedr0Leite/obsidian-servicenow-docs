@@ -32,7 +32,7 @@ This type of filtering helps you to isolate DLP incidents and to limit the numbe
 
     The options in the first field in the **Filter Conditions** matches the fields that are available in the DLP incident. The criteria that you enter are case-sensitive. Verify that the criteria you define match the values of the incident.
 
-    \[Omitted image "dlp-proofpoint-filter.gif"\] Alt text: [[define-filters-for-incidents|Define filters to apply for the Incident creation]].
+    \[Omitted image "dlp-proofpoint-filter.gif"\] Alt text: Define filters to apply for the Incident creation.
 
 3.  Add more conditions by clicking  **AND**  or  **OR**.
 
@@ -43,6 +43,3 @@ This type of filtering helps you to isolate DLP incidents and to limit the numbe
 
 **Parent Topic:**[Create a Profile for Proofpoint DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-proofpoint-dlp-integration.md)
 
-## Related
-
-- [[define-filters-for-incidents|Define filters to apply for the Incident creation]]

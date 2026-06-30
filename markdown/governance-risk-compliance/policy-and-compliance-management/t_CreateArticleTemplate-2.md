@@ -22,7 +22,7 @@ Role required: sn\_compliance.developer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Article Templates**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Article Templates**.
 
 2.  Click **New**.
 
@@ -95,6 +95,3 @@ Option to indicate that this template is used as the default template for all KB
 
 **Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PoliciesAndProcedures.md)
 
-## Related
-
-- [[Administration|Administration]]

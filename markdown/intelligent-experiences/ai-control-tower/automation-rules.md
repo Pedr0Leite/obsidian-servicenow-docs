@@ -14,11 +14,11 @@ breadcrumb: [Controls, Configurations, AI Control Tower dashboard, Explore, AI C
 
 # Automation rules
 
-The Automation rules define how [[ai-assets|AI assets]] are set to be under managed assets.
+The Automation rules define how AI assets are set to be under managed assets.
 
 ## Automation rules Overview
 
-The Automation rules page displays all default rules available in [[ai-control-tower-landing|AI Control Tower]]. The AI Stewards can modify the existing rules or create rules based on their organizational requirements.
+The Automation rules page displays all default rules available in AI Control Tower. The AI Stewards can modify the existing rules or create rules based on their organizational requirements.
 
 ## Rule limits
 
@@ -39,7 +39,3 @@ For information on managed and unmanaged assets, see [Managed and unmanaged AI a
 
 For information on creating rules, see [Create an Automation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-automation-rules.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]

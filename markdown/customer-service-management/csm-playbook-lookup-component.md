@@ -14,7 +14,7 @@ breadcrumb: [Playbook page templates, Playbooks in Customer Service Management, 
 
 The playbook lookup component enables agents to look up contact and consumer records.
 
-Using the [[csm-record-page-lookup-component|lookup component]], agents can do the following:
+Using the lookup component, agents can do the following:
 
 -   Look up a contact or consumer by name, phone number, or email address. As the agent types characters in the search box, matching information appears in record cards below the search box.
 -   Select a contact or consumer after searching by selecting the link icon on the desired record card. The selected record card replaces the lookup component.
@@ -29,6 +29,3 @@ Agents can perform the following actions from a record card:
 
 **Note:** An account lookup component is also available. To display this component, turn off the **Hide component** setting for this component in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). This setting is located in the Component visibility section of the Configure tab.
 
-## Related
-
-- [[csm-record-page-lookup-component|Lookup component]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, Workplace Space Mapping, Workplace Service Delivery, Emp
 
 # Components installed with Workplace Space Mapping
 
-Several types of components are installed with [[wsm-mappedin-admin|Workplace Space Mapping]], including tables and user roles.
+Several types of components are installed with Workplace Space Mapping, including tables and user roles.
 
 ## Roles installed with Workplace Space Mapping
 
@@ -50,7 +50,7 @@ sn\_wsd\_mappedin.admin
 
 </td></tr><tr><td>
 
-[[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Mappedin admin \[sn\_wsd\_mappedin.admin\]
+Workplace Service Delivery Mappedin admin \[sn\_wsd\_mappedin.admin\]
 
 </td><td>
 
@@ -64,7 +64,7 @@ Create, manage, and edit floor maps from Mappedin.
 
 </td></tr><tr><td>
 
-[[Indoor-mapping|Indoor Mapping]] administratorsn\_wsd\_indoor\_map.admin
+Indoor Mapping administratorsn\_wsd\_indoor\_map.admin
 
 </td><td>
 
@@ -119,16 +119,10 @@ Indoor Map / WSD Cleaningsn\_wsd\_indoor\_map\_clean\_sync
 If Indoor Mapping map objects or map data is removed from a campus, the Cleaning process is available as a first step in the Synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[wsm-reference|Workplace Space Mapping reference]]
+</table>**Parent Topic:**[Workplace Space Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-reference.md)
 
 **Related topics**  
 
 
 [Properties installed with Workplace Space Mapping]()
 
-## Related
-
-- [[wsm-reference|Workplace Space Mapping reference]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[Indoor-mapping|Indoor Mapping]]

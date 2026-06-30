@@ -20,25 +20,20 @@ Healthcare Operations includes the following applications:
 
     Provides the foundation to enable hospitals to streamline and automate their operations.
 
--   **[[hcls-cto-it-app|Care Team Operations for Healthcare IT]]**
+-   **[Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-it-app.md)**
 
     Contains the case types to report and fulfill healthcare IT issues.
 
--   **[[care-team-operations-for-biomed|Care Team Operations for Biomed]]**
+-   **[Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/care-team-operations-for-biomed.md)**
 
     Contains the case types to report and fulfill biomed issues.
 
--   **[[cto-evs-landing|Care Team Operations for Environmental Services]]**
+-   **[Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-landing.md)**
 
     Contains the case types to report and fulfill environmental services issues.
 
--   **[[cto-facilities-landing|Care Team Operations for Facilities]]**
+-   **[Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-landing.md)**
 
     Contains the case types to report and fulfill facilities issues.
 
-## Related
 
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

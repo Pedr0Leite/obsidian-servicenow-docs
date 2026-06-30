@@ -14,9 +14,9 @@ breadcrumb: [Microsoft Defender for Endpoint, Service Graph Connectors, Integrat
 
 # Life cycle management of records in Service Graph Connector for Microsoft Defender Endpoint
 
-Life cycle management in the [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]] monitors and updates the statuses of Microsoft Defender for Endpoint resources throughout their entire life cycle, from creation to deletion.
+Life cycle management in the Service Graph Connector for Microsoft Defender Endpoint monitors and updates the statuses of Microsoft Defender for Endpoint resources throughout their entire life cycle, from creation to deletion.
 
-The life cycle management process helps maintain the accuracy and integrity of data in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The life cycle management process helps maintain the accuracy and integrity of data in the Configuration Management Database \(CMDB\).
 
 ## Life cycle management for CIs in Service Graph Connector for Microsoft Defender Endpoint
 
@@ -29,7 +29,3 @@ The following table lists the configuration items \(CIs\) in CMDB and other non-
 |SG-Defender Machines|Network Adapter \[cmdb\_ci\_network\_adapter\]|Yes|
 |SG-Defender Machines|Computer \[cmdb\_ci\_computer\]|Yes|
 
-## Related
-
-- [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

@@ -12,9 +12,9 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Role requirements for Field Encryption
 
-Learn about the roles required to configure [[field-encryption|Field Encryption]].
+Learn about the roles required to configure Field Encryption.
 
-Managing requires the following roles. Since is based on the [[encryption|Key Management Framework]], there are roles common to both.
+Managing requires the following roles. Since is based on the Key Management Framework, there are roles common to both.
 
 -   Admin
 -   security\_admin
@@ -25,7 +25,7 @@ For complete details on details on roles, see [Roles installed with Key Manageme
 
 ## Admin and Security Admin
 
-[[users|Users]] must have the admin role to elevate to the Security Admin role. You need the Security Admin role to perform high [[security-task-manager|Security Tasks]], such as configuring encrypted field configurations and configuring [[access-observer|Access Observer]].
+Users must have the admin role to elevate to the Security Admin role. You need the Security Admin role to perform high Security Tasks, such as configuring encrypted field configurations and configuring Access Observer.
 
 Admins can elevate to Security admin using this procedure.
 
@@ -46,7 +46,7 @@ Users with the Admin and sn\_kmf.admin roles can assign users to the KMF admin r
 
 ## KMF Cryptographic Manager
 
-Users with the KMF Cryptographic Manager role can create and update operations on cryptographic modules and module access [[ca-policies|policies]]. KMF cryptographic managers can also perform key management and life cycle operations.
+Users with the KMF Cryptographic Manager role can create and update operations on cryptographic modules and module access policies. KMF cryptographic managers can also perform key management and life cycle operations.
 
 Use the following process to assign this role to a user.
 
@@ -56,14 +56,5 @@ Use the following process to assign this role to a user.
 4.  Search for `sn_kmf.cryptographic_manager` and add the role the selected user.
 5.  Select **Save**.
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[encryption|Key Management Framework]]
-- [[users|Users]]
-- [[security-task-manager|Security Tasks]]
-- [[access-observer|Access observer]]
-- [[ca-policies|Policies]]

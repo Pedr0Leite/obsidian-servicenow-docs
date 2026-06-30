@@ -14,7 +14,7 @@ breadcrumb: [Customer and Consumer Service Portals, Configure portals, Set up se
 
 # Configure AI Search for the Customer and Consumer Service Portals
 
-You must [[configure-csm-service-portals|configure the Customer and Consumer Service Portals]] to use AI Search.
+You must configure the Customer and Consumer Service Portals to use AI Search.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ AI Search is inactive by default and you must enable it by updating the portal r
 
 7.  Navigate to **Page Route Maps** and enable the **CSM AI Search Home Page** route map for CSM and **CSP AI Search Home Page** for CSP as they’re inactive by default.
 
-## Related
 
-- [[configure-csm-service-portals|Configure the Customer and Consumer Service Portals]]

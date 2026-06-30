@@ -14,12 +14,12 @@ breadcrumb: [Explore, Privacy Management, Governance, Risk, and Compliance]
 
 # Smart assessments in Privacy Management
 
-The new and improved assessment experience in [[privacy-management|Privacy Management]] uses the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\) application. The assessment engine enables you to perform privacy screening and privacy impact assessments to collect the necessary information for the privacy teams.
+The new and improved assessment experience in Privacy Management uses the Smart Assessment Engine \(SAE\) application. The assessment engine enables you to perform privacy screening and privacy impact assessments to collect the necessary information for the privacy teams.
 
 In Privacy Management, assessments play an important role. There are two types of assessments.
 
 -   Privacy screening assessment: A privacy screening assessment is a preliminary evaluation used to determine whether a processing activity involves personal data and whether it may pose privacy risks. It’s a high-level review conducted to identify whether a more detailed privacy review, such as a privacy impact assessment \(PIA\), is necessary. For example, when a new business application or process is created, the privacy teams must understand if the application or the business process processes personal data or not. To determine this, the screening assessments are sent to the business application or business process owners. After the assessment is approved by the privacy manager, a processing activity is created.
--   Privacy impact assessment: After a screening assessment is performed, based on the responses, a privacy impact assessment may be generated. A Privacy impact assessment is a comprehensive evaluation of how a business application, system, or process affects personal data privacy. It assesses the privacy risks associated with [[ropa-record|processing activities]] and identifies measures to mitigate these risks. Each time a privacy impact assessment is performed, the risks are revisited to determine if the risk score changed. This helps the privacy teams remain vigilant and address the risks as required.
+-   Privacy impact assessment: After a screening assessment is performed, based on the responses, a privacy impact assessment may be generated. A Privacy impact assessment is a comprehensive evaluation of how a business application, system, or process affects personal data privacy. It assesses the privacy risks associated with processing activities and identifies measures to mitigate these risks. Each time a privacy impact assessment is performed, the risks are revisited to determine if the risk score changed. This helps the privacy teams remain vigilant and address the risks as required.
 
 To perform these assessments, you can use the Smart Assessment Engine application. This application provides several benefits such as configuration of templates, workflows, guidance for questions, and reviewing of assessment results with actionable insights. For more information about the Smart Assessment Engine application, refer to [Exploring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-explore.md).
 
@@ -40,7 +40,7 @@ The new assessment experience offers the following benefits.
 
 ## Types of assessment templates
 
-To perform the screening and the impact assessments, you require [[airc-assessment-templates|assessment templates]]. While the assessment templates are based on the Smart Assessment Engine, there are some additional configurations provided for the users of Privacy Management.
+To perform the screening and the impact assessments, you require assessment templates. While the assessment templates are based on the Smart Assessment Engine, there are some additional configurations provided for the users of Privacy Management.
 
 Starting with the Zurich release, two assessment templates, **Privacy Screening Assessment \[V4\]** and **Privacy Impact Assessment \[V4\]** are provided to perform smart assessments. **Privacy Screening Assessment \[V3\]** and **Privacy Impact Assessment \[V3\]** templates are also available. Some important differences between these templates and the additional configurations are explained as follows.
 
@@ -53,7 +53,7 @@ Starting with the Zurich release, two assessment templates, **Privacy Screening 
     For a screening assessment template, there are three sections:
 
     -   **General**: In this section, you specify the assessment template category as **Privacy category** and also specify the assessment targets. For a screening assessment, the assessment targets are entities and privacy tasks.
-    -   **Questions**: This section contains questions for the assessment responders. This section also contains data elements which are single units of information that represent a specific attribute or characteristic about a data subject or entity. Examples of data elements are name, email address, date of birth, and so on. In this section, you’ll also find a section titled **Criticality [[factors|factors]]** and these questions are used to calculate the criticality score.
+    -   **Questions**: This section contains questions for the assessment responders. This section also contains data elements which are single units of information that represent a specific attribute or characteristic about a data subject or entity. Examples of data elements are name, email address, date of birth, and so on. In this section, you’ll also find a section titled **Criticality factors** and these questions are used to calculate the criticality score.
     -   **Automations**: In this section, you can define the rules that allow the automatic creation of processing activities based on the responses to questions. This section uses Workflow Studio. These automations are mapped to their relevant questions. Automation streamlines various processes, including the application of risk statements and control objectives based on user responses. When users select specific responses during an assessment, the system automatically applies the appropriate risks and controls to the relevant records. For example, consider an organizational policy stating that personal data can only be transferred outside the EU with explicit consent. During an assessment, if a user indicates that data is being transferred outside the EU, the system will automatically apply the Data Transfer risk to the processing activity: Assign Explicit Consent as a control to mitigate the identified risk. This automation ensures consistency, saves time, and reduces the likelihood of human error in managing risks and controls.
     For detailed information on how to configure a screening assessment template, see [Configure smart assessment templates for screening assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-a-smart-assessment-template.md).
 
@@ -76,7 +76,7 @@ You can publish a new version of a smart assessment template when its questionna
 
 When privacy analysts receive an assessment, they review the assessment. During the review, they can either request for a revision of the assessment or directly approve it. During the **Review** state, the privacy managers can view the following items:
 
--   **[[information-objects|Information objects]]**: The information objects tab displays the information objects identified as part of the screening assessment.
+-   **Information objects**: The information objects tab displays the information objects identified as part of the screening assessment.
 -   **Hierarchy**: The hierarchy of where data comes from and where it goes.
 -   **Outcomes**: The outcomes tab displays the risk statement and the control objectives associated with the assessment.
 
@@ -87,11 +87,3 @@ When privacy analysts receive an assessment, they review the assessment. During 
 
 [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-populate.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[ropa-record|Processing activities]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[factors|factors]]
-- [[information-objects|information objects]]

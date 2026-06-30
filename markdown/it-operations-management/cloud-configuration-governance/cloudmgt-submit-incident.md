@@ -24,7 +24,7 @@ Role required: sn\_cmp.cloud\_service\_user
 
 You can submit an incident for a stack or for an individual resource.
 
-You can also [Create an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/create-an-incident.md) through the incident application. Make sure that the **Category** field is set to the value [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. The configuration item should be the stack name against which the incident should be raised and the caller name should be the name of the person for whom this incident is created.
+You can also [Create an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/create-an-incident.md) through the incident application. Make sure that the **Category** field is set to the value Cloud Provisioning and Governance. The configuration item should be the stack name against which the incident should be raised and the caller name should be the name of the person for whom this incident is created.
 
 ## Procedure
 
@@ -118,6 +118,3 @@ Click or drop to add files that clarify the issue or question.
 
 To view a list of all submitted incidents, navigate to **Activities** &gt; **Incidents**.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

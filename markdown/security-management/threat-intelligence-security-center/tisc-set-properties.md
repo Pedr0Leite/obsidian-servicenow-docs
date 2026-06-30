@@ -14,7 +14,7 @@ breadcrumb: [Configure, Threat Intelligence Security Center, Security Operations
 
 # Set Threat Intelligence Security Center properties
 
-Review the [[tisc-components-installed|components installed with Threat Intelligence Security Center]] to understand the roles, properties, and other elements added to your instance.
+Review the components installed with Threat Intelligence Security Center to understand the roles, properties, and other elements added to your instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Properties**.
+1.  Navigate **All** &gt; **Threat Intelligence Security Center** &gt; **Properties**.
 
 2.  Configure the following properties, as needed.
 
@@ -142,7 +142,7 @@ Logging level-debug,info,warn,errorsn\_sec\_tisc.logging.verbosity
 
 </td></tr><tr><td colspan="2">
 
-**Properties for [[threat-intelligence-feeds|Threat Intelligence Feeds]]**
+**Properties for Threat Intelligence Feeds**
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Number of records to fetch at a time from CrowdStrike. Higher the number, more t
 
 </td></tr><tr><td>
 
-Denotes the number of [[indicator|indicators]] to be pulled in a single API call.**Note:** This is applicable only when the integration doesn't find the necessary present in the system.
+Denotes the number of indicators to be pulled in a single API call.**Note:** This is applicable only when the integration doesn't find the necessary present in the system.
 
 sn\_sec\_tisc.crowdstrike\_indicator\_batch\_size
 
@@ -248,7 +248,7 @@ The allowed total of offset and limit from CrowdStrike API.sn\_sec\_tisc.crowdst
 
 </td></tr><tr><td>
 
-Defines the maximum page size \(max number of [[c_Observables|observables]] returned as part of the response\) for Observables Fetch API. Not recommended to increase to high value as it may affect API response time.sn\_sec\_tisc.api\_maximum\_page\_size\_limit
+Defines the maximum page size \(max number of observables returned as part of the response\) for Observables Fetch API. Not recommended to increase to high value as it may affect API response time.sn\_sec\_tisc.api\_maximum\_page\_size\_limit
 
 </td><td>
 
@@ -350,7 +350,7 @@ Include Journal type fields in export file.sn\_sec\_tisc.export\_journal\_fields
 
 </td></tr><tr><td colspan="2">
 
-**Properties for [[threat-intel-landing-page|Threat Intelligence]] Sharing**
+**Properties for Threat Intelligence Sharing**
 
 </td></tr><tr><td>
 
@@ -508,11 +508,3 @@ Refer to the scheduled jobs described in the following table:
 |TISC Fire Webhooks|Executes pending webhook batches|
 |Updating Relationship Archived Column|Updates relationship source and target records archival status|
 
-## Related
-
-- [[tisc-components-installed|Components installed with Threat Intelligence Security Center]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

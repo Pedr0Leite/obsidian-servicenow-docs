@@ -20,7 +20,7 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **[[indicator|Indicators]]**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
 2.  Click the indicator to which you want to add a related attack mode/method.
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.write
 7.  Click **Save**.
 
 
-**Parent Topic:**[[c_IoCs|Indicators of compromise]]
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
 **Related topics**  
 
@@ -50,9 +50,3 @@ Role required: sn\_ti.write
 
 [Add associated tasks to an IoC]()
 
-## Related
-
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[indicator|Indicators]]

@@ -20,18 +20,12 @@ Starting with the Yokohama release, Pre-Visit Management is being prepared for f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[[pre-visit-components-installed|Components installed with Pre-Visit Management]]**  
+-   **[Components installed with Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-components-installed.md)**  
 Several types of components are installed with installation of the Pre-Visit Management application, including tables, user roles, ServiceNow Store applications, scheduled jobs, and business rules.
--   **[[pre-visit-properties|Pre-Visit Management properties]]**  
+-   **[Pre-Visit Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-properties.md)**  
 There are several advanced Pre-Visit Management properties that you can configure to schedule a pre-visit procedure for a patient.
--   **[[pre-visit-domain-sep|Domain separation and Pre-Visit Management]]**  
+-   **[Domain separation and Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-domain-sep.md)**  
  Domain separation is supported for Pre-Visit Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[pre-visit-mgmt-app|Pre-Visit Management]]
+**Parent Topic:**[Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-mgmt-app.md)
 
-## Related
-
-- [[pre-visit-components-installed|Components installed with Pre-Visit Management]]
-- [[pre-visit-properties|Pre-Visit Management properties]]
-- [[pre-visit-domain-sep|Domain separation and Pre-Visit Management]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

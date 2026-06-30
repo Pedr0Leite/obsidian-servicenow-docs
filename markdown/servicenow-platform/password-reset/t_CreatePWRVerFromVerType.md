@@ -14,21 +14,21 @@ breadcrumb: [Customizing Password Reset processes, Configuring Password Reset, P
 
 # Create a custom Password Reset verification
 
-Use a verification type in the base system as a template to design a custom verification. The [[win-password-reset-overview|Password Reset Windows Application]] does not support custom verifications.
+Use a verification type in the base system as a template to design a custom verification. The Password Reset Windows Application does not support custom verifications.
 
 ## Before you begin
 
 Role required: password\_reset\_admin
 
-Review the verification types that are provided in the base system to determine whether to create a custom verification type. Then review the verification type components to develop. For more information about [[verification-types-in-the-base-system|verification types in the base system]], see [Verification types in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/verification-types-in-the-base-system.md).
+Review the verification types that are provided in the base system to determine whether to create a custom verification type. Then review the verification type components to develop. For more information about verification types in the base system, see [Verification types in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/verification-types-in-the-base-system.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Verifications**.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Verifications**.
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then fill in the form.
 
-    For information about the fields on the [[password-reset-verification-form|Password Reset Verification form]], see [Password Reset Verification form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-verification-form.md).
+    For information about the fields on the Password Reset Verification form, see [Password Reset Verification form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-verification-form.md).
 
 3.  Click **Submit**.
 
@@ -37,9 +37,3 @@ Review the verification types that are provided in the base system to determine 
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[verification-types-in-the-base-system|Verification types in the base system]]
-- [[password-reset-landing-page|Password Reset]]
-- [[password-reset-verification-form|Password Reset Verification form]]

@@ -24,9 +24,9 @@ Create a guidance path first. A guidance node is automatically created with the 
 
 A guidance is an outcome of a decision tree.
 
-You can either create a guidance or select a guidance from a list. For a complete list of guidances that are available by default, see [[components-installed-with-guided-decisions|Components installed with Guided Decisions Experience]]. You can then enter guidance inputs, as required.
+You can either create a guidance or select a guidance from a list. For a complete list of guidances that are available by default, see [Components installed with Guided Decisions Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-with-guided-decisions.md). You can then enter guidance inputs, as required.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create decision trees. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 ## Procedure
 
@@ -44,18 +44,12 @@ You can edit or extend existing decision trees in the Core UI but you can no lon
 
     If you selected the Provide Resolution guidance, enter the case, resolution notes, and a resolution code.
 
-    If you selected the [[osp-create-work-order|Create Work Order]] guidance, enter the task to link to.
+    If you selected the Create Work Order guidance, enter the task to link to.
 
 6.  Select **Update**.
 
 
 ## What to do next
 
-[[associate-task-input-to-guidance|Link task input in the start node to the guidance]]
+[Link task input in the start node to the guidance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-task-input-to-guidance.md)
 
-## Related
-
-- [[components-installed-with-guided-decisions|Components installed with Guided Decisions Experience]]
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[associate-task-input-to-guidance|Link task input in the start node to the guidance]]
-- [[osp-create-work-order|Create work order]]

@@ -14,7 +14,7 @@ breadcrumb: [Skills Workspace, Exploring Skills Foundation, Skills Foundation, G
 
 # Working with job architecture
 
-Create, update or modify skills and job architecture data from a single location in the [[skills-intelligence-workspace|Skills Workspace]].
+Create, update or modify skills and job architecture data from a single location in the Skills Workspace.
 
 -   **[Creating a new role group through the Skills Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-new-role-group.md)**  
 Add a new role group in the Skills Workspace to create a category of roles in your organization.
@@ -27,6 +27,3 @@ Create a connection between two different role groups in the Skills Workspace to
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[skills-intelligence-workspace|Skills Workspace]]

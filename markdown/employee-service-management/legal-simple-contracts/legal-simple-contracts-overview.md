@@ -14,12 +14,12 @@ breadcrumb: [Legal Simple Contracts, Legal Service Delivery Practice Application
 
 # Exploring Legal Simple Contracts
 
-[[legal-simple-contracts-landing-page|Legal Simple Contracts]] enables employees to submit legal requests for the creation or review of contracts with third parties, such as vendors, customers, and partners. The legal department can manage and process these submitted legal requests for contracts from a centralized location.
+Legal Simple Contracts enables employees to submit legal requests for the creation or review of contracts with third parties, such as vendors, customers, and partners. The legal department can manage and process these submitted legal requests for contracts from a centralized location.
 
 ## Features
 
--   [[document-templates-overview|Document templates]] in HTML, PDF and Microsoft Word format for standard contract documents such as non-disclosure agreements \(NDA\).
--   Template blocks that can replace text based on conditions in the [[document-templates-flow-html|document templates of type HTML]].
+-   Document templates in HTML, PDF and Microsoft Word format for standard contract documents such as non-disclosure agreements \(NDA\).
+-   Template blocks that can replace text based on conditions in the document templates of type HTML.
 -   Support for contract templates in Microsoft Word format that are easier to review, and modify.
 -   Integration with Microsoft Dynamics CRM to pull sales representatives and associated sales accounts and active opportunities data.
 -   Integration with electronic signature providers such as Docusign and Adobe Acrobat Sign.
@@ -36,8 +36,3 @@ Legal Simple Contracts enables your organization to provide legal support for th
 
 To find out how to provide legal support for a custom contract type, see [Create a legal contract intake workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-legal-contract.md).
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[document-templates-overview|Document Templates]]
-- [[document-templates-flow-html|Document Templates of type HTML]]

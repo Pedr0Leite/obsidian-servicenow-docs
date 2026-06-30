@@ -14,7 +14,7 @@ breadcrumb: [Explore, Workplace Visitor Management, Workplace Service Delivery, 
 
 # Visitor portal
 
-Use the visitor portal to manage your visits, [[complete-pre-check|complete pre-check tasks]], and manage personal data.
+Use the visitor portal to manage your visits, complete pre-check tasks, and manage personal data.
 
 The Visitor Portal enables visitors to manage their visits to an organization. The portal serves the following types of users:
 
@@ -40,6 +40,3 @@ The portal also provides profile and data management capabilities. As a visitor,
 
 [Receptionist portal]()
 
-## Related
-
-- [[complete-pre-check|Complete pre-check tasks]]

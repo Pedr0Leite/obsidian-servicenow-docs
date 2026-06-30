@@ -28,9 +28,9 @@ Role required: External admin \(external\_app\_install\_admin\). This role is in
 
 The ServiceNow for Teams pre-published apps are:
 
--   Notify Connector: [[setup-notify-ms-teams|Install Notify Connector for Microsoft Teams]] to enable the chat to call feature. For more information, see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
+-   Notify Connector: Install Notify Connector for Microsoft Teams to enable the chat to call feature. For more information, see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
 -   Request-based Chats
--   SSO and [[activity-lxp|Activity]] Notifications
+-   SSO and Activity Notifications
 
 ## Procedure
 
@@ -53,7 +53,3 @@ If the upn is different from email ID in your environment, go to [Enable connect
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[setup-notify-ms-teams|Install Notify connector for Microsoft Teams]]
-- [[activity-lxp|Activity]]

@@ -34,7 +34,7 @@ Let's see how to create a disputes case from the dispute intake in portal. Perfo
 
     Create a request by navigating to either the portal landing page or the portal menu header. For more information on how to create a request, see [Create a card disputes case request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-an-onboarding-request-from-the-service-catalog.md)
 
-2.  [[create-case-with-intake-workspace|Initiate a dispute]].
+2.  Initiate a dispute.
 
     Select the financial account to initiate a dispute. A series of questions need to be answered by the user to arrive at the category and reason code. Choose the disputed transaction from the list of transactions under the financial account and provide additional information to determine the dispute category by answering the questions. For more details on the various stages of activities, see [Initiate a dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-case-with-intake-workspace.md).
 
@@ -66,6 +66,3 @@ Track the progress of card disputes case requests using the dispute tracker.
 
 **Parent Topic:**[About dispute intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-intake-overview.md)
 
-## Related
-
-- [[create-case-with-intake-workspace|Initiate a dispute]]

@@ -20,13 +20,13 @@ Policy inputs are variable sources that you can use while evaluating a decision 
 
 Role required: admin or change manager
 
-You can create multiple policy input types. By default, the **change\_request** policy input of type **[[reference-for-itsm-mobile-agent|Reference]]** is available for all [[change-types|change types]]. This policy input provides access to the change request table and to any table change request references. For a normal change policy, an extra **manager\_approved** policy input of type **True/false** is available.
+You can create multiple policy input types. By default, the **change\_request** policy input of type **Reference** is available for all change types. This policy input provides access to the change request table and to any table change request references. For a normal change policy, an extra **manager\_approved** policy input of type **True/false** is available.
 
 To define additional policy inputs, perform the following steps:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **[[change-approval-policy|Change Approval Policies]]**.
+1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **Change Approval Policies**.
 
 2.  Create a change approval policy or open an existing policy.
 
@@ -53,8 +53,3 @@ After you create a policy input, reference it within a decision.
 
 **Parent Topic:**[Create change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[change-types|Change types]]
-- [[change-approval-policy|Change approval policies]]

@@ -271,7 +271,7 @@ To control the running of the schedule job with the Orchestration properties.
 
 ### Procedure
 
-1.  Navigate to **[[c_OrchestrationROI|Orchestration ROI]]** &gt; **Properties**.
+1.  Navigate to **Orchestration ROI** &gt; **Properties**.
 
 2.  Configure the following properties:
 
@@ -306,6 +306,4 @@ Scheduled ROI processing interval \(hours\). This property sets the repeat inter
 </td></tr></tbody>
 </table>3.  Click **Save** to save your changes.
 
-## Related
 
-- [[c_OrchestrationROI|Orchestration ROI]]

@@ -16,7 +16,7 @@ breadcrumb: [Assigning tasks from Dispatcher Workspace, Scheduling and dispatchi
 
 Dispatcher Workspace is a configurable scheduling application that enables you to efficiently route work to field service agents and monitor their performance.
 
-The CSM/FSM Configurable Workspace contains the [[dispatcher-dashboard|Dispatcher Dashboard]] and Dispatcher Workspace.
+The CSM/FSM Configurable Workspace contains the Dispatcher Dashboard and Dispatcher Workspace.
 
 -   The Dispatcher Dashboard is the home page and displays the real-time data of the operations and performance of field service agents across their assignments in your organization such as.
     -   Statistics on critical pending dispatch tasks and SLAs breached.
@@ -44,23 +44,15 @@ The following table provides an overview of the dispatcher's tasks in the Dispat
 |[Viewing an agent's calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/viewing-agents-calendar.md)|View an agent's schedule, availability, personal events, and assigned or in-progress tasks|
 |[Viewing an agent's calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/viewing-agents-calendar.md)|View SLA record for all the work order tasks that are associated with work orders that have SLAs.|
 |[Show and optimize the agent task route in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/show-hide-agent-route-dispatcher-wrkspc.md)|View an agent's scheduled task route on the dispatch map and optimizing task routes for efficient schedule and task management|
-|[Use Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-wfo-fsm.md)|View the agent's schedule and events from the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] application and assign work order tasks accordingly.|
+|[Use Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-wfo-fsm.md)|View the agent's schedule and events from the Workforce Optimization for Field Service application and assign work order tasks accordingly.|
 |[Managing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/managing-appointments.md)|Manage customer appointments from work order task forms|
-|[[field-service-crew-scheduling|Manage crew operations]]|Create and manage crews, assign crews to work order tasks, and adding ad hoc agents to a crew|
-|[[fsm-task-recommendation|Intelligent Task Recommendation]]|Improve agent utilization through intelligent task recommendations|
+|[Manage crew operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-crew-scheduling.md)|Create and manage crews, assign crews to work order tasks, and adding ad hoc agents to a crew|
+|[Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation.md)|Improve agent utilization through intelligent task recommendations|
 
 **Related topics**  
 
 
-[[configuring-dispatcher-workspace|Configuring Dispatcher Workspace]]
+[Configuring Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-dispatcher-workspace.md)
 
-[[dispatcher-activities|Dispatcher Workspace]]
+[Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-activities.md)
 
-## Related
-
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[configuring-dispatcher-workspace|Configuring Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dispatcher-dashboard|Dispatcher dashboard]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

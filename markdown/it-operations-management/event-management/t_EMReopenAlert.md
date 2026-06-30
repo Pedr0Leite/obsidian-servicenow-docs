@@ -31,7 +31,7 @@ When an alert is reopened, the related incident is processed as follows:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Search by alert number.
 
@@ -42,6 +42,3 @@ When an alert is reopened, the related incident is processed as follows:
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

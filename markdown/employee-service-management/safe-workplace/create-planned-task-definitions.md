@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Workplace Core, Safe Workplace, Health an
 
 # Create planned task definitions
 
-Create planned task definitions in [[workplace-safety-mgmt-hr|Workplace Core]] to help workplace managers easily generate tasks that are often repeated and independent of shifts such as cleaning coffee vending machines or cleaning floors. You can quickly specify the task details and the frequency at which the task is to be performed.
+Create planned task definitions in Workplace Core to help workplace managers easily generate tasks that are often repeated and independent of shifts such as cleaning coffee vending machines or cleaning floors. You can quickly specify the task details and the frequency at which the task is to be performed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[workplace-services|Workplace services]]** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace services** &gt; **Browse Workplace Services**.
 
 2.  Select **Add planned task definition**.
 
@@ -42,7 +42,7 @@ Name
 
 </td><td>
 
-Name of the planned task definition. For example, "Clean conference rooms" for the [[activity-lxp|activity]] of sanitizing conference rooms.
+Name of the planned task definition. For example, "Clean conference rooms" for the activity of sanitizing conference rooms.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Date and time when the task should start.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-5.  If you accessed the form from [[workplace-services-portal-hr|Workplace Service Portal]], on the verification page, you can create another planned task definition or generate planned tasks from this definition immediately.
+5.  If you accessed the form from Workplace Service Portal, on the verification page, you can create another planned task definition or generate planned tasks from this definition immediately.
 
     **Note:** You can also use this definition to generate planned tasks later. See the instructions in the [Generate planned tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-planned-task-definitions-wsd.md) topic.
 
@@ -127,10 +127,3 @@ Select **Add another task definition**.
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[activity-lxp|Activity]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

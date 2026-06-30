@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Create a safety report field mapping for generating reports
 
-Create a safety report field mapping to [[map-fields-navex|map fields]] in your reporting PDF template to the corresponding fields in the [[health-safety-overview|Health and Safety]] records.
+Create a safety report field mapping to map fields in your reporting PDF template to the corresponding fields in the Health and Safety records.
 
 ## Before you begin
 
@@ -33,11 +33,11 @@ The report field mapping enables you to do the following:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
-3.  In the **Configuration** tab, select **Report [[field-mappings-sf|field mappings]]** and then **All**.
+3.  In the **Configuration** tab, select **Report field mappings** and then **All**.
 
 4.  Create a report field mapping or modify an existing one.
 
@@ -71,7 +71,7 @@ Steps
 
 In the list available with each field name, select a Health and Safety field to map to.The list displays fields from the selected Health and Safety mapping table.
 
-However, dot-walk fields are also available to select from the field mapping list to map further [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] fields. For information on dot-walking, see [Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md).
+However, dot-walk fields are also available to select from the field mapping list to map further reference fields. For information on dot-walking, see [Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md).
 
 </td></tr><tr><td id="d71772e246">
 
@@ -119,10 +119,3 @@ Each mapping can be scripted using the script capability on each field. It enabl
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[map-fields-navex|Map fields]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[field-mappings-sf|Field mappings]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

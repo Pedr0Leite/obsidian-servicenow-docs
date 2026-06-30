@@ -77,7 +77,7 @@ Active
 
 </td><td>
 
-Check box to indicate that the rate limit rule is active.Rate limit [[gamification-components-rules|rules]] are activated by default as soon as you create them. You can deactivate rate limit rules to stop enforcing a rate limit or activate rate limit rules to resume enforcing a rate limit.
+Check box to indicate that the rate limit rule is active.Rate limit rules are activated by default as soon as you create them. You can deactivate rate limit rules to stop enforcing a rate limit or activate rate limit rules to resume enforcing a rate limit.
 
 </td></tr><tr><td>
 
@@ -117,6 +117,3 @@ Select **public**.**Note:** Appears only when you select **Users with role** at 
 
 [configure-guestusers-submit-catalogitem-csm-portal]
 
-## Related
-
-- [[gamification-components-rules|Rules]]

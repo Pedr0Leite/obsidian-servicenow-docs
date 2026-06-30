@@ -14,7 +14,7 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 Watch a video that demonstrates how to use set indexes to drive a product rule.
 
-[[cpq-sets|Sets]] automatically create a set index field \(`set.{{setName}}.index`\). Using this field, the indexes of Individual rows in a set can be used in [[rules_101|rules]] or in calculations.
+Sets automatically create a set index field \(`set.{{setName}}.index`\). Using this field, the indexes of Individual rows in a set can be used in rules or in calculations.
 
 **Note:** Set indexes cannot be used for cross-index rules. For example, a row at index 1 cannot access or use values from a row at index 2.
 
@@ -25,10 +25,5 @@ The following video demonstrates set indexes and how to use them to drive a prod
 **Related topics**  
 
 
-[[how_to_hide_the_setfield_grid_index|Hiding the set grid and field grid indexes]]
+[Hiding the set grid and field grid indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/how_to_hide_the_setfield_grid_index.md)
 
-## Related
-
-- [[how_to_hide_the_setfield_grid_index|Hiding the set grid and field grid indexes]]
-- [[cpq-sets|Sets]]
-- [[rules_101|Rules]]

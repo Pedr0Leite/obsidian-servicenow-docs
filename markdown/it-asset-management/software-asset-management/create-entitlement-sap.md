@@ -22,7 +22,7 @@ Role required: sam\_user or sam\_admin
 
 **Note:** The sam\_admin role is required to import entitlements.
 
-**Important:** You can create and import entitlements in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. The following steps provide details on creating entitlements in the Software Asset Management classic application. For details on creating entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on importing entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
+**Important:** You can create and import entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on creating entitlements in the Software Asset Management classic application. For details on creating entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on importing entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
 
 ## About this task
 
@@ -34,7 +34,7 @@ The following steps describe information specific to SAP. For general instructio
 
 2.  On the form, fill in the fields.
 
-    **Note:** Only information specific to SAP software entitlements is shown in the following table. For a detailed description of all [[software-entitlement-fields|software entitlement fields]], see [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md).
+    **Note:** Only information specific to SAP software entitlements is shown in the following table. For a detailed description of all software entitlement fields, see [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md).
 
 <table id="table_zql_nkm_11b"><thead><tr><th>
 
@@ -109,7 +109,7 @@ Number of packs for SAP Engine measurement licenses.
 
 [Establish an SAP connection using OAuth 2.0]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -131,9 +131,3 @@ Number of packs for SAP Engine measurement licenses.
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[software-entitlement-fields|Software entitlement fields]]
-- [[c_CreatingSoftwareModels|Software models]]

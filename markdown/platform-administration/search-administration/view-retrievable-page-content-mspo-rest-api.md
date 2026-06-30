@@ -15,7 +15,7 @@ breadcrumb: [Microsoft SharePoint Online external content connector, Configure, 
 
 # View retrievable page content using the Microsoft SharePoint Online REST API
 
-Review the elements of of a Microsoft SharePoint Online page's content that can be retrieved by the [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]].
+Review the elements of of a Microsoft SharePoint Online page's content that can be retrieved by the Microsoft SharePoint Online external content connector.
 
 ## Before you begin
 
@@ -31,11 +31,11 @@ Role required: none
 
 ## About this task
 
-Perform this procedure to review the contents of a Microsoft SharePoint Online page's CanvasContent1 and WikiFields metadata fields. These fields contain the static content that the connector retrieves and makes searchable in your [[ia-ai-search|AI Search]] applications.
+Perform this procedure to review the contents of a Microsoft SharePoint Online page's CanvasContent1 and WikiFields metadata fields. These fields contain the static content that the connector retrieves and makes searchable in your AI Search applications.
 
 Microsoft SharePoint Online pages are stored as `.aspx` files in a site's Site Pages library. These files include static content in their CanvasContent1 and WikiFields metadata fields, but they also include scripts that call a server-side engine to dynamically render viewable content at request time. The exact content rendered depends on user context, permissions, and web parts loaded as part of the page request.
 
-Rendering a page's full viewable content requires an authenticated user session. The Microsoft SharePoint Online connector can't [[t_ImpersonateAUserInUI16|impersonate a user]] to trigger this rendering process. As a result, the connector cannot capture the final HTML output that a web browser would display.
+Rendering a page's full viewable content requires an authenticated user session. The Microsoft SharePoint Online connector can't impersonate a user to trigger this rendering process. As a result, the connector cannot capture the final HTML output that a web browser would display.
 
 For each page retrieved, the Microsoft SharePoint Online connector queries the SharePoint REST API to access the page's underlying list item. The API endpoint used is `_api/web/lists('<list-id>')/items(<item-id>)`, where `<list-id>` and `<item-id>` are dynamically substituted values. The connector retrieves content primarily from the page's CanvasContent1 and WikiFields metadata fields, and also captures the page's other metadata fields such as title, author, and modification date where available. Page content stored exclusively in dynamic web parts may be retrieved only partially or not at all, since that content doesn't exist in the list item metadata.
 
@@ -68,8 +68,3 @@ The upshot of this limitation is that pages built primarily with static text con
 
 **Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[t_ImpersonateAUserInUI16|Impersonate a user]]

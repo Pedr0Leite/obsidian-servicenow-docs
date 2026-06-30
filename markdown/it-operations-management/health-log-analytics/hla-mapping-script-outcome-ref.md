@@ -121,7 +121,7 @@ The log samples used for testing your JavaScript function, ordered by sources an
 
 The list links to samples in the **Mapping Samples** table, which shows the outcome of the JavaScript function for each sample.
 
-This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 26.0.17 - February 2023 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+This feature is supported in the Health Log Analytics application, Version 26.0.17 - February 2023 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td></tr><tr><td>
 
@@ -136,6 +136,3 @@ The **Last event time** column on this tab shows the last date and time the AI e
 </td></tr></tbody>
 </table>**Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

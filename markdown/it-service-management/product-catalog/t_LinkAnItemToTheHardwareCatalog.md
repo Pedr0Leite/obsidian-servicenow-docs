@@ -14,7 +14,7 @@ breadcrumb: [Create a vendor catalog item, Vendor catalog items, Product Catalog
 
 # Link an item to the hardware catalog
 
-After you [[t_CreateAVendorCatalogItem|create a vendor catalog item]], link the item to the hardware catalog for viewing.
+After you create a vendor catalog item, link the item to the hardware catalog for viewing.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## About this task
 
-To see the **Link to Hardware Catalog Item** related link on the Vendor Catalog Item form, add a hardware model or a consumable model to the **Product Model** field, and leave the **[[c_ProductCatalog|Product Catalog]] Item** field blank.
+To see the **Link to Hardware Catalog Item** related link on the Vendor Catalog Item form, add a hardware model or a consumable model to the **Product Model** field, and leave the **Product Catalog Item** field blank.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ To see the **Link to Hardware Catalog Item** related link on the Vendor Catalog 
 
 5.  Click **OK**.
 
-    The page refreshes to the selected hardware catalog item. The vendor catalog item is listed in the **[[c_ManageVendorCatalogItems|Vendor Catalog Items]]** related list.
+    The page refreshes to the selected hardware catalog item. The vendor catalog item is listed in the **Vendor Catalog Items** related list.
 
 
 **Parent Topic:**[Create a vendor catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAVendorCatalogItem.md)
@@ -50,8 +50,3 @@ To see the **Link to Hardware Catalog Item** related link on the Vendor Catalog 
 
 [Publish an item to the software catalog]()
 
-## Related
-
-- [[t_CreateAVendorCatalogItem|Create a vendor catalog item]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

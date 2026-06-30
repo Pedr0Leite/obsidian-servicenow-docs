@@ -26,14 +26,14 @@ You can initiate assessments after you create the scope. This process provides v
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **Risk Assessment Scope** &gt; **Create**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Risk Assessment Scope** &gt; **Create**.
 
 2.  On form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
     |Risk assessment methodology|Risk assessment methodology \(RAM\) that you use to assess risks.|
-    |Assessable Entity|Entities that are related to the [[entity-class-in-risk-ws|entity classes]] that are selected in the **Applicable entity classes** field on the RAM. The value of this field changes based on the entity classes specified in your selected RAM. Only those entities that belong to the selected classes are displayed in this field.|
+    |Assessable Entity|Entities that are related to the entity classes that are selected in the **Applicable entity classes** field on the RAM. The value of this field changes based on the entity classes specified in your selected RAM. Only those entities that belong to the selected classes are displayed in this field.|
     |Owner|Owner of the entity. This field is automatically set based on the entity owner.|
 
 3.  Right-click and save the form.
@@ -42,7 +42,7 @@ You can initiate assessments after you create the scope. This process provides v
 
     The Summary section has the following fields. These fields are populated only when you add risks to the assessment scope and when you initiate assessments:
 
-    -   **No. of [[risk-assessments|risk assessments]] closed**
+    -   **No. of risk assessments closed**
     -   **No. of risks not assessed**
     -   **No. of ongoing risk assessments**
 5.  Right-click to save the form.
@@ -176,8 +176,3 @@ If you want to cancel an assessment for risks that no longer need to be assessed
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[risk-assessments|risk assessments]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your career** &gt; **[[mentoring-egd-overview|Mentoring]]** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your career** &gt; **Mentoring** &gt; **Overview**.
 
 2.  On a mentor's profile, in the Suggested mentors section, select **Search mentors**.
 
@@ -48,7 +48,4 @@ Role required: none
 
     For more information, see [Request a connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/request-connection-mentoring.md)
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

@@ -18,7 +18,7 @@ Card illustrations are used to improve the clarity or scannability of a feature.
 
 Card illustrations are visual elements that highlight key information, enhancing scannability and facilitating action. Card illustrations are theme-able, and adapt to the theme colors of your instance.
 
-**Important:** Card illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Card illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "tb-card-illustration.png"\] Alt text: Visualize data card illustration.
 
@@ -34,17 +34,10 @@ To override the default card illustrations with custom images, upload each image
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[configure-card-colors|Configure colors for card illustrations]]**  
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
--   **[[override-card-with-custom-images|Override card illustrations with custom images]]**  
+-   **[Configure colors for card illustrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-card-colors.md)**  
+Configure and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
+-   **[Override card illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-card-with-custom-images.md)**  
 Modify or override the default card illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[configure-card-colors|Configure colors for card illustrations]]
-- [[override-card-with-custom-images|Override card illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

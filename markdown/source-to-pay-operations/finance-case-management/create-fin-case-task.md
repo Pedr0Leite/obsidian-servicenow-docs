@@ -36,7 +36,7 @@ Role required: sn\_fin\_ops.specialist, sn-fin-ops.admin
 
 5.  Select the **Tasks** tab, and then select **New**.\[Omitted image "fin-task-from-fin-case.png"\] Alt text: Create a finance task from a finance case
 
-6.  On the Create New Finance [[slo-task-form|Task form]], fill in the fields.
+6.  On the Create New Finance Task form, fill in the fields.
 
     For more information on the form fields and descriptions, see [Create a finance task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/create-fin-task-form.md).
 
@@ -45,6 +45,3 @@ Role required: sn\_fin\_ops.specialist, sn-fin-ops.admin
 
 **Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 
-## Related
-
-- [[slo-task-form|Task form]]

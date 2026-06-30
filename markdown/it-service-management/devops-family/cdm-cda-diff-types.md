@@ -14,9 +14,9 @@ breadcrumb: [Compare config data of two CDM applications, Using DevOps Config, D
 
 # Types of differences between CDM applications
 
-Descriptions and examples of differences between CDM [[dex-workspace-application-tab|applications]] when using the Config Data Analyzer tool.
+Descriptions and examples of differences between CDM applications when using the Config Data Analyzer tool.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## Types of differences
 
@@ -24,9 +24,9 @@ On the **App compare** tab, the **CDIs and variables** tab displays changes to i
 
 -   **Values are different**
 
-    Both the [[reference-for-itsm-mobile-agent|reference]] and target changesets include a particular CDI, but the values differ between the two changesets. See the **Reference** and **Target** columns for the values.
+    Both the reference and target changesets include a particular CDI, but the values differ between the two changesets. See the **Reference** and **Target** columns for the values.
 
--   **Encryption [[settings-mobile|settings]] are different**
+-   **Encryption settings are different**
 
     The **View encrypted data** setting is selected for one changeset and not selected for the other changeset.
 
@@ -57,9 +57,3 @@ On the **App compare** tab, the **CDIs and variables** tab displays changes to i
 
 \[Omitted image "cdm-cda-diff-types2.png"\] Alt text: Examples of differences between changesets, part 2
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]

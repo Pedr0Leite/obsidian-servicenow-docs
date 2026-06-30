@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Interfaces Diagnostic Tool, Conversational
 
 # Diagnose Conversational Interfaces errors
 
-Use the [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] to resolve issues related to [[convint-landing-page|conversational interfaces]] such as error messages and system property issues before reaching out to Now Support.
+Use the Conversational Interfaces Diagnostic Tool to resolve issues related to conversational interfaces such as error messages and system property issues before reaching out to Now Support.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Use this task to resolve errors and find and change system property values.
 
 ## Procedure
 
-1.  Start a conversation with the [[virtual-agent-landing-page|Virtual Agent]] chatbot.
+1.  Start a conversation with the Virtual Agent chatbot.
 
 2.  At the greeting message, type `diagnostic pre chat`.
 
@@ -83,8 +83,3 @@ Use this task to resolve errors and find and change system property values.
 
 **Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/using-ci-diagnostics-tool.md)
 
-## Related
-
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

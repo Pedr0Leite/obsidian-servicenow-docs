@@ -14,7 +14,7 @@ breadcrumb: [Configure a push connector, Configure Event Management connectors, 
 
 # Configure ServiceNow Cloud Observability event collection
 
-Integrate ServiceNow Cloud Observability with [[c_EM|Event Management]] by adding a standard webhook in the ServiceNow Cloud Observability platform. Download the Event Management Connector plugin from the ServiceNow Store so you can integrate with ServiceNow Cloud Observability.
+Integrate ServiceNow Cloud Observability with Event Management by adding a standard webhook in the ServiceNow Cloud Observability platform. Download the Event Management Connector plugin from the ServiceNow Store so you can integrate with ServiceNow Cloud Observability.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Authenticate ServiceNow Cloud Observability as a data source to enable Event Man
 
 1.  Create a CI.
 
-    **Note:** [[r-discovery|Discovery]] for ServiceNow Cloud Observability services is not supported. Create a CI manually in a ServiceNow instance \(cmdb\_ci\_service\_auto table\) to enable binding.
+    **Note:** Discovery for ServiceNow Cloud Observability services is not supported. Create a CI manually in a ServiceNow instance \(cmdb\_ci\_service\_auto table\) to enable binding.
 
     1.  Navigate to **All** &gt; **Configuration** &gt; **Application Service**.
 
@@ -92,7 +92,3 @@ Authenticate ServiceNow Cloud Observability as a data source to enable Event Man
         -   4- Warning
         -   5- Info
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

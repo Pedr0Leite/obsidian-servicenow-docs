@@ -14,7 +14,7 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Working with Reports in TISC
 
-The Reports module in the [[threat-intel-landing-page|Threat Intelligence]] Library section enables you to create, manage, and publish reports that use any intelligence available in the Threat Intelligence Library.
+The Reports module in the Threat Intelligence Library section enables you to create, manage, and publish reports that use any intelligence available in the Threat Intelligence Library.
 
 Reports in the threat intelligence library are categorized into case reports and intelligence reports.
 
@@ -32,7 +32,7 @@ Case Reports follow the same structure and capabilities as the existing CTI case
 
 Intelligence Reports provide a flexible way to generate structured reports using any available threat intelligence from the Threat Intelligence Library. Using templates of the **Intelligence Report** category, analysts can create reports that incorporate data from library lists and specific intelligence objects without depending on a case.
 
-Unlike Case Reports, Intelligence Reports do not display case-specific fields or records. Instead, analysts can use record selection [[tools|tools]], slash commands, and table insertion options to customize the content of the report.
+Unlike Case Reports, Intelligence Reports do not display case-specific fields or records. Instead, analysts can use record selection tools, slash commands, and table insertion options to customize the content of the report.
 
 Slash commands in the threat intelligence report allow you to quickly insert dynamic content such as record counts, specific records, or system users into a report.
 
@@ -73,26 +73,26 @@ When you select this option, you can choose a table from the **Supported Tables*
 -   Observable
 -   Indicator
 -   Attack Pattern
--   [[campaign|Campaign]]
+-   Campaign
 -   Course of Action
--   [[identity|Identity]]
--   [[threat-intelligence-infrastructure|Infrastructure]]
--   [[threat-intelligence-intrusion-sets|Intrusion Set]]
--   [[location|Location]]
--   [[threat-intelligence-malware|Malware]]
--   [[threat-intelligence-malware-analysis|Malware Analysis]]
--   [[marking-definition|Marking Definition]]
--   [[object-sighting|Object Sighting]]
--   [[threat-intelligence-observed-data|Observed Data]]
--   [[threat-actor|Threat Actor]]
--   [[threat-event|Threat Event]]
--   [[threat-grouping|Threat Grouping]]
--   [[threat-note|Threat Note]]
--   [[threat-opinion|Threat Opinion]]
--   [[threat-report|Threat Report]]
+-   Identity
+-   Infrastructure
+-   Intrusion Set
+-   Location
+-   Malware
+-   Malware Analysis
+-   Marking Definition
+-   Object Sighting
+-   Observed Data
+-   Threat Actor
+-   Threat Event
+-   Threat Grouping
+-   Threat Note
+-   Threat Opinion
+-   Threat Report
 -   Tool
 -   Vulnerability
--   [[data-component|Data Component]]
+-   Data Component
 -   Data Source
 
 </td></tr><tr><td>
@@ -139,9 +139,9 @@ Intelligence Reports appear in the **All Reports** and **Intelligence Reports** 
 -   **[View All Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports.md)**  
 Use this section to view all the list of reports.
 -   **[View Case Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-case-reports.md)**  
-[[tisc-case-reports|View Case Reports]].
+View Case Reports.
 -   **[View Intelligence Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-intel-reports.md)**  
-[[tisc-view-intel-reports|View intelligence reports]].
+View intelligence reports.
 -   **[View my reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-my-reports.md)**  
 View the reports that you created.
 
@@ -170,26 +170,3 @@ View the reports that you created.
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]
-- [[campaign|Campaign]]
-- [[identity|Identity]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[location|Location]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[marking-definition|Marking Definition]]
-- [[object-sighting|Object Sighting]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[threat-actor|Threat Actor]]
-- [[threat-event|Threat Event]]
-- [[threat-grouping|Threat Grouping]]
-- [[threat-note|Threat Note]]
-- [[threat-opinion|Threat Opinion]]
-- [[threat-report|Threat Report]]
-- [[data-component|Data Component]]
-- [[tisc-case-reports|View Case Reports]]
-- [[tisc-view-intel-reports|View Intelligence Reports]]

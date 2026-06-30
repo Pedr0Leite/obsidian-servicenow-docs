@@ -26,7 +26,7 @@ The ServiceNow® Model Risk Management application enables you to identify, asse
 
 </td><td>
 
-[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how you can request Models, assess model risks, [[manage-issues-common-core|manage issues]], and validate models.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
+[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how you can request Models, assess model risks, manage issues, and validate models.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,3 @@ The ServiceNow® Model Risk Management application enables you to identify, asse
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manage-issues-common-core|Manage issues]]

@@ -39,7 +39,7 @@ Admins can set and manage wrap-up time limits for voice and chat interactions an
 
 ## Wrap-up codes
 
-Wrap-up codes provide information about how an interaction was resolved. Agents can select a wrap-up code when wrapping up an interaction in [[csm-workspaces-configure|CSM Configurable Workspace]]. When wrap-up codes are enabled, agents can select a code from the configured list in the wrap-up modeless dialog.
+Wrap-up codes provide information about how an interaction was resolved. Agents can select a wrap-up code when wrapping up an interaction in CSM Configurable Workspace. When wrap-up codes are enabled, agents can select a code from the configured list in the wrap-up modeless dialog.
 
 System administrators can create wrap-up codes. From the Interaction Wrap Up Configuration record, system administrators can also do the following:
 
@@ -160,7 +160,7 @@ Interaction wrap-up segment records are stored in the Interaction Wrap Up Segmen
 
 ## My Wrap Ups list
 
-The My Wrap Ups list displays a list of all wrap-up records for the current user. To access this list in the [[migration-lists|Lists]] tab, navigate to **Interactions** &gt; **My Wrap Ups**. This list view includes a link to the interaction record, the wrap-up state \(In progress or Complete, and the wrap-up code and notes.
+The My Wrap Ups list displays a list of all wrap-up records for the current user. To access this list in the Lists tab, navigate to **Interactions** &gt; **My Wrap Ups**. This list view includes a link to the interaction record, the wrap-up state \(In progress or Complete, and the wrap-up code and notes.
 
 The following roles have access to the My Wrap Ups list:
 
@@ -177,7 +177,7 @@ There are two different controllers for interaction wrap up:
 
 The Wrap up controller includes output properties that determine where the wrap-up timer is displayed: in the modeless dialog or in the interaction header secondary values. The Wrap up controller also controls how the timer is updated.
 
-The [[csm-interaction-record-page|CSM Interaction record page]] and the [[csm-native-voice-record-page|CSM voice interaction record page]] include an input property that determines the wrap-up functionality: **disableLegacyWrapUpLogic**.
+The CSM Interaction record page and the CSM voice interaction record page include an input property that determines the wrap-up functionality: **disableLegacyWrapUpLogic**.
 
 -   If set to false: the wrap-up functionality remains the same. For upgrade customers, this prevents conflicts with the current or custom wrap-up functionality. The default value of this property is false.
 -   If set to true: the interaction record page uses the new wrap-up functionality.
@@ -196,9 +196,3 @@ The wrap-up controller, wrap-up codes, and wrap-up modeless dialog are available
 -   CSM Interaction record page
 -   CSM Voice interaction record page
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]

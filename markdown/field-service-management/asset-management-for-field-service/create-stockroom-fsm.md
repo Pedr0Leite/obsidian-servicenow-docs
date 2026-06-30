@@ -14,7 +14,7 @@ breadcrumb: [Stockrooms, Inventory and asset management, Configure, Field Servic
 
 # Create stockroom for Field Service Management assets
 
-Create a stockroom in the [[fsm-application-landing-page|Field Service Management]] application and assign assets to it.
+Create a stockroom in the Field Service Management application and assign assets to it.
 
 ## Before you begin
 
@@ -131,6 +131,4 @@ Indicates if this stockroom is managed internally \(check box is cleared\) or is
 
     The newly created stockroom appears in the **All stockrooms** tab.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Create a group for all location support agents in Care Team Operations for Environmental Services
 
-Create a group for location support agents with the **sn\_cto\_evs.loc\_support\_agent** role assigned so that users added to this group will inherit the collection of roles for [[cto-evs-landing|Care Team Operations for Environmental Services]].
+Create a group for location support agents with the **sn\_cto\_evs.loc\_support\_agent** role assigned so that users added to this group will inherit the collection of roles for Care Team Operations for Environmental Services.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The location support agent role will only give healthcare organization members t
 
 A user group is created for your location support agents to which you can assign your environmental services support agents when doing automated user imports.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

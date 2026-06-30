@@ -20,7 +20,7 @@ Role required: move\_agent or facilities\_staff
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EnterpriseMove|Enterprise Move]]** &gt; **[[c_MovePlanningTool|Move Planning Tool]]**.
+1.  Navigate to **All** &gt; **Enterprise Move** &gt; **Move Planning Tool**.
 
 2.  Click **Create New Scenario**.
 
@@ -85,7 +85,7 @@ Move delegator
 
 </td><td>
 
-The person responsible for assigning users to open spaces in a scenario. Refer to [[t_ActivateADelegator|Activate a delegator]].
+The person responsible for assigning users to open spaces in a scenario. Refer to [Activate a delegator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateADelegator.md).
 
 </td></tr></tbody>
 </table>10. To add or delete users in this scenario, click the arrow to expand the **Users** tab.
@@ -97,15 +97,8 @@ The person responsible for assigning users to open spaces in a scenario. Refer t
     \[Omitted image "AddUsersScenarios.png"\] Alt text: In this figure, the users have been added to the move scenario and show as pending on the floor to which they have been assigned.
 
 
--   **[[c_Lounge|Lounge]]**  
+-   **[Lounge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_Lounge.md)**  
 When a facilities administrator sets up a move scenario without specifying the destination building or floor, the users are moved to the lounge.
 
-**Parent Topic:**[[r_EnterMoveScenarios|Enterprise move scenarios]]
+**Parent Topic:**[Enterprise move scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveScenarios.md)
 
-## Related
-
-- [[t_ActivateADelegator|Activate a delegator]]
-- [[c_Lounge|Lounge]]
-- [[r_EnterMoveScenarios|Enterprise move scenarios]]
-- [[c_EnterpriseMove|Enterprise move]]
-- [[c_MovePlanningTool|Move planning tool]]

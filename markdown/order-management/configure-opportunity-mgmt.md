@@ -30,7 +30,7 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-[[install-opportunity-management|Install Opportunity Management]]
+[Install Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-opportunity-management.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Admin
 
 </td><td>
 
-Assign the user roles for Opportunity Management, [[product-catalog-managment|Product Catalog Management]], and [[pricing-management|Pricing Management]].
+Assign the user roles for Opportunity Management, Product Catalog Management, and Pricing Management.
 
 </td><td>
 
@@ -54,7 +54,7 @@ Admin
 
 </td></tr><tr><td>
 
-[[som-managing-product-catalogs|Configuring product offerings and catalogs]]
+[Configuring product offerings and catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)
 
 </td><td>
 
@@ -66,11 +66,11 @@ Product catalog admin
 
 </td></tr><tr><td>
 
-[[som-create-price-list-line|Configuring product pricing]]
+[Configuring product pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-price-list-line.md)
 
 </td><td>
 
-Define the [[som-create-price-list|price lists]], pricing strategies, and other pricing features that you want to use, unless they've been previously defined.
+Define the [price lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-price-list.md), pricing strategies, and other pricing features that you want to use, unless they've been previously defined.
 
 </td><td>
 
@@ -78,7 +78,7 @@ Pricing admin
 
 </td></tr><tr><td>
 
-[[configuring-needs-analysis|Configure needs analysis]]
+[Configure needs analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-needs-analysis.md)
 
 </td><td>
 
@@ -90,11 +90,11 @@ Product catalog admin
 
 </td></tr><tr><td>
 
-[[config-location-transaction|Configure location-based transactions]]
+[Configure location-based transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md)
 
 </td><td>
 
-Activate the system property for location-based transactions and set up the rule entity and product eligibility decision [[rules_101|rules]].
+Activate the system property for location-based transactions and set up the rule entity and product eligibility decision rules.
 
 </td><td>
 
@@ -102,7 +102,7 @@ Admin and product catalog admin
 
 </td></tr><tr><td>
 
-[[opportunity-management-opportunity-stages|Create opportunity stages]]
+[Create opportunity stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-opportunity-stages.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ Opportunity setup writer
 
 </td></tr><tr><td>
 
-[[opportunity-management-sales-cycle-types|Create a sales cycle for an opportunity]]
+[Create a sales cycle for an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-sales-cycle-types.md)
 
 </td><td>
 
@@ -126,7 +126,7 @@ Opportunity setup writer
 
 </td></tr><tr><td>
 
-[[opportunity-management-sales-cycle-stages|Associate a sales cycle with the opportunity stage]]
+[Associate a sales cycle with the opportunity stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-sales-cycle-stages.md)
 
 </td><td>
 
@@ -140,23 +140,7 @@ Opportunity setup writer
 </table>**Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[install-opportunity-management|Install Opportunity Management]]
-- [[som-managing-product-catalogs|Configuring product offerings and catalogs]]
-- [[som-create-price-list-line|Create a price list line]]
-- [[som-create-price-list|Create and publish a price list]]
-- [[configuring-needs-analysis|Configuring needs analysis]]
-- [[config-location-transaction|Configuring location-based product transactions]]
-- [[opportunity-management-opportunity-stages|Create opportunity stages]]
-- [[opportunity-management-sales-cycle-types|Create a sales cycle for an opportunity]]
-- [[opportunity-management-sales-cycle-stages|Associate a sales cycle with the opportunity stage]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[pricing-management|Pricing Management]]
-- [[rules_101|Rules]]

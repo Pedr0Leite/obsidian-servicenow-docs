@@ -14,9 +14,9 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # OT Asset Workspace roles
 
-The following roles help you to manage the [[ot-asset-management|OT Asset Management]] application.
+The following roles help you to manage the OT Asset Management application.
 
-Access to the [[ot-asset-ws-otam|OT Asset Workspace]] depends on the role assigned to you.
+Access to the OT Asset Workspace depends on the role assigned to you.
 
 -   OT asset manager \[sn\_otam.ot\_asset\_manager\]: Provides full access to the OT Asset Workspace.
 -   OT asset technician \[sn\_otam.ot\_asset\_technician\]: Provides limited access to the OT Asset Workspace.
@@ -36,7 +36,7 @@ Access to the [[ot-asset-ws-otam|OT Asset Workspace]] depends on the role assign
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -66,8 +66,3 @@ Access to the [[ot-asset-ws-otam|OT Asset Workspace]] depends on the role assign
 
 [Asset put away task fields]()
 
-## Related
-
-- [[ot-asset-management|OT Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[model-hierarchy|Model categories]]

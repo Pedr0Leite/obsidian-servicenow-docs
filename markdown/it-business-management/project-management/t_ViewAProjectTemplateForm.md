@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-When you create a template from a project, all the project attachments and checklists are copied to the template. You can add or remove attachments from the template using the [[project-template-form|Project Template form]]. A project template created from an off-schedule project honors the off-schedule tasks.
+When you create a template from a project, all the project attachments and checklists are copied to the template. You can add or remove attachments from the template using the Project Template form. A project template created from an off-schedule project honors the off-schedule tasks.
 
 ## Procedure
 
@@ -93,6 +93,3 @@ Steps
 
 [Applying templates to projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTemplates.md)
 
-## Related
-
-- [[project-template-form|Project Template Form]]

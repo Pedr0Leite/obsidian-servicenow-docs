@@ -37,7 +37,7 @@ After adding or updating rate lines in a file created using the [export function
 1.  Import rate lines from an import file into the rate model in one of the following ways:
 
     -   Navigate to **All** &gt; **Project Administration** &gt; **Rate Model** &gt; **Import Rate Line**.
-    -   Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Rate Model** &gt; **Import Rate Line**.
+    -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **Import Rate Line**.
     -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **All**, open a rate model record, and click the **Import Rate Line** related link.
 2.  Click **Choose File** to select the import file.
 
@@ -61,6 +61,3 @@ After adding or updating rate lines in a file created using the [export function
 
 **Parent Topic:**[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

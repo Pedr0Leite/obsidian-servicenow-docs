@@ -14,11 +14,11 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Enterprise model and asset classes
 
-The [[enterprise-asset-management|Enterprise Asset Management]] application supports enterprise model and asset classes that extend base classes within the Configuration Management Database \(CMDB\) class hierarchy. These extensions include class descriptions, identification rules, and dependent relationships.
+The Enterprise Asset Management application supports enterprise model and asset classes that extend base classes within the Configuration Management Database \(CMDB\) class hierarchy. These extensions include class descriptions, identification rules, and dependent relationships.
 
-To access enterprise model and asset classes in the Enterprise Asset Management application, you must install the [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]] application from the ServiceNow® Store. For more information on this application, see [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md).
+To access enterprise model and asset classes in the Enterprise Asset Management application, you must install the Expanded Model and Asset Classes application from the ServiceNow® Store. For more information on this application, see [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md).
 
-Enterprise model and asset classes form the structural backbone of the [[eam-data-model|Enterprise Asset Management data model]]. These classes are organized into class hierarchies, in which child classes extend their parent classes and inherit all parent attributes. The Enterprise Asset Management application establishes relationships between enterprise model classes and enterprise asset classes through [[model-hierarchy|model categories]]. For more information on model categories, see [Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/model-hierarchy.md).
+Enterprise model and asset classes form the structural backbone of the Enterprise Asset Management data model. These classes are organized into class hierarchies, in which child classes extend their parent classes and inherit all parent attributes. The Enterprise Asset Management application establishes relationships between enterprise model classes and enterprise asset classes through model categories. For more information on model categories, see [Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/model-hierarchy.md).
 
 ## Supported enterprise model classes
 
@@ -38,7 +38,7 @@ Medical model\[sn\_ent\_medical\_model\]
 
 </td><td>
 
-Classifies medical-based enterprise [[c_Models|models]], such as ER Medical Cart Kit and ECG Electrodes.
+Classifies medical-based enterprise models, such as ER Medical Cart Kit and ECG Electrodes.
 
 </td></tr><tr><td>
 
@@ -247,10 +247,3 @@ Classifies system cards and smart cards, such as magnetic stripe cards.
 
 **Parent Topic:**[Enterprise Asset Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-data-model.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]
-- [[eam-data-model|Enterprise Asset Management data model]]
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]

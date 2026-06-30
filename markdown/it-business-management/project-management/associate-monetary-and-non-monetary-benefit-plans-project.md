@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Associate monetary and non-monetary benefit plans
 
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the project for the hybrid benefit plans.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the project for the hybrid benefit plans.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 
-2.  Open the required [[create-a-project-form|project form]].
+2.  Open the required project form.
 
 3.  Select the Monetary Benefit Plans or Non-monetary Benefit Plans related list.
 
@@ -54,7 +54,7 @@ Action
 
 </td><td>
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], fill in the **Associated benefit** field with the benefit plan that you want to associate.
+On the Benefit Plan form, fill in the **Associated benefit** field with the benefit plan that you want to associate.
 
 </td></tr><tr><td id="d73122e136">
 
@@ -93,7 +93,7 @@ Select the **View Associated benefit plan** related link to view the associated 
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -131,9 +131,3 @@ Select the **View Associated benefit plan** related link to view the associated 
 
 [Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-## Related
-
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]
-- [[create-a-project-form|Project form]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[c_ResourcePlans|Resource plans]]

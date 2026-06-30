@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Configuration Management Database \(CMDB\), Configur
 
 # Exploring Now Assist for CMDB
 
-With the [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]] application, you can use Agentic AI to search the CMDB, summarize discovery, ownership and related information for a CI, and fix failed SGC import sets. You can also follow step-by-step guidance to help you remediate duplicate CIs, improve CMDB data accuracy, completeness, and health .
+With the Now Assist for Configuration Management Database \(CMDB\) application, you can use Agentic AI to search the CMDB, summarize discovery, ownership and related information for a CI, and fix failed SGC import sets. You can also follow step-by-step guidance to help you remediate duplicate CIs, improve CMDB data accuracy, completeness, and health .
 
 ## Now Assist for CMDB agentic workflows
 
@@ -22,7 +22,7 @@ Now Assist for CMDB provides the following abilities:
 
 -   **Create configuration item agentic workflow**
 
-    Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks [[ire|Identification and Reconciliation engine \(IRE\)]] rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI.
+    Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks Identification and Reconciliation engine \(IRE\) rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI.
 
     The Create configuration item agentic workflow is particularly useful for adding CIs to tables accessed by Operational Technology because users might add physical CIs while unaware of the importance of managing CI data in the CMDB.
 
@@ -70,7 +70,7 @@ Now Assist for CMDB provides the following abilities:
 
 -   **Service Graph Connector diagnosis**
 
-    [[cmdb-sgc-available|Service Graph Connectors]] are integrations that facilitate data ingestion from third-party sources into the CMDB. Errors in Service Graph Connectors can disrupt the flow of configuration item \(CI\) data resulting in inconsistencies between the actual state of CIs and their CMDB records.
+    Service Graph Connectors are integrations that facilitate data ingestion from third-party sources into the CMDB. Errors in Service Graph Connectors can disrupt the flow of configuration item \(CI\) data resulting in inconsistencies between the actual state of CIs and their CMDB records.
 
     The Service Graph Connector diagnosis skill automates error diagnosis and recommendation generation, enabling CMDB installation administrators to identify and resolve the issues. This automation reduces manual effort and saves time in debugging Service Graph Connectors issues.
 
@@ -87,8 +87,3 @@ Get a quick overview of the important information that is related to the Now Ass
 
 **Parent Topic:**[Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)
 
-## Related
-
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

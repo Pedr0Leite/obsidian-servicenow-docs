@@ -16,13 +16,13 @@ Create the script at any time during the configuration of a definition.
 
 ## About this task
 
-The script can perform a transform action without using a variable, but the action of the definition will be the same for all fields. Variables create more flexibility for the definition, enabling an administrator to use the same definition in different ways in different places. If a variable is defined, the script must [[reference-email-admin|reference]] the variable using the correct format.
+The script can perform a transform action without using a variable, but the action of the definition will be the same for all fields. Variables create more flexibility for the definition, enabling an administrator to use the same definition in different ways in different places. If a variable is defined, the script must reference the variable using the correct format.
 
 There are three arguments in the script:
 
 -   Variables: Contains the variables using the format variables.&lt;variable name&gt;.
 -   Value: Contains the un-transformed value
--   [[r_DirectJDBCProbeParameters|Parameters]]: Special objects that set debug messages.
+-   Parameters: Special objects that set debug messages.
 
 All position parameters \(such as Starting position and Ending position\) have three modes that apply to all the transform types that use this variable.
 
@@ -53,7 +53,7 @@ If the position value starts with /regex/, everything after that is a regular ex
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Open the **Odd/Even** record in the Transform [[clone-exclusions-preservers-cleanupscripts|Definitions]] module.
+1.  Open the **Odd/Even** record in the Transform Definitions module.
 
 2.  Enter the following script to pass values with the odd\_even variable.
 
@@ -74,8 +74,4 @@ If the position value starts with /regex/, everything after that is a regular ex
 
     The Odd/Even transform definition is now ready to use in a field transformation.
 
-## Related
 
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

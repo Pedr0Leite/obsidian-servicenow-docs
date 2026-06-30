@@ -20,7 +20,7 @@ Provision a cloud account as an admin through Cloud Workspace.
 
 Confirm that the cloud context has been configured. For more information, see [Creating configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-config.md).
 
-[[r-discovery|Discovery]] must have been performed on the [[cloud-admin-portal|cloud admin portal]].
+Discovery must have been performed on the cloud admin portal.
 
 Role required: sn\_itom\_cam.cw\_admin
 
@@ -84,7 +84,7 @@ Select an existing account from the drop-down list.
 4.  Below the **Enter API response** field, select the link [Azure playground](https://learn.microsoft.com/en-us/rest/api/billing/billing-accounts/list?view=rest-billing-2024-04-01&tabs=HTTP#code-try-0).
 5.  Sign in to your Azure portal.
 6.  From the Azure portal, copy the sample JSON response that appears under the **EnrollmentAccountsListByBillingAccount** section.
-7.  In the [[cam-landing|Cloud Account Management]] application, paste the sample JSON response in the **Enter API response** field.
+7.  In the Cloud Account Management application, paste the sample JSON response in the **Enter API response** field.
 8.  Select **Add**.
 
 
@@ -156,8 +156,4 @@ Select an existing account.
 -   Based on the defined context, Cloud Account Management creates a subscription account within the specified cloud organization and AWS organization unit or Azure management group
 -   To provide a more user-friendly alternative to a subscription ID, when an Azure subscription is requested through Cloud Account Management, an alias consisting of an 8-character randomly generated suffix is appended to the request name. For example: `CWSAREQ0000001-businessapp1-UEFwnlF8`.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cam-landing|Cloud Account Management]]

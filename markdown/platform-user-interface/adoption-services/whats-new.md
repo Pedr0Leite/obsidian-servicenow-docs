@@ -15,7 +15,7 @@ breadcrumb: [Using Help Center, Help Center, In-product help, Adoption services,
 
 # What's New
 
-The What's New tab in the [[help-center|Help Center]] displays information about the new and important features for applications in your instance, including features from the latest ServiceNow® release\(s\).
+The What's New tab in the Help Center displays information about the new and important features for applications in your instance, including features from the latest ServiceNow® release\(s\).
 
 \[Omitted image "whats-new.png"\] Alt text: whats new tab.
 
@@ -29,9 +29,5 @@ You can select a feature from the tab to access the feature page for more inform
 
 \[Omitted image "whats-new-details-page.png"\] Alt text: Catalog builder details page.
 
-The feature page displays information on all new features for the application. Features are tagged to notify you of their availability state. In this example, [[configure-onboarding-modals|configure]] the Catalog Builder experience for catalog item editors, is a feature that is not available. This could be either due to an upgrade requirement, or due to the required plugins for the feature not being installed on the instance. For most features, links are provided to expand information or to navigate to the documentation site.
+The feature page displays information on all new features for the application. Features are tagged to notify you of their availability state. In this example, configure the Catalog Builder experience for catalog item editors, is a feature that is not available. This could be either due to an upgrade requirement, or due to the required plugins for the feature not being installed on the instance. For most features, links are provided to expand information or to navigate to the documentation site.
 
-## Related
-
-- [[help-center|Help Center]]
-- [[configure-onboarding-modals|Configure]]

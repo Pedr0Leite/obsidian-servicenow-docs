@@ -18,7 +18,7 @@ A work order is automatically closed when all work order tasks associated with i
 
 ## Close a work order task
 
-[[t_CloseAWorkOrderTaskAsComplete|Close a work order task as complete]] or as incomplete with optionally a follow-on task to complete.
+Close a work order task as complete or as incomplete with optionally a follow-on task to complete.
 
 ### Before you begin
 
@@ -61,7 +61,7 @@ Do this
 
 </td></tr><tr><td id="d72762e223">
 
-**[[t_CloseAWorkOrderTaskAsIncomplete|Close a work order task as incomplete]]**
+**Close a work order task as incomplete**
 
 </td><td>
 
@@ -97,7 +97,7 @@ When all work order tasks associated with a work order are closed, the work orde
 
 [Closing work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_CloseAWorkOrder.md)
 
-[[r_InstalledWithFSM|System properties]]
+[System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
 ## Respond to a reviewed work order task
 
@@ -246,7 +246,7 @@ Select the **Function instances belonging to Screen** tab.
 
 ## Cancel or suspend a work order
 
-[[t_CancelAWorkOrder|Cancel a work order]] if it is no longer needed or suspend a work order if you want to work on it later.
+Cancel a work order if it is no longer needed or suspend a work order if you want to work on it later.
 
 ### Before you begin
 
@@ -359,7 +359,7 @@ Role required: wm\_agent or wm\_dispatcher
 
 ## Record an incidental expense for a work order task
 
-Record incidental expenses associated with your business travel through the Mobile Agent application to [[c_ExecuteWorkOrderTasks|execute work order tasks]].
+Record incidental expenses associated with your business travel through the Mobile Agent application to execute work order tasks.
 
 ### Before you begin
 
@@ -419,10 +419,4 @@ Role required: wm\_agent
 
 5.  Save the record.
 
-## Related
 
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[t_CloseAWorkOrderTaskAsComplete|Close a work order task as complete]]
-- [[t_CloseAWorkOrderTaskAsIncomplete|Close a work order task as incomplete]]
-- [[t_CancelAWorkOrder|Cancel a work order]]
-- [[c_ExecuteWorkOrderTasks|Execute work order tasks]]

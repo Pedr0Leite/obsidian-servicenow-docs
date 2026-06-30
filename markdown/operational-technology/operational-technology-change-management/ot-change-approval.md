@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Operational Technology change approval
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) change approval lets reviewers approve your requested changes and suggest improvements as necessary.
+The Operational Technology \(OT\) change approval lets reviewers approve your requested changes and suggest improvements as necessary.
 
 ## Change approval overview
 
@@ -47,6 +47,3 @@ Add a group member, or approver, manually to your approval group to review your 
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d24720e127">
 
-**Task \(deviation and [[industrial-root-cause-analysis|root cause analysis]]\)**
+**Task \(deviation and root cause analysis\)**
 
 </td><td>
 
@@ -65,6 +65,3 @@ Create a context and within it rules and recommendations, as explained in:-   [C
 </table>
 **Parent Topic:**[Configuring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/configuring-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

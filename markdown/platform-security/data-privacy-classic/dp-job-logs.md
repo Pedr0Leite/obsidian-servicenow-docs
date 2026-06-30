@@ -14,7 +14,7 @@ breadcrumb: [Data privacy \(Classic\), Data Privacy, Platform Privacy]
 
 # Data Privacy Job Logs
 
-Review errors from [[data-privacy-landing|Data Privacy]] jobs.
+Review errors from Data Privacy jobs.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ Use the **Data Privacy Job Logs** to review failed discovery, classification, an
     |Target Table Column|Column the job executed on|
     |Target Table Record|Record the job executed on|
 
-## Related
 
-- [[data-privacy-landing|Data Privacy]]

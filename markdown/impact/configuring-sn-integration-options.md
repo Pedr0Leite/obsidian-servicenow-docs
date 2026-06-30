@@ -16,14 +16,14 @@ Configure the ServiceNow instance user story integration to create stories in a 
 
 ## Before you begin
 
--   My SN Instances registration and authentication must be complete. See [[register-your-instance|Register your instance]].
+-   My SN Instances registration and authentication must be complete. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 -   The User Story Table must exist on both the source and target instances before configuring field mappings.
 
 Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
 
 2.  Set **Integration Type** to `ServiceNow instance`.
 
@@ -36,7 +36,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
     The mapping script executes once on the Source instance and once on the Target instance. Use the available script variables to control behavior in each context. See [ServiceNow integration script leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-sn-integration-options.md) guidance on writing effective field mapping scripts.
 
 
-**Parent Topic:**[[user-story-integration-properties|User story integration]]
+**Parent Topic:**[User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md)
 
 ## ServiceNow integration script leading practices
 
@@ -72,8 +72,4 @@ The field mapping script executes twice, once on the Source \(Development\) inst
 
     Confirm that all target fields in `grTask` exist on the User Story Table in the production instance. Mapping to a non-existent field fails silently and the value is discarded.
 
-## Related
 
-- [[register-your-instance|Register your instance]]
-- [[user-story-integration-properties|User story integration]]
-- [[impact-landing-page|Impact]]

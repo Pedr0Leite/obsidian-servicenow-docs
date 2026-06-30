@@ -38,21 +38,14 @@ From the Employee Center portal, an employee can perform the following actions:
 
 \[Omitted image "AINativeemployeePortal.png"\] Alt text: AI-native Employee portal
 
--   **[[open-ticket-native-ai-itsm|Open an IT ticket in Employee Center]]**  
+-   **[Open an IT ticket in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/open-ticket-native-ai-itsm.md)**  
 Resolve a user's issue by opening an IT ticket.
--   **[[submit-cat-request-native-ai-itsm|Submit a catalog item request in Employee Center]]**  
+-   **[Submit a catalog item request in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/submit-cat-request-native-ai-itsm.md)**  
 Save time in searching for and submitting requests for commonly requested catalog items.
--   **[[search-solution-native-ai-itsm|Search for a solution in Employee Center]]**  
+-   **[Search for a solution in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/search-solution-native-ai-itsm.md)**  
 Resolve a user's issue by searching for a relevant solution.
--   **[[get-support-using-chat|Get chat support in Employee Center]]**  
+-   **[Get chat support in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/get-support-using-chat.md)**  
 Resolve user issues by requesting for support using chat.
 
-**Parent Topic:**[[employee-experience-native-ai-itsm|Employee experience in Simplified IT Service Management]]
+**Parent Topic:**[Employee experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-native-ai-itsm.md)
 
-## Related
-
-- [[open-ticket-native-ai-itsm|Open an IT ticket in Employee Center]]
-- [[submit-cat-request-native-ai-itsm|Submit a catalog item request in Employee Center]]
-- [[search-solution-native-ai-itsm|Search for a solution in Employee Center]]
-- [[get-support-using-chat|Get chat support in Employee Center]]
-- [[employee-experience-native-ai-itsm|Employee experience in Simplified IT Service Management]]

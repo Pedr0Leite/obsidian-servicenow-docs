@@ -14,7 +14,7 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 # Configuring calculator groups and calculators for Configuration Compliance
 
-[[vr-config-compliance-landing|Configuration Compliance]] calculators are used to update record values when pre-defined conditions are met. The calculators are grouped based on the criteria used to determine how the records are updated.
+Configuration Compliance calculators are used to update record values when pre-defined conditions are met. The calculators are grouped based on the criteria used to determine how the records are updated.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -41,6 +41,3 @@ After you create a risk calculator, it is available for calculations with the ne
 
 For more information about calculators and calculator groups, see [Configuration Compliance calculator groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-calc-groups.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

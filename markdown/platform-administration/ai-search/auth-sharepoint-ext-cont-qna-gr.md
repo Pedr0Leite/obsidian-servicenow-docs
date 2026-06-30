@@ -15,11 +15,11 @@ breadcrumb: [External Content Q&amp;A Genius Results, Configuring Now Assist in 
 
 # Sign in to Microsoft SharePoint Online to authorize External Content Q&amp;A Genius Results
 
-Obtain an OAuth 2.0 token from Microsoft SharePoint Online so that [[external-content-qna|External Content Q&amp;A Genius Results]] can find documents and generate answers when you search.
+Obtain an OAuth 2.0 token from Microsoft SharePoint Online so that External Content Q&amp;A Genius Results can find documents and generate answers when you search.
 
 ## Before you begin
 
-Only perform this task if your search [[hs-results|results]] page displays this informational message: `To view results generated from SharePoint, you need to be signed in.`
+Only perform this task if your search results page displays this informational message: `To view results generated from SharePoint, you need to be signed in.`
 
 Role required: none
 
@@ -41,13 +41,8 @@ Perform this task to generate a valid OAuth 2.0 token in Microsoft SharePoint On
 
 3.  After you're authenticated, repeat your previous search.
 
-    **Note:** External Content Q&amp;A Genius Results respect your Microsoft SharePoint Online user profile [[ia-security-settings-il|security settings]]. If you're not seeing an expected Genius Result answer, it's a good idea to check with your Microsoft SharePoint Online administrator to make sure you have access to the appropriate source documents.
+    **Note:** External Content Q&amp;A Genius Results respect your Microsoft SharePoint Online user profile security settings. If you're not seeing an expected Genius Result answer, it's a good idea to check with your Microsoft SharePoint Online administrator to make sure you have access to the appropriate source documents.
 
 
 **Parent Topic:**[External Content Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-qna.md)
 
-## Related
-
-- [[external-content-qna|External Content Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[ia-security-settings-il|Security Settings]]

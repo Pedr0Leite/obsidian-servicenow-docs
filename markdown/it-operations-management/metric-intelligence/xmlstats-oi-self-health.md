@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View self-health monitoring statistics for Metric Intelligence
 
-Monitor the status of components and processes of [[operational-metrics|Metric Intelligence]]. Use the XMLStats page to view statistics and diagnostic details that can help with troubleshooting issues with Metric Intelligence.
+Monitor the status of components and processes of Metric Intelligence. Use the XMLStats page to view statistics and diagnostic details that can help with troubleshooting issues with Metric Intelligence.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Details in the instance section are for the entire instance, showing the status 
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

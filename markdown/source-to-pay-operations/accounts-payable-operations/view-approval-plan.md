@@ -29,11 +29,11 @@ The approval engine converts each approval rule into one or multiple approval pl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Administration** &gt; **Approval plan**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Approval plan**.
 
 2.  Select a record.
 
-3.  On the [[approval-plan-form|Approval Plan form]], review the fields.
+3.  On the Approval Plan form, review the fields.
 
     For a description of the field values, see [Approval Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/approval-plan-form.md).
 
@@ -44,7 +44,3 @@ Use the related lists of the Approval Plan form to view the approval plan detail
 
 **Parent Topic:**[Invoice approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[approval-plan-form|Approval Plan form]]

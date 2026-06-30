@@ -24,11 +24,11 @@ Role required: pf\_user
 
 ## About this task
 
-You can associate single or multiple feedback records or product idea records with one or multiple non-planning items at a time. Non-planning items could be an incident, scrum task, agile story or item from any global or scoped application such as [[agile-development|agile development]], PPM standard or safe application.
+You can associate single or multiple feedback records or product idea records with one or multiple non-planning items at a time. Non-planning items could be an incident, scrum task, agile story or item from any global or scoped application such as agile development, PPM standard or safe application.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -46,7 +46,4 @@ You can associate single or multiple feedback records or product idea records wi
 
     You can now track your feedback or product idea with Related items Tab.
 
-## Related
 
-- [[agile-development|Agile Development]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

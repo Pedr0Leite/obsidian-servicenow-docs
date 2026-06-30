@@ -14,9 +14,9 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery properties
 
-Discovery properties allow you to control several aspects of the horizontal [[r-discovery|discovery]] process.
+Discovery properties allow you to control several aspects of the horizontal discovery process.
 
-For information about the Discovery properties that [[acc-landing-page|Agent Client Collector]] uses, see [Using push-based Discovery and horizontal IP-based Discovery together](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/using-enhanced-discovery-and-agent-less-discovery-together.md).
+For information about the Discovery properties that Agent Client Collector uses, see [Using push-based Discovery and horizontal IP-based Discovery together](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/using-enhanced-discovery-and-agent-less-discovery-together.md).
 
 Edit the following Discovery properties by navigating to **Discovery Definition** &gt; **Properties**.
 
@@ -67,9 +67,9 @@ glide.discovery.bgp\_router\_disable
 
 </td><td>
 
-BGP router exploration disable: Disables running the SNMP – Routing probe or pattern when discovering a router running the BGP protocol. Normally such exploration IS inactive because of the huge size of BGP routing tables, and because generally such routers are only operating at the edge of large networks where further [[c_NetworkDiscovery|network discovery]] would be irrelevant. This value could be set to false if your organization only uses BGP routers as edge routers between relatively small networks \(such as between buildings on a single campus\).
+BGP router exploration disable: Disables running the SNMP – Routing probe or pattern when discovering a router running the BGP protocol. Normally such exploration IS inactive because of the huge size of BGP routing tables, and because generally such routers are only operating at the edge of large networks where further network discovery would be irrelevant. This value could be set to false if your organization only uses BGP routers as edge routers between relatively small networks \(such as between buildings on a single campus\).
 
- If you must populate the \[discovery\_device\_neighbors\] table during horizontal [[c_Layer2Discovery|layer 2 discovery]] of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
+ If you must populate the \[discovery\_device\_neighbors\] table during horizontal layer 2 discovery of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
 
  -   Type: true \| false
 -   Default value: true
@@ -336,7 +336,7 @@ glide.discovery.certs.cert\_admin\_user\_id
 
 </td><td>
 
-[[cert-inventory-mgmt|Certificate Inventory and Management]]: Holds the user ID of the user who will be referenced in the certificate task and incident, created via Scheduled Job.
+Certificate Inventory and Management: Holds the user ID of the user who will be referenced in the certificate task and incident, created via Scheduled Job.
 
  -   Type: string \(40 characters maximum\)
 -   Default value: Certificate Administrator
@@ -460,7 +460,7 @@ glide.discovery.enable\_file\_tracking
 
 </td><td>
 
-Enable [[tracked-config-files|configuration file tracking]] as part of the Pattern based Horizontal Discovery. If set to **true**, the system enables you to specify paths of configuration files for applications that are discovered by patterns. You can track and compare tracked configuration files.
+Enable configuration file tracking as part of the Pattern based Horizontal Discovery. If set to **true**, the system enables you to specify paths of configuration files for applications that are discovered by patterns. You can track and compare tracked configuration files.
 
  -   Type: true \| false
 -   Default value: true
@@ -749,7 +749,7 @@ glide.discovery.perf.metrics.rollup\_by\_status
 
 </td><td>
 
-Whether to aggregate individual Discovery performance metrics into a roll-up table that groups by [[c_DiscoveryStatus|discovery status]].-   Type: true \| false
+Whether to aggregate individual Discovery performance metrics into a roll-up table that groups by discovery status.-   Type: true \| false
 -   Default value: true
 
 </td></tr><tr><td>
@@ -767,7 +767,7 @@ glide.discovery.populate\_software\_instance\_table
 
 </td><td>
 
-If set to **true**, Discovery populates these tables for [[c_Software|software discovery]]: `cmdb_software_instance` and `cmdb_sam_sw_install`
+If set to **true**, Discovery populates these tables for software discovery: `cmdb_software_instance` and `cmdb_sam_sw_install`
 
 -   Type: true \| false
 -   Default value: false
@@ -915,7 +915,7 @@ glide.discovery.sensors.save\_attachments
 
 </td><td>
 
-Save ECC queue attachments: The normal behavior for [[r_Sensors|discovery sensors]] is to delete attachments to ECC queue entries upon successful sensor processing. Setting this property to true overrides this behavior, and forces attachments to be preserved. This would normally only be useful for debugging purposes.-   Type: true \| false
+Save ECC queue attachments: The normal behavior for discovery sensors is to delete attachments to ECC queue entries upon successful sensor processing. Setting this property to true overrides this behavior, and forces attachments to be preserved. This would normally only be useful for debugging purposes.-   Type: true \| false
 -   Default value: true
 
 </td></tr><tr><td>
@@ -1055,7 +1055,7 @@ sn\_disco\_firewall.default.rule.task.policy.owner.group
 
 </td><td>
 
-[[firewall-audit-reporting|Firewall Audits and Reporting]]: Indicates the name of the assignment group that owns or is assigned to firewall rule tasks
+Firewall Audits and Reporting: Indicates the name of the assignment group that owns or is assigned to firewall rule tasks
 
 -   Type: string \(40 characters maximum\)
 -   Default value: Task Owner Group Name
@@ -1095,7 +1095,7 @@ sn\_disco\_workspace.discovery\_schedule\_anomaly\_detection\_disabled
 
 </td><td>
 
-[[discovery-admin-workspace|Discovery Admin Workspace]]: Disables the anomaly detection feature. When set to **true**, the system doesn't detect anomalies in Discovery schedules.-   Type: true \| false
+Discovery Admin Workspace: Disables the anomaly detection feature. When set to **true**, the system doesn't detect anomalies in Discovery schedules.-   Type: true \| false
 -   Default value: false
 
 **Warning:** Turning off this feature significantly impacts the Discovery experience across multiple pages, charts, and tables.
@@ -1194,16 +1194,3 @@ Discovery Admin Workspace: Enables a Virtual Agent to retrieve diagnostic inform
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryConfiguration.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_NetworkDiscovery|Network discovery]]
-- [[c_Layer2Discovery|Layer 2 discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[tracked-config-files|Configuration file tracking]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[c_Software|Software discovery]]
-- [[r_Sensors|Discovery sensors]]
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

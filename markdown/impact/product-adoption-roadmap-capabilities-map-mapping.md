@@ -12,7 +12,7 @@ breadcrumb: [Table and field level mapping, Impact reference, Impact]
 
 # Product Adoption Roadmap and Capabilities Map tables
 
-Following are the tables that are synced with your entitled capabilities, the usage status of your capabilities, and any changes made to your [[impact-par|Product Adoption Roadmaps]].
+Following are the tables that are synced with your entitled capabilities, the usage status of your capabilities, and any changes made to your Product Adoption Roadmaps.
 
 |Source field|Source table|Target field|Target table|
 |------------|------------|------------|------------|
@@ -81,9 +81,5 @@ Following are the tables that are synced with your entitled capabilities, the us
 |sys\_mod\_count|sn\_impact\_common\_capabilities\_map|sys\_mod\_count|x\_snc\_cusp\_customer\_application|
 |sys\_created\_by|sn\_impact\_common\_capabilities\_map|sys\_created\_by|x\_snc\_cusp\_customer\_application|
 
-**Parent Topic:**[[table-field-level-mapping|Table and field level mapping]]
+**Parent Topic:**[Table and field level mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/table-field-level-mapping.md)
 
-## Related
-
-- [[table-field-level-mapping|Table and field level mapping]]
-- [[impact-par|Product Adoption Roadmaps]]

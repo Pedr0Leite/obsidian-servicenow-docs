@@ -112,7 +112,7 @@ End date
 End date of the workspace assignments.
 
 </td></tr></tbody>
-</table>**Note:** You can [[edit-schedule-plan|edit a schedule plan]] only if it is in the Draft state. If the schedule plan is not in the Draft state, you can only change the **Name**, **Assigned to**, and **Description** fields.
+</table>**Note:** You can edit a schedule plan only if it is in the Draft state. If the schedule plan is not in the Draft state, you can only change the **Name**, **Assigned to**, and **Description** fields.
 
 **Parent Topic:**[Workplace Central reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-references.md)
 
@@ -151,6 +151,3 @@ End date of the workspace assignments.
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[edit-schedule-plan|Edit a schedule plan]]

@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector, IT Operations Management]
 
 # View live CI data with Agent Client Collector
 
-View live data for incident-related CIs through [[acc-landing-page|Agent Client Collector]] for information that can help resolve the incidents.
+View live data for incident-related CIs through Agent Client Collector for information that can help resolve the incidents.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ View live data for incident-related CIs through [[acc-landing-page|Agent Client 
     -   `_servicenow ALL=(ALL) NOPASSWD:LIVE_CI_VIEW`
 -   To enable the OSQuery executable to retrieve information on logged-in users in a Windows environment, the agent must run as a local SYSTEM account.
 
-Verify that you have installed Agent Client Collector Framework and [[workspace-dashboard-use|Service Operations Workspace]] on your instance.
+Verify that you have installed Agent Client Collector Framework and Service Operations Workspace on your instance.
 
 Role required: itil
 
@@ -112,7 +112,3 @@ Users logged in to the CI. Whether this data is visible depends on your OS privi
 
 [Assign a problematic CI to its incident to view live CI data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-live-ci-view-assign-ci.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

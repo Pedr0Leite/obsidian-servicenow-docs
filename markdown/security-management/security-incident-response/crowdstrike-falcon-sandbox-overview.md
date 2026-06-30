@@ -14,13 +14,13 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # CrowdStrike Falcon X Sandbox for Security Operations integration
 
-With the CrowdStrike Falcon X Sandbox for Security Operations integration, you can submit files and URLs as part of the [[sir-landing-page|security incident response]] process to CrowdStrike Falcon X Sandbox to perform a detailed [[threat-intelligence-malware|malware]] and threat analysis.
+With the CrowdStrike Falcon X Sandbox for Security Operations integration, you can submit files and URLs as part of the security incident response process to CrowdStrike Falcon X Sandbox to perform a detailed malware and threat analysis.
 
-The CrowdStrike Falcon X Sandbox integration provides you with an on-demand, isolated virtual environment where you can perform the [[threat-intelligence-malware-analysis|malware analysis]] and provide results to the ServiceNow security incident through the integration.
+The CrowdStrike Falcon X Sandbox integration provides you with an on-demand, isolated virtual environment where you can perform the malware analysis and provide results to the ServiceNow security incident through the integration.
 
 When you submit your malware incidents they are retained as part of the security incident record. You can use these records for further incident resolution and automate submission of files and URLs.
 
-The integration supports automation of both phishing and malware response [[tisc-playbooks-admin|playbooks]] which allows your [[security-operations-landing-page|Security Operations]] center personnel to be more productive and efficient in responding to security incidents.
+The integration supports automation of both phishing and malware response playbooks which allows your Security Operations center personnel to be more productive and efficient in responding to security incidents.
 
 ## Key benefits
 
@@ -29,7 +29,7 @@ With this integration, you can do the following:
 -   Automate submission of files and URLs from user-reported phishing \(URP\), email messages, attachments, and other security incidents.
 -   Manually submit or resubmit previously analyzed files and URLs for updated analysis.
 -   Create multiple submission configurations that automatically apply CrowdStrike Falcon X Sandbox submission parameters such as operating system, scan type, and runtime options.
--   Analyze malware and threat results in an HTML formatted report within the SIR incident. You can view [[tisc-threat-lookup|threat lookup]] results and the indicator history for files and URLs that have been analyzed multiple times.
+-   Analyze malware and threat results in an HTML formatted report within the SIR incident. You can view threat lookup results and the indicator history for files and URLs that have been analyzed multiple times.
 -   Tag ServiceNow incidents with the submission processing status, as well as threat finding results.
 
 ## See also
@@ -60,12 +60,3 @@ ServiceNow product documentation website
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-threat-lookup|Threat Lookup]]

@@ -14,18 +14,18 @@ breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply 
 
 # SPO and ITAM data model mappings
 
-Describes the data model and state synchronization between SPO and ITAM for purchase orders, purchase requisitions,sourcing requests, shipments, and [[receipts|receipts]].
+Describes the data model and state synchronization between SPO and ITAM for purchase orders, purchase requisitions,sourcing requests, shipments, and receipts.
 
 -   **[SPO PO field mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-po-field-mappings-itam-po.md)**  
-Lists the field mappings between SPO [[purchase-order-table|purchase order]] \(PO\) records and ITAM purchase order \(PO\) records.
+Lists the field mappings between SPO purchase order \(PO\) records and ITAM purchase order \(PO\) records.
 -   **[SPO PO state mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-po-state-mappings-itam-po.md)**  
 Lists the state mappings between SPO purchase order \(PO\) records and ITAM purchase order \(PO\) records.
 -   **[SPO PR field mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-pr-field-mappings-itam-po.md)**  
-Lists the field mappings between SPO purchase [[purchase-requisition|purchase requisition]] \(PR\) records and ITAM purchase order \(PO\) records.
+Lists the field mappings between SPO purchase purchase requisition \(PR\) records and ITAM purchase order \(PO\) records.
 -   **[SPO PR state mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-pr-state-mappings-itam-po.md)**  
 Lists the state mappings between SPO purchase requisition \(PR\) records and ITAM purchase order \(PO\) records.
 -   **[SPO SR field mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sr-field-mappings-itam-po.md)**  
-Lists the field mappings between SPO [[sourcing-request|sourcing request]] \(SR\) records and ITAM purchase order \(PO\) records.
+Lists the field mappings between SPO sourcing request \(SR\) records and ITAM purchase order \(PO\) records.
 -   **[SPO SR state mappings to ITAM PO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sr-state-mappings-itam-po.md)**  
 Lists the state mappings between SPO sourcing request \(SR\) records and ITAM purchase order \(PO\) records.
 -   **[ITAM shipment field and state mappings to SPO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-shipment-field-state-mappings-spo.md)**  
@@ -52,9 +52,3 @@ Lists the field mappings between ITAM receipt line records and SPO receipt recor
 
 [Sourcing and Procurement Operations glossary]()
 
-## Related
-
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

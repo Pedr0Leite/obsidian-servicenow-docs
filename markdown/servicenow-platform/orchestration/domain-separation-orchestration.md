@@ -14,7 +14,7 @@ breadcrumb: [Classic Orchestration, ServiceNow AI Platform Additional Capabiliti
 
 # Domain separation and Orchestration
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in Orchestration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Orchestration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard\*
 
@@ -29,6 +29,3 @@ Use case: As an admin, I need the ability to make comments mandatory on close of
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

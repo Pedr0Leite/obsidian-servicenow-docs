@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # AI Connector utility
 
-Use this utility to link generative AI to custom skills for added versatility in your [[virtual-agent-landing-page|Virtual Agent]] LLM \(large language model\) conversations.
+Use this utility to link generative AI to custom skills for added versatility in your Virtual Agent LLM \(large language model\) conversations.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -84,11 +84,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 \[Omitted image "vad-ai-connector-utility-properties.png"\] Alt text: AI Connector utility with no skill selected. The utility functions only after you select a custom skill that includes a query.
 
-\[Omitted image "vad-ai-connector-utility-properties-with-skill.png"\] Alt text: AI Connector utility with [[web-search-requestor|Web Search]] skill selected. All input and output mappings derive from the custom skill.
+\[Omitted image "vad-ai-connector-utility-properties-with-skill.png"\] Alt text: AI Connector utility with Web Search skill selected. All input and output mappings derive from the custom skill.
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[web-search-requestor|Web search]]

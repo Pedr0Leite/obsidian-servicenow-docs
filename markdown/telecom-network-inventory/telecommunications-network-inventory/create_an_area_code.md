@@ -14,7 +14,7 @@ breadcrumb: [Create the components of a telephone number, Configure, Telecommuni
 
 # Create an area code
 
-Create, review, update, or delete an area code by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create, review, update, or delete an area code by using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create an area code for a country code. You can assign the same area cod
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Administration** &gt; **Area code**.
 
@@ -72,12 +72,7 @@ Central office code that is also referred to as NXX. The NXX portion of a teleph
 
 ## What to do next
 
-[[create_telephone_block|Create a telephone block]], telephone number allocation, or telephone number. For information, see [Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md).
+Create a telephone block, telephone number allocation, or telephone number. For information, see [Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md).
 
 **Parent Topic:**[Create the components of a telephone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_components_of_a_telephone_number.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[create_telephone_block|Create a telephone block]]

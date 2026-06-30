@@ -32,12 +32,10 @@ Role required: Admin
 
 5.  Select **here** if you see the notice that says:
 
-    This record is in the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application, but Global is the current application. To edit this record, click **here**.
+    This record is in the Now Assist for Telecommunications, Media and Technology \(TMT\) application, but Global is the current application. To edit this record, click **here**.
 
 6.  Clear the **Read only** field.
 
     \[Omitted image "now-assist-configure-questionnaire.png"\] Alt text: now assist skill variable.
 
-## Related
 
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]

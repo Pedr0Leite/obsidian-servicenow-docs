@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Adobe Acrobat Sign external content connector
 
-The Adobe Acrobat Sign external content connector retrieves documents from agreements in your Adobe Acrobat Sign source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Adobe Acrobat Sign external content connector retrieves documents from agreements in your Adobe Acrobat Sign source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to retrieve updated content and access permissions from your source system, or user permission crawls to retrieve updated security principals from your source system. Both types of crawl feed their data to AI Search for indexing.
 
@@ -37,6 +37,3 @@ Specify the agreement documents you want your Adobe Acrobat Sign external conten
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

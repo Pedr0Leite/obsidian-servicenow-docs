@@ -35,8 +35,5 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]]
+[Create orders from the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-create-an-order-using-customer-portal.md)
 
-## Related
-
-- [[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]]

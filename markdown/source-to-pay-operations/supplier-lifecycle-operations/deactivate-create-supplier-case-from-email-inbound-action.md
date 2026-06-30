@@ -14,7 +14,7 @@ breadcrumb: [Automate supplier case creation from emails, Use, Now Assist for SL
 
 # Deactivate Create supplier case from email inbound action
 
-The Create [[supplier|Supplier]] case for email inbound action must be inactive for automatic creation of supplier cases from emails using Now Assist.
+The Create Supplier case for email inbound action must be inactive for automatic creation of supplier cases from emails using Now Assist.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 The Create supplier case from email inbound action is deactivated.
 
-## Related
-
-- [[supplier|Supplier]]

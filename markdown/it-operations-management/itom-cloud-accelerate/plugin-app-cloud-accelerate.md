@@ -14,16 +14,16 @@ breadcrumb: [ITOM Cloud Accelerate reference, ITOM Cloud Accelerate, IT Operatio
 
 # Plugins or applications installed with ITOM Cloud Accelerate
 
-Tables that list the plugins or applications that are installed with [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]] applications. When you update your application, any newly required application dependencies are installed.
+Tables that list the plugins or applications that are installed with ITOM Cloud Accelerate applications. When you update your application, any newly required application dependencies are installed.
 
 ## Cloud Services Catalog
 
-The CSC Content Pack plugin \(sn\_itom\_csc\_cp\) provides the required predefined content for the [[csc-home|Cloud Services Catalog]] application. This content includes governance policies and actions to deliver an end-to-end governed deployment workflow.
+The CSC Content Pack plugin \(sn\_itom\_csc\_cp\) provides the required predefined content for the Cloud Services Catalog application. This content includes governance policies and actions to deliver an end-to-end governed deployment workflow.
 
 |Plugin or application name|Description|
 |--------------------------|-----------|
-|Cloud Services Catalog Terraform Connector \(sn\_cmp\_terraform\)|Integrates Terraform Open Source, Terraform Enterprise, and Terraform Cloud with ITOM [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] \(CPG\), enabling you to provision and manage services in multiple clouds like AWS, Azure, GCP, and VMware. The Terraform templates are codified as cloud template catalogs that you can use to provision cloud resources.|
-|Cloud [[r-discovery|Discovery]] Workspace \(sn\_cloud\_ops\_ws\)|Offers a comprehensive solution to manage the cloud operations of your organization.|
+|Cloud Services Catalog Terraform Connector \(sn\_cmp\_terraform\)|Integrates Terraform Open Source, Terraform Enterprise, and Terraform Cloud with ITOM Cloud Provisioning and Governance \(CPG\), enabling you to provision and manage services in multiple clouds like AWS, Azure, GCP, and VMware. The Terraform templates are codified as cloud template catalogs that you can use to provision cloud resources.|
+|Cloud Discovery Workspace \(sn\_cloud\_ops\_ws\)|Offers a comprehensive solution to manage the cloud operations of your organization.|
 |Cloud Provisioning and Governance \(com.snc.cloud.mgmt\)|Provides a single interface to access cloud resources, publish cloud offerings to a catalog, and manage the use of those resources.|
 |Guided Setup \(sn\_ads\_setup\)|Enables you to step through the initial configuration of any product or application that provides a Guided Setup module. Guided Setup assists you with planning the roll-out of a product and performing the basic configuration necessary to go live.|
 |ITOM/OT SU Licensing \(sn\_itom\_licensing\)|Calculates and displays how many subscriptions for ITOM applications your organization purchases and consumes.|
@@ -32,8 +32,8 @@ The CSC Content Pack plugin \(sn\_itom\_csc\_cp\) provides the required predefin
 |--------------------------|-----------|
 |Cloud Services Catalog \(sn\_itom\_csc\)|Provides a simplified interface to automate cloud management and access cloud resources. The application enables you to publish cloud offerings to a catalog and manage the usage and life cycle of those resources.|
 |ServiceNow IntegrationHub Action Step - SSH \(com.glide.hub.action\_step.ssh\)|The SSH step executes SSH commands on an external \*nix system through a ServiceNow® MID Server. The step also stores scripts and commands for the \*nix systems.|
-|Agent Client Collector Framework \(sn\_agent\)|Manages [[acc-landing-page|Agent Client Collector]] on the ServiceNow instance and the MID Server.|
-|CCG Content Pack \(sn\_itom\_ccg\_cp\)|Provides optional predefined content for the [[cloud-configuration-governance|Cloud Configuration Governance]] application such as policies, resource collectors, configuration collectors, and [[ccg-remediation|remediation]] actions.|
+|Agent Client Collector Framework \(sn\_agent\)|Manages Agent Client Collector on the ServiceNow instance and the MID Server.|
+|CCG Content Pack \(sn\_itom\_ccg\_cp\)|Provides optional predefined content for the Cloud Configuration Governance application such as policies, resource collectors, configuration collectors, and remediation actions.|
 |Flow Designer Action Step - Email \(com.glide.hub.action\_step.email\)|Provides the Send Email step to send an email to specified users or groups as an action in a flow.|
 
 ## Cloud Migration Assessment
@@ -42,7 +42,7 @@ The CSC Content Pack plugin \(sn\_itom\_csc\_cp\) provides the required predefin
 |--------------------------|-----------|
 |ITOM/OT SU Licensing \(sn\_itom\_licensing\)|Calculates and displays how many subscriptions for ITOM applications your organization purchases and consumes.|
 |Discovery \(com.snc.discovery\)|Finds applications and devices on your network, and then updates the CMDB with the information it finds.|
-|Cloud Migration Base \(com.sn\_cloud\_mig\_base\)|A base plugin to support the [[cloud-migration-landing-page|Cloud Migration Assessment]] application.|
+|Cloud Migration Base \(com.sn\_cloud\_mig\_base\)|A base plugin to support the Cloud Migration Assessment application.|
 
 ## Cloud Configuration Governance
 
@@ -74,7 +74,7 @@ The CCG Content Pack plugin \(sn\_itom\_ccg\_cp\) provides optional predefined c
 
 |Plugin or application name|Description|
 |--------------------------|-----------|
-|Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns \(sn\_itom\_pattern\)|Provides the latest versions of the Discovery and Service Mapping Patterns released on the ServiceNow Store. ServiceNow releases new patterns on the ServiceNow® Store on a monthly basis, enabling your organization to discover the latest industry-standard devices and applications.|
+|Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)|Provides the latest versions of the Discovery and Service Mapping Patterns released on the ServiceNow Store. ServiceNow releases new patterns on the ServiceNow® Store on a monthly basis, enabling your organization to discover the latest industry-standard devices and applications.|
 |ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)|Enables execution of IntegrationHub actions and flows.|
 |ServiceNow IntegrationHub Action Step - Get Connection Info \(com.glide.hub.action\_step.get\_connection\_info\)|Provides the connection and credential details from another step, such as a representational state transfer \(REST\) step, to other steps in your action.|
 |ServiceNow IntegrationHub Action Template - Data Stream \(com.glide.hub.action\_type.datastream\)|Send REST, SOAP, or JDBC requests from Workflow Studio to APIs that return a stream of response data larger than 10 MB, or that return paginated results. Parse stream data into a series of complex object outputs and use the data pills in other actions in a flow.|
@@ -88,22 +88,9 @@ The CCG Content Pack plugin \(sn\_itom\_ccg\_cp\) provides optional predefined c
 
 [Plugins or applications installed with ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-visibility.md)
 
-[[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
+[Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md)
 
-[[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
+[Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-itom-optimization.md)
 
 [Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/app-now-assist-itom.md)
 
-## Related
-
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-remediation|Remediation]]
-- [[cloud-migration-landing-page|Cloud Migration Assessment]]
-- [[c_ServiceMappingOverview|Service Mapping]]

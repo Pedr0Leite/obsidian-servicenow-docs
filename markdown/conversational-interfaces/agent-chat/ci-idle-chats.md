@@ -22,7 +22,7 @@ You can change the idle chat reminder message and the default time after which t
 
 **Important:**
 
-Idle live chats are not available for Connect Support. Starting with the Paris release, Connect Support no longer receives enhancements or non-priority bug fixes. Consider moving to ServiceNow® [[awa-application-landing-page|Advanced Work Assignment]] and [[ci-use-agent-chat|Agent Chat]] in workspace to automatically assign chat requests and other [[awa-work-items|work items]] to agents. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/migrate-from-connect-support.md).
+Idle live chats are not available for Connect Support. Starting with the Paris release, Connect Support no longer receives enhancements or non-priority bug fixes. Consider moving to ServiceNow® Advanced Work Assignment and Agent Chat in workspace to automatically assign chat requests and other work items to agents. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/migrate-from-connect-support.md).
 
 ## Change the idle chat reminder message
 
@@ -194,8 +194,3 @@ Example 2: In this example, **com.glide.cs.start\_idle\_timeout\_after\_agent\_r
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-work-items|Work items]]

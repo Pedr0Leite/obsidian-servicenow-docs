@@ -14,7 +14,7 @@ breadcrumb: [Autocad import tool, Manage CAD source files, Indoor Mapping, Workp
 
 # Configure CAD objects using the Map Configuration tab
 
-Manage objects and elements in your CAD file using the [[map-configuration-v2|Map Configuration tab]].
+Manage objects and elements in your CAD file using the Map Configuration tab.
 
 Select a layer or place to preview it on the Map configuration preview layout.
 
@@ -25,7 +25,7 @@ Georeference and position your source floor plan on the map to scale it.
 2.  [Configure layers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/wsd-edit-layers.md)  
 Select a layer on the Map Configuration preview and edit it.
 3.  [Configure places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-places.md)  
-[[edit-places|Configure Places]] using the Map Configuration preview layout. Retrieve place types from the CAD file.
+Configure Places using the Map Configuration preview layout. Retrieve place types from the CAD file.
 
 **Parent Topic:**[Autocad import tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/autocad-ovw-v2.md)
 
@@ -33,7 +33,3 @@ Select a layer on the Map Configuration preview and edit it.
 
 **Next topic:**[Georeference your floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/georeference-floor-plan.md)
 
-## Related
-
-- [[map-configuration-v2|Map Configuration tab]]
-- [[edit-places|Configure places]]

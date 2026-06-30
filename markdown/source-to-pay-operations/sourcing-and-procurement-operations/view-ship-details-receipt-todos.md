@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # View shipment details of your order from Shopping Hub Home
 
-View the current status of your ordered items, along with the tracking number and carrier name, from the **[[shipment-details|Shipment details]]** tab under your receipt to-dos.
+View the current status of your ordered items, along with the tracking number and carrier name, from the **Shipment details** tab under your receipt to-dos.
 
 ## Before you begin
 
-To view the status of your ordered items, you should have received dispatch notice regarding your orders from the [[supplier|supplier]]. Only then, this **Shipment details** tab is displayed to you on [[shopping-hub-overview|Shopping Hub]] Home.
+To view the status of your ordered items, you should have received dispatch notice regarding your orders from the supplier. Only then, this **Shipment details** tab is displayed to you on Shopping Hub Home.
 
 Role required: sn\_shop.shopper
 
@@ -43,8 +43,3 @@ You can view the status, tracking number, and carrier name for your ordered item
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shipment-details|Shipment details]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

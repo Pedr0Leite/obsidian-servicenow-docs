@@ -20,7 +20,7 @@ The Get File List activity returns a list of files from a given directory and it
 
 |Variable|Description|
 |--------|-----------|
-|sourceHost|Name or [[ip-address|IP address]] of the server containing the files you want to list.|
+|sourceHost|Name or IP address of the server containing the files you want to list.|
 |sourcePort|Port number to use to communicate with the target server. The default port number is **22**.|
 |sourceDirectory|Path to the target directory containing the files to list.|
 |sourceFiles|List of target files to return. This is a comma separated list that accepts wildcards, such as **\*.txt**.|
@@ -44,6 +44,3 @@ The Get File List activity returns a list of files from a given directory and it
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

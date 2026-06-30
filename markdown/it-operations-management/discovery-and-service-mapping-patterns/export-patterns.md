@@ -22,7 +22,7 @@ Role required: pd\_admin
 
 ## About this task
 
-Typically, you maintain two ServiceNow instances in your organization: for production and for development. Create or modify patterns, test them, and verify results in the development instance. When you are satisfied with the [[r-discovery|discovery]] results, export relevant patterns from the development instance to create an update set.
+Typically, you maintain two ServiceNow instances in your organization: for production and for development. Create or modify patterns, test them, and verify results in the development instance. When you are satisfied with the discovery results, export relevant patterns from the development instance to create an update set.
 
 Update sets is a ServiceNow feature for transferring customizations from one instance to another. Each update set is stored in the Update Set \[sys\_update\_set\] table. Specific customizations associated with the update set are the entries in the Customer Update \[sys\_update\_xml\] table, and they appear as a related list on the update set record. The method of creating update sets for patterns is different from creating update sets for other types of customizations.
 
@@ -108,7 +108,7 @@ The update set is an XML file with the following name convention: sys\_remote\_u
 
     1.  Navigate to **Discovery** &gt; **MID Servers**.
 
-    2.  Alternatively, navigate to **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **MID Servers**.
+    2.  Alternatively, navigate to **Service Mapping** &gt; **MID Servers**.
 
     3.  Click **Pattern Sync to Mid**.
 
@@ -126,7 +126,3 @@ The update set is an XML file with the following name convention: sys\_remote\_u
 
 [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

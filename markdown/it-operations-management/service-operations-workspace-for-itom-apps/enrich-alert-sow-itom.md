@@ -24,13 +24,13 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 Extracting takes values from event payload fields and places them in alert output fields, while composing combines multiple alert fields into one. For more information, see [Extracting and composing alert fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/extract-compose-fields.md).
 
-For users familiar with the classic [[c_EM|Event Management]] experience, enrich automations create [[create-event-rules|event rules]] but with an easier interface and with better teams support. Event rules offer a few advanced features like thresholds and CI identification using IRE that are not yet available in enrich automations. Admins may also enrich alerts with event field mapping rules. Changing alert values creates an event field mapping rule with the mapping type **Map field and transform value \(Single field\)**. This rule is linked to the event rule and runs simultaneously, allowing for streamlined mapping and transformation of event data to enrich alerts.
+For users familiar with the classic Event Management experience, enrich automations create event rules but with an easier interface and with better teams support. Event rules offer a few advanced features like thresholds and CI identification using IRE that are not yet available in enrich automations. Admins may also enrich alerts with event field mapping rules. Changing alert values creates an event field mapping rule with the mapping type **Map field and transform value \(Single field\)**. This rule is linked to the event rule and runs simultaneously, allowing for streamlined mapping and transformation of event data to enrich alerts.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -75,7 +75,7 @@ For users familiar with the classic [[c_EM|Event Management]] experience, enrich
     -   **Extract alert fields**: Retrieves alert field values from the event payload and places them in an alert output field.
     -   **Copy or compose fields**: Merges various alert fields, tags and text to generate a composed alert output.
     -   **Change alert values**: Maps the current value of alert fields to specified new values.
-    -   **Improve configuration item \(CI\) identification**: Identifies CIs other than a host for better [[c_ServiceAnalyticsOverview|alert grouping]], team assignment, and service health.
+    -   **Improve configuration item \(CI\) identification**: Identifies CIs other than a host for better alert grouping, team assignment, and service health.
 <table id="choicetable_p43_zvd_s1c"><thead><tr><th align="left" id="d209807e268">
 
 Option
@@ -103,7 +103,7 @@ The example source events pane displays a sample of recent events in your system
 
 If you want to add an alert tag, select the **Set as a tag** check box.
 
-**Tip:** Create [[alert-tags|alert tags]] that can be shared across sources for easier filtering and grouping, such as the out-of-the-box tags.
+**Tip:** Create alert tags that can be shared across sources for easier filtering and grouping, such as the out-of-the-box tags.
 
 \[Omitted image "sow-extract-alert-fields.png"\] Alt text: Extract alert fields
 
@@ -229,11 +229,3 @@ You can manage alerts more effectively by grouping similar alerts together with 
 
 [Extracting and composing alert fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/extract-compose-fields.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[alert-tags|Alert tags]]

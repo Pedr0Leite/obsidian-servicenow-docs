@@ -14,7 +14,7 @@ breadcrumb: [Explore, Workplace Visitor Management, Workplace Service Delivery, 
 
 # Receptionist portal
 
-[[use-receptionist-portal|Use the receptionist portal]] to view and manage visitor [[activity-lxp|activity]] in your organization.
+Use the receptionist portal to view and manage visitor activity in your organization.
 
 The receptionist portal is a dedicated interface for the front-desk staff. The portal displays a dashboard with real-time view of all visitor activity at a given building or campus. As a receptionist, you can see the full lifecycle of every expected or active visit for the current day, organized across status columns: Expected, Checked-in, Checked-out, Others, and any custom columns configured by the workplace administrator. You can use the search bar to locate visitors by name, email, host name, or company. You can also use the date navigator to view past or future visits.
 
@@ -42,7 +42,3 @@ As a receptionist, you can perform the following actions:
 
 [Visitor portal]()
 
-## Related
-
-- [[use-receptionist-portal|Use the receptionist portal]]
-- [[activity-lxp|Activity]]

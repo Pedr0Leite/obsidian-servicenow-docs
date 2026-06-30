@@ -14,16 +14,12 @@ breadcrumb: [Agent actions, Use Microsoft Teams for Universal Request, Use Micro
 
 # Manage chat messages from the Agent Workspace
 
-As an agent, interact with a requester in Microsoft Teams from the Agent Workspace for issues related to an [[ur-landing-limitedaccess|universal request]]. Import the chat back to ServiceNow.
+As an agent, interact with a requester in Microsoft Teams from the Agent Workspace for issues related to an universal request. Import the chat back to ServiceNow.
 
 -   **[Initiate chat with an employee from Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-initiate-chat-wrkspc.md)**  
 Chat with an employee from Agent Workspace through Microsoft Teams so that you can collaborate and resolve universal requests.
 -   **[Import messages from Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-import-msgs-wrkspc.md)**  
-As an agent, import a conversation with a user from Microsoft Teams. Append the conversation in the [[activity-lxp|activity]] stream of the record in the Agent Workspace. Store all important messages related to a universal request in the ServiceNow instance.
+As an agent, import a conversation with a user from Microsoft Teams. Append the conversation in the activity stream of the record in the Agent Workspace. Store all important messages related to a universal request in the ServiceNow instance.
 
 **Parent Topic:**[Agent actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-agent.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[activity-lxp|Activity]]

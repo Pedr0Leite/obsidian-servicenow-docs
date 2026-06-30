@@ -12,7 +12,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Use, Next Experie
 
 # Show date and time formats on forms preference
 
-Learn more about the Show date and time formats on [[form-configurable-workspace|forms]] accessibility preference.
+Learn more about the Show date and time formats on forms accessibility preference.
 
 \[Omitted image "coral-pref-date-time.png"\] Alt text: Show date and time formats on forms accessibility preference.
 
@@ -75,7 +75,3 @@ Date and time fields do not display the format.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-configurable-workspace|Forms]]

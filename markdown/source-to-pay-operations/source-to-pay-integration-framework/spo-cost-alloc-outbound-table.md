@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables Sourcing Procurement, Outbound staging tabl
 
 # Outbound Cost Allocation staging table
 
-The Outbound Cost Allocation \[sn\_spend\_intg\_outbound\_cost\_allocation\] staging table stores important data about the [[cost-allocations|cost allocations]] created so that an ERP integrator can export this data to a third-party ERP system.
+The Outbound Cost Allocation \[sn\_spend\_intg\_outbound\_cost\_allocation\] staging table stores important data about the cost allocations created so that an ERP integrator can export this data to a third-party ERP system.
 
 The following table lists the key fields for the Outbound Cost Allocation \[sn\_spend\_intg\_outbound\_cost\_allocation\] staging table.
 
@@ -78,7 +78,7 @@ String
 
 </td><td>
 
-Specifies how the cost is allocated. For example, [[cost-center|Cost center]], Employee credit, or Payroll.
+Specifies how the cost is allocated. For example, Cost center, Employee credit, or Payroll.
 
 </td></tr><tr><td>
 
@@ -138,11 +138,11 @@ String
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] line number from the ERP system.
+Purchase order line number from the ERP system.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -150,7 +150,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the [[legal-entity|legal entity]] associated with these records.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.
 
 </td></tr><tr><td>
 
@@ -214,11 +214,3 @@ Date and time at which the cost owner has accepted the terms and conditions of t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cost-allocations|Cost allocations]]
-- [[cost-center|Cost center]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

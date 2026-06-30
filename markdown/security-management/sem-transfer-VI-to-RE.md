@@ -12,7 +12,7 @@ breadcrumb: [Use Remediation Effort records, Use, Unified Security Exposure Mana
 
 # Transfer records to remediation efforts in the Security Exposure Management Workspace
 
-You can transfer records from existing remediation efforts into new [[vmws-remediation-effort|remediation efforts in the Vulnerability Manager Workspace]].
+You can transfer records from existing remediation efforts into new remediation efforts in the Vulnerability Manager Workspace.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **All** &gt; **Security Exposure Management Workspace**.
 
 2.  Select the watch topics icon.
 
@@ -45,7 +45,7 @@ Role required:
 
     In the **Short description** field enter text that describes the recurring remediation effort that helps you locate it and track it from the effort list.
 
-    In the **Description** field, enter more text about the context of the effort that helps you locate it easily from the list of remediation efforts. For example, `Active Log4J [[vulnerabilities|Vulnerabilities]]`.
+    In the **Description** field, enter more text about the context of the effort that helps you locate it easily from the list of remediation efforts. For example, `Active Log4J Vulnerabilities`.
 
     1.  In the **Name** field enter a name for your new remediation effort.
 
@@ -86,11 +86,5 @@ Role required:
     For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Transferring records or record carry over](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-re-lifecycle.md).
 
 
-**Parent Topic:**[[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 
-## Related
-
-- [[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
-- [[vmws-remediation-effort|Remediation efforts in the Vulnerability Manager Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

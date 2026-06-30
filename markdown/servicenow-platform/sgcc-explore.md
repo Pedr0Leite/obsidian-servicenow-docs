@@ -12,11 +12,11 @@ breadcrumb: [SGC Central, Integrating third-party data into CMDB, Configuration 
 
 # Exploring SGC Central
 
-Learn about the [[sgcc-landing|SGC Central]] application with a sample workflow and review the benefits it can provide for different users in your organization.
+Learn about the SGC Central application with a sample workflow and review the benefits it can provide for different users in your organization.
 
 ## SGC Central overview
 
-With the SGC Central application you can discover and install integration-ready [[cmdb-sgc-available|Service Graph Connectors]], monitor their connection performance and insights, ensure complete visibility into discovered sources and processed data, and access tools and resources for diagnosing and resolving connection issues. You access the application from the SGC Central view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+With the SGC Central application you can discover and install integration-ready Service Graph Connectors, monitor their connection performance and insights, ensure complete visibility into discovered sources and processed data, and access tools and resources for diagnosing and resolving connection issues. You access the application from the SGC Central view in the Service Graph Workspace or CMDB Workspace.
 
 ## SGC Central users
 
@@ -34,7 +34,7 @@ Administrator
 
 </td><td>
 
-Users with the admin role can install and upgrade Service Graph Connectors, including [[api-sgc-available|API Service Graph Connectors]]. Administrators can perform the following tasks:-   Create a connection and configure connection properties.
+Users with the admin role can install and upgrade Service Graph Connectors, including API Service Graph Connectors. Administrators can perform the following tasks:-   Create a connection and configure connection properties.
 -   Monitor connections and data imports.
 -   Manage connections.
 -   Upgrade the connector.
@@ -134,16 +134,7 @@ Administrator, SGC-admin
 
 To learn more about configuring and using SGC Central, see:
 
--   [[sgcc-configuring|Configuring SGC Central]]
--   [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]]
--   [[sgcc-reference|SGC Central reference]]
+-   [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md)
+-   [Managing connections added for Service Graph Connectors in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md)
+-   [SGC Central reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]]
-- [[sgcc-reference|SGC Central reference]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[api-sgc-available|API Service Graph Connectors]]

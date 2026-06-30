@@ -26,7 +26,7 @@ Role required: sn\_dex\_desktop.admin
 
 2.  In the macOS Download section of the Desktop Assistant Downloads page, select the download icon \(\[Omitted image "icon-download-blue.png"\] Alt text:\) for the installer you want to download.
 
-    -   For macOS [[dex-workspace-devices-tab|devices]] with Intel chips: Select the **Intel \[x64 arch\]** installer.
+    -   For macOS devices with Intel chips: Select the **Intel \[x64 arch\]** installer.
     -   For macOS devices with Apple Silicon chips: Select the **Apple Silicon \[x64 arch\]** installer.
     -   For macOS devices with either Intel or Apple Silicon chips: Select the **Universal Build** installer.
     The installer is downloaded to your computer.
@@ -53,6 +53,3 @@ When you install Desktop Assistant by using the installer, the instance URL fiel
 
 **Note:** Only the system administrator must update the configuration file or make changes to it while deploying Desktop Assistant on devices.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

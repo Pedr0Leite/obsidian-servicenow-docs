@@ -16,9 +16,9 @@ breadcrumb: [Explore, Applicant Center, Hiring Experiences, HR Service Delivery,
 
 Improve your speed and quality of hire by continually engaging with the applicants on a personalized applicant portal.
 
-Provide your applicants with a dedicated portal that has a seamless process and supports effective engagement with the stakeholders in the [[hiring-tab-concept|hiring]] process.
+Provide your applicants with a dedicated portal that has a seamless process and supports effective engagement with the stakeholders in the hiring process.
 
-\[Omitted image "applicant-cntr-Nov24.png"\] Alt text: [[applicant-portal-home-page|Applicant Center home page]] with active and inactive applications, [[emp-center-quick-link-config|Quick links]], and targeted content in Content Experiences.
+\[Omitted image "applicant-cntr-Nov24.png"\] Alt text: Applicant Center home page with active and inactive applications, Quick links, and targeted content in Content Experiences.
 
 The Applicant Center has the following key features:
 
@@ -31,8 +31,3 @@ The Applicant Center has the following key features:
 -   Collaborate with your recruiter.
 -   View important notifications that require your attention.
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[applicant-portal-home-page|Applicant Center home page]]
-- [[emp-center-quick-link-config|Quick links]]

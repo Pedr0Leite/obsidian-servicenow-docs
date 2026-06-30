@@ -14,7 +14,7 @@ breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
 
 # Components installed with DevOps Change Velocity
 
-Several types of components are installed with [[devops-landing-page-new|DevOps Change Velocity]], including tables, users, roles, and scheduled jobs.
+Several types of components are installed with DevOps Change Velocity, including tables, users, roles, and scheduled jobs.
 
 Demo data is available for this application.
 
@@ -112,7 +112,7 @@ DevOps App Owner
 
 Oversees the operation of the DevOps application and monitors performance in your DevOps environment.The app owner can:
 
--   Create, update, and delete [[dex-workspace-application-tab|applications]] only.
+-   Create, update, and delete applications only.
 -   Associate or dissociate objects to applications \(pipelines, repos, plans, artifact repository\)
 -   Perform change automation and modify pipeline steps.
 -   Access to see all the tools but not modify them.
@@ -174,7 +174,7 @@ Has access to the DevOps application to use in their environment.
 
 
 </td></tr></tbody>
-</table>**Warning:** When you uninstall [[devops-config-landing-page|DevOps Config]], there could be empty rows in the **Contains Roles** related list \(table: sys\_user\_role\_contains\) for the roles installed with DevOps Change Velocity. You must delete these empty rows before discovering tool objects.
+</table>**Warning:** When you uninstall DevOps Config, there could be empty rows in the **Contains Roles** related list \(table: sys\_user\_role\_contains\) for the roles installed with DevOps Change Velocity. You must delete these empty rows before discovering tool objects.
 
 ## Scheduled jobs installed
 
@@ -679,8 +679,3 @@ Work Item
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]

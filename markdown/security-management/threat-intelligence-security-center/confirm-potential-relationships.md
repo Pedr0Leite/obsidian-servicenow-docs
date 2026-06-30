@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center Library, Use, Threat Intelligen
 
 # Confirm Potential Relationships from Related Records
 
-Confirm the [[stix-relationships|relationships]] between the two SDOs.
+Confirm the relationships between the two SDOs.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
 3.  Go to **Related Records** section.
 
-4.  Expand **[[potential-relationships|Potential Relationships]]**.
+4.  Expand **Potential Relationships**.
 
-5.  Open any record such [[c_Observables|observables]], [[indicator|indicators]], or any [[tisc-other-objects|other objects]] that you wish to confirm the relationships between two SDOs.
+5.  Open any record such observables, indicators, or any other objects that you wish to confirm the relationships between two SDOs.
 
 6.  For example, here select **Observables** from the left navigation.
 
@@ -62,18 +62,9 @@ Role required: sn\_sec\_tisc.analyst
 
 [Access Vulnerability Downstream actions]()
 
-[Deleting [[threat-intel-landing-page|threat intelligence]] library records]()
+[Deleting threat intelligence library records]()
 
 [Export intelligence data]()
 
 [Automated Correlation]()
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[potential-relationships|Potential Relationships]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-other-objects|Other Objects]]
-- [[threat-intel-landing-page|Threat Intelligence]]

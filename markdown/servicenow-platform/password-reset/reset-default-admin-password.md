@@ -14,13 +14,9 @@ breadcrumb: [Exploring Password Reset, Password Reset, Manage service capabiliti
 
 # Request to reset the default admin password
 
-You can request a default instance admin [[password-reset-landing-page|password reset]] via the [[service-catalog|Service Catalog]], which triggers an automated process to securely complete the reset.
+You can request a default instance admin password reset via the Service Catalog, which triggers an automated process to securely complete the reset.
 
 Users with the customer\_admin or partner\_admin roles on Now Support can request to reset the admin account password.
 
 For more information, refer [How to request default admin password reset via Now Support Service Catalog](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1122424).
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[service-catalog|Service Catalog]]

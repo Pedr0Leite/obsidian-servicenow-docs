@@ -14,7 +14,7 @@ breadcrumb: [Identification rules, Configure, CMDB Identification and Reconcilia
 
 # Create a CI identification rule
 
-[[c_IdentificationRules|Identification rules]] are used to uniquely identify CIs in the CMDB, as part of Identification and Reconciliation \(IRE\) processes. Each CMDB class can be associated with a single identification rule.
+Identification rules are used to uniquely identify CIs in the CMDB, as part of Identification and Reconciliation \(IRE\) processes. Each CMDB class can be associated with a single identification rule.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Review the following before creating identification rules:
 -   [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_IdentificationRules.md)
 -   [General guidelines for using CMDB Identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/best-practices-id-reconcile.md)
 -   Explore predefined identification rules:
-    1.  Navigate to **All** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+    1.  Navigate to **All** &gt; **CI Class Manager**.
     2.  Select **Hierarchy** and then search and select, for example, the Hardware class.
     3.  In the Hardware bar, expand **Class Info** and select **Identification Rule**.
     4.  Examine all the sections and tiles with the settings of the Hardware class identification rule.
@@ -111,7 +111,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that specifies the identifier entry is active. At least one identifier entry in an identification rule must be active for the rule to apply.
+Check box that specifies the identifier entry is active. At least one identifier entry in an identification rule must be active for the rule to apply.
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Criterion Attributes
 
 </td><td>
 
-Set of attributes that uniquely identify the CI. Attributes can belong to the current class, or to a parent class.**Note:** It's possible to add [[reference|reference]] fields as a criterion attribute. However, such fields might not always be effective:
+Set of attributes that uniquely identify the CI. Attributes can belong to the current class, or to a parent class.**Note:** It's possible to add reference fields as a criterion attribute. However, such fields might not always be effective:
 
 -   Reference fields store **sys\_id**s that point to a record in another table, and thus is considered a weak criterion attribute \(in terms of uniqueness\) for the current table.
 -   The system detects and then replaces invalid values in a reference field with 'Unknown'. For example, an invalid **Model ID** value is replaced with the value 'Unknown'. Also, if several CIs end up having that same reference field set to 'Unknown', then these CIs become duplicate CIs.
@@ -254,7 +254,7 @@ Related table
 
 </td><td>
 
-A related table that [[reference-document-management|references]] the CI that is being matched.
+A related table that references the CI that is being matched.
 
 </td></tr><tr><td>
 
@@ -383,10 +383,3 @@ You can optionally [create an inclusion rule](https://raw.githubusercontent.com/
 
 [General guidelines for using CMDB Identification]()
 
-## Related
-
-- [[c_IdentificationRules|Identification rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

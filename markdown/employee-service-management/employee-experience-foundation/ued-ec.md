@@ -34,7 +34,7 @@ See the following usage insight for the experience feedback data.
 
 -   **Comment**: Percentage projection of the user sentiments collected through the ratings.
 
-    **Note:** The comment insight is only available for the [[employee-center-landing-page|Employee Center]] portal not for the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] and the Mobile Employee Service Portal.
+    **Note:** The comment insight is only available for the Employee Center portal not for the Employee Center Pro Kiosk and the Mobile Employee Service Portal.
 
 
 ## Experience feedback 5-point scale
@@ -73,7 +73,4 @@ See the following analytics for the survey feedback data.
 
     If the feedback provider chose to be anonymous, the user ID is displayed as Guest.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

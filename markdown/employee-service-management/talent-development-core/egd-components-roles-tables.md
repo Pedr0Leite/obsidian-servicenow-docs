@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Components installed with Talent Development Core
 
-Several types of components are installed with [[egd-landing-page|Talent Development Core]], including roles and tables.
+Several types of components are installed with Talent Development Core, including roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -44,12 +44,12 @@ Tables are used to track and maintain relationships among different ServiceNow a
 |Talent Development Core|Outcome Type \[sn\_egd\_core\_outcome\_type\]|
 |Talent Development Core|Peer Configuration \[sn\_egd\_core\_peer\]|
 |Talent Development Core|Growth Plan \[sn\_egd\_core\_plan\]|
-|Talent Development Core|Growth Plan [[activity-lxp|Activity]] \[sn\_egd\_core\_plan\_activity\]|
+|Talent Development Core|Growth Plan Activity \[sn\_egd\_core\_plan\_activity\]|
 |Talent Development Core|Sample text \[sn\_egd\_core\_sample\_text\]|
 
 ## Hiring Core
 
-[[hiring-core|Hiring Core]] provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your [[hiring-tab-concept|hiring]] requirements.
+Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your hiring requirements.
 
 |Table|Description|
 |-----|-----------|
@@ -58,16 +58,9 @@ Tables are used to track and maintain relationships among different ServiceNow a
 |sn\_ta\_hiring\_core\_job\_hiring\_team|Job hiring team.|
 |sn\_ta\_hiring\_core\_job\_requisition|Job requisition table.|
 |sn\_ta\_hiring\_core\_recruitment\_task|Recruitment task table.|
-|sn\_ta\_hiring\_core\_job\_posting|This table is used by [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] to support internal hiring.|
+|sn\_ta\_hiring\_core\_job\_posting|This table is used by Opportunity Marketplace to support internal hiring.|
 
 **Note:** You can use the record tables according to your requirement.
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[activity-lxp|Activity]]
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

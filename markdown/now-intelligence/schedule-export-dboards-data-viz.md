@@ -23,7 +23,7 @@ Role required:
 -   viz\_admin to create, update, or delete the scheduled export of any data visualization on the instance
 -   dashboard\_admin to create, update, or delete the scheduled export of any dashboard on the instance.
 
-To view the list of scheduled exports, navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Scheduled Export**. This list contains all scheduled exports including Core UI dashboards and reports and [[par-workspace|Platform Analytics experience]] dashboards and data visualizations. You can also access the Scheduled exports using the left navigation pane.
+To view the list of scheduled exports, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Scheduled Export**. This list contains all scheduled exports including Core UI dashboards and reports and Platform Analytics experience dashboards and data visualizations. You can also access the Scheduled exports using the left navigation pane.
 
 ## About this task
 
@@ -31,10 +31,10 @@ You can export multiple dashboards and data visualizations together in one sched
 
 |Data visualization or dashboard element|Supported dashboard export formats|Supported data visualization export formats|
 |---------------------------------------|----------------------------------|-------------------------------------------|
-|Calendar reports, Indicator scorecards, [[c_PivotTables|Pivot tables]], Geomap|None|None|
+|Calendar reports, Indicator scorecards, Pivot tables, Geomap|None|None|
 |Lists|PDF|PDF, Microsoft Excel \(.xls or .xlsx\), Embedded LIST, CSV|
 |Other data visualizations|PowerPoint, PDF|PowerPoint, PDF, PNG, JPEG, Embedded PNG|
-|Non-data visualization [[dashboard-elements|dashboard elements]], like Headings|None|Not applicable|
+|Non-data visualization dashboard elements, like Headings|None|Not applicable|
 
 **Note:** This topic is available in both the Dashboard and the Data Visualization documentation.
 
@@ -152,10 +152,10 @@ A conditional script that determines if a scheduled job should run. The last exp
 11. Select **Save** to save the schedule.
 
 
--   **[[scheduled-export-ref-qualifiers|Scheduled export reference qualifiers]]**  
+-   **[Scheduled export reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/scheduled-export-ref-qualifiers.md)**  
 Use reference qualifiers to specify the users and groups in the recipients field of scheduled exports.
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -176,11 +176,3 @@ Use reference qualifiers to specify the users and groups in the recipients field
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[scheduled-export-ref-qualifiers|Scheduled export reference qualifiers]]
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_PivotTables|Pivot tables]]
-- [[dashboard-elements|Dashboard elements]]

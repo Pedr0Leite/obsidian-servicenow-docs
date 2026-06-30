@@ -16,7 +16,7 @@ breadcrumb: [Reference, Privacy Management, Governance, Risk, and Compliance]
 
 Reminders enable relevant users to perform their assessments and complete the tasks associated with them.
 
-By default, the [[privacy-management|Privacy Management]] application includes the following types of email notifications.
+By default, the Privacy Management application includes the following types of email notifications.
 
 -   Email notifications to the entity owner for privacy screening assessment.
 -   Email notifications to the entity owner for privacy impact assessment.
@@ -36,6 +36,3 @@ The following table describes the recipient list of notifications and the associ
 
 **Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

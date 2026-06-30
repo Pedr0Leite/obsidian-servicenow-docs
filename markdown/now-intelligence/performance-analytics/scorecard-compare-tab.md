@@ -14,11 +14,11 @@ breadcrumb: [Analytics Hub for a specific indicator, Analytics Hub, Reporting, d
 
 # Compare scores
 
-In the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] Compare tab, compare scores on any two dates, or compare scores against linked benchmark scores.
+In the Analytics Hub Compare tab, compare scores on any two dates, or compare scores against linked benchmark scores.
 
 \[Omitted image "detailed-scorecard-compare.png"\] Alt text: The compare tab of the Analytics Hub showing the changes in scores between two dates
 
-**Note:** The Compare tab is available only for [[automated-indicators|automated indicators]].
+**Note:** The Compare tab is available only for automated indicators.
 
 You can compare the scores of an automated indicator on two dates. Date selection works the same way as in the Overview tab. Furthermore, any dates selected on one tab persist when you change to another tab.
 
@@ -45,7 +45,3 @@ If the indicator is linked to a benchmark indicator, select **Benchmarks** to co
 
 [Link an automated indicator to a benchmark](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/link-automated-indicator-benchmark.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[automated-indicators|Automated indicators]]

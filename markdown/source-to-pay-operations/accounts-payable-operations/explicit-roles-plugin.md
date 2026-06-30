@@ -15,7 +15,7 @@ breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable O
 
 # Explicit roles plugin
 
-Explicit roles in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] control data access for internal and external users, ensuring each user sees only information appropriate for their role.
+Explicit roles in Accounts Payable Operations control data access for internal and external users, ensuring each user sees only information appropriate for their role.
 
 As of the Paris release, no user can have both of the explicit roles \(snc\_internal and snc\_external\).
 
@@ -37,6 +37,3 @@ The Explicit Roles plugin \(com.glide.explicit\_roles\) is the first prerequisit
 
 **Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-supplier-collaboration-portal.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

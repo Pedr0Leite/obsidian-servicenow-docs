@@ -18,7 +18,7 @@ Area reports show trends over time for related attributes. Spline reports show h
 
 For example, you can create an area or spline reports for incident counts, to show how the number of incidents changes over time. The incident count often increases during the first few months after a product upgrade is deployed. Over time, the number of reported incidents decreases as users become more accustomed to the changes in the product.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[explore-data-vis-library|Exploring the Data Visualizations library]].
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
 \[Omitted image "AreaChart.png"\] Alt text: Area reports
 
@@ -38,7 +38,7 @@ Create an area or spline report to show trends over time for related attributes.
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-For an area report use case, [[dv-example-line|Time series data visualization example]].
+For an area report use case, [Time series data visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-line.md).
 
 On instances that are upgraded to Australia, Core UI report features are maintained, but are not updated. For best results, use Platform Analytics experience data visualizations. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
@@ -64,7 +64,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d110072e316">
 
@@ -224,7 +224,7 @@ Enables you to configure how to show numerical values in reports, including deci
 
     2.  Select the sort plus icon \(\[Omitted image "sort-order-plus-icon.png"\] Alt text: Sort plus icon\) to configure additional sorting order conditions. \(Select the sort minus icon \( \[Omitted image "sort-order-minus-icon.png"\] Alt text: Sort minus icon\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
-    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and [[c_HeatmapCharts|heatmap reports]], sort order is determined by the sequence of the choices in the list.
+    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
     \[Omitted image "choice-list-sort-order.png"\] Alt text: Report sorted by priority choice list
 
@@ -232,7 +232,7 @@ Enables you to configure how to show numerical values in reports, including deci
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 8.  On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -272,9 +272,9 @@ Source of colors used in the report.If you do not group or stack the report, **U
 
  If you group or stack the report, select one of the following options:
 
--   **Use color palette**: Select a color palette from the predefined system [[color-palettes|color palettes]].
+-   **Use color palette**: Select a color palette from the predefined system color palettes.
 -   **Use several colors**: Define a custom set of **Colors** using hex codes. You can add any number of colors.
--   **Use [[c_ChartColors|chart colors]]**: Use the colors defined in **Reports** &gt; **Chart Colors**.
+-   **Use chart colors**: Use the colors defined in **Reports** &gt; **Chart Colors**.
 
  For more information about the differences between these options, see [Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md).
 
@@ -292,7 +292,7 @@ Colors
 
 </td><td>
 
-Colors used in the report. This field displays when you select **Use several colors** from the **Chart color** list. Click the search icon \(\[Omitted image "SearchIcon.png"\] Alt text: Search icon\) to choose from the **Chart [[color-schemes-pa-widgets|color schemes]]** or **Color Definitions** list.
+Colors used in the report. This field displays when you select **Use several colors** from the **Chart color** list. Click the search icon \(\[Omitted image "SearchIcon.png"\] Alt text: Search icon\) to choose from the **Chart color schemes** or **Color Definitions** list.
 
 </td></tr><tr><td>
 
@@ -316,7 +316,7 @@ Do not plot nil as zero
 
 </td><td>
 
-Check box to specify whether to replace missing data points with values of zero. This field is available when creating or editing time series reports \(area, spline, line, and [[step-reports|step line reports]] only\) that include multiple datasets, and when creating or editing datasets within the applicable time series reports. This field is not available when data in the report is grouped, or is aggregated by Count or Count Distinct. If selected, the report may show gaps where no data exists.
+Check box to specify whether to replace missing data points with values of zero. This field is available when creating or editing time series reports \(area, spline, line, and step line reports only\) that include multiple datasets, and when creating or editing datasets within the applicable time series reports. This field is not available when data in the report is grouped, or is aggregated by Count or Count Distinct. If selected, the report may show gaps where no data exists.
 
 **Note:** This property cannot be selected when the source is MetricBase.
 
@@ -572,17 +572,3 @@ Enable this option to show the labels of the report in a bold typeface.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[dv-example-line|Time series data visualization example]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HeatmapCharts|Heatmap reports]]
-- [[list-reports|List reports]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]
-- [[color-schemes-pa-widgets|Color schemes]]
-- [[step-reports|Step line reports]]

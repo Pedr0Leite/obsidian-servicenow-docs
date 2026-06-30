@@ -14,7 +14,7 @@ breadcrumb: [Use, Personal Data Rights \(PDR\), Privacy Management, Governance, 
 
 # Accept and work on a Personal Data Rights task
 
-Accept [[personal-data-rights|Personal Data Rights]] \(PDR\) tasks that are assigned to you. Unless you accept the work, you will not be able to work towards closing the task.
+Accept Personal Data Rights \(PDR\) tasks that are assigned to you. Unless you accept the work, you will not be able to work towards closing the task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc\_pdr.pdr\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[personal-data-rights-workspace|Personal Data Rights Workspace]]**
+1.  Navigate to **All** &gt; **Personal Data Rights Workspace**
 
 2.  On the PDR Workspace, navigate to **Lists** &gt; **Personal data rights** &gt; **All requests**.
 
@@ -55,7 +55,3 @@ Role required: sn\_grc\_pdr.pdr\_agent
 
 [Add action tasks to a Personal Data Rights request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-action-tasks-to-a-personal-data-rights-request.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[personal-data-rights-workspace|Personal Data Rights workspace]]

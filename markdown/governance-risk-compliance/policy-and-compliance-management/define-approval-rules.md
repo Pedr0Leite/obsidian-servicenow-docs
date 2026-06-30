@@ -26,7 +26,7 @@ You can configure approvals to be sent out automatically or manually after revie
 
 **Note:** When policy exceptions are created from upstream applications \(from Vulnerability Response for example\), the policy exception must have impacted controls present before you can request approval.
 
-For policy exceptions created using [[r_PolicyComplianceMgmt|Policy and Compliance Management]], exceptions can be requested for a policy without impacted controls being present, even if both policies and control objectives are added to the exception form. However, for policy exceptions created for control objectives alone, impacted controls must be present before you can request approval.
+For policy exceptions created using Policy and Compliance Management, exceptions can be requested for a policy without impacted controls being present, even if both policies and control objectives are added to the exception form. However, for policy exceptions created for control objectives alone, impacted controls must be present before you can request approval.
 
 You can also use the GRC Approval Configurator to configure policy exception rules. For more information, see [Define policy exception and extension rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/define-policy-exception-verification-rules.md).
 
@@ -43,7 +43,7 @@ You can also use the GRC Approval Configurator to configure policy exception rul
     |Field|Description|
     |-----|-----------|
     |Type|Defaults to Approval Rule.|
-    |Name|Enter a name for this [[bcm-approval-configuration|approval configuration]].|
+    |Name|Enter a name for this approval configuration.|
     |Short description|Provide a brief description of the purpose of the configuration.|
     |Source application|Select the application for that applies to this approval rule. Only applications that have been previously added to the Integration Registry are listed.|
     |Active|If this is selected, this approval rule is active.|
@@ -129,7 +129,3 @@ Select the order to determine the sequence of levels used with respect to other 
 
 **Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[bcm-approval-configuration|Approval configuration]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For information about using pre-chat surveys to capture preliminary information from a customer, see [[csm-pre-chat-overview|Pre-chat surveys]]. If you have upgraded, you must manually adjust some settings to use Pre-chat most effectively.
+For information about using pre-chat surveys to capture preliminary information from a customer, see [Pre-chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-pre-chat-overview.md). If you have upgraded, you must manually adjust some settings to use Pre-chat most effectively.
 
 ## Procedure
 
@@ -60,6 +60,4 @@ For information about using pre-chat surveys to capture preliminary information 
 
     The Open chat window icon that customers can use to initiate the pre-chat survey and connect with an agent will appear in the portal header.
 
-## Related
 
-- [[csm-pre-chat-overview|Pre-chat surveys]]

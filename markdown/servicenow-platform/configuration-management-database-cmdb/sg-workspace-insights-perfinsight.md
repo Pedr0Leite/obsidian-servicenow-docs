@@ -14,7 +14,7 @@ breadcrumb: [Insights view, Explore, Service Graph Workspace, Configuration Mana
 
 # Performance insights dashboard in Service Graph Workspace
 
-Use the Performance insights page in [[sg-workspace|Service Graph Workspace]] to analyze performance of key CMDB components such as [[ire|Identification and Reconciliation Engine \(IRE\)]], and duplicate CIs. You can review and follow recommendations to improve performance.
+Use the Performance insights page in Service Graph Workspace to analyze performance of key CMDB components such as Identification and Reconciliation Engine \(IRE\), and duplicate CIs. You can review and follow recommendations to improve performance.
 
 ## Access
 
@@ -26,7 +26,7 @@ Role required: sn\_cmdb\_admin
 
 ## CMDB performance insights
 
-CMDB performance insights helps you understand the ways in which your configurations impact the performance of your CMDB. You can use the charts and tools within CMDB performance insights to troubleshoot, debug, or diagnose performance issues. CMDB performance insights also analyzes your CMDB and [[cmdb-sgc-available|Service Graph Connectors]] on your instance to generate recommendations on how you can improve the performance of your CMDB. The CMDB performance insights tile itself can show up to two of those recommendations.
+CMDB performance insights helps you understand the ways in which your configurations impact the performance of your CMDB. You can use the charts and tools within CMDB performance insights to troubleshoot, debug, or diagnose performance issues. CMDB performance insights also analyzes your CMDB and Service Graph Connectors on your instance to generate recommendations on how you can improve the performance of your CMDB. The CMDB performance insights tile itself can show up to two of those recommendations.
 
 Select **View performance insights** to access the CMDB performance insights data.
 
@@ -52,7 +52,7 @@ The Payloads &amp; CIs tab contains the following tiles:
 
 -   **Related records**
 
-    Data about related records that are missing [[reference-document-management|references]]. A record is missing a [[reference|reference]] when the **Referenced** field for that record is empty.
+    Data about related records that are missing references. A record is missing a reference when the **Referenced** field for that record is empty.
 
     -   Related records missing reference:
 
@@ -169,10 +169,3 @@ The Service Graph connectors tab contains the following tiles:
 
 For more information about processing data with Service Graph Connectors, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]

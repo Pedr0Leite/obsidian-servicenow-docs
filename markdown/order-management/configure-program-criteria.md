@@ -20,7 +20,7 @@ Role required: sn\_prm.partner\_program\_writer or sn\_prm.enterprise\_partner\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[partner-relationship-management|Partner Relationship Management]]** &gt; **Partner Program**.
+1.  Navigate to **All** &gt; **Partner Relationship Management** &gt; **Partner Program**.
 
 2.  Open a partner program from the list.
 
@@ -28,27 +28,19 @@ Role required: sn\_prm.partner\_program\_writer or sn\_prm.enterprise\_partner\_
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
-    To learn about the fields on the program criteria table, see [[program-criteria-table-fields|Program criteria table fields]].
+    To learn about the fields on the program criteria table, see [Program criteria table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-criteria-table-fields.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[configure-program-segment-mapping|Configure Program Segment Mapping]]
+[Configure Program Segment Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-mapping.md)
 
-[[configure-program-segment-criteria|Configure Program Segment Criteria]]
+[Configure Program Segment Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-criteria.md)
 
-## Related
-
-- [[program-criteria-table-fields|Program criteria table fields]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[configure-program-segment-mapping|Configure Program Segment Mapping]]
-- [[configure-program-segment-criteria|Configure Program Segment Criteria]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[fields|Fields]]

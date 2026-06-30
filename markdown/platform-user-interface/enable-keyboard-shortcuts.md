@@ -18,7 +18,7 @@ You can enable or disable keyboard shortcuts from the system settings menu.
 
 Role required: none
 
-For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI keyboard shortcuts]].
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md).
 
 ## Procedure
 
@@ -33,6 +33,3 @@ For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI ke
 
 **Parent Topic:**[Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)
 
-## Related
-
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]

@@ -116,7 +116,7 @@ Following are a few sample template scripts provided to configure and modify you
 |si\_associated\_phish\_emails|Returns the associated phishing emails from the related list in a tabular form.|
 |si\_associated\_phish\_headers|Returns the associated phishing headers from the related list in a tabular form.|
 |si\_business\_criticality|Returns color coded business criticality value.|
-|si\_malicious\_observables|Returns the malicious [[c_Observables|observables]] from the related list in a tabular form.|
+|si\_malicious\_observables|Returns the malicious observables from the related list in a tabular form.|
 |si\_observables|Returns the observables from the related list in a tabular form.|
 |si\_priority|Returns color coded priority value.|
 |si\_response\_tasks|Returns the response tasks from the related list in a tabular form.|
@@ -179,7 +179,7 @@ sn\_si.generate\_pir\_report\_for\_child\_si
 
 Option to enable the generation of Post Incident Review \(PIR\) reports for child security incidents.-   **Type**: true \| false
 -   **Default value**: false
--   **[[location|Location]]**: Navigate to All &gt; System Properties &gt; All Properties.
+-   **Location**: Navigate to All &gt; System Properties &gt; All Properties.
 
 </td></tr><tr><td>
 
@@ -193,8 +193,3 @@ Option to include the timeline of the child security incidents in the parent Sec
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Observables|Observables]]
-- [[location|Location]]

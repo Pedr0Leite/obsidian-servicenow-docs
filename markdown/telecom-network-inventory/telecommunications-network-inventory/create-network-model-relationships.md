@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Define a network model relationship
 
-Create a network model relationship in the [[telecom-network-inventory|Telecommunications Network Inventory]] application that captures the relationships between your network model entities.
+Create a network model relationship in the Telecommunications Network Inventory application that captures the relationships between your network model entities.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ When you create a network model relationship, it creates a model in the Network 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Network Model Relationships**.
 
@@ -56,7 +56,3 @@ When you create a network model relationship, it creates a model in the Network 
 
 [Modeling network inventory relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-modeling-process.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

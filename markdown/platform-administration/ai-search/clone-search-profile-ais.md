@@ -14,7 +14,7 @@ breadcrumb: [Search profiles, Configuring AI Search, AI Search, Search administr
 
 # Clone a search profile
 
-Create a copy of an existing search profile. The cloned search profile retains search sources, stop word and synonym dictionaries, Genius Result [[clone-configurations-tab|configurations]], and [[result-improvement-rules-ais|result improvement rules]] from the original search profile.
+Create a copy of an existing search profile. The cloned search profile retains search sources, stop word and synonym dictionaries, Genius Result configurations, and result improvement rules from the original search profile.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Multiple search applications can link to the same search profile. For example, i
 
 As a search administrator, you may wish to configure separate search profiles for two applications that share a search profile. Cloning the existing search profile enables you to create a new record with the same search sources, stop word and synonym dictionaries, Genius Result configurations, and result improvement rules. This approach saves time if you want the two applications to use similar or identical search experience settings.
 
-**Note:** Cloning a search profile does not preserve its existing [[typo-handling-ais|typo handling]] dictionary settings or blocked terms.
+**Note:** Cloning a search profile does not preserve its existing typo handling dictionary settings or blocked terms.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Select the record for the search profile that you want to clone.
 
@@ -55,14 +55,7 @@ Your cloned search profile record appears in the Search Profile table.
 
 ## What to do next
 
-Edit the search application configuration record of your choice and link it to your cloned search profile. For details on [[defining-search-app-cfgs-ais|search application configurations]], see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
+Edit the search application configuration record of your choice and link it to your cloned search profile. For details on search application configurations, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[typo-handling-ais|Typo handling]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

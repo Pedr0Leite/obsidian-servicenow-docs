@@ -21,9 +21,9 @@ Use the create standard change template proposal agentic workflow to help users 
 
 The create standard change template proposal agentic workflow lets users quickly create a change template proposal record from the Now Assist panel. The workflow analyzes similar change requests and lists them to the user. The user can select the preferred change request and the content for template generation, and the workflow then creates a proposal record with the specified values.
 
-Using this agentic workflow, you can quickly propose a change template for a change request that you frequently create. This template is later sent for approval to the [[c_ITILChangeManagement|change management]] team, which reviews the request and approves the template as part of the approval process.
+Using this agentic workflow, you can quickly propose a change template for a change request that you frequently create. This template is later sent for approval to the change management team, which reviews the request and approves the template as part of the approval process.
 
-To modify the Create standard change template proposal agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements. The Create standard change template proposal agentic workflow doesn’t have a trigger and is invoked manually.
+To modify the Create standard change template proposal agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements. The Create standard change template proposal agentic workflow doesn’t have a trigger and is invoked manually.
 
 **Note:** The workflow can be accessed by the change\_manager and itil role.
 
@@ -56,7 +56,4 @@ You can access the standard change template proposal AI agent in the Define key 
 
     \[Omitted image "now-assist-itsm-change-template-proposal-nap.png"\] Alt text: Create standard change template proposal agentic workflow output in the Now Assist panel.
 
-## Related
 
-- [[c_ITILChangeManagement|Change Management]]
-- [[settings-mobile|Settings]]

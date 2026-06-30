@@ -14,11 +14,11 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Publish a Virtual Agent topic
 
-Deploy an inactive topic or an updated topic to save it and make it available to users on [[virtual-agent-landing-page|Virtual Agent]] clients.
+Deploy an inactive topic or an updated topic to save it and make it available to users on Virtual Agent clients.
 
 ## Before you begin
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 If you're using Natural Language Understanding \(NLU\) topic discovery, you can publish the model at the same time as the topic if the model meets publication criteria. Make sure that your model has passed through all phases of development and is ready to publish. If you haven’t refined, tested, and optimized your model, you may not be able to publish it in Virtual Agent Designer. For more information, see [Model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/model-management-phases.md).
 
@@ -30,7 +30,7 @@ You can also publish topic blocks and custom controls to make them available for
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
     **Tip:** If you need to work with NLU/keyword topics, select **NLU/keyword** from the discovery type toggle switch.
 
@@ -40,7 +40,7 @@ You can also publish topic blocks and custom controls to make them available for
 
     Selecting **Publish** when there are issues present opens a Validation Issues tab next to the property sheet, which counts up and details all issues needing correction. These details include a hyperlink for each incomplete item. If the issue is in a node, selecting the hyperlink opens the property sheet for that node. As each issue is resolved, the list on the shelf updates to show the remaining errors. Once there are no issues to resolve, the publishing dialog box opens.
 
-    \[Omitted image "va-validation-issues-tab.png"\] Alt text: Virtual Agent Designer canvas [[sidebar-landing|sidebar]] showing Validation Issues tab containing error message and hyperlink to node containing error.
+    \[Omitted image "va-validation-issues-tab.png"\] Alt text: Virtual Agent Designer canvas sidebar showing Validation Issues tab containing error message and hyperlink to node containing error.
 
     If you're using NLU topic discovery, the Choose what to publish dialog box appears. Select the available items to publish with the topic, such as the NLU model and language mappings, and then select **Publish**.
 
@@ -54,7 +54,7 @@ You can also publish topic blocks and custom controls to make them available for
 
 <table id="choicetable_uyk_3w1_scc"><tbody><tr><td id="d97103e216">
 
-**[[vad-topic-properties-tab|Topic properties tab]]**
+**Topic properties tab**
 
 </td><td>
 
@@ -90,11 +90,3 @@ The topic blocks and custom controls are published and are available for use in 
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-landing|Sidebar]]
-- [[vad-topic-properties-tab|Topic Properties tab]]

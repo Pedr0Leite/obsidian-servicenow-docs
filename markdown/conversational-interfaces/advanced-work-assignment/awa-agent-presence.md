@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Check for an agent's presence and capacity
 
-View a list of agents in [[awa-application-landing-page|Advanced Work Assignment]], their presence status, and capacity for each of the agent's [[awa-service-channels|service channels]] to see which agent can handle a case. This list is filtered across different teams, channels in teams, and channels dashboards.
+View a list of agents in Advanced Work Assignment, their presence status, and capacity for each of the agent's service channels to see which agent can handle a case. This list is filtered across different teams, channels in teams, and channels dashboards.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: awa\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **[[management|Management]]** &gt; **Agent Presence &amp; Capacity**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Management** &gt; **Agent Presence &amp; Capacity**.
 
 2.  In the list, check which agent is available to handle a case:
 
@@ -35,8 +35,4 @@ Role required: awa\_admin or admin
     |Capacity in use|Current workload of agent.|
     |Capacity|Maximum capacity that the agent can handle.|
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[management|Management]]

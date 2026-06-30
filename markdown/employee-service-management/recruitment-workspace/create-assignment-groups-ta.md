@@ -24,12 +24,9 @@ The process of assignment might be automated or manual. It serves the following 
 -   Automate the process of job requisition assignment.
 -   Decrease the time spent on determining which requisition should be assigned to which recruiter.
 
-Set up the assignment groups to view data on the recruitment dashboard in the [[recruitment-workspace-concept|Recruitment workspace]] overview page.
+Set up the assignment groups to view data on the recruitment dashboard in the Recruitment workspace overview page.
 
 For more information on setting up assignment groups, see [Configure assignment group types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ConfigGroupTypesForAssignGroups.md).
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

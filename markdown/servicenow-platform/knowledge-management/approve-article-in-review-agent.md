@@ -22,7 +22,7 @@ Role required: agent\_workspace\_user
 
 ## About this task
 
-If the [[article-versioning|article versioning]] feature is enabled, only users who are assigned as approvers can modify a knowledge article that is in the **Review** state. If you are not an approver but need to modify the article, consider recalling the article. For more information, see [Recall an article that is being reviewed in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/recall-article-review-agent.md).
+If the article versioning feature is enabled, only users who are assigned as approvers can modify a knowledge article that is in the **Review** state. If you are not an approver but need to modify the article, consider recalling the article. For more information, see [Recall an article that is being reviewed in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/recall-article-review-agent.md).
 
 ## Procedure
 
@@ -50,6 +50,3 @@ If the [[article-versioning|article versioning]] feature is enabled, only users 
 
 [View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-agent.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]

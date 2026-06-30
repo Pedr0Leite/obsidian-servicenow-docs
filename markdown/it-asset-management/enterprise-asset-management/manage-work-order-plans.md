@@ -44,8 +44,5 @@ Create a reusable work order plan template to use when creating work order plans
 -   **[Create a work order plan for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-work-order-plan-eam.md)**  
 Create and manage a work order plan to organize, assign, schedule, and track complex asset tasks for enterprise assets and asset groups.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]

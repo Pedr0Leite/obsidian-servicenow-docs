@@ -14,14 +14,14 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Donate assets to charity organizations
 
-Use the [[asset-donation|Asset Donation]] flow to donate hardware and [[c_ReceiveAConsumableAsset|consumable assets]] of your organization to charity organizations.
+Use the Asset Donation flow to donate hardware and consumable assets of your organization to charity organizations.
 
 -   **[Create an Asset Donation Order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-donation-order.md)**  
 Create a service catalog request to donate the in-stock hardware and consumable assets in your organization to charity organizations.
 -   **[Approve or reject an Asset Donation Order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/approve-reject-asset-donation-order.md)**  
-As an asset manager, review and then [[approve-reject-asset-donation-order|approve or reject an Asset Donation Order]].
+As an asset manager, review and then approve or reject an Asset Donation Order.
 -   **[Process an Asset Donation Order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-asset-donation-order.md)**  
-[[process-asset-donation-order|Process an Asset Donation Order]] to prepare and send assets to a charity organization.
+Process an Asset Donation Order to prepare and send assets to a charity organization.
 -   **[Add a charity organization for donating assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-charity-org.md)**  
 Add a charity organization to the Charity Organization \[sn\_itam\_common\_charity\_org\] table to make it available for asset donations.
 
@@ -34,7 +34,7 @@ Add a charity organization to the Charity Organization \[sn\_itam\_common\_chari
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -54,13 +54,13 @@ Add a charity organization to the Charity Organization \[sn\_itam\_common\_chari
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -78,7 +78,7 @@ Add a charity organization to the Charity Organization \[sn\_itam\_common\_chari
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -94,13 +94,3 @@ Add a charity organization to the Charity Organization \[sn\_itam\_common\_chari
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[asset-donation|Asset donation]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[approve-reject-asset-donation-order|Approve or reject an Asset Donation Order]]
-- [[process-asset-donation-order|Process an Asset Donation Order]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -14,11 +14,11 @@ breadcrumb: [Normalization data services, Creating users, companies, departments
 
 # Normalization properties
 
-On the normalization properties form, you can see and change the configurable properties for the [[c_NormalizationOverview|Normalization Data Services]] plugin.
+On the normalization properties form, you can see and change the configurable properties for the Normalization Data Services plugin.
 
 |Field|Description|
 |-----|-----------|
-|Reference qualifiers on all tables that [[reference-email-admin|reference]] the company will be updated to use the Normalized field.|If **Yes**, any reference field for the company – for any table across the platform – uses the Normalized name. This service only works if you have run the Update [[c_ReferenceQualifiers|Reference Qualifiers]] task in the Guided Setup.|
+|Reference qualifiers on all tables that reference the company will be updated to use the Normalized field.|If **Yes**, any reference field for the company – for any table across the platform – uses the Normalized name. This service only works if you have run the Update Reference Qualifiers task in the Guided Setup.|
 |Enable a business rule that automatically normalizes manufacturer names for configuration items.|If **Yes**, the system normalizes company names when you add or update configuration items by a mechanism other than Discovery \(such as by manual import sets\).|
 |Enable Discovery to use the normalization service for the manufacturer name.|To have Discovery use the normalized company name for the manufacturer name, select **Yes**.|
 |This property is to enable or disable the Normalization process.|To enable the Normalization Data Service process, select **Yes**. To disable, select **No**. For details, see [Normalization data services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md).|
@@ -26,8 +26,3 @@ On the normalization properties form, you can see and change the configurable pr
 
 **Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 
-## Related
-
-- [[c_NormalizationOverview|Normalization data services]]
-- [[reference-email-admin|Reference]]
-- [[c_ReferenceQualifiers|Reference qualifiers]]

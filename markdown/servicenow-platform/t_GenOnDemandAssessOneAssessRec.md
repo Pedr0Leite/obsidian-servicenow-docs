@@ -12,7 +12,7 @@ breadcrumb: [On-demand assessments, Assessment administrator tasks, Using assess
 
 # Generate an on-demand assessment for one assessable record
 
-When you [[t_OnDemandAssessment|generate an on-demand assessment]] from the Assessable Record form, the resulting assessment contains questions from the categories associated to the assessable record.
+When you generate an on-demand assessment from the Assessable Record form, the resulting assessment contains questions from the categories associated to the assessable record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Publish the assessment.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **[[c_assessable-records|Assessable Records]]**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Assessable Records**.
 
 2.  Open an assessable record associated to a metric type that has the **On demand** schedule type.
 
@@ -41,23 +41,14 @@ Publish the assessment.
 
 The system generates an assessment instance assigned to the selected users.
 
-**Parent Topic:**[[c_OnDemandAssessments|On-demand assessments]]
+**Parent Topic:**[On-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[[c_AssessmentGeneration|Assessment generation]]
+[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)
 
-[[c_ScheduledAssessments|Scheduled assessments]]
+[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-[[t_CleanUpAssessmentData|Clean up assessment data]]
+[Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 
-## Related
-
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[t_CleanUpAssessmentData|Clean up assessment data]]
-- [[t_OnDemandAssessment|Generate an on-demand assessment]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]

@@ -16,7 +16,7 @@ breadcrumb: [Landing pages, Advanced configurations, Workforce Optimization for 
 
 Stay on top of the status of incidents your teams are working on at a given time. Monitor training that's overdue and how many assessments are open and require approval. Analyze your teams' work and SLA status for the desired time period.
 
-\[Omitted image "workforce-optimization-landing-page.jpg"\] Alt text: Workforce Optimzation [[dex-workspace-dashboard-tab|Landing Page]]
+\[Omitted image "workforce-optimization-landing-page.jpg"\] Alt text: Workforce Optimzation Landing Page
 
 ## End user and roles
 
@@ -61,7 +61,7 @@ Monitor your agent's work when you start your day, view reports that need your a
 
     A list of incidents assigned to the teams managed by the current logged-in user.
 
--   **[[process-unassigned-incident|Unassigned incidents]]**
+-   **Unassigned incidents**
 
     A list of incidents assigned to groups managed by the current logged-in user that does not have an assignee.
 
@@ -87,7 +87,3 @@ Select a visualization to view details.
 
 **Parent Topic:**[Workforce Optimization for ITSM landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-landing-pages.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[process-unassigned-incident|Unassigned incidents]]

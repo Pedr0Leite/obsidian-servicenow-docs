@@ -35,7 +35,7 @@ Use the portals to provide information and support for your customers. The porta
 -   Hierarchical menu to systematically navigate to different portal pages.
 -   Unified browse experience for knowledge and catalog through taxonomy topics.
 -   List pages to browse, search, and filter through records of cases, products, orders, and others.
--   Record view pages to view key information, related actions, related [[migration-lists|lists]], and quick links of a record.
+-   Record view pages to view key information, related actions, related lists, and quick links of a record.
 
 You can add additional self-service capabilities such as order management by installing the respective plugin.
 
@@ -70,6 +70,3 @@ For details, see [Activate the Consumer and Customer Service Portals](https://ra
 
 [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md)
 
-## Related
-
-- [[migration-lists|Lists]]

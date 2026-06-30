@@ -12,7 +12,7 @@ breadcrumb: [Install and configure MID Servers to access cloud environments, Acc
 
 # Cloud Request Retry Configuration
 
-If a request is throttled by a cloud provider during [[r-discovery|Discovery]], Cloud Request Retry Configuration provides a customizable method to retry requests. Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns includes a retry configuration for AWS and Azure. You can customize the included configuration or create your own.
+If a request is throttled by a cloud provider during Discovery, Cloud Request Retry Configuration provides a customizable method to retry requests. Discovery and Service Mapping Patterns includes a retry configuration for AWS and Azure. You can customize the included configuration or create your own.
 
 Discovery admins and Cloud admins can access the request retry configuration at **All** &gt; **Discovery** &gt; **Cloud Request Retry Configuration**. You can create one configuration for each provider.
 
@@ -78,10 +78,5 @@ If the initial delay is 2000, the final delay \(with jitter\) can be a value bet
 
 With a custom backoff retry strategy, you define the **Max retries** and **Response codes** and create your own **Mid script include** that defines how requests are retried using the **getDelay\(\)** function. For more information, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
-**Parent Topic:**[[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
+**Parent Topic:**[Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -103,7 +103,7 @@ Optional description for this event profile.
 
     The values for the Source Fields are provided from the targeted attack protection \(TAP\) data in your environment as a reference.
 
-    The default [[mapping-logrhythm|mapping]] of the source fields data to the target fields is displayed on the page. Basic data is included as a guide, but you can modify this mapping.
+    The default mapping of the source fields data to the target fields is displayed on the page. Basic data is included as a guide, but you can modify this mapping.
 
 7.  Select the **f\(x\)** icon to view the default translations included with the application.
 
@@ -120,7 +120,7 @@ Optional description for this event profile.
     |Filter based on conditions for Click Events|Option to enable filtering based on click events.|
     |Click Events Filter Conditions|Click event filter conditions.|
     |Aggregation Conditions|Option to allow an incoming incident to be appended to an open security incident instead of creating a new one.|
-    |Incident fields with matching values|Add the [[sir-landing-page|Security Incident Response]] fields whose values must be matched for an incident to be included in an aggregation.|
+    |Incident fields with matching values|Add the Security Incident Response fields whose values must be matched for an incident to be included in an aggregation.|
     |Log work note for New Incident|Option to enable work notes to be logged to the parent Security Incident Response.|
     |Enable ThreatID Relation|Option to enable aggregation of all incidents that have matching ThreatIDs.|
 
@@ -163,7 +163,3 @@ Option to import events only once on the basis of the date configured. All the e
 
 The newly created event profile is included in the list of existing event profiles on the Events Profiles page.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

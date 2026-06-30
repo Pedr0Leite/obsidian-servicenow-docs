@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # Log in to the Security Incident Response Mobile app
 
-Open the [[sir-landing-page|Security Incident Response]] Mobile app and add a ServiceNow AI Platform® instance with Security Incident Response to your mobile device.
+Open the Security Incident Response Mobile app and add a ServiceNow AI Platform® instance with Security Incident Response to your mobile device.
 
 ## Before you begin
 
@@ -102,6 +102,4 @@ Enter a nickname for this instance. If you have multiple instances added to the 
 
     If you cannot view the Instances screen after you tap the **ServiceNow Agent** app, try uninstalling it from your device. Verify you have the most current version of the app from the Apple iOS App Store or the Google Play Store and try reinstalling it.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Test Management 2.0, Test Management applications, Strategic Portfo
 
 # Test Management 2.0 overview
 
-[[test-management2-landing-page|Test Management 2.0]] helps you deliver software products more efficiently and with fewer defects by managing and streamlining testing processes for both testers and managers. You can create multiple versions of a test and integrate with [[agile-landing-page|Agile Development 2.0]].
+Test Management 2.0 helps you deliver software products more efficiently and with fewer defects by managing and streamlining testing processes for both testers and managers. You can create multiple versions of a test and integrate with Agile Development 2.0.
 
 To learn about the different versions of Test Management and to choose the version that helps you meet your testing requirements, see [Test Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-management-overview.md).
 
@@ -36,7 +36,7 @@ Tester
 
 </td><td>
 
-Can run [[c_Tests|tests]] and track defects for a software product by: -   Creating tests and test sets.
+Can run tests and track defects for a software product by: -   Creating tests and test sets.
 -   Performing tests and recording test results.
 -   Updating status of tests.
 -   Creating defect records manually and linking them to failed tests for retesting.
@@ -53,7 +53,7 @@ Test Manager
 
 Can set up and monitor the manual testing process of a software product by:-   Creating and maintaining tests and test sets.
 -   Evaluating the tests, test steps, and test sets created by testers.
--   Facilitating test execution by creating [[c_TestPlans|test plans]], fragmenting a test plan into test cycles, and test cycles into test execution suites.
+-   Facilitating test execution by creating test plans, fragmenting a test plan into test cycles, and test cycles into test execution suites.
 -   Initiating a testing process by assigning tests to testers and then monitoring overall progress.
 -   Assessing test results and closing a test plan.
 
@@ -84,7 +84,7 @@ Test set
 
 </td><td>
 
-A collection of related tests. A test can be a part of one or more test sets.You can use the [Test Sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-set.md) module to [[t_CreateATest|create a test]] set and group related tests into that test set.
+A collection of related tests. A test can be a part of one or more test sets.You can use the [Test Sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-set.md) module to create a test set and group related tests into that test set.
 
 </td></tr><tr><td>
 
@@ -124,16 +124,8 @@ Detailed report of tests results, such as start time and end time of test execut
 1.  Activate the Test Management 2.0 plugin. For more information, see [Activate Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/activate-test-management2.md).
 2.  Create your first test. For more information, see [Create a test in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md).
 3.  Create a test set to organize related tests. For more information, see [Create a test set in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-set.md).
-4.  [[t_CreateATestPlan|Create a test plan]] and assign tests to testers. For more information, see [Create a test plan using Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-plan.md).
+4.  Create a test plan and assign tests to testers. For more information, see [Create a test plan using Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-plan.md).
 5.  Run your assigned tests. For more information, see [Run your test assignments in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-your-test-assignments.md).
 
 **Parent Topic:**[Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-management2-landing-page.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]
-- [[t_CreateATest|Create a test]]
-- [[t_CreateATestPlan|Create a test plan]]

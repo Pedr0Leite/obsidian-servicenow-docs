@@ -26,7 +26,7 @@ Employees can ask questions about disability insurance benefits or be enrolled i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRProfileRecords|HR Profile]]** &gt; **Disability Insurance Benefits**.
+1.  Navigate to **All** &gt; **HR Profile** &gt; **Disability Insurance Benefits**.
 
 2.  Click **New** to open a disability benefit record.
 
@@ -64,6 +64,3 @@ Employees can ask questions about disability insurance benefits or be enrolled i
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

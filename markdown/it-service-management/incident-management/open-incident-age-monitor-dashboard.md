@@ -18,7 +18,7 @@ View average age and assignment times and breakdown incidents in different age b
 
 **Important:**
 
-Starting in Xanadu release, the Open Incidents Age Monitor dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the average age and assignment times and breakdown incidents in different age buckets.
+Starting in Xanadu release, the Open Incidents Age Monitor dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the average age and assignment times and breakdown incidents in different age buckets.
 
 \[Omitted image "open-incidents-age-monitor.png"\] Alt text: Open incidents age monitor workbench widget
 
@@ -26,7 +26,7 @@ Starting in Xanadu release, the Open Incidents Age Monitor dashboard is deprecat
 
 |End user and goal|Required role|
 |-----------------|-------------|
-|Incident Manager: Needs to know how the [[c_IncidentManagement|incident management]] process is doing so they can plan for the future.|itil|
+|Incident Manager: Needs to know how the incident management process is doing so they can plan for the future.|itil|
 
 ## Indicators
 
@@ -62,7 +62,3 @@ The following indicators are not shown directly on the dashboard but are used in
 
 **Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]
-- [[c_IncidentManagement|Incident Management]]

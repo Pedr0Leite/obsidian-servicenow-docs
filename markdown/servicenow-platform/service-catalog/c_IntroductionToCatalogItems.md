@@ -16,11 +16,11 @@ breadcrumb: [Explore, Service Catalog, Manage service capabilities, Extend Servi
 
 The overall catalog is made up of a collection of discrete catalog items.
 
-The basic [[service-catalog|Service Catalog]] item types include:
+The basic Service Catalog item types include:
 
 -   Standard catalog items
 -   Record producers: Provide alternative ways to add information such as `Incidents via the service catalog`.
--   [[c_ServiceCatalogOrderGuides|Order guides]]: Enable grouping multiple catalog items in one request.
+-   Order guides: Enable grouping multiple catalog items in one request.
 -   Content Items: These are the catalog items which provide information instead of goods or services.
 
 ## Standard catalog item
@@ -32,7 +32,7 @@ Use a catalog item to publish a service to your users. Add a service description
 Use the variables to present and gather information from the users. Catalog UI Policies and Catalog Client Scripts can also be added to control the item behavior based on user input.
 
 -   **[Specify related items and articles for a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/map-items-cat-item.md)**  
-[[map-items-cat-item|Specify related items and articles for a catalog item]] to provide alternatives and additional information. These items and articles are displayed in the catalog item page in Service Portal and Now Mobile.
+Specify related items and articles for a catalog item to provide alternatives and additional information. These items and articles are displayed in the catalog item page in Service Portal and Now Mobile.
 -   **[Add an ordered item link to an item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AddOrderedItemLinks.md)**  
 Use ordered item links to provide a link on the ordered item screen that provides more information about an item.
 -   **[Create a Service Catalog client script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateACatalogClientScript.md)**  
@@ -44,8 +44,3 @@ Monitor aggregated catalog item data like fulfillment automation coverage, trans
 
 **Parent Topic:**[Exploring Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/exploring-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[map-items-cat-item|Specify related items and articles for a catalog item]]

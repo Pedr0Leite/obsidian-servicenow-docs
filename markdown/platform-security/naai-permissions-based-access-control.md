@@ -12,13 +12,13 @@ breadcrumb: [Agentic AI security and governance]
 
 # Permissions-based access control
 
-Use Agent Role Inheritance, [[identity-landing|identity]] types, and granular roles to verify your AI agents have only the permissions they need, and can act only within their intended boundaries.
+Use Agent Role Inheritance, identity types, and granular roles to verify your AI agents have only the permissions they need, and can act only within their intended boundaries.
 
-ServiceNow uses AI Agents to perform tasks that range from simple automated responses to complex problem solving. AI agents are restricted by their assigner roles, and are subject to the same ACL limitations as standard [[users|users]].
+ServiceNow uses AI Agents to perform tasks that range from simple automated responses to complex problem solving. AI agents are restricted by their assigner roles, and are subject to the same ACL limitations as standard users.
 
 Now Assist provides several mechanisms to enforce least-privilege access across your
 
--   [[sc-access-control|Access control]] lists \(ACLs\) that determine who can invoke an agent, user identities that define what data an agent can access once invoked.
+-   Access control lists \(ACLs\) that determine who can invoke an agent, user identities that define what data an agent can access once invoked.
 -   Role masking that limits inherited permissions during tool execution
 
 These controls help avoid agentic overreach and verify that AI agents operate within boundaries you define.
@@ -73,11 +73,5 @@ The following reference topics describe the roles installed with Now Assist and 
     Details the **sn\_nowassist\_admin.user** role, which provides read-only access to the Now Assist Admin console.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[now-assist-security|Agentic AI security and governance]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]

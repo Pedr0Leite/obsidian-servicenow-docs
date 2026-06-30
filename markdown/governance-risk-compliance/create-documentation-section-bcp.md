@@ -30,7 +30,7 @@ These UI actions are available for the documentation sections:
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Planning** and select the link to the plan record in the **Name** column.
+2.  In the List view, navigate to **Planning** and select the link to the plan record in the **Name** column.
 
 3.  Select the **Documentation** tab of the plan.
 
@@ -69,9 +69,5 @@ These UI actions are available for the documentation sections:
 8.  To reset a documentation section to its template, select the More actions \(**...**\) icon and then select **Reset to template**.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

@@ -16,7 +16,7 @@ Activate the Data Collection Pack for APM after you enable and configure it.
 
 ## Before you begin
 
-Monthly Data collection within Performance/Platform [[io-analytics|Analytics]] runs on a schedule.
+Monthly Data collection within Performance/Platform Analytics runs on a schedule.
 
 **Important:** To get data collection up and running, perform the monthly setup only once.
 
@@ -24,7 +24,7 @@ Role required: admin, pa\_admin, or pa\_data\_collector
 
 ## Procedure
 
-1.  Navigate to **Performance/Platform Analytics &gt; Data Collector&gt; Jobs**, and then open **[[impact-landing-page|Impact]] VM – APM - Monthly Data Collection**.
+1.  Navigate to **Performance/Platform Analytics &gt; Data Collector&gt; Jobs**, and then open **Impact VM – APM - Monthly Data Collection**.
 
 2.  Select **Active**, and then update the record.
 
@@ -48,14 +48,10 @@ Role required: admin, pa\_admin, or pa\_data\_collector
 
         For historical job execution, adjust the Relative start months according to the available data.
 
-        -   If you do not have a full version of [[instance-observer-performance|Performance]] Analytics, historical data won’t be captured beyond 180 days from the job execution date.
+        -   If you do not have a full version of Performance Analytics, historical data won’t be captured beyond 180 days from the job execution date.
         -   If you have the full version of Performance Analytics, you can change the Relative start date to a longer timeframe than 6 months. For example, you could change Relative start from 6 months ago to 12 months ago.
     2.  Select **Execute Now** to run the historical data collection job.
 
     3.  Navigate to **Platform Analytics &gt; Dashboard**, and then open **Impact VM – APM**.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

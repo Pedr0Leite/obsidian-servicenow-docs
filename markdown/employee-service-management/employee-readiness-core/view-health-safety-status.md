@@ -22,15 +22,15 @@ Role required: none
 
 ## About this task
 
-Your status page lists all the requirements that you must fulfill before you can return to the workplace or visit a site. If you've fulfilled any requirements that are valid for a limited amount of time, your status page shows the amount of time remaining until you must take action to complete the requirement again. If [[workplace-safety-mgmt-hr|Workplace Core]] is installed, your status page also shows your upcoming workspace reservations.
+Your status page lists all the requirements that you must fulfill before you can return to the workplace or visit a site. If you've fulfilled any requirements that are valid for a limited amount of time, your status page shows the amount of time remaining until you must take action to complete the requirement again. If Workplace Core is installed, your status page also shows your upcoming workspace reservations.
 
-**Note:** Your status page shows your requirements and eligibility for your current location by default. If a requirement is not required, you cannot see the specific [[health-safety-overview|health and safety]] requirement on your Health and Safety Status page.
+**Note:** Your status page shows your requirements and eligibility for your current location by default. If a requirement is not required, you cannot see the specific health and safety requirement on your Health and Safety Status page.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **My Status**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **My Status**.
 
-    **Note:** To view your status page on the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Prepare for arrival** &gt; **My readiness checklist**.
+    **Note:** To view your status page on the Now Mobile app, navigate to **Health** &gt; **Prepare for arrival** &gt; **My readiness checklist**.
 
 2.  Select one of your upcoming reservations and travel requests to review your eligibility for a reservation or travel request.
 
@@ -41,9 +41,3 @@ Your status page lists all the requirements that you must fulfill before you can
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[mobile-employee-experience|Now Mobile app]]

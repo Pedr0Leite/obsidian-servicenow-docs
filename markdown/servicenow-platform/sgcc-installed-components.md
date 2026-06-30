@@ -12,7 +12,7 @@ breadcrumb: [SGC Central reference, SGC Central, Integrating third-party data in
 
 # Components installed with SGC Central
 
-Several types of components are installed with activation of the [[sgcc-landing|SGC Central]] \(sn\_sgc\_central\) plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the SGC Central \(sn\_sgc\_central\) plugin, including tables, user roles, and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -103,7 +103,7 @@ Stores all installed or draft connections, including details such as connection,
 
 </td></tr><tr><td>
 
-SGC [[integrationhub-etl|IntegrationHub ETL]]
+SGC IntegrationHub ETL
 
  \[sn\_sgc\_central\_st\_integrationhub\_etl\]
 
@@ -116,14 +116,8 @@ Stores the Extract Transform Load \(ETL\) list for display under the Integration
 
 |Application|Description|
 |-----------|-----------|
-|Integration Commons for CMDB \(sn\_cmdb\_int\_util\)|Contains the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]] and a set of Robust Transform Engine \(RTE\) transforms and script includes.|
+|Integration Commons for CMDB \(sn\_cmdb\_int\_util\)|Contains the CMDB Integrations Dashboard and a set of Robust Transform Engine \(RTE\) transforms and script includes.|
 |CMDB Workspace \(sn\_cmdb\_ws\)|Provides a single place to access CMDB-focused features including SGC Central.|
 
-**Parent Topic:**[[sgcc-reference|SGC Central reference]]
+**Parent Topic:**[SGC Central reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 
-## Related
-
-- [[sgcc-reference|SGC Central reference]]
-- [[sgcc-landing|SGC Central]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]

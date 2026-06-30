@@ -84,18 +84,12 @@ Upload only one font family at a time. Theme Builder does not yet support variab
 
 ## Result
 
-Once you have uploaded your custom font, you can select it as your default font and apply it to your theme. For information, see [[edit-font|Edit your default font]]. The most recently added font family appears at the bottom of the **Manage custom fonts** list.
+Once you have uploaded your custom font, you can select it as your default font and apply it to your theme. For information, see [Edit your default font](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/edit-font.md). The most recently added font family appears at the bottom of the **Manage custom fonts** list.
 
--   **[[add-font-face|Add a font face]]**  
+-   **[Add a font face](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-font-face.md)**  
 Add a new style such as bold or italic to your custom font family in Theme Builder.
--   **[[delete-custom-font|Delete a custom font from your theme]]**  
+-   **[Delete a custom font from your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/delete-custom-font.md)**  
 Delete and remove a custom font family or font face you no longer need from your Theme Builder theme.
 
-**Parent Topic:**[[working-with-global-styles|Working with Global styles]]
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-global-styles.md)
 
-## Related
-
-- [[edit-font|Edit your default font]]
-- [[add-font-face|Add a font face]]
-- [[delete-custom-font|Delete a custom font from your theme]]
-- [[working-with-global-styles|Working with Global styles]]

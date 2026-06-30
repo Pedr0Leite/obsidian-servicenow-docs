@@ -22,7 +22,7 @@ Role required: sn\_ins\_claim\_cml.fnol\_representative or sn\_ins\_claim\_cml.a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -79,6 +79,3 @@ A commercial claim case is created in the New state and the workflow is triggere
 
 As a claim processor, you can assign the case to yourself and start working on it. For more information, see [Process a commercial claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/manually_validate_claim.md).
 
-## Related
-
-- [[fso-overview|Financial Services]]

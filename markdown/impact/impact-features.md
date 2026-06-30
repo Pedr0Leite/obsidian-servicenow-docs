@@ -12,7 +12,7 @@ breadcrumb: [Impact reference, Impact]
 
 # Benefits &amp; Usage
 
-[[impact-landing-page|Impact]] Benefits &amp; Usage allows you to quickly access and review the powerful tools available in your Impact subscription.
+Impact Benefits &amp; Usage allows you to quickly access and review the powerful tools available in your Impact subscription.
 
 ## Impact benefits
 
@@ -32,9 +32,9 @@ Impact Core
 
 </td><td>
 
--   [[impact-program-features|Exploring Impact]]
--   [[impact-squad|Impact Squad]]
--   [[impact-operating-model|Impact operating model]]
+-   [Exploring Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-program-features.md)
+-   [Impact Squad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-squad.md)
+-   [Impact operating model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-operating-model.md)
 
 </td></tr><tr><td>
 
@@ -48,12 +48,12 @@ Experts on Demand
 
 </td></tr><tr><td>
 
-[[platform-health-idi|Platform Health]] and Monitoring
+Platform Health and Monitoring
 
 </td><td>
 
 -   HealthScan
--   [[io-overview|Monitoring instance health with Instance Observer]]
+-   [Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
 </td></tr><tr><td>
 
@@ -74,19 +74,9 @@ Premium Technical Support
 </td><td>
 
 -   24/7 Inbound Phone Support
--   [[developer-support|Impact Developer Support]]
+-   [Impact Developer Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/developer-support.md)
 -   Enhanced case response time
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[impact-reference|Impact reference]]
+</table>**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[impact-program-features|Exploring Impact]]
-- [[impact-squad|Impact Squad]]
-- [[impact-operating-model|Impact operating model]]
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[developer-support|Impact Developer Support]]
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

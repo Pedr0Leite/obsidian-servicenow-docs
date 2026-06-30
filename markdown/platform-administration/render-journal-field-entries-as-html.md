@@ -12,7 +12,7 @@ breadcrumb: [Journal field type, Reference, Field administration, Forms, fields,
 
 # Render journal field entries as HTML
 
-[[r_JournalFields|Journal fields]] can render text enclosed within code tags as HTML.
+Journal fields can render text enclosed within code tags as HTML.
 
 ## Before you begin
 
@@ -95,6 +95,3 @@ The system renders the text within code tags as HTML.
 
 [HTML sanitizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
-## Related
-
-- [[r_JournalFields|Journal fields]]

@@ -14,8 +14,5 @@ breadcrumb: [Workplace Calendar Synchronization, Workplace Service Delivery, Emp
 
 # Workplace Calendar Synchronization references
 
-Learn more about the roles, tables, system properties, scheduled jobs and flows installed with the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application.
+Learn more about the roles, tables, system properties, scheduled jobs and flows installed with the Workplace Calendar Synchronization application.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

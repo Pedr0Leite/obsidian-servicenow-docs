@@ -14,7 +14,7 @@ breadcrumb: [Monitor connections, Manage API data connections, API Insights, Con
 
 # Viewing API data connections for a Service Graph Connector within API Insights
 
-You can view installed and draft API data connections that were added using [[cmdb-sgc-available|Service Graph Connectors]] within [[api-insights|API Insights]].
+You can view installed and draft API data connections that were added using Service Graph Connectors within API Insights.
 
 The following connection types are available for viewing:
 
@@ -23,7 +23,7 @@ The following connection types are available for viewing:
 
 ## View an installed connection within API Insights
 
-View the details of an installed connection that was added using a Service Graph Connector within [[sgcc-landing|SGC Central]].
+View the details of an installed connection that was added using a Service Graph Connector within SGC Central.
 
 ### Before you begin
 
@@ -69,8 +69,3 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
     -   Select **Configure** to continue where a Service Graph Connector was last configured within SGC Central.
     -   Select **Resume setup** to set up a single instance connector for the first time.
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-insights|API Insights]]
-- [[sgcc-landing|SGC Central]]

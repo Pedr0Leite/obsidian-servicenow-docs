@@ -13,7 +13,7 @@ breadcrumb: [Install Purchase Order Management, Configure, Purchase Order Manage
 
 # Components installed with Purchase Order Management
 
-Several types of components are installed with the activation of the [[purchase-order-mgmt-landing-page|Purchase Order Management]] plugin, including roles and tables.
+Several types of components are installed with the activation of the Purchase Order Management plugin, including roles and tables.
 
 ## Roles installed
 
@@ -75,7 +75,7 @@ Purchase Order Management Collaborator \[sn\_poem\_core.collaborator\]
 
 </td><td>
 
-Can view, edit, and resolve assigned [[purchase-order-exception-table|purchase order exception]] tasks
+Can view, edit, and resolve assigned purchase order exception tasks
 
 </td><td>
 
@@ -90,16 +90,9 @@ The following tables are installed with Purchase Order Management.
 |-----|-----------|
 |Purchase Order Exception Task \[sn\_poem\_exception\_task\]|Stores the purchase order exception tasks.|
 |Purchase Order Exception \[sn\_poem\_exception\]|Stores the purchase order exception details.|
-|Purchase Order Exception Split Line \[sn\_poem\_exception\_split\_line\]|Stores the details of split lines when a [[supplier|supplier]] submits a purchase order exception.|
-|Purchase Order Confirmation \[sn\_poem\_po\_confirmation\]|Stores the [[purchase-order-table|purchase order]] confirmation details.|
+|Purchase Order Exception Split Line \[sn\_poem\_exception\_split\_line\]|Stores the details of split lines when a supplier submits a purchase order exception.|
+|Purchase Order Confirmation \[sn\_poem\_po\_confirmation\]|Stores the purchase order confirmation details.|
 |Purchase Order Confirmation Line \[sn\_poem\_po\_confirmation\_line\]|Stores the details of purchase order confirmation lines.|
 
-**Parent Topic:**[[install-purch-order-mgmt|Install Purchase Order Management]]
+**Parent Topic:**[Install Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/install-purch-order-mgmt.md)
 
-## Related
-
-- [[install-purch-order-mgmt|Install Purchase Order Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

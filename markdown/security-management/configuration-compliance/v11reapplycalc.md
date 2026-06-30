@@ -24,7 +24,7 @@ Role required: sn\_vulc.admin
 
 1.  To create a new risk calculator, follow these steps.
 
-    1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** and select **Risk Calculators**.
+    1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** and select **Risk Calculators**.
 
     2.  In the Risk Calculator list, click **New**.
 
@@ -103,6 +103,4 @@ Choose one to continue.-   Value type - Template. Choose fields from the list an
 
 4.  View your changes on test results and continue to edit your calculators as required.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

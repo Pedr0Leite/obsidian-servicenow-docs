@@ -45,13 +45,10 @@ Move assets of a startup work order task to the In use state in the Mobile Agent
 -   **[Move enterprise assets to maintenance state using the Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/move-assets-maintenance-mobile.md)**  
 Move assets of a break fix or planned maintenance work order task to the In maintenance state in the Mobile Agent application to indicate that the assets are under maintenance.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
 **Related topics**  
 
 
 [Manage enterprise asset repair tasks using the Mobile Agent application]()
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]

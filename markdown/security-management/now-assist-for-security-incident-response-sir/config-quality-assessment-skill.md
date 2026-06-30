@@ -15,7 +15,7 @@ breadcrumb: [Configure a skill, Configure, Now Assist for Security Incident Resp
 
 # Configure the Security incident quality assessment skill
 
-Add natural language rule sets to the Security incident quality assessment skill. Security analysts use these rules to [[na-sir-generate-quality-assessment-report|generate a quality assessment report]] for security incidents.
+Add natural language rule sets to the Security incident quality assessment skill. Security analysts use these rules to generate a quality assessment report for security incidents.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_si.admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
-2.  In **Technology**, select **[[security-operations-landing-page|Security Operations]]**.
+2.  In **Technology**, select **Security Operations**.
 
     The Now Assist skills for Security Operations page displays the list of available skills.
 
@@ -47,7 +47,4 @@ Role required: sn\_si.admin
 
     The skill uses this rule set to generate a quality assessment for the security incident.
 
-## Related
 
-- [[na-sir-generate-quality-assessment-report|Generate a quality assessment report]]
-- [[security-operations-landing-page|Security Operations]]

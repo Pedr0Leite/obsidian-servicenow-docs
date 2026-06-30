@@ -14,11 +14,11 @@ breadcrumb: [Configuring a custom API to dynamically fetch supplier news, News I
 
 # Create a REST message for a custom API
 
-Create a REST message request and send it to a custom API endpoint to fetch the latest [[supplier|supplier]] news.
+Create a REST message request and send it to a custom API endpoint to fetch the latest supplier news.
 
 ## Before you begin
 
--   Install the [[supp-news-integration|News Integration for Supplier Lifecycle Operations]] plugin \(com.snc.sn\_supplier\_news\).
+-   Install the News Integration for Supplier Lifecycle Operations plugin \(com.snc.sn\_supplier\_news\).
 -   Set the application scope to News Integration for Supplier Lifecycle Operations using the application picker.
 
 Role required: admin
@@ -85,7 +85,3 @@ Role required: admin
 
 [Update the field names in the UX client script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-news-integration|News Integration for Supplier Lifecycle Operations]]

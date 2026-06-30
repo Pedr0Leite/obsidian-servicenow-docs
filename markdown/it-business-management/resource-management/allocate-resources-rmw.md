@@ -28,7 +28,7 @@ The assign logic provides you with the flexibility and control for users when as
 
 ## Before you begin
 
--   [Create an active employee definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/generate-profile-definition.md) for resources to view their allocation details on the [[rsrc-mgmt-wrkspc|Resource Management Workspace]].
+-   [Create an active employee definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/generate-profile-definition.md) for resources to view their allocation details on the Resource Management Workspace.
 -   [Create a resource card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-create-rsrc-card.md).
 -   Role required: resource\_user, resource\_manager
 
@@ -85,7 +85,7 @@ The system automatically identifies all resources based on the selected primary 
 
 8.  Double-click in the Resource status column and select **Approve** to confirm the assigned work so the resource can start working.
 
-    While assigning the work, you can easily identify if a resource is available \(\[Omitted image "rmw-green-tick.png"\] Alt text: Green tick mark within a green circle indicating the [[r_AllocatingResources|resource allocation]] is within the available bandwidth.\) or overutilized \(\[Omitted image "rmw-red-warning.png"\] Alt text: Red exclamation mark within a red triangle indication the resource is overallocated.\), even for the future periods, using the iconography.
+    While assigning the work, you can easily identify if a resource is available \(\[Omitted image "rmw-green-tick.png"\] Alt text: Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.\) or overutilized \(\[Omitted image "rmw-red-warning.png"\] Alt text: Red exclamation mark within a red triangle indication the resource is overallocated.\), even for the future periods, using the iconography.
 
 9.  You can change the status of any assigned assignments using one of the following options.
 
@@ -106,7 +106,7 @@ The assigned work items are Approved \(\[Omitted image "rmw-approved-state.png"\
 
 If no tasks appear in the Unassigned tasks tray, verify the following:
 
-1.  Verify the resource requests exist. Project Managers must create resource requests \(resource assignments with status Requested\) on [[t_CreateAProjectTask|project tasks]]. Navigate to the project and verify resource requests exist on the Resource Assignments related list.
+1.  Verify the resource requests exist. Project Managers must create resource requests \(resource assignments with status Requested\) on project tasks. Navigate to the project and verify resource requests exist on the Resource Assignments related list.
 2.  Check if primary attributes match. The resource card filter must match the primary attributes \(Group, Skill, or Role\) defined in the resource requests. Open your resource card and verify the filter criteria aligns with existing requests.
 3.  Check if the employee profiles are generated. Verify [employee profile definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/generate-profile-definition.md) have been generated for the resources in your view.
 4.  Request state is correct. Only resource requests in **Requested** state appear as unassigned. Requests that are already Assigned, Approved, or Cancelled don't show.
@@ -115,8 +115,3 @@ If no tasks appear in the Unassigned tasks tray, verify the following:
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[t_CreateAProjectTask|Project tasks]]

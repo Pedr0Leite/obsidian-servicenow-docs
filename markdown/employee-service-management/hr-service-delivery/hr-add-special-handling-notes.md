@@ -68,7 +68,7 @@ Display as a pop-up alert
 
 </td><td>
 
-Leave this field blank. **Note:** Currently, a pop-up window is only for [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+Leave this field blank. **Note:** Currently, a pop-up window is only for HR Service Delivery Agent Workspace.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Conditions
 
 Appears when you select Conditional from the **Type** field.Select conditions when met, show the special handling note. For example, select:
 
--   [[c_HRProfileRecords|HR profile]]
+-   HR profile
 -   is
 -   Aileen Mottern
 This condition shows the special handling note for a General Inquiry case for Aileen Mottern.
@@ -160,7 +160,3 @@ This condition shows the special handling note for a General Inquiry case for Ai
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Install Care Team Operations for Healthcare IT
 
-Install the [[hcls-cto-it-app|Care Team Operations for Healthcare IT]] application \[sn\_cto\_hcit\] if you have the admin role.
+Install the Care Team Operations for Healthcare IT application \[sn\_cto\_hcit\] if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 The application includes demo data for Care Team Operations for Healthcare IT and installs related applications and plugins if they are not already installed.
 
-**Note:** The Care Team Operations for Healthcare IT application is dependent on the [[hcls-cto-app|Healthcare Operations Core]] application.
+**Note:** The Care Team Operations for Healthcare IT application is dependent on the Healthcare Operations Core application.
 
 ## Procedure
 
@@ -38,7 +38,4 @@ The application includes demo data for Care Team Operations for Healthcare IT an
 
 4.  Select **Install**.
 
-## Related
 
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[hcls-cto-app|Healthcare Operations Core]]

@@ -14,19 +14,19 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Apply continuous authentication policies to mobile sessions
 
-Reduce the risk of session hijacking by applying continuous [[authentication-policies|authentication policies]] to mobile sessions.
+Reduce the risk of session hijacking by applying continuous authentication policies to mobile sessions.
 
-Ensure that mobile [[users|users]] are using the high assurance session feature of the Zero Trust - Continuous [[c_Authentication|Authentication]] plugin by setting the **glide.zta.high\_assurance.mobile.session.allowed** system property to **false**. To bypass continuous authentication policies for mobile sessions, set this property to **true**.
+Ensure that mobile users are using the high assurance session feature of the Zero Trust - Continuous Authentication plugin by setting the **glide.zta.high\_assurance.mobile.session.allowed** system property to **false**. To bypass continuous authentication policies for mobile sessions, set this property to **true**.
 
-Set the **glide.zta.high\_assurance.mobile.session.allowed** system property to **false**. This action decreases the risk of session hijacking and persistent access if a session is compromised. If this property doesn’t appear in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **false**.
+Set the **glide.zta.high\_assurance.mobile.session.allowed** system property to **false**. This action decreases the risk of session hijacking and persistent access if a session is compromised. If this property doesn’t appear in the System Properties \[sys\_properties\] table, the default value is **false**.
 
 ## More information
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|glide.zta.high\_assurance.mobile.session.allowed|
+|Technical configuration name|glide.zta.high\_assurance.mobile.session.allowed|
 |Plugin applicability|Zero Trust - Continuous Authentication \(com.snc.zero\_trust\_continuous\_authentication\)|
-|Security risk|If this system property set to **true**, the high assurance session feature isn’t applied to mobile sessions. Reauthentication doesn't happen as defined in [[ca-policies|policies]] for high role sessions. This increases the risk of session hijacking and persistent access if a session is compromised.|
+|Security risk|If this system property set to **true**, the high assurance session feature isn’t applied to mobile sessions. Reauthentication doesn't happen as defined in policies for high role sessions. This increases the risk of session hijacking and persistent access if a session is compromised.|
 |Common Vulnerability Scoring System \(CVSS\) score|3.9|
 |Common Vulnerability Scoring System \(CVSS\) rating|Low|
 |Functional impact|If set to **true**, the high assurance session feature doesn’t apply to mobile sessions, which increases the risk of session hijacking and persistent access if a session is compromised.|
@@ -40,11 +40,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[authentication-policies|Authentication policies]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]

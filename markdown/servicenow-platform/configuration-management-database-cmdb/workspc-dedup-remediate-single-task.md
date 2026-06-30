@@ -14,7 +14,7 @@ breadcrumb: [CI de-duplication experience in a workspace, Duplicate CIs remediat
 
 # Remediate a single de-duplication task
 
-Remediate a single de-duplilcation task using a de-duplication template in CMDB Workspace,in [[sg-workspace|Service Graph Workspace]], or manually, using the Duplicate CI Remediator.
+Remediate a single de-duplilcation task using a de-duplication template in CMDB Workspace,in Service Graph Workspace, or manually, using the Duplicate CI Remediator.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ On the task form:
 
 **Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

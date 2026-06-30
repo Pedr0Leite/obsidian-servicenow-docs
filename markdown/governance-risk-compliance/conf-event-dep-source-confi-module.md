@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Event dependency source configuration**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Event dependency source configuration**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[event-update-src-config-form|Event dependency source configuration form]].
+    For more information on the fields in the form, see [Event dependency source configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/event-update-src-config-form.md).
 
 4.  Select **Submit**.
 
@@ -40,10 +40,5 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 -   **[Event dependency source configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/event-update-src-config-form.md)**  
 Use the Event dependency source configuration form to add the event dependency details such as the event record name, its target records, and sources in the BCM application.
 
-**Parent Topic:**[[configuring-event-dep-updates|Configuring sources for adding event dependencies]]
+**Parent Topic:**[Configuring sources for adding event dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-event-dep-updates.md)
 
-## Related
-
-- [[event-update-src-config-form|Event dependency source configuration form]]
-- [[configuring-event-dep-updates|Configuring sources for adding event dependencies]]
-- [[Administration|Administration]]

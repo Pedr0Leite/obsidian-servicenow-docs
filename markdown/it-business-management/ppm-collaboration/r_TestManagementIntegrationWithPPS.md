@@ -16,24 +16,18 @@ breadcrumb: [Explore Project Portfolio Management, Project Portfolio Management,
 
 Test Management 2.0 integration with Project Portfolio Management enables you to carry out testing activities on projects.
 
-After activating both the [[test-management2-landing-page|Test Management 2.0]] and [[c_ProjectPortfolioSuite|Project Portfolio Management]] applications, you can:
+After activating both the Test Management 2.0 and Project Portfolio Management applications, you can:
 
 -   Add a test phase to a project.
 -   Assign a test execution suite to the test phase.
--   View the [[c_Tests|tests]] associated with the test execution suite.
+-   View the tests associated with the test execution suite.
 -   Assign tests to testers.
 -   Perform tests and record results.
 -   Track the progress using the **Percentage complete** field in the timeline.
 
 As testers perform tests and record results, the information is updated to the test, test phase, and then to the project.
 
-**Note:** If you're an existing user, the integration between Project Portfolio Management and [[c_TestManagement|Test Management 1.0]] continues to work the same. You can still create test phases, associate test phases to a test plan, and perform testing activities.
+**Note:** If you're an existing user, the integration between Project Portfolio Management and Test Management 1.0 continues to work the same. You can still create test phases, associate test phases to a test plan, and perform testing activities.
 
 **Parent Topic:**[Explore Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/explore-project-portfolio-management.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_Tests|Tests]]
-- [[c_TestManagement|Test Management 1.0]]

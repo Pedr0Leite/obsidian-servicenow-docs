@@ -12,7 +12,7 @@ breadcrumb: [Monitor instance metrics, Instance Security Center, Platform Securi
 
 # Export metrics
 
-Analyze export metrics to see what data is most commonly exported and which [[users|users]] [[export|export]] the most data.
+Analyze export metrics to see what data is most commonly exported and which users export the most data.
 
 <table id="table_kjx_d4x_gpb"><tbody><tr><td>
 
@@ -65,15 +65,8 @@ The export metrics page displays four reports.
 
 **Note:** Export metric reports only track export events. Exports from other sources, such as rest APIs or workflows are not tracked as part of this feature.
 
--   **[[isc-export-metrics-settings|Export metrics settings]]**  
-Use the [[sc-configuration|configuration]] options in the Settings tab to narrow down reporting results.
+-   **[Export metrics settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/isc-export-metrics-settings.md)**  
+Use the configuration options in the Settings tab to narrow down reporting results.
 
-**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
-## Related
-
-- [[isc-export-metrics-settings|Export metrics settings]]
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[users|Users]]
-- [[export|Export]]
-- [[sc-configuration|Configuration]]

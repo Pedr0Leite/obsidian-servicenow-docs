@@ -14,7 +14,7 @@ breadcrumb: [Problem Management in Service Operations Workspace reference, Probl
 
 # Problem task form
 
-Description of the field values for the [[problem-task-form|problem task form]] in Service Operations Workspace.
+Description of the field values for the problem task form in Service Operations Workspace.
 
 <table id="table_un2_dyl_n3b"><thead><tr><th>
 
@@ -147,6 +147,3 @@ Information about the work performed on the problem task.
 </td></tr></tbody>
 </table>**Parent Topic:**[Problem Management in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reference-problem-management-sow.md)
 
-## Related
-
-- [[problem-task-form|Problem Task form]]

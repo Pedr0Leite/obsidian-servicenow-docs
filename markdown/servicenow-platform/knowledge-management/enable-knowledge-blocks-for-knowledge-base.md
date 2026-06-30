@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Enable knowledge blocks for each knowledge base
 
-Enable the [[knowledge-blocks|knowledge blocks]] feature for each knowledge base where you plan to use the blocks. Once enabled, you can create knowledge blocks to add to knowledge articles within a knowledge base.
+Enable the knowledge blocks feature for each knowledge base where you plan to use the blocks. Once enabled, you can create knowledge blocks to add to knowledge articles within a knowledge base.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: knowledge\_admin or knowledge\_manager
 
 2.  Open the knowledge base record.
 
-3.  In the Knowledge Base form, select the **Enable blocks** [[check-box|check box]].
+3.  In the Knowledge Base form, select the **Enable blocks** check box.
 
     **Note:** If the **Enable blocks** check box is not visible, you can add the field to the form by right-clicking the form header and navigating to **Configure** &gt; **Form Layout**.
 
@@ -54,7 +54,3 @@ Create knowledge blocks to use within the enabled knowledge base.
 
 [Knowledge blocks authoring in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-blocks-authoring-agent.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[check-box|Check box]]

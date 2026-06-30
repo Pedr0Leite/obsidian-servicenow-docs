@@ -32,7 +32,7 @@ Description
 
 -   My Live Feeds: These are custom feeds that allow you to customize Live Feed to view the content that is most important to you.
 -   Company Feed: This feed displays all posts, except those posted to private or unlisted groups.
--   Group Feeds: These feeds are created by users. [[c_RecordFeeds|Record Feeds]]: These feeds are associated with a record, such as an incident or change.
+-   Group Feeds: These feeds are created by users. Record Feeds: These feeds are associated with a record, such as an incident or change.
 -   Record feeds: These feeds help users collaborate on records by providing a place for anyone who can access the record to share messages and post attachments specific to that record.
 -   People: This option displays people who are following the current user and people the current user is following.
 -   Teams: This option is used to combine users into groups for the purpose of subscribing to specifically-focused conversations.
@@ -41,6 +41,3 @@ Description
 </td></tr></tbody>
 </table>**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedUIOverview.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]

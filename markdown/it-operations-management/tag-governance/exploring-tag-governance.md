@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance, ITOM Visibility, IT Operations Management]
 
 # Exploring Tag Governance
 
-Learn more about [[landing-page-tag-governance|Tag Governance]] reports and [[r-discovery|discovery]].
+Learn more about Tag Governance reports and discovery.
 
 ## Tag Governance overview
 
@@ -68,20 +68,14 @@ View-only permissions:-   Monitor reports from audit runs
 
 -   **[View Tag Governance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-dashboard.md)**
 
-    View metrics like tag policy coverage, compliance status, and usage trends on the [[tag-governance-insights-dashboard|Tag Governance Insights dashboard]].
+    View metrics like tag policy coverage, compliance status, and usage trends on the Tag Governance Insights dashboard.
 
 
 ## What to explore next
 
-To learn more about configuring and [[using-tag-governance|using Tag Governance]], see:
+To learn more about configuring and using Tag Governance, see:
 
 -   [Configuring Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configuring-tag-governance.md)
 -   [Using Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/using-tag-governance.md)
 -   [Tag Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/reference-tag-governance.md)
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]
-- [[r-discovery|Discovery]]
-- [[tag-governance-insights-dashboard|Tag Governance Insights dashboard]]
-- [[using-tag-governance|Using Tag Governance]]

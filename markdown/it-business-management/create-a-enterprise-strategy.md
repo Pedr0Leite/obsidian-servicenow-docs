@@ -12,7 +12,7 @@ breadcrumb: [Business Planning Portal, Strategic Portfolio Management]
 
 # Create an enterprise strategy
 
-As a business planner you can manage the business entities such as goals, [[c_BusinessUnits|business units]], business enterprise strategies, and business unit strategies. Create an enterprise strategy to orient your business plan toward your goal.
+As a business planner you can manage the business entities such as goals, business units, business enterprise strategies, and business unit strategies. Create an enterprise strategy to orient your business plan toward your goal.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Use the **Business Unit Strategies** related list to create a strategy for a bus
 
 [Allocate or modify the strategy and goal percentage for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/associate-goal-strategy-prj.md)
 
-## Related
-
-- [[c_BusinessUnits|Business units]]

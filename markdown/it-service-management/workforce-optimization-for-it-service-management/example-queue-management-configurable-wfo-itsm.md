@@ -20,14 +20,10 @@ A manager manages IT operations for a large organization and has 12 teams report
 
 As a manager, the manager must ensure that they can set up **Channel Management** to monitor team performance as follows:
 
--   [[add-channels-queues-configurable-wfo-itsm|Add service channels and queues]] to route work items
+-   Add service channels and queues to route work items
 -   Add KPIs to the channels and queues to measure team performance
 -   Monitor their teams' ongoing work and performance
 -   Join chat conversations to assist agents
 
-For detailed information on setting up channels using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], refer to [Setting up Channels using Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md).
+For detailed information on setting up channels using Workforce Optimization for ITSM, refer to [Setting up Channels using Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md).
 
-## Related
-
-- [[add-channels-queues-configurable-wfo-itsm|Add service channels and queues]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

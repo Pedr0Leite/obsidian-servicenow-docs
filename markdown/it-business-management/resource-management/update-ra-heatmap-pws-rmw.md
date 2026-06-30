@@ -14,7 +14,7 @@ breadcrumb: [Manage resource assignments from Project Workspace, Use, Resource M
 
 # Update resource assignments using Project Workspace
 
-Use the allocation heatmap capability in [[project-workspace-landing-page|Project Workspace]] to view and update the [[r_AllocatingResources|resource allocation]].
+Use the allocation heatmap capability in Project Workspace to view and update the resource allocation.
 
 ## Before you begin
 
@@ -66,7 +66,3 @@ Integrate your ServiceNow® instance with your organization's Microsoft Teams to
 
 [Create resource assignments using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

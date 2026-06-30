@@ -14,7 +14,7 @@ breadcrumb: [Create compliance case, Report compliance case, Use, Compliance Cas
 
 # Compliance Case form
 
-Use the Create Compliance Case form in the GRC: [[compliance-case-management|Compliance Case Management]] application to report a compliance case.
+Use the Create Compliance Case form in the GRC: Compliance Case Management application to report a compliance case.
 
 See the following table for a description of the field values.
 
@@ -197,7 +197,7 @@ Source
 </td><td>
 
 Source from which the case is reported: -   **Manual**: When the case is created from the compliance workspace, the field displays the source as **Manual**.
--   **[[employee-center|Employee Center]]**: When the case is reported from the Employee Center, the field displays the source as **Employee Center**.
+-   **Employee Center**: When the case is reported from the Employee Center, the field displays the source as **Employee Center**.
 
 </td></tr><tr><td>
 
@@ -439,7 +439,3 @@ Save the details of the compliance case.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a compliance case in the Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-compliance-case.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]

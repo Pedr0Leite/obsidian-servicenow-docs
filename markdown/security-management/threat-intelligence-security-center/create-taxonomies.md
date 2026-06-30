@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Taxonomies**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Taxonomies**.
 
 2.  Click **New**.
 
@@ -38,13 +38,10 @@ Role required: sn\_sec\_tisc.admin
 
 7.  Click **Save**.
 
-8.  For example, navigate to **Threat Intel Library** &gt; **[[c_Observables|Observables]]** to verify the taxonomies for the observables record.
+8.  For example, navigate to **Threat Intel Library** &gt; **Observables** to verify the taxonomies for the observables record.
 
 9.  Navigate to **Tags and Taxonomies** section in any observable form page and select the newly created taxonomy.
 
     **Note:** You can also add tags and taxonomies from the list view of the Threat Intel library.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

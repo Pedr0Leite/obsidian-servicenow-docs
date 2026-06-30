@@ -14,7 +14,7 @@ breadcrumb: [Configure case management, Case management, Organize agent workspac
 
 As an admin, you can customize Major Issue Management detection to match the needs of your organization.
 
-The [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]] feature is delivered by the `com.sn_csm_mim_gen_ai` plugin and runs on a Flow Designer flow called **Major case agentic workflow**. When the flow triggers on a new case, it invokes the **Major Cases Similarity Search** Now Assist skill, evaluates the results, and updates the case record with a suggested major case link.
+The Now Assist for CSM Major Issue Management feature is delivered by the `com.sn_csm_mim_gen_ai` plugin and runs on a Flow Designer flow called **Major case agentic workflow**. When the flow triggers on a new case, it invokes the **Major Cases Similarity Search** Now Assist skill, evaluates the results, and updates the case record with a suggested major case link.
 
 To activate Now Assist for CSM Major Issue Management, complete the following high level steps:
 
@@ -32,21 +32,14 @@ To activate Now Assist for CSM Major Issue Management, complete the following hi
 -   Which AI search profiles are used \(which case fields are searched and how they are weighted\)
 -   Additional exact-match field filters layered on top of the similarity search \(for example, restrict matches to cases on the same account or product\)
 -   The minimum number of similar non-major cases required before a new major case is auto-proposed
--   Custom eligibility [[gamification-components-rules|rules]] for which cases qualify \(override `isValid()`\)
+-   Custom eligibility rules for which cases qualify \(override `isValid()`\)
 
 **Related topics**  
 
 
-[[install-now-assist-for-csm-major-issue-management|Install Now Assist for CSM Major Issue Management]]
+[Install Now Assist for CSM Major Issue Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-now-assist-for-csm-major-issue-management.md)
 
-[[activate-na-csm-major-issue-management|Activate Now Assist for CSM Major Issue Management]]
+[Activate Now Assist for CSM Major Issue Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-na-csm-major-issue-management.md)
 
-[[na-for-csm-mim-properties|Now Assist for CSM Major Issue Management Properties]]
+[Now Assist for CSM Major Issue Management Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/na-for-csm-mim-properties.md)
 
-## Related
-
-- [[install-now-assist-for-csm-major-issue-management|Install Now Assist for CSM Major Issue Management]]
-- [[activate-na-csm-major-issue-management|Activate Now Assist for CSM Major Issue Management]]
-- [[na-for-csm-mim-properties|Now Assist for CSM Major Issue Management Properties]]
-- [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]]
-- [[gamification-components-rules|Rules]]

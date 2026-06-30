@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Access demands
 
-Learn how to navigate to the [[demand-workspace|Next Experience for Demand Management in Strategic Planning]] Workspace and open a demand from the **All Demands** page.
+Learn how to navigate to the Next Experience for Demand Management in Strategic Planning Workspace and open a demand from the **All Demands** page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands**.
 
     Demands on the **All Demands** page displays in a list view.\[Omitted image "all-demands-home-page.png"\] Alt text: All Demands home page.
 
@@ -73,7 +73,3 @@ Select the short description of a demand. For more information, see [Update the 
 
 [Demands list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demands-list-view.md)
 
-## Related
-
-- [[demand-workspace|Next Experience for Demand Management in Strategic Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

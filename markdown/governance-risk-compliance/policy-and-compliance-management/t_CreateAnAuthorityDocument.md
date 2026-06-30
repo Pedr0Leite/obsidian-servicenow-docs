@@ -148,7 +148,7 @@ More information about the authority document.
 
     The authority document is created and all related lists are visible.
 
-    **Note:** Starting with Version 13.0.3 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, a **Taxonomy** related list appears. This related list allows you to update an existing taxonomy or map a new taxonomy to the authority document.
+    **Note:** Starting with Version 13.0.3 of the Policy and Compliance Management application, a **Taxonomy** related list appears. This related list allows you to update an existing taxonomy or map a new taxonomy to the authority document.
 
 
 ## What to do next
@@ -162,6 +162,3 @@ Create a citation from the **Authority document** related list.
 
 [Create or deactivate a citation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_CreateCitations.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

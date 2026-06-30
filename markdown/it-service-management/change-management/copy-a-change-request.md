@@ -30,7 +30,7 @@ The administrator configures which of the following items are copied to the new 
 
 **Note:** You cannot copy change details from a standard change.
 
-New [[change-tasks|change tasks]] can be created when a change is copied. If your change record has associated workflows that create change tasks, then these change tasks may not be copied because the workflow creates them. Only manually created tasks are copied, if the workflow when creating the task sets the **created\_from** field on the **change\_task** table to **workflow**. The **created\_from** field has a default value of **manual**.
+New change tasks can be created when a change is copied. If your change record has associated workflows that create change tasks, then these change tasks may not be copied because the workflow creates them. Only manually created tasks are copied, if the workflow when creating the task sets the **created\_from** field on the **change\_task** table to **workflow**. The **created\_from** field has a default value of **manual**.
 
 ## Procedure
 
@@ -70,6 +70,3 @@ In addition, you can [associate CIs](https://raw.githubusercontent.com/ServiceNo
 
 [Configure ability to copy a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-copy-change-request.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

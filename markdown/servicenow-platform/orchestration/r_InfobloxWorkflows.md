@@ -16,11 +16,11 @@ breadcrumb: [Infoblox DDI activity pack, Orchestration activity packs, Classic O
 
 The Infobox DDI activity pack includes two default workflows, one that reserves and registers IP addresses and another that releases IP addresses.
 
-To access these workflows, navigate to **Workflow** &gt; **[[workflow-editor|Workflow Editor]]** and select the **Workflows** tab. Click on a workflow to open it, and then click the information icon in the workflow header to display the properties dialog box.
+To access these workflows, navigate to **Workflow** &gt; **Workflow Editor** and select the **Workflows** tab. Click on a workflow to open it, and then click the information icon in the workflow header to display the properties dialog box.
 
 ## Infoblox Reserve/Register IP in IPAM
 
-Use this workflow to register IPv4 addresses or request the next available [[ip-address|IP address]] on IPAM. Optionally, you can use it to register IP addresses on DNS. The custom Infoblox activities used in this workflow are:
+Use this workflow to register IPv4 addresses or request the next available IP address on IPAM. Optionally, you can use it to register IP addresses on DNS. The custom Infoblox activities used in this workflow are:
 
 -   [IPAM Register IP Address](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)
 -   [IPAM Reserve IP Address](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)
@@ -53,7 +53,3 @@ Use this workflow to release \(delete\) all the IPAM reservations associated wit
 
 **Parent Topic:**[Infoblox DDI activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDDIActivityPack.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

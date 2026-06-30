@@ -31,8 +31,5 @@ Role required: Any role to open an exploration that has been shared with you. no
 4.  Select the exploration name to open it.
 
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[use-now-assist-explorer|Using AI Data Explorer]]

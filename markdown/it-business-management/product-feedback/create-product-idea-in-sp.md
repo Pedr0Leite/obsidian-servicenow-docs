@@ -26,7 +26,7 @@ User-created product ideas help in identifying focus areas of a product. These p
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -46,6 +46,3 @@ User-created product ideas help in identifying focus areas of a product. These p
 -   [Associate a feedback or a product idea record with a non-planning item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-non-planning-item.md)
 -   [Associate a product idea with a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-product-idea-with-goals.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

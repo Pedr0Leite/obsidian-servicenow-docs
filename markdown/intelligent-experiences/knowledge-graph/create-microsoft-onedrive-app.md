@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Graph, Knowledge Graph, Enable AI experiences
 
 # Configure Microsoft OneDrive application for Knowledge Graph
 
-Use Microsoft SharePoint for fetching user-specific external data, such as shared files, from external services through a [[knowledge-graph-landing|Knowledge Graph]] API.
+Use Microsoft SharePoint for fetching user-specific external data, such as shared files, from external services through a Knowledge Graph API.
 
 ## Before you begin
 
@@ -50,10 +50,10 @@ Role required: admin
     -   Select **New client secret** and add Description and Expiry duration.
     -   Select **Add**.
     -   Ensure that you copy and save the New client secret value that is created.
-4.  Select **Overview** from the left [[now-assist-global-navigation|navigation]] pane to add the redirect URL.
+4.  Select **Overview** from the left navigation pane to add the redirect URL.
 
     -   Select **Add a redirect URI**.
-    -   Select **Add a platform** from the platform [[exploring-ai-governance|configurations]] section.
+    -   Select **Add a platform** from the platform configurations section.
     -   Add `https://<instanceURL>/oauth_redirect.do` in **Redirect URIs** and **Front-channel logout URL** fields on the configure web page.
 
         **Note:** Replace the &lt;instanceURL&gt; with your instance path. Example:**abc.service-now.com**.
@@ -78,8 +78,3 @@ Role required: admin
     -   Ensure that the Redirect URL is correct.
     -   Select **Update**.
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-global-navigation|Navigation]]
-- [[exploring-ai-governance|Configurations]]

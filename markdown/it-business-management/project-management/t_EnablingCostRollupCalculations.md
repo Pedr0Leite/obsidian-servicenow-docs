@@ -31,7 +31,7 @@ Role required: it\_project\_manager
 
 ## Result
 
-Rollup values are read-only on [[form-field-information-for-dw|forms]]. Point to the icon beside the field for a tooltip message.
+Rollup values are read-only on forms. Point to the icon beside the field for a tooltip message.
 
 \[Omitted image "Rollup\_popup.png"\] Alt text: Tooltip message
 
@@ -44,6 +44,3 @@ Rollup values are read-only on [[form-field-information-for-dw|forms]]. Point to
 
 [Update a cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-cost-plan-breakdown.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]

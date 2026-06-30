@@ -14,7 +14,7 @@ breadcrumb: [Field Encryption, Encryption]
 
 External Key Management Service \(EKMS\) enables you to integrate Field Encryption with your own external key management systems.
 
-External Key Management Service \(EKMS\) enables you to maintain direct control over the [[encryption-landing|encryption]] keys that protect your data within the ServiceNow platform. Rather than storing keys within the infrastructure, you can generate, store, and manage them in a dedicated key management system. This approach permits you to adopt cloud-based enterprise services while maintaining control over your sensitive data.
+External Key Management Service \(EKMS\) enables you to maintain direct control over the encryption keys that protect your data within the ServiceNow platform. Rather than storing keys within the infrastructure, you can generate, store, and manage them in a dedicated key management system. This approach permits you to adopt cloud-based enterprise services while maintaining control over your sensitive data.
 
 You maintain authority over key lifecycle operations, including generation, rotation, and revocation allowing you to respond immediately to security events. This permits you to remove keys from your system, rendering your data cryptographically inaccessible.
 
@@ -24,7 +24,7 @@ Currently, EKMS for Field Encryption supports AWS Key Management Service \(AWS K
 
 ## Key limitations
 
--   Only one EKMS [[sc-configuration|configuration]] can be created per instance.
+-   Only one EKMS configuration can be created per instance.
 -   Multi-region keys are not supported.
 -   The AWS KMS key must be a symmetric key.
 
@@ -45,13 +45,13 @@ This architecture ensures that your instance never has direct access to decrypt 
 
 ## Key status synchronization
 
-The EKMS Health Check background job runs every 30 minutes to synchronize the AWS key status with your instance. The synchronization ensures that key state changes in AWS \(enabled, disabled, pending deletion, deleted\) are reflected in the key's status in the EKMS configuration. [[users|Users]] with the [[security-admin-role|security\_admin role]] can change this frequency by modifying the `com.glide.encryption.ekms.scheduler.health_check_interval`system property. See [[ekms-change-synchronization-frequency|Change synchronization frequency]].
+The EKMS Health Check background job runs every 30 minutes to synchronize the AWS key status with your instance. The synchronization ensures that key state changes in AWS \(enabled, disabled, pending deletion, deleted\) are reflected in the key's status in the EKMS configuration. Users with the security\_admin role can change this frequency by modifying the `com.glide.encryption.ekms.scheduler.health_check_interval`system property. See [Change synchronization frequency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-synchronization-frequency.md).
 
-**Important:** AWS-deleted keys require a minimum of seven days before showing the deleted status, as this is controlled by AWS retention [[ca-policies|policies]].
+**Important:** AWS-deleted keys require a minimum of seven days before showing the deleted status, as this is controlled by AWS retention policies.
 
 ## Integration with Field Encryption Enterprise
 
-EKMS integrates with [[now-platform-encryption|Field Encryption Enterprise]] \(FEE\) through cryptographic modules. Cryptographic modules use your external AWS KMS key to wrap encryption keys, and Encrypted Field Configurations specify which data to encrypt.
+EKMS integrates with Field Encryption Enterprise \(FEE\) through cryptographic modules. Cryptographic modules use your external AWS KMS key to wrap encryption keys, and Encrypted Field Configurations specify which data to encrypt.
 
 ## Access control
 
@@ -61,7 +61,7 @@ Module Access Policies \(MAPs\) determine which user roles can view encrypted da
 
 <table id="table_icw_nwv_f3c"><tbody><tr><td>
 
-[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
  [\[Omitted image "bus-sdlc.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
@@ -69,7 +69,7 @@ Module Access Policies \(MAPs\) determine which user roles can view encrypted da
 
 </td><td>
 
-[[ekms-using-external-key-management|External Key Management Service actions]]
+[External Key Management Service actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
  [\[Omitted image "bus-optimize-manage.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
@@ -94,32 +94,18 @@ Module Access Policies \(MAPs\) determine which user roles can view encrypted da
 </td></tr></tbody>
 </table>## Activation information
 
-To activate the External Key Management Service, you must first purchase a subscription to either Platform Encryption or [[servicenow-vault-landing|ServiceNow Vault]].
+To activate the External Key Management Service, you must first purchase a subscription to either Platform Encryption or ServiceNow Vault.
 
 The ServiceNow Platform Encryption subscription bundle is a group commercial entitlement that includes Field Encryption Enterprise and Cloud Encryption.
 
 Field Encryption Enterprise is the unlimited license of Field Encryption Starter. Field Encryption Enterprise is available with the activation of the com.glide.field.encryption.enterprise plugin. For details, see [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md).
 
-Once you’ve installed the Field Encryption Enterprise plugin, install the EKMS plugin called “Platform Encryption External Key Management”. The plugin id is com.glide.encryption.external\_kms. See [[ekms-activate-external-key-management|Activate External Key Management Service]] for more information.
+Once you’ve installed the Field Encryption Enterprise plugin, install the EKMS plugin called “Platform Encryption External Key Management”. The plugin id is com.glide.encryption.external\_kms. See [Activate External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-activate-external-key-management.md) for more information.
 
 -   **[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)**  
 Set up External Key Management Service \(EKMS\) to control the encryption of your ServiceNow data using your Amazon Web Service Key Management System \(AWS KMS\).
 -   **[Using External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)**  
 Manage and maintain your External Key Management Service \(EKMS\) configuration after initial setup
 
-**Parent Topic:**[[field-encryption|Field Encryption]]
+**Parent Topic:**[Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)
 
-## Related
-
-- [[ekms-change-synchronization-frequency|Change synchronization frequency]]
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[ekms-using-external-key-management|Using External Key Management Service]]
-- [[ekms-activate-external-key-management|Activate External Key Management Service]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[security-admin-role|Security\_admin role]]
-- [[ca-policies|Policies]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[servicenow-vault-landing|ServiceNow Vault]]

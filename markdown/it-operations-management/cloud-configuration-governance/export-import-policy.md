@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin or admin.
 
 ## Procedure
 
-1.  On the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  On the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Perform the following action to export a policy:
 
@@ -52,6 +52,3 @@ Role required: sn\_cmp.cloud\_admin or admin.
 
 [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

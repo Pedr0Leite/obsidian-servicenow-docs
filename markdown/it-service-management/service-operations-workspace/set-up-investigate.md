@@ -21,16 +21,11 @@ Set up the Investigation Framework in Service Operations Workspace using the Age
 -   **[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate-fw-mecm.md)**  
 Set up the Investigation Framework in Service Operations Workspace using Microsoft Endpoint Configuration Manager for Investigation to enable the display of the CI metrics information on the **Investigation** tab of the Incident records.
 -   **[Configure a metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/add-edit-metric-definition.md)**  
-[[add-edit-metric-definition|Configure a metric definition]] to create or modify the existing base system CI metrics displayed on the Investigation tab.
+Configure a metric definition to create or modify the existing base system CI metrics displayed on the Investigation tab.
 -   **[Configure CI Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ci-action-fw.md)**  
 Configure the CI Action Framework to add a new CI action or modify an existing one.
 -   **[Configure the Remedial Actions Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-remedial-action-fw.md)**  
-[[config-remedial-action-fw|Configure the Remedial Actions Framework]] to add a new [[remedial-action|remedial action]] or modify an existing one.
+Configure the Remedial Actions Framework to add a new remedial action or modify an existing one.
 
 **Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setting-up-sow-itsm.md)
 
-## Related
-
-- [[add-edit-metric-definition|Configure a metric definition]]
-- [[config-remedial-action-fw|Configure the Remedial Actions Framework]]
-- [[remedial-action|Remedial action]]

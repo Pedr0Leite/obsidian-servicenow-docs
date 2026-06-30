@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Create a change request
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) change request to report a change in your site.
+Create an Operational Technology \(OT\) change request to report a change in your site.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_change\_write
 
 ## About this task
 
-For a walkthrough of how to create an OT change request, watch this video.\[Omitted video\] Description: Creating an OT change request in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]
+For a walkthrough of how to create an OT change request, watch this video.\[Omitted video\] Description: Creating an OT change request in the Industrial Workspace
 
 ## Procedure
 
@@ -38,16 +38,10 @@ For a walkthrough of how to create an OT change request, watch this video.\[Omit
 
 6.  Complete the playbook as needed as your team works on the change request.
 
-    For more information about the [[basic-ot-change-model|Basic OT Change Model playbook]], see [Basic OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/basic-ot-change-model.md). For more information about the [[advanced-ot-change-model|Advanced OT Change Model playbook]], see [Advanced OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/advanced-ot-change-model.md).
+    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/advanced-ot-change-model.md).
 
     **Note:** If you don't have Playbook enabled, you can only view the **Details** and **Related Records** tabs in the OT change request record.
 
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[basic-ot-change-model|Basic OT Change Model playbook]]
-- [[advanced-ot-change-model|Advanced OT Change Model playbook]]

@@ -14,9 +14,9 @@ breadcrumb: [Create a company profile, User interface configuration, Working in 
 
 The banner is displayed at the top of the page and is rendered using certain system properties.
 
-**Note:** From the San Diego release on, [[configure-onboarding-modals|configure]] banner announcements instead of updating **glide.product.description**, which is not used when Next Experience is enabled.
+**Note:** From the San Diego release on, configure banner announcements instead of updating **glide.product.description**, which is not used when Next Experience is enabled.
 
-For more information, see [[next-experience-banner-announcements|Configure Next Experience banner announcements]].
+For more information, see [Configure Next Experience banner announcements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-banner-announcements.md).
 
 -   **glide.product.image**
 -   &lt;div&gt;**glide.product.name**&lt;/div&gt;
@@ -38,7 +38,7 @@ If **glide.product.name** is blank, then the ServiceNow name is used as the prod
 
 The banner text and banner image defined for the Company that a user is assigned to may be used to override the **glide.product.image** and **glide.product.description**. The banner text, if specified, is used instead of the **glide.product.description** property. The banner image, if specified, is used instead of the **glide.product.image** property.
 
-**Parent Topic:**[[t_CreateACompanyProfile|Create a company profile]]
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
@@ -51,8 +51,3 @@ The banner text and banner image defined for the Company that a user is assigned
 
 [Examples of how to modify the banner]()
 
-## Related
-
-- [[next-experience-banner-announcements|Next Experience banner announcements]]
-- [[t_CreateACompanyProfile|Create a company profile]]
-- [[configure-onboarding-modals|Configure]]

@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development
 
 Track the progress of your stories in the current sprint and forecast sprint completion using the Sprint Dashboard.
 
-Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Dashboards** and select **Agile 2.0 Sprint Dashboard**.
+Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Sprint Dashboard**.
 
 \[Omitted image "agile-sprint-widgets.png"\] Alt text: Agile sprint dashboard widgets.
 
@@ -130,7 +130,7 @@ scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   Sprint Burnup
 -   Sprint Cumulative Flow Diagram
@@ -219,7 +219,3 @@ Monitor the progress of all the stories of your sprint between its actual start 
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]]

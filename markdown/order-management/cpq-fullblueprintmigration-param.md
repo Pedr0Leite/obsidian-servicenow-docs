@@ -81,7 +81,7 @@ Product is removed from ProductList on destination
 </td></tr></tbody>
 </table>## Notes
 
-CPQ administrators do not directly associate or remove [[rules_101|rules]] to or from [[blueprints|blueprints]]. Instead, a rule is associated with a blueprint only if all its referenced [[fields|fields]] are associated with the blueprint. Therefore, the admin manipulates a rule's association with a blueprint by associating or removing \(deassociating\) its fields. A rule will be removed from a blueprint in several circumstances, including:
+CPQ administrators do not directly associate or remove rules to or from blueprints. Instead, a rule is associated with a blueprint only if all its referenced fields are associated with the blueprint. Therefore, the admin manipulates a rule's association with a blueprint by associating or removing \(deassociating\) its fields. A rule will be removed from a blueprint in several circumstances, including:
 
 -   A field referenced by the rule is removed from the blueprint.
 -   In the rule, the admin adds a reference to a field that is not associated with the blueprint.
@@ -91,11 +91,5 @@ CPQ administrators do not directly associate or remove [[rules_101|rules]] to or
 **Related topics**  
 
 
-[[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 
-## Related
-
-- [[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
-- [[rules_101|Rules]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [GCP, Service Graph Connectors, Integrating third-party data into CM
 
 # Configure Service Graph Connector for GCP using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] for pulling in GCP project data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for GCP for pulling in GCP project data into the CMDB.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Install Service Graph Connector for GCP version 1.8.0 or later from the ServiceN
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the GCP environment.
 
@@ -47,7 +47,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         1.  In the **Prerequisites** stage of the playbook, select the **Review setup instructions** activity.
         2.  Select **Service Graph connector for GCP - Setup Instructions** link to view the setup instructions included in the [Service Graph connector for GCP - Setup Instructions \[KB1220598\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1220598) article in the Now Support Knowledge Base.
         3.  Make a note of the destination keystore password. You need to specify this password while importing the JKS certificate into the Service Graph Connector for GCP application.
-        4.  Select the **I have read the setup instructions** [[check-box|check box]] to confirm that you have set up the GCP environment according to the instructions.
+        4.  Select the **I have read the setup instructions** check box to confirm that you have set up the GCP environment according to the instructions.
         5.  Select **Continue**.
         6.  After completing the **Review setup instructions** activity, select **Continue**.
     2.  Create an X.509 certificate to associate the JKS certificate for the GCP application with the Service Graph Connector for GCP.
@@ -101,7 +101,7 @@ Name to identify the GCP connection record.
 
 </td></tr><tr><td>
 
-Service Account [[email|Email]]
+Service Account Email
 
 </td><td>
 
@@ -154,7 +154,7 @@ Select **Projects** when the ServiceNow service account has access to data withi
 
     1.  In the **Setup** stage of the playbook, select the **Configure connection properties** activity.
 
-        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery [[properties-form-survey-designer|properties form]]. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md).
+        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery properties form. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md).
 
     2.  Review the pre-populated fields on the Deep Discovery properties form.
 
@@ -192,13 +192,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Deep discovery for Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]
-- [[email|Email]]
-- [[properties-form-survey-designer|Properties form]]

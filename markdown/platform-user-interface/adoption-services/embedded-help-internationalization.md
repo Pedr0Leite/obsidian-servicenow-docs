@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help planning, Configuring Embedded Help, Embedded Help, I
 
 # Embedded Help internationalization
 
-Embedded help internationalization provides the ability for you to localize your [[embedded-help|embedded help]] content to a variety of languages to meet global user needs. You can write your embedded help content in a language of your choice and decide what languages to display.
+Embedded help internationalization provides the ability for you to localize your embedded help content to a variety of languages to meet global user needs. You can write your embedded help content in a language of your choice and decide what languages to display.
 
 Existing embedded help content records are written in English by default. You can translate the English embedded help content provided with the base system into other languages to meet your needs. You can also create custom embedded help content in the language of your choice.
 
@@ -22,7 +22,7 @@ Existing embedded help content records are written in English by default. You ca
 
 To translate English embedded help content into another language or to create embedded help content in a language other than English, your working session must be configured to the language in which you want to write. For example, you must be working in a French session if you want to write embedded help content in French. Refer to [Localization settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization-landing.md) for more information.
 
-[[configure-onboarding-modals|Configure]] embedded help content to display in the language of your choice by accessing the **Language** field on the Embedded Help Queue \[sys\_embedded\_help\_queue\] table. Depending on the foreign language translations activated on your instance, you can choose which language to display your embedded help content.
+Configure embedded help content to display in the language of your choice by accessing the **Language** field on the Embedded Help Queue \[sys\_embedded\_help\_queue\] table. Depending on the foreign language translations activated on your instance, you can choose which language to display your embedded help content.
 
 If embedded help content is available in a particular language and users are working in an instance with that language, they will see available embedded help in the desired language.
 
@@ -51,7 +51,3 @@ Translate provided English embedded help content into other languages or create 
 
 **Parent Topic:**[Embedded Help planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-planning.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[configure-onboarding-modals|Configure]]

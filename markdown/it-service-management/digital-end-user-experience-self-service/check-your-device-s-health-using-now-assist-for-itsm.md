@@ -14,11 +14,11 @@ breadcrumb: [Use, Digital End-user Experience Self-service, Digital End-User Exp
 
 # Check device health using Now Assist for ITSM Virtual Agent
 
-Use the Now Assist for [[itsm-virtual-agent|ITSM Virtual Agent]] to monitor device performance, diagnose potential issues, and use suggested resolutions to address them.
+Use the Now Assist for ITSM Virtual Agent to monitor device performance, diagnose potential issues, and use suggested resolutions to address them.
 
 ## Before you begin
 
--   Install the [[dex-landing|Digital End-User Experience]] \(sn\_dex\) application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
+-   Install the Digital End-User Experience \(sn\_dex\) application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md).
 -   Configure Now Assist for ITSM to access the Check Device health topic in the Virtual Agent chat box.
 -   Install the Desktop Assistant \[sn\_dex\_desktop\] plugin if you're launching Virtual Agent from Desktop Assistant. For more information, see [Download and install Desktop Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/download-desktop-experience.md).
 
@@ -37,7 +37,7 @@ Role required: none
         **Note:** If you enter a phrase related to a category or subcategory, the Virtual Agent directly provides the corresponding resolution. For example, entering a phrase like `How is my device battery health` prompts the Virtual Agent to provide the battery health status and resolutions to improve it.
 
     -   Select the **Show my options** button, and then select the **Check Device Health** topic.
-    The Virtual Agent displays a list of [[dex-workspace-devices-tab|devices]] to check the device health if there are multiple devices. After you select a device, or if only one device is available, its status is displayed.
+    The Virtual Agent displays a list of devices to check the device health if there are multiple devices. After you select a device, or if only one device is available, its status is displayed.
 
     The Virtual Agent also suggests a list of resolutions to improve the device performance.
 
@@ -55,7 +55,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[remedial-action|Remedial action]]
+Remedial action
 
 </td><td>
 
@@ -143,7 +143,7 @@ Single resolution
 
 </td><td>
 
-Depending on the fallback action configured in the resolution, the Virtual Agent redirects you to a live agent, creates an incident, or prompts you to [[create-an-incident|create an incident]].The DEX administrator configures the resolutions and fallback actions. For more information, see [Engagement Settings for Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/engagement-settings.md).
+Depending on the fallback action configured in the resolution, the Virtual Agent redirects you to a live agent, creates an incident, or prompts you to create an incident.The DEX administrator configures the resolutions and fallback actions. For more information, see [Engagement Settings for Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/engagement-settings.md).
 
 </td></tr><tr><td>
 
@@ -156,10 +156,4 @@ The Virtual Agent provides an option to create an incident.
 </td></tr></tbody>
 </table>6.  Provide a rating at the end of the conversation.
 
-## Related
 
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]
-- [[create-an-incident|Create an incident]]

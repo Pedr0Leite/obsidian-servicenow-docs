@@ -17,13 +17,13 @@ Configure Agentic Contact Center for Insurance by integrating your CCaaS provide
 
 ## Configuration overview
 
--   [[install-agentic-contact-center-for-insurance|Install Agentic Contact Center for Insurance]]
+-   [Install Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/install-agentic-contact-center-for-insurance.md)
 
     Install the application.
 
 -   [Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-icc-for-ccaas.md)
 
-    Integrate your CCaaS provider with [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]. For more information, see [Integrating with contact centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contactcenter-integration.md).
+    Integrate your CCaaS provider with Agentic Contact Center for Insurance. For more information, see [Integrating with contact centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contactcenter-integration.md).
 
 -   [Configure Interaction wrap-up codes and AI skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-ai-wrap-up-code-and-notes-summary-generation.md)
 
@@ -31,7 +31,7 @@ Configure Agentic Contact Center for Insurance by integrating your CCaaS provide
 
     **Note:** The Wrap Up Completion skill is dependent on Now Assist for Customer Service Management \(CSM\).
 
--   [[configure-ai-indexing-agentic-contact-center-insurance|Configure AI indexing for Agentic Contact Center for Insurance]]
+-   [Configure AI indexing for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-ai-indexing-agentic-contact-center-insurance.md)
 
     Configure AI indexing for the sources that the AI skills and agents use to retrieve data and perform analysis.
 
@@ -57,8 +57,4 @@ Configure Agentic Contact Center for Insurance by integrating your CCaaS provide
 
     If required, create knowledge base articles that define any business rules or knowledge you want the AI agents to use as source information.
 
-## Related
 
-- [[install-agentic-contact-center-for-insurance|Install Agentic Contact Center for Insurance]]
-- [[configure-ai-indexing-agentic-contact-center-insurance|Configure AI indexing for Agentic Contact Center for Insurance]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]

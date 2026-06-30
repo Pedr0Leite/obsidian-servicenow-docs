@@ -16,9 +16,9 @@ breadcrumb: [Using AI agent workflows in Now Assist for WSD, Now Assist for Work
 
 The Optimize cleaning activities agent performs cleaning activities on a workplace location based on the space utilization threshold data.
 
-This team of AI agents get all open [[workplace-maintenance-mgmt-ovw|workplace maintenance management]] cases. The **Workplace Planned Maint Nightly Run** scheduled job runs on a daily or hourly basis to create maintenance cases. Each workplace maintenance case represents a cleaning or a maintenance case on a location for a certain time interval, also known as schedule \(on a daily or hourly basis\). The Optimize cleaning activities agentic AI workflow retrieves space utilization threshold for each [[create-maint-cases|workplace maintenance cases]].
+This team of AI agents get all open workplace maintenance management cases. The **Workplace Planned Maint Nightly Run** scheduled job runs on a daily or hourly basis to create maintenance cases. Each workplace maintenance case represents a cleaning or a maintenance case on a location for a certain time interval, also known as schedule \(on a daily or hourly basis\). The Optimize cleaning activities agentic AI workflow retrieves space utilization threshold for each workplace maintenance cases.
 
-**Note:** [[optimize-cleaning-activities-agent|Optimize Cleaning Activities Agentic workflow]] optimizes a space at the floor level for a selected building. It only optimizes non-reservable spaces like restrooms and so on.
+**Note:** Optimize Cleaning Activities Agentic workflow optimizes a space at the floor level for a selected building. It only optimizes non-reservable spaces like restrooms and so on.
 
 For more information about how to create maintenance management plan records, see [Create and publish maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-publish-maintenance-plans.md).
 
@@ -30,13 +30,13 @@ For more information about how to create maintenance management plan records, se
 
         Here, 59e13dbc3b27ee5090fd390f23e45a68 is the sys\_id of a maintenance plan record.
 
-        **Note:** Workplace Maintenance managers should manually copy the sys\_id of a maintenance plan record. This is a required step to optimize cleaning activities on a floor in a building. The AI agents perform [[space-optimization|space optimization]] on the floor of a selected building.
+        **Note:** Workplace Maintenance managers should manually copy the sys\_id of a maintenance plan record. This is a required step to optimize cleaning activities on a floor in a building. The AI agents perform space optimization on the floor of a selected building.
 
     -   After manually copying the maintenance plan sys\_id, run the Optimize cleaning activities scheduled job. This schedule job triggers the agentic AI workflow for optimizing cleaning activities on a floor of a selected building. The space optimization for location is done in the UTC time zone.
     -   The **Case Aggregator AI Agent** fetches all open maintenance cases based on the maintenance plan Id. It fetches cases that are either in **Draft**, **Ready**, or **Awaiting Approval** state in the system for about 48 hours \(two days\).
--   **Utilization rate AI agent** takes a list of available maintenance cases and calculates the utilization rate for each case. The utilization rate calculator calculates the utilization threshold for a floor in a building. The utilization rate calculator calculates the space optimization. It considers the available reservations and [[register-visitors|visitor registration]] for a selected floor in a building.
+-   **Utilization rate AI agent** takes a list of available maintenance cases and calculates the utilization rate for each case. The utilization rate calculator calculates the utilization threshold for a floor in a building. The utilization rate calculator calculates the space optimization. It considers the available reservations and visitor registration for a selected floor in a building.
 -   \(Optional\) Workplace Maintenance Managers can navigate to the context menu in an instance and enter **sn\_aia\_execution\_plan.list** in the Filter search box to open the Execution Plans table. This table showcases workplace agentic AI workflow execution status. Review the maintenance cases that are executed by the Optimize cleaning activities agentic AI workflow.
-    -   Select an optimized cleaning [[activity-lxp|activity]] agentic workflow.
+    -   Select an optimized cleaning activity agentic workflow.
     -   Select the **Tools Execution** tab to review the execution tools and execution status.
     -   A tag is added to the maintenance case after it’s optimized for the first time.
 
@@ -70,11 +70,3 @@ This team of workplace agents can find open maintenance cases and optimize it fo
 
 []()
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[create-maint-cases|Workplace maintenance cases]]
-- [[optimize-cleaning-activities-agent|Optimize cleaning activities agentic workflow]]
-- [[space-optimization|Space Optimization]]
-- [[register-visitors|Visitor registration]]
-- [[activity-lxp|Activity]]

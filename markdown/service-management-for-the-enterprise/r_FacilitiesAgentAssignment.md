@@ -16,7 +16,7 @@ Depending on your settings in the facilities configuration screen, you can assig
 
 If you have a limited number of agents for completing requests or you simply do not want to auto-assign agents, you can use manual assignment.
 
-Auto-assignment allows you to define criteria by which agents can be automatically selected to satisfy requests entered in [[c_ServiceManagement|service management]] applications. Based on the needs of your organization, you can configure the criteria for agent auto-assignment in the following ways.
+Auto-assignment allows you to define criteria by which agents can be automatically selected to satisfy requests entered in service management applications. Based on the needs of your organization, you can configure the criteria for agent auto-assignment in the following ways.
 
 When auto-assignment is enabled and a task is qualified or marked as **Ready for Work**, the following actions occur:
 
@@ -28,15 +28,10 @@ If more than one set of criteria is considered, such as location and skills, the
 
 If the task cannot be auto-assigned, a user with the dispatcher role adjusts the values in the request or task form and saves the record.
 
-**Parent Topic:**[[c_FacilitiesRequests|Facilities requests]]
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
 
 **Related topics**  
 
 
-[[c_AgentAssignment|Agent assignment methods]]
+[Agent assignment methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAssignment.md)
 
-## Related
-
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_AgentAssignment|Agent assignment methods]]
-- [[c_ServiceManagement|Service Management]]

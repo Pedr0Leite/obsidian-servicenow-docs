@@ -28,20 +28,16 @@ Role required: sn\_csm\_pricing.pricelist\_administrator or sn\_csm\_pricing.pri
 
 3.  In the Pricing Matrices list, select Delta Price Treatment Matrix.
 
-4.  In **Rule selection criteria**, select the option that indicates whether single or multiple [[rules_101|rules]] are applied in the Delta Price Treatment Matrix.
+4.  In **Rule selection criteria**, select the option that indicates whether single or multiple rules are applied in the Delta Price Treatment Matrix.
 
     If multiple rules are applied, all applicable pricing rules are applied when determining the pricing for sold products. If the option is Single, the first rule based on rank is applied.
 
 5.  Select **Edit Rule**.
 
-    The Decision Table for the Delta Price Treatment Adjustment Matrix opens in Workflow Studio and displays the inputs, which include the Line Type and Action for MACD operations. These inputs are the [[fields|fields]] \(columns\) for setting the conditions in the decision table.
+    The Decision Table for the Delta Price Treatment Adjustment Matrix opens in Workflow Studio and displays the inputs, which include the Line Type and Action for MACD operations. These inputs are the fields \(columns\) for setting the conditions in the decision table.
 
     -   Inputs: Lists the default inputs **Line Type**,**Action**.
-    -   Decision table: The conditions that you specify for the line types or MACD action, such as disconnect or [[Suspend|suspend]].
+    -   Decision table: The conditions that you specify for the line types or MACD action, such as disconnect or suspend.
 6.  In the Conditions section, select **Add new decision row**.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[Suspend|Suspend]]

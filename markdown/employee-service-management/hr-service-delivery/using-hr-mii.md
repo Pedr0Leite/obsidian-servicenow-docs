@@ -14,7 +14,7 @@ breadcrumb: [HR Multi Instance Integration, HR Service Delivery, Employee Servic
 
 # Using HR Multi Instance Integration
 
-Use [[multi-instance-int|HR Multi Instance Integration]] to place an HR service request from a consumer instance and fulfill it from a provider instance.
+Use HR Multi Instance Integration to place an HR service request from a consumer instance and fulfill it from a provider instance.
 
 ## Overview of HR Multi Instance Integration for Provider
 
@@ -26,7 +26,7 @@ If you are a provider, review the following section:
 
 2.  [Configure HR Multi Instance Integration for Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hr-multi-instance-1.md)
 
-    As a provider administrator, [[import-users-hr-mii|import users]], create connections, set up remote catalog items, enable magic links, and configure HR service.
+    As a provider administrator, import users, create connections, set up remote catalog items, enable magic links, and configure HR service.
 
 3.  [Using HR Multi Instance Integration for Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-mii-provider.md)
 
@@ -43,7 +43,7 @@ If you are a consumer, review the following section:
 
 2.  [Configure HR Multi Instance Integration for Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hr-multi-instance.md)
 
-    As a consumer administrator, activate remote catalog items to make it visible on an [[employee-center-portal-overview|employee portal]] for employees to place service requests. Restrict only users with specific roles to place remote requests.
+    As a consumer administrator, activate remote catalog items to make it visible on an employee portal for employees to place service requests. Restrict only users with specific roles to place remote requests.
 
 3.  [Using HR Multi Instance Integration for Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-mii-consumer.md)
 
@@ -54,8 +54,3 @@ If you are a consumer, review the following section:
 
 To understand more about the general guidelines and limitations for HR Multi Instance Integration, see [General guidelines and limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hr-multi-instance.md).
 
-## Related
-
-- [[multi-instance-int|HR Multi Instance Integration]]
-- [[import-users-hr-mii|Import users]]
-- [[employee-center-portal-overview|Employee portal]]

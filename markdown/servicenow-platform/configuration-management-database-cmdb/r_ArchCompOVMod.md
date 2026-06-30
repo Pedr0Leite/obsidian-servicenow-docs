@@ -14,7 +14,7 @@ breadcrumb: [Architecture Compliance, CMDB Compliance, Configuration Management 
 
 # Architecture Compliance Overview module
 
-The Architecture Compliance Overview module displays various [[c_ArchitectureCompliance|architecture compliance]] reports. The Overview module is a type of homepage.
+The Architecture Compliance Overview module displays various architecture compliance reports. The Overview module is a type of homepage.
 
 Only compliance users with certain roles can access the Overview module. The different levels of access are:
 
@@ -72,6 +72,3 @@ The available reports are:
 
 \[Omitted image "ArchitectureComplianceOverview.png"\] Alt text: Architecture compliance module graphics.
 
-## Related
-
-- [[c_ArchitectureCompliance|Architecture Compliance]]

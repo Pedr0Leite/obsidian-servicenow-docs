@@ -14,7 +14,7 @@ breadcrumb: [Software licenses in the legacy Software Asset Management plugin, L
 
 # License upgrade and downgrade with the legacy Software Asset Management plugin
 
-The concept of upgrading and downgrading licenses is built in to the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+The concept of upgrading and downgrading licenses is built in to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 This is helpful when reconciling licenses. Downgrading a license is the process of purchasing a license, but using an earlier version. Upgrading a license occurs when a newer version of a license is not purchased, but you are allowed to use the newer version. Downgrading is more common than upgrading.
 
@@ -37,6 +37,3 @@ Use the legacy Software Asset Management \(com.snc.software\_asset\_management\)
 
 **Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

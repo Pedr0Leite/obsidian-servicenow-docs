@@ -14,7 +14,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 # Article versioning
 
-Use the [[knowledge-management|Knowledge Management]] article versioning feature to create and maintain multiple versions of a knowledge article.
+Use the Knowledge Management article versioning feature to create and maintain multiple versions of a knowledge article.
 
 Knowledge contributors can create a new version of a knowledge article from an existing published version. This existing version can be either the latest published version or an older outdated version. All changes are stored in the new version of the article and the information in the existing article remains the same.
 
@@ -27,14 +27,14 @@ With the article versioning feature, a knowledge user can:
     **Note:** Only an author \(who checks out an article for revision\), knowledge base owner, and user with knowledge\_admin role can edit an article in the draft state.
 
 -   Select a previously published \(outdated\) version of an article and make it current.
--   [[recall-article-in-review|Recall an article that is being reviewed]] or scheduled for publication.
+-   Recall an article that is being reviewed or scheduled for publication.
 -   Retire the latest published version of an article.
 
 **Note:** Only an author \(who checks out an article for revision\), knowledge base owner, and user with knowledge\_admin role can edit an article in the draft state.
 
 To track the different revisions, the article versioning feature introduces version numbering. For more information, see [Knowledge article version numbers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md)
 
-With the article versioning feature, the knowledge article number also includes the version number. All [[reference-document-management|references]] to knowledge articles use this number format. For example, KB0010003 v2.0. To access all the versions of knowledge article, navigate to **All** &gt; **Knowledge** &gt; **Articles** &gt; **All** and open article with multiple versions. In the Related list, you can access all the versions.
+With the article versioning feature, the knowledge article number also includes the version number. All references to knowledge articles use this number format. For example, KB0010003 v2.0. To access all the versions of knowledge article, navigate to **All** &gt; **Knowledge** &gt; **Articles** &gt; **All** and open article with multiple versions. In the Related list, you can access all the versions.
 
 \[Omitted image "versioning-control.png"\] Alt text: multiple versions of article
 
@@ -51,8 +51,3 @@ The article versioning feature requires the Knowledge Management Advanced plugin
 
 [Knowledge Management FAQ](https://community.servicenow.com/community?id=community_article&sys_id=637ffc92db519490d82ffb24399619f3)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[recall-article-in-review|Recall an article that is being reviewed]]
-- [[reference-document-management|References]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect work, Use, Collaborative Work Management, Strategic Portfol
 
 # Update filter conditions for connected work in CWM
 
-Update the filter conditions for connected work item types in [[cwm-landing|Collaborative Work Management]] Boards so that the work items displayed in the Board reflect your team's current workload.
+Update the filter conditions for connected work item types in Collaborative Work Management Boards so that the work items displayed in the Board reflect your team's current workload.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ The Board is refreshed to load the work items based on your changes.
 
 **Parent Topic:**[Connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/unified-boards-for-connected-work-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

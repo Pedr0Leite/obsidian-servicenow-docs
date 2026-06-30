@@ -14,7 +14,7 @@ breadcrumb: [Configure ESM framework, Enterprise Service Management Integrations
 
 # Create a source in Enterprise Service Management Integrations Framework
 
-Create a source record that represents the third-party system which is integrating with your [[hr-service-delivery|HR Service Delivery]] application.
+Create a source record that represents the third-party system which is integrating with your HR Service Delivery application.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: sn\_hr\_integr\_fw.admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]

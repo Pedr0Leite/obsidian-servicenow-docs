@@ -14,7 +14,7 @@ breadcrumb: [Analyze CMDB settings, Use Data Foundations advisor, CMDB success a
 
 # CMDB and Data Foundations settings assessed in the CMDB success advisor
 
-The [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] and Data Foundations settings review provides a configuration-level assessment of the CMDB configuration item \(CI\) classes for your principal classes to support data quality, life cycle management, and integration accuracy.
+The Configuration Management Database \(CMDB\) and Data Foundations settings review provides a configuration-level assessment of the CMDB configuration item \(CI\) classes for your principal classes to support data quality, life cycle management, and integration accuracy.
 
 ## Settings overview
 
@@ -34,11 +34,11 @@ CI creation from assets using IRE
 
 </td><td>
 
-Enables the automatic creation of a CI from an asset record using the CMDB [[ire|Identification and Reconciliation Engine \(IRE\)]] for CI classes identified by serial number and without dependent relationships. Requires the relevant business rule to be active for CI creation to occur during asset insertion.
+Enables the automatic creation of a CI from an asset record using the CMDB Identification and Reconciliation Engine \(IRE\) for CI classes identified by serial number and without dependent relationships. Requires the relevant business rule to be active for CI creation to occur during asset insertion.
 
 </td></tr><tr><td>
 
-Review [[r_ReconciliationRulesPrinciples|reconciliation rules]]
+Review reconciliation rules
 
 </td><td>
 
@@ -50,7 +50,7 @@ CI classes missing managed by group
 
 </td><td>
 
-Shows principal CI classes that do not have a **Managed by group** field configured in [[ci-class-manager-landing-page|CI Class Manager]]. Ownership data is critical for routing incidents, changes, and service requests to the correct team.
+Shows principal CI classes that do not have a **Managed by group** field configured in CI Class Manager. Ownership data is critical for routing incidents, changes, and service requests to the correct team.
 
 </td></tr><tr><td>
 
@@ -85,9 +85,3 @@ Marks CIs as retired when no longer in use.
 
 [Administer CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/administer-data-manager.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # Collaborate with the hiring manager
 
-Collaborate with the hiring manager for the job requisition on the [[activity-lxp|activity]] stream.
+Collaborate with the hiring manager for the job requisition on the activity stream.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Open a requisition.
 
-3.  Send a message to the [[hiring-tab-concept|hiring]] manager using the **Comments** tab of the Compose section.
+3.  Send a message to the hiring manager using the **Comments** tab of the Compose section.
 
 
 ## Result
@@ -35,8 +35,3 @@ The hiring manager receives an email notification with the details of the commen
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

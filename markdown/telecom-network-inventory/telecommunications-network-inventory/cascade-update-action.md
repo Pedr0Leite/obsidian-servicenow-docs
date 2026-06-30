@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Cascade Update function
 
-The Cascade Update function enables you to update a configuration item \(CI\) attribute in the [[telecom-network-inventory|Telecommunications Network Inventory]] application and cascade the change in all related CIs. You can use this function to automatically cascade the field values in related CIs when you use Workflow Studio.
+The Cascade Update function enables you to update a configuration item \(CI\) attribute in the Telecommunications Network Inventory application and cascade the change in all related CIs. You can use this function to automatically cascade the field values in related CIs when you use Workflow Studio.
 
 You can use the Cascade Update function to update any field in the inventory record and cascade the changes all the way down to the hierarchy mentioned in the inventory record.
 
@@ -84,6 +84,3 @@ The following table lists the information about the cascade rules for the differ
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

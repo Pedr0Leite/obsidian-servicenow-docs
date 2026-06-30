@@ -42,7 +42,7 @@ Data source
 
 </td><td>
 
-You have selected an Indicator data source in [[create-dv-pivot-ac|Create a pivot table data visualization in the Visualization Designer]].
+You have selected an Indicator data source in [Create a pivot table data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-pivot-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -308,6 +308,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a pivot table data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-pivot-ac.md)
 
-## Related
-
-- [[create-dv-pivot-ac|Create a pivot table data visualization in the Visualization Designer]]

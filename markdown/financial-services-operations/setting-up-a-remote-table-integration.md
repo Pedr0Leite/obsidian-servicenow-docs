@@ -34,7 +34,7 @@ This use case achieves the following:
 -   Filter the list of available deposit accounts on the interaction record based on the consumer selected
 -   After opening the Consumer detail page, provide a related list titled 'Bank accounts', which pulls in any Bank accounts stored in an external system for that Consumer record
 -   After selecting a 'Bank account' record, provide a related list titled 'Transactions', which pulls in any Transactions stored in an external system for that Bank account
--   Leverage a UI policy to create a [[fso-overview|financial services]] case from the interaction record and pre-populate the consumer and bank account information populated by the agent on the interaction record
+-   Leverage a UI policy to create a financial services case from the interaction record and pre-populate the consumer and bank account information populated by the agent on the interaction record
 
 ## High-level setup procedure
 
@@ -132,11 +132,11 @@ Utilize the FSO Lookup client action
 
 </td><td>
 
-The Lookup UXF Client action, included in the [[financialservices-remote-tables|Financial Services Remote Tables]] plugin, is essential for setting up the FSO Lookup Client action.This action integrates the Action Payload Definition and is used within a field decorator as a UXF Client action.
+The Lookup UXF Client action, included in the Financial Services Remote Tables plugin, is essential for setting up the FSO Lookup Client action.This action integrates the Action Payload Definition and is used within a field decorator as a UXF Client action.
 
 It’s available as part of the Remote table lookup application but requires integration with a field decorator or a declarative action.
 
-For more information on the FSO Look Up Client action, see [[fso-look-up-client-action|FSO Look Up Client action]].
+For more information on the FSO Look Up Client action, see [FSO Look Up Client action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-look-up-client-action.md).
 
 </td></tr><tr><td>
 
@@ -151,8 +151,3 @@ When creating the relationship, specify the remote table as the **Queries from t
 </td></tr></tbody>
 </table>For more information on the implementation walkthrough, see the FSO Remote Table setup guide.
 
-## Related
-
-- [[fso-look-up-client-action|FSO Look Up Client action]]
-- [[fso-overview|Financial Services]]
-- [[financialservices-remote-tables|Financial Services Remote Tables]]

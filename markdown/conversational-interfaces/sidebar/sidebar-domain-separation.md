@@ -14,7 +14,7 @@ breadcrumb: [Sidebar reference, Sidebar, Conversational Interfaces]
 
 # Domain separation and Sidebar
 
-Domain separation is supported for [[sidebar-landing|Sidebar]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Sidebar. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -39,13 +39,13 @@ For example, say INC00001 belongs to the record created in the ACME domain and t
 
 To fully utilize domain separation, you must be on both the Vancouver version and August version of the Sidebar store app \(Omni Experience Standard Feature Set\).
 
-If you are a first time Sidebar user in Vancouver \(you did not use Sidebar earlier and are not trued up to the Vancouver store app\) and want to leverage domain separation, Sidebar is inactive by default. Navigate to the [[convint-landing-page|Conversational Interfaces]] settings page for each domain and activate Sidebar manually. Alternatively, you can access the sys\_cs\_collab\_settings table and manually insert a new record for each domain.
+If you are a first time Sidebar user in Vancouver \(you did not use Sidebar earlier and are not trued up to the Vancouver store app\) and want to leverage domain separation, Sidebar is inactive by default. Navigate to the Conversational Interfaces settings page for each domain and activate Sidebar manually. Alternatively, you can access the sys\_cs\_collab\_settings table and manually insert a new record for each domain.
 
 There is a known issue with emojis not working as expected when used with domain separation. A workaround for this issue is to go to the Enable Emojis ACE Content block and update the record field with the sys\_cs\_collab\_settings record's sys\_id for the given domain.
 
 ## Domain separation with the Sidebar and Microsoft Teams integration
 
-If [[sidebar-teams-overview|Sidebar and Microsoft Teams]] are integrated and configured, activating Sidebar prompts a message stating that the Microsoft Teams integration must be manually turned on and deactivating Sidebar prompts a message stating that the integration with Microsoft Teams will also be turned off.
+If Sidebar and Microsoft Teams are integrated and configured, activating Sidebar prompts a message stating that the Microsoft Teams integration must be manually turned on and deactivating Sidebar prompts a message stating that the integration with Microsoft Teams will also be turned off.
 
 Domain separation will not work with Microsoft Teams if multiple domains are configured. Pairing a unique Microsoft Teams with each domain is not supported.
 
@@ -54,8 +54,3 @@ Domain separation will not work with Microsoft Teams if multiple domains are con
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[sidebar-landing|Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]

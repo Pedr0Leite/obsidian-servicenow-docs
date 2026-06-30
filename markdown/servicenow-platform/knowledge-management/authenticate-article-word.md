@@ -20,7 +20,7 @@ Author and collaborate on knowledge articles in Microsoft Word by logging in to 
 
 You must have contribute access to the knowledge base within which you want to create the knowledge article.
 
-The system administrator and Office 365 administrator have configured the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
+The system administrator and Office 365 administrator have configured the Knowledge Management - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
 
 ## About this task
 
@@ -49,6 +49,3 @@ You need to authenticate with your ServiceNow instance credentials for accessing
 
 After successful authentication, the ServiceNow instance browser tab closes and you are redirected to the Microsoft Word browser tab. On the Microsoft Word document, the Knowledge Management pane displays the welcome screen.
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

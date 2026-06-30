@@ -14,7 +14,7 @@ breadcrumb: [Communities, Customer Service Management]
 
 # Communities references
 
-Reference topics provide additional information about [[servicenow-communities|communities]].
+Reference topics provide additional information about communities.
 
 -   **[Quick start tests for Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/quick-start-tests-communities.md)**  
 Validate that Communities still work after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
@@ -31,6 +31,3 @@ Set fields on the form to create a new topic.
 
 **Parent Topic:**[Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/servicenow-communities.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

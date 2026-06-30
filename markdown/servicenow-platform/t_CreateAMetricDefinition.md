@@ -37,17 +37,12 @@ Each metric definition appears as one answer option for a question on an assessm
 4.  Click **Submit**.
 
 
-**Parent Topic:**[[t_CreateAMetric|Create an assessment metric for a category]]
+**Parent Topic:**[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[r_MetricTemplates|Metric templates]]
+[Metric templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricTemplates.md)
 
-## Related
-
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[r_MetricTemplates|Metric templates]]

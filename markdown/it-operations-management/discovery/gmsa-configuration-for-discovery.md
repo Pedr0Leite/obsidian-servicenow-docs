@@ -14,11 +14,11 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # gMSA configuration for Discovery
 
-Group managed service accounts \(gMSAs\) are managed domain accounts that you use to help secure services. gMSAs can be used for credential-less [[r-discovery|Discovery]].
+Group managed service accounts \(gMSAs\) are managed domain accounts that you use to help secure services. gMSAs can be used for credential-less Discovery.
 
 ## Benefits
 
-After you configure Discovery to use gMSA, password management for that account is handled by the Windows operating system. So, you can run [[r_DataCollDiscoWindowsComputers|Windows Discovery]] without sharing credentials with the ServiceNow instance. Benefits include the following:
+After you configure Discovery to use gMSA, password management for that account is handled by the Windows operating system. So, you can run Windows Discovery without sharing credentials with the ServiceNow instance. Benefits include the following:
 
 -   You don’t have to handle gMSA passwords on your own.
 -   You can choose the cycle of gMSA password rotation for better security.
@@ -64,7 +64,4 @@ Role required: agent\_admin, discovery\_admin, or admin
 
 5.  Launch a Discovery on the server hosting the MID Server and another computer.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoWindowsComputers|Windows discovery]]

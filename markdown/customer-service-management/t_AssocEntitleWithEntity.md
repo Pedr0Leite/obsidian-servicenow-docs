@@ -30,7 +30,7 @@ Role required: sn\_customerservice\_manager or admin
 
     **Note:** If you select an entity in more than one of the listed fields, the selections that are available in subsequent fields are filtered by the selections already made.
 
-5.  To associate an entitlement with an install base, right-click the Configuring [[entitlement-form|Entitlement Form]] and navigate to **Form Layout** &gt; **Configure** .
+5.  To associate an entitlement with an install base, right-click the Configuring Entitlement Form and navigate to **Form Layout** &gt; **Configure** .
 
 6.  From the **Available** box, select **Install Base Item**.
 
@@ -40,6 +40,4 @@ Role required: sn\_customerservice\_manager or admin
 
 8.  In the Entitlement form that reappears, select the **Install Base Item** field and add the install base item that you want to associate with the entitlement.
 
-## Related
 
-- [[entitlement-form|Entitlement form]]

@@ -12,13 +12,13 @@ breadcrumb: [Manufacturing Commercial Operations]
 
 # Explore Manufacturing Commercial Operations
 
-Learn how the  [[manufacturing-overview|Manufacturing Commercial Operations]] solution can help your organization to speed up revenue and create differentiated customer and channel experiences while reducing operations costs.
+Learn how the  Manufacturing Commercial Operations solution can help your organization to speed up revenue and create differentiated customer and channel experiences while reducing operations costs.
 
 ## Overview of Manufacturing Commercial Operations
 
 The Manufacturing Commercial Operations product offers a single platform to manage your sales, support, and service operations. You can manage the end-to-end life cycle of your products, promotions, and services. Key benefits of the Manufacturing Commercial Operations include:
 
--   **[[mco-sales-promotion|Sales promotion]] campaign management**
+-   **Sales promotion campaign management**
 
     Manage campaigns with ease. Boost sales and related claims to compensate channel partners/dealers.
 
@@ -30,9 +30,9 @@ The Manufacturing Commercial Operations product offers a single platform to mana
 
     Submission and approval of repair claims for both warranty and recall. Post-sales service through product recall campaigns, Warranty, and recall related claims management.
 
--   **[[mco-pre-auth-request-use|Pre-authorization request]]**
+-   **Pre-authorization request**
 
-    Submission and approval of [[mco-agents-pre-auth-requests|pre-authorization requests]] to verify the coverage of specific parts, fees, or repairs under an existing warranty or service contract.
+    Submission and approval of pre-authorization requests to verify the coverage of specific parts, fees, or repairs under an existing warranty or service contract.
 
 -   **Dealer portal**
 
@@ -40,7 +40,7 @@ The Manufacturing Commercial Operations product offers a single platform to mana
 
 -   **Optimize the lead-to-cash cycle and increase revenue**
 
-    Manage leads and opportunities from start to finish and map customer requirement to the best offers with [[mco-som-using|Order Management]]. Launch complex products and services fast with configurable catalogs.
+    Manage leads and opportunities from start to finish and map customer requirement to the best offers with Order Management. Launch complex products and services fast with configurable catalogs.
 
 -   **Quality issue management**
 
@@ -133,7 +133,7 @@ Dealer Service Advisor
 
 </td><td>
 
-Create, view, update, and cancel a [[mco-use-repair-claim|repair claim]] case.
+Create, view, update, and cancel a repair claim case.
 
 </td></tr><tr><td>
 
@@ -154,12 +154,12 @@ They have default access to all the quality management features and tables.
 
 </td></tr><tr><td>
 
-[[mco-product-non-conformances|Product Non-conformance]] Submitter
+Product Non-conformance Submitter
 
 </td><td>
 
 -   They can create, view, update and cancel a non-conformance case.
--   They can [[mco-correction-actions|create a correction action]] and add expense line to it.
+-   They can create a correction action and add expense line to it.
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ Product Non-conformance Resolver
 
 </td></tr><tr><td>
 
-[[mco-PQI-use|Product Quality Investigation]] Member
+Product Quality Investigation Member
 
 </td><td>
 
@@ -243,7 +243,7 @@ Manage sales promotion campaigns and streamline collaboration with dealers to re
 
 </td><td>
 
-[[mco-sls-prom-clms|Sales promotion]]
+[Sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-prom-clms.md)
 
 </td></tr><tr><td>
 
@@ -251,7 +251,7 @@ Manage collaboration with dealers to submit and resolve claims for repairs perfo
 
 </td><td>
 
-[[mco-warranty-clms|Repair claim]]
+[Repair claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-warranty-clms.md)
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Support creation of a recall campaign, manage it, and track it to closure.
 
 </td><td>
 
-[[mco-rcl-clms|Recall campaign]]
+[Recall campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rcl-clms.md)
 
 </td></tr><tr><td>
 
@@ -267,7 +267,7 @@ Reduce quality costs, accelerate issue resolution, and build customer trust thro
 
 </td><td>
 
-[[mco-quality-issue-management|Quality issue management]]
+[Quality issue management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-quality-issue-management.md)
 
 </td></tr><tr><td>
 
@@ -275,7 +275,7 @@ Provide dealers a single unified experience to collaborate with New dealer porta
 
 </td><td>
 
-[[mco-dealer-portal|Dealer portal]]
+[Dealer portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-dealer-portal.md)
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Resolve customer issues and requests for your customers. By adopting a proactive
 
 Customer Service Management
 
- See, [[additional-features|Additional features]]
+ See, [Additional features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/additional-features.md)
 
 </td></tr><tr><td>
 
@@ -321,29 +321,8 @@ Channel Support Operations
 </table>## What to explore next
 
 -   [What is Manufacturing Commercial Operations \(MCO\)?](https://www.servicenow.com/industries/manufacturing.html)
--   [[configuring-manufacturing-foundation|Configure Manufacturing Commercial Operations]]
--   [[manufacturing-using|Using Manufacturing Commercial Operations]]
--   [[manufacturing-reference|Reference]]
--   [[now-assist-for-MCO|Now Assist for Manufacturing Commercial Operations]]
+-   [Configure Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/configuring-manufacturing-foundation.md)
+-   [Using Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-using.md)
+-   [Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
+-   [Now Assist for Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/now-assist-for-MCO.md)
 
-## Related
-
-- [[mco-sls-prom-clms|Sales promotion]]
-- [[mco-warranty-clms|Repair claim]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[additional-features|Additional features]]
-- [[configuring-manufacturing-foundation|Configure Manufacturing Commercial Operations]]
-- [[manufacturing-using|Using Manufacturing Commercial Operations]]
-- [[manufacturing-reference|Reference]]
-- [[now-assist-for-MCO|Now Assist for Manufacturing Commercial Operations]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]
-- [[mco-agents-pre-auth-requests|Pre-authorization requests]]
-- [[mco-som-using|Order Management]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-PQI-use|Product quality investigation]]

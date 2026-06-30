@@ -20,12 +20,9 @@ Use the recommendation context form to create a configuration.
 |-----|-----------|
 |Name|Name of the recommendation context. For example, Suggest remediation tasks.|
 |Applies to|Table that the recommendation context applies to. For example, Issue \[sn\_grc\_issue\].|
-|Extension point|Extension point for the configuration. For information about [[extension-points|extension points]], see [Extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/extension-points.md).|
+|Extension point|Extension point for the configuration. For information about extension points, see [Extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/extension-points.md).|
 |Active|Option to make the configuration active.|
 |Heading title|Title of the recommendation card. For example, Remediation task.|
 
 **Parent Topic:**[Create a recommendation context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-recommendation-context.md)
 
-## Related
-
-- [[extension-points|Extension points]]

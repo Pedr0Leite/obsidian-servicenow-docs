@@ -14,26 +14,20 @@ breadcrumb: [Legal Simple Contracts, Legal Service Delivery Practice Application
 
 # Configure Legal Simple Contracts
 
-Set up the foundation data for [[legal-simple-contracts-landing-page|legal simple contracts]] so employees can use them to [[submit-legal-request|submit a legal request]] to the legal department.
+Set up the foundation data for legal simple contracts so employees can use them to submit a legal request to the legal department.
 
 As an administrator, install and configure components for Legal Simple Contracts.
 
 -   **[Install Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/install-legal-simple-contracts.md)**
 
-    [[install-legal-simple-contracts|Install Legal Simple Contracts]] application that enables employees to submit legal requests for getting legal support and guidance for contracts.
+    Install Legal Simple Contracts application that enables employees to submit legal requests for getting legal support and guidance for contracts.
 
 -   **[Activate Word Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-install-wdt.md)**
 
-    By default Legal Simple Contracts support [[document-template-block|legal contract templates]] in HTML and PDF format. To enable the support for legal contract template in Microsoft Word format, install [[cncore-expl-wdt|Word Document Templates]] \(sn\_doc\_word\) plugin.
+    By default Legal Simple Contracts support legal contract templates in HTML and PDF format. To enable the support for legal contract template in Microsoft Word format, install Word Document Templates \(sn\_doc\_word\) plugin.
 
 -   **[Configure Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/config-legal-simple-cont.md)**
 
     Set up the foundation data for legal simple contracts so employees can use them to submit a legal request to the legal department.
 
-## Related
 
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[submit-legal-request|Submit a legal request]]
-- [[install-legal-simple-contracts|Install Legal Simple Contracts]]
-- [[document-template-block|Legal contract templates]]
-- [[cncore-expl-wdt|Word Document Templates]]

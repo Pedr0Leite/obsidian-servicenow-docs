@@ -14,11 +14,11 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 # Discover applications based on fingerprints
 
-Discover applications based on suggestions based on ServiceNow Predictive Intelligence. Predictive Intelligence automatically classifies and categorizes the discovered running processes, as application fingerprints, and provides suggestions. [[itom-visibility-landing-page|ITOM Visibility]] uses Predictive Intelligence to perform initial analysis of discovered processes and suggest applications that you might want to discover. When using this method, ITOM Visibility automatically creates a Configuration Management Database \(CMDB\) configuration item \(CI\) class, a classifier, or a pattern for the new application CI class.
+Discover applications based on suggestions based on ServiceNow Predictive Intelligence. Predictive Intelligence automatically classifies and categorizes the discovered running processes, as application fingerprints, and provides suggestions. ITOM Visibility uses Predictive Intelligence to perform initial analysis of discovered processes and suggest applications that you might want to discover. When using this method, ITOM Visibility automatically creates a Configuration Management Database \(CMDB\) configuration item \(CI\) class, a classifier, or a pattern for the new application CI class.
 
 ## Before you begin
 
-Perform horizontal [[r-discovery|discovery]] on all relevant IP ranges as described in [Convert IP networks into Discovery range sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md). Provide all the relevant credentials for ITOM Visibility access to the applications and devices that you want to discover.
+Perform horizontal discovery on all relevant IP ranges as described in [Convert IP networks into Discovery range sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md). Provide all the relevant credentials for ITOM Visibility access to the applications and devices that you want to discover.
 
 Role required: discovery\_admin
 
@@ -30,7 +30,7 @@ The Discovery feature of ITOM Visibility uses application dependency-mapping \(A
 
 Fingerprint-based discovery uses algorithms to identify running processes and organizes them into groups. These process groups become suggested applications or candidates. You review suggested applications and choose which ones to discover. The list of suggested applications is refreshed every hour.
 
-Patterns created during the fingerprint discovery are used for both horizontal and top-down discovery. For [[c_ServiceMappingOverview|Service Mapping]] to run such a pattern correctly, define when to run this pattern. You do that by defining before or after which other pattern Service Mapping should run this new pattern.
+Patterns created during the fingerprint discovery are used for both horizontal and top-down discovery. For Service Mapping to run such a pattern correctly, define when to run this pattern. You do that by defining before or after which other pattern Service Mapping should run this new pattern.
 
 When you discover an application based on an application suggestion, the fingerprint-based discovery performs the following steps:
 
@@ -192,8 +192,3 @@ The name of the process that was excluded from discovery using the **Ignore** ac
 
 [Application Fingerprints dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-application-fingerprint-dashboard.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

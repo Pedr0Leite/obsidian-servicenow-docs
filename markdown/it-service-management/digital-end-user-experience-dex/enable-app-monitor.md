@@ -14,7 +14,7 @@ breadcrumb: [Application monitoring setup, Configure, Digital End-User Experienc
 
 # Enable application monitoring
 
-Enable application monitoring to gain insights into [[perf-metrics-mob|performance metrics]], diagnose issues, and promote optimal functionality, enhancing performance and proactively addressing potential bottlenecks or failures.
+Enable application monitoring to gain insights into performance metrics, diagnose issues, and promote optimal functionality, enhancing performance and proactively addressing potential bottlenecks or failures.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
-3.  On the [[app-mngmt-card|Application management card]], select **Configure [[dex-workspace-application-tab|applications]]**.
+3.  On the Application management card, select **Configure applications**.
 
     The list of monitored applications appears.
 
@@ -48,9 +48,3 @@ Role required: sn\_dex.admin
 
 **Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-application-monitoring.md)
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[app-mngmt-card|Application management card]]
-- [[dex-workspace-application-tab|Applications]]

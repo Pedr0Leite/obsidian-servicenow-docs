@@ -14,7 +14,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Configure VAM property to enable scoped caching
 
-Use a scoped cache instead of a global cache in [[hcls-vam|Vaccine Administration Management]] to improve application performance.
+Use a scoped cache instead of a global cache in Vaccine Administration Management to improve application performance.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Prior to the Tokyo release, the VAM application used a global cache. Existing us
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

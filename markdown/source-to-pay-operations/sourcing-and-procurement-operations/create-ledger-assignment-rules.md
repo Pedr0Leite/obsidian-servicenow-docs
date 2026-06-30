@@ -14,7 +14,7 @@ breadcrumb: [Ledger assignment rules, Setting up primary data Shopping, Configur
 
 # Create ledger assignment rules
 
-Automate [[ledger-account|ledger account]] assignment for a purchase line by relating ledger accounts to a [[supplier|supplier]] product, product model, product category, spend category, and [[cost-center|cost center]].
+Automate ledger account assignment for a purchase line by relating ledger accounts to a supplier product, product model, product category, spend category, and cost center.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_shop.procurement\_administrator
 
 ## Procedure
 
-1.  Open the record of a product category, product model, or supplier product to which you want to add the [[ledger-assignment-rules|ledger assignment rules]].
+1.  Open the record of a product category, product model, or supplier product to which you want to add the ledger assignment rules.
 
 2.  From the Ledger Assignment Rules related list, select **New**.
 
@@ -162,9 +162,3 @@ Ledger account to post the purchase expenses of this product after the purchase 
 
 **Parent Topic:**[Ledger assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ledger-assignment-rules.md)
 
-## Related
-
-- [[ledger-account|Ledger account]]
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[ledger-assignment-rules|Ledger assignment rules]]

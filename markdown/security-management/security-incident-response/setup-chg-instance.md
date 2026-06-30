@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Security Operations add-on for Splunk overview, Security
 
 # Setup Splunk environment
 
-ServiceNow [[security-operations-landing-page|Security Operations]] Integration enables seamless integration between Splunk and ServiceNow Security Operations. To set up or change the ServiceNow instance where new security incidents and security events are created, use the setup action in the application list.
+ServiceNow Security Operations Integration enables seamless integration between Splunk and ServiceNow Security Operations. To set up or change the ServiceNow instance where new security incidents and security events are created, use the setup action in the application list.
 
 ## Before you begin
 
@@ -228,6 +228,3 @@ Select one of the following APIs:-   Table API
 
 [Using ServiceNow Security Operations Integration add-on](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-sn-secops-int-addon.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

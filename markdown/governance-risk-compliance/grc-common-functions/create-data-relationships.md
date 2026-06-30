@@ -22,7 +22,7 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 ## About this task
 
-When you [[create-data-relationships-action-tasks|create data relationships]], for example, for an audit engagement, you can specify how the issues, remediation tasks, test plans, and so on, are related to the record in the template relationship registry and you create a path to navigate to these respective records. You can create as many relationships as you require.
+When you create data relationships, for example, for an audit engagement, you can specify how the issues, remediation tasks, test plans, and so on, are related to the record in the template relationship registry and you create a path to navigate to these respective records. You can create as many relationships as you require.
 
 ## Procedure
 
@@ -104,9 +104,5 @@ Table from which the data is obtained. This field is automatically populated.
 
 ## What to do next
 
-[[create-content-configurations-action-tasks|Create content configurations]] to specify the type of data you want to fetch on the report. For more information, see [Create content configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-content-configurations.md).
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Create content configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-content-configurations.md).
 
-## Related
-
-- [[create-data-relationships-action-tasks|Create Data relationships]]
-- [[create-content-configurations-action-tasks|Create Content configurations]]

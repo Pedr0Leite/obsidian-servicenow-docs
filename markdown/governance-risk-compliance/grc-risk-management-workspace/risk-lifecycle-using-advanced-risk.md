@@ -14,9 +14,9 @@ breadcrumb: [Manage risks, risk statements, and risk frameworks, Explore, Risk M
 
 # Workflow of a risk using Advanced Risk
 
-When you migrate to [[advanced-risk-assessment|advanced risk assessment]], you can view the various states of the risks take the necessary actions. This ability simplifies your view of the risk form.
+When you migrate to advanced risk assessment, you can view the various states of the risks take the necessary actions. This ability simplifies your view of the risk form.
 
-When your risk administrator enables the **Migrate to Advanced [[risk-assessments|Risk Assessments]]** property located under **Advanced Risk Assessment** &gt; **[[Administration|Administration]]** &gt; **Properties**, the life cycle of the classic or legacy risks undergo a change. You can also initiate a risk assessment directly from the risk form.
+When your risk administrator enables the **Migrate to Advanced Risk Assessments** property located under **Advanced Risk Assessment** &gt; **Administration** &gt; **Properties**, the life cycle of the classic or legacy risks undergo a change. You can also initiate a risk assessment directly from the risk form.
 
 **Note:** Once you enable this property, you cannot disable it.
 
@@ -50,14 +50,14 @@ Draft
 
 </td><td>
 
-This is the state of a risk when a risk is created by the second line of defense or identified by the first line of defense.The objective in this state is to map and identify the risk pertaining to your organization. If you modify the entity or the primary [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] for a risk, the state of the risk gets updated based on the primary RAM's latest assessment.
+This is the state of a risk when a risk is created by the second line of defense or identified by the first line of defense.The objective in this state is to map and identify the risk pertaining to your organization. If you modify the entity or the primary risk assessment methodology \(RAM\) for a risk, the state of the risk gets updated based on the primary RAM's latest assessment.
 
 </td><td>
 
 -   **Save**
 -   **Assess**: Pushes the workflow and initiates the risk assessment.
 -   **Monitor**: If you do not want to assess the risk but want to monitor the risk.
--   **Retire**: The risk is retired along with all underlying risk assessment and [[risk-response|risk response]].
+-   **Retire**: The risk is retired along with all underlying risk assessment and risk response.
 -   **Navigate to assessment scope**: Shortcut to risk assessment scope. The primary risk assessment methodology is passed.
 -   **360 degree**: View the complete 360-degree relationships for the risk.
 
@@ -73,7 +73,7 @@ This is the state of a risk when advanced risk assessment is initiated and being
 
 -   **Save**
 -   **View assessment**: Navigates to the actual risk assessment form.
--   **[[cancel-assessment|Cancel assessment]]**: If you want to cancel the current assessment. The respective risk assessor is notified about the canceled assessment.
+-   **Cancel assessment**: If you want to cancel the current assessment. The respective risk assessor is notified about the canceled assessment.
 -   **Return to draft**: Cancels the current assessments and returns the risk to the previous state.
 -   **Retire**
 -   **Navigate to assessment scope**
@@ -137,11 +137,3 @@ This is the state of the risk when the risk is no longer valid but the organizat
 
 [Risk hierarchy and scoring]()
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-assessments|risk assessments]]
-- [[Administration|Administration]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-response|risk response]]
-- [[cancel-assessment|Cancel assessment]]

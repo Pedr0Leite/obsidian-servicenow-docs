@@ -16,7 +16,7 @@ breadcrumb: [Reference, Change Management, IT Service Management]
 
 Maintenance schedules define the periods during which a Configuration Item or change can be implemented.
 
-These schedules are incorporated into the [[c_ConflictDetection|conflict detection]] process for change requests. If a change request doesn't adhere to the relevant maintenance schedule, a conflict record is generated for the change request.
+These schedules are incorporated into the conflict detection process for change requests. If a change request doesn't adhere to the relevant maintenance schedule, a conflict record is generated for the change request.
 
 There are two ways to define Maintenance schedules for Conflict Detection:
 
@@ -50,6 +50,3 @@ Unlike the maintenance schedule record, the schedule record lacks a condition or
 
 **Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]

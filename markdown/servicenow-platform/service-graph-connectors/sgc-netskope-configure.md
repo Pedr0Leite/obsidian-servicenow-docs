@@ -14,7 +14,7 @@ breadcrumb: [Netskope, Service Graph Connectors, Integrating third-party data in
 
 # Configure the Service Graph Connector for Netskope
 
-The guided setup for the [[sgc-netskope-integration|Service Graph Connector for Netskope]] provides an organized sequence of tasks to configure the integration on your ServiceNow AI Platform instance.
+The guided setup for the Service Graph Connector for Netskope provides an organized sequence of tasks to configure the integration on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 **Dependencies and requirements:**
 
--   The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app, which is automatically installed.
+-   The Integration Commons for CMDB store app, which is automatically installed.
 -   The CMDB CI Class Models store app store app, which is automatically installed.
 -   Discovery Core plugin \(com.snc.discovery.core\), which is automatically installed by Discovery.
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
@@ -38,7 +38,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Netskope** &gt; **Setup**.
+1.  Navigate to **Service Graph Connectors** &gt; **Netskope** &gt; **Setup**.
 
 2.  On the Home page, select **Continue**.
 
@@ -95,8 +95,4 @@ Roles required:
 
 10. In the Help task bar, select **Mark as Complete** and select **Continue**.
 
-## Related
 
-- [[sgc-netskope-integration|Service Graph Connector for Netskope]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

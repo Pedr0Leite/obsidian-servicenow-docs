@@ -14,7 +14,7 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 # Employee Slate overview
 
-[[employee-slate-landing-page|Employee Slate]] is an employee engagement layer that combines intelligent assistance, employee communication, organizational navigation, task management, and other employee services to boost productivity.
+Employee Slate is an employee engagement layer that combines intelligent assistance, employee communication, organizational navigation, task management, and other employee services to boost productivity.
 
 The home page provides a workspace with widgets and shortcuts relevant to your daily work. The layout adapts based on your role, department, and usage patterns to display the most important information and services. Your widget content is dynamically updated to reflect current priorities, pending tasks, and relevant announcements. The home page provides a starting point for accessing all the capabilities and services.
 
@@ -28,7 +28,7 @@ Employee Slate provides comprehensive support for employees daily work routines:
 
 |Feature|What you can do|Benefit|
 |-------|---------------|-------|
-|Conversation-first|Ask questions, get answers, and take actions using natural language|Interact naturally without [[exploring-learning-exp|learning]] complex interfaces|
+|Conversation-first|Ask questions, get answers, and take actions using natural language|Interact naturally without learning complex interfaces|
 |Search|Find information, people, and resources across the organization|Quickly locate what you need from a single interface|
 |Personalized canvas|Personalize your canvas workspace with useful widgets and work information|Create a customized workspace that fits your workflow|
 |Tasks and approvals|Submit and track requests, tasks, and approvals|Manage all work items from one central location|
@@ -45,7 +45,3 @@ Review the AI-first experience and capabilities from [Conversation-first experie
 -   For roles and persona journey, see [Key user roles and personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-role-based-productivity.md).
 -   See the sample prompts that you can use across Employee Slate, see [Employee Slate prompt library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-slate-prompt-library.md).
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[exploring-learning-exp|Learning]]

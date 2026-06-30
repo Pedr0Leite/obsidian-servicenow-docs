@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure Workday security settings
 
-Create an unconstrained integration system security group in Workday. The [[workday-external-content-connector|Workday external content connector]] uses this security group when accessing your Workday content.
+Create an unconstrained integration system security group in Workday. The Workday external content connector uses this security group when accessing your Workday content.
 
 ## Before you begin
 
@@ -128,6 +128,3 @@ The Workday external content connector runs as an integration in Workday. To ena
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]

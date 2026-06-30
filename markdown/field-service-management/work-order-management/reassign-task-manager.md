@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]] and tap **Teams**.
+1.  Open Field Service Manager Mobile and tap **Teams**.
 
 2.  Tap the assignment group or territory that the agent you want to reassign a task to is part of.
 
@@ -34,11 +34,8 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 6.  Tap the agent that you want to reassign the task to.
 
-    **Note:** **Available** shows beneath agents who have availability to complete this task. Agent availability is determined by [[dynamic-scheduling|Dynamic Scheduling]].
+    **Note:** **Available** shows beneath agents who have availability to complete this task. Agent availability is determined by Dynamic Scheduling.
 
 7.  Tap **Submit**.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]
-- [[dynamic-scheduling|Dynamic scheduling]]

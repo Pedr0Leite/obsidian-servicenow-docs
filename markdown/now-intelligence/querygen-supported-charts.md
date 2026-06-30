@@ -12,7 +12,7 @@ breadcrumb: [Reference, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Supported chart types
 
-[[query-generation|Query Generation]] and the applications that use it to generate data visualizations support these visualization types.
+Query Generation and the applications that use it to generate data visualizations support these visualization types.
 
 -   Scores: single score, dial, gauge
 -   Bar: horizontal and vertical bars
@@ -20,9 +20,5 @@ breadcrumb: [Reference, Query Generation, Now Assist in Platform Analytics, Plat
 -   Time series: area, line, column, scatter, spline, step
 -   List
 
-**Parent Topic:**[[query-generation-reference|Query Generation reference]]
+**Parent Topic:**[Query Generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 
-## Related
-
-- [[query-generation-reference|Query Generation reference]]
-- [[query-generation|Query Generation]]

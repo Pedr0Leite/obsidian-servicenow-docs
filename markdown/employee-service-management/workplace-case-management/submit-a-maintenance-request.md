@@ -14,7 +14,7 @@ breadcrumb: [Requesting a workplace service, Workplace Case Management, Workplac
 
 # Submit a maintenance request
 
-Raise a maintenance request for an equipment for a location using either the [[workplace-services-portal-hr|Workplace Service Portal]] or the [[employee-center-landing-page|Employee Center]].
+Raise a maintenance request for an equipment for a location using either the Workplace Service Portal or the Employee Center.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Navigation
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace service portal**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
 The portal homepage opens.
 
@@ -46,7 +46,7 @@ The portal homepage opens.
 
     1.  Select **Catalog**.
     2.  Select **Browse by Categories**.
-    3.  In the [[workplace-services|Workplace Services]] Catalog, select **General**.
+    3.  In the Workplace Services Catalog, select **General**.
 **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog** &gt; **General**.
 
 3.  Select **Submit a maintenance request**.
@@ -159,7 +159,7 @@ Select the option if you want to add any attachments.
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a catering request]()
 
@@ -179,10 +179,3 @@ Select the option if you want to add any attachments.
 
 [Submit a change event request for a reservation]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[space-assistance|Space assistance]]

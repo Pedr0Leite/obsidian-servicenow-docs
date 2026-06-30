@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.write
 
 ## About this task
 
-Existing enrichment data maps are used by workflows provided within [[security-operations-landing-page|Security Operations]]. You can view the list under **Enrichment [[cc-prisma-import-data|Data Mapping]]**. To use a map, you need a trigger, either a business rule or workflow.
+Existing enrichment data maps are used by workflows provided within Security Operations. You can view the list under **Enrichment Data Mapping**. To use a map, you need a trigger, either a business rule or workflow.
 
 ## Procedure
 
@@ -65,7 +65,7 @@ Prefix key
 
 Use to limit the input data set to a specified key. The root of the input data set is set to this key. In this example, if you entered file\_info, then the input values would be limited to those values within file\_info. ```
 <?xml version="1.0" encoding="UTF-8"?>
-<[[threat-intelligence-malware|malware]]>
+<malware>
     <version>2.0</version>
     <file_info>
         <malware>yes</malware>
@@ -185,7 +185,7 @@ Order
 
 </td><td>
 
-In what order to consider the [[mapping-logrhythm|mapping]]. The first match is used. Default is 100.
+In what order to consider the mapping. The first match is used. Default is 100.
 
 </td></tr><tr><td>
 
@@ -207,12 +207,5 @@ The table to which the fields to map are going.
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[[enrichment-data-mapping|Security Operations enrichment data mapping]]
+**Parent Topic:**[Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md)
 
-## Related
-
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[security-operations-landing-page|Security Operations]]
-- [[cc-prisma-import-data|Data mapping]]
-- [[threat-intelligence-malware|Malware]]
-- [[mapping-logrhythm|Mapping]]

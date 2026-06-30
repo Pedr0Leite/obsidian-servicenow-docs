@@ -20,9 +20,9 @@ When you are creating an issue, you have the option of grouping the issue with o
 
 Role required: \(per product\)
 
--   In [[r_PolicyComplianceMgmt|Policy and Compliance Management]]: compliance\_admin, compliance\_manager, or sn\_compliance.user
+-   In Policy and Compliance Management: compliance\_admin, compliance\_manager, or sn\_compliance.user
 -   In Risk Management: risk\_admin, risk\_manager, or sn\_risk.user
--   In [[c_GRCAudits|Audit Management]]: audit\_admin, audit\_manager, audit\_admin, or sn\_audit.user
+-   In Audit Management: audit\_admin, audit\_manager, audit\_admin, or sn\_audit.user
 
 ## About this task
 
@@ -103,7 +103,3 @@ This field displays only if you selected **Create a new group**. Select the user
 
 **Parent Topic:**[Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

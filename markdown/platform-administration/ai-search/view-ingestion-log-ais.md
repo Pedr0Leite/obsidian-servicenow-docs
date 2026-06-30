@@ -14,7 +14,7 @@ breadcrumb: [AI Search logging and debugging, Administer, AI Search, Search admi
 
 # View AI Search ingestion log messages
 
-Review [[ia-ai-search|AI Search]] ingestion and indexing events by viewing log messages.
+Review AI Search ingestion and indexing events by viewing log messages.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ Role required: admin
 
 **Parent Topic:**[AI Search logging and debugging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/logging-debugging-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

@@ -14,7 +14,7 @@ breadcrumb: [Test plans, Setting up the manual testing process, Test Management 
 
 # Add a new test case to a test plan
 
-Add new [[c_TestCases|test cases]] to your [[c_TestPlans|test plans]] so that you can assign them to testers and start test execution.
+Add new test cases to your test plans so that you can assign them to testers and start test execution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## About this task
 
-You can add test cases that are not already a part of existing [[c_TestSuites|test suites]]. [[t_CreateANewTestCase|Create a test case]] directly from the Test Plan form through the Test Cases related list.
+You can add test cases that are not already a part of existing test suites. Create a test case directly from the Test Plan form through the Test Cases related list.
 
 ## Procedure
 
@@ -45,9 +45,3 @@ The new test case is added to the **Test Cases** related list.
 
 **Parent Topic:**[Test plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestPlans.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestSuites|Test suites]]
-- [[t_CreateANewTestCase|Create a test case]]

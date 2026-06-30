@@ -16,7 +16,7 @@ breadcrumb: [Using Discovery, Discovery, ITOM Visibility, IT Operations Manageme
 
 Discovery probes and sensors perform data collection and update the Configuration Management Database \(CMDB\).
 
-With each release, patterns are replacing many probes and sensors for [[r-discovery|Discovery]]. Consider creating new patterns or editing existing ones if you want to customize what Discovery can find. The information on probes and sensors is intended for customers who are not using patterns yet and for customers who already have customized probes that are retained upon upgrade. See [Patterns and horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for more information on patterns.
+With each release, patterns are replacing many probes and sensors for Discovery. Consider creating new patterns or editing existing ones if you want to customize what Discovery can find. The information on probes and sensors is intended for customers who are not using patterns yet and for customers who already have customized probes that are retained upon upgrade. See [Patterns and horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for more information on patterns.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -130,6 +130,3 @@ This custom Discovery probe helps you if you need to read a text file from a Win
 
 **Parent Topic:**[Using Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/using-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -30,7 +30,7 @@ You can customize which fields appear in the panel to match your organization's 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRProfileRecords|HR Profile]]** &gt; **HR Profiles**.
+1.  Navigate to **All** &gt; **HR Profile** &gt; **HR Profiles**.
 
 2.  Open any HR profile record to access the form configuration.
 
@@ -46,7 +46,7 @@ You can customize which fields appear in the panel to match your organization's 
 
 5.  Configure the Employee Details section by selecting or clearing the check boxes for fields you want to include or exclude.
 
-    Common Employee Details fields include name, employee ID, department, manager, and job title. Select only the fields that agents need for quick [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+    Common Employee Details fields include name, employee ID, department, manager, and job title. Select only the fields that agents need for quick reference.
 
 6.  Configure the Contacts section by selecting or clearing the check boxes for contact fields you want to include or exclude.
 
@@ -61,7 +61,3 @@ You can customize which fields appear in the panel to match your organization's 
 
 The customized At a Glance panel now displays your selected fields when agents view employee profiles. Fields without data for a specific employee do not appear in that employee's panel, keeping the display clean and relevant.
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

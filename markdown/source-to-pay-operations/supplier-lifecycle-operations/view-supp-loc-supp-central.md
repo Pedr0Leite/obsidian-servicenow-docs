@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # View supplier locations from the Supplier Collaboration Portal
 
-As a [[supplier-contact|supplier contact]], view the locations of a [[supplier|supplier]] in the [[supplier-central|Supplier Collaboration Portal]].
+As a supplier contact, view the locations of a supplier in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -69,15 +69,9 @@ The Locations section displays the details about your locations. You can do one 
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[universal-request|Universal Request]]

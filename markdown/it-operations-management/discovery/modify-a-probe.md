@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]]** &gt; **Discovery Definition** &gt; **Probes**.
+1.  Navigate to **All** &gt; **Discovery** &gt; **Discovery Definition** &gt; **Probes**.
 
 2.  Click the name of the probe that you want to modify.
 
@@ -62,7 +62,7 @@ Enter a descriptive term for the function of the probe. The probe uses this labe
 
 -   CimProbe
 -   Multiprobe
--   [[c_PowershellProbe|Powershell probe]]
+-   Powershell probe
 -   SCPRelay
 -   SSHCommand
 -   SNMP
@@ -139,7 +139,3 @@ Add the probe to the **Triggers Probe** related list on the appropriate classifi
 
 **Parent Topic:**[Discovery probe management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_Probes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_PowershellProbe|PowerShell probe]]

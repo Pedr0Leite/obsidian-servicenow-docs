@@ -12,7 +12,7 @@ breadcrumb: [Record screen, Mobile screen types, Mobile screens, Mobile app comp
 
 # Configure a related list screen for a record screen
 
-Create a related [[list-screen|list screen]] to give your users easy access to records related to the record they're already viewing.
+Create a related list screen to give your users easy access to records related to the record they're already viewing.
 
 A related list appears in a tab on your mobile form, and displays a list of records relating to the record on the form. For example. If you are viewing a problem record, you may want your related list to display all incident records associated with that problem record.
 
@@ -20,22 +20,16 @@ A related list appears in a tab on your mobile form, and displays a list of reco
 
 Creating a related list involves three tasks:
 
--   **1. [[sg-create-related-list|Create a parametrized data item for your related list]]**
+-   **1. [Create a parametrized data item for your related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list.md)**
 
     Create a parametrized data item to contain the records that display in your related list.
 
--   **2. [[sg-create-related-list-2|Create a list screen to use as a related list]]**
+-   **2. [Create a list screen to use as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list-2.md)**
 
     Create a related list using your parametrized data item. This list appears for your users when they select the related list tab on their form screen.
 
--   **3. [[sg-create-related-list-3|Update your record screen to display a related list]]**
+-   **3. [Update your record screen to display a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list-3.md)**
 
-    Update your [[form-screen|record screen]] to display a list of related records, and define the relationship between your record screen and the related list.
+    Update your record screen to display a list of related records, and define the relationship between your record screen and the related list.
 
-## Related
 
-- [[sg-create-related-list|Create a parametrized data item for your related list]]
-- [[sg-create-related-list-2|Create a list screen to use as a related list]]
-- [[sg-create-related-list-3|Update your record screen to display a related list]]
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]

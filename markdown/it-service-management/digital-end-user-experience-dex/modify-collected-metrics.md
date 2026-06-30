@@ -22,13 +22,13 @@ Role required: sn\_dex\_admin
 
 ## About this task
 
-Metric collection on any device is managed using agent policies. Agent policies are downloaded on the [[dex-workspace-devices-tab|devices]] when the list of metrics is downloaded. The metrics are collected based on the CI filter criteria of the policy, and you can modify which metrics are collected. For example, in one of the policies available with the base system.
+Metric collection on any device is managed using agent policies. Agent policies are downloaded on the devices when the list of metrics is downloaded. The metrics are collected based on the CI filter criteria of the policy, and you can modify which metrics are collected. For example, in one of the policies available with the base system.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  In the Device and application configuration section, select **Manage policies** on the Agent policies card.
 
@@ -74,7 +74,4 @@ Metric collection on any device is managed using agent policies. Agent policies 
 
     The **Publish status** value changes to Queued. When the publishing job runs, the value changes to Published, and the policy becomes active on the agent.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

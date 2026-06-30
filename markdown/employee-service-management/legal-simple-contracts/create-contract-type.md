@@ -14,7 +14,7 @@ breadcrumb: [Configure Legal Simple Contracts, Configure, Legal Simple Contracts
 
 # Create a contract type
 
-[[cncore-create-contract-type|Create a contract type]] for defining different types of legal contract requests.
+Create a contract type for defining different types of legal contract requests.
 
 ## Before you begin
 
@@ -32,14 +32,10 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 4.  Select the **Active** check box to enable this contract type.
 
-    Only active contract types are available for use in [[document-templates-overview|document templates]], contract repository, and third-party or NDA contract-related legal requests.
+    Only active contract types are available for use in document templates, contract repository, and third-party or NDA contract-related legal requests.
 
 5.  Save the contract type.
 
     -   Save a contract type by clicking **Submit**.
     -   Save the changes to an existing contract type by clicking **Update**.
 
-## Related
-
-- [[cncore-create-contract-type|Create a contract type]]
-- [[document-templates-overview|Document Templates]]

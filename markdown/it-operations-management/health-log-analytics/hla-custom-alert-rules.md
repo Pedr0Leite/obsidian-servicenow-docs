@@ -15,7 +15,7 @@ breadcrumb: [Use custom alert rules, Controlling alert generation, prioritizatio
 
 # Alert rules in Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] \(HLA\) detects anomalies automatically by learning from your log data. However, some log types require a custom alert rule to generate alerts reliably.
+Health Log Analytics \(HLA\) detects anomalies automatically by learning from your log data. However, some log types require a custom alert rule to generate alerts reliably.
 
 You can use custom alert rules to specify the metric, threshold, and alert properties for generating alerts that HLA might not detect automatically.
 
@@ -79,6 +79,3 @@ For information about setting and changing HLA system properties, see [Configure
 
 [Delete a custom Log Analytics alert rule in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-defined-alert-delete-sow.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # Use the Now Assist panel in HR Agent Workspace
 
-Generate chat and case summaries and resolution notes by using the Now Assist panel in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] or Core UI.
+Generate chat and case summaries and resolution notes by using the Now Assist panel in Agent Workspace for HR Case Management or Core UI.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required:
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -69,7 +69,3 @@ Role required:
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

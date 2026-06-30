@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The **Generate Workplace Insights - Weekly** scheduled job runs and creates insights based on user criteria. The **Send Insight Notifications - Weekly** schedule job runs weekly and triggers an email notification to the relevant users. The email includes a summary of the latest insights and a link to the [[workplace-central-feat|Workplace Central]] dashboard to access the latest insights.
+The **Generate Workplace Insights - Weekly** scheduled job runs and creates insights based on user criteria. The **Send Insight Notifications - Weekly** schedule job runs weekly and triggers an email notification to the relevant users. The email includes a summary of the latest insights and a link to the Workplace Central dashboard to access the latest insights.
 
 **Note:** Changing the **run time** or **day** fields for this scheduled job may impact the notifications sent. Make sure that any updates are consistent with the **Generate Workplace Insights – Weekly** job to ensure uniformity.
 
@@ -37,6 +37,3 @@ The **Generate Workplace Insights - Weekly** scheduled job runs and creates insi
 
 **Parent Topic:**[Insight cards on the Workplace Central dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/insight-cards-on-the-workplace-central-dashboard.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

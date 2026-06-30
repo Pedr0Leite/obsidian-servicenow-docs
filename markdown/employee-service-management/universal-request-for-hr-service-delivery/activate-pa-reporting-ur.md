@@ -14,7 +14,7 @@ breadcrumb: [Universal Request plugins, Setting up and configuring Universal Req
 
 # Activate Performance Analytics and Reporting for Universal Request
 
-You can activate the Performance [[eslate-analytics-reporting|Analytics and Reporting]] for [[ur-landing-limitedaccess|Universal Request]] plugin \(com.snc.universal\_request.pa\) for Universal Request if you have the admin role.
+You can activate the Performance Analytics and Reporting for Universal Request plugin \(com.snc.universal\_request.pa\) for Universal Request if you have the admin role.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Role required: admin.
 
 **Parent Topic:**[Universal Request plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-plugins.md)
 
-## Related
-
-- [[eslate-analytics-reporting|Analytics and reporting]]
-- [[ur-landing-limitedaccess|Universal Request]]

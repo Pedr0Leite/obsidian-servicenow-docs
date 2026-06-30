@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Control Tower, Enable AI experiences]
 
 # Product Owner portal
 
-Explore the product owner view and navigate through the accessible tabs in the [[ai-control-tower-landing|AI Control Tower]].
+Explore the product owner view and navigate through the accessible tabs in the AI Control Tower.
 
 ## Product owner view
 
@@ -27,6 +27,3 @@ For information about My portfolio tab, see [AI portfolio tab in AI Control Towe
 
 For information about Value tab, see [Value tab in AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/aict-value-tab.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

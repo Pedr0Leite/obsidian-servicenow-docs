@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server upgrades
 
-Upgrade MID Servers manually, or automatically through the instance. [[mid-server-landing|MID Server]] automatic upgrade is triggered when the instance upgrades and the MID Server no longer has the same version. The new MID Server package is downloaded from install.service-now.com, replaces the old one, and the MID Server starts with the new version.
+Upgrade MID Servers manually, or automatically through the instance. MID Server automatic upgrade is triggered when the instance upgrades and the MID Server no longer has the same version. The new MID Server package is downloaded from install.service-now.com, replaces the old one, and the MID Server starts with the new version.
 
 **Warning:** The MID Server can't auto-upgrade on a Windows host if the Windows Application Experience service is turned off. For information on the error that is displayed and instructions for re-enabling this service, see [KB0597552](https://support.servicenow.com/kb_view.do?sysparm_article=KB0597552#appex).
 
@@ -158,7 +158,7 @@ For example, the default timeout may not be long enough for certain JVM level co
 
 ## MID Server upgrade history
 
-Use the [[mid-server-upgrade-history|MID Server Upgrade History]] module for troubleshooting problems with MID Server upgrades. The module contains a record of each instance upgrade. Those records provide step-by-step status details for each MID Server's upgrade process. If an error occurs, it is noted in the step and a message is dynamically generated with further details. The table cleanup job automatically deletes issues that haven't been detected for 30 days, regardless of their state. For further information, see [MID Server Upgrade History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-upgrade-history.md).
+Use the MID Server Upgrade History module for troubleshooting problems with MID Server upgrades. The module contains a record of each instance upgrade. Those records provide step-by-step status details for each MID Server's upgrade process. If an error occurs, it is noted in the step and a message is dynamically generated with further details. The table cleanup job automatically deletes issues that haven't been detected for 30 days, regardless of their state. For further information, see [MID Server Upgrade History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-upgrade-history.md).
 
 ## JRE TrustStore certificate migration during JRE updates
 
@@ -212,7 +212,3 @@ MID Servers automatically upgrade to match the instance build the next time they
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[mid-server-upgrade-history|MID Server Upgrade History]]

@@ -15,7 +15,7 @@ breadcrumb: [Contract amendments, Use, Contract Management Pro for Legal Service
 
 # Submit amendment request
 
-Submit an amendment request from the [[employee-center-landing-page|Employee Center]].
+Submit an amendment request from the Employee Center.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 A sample workflow while submitting on an amendment request would be:
 
-1.  [[cncore-initiate-amedment|Initiate an amendment request]].
+1.  Initiate an amendment request.
 2.  Select a contract for amendment or enters contract details manually.
 
     **Note:** When a contract is selected while submitting a request, it’s automatically linked as the parent contract for the amendment request.
@@ -98,7 +98,7 @@ Steps
 
     1.  In the **Effective date** field, select a date within the existing contract’s start and end dates to indicate when the amendment takes effect.
 
-    2.  In the **Requested for**, select the user for whom you want to [[submit-legal-request|submit a legal request]].
+    2.  In the **Requested for**, select the user for whom you want to submit a legal request.
 
     3.  In the **Description** field, enter the details of the changes required to the existing contract document and any other details.
 
@@ -169,8 +169,3 @@ For more information on how to view and track a legal request, see [View and tra
 
 **Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-amend-req-landing.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[cncore-initiate-amedment|Initiate an amendment request]]
-- [[submit-legal-request|Submit a legal request]]

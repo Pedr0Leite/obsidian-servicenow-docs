@@ -18,13 +18,13 @@ Create an ethics legal matter from a universal request to get the Legal departme
 
 ## Before you begin
 
-Ensure you have the [[ur-landing-limitedaccess|Universal Request]] application installed and [related configuration for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md) completed by the administrator.
+Ensure you have the Universal Request application installed and [related configuration for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md) completed by the administrator.
 
 Role required: sn\_lg\_investigate.fulfiller and sn\_uni\_req.sensitiveinfo\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
     Alternatively, you can also open a universal request by navigating to **All** &gt; **Universal Request** &gt; **Open**.
 
@@ -69,7 +69,3 @@ Role required: sn\_lg\_investigate.fulfiller and sn\_uni\_req.sensitiveinfo\_age
 
 **Parent Topic:**[Triaging universal requests for legal investigation complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/manage-legal-investigations-uni-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

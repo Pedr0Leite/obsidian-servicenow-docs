@@ -20,7 +20,7 @@ Use encryption modules to set field-level security in article templates and disp
 
 Role required: security\_admin
 
-**Note:** Use [[knowledge-blocks|Knowledge blocks]] to restrict the content within the same field. For more information, see [Knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-blocks.md).
+**Note:** Use Knowledge blocks to restrict the content within the same field. For more information, see [Knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-blocks.md).
 
 ## Procedure
 
@@ -111,6 +111,3 @@ Depending on their role permissions defined for the encrypted field, users can v
 
 [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

@@ -14,12 +14,12 @@ breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
 
 # Domain separation in GRC
 
-This is an overview of domain separation and the [[r_WhatIsGRC|Governance, Risk, and Compliance]] applications. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and the Governance, Risk, and Compliance applications. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 Domain separation is best for those customers who:
 
 -   Need to enforce absolute data segregation between business entities \(data separation\).
--   Customize business process definitions and user interfaces for each domain \(delegated [[Administration|administration]]\).
+-   Customize business process definitions and user interfaces for each domain \(delegated administration\).
 -   Maintain some global processes and global reporting in a single instance.
 
 These users can choose to expand or collapse the domain scope to show or hide data from other domains.
@@ -96,7 +96,7 @@ Records that are automatically generated, the domain of the record is determined
 **Note:** When the domain source is global or nil, then that object's domain will be set to Default.
 
 -   **[Create a domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-a-domain.md)**  
-You can [[create-a-domain|create a domain]] by creating a record in the \[domain\] table.
+You can create a domain by creating a record in the \[domain\] table.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
@@ -105,8 +105,3 @@ You can [[create-a-domain|create a domain]] by creating a record in the \[domain
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[Administration|Administration]]
-- [[create-a-domain|Create a domain]]

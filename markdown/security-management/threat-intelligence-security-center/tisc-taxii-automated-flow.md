@@ -14,7 +14,7 @@ breadcrumb: [Working with automated flows, Administer, Threat Intelligence Secur
 
 # Automatically add threat intelligence to a TAXII collection
 
-Learn how to automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII server collection.
+Learn how to automatically add threat intelligence to a TAXII server collection.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -69,12 +69,7 @@ Role required:
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-actor|Threat Actor]]

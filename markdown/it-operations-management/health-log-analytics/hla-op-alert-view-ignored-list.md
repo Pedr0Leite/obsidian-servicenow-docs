@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Log Anomaly Detection** &gt; **Muted Metrics**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Log Anomaly Detection** &gt; **Muted Metrics**.
 
     |Field|Description|
     |-----|-----------|
@@ -42,6 +42,3 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 [Restore normal importance to an alert metric in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-restore-user-defined-sow.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

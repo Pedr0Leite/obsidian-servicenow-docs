@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Visitor Management, Workplace Service Delivery, E
 
 # Apply visitor management archive policy
 
-Apply the archival policy for [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]. The archival policy will archive old visitor records and [[register-visitors|visitor registration]] records that are more than one year old.
+Apply the archival policy for Workplace Visitor Management. The archival policy will archive old visitor records and visitor registration records that are more than one year old.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 2.  In the Archival Rules search box, filter by **WSD**.
 
-    WSD \([[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]\).
+    WSD \(Workplace Service Delivery\).
 
 3.  Select and click open the following visitor management archival rules in edit mode as required:
 
@@ -60,8 +60,3 @@ Role required: admin
 
 [Anonymize a visitor]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

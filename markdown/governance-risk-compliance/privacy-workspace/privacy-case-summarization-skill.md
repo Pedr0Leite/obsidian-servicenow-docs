@@ -30,7 +30,7 @@ Important user roles to activate and use this skill are:
 
 -   sn\_nowassist\_admin.nsa\_admin: Grants an admin access to activate or edit a Now Assist skill.
 -   sn\_privacy\_case.privacy\_case\_analyst: Grants access to privacy case records.
--   sn\_prm\_gen\_ai.user: Grants access to the [[now-assist-for-privacy-management|Now Assist for Privacy Management]] skills.
+-   sn\_prm\_gen\_ai.user: Grants access to the Now Assist for Privacy Management skills.
 
     **Note:** Users with the sn\_prm\_gen\_ai.user role automatically have the sn\_grc\_sharegenai.grc\_case\_ai\_user role, which is the minimum role required to use the GRC case summarization skill.
 
@@ -93,7 +93,7 @@ Data Impacted
 
 </td><td>
 
-Types of personal data exposed or compromised during the incident, captured from the **\[PI\] [[information-objects|Information Objects]]** tab.
+Types of personal data exposed or compromised during the incident, captured from the **\[PI\] Information Objects** tab.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,3 @@ AI-powered analysis of the case timeline and overall investigation effort.-   **
 
 [Summarize a privacy case using the GRC case summarization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/summarize-privacy-case.md)
 
-## Related
-
-- [[now-assist-for-privacy-management|Now Assist for Privacy Management]]
-- [[information-objects|information objects]]

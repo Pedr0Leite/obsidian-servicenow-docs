@@ -26,7 +26,7 @@ Employees can ask questions about insurance benefits and request to enroll in or
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRProfileRecords|HR Profile]]** &gt; **Life, AD&amp;D Insurance Benefits**.
+1.  Navigate to **All** &gt; **HR Profile** &gt; **Life, AD&amp;D Insurance Benefits**.
 
 2.  Click **New** to open an insurance benefit record.
 
@@ -112,7 +112,7 @@ List of family members of the employee covered under the health benefit.
 
 </td><td>
 
-[[t_WhosCovered|Who is covered]]
+Who is covered
 
 </td></tr><tr><td>
 
@@ -180,7 +180,3 @@ Employee Contribution \(per year\)
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[t_WhosCovered|Who is covered]]

@@ -14,16 +14,12 @@ breadcrumb: [Configure, Now Assist for Health and Safety, Health and Safety, Emp
 
 # Configure incident patterns
 
-Learn how to configure [[health-safety-overview|Health and Safety]] incident patterns.
+Learn how to configure Health and Safety incident patterns.
 
 -   **[Configure the generation of incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-generation-incident-pattern.md)**  
 Configure the scheduled jobs that generate the incident patterns from the safety incident records to run at a particular interval or time.
 -   **[Configure the inclusion of sensitive data in incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-sensitive-data-incident-pattern.md)**  
-Configure whether safety incident records with sensitive data should be included in the [[hs-incident-pattern-analysis|incident pattern analysis]].
+Configure whether safety incident records with sensitive data should be included in the incident pattern analysis.
 
 **Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-pattern-analysis|Incident pattern analysis]]

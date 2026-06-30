@@ -22,7 +22,7 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **Outbound** &gt; **REST Message** and perform the REST message [[sc-configuration|configuration]] based on the information from Vonage API Dashboard.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **Outbound** &gt; **REST Message** and perform the REST message configuration based on the information from Vonage API Dashboard.
 
     \[Omitted image "vonage-dashboard.png"\] Alt text: Vonage API Dashboard
 
@@ -67,6 +67,4 @@ Role required: adaptive\_auth\_admin
 
     To know more about provider configuration, see [Configure MFA Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-mfa-provider.md).
 
-## Related
 
-- [[sc-configuration|Configuration]]

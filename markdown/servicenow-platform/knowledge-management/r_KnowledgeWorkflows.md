@@ -22,7 +22,7 @@ You can use one of the default workflows, or create your own workflows to define
 
 For the workflows that require approval, you can configure which users can approve or reject by editing the getApprovers\(\) function in the KBWorkflow script include.
 
-Existing users of [[knowledge-management|Knowledge Management]] upgrading to Zurich will have access to both workflows and flows in the Knowledge Base form. However, they will be able to use either workflows or flows for a knowledge base, with Workflow being the default option.
+Existing users of Knowledge Management upgrading to Zurich will have access to both workflows and flows in the Knowledge Base form. However, they will be able to use either workflows or flows for a knowledge base, with Workflow being the default option.
 
 Cross selection between flow and workflow for publish and retire is not possible.
 
@@ -42,7 +42,7 @@ Knowledge - Approval Publish
 
 </td><td>
 
-Requests approval from a manager of the knowledge base. Articles in approval are In Review state before moving to Published state once approved or to Scheduled for publish if set to publish later. If the manager rejects the request, the workflow is canceled and the article remains in Draft state. If [[enable-ownership-group|ownership groups]] is enabled, [[email|email]] notifications with a link to the article are sent to the ownership group members for approval.
+Requests approval from a manager of the knowledge base. Articles in approval are In Review state before moving to Published state once approved or to Scheduled for publish if set to publish later. If the manager rejects the request, the workflow is canceled and the article remains in Draft state. If ownership groups is enabled, email notifications with a link to the article are sent to the ownership group members for approval.
 
  If ownership groups is not enabled, email notifications with a link to the article are sent to knowledge base managers for approval.
 
@@ -104,8 +104,8 @@ A subflow that moves the knowledge article to the retired state. You can use thi
 
 You can send email notifications for approval workflows.
 
--   [[notify-landing-page|Notify]] approvers about knowledge articles submitted for their approvals.
--   Notify authors about the [[c_ApprovalStatus|approval status]] of their knowledge articles.
+-   Notify approvers about knowledge articles submitted for their approvals.
+-   Notify authors about the approval status of their knowledge articles.
 
 To send email notifications for approval workflows, enable the **Send notification to approvers and authors in article approval workflow** property \(**glide.knowman.enable\_approval\_notification**\). Beginning with New York, the property is enabled by default. Existing customers on release versions prior to New York can enable this property to send email notifications. Disable any custom notifications for article approvals before enabling this property. If the **glide.knowman.enable\_approval\_notification** property is not available, an administrator can create the property and set its value to `true`. For more information, see [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
 
@@ -118,10 +118,3 @@ To send email notifications for approval workflows, enable the **Send notificati
 
 [Retire a versioned article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/retire-versioned-article.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[enable-ownership-group|Ownership groups]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]
-- [[c_ApprovalStatus|Approval status]]

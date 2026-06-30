@@ -41,14 +41,9 @@ Role required: admin
 
 All cases that match your retention criteria are now purged from the primary table to an archive table.
 
-**Parent Topic:**[[psds-config-gmp-foundation|Configure Grants Management]]
+**Parent Topic:**[Configure Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-foundation.md)
 
-**Previous topic:**[[psds-gmp-config-show-character-count|Toggle character count display for form fields in Grants Management]]
+**Previous topic:**[Toggle character count display for form fields in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-config-show-character-count.md)
 
-**Next topic:**[[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]
+**Next topic:**[Configure a currency in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-single-currency-setup.md)
 
-## Related
-
-- [[psds-config-gmp-foundation|Configure Grants Management]]
-- [[psds-gmp-config-show-character-count|Toggle character count display for form fields in Grants Management]]
-- [[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]

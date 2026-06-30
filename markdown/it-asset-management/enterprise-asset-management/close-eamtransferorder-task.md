@@ -22,15 +22,15 @@ Role required: admin
 
 ## About this task
 
-When you [[create-a-transfer-order|create a transfer order]] line, based on the model category specified in the asset, a transfer order line task is automatically created. Default template tasks are available with the [[enterprise-asset-management|Enterprise Asset Management]] application. The template tasks are based on [[model-hierarchy|model categories]]. Default template tasks cannot be deleted or modified.
+When you create a transfer order line, based on the model category specified in the asset, a transfer order line task is automatically created. Default template tasks are available with the Enterprise Asset Management application. The template tasks are based on model categories. Default template tasks cannot be deleted or modified.
 
-When you create a transfer order line and [[select-daas-asset|select an asset]], that asset corresponds to a model category. If a template task exists for that model category then that template task is added to the transfer order line as a transfer order line task.
+When you create a transfer order line and select an asset, that asset corresponds to a model category. If a template task exists for that model category then that template task is added to the transfer order line as a transfer order line task.
 
 Closing a transfer order line task completes the task and creates the next task in the process. For example, once you close the **Requested** task, the state for this task appears as Closed Complete and a new task is opened for the next stage, **Shipment Preparation**. This process continues till you close all the tasks required for completing the transfer order line. As you close a task and as a task moves from one stage to the next, the asset gets automatically updated too. For example, when the transfer order line moves from **Requested** to **Shipment Preparation**, the asset's status also moves from available to reserved.
 
 ## Procedure
 
-1.  Navigate to a transfer order line record in the [[using-eam-workspace|Enterprise Asset Workspace]].
+1.  Navigate to a transfer order line record in the Enterprise Asset Workspace.
 
 2.  Select the **Transfer Order Line Tasks** tab.
 
@@ -54,10 +54,3 @@ Closing a transfer order line task completes the task and creates the next task 
 
 **Parent Topic:**[Create a transfer order in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-transferorder.md)
 
-## Related
-
-- [[create-a-transfer-order|Create a transfer order]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[select-daas-asset|Select an asset]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

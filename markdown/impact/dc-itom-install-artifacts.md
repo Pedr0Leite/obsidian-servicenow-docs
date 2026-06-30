@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for ITOM, Enab
 
 # Review ITOM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow [[instance-observer-performance|Performance]] [[io-analytics|Analytics]] application and includes artifact types.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance Analytics application and includes artifact types.
 
 ## Performance/Platform analytics
 
@@ -32,7 +32,7 @@ The content pack comes with the following artifact types. For configuring the pr
 
 **Note:** The frequencies of all applicable indicators and indicator sources have been changed to monthly from quarterly. If this is not the first time using this content pack, you should run a baseline historical job \(data collection job\) to capture applicable historical data. The historical data will be visualized in a future enhancement of the dashboard.
 
-Also, this version of the ITOM Data Collection app relies on ITSM product licensing for the metrics highlighted below. Currently, the workaround involves manually updating these metrics in [[impact-landing-page|Impact]].
+Also, this version of the ITOM Data Collection app relies on ITSM product licensing for the metrics highlighted below. Currently, the workaround involves manually updating these metrics in Impact.
 
 The app contains the following artifacts for each of the above-specified artifact types.
 
@@ -73,8 +73,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Group Type|Tier 1|
 |Group Type|Tier 2+|
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

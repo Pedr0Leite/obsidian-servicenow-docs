@@ -13,7 +13,7 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 # Configuring remediation target rules
 
-By configuring remediation target rules, you can set the expected time frame for addressing findings, similar to how service level agreements \(SLAs\) set deadlines for fixing [[vulnerabilities|vulnerabilities]].
+By configuring remediation target rules, you can set the expected time frame for addressing findings, similar to how service level agreements \(SLAs\) set deadlines for fixing vulnerabilities.
 
 The base system ships with three remediation target rules that are applicable only for application vulnerable items:
 
@@ -23,12 +23,12 @@ The base system ships with three remediation target rules that are applicable on
 
 These rules are inactive by default. If you choose to edit one, rather than create a new one, remember to check the Active box before saving.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-defining-your-own-sla|Defining your own service level agreements \(SLAs\) using remediation target rules]]
+[Defining your own service level agreements \(SLAs\) using remediation target rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-defining-your-own-sla.md)
 
 ## Create or edit remediation target rules
 
@@ -36,11 +36,11 @@ Create remediation target rules to ensure the timely remediation of high-risk vu
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -320,11 +320,3 @@ Because the risk decreased, no comparison is performed. The system sets RT date 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-defining-your-own-sla|Defining your own service level agreements \(SLAs\) using remediation target rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

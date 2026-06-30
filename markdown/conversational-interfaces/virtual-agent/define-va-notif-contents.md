@@ -14,7 +14,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Define Virtual Agent notification contents
 
-Create the content for a [[virtual-agent-landing-page|Virtual Agent]] notification delivered in a chat or messaging channel.
+Create the content for a Virtual Agent notification delivered in a chat or messaging channel.
 
 ## Before you begin
 
@@ -210,6 +210,3 @@ Image alt text
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

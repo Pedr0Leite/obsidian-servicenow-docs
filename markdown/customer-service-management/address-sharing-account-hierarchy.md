@@ -12,7 +12,7 @@ breadcrumb: [Reusing addresses between multiple accounts, Enhanced address data 
 
 # Address sharing through account hierarchy
 
-You can reuse the same address between multiple accounts within the [[c_AccountHierarchy|account hierarchy]].
+You can reuse the same address between multiple accounts within the account hierarchy.
 
 ## Before you begin
 
@@ -47,12 +47,7 @@ Role required: One of the following roles:
 **Related topics**  
 
 
-[[reuse-account-addresses|Reusing addresses between multiple accounts]]
+[Reusing addresses between multiple accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/reuse-account-addresses.md)
 
-[[address-sharing-non-related-accounts|Share an address through non-related accounts]]
+[Share an address through non-related accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/address-sharing-non-related-accounts.md)
 
-## Related
-
-- [[reuse-account-addresses|Reusing addresses between multiple accounts]]
-- [[address-sharing-non-related-accounts|Share an address through non-related accounts]]
-- [[c_AccountHierarchy|Account hierarchy]]

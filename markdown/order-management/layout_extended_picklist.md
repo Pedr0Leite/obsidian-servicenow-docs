@@ -29,8 +29,5 @@ The setup above images would result in the following layout:
 **Related topics**  
 
 
-[[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]]
+[Displaying a picklist extension on a layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md)
 
-## Related
-
-- [[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]]

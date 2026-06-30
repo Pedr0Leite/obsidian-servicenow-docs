@@ -33,18 +33,14 @@ By default, the system property that is used to run automated tests is turned of
 |CMDB INT: Validate Lookups|Validate CMDB integration lookups.|Paris|
 |CMDB INT: Validate Mandatory Operations|Validate that all integrations for mandatory operations exist for mapped fields.|Paris|
 |CMDB INT: Validate Operations|Validate all operations for an integration.|Paris|
-|CMDB INT: Validate References|Validate CMDB integration [[reference-document-management|references]].|Paris|
+|CMDB INT: Validate References|Validate CMDB integration references.|Paris|
 |CMDB INT: Validate Related Entries|Validate all related classes against the data dictionary for related entries.|Paris|
 |CMDB INT: Validate Relationships|Validate CMDB integration relationships.|Paris|
 
-To learn more about [[integration-commons-for-cmdb|Integration Commons for CMDB]], see [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+To learn more about Integration Commons for CMDB, see [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 **Related topics**  
 
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[reference-document-management|References]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]

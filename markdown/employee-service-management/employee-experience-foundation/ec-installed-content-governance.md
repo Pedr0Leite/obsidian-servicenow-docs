@@ -28,7 +28,7 @@ Demo data is available for this feature.
 |-------------------|-----------|--------------|
 |Governance admin \[sn\_cg.governance\_admin\]| |sn\_cg.governance\_manager|
 |Governance manager \[sn\_cg.governance\_manager\]| |None|
-|Content request user \[sn\_cg.content\_request\_user\]|Gives read and write access to content request records. This role is automatically assigned to the Content [[ec-content-publishing-schedule|Publishing Content]] admin \(sn\_cd.content\_admin\) and Content manager \(sn\_cd.content\_manager\) roles.|None|
+|Content request user \[sn\_cg.content\_request\_user\]|Gives read and write access to content request records. This role is automatically assigned to the Content Publishing Content admin \(sn\_cd.content\_admin\) and Content manager \(sn\_cd.content\_manager\) roles.|None|
 |Content items request user \[sn\_cg.content\_request\_item\_user\]|Gives read and write access to content items records. This role is automatically assigned to the Content Publishing Content admin \(sn\_cd.content\_admin\) and Content manager \(sn\_cd.content\_manager\) roles.|None|
 
 ## Tables installed
@@ -47,7 +47,7 @@ Demo data is available for this feature.
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -83,7 +83,3 @@ Demo data is available for this feature.
 
 [To-do content form]()
 
-## Related
-
-- [[ec-content-publishing-schedule|Publishing content]]
-- [[employee-center-landing-page|Employee Center]]

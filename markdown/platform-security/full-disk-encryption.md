@@ -24,8 +24,5 @@ Commercial environments use full disk encryption \(FDE\) with FIPS 140 validated
 
 For further details on selecting FDE and dedicated hardware options, contact your ServiceNow representative.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

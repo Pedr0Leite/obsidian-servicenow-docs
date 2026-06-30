@@ -14,18 +14,13 @@ breadcrumb: [Working with Skill feedback in Talent Feedback, Working with Skill 
 
 # Request skill feedback
 
-[[using-talent-feedback|Using Talent Feedback]] you can request feedback for one or more skills from your employees.
+Using Talent Feedback you can request feedback for one or more skills from your employees.
 
 Role required: admin
 
-There's more than one way you can [[request-skill-feedback-widget|request skill feedback]] on [[talent-feedback-landing|Talent Feedback]]. You can choose from one of the following ways to request feedback, based on the existing information.
+There's more than one way you can request skill feedback on Talent Feedback. You can choose from one of the following ways to request feedback, based on the existing information.
 
 -   [Request skill feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/request-skill-feedback-widget.md) - When there are no existing feedback requests, use the **Request feedback** option on the Skill feedback requests sent widget.
 -   [Request feedback from skill distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/request-feedback-skill-distribution.md) Use the **Request feedback** option from skill distribution view.
 -   [Request skill feedback from skill expectations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/request-fdbk-skill-expectations.md)Use the **Request feedback** option from skill expectations view using skill pills.
 
-## Related
-
-- [[using-talent-feedback|Using Talent Feedback]]
-- [[request-skill-feedback-widget|Request skill feedback]]
-- [[talent-feedback-landing|Talent Feedback]]

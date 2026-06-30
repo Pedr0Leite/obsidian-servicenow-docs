@@ -24,9 +24,9 @@ Role required: mid\_server
 
 ## About this task
 
-If your organization does not deploy [[c_ServiceMappingOverview|Service Mapping]], this configuration is not necessary.
+If your organization does not deploy Service Mapping, this configuration is not necessary.
 
-Sometimes organizations choose to use operating systems in local languages. While having a localized operating system \(OS\) may be user-friendly, it poses a problem when it comes to automatically discovering Windows servers running the localized OS. During the [[r-discovery|discovery]] and mapping process Service Mapping sends discovery commands to Windows servers on your infrastructure via a MID Server. If a Windows server returns a message in a language other than English, Service Mapping does not recognize it as a valid response and the interaction fails.
+Sometimes organizations choose to use operating systems in local languages. While having a localized operating system \(OS\) may be user-friendly, it poses a problem when it comes to automatically discovering Windows servers running the localized OS. During the discovery and mapping process Service Mapping sends discovery commands to Windows servers on your infrastructure via a MID Server. If a Windows server returns a message in a language other than English, Service Mapping does not recognize it as a valid response and the interaction fails.
 
 If your organization uses non-English operating system for some of the Windows servers, you must perform this procedure to make sure that Service Mapping can access all Windows servers, not exclusively Windows servers using the English operating system. This configuration allows the MID Server, that is located between Service Mapping and Windows servers, to recognize a non-English response from a Windows server and to change the language of the CI operating system into English.
 
@@ -59,7 +59,3 @@ This configuration affects only the user for which you perform this procedure.
 
 [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

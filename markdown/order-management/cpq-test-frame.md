@@ -30,7 +30,7 @@ Typically, the value of `{sector}` is `test` for sandbox or `prod` for productio
 
 ## Using the test frame
 
-The testFrame HTML provides easy inputs to a variety of parameters that can be sent to [[understand-the-commerce-logic-engine|the CPQ configurator]].
+The testFrame HTML provides easy inputs to a variety of parameters that can be sent to the CPQ configurator.
 
 \[Omitted image "cpq-test-frame.png"\] Alt text: Test frame
 
@@ -45,7 +45,7 @@ The testFrame HTML provides easy inputs to a variety of parameters that can be s
     -   Active: Displays the Quote button on the configuration page
     -   Available: Displays the Save button on the configuration page
     -   None: No Save or Quote button is displayed. End user cannot save configuration
-9.  [[cpq-flightpath|Flightpath]]: Determines whether the execution of CPQ [[rules_101|Rules]] is logged
+9.  Flightpath: Determines whether the execution of CPQ Rules is logged
     -   Active: Displays Flightpath controls and automatically starts recording
     -   Available: Displays Flightpath controls and does not start recording
     -   None: No Flightpath controls are displayed
@@ -62,11 +62,5 @@ The testFrame HTML provides easy inputs to a variety of parameters that can be s
 -   Parameter inputs
 -   Configuration iframe
 
-For more information, see [[use_case_embed_logik_io_ui_in_an_html_page|Use case: Embed CPQ UI in an HTML page]].
+For more information, see [Use case: Embed CPQ UI in an HTML page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_an_html_page.md).
 
-## Related
-
-- [[use_case_embed_logik_io_ui_in_an_html_page|use_case_embed_logik_io_ui_in_an_html_page]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[cpq-flightpath|Flightpath]]
-- [[rules_101|Rules]]

@@ -44,7 +44,7 @@ Provision
 
 </td></tr><tr><td>
 
-Pointed [[r-discovery|discovery]]
+Pointed discovery
 
 </td><td>
 
@@ -65,6 +65,3 @@ Deprovision
 </td></tr></tbody>
 </table>**Parent Topic:**[Google Cloud Platform \(GCP\) Big Query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-big-query.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Enable Now Assist in AI Search for case intake
 
-Enable AI search so that users can start the case intake process from the search menu in [[care-team-portal-landing|Care Team Portal]].
+Enable AI search so that users can start the case intake process from the search menu in Care Team Portal.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 The case intake process can now be initiated from the search menu in Care Team Portal.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

@@ -18,11 +18,11 @@ When working with cache downloads keep these general guidelines in mind for usab
     -   Payload generation time limit: Define the time limit, between 0 to 20 minutes using the parameter `glide.sg.offline.job.maxRuntime`. The default is 10 minutes.
     -   Download time limit: Download time is not controlled by the application but is governed by standard OS and network HTTP timeouts at the device, browser, or infrastructure level.
 -   **Payload size limits**
-    -   Payload size is unlimited, except for a maximum total size limit on attachments, where a maximum total size can be configured by the admin. For more information, see, [[offline-attachment-behavior|Attachment behavior in offline mode]].
+    -   Payload size is unlimited, except for a maximum total size limit on attachments, where a maximum total size can be configured by the admin. For more information, see, [Attachment behavior in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-attachment-behavior.md).
     -   Where possible, keep the offline dataset as a subset of the online data to facilitate faster download times and improved device performance.
 -   **Download cache option in the Settings menu**
 
-    When users tap the **Download cache** option in the **Offline** area of the **Settings** menu, the device begins downloading the latest data defined for offline use. A banner indicates that the download is in progress, and the app remains usable throughout. Once complete, [[mobile-offline-mode|offline mode]] is not enabled automatically. Users must select the option in the **Offline** settings.
+    When users tap the **Download cache** option in the **Offline** area of the **Settings** menu, the device begins downloading the latest data defined for offline use. A banner indicates that the download is in progress, and the app remains usable throughout. Once complete, offline mode is not enabled automatically. Users must select the option in the **Offline** settings.
 
     While in offline mode, note the following behavior:
 
@@ -44,10 +44,5 @@ When working with cache downloads keep these general guidelines in mind for usab
     Once the cache has been downloaded \(either through a manual download, scheduled job, or incremental sync\), the app continuously updates it while you're online, regardless of how the initial download was triggered. This means the most current data is available if connectivity is later lost.
 
 
-**Parent Topic:**[[offline-cache|Configure offline cache downloads to user devices]]
+**Parent Topic:**[Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md)
 
-## Related
-
-- [[offline-attachment-behavior|Attachment behavior in offline mode]]
-- [[offline-cache|Configure offline cache downloads to user devices]]
-- [[mobile-offline-mode|Offline mode]]

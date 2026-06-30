@@ -15,7 +15,7 @@ breadcrumb: [Manage SPM work from CWM, Use, Collaborative Work Management, Strat
 
 # Team member role access permissions in CWM
 
-Access permissions for the team member read and team member read-write roles in [[cwm-landing|Collaborative Work Management]] \(CWM\), covering projects, [[t_CreateAProjectTask|project tasks]], demands, [[demand-task|demand tasks]], ideas, and calendar events.
+Access permissions for the team member read and team member read-write roles in Collaborative Work Management \(CWM\), covering projects, project tasks, demands, demand tasks, ideas, and calendar events.
 
 ## Permissions by role
 
@@ -128,7 +128,7 @@ Calendar event
 -   Delete \(own records\)
 
 </td></tr></tbody>
-</table>**Note:** In **[[c_MyCalendar|My Calendar]]**, only events that you created are visible.
+</table>**Note:** In **My Calendar**, only events that you created are visible.
 
 **Parent Topic:**[Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md)
 
@@ -137,9 +137,3 @@ Calendar event
 
 [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-task|Demand tasks]]
-- [[c_MyCalendar|My Calendar]]

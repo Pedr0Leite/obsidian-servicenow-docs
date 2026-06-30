@@ -26,7 +26,7 @@ Use the **Request furniture** workplace service to request a piece of furniture 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[workplace-services-portal-hr|Workplace service portal]]**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
     The Workplace Service Portal opens.
 
@@ -36,7 +36,7 @@ Use the **Request furniture** workplace service to request a piece of furniture 
 
     2.  Click **Browse by Categories**.
 
-    3.  In the [[workplace-services|Workplace Services]] Catalog, select **General**.
+    3.  In the Workplace Services Catalog, select **General**.
 
         **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog** &gt; **General**.
 
@@ -133,7 +133,7 @@ The state of the request changes to Awaiting approval for approval by the respec
 
 [Raise a move request for a space change]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -155,9 +155,3 @@ The state of the request changes to Awaiting approval for approval by the respec
 
 [Submit a change event request for a reservation]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[space-assistance|Space assistance]]

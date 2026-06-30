@@ -38,7 +38,7 @@ The following items are installed with Walk-Up for CSM:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[walk-up-experience-user-roles|Walk-up Experience for CSM user roles]].
+For more information, see [Walk-up Experience for CSM user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/walk-up-experience-user-roles.md).
 
 ## Procedure
 
@@ -60,6 +60,3 @@ For more information, see [[walk-up-experience-user-roles|Walk-up Experience for
 
 [Walk-up Experience for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-walkup-experience.md)
 
-## Related
-
-- [[walk-up-experience-user-roles|Walk-up Experience for CSM user roles]]

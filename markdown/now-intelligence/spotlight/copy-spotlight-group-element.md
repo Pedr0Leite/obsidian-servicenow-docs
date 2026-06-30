@@ -24,7 +24,7 @@ Role required: admin, pa\_spotlight, pa\_spotlight\_copy\_breakdown
 
 ## About this task
 
-When you first [[create-spotlight-group|create a Spotlight group]], you can associate it with at most one element of one breakdown. To create identical Spotlight groups for multiple elements of a breakdown, use the copying function. For example, if you want to use the same Spotlight group configuration for multiple elements of the **Countries** breakdown, create a Spotlight group for one country and copy it to the other countries.
+When you first create a Spotlight group, you can associate it with at most one element of one breakdown. To create identical Spotlight groups for multiple elements of a breakdown, use the copying function. For example, if you want to use the same Spotlight group configuration for multiple elements of the **Countries** breakdown, create a Spotlight group for one country and copy it to the other countries.
 
 ## Procedure
 
@@ -114,6 +114,3 @@ If any error messages or warnings appeared during the copying process, read the 
 
 **Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
-## Related
-
-- [[create-spotlight-group|Create a Spotlight group]]

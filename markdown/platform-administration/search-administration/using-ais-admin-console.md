@@ -15,9 +15,9 @@ breadcrumb: [AI Search Admin console, Search administration, Configure core feat
 
 # Using AI Search Admin console
 
-If you have the ais\_admin role, you can use the [[ais-admin-console|AI Search Admin console]] to set up and manage [[ia-ai-search|AI Search]] in search applications, track AI Search activity, [[ais-admin-console-add-features|add features to AI Search]], or [[ais-admin-console-access-resources|access AI Search resources]].
+If you have the ais\_admin role, you can use the AI Search Admin console to set up and manage AI Search in search applications, track AI Search activity, add features to AI Search, or access AI Search resources.
 
-With the AI Search Admin console, you can manage advanced AI Search [[clone-configurations-tab|configurations]].
+With the AI Search Admin console, you can manage advanced AI Search configurations.
 
 -   Set up AI Search configurations to customize the search experience of your application to your needs.
 -   Track and monitor the usage of AI Search in the search applications.
@@ -28,13 +28,13 @@ With the AI Search Admin console, you can manage advanced AI Search [[clone-conf
 -   **[Configure and manage AI Search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-setup-manage-ais.md)**  
 Configure and manage the AI Search settings for search applications that support the AI Search engine.
 -   **[Track your AI Search activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-track-activity.md)**  
-View key analytics for AI Search usage, or follow a link to the full [[ai-search-dashboard|AI Search dashboard]].
+View key analytics for AI Search usage, or follow a link to the full AI Search dashboard.
 -   **[Add features to AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-add-features.md)**  
 Improve AI Search functionality by adding extra features through supported applications. Install the applications to expand AI Search capabilities.
 -   **[Access AI Search resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-access-resources.md)**  
 Review the AI Search introductory video, follow links to the AI Search documentation and ServiceNow Community forum, or view answers to commonly asked questions about AI Search.
 -   **[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-managing-evam.md)**  
-You can customize the appearance and layout of the result-card interface in AI Search applications by accessing Entity View Action Mapper \(EVAM\) configurations from the AI Search Admin console. This helps to enhance usability, clarity of search [[hs-results|results]], making them easier to read and navigate.
+You can customize the appearance and layout of the result-card interface in AI Search applications by accessing Entity View Action Mapper \(EVAM\) configurations from the AI Search Admin console. This helps to enhance usability, clarity of search results, making them easier to read and navigate.
 -   **[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)**  
 If you have the ais\_admin role, you can create, view, or edit indexed sources directly from the AI Search Admin console.
 -   **[Manage hybrid search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-hybrid-search-aisac.md)**  
@@ -44,12 +44,3 @@ Use the AI Search Admin console to select the visual language model \(VLM\) prov
 
 **Parent Topic:**[AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console.md)
 
-## Related
-
-- [[ais-admin-console|AI Search Admin console]]
-- [[ia-ai-search|AI Search]]
-- [[ais-admin-console-add-features|Add features to AI Search]]
-- [[ais-admin-console-access-resources|Access AI Search resources]]
-- [[clone-configurations-tab|Configurations]]
-- [[ai-search-dashboard|AI Search dashboard]]
-- [[hs-results|Results]]

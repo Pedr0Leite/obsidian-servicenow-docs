@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # Set the MID Server JVM memory size
 
-The [[mid-server-landing|MID Server]] starts with a default JVM memory allocation, but you can modify this setting in the configuration file.
+The MID Server starts with a default JVM memory allocation, but you can modify this setting in the configuration file.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ In the base ServiceNow system, the MID Server JVM memory is set to 1024 MB, whic
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

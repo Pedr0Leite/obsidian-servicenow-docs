@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 # Configuration Compliance states
 
-With [[vr-config-compliance-landing|Configuration Compliance]], you can see a state model to learn what the status of the remediation task is at any given time. The remediation task states control the test result states by precedence.
+With Configuration Compliance, you can see a state model to learn what the status of the remediation task is at any given time. The remediation task states control the test result states by precedence.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -168,7 +168,7 @@ Closed
 
 </td><td>
 
-Triggered from the **Close** button or **Mark as false positive** button. Starting from v14.12 of Configuration Compliance, you can [[avr-close-remediation-task|close a remediation task]] by marking it as false positive.
+Triggered from the **Close** button or **Mark as false positive** button. Starting from v14.12 of Configuration Compliance, you can close a remediation task by marking it as false positive.
 
 From this state you can:
 
@@ -185,7 +185,7 @@ Confirm the deletion. Removes the group.
 
 </td></tr></tbody>
 </table>-   If the Remediation Task is marked as Closed or Fixed and if the test result added is not itself Closed or Fixed, the test result state does not change, and the remediation task state is changed to Open.
--   When you create a new remediation task or [[cc-split-CRG|split a remediation task]], the **Reason**, and **Until** fields are reevaluated for new and old remediation tasks. When the state of all test results is Deferred, the value in the **Reason** and **Until** fields are rolled up to the remediation task.
+-   When you create a new remediation task or split a remediation task, the **Reason**, and **Until** fields are reevaluated for new and old remediation tasks. When the state of all test results is Deferred, the value in the **Reason** and **Until** fields are rolled up to the remediation task.
 
     -   If all the test results in a remediation task are deferred, and have the same **Reason**, then the remediation task is assigned the same **Reason**. Otherwise, the **Reason** field is changed to **None**.
     -   The date in the **Until** field is updated with the closest until date of all the remediation tasks to which the test results belong to.
@@ -309,7 +309,7 @@ RT1: any stateRT2: any state
 If the test result source status is Fixed \(updated by a scan or import\), then when the remediation task changes its state, the test result changes its state to Closed \(Fixed\) no matter what states the other associated remediation tasks are in. The test result search for remediation task state does not occur.
 
 </td></tr></tbody>
-</table>## [[vr-state-rollup-rolldown|State roll-up and roll-down scenarios]]
+</table>## State roll-up and roll-down scenarios
 
 State roll-up and roll-down scenarios automatically sync the status of remediation tasks \(RTs\) and configuration test result \(CTR\), ensuring real-time updates across both. This dynamic interaction reduces manual tracking, enhances accuracy, and provides users with an up-to-date view of progress, making configuration compliance more efficient and helping users make informed decisions quickly.
 
@@ -344,9 +344,3 @@ The following table summarizes key roll-up scenarios where changes in remediatio
 |Open &gt; Resolved-Result Invalid &gt; Closed-Result Invalid|Open &gt; Resolved-Result Invalid &gt; Closed-Result Invalid|
 |Open &gt; Closed-Fixed|Open &gt; Closed-Fixed|
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[avr-close-remediation-task|Close a remediation task]]
-- [[cc-split-CRG|Split a remediation task]]
-- [[vr-state-rollup-rolldown|State roll-up and roll-down scenarios]]

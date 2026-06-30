@@ -31,7 +31,7 @@ You can also delete a condition by selecting the condition in the Template Item 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[task-plan-templates|Task Plan Templates]]** &gt; **Draft Task Plan Templates**.
+1.  Navigate to **All** &gt; **Task Plan Templates** &gt; **Draft Task Plan Templates**.
 
 2.  Select a task plan template record number to display the record.
 
@@ -45,7 +45,7 @@ You can also delete a condition by selecting the condition in the Template Item 
 
     The template item condition record opens in a new tab. The **Template item** field displays the number of the parent template item.
 
-    For more information about these fields, see [[task-plan-template-item-condition-form|Template item condition form]].
+    For more information about these fields, see [Template item condition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-item-condition-form.md).
 
 7.  Select a table from the **Condition table** field.
 
@@ -67,7 +67,4 @@ You can also delete a condition by selecting the condition in the Template Item 
 
     The system creates the template item condition record and adds it to the Template Item Conditions tab.
 
-## Related
 
-- [[task-plan-template-item-condition-form|Template item condition form]]
-- [[task-plan-templates|Task Plan Templates]]

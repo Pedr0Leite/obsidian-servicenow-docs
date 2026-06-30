@@ -14,7 +14,7 @@ breadcrumb: [Workplace Calendar Synchronization, Workplace Service Delivery, Emp
 
 # Configure Workplace Calendar Synchronization
 
-Install and configure the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application to create personalized calendars across supported platforms, such as Microsoft Exchange Online, Google Calendar, or Microsoft Exchange On-Premises.
+Install and configure the Workplace Calendar Synchronization application to create personalized calendars across supported platforms, such as Microsoft Exchange Online, Google Calendar, or Microsoft Exchange On-Premises.
 
 ## Configuration overview
 
@@ -69,6 +69,3 @@ Install the Workplace Calendar Synchronization application from ServiceNow Store
 
 **Parent Topic:**[Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/workplace-calendar-sync-feat.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -14,7 +14,7 @@ breadcrumb: [Operational Risk Management dashboard, Analytics and reporting solu
 
 # GRC Policy and Compliance Management plugin indicators
 
-The GRC [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin contains various indicators.
+The GRC Policy and Compliance Management plugin contains various indicators.
 
 The Policy and Compliance Management plugin includes the following indicators:
 
@@ -61,6 +61,3 @@ The Policy and Compliance Management plugin includes the following indicators:
 
 **Parent Topic:**[Operational Risk Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/operational-risk-dashboard.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

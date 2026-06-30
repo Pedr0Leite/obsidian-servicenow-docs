@@ -14,7 +14,7 @@ breadcrumb: [Explore, Privacy Case Management, Privacy Management, Governance, R
 
 # Privacy Case Management home page
 
-The Privacy Case Management application home page offers the privacy case manager an overview of [[ropa-record|processing activities]], risk and compliance information, operations details, and all your privacy case-related information.
+The Privacy Case Management application home page offers the privacy case manager an overview of processing activities, risk and compliance information, operations details, and all your privacy case-related information.
 
 The home page contains the following tabs:
 
@@ -23,10 +23,5 @@ The home page contains the following tabs:
 -   [Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/operations-tab-prm.md)
 -   [Privacy cases dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-cases-tab.md)
 
-\[Omitted image "processing-activity-tab.png"\] Alt text: [[processing-activity-tab|Processing activity tab]] of the [[privacy-management|Privacy management]] dashboard.
+\[Omitted image "processing-activity-tab.png"\] Alt text: Processing activity tab of the Privacy management dashboard.
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[processing-activity-tab|Processing activity tab]]
-- [[privacy-management|privacy management]]

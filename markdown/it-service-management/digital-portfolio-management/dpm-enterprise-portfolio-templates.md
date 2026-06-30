@@ -140,7 +140,7 @@ Enterprise taxonomy nodes:
 -   Data, Reporting, and Analytics
 -   Facilities Management
 -   Faculty Information Systems
--   Financial [[c_Procurement|Procurement]] Systems
+-   Financial Procurement Systems
 -   Human Resource Systems
 -   Library Systems
 -   Medical and Health Systems
@@ -155,11 +155,7 @@ Enterprise taxonomy nodes:
 To determine if this template is for you, consider its focus on higher education IT challenges. Does your institution face specific IT challenges that are common in higher education? If you’re looking to drive innovation and excellence in higher education through technology, this template could be a valuable resource for you.
 
 </td></tr></tbody>
-</table>For overview information on [[dpm-enterprise-portfolios|enterprise portfolios]], see [Enterprise portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolios.md). For more detailed information on enterprise portfolios, see [Navigate portfolio types in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-navigating-enterprise-portfolios.md).
+</table>For overview information on enterprise portfolios, see [Enterprise portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolios.md). For more detailed information on enterprise portfolios, see [Navigate portfolio types in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-navigating-enterprise-portfolios.md).
 
 **Parent Topic:**[Enterprise portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolios.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

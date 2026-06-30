@@ -22,7 +22,7 @@ Role required: sn\_risk.manager and sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Response Templates**.
+1.  Navigate to **All** &gt; **Risk Events** &gt; **Administration** &gt; **Response Templates**.
 
 2.  Select **New**.
 
@@ -36,11 +36,7 @@ Role required: sn\_risk.manager and sn\_risk.admin
 
 
 -   **[Risk Event Response Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-event-response-template-form.md)**  
-Use the [[risk-event-response-template-form|Risk Event Response Template form]] to define assignment rules. Rules automatically assign owners, approvers, issues, and Root Cause Analysis \(RCA\) tasks to risk events based on entity, event type, category, and impact thresholds.
+Use the Risk Event Response Template form to define assignment rules. Rules automatically assign owners, approvers, issues, and Root Cause Analysis \(RCA\) tasks to risk events based on entity, event type, category, and impact thresholds.
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[risk-event-response-template-form|risk event response template form]]

@@ -14,7 +14,7 @@ breadcrumb: [Contracts, Contract Management use, Contract Management, Asset Mana
 
 # Terms and conditions
 
-You can [[t_AddTermsAndConditionsToAContract|add terms and conditions to a contract]] to keep all documentation that is relevant to a contract in one location.
+You can add terms and conditions to a contract to keep all documentation that is relevant to a contract in one location.
 
 The terms and conditions can be searched and used in reports. If multiple terms and conditions records are added to a single contract, set an order for the records so they appear in a specific sequence. The terms and conditions fields become read-only after a contract is sent for approval.
 
@@ -23,7 +23,7 @@ Users with the contract\_manager role can read contract history and add terms an
 There are three procedures involved in adding terms and conditions to a contract:
 
 -   **[Create a terms and conditions record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateATermsAndConditionsRecord.md)**  
-You can [[t_CreateATermsAndConditionsRecord|create a terms and conditions record]] to add to a contract.
+You can create a terms and conditions record to add to a contract.
 -   **[Add terms and conditions to a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddTermsAndConditionsToAContract.md)**  
 After you create a terms and conditions record, add the record to a contract that is in the Awaiting Review, Rejected, Renewal Rejected, or Extension Rejected substate.
 -   **[Build a terms and conditions document within a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_BuildTandCDocWinContract.md)**  
@@ -46,7 +46,3 @@ After adding one or more terms and conditions records to a contract, you can bui
 
 [Monitor a contract]()
 
-## Related
-
-- [[t_AddTermsAndConditionsToAContract|Add terms and conditions to a contract]]
-- [[t_CreateATermsAndConditionsRecord|Create a terms and conditions record]]

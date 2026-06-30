@@ -18,7 +18,7 @@ This dashboard lets you see incidents that are overdue according to an SLA, divi
 
 **Important:**
 
-Starting in Xanadu release, the Overdue by Age dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the incidents that are overdue according to SLA, divided by age buckets.
+Starting in Xanadu release, the Overdue by Age dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the incidents that are overdue according to SLA, divided by age buckets.
 
 This dashboard is inactive by default. Before using this dashboard, a Performance Analytics administrator or power user must open the Dashboard Properties, assign an owner, and select **Active**.
 
@@ -62,6 +62,3 @@ This dashboard is inactive by default. Before using this dashboard, a Performanc
 
 **Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-sla-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]

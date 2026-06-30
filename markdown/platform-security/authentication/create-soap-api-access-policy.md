@@ -14,7 +14,7 @@ breadcrumb: [SOAP API access policies, API access policy, Authentication, Access
 
 # Create SOAP API access policy
 
-Create an [[api-access-policy|API access policy]] and map an [[c_Authentication|authentication]] profile to restrict the authentication type for a SOAP API. For example, you can create an API access policy that allows only ID token authentication for a SOAP API.
+Create an API access policy and map an authentication profile to restrict the authentication type for a SOAP API. For example, you can create an API access policy that allows only ID token authentication for a SOAP API.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Create an [[api-access-policy|API access policy]] and map an [[c_Authentication|
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access [[ca-policies|Policies]]** &gt; **[[soap-api-access-policies|SOAP API Access Policies]]**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **SOAP API Access Policies**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Create an [[api-access-policy|API access policy]] and map an [[c_Authentication|
 
 5.  Select an inbound authentication profile from the list and click the save icon \[Omitted image "green-checkmark.png"\] Alt text: save icon.
 
-    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **[[oauth-inbound-and-outbound|OAuth]]** or **WSSE Auth**.\[Omitted image "create-soap-api-policy.png"\] Alt text: SOAP API Access Policy
+    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **OAuth** or **WSSE Auth**.\[Omitted image "create-soap-api-policy.png"\] Alt text: SOAP API Access Policy
 
     1.  To add one or more inbound authentication profiles, click **New** to create a new profile.
 
@@ -66,10 +66,4 @@ Create an [[api-access-policy|API access policy]] and map an [[c_Authentication|
 
 6.  Click **Submit** to submit the SOAP API access policy.
 
-## Related
 
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[soap-api-access-policies|SOAP API access policies]]
-- [[oauth-inbound-and-outbound|OAuth]]

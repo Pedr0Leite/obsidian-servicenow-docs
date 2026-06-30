@@ -14,7 +14,7 @@ breadcrumb: [Target breakdowns, Manage enterprise goals, Strategy and Goals, Str
 
 # Update the actual value of a target breakdown
 
-[[update-the-actual-value-of-a-target-breakdown-gf|Update the actual value of a target breakdown]] when its status is changed.
+Update the actual value of a target breakdown when its status is changed.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 Updating the actual value of a target breakdown automatically updates the actual value of its target. After the **Actual to date** field of the target is updated, the progress value for the target and its goal are auto-updated.
 
-**Note:** Only the owner or contributors of the goal can update the [[target-breakdowns-gf|target breakdowns]].
+**Note:** Only the owner or contributors of the goal can update the target breakdowns.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the strategy-based board or goal-based board for which your target belongs to.
 
@@ -102,9 +102,3 @@ After the **Actual** field is updated, the progress value for the target and its
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[update-the-actual-value-of-a-target-breakdown-gf|Update the actual value of a target breakdown]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

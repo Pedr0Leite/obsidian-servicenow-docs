@@ -14,13 +14,13 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Apply coverages to an insurance policy
 
-Define the coverages for an insurance policy by using the [[insurance-claims-flow|Insurance claims]] application. You can define what coverages types and coverage options apply to a customer's insurance policy.
+Define the coverages for an insurance policy by using the Insurance claims application. You can define what coverages types and coverage options apply to a customer's insurance policy.
 
 ## Before you begin
 
-[[creating-a-coverage-specification|Create a coverage specification]] with the coverage types and coverage options. For more information, see [Coverage specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md).
+Create a coverage specification with the coverage types and coverage options. For more information, see [Coverage specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md).
 
-[[create-an-insurance-policy-for-a-consumer|Create an insurance policy]]. For more information, see [Create an insurance policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-for-a-consumer.md).
+Create an insurance policy. For more information, see [Create an insurance policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-for-a-consumer.md).
 
 Role required: admin
 
@@ -58,8 +58,3 @@ Add a policy participant as the insured entity to the policy. For more informati
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[creating-a-coverage-specification|Create a coverage specification]]
-- [[create-an-insurance-policy-for-a-consumer|Create an insurance policy]]

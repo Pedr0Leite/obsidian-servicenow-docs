@@ -12,10 +12,7 @@ breadcrumb: [Reference, Care Team Work Management, Healthcare Operations, Health
 
 # Care Team Work Management data model
 
-The following diagram shows the tables and their relationships within [[ctwm-landing|Care Team Work Management]].
+The following diagram shows the tables and their relationships within Care Team Work Management.
 
 \[Omitted image "ctwm-data-model.png"\] Alt text: Data model for Care Team Work Management.
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]

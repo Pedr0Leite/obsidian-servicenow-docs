@@ -14,7 +14,7 @@ breadcrumb: [Service Observability, ITOM AIOps, IT Operations Management]
 
 # Service Observability reference
 
-Reference topics provide additional information about administering and using [[service-observability|Service Observability]].
+Reference topics provide additional information about administering and using Service Observability.
 
 -   **[Components installed with Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/components-installed-with-service-observability.md)**  
 Several types of components are installed with activation of the Service Observability plugin, including tables and user roles.
@@ -25,7 +25,7 @@ Understand how Service Observability maps service, host, and database entities t
 -   **[Advanced query support for AWS and Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/advanced-query-support.md)**  
 Understand how to create advanced queries for Service Observability dashboard charts.
 -   **[Service Observability template variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-template-variables.md)**  
-Understand the template variables that you can use in your queries when editing Service Observability [[otto-aiops-dashboards|dashboards]] and charts.
+Understand the template variables that you can use in your queries when editing Service Observability dashboards and charts.
 -   **[Service Observability templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md)**  
 View the templates for your observability vendor to understand the default dashboards provided by Service Observability.
 -   **[Service Observability data mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-data-mapping-form.md)**  
@@ -35,7 +35,3 @@ Understand the different error states that the charts in Service Observability m
 
 **Parent Topic:**[Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

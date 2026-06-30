@@ -33,7 +33,7 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[c_Checklists|Checklists]]
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Checklists.md)
 
 **Related topics**  
 
@@ -42,6 +42,3 @@ Role required: admin
 
 [Delete checklist or a template]()
 
-## Related
-
-- [[c_Checklists|Checklists]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Move Management, Workplace Service Delivery, Employee Ser
 
 Manage and fulfill employee requests with Workplace Move Management.
 
-Enable employees to collaborate, communicate, and easily manage space changes from start to finish. As an employee, you can submit a request using the [[workplace-services-portal-hr|Workplace Service Portal]]. As a manager, you can make requests directly through the application.
+Enable employees to collaborate, communicate, and easily manage space changes from start to finish. As an employee, you can submit a request using the Workplace Service Portal. As a manager, you can make requests directly through the application.
 
 As a manager, the automated process helps you to closely supervise the movement of employees and their belongings with minimal to no disruption. You can fulfill move requests through move cases and associated tasks. You can view the move requests raised by employees, and approve or reject a request anytime. The application enables you to identify seating conflicts while fulfilling move requests.
 
@@ -38,13 +38,7 @@ As an admin, the Workplace Move Management application enables you to perform th
 
 ## Workplace Central - Move management
 
-Group multiple move requests under a move project and track their progress at a time using the [[workplace-central-feat|Workplace Central]] [[move-mgmt|Move Management]] workspace. For more information, refer to [Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt.md).
+Group multiple move requests under a move project and track their progress at a time using the Workplace Central Move Management workspace. For more information, refer to [Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt.md).
 
-**Parent Topic:**[[workplace-move-mgmt-overview|Workplace Move Management]]
+**Parent Topic:**[Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-move-mgmt-overview.md)
 
-## Related
-
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-central-feat|Workplace Central]]
-- [[move-mgmt|Move Management]]

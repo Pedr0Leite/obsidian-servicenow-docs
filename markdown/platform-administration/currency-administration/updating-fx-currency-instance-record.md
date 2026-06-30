@@ -46,7 +46,7 @@ Select the edit icon \(\[Omitted image "currency-edit.png"\] Alt text: Edit icon
 
 </td><td>
 
-1.  Navigate to **[[system-localization-landing|System Localization]]** &gt; **FX Currency Instances**.
+1.  Navigate to **System Localization** &gt; **FX Currency Instances**.
 2.  Select the Currency Instance record to edit.
  **Note:** Only users with an assigned admin role can access this selection from the navigator.
 
@@ -83,7 +83,7 @@ Conversion Rate
 
 </td><td>
 
-Conversion rate used to calculate the [[reference-email-admin|reference]] currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
+Conversion rate used to calculate the reference currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
 
  You change or select the conversion rate as needed.
 
@@ -124,7 +124,3 @@ Three-letter ISO code that identifies the reference currency, for example, USD, 
 
 [Configuring FX Currency field behavior]()
 
-## Related
-
-- [[system-localization-landing|System Localization]]
-- [[reference-email-admin|Reference]]

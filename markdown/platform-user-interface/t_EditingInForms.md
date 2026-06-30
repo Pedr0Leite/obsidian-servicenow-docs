@@ -32,12 +32,12 @@ Role required: none
 
     -   Click **Submit** or **Update** to save changes and return to the previously viewed page.
     -   Right-click the form header and select **Save** to save changes without leaving form view.
-    On [[c_UI16|Core UI]] [[form-configurable-workspace|forms]], fields update dynamically and display a field update icon \[Omitted image "FieldUpdateIconU16.png"\] Alt text: Field update icon to indicate changes made by other users. You can point to the field update icon to see which user made the update. This dynamic indication helps to prevent users from accidentally overwriting each other's work.
+    On Core UI forms, fields update dynamically and display a field update icon \[Omitted image "FieldUpdateIconU16.png"\] Alt text: Field update icon to indicate changes made by other users. You can point to the field update icon to see which user made the update. This dynamic indication helps to prevent users from accidentally overwriting each other's work.
 
     **Note:** If you entered a different value from the value saved by the other user, the system does not update the field automatically. Change your value manually to match value entered by the other user. Otherwise, you overwrite the change when you save the record.
 
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 ## Insert a record
 
@@ -131,8 +131,4 @@ Role required: none
 
     **Note:** Administrators can disable the confirmation message by setting the **glide.ui.dirty\_form\_support** property to false.
 
-## Related
 
-- [[c_UsingForms|Forms in the classic environment]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]

@@ -92,7 +92,7 @@ Generates a recommended reply that is based on the context of the conversation u
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -122,6 +122,3 @@ Generates a recommended reply that is based on the context of the conversation u
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

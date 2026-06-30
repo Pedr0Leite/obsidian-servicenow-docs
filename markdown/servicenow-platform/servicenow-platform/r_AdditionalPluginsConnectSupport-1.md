@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Additional plugins for Connect Support
 
-Additional plugins are available for [[c_ConnectSupport|Connect Support]]. These plugins integrate Connect Support with other features and provide capabilities to track performance metrics.
+Additional plugins are available for Connect Support. These plugins integrate Connect Support with other features and provide capabilities to track performance metrics.
 
 You must have the admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) .
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[connect-support-sp|Connect Support and Service Portal]] Integration\[com.glide.[[c_Connect|connect]].support.service-portal\]
+Connect Support and Service Portal Integration\[com.glide.connect.support.service-portal\]
 
 </td><td>
 
@@ -36,7 +36,7 @@ Connect Support Manager's Dashboard\[com.glide.connect.managers\_dashboard\]
 
 </td><td>
 
-Provides a homepage for Connect Support, and all required configuration records. Though the plugin name contains the term dashboard, the plugin does not provide functionality related to Performance Analytics dashboards. Homepages are similar to dashboards, but do not require Performance Analytics roles to view. **Note:** The Connect Support Manager's Dashboard plugin does not [[t_ActivateConnectSupport|activate Connect Support]] automatically. You must activate Connect Support to collect data for the homepage.
+Provides a homepage for Connect Support, and all required configuration records. Though the plugin name contains the term dashboard, the plugin does not provide functionality related to Performance Analytics dashboards. Homepages are similar to dashboards, but do not require Performance Analytics roles to view. **Note:** The Connect Support Manager's Dashboard plugin does not activate Connect Support automatically. You must activate Connect Support to collect data for the homepage.
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Performance Analytics - Content Pack - Service Desk Chat\[com.snc.pa.chat\]
 
 </td><td>
 
-Provides the **Service Desk Chat Monitor** dashboard, which analyzes key [[c_ConnectSupportMetrics|Connect Support metrics]] and indicators. The Performance Analytics - Content Pack - Service Desk Chat plugin activates the Connect Support Manager's Dashboard \[com.glide.connect.managers\_dashboard\].
+Provides the **Service Desk Chat Monitor** dashboard, which analyzes key Connect Support metrics and indicators. The Performance Analytics - Content Pack - Service Desk Chat plugin activates the Connect Support Manager's Dashboard \[com.glide.connect.managers\_dashboard\].
 
 </td></tr><tr><td id="entry_PluginPerformanceAnalyticsContextSensitiveAnalyticsForChat">
 
@@ -66,11 +66,3 @@ Provides in-form analytics for Connect Support. These analytics are available as
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[connect-support-sp|Connect Support and Service Portal]]
-- [[c_Connect|Connect]]
-- [[t_ActivateConnectSupport|Activate Connect Support]]
-- [[c_ConnectSupportMetrics|Connect Support metrics]]

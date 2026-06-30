@@ -62,7 +62,7 @@ Time limit \(in seconds\) for running an entire query to get all results.glide.c
 
 </td></tr><tr><td>
 
-Exclude list of non-CMDB tables. The specified tables will not appear in the [[cmdb-query-builder-landing-page|CMDB Query Builder]] when a user creates a query.glide.cmdb.query.non\_cmdb.black\_listed\_tables
+Exclude list of non-CMDB tables. The specified tables will not appear in the CMDB Query Builder when a user creates a query.glide.cmdb.query.non\_cmdb.black\_listed\_tables
 
 </td><td>
 
@@ -122,7 +122,3 @@ Default execution engine to use for queries that contain at least one logical OR
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

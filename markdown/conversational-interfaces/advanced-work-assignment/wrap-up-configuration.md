@@ -51,13 +51,11 @@ Role required: admin
     -   Enforce wrap up duration - if selected, the agent will have a limited length of time \(defined in the **Duration in seconds** field\) to enter wrap up information.
     -   Show duration to agent - this field appears only if you selected **Enforce wrap up duration** and indicates whether the wrap up duration displays on the screen for the agent.
     -   Duration in seconds - this field appears only if you selected **Enforce wrap up duration** and defines the length of time \(in seconds\) that the agent has to wrap up the interaction.
-6.  In the Codes tab, configure the [[wrap-up-codes|wrap up codes]]:
+6.  In the Codes tab, configure the wrap up codes:
 
     -   Enable wrap-up codes - if selected, the agent can enter pre-defined wrap up codes when they close an interaction.
     -   Default wrap-up code - this field appears only if you selected **Enforce wrap up codes** and indicates the default wrap up code.
     -   Allowed wrap-up codes - this field appears only if you selected **Enforce wrap up codes** and lists all of the wrap up codes that an agent can use.
 7.  Select **Update** if you are updating an existing configuration or **Submit** if you are creating a new configuration.
 
-## Related
 
-- [[wrap-up-codes|Wrap up codes]]

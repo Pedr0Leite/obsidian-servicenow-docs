@@ -108,12 +108,7 @@ Your theme is saved as a draft in Theme Builder and appears in the Unpublished s
 
 ## What to do next
 
-After creating your theme in the wizard, you are directed to the Editor view of the theme where you can continue [[tb-edit-theme|modifying]] or [[tb-apply-theme|publish your theme]].
+After creating your theme in the wizard, you are directed to the Editor view of the theme where you can continue [modifying](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md) or [publish your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[theme-creation-with-ai|Theme creation with AI]]
+**Parent Topic:**[Theme creation with AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/theme-creation-with-ai.md)
 
-## Related
-
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[theme-creation-with-ai|Theme creation with AI]]

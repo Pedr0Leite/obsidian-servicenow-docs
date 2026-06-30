@@ -14,7 +14,7 @@ breadcrumb: [Upgrading Service Portal, Configuring Service Portal, Service Porta
 
 # Activate Service Portal validation scripts
 
-Validate user input in a specific field type using a validation script. In new instances, [[c_ServicePortal|Service Portal]] includes XML, Script, Script \(Plain\), Email, and Version validation scripts by default. If upgrading from a previous release, the Mobile and Service Portal version is not active by default. You must activate the Mobile and Service Portal version of the validation script to validate user input in the Service Portal.
+Validate user input in a specific field type using a validation script. In new instances, Service Portal includes XML, Script, Script \(Plain\), Email, and Version validation scripts by default. If upgrading from a previous release, the Mobile and Service Portal version is not active by default. You must activate the Mobile and Service Portal version of the validation script to validate user input in the Service Portal.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ User input into the designated field type in the Service Portal and Mobile envir
 
 **Parent Topic:**[Upgrading Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/upgrading-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

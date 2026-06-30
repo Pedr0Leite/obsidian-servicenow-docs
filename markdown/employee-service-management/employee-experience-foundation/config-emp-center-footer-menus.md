@@ -28,7 +28,7 @@ After you create a footer, configure the menus for the footer. For example, you 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Employee Center Footers**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Employee Center Footers**.
 
 2.  Click the footer that you want to configure menus for.
 
@@ -43,6 +43,3 @@ After you create a footer, configure the menus for the footer. For example, you 
 
 **Parent Topic:**[Footer configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-footer-config.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

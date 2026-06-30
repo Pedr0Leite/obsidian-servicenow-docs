@@ -14,9 +14,9 @@ breadcrumb: [Inbound integrations, OAuth Inbound, OAuth authentication, Authenti
 
 # JSON Web token bearer grant
 
-Configuring an [[oauth-inbound-and-outbound|OAuth]] JSON Web Token \(JWT\) bearer grant secures [[token-based-auth-api|token-based authentication]] without user interaction. Use this flow when a client application needs secure, unattended access to ServiceNow resources, either as itself or on behalf of a user.
+Configuring an OAuth JSON Web Token \(JWT\) bearer grant secures token-based authentication without user interaction. Use this flow when a client application needs secure, unattended access to ServiceNow resources, either as itself or on behalf of a user.
 
-The client application generates a signed JWT that includes [[identity-landing|identity]]-related claims, such as the user or system it represents. It sends it to the ServiceNow instance to [[c_requestAPI|request]] an access token.
+The client application generates a signed JWT that includes identity-related claims, such as the user or system it represents. It sends it to the ServiceNow instance to request an access token.
 
 -   **Ideal for:**
 
@@ -46,9 +46,3 @@ The JWT must be signed using the client’s private key. It must include the fol
 
 [Configure an OAuth JSON web token bearer grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-an-oauth-jwt-bearer-grant.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[token-based-auth-api|Token-based authentication]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]

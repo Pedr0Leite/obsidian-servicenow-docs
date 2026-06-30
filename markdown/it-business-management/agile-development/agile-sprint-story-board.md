@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Track progress of stories for a sprint in Agile Development 2.0
 
-Use the Sprint Tracking tab of the [[agile-board|Agile board in Agile Development 2.0]] to track the development of the stories from your current sprint.
+Use the Sprint Tracking tab of the Agile board in Agile Development 2.0 to track the development of the stories from your current sprint.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can move the story cards into different lanes or add new stories for the tea
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  Select the **Sprint Tracking** tab.
 
@@ -67,7 +67,3 @@ You can move the story cards into different lanes or add new stories for the tea
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-board|Agile board in Agile Development 2.0]]
-- [[agile-development|Agile Development]]

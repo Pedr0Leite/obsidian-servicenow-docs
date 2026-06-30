@@ -14,7 +14,7 @@ breadcrumb: [Roles installed with Customer Service Management, Components instal
 
 System administrators can create custom roles or modify the access of existing roles by using script includes and extension points/instances.
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application uses platform ACLs and query business [[gamification-components-rules|rules]] to restrict data access based on user roles. If needed, users with the administrator role can create custom roles or modify the access of existing roles by using script includes and extension points/instances.
+The Customer Service Management application uses platform ACLs and query business rules to restrict data access based on user roles. If needed, users with the administrator role can create custom roles or modify the access of existing roles by using script includes and extension points/instances.
 
 -   The script includes store JavaScript functions and classes to handle the role access control logic.
 -   Extension points/instances designate places where custom scripts can be called and then processed to extend base functionality.
@@ -43,7 +43,7 @@ To create a role:
 
 For more information about modifying ACLs and query business rules, see [KB0685767](https://support.servicenow.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0685767%26sysparm_stack%3D%26sysparm_view%3D).
 
-**Parent Topic:**[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+**Parent Topic:**[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
 **Related topics**  
 
@@ -56,8 +56,3 @@ For more information about modifying ACLs and query business rules, see [KB06857
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

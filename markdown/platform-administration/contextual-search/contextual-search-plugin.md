@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-If the related plugins aren't activated, [[c_ContextualSearch|Contextual Search]] activates the plugins.
+If the related plugins aren't activated, Contextual Search activates the plugins.
 
 <table id="table_zxy_fff_qgb"><thead><tr><th>
 
@@ -69,7 +69,7 @@ Provides GraphQL schema for contextual search services.
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 -   **[Components installed with Contextual Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/components-installed-with-cxs.md)**  
@@ -80,10 +80,5 @@ Several types of components are installed with the activation of the Contextual 
 **Related topics**  
 
 
-[[list-of-plugins|List of plugins \( Australia \)]]
+[List of plugins \( Australia \)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[list-of-plugins|List of plugins \(Australia\)]]
-- [[c_ContextualSearch|Contextual search]]

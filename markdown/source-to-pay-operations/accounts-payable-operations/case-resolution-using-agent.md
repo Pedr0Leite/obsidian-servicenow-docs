@@ -23,13 +23,13 @@ Role required: now\_assist\_panel\_user,sn\_ap\_cm.agent
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **List view** &gt; **All work** &gt; **Cases** &gt; **New**.
+1.  Navigate to **Source-to-Pay Workspace** &gt; **List view** &gt; **All work** &gt; **Cases** &gt; **New**.
 
     The **Create new case** pop-up appears.
 
 2.  Select **Invoice case**.
 
-    For more information on creating an inquiry case, see [Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md). Assign the case to the AP agent and the [[apo-help-resolve-supplier-questions-agentic|inquiry resolution provider AI agent]] is triggered.\[Omitted image "inquiry-case-ai-agent.png"\] Alt text: Inquiry resolution provider agent
+    For more information on creating an inquiry case, see [Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md). Assign the case to the AP agent and the inquiry resolution provider AI agent is triggered.\[Omitted image "inquiry-case-ai-agent.png"\] Alt text: Inquiry resolution provider agent
 
 
 ## Result
@@ -41,7 +41,3 @@ Now Assist panel displays the resolution plan and enables agents to review the A
 
 [Case resolution using Inquiry resolution provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/case-resolution-using-agent.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[apo-help-resolve-supplier-questions-agentic|Inquiry resolution provider AI agent]]

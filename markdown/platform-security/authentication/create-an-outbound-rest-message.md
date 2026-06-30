@@ -18,7 +18,7 @@ Create outbound rest message to authorize instance as authorization server.
 
 ## Before you begin
 
-Role required: [[oauth-inbound-and-outbound|oauth]]\_admin
+Role required: oauth\_admin
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Role required: [[oauth-inbound-and-outbound|oauth]]\_admin
     Note the following field values:
 
     -   **Endpoint**: URL of the instance that is the authorization server.
-    -   **[[c_Authentication|Authentication]] type**: **[[c_OAuthApplications|OAuth 2.0]]**.
+    -   **Authentication type**: **OAuth 2.0**.
     -   **OAuth profile**: OAuth profile that you created for the client server.
 3.  On the REST message record, click **Get OAuth Token**.
 
@@ -47,8 +47,4 @@ Role required: [[oauth-inbound-and-outbound|oauth]]\_admin
 
     The process that follows is outlined in [OAuth authorization code grant flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_OAuthAuthorizationCodeFlow.md).
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[c_OAuthApplications|OAuth 2.0]]

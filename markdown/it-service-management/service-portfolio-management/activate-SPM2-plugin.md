@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Portfolio Management, IT Service Management]
 
 # Activate Service Portfolio Management
 
-The [[SPM2-landing-page|Service Portfolio Management]] Core plugin \(com.snc.service\_portfolio\_core\) is available by default for ITSM licensed customers. You can activate additional available related plugins for enhanced features and functionality.
+The Service Portfolio Management Core plugin \(com.snc.service\_portfolio\_core\) is available by default for ITSM licensed customers. You can activate additional available related plugins for enhanced features and functionality.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Adds the Service Offering table \[service\_offering\] to the Configuration Manag
 
 </td></tr><tr><td>
 
-Service Catalog core [[dex-workspace-application-tab|applications]]\[com.glideapp.servicecatalog\]
+Service Catalog core applications\[com.glideapp.servicecatalog\]
 
 </td><td>
 
@@ -77,7 +77,7 @@ Adds SLA Commitment support to Service Portfolio Management. Includes demo data.
 
 </td></tr><tr><td>
 
-[[SPM2-taxonomy|Service Portfolio Management Taxonomy]] Content Pack\[com.snc.spm.content\]
+Service Portfolio Management Taxonomy Content Pack\[com.snc.spm.content\]
 
 </td><td>
 
@@ -106,8 +106,3 @@ Provides sample taxonomy metadata, complete with portfolio, layers, and nodes. D
 
 [Installed with Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/r_InstalledWSPM2.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[SPM2-taxonomy|Service Portfolio Management taxonomy]]

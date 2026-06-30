@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # View SIR tasks related to an OT CI
 
-View Security Incident Response \(SIR\) tasks related to an [[operational-technology-overview|Operational Technology]] \(OT\) configuration item \(CI\) in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. Viewing SIR tasks maintains visibility for changes made to an OT CI.
+View Security Incident Response \(SIR\) tasks related to an Operational Technology \(OT\) configuration item \(CI\) in the Industrial Workspace. Viewing SIR tasks maintains visibility for changes made to an OT CI.
 
 ## Before you begin
 
@@ -27,7 +27,3 @@ Role required: admin
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

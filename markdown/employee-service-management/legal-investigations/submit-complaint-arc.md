@@ -14,7 +14,7 @@ breadcrumb: [Requests, Legal Investigations, Legal Service Delivery Practice App
 
 # Submit a complaint through the Anonymous Report Center portal
 
-Submit a complaint anonymously through the [[arc-portal|Anonymous Report Center \(ARC\)]] portal to report a compliance violation incident for investigation and resolution.
+Submit a complaint anonymously through the Anonymous Report Center \(ARC\) portal to report a compliance violation incident for investigation and resolution.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Open the Anonymous Report Center portal either via [[employee-center-landing-page|Employee Center]] portal or using a direct URL.
+1.  Open the Anonymous Report Center portal either via Employee Center portal or using a direct URL.
 
 <table id="choicetable_bkg_zx3_vfc"><thead><tr><th align="left" id="d382272e89">
 
@@ -71,7 +71,7 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 
 </td></tr></tbody>
-</table>    If you are [[using-emp-center|using Employee Center]] or Legal Service Portal, you are signed out of your account to keep your identity anonymous. The Anonymous Report Center portal opens in a new browser tab.
+</table>    If you are using Employee Center or Legal Service Portal, you are signed out of your account to keep your identity anonymous. The Anonymous Report Center portal opens in a new browser tab.
 
 2.  In the Anonymous Report Center portal, click **Submit an Anonymous Report**.
 
@@ -96,7 +96,7 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 ## Result
 
-Either a legal request or a [[ur-landing-limitedaccess|universal request]] is created based on the [active record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md).
+Either a legal request or a universal request is created based on the [active record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md).
 
 To maintain the anonymity of the requester or requested for users, the request is submitted with the following values for the corresponding fields:
 
@@ -115,9 +115,3 @@ You can follow up on your anonymous report to view comments and updates from the
 
 [Submit a complaint through Employee Center]()
 
-## Related
-
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[employee-center-landing-page|Employee Center]]
-- [[using-emp-center|Using Employee Center]]
-- [[ur-landing-limitedaccess|Universal Request]]

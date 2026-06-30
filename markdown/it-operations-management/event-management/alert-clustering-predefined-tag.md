@@ -14,7 +14,7 @@ breadcrumb: [Tag cluster alert grouping, Mixed alert grouping, Alert grouping ty
 
 # Attach a predefined tag to a tag-based alert grouping definition
 
-Get started faster with alert clustering by attaching a predefined alert clustering tag to a tag-based alert clustering definition in [[c_EM|Event Management]]. By associating a predefined tag, you ensure that alerts meeting the specified criteria are grouped effectively, facilitating quicker identification and response to related incidents.
+Get started faster with alert clustering by attaching a predefined alert clustering tag to a tag-based alert clustering definition in Event Management. By associating a predefined tag, you ensure that alerts meeting the specified criteria are grouped effectively, facilitating quicker identification and response to related incidents.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ The Tag Based Alert Clustering Engine application comes with a set of predefined
 
 The predefined alert clustering tag is now attached to the tag-based alert clustering definition. This association enables the effective grouping of alerts based on the specified criteria, facilitating improved alert management and response efficiency.
 
-To group alerts using tag-based grouping, you can also create a grouping automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
+To group alerts using tag-based grouping, you can also create a grouping automation in Service Operations Workspace. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -65,7 +65,7 @@ Calculate based on
 </td><td>
 
 Option to assess the types of control. Choices are the following:-   **Control environment assessment**: Select this option if you don’t want to assess individual controls, but instead want to assess the overall effectiveness of the control environment.
--   **Individual assessment of controls**: Select this option if you want to perform assessment for individual controls. For example, you can select the risk of employees accepting bribes and then assess each existing control to mitigate the risk of bribery. This option is available only when the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(com.sn\_compliance\) plugin is activated.
+-   **Individual assessment of controls**: Select this option if you want to perform assessment for individual controls. For example, you can select the risk of employees accepting bribes and then assess each existing control to mitigate the risk of bribery. This option is available only when the Policy and Compliance Management \(com.sn\_compliance\) plugin is activated.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Factor for overall effectiveness
 
 </td><td>
 
-Manual, automated, or group [[factors|factors]] to assess controls. This field appears only when the option **Individual assessment of controls** is selected from the **Calculate based on** field. Only qualitative factors or factors with the option to transform the qualitative score will be displayed in this field.
+Manual, automated, or group factors to assess controls. This field appears only when the option **Individual assessment of controls** is selected from the **Calculate based on** field. Only qualitative factors or factors with the option to transform the qualitative score will be displayed in this field.
 
 </td></tr><tr><td>
 
@@ -124,9 +124,9 @@ Section Labels
 
 </td></tr><tr><td colspan="2">
 
-This section appears only when **Configure section [[tprm-terminology|terminology]]** is selected in the RAM form.
+This section appears only when **Configure section terminology** is selected in the RAM form.
 
- **Note:** Section label renaming applies only to the [[advanced-risk-assessment|advanced risk assessment]] interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
+ **Note:** Section label renaming applies only to the advanced risk assessment interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
 
 </td></tr><tr><td>
 
@@ -147,9 +147,3 @@ Option to rename the qualitative score label in the Scoring section of the asses
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure a control effectiveness assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-control-assess.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[factors|factors]]
-- [[tprm-terminology|Terminology]]
-- [[advanced-risk-assessment|advanced risk assessment]]

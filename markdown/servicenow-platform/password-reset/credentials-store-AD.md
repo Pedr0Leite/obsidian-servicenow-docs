@@ -14,7 +14,7 @@ breadcrumb: [Credential stores for Password Reset, Configure your Password Reset
 
 # Credentials Store for Password Reset for Active Directory
 
-A credential store type is a set of workflows that specify how to [[c_Connect|connect]] to a credential store. You can connect to **[[password-reset-landing-page|Password Reset]]** **Credential Stores** to view the list of example credential stores that are based on the base-system types.
+A credential store type is a set of workflows that specify how to connect to a credential store. You can connect to **Password Reset** **Credential Stores** to view the list of example credential stores that are based on the base-system types.
 
 ## Overview
 
@@ -34,7 +34,3 @@ You can create a Password Reset credential store record to configure access to y
 
 [Configure the connection to an AD credential store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-ad-credential-store.md)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[password-reset-landing-page|Password Reset]]

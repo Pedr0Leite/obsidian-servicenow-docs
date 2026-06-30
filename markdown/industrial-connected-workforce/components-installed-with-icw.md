@@ -185,7 +185,7 @@ Knowledge Manager role for the ICW Core application
 
 </td></tr><tr><td>
 
-[[industrial-root-cause-analysis|Root Cause Analysis]] Expert
+Root Cause Analysis Expert
 
  \[sn\_icw.rca\_expert\]
 
@@ -276,9 +276,5 @@ User role for the ICW Core application
 -   Industrial Task \[sn\_icw\_task\]
 -   Worker profile \[sn\_icw\_worker\_profile\]
 
-**Parent Topic:**[[icw-reference|Industrial Connected Workforce reference]]
+**Parent Topic:**[Industrial Connected Workforce reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/icw-reference.md)
 
-## Related
-
-- [[icw-reference|Industrial Connected Workforce reference]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

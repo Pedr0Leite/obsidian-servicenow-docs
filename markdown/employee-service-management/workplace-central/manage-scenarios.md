@@ -14,18 +14,18 @@ breadcrumb: [Working with Space Planning, Use, Workplace Central, Workplace Serv
 
 # Manage scenarios using Space Planning
 
-Create, copy, or delete [[space-planning|space planning]] scenarios.
+Create, copy, or delete space planning scenarios.
 
 ## Before you begin
 
 To manage scenarios, verify that the following plugins are installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[Indoor-mapping|Indoor Mapping]] \(for map-based administration\)
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] components
+-   Workplace Core
+-   Workplace Space Management
+-   Indoor Mapping \(for map-based administration\)
+-   Workplace Case Management
+-   Workplace Central
+-   Workplace Service Delivery components
 
 Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reader \(read only; to view a scenario\)
 
@@ -53,7 +53,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d562820e141">
 
-**[[create-multi-building-scenario|Create a scenario]]**
+**Create a scenario**
 
 </td><td>
 
@@ -75,7 +75,7 @@ The new scenario is created in the **Processing** state and takes some time to m
 
 </td><td>
 
-[[create-copy-of-scenario|Create a copy of an existing scenario]] to make minor changes to an already created scenario.For more information about creating a scenario copy, see [Create a copy of an existing scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md).
+Create a copy of an existing scenario to make minor changes to an already created scenario.For more information about creating a scenario copy, see [Create a copy of an existing scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md).
 
 </td></tr><tr><td id="d562820e214">
 
@@ -87,7 +87,7 @@ Select a scenario to view information like the floor details and space KPIs. Edi
 
 </td></tr><tr><td id="d562820e232">
 
-**[[publish-a-scenario|Publish a scenario]]**
+**Publish a scenario**
 
 </td><td>
 
@@ -95,7 +95,7 @@ Publish a scenario so it’s available for others to view in a read-only mode. S
 
 </td></tr><tr><td id="d562820e250">
 
-**[[review-a-scenario|Review a scenario]]**
+**Review a scenario**
 
 </td><td>
 
@@ -103,7 +103,7 @@ Review a scenario created by a colleague, and share feedback before it is deploy
 
 </td></tr><tr><td id="d562820e268">
 
-**[[send-a-scenario-for-approval|Send a scenario for approval]]**
+**Send a scenario for approval**
 
 </td><td>
 
@@ -111,7 +111,7 @@ Send a published scenario for approval to the workplace managers of your organiz
 
 </td></tr><tr><td id="d562820e286">
 
-**[[deploy-neighborhood-scenario|Deploy a scenario]]**
+**Deploy a scenario**
 
 </td><td>
 
@@ -129,18 +129,3 @@ Change the owner of a scenario to enable other space planners to edit the scenar
 </table>
 **Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-## Related
-
-- [[space-planning|Space Planning]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[create-copy-of-scenario|Create a copy of an existing scenario]]
-- [[publish-a-scenario|Publish a scenario]]
-- [[review-a-scenario|Review a scenario]]
-- [[send-a-scenario-for-approval|Send a scenario for approval]]
-- [[deploy-neighborhood-scenario|Deploy a scenario]]

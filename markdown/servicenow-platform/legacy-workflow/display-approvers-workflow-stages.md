@@ -32,7 +32,7 @@ By default, only workflow stage fields that use the Workflow-driven renderer can
 
 1.  Navigate to **All** &gt; **Workflow** &gt; **Administration** &gt; **Properties**.
 
-    The system displays the [[r_WorkflowProperties|Workflow Properties]] page.
+    The system displays the Workflow Properties page.
 
 2.  Set the following properties.
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Number of approvers to show if approvers are displayed for [[c_WorkflowStages|workflow stages]]. Only valid for supported list v2 renderers.glide.workflow.renderer.show\_approver\_limit
+Number of approvers to show if approvers are displayed for workflow stages. Only valid for supported list v2 renderers.glide.workflow.renderer.show\_approver\_limit
 
 </td><td>
 
@@ -93,7 +93,7 @@ Enables \(true\) or disables \(false\) the Workflow-driven renderer to display a
 
 5.  For each approval activity you want to display approvers, select a **Stage** value.
 
-    For example, the sample workflow **[[service-catalog|Service Catalog]] Item Request** has two approval activities. The first **Approval - User** activity has a **Stage** value of `Dept. Head Approval`. The second **Approval - User** activity has a **Stage** value of `CIO Approval`.
+    For example, the sample workflow **Service Catalog Item Request** has two approval activities. The first **Approval - User** activity has a **Stage** value of `Dept. Head Approval`. The second **Approval - User** activity has a **Stage** value of `CIO Approval`.
 
 
 ## Result
@@ -102,8 +102,3 @@ The workflow stage field renderers you enabled display approvers up to the appro
 
 **Parent Topic:**[Create a workflow stage field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflowStageField.md)
 
-## Related
-
-- [[r_WorkflowProperties|Workflow properties]]
-- [[c_WorkflowStages|Workflow stages]]
-- [[service-catalog|Service Catalog]]

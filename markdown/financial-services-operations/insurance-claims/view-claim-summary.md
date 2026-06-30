@@ -35,7 +35,7 @@ From a claim case or adjuster task, select **Claim summary** to view the Claim S
 
     Shows the time left to meet relevant service level agreements.
 
--   **[[adjuster-tasks-workspace-pers|Adjuster tasks]]**
+-   **Adjuster tasks**
 
     Shows a list of relevant adjuster tasks and their statuses associated with the current claim case.
 
@@ -66,6 +66,4 @@ From a claim case or adjuster task, select **Claim summary** to view the Claim S
 
     Shows user and system activities history, including claim update comments, work notes, and key attribute changes.
 
-## Related
 
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

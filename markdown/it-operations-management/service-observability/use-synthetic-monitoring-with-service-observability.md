@@ -14,15 +14,15 @@ breadcrumb: [Customize dashboard templates, Configuring Service Observability, S
 
 # Use synthetic monitoring with Service Observability
 
-Create a synthetic monitor to test your service's endpoints. Then display the results by customizing a [[service-observability|Service Observability]] dashboard.
+Create a synthetic monitor to test your service's endpoints. Then display the results by customizing a Service Observability dashboard.
 
 ## Overview of using synthetic monitoring with Service Observability
 
-[[synthetic-monitoring-landing-page|Synthetic monitoring]] simulates user transactions on a service's HTTP endpoints, enabling you to identify performance bottlenecks, help confirm up-time, and optimize user experiences. It continually calls a service's endpoint to test availability, response times, or the presence of a defined string in the response body. When a test fails the configured criteria, it can send an alert. For more information about synthetic monitoring, see [[exploring-synthetic-monitoring|Exploring synthetic monitoring]].
+Synthetic monitoring simulates user transactions on a service's HTTP endpoints, enabling you to identify performance bottlenecks, help confirm up-time, and optimize user experiences. It continually calls a service's endpoint to test availability, response times, or the presence of a defined string in the response body. When a test fails the configured criteria, it can send an alert. For more information about synthetic monitoring, see [Exploring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/exploring-synthetic-monitoring.md).
 
 The results of the monitor's test can be added to the Service Observability Overview dashboard and to the Observability Service dashboard. To view synthetic data related to a service on a dashboard, you first create a monitor that tests the endpoints of your service. Then you customize a dashboard template to add the monitor's test results.
 
-**Note:** When you customize the template to add synthetic monitoring, you're adding it to all [[otto-aiops-dashboards|dashboards]] that use that template. Services that don't have a configured monitor display an empty chart.
+**Note:** When you customize the template to add synthetic monitoring, you're adding it to all dashboards that use that template. Services that don't have a configured monitor display an empty chart.
 
 1.  [Create a synthetic monitor to test a service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/create-a-synthetic-monitor-to-test-a-service.md).
 
@@ -32,9 +32,4 @@ The results of the monitor's test can be added to the Service Observability Over
 
     Customize a Service Observability dashboard template to add synthetic monitoring test results.
 
-## Related
 
-- [[exploring-synthetic-monitoring|Exploring synthetic monitoring]]
-- [[service-observability|Service Observability]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[otto-aiops-dashboards|Dashboards]]

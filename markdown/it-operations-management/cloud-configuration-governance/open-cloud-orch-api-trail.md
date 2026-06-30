@@ -14,7 +14,7 @@ breadcrumb: [The Cloud Orchestration Trail, Troubleshooting tools for Cloud Prov
 
 # Open the Cloud Orchestration Trail
 
-Open the Cloud Orchestration Trail to debug and troubleshoot issues like a failed policy or failed [[r-discovery|Discovery]] of cloud resources.
+Open the Cloud Orchestration Trail to debug and troubleshoot issues like a failed policy or failed Discovery of cloud resources.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Operate** &gt; **Trails**.
+1.  In the Cloud Admin Portal, navigate to **Operate** &gt; **Trails**.
 
 2.  On the **Cloud Orchestration Trail** tab, filter and sort the list of Orchestration API Trail records as needed.
 
@@ -34,7 +34,4 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
     For example, open **route\_error** or **error\_detail** to debug a failed operation.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

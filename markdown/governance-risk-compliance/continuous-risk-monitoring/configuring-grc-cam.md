@@ -22,7 +22,7 @@ Follow the steps in the checklist to download CAM from the ServiceNow Store and 
 
     The checklist includes the tasks that you must complete to prepare the base system.
 
-2.  [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
+2.  [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md)
 
     You download CAM from the ServiceNow Store.
 
@@ -30,6 +30,4 @@ Follow the steps in the checklist to download CAM from the ServiceNow Store and 
 
     Assign roles to users and groups to prepare to use the CAM application.
 
-## Related
 
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]

@@ -18,17 +18,17 @@ Create inbound data exclusion rules in order to filter any type of data or any k
 
 ## Before you begin
 
-The application supports the integration of multiple [[threat-intelligence-feeds|threat intelligence feeds]], including STIX [[data-sources|data sources]]. To ensure that only relevant data is ingested, customizable exclusion rules must be applied.
+The application supports the integration of multiple threat intelligence feeds, including STIX data sources. To ensure that only relevant data is ingested, customizable exclusion rules must be applied.
 
 Role required: sn\_sec\_tisc.admin
 
 ## About this task
 
-Exclusion rules are created and applied on a source record to process further steps. The base system provides the **Sample Filtering Rule** for the users with a predefined rule to filter the ingested [[c_Observables|observables]], [[indicator|indicators]] data, or entities/objects.
+Exclusion rules are created and applied on a source record to process further steps. The base system provides the **Sample Filtering Rule** for the users with a predefined rule to filter the ingested observables, indicators data, or entities/objects.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Drill down to **Rules Engine** &gt; **Inbound Data Exclusion Rules**.
 
@@ -122,10 +122,4 @@ If the inbound observables matches against the entries in the list selected will
     3.  **Filtered Object Records**: Filters and lists the object records.
     **Note:** In order to apply the exclusion rules based on tags which are added to the source records, then select **TISC tags** option in the Filter conditions builder.
 
-## Related
 
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[data-sources|Data Sources]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

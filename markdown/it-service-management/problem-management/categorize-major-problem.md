@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-**Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+**Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
--   If the Problem Management Best Practice – Madrid plugin \(com.snc.best\_practice.problem.madrid\) is activated, [[problem-configure-forms|configure the Problem form]] to include the **Major problem** check box and add the **Major problem review** field to the **Resolution Information** tab.
+-   If the Problem Management Best Practice – Madrid plugin \(com.snc.best\_practice.problem.madrid\) is activated, configure the Problem form to include the **Major problem** check box and add the **Major problem review** field to the **Resolution Information** tab.
 -   If the Problem Management Best Practice – Madrid plugin \(com.snc.best\_practice.problem.madrid\) is not activated, add the **Review outcome** field to the **Closure Information** tab.
 
 ## Procedure
@@ -46,7 +46,3 @@ Role required: admin
 
 **Next topic:**[Enable Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/enable-problem-mgmt-models.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-configure-forms|Configure the problem form]]

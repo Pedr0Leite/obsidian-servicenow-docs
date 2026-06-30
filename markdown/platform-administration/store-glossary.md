@@ -12,9 +12,9 @@ breadcrumb: [Reference, ServiceNow Store, Administering applications, Get starte
 
 # ServiceNow Store glossary
 
-Review important terms related to the [[servicenow-store|ServiceNow Store]] to help determine which listings meet your organization's needs.
+Review important terms related to the ServiceNow Store to help determine which listings meet your organization's needs.
 
-**Parent Topic:**[[store-reference|ServiceNow Store reference]]
+**Parent Topic:**[ServiceNow Store reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 
 ## application
 
@@ -62,7 +62,3 @@ Applications and integrations that can be used without additional customization 
 
 A collection of apps that coordinate to add features and capabilities to a ServiceNow AI Platform instance. Products can be obtained through the ServiceNow Store.
 
-## Related
-
-- [[store-reference|ServiceNow Store reference]]
-- [[servicenow-store|ServiceNow Store]]

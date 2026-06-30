@@ -12,7 +12,7 @@ breadcrumb: [Configure the Main node configurations, Configure, Operational Resi
 
 # Main node configuration form
 
-Use the Main node configuration form to [[create-a-main-node-config-record|create a Main node configuration record]] in the [[data-relationship-framework|Data Relationships Framework]].
+Use the Main node configuration form to create a Main node configuration record in the Data Relationships Framework.
 
 ## Main node configuration new record form
 
@@ -28,7 +28,3 @@ Use the Main node configuration form to [[create-a-main-node-config-record|creat
 |Maximum number of nodes|Maximum number of nodes that can be displayed in the map.|
 |Maximum number of levels|Maximum number of levels that are set to be displayed in the map.|
 
-## Related
-
-- [[create-a-main-node-config-record|Create a main node configuration record]]
-- [[data-relationship-framework|Data Relationships Framework]]

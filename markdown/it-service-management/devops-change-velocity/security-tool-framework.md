@@ -16,7 +16,7 @@ breadcrumb: [Additional info - Veracode, Veracode, Integrate, DevOps Change Velo
 
 Security scan results display scan details from security scans configured on your GitHub Actions, Jenkins, Azure DevOps, GitLab, or Harness pipelines.
 
-You can configure security scans in your GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines to retrieve the scan results in [[devops-landing-page-new|DevOps Change Velocity]]. Security inbound events will be created in ServiceNow from the corresponding pipeline run that are then processed to store the scan results. You can view the scan results for each scan that was part of your build or release pipeline executions.
+You can configure security scans in your GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines to retrieve the scan results in DevOps Change Velocity. Security inbound events will be created in ServiceNow from the corresponding pipeline run that are then processed to store the scan results. You can view the scan results for each scan that was part of your build or release pipeline executions.
 
 **Note:** If you want to configure Veracode for the GitLab tool, you can either use the generic Docker container image to add the Veracode security step or perform the steps specified in the [Integrate security tools with GitLab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-security-tool-for-gitlab.md) topic.
 
@@ -43,6 +43,3 @@ The retrieved scan summaries are stored in the following tables:
 
 **Parent Topic:**[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/veracode-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

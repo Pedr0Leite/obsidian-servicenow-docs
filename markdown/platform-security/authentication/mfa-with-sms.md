@@ -14,27 +14,19 @@ breadcrumb: [MFA factor policies, MFA verification methods, Configuring MFA, Mul
 
 # SMS as an MFA factor
 
-[[mfa-landing|Multi-factor authentication]] \(MFA\) with SMS as a factor for your [[c_Authentication|authentication]].
+Multi-factor authentication \(MFA\) with SMS as a factor for your authentication.
 
-Admin can [[configure-servicenow|configure ServiceNow]] instance to require [[users|users]] who attempt to login the instance using SMS based OTP.
+Admin can configure ServiceNow instance to require users who attempt to login the instance using SMS based OTP.
 
-When users attempt to login to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. User's can enter the six-digit verification code that it sent to the mobile device and verify their [[identity-landing|identity]].
+When users attempt to login to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. User's can enter the six-digit verification code that it sent to the mobile device and verify their identity.
 
 You can configure MFA with SMS using the out of the box Twilio as well. For more information, see [Multi-factor authentication Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/multi-factor-authentication-providers.md).
 
 \[Omitted image "mobile-screen-mfa.png"\] Alt text: MFA-SMS
 
-Further the MFA with SMS can be controlled based on the policy input and conditions using [[adaptive-auth-filter-criteria|filter criteria]]. Following are the types of filter criteria:
+Further the MFA with SMS can be controlled based on the policy input and conditions using filter criteria. Following are the types of filter criteria:
 
 -   [IP Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-ip-filter-criteria.md)
 -   [Role Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md)
 -   [Group Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-group-filter-criteria.md)
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[configure-servicenow|Configure ServiceNow]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

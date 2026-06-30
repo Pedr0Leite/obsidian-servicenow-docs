@@ -12,7 +12,7 @@ breadcrumb: [Configuring Model Context Protocol Client, Model Context Protocol C
 
 # Add an MCP server tool to an AI agent
 
-Add an MCP tool to an AI agent in the [[ai-agent-studio|AI Agent Studio]] so that your users can access the MCP server.
+Add an MCP tool to an AI agent in the AI Agent Studio so that your users can access the MCP server.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Select Model Context Protocol Server
 
 </td><td>
 
-The Model Context Protocol Server that you want to add to the tool.**Note:** Verify that the MCP Server is authenticated before adding the MCP tool to an AI agent. If the MCP Server isn’t authenticated, then you receive an error message - "Authentication is needed to display tools. Open the [[view-the-mcp-server-record|MCP server record]] to authenticate."
+The Model Context Protocol Server that you want to add to the tool.**Note:** Verify that the MCP Server is authenticated before adding the MCP tool to an AI agent. If the MCP Server isn’t authenticated, then you receive an error message - "Authentication is needed to display tools. Open the MCP server record to authenticate."
 
 </td></tr><tr><td>
 
@@ -84,9 +84,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -129,9 +129,4 @@ Message to display to users during tool execution.-   In-progress message: Write
 
     A Model Context Protocol tool is added in the Model Context Protocol Tools list on the Add tools and information page.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[view-the-mcp-server-record|MCP server record]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

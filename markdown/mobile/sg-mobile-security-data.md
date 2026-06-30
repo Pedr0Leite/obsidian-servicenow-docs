@@ -23,7 +23,7 @@ Information stored in mobile apps
 -   Databases
     -   User defined instances
     -   Favorite application IDs
-    -   [[sg-mobile-security-push-notif|Push Notifications]]
+    -   Push Notifications
     -   Geolocation updates
     -   Offline data
 -   Preferences stored in mobile apps
@@ -55,7 +55,7 @@ Data in motion is over a secure SSL/TLS channel and encrypted with HTTPS.
 
 ## Offline access and data cache configuration
 
-Choose specific screens and actions to be enabled offline from with [[mab-concept|Mobile App Builder]]. On the mobile device, your users can select offline and choose to “cache data" from Settings. The offline flows that you designate are downloaded and cached to the device.
+Choose specific screens and actions to be enabled offline from with Mobile App Builder. On the mobile device, your users can select offline and choose to “cache data" from Settings. The offline flows that you designate are downloaded and cached to the device.
 
 You can encrypt offline cached data by using native encryption. This encryption expires at a specified period of time. The default is 48 hours or when a user signs out of the mobile app.
 
@@ -63,13 +63,7 @@ Offline data is protected by local-auth and the app PIN that can be optionally e
 
 ## Disabling mobile attachments
 
-You can disable attachments for mobile apps by using access control rules. For more details on this process see [[sg-disable-mobile-attach|Disable attachments in mobile apps]].
+You can disable attachments for mobile apps by using access control rules. For more details on this process see [Disable attachments in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-disable-mobile-attach.md).
 
-**Parent Topic:**[[sg-mobile-security|Device security for ServiceNow Mobile apps]]
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 
-## Related
-
-- [[sg-disable-mobile-attach|Disable attachments in mobile apps]]
-- [[sg-mobile-security|Device security for ServiceNow Mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mab-concept|Mobile App Builder]]

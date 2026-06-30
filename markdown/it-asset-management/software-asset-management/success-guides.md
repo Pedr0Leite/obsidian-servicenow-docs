@@ -14,14 +14,10 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # Success Guides
 
-Use Success Guides, which are part of [[sam-value-builder|Value builder]] tasks, to easily find information about the tasks involved in various set ups and integrations.
+Use Success Guides, which are part of Value builder tasks, to easily find information about the tasks involved in various set ups and integrations.
 
 The instructions in the Success Guides help you do the following:
 
--   Track subscription licenses and proactively [[identify-sav-opp-sg|identify savings opportunities]] for Microsoft 365.For more information, see [Microsoft 365 SaaS License Management success guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-o365-licenses.md).
+-   Track subscription licenses and proactively identify savings opportunities for Microsoft 365.For more information, see [Microsoft 365 SaaS License Management success guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-o365-licenses.md).
 -   Track and license IBM usage by enabling you to configure the connection between the ServiceNow AI Platform and IBM License Metric Tool \(ILMT\) or BigFix Inventory. For more information, see [IBM ILMT setup success guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ilmt-sg.md).
 
-## Related
-
-- [[sam-value-builder|Value builder]]
-- [[identify-sav-opp-sg|Identify savings opportunities]]

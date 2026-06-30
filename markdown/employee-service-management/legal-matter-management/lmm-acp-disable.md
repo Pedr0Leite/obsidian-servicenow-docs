@@ -22,11 +22,11 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
-As a fulfiller or matter owner, you can disable [[lmm-acp-landing|attorney client privilege]] on a legal matter to remove privileged and confidential status. The remove action is available only when the matter is in the Assigned or Work in progress state. You can not change the Privileged and Confidential status of matters in Closed Complete, Closed Incomplete, or Cancelled states.
+As a fulfiller or matter owner, you can disable attorney client privilege on a legal matter to remove privileged and confidential status. The remove action is available only when the matter is in the Assigned or Work in progress state. You can not change the Privileged and Confidential status of matters in Closed Complete, Closed Incomplete, or Cancelled states.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -84,7 +84,3 @@ The state of the legal matter updates to Work in Progress.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[lmm-acp-landing|Attorney Client Privilege]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

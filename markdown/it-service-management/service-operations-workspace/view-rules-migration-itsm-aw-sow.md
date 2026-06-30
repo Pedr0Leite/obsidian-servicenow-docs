@@ -27,7 +27,7 @@ For information about creating a view rule, see [Create a view rule](https://raw
 |Table name|Description|
 |----------|-----------|
 |View Rule \[sysrule\_view\_workspace\]|Contains all view rules.|
-|UX View Rules Configuration \[sys\_ux\_view\_rules\_configuration\]|Contains the view rule configuration that is mapped to the specified configurable workspace. The [[migration-utility|migration utility]] uses the Service Operations Workspace view rules configuration.|
+|UX View Rules Configuration \[sys\_ux\_view\_rules\_configuration\]|Contains the view rule configuration that is mapped to the specified configurable workspace. The migration utility uses the Service Operations Workspace view rules configuration.|
 |Sys Ux M2m Workspace View Rule Ux View Rule Config \[sys\_ux\_m2m\_workspace\_view\_rule\_ux\_view\_rule\_config\]|Contains mapping information between view rules and the view rule configuration. This information helps define and identify rules that are applicable for a workspace.|
 
 ## How the migration utility identifies view rules for migration
@@ -39,7 +39,7 @@ The migration utility for Service Operations Workspace identifies the set of vie
 
 ## How the migration works
 
-The migration utility uses the following sequence to migrate the UI actions from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]]. All these actions are done by the utility.
+The migration utility uses the following sequence to migrate the UI actions from ITSM Agent Workspace to Service Operations Workspace for ITSM. All these actions are done by the utility.
 
 1.  Filters records from View Rule \[sysrule\_view\_workspace\] table for which **workspace** is ITSM Agent Workspace.
 2.  Imports all view rules specified by the View Rule \[sysrule\_view\_workspace\] table in the ITSM Agent Workspace.
@@ -51,11 +51,11 @@ The migration utility uses the following sequence to migrate the UI actions from
     -   **order** is **99999999**.
     **Note:** The fallback view rule is created because, in the ITSM Agent Workspace, the default view for all tables is workspace
 
-    If a view rule isn’t configured for a table, the Service Operations Workspace view rule that is consistent with the ITSM Agent Workspace is [[migrated-records|migrated]].
+    If a view rule isn’t configured for a table, the Service Operations Workspace view rule that is consistent with the ITSM Agent Workspace is migrated.
 
 
 -   **[Perform post-migration tasks for view rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-view-rules.md)**  
-Verify that the view rules in Service Operations Workspace \(SOW\) are consistent with the view rules in ITSM Agent Workspace and are ready for use in SOW. You can update the view rules [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the view rules in Service Operations Workspace \(SOW\) are consistent with the view rules in ITSM Agent Workspace and are ready for use in SOW. You can update the view rules settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -84,9 +84,3 @@ Verify that the view rules in Service Operations Workspace \(SOW\) are consisten
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]

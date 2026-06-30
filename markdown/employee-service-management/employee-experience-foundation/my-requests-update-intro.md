@@ -14,7 +14,7 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # Enhanced Requests Experience
 
-Improve your request management on [[employee-center-landing-page|Employee Center]] with the Enhanced Requests Experience that enables you to find and manage requests effectively.
+Improve your request management on Employee Center with the Enhanced Requests Experience that enables you to find and manage requests effectively.
 
 In the Enhanced Requests Experience, requests are segmented by type. You get the **For you** and the **For others** tabs by default with the Enhanced Requests Experience. You can also configure other tabs as the functionality supports multiple tab interface. If the numbers of tabs exceed the screen size a **Show more requests** button displays the rest of the tabs in a list view.
 
@@ -59,13 +59,9 @@ As an executive assistant, you can view requests that you have created for other
 
 ## Enhanced Requests Experience on Now Mobile app
 
-You can get the Enhanced Requests Experience on the [[mobile-employee-experience|Now Mobile app]], bringing the full request management capabilities from the Employee Center portal to mobile. Employees can view, search, filter, and manage their requests on the go.
+You can get the Enhanced Requests Experience on the Now Mobile app, bringing the full request management capabilities from the Employee Center portal to mobile. Employees can view, search, filter, and manage their requests on the go.
 
 To view the requests on your Now Mobile, you must opt for the mobile experience. For more information, refer to [Opt in to the enhanced Enhanced Requests Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/opt-in-emre.md) and select the Mobile experience.
 
 To know more about the mobile experience, refer to [Enhanced Requests Experience on Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhanced-req-exp-ec-mobile.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

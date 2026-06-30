@@ -18,7 +18,7 @@ Learn how Control Objective Change Agent automates and streamlines updates to co
 
 When a citation is updated, such as changes in security guidelines or regulatory requirements, associated control objectives must also reflect those changes to maintain compliance accuracy.
 
-Control Objective Change Agent is an AI agent that automates this process. It works with the [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]] to identify impacted control objectives and uses the Now Assist panel analyzes citation changes, suggest updates, accepts feedback from the user, and finalizes changes.
+Control Objective Change Agent is an AI agent that automates this process. It works with the Control Objective Impact Analyzer skill to identify impacted control objectives and uses the Now Assist panel analyzes citation changes, suggest updates, accepts feedback from the user, and finalizes changes.
 
 This agent supports multiple Large Language Model \(LLM\) providers, such as Azure OpenAI, Google Gemini, Claude, and LTS.
 
@@ -42,6 +42,3 @@ The Control Objective Change Agent refines control objective updates through the
 -   Automates the process of updating control objective descriptions and supplemental guidance based on changes detected in related citations.
 -   Significantly reduces manual effort and enhances accuracy through AI-driven suggestions combined with user feedback loops.
 
-## Related
-
-- [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]]

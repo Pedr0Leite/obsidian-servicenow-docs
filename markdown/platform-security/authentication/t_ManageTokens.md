@@ -14,7 +14,7 @@ breadcrumb: [OAuth Inbound, OAuth authentication, Authentication, Access Managem
 
 # Manage OAuth tokens
 
-Open [[oauth-inbound-and-outbound|OAuth]] tokens to provide access to restricted resources.
+Open OAuth tokens to provide access to restricted resources.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Token Expiration and Validity is as follows:
     -   **com.snc.platform.security.oauth.hours.expired.credential.is.kept**: Set the value based on your requirement to determine the number of hours you want the keep the expired `oauth` credential in the system.
     -   **com.snc.platform.security.oauth.day.old.credential.is.kept**: Set the value based on your requirement to determine the number of days you want the keep the expired `oauth` credential in the system.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]

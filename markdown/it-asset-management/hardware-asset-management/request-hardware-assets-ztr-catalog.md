@@ -14,7 +14,7 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 # Request a hardware asset through the Zero Touch request flow
 
-Request a hardware asset directly with the external provider through the [[zero-touch-request|Zero Touch request flow]] by ordering the asset from the Service Catalog.
+Request a hardware asset directly with the external provider through the Zero Touch request flow by ordering the asset from the Service Catalog.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: none
 
 Your hardware catalog request is successfully submitted.
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]

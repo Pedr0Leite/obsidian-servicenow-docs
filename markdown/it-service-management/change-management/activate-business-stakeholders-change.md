@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -53,7 +53,7 @@ The Business Stakeholder plugin \(com.snc.business\_stakeholder\) installs the B
 
 [Request ITSM Roles- Change Management]()
 
-[Activate [[c_ITILChangeManagement|Change Management]] - State Model]()
+[Activate Change Management - State Model]()
 
 [Activate Change Management - Collision Detector]()
 
@@ -95,7 +95,3 @@ The Business Stakeholder plugin \(com.snc.business\_stakeholder\) installs the B
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ITILChangeManagement|Change Management]]

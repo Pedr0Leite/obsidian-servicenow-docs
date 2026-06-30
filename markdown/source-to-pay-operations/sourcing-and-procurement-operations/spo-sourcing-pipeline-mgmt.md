@@ -16,27 +16,27 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 Sourcing Pipeline Management \(sn\_spend\_pipeline\) provides a centralized framework for creating, tracking, and executing sourcing initiatives through pipeline projects. It enhances efficiency through automated workflows, improves visibility into project progress, and simplifies savings tracking and forecasting.
 
-Sourcing Managers gain access to a unified pipeline project workspace that consolidates [[negotiation-events|sourcing events]], [[negotiations|negotiations]], and contract management. Each pipeline project includes dedicated tabs for these components, along with UI actions to initiate them directly. All related work, including sourcing requests, is consolidated within the pipeline, providing complete, end-to-end visibility into sourcing activities.
+Sourcing Managers gain access to a unified pipeline project workspace that consolidates sourcing events, negotiations, and contract management. Each pipeline project includes dedicated tabs for these components, along with UI actions to initiate them directly. All related work, including sourcing requests, is consolidated within the pipeline, providing complete, end-to-end visibility into sourcing activities.
 
 **Important:** Check your entitlements to determine whether you have access to Sourcing Pipeline Management.
 
-With the pipeline\_management\_admin role, you can configure the Pipeline project creation rule decision table to automate the creation of pipeline projects. The default pipeline project creation rule automatically creates a pipeline project when the total price of the products being sourced exceeds $250,000. When a sourcing intake request is submitted, a pipeline project is automatically created in the Draft state when the rule conditions are met. The pipeline project is associated with the [[sourcing-request|sourcing request]].
+With the pipeline\_management\_admin role, you can configure the Pipeline project creation rule decision table to automate the creation of pipeline projects. The default pipeline project creation rule automatically creates a pipeline project when the total price of the products being sourced exceeds $250,000. When a sourcing intake request is submitted, a pipeline project is automatically created in the Draft state when the rule conditions are met. The pipeline project is associated with the sourcing request.
 
-For more information about [[use-pipeline-sourcing-mgmt|using Sourcing Pipeline Management]], see [Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md).
+For more information about using Sourcing Pipeline Management, see [Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md).
 
 ## Plugin dependencies
 
 The following are the plugin dependencies that are required to use Sourcing Pipeline Management \(sn\_spend\_pipeline\).
 
 -   Source-to-Pay Common Architecture \(sn\_shop\)
--   [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \(sn\_pr\)
--   [[spo-spend-mgmt|Spend and Savings Management]] \(sn\_spend\_mgmt\)
+-   Sourcing and Purchasing Automation \(sn\_pr\)
+-   Spend and Savings Management \(sn\_spend\_mgmt\)
 
 ## Viewing pipeline projects in the Source-to-Pay Workspace
 
-You can view pipeline projects by navigating to the **Lists** tab in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. Within this tab, pipeline projects are accessible through the **Pipeline projects** sub-module under both the My work and All work modules. Additionally, you can access them via the **Sourcing pipeline: new request** submodule under the Review needed module.
+You can view pipeline projects by navigating to the **Lists** tab in the Source-to-Pay Workspace. Within this tab, pipeline projects are accessible through the **Pipeline projects** sub-module under both the My work and All work modules. Additionally, you can access them via the **Sourcing pipeline: new request** submodule under the Review needed module.
 
-Fulfillers can view their assigned pipeline projects directly in the Work to review panel on the [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]]. Each pipeline project appears in a dedicated tile.
+Fulfillers can view their assigned pipeline projects directly in the Work to review panel on the Source-to-Pay Workspace landing page. Each pipeline project appears in a dedicated tile.
 
 To filter and locate specific pipeline projects, fulfillers can use the All work types filter and select **Pipeline project** from the drop-down list.
 
@@ -51,7 +51,7 @@ When a shopper submits sourcing requests for products, pipeline projects are aut
 -   **[Email notifications for pipeline projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-email-notifications.md)**  
 Sourcing managers receive email notifications when a pipeline project is created automatically, and before its estimated start and end dates.
 -   **[Pipeline management tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-mgmt-tab.md)**  
-The [[pipeline-mgmt-tab|Pipeline management tab]] enables you to get insights into savings and pipeline projects, improving visibility, tracking, and collaboration across teams.
+The Pipeline management tab enables you to get insights into savings and pipeline projects, improving visibility, tracking, and collaboration across teams.
 
 **Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
@@ -78,14 +78,3 @@ The [[pipeline-mgmt-tab|Pipeline management tab]] enables you to get insights in
 
 [Universal Request in Sourcing and Procurement Operations]()
 
-## Related
-
-- [[negotiation-events|Sourcing events]]
-- [[negotiations|Negotiations]]
-- [[sourcing-request|Sourcing request]]
-- [[use-pipeline-sourcing-mgmt|Using Sourcing Pipeline Management]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-ws-landing-page|Source-to-Pay Workspace landing page]]
-- [[pipeline-mgmt-tab|Pipeline management tab]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Create a stockroom
 
-Create [[c_Stockrooms|stockrooms]] to assign places to assets.
+Create stockrooms to assign places to assets.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: inventory\_admin
 
 ## About this task
 
-Stockrooms are separate, standalone entities in the [[am-landing-page|Asset Management]] application. When stock is low on a particular asset, [[c_StockRules|stock rules]] can notify an asset manager, or automatically transfer inventory from one stockroom to another.
+Stockrooms are separate, standalone entities in the Asset Management application. When stock is low on a particular asset, stock rules can notify an asset manager, or automatically transfer inventory from one stockroom to another.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ Action
 
 </td></tr><tr><td id="d359771e136">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
@@ -77,9 +77,3 @@ The stockroom is added to the list shown in the All stockrooms tab.
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[am-landing-page|Asset Management]]
-- [[c_StockRules|Stock rules]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

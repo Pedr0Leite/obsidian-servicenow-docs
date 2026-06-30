@@ -14,9 +14,9 @@ breadcrumb: [Workplace Service Delivery for Mobile, Workplace Service Delivery, 
 
 # Using Workplace Service Delivery for Mobile
 
-Use the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] for making reservations using the [[mobile-employee-experience|Now Mobile app]]. Edit or update reservations, sharing reservation details with workplace users, for wayfinding.
+Use the Workplace Service Delivery for Mobile for making reservations using the Now Mobile app. Edit or update reservations, sharing reservation details with workplace users, for wayfinding.
 
-Use workplace floor maps to find and reserve a space within [[workplace-safety-mgmt-hr|Workplace Core]]. To view the maps, use Mappedin and [[Indoor-mapping|Indoor Mapping]].
+Use workplace floor maps to find and reserve a space within Workplace Core. To view the maps, use Mappedin and Indoor Mapping.
 
 Employees who are part of a waitlist are notified. They receive email notifications and push notifications. For more information, see [Manage and configure reservation waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/subscribe-waitlist-overview.md).
 
@@ -31,11 +31,11 @@ Modify your upcoming reservation or cancel the reservation at any time using the
 5.  [Check in or check out a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/check-in-out-rsv-on-mobile.md)  
 Check in an upcoming reservation or check out an ending reservation using the Now Mobile app.
 6.  [Share your reservation details with other users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/share-rsv-details.md)  
-Share the details of your reservation with a colleague. An email notification is sent to the colleague with the details. The colleague can also [[reservation-portal|make a reservation]] near to your workplace.
+Share the details of your reservation with a colleague. An email notification is sent to the colleague with the details. The colleague can also make a reservation near to your workplace.
 7.  [Scan the QR code to reserve a space](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/scan-qr-code.md)  
 Scan the QR code of a workplace and quickly reserve a space using the Now Mobile app.
 8.  [Work with Location Directory for Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/view-location-directory-mobile.md)  
-Work with Map view and Card view on the Location directory. Search for employees, locations, and neighborhoods. Filter spaces based on reservation status, occupancy status, and space types. [[get-directions-to-a-workplace|Get directions to a workplace]] location or collaborators or a workplace profile user using floor maps. Reserve a space or raise a workplace service request or an issue for a location.
+Work with Map view and Card view on the Location directory. Search for employees, locations, and neighborhoods. Filter spaces based on reservation status, occupancy status, and space types. Get directions to a workplace location or collaborators or a workplace profile user using floor maps. Reserve a space or raise a workplace service request or an issue for a location.
 
 **Parent Topic:**[Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/wsd-mobile-overview.md)
 
@@ -44,11 +44,3 @@ Work with Map view and Card view on the Location directory. Search for employees
 
 [Manage reservation waitlist records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/rsv-planner-subscribe-waitlist.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[reservation-portal|Make a reservation]]
-- [[get-directions-to-a-workplace|Get directions to a workplace]]

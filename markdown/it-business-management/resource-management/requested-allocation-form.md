@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Requested Allocation form
 
-Use Requested Allocation form to create a request for [[c_ResourcePlans|resource plans]] in Planning or Rejected state.
+Use Requested Allocation form to create a request for resource plans in Planning or Rejected state.
 
 <table id="table_df1_q3r_54"><thead><tr><th>
 
@@ -64,7 +64,7 @@ Planned hours
 
 </td><td>
 
-Number of hours to allocate to the requested allocation record.By default, the [Resource Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form.md) on the [[rsrc-plan-form|resource plan form]] are proportionally distributed among all the requested allocations based on the number of working days for each requested allocation record. However, it’s possible to override the planned hours or the FTE.
+Number of hours to allocate to the requested allocation record.By default, the [Resource Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plan-form.md) on the resource plan form are proportionally distributed among all the requested allocations based on the number of working days for each requested allocation record. However, it’s possible to override the planned hours or the FTE.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,3 @@ Planned cost of a demand task in demand currency when the PPM Standard Multicurr
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[rsrc-plan-form|Resource Plan form]]

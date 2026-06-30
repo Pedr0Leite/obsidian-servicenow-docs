@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Automatically assign work to agents by skill, Configure a
 
 # Define a skill determination rule
 
-[[skills-example|Create a skill]] determination rule to tag the German skill to incoming cases from German speakers.
+Create a skill determination rule to tag the German skill to incoming cases from German speakers.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: awa\_admin or admin
 
 Cases that need German speakers are routed to users in Customer Service and Support who have the German skill.
 
-## Related
-
-- [[skills-example|Create a skill]]

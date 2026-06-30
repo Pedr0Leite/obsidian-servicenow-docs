@@ -14,11 +14,11 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Record Producer
 
-A record producer is a specific type of catalog item that allows end users to create task-based records, such as incident records, from the [[service-catalog|service catalog]].
+A record producer is a specific type of catalog item that allows end users to create task-based records, such as incident records, from the service catalog.
 
 Use record producers to provide a better end-user experience instead of using the regular task-based form for creating records. The look and feel of a record producer is similar to that of a catalog item. But the record producer generates a task record such as incident, instead of a requested item.
 
-You can [[t_DefRecProdInSCat|create a record producer]] for tables and database views that are in the same scope as the record producer. You can also create a record producer for tables that allow create access from applications in other scopes.
+You can create a record producer for tables and database views that are in the same scope as the record producer. You can also create a record producer for tables that allow create access from applications in other scopes.
 
 Define a record producer in the service catalog or from the table record.
 
@@ -40,7 +40,3 @@ You can enter data for all records created by the record producer, and redirect 
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[t_DefRecProdInSCat|Create a record producer]]

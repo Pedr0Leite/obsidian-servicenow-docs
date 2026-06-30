@@ -68,14 +68,10 @@ To get started with Walk-up Experience for Customer Service Management, see [Con
 -   **[Walk-up Experience for guest users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-walkup-guest-store-app.md)**  
 The Walk-up Experience application can enable guest users to manage walk-up appointments online from the Consumer Service Portal or Customer Service Portal home page.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
-[[walk-up-experience-user-roles|Walk-up Experience for CSM user roles]]
+[Walk-up Experience for CSM user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/walk-up-experience-user-roles.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[walk-up-experience-user-roles|Walk-up Experience for CSM user roles]]

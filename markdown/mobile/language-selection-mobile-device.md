@@ -16,7 +16,7 @@ There are two areas where you define the language for your ServiceNow mobile app
 
 **Note:** For the optimum user experience, the same language should be used for the instance and the ServiceNow mobile app language.
 
-For a list of supported languages, see [[localization-mobile-device|Localization on mobile devices]].
+For a list of supported languages, see [Localization on mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-mobile-device.md).
 
 ## Defining the ServiceNow instance language
 
@@ -57,7 +57,3 @@ For both the iOS and Android workflows when changing the language for ServiceNow
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[localization-mobile-device|Localization on mobile devices]]

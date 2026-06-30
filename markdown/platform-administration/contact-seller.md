@@ -13,7 +13,7 @@ breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get sta
 
 # Contact a seller
 
-Contact the provider of an app through the [[servicenow-store|ServiceNow Store]] to ask questions about the app and its procurement.
+Contact the provider of an app through the ServiceNow Store to ask questions about the app and its procurement.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ If an app is provided by a partner of ServiceNow, you can contact the provider t
 
 If you have questions about an app offered by ServiceNow, contact your account executive or a ServiceNow sales representative.
 
-**Note:** If your organization uses a federal or regulated instance of the ServiceNow Store, the **Contact Seller** button is unavailable. Instead, navigate to the **Contacts** section of the listing details using the side menu or select **View seller profile**, then use the contact information provided to contact the seller directly. For more information about getting applications in regulated environments, see [[using-regulated-store|Using the ServiceNow Store in a regulated environment]].
+**Note:** If your organization uses a federal or regulated instance of the ServiceNow Store, the **Contact Seller** button is unavailable. Instead, navigate to the **Contacts** section of the listing details using the side menu or select **View seller profile**, then use the contact information provided to contact the seller directly. For more information about getting applications in regulated environments, see [Using the ServiceNow Store in a regulated environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-regulated-store.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ Provide the reason for contacting the seller and your message.
 
 On the guest contact form, fill in the fields.
 
- For a description of the field values, see [[guest-contact-form-fields|Guest contact form fields]].
+ For a description of the field values, see [Guest contact form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guest-contact-form-fields.md).
 
 </td></tr></tbody>
 </table>3.  Select **Send** to submit the form.
@@ -67,8 +67,3 @@ If you contact the seller about a purchase, you might receive an email notificat
 
 Otherwise, the seller responds to you directly using the contact information that's provided in the contact form or that's associated with your Now Support account.
 
-## Related
-
-- [[using-regulated-store|Using the ServiceNow Store in a regulated environment]]
-- [[guest-contact-form-fields|Guest contact form fields]]
-- [[servicenow-store|ServiceNow Store]]

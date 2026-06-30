@@ -14,11 +14,7 @@ breadcrumb: [Password Reset, Manage service capabilities, Extend ServiceNow AI P
 
 # Password Reset reference
 
-[[reference|Reference]] topics provide additional information about the lists and forms that you use to configure and administer [[password-reset-landing-page|Password Reset]].
+Reference topics provide additional information about the lists and forms that you use to configure and administer Password Reset.
 
 To view reference information, check the next topics, such as [Installed with Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/r_InstalledWithPasswordReset.md).
 
-## Related
-
-- [[reference|Reference]]
-- [[password-reset-landing-page|Password Reset]]

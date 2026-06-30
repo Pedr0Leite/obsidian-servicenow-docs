@@ -43,18 +43,13 @@ Role required:
 
 7.  Choose the account for which you want to reuse the address.
 
-    **Note:** You can reuse addresses through non-related accounts from the location form. For more information on the location form, see [[associate-address-account|Associate an address to an account]].\[Omitted image "account\_non\_related.png"\] Alt text: Pop-up window displaying address sharing between non-related accounts form.
+    **Note:** You can reuse addresses through non-related accounts from the location form. For more information on the location form, see [Associate an address to an account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-address-account.md).\[Omitted image "account\_non\_related.png"\] Alt text: Pop-up window displaying address sharing between non-related accounts form.
 
 
 **Related topics**  
 
 
-[[reuse-account-addresses|Reusing addresses between multiple accounts]]
+[Reusing addresses between multiple accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/reuse-account-addresses.md)
 
-[[address-sharing-account-hierarchy|Address sharing through account hierarchy]]
+[Address sharing through account hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/address-sharing-account-hierarchy.md)
 
-## Related
-
-- [[associate-address-account|Associate an address to an account]]
-- [[reuse-account-addresses|Reusing addresses between multiple accounts]]
-- [[address-sharing-account-hierarchy|Address sharing through account hierarchy]]

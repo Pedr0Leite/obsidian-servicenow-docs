@@ -24,7 +24,7 @@ Role required: personalize\_dictionary
 
 2.  Select **Configure Dictionary**
 
-3.  In the **Dependent** field of the [[dictionary-form-ais|dictionary form]], enter the field you want to use for linking to other pages.
+3.  In the **Dependent** field of the dictionary form, enter the field you want to use for linking to other pages.
 
     For example, on the Incident table, you might choose the **number** field.
 
@@ -38,6 +38,3 @@ Role required: personalize\_dictionary
     -   **preview\_selector=true** - enables the toggle button to switch between the editor and preview
     -   **dual\_mode=true** - enables displaying both the editor and the preview simultaneously during edit mode.
 
-## Related
-
-- [[dictionary-form-ais|Dictionary form]]

@@ -14,7 +14,7 @@ breadcrumb: [Schedule actions, Use, Health and Safety Core, Health and Safety, E
 
 # Create a Health and Safety action schedule
 
-Create an action schedule to schedule actions across the organization such as [[exploring-learning-exp|learning]] activities and recurring tasks.
+Create an action schedule to schedule actions across the organization such as learning activities and recurring tasks.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The action scheduler uses the condition builder to create and assign actions to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -58,14 +58,7 @@ The action scheduler uses the condition builder to create and assign actions to 
 -   The action schedule is saved in the Action schedule \[sn\_ohs\_im\_action\_schedule\] table.
 -   The **Actions** tab appears for the action schedule.
 -   In the **Actions** tab, the action scheduler creates and auto-assigns actions based on the condition builder. An action schedule might generate multiple actions for people over time.
--   The created actions appear in the assigned user's **My Tasks** list on both the [[employee-center-landing-page|Employee Center]] and the [[mobile-employee-experience|Now Mobile app]]. From either location, the user can respond to the action and update its status. For information on action form fields, see [Health and Safety action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-form.md).
+-   The created actions appear in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status. For information on action form fields, see [Health and Safety action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-form.md).
 
 **Parent Topic:**[Scheduling Health and Safety actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/scheduling-health-safety-actions.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

@@ -16,10 +16,7 @@ breadcrumb: [Manage categories and tags, Administer PaCE policies, Policy as Cod
 
 Use the Categories option to group your PaCE policies more efficiently. As the policy administrator, you can create and edit any number of categories.
 
-Categories are especially useful for grouping your policies into relevant sections. You can create and [[pace-edit-category|edit categories]] as required, but only one category can be assigned at any one time to a policy.
+Categories are especially useful for grouping your policies into relevant sections. You can create and edit categories as required, but only one category can be assigned at any one time to a policy.
 
 In addition, when creating a policy, the category must be pre-defined to ensure it can be assigned to the policy.
 
-## Related
-
-- [[pace-edit-category|Edit categories]]

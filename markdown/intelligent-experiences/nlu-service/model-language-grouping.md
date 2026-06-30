@@ -14,11 +14,11 @@ breadcrumb: [Multilingual model management, Natural Language Understanding, Enab
 
 # Model language grouping
 
-Language grouping makes it easier to manage your multilingual [[nlu-landing|Natural Language Understanding]] \(NLU\) models. You can review existing language groups and designate new language groups.
+Language grouping makes it easier to manage your multilingual Natural Language Understanding \(NLU\) models. You can review existing language groups and designate new language groups.
 
 ## Language grouping
 
-Language grouping organizes your [[nlu-models|NLU models]] into primary and secondary models, and indicates the primary language and primary model for the group.
+Language grouping organizes your NLU models into primary and secondary models, and indicates the primary language and primary model for the group.
 
 If you have added a new language to a model, a language group is created automatically, so you may already have existing language groups. For more information on adding and translating a new language model, see [Translate a multilingual model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/translate-multilingual-model.md).
 
@@ -39,7 +39,3 @@ The **Group** function opens the page titled **Group what's in these models**. Y
 
 **Note:** The time it takes the system to group your models depends on the number and size of your models.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-models|NLU models]]

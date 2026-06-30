@@ -18,7 +18,7 @@ Connect to your GitHub instance to discover repositories, plans, pipeline defini
 
 ## GitHub integration overview
 
-[[devops-landing-page-new|DevOps Change Velocity]] supports Plan \(Plans\), Code \(Repository\) and Orchestration \(Actions\) capabilities for the GitHub tool.
+DevOps Change Velocity supports Plan \(Plans\), Code \(Repository\) and Orchestration \(Actions\) capabilities for the GitHub tool.
 
 Both GitHub and GitHub Enterprise are supported.
 
@@ -46,7 +46,7 @@ You can connect to GitHub using one of the following authentication methods:
 
 -   [OAuth 2.0 credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/setting-up-github-oauth-dev-ops.md)
     -   If you connect your GitHub instance with OAuth 2.0 credentials for Authorization code, you can use the custom actions from the GitHub marketplace and create secrets to use in workflows. For more information, see [OAuth 2.0 credentials for GitHub Apps - Authorization Code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oauth-auth.md).
-    -   If you connect your GitHub instance with [[dev-ops-github-apps-oath-jwt|OAuth 2.0 credentials for GitHub Apps - JWT]], you can use the custom actions from the GitHub marketplace, create secrets to use in workflows, and GitHub environments to deploy to an environment. For more information, see [OAuth 2.0 credentials for GitHub Apps - JWT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oath-jwt.md). For GitHub repositories under an organization, only one organization can be installed per tool \(i.e - One GitHub App can be installed with One GitHub Org and with One GitHub tool\). If you want to add more organizations, you can create separate tools and apps.
+    -   If you connect your GitHub instance with OAuth 2.0 credentials for GitHub Apps - JWT, you can use the custom actions from the GitHub marketplace, create secrets to use in workflows, and GitHub environments to deploy to an environment. For more information, see [OAuth 2.0 credentials for GitHub Apps - JWT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oath-jwt.md). For GitHub repositories under an organization, only one organization can be installed per tool \(i.e - One GitHub App can be installed with One GitHub Org and with One GitHub tool\). If you want to add more organizations, you can create separate tools and apps.
 
 **Note:** The OAuth Authorization Code &amp; JWT grant types are supported for GitHub &amp; GitHub Enterprise with MID server.
 
@@ -69,7 +69,3 @@ Connect your GitHub instance to discover, configure, and import repositories, pl
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dev-ops-github-apps-oath-jwt|OAuth 2.0 credentials for GitHub Apps - JWT]]

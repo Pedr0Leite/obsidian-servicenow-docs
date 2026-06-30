@@ -16,9 +16,9 @@ Configure the primary scanning capabilities and configuration options for schedu
 
 ## Before you begin
 
-Reference these properties in preparation to [[run-scan-engine|Run your first scan with the Scan Engine]] or to make changes to Scan Engine behavior.
+Reference these properties in preparation to [Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md) or to make changes to Scan Engine behavior.
 
-Role required: Scan Engine admin and [[impact-landing-page|Impact]] admin
+Role required: Scan Engine admin and Impact admin
 
 ## Procedure
 
@@ -125,7 +125,7 @@ Logs any resolved findings as part of the scan and includes them in the View Res
 -   Field name: `scan_findings_limit`
 -   The maximum number of findings that can be generated for each definition during a scan.
 -   The limit is applied per applicable table. For example, if the limit is set to 100, a maximum of 100 findings will be generated for each applicable table.
--   Prevents excessive or redundant findings and optimizes scan [[instance-observer-performance|performance]].
+-   Prevents excessive or redundant findings and optimizes scan performance.
 
 
 </td></tr><tr><td id="d68937e267">
@@ -134,7 +134,7 @@ Logs any resolved findings as part of the scan and includes them in the View Res
 
 </td><td>
 
-By default, technical debt is calculated as a 24-hour day, which allows you to specify a number of hours for a workday. For example, developer workdays can be set to 8 hours instead of 24.**Note:** This is used to calculate various metrics that appear in the [[io-analytics|Analytics]] Dashboards.
+By default, technical debt is calculated as a 24-hour day, which allows you to specify a number of hours for a workday. For example, developer workdays can be set to 8 hours instead of 24.**Note:** This is used to calculate various metrics that appear in the Analytics Dashboards.
 
 </td></tr><tr><td id="d68937e278">
 
@@ -213,31 +213,18 @@ Displays findings on the dashboard where the level of the rule is equal to Revie
 
 </td></tr></tbody>
 </table>
--   **[[teamdev-scanning-properties|Configure scanning properties per persona]]**  
+-   **[Configure scanning properties per persona](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/teamdev-scanning-properties.md)**  
 You can view and configure a variety of information, formatted into lists, that the Scan Engine uses to permit users, team leads, and admins to access content.
--   **[[add-view-scan-engine-related-lists|Configure Scan Engine instance integration settings]]**  
+-   **[Configure Scan Engine instance integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/add-view-scan-engine-related-lists.md)**  
 You can view and configure a variety of information, formatted into lists, that the Scan Engine uses to implement its various scanning types.
--   **[[additional-scan-engine-properties|Configure definition properties]]**  
+-   **[Configure definition properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/additional-scan-engine-properties.md)**  
 You can configure additional capabilities and configuration options for the definition ruleset.
--   **[[configure-real-time-scanning-properties|Configure real-time scanning properties]]**  
+-   **[Configure real-time scanning properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-real-time-scanning-properties.md)**  
 Real-time scanning properties allow control over which users have access to real-time scanning, and how the scan operates within their environment. Perform the following procedure to configure real time scanning properties.
--   **[[exception-reason-properties|Configure exception reason properties]]**  
+-   **[Configure exception reason properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/exception-reason-properties.md)**  
 When real-time enforcement, `enforce_real_time_validation` is set to `true`, Recommend level findings require an approved exception reason before the form can be saved.
--   **[[update-set-scanning-properties|Configure update set scanning properties]]**  
+-   **[Configure update set scanning properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/update-set-scanning-properties.md)**  
 The Scan Engine provides several options to further configure update set scanning and enhance the governance over update set management. Update set scanning occurs during scheduled instance scans. The settings on this tab define which update sets will be scanned, and the parameters those update sets have to meet in order to be marked complete.
 
-**Parent Topic:**[[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]]
+**Parent Topic:**[Activate Scan Engine and review settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-initial-scan-engine-settings.md)
 
-## Related
-
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[teamdev-scanning-properties|Configure scanning properties per persona]]
-- [[add-view-scan-engine-related-lists|Configure Scan Engine instance integration settings]]
-- [[additional-scan-engine-properties|Configure definition properties]]
-- [[configure-real-time-scanning-properties|Configure real-time scanning properties]]
-- [[exception-reason-properties|Configure exception reason properties]]
-- [[update-set-scanning-properties|Configure update set scanning properties]]
-- [[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

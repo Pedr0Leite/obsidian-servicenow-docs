@@ -24,7 +24,7 @@ To access **Mark as not Applicable**: sn\_irm\_cont\_auth.info\_system\_sec\_off
 
 ## GRC Continuous Authorization and Monitoring
 
-GRC: [[grc-cam-landing-page|Continuous Authorization and Monitoring]] quick start tests require activating the Continuous Authorization and Monitoring plugin \(com.sn\_compliance\) and loading the demo data.
+GRC: Continuous Authorization and Monitoring quick start tests require activating the Continuous Authorization and Monitoring plugin \(com.sn\_compliance\) and loading the demo data.
 
 <table id="atf-tests-cam"><thead><tr><th>
 
@@ -86,7 +86,7 @@ SO: Create and validate responsibilities and roles for an AB and AP
 
 </td><td>
 
-Verifies if a system owner can create an Authorization Boundary by completing the [[cam-form-authorization-boundary|fields on the Authorization Boundary form]]. Also verify if the same SO can [[create-auth-package|create an Authorization Package]] from the form view.
+Verifies if a system owner can create an Authorization Boundary by completing the fields on the Authorization Boundary form. Also verify if the same SO can create an Authorization Package from the form view.
 
 </td><td>
 
@@ -156,7 +156,7 @@ Inherit controls from common controls
 
 You can create common controls to which other, subordinate controls can be assigned so they can inherit risk guidance from them. For example, if you have a control that handles an entire facility, you can identify related controls that will inherit protection and compliance from the common control.
 
- To create a common control, select the control, select **Create Common Control**, select **OK** to confirm. For information on allowing a control to [[create-common-control|inherit from a common control]], see [Inherit from a common control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/create-common-control.md).
+ To create a common control, select the control, select **Create Common Control**, select **OK** to confirm. For information on allowing a control to inherit from a common control, see [Inherit from a common control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/create-common-control.md).
 
 </td></tr></tbody>
 </table>3.  Select **Request Approval**.
@@ -165,9 +165,4 @@ You can create common controls to which other, subordinate controls can be assig
 
     To send the package back to the Categorize state, select **Back to previous step**. All baseline controls are removed and the package must receive approval to advance again to the Select state.
 
-## Related
 
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[cam-form-authorization-boundary|Fields on the Authorization Boundary form]]
-- [[create-auth-package|Create an authorization package]]
-- [[create-common-control|Inherit from a common control]]

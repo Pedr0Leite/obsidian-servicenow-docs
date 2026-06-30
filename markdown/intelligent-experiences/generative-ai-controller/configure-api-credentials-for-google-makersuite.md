@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-In order to use Google AI Studio as your LLM provider for [[generative-ai-controller|Generative AI Controller]] capabilities, you must have an active connection configured.
+In order to use Google AI Studio as your LLM provider for Generative AI Controller capabilities, you must have an active connection configured.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ In order to use Google AI Studio as your LLM provider for [[generative-ai-contro
 
 4.  Enter your API key.
 
-    You can find your API key in AI Studio by selecting **Get API Key** from the [[now-assist-global-navigation|navigation]] menu.
+    You can find your API key in AI Studio by selecting **Get API Key** from the navigation menu.
 
 5.  Select **Create**.
 
@@ -53,7 +53,3 @@ You can now use AI Studio \(Google Cloud Chat Completion\) and AI Studio \(Googl
 
 Use your LLM provider to create flows with Flow Designer, topics with Virtual Agent Designer, or scripts to provide the benefits of generative AI to your users.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-global-navigation|Navigation]]

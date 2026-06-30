@@ -14,7 +14,7 @@ breadcrumb: [Mentoring, Growth Experiences, HR Service Delivery, Employee Servic
 
 # Exploring Mentoring
 
-The [[mentoring-egd-overview|Mentoring]] application provides the opportunity for employees to find and build meaningful mentoring relationships to drive employee growth and engagement.
+The Mentoring application provides the opportunity for employees to find and build meaningful mentoring relationships to drive employee growth and engagement.
 
 ## How mentors and mentees are matched
 
@@ -22,7 +22,7 @@ The matching system facilitates high-quality, relevant connections by prioritizi
 
 To establish a successful match, both mentors and mentees first complete comprehensive profiles. The system then utilizes a weighted scoring engine to recommend mentors by calculating how effectively their profiles align with a mentee's professional experience and expressed preferences. The system considers the following characteristics when assessing these skills-based matches:
 
--   **Skill Proficiency**: The algorithm prioritizes a high-quality [[exploring-learning-exp|learning]] experience by comparing the mentor’s expertise against the mentee’s needs. Mentors who meet or exceed the required proficiency levels are favored, while matches with under-qualified individuals are discouraged.
+-   **Skill Proficiency**: The algorithm prioritizes a high-quality learning experience by comparing the mentor’s expertise against the mentee’s needs. Mentors who meet or exceed the required proficiency levels are favored, while matches with under-qualified individuals are discouraged.
 -   **Skill Validation**: To ensure the integrity of the guidance provided, the system boosts the score for mentors with validated expertise. It relies on a history of verified skills to confirm capability and adjusts the score downward for skills that have not yet been assessed.
 -   **Role-Based Relevance**: The engine assesses whether a skill is a core component of the mentor's current professional function. Matches are strengthened when the skill is a requirement of the mentor's role, ensuring that the knowledge being shared is grounded in current, real-world practice.
 -   **Mentorship Preference**: As the most critical factor in the match, the system places heavy emphasis on the mentor's desire to teach. Even if a mentor is highly qualified and uses a skill in their daily role, they will be significantly less likely to be matched for that skill unless they have explicitly listed it as a topic they are interested in teaching
@@ -37,7 +37,7 @@ The system prioritizes mentorship intent to ensure mentees are connected with bo
 
 You can activate the Mentoring from the ServiceNow store. This application includes demo data and activates related plugins if they aren’t already active.
 
-**Note:** Mentoring is available with the [[employee-center-landing-page|Employee Center]] application. Some of the features of Mentoring work only when the [[egd-activities-conversations-module|Career Conversations]] application is activated.
+**Note:** Mentoring is available with the Employee Center application. Some of the features of Mentoring work only when the Career Conversations application is activated.
 
 ## Request apps on the Store
 
@@ -57,12 +57,5 @@ For more information, see [Using Mentoring](https://raw.githubusercontent.com/Se
 
 ## Skills Foundation integration with Mentoring
 
-Mentoring integrates [[skills-intelligence|Skills Foundation]] to skill based recommendations for a mentor/mentee.
+Mentoring integrates Skills Foundation to skill based recommendations for a mentor/mentee.
 
-## Related
-
-- [[mentoring-egd-overview|Mentoring]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[skills-intelligence|Skills Foundation]]

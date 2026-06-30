@@ -24,7 +24,7 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 As a collaborator added to a legal matter, you can access and work on the legal matter just as matter owners can. However, you can't modify the **Matter owner**, **Assignment group**, and **Assignment group permission** fields.
 
-You can track the upcoming milestones in a matter in the **Home** tab of the [[legal-counsel-center-landing|Legal Counsel Center]].
+You can track the upcoming milestones in a matter in the **Home** tab of the Legal Counsel Center.
 
 ## Procedure
 
@@ -80,6 +80,3 @@ A milestone with the specified due date is created.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

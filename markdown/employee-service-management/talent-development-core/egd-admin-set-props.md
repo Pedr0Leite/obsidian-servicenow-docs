@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Set Talent Development Properties
 
-Set properties to control manager skill approvals and [[activity-lxp|activity]] completion flows.
+Set properties to control manager skill approvals and activity completion flows.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Set the following Talent properties:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Administration** &gt; **Properties**.
 
 2.  Select the property settings.
 
@@ -46,7 +46,3 @@ Set the following Talent properties:
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[egd-landing-page|Talent Development Core]]

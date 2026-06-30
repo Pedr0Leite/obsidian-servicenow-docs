@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Graph Workspace, Configuration Management Databa
 
 # Class criteria in Cloud vs Non-cloud resources chart in Service Graph Workspace
 
-The [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] provides counts for several key classes. The chart uses different classes and relationship criteria for each class to determine which resources count as cloud and which count as non-cloud.
+The Cloud vs Non-cloud resources chart provides counts for several key classes. The chart uses different classes and relationship criteria for each class to determine which resources count as cloud and which count as non-cloud.
 
 The Cloud vs Non-cloud resources chart shows in the CI overview tile in the [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md).
 
@@ -161,7 +161,3 @@ N/A \(This table can never have non-cloud records\)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]

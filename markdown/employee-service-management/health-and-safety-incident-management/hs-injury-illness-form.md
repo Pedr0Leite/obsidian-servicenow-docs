@@ -39,7 +39,7 @@ Person type
 Type of the person who's injured or ill.-   **Employee**: An employee of the organization where this injury happened.
 -   **Visitor**: A person from outside the organization who came to the site as a visitor.
 -   **Public**: A person from public who was present at the site of safety incident or observation.
--   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \(sn\_hs\_crm\) application is installed on your instance.
+-   **Contractor**: A contract worker from a contractor company who came to the site to perform required tasks. This option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance.
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Visitor
 
 Name of the visitor who's injured or ill.This field appears only when **Visitor** is selected from **Person type**.
 
-**Note:** This field only lists visitors who have [[health-safety-overview|Health and Safety]] profile assigned to them. For more information, see [Add a Health and Safety visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md).
+**Note:** This field only lists visitors who have Health and Safety profile assigned to them. For more information, see [Add a Health and Safety visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md).
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ OSHA injury type
 
 </td><td>
 
-Type of the injury or illness.This field appears only when the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
+Type of the injury or illness.This field appears only when the Health and Safety Incident Management OSHA Content Pack \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
 
 </td></tr><tr><td>
 
@@ -253,7 +253,7 @@ HRSD case record
 
 HR case related to this injury.This field appears only when the following conditions are met:
 
--   [[hs-case-management-landing-page|Health and Safety Case Management]] \(sn\_hs\_cm\) application and the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin are installed on your ServiceNow instance.
+-   Health and Safety Case Management \(sn\_hs\_cm\) application and the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin are installed on your ServiceNow instance.
 -   Safety case manager \[sn\_hs\_cm.case\_manager\] role assigned to you.
 -   **Employee** is selected in the **Person type** field.
 
@@ -330,9 +330,3 @@ Section where you can add attachments related to this injury and illness.If this
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
-## Related
-
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[hs-case-management-landing-page|Health and Safety Case Management]]

@@ -12,9 +12,9 @@ breadcrumb: [Guided Decisions configuration, Agent tools, Organize agent workspa
 
 # Example configuration of a decision tree
 
-This example demonstrates an end-to-end configuration of a decision tree to help you get started with Guided Decisions. After you configure the decision tree, you can either embed it in a playbook or use it as a recommendation in [[configure-nba|Recommended Actions]].
+This example demonstrates an end-to-end configuration of a decision tree to help you get started with Guided Decisions. After you configure the decision tree, you can either embed it in a playbook or use it as a recommendation in Recommended Actions.
 
-For more information about decision trees, see [[decision-trees-in-guided-decisions|Decision trees in Guided decision]] and [[configuring-guided-decisions|Configuring guidances and decision trees]].
+For more information about decision trees, see [Decision trees in Guided decision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-guided-decisions.md) and [Configuring guidances and decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-guided-decisions.md).
 
 ## Troubleshooting a failed credit card transaction
 
@@ -26,12 +26,5 @@ In this scenario, the agent assigned to the Paul’s case uses a decision tree t
 
 ## Creating the decision tree to troubleshoot the failed transaction
 
-Learn how process analysts or business owners create a decision tree, and configure various [[guided-decision-tree-node-types|decision tree nodes]] in the [[preparation-for-creating-a-decision-tree|next pages]].
+Learn how process analysts or business owners create a decision tree, and configure various decision tree nodes in the [next pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/preparation-for-creating-a-decision-tree.md).
 
-## Related
-
-- [[decision-trees-in-guided-decisions|Decision trees in Guided decision]]
-- [[configuring-guided-decisions|Configuring guidances and decision trees]]
-- [[preparation-for-creating-a-decision-tree|Preparation for creating a decision tree]]
-- [[configure-nba|Recommended Actions]]
-- [[guided-decision-tree-node-types|Decision tree nodes]]

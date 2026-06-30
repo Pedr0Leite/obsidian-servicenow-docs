@@ -34,7 +34,7 @@ Use the paperclip icon to drag files into a post. Additionally, you can [paste i
 
 2.  To add more files, drag-and-drop additional files into the text box below the displayed files or images, or click the plus sign.
 
-3.  If you want to delete an [[attachment|attachment]] before posting the message, click the trashcan icon adjacent to the attachment.
+3.  If you want to delete an attachment before posting the message, click the trashcan icon adjacent to the attachment.
 
 4.  Enter a comment to share your thoughts about the image.
 
@@ -49,6 +49,3 @@ Use the paperclip icon to drag files into a post. Additionally, you can [paste i
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[attachment|Attachment]]

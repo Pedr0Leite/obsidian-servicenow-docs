@@ -22,7 +22,7 @@ Role required: it\_demand\_manager, it\_demand\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Demands** from the main navigation menu.
 
@@ -30,7 +30,7 @@ Role required: it\_demand\_manager, it\_demand\_user
 
     \[Omitted image "demand-creation-form.png"\] Alt text: Demand creation form.
 
-4.  On the [[demand-form|Demand form]], fill in the fields.
+4.  On the Demand form, fill in the fields.
 
 <table id="table_z3j_l11_h3c"><thead><tr><th>
 
@@ -96,7 +96,3 @@ The preliminary or estimated date when the planned work is expected to be comple
 
 [Update the demand details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-the-demand-details-from-dw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[demand-form|Demand form]]

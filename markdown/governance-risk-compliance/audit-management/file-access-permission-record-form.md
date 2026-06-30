@@ -80,11 +80,7 @@ Access condition
 
 </td><td>
 
-Condition that describes when the [[file-access-permissions|file access permissions]] are applied.
+Condition that describes when the file access permissions are applied.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[file-access-permissions|File access permissions]]

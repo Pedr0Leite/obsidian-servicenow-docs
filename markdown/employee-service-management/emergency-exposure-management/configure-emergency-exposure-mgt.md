@@ -14,7 +14,7 @@ breadcrumb: [Set up Emergency Exposure Management, Emergency Exposure Management
 
 # Configure Microsoft Office 365 for Emergency Exposure Management
 
-Configure [[emergency-exposure-management|Emergency Exposure Management]] by setting the application system properties. If you want to search by Microsoft Office 365 meeting information, you also must register the Microsoft application and configure it.
+Configure Emergency Exposure Management by setting the application system properties. If you want to search by Microsoft Office 365 meeting information, you also must register the Microsoft application and configure it.
 
 ## Before you begin
 
@@ -106,6 +106,4 @@ Role required: admin
 
     5.  Click **Save**.
 
-## Related
 
-- [[emergency-exposure-management|Emergency Exposure Management]]

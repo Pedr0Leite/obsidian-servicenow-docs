@@ -14,12 +14,12 @@ breadcrumb: [Signature workflow for a request, Use, Contract Management Pro for 
 
 # Modify signatories
 
-[[cncore-pause-signature|Modify signatories]] while a signature workflow is in progress.
+Modify signatories while a signature workflow is in progress.
 
 ## Before you begin
 
 -   Configure the system property **maximum\_signature\_pause\_duration** to define the time duration for which the signature workflow is be paused after you select to modify signatories option. The minimum value that can be set is 8 hours and the maximum is 24 hours. For more information, see [Configure signature pause duration when modifying signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-pause-sig-property.md).
--   Modify signatories option is only available for [[lsd-wet-signature-workflows|wet signature workflow]] and Electronic signature workflow with Docusign electronic signature provider integration.
+-   Modify signatories option is only available for wet signature workflow and Electronic signature workflow with Docusign electronic signature provider integration.
 
 Role required: sn\_cm\_core.contract\_fulfiller
 
@@ -42,7 +42,7 @@ Use the **Modify signatories** option to pause the signature process when you wa
 3.  Select **Modify signatories**.
 
     -   The Contract Status updates to Signature Paused.
-    -   The [[activity-lxp|activity]] stream records the modify signatories action.
+    -   The activity stream records the modify signatories action.
 4.  Select **Modify** on the confirmation screen.
 
 5.  Navigate to **Signatories** tab.
@@ -123,8 +123,3 @@ Resume the paused signature process with the modified signatories.
 
 **Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)
 
-## Related
-
-- [[cncore-pause-signature|Modify signatories]]
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]
-- [[activity-lxp|Activity]]

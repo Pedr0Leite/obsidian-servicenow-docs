@@ -18,7 +18,7 @@ Use this dashboard to get an overview of the current status of open reports.
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[change|Change dashboard]] to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change.md) to view, and track the open changes.
 
 \[Omitted image "change-open-changes-reports-list.png"\] Alt text: Open Changes List filtered on change category, priority, state, and type
 
@@ -36,6 +36,3 @@ Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[
 
 **Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[change|Change dashboard]]

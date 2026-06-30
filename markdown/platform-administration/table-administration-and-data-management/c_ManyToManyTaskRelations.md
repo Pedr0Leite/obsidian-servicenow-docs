@@ -27,7 +27,7 @@ Create type codes that define the relationship between parent and child tasks.
 -   **[Define a task relationship allowed from the task relationship type record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_DefineATaskRelationshipAllowed.md)**  
 Define the Task Relationships Allowed from the Task Relationship Type record.
 -   **[Modify the displayed field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ModifyTheDisplayedField.md)**  
-The list view of the [[c_ReferenceLookup|Reference Lookup]] defines the fields displayed in the Task Relations field and editing interface.
+The list view of the Reference Lookup defines the fields displayed in the Task Relations field and editing interface.
 -   **[Mark as Solution button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_MarkAsSolutionButton.md)**  
 The **Mark as Solution** button is added to the KB popup view and displayed when you search the knowledge base from a task record.
 -   **[Task relationships with UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_UIActions.md)**  
@@ -35,6 +35,3 @@ After defining task relationships, you can use UI Actions to define the task rel
 
 **Parent Topic:**[Working with the Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTable.md)
 
-## Related
-
-- [[c_ReferenceLookup|Reference lookup]]

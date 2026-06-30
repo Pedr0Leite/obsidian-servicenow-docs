@@ -10,9 +10,9 @@ reading_time_minutes: 1
 
 # Notifications in Hiring Experiences
 
-Notifications in Hiring Experiences help the [[hiring-tab-concept|hiring]] manager, the recruiter, and the applicant keep abreast of any significant development in the hiring process.
+Notifications in Hiring Experiences help the hiring manager, the recruiter, and the applicant keep abreast of any significant development in the hiring process.
 
-Use the email and the [[va-notification-ta|Virtual Agent notifications]] within the [[hiring-experiences-landing|Hiring Experiences]] suite. Stay updated on recent changes made to your job requisitions as a hiring manager or a recruiter.
+Use the email and the Virtual Agent notifications within the Hiring Experiences suite. Stay updated on recent changes made to your job requisitions as a hiring manager or a recruiter.
 
 Follow up with your applicants with the Virtual Agent Microsoft Teams chat. For more information, see [Configure Virtual Agent notifications in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-va-ta.md).
 
@@ -21,8 +21,3 @@ Virtual Agent notifications help the hiring manager and the recruiter remain upd
 
 **Parent Topic:**[Hiring Experiences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-frmwrk-ta.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[hiring-experiences-landing|Hiring Experiences]]

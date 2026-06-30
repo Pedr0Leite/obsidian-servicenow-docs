@@ -81,7 +81,7 @@ The Task CI \[task\_ci\] table is extended from the Task \[task\] table and cont
 
 </td></tr><tr><td>
 
-[[task-outage|Task outage]]\[task\_outage\]
+Task outage\[task\_outage\]
 
 </td><td>
 
@@ -97,6 +97,3 @@ Prevent unauthorized access to incident-related tables using deny unless authent
 
 **Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
-## Related
-
-- [[task-outage|Task Outage]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Conversational Integration with Workplace from Facebook,
 
 # Manage Conversational Integration with Workplace from Facebook
 
-Manage your [[mssg-workplace|Conversational Integration with Workplace from Facebook]] application, its branding, and customize the bot-specific messages in your ServiceNow instance after integration.
+Manage your Conversational Integration with Workplace from Facebook application, its branding, and customize the bot-specific messages in your ServiceNow instance after integration.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -36,15 +36,10 @@ Roles required:
 
     When you select **Manage**, you are redirected to the Manage Workplace channel page where you can manage the bots.
 
-4.  Select the Manage Bot icon and select **Manage [[virtual-agent-landing-page|Virtual Agent]]**.\[Omitted image "manage-wrkplc-snow-bot.png"\] Alt text: The Manage Virtual Agent option displays on the Manage bot menu for the Workplace channel.
+4.  Select the Manage Bot icon and select **Manage Virtual Agent**.\[Omitted image "manage-wrkplc-snow-bot.png"\] Alt text: The Manage Virtual Agent option displays on the Manage bot menu for the Workplace channel.
 
     You are redirected to the Bot Messages page where you can create and edit a bot message. For more information, see [Create bot messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-bot-messages.md).
 
 
 **Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-workplace-fb.md)
 
-## Related
-
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

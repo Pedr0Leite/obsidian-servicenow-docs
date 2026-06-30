@@ -17,7 +17,7 @@ breadcrumb: [Reference, Regulatory Change Management, Governance, Risk, and Comp
 
 Different users perform various actions on the alert records based on the type of the alert.
 
-You can view the following types of alerts under the [[list-view-of-reg-alerts|Regulatory Alerts]] module:
+You can view the following types of alerts under the Regulatory Alerts module:
 
 -   All Assigned Alerts: Displays all assigned alerts in the instance where the **Coordinator** field is assigned to an appropriate user.
 -   Unassigned Alerts: Displays the unassigned alerts in the instance where the **Coordinator** field is empty. Mark the Overall impact as No impact, Low, Medium, High, or Critical.
@@ -117,11 +117,7 @@ See the following table for information on the states of regulatory alerts.
 |Closed|Alerts that are not relevant to an organization are in the Closed state. Alerts that have associated tasks that have been completed are also in the Closed state.|
 |Cancelled|Alerts that are in Cancelled state.|
 
-**Note:** The attributes on the alert record are part of the metadata that is given by the third-party regulatory intelligence provider. These attributes help in determining the applicability of the alert to the organization. These records are non-editable in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application.
+**Note:** The attributes on the alert record are part of the metadata that is given by the third-party regulatory intelligence provider. These attributes help in determining the applicability of the alert to the organization. These records are non-editable in the Regulatory Change Management application.
 
 **Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

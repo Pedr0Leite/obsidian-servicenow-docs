@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Journey Accelerator Model Task fields
 
-Managers create to-do tasks that are saved as templates. The templates are stored as a [[journey-accelerator-1|Journey Accelerator]] Model Task.
+Managers create to-do tasks that are saved as templates. The templates are stored as a Journey Accelerator Model Task.
 
 <table id="table_epy_jkx_5qb"><thead><tr><th align="left">
 
@@ -135,6 +135,3 @@ The description of the task that is visible to the users.
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

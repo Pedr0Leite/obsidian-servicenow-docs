@@ -12,7 +12,7 @@ breadcrumb: [Managing per-user subscriptions, Subscription Management, Get start
 
 # Allocate subscriptions in Subscription Management
 
-Give users entitlement to ServiceNow products by allocating subscriptions in [[subscription-management-landing-page-v2|Subscription Management]].
+Give users entitlement to ServiceNow products by allocating subscriptions in Subscription Management.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ If you have manually allocated user-based subscriptions before, you can still ma
 
 All group members are allocated subscriptions, giving each member entitlement to use the product. Subscribed users are updated during a daily scheduled job, so it might take up to a day for the changed to be reflected in Subscription Management.
 
-**Parent Topic:**[[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
+**Parent Topic:**[Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

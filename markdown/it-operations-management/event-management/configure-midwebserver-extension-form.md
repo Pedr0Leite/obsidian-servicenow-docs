@@ -14,7 +14,7 @@ breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operat
 
 # Event Management MID Web Server extension form
 
-Fields in the form for creating or modifying a [[mid-web-server|MID Web Server]] extension.
+Fields in the form for creating or modifying a MID Web Server extension.
 
 <table id="table_od5_flc_bx"><thead><tr><th>
 
@@ -181,6 +181,3 @@ Displays the name of the MID Server on which the extension is running even if th
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

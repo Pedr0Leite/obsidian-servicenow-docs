@@ -40,7 +40,7 @@ Name
 
 </td><td>
 
-Unique meaningful name for the template category. For example, [[workplace-services|Workplace services]].
+Unique meaningful name for the template category. For example, Workplace services.
 
 </td></tr><tr><td>
 
@@ -76,6 +76,3 @@ Option to activate the category.
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]

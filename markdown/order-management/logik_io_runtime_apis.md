@@ -32,7 +32,7 @@ The base URL format for all runtime API calls is `https://<tenant>.<sector>.logi
 
 In Salesforce, you can find the CPQ tenant URL by going into Setup, searching for Custom Settings in the Quick Find box, and then clicking **Manage** next to CPQ Tenant.
 
-Runtime API calls are authenticated through a combination of a bearer token and the defined origin in the runtime client. The origins of the runtime application are specified when a runtime client is created in the [[cpq-admin-settings|CPQ Admin settings]].
+Runtime API calls are authenticated through a combination of a bearer token and the defined origin in the runtime client. The origins of the runtime application are specified when a runtime client is created in the CPQ Admin settings.
 
 To authorize these API calls, you must add two headers to the each runtime API request:
 
@@ -107,7 +107,7 @@ Sample payload:
       "configuredProductId": "<Id of a Logik.io Enabled Product>", 
     }
   },
-  "[[fields|fields]]": []
+  "fields": []
 }
 ```
 
@@ -138,7 +138,7 @@ Sample response:
   "productChange": true,
   "products": [<ARRAY OF PRODUCTS IN CONFIGURATION>],
   "total": 30,
-  "[[layouts|layouts]]": [<ARRAY OF LAYOUTS>]
+  "layouts": [<ARRAY OF LAYOUTS>]
 }
 ```
 
@@ -376,9 +376,9 @@ Saving a configuration is a subset of the update configuration. It requires a co
 
 **Note:** The only difference between a normal update call and a save call is the addition of the query parameter **save=true** in the URL. If set to false or excluded, this is a normal update call.
 
-If you are using Salesforce as a backend, when the save API is called, CPQ asynchronously creates and populates the CPQ custom objects Configuration Field Data [[cpq-sets|Sets]] and Configuration Line Items with the appropriate data.
+If you are using Salesforce as a backend, when the save API is called, CPQ asynchronously creates and populates the CPQ custom objects Configuration Field Data Sets and Configuration Line Items with the appropriate data.
 
-If your CPQ instance has a webhook configured, when the save API is called, the data is sent to the endpoint specified in the webhook setting. See [[cpq-webhooks|Webhooks]].
+If your CPQ instance has a webhook configured, when the save API is called, the data is sent to the endpoint specified in the webhook setting. See [Webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md).
 
 **Note:** This ends the configuration session. Further edits or updates to the configuration must be started from the create configuration or reconfigure API calls.
 
@@ -616,13 +616,5 @@ N/A
     ]}
 ```
 
-For information about additional configuration APIs and sample scenarios, see [[logik_io_additional_configuration_apis|Additional configuration APIs]].
+For information about additional configuration APIs and sample scenarios, see [Additional configuration APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io_additional_configuration_apis.md).
 
-## Related
-
-- [[cpq-webhooks|Webhooks]]
-- [[logik_io_additional_configuration_apis|Additional configuration APIs]]
-- [[cpq-admin-settings|CPQ admin settings]]
-- [[fields|Fields]]
-- [[layouts|Layouts]]
-- [[cpq-sets|Sets]]

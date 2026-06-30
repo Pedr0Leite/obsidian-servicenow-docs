@@ -26,12 +26,9 @@ Field descriptions for the All compute assets list in Cloud Asset Explorer, whic
 |**Owner**|User or team responsible for the asset.|
 |**Security Findings**|Number of security findings detected for the asset.|
 |**First discovered**|Date and timestamp when the system first discovered the asset.|
-|**Last discovered**|Date and timestamp of the most recent [[r-discovery|discovery]] scan that detected the asset.|
+|**Last discovered**|Date and timestamp of the most recent discovery scan that detected the asset.|
 |**Last ownership attestation**|Date and timestamp of the most recent ownership attestation completed for the asset.|
 |**Cost center**|Cost center assigned to the asset for financial tracking and chargeback purposes.|
 
 **Note:** Duplicate LDC entries no longer appear in the **Region** filter. After upgrading your instance to the latest version, the **Region** filter may be empty until the background job completes its initial run. Depending on data volume, this can take several hours. The job runs approximately every 30 minutes automatically.
 
-## Related
-
-- [[r-discovery|Discovery]]

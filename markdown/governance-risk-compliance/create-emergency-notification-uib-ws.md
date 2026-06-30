@@ -20,7 +20,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **[[crisis-management-uib|Crisis events]]** in the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis events** in the list view.
 
 2.  Select the record in the **Pending** state.
 
@@ -36,7 +36,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
 
 5.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[create-new-notification-form|Create New Notification form]].
+    For more information on the fields in the form, see [Create New Notification form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-notification-form.md).
 
 6.  To save the notification and send it later, select **Save**.
 
@@ -72,11 +72,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
 -   **[Create New Notification form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-notification-form.md)**  
 Use the Create New Notification form in BCM UIB Workspace to add details about an emergency notification.
 
-**Parent Topic:**[[ebn-collective-tasks|Sending notifications with Everbridge]]
+**Parent Topic:**[Sending notifications with Everbridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ebn-collective-tasks.md)
 
-## Related
-
-- [[create-new-notification-form|Create New Notification form]]
-- [[ebn-collective-tasks|Sending notifications with Everbridge]]
-- [[crisis-management-uib|Crisis events]]
-- [[list-view-uib-ws|List view]]

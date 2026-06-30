@@ -31,25 +31,17 @@ Agentic Contact Center for Banking equips bank customer service representatives 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review the details on the [[components-installed-with-dispute-rules-content-pack-for-mastercard|components installed]] in this application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review the details on the components installed in this application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-reference.md)
 
 </td></tr></tbody>
-</table>-   **[[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]**  
+</table>-   **[Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)**  
 Learn more about how Agentic Contact Center for Banking enables customer service representatives \(CSRs\) to handle calls more efficiently, reduce research time, and improve interaction quality.
--   **[[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]**  
+-   **[Configuring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-agentic-contact-center-for-banking.md)**  
 Configure Agentic Contact Center for Banking by integrating your CCaaS provider, setting up AI-powered customer profile and contextual summarization, and enabling AI agents with knowledge graph tags and knowledge base articles.
--   **[[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]**  
+-   **[Using Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-agentic-contact-center-for-banking.md)**  
 Learn about the tasks customer service representatives perform in Agentic Contact Center for Banking to manage banking interactions with AI-powered assistance, review customer financial summaries, handle interactions, and generate persona-based customer insights.
--   **[[agentic-contact-center-for-banking-reference|Agentic Contact Center for Banking reference]]**  
+-   **[Agentic Contact Center for Banking reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-reference.md)**  
 Learn about the components and properties that are installed with Agentic Contact Center for Banking.
 
-**Parent Topic:**[[fso-overview|Financial Services]]
+**Parent Topic:**[Financial Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-overview.md)
 
-## Related
-
-- [[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]
-- [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
-- [[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-reference|Agentic Contact Center for Banking reference]]
-- [[fso-overview|Financial Services]]
-- [[components-installed-with-dispute-rules-content-pack-for-mastercard|Components installed]]

@@ -14,7 +14,7 @@ breadcrumb: [Task Intelligence for ITSM, IT Service Management]
 
 # Exploring Task Intelligence for ITSM
 
-With [[c-itsm-task-intelligence|Task Intelligence for ITSM]], you can set up and deploy machine learning [[c_Models|models]] to predict field-level recommendations and identify similar records for incidents, which will appear as actionable recommendations in the side panel.
+With Task Intelligence for ITSM, you can set up and deploy machine learning models to predict field-level recommendations and identify similar records for incidents, which will appear as actionable recommendations in the side panel.
 
 ## Task Intelligence for ITSM overview
 
@@ -22,7 +22,7 @@ Task Intelligence for ITSM enables you to create, configure, and deploy solution
 
 Task Intelligence for ITSM provides the following types of prediction models:
 
--   Incident Categorization model - Predicts incident field information to categorize incidents and [[dex-workspace-application-tab|applications]] such as Service Operations Workspace. For more information, see [Create an incident prediction model in Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/create-incident-prediction-model.md).
+-   Incident Categorization model - Predicts incident field information to categorize incidents and applications such as Service Operations Workspace. For more information, see [Create an incident prediction model in Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/create-incident-prediction-model.md).
 -   Similar Incidents model: Predicts similar incidents by recognizing similarities between two types of tables by comparing their fields.
 -   Similar open Change Requests for Incidents model: Predicts change requests by recognizing the similarities between the incident table and change request table, by comparing their fields.
 -   Similar open Problems for Incidents model: Predicts problems by recognizing the similarities between the incident table and problem table, by comparing their fields.
@@ -69,8 +69,3 @@ Task Intelligence for ITSM provides the following benefits:
 |Monitor the performance results of the model.|[Monitoring and Analytics for Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/task-intel-monitor-analystics.md)|Analyst|
 |Edit the incident prediction model based on the performance results and deploy again.|[Edit an incident prediction model in Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/edit-your-model.md)|Administrator|
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[c_Models|Models]]
-- [[dex-workspace-application-tab|Applications]]

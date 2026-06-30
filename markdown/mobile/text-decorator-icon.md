@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On your instance, navigate to **System Mobile** &gt; **[[mobile-ui-styles|Mobile UI Styles]]**.
+1.  On your instance, navigate to **System Mobile** &gt; **Mobile UI Styles**.
 
 2.  In the **UI Styles** list, click the **New** button.
 
@@ -100,11 +100,7 @@ This example demonstrates how to apply a text decorator icon to all records on a
 
 \[Omitted image "text-decor-ui-style.png"\] Alt text: UI style configuration for a text decorator icon.
 
-This example applies to the **State** element of the **Incident [[list-screen|List Screen]] Item View** UI style. The condition field has been set, so the icon only appears for records in the **New** state. The icon is located on the **Icon** \[sys\_sg\_icon\] table.
+This example applies to the **State** element of the **Incident List Screen Item View** UI style. The condition field has been set, so the icon only appears for records in the **New** state. The icon is located on the **Icon** \[sys\_sg\_icon\] table.
 
 \[Omitted image "text-decor-result.png"\] Alt text: List of incidents displaying an icon for records in the New state.
 
-## Related
-
-- [[mobile-ui-styles|Mobile UI styles]]
-- [[list-screen|List screen]]

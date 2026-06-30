@@ -20,7 +20,7 @@ Role required: personalize\_dictionary or admin
 
 ## About this task
 
-You can also change itil\_admin to any other role on a [[reference-email-admin|reference]] field that refers to the User \[sys\_user\] table.
+You can also change itil\_admin to any other role on a reference field that refers to the User \[sys\_user\] table.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ You can also change itil\_admin to any other role on a [[reference-email-admin|r
 
     ```
     // Return an array of sys_ids of the users that have at least one role
-    // optional [[r_DirectJDBCProbeParameters|parameters]] allow the exclusion (NOT IN) of some roles or
+    // optional parameters allow the exclusion (NOT IN) of some roles or
     // look for specific roles (IN)
     //
     // optional: queryCondition - 'IN' or 'NOT IN'
@@ -82,7 +82,4 @@ You can also change itil\_admin to any other role on a [[reference-email-admin|r
     }
     ```
 
-## Related
 
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

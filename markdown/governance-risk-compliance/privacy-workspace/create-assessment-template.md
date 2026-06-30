@@ -27,10 +27,10 @@ Using the privacy assessment capability, you can create various types of assessm
 The following capabilities are provided to configure the assessments:
 
 -   Mapping control objectives to the responses of the question.
--   Mapping [[information-objects|information objects]] to the responses of the question.
+-   Mapping information objects to the responses of the question.
 -   Mapping the processing activity fields to the responses of the questions.
 
-While configuring the assessments, consider the following [[tprm-terminology|terminology]]:
+While configuring the assessments, consider the following terminology:
 
 -   Metric type refers to the assessment template.
 -   Metric category refers to the section label in the assessment.
@@ -38,7 +38,7 @@ While configuring the assessments, consider the following [[tprm-terminology|ter
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **New Assessment Template**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **New Assessment Template**.
 
 2.  On the form, fill in the fields.
 
@@ -291,7 +291,7 @@ To map assessment responses to a processing activity, see [Map the processing ac
 To publish a new version of an existing privacy assessment template, see [Create a version of a privacy assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-new-smart-asmt-version.md).
 
 -   **[Write a processing activity script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-a-processing-activity-script.md)**  
-Write custom scripts on the [[airc-assessment-templates|assessment templates]] to update the processing activity fields using a script. The script runs when the assessment response is completed. You can write multiple scripts for both screening assessments and impact assessments.
+Write custom scripts on the assessment templates to update the processing activity fields using a script. The script runs when the assessment response is completed. You can write multiple scripts for both screening assessments and impact assessments.
 -   **[Map a control objective to a question response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/relate-control-objectives-to-ropa.md)**  
 Map the control objectives to the responses of the assessment questions to automatically create and apply the respective controls on the processing activity.
 -   **[Map an information object to a question response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/relate-io-to-ropa.md)**  
@@ -308,9 +308,3 @@ Map some of the processing activity fields with the responses of the assessment 
 
 [Smart assessments in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/smart-assessments-in-privacy-management.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[tprm-terminology|Terminology]]
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

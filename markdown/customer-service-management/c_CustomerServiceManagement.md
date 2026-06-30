@@ -31,7 +31,7 @@ The ServiceNow® Customer Service Management enables you to provide the service 
 
 </td><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: See how agents and managers can use Customer Service Management to create, route, and [[manage-cases|manage cases]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-csm.md)
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: See how agents and managers can use Customer Service Management to create, route, and manage cases.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-csm.md)
 
 </td><td>
 
@@ -39,15 +39,15 @@ The ServiceNow® Customer Service Management enables you to provide the service 
 
 </td></tr><tr><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get additional information about Customer Service Management cases, including the [[migration-lists|lists]], [[migration-forms|forms]], [[gamification-components-rules|rules]], components, parameters, roles, and personas.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get additional information about Customer Service Management cases, including the lists, forms, rules, components, parameters, roles, and personas.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-reference.md)
 
 </td><td>
 
-[Allocate \[Omitted image "bus-optimize-manage.svg"\] Alt text:Use workforce [[optimization|optimization]] to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md)
+[Allocate \[Omitted image "bus-optimize-manage.svg"\] Alt text:Use workforce optimization to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md)
 
 </td><td>
 
-[Automate\[Omitted image "bus-artificial-[[intelligence-csm|intelligence]].svg"\] Alt text:Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md)
+[Automate\[Omitted image "bus-artificial-intelligence.svg"\] Alt text:Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -58,11 +58,3 @@ The ServiceNow® Customer Service Management enables you to provide the service 
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[manage-cases|Manage cases]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[gamification-components-rules|Rules]]
-- [[optimization|Optimization]]
-- [[intelligence-csm|Intelligence]]

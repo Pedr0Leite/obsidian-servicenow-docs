@@ -14,7 +14,7 @@ breadcrumb: [Respond to assessments, Manage, Smart Assessment Engine, Governance
 
 # Respond to an assessment
 
-Respond to an assessment that has been assigned to your queue. Your responses to the assessment help with making informed decisions and taking targeted actions by using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Respond to an assessment that has been assigned to your queue. Your responses to the assessment help with making informed decisions and taking targeted actions by using the Smart Assessment Engine application.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ When you’re assigned a task to respond to an assessment, you submit your respo
 
 6.  Select **Submit**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

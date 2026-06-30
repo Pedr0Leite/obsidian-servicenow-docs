@@ -14,11 +14,11 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Map preview
 
-Use theMap Preview to display maps and test directions that you have created in the [[Indoor-mapping|Indoor Mapping]] Map Studio. Testing directions will ensure that directions graphs in wayfinding works as expected for employees and visitors.
+Use theMap Preview to display maps and test directions that you have created in the Indoor Mapping Map Studio. Testing directions will ensure that directions graphs in wayfinding works as expected for employees and visitors.
 
 ## Before you begin
 
-**Note:** Step by step directions for wayfinding within workplaces are only available on the [[mobile-employee-experience|Now Mobile app]].
+**Note:** Step by step directions for wayfinding within workplaces are only available on the Now Mobile app.
 
 Role required: map admin, map editor, map editor limited
 
@@ -71,7 +71,3 @@ Role required: map admin, map editor, map editor limited
 
 **Next topic:**[Print a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/print-map.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[mobile-employee-experience|Now Mobile app]]

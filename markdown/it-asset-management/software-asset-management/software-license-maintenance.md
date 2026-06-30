@@ -25,7 +25,7 @@ Manage and optimize your software maintenance spend by:
 
 ## Determining expiring maintenance entitlements
 
-ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] Professional helps you keep a track of all expiring maintenance entitlements using the [[sam-workspace|Software Asset Workspace]]. You can track your entitlements by navigating to **All** &gt; **Software Asset** &gt; **Software Asset Workspace** &gt; **Expiring maintenance and subscriptions**. This tracking ability enables SAM managers to get an overall view of all their expiring maintenance entitlements and take required action.
+ServiceNow Software Asset Management Professional helps you keep a track of all expiring maintenance entitlements using the Software Asset Workspace. You can track your entitlements by navigating to **All** &gt; **Software Asset** &gt; **Software Asset Workspace** &gt; **Expiring maintenance and subscriptions**. This tracking ability enables SAM managers to get an overall view of all their expiring maintenance entitlements and take required action.
 
 ## Maintenance for Microsoft
 
@@ -36,7 +36,7 @@ Microsoft provides several benefits such as access to the latest software versio
 ServiceNow Software Asset Management Professional leverages these benefits while licensing Microsoft products in the following ways:
 
 -   New version rights: With access to the latest version of a Microsoft product, SA users can upgrade their product licenses at zero additional cost. Also, there’s no need for tracking or reassigning covered licenses based only on the software version. Software Asset Management Professional adds version support using the following mechanisms:
-    -   Automatic application of new version: If a software entitlement with active SA is associated with a newer version software model, Software Asset Management Professional automatically upgrades the entitlement and associates it with the latest version software model. Also, these changes are saved on the Upgrade History related list. For more information on [[c_CreatingSoftwareModels|software models]] and versions, see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
+    -   Automatic application of new version: If a software entitlement with active SA is associated with a newer version software model, Software Asset Management Professional automatically upgrades the entitlement and associates it with the latest version software model. Also, these changes are saved on the Upgrade History related list. For more information on software models and versions, see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
     -   Management of software entitlement: Microsoft supplies publisher part number \(PPN\) with SA coverage without any version assigned for the product. Thus, there's a risk of incorrect assignment of SA benefits to all versions of Microsoft products. ServiceNow Software Asset Management Professional determines the latest software version released by Microsoft on or before the expiry date of the SA coverage, selects the software model with the correct version, and associates the entitlement to the same. Also, these changes are saved on the Upgrade History Entitlement section.
 -   License mobility benefits: License Mobility provides the flexibility to manage licensing on premise \(in high-density virtualized environments\), or on cloud environments \(AWS or Azure\) using Azure Hybrid Benefits \(AHB\). For more information on license mobility, see Microsoft [documentation](https://download.microsoft.com/download/7/9/b/79bd917e-760b-48b6-a266-796b3e47c47a/License-Mobility-through-Software-Assurance-Customer-Licensing-Guide.pdf).
 
@@ -94,8 +94,3 @@ The Per Core \(with CAL\) metric licensing model is followed by various Microsof
 
 [Impact of different license types on software reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/license-types-impact-reconciliation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

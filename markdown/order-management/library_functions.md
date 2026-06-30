@@ -12,7 +12,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 # Library functions
 
-Library functions can speed implementation and reduce maintenance costs by enabling code reuse across [[rules_101|rules]].
+Library functions can speed implementation and reduce maintenance costs by enabling code reuse across rules.
 
 Library functions enable efficient code reuse across rules and enrichments. They are designed to minimize redundant logic, speed up implementation, and reduce maintenance costs, especially in complex scenarios that involve high-SKU or physics-driven configurations.
 
@@ -26,7 +26,7 @@ Configurable parameters: Define input parameters with data types and default val
 
 Customized output: Specify return types.
 
-Callable across modules: Library functions are callable in both the configurator and [[transaction-manager|Transaction Manager]].
+Callable across modules: Library functions are callable in both the configurator and Transaction Manager.
 
 Managed table queries: Library functions support managed table lookups.
 
@@ -36,7 +36,7 @@ Submit a support ticket to enable library functions.
 
 **Note:** Submit a support ticket by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
-Once library functions are enabled, turn on the new UI by navigating to **[[cpq-utilities|Utilities]]** &gt; **Settings** &gt; **Admin Version** &gt; **New**, and clicking **Save**.
+Once library functions are enabled, turn on the new UI by navigating to **Utilities** &gt; **Settings** &gt; **Admin Version** &gt; **New**, and clicking **Save**.
 
 This setting can be toggled at any time.
 
@@ -81,12 +81,6 @@ Calling the function:
 
 ## General guidelines
 
--   When a library function changes, redeploy the affected [[blueprints|blueprints]].
+-   When a library function changes, redeploy the affected blueprints.
 -   When defining a function, name and describe its inputs to provide visibility into its usage.
 
-## Related
-
-- [[rules_101|Rules]]
-- [[transaction-manager|Transaction Manager]]
-- [[cpq-utilities|Utilities]]
-- [[blueprints|Blueprints]]

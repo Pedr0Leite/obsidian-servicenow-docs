@@ -12,9 +12,5 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Email Interaction for CSM reference
 
-Lookup data and configuration details for [[email-as-an-interaction|Email Interaction]] for CSM. Use these references when setting up or managing email interactions in [[c_CustomerServiceManagement|Customer Service Management]].
+Lookup data and configuration details for Email Interaction for CSM. Use these references when setting up or managing email interactions in Customer Service Management.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

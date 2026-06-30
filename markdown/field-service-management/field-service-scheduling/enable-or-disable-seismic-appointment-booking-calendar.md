@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Enable or disable seismic appointment booking calendar
 
-Use the seismic [[appointment-booking|appointment booking]] calendar across all user interfaces to ensure a consistent and seamless scheduling experience.
+Use the seismic appointment booking calendar across all user interfaces to ensure a consistent and seamless scheduling experience.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Enhance scheduling support for appointment slot recommendations, customized them
 
 Users will experience appointment scheduling based on your configuration setting.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

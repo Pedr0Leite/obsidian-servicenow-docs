@@ -58,7 +58,7 @@ User B:
 1.  Sets Update Set B to the current update set.
 2.  Checks out Workflow B.
 3.  Includes Workflow A as a subflow.
-4.  Uses the user [[reference|reference]] return value from Workflow A as an approval assignment.
+4.  Uses the user reference return value from Workflow A as an approval assignment.
 5.  Publishes Workflow B, causing an entry into Update Set B.
 
 ## Risks
@@ -94,6 +94,3 @@ Move dependent workflows between update sets.
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[reference|Reference]]

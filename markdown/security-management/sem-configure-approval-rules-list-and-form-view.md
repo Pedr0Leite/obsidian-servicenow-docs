@@ -120,8 +120,5 @@ Indicates whether the rule can be used. Activation requires at least one approva
     The rule is active and routed based on the defined levels, tables, and conditions.
 
 
-**Parent Topic:**[[sem-approval-rules-overiew|Unified Approval Rules Overview]]
+**Parent Topic:**[Unified Approval Rules Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-rules-overiew.md)
 
-## Related
-
-- [[sem-approval-rules-overiew|Unified Approval Rules Overview]]

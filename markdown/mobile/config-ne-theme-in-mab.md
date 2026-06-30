@@ -12,7 +12,7 @@ breadcrumb: [Configure theming, Next Experience theming, Configuring the Mobile 
 
 # Assign a Next Experience theme in the Mobile App Builder
 
-Use the [[mab-concept|Mobile App Builder]] to assign your Next Experience themes.
+Use the Mobile App Builder to assign your Next Experience themes.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ To use Next Experience theming, you must have Next Experience enabled on your in
 
     Your new theme is applied immediately, logged in users will see the new theme the next time the app refreshes.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]

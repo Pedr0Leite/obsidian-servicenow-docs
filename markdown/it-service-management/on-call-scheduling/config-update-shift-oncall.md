@@ -26,7 +26,7 @@ You can update the calendar only for the time zone specified in your user profil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Calendars**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Calendars**.
 
     The on-call calendar opens.
 
@@ -38,7 +38,7 @@ You can update the calendar only for the time zone specified in your user profil
 
 4.  Right-click a block that represents a member of the shift and select **Manage Shift**.
 
-    The Manage Shift dialog box displays the current shift [[settings-mobile|settings]].
+    The Manage Shift dialog box displays the current shift settings.
 
     \[Omitted image "manage-shift-provide-covrg-popup.png"\] Alt text: Manage Shift dialog box
 
@@ -110,7 +110,3 @@ You can manage roster members by adding and removing users to or from the roster
 
 [Manage shifts from the Calendar view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/customize-calendar-view-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

@@ -32,7 +32,7 @@ Connect your Genesys Cloud contact center to a ServiceNow voice assistant using 
 
 2.  Find the voice assistant that you want to connect to Genesys Cloud service and select **Edit**.
 
-3.  Select **Communication channels** from the guided setup [[now-assist-global-navigation|navigation]].
+3.  Select **Communication channels** from the guided setup navigation.
 
 4.  In the **Provider application** field, select the provider application to deploy the voice assistant to.
 
@@ -136,9 +136,5 @@ Read-only. API key to authenticate your Genesys Cloud service to the ServiceNow 
     2.  Select a DID number and assign the number to the call route created earlier.
 
 
-**Parent Topic:**[[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
+**Parent Topic:**[Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md)
 
-## Related
-
-- [[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
-- [[now-assist-global-navigation|Navigation]]

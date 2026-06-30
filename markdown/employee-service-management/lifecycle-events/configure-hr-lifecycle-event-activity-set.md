@@ -14,7 +14,7 @@ breadcrumb: [Configure a lifecycle event, Building a lifecycle event, Using Life
 
 # Configure a lifecycle event activity set
 
-Create or modify a lifecycle event [[activity-lxp|activity]] set to define a container for a group of activities.
+Create or modify a lifecycle event activity set to define a container for a group of activities.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Activity sets represent different stages in the lifecycle event process, and you
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
 
 2.  Click the **Activity Sets** tab to access the lifecycle event builder.
 
@@ -225,7 +225,7 @@ Trigger script
 
 Provide a custom script to determine when the activity set triggers.There are two variables in the scripts:
 
- -   parentCase: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] to parent lifecycle event case.
+ -   parentCase: Reference to parent lifecycle event case.
 -   hrTriggerUtil: Allows checking of other activity sets or dates from other types of triggers.
  The Activity Set Launcher workflow runs every four hours to verify these conditions. See [Lifecycle Events workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/LEWorkflow.md).
 
@@ -243,7 +243,7 @@ Condition table
 
 </td><td>
 
-Select an HR case or [[c_HRProfileRecords|HR profile]] table.
+Select an HR case or HR profile table.
 
 </td></tr><tr><td>
 
@@ -334,9 +334,3 @@ Replace the sys\_ids in the example with your activity set sys\_ids. From your a
 
 **Parent Topic:**[Configure a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-type.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]

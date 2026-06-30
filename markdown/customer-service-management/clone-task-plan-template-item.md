@@ -22,9 +22,9 @@ Role required: sn\_task\_plan.admin or sn\_task\_plan.creator role
 
 Template items include case tasks, child cases, and child case tasks. When you clone a template item, the system clones the selected template item and creates a new template item that includes the hierarchy, conditions, and attachments of the source template item.
 
-**Note:** This action is only available for [[task-plan-templates|task plan templates]] in the Draft state.
+**Note:** This action is only available for task plan templates in the Draft state.
 
-The cloned template item is added to the Template Items tab on the [[task-plan-template-form|Task Plan Template form]].
+The cloned template item is added to the Template Items tab on the Task Plan Template form.
 
 ## Procedure
 
@@ -34,12 +34,8 @@ The cloned template item is added to the Template Items tab on the [[task-plan-t
 
 3.  Select the Template items tab.
 
-4.  Select a template item and then select **Clone** on the [[task-plan-template-item-form|Template Item form]].
+4.  Select a template item and then select **Clone** on the Template Item form.
 
     The system creates a copy of the selected template item, gives it a unique record number, and displays the template item form.
 
-## Related
 
-- [[task-plan-templates|Task Plan Templates]]
-- [[task-plan-template-form|Task Plan Template form]]
-- [[task-plan-template-item-form|Template item form]]

@@ -18,22 +18,15 @@ Learn how to use order operations applications.
 
 Case management provides a structured and efficient approach to handling a wide variety of service requests, incidents, and inquiries. It encompasses the processes and tools used to manage individual cases from initiation through resolution, ensuring that service delivery is consistent, timely, and aligned with organizational goals.
 
--   **[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]**  
-Sales process managers can use [[explore-lead-cash-process-management|Lead-to-Cash Process Management]] to create sales process records and monitor and track sales processes through a consolidated dashboard.
+-   **[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)**  
+Sales process managers can use Lead-to-Cash Process Management to create sales process records and monitor and track sales processes through a consolidated dashboard.
 
-**Parent Topic:**[[som-using|Using Sales Customer Relationship Management applications]]
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 
 **Related topics**  
 
 
-[[configuring-order-operations|Configuring the order operations applications]]
+[Configuring the order operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-order-operations.md)
 
-[[order-operations-landing|Order operations]]
+[Order operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-operations-landing.md)
 
-## Related
-
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[som-using|Using Sales Customer Relationship Management applications]]
-- [[configuring-order-operations|Configuring the order operations applications]]
-- [[order-operations-landing|Order operations]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

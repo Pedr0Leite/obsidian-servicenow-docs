@@ -14,7 +14,7 @@ breadcrumb: [Applications, DevOps Change Velocity, IT Service Management]
 
 # Create an application - Classic
 
-Create [[dex-workspace-application-tab|applications]] using the Classic UI or the Service Catalog.
+Create applications using the Classic UI or the Service Catalog.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Enter a name for the new application.
 
  -   The system generates a new DevOps application, a new application model, and a new SDLC component \(SDLC-C\) in the CMDB.
 -   The SDLC-C is assigned the same name as the new application.
--   If the [[devops-config-landing-page|DevOps Config]] application is installed, then DevOps associates the application to the CDM application.
+-   If the DevOps Config application is installed, then DevOps associates the application to the CDM application.
 
 
 </td></tr><tr><td id="d454867e150">
@@ -88,7 +88,3 @@ For each application, you can:
 -   View and associate plans, repositories, pipelines, and artifact repositories. Associate the appropriate tool objects to the application to ensure that all the DevOps data is grouped and tracked. For more information, see [Associate tool objects to applications – Classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-classic.md).
 -   Delete the application record.
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]

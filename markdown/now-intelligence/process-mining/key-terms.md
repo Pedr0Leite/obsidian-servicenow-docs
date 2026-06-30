@@ -14,7 +14,7 @@ breadcrumb: [Reference, Process Mining, Platform Analytics]
 
 # Process Mining key terms
 
-Key terms used in [[process-mining|Process Mining]].
+Key terms used in Process Mining.
 
 |Term|Description|
 |----|-----------|
@@ -35,6 +35,3 @@ Key terms used in [[process-mining|Process Mining]].
 
 **Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-reference.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -12,7 +12,7 @@ breadcrumb: [Examining indicators, KPI Details, Platform Analytics experience, P
 
 # View contributing indicators to a formula in KPI Details
 
-If you’re viewing a formula indicator in [[kpi-details|KPI Details]], you can list the contributing indicators to that formula. Depending on the KPI Details configuration, you can open the contributing indicators in KPI Details.
+If you’re viewing a formula indicator in KPI Details, you can list the contributing indicators to that formula. Depending on the KPI Details configuration, you can open the contributing indicators in KPI Details.
 
 The Information icon \[Omitted image "Form\_ReferenceLookupIcon.png"\] Alt text: Information icon. next to the name of the indicator opens an information pane. If the indicator is a formula indicator, the information pane includes the formula.
 
@@ -20,7 +20,7 @@ The Information icon \[Omitted image "Form\_ReferenceLookupIcon.png"\] Alt text:
 
 Depending on how the UI Builder admin has configured the KPI Details component you’re viewing, the names of the [contributing indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) can be clickable. If clickable, selecting an indicator name opens that indicator in KPI Details. Again depending on the configuration, the indicator can open either in the same KPI Details tab or a new tab in the same workspace.
 
-**Parent Topic:**[[kpi-details-components|Examining indicators with KPI Details]]
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 **Related topics**  
 
@@ -41,7 +41,3 @@ Depending on how the UI Builder admin has configured the KPI Details component y
 
 [Access indicator record or scoresheet from KPI Details]()
 
-## Related
-
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[kpi-details|KPI Details]]

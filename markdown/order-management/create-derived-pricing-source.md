@@ -14,11 +14,11 @@ breadcrumb: [Derived product pricing, Product pricing, Configure, price, quote a
 
 # Create rules for derived product pricing
 
-Define product pricing [[rules_101|rules]] for deriving the price of a product dynamically based on the pricing of related products or a pricing source.
+Define product pricing rules for deriving the price of a product dynamically based on the pricing of related products or a pricing source.
 
 ## Before you begin
 
-Activate the **Account** option for the **Scope** field in the Derived Pricing Matrix. To activate the option, see [[activate-account-option-derived-pricing|Enable the Account scope option for derived pricing]].
+Activate the **Account** option for the **Scope** field in the Derived Pricing Matrix. To activate the option, see [Enable the Account scope option for derived pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-account-option-derived-pricing.md).
 
 Role required: sn\_csm\_pricing.pricelist\_administrator or sn\_csm\_pricing.pricelist\_manager
 
@@ -98,15 +98,10 @@ Use the Derived Price Matrix to define the rules for deriving the pricing of a p
 
     The derived pricing for the target product is available when the product is used in a transaction line.
 
-    **Note:** After a matrix is published, you can't make further changes to it. If you have changes, create another version of the matrix with your updates and publish the new version. However, your admin can allow changes to a published matrix by using the **allow\_edit\_on\_published\_matrices** system property. To learn more, see [[edit-published-matrices|Allow changes to published pricing and product eligiblity matrices]].
+    **Note:** After a matrix is published, you can't make further changes to it. If you have changes, create another version of the matrix with your updates and publish the new version. However, your admin can allow changes to a published matrix by using the **allow\_edit\_on\_published\_matrices** system property. To learn more, see [Allow changes to published pricing and product eligiblity matrices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/edit-published-matrices.md).
 
 
 ## Result
 
 When sales or order agents add a product with derived pricing, the derived pricing for the product is automatically applied based on the conditions and the values set in the Derived Pricing Matrix. Agents can review the line item for the target product and see how the derived price was calculated, for example, by checking the scope values, such as Unit list price, Unit net price, Cumulative net price, Recurring monthly price, or Recurring annual price.
 
-## Related
-
-- [[activate-account-option-derived-pricing|Enable the Account scope option for derived pricing]]
-- [[edit-published-matrices|Allow changes to published pricing and product eligiblity matrices]]
-- [[rules_101|Rules]]

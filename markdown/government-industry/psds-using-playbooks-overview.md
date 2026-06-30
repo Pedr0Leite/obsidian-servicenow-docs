@@ -23,13 +23,13 @@ A playbook takes a workflow and breaks it into multiple stages or lanes. Each st
 
 The following applications are available with Public Sector Digital Services that enable you to create and use playbooks:
 
--   [[psds-using-grants-management-playbook|Grants Management]]
--   [[psds-using-sb-playbooks|Social Benefits Playbook]]
--   [[psds-using-lp-playbooks|License and Permit Playbook]]
--   [[psds-using-ir-playbooks|Information Request Playbook]]
--   [[psds-using-sr-playbooks|Service Request Playbook]]
+-   [Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-grants-management-playbook.md)
+-   [Social Benefits Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-sb-playbooks.md)
+-   [License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-lp-playbooks.md)
+-   [Information Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-ir-playbooks.md)
+-   [Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-sr-playbooks.md)
 
-The corresponding playbook for each case type automatically appears in the **Playbook** tab when you create an public service request case as an agent in the CSM Configurable Workspace, or when a constituent puts in a request through the [[gsp-overview-public-sector|Government Service Portal]].
+The corresponding playbook for each case type automatically appears in the **Playbook** tab when you create an public service request case as an agent in the CSM Configurable Workspace, or when a constituent puts in a request through the Government Service Portal.
 
 The workflows for a type of case and the activities that you need to resolve these cases are in the playbook. By using a playbook, you can visualize the entire life cycle of the public service case workflow.
 
@@ -113,7 +113,7 @@ Contextual side panel
 -   Includes the tabs that you can use to display the following types of information:
     -   Case or case task activity stream.
     -   Ribbon information such as the case overview, customer details, timeline, and service level agreements \(SLAs\).
-    -   Dynamic related records. For more information, see [[psds-playbook-viewing-rel-records|Dynamic related records]].
+    -   Dynamic related records. For more information, see [Dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-viewing-rel-records.md).
 
 </td></tr><tr><td>
 
@@ -179,16 +179,5 @@ The Public Sector Digital Services platform includes the following playbooks:
     -   If using Advanced Work Assignment, a Service Request service channel that admins can use to automatically route non-emergency service requests to designated agents.
     -   Pre-built Virtual Agent conversation topic that enables constituents and businesses to use Virtual Agent to submit non-emergency service requests.
 
-For more information on installing and configuring [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]], see [[configuring-public-sector-digital-services|Configuring Public Sector Digital Services]].
+For more information on installing and configuring Playbooks for Public Sector Digital Services, see [Configuring Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-public-sector-digital-services.md).
 
-## Related
-
-- [[psds-using-grants-management-playbook|Using Grants Management]]
-- [[psds-using-sb-playbooks|Using Social Benefits Playbook]]
-- [[psds-using-lp-playbooks|Using License and Permit Playbook]]
-- [[psds-using-ir-playbooks|Using Information Request Playbook]]
-- [[psds-using-sr-playbooks|Using Service Request Playbooks]]
-- [[psds-playbook-viewing-rel-records|Viewing the dynamic related records in Service Request Playbook]]
-- [[configuring-public-sector-digital-services|Configuring Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]
-- [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]]

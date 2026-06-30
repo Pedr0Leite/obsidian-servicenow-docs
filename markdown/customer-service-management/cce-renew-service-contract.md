@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Renew a customer contract
 
-Renew a customer contract on the [[csm-workspaces-configure|CSM Configurable Workspace]] before the customer contract expires.
+Renew a customer contract on the CSM Configurable Workspace before the customer contract expires.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required:
 
 4.  Select **Renew**.
 
-    The target entity is created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to renew the customer contract is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the customer contract is created. You can select the order number from the confirmation message to review the renewal order.
@@ -50,8 +50,3 @@ Role required:
 
 A new customer contract is created in the Draft state. You can view more details in the Renewal History related list.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-rules|Rules]]

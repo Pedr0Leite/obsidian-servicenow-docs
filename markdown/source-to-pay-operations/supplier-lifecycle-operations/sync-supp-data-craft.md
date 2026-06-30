@@ -14,7 +14,7 @@ breadcrumb: [Craft.co Integration, Integrate, Supplier Lifecycle Operations, Fin
 
 # Synchronize supplier data using external third-party application
 
-Synchronize [[supplier|supplier]] data with any external third-party application to ensure that you are working with the latest data in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Synchronize supplier data with any external third-party application to ensure that you are working with the latest data in the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 Because the supplier data may have changed from the time that you last imported it, ensure that you are working with the latest supplier data by synchronizing with an external third-party application.
 
-**Note:** [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] provides you with the flexibility to integrate with Craft to import and view the most up-to-date supplier data. For more information, see [Craft.co Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/craft-integration.md).
+**Note:** Supplier Lifecycle Operations provides you with the flexibility to integrate with Craft to import and view the most up-to-date supplier data. For more information, see [Craft.co Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/craft-integration.md).
 
 ## Procedure
 
@@ -81,8 +81,3 @@ The latest supplier data is imported and any changes that you made to the existi
 
 [Craft.co Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/craft-integration.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

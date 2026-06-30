@@ -28,7 +28,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the task in one of the following ways.
 
@@ -55,7 +55,7 @@ From the All open claims list, select a task.
 </td><td>
 
 -   Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
--   On the **Lists** tab, under **Insurance claim [[adjuster-tasks-workspace-pers|adjuster tasks]]** \(or the list category that is specific to your custom workflow\), select **All**.
+-   On the **Lists** tab, under **Insurance claim adjuster tasks** \(or the list category that is specific to your custom workflow\), select **All**.
 -   In the list, select the task that you want to open.
 
 
@@ -166,7 +166,3 @@ If the reserve or payment amount is above your approval threshold, an approval t
 -   If a claim validation is rejected, the claim case closes with a case status of Closed rejected. System-generated work notes about the rejection are automatically added to the activity stream for the task and claim case.
 -   If you settle the claim, the claim case automatically closes, with the case status set as Closed complete.
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

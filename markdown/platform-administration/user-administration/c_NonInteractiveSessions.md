@@ -56,7 +56,7 @@ Non-interactive users can't log in to an instance or a service portal or connect
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Search for the user to be updated.
 
@@ -117,7 +117,7 @@ Role required: user\_admin or admin
 
 ## Require authentication
 
-You can specify whether non-interactive sessions require authentication from the **High [[ia-security-settings-il|Security Settings]]** module.
+You can specify whether non-interactive sessions require authentication from the **High Security Settings** module.
 
 ### Before you begin
 
@@ -147,7 +147,4 @@ A non-interactive session bypasses the UI to connect to the instance at an API l
 
     Activating the Non-Interactive Sessions plugin might restrict existing users who manage SOAP and WSDL-based integrations from logging in, unless they already possess the SOAP role.
 
-## Related
 
-- [[c_UserAdministration|User administration]]
-- [[ia-security-settings-il|Security Settings]]

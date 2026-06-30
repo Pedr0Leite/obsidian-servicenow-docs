@@ -14,13 +14,13 @@ breadcrumb: [Configure, DevOps Change Velocity, IT Service Management]
 
 # Install DevOps Change Velocity
 
-Install the [[devops-landing-page-new|DevOps Change Velocity]] application from the ServiceNow Store.
+Install the DevOps Change Velocity application from the ServiceNow Store.
 
 ## Before you begin
 
 Role required: admin
 
-Ensure that the application and all of its associated store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+Ensure that the application and all of its associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 If you’re installing DevOps Change Velocity in your production instance for the first time, ensure that you opt-in to the following required products. For more information, see [Opt in to the ServiceNow Store products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/optin-optout-prod.md).
 
@@ -42,7 +42,7 @@ Playbook Experience
 
 </td></tr><tr><td>
 
-CMDB CI Class [[c_Models|Models]]
+CMDB CI Class Models
 
 </td><td>
 
@@ -136,8 +136,3 @@ See [Components installed with DevOps Change Velocity](https://raw.githubusercon
 
 **Note:** Roles that are installed with DevOps Change Velocity are listed in [Components installed with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/installed-with-dev-ops.md).
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_Models|Models]]

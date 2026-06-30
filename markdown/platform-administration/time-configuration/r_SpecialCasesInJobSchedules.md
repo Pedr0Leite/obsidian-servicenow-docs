@@ -29,7 +29,7 @@ For example, something scheduled to run on the 31st of the month runs on Februar
 
 For scheduled scripts, use the following script to run only on weekdays:
 
-**Warning:** Conditional scripts for scheduled report emails are executed in the sandbox. Therefore, function [[clone-exclusions-preservers-cleanupscripts|definitions]] are not allowed. Some API calls and keywords are also not allowed.
+**Warning:** Conditional scripts for scheduled report emails are executed in the sandbox. Therefore, function definitions are not allowed. Some API calls and keywords are also not allowed.
 
 ```
 
@@ -49,7 +49,7 @@ answer=isWeekday;
 
 If the conditional script on a Scheduled Report is more complex and you need to make use of our Glide classes, then please use the following steps as a workaround:
 
-1.  [[t_CreateAScheduledJob|Create a Scheduled Job]] and complete all the conditional logic of the Scheduled Report inside the Scheduled Job.
+1.  Create a Scheduled Job and complete all the conditional logic of the Scheduled Report inside the Scheduled Job.
 2.  If all the conditional logic is satisfied, you can trigger the Scheduled Report with the following script inside the Scheduled Job.
 
     ```
@@ -77,7 +77,7 @@ You can run the script using one of several tables:
 -   sysauto\_template \(Scheduled Template Generation\)
 -   sysauto\_report \(Scheduled Report\)
 
-**Note:** `SncTriggerSynchronizer` does not provide methods to execute [[c_ScheduledJobs|scheduled jobs]] in the future.
+**Note:** `SncTriggerSynchronizer` does not provide methods to execute scheduled jobs in the future.
 
 ## Running scheduled scripts and jobs imported from another instance
 
@@ -102,8 +102,3 @@ You can optionally export and import data records via XML. However, to prevent u
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[t_CreateAScheduledJob|Create a scheduled job]]
-- [[c_ScheduledJobs|Scheduled jobs]]

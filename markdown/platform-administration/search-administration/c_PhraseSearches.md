@@ -18,7 +18,7 @@ Wrap search terms in quotation marks to search for an exact phrase consisting of
 
 Search terms in quotation marks are treated as exact phrase searches. When you search for an exact phrase, Zing only matches documents that contain the quoted words in the exact order you specify.
 
-As an example, searching for `email password` returns search [[hs-results|results]] that include `email` and `password` in any order, including records with these text strings:
+As an example, searching for `email password` returns search results that include `email` and `password` in any order, including records with these text strings:
 
 -   `enter your email password`
 -   `your email account password`
@@ -27,7 +27,7 @@ If you search for the quoted phrase `"email password"`, Zing returns search resu
 
 Exact phrase searches ignore:
 
--   [[stop-words-ais|stop words]]
+-   stop words
 -   punctuation marks
 -   wildcard characters
 
@@ -54,7 +54,3 @@ For example, searching for the phrase `"email password"` returns the same search
 
 [Debug Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]

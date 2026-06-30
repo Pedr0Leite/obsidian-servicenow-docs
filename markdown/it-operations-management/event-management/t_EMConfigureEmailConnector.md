@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-When you add an inbound email action to send email, [[c_EM|Event Management]] uses inbound email actions to process inbound email in the same manner as any external event. The email content is used to generate and update events, use rules to generate alerts, or change event severity. The severity is updated after the impact calculation and stored in the em\_impact\_status table.
+When you add an inbound email action to send email, Event Management uses inbound email actions to process inbound email in the same manner as any external event. The email content is used to generate and update events, use rules to generate alerts, or change event severity. The severity is updated after the impact calculation and stored in the em\_impact\_status table.
 
 ## Procedure
 
@@ -74,11 +74,7 @@ When you add an inbound email action to send email, [[c_EM|Event Management]] us
 
 ## Result
 
-The inbound email is sent to the em\_event table and regular Event Management processes continue, for example, [[create-event-rules|event rules]] and alert management rules run.
+The inbound email is sent to the em\_event table and regular Event Management processes continue, for example, event rules and alert management rules run.
 
 **Parent Topic:**[Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

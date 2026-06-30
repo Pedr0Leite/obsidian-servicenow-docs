@@ -15,16 +15,16 @@ breadcrumb: [Product Owner portal, Explore, AI Control Tower, Enable AI experien
 
 # AI portfolio tab in AI Control Tower
 
-The **AI portfolio** tab in the [[ai-control-tower-home-page|AI Control Tower home]] page displays all [[ai-assets|AI assets]], which includes \(active, inactive, and completed\) to the workspace users.
+The **AI portfolio** tab in the AI Control Tower home page displays all AI assets, which includes \(active, inactive, and completed\) to the workspace users.
 
 ## Explore AI portfolio tab
 
 The AI portfolio tab AI shows all the active AI assets organized into the following categories:
 
--   [[ai-system|AI systems]]
+-   AI systems
 -   AI model
--   [[ai-datasets|Datasets]]
--   [[ai-prompts|Prompts]]
+-   Datasets
+-   Prompts
 
 The lifecycle status of AI assets is divided into the following categories:
 
@@ -49,10 +49,3 @@ The following image displays the AI portfolio tab as it appears to a workspace u
 
 \[Omitted image "aict-ai-portfolio.png"\] Alt text: AI portfolio tab in AI Control Tower for workspace users.
 
-## Related
-
-- [[ai-control-tower-home-page|AI Control Tower Home]]
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]

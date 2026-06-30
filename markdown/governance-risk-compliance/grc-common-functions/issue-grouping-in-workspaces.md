@@ -30,7 +30,7 @@ You can enable the **Advanced issue grouping functionality** property to use the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
     You can navigate to your specific workspace.
 
@@ -102,6 +102,3 @@ Additional information about the issue group.
 
 **Parent Topic:**[Manage issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-issues-common-core.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

@@ -22,15 +22,15 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[course-of-action|Courses of Action]]** object.
+3.  Go to **Courses of Action** object.
 
 4.  Click **New**.
 
-    **Note:** Whenever you create new object records for [[c_Observables|observables]], [[indicator|indicators]], entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 5.  On the form, fill in the fields.
 
@@ -140,7 +140,7 @@ Created By Ref
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 7.  Click **Continue**.
 
@@ -165,33 +165,21 @@ Click any of the following related lists to view additional information about ob
 |Field|Description|
 |-----|-----------|
 |External References|Lists external references which refer to non-STIX information. This property is used to provide one or more external object identifiers.|
-|Attack Patterns|Lists the [[attack-patterns|attack patterns]] that help categorize attacks that are associated with this object.|
-|Indicators|Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.|
+|Attack Patterns|Lists the attack patterns that help categorize attacks that are associated with this object.|
+|Indicators|Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.|
 |Malware|Lists malicious code associated with this object.|
 |Marketing Definitions|Lists the marketing definitions associated with this object.|
 |Observables|Lists the observables associated with this object.|
-|Sightings|Lists the [[indicator-sightings|sightings]] associated with this object.|
-|Tools|Lists legitimate software that is used by [[threat-actors|threat actors]] to perform attacks associated with this object.|
+|Sightings|Lists the sightings associated with this object.|
+|Tools|Lists legitimate software that is used by threat actors to perform attacks associated with this object.|
 |Vulnerabilities|Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.|
 
 **Note:**
 
 1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
-2.  The various SDOs within the TI library also contains the [[potential-relationships|potential relationships]]. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
+2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
 
 **Parent Topic:**[Courses of Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/course-of-action.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[course-of-action|Courses of Action]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[stix-relationships|Relationships]]
-- [[attack-patterns|Attack patterns]]
-- [[c_IoCs|Indicators of compromise]]
-- [[indicator-sightings|Sightings]]
-- [[threat-actors|Threat actors]]
-- [[potential-relationships|Potential Relationships]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Reclamation rules for Microsoft 365 integration
 
-Reclamation rules for Microsoft 365 integration sets the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, [[c_SoftwareAssetMgmt|Software Asset Management]] marks the subscription as a potential reclamation candidate.
+Reclamation rules for Microsoft 365 integration sets the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, Software Asset Management marks the subscription as a potential reclamation candidate.
 
 <table id="table_el3_1wh_ddc"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Microsoft 365
 -   Downgrade
 -   Consolidate
 
- **Note:** The Overlapping and Consolidate use cases are applicable to all [[microsoft-o365|Microsoft 365 integration]] subscriptions.
+ **Note:** The Overlapping and Consolidate use cases are applicable to all Microsoft 365 integration subscriptions.
 
 </td><td>
 
@@ -113,7 +113,3 @@ For example, if Office 365 Enterprise E5, Windows, and EMS subscriptions exist, 
 
 [Integrating with Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrate-with-microsoft.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[microsoft-o365|Microsoft 365 integration]]

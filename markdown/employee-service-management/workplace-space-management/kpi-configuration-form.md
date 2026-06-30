@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Space Management, Workplace Service Delivery, 
 
 # KPI Configuration form
 
-The KPI Configuration form helps you create a key performance indicator for the [[space-planning|Space Planning]] module in [[workplace-central-feat|Workplace Central]].
+The KPI Configuration form helps you create a key performance indicator for the Space Planning module in Workplace Central.
 
 <table id="table_kpi_config_fields"><thead><tr><th>
 
@@ -91,7 +91,7 @@ For example, SUM of Capacity displays the total capacity of the applicable space
 
 For KPIs that require multiple operations, you can set the type to **None** and create a script include to calculate the value. To create a script include, you can create an implementation by using the `sn_wsd_spcmgmt.KPICustomConfig` extension point.
 
-For [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], you can view the Script Includes like `KPI_profiles_assigned` or `KPI_assignment_ratio`, which are included with [[workplace-space-mgmt-ovw|Workplace Space Management]].
+For reference, you can view the Script Includes like `KPI_profiles_assigned` or `KPI_assignment_ratio`, which are included with Workplace Space Management.
 
 For more information about extension points, see [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
 
@@ -115,9 +115,3 @@ Field on the Space \[sn\_wsd\_core\_space\] table on which the selected operatio
 
 [View by Configuration form]()
 
-## Related
-
-- [[space-planning|Space Planning]]
-- [[workplace-central-feat|Workplace Central]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

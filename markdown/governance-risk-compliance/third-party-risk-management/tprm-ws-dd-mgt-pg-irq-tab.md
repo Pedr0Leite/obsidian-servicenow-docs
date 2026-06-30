@@ -177,7 +177,7 @@ An engagement risk-scoring rule specifies component criteria that determine whic
 </td></tr></tbody>
 </table>
 -   **[Create new internal assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-int-assess-form.md)**  
-Use the internal assessment form to capture all the information that you need to [[tprm-create-int-assessment|create an internal assessment]]. As a third-party risk assessor, you can [[sae-asmnt-template-create|create an assessment template]].
+Use the internal assessment form to capture all the information that you need to create an internal assessment. As a third-party risk assessor, you can create an assessment template.
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
@@ -188,7 +188,3 @@ Use the internal assessment form to capture all the information that you need to
 
 [Respond to an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-irq-respond-to.md)
 
-## Related
-
-- [[tprm-create-int-assessment|Create an internal assessment]]
-- [[sae-asmnt-template-create|Create an assessment template]]

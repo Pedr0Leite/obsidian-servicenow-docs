@@ -14,7 +14,7 @@ breadcrumb: [Using portal widgets, Configuring Service Portal, Service Portal, C
 
 # Configure widget loading order in Service Portal
 
-[[configure-onboarding-modals|Configure]] [[c_ServicePortal|service portal]] pages to defer load the widgets on a page. The delay in loading of non-essential widgets helps to improve page loading speed and optimizes the use of resources.
+Configure service portal pages to defer load the widgets on a page. The delay in loading of non-essential widgets helps to improve page loading speed and optimizes the use of resources.
 
 ## Before you begin
 
@@ -123,7 +123,3 @@ Deferred loading of AI Search on the Service Portal delays the loading of certai
 
 **Parent Topic:**[Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

@@ -14,12 +14,12 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Predictive Intelligence for Universal Request
 
-The Predictive Intelligence for Universal Request uses machine-[[exploring-learning-exp|learning]] algorithms for the auto-assignment of universal requests and to find similar knowledge articles and closed universal requests.
+The Predictive Intelligence for Universal Request uses machine-learning algorithms for the auto-assignment of universal requests and to find similar knowledge articles and closed universal requests.
 
 Predictive Intelligence for Universal Request has the following benefits:
 
 -   Use of machine learning algorithms to predict the assignment group across various departments based on the data provided by the requester in the short description and description fields of the request.
--   Use of machine learning similarity solution to provide recommendations for similar Knowledge Base articles and similar closed [[ur-landing-limitedaccess|Universal Request]]. These recommendations are based on the data provided in the short description and description fields of the request, and help agents to resolve universal requests quickly.
+-   Use of machine learning similarity solution to provide recommendations for similar Knowledge Base articles and similar closed Universal Request. These recommendations are based on the data provided in the short description and description fields of the request, and help agents to resolve universal requests quickly.
 
 ## Solution definitions for Predictive Intelligence for Universal Request
 
@@ -101,7 +101,3 @@ Train the Universal Request classification solution definition to identify and p
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -20,17 +20,17 @@ You can perform a target risk assessment to define your desired future risk leve
 
 A target risk assessment is an assessment type to define the desired risk level the organization want to achieve in the future. By evaluating the desired level of likelihood and impact of identified risks, organizations can establish target risk levels for each risk.
 
-For example, when assessing a risk, organizations consider various aspects such as inherent risk, the effectiveness of controls, and residual risks. However, it's equally important to capture the desired risk level that will be attained after the [[risk-response|risk response]] is implemented. The target risk represents the optimum level of risk that you aim to achieve after your action plan is successfully executed. It enables you to measure the benefits your organization gets in relation to the cost of implementing those actions.
+For example, when assessing a risk, organizations consider various aspects such as inherent risk, the effectiveness of controls, and residual risks. However, it's equally important to capture the desired risk level that will be attained after the risk response is implemented. The target risk represents the optimum level of risk that you aim to achieve after your action plan is successfully executed. It enables you to measure the benefits your organization gets in relation to the cost of implementing those actions.
 
 ## Setting up a target assessment
 
-A risk administrator can configure and set up a target risk assessment for your organization in the Advanced Risk application. Risk administrator can enable the option for assessing a target risk on the [[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]] form. For more information, see [Configure a target assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-target-assessment.md).
+A risk administrator can configure and set up a target risk assessment for your organization in the Advanced Risk application. Risk administrator can enable the option for assessing a target risk on the Risk assessment methodology \(RAM\) form. For more information, see [Configure a target assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-target-assessment.md).
 
 **Important:** You can enable target risk assessment for existing published RAMs. However, after you enabled, it can’t be turned off. Additionally, target risk assessment can only be conducted for new assessments and not for assessments that are already in progress.
 
 ## Assessing a target risk
 
-Assessors can analyze the future state of the risk based on the defined [[factors|factors]], scoring logic, and rating criteria in the RAM form. Assessing the future state of risk is a structured process that shares similarities with inherent, control, and residual assessment types. Based on the target [[tprm-risk-profile-what-is|risk profile]], the system also computes the future risk appetite status. It enables assessors to analyze if the target risk profile is in line with the risk appetite or not. Risk approvers can review the target risk rating and the future appetite status and approve them. Target risk assessment can be performed for both risk and object-based assessments. However, if it’s object-based, the future appetite status isn’t computed and displayed. For more information, see [Perform advanced risk assessment in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-ara-workspace.md).
+Assessors can analyze the future state of the risk based on the defined factors, scoring logic, and rating criteria in the RAM form. Assessing the future state of risk is a structured process that shares similarities with inherent, control, and residual assessment types. Based on the target risk profile, the system also computes the future risk appetite status. It enables assessors to analyze if the target risk profile is in line with the risk appetite or not. Risk approvers can review the target risk rating and the future appetite status and approve them. Target risk assessment can be performed for both risk and object-based assessments. However, if it’s object-based, the future appetite status isn’t computed and displayed. For more information, see [Perform advanced risk assessment in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-ara-workspace.md).
 
 **Important:** If target risk assessment is enabled for a methodology, the risk or object can only be assessed in the next experience.
 
@@ -40,9 +40,3 @@ On the heatmap, you can view the target risk profile, which provides a comprehen
 
 **Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-response|risk response]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[factors|factors]]
-- [[tprm-risk-profile-what-is|Risk profile]]

@@ -13,7 +13,7 @@ breadcrumb: [Add a trigger, Create an AI agent, Now Assist AI agents, Enable AI 
 
 # Kill Switch in Now Assist AI Agents
 
-The kill switch feature detects and stops runaway AI agent triggers that execute repeatedly against the same records, preventing unnecessary consumption of [[platform-now-assist-landing|Now Assist]] interactions.
+The kill switch feature detects and stops runaway AI agent triggers that execute repeatedly against the same records, preventing unnecessary consumption of Now Assist interactions.
 
 ## Kill Switch Overview
 
@@ -57,7 +57,7 @@ The kill switch uses two fully decoupled execution paths.
 
 ## Operating modes
 
-The `kill_switch.mode` system property [[controls|controls]] how the feature responds to a detected breach.
+The `kill_switch.mode` system property controls how the feature responds to a detected breach.
 
 -   **`off`**
 
@@ -82,7 +82,3 @@ In `warn_only` or `enforce` mode, the evaluator sends progressively stronger ema
 
 Each email includes the agent name, trigger name, affected record count, and a direct link to the trigger configuration.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]

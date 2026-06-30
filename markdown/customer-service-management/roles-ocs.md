@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Roles for Outsourced Customer Service
 
-Outsourced Service Providers \(OSPs\) are organizations that an enterprise engages to provide customer service to external customers. The OSPs [[manage-cases|manage cases]] for customers associated to their organization.
+Outsourced Service Providers \(OSPs\) are organizations that an enterprise engages to provide customer service to external customers. The OSPs manage cases for customers associated to their organization.
 
 There are various roles required based on the tasks you perform.
 
@@ -27,15 +27,9 @@ There are various roles required based on the tasks you perform.
 **Related topics**  
 
 
-[[configure-outsourced-cust-serv|Set up Outsourced Customer Service]]
+[Set up Outsourced Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-outsourced-cust-serv.md)
 
-[[outsourced-service-provider|Outsourced Customer Service]]
+[Outsourced Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/outsourced-service-provider.md)
 
-[[ocs-dashboard|Outsourced Service Provider dashboard]]
+[Outsourced Service Provider dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ocs-dashboard.md)
 
-## Related
-
-- [[configure-outsourced-cust-serv|Configure Outsourced Customer Service]]
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[ocs-dashboard|Outsourced Service Provider dashboard]]
-- [[manage-cases|Manage cases]]

@@ -38,7 +38,7 @@ When the upgrade starts, the upgrade log messages are written to both the localh
 
     The database-upgrade\_&lt;timestamp&gt;.log file appears only if the `glide.db.upgrade.log.save_to_db.enabled` property is set to True. By default, the `glide.db.upgrade.log.save_to_db.enabled` is set to True.
 
-3.  Go to **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**.
+3.  Go to **Upgrade Center** &gt; **Upgrade History**.
 
     A list of upgrades shows up.
 
@@ -52,6 +52,4 @@ When the upgrade starts, the upgrade log messages are written to both the localh
 
     **Note:** The database-upgrade\_&lt;timestamp&gt;.log file has been zipped to reduce the download time.
 
-## Related
 
-- [[uc-landing-page|Upgrade Center]]

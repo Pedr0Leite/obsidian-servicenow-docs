@@ -24,7 +24,7 @@ The **glide.rest.table\_api.admin\_only\_sys\_fields** property controls write a
 -   sys\_updated\_by
 -   sys\_updated\_on
 
-When this property is set to **true**, only an admin can write to these fields that are system-generated values. When the property is set to **false** or it doesn't exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, [[users|users]] who have create or write access to a table can write to these system values using the [Table API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_TableAPI.md).
+When this property is set to **true**, only an admin can write to these fields that are system-generated values. When the property is set to **false** or it doesn't exist in the System Properties \[sys\_properties\] table, users who have create or write access to a table can write to these system values using the [Table API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_TableAPI.md).
 
 Set the property **glide.rest.table\_api.admin\_only\_sys\_fields** to **true** to prevent non-admin users from updating system fields on records.
 
@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -110,7 +110,7 @@ Functional impact
 
 </td><td>
 
-Any integrations or users without the admin role that use the Table API to create or update records and change these fields are impacted. These requests to the Table API set the query parameter **sysparm\_suppress\_auto\_sys\_field** to **false** and set those fields in the [[c_requestAPI|request]] body.
+Any integrations or users without the admin role that use the Table API to create or update records and change these fields are impacted. These requests to the Table API set the query parameter **sysparm\_suppress\_auto\_sys\_field** to **false** and set those fields in the request body.
 
 </td></tr><tr><td>
 
@@ -125,9 +125,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

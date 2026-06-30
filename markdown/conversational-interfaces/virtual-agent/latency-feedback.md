@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Latency feedback in Virtual Agent
 
-The **com.glide.cs.message.processing.enabled** system property notifies requesters whenever the generative AI large language model \(LLM\) is processing their request in the [[virtual-agent-landing-page|Virtual Agent]] chat widget and Now Assist panel.
+The **com.glide.cs.message.processing.enabled** system property notifies requesters whenever the generative AI large language model \(LLM\) is processing their request in the Virtual Agent chat widget and Now Assist panel.
 
 ## Latency feedback messages
 
@@ -48,6 +48,3 @@ The latency feedback messages can’t be customized and disappears after the LLM
 
 [Virtual Agent URL parameters]()
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

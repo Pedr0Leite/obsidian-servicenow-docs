@@ -14,15 +14,10 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Manage email Notifications
 
-Use ServiceNow Notifications to create and manage system [[tisc-email-notifications|email notifications]], and view [[tisc-email-logs|email logs]].
+Use ServiceNow Notifications to create and manage system email notifications, and view email logs.
 
 -   **[Email Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-email-notifications.md)**  
-Use email notifications to send selected users email notifications about specific tasks within the application, such as updates to observables/indicators/various [[tisc-other-objects|other objects]].
+Use email notifications to send selected users email notifications about specific tasks within the application, such as updates to observables/indicators/various other objects.
 -   **[Email logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-email-logs.md)**  
 This section provides a clear visibility to the TISC administrators on the emails that are sent out using the configured email notification rules.
 
-## Related
-
-- [[tisc-email-notifications|Email Notifications]]
-- [[tisc-email-logs|Email logs]]
-- [[tisc-other-objects|Other Objects]]

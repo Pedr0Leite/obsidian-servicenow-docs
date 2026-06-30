@@ -14,11 +14,11 @@ breadcrumb: [Configuring MFA, Multi-factor authentication, Authentication, Acces
 
 # Reference topic - Multi-factor Authentication
 
-Reference topic related to the [[sc-configuration|configuration]] of MFA.
+Reference topic related to the configuration of MFA.
 
 ## User Multi-factor Authentications
 
-To access the details about the user's MFA, navigate to **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **User Multi-factor Setup**.
+To access the details about the user's MFA, navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Multi-factor Setup**.
 
 |Field|Description|
 |-----|-----------|
@@ -27,7 +27,7 @@ To access the details about the user's MFA, navigate to **All** &gt; **[[mfa-lan
 |Multi-factor secret|The details of the multi-factor secret.|
 |Validated|Is the multi-factor validated. Changing the value to **false** invalidates the existing authenticator app setup.|
 
-**Note:** The recently used MFA factors by the [[users|users]] is available in the User Recent Used Factors module. Navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Recent User Factors**. For more information, see [User Recent Used Factors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/reference-topic-multi-factor-authentication.md).
+**Note:** The recently used MFA factors by the users is available in the User Recent Used Factors module. Navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Recent User Factors**. For more information, see [User Recent Used Factors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/reference-topic-multi-factor-authentication.md).
 
 ## Multi-factor Browser Fingerprints
 
@@ -51,8 +51,3 @@ To access the details about the user's recently used factors, navigate to **All*
 |Multi Factor Type|The multi-factor type the user used for log in.|
 |Is Recent Factor|The user's recent multi-factor detials.|
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]

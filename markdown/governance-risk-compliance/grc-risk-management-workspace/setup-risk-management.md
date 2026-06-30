@@ -14,7 +14,7 @@ breadcrumb: [Configure, Risk Management, Governance, Risk, and Compliance]
 
 # Risk Management detailed setup
 
-Set up Risk Management so that you can use the features such as [[risk-assessments|risk assessments]], risk events, and other capabilities of the GRC Risk Management application.
+Set up Risk Management so that you can use the features such as risk assessments, risk events, and other capabilities of the GRC Risk Management application.
 
 To setup Risk Management:
 
@@ -34,6 +34,3 @@ Validate that Risk Management still works after you make any configuration chang
 
 **Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-mgmt.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

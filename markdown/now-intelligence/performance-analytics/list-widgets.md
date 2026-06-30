@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 List widgets show the scores of multiple indicators.
 
-<table id="table_score-[[widgets|widgets]]"><thead><tr><th>
+<table id="table_score-widgets"><thead><tr><th>
 
  
 
@@ -61,6 +61,3 @@ Shows a plot of the latest score of each indicator on its own axis, starting wit
 
 On upgraded instances, you might need the pa\_viewer role to view List widgets. Furthermore, List widgets do not show indicators that you do not have permission to read.
 
-## Related
-
-- [[widgets|Widgets]]

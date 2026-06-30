@@ -16,7 +16,7 @@ breadcrumb: [Discovered Items for Configuration Compliance, Configuration Compli
 
 The default value of the property `sn_sec_cmn.update_on_ci_change` is `true`. So, when the configuration item \(CI\) for a discovered item is updated, the test results are updated as well.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -28,6 +28,3 @@ The external ID for the test result is updated and the risk score, assignment ru
 
 If you do not want to update the CI for the existing test result, set the property to false. In this case, if a CI changes, a new test result is created and the existing one is closed as an `invalidCI`.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

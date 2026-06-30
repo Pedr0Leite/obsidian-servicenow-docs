@@ -38,7 +38,7 @@ Create SAFe program increment \(PI\) objectives so that you can summarize the go
 
 [Components installed with Essential SAFe]()
 
-[Quick start [[c_Tests|tests]] for Essential SAFe]()
+[Quick start tests for Essential SAFe]()
 
 [SAFe entities]()
 
@@ -46,6 +46,3 @@ Create SAFe program increment \(PI\) objectives so that you can summarize the go
 
 [SAFe Board — Team level]()
 
-## Related
-
-- [[c_Tests|Tests]]

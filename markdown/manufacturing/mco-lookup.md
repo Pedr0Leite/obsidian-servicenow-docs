@@ -12,7 +12,7 @@ breadcrumb: [Dealer management, Use, Manufacturing Commercial Operations]
 
 # Look up an asset or claim by its serial number
 
-Look up the serial number of the asset or claims details in the [[mco-dealer-portal|dealer portal]]. View the item for recall and [[mco-sales-promotion|sales promotion]] claims.
+Look up the serial number of the asset or claims details in the dealer portal. View the item for recall and sales promotion claims.
 
 ## Before you begin
 
@@ -34,7 +34,3 @@ Role required: sn\_dealer\_mgmt.dealer\_service\_advisor
     -   To view if any recall is performed on the asset or product, Select **Active recalls**.
     -   To view the install base form view, select **Details**.
 
-## Related
-
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-sales-promotion|Sales promotion]]

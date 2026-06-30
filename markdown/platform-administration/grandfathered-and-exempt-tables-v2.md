@@ -12,7 +12,7 @@ breadcrumb: [Managing custom tables and apps, Subscription Management, Get start
 
 # Grandfathered and exempted tables
 
-Grandfathered and exempted [[custom-tables|custom tables]] are treated differently than other custom tables on your instance. Refer to your organization’s ServiceNow® contract for additional information.
+Grandfathered and exempted custom tables are treated differently than other custom tables on your instance. Refer to your organization’s ServiceNow® contract for additional information.
 
 ## Grandfathered tables
 
@@ -43,14 +43,9 @@ To view a list of exempted tables, enter `ua_exempted_table_inventory.list` in t
 
 The [Custom Table Guide legal schedule](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/custom-table-guide.pdf) provides the complete definition of which tables are considered exempt.
 
-**Note:** Legal [[c_UseSchedules|schedules]] are enforced based on when the contract is executed.
+**Note:** Legal schedules are enforced based on when the contract is executed.
 
 To find past versions of the Custom Table Guide, see the [Legal Schedules Custom Table Guide](https://www.servicenow.com/schedules-archived.html).
 
-**Parent Topic:**[[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]]
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md)
 
-## Related
-
-- [[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]]
-- [[custom-tables|Custom tables]]
-- [[c_UseSchedules|Schedules]]

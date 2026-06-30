@@ -15,11 +15,11 @@ breadcrumb: [Use agentic AI in IT Service Management, Now Assist for IT Service 
 
 # Agentic AI in Digital End-User Experience
 
-Use the [[dex-landing|Digital End-User Experience]] \(DEX\) agentic workflow to diagnose and resolve issues on DEX monitored [[dex-workspace-devices-tab|devices]].
+Use the Digital End-User Experience \(DEX\) agentic workflow to diagnose and resolve issues on DEX monitored devices.
 
-**Important:** To access the [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]], make sure that you install the following [[dex-workspace-application-tab|applications]]:
+**Important:** To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
--   [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+-   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 -   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Configuring Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/config-dex-console.md).
 
 **Note:**
@@ -34,10 +34,3 @@ The agentic workflow uses two AI agents to conduct root cause analysis for incid
 -   DEX diagnosis AI agent
 -   DEX resolution plan AI agent
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

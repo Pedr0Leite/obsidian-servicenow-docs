@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 # Install Healthcare and Life Sciences Service Management Core
 
-You can install the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application \(sn\_hcls\) if you have the admin role. The application includes demo data Healthcare and Life Sciences Service Management Core and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Healthcare and Life Sciences Service Management Core application \(sn\_hcls\) if you have the admin role. The application includes demo data Healthcare and Life Sciences Service Management Core and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ For more information, see [Components installed with Healthcare and Life Science
 
 4.  Select **Install**.
 
-## Related
 
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

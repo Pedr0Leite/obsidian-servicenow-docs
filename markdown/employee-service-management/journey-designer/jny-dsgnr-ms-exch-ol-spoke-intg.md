@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Journey designer, Employee Journey Management, HR Servic
 
 # Integrating Microsoft Exchange Online spoke with Journey designer
 
-The Microsoft Exchange Online spoke integration with [[jny-dsgnr-landing-page-1|Journey designer]] is achieved with [[journey-accelerator-1|Journey Accelerator]].
+The Microsoft Exchange Online spoke integration with Journey designer is achieved with Journey Accelerator.
 
 Follow the setup and integration instructions from Journey Accelerator.
 
@@ -29,7 +29,3 @@ Follow the setup and integration instructions from Journey Accelerator.
 
 **Parent Topic:**[Integrations for Journey designer app]()
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]

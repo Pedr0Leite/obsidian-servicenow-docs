@@ -26,13 +26,13 @@ You can customize one of the following default callback topics: Callback-Phone f
 
 ## Procedure
 
-1.  Duplicate the Callback-Phone topic from the [[virtual-agent-landing-page|Virtual Agent]] Designer.
+1.  Duplicate the Callback-Phone topic from the Virtual Agent Designer.
 
     For more information on how to duplicate a topic, see [Duplicate a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/duplicate-virtual-agent-topic.md).
 
 2.  In the Advanced properties section of the **Properties** tab, select the voice channel that you want to associate with the custom callback topic.
 
-3.  On the **Flow** tab, modify the default callback flow and set the following properties in the [[va-script-action|Script action utility]], if required.
+3.  On the **Flow** tab, modify the default callback flow and set the following properties in the Script action utility, if required.
 
     1.  Set Global Callback Executed \(vaVars.global\_callback\_executed\) to **true**.
 
@@ -59,7 +59,4 @@ You can customize one of the following default callback topics: Callback-Phone f
 
     3.  On the **Provider Identity Properties** tab, update the value of the **callback\_topic\_id** property with the sys\_id of your custom callback topic and click **Update**.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-script-action|Script Action utility]]

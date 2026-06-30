@@ -22,7 +22,7 @@ Role required: skill\_admin
 
 ## About this task
 
-A skill category can contain parent and child categories that together [[pace-create-category|create a category]] hierarchy. You can add skills to the lowest category in the hierarchy.
+A skill category can contain parent and child categories that together create a category hierarchy. You can add skills to the lowest category in the hierarchy.
 
 You can build your skill taxonomy from scratch or use the sample data provided with your application.
 
@@ -68,7 +68,7 @@ Do this
 
 </td><td>
 
--   Select the **Add Skills** [[check-box|check box]].
+-   Select the **Add Skills** check box.
 -   Right-click the form header and click **Save**.
 -   In the **Skills** related list, click **New**.
 -   In the **Name** field, enter the name of the skill.
@@ -77,7 +77,4 @@ Do this
 </td></tr></tbody>
 </table>7.  Click **Submit**.
 
-## Related
 
-- [[pace-create-category|Create a category]]
-- [[check-box|Check box]]

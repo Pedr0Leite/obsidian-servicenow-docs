@@ -137,11 +137,11 @@ Security analysts or managers can personalize the security incidents or response
 -   **[Apply quick filters on Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-quick-filters-for-security-incidents.md)**  
 Apply the predefined quick filters on Security Incidents and Response Tasks lists to get the desired work items.
 -   **[Assign Security Incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/assign-security-incident.md)**  
-[[assign-security-incident|Assign security incidents]].
+Assign security incidents.
 -   **[Close multiple security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/close-multiple-incidents-sir.md)**  
-[[close-multiple-incidents-sir|Close multiple security incidents]] at the same time to avoid having to close related incidents individually, such as incidents created with a common root cause or false positive incidents.
+Close multiple security incidents at the same time to avoid having to close related incidents individually, such as incidents created with a common root cause or false positive incidents.
 -   **[Assign Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/assign_response_tasks.md)**  
-[[assign_response_tasks|Assign Response tasks]] for a security issue.
+Assign Response tasks for a security issue.
 -   **[Report Phish Email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-phish-email.md)**  
 Report phishing emails from the lists view.
 -   **[Working with quick filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-quick-filters.md)**  
@@ -168,8 +168,3 @@ Use the Shift Handover records list view to create, edit, copy, or delete Shift 
 
 [Shift Handover Records section]()
 
-## Related
-
-- [[assign-security-incident|Assign Security Incidents]]
-- [[close-multiple-incidents-sir|Close multiple security incidents]]
-- [[assign_response_tasks|Assign Response Tasks]]

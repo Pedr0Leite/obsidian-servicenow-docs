@@ -26,8 +26,5 @@ Regional Manager:
 
 HQ Manager and Regional Manager: **Recurring operational plans** - For plans scheduled on a recurring basis such as weekly stock counts, monthly safety checks. Both HQ and regional managers use the Track Plan view to monitor the current cycle's execution state and compare completion rates across cycles over time.
 
-**Parent Topic:**[[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]
+**Parent Topic:**[Retail store plans tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-explore-store-plans-tracking.md)
 
-## Related
-
-- [[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]

@@ -27,7 +27,7 @@ The base system provides:
         -   Subject person: Person that is the subject of the HR request.
     -   Notification emails are not sent for reclassification cases.
 -   Standard:
-    -   The HR case number changes when transferring an HR case from one HR service to another. Both HR case numbers appear on the HR case for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+    -   The HR case number changes when transferring an HR case from one HR service to another. Both HR case numbers appear on the HR case for reference.
     -   Links do not redirect from original case to new case.
     -   The subject person receives a notification email with the closed case and transferred case information.
 -   Common to both Reclassify and Standard:
@@ -69,7 +69,7 @@ The hr\_TransferCase script include provides a list of fields ignored in the tra
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Transfer Case Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Transfer Case Configuration**.
 
 2.  Select **New**.
 
@@ -107,7 +107,7 @@ The HR case transfer type that appears on the Transfer Case menu from the HR cas
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR criteria]]
+HR criteria
 
 </td><td>
 
@@ -167,8 +167,4 @@ You can also retain the details of the original case. For example, you can take 
 
     See [Email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailConfiguration.md).
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-criteria|HR criteria]]

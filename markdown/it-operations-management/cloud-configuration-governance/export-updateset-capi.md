@@ -31,7 +31,7 @@ Package the cloud API as an update set. Then export the update set from its curr
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud API** &gt; **API**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud API** &gt; **API**.
 
     All cloud APIs appear in the Cloud API window.
 
@@ -89,6 +89,4 @@ Package the cloud API as an update set. Then export the update set from its curr
 
     The cloud API you imported should appear in the list of cloud APIs.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

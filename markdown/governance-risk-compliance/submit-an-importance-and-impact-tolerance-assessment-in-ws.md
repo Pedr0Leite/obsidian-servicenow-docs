@@ -12,7 +12,7 @@ breadcrumb: [Performing Importance and impact tolerance assessment, Manage, Oper
 
 # Submit the assessment
 
-Log in as an assessor of the Importance and impact tolerance assessment, respond to the questionnaire, and submit the assessment in [[grc-opres-landing-page|Operational Resilience]] Workspace for an approval.
+Log in as an assessor of the Importance and impact tolerance assessment, respond to the questionnaire, and submit the assessment in Operational Resilience Workspace for an approval.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sn\_oper\_res.manager
 
     3.  Select **Add contributors**.
 
-        Contributors can view the assessment from the [[list-view-uib-ws|list view]] or from the Tasks page. They can respond to the assessment and save their changes, but they cannot submit it. Only primary owners of the assessment can submit them.
+        Contributors can view the assessment from the list view or from the Tasks page. They can respond to the assessment and save their changes, but they cannot submit it. Only primary owners of the assessment can submit them.
 
 6.  To finish a pending assessment, select **All questions** or **Unanswered questions**.
 
@@ -89,10 +89,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-The owner of the Importance and impact tolerance assessment \(IIA\) requests for an approval. For more information, see [[verify-response-to-the-assessment-in-ws|Request an approval for the assessment]]. If no approvers are specified, the record moves to the **Approved** state.
+The owner of the Importance and impact tolerance assessment \(IIA\) requests for an approval. For more information, see [Request an approval for the assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/verify-response-to-the-assessment-in-ws.md). If no approvers are specified, the record moves to the **Approved** state.
 
-## Related
-
-- [[verify-response-to-the-assessment-in-ws|Request an approval for the assessment]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

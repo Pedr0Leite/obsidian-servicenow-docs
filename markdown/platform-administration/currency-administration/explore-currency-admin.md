@@ -22,7 +22,7 @@ The ServiceNow AI Platform® supports two types of currency fields: default \(or
 
 -   **FX Currency**
 
-    FX Currency is an alternate type of currency field that is highly configurable, supports custom rate tables, and provides for improved visibility into conversion calculations. You can add [[fx-currency|FX Currency fields]] to base and custom applications, and they work independently of existing [[configure-and-use-default-currency-fields|standard currency fields]].
+    FX Currency is an alternate type of currency field that is highly configurable, supports custom rate tables, and provides for improved visibility into conversion calculations. You can add FX Currency fields to base and custom applications, and they work independently of existing standard currency fields.
 
 
 -   **[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)**  
@@ -32,7 +32,3 @@ Use FX \(Foreign Exchange\) Currency fields as an alternative to the standard \(
 
 **Parent Topic:**[Currency administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency.md)
 
-## Related
-
-- [[fx-currency|FX Currency fields]]
-- [[configure-and-use-default-currency-fields|Standard currency fields]]

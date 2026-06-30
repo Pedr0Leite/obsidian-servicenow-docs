@@ -18,12 +18,8 @@ Your Adobe integration profile is set to fetch subscription and usage informatio
 
 |Scheduled job|Run frequency|Description|
 |-------------|-------------|-----------|
-|SAM - Import Adobe User Subscriptions|Weekly|Imports and updates the Adobe Cloud application subscription data into the [[c_SoftwareAssetMgmt|Software Asset Management]] application from the Adobe Admin Console. This data provides visibility into all Adobe user subscriptions and the users to whom the subscriptions are assigned in the Adobe portal. The user subscription data can be viewed in the [[sam-workspace|Software Asset Workspace]].|
+|SAM - Import Adobe User Subscriptions|Weekly|Imports and updates the Adobe Cloud application subscription data into the Software Asset Management application from the Adobe Admin Console. This data provides visibility into all Adobe user subscriptions and the users to whom the subscriptions are assigned in the Adobe portal. The user subscription data can be viewed in the Software Asset Workspace.|
 |SAM - Optimize Adobe Subscriptions|Monthly|Adobe subscription data is pulled into the Software Asset Management application when the SAM - Import Adobe User Subscriptions scheduled job runs. When the subscription data is pulled, the SAM - Optimize Adobe Subscriptions scheduled job optimizes the Adobe Creative Cloud subscriptions based on usage.|
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

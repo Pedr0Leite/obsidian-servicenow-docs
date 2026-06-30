@@ -14,8 +14,5 @@ breadcrumb: [Source-to-Pay integration with Oracle Financial Cloud, Integration 
 
 # Use the Source-to-Pay integration with Oracle Financial Cloud
 
-Learn how you can use [[source-to-pay-oracle-fin-cloud-integration|Source-to-Pay integration with Oracle Financial Cloud]] to handle sales orders, procurement, finance, and so on, in Oracle Financial Cloud from your ServiceNow instance.
+Learn how you can use Source-to-Pay integration with Oracle Financial Cloud to handle sales orders, procurement, finance, and so on, in Oracle Financial Cloud from your ServiceNow instance.
 
-## Related
-
-- [[source-to-pay-oracle-fin-cloud-integration|Source-to-Pay integration with Oracle Financial Cloud]]

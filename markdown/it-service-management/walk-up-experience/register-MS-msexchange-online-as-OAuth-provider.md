@@ -14,7 +14,7 @@ breadcrumb: [Set up Microsoft Office 365 integration for Walk-up Experience, Int
 
 # Register Microsoft Exchange Online as the OAuth provider
 
-Register Microsoft Exchange Online as the OAuth provider so that your [[walkup-experience-landing-page|Walk-up Experience]] instance can request OAuth 2.0 tokens.
+Register Microsoft Exchange Online as the OAuth provider so that your Walk-up Experience instance can request OAuth 2.0 tokens.
 
 ## Before you begin
 
@@ -202,6 +202,3 @@ Client credentials in the request.
 
 **Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/setup-walkup-msoffice365-cal-integ.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

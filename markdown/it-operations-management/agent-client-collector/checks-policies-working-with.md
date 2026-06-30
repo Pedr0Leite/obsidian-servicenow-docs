@@ -18,7 +18,7 @@ Run a check command on your server or database to gather data from those devices
 
 ## Policies
 
-A policy consists of the Configuration Items \(CIs\) monitored by the [[acc-landing-page|Agent Client Collector]], and the checks that run on those CIs. Policies define which checks to run, as well as when and on which CIs to run them.
+A policy consists of the Configuration Items \(CIs\) monitored by the Agent Client Collector, and the checks that run on those CIs. Policies define which checks to run, as well as when and on which CIs to run them.
 
 ## Checks
 
@@ -57,6 +57,3 @@ Policies monitor the configuration items \(CIs\) that are mapped to the agent ho
 
 When activating a policy, Agent Client Collector Framework maps monitored CIs to a policy. This policy mapping repeats every seven days after the initial mapping. Every 15 minutes \(by default\), the Agent Client Collector monitors the CMDB for any changes matching the filter conditions, and updates the mapping accordingly. To modify the frequency by which mapping between the CMDB and CI is updated, modify the sn\_agent\_sync\_filters\_interval\_min property on the System Properties page \(**All** &gt; **System Properties** &gt; **All Properties**\).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrated applications, Overview, Continual Improvement Management
 
 # Integrate Continual Improvement Management using extension point
 
-Integrate CIM with other [[dex-workspace-application-tab|applications]] by using the CIMIntegrationAPI extension point. It defines the inbound and outbound extension points for integrating CIM with other applications.
+Integrate CIM with other applications by using the CIMIntegrationAPI extension point. It defines the inbound and outbound extension points for integrating CIM with other applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or sn\_cim.improvement\_manager
 
 ## About this task
 
-The CIMIntegrationAPI defines the inbound and outbound extension points for integrating CIM with other applications. Inbound integrations enable you to [[create-improvmt-from-apps|create improvement initiatives from integrated applications]]. Outbound integrations enable you to [[create-app-records|create application records from improvement initiatives]] or CIM tasks.
+The CIMIntegrationAPI defines the inbound and outbound extension points for integrating CIM with other applications. Inbound integrations enable you to create improvement initiatives from integrated applications. Outbound integrations enable you to create application records from improvement initiatives or CIM tasks.
 
 ## Procedure
 
@@ -59,8 +59,3 @@ The CIMIntegrationAPI defines the inbound and outbound extension points for inte
 
 **Parent Topic:**[Applications integrated with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-integration.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[create-improvmt-from-apps|Create improvement initiatives from integrated applications]]
-- [[create-app-records|Create application records from improvement initiatives]]

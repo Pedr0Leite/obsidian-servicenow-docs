@@ -24,11 +24,8 @@ Your agents can use Order Capture to create manual service orders with additiona
 
 1.  You select and configure the service specifications and then perform reviews before submission.
 2.  When you submit the service order, the ServiceNow AI Platform creates a service order record to manage the order fulfillment. A service order has one or more associated order line items that describe the services being performed.
-3.  To review or modify a service order after you have submitted it, use the same procedures that you use for all other orders, regardless of their origin. To learn more, see [[service-order-mgt-review-approve-service-orders|Reviewing service orders for fulfillment]].
+3.  To review or modify a service order after you have submitted it, use the same procedures that you use for all other orders, regardless of their origin. To learn more, see [Reviewing service orders for fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-approve-service-orders.md).
 
-4.  After the service managers complete their order review, they can approve \(or reject\) the order for fulfillment by service agents. To learn more about reviewing and fulfilling service orders, regardless of their source of origin, see [[service-order-mgt-fulfillment-processing|Approving and fulfilling service orders]].
+4.  After the service managers complete their order review, they can approve \(or reject\) the order for fulfillment by service agents. To learn more about reviewing and fulfilling service orders, regardless of their source of origin, see [Approving and fulfilling service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-fulfillment-processing.md).
 
-## Related
 
-- [[service-order-mgt-review-approve-service-orders|Reviewing service orders for fulfillment]]
-- [[service-order-mgt-fulfillment-processing|Approving and fulfilling service orders]]

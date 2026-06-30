@@ -14,7 +14,7 @@ breadcrumb: [Allow policy exception requests, Enhancement steps, Implement, Poli
 
 # Create an exception questionnaire
 
-When you are setting up the Policy Exception Integration Registry, you can define configurable questions that can be included in [[risk-assessments|risk assessments]] created from templates. The Policy Exception Integration Registry can be associated with one template at a time.
+When you are setting up the Policy Exception Integration Registry, you can define configurable questions that can be included in risk assessments created from templates. The Policy Exception Integration Registry can be associated with one template at a time.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_compliance.attestation\_creator
 
     \[Omitted image "exception-quest-new.png"\] Alt text: New exception questionnaire
 
-    **Note:** Notice that the Assessment Metric Type screen opened. In the [[tprm-terminology|terminology]] of GRC applications, a question in a questionnaire is considered a metric. A group of questions is a category. A group of categories is a metric type.
+    **Note:** Notice that the Assessment Metric Type screen opened. In the terminology of GRC applications, a question in a questionnaire is considered a metric. A group of questions is a category. A group of categories is a metric type.
 
 3.  On the form, fill in the fields.
 
@@ -53,7 +53,3 @@ Role required: sn\_compliance.attestation\_creator
 
 **Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[tprm-terminology|Terminology]]

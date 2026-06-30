@@ -14,7 +14,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner, Extend ServiceNow AI Platform 
 
 # Exploring ATF Test Generator and Cloud Runner
 
-Use the [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]] application to generate tests depending on the instance behavior and workflows. You can also execute the generated tests using the Cloud Runner option.
+Use the ATF Test Generator and Cloud Runner application to generate tests depending on the instance behavior and workflows. You can also execute the generated tests using the Cloud Runner option.
 
 ## ATF Test Generator and Cloud Runner overview
 
@@ -51,7 +51,7 @@ ATF Test Generator and Cloud Runner has the following users.
 |Generate test automatically using ATF Test Generator and Cloud Runner|[Generating the tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-generate-tests.md)|System administrator|
 |Execute the tests using the Cloud Runner browser option|[Executing the tests using Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-execute-tests.md)|System administrator|
 |Schedule tests and test suites execution and nightly runs|[Scheduling test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-schedule-test-run.md)|System administrator|
-|Review the [[atf-tg-cr-log-boq-form|log entries in the BOQ form]] to debug errors during the execution of the test suites|[Log entries in the BOQ form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-log-boq-form.md)|System administrator|
+|Review the log entries in the BOQ form to debug errors during the execution of the test suites|[Log entries in the BOQ form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-log-boq-form.md)|System administrator|
 
 ## What to explore next
 
@@ -62,7 +62,3 @@ To learn more about using Log Export Service, see:
 -   [Using ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-use.md)
 -   [ATF Test Generator and Cloud Runner reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-ref.md)
 
-## Related
-
-- [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]]
-- [[atf-tg-cr-log-boq-form|Log entries in the BOQ form]]

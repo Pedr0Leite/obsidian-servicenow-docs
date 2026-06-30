@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Zoom, Unified Employee Experience, Employee Service 
 
 # Collaboration services for Zoom reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics providing additional information about ServiceNow Collaboration services for Zoom components and forms.
+Reference topics providing additional information about ServiceNow Collaboration services for Zoom components and forms.
 
 For more information about the API scope for ServiceNow Collaboration services for Zoom, see [Setup Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-zoom.md)
 
@@ -23,6 +23,3 @@ The list of the API permissions/scope requested by the ServiceNow Collaboration 
 
 **Parent Topic:**[ServiceNow for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

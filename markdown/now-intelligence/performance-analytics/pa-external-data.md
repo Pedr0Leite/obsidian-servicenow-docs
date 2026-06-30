@@ -58,7 +58,7 @@ Role required: pa\_admin, pa\_power\_user, or admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **External Data** &gt; **External Indicators** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **External Data** &gt; **External Indicators** and select **New**.
 
 2.  Give the indicator a descriptive **Name**.
 
@@ -108,7 +108,7 @@ Key
 
 </td><td>
 
-Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **[[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]**. Not used in [[par-workspace|Platform Analytics experience]].
+Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **Analytics Hub**. Not used in Platform Analytics experience.
 
 </td></tr><tr id="row_unit"><td>
 
@@ -139,12 +139,12 @@ Number format
 The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_FormulaRounding.md).
 
 </td></tr></tbody>
-</table>8.  In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+</table>8.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
     Activating **Show in library** means that the indicator will be available in the following places:
 
     -   The Platform Analytics indicator library
-    -   [[kpi-details|KPI Details]]
+    -   KPI Details
     -   Analytics Hub, but only on upgraded instances that haven’t fully migrated to Platform Analytics
 9.  In the **Other** tab, set various miscellaneous properties.
 
@@ -214,14 +214,14 @@ Show real-time score
 
 When selected, the Analytics Hub and KPI Details can show the score of this indicator in real time, as well as the current state of associated records. Clear this check box when indicator data isn’t available in real time, such as in an integration that uses data from a third-party source. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
 
- Note: A condition must be set on the indicator or the associated indicator source for [[real-time-scores|real-time scores]] to be displayed.
+ Note: A condition must be set on the indicator or the associated indicator source for real-time scores to be displayed.
 
 </td></tr></tbody>
 </table>    For example, in the Other tab you can configure an indicator as follows:
 
-    -   By default, it shows a 30-day running sum of scores in [[widgets|widgets]]. You can override this default in the Analytics Hub, KPI Details, dashboard widgets, or workspace data visualization.
+    -   By default, it shows a 30-day running sum of scores in widgets. You can override this default in the Analytics Hub, KPI Details, dashboard widgets, or workspace data visualization.
     -   The IT Live Group is notified of changes to the indicator.
-    -   The indicator is listed third in the [[c_UseIndicatorOverview|Analytics Hub list of indicators]]. All other indicators also have their position specified. This setting does not affect the order of indicators on KPI Details.
+    -   The indicator is listed third in the Analytics Hub list of indicators. All other indicators also have their position specified. This setting does not affect the order of indicators on KPI Details.
     -   The default chart type is Spline on KPI Details.
     -   Data lines for the indicator are shown unbroken, even when data is missing.
     -   KPI Details can show the score of this indicator in real time.
@@ -376,13 +376,3 @@ Certain Performance Analytics functionality is not available when you measure ex
 -   You cannot use widget visualizations that depend on 2nd-level breakdowns with external data. This includes pivot and heatmap visualizations.
 -   Because snapshots are not available, you cannot view changes in collected records
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[par-workspace|Platform Analytics experience]]
-- [[access-control|Access control]]
-- [[kpi-details|KPI Details]]
-- [[real-time-scores|Real-time scores]]
-- [[widgets|Widgets]]
-- [[c_UseIndicatorOverview|Analytics Hub list of indicators]]

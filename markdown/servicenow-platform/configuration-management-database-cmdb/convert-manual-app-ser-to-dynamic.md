@@ -14,7 +14,7 @@ breadcrumb: [Service instances \(Application services\), Configuration Managemen
 
 # Convert legacy manual services to dynamic application services
 
-Unify the way that you manage services in your organization by converting legacy manual services into dynamic application services. Conversion lets you streamline the different types of services in your organization, leverage ITOM capabilities, and align with the [[csdm-landing-page|Common Service Data Model]] \(CSDM\).
+Unify the way that you manage services in your organization by converting legacy manual services into dynamic application services. Conversion lets you streamline the different types of services in your organization, leverage ITOM capabilities, and align with the Common Service Data Model \(CSDM\).
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: app\_service\_admin
 
 **Note:** Converting a legacy manual service to a dynamic application service is irreversible. Once converted, you can’t revert it back to a legacy manual service. However, you can convert a dynamic application service to a manual application service.
 
-You can't edit a dynamic application service directly. If you remove a CI from the map, it reappears once the service is recalculated. To ensure permanent changes, update the [[c_CIRelationships|CI relationships in the CMDB]] CI Relationship \[cmdb\_rel\_ci\] table.
+You can't edit a dynamic application service directly. If you remove a CI from the map, it reappears once the service is recalculated. To ensure permanent changes, update the CI relationships in the CMDB CI Relationship \[cmdb\_rel\_ci\] table.
 
 During conversion, the following changes and processes occur:
 
@@ -57,7 +57,4 @@ If the original manual service contains related items belonging to these CI type
 
 4.  In the Related Links section on the service form, select **Convert to Dynamic Service**.
 
-## Related
 
-- [[csdm-landing-page|Common Service Data Model]]
-- [[c_CIRelationships|CI relationships in the CMDB]]

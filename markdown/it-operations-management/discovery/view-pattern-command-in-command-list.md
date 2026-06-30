@@ -19,11 +19,11 @@ View and filter infrastructure or application pattern commands by various criter
 ## Before you begin
 
 -   Verify that Pattern Designer Enhancements \(sn\_itom\_pde\) is installed.
--   If you have the [[r-discovery|discovery]]\_admin role and match one of these conditions, refresh the command list:
+-   If you have the discovery\_admin role and match one of these conditions, refresh the command list:
 
     -   You are viewing commands for the first time
     -   You have customized any pattern
-    -   You have upgraded Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   You have upgraded Discovery and Service Mapping Patterns
     You can refresh the command list by navigating to **All** &gt; **Pattern Designer** &gt; **Command Validation Tool** &gt; **Commands List** and selecting **Refresh Command List**.
 
     **Note:** The pde\_viewer role can't refresh commands.
@@ -58,7 +58,3 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

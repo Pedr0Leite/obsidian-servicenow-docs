@@ -14,7 +14,7 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Grant the Insurance claims roles access to an insurance policy table
 
-Grant the [[insurance-claims-flow|Insurance claims]] contributor \(sn\_ins\_gen\_claim.fnol\_representative\) and agent \(sn\_ins\_gen\_claim.processor\) roles with access to an insurance policy table by using the Insurance claims application. This way, the users with these roles can view the policy details when they’re processing claims.
+Grant the Insurance claims contributor \(sn\_ins\_gen\_claim.fnol\_representative\) and agent \(sn\_ins\_gen\_claim.processor\) roles with access to an insurance policy table by using the Insurance claims application. This way, the users with these roles can view the policy details when they’re processing claims.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Create an instance of the insurance policy by creating a policy record. For more
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

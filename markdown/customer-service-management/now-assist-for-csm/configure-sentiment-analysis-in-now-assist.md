@@ -14,13 +14,13 @@ breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer
 
 # Configure sentiment analysis case
 
-[[case-sentiment-analysis-configure|Configure Sentiment Analysis]] to evaluate case sentiment, trends, and reasoning from case inputs, helping agents resolve cases more efficiently.
+Configure Sentiment Analysis to evaluate case sentiment, trends, and reasoning from case inputs, helping agents resolve cases more efficiently.
 
 ## Before you begin
 
 Role required: admin
 
-[[case-sentiment-analysis|Sentiment analysis]] is generated from the information that you enter in the following fields:
+Sentiment analysis is generated from the information that you enter in the following fields:
 
 -   Description
 -   Short Description
@@ -155,7 +155,7 @@ Requestor fields
 
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
-11. In **Select Display** toggle to determine if chat recommendation appears in In-product desktop, displaying Now Assist skills on [[migration-forms|forms]] and workspaces.
+11. In **Select Display** toggle to determine if chat recommendation appears in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
 12. After selecting **Review and Activate** to examine changes, select **Done** to close the Sentiment Analysis generation settings.
 
@@ -164,14 +164,8 @@ Requestor fields
 
 Additional information:
 
--   Verify that [[csm-workspaces-configure|CSM Configurable Workspace]] Foundation plugin version is 25.1.4
+-   Verify that CSM Configurable Workspace Foundation plugin version is 25.1.4
 -   To access the Sentiment field, refer to the information available at these KB links:
     -   [Sentiment analysis card is missing in case records in both CSM UI16 and workspace UIs on Now Assist CSM Sentiment Analysis feature activation](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2105461).
     -   [Sentiment analysis card display on a record in CSM workspace](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2105452)
 
-## Related
-
-- [[case-sentiment-analysis-configure|Configure Sentiment Analysis]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[migration-forms|Forms]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

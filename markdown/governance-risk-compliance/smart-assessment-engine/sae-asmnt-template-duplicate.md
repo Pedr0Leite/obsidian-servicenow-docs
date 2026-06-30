@@ -14,7 +14,7 @@ breadcrumb: [Use template designer, Manage, Smart Assessment Engine, Governance,
 
 # Copy an assessment template
 
-Make a copy of an existing assessment template in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] to help reduce the amount of manual input needed. The copied template includes all questions, sections, instructions, and existing configurations from the original template, which you can then customize to meet new requirements or scenarios.
+Make a copy of an existing assessment template in the Smart Assessment Engine to help reduce the amount of manual input needed. The copied template includes all questions, sections, instructions, and existing configurations from the original template, which you can then customize to meet new requirements or scenarios.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The system generates a copied template in the Draft state. When you open the tem
 
 [Create an assessment template category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-category-create.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

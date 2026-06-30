@@ -14,7 +14,7 @@ breadcrumb: [Before implementation, Configuration detail, Configuring the Mobile
 
 Configure offline mode to enable your users who have no internet connection to continue working from a mobile device.
 
-Configure specific applications, screens, or functions for users to use offline in your mobile apps. For a description of how offline mode features enhance end users' experience, see [[offline-end-user|Offline mode for mobile]].
+Configure specific applications, screens, or functions for users to use offline in your mobile apps. For a description of how offline mode features enhance end users' experience, see [Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md).
 
 ## Plan an offline mode strategy
 
@@ -22,7 +22,7 @@ Offline mode involves a series of configuration and planning decisions. These ra
 
 Before making configuration decisions, identify your target users, the screens they need access to, expected data size, and connectivity patterns such as field versus office use. This gives you the context to make the right choices at each level of the app, screen, and function hierarchy, keeping your offline mode lightweight and aligned with your users’ needs.
 
-The offline mode setup options walk you through the key decisions involved in planning your offline configuration. Review each option to help you determine which approach best fits yours and your users' needs and working patterns, when constructing your offline mode strategy. For more information, see [[offline-setup-options|Offline mode setup options]].
+The offline mode setup options walk you through the key decisions involved in planning your offline configuration. Review each option to help you determine which approach best fits yours and your users' needs and working patterns, when constructing your offline mode strategy. For more information, see [Offline mode setup options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-setup-options.md).
 
 ## Offline mode process
 
@@ -61,19 +61,12 @@ When your users have network access again, they can disable ofﬂine mode and sy
 \[Omitted image "offline-conflict.png"\] Alt text: Screens showing how to synchronize data.
 
 </td></tr></tbody>
-</table>-   **[[offline-capabilities|Mobile experience capabilities available in offline mode]]**  
+</table>-   **[Mobile experience capabilities available in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-capabilities.md)**  
 Use the table to view the various capabilities and features that are either fully, partially or not supported in offline mode.
--   **[[mobile-system-properties|System properties in offline mode]]**  
+-   **[System properties in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-system-properties.md)**  
 Use the table to view system properties related to offline mode.
 -   **[Offline mode setup options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-setup-options.md)**  
 Review the setup options to determine which configurations apply to your offline mode requirements. Each option explains what to configure and why, helping you make informed decisions. Before configuring, identify your target users, the screens they need, expected data size, and connectivity patterns such as field versus office use.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[offline-end-user|Offline mode for mobile]]
-- [[offline-setup-options|Offline mode setup options]]
-- [[offline-capabilities|Mobile experience capabilities available in offline mode]]
-- [[mobile-system-properties|System properties in offline mode]]
-- [[imp-considerations|Considerations before implementation]]

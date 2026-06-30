@@ -22,7 +22,7 @@ Drive proactive experiences to enable positive habit formation for managers and 
 
 ## Boost productivity
 
-Define and empower managers to receive timely bite-sized insights and drive positive actions. Enable employees to stay on task by meeting them in their workflow, for example, by posting insights and actions on the [[manager-hub-overview|Manager Hub]] portal. Create reminders in [[employee-journey-management|Employee Journey Management]] to enable employees to stay on task by prompting them in their flow of work.
+Define and empower managers to receive timely bite-sized insights and drive positive actions. Enable employees to stay on task by meeting them in their workflow, for example, by posting insights and actions on the Manager Hub portal. Create reminders in Employee Journey Management to enable employees to stay on task by prompting them in their flow of work.
 
 ## Accessibility
 
@@ -44,7 +44,7 @@ Engage managers and employees through prompts displayed on the most reachable ch
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about tokens, data sources, actions and channels in Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about tokens, data sources, actions and channels in Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -55,8 +55,3 @@ Engage managers and employees through prompts displayed on the most reachable ch
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-journey-management|Employee Journey Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

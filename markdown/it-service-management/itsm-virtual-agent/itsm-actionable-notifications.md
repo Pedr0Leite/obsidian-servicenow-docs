@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent, IT Service Management]
 
 # ITSM Virtual Agent pre-built actionable notifications
 
-Send interactive messages to an employee through Virtual Agent, based on pending tasks or alerts. Deflect some of the most common ITSM incidents to [[itsm-virtual-agent|ITSM Virtual Agent]], reduce incident volume to Service Desk, and help employees discover ITSM Virtual Agent as a resolution channel.
+Send interactive messages to an employee through Virtual Agent, based on pending tasks or alerts. Deflect some of the most common ITSM incidents to ITSM Virtual Agent, reduce incident volume to Service Desk, and help employees discover ITSM Virtual Agent as a resolution channel.
 
 ## Actionable notifications
 
@@ -61,6 +61,3 @@ You can use the pre-built deflection topics and topic blocks in Virtual Agent co
 
 [Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-auto-resolution.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

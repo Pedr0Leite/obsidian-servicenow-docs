@@ -14,7 +14,7 @@ breadcrumb: [Integrating Employee Center for Microsoft Viva Connections, Employe
 
 # Install Employee Center for Microsoft Viva Connections application
 
-Install the [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]] application to enable users to easily access their task cards from Microsoft Teams.
+Install the Employee Center for Microsoft Viva Connections application to enable users to easily access their task cards from Microsoft Teams.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ A confirmation message appears on successful installation.
 
 **Parent Topic:**[Integrating Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-viva.md)
 
-## Related
-
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]

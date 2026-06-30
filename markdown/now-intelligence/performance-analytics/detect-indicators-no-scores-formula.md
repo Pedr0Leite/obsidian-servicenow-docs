@@ -22,7 +22,7 @@ Role required: pa\_power\_user, admin
 
 ## About this task
 
-The formulas in [[formula-indicators|formula indicators]] typically contain one or more other indicators. If one of those indicators has no score, by default the formula is not calculated and the formula indicator returns no score. However, several use cases exist for identifying the indicator that has no score instead of having the formula indicator return null. First enable the formula to be calculated when an indicator in the formula has no score. Then you can assign a value to an indicator with no score.
+The formulas in formula indicators typically contain one or more other indicators. If one of those indicators has no score, by default the formula is not calculated and the formula indicator returns no score. However, several use cases exist for identifying the indicator that has no score instead of having the formula indicator return null. First enable the formula to be calculated when an indicator in the formula has no score. Then you can assign a value to an indicator with no score.
 
 ## Procedure
 
@@ -102,6 +102,3 @@ Formula 2, Formula 3, Formula 4, and Formula 5 represent four different ways to 
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[formula-indicators|Formula indicators]]

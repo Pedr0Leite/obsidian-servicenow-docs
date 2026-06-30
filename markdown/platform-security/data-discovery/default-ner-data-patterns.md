@@ -16,13 +16,13 @@ breadcrumb: [Configure patterns, Data Discovery jobs, Exploring Data Discovery \
 
 Use Named Entity Recognition \(NER\) based discovery to help discover sensitive data that does not follow fixed patterns.
 
-Several [[data-privacy-landing|Data Privacy]] capabilities support using Named Entity Recognition \(NER\) model data patterns to discover data such as names, organizations, nationalities, and political affiliations. Data patterns with the type Model use this feature \(see [Configure Data Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-patterns.md) for more details\).
+Several Data Privacy capabilities support using Named Entity Recognition \(NER\) model data patterns to discover data such as names, organizations, nationalities, and political affiliations. Data patterns with the type Model use this feature \(see [Configure Data Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-patterns.md) for more details\).
 
 **Warning:** This feature requires an additional $0 SKU to be signed by the customer in order to be enabled. Also, customers must have the latest version of the GenAI Controller `sn.generative.ai` installed on their instance \(which requires the admin role\).
 
 NER data patterns can be used for:
 
--   Running [[data-discovery-jobs|Data Discovery jobs]] using [Data Discovery policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/data-discovery-policies.md).
+-   Running Data Discovery jobs using [Data Discovery policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/data-discovery-policies.md).
 -   Running Anonymization jobs using [Data Anonymization Policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-anonymization.md).
 
     **Note:** To anonymize any NER data pattern within text in a classified column, you need to select the Data Pattern Anonymization technique when creating the anonymization policy. Then, ensure that each NER data pattern is added to [Active Data Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-active-data-patterns.md).
@@ -344,8 +344,3 @@ STATE
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[data-discovery-jobs|Data Discovery jobs]]

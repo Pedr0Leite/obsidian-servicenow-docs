@@ -91,7 +91,7 @@ The state and the Contract status of the contract request is Work in progress.
 
     For more information, see [Create a document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
 
-9.  Analyze the contract documents to identify non-standard and missing clauses by [[cncore-use-now-assist-land|using Now Assist in Contract Management]].
+9.  Analyze the contract documents to identify non-standard and missing clauses by using Now Assist in Contract Management.
 
     For more information, see [Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md).
 
@@ -197,6 +197,3 @@ Select **Initiate offline signature**. Signature request emails are not sent to 
 
 **Parent Topic:**[Use non-self-served contract request]()
 
-## Related
-
-- [[cncore-use-now-assist-land|Using Now Assist in Contract Management]]

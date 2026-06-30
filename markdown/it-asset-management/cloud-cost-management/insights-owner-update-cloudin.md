@@ -24,7 +24,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Account to owner mappings**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Account to owner mappings**.
 
 2.  Select **Change the owner for one or more accounts**.
 
@@ -142,6 +142,3 @@ The following process runs:
 
 **Parent Topic:**[Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owner-new-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

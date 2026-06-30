@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management plugins, Configuring Service Level Managem
 
 # Activate Service Level Management
 
-You can activate the [[service-level-mgmt-landing-page|Service Level Management]] plugin \(com.snc.sla\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Service Level Management plugin \(com.snc.sla\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Activating this plugin, provides the core SLA functional.ities.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -51,12 +51,7 @@ Activating the Service Level Management plugin adds or modifies these components
 
 [Activate SLA timeline]()
 
-[Activate Service Level Management - [[sla-timer|SLA Timer]] Config API]()
+[Activate Service Level Management - SLA Timer Config API]()
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[sla-timer|SLA timer]]

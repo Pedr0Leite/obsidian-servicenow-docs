@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Example - configure dynamic scheduling to ignore excluded technicians
 
-Add [[dynamic-scheduling|dynamic scheduling]] task filters to ensure that work order tasks are not assigned to agents who are excluded from the customer account.
+Add dynamic scheduling task filters to ensure that work order tasks are not assigned to agents who are excluded from the customer account.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Dispatchers or managers can override exclusions at any time by manually assignin
 
 [Exclude Field Service technicians from being assigned work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/exclude-agents-from-being-assigned-tasks.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

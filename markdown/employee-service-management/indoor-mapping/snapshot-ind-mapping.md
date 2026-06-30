@@ -14,7 +14,7 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Create Snapshots to migrate Indoor Mapping data
 
-Create snapshots for taking point-in-time backups of your [[Indoor-mapping|Indoor Mapping]] map data and objects and migrate the snapshots to [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] instances.
+Create snapshots for taking point-in-time backups of your Indoor Mapping map data and objects and migrate the snapshots to Workplace Service Delivery instances.
 
 ## Before you begin
 
@@ -84,7 +84,3 @@ Role required: map admin, map editor, wsd\_core\_admin
 
 **Next topic:**[Keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/keyboard-shortcuts.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

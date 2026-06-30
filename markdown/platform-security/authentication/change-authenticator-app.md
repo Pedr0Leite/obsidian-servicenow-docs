@@ -28,7 +28,7 @@ Role required: none
 
     **Note:** You can also access your profile by clicking on your user name in the instance header.
 
-2.  In your user profile, click **Muti-factor [[c_Authentication|Authentication]]** in the **Related Links** section.
+2.  In your user profile, click **Muti-factor Authentication** in the **Related Links** section.
 
 3.  Under **Authenticator app**, select the edit icon.
 
@@ -38,6 +38,4 @@ Role required: none
 
 5.  Follow the directions on the screen to register the authenticator app with the device.
 
-## Related
 
-- [[c_Authentication|Authentication]]

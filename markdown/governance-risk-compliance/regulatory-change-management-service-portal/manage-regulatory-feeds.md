@@ -22,7 +22,7 @@ Role required: sn\_grc\_reg\_change.manager
 
 ## About this task
 
-[[list-view-of-reg-alerts|Regulatory alerts]] are displayed under the Regulatory Alerts module in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application.
+Regulatory alerts are displayed under the Regulatory Alerts module in the Regulatory Change Management application.
 
 As a manager, you can view and assign the regulatory event alerts to users with the sn\_grc\_reg\_change.user role. The user can then perform actions on the regulatory event alerts.
 
@@ -252,7 +252,3 @@ The regulatory event alert is assigned to the selected user and it is listed und
 
 [Manage and assign source document alerts]()
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

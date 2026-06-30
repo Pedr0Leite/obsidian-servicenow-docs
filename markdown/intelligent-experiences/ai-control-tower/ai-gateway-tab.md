@@ -15,7 +15,7 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # AI Gateway tab in AI Control Tower
 
-Explore the [[ai-gateway-overview|AI Gateway]] tab in the [[ai-control-tower-landing|AI Control Tower]].
+Explore the AI Gateway tab in the AI Control Tower.
 
 ## AI Gateway overview
 
@@ -35,7 +35,3 @@ Total transactions are all tool calls, calculated by MCP method equal, which is 
 
 The success rate is the number of such transactions that have an HTTP status from 200 through 299 divided by the total.
 
-## Related
-
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-control-tower-landing|AI Control Tower]]

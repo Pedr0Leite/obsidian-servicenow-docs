@@ -20,7 +20,7 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the [[synthetic-monitoring-landing-page|synthetic monitoring]] icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
 
 2.  Select a monitor from the list of all monitors.
 
@@ -28,12 +28,8 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
     The modal displays information about the test including a response body. In this example, it shows that the request was sent to a bad gateway.
 
-    **Note:** If your monitor uses OAuth and a test fails, see [[troubleshoot-oauth|OAuth issues]].
+    **Note:** If your monitor uses OAuth and a test fails, see [OAuth issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-oauth.md).
 
     \[Omitted image "sys-mon-failed\_monitor.png"\] Alt text: A modal displays information about the test including a response body that states that the request was to a bad gateway.
 
-## Related
 
-- [[troubleshoot-oauth|OAuth issues]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]

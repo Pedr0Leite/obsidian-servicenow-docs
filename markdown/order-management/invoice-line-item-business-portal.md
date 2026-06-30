@@ -21,7 +21,7 @@ Invoice line list view details on the Business Portal.
 |Description|A brief summary of the invoice line item.|
 |Invoice date|Date on which the invoice was created.|
 |Due date|Date on which the invoice is due for payment.|
-|Status|The current status of the invoice line. For more information, see[[invoice-states|Invoice states on Business Portal]].|
+|Status|The current status of the invoice line. For more information, see[Invoice states on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-states.md).|
 |Account|Name of the customer or business entity in the business-to-business \(B2B\) model.|
 |Customer contact|Primary contact for your account.|
 |Product offering|The product or service offering associated with this invoice line.|
@@ -31,15 +31,10 @@ Invoice line list view details on the Business Portal.
 |Billing location|The billing address that appears on the original invoice.|
 |Shipping to location|Reference to the location to which the order on the invoice is shipped.|
 
-**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
 **Related topics**  
 
 
-[[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
+[Dispute a specific line item on an invoice against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-single.md)
 
-## Related
-
-- [[invoice-states|Invoice states on Business Portal]]
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]

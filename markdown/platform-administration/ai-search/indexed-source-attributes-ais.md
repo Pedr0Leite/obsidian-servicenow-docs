@@ -25,7 +25,7 @@ Examples of how you might use indexed source attributes include the following.
 An indexed source's attributes appear in its Advanced Configuration related list.
 
 -   **[Create an indexed source attribute in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-attr-ais.md)**  
-Define an indexed source attribute to configure the [[ia-ai-search|AI Search]] content indexing behavior for all records on a source table.
+Define an indexed source attribute to configure the AI Search content indexing behavior for all records on a source table.
 -   **[Enable indexing of tags for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-tag-indexing-ais.md)**  
 Configure an indexed source attribute to enable indexing of content from tags found on records from an indexed source.
 -   **[Enable indexing of attachments for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-attachment-indexing-ais.md)**  
@@ -37,6 +37,3 @@ You can adjust indexing behavior for an AI Search indexed source by configuring 
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

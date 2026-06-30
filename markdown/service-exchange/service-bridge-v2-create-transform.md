@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The following steps describe the transform process for providers. Consumers can navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Transforms** and follow the same process.
+The following steps describe the transform process for providers. Consumers can navigate to **All** &gt; **Service Exchange Consumer** &gt; **Transforms** and follow the same process.
 
 ## Procedure
 
@@ -219,9 +219,5 @@ When Type field is set to **Virtual Inbound** or **Virtual Outbound**, this fiel
 
 ## Result
 
-A transform record is created on your ServiceNow® instance. Any Remote Task's inbound or outbound fields that match a transform will automatically use them. To learn more, see [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]].
+A transform record is created on your ServiceNow® instance. Any Remote Task's inbound or outbound fields that match a transform will automatically use them. To learn more, see [Create a remote task definition in Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-remote-tasks-defs.md).
 
-## Related
-
-- [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

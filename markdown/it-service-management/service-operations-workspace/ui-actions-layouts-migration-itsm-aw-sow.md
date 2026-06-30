@@ -14,7 +14,7 @@ breadcrumb: [Configure and customize the migration to SOW, Migrate from ITSM Age
 
 # Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-[[migration-from-itsm-aw-sow|Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM]] includes identifying the required tables, identifying the eligible UI actions and layout records for migrations, and the migration process.
+Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying the eligible UI actions and layout records for migrations, and the migration process.
 
 ## UI actions
 
@@ -29,7 +29,7 @@ To group UI actions, a layout is required, which acts as a container to the grou
 |Table name|Description|
 |----------|-----------|
 |UI Action \[sys\_ui\_action\]|Contains UI action and layouts configurations to migrate.|
-|UI Action Layout \[sys\_aw\_form\_uiaction\_layout\]|Contains a set of records \(base system or custom\) associated with the agent workspace. The [[migration-utility|migration utility]] considers these records as eligible for migration. All the group UI actions specified in such UI Action Layout \[sys\_aw\_form\_uiaction\_layout\] record are [[migrated-records|migrated]].|
+|UI Action Layout \[sys\_aw\_form\_uiaction\_layout\]|Contains a set of records \(base system or custom\) associated with the agent workspace. The migration utility considers these records as eligible for migration. All the group UI actions specified in such UI Action Layout \[sys\_aw\_form\_uiaction\_layout\] record are migrated.|
 
 ## How the migration utility identifies UI actions and layouts for migration
 
@@ -41,7 +41,7 @@ The Service Operations Workspace migration utility identifies the eligible set o
 
 ## How the migration works
 
-The Service Operations Workspace migration utility uses the following sequence to migrate the UI actions from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]]. All these actions are done by the utility.
+The Service Operations Workspace migration utility uses the following sequence to migrate the UI actions from ITSM Agent Workspace to Service Operations Workspace for ITSM. All these actions are done by the utility.
 
 1.  Searches for UI Action Layout \[sys\_aw\_form\_uiaction\_layout\] table records that are mapped to UI Action Group \[sys\_aw\_form\_uiaction\_group\] records.
 2.  Searches for UX Form Actions Layout Group \[sys\_ux\_form\_action\_layout\_group\] table records that are mapped to UI Action Layout \[sys\_aw\_form\_uiaction\_layout\] table records. The set of UI actions and the type of grouping must be the same for these records.
@@ -67,7 +67,7 @@ The Service Operations Workspace migration utility uses the following sequence t
     4.  If a mapped record isn’t found, creates a Sys Ux M2m Action Layout Item \[sys\_ux\_m2m\_action\_layout\_item\] table record.
 
 -   **[Perform post-migration tasks for UI actions and layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-ui-actions-layouts.md)**  
-Verify that the UI actions and layouts in Service Operations Workspace \(SOW\) are consistent with UI actions and layouts in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated UI actions and layouts [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the UI actions and layouts in Service Operations Workspace \(SOW\) are consistent with UI actions and layouts in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated UI actions and layouts settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -96,10 +96,3 @@ Verify that the UI actions and layouts in Service Operations Workspace \(SOW\) a
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[migration-from-itsm-aw-sow|Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Create custom opportunity types, Configure, Opportunity Marketplace
 
 # Create a custom opportunity type
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] comes with a few base system opportunity types. You can create a custom opportunity type to meet the needs of your organization.
+Opportunity Marketplace comes with a few base system opportunity types. You can create a custom opportunity type to meet the needs of your organization.
 
 ## Before you begin
 
@@ -52,14 +52,10 @@ You can customize several areas for an opportunity type or use existing records.
 
 9.  If you want an icon to display for your **Opportunity type**, select **Click to add**.
 
-    You can also add links for help topics. The help appears at the bottom of the **Create an opportunity** page in the [[employee-center-landing-page|Employee Center]] under **Opportunities you own**.
+    You can also add links for help topics. The help appears at the bottom of the **Create an opportunity** page in the Employee Center under **Opportunities you own**.
 
 10. Select **Submit**.
 
 
 **Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-type.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]

@@ -19,7 +19,7 @@ Use the refine content skill to shorten, elaborate, rephrase, or generate conten
 
 The refine content skill helps users shorten, elaborate, rephrase, or generate content in the **Short description** and **Description** fields in the Details step while creating or editing a catalog item.
 
-You can also elaborate or shorten the content in the **Instructions** field and the **Conversational [[label|label]]** field in the Questions step.
+You can also elaborate or shorten the content in the **Instructions** field and the **Conversational label** field in the Questions step.
 
 **Note:** Verify that you have activated the skill before refining the information in the fields for a catalog item.
 
@@ -38,6 +38,3 @@ This skill is available in the following workflow and product.
 
 [Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
-## Related
-
-- [[label|Label]]

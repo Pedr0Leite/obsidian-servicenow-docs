@@ -22,13 +22,13 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **[[indicator|Indicators]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Indicators**.
 
 2.  Select **Indicator**.
 
 3.  Click **New**.
 
-    **Note:** Whenever you create new object records for [[c_Observables|observables]], indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 4.  On the form, fill in the fields.
 
@@ -296,7 +296,7 @@ Represents the processing status of this indicator.
 </td></tr></tbody>
 </table>5.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 6.  Click **Continue**.
 
@@ -340,7 +340,7 @@ Lists the MITRE techniques related to this indicator.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -348,7 +348,7 @@ Lists the Attack Patterns source that describe the methods that adversaries atte
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -356,7 +356,7 @@ Lists the Campaigns Source that describe a set of malicious activities or attack
 
 </td></tr><tr><td>
 
-[[course-of-action|Courses of Action]]
+Courses of Action
 
 </td><td>
 
@@ -364,7 +364,7 @@ Lists the courses of action related to this indicator.
 
 </td></tr><tr><td>
 
-[[data-sources|Data Sources]]
+Data Sources
 
 </td><td>
 
@@ -380,7 +380,7 @@ Lists the data components related to this indicator.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -392,11 +392,11 @@ Indicators
 
 </td><td>
 
-Lists the indicators that are related to this indicator.**Note:** This section also contains the [[potential-relationships|potential relationships]] between two indicators. For more information, see [Confirm indicator-indicator potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-potential-relationships.md)and see [Define indicator-indicator relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-relationships.md) for the confirmed relationships between the two observables.
+Lists the indicators that are related to this indicator.**Note:** This section also contains the potential relationships between two indicators. For more information, see [Confirm indicator-indicator potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-potential-relationships.md)and see [Define indicator-indicator relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-relationships.md) for the confirmed relationships between the two observables.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -412,7 +412,7 @@ Lists a set of adversarial behaviors and resources with common properties that a
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -420,7 +420,7 @@ Lists the geographical locations associated with the object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -428,7 +428,7 @@ Lists malware source records that are related to this indicator.
 
 </td></tr><tr><td>
 
-[[marking-definitions|Marking Definitions]]
+Marking Definitions
 
 </td><td>
 
@@ -436,7 +436,7 @@ Lists the marking definitions associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware-analysis|Malware Analysis]]
+Malware Analysis
 
 </td><td>
 
@@ -452,7 +452,7 @@ Lists the related observable records that are related to this indicator.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-observed-data|Observed Data]]
+Observed Data
 
 </td><td>
 
@@ -460,7 +460,7 @@ Lists the observed data that are cyber security related entities such as files, 
 
 </td></tr><tr><td>
 
-[[indicator-sightings|Sightings]]
+Sightings
 
 </td><td>
 
@@ -468,7 +468,7 @@ Lists sightings source records associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -484,7 +484,7 @@ Lists the event or situation that has the potential for causing undesirable cons
 
 </td></tr><tr><td>
 
-[[threat-groupings|Threat Groupings]]
+Threat Groupings
 
 </td><td>
 
@@ -492,7 +492,7 @@ Lists the threat groupings as objects that have a shared context.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-threat-notes|Threat Notes]]
+Threat Notes
 
 </td><td>
 
@@ -500,7 +500,7 @@ Lists the threat notes that convey information to provide further context or ana
 
 </td></tr><tr><td>
 
-[[threat-opinions|Threat Opinions]]
+Threat Opinions
 
 </td><td>
 
@@ -508,7 +508,7 @@ Lists the threat opinions as an assessment of the accuracy of the information th
 
 </td></tr><tr><td>
 
-[[threat-reports|Threat Reports]]
+Threat Reports
 
 </td><td>
 
@@ -516,7 +516,7 @@ Lists the threat reports associated with this indicator.
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -524,7 +524,7 @@ Lists the tool associated with this object.
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
@@ -571,29 +571,3 @@ List of external references that describes this indicator.
 
 **Parent Topic:**[Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]
-- [[stix-relationships|Relationships]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[course-of-action|Courses of Action]]
-- [[data-sources|Data Sources]]
-- [[threat-intelligence-identities|Identities]]
-- [[potential-relationships|Potential Relationships]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[marking-definitions|Marking definitions]]
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[indicator-sightings|Sightings]]
-- [[threat-actors|Threat actors]]
-- [[threat-groupings|Threat groupings]]
-- [[threat-intelligence-threat-notes|Threat notes]]
-- [[threat-opinions|Threat opinions]]
-- [[threat-reports|Threat reports]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

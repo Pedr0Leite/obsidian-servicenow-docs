@@ -14,7 +14,7 @@ breadcrumb: [Entity View Action Mapper reference, Entity view action mapper, Man
 
 # Roles required for EVAM
 
-Learn about the roles needed to configure and manage the [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\).
+Learn about the roles needed to configure and manage the Entity View Action Mapper \(EVAM\).
 
 |Role|Description|
 |----|-----------|
@@ -23,6 +23,3 @@ Learn about the roles needed to configure and manage the [[entity-view-action-ma
 
 **Parent Topic:**[Entity View Action Mapper reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/entity-view-action-mapper-reference.md)
 
-## Related
-
-- [[entity-view-action-mapper|Entity view action mapper]]

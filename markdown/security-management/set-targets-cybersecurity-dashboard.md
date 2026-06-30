@@ -12,7 +12,7 @@ breadcrumb: [Cybersecurity Executive Dashboard, Security Operations]
 
 # Set targets
 
-Set targets in days to remediate the [[vulnerabilities|vulnerabilities]], security incidents, and misconfigurations.
+Set targets in days to remediate the vulnerabilities, security incidents, and misconfigurations.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[vulnerabilities|Vulnerabilities]]

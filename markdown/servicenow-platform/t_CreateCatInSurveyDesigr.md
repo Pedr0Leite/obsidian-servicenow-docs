@@ -24,7 +24,7 @@ When you create a survey, the system creates a default category, using the name 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **[[c_SurveyDesigner|Survey Designer]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **Survey Designer**.
 
 2.  Enter the name of the survey in the **Name** field.
 
@@ -40,18 +40,13 @@ When you create a survey, the system creates a default category, using the name 
 
 4.  To add a new category, click the **+** icon in the title bar of an existing category.
 
-    The new category appears below the category that you selected to create it. You can click the **X** icon in a category header to [[t_DeleteACategory|delete a category]] that you added in error.
+    The new category appears below the category that you selected to create it. You can click the **X** icon in a category header to delete a category that you added in error.
 
 
-**Parent Topic:**[[c_SurveyCategory|Survey categories]]
+**Parent Topic:**[Survey categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)
 
 **Related topics**  
 
 
 [Create a survey category in a survey]()
 
-## Related
-
-- [[c_SurveyCategory|Survey categories]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[t_DeleteACategory|Delete a category]]

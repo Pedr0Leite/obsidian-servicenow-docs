@@ -14,7 +14,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Use Cloud Root Cause Analysis reports
 
-Root Cause Analysis reports help you troubleshoot issues with [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. Use the reports to view details about [[cloud-orch-trail|the Cloud Orchestration Trail]] and [[cloud-api-trail|the Cloud API Trail]].
+Root Cause Analysis reports help you troubleshoot issues with Cloud Provisioning and Governance. Use the reports to view details about the Cloud Orchestration Trail and the Cloud API Trail.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Operate** &gt; **Root Cause Analysis Dashboard**.
+1.  In the Cloud Admin Portal, navigate to **Operate** &gt; **Root Cause Analysis Dashboard**.
 
     The Root Cause Analysis dashboard appears, with the **Cloud Root Cause Analysis Dashboard** displayed by default. This gives you a graphical summary of the Cloud Orchestration Trail with trail records under the reports. These charts group records by different attributes:
 
@@ -54,7 +54,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
     **Note:**
 
-    Starting with Australia the Cloud API dashboard will be hidden and no longer activated on new instances but will continue to be supported. The [[csc-home|Cloud Services Catalog]] application provides this functionality now. The application is being prepared for future deprecation.
+    Starting with Australia the Cloud API dashboard will be hidden and no longer activated on new instances but will continue to be supported. The Cloud Services Catalog application provides this functionality now. The application is being prepared for future deprecation.
 
     \[Omitted image "cloud-api-dashboard.png"\] Alt text: The Cloud API dashboard
 
@@ -62,10 +62,4 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
     See [The Cloud API Trail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-api-trail.md) for descriptions of the Cloud API Trail form fields.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-orch-trail|The Cloud Orchestration Trail]]
-- [[cloud-api-trail|The Cloud API Trail]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[csc-home|Cloud Services Catalog]]

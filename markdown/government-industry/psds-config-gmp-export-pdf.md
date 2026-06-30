@@ -47,14 +47,9 @@ The export PDF functionality should appear in the Confirm Application Details ac
 
 The data that shows up in the exported PDF is generated based on a pre-configured document template. This configuration can be modified to add/delete fields, change formatting of the document, and more.
 
-**Parent Topic:**[[psds-config-gmp-foundation|Configure Grants Management]]
+**Parent Topic:**[Configure Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-foundation.md)
 
-**Previous topic:**[[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]
+**Previous topic:**[Configure a currency in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-single-currency-setup.md)
 
-**Next topic:**[[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
+**Next topic:**[Configure PaCE Eligibility Framework Engine for use with Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-pace.md)
 
-## Related
-
-- [[psds-config-gmp-foundation|Configure Grants Management]]
-- [[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]
-- [[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]

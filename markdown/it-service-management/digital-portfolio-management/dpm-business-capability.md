@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Relate business capabilities to view in Digital Portfolio Management
 
-You can relate business capabilities for a service or for a business application to see them in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+You can relate business capabilities for a service or for a business application to see them in the Digital Portfolio Management \(DPM\) Workspace.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ You can create a business capability by navigating to **All** &gt; **CSDM** &gt;
 
 [View business application details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-business-apps-details.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]

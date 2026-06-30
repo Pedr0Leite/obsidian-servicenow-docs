@@ -14,7 +14,7 @@ breadcrumb: [Rollup Framework for MSIM, Major Security Incident Management, Secu
 
 # Configure List Layout in Major Security Incident Management
 
-Configure list layout to customize the layout and labels used in [[msim-workspace|Major Security Incident Management workspace]] such as Incident Impact, Linked Records, and [[threat-intel-landing-page|Threat Intelligence]] tabs.
+Configure list layout to customize the layout and labels used in Major Security Incident Management workspace such as Incident Impact, Linked Records, and Threat Intelligence tabs.
 
 Role required: admin and sn\_msi.workspace\_admin.
 
@@ -42,7 +42,3 @@ The list layout configurations were already shipped for existing known tables sh
 
 [Perform on demand atomic rollup]()
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[threat-intel-landing-page|Threat Intelligence]]

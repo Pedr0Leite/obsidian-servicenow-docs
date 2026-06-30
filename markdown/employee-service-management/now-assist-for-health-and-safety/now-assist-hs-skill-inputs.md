@@ -22,7 +22,7 @@ An input identifies the data that is used for a skill, such as the table and fie
 
 ## Health and Safety incident summarization skill
 
-The [[health-safety-overview|Health and Safety]] incident summarization skill includes inputs that identify the table and fields that are used when a summary is generated.
+The Health and Safety incident summarization skill includes inputs that identify the table and fields that are used when a summary is generated.
 
 **Note:** These fields are read-only.
 
@@ -69,6 +69,3 @@ Short description
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

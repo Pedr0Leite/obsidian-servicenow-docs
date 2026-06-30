@@ -14,7 +14,7 @@ breadcrumb: [Installing and configuring Password Reset Windows Application, Pass
 
 # Enable the Password Reset Windows Application to set the display language for the session
 
-When the [[win-password-reset-overview|Password Reset Windows Application]] starts, the application passes the Windows language code to the instance. The instance then dynamically sets the language for the guest user session.
+When the Password Reset Windows Application starts, the application passes the Windows language code to the instance. The instance then dynamically sets the language for the guest user session.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: password\_reset\_admin
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]

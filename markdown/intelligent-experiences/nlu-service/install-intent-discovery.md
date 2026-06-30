@@ -14,7 +14,7 @@ breadcrumb: [Intent Discovery, NLU Workbench - Advanced Features, Natural Langua
 
 # Install Intent Discovery
 
-You can install the [[intent-discovery|Intent Discovery]] application \(sn\_nlu\_discovery\) if you have the admin role.
+You can install the Intent Discovery application \(sn\_nlu\_discovery\) if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ You can install the [[intent-discovery|Intent Discovery]] application \(sn\_nlu\
 -   Review the [Intent Discovery](https://store.servicenow.com/sn_appstore_store.do#!/store/application/abcdef8b072f00109c257a76fed300c1) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Intent Discovery requires the following plugins. Ensure that these plugins are activated before you install Intent Discovery.
     -   **Required ServiceNow plugins**
-        -   **[[predictive-intelligence-landing|Predictive Intelligence]] \(com.glide.platform\_ml\)**
+        -   **Predictive Intelligence \(com.glide.platform\_ml\)**
 
             Enables various Predictive Intelligence and Machine Learning capabilities for training models. See [Install Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md).
 
@@ -55,7 +55,4 @@ For more information, see [Components installed with Intent Discovery](https://r
 
 4.  Select **Install**.
 
-## Related
 
-- [[intent-discovery|Intent Discovery]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

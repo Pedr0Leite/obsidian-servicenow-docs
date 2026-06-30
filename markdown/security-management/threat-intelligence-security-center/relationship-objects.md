@@ -14,16 +14,16 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Relationships Objects
 
-Use the relationships objects to link together two [[c_Observables|observables]] or an observable and SDO to explain how they relate to each other.
+Use the relationships objects to link together two observables or an observable and SDO to explain how they relate to each other.
 
-STIX Relationship Objects \(SROs\) represent types of [[stix-relationships|relationships]] between various STIX objects. The following relationship objects are available:
+STIX Relationship Objects \(SROs\) represent types of relationships between various STIX objects. The following relationship objects are available:
 
 -   **Observable-Observable Relationship**: This object defines relationships between observables.
--   **Object-Object Relationship**: This object defines relationships between SDOs, except the indicator object. An example of an object-object defined relationship is that an attack pattern delivers a [[threat-intelligence-malware|malware]].
--   **Object-Observable Relationship**: This object defines relationships between SDOs and the observable object \(SCO\). An example of an object-observable defined relationship is that an [[threat-intelligence-infrastructure|infrastructure]] consists of cyber observable objects which provides information of a potential attack.
+-   **Object-Object Relationship**: This object defines relationships between SDOs, except the indicator object. An example of an object-object defined relationship is that an attack pattern delivers a malware.
+-   **Object-Observable Relationship**: This object defines relationships between SDOs and the observable object \(SCO\). An example of an object-observable defined relationship is that an infrastructure consists of cyber observable objects which provides information of a potential attack.
 -   **Object-indicator Relationship**: This object defines relationships between SDOs and the indicator object.
 -   **Indicator-Indicator Relationships**: This object defines relationships between indicator objects.
--   **Indicator-Observable Relationship**: This object defines relationships between the indicator object and other SDOs. An example of an object-indicator defined relationship is that an indicator detects evidence of a [[campaign|campaign]].
+-   **Indicator-Observable Relationship**: This object defines relationships between the indicator object and other SDOs. An example of an object-indicator defined relationship is that an indicator detects evidence of a campaign.
 
 <table id="table_ihr_xkv_xmb"><thead><tr><th>
 
@@ -103,7 +103,7 @@ Attack-Pattern, Campaign, Infrastructure, Intrusion-set, Malware, Threat-actor, 
 
 </td><td>
 
-This relationship describes that the indicator can detect evidence of the related attack pattern, campaign, infrastructure, [[threat-intelligence-intrusion-sets|intrusion set]], malware, [[threat-actor|threat actor]], or tool.The evidence may not be direct. For example, the indicator may detect secondary evidence of the campaign such as malware that is commonly used by that particular campaign.
+This relationship describes that the indicator can detect evidence of the related attack pattern, campaign, infrastructure, intrusion set, malware, threat actor, or tool.The evidence may not be direct. For example, the indicator may detect secondary evidence of the campaign such as malware that is commonly used by that particular campaign.
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Infrastructure
 
 </td><td>
 
-[[threat-intelligence-observed-data|Observed data]]
+Observed data
 
 </td><td>
 
@@ -135,7 +135,7 @@ Indicator-Observable
 
 </td><td>
 
-This relationship describes between the [[indicator|indicators]] and observables.
+This relationship describes between the indicators and observables.
 
 </td></tr></tbody>
 </table>-   **[Define observable-observable relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable.md)**  
@@ -176,14 +176,3 @@ Define relationships between the indicator object and other SDOs.
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[stix-relationships|Relationships]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[campaign|Campaign]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[indicator|Indicators]]

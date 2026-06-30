@@ -20,7 +20,7 @@ Role required: sn\_gd\_guidance.guidance\_manager
 
 ## About this task
 
-The preview information appears on the [[configure-nba|Recommended Actions]] card in the contextual side panel. The preview experience is applicable only for Recommended Actions, where agents can see previews of recommendations before launching them.
+The preview information appears on the Recommended Actions card in the contextual side panel. The preview experience is applicable only for Recommended Actions, where agents can see previews of recommendations before launching them.
 
 Playbooks don’t have a preview experience because decision trees are embedded and considered launched already in playbooks.
 
@@ -259,9 +259,5 @@ Specifies the default value of the field for any new record. Ensure that this va
 
 ## What to do next
 
-[[configure-guidance-preview-detail-experiences-ga|Configure guidance detail experience]] for Recommended Actions cards.
+[Configure guidance detail experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-preview-detail-experiences-ga.md) for Recommended Actions cards.
 
-## Related
-
-- [[configure-guidance-preview-detail-experiences-ga|Configure guidance detail experience]]
-- [[configure-nba|Recommended Actions]]

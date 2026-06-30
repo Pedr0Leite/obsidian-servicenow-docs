@@ -32,7 +32,7 @@ In the previous example, the following rules are applied.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Response Templates**.
+1.  Navigate to **All** &gt; **Risk Events** &gt; **Administration** &gt; **Response Templates**.
 
 2.  Select and open the risk event response template for which you want to add the financial threshold limit.
 
@@ -40,7 +40,7 @@ In the previous example, the following rules are applied.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the [[financial-impact-approval-thresholds-form|Financial Impact Approval Thresholds form]], see [Financial Impact Approval Thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/financial-impact-approval-thresholds-form.md).
+    For a description of the field values on the Financial Impact Approval Thresholds form, see [Financial Impact Approval Thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/financial-impact-approval-thresholds-form.md).
 
 5.  Select **Submit**.
 
@@ -54,7 +54,3 @@ Use the Financial Impact Approval Thresholds form to define monetary thresholds 
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[financial-impact-approval-thresholds-form|financial impact approval thresholds form]]

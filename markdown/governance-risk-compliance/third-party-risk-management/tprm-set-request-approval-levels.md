@@ -37,7 +37,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
     |Name|Name for the approval level.|
     |Level|Stage of approval.|
 
-    **Note:** In an [[bcm-approval-configuration|approval configuration]], you can’t have multiple approval levels with the same level number. The rules of each level are applied sequentially, one after the other.
+    **Note:** In an approval configuration, you can’t have multiple approval levels with the same level number. The rules of each level are applied sequentially, one after the other.
 
 5.  Select **Submit**.
 
@@ -51,6 +51,3 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 [Set up the approval rules for due diligence requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-rules.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

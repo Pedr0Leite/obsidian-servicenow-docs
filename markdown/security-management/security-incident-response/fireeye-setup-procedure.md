@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required NowPlatform and [[sir-landing-page|Security Incident Response]] \(SIR\) roles.
+Verify that you have assigned the required NowPlatform and Security Incident Response \(SIR\) roles.
 
 </td><td>
 
@@ -60,7 +60,7 @@ The following applications must be installed and activated from the ServiceNow S
 2.  Security Support Core
 3.  Security Support Common
 4.  Security Incident Response
-5.  [[threat-intel-landing-page|Threat Intelligence]] Support Common
+5.  Threat Intelligence Support Common
 6.  ServiceNow Integration Hub Enterprise Pack Installer
 
 </td></tr><tr><td>
@@ -112,10 +112,5 @@ An optional approval workflow is available for isolating host machines, restorin
 
 ## What to do next
 
-The next step is to [[configure-cortex-xsiam-siem|install and configure]] the application from ServiceNow Store.
+The next step is to install and configure the application from ServiceNow Store.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

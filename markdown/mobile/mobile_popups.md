@@ -28,12 +28,8 @@ The following are use cases of when it's beneficial to use mobile pop-ups.
 -   Time-sensitive information- Mobile pop-ups can display time-sensitive information, like flash sale notifications or event reminders. For example, information about campaigns, company news and announcements, “What’s new” on their application, or information about the site they're currently visiting. 
 -   Actions Confirmation- Mobile pop-ups may be used to handle cases where the user must confirm an action when a specific condition is met. For example, display a pop-up to a user stating that they've accepted a new task with an estimated three hours of work, but their work shift is due to end in an hour. 
 
--   **[[mobile-popups-create|Create a mobile pop-up]]**  
+-   **[Create a mobile pop-up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-popups-create.md)**  
 Learn how to display configurable mobile pop-ups based on real-time conditions. You can display these pop-ups at the mobile app login phase or after a button tap.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[mobile-popups-create|Create a mobile pop-up]]
-- [[imp-considerations|Considerations before implementation]]

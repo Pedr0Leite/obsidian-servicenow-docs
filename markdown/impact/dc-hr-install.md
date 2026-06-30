@@ -16,7 +16,7 @@ To enable the Data Collection Pack, you must install dependent plugins and activ
 
 ## Before you begin
 
-The HR Success Metric Definitions in this application rely on another application. Ensure that the required plugins are installed if they are not already installed. For more information, see [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]].
+The HR Success Metric Definitions in this application rely on another application. Ensure that the required plugins are installed if they are not already installed. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
 The HR Success Metric Definitions in this application are also dependent on the following Content Packs from the store for the pre-build HR Service Definitions:
 
@@ -25,7 +25,7 @@ The HR Success Metric Definitions in this application are also dependent on the 
 -   [Offboarding - Involuntary Separation](https://store.servicenow.com/sn_appstore_store.do#!/store/application/ef6f9001db21a81034ac581adc9619ac)
 -   [Employee Transfers](https://store.servicenow.com/sn_appstore_store.do#!/store/application/6e755ee4db0e6c108fc25e77dc961950)
 
-Role required: [[impact-landing-page|Impact]] users
+Role required: Impact users
 
 ## Procedure
 
@@ -41,7 +41,4 @@ Role required: [[impact-landing-page|Impact]] users
     -   **Impact VM - HR - Historical Data Collection**
     If you're having trouble finding the data collection jobs, check whether the required data collection-dependent plugins are installed correctly. See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-## Related
 
-- [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]]
-- [[impact-landing-page|Impact]]

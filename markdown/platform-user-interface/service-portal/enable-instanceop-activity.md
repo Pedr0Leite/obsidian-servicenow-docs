@@ -14,7 +14,7 @@ breadcrumb: [Configure the standard ticket page, Standard ticket page, Creating 
 
 # Enable instance options for the Activity tab
 
-Format the work notes and add @mentions in the Activity tab on a [[standard-ticket-page|standard ticket page]].
+Format the work notes and add @mentions in the Activity tab on a standard ticket page.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ You should add the **Activity** tab in the standard ticket configuration of a re
 
 ## Procedure
 
-1.  Navigate to the request in [[c_ServicePortal|Service Portal]].
+1.  Navigate to the request in Service Portal.
 
 2.  Press Control and right-click anywhere in the **Activity** tab.
 
 3.  Click **Instance Options**.
 
-4.  [[configure-onboarding-modals|Configure]] settings for the **Activity** tab.
+4.  Configure settings for the **Activity** tab.
 
 <table id="table_chk_fqc_fmb"><thead><tr><th>
 
@@ -70,8 +70,3 @@ Option to enable mentioning the relevant people in work notes.**Note:** This opt
 
 **Parent Topic:**[Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)
 
-## Related
-
-- [[standard-ticket-page|Standard ticket page]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

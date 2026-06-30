@@ -16,17 +16,17 @@ Sync quote information from the quote record to an opportunity record. This keep
 
 ## Establish a sync between quote and opportunity
 
-As a sales agent, you can establish the sync between quote and opportunity records and ensure that a defined set of [[fields|fields]] between opportunity-quote and opportunity line items-quote line items remain synchronized.
+As a sales agent, you can establish the sync between quote and opportunity records and ensure that a defined set of fields between opportunity-quote and opportunity line items-quote line items remain synchronized.
 
-When a quote is created through an opportunity, the **Source Opportunity** field on the quote record is automatically populated with the details of the opportunity through which the quote is created. To create a quote through an opportunity, see [[create-new-quote|Create a quote]].
+When a quote is created through an opportunity, the **Source Opportunity** field on the quote record is automatically populated with the details of the opportunity through which the quote is created. To create a quote through an opportunity, see [Create a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-quote.md).
 
-When a quote is created with child line items, the revenue metrics and prices for the quote are automatically calculated. To learn more about the revenue metrics and how they’re calculated, see [[som-subscription-pricing|Subscription revenue metrics]].
+When a quote is created with child line items, the revenue metrics and prices for the quote are automatically calculated. To learn more about the revenue metrics and how they’re calculated, see [Subscription revenue metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-subscription-pricing.md).
 
 When the quote record is synchronized with the opportunity record, the prices and revenue metrics are also synced and are consistent across both forms.
 
 The **Synced** banner on the **Details** tab on the opportunity record displays whether the quote is in sync with its opportunity. To automatically sync the first quote with its source opportunity, set the autoEnableSyncFirstQuote system property to **true**.
 
-To learn more about establishing a sync between quote and opportunity and automatically enable sync, see [[som-sync-quote-with-opportunity|Sync a quote with an opportunity]].
+To learn more about establishing a sync between quote and opportunity and automatically enable sync, see [Sync a quote with an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-sync-quote-with-opportunity.md).
 
 You can create a new version of a quote from a quote record to establish a sync between the new revised quote with the initial opportunity.
 
@@ -70,21 +70,12 @@ The following is a list of default field mappings between opportunity line items
 
 **Note:** When an opportunity and quote header, and an opportunity line item and quote line item are in sync with each other, the addition and deletion of line items on the opportunity record is disabled. All the synced fields on the opportunity and opportunity line item record becomes read only.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[create-new-quote|Create a quote]]
-- [[som-subscription-pricing|Subscription revenue metrics]]
-- [[som-sync-quote-with-opportunity|Sync a quote with an opportunity]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]

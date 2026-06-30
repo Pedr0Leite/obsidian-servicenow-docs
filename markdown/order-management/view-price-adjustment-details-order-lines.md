@@ -18,7 +18,7 @@ Order agents can view the price adjustments that were applied to the base price 
 
 The unit base price, unit list price, and unit adjustment details are listed on the Pricing section of the Order Line Item Details page.
 
-The Price Adjustments tab on the Order Line Item page displays the manual price adjustments that were applied to an order line item. For information about the [[fields|fields]] on the list view, see [[field-descriptions-customer-order-line-items|Price adjustment fields]].
+The Price Adjustments tab on the Order Line Item page displays the manual price adjustments that were applied to an order line item. For information about the fields on the list view, see [Price adjustment fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/field-descriptions-customer-order-line-items.md).
 
 ## Price adjustment example
 
@@ -35,10 +35,5 @@ To understand price adjustment and the terms used, let's consider a scenario whe
 **Related topics**  
 
 
-[[configuring-pricing-plan|Configurable pricing plans]]
+[Configurable pricing plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-pricing-plan.md)
 
-## Related
-
-- [[field-descriptions-customer-order-line-items|Customer and service order line items forms]]
-- [[configuring-pricing-plan|Configurable pricing plans]]
-- [[fields|Fields]]

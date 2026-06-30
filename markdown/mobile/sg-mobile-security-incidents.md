@@ -16,8 +16,5 @@ ServiceNow mobile app issues should be reported through the standard support cha
 
 To report incidents, contact [Customer Service and Support](https://support.servicenow.com/now?draw=case).
 
-**Parent Topic:**[[sg-mobile-security-practices|Mobile security practices]]
+**Parent Topic:**[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)
 
-## Related
-
-- [[sg-mobile-security-practices|Mobile security practices]]

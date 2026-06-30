@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Shop with employee credits
 
-Shop products from the various categories in [[shopping-hub-overview|Shopping Hub]] Home with employee credits that are allocated to you. You can search, browse, and shop from all open categories as well as from those restricted categories for which credits have been assigned to you.
+Shop products from the various categories in Shopping Hub Home with employee credits that are allocated to you. You can search, browse, and shop from all open categories as well as from those restricted categories for which credits have been assigned to you.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ You can search, browse, and shop products from the various categories in Shoppin
     |Field|Description|
     |-----|-----------|
     |Get it by|Date by which you want the product.|
-    |Supplier|Option to filter by the type of the [[supplier|supplier]]. The options are Onboarded and Preferred. Select one or more suppliers from the list to refine your search.|
+    |Supplier|Option to filter by the type of the supplier. The options are Onboarded and Preferred. Select one or more suppliers from the list to refine your search.|
     |Price|Price range of the product. Select a minimum and maximum price to refine your search.|
 
 5.  From the search results, select the product you want to shop.
@@ -124,13 +124,7 @@ Method of making the payment. The available credits are displayed here. If the p
 
 ## What to do next
 
-You can view the allocation type and allocation amount breakup from the [[purchase-requisition|purchase requisition]] that is created, by navigating to the [[cost-allocations|Cost Allocations]] related list of the associated purchase requisition line.
+You can view the allocation type and allocation amount breakup from the purchase requisition that is created, by navigating to the Cost Allocations related list of the associated purchase requisition line.
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-allocations|Cost allocations]]

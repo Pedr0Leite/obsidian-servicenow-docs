@@ -16,9 +16,9 @@ breadcrumb: [Setting up healthcare locations and healthcare organizations, Confi
 
 Properly organize your healthcare organizations to reflect your team hierarchies.
 
-In [[hcls-cto-app|Healthcare Operations Core]], healthcare organizations typically exist in a multi-level hierarchy.
+In Healthcare Operations Core, healthcare organizations typically exist in a multi-level hierarchy.
 
-The [[healthcare-operations-overview|Healthcare Operations]] app menu shows one example of what this structure might look like within your healthcare organization.
+The Healthcare Operations app menu shows one example of what this structure might look like within your healthcare organization.
 
 \[Omitted image "hcso-healthcare-org-menu.png"\] Alt text: Healthcare Organizations app menu in Healthcare Operations Core.
 
@@ -36,7 +36,3 @@ The following are all Healthcare organizations related lists and their features:
 -   Available services – Displays all available services within this organization.
 -   Service organization customer criteria – Displays which customers are serviced by this healthcare organization.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]

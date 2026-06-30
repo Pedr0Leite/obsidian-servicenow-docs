@@ -13,7 +13,7 @@ breadcrumb: [View Core Business Suite Analytics, Use, Core Business Suite]
 
 # Core Business Suite Analytics overview
 
-The [[cbs-landing|Core Business Suite]] \(CBS\) Analytics dashboard provides a unified view of performance metrics and resolution trends across all Business Units in your organization.
+The Core Business Suite \(CBS\) Analytics dashboard provides a unified view of performance metrics and resolution trends across all Business Units in your organization.
 
 ## Dashboard data points
 
@@ -61,34 +61,22 @@ Grants read-only access to the CBS Analytics dashboard. Users assigned this role
 
 BU-level data is available on the individual BU-specific tabs: **Human Resources**, **Legal**, **Health &amp; Safety**, **Workplace Services**, **Finance**, **Procurement**, **Accounts Payable Operations**, and **Supplier Lifecycle Operations**.
 
--   **[[hr-analytics-cbs-dashboard|Human Resources analytics on the CBS dashboard]]**  
+-   **[Human Resources analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/hr-analytics-cbs-dashboard.md)**  
 The **Human Resources** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for HR requests, helping managers assess workload distribution and identify staffing gaps.
--   **[[legal-analytics-cbs-dashboard|Legal analytics on the CBS dashboard]]**  
+-   **[Legal analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/legal-analytics-cbs-dashboard.md)**  
 The **Legal** tab on the Core Business Suite Analytics dashboard tracks open legal case volume and resolution trends, helping managers identify unassigned cases and monitor legal request activity over time.
--   **[[health-safety-analytics-cbs-dashboard|Health &amp; Safety analytics on the CBS dashboard]]**  
+-   **[Health &amp; Safety analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/health-safety-analytics-cbs-dashboard.md)**  
 The **Health &amp; Safety** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for health and safety requests, helping managers monitor incident activity and staffing coverage.
--   **[[workplace-analytics-cbs-dashboard|Workplace Services analytics on the CBS dashboard]]**  
+-   **[Workplace Services analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/workplace-analytics-cbs-dashboard.md)**  
 The **Workplace Services** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for workplace service requests, helping managers monitor facility demand and staffing coverage.
--   **[[finance-analytics-cbs-dashboard|Finance analytics on the CBS dashboard]]**  
+-   **[Finance analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/finance-analytics-cbs-dashboard.md)**  
 The **Finance** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for finance requests, helping managers assess workload distribution and monitor finance case activity over time.
--   **[[procurement-analytics-cbs-dashboard|Procurement analytics on the CBS dashboard]]**  
+-   **[Procurement analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/procurement-analytics-cbs-dashboard.md)**  
 The **Procurement** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for procurement requests, helping managers monitor purchasing activity and identify staffing gaps.
--   **[[apo-analytics-cbs-dashboard|Accounts Payable Operations analytics on the CBS dashboard]]**  
+-   **[Accounts Payable Operations analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/apo-analytics-cbs-dashboard.md)**  
 The **Accounts Payable Operations** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for accounts payable requests, helping managers monitor invoice and payment activity.
--   **[[slo-analytics-cbs-dashboard|Supplier Lifecycle Operations analytics on the CBS dashboard]]**  
+-   **[Supplier Lifecycle Operations analytics on the CBS dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/slo-analytics-cbs-dashboard.md)**  
 The **Supplier Lifecycle Operations** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for supplier requests, helping managers monitor supplier activity and identify staffing gaps.
 
-**Parent Topic:**[[view-cbs-analytics|View Core Business Suite Analytics]]
+**Parent Topic:**[View Core Business Suite Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/view-cbs-analytics.md)
 
-## Related
-
-- [[hr-analytics-cbs-dashboard|Human Resources analytics on the CBS dashboard]]
-- [[legal-analytics-cbs-dashboard|Legal analytics on the CBS dashboard]]
-- [[health-safety-analytics-cbs-dashboard|Health &amp; Safety analytics on the CBS dashboard]]
-- [[workplace-analytics-cbs-dashboard|Workplace Services analytics on the CBS dashboard]]
-- [[finance-analytics-cbs-dashboard|Finance analytics on the CBS dashboard]]
-- [[procurement-analytics-cbs-dashboard|Procurement analytics on the CBS dashboard]]
-- [[apo-analytics-cbs-dashboard|Accounts Payable Operations analytics on the CBS dashboard]]
-- [[slo-analytics-cbs-dashboard|Supplier Lifecycle Operations analytics on the CBS dashboard]]
-- [[view-cbs-analytics|View Core Business Suite Analytics]]
-- [[cbs-landing|Core Business Suite]]

@@ -14,14 +14,14 @@ breadcrumb: [Landing Page Configurations module, Common GRC features, Governance
 
 # Issue Page Configuration module
 
-The Issue Page Configuration module displays the configurations related to the Issues overview landing pages in various workspaces. The data displayed in the Issues overview landing page is configured using the Issue Page Configurations module in the classic user interface. The Issues overview landing page includes the Issues, Issue triages, Tracking status of the issues, and [[audit-observations|Audit observations]] pages.
+The Issue Page Configuration module displays the configurations related to the Issues overview landing pages in various workspaces. The data displayed in the Issues overview landing page is configured using the Issue Page Configurations module in the classic user interface. The Issues overview landing page includes the Issues, Issue triages, Tracking status of the issues, and Audit observations pages.
 
 The Issues Overview Landing page is available in the following workspaces:
 
--   [[audit-management-overview-ws|Audit workspace]]
+-   Audit workspace
 -   Compliance workspace
 -   Privacy workspace
--   [[risk-workspace|Risk workspace]]
+-   Risk workspace
 
 GRC administrators can configure, monitor, and report issues for an active workspace by mapping the states, filter conditions, and tables using the Issue Page Configuration module.
 
@@ -39,7 +39,7 @@ The homepage in each workspace displays the issues section that provides the fol
 -   The Watching section displays the details such as Triage issues and Remediation tasks in a number format.
 
 -   **[Create a new Issue Page Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-issue-page-configuration.md)**  
-[[create-new-issue-page-configuration|Create a new issue page configuration record]] in the Issue Page Configuration module in the classic user interface. The Issue Page Configuration module displays the configurations related to the Issues section in the landing pages of the workspaces. The newly created issue is displayed in the Issue overview landing page in the selected workspace.
+Create a new issue page configuration record in the Issue Page Configuration module in the classic user interface. The Issue Page Configuration module displays the configurations related to the Issues section in the landing pages of the workspaces. The newly created issue is displayed in the Issue overview landing page in the selected workspace.
 -   **[Link a new Issue Page Configuration record to a workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/link-new-issue-config-record-to-the-ws.md)**  
 Create a new Issue Page Configuration record and link it from the classic user interface to the desired workspace. After linking the Issue Page Configuration record, the workspace view displays the new settings in the Issues overview landing page.
 -   **[Update an Issue Page Configurations record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/update-issue-page-configuration.md)**  
@@ -47,9 +47,3 @@ Update an existing Issue Page Configurations record in the classic user interfac
 
 **Parent Topic:**[Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md)
 
-## Related
-
-- [[audit-observations|Audit observations]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[risk-workspace|risk workspace]]
-- [[create-new-issue-page-configuration|Create a new Issue Page Configuration record]]

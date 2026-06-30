@@ -14,7 +14,7 @@ breadcrumb: [Portal Banner Carousel widget, Configurable Portal widgets, Set up 
 
 # Create a slide for the Portal Banner Carousel widget
 
-Create a slide to include images in the [[csm-portal-carousel-widget|Portal Banner Carousel widget]] that a user can scroll through.
+Create a slide to include images in the Portal Banner Carousel widget that a user can scroll through.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ Image to appear as the background of the slides in the carousel. The recommended
 
 The slide is created and appears on the Carousel Slides \(sp\_carousel\_slide\) page.
 
-## Related
-
-- [[csm-portal-carousel-widget|Portal Banner Carousel widget]]

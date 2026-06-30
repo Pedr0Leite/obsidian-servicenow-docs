@@ -22,7 +22,7 @@ Role required: sn\_cd.content\_manager
 
 ## Procedure
 
-1.  On the [[ec-mobile-content|Mobile Content]] form, set the **Content type** field value to `Mobile Video`.
+1.  On the Mobile Content form, set the **Content type** field value to `Mobile Video`.
 
 2.  Fill in the fields on the form, as appropriate.
 
@@ -109,6 +109,3 @@ Option to activate the mobile content for use.
 
 **Parent Topic:**[Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-delivery-mobile.md)
 
-## Related
-
-- [[ec-mobile-content|Mobile content]]

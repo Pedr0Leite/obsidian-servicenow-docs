@@ -14,14 +14,14 @@ breadcrumb: [Journey designer, Employee Journey Management, HR Service Delivery,
 
 # Using Journey designer
 
-[[jny-dsgnr-landing-page-1|Journey designer]] enables managers, mentors, and employees to create and manage personalized journeys through configurable templates. It allows users to guide and track individual progress with access to dashboards and reports, while leveraging the Now Assist Virtual Agent for automated support.
+Journey designer enables managers, mentors, and employees to create and manage personalized journeys through configurable templates. It allows users to guide and track individual progress with access to dashboards and reports, while leveraging the Now Assist Virtual Agent for automated support.
 
 ## Journey designer
 
 -   **[Journey designer plan configuration template process, owners, and maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-process-owners-maint.md)**  
 Journey plan configuration template management is a collaborative effort that includes ServiceNow admins, journey template owners, and team experts.
 -   **[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)**  
-Managers, employees, and mentors access journeys from the [[employee-center-landing-page|Employee Center]] \(EC\).
+Managers, employees, and mentors access journeys from the Employee Center \(EC\).
 -   **[Journey designer dashboards and reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-report-dashboards.md)**  
 Dashboards are configurable graphic displays of key metrics, reports, and other widgets on a single screen.
 -   **[Now Assist Virtual Agent topics for Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jd-va-topic.md)**  
@@ -31,7 +31,3 @@ Use agentic workflows and Now Assist for HRSD to facilitate and manage employee 
 
 **Parent Topic:**[Journey designer]()
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]

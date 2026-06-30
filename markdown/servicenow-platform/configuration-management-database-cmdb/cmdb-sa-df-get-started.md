@@ -14,7 +14,7 @@ breadcrumb: [Advisor setup, Use Data Foundations advisor, CMDB success advisor, 
 
 # Get started with Data Foundations advisor dashboard setup
 
-The Data Foundations advisor dashboard can be configured automatically on installation or upgrade, or manually through the [[cmdb-sa|CMDB success advisor]] landing page.
+The Data Foundations advisor dashboard can be configured automatically on installation or upgrade, or manually through the CMDB success advisor landing page.
 
 The Data Foundations scope defines which principal classes CMDB success advisor monitors. When a CI class is included in the Data Foundations advisor dashboard scope, the class is automatically marked as a principal class, which means it appears in CI selection filters on incident, change, and problem forms.
 
@@ -36,6 +36,3 @@ If auto-setup did not run or the eligibility conditions were not met, configure 
 
 For instructions, see [Set up the Data Foundations advisor dashboard manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-manual-setup.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]

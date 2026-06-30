@@ -24,13 +24,13 @@ When a record is created offline, it is assigned a temporary ID that needs to be
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -71,15 +71,9 @@ When the device reconnects and synchronization occurs:
 
 -   The server creates the record during the online step.
 -   The addRecordForSync\(\) method registers the server record as part of the action result.
--   The [[mobile-config-navigation|mobile platform]] reconciles the locally created record with the server-side record. The device and instance remain consistent without creating duplicate records.
+-   The mobile platform reconciles the locally created record with the server-side record. The device and instance remain consistent without creating duplicate records.
 
 **Note:** The addRecordForSync\(\) method can be called multiple times to register multiple records on different tables or on the same table.
 
-**Parent Topic:**[[offline-record-reconciliation|Offline record reconciliation]]
+**Parent Topic:**[Offline record reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-record-reconciliation.md)
 
-## Related
-
-- [[offline-record-reconciliation|Offline record reconciliation]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-config-navigation|Mobile Platform]]

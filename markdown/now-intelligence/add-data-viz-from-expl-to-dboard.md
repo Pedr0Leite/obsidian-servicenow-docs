@@ -22,7 +22,7 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
 1.  Launch AI Data Explorer.
 
-    For more information, see [[launch-now-assist-explorer|Launch AI Data Explorer]].
+    For more information, see [Launch AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md).
 
 2.  Open or create an exploration.
 
@@ -53,9 +53,5 @@ To save your visualization in the dashboard, select **Save** in the dashboard co
 
 \[Omitted image "nowass-expl-imp-viz-w-followup.png"\] Alt text: Dashboard and exploration after visualization is copied and follow-up is asked
 
-**Parent Topic:**[[ask-expl-questions|Questions and responses in an exploration]]
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ask-expl-questions.md)
 
-## Related
-
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]
-- [[ask-expl-questions|Questions and responses in an exploration]]

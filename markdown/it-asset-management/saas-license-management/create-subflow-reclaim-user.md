@@ -56,7 +56,7 @@ Application
 
 </td><td>
 
-**[[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] Integrations**.**Note:** If you save the subflow in the Software Asset Management - SaaS License Management Integrations application, it's included with your Software Asset Management subscription. If you save the subflow in any other application, you may be charged for ServiceNow® Integration Hub transactions. If you're publishing your custom spoke application on the ServiceNow Store, select your custom app instead.
+**Software Asset Management - SaaS License Management Integrations**.**Note:** If you save the subflow in the Software Asset Management - SaaS License Management Integrations application, it's included with your Software Asset Management subscription. If you save the subflow in any other application, you may be charged for ServiceNow® Integration Hub transactions. If you're publishing your custom spoke application on the ServiceNow Store, select your custom app instead.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,4 @@ Run As
 
     **Tip:** You can still edit the subflow after it's published.
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]

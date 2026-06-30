@@ -14,7 +14,7 @@ breadcrumb: [Create Request type, Configure, Compliance Case Management, Governa
 
 # Request type form
 
-Use the Request Type form in the [[compliance-case-management|Compliance Case Management]] application to categorize the compliance requests by their type.
+Use the Request Type form in the Compliance Case Management application to categorize the compliance requests by their type.
 
 The following table lists the descriptions of the field values.
 
@@ -32,6 +32,3 @@ The following table lists the descriptions of the field values.
 
 **Parent Topic:**[Create a request type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-request-type.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

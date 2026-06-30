@@ -70,20 +70,15 @@ An administrator can specify a specific workflow process to apply to tasks that 
 Once a task is created that meets the conditions, the workflow applies the process to the task, asking for approvals, notifying users, generating other tasks, running scripts, and so on.
 
 -   **[Task table structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/task-table-structure.md)**  
-The [[task-table-structure|Task table structure]] provides a framework to organize and store task-related data, and includes extensive customization options.
+The Task table structure provides a framework to organize and store task-related data, and includes extensive customization options.
 -   **[Defining assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DefineAssignmentRules.md)**  
-The instance can automatically assign a task to a user or group based on pre-defined conditions by using [[c_DataLookupRules|data lookup rules]] and assignment rules.
+The instance can automatically assign a task to a user or group based on pre-defined conditions by using data lookup rules and assignment rules.
 -   **[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PlannedTask.md)**  
 The Planned Task plugin provides a Planned Task `[planned_task]` table that extends the Task `[task]` table.
 -   **[Creating many-to-many task relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ManyToManyTaskRelations.md)**  
 By default, tasks can be related to each other using a parent/child relationship, such as a Problem with a group of child Incidents or a Catalog Request with a group of child Catalog Tasks.
 -   **[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)**  
-The [[time-card-management|Time Card Management]] feature enables time card users such as task assignees to report and track their time for the assigned tasks.
+The Time Card Management feature enables time card users such as task assignees to report and track their time for the assigned tasks.
 
 **Parent Topic:**[ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md)
 
-## Related
-
-- [[task-table-structure|Task table structure]]
-- [[c_DataLookupRules|Data lookup rules]]
-- [[time-card-management|Time Card Management]]

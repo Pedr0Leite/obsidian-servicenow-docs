@@ -12,7 +12,7 @@ breadcrumb: [Field Service Management]
 
 # Exploring Field Service Management
 
-Use the [[fsm-application-landing-page|Field Service Management]] application to manage work requests that are performed on location by field service agents. Whether you are starting or expanding your implementation of Field Service Management, learn more about available features to help create a seamless experience for your dispatchers, managers, and agents to resolve issues and fulfill requests.
+Use the Field Service Management application to manage work requests that are performed on location by field service agents. Whether you are starting or expanding your implementation of Field Service Management, learn more about available features to help create a seamless experience for your dispatchers, managers, and agents to resolve issues and fulfill requests.
 
 ## Field Service Management overview
 
@@ -62,7 +62,7 @@ Dispatcher
 
 </td><td>
 
-Assign the work order tasks to the most appropriate and available agents. Dispatcher can also track agent's travel and work time, [[c_PartRequirements|part requirements]], and asset usage.Dispatchers are a part of the Field Service Management team, who manages the field teams and customer experience simultaneously to achieve positive outcome for the organization.
+Assign the work order tasks to the most appropriate and available agents. Dispatcher can also track agent's travel and work time, part requirements, and asset usage.Dispatchers are a part of the Field Service Management team, who manages the field teams and customer experience simultaneously to achieve positive outcome for the organization.
 
 </td></tr><tr><td>
 
@@ -98,55 +98,30 @@ Field Service Management provides the following benefits:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Simplify setup using low-code plugins and guided setup.|[[simplified-setup|Guided setup]]|Administrator|
-|Optimize task scheduling, auto-assign tasks, and adapt to changing conditions.|[[schedule-optimization|Schedule Optimization]]|Administrator|
-|Automatically capture critical data when creating a work order from a case, incident, problem, change request, or project task record.|[[Work-order-fsm|Integrated work order entry]]|Initiator|
-|Empower customers using Field Service Management - Customer Experience to track en-route [[c_AgentLocation|agent location]] and arrival time.|[[customer-experience|Customer Experience in Field Service Management]]|Initiator|
-|Find and analyze work orders with similar underlying issues using Predictive Intelligence for Field Service Management.|[[machine-learning-fsm|Work order insights powered by Predictive Intelligence]]|Manager|
-|Make the most of your resources. Schedule work for technicians dynamically based on [[capacity|capacity]] and tasks.|[[capacity-management|Capacity and Reservations Management]]|Manager|
-|Give dispatchers everything they need in one place to make smart and fast scheduling decisions.|[[dispatcher-activities|Dispatcher Workspace]]|Dispatcher|
-|Automatically assign tasks to available field service agents with the right skills and equipment.|[[dynamic-scheduling|Dynamic scheduling]]|Dispatcher|
-|Improve agent utilization by recommending the best available tasks to fill gaps in the agent's schedule.|[[fsm-task-recommendation|Intelligent Task Recommendation]]|Dispatcher|
-|Support complex work for technician crews.|[[field-service-crew-scheduling|Field Service Crew Operations]]|Dispatcher|
-|Optimizes contractor management, improves communication, and streamlines task allocation processes.|[[fsm-marketplace|Field Service Marketplace]]|Dispatcher|
-|Efficiently schedule and manage the resource utilization for work order task based on different geographic regions.|[[territory-planning-fsm|Field Service Territory Planning]]|Territory Planner|
-|Enable technicians with an intuitive, native Mobile Agent application that enables them to quickly view and record information.|[[mobile-experience-fsm|Mobile experience for Field Service Management]]|Field Service Agent|
-|Achieve seamless visibility and task resolution for complex workflows across teams and business units.|[[playbooks|Playbooks for Field Service Management]]|Field Service Agent|
+|Simplify setup using low-code plugins and guided setup.|[Guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/simplified-setup.md)|Administrator|
+|Optimize task scheduling, auto-assign tasks, and adapt to changing conditions.|[Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization.md)|Administrator|
+|Automatically capture critical data when creating a work order from a case, incident, problem, change request, or project task record.|[Integrated work order entry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/Work-order-fsm.md)|Initiator|
+|Empower customers using Field Service Management - Customer Experience to track en-route agent location and arrival time.|[Customer Experience in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customer-experience.md)|Initiator|
+|Find and analyze work orders with similar underlying issues using Predictive Intelligence for Field Service Management.|[Work order insights powered by Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/machine-learning-fsm.md)|Manager|
+|Make the most of your resources. Schedule work for technicians dynamically based on capacity and tasks.|[Capacity and Reservations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-management.md)|Manager|
+|Give dispatchers everything they need in one place to make smart and fast scheduling decisions.|[Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-activities.md)|Dispatcher|
+|Automatically assign tasks to available field service agents with the right skills and equipment.|[Dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md)|Dispatcher|
+|Improve agent utilization by recommending the best available tasks to fill gaps in the agent's schedule.|[Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation.md)|Dispatcher|
+|Support complex work for technician crews.|[Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-crew-scheduling.md)|Dispatcher|
+|Optimizes contractor management, improves communication, and streamlines task allocation processes.|[Field Service Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-marketplace.md)|Dispatcher|
+|Efficiently schedule and manage the resource utilization for work order task based on different geographic regions.|[Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-fsm.md)|Territory Planner|
+|Enable technicians with an intuitive, native Mobile Agent application that enables them to quickly view and record information.|[Mobile experience for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-fsm.md)|Field Service Agent|
+|Achieve seamless visibility and task resolution for complex workflows across teams and business units.|[Playbooks for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/playbooks.md)|Field Service Agent|
 |Track and manage the inventory between stockrooms.|[Manage inventory in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/sourcing-parts.md)|Field Service Agent|
 |Enable agents to generate work order task summaries so that they can create notes faster and with more detail.|[Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md)|Field Service Agent|
-|On-board contractor teams for outsourcing work order tasks and ensuring that service level agreements are met.|[[monitoring-analytics-fsm|Field Service Contractor Management]]|Manager|
+|On-board contractor teams for outsourcing work order tasks and ensuring that service level agreements are met.|[Field Service Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md)|Manager|
 |Monitor and enforce compliance with environment or health protocols.|[Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md)|Manager|
 
 ## What to explore next
 
 -   [What is field service management \(FSM\)?](https://www.servicenow.com/products/field-service-management/what-is-fsm.html)
--   [[configure-fsm|Configuring Field Service Management]]
--   [[use-fsm|Using Field Service Management]]
--   [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
--   [[fsm-reference|Field Service Management reference]]
+-   [Configuring Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-fsm.md)
+-   [Using Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/use-fsm.md)
+-   [Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
+-   [Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[simplified-setup|Field Service Management Guided Setup]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[Work-order-fsm|Integrated work order entry]]
-- [[customer-experience|Customer Experience in Field Service Management]]
-- [[machine-learning-fsm|Work order insights powered by Predictive Intelligence]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[mobile-experience-fsm|Mobile experience for Field Service Management]]
-- [[playbooks|Playbooks for Field Service Management]]
-- [[monitoring-analytics-fsm|Monitoring and analytics for Field Service Management]]
-- [[configure-fsm|Configuring Field Service Management]]
-- [[use-fsm|Using Field Service Management]]
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]
-- [[c_AgentLocation|Agent location]]
-- [[capacity|Capacity]]

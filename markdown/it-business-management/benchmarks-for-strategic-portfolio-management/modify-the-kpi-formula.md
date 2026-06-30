@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Administration** &gt; **Category**.
 
-2.  From the Benchmark Indicator Categories list, select **[[r_ITBusinessManagement|Strategic Portfolio Management]]**.
+2.  From the Benchmark Indicator Categories list, select **Strategic Portfolio Management**.
 
 3.  Select a group that contains the KPI that you want to edit from the **Benchmark Indicator Groups**.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Customize the SPM Benchmarks KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/using-benchmarks.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  In the [[create-a-project-form|Project form]], right-click the header bar and select **Project task creator**.
+1.  In the Project form, right-click the header bar and select **Project task creator**.
 
 2.  Enter the number of tasks to create.
 
@@ -32,12 +32,8 @@ Role required: it\_project\_manager
 
 4.  Select **OK**.
 
-    The new tasks appear in the **[[t_CreateAProjectTask|Project Tasks]]** related list. The application automatically creates a task **Number** and a **Short Description** that starts with **Auto Created Task**, followed by a number when more than one task is created.
+    The new tasks appear in the **Project Tasks** related list. The application automatically creates a task **Number** and a **Short Description** that starts with **Auto Created Task**, followed by a number when more than one task is created.
 
 
 **Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

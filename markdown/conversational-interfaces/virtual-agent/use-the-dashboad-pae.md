@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Set the date range of the data
 
-Set the date range using the date picker on the [[overview-tab-pae|Overview tab]] to view the data visualizations for the specified date range. The date range set on this tab applies to all the other tabs on the dashboard.
+Set the date range using the date picker on the Overview tab to view the data visualizations for the specified date range. The date range set on this tab applies to all the other tabs on the dashboard.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Set the date range for the visualizations using the date picker. You can either 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Analytics**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Analytics**.
 
 2.  Use the date picker on the Overview tab to set the date range.
 
@@ -47,7 +47,3 @@ Set the date range for the visualizations using the date picker. You can either 
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[overview-tab-pae|Overview tab]]
-- [[convint-landing-page|Conversational Interfaces]]

@@ -29,7 +29,7 @@ There are two types of system address filters:
     Controls which domains and email addresses can send email to your instance.
 
 
-When setting up system address filters, you can create one default outbound filter and one default inbound filter. A default outbound filter applies to all active SMTP [[c_EmailAccounts|email accounts]] automatically. A default inbound filter applies to all active IMAP or POP3 email accounts automatically.
+When setting up system address filters, you can create one default outbound filter and one default inbound filter. A default outbound filter applies to all active SMTP email accounts automatically. A default inbound filter applies to all active IMAP or POP3 email accounts automatically.
 
 To control senders and recipients for a specific email account, create a non-default filter and then apply it to the account.
 
@@ -39,7 +39,7 @@ Before you set up system address filters, consider doing the following:
 
 -   Monitor your email to identify suspicious domains and email addresses.
 
-    Using Security Center, you can monitor the blocked and allowed incoming email [[c_MetricDefinitionSupport|metrics]] for your instance. For more information, see [Designate untrusted and trusted email domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md).
+    Using Security Center, you can monitor the blocked and allowed incoming email metrics for your instance. For more information, see [Designate untrusted and trusted email domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md).
 
 -   Designate someone to set up system address filters by assigning them the email\_account\_admin role.
 
@@ -47,31 +47,21 @@ Before you set up system address filters, consider doing the following:
 
 To set up system address filters for your instance, complete the following tasks:
 
-1.  [[set-email-address-filters|Set email address filters]]
+1.  [Set email address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/set-email-address-filters.md)
 
     Specify which domains and email addresses are allowed or disallowed.
 
-2.  [[create-system-address-filter|Create a system address filter]]
+2.  [Create a system address filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-system-address-filter.md)
 
-    Define how email address filters apply to inbound and [[ia-outbound-email-il|outbound email]].
+    Define how email address filters apply to inbound and outbound email.
 
 
 ## Next steps
 
-After you set up system address filters, configure email filters for an added layer of security. Email filters enable you to ignore an [[ia-inbound-email-il|inbound email]] or move it to a particular mailbox. For more information on configuring email filters, see [[c_EmailFilters|Email filters]].
+After you set up system address filters, configure email filters for an added layer of security. Email filters enable you to ignore an inbound email or move it to a particular mailbox. For more information on configuring email filters, see [Email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailFilters.md).
 
 -   **[Set email address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/set-email-address-filters.md)**  
 Specify which domains and email addresses are allowed or disallowed.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
-## Related
-
-- [[set-email-address-filters|Set email address filters]]
-- [[create-system-address-filter|Create a system address filter]]
-- [[c_EmailFilters|Email filters]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[c_EmailAccounts|Email accounts]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[ia-inbound-email-il|Inbound email]]

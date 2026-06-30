@@ -34,7 +34,7 @@ A Dashboard Summary is divided into the following sections:
 
 -   **Key highlights**
 
-    The information from the dashboard's elements that informs the summary. Each highlight has one or more citations and a notation of why the highlight matters. Select the citation to see which [[dashboard-elements|dashboard elements]] support the highlight.
+    The information from the dashboard's elements that informs the summary. Each highlight has one or more citations and a notation of why the highlight matters. Select the citation to see which dashboard elements support the highlight.
 
 -   **What changed**
 
@@ -51,24 +51,17 @@ A Dashboard Summary is divided into the following sections:
 
 Any authenticated user can use the Dashboard Summary on a dashboard. When the plugin is installed, the associated skills are activated by default.
 
-**Note:** Admins can restrict the users who can use the Dashboard Summary to specified roles. For more information, see [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]].
+**Note:** Admins can restrict the users who can use the Dashboard Summary to specified roles. For more information, see [Configure the Now Assist context menu in Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-db-summarization-skill-nacm.md).
 
 ## Dashboard Summary benefits
 
 -   AI-Guided insights: Gain insights into dashboard content using AI-generated summaries.
--   Seamless integration with all [[par-workspace|Platform Analytics experience]] dashboards. Trigger the Dashboard Summary from any dashboard that contains it. Add it to any dashboard you own to make these insights available to your users.
+-   Seamless integration with all Platform Analytics experience dashboards. Trigger the Dashboard Summary from any dashboard that contains it. Add it to any dashboard you own to make these insights available to your users.
 
 ## What to explore next
 
 To learn more about configuring and using Dashboard Summary, see:
 
--   [[activate-now-assist-cm|Configure Now Assist skill]]
--   [[use-now-assist-cm|Using Dashboard Summary]]
+-   [Configure Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-now-assist-cm.md)
+-   [Using Dashboard Summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-cm.md)
 
-## Related
-
-- [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]]
-- [[activate-now-assist-cm|Configure Now Assist skill]]
-- [[use-now-assist-cm|Using Dashboard Summary]]
-- [[dashboard-elements|Dashboard elements]]
-- [[par-workspace|Platform Analytics experience]]

@@ -16,9 +16,9 @@ Use this table to see which loading mechanisms support specific UI elements in a
 
 For more information, refer to the following topics:
 
--   For inputs, see [[parameter-screen-var-attr|Input form screen attributes for inputs]].
--   For input actions, see [[input-actions-configure|Configure input form actions in an input form screen]].
--   For descriptive elements, see [[descriptive-elements-script|Configure descriptive elements for input form screens]].
+-   For inputs, see [Input form screen attributes for inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-var-attr.md).
+-   For input actions, see [Configure input form actions in an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/input-actions-configure.md).
+-   For descriptive elements, see [Configure descriptive elements for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-script.md).
 
 <table id="table_bdv_hvb_p2c"><thead><tr><th>
 
@@ -99,7 +99,7 @@ Yes
 </td><td>
 
 -   For autofill variables: Applies to choice inputs of single choice only.
--   For [[data-sources|data sources]]: Applies to choice inputs of both single choice and multiple choices.
+-   For data sources: Applies to choice inputs of both single choice and multiple choices.
 
 </td></tr><tr><td>
 
@@ -420,15 +420,7 @@ Yes
 
 </td><td>
 
-For configuration of mobile cards, see [[mobile-card-builder|Mobile Card Builder]].
+For configuration of mobile cards, see [Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-card-builder.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[parameter-screen-var-attr|Input form screen attributes for inputs]]
-- [[input-actions-configure|Configure input form actions in an input form screen]]
-- [[descriptive-elements-script|Configure descriptive elements for input form screens]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[data-sources|Data sources]]

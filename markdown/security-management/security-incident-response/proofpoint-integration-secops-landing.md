@@ -20,7 +20,7 @@ The Proofpoint SIR integration supports the ingestion of events from Proofpoin
 
 <table id="table_d4r_wdg_b2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about Proofpoint integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/proofpoint-integration-secops-exploring.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about Proofpoint integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/proofpoint-integration-secops-exploring.md)
 
 </td><td>
 
@@ -28,7 +28,3 @@ The Proofpoint SIR integration supports the ingestion of events from Proofpoin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]

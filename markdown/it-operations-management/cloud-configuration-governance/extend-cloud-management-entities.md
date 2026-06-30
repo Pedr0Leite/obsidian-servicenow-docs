@@ -24,7 +24,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application is bundled with several useful resource blocks. Create extensions to the existing resource block interfaces to add more functionality to these resource blocks. After creating an interface extension, use it in a blueprint to execute a customized operation. For example, if you do not like the way a virtual server is provisioned, extend the virtual server resource block interface by adding operations or overriding existing operations.
+The Cloud Provisioning and Governance application is bundled with several useful resource blocks. Create extensions to the existing resource block interfaces to add more functionality to these resource blocks. After creating an interface extension, use it in a blueprint to execute a customized operation. For example, if you do not like the way a virtual server is provisioned, extend the virtual server resource block interface by adding operations or overriding existing operations.
 
 **Note:** Operations in resource blocks are also called operation signatures.
 
@@ -64,7 +64,7 @@ The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] appli
 
 10. After completing the customizations, toggle the switch to **Published**.
 
-11. Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Design** &gt; **Blueprints**.
+11. Navigate to **Cloud Admin Portal** &gt; **Design** &gt; **Blueprints**.
 
 12. Follow the steps in [Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md) to add a blueprint.
 
@@ -85,7 +85,3 @@ After you add this resource block to a blueprint, the parameters you added are a
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

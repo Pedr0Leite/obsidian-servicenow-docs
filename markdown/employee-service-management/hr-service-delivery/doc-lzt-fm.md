@@ -14,7 +14,7 @@ breadcrumb: [Document blocks in Document Templates, Document Templates of type H
 
 # Use Localization Framework for Document Templates
 
-Translate content in [[document-templates-overview|Document Templates]] and document blocks Localization Framework.
+Translate content in Document Templates and document blocks Localization Framework.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Translate content in [[document-templates-overview|Document Templates]] and docu
 
     A copy of the source template is created and moved to Draft state.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Admin Center in Service Operations Workspace for ITSM, Configuring 
 
 # Manage configurations in Service Operations Workspace for ITSM
 
-From a single page, quickly access and manage the customizations in Service Operations Workspace \(SOW\) for ITSM, access additional plugins that extend the [[sow-landing-page|Service Operations Workspace for ITSM]] capabilities, and access ServiceNow help.
+From a single page, quickly access and manage the customizations in Service Operations Workspace \(SOW\) for ITSM, access additional plugins that extend the Service Operations Workspace for ITSM capabilities, and access ServiceNow help.
 
 ## Before you begin
 
@@ -25,14 +25,14 @@ Role required: sn\_sow\_itsm\_admin.sow\_admin\_user, admin, change\_manager
 The Admin Center consists of the following tabs:
 
 -   **Overview**: Provides access to all customizations available in Service Operations Workspace for ITSM.
--   **Configurations**: Provides access to page-related customizations available in Service Operations Workspace for ITSM. For example, the [[dex-workspace-dashboard-tab|landing page]], incident record page, and modern [[c_ITILChangeManagement|change management]] page.
+-   **Configurations**: Provides access to page-related customizations available in Service Operations Workspace for ITSM. For example, the landing page, incident record page, and modern change management page.
 -   **Learning**: Provides access to learning resources to assist the admins in gaining a deeper understanding of SOW configuration. These resources are designed to provide users with the necessary knowledge and skills to effectively configure and manage ITSM.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
-2.  If not already installed, from the **Configure ITSM Core** section, install [[dex-workspace-application-tab|applications]] such as [[c_IncidentManagement|Incident Management]].
+2.  If not already installed, from the **Configure ITSM Core** section, install applications such as Incident Management.
 
 3.  Select any of the following options.
 
@@ -50,7 +50,7 @@ Description
 
 </td><td>
 
-On the **Overview** tab, from the **Initial Setup** section, select the **Migrate from ITSM Agent Workspace to SOW** option. For information about this [[migration-utility|migration utility]], see [Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migration-from-itsm-aw-sow.md).
+On the **Overview** tab, from the **Initial Setup** section, select the **Migrate from ITSM Agent Workspace to SOW** option. For information about this migration utility, see [Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migration-from-itsm-aw-sow.md).
 
 </td></tr><tr><td id="d223666e187">
 
@@ -97,8 +97,8 @@ For information about landing page customizations, see [Customizing Service Oper
 2.  Select **SOW Properties** and then configure any of the following options:
     -   Email notification redirection to SOW: Configure the email notifications to redirect the users to the Service Operations Workspace \(SOW\) view instead of Classic UI16. For more information, see [Email notification redirection for incident and major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/email-notif-redirt-inci-major-inci.md).
     -   Set display count to improve list loading: Configure the fuzzyCount property to modify how the number of records is displayed on the Service Operations Workspace \(SOW\) list page. Configuring the fuzzyCount property helps improve the system performance. For more information, see [Configure the list page in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/incident-list-page.md).
-    -   [[reference-for-itsm-mobile-agent|Reference]] field auto-load behavior: Use the option to configure the **Reference search on click ** \(**ref\_search\_on\_click**\) UX page property. When the property is set to false, selecting empty reference fields such as Configuration item, Service offering, and Service or when user starts typing input on the reference fields displays only the recent selection values instead of automatic searching and displaying the results of all the field values available in the system.
-    -   [[hide-contextual-side-panel-sow|Hide contextual side panel]] for specific table and tab combinations: Allows admins to define specific table and tab pairs in Service Operations Workspace \(SOW\) where the page default contextual side panel is hidden, prioritizing the embedded contextual side panel within the tab content instead. For more information, see [Hide contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/hide-contextual-side-panel-sow.md).
+    -   Reference field auto-load behavior: Use the option to configure the **Reference search on click ** \(**ref\_search\_on\_click**\) UX page property. When the property is set to false, selecting empty reference fields such as Configuration item, Service offering, and Service or when user starts typing input on the reference fields displays only the recent selection values instead of automatic searching and displaying the results of all the field values available in the system.
+    -   Hide contextual side panel for specific table and tab combinations: Allows admins to define specific table and tab pairs in Service Operations Workspace \(SOW\) where the page default contextual side panel is hidden, prioritizing the embedded contextual side panel within the tab content instead. For more information, see [Hide contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/hide-contextual-side-panel-sow.md).
 
 
 </td></tr><tr><td id="d223666e470">
@@ -122,7 +122,7 @@ For more information, see [Redirect UI16 module links to Service Operations Work
 1.  On the **Overview** tab, from the **Incident Management** section, select the **Configure** option.
 2.  On the Incident record page, configure any of the incident record elements using any of the following options:
     -   Overview: Configure any of the following options for the **Overview** tab.
-        -   Tab visibility for tier 1 agents: Configure the visibility [[settings-mobile|settings]] to display the **Overview** tab for the tier-1 agents. You can also configure the user criteria to include or exclude users with other roles and user groups.
+        -   Tab visibility for tier 1 agents: Configure the visibility settings to display the **Overview** tab for the tier-1 agents. You can also configure the user criteria to include or exclude users with other roles and user groups.
 
 **Note:**
 
@@ -137,7 +137,7 @@ For more information, see [Redirect UI16 module links to Service Operations Work
         -   Record: Provides further details on the incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
         -   New record: This layout appears when an agent creates an incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
     -   Response templates: Create and configure response templates for incidents. Response templates are used as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. The number of the response templates created for the incident table is displayed in this section. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
-    -   [[incident-management-properties|Incident management properties]]: Configure the incident features using the incident management properties. For more information on [[incident-configuration|configuring incident management]] properties, see [Incident Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-management-properties.md).
+    -   Incident management properties: Configure the incident features using the incident management properties. For more information on configuring incident management properties, see [Incident Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-management-properties.md).
  For more information about configuring the field layout, UI elements and the visible data content using form builder, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/learn-by-example-edit-form-component.md).
 
  For information about incident record page customizations, see [Customize the incident record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/customize-the-incident-record-page.md).
@@ -161,7 +161,7 @@ For more information on the configurations of features in Major Incident Managem
 
 </td></tr><tr><td id="d223666e748">
 
-**Configure the [[c_ProblemManagement|Problem Management]] features**
+**Configure the Problem Management features**
 
 </td><td>
 
@@ -179,15 +179,15 @@ For more information on the configurations of features in Major Incident Managem
 
 1.  On the **Configurations** tab, select the **Change Management** option.
 2.  Configure the following options.
-    -   Modern change adoption: Contains widgets which navigates to the configuration pages for change [[c_Models|models]], [[change-approval-policy|change approval policies]], risk and success scores, and automating DevOps changes.
-    -   Change models: Create optimized change state models with policy-based automation capabilities that are fit-for-purpose to increase change efficiency and velocity. Create change models, change model condition types, and [[change-flows|change flows]] through this section.
+    -   Modern change adoption: Contains widgets which navigates to the configuration pages for change models, change approval policies, risk and success scores, and automating DevOps changes.
+    -   Change models: Create optimized change state models with policy-based automation capabilities that are fit-for-purpose to increase change efficiency and velocity. Create change models, change model condition types, and change flows through this section.
         -   For information on creating a change model, see [Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
         -   For information on creating change model condition types, see [Create predefined transition condition types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-predefined-transition-condition-type.md).
         -   For information on configuring flows, see [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
-    -   Change approval policies: [[create-change-policy|Create change approval policies]] to streamline your approval process. Ensure that changes gain the approvals needed to drive stability and compliance, without compromising on change velocity. Create change approval policies and definitions through this section.
-        -   For information on [[using-change-approval-policies-cf|creating change approval policies]], see [Create change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md).
+    -   Change approval policies: Create change approval policies to streamline your approval process. Ensure that changes gain the approvals needed to drive stability and compliance, without compromising on change velocity. Create change approval policies and definitions through this section.
+        -   For information on creating change approval policies, see [Create change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md).
         -   For information on creating approval definitions, see [Create approval definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-approval-definitions.md).
-    -   Risk and success scores: Use data-driven risk capabilities \(risk conditions, risk calculations, and ML-based risk intelligence\) to take the subjectivity out of risk and have automatic, data-driven determinations. Create risk conditions, [[change-success-score|change success score]] ratings, [[success-probability-definition|success probability definitions]], risk assessments, and [[risk-lookup|calculated risk score]] through this section.
+    -   Risk and success scores: Use data-driven risk capabilities \(risk conditions, risk calculations, and ML-based risk intelligence\) to take the subjectivity out of risk and have automatic, data-driven determinations. Create risk conditions, change success score ratings, success probability definitions, risk assessments, and calculated risk score through this section.
 
         -   For information on creating risk conditions, see [Risk conditions and calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-risk-assess-detect-conflict.md).
         -   For information on creating change success score ratings, see [Change success score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md).
@@ -196,14 +196,14 @@ For more information on the configurations of features in Major Incident Managem
         -   For information on calculated risk score, see [Calculated Risk Score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/risk-lookup.md).
 **Note:** You can also navigate to the Change Success Dashboard to see trends in resolution efficiency for a team, change type, or change model over time based on the parameters used to calculate the overall success score. For more information, see [Exploring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md).
 
-    -   Automate DevOps changes: Automate DevOps changes with [[devops-landing-page-new|DevOps Change Velocity]]. Connect and configure tools from your DevOps toolchain with our DevOps data model to drive enhanced DevOps change traceability. Automatically create changes from CI/CD pipeline executions with relevant DevOps data attached and leverage that data to drive full change approval automation. For more information, see [DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-landing-page-new.md).
+    -   Automate DevOps changes: Automate DevOps changes with DevOps Change Velocity. Connect and configure tools from your DevOps toolchain with our DevOps data model to drive enhanced DevOps change traceability. Automatically create changes from CI/CD pipeline executions with relevant DevOps data attached and leverage that data to drive full change approval automation. For more information, see [DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-landing-page-new.md).
     -   Change record: Configure the change record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/learn-by-example-edit-form-component.md).
     -   Change task record: Configure the change task record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/learn-by-example-edit-form-component.md).
 
 
 </td></tr><tr><td id="d223666e990">
 
-**Configure the [[c_OnCallScheduling|On-Call Scheduling]] features**
+**Configure the On-Call Scheduling features**
 
 </td><td>
 
@@ -254,27 +254,3 @@ For more information on configuring Notify, refer [Configuring Notify in Service
 </table>
 **Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/admin-center-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[migration-utility|Migration Utility]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[hide-contextual-side-panel-sow|Hide contextual side panel]]
-- [[settings-mobile|Settings]]
-- [[incident-management-properties|Incident Management properties]]
-- [[incident-configuration|Configuring Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_Models|Models]]
-- [[change-approval-policy|Change approval policies]]
-- [[change-flows|Change flows]]
-- [[create-change-policy|Create change approval policies]]
-- [[using-change-approval-policies-cf|Creating change approval policies]]
-- [[change-success-score|Change success score]]
-- [[success-probability-definition|Success Probability definitions]]
-- [[risk-lookup|Calculated Risk Score]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

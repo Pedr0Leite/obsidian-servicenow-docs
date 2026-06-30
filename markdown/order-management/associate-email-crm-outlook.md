@@ -45,7 +45,7 @@ Use these steps to associate any email in your inbox or sent folder. You stay in
     -   **More** &gt; **Opportunities**
 5.  In the **Filters** field, set filters to narrow results.
 
-    The [[explore-crm-outlook-add-in|CRM Outlook Add-in]] extracts the sender's name and email domain or the first recipient's name and domain, for sent emails, and matches them against the following [[fields|fields]] per entity:
+    The CRM Outlook Add-in extracts the sender's name and email domain or the first recipient's name and domain, for sent emails, and matches them against the following fields per entity:
 
     -   Leads and opportunities: first name, last name, and email domain
     -   Accounts and contacts: email domain only
@@ -67,10 +67,10 @@ Use these steps to associate any email in your inbox or sent folder. You stay in
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]]|
-    |**Opportunity**|[[opportunity-fields-outlook|Opportunity form in the ServiceNow CRM for Outlook add-in]]|
-    |**Account**|[[account-fields-outlook|Account form in the ServiceNow CRM for Outlook add-in]]|
-    |**Contact**|[[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]]|
+    |**Lead**|[Lead form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-fields-outlook.md)|
+    |**Opportunity**|[Opportunity form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-fields-outlook.md)|
+    |**Account**|[Account form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/account-fields-outlook.md)|
+    |**Contact**|[Contact form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/contact-fields-outlook.md)|
 
 9.  View the associated record in the CRM by selecting **Open**.
 
@@ -83,26 +83,14 @@ The email is associated with the CRM record, and the engagement is logged for fu
 
 ## What to do next
 
-You can view the associated emails from the respective entity record's Emails tab. For more information, see [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]].
+You can view the associated emails from the respective entity record's Emails tab. For more information, see [Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-associated-emails-crm.md).
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]]
-- [[opportunity-fields-outlook|Opportunity form in the ServiceNow CRM for Outlook add-in]]
-- [[account-fields-outlook|Account form in the ServiceNow CRM for Outlook add-in]]
-- [[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]]
-- [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]
-- [[fields|Fields]]

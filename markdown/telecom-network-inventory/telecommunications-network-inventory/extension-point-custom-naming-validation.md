@@ -14,7 +14,7 @@ breadcrumb: [Naming patterns in inventory templates, Network inventory templates
 
 # Extension point for custom naming validation
 
-The TNI Naming Application validates resolved names in [[inventory-template-overview-tab|the Inventory Template Overview tab]] through a pluggable extension point. Customer administrators can register their own validation rules against the extension point to enforce organization-specific naming conventions, alongside or instead of the default check that ships with the application.
+The TNI Naming Application validates resolved names in the Inventory Template Overview tab through a pluggable extension point. Customer administrators can register their own validation rules against the extension point to enforce organization-specific naming conventions, alongside or instead of the default check that ships with the application.
 
 ## The extension point identity
 
@@ -55,6 +55,3 @@ The order in which implementations run is configurable. Because order determines
 
 [The Inventory Template Overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-template-overview-tab.md)
 
-## Related
-
-- [[inventory-template-overview-tab|The Inventory Template Overview tab]]

@@ -14,7 +14,7 @@ breadcrumb: [View achievement credential templates, Achievements and Credentials
 
 # Add skill to an achievement template
 
-Associate a skill to an achievement credential template in [[achievements-lxp|Achievements]] and Credentials.
+Associate a skill to an achievement credential template in Achievements and Credentials.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Option to select the skill you want to associate to the achievement template. **
 
 **Parent Topic:**[View achievement credential templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-ach-credential-templates.md)
 
-## Related
-
-- [[achievements-lxp|Achievements]]

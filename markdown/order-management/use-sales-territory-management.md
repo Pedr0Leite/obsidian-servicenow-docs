@@ -12,33 +12,23 @@ breadcrumb: [Lead and opportunity apps, Use, Sales Customer Relationship Managem
 
 # Using Sales Territory Management​
 
-[[explore-sales-territory-management|Sales Territory Management​]] is a strategic framework for organizing and managing CRM entities such as Accounts, Consumers, Leads, and Opportunities. To assign territories, you can run **Run Assignment** to automatically distribute CRM entities, or manually update the primary territory.
+Sales Territory Management​ is a strategic framework for organizing and managing CRM entities such as Accounts, Consumers, Leads, and Opportunities. To assign territories, you can run **Run Assignment** to automatically distribute CRM entities, or manually update the primary territory.
 
--   **[[assign-territory-account|Assigning a territory on account]]**  
+-   **[Assigning a territory on account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/assign-territory-account.md)**  
 You can update the primary territory on an account in which Sales Territory Management​ has been implemented.
--   **[[modify-territory|Assigning a territory on opportunity]]**  
+-   **[Assigning a territory on opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/modify-territory.md)**  
 You can update the primary territory on opportunity in which Sales Territory Management​ has been implemented.
--   **[[assign-territory-lead|Assigning a territory on lead]]**  
+-   **[Assigning a territory on lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/assign-territory-lead.md)**  
 You can update the primary territory on a lead in which Sales Territory Management​ has been implemented.
--   **[[assign-territory-consumer|Assign a territory on consumer]]**  
+-   **[Assign a territory on consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/assign-territory-consumer.md)**  
 You can update the primary territory on a consumer in which Sales Territory Management​ has been implemented.
 
-**Parent Topic:**[[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
+**Parent Topic:**[Using lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
 
 **Related topics**  
 
 
-[[configure-sales-territory-management|Configuring Sales Territory Management​]]
+[Configuring Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-territory-management.md)
 
-[[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]
+[Components installed with Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-sales-territory-management.md)
 
-## Related
-
-- [[assign-territory-account|Assigning a territory on account]]
-- [[modify-territory|Assigning a territory on opportunity]]
-- [[assign-territory-lead|Assigning a territory on lead]]
-- [[assign-territory-consumer|Assign a territory on consumer]]
-- [[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
-- [[configure-sales-territory-management|Configuring Sales Territory Management​]]
-- [[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]

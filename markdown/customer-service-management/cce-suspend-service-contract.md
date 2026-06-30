@@ -12,11 +12,11 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Suspend a customer contract
 
-Suspend a customer contract and its child customer contract lines by creating an order on the [[csm-workspaces-configure|CSM Configurable Workspace]]. Suspending a customer contract suspends or disables the services specified in that customer contract.
+Suspend a customer contract and its child customer contract lines by creating an order on the CSM Configurable Workspace. Suspending a customer contract suspends or disables the services specified in that customer contract.
 
 ## Before you begin
 
-You can suspend a customer contract when at least one of the associated root [[sold-product|sold products]] is in Active state. For product inventory records, you can suspend a customer contract when the associated product inventory record is in Active state.
+You can suspend a customer contract when at least one of the associated root sold products is in Active state. For product inventory records, you can suspend a customer contract when the associated product inventory record is in Active state.
 
 **Note:** If you don’t create a resume order, the customer contract is indefinitely suspended.
 
@@ -34,7 +34,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 5.  In the Suspend customer contract window, enter the period of suspension for the customer contract in the **Start date and time** and **End date and time** fields.
 
-    **Note:** If you do not enter a value in the **End date and time** field, the customer contract is suspended indefinitely. You can resume the customer contract manually. For more info, see [[cce-resume-service-contract|Resume a customer contract]].
+    **Note:** If you do not enter a value in the **End date and time** field, the customer contract is suspended indefinitely. You can resume the customer contract manually. For more info, see [Resume a customer contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cce-resume-service-contract.md).
 
 6.  Add a reason for a suspension in the **Reason for suspension** field.
 
@@ -51,8 +51,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 With the customer contract, all the associated customer contract lines and entitlements are also suspended. However, the customer contract stays in the current state. If you specify an end date and time, a resume order line item is created as a part of the same order. After this period of suspension, the customer contract and all its associated child customer contract lines and entitlement will be in Active or Draft state again. After the end date of the customer contract, the suspended customer contract and all its associated child customer contract lines and entitlement move to Expired state.
 
-## Related
-
-- [[cce-resume-service-contract|Resume a customer contract]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

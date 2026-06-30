@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Third-party Risk Management, Governance, Risk, and Compl
 
 # Integrating Third-party Risk Management with GRC: Policy and Compliance Management
 
-The GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] integration updates the compliance status of controls and control objectives based on the questionnaire responses from a third party or engagement. Compliance managers \[sn\_compliance.manager\] can associate controls and control objectives with specific questions, third parties, and engagements used in Third-party Risk Management.
+The GRC: Policy and Compliance Management integration updates the compliance status of controls and control objectives based on the questionnaire responses from a third party or engagement. Compliance managers \[sn\_compliance.manager\] can associate controls and control objectives with specific questions, third parties, and engagements used in Third-party Risk Management.
 
 If you have the Policy and Compliance Management application installed, users with the Compliance Manager role can perform several key tasks that help manage and assess Third-party compliance.
 
@@ -62,6 +62,3 @@ If you’re using both Policy and Compliance Management and Third-party Risk Man
 
 [Implementing Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-impl-overview.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

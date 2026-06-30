@@ -14,7 +14,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Add to Case
 
-Add [[c_Observables|observables]], [[indicator|indicators]], or [[tisc-other-objects|other objects]] to the case.
+Add observables, indicators, or other objects to the case.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Following is the procedure that shows how to add a case to an observable record.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Select the observable\(s\).
 
@@ -117,9 +117,3 @@ The Analyst who is responsible for working on a case.
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-other-objects|Other Objects]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

@@ -50,7 +50,7 @@ Recurring
 
 </td><td>
 
-Use to [[ecpro-create-campaign|create a campaign]] stage \(bundle\) that has date-based repeatable content. For example, use this trigger for content specific to employee birthdays or work anniversaries.[Create a campaign stage with recurring trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-stage-recurring-trigger.md)
+Use to create a campaign stage \(bundle\) that has date-based repeatable content. For example, use this trigger for content specific to employee birthdays or work anniversaries.[Create a campaign stage with recurring trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-stage-recurring-trigger.md)
 
 </td></tr><tr><td>
 
@@ -80,7 +80,3 @@ This trigger type is specifically for Employee Journeys: Parental Leave of Absen
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ecpro-create-campaign|Create a campaign]]

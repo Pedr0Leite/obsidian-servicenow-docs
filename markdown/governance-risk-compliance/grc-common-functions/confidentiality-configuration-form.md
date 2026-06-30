@@ -14,7 +14,7 @@ breadcrumb: [Configure confidentiality in GRC tables, Confidential records, Comm
 
 # Confidentiality configuration form
 
-The Confidentiality configuration form is used for the configuration of the [[confidential-records|confidential records]] for your GRC tables.
+The Confidentiality configuration form is used for the configuration of the confidential records for your GRC tables.
 
 <table id="table_pkk_zwt_d5b"><thead><tr><th>
 
@@ -77,6 +77,3 @@ Field where the allowed user groups are automatically filled in based on the lis
 
 **Parent Topic:**[Configure confidentiality in GRC tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-confidentilaity-on-grc-tables.md)
 
-## Related
-
-- [[confidential-records|Confidential records]]

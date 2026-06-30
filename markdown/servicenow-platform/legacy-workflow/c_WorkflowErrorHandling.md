@@ -16,7 +16,7 @@ breadcrumb: [Workflow administration, Classic Workflow, ServiceNow AI Platform A
 
 The personalized JavaScript that users create in workflow activity variables is vulnerable to run-time syntax errors. Available error information is available in a tooltip when you point to a workflow activity in an error state.
 
-In the base system, [[c_WorkflowActivities|workflow activities]] do not provide condition routing on the error state. As a result, the workflow progresses based on the state of the current record. For example, a workflow contains an **Approval - User** activity that uses an advanced script to add additional approvers. A syntax error in the script results in no approvers being added. Because a state of **no approvers** is a valid return, even without the syntax error, the approval activity is skipped and the workflow progresses along a positive path. However, this might not be a valid response for the workflow designer who does not want the workflow to progress along the positive path without approvers.
+In the base system, workflow activities do not provide condition routing on the error state. As a result, the workflow progresses based on the state of the current record. For example, a workflow contains an **Approval - User** activity that uses an advanced script to add additional approvers. A syntax error in the script results in no approvers being added. Because a state of **no approvers** is a valid return, even without the syntax error, the approval activity is skipped and the workflow progresses along a positive path. However, this might not be a valid response for the workflow designer who does not want the workflow to progress along the positive path without approvers.
 
 Workflow error handling detects and logs syntax errors and provides a state that the workflow designer can use to add error conditions to the workflow. Use error handling to locate syntax errors in advanced script fields for these workflow activities:
 
@@ -214,6 +214,3 @@ Approval activities react differently to script errors than the other activities
 
 **Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowAdministration.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]

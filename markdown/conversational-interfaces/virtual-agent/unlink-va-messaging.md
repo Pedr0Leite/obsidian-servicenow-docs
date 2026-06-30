@@ -14,7 +14,7 @@ breadcrumb: [Account linking in pre-built messaging integrations, Integrate VA w
 
 # Unlink your ServiceNow user account from a messaging application for Virtual Agent conversations
 
-If needed, you can unlink your ServiceNow user account from a messaging app used for the Now [[virtual-agent-landing-page|Virtual Agent]].
+If needed, you can unlink your ServiceNow user account from a messaging app used for the Now Virtual Agent.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Unlinking your account from a selected Conversational Integration for Slack, Mic
 
 **Parent Topic:**[Account linking in pre-built messaging integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-adapter-autolinking.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

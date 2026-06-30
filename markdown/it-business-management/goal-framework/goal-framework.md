@@ -16,11 +16,11 @@ breadcrumb: [Strategic Portfolio Management]
 
 Create goals, set targets for them, and evaluate the progress of the goals and targets to accomplish your organizational plans and drive business outcomes using ServiceNow® Goal Framework.
 
-The ServiceNow® Goal Framework for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) application \(formerly known as Advanced Goal Framework\) enables you to automate the actual value of your targets. The Goal Framework for SPM application is an extension to the Goal Framework application. When you install the Goal Framework for SPM application, you get all the features of Goal Framework as well as the target automation feature.
+The ServiceNow® Goal Framework for Strategic Portfolio Management \(SPM\) application \(formerly known as Advanced Goal Framework\) enables you to automate the actual value of your targets. The Goal Framework for SPM application is an extension to the Goal Framework application. When you install the Goal Framework for SPM application, you get all the features of Goal Framework as well as the target automation feature.
 
 Using Goal Framework, you can define strategic priorities and associated goals for your organization as part of strategic plans. After goals are created, you can then associate work, planning items, and strategic items such as demand, project, epic, program, and initiative.
 
-The ServiceNow® [[alignment-planner-workspace-landing-page|Strategic Planning]] users can define personalized portfolio plans using lenses for your organization and use them to align your goals according to your organization's portfolio plans. For information on how a portfolio plan is defined using a lens, see [Lens and portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/lens-alignment-planner-workspace.md). You can also create strategic plans, capturing the vision, mission, and values for your organization.
+The ServiceNow® Strategic Planning users can define personalized portfolio plans using lenses for your organization and use them to align your goals according to your organization's portfolio plans. For information on how a portfolio plan is defined using a lens, see [Lens and portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/lens-alignment-planner-workspace.md). You can also create strategic plans, capturing the vision, mission, and values for your organization.
 
 Key benefits of Goal Framework:
 
@@ -68,7 +68,3 @@ Key benefits of Goal Framework for SPM:
 -   Search the Known Error Portal for known error articles. For more information, see [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477).
 -   Contact Customer Service and Support. For more information, see [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Request Management, Operational Technology]
 
 # Exploring Operational Technology Request Management
 
-[[operational-technology-request-management-landing-page|Operational Technology Request Management]] lets you access the [[operational-technology-overview|Operational Technology]] \(OT\) Service Catalog to request OT catalog items and fulfill them based on the defined flows. OT workers can then create and submit an OT request from a catalog item, which helps provide a consistent experience and facilitates cross-functional requests.
+Operational Technology Request Management lets you access the Operational Technology \(OT\) Service Catalog to request OT catalog items and fulfill them based on the defined flows. OT workers can then create and submit an OT request from a catalog item, which helps provide a consistent experience and facilitates cross-functional requests.
 
 ## Operational Technology Request Management overview
 
@@ -33,7 +33,3 @@ You can apply Operational Technology Request Management to your Operational Tech
 
 **Parent Topic:**[Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/operational-technology-request-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[operational-technology-overview|Operational Technology]]

@@ -14,7 +14,7 @@ breadcrumb: [MID Server, Manage instance data sources, Extend ServiceNow AI Plat
 
 # MID Server reference
 
-MID Server reference information includes system requirements and other information you need to configure a [[mid-server-landing|MID Server]] for your specific needs.
+MID Server reference information includes system requirements and other information you need to configure a MID Server for your specific needs.
 
 -   **[MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerSystemRequirements.md)**  
 Use these minimum system requirements to allocate resources for computers hosting MID Servers.
@@ -23,11 +23,11 @@ Upgrade MID Servers manually, or automatically through the instance. MID Server 
 -   **[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)**  
 Troubleshoot problems with the MID Server to find solutions. Monitor the MID Server to receive alerts about issues as they occur. Troubleshooting procedures exist to resolve specific problems with the MID Server. The Knowledge Base on Hi contains several articles to help you troubleshoot MID Server issues.
 -   **[MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md)**  
-The [[c_MIDServerDashboard|MID Server dashboard]] is a central place for MID Server users to monitor ongoing operations. The dashboard consists of reports and gauges that display information from the MID Server Status table.
+The MID Server dashboard is a central place for MID Server users to monitor ongoing operations. The dashboard consists of reports and gauges that display information from the MID Server Status table.
 -   **[MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md)**  
 Properties control the behavior of all MID Servers or a particular MID Server.
 -   **[MID Server parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-parameters.md)**  
-Parameters control the behavior of a particular MID Server and have lower precedence than [[r_MIDServerProperties|MID Server properties]].
+Parameters control the behavior of a particular MID Server and have lower precedence than MID Server properties.
 -   **[MID Server Configuration Parameter settings and priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-config-param-priority.md)**  
 The MID Server's settings reside in multiple tables and the MID Server prioritizes them in a set order. MIDConfigParameter must be defined with the correct type-style builders.
 -   **[MID Server File Cleaner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid_file_cleaner.md)**  
@@ -45,14 +45,7 @@ The instance checks the MID Server for a response every 5 minutes, using a synth
 -   **[Set the MID Server JVM memory size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_MIDServerOptionalConfiguration.md)**  
 The MID Server starts with a default JVM memory allocation, but you can modify this setting in the configuration file.
 -   **[Pause the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_PauseTheMIDServer.md)**  
-[[t_PauseTheMIDServer|Pause the MID Server]] to temporarily prevent it from polling the ECC Queue for work or sending Discovery results back to the instance.
+Pause the MID Server to temporarily prevent it from polling the ECC Queue for work or sending Discovery results back to the instance.
 
-**Parent Topic:**[[manage-data-sources|Manage instance data sources]]
+**Parent Topic:**[Manage instance data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-data-sources.md)
 
-## Related
-
-- [[manage-data-sources|Manage instance data sources]]
-- [[mid-server-landing|MID Server]]
-- [[c_MIDServerDashboard|MID Server dashboard]]
-- [[r_MIDServerProperties|MID Server properties]]
-- [[t_PauseTheMIDServer|Pause the MID Server]]

@@ -12,7 +12,7 @@ breadcrumb: [System properties, Before implementation, Configuration detail, Con
 
 # Configure group ACL for aggregation requests
 
-Use the **glide.sg.group\_acl.enabled** system property to control the validation of access control lists \(ACL\) during aggregation requests that are related to displaying results from [[sg-data-item|data items]] that use grouping.
+Use the **glide.sg.group\_acl.enabled** system property to control the validation of access control lists \(ACL\) during aggregation requests that are related to displaying results from data items that use grouping.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The **glide.sg.group\_acl.enabled** system property determines whether ACL validation is performed when executing grouping operations. By default, this property is set to `true`. When this system property is set to `true`, an ACL is applied to check whether the record involved in the grouping operation is accessible. This default [[mobile-config-navigation|mobile platform]] behavior is different from the ServiceNow® instance behavior. The instance doesn't apply ACLs when it displays aggregation result counts. This is a key difference between instance and mobile platform behavior.
+The **glide.sg.group\_acl.enabled** system property determines whether ACL validation is performed when executing grouping operations. By default, this property is set to `true`. When this system property is set to `true`, an ACL is applied to check whether the record involved in the grouping operation is accessible. This default mobile platform behavior is different from the ServiceNow® instance behavior. The instance doesn't apply ACLs when it displays aggregation result counts. This is a key difference between instance and mobile platform behavior.
 
 When this system property is set to `false`, the system doesn't validate ACLs while it executes a grouping operation. In this case, aggregate results are based on the selected aggregation field and the number of records for each group. In most cases, this shouldn't lead to security issues because ACL checking is still enforced for all other operations.
 
@@ -45,10 +45,5 @@ When this system property is set to `false`, the system doesn't validate ACLs wh
     **Note:** This system property only affects aggregation requests that are related to displaying results from data items that use grouping. ACL checking remains active for all other operations.
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]
-- [[sg-data-item|Data items]]
-- [[mobile-config-navigation|Mobile Platform]]

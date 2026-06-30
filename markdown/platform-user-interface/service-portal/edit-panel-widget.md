@@ -14,7 +14,7 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 # Widget Edit Panel widget
 
-The Widget Edit Panel appears on the main page of the Widget Editor in [[c_ServicePortal|Service Portal]] Configuration \(**All** &gt; **Service Portal** &gt; **Service Portal Configuration** &gt; **Widget Editor**\). You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Widget Edit Panel appears on the main page of the Widget Editor in Service Portal Configuration \(**All** &gt; **Service Portal** &gt; **Service Portal Configuration** &gt; **Widget Editor**\). You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 Use the Widget Edit Panel to view widgets that have recently been updated, create a widget, or view an existing widget.
 
@@ -31,6 +31,3 @@ Use the Widget Edit Panel to view widgets that have recently been updated, creat
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -88,7 +88,7 @@ Role required:
 
 6.  After the approver approves the request, perform the requested changes to fulfill the request.
 
-    Refer to the dashboards documentation for instructions on how to modify dashboards and [[c_DashboardRoles|dashboard permissions]].
+    Refer to the dashboards documentation for instructions on how to modify dashboards and dashboard permissions.
 
 7.  Update the task **State** to **Closed Complete**.
 
@@ -151,6 +151,3 @@ Core Performance Analytics functionality
 
 [bundle-platadm.list-of-plugins]
 
-## Related
-
-- [[c_DashboardRoles|Dashboard permissions]]

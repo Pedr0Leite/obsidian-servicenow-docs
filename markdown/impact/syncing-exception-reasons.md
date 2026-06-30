@@ -16,13 +16,13 @@ Configure the Exception reason integration to automatically synchronize exceptio
 
 ## Before you begin
 
-My SN Instances registration and authentication must be complete before configuring this integration. See [[register-your-instance|Register your instance]].
+My SN Instances registration and authentication must be complete before configuring this integration. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 Role required: sn\_se.scan\_engine\_admin
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 
 2.  Select the **Exception reason** properties tab.
 
@@ -35,10 +35,5 @@ Role required: sn\_se.scan\_engine\_admin
 
 Exception reasons created or updated on non-production instances are automatically synchronized to production. If approvals are enabled, the status syncs back to the developer instance after a decision is made.
 
-**Parent Topic:**[[exception-reason-integration|Exception reason integration]]
+**Parent Topic:**[Exception reason integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/exception-reason-integration.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[exception-reason-integration|Exception reason integration]]
-- [[impact-landing-page|Impact]]

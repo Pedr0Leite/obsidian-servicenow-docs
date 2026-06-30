@@ -12,7 +12,7 @@ breadcrumb: [Configure Care Team Mobile, Care Team Mobile, Healthcare Operations
 
 # Enable Voice Assistant in Care Team Mobile
 
-Create a prominent action button that launches Now Assist chat or voice in the [[care-team-mobile-landing|Care Team Mobile]] app.
+Create a prominent action button that launches Now Assist chat or voice in the Care Team Mobile app.
 
 ## Before you begin
 
@@ -59,6 +59,4 @@ Role required: admin
 
 13. Right-click and select **Save**.
 
-## Related
 
-- [[care-team-mobile-landing|Care Team Mobile]]

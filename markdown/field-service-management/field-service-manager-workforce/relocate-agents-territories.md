@@ -62,11 +62,11 @@ This video shows the agent relocation process.\[Omitted video\] Description: Age
 
         **Note:** If not selected, agents default to secondary members.
 
-    2.  Select the **Set new [[c_AgentLocation|agent location]]** option to define the new location for agents.
+    2.  Select the **Set new agent location** option to define the new location for agents.
 
 10. Set the new location in the destination territory for the agents.
 
-    1.  In the **Select start location** field, select the location where the agents [[t_StartWork|start work]] in the destination territory.
+    1.  In the **Select start location** field, select the location where the agents start work in the destination territory.
 
     2.  In the **Select end location** field, select the location where the agents end work in the destination territory.
 
@@ -80,7 +80,3 @@ This video shows the agent relocation process.\[Omitted video\] Description: Age
 -   Agent memberships are updated for the specified source and destination territories based on the form selections.
 -   **Resource Schedule Attributes** related list in the agent's user profile is updated.
 
-## Related
-
-- [[c_AgentLocation|Agent location]]
-- [[t_StartWork|Start work]]

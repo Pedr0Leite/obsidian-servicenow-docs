@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Employee Center**
 
 2.  Select **My Requests** option on the header menu.
 
@@ -67,7 +67,7 @@ Supporting documents attached while submitting the amendment request.
 
 </td></tr><tr><td>
 
-[[activity-lxp|Activity]]
+Activity
 
 </td><td>
 
@@ -95,7 +95,3 @@ Request Details
 
 **Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-amend-req-landing.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

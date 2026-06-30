@@ -24,11 +24,11 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 
 2.  Select **New** to start a new sales cycle type or select an existing sales cycle type to make changes.
 
-3.  Fill in the [[fields|fields]] in the Sales Cycle Type form.
+3.  Fill in the fields in the Sales Cycle Type form.
 
     |Fields|Descriptions|
     |------|------------|
-    |Code|Type of sales cycle. For example, NEW [[Renew|RENEW]] or NEWCUST or UPSELL.|
+    |Code|Type of sales cycle. For example, NEW RENEW or NEWCUST or UPSELL.|
     |Short Description|More information about the new opportunity sales cycle.|
     |Active|When the checkbox is selected, the sales cycle is active.|
 
@@ -39,19 +39,12 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 
 ## What to do next
 
-Add sales cycle stages to your opportunity. To learn more, see [[opportunity-management-opportunity-stages|Create opportunity stages]].
+Add sales cycle stages to your opportunity. To learn more, see [Create opportunity stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-opportunity-stages.md).
 
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-management-opportunity-stages|Create opportunity stages]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]
-- [[Renew|Renew]]

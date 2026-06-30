@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Knowledge Management v3 homepage and Knowledge Management Service Portal comparison
 
-A comparison of the features available on the [[knowledge-management|Knowledge Management]] v3 homepage and the Knowledge Management Service Portal.
+A comparison of the features available on the Knowledge Management v3 homepage and the Knowledge Management Service Portal.
 
 **Note:**
 
@@ -563,7 +563,7 @@ Y
 
 </td></tr><tr><td>
 
-Helpful [[yes-no|yes/no]] option
+Helpful yes/no option
 
 </td><td>
 
@@ -673,7 +673,7 @@ Y
 </table>The **sn\_km\_portal.glide.knowman.serviceportal.enable\_redirect** property is not honored for the following use cases:
 
 -   Contextual search in the Incident form
--   [[c_Connect|Connect]]
+-   Connect
 
 **Related topics**  
 
@@ -682,8 +682,3 @@ Y
 
 [Import a Word document to a knowledge base using Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[yes-no|Yes/No]]
-- [[c_Connect|Connect]]

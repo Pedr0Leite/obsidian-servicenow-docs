@@ -14,7 +14,7 @@ breadcrumb: [Model categories, Product Catalog, Asset Management, IT Service Man
 
 # View model categories
 
-Default [[c_ModelCategories|model categories]] are included with [[c_ProductCatalog|product catalog]]. You can view a list of default categories and the categories that you created.
+Default model categories are included with product catalog. You can view a list of default categories and the categories that you created.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ Role required: model\_manager
 
 [Delete model categories]()
 
-## Related
-
-- [[c_ModelCategories|Model categories]]
-- [[c_ProductCatalog|Product Catalog]]

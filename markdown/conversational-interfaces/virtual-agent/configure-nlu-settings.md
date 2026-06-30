@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Configure Natural Language Understanding in Virtual Agent
 
-Configure Natural Language Understanding \(NLU\) in [[virtual-agent-landing-page|Virtual Agent]] to identify the NLU service provider for your instance. You can also specify the languages of NLU models used during conversation design, based on the languages supported by your NLU provider and the ServiceNow AI Platform®.
+Configure Natural Language Understanding \(NLU\) in Virtual Agent to identify the NLU service provider for your instance. You can also specify the languages of NLU models used during conversation design, based on the languages supported by your NLU provider and the ServiceNow AI Platform®.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ You can select only one NLU service provider for your instance. Virtual Agent su
 -   **IBM Watson Assistant**: [Configure the IBM Watson Assistant intent and entity integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-watson-service-integration.md) so that Virtual Agent can access IBM Watson Assistant NLU model information.
 -   **Google DialogFlow Essentials \(ES\)**: [Configure the Google DialogFlow ES intent and entity integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-dialogflow-es-integration.md) so that Virtual Agent can access Google Dialogflow ES NLU model information.
 
-The **Activate** toggle switch for NLU is toggled on for all new Virtual Agent activations and the **NLU Service Provider** defaults to **ServiceNow NLU**. The **Activate** toggle switch is toggled off for [[va-lite|Virtual Agent Lite]]. If you upgraded from the previous release, Virtual Agent retains the NLU settings and integration information for your NLU service provider.
+The **Activate** toggle switch for NLU is toggled on for all new Virtual Agent activations and the **NLU Service Provider** defaults to **ServiceNow NLU**. The **Activate** toggle switch is toggled off for Virtual Agent Lite. If you upgraded from the previous release, Virtual Agent retains the NLU settings and integration information for your NLU service provider.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -36,7 +36,7 @@ Similarly, to work on NLU topics in multiple languages, the languages must be en
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Click **Virtual Agent**.
 
@@ -107,8 +107,3 @@ Give Virtual Agent the capability of recognizing natural variations on `yes` and
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[convint-landing-page|Conversational Interfaces]]

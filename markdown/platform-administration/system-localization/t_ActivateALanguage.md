@@ -52,8 +52,8 @@ In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides t
 
 **Note:**
 
--   Activating internationalization plugins for any of the available languages automatically activates the I18N: [[ia-knowledge-mgmt|Knowledge Management]] Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\).
--   Product and Application Names are kept in English in [[ia-localization-il|localization]] plugins. Feature names are translated.
+-   Activating internationalization plugins for any of the available languages automatically activates the I18N: Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\).
+-   Product and Application Names are kept in English in localization plugins. Feature names are translated.
 -   After installation, localization plugins can't be uninstalled.
 
 ## Procedure
@@ -68,7 +68,7 @@ In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides t
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Related topics**  
@@ -78,8 +78,3 @@ In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides t
 
 [Ensure that translated choices appear for applications added by plugins]()
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[ia-localization-il|Localization]]

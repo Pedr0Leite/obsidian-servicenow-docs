@@ -18,7 +18,7 @@ Map policies to a deployable to define the validation processes that the config 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_policy\_editor or cdm\_editor or cdm\_admin
 
@@ -68,7 +68,7 @@ Input
 
 </td><td>
 
-Policy [[settings-mobile|settings]] that are configurable.
+Policy settings that are configurable.
 
 </td></tr><tr><td>
 
@@ -146,7 +146,3 @@ Tags that are associated with the policy.
 
 [Map PaCE policies using Dynamic Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-validate-dynamic.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

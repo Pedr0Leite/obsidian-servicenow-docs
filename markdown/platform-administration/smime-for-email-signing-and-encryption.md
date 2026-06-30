@@ -29,7 +29,7 @@ To set up S/MIME, the admin must have the following:
 -   CA certificate
 -   Email certificate
 
-Upload the instance email account key pair and email certificates, and enable outbound S/MIME properties. For more information, see [[enable-smime-for-outbound-and-inbound|Enable S/MIME]].
+Upload the instance email account key pair and email certificates, and enable outbound S/MIME properties. For more information, see [Enable S/MIME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-smime-for-outbound-and-inbound.md).
 
 If there are multiple recipients and some of the recipients do not have valid certificates, the email will be sent only to recipients with a valid certificate.
 
@@ -49,28 +49,19 @@ To set up the system to ignore inbound signed emails if the signature cannot be 
 
 For more information about key management and cryprographic module, see [Key Management Framework Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/understanding-kmf.md).
 
--   **[[import-smime-key-pair|Import an S/MIME key pair]]**  
+-   **[Import an S/MIME key pair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/import-smime-key-pair.md)**  
 Import an S/MIME key pair consisting of the private key and certificate to sign outbound emails or decrypt emails.
--   **[[upload-ca-certificate|Upload a CA certificate]]**  
+-   **[Upload a CA certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-ca-certificate.md)**  
 Upload a digital CA \(Certificate Authority\) certificate to validate email certificates for secure communication.
--   **[[upload-email-certificate|Upload an email certificate]]**  
-Upload an email certificate to validate a signature for [[ia-inbound-email-il|inbound email]] or encrypt an [[ia-outbound-email-il|outbound email]] or both for secure communication.
+-   **[Upload an email certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-email-certificate.md)**  
+Upload an email certificate to validate a signature for inbound email or encrypt an outbound email or both for secure communication.
 -   **[Enable S/MIME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-smime-for-outbound-and-inbound.md)**  
 Configure S/MIME settings for inbound and outbound email.
 
-**Parent Topic:**[[smime-inbound-outbound-mails|Email encryption - S/MIME protocol]]
+**Parent Topic:**[Email encryption - S/MIME protocol](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/smime-inbound-outbound-mails.md)
 
 **Related topics**  
 
 
 [Activate S/MIME Email]()
 
-## Related
-
-- [[enable-smime-for-outbound-and-inbound|Enable S/MIME]]
-- [[import-smime-key-pair|Import an S/MIME key pair]]
-- [[upload-ca-certificate|Upload a CA certificate]]
-- [[upload-email-certificate|Upload an email certificate]]
-- [[smime-inbound-outbound-mails|Email encryption - S/MIME protocol]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[ia-outbound-email-il|Outbound email]]

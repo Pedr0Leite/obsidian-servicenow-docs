@@ -15,7 +15,7 @@ breadcrumb: [Microsoft Viva Engage external content connector, Configure, Extern
 
 # Configure Microsoft Viva Engage for external content indexing
 
-Register an OAuth 2.0 application in the Microsoft Entra [[admin-center-intro|admin center]] to allow the [[microsoft-viva-engage-external-content-connector|Microsoft Viva Engage external content connector]] to access your Microsoft Viva Engage source system.
+Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft Viva Engage external content connector to access your Microsoft Viva Engage source system.
 
 ## Before you begin
 
@@ -120,7 +120,3 @@ For details on creating and configuring a Microsoft Viva Engage external content
 
 **Parent Topic:**[Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-viva-engage-external-content-connector.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[microsoft-viva-engage-external-content-connector|Microsoft Viva Engage external content connector]]

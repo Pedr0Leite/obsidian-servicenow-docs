@@ -14,7 +14,7 @@ breadcrumb: [Configure, MetricBase, Manage instance data sources, Extend Service
 
 # Working with MetricBase demo data
 
-Familiarize yourself with [[metricbase|MetricBase]] by exploring the MetricBase demo.
+Familiarize yourself with MetricBase by exploring the MetricBase demo.
 
 ## Overview of the MetricBase demo
 
@@ -41,6 +41,3 @@ Experiment with MetricBase APIs using Data Explorer that is part of the MetricBa
 
 [Requesting the MetricBase product]()
 
-## Related
-
-- [[metricbase|MetricBase]]

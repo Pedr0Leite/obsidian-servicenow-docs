@@ -22,11 +22,11 @@ Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[kiosk-indoor-mapping|Kiosk Indoor Mapping]] icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\).
+2.  Select the Kiosk Indoor Mapping icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\).
 
 3.  On the Map Feature Configurations list, select **New**.
 
@@ -70,7 +70,7 @@ Space Reservation
 
 </td><td>
 
-Select the check box option to allow employees and guests to select a space on the map and [[reservation-portal|make a reservation]] on the Kiosk Map. If this option is not selected, the option to select a **Reservable Module** for Kiosk is not displayed.After selecting the Reservable Module for a kiosk and enabling Space Reservation option, kiosk operators can bind a physical device to a kiosk. This allows visitors or guests to make a reservation on the Kiosk Map. For more information, see [Select a kiosk for a device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/setting-up-kiosk-device.md).
+Select the check box option to allow employees and guests to select a space on the map and make a reservation on the Kiosk Map. If this option is not selected, the option to select a **Reservable Module** for Kiosk is not displayed.After selecting the Reservable Module for a kiosk and enabling Space Reservation option, kiosk operators can bind a physical device to a kiosk. This allows visitors or guests to make a reservation on the Kiosk Map. For more information, see [Select a kiosk for a device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/setting-up-kiosk-device.md).
 
 After a kiosk is assigned to a physical device, employees and guests can make reservations on a selected kiosk device. For more information, [Make workplace reservations on the kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/rsv-space-kiosk-map.md).
 
@@ -104,9 +104,3 @@ The map configuration is saved as a record in the Indoor map kiosk module.
 
 **Next topic:**[Configure the kiosk position and map settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-kiosk-map.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[reservation-portal|Make a reservation]]

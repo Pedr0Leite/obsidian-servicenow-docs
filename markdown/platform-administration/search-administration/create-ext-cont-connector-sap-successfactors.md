@@ -21,13 +21,13 @@ Create an external content connector to retrieve searchable content and security
 
 A source system administrator must have already exported user, library and assignment, and training item data from your SAP SuccessFactors Learning source system in three comma-separated value \(CSV\) files. For details on exporting the appropriate data from your source system in CSV format, see [Export SAP SuccessFactors Learning data for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/export-sap-successfactors-data-external-content-indexing.md).
 
-**Note:** The [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]] can't accept CSV data files that exceed the maximum attachment size specified by the value of the **com.glide.attachment.max\_size** system property. By default, this property limits the size of attachments to 1 Gb or less. For details on configuring this system property, see [Maximum allowed attachment size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sc-max-allowed-attachment-size.md).
+**Note:** The SAP SuccessFactors external content connector can't accept CSV data files that exceed the maximum attachment size specified by the value of the **com.glide.attachment.max\_size** system property. By default, this property limits the size of attachments to 1 Gb or less. For details on configuring this system property, see [Maximum allowed attachment size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sc-max-allowed-attachment-size.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -41,7 +41,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
     1.  In the Users data table, use the **Add file** link to attach the CSV data file that contains the User Mapping ID and Assignment Profile ID columns.
 
-        Data from this file populates the user mapping table for the connector. The connector crawls this table during user permission crawls. [[ia-ai-search|AI Search]] uses the retrieved data to find the original document access restrictions to apply for each search user.
+        Data from this file populates the user mapping table for the connector. The connector crawls this table during user permission crawls. AI Search uses the retrieved data to find the original document access restrictions to apply for each search user.
 
     2.  In the Library and assignment profiles data table, use the **Add file** link to attach the CSV data file that contains the Library ID and Assignment Profile ID columns.
 
@@ -53,7 +53,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
     4.  In the Trainings data table, enter the URL for one of your SAP SuccessFactors source system's training items.
 
-        AI Search analyzes this sample training item URL to determine the correct URL format for training item search [[hs-results|results]] from your source system.
+        AI Search analyzes this sample training item URL to determine the correct URL format for training item search results from your source system.
 
 6.  Select the **I agree to the following disclaimer** option, then select **Next**.
 
@@ -97,9 +97,3 @@ You can link connector search sources to search profiles from the External Conte
 
 **Parent Topic:**[SAP SuccessFactors external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-successfactors-external-content-connector.md)
 
-## Related
-
-- [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

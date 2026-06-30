@@ -14,18 +14,18 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 # Create a document
 
-After [[c_ManagedDocuments|Managed Documents]] parameters have been set by the administrator, documents can be created, requested, checked out, edited, checked in, copied, and, if necessary, rolled back to an earlier version.
+After Managed Documents parameters have been set by the administrator, documents can be created, requested, checked out, edited, checked in, copied, and, if necessary, rolled back to an earlier version.
 
 Once documents have been added to the Managed Documents application, they can be grouped into document collections.
 
 -   **[Document approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ApprovalProcess.md)**  
-During the approval process, the approver approves or rejects the document. A document goes through the approval process after the [[c_ReviewProcess|review process]].
+During the approval process, the approver approves or rejects the document. A document goes through the approval process after the review process.
 -   **[Review process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ReviewProcess.md)**  
 During the review process, the reviewer approves or rejects the document. Sometimes a document will have multiple reviewers.
 -   **[Enable electronic signature for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_EnableElectronicSignature.md)**  
 Enabling electronic signatures for approval. Electronic signatures are helpful if you must obtain a digital signature for compliance or auditing purposes.
 -   **[Publish an approved revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_PublishAnApprovedRevision.md)**  
-[[publish-a-document|Publish a document]] revision that has been approved.
+Publish a document revision that has been approved.
 -   **[Submit a revision for draft review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_SubmitARevisionForDraftReview.md)**  
 Submit a document draft for review.
 -   **[Create or request a new document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_CreateOrRequestANewDocument.md)**  
@@ -47,13 +47,7 @@ Documents in the Managed Documents application can only be revised by one user a
 -   **[Create a document collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_CreateADocumentCollection.md)**  
 A document collection is a set of individual documents. After documents have been uploaded into Managed Documents, organize the documents by grouping them into collections.
 -   **[Upload a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_UploadADocument.md)**  
-[[t_UploadADocument|Upload a document]] into a saved record. You can upload text files, spreadsheets, presentations, PDF files, and more.
+Upload a document into a saved record. You can upload text files, spreadsheets, presentations, PDF files, and more.
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[c_ReviewProcess|Review process]]
-- [[publish-a-document|Publish a document]]
-- [[t_UploadADocument|Upload a document]]

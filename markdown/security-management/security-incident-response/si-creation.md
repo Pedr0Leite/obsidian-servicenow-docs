@@ -14,9 +14,9 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Security incident creation
 
-Security incidents can be created manually from the form, or automatically via security events received from integrated third-party alert monitoring [[tools|tools]], such as Splunk.
+Security incidents can be created manually from the form, or automatically via security events received from integrated third-party alert monitoring tools, such as Splunk.
 
-**Important:** The latest features in [[sir-landing-page|Security Incident Response]] are exclusively available in the [[sir-workspace-landing-page|Security Incident Response Workspace]]. Install or upgrade to the latest Security Incident Response or Security Incident Response Workspace version to access and leverage features such as Shift-Handover, Risk Score Calculator, and so on.
+**Important:** The latest features in Security Incident Response are exclusively available in the Security Incident Response Workspace. Install or upgrade to the latest Security Incident Response or Security Incident Response Workspace version to access and leverage features such as Shift-Handover, Risk Score Calculator, and so on.
 
 If you have a security role, you can use any of the following methods to manually create security incidents.
 
@@ -78,7 +78,7 @@ On the Event Management Alert form, select **Create Security Incident** to creat
 
 </td></tr><tr><td>
 
-Manually converted from a vulnerability record \(if the [[vuln-landing-page|Vulnerability Response]] plugin is activated\)
+Manually converted from a vulnerability record \(if the Vulnerability Response plugin is activated\)
 
 </td><td>
 
@@ -93,9 +93,3 @@ Generally, security administrators are responsible for setting up alert rules to
 |------|-----------|
 |[Automatically created using alert rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ScIncdUseAlrts.md)|Security incidents can be created based on alert rules defined in the [Event management in your data center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) application.|
 
-## Related
-
-- [[tools|Tools]]
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

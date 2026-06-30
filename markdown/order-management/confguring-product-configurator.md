@@ -12,13 +12,9 @@ breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationshi
 
 # Setting up the legacy product configurator
 
-Control the product options displayed in the [[product-configurator|legacy product configurator]] interface by using the [[som-open-state-management-model|Open State Management]] API framework.
+Control the product options displayed in the legacy product configurator interface by using the Open State Management API framework.
 
 ## Configuration overview
 
 As an admin, you can manage the configuration states and configurator nodes displayed in the legacy product configurator by using the Open State Management API framework and open state management extension points.
 
-## Related
-
-- [[product-configurator|Legacy product configurator]]
-- [[som-open-state-management-model|Open state management]]

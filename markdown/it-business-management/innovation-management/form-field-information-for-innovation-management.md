@@ -14,31 +14,22 @@ breadcrumb: [Innovation Management reference, Innovation Management, Project Por
 
 # Form field information for Innovation Management
 
-Field information for [[form-field-information-for-dw|forms]] used in the [[innovation-management-landing|Innovation Management]].
+Field information for forms used in the Innovation Management.
 
 -   **[Create an Idea form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/create-an-idea-form.md)**  
 Learn about the fields of the Idea form. Use this form to create or edit the details of an idea in Innovation Management.
 -   **[Idea Category Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-category-configurations-form.md)**  
-Learn about the fields of the [[idea-category-configurations-form|idea category configuration form]]. Use this form to create or edit the details of an idea category configuration in Innovation Management.
+Learn about the fields of the idea category configuration form. Use this form to create or edit the details of an idea category configuration in Innovation Management.
 -   **[Idea category form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-category-form.md)**  
-Learn about the fields of the [[idea-category-form|Idea category form]]. Use this form to create or edit the details of an idea category in Innovation Management.
+Learn about the fields of the Idea category form. Use this form to create or edit the details of an idea category in Innovation Management.
 -   **[Collaborate on idea](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/collaborate-on-idea-actions.md)**  
 Learn about the actions of the collaborate on an idea form. Review the idea details and then choose which action to perform on the idea. Collaborate on an idea with other submitters and stakeholders. Add comments or reply to comments to request more information or answer questions. Vote for the ideas you would like to see developed.
 -   **[Manage ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/manage-ideas-idea-portal.md)**  
-Learn about the actions of the [[manage-ideas-idea-portal|manage ideas]] form. Review the idea details and then choose which action to perform on the idea.
+Learn about the actions of the manage ideas form. Review the idea details and then choose which action to perform on the idea.
 -   **[Evaluate ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/evaluate-ideas-actions.md)**  
-Learn about the actions of the [[evaluate-ideas-actions|evaluate ideas]] form. Review the submitted ideas and then choose which action to perform on the idea. You can analyze the submitted ideas and then accept or reject them.
+Learn about the actions of the evaluate ideas form. Review the submitted ideas and then choose which action to perform on the idea. You can analyze the submitted ideas and then accept or reject them.
 -   **[Idea module form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-module-form.md)**  
-Learn about the fields of the [[idea-module-form|Idea module form]]. Use this form to create or edit the details of an idea in Innovation Management.
+Learn about the fields of the Idea module form. Use this form to create or edit the details of an idea in Innovation Management.
 
 **Parent Topic:**[Innovation Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-reference.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[innovation-management-landing|Innovation Management]]
-- [[idea-category-configurations-form|Idea Category Configuration form]]
-- [[idea-category-form|Idea category form]]
-- [[manage-ideas-idea-portal|Manage ideas]]
-- [[evaluate-ideas-actions|Evaluate ideas]]
-- [[idea-module-form|Idea module form]]

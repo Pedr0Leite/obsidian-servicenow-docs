@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Zing index and search dictionary attributes
 
-The following dictionary attributes either affect the way Zing indexes tables or ranks search [[hs-results|results]].
+The following dictionary attributes either affect the way Zing indexes tables or ranks search results.
 
 ## Index and search dictionary attributes
 
@@ -31,11 +31,11 @@ Zing uses dictionary attributes set at the table or field level to configure the
 |text\_index \_attachment\_body \_weight|float|Table|V4|Specifies how much consideration \(weight, a float value\) to give a search term found in the body of an attachment. For more information on how weight value affect search result relevancy, see [Zing computes document scores using three components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md).|Text Index Attachment Body Weight|FALSE|TRUE|
 |text\_index \_attachment\_displayed|boolean|Table|Both|Displays attachments in text search results.|Text Index Attachment Displayed|FALSE|FALSE|
 |text\_index\_attachment \_title\_weight|float|Table|V4|Specifies how much consideration \(weight, a float value\) to give a search term found in the title of an attachment. For more information on how weight value affect search result relevancy, see [Zing computes document scores using three components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md).|Text Index Attachment Title Weight|FALSE|TRUE|
-|text\_index \_auto\_stop|boolean|Table|Both|Automatically identifies [[stop-words-ais|stop words]] and doesn't index them. Based on the threshold specified in text\_index\_auto\_stop\_threshold.|Text Index Auto Stop|TRUE|TRUE|
+|text\_index \_auto\_stop|boolean|Table|Both|Automatically identifies stop words and doesn't index them. Based on the threshold specified in text\_index\_auto\_stop\_threshold.|Text Index Auto Stop|TRUE|TRUE|
 |text\_index\_auto \_stop\_threshold|int|Table|Both|Threshold \(integer, number of occurrences\) for a word to become a stop word automatically. See text\_index\_auto\_stop.|Text Index Auto Stop Threshold|TRUE|TRUE|
 |text\_index\_default \_partial\_matching\_rule|String|Table|Both|String for partial matching rule configuration. Input should be based on [Change the query mode of an indexed table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-table-query-mode.md).|Text Index Default Partial Matching Rule|FALSE|TRUE|
 |text\_index \_default\_query\_mode|String|Table|Both|String for query mode configuration. Input should be based on [Change the query mode of an indexed table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-table-query-mode.md)|Text Index Default Query Mode|FALSE|TRUE|
-|text\_index \_disable\_synonym|boolean|Table|Both|TRUE disables searching on [[synonyms-ais|synonyms]] as well as the search term.|Text Index Disable Synonym|FALSE|TRUE|
+|text\_index \_disable\_synonym|boolean|Table|Both|TRUE disables searching on synonyms as well as the search term.|Text Index Disable Synonym|FALSE|TRUE|
 |text\_index \_enable\_idf|boolean|Table|V3|TRUE enables [TF-IDF](https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/)scoring.|Text Index Enable IDF|FALSE|TRUE|
 |text\_index \_filter\_junk|boolean|Table|Both|TRUE by default, FALSE disables the junk filter for a table. By default, Zing doesn't index or search for 2-digit numbers and single character words \(unless they are Chinese or Japanese characters\). Regenerate the index after disabling the junk filter. This attribute results in a larger table index. For optimal performance, don't apply it unless it's required.|Text Index Filter Junk|TRUE|TRUE|
 |text\_index \_filter\_query|An encodedQuery on the table|Table|Both|Use this attribute when you want to index the rows matching specific filter conditions. The attribute value must be an encodedQuery on the table.|Index Filter|TRUE|FALSE|
@@ -92,8 +92,3 @@ This dictionary attribute is part of the BM25 algorithm. The attribute helps det
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[synonyms-ais|Synonyms]]

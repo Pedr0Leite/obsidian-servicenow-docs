@@ -18,9 +18,9 @@ Configure playbooks to organize project workflows, maintain consistency, and kee
 
 Define a trigger condition in Workflow Studio to use a Playbook, either by selecting an existing one or creating a Playbook.
 
-In [[project-workspace-landing-page|Project Workspace]], Playbooks are triggered by record creation, record update, or both. For example, a Playbook created for projects is associated with project records, and the Playbook tab appears when a project meets the trigger condition. For more information on how to configure a playbook, see [Configuring Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/setting-up-process-automation-designer.md).
+In Project Workspace, Playbooks are triggered by record creation, record update, or both. For example, a Playbook created for projects is associated with project records, and the Playbook tab appears when a project meets the trigger condition. For more information on how to configure a playbook, see [Configuring Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/setting-up-process-automation-designer.md).
 
-There are two pre-defined [[c_ProjectApplicationOverview|project management]] playbooks available in the Workflow studio:
+There are two pre-defined project management playbooks available in the Workflow studio:
 
 -   Project default
 -   Stage-gate default
@@ -50,7 +50,3 @@ When a project template is applied or project is created from a demand, the proj
 
 [Use Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-playbooks-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectApplicationOverview|Project Management]]

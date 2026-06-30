@@ -14,7 +14,7 @@ breadcrumb: [Use, Process Mining, Platform Analytics]
 
 # Create a project or template using Project Builder
 
-Create and [[generate-process-map|mine a project]] using the Project Builder to analyze and optimize your business processes. Create a template to reuse it when you want to use the same project conditions multiple times. In the Project Builder, the entire process is broken down into three sections and an overview to make the task easier and more efficient.
+Create and mine a project using the Project Builder to analyze and optimize your business processes. Create a template to reuse it when you want to use the same project conditions multiple times. In the Project Builder, the entire process is broken down into three sections and an overview to make the task easier and more efficient.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To mine a project, ensure that you have enabled Audit Log for the parent table o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Select **Create New Project** in the upper right corner.
 
@@ -38,14 +38,9 @@ Define the kind of data or process that you want to view and analyze in your gra
 -   **[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)**  
 Define the data that you want to view in the graph.
 -   **[Set improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md)**  
-[[improve-opportunities|Set improvement opportunities]] to find areas of improvement by which teams could optimize a process. You can either select from a list of rules available to you or set your own rules. Based on the rules set by you, you can view your areas of improvement.
+Set improvement opportunities to find areas of improvement by which teams could optimize a process. You can either select from a list of rules available to you or set your own rules. Based on the rules set by you, you can view your areas of improvement.
 -   **[Review and mine your project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/review-mine.md)**  
 After you’ve created the project by setting the objectives, scoping the analysis, and adding improvement opportunities, it’s time to mine the project.
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[generate-process-map|Mine a project]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[improve-opportunities|Set improvement opportunities]]

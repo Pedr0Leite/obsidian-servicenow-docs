@@ -14,7 +14,7 @@ breadcrumb: [Configure Advanced Appointment Booking, Configuring Appointment Boo
 
 # Activate Advanced Appointment Booking
 
-You can activate the Advanced [[appointment-booking|Appointment Booking]] plugin \(com.snc.advanced\_appointment\_booking\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Advanced Appointment Booking plugin \(com.snc.advanced\_appointment\_booking\) for Field Service Management if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ The following items are installed with Advanced Appointment Booking:
 -   Plugins
 -   Tables
 
-For more information, see [[adv-appt-booking-components|Advanced appointment booking components]].
+For more information, see [Advanced appointment booking components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/adv-appt-booking-components.md).
 
 ## Procedure
 
@@ -51,8 +51,4 @@ For more information, see [[adv-appt-booking-components|Advanced appointment boo
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[adv-appt-booking-components|Advanced appointment booking components]]
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]

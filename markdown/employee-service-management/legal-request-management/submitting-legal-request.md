@@ -14,7 +14,7 @@ breadcrumb: [Legal Request Management, Legal Service Delivery, Legal and Contrac
 
 # Using Legal Request Management
 
-Employees can [[submit-legal-request|submit a legal request]] to seek services from the legal department and track its status.
+Employees can submit a legal request to seek services from the legal department and track its status.
 
 ## Overview of using Legal Request Management
 
@@ -33,6 +33,3 @@ As a member of the legal department, you work on legal requests submitted by emp
 
 **Parent Topic:**[Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-landing-page.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]

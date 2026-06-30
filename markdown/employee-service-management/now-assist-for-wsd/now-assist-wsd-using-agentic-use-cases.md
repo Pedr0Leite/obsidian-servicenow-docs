@@ -78,7 +78,7 @@ Optimize Cleaning activities
 
 </td><td>
 
-This team of AI agents get all open [[workplace-maintenance-mgmt-ovw|workplace maintenance management]] cases. The **Workplace Planned Maint Nightly Run** scheduled job runs on a daily or hourly basis to create maintenance cases. Each workplace maintenance case represents a cleaning or a maintenance case on a location for a certain time interval, also known as schedule \(on a daily or hourly basis\). The Optimize cleaning activities agentic AI workflow retrieves space utilization threshold for each [[create-maint-cases|workplace maintenance cases]]. Based on the space utilization threshold data, it creates new maintenance cases or deactivates underutilized maintenance cases. For more information, see [Optimize cleaning activities agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/optimize-cleaning-activities-agent.md).
+This team of AI agents get all open workplace maintenance management cases. The **Workplace Planned Maint Nightly Run** scheduled job runs on a daily or hourly basis to create maintenance cases. Each workplace maintenance case represents a cleaning or a maintenance case on a location for a certain time interval, also known as schedule \(on a daily or hourly basis\). The Optimize cleaning activities agentic AI workflow retrieves space utilization threshold for each workplace maintenance cases. Based on the space utilization threshold data, it creates new maintenance cases or deactivates underutilized maintenance cases. For more information, see [Optimize cleaning activities agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/optimize-cleaning-activities-agent.md).
 
 </td><td>
 
@@ -92,7 +92,7 @@ Automate map updates
 
 </td><td>
 
-The AI agent helps map admins configure the map during bulk updates to [[Indoor-mapping|Indoor Mapping]]. The AI agent autonomously retrieves sources for the CAD file and resumes the import task. If the source isn't found, the AI agent moves the task to the `Waiting user input` state.
+The AI agent helps map admins configure the map during bulk updates to Indoor Mapping. The AI agent autonomously retrieves sources for the CAD file and resumes the import task. If the source isn't found, the AI agent moves the task to the `Waiting user input` state.
 
  For more information, see [Automate map updates agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
@@ -122,15 +122,9 @@ This AI agent helps map admins configure the map during bulk updates to Indoor M
 -   **[Workplace Advisor Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-advisor-overview.md)**  
 Workplace Advisor is an AI-powered solution designed to help Space Planners and Facilities Managers optimize workplace management through intelligent insights and conversational support.
 -   **[Workplace Concierge agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-concierge-ai-agent.md)**  
-Use the [[workplace-concierge-ai-agent|Workplace Concierge agentic workflow]] to register visitors from existing communication tools like emails, calendars, or the Virtual Agent.
+Use the Workplace Concierge agentic workflow to register visitors from existing communication tools like emails, calendars, or the Virtual Agent.
 -   **[https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/implement-autonomous-l1-agent-for-workplace.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/implement-autonomous-l1-agent-for-workplace.md)**  
 
 
 **Parent Topic:**[Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-landing.md)
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[create-maint-cases|Workplace maintenance cases]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-concierge-ai-agent|Workplace Concierge agentic workflow]]

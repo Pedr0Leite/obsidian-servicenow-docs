@@ -23,13 +23,13 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-inquiry-cases|invoice inquiry cases]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice inquiry cases**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice inquiry cases**.
 4.  In the Number column, select the link to the case to open it.
 
@@ -61,7 +61,3 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 **Parent Topic:**[Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]

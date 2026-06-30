@@ -24,7 +24,7 @@ Role required: wm\_admin, wm\_contractor\_manager\_int
 
 ## About this task
 
-An offboarded manager or agent cannot log in to the Field Service [[field-service-contractor-portal|Contractor Portal]] and do not receive any notification through email or SMS.
+An offboarded manager or agent cannot log in to the Field Service Contractor Portal and do not receive any notification through email or SMS.
 
 ## Procedure
 
@@ -43,6 +43,3 @@ An offboarded manager or agent cannot log in to the Field Service [[field-servic
 
 The external manager or agent is removed from all the assigned groups.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

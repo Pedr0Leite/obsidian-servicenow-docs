@@ -14,7 +14,7 @@ breadcrumb: [Manage GRC tasks from Employee Center, Policy and Compliance Manage
 
 # Create a policy exception from Employee Center
 
-Use the [[employee-center|Employee Center]] to request exceptions for policies, control objectives, controls, or issues by specifying the reason of exception on a particular list of the systems, applications, networks, or entities for which the exception applies.
+Use the Employee Center to request exceptions for policies, control objectives, controls, or issues by specifying the reason of exception on a particular list of the systems, applications, networks, or entities for which the exception applies.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ What is the exception for?
 
 </td><td>
 
-Type of policy exception that you want to create. The options are:-   Policy: [[t_DefineAPolicy-2|Create a policy]] exception based on a policy.
+Type of policy exception that you want to create. The options are:-   Policy: Create a policy exception based on a policy.
 -   Control objective: Default is a single control objective on which the policy exception is created.
 -   Controls: Option to create a policy exception on multiple controls.
 -   Issue: Option to create a policy exception on an issue.
@@ -195,7 +195,4 @@ Users that are notified when the request is updated.
 
         The number of remaining extensions that you can avail to request is displayed as **Remaining extensions**.
 
-## Related
 
-- [[employee-center|employee center]]
-- [[t_DefineAPolicy-2|Create a policy]]

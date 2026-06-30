@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-By default, the saved views feature is enabled in the Mobile Agent. You have to manually enable and configure the feature for the [[now-mobile-app|Now Mobile app]].
+By default, the saved views feature is enabled in the Mobile Agent. You have to manually enable and configure the feature for the Now Mobile app.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ By default, the saved views feature is enabled in the Mobile Agent. You have to 
 
 2.  Open the record for the mobile app in which you want to use the saved views feature.
 
-3.  Select the information icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **[[sg-mobile-tab-bar|Navigation bar]]** field of the Mobile App Configuration page. Select **Open Record**.
+3.  Select the information icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) in the **Navigation bar** field of the Mobile App Configuration page. Select **Open Record**.
 
 4.  In the **Navigation Tabs** section, select **New**.
 
@@ -46,7 +46,4 @@ By default, the saved views feature is enabled in the Mobile Agent. You have to 
 
 11. Select **Update** in the Navigation Tab Map form.
 
-## Related
 
-- [[now-mobile-app|Now Mobile app]]
-- [[sg-mobile-tab-bar|Navigation bar]]

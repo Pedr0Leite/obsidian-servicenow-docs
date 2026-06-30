@@ -32,7 +32,7 @@ Industry Workflow/FSO Layer
 
 </td><td>
 
-Layer that includes the [[fso-overview|Financial Services]] Operations application.
+Layer that includes the Financial Services Operations application.
 
 </td></tr><tr><td>
 
@@ -54,9 +54,5 @@ Spoke Layer
 Layer that includes the Guidewire spoke plugin. This layer provides the actions that use REST Web Services to interact with the Guidewire APIs. To view Guidewire spoke actions, see [Guidewire Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/guidewire-spoke.md) actions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
+</table>**Parent Topic:**[Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-guidewire-landing-page.md)
 
-## Related
-
-- [[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
-- [[fso-overview|Financial Services]]

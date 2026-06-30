@@ -131,8 +131,5 @@ Rank of the supply chain.
  The 'rank' of an ICT third-party service provider is determined by its position in the ICT service supply chain. A direct ICT third-party service provider signing a contract with the financial entity is considered 'rank' 1. Subcontractors signing with a direct provider or another subcontractor are assigned subsequent ranks \(2, 3, etc.\). If multiple providers are at the same level, they are assigned the same 'rank'.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-supply-chain|Create a supply chain and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a supply chain and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-supply-chain.md)
 
-## Related
-
-- [[create-drtp-reg-supply-chain|Create a supply chain and enhance digital resilience data]]

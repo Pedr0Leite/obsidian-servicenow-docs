@@ -18,7 +18,7 @@ Search records from a table list view.
 
 Indexed tables display the for text option in the list title bar, which searches all records for matching field values.
 
-\[Omitted image "sample-list-search-[[hs-results|results]].png"\] Alt text: Sample global text search from a list for the query "Oracle OR SAP".
+\[Omitted image "sample-list-search-results.png"\] Alt text: Sample global text search from a list for the query "Oracle OR SAP".
 
 The list search field accepts [Boolean operators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_BooleanOperators.md) \(AND, OR, and NOT\) in search queries. When a user adds a Boolean operator to a search query, the system only returns records that match all search conditions of the query.
 
@@ -39,6 +39,3 @@ The system also converts any search query into an equivalent keyword condition i
 
 [Debug Zing]()
 
-## Related
-
-- [[hs-results|Results]]

@@ -14,7 +14,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Generate LEAP playbooks
 
-Create standard, dynamic, and automated playbooks [[using-aiops-leap|using LEAP]] to promote fast incident resolution and response time.
+Create standard, dynamic, and automated playbooks using LEAP to promote fast incident resolution and response time.
 
 ## Before you begin
 
@@ -61,6 +61,4 @@ Select Actions button \[Omitted image "actions-icon.png"\], and select **Create 
 
     \[Omitted image "workflow-studio-for-playbooks.png"\] Alt text: LEAP playbook in Workflow studio
 
-## Related
 
-- [[using-aiops-leap|Using LEAP]]

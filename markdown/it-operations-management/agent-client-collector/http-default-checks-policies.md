@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # HTTP default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following policies for HTTP health monitoring. Policies come with the checks specified in the tables below.
+Agent Client Collector provides the following policies for HTTP health monitoring. Policies come with the checks specified in the tables below.
 
 <table id="table_x5c_gdf_ktb"><thead><tr><th>
 
@@ -159,6 +159,3 @@ Check run successfully. Output: ws10.curl\_timings.time\_total 0.219622 16427492
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

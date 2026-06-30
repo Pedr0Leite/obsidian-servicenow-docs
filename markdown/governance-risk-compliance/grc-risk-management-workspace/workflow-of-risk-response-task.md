@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Workflow of risk response task
 
-The [[risk-response|risk response]] task workflow is a structured process to manage assessed risks by defining plans of action to either accept, mitigate, avoid, or transfer those risks.
+The risk response task workflow is a structured process to manage assessed risks by defining plans of action to either accept, mitigate, avoid, or transfer those risks.
 
 ## Exploring the user journey for Risk response task
 
@@ -52,6 +52,3 @@ The risk response task workflow consists of the following stages:
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-response|risk response]]

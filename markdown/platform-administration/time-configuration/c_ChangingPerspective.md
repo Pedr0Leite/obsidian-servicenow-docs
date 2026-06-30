@@ -20,12 +20,9 @@ The increments go from one day to one year. To limit the timeline to an incremen
 
 \[Omitted image "TimelinePerspectiveBar.png"\] Alt text: timeline perspective bar
 
-The pink slider at the bottom of the timeline offers another way to change the perspective. Move the slider from right to left to view all the spans on a long timeline. Adjust the end points of the slider to make arbitrary changes to the magnification. A narrow slider zooms in on the spans and provides a more detailed view of complex [[c_UsingTimelines|timelines]]. A wide slider pulls the view out and makes more of the timeline visible on the screen.
+The pink slider at the bottom of the timeline offers another way to change the perspective. Move the slider from right to left to view all the spans on a long timeline. Adjust the end points of the slider to make arbitrary changes to the magnification. A narrow slider zooms in on the spans and provides a more detailed view of complex timelines. A wide slider pulls the view out and makes more of the timeline visible on the screen.
 
 \[Omitted image "TimelinePerspectiveSlider.png"\] Alt text: timeline perspective slider
 
 **Parent Topic:**[Timelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UsingTimelines.md)
 
-## Related
-
-- [[c_UsingTimelines|Timelines]]

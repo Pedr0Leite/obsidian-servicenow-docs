@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Quick Links widget instance options form
 
-The instance options enable you to configure the [[portal-quick-links-widget|Portal Quick Links widget]] on a portal page.
+The instance options enable you to configure the Portal Quick Links widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -95,6 +95,3 @@ The default display style is Thumbnail.
 
 [Add and configure the Portal Quick Links widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-quick-links-widget-inst-optns.md)
 
-## Related
-
-- [[portal-quick-links-widget|Portal Quick Links widget]]

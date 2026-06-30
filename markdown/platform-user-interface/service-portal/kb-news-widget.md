@@ -16,7 +16,7 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 The KB News widget displays information from the Knowledge Base. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-You can [[configure-onboarding-modals|configure]] the KB News widget to display specific information by selecting a category from the KB category list.
+You can configure the KB News widget to display specific information by selecting a category from the KB category list.
 
 **Note:** The KB News widget only displays the knowledge base articles a user has access to based on ACL rules.
 
@@ -72,13 +72,9 @@ The knowledge base category determined by the kb\_category table. Only published
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

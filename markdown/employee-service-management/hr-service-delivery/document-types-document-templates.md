@@ -16,12 +16,9 @@ breadcrumb: [Configuring Document Templates, Document Templates, HR Documents, H
 
 Document template categories help you to categorize similar documents together. It makes finding the correct document template easier.
 
-For example, you can have multiple employee verification letters depending on if the employee is full-time, part time, or contingent. You can create a document category and have those [[document-templates-overview|document templates]] stored in that category.
+For example, you can have multiple employee verification letters depending on if the employee is full-time, part time, or contingent. You can create a document category and have those document templates stored in that category.
 
 You can create a document category by navigating to **Document Templates** &gt; **Document Template Categories**. After creating a document template category, you can add document templates to that category.
 
 **Important:** Document categories and document templates appear based on your user criteria.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

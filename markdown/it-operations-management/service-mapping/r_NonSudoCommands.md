@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites for performing top-down discovery using Service Mappi
 
 # Service Mapping commands not requiring a privileged user
 
-Most of commands utilized by [[c_ServiceMappingOverview|Service Mapping]] for [[r-discovery|discovery]] and mapping do not require elevated rights.
+Most of commands utilized by Service Mapping for discovery and mapping do not require elevated rights.
 
 Review this list of commands to understand how Service Mapping uses them and to make sure that the virtual security of your company is not compromised.
 
@@ -3812,7 +3812,3 @@ This command is used only if you need to discover jobs.
 
 [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Customizing Essential SAFe dashboard reports, Performance Analytics
 
 # Customize indicators of your Essential SAFe dashboard reports
 
-Configure indicators to reflect your customizations in [[essential-overview|Essential SAFe]] dashboards.
+Configure indicators to reflect your customizations in Essential SAFe dashboards.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: admin or pa\_admin
 
 **Parent Topic:**[Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/customizing-safe-dashboard-reports.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]

@@ -14,7 +14,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 You need to apply certain user permissions in Salesforce in order to use CPQ properly.
 
-To use CPQ, users need access to certain objects and [[fields|fields]] in Salesforce. These can be assigned using permission [[cpq-sets|sets]] or by going to Profiles &gt; Select Desired Profile &gt; Object Settings. Users need read/edit access in the Field Permissions section to the following objects:
+To use CPQ, users need access to certain objects and fields in Salesforce. These can be assigned using permission sets or by going to Profiles &gt; Select Desired Profile &gt; Object Settings. Users need read/edit access in the Field Permissions section to the following objects:
 
 For Configuration Attribute:
 
@@ -69,7 +69,3 @@ The full list of objects and fields contained in the CPQ packages can be found b
 
 Selecting one of these packages and clicking "View Components" will show a list of SFDC objects and fields created by that package along with their name, type, and parent object \(if any\). Specifically, the fields in **Logik Extension for Salesforce CPQ** are the fields a user will need to have access to in order to properly configure and reconfigure CPQ - enabled products in Salesforce CPQ.
 
-## Related
-
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

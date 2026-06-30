@@ -12,7 +12,7 @@ breadcrumb: [Reference, Security Posture Control, Security Operations]
 
 # Security Posture Control use case: Detecting assets missed by vulnerability assessment tools
 
-To detect assets missed by vulnerability assessment [[tools|tools]], the following pre-requisites are required.
+To detect assets missed by vulnerability assessment tools, the following pre-requisites are required.
 
 For each Service Graph Connector in the list, you can see if that connector is required for monitoring on-prem assets or cloud assets. Depending on your use case, you can choose to activate only the required connectors.
 
@@ -25,18 +25,11 @@ For each Service Graph Connector in the list, you can see if that connector is r
 
         **Note:** If Cloud Discovery is activated, these service graph connector products are not required.
 
-3.  \[Optional\] You can activate Service Graph Connectors for any of the following categories to improve overall coverage, that is, the number of assets that are reported and monitored by [[spc-landing|Security Posture Control]].
+3.  \[Optional\] You can activate Service Graph Connectors for any of the following categories to improve overall coverage, that is, the number of assets that are reported and monitored by Security Posture Control.
     1.  Network Security .
     2.  Networking.
-    3.  [[threat-intelligence-infrastructure|Infrastructure]] Monitoring.
+    3.  Infrastructure Monitoring.
     4.  Application Performance Monitoring .
 
-After you verify you have met these prerequisites, you must activate the following policy, Assets not scanned for [[vulnerabilities|vulnerabilities]]. For more information on policies, please refer to [[spc-policies-overview|Policies for Security Posture Control]].
+After you verify you have met these prerequisites, you must activate the following policy, Assets not scanned for vulnerabilities. For more information on policies, please refer to [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 
-## Related
-
-- [[spc-policies-overview|Policies for Security Posture Control]]
-- [[tools|Tools]]
-- [[spc-landing|Security Posture Control]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vulnerabilities|Vulnerabilities]]

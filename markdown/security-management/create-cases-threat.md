@@ -12,7 +12,7 @@ breadcrumb: [IoCs and observables in cases, Case creation from security artifact
 
 # Create a case from IoCs or observables
 
-In [[threat-intel-landing-page|Threat Intelligence]], you can create a case from artifacts \(IoCs or [[c_Observables|observables]]\). After the IoCs or observables have been used to create a case, you can use [[case-mgmt|Security Case Management]] to analyze the data.
+In Threat Intelligence, you can create a case from artifacts \(IoCs or observables\). After the IoCs or observables have been used to create a case, you can use Security Case Management to analyze the data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_ti.case\_user\_write
 
 1.  Navigate to the artifacts \(IoCs or observables\) you want to use to create a case.
 
-    -   To create a case from IoCs, navigate to **Threat Intelligence** &gt; **[[ioc-repository|IoC Repository]]** &gt; **[[indicator|Indicators]]**.
+    -   To create a case from IoCs, navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
     -   To create a case from observables, navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Observables**.
 2.  In the list, select the artifacts you want added to a new case.
 
@@ -54,7 +54,7 @@ Role required: sn\_ti.case\_user\_write
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[[cases-in-threat|IoCs and observables in cases]]
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-in-threat.md)
 
 **Related topics**  
 
@@ -63,14 +63,5 @@ Role required: sn\_ti.case\_user\_write
 
 [Create an observable from a case]()
 
-[Run a [[indicator-sightings|sightings]] search on observables in a case]()
+[Run a sightings search on observables in a case]()
 
-## Related
-
-- [[cases-in-threat|IoCs and observables in cases]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[case-mgmt|Security Case Management]]
-- [[ioc-repository|IoC Repository]]
-- [[indicator|Indicators]]
-- [[indicator-sightings|Sightings]]

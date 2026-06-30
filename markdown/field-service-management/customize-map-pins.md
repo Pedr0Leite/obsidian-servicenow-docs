@@ -24,7 +24,7 @@ You can change map pins related to agents, and task states. You can’t change p
 
 New icon pin graphics should be sized at 54x54 pixels in PNG or SVG format.
 
-For a list of map pins that show on the dispatch map, see [[r_DispatcherView|Map iconography in Dispatcher Workspace]].
+For a list of map pins that show on the dispatch map, see [Map iconography in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_DispatcherView.md).
 
 ## Procedure
 
@@ -49,6 +49,3 @@ For a list of map pins that show on the dispatch map, see [[r_DispatcherView|Map
 
 The new graphic replaces the previous map pin graphic.
 
-## Related
-
-- [[r_DispatcherView|Map iconography in Dispatcher Workspace]]

@@ -14,15 +14,15 @@ breadcrumb: [Accelerator catalog, View the Initiatives and Accelerators catalog,
 
 # Accelerators-Australia Release
 
-Provides a list of latest [[impact-landing-page|Impact]] accelerators available in the release Australia and the subsequent store release
+Provides a list of latest Impact accelerators available in the release Australia and the subsequent store release
 
 ## Technical Accelerators
 
-Use the following latest Impact [[technical-accelerators|technical accelerators]]:
+Use the following latest Impact technical accelerators:
 
 Australia:
 
--   [Jumpstart Your Impact Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-impact-platform-health.md): Enables teams to proactively monitor, maintain, and improve [[platform-health-idi|platform health]] in alignment with leading practices.
+-   [Jumpstart Your Impact Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-impact-platform-health.md): Enables teams to proactively monitor, maintain, and improve platform health in alignment with leading practices.
 -   [Jumpstart Your Data Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-data-privacy.md): Introduces ServiceNow Vault’s Data Privacy capabilities and helps discover, classify, and make sensitive data anonymous,to support compliance, security, and trust.
 -   [Jumpstart Your Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-walkup-experience.md): Demonstrates set up and operations of Walk-Up centers, enabling users to seek guidance on IT issues from experts.
 -   [Jumpstart Your Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-digital-product-release.md): Enables product and release teams to consistently plan and deliver new versions by providing visibility across the release life cycle and automating release-readiness validation.
@@ -34,7 +34,7 @@ Australia:
 June Store:
 
 -   [Jumpstart Your AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-data-explorer.md): Helps customers get started with ServiceNow’s AI Data Explorer through coaching, applied demonstrations, and leading practices, for faster, confident data-driven decisions.
--   [Jumpstart your AI Control Tower: Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-control-tower.md): AI Life cycle: Provides guided coaching and an applied demonstration to [[io-help|help]] customers better understand their organization’s AI governance.
+-   [Jumpstart your AI Control Tower: Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-control-tower.md): AI Life cycle: Provides guided coaching and an applied demonstration to help customers better understand their organization’s AI governance.
 -   [TuneUp Your Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-now-assist-virtual-agent.md): Provides prescriptive guidance on fine-tuning your Now Assist in Virtual Agent.
 -   [Introduction to ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/introduction-to-servicenow-vault.md): Provides an overview of the possibilities and capabilities of ServiceNow Vault.
 -   [Jumpstart Your HR Case and Knowledge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-hr-case-knowledge.md): Provides a demonstration of the possibilities and capabilities of HR Case and Knowledge.
@@ -43,7 +43,7 @@ June Store:
 
 ## Strategy Accelerators
 
-Use the following latest Impact [[strategy-accelerators|strategy accelerators]]:
+Use the following latest Impact strategy accelerators:
 
 Australia:
 
@@ -59,32 +59,21 @@ June Store:
 
 ## Architecture Accelerators
 
-Use the following latest Impact [[architecture-accelerators|architecture accelerators]]:
+Use the following latest Impact architecture accelerators:
 
 Australia:
 
 -   [Assess Your CSDM Maturity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csdm-maturity-assessment.md): Provides clear snapshot of current data management maturity related to the organization's capabilities and services.
 -   [CSDM Data Modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csdm-data-modeling.md): Provides key resources and leading practices to get started with modeling your data to align to the ServiceNow platform successfully.
--   [UX: Optimize Your Portal with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-optimize-your-portal-with-usage-insights.md): Guides customers how to measure, monitor and analyze user behavior with UX [[io-analytics|analytics]] to identify and prioritize portal improvements.
+-   [UX: Optimize Your Portal with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-optimize-your-portal-with-usage-insights.md): Guides customers how to measure, monitor and analyze user behavior with UX analytics to identify and prioritize portal improvements.
 -   [UX: Virtual Agent Experience Design or Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-virtual-agent-experience-design-or-review.md): Provides guidance on designing or improving the conversational experience of Virtual Agent or Now Assist in Virtual Agent.
 
 ## Optimization Accelerators
 
-Use the following latest Impact Platform [[optimization-accelerators|Optimization accelerators]]:
+Use the following latest Impact Platform Optimization accelerators:
 
 June Store:
 
 -   [Optimization Capability Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-configuration.md): Provides support in configuring capabilities and features to enhance platform health and drive ServiceNow product adoption.
--   [Optimization Capability Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-design.md): Provides support in designing capabilities and features to enhance platform health and drive ServiceNow [[product-adoption|product adoption]].
+-   [Optimization Capability Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-design.md): Provides support in designing capabilities and features to enhance platform health and drive ServiceNow product adoption.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[technical-accelerators|Technical Accelerators]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]
-- [[strategy-accelerators|Strategy Accelerators]]
-- [[architecture-accelerators|Architecture Accelerators]]
-- [[io-analytics|Analytics]]
-- [[optimization-accelerators|Optimization Accelerators]]
-- [[product-adoption|Product Adoption]]

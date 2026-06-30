@@ -14,8 +14,5 @@ breadcrumb: [Service Exchange]
 
 # Service Exchange reference
 
-Reference topics provide additional information about the [[service-bridge-v2-data-model|Service Exchange data model]] and configuration.
+Reference topics provide additional information about the Service Exchange data model and configuration.
 
-## Related
-
-- [[service-bridge-v2-data-model|Service Exchange data model]]

@@ -16,7 +16,7 @@ Save a populated form as a template.
 
 ## Before you begin
 
-[[t_ToggleTheTemplateBar|Toggle the template bar]] so it is visible on forms.
+Toggle the template bar so it is visible on forms.
 
 Role required: admin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Complete the form as it should appear when a user applies the template.
 
-3.  In the [[template-bar|template bar]], click the plus icon \(+\).
+3.  In the template bar, click the plus icon \(+\).
 
     \[Omitted image "TemplateUI16Form.png"\] Alt text: Template form
 
@@ -37,7 +37,7 @@ Role required: admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -58,8 +58,3 @@ Role required: admin
 
 [ACL rule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/acl-rule-types.md)
 
-## Related
-
-- [[c_Templates|Using form templates]]
-- [[t_ToggleTheTemplateBar|Toggle the template bar]]
-- [[template-bar|Template bar]]

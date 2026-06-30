@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Create an AI issue in the AI Control Tower
 
-Identify and manage issues related to the impacted areas for the reported AI case in the [[ai-control-tower-landing|AI Control Tower]].
+Identify and manage issues related to the impacted areas for the reported AI case in the AI Control Tower.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst or sn\_grc\_a
 
 1.  Navigate to **All** &gt; **AI Control Tower**.
 
-2.  Go to the **AI [[cases|cases]]** dashboard.
+2.  Go to the **AI cases** dashboard.
 
 3.  On the AI cases dashboard, on the **AI cases** tab, select **Create issue**.
 
@@ -34,7 +34,4 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst or sn\_grc\_a
 
 5.  Select **Save**.
 
-## Related
 
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[cases|Cases]]

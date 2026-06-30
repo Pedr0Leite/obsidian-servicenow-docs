@@ -45,7 +45,7 @@ Role required: sn\_sd.success\_dashboard\_admin
     |Field|Description|
     |-----|-----------|
     |Tab|Unique name of the dashboard.|
-    |PAR Dashboard|The PAR dashboard that must be associated with the [[operational-success-ref|Operational success]] tab.|
+    |PAR Dashboard|The PAR dashboard that must be associated with the Operational success tab.|
     |Order|Order of the dashboard.|
 
 8.  Select **Submit**.
@@ -57,6 +57,3 @@ The new dashboard appears on the Operational success dashboard.
 
 **Parent Topic:**[Operational Success Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/admin-console-os.md)
 
-## Related
-
-- [[operational-success-ref|Operational Success]]

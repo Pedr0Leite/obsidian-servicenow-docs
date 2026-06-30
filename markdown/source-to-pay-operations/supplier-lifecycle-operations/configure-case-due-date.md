@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Configure due dates for supplier cases
 
-Configure due dates for different case types so that the **Due date** field is auto-populated when you create [[supplier|supplier]] cases.
+Configure due dates for different case types so that the **Due date** field is auto-populated when you create supplier cases.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Although the **Due date** field is auto-populated for a supplier case type, you 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **Default Due Dates for Cases**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Default Due Dates for Cases**.
 
     The Decision Builder opens and displays the Decision table for configuring the default due dates.
 
@@ -50,7 +50,7 @@ Although the **Due date** field is auto-populated for a supplier case type, you 
 
 2.  Under the Default due date column, select a row next to the case type row and enter a positive number.
 
-    The number that you enter for a case type is auto-populated in the **Due date** field the next time you [[create-supplier-case-spo|create a supplier case]] of that case type.
+    The number that you enter for a case type is auto-populated in the **Due date** field the next time you create a supplier case of that case type.
 
     For example, let's say that you enter 3 as the due date for the case type General enquiry. If you create a General enquiry case on September 12, the due date will be in three days from this date; that is, September 15.
 
@@ -76,8 +76,3 @@ The default due dates for the different case types are configured.
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[create-supplier-case-spo|Create a supplier case]]

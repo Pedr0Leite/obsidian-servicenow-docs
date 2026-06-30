@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspace for HR Case Management contextual side panel, Using
 
 # Using At a Glance in Agent Workspace for HR Case Management
 
-Use the **At a Glance** feature from the contextual side panel to quickly view [[c_HRProfileRecords|HR profile]] information for the **Opened for person** on an HR case enabling HR agents to better assist and resolve employee requests.
+Use the **At a Glance** feature from the contextual side panel to quickly view HR profile information for the **Opened for person** on an HR case enabling HR agents to better assist and resolve employee requests.
 
 The At a Glance panel displays key HR profile details about the employee, such as the employee's job title, employment start date, office location, contact information, and organizational details. Agents can quickly access this information so that they have a better understanding of the employees they are trying to help.
 
@@ -28,6 +28,3 @@ If you change the subject person, the profile information of that person will al
 
 For more information, see [HR profile editable field configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileEditableFieldConfig.md).
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

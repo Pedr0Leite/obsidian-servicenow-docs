@@ -45,7 +45,7 @@ Due diligence requesters
 
 </td><td>
 
-Requesters can be any employee at your organization interested in onboarding, reassessing, or offboarding an engagement. For more information on the different [[tprm-due-diligence-types|types of due diligence]] requests, see [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md).
+Requesters can be any employee at your organization interested in onboarding, reassessing, or offboarding an engagement. For more information on the different types of due diligence requests, see [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Risk Manager
 
 </td><td>
 
-Risk managers lead thorough [[risk-assessments|risk assessments]] of third parties and engagements. Based on the information collected and reviewed by the Risk manager and their team, they prioritize risks, develop mitigation strategies, and use TPRM to monitor and manage ongoing third-party relationships effectively.
+Risk managers lead thorough risk assessments of third parties and engagements. Based on the information collected and reviewed by the Risk manager and their team, they prioritize risks, develop mitigation strategies, and use TPRM to monitor and manage ongoing third-party relationships effectively.
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Administrators manage user roles, permissions, and system settings to set up TPR
 
 The following infographic shows the workflow of the most important processes that you can use to manage risk.
 
-\[Omitted image "mmasset0020705-due-diligence-workflow-horizontal.png"\] Alt text: Infographic that shows where the processes in the [[tprm-workflow-in-workspace|due diligence workflow]] are performed. For the text description, refer to the workflow steps that follow.
+\[Omitted image "mmasset0020705-due-diligence-workflow-horizontal.png"\] Alt text: Infographic that shows where the processes in the due diligence workflow are performed. For the text description, refer to the workflow steps that follow.
 
 -   **Request due diligence for an engagement**
 
@@ -202,7 +202,7 @@ The following table shows the benefits of the Third-party Risk Management applic
 |Work on all processes in the workflow for a due diligence request: IRQs, external due diligence, approval, contract risk, and closed requests.|[Monitoring the due diligence request process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-overview.md)|TPR Managers and TPR Admins|
 |Use the third-party portal as a primary point of interaction for third parties and risk assessors.|[Managing the Third-party portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vendor-portal.md)|TPR Managers, TPR Assessors, and Third parties|
 
-For more information on the [[tprm-terminology|terminology]] used in TPRM, see [Terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-terminology.md).
+For more information on the terminology used in TPRM, see [Terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-terminology.md).
 
 ## What to explore next
 
@@ -233,9 +233,3 @@ To learn more about configuring and using Third-party Risk Management, see:
 
 [AI-assisted questionnaire pre-fill using the Document Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms-sae.md)
 
-## Related
-
-- [[tprm-due-diligence-types|Types of due diligence]]
-- [[risk-assessments|risk assessments]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[tprm-terminology|Terminology]]

@@ -39,8 +39,5 @@ Role required: admin
 6.  To restore the default instance logo, update the **glide.product.image.light** system property value to **now-next-experience-logo.svg**.
 
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]

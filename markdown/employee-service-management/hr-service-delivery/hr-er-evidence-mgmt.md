@@ -14,13 +14,13 @@ breadcrumb: [Configuring Employee Relations, Employee Relations, Case and Knowle
 
 # Evidence Management for Employee Relations
 
-Use Evidence Management to capture and categorize evidence for [[hr-case-employee-relations|Employee Relations]] or related cases.
+Use Evidence Management to capture and categorize evidence for Employee Relations or related cases.
 
 Evidence is defined as any digital artifacts gathered as part of an investigation, like files that are either uploaded to Evidence Management or reside in another system.
 
 ## Setting up Evidence Management
 
-Set up [[hr-service-delivery|HR Service Delivery]] Management so your agents can collect evidence and information related to Employee Relation \(ER\) cases.
+Set up HR Service Delivery Management so your agents can collect evidence and information related to Employee Relation \(ER\) cases.
 
 You can activate Evidence Management \[com.sn\_evidence\_management\] plugin if you have the admin role. This plugin activates when the Human Resources Scoped App: Employee Relations \[com.sn\_hr\_employee\_realtions\] plugin is activated. For more information, see [Activate Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-hr-employee-relations.md).
 
@@ -136,7 +136,4 @@ Role required: sn\_em.evidence\_config\_manager
 
 4.  Select **Submit**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

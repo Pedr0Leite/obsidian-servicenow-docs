@@ -14,7 +14,7 @@ breadcrumb: [Configure, Retail Task Management, Retail]
 
 # Create a service definition for multi-store cases in Retail Task Management Core
 
-Create a service definition that leverages the multi-store creation engine to create multi-store [[rahi-retail-operations-overview|retail]] cases.
+Create a service definition that leverages the multi-store creation engine to create multi-store retail cases.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-\[Omitted image "rtmc-create-service-definition.png"\] Alt text: Creating a service definition in [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+\[Omitted image "rtmc-create-service-definition.png"\] Alt text: Creating a service definition in Retail Task Management Core.
 
 ## Procedure
 
@@ -45,7 +45,3 @@ Role required: admin
 
 A new service definition has been created that can be leveraged to create multiple cases.
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-task-management-overview|Retail Task Management]]

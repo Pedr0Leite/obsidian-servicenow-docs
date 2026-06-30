@@ -18,13 +18,10 @@ The License and Permit Playbook uses eligibility criteria, a series of questions
 
 Pre-Eligibility criteria is established by performing the following activities:
 
-1.  Creating a Pre-Eligibility Decision Table. For more information, see [[psds-eligibility-decision-table-lp|Create a Pre-Eligibility Decision Table in License and Permit Playbook]].
+1.  Creating a Pre-Eligibility Decision Table. For more information, see [Create a Pre-Eligibility Decision Table in License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-eligibility-decision-table-lp.md).
 2.  Updating the Public Sector Digital Services Pre-Eligibility Configuration decision table
 
 For each new License &amp; Permit product, a new pre-eligibility decision table must be created.
 
 If the applicant fulfills all the eligibility criteria, then the agent can proceed in creating a case for the applicant.​ If the applicant does not fulfill at least one of the eligibility criteria, an agent cannot proceed in creating a case for the applicant.
 
-## Related
-
-- [[psds-eligibility-decision-table-lp|Create a Pre-Eligibility Decision Table in License and Permit Playbook]]

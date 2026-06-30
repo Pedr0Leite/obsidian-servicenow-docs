@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Copy the client ID and the client secret.
 
-3.  In CPQ, navigate to **[[cpq-utilities|Utilities]]** &gt; **External Connections**.
+3.  In CPQ, navigate to **Utilities** &gt; **External Connections**.
 
 4.  Click **New**.
 
@@ -53,6 +53,4 @@ Role required: admin
 
 12. Navigate to **Utilities** &gt; **Settings** and set the pricing connection to the newly created connection.
 
-## Related
 
-- [[cpq-utilities|Utilities]]

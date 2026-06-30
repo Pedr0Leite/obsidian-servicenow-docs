@@ -14,11 +14,11 @@ breadcrumb: [Multi-factor authentication, Authentication, Access Management]
 
 # Using Multi-factor authentication
 
-Learn how to use [[mfa-landing|multi-factor authentication]] tools to securely access your instance.
+Learn how to use multi-factor authentication tools to securely access your instance.
 
 ## Login with MFA
 
-ServiceNow requires [[mfa-auth-app|authenticator applications]] that support Time-based One-time Passwords \(TOTP\). ServiceNow tests MFA with the following authenticators:
+ServiceNow requires authenticator applications that support Time-based One-time Passwords \(TOTP\). ServiceNow tests MFA with the following authenticators:
 
 -   Google Authenticator
 -   Microsoft Authenticator
@@ -39,7 +39,7 @@ ServiceNow requires [[mfa-auth-app|authenticator applications]] that support Tim
 
 -   **Authenticator App**
 
-You can use authenticator apps to use a second factor of [[c_Authentication|authentication]].
+You can use authenticator apps to use a second factor of authentication.
 
 
 </td><td>
@@ -55,7 +55,7 @@ Enter the code displayed on your authenticator app to login.
 
 </td><td>
 
-If you haven't configured a second form of authentication, you will see a [[sc-configuration|configuration]] page after logging in to guide you through the process of setting up an authentication app. For details on this setup, see [Set up Multi-factor authentication for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpMultiFactorAuthUponLogin.md).
+If you haven't configured a second form of authentication, you will see a configuration page after logging in to guide you through the process of setting up an authentication app. For details on this setup, see [Set up Multi-factor authentication for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpMultiFactorAuthUponLogin.md).
 
 \[Omitted image "auth-app.png"\] Alt text: Authenticator
 
@@ -104,12 +104,12 @@ Use the Biometric or Security Key to login.\[Omitted image "biometirc-mfa.png"\]
 
 -   **SMS**
 
-Use SMS based OTP to require [[users|users]] who attempt to login.
+Use SMS based OTP to require users who attempt to login.
 
 
 </td><td>
 
-When users attempt to login to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. Users can enter the six-digit verification code that it sent to the mobile device and verify their [[identity-landing|identity]].
+When users attempt to login to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. Users can enter the six-digit verification code that it sent to the mobile device and verify their identity.
 
  \[Omitted image "sms.png"\] Alt text: SMS.
 
@@ -125,7 +125,7 @@ Use the validation with SMS to login based on the OTP generated.
 You need to enter the 6-digit code sent to the mobile number to login. The code sent is valid for the next 5 minutes. You can use resend code to again send the code.
 
 </td></tr></tbody>
-</table>## Register an [[email|Email]] address for OTP
+</table>## Register an Email address for OTP
 
 <table id="table_xwx_dwb_2vb"><tbody><tr><td>
 
@@ -153,13 +153,3 @@ You need to enter the 6-digit code sent to the email address to login. The code 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[mfa-auth-app|Authenticator Applications]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[email|Email]]

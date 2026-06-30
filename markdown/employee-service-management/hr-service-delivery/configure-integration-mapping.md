@@ -36,7 +36,7 @@ Role required: decision\_table\_admin, sn\_hr\_integr\_fw.admin
     |-----|-----------|
     |Feature name|In Type, create a list of choice options for a feature name. For example, options within Feature name can be Leave Management, or Expense Management.|
     |Service name|Create a list of choice options for a service name. For example, options within Service name can be Time Off Balance, or Get Holiday Calendar.|
-    |User|Provide [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to a user from the User \[sys\_user\] table.|
+    |User|Provide reference to a user from the User \[sys\_user\] table.|
 
 5.  To add a decision row, select **add new decision row** and provide conditions on input choices, and define the results:
 
@@ -78,7 +78,7 @@ Subflow
 
 </td><td>
 
-Subflow you select to generate results. For example, Get time off balance subflow.The Get Time off Balance topic in [[employee-center-landing-page|Employee Center]] Center retrieves holiday calendar of user from Oracle HCM system by running the Get time off balance subflow.
+Subflow you select to generate results. For example, Get time off balance subflow.The Get Time off Balance topic in Employee Center Center retrieves holiday calendar of user from Oracle HCM system by running the Get time off balance subflow.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,4 @@ OAuth Entity details. For Oauth Entity, the profiles with grant type as authoriz
     2.  Select **Test**. For example, the results display the Get time off balance subflow to fetch the time off balance of a user.
 7.  Select **Publish**.
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-center-landing-page|Employee Center]]

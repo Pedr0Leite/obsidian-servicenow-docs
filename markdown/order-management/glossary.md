@@ -20,7 +20,7 @@ A list of terms used in CPQ
 
 -   **API \(Application Programming Interface\)**
 
-    A way for two or more computer programs to communicate with each other. In the context of CPQ, APIs are categorized into [[logik_io_runtime_apis|runtime APIs]] \(create, update and save configurations\) and admin APIs \(works with [[blueprints|blueprints]], [[fields|fields]], [[rules_101|rules]], [[configurable-products-explore|configurable products]], managed tables, and various automation tasks\).
+    A way for two or more computer programs to communicate with each other. In the context of CPQ, APIs are categorized into runtime APIs \(create, update and save configurations\) and admin APIs \(works with blueprints, fields, rules, configurable products, managed tables, and various automation tasks\).
 
 -   **Bill of materials \(BOM\)**
 
@@ -46,7 +46,7 @@ A list of terms used in CPQ
 
     Records that are generated from a configuration and associated with the Configuration Line Item object. A configuration ID lets related configuration line items be grouped together.
 
--   **CPQ \([[configure-price-quote-landing|Configure, Price, Quote]]\)**
+-   **CPQ \(Configure, Price, Quote\)**
 
     A category of sales software that lets users configure products and services, apply pricing, and generate price quotes.
 
@@ -56,7 +56,7 @@ A list of terms used in CPQ
 
 -   **Enrichments**
 
-    [[scripts|Scripts]] that run outside of the rules engine that affects configurations in CPQ. Enrichments can run on configure, on reconfigure, on BOM response, or via picklist extension pricing.
+    Scripts that run outside of the rules engine that affects configurations in CPQ. Enrichments can run on configure, on reconfigure, on BOM response, or via picklist extension pricing.
 
 -   **Expert Services \(ES\)**
 
@@ -74,7 +74,7 @@ A list of terms used in CPQ
 
     A series of fields displayed as a matrixed layout.
 
--   **[[cpq-flightpath|Flightpath]]**
+-   **Flightpath**
 
     CPQ feature that allows administrators to record a configuration session tracks end-user inputs and how the CPQ rules engine responds.
 
@@ -88,9 +88,9 @@ A list of terms used in CPQ
 
 -   **Layout**
 
-    The visual experience that an end user sees when configuring a product in CPQ. Every blueprint in CPQ has a layout that can be customized by the Admin. Beginning at the lowest level, [[layouts|layouts]] contain fields, which are housed in columnsets. Finally, columnsets are situated in containers called tiers, which can be nested if desired.
+    The visual experience that an end user sees when configuring a product in CPQ. Every blueprint in CPQ has a layout that can be customized by the Admin. Beginning at the lowest level, layouts contain fields, which are housed in columnsets. Finally, columnsets are situated in containers called tiers, which can be nested if desired.
 
--   **[[matrix_loader_table_of_contents|Matrix Loader]]**
+-   **Matrix Loader**
 
     A feature in CPQ that enables the bulk upload of multiple types of data into CPQ, such as data in CSV files or entire CPQ blueprints.
 
@@ -152,7 +152,7 @@ A list of terms used in CPQ
 
 -   **Set**
 
-    A feature that groups fields so they can be multiply replicated in the end-userʼs UI in a matrix format. [[cpq-sets|Sets]] reduce the number of fields and rules that need to be defined in scenarios where the same fields are being repeated. Analogous to Configuration Arrays in Oracle.
+    A feature that groups fields so they can be multiply replicated in the end-userʼs UI in a matrix format. Sets reduce the number of fields and rules that need to be defined in scenarios where the same fields are being repeated. Analogous to Configuration Arrays in Oracle.
 
 -   **Set repeater**
 
@@ -185,16 +185,3 @@ A list of terms used in CPQ
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[configurable-products-explore|Configurable products]]
-- [[configure-price-quote-landing|Configure, price, quote]]
-- [[scripts|Scripts]]
-- [[cpq-flightpath|Flightpath]]
-- [[layouts|Layouts]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[cpq-sets|Sets]]

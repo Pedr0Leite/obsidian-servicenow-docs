@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Investigations, Legal Service Delivery Practice Ap
 
 # Install Legal Investigations
 
-You can install the [[legal-investigations-landing-page|Legal Investigations]] application \(sn\_lg\_investigate\) if you have the admin role.The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Investigations application \(sn\_lg\_investigate\) if you have the admin role.The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -57,6 +57,4 @@ For more information, see [Components installed with Legal Investigations](https
 
 6.  Select **Install**.
 
-## Related
 
-- [[legal-investigations-landing-page|Legal Investigations]]

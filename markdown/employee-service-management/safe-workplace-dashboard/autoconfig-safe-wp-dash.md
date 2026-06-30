@@ -14,7 +14,7 @@ breadcrumb: [Create a campus to appear on the Safe Workplace Dashboard, Safe Wor
 
 # Auto-map a location and create a campus
 
-Create multiple campuses automatically by mapping them from locations so that they appear on the [[safe-workplace-dashboard|Safe Workplace Dashboard]].
+Create multiple campuses automatically by mapping them from locations so that they appear on the Safe Workplace Dashboard.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ A site is created based on the parent name. The parent name is based on the loca
 
 **Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/configrng-safe-workplce-dshbrd.md)
 
-## Related
-
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]

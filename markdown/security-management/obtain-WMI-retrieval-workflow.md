@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Get Running Processes capability, 
 
 # Security Operations System Command Integration- Get Running Processes flow
 
-The [[security-operations-landing-page|Security Operations]] System Command Integration - Get Running Processes flow retrieves the running processes of a configuration item when added or updated to a Windows or Unix-based security incident in the **Analysis** state.
+The Security Operations System Command Integration - Get Running Processes flow retrieves the running processes of a configuration item when added or updated to a Windows or Unix-based security incident in the **Analysis** state.
 
 ## Before you begin
 
@@ -26,16 +26,16 @@ Existing security incidents are automatically updated when you are in the **Anal
 
 The flow process actions include:
 
--   [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
+-   [Get Configuration Item FQDN Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-config-FQDN-activity.md)
 -   [Determine Shell Script by OS activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/determine-shell-script-by-os-activity.md)
--   [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
--   [[get-running-processes-via-pwrshell-activity|Get Running Processes via PowerShell]]
--   [[execute-shell-script-activity|Execute Shell Script activity]]
--   [[capability-execution-tracking-failure|Capability Execution Tracking- Failure Flow Action]]
--   [[extract-shell-script-mid-script-activity|Extract Shell Script from MID Script activity]]
--   [[combine-results-activity|Combine Results]] and return values in an array
--   [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
--   [[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]
+-   [Execution Tracking - Begin Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-begin.md)
+-   [Get Running Processes via PowerShell](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-via-pwrshell-activity.md)
+-   [Execute Shell Script activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execute-shell-script-activity.md)
+-   [Capability Execution Tracking- Failure Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-failure.md)
+-   [Extract Shell Script from MID Script activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/extract-shell-script-mid-script-activity.md)
+-   [Combine Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/combine-results-activity.md) and return values in an array
+-   [Create Enrichment Data records Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-enrich-data-records.md)
+-   [Capability Execution Tracking - Complete Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/capability-execution-tracking-complete.md)
 
 \[Omitted image "get-running-processes-flows.png"\] Alt text: Security Operations System Command Integration- Get Running Processes flow
 
@@ -49,9 +49,9 @@ The flow process actions include:
 
 4.  Click **Update**.
 
-    [[c_SecIncRespOrchestration|Security Incident Response Orchestration]] provides running process information in the **Related Link** &gt; **Security Incident Enrichments**tab. For more information, see [[enrichment-data-mapping|Security Operations enrichment data mapping]].
+    Security Incident Response Orchestration provides running process information in the **Related Link** &gt; **Security Incident Enrichments**tab. For more information, see [Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md).
 
-    Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+    Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 
 -   **[Combine results activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/combine-results-activity.md)**  
@@ -63,21 +63,5 @@ The Extract Shell Script from MID script workflow activity pulls a MID server sh
 -   **[Get Running Processes via PowerShell activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-via-pwrshell-activity.md)**  
 The Get Sensor ID workflow activity gathers running processes using PowerShell to use in the workflow.
 
-**Parent Topic:**[[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
+**Parent Topic:**[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
 
-## Related
-
-- [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
-- [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
-- [[get-running-processes-via-pwrshell-activity|Get Running Processes via PowerShell activity]]
-- [[execute-shell-script-activity|Execute Shell Script activity]]
-- [[capability-execution-tracking-failure|Capability Execution Tracking- Failure Flow Action]]
-- [[extract-shell-script-mid-script-activity|Extract Shell Script from MID Script activity]]
-- [[combine-results-activity|Combine results activity]]
-- [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
-- [[capability-execution-tracking-complete|Capability Execution Tracking - Complete Flow Action]]
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]

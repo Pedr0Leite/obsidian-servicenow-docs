@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related lists for a Theme in Agile Development 2.0
 
-Use the related lists on the Theme form for the actions that you need to perform for your theme in [[agile-landing-page|Agile Development 2.0]], such as associating stories or epics with the theme.
+Use the related lists on the Theme form for the actions that you need to perform for your theme in Agile Development 2.0, such as associating stories or epics with the theme.
 
 <table id="table_theme-related-list"><thead><tr><th>
 
@@ -43,6 +43,3 @@ Lists the stories associated with the theme. You can create a new story and asso
 </td></tr></tbody>
 </table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

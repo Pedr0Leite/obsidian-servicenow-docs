@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Supplier Lifecycle Operations, Outbound
 
 # Supplier outbound staging table
 
-The [[supplier|Supplier]] outbound \[sn\_spend\_intg\_outbound\_supplier​\] staging table stores important data about the supplier so that an ERP integrator can export this data to a third-party ERP system.
+The Supplier outbound \[sn\_spend\_intg\_outbound\_supplier​\] staging table stores important data about the supplier so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Supplier outbound staging table
 
@@ -130,7 +130,7 @@ Company code of the supplier in the ERP system.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP Source]]
+ERP Source
 
 </td><td>
 
@@ -154,7 +154,7 @@ Fax number of the supplier that can be used for sending documents.
 
 </td></tr><tr><td>
 
-General [[ledger-account|ledger account]]
+General ledger account
 
 </td><td>
 
@@ -192,7 +192,7 @@ This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -324,10 +324,3 @@ Zip code or postal code where the supplier is located.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[ledger-account|Ledger account]]
-- [[legal-entity|Legal entity]]

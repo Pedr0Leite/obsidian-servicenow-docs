@@ -14,7 +14,7 @@ breadcrumb: [Install Sourcing and Procurement Operations, Configure, Sourcing an
 
 # Components installed with Sourcing and Procurement Operations
 
-Several types of components are installed with the activation of [[psm-overview|Sourcing and Procurement Operations]], including tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of Sourcing and Procurement Operations, including tables, user roles, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -34,7 +34,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[shopping-hub-overview|Shopping Hub]] Administrator
+Shopping Hub Administrator
 
  \[sn\_shop.shopping\_hub\_admin\]
 
@@ -86,7 +86,7 @@ Procurement Specialist
 
 </td><td>
 
-Access to all the data of the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module, except the primary data.
+Access to all the data of the Sourcing and Purchasing Automation module, except the primary data.
 
 </td><td>
 
@@ -101,7 +101,7 @@ Accounts Payable Viewer
 
 </td><td>
 
-Read access to purchase orders, [[invoices|invoices]], and other task-related objects that arise from [[purchase-order-table|purchase order]] creation.
+Read access to purchase orders, invoices, and other task-related objects that arise from purchase order creation.
 
 </td><td>
 
@@ -115,7 +115,7 @@ Purchasing Task Owner
 
 </td><td>
 
-Access to all purchase orders, requisitions, [[negotiations|negotiations]], sourcing requests, and purchasing tasks.
+Access to all purchase orders, requisitions, negotiations, sourcing requests, and purchasing tasks.
 
 </td><td>
 
@@ -195,7 +195,7 @@ sn\_spend\_mgmt.sourcing\_category\_manager
 
 </td><td>
 
-Can view and access the [[category-mgmt-tab|Category management tab]] and the [[spo-savings-dashboard|Savings dashboard]] in [[spo-spend-mgmt|Spend and Savings Management]].
+Can view and access the Category management tab and the Savings dashboard in Spend and Savings Management.
 
 </td><td>
 
@@ -219,7 +219,7 @@ sn\_spend\_pipeline.sourcing\_pipeline\_user
 
 </td><td>
 
-Can view and access the [[pipeline-mgmt-tab|Pipeline management tab]].
+Can view and access the Pipeline management tab.
 
 </td><td>
 
@@ -234,10 +234,10 @@ None
 |-------------|-----------|
 |\[PSM\] Approval Due Date Breached|Creates a breached approvals review task if a due date for an approval is breached.|
 |\[PSM\] Clear Recently Viewed Data|Clears the recently viewed data in ShoppingHub. This data comprises entries that were created more than 90 days ago by the logged-in user.|
-|\[PSM\] Create Receiving Task|Creates [[receipt-tasks|receipt tasks]] against the purchase order, grouped by calendar month and recipient, on the first of every month.|
-|\[PSM\] Create Service Acknowledgment Task|Creates service acknowledgment tasks on a monthly basis. This job automatically picks all [[purchase-order-lines|purchase order lines]] that have started and are yet to reach their end dates, and have some remaining amount or percentage or quantity to be delivered.|
+|\[PSM\] Create Receiving Task|Creates receipt tasks against the purchase order, grouped by calendar month and recipient, on the first of every month.|
+|\[PSM\] Create Service Acknowledgment Task|Creates service acknowledgment tasks on a monthly basis. This job automatically picks all purchase order lines that have started and are yet to reach their end dates, and have some remaining amount or percentage or quantity to be delivered.|
 |\[PSM\] Execute Credit Allocation Rules|Runs the credit allocation rules that are set up. Employee credit records are created as per this rule.|
-|\[PSM\] Execute Shopping Controls|Runs the shopping controls that are set up. User control records are created as per the shopping controls, and the respective [[supplier|supplier]] products are updated as well.|
+|\[PSM\] Execute Shopping Controls|Runs the shopping controls that are set up. User control records are created as per the shopping controls, and the respective supplier products are updated as well.|
 |\[PSM\] Monitor Milestone Tasks|Fetches any active milestone whose completion date is today and updates the state of the milestone to Confirmation Required.|
 |\[PSM\] Populate Spend Task – Due Date Bucket|Calculates the due date bucket of purchasing tasks to determine the category to which they belong to. The categories are Others, Due within 7 Days, and Overdue.|
 |\[PSM\] Purchasing Data Aggregation|Populates the following aggregate tables: Product Purchases by Job Code, Supplier Use by Shopper, and Supplier Use by Department.|
@@ -314,7 +314,7 @@ ERP Asset Category Mapping
 
 </td><td>
 
-Stores the mapping between the [[erp-source|ERP source]] and the capitalization policy.
+Stores the mapping between the ERP source and the capitalization policy.
 
 </td></tr><tr><td>
 
@@ -334,7 +334,7 @@ Integration Error
 
 </td><td>
 
-Stores [[integration-errors-during-erp-posting|integration errors]] that might occur when communicating or processing a request with ERP.
+Stores integration errors that might occur when communicating or processing a request with ERP.
 
 </td></tr><tr><td>
 
@@ -418,7 +418,7 @@ Stores the mapping between the purchase order and contract.
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment Terms]]
+Payment Terms
 
  \[sn\_shop\_payment\_term\]
 
@@ -438,7 +438,7 @@ Stores the price divided based on the number of quantities purchased for a given
 
 </td></tr><tr><td>
 
-[[pricing|Pricing]]
+Pricing
 
  \[sn\_shop\_m2m\_product\_contract\]
 
@@ -498,7 +498,7 @@ Stores the receipt of a supplier product received as part of a purchase order li
 
 </td></tr><tr><td>
 
-[[shipment-details|Shipment Details]]
+Shipment Details
 
  \[sn\_shop\_shipment\_details\]
 
@@ -555,7 +555,7 @@ Approval Plan
 
 </td><td>
 
-Stores the approval plan details for a [[purchase-requisition|purchase requisition]] such as the approval routing method and approval decision method.
+Stores the approval plan details for a purchase requisition such as the approval routing method and approval decision method.
 
 </td></tr><tr><td>
 
@@ -615,7 +615,7 @@ Purchase Cost Allocation
 
 </td><td>
 
-Stores the type of cost allocation, associated [[cost-center|cost center]], and the amount that is allocated for a shopper that can be used to buy a supplier product.
+Stores the type of cost allocation, associated cost center, and the amount that is allocated for a shopper that can be used to buy a supplier product.
 
 </td></tr><tr><td>
 
@@ -649,7 +649,7 @@ Stores the credit amount that is allocated for a user with supporting informatio
 
 </td></tr><tr><td>
 
-[[ledger-assignment-rules|Ledger Assignment Rules]]
+Ledger Assignment Rules
 
  \[sn\_shop\_ledger\_assignment\_rule\]
 
@@ -685,7 +685,7 @@ Sourcing Event
 
 </td><td>
 
-Stores the [[negotiation-events|sourcing events]] that are created for a supplier product in a sourcing activity.
+Stores the sourcing events that are created for a supplier product in a sourcing activity.
 
 </td></tr><tr><td>
 
@@ -969,7 +969,7 @@ Stores the cached data for quicker access by APIs. An example is the CachedCaget
 
 </td></tr><tr><td>
 
-[[shoppinghub-configurations|ShoppingHub Configuration]]
+ShoppingHub Configuration
 
  \[sn\_shop\_shopnow\_content\]
 
@@ -1005,7 +1005,7 @@ Sourcing Outbound Queue
 
 </td><td>
 
-Stages the [[sourcing-request|sourcing request]] for the third-party providers.
+Stages the sourcing request for the third-party providers.
 
 </td></tr><tr><td>
 
@@ -1132,7 +1132,7 @@ sn\_shop.default.contract.model.type
 
 </td><td>
 
-Default contract model when creating [[contracts|contracts]].
+Default contract model when creating contracts.
 
 </td></tr><tr><td>
 
@@ -1267,7 +1267,7 @@ To modify the user limit, do the following:
 
 ## Property to automate the edit receipt flow
 
-Enable the `sn_spend_cp.enable_automated_edit_receipt_flow` system property to automate the approval and processing of edit receipt requests without manual intervention. The automated process updates the purchase order \(PO\) and purchase order line \(POL\) quantities, while also automatically closing the associated procurement case in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Enable the `sn_spend_cp.enable_automated_edit_receipt_flow` system property to automate the approval and processing of edit receipt requests without manual intervention. The automated process updates the purchase order \(PO\) and purchase order line \(POL\) quantities, while also automatically closing the associated procurement case in the Source-to-Pay Workspace.
 
 Role required: sn\_shop.shopping\_hub\_admin and sn\_shop.procurement\_administrator
 
@@ -1287,31 +1287,3 @@ This property is enabled by default. However, if this property is disabled, do t
 
 **Parent Topic:**[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[negotiations|Negotiations]]
-- [[category-mgmt-tab|Category management tab]]
-- [[spo-savings-dashboard|Savings dashboard]]
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[pipeline-mgmt-tab|Pipeline management tab]]
-- [[receipt-tasks|Receipt tasks]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[integration-errors-during-erp-posting|Integration errors]]
-- [[payment-terms|Payment terms]]
-- [[pricing|Pricing]]
-- [[shipment-details|Shipment details]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-center|Cost center]]
-- [[ledger-assignment-rules|Ledger assignment rules]]
-- [[negotiation-events|Sourcing events]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[sourcing-request|Sourcing request]]
-- [[contracts|Contracts]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

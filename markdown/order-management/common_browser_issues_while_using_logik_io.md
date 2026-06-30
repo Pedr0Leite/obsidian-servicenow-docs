@@ -26,7 +26,7 @@ Here are some reasons this issue might occur.
 
 By default, Safari and Firefox block all cross-site cookies. This behavior interferes with the authentication cookie that jumps across CPQ and Salesforce. If either of these browsers is your \(or your end userʼs\) default browser, cookies must be allowed to use the configurator.
 
-If you have no control over what browsers end users use to access [[understand-the-commerce-logic-engine|the CPQ Configurator]], and you use easyXDM, submit a support case requesting a “runtimeAPI” parameter. Once the runtime clients are updated to include this parameter, the browsers should work with their default settings.
+If you have no control over what browsers end users use to access the CPQ Configurator, and you use easyXDM, submit a support case requesting a “runtimeAPI” parameter. Once the runtime clients are updated to include this parameter, the browsers should work with their default settings.
 
 **Note:** Submit a support case by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
@@ -48,11 +48,7 @@ Other extensions such as email templates or crypto wallets can also cause issues
 -   BNB Chain Wallet MetaMask
 -   WalkMe
 
-Review your browser's plugins to check whether any other extensions could be interfering while [[cpq-using|using CPQ]]. If the end user can configure after all browser extensions are disabled, one of the extensions must be causing the issue. If you identify an extension that causes the issue and is not in the list above, please let us know.
+Review your browser's plugins to check whether any other extensions could be interfering while using CPQ. If the end user can configure after all browser extensions are disabled, one of the extensions must be causing the issue. If you identify an extension that causes the issue and is not in the list above, please let us know.
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[cpq-using|Using CPQ]]

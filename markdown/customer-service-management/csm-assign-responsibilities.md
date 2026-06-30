@@ -22,7 +22,7 @@ Role required: admin
 
 Use the responsibility data model to assign multiple responsibilities to a single organization member across different business organizations. For hierarchy responsibilities you can assign the same responsibility to a user at multiple locations. Each assignment has its own assignment point and excluded locations list. The user's effective access is the union of all assignments, minus excluded and restricted locations.
 
-The responsibility data model [[gamification-components-tracks|tracks]] the relationship between the organization members and their responsibility type in the Organization Member Responsibility \[sn\_csm\_svc\_org\_member\_responsibility\] table.
+The responsibility data model tracks the relationship between the organization members and their responsibility type in the Organization Member Responsibility \[sn\_csm\_svc\_org\_member\_responsibility\] table.
 
 **Note:** If the business organization plugin is active, this feature is enabled by default. However, for upgrade customer, the data in the \[sn\_csm\_svc\_org\_member\_responsibility\] table will be auto-populated for existing organization members to confirm that they retain as much access after the upgrade. Any new records created after the Australia release must be created using the following steps.
 
@@ -115,6 +115,4 @@ sn\_bus\_loc.svc\_location\_support\_agent
 
     A new responsibility is added to the organization member.
 
-## Related
 
-- [[gamification-components-tracks|Tracks]]

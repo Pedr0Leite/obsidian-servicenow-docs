@@ -14,13 +14,13 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Create Logical Connection with template subflow
 
-The Create Logical Connection with template subflow enables you to create a logical connection record from an inventory template in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. The logical connection record is created based on the input that you receive when you instantiate an inventory using an inventory template.
+The Create Logical Connection with template subflow enables you to create a logical connection record from an inventory template in the Telecommunications Network Inventory application. The logical connection record is created based on the input that you receive when you instantiate an inventory using an inventory template.
 
 You can use the Create Logical Connection with template subflow to create a logical connection from an inventory template on your network interface cards.
 
 This subflow also creates the connection elements and associates them to the logical connection.
 
-If you enter a network interface, equipment, physical connection, logical connection, or managed function as a connection element, the [[logical-connection-creation-subflow|Logical Connection Creation subflow]] creates the corresponding connection element.
+If you enter a network interface, equipment, physical connection, logical connection, or managed function as a connection element, the Logical Connection Creation subflow creates the corresponding connection element.
 
 ## Roles and availability
 
@@ -41,7 +41,7 @@ The following table lists the input fields in the Create Logical Connection with
 |Bandwidth Z|Bandwidth at the ending logical connection.|Reference.Bandwidth|
 |Connection Type|Type of connection. This field information updates the product model that is associated with the physical connection.|Reference.Logical Connection Model|
 |Logical Connection Template|Template associated with logical connection.|Reference.Inventory Template|
-|Connection elements|Connection elements that are added for the [[design-logical-connection-design-assign-playbook|logical connections]]. Select the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.|Array.String|
+|Connection elements|Connection elements that are added for the logical connections. Select the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.|Array.String|
 |Position|Unit position of this logical connection.|Integer|
 |A End Interface Name|Starting interface name.|String|
 |Z End Interface Name|Ending interface name.|String|
@@ -87,8 +87,3 @@ The following table lists the information about the subflow's output.
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[logical-connection-creation-subflow|Logical Connection Creation subflow]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

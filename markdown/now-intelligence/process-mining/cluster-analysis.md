@@ -29,10 +29,7 @@ Generate a cluster analysis on an activity, connection between activities, route
 -   **[Resubmit a cluster analysis request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/resubmit-cluster-analysis.md)**  
 In cases when a configuration issue or clustering solution change occurs, you can schedule a followup cluster analysis.
 -   **[View a cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-cluster-analysis.md)**  
-[[view-cluster-analysis|View a cluster analysis]] of the top three clusters for an activity, connection between activities, or route.
+View a cluster analysis of the top three clusters for an activity, connection between activities, or route.
 
 **Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
-## Related
-
-- [[view-cluster-analysis|View a cluster analysis]]

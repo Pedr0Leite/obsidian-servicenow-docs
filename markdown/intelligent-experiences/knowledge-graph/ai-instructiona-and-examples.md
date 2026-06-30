@@ -18,7 +18,7 @@ AI instructions add more business context to natural language queries. They guid
 
 ## AI instructions
 
-AI instructions help clarify how the [[knowledge-graph-landing|knowledge graph]] interprets user queries and accesses data. When a user submits a query, relevant instructions at all applicable levels like node, property, and edge are considered.
+AI instructions help clarify how the knowledge graph interprets user queries and accesses data. When a user submits a query, relevant instructions at all applicable levels like node, property, and edge are considered.
 
 AI Instructions are persistent, declarative guidance applied at three levels:
 
@@ -253,6 +253,3 @@ Hidden columns cannot be queried and do not appear in the result.
 
 For example: add Employee number as hidden columns for sys\_user table to hide the employee number from query results.
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]

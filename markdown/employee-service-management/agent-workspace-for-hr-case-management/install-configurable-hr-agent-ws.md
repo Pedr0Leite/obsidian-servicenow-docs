@@ -18,7 +18,7 @@ Install Agent Workspace for HR Case Management \(com.sn\_hr\_agent\_ws\) from th
 
 ## Before you begin
 
-Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) and download the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] app.
+Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) and download the Agent Workspace for HR Case Management app.
 
 Role required: admin
 
@@ -47,10 +47,5 @@ Role required: admin
 
 ## What to do next
 
-Go to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[hr-agent-ws-guided-setup|Agent Workspace for HR Case Management Guided Setup]]**. Complete the activities in each of the categories to customize the workspace for your organization.
+Go to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management Guided Setup**. Complete the activities in each of the categories to customize the workspace for your organization.
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[hr-agent-ws-guided-setup|Agent Workspace for HR Case Management Guided Setup]]

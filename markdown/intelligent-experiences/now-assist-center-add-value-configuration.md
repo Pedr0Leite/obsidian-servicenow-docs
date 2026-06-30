@@ -21,13 +21,13 @@ Role required: sn\_na\_center.nac\_admin
 
 ## About this task
 
-Value [[exploring-ai-governance|configurations]] define the data used to calculate business value metrics for each AI asset on the Business Value dashboard. Each configuration specifies the asset, average time saved per execution, and average hourly rate, which are used to calculate the total time saved and total cost saved displayed on the dashboard.
+Value configurations define the data used to calculate business value metrics for each AI asset on the Business Value dashboard. Each configuration specifies the asset, average time saved per execution, and average hourly rate, which are used to calculate the total time saved and total cost saved displayed on the dashboard.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Business Value** in the top [[now-assist-global-navigation|navigation]] bar.
+2.  Select **Business Value** in the top navigation bar.
 
 3.  Select **Add configuration**.
 
@@ -54,11 +54,5 @@ Value [[exploring-ai-governance|configurations]] define the data used to calcula
 
 A **Benchmark created successfully** confirmation banner appears. The value configuration is added to the **Business value configuration** table and the Business Value dashboard metrics are updated to reflect the new configuration.
 
-**Parent Topic:**[[now-assist-center-business-value-dashboard|Now Assist Center Business Value dashboard]]
+**Parent Topic:**[Now Assist Center Business Value dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-business-value-dashboard.md)
 
-## Related
-
-- [[now-assist-center-business-value-dashboard|Now Assist Center Business Value dashboard]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-global-navigation|Navigation]]

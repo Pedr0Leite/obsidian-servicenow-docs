@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help planning, Configuring Embedded Help, Embedded Help, I
 
 # Use qualifiers in Embedded Help
 
-The [[embedded-help|embedded help]] administrator can use qualifiers to customize content for a common page in the instance.
+The embedded help administrator can use qualifiers to customize content for a common page in the instance.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ Enter the qualifier to use, for example `sla_homepage`. Record the qualifier to 
 
 **Parent Topic:**[Embedded Help planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-planning.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]

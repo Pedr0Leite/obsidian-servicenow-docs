@@ -22,7 +22,7 @@ Role required: it\_project\_user
 
 ## Procedure
 
-1.  Open a project in [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project in Project Workspace.
 
     For more information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -57,6 +57,3 @@ Role required: it\_project\_user
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

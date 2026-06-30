@@ -16,11 +16,11 @@ breadcrumb: [Working with SRM reliability tasks, Using Service Reliability Manag
 
 Monitor, evaluate, and resolve health issues in the Express List.
 
-The [[c_EM|Event Management]] Express List feature provides a customizable, sortable view for accessing and managing alerts. Use the Express List feature to prioritize alerts, understand their impact, and resolve issues faster.
+The Event Management Express List feature provides a customizable, sortable view for accessing and managing alerts. Use the Express List feature to prioritize alerts, understand their impact, and resolve issues faster.
 
 \[Omitted image "sr-express-list.png"\] Alt text: Express List shows several sample alerts and options for filtering them by fields such as state, severity, and priority.
 
-As a [[sr-landing-page|Service Reliability Management]] \(SRM\) user, you automatically have the evt\_team\_operator role, which lets you access the Express List feature \(\[Omitted image "express-list1.png"\] Alt text: Express list icon\). To learn more about that role, see [Roles used by Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/roles-used-by-express-list.md).
+As a Service Reliability Management \(SRM\) user, you automatically have the evt\_team\_operator role, which lets you access the Express List feature \(\[Omitted image "express-list1.png"\] Alt text: Express list icon\). To learn more about that role, see [Roles used by Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/roles-used-by-express-list.md).
 
 Visit the following to work with alerts in the Express List feature:
 
@@ -39,7 +39,3 @@ Create an alert for testing purposes or if you think an issue poses a risk.
 
 **Parent Topic:**[Working with SRM reliability tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-reliability-tasks.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sr-landing-page|Service Reliability Management]]

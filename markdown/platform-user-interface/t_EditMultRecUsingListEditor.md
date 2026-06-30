@@ -33,7 +33,7 @@ Role required: none
 3.  Enter the appropriate values and select **Save**.
 
 
-**Parent Topic:**[[r_MethodsForListEdits|Methods for list edits]]
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_MethodsForListEdits.md)
 
 **Related topics**  
 
@@ -42,6 +42,3 @@ Role required: none
 
 [Edit multiple records in a list using an editing form]()
 
-## Related
-
-- [[r_MethodsForListEdits|Methods for list edits]]

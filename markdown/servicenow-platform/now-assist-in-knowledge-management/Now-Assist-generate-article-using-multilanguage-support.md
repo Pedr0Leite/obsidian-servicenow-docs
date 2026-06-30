@@ -15,7 +15,7 @@ breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Man
 
 # Generate a Knowledge article using multi-language support
 
-[[now-assist-knowledge-management|Now Assist in Knowledge Management]] provides multi-language support for Knowledge article generation. Generate knowledge articles in multiple languages with the Now Assist multi-language support for [[knowledge-management|Knowledge Management]]. As an agent, you can generate articles from incidents, cases and other task types that are documented in languages other than English by using a language selector configured by the admin.
+Now Assist in Knowledge Management provides multi-language support for Knowledge article generation. Generate knowledge articles in multiple languages with the Now Assist multi-language support for Knowledge Management. As an agent, you can generate articles from incidents, cases and other task types that are documented in languages other than English by using a language selector configured by the admin.
 
 ## Before you begin
 
@@ -53,7 +53,3 @@ Role required: author or agent
 
 **Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/using-now-assist-in-km.md)
 
-## Related
-
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[knowledge-management|Knowledge Management]]

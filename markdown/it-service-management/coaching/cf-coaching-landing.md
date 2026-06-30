@@ -42,7 +42,7 @@ Train your agents with internal and external learning content using Coaching wit
 
 </td><td>
 
-[Reference\[Omitted image "icon-[[reference-for-itsm-mobile-agent|reference]].png"\] Alt text:Get details [[cf-coaching-overview|about Coaching]] components such as roles, tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
+[Reference\[Omitted image "icon-reference.png"\] Alt text:Get details about Coaching components such as roles, tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -51,7 +51,3 @@ Train your agents with internal and external learning content using Coaching wit
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[cf-coaching-overview|About Coaching]]

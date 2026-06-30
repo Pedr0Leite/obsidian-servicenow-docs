@@ -14,7 +14,7 @@ breadcrumb: [Legal Invention Disclosure, Legal Service Delivery Practice Applica
 
 # Exploring Legal Invention Disclosure
 
-Learn more about [[legal-invention-disclosure-landing|Legal Invention Disclosure]] through a sample workflow and review the benefits it can provide.
+Learn more about Legal Invention Disclosure through a sample workflow and review the benefits it can provide.
 
 ## Legal Invention Disclosure overview
 
@@ -71,7 +71,7 @@ Inclusion of outside counsels to review patent application requests.
 
 The Legal Invention Disclosure configuration workflow is as follows:
 
-1.  Install the Legal Simple Intellectual Property application to automatically [[install-legal-invention-disclosure|install Legal Invention Disclosure]].
+1.  Install the Legal Simple Intellectual Property application to automatically install Legal Invention Disclosure.
 2.  Set up and add outside firms.
 3.  Set up and add outside counsels from the respective firms.
 4.  Enable outside counsel.
@@ -89,7 +89,7 @@ The Legal Invention Disclosure task workflow is as follows:
 8.  The fulfiller emails the details of the request to the outside counsel.
 9.  The outside counsel reviews the request.
 10. The outside counsel, after approval, files an application with the patent authority. If the request is not approved, the outside counsel informs the fulfiller and the fulfiller closes the request.
-11. The outside counsel responds to the email and provide the details of the patent filing to the fulfiller. The details will be available for the fulfiller in the [[activity-lxp|activity]] stream to take necessary actions.
+11. The outside counsel responds to the email and provide the details of the patent filing to the fulfiller. The details will be available for the fulfiller in the activity stream to take necessary actions.
 12. The fulfiller updates the legal matter with the patent filing information.
 13. A Patent Repository record is automatically generated with the relevant patent filing details.
 14. If a reward for the inventor has been set up for this stage, it is automatically generated and sent to the inventor.
@@ -99,8 +99,3 @@ The Legal Invention Disclosure task workflow is as follows:
 
 **Parent Topic:**[Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[install-legal-invention-disclosure|install legal invention disclosure]]
-- [[activity-lxp|Activity]]

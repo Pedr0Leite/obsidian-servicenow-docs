@@ -14,9 +14,9 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # CDM data model
 
-The CDM data model is a standardized data structure that supports the broader life cycle of software delivery — automation, quality validation, and CSDM. CDM imports existing config data, validates it using policies that you define, and exports valid config data to your organization's existing DevOps pipeline to implement [[dex-workspace-application-tab|applications]], services, and infrastructure.
+The CDM data model is a standardized data structure that supports the broader life cycle of software delivery — automation, quality validation, and CSDM. CDM imports existing config data, validates it using policies that you define, and exports valid config data to your organization's existing DevOps pipeline to implement applications, services, and infrastructure.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## CDM data model overview
 
@@ -41,7 +41,7 @@ An application in CDM is the full collection of config data for an application s
 
     You can group components into a library of shared components.
 
-    **Tip:** It is often useful to define a default value for a variable in a component or collection. This is a powerful strategy because you can create a broad variety of deployables from a small set of components and collections. Deployables that inherit a component or collection can use overrides, overlays, and variable [[settings-mobile|settings]] to meet the needs of the environment type. For example, the `Development` deployable can use the same components and collections as the `Test` deployable. `Development` uses the default *database* variable value. `Test`, in contrast, uses a different value that is appropriate for the test environment.
+    **Tip:** It is often useful to define a default value for a variable in a component or collection. This is a powerful strategy because you can create a broad variety of deployables from a small set of components and collections. Deployables that inherit a component or collection can use overrides, overlays, and variable settings to meet the needs of the environment type. For example, the `Development` deployable can use the same components and collections as the `Test` deployable. `Development` uses the default *database* variable value. `Test`, in contrast, uses a different value that is appropriate for the test environment.
 
 -   **Components Vars folder**
 
@@ -166,8 +166,3 @@ Contextual variables are out-of-the-box variables delivered by ServiceNow that e
 
 [Create and update a deployable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-deployable-define.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

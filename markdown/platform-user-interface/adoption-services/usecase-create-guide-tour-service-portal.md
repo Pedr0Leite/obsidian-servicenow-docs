@@ -14,7 +14,7 @@ breadcrumb: [Guided Tour Designer use case, Use Guided Tours, Guided Tours, Adop
 
 # Create guided tour to explore Service Portal home page
 
-Use [[guided-tours-designer|Guided Tour Designer]] to create a guided tour to [[exploring|explore]] the [[c_ServicePortal|Service Portal]] home page.
+Use Guided Tour Designer to create a guided tour to explore the Service Portal home page.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ This example demonstrates the use of introduction, callouts, callout steps, and 
 
     A guided tour is created.
 
-7.  In the [[guided-tours|Guided Tours]] form view, select **Edit with Designer** to open the Guided Tour Designer.
+7.  In the Guided Tours form view, select **Edit with Designer** to open the Guided Tour Designer.
 
 8.  Add the following steps to the guided tour:
 
@@ -222,9 +222,3 @@ Users can access a guided tour by navigating to a page that has one. For more in
 
 [Edit Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md)
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[exploring|Explore]]
-- [[c_ServicePortal|Service Portal]]
-- [[guided-tours|Guided Tours]]

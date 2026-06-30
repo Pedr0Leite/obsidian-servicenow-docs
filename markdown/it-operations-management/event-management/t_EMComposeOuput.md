@@ -30,7 +30,7 @@ Format alert text by using one or both of these methods:
 
 |Format method|Description|
 |-------------|-----------|
-|Transform|Create a field to display in an alert. The field and its value appear in the **Additional Information** section or in the **[[alert-tags|Alert Tags]]** section. In the **Event Input** pane, the new field is listed in the **Expressions** section.|
+|Transform|Create a field to display in an alert. The field and its value appear in the **Additional Information** section or in the **Alert Tags** section. In the **Event Input** pane, the new field is listed in the **Expressions** section.|
 |Compose|Determine which text to display in the selected field.|
 
 **Note:**
@@ -45,7 +45,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Click **New** or open an event rule.
 
@@ -161,8 +161,3 @@ You can filter event rules. See [Filter the events that an event rule applies to
 
 [Filter the events that an event rule applies to](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md)
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

@@ -16,9 +16,9 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 The topic migration workflow enables you to migrate your existing Natural Language Understanding \(NLU\)/keyword topics into new large language model \(LLM\) topics.
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
-Now Assist capabilities bring generative AI to [[virtual-agent-landing-page|Virtual Agent]] using LLM topics. With topic migration, there’s no need to manually recreate all your NLU and keyword topics to be LLM topics. You can select the topics that you want to migrate into LLM topics from your existing NLU and keyword topics. Migrating NLU and keyword topics doesn’t change the original NLU or keyword topics. A copy of the existing topic is created during topic migration, but the new topic's **Model Type** field is set to LLM and includes LLM-compatible nodes and descriptions.
+Now Assist capabilities bring generative AI to Virtual Agent using LLM topics. With topic migration, there’s no need to manually recreate all your NLU and keyword topics to be LLM topics. You can select the topics that you want to migrate into LLM topics from your existing NLU and keyword topics. Migrating NLU and keyword topics doesn’t change the original NLU or keyword topics. A copy of the existing topic is created during topic migration, but the new topic's **Model Type** field is set to LLM and includes LLM-compatible nodes and descriptions.
 
 All types of topics can be migrated from the NLU/Keyword model type to the LLM model type during topic migration, including the following asset types:
 
@@ -33,9 +33,9 @@ If no migration issues occur, the preceding asset types can all optionally be pu
 
 ## Roles and accessibility
 
-Users with the virtual\_agent\_admin role or sn\_vad\_genai.topic\_migration\_admin role can work with topic migration. Topic migration is accessible through Virtual Agent [[assistant-designer|Assistant Designer]] in the **Migrate Topics to LLM** option.
+Users with the virtual\_agent\_admin role or sn\_vad\_genai.topic\_migration\_admin role can work with topic migration. Topic migration is accessible through Virtual Agent Assistant Designer in the **Migrate Topics to LLM** option.
 
-\[Omitted image "llm-topic-migration-vad.png"\] Alt text: Migrate Topics to LLM is an option in the Assistant Designer Asset library resources [[sidebar-landing|sidebar]].
+\[Omitted image "llm-topic-migration-vad.png"\] Alt text: Migrate Topics to LLM is an option in the Assistant Designer Asset library resources sidebar.
 
 ## System properties
 
@@ -109,10 +109,3 @@ The Topic Migration Execution Items \[topic\_migration\_execution\_item.list\] t
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[sidebar-landing|Sidebar]]

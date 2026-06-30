@@ -20,7 +20,7 @@ To set up navigation in a visualization between the elements of two breakdowns a
 
 Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/breakdown-relations.md).
 
-**Important:** [[c_performanceAnalyticsAndReporting|Platform Analytics]] features, such as [[kpi-details|KPI Details]] and data visualizations, do not support breakdown relations.
+**Important:** Platform Analytics features, such as KPI Details and data visualizations, do not support breakdown relations.
 
 Role required: pa\_data\_collector, pa\_power\_user, admin
 
@@ -53,7 +53,7 @@ You want to be able to navigate quickly between two breakdowns at the same level
 
 After you submit the Breakdown Relation form, put a filter element and an indicator scorecard element on a Next Experience dashboard. The filter is the starting point. It acts as a source, and the breakdown configured for the indicator scorecard acts as a target. The breakdown relation record defines how these two elements are connected. The filter should use the breakdown source table from the primary breakdown as its filter source. It should filter all indicators with that breakdown. The indicator scorecard should use the related breakdown. For example, consider the following:
 
--   A breakdown relations record named Members, where the Breakdown is Assignment Group and the related breakdown is Assigned To. The table is Group Member \[sys\_user\_grmember\], which has fields on both [[breakdown-sources|breakdown sources]]. The Breakdown Field is Group and the Related Breakdown Field is User.
+-   A breakdown relations record named Members, where the Breakdown is Assignment Group and the related breakdown is Assigned To. The table is Group Member \[sys\_user\_grmember\], which has fields on both breakdown sources. The Breakdown Field is Group and the Related Breakdown Field is User.
 -   A filter on the Group \[sys\_user\_group\] table that filters indicators with the Assignment Group breakdown.
 -   An indicator scorecard that shows the Number of open incidents indicator. The breakdown is Assigned To, and the scorecard follows the Members breakdown relation.
 
@@ -70,14 +70,7 @@ View examples of breakdown relations that are shipped by default in every instan
 **Related topics**  
 
 
-[[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
+[Create an Indicator Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-indicator-scorecard.md)
 
-[[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
+[Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md)
 
-## Related
-
-- [[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[breakdown-sources|Breakdown sources]]

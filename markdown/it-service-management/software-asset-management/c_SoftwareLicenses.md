@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Software licenses in the legacy Software Asset Management plugin
 
-Software licenses are based on [[c_Models|models]] that are defined through the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+Software licenses are based on models that are defined through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 You can create the models to organize software licenses in any way that makes sense for your organization. Common methods of defining models and licenses include by department or by region.
 
@@ -70,7 +70,7 @@ If you have multiple software licenses that are linked to the same model, you ca
 
 [Determine where software is installed using the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
@@ -82,13 +82,7 @@ If you have multiple software licenses that are linked to the same model, you ca
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Contracts|Contracts]]

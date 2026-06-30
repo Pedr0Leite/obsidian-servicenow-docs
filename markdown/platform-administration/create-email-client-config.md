@@ -12,7 +12,7 @@ breadcrumb: [Email client configurations, Configure, Email client, Notifications
 
 # Create an email client configuration
 
-Define a configuration that controls the display and behavior of the [[c_EnableTheEmailClient|email client]] that is based on a selected ServiceNow table.
+Define a configuration that controls the display and behavior of the email client that is based on a selected ServiceNow table.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: email\_client\_admin
 
 ## About this task
 
-The configuration determines the recipient auto-complete [[hs-results|results]] that are displayed, email addresses that can be entered, and a set of allowable From addresses to be used when sending a message with the client.
+The configuration determines the recipient auto-complete results that are displayed, email addresses that can be entered, and a set of allowable From addresses to be used when sending a message with the client.
 
 You can create one email client configuration per ServiceNow table.
 
@@ -41,9 +41,9 @@ You can create one email client configuration per ServiceNow table.
 
     1.  Select the lock icon \(\[Omitted image "lock-icon.png"\] Alt text: Lock icon\).
 
-        By default, two types of recipients are available: Active Users with [[c_EmailAccounts|email accounts]] and Active Groups with email accounts.
+        By default, two types of recipients are available: Active Users with email accounts and Active Groups with email accounts.
 
-    2.  Select the search icon \(\[Omitted image "search-icon.png"\] Alt text: Search icon\) and select a recipient configuration from the list of available recipient [[clone-configurations-tab|configurations]].
+    2.  Select the search icon \(\[Omitted image "search-icon.png"\] Alt text: Search icon\) and select a recipient configuration from the list of available recipient configurations.
 
     3.  Select the lock icon \(\[Omitted image "unlock-icon.png"\] Alt text: Lock icon\) to lock it.
 
@@ -69,20 +69,12 @@ You can create one email client configuration per ServiceNow table.
 
     3.  Select the lock icon \(\[Omitted image "unlock-icon.png"\] Alt text: Lock icon\) to lock **Email Address Filters**.
 
-    Each filter that you select evaluates a given email address and determines whether or not the given address is valid to apply to an [[ia-outbound-email-il|outbound email]].
+    Each filter that you select evaluates a given email address and determines whether or not the given address is valid to apply to an outbound email.
 
 7.  Click **Submit**.
 
     The configuration is added to the Email Client Configuration \[sys\_email\_client\_configuration\] table.
 
 
-**Parent Topic:**[[email-client-configuration|Email client configurations]]
+**Parent Topic:**[Email client configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md)
 
-## Related
-
-- [[email-client-configuration|Email client configurations]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[hs-results|Results]]
-- [[c_EmailAccounts|Email accounts]]
-- [[clone-configurations-tab|Configurations]]
-- [[ia-outbound-email-il|Outbound email]]

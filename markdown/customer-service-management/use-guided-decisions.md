@@ -22,11 +22,11 @@ Role required: sn\_customerservice\_agent
 
 A decision tree presents a series of questions that you can answer and provide inputs where required. The decision tree evaluates your answers and provides the next set of questions or gives you guidance on what to do next. For example, the guidance can be to attach a knowledge article or propose a solution to a customer to help resolve an issue.
 
-Depending on the context of the case that you're working on, decision trees appear in playbooks in [[csm-workspaces-configure|CSM Configurable Workspace]] or as a recommended action in CSM Configurable Workspace. For details on using [[configure-nba|recommended actions]], see [[use-guided-decisions-ra|Use Guided Decisions in recommended actions to resolve cases]].
+Depending on the context of the case that you're working on, decision trees appear in playbooks in CSM Configurable Workspace or as a recommended action in CSM Configurable Workspace. For details on using recommended actions, see [Use Guided Decisions in recommended actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-guided-decisions-ra.md).
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a case that you want to work on.
 
@@ -40,9 +40,4 @@ Depending on the context of the case that you're working on, decision trees appe
 
     The Activity list is updated with the action taken.
 
-## Related
 
-- [[use-guided-decisions-ra|Use Guided Decisions in recommended actions to resolve cases]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

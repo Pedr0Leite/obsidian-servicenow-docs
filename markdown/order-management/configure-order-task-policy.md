@@ -12,7 +12,7 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 # Configure the customer order task policy using Decision Tables
 
-Define conditions for automatic generation of [[order-header-tasks|order header tasks]] and top order line item tasks by adding rows to the Customer Order Task Policy in Decision Tables.
+Define conditions for automatic generation of order header tasks and top order line item tasks by adding rows to the Customer Order Task Policy in Decision Tables.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For header tasks, specify the stage at which the task is generated:
 
 -   after order submission
 -   after order approval
--   after [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]
+-   after order fulfillment
 
 ## Procedure
 
@@ -38,7 +38,7 @@ For header tasks, specify the stage at which the task is generated:
 
 3.  Select **Add new decision row** to add a condition row.
 
-4.  In the conditions section, set the values for the [[fields|fields]] that determine when the task is generated.
+4.  In the conditions section, set the values for the fields that determine when the task is generated.
 
     |Field|Description|
     |-----|-----------|
@@ -62,20 +62,12 @@ The policy row is saved. When an order matches the configured conditions at the 
 
 To control whether open order header tasks block order state transitions, set **sn\_ind\_tmt\_orm.block\_order\_appro\_complet\_until\_tasks\_complete** system in **All** &gt; **System Properties**.
 
-**Parent Topic:**[[order-mgt-configuring|Configuring Order Management]]
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]
-- [[order-header-tasks|Order header tasks]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - State Model, Change Management plugins
 
 # Update change request states
 
-If you upgraded from a release prior to Geneva, you must update old state labels to new state labels after you activate the [[c_ITILChangeManagement|Change Management]] state model.
+If you upgraded from a release prior to Geneva, you must update old state labels to new state labels after you activate the Change Management state model.
 
 ## Before you begin
 
@@ -125,6 +125,3 @@ You must also update any reports that run queries based on old state labels to r
 
 [Installed with Change Management - State Model]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

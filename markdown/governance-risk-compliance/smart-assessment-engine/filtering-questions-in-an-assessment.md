@@ -35,7 +35,7 @@ The filter drop-down list includes the following options:
 
 -   **AI assisted**
 
-    Shows only questions that have AI-generated suggestions. A question is considered AI assisted after the [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] produces a suggestion for it. This applies whether the suggestion was applied, modified, or discarded. For more information about AI-generated responses, see [Smart Assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/ai-generated-responses-for-smart-assessment.md).
+    Shows only questions that have AI-generated suggestions. A question is considered AI assisted after the Smart Assessment Response Assist skill produces a suggestion for it. This applies whether the suggestion was applied, modified, or discarded. For more information about AI-generated responses, see [Smart Assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/ai-generated-responses-for-smart-assessment.md).
 
 -   **With comments**
 
@@ -59,6 +59,3 @@ Each filter in the drop- down list can be selected or deselected independently:
 -   To remove a single filter, reopen the drop- down list and deselect that filter. The remaining selected filters stay active.
 -   To remove all filters at once, use the **Clear** option in the drop- down list or change it back to **All questions**.
 
-## Related
-
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]

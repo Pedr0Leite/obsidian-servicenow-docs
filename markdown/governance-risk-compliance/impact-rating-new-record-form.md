@@ -86,12 +86,8 @@ Question text
 
 Field to revise the question text. For the recovery time objective of an impact category, you can revise the question that is displayed in the RTO assessment questionnaire. You can navigate to the Impact Rating record as shown in the example:\[Omitted image "updating-question-text-field.png"\] Alt text: Navigating to the Impact Rating record for an impact category.Update the question text for the RTO assessment as shown in the example:
 
-\[Omitted image "question-text.png"\] Alt text: Revising the question text.The revised question is then displayed in the RTO assessment of the [[bia-uib|business impact analysis]] record.
+\[Omitted image "question-text.png"\] Alt text: Revising the question text.The revised question is then displayed in the RTO assessment of the business impact analysis record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-impact-rating-uib-ws|Configure impact ratings]]
+</table>**Parent Topic:**[Configure impact ratings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-rating-uib-ws.md)
 
-## Related
-
-- [[configure-impact-rating-uib-ws|Configure impact ratings]]
-- [[bia-uib|Business impact analysis]]

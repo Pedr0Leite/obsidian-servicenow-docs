@@ -32,10 +32,7 @@ The following example shows the landing page of a dispute manager.\[Omitted imag
 -   **[Preconfigured email templates in a card dispute flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/pre-cofigured-email-template.md)**  
 Email templates are pre-formatted files that you can use to start creating email notifications.
 -   **[Implement 4-eyes policy for approval tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/implementing-4-eyes-principle.md)**  
-The 4-eyes policy, implemented in the case dispute flow, can enhance your [[dispute-management|dispute management]] process. This policy ensures that two authorized individuals handle the critical tasks and establish an efficient risk control mechanism.
+The 4-eyes policy, implemented in the case dispute flow, can enhance your dispute management process. This policy ensures that two authorized individuals handle the critical tasks and establish an efficient risk control mechanism.
 
 **Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 
-## Related
-
-- [[dispute-management|Dispute Management]]

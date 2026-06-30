@@ -24,9 +24,9 @@ To use the custom probe activities, you must [request activation](https://raw.gi
 
 ## Resolve DNS Name activity
 
-The [[resolve-dns-name-activity-1|Resolve DNS Name activity]] takes an [[ip-address|IP address]] or a fully qualified domain name \(FQDN\), which it resolves into one or more IP addresses.
+The Resolve DNS Name activity takes an IP address or a fully qualified domain name \(FQDN\), which it resolves into one or more IP addresses.
 
-The domain name is sent through the [[mid-server-landing|MID Server]] to the domain name system \(DNS\) to resolve the name. If a single IP address is returned, it is stored in two variables:*resolved\_ip* and *resolved\_ips*. If multiple IP addresses are returned, the first IP address is stored in the *resolved\_ip* variable, and all the addresses are stored in the *resolved\_ips* variable. If an IP address is provided instead of an FQDN, this address is output directly to both variables. Your ServiceNow instance must have access to a MID Server configured to use Resolve DNS to run this activity.
+The domain name is sent through the MID Server to the domain name system \(DNS\) to resolve the name. If a single IP address is returned, it is stored in two variables:*resolved\_ip* and *resolved\_ips*. If multiple IP addresses are returned, the first IP address is stored in the *resolved\_ip* variable, and all the addresses are stored in the *resolved\_ips* variable. If an IP address is provided instead of an FQDN, this address is output directly to both variables. Your ServiceNow instance must have access to a MID Server configured to use Resolve DNS to run this activity.
 
 This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAProbeActivity.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -110,8 +110,3 @@ This activity replaces an activity by the same name available in releases prior 
 |Success|Activity successfully ran the query on the target device.|
 |Failure|Activity failed to run the query on the target device. Failure could be caused by invalid credentials or a device that is not accessible.|
 
-## Related
-
-- [[resolve-dns-name-activity-1|Resolve DNS Name activity]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]

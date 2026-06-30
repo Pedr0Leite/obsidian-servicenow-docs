@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Alexa, Integrating Virtual Agent wi
 
 # Install Conversational Integration with Alexa
 
-You can install the [[conv-integ-alexa|Conversational Integration with Alexa]] application \(sn.va.alexa\) if you have the admin role. The application installs the related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Conversational Integration with Alexa application \(sn.va.alexa\) if you have the admin role. The application installs the related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ The following applications are installed with Conversational Integration with Al
 
 -   **Conversational Custom Chat Integration \(com.glide.cs.custom.adapter\)**
 
-    Provides the custom chat integration framework of scriptable APIs to enable the [[virtual-agent-landing-page|Virtual Agent]] application on any conversational interface.
+    Provides the custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
     For more information, see [Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md).
 
@@ -163,7 +163,3 @@ The following applications are installed with Conversational Integration with Al
 
 **Parent Topic:**[Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conv-integ-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]
-- [[virtual-agent-landing-page|Virtual Agent]]

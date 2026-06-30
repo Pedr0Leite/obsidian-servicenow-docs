@@ -14,7 +14,7 @@ breadcrumb: [Talent Feedback reference, Talent Feedback, Growth Experiences, HR 
 
 # Components installed with Talent Feedback
 
-Several types of components are installed with activation of the [[talent-feedback-landing|Talent Feedback]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Talent Feedback plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -73,7 +73,3 @@ Stores all the skill related information for the feedback request.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[talent-feedback-landing|Talent Feedback]]

@@ -12,7 +12,7 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 # Configure push applications for iOS branded apps using certificate based authentication
 
-Install an iOS push certificate to use [[sg-mobile-security-push-notif|push notifications]] on your branded ServiceNow mobile apps for iOS.
+Install an iOS push certificate to use push notifications on your branded ServiceNow mobile apps for iOS.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 To use push notifications on your branded ServiceNow mobile apps for iOS, you must upload your Apple certificates p12 file, and enter your key store password into your instance.
 
-**Note:** These steps are not necessary if you are not using a custom branded mobile apps. For more detail on custom branding, see [[request-test-pub-branded-mob-app|Request, test, and publish a branded mobile app]].
+**Note:** These steps are not necessary if you are not using a custom branded mobile apps. For more detail on custom branding, see [Request, test, and publish a branded mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-test-pub-branded-mob-app.md).
 
 ## Procedure
 
@@ -28,8 +28,8 @@ To use push notifications on your branded ServiceNow mobile apps for iOS, you mu
 
 2.  Open the record for the push application you want to modify.
 
-    -   Open **ServiceNow Mobile Application** for the [[mobile-experience|Mobile Agent app]].
-    -   Open **ServiceNow Request Application** for the [[now-mobile-app|Now Mobile app]].
+    -   Open **ServiceNow Mobile Application** for the Mobile Agent app.
+    -   Open **ServiceNow Request Application** for the Now Mobile app.
     If you are using a branded mobile application, select the record for the branded app. For example, select **ServiceNow Intune Mobile Application** if you are using the Microsoft Intune branded application.
 
 3.  In the **Push** field, change the value from **REST API** to **Direct**.
@@ -62,12 +62,5 @@ To use push notifications on your branded ServiceNow mobile apps for iOS, you mu
 11. On the push application form, click **Update**.
 
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[request-test-pub-branded-mob-app|Request, test, and publish a branded mobile app]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

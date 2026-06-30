@@ -30,7 +30,7 @@ You can add comments to plain text, hyperlinks, dynamic data, and text inside ta
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
@@ -57,6 +57,3 @@ The selected text is highlighted with a yellow underline, indicating that a comm
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

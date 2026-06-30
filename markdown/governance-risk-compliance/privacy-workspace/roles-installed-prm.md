@@ -14,7 +14,7 @@ breadcrumb: [Reference, Privacy Management, Governance, Risk, and Compliance]
 
 # Roles installed with Privacy Management
 
-The GRC: [[privacy-management|Privacy Management]] application installs the roles for the privacy analyst, the privacy manager, and the privacy administrator to perform their respective tasks.
+The GRC: Privacy Management application installs the roles for the privacy analyst, the privacy manager, and the privacy administrator to perform their respective tasks.
 
 <table id="table_m2t_czq_mqb"><thead><tr><th>
 
@@ -34,8 +34,8 @@ Privacy Analyst\[sn\_privacy.analyst\]
 
 </td><td>
 
-Privacy analysts are responsible for managing the privacy compliance posture of the [[ropa-record|processing activities]] owned by them.​ They perform the following tasks:-   Assess the processing activities regularly by sending and reviewing privacy impact assessments​.
--   Work with the management and business users to identify and [[c_GRCControls|manage controls]] related to a processing activity​.
+Privacy analysts are responsible for managing the privacy compliance posture of the processing activities owned by them.​ They perform the following tasks:-   Assess the processing activities regularly by sending and reviewing privacy impact assessments​.
+-   Work with the management and business users to identify and manage controls related to a processing activity​.
 -   Manage and resolve the concerns of business users about compliance-related issues and policy exceptions​.
 -   Test and monitor control effectiveness​.
 
@@ -60,7 +60,7 @@ Privacy managers are responsible for managing the overall organization level pri
 -   Review privacy regulatory requirements and policies​.
 -   Design and monitor controls to deal with violations of privacy regulations and internal policies.​
 -   Plan privacy programs and scope entities.
--   Creating privacy impact [[airc-assessment-templates|assessment templates]].​
+-   Creating privacy impact assessment templates.​
 -   Continuously monitor control effectiveness and recommend effective improvements.
 -   ​ Supervise the privacy compliance team.​
 -   Report to management and the Board of Directors on compliance posture​.
@@ -82,7 +82,7 @@ Privacy Admin\[sn\_privacy.admin\]
 
 </td><td>
 
-Privacy administrators administer the privacy [[r_PolicyComplianceMgmt|policy and compliance management]]. ​ Users assigned this role are responsible for [[configure-privacy-mgmt|configuring privacy management]] solutions as per the privacy team's requirements.​ They perform the following tasks:-   Configure privacy impact assessments and automated flows to trigger assessments​
+Privacy administrators administer the privacy policy and compliance management. ​ Users assigned this role are responsible for configuring privacy management solutions as per the privacy team's requirements.​ They perform the following tasks:-   Configure privacy impact assessments and automated flows to trigger assessments​
 -   Configure rules to auto-create processing activities ​out of privacy screening assessments.
 -   Monitor the ServiceNow AI Platform dependencies with other applications and modules.
 -   Can read the scripts under Processing activity script configurations related list.
@@ -146,7 +146,7 @@ Privacy employee user \[sn\_privacy\_emp.privacy\_employee\]
 
 </td><td>
 
-Enables your employees to perform the following operations from the [[employee-center|Employee Center]]: -   Proactively request privacy impact assessments \(PIAs\) for new implementations, applications, and processes from the Employee Center.
+Enables your employees to perform the following operations from the Employee Center: -   Proactively request privacy impact assessments \(PIAs\) for new implementations, applications, and processes from the Employee Center.
 -   Report privacy cases related to data privacy policy and regulatory violations.
 -   Read and acknowledge organizational privacy policies
 -   Create policy exceptions.
@@ -175,11 +175,11 @@ Users with the lite operator role can do the following:
 
  -   Respond to privacy assessment tasks as business users.
 -   Work on the processing activity as a business user when it’s assigned to you to collect the required details.
--   Respond to the processing activity's criticality [[risk-assessments|risk assessments]] and object-based assessment.
+-   Respond to the processing activity's criticality risk assessments and object-based assessment.
 -   Respond to the detailed privacy risk assessments on each risk identified on a processing activity.
 -   Work on breach assessments and other privacy case tasks.
 -   Respond to the assessment and investigation tasks assigned by the privacy team.
--   Work on [[personal-data-rights|personal data rights]] action tasks to handle data according to the requester's requests.
+-   Work on personal data rights action tasks to handle data according to the requester's requests.
 -   Respond to the assigned control attestations.
 -   View, update, and close assigned issues.
 -   Create, update, and close assigned remediation tasks.
@@ -192,14 +192,3 @@ Users with the lite operator role can do the following:
 </td></tr></tbody>
 </table>**Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[c_GRCControls|Manage controls]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[configure-privacy-mgmt|Configuring Privacy Management]]
-- [[employee-center|employee center]]
-- [[risk-assessments|risk assessments]]
-- [[personal-data-rights|personal data rights]]

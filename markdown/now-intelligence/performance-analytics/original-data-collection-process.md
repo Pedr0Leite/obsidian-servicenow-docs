@@ -121,7 +121,7 @@ DomainConfig: Testing Domain Config Collection logs - 3d359877b77000106886e664de
 
 </td></tr><tr><td>
 
-Lists [[c_IndicatorSources|indicator sources]] that the job collects data for, including their unique IDs.
+Lists indicator sources that the job collects data for, including their unique IDs.
 
 </td><td>
 
@@ -235,7 +235,7 @@ Collecting for 20191103 on Indicator Source Incidents.Open
 
 </td></tr><tr><td>
 
-Fetch the following fields:-   The unique fields of the [[breakdown-sources|breakdown sources]] \(typically sys\_id\)
+Fetch the following fields:-   The unique fields of the breakdown sources \(typically sys\_id\)
 -   The indicator fields used in breakdown mappings
 -   The table fields used in scripted breakdown mappings
 -   The indicator source fields used in text analytics, if the text index is collected \(typically includes short\_description\)
@@ -412,7 +412,3 @@ Applied map/reduce function
 </td></tr></tbody>
 </table>**Parent Topic:**[Data collection process and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/data-collection-process-logging.md)
 
-## Related
-
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]

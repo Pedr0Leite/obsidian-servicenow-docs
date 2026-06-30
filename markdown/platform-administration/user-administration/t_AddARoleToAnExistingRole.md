@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Roles** and open the existing role.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Roles** and open the existing role.
 
 2.  Click **Edit** in the Contains Roles related list.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Create a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

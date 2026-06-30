@@ -43,7 +43,7 @@ The following table lists the fields for the invoice inbound \[sn\_ap\_ic\_invoi
 |Bill to state/province|string|State or province from the bill-to address on the invoice.|
 |Bill to country|string|Country from the bill-to address on the invoice.|
 |Bill to zip/postal code|string|ZIP or postal code from the bill-to address on the invoice.|
-|Remit to street|string|Street address for [[supplier|supplier]] payment remittance.|
+|Remit to street|string|Street address for supplier payment remittance.|
 |Remit to city|string|City for supplier payment remittance.|
 |Remit to state/province|string|State or province for supplier payment remittance.|
 |Remit to country|string|Country for supplier payment remittance.|
@@ -83,6 +83,3 @@ The following table lists the fields for the invoice inbound \[sn\_ap\_ic\_invoi
 
 [Invoice line stage table]()
 
-## Related
-
-- [[supplier|Supplier]]

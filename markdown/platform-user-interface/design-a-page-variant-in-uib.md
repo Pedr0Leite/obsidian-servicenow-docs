@@ -12,13 +12,13 @@ breadcrumb: [Configure a custom form modal, Configure action buttons, Declarativ
 
 # Design a page variant in UIB
 
-[[configure-onboarding-modals|Configure]] a UI Builder page variant to pass from a workspace modal into the variant. This step acts as part of the process to configure an action button to open a custom modal.
+Configure a UI Builder page variant to pass from a workspace modal into the variant. This step acts as part of the process to configure an action button to open a custom modal.
 
 ## Before you begin
 
 Complete the following actions:
 
--   [[create-a-new-form-action|Create a form action]]
+-   [Create a form action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)
 -   Open your record page in UIB or create a page variant in UIB
 
 Role required: admin
@@ -50,7 +50,3 @@ Role required: admin
 
 The table and sysID variables are configured to be passed from the modal through the URL into the variant.
 
-## Related
-
-- [[create-a-new-form-action|Create a form action button]]
-- [[configure-onboarding-modals|Configure]]

@@ -32,7 +32,7 @@ Use a risk appetite scales to define the qualitative risk appetite on the risk s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Risk Appetite Scales**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Appetite Scales**.
 
 2.  Select **New**.
 
@@ -60,7 +60,7 @@ Active
 
 </td><td>
 
-Option to enable the appetite scale. You can't delete a risk appetite scale. Instead, you make it as inactive. This option is automatically selected.**Note:** When you make a risk appetite scale active or inactive, it affects multiple records, such as related [[risk-assessments|risk assessments]], entities, risk statements, and risks.
+Option to enable the appetite scale. You can't delete a risk appetite scale. Instead, you make it as inactive. This option is automatically selected.**Note:** When you make a risk appetite scale active or inactive, it affects multiple records, such as related risk assessments, entities, risk statements, and risks.
 
 </td></tr><tr><td>
 
@@ -92,8 +92,3 @@ Order of the risk appetite scale. This field enables you to set a sequence in wh
 
 **Parent Topic:**[Risk appetite setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-appetite-setup.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]

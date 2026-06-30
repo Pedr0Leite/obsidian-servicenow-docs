@@ -15,7 +15,7 @@ breadcrumb: [WordPress external content connector, Configure, External Content C
 
 # Configure WordPress for external content indexing
 
-Create an admin user and an application password in your WordPress website to allow the [[wordpress-external-content-connector|WordPress external content connector]] to access your WordPress content.
+Create an admin user and an application password in your WordPress website to allow the WordPress external content connector to access your WordPress content.
 
 ## Before you begin
 
@@ -92,6 +92,3 @@ For details on creating and configuring a WordPress external content connector, 
 
 **Parent Topic:**[WordPress external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/wordpress-external-content-connector.md)
 
-## Related
-
-- [[wordpress-external-content-connector|WordPress external content connector]]

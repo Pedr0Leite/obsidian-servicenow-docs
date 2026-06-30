@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Google Cloud Platform Windows Out Of Box Catalog items
 
-[[csc-home|Cloud Services Catalog]] Windows VM, up to 10 additional disks on Google Cloud Platform or with cloud firewall.
+Cloud Services Catalog Windows VM, up to 10 additional disks on Google Cloud Platform or with cloud firewall.
 
 This is a fully functional sample catalog item that can be used to request a Windows instance of any type from Google Cloud Platform.
 
@@ -30,7 +30,7 @@ Features
 
 </th></tr></thead><tbody><tr><td>
 
-CSC GCP Windows VM: Order a Windows Virtual machine that allows installation of [[acc-landing-page|Agent Client Collector]]. VM sizes other than e2-micro and e2-small require approval.
+CSC GCP Windows VM: Order a Windows Virtual machine that allows installation of Agent Client Collector. VM sizes other than e2-micro and e2-small require approval.
 
 </td><td>
 
@@ -72,7 +72,3 @@ Google Cloud Platform Windows Out Of Box permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[acc-landing-page|Agent Client Collector]]

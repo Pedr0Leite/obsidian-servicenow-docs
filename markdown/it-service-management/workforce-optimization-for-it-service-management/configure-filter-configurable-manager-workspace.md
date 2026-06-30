@@ -14,7 +14,7 @@ breadcrumb: [Advanced configurations, Workforce Optimization for ITSM, IT Servic
 
 # Configure filters for ITSM Manager Workspace
 
-Define filter configurations for Schedule, [[cf-coaching-landing|Coaching]], and Channels [[dex-workspace-application-tab|applications]]. You can use these filters to refine your search and view targeted results.
+Define filter configurations for Schedule, Coaching, and Channels applications. You can use these filters to refine your search and view targeted results.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wfo\_cfg\_ws.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace Configurations** &gt; **Filter Configurations**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace Configurations** &gt; **Filter Configurations**.
 
 2.  Select **New**.
 
@@ -81,7 +81,7 @@ Type
 </td><td>
 
 Type of field to choose from:-   Choice: choice type field.
--   [[reference-for-itsm-mobile-agent|Reference]]: reference type field.
+-   Reference: reference type field.
 
 
 </td></tr><tr><td>
@@ -126,9 +126,3 @@ To verify the filter is active, navigate to **All** &gt; **Workforce Optimizatio
 
 **Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/advanced-configuration-workforce-optimization-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[dex-workspace-application-tab|Applications]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[reference-for-itsm-mobile-agent|Reference]]

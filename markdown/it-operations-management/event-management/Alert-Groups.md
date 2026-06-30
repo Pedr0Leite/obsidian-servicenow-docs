@@ -14,11 +14,11 @@ breadcrumb: [Alert grouping, Configuring Event Management, Event Management, ITO
 
 # Alert grouping types and creation methods
 
-Explore different [[c_ServiceAnalyticsOverview|alert grouping]] types, understand their descriptions, and learn about their creation methods to enhance problem identification and streamline alert management.
+Explore different alert grouping types, understand their descriptions, and learn about their creation methods to enhance problem identification and streamline alert management.
 
 ## Viewing and managing alert groups
 
-Navigate to **[[c_EM|Event Management]]** &gt; **All Alerts** to view all alert groups. The icon in the **Group** column denotes the alert group type, while alerts not associated with any group have no entry in the **Group** column. Double-click the **Group** column to open the Grouped Alerts dialog, where you can view all alerts in the group and manually add or remove alerts.
+Navigate to **Event Management** &gt; **All Alerts** to view all alert groups. The icon in the **Group** column denotes the alert group type, while alerts not associated with any group have no entry in the **Group** column. Double-click the **Group** column to open the Grouped Alerts dialog, where you can view all alerts in the group and manually add or remove alerts.
 
 **Note:** An alert can belong to only one alert group at a time.
 
@@ -135,7 +135,7 @@ N
 
 </td><td>
 
-Network traffic alert groups are formed by analyzing network traffic connections between processes across hosts. This method leverages service candidates identified through ML [[c_ServiceMappingOverview|Service Mapping]] to group alerts related to network traffic issues.
+Network traffic alert groups are formed by analyzing network traffic connections between processes across hosts. This method leverages service candidates identified through ML Service Mapping to group alerts related to network traffic issues.
 
 </td><td>
 
@@ -230,8 +230,3 @@ Created manually by the user.
 </td></tr></tbody>
 </table>For information on scheduled jobs and parameters, refer to [Scheduled jobs and parameters for alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-grp-jobs-parameters.md). For detailed information on configuring alert correlation logic order, see [Configure alert correlation logic order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-alert-correlation-logic-order.md).
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]
-- [[c_ServiceMappingOverview|Service Mapping]]

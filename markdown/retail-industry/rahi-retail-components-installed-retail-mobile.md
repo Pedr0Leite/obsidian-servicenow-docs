@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail Mobile
 
-Certain dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] Mobile plugin.
+Certain dependencies must be considered when using the Retail Mobile plugin.
 
 ## Plugins installed with Retail Mobile
 
@@ -46,9 +46,5 @@ The Retail Mobile plugin offers a tailored mobile experience for retail operatio
 -   com.sn\_retail\_core
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]

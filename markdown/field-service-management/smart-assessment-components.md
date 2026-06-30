@@ -163,8 +163,5 @@ Smart Assessment adds the scheduled job listed in the following table.
 |-------------|-----------|
 |Migrate survey instances to smart assessments|Migrates questionnaire instances to Smart Assessment and re-triggers the migrated instances.|
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]

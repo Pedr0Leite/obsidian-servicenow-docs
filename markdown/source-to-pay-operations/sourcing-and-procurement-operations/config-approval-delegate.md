@@ -24,11 +24,11 @@ Role required: sn\_shop.procurement\_administrator
 
 \[Omitted video\] Description: Shows how to configure an approval rule for a delegate.
 
-In [[shopping-hub-overview|Shopping Hub]], when a delegate checks out on behalf of the delegator, the default workflow assumes the delegate has full permissions to submit purchase requests \(PRs\). However, you can configure an approval rule to ensure that the first approval request is sent to the business owner \(delegator\). This configuration enables the delegator to review the approval request and decide whether to approve or reject it.
+In Shopping Hub, when a delegate checks out on behalf of the delegator, the default workflow assumes the delegate has full permissions to submit purchase requests \(PRs\). However, you can configure an approval rule to ensure that the first approval request is sent to the business owner \(delegator\). This configuration enables the delegator to review the approval request and decide whether to approve or reject it.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Administration** &gt; **Approval Rules**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Administration** &gt; **Approval Rules**.
 
 2.  In the form, fill in the fields.
 
@@ -70,7 +70,7 @@ Approving object
 
 </td><td>
 
-Object you’re seeking approval for. Select **[[purchase-requisition|Purchase Requisition]]**.
+Object you’re seeking approval for. Select **Purchase Requisition**.
 
 </td></tr><tr><td>
 
@@ -119,16 +119,10 @@ Approval trigger conditions
 Conditions based on the approving object that determine the conditions under which an approval plan is created.See the following image to understand the approval trigger conditions you need to configure.
 
 </td></tr></tbody>
-</table>    \[Omitted image "config-approval-delegate.png"\] Alt text: [[new-approval-rule-form|Approval Rule form]] for creating a approval rule for a delegate.
+</table>    \[Omitted image "config-approval-delegate.png"\] Alt text: Approval Rule form for creating a approval rule for a delegate.
 
 3.  Select **Submit**.
 
 
 **Parent Topic:**[Configure delegate for a shopper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-delegate-for-a-shopper.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[purchase-requisition|Purchase requisition]]
-- [[new-approval-rule-form|Approval Rule form]]

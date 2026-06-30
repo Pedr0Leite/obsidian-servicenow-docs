@@ -26,17 +26,14 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\].
 
 ## About this task
 
-[[cloud-insights-landing-page|Cloud Cost Management]] downloads price sheet data from each provider one region at a time. If you cancel a running price sheet download job, the current region finishes downloading and the system cancels download for the remaining regions. If you delete a scheduled job execution, then all regions are marked as canceled.
+Cloud Cost Management downloads price sheet data from each provider one region at a time. If you cancel a running price sheet download job, the current region finishes downloading and the system cancels download for the remaining regions. If you delete a scheduled job execution, then all regions are marked as canceled.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
 
 2.  Select either a currently running or scheduled job that you want to cancel.
 
 3.  On the Price Sheet Download job page, select **Cancel execution**.
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

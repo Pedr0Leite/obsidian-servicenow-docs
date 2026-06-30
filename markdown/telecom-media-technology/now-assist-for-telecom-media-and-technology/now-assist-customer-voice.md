@@ -38,7 +38,7 @@ Agentic workflows and their AI agents use [role masking](https://raw.githubuserc
 The Customer voice quality issue resolution agentic workflow has the following dependencies:
 
 -   Customer Service \(sn\_customerservice\)
--   [[cspm-landing-page|Customer Service Problem Management]] z\(sn\_sprb\_mgmt\)
+-   Customer Service Problem Management z\(sn\_sprb\_mgmt\)
 
 ## Configure the Customer voice quality issue resolution agentic workflow
 
@@ -93,7 +93,3 @@ Ticket creation AI agent
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]

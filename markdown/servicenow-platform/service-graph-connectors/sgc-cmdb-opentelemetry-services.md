@@ -16,7 +16,7 @@ breadcrumb: [OpenTelemetry, Service Graph Connectors, Integrating third-party da
 
 Create inferred services relationships in your ServiceNow instance with other Cloud Observability application services as originally configured in the application by linking an inferred service configuration item \(CI\) in CMDB with an inferred service from the Cloud Observability application.
 
-**Important:** Starting with the Australia release, [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Australia release, Service Graph Connector for OpenTelemetry is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 ## Inferred services
 
@@ -41,7 +41,7 @@ The following attributes in the Inferred service \[sn\_sg\_lightstep\_inferred\_
 |Last scan|last\_scan|
 |Cloud Observability CI|cloud\_observability\_ci|
 
-Due to insufficient information for defining [[c_IdentificationRules|identification rules]], the pulled in inferred services don’t automatically bind to a CI in CMDB. However, as a user with the cmdb\_inst\_admin role, you can manually link a CI to an inferred service. The linking creates appropriate relationships with the related services and generates the inferred service mapping in the respective application service maps of your ServiceNow instance.
+Due to insufficient information for defining identification rules, the pulled in inferred services don’t automatically bind to a CI in CMDB. However, as a user with the cmdb\_inst\_admin role, you can manually link a CI to an inferred service. The linking creates appropriate relationships with the related services and generates the inferred service mapping in the respective application service maps of your ServiceNow instance.
 
 ## Link an inferred service
 
@@ -55,7 +55,7 @@ Role required: cmdb\_inst\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **OpenTelemetry** &gt; **Inferred services**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **OpenTelemetry** &gt; **Inferred services**.
 
 2.  Review the inferred services available from the Cloud Observability app in the **Inferred service** column.
 
@@ -77,8 +77,3 @@ The **Update CI relationship** business rule is triggered that creates appropria
 -   If you remove any mapping later, the **Delete CI relationship** business rule is triggered to delete any relationships between the inferred service CIs and the Cloud Observability inferred services.
 -   For any inferred services that were not last scanned in the Cloud Observability app, the Service Graph Connector automatically deactivates the corresponding records in CMDB and deletes the relationship for the inactive records.
 
-## Related
-
-- [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]]
-- [[c_IdentificationRules|Identification rules]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

@@ -14,7 +14,7 @@ breadcrumb: [Respond to assessments, Manage, Smart Assessment Engine, Governance
 
 # Collaboration in assessments
 
-Collaboration in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enables you to add multiple contributors to an assessment and support live collaboration with real-time updates. It also displays presence indicators to show who is active on the assessment.
+Collaboration in Smart Assessment Engine enables you to add multiple contributors to an assessment and support live collaboration with real-time updates. It also displays presence indicators to show who is active on the assessment.
 
 ## Exploring Collaboration
 
@@ -22,7 +22,7 @@ The Collaboration feature in the Smart Assessment Engine aims to enhance the eff
 
 To support larger and more complex assessments, collaboration is extended through Granular Delegation, introducing section-level responsibility and access control. Granular delegation enables owners to assign contributors to entire assessments or specific sections, confirming subject matter experts focus only on relevant areas, improving efficiency, and assessment quality overall. Access follows a hierarchical model, when a user is granted access to a section, they automatically inherit access to all subsections within that section. As a result, teams can work together smoothly while maintaining clear ownership, strong data integrity, and visibility into individual responsibilities.
 
-The Owner has the authority to assign or reassign the assessment and to add or remove contributors. Only the Owner can [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]]. Contributors can view the assessments assigned to them and see all participants listed in the side panel, but they cannot reassign or submit the assessment. Contributors can respond to questions and add comments and attachments to the assessment.
+The Owner has the authority to assign or reassign the assessment and to add or remove contributors. Only the Owner can submit the assessment. Contributors can view the assessments assigned to them and see all participants listed in the side panel, but they cannot reassign or submit the assessment. Contributors can respond to questions and add comments and attachments to the assessment.
 
 ## Question-level communication
 
@@ -91,7 +91,3 @@ Collaboration in Smart Assessment Engine enables multiple stakeholders to contri
 
 Collaboration transforms assessments from isolated, siloed activities into dynamic, team-driven processes. By enabling structured collaboration, organizations can not only increase the quality and speed of assessments but also foster greater alignment, transparency, and decision-making confidence across teams.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

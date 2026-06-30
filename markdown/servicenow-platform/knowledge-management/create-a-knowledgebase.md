@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Create a knowledge base
 
-Create a knowledge base to provide a [[self-service-landing|self-service]] platform for users to store, share, and manage content. Configure knowledge bases into product or service categories and manage user access based on permissions. Customize workflows for publishing and retiring articles in the knowledge base.
+Create a knowledge base to provide a self-service platform for users to store, share, and manage content. Configure knowledge bases into product or service categories and manage user access based on permissions. Customize workflows for publishing and retiring articles in the knowledge base.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Icon
 
 </td><td>
 
-A small \(for example, 54px x 54px\) image that provides a visual [[reference|reference]] to describe the knowledge base. This image is displayed next to all articles from this knowledge base in the article search results page.
+A small \(for example, 54px x 54px\) image that provides a visual reference to describe the knowledge base. This image is displayed next to all articles from this knowledge base in the article search results page.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Enable blocks
 
 </td><td>
 
-Option to enable the [[knowledge-blocks|knowledge blocks]] feature. If selected, you can create knowledge blocks to add to knowledge articles within a knowledge base.
+Option to enable the knowledge blocks feature. If selected, you can create knowledge blocks to add to knowledge articles within a knowledge base.
 
 </td></tr><tr><td>
 
@@ -196,11 +196,11 @@ List of products related to the knowledge base content.
 
 </td></tr><tr><td>
 
-[[auto-create-translation-tasks|Auto-create translation tasks]]
+Auto-create translation tasks
 
 </td><td>
 
-Option to enable creating translation tasks automatically after an article is published. If this option is selected, when a knowledge article is published in this knowledge base, translation tasks are automatically created for the configured languages.This field appears only when the [[translation-management|translation management]] feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translation-management.md) and [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
+Option to enable creating translation tasks automatically after an article is published. If this option is selected, when a knowledge article is published in this knowledge base, translation tasks are automatically created for the configured languages.This field appears only when the translation management feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translation-management.md) and [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
 
 </td></tr><tr><td>
 
@@ -257,7 +257,7 @@ Article Templates
 
 </td><td>
 
-If you have activated the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) plugin, the **Article Templates** related list is displayed. If there are article templates in the related list, articles in that knowledge base can only be created using one of the article templates listed.
+If you have activated the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin, the **Article Templates** related list is displayed. If there are article templates in the related list, articles in that knowledge base can only be created using one of the article templates listed.
 
  If the **Article Templates** related list is empty, articles can be created using any article template.
 
@@ -302,11 +302,3 @@ List of knowledge categories associated with this knowledge base.**Note:** If th
 
 [I18N - Knowledge internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[reference|Reference]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[auto-create-translation-tasks|Auto-create translation tasks]]
-- [[translation-management|Translation management]]
-- [[knowledge-management|Knowledge Management]]

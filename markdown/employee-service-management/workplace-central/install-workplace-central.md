@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Central, Workplace Service Delivery, Employee 
 
 # Install Workplace Central
 
-Install the [[workplace-central-feat|Workplace Central]] application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Central application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Complete the following setup instructions:
     The list displays the subscriptions that your organization has purchased.
 
 2.  Verify that the following plugins are activated:
-    -   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+    -   Workplace Space Management
     -   Workplace Stack Plan
-    -   [[workplace-move-mgmt-overview|Workplace Move Management]]
-    -   Workplace [[Indoor-mapping|Indoor Mapping]] for Floor map view.
-    -   [[workplace-lease-admin-feat|Workplace Lease Administration]]
+    -   Workplace Move Management
+    -   Workplace Indoor Mapping for Floor map view.
+    -   Workplace Lease Administration
     -   Document Management for Workplace Lease Administration
 
 Use the following details when required:
@@ -69,10 +69,3 @@ Role required: admin
 
 [Configure approvers of a scenario]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure the Localization Framework, Localization Framework, Trans
 
 # Localization Framework Hub and Spoke architecture
 
-Enable one central instance to fulfill translation requests submitted from other instances using the Localization Framework Hub and Spoke architecture. Install optional [[localization-framework-landing|Localization Framework]] plugins to configure one of your instances as a hub and other instances as spokes.
+Enable one central instance to fulfill translation requests submitted from other instances using the Localization Framework Hub and Spoke architecture. Install optional Localization Framework plugins to configure one of your instances as a hub and other instances as spokes.
 
 By default, translations are requested and fulfilled on the same instance. Alternatively, there is an available hub-spoke model for translation requests and fulfillment. With this architecture translation requests are a two-step process:
 
@@ -25,7 +25,7 @@ Consider the Localization Framework Hub and Spoke architecture when you want to 
 
 To set up this architecture, use the admin role to install the following plugins:
 
--   Localization Framework Hub \[com.sn.[[ia-localization-il|localization]]\_framework.hub\]. Install this plugin on the instance you designate as a hub.
+-   Localization Framework Hub \[com.sn.localization\_framework.hub\]. Install this plugin on the instance you designate as a hub.
 -   Localization Framework Spoke \[com.sn.localization\_framework.spoke\]. Install this plugin on the instances you designate as spokes.
 
 For more information on installation, see [Activate Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/activate-lf-plugin.md).
@@ -38,7 +38,7 @@ When both plugins are installed, use the admin or localization\_admin role to co
 4.  In the tab **Workflow Preferences**, configure according to your requirements. Depending on the workflow you choose, different subfields are populated.
 5.  The tab **Project Preferences** is optional. If no project is entered, any request for translations into more than one target language is broken into separate tasks, one for each language.
 
-**Note:** If [[dynamic-translation|Dynamic Translation]] is not installed, the option for machine translation is not available.
+**Note:** If Dynamic Translation is not installed, the option for machine translation is not available.
 
 On a spoke instance:
 
@@ -54,8 +54,3 @@ From the perspective of the spoke instance, the hub acts as a TMS. The applicati
 
 **Parent Topic:**[Configure the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/configuring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]

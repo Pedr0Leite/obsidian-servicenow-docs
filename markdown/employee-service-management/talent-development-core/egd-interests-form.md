@@ -19,7 +19,7 @@ Administrators create interests that employees and managers use to create career
 |Fields|Description|
 |------|-----------|
 |**Active**|When selected, the aspiration interest is available to be used in a conversation.|
-|**Description**|More detailed information about the aspiration interest. Detailed information can help managers and employees decide if they want to use this [[activity-lxp|activity]].|
+|**Description**|More detailed information about the aspiration interest. Detailed information can help managers and employees decide if they want to use this activity.|
 |**Name**|A name of the aspiration interest that's visible in the user interface \(UI\).|
 |**Order**|A numeric value used to determine the display order of aspiration interest.|
 |**Related skills**|Select from the list of skills that are related to your aspiration.|
@@ -29,6 +29,3 @@ Administrators create interests that employees and managers use to create career
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

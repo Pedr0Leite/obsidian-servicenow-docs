@@ -14,7 +14,7 @@ breadcrumb: [Data Classification, Platform Privacy]
 
 # Creating data classifications
 
-Create your own user-defined data classifications in the [[data-classification|Data Classification]] \[data\_classification\] table that you can then assign to specific columns in specific tables.
+Create your own user-defined data classifications in the Data Classification \[data\_classification\] table that you can then assign to specific columns in specific tables.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ Role required: data\_classification\_admin, admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[data-classification|Data Classification]]

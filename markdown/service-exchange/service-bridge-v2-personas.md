@@ -14,7 +14,7 @@ breadcrumb: [Configure for providers, Service Exchange for Providers, Service Ex
 
 # User roles for providers
 
-Learn about the roles, skills, and tasks for the different users in the [[service-bridge-providers-landing-page|Service Exchange for Providers]] application.
+Learn about the roles, skills, and tasks for the different users in the Service Exchange for Providers application.
 
 A user role is a pre-configured role in the application that is made up of multiple granular roles. The user roles are designed to correspond to the common job titles for managers, analysts, and service owners in an IT organization. If you want your users and groups to have more access than a role permits, you can add more granular roles to your users and groups. If you want to limit the access for specific users and groups at the task level, you can remove the granular roles. You can also build custom roles and access controls \(ACLs\) to suit your needs.
 
@@ -67,9 +67,9 @@ Is a certified ServiceNow system administrator
 
 </td><td>
 
--   Completes the [[tmt-service-bridge-both-landing-page|Service Exchange]] registration requests.
+-   Completes the Service Exchange registration requests.
 -   Assists the consumer's system administrator as needed.
--   Publishes [[service-bridge-v2-create-apps|remote catalogs]] to the consumer's instance.
+-   Publishes remote catalogs to the consumer's instance.
 -   Publishes remote task definitions to the consumer's instance.
 -   Troubleshoots Service Exchange transport payloads.
 
@@ -120,8 +120,3 @@ sn\_sb.requestor
 </td></tr></tbody>
 </table>**Note:** Beginning with Service Exchange version 2.3. 18, some of the granular roles have changed. For more information, see the [Now Support KB article \(KB3065259\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3065259).
 
-## Related
-
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-create-apps|Remote catalogs]]

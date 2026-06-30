@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights for Service Portal, Analytics and Reporting Solution
 
 # Usage Insights related properties for Service Portal
 
-Use system properties to [[configure-onboarding-modals|configure]] [[sp-analytics|Usage Insights for Service Portal]].
+Use system properties to configure Usage Insights for Service Portal.
 
 -   **__glide.analytics.tracking.force\_allowed.portals__**
 
@@ -38,7 +38,3 @@ Use system properties to [[configure-onboarding-modals|configure]] [[sp-analytic
 
 [Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[sp-analytics|Usage Insights for Service Portal]]

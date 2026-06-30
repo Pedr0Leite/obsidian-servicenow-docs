@@ -20,7 +20,7 @@ Create a dispute case and initiate the dispute for a transaction associated with
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ You can dispute one or more transactions that are associated with an account by 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -144,7 +144,7 @@ The **Fill additional transaction questions** activity is displayed if you add a
 
 </td><td>
 
-This activity is displayed if the case was created using [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] with the Dispute intake via Virtual Agent skill.When a customer initiates a conversation with the Virtual Agent chatbot and selects Report a dispute, a dispute case is created.
+This activity is displayed if the case was created using Now Assist for Financial Services Operations \(FSO\) with the Dispute intake via Virtual Agent skill.When a customer initiates a conversation with the Virtual Agent chatbot and selects Report a dispute, a dispute case is created.
 
 If the conversation ends before the case is submitted, an agent can resume the intake and review or select the dispute's account and transaction details in this activity.
 
@@ -198,7 +198,7 @@ Upload any supporting documentation at this step, such as order details, invoice
 
 </td><td>
 
-Confirm the dispute amount and add any other comments regarding the disputed transaction.For those using a [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] pack, there might be an option to indicate whether this is a new financial account, which impacts the applicability of the Service Level Agreement \(SLA\).
+Confirm the dispute amount and add any other comments regarding the disputed transaction.For those using a Dispute Content Pack for US Regulations pack, there might be an option to indicate whether this is a new financial account, which impacts the applicability of the Service Level Agreement \(SLA\).
 
 Select the checkbox to acknowledge that you have read and understood the disclaimer.
 
@@ -227,9 +227,3 @@ The case is set to high priority in the following situations:
 
 [Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/wsud-troubleshooting-reference.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]

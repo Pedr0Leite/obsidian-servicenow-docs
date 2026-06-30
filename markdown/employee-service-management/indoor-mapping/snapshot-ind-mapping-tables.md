@@ -14,7 +14,7 @@ breadcrumb: [Reference, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Snapshot Impacted tables
 
-Few [[Indoor-mapping|Indoor Mapping]] and Workplace Indoor Mapping tables are impacted during the snapshot process when the Indoor Mapping backup data is migrated to [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] instances.
+Few Indoor Mapping and Workplace Indoor Mapping tables are impacted during the snapshot process when the Indoor Mapping backup data is migrated to Workplace Service Delivery instances.
 
 ## Workplace Indoor Mapping Tables
 
@@ -66,7 +66,3 @@ The following tables are affected during the snapshot process.
 
 [Create Snapshots to migrate Indoor Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/snapshot-ind-mapping.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

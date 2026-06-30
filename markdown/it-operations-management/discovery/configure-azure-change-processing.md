@@ -14,11 +14,11 @@ breadcrumb: [Azure change processing, Discovery for Microsoft Azure, Discovery f
 
 # Enable Azure change processing
 
-Configure the [[azure-change-processing|Azure change processing]] to collect resource change information from the Microsoft Azure cloud and use it to update the Configuration Management Database \(CMDB\).
+Configure the Azure change processing to collect resource change information from the Microsoft Azure cloud and use it to update the Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
--   Ensure that the latest version of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns store app is installed on the ServiceNow AI Platform.
+-   Ensure that the latest version of Discovery and Service Mapping Patterns store app is installed on the ServiceNow AI Platform.
 -   Ensure that Microsoft Azure alert-driven discovery isn’t configured on the ServiceNow AI Platform.
 
 Role required: discovery\_admin or sn\_cmp.cloud\_admin
@@ -47,8 +47,3 @@ For information about the resources which are supported by Azure change processi
 
 [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862)
 
-## Related
-
-- [[azure-change-processing|Azure change processing]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

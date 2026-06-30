@@ -14,7 +14,7 @@ breadcrumb: [Setting up Agent Workspace for HR Case Management, Agent Workspace,
 
 # RCA approvals in Agent Workspace for HR Case Management
 
-After you install or upgrade to the latest [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages in the HR Agent Workspace.
+After you install or upgrade to the latest Agent Workspace for HR Case Management from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages in the HR Agent Workspace.
 
 ## Before you begin
 
@@ -38,11 +38,6 @@ Perform the following steps:
 
 5.  Click **Run Script** to approve all the requested RCAs.
 
-    **Note:** RCA fix script can approve the RCAs which exist at the time of execution. After running the RCA script \(if you install the [[document-templates-overview|Document Templates]] from ServiceNow Store, Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]], and Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] plugins\), re-run the RCA script to approve the new RCAs.
+    **Note:** RCA fix script can approve the RCAs which exist at the time of execution. After running the RCA script \(if you install the Document Templates from ServiceNow Store, Human Resources Scoped App: Lifecycle Events, and Human Resources Scoped App: Employee Relations plugins\), re-run the RCA script to approve the new RCAs.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-case-employee-relations|Employee Relations]]

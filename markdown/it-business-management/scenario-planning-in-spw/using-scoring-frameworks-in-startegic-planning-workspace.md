@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Scoring planning items in Strategic Planning Workspace
 
-Evaluate the work in your portfolio plans using scoring frameworks in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace. Determine the priority and feasibility of planning items using the scores assigned to them so that you can make informed decisions about resource and finance allocations.
+Evaluate the work in your portfolio plans using scoring frameworks in Strategic Planning Workspace. Determine the priority and feasibility of planning items using the scores assigned to them so that you can make informed decisions about resource and finance allocations.
 
 The following sections guide you on scoring and ranking the items in your portfolio plan in Strategic Planning Workspace.
 
@@ -27,6 +27,3 @@ Export the data of portfolio plan items from your portfolio plan into a Microsof
 
 **Parent Topic:**[Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-in-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

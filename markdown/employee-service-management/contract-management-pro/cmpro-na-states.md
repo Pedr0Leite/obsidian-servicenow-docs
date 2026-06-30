@@ -14,7 +14,7 @@ breadcrumb: [Contract analysis, Use generative AI skills, Now Assist in CM Pro, 
 
 # Contract analysis states in Now Assist in Contract Management
 
-The [[cncore-now-assit-landing|Now Assist in Contract Management]] analysis follows a workflow and moves through a series of states, which are displayed in the contract request. The contract analysis details are available in the [[activity-lxp|activity]] stream and are also communicated by an email notification to the contract fulfiller, contract collaborator, and assignment group manager.
+The Now Assist in Contract Management analysis follows a workflow and moves through a series of states, which are displayed in the contract request. The contract analysis details are available in the activity stream and are also communicated by an email notification to the contract fulfiller, contract collaborator, and assignment group manager.
 
 The following table describes the different states that a document goes through during analysis by the Now Assist application in the **Contract documents** tab.
 
@@ -39,7 +39,3 @@ The following table describes the status of the documents in the Analyze contrac
 
 **Parent Topic:**[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[activity-lxp|Activity]]

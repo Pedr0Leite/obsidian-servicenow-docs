@@ -14,7 +14,7 @@ breadcrumb: [Create a chat assistant, View assistants, Configuring assistants ov
 
 # Brand and personalize an assistant
 
-Decide how your [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistant should look by using the default branding or by creating a branding.
+Decide how your Now Assist in Virtual Agent assistant should look by using the default branding or by creating a branding.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: virtual\_agent\_admin or admin
 
 If you haven’t selected a display experience, branding options aren’t shown.
 
--   For Now Assist in Virtual Agent, branding is available for [[nava-standard-chat|standard chat]], [[nava-enhanced-chat|enhanced chat]], and [[nava-integrated-chat|premium chat]].
+-   For Now Assist in Virtual Agent, branding is available for standard chat, enhanced chat, and premium chat.
 -   For Now Assist panel - Platform assistant, branding is available for premium chat but does not include chat menu items.
 -   For the default Employee Slate assistant, branding is available for premium chat.
 -   Branding is not available for Now Assist panel - Developer assistant.
@@ -39,7 +39,7 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
 1.  In the **Branding** section, select a default branding or an existing customized branding.
 
-    **Note:** To create and edit additional settings, select the **[[ci-console|Conversational interfaces console]]** link. For more information, see [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]].
+    **Note:** To create and edit additional settings, select the **Conversational interfaces console** link. For more information, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md).
 
     If your display experience only has standard chat, the **Standard chat** section and branding preview are shown.
 
@@ -114,11 +114,3 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
 See [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
 
-## Related
-
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-integrated-chat|Premium chat]]
-- [[ci-console|Conversational Interfaces Console]]

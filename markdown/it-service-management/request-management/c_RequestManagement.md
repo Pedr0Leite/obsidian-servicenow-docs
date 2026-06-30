@@ -22,7 +22,7 @@ Request Management allows employees to submit requests for services, products, o
 
 \[Omitted image "bus-explore.svg"\] Alt text:[Exploring Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/exploring-request-management.md)
 
- [Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about [[c_OnCallScheduling|On-Call Scheduling]] concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
+ [Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about On-Call Scheduling concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
 
 </td><td>
 
@@ -44,9 +44,9 @@ Configure Request Management to enable the agents to efficiently manage multiple
 -   **[Using Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/using-request-management.md)**  
 Request Management allows catalog items to be requested and fulfilled based on defined flows.
 -   **[Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-management-reference.md)**  
-[[reference-for-itsm-mobile-agent|Reference]] topics for Request Management.
+Reference topics for Request Management.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
 **Related topics**  
 
@@ -55,8 +55,3 @@ Request Management allows catalog items to be requested and fulfilled based on d
 
 [Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/catalog-builder.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[reference-for-itsm-mobile-agent|Reference]]

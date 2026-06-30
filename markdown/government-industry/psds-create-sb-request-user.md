@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Submit a social benefits application in the Public Sector Digital Services Government Service Portal
 
-Submit an application for one or more social benefit programs offered by a government agency [[using-psds-government-service-portal-overview|using the Government Service Portal in Public Sector Digital Services]].
+Submit an application for one or more social benefit programs offered by a government agency using the Government Service Portal in Public Sector Digital Services.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: none
 
 ## About this task
 
-As a constituent, you can use the Public Sector Digital Services playbooks on service portals experience in the [[gsp-overview-public-sector|Government Service Portal]] to apply for one or more social benefit programs offered by an agency that serves you. You can apply for more than one program using information from the primary application, and see if you are eligible for any additional programs based on the information you provide, depending on what the agency offers. You can also use the portal to view the status of existing applications, view your constituent benefits summary card, as well as add details, upload documents, or update your profile and contact information.
+As a constituent, you can use the Public Sector Digital Services playbooks on service portals experience in the Government Service Portal to apply for one or more social benefit programs offered by an agency that serves you. You can apply for more than one program using information from the primary application, and see if you are eligible for any additional programs based on the information you provide, depending on what the agency offers. You can also use the portal to view the status of existing applications, view your constituent benefits summary card, as well as add details, upload documents, or update your profile and contact information.
 
 ## Before you begin
 
@@ -114,7 +114,4 @@ Role required: none
 
     The case is moved to the **Review** stage, where an agent will review the details of your request.
 
-## Related
 
-- [[using-psds-government-service-portal-overview|Using the Government Service Portal in Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -29,7 +29,7 @@ See [Unified Security Exposure Management \(USEM\)](https://raw.githubuserconten
 
 ## Important information for upgrading Unified Security Exposure Management to Australia
 
-To access the new AI native experience in the Unified Security Exposure Management \(USEM\) workspace, you must [[upgrades-overview|upgrade to the Australia release]].
+To access the new AI native experience in the Unified Security Exposure Management \(USEM\) workspace, you must upgrade to the Australia release.
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -185,9 +185,5 @@ Unified Security Exposure Management is available to all customers who are entit
 
 Install Unified Security Exposure Management by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[[security-operations-rn-landing|Security Operations release notes]]
+**Parent Topic:**[Security Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/security-operations-rn-landing.md)
 
-## Related
-
-- [[security-operations-rn-landing|Security Operations release notes]]
-- [[upgrades-overview|Upgrade to the Australia release]]

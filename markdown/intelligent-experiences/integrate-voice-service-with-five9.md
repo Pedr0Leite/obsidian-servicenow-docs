@@ -17,7 +17,7 @@ Enable users to get support from AI voice agents by integrating a ServiceNow voi
 
 ## Before you begin
 
--   Create a voice assistant. See [[create-an-ai-voice-service|Create an AI voice assistant]] for more information.
+-   Create a voice assistant. See [Create an AI voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-an-ai-voice-service.md) for more information.
 
 Role required: sn\_aia.admin
 
@@ -31,7 +31,7 @@ Connect your Five9 contact center to a ServiceNow voice assistant using the Sess
 
 2.  Find the voice assistant that you want to connect to Five9 and select **Edit**.
 
-3.  Select **Communication channels** from the guided setup [[now-assist-global-navigation|navigation]].
+3.  Select **Communication channels** from the guided setup navigation.
 
 4.  In the **Provider application** field, select the provider application to deploy the voice assistant to.
 
@@ -68,10 +68,5 @@ Five9 is connected to your ServiceNow voice assistant. Incoming calls routed thr
 
 For live agent transfer configuration and advanced SIP trunk settings, refer to the [Five9 BYO SIP Trunk Integration Guide](https://documentation.five9.com/bundle/byo-sip-trunk-integration-guide/resource/byo-sip-trunk-integration-guide.pdf) or contact Five9 support.
 
-**Parent Topic:**[[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
+**Parent Topic:**[Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md)
 
-## Related
-
-- [[create-an-ai-voice-service|Create an AI voice assistant]]
-- [[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
-- [[now-assist-global-navigation|Navigation]]

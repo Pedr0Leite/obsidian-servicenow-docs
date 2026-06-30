@@ -15,7 +15,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Exploring Portfolio Planning in Strategic Planning Workspace
 
-Learn about the features, functionality, and the business value that [[alignment-planner-workspace-landing-page|Strategic Planning]] provides.
+Learn about the features, functionality, and the business value that Strategic Planning provides.
 
 ## Strategic Planning overview
 
@@ -105,7 +105,7 @@ Flexibly plan and track work across the company, without restricting to a planni
 
 </td><td>
 
-Optimize your [[portfolio-planning-app-landing-page|portfolio planning]] by comparing potential outcomes, assessing their alignment with strategic goals, and approving the best scenario as your live plan.
+Optimize your portfolio planning by comparing potential outcomes, assessing their alignment with strategic goals, and approving the best scenario as your live plan.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Optimize your [[portfolio-planning-app-landing-page|portfolio planning]] by comp
 
 </td><td>
 
-Start scoring items in your portfolio plan to [[prioritize-work-portfolio-planning-workspace|prioritize work]] based on a pre-defined or a custom score.
+Start scoring items in your portfolio plan to prioritize work based on a pre-defined or a custom score.
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ View the financial planning of your planning items using the comprehensive view 
 </td></tr></tbody>
 </table>## Comparing Portfolio Planning Workspace with Strategic Planning Workspace
 
--   Portfolio Planning Workspace: Prioritize, roadmap, and track work when using waterfall methodology. Enhance traditional portfolio planning for demand and [[c_ProjectApplicationOverview|project management]]. To learn more about Portfolio Planning, see [Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md).
+-   Portfolio Planning Workspace: Prioritize, roadmap, and track work when using waterfall methodology. Enhance traditional portfolio planning for demand and project management. To learn more about Portfolio Planning, see [Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md).
 -   Strategic Planning Workspace: Prioritize, roadmap, and track work when using traditional, agile, or hybrid methodologies. Align strategy to execution by defining and tracking goals across the organization.
 
 |Feature|Portfolio Planning Workspace|Strategic Planning Workspace|
@@ -198,7 +198,7 @@ Create goals for your portfolio plan, set targets for them, and evaluate the pro
 -   **[Prioritization in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/backlog-management-in-alignment-planner-workspace.md)**  
 Prioritize work that is relevant for your portfolio using a centralized workspace in Strategic Planning. Review and determine the right work to invest in.
 -   **[Roadmaps in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/roadmap-planning-overview.md)**  
-Strategically plan work for your company using visual [[roadmap-planning-overview|roadmaps in Strategic Planning]] Workspace.
+Strategically plan work for your company using visual roadmaps in Strategic Planning Workspace.
 -   **[Scenario planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/scenario-planning-in-strategic-planning.md)**  
 Create and evaluate strategic scenarios to explore different planning approaches. Approve the optimal scenario that aligns with the organizational goals and strategic priorities.
 -   **[Capacity in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/capacity-planning-spw.md)**  
@@ -206,18 +206,9 @@ The Capacity tab provides portfolio managers a comprehensive view of capacity, a
 -   **[Financial planning for planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/financials-strategic-planning.md)**  
 Plan, re-forecast, track the financials, and create baselines for all of your planning items.
 -   **[Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/executing-work-from-apw-in-ppm-agile2-0-or-safe.md)**  
-Facilitate execution of the work planned in Strategic Planning in ServiceNow applications such as [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\), [[agile-landing-page|Agile Development 2.0]], or Scaled Agile Framework.
+Facilitate execution of the work planned in Strategic Planning in ServiceNow applications such as Project Portfolio Management \(PPM\), Agile Development 2.0, or Scaled Agile Framework.
 -   **[Better together with other ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/better-together-with-other-apps-spw.md)**  
 The integration of Strategic Planning with other ServiceNow applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
 
 **Parent Topic:**[Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-in-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[roadmap-planning-overview|Roadmaps in Strategic Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]

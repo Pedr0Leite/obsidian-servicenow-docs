@@ -34,9 +34,9 @@ If the application needs to support multiple ERP instances, create separate web 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Open the [[erp-source|ERP source]] for which you need to configure service maps.
+2.  Open the ERP source for which you need to configure service maps.
 
 3.  In the Service Mappings related list, click **New**.
 
@@ -151,7 +151,4 @@ Path of the resource provided by ERP.This field appears when REST is selected in
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

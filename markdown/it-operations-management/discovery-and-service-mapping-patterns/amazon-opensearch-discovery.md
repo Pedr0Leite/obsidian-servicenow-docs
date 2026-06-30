@@ -14,13 +14,13 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS OpenSearch discovery with Patterns
 
-The ServiceNow® [[r-discovery|Discovery]] application uses the Amazon OpenSearch discovery pattern to find Amazon OpenSearch service domains.
+The ServiceNow® Discovery application uses the Amazon OpenSearch discovery pattern to find Amazon OpenSearch service domains.
 
 OpenSearch is an open-source search and analytics engine for use cases such as log analytics, real-time application monitoring, and clickstream analysis. OpenSearch operates as a cluster of nodes that are abstracted from the end user. An OpenSearch service domain is synonymous with an OpenSearch cluster. Domains are clusters with settings, instance types, instance counts, and storage resources.
 
 ## Prerequisites
 
--   Install the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+-   Install the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   Configure an AWS Service Account with valid credentials on the ServiceNow instance with permission to run the following APIs:
     -   `https://es.{region}.amazonaws.com/2021-01-01/domain`
     -   `https://es.{region}.amazonaws.com/2021-01-01/opernsearch/domain-info{"DomainNames":[]}`
@@ -43,7 +43,3 @@ OpenSearch service domains are stored in Cloud Databases \[cmdb\_ci\_cloud\_data
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

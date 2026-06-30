@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Core, Workplace Service Delivery, Employee Ser
 
 # Install Workplace Core
 
-You can install the [[workplace-safety-mgmt-hr|Workplace Core]] application if you have the admin role. This application includes optional demo data.
+You can install the Workplace Core application if you have the admin role. This application includes optional demo data.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ See [Components installed with Workplace Core](https://raw.githubusercontent.com
 
 [Activate Virtual Agent for Workplace Service Delivery]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

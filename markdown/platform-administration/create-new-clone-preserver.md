@@ -24,9 +24,9 @@ The **Preservers** tab displays a list of all of your available data preservers.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home**.
 
-2.  Select **[[clone-exclusions-preservers-cleanupscripts|Definitions]]** from the secondary navigation bar.
+2.  Select **Definitions** from the secondary navigation bar.
 
 3.  Select the **Preservers** tab.
 
@@ -44,7 +44,4 @@ The **Preservers** tab displays a list of all of your available data preservers.
 
     The success message displays.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

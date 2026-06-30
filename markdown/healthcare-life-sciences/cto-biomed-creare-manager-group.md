@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Create a group for all location managers in Care Team Operations for Biomed
 
-Create a group for location managers with the sn\_customerservice.svc\_location\_manager role assigned so that users added to this group will inherit the collection of roles for [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+Create a group for location managers with the sn\_customerservice.svc\_location\_manager role assigned so that users added to this group will inherit the collection of roles for Care Team Operations for Biomed.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 A user group has been created for your location managers.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Proactive Prompts, HR Service Delivery, Employee Service Manag
 
 # Now Assist with Proactive Prompts
 
-Your employees and managers can use conversational actions to see their pending HR tasks and how much remaining time off they have by using the Now Assist with the [[proactive-prompts-for-hrsd|Proactive Prompts]] integration.
+Your employees and managers can use conversational actions to see their pending HR tasks and how much remaining time off they have by using the Now Assist with the Proactive Prompts integration.
 
 The Proactive Prompts with the Now Assist integration uses large language models \(Now LLM Service\) to create a natural-language conversational experience that can improve the success of your prompts.
 
@@ -31,12 +31,8 @@ The **Show Approvals** and **Request PTO** actions aren't available by default t
 -   Create signal actions forProactive Prompts. For information about configuring signal actions for Proactive Prompts, see [Configure signal actions for Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-actions.md).
 -   Select the actions in the signal channel configuration. For information on configuring the delivery channels in Proactive Prompts, see [Configure delivery channels in Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-config-channels.md).
 
-    **Note:** You can select both NLU and Now LLM Service actions in the **Virtual [[agent-sn-ms-teams|agent actions]]** field.
+    **Note:** You can select both NLU and Now LLM Service actions in the **Virtual agent actions** field.
 
 
 A single signal configuration caters to both NLU and Now LLM Service prompts and actions. The prompt is delivered to the portals depending on their Virtual Agent configuration. For example, if the portal has Now Assist configured, Now LLM Service prompts and actions are delivered. If the portal has NLU configured, NLU prompts and actions are delivered from the same signal configuration. For more information on the signal configuration, see [Create a signal in Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-create.md).
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[agent-sn-ms-teams|Agent actions]]

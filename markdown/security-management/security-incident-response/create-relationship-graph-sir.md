@@ -14,7 +14,7 @@ breadcrumb: [Viewing incident details with a relationship graph, Working with Se
 
 # Create a relationship graph for an incident
 
-Create a node relationship graph in [[sir-landing-page|Security Incident Response]] so you can better analyze a security incident by correlating it with malicious [[c_Observables|observables]], configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related information.
+Create a node relationship graph in Security Incident Response so you can better analyze a security incident by correlating it with malicious observables, configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related information.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For information about how to create a customized relationship graph rather than 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident.
 
@@ -77,8 +77,3 @@ For information about how to create a customized relationship graph rather than 
 
 **Parent Topic:**[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-relationship-graph.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

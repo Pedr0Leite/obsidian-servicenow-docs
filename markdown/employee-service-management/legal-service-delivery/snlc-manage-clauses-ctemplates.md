@@ -26,7 +26,7 @@ As administrator manage clauses, clause variations, and contract templates.
 
 -   **[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct-addin.md)**
 
-    Edit the metadata, signatories, or clauses in a contract template that must be included in the contract template to generate a standard contract when an employee submits a contract request using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+    Edit the metadata, signatories, or clauses in a contract template that must be included in the contract template to generate a standard contract when an employee submits a contract request using the Microsoft Word add-in for ServiceNow Contracts.
 
 -   **[Create a contract template from an existing template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-template-revision.md)**
 
@@ -50,6 +50,3 @@ As administrator manage clauses, clause variations, and contract templates.
 
 [Modify a contract record]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

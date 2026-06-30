@@ -13,11 +13,11 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Summarize an email interaction
 
-Use ServiceNow Otto to generate an AI summary of an [[email-as-an-interaction|email interaction]], giving agents a concise overview of customer issues, conversation context, and action items without reading through entire email threads.
+Use ServiceNow Otto to generate an AI summary of an email interaction, giving agents a concise overview of customer issues, conversation context, and action items without reading through entire email threads.
 
 ## Before you begin
 
-Verify that ServiceNow Otto for [[c_CustomerServiceManagement|Customer Service Management]] is installed and the AI summarization skill is activated. For activation steps, see [[activate-email-summarization-csm|Activate email interaction summarization for CSM]].
+Verify that ServiceNow Otto for Customer Service Management is installed and the AI summarization skill is activated. For activation steps, see [Activate email interaction summarization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-email-summarization-csm.md).
 
 Role required: sn\_customerservice\_agent
 
@@ -52,7 +52,7 @@ The Summarize this interaction section displays differently depending on the int
 
 3.  Select **Summarize**.
 
-    The AI-generated summary appears, displaying key conversation [[gamification-components-points|points]], customer issues, and action items.
+    The AI-generated summary appears, displaying key conversation points, customer issues, and action items.
 
 4.  Review the summary and complete any of the following actions.
 
@@ -70,9 +70,3 @@ The AI summary provides a structured overview of the email interaction, includin
 
 The summary reflects interaction data at the time of generation. As the email interaction progresses with new messages or updates, regenerate the summary to capture the latest information.
 
-## Related
-
-- [[activate-email-summarization-csm|Activate email interaction summarization for CSM]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-points|Points]]

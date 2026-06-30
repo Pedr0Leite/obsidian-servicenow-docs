@@ -14,11 +14,11 @@ breadcrumb: [Reference, Next Experience for Demand Management in Strategic Plann
 
 # Demands list view
 
-The **All Demands** home page displays demands in a list view and contains specific UI components to create, edit, and [[export-demands-from-dw-ppw|export demands]].
+The **All Demands** home page displays demands in a list view and contains specific UI components to create, edit, and export demands.
 
 ## Actions
 
-The actions available on the home page are listed in this table.\[Omitted image "all-demands-home-page.png"\] Alt text: Actions in the All [[demands-list-view-ppw|Demands list view]].
+The actions available on the home page are listed in this table.\[Omitted image "all-demands-home-page.png"\] Alt text: Actions in the All Demands list view.
 
 |Feature|Description|
 |-------|-----------|
@@ -27,7 +27,7 @@ The actions available on the home page are listed in this table.\[Omitted image 
 |Sort by|Option to sort the demand list in ascending or descending order based on a selected field.|
 |Group by|Option to group the demands by a selected field, such as state or stage, for better organization and visibility.|
 |Refresh|Option to reload the list.|
-|New|Option to [[t_CreatingDemands|create a demand]].|
+|New|Option to create a demand.|
 |Edit|Option to edit the selected demands.|
 |Assign to me|Option to assign the selected demand to the logged-in user.|
 |Export|Option to export the demand list to an external file format such as Excel or CSV.|
@@ -80,9 +80,3 @@ Show matching or filter out demands by selecting the cell context menu \(\[Omitt
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[export-demands-from-dw-ppw|Export demands]]
-- [[demands-list-view-ppw|Demands list view]]
-- [[t_CreatingDemands|Create a demand]]

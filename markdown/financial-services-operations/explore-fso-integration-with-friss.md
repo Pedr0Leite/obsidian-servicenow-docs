@@ -27,13 +27,13 @@ You can use the Financial Services Operations Integration with FRISS application
 
 ## FRISS workflow
 
-The following diagram is a workflow of the FRISS integration. The diagram shows the role that each layer plays in the [[fso-overview|Financial Services]] Operations application.
+The following diagram is a workflow of the FRISS integration. The diagram shows the role that each layer plays in the Financial Services Operations application.
 
 \[Omitted image "jha-thirdparty-integ.png"\] Alt text: Diagram of a high-level overview of the design of the FRISS integration and the role each layer plays in Financial Services Operations applications. For more details, refer to the following table.
 
 |Layer|Description|
 |-----|-----------|
-|Workflow Layer|Layer that contains the [[commercial-lines-claims-landing-page|Commercial Lines Claims]] and [[personal-lines-claims-landing-page|Personal Lines Claims]] applications for triggering and storing fraud scores.|
+|Workflow Layer|Layer that contains the Commercial Lines Claims and Personal Lines Claims applications for triggering and storing fraud scores.|
 |Adapter/Integration Layer|Layer that contains the Financial Services Operations Integration with FRISS subflow to execute the FRISS spoke actions and to provide a fraud score. Additional tables are added to this service to store the fraud score.|
 |Spoke Layer|Layer that contains the FRISS spoke actions that use REST APIs to interact with FRISS. For more information on the FRISS spoke actions, see[FRISS Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/friss-spoke.md).|
 
@@ -43,11 +43,5 @@ FRISS can help you solve the fraudulent activity that occurs in the insurance in
 
 FRISS provides real-time, data-driven scores and insights that can help you to assess the inherent risks of your customers and interactions quickly. Because your services are primarily focused on Auto, Property, and General Liability claims, by using FRISS, you can build automated fraud detection into your claims processes. By scoring the claims in real time, Financial Services Operations Integration with FRISS helps your company to reduce the number of false positives, increase the number of avoided claims, and process the genuine claims immediately.
 
-**Parent Topic:**[[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
+**Parent Topic:**[Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-friss-overview.md)
 
-## Related
-
-- [[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
-- [[fso-overview|Financial Services]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]

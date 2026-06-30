@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage Matrices
 
-Manage the matrices that are imported from the MITRE TAXII collections. Matrices are a collection of tactics and techniques. You can view the matrices to review if your collections are available in the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]].
+Manage the matrices that are imported from the MITRE TAXII collections. Matrices are a collection of tactics and techniques. You can view the matrices to review if your collections are available in the MITRE-ATT&amp;CK repository.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  After you enable the MITRE ATT&amp;CK related feed [[data-sources|data sources]] which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
+1.  After you enable the MITRE ATT&amp;CK related feed data sources which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
 
     For more information on enabling the integrations
 
-2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK**.
+2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK**.
 
     The MITRE ATT&amp;CK related records are displayed. By default all the records are in enabled state.
 
@@ -45,7 +45,7 @@ Role required: sn\_sec\_tisc.analyst
     |Active|Select this check box to active the matrix record.|
     |Created Time In Source|Specifies the time the object is created in the source.|
     |Modified Time In Source|Specifies the time the object is modified in the source.|
-    |Description|A description that provides more details and context about the [[threat-intelligence-intrusion-sets|intrusion set]], potentially including its purpose and its key characteristics.|
+    |Description|A description that provides more details and context about the intrusion set, potentially including its purpose and its key characteristics.|
     |**Insights**|
     |Notes|Any additional information related to the mitigation.|
     |**Additional Information**|
@@ -55,9 +55,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[data-sources|Data Sources]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]

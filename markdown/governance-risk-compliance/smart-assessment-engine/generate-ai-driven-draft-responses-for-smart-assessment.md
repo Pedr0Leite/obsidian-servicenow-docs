@@ -24,7 +24,7 @@ The **Is AI response enabled** option must be selected on the template category 
 
 ## About this task
 
-When you’re assigned to a task to [[sae-asmnt-respond|respond to an assessment]], you submit your responses to the assessment within the relevant workspace. For example, smart assessments are available for use with Control attestation and Risk identification. Your responses can help with gathering evidence to prove that a control is implemented or help identify gaps that can lead to potential risk.
+When you’re assigned to a task to respond to an assessment, you submit your responses to the assessment within the relevant workspace. For example, smart assessments are available for use with Control attestation and Risk identification. Your responses can help with gathering evidence to prove that a control is implemented or help identify gaps that can lead to potential risk.
 
 ## Procedure
 
@@ -82,6 +82,4 @@ When you’re assigned to a task to [[sae-asmnt-respond|respond to an assessment
 
 11. Select **Submit**.
 
-## Related
 
-- [[sae-asmnt-respond|Respond to an assessment]]

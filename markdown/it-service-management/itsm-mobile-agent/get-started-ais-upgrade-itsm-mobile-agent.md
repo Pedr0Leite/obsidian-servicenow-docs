@@ -14,7 +14,7 @@ breadcrumb: [AI Search in ITSM Mobile Agent, Exploring ITSM Mobile Agent, ITSM M
 
 # Get started with AI search in upgraded instances
 
-Enable intelligent query features that help agents to quickly find the required answers in [[itsm-mobile-agent|ITSM Mobile Agent]] in upgraded instances.
+Enable intelligent query features that help agents to quickly find the required answers in ITSM Mobile Agent in upgraded instances.
 
 ## Before you begin
 
@@ -68,6 +68,4 @@ You can get started with AI search in upgraded instances by using the AI search 
 
     **Note:** If you do not want to use the AI search configuration in the base system, migrate your search profiles and other configurations from zing search to AI search. Perform the steps mentioned in [Configure AI Search for mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/advanced-text-search-config-now.md).
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

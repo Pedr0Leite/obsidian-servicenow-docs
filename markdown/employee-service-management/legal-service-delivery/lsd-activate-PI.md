@@ -14,7 +14,7 @@ breadcrumb: [Configure, Predictive intelligence for Legal Service Delivery, Inte
 
 # Activate Predictive Intelligence for Legal Service Delivery
 
-You can activate the [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]] plugin \(sn\_lg\_pi\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role.
+You can activate the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\) for Legal Service Delivery if you have the admin role.
 
 ## Before you begin
 
@@ -51,7 +51,3 @@ For more information, see [Components installed for Advanced Work Assignment for
 
 **Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]

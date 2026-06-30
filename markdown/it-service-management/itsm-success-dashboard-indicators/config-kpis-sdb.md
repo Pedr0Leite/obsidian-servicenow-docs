@@ -54,10 +54,7 @@ Configure and update the **More Information cards** in the side panel.
 -   **[Create a cost savings indicator for ITSM Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/customize-cost-savings.md)**  
 Create a cost savings indicator in ITSM Success Dashboard to determine and display the time saved for the contributing indicators when agents work on an incident.
 -   **[Modify the currency code for ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/customize-currency-code.md)**  
-[[customize-currency-code|Modify the currency code for ITSM Success Dashboard indicators]].
+Modify the currency code for ITSM Success Dashboard indicators.
 
 **Parent Topic:**[ITSM Success Dashboard Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/admin-console-sd.md)
 
-## Related
-
-- [[customize-currency-code|Modify the currency code for ITSM Success Dashboard indicators]]

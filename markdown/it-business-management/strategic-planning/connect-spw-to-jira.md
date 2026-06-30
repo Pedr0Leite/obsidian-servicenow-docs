@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Connect SPW to Jira
 
-Connect [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to Jira to enable the integration between the applications.
+Connect Strategic Planning Workspace to Jira to enable the integration between the applications.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_jira\_int.user
 
     [Registering a webhook via the Jira administration console](https://developer.atlassian.com/server/jira/platform/webhooks/#registering-a-webhook-via-the-jira-administration-console)
 
-5.  On the [[jira-instance-form|Jira instance form]], select **Connect**.
+5.  On the Jira instance form, select **Connect**.
 
 
 ## Result
@@ -45,7 +45,3 @@ If the connection is successful, the **State** field on your Jira instance recor
 
 [Import Jira projects to SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/imports-jira-projects-to-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[jira-instance-form|Jira Instance form]]

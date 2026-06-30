@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View the promoted events
 
-View the anomaly alerts that the [[advanced-promotion-engine|Advanced Promotion Engine]] promoted to IT events. Viewing IT events enables you to track the source of the event.
+View the anomaly alerts that the Advanced Promotion Engine promoted to IT events. Viewing IT events enables you to track the source of the event.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ The system generates an IT event when an anomaly alert is promoted. Those events
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[advanced-promotion-engine|Advanced Promotion Engine]]

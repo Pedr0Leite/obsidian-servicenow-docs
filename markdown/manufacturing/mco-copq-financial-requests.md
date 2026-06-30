@@ -26,27 +26,20 @@ Role required: admin
 
 3.  On the CoPQ Financial Request form, fill in the fields.
 
-    For a description of the field values, see [[mco-copq-financial-requests-form|CoPQ financial requests form]].
+    For a description of the field values, see [CoPQ financial requests form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-financial-requests-form.md).
 
 4.  Select **Save**.
 
 
--   **[[mco-copq-planned-line-charge|Create a CoPQ planned line charge]]**  
+-   **[Create a CoPQ planned line charge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-planned-line-charge.md)**  
 Create a CoPQ planned line charge for CoPQ financial request.
 
-**Parent Topic:**[[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]]
+**Parent Topic:**[Related list for remediation action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-remediation-action-plan.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-[[mco-resolution-information-form|Resolution information form]]
+[Resolution information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-resolution-information-form.md)
 
-## Related
-
-- [[mco-copq-financial-requests-form|CoPQ financial requests form]]
-- [[mco-copq-planned-line-charge|Create a CoPQ planned line charge]]
-- [[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]]
-- [[mco-notes|Notes form]]
-- [[mco-resolution-information-form|Resolution information form]]

@@ -30,8 +30,8 @@ Third-party review requests include the following features:
 As a legal fulfiller on the legal team, you can work on the assigned third-party review requests by completing the following activities:
 
 -   Review the contract document attached to the legal request and make any necessary changes.
--   Email the revised contract document to third-party contacts for review directly from the [[legal-counsel-center-landing|Legal Counsel Center]].
--   View responses from third-party contacts in the [[activity-lxp|activity]] stream of the legal request.
+-   Email the revised contract document to third-party contacts for review directly from the Legal Counsel Center.
+-   View responses from third-party contacts in the activity stream of the legal request.
 
     Multiple iterations of revisions between your company and the third party might be necessary before the contract document is finalized by all parties.
 
@@ -41,9 +41,9 @@ As a legal fulfiller on the legal team, you can work on the assigned third-party
 After all signatories have signed the contract document, it is stored on the ServiceNow instance or an external storage system. The requester and legal department members can access the signed contract document from the Legal Contracts repository.
 
 -   **[Submit a legal request for a third-party contract review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/submit-legal-request-tpc-review.md)**  
-[[submit-legal-request|Submit a legal request]] for review of third-party contracts by the legal team.
+Submit a legal request for review of third-party contracts by the legal team.
 -   **[Modify a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/update-legal-contract-request-tpc.md)**  
-As a legal user, [[update-legal-contract-request-tpc|modify a legal request]] to update the request's details or replace the attached contract document with an updated version.
+As a legal user, modify a legal request to update the request's details or replace the attached contract document with an updated version.
 -   **[Work on a TPC review request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/work-tpc-review-request.md)**  
 As a member of the legal contracts support team, review and revise a third-party contract document. You can email the revised document to stakeholders to verify the revisions and then send the ready document for e-signature from within the legal request.
 -   **[Cancel a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/cancel-legal-contract-request-tpc.md)**  
@@ -51,9 +51,3 @@ Cancel a third-party contract request if it is no longer necessary.
 
 **Parent Topic:**[Submitting Legal Simple Contracts requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/sub-lg-sim-conts-reqs.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]
-- [[submit-legal-request|Submit a legal request]]
-- [[update-legal-contract-request-tpc|Modify a legal request]]

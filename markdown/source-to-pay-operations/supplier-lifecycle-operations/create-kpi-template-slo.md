@@ -20,11 +20,11 @@ Create manual KPI templates to define KPIs that require users to manually input 
 
 Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
-Manual [[kpi-templates|KPI templates]] can be created for both **Qualitative** and **Quantitative** KPI types.
+Manual KPI templates can be created for both **Qualitative** and **Quantitative** KPI types.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following:
 
@@ -165,8 +165,8 @@ Collection source
 </td><td>
 
 The user persona that provides the data. The available options are:-   User
--   [[supplier|Supplier]] Manager
--   [[supplier-contact|Supplier Contact]]
+-   Supplier Manager
+-   Supplier Contact
 
 
 </td></tr><tr><td>
@@ -236,10 +236,3 @@ A KPI is created for the selected supplier. This KPI is activated only when the 
 
 [Create KPI performance domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-domain.md)
 
-## Related
-
-- [[kpi-templates|KPI templates]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

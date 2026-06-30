@@ -12,7 +12,7 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Configure using a user icon in a mobile app
 
-After you configure a user type icon, you must use [[mab-concept|Mobile App Builder]] to configure a header function in a mobile app to use the icon.
+After you configure a user type icon, you must use Mobile App Builder to configure a header function in a mobile app to use the icon.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select the launcher screen for the mobile app where you want to use the user type icon.
 
@@ -90,14 +90,9 @@ Function
 
 Function that runs when a user taps on the user icon in the header of the launcher screen.
 
- **Note:** Use a navigation function to navigate to a user profile [[form-screen|record screen]] when you use a user type icon. For more information, see [[mobile-nav-functions|Navigation functions]].
+ **Note:** Use a navigation function to navigate to a user profile record screen when you use a user type icon. For more information, see [Navigation functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-nav-functions.md).
 
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-## Related
 
-- [[mobile-nav-functions|Navigation functions]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[form-screen|Record screen]]

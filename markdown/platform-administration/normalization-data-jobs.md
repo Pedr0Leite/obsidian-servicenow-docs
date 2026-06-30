@@ -18,7 +18,7 @@ Administrators must manually start data jobs that apply field changes. All trans
 
 **Note:**
 
-If the Field Normalization plugin is active, the normalization engine executes on insert of records into a table according to normalization rules. To learn more about this plugin, see [[activate-field-normalization|Activate Field Normalization]].
+If the Field Normalization plugin is active, the normalization engine executes on insert of records into a table according to normalization rules. To learn more about this plugin, see [Activate Field Normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-field-normalization.md).
 
 If the Field Normalization plugin is not active, a data job runs to normalize the values. The data job saves the previous values in the rolled back fields to revert them if necessary.
 
@@ -28,10 +28,6 @@ If the Field Normalization plugin is not active, a data job runs to normalize th
 |Normal value change|Normalization|Run this job to rerun field normalization and update field values when you change a normal value. The system creates this job whenever you change a normal value. Roll back the data job to revert the normalized fields to the previous normal value.|
 |Alias application|Normalization|Run this job to normalize all field values that match an alias. The system creates this job whenever you create or update an alias. Roll back the data job to revert normalized fields to their previous values.|
 |Rule application|Normalization|Run this job to normalize all field values that match a rule. The system creates this job whenever you create or update a rule. Roll back the data job to revert normalized fields to their previous values.|
-|Coalesce too normal|Normalization|Run this job to normalize the [[reference-email-admin|reference]] field values by replacing references to multiple duplicate records with one reference to a normalized record. The system creates this job whenever you change a normal value that applies to a reference field. Roll back the data job to restore the duplicate records as valid options. The rollback does not restore references to the previous records.|
+|Coalesce too normal|Normalization|Run this job to normalize the reference field values by replacing references to multiple duplicate records with one reference to a normalized record. The system creates this job whenever you change a normal value that applies to a reference field. Roll back the data job to restore the duplicate records as valid options. The rollback does not restore references to the previous records.|
 |Transform application|Transformation|Run this job to transform all field values that match the transformation conditions. You cannot start this job while the Transformation record is in **Test** mode. The system creates this job whenever you create or update a transformation record. Roll back the data job to revert transformed fields to their previous values.|
 
-## Related
-
-- [[activate-field-normalization|Activate Field Normalization]]
-- [[reference-email-admin|Reference]]

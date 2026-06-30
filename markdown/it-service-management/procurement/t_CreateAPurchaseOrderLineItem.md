@@ -18,7 +18,7 @@ After you save a new purchase order, you create purchase order line item records
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## Procedure
 
@@ -64,7 +64,7 @@ The model of the purchase order line item.
 
 </td></tr><tr><td>
 
-[[c_ProductCatalog|Product Catalog]]
+Product Catalog
 
 </td><td>
 
@@ -168,7 +168,7 @@ Ordered quantity
 
 </td><td>
 
-The number of product [[c_Models|models]] that were ordered.
+The number of product models that were ordered.
 
 </td></tr><tr><td>
 
@@ -230,7 +230,7 @@ Stock Order
 
 </td><td>
 
-Read only and selected if the related request is using the bulk stock order workflow. **Note:** Appears for all purchase order line items when the Hardware [[c_AssetManagement|Asset Management]] application is installed from ServiceNow Store.
+Read only and selected if the related request is using the bulk stock order workflow. **Note:** Appears for all purchase order line items when the Hardware Asset Management application is installed from ServiceNow Store.
 
 </td></tr><tr><td>
 
@@ -259,9 +259,3 @@ A few words or short phrase describing the purchase order line item.
 
 [Vendor catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ManageVendorCatalogItems.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]

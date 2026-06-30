@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance calculators and calculator rules, Create a
 
 # Examples for Configuration Compliance risk score calculation
 
-Starting with v13.0 of [[vr-config-compliance-landing|Configuration Compliance]], you can customize the criteria for the default risk rule. Use risk scores provided by third-party vendors like Qualys and Tenable for risk score calculations.
+Starting with v13.0 of Configuration Compliance, you can customize the criteria for the default risk rule. Use risk scores provided by third-party vendors like Qualys and Tenable for risk score calculations.
 
 Third-party vendors, like Qualys and Tenable, provide their own scores. These scores are populated in the Criticality field on the sn\_vulc\_test table. Use this field for risk score calculations. To use this score to compute the risk score, follow the procedure:
 
@@ -108,7 +108,7 @@ Travel and Expense
 4 - Not critical
 
 </td></tr></tbody>
-</table>The [[mapping-logrhythm|mapping]] between the CI and services is stored in the Services \[cmdb\_ci\_services\] table. When a CI does not pass a Configuration Test, a Test Result \(TR\) is created. You can use the value of the business criticality from the affected services to compute the risk score for this TR. Follow the procedure to use the criticality value of these services to compute the risk score.
+</table>The mapping between the CI and services is stored in the Services \[cmdb\_ci\_services\] table. When a CI does not pass a Configuration Test, a Test Result \(TR\) is created. You can use the value of the business criticality from the affected services to compute the risk score for this TR. Follow the procedure to use the criticality value of these services to compute the risk score.
 
 ### Procedure
 
@@ -548,7 +548,3 @@ For the Remediation Task, TRG0003066:
 
 The Historical Risk Score is 81: \(90\* 80/100\) + \(66.67\* 5/100\) + \(0.2 \* 15\) = Math.floor \(78.3 +3\) = 81.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[mapping-logrhythm|Mapping]]

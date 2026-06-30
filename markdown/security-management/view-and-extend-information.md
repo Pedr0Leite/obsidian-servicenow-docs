@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Extend the MITRE-ATT&amp;CK data
 
-Extend the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]] data in the ServiceNow AI Platform by enriching it.
+Extend the MITRE-ATT&amp;CK repository data in the ServiceNow AI Platform by enriching it.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required:
 
 ## About this task
 
-You can extend the [[threat-intelligence-malware|Malware]], Group, Mitigation, and Tool objects to a technique in the MITRE-ATT&amp;CK repository.
+You can extend the Malware, Group, Mitigation, and Tool objects to a technique in the MITRE-ATT&amp;CK repository.
 
-You can create a new object and establish a relationship between a technique and the new object in the MITRE ATT&amp;CK Repository module, but you can't define the relationship type in this module. For more information about defining relationship types, see [[define-object-object|object to object relationships]]. To define a relationship type, navigate to the **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Object-Object [[stix-relationships|Relationships]]** module.
+You can create a new object and establish a relationship between a technique and the new object in the MITRE ATT&amp;CK Repository module, but you can't define the relationship type in this module. For more information about defining relationship types, see [object to object relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-object-object.md). To define a relationship type, navigate to the **Threat Intelligence** &gt; **IoC Repository** &gt; **Object-Object Relationships** module.
 
 If you map the relationship type between an existing technique and an existing object, then you must define the technique as the target object and the object as the source object. To do so, navigate to the **IoC Repository** &gt; **Object-Object Relationships** module.
 
@@ -49,7 +49,7 @@ You can create a group and associate it with an attack pattern, but in the MITRE
     \[Omitted image "mitre-extend-object.gif"\] Alt text: Extend MITRE object information by enriching its data.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -80,7 +80,7 @@ You can create a group and associate it with an attack pattern, but in the MITRE
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -100,13 +100,3 @@ You can create a group and associate it with an attack pattern, but in the MITRE
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[define-object-object|Define object-object relationships]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[stix-relationships|Relationships]]
-- [[data-component|Data Component]]

@@ -28,7 +28,7 @@ Use these applications to help streamline communications, manage work assignment
 
 </td></tr><tr><td>
 
-[Password Reset \[Omitted image "bus-password-reset.svg"\] Alt text: Provide secured [[password-reset-landing-page|password reset]], user verification options, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-landing-page.md)
+[Password Reset \[Omitted image "bus-password-reset.svg"\] Alt text: Provide secured password reset, user verification options, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-landing-page.md)
 
 </td><td>
 
@@ -39,26 +39,19 @@ Use these applications to help streamline communications, manage work assignment
  
 
 </td></tr></tbody>
-</table>## [[skills-management|Skills Management]]
+</table>## Skills Management
 
-Track the skills that your teams use and need the most, associate skills with groups or individuals, and improve your training and hiring all with this module. Skills Management helps you manage data on various defined proficiencies or sets thereof. Create efficient skill [[r_Assessments|assessments]] and associate them with teams or single personnel for improved task assignment, find and address knowledge gaps in your organization, and tailor your hiring and training plans.
+Track the skills that your teams use and need the most, associate skills with groups or individuals, and improve your training and hiring all with this module. Skills Management helps you manage data on various defined proficiencies or sets thereof. Create efficient skill assessments and associate them with teams or single personnel for improved task assignment, find and address knowledge gaps in your organization, and tailor your hiring and training plans.
 
 ## E-signature
 
-Handle electronic signatures and acknowledgments with [[e-signature|E-signature]]. Use desktop or mobile interfaces to sign documents and knowledge base articles. Tailor roles related to handling signing, and give users the option to provide typed or drawn signatures, credentials, or acknowledgments.
+Handle electronic signatures and acknowledgments with E-signature. Use desktop or mobile interfaces to sign documents and knowledge base articles. Tailor roles related to handling signing, and give users the option to provide typed or drawn signatures, credentials, or acknowledgments.
 
 ## Interaction Management
 
-Handle all your service interactions in one place with this highly flexible, extensible system. Calls, chats, and other contacts are routed and queued through a centralized location with the [[interaction-management|Interaction Management]] System \(IMS\), enabling every product to use the same framework for communication.
+Handle all your service interactions in one place with this highly flexible, extensible system. Calls, chats, and other contacts are routed and queued through a centralized location with the Interaction Management System \(IMS\), enabling every product to use the same framework for communication.
 
 ## ServiceNow Voice
 
 Keep your service call system working efficiently with Voice. This module integrates easily with third-party phone systems, and reduces navigation through multiple networks for more efficient call center interactions. Added metrics and analytics let managers review call data all in one place.
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[skills-management|Skills Management]]
-- [[r_Assessments|Assessments]]
-- [[e-signature|E-signature]]
-- [[interaction-management|Interaction Management]]

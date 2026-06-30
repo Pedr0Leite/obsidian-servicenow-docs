@@ -26,7 +26,7 @@ When you create a conversation from a task board, all the board members become m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Open a task board.
 
@@ -44,6 +44,3 @@ When you create a conversation from a task board, all the board members become m
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -14,7 +14,7 @@ breadcrumb: [Offboarding knowledge transfer plan generation agentic workflow, Us
 
 # Review offboarding knowledge transfer summaries using Now Assist
 
-Departing employees working for organizations using the [[offboarding-knowledge-x-agentic-wf|offboarding knowledge transfer plan generation agentic workflow]] can use Now Assist in Virtual Agent to review and approve AI-generated knowledge transfer summaries. Once the employee approves the summary, it’s shared with the manager and designated team members.
+Departing employees working for organizations using the offboarding knowledge transfer plan generation agentic workflow can use Now Assist in Virtual Agent to review and approve AI-generated knowledge transfer summaries. Once the employee approves the summary, it’s shared with the manager and designated team members.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: employee
 
 ## About this task
 
-When a manager completes a knowledge transfer request for a departing employee, the employee receives a notification from Now Assist in Virtual Agent after they access the [[employee-center-landing-page|Employee Center]]. The employee is prompted to review and approve the AI-generated knowledge transfer summary before it’s shared with the manager.
+When a manager completes a knowledge transfer request for a departing employee, the employee receives a notification from Now Assist in Virtual Agent after they access the Employee Center. The employee is prompted to review and approve the AI-generated knowledge transfer summary before it’s shared with the manager.
 
 ## Procedure
 
@@ -70,7 +70,3 @@ The knowledge transfer summary is approved and shared with the manager. The mana
 
 The manager can review the knowledge transfer summary approved by the departing employee and share it with successors who will assume their duties.
 
-## Related
-
-- [[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]
-- [[employee-center-landing-page|Employee Center]]

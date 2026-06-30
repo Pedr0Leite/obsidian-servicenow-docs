@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist, Use, Operational Sustainability Management \
 
 # Activate the document intelligence for utility invoices skill
 
-Activate and then configure [[ai-driven-document-intelligence-for-utility-invoices|document intelligence for utility invoices]] skill from Now Assist to automate the extraction of metrics data from utility invoices. Once activated, map the extracted data to the correct metric definitions and entities.
+Activate and then configure document intelligence for utility invoices skill from Now Assist to automate the extraction of metrics data from utility invoices. Once activated, map the extracted data to the correct metric definitions and entities.
 
 ## Before you begin
 
@@ -39,13 +39,8 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 The document intelligence for utility invoices skill is active and is available to be used in the Operational Sustainability Workspace.
 
--   **[[setup-metric-definition-and-entity-mapping-records|Setup metric definition and entity-mapping records]]**  
+-   **[Setup metric definition and entity-mapping records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/setup-metric-definition-and-entity-mapping-records.md)**  
 Configure your environment so that values extracted using the Document Intelligence for Utility Invoices skill map to the correct Environmental, Social, and Governance metrics and entities. This eliminates manual data entry and improves accuracy.
 
-**Parent Topic:**[[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md)
 
-## Related
-
-- [[setup-metric-definition-and-entity-mapping-records|Setup metric definition and entity-mapping records]]
-- [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]

@@ -14,7 +14,7 @@ breadcrumb: [SCIM Client, System for Cross-domain Identity Management \(SCIM\), 
 
 # SCIM Client troubleshooting
 
-Troubleshooting actions can help resolve common issues when setting up or running the [[scim-client-app|SCIM Client]].
+Troubleshooting actions can help resolve common issues when setting up or running the SCIM Client.
 
 <table id="table_mxt_czm_htb"><thead><tr><th>
 
@@ -31,7 +31,7 @@ Response contains the following message:
  ```
 “message":"Unable to access the
 table core_company with id: 0c441abbc6112275000025157c651c89,
-Please cross check the [[sc-access-control|Access control]] rules"
+Please cross check the Access control rules"
 ```
 
 </td><td>
@@ -87,7 +87,7 @@ For any SCIM attribute that expects the ID, then that ID is always of the provid
 
 The following are some of the areas that can be checked for troubleshooting errors when using the SCIM Client:
 
--   If any issue is found while running any of the scriptable APIs, see the SCIM Client [[logs|logs]] section.
+-   If any issue is found while running any of the scriptable APIs, see the SCIM Client logs section.
 
     |Field|Description|
     |-----|-----------|
@@ -97,17 +97,9 @@ The following are some of the areas that can be checked for troubleshooting erro
     |Resource ID|The ID for which the API is called. For deletion, the ID represents the resource ID in the provider system and the ID is in the client system.|
     |Action|API that is called|
     |Status|Status of the log as a success or failure|
-    |Message|Success or error message. The error message can be from the [[scim-provider|SCIM provider]] or because of [[sc-configuration|configuration]] issues in the SCIM Client.|
+    |Message|Success or error message. The error message can be from the SCIM provider or because of configuration issues in the SCIM Client.|
 
--   Check the [[c_requestAPI|request]] body by configuring and viewing outbound calls. To learn more, see [Outbound web services logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/outbound-request-logging.md).
+-   Check the request body by configuring and viewing outbound calls. To learn more, see [Outbound web services logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/outbound-request-logging.md).
 -   Update log levels by adding the content-type, testing the sample, and navigating to corresponding the HTTP Method form in the REST message of the corresponding provider.
 -   If the request body is truncated, then increase the limit by using system property **glide.outbound\_http.content.max\_limit**.
 
-## Related
-
-- [[scim-client-app|SCIM Client]]
-- [[sc-access-control|Access control]]
-- [[logs|Logs]]
-- [[scim-provider|SCIM Provider]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

@@ -31,9 +31,9 @@ Goals are typically qualitative by nature. Goals should be ambitious and are exp
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
-2.  On the Strategy and Goals page, select the goal-based board for which you want to [[create-a-copy-of-a-goal-or-target|duplicate a goal or target]].
+2.  On the Strategy and Goals page, select the goal-based board for which you want to duplicate a goal or target.
 
 3.  Select the Row context menu icon \(\[Omitted image "more-actions.png"\] Alt text: Row context menu icon.\) of the goal or target that you want to duplicate and then select **Duplicate**.
 
@@ -61,8 +61,3 @@ Add more targets for the goals. For more information, see [Add a target for goal
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[create-a-copy-of-a-goal-or-target|Duplicate a goal or target]]

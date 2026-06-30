@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 # Exploring Cloud Services Catalog
 
-The [[csc-home|Cloud Services Catalog]] application is the single place that you have to go to for automating cloud management tooling. It replaces and improves on the capabilities that were offered by [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] user and admin portals.
+The Cloud Services Catalog application is the single place that you have to go to for automating cloud management tooling. It replaces and improves on the capabilities that were offered by Cloud Provisioning and Governance user and admin portals.
 
 ## Cloud Services Catalog overview
 
@@ -42,7 +42,3 @@ The following table lists the benefits of Cloud Services Catalog.
 
 See [Plugins or applications installed with ITOM Cloud Accelerate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/plugin-app-cloud-accelerate.md) to find the list of plugins you activate with Cloud Services Catalog.
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

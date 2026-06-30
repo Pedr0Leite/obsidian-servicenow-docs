@@ -14,7 +14,7 @@ breadcrumb: [Universal Request reference, Universal Request, Employee Service Ma
 
 # Service Configuration form
 
-Use the **Service Configuration** form to register your service to use the [[ur-landing-limitedaccess|Universal Request]] application.
+Use the **Service Configuration** form to register your service to use the Universal Request application.
 
 |Field|Definition|
 |-----|----------|
@@ -27,6 +27,3 @@ Use the **Service Configuration** form to register your service to use the [[ur-
 
 **Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

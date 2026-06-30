@@ -14,7 +14,7 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Configure Dynamic translation for Universal Request
 
-Activate and configure the Dynamic Translation plugin to translate the text on a [[ur-landing-limitedaccess|Universal Request]] record.
+Activate and configure the Dynamic Translation plugin to translate the text on a Universal Request record.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ After activating the Dynamic Translation plugin, you can configure one of the tr
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

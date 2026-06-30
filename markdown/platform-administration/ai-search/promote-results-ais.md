@@ -14,11 +14,11 @@ breadcrumb: [Result improvement rules, Search profiles, Configuring AI Search, A
 
 # Promote search results using a result improvement rule
 
-Configure a result improvement rule to make specific records appear first in [[hs-results|results]] for a search.
+Configure a result improvement rule to make specific records appear first in results for a search.
 
 ## Before you begin
 
-Create your result improvement rule first to define your trigger conditions. For steps to [[create-result-improve-rule-ais|create a result improvement rule]], see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
+Create your result improvement rule first to define your trigger conditions. For steps to create a result improvement rule, see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
 
 Role required: ais\_admin
 
@@ -40,7 +40,7 @@ Promote actions define search results to spotlight in the result set. When a res
 
 5.  Edit the **Order** values for the result improvement rule's promote actions.
 
-    The **Order** field only accepts integer values. [[ia-ai-search|AI Search]] evaluates promote actions with lower **Order** values before promote actions with higher values. As an example, a promote action with **Order** 150 is evaluated before one with **Order** 200.
+    The **Order** field only accepts integer values. AI Search evaluates promote actions with lower **Order** values before promote actions with higher values. As an example, a promote action with **Order** 150 is evaluated before one with **Order** 200.
 
 
 ## What to do next
@@ -49,8 +49,3 @@ To make new or updated result improvement rule settings take effect, publish the
 
 **Parent Topic:**[Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[create-result-improve-rule-ais|Create a result improvement rule]]
-- [[ia-ai-search|AI Search]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 # Configuration Compliance change management
 
-As an IT remediation owner, you can create and manage change requests \(CHG\) directly from remediation tasks \(RTs\) in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+As an IT remediation owner, you can create and manage change requests \(CHG\) directly from remediation tasks \(RTs\) in the Configuration Compliance application.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -30,7 +30,7 @@ Change requests and change management are part of the remediation process of the
 
 The Configuration Compliance application works with the ServiceNow AI Platform® IT change management process to help you remediate non-compliant software and technologies in your environment.
 
-With change management in the Configuration Compliance application, you can associate test results to existing change requests, or [[cc-split-CRG|split a remediation task]] and create a new remediation task only for selected test results.
+With change management in the Configuration Compliance application, you can associate test results to existing change requests, or split a remediation task and create a new remediation task only for selected test results.
 
 For more information, see [Create a change request in Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-CR-v12-create.md).
 
@@ -88,7 +88,3 @@ You can create, approve, implement, review, and close change requests directly f
 -   Normal. Normal change requests follow a prescriptive process which requires two levels of approval before being implemented, reviewed, and closed.
 -   Emergency. A change to resolve a major incident.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[cc-split-CRG|Split a remediation task]]

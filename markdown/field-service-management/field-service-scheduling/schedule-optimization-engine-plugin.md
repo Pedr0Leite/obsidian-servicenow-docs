@@ -14,7 +14,7 @@ breadcrumb: [Schedule Optimization, Setting up a Field Service scheduling method
 
 # Activate Schedule Optimization
 
-Activate the [[schedule-optimization|Schedule Optimization]] plugin \(com.snc\_schedule\_optimization\) for [[fsm-application-landing-page|Field Service Management]] with the administrator role.
+Activate the Schedule Optimization plugin \(com.snc\_schedule\_optimization\) for Field Service Management with the administrator role.
 
 ## Before you begin
 
@@ -170,7 +170,3 @@ Defines the alternate policies eligible for an on-demand optimization run for a 
 
 [Create a policy for Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-policies-schedule-optimization.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[fsm-application-landing-page|Field Service Management]]

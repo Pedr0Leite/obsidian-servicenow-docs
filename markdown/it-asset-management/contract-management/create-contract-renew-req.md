@@ -14,22 +14,22 @@ breadcrumb: [Contract renewal workflow, Contract Management, IT Asset Management
 
 # Create a contract renewal request
 
-Create a contract renewal request for [[c_Contracts|contracts]] that are nearing their expiry date or are already expired.
+Create a contract renewal request for contracts that are nearing their expiry date or are already expired.
 
 ## Before you begin
 
-Role required: contract\_system\_admin, asset, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: contract\_system\_admin, asset, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
-You can create a renewal request only for Maintenance, Warranties, Subscriptions, and Software Licenses. If you have installed only the [[c_SoftwareAssetMgmt|Software Asset Management]] application, you can renew Subscriptions, Maintenance, and Software Licenses contracts. If you have installed only the [[ham-landing-page|Hardware Asset Management]] application, you can renew Maintenance and Warranties contracts.If you have installed only the [[enterprise-asset-management|Enterprise Asset Management]] application, you can renew Maintenance and Warranties contracts.
+You can create a renewal request only for Maintenance, Warranties, Subscriptions, and Software Licenses. If you have installed only the Software Asset Management application, you can renew Subscriptions, Maintenance, and Software Licenses contracts. If you have installed only the Hardware Asset Management application, you can renew Maintenance and Warranties contracts.If you have installed only the Enterprise Asset Management application, you can renew Maintenance and Warranties contracts.
 
 ## Procedure
 
 1.  Open the list of contracts that you want to renew.
 
     -   If you are using the core UI, navigate to **All** &gt; **Contracts** &gt; **Contract Renewal**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **Overview** tab. In the Contract overview section, locate the Expiring contract widget.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **Overview** tab. In the Contract overview section, locate the Expiring contract widget.
 
         Alternatively, open the Contract management view and then select a tab for a contract type, such as **All** or **Maintenance**.
 
@@ -137,12 +137,3 @@ If the parent contract doesn't have child contracts, select the [Build renewal t
 
 If the parent contract has child contracts, select the [Contract selection task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-contract.md).
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[contract-mgmt-view-am|Contract management view]]

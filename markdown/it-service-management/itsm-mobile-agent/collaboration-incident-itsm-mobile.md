@@ -14,10 +14,10 @@ breadcrumb: [My incidents, Managing incidents and tasks using My Work applet, IT
 
 # Collaboration with incidents
 
-Initiate and manage the collaboration for incident records from the [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+Initiate and manage the collaboration for incident records from the ITSM Mobile Agent app.
 
 -   **[Initiate a chat with the caller from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/initiate-chat-incident-itsm-mobile.md)**  
-[[initiate-chat-incident-itsm-mobile|Initiate a chat with the caller from an incident]] to discuss about the resolution of an incident.
+Initiate a chat with the caller from an incident to discuss about the resolution of an incident.
 -   **[Initiate a chat with the assignment group from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/initiate-chat-assignment-group-itsm-mobile.md)**  
 Initiate a chat with the assignment group members from an incident to discuss about the resolution of an incident.
 -   **[Initiate a conference call with the caller from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/initiate-conf-call-inc-itsm-mobile.md)**  
@@ -25,7 +25,7 @@ Initiate a conference call from an incident to discuss about the resolution of a
 -   **[Add participants to a conference call from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/add-participants-inc-call-itsm-mobile.md)**  
 Add participants to an active conference call from an incident to discuss about the resolution of an incident.
 -   **[Join an active conference call from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/join-call-inc-itsm-mobile.md)**  
-You can [[join-call-inc-itsm-mobile|join an active conference call from an incident]] to discuss about the resolution of an incident.
+You can join an active conference call from an incident to discuss about the resolution of an incident.
 -   **[View active collaborations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/active-collaborations-inc-itsm-mobile.md)**  
 As an incident manager, you can view all the active collaborations for the incidents.
 -   **[View active and inactive participants in the conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/view-participants-inc-call-itsm-mobile.md)**  
@@ -35,8 +35,3 @@ As a host or a user with the incident manager role, you can end the conference c
 
 **Parent Topic:**[My incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/assigned-incidents-mobile.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[initiate-chat-incident-itsm-mobile|Initiate a chat with the caller from an incident]]
-- [[join-call-inc-itsm-mobile|Join an active conference call from an incident]]

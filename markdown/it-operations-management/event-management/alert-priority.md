@@ -202,7 +202,7 @@ Calculating alert priority is based on all of a group's alerts, and not only the
 -   State not-equal to **Closed**
 -   Severity not-equal to **OK**
 
-Alerts that are queued for priority calculation are listed in the `em_alert_trigger_queue` table. In the Scheduled Jobs table, there are two `[[c_EM|Event Management]] - Alert Priority Queue` jobs. These two jobs can run in parallel. You can use `Insert and Stay` to create another job. The `Event Management - Alert Priority Queue` job runs once every minute and calculates priorities in batches of 1000 open alerts. There are multiple factors that determine the value of the priority of an alert. A change in severity triggers an immediate update of the alert priority score. In this case, only the severity-part of the priority is changed, together with severity information in the **Priority Breakdown** area of the **More Information** tab.
+Alerts that are queued for priority calculation are listed in the `em_alert_trigger_queue` table. In the Scheduled Jobs table, there are two `Event Management - Alert Priority Queue` jobs. These two jobs can run in parallel. You can use `Insert and Stay` to create another job. The `Event Management - Alert Priority Queue` job runs once every minute and calculates priorities in batches of 1000 open alerts. There are multiple factors that determine the value of the priority of an alert. A change in severity triggers an immediate update of the alert priority score. In this case, only the severity-part of the priority is changed, together with severity information in the **Priority Breakdown** area of the **More Information** tab.
 
 ## Triggers that cause recalculation
 
@@ -288,6 +288,3 @@ You can change the importance of some categories of the alert priority, by modif
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

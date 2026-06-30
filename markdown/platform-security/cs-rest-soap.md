@@ -12,13 +12,10 @@ breadcrumb: [Using Code Signing, Code Signing, Platform Security]
 
 # Sign the REST and SOAP messages in the production instance
 
-Use update sets to sign and validate the REST and SOAP messages by enabling the [[code-signing-landing|code signing]] in protected and trusted instances.
+Use update sets to sign and validate the REST and SOAP messages by enabling the code signing in protected and trusted instances.
 
 ## Before you begin
 
 -   Establish Circle of Trust between the protected and trusted instances.
 -   Role required: security\_admin
 
-## Related
-
-- [[code-signing-landing|Code Signing]]

@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server FIPS Enforced Mode
 
-The [[mid-server-landing|MID Server]] supports the National Security Cloud \(NSC\) IL-5 environment, which requires all utilized cryptography to be FIPS validated. The MID server can be run in FIPS Enforced Mode, where only cryptographic algorithms which are FIPS validated are utilized.
+The MID Server supports the National Security Cloud \(NSC\) IL-5 environment, which requires all utilized cryptography to be FIPS validated. The MID server can be run in FIPS Enforced Mode, where only cryptographic algorithms which are FIPS validated are utilized.
 
 <table id="table_yfh_kv4_nhb"><tbody><tr><td>
 
@@ -144,6 +144,4 @@ To manually convert the MID Server to FIPS Enforced Mode while using an external
 
     The line should read: `wrapper.java.additional.106=-Dorg.bouncycastle.fips.approved_only=true`
 
-## Related
 
-- [[mid-server-landing|MID Server]]

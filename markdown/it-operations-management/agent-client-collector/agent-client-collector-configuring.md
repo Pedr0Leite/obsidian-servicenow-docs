@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector, IT Operations Management]
 
 # Configuring Agent Client Collector
 
-Plan and configure your [[acc-landing-page|Agent Client Collector]] implementation.
+Plan and configure your Agent Client Collector implementation.
 
 Agent Client Collector configuration typically follows these steps:
 
@@ -23,6 +23,3 @@ Agent Client Collector configuration typically follows these steps:
 3.  [Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 4.  [Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

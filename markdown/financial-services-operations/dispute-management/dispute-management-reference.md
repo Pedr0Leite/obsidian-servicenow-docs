@@ -17,15 +17,11 @@ breadcrumb: [Dispute Management, Banking applications, Financial Services Operat
 Learn about managing the archive dispute service case and the retention policy of inactive cases.
 
 -   **[Manage the Archive Dispute Service Cases rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-service-case-archival.md)**  
-Manage the archive rule that is provisioned in the Card Disputes Service Case table of the [[card-ops-landing-page|Financial Services Card Operations]] application. With this rule, your organization can meet your dispute service case archiving requirements. By default, inactive cases that are more than two years old are automatically archived.
+Manage the archive rule that is provisioned in the Card Disputes Service Case table of the Financial Services Card Operations application. With this rule, your organization can meet your dispute service case archiving requirements. By default, inactive cases that are more than two years old are automatically archived.
 -   **[Unsupported features in Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/unsupported-features-in-dispute-management.md)**  
-Learn about features in [[dispute-management|Dispute Management]] that are currently not supported.
+Learn about features in Dispute Management that are currently not supported.
 -   **[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/wsud-troubleshooting-reference.md)**  
 This reference topic provides troubleshooting topics for common issues in the Written Statement for Unauthorized Debit \(WSUD\) process. This includes customer signature activities, email notifications, and document verification tasks.
 
 **Parent Topic:**[Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[dispute-management|Dispute Management]]

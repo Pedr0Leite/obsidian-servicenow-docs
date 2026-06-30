@@ -26,7 +26,7 @@ Adding an icon to a specific widget keeps the icon scoped and prevents it from i
 
 ## Procedure
 
-1.  In the platform UI, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Widgets**, then click the widget you want to add an icon to.
+1.  In the platform UI, navigate to **Service Portal** &gt; **Widgets**, then click the widget you want to add an icon to.
 
 2.  Attach the individual icon file to the widget record.
 
@@ -99,6 +99,3 @@ To use custom font-icons across widgets, add the icon to a page or make it a wid
 
 [Include font icons as a widget dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/font-icons-dependency.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

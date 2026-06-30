@@ -16,11 +16,11 @@ Add, remove, rename, and view attachments in your mobile record screens.
 
 ## Enable attachments on your mobile record screens
 
-You can enable attachments on a mobile [[form-screen|record screen]]. Navigate to your record screen in [[mab-concept|Mobile App Builder]]. Find and select the **Activity Stream** entry in the configuration tree. Then, select **Show "Attachment" button** option in the **Settings** section of the configuration panel.
+You can enable attachments on a mobile record screen. Navigate to your record screen in Mobile App Builder. Find and select the **Activity Stream** entry in the configuration tree. Then, select **Show "Attachment" button** option in the **Settings** section of the configuration panel.
 
 \[Omitted image "mobile-attach-checkbox.png"\] Alt text: Attachment check box on the screen configuration form in Mobile App Builder.
 
-For details on the record screen configuration, see [[sg-configure-form-applet|Configure a record screen for use with a list screen]].
+For details on the record screen configuration, see [Configure a record screen for use with a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-form-applet.md).
 
 ## View the attachment list on your record screens
 
@@ -79,8 +79,3 @@ To rename an attachment, tap the **Rename** \(\[Omitted image "sg-button-rename-
 </td></tr></tbody>
 </table>**Note:** The ability to perform these actions are controlled by the Access Control List rules on your instance.
 
-## Related
-
-- [[sg-configure-form-applet|Configure a record screen for use with a list screen]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]

@@ -20,10 +20,10 @@ Add spaces to an area to make them available for reservation. On the Reservation
 
 The following plugins should be installed:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Central
+-   Workplace Reservation Management
+-   Workplace Space Management
+-   Workplace Core
 
 Ensure that the area to which you are assigning spaces is configured in the application.
 
@@ -41,7 +41,7 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_rsv.admin
 
 ## About this task
 
-Assign desks or spaces that belong to an area. When an employee searches for an area to [[reservation-portal|make a reservation]], all the available spaces or desks that belong to that area are displayed. You can add spaces individually or in bulk. For example, you can add spaces individually like C1 and C2, or you can add one space C with a quantity of 100.
+Assign desks or spaces that belong to an area. When an employee searches for an area to make a reservation, all the available spaces or desks that belong to that area are displayed. You can add spaces individually or in bulk. For example, you can add spaces individually like C1 and C2, or you can add one space C with a quantity of 100.
 
 ## Procedure
 
@@ -57,7 +57,7 @@ Assign desks or spaces that belong to an area. When an employee searches for an 
 
     2.  In the list, select **View** &gt; **Workplace**.
 
-4.  On the [[space-new-record-form|Space form]], in the **Organization details** tab, select the area in the **Area** field.
+4.  On the Space form, in the **Organization details** tab, select the area in the **Area** field.
 
 5.  To add a bulk quantity of this space, specify a quantity in **Reservable quantity** field in the **Extra information** tab.
 
@@ -122,11 +122,3 @@ To view the spaces assigned to an area, navigate to **Workplace Core** &gt; **Sp
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]
-- [[space-new-record-form|Space form]]

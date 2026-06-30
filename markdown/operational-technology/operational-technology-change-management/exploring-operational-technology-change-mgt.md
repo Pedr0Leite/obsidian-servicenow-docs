@@ -14,11 +14,11 @@ breadcrumb: [Operational Technology Change Management, Operational Technology]
 
 # Exploring Operational Technology Change Management
 
-Learn more about the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application.
+Learn more about the Operational Technology Change Management application.
 
 ## Operational Technology Change Management overview
 
-Watch an overview about the [[operational-technology-overview|Operational Technology]] Service Management product suite to learn more about the Operational Technology Change Management application.\[Omitted video\] Description: Operational Technology Service Management overview video
+Watch an overview about the Operational Technology Service Management product suite to learn more about the Operational Technology Change Management application.\[Omitted video\] Description: Operational Technology Service Management overview video
 
 ## Key features
 
@@ -27,7 +27,7 @@ With the Operational Technology Change Management application, you can use the f
 -   Digitized change workflow that connects all stakeholders.
 -   Sites that have different change management processes \(workflows\).
 -   Separated IT Change Management and Operational Technology Change Management, but ability to be combined if necessary.
--   Integrated Operational Technology Change Management workflow with the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] and [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] applications.
+-   Integrated Operational Technology Change Management workflow with the Operational Technology Incident Management and Operational Technology Vulnerability Response applications.
 -   Aligned factory floor changes for the equipment model entities with downtime schedules.
 
 -   **[Using Operational Technology Change Management to optimize your production process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-request.md)**  
@@ -35,9 +35,3 @@ The Operational Technology Change Management application enables your team membe
 
 **Parent Topic:**[Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

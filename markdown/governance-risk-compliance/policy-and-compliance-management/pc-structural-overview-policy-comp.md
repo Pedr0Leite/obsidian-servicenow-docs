@@ -14,7 +14,7 @@ breadcrumb: [Explore, Policy and Compliance Management, Governance, Risk, and Co
 
 # Structural overview of Policy and Compliance Management
 
-The structural overview of Policy and Compliance Management enables you to understand how the different modules that make up the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application of ServiceNow integrate and interact with one another.
+The structural overview of Policy and Compliance Management enables you to understand how the different modules that make up the Policy and Compliance Management application of ServiceNow integrate and interact with one another.
 
 \[Omitted image "p-c-process-flow-comp-updte-ovrv.png"\] Alt text: Infographic for structural process flow of the modules in Policy and Compliance. For text description refer to the steps in the process flow.
 
@@ -86,13 +86,10 @@ The structural overview of Policy and Compliance Management enables you to under
 
 -   **Issue**
 
-    If a gap is identified while testing a control, then that gap is termed as an issue. Issues can include operational observations from audits, regulatory compliance violations, security breaches, or other negative results. Or, when a control test fails and is non-compliant, an issue is created. Issues can be shared amongst the Policy and Compliance Management, Risk Management, and [[c_GRCAudits|Audit Management]] GRC applications. You can measure the effectiveness of your company's risk management program by how quickly and thoroughly it identifies and reacts to risk and compliance issues.
+    If a gap is identified while testing a control, then that gap is termed as an issue. Issues can include operational observations from audits, regulatory compliance violations, security breaches, or other negative results. Or, when a control test fails and is non-compliant, an issue is created. Issues can be shared amongst the Policy and Compliance Management, Risk Management, and Audit Management GRC applications. You can measure the effectiveness of your company's risk management program by how quickly and thoroughly it identifies and reacts to risk and compliance issues.
 
 -   **Remediation task**
 
     After an issue is confirmed, the organization identifies necessary steps to remediate the issue. To mitigate a risk you can create a remediation task to track the remediation work. If a triage was performed, the triage issue is converted into an actual issue or risk event. You can also track the issue as a recommendation or close it as a non-issue.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

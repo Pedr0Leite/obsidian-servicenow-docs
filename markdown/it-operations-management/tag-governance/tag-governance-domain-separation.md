@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance reference, Tag Governance, ITOM Visibility, IT Opera
 
 # Domain separation and Tag Governance
 
-Domain separation is supported in [[landing-page-tag-governance|Tag Governance]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Tag Governance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -43,6 +43,3 @@ To ensure that domain-sensitive information is not available at a global domain,
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]

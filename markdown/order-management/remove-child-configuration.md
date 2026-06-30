@@ -25,7 +25,7 @@ Role required: none
 
 1.  Navigate to the parent configuration that contains the configurable product action you want to deactivate.
 
-    For steps on navigating between configurations, see [[navigate-solution|Navigate within a solution]].
+    For steps on navigating between configurations, see [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md).
 
 2.  Change the field values or selections so that the condition for the configurable product action evaluates to false.
 
@@ -40,10 +40,10 @@ The child configuration is removed from the session, along with all field values
 
 After removing a child configuration:
 
--   To confirm that the products from that configuration are no longer in the BOM, see [[view-solution-bom|View the solution bill of materials]].
--   To add a different child configuration in its place, trigger the appropriate configurable product action. See [[add-configurable-products-solution|Add configurable products to a solution]].
+-   To confirm that the products from that configuration are no longer in the BOM, see [View the solution bill of materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-solution-bom.md).
+-   To add a different child configuration in its place, trigger the appropriate configurable product action. See [Add configurable products to a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-configurable-products-solution.md).
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
@@ -52,9 +52,3 @@ After removing a child configuration:
 
 [View the solution bill of materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-solution-bom.md)
 
-## Related
-
-- [[navigate-solution|Navigate within a solution]]
-- [[view-solution-bom|View the solution bill of materials]]
-- [[add-configurable-products-solution|Add configurable products to a solution]]
-- [[cpq-using|Using CPQ]]

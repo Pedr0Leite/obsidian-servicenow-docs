@@ -14,7 +14,7 @@ breadcrumb: [Portal content, Creating employee communications, Authoring and man
 
 # Add or modify links to other content sources
 
-Use link content to create URL or video links. You can use these links on the [[employee-center-landing-page|Employee Center]], in a campaign, or in Communities \(when Communities is installed\).
+Use link content to create URL or video links. You can use these links on the Employee Center, in a campaign, or in Communities \(when Communities is installed\).
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_cd.content\_manager
 
 3.  Click **Submit**, **Update**, or **Save**
 
-    If you select **Save**, the **[[ec-streamline-content|Portal Content]]** tab appears. To associate portal content to your link, you must first create portal content and associate it via the **Link** field on the **Portal Content** form. For more information, see [Create calendar content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-calendar.md).
+    If you select **Save**, the **Portal Content** tab appears. To associate portal content to your link, you must first create portal content and associate it via the **Link** field on the **Portal Content** form. For more information, see [Create calendar content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-calendar.md).
 
 
 ## What to do next
@@ -44,7 +44,3 @@ Use the Content Library to create content that includes the link and publish it 
 
 **Note:** The option to open links in a new tab is only supported in the Service Portal. In the mobile app and Workspace, links will open in the current window, regardless of the **Load link in** configuration.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-streamline-content|Portal content]]

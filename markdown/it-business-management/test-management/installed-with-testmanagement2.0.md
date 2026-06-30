@@ -14,7 +14,7 @@ breadcrumb: [Activate Test Management 2.0, Test Management 2.0, Test Management 
 
 # Installed with Test Management 2.0
 
-Several types of components are installed with activation of the [[test-management2-landing-page|Test Management 2.0]] plugin \(com.snc.sdlc.test\_management\), including tables, and user roles.
+Several types of components are installed with activation of the Test Management 2.0 plugin \(com.snc.sdlc.test\_management\), including tables, and user roles.
 
 ## Roles installed
 
@@ -36,7 +36,7 @@ Tester\[sn\_test\_management.tester\]
 
 </td><td>
 
-Can create [[c_Tests|tests]], and group similar tests to a test set.
+Can create tests, and group similar tests to a test set.
 
 </td><td>
 
@@ -48,7 +48,7 @@ Test Managersn\_test\_management.test\_manager
 
 </td><td>
 
-Can create tests, group similar tests into test sets, manage [[c_TestPlans|test plans]], and view the run results.
+Can create tests, group similar tests into test sets, manage test plans, and view the run results.
 
 </td><td>
 
@@ -187,9 +187,3 @@ Stores details of test versions.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

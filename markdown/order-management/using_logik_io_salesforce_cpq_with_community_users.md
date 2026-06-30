@@ -37,7 +37,7 @@ This article is for anyone that needs to use ServiceNow CPQ and Salesforce CPQ w
 
 A runtime client is required to authenticate community users. If a runtime client is not already available, follow these steps to create one:
 
-1.  In CPQ Admin, go to [[cpq-utilities|Utilities]] &gt; Runtime Clients and click **+ New**.
+1.  In CPQ Admin, go to Utilities &gt; Runtime Clients and click **+ New**.
 2.  Provide a name, make sure at least Config is selected under "Permissions", and add the CPQ siteʼs URL to Origins.
 
     The Origin must be exact: it must include https://, and should have one origin with the trailing "/" and one without. On https://dev5.dev.logik.io, there should be an Origin of https://dev5.dev.logik.io and https://dev5.dev.logik.io/.
@@ -72,6 +72,4 @@ A runtime client is required to authenticate community users. If a runtime clien
 
     This field may be set to a full URL in CPQ, such https://dev5.dev.logik.io/ui/configure. The new value /apex/LGK \_CpqConfiguration is meant to be compatible with both Salesforce and Community users, so it can replace the CPQ URL.
 
-## Related
 
-- [[cpq-utilities|Utilities]]

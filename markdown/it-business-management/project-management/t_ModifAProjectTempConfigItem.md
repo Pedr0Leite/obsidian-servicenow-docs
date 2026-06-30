@@ -26,7 +26,7 @@ Role required: it\_pps\_admin
 
 2.  Select a configuration item from the list.
 
-3.  Make any desired changes to the fields on the [[c_ProjectTemplateConfiguration|Project Template Configuration]] form.
+3.  Make any desired changes to the fields on the Project Template Configuration form.
 
 4.  Select **Update**.
 
@@ -44,6 +44,3 @@ Role required: it\_pps\_admin
 
 [Add a project template configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AddNewProjTempConfigItem.md)
 
-## Related
-
-- [[c_ProjectTemplateConfiguration|Project template configuration]]

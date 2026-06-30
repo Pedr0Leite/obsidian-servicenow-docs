@@ -14,7 +14,7 @@ breadcrumb: [Configure Self-Service Analytics, Configuring Knowledge Management,
 
 # Configure activity contexts for Self-Service Analytics
 
-Define the type of activities you want to collect as [[self-service-analytics|Self-Service Analytics]] data for a user entity such as consumers and customer contacts.
+Define the type of activities you want to collect as Self-Service Analytics data for a user entity such as consumers and customer contacts.
 
 ## Before you begin
 
@@ -213,6 +213,3 @@ Option to enable a business rule defined for an activity type.
 
 **Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 
-## Related
-
-- [[self-service-analytics|Self-Service Analytics]]

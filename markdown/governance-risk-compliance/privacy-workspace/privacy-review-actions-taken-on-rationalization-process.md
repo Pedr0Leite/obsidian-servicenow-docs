@@ -25,7 +25,7 @@ Role required: sn\_reco\_template.rationalization\_process\_writer and sn\_grc\_
 During the review process, the reviewer has several options to manage the actions taken by the owner on the recommended control objectives:
 
 -   The reviewer can approve or reject the recommendations based on their assessment of the actions taken by the owner.
--   If the owner of a control objective is also listed as a reviewer in the [[bcm-approval-configuration|approval configuration]], their approval is skipped automatically and the rationalization process moves to the next state.
+-   If the owner of a control objective is also listed as a reviewer in the approval configuration, their approval is skipped automatically and the rationalization process moves to the next state.
 -   The reviewer can change the actions taken by the owner. For example, if the owner dismissed a control objective as not duplicate, the reviewer can mark it as a duplicate instead and provide their justification for it.
 -   The reviewer can view all impacts and associated items related to the control objectives and make necessary adjustments.
 -   The reviewer can provide feedback on the recommendations, which will be visible to the owner for further action.
@@ -63,6 +63,3 @@ The owner can refer to the summary to view the reviewer's updates and feedback.
 -   If the review is approved, the owner can move to the consolidated state.
 -   If the review is rejected, the owner can take the necessary actions and send for review again.
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

@@ -28,7 +28,7 @@ The Document screening generative AI skill automatically analyzes documents uplo
 
 1.  Navigate to a social benefits, license and permit, or information request case in the CSM Configurable Workspace.
 
-2.  Complete the activities in the Review stage once the constituent has uploaded their documents and other supporting information through the [[gsp-overview-public-sector|Government Service Portal]] and the case is moved from Intake to Review stage.
+2.  Complete the activities in the Review stage once the constituent has uploaded their documents and other supporting information through the Government Service Portal and the case is moved from Intake to Review stage.
 
     \[Omitted image "verify-docs-review-stage.png"\] Alt text: Asset analysis summary with comprehensive asset information and list of action items
 
@@ -57,6 +57,4 @@ The Document screening generative AI skill automatically analyzes documents uplo
 
     Any documents in the **Pre-Screened** state are changed to **Verified**.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms with inventory reports in the Enterprise Asset Wo
 
 # Identify the supply for open demands in the Enterprise Asset Workspace
 
-Use the Open demands report to determine available stock within local [[c_Stockrooms|stockrooms]] and distribution channels to fulfill sourcing requests that are open.
+Use the Open demands report to determine available stock within local stockrooms and distribution channels to fulfill sourcing requests that are open.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **[[c_Procurement|Procurement]]**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Procurement**.
 
 2.  In the Procurement overview, select **Open demands**.
 
@@ -41,8 +41,3 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 **Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-inventory-reports.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Procurement|Procurement]]

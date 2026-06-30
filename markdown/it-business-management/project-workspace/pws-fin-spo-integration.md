@@ -24,7 +24,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-Project managers can navigate from [[project-workspace-landing-page|Project Workspace]] to procurement applications and create purchase requests for their projects. The ordered purchase requests are reflected in the Project Workspace. After the purchase request is processed, the purchase line, cost plan, and expense lines are automatically generated. For more information about the integration, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/integration-psm-ppm.md).\[Omitted image "Financials-SPO-better-together.png"\] Alt text: Financials SPO better together workflow diagram.
+Project managers can navigate from Project Workspace to procurement applications and create purchase requests for their projects. The ordered purchase requests are reflected in the Project Workspace. After the purchase request is processed, the purchase line, cost plan, and expense lines are automatically generated. For more information about the integration, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/integration-psm-ppm.md).\[Omitted image "Financials-SPO-better-together.png"\] Alt text: Financials SPO better together workflow diagram.
 
 ## Procedure
 
@@ -98,7 +98,7 @@ Role required: it\_project\_manager
 
 3.  Select the **Cost Plans** related list.
 
-    **Note:** The cost plan is reflected in Financials along with additional details such as start and end fiscal period, planned [[cost-plan-breakdown|cost plan breakdown]] for each fiscal period.
+    **Note:** The cost plan is reflected in Financials along with additional details such as start and end fiscal period, planned cost plan breakdown for each fiscal period.
 
     As next steps, a purchase order is processed and an invoice is generated. An invoice line is created which captures the actual expense of the purchase request. You can view the expense lines generated from the processed invoice from Project Workspace.
 
@@ -113,7 +113,3 @@ Role required: it\_project\_manager
 
 The processed purchase request is tagged to the selected project. Financials records such as cost plans and expense lines are automatically created and associated with the project expense.
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

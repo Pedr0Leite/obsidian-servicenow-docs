@@ -33,9 +33,9 @@ Security Incident Response reporting workflow consists of the following steps:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience incident reporting** &gt; **All incident reporting cases**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience incident reporting** &gt; **All incident reporting cases**.
 
-2.  Open the Digital resilience incident case from the [[list-view-uib-ws|list view]].
+2.  Open the Digital resilience incident case from the list view.
 
     The following example shows the Digital resilience incident case generated from the Security Incident Response application.
 
@@ -51,7 +51,7 @@ Security Incident Response reporting workflow consists of the following steps:
 
     The assessment template is aligned with the Digital Operational Resilience classification for major Information and Communication Technology \(ICT\) incidents. The same assessment template is tagged in the reported incident.
 
-    The analyst assigned to the case assesses the incident's impact on [[factors|factors]] such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
+    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
 3.  Select **Accept work**.
 
@@ -79,13 +79,13 @@ Security Incident Response reporting workflow consists of the following steps:
 
 10. Navigate to the **Assessment** tab and respond to the assessment for DRI initial report.
 
-    The first assessment, which is the regulatory reporting assessment, is used to determine if the incident needs to be reported to regulatory authorities. For reportable incidents, three [[airc-assessment-templates|assessment templates]] are created for the initial, intermediate, and final report in the Assessment Workspace.
+    The first assessment, which is the regulatory reporting assessment, is used to determine if the incident needs to be reported to regulatory authorities. For reportable incidents, three assessment templates are created for the initial, intermediate, and final report in the Assessment Workspace.
 
     In this case, an assessment is already created in the **Assessment** tab of the action task, where you can provide incident details. Automation used in the assessment template helps to collect information and calculate responses quickly.
 
     The date of detection and classification are pre-filled, and some fields are auto-populated. You can automate or manually configure the remaining responses. Once all answers are provided, generate an Excel sheet and submit it to regulatory authorities.
 
-11. To [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select **Submit** and generate an Excel sheet.
+11. To submit the assessment, select **Submit** and generate an Excel sheet.
 
     You can submit the Excel sheet to the regulatory authorities.
 
@@ -105,10 +105,4 @@ Security Incident Response reporting workflow consists of the following steps:
 
 14. To save the case record, select **Save**.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[factors|factors]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

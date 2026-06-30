@@ -14,7 +14,7 @@ breadcrumb: [Create requests within your EMR system, EMR Help, Healthcare and Li
 
 # Virtual Agent in EMR Help
 
-Virtual Agent, ServiceNow’s conversational bot platform, is available when creating requests from the [[emr-exploring|EMR Help]] portal.
+Virtual Agent, ServiceNow’s conversational bot platform, is available when creating requests from the EMR Help portal.
 
 Virtual Agent can be used to quickly obtain information, make decisions, and perform common work tasks.
 
@@ -22,6 +22,3 @@ To interact with Virtual Agent, simply click the chat window icon on the bottom 
 
 For more information on Virtual Agent, see [Virtual Agent as an application design element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/virtual-agent.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]

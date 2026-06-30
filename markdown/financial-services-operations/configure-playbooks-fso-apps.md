@@ -12,7 +12,7 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Configure playbooks
 
-Review the playbooks that are available with [[fso-overview|Financial Services]] Operations applications to check they align to your business processes. You may need to customize them or design new ones as needed. You can still use the playbook activity definitions.​
+Review the playbooks that are available with Financial Services Operations applications to check they align to your business processes. You may need to customize them or design new ones as needed. You can still use the playbook activity definitions.​
 
 ## Before you begin
 
@@ -20,26 +20,26 @@ Ensure that the scope is selected for the application for which you are configur
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_credit\_card.admin and admin
--   For [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_credit\_card.admin and admin
+-   For Financial Services Complaint Management: sn\_bom\_compl.admin and admin
 -   For Financial Services Business Lifecycle: sn\_bom\_clo\_b2b.admin and admin
 -   For Financial Services Client Lifecycle: sn\_bom\_clo\_b2c.admin and admin
 -   For Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   For Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
--   For [[commercial-lines-claims-landing-page|Commercial Lines Claims]]: sn\_ins\_claim\_cml.admin and admin
--   For [[individual-life-servicing|Individual Life Servicing]]: sn\_ins\_policy\_b2c.admin and admin
--   For [[group-life-servicing|Group Life Servicing]]: sn\_ins\_policy\_b2b.admin and admin
+-   For Commercial Lines Claims: sn\_ins\_claim\_cml.admin and admin
+-   For Individual Life Servicing: sn\_ins\_policy\_b2c.admin and admin
+-   For Group Life Servicing: sn\_ins\_policy\_b2b.admin and admin
 -   For Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   For Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
--   For [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]: sn\_bom\_treasury.admin and admin
--   [[individual-life-claims-landing-page|Individual Life Claims]]: sn\_ins\_claim\_indl.admin and admin
--   [[insurance-claims-flow|Insurance claims]]: sn\_ins\_gen\_claim.admin and admin
+-   For Financial Services Treasury Operations: sn\_bom\_treasury.admin and admin
+-   Individual Life Claims: sn\_ins\_claim\_indl.admin and admin
+-   Insurance claims: sn\_ins\_gen\_claim.admin and admin
 
 ## About this task
 
 The playbooks are built using ServiceNow Playbooks, so make sure you’re familiar with [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md) basics.
 
-For information on playbooks that are installed with Financial Services Operations applications, see [[playbooks-fso-apps|Playbooks for Financial Services Operations applications]].
+For information on playbooks that are installed with Financial Services Operations applications, see [Playbooks for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/playbooks-fso-apps.md).
 
 **Note:** The playbooks in Financial Services Operations applications use the **CSM Configurable Workspace Playbook** playbook experience.
 
@@ -59,15 +59,4 @@ For information on playbooks that are installed with Financial Services Operatio
 
     For more information, see [Test a process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/test-process.md).
 
-## Related
 
-- [[playbooks-fso-apps|Playbooks for Financial Services Operations applications]]
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

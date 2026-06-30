@@ -20,7 +20,7 @@ Role required: events\_scheduler\_dashboard\_viewer and scheduler\_dasboard\_vie
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **[[events|System Events]] Dashboard**.
+1.  Go to **All** &gt; **System Diagnostics** &gt; **System Events Dashboard**.
 
     \[Omitted image "system-events-dashboard.png"\] Alt text: Image showing System Event Monitoring dashboard
 
@@ -91,7 +91,7 @@ Event Jobs on Schedule
 
 </td><td>
 
-Number of [[c_ScheduledJobs|scheduled jobs]] events that are on schedule.
+Number of scheduled jobs events that are on schedule.
 
 </td></tr></tbody>
 </table>## Scores-Current Scores
@@ -132,7 +132,7 @@ Role required: events\_scheduler\_dashboard\_viewer and scheduler\_dasboard\_vie
 
 1.  Go to **All** &gt; **System Policy** &gt; **Events** &gt; **Configure Alerts**.
 
-    The Events Alert [[clone-configurations-tab|Configurations]] list shows up.
+    The Events Alert Configurations list shows up.
 
 2.  Select one of the available alerts to make changes to the conditions that will trigger an alert.
 
@@ -150,9 +150,4 @@ Role required: events\_scheduler\_dashboard\_viewer and scheduler\_dasboard\_vie
 
 5.  Select **Reset alert** if the alert notification is no longer required.
 
-## Related
 
-- [[sys-diag|System Diagnostics]]
-- [[events|System Events]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[clone-configurations-tab|Configurations]]

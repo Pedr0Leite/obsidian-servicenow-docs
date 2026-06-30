@@ -14,7 +14,7 @@ breadcrumb: [Credentials Store for Password Reset for Active Directory, Credenti
 
 # Configure the connection to an AD credential store
 
-You can create a [[password-reset-landing-page|Password Reset]] credential store record to configure access to your Active Directory server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other settings.
+You can create a Password Reset credential store record to configure access to your Active Directory server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other settings.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
-The Microsoft AD Spoke for Password Reset add-on installs the AD Credential store type. The [[win-password-reset-overview|Password Reset Windows Application]] supports only **Microsoft AD Credential Store**.
+The Microsoft AD Spoke for Password Reset add-on installs the AD Credential store type. The Password Reset Windows Application supports only **Microsoft AD Credential Store**.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Auto-generate password
 
 </td><td>
 
-Specify a script include that generates a temporary password for use during the reset process.**Note:** If you select the **Enforce history policy** [[check-box|check box]], then you must specify a value for **Auto-generate password** that is compliant with the password policy. There are several options to choose from:
+Specify a script include that generates a temporary password for use during the reset process.**Note:** If you select the **Enforce history policy** check box, then you must specify a value for **Auto-generate password** that is compliant with the password policy. There are several options to choose from:
 
 -   An auto-generated password that is compliant with the policy you selected.
 -   An auto-generated password that is Crypto-secure.
@@ -69,7 +69,7 @@ Hostname
 
 </td><td>
 
-Specify the URL or [[ip-address|IP address]] of the credential store.
+Specify the URL or IP address of the credential store.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Default settings:-   Selected for local ServiceNow credential stores
 
     1.  Open the Password Reset process that is associated with the credential store: **Password Reset** &gt; **Processes**.
 
-    2.  On the **Password Reset Details** tab of the [[configure-password-reset-form|Password Reset Process form]], clear the **Auto-generate password** check box and then save the process definition.
+    2.  On the **Password Reset Details** tab of the Password Reset Process form, clear the **Auto-generate password** check box and then save the process definition.
 
 6.  To enforce the maximum number of attempts to reset the password, in the Password Reset Credential Store Parameters related list, set the value of the **max\_reset\_attempts** parameter to the number of allowed failed attempts.
 
@@ -155,10 +155,3 @@ Default settings:-   Selected for local ServiceNow credential stores
 
 [Configure the required strength for passwords](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-strength-rqmts.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]
-- [[configure-password-reset-form|Password Reset Process form]]

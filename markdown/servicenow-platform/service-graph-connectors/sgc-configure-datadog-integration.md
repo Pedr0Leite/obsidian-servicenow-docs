@@ -14,7 +14,7 @@ breadcrumb: [Observability-Datadog, Service Graph Connectors, Integrating third-
 
 # Configure Service Graph Connector for Observability - Datadog
 
-Pull in data from Datadog into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Pull in data from Datadog into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ Dependencies and requirements:
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
-**Note:** If you have an earlier version of the [[sgc-cmdb-integration-datadog|Service Graph Connector for Observability - Datadog]], then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for Observability - Datadog, then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
             **Note:** Do not modify the name of the default connection.
 
-        4.  In the **Connection URL** field, enter the base URL or [[ip-address|IP address]] for Datadog.
+        4.  In the **Connection URL** field, enter the base URL or IP address for Datadog.
         5.  In the **API key** field, enter the Datadog API token.
         6.  In the **Application key** field, enter the application key used for connecting to the Datadog API.
         7.  Select **Update**.
@@ -100,7 +100,7 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
     7.  In the **Name** column of the Datadog Webhooks list, select a monitor.
 
-    8.  On the Datadog Monitors page, select the **Webhook Active** [[check-box|check box]], and then select **Update**.
+    8.  On the Datadog Monitors page, select the **Webhook Active** check box, and then select **Update**.
 
     9.  Repeat steps [4.g](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-configure-datadog-integration.md) and [4.h](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-configure-datadog-integration.md) for all the monitors in the Datadog Webhooks list.
 
@@ -130,10 +130,3 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
 [Accessing the connection details of Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-datadog-conn.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgc-cmdb-integration-datadog|Service Graph Connector for Observability - Datadog]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[ip-address|IP Address]]
-- [[check-box|Check box]]

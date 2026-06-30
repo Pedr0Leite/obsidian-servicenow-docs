@@ -30,7 +30,7 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_allocation\_writer
 
 5.  Select **Split allocation** icon on that row.
 
-    A new row is inserted immediately below the original. The grouping/dimensions related [[fields|fields]] are copied from the original row. All other fields are blank.
+    A new row is inserted immediately below the original. The grouping/dimensions related fields are copied from the original row. All other fields are blank.
 
 6.  Update the Percentage \(or Amount\) on both the original row and the new row so that together they reflect the intended split — for example, 70% and 30%.
 
@@ -53,18 +53,12 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_allocation\_writer
     The allocation is split into two rows. Both rows are saved and displayed in the Allocations tab under the relevant allocation type.
 
 
-**Parent Topic:**[[manage-allocations|Manage allocations]]
+**Parent Topic:**[Manage allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-allocations.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[manage-allocations|Manage allocations]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]

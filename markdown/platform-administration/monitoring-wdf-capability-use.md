@@ -13,7 +13,7 @@ breadcrumb: [Viewing product subscription details, Explore, Subscription Managem
 
 # Monitoring Workflow Data Fabric capability usage with Subscription Management
 
-You can monitor Workflow Data Fabric capability usage and the relative token use rate of each capability with [[subscription-management-landing-page-v2|Subscription Management]].
+You can monitor Workflow Data Fabric capability usage and the relative token use rate of each capability with Subscription Management.
 
 ## Overview of monitoring Workflow Data Fabric capability usage
 
@@ -25,7 +25,7 @@ You can track token usage over time from the **Allocation summary** of a Workflo
 
 The **Token ratio** tab of the subscription details page shows the number of tokens expended each time a capability is used. Each row in the tab represents a capability. The **Column names** and **Column values** columns show how each capability is tracked.
 
-The following table shows [[clone-exclusions-preservers-cleanupscripts|definitions]] of the entries in the **Column names** column.
+The following table shows definitions of the entries in the **Column names** column.
 
 |Column name entry|definition|
 |-----------------|----------|
@@ -42,7 +42,3 @@ Match the entries under **Column names** to the entries under **Column values** 
 
 The first row under **Column values** displays "API\_ACCESS, 8." Because the entries under **Column values** correspond to capability\_id and exchange\_value from **Column names**, the capability\_id is "API\_ACCESS" and the exchange\_value is "8." In other words, a Workflow Data Fabric capability that requires API access expends eight tokens.
 
-## Related
-
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

@@ -24,7 +24,7 @@ Role required: user
 
 1.  Navigate to **All** &gt; **Success Dashboard** &gt; **Success Dashboard**.
 
-2.  Select **[[performance-overview-ref|Performance Overview]]** tab.
+2.  Select **Performance Overview** tab.
 
 3.  Select **Show calendar**.
 
@@ -41,6 +41,3 @@ Role required: user
 
 **Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/measuring-performance-success-dashboard.md)
 
-## Related
-
-- [[performance-overview-ref|Performance overview]]

@@ -26,7 +26,7 @@ Signal categories are the logical groups used to label and divide the signals. C
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Signal categories**.
+1.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Signal categories**.
 
 2.  Select **New**.
 
@@ -40,6 +40,4 @@ Signal categories are the logical groups used to label and divide the signals. C
 
 4.  Select **Submit**.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

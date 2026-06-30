@@ -22,9 +22,9 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Download the [[misp-integration-for-security-operations|MISP integration for Security Operations]] from the ServiceNow Store and install it.
+1.  Download the MISP integration for Security Operations from the ServiceNow Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the MISP -SIR/TI Integration tile and click **Configure**.
 
@@ -86,7 +86,7 @@ String field that identifies the MID Application name that is used to communicat
 
 After you successfully validate and submit the configuration, the MISP - SIR/TI Integration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[[misp-administration|MISP administration]]
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -109,8 +109,3 @@ After you successfully validate and submit the configuration, the MISP - SIR/TI 
 
 [Troubleshooting MISP integration]()
 
-## Related
-
-- [[misp-administration|MISP administration]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]
-- [[security-operations-landing-page|Security Operations]]

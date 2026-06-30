@@ -54,7 +54,7 @@ Uninstall the connected Microsoft Teams tenant from the original/registered Serv
 
     4.  Select the **Consent on behalf of your organization** option to provide the consent for all your users, and click **Accept** button to provide the admin consent.
 
-        \[Omitted image "sso-[[activity-lxp|activity]]-notification-admin-consent.png"\] Alt text: Admin consent for the app.
+        \[Omitted image "sso-activity-notification-admin-consent.png"\] Alt text: Admin consent for the app.
 
     5.  Once the tenant is mapped with the ServiceNow instance, you must authorize the apps by providing the admin consent.
 
@@ -62,7 +62,7 @@ Uninstall the connected Microsoft Teams tenant from the original/registered Serv
 
         \[Omitted image "uninstall-current-ms-teams-tenant1.png"\] Alt text: Authorize Azure apps
 
-        -   **SSO and Activity Notification**: Authorize this app to display **[[employee-center-landing-page|Employee Center]]** tab in Microsoft Teams app.
+        -   **SSO and Activity Notification**: Authorize this app to display **Employee Center** tab in Microsoft Teams app.
         -   **Notify Connector**: Authorize this app to enable agents to initiate a Microsoft Teams meeting from a task record.
         -   **Request-based Chats**: Authorize this app to enable the agents to initiate chat in Microsoft Teams and import chat messages to the respective record.
     6.  Authorize the apps as required.
@@ -125,7 +125,4 @@ Create the sn\_now\_azure.allow\_tenant\_override system property and set it to 
 
 9.  Authorize the apps by providing the admin consent after the tenant is mapped to the new ServiceNow instance.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

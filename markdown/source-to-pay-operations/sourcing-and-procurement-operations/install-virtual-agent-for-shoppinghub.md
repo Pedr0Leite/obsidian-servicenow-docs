@@ -27,7 +27,7 @@ Activate the following plugins:
 |Name|Description|
 |----|-----------|
 |Glide Virtual Agent \(com.glide.cs.chatbot\)|Activates the Virtual Agent framework and other necessary plugins. This is a prerequisite for the Shopping Virtual Agent plugin to work.|
-|Virtual Agent Experience Pack for [[psm-overview|Sourcing and Procurement Operations]] \(sn\_shop\_va\)|Activates a conversational bot platform for providing user assistance through conversations for Sourcing and Procurement Operations.|
+|Virtual Agent Experience Pack for Sourcing and Procurement Operations \(sn\_shop\_va\)|Activates a conversational bot platform for providing user assistance through conversations for Sourcing and Procurement Operations.|
 
 ## Procedure
 
@@ -56,6 +56,3 @@ Activate the following plugins:
 
 **Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

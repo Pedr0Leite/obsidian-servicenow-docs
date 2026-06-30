@@ -20,8 +20,5 @@ When you use an XML file to import state flows into an instance, the system atte
 
 When matching fails, the start and end states of affected records are left empty or contain numeric values. To repair these records, navigate to **State Flows** &gt; **Admin** &gt; **Rebuild State Flows**. This module runs a script that compares the numerical value of each item in the **State** field choice list until it finds a match in the imported state flow record.
 
-An example of when to rebuild a state flow is if you have state flows from another Service Now application, like Customer Service Management, and want to use them for [[fsm-application-landing-page|Field Service Management]]. You would export an XML file from the Customer Service Management state flows, then upload that XML file to the Field Service Management state flows. If there are mismatching states used in Customer Service Management and Field Service Management, then you must rebuild the Field Service Management state flows.
+An example of when to rebuild a state flow is if you have state flows from another Service Now application, like Customer Service Management, and want to use them for Field Service Management. You would export an XML file from the Customer Service Management state flows, then upload that XML file to the Field Service Management state flows. If there are mismatching states used in Customer Service Management and Field Service Management, then you must rebuild the Field Service Management state flows.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Assign roles to your Operational Technology Knowledge Management users
 
-Assign Knowledge Management roles to your users so that you can control their access to the features, capabilities, and data for [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]].
+Assign Knowledge Management roles to your users so that you can control their access to the features, capabilities, and data for Operational Technology Knowledge Management.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ For more information about the Knowledge Management roles applicable to Operatio
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]

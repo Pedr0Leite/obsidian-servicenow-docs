@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Transfer a primary ticket
 
-You can transfer a primary ticket back to [[ur-landing-limitedaccess|Universal Request]], service set \(department\), or service either with or without resolution.
+You can transfer a primary ticket back to Universal Request, service set \(department\), or service either with or without resolution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent part of the assignment group of the primary ticket or assig
 
 ## About this task
 
-Configure the **sn\_uni\_req.transfer\_type** property in the **[[ur-properties|Universal Request properties]]** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
 A routing agent can either resolve and close a primary ticket or transfer it to back to Universal Request or another department for review and closure. When a primary ticket is transferred back to UR, the ticket is no longer a primary ticket, and the primary ticket field of the Universal Request becomes empty.
 
@@ -77,7 +77,3 @@ The ticket is transferred based on the direct transfer mappings in mapping confi
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-properties|Universal Request properties]]

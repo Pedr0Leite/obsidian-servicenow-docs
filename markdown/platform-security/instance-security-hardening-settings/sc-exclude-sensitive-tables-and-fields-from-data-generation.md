@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Exclude Sensitive Tables and Fields from Data Generation \[New in Security Center 7.0\]
 
-Use [[ca-system-properties|system properties]] to exclude tables and fields from Data Generation, which is used to generate fake data sets based on existing data. Tables and fields that are added to these exclusion lists can't be used for Data Generation feature.
+Use system properties to exclude tables and fields from Data Generation, which is used to generate fake data sets based on existing data. Tables and fields that are added to these exclusion lists can't be used for Data Generation feature.
 
 Tables included in the **glide.data.generation.excluded.tables** system property are excluded from Data Generation in addition to metadata tables.
 
@@ -45,7 +45,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -102,7 +102,7 @@ Security risk
 
 -   Severity score: 2.6
 -   CVSS score: Low
--   Security risk details: Data in tables used in the Data Generation feature can have real or fake values populated as intended by the feature. Sensitive values in tables which should not be visible or replicated could be revealed to other instance [[users|users]].
+-   Security risk details: Data in tables used in the Data Generation feature can have real or fake values populated as intended by the feature. Sensitive values in tables which should not be visible or replicated could be revealed to other instance users.
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Data Generation plugin is in use
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

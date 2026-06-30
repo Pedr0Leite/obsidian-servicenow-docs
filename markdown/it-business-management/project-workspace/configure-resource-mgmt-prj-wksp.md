@@ -14,7 +14,7 @@ breadcrumb: [Configuring Project Workspace, Project Workspace, Project Portfolio
 
 # Configuring resources with Project Workspace
 
-Configure various aspects of Resource Management based on your requirements in [[project-workspace-landing-page|Project Workspace]] to allocate resources for your project.
+Configure various aspects of Resource Management based on your requirements in Project Workspace to allocate resources for your project.
 
 -   Review the [Project Workspace](https://store.servicenow.com/sn_appstore_store.do#!/store/application/47e2b69f533f201016f6ddeeff7b12fa) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   [Install Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/install-project-workspace.md).
@@ -23,6 +23,3 @@ Configure various aspects of Resource Management based on your requirements in [
 
 **Parent Topic:**[Configuring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

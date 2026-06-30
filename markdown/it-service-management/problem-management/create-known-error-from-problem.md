@@ -14,13 +14,13 @@ breadcrumb: [Communicating the outcome of a problem, Problem Management, IT Serv
 
 # Create a known error article
 
-Create known error articles as [[reference-for-itsm-mobile-agent|reference]] material. The known error articles document the root cause and the workaround of the problem to help with deflecting incidents.
+Create known error articles as reference material. The known error articles document the root cause and the workaround of the problem to help with deflecting incidents.
 
 ## Before you begin
 
 Role required: admin, problem\_admin, problem\_coordinator, or problem\_manager
 
-Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) and the Problem Management Best Practice — Madrid — Knowledge Integration \(com.snc.best\_practice.problem.madrid.knowledge\) plugin.
+Activate the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) and the Problem Management Best Practice — Madrid — Knowledge Integration \(com.snc.best\_practice.problem.madrid.knowledge\) plugin.
 
 ## About this task
 
@@ -34,7 +34,7 @@ After you create a known error article from a problem, the article is saved in t
 
 3.  Under **Related Links**, click **Create Known Error Article**.
 
-    **Note:** The link appears when the **Primary Known Error article** field is empty under the **Analysis Information** tab on the [[problem-form|Problem form]].
+    **Note:** The link appears when the **Primary Known Error article** field is empty under the **Analysis Information** tab on the Problem form.
 
 4.  Click **Submit**.
 
@@ -53,8 +53,3 @@ Click **Publish** to send the article for review and approval. Depending on the 
 
 **Parent Topic:**[Communicating the outcome of a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/communicate-outcome-of-problem.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

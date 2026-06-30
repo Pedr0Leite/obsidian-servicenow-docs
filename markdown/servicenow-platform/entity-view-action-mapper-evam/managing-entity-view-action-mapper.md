@@ -14,7 +14,7 @@ breadcrumb: [Entity view action mapper, Manage instance data sources, Extend Ser
 
 # Managing Entity View Action Mapper
 
-Optimize data presentation and interaction by defining data sources, creating [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) configuration bundles, and setting up EVAM view templates to structure and display entity data effectively.
+Optimize data presentation and interaction by defining data sources, creating Entity View Action Mapper \(EVAM\) configuration bundles, and setting up EVAM view templates to structure and display entity data effectively.
 
 ## Overview of managing EVAM
 
@@ -35,6 +35,3 @@ Optimize data presentation and interaction by defining data sources, creating [[
 
 For more information, see [Entity View Action Mapper reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/entity-view-action-mapper-reference.md).
 
-## Related
-
-- [[entity-view-action-mapper|Entity view action mapper]]

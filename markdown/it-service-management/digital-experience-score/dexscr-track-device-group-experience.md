@@ -14,7 +14,7 @@ breadcrumb: [Track experience scores, Digital Experience Score, Digital End-User
 
 # Track experience scores of an individual device group
 
-Track and drill down into the quantitative and qualitative data of a device group's metrics to gain a comprehensive view into employee experiences of using the [[dex-workspace-devices-tab|devices]].
+Track and drill down into the quantitative and qualitative data of a device group's metrics to gain a comprehensive view into employee experiences of using the devices.
 
 ## Before you begin
 
@@ -94,7 +94,7 @@ Employee satisfaction with the service desk's quality and speed of support for t
 
     3.  View device health details by selecting a device name in the **Device** column.
 
-        For more information about the [[user-health-card|device health page]], see [Device health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-health-card.md).
+        For more information about the device health page, see [Device health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-health-card.md).
 
 
 **Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-using-dex-score.md)
@@ -112,7 +112,3 @@ Employee satisfaction with the service desk's quality and speed of support for t
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[user-health-card|Device health page]]

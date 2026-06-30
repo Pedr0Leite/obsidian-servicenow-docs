@@ -14,7 +14,7 @@ breadcrumb: [Personal portfolios, Work with portfolios, Digital Portfolio Manage
 
 # Create a personal portfolio in Digital Portfolio Management
 
-Create a personal portfolio using the [[dpm-landing|Digital Portfolio Management]] \(DPM\) application. DPM enables you to create, edit, and share personalized, unstructured portfolios of the services and [[dex-workspace-application-tab|applications]] that you own or don't own but care about.
+Create a personal portfolio using the Digital Portfolio Management \(DPM\) application. DPM enables you to create, edit, and share personalized, unstructured portfolios of the services and applications that you own or don't own but care about.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_dpm.dpm\_manager
 
 ## About this task
 
-DPM supports services, service offerings, business applications, and service instances so you can populate your [[dpm-personal-portfolio|personal portfolios]] with any of these items. Each item type is tagged and color-coded as you drill into your personal portfolio.
+DPM supports services, service offerings, business applications, and service instances so you can populate your personal portfolios with any of these items. Each item type is tagged and color-coded as you drill into your personal portfolio.
 
 -   View personal portfolios that you created and those portfolios that are shared with you.
 -   Assign editors and viewers for the personal portfolios that you created.
@@ -123,8 +123,3 @@ Add collaborators
 
 [Personal and enterprise portfolio reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-portfolios-reference.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-personal-portfolio|Personal portfolios]]

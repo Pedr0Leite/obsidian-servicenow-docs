@@ -27,7 +27,7 @@ Role required: sn\_csm\_pricing\_pricelist\_administrator
 2.  Start the import process.
 
     -   To import pricing entities, navigate to **All** &gt; **Pricing** &gt; **Export/Import** &gt; **Import**.
-    -   To import context [[rules_101|rules]], navigate to **All** &gt; **Context Rule Management** &gt; **Import**.
+    -   To import context rules, navigate to **All** &gt; **Context Rule Management** &gt; **Import**.
     The record for the import data source opens.
 
 3.  Attach the JSON file by selecting the **Attachments** \[Omitted image "paperclip-fill-24.svg"\] Alt text: icon in the header bar.
@@ -59,6 +59,3 @@ Role required: sn\_csm\_pricing\_pricelist\_administrator
 
 Certain imported pricing entities, such as price lists or cost books, are in the draft state in the target instance. To make the imported price list or cost book active in the instance, publish them.
 
-## Related
-
-- [[rules_101|Rules]]

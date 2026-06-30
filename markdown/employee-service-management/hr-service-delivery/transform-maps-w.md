@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with Workday, Integration of H
 
 # Use transform maps
 
-[[transform-maps-navex|Transform maps]] specify data relationships between source table and target table.
+Transform maps specify data relationships between source table and target table.
 
 For details on the transform maps, navigate to **System Import Sets** &gt; **Administration** &gt; **Transform Maps**.
 
@@ -44,7 +44,7 @@ Maps locations from the Location Staging \[sn\_hr\_workday\_location\_staging\] 
 
 </td></tr><tr><td>
 
-[[c_HRProfileRecords|HR Profile]] Transform Map
+HR Profile Transform Map
 
 </td><td>
 
@@ -124,7 +124,7 @@ Maps employment history from the Staging table to the Workday Employee Employmen
 
 </td></tr><tr><td>
 
-HRSD Workday Professional [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+HRSD Workday Professional Reference
 
 </td><td>
 
@@ -156,8 +156,3 @@ Maps languages spoken from the Staging table \[sn\_hr\_workday\_languages\_spoke
 
 [View tasks from Workday]()
 
-## Related
-
-- [[transform-maps-navex|Transform maps]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

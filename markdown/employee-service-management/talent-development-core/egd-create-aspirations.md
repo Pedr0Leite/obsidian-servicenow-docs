@@ -28,7 +28,7 @@ Role required: None
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], navigate to **Your Career** &gt; **Aspirations**.
+1.  From the Employee Center, navigate to **Your Career** &gt; **Aspirations**.
 
 2.  Select **Create a new aspiration**.
 
@@ -61,6 +61,3 @@ You can create a **Growth Plan** from your **Aspiration**. For details about cre
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

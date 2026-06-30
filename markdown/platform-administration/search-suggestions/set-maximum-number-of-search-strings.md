@@ -14,7 +14,7 @@ breadcrumb: [Configuring Search Suggestions, Search Suggestions, Search administ
 
 # Set maximum age for searches used in suggestion generation
 
-Set the Auto Flush parameter to limit the age of search strings used to create auto-complete suggestions and [[search-suggestions-overview|search suggestions]].
+Set the Auto Flush parameter to limit the age of search strings used to create auto-complete suggestions and search suggestions.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ The Search Event \[sys\_search\_event\] table contains all of the strings used i
 
     The default is 15,552,000 seconds, which is 180 days.
 
-## Related
 
-- [[search-suggestions-overview|Search Suggestions]]

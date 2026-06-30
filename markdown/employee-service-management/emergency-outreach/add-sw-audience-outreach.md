@@ -14,11 +14,11 @@ breadcrumb: [Configure Emergency Outreach notifications, Emergency Outreach, Eme
 
 # Add a Safe Workplace audience for Emergency Outreach
 
-Add a collection of users for [[emergency-outreach|Emergency Outreach]] notifications. Target specific users based on criteria such as location, department, or group.
+Add a collection of users for Emergency Outreach notifications. Target specific users based on criteria such as location, department, or group.
 
 ## Before you begin
 
-The [[safe-workplace|Safe Workplace]] audience feature is available if you have purchased [[employee-readiness-core|Employee Readiness Core]].
+The Safe Workplace audience feature is available if you have purchased Employee Readiness Core.
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -91,8 +91,4 @@ For example, you could specify one floor of a particular building or users who r
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[emergency-outreach|Emergency Outreach]]
-- [[safe-workplace|Safe Workplace]]
-- [[employee-readiness-core|Employee Readiness Core]]

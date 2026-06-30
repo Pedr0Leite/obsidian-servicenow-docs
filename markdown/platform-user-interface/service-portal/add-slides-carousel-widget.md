@@ -14,7 +14,7 @@ breadcrumb: [Carousel widget, Example widgets, Widget library, Using portal widg
 
 # Add slides to the carousel widget
 
-Use the [[c_RelatedLists|related lists]] for an instance of the [[carousel-widget|carousel widget]] to add images for the carousel widget to scroll through.
+Use the related lists for an instance of the carousel widget to add images for the carousel widget to scroll through.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Admin or sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Widgets**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Widgets**.
 
 2.  Open the **Carousel** widget record.
 
@@ -48,8 +48,3 @@ Role required: Admin or sp\_admin
 
 **Parent Topic:**[Carousel widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/carousel-widget.md)
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[carousel-widget|Carousel widget]]
-- [[c_ServicePortal|Service Portal]]

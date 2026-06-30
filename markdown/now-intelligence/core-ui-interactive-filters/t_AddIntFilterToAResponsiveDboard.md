@@ -22,7 +22,7 @@ Role required: The dashboard\_admin role is required to create or edit Core UI R
 
 ## About this task
 
-To be effective, [[c_HomepagePublishers|interactive filters]] must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_MakeAReportASubscriber.md).
+To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_MakeAReportASubscriber.md).
 
 For more information on which interactive filters are available, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md). From this topic you can learn more about creating and configuring the different filters.
 
@@ -62,6 +62,3 @@ In this animation, the two visualizations and the interactive filter are all bas
 
 [Reset all interactive filters on a dashboard tab]()
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]

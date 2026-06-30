@@ -73,20 +73,14 @@ Drag and drop the file from your system to the Attachments pane.
 
 ## What to do next
 
-Download, rename, or delete attachments. For more information, see [[manage-attachments-l2c-process-management|Manage attachments for a sales process record]].
+Download, rename, or delete attachments. For more information, see [Manage attachments for a sales process record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-attachments-l2c-process-management.md).
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
+[Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-## Related
-
-- [[manage-attachments-l2c-process-management|Manage attachments for a sales process record]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

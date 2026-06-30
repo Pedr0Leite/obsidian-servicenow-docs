@@ -87,8 +87,8 @@ Retrieves and displays relevant knowledge articles to address sourcing and procu
 |Scripts|Autonomous|Show more results|Displays additional product recommendations for a selected item.|
 |Scripts|Autonomous|Created record from document|Creates records once the document task is submitted.|
 |Scripts|Autonomous|Create sourcing record|Creates sourcing requests from the finalized plan \(with optional attachments\) and returns a submission summary.|
-|Scripts|Autonomous|Build Purchase Plan|Builds the purchase checkout plan after the Document Intelligence task has completed. Resolves and validates delivery period, delivery address, purchase reason, and [[cost-center|cost center]] from user inputs. Saves the final plan to the conversation cache and returns a formatted purchase plan summary.|
-|Scripts|Autonomous|Recommendation|Generates a list of products based on the product name, additional details, and [[supplier|supplier]] preferences.|
+|Scripts|Autonomous|Build Purchase Plan|Builds the purchase checkout plan after the Document Intelligence task has completed. Resolves and validates delivery period, delivery address, purchase reason, and cost center from user inputs. Saves the final plan to the conversation cache and returns a formatted purchase plan summary.|
+|Scripts|Autonomous|Recommendation|Generates a list of products based on the product name, additional details, and supplier preferences.|
 |Scripts|Autonomous|Channel decision and plan creation|Determines the optimal checkout channel and create a plan based on the selected product or the rejection of recommended options, returning the recommended checkout channel for each selection.|
 |Scripts|Autonomous|Document type extractor|Determines type of document uploaded.|
 |Scripts|Autonomous|Create a document task|Creates a document task that gathers delivery period and purchase reason information.|
@@ -118,7 +118,3 @@ Retrieves and displays relevant knowledge articles to address sourcing and procu
 
 [Email parser agent for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]

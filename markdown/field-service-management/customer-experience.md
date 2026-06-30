@@ -12,7 +12,7 @@ breadcrumb: [Integrated work order entry, Explore, Field Service Management]
 
 # Customer Experience in Field Service Management
 
-The Customer Experience feature in [[fsm-application-landing-page|Field Service Management]] provides customers with timely updates about their reported issues, enabling them to track the location of agents and provide agent feedback.
+The Customer Experience feature in Field Service Management provides customers with timely updates about their reported issues, enabling them to track the location of agents and provide agent feedback.
 
 The Customer Experience feature provides transparent communication and constant updates to customers about their reported issues through automated email notifications or text messages.
 
@@ -25,6 +25,3 @@ After the agent completes the work, send customers a survey link to gather feedb
 
 [Activate Field Service Management Customer Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

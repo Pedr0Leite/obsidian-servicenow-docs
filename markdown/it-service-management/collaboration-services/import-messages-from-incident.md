@@ -22,7 +22,7 @@ You can import messages from a slack channel for an incident and append them in 
 -   You must be a member of the private slack channel to import messages from the private channel.
 -   Your ServiceNow® email ID must be associated with your slack account.
 -   This feature is compatible with:
-    -   [[collab-services-tcm|Collaboration Services]] store app - minimum version 3.04
+    -   Collaboration Services store app - minimum version 3.04
     -   Slack store app - minimum version 1.4.x
 
 ## About this task
@@ -100,6 +100,4 @@ Option to include attachments while importing messages.
 </td></tr></tbody>
 </table>6.  Click **Import messages**.
 
-## Related
 
-- [[collab-services-tcm|Collaboration services]]

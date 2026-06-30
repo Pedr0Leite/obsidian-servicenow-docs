@@ -66,7 +66,7 @@ Based on the stage you have selected, the initial comments as defined in the IBM
 
 </td><td>
 
-Select this option if you want the integration to fetch **Closed** offenses from IBM QRadar.These offenses will be evaluated for [[si-creation|security incident creation]], correlation, and historical visibility in ServiceNow®.
+Select this option if you want the integration to fetch **Closed** offenses from IBM QRadar.These offenses will be evaluated for security incident creation, correlation, and historical visibility in ServiceNow®.
 
 By default, closed offenses are ignored and open offenses are retrieved from IBM QRadar during polling.
 
@@ -101,6 +101,4 @@ The default reason to be used when a security incident is closed, When a securit
 
     A confirmation dialog is displayed. You have successfully completed the setup and configuration for the integration. Activate this profile to pull offenses from the IBM QRadar console based on your scheduling.
 
-## Related
 
-- [[si-creation|Security incident creation]]

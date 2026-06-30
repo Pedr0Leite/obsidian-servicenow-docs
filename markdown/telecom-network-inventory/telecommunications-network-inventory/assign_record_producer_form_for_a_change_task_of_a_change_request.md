@@ -14,7 +14,7 @@ breadcrumb: [Decision tables, Configure, Telecommunications Network Inventory]
 
 # Assign a record producer form for a request type of a change task
 
-Assign a record producer to a change task of a change request with the help of a decision table in [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Assign a record producer to a change task of a change request with the help of a decision table in Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Create a network instance instantiation. For information, see [Instantiating you
 
 **Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decision_tables.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

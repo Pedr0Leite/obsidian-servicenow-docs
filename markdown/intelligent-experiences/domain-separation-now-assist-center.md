@@ -13,13 +13,13 @@ breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
 
 # Domain separation and Now Assist Center
 
-Domain separation is supported for [[now-assist-center-landing-page|Now Assist Center]].
+Domain separation is supported for Now Assist Center.
 
 Domain separation allows you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
--   Business logic: Ensure data goes into the proper domain for the application’s service provider \(SP\) use [[cases|cases]].
+-   Business logic: Ensure data goes into the proper domain for the application’s service provider \(SP\) use cases.
 -   In the application, the user interface, cache keys, reporting, rollups, aggregations, and so on, all use domain at production run time.
 -   The owner of the instance must be able to set up the application to function across multiple tenants.
 
@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 ## Domain separation uses in Now Assist Center
 
 -   The system supports domain separation for skills and instructions.
--   Ability to view domain-based skills in the actionable use cases on the [[now-assist-center-home-page|home page]].
+-   Ability to view domain-based skills in the actionable use cases on the home page.
 -   Ability to duplicate skills for different domains.
 -   Now Assist Center analytics data contains records from multiple domains.
 
@@ -56,21 +56,14 @@ The following domain-separated fields are supported:
     Enables child domain state records to override parent domain states.
 
 
-**Parent Topic:**[[now-assist-center-reference|Now Assist Center reference]]
+**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] Center]()
+[Components installed with Now Assist Center]()
 
 [Now Assist Center glossary]()
 
 [Now Assist Center roles]()
 
-## Related
-
-- [[now-assist-center-reference|Now Assist Center reference]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[cases|Cases]]
-- [[now-assist-center-home-page|Home page]]
-- [[platform-now-assist-landing|Now Assist]]

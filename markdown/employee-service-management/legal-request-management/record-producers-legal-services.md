@@ -21,10 +21,7 @@ A record producer for a legal service is associated to a practice area and appea
 -   **[Create or modify a record producer for legal services through Classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-record-producer-legal-request.md)**  
 Create or modify a record producer to define an intake form for a legal request. Employees can use these intake forms on the Legal Service Portal to submit legal requests.
 -   **[Create or modify a record producer for legal services through Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-record-producer-catalog-builder-legal.md)**  
-Create or modify a record producer using a catalog template to define an intake form for a legal service. Employees can use these intake forms on the Legal Service Portal to [[submit-legal-request|submit a legal request]] or legal matter.
+Create or modify a record producer using a catalog template to define an intake form for a legal service. Employees can use these intake forms on the Legal Service Portal to submit a legal request or legal matter.
 
 **Parent Topic:**[Configuring Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]

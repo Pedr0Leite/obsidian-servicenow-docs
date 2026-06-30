@@ -14,19 +14,19 @@ breadcrumb: [Task Intelligence for ITSM, IT Service Management]
 
 # Managing Task Intelligence for ITSM models
 
-Use the machine learning capabilities of [[c-itsm-task-intelligence|Task Intelligence for ITSM]] to predict field level recommendations and similar records on the incidents which appear as actionable recommendations in the side panel.
+Use the machine learning capabilities of Task Intelligence for ITSM to predict field level recommendations and similar records on the incidents which appear as actionable recommendations in the side panel.
 
 Managing Task Intelligence for ITSM involves the following tasks.
 
 ## Creating a prediction model
 
-You can create and deploy solution-based prediction [[c_Models|models]] to predict incidents fields and actionable real-time recommendations based on the similarities between two types of tables by comparing their fields for IT service incidents.
+You can create and deploy solution-based prediction models to predict incidents fields and actionable real-time recommendations based on the similarities between two types of tables by comparing their fields for IT service incidents.
 
 Task Intelligence for ITSM provides the following types of prediction models:
 
 -   Incident Categorization: This model predicts incidents fields for new IT service incidents.
 -   Similar Incidents: The model looks at the prediction fields of a prediction table and the training fields of a training table. It uses the similarities in these fields to predict similar records for incidents.
--   Major Incident Recommendation: The model recommends similar [[process-misingle|active major incidents]] which the current incident can be linked to, and recommends you propose similar incidents as a major incident.
+-   Major Incident Recommendation: The model recommends similar active major incidents which the current incident can be linked to, and recommends you propose similar incidents as a major incident.
 -   Similar open Change Requests for Incident: The model looks at the incident fields of an incident table and the change request fields of a change request table. It uses the similarities in these fields to predict similar change requests for incidents.
 -   Similar open Problems for Incident: The model looks at the incident fields of an incident table and the problem fields of a problem table. It uses the similarities in these fields to predict similar problems for incidents.
 
@@ -57,8 +57,3 @@ Export either the Similar Incidents or Incident Categorization model model in Ta
 
 **Parent Topic:**[Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/c-itsm-task-intelligence.md)
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[c_Models|Models]]
-- [[process-misingle|Active major incidents]]

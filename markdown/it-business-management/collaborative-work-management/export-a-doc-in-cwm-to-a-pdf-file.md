@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Docs, Use, Collaborative Work Management, Strategi
 
 # Export a Doc in CWM to a PDF file
 
-Use the Docs offline, and share with teams or stakeholders outside [[cwm-landing|Collaborative Work Management]] \(CWM\) by exporting Docs as PDF.
+Use the Docs offline, and share with teams or stakeholders outside Collaborative Work Management \(CWM\) by exporting Docs as PDF.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ The Doc is exported and saved in your local system as a PDF file.
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

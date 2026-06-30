@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure event collection from Logicmonitor
 
-The Logicmonitor pull connector sends information from [[c_EM|Event Management]] to Logicmonitor. It sends responses received from a Push connector in a bi-directional environment to Logicmonitor.
+The Logicmonitor pull connector sends information from Event Management to Logicmonitor. It sends responses received from a Push connector in a bi-directional environment to Logicmonitor.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the**Apply additional matching rules**check box set to true. Previously, this check box was disabled. This change allows you to execute more [[create-event-rules|event rules]] or automation using the same filter conditions for the connector.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the**Apply additional matching rules**check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the connector.
 
 **Note:** This feature applies only to active event rules.
 
@@ -58,7 +58,3 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) rules provided wit
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

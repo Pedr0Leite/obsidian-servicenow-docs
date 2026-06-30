@@ -14,7 +14,7 @@ breadcrumb: [Reports in Security Incident Response, Working with Security Incide
 
 # Create a report
 
-Analysts can create a report in [[sir-landing-page|Security Incident Response]] to include the status of an incident and share it via email.
+Analysts can create a report in Security Incident Response to include the status of an incident and share it via email.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident.
 
@@ -42,7 +42,7 @@ Role required: sn\_si.analyst
 
     -   **Common SIR Fields**: The list of most used fields for an incident.
     -   **All SIR Fields**: All the fields related to an incident. For example, when you are generating a incident report and want to add a field called Short description then you can select that field from the **All SIR Fields**. When you add a field, the short description if the incident is displayed in the report.
-    -   **Related Records**: The related records of a particular incident. For example, if you want to add any associated [[c_Observables|observables]] in the report, you can add it to your report. These related records are displayed in the table format
+    -   **Related Records**: The related records of a particular incident. For example, if you want to add any associated observables in the report, you can add it to your report. These related records are displayed in the table format
     -   **Scripts**: To add the date and time of the report, you can add the Current Date Time script to your report. This will add the Report Created Date and Time in report.
 7.  Select **Preview** to view a preview of the report.
 
@@ -63,8 +63,3 @@ Role required: sn\_si.analyst
 
 **Parent Topic:**[Reports in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]

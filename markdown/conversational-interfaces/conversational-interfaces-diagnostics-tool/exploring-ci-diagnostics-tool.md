@@ -15,15 +15,15 @@ breadcrumb: [Conversational Interfaces Diagnostic Tool, Conversational Interface
 
 # Exploring Conversational Interfaces Diagnostic Tool
 
-The [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] lets admins search for, identify, and resolve issues with [[convint-landing-page|conversational interfaces]].
+The Conversational Interfaces Diagnostic Tool lets admins search for, identify, and resolve issues with conversational interfaces.
 
 The Conversational Interfaces Diagnostic Tool lets admins search for, identify, and resolve issues with conversational interfaces.
 
 Technical support engineers set up the Conversational Interfaces Diagnostic Tool on the server. Technical support engineers create and manage the Conversational Interfaces diagnostic category records and content that the Conversational Interfaces Diagnostic Tool uses.
 
-After the technical support engineers create the diagnostic categories and content, admins can start [[using-ci-diagnostics-tool|using the Conversational Interfaces Diagnostic Tool]] on the chat widget. Admins must have the admin or virtual\_agent\_admin role.
+After the technical support engineers create the diagnostic categories and content, admins can start using the Conversational Interfaces Diagnostic Tool on the chat widget. Admins must have the admin or virtual\_agent\_admin role.
 
-The Conversational Interfaces Diagnostic Tool is available for both [[virtual-agent-landing-page|Virtual Agent]] and [[va-lite|Virtual Agent Lite]].
+The Conversational Interfaces Diagnostic Tool is available for both Virtual Agent and Virtual Agent Lite.
 
 **Note:** Before using the Conversational Interfaces Diagnostic Tool, admins must activate the Conversational Interfaces - Diagnostics plugin \(sn\_ci\_diagnostics\) available on the ServiceNow® Store store.
 
@@ -44,7 +44,7 @@ For example, the diagnostic workflow does the following:
 
 The diagnostic workflow and the options and prompts you see correspond to the issue you are trying to diagnose and solve. The diagnostic workflow uses an AI Search filter as part of the diagnosis. For more information about AI Search and how to configure it, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md).
 
-The diagnostic topic block workflow also includes solutions for messaging integrations, such as Microsoft Teams. It also helps with [[awa-application-landing-page|Advanced Work Assignment]] configuration issues.
+The diagnostic topic block workflow also includes solutions for messaging integrations, such as Microsoft Teams. It also helps with Advanced Work Assignment configuration issues.
 
 \[Omitted image "ci-diagnostic-tool-work-flow.png"\] Alt text: Conversational Interfaces Diagnostic Tool workflow, in which the admin describes the issue. The tool runs a health check and returns available troubleshooting information.
 
@@ -58,11 +58,3 @@ In the workflow, the admin describes the issue. The tool runs a health check and
 |Identify and solve Microsoft Teams configuration issues.|[Diagnose Microsoft Teams configuration issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/diagnose_ci_plugin_issues.md)|Admins|
 |Identify and resolve common Advanced Work Assignment \(AWA\) configuration issues.|[Diagnose Advanced Work Assignment configuration issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/diagnose-awa-no-agents-avail.md)|Admins|
 
-## Related
-
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[using-ci-diagnostics-tool|Using the Conversational Interfaces Diagnostic Tool]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

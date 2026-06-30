@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Configure the signature key
 
-Configure the signature key after installing the proxy server through the [[edge-encryption|Edge Encryption]] proxy installer.
+Configure the signature key after installing the proxy server through the Edge Encryption proxy installer.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The signature key signs changes to configurations and properties made by the pro
 
 **Next topic:**[Configure the HTTPS certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cert.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

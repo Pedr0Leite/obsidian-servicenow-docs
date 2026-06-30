@@ -14,7 +14,7 @@ breadcrumb: [Improve resource usage with Business hours, Using Cloud Cost Manage
 
 # Define or update a Business hours policy
 
-A [[bh-cloudin|Business hours]] job applies policies to identify resources that are running when they should be powered off, reports them, and can start and stop them on a schedule that you specify. Running only during specified business hours can significantly reduce your cloud spend.
+A Business hours job applies policies to identify resources that are running when they should be powered off, reports them, and can start and stop them on a schedule that you specify. Running only during specified business hours can significantly reduce your cloud spend.
 
 ## Before you begin
 
@@ -28,14 +28,14 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 **Important:** A resource matches the policy if all criteria in the Service Account and Resource Criteria section are met.
 
--   You must select one of the [[cloud-insights-landing-page|Cloud Cost Management]] application scopes to create or update a Business hours policy.
+-   You must select one of the Cloud Cost Management application scopes to create or update a Business hours policy.
 -   You can create as many policies as needed.
 -   You can’t change the provider while editing an existing policy.
 -   When you deactivate a Business Hours policy, the resources that met the policy criteria might match a different policy \(the matching policy with lowest run order\) and therefore move to another schedule. In this case, the system generates a new change request. If a resource no longer meets any policy, the system attempts to power on the resource using the specified **Power-on flow** setting.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Business hours**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Business hours**.
 
 2.  Select **Policies**.
 
@@ -97,7 +97,7 @@ The order in which to apply policies. Each policy must have a unique value. The 
 
  **Important:** The system applies two batches of policies in the precedence order that you specify: Policies created by Admins and policies created by Insights Owners. See the **Precedence** setting in [Configure Business hours operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bh-settings-config-cloudin.md).
 
- Run order values for [[ur-cloudin|Unassigned Resources]] policies and Business hours policies don’t interfere with each other.
+ Run order values for Unassigned Resources policies and Business hours policies don’t interfere with each other.
 
 </td></tr><tr><td>
 
@@ -204,9 +204,3 @@ After you create or update a policy, select **Apply policies** to apply the crea
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[bh-cloudin|Business hours]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[ur-cloudin|Unassigned resources]]

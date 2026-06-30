@@ -12,11 +12,11 @@ breadcrumb: [HealthScan tech KPIs, HealthScan, Impact Delivery Instance referenc
 
 # Health Assessment Dashboard
 
-View detailed [[health-assessment|Health Assessment]] results closer collaboration with the [[impact-squad|Impact squad]] to prioritize, review, and address best practice [[platform-health-idi|platform health]] findings.​
+View detailed Health Assessment results closer collaboration with the Impact squad to prioritize, review, and address best practice platform health findings.​
 
 The Health Assessment displays the total number of findings and comparisons against a previous scan. The assessment report addresses the findings across five categories and also the total of the categories.
 
-Navigate to **[[impact-landing-page|Impact]]** &gt; **Platform Health** &gt; **Diagnose**.
+Navigate to **Impact** &gt; **Platform Health** &gt; **Diagnose**.
 
 View the report by:
 
@@ -40,10 +40,10 @@ Category
 
 Each tile depicts an assessment category:-   Overall
 -   Manageability
--   [[instance-observer-performance|Performance]]
+-   Performance
 -   Security
 -   Upgradeability
--   [[user-experience-insights|User Experience]]
+-   User Experience
 
 **Note:** Hover over the **i** icon for descriptions.
 
@@ -165,18 +165,8 @@ Link to KB articles or product documentation regarding how to address the findin
 
 **Note:** This feature is available in Impact Guided, Advanced, and Total packages.
 
--   **[[manage-health-assessment-dashboard|Manage Health Assessment Dashboard]]**  
+-   **[Manage Health Assessment Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/manage-health-assessment-dashboard.md)**  
 Address platform health findings from the Health Assessment Dashboard.
 
-**Parent Topic:**[[impact-tech-kpis|Diagnose with tech KPIs]]
+**Parent Topic:**[Diagnose with tech KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-tech-kpis.md)
 
-## Related
-
-- [[manage-health-assessment-dashboard|Manage Health Assessment Dashboard]]
-- [[impact-tech-kpis|Diagnose with tech KPIs]]
-- [[health-assessment|Health Assessment]]
-- [[impact-squad|Impact Squad]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]

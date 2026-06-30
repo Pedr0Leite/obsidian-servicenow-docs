@@ -14,7 +14,7 @@ breadcrumb: [Configure, Coaching, IT Service Management]
 
 # Define trigger conditions for a coaching opportunity
 
-Use the [[cf-coaching-landing|Coaching]] Opportunity form to define a critical moment in a process on which a user can be coached. A coaching opportunity consists of the relationship between a process that can be improved, and coaches and trainees.
+Use the Coaching Opportunity form to define a critical moment in a process on which a user can be coached. A coaching opportunity consists of the relationship between a process that can be improved, and coaches and trainees.
 
 ## Before you begin
 
@@ -73,7 +73,7 @@ Navigate to **Coaching** &gt; **Coaching Opportunities**.
 
         See [Common ITSM assessment triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-overview.md) for examples.
 
-4.  Fill in the fields in the **Snapshot [[settings-mobile|Settings]]** tab.
+4.  Fill in the fields in the **Snapshot Settings** tab.
 
     1.  Select the **Snapshot fields** that contain the values to capture in the coaching assessment when an assessment is triggered.
 
@@ -146,7 +146,3 @@ Navigate to **Coaching** &gt; **Coaching Opportunities**.
 
 [Coaching field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-field-descriptions.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[settings-mobile|Settings]]

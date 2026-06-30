@@ -14,7 +14,7 @@ breadcrumb: [Live Feed Core UI, Manage people and work capabilities, Extend Serv
 
 # Administering Live Feed
 
-Administrators and users with the live\_feed\_admin role can configure Live Feed security and provide access to Live Feed from content management pages. Administrators can also set up [[c_SetUpLiveFeedTableNotifications|Live Feed table notifications]].
+Administrators and users with the live\_feed\_admin role can configure Live Feed security and provide access to Live Feed from content management pages. Administrators can also set up Live Feed table notifications.
 
 **Important:**
 
@@ -33,9 +33,5 @@ By default, administrators and users with the live\_feed\_admin role can configu
 -   **[Provide access to Live Feed from CMS pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_AccessLiveFeedFromCMSPages.md)**  
 You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[c_SetUpLiveFeedTableNotifications|Live Feed table notifications]]

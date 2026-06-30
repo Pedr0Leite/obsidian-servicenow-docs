@@ -12,7 +12,7 @@ breadcrumb: [Knowledge Center, Manage content capabilities, Extend ServiceNow AI
 
 # Configuring Knowledge Center
 
-Configure the knowledge content recommendation skill to enable agents to utilize the context menu to elaborate or shorten a knowledge article in the TinyMCE. With the new enhance content editor available with [[knowledge-center|Knowledge Center]], agents can create and update the knowledge article with custom instructions.
+Configure the knowledge content recommendation skill to enable agents to utilize the context menu to elaborate or shorten a knowledge article in the TinyMCE. With the new enhance content editor available with Knowledge Center, agents can create and update the knowledge article with custom instructions.
 
 The first step in configuring the Knowledge Center involves enabling the following system properties:
 
@@ -20,14 +20,14 @@ The first step in configuring the Knowledge Center involves enabling the followi
 -   **sn\_km\_center.glide.knowman.enable**
 -   **sn\_km\_center.glide.knowman.redirect.enable**
 
-For more information, see [[enable-system-properties-for-KC|Enable system properties for Knowledge Center]]
+For more information, see [Enable system properties for Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-system-properties-for-KC.md)
 
 Configure how agents use Knowledge Center to generate, edit, and optimize knowledge articles. Refer the following:
 
 -   [Configuring custom script based Article Optimization scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 -   [Activate Article Optimization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/activate-kc-AO-skill.md)
 -   [Configuring Article Optimization skill and prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-kc-AO-skill.md)
--   [[kc-enable-knowledge-blocks|Enable knowledge blocks in the Knowledge Center]]
+-   [Enable knowledge blocks in the Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-enable-knowledge-blocks.md)
 
 **Note:** You can access knowledge articles created with TinyMCE by enabling KB generation skill, see [Configuring the KB generation skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-km-skills.md). To use articles created with custom instructions, please activate the knowledge content recommendation skill, see [Configure skill for Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-context-menu-skill.md).
 
@@ -40,8 +40,3 @@ Configure how agents use Knowledge Center to generate, edit, and optimize knowle
 
 [Configure skill for Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-context-menu-skill.md)
 
-## Related
-
-- [[enable-system-properties-for-KC|Enable system properties for Knowledge Center]]
-- [[kc-enable-knowledge-blocks|Enable knowledge blocks in the Knowledge Center]]
-- [[knowledge-center|Knowledge Center]]

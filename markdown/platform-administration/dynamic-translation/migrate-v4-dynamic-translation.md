@@ -14,7 +14,7 @@ breadcrumb: [Integration with other translation services, Dynamic Translation, T
 
 # Migrate customized Translator Configurations to v4 flows
 
-Migrate your customized translator [[clone-configurations-tab|configurations]] to v4 flows. Version 4 flows for [[dynamic-translation|Dynamic Translation]] are available from the Xanadu Patch 3 release.
+Migrate your customized translator configurations to v4 flows. Version 4 flows for Dynamic Translation are available from the Xanadu Patch 3 release.
 
 ## Before you begin
 
@@ -98,7 +98,3 @@ Marks the translator as the default provider for detection of the language of th
 
 **Parent Topic:**[Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[dynamic-translation|Dynamic translation]]

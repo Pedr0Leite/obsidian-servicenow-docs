@@ -35,7 +35,7 @@ Before creating or updating a rate line, note the following points:
 1.  Open a rate model by performing one of the following actions:
 
     -   Navigate to **All** &gt; **Project Administration** &gt; **Rate Model** &gt; **All**.
-    -   Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Rate Model** &gt; **All**.
+    -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **All**.
 2.  On the Rate Model form, click the **View Rate Lines** related link.
 
 3.  On the Rate Lines form, click **New**.
@@ -90,7 +90,7 @@ Rate
 
 Applicable rate and currency of the rate line. By default, the currency of the rate model to which the rate line belongs is selected as the currency. You can select a rate currency, which can be different from the rate model currency. Rate lines with the same set of criteria values and currency must not have overlapping dates.
 
- A project or demand manager can track the resource cost for projects or demands in the corresponding project or demand currency by installing the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin and enabling the Project Currency view or Demand Currency view for [[c_ResourcePlans|resource plans]]. For more information, see the [Create a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md) topic.
+ A project or demand manager can track the resource cost for projects or demands in the corresponding project or demand currency by installing the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin and enabling the Project Currency view or Demand Currency view for resource plans. For more information, see the [Create a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md) topic.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,3 @@ Rate lines that represent resource hourly rates based on defined attributes are 
 
 **Parent Topic:**[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_ResourcePlans|Resource plans]]

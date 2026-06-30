@@ -14,7 +14,7 @@ breadcrumb: [Integrate multiple ServiceNow instances with a single MS Teams tena
 
 # Create a bot in Microsoft Teams
 
-You must create a bot in Microsoft Teams to be able to integrate with the [[virtual-agent-landing-page|Virtual Agent]].
+You must create a bot in Microsoft Teams to be able to integrate with the Virtual Agent.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: Microsoft Teams admin, Global Administrator, or roles containing 
 
 1.  Login into [Microsoft Teams](https://teams.microsoft.com/) and navigate to [Developer Portal](https://dev.teams.microsoft.com).
 
-2.  On the Developer Portal page, navigate to the **Tools** &gt; **Bot [[management|Management]]**.
+2.  On the Developer Portal page, navigate to the **Tools** &gt; **Bot Management**.
 
 3.  Select **Create a New bot** and provide a bot name of your choice and select **Add**.
 
@@ -63,7 +63,3 @@ Role required: Microsoft Teams admin, Global Administrator, or roles containing 
 
 **Parent Topic:**[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-single-teams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

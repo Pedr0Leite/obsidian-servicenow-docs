@@ -16,7 +16,7 @@ breadcrumb: [Reference section for Problem Management, Problem Management, IT Se
 
 Change in a Problem record impacts related Incident records. Notification is sent to the user for each such update.
 
-When you activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) and the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin, the changes in a Problem record impact incidents that are associated to that Problem.
+When you activate the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) and the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin, the changes in a Problem record impact incidents that are associated to that Problem.
 
 <table id="table_ady_kd5_5fb"><thead><tr><th>
 
@@ -129,13 +129,9 @@ NA
 
 </td><td>
 
--   The information from the **Risk accepted reason** field on the [[problem-form|Problem form]] is copied to the **Work notes** field on the Incident form.
+-   The information from the **Risk accepted reason** field on the Problem form is copied to the **Work notes** field on the Incident form.
 -   An email notification is sent to the user who is assigned to the Incident.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

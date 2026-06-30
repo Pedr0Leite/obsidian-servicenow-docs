@@ -26,7 +26,7 @@ For example, if you execute a point scan against a business rule, only the check
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
 2.  Navigate to the record in a table applicable for point scan.
 
@@ -50,7 +50,7 @@ For example, if you execute a point scan against a business rule, only the check
 
     The Scan Result record appears.
 
-6.  Select **Checks** related list to look at the [[hs-findings|findings]].
+6.  Select **Checks** related list to look at the findings.
 
     If you want to review the failure reasons, select the **Failures** related list.
 
@@ -77,7 +77,3 @@ Scan the installed files of an application as well as the application record its
 
 [Execute a reactive scan]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]

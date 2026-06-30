@@ -18,15 +18,10 @@ The following logical diagram shows the tables and their relationships that buil
 
 \[Omitted image "psds-datamodel-sa-q2-2026.png"\] Alt text: Public Sector Digital Services Service Applicant Data Model
 
--   **[[psds-data-model-svc-app-in-tables|Tables installed with Service Applicant Information Plugin]]**  
+-   **[Tables installed with Service Applicant Information Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-svc-app-in-tables.md)**  
 This section describes the tables installed with the Service Applicant Information plugin and shows how they store and manage information. The Service Applicant Information plugin tables focus on capturing detailed applicant data for eligibility assessments, and enable the addition of any supplementary applicants \(either constituents or business contacts\) to a case or application.
--   **[[psds-data-model-svc-app-prog-man-tables|Tables installed with Service Applicant Program Management Plugin]]**  
+-   **[Tables installed with Service Applicant Program Management Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-svc-app-prog-man-tables.md)**  
 This section describes the tables installed with the Service Applicant Program Management plugin and shows how they store and manage information.
 
-**Parent Topic:**[[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]
+**Parent Topic:**[Public Sector Digital Services Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-digital-services-data-model.md)
 
-## Related
-
-- [[psds-data-model-svc-app-in-tables|Tables installed with Service Applicant Information Plugin]]
-- [[psds-data-model-svc-app-prog-man-tables|Tables installed with Service Applicant Program Management Plugin]]
-- [[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]

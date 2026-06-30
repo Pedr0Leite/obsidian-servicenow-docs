@@ -14,7 +14,7 @@ breadcrumb: [Unused resources, Exploring Cloud Cost Management, Cloud Cost Manag
 
 # Unused resources analysis for AWS
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses an optimized [[um-cloudin|Unused resources]] process for each provider. For AWS, Cloud Cost Management compares the calculated potential costs to actual billed costs and then generates recommendations.
+Cloud Cost Management uses an optimized Unused resources process for each provider. For AWS, Cloud Cost Management compares the calculated potential costs to actual billed costs and then generates recommendations.
 
 ## How Unused resources analysis works for AWS
 
@@ -40,7 +40,3 @@ Resources with the following AWS attributes aren't considered for Unused resourc
 -   Virtualization type isn't HVM
 -   Spot instance
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[um-cloudin|Unused resources]]

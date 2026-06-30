@@ -15,7 +15,7 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 # Mega menu configuration
 
-The mega menu helps you navigate to a topic and its child topics. The taxonomy you associate with the [[employee-center-landing-page|employee center]] portal record determines the mega menu and its menu items. By default, the topics and child topics you create in the taxonomy are displayed as mega menu items.
+The mega menu helps you navigate to a topic and its child topics. The taxonomy you associate with the employee center portal record determines the mega menu and its menu items. By default, the topics and child topics you create in the taxonomy are displayed as mega menu items.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ To modify the default taxonomy, clone the taxonomy first, and then create new pa
 
 **Note:** Only the active topics that have connected content are shown in the mega menu.
 
-For more information on the [[ec-information-architecture|EC information architecture]] and configuring the portal navigation, see [Advanced Portal Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/adv-portal-navigation-overview.md).
+For more information on the EC information architecture and configuring the portal navigation, see [Advanced Portal Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/adv-portal-navigation-overview.md).
 
 \[Omitted image "mega-menu-browse-all.jpg"\] Alt text: Mega menu and the Browse all button at the bottom.
 
@@ -54,7 +54,7 @@ In Employee Center, the default Employee taxonomy includes IT, HR, Workplace, Le
 
     For more information, see [Create and associate topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-topics-for-taxonomy.md).
 
-3.  [[create-child-topics-for-parent|Create a child topic]] and associate it with the parent topic.
+3.  Create a child topic and associate it with the parent topic.
 
     For more information, see [Create a child topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-child-topics-for-parent.md). Repeat this step to create as many child topics as needed.
 
@@ -75,8 +75,3 @@ You can also add non-taxonomy menu items to the primary navigation bar. For more
 
 **Note:** When the mega menu is empty, check if the demo data for the Employee Experience taxonomy app is installed. Select the Load demo data check-box to include the demo data along with your install or repair.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-information-architecture|EC Information architecture]]
-- [[create-child-topics-for-parent|Create a child topic]]

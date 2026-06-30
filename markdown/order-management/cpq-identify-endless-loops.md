@@ -20,13 +20,13 @@ Role required: Admin
 
 ## Procedure
 
-1.  In CPQ Admin, click to open Configuration [[blueprints|Blueprints]], and open a blueprint.
+1.  In CPQ Admin, click to open Configuration Blueprints, and open a blueprint.
 
 2.  Click the three vertical dots next to **Deploy**, and then click **Rule Cycle Report**.
 
 3.  Click **Run Report**.
 
-4.  Alternatively, from a top-level [[transaction-manager|Transaction Manager]] element page such as Stages, Associated [[fields|Fields]], or Related [[rules_101|Rules]], click the three vertical dots in the sub-header, and then click **Rule Cycle Report**.
+4.  Alternatively, from a top-level Transaction Manager element page such as Stages, Associated Fields, or Related Rules, click the three vertical dots in the sub-header, and then click **Rule Cycle Report**.
 
 
 ## Result
@@ -39,9 +39,3 @@ The most recent Rule Cycle Report remains visible to all administrators until th
 
 \[Omitted image "cpq-enrichments-rule-cycle-report-breadcrumbs.png"\] Alt text: Identify endless loops in Blueprint rules
 
-## Related
-
-- [[blueprints|Blueprints]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

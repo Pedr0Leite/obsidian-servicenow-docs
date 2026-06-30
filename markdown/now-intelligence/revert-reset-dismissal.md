@@ -12,11 +12,11 @@ breadcrumb: [Use, KPI Signals, Platform Analytics experience, Platform Analytics
 
 # Revert baseline reset or signal dismissal
 
-Review previous decisions to reset the [[process-behavior-charts-for-kpis|KPI Signals]] baseline or dismiss a signal. Revert the decision if necessary.
+Review previous decisions to reset the KPI Signals baseline or dismiss a signal. Revert the decision if necessary.
 
 ## Before you begin
 
-You must have access to [[kpi-details|KPI Details]].
+You must have access to KPI Details.
 
 Role required: You must be a responsible user for the KPI, or have the admin, pa\_admin, or pa\_kpi\_signal\_admin role.
 
@@ -47,10 +47,5 @@ Role required: You must be a responsible user for the KPI, or have the admin, pa
 
 Now make a new decision for the oldest signal whose decision you reverted. Then work your way through any subsequent signals.
 
-**Parent Topic:**[[using-kpi-signals|Using KPI Signals]]
+**Parent Topic:**[Using KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/using-kpi-signals.md)
 
-## Related
-
-- [[using-kpi-signals|Using KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]

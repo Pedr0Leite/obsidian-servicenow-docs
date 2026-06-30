@@ -22,9 +22,9 @@ Role required: portfolio\_admin
 
 ## About this task
 
-Create a service portfolio before you define taxonomy nodes. After you create the service portfolio, you can edit it within the platform and monitor its performance in [[dpm-landing|Digital Portfolio Management]] \(DPM\).
+Create a service portfolio before you define taxonomy nodes. After you create the service portfolio, you can edit it within the platform and monitor its performance in Digital Portfolio Management \(DPM\).
 
-**Important:** Existing customers can opt in to the improved portfolio structure by navigating to **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Administration** &gt; **Configuration** &gt; **New Portfolio Opt-In**. The improved structure uses nodes and doesn't use layers and weighted scores from the Service Owner Workspace. After customers opt in for the improved portfolio structure, there isn’t an option to revert to the former structure. For more information, see [Service Portfolio Management portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-portfolios.md). New customers have the improved portfolio structure by default.
+**Important:** Existing customers can opt in to the improved portfolio structure by navigating to **Service Portfolio Management** &gt; **Administration** &gt; **Configuration** &gt; **New Portfolio Opt-In**. The improved structure uses nodes and doesn't use layers and weighted scores from the Service Owner Workspace. After customers opt in for the improved portfolio structure, there isn’t an option to revert to the former structure. For more information, see [Service Portfolio Management portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-portfolios.md). New customers have the improved portfolio structure by default.
 
 **Note:** The following procedure reflects the **SPM Advanced** user view.
 
@@ -137,7 +137,7 @@ Designated low threshold percentage point below which the indicators change from
 
 </td></tr><tr><td>
 
-Add default [[perf-metrics-mob|performance metrics]]
+Add default performance metrics
 
 </td><td>
 
@@ -175,8 +175,3 @@ Service Portfolio Management uses a taxonomy framework to organize and manage se
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[perf-metrics-mob|Performance metrics]]

@@ -14,27 +14,20 @@ breadcrumb: [Understand Security Incident Response Orchestration workflows and w
 
 # Security Incident Response Orchestration workflows and activities
 
-Several workflows and activities are included with [[c_SecIncRespOrchestration|Security Incident Response Orchestration]].
+Several workflows and activities are included with Security Incident Response Orchestration.
 
 Only users with the sn\_sec\_cmn.admin role can [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-editor.md).
 
 -   **[Create Lookup Request for IoC Changes workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_CreateScanRequestforIoCChanges.md)**  
-The **[[sir-landing-page|Security Incident Response]] - Create Lookup Request for IoC Changes** flow is triggered by a business rule to run automatically when an IoC is added or changed. [[threat-intelligence-malware|Malware]] scans are triggered only when new data is entered and only the new data is scanned.
+The **Security Incident Response - Create Lookup Request for IoC Changes** flow is triggered by a business rule to run automatically when an IoC is added or changed. Malware scans are triggered only when new data is entered and only the new data is scanned.
 -   **[Security Incident Response- Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/obtain-network-statistics-workflow.md)**  
 The **Security Incident Response** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
 -   **[Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-workflow.md)**  
-The **[[get-running-services-workflow|Security Incident Response - Get Running Services workflow]]** retrieves a list of running services from Windows-based, ServiceNow, configuration items \(CIs\). This workflow is used for incident enrichment during investigations.
+The **Security Incident Response - Get Running Services workflow** retrieves a list of running services from Windows-based, ServiceNow, configuration items \(CIs\). This workflow is used for incident enrichment during investigations.
 -   **[Run procdump flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/invoke_procdump.md)**  
 The **Run procdump** flow runs a process dump on a specified process and saves it to a file that can be targeted by security analysts.
 -   **[Security Incident - Evaluate response task outcome workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-evaluate-response-task-outcome-workflow.md)**  
-[[si-evaluate-response-task-outcome-workflow|Security Incident - Evaluate Response task outcome workflow]] determines the task to use, invokes a chosen workflow and evaluation script based on the outcome evaluator record provided as input to the chosen workflow.
+Security Incident - Evaluate Response task outcome workflow determines the task to use, invokes a chosen workflow and evaluation script based on the outcome evaluator record provided as input to the chosen workflow.
 
 **Parent Topic:**[Understand Security Incident Response Orchestration workflows and workflow templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-wf-templates.md)
 
-## Related
-
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[get-running-services-workflow|Security Incident Response - Get Running Services workflow]]
-- [[si-evaluate-response-task-outcome-workflow|Security Incident - Evaluate response task outcome workflow]]

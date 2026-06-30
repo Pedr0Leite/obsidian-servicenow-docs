@@ -30,7 +30,7 @@ Execution table
 
 </td><td>
 
-Table in [[agile-landing-page|Agile Development 2.0]], SAFe, or PPM that needs to be mapped with a table in [[alignment-planner-workspace-landing-page|Strategic Planning]]. The value in this field is automatically added based on the selection made in the table map configuration.
+Table in Agile Development 2.0, SAFe, or PPM that needs to be mapped with a table in Strategic Planning. The value in this field is automatically added based on the selection made in the table map configuration.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,3 @@ Specifies whether the mapping is done from alignment to execution, execution to 
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # Purchase on behalf of another user in Shopping Hub
 
-Shoppers can purchase products and services on behalf of another user in [[shopping-hub-overview|Shopping Hub]]. When purchasing on behalf of another user, shoppers can also view the carts and purchases associated with that user. A shopper who is authorized to purchase on behalf of other users is referred to as a super shopper.
+Shoppers can purchase products and services on behalf of another user in Shopping Hub. When purchasing on behalf of another user, shoppers can also view the carts and purchases associated with that user. A shopper who is authorized to purchase on behalf of other users is referred to as a super shopper.
 
 ## Key benefits
 
@@ -81,7 +81,7 @@ To make a purchase on behalf of another user, select a product and then select t
 
 \[Omitted image "sh-purchase-behalf-field.png"\] Alt text: Shopping Hub product page showing "Purchase on behalf of" checkbox with "Andrew Griffin" selected.
 
-After **Request to buy** is selected, the system displays the relevant details configured for the selected user, such as [[cost-center|cost center]] and delivery location. These details can be modified before the request is submitted.
+After **Request to buy** is selected, the system displays the relevant details configured for the selected user, such as cost center and delivery location. These details can be modified before the request is submitted.
 
 \[Omitted image "sh-purchase-behalf-details.png"\] Alt text: Request to buy dialog showing purchase details for Andrew Griffin with delivery and cost center options.
 
@@ -97,7 +97,7 @@ If the **sn\_spend\_uib.purchased\_bahealf.enable.card.actions** system property
 
 You can also view the carts of users on whose behalf you are making purchases.
 
-\[Omitted image "sh-purchase-behalf-cart.png"\] Alt text: [[shopping-cart|Shopping cart]] interface showing user drop-down with Shirley Ross and Warren Summers options.
+\[Omitted image "sh-purchase-behalf-cart.png"\] Alt text: Shopping cart interface showing user drop-down with Shirley Ross and Warren Summers options.
 
 If a user is selected from the **Shopping for** list \(for example, Warren Summers\), the **Purchase on behalf of** check box is disabled. In this case, Shopping Hub automatically sets the purchasing capability to the selected user only.
 
@@ -107,8 +107,3 @@ If a user is selected from the **Shopping for** list \(for example, Warren Summe
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[cost-center|Cost center]]
-- [[shopping-cart|Shopping cart]]

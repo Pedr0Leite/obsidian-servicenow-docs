@@ -16,7 +16,7 @@ breadcrumb: [Explore, Hiring tab, Hiring Experiences, HR Service Delivery, Emplo
 
 Increase your productivity with a portal that provides clarity in the hiring process and an effortless collaboration with the recruiters. Save the time required to hire with an intuitive hiring flow.
 
-Bring in seamless process, accountability, and awareness, with greater collaboration, automated systems, and clear communications with the [[hiring-dashboard|Hiring tab]] within the [[manager-hub-overview|Manager Hub]].
+Bring in seamless process, accountability, and awareness, with greater collaboration, automated systems, and clear communications with the Hiring tab within the Manager Hub.
 
 Save time and increase effectiveness with effortless collaboration with the recruiting team.
 
@@ -30,7 +30,3 @@ Hiring provides the hiring manager with:
 
 Open a requisition, support a recruiter to create a job description, collaborate with the recruiters, and track the approval workflow, as a hiring manager, on the Hiring tab.
 
-## Related
-
-- [[hiring-dashboard|Hiring tab]]
-- [[manager-hub-overview|Manager Hub]]

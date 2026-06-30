@@ -12,7 +12,7 @@ breadcrumb: [Service Exchange, Case Management, Configure agent workspaces, Conf
 
 # Set up a Service Exchange connection between a Provider and a Consumer
 
-Establish an instance-to-instance integration between a provider and a consumer [[psds-servicebridge-using|using Service Exchange for Public Sector Digital Services]].
+Establish an instance-to-instance integration between a provider and a consumer using Service Exchange for Public Sector Digital Services.
 
 ## Before you begin
 
@@ -66,6 +66,4 @@ Before proceeding, the provider should have requested the contact details of an 
 
     You are redirected to the Registration task where you can view the status. When registration is completed, a connection is established between the provider and the consumer instances, and the registration task State is set to **Closed Complete** on the provider's instance.
 
-## Related
 
-- [[psds-servicebridge-using|Using Service Exchange for Public Sector Digital Services]]

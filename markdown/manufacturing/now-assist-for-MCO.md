@@ -12,7 +12,7 @@ breadcrumb: [Manufacturing Commercial Operations]
 
 # Now Assist for Manufacturing Commercial Operations
 
-Use the ServiceNow® Now Assist for Manufacturing Commercial Operations application to create the [[mco-corrective-actions|corrective actions]] and charges information for the dealers.
+Use the ServiceNow® Now Assist for Manufacturing Commercial Operations application to create the corrective actions and charges information for the dealers.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -34,6 +34,3 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[mco-corrective-actions|Corrective actions]]

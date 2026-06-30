@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Create and manage Journey Accelerator plan configurations
 
-Create and manage plan configurations that are based on a plan type. Plan configurations are customized for specific employee [[ecpro-audience|audiences]].
+Create and manage plan configurations that are based on a plan type. Plan configurations are customized for specific employee audiences.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[journey-accelerator-1|Journey Accelerator]]** &gt; **Manage Plan Configurations**.
+1.  Navigate to **All** &gt; **Journey Accelerator** &gt; **Manage Plan Configurations**.
 
 2.  Click **New**, or open an existing plan configuration.
 
@@ -95,7 +95,4 @@ Detailed description of the plan.
 
 6.  Click **Update**.
 
-## Related
 
-- [[ecpro-audience|Audiences]]
-- [[journey-accelerator-1|Journey Accelerator]]

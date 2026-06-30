@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Upload your Code Signing configuration file to your protected instance
 
-Upload the [[sc-configuration|configuration]] file generated on your trusted instance.
+Upload the configuration file generated on your trusted instance.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Roles required:
 -   security\_admin
 -   codesigning\_admin
 
-    **Note:** The codesigning\_admin role can be assigned using the process detailed in [[cse-assign-roles|Assign the Code Signing Administrator Role]].
+    **Note:** The codesigning\_admin role can be assigned using the process detailed in [Assign the Code Signing Administrator Role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-assign-roles.md).
 
 -   sn\_kmf.cryptographic\_manager
 
-You also need the configuration file generated in the steps detailed in [[cse-turn-on-cse|Configure Code Signing Enterprise on your trusted instance]].
+You also need the configuration file generated in the steps detailed in [Configure Code Signing Enterprise on your trusted instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-turn-on-cse.md).
 
 ## Procedure
 
@@ -48,8 +48,4 @@ You also need the configuration file generated in the steps detailed in [[cse-tu
 
 7.  After resolving any conflicts, select **Commit Update Set Batch**.
 
-## Related
 
-- [[cse-assign-roles|Assign the Code Signing Administrator Role]]
-- [[cse-turn-on-cse|Configure Code Signing Enterprise on your trusted instance]]
-- [[sc-configuration|Configuration]]

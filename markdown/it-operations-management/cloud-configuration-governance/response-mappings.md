@@ -18,7 +18,7 @@ Response Mapping is the mechanism CMP uses to write back all the events and oper
 
 ## Response Mapping mechanism
 
-CMP \(Cloud Management Platform\) is designed to actively engage with the cloud environment at various critical stages, including [[r-discovery|Discovery]], Provisioning, Day-2 operations, and Lifecycle events. Throughout these processes, CMP is required to effectively record and store data within the Configuration Management Database \(CMDB\). This data could encompass diverse information ranging from system states to comprehensive sets of data.
+CMP \(Cloud Management Platform\) is designed to actively engage with the cloud environment at various critical stages, including Discovery, Provisioning, Day-2 operations, and Lifecycle events. Throughout these processes, CMP is required to effectively record and store data within the Configuration Management Database \(CMDB\). This data could encompass diverse information ranging from system states to comprehensive sets of data.
 
 To achieve this, CMP leverages its Response Processing mechanism to ensure the seamless and accurate transfer of data back into the CMDB.
 
@@ -31,6 +31,3 @@ To achieve this, CMP leverages its Response Processing mechanism to ensure the s
 
 See [https://www.servicenow.com/community/itom-articles/cmp-using-response-mapping-how-to-populate-cmdb-using-cmp/ta-p/2323213](https://www.servicenow.com/community/itom-articles/cmp-using-response-mapping-how-to-populate-cmdb-using-cmp/ta-p/2323213) to learn more.
 
-## Related
-
-- [[r-discovery|Discovery]]

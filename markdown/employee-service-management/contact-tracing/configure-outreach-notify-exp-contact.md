@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure an Emergency Outreach notification for the exposure notice
 
-Configure an [[emergency-outreach|Emergency Outreach]] notification to send email and mobile push notifications to potentially exposed employees in an exposure case to notify them of a potential exposure from an affected employee.
+Configure an Emergency Outreach notification to send email and mobile push notifications to potentially exposed employees in an exposure case to notify them of a potential exposure from an affected employee.
 
 ## Before you begin
 
@@ -74,7 +74,7 @@ Click the lookup icon \(\[Omitted image "icon-lookup.png"\] Alt text: look up ic
 
 1.  Select the **Now Mobile Push notification** check box.
 
-The check box is active if you have the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] activated. The push [[ec-notification-content|notification content]] appears when the check box is active.
+The check box is active if you have the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] activated. The push notification content appears when the check box is active.
 
 2.  Modify the text in the **Push message** and **Detailed Push Message** fields.
  Push notifications use the ServiceNow Request Application notification device. When you register the mobile application to an instance, this notification device is automatically created in the user's notification preferences. Make sure that this device is active for the users that you want to receive the push notification.
@@ -105,7 +105,3 @@ A case manager can [send the outreach notification](https://raw.githubuserconten
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[ec-notification-content|Notification content]]

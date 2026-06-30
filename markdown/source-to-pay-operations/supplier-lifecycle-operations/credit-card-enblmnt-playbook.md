@@ -14,9 +14,9 @@ breadcrumb: [Using Supplier Payment Optimization, Use, Supplier Lifecycle Operat
 
 # Supplier credit card enablement playbook
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]] includes a playbook to complete the [[supplier|supplier]] cases for initiating credit card acceptance requests.
+Source-to-Pay Workspace includes a playbook to complete the supplier cases for initiating credit card acceptance requests.
 
-The Supplier credit card enablement playbook provides step-by-step guidance for completing the request. The playbook includes a customized supplier case flow including reviewing the case by checking the propensity score, creating the credit card acceptance task for the [[supplier-contact|supplier contact]], and notifying the supplier through email. Once the supplier contact accepts the credit card as the payment method, the case can be closed. For more information, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The Supplier credit card enablement playbook provides step-by-step guidance for completing the request. The playbook includes a customized supplier case flow including reviewing the case by checking the propensity score, creating the credit card acceptance task for the supplier contact, and notifying the supplier through email. Once the supplier contact accepts the credit card as the payment method, the case can be closed. For more information, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Supplier credit card enablement playbook stages and activities
 
@@ -94,7 +94,7 @@ Check the status
 
 </td><td>
 
-The supplier contact reviews and approves the credit card acceptance request from the [[supplier-central|Supplier Collaboration Portal]] after providing the terminal ID and uploading the bank account proof document.\[Omitted image "supplier-accept-cc.png"\] Alt text: Supplier accepts or rejects credit card request from Collaboration portal
+The supplier contact reviews and approves the credit card acceptance request from the Supplier Collaboration Portal after providing the terminal ID and uploading the bank account proof document.\[Omitted image "supplier-accept-cc.png"\] Alt text: Supplier accepts or rejects credit card request from Collaboration portal
 
 </td></tr><tr><td>
 
@@ -122,9 +122,3 @@ You can select **Mark complete** and **Complete case** to close the request. Upd
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

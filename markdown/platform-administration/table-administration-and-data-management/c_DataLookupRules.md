@@ -16,7 +16,7 @@ breadcrumb: [Assignment rules, Working with Task table, Table admin, Tables and 
 
 Data lookup rules offer a generic way to change any field value, not just assignment fields.
 
-[[c_DataLookRecMatchSupport|Data lookup and record matching support]] offer the following improvements over the Assignment module:
+[Data lookup and record matching support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataLookRecMatchSupport.md) offer the following improvements over the Assignment module:
 
 -   Ability to change any field value not just an assignment field
 -   More options to define when a rule runs:
@@ -46,6 +46,3 @@ Data lookup rules offer a generic way to change any field value, not just assign
 
 [Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PrecBetweenAssignmentAndBusRules.md)
 
-## Related
-
-- [[c_DataLookRecMatchSupport|Data lookup and record matching support]]

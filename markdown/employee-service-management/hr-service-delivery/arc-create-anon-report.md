@@ -20,11 +20,11 @@ Create misconduct cases that are sent to your Human Resources department without
 
 Role required: none
 
-**Note:** Ensure that the Anonymous Report Center \(com.sn\_anonymous\_report\_center\) and Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] \(com.sn\_hr\_employee\_relations\) plugins are activated.
+**Note:** Ensure that the Anonymous Report Center \(com.sn\_anonymous\_report\_center\) and Human Resources Scoped App: Employee Relations \(com.sn\_hr\_employee\_relations\) plugins are activated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**.
 
 2.  From the **Human resources** tab, select **Employee Conduct**.
 
@@ -93,7 +93,7 @@ After completing the form, check the box.
 
 9.  To save a PDF copy of your report, select the **Save a PDF copy of your report** link.
 
-    **Note:** The report key and report number are required to access updates or comments related to an anonymous report. The report key and report number allows the person filing the complaint to track and view details about the progress of the anonymous case and respond to any follow up questions. Without the report key, the person who made the anonymous report cannot access their report. HR agents that have access to the [[arc-portal|Anonymous Report Center \(ARC\)]] and admin has access. For more information, see [Access an anonymous report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md).
+    **Note:** The report key and report number are required to access updates or comments related to an anonymous report. The report key and report number allows the person filing the complaint to track and view details about the progress of the anonymous case and respond to any follow up questions. Without the report key, the person who made the anonymous report cannot access their report. HR agents that have access to the Anonymous Report Center \(ARC\) and admin has access. For more information, see [Access an anonymous report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md).
 
 
 **Parent Topic:**[Using the Anonymous Report Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-use.md)
@@ -105,8 +105,3 @@ After completing the form, check the box.
 
 [Access an anonymous report]()
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]

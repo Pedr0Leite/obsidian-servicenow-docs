@@ -16,7 +16,7 @@ breadcrumb: [Cloud Services Catalog administration guide, Configuring Cloud Serv
 
 Configure policies with the necessary level of permissions to provide access to the AWS, Azure, ADO, Ansible and Google Cloud services, respectively.
 
--   [[csc-home|Cloud Services Catalog]] AWS Out Of Box catalog permissions
+-   Cloud Services Catalog AWS Out Of Box catalog permissions
     -   [Amazon Web Services EC2 Linux Out Of Box permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-linux-oob-catalog-items-permissions.md)
     -   [AWS EC2 Windows OOB permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-windows-oob-permissions.md)
     -   [AWS Dynamo DB permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-dynamodb-oob-permissions.md)
@@ -33,6 +33,3 @@ Configure policies with the necessary level of permissions to provide access to 
 
 **Parent Topic:**[Cloud Services Catalog administration guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/cloud-services-catalog-administration-guide.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

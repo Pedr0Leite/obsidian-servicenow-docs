@@ -28,7 +28,7 @@ Column visibility, order, and width preferences are saved to your user profile a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **EEnterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **EEnterprise Agile Planning**.
 
 2.  From the Agile structure section of the left navigation panel, choose your team and open the **Hierarchy** tab.
 
@@ -50,6 +50,3 @@ Column visibility, order, and width preferences are saved to your user profile a
 
 [Work item hierarchy for EAP teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-hierarchy-tab.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

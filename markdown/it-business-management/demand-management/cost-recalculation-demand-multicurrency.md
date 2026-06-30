@@ -18,10 +18,10 @@ Updating the unit cost, quantity, or fiscal period of a cost plan updates all th
 
 -   **Changes in Unit cost, Quantity, and Recurring check box of a cost plan**
 
-    When you change the values of any of these fields in the [[demand-plan-form|Cost Plan form]] with multicurrency view enabled, the following values are recalculated:
+    When you change the values of any of these fields in the Cost Plan form with multicurrency view enabled, the following values are recalculated:
 
     -   When you modify the **Unit cost** field, **Quantity** field, or **Recurring** check box of the Cost Plan form, the total planned cost is recalculated in demand currency.
-    -   The **Cost in demand currency** in the [[cost-plan-breakdown|Cost Plan Breakdown]] is also recalculated.
+    -   The **Cost in demand currency** in the Cost Plan Breakdown is also recalculated.
     -   The values in the **Capital expense in demand currency**, **Operating expense in demand currency**, and the **Total planned cost in demand currency** fields of the demand are recalculated.
 -   **Changes in the fiscal period of a cost plan**
 
@@ -39,7 +39,3 @@ Updating the unit cost, quantity, or fiscal period of a cost plan updates all th
 
 **Parent Topic:**[Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md)
 
-## Related
-
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

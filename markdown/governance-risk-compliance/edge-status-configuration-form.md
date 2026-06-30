@@ -12,7 +12,7 @@ breadcrumb: [Configure the Edge status configurations, Configure the Edge config
 
 # Edge status configuration form
 
-Use the [[edge-configuration-form|Edge configuration form]] to configure the Edge status settings for the selected Nexus map configuration. You can customize the display of connectors that meet specific conditions by assigning them distinct colors and connector types.
+Use the Edge configuration form to configure the Edge status settings for the selected Nexus map configuration. You can customize the display of connectors that meet specific conditions by assigning them distinct colors and connector types.
 
 |Field|Description|
 |-----|-----------|
@@ -24,6 +24,3 @@ Use the [[edge-configuration-form|Edge configuration form]] to configure the Edg
 |Label|Label to be defined for the node, for example, Primary.|
 |Order|Order assigned to the Edge status configuration. This field is auto-assigned. The system selects the configuration to use when an edge satisfies the condition and has the least order.|
 
-## Related
-
-- [[edge-configuration-form|Edge configuration form]]

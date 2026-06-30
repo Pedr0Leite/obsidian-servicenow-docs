@@ -18,7 +18,7 @@ If you have the admin role, you can install the Lead to Cash Core application. T
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you may have to install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you may have to install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -81,12 +81,7 @@ Load the demo data after installing the Lead to Cash Core application.1.  Instal
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[lead-to-cash|Lead to Cash Core]]
+[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)
 
-## Related
-
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[use-cases|Use cases]]

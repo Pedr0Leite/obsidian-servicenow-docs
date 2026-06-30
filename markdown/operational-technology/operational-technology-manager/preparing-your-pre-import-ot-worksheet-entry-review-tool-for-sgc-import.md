@@ -819,7 +819,7 @@ string
 
 </td><td>
 
-Assigned Purdue level for the OT device. Assigning a Purdue level ensures that the Discovery for the [[operational-technology-overview|Operational Technology]] function properly locates each item at the correct ICS level and produces accurate Discovery results. Examples: 1, 2, 3
+Assigned Purdue level for the OT device. Assigning a Purdue level ensures that the Discovery for the Operational Technology function properly locates each item at the correct ICS level and produces accurate Discovery results. Examples: 1, 2, 3
 
 </td></tr><tr><td>
 
@@ -1487,6 +1487,3 @@ Name of the primary support group responsible for managing the backup.Examples: 
 
 **Parent Topic:**[Create an import task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/create-import-task-excel-sgc.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

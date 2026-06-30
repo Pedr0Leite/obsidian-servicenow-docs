@@ -70,7 +70,7 @@ Priority
 
 </td><td>
 
-Priority at which the [[hs-findings|findings]] should be resolved.
+Priority at which the findings should be resolved.
 
 </td></tr><tr><td>
 
@@ -156,6 +156,3 @@ Script that executes against each record in a table containing a field of the de
 </table>
 **Parent Topic:**[Create a check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 
-## Related
-
-- [[hs-findings|Findings]]

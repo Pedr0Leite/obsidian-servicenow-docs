@@ -24,7 +24,7 @@ You can also create and save filters to provide quick access to common CI search
 
 After identifying the CIs affected by a change request, you can add them to the **Affected CIs** related list on the change request. After saving affected CIs, you can open the form context menu and select the **Refresh Impacted Services** option. This option populates the **Impacted Services/CIs** related lists based on the primary CI i.e. the CI that is mentioned on the form.
 
-The **Impacted Services/CIs** and **Service Offering** related lists represents a many-to-many relationship between the Task \[task\] and CMDB \[cmdb\_ci\] tables. The related list displays CIs, such as business services or other CI classes, and the offerings that are impacted. You can add this related list to any task form such as an incident or [[problem-form|problem form]]. You can also enter the details of the impacted services and the service offerings manually, as required.
+The **Impacted Services/CIs** and **Service Offering** related lists represents a many-to-many relationship between the Task \[task\] and CMDB \[cmdb\_ci\] tables. The related list displays CIs, such as business services or other CI classes, and the offerings that are impacted. You can add this related list to any task form such as an incident or problem form. You can also enter the details of the impacted services and the service offerings manually, as required.
 
 **Note:**
 
@@ -89,7 +89,7 @@ Use the **Configuration Item** &gt; **Configuration** &gt; **CI Class Manager**.
 
 In the Affected CIs related list, a new filter is added for the Principal Class. You can control this functionality by the system property **com.snc.task.principal\_class\_filter**. The property contains all the task types where the Principal Class filter is applied to.
 
-When you [[t_CreateAChange|create a change request]], you can add multiple CIs to that change request using the **Affected CIs** or **Impacted Services/CIs** related lists in the change record. Affected CIs can be added only when the change request is in the **New** state.
+When you create a change request, you can add multiple CIs to that change request using the **Affected CIs** or **Impacted Services/CIs** related lists in the change record. Affected CIs can be added only when the change request is in the **New** state.
 
 ### Procedure
 
@@ -139,7 +139,4 @@ Role required: itil, sn\_change\_write, or admin
 
 6.  Click the **Impacted Services/CIs** tab to see any dynamic services that are associated with the affected CI and that are impacted by the change request.
 
-## Related
 
-- [[problem-form|Problem form]]
-- [[t_CreateAChange|Create a change request]]

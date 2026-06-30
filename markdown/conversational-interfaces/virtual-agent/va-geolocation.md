@@ -67,7 +67,7 @@ The Geolocation topic block properties sheet lets topic authors specify the inpu
 
 \[Omitted image "va-geolocation-user-prompt.png"\] Alt text: The value of the permissionPrompt string is "Would you like to share your location?"
 
-Use the input mappings to customize how [[virtual-agent-landing-page|Virtual Agent]] asks users for permission to share their location. The response is passed to the topic block.
+Use the input mappings to customize how Virtual Agent asks users for permission to share their location. The response is passed to the topic block.
 
 Use the output mappings to specify the variables that are returned from the topic block in the conversation.
 
@@ -79,6 +79,3 @@ All the variables are selected by default. Keep the default choices, or select t
 
 For more information about the Geolocation topic block properties, see [Geolocation topic block parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-platform-topicblocks.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

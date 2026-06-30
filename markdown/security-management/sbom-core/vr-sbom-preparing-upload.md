@@ -14,7 +14,7 @@ breadcrumb: [Use, Software Bill of Materials, Unified Security Exposure Manageme
 
 # Uploading Software Bill of Materials files using a REST API
 
-Review the following information prior to uploading [[sbom-landing|Software Bill of Materials]] files using an API.
+Review the following information prior to uploading Software Bill of Materials files using an API.
 
 ## Using the REST API
 
@@ -179,7 +179,7 @@ Starting with v4.0 of SBOM Core, the following enhancements were made to support
 -   Import additional information in CycloneDX SBOM files with the \(sn\_sbom\_core.collect\_properties\) property. This property is deactivated by default. Activate the property to import information that is generally not supported. Any information imported from these properties is uploaded to the SBOM Component Property \[sn\_sbom\_comp\_property\] table for the following:
     -   Uploaded SBOM files
     -   Metadata
-    -   Individual [[vulnerabilities|vulnerabilities]]
+    -   Individual vulnerabilities
     -   Components
 -   View imported component data for declared and concluded licenses for SBOM files in versions 1.4 and later of CycloneDX in two new license fields:
     -   **Declared**
@@ -219,7 +219,3 @@ All the components listed in an SBOM have a defined `type`.
 
 [Viewing reports and dashboards in the Software Bill of Materials workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-viewing-data-overview.md)
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

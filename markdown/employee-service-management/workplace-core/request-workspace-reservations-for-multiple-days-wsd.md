@@ -14,7 +14,7 @@ breadcrumb: [Making workplace reservations, Request employee-related services, W
 
 # Request a workplace reservation for multiple days
 
-Request a workplace reservation for the days during which you want to return to office by using [[workplace-safety-mgmt-hr|Workplace Core]].
+Request a workplace reservation for the days during which you want to return to office by using Workplace Core.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Role required: sn\_wsd\_core.workplace\_user
 
 Request a workplace reservation either in a defined shift schedule or for a custom time for a specific date range during which you want to work from the office.
 
-You can also access the reservation form using your mobile device. From the [[mobile-employee-experience|Now Mobile app]], navigate to **Workplace core** and choose either **Request a short-term shift and space** or **Request a short-term space**.
+You can also access the reservation form using your mobile device. From the Now Mobile app, navigate to **Workplace core** and choose either **Request a short-term shift and space** or **Request a short-term space**.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse [[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Reserve a space for a predefined shift or for a custom time.
 
@@ -150,7 +150,7 @@ The state of your request is set to Awaiting approval, which indicates that the 
 
 ## What to do next
 
-You can check the status of your reservation request or choose to cancel your request using [[workplace-services-portal-hr|Workplace Service Portal]] or the Now Mobile app.
+You can check the status of your reservation request or choose to cancel your request using Workplace Service Portal or the Now Mobile app.
 
 -   On Workplace Service Portal, go to the **Requests** tab to view your requests and reservations.
 -   On the Now Mobile app's navigation bar, tap **For Me** and scroll down to the **My request** section to view your requests and reservations.
@@ -160,10 +160,3 @@ You can check the status of your reservation request or choose to cancel your re
 
 **Parent Topic:**[Making workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/making-workspace-reservations.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

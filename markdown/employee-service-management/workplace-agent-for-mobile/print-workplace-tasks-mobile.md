@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 ## Procedure
 
-1.  Log in to [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application.
+1.  Log in to Workplace Agent for mobile application.
 
     The launch screen opens with your **Work view**.
 
@@ -70,6 +70,3 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 [Offline mode]()
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

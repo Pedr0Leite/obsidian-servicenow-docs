@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Configure mobile content
 
-Configure mobile content such as banners, text cards, and video for content delivery or for use in campaigns. [[ec-mobile-content|Mobile content]] is delivered to users that meet the audience criteria on Now Mobile.
+Configure mobile content such as banners, text cards, and video for content delivery or for use in campaigns. Mobile content is delivered to users that meet the audience criteria on Now Mobile.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cd.content\_manager
 
 ## About this task
 
-Mobile content displays in a carousel section on the [[mobile-employee-experience|Now Mobile app]] to users that meet the specified audience criteria. You can configure mobile banners, text cards, and videos for content delivery or for use in campaign.
+Mobile content displays in a carousel section on the Now Mobile app to users that meet the specified audience criteria. You can configure mobile banners, text cards, and videos for content delivery or for use in campaign.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ Configure content for a mobile video.
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[ec-mobile-content|Mobile content]]
-- [[mobile-employee-experience|Now Mobile app]]

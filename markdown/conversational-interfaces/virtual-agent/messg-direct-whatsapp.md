@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational Integration with WhatsApp \(WhatsApp Cloud API\)
 
-Use this application to enable requesters to interact on WhatsApp chat with a [[virtual-agent-landing-page|Virtual Agent]] or live agent. The application connects a requester with a Virtual Agent or live agent using your company's WhatsApp business phone number.
+Use this application to enable requesters to interact on WhatsApp chat with a Virtual Agent or live agent. The application connects a requester with a Virtual Agent or live agent using your company's WhatsApp business phone number.
 
 ## Get started with Conversational Integration with WhatsApp \(WhatsApp Cloud API\)
 
@@ -36,11 +36,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   **[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-configure.md)**  
 Install and set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application to enable requesters to interact with virtual and live agents.
 -   **[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-using.md)**  
-Agents and requesters can use WhatsApp chat conversations through Virtual Agent to communicate across active interactions, notifications, and [[awa-service-channels|service channels]].
+Agents and requesters can use WhatsApp chat conversations through Virtual Agent to communicate across active interactions, notifications, and service channels.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-service-channels|Service channels]]

@@ -15,7 +15,7 @@ breadcrumb: [Task dependencies and relationships, Agile in CWM, Use, Collaborati
 
 # Add a dependency to a work item in CWM
 
-Link a work item to another in [[cwm-landing|Collaborative Work Management]] \(CWM\) to show how they relate, whether one is a prerequisite for another or they are generally connected.
+Link a work item to another in Collaborative Work Management \(CWM\) to show how they relate, whether one is a prerequisite for another or they are generally connected.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ If a relationship doesn't apply to your task anymore, you can remove it. For mor
 
 [Remove a dependency from a work item in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/remove-a-dependency-from-a-work-item-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

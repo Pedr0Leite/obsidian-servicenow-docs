@@ -14,7 +14,7 @@ breadcrumb: [Serverless Discovery, Running discoveries in your network, Using Di
 
 # Create pattern and schedule for standard serverless discovery
 
-To find application CIs that reside on an unknown host, create an infrastructure pattern for standard [[serverless-discovery|serverless discovery]]. After creating the pattern, create a [[r-discovery|Discovery]] schedule that triggers the pattern.
+To find application CIs that reside on an unknown host, create an infrastructure pattern for standard serverless discovery. After creating the pattern, create a Discovery schedule that triggers the pattern.
 
 ## Before you begin
 
@@ -111,15 +111,10 @@ You can reuse this schedule to run the same pattern using different parameters.
 
 ### Result
 
-Check the [[c_DiscoveryStatus|Discovery status]] to see the Discovery log, the devices list, which holds the discovered CIs, and the ECC queue records. Note that the Shazzam probe did not launch and Discovery did not trigger any classification probes.
+Check the Discovery status to see the Discovery log, the devices list, which holds the discovered CIs, and the ECC queue records. Note that the Shazzam probe did not launch and Discovery did not trigger any classification probes.
 
 **Related topics**  
 
 
 [Discovery status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

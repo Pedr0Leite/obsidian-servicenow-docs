@@ -14,9 +14,9 @@ breadcrumb: [Playbook, Explore, Technology Product Support Case, Product Support
 
 # Playbook stages and activities
 
-The [[tech-product-support-playbook|Technology Product Support Case playbook]] includes stages and activities that assist agents in researching and resolving technology cases.
+The Technology Product Support Case playbook includes stages and activities that assist agents in researching and resolving technology cases.
 
-When an agent creates a [[tpsc-landing-page|technology product support case]], the system opens a service selector modal and displays the services defined for the [[tech-product-support-case-type|Technology Product Support case type]].
+When an agent creates a technology product support case, the system opens a service selector modal and displays the services defined for the Technology Product Support case type.
 
 The agent selects a service and then selects **Create** to create a case. The system creates the case and launches the Technology Product Support Case playbook. This playbook includes the stages and activities described in the following sections.
 
@@ -279,8 +279,3 @@ The Technology Product Case Troubleshoot recommended actions rule:
 
 For more information, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
-## Related
-
-- [[tech-product-support-playbook|Technology Product Support Case playbook]]
-- [[tpsc-landing-page|Technology Product Support Case]]
-- [[tech-product-support-case-type|Technology Product Support case type]]

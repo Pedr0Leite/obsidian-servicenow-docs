@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Enable Dispatcher Workspace settings
 
-Determine what is displayed in the [[dispatcher-activities|Dispatcher Workspace]] so you only see the information most relevant to your work.
+Determine what is displayed in the Dispatcher Workspace so you only see the information most relevant to your work.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## About this task
 
-Quick settings in Dispatcher Workspace provide access to certain capabilities of [[fsm-application-landing-page|Field Service Management]] while assigning the work order tasks.
+Quick settings in Dispatcher Workspace provide access to certain capabilities of Field Service Management while assigning the work order tasks.
 
 ## Procedure
 
@@ -64,7 +64,7 @@ Enable Auto-refresh
 
 </td><td>
 
-Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created.**Note:** This option appears only when the Enable Auto-refresh system property is enabled. For more information, see [[configure-workspce-settings|Configure settings for Dispatcher Workspace]].
+Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created.**Note:** This option appears only when the Enable Auto-refresh system property is enabled. For more information, see [Configure settings for Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-workspce-settings.md).
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Drag and drop unassigned tasks on top of already scheduled tasks on the calendar
 
 </td><td>
 
-[[handle-overlap-tasks|Determine how overlapping tasks are assigned]]. You can also adjust how often the overlapping tasks pop-up window appears.
+Determine how overlapping tasks are assigned. You can also adjust how often the overlapping tasks pop-up window appears.
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ Select time zones for calendar
 
 </td><td>
 
-Entry to choose which time zones are available from the time zone drop-down on the Schedule and Hybrid views of Dispatcher Workspace. You can choose one or more.**Note:** This setting isn't available if [[enable-equalized-time|Enable resource time indicators]] is on.
+Entry to choose which time zones are available from the time zone drop-down on the Schedule and Hybrid views of Dispatcher Workspace. You can choose one or more.**Note:** This setting isn't available if Enable resource time indicators is on.
 
 </td></tr><tr><td>
 
@@ -547,10 +547,4 @@ The percentage of work tasks the agent or group has completed for the day. Produ
 </td></tr></tbody>
 </table>10. Select **Save**.
 
-## Related
 
-- [[configure-workspce-settings|Configure settings for Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[handle-overlap-tasks|Determine how overlapping tasks are assigned]]
-- [[enable-equalized-time|Enable resource time indicators]]

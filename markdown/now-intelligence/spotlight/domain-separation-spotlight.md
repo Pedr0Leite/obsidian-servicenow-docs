@@ -18,7 +18,7 @@ If you have domain separation enabled, Spotlight applies it during Spotlight job
 
 ## Domain of the Spotlight group
 
-When you [[create-spotlight-group|create a Spotlight group]], you create it in the domain of the user that you are logged in as when you create the group. For example, if you are a user in the ACME Products domain and you create a Spotlight group, that group is created in the ACME Products domain. If you create a Spotlight group as a user who is not a member of any domain, that Spotlight group is in the Global domain.
+When you create a Spotlight group, you create it in the domain of the user that you are logged in as when you create the group. For example, if you are a user in the ACME Products domain and you create a Spotlight group, that group is created in the ACME Products domain. If you create a Spotlight group as a user who is not a member of any domain, that Spotlight group is in the Global domain.
 
 You can copy a Spotlight group to other domains, as defined in ServiceNow AI Platform® domain separation.
 
@@ -28,7 +28,7 @@ If you are logged into a different domain than the domain of a Spotlight group, 
 
 ## Spotlight criteria domains
 
--   When you [[create-spotlight-criteria|create Spotlight criteria]] for a global Spotlight group, the criteria are created in the domain of the logged-in user.
+-   When you create Spotlight criteria for a global Spotlight group, the criteria are created in the domain of the logged-in user.
 -   When you create Spotlight criteria for a Spotlight group that is in a specific domain, the Spotlight criteria are created in that domain.
 
 Messages inform you of the domain situation when you create Spotlight criteria.
@@ -52,7 +52,3 @@ If the Spotlight group evaluates platform data, the main indicator and all crite
 
 [Domain separation and Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWithDomainSeparation.md)
 
-## Related
-
-- [[create-spotlight-group|Create a Spotlight group]]
-- [[create-spotlight-criteria|Create Spotlight criteria]]

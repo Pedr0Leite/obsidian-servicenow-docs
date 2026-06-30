@@ -14,7 +14,7 @@ breadcrumb: [Organization chart in Employee Center Pro, Setup task management, C
 
 # Configure eligible users for org chart
 
-Define the eligible users to show up in the org chart. Admin can create a new eligible user configuration from one of the Users, [[c_HRProfileRecords|HR Profile]], and [[emp-slate-employee-profile|Employee Profile]] tables.
+Define the eligible users to show up in the org chart. Admin can create a new eligible user configuration from one of the Users, HR Profile, and Employee Profile tables.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Organization Chart** &gt; **Eligible users**.
+1.  Navigate to **Employee Center** &gt; **Organization Chart** &gt; **Eligible users**.
 
 2.  Click **New** or open an existing record.
 
@@ -60,7 +60,7 @@ Application
 
 </td><td>
 
-Application that you want to configure the [[activity-lxp|activity]] for.
+Application that you want to configure the activity for.
 
 </td></tr><tr><td>
 
@@ -110,9 +110,3 @@ When an employee with direct reports becomes ineligible, the direct reports are 
 
 [Organization chart in Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-org-chart.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

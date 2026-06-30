@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Components installed with Digital Product Release
 
-Several types of components are installed with activation of the [[dpr-landing-page|Digital Product Release]] app, including tables and user roles.
+Several types of components are installed with activation of the Digital Product Release app, including tables and user roles.
 
 ## Roles installed
 
@@ -210,7 +210,7 @@ Digital Product Release User
 
 </td><td>
 
-Accesses [[dpr-workspace|Digital Product Release Workspace]] to view release details and update and approve release tasks. Can’t create or modify releases.
+Accesses Digital Product Release Workspace to view release details and update and approve release tasks. Can’t create or modify releases.
 
 </td><td>
 
@@ -364,11 +364,11 @@ A product feature is a function or capability that adds value to a product or se
 
 </td></tr><tr><td>
 
-Product Model [[settings-mobile|Settings]] \[sn\_dpr\_model\_product\_settings\]
+Product Model Settings \[sn\_dpr\_model\_product\_settings\]
 
 </td><td>
 
-Stores product-level release settings that defines the readiness target date, templates, change [[c_Models|models]], and CI classes for each product or service.These settings are applied whenever a release is created or executed for that product or service.
+Stores product-level release settings that defines the readiness target date, templates, change models, and CI classes for each product or service.These settings are applied whenever a release is created or executed for that product or service.
 
 </td></tr><tr><td>
 
@@ -543,9 +543,3 @@ Mapping between product enhancements and work items\(records in the Work Item ta
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[settings-mobile|Settings]]
-- [[c_Models|Models]]

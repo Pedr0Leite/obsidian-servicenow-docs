@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # Publish a draft CMDB Data Manager policy
 
-If you created a draft Data Manager policy, or imported legacy certification schedules, you can activate that draft policy by publishing it in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]].
+If you created a draft Data Manager policy, or imported legacy certification schedules, you can activate that draft policy by publishing it in CMDB Workspaceor in Service Graph Workspace.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Deactivate a policy to temporarily prevent the policy from running:
 2.  Select a policy that you want to deactivate.
 3.  On a policy form select **Deactivate Policy**.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

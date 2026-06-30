@@ -14,11 +14,11 @@ breadcrumb: [Use, Resource Management Workspace, Project Portfolio Management, S
 
 # Manage resource assignments from Project Workspace
 
-Optimize project execution by assigning resources to tasks within the [[project-workspace-landing-page|Project Workspace]]. You can [[create-rsrc-asgnmnts-ppm|create resource assignments]] for any project or project task, specifying the tasks to be performed and the resources to be allocated. Use the Resource Management application to allocate and manage your resources in the Project Workspace.
+Optimize project execution by assigning resources to tasks within the Project Workspace. You can create resource assignments for any project or project task, specifying the tasks to be performed and the resources to be allocated. Use the Resource Management application to allocate and manage your resources in the Project Workspace.
 
 ## Resource assignments
 
-Resource assignment is a process of allocating a resource or group of resources to a project task. When a resource assignment is initiated, a resource plan is auto-generated in the back-end of the [[c_ProjectApplicationOverview|project management]] system. This resource plan details the information of how resources would be allocated throughout the project. Resource assignments are approved by the resource manager to make sure that the allocation aligns with the overall resource strategy, considering factors such as availability, skills, and project priorities. Resource assignments remain dynamic and can be edited throughout the project life cycle. Resources can be assigned based on defined attributes such as skills, expertise, or other criteria relevant to the project or task.
+Resource assignment is a process of allocating a resource or group of resources to a project task. When a resource assignment is initiated, a resource plan is auto-generated in the back-end of the project management system. This resource plan details the information of how resources would be allocated throughout the project. Resource assignments are approved by the resource manager to make sure that the allocation aligns with the overall resource strategy, considering factors such as availability, skills, and project priorities. Resource assignments remain dynamic and can be edited throughout the project life cycle. Resources can be assigned based on defined attributes such as skills, expertise, or other criteria relevant to the project or task.
 
 **Note:**
 
@@ -28,7 +28,7 @@ Edit the child resource assignments directly using the inline editing from the r
 
 Using Resource Management, you can create, plan, track, and monitor resource assignments at a project or task level in the Project Workspace. With Resource Management in Project Workspace, you can:
 
--   [[create-attribute-resource-assignment|Create an attribute-based resource assignment]].
+-   Create an attribute-based resource assignment.
 -   Change the resource assignment dates, resources, efforts, and proposed allocations at any level of the project.
 -   View resource allocations using new heatmap modal. The allocations are color-coded to display the availability of the resources.
 -   View the primary attributes such as Group, Role, and Skill of each resource in the resource assignment pane. They are useful when you work on reassigning a task to a different user with the same primary attributes.
@@ -59,19 +59,11 @@ Create an attribute-based resource assignment in the Project Workspace applicati
 -   **[Update resource assignment from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/update-ra-pws-rmw.md)**  
 Update a resource assignment that is associated with a project or project task.
 -   **[Delete a resource assignment using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/delete-ra-pws-rmw.md)**  
-[[delete-resource-assignment-pw|Delete a resource assignment from Project Workspace]]. Deleting an assignment also deletes all associated resource allocations.
+Delete a resource assignment from Project Workspace. Deleting an assignment also deletes all associated resource allocations.
 -   **[Update resource assignments using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/update-ra-heatmap-pws-rmw.md)**  
-Use the allocation heatmap capability in Project Workspace to view and update the [[r_AllocatingResources|resource allocation]].
+Use the allocation heatmap capability in Project Workspace to view and update the resource allocation.
 -   **[Realign resource assignment to project task using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/realign-ra-pws-rmw.md)**  
 Realign or synchronize the resource assignment dates with the project task dates. This synchronization helps to schedule and align the resource assignments with the timeline of project task.
 
 **Parent Topic:**[Use resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-assignment.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-attribute-resource-assignment|Create an attribute-based resource assignment]]
-- [[delete-resource-assignment-pw|Delete a resource assignment from Project Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

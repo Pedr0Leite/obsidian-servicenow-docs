@@ -14,7 +14,7 @@ breadcrumb: [CMDB Compliance, Configuration Management Database \(CMDB\), Config
 
 # Compliance Activation
 
-Compliance functionality is provided by the Certification Core \(com.snc.certification\_core\) plugin which contains shared functionality required for [[c_CertificationAudits|certification audits]].
+Compliance functionality is provided by the Certification Core \(com.snc.certification\_core\) plugin which contains shared functionality required for certification audits.
 
 The Certification Core \(com.snc.certification\_core\) plugin consists of the following plugins, and is activated by default.
 
@@ -22,6 +22,3 @@ The Certification Core \(com.snc.certification\_core\) plugin consists of the fo
 -   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md): [Architecture Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ArchitectureCompliance.md) \(com.snc.architecture\_compliance\), which automatically activates the Version Management \(com.snc.version\) plugin that manages certification filter and template versions.
 -   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md): [Data Certification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_DataCertification.md) \(com.snc.certification\_v2\), which automatically activates the Version Management \(com.snc.version\) plugin that manages certification filter versions.
 
-## Related
-
-- [[c_CertificationAudits|Certification audits]]

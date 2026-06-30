@@ -14,15 +14,10 @@ breadcrumb: [Outlook Actionable Messages, Survey administration, Use surveys, Su
 
 Customize the body message for a request, change, and request item approval sent in Microsoft Outlook.
 
--   **[[customize-fields-request|Customize fields in the approval message for request]]**  
+-   **[Customize fields in the approval message for request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/customize-fields-request.md)**  
 Customize the body message for a request and request item sent in Microsoft Outlook.
--   **[[customize-fields-change|Customize fields in the approval message for change request]]**  
+-   **[Customize fields in the approval message for change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/customize-fields-change.md)**  
 Customize the body message for a change request approval sent in Microsoft Outlook.
 
-**Parent Topic:**[[outlook-actionable-messages|Outlook Actionable Messages]]
+**Parent Topic:**[Outlook Actionable Messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/outlook-actionable-messages.md)
 
-## Related
-
-- [[customize-fields-request|Customize fields in the approval message for request]]
-- [[customize-fields-change|Customize fields in the approval message for change request]]
-- [[outlook-actionable-messages|Outlook Actionable Messages]]

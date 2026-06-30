@@ -16,7 +16,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 An Amazing Admin can view and configure the system properties that support the OT subnet mapping feature.
 
-Users with the Amazing Admin role can access OT subnet mapping property settings by navigating to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **OT Subnet Mapping Properties**.
+Users with the Amazing Admin role can access OT subnet mapping property settings by navigating to **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **OT Subnet Mapping Properties**.
 
 <table id="table_orj_4bw_mtb"><thead><tr><th>
 
@@ -61,7 +61,3 @@ Override location of an OT device with subnet's location. If checked, the locati
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

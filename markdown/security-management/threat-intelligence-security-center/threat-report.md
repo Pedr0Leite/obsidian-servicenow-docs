@@ -14,21 +14,14 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Threat Report
 
-[[threat-reports|Threat Reports]] are collections of [[threat-intel-landing-page|threat intelligence]] focused on one or more topics. Threat reports apply for STIX 2.x.
+Threat Reports are collections of threat intelligence focused on one or more topics. Threat reports apply for STIX 2.x.
 
-Threat reports include description of a [[threat-actor|threat actor]], [[threat-intelligence-malware|malware]], attack technique, including context and related details. They are used to group-related threat intelligence together so that it can be published as a comprehensive cyber threat story.
+Threat reports include description of a threat actor, malware, attack technique, including context and related details. They are used to group-related threat intelligence together so that it can be published as a comprehensive cyber threat story.
 
 The Threat Report SDO contains a list of references to STIX Objects along with a textual description and the name of the report.
 
 -   **[Define Threat Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-threat-report.md)**  
-[[define-threat-reports|Define threat reports]] that describe a threat actor, malware, attack technique, including context and related details.
+Define threat reports that describe a threat actor, malware, attack technique, including context and related details.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-reports|Threat reports]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-malware|Malware]]
-- [[define-threat-reports|Define threat reports]]

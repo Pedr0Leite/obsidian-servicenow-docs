@@ -14,9 +14,9 @@ breadcrumb: [Exploring Employee Center, Employee Center, Unified Employee Experi
 
 # Employee Center for IT Service Management
 
-[[itsm-ec-landing|Employee Center for IT Service Management]] helps you improve the self-service capabilities and perform diverse admin and service management tasks from a dynamic unified [[employee-center-portal-overview|employee portal]].
+Employee Center for IT Service Management helps you improve the self-service capabilities and perform diverse admin and service management tasks from a dynamic unified employee portal.
 
-Automate routine agent interactions and increase the speed of resolution from the [[employee-center-landing-page|Employee Center]] portal. Recommendations based on machine [[exploring-learning-exp|learning]] enable automated incident categorization and assignment. It helps eliminate bottlenecks created by manual incident management on the IT Service Management ITSM.
+Automate routine agent interactions and increase the speed of resolution from the Employee Center portal. Recommendations based on machine learning enable automated incident categorization and assignment. It helps eliminate bottlenecks created by manual incident management on the IT Service Management ITSM.
 
 For more information on the Employee Center portal and the features, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 
@@ -43,7 +43,7 @@ Connect everything and easily scale across the enterprise to deliver the experie
 |Content recommendations|By popularity|Machine-learning driven|By popularity|
 |Content experience \(content automation, campaigns\)|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-check-mark-green.png"\] Alt text: Yes|
 |Content publishing \(content library, schedule content, org chart\)|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-check-mark-green.png"\] Alt text: Yes|
-|Integration-powered capabilities \([[web-application-employee-about|App launcher]] with SSO and non-SSO apps\)|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-check-mark-green.png"\] Alt text: Yes|
+|Integration-powered capabilities \(App launcher with SSO and non-SSO apps\)|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-check-mark-green.png"\] Alt text: Yes|
 |Employee forums|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-error-red-x.png"\] Alt text: No|\[Omitted image "icon-check-mark-green.png"\] Alt text: Yes|
 
 Meet increasing demands without further addition to staff while empowering existing IT staff and management staff to focus on more meaningful work. Provide better experience and support to the employees.
@@ -78,7 +78,7 @@ Configure and manage the capabilities to improve self-service and time-to-value.
 Ensure that the following requirements are met to use Employee Center with ITSM.
 
 -   You can use Employee Center with ITSM or ITSM Pro subscription.
--   You must subscribe to [[employee-center-pro-landing|Employee Center Pro]] separately from the ServiceNow store.
+-   You must subscribe to Employee Center Pro separately from the ServiceNow store.
 
 ## Configure the Employee Center functionalities for ITSM
 
@@ -129,7 +129,7 @@ admin
 
 </td></tr><tr><td>
 
-[[ecpro-content-delivery-mobile|Configure mobile content]]
+Configure mobile content
 
 </td><td>
 
@@ -155,7 +155,7 @@ admin
 
 </td></tr><tr><td>
 
-Work with [[action-group-framework|action framework]]
+Work with action framework
 
 </td><td>
 
@@ -179,7 +179,7 @@ sn\_hr\_sp.esc\_admin
 
 </td></tr><tr><td>
 
-Configure [[emp-slate-employee-profile|Employee Profile]]
+Configure Employee Profile
 
 </td><td>
 
@@ -190,7 +190,7 @@ Configure [[emp-slate-employee-profile|Employee Profile]]
 sn\_employee.admin
 
 </td></tr></tbody>
-</table>For more information on [[employee-center-dashboard-admin-it|configuring Employee Center]], see [Employee Center admin configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ec-portal.md).
+</table>For more information on configuring Employee Center, see [Employee Center admin configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ec-portal.md).
 
 ## Manage the Employee Center functionalities for ITSM
 
@@ -222,18 +222,5 @@ To use Employee Center for ITSM capabilities, follow these steps.
 |Mark service catalog items and knowledge base articles as your favorites|[Manage favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md)|Employee/Agent|
 |Track your leave balance on the same platform|[Personalized Answers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-personalized-search-on-employee-center.md)|Employee/Agent|
 
-For more information on [[using-emp-center|using Employee Center]], see [Using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-emp-center.md).
+For more information on using Employee Center, see [Using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-emp-center.md).
 
-## Related
-
-- [[itsm-ec-landing|Employee Center for IT Service Management]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ecpro-content-delivery-mobile|Configure mobile content]]
-- [[action-group-framework|Action framework]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-dashboard-admin-it|Configuring Employee Center]]
-- [[using-emp-center|Using Employee Center]]

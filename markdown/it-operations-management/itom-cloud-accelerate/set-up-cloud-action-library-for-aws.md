@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Action Library, Cloud Action Library, ITOM Cloud Ac
 
 # Set up Cloud Action Library for AWS
 
-Set up access to the Amazon Web Services \(AWS\) [[cloud-accounts|cloud accounts]] in [[cloud-actions-library-landing-page|Cloud Action Library]] to enable interaction between the application and the cloud.
+Set up access to the Amazon Web Services \(AWS\) cloud accounts in Cloud Action Library to enable interaction between the application and the cloud.
 
 ## Before you begin
 
@@ -103,7 +103,7 @@ Credential alias type.Select **Credential** from the Type drop-down list.
 
 5.  Set up an AWS service account.
 
-    1.  Navigate to **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Service accounts**.
+    1.  Navigate to **Cloud Provisioning and Governance** &gt; **Service accounts**.
 
     2.  Select **New**.
 
@@ -135,7 +135,7 @@ Account ID
 
 </td></tr><tr><td>
 
-[[r-discovery|Discovery]] credentials
+Discovery credentials
 
 </td><td>
 
@@ -164,7 +164,7 @@ Type of the datacenter where the account is hosted.Select **AWS Datacenter**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -197,7 +197,7 @@ Name of the trusted account.Configure this field only for accounts that don't us
 </td></tr></tbody>
 </table>    4.  Select **Submit**.
 
-6.  To use a management account to scan the member accounts of the AWS organization, [[create-assume-role-config|create an assume role configuration]] for the management account.
+6.  To use a management account to scan the member accounts of the AWS organization, create an assume role configuration for the management account.
 
     1.  If you don't want to use the OrganizationAccountAccessRole to access the member account, Configure trusting account for Cloud Action Library.
 
@@ -213,7 +213,7 @@ Name of the trusted account.Configure this field only for accounts that don't us
 
     The trusted account and trusting account can be in different AWS organizations or they can be in the same AWS organization.
 
-    1.  Configure trusting account for [[cloud-configuration-governance|Cloud Configuration Governance]].
+    1.  Configure trusting account for Cloud Configuration Governance.
 
         For more information, see [Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/configure-trusting-account-for-ccg.md).
 
@@ -222,12 +222,3 @@ Name of the trusted account.Configure this field only for accounts that don't us
 
 **Parent Topic:**[Exploring Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/exploring-cloud-actions-library.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[create-assume-role-config|Create an assume role configuration]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

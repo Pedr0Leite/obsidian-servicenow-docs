@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-Assigning visibility domains to all members of a group is preferred over granting them to individual [[users|users]].
+Assigning visibility domains to all members of a group is preferred over granting them to individual users.
 
-**Note:** Adding a visibility domain does not change a table or record's [[sc-access-control|access control]] rule requirements.
+**Note:** Adding a visibility domain does not change a table or record's access control rule requirements.
 
 ## Procedure
 
@@ -40,7 +40,4 @@ Assigning visibility domains to all members of a group is preferred over grantin
 
     \[Omitted image "Visibility\_domains\_group.png"\] Alt text: Visibility Domains group
 
-## Related
 
-- [[users|Users]]
-- [[sc-access-control|Access control]]

@@ -14,12 +14,12 @@ breadcrumb: [Use, HR Service Delivery Integration with Workday Learning, Integra
 
 # Import set tables in HR Service Delivery Integration with Workday Learning
 
-Import set tables into [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]
+Import set tables into HR Service Delivery Integration with Workday Learning
 
 -   **[HR Service Delivery Integration with Workday Learning to-dos staging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-todos.md)**  
-Import workday [[exploring-learning-exp|learning]] todos.
+Import workday learning todos.
 -   **[HR Service Delivery Integration with Workday Learning user course activity staging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-user-course-activity.md)**  
-Import workday learning user course [[activity-lxp|activity]] staging information.
+Import workday learning user course activity staging information.
 
 **Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-workday-learning-intg.md)
 
@@ -32,8 +32,3 @@ Import workday learning user course [[activity-lxp|activity]] staging informatio
 
 [Use transform maps]()
 
-## Related
-
-- [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

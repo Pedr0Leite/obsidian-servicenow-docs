@@ -58,7 +58,7 @@ Add, configure, review, and activate the Automated quality assurance skill, incl
         |Communication Quality &amp; Writing|Grammar &amp; mechanics|No spelling errors, typos, grammatical mistakes, or punctuation problems. Measures basic writing correctness — not tone or style.|
         |Clarity &amp; conciseness|Clear, direct language without jargon or redundancy. Good agents explain technical terms; weak agents ramble or write ambiguously.|
         |Tone &amp; professionalism|Helpful, respectful tone even with frustrated customers. Good agents acknowledge concerns; weak agents blame the customer or use overly casual language.|
-        |Formatting &amp; readability|Response structured for easy scanning using numbered [[migration-lists|lists]], bullets, and short paragraphs rather than walls of text.|
+        |Formatting &amp; readability|Response structured for easy scanning using numbered lists, bullets, and short paragraphs rather than walls of text.|
         |Customer Empathy|Issue acknowledgment|Agent explicitly acknowledges the customer's concern or frustration early in the response before jumping to a solution.|
         |Personalization|Response uses the customer's name and references specific case or account details rather than a generic reply.|
         |Active listening signals|Agent paraphrases or references specific details from the customer's message, showing they absorbed what was said.|
@@ -88,9 +88,9 @@ Add, configure, review, and activate the Automated quality assurance skill, incl
 
 8.  Select **Display** to activate the skill and make it visible in the In-product desktop for specific roles.
 
-    **Note:** The skill appears on [[migration-forms|forms]] and workspaces. By default, the skill is available to customer service managers and customer service agents’ roles. Admins can deactivate the skill to hide it from managers and agents during testing the configuration accuracy.
+    **Note:** The skill appears on forms and workspaces. By default, the skill is available to customer service managers and customer service agents’ roles. Admins can deactivate the skill to hide it from managers and agents during testing the configuration accuracy.
 
-9.  [[configure-data-model-roles|Assign roles]] that should have access to quality dashboards.
+9.  Assign roles that should have access to quality dashboards.
 
 10. Select **Review and Activate** to check the default setup.
 
@@ -106,8 +106,3 @@ Add, configure, review, and activate the Automated quality assurance skill, incl
 
 [Use automated quality assurance dashboard as a manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-quality-assurance-dashboard-as-a-manager.md)
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[configure-data-model-roles|Assign roles]]

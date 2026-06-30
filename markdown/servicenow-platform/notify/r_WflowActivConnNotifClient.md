@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Forward to notify client workflow activity
 
-The **forward to [[notify-landing-page|notify]] client** workflow activity connects a phone call to a Notify WebRTC client.
+The **forward to notify client** workflow activity connects a phone call to a Notify WebRTC client.
 
 ## Input variables
 
@@ -22,8 +22,8 @@ Input variables determine the initial behavior of the activity.
 
 |Variable|Description|
 |--------|-----------|
-|User|Select the user to [[c_Connect|connect]] the call to.|
-|Advanced|Select this [[check-box|check box]] to use a script to determine which client to connect to, instead of using the **User** variable.|
+|User|Select the user to connect the call to.|
+|Advanced|Select this check box to use a script to determine which client to connect to, instead of using the **User** variable.|
 |Script|Define a script that controls which client to connect to. This script should return a GlideRecord for a single User \[sys\_user\] record.|
 |Timeout \(in seconds\)|Enter the amount of time to wait for the call to be connected before hanging up.|
 |Record|Select this check box to record the call.|
@@ -36,8 +36,3 @@ You can add an error condition to this activity. The activity transitions throug
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

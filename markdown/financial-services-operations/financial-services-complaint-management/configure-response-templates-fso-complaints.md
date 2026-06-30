@@ -18,7 +18,7 @@ Create or modify a response template to define a reusable message that can be co
 
 ## Before you begin
 
-Ensure that the scope is selected for the [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] application. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Ensure that the scope is selected for the Financial Services Complaint Management application. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_bom\_compl.admin and sn\_templated\_snip.template\_snippet\_admin
 
@@ -49,6 +49,4 @@ Each template is associated with the Complaint Case \[sn\_bom\_compl\_service\] 
 
 4.  Click **Update**.
 
-## Related
 
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

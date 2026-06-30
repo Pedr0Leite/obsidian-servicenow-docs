@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Virtual Agent reference, Now Assist in Virtual Agent,
 
 # Enable agentic workflows in Virtual Agent
 
-Perform the following if you're trying to trigger an agentic workflow, but don't see the [[virtual-agent-landing-page|Virtual Agent]] option in the configuration.
+Perform the following if you're trying to trigger an agentic workflow, but don't see the Virtual Agent option in the configuration.
 
 -   Change system property:
 
@@ -36,11 +36,11 @@ Perform the following if you're trying to trigger an agentic workflow, but don't
     1.  From AI Agent Studio, select the AI agent that's part of the agentic workflow.
     2.  Navigate to **Select channels and status**.
     3.  in the Engage via Virtual Agent assistants panel, toggle **Allow** to on.
--   Alternative method - Promoting in [[assistant-designer|Assistant Designer]]:
+-   Alternative method - Promoting in Assistant Designer:
 
     If the property is already enabled but the workflow doesn't appear for users, perform the following:
 
-    1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistant Designer** &gt; **Asset library**.
+    1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer** &gt; **Asset library**.
     2.  Select your assistant from the list.
     3.  Find the agentic workflow or AI agent in the Assets section.
     4.  Select the **Show actions from this row** icon and set the Visibility option to **Promoted**.
@@ -50,8 +50,3 @@ Perform the following if you're trying to trigger an agentic workflow, but don't
 
 Agentic workflows are generally intent based. Once enabled for Virtual Agent, the LLM determines when to trigger the workflow based on the user's natural language input. For example, "I need to process an image for a new task".
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[convint-landing-page|Conversational Interfaces]]

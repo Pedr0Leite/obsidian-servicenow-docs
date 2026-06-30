@@ -14,7 +14,7 @@ breadcrumb: [Procurement, Asset Management, IT Service Management]
 
 # Domain separation and Procurement
 
-Domain separation is supported in [[c_Procurement|Procurement]] processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Procurement processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard\*
 
@@ -53,6 +53,3 @@ To create or edit Purchase Orders \(POs\) or PO line items that distinguish the 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

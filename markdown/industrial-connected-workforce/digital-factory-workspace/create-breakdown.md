@@ -14,7 +14,7 @@ breadcrumb: [Breakdown Management, Industrial Workflows, Use, Digital Factory Wo
 
 # Create a breakdown
 
-Create a breakdown record in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] to document a significant equipment failure or process stop. Use this task to capture key details such as duration, impact, and cause, and begin structured investigation and resolution.
+Create a breakdown record in the Digital Factory Workspace to document a significant equipment failure or process stop. Use this task to capture key details such as duration, impact, and cause, and begin structured investigation and resolution.
 
 ## Before you begin
 
@@ -43,11 +43,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 ## Result
 
-The breakdown is displayed in the breakdown list of and the list of all tasks. You can fix the breakdown and [[initiate-breakdown-analysis|initiate a breakdown analysis]] for in-depth investigation.
+The breakdown is displayed in the breakdown list of and the list of all tasks. You can fix the breakdown and initiate a breakdown analysis for in-depth investigation.
 
 **Parent Topic:**[Breakdown Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/breakdown-analysis.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[initiate-breakdown-analysis|Initiate a breakdown analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Dependency form
 
-Learn about the fields of the dependency form. Use this form to add and establish dependencies between planning items on the roadmap in [[portfolio-planning-app-landing-page|Portfolio Planning]] .
+Learn about the fields of the dependency form. Use this form to add and establish dependencies between planning items on the roadmap in Portfolio Planning .
 
 <table id="table_bgs_pn3_dtb"><thead><tr><th>
 
@@ -62,6 +62,3 @@ System-generated unique identification number for the dependency.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

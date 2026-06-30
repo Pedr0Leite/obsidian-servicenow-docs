@@ -16,15 +16,11 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 The email notifications provide alerts to the recruiters when a task is completed by an applicant.
 
-Receive a notification when one of your applicants completes an assigned task from the [[applicant-center-concept|Applicant Center]] portal.
+Receive a notification when one of your applicants completes an assigned task from the Applicant Center portal.
 
-The same is visible on the application record page in [[recruitment-workspace-concept|Recruitment workspace]]. If the applicant attached a document while completing a task, the attachment is visible in the Attachments section in the **Tasks** tab.
+The same is visible on the application record page in Recruitment workspace. If the applicant attached a document while completing a task, the attachment is visible in the Attachments section in the **Tasks** tab.
 
 Receive a reminder email when an assigned task is overdue. The **Notify Recruiters when Due Date is yesterday\(Overdue by one day\)** scheduled job is active by default.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

@@ -14,19 +14,19 @@ breadcrumb: [Security Tasks, Security Center, Platform Security]
 
 # Automatic Security Task generation
 
-Learn about how and when your instance generates [[security-task-manager|Security Tasks]].
+Learn about how and when your instance generates Security Tasks.
 
 ## Automatically generated Security Tasks
 
 Security Tasks can be automatically generated. Automatic Security Task generation is triggered by an associated event that occurred on the platform. For example:
 
--   **[[ca-metrics|Metrics]] threshold breached**
+-   **Metrics threshold breached**
 
     A Security Task is generated for a metric when it's threshold is breached. There’s only one open task for a metric, even if the same metric has multiple breaches. If a Security Task for a breached metric is closed, a new task is generated is the threshold is breached again.
 
 -   **Event notification**
 
-    A Security Task is generated when a security event notification triggers \(meets conditions of it's policy\). As with metrics, there’s only one open task for a policy, with a new task being generated if the previous one is closed, and the notification triggers again. For details on [[security-policies|security event notifications]], see [Security Event Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-policies.md).
+    A Security Task is generated when a security event notification triggers \(meets conditions of it's policy\). As with metrics, there’s only one open task for a policy, with a new task being generated if the previous one is closed, and the notification triggers again. For details on security event notifications, see [Security Event Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-policies.md).
 
 -   **Hardening score deviation**
 
@@ -34,7 +34,7 @@ Security Tasks can be automatically generated. Automatic Security Task generatio
 
 -   **Customer Action**
 
-    A Security Task is generated whenever a Customer Action is installed. For details on [[critical-updates|Customer Actions]], see [Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/critical-updates.md).
+    A Security Task is generated whenever a Customer Action is installed. For details on Customer Actions, see [Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/critical-updates.md).
 
 -   **Banner announcement**
 
@@ -43,7 +43,7 @@ Security Tasks can be automatically generated. Automatic Security Task generatio
 
 ## Automatically generated security settings
 
-[[sc-configuration|Configuration]] options for automatically generated Security Tasks are found in the [[sec-center-v2|security center]] properties page. Find these settings by navigating to **All** &gt; **Security Center** &gt; **Security Center Properties**.
+Configuration options for automatically generated Security Tasks are found in the security center properties page. Find these settings by navigating to **All** &gt; **Security Center** &gt; **Security Center Properties**.
 
 -   **Enable/Disable automated Security Tasks**
 
@@ -56,11 +56,3 @@ Security Tasks can be automatically generated. Automatic Security Task generatio
 
 **Parent Topic:**[Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md)
 
-## Related
-
-- [[security-task-manager|Security Tasks]]
-- [[ca-metrics|Metrics]]
-- [[security-policies|Security Event Notifications]]
-- [[critical-updates|Customer Actions]]
-- [[sc-configuration|Configuration]]
-- [[sec-center-v2|Security Center]]

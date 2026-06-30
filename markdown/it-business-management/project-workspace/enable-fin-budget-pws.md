@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Project Workspace, Configuring Project Wor
 
 # Enable financial budget allocation for projects in Project Workspace
 
-Enable allocation property after migrating to Next Experience to work on budget allocation for your projects using [[project-workspace-landing-page|Project Workspace]].
+Enable allocation property after migrating to Next Experience to work on budget allocation for your projects using Project Workspace.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Configure the budget attribute by expense type or cost type as an instance-level
 
 **Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-pws.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

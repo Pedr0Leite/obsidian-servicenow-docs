@@ -32,7 +32,7 @@ You can move a feature from one lane to another, which in turn updates the state
 
 The **Backlog** tab enables you to manage your ART backlog, and pre-plan the next program increment on the level of features.
 
-A program increment is a time frame in which various agile teams work in collaboration to deliver a substantial amount of work towards the end of the program increment cycle. Program increment in SAFe is equivalent to a sprint in [[agile-development|Agile Development]], typically spanning 8–12 weeks. The most common form of program increment comprises four development sprints followed by one innovation and planning sprint.
+A program increment is a time frame in which various agile teams work in collaboration to deliver a substantial amount of work towards the end of the program increment cycle. Program increment in SAFe is equivalent to a sprint in Agile Development, typically spanning 8–12 weeks. The most common form of program increment comprises four development sprints followed by one innovation and planning sprint.
 
 \[Omitted image "BacklogplanningSAFe.png"\] Alt text: Backlog tab
 
@@ -58,7 +58,7 @@ Use a centralized board to plan your program increments \(PIs\) for an agile rel
 
 [Components installed with Essential SAFe]()
 
-[Quick start [[c_Tests|tests]] for Essential SAFe]()
+[Quick start tests for Essential SAFe]()
 
 [SAFe entities]()
 
@@ -66,7 +66,3 @@ Use a centralized board to plan your program increments \(PIs\) for an agile rel
 
 [SAFe Board — Team level]()
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[c_Tests|Tests]]

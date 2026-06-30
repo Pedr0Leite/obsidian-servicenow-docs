@@ -26,7 +26,7 @@ You can create as many financial baselines as necessary and review the financial
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -75,6 +75,4 @@ Select **Create Baseline** from the More Actions option.
 
     After completing your work on the demand baseline, use the breadcrumb navigation to return to the **Demand Baselines** tab.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

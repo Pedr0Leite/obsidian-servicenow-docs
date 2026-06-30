@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Policy and Compliance Management reference
 
-Reference topics provide information about tables, roles, and properties installed with the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application.
+Reference topics provide information about tables, roles, and properties installed with the GRC: Policy and Compliance Management application.
 
 -   **[Components installed with Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_InstallWPolAndCompl.md)**  
 Reference topics provide additional information about components that are installed with the activation of the Policy and Compliance Management plugin. These components include tables, user roles, and properties.
@@ -23,6 +23,3 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 **Parent Topic:**[Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

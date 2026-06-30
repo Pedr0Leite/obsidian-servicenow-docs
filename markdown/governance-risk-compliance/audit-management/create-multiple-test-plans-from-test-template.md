@@ -14,7 +14,7 @@ breadcrumb: [Audit Test Template and Plans, Audit Management Overview, Audit Man
 
 # Create multiple test plans from a test template
 
-If GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] is installed, a test template can be used to create test plans for all the controls associated with the control objective of the test plan.
+If GRC: Policy and Compliance Management is installed, a test template can be used to create test plans for all the controls associated with the control objective of the test plan.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sn\_audit.manager or sn\_audit.admin
 
 **Parent Topic:**[Manage test templates and test plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_AuditTesting.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

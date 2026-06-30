@@ -17,7 +17,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 The **Overview** tab helps you understand Log Analytics alerts, Log Analytics alert groups, and component-based alerts.
 
 -   **[Sections and cards on the Overview tab for a Log Analytics alert in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-ovrvw-tab-single-ci-alerts-sow.md)**  
-The **Overview** tab in [[hla-landing-page|Health Log Analytics]] helps you understand Log Analytics alerts.
+The **Overview** tab in Health Log Analytics helps you understand Log Analytics alerts.
 -   **[Sections and cards on the Overview tab for a Log Analytics group in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-ovrvw-tab-log-anltcs-alerts-sow.md)**  
 The alert **Overview** tab in Health Log Analytics helps you understand Log Analytics groups.
 -   **[Sections and cards on the Overview tab for a Component-based alert in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-ovrvw-tab-comp-based-alerts-sow.md)**  
@@ -25,6 +25,3 @@ The alert **Overview** tab in Health Log Analytics helps you understand Componen
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

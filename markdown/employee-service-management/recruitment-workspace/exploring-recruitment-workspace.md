@@ -14,17 +14,17 @@ breadcrumb: [Recruitment Workspace, Hiring Experiences, HR Service Delivery, Emp
 
 # Exploring Recruitment Workspace
 
-Learn more about [[recruitment-workspace-concept|Recruitment workspace]] and review the benefits it can provide to the recruiters in your organization.
+Learn more about Recruitment workspace and review the benefits it can provide to the recruiters in your organization.
 
 ## Recruitment workspace overview
 
-The Recruitment workspace application provides recruiters with a centralized platform to manage their work efficiently, offering features such as KPI dashboards, job requisition tracking, and stakeholder collaboration. It enables recruiters to streamline their [[hiring-tab-concept|hiring]] process, track key metrics, and improve hiring efficiency in one unified workspace.
+The Recruitment workspace application provides recruiters with a centralized platform to manage their work efficiently, offering features such as KPI dashboards, job requisition tracking, and stakeholder collaboration. It enables recruiters to streamline their hiring process, track key metrics, and improve hiring efficiency in one unified workspace.
 
 ## Recruitment workspace users
 
 |User|Description|
 |----|-----------|
-|Recruiter|Recruiters manage job requisitions and applications, collaborate with hiring managers and applicants, schedule and [[manage-interviews-recruiter|manage interviews]].|
+|Recruiter|Recruiters manage job requisitions and applications, collaborate with hiring managers and applicants, schedule and manage interviews.|
 |Recruitment coordinator|Recruitment coordinator assists the recruiter during the hiring process.|
 
 ## Recruitment workspace benefits
@@ -43,15 +43,9 @@ The Recruitment workspace application provides recruiters with a centralized pla
 
 ## What to explore next
 
-To learn more about configuring and [[use-recruit-workspace|using Recruitment workspace]], see:
+To learn more about configuring and using Recruitment workspace, see:
 
 -   [Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 -   [Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 -   [Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]
-- [[manage-interviews-recruiter|Manage interviews]]
-- [[use-recruit-workspace|Using Recruitment workspace]]

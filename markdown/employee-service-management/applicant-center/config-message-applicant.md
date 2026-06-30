@@ -14,7 +14,7 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure messaging for the applicant
 
-Configure the conditions when an applicant can reach out to the recruiters within the [[applicant-center-concept|Applicant Center]]. Create a clear communication channel with the [[hiring-tab-concept|hiring]] team and a better hiring experience for the applicants.
+Configure the conditions when an applicant can reach out to the recruiters within the Applicant Center. Create a clear communication channel with the hiring team and a better hiring experience for the applicants.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Set up trigger conditions to enable the messaging functionality for an applicant
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[hiring-tab-concept|Hiring]]

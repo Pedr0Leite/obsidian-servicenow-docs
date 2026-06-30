@@ -22,7 +22,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 **Note:** Administrator-created restrictions may prevent users with these roles from seeing the **Schedule** option.
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[export-visualization-vd|Export a data visualization from the Visualization Designer]].
+This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md).
 
 \[Omitted video\] Description: Illustration of the steps in this procedure for exporting a Core UI list report to Excel
 
@@ -45,8 +45,3 @@ This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If you
 
 The recipients of the scheduled report will receive it in the form specified.
 
-## Related
-
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]

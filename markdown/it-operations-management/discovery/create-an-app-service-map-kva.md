@@ -18,9 +18,9 @@ Create a service map that maps application services based on traffic between the
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
-You should first enable the application service maps, by using Istio or Linkerd service meshes or a ServiceNow DaemonSet as part of the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) installation. For more information, see [Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md).
+You should first enable the application service maps, by using Istio or Linkerd service meshes or a ServiceNow DaemonSet as part of the Kubernetes Visibility Agent \(KVA\) installation. For more information, see [Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md).
 
 ## Procedure
 
@@ -47,7 +47,3 @@ The application service map is created and is visible in the CMDB workspace.
 
 **Parent Topic:**[Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

@@ -12,11 +12,11 @@ breadcrumb: [Settings page, Use the Console pages, Discovery Console for Operati
 
 # Reprocess Auto Query results
 
-On the [[settings-page-console|Settings page]], the Reprocess tab is available to reprocess Auto Query results.
+On the Settings page, the Reprocess tab is available to reprocess Auto Query results.
 
 ## Reprocess feature
 
-The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. This is useful when a query driver\(s\) is updated. Instead of rescanning devices, the system reuses existing stored scan results and processes them again. The results display on the [[results-page-console|Results page]].
+The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. This is useful when a query driver\(s\) is updated. Instead of rescanning devices, the system reuses existing stored scan results and processes them again. The results display on the Results page.
 
 The Reprocess feature runs based on the configured schedule. As displayed in this table, you can schedule your configuration.
 
@@ -91,7 +91,3 @@ Yes / No
 
 \[Omitted image "reprocess-tab-edit.png"\] Alt text: Settings&gt;Reprocess tab
 
-## Related
-
-- [[settings-page-console|Settings page]]
-- [[results-page-console|Results page]]

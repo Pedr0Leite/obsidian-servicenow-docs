@@ -20,10 +20,10 @@ Role required: admin
 
 ## About this task
 
-You can [[create-dynamic-attribute-store-field-transient|create a dynamic attribute store field]] to store one or more dynamic attributes that describe a record. When you create a dynamic attribute store field, the following schema changes occur automatically.
+You can create a dynamic attribute store field to store one or more dynamic attributes that describe a record. When you create a dynamic attribute store field, the following schema changes occur automatically.
 
--   A dynamic namespace is automatically created and associated with the dynamic attribute store field. Dynamic attributes, dynamic categories and other items defined in the dynamic namespace become available to the store field. You may modify the namespace of a store field at any time without affecting data stored for that field. The system will begin interacting with that data using [[clone-exclusions-preservers-cleanupscripts|definitions]] provided by the new namespace.
--   A dynamic category [[reference-email-admin|reference]] field is automatically added to the same table and associated with the store field. This category reference field provides additional metadata for the store field to guide users when deciding which attributes to add.
+-   A dynamic namespace is automatically created and associated with the dynamic attribute store field. Dynamic attributes, dynamic categories and other items defined in the dynamic namespace become available to the store field. You may modify the namespace of a store field at any time without affecting data stored for that field. The system will begin interacting with that data using definitions provided by the new namespace.
+-   A dynamic category reference field is automatically added to the same table and associated with the store field. This category reference field provides additional metadata for the store field to guide users when deciding which attributes to add.
 
 ## Procedure
 
@@ -56,22 +56,12 @@ You can [[create-dynamic-attribute-store-field-transient|create a dynamic attrib
 
 ## What to do next
 
-Develop your [[dynamic-schema|dynamic schema]] by creating dynamic attributes and dynamic categories. You can build out the schema using either of the following methods:
+Develop your dynamic schema by creating dynamic attributes and dynamic categories. You can build out the schema using either of the following methods:
 
 -   Add dynamic attributes and dynamic categories to the dynamic namespace that's currently associated with the store field you created. Refer to the following topics:
-    -   [[add-dynamic-attributes|Create a dynamic attribute]]
-    -   [[create-dynamic-category|Create a dynamic category]]
+    -   [Create a dynamic attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md)
+    -   [Create a dynamic category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-category.md)
 -   Add dynamic attributes and dynamic categories to a new dynamic namespace and then associate that namespace with the store field that you created. Refer to the following topics:
-    -   [[create-dynamic-namespace|Create a dynamic namespace]]
-    -   [[update-dynamic-namespace-dynamic-attribute-store|Associate a dynamic attribute store with a different namespace]]
+    -   [Create a dynamic namespace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-namespace.md)
+    -   [Associate a dynamic attribute store with a different namespace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/update-dynamic-namespace-dynamic-attribute-store.md)
 
-## Related
-
-- [[add-dynamic-attributes|Create a dynamic attribute]]
-- [[create-dynamic-category|Create a dynamic category]]
-- [[create-dynamic-namespace|Create a dynamic namespace]]
-- [[update-dynamic-namespace-dynamic-attribute-store|Associate a dynamic attribute store with a different namespace]]
-- [[create-dynamic-attribute-store-field-transient|Create a dynamic attribute store field]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[reference-email-admin|Reference]]
-- [[dynamic-schema|Dynamic Schema]]

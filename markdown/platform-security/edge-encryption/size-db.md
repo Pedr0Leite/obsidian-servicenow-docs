@@ -14,7 +14,7 @@ breadcrumb: [Planning for Edge Encryption, Edge Encryption, Encryption]
 
 # Calculate the order-preserving and tokenization database size
 
-If using order-preserving [[encryption-landing|encryption]] or encryption patterns, determine the size of your MySQL database by multiplying the number of potential records by record size.
+If using order-preserving encryption or encryption patterns, determine the size of your MySQL database by multiplying the number of potential records by record size.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Use a dedicated machine to run the order-preserving and tokenization database. D
 
 1.  Determine the potential number of records that could include fields encrypted with order-preserving encryption.
 
-    1.  Multiply the number of encryption configurations using order-preserving encryption by the number of records each [[sc-configuration|configuration]] is applied to.
+    1.  Multiply the number of encryption configurations using order-preserving encryption by the number of records each configuration is applied to.
 
     2.  To allow for growth, multiply the result by three.
 
@@ -45,7 +45,3 @@ The calculated value is the recommended size in bytes for your order-preserving 
 
 **Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

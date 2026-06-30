@@ -15,7 +15,7 @@ breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer
 
 # Configure service recommendations for interactions
 
-Configure the [[csm-service-definition-recommendations|service recommendations for interactions]] skill in the Now Assist Admin console to streamline case creation. This skill reduces cognitive effort, saves time, and promotes accurate case routing.
+Configure the service recommendations for interactions skill in the Now Assist Admin console to streamline case creation. This skill reduces cognitive effort, saves time, and promotes accurate case routing.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ Clone the skill to ground it in your environment for your specific needs.
 
 [Customizing a Now Assist for CSM skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/customizing-now-assist-skills.md)
 
-## Related
-
-- [[csm-service-definition-recommendations|Service recommendations for interactions]]

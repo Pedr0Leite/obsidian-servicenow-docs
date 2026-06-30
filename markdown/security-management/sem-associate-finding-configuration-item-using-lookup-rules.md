@@ -25,7 +25,7 @@ Findings imported from external scanners such as Qualys, Tenable, and Rapid7 oft
 
 The lookup rules follow a three-step process.
 
-1.  **Initial lookup**: When assets or findings are imported, the system first checks the **[[cj-discovered-items|Discovered Items]]** list using third-party IDs. If an asset ID matches, it populates the **Configuration Item** field in the finding record.
+1.  **Initial lookup**: When assets or findings are imported, the system first checks the **Discovered Items** list using third-party IDs. If an asset ID matches, it populates the **Configuration Item** field in the finding record.
 2.  **Matching process**: If no asset ID match exists, the rules use other asset details to identify the correct CI. You can view mappings in the **Discovered Items** list.
 3.  **Placeholder CI creation**: If no match is found, a placeholder CI is created and marked as an Unmatched CI.
     -   Matching starts with a vendor ID lookup across source, source\_instance, and vendor ID.
@@ -35,7 +35,7 @@ The lookup rules follow a three-step process.
 
 ## Special considerations
 
--   **Excluding CI classes**: A system property enables excluding certain CI classes from matching. See [[sem-configure-lookup-rules|Ignore CI classes]] for upgrade information and instructions on setting the property.
+-   **Excluding CI classes**: A system property enables excluding certain CI classes from matching. See [Ignore CI classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-lookup-rules.md) for upgrade information and instructions on setting the property.
 -   **Parent CI return**: To avoid matching low-level networking elements, the parent CI is returned if the matched CI is a network adapter, Network Interface Cards \(NICs\), or IP address.
 
 ## Lookup rules for specific integrations
@@ -55,7 +55,7 @@ Each integration plugin includes its own set of rules:
 -   **Test custom rules**: Test custom or modified lookup rules to avoid performance issues.
 -   **Deactivate instead of delete**: Deactivate rules rather than deleting them to avoid data loss.
 
-If rules aren’t carefully constructed, importing exposure findings data can be taxing on an instance and performance issues with resources can occur. The logic used to iterate through and perform matching within the CMDB can result in lengthy processing times. To avoid any potential degradation of resources or performance complications, test any custom-written lookup rules or modifications to pre-defined **Lookup Rules**. See [[sem-ci-identifier-rules-impl-test|Steps to help prevent duplicate or orphaned records after running lookup rules]] for more information on helping prevent duplicate orphan records, deleting data, and cleaning up data.
+If rules aren’t carefully constructed, importing exposure findings data can be taxing on an instance and performance issues with resources can occur. The logic used to iterate through and perform matching within the CMDB can result in lengthy processing times. To avoid any potential degradation of resources or performance complications, test any custom-written lookup rules or modifications to pre-defined **Lookup Rules**. See [Steps to help prevent duplicate or orphaned records after running lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ci-identifier-rules-impl-test.md) for more information on helping prevent duplicate orphan records, deleting data, and cleaning up data.
 
 **Note:** For information on CI matching, see [KB0998706](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998706).
 
@@ -73,25 +73,17 @@ After updating rules, use **Reapply** to rerun them on unmatched or previously m
 
 By effectively managing lookup rules, Unified Security Exposure Management can help with identifying accurate ownership and streamlining remediation.
 
--   **[[sem-unmatchedCIs|Managing unmatched configuration items \(CIs\)]]**  
+-   **[Managing unmatched configuration items \(CIs\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-unmatchedCIs.md)**  
 When assets are imported, they are automatically matched against existing CIs in your Configuration Management Database \(CMDB\). Assets that do not find a match are listed as 'Unmatched CIs' under Discovered Items.
--   **[[sem-unclassed-hardware|Managing unclassed hardware]]**  
+-   **[Managing unclassed hardware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-unclassed-hardware.md)**  
 An asset is classified as unclassed hardware when it cannot be matched to an existing configuration item \(CI\) in the Configuration Management Database \(CMDB\) using defined lookup rules during import.
 -   **[Steps to help prevent duplicate or orphaned records after running lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ci-identifier-rules-impl-test.md)**  
 Take steps to help prevent duplicate or orphan records resulting from matching \(configuration items \(CIs\) within the CMDB.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
 [Configuring lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-lookup-rules.md)
 
-## Related
-
-- [[sem-configure-lookup-rules|Configuring lookup rules]]
-- [[sem-ci-identifier-rules-impl-test|Steps to help prevent duplicate or orphaned records after running lookup rules]]
-- [[sem-unmatchedCIs|Managing unmatched configuration items \(CIs\)]]
-- [[sem-unclassed-hardware|Managing unclassed hardware]]
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[cj-discovered-items|Discovered Items]]

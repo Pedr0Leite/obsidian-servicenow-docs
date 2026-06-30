@@ -30,7 +30,7 @@ Short description
 
 </td><td>
 
-Brief description of the [[industrial-root-cause-analysis|root cause analysis]] that you’re creating.
+Brief description of the root cause analysis that you’re creating.
 
 </td></tr><tr><td>
 
@@ -216,6 +216,3 @@ Details of how the issue occurred and how it was resolved.
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 
-## Related
-
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

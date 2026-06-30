@@ -30,12 +30,12 @@ For a tool to help you plan and prepare your Performance Analytics solution, see
 
 ## Start with Platform Analytics Solutions
 
-Before you create new indicators, try out the built-in dashboards and indicators available in [[content-packs-in-form-analytics-published|Platform Analytics Solutions]].
+Before you create new indicators, try out the built-in dashboards and indicators available in Platform Analytics Solutions.
 
 **Important:** Set up and test Platform Analytics Solutions on a non-production instance before enabling them in production.
 
 1.  Check your license entitlement.
-2.  Verify that your indicator and [[breakdown-sources|breakdown sources]] refer to the correct tables.
+2.  Verify that your indicator and breakdown sources refer to the correct tables.
 3.  Customize your indicators and breakdowns to meet the needs of your organization.
 
 .
@@ -64,7 +64,3 @@ Before using Performance Analytics, familiarize yourself with how the layers of 
 
 **Parent Topic:**[Exploring Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md)
 
-## Related
-
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[breakdown-sources|Breakdown sources]]

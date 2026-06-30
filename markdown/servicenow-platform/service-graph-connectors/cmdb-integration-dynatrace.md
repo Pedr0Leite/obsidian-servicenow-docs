@@ -16,7 +16,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 Use the Service Graph Connector for Observability - Dynatrace to ingest CI data, events, metrics, and logs from Dynatrace into your ServiceNow instance.
 
-**Important:** The Service Graph Connector for Observability - Dynatrace supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]].
+**Important:** The Service Graph Connector for Observability - Dynatrace supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new Service Graph Connector for Observability - Dynatrace SaaS.
 
 The Service Graph Connector for Observability - Dynatrace provided by ServiceNow is different from the Service Graph Connector for Dynatrace provided by Dynatrace.
 
@@ -35,17 +35,17 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Important information for upgrading Service Graph Connector for Observability - Dynatrace
 
-Before upgrading the Service Graph Connector for Observability - Dynatrace to version 1.10.0 or later, disable the [[r_ReconciliationRulesPrinciples|reconciliation rules]] for tables extending the Application \[cmdb\_ci\_appl\] table. See the [Reconciliation rules\(ServiceNow, ServiceWatch\) on multiple table like Apache web server stopping other discovery source to update fields on those tables \[KB1649455\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1649455) article in the Now Support Knowledge Base.
+Before upgrading the Service Graph Connector for Observability - Dynatrace to version 1.10.0 or later, disable the reconciliation rules for tables extending the Application \[cmdb\_ci\_appl\] table. See the [Reconciliation rules\(ServiceNow, ServiceWatch\) on multiple table like Apache web server stopping other discovery source to update fields on those tables \[KB1649455\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1649455) article in the Now Support Knowledge Base.
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Observability - Dynatrace using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-dynatrace.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Observability - Dynatrace using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-dynatrace.md).
 
 **Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Dynatrace integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Dynatrace integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Additional resources
 
@@ -59,11 +59,3 @@ The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app prov
 
 [Service Graph Connector for Observability - Dynatrace properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-dynatrace-props.md)
 
-## Related
-
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]

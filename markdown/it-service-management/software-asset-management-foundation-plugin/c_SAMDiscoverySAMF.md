@@ -22,15 +22,15 @@ For more information, see [Collect software data with either SCCM or Discovery](
 
 **Note:** To use Discovery, the [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md) must be activated.
 
-Discovery uses patterns in the discovery process that can be created or customized. The base system contains a wide range of patterns that cover most industry standard network [[dex-workspace-devices-tab|devices]] and [[dex-workspace-application-tab|applications]]. [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] automatically leverages SQL Server, Exchange Server, and Oracle Database Server specifically, but other patterns can be customized for use by Software Asset Management Foundation plugin, if needed.
+Discovery uses patterns in the discovery process that can be created or customized. The base system contains a wide range of patterns that cover most industry standard network devices and applications. Software Asset Management Foundation plugin automatically leverages SQL Server, Exchange Server, and Oracle Database Server specifically, but other patterns can be customized for use by Software Asset Management Foundation plugin, if needed.
 
 Discovered software is stored in the Software Installations \[cmdb\_sam\_sw\_install\] table.
 
-**Note:** If you are already running Discovery but have not used a version of [[itsm-sam|ITSM Software Asset Management]] previously, run the [Migrate Software Asset Management Foundation plugin software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_MigrateSWInstallsSAMF.md) script to copy records from the \[cmdb\_ci\_spkg\] table to the \[cmdb\_sam\_sw\_install\] table, so that any previously discovered software installs are utilized by Software Asset Management Foundation plugin.
+**Note:** If you are already running Discovery but have not used a version of ITSM Software Asset Management previously, run the [Migrate Software Asset Management Foundation plugin software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_MigrateSWInstallsSAMF.md) script to copy records from the \[cmdb\_ci\_spkg\] table to the \[cmdb\_sam\_sw\_install\] table, so that any previously discovered software installs are utilized by Software Asset Management Foundation plugin.
 
 When software install records are written to the Software Installations table, a business rule verifies whether the unique combination of the discovered publisher, discovered product, and discovered version already exist in the Discovery Model table.
 
--   If so, the [[reference-for-itsm-mobile-agent|reference]] to the discovery model is set in the Software Installations table.
+-   If so, the reference to the discovery model is set in the Software Installations table.
 -   If not, a new record is created in the Discovery Model table, and that discovery model reference is set in the Software Installations table.
 
 After discovery, you can [manually normalize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_EditASoftwareDiscModelSAMF.md) the software discovery model for reconciliation. Normalization status can have two different results:
@@ -42,10 +42,3 @@ After discovery, you can [manually normalize](https://raw.githubusercontent.com/
 
 **Parent Topic:**[Exploring Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/exploring-sam-foundation.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[itsm-sam|ITSM Software Asset Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

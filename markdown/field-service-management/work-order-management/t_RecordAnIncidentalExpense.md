@@ -14,7 +14,7 @@ breadcrumb: [Execute work order tasks, Updating task status, Completing work ord
 
 # Record an incidental expense
 
-Record incidental expenses associated with your business travel through the Field Service application to [[c_ExecuteWorkOrderTasks|execute work order tasks]].
+Record incidental expenses associated with your business travel through the Field Service application to execute work order tasks.
 
 ## Before you begin
 
@@ -127,6 +127,3 @@ An incidental record is created, the system generates an expense line if the fol
 
 Field service administrators and agents can view all incidentals by navigating to **Field Service** &gt; **Agent** &gt; **Incidentals**.
 
-## Related
-
-- [[c_ExecuteWorkOrderTasks|Execute work order tasks]]

@@ -20,7 +20,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MITRE-ATT&amp;CK information from Threat Lookup results]] to security incident, then the information is automatically rolled up. If you have not enabled automatic rollup, you can do this manually.
+If you have enabled [automatic roll up of MITRE-ATT&amp;CK information from Threat Lookup results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md) to security incident, then the information is automatically rolled up. If you have not enabled automatic rollup, you can do this manually.
 
 ## Procedure
 
@@ -28,11 +28,11 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
 
 2.  Select the security incident that you want to enrich with the MITRE-ATT&amp;CK information.
 
-3.  Click **Show All Related Lists** and the **[[tisc-threat-lookup|Threat Lookup]] Results** tab.
+3.  Click **Show All Related Lists** and the **Threat Lookup Results** tab.
 
 4.  Select the observable and then from the Actions menu, click **Roll up MITRE ATT&amp;CK Information to SI**.
 
-    You can select multiple [[c_Observables|observables]] and rollup the information.
+    You can select multiple observables and rollup the information.
 
 5.  Click **Reload** to confirm the changes.
 
@@ -41,7 +41,7 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
     You can view the MITRE-ATT&amp;CK Card to confirm that the Threat Lookup results have been rolledup to the security incident.
 
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -62,9 +62,3 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
 
 [Using the MITRE-ATT&amp;CK dashboard]()
 
-## Related
-
-- [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]]
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]

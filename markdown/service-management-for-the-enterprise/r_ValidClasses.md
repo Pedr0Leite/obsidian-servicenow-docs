@@ -52,8 +52,5 @@ There are certain classes and class types that are valid for the level geometry 
     -   Shelf
     -   Bin
 
-**Parent Topic:**[[r_LevelFile|Level geometry file]]
+**Parent Topic:**[Level geometry file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_LevelFile.md)
 
-## Related
-
-- [[r_LevelFile|Level geometry file]]

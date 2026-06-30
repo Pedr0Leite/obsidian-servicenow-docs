@@ -24,7 +24,7 @@ Ensure you have an existing Service Catalog record producer to configure.
 
 ## About this task
 
-By configuring catalog item variables for [[appointment-booking|appointment booking]], you can:
+By configuring catalog item variables for appointment booking, you can:
 
 -   Clearly prompt users to specify accurate details like location and contact, ensuring efficient scheduling.
 -   Ensure appointment details are precise and complete, reducing errors or rescheduling.
@@ -157,6 +157,3 @@ The service catalog record producer creates the new variable record in the selec
 
 After creating your variables, link them to the Appointment Booking table so they appear correctly in the booking calendar interface. For more information, see [Create a business rule to automatically generate appointment records from catalog item variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-business-rules-to-automatically-create-appointment-record.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

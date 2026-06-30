@@ -14,7 +14,7 @@ breadcrumb: [Improve resource usage with Business hours, Using Cloud Cost Manage
 
 # Create Business hours schedule
 
-Create and apply a [[bh-cloudin|Business hours]] schedule to the cloud resources for enforcing the on/off schedule.
+Create and apply a Business hours schedule to the cloud resources for enforcing the on/off schedule.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: insights\_admin or insights\_owner
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Business hours schedules**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Business hours schedules**.
 
 2.  Select **New**.
 
@@ -92,7 +92,3 @@ Description of the schedule.
 
 **Parent Topic:**[Improve resource usage with Business hours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/improve-res-use-business.md)
 
-## Related
-
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

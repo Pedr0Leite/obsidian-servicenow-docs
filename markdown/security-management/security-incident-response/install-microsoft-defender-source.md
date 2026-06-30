@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Install the application and configure Microsoft Defender for Endpoint integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]] from the ServiceNow Store on your ServiceNow AI Platform instance. Start creating capability profiles using the configurations.
+Install and configure the Microsoft Defender for Endpoint integration from the ServiceNow Store on your ServiceNow AI Platform instance. Start creating capability profiles using the configurations.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 1.  Download the Microsoft Defender for Endpoint integration from the ServiceNow Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the Microsoft Defender for Endpoint tile, and click **Configure**.
 
@@ -40,16 +40,10 @@ Role required: sn\_si.admin
 
 5.  Select **Submit**.
 
-    \[Omitted image "ms\_defender\_tile.png"\] Alt text: [[fireeye-install-configure-source|Install the application and configure a source for the integration]]
+    \[Omitted image "ms\_defender\_tile.png"\] Alt text: Install the application and configure a source for the integration
 
 
 ## Result
 
 The Microsoft Defender for Endpoint configurations list is displayed with your new configuration record. You have completed the configuration for the Microsoft Defender for Endpoint.
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]
-- [[security-operations-landing-page|Security Operations]]
-- [[fireeye-install-configure-source|Install the application and configure a source for the integration]]

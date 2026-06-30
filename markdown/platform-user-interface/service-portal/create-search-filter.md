@@ -20,13 +20,13 @@ Enable end users to refine search results for a simple search source. You can cr
 
 Role required: admin or sp\_admin
 
-In new instances, search facets are enabled by default. If upgrading from a previous release, [[enable-facets|enable search facets]] by activating a record in the Page Route Maps \[sp\_page\_route\_map\] table. See [Enable search facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-facets.md). Create facet items and mapped queries with no more than 30 filter items. To verify, test each search source with a variety of keywords as a user with low permissions.
+In new instances, search facets are enabled by default. If upgrading from a previous release, enable search facets by activating a record in the Page Route Maps \[sp\_page\_route\_map\] table. See [Enable search facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-facets.md). Create facet items and mapped queries with no more than 30 filter items. To verify, test each search source with a variety of keywords as a user with low permissions.
 
 **Note:** Only set search facets for indexed fields. Fields that are not indexed may take longer to return results and are not optimized for a fast search experience. Learn more: [Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-single-table-for-indexing.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Search Sources**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Search Sources**.
 
 2.  Open or create a simple search source.
 
@@ -84,7 +84,7 @@ Whether the filter option displays in search results.
 
 </td></tr><tr><td>
 
-Use mapped facet [[c_Filters|filters]]
+Use mapped facet filters
 
 </td><td>
 
@@ -114,7 +114,7 @@ Field
 
 Field that end users can filter search results by. For example, if **Active** is selected, the user can filter search results by true or false.
 
- Only fields of the following types are supported: True/False, Choice, Decimal, Floating Point Number, Integer, IP Address, Long, [[onboarding-modals-reference|Reference]], String, String \(Full UTF-8\), and URL.
+ Only fields of the following types are supported: True/False, Choice, Decimal, Floating Point Number, Integer, IP Address, Long, Reference, String, String \(Full UTF-8\), and URL.
 
 </td></tr><tr><td>
 
@@ -205,9 +205,3 @@ A query condition that users can set to filter search results. For example, **\[
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[enable-facets|Enable search facets]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[onboarding-modals-reference|Reference]]

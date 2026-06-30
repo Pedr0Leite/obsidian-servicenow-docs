@@ -14,13 +14,9 @@ breadcrumb: [Using data visualizations, Mobile platform dashboards, Using the mo
 
 Learn to use a single score reports for mobile. This report is a single value that you can use to share metrics or scores that are key to your business needs. For example, the number of high priority incidents opened by your team.
 
-**Note:** For information on how to configure single score reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [[sg-mobile-applet-launcher|Launcher screens]] and [[mobile-dashboard-preview|Mobile dashboard preview]].
+**Note:** For information on how to configure single score reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
 Tap on the single score to see a complete list of records relating to the report. You can then tap on individual records for additional information.
 
 \[Omitted image "single-score-example.png"\] Alt text: Single score report example.
 
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mobile-dashboard-preview|Mobile dashboard preview]]

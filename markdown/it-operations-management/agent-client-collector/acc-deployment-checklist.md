@@ -14,7 +14,7 @@ breadcrumb: [Preparing for Agent Client Collector implementation, Configuring Ag
 
 # Agent Client Collector deployment checklist
 
-Successful [[acc-landing-page|Agent Client Collector]] \(ACC\) implementations, especially involving large numbers of endpoints or servers, require careful deployment. When proceeding with a large-scale ACC deployment, follow the steps described in the deployment checklist.
+Successful Agent Client Collector \(ACC\) implementations, especially involving large numbers of endpoints or servers, require careful deployment. When proceeding with a large-scale ACC deployment, follow the steps described in the deployment checklist.
 
 <table id="table_hvf_bwk_3hc"><thead><tr><th>
 
@@ -167,6 +167,3 @@ After successful deployment, continue with data collection.
 </td></tr></tbody>
 </table>**Parent Topic:**[Preparing for Agent Client Collector implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-preparation.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

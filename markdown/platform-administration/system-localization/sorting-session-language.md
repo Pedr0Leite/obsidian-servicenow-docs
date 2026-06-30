@@ -40,7 +40,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[system-localization-landing|System Localization]]**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System Localization**.
 
 2.  Select the **Enable sorting \(for lists\) in the user's session language when the language is other than English** option.
 
@@ -96,7 +96,3 @@ Role required: admin
 
 Configure the sorting behavior for any additional columns as needed.
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]

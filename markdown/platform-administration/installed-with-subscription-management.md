@@ -12,7 +12,7 @@ breadcrumb: [Reference, Subscription Management, Get started, Administer the Ser
 
 # Components installed with Subscription Management
 
-Several components are installed with activation of the [[subscription-management-landing-page-v2|Subscription Management]] plugin \(com.glide.subscription\_management\), including user roles and tables.
+Several components are installed with activation of the Subscription Management plugin \(com.glide.subscription\_management\), including user roles and tables.
 
 ## Roles installed
 
@@ -36,7 +36,7 @@ Usage administrator
 
 </td><td>
 
-Administers Subscription Management. Allocates subscriptions, maps [[custom-tables|custom tables]] and custom applications to subscriptions.
+Administers Subscription Management. Allocates subscriptions, maps custom tables and custom applications to subscriptions.
 
 </td><td>
 
@@ -81,7 +81,7 @@ Subscription license detail definition
 
 </td><td>
 
-\[Remote table\] Subscription allocation [[c_MetricDefinitionSupport|metrics]] and history
+\[Remote table\] Subscription allocation metrics and history
 
 </td></tr><tr><td>
 
@@ -94,11 +94,5 @@ Unallocated Group Recommendations
 \[Remote table\] Product recommendations for unallocated groups
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[subscription-management-reference-v2|Subscription Management reference]]
+</table>**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
-## Related
-
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[custom-tables|Custom tables]]
-- [[c_MetricDefinitionSupport|Metrics]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Approve employee workplace reservation requests
 
-Review employee area and space reservation requests in [[workplace-safety-mgmt-hr|Workplace Core]] and approve or reject them.
+Review employee area and space reservation requests in Workplace Core and approve or reject them.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Action
 
 </td><td>
 
-In the [[mobile-employee-experience|Now Mobile app]], open a task from the My Tasks section.
+In the Now Mobile app, open a task from the My Tasks section.
 
  \[Omitted image "my-tasks-manager-approver.jpg"\] Alt text: Approver tasks
 
@@ -93,7 +93,3 @@ In the [[mobile-employee-experience|Now Mobile app]], open a task from the My Ta
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[mobile-employee-experience|Now Mobile app]]

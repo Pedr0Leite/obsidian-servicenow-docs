@@ -14,7 +14,7 @@ breadcrumb: [Old Inbound integrations experience, OAuth Inbound, OAuth authentic
 
 # Client Credentials
 
-Use the [[oauth-inbound-and-outbound|OAuth]] [[client-credential-grant|client credentials grant]] type for [[inbound-integrations|Inbound Integrations]] from a third party OAuth client to the ServiceNow® platform.
+Use the OAuth client credentials grant type for Inbound Integrations from a third party OAuth client to the ServiceNow® platform.
 
 The administrators can use the client credential \(CC\) grant type to enable integration from a third party OAuth client to the ServiceNow platform.
 
@@ -25,8 +25,3 @@ To use the client credentials grant type, you must perform the following steps:
 -   Create the `glide.oauth.inbound.client.credential.grant_type.enabled` system property.
 -   Add the **OAuth Application User** field to the OAuth Entity form.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[client-credential-grant|Client credentials grant]]
-- [[inbound-integrations|Inbound integrations]]

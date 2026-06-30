@@ -53,7 +53,7 @@ Description
 
 1.  Navigate to **System Definition**→ **Dictionary**.
 2.  Open the table and click **New** under the **Attributes** tab.
-3.  Search for `Use [[Documentviewer|Document Viewer]]` in the **Attribute** field.
+3.  Search for `Use Document Viewer` in the **Attribute** field.
 4.  Enter `false` in the **Value** field.
 5.  Click **Submit**.
 
@@ -65,6 +65,3 @@ Description
 
 [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/enable-document-viewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]

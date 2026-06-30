@@ -89,7 +89,7 @@ Trigger type
 
 </td><td>
 
-Determines when and how often the scheduled job runs. The selected trigger type controls the additional scheduling [[fields|fields]] that appear on the form. The available options are:-   None
+Determines when and how often the scheduled job runs. The selected trigger type controls the additional scheduling fields that appear on the form. The available options are:-   None
 -   Daily
 -   Day and Month in Year
 -   Day in Month
@@ -121,15 +121,10 @@ Time zone
 Time zone in which you're operating your business.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[[running-scheduled-job|Configure a scheduled job for asynchronous order creation]]
+[Configure a scheduled job for asynchronous order creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/running-scheduled-job.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[running-scheduled-job|Configure a scheduled job for asynchronous order creation]]
-- [[fields|Fields]]

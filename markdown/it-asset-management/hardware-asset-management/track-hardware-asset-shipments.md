@@ -22,7 +22,7 @@ Role required: inventory\_user \(read\) or inventory\_admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Shipments**.
 
@@ -62,6 +62,3 @@ The following fields on the Shipment details form show the tracking details rece
 
 [Stale shipments]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -12,19 +12,12 @@ breadcrumb: [Facilities requests, Facilities service management process, Facilit
 
 # Facilities request creation
 
-[[FacilitiesLandingPage|Facilities service management]] uses the common [[c_ServiceManagement|service management]] request management process. Any user can submit a facilities request through the Facilities catalog. Users with the facilities\_staff role can also create and update facilities requests from the Facilities Request form.
+Facilities service management uses the common service management request management process. Any user can submit a facilities request through the Facilities catalog. Users with the facilities\_staff role can also create and update facilities requests from the Facilities Request form.
 
--   **[[t_CreateAReqThroughFacCatalog|Create a request through the facilities catalog]]**  
+-   **[Create a request through the facilities catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateAReqThroughFacCatalog.md)**  
 Employees use the Facilities catalog to submit requests. The catalog provides several different categories so users can choose the one that closely relates to their request.
--   **[[t_CreateReqWFacRequestForm|Create a request with the facilities request form]]**  
+-   **[Create a request with the facilities request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateReqWFacRequestForm.md)**  
 Facilities staff members create requests using the Facilities Request form, allowing them to associate the request with a configuration item \(CI\), like printers or projectors.
 
-**Parent Topic:**[[c_FacilitiesRequests|Facilities requests]]
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
 
-## Related
-
-- [[t_CreateAReqThroughFacCatalog|Create a request through the facilities catalog]]
-- [[t_CreateReqWFacRequestForm|Create a request with the facilities request form]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[c_ServiceManagement|Service Management]]

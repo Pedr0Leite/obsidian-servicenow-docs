@@ -28,7 +28,7 @@ In the AI Agent Studio, configure where the AI agent must display.
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 
-2.  Select **[[check-company-newsevent-ai-agent-for-emp-exp|Company News &amp; Events AI Agent]]**.
+2.  Select **Company News &amp; Events AI Agent**.
 
 3.  In **Toggle display**, do the following:
 
@@ -41,6 +41,3 @@ In the AI Agent Studio, configure where the AI agent must display.
 
 The **Company News &amp; Events AI Agent** is activated for users to check their news and events in the Now Assist in Virtual Agent.
 
-## Related
-
-- [[check-company-newsevent-ai-agent-for-emp-exp|Company News &amp; Events AI Agent]]

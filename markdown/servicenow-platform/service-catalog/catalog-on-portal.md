@@ -14,7 +14,7 @@ breadcrumb: [Integrating Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog in Service Portal
 
-Use Service Portal to configure an improved version of Catalog. You can customize Service Portal where your customers can request catalog items such as service and product offerings. You can use the [[service-catalog|Service Catalog]] widgets to build a catalog for your portal.
+Use Service Portal to configure an improved version of Catalog. You can customize Service Portal where your customers can request catalog items such as service and product offerings. You can use the Service Catalog widgets to build a catalog for your portal.
 
 **Note:** If you’re an existing customer using Service Portal we recommend that you migrate to the Employee Center for a better experience. For more information on Employee Center, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md)
 
@@ -33,7 +33,7 @@ The landing page has:
 -   The **Browse by Categories** option to navigate to the list of categories in Service Catalog and the items within. Click this option to navigate to the categories landing page.
 -   The Requests and Approvals widget to display the list of requests and approvals associated with the user. The list is based on the configurations available in the **My Request Filter** module in Platform. For information about the **My Request Filter** module, see [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-my-requests.md).
 -   The My Saved Bundles widget to display the saved bundles associated with the user. You can remove a bundle, or open a bundle to add or replace the cart with the items in the bundle.
--   The My Recent Items widget to display catalog items, record producers, or [[c_ServiceCatalogOrderGuides|order guides]] that are most recently viewed or requested by the user. An instance option on the widget allows you to display either the viewed or requested items. This widget is not displayed when it has no data.
+-   The My Recent Items widget to display catalog items, record producers, or order guides that are most recently viewed or requested by the user. An instance option on the widget allows you to display either the viewed or requested items. This widget is not displayed when it has no data.
 -   The Popular Items widget to display the most popular catalog items ordered across the organization by other users. These items are displayed based on the **Top Requests** dynamic category. This widget is not displayed when there is no data.
 
 **Note:**
@@ -45,15 +45,15 @@ The landing page has:
     -   Order Guide \[sc\_cat\_item\_guide\]
 
 -   **[Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)**  
-Access [[c_ServiceCatalogCategories|Service Catalog categories]] to access the catalog items within.
+Access Service Catalog categories to access the catalog items within.
 -   **[Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)**  
 Add catalog items or record producers to the wish list to review them when required.
 -   **[Add a catalog item to the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)**  
-[[t_AssignItemToAddlCatalogsCategory|Add a catalog item]] or order guide to the shopping cart to store at one place and checkout.
+Add a catalog item or order guide to the shopping cart to store at one place and checkout.
 -   **[Request a catalog item from Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md)**  
 Use the SC Catalog Item widget in Service Portal to request a catalog item.
 -   **[Request an order guide from Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-portal.md)**  
-Use the SC Order Guide widget on Service Portal to [[t_OrderProcess|request an order guide]] with several catalog items for a specific purpose.
+Use the SC Order Guide widget on Service Portal to request an order guide with several catalog items for a specific purpose.
 
 **Parent Topic:**[Integrating Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/integrating-service-catalog.md)
 
@@ -64,10 +64,3 @@ Use the SC Order Guide widget on Service Portal to [[t_OrderProcess|request an o
 
 [Content Management and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CMSAndSP.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[t_OrderProcess|Request an order guide]]

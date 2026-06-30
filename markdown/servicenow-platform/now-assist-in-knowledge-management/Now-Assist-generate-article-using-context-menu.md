@@ -15,7 +15,7 @@ breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Man
 
 # Edit an article using the Now Assist context menu
 
-Elaborate or shorten content within a Knowledge article using the Now Assist context menu feature that enables agents to leverage the generative AI capabilities of [[now-assist-knowledge-management|Now Assist in Knowledge Management]].
+Elaborate or shorten content within a Knowledge article using the Now Assist context menu feature that enables agents to leverage the generative AI capabilities of Now Assist in Knowledge Management.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: author or agent
 
 ## Supported tags
 
-The Now Assist Knowledge content recommendation skill currently supports only a limited set of [[html|HTML]] tags and styles.
+The Now Assist Knowledge content recommendation skill currently supports only a limited set of HTML tags and styles.
 
 The HTML tags supported and not supported by Now Assist Knowledge content recommendation are listed in the following tables. Using the content recommendation skill on text containing unsupported tags triggers an error message and requires the author to manually update the text.
 
@@ -70,7 +70,4 @@ The HTML tags supported and not supported by Now Assist Knowledge content recomm
 
 -   Styles such as bold, italics, tables, and links may not be retained and may result in unpredictable results.
 
-## Related
 
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[html|HTML]]

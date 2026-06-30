@@ -24,7 +24,7 @@ With this template, you can do the following actions:
 
 The equipment models start at the site level and contain a detailed hierarchical structure that describes each industrial site. You apply an equipment model template to structure this data in a hierarchical sequence.
 
-The following graphic is an example of the standard ISA-95 default template that is delivered to you when you [[install-manufacturing-process-mgr|install the Industrial Process Manager]]. This graphic is a representation of a facility in Atlanta that manufactures cars.
+The following graphic is an example of the standard ISA-95 default template that is delivered to you when you install the Industrial Process Manager. This graphic is a representation of a facility in Atlanta that manufactures cars.
 
 -   The subordinate levels below a site represent the door assembly area, its own subordinate work centers, and work units.
 
@@ -56,6 +56,3 @@ The following graphic is an example of the standard ISA-95 default template that
 
 **Parent Topic:**[Exploring Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/exploring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[install-manufacturing-process-mgr|Install the Industrial Process Manager]]

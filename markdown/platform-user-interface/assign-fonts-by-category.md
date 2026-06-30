@@ -22,7 +22,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 ## About this task
 
-Font assignments at the category level override broader defaults. Font size is managed separately in the **Sizes** tab and isn’t changed when assigning fonts by category. For information on editing font size, see [[edit-font-size|Edit font size]].
+Font assignments at the category level override broader defaults. Font size is managed separately in the **Sizes** tab and isn’t changed when assigning fonts by category. For information on editing font size, see [Edit font size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/edit-font-size.md).
 
 **Note:** Changing the font at the category level does not affect individual components that have their own font settings.
 
@@ -54,7 +54,7 @@ Font assignments at the category level override broader defaults. Font size is m
 
 6.  For the selected category, choose a font family.
 
-    Select from available platform fonts or previously uploaded custom fonts. You can also [[upload-custom-font|Upload a custom font to your theme]] directly from the font selector.
+    Select from available platform fonts or previously uploaded custom fonts. You can also [Upload a custom font to your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md) directly from the font selector.
 
 7.  Select **Save**.
 
@@ -73,13 +73,7 @@ Font assignments at the category level override broader defaults. Font size is m
 
 Theme Builder automatically saves your theme record.
 
-If your theme is published, your font edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your font edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[working-with-global-styles|Working with Global styles]]
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-global-styles.md)
 
-## Related
-
-- [[edit-font-size|Edit font size]]
-- [[upload-custom-font|Upload a custom font to your theme]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[working-with-global-styles|Working with Global styles]]

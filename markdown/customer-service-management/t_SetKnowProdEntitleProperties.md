@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_KnowledgeProductEntitlements|Knowledge Product Entitlements]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Knowledge Product Entitlements** &gt; **Properties**.
 
 2.  Set the following properties, as needed.
 
@@ -59,6 +59,4 @@ If enabled, customers can access all knowledge articles even if no products have
 </td></tr></tbody>
 </table>3.  Click **Save**.
 
-## Related
 
-- [[c_KnowledgeProductEntitlements|Knowledge product entitlements]]

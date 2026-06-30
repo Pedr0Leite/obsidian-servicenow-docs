@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Install the Edge Encryption proxy server using the interactive installer
 
-Install the [[edge-encryption|Edge Encryption]] proxy server on a Windows or Linux computer using the interactive installer.
+Install the Edge Encryption proxy server on a Windows or Linux computer using the interactive installer.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ After installing a new proxy server, you can run the installer again to perform 
 
 1.  Use the installer to install multiple proxies for your instance on multiple machines, ensuring that the following criteria apply:
 
-    -   All proxies must have the same [[encryption-landing|encryption]] keys and the same RSA key pair used to digitally sign encryption configurations and rules.
+    -   All proxies must have the same encryption keys and the same RSA key pair used to digitally sign encryption configurations and rules.
     -   The encryption key must be the default key configured on the instance.
     -   When a proxy database is set up as part of the installation, all proxies must use the same proxy database.
 
@@ -51,26 +51,26 @@ After installing a new proxy server, you can run the installer again to perform 
 
 ## What to do next
 
-To use NVDA, an Assistive Technology screen reader designed to read accessibility-enabled Java applications built for keyboard [[users|users]], see [Configure a Windows 64-bit host to use 32-bit NVDA with Java applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
+To use NVDA, an Assistive Technology screen reader designed to read accessibility-enabled Java applications built for keyboard users, see [Configure a Windows 64-bit host to use 32-bit NVDA with Java applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
 
 After installing the Edge Encryption proxy server, [Set the proxy server initial memory limit and upper bound memory limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/increase-memory.md).
 
 1.  [Install the Edge Encryption proxy server \(interactive installer\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/install-proxy.md)  
 Install the Edge Encryption proxy on a Windows or Linux computer.
 2.  [Configure CyberArk properties protection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cyberark-prop-protection.md)  
-Optionally, [[configure-cyberark-prop-protection|configure CyberArk properties protection]] to securely store Edge Encryption passwords in a centralized and secure digital vault.
+Optionally, configure CyberArk properties protection to securely store Edge Encryption passwords in a centralized and secure digital vault.
 3.  [Configure the signature key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-sig-key.md)  
-[[configure-sig-key|Configure the signature key]] after installing the proxy server through the Edge Encryption proxy installer.
+Configure the signature key after installing the proxy server through the Edge Encryption proxy installer.
 4.  [Configure the HTTPS certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cert.md)  
 To enable clients to connect to the Edge Encryption proxy server using a secure SSL connection, import the HTTPS certificate to the proxy server.
 5.  [Configure the AES 128-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-128-key.md)  
-After you [[configure-cert|configure the HTTPS certificate]] through the Edge Encryption proxy installer, [[configure-128-key|configure the AES 128-bit encryption key]] to encrypt your data.
+After you configure the HTTPS certificate through the Edge Encryption proxy installer, configure the AES 128-bit encryption key to encrypt your data.
 6.  [Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md)  
 After you configure the AES 128-bit key through the Edge proxy installer, you can optionally configure an AES 256-bit encryption key to encrypt your data.
 7.  [Update SSL certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/update-ssl-certificate.md)  
 When updating an SSL certificate on an Edge proxy server, you must delete the old one.
 8.  [Configure the Edge Encryption proxy database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-proxy-db.md)  
-If using order-preserving encryption types or encryption patterns, you can optionally [[configure-proxy-db|configure the Edge Encryption proxy database]] properties.
+If using order-preserving encryption types or encryption patterns, you can optionally configure the Edge Encryption proxy database properties.
 9.  [Launch the Edge Encryption proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/launch-proxy.md)  
 After an Edge Encryption proxy is installed and configured, you can start the proxy from the installer.
 10. [Verify and troubleshoot the Edge Encryption proxy server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/verify-install.md)  
@@ -78,13 +78,3 @@ After your Edge Encryption proxy is installed, you can verify the installation t
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[configure-cyberark-prop-protection|Configure CyberArk properties protection]]
-- [[configure-sig-key|Configure the signature key]]
-- [[configure-cert|Configure the HTTPS certificate]]
-- [[configure-128-key|Configure the AES 128-bit encryption key]]
-- [[configure-proxy-db|Configure the Edge Encryption proxy database]]

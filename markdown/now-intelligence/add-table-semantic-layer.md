@@ -12,7 +12,7 @@ breadcrumb: [Configure, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Add a table to the semantic data layer
 
-Add more tables to the [[query-generation|Query Generation]] semantic layer so that users can use [[now-assist-platform-analytics|Now Assist in Platform Analytics]] applications to ask questions about the data in those tables.
+Add more tables to the Query Generation semantic layer so that users can use Now Assist in Platform Analytics applications to ask questions about the data in those tables.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: sn\_query\_gen.admin or higher
 
 5.  Select whether to enable semantic generation for the table.
 
-    By default, semantic generation is enabled. For more information, see [[enable-semantics-generation|Enable semantic generation for tables in the semantic layer]].
+    By default, semantic generation is enabled. For more information, see [Enable semantic generation for tables in the semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-semantics-generation.md).
 
 6.  Select whether to include the hierarchy of child tables.
 
@@ -82,7 +82,7 @@ If you have users who need to explore and discuss data relating to asset contrac
     \[Omitted image "qgen-contract-dimensions.png"\] Alt text: Dimensions added for the Contract table.
 
 
-**Parent Topic:**[[configuring-query-generation|Configuring Query Generation]]
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
 
 ## Add a batch of tables to the semantic layer
 
@@ -116,9 +116,4 @@ Role required: admin, now\_assist\_explorer\_admin, sn\_query\_gen.admin
 
     You can disable semantic generation for any of the tables/database views or add support for their child hierarchies. You can also remove the tables/database views from Semantic Table Configurations.
 
-## Related
 
-- [[enable-semantics-generation|Enable semantic generation for tables in the semantic layer]]
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[query-generation|Query Generation]]
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]

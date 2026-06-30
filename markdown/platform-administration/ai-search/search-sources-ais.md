@@ -20,14 +20,14 @@ Define search sources to make your searchable content available in search experi
 
 A search source includes two elements:
 
--   A [[reference-email-admin|reference]] to an indexed source. By default, search queries using the search source can return all records from the referenced indexed source. For more information on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
--   An optional set of filter conditions applied to the indexed source's records. Indexed source records must pass all of these filter conditions to be returned as search [[hs-results|results]] for queries using the search source.
+-   A reference to an indexed source. By default, search queries using the search source can return all records from the referenced indexed source. For more information on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
+-   An optional set of filter conditions applied to the indexed source's records. Indexed source records must pass all of these filter conditions to be returned as search results for queries using the search source.
 
 You can define multiple search sources that reference the same indexed source, specifying distinct filter conditions for each.
 
 ## Filter conditions
 
-To limit the set of indexed source table records that [[ia-ai-search|AI Search]] returns as search results, you can apply filter conditions to your search source.
+To limit the set of indexed source table records that AI Search returns as search results, you can apply filter conditions to your search source.
 
 **Note:** Search source filter conditions can only operate on source record fields that are indexed. Fields on referenced records aren't indexed by default. To use a referenced record field in a search source filter condition, you must first configure indexing for the field in the indexed source. For details on this procedure, see [Enable indexing of referenced table fields for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-ref-table-field-index-ais.md).
 
@@ -35,7 +35,7 @@ You can use static and dynamic filter conditions to filter search source records
 
 Search sources don't support any of the following filter options:
 
--   Filters that reference fields from child tables of the indexed source table. As an example, if you [[create-indexed-source-ais|create an indexed source]] for the Task \[task\] table, search sources for that indexed source can't use filters to reference fields from the Incident \[incident\] table because the Incident table is a child of the Task table.
+-   Filters that reference fields from child tables of the indexed source table. As an example, if you create an indexed source for the Task \[task\] table, search sources for that indexed source can't use filters to reference fields from the Incident \[incident\] table because the Incident table is a child of the Task table.
 -   Dynamic filters with scripts that use [the **current** keyword or global variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 -   Dynamic filters with scripts that reference any [global business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 -   Dynamic filters with scripts that use [script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md)
@@ -63,9 +63,3 @@ View the ServiceNow AI Platform® table records that match a search source's ind
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[create-indexed-source-ais|Create an indexed source]]

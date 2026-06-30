@@ -26,7 +26,7 @@ Each demand and project contributes to achieving one or multiple organizational 
 -   Allocate a percentage of the demand or project's total cost and benefits towards achieving one or more strategies and goals.
 -   Generate strategy and goal allocation breakdowns for a demand or project for the fiscal year.
 -   View the roll up of strategy and goal breakdowns from different demands and projects in the strategy and goal record.
--   Use the [[ppm-strategic-spend-tracking-dashboard|Strategic Spend Tracking for PPM dashboard]] to view how the planned costs, actuals costs, and benefits for projects aligned to the organization's goals and strategies trend over time in order to accurately understand the financial performance of your organization.
+-   Use the Strategic Spend Tracking for PPM dashboard to view how the planned costs, actuals costs, and benefits for projects aligned to the organization's goals and strategies trend over time in order to accurately understand the financial performance of your organization.
 
 -   **[Install Strategic Spend Tracking for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/install-strategic-spend.md)**  
 Install the Strategic Spend Tracking for PPM application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
@@ -39,6 +39,3 @@ The Strategic Spend Tracking for PPM dashboard provides comprehensive visualizat
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[ppm-strategic-spend-tracking-dashboard|Strategic Spend Tracking for PPM dashboard]]

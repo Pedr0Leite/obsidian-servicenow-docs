@@ -14,7 +14,7 @@ breadcrumb: [Configure HR Success Dashboard indicators, HR Success Dashboard ind
 
 # Configure the Virtual Agent topics
 
-Configure the Virtual Agent \(VA\) topics for [[success-dashboard-landing|HR Success Dashboard indicators]] to display data correctly in case you have topics other than the base system topics.
+Configure the Virtual Agent \(VA\) topics for HR Success Dashboard indicators to display data correctly in case you have topics other than the base system topics.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Map the topics with deflection patterns of the **HR VA Default** deflection trac
     |-----|-----|
     |Deflection Configuration|HR VA Default|
     |Deflection Pattern|**HR VA-Self-Resolving:** When the node in the topic indicates that Virtual Agent is able to resolve the user problem completely without creating an IT ticket \(incident or request\) and consequently contributing to the Self-solved KPIs.|
-    |Activity Table|Table where the deflection [[activity-lxp|activity]] occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/set-up-deflection-settings-va.md).|
+    |Activity Table|Table where the deflection activity occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/set-up-deflection-settings-va.md).|
     |Activity Ids|List of comma-separated activity system IDs.|
 
 6.  Select **Save**.
@@ -63,7 +63,3 @@ You may also configure the dashboard indicators KPIs, add contributing indicator
 
 [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/set-up-deflection-settings-va.md)
 
-## Related
-
-- [[success-dashboard-landing|HR Success Dashboard indicators]]
-- [[activity-lxp|Activity]]

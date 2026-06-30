@@ -14,7 +14,7 @@ breadcrumb: [Learning in Workforce Optimization for HR, Coaching in Workforce Op
 
 # Assign a learning path to agents
 
-Assign a [[exploring-learning-exp|learning]] path to one or more agents and add a due date for them to complete the path.
+Assign a learning path to one or more agents and add a due date for them to complete the path.
 
 ## Before you begin
 
@@ -79,6 +79,3 @@ Select **To my groups**.
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

@@ -12,8 +12,5 @@ breadcrumb: [Care Team Operations for Healthcare IT, Healthcare Operations, Heal
 
 # Care Team Operations for Healthcare IT reference
 
-Reference topics provide additional information about [[hcls-cto-it-app|Care Team Operations for Healthcare IT]] components.
+Reference topics provide additional information about Care Team Operations for Healthcare IT components.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

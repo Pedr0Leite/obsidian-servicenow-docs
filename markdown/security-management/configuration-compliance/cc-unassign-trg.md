@@ -14,7 +14,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 # Remove assignments from remediation tasks for you or your groups
 
-Reassign the test result records in the [[vr-config-compliance-landing|Configuration Compliance]] application if the records have been incorrectly assigned to you or your group.
+Reassign the test result records in the Configuration Compliance application if the records have been incorrectly assigned to you or your group.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ The request is approved by using a default, one-level approval workflow. For mor
 
 Navigate to the Unassigned module for the Configuration Compliance application monitor any unassigned records for items that might fall under your scope, and then reassign them to yourself.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

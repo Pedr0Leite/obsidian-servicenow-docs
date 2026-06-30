@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with Slack, Conversational Integration with Slack, Int
 
 # Manage the ServiceNow Virtual Agent integration with Slack
 
-Manage your [[mssg-slack|Conversational Integration with Slack]] application, its branding, and customize the bot-specific messages in your ServiceNow instance after integration.
+Manage your Conversational Integration with Slack application, its branding, and customize the bot-specific messages in your ServiceNow instance after integration.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -34,7 +34,7 @@ Roles required:
 
     When you select **Manage**, you are redirected to the Manage Slack channel page where you can manage the bots.
 
-4.  To integrate your ServiceNow instance with another Slack bot, select the Add integration for ServiceNow [[virtual-agent-landing-page|Virtual Agent]] icon against the ServiceNow Virtual Agent.
+4.  To integrate your ServiceNow instance with another Slack bot, select the Add integration for ServiceNow Virtual Agent icon against the ServiceNow Virtual Agent.
 
     Additionally, you can also select the **Add integration** drop-down on the top-right of the Manage Slack channel page and select **Integrate with ServiceNow Virtual Agent**.\[Omitted image "add-integration-icon-slck.png"\] Alt text: Manage Slack channel view in Conversational Interfaces general settings. The Add integration for ServiceNow Virtual Agent icon and the Integrate with Servicenow Virtual Agent dropdown are highlighted.
 
@@ -53,8 +53,3 @@ Roles required:
 
 **Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-slack.md)
 
-## Related
-
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence references, Predictive Intelligence, Enable
 
 # Predictive Intelligence properties
 
-The properties for [[predictive-intelligence-landing|Predictive Intelligence]] control certain parameters of its machine-learning solutions, solution training process, and caching.
+The properties for Predictive Intelligence control certain parameters of its machine-learning solutions, solution training process, and caching.
 
 Using the maint role, navigate to **Predictive Intelligence** &gt; **Configuration** to review or edit.
 
@@ -204,6 +204,3 @@ Sets the maximum number of records you can include in a cluster. -   Type: Integ
 
 [Predictive Intelligence roles]()
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

@@ -28,7 +28,7 @@ Zing offers users several search interfaces and search operators to conduct text
 |---------------|-----------|
 |[Boolean operators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_BooleanOperators.md)|Construct complex searches using Boolean AND, OR, and NOT operators in global text searches.|
 |[Quotation marks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_PhraseSearches.md)|Wrap search terms in quotation marks to search for an exact phrase consisting of one or more words.|
-|[Wildcard characters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_Wildcards.md)|Expand search [[hs-results|results]] to match any non-space character. Zing supports both single-character and multiple-character wildcards.|
+|[Wildcard characters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_Wildcards.md)|Expand search results to match any non-space character. Zing supports both single-character and multiple-character wildcards.|
 
 -   **[List search finds records from the current table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_TextSearchesInRecordLists.md)**  
 Search records from a table list view.
@@ -62,18 +62,13 @@ Debugging messages create a log of search processes as they occur. These message
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

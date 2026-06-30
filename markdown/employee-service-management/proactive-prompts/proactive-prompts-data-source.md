@@ -14,7 +14,7 @@ breadcrumb: [Reference for Proactive Prompts, Proactive Prompts, HR Service Deli
 
 # Types of data sources in Proactive Prompts
 
-Data sources are the different type of data retrieving methods from data tables in [[proactive-prompts-for-hrsd|Proactive Prompts]].
+Data sources are the different type of data retrieving methods from data tables in Proactive Prompts.
 
 <table id="table_r3c_3dg_vvb"><thead><tr><th>
 
@@ -84,6 +84,3 @@ Uses the data collected by the Performance Analytics job for the selected indica
 
 [Signal configuration form]()
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

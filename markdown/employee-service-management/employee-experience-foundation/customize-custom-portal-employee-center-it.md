@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center, IT Service Management integration, Mic
 
 # Embed a custom portal
 
-Embed your custom portal to replace the [[employee-center-landing-page|Employee Center]] tab in Microsoft Teams by configuring the system property. The custom portal shows up in the Employee Center tab in Microsoft Teams.
+Embed your custom portal to replace the Employee Center tab in Microsoft Teams by configuring the system property. The custom portal shows up in the Employee Center tab in Microsoft Teams.
 
 ## Before you begin
 
@@ -205,6 +205,4 @@ Role required: admin
 
 7.  Refresh the custom portal tab in Microsoft Teams.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

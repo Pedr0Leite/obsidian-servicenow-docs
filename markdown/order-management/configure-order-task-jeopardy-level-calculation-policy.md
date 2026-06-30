@@ -26,7 +26,7 @@ Role required: admin
 
     \[Omitted image "jm-order-task-jeopardy-lvl-calc-policy.png"\] Alt text: The image shows the Task Jeopardy Level Calculation Policy window in Workflow Studio.
 
-3.  On the Order Task Jeopardy Level Calculation Policy decision table, fill in the [[fields|fields]].
+3.  On the Order Task Jeopardy Level Calculation Policy decision table, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -40,18 +40,12 @@ Role required: admin
 
 ## What to do next
 
-[[enable-jeopardy-management|Configure the Order Jeopardy Enablement Policy]]
+[Configure the Order Jeopardy Enablement Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-jeopardy-management.md)
 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[enable-jeopardy-management|Configure the Order Jeopardy Enablement Policy]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[fields|Fields]]

@@ -52,11 +52,11 @@ Workforce Optimization for ITSM enables you to do these tasks:
 
 </td><td>
 
-[Coaching\[Omitted image "bus-learn.svg"\] Alt text: Assess the quality of your teams' completed interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-[[cf-coaching-landing|coaching]]-configurable-workforce-optimization-itsm.md)
+[Coaching\[Omitted image "bus-learn.svg"\] Alt text: Assess the quality of your teams' completed interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md)
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-sdlc.svg"\] Alt text: Get details about [[components-installed-workforce-optimization-itsm|Workforce Optimization for ITSM components]] such as roles, tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/advanced-configuration-workforce-optimization-itsm.md)
+[Reference\[Omitted image "bus-sdlc.svg"\] Alt text: Get details about Workforce Optimization for ITSM components such as roles, tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/advanced-configuration-workforce-optimization-itsm.md)
 
 </td><td>
 
@@ -73,7 +73,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[components-installed-workforce-optimization-itsm|Workforce Optimization for ITSM components]]

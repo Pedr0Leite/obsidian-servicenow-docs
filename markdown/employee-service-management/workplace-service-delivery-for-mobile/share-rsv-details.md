@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Share your reservation details with other users
 
-Share the details of your reservation with a colleague. An email notification is sent to the colleague with the details. The colleague can also [[reservation-portal|make a reservation]] near to your workplace.
+Share the details of your reservation with a colleague. An email notification is sent to the colleague with the details. The colleague can also make a reservation near to your workplace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  On your mobile device, open the [[mobile-employee-experience|Now Mobile app]].
+1.  On your mobile device, open the Now Mobile app.
 
 2.  In the Workplace Reservations section, tap **My reservations**.
 
@@ -55,7 +55,3 @@ After the reservation is confirmed, the reservation details are shared with the 
 
 **Next topic:**[Scan the QR code to reserve a space](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/scan-qr-code.md)
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[mobile-employee-experience|Now Mobile app]]

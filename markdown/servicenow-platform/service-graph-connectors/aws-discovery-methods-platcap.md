@@ -15,7 +15,7 @@ breadcrumb: [Reference, AWS, Service Graph Connectors, Integrating third-party d
 
 # AWS discovery solutions comparison
 
-ITOM Visibility applications discover a variety of AWS resources and populate the relevant configuration item \(CI\) classes in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] with their attributes.
+ITOM Visibility applications discover a variety of AWS resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
 ## ITOM Visibility solutions
 
@@ -48,7 +48,7 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td></tr><tr><td>
 
-[[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
+Service Graph Connector for AWS
 
 </td><td>
 
@@ -222,7 +222,3 @@ The CI class, in most cases, is applicable to both solutions. If it's not applic
 
 **Parent Topic:**[Service Graph Connector for AWS reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-reference.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

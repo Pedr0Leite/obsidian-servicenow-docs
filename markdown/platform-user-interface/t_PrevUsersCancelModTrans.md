@@ -33,13 +33,10 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[[c_CancelingNavigationActions|Navigation action cancellation]]
+**Parent Topic:**[Navigation action cancellation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CancelingNavigationActions.md)
 
 **Related topics**  
 
 
 [Add sites to the always cancel list]()
 
-## Related
-
-- [[c_CancelingNavigationActions|Navigation action cancellation]]

@@ -15,7 +15,7 @@ breadcrumb: [Interaction management in Accounts Payable Operations, Use, Account
 
 # Create a new interaction
 
-Create and manage interaction records in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to track [[supplier|supplier]] requests received through chat, email, or the [[supplier-central|Supplier Collaboration Portal]].
+Create and manage interaction records in Accounts Payable Operations to track supplier requests received through chat, email, or the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: Account Payable Operations agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Source-to-Pay Workspace**.
 
     Based on the supplier interaction with the agent, an interaction record is auto-created. For more information about the fields in an interaction record, see [Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/interaction-record.md).
 
@@ -38,9 +38,3 @@ Role required: Account Payable Operations agent
 
 **Parent Topic:**[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/interaction-record.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

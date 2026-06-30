@@ -13,7 +13,7 @@ breadcrumb: [Reference, Agentic Contact Center for Insurance, Insurance applicat
 
 # Components installed with Agentic Contact Center for Insurance
 
-Review the roles and other [[components-installed-with-dispute-rules-content-pack-for-mastercard|components installed]] when you activate [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]].
+Review the roles and other components installed when you activate Agentic Contact Center for Insurance.
 
 ## Roles installed
 
@@ -44,7 +44,7 @@ This role grants access to CSR agents for handling insurance service-related req
 
 </td></tr><tr><td>
 
-CSR [[insurance-claims-flow|Insurance Claims]] Agent \[sn\_ins\_csr.claims\_agent\]
+CSR Insurance Claims Agent \[sn\_ins\_csr.claims\_agent\]
 
 </td><td>
 
@@ -58,11 +58,5 @@ This role grants access to CSR agents for handling insurance claims-related requ
 -   sn\_ins\_claim\_cml.fnol\_representative
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance reference]]
+</table>**Parent Topic:**[Agentic Contact Center for Insurance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/reference-agentic-contact-centre-for-insurance.md)
 
-## Related
-
-- [[reference-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance reference]]
-- [[components-installed-with-dispute-rules-content-pack-for-mastercard|Components installed]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[insurance-claims-flow|Insurance claims]]

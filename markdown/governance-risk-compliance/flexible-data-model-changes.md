@@ -12,9 +12,9 @@ breadcrumb: [Gathering data aligned with the CSDM setup, Manage, Operational Res
 
 # Using the flexible data model
 
-Starting with [[grc-opres-landing-page|Operational Resilience]], Release 21.0.x, the flexible data model enhances operational resilience metrics by improving data visualization and the flow of dependent services. It also supports multiple dashboards with insights into red flags, business service importance, and impact tolerance.
+Starting with Operational Resilience, Release 21.0.x, the flexible data model enhances operational resilience metrics by improving data visualization and the flow of dependent services. It also supports multiple dashboards with insights into red flags, business service importance, and impact tolerance.
 
-Starting with Operational Resilience, Release 20.1.x, the Main node configurations, supported by the [[data-relationship-framework|Data Relationships Framework]], were introduced with Operational Resilience to define dependency roll-up chains. The Main node configurations, with the source being the OpRes CMDB, are shipped with base system. For information on the Main node configurations, creating a new Main node configuration, or updating an existing Main node configuration, see [[main-node-relationship-fw|Main node configurations: A component of the Data Relationships Framework]].
+Starting with Operational Resilience, Release 20.1.x, the Main node configurations, supported by the Data Relationships Framework, were introduced with Operational Resilience to define dependency roll-up chains. The Main node configurations, with the source being the OpRes CMDB, are shipped with base system. For information on the Main node configurations, creating a new Main node configuration, or updating an existing Main node configuration, see [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
 In the previous data model, the CSDM objects \[sn\_oper\_res\_profile\] table stored the entire dependency chain, including all possible combinations, making data retrieval cumbersome and maintenance challenging. This approach has been deprecated in favor of a more efficient model.
 
@@ -22,7 +22,7 @@ In the previous data model, the CSDM objects \[sn\_oper\_res\_profile\] table st
 
 The flexible data model offers several key features that enhance operational resilience metrics.
 
--   Enhanced data visualization: The Services, Business services, Offerings, Business processes, and Application services modules now feature a vertical layout, replacing traditional horizontal tabs and enhancing navigation within the Operational Resilience Workspace. You can view the entire [[opres-ws-homepage-overview|resilience metrics]] for an object, such as a business process or business service, from the Overview tab in the vertical layout.\[Omitted image "sch-jobs-overview.png"\] Alt text: Overview.
+-   Enhanced data visualization: The Services, Business services, Offerings, Business processes, and Application services modules now feature a vertical layout, replacing traditional horizontal tabs and enhancing navigation within the Operational Resilience Workspace. You can view the entire resilience metrics for an object, such as a business process or business service, from the Overview tab in the vertical layout.\[Omitted image "sch-jobs-overview.png"\] Alt text: Overview.
 
     You can then view the downstream data and various dashboards based on the selected top class. The following example shows the top controls to be strengthened for the business service.
 
@@ -48,7 +48,7 @@ The data shown in the example is for business services such as business service 
 
 You can configure the **sn\_oper\_res.top\_class\_name** property to designate any class as the top class in the dashboard view so that any node, such as business service, business process, or application service, can be the top node. You can then view the downstream data and various dashboards based on the selected top class, such as the number of application services that are under a business service. It enables you to switch between different views, such as business services, service offerings, business processes, or applications, on the dashboard and view relevant data accordingly.
 
-For example, if the data is displayed for a business service, you can change the top class to service offerings, business processes, or application services by configuring the **sn\_oper\_res.top\_class\_name** property. You can then change the top class to another object and the system shows data with respect to that specific top class. This property is applicable only for the dashboards and not for the Workspace forms. For more information on the properties, see [[configure-opres-prop|Configure Operational Resilience properties]].
+For example, if the data is displayed for a business service, you can change the top class to service offerings, business processes, or application services by configuring the **sn\_oper\_res.top\_class\_name** property. You can then change the top class to another object and the system shows data with respect to that specific top class. This property is applicable only for the dashboards and not for the Workspace forms. For more information on the properties, see [Configure Operational Resilience properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-opres-prop.md).
 
 The following example shows that the top class name is set to **cmdb\_ci\_service\_business**.
 
@@ -111,11 +111,11 @@ The Main node configurations provide the data flow of what you want to see. The 
 
 The entire flow that goes from a business service to business process to service offering and then to an application is created in the Main node configurations and then the configurations are mapped to the impacted objects.
 
-For information on setting up the Main node configurations, see [[set-up-main-node|Configure the Main node configurations]].
+For information on setting up the Main node configurations, see [Configure the Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-main-node.md).
 
 ## Running the scheduled jobs
 
-Two scheduled jobs, **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** run at regular intervals populate data in the CSDM objects \[sn\_oper\_res\_profile.list\] table and the red flags. For more information, see [[execute-sch-jobs|Execute the scheduled jobs]].
+Two scheduled jobs, **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** run at regular intervals populate data in the CSDM objects \[sn\_oper\_res\_profile.list\] table and the red flags. For more information, see [Execute the scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/execute-sch-jobs.md).
 
 All the Main node configurations are handled in parallel. A separate event is triggered for each Main node configuration, enabling parallel processing. The enhanced configuration eliminates the need for sequential processing, significantly improving efficiency.
 
@@ -143,12 +143,3 @@ Failed controls from business processes and service offerings are rolled up and 
 
 \[Omitted image "sch-job-2-output-2.png"\] Alt text: Failed controls.
 
-## Related
-
-- [[main-node-relationship-fw|main node relationship fw]]
-- [[configure-opres-prop|Configure Operational Resilience properties]]
-- [[set-up-main-node|Configure the Main node configurations]]
-- [[execute-sch-jobs|Execute the scheduled jobs]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[opres-ws-homepage-overview|Resilience metrics]]

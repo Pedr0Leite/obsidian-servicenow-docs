@@ -124,7 +124,7 @@ Role required: admin
 
     -   Prepare update sets for transfer: Check the Update Sets Table and ensure that your update sets are in Complete state. Once they are completed, you can move the update sets to the next production or non-production instance. If you have created new update sets and included other apps customizations, you can manually export them to the next instance. Select **View all update sets** to review your update sets in the Update Sets Table table.
     -   View generated upgrade plan: View the upgrade plan created automatically for you to install in the next environment. Select **View update plan** to review the update plan that has been created for you.
-    -   View your update set: Commit the selected update set to the next environment to apply your [[clone-configurations-tab|configurations]]. Select **View update set** to download the update set.
+    -   View your update set: Commit the selected update set to the next environment to apply your configurations. Select **View update set** to download the update set.
 
         **Note:** The selection made during the Pre-upgrade tasks for your applications are automatically included.
 
@@ -140,6 +140,3 @@ Role required: admin
 
 [Implement instance upgrade activities on a sub-prod instance]()
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]

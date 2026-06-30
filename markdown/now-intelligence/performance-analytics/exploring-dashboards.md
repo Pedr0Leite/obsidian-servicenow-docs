@@ -18,15 +18,15 @@ Learn more about dashboards with a sample workflow and reviewing the benefits it
 
 ## Dashboards overview
 
-**Note:** On net new Australia instances and instances migrated to Platform Analytics experience, Core UI Responsive Dashboards functionality is replaced with [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards. For more information, see [[analytics-center-dashboards|Dashboards in Platform Analytics]].
+**Note:** On net new Australia instances and instances migrated to Platform Analytics experience, Core UI Responsive Dashboards functionality is replaced with Platform Analytics dashboards. For more information, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
 The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example.
 
-Core UI Responsive Dashboards show reports, Performance Analytics indicator [[widgets|widgets]], [[c_HomepagePublishers|interactive filters]], and other Core UI components of the story of the data on your instance.
+Core UI Responsive Dashboards show reports, Performance Analytics indicator widgets, interactive filters, and other Core UI components of the story of the data on your instance.
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]].
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-migrate-dbs-you-own.md).
 
-**Important:** Responsive dashboards cannot show Platform Analytics components such as data visualizations. For more information, see [[par-workspace|Platform Analytics experience]].
+**Important:** Responsive dashboards cannot show Platform Analytics components such as data visualizations. For more information, see [Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md).
 
 ## Benefits of Responsive Dashboards
 
@@ -37,11 +37,3 @@ Owners of Core UI responsive dashboards have the option to migrate these dashboa
 |Manage dashboards including deleting, copying, and editing user access.|[Manage responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/manage-responsive-dashboards.md)|You must own a dashboard or be an admin to copy, delete, or manage permissions on it.|
 |Share dashboards to create a shared view of data that you can use to collaborate. You can give other users viewing rights or both viewing and editing rights.|[Share a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)|You must own a dashboard or be an admin to share a dashboard.|
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]

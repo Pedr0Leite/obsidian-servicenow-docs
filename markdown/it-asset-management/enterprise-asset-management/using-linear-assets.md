@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Linear assets in Enterprise Asset Management
 
-Expand your [[am-landing-page|asset management]] portfolio by creating and managing linear assets.
+Expand your asset management portfolio by creating and managing linear assets.
 
 ## Overview of linear assets
 
@@ -26,15 +26,15 @@ A linear asset is an asset that has a physical length or dimension, such as road
 
 If a linear asset is divided into segments, you can classify and manage those segments by using the Linear segments \[sn\_eam\_linear\_segment\] class. This class extends the Linear asset \[sn\_eam\_linear\_asset\] class.
 
-These classes are available only through the [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]] application. For more information on this application, see [Enterprise model and asset classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes.md).
+These classes are available only through the Expanded Model and Asset Classes application. For more information on this application, see [Enterprise model and asset classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes.md).
 
 ## Geo maps for linear assets
 
 You can create and manage linear assets and segments using geographic \(geo\) maps. Geo maps are visual representations of geographical areas, displaying geographical elements such as landforms, bodies of water, cities, and roads.
 
-The [[enterprise-asset-management|Enterprise Asset Management]] application uses the sn-geo-map UI component to power map visualizations for linear assets. Only users with the Enterprise Asset Manager \(sn\_eam.enterprise\_asset\_manager\) role can access geo maps.
+The Enterprise Asset Management application uses the sn-geo-map UI component to power map visualizations for linear assets. Only users with the Enterprise Asset Manager \(sn\_eam.enterprise\_asset\_manager\) role can access geo maps.
 
-Geo maps help you perform the following actions in the [[using-eam-workspace|Enterprise Asset Workspace]]:
+Geo maps help you perform the following actions in the Enterprise Asset Workspace:
 
 -   Draw linear assets to define coordinates.
 -   Set segment start and end markers.
@@ -70,9 +70,3 @@ For more information on linear asset relationships, see [Find linear asset relat
 
 **Parent Topic:**[Enterprise Asset Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-data-model.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

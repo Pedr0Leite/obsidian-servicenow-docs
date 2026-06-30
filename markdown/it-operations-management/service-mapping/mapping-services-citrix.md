@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Mapping application services containing Citrix XenApp and Presentation Server
 
-[[c_ServiceMappingOverview|Service Mapping]] can discover application services containing Citrix XenApp, Presentation Server, and Citrix Usage Collector.
+Service Mapping can discover application services containing Citrix XenApp, Presentation Server, and Citrix Usage Collector.
 
 ## Discovered components
 
@@ -36,7 +36,7 @@ Protocol
 
 </th><th>
 
-[[r-discovery|Discovery]] type
+Discovery type
 
 </th><th>
 
@@ -188,7 +188,7 @@ Role required: service\_mapping\_admin
 
     1.  Select the **Citrix XenApp** tile.
 
-    2.  Define [[r_EntryPointsforBizSvcDef|entry point attributes]].
+    2.  Define entry point attributes.
 
         |Attribute|Description|
         |---------|-----------|
@@ -280,9 +280,3 @@ Verify the icon path and reenter it in the entry point attributes for the applic
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[r_EntryPointsforBizSvcDef|Entry point attributes]]

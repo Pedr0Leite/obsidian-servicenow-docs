@@ -14,7 +14,7 @@ breadcrumb: [Components installed with On-call scheduling, Reference for on-call
 
 # Scheduled jobs installed with On-Call Scheduling
 
-[[c_OnCallScheduling|On-Call Scheduling]] includes scheduled jobs.
+On-Call Scheduling includes scheduled jobs.
 
 |Schedule job|Description|
 |------------|-----------|
@@ -23,6 +23,3 @@ breadcrumb: [Components installed with On-call scheduling, Reference for on-call
 
 **Parent Topic:**[Components installed with On-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/components-installed-with-on-call-scheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

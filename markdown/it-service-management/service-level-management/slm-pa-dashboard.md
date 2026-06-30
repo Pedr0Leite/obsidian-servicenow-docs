@@ -20,7 +20,7 @@ Users with the itil role can access the dashboard.
 
 You can navigate to the PA dashboard in the following ways:
 
--   **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Overview**
+-   **Service Level Management** &gt; **Overview**
 -   **Self – Service** &gt; **Dashboard** &gt; **SLA Overview \(Premium\)**
 
 This dashboard has the following requirements:
@@ -163,6 +163,3 @@ Shows the average duration of individual assignments for achieved task SLAs comp
 </td></tr></tbody>
 </table>**Parent Topic:**[Legacy: Platform Analytics Solutions for Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-mgmt-content-pack.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

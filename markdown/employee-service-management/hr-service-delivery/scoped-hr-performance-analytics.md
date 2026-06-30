@@ -25,7 +25,7 @@ Performance Analytics Premium for Human Resources Management \[com.snc.pa.premiu
 Also, activate one or more of the following content packs:
 
 -   Performance Analytics - Content Pack - Human Resources Scoped App \[com.sn\_hr\_pa\]
--   Performance Analytics - Content Pack - Human Resources [[hr-employee-doc-management|Employee Document Management]] Scoped App \[com.sn\_hr\_employee\_files\_pa\]
+-   Performance Analytics - Content Pack - Human Resources Employee Document Management Scoped App \[com.sn\_hr\_employee\_files\_pa\]
 
 To configure the Performance Analytics \(PA\) dashboard, assign the Performance Analytics Administrator \[pa\_admin\] role to the HR Administrator \[sn\_hr\_core.admin\] role.
 
@@ -36,7 +36,7 @@ See [Performance Analytics roles](https://raw.githubusercontent.com/ServiceNow/S
 Contact your account manager for more information.
 
 -   **[Viewing HR Performance Analytics Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/viewing-hr-perf-analytics.md)**  
-HR Performance Analytics for the scoped version of [[hr-service-delivery|HR Service Delivery]] helps you align resources and systems to strategic objectives.
+HR Performance Analytics for the scoped version of HR Service Delivery helps you align resources and systems to strategic objectives.
 -   **[HR Performance Analytics Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/human-resources-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
@@ -47,7 +47,3 @@ Platform Analytics Solutions contain preconfigured dashboards. These dashboards 
 
 [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-overview.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[hr-service-delivery|HR Service Delivery]]

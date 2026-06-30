@@ -14,9 +14,9 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Cost Allocation inbound staging table \(Deprecated\)
 
-The Cost Allocation inbound \[sn\_spend\_intg\_imp\_cost\_allocation\] staging table temporarily stores important data about [[cost-allocations|cost allocations]] before this data is sent to the primary table.
+The Cost Allocation inbound \[sn\_spend\_intg\_imp\_cost\_allocation\] staging table temporarily stores important data about cost allocations before this data is sent to the primary table.
 
-**Important:** This table is deprecated; please use the new one in the [[erp-integration-framework|ERP integration framework]] instead. For more information, see [KB2186786](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=0e382d13477966102c31b98a436d43fa).
+**Important:** This table is deprecated; please use the new one in the ERP integration framework instead. For more information, see [KB2186786](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=0e382d13477966102c31b98a436d43fa).
 
 The following table lists the fields for the Cost Allocation inbound \[sn\_spend\_intg\_imp\_cost\_allocation\] staging table.
 
@@ -70,7 +70,7 @@ Percentage of cost allocation.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -114,7 +114,7 @@ String
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] line number from the ERP system.This is a mandatory field.
+Purchase order line number from the ERP system.This is a mandatory field.
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Purchase order number from the ERP system.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -138,7 +138,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the [[legal-entity|legal entity]] associated with these records.This is a mandatory field.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.This is a mandatory field.
 
 </td></tr><tr><td>
 
@@ -230,11 +230,3 @@ Order line associated with the cost allocation.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[cost-allocations|Cost allocations]]
-- [[erp-integration-framework|ERP Integration Framework]]
-- [[cost-center|Cost center]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

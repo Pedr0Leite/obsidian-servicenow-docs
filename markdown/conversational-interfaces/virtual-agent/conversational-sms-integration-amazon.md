@@ -32,10 +32,7 @@ Select a tile to get started.
 </table>-   **[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-ci-sms-with-aws.md)**  
 Install and set up the Conversational SMS Integration with AWS End User Messaging application to enable requesters to interact with virtual and live agents.
 -   **[Using Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-conversational-sms-integration-with-amazon.md)**  
-Enable a customer to converse with a live or [[virtual-agent-landing-page|virtual agent]] using the SMS integration with AWS End User Messaging.
+Enable a customer to converse with a live or virtual agent using the SMS integration with AWS End User Messaging.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

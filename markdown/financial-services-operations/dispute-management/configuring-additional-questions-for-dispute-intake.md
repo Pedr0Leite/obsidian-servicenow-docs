@@ -14,7 +14,7 @@ breadcrumb: [Configure, Dispute Management, Banking applications, Financial Serv
 
 # Configure additional questions for dispute intake
 
-Configure the questionnaire that appears for dispute agents or account holders when they [[create-case-with-intake-workspace|initiate a dispute]].
+Configure the questionnaire that appears for dispute agents or account holders when they initiate a dispute.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: `admin` and `sn_bom_credit_card.admin`.
 
     You will see two Table name entries within the Intake Form Label table:
 
-    -   The label tied to the **Dispute Intake** table appears to the dispute agent from the [[fso-overview|Financial Services]] Workspace.
+    -   The label tied to the **Dispute Intake** table appears to the dispute agent from the Financial Services Workspace.
     -   The label tied to the **Cardholder Dispute Intake** table appears to the cardholder during intake on the portal.
     This example lets you change the wording for different users but keeps both labels connected to the same column, `is_cardholder_denies_authorizing_ind`, in this case.
 
@@ -49,7 +49,3 @@ Role required: `admin` and `sn_bom_credit_card.admin`.
 
 **Parent Topic:**[Set up Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/setting-up-disputes-management.md)
 
-## Related
-
-- [[create-case-with-intake-workspace|Initiate a dispute]]
-- [[fso-overview|Financial Services]]

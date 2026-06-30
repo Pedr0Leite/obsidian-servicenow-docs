@@ -20,7 +20,7 @@ Role required: system\_catalog\_admin
 
 ## About this task
 
-To configure the product specification version change, [[Modify|modify]] the check-for-an-incoming-specification ID and the product inventory specification ID.
+To configure the product specification version change, modify the check-for-an-incoming-specification ID and the product inventory specification ID.
 
 ## Procedure
 
@@ -37,18 +37,12 @@ To configure the product specification version change, [[Modify|modify]] the che
     The specification version update is activated.
 
 
-**Parent Topic:**[[som-specification-version-update|Updating specification versions]]
+**Parent Topic:**[Updating specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-specification-version-update.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-specification-version-update|Updating specification versions]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[Modify|Modify]]

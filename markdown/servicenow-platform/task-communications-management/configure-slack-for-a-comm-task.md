@@ -20,7 +20,7 @@ Configure Slack as a mode of communication for a communication task to send dire
 
 Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
-Install the Collaboration Services for [[tcm-landing-page|Task Communications Management]] plugin \(sn\_tcm\_collab\_hook\) from ServiceNow Store.
+Install the Collaboration Services for Task Communications Management plugin \(sn\_tcm\_collab\_hook\) from ServiceNow Store.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ Install the Collaboration Services for [[tcm-landing-page|Task Communications Ma
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]

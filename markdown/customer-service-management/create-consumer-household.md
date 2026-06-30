@@ -31,7 +31,7 @@ Role required: One of the following roles:
 
 A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. The head of household has access to all the cases and information for the other household members.
 
-A user with the administrator role can create a household. This user can also delete a household. When a household is deleted, the system removes its references and associations—including members, [[sold-product|sold products]], cases, and work orders—but doesn’t delete the associated entities.
+A user with the administrator role can create a household. This user can also delete a household. When a household is deleted, the system removes its references and associations—including members, sold products, cases, and work orders—but doesn’t delete the associated entities.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ A user with the administrator role can create a household. This user can also de
 
 2.  Select **New** on the Households list.
 
-3.  Fill in the fields on the [[data-model-household-form|Household]] form.
+3.  Fill in the fields on the [Household](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-model-household-form.md) form.
 
 4.  Select **Submit**.
 
@@ -49,13 +49,7 @@ A user with the administrator role can create a household. This user can also de
 **Related topics**  
 
 
-[[configure-households|Configuring households]]
+[Configuring households](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-households.md)
 
-[[csm-data-model-relationships|Service Model Foundation relationships]]
+[Service Model Foundation relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-relationships.md)
 
-## Related
-
-- [[data-model-household-form|Household form]]
-- [[configure-households|Configuring households]]
-- [[csm-data-model-relationships|Service Model Foundation relationships]]
-- [[sold-product|Sold products]]

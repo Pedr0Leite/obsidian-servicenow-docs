@@ -12,12 +12,12 @@ breadcrumb: [Multiple email readers, Email accounts, Create, Email Administratio
 
 # Create an email reader job
 
-If you created email account groups to fine-tune [[ia-inbound-email-il|inbound email]] account processing, you can create an email reader job to process those account groups concurrently, in addition to the default email reader job.
+If you created email account groups to fine-tune inbound email account processing, you can create an email reader job to process those account groups concurrently, in addition to the default email reader job.
 
 ## Before you begin
 
-1.  [[create-email-account-group|Create email account groups]].
-2.  [[enable-group-processing|Enable email account group processing]]
+1.  [Create email account groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-group.md).
+2.  [Enable email account group processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-group-processing.md)
 
 Role required: email\_account\_admin or admin
 
@@ -38,11 +38,5 @@ Role required: email\_account\_admin or admin
 
 ## What to do next
 
-[[monitor-email-account-groups|Monitor email account group processing]] and determine if the additional reader job reduces processing time. If needed, you can continue fine-tuning email account processing. For example, you might consider adding another email account group.
+[Monitor email account group processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitor-email-account-groups.md) and determine if the additional reader job reduces processing time. If needed, you can continue fine-tuning email account processing. For example, you might consider adding another email account group.
 
-## Related
-
-- [[create-email-account-group|Create email account groups]]
-- [[enable-group-processing|Enable email account group processing]]
-- [[monitor-email-account-groups|Monitor email account groups]]
-- [[ia-inbound-email-il|Inbound email]]

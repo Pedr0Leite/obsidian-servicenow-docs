@@ -18,16 +18,16 @@ By using the telephone number inventory management data model, you can understan
 
 ## Data model
 
-The following diagram shows the telephone number inventory management data model.\[Omitted image "telephone\_datamodel.png"\] Alt text: [[uses-for-network-inventory-data|Data model]] that explains how the tables of a telephone number block, telephone number allocation, and telephone number are related.
+The following diagram shows the telephone number inventory management data model.\[Omitted image "telephone\_datamodel.png"\] Alt text: Data model that explains how the tables of a telephone number block, telephone number allocation, and telephone number are related.
 
 The data model provides an overview of telephone number usage and availability. With this data model, you can store the telephone block, allocation, and telephone number.
 
-**Note:** You can also allocate or deallocate a telephone number for a customer service. You must [[create_telephone_block|create a telephone block]] for the telephone number block table.
+**Note:** You can also allocate or deallocate a telephone number for a customer service. You must create a telephone block for the telephone number block table.
 
 A telephone number is assigned this way:
 
 1.  A telephone number inventory manager creates a telephone number block to store all the different types of telephone numbers. The numbers can be categorized based on the area, country, port-in type, or port-out type. Each record of the block is stored in the table of the telephone number block.
-2.  A telephone number inventory manager then creates a [[telephone_number_management|telephone allocation]] to assign a service to a series or to a set of numbers. A telephone block can have a group as its child. These allocations are created in the telephone number allocation table.
+2.  A telephone number inventory manager then creates a telephone allocation to assign a service to a series or to a set of numbers. A telephone block can have a group as its child. These allocations are created in the telephone number allocation table.
 3.  The telephone number allocation table relates the telephone numbers that are ready to use to a record in the telephone number table.
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
@@ -37,8 +37,3 @@ A telephone number is assigned this way:
 
 [Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md)
 
-## Related
-
-- [[uses-for-network-inventory-data|Data model]]
-- [[create_telephone_block|Create a telephone block]]
-- [[telephone_number_management|Telephone allocation]]

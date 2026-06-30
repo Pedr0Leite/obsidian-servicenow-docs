@@ -12,7 +12,7 @@ breadcrumb: [Category users and stakeholders, Assessment administrator tasks, Us
 
 # Create stakeholders automatically
 
-You can configure the system to create stakeholders automatically from all category users and [[c_assessable-records|assessable records]] associated with a category using the **Create stakeholders** [[check-box|check box]] on the [[metric-category-form|Metric Category form]].
+You can configure the system to create stakeholders automatically from all category users and assessable records associated with a category using the **Create stakeholders** check box on the Metric Category form.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If you associate a user to the category, the system makes the resulting category
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Categories**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Categories**.
 
 2.  Select a category.
 
@@ -49,35 +49,22 @@ If you associate a user to the category, the system makes the resulting category
 9.  Delete stakeholders as needed.
 
 
-**Parent Topic:**[[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
+**Parent Topic:**[Category users and stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
 [Category users and stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md)
 
-[[t_CreateACategoryUser|Create a category user]]
+[Create a category user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryUser.md)
 
-[[t_AssocMultCatUsrsToMultAssessRecs|Associate multiple category users to multiple assessable records]]
+[Associate multiple category users to multiple assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocMultCatUsrsToMultAssessRecs.md)
 
-[[t_AssocMultCatUsrsToOneAssessRec|Associate multiple category users to one assessable record]]
+[Associate multiple category users to one assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocMultCatUsrsToOneAssessRec.md)
 
-[[t_AssocOneCatUsrToOneAssessRec|Associate one category user to one assessable record]]
+[Associate one category user to one assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocOneCatUsrToOneAssessRec.md)
 
-[[t_DelAStakeholderForMultAssessRecs|Delete a stakeholder for multiple assessable records]]
+[Delete a stakeholder for multiple assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DelAStakeholderForMultAssessRecs.md)
 
-[[t_DelAStakeholderForOneAssessRec|Delete a stakeholder for one assessable record]]
+[Delete a stakeholder for one assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DelAStakeholderForOneAssessRec.md)
 
-## Related
-
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[t_CreateACategoryUser|Create a category user]]
-- [[t_AssocMultCatUsrsToMultAssessRecs|Associate multiple category users to multiple assessable records]]
-- [[t_AssocMultCatUsrsToOneAssessRec|Associate multiple category users to one assessable record]]
-- [[t_AssocOneCatUsrToOneAssessRec|Associate one category user to one assessable record]]
-- [[t_DelAStakeholderForMultAssessRecs|Delete a stakeholder for multiple assessable records]]
-- [[t_DelAStakeholderForOneAssessRec|Delete a stakeholder for one assessable record]]
-- [[c_assessable-records|Assessable records]]
-- [[check-box|Check box]]
-- [[metric-category-form|Metric Category form]]
-- [[r_Assessments|Assessments]]

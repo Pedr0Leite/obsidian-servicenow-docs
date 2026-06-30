@@ -14,7 +14,7 @@ breadcrumb: [Set up self-service, Configure, Customer Service Management]
 
 # Configure Web Embeddables
 
-Web Embeddables capability enables you to embed the [[servicenow-web-components-overview|ServiceNow components]] into external websites outside of the ServiceNow environment. You can use the default components or create your own custom components to interact with the ServiceNow platform, using dedicated APIs that allow for real-time data exchange and functionality without requiring users to directly access the ServiceNow instance.
+Web Embeddables capability enables you to embed the ServiceNow components into external websites outside of the ServiceNow environment. You can use the default components or create your own custom components to interact with the ServiceNow platform, using dedicated APIs that allow for real-time data exchange and functionality without requiring users to directly access the ServiceNow instance.
 
 The Web Embeddables homepage displays modules, components, and provides an overview on how to configure and embed components. It also shows Frequently Asked Questions that provide insights into the most common queries asked by users.
 
@@ -25,7 +25,7 @@ The Web Embeddables homepage displays modules, components, and provides an overv
 You can configure and embed the following ServiceNow components on the third-party websites.
 
 -   Case list: Displays a comprehensive list of multiple cases along with their key details.
--   Case view: Displays a detailed view of all case-related activities. [[case-view-web-component|Case view component]] includes a process tab that displays relevant playbooks when they are created for the case record
+-   Case view: Displays a detailed view of all case-related activities. Case view component includes a process tab that displays relevant playbooks when they are created for the case record
 -   Case create: Displays a form that helps you to create a case to address any issues related to products and services.
 -   Catalog item: Displays a form that you can fill in to request an item or service.
 -   Knowledge article view: Displays knowledge articles along with key details like title, content, author, view count, read time, and others. You can also rate the article and switch the language as per your preferred locale.
@@ -38,7 +38,3 @@ You can configure and embed the following ServiceNow components on the third-par
 
 \[Omitted image "we-end-to-end-workflow.svg"\] Alt text: Screenshot displaying steps to configure and embed a Web Embeddables component on an external site.
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[case-view-web-component|Case view component]]

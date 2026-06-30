@@ -14,11 +14,11 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Workplace Service Portal
 
-The Workplace Service Portal is a self-service portal for employees, delivering [[workplace-services|workplace services]] from a central location. Employees can make reservations, view knowledge base articles, submit and review requests, and get help using virtual agent chat support.
+The Workplace Service Portal is a self-service portal for employees, delivering workplace services from a central location. Employees can make reservations, view knowledge base articles, submit and review requests, and get help using virtual agent chat support.
 
 **Note:**
 
-In [[workplace-safety-mgmt-hr|Workplace Core]] version 2.19.0 and above, the navigation path for Workplace Services Portal is not available in the application search context menu **All** &gt; **Workplace Core**. The Workplace Services Portal is currently being deprecated. You can access the Workplace Services Portal from the [[employee-center-landing-page|Employee Center]] portal home page **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**.
+In Workplace Core version 2.19.0 and above, the navigation path for Workplace Services Portal is not available in the application search context menu **All** &gt; **Workplace Core**. The Workplace Services Portal is currently being deprecated. You can access the Workplace Services Portal from the Employee Center portal home page **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**.
 
 From the Workplace Service Portal, you can do the following:
 
@@ -30,8 +30,3 @@ From the Workplace Service Portal, you can do the following:
 -   Chat with a virtual agent to submit requests and view submitted requests.
 -   Raise a general help request by selecting from a list of service catalog items.
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-center-landing-page|Employee Center]]

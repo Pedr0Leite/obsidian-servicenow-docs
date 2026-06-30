@@ -14,7 +14,7 @@ breadcrumb: [Create remote tasks to sync data, Use for consumers, Service Exchan
 
 # Connect and Disconnect remote tasks
 
-[[service-bridge-v2-remote-task-overview|Remote tasks]] associated with active remote task definitions enable you to sync data between two parent tasks on the provider and consumer instances.
+Remote tasks associated with active remote task definitions enable you to sync data between two parent tasks on the provider and consumer instances.
 
 When you create a remote task for an active remote task definition, the Status of the remote task is set to **Connected** on the provider and consumer instances if there are no errors. This ensures that the remote task syncs data including field updates, attachments, and comments between the parent tasks.
 
@@ -22,6 +22,3 @@ To stop synching of data between the instances, navigate to the Remote Task page
 
 **Note:** To resume syncing of data, you can navigate to the Remote Task page and click **Connect**. This option works only if the existing configuration is valid and has not been modified, and the remote task definition is active.
 
-## Related
-
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]

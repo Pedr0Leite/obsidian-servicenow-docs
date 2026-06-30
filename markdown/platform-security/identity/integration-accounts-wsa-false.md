@@ -14,7 +14,7 @@ breadcrumb: [Security findings, Exploring Machine Identity Console, Machine Iden
 
 # Integration accounts with Web Service Access set to false
 
-Display the findings about the accounts that are [[c_Authentication|authentication]] ServiceNow with the Web Service Access set to false under the [[security-score|Security findings]] in the [[machine-identity-console|Machine Identity Console]].
+Display the findings about the accounts that are authentication ServiceNow with the Web Service Access set to false under the Security findings in the Machine Identity Console.
 
 Integration accounts with Web Service Access set to false displays the accounts that are using API without the Web Service Access set to false.
 
@@ -25,13 +25,7 @@ Integration accounts with Web Service Access set to false displays the accounts 
 
 \[Omitted image "mic-wsa-false-overview.png"\] Alt text: Accounts with WSA set to false
 
-You can select the machine [[identity-landing|identity]] name to know more about the account and the recommendation to maintain a good security posture for the account.
+You can select the machine identity name to know more about the account and the recommendation to maintain a good security posture for the account.
 
 \[Omitted image "mic-recommendation-was-false.png"\] Alt text: Recommendation for the accounts with WSA set to false
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[security-score|Security findings]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[identity-landing|Identity]]

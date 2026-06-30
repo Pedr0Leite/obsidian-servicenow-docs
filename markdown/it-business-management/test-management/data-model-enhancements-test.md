@@ -14,7 +14,7 @@ breadcrumb: [Appendix — Test Management 2.0, Migration from Test Management 1.
 
 # Data model enhancements in Test Management 2.0
 
-[[test-management2-landing-page|Test Management 2.0]] offers a few data model enhancements over [[c_TestManagement|Test Management 1.0]].
+Test Management 2.0 offers a few data model enhancements over Test Management 1.0.
 
 ## Enhanced traceability
 
@@ -22,7 +22,7 @@ Each test in Test Management 2.0 can have multiple versions. When a test version
 
 ## More flexible approach to organize tests
 
-Unlike Test Management 1.0, where [[c_TestCases|test cases]] can be placed in only one test suite, in Test Management 2.0 [[c_Tests|tests]] can be placed in multiple test sets. Test sets are free-form collections of tests. Tests can be grouped into test sets using any logic: by product, by component, or by release.
+Unlike Test Management 1.0, where test cases can be placed in only one test suite, in Test Management 2.0 tests can be placed in multiple test sets. Test sets are free-form collections of tests. Tests can be grouped into test sets using any logic: by product, by component, or by release.
 
 \[Omitted image "test\_sets.png"\] Alt text: Illustration showing that test set is a collection of tests
 
@@ -30,9 +30,3 @@ Unlike Test Management 1.0, where [[c_TestCases|test cases]] can be placed in on
 
 A test plan in Test Management 2.0 captures the time frame during which the tests are to be run. In addition, a test plan can be broken down into smaller planning windows, test cycles, for more precise planning, such as user acceptance testing, and integration testing. Further test cycles can be broken down into test execution suites, which are similar to sprints in testing. A test execution suite defines when a test must be run and by whom.\[Omitted image "test\_plan.png"\] Alt text: Illustration showing that a test plan is broken down into test cycles and test execution suites
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestManagement|Test Management 1.0]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service Analytics** &gt; **[[activity-lxp|Activity]] Context**.
+1.  Navigate to **All** &gt; **Self-Service Analytics** &gt; **Activity Context**.
 
 2.  Select **HRSM KB deflection** from the list.
 
@@ -36,6 +36,4 @@ Role required: admin
 
 7.  Select **Update**.
 
-## Related
 
-- [[activity-lxp|Activity]]

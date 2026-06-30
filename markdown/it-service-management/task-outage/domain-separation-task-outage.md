@@ -14,7 +14,7 @@ breadcrumb: [Task Outage, IT Service Management]
 
 # Domain separation and task outage
 
-Domain separation is supported in [[task-outage|task outage]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in task outage. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -39,6 +39,3 @@ Task-Outage Relationship \[cmdb\_ci\_outage\] is domain separated. Outages are n
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[task-outage|Task Outage]]

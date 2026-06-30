@@ -22,7 +22,7 @@ The Spend Savings Estimation \[sn\_slm\_opt\_spend\_savings\_estimation\] table 
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Supplier|Reference|Name of the [[supplier|supplier]].|
+|Supplier|Reference|Name of the supplier.|
 |System domain|Domain ID|Identifier for the system domain associated with the supplier.|
 |System domain path|String|Path that indicates the hierarchy or structure of the system domain.|
 |Annual target spend|Currency|Total amount expected to be spent in an year with the supplier.|
@@ -46,6 +46,3 @@ For more information, see [Supplier Payment Optimization data model](https://raw
 
 **Parent Topic:**[Supplier Payment Optimization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-payment-opt-ref.md)
 
-## Related
-
-- [[supplier|Supplier]]

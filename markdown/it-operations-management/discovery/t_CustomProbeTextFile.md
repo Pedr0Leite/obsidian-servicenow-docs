@@ -14,7 +14,7 @@ breadcrumb: [Discovery probes and sensors, Using Discovery, Discovery, ITOM Visi
 
 # Example custom Discovery probe and sensor: populate a CI with text file values
 
-This custom [[r-discovery|Discovery]] probe helps you if you need to read a text file from a Windows computer and populate a CI in the CMDB with the values from the file.
+This custom Discovery probe helps you if you need to read a text file from a Windows computer and populate a CI in the CMDB with the values from the file.
 
 ## Before you begin
 
@@ -125,6 +125,3 @@ In this example the user wanted to read files created by BGinfo.
 
 **Parent Topic:**[Discovery probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryProbesAndSensors.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

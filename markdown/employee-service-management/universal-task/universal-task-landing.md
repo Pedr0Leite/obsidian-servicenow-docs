@@ -14,7 +14,7 @@ breadcrumb: [Employee Service Management]
 
 # Universal Task
 
-The ServiceNow Universal Task application is a tasking framework that enables your agents to request extra information from employees who submit tickets or to task employees to accomplish an [[activity-lxp|activity]] in order to resolve a ticket.
+The ServiceNow Universal Task application is a tasking framework that enables your agents to request extra information from employees who submit tickets or to task employees to accomplish an activity in order to resolve a ticket.
 
 Let's consider an example. Aditi, an employee, has lost a laptop and has requested a replacement laptop. Dan, who is the agent working on this incident, needs the lost report from Aditi to proceed with the incident resolution. Dan could choose to use an activity stream to request the lost report but that adds a lot of extra work for Dan. By using an activity stream to get the report, Dan must close the incident and open a new request for the laptop. This process creates a disjointed experience for both Dan and Aditi.
 
@@ -46,7 +46,7 @@ Predefined task types enable agents to quickly task employees to get the informa
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Reference Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -57,7 +57,3 @@ Predefined task types enable agents to quickly task employees to get the informa
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Lead Management reference, Lead and opportunity management, Referen
 
 # Lead details form
 
-Field descriptions for editing or reviewing details on the Lead form for [[lead-management|Lead Management]].
+Field descriptions for editing or reviewing details on the Lead form for Lead Management.
 
 <table id="table_tg3_t5b_1jc"><thead><tr><th>
 
@@ -263,9 +263,5 @@ Consumer record associated with the lead.
 |Notes|General notes related to the lead.|
 |Work Notes|Internal notes related to the lead, visible only to agents and administrators.|
 
-**Parent Topic:**[[lead-management-reference|Lead Management reference]]
+**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-reference.md)
 
-## Related
-
-- [[lead-management-reference|Lead Management reference]]
-- [[lead-management|Lead Management]]

@@ -18,7 +18,7 @@ When you are tuning your Issue Auto Resolution model in NLU Workbench, you can a
 
 ## Summary usage
 
-By default, [[issue-auto-resolution-tuning-nlu|Issue Auto Resolution tuning in NLU]] Workbench optimizes for precision. Depending on your business requirements, you can also tune the model for other objectives. In the **Analyze** step of Issue Auto Resolution tuning, the tuning goals list enables you to adjust for **Precision**, **Automation**, or **Balance**. As you select one of these options, the projected Match rate and IAR coverage percentages change accordingly, so you can compare possible outcomes.
+By default, Issue Auto Resolution tuning in NLU Workbench optimizes for precision. Depending on your business requirements, you can also tune the model for other objectives. In the **Analyze** step of Issue Auto Resolution tuning, the tuning goals list enables you to adjust for **Precision**, **Automation**, or **Balance**. As you select one of these options, the projected Match rate and IAR coverage percentages change accordingly, so you can compare possible outcomes.
 
 To access the **Analyze** step of IAR tuning, use the nlu\_admin role and navigate as follows.
 
@@ -61,6 +61,3 @@ Note that the intents are grouped into mapped and unmapped intents, depending on
 
 When you have decided the optimum tuning option for your requirements, select the **Save choice** button in the **Learn about tuning goals** window. Then, select the **Tune and publish model** button to advance to the next step.
 
-## Related
-
-- [[issue-auto-resolution-tuning-nlu|Issue Auto Resolution Tuning in NLU]]

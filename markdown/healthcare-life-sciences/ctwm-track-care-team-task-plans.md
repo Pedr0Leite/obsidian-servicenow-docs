@@ -12,7 +12,7 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 # Track care team task plans
 
-Once you’ve published a task plan, you can track progress of all [[ctwm-healthcare-orc-cases-task|healthcare orchestration cases and tasks]] from within the Healthcare Workspace.
+Once you’ve published a task plan, you can track progress of all healthcare orchestration cases and tasks from within the Healthcare Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_hco\_orc.plan\_author
 
 ## Procedure
 
-1.  In the [[healthcare-operations-overview|Healthcare Operations]] Workspace, navigate to **Task Plan Templates** &gt; **All Task Plan Templates**.
+1.  In the Healthcare Operations Workspace, navigate to **Task Plan Templates** &gt; **All Task Plan Templates**.
 
 2.  Select the Task Plan template you wish to review.
 
@@ -34,7 +34,4 @@ Role required: sn\_hco\_orc.plan\_author
 
 6.  Select an execution number for a more detailed view of that execution.
 
-## Related
 
-- [[ctwm-healthcare-orc-cases-task|Healthcare orchestration cases and tasks]]
-- [[healthcare-operations-overview|Healthcare Operations]]

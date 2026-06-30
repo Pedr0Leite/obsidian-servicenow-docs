@@ -14,7 +14,7 @@ breadcrumb: [Reference, Care Team Operations for Facilities, Healthcare Operatio
 
 The Healthcare Facilities Case **\[sn\_cto\_facilities\_case\]** enables streamlined support for facilities management use cases.
 
-It extends the [[hcls-cto-app|Healthcare Operations Core]] **\[sn\_hco\_case\]** case.
+It extends the Healthcare Operations Core **\[sn\_hco\_case\]** case.
 
 |Field|Description|
 |-----|-----------|
@@ -36,6 +36,3 @@ It extends the [[hcls-cto-app|Healthcare Operations Core]] **\[sn\_hco\_case\]**
 |Supporting organization|The service organization that fulfills the case/request.|
 |Service|Service definition linked to the case.|
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

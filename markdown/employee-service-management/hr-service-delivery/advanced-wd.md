@@ -20,8 +20,8 @@ HR Service Delivery Advanced Integration with Workday enables you to complete th
 
 -   **As an advanced Workday administrator**
     -   Configure templates to display customized Total Rewards information to employees in the configured Service Portal. See [Set up Total Rewards using Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/total-rewards-awd.md).
-    -   Configure legal name change settings to enable employees to change their legal name from [[employee-center-landing-page|Employee Center]]. See [Legal name change configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/leg-name-awd.md).
-    -   Import [[config-w-daytimeoff|time offs]], [[holiday-calendar-awd|holiday calendars]], and schedule calendars from Workday into the ServiceNow application enabling employees to submit a time-off request from Employee Center. See [Time off request to Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-timeoff.md).
+    -   Configure legal name change settings to enable employees to change their legal name from Employee Center. See [Legal name change configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/leg-name-awd.md).
+    -   Import time offs, holiday calendars, and schedule calendars from Workday into the ServiceNow application enabling employees to submit a time-off request from Employee Center. See [Time off request to Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-timeoff.md).
 -   **As an employee**
     -   Submit your time-off request from Employee Center. See [Request a time off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-timeoff.md).
     -   Change your legal name through virtual agent conversation in Employee Center. See [Change legal name through Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/change-legal-na-awd.md).
@@ -54,8 +54,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[config-w-daytimeoff|Time offs]]
-- [[holiday-calendar-awd|Holiday calendars]]

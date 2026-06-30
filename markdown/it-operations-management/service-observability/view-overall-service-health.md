@@ -30,7 +30,7 @@ When you have been notified that a service is experiencing performance issues, y
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -59,6 +59,3 @@ When you have been notified that a service is experiencing performance issues, y
 
 To view more detailed metrics and metrics for related entities, select the **Observability** tab. For more information, see [View service health metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/view-service-health-metrics.md).
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

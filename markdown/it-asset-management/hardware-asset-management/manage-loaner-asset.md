@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage loaner assets
 
-[[loaner-asset-request|Request a loaner asset]] or consumable for a short period. You can also prepare the loaner asset or consumable for deployment and reclamation by using loaner asset tasks. Deploy the loaner asset or consumable for a specific period, and reclaim it on the return date.
+Request a loaner asset or consumable for a short period. You can also prepare the loaner asset or consumable for deployment and reclamation by using loaner asset tasks. Deploy the loaner asset or consumable for a specific period, and reclaim it on the return date.
 
 -   **[Request a loaner asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/loaner-asset-request.md)**  
 Request a temporary or loaner asset or consumable and use it for a short period.
@@ -30,7 +30,7 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -50,13 +50,13 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -74,7 +74,7 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -90,10 +90,3 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[loaner-asset-request|Request a loaner asset]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Document Management integration with external content providers, Us
 
 # Attach a document from an external provider
 
-Attach documents from an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive to [[doc-management-landing|Document Management]].
+Attach documents from an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive to Document Management.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Role required: mp\_document\_admin
 
 2.  Select an existing record or [create a document record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-new-doc.md).
 
-3.  Select the **[[c_Connect|Connect]] With External Provider** [[check-box|check box]].
+3.  Select the **Connect With External Provider** check box.
 
 4.  Select **Attach from Provider**.
 
@@ -70,8 +70,3 @@ Role required: mp\_document\_admin
 
 **Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integration-external-content-providers.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

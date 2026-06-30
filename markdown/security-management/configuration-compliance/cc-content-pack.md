@@ -18,10 +18,7 @@ This Platform Analytics Solution contains prepackaged Performance Analytics and 
 
 This Platform Analytics Solution contains prepackaged Performance Analytics and Reporting content for use with other ServiceNow AI Platform products. This Platform Analytics Solution provides visibility into non-compliant host level and cloud control plane configurations.
 
-The Performance Analytics for [[vr-config-compliance-landing|Configuration Compliance]] dashboard contains multiple widgets that present data for different dimensions. It provides a comprehensive view of compliance trends, configuration issues, remediation trends, and exception management.
+The Performance Analytics for Configuration Compliance dashboard contains multiple widgets that present data for different dimensions. It provides a comprehensive view of compliance trends, configuration issues, remediation trends, and exception management.
 
 **Note:** The Performance Analytics for Configuration Compliance plugin must be installed to view the Configuration Compliance \[PA\] dashboard in the Next Experience framework. If not installed, you can view the existing dashboard, which is built using the reporting framework.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

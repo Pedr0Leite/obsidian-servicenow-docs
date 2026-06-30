@@ -14,7 +14,7 @@ breadcrumb: [Customize Employee Center Pro Kiosk widgets, Employee Center Pro Ki
 
 # Modify Send to self widget display
 
-The Send to self widget displays the options for sending useful information as an email or an SMS for the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] user. You can configure the instance options based on your display preferences.
+The Send to self widget displays the options for sending useful information as an email or an SMS for the Employee Center Pro Kiosk user. You can configure the instance options based on your display preferences.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: sn\_hr\_sp.esc\_admin
 
 [Configure the mail and SMS send to self](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-sendtoself-sms-email.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

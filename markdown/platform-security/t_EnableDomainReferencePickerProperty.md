@@ -32,7 +32,7 @@ Role required: admin
 
 3.  Enable the domain reference picker.
 
-    **Note:** Enabling the domain reference picker removes the global option from the list. To return to your home domain, click the return arrow next to the reference field. Admin [[users|users]] can click the return arrow to return to the global domain.
+    **Note:** Enabling the domain reference picker removes the global option from the list. To return to your home domain, click the return arrow next to the reference field. Admin users can click the return arrow to return to the global domain.
 
     1.  Enter `sys_properties.list` in the application navigator.
 
@@ -43,14 +43,10 @@ Role required: admin
     The domain reference picker appears in Core UI header.
 
 
-**Parent Topic:**[[c_DisplayingDomainSelectionMenus|Use domain selection menus]]
+**Parent Topic:**[Use domain selection menus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DisplayingDomainSelectionMenus.md)
 
 **Related topics**  
 
 
 [Restrict access to the domain picker]()
 
-## Related
-
-- [[c_DisplayingDomainSelectionMenus|Use domain selection menus]]
-- [[users|Users]]

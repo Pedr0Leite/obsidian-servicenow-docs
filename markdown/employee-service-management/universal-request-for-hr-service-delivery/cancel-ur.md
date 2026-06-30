@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Cancel a universal request
 
-Cancel the [[ur-landing-limitedaccess|universal request]] if the issue is resolved or the request no longer needs any action.
+Cancel the universal request if the issue is resolved or the request no longer needs any action.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ When the UR is canceled, email notifications are sent to the stakeholders associ
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

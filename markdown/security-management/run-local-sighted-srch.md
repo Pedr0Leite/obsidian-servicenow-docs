@@ -12,11 +12,11 @@ breadcrumb: [IoCs and observables in cases, Case creation from security artifact
 
 # Run a sightings search on observables in a case
 
-You can search for [[c_Observables|observables]] using the Sighting Search feature to determine how often they occur. Each occurrence is considered a sighting. You can limit the search to the number of [[indicator-sightings|sightings]] within a selected number of days or within a date range.
+You can search for observables using the Sighting Search feature to determine how often they occur. Each occurrence is considered a sighting. You can limit the search to the number of sightings within a selected number of days or within a date range.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -24,7 +24,7 @@ Role required: sn\_ti.case\_user\_write
 
 1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Case Management** &gt; **All Cases**.
 
-2.  Open the case that contains observables for which you want to [[run-sightings-search|run a sightings search]].
+2.  Open the case that contains observables for which you want to run a sightings search.
 
 3.  Click the **Case Artifacts** related link.
 
@@ -36,7 +36,7 @@ Role required: sn\_ti.case\_user\_write
 
 6.  From the **Actions on selected items** drop-down list, select **Run sightings search**.
 
-    The **[[tisc-run-sighting-search|Run Sighting Search]]** dialog box appears.
+    The **Run Sighting Search** dialog box appears.
 
     \[Omitted image "SightingsSearch.png"\] Alt text: Sightings search
 
@@ -45,7 +45,7 @@ Role required: sn\_ti.case\_user\_write
 8.  Click **Search**.
 
 
-**Parent Topic:**[[cases-in-threat|IoCs and observables in cases]]
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-in-threat.md)
 
 **Related topics**  
 
@@ -56,12 +56,3 @@ Role required: sn\_ti.case\_user\_write
 
 [Create an observable from a case]()
 
-## Related
-
-- [[cases-in-threat|IoCs and observables in cases]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]
-- [[run-sightings-search|Run a Sightings Search]]
-- [[tisc-run-sighting-search|Run Sighting Search]]

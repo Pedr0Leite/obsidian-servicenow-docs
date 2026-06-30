@@ -14,17 +14,17 @@ breadcrumb: [Using Cloud Services Catalog Terraform Connector, Cloud Services Ca
 
 # Map credentials between Cloud Provisioning and Governance and Terraform
 
-Map credential types and service account fields between [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] and Terraform using Credential Mapping.
+Map credential types and service account fields between Cloud Provisioning and Governance and Terraform using Credential Mapping.
 
 ## Before you begin
 
-The latest [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] must be installed from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9b04ffc20b1323002530a387b6673a1d/).
+The latest Cloud Services Catalog Terraform Connector must be installed from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9b04ffc20b1323002530a387b6673a1d/).
 
 Role required: sn\_cmp.cloud\_admin, admin
 
 ## About this task
 
-Use the Credential Mapping module to perform credential and service account mappings for datacenter credentials used by the Terraform provider to provision datacenter resources and Cloud Provisioning and Governance for [[r-discovery|discovery]].
+Use the Credential Mapping module to perform credential and service account mappings for datacenter credentials used by the Terraform provider to provision datacenter resources and Cloud Provisioning and Governance for discovery.
 
 ## Procedure
 
@@ -76,8 +76,3 @@ Use the Credential Mapping module to perform credential and service account mapp
 
 **Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/using-ccg-terraform-connector.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[r-discovery|Discovery]]

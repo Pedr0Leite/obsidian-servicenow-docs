@@ -14,12 +14,12 @@ breadcrumb: [Opportunity Marketplace, Hiring Experiences, HR Service Delivery, E
 
 # Explore Opportunity Marketplace \(OPM\)
 
-Manage opportunities for long-term or short-term projects that are available at your company. Employees can find and track opportunities while managers can post opportunities for projects, gigs, [[egd-oppt-mrktplc-volunteer|volunteer opportunities]], and [[egd-oppt-mrktplc-internal-job|internal jobs]].
+Manage opportunities for long-term or short-term projects that are available at your company. Employees can find and track opportunities while managers can post opportunities for projects, gigs, volunteer opportunities, and internal jobs.
 
 User criteria added to opportunities by owners control the visibility of the opportunity to potential applicants.
 
 -   **[Internal jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-internal-job.md)**  
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] enable you to create, publish, and maintain internal job posting. You can explore open roles \(positions\) within your company.
+Opportunity Marketplace enable you to create, publish, and maintain internal job posting. You can explore open roles \(positions\) within your company.
 -   **[Opportunity Marketplace best fit recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-best-fit.md)**  
 Based on your current roles, aspirations, and skills Opportunity Marketplace \(OPM\) recommends opportunities for you.
 -   **[Gig opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-gig.md)**  
@@ -35,8 +35,3 @@ The Opportunity Marketplace's publishing approval framework streamlines the appr
 
 **Parent Topic:**[Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-experiences-landing.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-volunteer|Volunteer opportunities]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

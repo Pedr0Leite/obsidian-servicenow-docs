@@ -22,7 +22,7 @@ Role required: itil, roster\_admin, rota\_admin, rota\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Reports** &gt; **Schedule Report**.\[Omitted image "schedule-report-ocs.png"\] Alt text: Screenshot showing how to navigate to schedule report.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Reports** &gt; **Schedule Report**.\[Omitted image "schedule-report-ocs.png"\] Alt text: Screenshot showing how to navigate to schedule report.
 
 2.  Specify the **Report style**:
 
@@ -45,6 +45,3 @@ Example Formatted report: The report shows on-call commitments for all specified
 
 **Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-reports.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

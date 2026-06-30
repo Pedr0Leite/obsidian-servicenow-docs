@@ -14,17 +14,13 @@ breadcrumb: [Reference, Interview Management, Hiring Experiences, HR Service Del
 
 # Properties installed with Interview Management
 
-The system property installed with the [[interview-management-landing|Interview Management]] plugin is required to configure functionalities in the Interview Management environment.
+The system property installed with the Interview Management plugin is required to configure functionalities in the Interview Management environment.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter sys\_properties.list in the navigation filter.
 
 |Property|Description|
 |--------|-----------|
-|sn\_ta\_int\_mgmt.remind\_availability\_in\_days|Specifies the number of days from the day the request to [[share-availability-applicant-ac|share scheduling preferences]] was sent, until which a reminder email is sent on alternate days to the user \(if they’re yet to share preferences\).|
+|sn\_ta\_int\_mgmt.remind\_availability\_in\_days|Specifies the number of days from the day the request to share scheduling preferences was sent, until which a reminder email is sent on alternate days to the user \(if they’re yet to share preferences\).|
 
 **Parent Topic:**[Interview Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[share-availability-applicant-ac|Share scheduling preferences]]

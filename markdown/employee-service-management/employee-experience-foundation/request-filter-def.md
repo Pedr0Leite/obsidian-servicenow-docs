@@ -26,12 +26,12 @@ Create a filter definition for the Requests page to have multiple filter support
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Requests** &gt; **Filter definitions**.
+1.  Navigate to **Employee Center** &gt; **Requests** &gt; **Filter definitions**.
 
 2.  Select **New** to create a filter definition.
 
     -   The **View filter** filter definition along with the **Created for me** and **Created for others** tabs are available with Employee Center version 38.0. The **Other** tab is shipped as inactive. You can use it according to your organizational requirement.
-    -   You can edit the default filters **Status** and **Updated** available with the default tabs **For you** and **For others**. You can also add new filters to the tabs as required. You can associate tabs to filters according to your organizational requirement. For more information, see the details on the [[filter-def-request-form|request filter definition form]] in step 3.
+    -   You can edit the default filters **Status** and **Updated** available with the default tabs **For you** and **For others**. You can also add new filters to the tabs as required. You can associate tabs to filters according to your organizational requirement. For more information, see the details on the request filter definition form in step 3.
 
 3.  On the Request filter definition form, fill in the fields and select **Submit**.
 
@@ -47,7 +47,3 @@ You have created a filter definition for your Requests view on the portal.
 1.  [Set up the Requests filter configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-config.md)
 2.  [Set up the Requests filter condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-con.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[filter-def-request-form|Request filter definition form]]

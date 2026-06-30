@@ -14,14 +14,10 @@ breadcrumb: [Virtual Agent API, Build and deploy, Virtual Agent, Conversational 
 
 # Virtual Agent API reference
 
-Reference topics provide information about troubleshooting common errors, logs, and debugging while [[use-virtual-agent-api|using Virtual Agent API]].
+Reference topics provide information about troubleshooting common errors, logs, and debugging while using Virtual Agent API.
 
 -   **[Common errors in Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-common-errors.md)**  
-This section describes some [[virtual-agent-common-errors|common errors in Virtual Agent API]] and how they can be resolved.
+This section describes some common errors in Virtual Agent API and how they can be resolved.
 
 **Parent Topic:**[Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-landing-page.md)
 
-## Related
-
-- [[use-virtual-agent-api|Using Virtual Agent API]]
-- [[virtual-agent-common-errors|Common errors in Virtual Agent API]]

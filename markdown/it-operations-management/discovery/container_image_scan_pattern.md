@@ -15,7 +15,7 @@ breadcrumb: [Container image scanning for software decomposition, Kubernetes dis
 
 # Container image discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Scan Container Image pattern to discover Docker images and OS packages data. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Scan Container Image pattern to discover Docker images and OS packages data. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -121,7 +121,7 @@ The image CI class based on the image command details.
 
 </td></tr><tr><td>
 
-[[c_DiscoveryStatus|Discovery status]] \[discovery\_status\]
+Discovery status \[discovery\_status\]
 
 </td><td>
 
@@ -237,8 +237,3 @@ The Scan Container Image pattern creates the following relationships and referen
 
 [Kubernetes discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/kubernetes-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryStatus|Discovery status]]

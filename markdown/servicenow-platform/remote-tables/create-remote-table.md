@@ -30,7 +30,7 @@ When you designate a table as a remote table, keep the following points in mind:
 
 ## Procedure
 
-1.  Navigate to **System Definition** &gt; **[[remote-tables|Remote Tables]]** &gt; **Tables**.
+1.  Navigate to **System Definition** &gt; **Remote Tables** &gt; **Tables**.
 
     **Tip:** You can also create a remote table using the standard form for tables from **System Definition** &gt; **Tables**.
 
@@ -54,7 +54,7 @@ Name
 
 </td><td>
 
-Table name, which is automatically populated based on the table [[label|label]] and a prefix as follows:
+Table name, which is automatically populated based on the table label and a prefix as follows:
 
 -   For a remote table in a scoped application, the name is prefixed with a namespace identifier and the string st\_ to indicate that it’s remote and part of an application.
 -   For a remote table in the global application, the name is prefixed with the string u\_st\_.
@@ -95,7 +95,3 @@ Option to designate this table as a remote table. A remote table is a table to w
 
 [Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATable.md)
 
-## Related
-
-- [[remote-tables|Remote tables]]
-- [[label|Label]]

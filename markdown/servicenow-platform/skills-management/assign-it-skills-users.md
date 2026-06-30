@@ -14,7 +14,7 @@ breadcrumb: [Assigning and Managing skills, Using Skills Management, Skills Mana
 
 # Assign skill proficiency levels for skills
 
-[[t_CreateASkill|Add a skill]] and assign skill levels to users to facilitate the automatic assignment of skill-based tasks to agents.
+Add a skill and assign skill levels to users to facilitate the automatic assignment of skill-based tasks to agents.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ The skill level for the skill is assigned to the user. You can also select an ex
 </table>
 **Parent Topic:**[Assigning and Managing skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/manage-skills.md)
 
-## Related
-
-- [[t_CreateASkill|Add a skill]]

@@ -22,12 +22,8 @@ The following roles and tasks are associated with this Solution:
 -   ServiceNow AI Platform administrator \(admin\): Install and activate this Analytics and Reporting Solution and make any necessary changes to system properties.
 -   Platform Analytics administrator \(pa\_admin\): Review the indicators, breakdowns, widgets, and dashboards. Set up and start data collection. Share the dashboards with appropriate stakeholders.
 
--   **[[constituent-services-dashboard|Constituent Service dashboard]]**  
+-   **[Constituent Service dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/constituent-services-dashboard.md)**  
 Use this dashboard to monitor the health of citizen services, gain insights on how efficiently government cases are handled, and assess the overall performance of services offered.
--   **[[public-services-performance-dashboard|Public Services Performance Overview dashboard]]**  
+-   **[Public Services Performance Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-services-performance-dashboard.md)**  
 Use the Public Services Performance Overview dashboard to assess key performance indicators and data visualizations on public services offered to and requested by constituents, businesses, and agencies.
 
-## Related
-
-- [[constituent-services-dashboard|Constituent Service dashboard]]
-- [[public-services-performance-dashboard|Public Services Performance Overview dashboard]]

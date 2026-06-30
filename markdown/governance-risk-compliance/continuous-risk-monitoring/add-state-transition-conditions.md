@@ -14,7 +14,7 @@ breadcrumb: [Configure transition between state models, Create GRC workflow stat
 
 # Create GRC model state transition conditions
 
-Add [[r_WhatIsGRC|Governance, Risk, and Compliance]] model state transition conditions to a state transition to validate data before enabling authorization packages to move between workflow steps. Transition conditions verify that the required information is complete and accurate before packages proceed.
+Add Governance, Risk, and Compliance model state transition conditions to a state transition to validate data before enabling authorization packages to move between workflow steps. Transition conditions verify that the required information is complete and accurate before packages proceed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Open the state model record that contains your workflow states.
 
@@ -90,8 +90,3 @@ Specifies the type of validation to perform. The options are:-   Required Fields
 
 [Add existing attributes to a GRC workflow state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-state-model-attributes.md) or [Create a new state model attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

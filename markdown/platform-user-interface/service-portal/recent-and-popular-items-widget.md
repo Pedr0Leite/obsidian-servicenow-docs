@@ -34,7 +34,7 @@ To navigate to the item listing, the user selects **View Details**.
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Recent &amp; Popular Items widget for a portal page.
+Use the instance options to configure the Recent &amp; Popular Items widget for a portal page.
 
 <table id="table_sgd_y3w_bkb"><thead><tr><th>
 
@@ -124,13 +124,9 @@ Criteria to qualify which catalog items are displayed in the My Recent Items tab
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

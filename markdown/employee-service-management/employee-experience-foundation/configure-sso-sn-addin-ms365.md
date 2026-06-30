@@ -14,7 +14,7 @@ breadcrumb: [Configuring ServiceNow Add-in for Microsoft 365, ServiceNow Add-in 
 
 # Configure single sign-on for ServiceNow Add-in for Microsoft 365
 
-Configure single sign-on \(SSO\) for your add-in so users don't have to sign-in to [[employee-center-landing-page|Employee Center]].
+Configure single sign-on \(SSO\) for your add-in so users don't have to sign-in to Employee Center.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 2.  From the Office Manifests list, select the manifest that you want to configure.
 
-3.  On the [[office-manifest-form|Office Manifest form]], select **Login Page not Required**.
+3.  On the Office Manifest form, select **Login Page not Required**.
 
 4.  In the **Allowed Domains** field, enter the SSO domain for your add-in.
 
@@ -35,7 +35,3 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 **Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-sn-addin-for-ms365.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[office-manifest-form|Office Manifest form]]

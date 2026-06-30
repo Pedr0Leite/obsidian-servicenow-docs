@@ -12,7 +12,7 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 # Enabling critical alerts
 
-Receive critical alerts, even if you have configured your mobile device to a Do Not Disturb or Silent mode setting. Critical alerts are a more acute form of [[sg-mobile-security-push-notif|push notifications]], where your mobile device is set up to receive visual and audio alerts usually when an issue needs immediate attention.
+Receive critical alerts, even if you have configured your mobile device to a Do Not Disturb or Silent mode setting. Critical alerts are a more acute form of push notifications, where your mobile device is set up to receive visual and audio alerts usually when an issue needs immediate attention.
 
 To receive critical alerts, the feature must be enabled by your administrator. Once your administrator performs this configuration, you're able to set up your mobile device to receive critical alerts.
 
@@ -29,6 +29,3 @@ The next stage varies between operating systems.
 -   To enable critical alerts for iOS – Tap **Allow** on the pop-up to enable critical alerts.
 -   To enable critical alerts for the Android operating system – Tap on the **Open Settings** button to open the **Do not disturb permission** page. Select the ServiceNow mobile apps that are to receive critical alerts.
 
-## Related
-
-- [[sg-mobile-security-push-notif|Push notifications]]

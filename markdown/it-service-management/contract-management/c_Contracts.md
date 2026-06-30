@@ -16,12 +16,12 @@ breadcrumb: [Contract Management use, Contract Management, Asset Management, IT 
 
 A contract is a binding agreement between two parties.
 
-In the ServiceNow AI Platform, contracts contain detailed information such as contract number, start and end dates, active status, [[c_TermsAndConditions|terms and conditions]] statements, documents, renewal information, and financial terms.
+In the ServiceNow AI Platform, contracts contain detailed information such as contract number, start and end dates, active status, terms and conditions statements, documents, renewal information, and financial terms.
 
 Working with contracts includes the following tasks and processes.
 
 -   **[Create a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)**  
-[[t_CreateAContract|Create a contract]] with various contract [[c_Models|models]], which would act as a binding agreement between the two parties.
+Create a contract with various contract models, which would act as a binding agreement between the two parties.
 -   **[Adjust a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AdjustAContract.md)**  
 After creating a contract, you can change the start date, end date, or payment amount for a contract.
 -   **[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendAContractNotification.md)**  
@@ -29,7 +29,7 @@ An event runs automatically each night to send reminders to contract administrat
 -   **[Send the contract for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)**  
 You can send a contract that is in **Draft** state for approval.
 -   **[Terms and conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_TermsAndConditions.md)**  
-You can [[t_AddTermsAndConditionsToAContract|add terms and conditions to a contract]] to keep all documentation that is relevant to a contract in one location.
+You can add terms and conditions to a contract to keep all documentation that is relevant to a contract in one location.
 -   **[Create a contract rate card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ContractRateCardsAndExpenseLines.md)**  
 You can create rate cards to track contract expenses. Rate cards help to record and allocate costs.
 -   **[Monitor a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_MonitoringContracts.md)**  
@@ -42,9 +42,3 @@ You can monitor contracts by viewing contract history and creating contract repo
 
 [Contract life cycle]()
 
-## Related
-
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[t_CreateAContract|Create a contract]]
-- [[c_Models|Models]]
-- [[t_AddTermsAndConditionsToAContract|Add terms and conditions to a contract]]

@@ -30,7 +30,7 @@ Engagement metrics are created automatically when Buying Group members are added
 
 3.  Go to **Buying Group Engagement Metrics** tab and view the listed metrics for each Buying Group member.
 
-4.  On the form, view the [[fields|fields]]:
+4.  On the form, view the fields:
 
 <table id="table_fdh_1yf_g3c"><thead><tr><th>
 
@@ -78,18 +78,12 @@ A qualitative classification derived from engagement data that summarizes the me
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[using-buying-group|Using Buying Group]]
+**Parent Topic:**[Using Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 
 **Related topics**  
 
 
-[[configure-buying-group|Configuring Buying Group]]
+[Configuring Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-buying-group.md)
 
-[[explore-buying-group|Buying Group]]
+[Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-buying-group.md)
 
-## Related
-
-- [[using-buying-group|Using Buying Group]]
-- [[configure-buying-group|Configuring Buying Group]]
-- [[explore-buying-group|Buying Group]]
-- [[fields|Fields]]

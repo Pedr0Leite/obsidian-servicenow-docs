@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # Summarize actions while transferring an HR case
 
-[[reclassify-hr-case|Transfer an HR case]] to another agent or assignment group by summarizing the actions until hand off. For example, an agent can transfer the case to another agent if the case is incorrectly assigned or needs troubleshooting by another agent or assignment group.
+Transfer an HR case to another agent or assignment group by summarizing the actions until hand off. For example, an agent can transfer the case to another agent if the case is incorrectly assigned or needs troubleshooting by another agent or assignment group.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sn\_hr\_core.case\_writer
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -74,7 +74,3 @@ Role required: sn\_hr\_core.case\_writer
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[hr-service-delivery|HR Service Delivery]]

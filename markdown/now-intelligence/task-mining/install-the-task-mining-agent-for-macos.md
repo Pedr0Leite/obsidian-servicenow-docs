@@ -14,13 +14,13 @@ breadcrumb: [Install the Task Mining agent, Configure, Task Mining, Platform Ana
 
 # Install the Task Mining agent for macOS
 
-Install the [[task-mining|Task Mining]] desktop agent on macOS workstations and deploy the Task Mining agent to managed macOS devices using JAMF. This procedure creates the package, scripts, policies, and configuration profile required for enterprise deployment.
+Install the Task Mining desktop agent on macOS workstations and deploy the Task Mining agent to managed macOS devices using JAMF. This procedure creates the package, scripts, policies, and configuration profile required for enterprise deployment.
 
 ## Before you begin
 
 Role required: Task Mining Agent Install
 
-**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to [[install-agent|install the Task Mining agent]]. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
+**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to install the Task Mining agent. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
 ## About this task
 
@@ -233,7 +233,3 @@ To debug policies on a macOS device, you can trigger them manually from Terminal
 sudo jamf policy -id *policy-id*
 ```
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[install-agent|Install the Task Mining agent]]

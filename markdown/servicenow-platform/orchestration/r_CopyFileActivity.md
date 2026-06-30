@@ -20,7 +20,7 @@ The Copy File activity copies a file from an SFTP server \(source host\) to anot
 
 |Variable|Description|
 |--------|-----------|
-|sourceHost|Name or [[ip-address|IP address]] of the server containing the files you want to transfer.|
+|sourceHost|Name or IP address of the server containing the files you want to transfer.|
 |sourcePort|Port number to use to communicate with the source server. The default port number is **22**.|
 |sourceFilePath|Full path to the file to copy from the source host.|
 |targetHost|Name or IP address of the server to which you want to move the files.|
@@ -46,6 +46,3 @@ The Copy File activity copies a file from an SFTP server \(source host\) to anot
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

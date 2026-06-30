@@ -14,7 +14,7 @@ breadcrumb: [Explore, Next Experience for Demand Management in Strategic Plannin
 
 # Now Assist skills in Next Experience for Demand Management
 
-[[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] provides AI-powered skills for demand records that help you quickly understand demand details and refine records. These skills improve planning efficiency and support informed decision-making.
+Now Assist for Strategic Portfolio Management \(SPM\) provides AI-powered skills for demand records that help you quickly understand demand details and refine records. These skills improve planning efficiency and support informed decision-making.
 
 ## Demand summarization
 
@@ -28,7 +28,7 @@ For more information, see [Summarize demands with demand summarization skill](ht
 
 The refine record skill improves demand quality by enabling AI-assisted text refinement directly within the text fields of demand records. You can elaborate on a brief description or shorten lengthy content without losing key information. This feature helps verify demands are clear, complete, and actionable from the start.
 
-The skill considers other fields in the [[demand-form|demand form]] to generate contextually relevant content. It reduces rework caused by missing or unclear information and helps demand managers create well-structured records more efficiently. For more information, see [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md).
+The skill considers other fields in the demand form to generate contextually relevant content. It reduces rework caused by missing or unclear information and helps demand managers create well-structured records more efficiently. For more information, see [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md).
 
 **Related topics**  
 
@@ -41,7 +41,3 @@ The skill considers other fields in the [[demand-form|demand form]] to generate 
 
 [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[demand-form|Demand form]]

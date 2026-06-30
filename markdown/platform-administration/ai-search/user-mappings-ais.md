@@ -14,9 +14,9 @@ breadcrumb: [External content security, Indexing and searching external content,
 
 # Mapping external users and groups to ServiceNow AI Platform users
 
-[[ia-ai-search|AI Search]] external user mappings enable you to configure externally defined user and group aliases for ServiceNow AI Platform users. AI Search uses these aliased security principals to apply content security filters that control user access to search [[hs-results|results]] indexed from external documents.
+AI Search external user mappings enable you to configure externally defined user and group aliases for ServiceNow AI Platform users. AI Search uses these aliased security principals to apply content security filters that control user access to search results indexed from external documents.
 
-You can use mapped external user and group names when [[defining-access-perms-ext-docs-ais|defining access permissions for external documents]] that you ingest for indexing via the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md).
+You can use mapped external user and group names when defining access permissions for external documents that you ingest for indexing via the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md).
 
 ## External content security user mapping overview
 
@@ -62,7 +62,7 @@ Externally defined user
 The ServiceNow AI Platform user specified in the user mapping inherits user-level access permissions for all aliased external users. For example, if you define external user **ad\\abel-tuter** as an alias for ServiceNow AI Platform user **abel.tuter@example.com**, AI Search allows **abel.tuter@example.com** to view indexed search results for external documents that include read access permission for **ad\\abel-tuter**.
 
 </td></tr></tbody>
-</table>## [[t_CreateAUser|Create a user]] mapping table
+</table>## Create a user mapping table
 
 Define a table to store externally defined user and group aliases for ServiceNow AI Platform® users.
 
@@ -86,7 +86,7 @@ All user mapping tables extend the AI Search External Search User Mapping Base \
 
 3.  Select **Submit**.
 
-    The [[dictionary-form-ais|dictionary form]] for your new user mapping table appears.
+    The dictionary form for your new user mapping table appears.
 
 
 ### What to do next
@@ -123,7 +123,7 @@ A user mapping table can be linked to any number of indexed sources.
 
     1.  Select **New**.
 
-    2.  On the [[ext-usr-map-idx-src-form-ais|AI Search External Search User Mapping Table Data Source Relationship form]], fill in the fields.
+    2.  On the AI Search External Search User Mapping Table Data Source Relationship form, fill in the fields.
 
     3.  Select **Submit**.
 
@@ -213,11 +213,4 @@ In the banner frame, select your name to open the user menu, then select **Eleva
 
     4.  Review import set results on the form, errors in the Import Set Row Errors related list, and log messages in the Import Log related list.
 
-## Related
 
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[defining-access-perms-ext-docs-ais|Defining access permissions for external documents]]
-- [[t_CreateAUser|Create a user]]
-- [[dictionary-form-ais|Dictionary form]]
-- [[ext-usr-map-idx-src-form-ais|AI Search External Search User Mapping Table Data Source Relationship form]]

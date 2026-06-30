@@ -12,7 +12,7 @@ breadcrumb: [Install and configure MID Servers to access cloud environments, Acc
 
 # Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance
 
-You can configure the MID Server for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] to use a proxy server. Using a proxy server supports all cloud-based activities such as running [[r-discovery|Discovery]], billing downloads, provisioning virtual machines, and running life-cycle operations on virtual machines.
+You can configure the MID Server for Cloud Provisioning and Governance to use a proxy server. Using a proxy server supports all cloud-based activities such as running Discovery, billing downloads, provisioning virtual machines, and running life-cycle operations on virtual machines.
 
 ## Proxy server limitations
 
@@ -73,7 +73,7 @@ Set **mid.capi.skip\_proxy\_for\_ssh** to true to skip it. See [MID Server prope
 |Cloud events|Not Applicable|Not Applicable|Not Applicable|Not Applicable|
 |VMware Cloud|Not Applicable|
 
-**Parent Topic:**[[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
+**Parent Topic:**[Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md)
 
 **Related topics**  
 
@@ -84,8 +84,3 @@ Set **mid.capi.skip\_proxy\_for\_ssh** to true to skip it. See [MID Server prope
 
 [MID Server parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-parameters.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]

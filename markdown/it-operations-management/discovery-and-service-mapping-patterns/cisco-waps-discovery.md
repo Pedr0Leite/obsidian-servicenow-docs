@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Cisco Switch Wireless Access Point \(WAP\) discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Cisco WAPs extension to find Wireless Access Points \(WAPs\) that are controlled by a Cisco network switch. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Cisco WAPs extension to find Wireless Access Points \(WAPs\) that are controlled by a Cisco network switch. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 This extension extends the Network Switch discovery pattern. For more information, see [Network switch and router discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
 
@@ -51,7 +51,7 @@ The data discovered by the Cisco WAP extension includes the following tables and
 |snmp\_sys\_location|User-specified location of the WAP. Collected from bsnAPLocation.|
 |Manufacturer \[manufacturer\]|Manufacturer of the WAP \(Cisco\).|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered Cisco WAP CIs and the relationships between them.
+The Dependency Views map shows all discovered Cisco WAP CIs and the relationships between them.
 
 \[Omitted image "cisco-waps-dependency-view.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -65,8 +65,3 @@ These relationships are created to support Cisco WAPs discovery:
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

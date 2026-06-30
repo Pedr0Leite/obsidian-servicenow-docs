@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Manage groups
 
-Manage the groups that have been imported from the MITRE TAXII collections. Groups are sets of related intrusion activity that are tracked by a common name in the security community. Analysts track clusters of activities using various terms such as threat groups, activity groups, [[threat-actors|threat actors]], intrusion sets, and [[threat-intelligence-campaigns|campaigns]]. In STIX, groups are known as intrusion sets.
+Manage the groups that have been imported from the MITRE TAXII collections. Groups are sets of related intrusion activity that are tracked by a common name in the security community. Analysts track clusters of activities using various terms such as threat groups, activity groups, threat actors, intrusion sets, and campaigns. In STIX, groups are known as intrusion sets.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Repository** &gt; **Groups**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Repository** &gt; **Groups**.
 
     You can view the listed groups.
 
@@ -32,16 +32,16 @@ Role required:
 
     In the following illustration, you can view the details for the Ajax Security Team group, its ID, source, and other related information.\[Omitted image "mitre-groups-overview.gif"\] Alt text: View details for the group and other related information.
 
-3.  To view how these objects are related, click **Show [[stix-relationships|Relationships]]**.
+3.  To view how these objects are related, click **Show Relationships**.
 
     **Note:** To associate the threat groups to a security case for deeper investigation, click **Add to Security Case**.
 
 
 ## What to do next
 
-Use the [[view-techniques|techniques module]] to add or modify the groups data.
+Use the [techniques module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-techniques.md) to add or modify the groups data.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -72,7 +72,7 @@ Use the [[view-techniques|techniques module]] to add or modify the groups data.
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -92,12 +92,3 @@ Use the [[view-techniques|techniques module]] to add or modify the groups data.
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[view-techniques|Manage techniques]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[stix-relationships|Relationships]]
-- [[data-component|Data Component]]

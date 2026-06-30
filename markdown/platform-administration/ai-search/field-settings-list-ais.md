@@ -14,7 +14,7 @@ breadcrumb: [Field settings, Indexed sources, Configuring AI Search, AI Search, 
 
 # List of AI Search indexed source field settings
 
-You can adjust indexing behavior for source record fields in an [[ia-ai-search|AI Search]] indexed source by configuring field setting attributes and values.
+You can adjust indexing behavior for source record fields in an AI Search indexed source by configuring field setting attributes and values.
 
 For more information on creating field settings, see [Create a field setting for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-field-setting-ais.md).
 
@@ -32,7 +32,7 @@ dot\_walk\_fields
 
 </td><td>
 
-Index [[reference-email-admin|reference]] and [[c_DisplayValues|display values]] from fields on the selected reference field's source table for use in search source filters, facet filters, and EVAM search result [[clone-configurations-tab|configurations]]. AI Search automatically updates the indexed field values to reflect changes made to the referenced table's field values.
+Index reference and display values from fields on the selected reference field's source table for use in search source filters, facet filters, and EVAM search result configurations. AI Search automatically updates the indexed field values to reflect changes made to the referenced table's field values.
 
  For more information about search source filters, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md). For details on facet filters, see [Create a facet in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-facet-ais.md).
 
@@ -70,7 +70,7 @@ Map the selected field from the indexed source table to an AI Search index field
 
 -   Field: Name of a field from the indexed source table.
 -   Type: string
--   Value: Name of the AI Search field that you want to map the selected field's display values to. For details on [[index-fields-list-ais|AI Search index fields]], see [AI Search index fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-fields-list-ais.md).
+-   Value: Name of the AI Search field that you want to map the selected field's display values to. For details on AI Search index fields, see [AI Search index fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-fields-list-ais.md).
 
 **Note:** You can only define one **map\_to** field setting for an indexed source field. If you try to define multiple **map\_to** settings for the same field, the system displays an error message.
 
@@ -127,20 +127,11 @@ Index reference and display values from fields on the selected reference field's
  If you change the value of this setting for an indexed source's field, the change doesn't take effect until you reindex content from the indexed source. For reindexing steps, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
 </td></tr></tbody>
-</table>**Note:** Field settings are records on the [[ai-search-configuration|AI Search Configuration]] Attribute \[ais\_configuration\_attribute\] table that have Column as their **Applies To** field value. Records on this table that have Table as their **Applies To** field value are [Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md).
+</table>**Note:** Field settings are records on the AI Search Configuration Attribute \[ais\_configuration\_attribute\] table that have Column as their **Applies To** field value. Records on this table that have Table as their **Applies To** field value are [Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md).
 
 This example shows how the base system's Catalog Item Table indexed source maps **short\_description** field values from the Catalog Item \[sc\_cat\_item\] table to the AI Search index's **text** field for indexed records.
 
-\[Omitted image "indexed-field-attr-example-map\_to.png"\] Alt text: AI Search [[field-setting-form-ais|Field Setting form]] showing source Catalog Item \[sc\_cat\_item\], attributemap\_to, fieldshort\_description, and valuetext.
+\[Omitted image "indexed-field-attr-example-map\_to.png"\] Alt text: AI Search Field Setting form showing source Catalog Item \[sc\_cat\_item\], attributemap\_to, fieldshort\_description, and valuetext.
 
 **Parent Topic:**[Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]
-- [[c_DisplayValues|Display values]]
-- [[clone-configurations-tab|Configurations]]
-- [[index-fields-list-ais|AI Search index fields]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[field-setting-form-ais|Field Setting form]]

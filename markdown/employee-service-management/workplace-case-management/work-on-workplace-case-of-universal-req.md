@@ -14,7 +14,7 @@ breadcrumb: [Integration with Universal Request, Workplace Case Management, Work
 
 # Work on a workplace case from a Universal Request
 
-As a workplace manager, work on a workplace case that is created from a [[ur-landing-limitedaccess|Universal Request]]. Provide a resolution to the workplace case.
+As a workplace manager, work on a workplace case that is created from a Universal Request. Provide a resolution to the workplace case.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can configure the state changes that are described in the following procedur
 
 ## Procedure
 
-1.  Navigate to **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace cases** &gt; **All**.
+1.  Navigate to **Workplace Case Management** &gt; **Workplace cases** &gt; **All**.
 
 2.  Select the workplace case record that is created from the Universal Request.
 
@@ -57,7 +57,3 @@ If you change the state of the workplace case to Close incomplete without transf
 
 [Transfer a workplace case created from a universal request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

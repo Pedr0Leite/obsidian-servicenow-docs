@@ -20,7 +20,7 @@ Zing uses spaces to define the basic unit of word separation. Zing uses the foll
 
 |Rule|Behavior|
 |----|--------|
-|Punctuation|Zing indexes some punctuation marks as part of some words to improve search [[hs-results|results]] for common search terms. Zing converts any non-indexed punctuation characters to spaces. See [Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_PunctuationForSearchResults.md).|
+|Punctuation|Zing indexes some punctuation marks as part of some words to improve search results for common search terms. Zing converts any non-indexed punctuation characters to spaces. See [Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_PunctuationForSearchResults.md).|
 |Pictograms|Zing supports the full range of Unicode pictogram characters. Each Chinese or Japanese pictogram is indexed as a separate word as if it were a single Latin-1 character surrounded by spaces.|
 |Letter|Zing treats Latin-1, Arabic, and Pinyin characters as individual letters of space-separated-words. Sequences of letters define indexable words.|
 
@@ -29,25 +29,25 @@ Zing indexes some punctuation marks as part of some words to improve search resu
 -   **[Zing indexes some HTML elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_SearchingHTMLContent.md)**  
 Zing indexes the contents of certain HTML elements to improve document search results. This indexing is addition to the normal indexing by word.
 -   **[Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md)**  
-Enable Zing text indexing for a table to allow users to search its records for string values. Configure the table's text indexing attributes, [[stop-words-ais|stop words]], and synonym dictionaries to control search behavior.
+Enable Zing text indexing for a table to allow users to search its records for string values. Configure the table's text indexing attributes, stop words, and synonym dictionaries to control search behavior.
 -   **[Configure a text index group to search across multiple tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-multiple-tables.md)**  
 Update tables to the V4 indexing format and include them in a text index group to facilitate searching across multiple tables.
 -   **[Zing index and search dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-attributes.md)**  
 The following dictionary attributes either affect the way Zing indexes tables or ranks search results.
 -   **[Regenerate a text index for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)**  
-You can regenerate a table text index when you change table stop words or [[c_DisplayValues|display values]].
+You can regenerate a table text index when you change table stop words or display values.
 -   **[Remove an index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndex.md)**  
 You can remove the index for a table if you no longer want the search engine to return results for that table. This procedure also removes the index for all tables that extend the specified table.
 -   **[Remove an index for a specific field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndexForASpecificField.md)**  
 You can remove the index for a specific field in a table if you no longer want the search engine to return results for that field.
 -   **[Remove the text index for a child table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/remove-index-child-table.md)**  
-You can [[remove-index-child-table|remove the text index for a child table]] if you no longer want the search engine to return results for that child table.
+You can remove the text index for a child table if you no longer want the search engine to return results for that child table.
 -   **[Change the query mode of an indexed table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-table-query-mode.md)**  
 Set the query mode to specify whether searches on an indexed table must match all or only some of the search terms.
 -   **[Enable indexing of text in multi-row variable sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-text-multi-row-variable-sets.md)**  
 Make text from multi-row Service Catalog variable sets searchable in global search.
 -   **[Text indexing statistics and status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/r_ViewTextIndexingStatsAndStatus.md)**  
-To view [[r_ViewTextIndexingStatsAndStatus|text indexing statistics and status]], navigate to **All** &gt; **System Definition** &gt; **Text Indexes**.
+To view text indexing statistics and status, navigate to **All** &gt; **System Definition** &gt; **Text Indexes**.
 -   **[Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-tables-japanese-tokenizer.md)**  
 Improve search results in Japanese language searches by configuring individual tables to use the Japanese tokenizer.
 
@@ -76,15 +76,7 @@ Improve search results in Japanese language searches by configuring individual t
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[c_DisplayValues|Display values]]
-- [[remove-index-child-table|Remove the text index for a child table]]
-- [[r_ViewTextIndexingStatsAndStatus|Text indexing statistics and status]]
-- [[search-suggestions-overview|Search Suggestions]]

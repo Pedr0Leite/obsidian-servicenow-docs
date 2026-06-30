@@ -24,7 +24,7 @@ Landing pages may include the following items based on your role and tasks:
 -   A banner containing a link to learn about the Next Experience Unified Navigation
 -   New and critical tasks to keep up to date with the status and priority of your work
 -   Your tasks that are currently open by priority
--   [[lists-configurable-workspace|Lists]] with task records assigned to you to work on
+-   Lists with task records assigned to you to work on
 -   Performance Analytics and Reporting \(PAR\) data relevant to completing your tasks
 -   Approvals that are actionable on the landing page
 -   Your favorite items
@@ -33,6 +33,3 @@ Landing pages may include the following items based on your role and tasks:
 
 \[Omitted image "polaris\_landing\_page\_no\_callouts\_1-2\_updated.svg"\] Alt text: Example Next Experience landing page.
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]

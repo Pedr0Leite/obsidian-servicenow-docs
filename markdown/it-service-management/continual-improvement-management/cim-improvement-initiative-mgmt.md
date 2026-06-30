@@ -14,7 +14,7 @@ breadcrumb: [Continual Improvement Management, IT Service Management]
 
 # Managing improvements
 
-[[cim-landing-page|Continual Improvement Management]] \(CIM\) provides a structured process for requesting, approving, implementing, and tracking improvements aligned with company strategic objectives.
+Continual Improvement Management \(CIM\) provides a structured process for requesting, approving, implementing, and tracking improvements aligned with company strategic objectives.
 
 After an improvement is requested, the Improvement Manager reviews it, assigns an Improvement Coordinator, and monitors progress of all improvements. The Improvement Manager oversees, identifies, drives, and monitors the progress of all improvements.
 
@@ -33,7 +33,7 @@ The Improvement Coordinator manages assigned improvements and works with the Imp
 4.  Approved: During assessment, users in the approver group \(shown in the Approvers related list\) are notified of the approval request. One or all of the approver group members evaluate the improvement attributes and either approve or reject the improvement.
 5.  In Progress: After approval, the Improvement Coordinator and Improvement Manager work together \(in regular implementation meetings, for example\) to determine what work is needed to ready the improvement for implementation.
 
-    During implementation, the Improvement Coordinator creates and assigns phases and can create tasks directly from an initiative or from a phase to complete the improvement. The Improvement Coordinator works with the task owners \(in regular task status meetings, for example\) to track the progress of task completion. Records for other supported [[dex-workspace-application-tab|applications]] can also be created from within the improvement initiative or CIM task, if needed, and are typically shown in a related list in the improvement initiative or CIM task.
+    During implementation, the Improvement Coordinator creates and assigns phases and can create tasks directly from an initiative or from a phase to complete the improvement. The Improvement Coordinator works with the task owners \(in regular task status meetings, for example\) to track the progress of task completion. Records for other supported applications can also be created from within the improvement initiative or CIM task, if needed, and are typically shown in a related list in the improvement initiative or CIM task.
 
     If implementation for the improvement has been halted, the Improvement Manager or Improvement Coordinator can place the improvement **on hold**. All CIM tasks that are not closed or canceled are also placed on hold. You can cancel a CIM initiative at any stage when the initiative is in progress. When you cancel an initiative, the initiative as well as the tasks associated with the initiative move to **Closed Incomplete**.
 
@@ -167,7 +167,3 @@ Once all tasks in each phase of the improvement have been completed, the Improve
 
 [Improvement field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-field-descriptions.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dex-workspace-application-tab|Applications]]

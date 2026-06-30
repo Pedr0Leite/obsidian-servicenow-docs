@@ -14,13 +14,13 @@ breadcrumb: [Explore, Cloud Account Management, ITOM Cloud Accelerate, IT Operat
 
 # About data visualization in Cloud Account Management
 
-The [[cam-landing|Cloud Account Management]] overview dashboard gives a clear view of all [[cloud-accounts|cloud accounts]] and their compliance status. Cloud Account Management pulls data from [[cloud-configuration-governance|Cloud Configuration Governance]] to create a simple, visual overview of compliance. As an admin, you can take the necessary actions for the reported vulnerabilities.
+The Cloud Account Management overview dashboard gives a clear view of all cloud accounts and their compliance status. Cloud Account Management pulls data from Cloud Configuration Governance to create a simple, visual overview of compliance. As an admin, you can take the necessary actions for the reported vulnerabilities.
 
 ## Data visualization process
 
-The workflow for creating a [[ccg-scan-configuration|scan configuration]] for data visualization.
+The workflow for creating a scan configuration for data visualization.
 
-1.  Select [[aws-policy-set|policy sets]]:
+1.  Select policy sets:
 
     -   Choose a predefined policy set or customize policies to specify what to scan for account vulnerabilities.
     -   Cloud Account Management provides default policies for AWS, Azure, and GCP, which you can adjust to meet specific compliance or security requirements.
@@ -39,10 +39,3 @@ The workflow for creating a [[ccg-scan-configuration|scan configuration]] for da
 
 To set up data visualization, see [Set up scan configuration for data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-data-visualization.md).
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-configuration|Scan configuration]]
-- [[aws-policy-set|Policy sets]]

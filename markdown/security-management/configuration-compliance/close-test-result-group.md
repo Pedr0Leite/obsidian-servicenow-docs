@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-Starting with v15.0 of [[vr-config-compliance-landing|Configuration Compliance]], the **Close** button has been removed for a remediation task.
+Starting with v15.0 of Configuration Compliance, the **Close** button has been removed for a remediation task.
 
 When you resolve a remediation task, the resolution notes reflects in the work notes of all its test results.
 
@@ -48,6 +48,3 @@ When you resolve a remediation task, the resolution notes reflects in the work n
 
 [Configuration Compliance states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-states.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

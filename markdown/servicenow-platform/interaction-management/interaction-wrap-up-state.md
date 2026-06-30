@@ -16,7 +16,7 @@ breadcrumb: [Configuring Interaction Management, Interaction Management, Manage 
 
 Interaction wrap up provides agents with a brief wrap-up period at the end of customer conversations. Agents can use this time to complete their work before moving on to assist other customers.
 
-Interaction wrap up is a feature available for all types of interactions. When enabled, an interaction record moves from the Work In Progress state to the Wrap Up state at the end of a customer conversation. This brief, configurable period enables agents to complete tasks such as posting [[c_WorkNotes|work notes]] and updating record information before moving on to other work items.
+Interaction wrap up is a feature available for all types of interactions. When enabled, an interaction record moves from the Work In Progress state to the Wrap Up state at the end of a customer conversation. This brief, configurable period enables agents to complete tasks such as posting work notes and updating record information before moving on to other work items.
 
 While in the Wrap Up state, an agent’s capacity is not reduced until the state of the interaction moves to Closed Complete.
 
@@ -67,9 +67,9 @@ If an agent has not already ended wrap up, the system can automatically end the 
 **Note:** Agents can manually end the wrap up period even if automatic wrap up is enabled.
 
 -   **[Interaction form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-form.md)**  
-The [[interaction-form|Interaction form]] displays information about a customer interaction.
+The Interaction form displays information about a customer interaction.
 -   **[Interaction wrap up timer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-timer.md)**  
-The [[interaction-wrap-up-timer|interaction wrap up timer]] displays a countdown of the wrap up duration period in CSM Configurable Workspace.
+The interaction wrap up timer displays a countdown of the wrap up duration period in CSM Configurable Workspace.
 -   **[Interaction wrap up scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-scheduled-job.md)**  
 The interaction wrap up feature includes a scheduled job to close any interactions in the Wrap Up state that were not closed either manually by an agent or automatically by the system.
 -   **[Create an interaction wrap-up configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/create-interaction-wrap-up-config.md)**  
@@ -77,13 +77,7 @@ Create a configuration for each type of interaction that uses the interaction wr
 -   **[Create interaction wrap-up codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/config-interaction-wrapup-codes.md)**  
 Wrap-up codes enable agents to quickly wrap up and close interactions. Agents can select wrap-up codes from the interaction wrap-up modeless dialog.
 -   **[Enable interaction wrap-up codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/enable-interaction-wrapup-codes.md)**  
-[[enable-interaction-wrapup-codes|Enable interaction wrap-up codes]] and select the wrap-up codes that are available to agents in the interaction wrap-up modeless dialog.
+Enable interaction wrap-up codes and select the wrap-up codes that are available to agents in the interaction wrap-up modeless dialog.
 
 **Parent Topic:**[Configuring Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/configuring-interaction-management.md)
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[interaction-form|Interaction form]]
-- [[interaction-wrap-up-timer|Interaction wrap up timer]]
-- [[enable-interaction-wrapup-codes|Enable interaction wrap-up codes]]

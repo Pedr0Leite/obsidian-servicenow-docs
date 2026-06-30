@@ -22,11 +22,11 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## About this task
 
-[[c_EM|Event Management]] searches through the alerts that you're currently seeing in the Express List based on the filters and time range you have set. It searches in the following predefined fields even if they aren’t visible: **Metric name**, **Node**, **Alert number**, **[[alert-tags|Alert Tags]]**, and **Description**. It treats the text that you enter as a single string rather than individual words.
+Event Management searches through the alerts that you're currently seeing in the Express List based on the filters and time range you have set. It searches in the following predefined fields even if they aren’t visible: **Metric name**, **Node**, **Alert number**, **Alert Tags**, and **Description**. It treats the text that you enter as a single string rather than individual words.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -46,8 +46,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 The results match both the filters that you have applied and the string you entered in the Search filtered alerts field. In the resulting alert records, the string is highlighted and the filters show the number of records that match the string. Recent searches are saved and accessible from the Search filtered alerts field.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-tags|Alert tags]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

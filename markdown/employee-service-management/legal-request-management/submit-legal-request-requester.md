@@ -18,7 +18,7 @@ Update the variables in the form fields and submit the legal request by the requ
 
 ## Before you begin
 
-Ensure that [[employee-center-landing-page|Employee Center]] portal is installed.
+Ensure that Employee Center portal is installed.
 
 Role required: sn\_lg\_ops.legal\_user
 
@@ -51,6 +51,3 @@ A success confirmation message is displayed.
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

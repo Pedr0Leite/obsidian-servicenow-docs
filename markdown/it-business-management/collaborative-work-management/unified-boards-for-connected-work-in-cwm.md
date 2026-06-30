@@ -14,7 +14,7 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # Connected work in CWM
 
-Streamline task management for teams by bringing in various work items from across ServiceNow applications into Boards in [[cwm-landing|Collaborative Work Management]].
+Streamline task management for teams by bringing in various work items from across ServiceNow applications into Boards in Collaborative Work Management.
 
 \[Omitted video\] Description: Overview of Connected work in CWM Boards. Approximately three minutes long.
 
@@ -54,6 +54,3 @@ Learn how to update the status, assigned to, and other details for the work item
 
 **Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

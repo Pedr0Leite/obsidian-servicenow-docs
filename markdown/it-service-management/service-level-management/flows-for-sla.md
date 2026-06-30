@@ -15,9 +15,9 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # Flows for SLA
 
-Use the flow actions to send [[c_SLANotifications|SLA notifications]] when the duration specified in the SLA definition is crossed.
+Use the flow actions to send SLA notifications when the duration specified in the SLA definition is crossed.
 
-Starting with the Yokohama release, the new base system flows replace the existing workflows for [[service-level-mgmt-landing-page|Service Level Management]]. However, you can continue to create custom workflows or use the existing ones. To migrate your existing workflows to flows, check the new base system flows available in Workflow Studio for guidance. For any new requirements, use flows.
+Starting with the Yokohama release, the new base system flows replace the existing workflows for Service Level Management. However, you can continue to create custom workflows or use the existing ones. To migrate your existing workflows to flows, check the new base system flows available in Workflow Studio for guidance. For any new requirements, use flows.
 
 You can create and edit flows using Workflow Studio. The default flow that is available with the Service level management plugin is **Default SLA flow**.
 
@@ -36,7 +36,3 @@ For more information on SLA notifications, refer [SLA notifications](https://raw
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
-## Related
-
-- [[c_SLANotifications|SLA notifications]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

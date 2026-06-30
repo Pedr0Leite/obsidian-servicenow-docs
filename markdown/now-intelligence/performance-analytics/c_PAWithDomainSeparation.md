@@ -39,7 +39,7 @@ There are three approaches to domain separation in Performance Analytics:
 
 -   **Global**
 
-    The Performance Analytics records, such as indicators and breakdowns, are all in the global domain. Data collection jobs respect the domains of facts table records, such as incidents, when they collect indicator scores. Users see scores only from domains they have visibility into. [[content-packs-in-form-analytics-published|Platform Analytics Solutions]] use this approach. It is the most suitable approach in most cases.
+    The Performance Analytics records, such as indicators and breakdowns, are all in the global domain. Data collection jobs respect the domains of facts table records, such as incidents, when they collect indicator scores. Users see scores only from domains they have visibility into. Platform Analytics Solutions use this approach. It is the most suitable approach in most cases.
 
 -   **Domain-specific**
 
@@ -47,7 +47,7 @@ There are three approaches to domain separation in Performance Analytics:
 
 -   **Hybrid**
 
-    Low-level Performance Analytics records, such as [[c_IndicatorSources|indicator sources]], are global. High-level Performance Analytics records, such as [[widgets|widgets]], are domain-separated. The pa\_admin users manage the low-level, global records. Each domain has users with roles like pa\_power\_user to manage high-level records. This approach is advanced.
+    Low-level Performance Analytics records, such as indicator sources, are global. High-level Performance Analytics records, such as widgets, are domain-separated. The pa\_admin users manage the low-level, global records. Each domain has users with roles like pa\_power\_user to manage high-level records. This approach is advanced.
 
 
 For more information, see:
@@ -93,8 +93,3 @@ The PADomainUtils API enables you to copy Performance Analytics records between 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[widgets|Widgets]]

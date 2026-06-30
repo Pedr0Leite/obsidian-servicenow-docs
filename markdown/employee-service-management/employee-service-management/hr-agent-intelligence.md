@@ -14,7 +14,7 @@ Automatically categorize HR cases submitted by email. Auto-case creation allows 
 
 HR cases can be created via email, phone, or a self-service Service Portal such as the Employee Service Center. By default, an email sent to the general address for HR requests is created as a general inquiry case. An HR agent then has to review and manually recategorize it to the appropriate HR service. With Predictive Intelligence, a predictive model is auto-trained to categorize HR cases submitted by email. The email is routed to the appropriate HR service based on the subject line and body.
 
-**Note:** This feature is available with the HR Professional and HR Enterprise packages when you activate the [[hr-service-delivery|HR Service Delivery]] and Predictive Intelligence applications. If you do not want to use this feature navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Application Properties** and disable the **Enable HR Case auto categorization** property.
+**Note:** This feature is available with the HR Professional and HR Enterprise packages when you activate the HR Service Delivery and Predictive Intelligence applications. If you do not want to use this feature navigate to **HR Administration** &gt; **Application Properties** and disable the **Enable HR Case auto categorization** property.
 
 On instances where both Predictive Intelligence and HR Service Delivery are active, the following solution definition and business rule are available to use.
 
@@ -37,7 +37,3 @@ When any one of the preceding conditions is not met, you must manually configure
 
 Once your solution definition is trained, you can test the solution prediction by sending emails to the general email address for HR requests. You can then verify that the corresponding HR cases are automatically categorized to the appropriate HR service. See [Test an HR solution prediction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/test-hr-solution-prediction.md) for more information.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

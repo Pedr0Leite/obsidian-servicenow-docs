@@ -14,7 +14,7 @@ breadcrumb: [Unified ticket experience setting, Configure service to use Univers
 
 # Create universal request automatically for department tickets via other channels
 
-[[ur-landing-limitedaccess|Universal request]] is not automatically created when a fulfiller or employee creates a department ticket from channels other than the Service Portal or Virtual Agent topics. [[ur-create-universal-request-record|Create universal request]] automatically by adding the business rule to the specific service table, such as an Incident or a HR service.
+Universal request is not automatically created when a fulfiller or employee creates a department ticket from channels other than the Service Portal or Virtual Agent topics. Create universal request automatically by adding the business rule to the specific service table, such as an Incident or a HR service.
 
 ## Before you begin
 
@@ -64,7 +64,3 @@ Follow the given steps to enable create universal request automatically from an 
 
 [Configure a catalog item or record producer to create a universal request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-create-universal-request-record|Create Universal Request]]

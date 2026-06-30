@@ -12,7 +12,7 @@ breadcrumb: [Export metrics, Monitor instance metrics, Instance Security Center,
 
 # Export metrics settings
 
-Use the [[sc-configuration|configuration]] options in the Settings tab to narrow down reporting results.
+Use the configuration options in the Settings tab to narrow down reporting results.
 
 Access the settings for your export metrics by selecting the **Settings** tab.
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Classifications for [[ca-metrics|Metrics]]
+Classifications for Metrics
 
 </td><td>
 
@@ -46,7 +46,7 @@ Classifications for Alerts
 
 </td><td>
 
-Add or remove classifications to this field to determine which exports trigger instance security notifications. The classifications supported in the **Classifications for Metrics** field are supported here. For more detail on these alerts, see the security notifications section on the [[instance-security-center|Instance Security Center]] page. The **Record Threshold** field defines the number of records exported before your instance triggers and alert.
+Add or remove classifications to this field to determine which exports trigger instance security notifications. The classifications supported in the **Classifications for Metrics** field are supported here. For more detail on these alerts, see the security notifications section on the [Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md) page. The **Record Threshold** field defines the number of records exported before your instance triggers and alert.
 
 </td></tr><tr><td>
 
@@ -54,17 +54,10 @@ Record Threshold
 
 </td><td>
 
-Number of record a user must [[export|export]] to trigger an alert. To trigger an alert, these records must also match the classifications listed in the **Classifications for Alerts** field.
+Number of record a user must export to trigger an alert. To trigger an alert, these records must also match the classifications listed in the **Classifications for Alerts** field.
 
 </td></tr></tbody>
 </table>Save your settings by entering **Control + s** \(Windows\) or **⌘ + s** \(macOS\).
 
-**Parent Topic:**[[instance-sec-center-export-metrics|Export metrics]]
+**Parent Topic:**[Export metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-export-metrics.md)
 
-## Related
-
-- [[instance-security-center|Instance Security Center]]
-- [[instance-sec-center-export-metrics|Export metrics]]
-- [[sc-configuration|Configuration]]
-- [[ca-metrics|Metrics]]
-- [[export|Export]]

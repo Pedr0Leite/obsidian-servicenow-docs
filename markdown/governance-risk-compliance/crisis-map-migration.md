@@ -80,7 +80,7 @@ This condition helps you to view relevant fields and analyze a focused view of t
 
 Starting with BCM release 9.0.x, the Crisis map application has been enhanced. You can now display more than 10,000 resources on the map. Similarly, the application handles more than 1,000 alerts without any performance issues.
 
-For information on creating a Resource configuration in Crisis map, see [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]].
+For information on creating a Resource configuration in Crisis map, see [Configure Resource Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-resource-for-crisis-map-uib-ws.md).
 
 ## Alert details page
 
@@ -105,7 +105,7 @@ The 'Assets at Risk' section is displayed on the **Details** tab of an alert. Th
 
 \[Omitted image "assets-at-risk.png"\] Alt text: Assets at Risk section in the map.
 
-The suggested actions for an alert are displayed in the Alert panel. These actions include steps like notifying stakeholders \(with a feature to send emails\), creating response tasks, and clearing [[crisis-management-uib|crisis events]]. Custom alert actions can also be implemented using scripts.
+The suggested actions for an alert are displayed in the Alert panel. These actions include steps like notifying stakeholders \(with a feature to send emails\), creating response tasks, and clearing crisis events. Custom alert actions can also be implemented using scripts.
 
 Zoom and focus options in the map: Selecting on an alert zooms the map to a smaller area centered on the alert's location.
 
@@ -117,17 +117,11 @@ You can add custom alert actions by searching for them in the Alert Actions sect
 
 For example, if you select the **Test Script** action, it runs a script without any input. You can check the log to confirm that the script has been executed. The log shows a message indicating that the test script alert action has run.
 
-You can add custom scripts for alert actions, and the system supports both base system and custom actions. This migration promotes better configuration, accessibility, and future support for the Crisis map application for the users. For information on alert actions, see [[configure-alert-action-uib-ws|Configure alert actions]].
+You can add custom scripts for alert actions, and the system supports both base system and custom actions. This migration promotes better configuration, accessibility, and future support for the Crisis map application for the users. For information on alert actions, see [Configure alert actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-alert-action-uib-ws.md).
 
 ## Enhanced accessibility and user experience
 
 The implementation of the Geomap \[sn\_geo\_map\] component has resolved various accessibility issues from previous Crisis map releases. This component replaces the FAM Map \[sn-fam-map\] component and provides an enhanced user experience.
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]]
-- [[configure-alert-action-uib-ws|Configure alert actions]]
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[crisis-management-uib|Crisis events]]

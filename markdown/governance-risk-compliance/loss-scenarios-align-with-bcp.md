@@ -40,7 +40,7 @@ When you create a plan using a plan template, the loss scenarios that are identi
 
 6.  Click **Add** to add additional loss scenarios to the plan.
 
-7.  Select the scenario names from the [[add-loss-scenario-recovery-task-bcp-uib-ws|Add Loss Scenarios]] modal form.
+7.  Select the scenario names from the Add Loss Scenarios modal form.
 
 8.  Click **Add**.
 
@@ -70,6 +70,4 @@ When you create a plan using a plan template, the loss scenarios that are identi
 
     5.  Click **Add**.
 
-## Related
 
-- [[add-loss-scenario-recovery-task-bcp-uib-ws|Add loss scenarios]]

@@ -20,7 +20,7 @@ Role required: sales\_agent
 
 ## About this task
 
-You can add opportunity lines by location if the [[som-activate-location-filter|location-based transactions property]] is enabled by your admin and [[config-location-transaction|eligibility rule filters and product eligibility rules]] have been configured by your product catalog admin for location-based transactions.
+You can add opportunity lines by location if the [location-based transactions property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-activate-location-filter.md) is enabled by your admin and [eligibility rule filters and product eligibility rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md) have been configured by your product catalog admin for location-based transactions.
 
 ## Procedure
 
@@ -34,25 +34,17 @@ You can add opportunity lines by location if the [[som-activate-location-filter|
 
     \[Omitted image "location-filter-som.png"\] Alt text: Product catalog user interface with location filter for adding a product offering to an opportunity by service location.
 
-4.  Select **Add** to [[create-new-opportunity|create an opportunity]] line item.
+4.  Select **Add** to create an opportunity line item.
 
 5.  Navigate to the **Line Items** tab to view the details of the newly added opportunity line item.
 
 
-**Parent Topic:**[[location_based_transactions_for_opportunity|Location-based transactions for Opportunity Management]]
+**Parent Topic:**[Location-based transactions for Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/location_based_transactions_for_opportunity.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[som-activate-location-filter|Activate location-based transactions]]
-- [[config-location-transaction|Configuring location-based product transactions]]
-- [[location_based_transactions_for_opportunity|Location-based transactions for Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-opportunity|Create an opportunity]]

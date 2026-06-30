@@ -99,12 +99,9 @@ Enter the width of the Flash movie in pixels.
 
 [Configure a detailed content block]()
 
-[[t_AddingAnAttachment|Add and manage attachments]]
+[Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)
 
 [Content blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentBlocks.md)
 
 [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-## Related
-
-- [[t_AddingAnAttachment|Add and manage attachments]]

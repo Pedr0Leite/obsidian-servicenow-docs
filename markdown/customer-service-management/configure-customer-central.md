@@ -24,9 +24,9 @@ Role required: admin, or the app-specific sn\_customer\_central\_admin role.
 
 Customer Central provides customer service agents with all the information about the customer in one central place. It enables them to quickly zoom in on the customer issue and provide efficient and empathetic service to their customers.
 
-Customer Central consists of two views, Customer Information and Customer History. In [[csm-workspaces-configure|CSM Configurable Workspace]], Customer Central is displayed on the interaction, account, contact, or consumer records.
+Customer Central consists of two views, Customer Information and Customer History. In CSM Configurable Workspace, Customer Central is displayed on the interaction, account, contact, or consumer records.
 
-For more information, see [[customer-central|Customer Central]].
+For more information, see [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[activate-customer-central|Activate Customer Central]]
+Activate Customer Central
 
 </td><td>
 
@@ -54,7 +54,7 @@ The Customer Central application \(com.sn\_csm\_customer\_central\) is activated
 
 </td></tr><tr><td>
 
-[[cust-central-configure-info-tab|Configure the Customer Information view using CSM Configurable Workspace]]
+[Configure the Customer Information view using CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cust-central-configure-info-tab.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Configure the display of the Customer Information view using CSM Configurable Wo
 
 </td></tr><tr><td>
 
-[[configure-customer-activity|Configure the Customer History view]]
+[Configure the Customer History view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-activity.md)
 
 </td><td>
 
@@ -81,10 +81,4 @@ Starting with the Yokohama release, the Customer History component displays cust
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[customer-central|Customer Central]]
-- [[cust-central-configure-info-tab|Configure the Customer Information view using CSM Configurable Workspace]]
-- [[configure-customer-activity|Configure the Customer History view]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[activate-customer-central|Activate Customer Central]]

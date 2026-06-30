@@ -14,7 +14,7 @@ breadcrumb: [Fine-tune application services to implement owner requests, Applica
 
 # Discover CIs identified as generic applications
 
-[[c_ServiceMappingOverview|Service Mapping]] identifies application configuration items \(CIs\) that it failed to properly discover as generic applications. Correctly identify generic applications by creating a simplified [[r-discovery|discovery]] pattern from an application service map, rather than creating a fully functional pattern from scratch using the Pattern Designer.
+Service Mapping identifies application configuration items \(CIs\) that it failed to properly discover as generic applications. Correctly identify generic applications by creating a simplified discovery pattern from an application service map, rather than creating a fully functional pattern from scratch using the Pattern Designer.
 
 ## Before you begin
 
@@ -172,7 +172,3 @@ You may configure Discovery to use a different identifier. For more information,
 
 [Pattern-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/pattern-based-discovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **[[t_ManageHRGroups|Manage HR Groups]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Groups**.
 
     This list is the same that appears under **User Administration** &gt; **Groups**.
 
@@ -41,7 +41,3 @@ Role required: sn\_hr\_core.admin
 
 **Parent Topic:**[HR skills management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSkillsManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[t_ManageHRGroups|Manage HR Groups]]

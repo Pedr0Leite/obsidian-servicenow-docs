@@ -39,7 +39,7 @@ To integrate Apple Messages for Business with your ServiceNow® instance, you ne
 
     1.  Use the dropdown to select the instance that you want to connect to your Apple Messages for Business account.
 
-        Ensure that the instance has the [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]] application installed.
+        Ensure that the instance has the Conversational Integration with Apple Messages for Business application installed.
 
     2.  If the connection is successful, the message "Your request on the instance &lt;instance name&gt; is successfully submitted" displays.
 
@@ -60,6 +60,3 @@ To integrate Apple Messages for Business with your ServiceNow® instance, you ne
 
 If you want to integrate your Identity Provider \(IdP\), go to: [OAuth setup for Apple Messages for Business](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/oauth-setup-apple.md).
 
-## Related
-
-- [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]]

@@ -16,7 +16,7 @@ The welcome page contains instructions and any important information you would l
 
 The base system login page content is customizable by the administrator of the system.
 
-**Note:** This information is only relevant for instances using [[c_UI16|Core UI]] instead of the Next Experience. For information about similar options available for Next Experience, see [[edit-login-features-u-n|Configure login theming in Next Experience]].
+**Note:** This information is only relevant for instances using Core UI instead of the Next Experience. For information about similar options available for Next Experience, see [Configure login theming in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/edit-login-features-u-n.md).
 
 ## Welcome page sections
 
@@ -28,7 +28,7 @@ Welcome pages can contain different sections, including:
 -   **Demonstration:** Information about logging in to a base system demo system
 -   **More Information:** A link to the ServiceNow documentation
 
-View, create, and [[configure-onboarding-modals|configure]] the welcome page sections by navigating to **System UI** &gt; **Welcome Page Content**. You can edit any item by clicking its short description. Sections that are not needed can be removed.
+View, create, and configure the welcome page sections by navigating to **System UI** &gt; **Welcome Page Content**. You can edit any item by clicking its short description. Sections that are not needed can be removed.
 
 |Field|Description|
 |-----|-----------|
@@ -41,7 +41,7 @@ View, create, and [[configure-onboarding-modals|configure]] the welcome page sec
 |Published|The published date of the section.|
 |Text|The content of the section.|
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
 ## Create company-specific welcome page content
 
@@ -67,9 +67,4 @@ Role required: admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[edit-login-features-u-n|Configure login theming in Next Experience]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

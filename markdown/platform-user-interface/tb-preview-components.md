@@ -65,11 +65,7 @@ The components you can preview in Theme Builder were created in the Now Design S
 
 ## What to do next
 
-After previewing and selecting the desired components, edit their properties to fine-tune their appearance. For more information, see [[tb-edit-components|Edit components]].
+After previewing and selecting the desired components, edit their properties to fine-tune their appearance. For more information, see [Edit components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-components.md).
 
-**Parent Topic:**[[working-with-component-styles|Working with Component styles]]
+**Parent Topic:**[Working with Component styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-component-styles.md)
 
-## Related
-
-- [[tb-edit-components|Edit components]]
-- [[working-with-component-styles|Working with Component styles]]

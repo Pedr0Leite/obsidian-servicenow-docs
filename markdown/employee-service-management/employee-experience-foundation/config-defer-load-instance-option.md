@@ -27,11 +27,11 @@ Role required: admin.
 The deferred load is available for the following widgets.
 
 -   Content Experience
--   [[emp-center-quick-link-config|Quick Links]]
+-   Quick Links
 -   News Feed
 -   Popular Topics
 -   Relevant for you
--   [[web-application-employee-about|App Launcher]]
+-   App Launcher
 -   My active Items
 
 ## Procedure
@@ -40,7 +40,7 @@ The deferred load is available for the following widgets.
 
     1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration** &gt; **Widget Editor**.
 
-    2.  On the [[employee-center-landing-page|Employee Center]] home page, press and hold the control key, right-click the widget, and select **Page in Designer**.
+    2.  On the Employee Center home page, press and hold the control key, right-click the widget, and select **Page in Designer**.
 
     The following page appears.
 
@@ -59,8 +59,3 @@ The deferred load is available for the following widgets.
 
 Defer loading of the widget is enabled.
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-landing-page|Employee Center]]

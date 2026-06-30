@@ -14,7 +14,7 @@ breadcrumb: [Reference, Dispute Content Pack for US Regulations, Dispute Managem
 
 # Domain separation Dispute Content Pack for US Regulations
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is unsupported for the [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for the Dispute Content Pack for US Regulations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -34,7 +34,3 @@ The ServiceNow® Dispute Content Pack for US Regulations enables issuers in the 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]

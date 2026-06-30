@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Topic Block utility
 
-Use a Topic Block in a [[virtual-agent-landing-page|Virtual Agent]] conversation to perform a specific function or subflow that runs certain steps in a calling topic.
+Use a Topic Block in a Virtual Agent conversation to perform a specific function or subflow that runs certain steps in a calling topic.
 
 ## Topic Block utility properties
 
@@ -142,6 +142,3 @@ The script in the dynamic Topic Block expression returns a value based on your i
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

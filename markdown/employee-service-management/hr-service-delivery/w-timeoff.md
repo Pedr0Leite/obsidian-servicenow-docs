@@ -14,20 +14,20 @@ breadcrumb: [Use, HR Service Delivery Advanced Integration with Workday, Integra
 
 # Time off request to Workday
 
-You can submit a time off request to Workday from [[employee-center-landing-page|Employee Center]].
+You can submit a time off request to Workday from Employee Center.
 
 The following sections explain how to configure time off settings, and raise a time off request from Employee Center.
 
 ## Time off settings
 
--   Configure the reports for [[config-w-daytimeoff|time offs]], absence tables, [[holiday-calendar-awd|holiday calendars]], and [[schedule-calen-awd|work schedule calendars]]. See [Configure reports HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/awd-config-re.md).
+-   Configure the reports for time offs, absence tables, holiday calendars, and work schedule calendars. See [Configure reports HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/awd-config-re.md).
 -   Import set up data for time offs. See [Time offs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-w-daytimeoff.md).
 -   Get Holiday Calendars from Workday. See [Holiday calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/holiday-calendar-awd.md).
 -   Get Work Schedule Calendars from Workday. See [Work schedule calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-calen-awd.md).
 
 ## Time off request
 
-[[request-timeoff|Request a time off]] to Workday from Employee Center. For more information, see [Request a time off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-timeoff.md).
+Request a time off to Workday from Employee Center. For more information, see [Request a time off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-timeoff.md).
 
 ## Limitations
 
@@ -54,16 +54,7 @@ Request a time off to Workday from Employee Center.
 
 [Report an issue with your payslip]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Advanced Integration with Workday]()
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Advanced Integration with Workday]()
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[config-w-daytimeoff|Time offs]]
-- [[holiday-calendar-awd|Holiday calendars]]
-- [[schedule-calen-awd|Work schedule calendars]]
-- [[request-timeoff|Request a time off]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

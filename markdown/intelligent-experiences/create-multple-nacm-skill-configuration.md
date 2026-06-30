@@ -12,19 +12,19 @@ breadcrumb: [Use Now Assist context menu for custom skill deployment, Now Assist
 
 # Create multiple Now Assist context menu skill configurations
 
-Create multiple [[now-assist-write-overview|Now Assist context menu]] configuration for the same field and table.
+Create multiple Now Assist context menu configuration for the same field and table.
 
 ## Before you begin
 
-You can now have multiple Now Assist context menu [[exploring-ai-governance|configurations]] on the same record form and field. You just have to create the required configuration and add to the form or field.
+You can now have multiple Now Assist context menu configurations on the same record form and field. You just have to create the required configuration and add to the form or field.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin** &gt; **[[now-assist-experiences|Now Assist Experiences]]** &gt; **Now Assist Context Menu**.
+1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Now Assist Experiences** &gt; **Now Assist Context Menu**.
 
-2.  Select **Configurations** tab in the Now Assist context menu [[now-assist-center-home-page|home page]].
+2.  Select **Configurations** tab in the Now Assist context menu home page.
 
 3.  Select **Create New**.
 
@@ -81,13 +81,5 @@ Role required: admin
 13. Select **Preview** and **Done**.
 
 
-**Parent Topic:**[[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]
+**Parent Topic:**[Use Now Assist context menu for custom skill deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-now-assist-context-menu-for-custom-skill-deployment.md)
 
-## Related
-
-- [[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[exploring-ai-governance|Configurations]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-experiences|Now Assist Experiences]]
-- [[now-assist-center-home-page|Home page]]

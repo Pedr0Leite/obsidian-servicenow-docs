@@ -61,15 +61,15 @@ Navigate to **Technology Services** &gt; **Quick links** &gt; **Device health ch
 
 2.  On the Device health check page, select the Favorite icon \(\[Omitted image "DHC\_favorite\_icon.png"\] Alt text:\) to add it to your **My Favorites** section.
 
-3.  In the **Diagnose** tab, review the performance category and required actions for the device, [[dex-workspace-application-tab|applications]], and network.
+3.  In the **Diagnose** tab, review the performance category and required actions for the device, applications, and network.
 
 4.  Select a Poor or Average performance category to view the issues and suggested resolutions.
 
-    The resolutions can be [[remedial-action|remedial action]] buttons, self-help instructions, or links to resources that provide resolutions.
+    The resolutions can be remedial action buttons, self-help instructions, or links to resources that provide resolutions.
 
 5.  Implement the suggested resolution to improve performance.
 
-    **Note:** If a remedial action was triggered in the last 24 hours from either the Diagnose or [[device-actions|Device actions]] tab, the remedial action button is inactive. It is reactivated 24 hours after the last action was triggered.
+    **Note:** If a remedial action was triggered in the last 24 hours from either the Diagnose or Device actions tab, the remedial action button is inactive. It is reactivated 24 hours after the last action was triggered.
 
 6.  Submit feedback about whether the suggested resolution helped resolve an issue.
 
@@ -99,8 +99,4 @@ Navigate to **Technology Services** &gt; **Quick links** &gt; **Device health ch
         |Remedial action is in progress|**In-progress**|
         |Remedial action fails|**Failed**|
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[remedial-action|Remedial action]]
-- [[device-actions|Device actions]]

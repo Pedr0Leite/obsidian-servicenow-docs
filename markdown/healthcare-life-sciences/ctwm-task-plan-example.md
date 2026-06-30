@@ -12,7 +12,7 @@ breadcrumb: [Explore, Care Team Work Management, Healthcare Operations, Healthca
 
 # Example - Task plans for care teams
 
-Understand how task plans are designed and executed using [[ctwm-landing|Care Team Work Management]].
+Understand how task plans are designed and executed using Care Team Work Management.
 
 In a large hospital system, operational leaders need a reliable way to run across rounding activities consistently many departments without manually coordinating work unit by unit. The **Operational rounding playbook** is designed for this purpose, providing a standardized and repeatable workflow that initiates, coordinates, and tracks rounding activities across multiple care units.
 
@@ -22,11 +22,7 @@ As part of this orchestration layer, the system generates **healthcare orchestra
 
 For each selected unit or department, the system then creates a **care team case**, providing a unit‑specific container for frontline rounding work. Each care team case includes a clear description of the rounding activity and sets expectations for what must be completed during the rounding cycle. Within each care team case, the system generates **care team tasks** that guide unit‑level execution, such as environmental assessments, equipment checks, and patient safety checklists. These tasks are assigned to care team managers or care team agents within the appropriate unit and may include documentation requirements or smart assessments as needed.
 
-As care team staff complete their assigned tasks, progress is tracked at both the unit and hospital levels. Unit‑level completion is captured within [[ctwm-care-team-case|care team cases and tasks]], while overall progress across all units is monitored from the healthcare orchestration case. This enables rounding coordinators to quickly identify which units are complete, which are still in progress, and where exceptions or compliance gaps may exist.
+As care team staff complete their assigned tasks, progress is tracked at both the unit and hospital levels. Unit‑level completion is captured within care team cases and tasks, while overall progress across all units is monitored from the healthcare orchestration case. This enables rounding coordinators to quickly identify which units are complete, which are still in progress, and where exceptions or compliance gaps may exist.
 
 Once all units have completed their required tasks and assessments, the rounding coordinator closes the healthcare orchestration case, completing the rounding cycle. This multi‑unit task plan approach improves operational reliability, reduces manual coordination, and supports compliance with internal policies and regulatory requirements across the health system.
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]
-- [[ctwm-care-team-case|Care team cases and tasks]]

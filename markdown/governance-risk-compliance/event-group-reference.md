@@ -20,13 +20,10 @@ For a description of the field values, see the following table.
 
 |Field|Description|
 |-----|-----------|
-|Set|View that is set to [[grc-opres-landing-page|Operational Resilience]] by default.|
+|Set|View that is set to Operational Resilience by default.|
 |Name|Name of the event group. For example, Weather or Energy Issues.|
 |Label|Label for the event group that appears in the UI.|
 |Choice category|Category that is set to **Event group** by default.|
 |Order|Order of the event group.|
 |Parent|Parent category that you associate with an event group.|
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

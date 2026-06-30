@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Define the data source and data component mapping
 
-Use the [[data-component|Data Component]] [[mapping-logrhythm|Mapping]] if you are using the latest TAXII collections, and you want to maintain a relationship between the [[data-sources|data sources]], data components, and the various techniques. Map the data sources with the additional context of data components that provides an extra sublayer of context to data sources that enable you to understand adversary behaviors in MITRE-ATT&amp;CK better.
+Use the Data Component Mapping if you are using the latest TAXII collections, and you want to maintain a relationship between the data sources, data components, and the various techniques. Map the data sources with the additional context of data components that provides an extra sublayer of context to data sources that enable you to understand adversary behaviors in MITRE-ATT&amp;CK better.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 Mapping the data sources and data components provides visibility into the data sources or components and the techniques that are relevant for your organization.
 
-For example, if your organization focuses on 7 techniques, you may need 5 data sources and 10 data components to monitor these sources. Your evaluation of internal [[tools|tools]] reveals that your organization doesn’t have two data sources and four data components. This mapping exercise provides visibility into the data sources, components, &amp; techniques, their relevance to your organization, and to identify the gaps in coverage. You can thus focus your investment on the right data sources and alert sensors to detect and mitigate adversary threats.
+For example, if your organization focuses on 7 techniques, you may need 5 data sources and 10 data components to monitor these sources. Your evaluation of internal tools reveals that your organization doesn’t have two data sources and four data components. This mapping exercise provides visibility into the data sources, components, &amp; techniques, their relevance to your organization, and to identify the gaps in coverage. You can thus focus your investment on the right data sources and alert sensors to detect and mitigate adversary threats.
 
 The MITRE-ATT&amp;CK framework contains an updated structure for the data sources - Data Source: Data Component. This new form of data source provides an extra context to the data sources. The data source object features the name of the data source as well as key details about the collected data \(file, process, network traffic, and so on\) and specific values or properties required to detect adversary behaviors.
 
@@ -33,18 +33,18 @@ The following illustration shows the MITRE-ATT&amp;CK STIX™ structure represen
 
 \[Omitted image "mitre-datasourcecomponent.png"\] Alt text: This image shows the general structure of data sources and data components.
 
-You can continue using the [[manage-mitre-att-ck-data-sources|Data Source Mapping]] if your [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]] contains the old TAXII collections, and you’ve mapped your data sources to various techniques. However, use the [Data Component Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/map-the-data-source-and-data-components.md) if you’re using the latest TAXII collections, and you want to maintain a relationship between the data sources, data components, and the various techniques.
+You can continue using the [Data Source Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/manage-mitre-att-ck-data-sources.md) if your MITRE-ATT&amp;CK repository contains the old TAXII collections, and you’ve mapped your data sources to various techniques. However, use the [Data Component Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/map-the-data-source-and-data-components.md) if you’re using the latest TAXII collections, and you want to maintain a relationship between the data sources, data components, and the various techniques.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Data Component Mapping**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Data Component Mapping**.
 
     The following illustration shows the list of tactics, IDs, techniques along with the data sources and data components based on your collection updates.\[Omitted image "mitre-data-component-overview.png"\] Alt text: The following illustration shows the list of tactics, techniques, IDs, along with the data sources and data components that have been populated based on your collection updates.
 
     |Field|Description|
     |-----|-----------|
     |Tactic|Adversary’s objective or the reason for performing an action.|
-    |ID|Technique’s unique [[identity|identity]].|
+    |ID|Technique’s unique identity.|
     |Technique|How an adversary achieves a tactical objective by performing an action.|
     |Data Source|Data source that is associated with the technique.|
     |Data Component|Data component that is associated with the data source. A data component can only have one parent data source.|
@@ -72,7 +72,7 @@ You can continue using the [[manage-mitre-att-ck-data-sources|Data Source Mappin
     In the following illustration, you see how to add data components.\[Omitted image "mitre-data-source-component-mapping.gif"\] Alt text: This illustration shows how to map data source components to a technique.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -123,14 +123,3 @@ You can continue using the [[manage-mitre-att-ck-data-sources|Data Source Mappin
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[manage-mitre-att-ck-data-sources|Define the data source and detection tool mapping]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[data-component|Data Component]]
-- [[mapping-logrhythm|Mapping]]
-- [[data-sources|Data Sources]]
-- [[tools|Tools]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[identity|Identity]]

@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # License calculations with the legacy Software Asset Management plugin
 
-Software license calculations with the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin count the number of licenses that exist in your network environment.
+Software license calculations with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin count the number of licenses that exist in your network environment.
 
 Users with the sam role can choose to count software licenses using a variety of license calculation types, such as counting by the number of users, the number of workstations, the number of CPUs, and others. For example, you can count the number of Adobe Acrobat 9.0 licenses based on the number of users that have the software installed in the organization.
 
@@ -40,9 +40,9 @@ By default, the **Script** field in the legacy Software Asset Management \(com.s
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
@@ -50,13 +50,7 @@ By default, the **Script** field in the legacy Software Asset Management \(com.s
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

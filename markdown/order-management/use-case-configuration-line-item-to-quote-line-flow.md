@@ -12,9 +12,9 @@ breadcrumb: [Use cases, Using CPQ, Configure, price, quote apps, Use, Sales Cust
 
 # Use case: Configuration line item to quote line flow
 
-By making a few adjustments to a flow template includes with the CPQ Extension package version 1.8 or later, you can parse the extended information from a configuration and map it to custom [[fields|fields]] without using a QCP script.
+By making a few adjustments to a flow template includes with the CPQ Extension package version 1.8 or later, you can parse the extended information from a configuration and map it to custom fields without using a QCP script.
 
-**Note:** This article applies to the CPQ Extension for Salesforce CPQ package version 1.8 or later. If your CPQ CPQ package is version 1.7 or earlier, see [[integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp|Use case: Using the Salesforce Quote Calculator plugin to integrate data from CPQ to Salesforce quotes and quote lines]].
+**Note:** This article applies to the CPQ Extension for Salesforce CPQ package version 1.8 or later. If your CPQ CPQ package is version 1.7 or earlier, see [Use case: Using the Salesforce Quote Calculator plugin to integrate data from CPQ to Salesforce quotes and quote lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp.md).
 
 By default, if you add any extended info to a line item \(using ProductList.extended\), it will be added as a JSON to the corresponding configuration line item object created as the following:
 
@@ -29,7 +29,7 @@ ProductList.extended = {};
 ProductList.extended.SG_Freight = cfg.sRFreight;  
 ```
 
-You must create a `SG_Freight_c` field on the configuration line item and Quote Line objects \(if you just enter “SG\_Freight,” SFDC will automatically add the \_c\). It is recommended to do so with the Schema Builder since itʼs much faster. If you do choose to add them through the Object Manager, make sure to check the Field Accessibility settings for the created fields so that the flows are able to [[Modify|modify]] them. Be sure to set the field-level security on the custom field to be visible for any profile that will be using them.
+You must create a `SG_Freight_c` field on the configuration line item and Quote Line objects \(if you just enter “SG\_Freight,” SFDC will automatically add the \_c\). It is recommended to do so with the Schema Builder since itʼs much faster. If you do choose to add them through the Object Manager, make sure to check the Field Accessibility settings for the created fields so that the flows are able to modify them. Be sure to set the field-level security on the custom field to be visible for any profile that will be using them.
 
 Next, in SFDC, go to Setup &gt; Process Automation &gt; Flows. Look for the “Configuration Line Item to Quote Line” flow and click it. It should look like this:
 
@@ -49,18 +49,11 @@ If the data is entered correctly, you should see the value for the created field
 
 Save the flow and activate. Itʼs recommended to save the flow as a a new flow instead of as a new version, so that youʼll always have the original template to go back to if needed.
 
-Add your fields to the configuration line item and quote line [[layouts|layouts]] in order to see these values where they belong:
+Add your fields to the configuration line item and quote line layouts in order to see these values where they belong:
 
 \[Omitted image "cpq-config-to-quote-line-flow-6.png"\] Alt text: list
 
 \[Omitted image "cpq-config-to-quote-line-flow-7.png"\] Alt text: Quote line screen
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp|integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp]]
-- [[use-cases|Use cases]]
-- [[fields|Fields]]
-- [[Modify|Modify]]
-- [[layouts|Layouts]]

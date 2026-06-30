@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace for the Auditor, Audit Workspace Overview, Audit Ma
 
 # View matrix report in landing page and record page of Audit Workspace
 
-View the Matrix report in the [[audit-management-overview-ws|Audit Workspace]] that presents the data in a structured format.
+View the Matrix report in the Audit Workspace that presents the data in a structured format.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_audit\_ws.auditor
 
 As an admin you have completed the matrix report registry, relationship configuration, and column configurations. As a user you can see the report in the Audit Workspace.
 
-The report helps to analyze relationships between different objects such as [[assessing-risks|assessing risks]] and controls. You can assess and document risks and the internal controls designed to mitigate those risks through the Risk and Controls Matrix.
+The report helps to analyze relationships between different objects such as assessing risks and controls. You can assess and document risks and the internal controls designed to mitigate those risks through the Risk and Controls Matrix.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ The report helps to analyze relationships between different objects such as [[as
 
     For example, in the preceding illustration, for the **Loss of Availability** risk listed on the left pane you can view all the risk-related details that you configured from the target tables on the right pane. The control details that are retrieved from the Control table, the test plans for the control, the issues related to the control, and the issues related to the risk are all displayed in separate tabs that come from the configuration on the right pane.
 
-    For the record page display type matrix configuration, you can view the matrix report in the [[list-view-uib-ws|List view]] of the Audit Workspace.
+    For the record page display type matrix configuration, you can view the matrix report in the List view of the Audit Workspace.
 
 5.  Select the list icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon\) of the Audit Workspace.
 
@@ -60,8 +60,4 @@ The report helps to analyze relationships between different objects such as [[as
 
     \[Omitted image "matrix-report-record-audit-ws.png"\] Alt text: Record page display type of Risk and Control Matrix report in the List view of the Audit Workspace.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[assessing-risks|assessing risks]]
-- [[list-view-uib-ws|List view]]

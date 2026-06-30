@@ -53,7 +53,7 @@ Template
 
 </td><td>
 
-The component, such as a resource block or blueprint, on which a [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] action was applied.
+The component, such as a resource block or blueprint, on which a Cloud Provisioning and Governance action was applied.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Message
 
 </td><td>
 
-The error message or successful completion message. This could include items like the ID of the corresponding message in [[cloud-api-trail|the Cloud API Trail]] record or the Cloud API that was invoked.
+The error message or successful completion message. This could include items like the ID of the corresponding message in the Cloud API Trail record or the Cloud API that was invoked.
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Details about the error, such as an HTTP error.
 Failed to list loadbalancer Failed : HTTP error code : 403
 ```
 
-This indicate that the credentials were incorrect, and [[r-discovery|Discovery]] could not access the cloud resource. The load balancer interface throws the first error because the load balancer device is the first device that allows access to the cloud resource.
+This indicate that the credentials were incorrect, and Discovery could not access the cloud resource. The load balancer interface throws the first error because the load balancer device is the first device that allows access to the cloud resource.
 
 A corresponding error on the MID- Server is captured in the Cloud API Trail.
 
@@ -196,8 +196,3 @@ See [Use Cloud Root Cause Analysis reports](https://raw.githubusercontent.com/Se
 
 [The Cloud API Trail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-api-trail.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-api-trail|The Cloud API Trail]]
-- [[r-discovery|Discovery]]

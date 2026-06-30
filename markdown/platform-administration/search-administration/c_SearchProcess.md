@@ -14,7 +14,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Zing generates search results in four phases
 
-Generate search [[hs-results|results]] by dividing documents among shards, searching shard documents, scoring shard documents, and merging scores into an index.
+Generate search results by dividing documents among shards, searching shard documents, scoring shard documents, and merging scores into an index.
 
 Zing generates search results in four phases:
 
@@ -70,18 +70,13 @@ The system merges the document scores into a single index and sorts the document
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

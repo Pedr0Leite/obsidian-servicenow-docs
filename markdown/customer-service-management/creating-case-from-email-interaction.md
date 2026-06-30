@@ -13,7 +13,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Creating a case from an email interaction
 
-Create a case from an inbound [[email-as-an-interaction|email interaction]] when the customer query requires further investigation. The case and interaction are linked to each other. All communication and case details are easily accessible for more efficient resolutions.
+Create a case from an inbound email interaction when the customer query requires further investigation. The case and interaction are linked to each other. All communication and case details are easily accessible for more efficient resolutions.
 
 After a case is created from an email interaction, the email interaction is automatically closed.
 
@@ -45,7 +45,7 @@ When you create a case from an inbound interaction, the system links the interac
 
 5.  Select **Create case**.
 
-    The system opens a new [[r_CustomerServiceCaseForm|case form]], automatically filling the Contact or Consumer field and setting the channel to Email. The system then populates the Short Description with the email subject.
+    The system opens a new case form, automatically filling the Contact or Consumer field and setting the channel to Email. The system then populates the Short Description with the email subject.
 
 6.  Enter the case details.
 
@@ -54,10 +54,5 @@ When you create a case from an inbound interaction, the system links the interac
 
 ### Result
 
-The process generates a case from an email, linking them for future communication. For more information, see [[accessing-associated-cases-interaction-emails|Accessing associated cases and interaction emails]].
+The process generates a case from an email, linking them for future communication. For more information, see [Accessing associated cases and interaction emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/accessing-associated-cases-interaction-emails.md).
 
-## Related
-
-- [[accessing-associated-cases-interaction-emails|Accessing associated cases and interaction emails]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[r_CustomerServiceCaseForm|Case form]]

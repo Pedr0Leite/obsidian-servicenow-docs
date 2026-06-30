@@ -14,7 +14,7 @@ breadcrumb: [Transform replication data, Replicate data, Instance Data Replicati
 
 # Warning and error messages in Instance Data Replication
 
-Understand error and warning messages related to schema definitions. You can then troubleshoot or fix [[instance-data-replication|Instance Data Replication]] \(IDR\) replication issues.
+Understand error and warning messages related to schema definitions. You can then troubleshoot or fix Instance Data Replication \(IDR\) replication issues.
 
 |Message|Type|Action|
 |-------|----|------|
@@ -24,6 +24,3 @@ Understand error and warning messages related to schema definitions. You can the
 
 **Parent Topic:**[Transform replication data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/modify-replicated-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Intelligent Servicing for Fraud, Banking applications, F
 
 # Assign roles for Intelligent Servicing for Fraud users
 
-Assign roles to control access to features, capabilities, and data in the [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] application.
+Assign roles to control access to features, capabilities, and data in the Intelligent Servicing for Fraud application.
 
 ## Before you begin
 
@@ -149,6 +149,3 @@ Creates, views, and edits fraud cases and works with consumers to resolve cases.
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

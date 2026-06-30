@@ -18,9 +18,9 @@ Use the floor plan to manage space and user assignments in your workplace.
 
 ## Before you begin
 
-Make sure that you have installed [[workplace-safety-mgmt-hr|Workplace Core]]. For more information, see [Install Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/install-workplace-service-delivery.md)
+Make sure that you have installed Workplace Core. For more information, see [Install Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/install-workplace-service-delivery.md)
 
-For the Floor plan, make sure that you have configured the map in [[Indoor-mapping|Indoor Mapping]]. For more information about configuring an indoor map, see [Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md).
+For the Floor plan, make sure that you have configured the map in Indoor Mapping. For more information about configuring an indoor map, see [Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md).
 
 Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_planner
 
@@ -28,9 +28,9 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  On the side navigation, select the **[[space-planning|Space Planning]]** module.
+2.  On the side navigation, select the **Space Planning** module.
 
     The Space Planning workspace opens with the **Floor plan** tab selected by default.
 
@@ -51,7 +51,7 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
     -   `Unassigned spaces`: Number of spaces that do not have any assignments.
     -   `Assignment ratio`: Ratio of the assigned profiles to the total effective capacity.
-    If you have installed [[workplace-space-mgmt-ovw|Workplace Space Management]], space admins can configure custom KPIs to be displayed on the details panel. For more information about configuring KPIs, see [Create a KPI Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-kpi-configuration.md).
+    If you have installed Workplace Space Management, space admins can configure custom KPIs to be displayed on the details panel. For more information about configuring KPIs, see [Create a KPI Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-kpi-configuration.md).
 
 5.  Select a **View by** option to group spaces on the map.
 
@@ -178,7 +178,7 @@ For example, `Workplace profile is Active`. For more information about condition
 
 For more information about map printing and its options, see [Print a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/print-map.md).
 
- To [[print-map|print a map]], you need the `sn_map_core.map_printer` role.
+ To print a map, you need the `sn_map_core.map_printer` role.
 
 </td></tr><tr><td id="d495771e487">
 
@@ -197,7 +197,7 @@ For more information about map printing and its options, see [Print a map](https
 
 </td><td>
 
-**Important:** You must have [[workplace-move-mgmt-overview|Workplace Move Management]] installed to view move-related information.
+**Important:** You must have Workplace Move Management installed to view move-related information.
 
  1.  On the floor map, select a space that has a move icon.
 2.  On the details panel, review the user cards for the move information.
@@ -253,12 +253,3 @@ Use the floor plan to edit space or neighborhood allocations.
 
 **Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[print-map|Print a map]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

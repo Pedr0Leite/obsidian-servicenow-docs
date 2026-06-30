@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0, OAuth authentication, Authentication, Access Management]
 
 # Set up OAuth
 
-Set up and [[t_ActivateOAuth|activate OAuth]], enable the [[oauth-inbound-and-outbound|OAuth]] system property, create an OAuth application endpoint for external client applications to access the instance, and set OAuth parameters.
+Set up and activate OAuth, enable the OAuth system property, create an OAuth application endpoint for external client applications to access the instance, and set OAuth parameters.
 
 ## Before you begin
 
@@ -35,7 +35,4 @@ Role required: oauth\_admin
 
     The application must also be able to parse the JSON response to use the returned access token and refresh token.
 
-## Related
 
-- [[t_ActivateOAuth|Activate OAuth]]
-- [[oauth-inbound-and-outbound|OAuth]]

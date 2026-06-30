@@ -12,13 +12,9 @@ breadcrumb: [Individual Life Servicing, Life Insurance Servicing, Insurance appl
 
 # Analytics and reporting for Individual Life Servicing
 
-[[individual-life-servicing|Individual Life Servicing]] contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Individual Life Servicing contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[individual-life-servicing-dashboard|Individual Life Servicing dashboard]] is available for Individual Life Servicing.
+The [Individual Life Servicing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/individual-life-servicing-dashboard.md) is available for Individual Life Servicing.
 
-## Related
-
-- [[individual-life-servicing-dashboard|Individual Life Servicing dashboard]]
-- [[individual-life-servicing|Individual Life Servicing]]

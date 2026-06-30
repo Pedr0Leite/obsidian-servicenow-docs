@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 integration, Software Asset Management publisher pack
 
 # Automated license removal for Microsoft 365
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] optimizes Microsoft 365 subscription usage by identifying low usage and overlapping candidates, and then automatically removing the licenses from the Microsoft 365 admin center. This proactive management helps you streamline costs and enhance the efficiency of low usage and overlapping licenses.
+Software Asset Management optimizes Microsoft 365 subscription usage by identifying low usage and overlapping candidates, and then automatically removing the licenses from the Microsoft 365 admin center. This proactive management helps you streamline costs and enhance the efficiency of low usage and overlapping licenses.
 
 ## Eligible candidates
 
@@ -34,7 +34,7 @@ Before initiating the automatic removal of licenses from the Microsoft 365 admin
 -   The following spoke is set up and plugins are installed:
     -   Microsoft Entra ID Spoke
     -   Software Asset Management Professional \(com.snc.samp\)
-    -   Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\)
+    -   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\)
 -   Microsoft Entra ID is configured with the following permissions to access and manage user and group information:
     -   **User.Read.All**
     -   **GroupMember.ReadWrite.All**
@@ -64,7 +64,3 @@ Software Asset Management removes the Microsoft 365 licenses from the Microsoft 
 
 [Optimization and savings dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/optimization-dashboard-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]

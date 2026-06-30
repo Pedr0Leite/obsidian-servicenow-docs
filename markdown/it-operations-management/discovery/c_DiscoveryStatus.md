@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery status
 
-The Discovery status provides a summary of a [[r-discovery|Discovery]] launched from a schedule. You can also cancel a Discovery that is in progress from the status form.
+The Discovery status provides a summary of a Discovery launched from a schedule. You can also cancel a Discovery that is in progress from the status form.
 
 **Note:** Discovery schedules that have no status updates for a over a defined number of minutes are analyzed automatically by the Discovery Status Monitor job. By default, this job applies to Discovery schedules that discover configuration items. For more information, see the [Discovery Status Monitoring Job](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=c2a6f4bf935a1ed0f538fb2d6cba10be) article in the Now Support Knowledge Base.
 
@@ -138,6 +138,3 @@ The **Devices** Related list in the Discovery Status form provides a summary lis
 
 [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

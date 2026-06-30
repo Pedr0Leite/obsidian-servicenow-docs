@@ -18,7 +18,7 @@ In a layout, the sidebar element can be used to show persistent information to t
 
 \[Omitted image "cpq-layout-sidebar.png"\] Alt text: Layout: Sidebar
 
-**Note:** Currently, you cannot implement this feature using the CPQ [[layout_editor|layout editor]]. You must create the sidebar element in the layout CSV and then import the CSV file.
+**Note:** Currently, you cannot implement this feature using the CPQ layout editor. You must create the sidebar element in the layout CSV and then import the CSV file.
 
 ## Setup
 
@@ -36,7 +36,7 @@ When setting up the sidebar, you must define the sidebar element as a child of t
 
 The **location** property determines whether the sidebar appears to the user on the left or right of the screen. This is where the sidebar exists during configuration, and unlike the shopping cart's similar property, it cannot be on the bottom of the configurator, nor can it be moved during configuration.
 
-The child of the sidebar can only be a **tierdef** object. If you add a **tier** or a **columnset** element as a child, the layout fails. After a tierdef is defined in the CSV, you can then add the necessary tiers, columnsets, and [[fields|fields]] as children as in any other tier.
+The child of the sidebar can only be a **tierdef** object. If you add a **tier** or a **columnset** element as a child, the layout fails. After a tierdef is defined in the CSV, you can then add the necessary tiers, columnsets, and fields as children as in any other tier.
 
 Only one sidebar can exist on a layout. Adding another will result in their being combined into the same tier upon deployment.
 
@@ -60,7 +60,3 @@ To show a product list other than the shopping cart to the end user, you can hos
 
 [Example CSV](https://drive.google.com/file/d/1uB6SjfiHTjff-cI54zdffaEf6bUzSuNy/view?usp=sharing)
 
-## Related
-
-- [[layout_editor|Layout editor]]
-- [[fields|Fields]]

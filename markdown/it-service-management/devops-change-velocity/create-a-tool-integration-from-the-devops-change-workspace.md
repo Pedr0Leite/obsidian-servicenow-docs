@@ -14,7 +14,7 @@ breadcrumb: [User created, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Create a tool integration from the DevOps Change Workspace
 
-Create a tool integration from the DevOps Change Workspace for integrating additional orchestration, planning, and coding tools that are not available by default in the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Create a tool integration from the DevOps Change Workspace for integrating additional orchestration, planning, and coding tools that are not available by default in the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -117,6 +117,3 @@ You must create webhooks to send inbound events to DevOps Change Velocity using 
 
 **Parent Topic:**[User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

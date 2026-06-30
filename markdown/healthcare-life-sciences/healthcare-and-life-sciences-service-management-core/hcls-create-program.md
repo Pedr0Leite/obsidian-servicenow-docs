@@ -14,7 +14,7 @@ breadcrumb: [Configure programs and program services, Configure, Healthcare and 
 
 # Configure a program
 
-Add a program for use within the [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] applications.
+Add a program for use within the Healthcare and Life Sciences Service Management applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn.hcls\_manager or admin
 
 To associate an eligibility criteria checklist with the program, create a checklist. For more information, see [Create a checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAChecklist.md).
 
-**Note:** By default, the application provides a few checklist templates that you can use as a reference when creating a checklist for a [[hcls-overview|Healthcare and Life Sciences]] program.
+**Note:** By default, the application provides a few checklist templates that you can use as a reference when creating a checklist for a Healthcare and Life Sciences program.
 
 ## About this task
 
@@ -151,7 +151,4 @@ Role required: sn.hcls\_manager or admin
 
 3.  On the Program form, click **Publish** to make the program available for use within Healthcare and Life Sciences Service Management applications.
 
-## Related
 
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-overview|Healthcare and Life Sciences]]

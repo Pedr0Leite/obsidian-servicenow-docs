@@ -14,7 +14,7 @@ breadcrumb: [Editing functions for knowledge articles in the HTML editor, Creati
 
 # Undo or redo typing actions or formatting while authoring knowledge articles
 
-Quickly revert typing actions or formatting that you made during the current session of editing a knowledge article using the [[html|HTML]] editor.
+Quickly revert typing actions or formatting that you made during the current session of editing a knowledge article using the HTML editor.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Open the knowledge article in which you want to use the HTML editor.
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface or in Agent Workspace. To create or [[edit-knowledge-article|edit a knowledge article]] in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or [[edit-article-workspace|edit a knowledge article in Agent Workspace]], see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
 
 ## Procedure
 
@@ -34,9 +34,4 @@ You can also use the HTML editor when creating or editing a knowledge article us
     -   To redo a change that has been undone, click the redo icon \(\[Omitted image "redo.png"\] Alt text: Redo icon\).
     **Note:** The undo \(\[Omitted image "undo.png"\] Alt text: Undo icon\) and redo \(\[Omitted image "redo.png"\] Alt text: Redo icon\) icons are available based on the number of actions that are saved to be undone or certain actions that can't be undone.
 
-## Related
 
-- [[html|HTML]]
-- [[knowledge-management|Knowledge Management]]
-- [[edit-knowledge-article|Edit a knowledge article]]
-- [[edit-article-workspace|Edit a knowledge article in Agent Workspace]]

@@ -16,7 +16,7 @@ breadcrumb: [Use translation management, Using Knowledge Management, Knowledge M
 
 Perform bulk translations of knowledge articles in multiple languages using the Localization Framework application.
 
-The Bulk Translations feature extends the localization service in [[knowledge-management|Knowledge Management]] to support customers across geographies by localizing knowledge articles in the language they speak. You can select multiple knowledge articles and translate them into different languages by using the ServiceNow® Localization Framework application. Once the translation process is complete, you can access the translated article from the Knowledge \[kb\_knowledge\] table. You can request translations for up to 200 articles at a time.
+The Bulk Translations feature extends the localization service in Knowledge Management to support customers across geographies by localizing knowledge articles in the language they speak. You can select multiple knowledge articles and translate them into different languages by using the ServiceNow® Localization Framework application. Once the translation process is complete, you can access the translated article from the Knowledge \[kb\_knowledge\] table. You can request translations for up to 200 articles at a time.
 
 ## Translation workflow
 
@@ -48,6 +48,3 @@ Translate knowledge articles into different languages using machine translations
 
 **Parent Topic:**[Use translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-translation-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

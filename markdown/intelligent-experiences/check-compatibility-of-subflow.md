@@ -41,8 +41,5 @@ Role required: admin
 
 Subflows must be activated for AI use in Flow Designer to be available as MCP tools. Open the subflow, go to Manage Security, enable Callable by Client API, and add a Client Callable Flow Object ACL with execute permission. Skipping this step will prevent the subflow from appearing in the tool creation list.
 
-**Parent Topic:**[[mcp-server-console-reference|MCP Server Console reference]]
+**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
-## Related
-
-- [[mcp-server-console-reference|MCP Server Console reference]]

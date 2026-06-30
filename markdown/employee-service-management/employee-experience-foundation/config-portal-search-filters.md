@@ -39,7 +39,7 @@ You can configure the Topic content widget for a portal-specific search applicat
 
     |Field|Description|
     |-----|-----------|
-    |Portal|Name of the portal `[[employee-center-landing-page|Employee Center]]`.|
+    |Portal|Name of the portal `Employee Center`.|
     |Application|Name of the application `Global`.|
     |Widget instance|Topic content widget instance, for example, `ESC Topic Page`. In the lookup, add filter condition \( widget=Topic content\) to filter the topic content widget instances.|
     |Search application|Default search application, for example, `ESC Portal Search Application`.|
@@ -56,6 +56,3 @@ You can configure the Topic content widget for a portal-specific search applicat
 
 Based on this configuration, your employees can filter content by Search Filter and view results specific to portal and topic search results. For example, when you select ESC portal catalogs as a filter, employees can filter and view the catalogs only.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure a Learning assignment custom report in Workday
 
-Configure a custom report for Learning assignments in Workday. The [[workday-external-content-connector|Workday external content connector]] uses this custom report to make content and metadata from your Learning assignment data searchable.
+Configure a custom report for Learning assignments in Workday. The Workday external content connector uses this custom report to make content and metadata from your Learning assignment data searchable.
 
 ## Before you begin
 
@@ -310,7 +310,7 @@ Lookup Related Value
 
 -   Lookup Field: CF\_blended source
 -   Related Business Object: Blended Course
--   Return Value: [[reference-email-admin|Reference]] ID
+-   Return Value: Reference ID
 
 
 </td></tr><tr><td>
@@ -959,7 +959,7 @@ Lesson
 
     3.  Select **OK**.
 
-        Workday displays [[r_DirectJDBCProbeParameters|parameters]] and URLs for your sample report.
+        Workday displays parameters and URLs for your sample report.
 
     4.  Long-press \(or right-click\) the **CSV** link and copy the CSV URL.
 
@@ -996,7 +996,7 @@ Lesson
 
 ## What to do next
 
-Provide the following items to the connector administrator who creates your Workday [[ext-cont-connectors-landing-page|external content connectors]]:
+Provide the following items to the connector administrator who creates your Workday external content connectors:
 
 -   The base URL for your Workday tenant that you copied in step [14.a](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-learning-assignment-report-workday.md).
 -   The Workday tenant name that you copied in step [14.b](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-learning-assignment-report-workday.md).
@@ -1007,9 +1007,3 @@ Your connector administrator needs these items to configure a Workday external c
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

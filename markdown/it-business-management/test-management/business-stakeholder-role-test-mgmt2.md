@@ -14,9 +14,9 @@ breadcrumb: [Test Management 2.0, Test Management applications, Strategic Portfo
 
 # Business stakeholder role for Test Management 2.0
 
-Use the business stakeholder role to read and retrieve data from any table of the [[test-management2-landing-page|Test Management 2.0]] applications to generate reports.
+Use the business stakeholder role to read and retrieve data from any table of the Test Management 2.0 applications to generate reports.
 
-When you activate the Business Stakeholder plugin \(com.snc.business\_stakeholder\) in your ServiceNow instance, the Read only roles for Test Management 2.0 plugin \(com.snc.tm2\_read\_roles\) is also activated. This plugin provides a business stakeholder role \(sn\_tm2\_read\) with which you can access all the tables of Test Management 2.0 application. This role also allows read-only access to the [[r_TestManagementDashboard|Test Management dashboard]]. You can assign this role to any user in your organization who is a business stakeholder.
+When you activate the Business Stakeholder plugin \(com.snc.business\_stakeholder\) in your ServiceNow instance, the Read only roles for Test Management 2.0 plugin \(com.snc.tm2\_read\_roles\) is also activated. This plugin provides a business stakeholder role \(sn\_tm2\_read\) with which you can access all the tables of Test Management 2.0 application. This role also allows read-only access to the Test Management dashboard. You can assign this role to any user in your organization who is a business stakeholder.
 
 ## Plugin availability
 
@@ -42,7 +42,7 @@ Task Test\[sn\_test\_management\_m2m\_task\_test\]
 
 </td><td>
 
-Associates [[c_Tests|tests]] to multiple scrum tasks.
+Associates tests to multiple scrum tasks.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Test Plan\[sn\_test\_management\_test\_plan\]
 
 </td><td>
 
-Stores details of [[c_TestPlans|test plans]].
+Stores details of test plans.
 
 </td></tr><tr><td>
 
@@ -158,10 +158,3 @@ Stores details of test versions.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[r_TestManagementDashboard|Test Management dashboard]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

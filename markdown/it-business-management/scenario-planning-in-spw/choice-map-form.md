@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Choice map form
 
-Understand the fields of the [[choice-map-form-ppw|choice map form]]. This form is used to create choice maps.
+Understand the fields of the choice map form. This form is used to create choice maps.
 
 |Field|Description|
 |-----|-----------|
@@ -25,6 +25,3 @@ Understand the fields of the [[choice-map-form-ppw|choice map form]]. This form 
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[choice-map-form-ppw|Choice map form]]

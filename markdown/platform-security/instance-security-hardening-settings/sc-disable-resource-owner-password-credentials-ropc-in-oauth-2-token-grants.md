@@ -14,11 +14,11 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Disable resource owner password credentials \(ROPC\) in OAuth 2 token grants \[New in Security Center 7.0\]
 
-Prevent Resource Owner Password Credentials \(ROPC\) from granting [[oauth-inbound-and-outbound|OAuth]] 2 tokens.
+Prevent Resource Owner Password Credentials \(ROPC\) from granting OAuth 2 tokens.
 
 By default, Resource Owner Password Credentials \(ROPC\) are allowed to grant OAuth 2 tokens on your instances when a client application directly requests an access token using a user name and password. When the **glide.oauth.inbound.ropc.grant\_type.disabled** is set to **true**, ROPC is inactive and can’t be used to grant OAuth 2 tokens.
 
-Ensure that the **glide.oauth.inbound.ropc.grant\_type.disabled** system property is set to **true**. If the property doesn’t exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **false**. If this property exists on that table, it defaults to **false**.
+Ensure that the **glide.oauth.inbound.ropc.grant\_type.disabled** system property is set to **true**. If the property doesn’t exist on the System Properties \[sys\_properties\] table, the default value is **false**. If this property exists on that table, it defaults to **false**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 3.3
 -   CVSS score: Low
--   When the property is set to **false**, using ROPC to grant OAuth 2 tokens is allowed. ROPC is considered less secure that other [[c_Authentication|authentication]] flows because the user's credentials are exposed to the application. This can lead to vulnerabilities in situations where the client is compromised and suffers from weaknesses similar to those of basic auth. OAuth 2.1 has deprecated ROPC.
+-   When the property is set to **false**, using ROPC to grant OAuth 2 tokens is allowed. ROPC is considered less secure that other authentication flows because the user's credentials are exposed to the application. This can lead to vulnerabilities in situations where the client is compromised and suffers from weaknesses similar to those of basic auth. OAuth 2.1 has deprecated ROPC.
 
 </td></tr><tr><td>
 
@@ -110,17 +110,10 @@ Dependencies and prerequisites
 
 </td><td>
 
-The [[c_OAuthApplications|OAuth 2.0]] \(com.snc.platform.security.oauth\) plugin must be active.
+The OAuth 2.0 \(com.snc.platform.security.oauth\) plugin must be active.
 
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[c_OAuthApplications|OAuth 2.0]]

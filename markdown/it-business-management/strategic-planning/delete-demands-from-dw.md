@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Defer demands
 
-[[defer-demands-ppw|Defer demands]] in Next Experience for [[c_DemandManagement|Demand Management]] to move them to the backlog. You can review them and move them back to any other demand state.
+Defer demands in Next Experience for Demand Management to move them to the backlog. You can review them and move them back to any other demand state.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: it\_demand\_manager
 
     **Note:** You can defer the demands that are not in the Draft or Completed states.
 
-## Related
 
-- [[defer-demands-ppw|Defer demands]]
-- [[c_DemandManagement|Demand Management]]

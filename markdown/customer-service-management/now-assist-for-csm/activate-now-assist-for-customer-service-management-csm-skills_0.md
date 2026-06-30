@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Activate Now Assist Skills
 
-Enable Now Assist generative AI skills to provide AI-driven capabilities such as summarization, response suggestions, and [[case-sentiment-analysis|sentiment analysis]].
+Enable Now Assist generative AI skills to provide AI-driven capabilities such as summarization, response suggestions, and sentiment analysis.
 
 This video provides an overview of how you can set up skills and monitor and analyze usage via the Now Assist Admin console.
 
@@ -24,7 +24,7 @@ Each skill is configured separately, and tailored to support agents across vario
 
 |Skill|Description|
 |-----|-----------|
-|Chat Summarization|Generate condensed summaries of conversations between agents or Virtual Agents and highlight key [[gamification-components-points|points]] for quick reference. For more information, see [Configure chat summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-chat-summarization-in-now-assist_0.md).|
+|Chat Summarization|Generate condensed summaries of conversations between agents or Virtual Agents and highlight key points for quick reference. For more information, see [Configure chat summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-chat-summarization-in-now-assist_0.md).|
 |Call Summarization|Generate summaries of agent-customer calls within the Active Chat window to capture key call details for better agent follow-up and record keeping. For more information, see [Configure call summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-call-summarization-in-now-assist_0.md).|
 |Resolution Notes|Create summaries of case resolutions to help agents quickly understand resolution details and reference notes in future similar interactions. For more information, see [Configure resolution notes generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-resolution-notes-generation-in-now-assist_0.md).|
 |Knowledge Generation|Draft knowledge articles based on resolving case tasks for agents to review and edit before publishing. For more information, see [Configure knowledge generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-knowledge-generation-in-now-assist_0.md).|
@@ -52,7 +52,7 @@ Common Configuration components:
 
     **Note:** The `sn_gaf.data_writer` role includes `platform_ml_read` by default. Since `sn_gaf.data_writer` is assigned to agent roles like `sn_esm_agent`, those agents inherit `platform_ml_read` as well, which gives them broader access than intended. To avoid unintended access, never assign `platform_ml_read` directly to a user- it should always be inherited through their agent role.
 
--   **Display:** determine where the skill appears. For example, the call summarization skill can be configured to display on [[migration-forms|forms]] and workspaces or in the Now Assist panel.
+-   **Display:** determine where the skill appears. For example, the call summarization skill can be configured to display on forms and workspaces or in the Now Assist panel.
 
 Saving and activating the configuration setup process is the same across all Now Assist skills.
 
@@ -61,8 +61,3 @@ Saving and activating the configuration setup process is the same across all Now
 1.  After selecting **Review and Activate** to examine changes, select **Done** to close the skill configuration settings.
 2.  Select **Skill** to turn on the skill for agents and complete the configuration.
 
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[gamification-components-points|Points]]
-- [[migration-forms|Forms]]

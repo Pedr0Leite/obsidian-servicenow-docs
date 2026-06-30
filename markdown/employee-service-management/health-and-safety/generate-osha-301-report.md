@@ -20,14 +20,14 @@ Generate an OSHA 301 form for an injury or illness associated with a safety inci
 
 Ensure that the following conditions are met.
 
--   The [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
+-   The Health and Safety Incident Management OSHA Content Pack \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
 -   The **Recordable** option is selected on the injury and illness report.
 
 Role required: sn\_ohs\_im.compliance\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
     The Health and Safety Workspace opens in a new tab of the browser window.
 
@@ -52,7 +52,7 @@ Steps
 1.  In the **Safety Incidents** list, select **All**.
 2.  In the list, select the incident that you want to generate the OSHA 301 form for.
 3.  Select the **Report an incident** tab to open the playbook.
-4.  In the **Add injury and illness** [[activity-lxp|activity]], select the injury and illness report to generate the OSHA 301 form for.
+4.  In the **Add injury and illness** activity, select the injury and illness report to generate the OSHA 301 form for.
 
 
 </td></tr><tr><td id="d719996e155">
@@ -86,9 +86,3 @@ Steps
 
 **Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/generating-osha-forms.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

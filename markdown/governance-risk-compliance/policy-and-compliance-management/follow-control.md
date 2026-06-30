@@ -14,7 +14,7 @@ breadcrumb: [Manage controls, Classic UI, Policy and Compliance Management, Gove
 
 # Follow a control
 
-Connect integrates with [[r_PolicyComplianceMgmt|Policy and Compliance Management]] providing an overlay to the standard interface, allowing users to participate in conversations while they work and collaborate on the control record.
+Connect integrates with Policy and Compliance Management providing an overlay to the standard interface, allowing users to participate in conversations while they work and collaborate on the control record.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ For more information about Connect, see [Connect](https://raw.githubusercontent.
     |**To add the Connect sidebar**|Click **Open Connect mini**.|
     |**To add the Connect full-screen view**|Click **Open Connect Full**.|
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

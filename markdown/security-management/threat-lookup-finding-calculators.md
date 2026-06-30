@@ -12,7 +12,7 @@ breadcrumb: [Threat Intelligence administration, Threat Intelligence, Enterprise
 
 # Threat Lookup Finding Calculators
 
-[[tisc-threat-lookup|Threat Lookup]] Finding Calculator helps you calculate the observable findings based on the responses received.
+Threat Lookup Finding Calculator helps you calculate the observable findings based on the responses received.
 
 You can create a Threat Lookup Finding Calculator for your integration and use a script to determine how you want to identify the various observable findings. The Threat Lookup Finding Calculator includes a sample script that comes with the base system, which you can use to identify the observable findings or you can modify this script according to your requirements.
 
@@ -31,7 +31,7 @@ When you have multiple threat lookup results for an observable from the various 
 
 ## Observable finding override modes
 
-You can control how threat lookup results update observable findings by configuring the override mode. Navigate to **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Administration** &gt; **Properties** and set the **Observable finding override mode** property to one of the following values:
+You can control how threat lookup results update observable findings by configuring the override mode. Navigate to **Threat Intelligence** &gt; **Administration** &gt; **Properties** and set the **Observable finding override mode** property to one of the following values:
 
 -   **Default** — The system always recalculates findings from threat lookup results. Any previous finding value is overwritten.
 -   **Override** — Users can manually override the observable finding for a limited time. The system does not change the finding during the configured validity period.
@@ -39,7 +39,3 @@ You can control how threat lookup results update observable findings by configur
 
 When using precedence mode, configure the **Observable finding precedence order** property to define the priority ranking. The default order is Malicious, Suspicious, Unknown, Clean, where Malicious has the highest priority.
 
-## Related
-
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -16,7 +16,7 @@ Create or edit a page to add decision trees to Service Portal so internal users 
 
 ## Before you begin
 
-The decision tree that you want to add to the Service Portal page must exist. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+The decision tree that you want to add to the Service Portal page must exist. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 Role required: sp\_admin or admin
 
@@ -77,18 +77,12 @@ Select the page.
 
 ## What to do next
 
-If you want the decision tree theme to match the Service Portal, you can apply a UX theme to change your existing theme. For more information, see [[apply-new-theme-to-service-portal|Match the theme of the decision tree component with the Service Portal page]].
+If you want the decision tree theme to match the Service Portal, you can apply a UX theme to change your existing theme. For more information, see [Match the theme of the decision tree component with the Service Portal page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/apply-new-theme-to-service-portal.md).
 
 **Related topics**  
 
 
-[[setting-up-guided-decisions|Configuring Guided Decisions]]
+[Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)
 
-[[configuring-guided-decisions|Configuring guidances and decision trees]]
+[Configuring guidances and decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-guided-decisions.md)
 
-## Related
-
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[apply-new-theme-to-service-portal|Match the theme of the decision tree component with the Service Portal page]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[configuring-guided-decisions|Configuring guidances and decision trees]]

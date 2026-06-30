@@ -32,7 +32,7 @@ Role required: asset or contract\_manager
 
     All the expense lines for the contract are listed. The total cost of the contract and its current value are also shown.
 
-4.  Select an [[c_ExpenseLine|expense line]] to view its details.
+4.  Select an expense line to view its details.
 
 
 **Parent Topic:**[Expense Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/c_ExpenseLine.md)
@@ -46,6 +46,3 @@ Role required: asset or contract\_manager
 
 [Domain separation and Expense Line]()
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

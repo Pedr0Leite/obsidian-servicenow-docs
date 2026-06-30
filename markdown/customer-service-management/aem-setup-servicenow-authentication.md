@@ -171,7 +171,7 @@ OIDC provider with which you registered your ServiceNow instance.
 
 ## Configure OIDC provider details in Adobe Experience Manager
 
-Configure the third-party OIDC provider details in your Adobe Experience Manager \(AEM\) instance to access the [[servicenow-web-components-overview|ServiceNow components]] as an authenticated user.
+Configure the third-party OIDC provider details in your Adobe Experience Manager \(AEM\) instance to access the ServiceNow components as an authenticated user.
 
 ### Before you begin
 
@@ -252,6 +252,4 @@ Name of the user property to store the authentication refresh token. **Note:** O
 </td></tr></tbody>
 </table>5.  Click **Save**.
 
-## Related
 
-- [[servicenow-web-components-overview|ServiceNow components]]

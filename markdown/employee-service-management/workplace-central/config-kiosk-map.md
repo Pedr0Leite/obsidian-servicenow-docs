@@ -18,13 +18,13 @@ Configure the kiosk position and camera position on the map.
 
 ## Before you begin
 
-[[create-kiosk-device-config|Create a kiosk configuration]] to use for the [[kiosk-indoor-mapping|kiosk indoor mapping]] feature. For more information about creating a kiosk configuration, see [Create a kiosk configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-device-config.md).
+Create a kiosk configuration to use for the kiosk indoor mapping feature. For more information about creating a kiosk configuration, see [Create a kiosk configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/create-kiosk-device-config.md).
 
 Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
 2.  Select the Kiosk Indoor Mapping icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\).
 
@@ -48,7 +48,7 @@ Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
 9.  Select **Edit position**, then move the map to set the default camera position.
 
-    You can also enter values in the fields to set the camera position.From [[workplace-services-kiosk|Workplace Services Kiosk]] version 1.4.3, you can enter decimal values for the camera position.
+    You can also enter values in the fields to set the camera position.From Workplace Services Kiosk version 1.4.3, you can enter decimal values for the camera position.
 
     |Field|Value Range|
     |-----|-----------|
@@ -63,11 +63,11 @@ Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
 The kiosk position and map settings are saved in the kiosk configuration.
 
-If you get the `Map can't be initialized` error on the [[map-configuration-v2|Map configuration tab]], try any of the following actions:
+If you get the `Map can't be initialized` error on the Map configuration tab, try any of the following actions:
 
 -   Ensure that the kiosk location matches the location of the map that you want to use.
 -   Provide the view type permissions to the user who must have access to kiosk indoor mapping.
--   Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **View types**
+-   Navigate to **All** &gt; **Indoor Mapping** &gt; **View types**
     -   Ensure that the **Kiosk** view type is active.
     -   If the **Kiosk** view type is not available, ensure that you have installed [Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk.md).
 
@@ -77,11 +77,3 @@ If you get the `Map can't be initialized` error on the [[map-configuration-v2|Ma
 
 **Next topic:**[Configure a module for kiosk indoor mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-kiosk-ind-map-module.md)
 
-## Related
-
-- [[create-kiosk-device-config|Create a kiosk configuration]]
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[map-configuration-v2|Map Configuration tab]]
-- [[Indoor-mapping|Indoor Mapping]]

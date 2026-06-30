@@ -21,7 +21,7 @@ For a given ACL, ACL Trails show:
 -   Attribute changes
 -   Required role relation changes
 
-To access the ACL Trails, navigate to **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **ACL Trails**. The ACL Trails page is displayed with the following information.
+To access the ACL Trails, navigate to **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **ACL Trails**. The ACL Trails page is displayed with the following information.
 
 | | |
 |---|---|
@@ -34,6 +34,3 @@ To access the ACL Trails, navigate to **All** &gt; **System Security** &gt; **[[
 
 \[Omitted image "acl-trails.png"\] Alt text: ACL Trails
 
-## Related
-
-- [[identity-audit|Identity and Access Audit]]

@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology Discovery
 
-You can use the [[operational-technology-overview|Operational Technology]] Native Discovery solution to amplify the visibility of devices in your OT environment. You can also use the IT Discovery for Operational Technology \(OT\) Networks function to discover IT class OT devices.
+You can use the Operational Technology Native Discovery solution to amplify the visibility of devices in your OT environment. You can also use the IT Discovery for Operational Technology \(OT\) Networks function to discover IT class OT devices.
 
 ## Get started
 
@@ -24,19 +24,14 @@ Explore\[Omitted image "BUS\_64px\_Explore\_YG.png"\] Alt text:
 
 </td></tr><tr><td>
 
-[[operational-technology-discovery-native-components|Operational Technology Native Discovery components]]
+[Operational Technology Native Discovery components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-discovery-native-components.md)
 
 </td><td>
 
-[[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
+[IT Discovery for Operational Technology \(OT\) Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/discovery-for-operational-technology.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 If you have any errors or difficulties while using the Operational Technology applications, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[operational-technology-discovery-native-components|Operational Technology Native Discovery components]]
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[operational-technology-overview|Operational Technology]]

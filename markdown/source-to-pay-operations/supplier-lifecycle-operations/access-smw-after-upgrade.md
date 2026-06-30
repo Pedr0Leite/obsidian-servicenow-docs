@@ -14,7 +14,7 @@ breadcrumb: [Post-upgrade tasks, Install Supplier Case Management, Configure, Su
 
 # Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release
 
-After upgrading to the Australia release, you can see only the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] on the **All** navigation tab. You don't have to do anything if you choose to continue to use the Source-to-Pay Workspace.
+After upgrading to the Australia release, you can see only the Source-to-Pay Workspace on the **All** navigation tab. You don't have to do anything if you choose to continue to use the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** To use the [[supplier|Supplier]] Manager Workspace without any issues, ensure that you are on the latest version of the Vancouver release \(2.4.4\) before upgrading to Washington DC or later releases. For more information, see the KB article [KB1651502](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651502).
+**Important:** To use the Supplier Manager Workspace without any issues, ensure that you are on the latest version of the Vancouver release \(2.4.4\) before upgrading to Washington DC or later releases. For more information, see the KB article [KB1651502](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651502).
 
 After upgrading to the Australia release, you can see both the Source-to-Pay Workspace and Supplier Manager Workspace on the **Workspaces** tab. If you want to use the Supplier Manager Workspace instead of the default Source-to-Pay Workspace, run the **fixscript\_migrate\_workspace\_to\_smw.xml** fix script.
 
@@ -72,7 +72,3 @@ You can download the fix script XML files from the [ServiceNow Store](https://st
 
 [Restructured Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

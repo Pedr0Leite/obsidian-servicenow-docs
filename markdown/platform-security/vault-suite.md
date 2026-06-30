@@ -13,7 +13,7 @@ breadcrumb: [Exploring ServiceNow Vault, ServiceNow Vault]
 
 # Vault Suite
 
-Vault Suite deploys the complete set of [[servicenow-vault-landing|ServiceNow Vault]] capabilities on your instance automatically, eliminating manual plugin setup.
+Vault Suite deploys the complete set of ServiceNow Vault capabilities on your instance automatically, eliminating manual plugin setup.
 
 Vault Suite is available on the ServiceNow Store. When you install Vault Suite, all included capabilities are activated on your instance automatically. You don't have to install each capability separately.
 
@@ -45,7 +45,7 @@ Unified administration dashboard for managing and monitoring all Vault Suite cap
 
 </td></tr><tr><td>
 
-[[data-privacy-landing|Data Privacy]]
+Data Privacy
 
 </td><td>
 
@@ -57,7 +57,7 @@ Discovers, classifies, and anonymizes sensitive data to prevent leakage during c
 
 </td></tr><tr><td>
 
-[[code-signing-landing|Code Signing]]
+Code Signing
 
 </td><td>
 
@@ -69,11 +69,11 @@ Verifies the integrity of code artifacts on the platform.
 
 </td></tr><tr><td>
 
-[[field-encryption|Field Encryption]]
+Field Encryption
 
 </td><td>
 
-com.glide.field.[[encryption-landing|encryption]].enterprise
+com.glide.field.encryption.enterprise
 
 </td><td>
 
@@ -81,7 +81,7 @@ Provides unlimited field and attachment encryption with customer-managed key sup
 
 </td></tr><tr><td>
 
-Zero Trust Access — Continuous [[c_Authentication|Authentication]]
+Zero Trust Access — Continuous Authentication
 
 </td><td>
 
@@ -89,7 +89,7 @@ com.snc.zero\_trust\_continuous\_authentication
 
 </td><td>
 
-Requires continuous re-authentication when [[users|users]] access sensitive data.
+Requires continuous re-authentication when users access sensitive data.
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Controls access to sensitive operations at the session level.
 
 </td></tr><tr><td>
 
-Log [[export|Export]] Service
+Log Export Service
 
 </td><td>
 
@@ -125,7 +125,7 @@ com.sn\_logstoanalytics
 
 </td><td>
 
-Forwards instance [[logs|logs]] to external analytics platforms.
+Forwards instance logs to external analytics platforms.
 
 </td></tr><tr><td>
 
@@ -140,21 +140,7 @@ com.glide.platform.cloud\_encryption
 Encrypts data at rest at the cloud platform level.**Note:** Cloud Encryption is not installed automatically with Vault Suite because provisioning requires explicit user consent. To provision Cloud Encryption on your instance, see [KB1117369](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1117369).
 
 </td></tr></tbody>
-</table>**Note:** To install Vault Suite, check your entitlements to determine whether you have the ServiceNow Vault subscription, then [[c_requestAPI|request]] it from the ServiceNow Store. For installation steps, see [[install-vault-suite|Install Vault Suite]].
+</table>**Note:** To install Vault Suite, check your entitlements to determine whether you have the ServiceNow Vault subscription, then request it from the ServiceNow Store. For installation steps, see [Install Vault Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/install-vault-suite.md).
 
-**Parent Topic:**[[exploring-servicenow-vault|Exploring ServiceNow Vault]]
+**Parent Topic:**[Exploring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-servicenow-vault.md)
 
-## Related
-
-- [[install-vault-suite|Install Vault Suite]]
-- [[exploring-servicenow-vault|Exploring ServiceNow Vault]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[data-privacy-landing|Data Privacy]]
-- [[code-signing-landing|Code Signing]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[export|Export]]
-- [[logs|Logs]]
-- [[c_requestAPI|request]]

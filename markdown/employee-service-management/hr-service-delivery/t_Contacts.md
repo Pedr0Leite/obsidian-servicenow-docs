@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Add or modify contacts for HR
 
-You can add or modify contact information to an [[c_HRProfileRecords|HR profile]] and specify who to contact in an emergency through the Contacts module or related list.
+You can add or modify contact information to an HR profile and specify who to contact in an emergency through the Contacts module or related list.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ For information on creating or editing an HR profile, see [Add or modify an HR p
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

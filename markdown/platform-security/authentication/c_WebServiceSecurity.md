@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Access Management]
 
 # Web service security
 
-Enforce security using [[basic-authentication|basic authentication]], mutual [[c_Authentication|authentication]], or WS-Security.
+Enforce security using basic authentication, mutual authentication, or WS-Security.
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
@@ -26,13 +26,7 @@ Enforce security using [[basic-authentication|basic authentication]], mutual [[c
 
 [Configure mutual authentication\[Omitted image "bus-optimize-manage.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_MutualAuthentication.md)
 
- Use mutual authentication to establish trust by exchanging secure sockets layer \(SSL\) [[c_Certificates|certificates]].
+ Use mutual authentication to establish trust by exchanging secure sockets layer \(SSL\) certificates.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[c_Authentication|Authentication]]
-- [[c_Certificates|Certificates]]

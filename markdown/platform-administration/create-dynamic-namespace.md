@@ -22,7 +22,7 @@ Role required: dynamic\_schema\_writer
 
 All dynamic categories and dynamic attributes belong to a dynamic namespace that you can associate with one or more dynamic attribute store fields.
 
-A dynamic namespace is automatically created when you [[create-dynamic-attribute-store-field-transient|create a dynamic attribute store field]]. However, you can also create a dynamic namespace manually, and then associate it with one or more store fields. You might create a dynamic namespace this way in the following scenarios:
+A dynamic namespace is automatically created when you create a dynamic attribute store field. However, you can also create a dynamic namespace manually, and then associate it with one or more store fields. You might create a dynamic namespace this way in the following scenarios:
 
 -   You created a dynamic attribute store field for storing transient attributes, which automatically created an associated namespace, but now you want to associate the store field with a different namespace that contains a different set of dynamic categories and dynamic attributes.
 -   You created multiple dynamic attribute store fields on one or more tables, and you want them all to share the dynamic categories and dynamic attributes that you defined in a new namespace.
@@ -31,7 +31,7 @@ Note that changing the namespace associated with a dynamic attribute store field
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Namespaces**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Namespaces**.
 
 2.  Select **New**.
 
@@ -51,18 +51,9 @@ Note that changing the namespace associated with a dynamic attribute store field
 
 ## What to do next
 
--   [[add-dynamic-attributes|Create a dynamic attribute]]
--   [[create-dynamic-category|Create a dynamic category]]
--   [[add-dynamic-attributes-dynamic-category|Include dynamic attributes in a dynamic category]]
--   [[create-choice-set|Create a dynamic choice set]]
--   [[update-dynamic-namespace-dynamic-attribute-store|Associate a dynamic attribute store with a different namespace]]
+-   [Create a dynamic attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md)
+-   [Create a dynamic category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-category.md)
+-   [Include dynamic attributes in a dynamic category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes-dynamic-category.md)
+-   [Create a dynamic choice set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-choice-set.md)
+-   [Associate a dynamic attribute store with a different namespace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/update-dynamic-namespace-dynamic-attribute-store.md)
 
-## Related
-
-- [[add-dynamic-attributes|Create a dynamic attribute]]
-- [[create-dynamic-category|Create a dynamic category]]
-- [[add-dynamic-attributes-dynamic-category|Include dynamic attributes in a dynamic category]]
-- [[create-choice-set|Create a dynamic choice set]]
-- [[update-dynamic-namespace-dynamic-attribute-store|Associate a dynamic attribute store with a different namespace]]
-- [[create-dynamic-attribute-store-field-transient|Create a dynamic attribute store field]]
-- [[dynamic-schema|Dynamic Schema]]

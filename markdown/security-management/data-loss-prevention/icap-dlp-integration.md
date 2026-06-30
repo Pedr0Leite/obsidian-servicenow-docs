@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Data Loss Prevention Incident Response, Security Operati
 
 # Internet Content Adaption Protocol \(ICAP\) integration for DLP IR
 
-The Internet Content Adaption Protocol \(ICAP\) DLP integration supports the ingestion of [[dlp-landing|Data Loss Prevention Incident Response]] alerts, allows the fetching of match content, and evidence files from Amazon S3 created on the ICAP supported Data Loss Prevention Incident Response deployment.
+The Internet Content Adaption Protocol \(ICAP\) DLP integration supports the ingestion of Data Loss Prevention Incident Response alerts, allows the fetching of match content, and evidence files from Amazon S3 created on the ICAP supported Data Loss Prevention Incident Response deployment.
 
 After the alerts are ingested, you can use the DLP workspace to view the required key information such as match content, alert severity, and various incident management functionalities to remediate the DLP incidents.
 
@@ -30,14 +30,14 @@ This integration includes the following key features:
 -   Display ingested alerts in the DLP Workspace: Once the alerts are ingested, they should be displayed in the DLP workspace, providing key details about each alert such as match content, alert severity, and relevant metadata.
 -   Match content: Sensitive information records are created during ingestion, match content is fetched when the record is opened.
 -   Evidence file download: The system would allow users to download associated evidence files directly from the DLP workspace for further investigation or review.
--   Ability to customize and define the severity [[mapping-logrhythm|mapping]] between ICAP DLP incidents with ServiceNow incidents.
+-   Ability to customize and define the severity mapping between ICAP DLP incidents with ServiceNow incidents.
 
 -   **[Getting started with ICAP DLP integration for Data Loss Prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/getting-started-icap-integration.md)**  
 Before you can use the integration, you must download it from the ServiceNow® Store
 -   **[Install and configure the ICAP DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/install-icap-dlp-integration.md)**  
-[[configure-cortex-xsiam-siem|Install and configure]] the  provider ICAP DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  provider ICAP DLP incident data.
+Install and configure the  provider ICAP DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  provider ICAP DLP incident data.
 -   **[Create a profile for ICAP DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-for-icap.md)**  
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance. Determine the  ICAP DLP alerts that are suitable for creating DLP incidents.
+Create an incident profile in your  ServiceNow AI Platform instance. Determine the  ICAP DLP alerts that are suitable for creating DLP incidents.
 -   **[View sensitive information for DLP alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/view-match-content.md)**  
 View the detected sensitive information for DLP alerts.
 -   **[Download evidence files for DLP alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/download-icap-evidence-files.md)**  
@@ -60,9 +60,3 @@ Review the provider ICAP DLP integration settings and modify the default system 
 
 [Data Loss Prevention Incident Response with Microsoft]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[ms-defender-profile|Create an incident profile]]

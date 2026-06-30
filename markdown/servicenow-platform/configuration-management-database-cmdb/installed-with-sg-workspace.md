@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Graph Workspace, Configuration Management Databa
 
 # Components installed with Service Graph Workspace
 
-Several types of components are installed with the activation of the CMDB Workspace \(sn\_cmdb\_ws\) plugin, which includes [[sg-workspace|Service Graph Workspace]]. This includes properties, tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of the CMDB Workspace \(sn\_cmdb\_ws\) plugin, which includes Service Graph Workspace. This includes properties, tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -22,7 +22,7 @@ In addition, the CMDB Workspace plugin adds the CMDB Group type 'CMDB Workspace'
 
 ## Properties installed
 
-The following properties are installed by the [[manage-cmdb|Configuration Management]] \(CMDB\) \(com.snc.cmdb\) plugin which is included in base systems.
+The following properties are installed by the Configuration Management \(CMDB\) \(com.snc.cmdb\) plugin which is included in base systems.
 
 <table id="table_iv2_bwx_dxb"><thead><tr><th>
 
@@ -62,7 +62,7 @@ sn\_cmdb\_ws.ms.discovery\_source\_not\_reporting\_max\_days
 
 </td><td>
 
-Number of days after which if one or more discovery sources stop reporting CIs, that CI is included in the CIs not reported by discovery sources chart in the [[multisource-cmdb|CMDB 360]] view.
+Number of days after which if one or more discovery sources stop reporting CIs, that CI is included in the CIs not reported by discovery sources chart in the CMDB 360 view.
 
  -   Type: integer
 -   Default: 7
@@ -123,7 +123,7 @@ sn\_cmdb\_ws.list.record\_count\_limit
 
 </td><td>
 
-The maximum number of results that the system counts for when using conditional search to search for CIs on the [[cmdb-workspace-home-view|Home view in CMDB Workspace]]. This count shows for example, at the top of the search results list.
+The maximum number of results that the system counts for when using conditional search to search for CIs on the Home view in CMDB Workspace. This count shows for example, at the top of the search results list.
 
  -   Type: integer
 -   Default: 100,000
@@ -174,7 +174,7 @@ CMDB Admin\[sn\_cmdb\_admin\]
 
 </td><td>
 
-Provides the highest level of access to tools and UIs within CMDB Workspace, including full access to the Configuration Item \[cmdb\_ci\] table. A CMDB Admin, for example, can set policies in the [[ci-class-manager-landing-page|CI Class Manager]] and service instance \(application service\) requirements.
+Provides the highest level of access to tools and UIs within CMDB Workspace, including full access to the Configuration Item \[cmdb\_ci\] table. A CMDB Admin, for example, can set policies in the CI Class Manager and service instance \(application service\) requirements.
 
  CMDB Admin can also modify default config records under the default identifier or the default identifier itself.
 
@@ -517,7 +517,7 @@ A [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 Supports demo data for CMDB Workspace charts in various views such as the Home view.
 
- Installed only if **Load demo data** was checked when the [[cmdb-workspace|CMDB Workspace store app]] was installed or upgraded.
+ Installed only if **Load demo data** was checked when the CMDB Workspace store app was installed or upgraded.
 
 </td></tr><tr><td>
 
@@ -613,7 +613,7 @@ NLQ Sample Search
 
 </td><td>
 
-Sample searches that appear when selecting the search box of an [[intelligent-search-cmdb|Intelligent Search for CMDB]] widget.
+Sample searches that appear when selecting the search box of an Intelligent Search for CMDB widget.
 
 </td></tr><tr><td>
 
@@ -623,7 +623,7 @@ NLQ Sample Search Table
 
 </td><td>
 
-[[reference-document-management|References]] the actual tables associated with sample searches that appear when selecting the search box of an Intelligent Search for CMDB widget.
+References the actual tables associated with sample searches that appear when selecting the search box of an Intelligent Search for CMDB widget.
 
 </td></tr><tr><td>
 
@@ -777,7 +777,7 @@ Service Graph Connector
 
 </td><td>
 
-Details about all [[cmdb-sgc-available|Service Graph Connectors]] that are currently available in the ServiceNow Store \(excluding any Innovation Lab connectors\). Data is used to provide a current count for the Service Graph Connectors card in the Insights view.
+Details about all Service Graph Connectors that are currently available in the ServiceNow Store \(excluding any Innovation Lab connectors\). Data is used to provide a current count for the Service Graph Connectors card in the Insights view.
 
  Read only.​
 
@@ -861,7 +861,7 @@ Application Service Insights Data
 
 </td><td>
 
-[[application-services|Service instances \(Application services\)]] details such as classification \(cloud vs. non-cloud, hybrid, or unknown\) and count of CIs associated with the service instance.
+Service instances \(Application services\) details such as classification \(cloud vs. non-cloud, hybrid, or unknown\) and count of CIs associated with the service instance.
 
  Read only.​
 
@@ -873,9 +873,9 @@ Table Attributes
 
 </td><td>
 
-Set of extended properties, per class, that appear in the Attributes pane in the contextual side panel for a selected CI in [[cmdb-workspace-unified-map|Unified Map]].
+Set of extended properties, per class, that appear in the Attributes pane in the contextual side panel for a selected CI in Unified Map.
 
- This table leverages the use of the [[cnfg-identifiers-framework-sg|configuration identifiers framework]].
+ This table leverages the use of the configuration identifiers framework.
 
  For more information, see [Configure which attributes to display in the Attributes panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-extended-prop.md).
 
@@ -901,7 +901,7 @@ Node Map References
 
 </td><td>
 
-[[reference|Reference]] relationships that appear as a dotted line relationship in Unified Map.
+Reference relationships that appear as a dotted line relationship in Unified Map.
 
  This table leverages the use of the configuration identifiers framework.
 
@@ -935,7 +935,7 @@ Class profiles that include default filters and some Unified Map settings, per c
 
 </td></tr><tr><td>
 
-[[cmdb-data-management-landing|CMDB Data Management]] Certification Task To Document
+CMDB Data Management Certification Task To Document
 
  \[sn\_cmdb\_ws\_dm\_certification\_task\_to\_document\]
 
@@ -1049,20 +1049,3 @@ Settings that limit the selection of classes for a new CI when using the CMDB Wo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[manage-cmdb|Configuration Management]]
-- [[multisource-cmdb|CMDB 360]]
-- [[cmdb-workspace-home-view|Home view in CMDB Workspace]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[cmdb-workspace|CMDB Workspace store app]]
-- [[intelligent-search-cmdb|Intelligent Search for CMDB]]
-- [[reference-document-management|References]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[application-services|Service instances \(Application services\)]]
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]
-- [[reference|Reference]]
-- [[cmdb-data-management-landing|CMDB data management]]

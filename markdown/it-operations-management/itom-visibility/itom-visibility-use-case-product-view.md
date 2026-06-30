@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Managemen
 
 # ITOM Visibility and CSDM reference
 
-[[itom-visibility-landing-page|ITOM Visibility]] consists of two ServiceNow products: [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]]. These products are responsible for creating Configuration Items \(CIs\) in the CMDB and relating them. The goal of this product view is to help you to understand how ITOM Visibility works with the core CSDM framework.
+ITOM Visibility consists of two ServiceNow products: Discovery and Service Mapping. These products are responsible for creating Configuration Items \(CIs\) in the CMDB and relating them. The goal of this product view is to help you to understand how ITOM Visibility works with the core CSDM framework.
 
 ## Aspects of ITOM Visibility
 
@@ -52,8 +52,3 @@ Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[ITOM Visibility reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/visibility-reference.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

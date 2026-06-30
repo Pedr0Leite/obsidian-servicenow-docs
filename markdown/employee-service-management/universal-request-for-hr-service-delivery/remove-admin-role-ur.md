@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Remove UR administrator role from system administrator
 
-After system configuration, remove the [[ur-landing-limitedaccess|Universal Request]] \(UR\) administrator \[sn\_uni\_req.ur\_admin\] role from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive information via forms, lists and UI.
+After system configuration, remove the Universal Request \(UR\) administrator \[sn\_uni\_req.ur\_admin\] role from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive information via forms, lists and UI.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Also, ensure that the same users have the System Administrator \[admin\] role to
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

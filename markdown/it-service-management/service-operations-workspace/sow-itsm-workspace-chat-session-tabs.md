@@ -172,7 +172,7 @@ See [SLA threshold timers](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
 Administrators can configure warning and critical SLA threshold timers for inactive chat session tabs. If an agent leaves a customer’s chat unanswered beyond the length of time defined in these threshold timers, the system changes the tab color.
 
-The chat session tabs feature includes the following default SLA threshold timer [[settings-mobile|settings]]. For more information about changing these values, see [Configure chat session tabs in SOW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs-configure.md).
+The chat session tabs feature includes the following default SLA threshold timer settings. For more information about changing these values, see [Configure chat session tabs in SOW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs-configure.md).
 
 <table id="table_b2f_dbd_jdc"><thead><tr><th>
 
@@ -272,6 +272,3 @@ Enable the chat session tabs feature and configure values for the chat SLA thres
 
 **Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-interaction-management-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

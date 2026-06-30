@@ -14,9 +14,9 @@ breadcrumb: [Platform Analytics solutions, Reporting, dashboards, and Performanc
 
 # Collect data for Platform Analytics Solutions
 
-After you install an [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution and ensure that it points at the correct data structures in your instance, collect the data for the indicators and breakdowns.
+After you install an Platform Analytics Solution and ensure that it points at the correct data structures in your instance, collect the data for the indicators and breakdowns.
 
-Whenever you activate an Platform Analytics Solution, you automatically install Data Collector jobs for that Solution. These Data Collector jobs collect analytics information for the indicators and breakdowns in the Solution. After the jobs run, you can see the data in the [[widgets|widgets]] and dashboards for the Solution. Technically, the Data Collector jobs do the following actions:
+Whenever you activate an Platform Analytics Solution, you automatically install Data Collector jobs for that Solution. These Data Collector jobs collect analytics information for the indicators and breakdowns in the Solution. After the jobs run, you can see the data in the widgets and dashboards for the Solution. Technically, the Data Collector jobs do the following actions:
 
 -   Run periodically, usually daily
 -   Read your operational tables
@@ -46,7 +46,3 @@ Enable the periodic data collection job for your Platform Analytics Solution. Ch
 
 [Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

@@ -14,7 +14,7 @@ breadcrumb: [Playbook for asset attestation, Audit assets using Asset Attestatio
 
 # Create an asset attestation or a schedule using the playbook
 
-Create a one-time [[asset-attestation-ham|asset attestation]] or a schedule for recurring attestations to verify if your serialized hardware assets are in use, using the playbook.
+Create a one-time asset attestation or a schedule for recurring attestations to verify if your serialized hardware assets are in use, using the playbook.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The **ITAM Common- Asset attestation** daily job runs daily to check through all
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Asset attestations** tab.
 
@@ -40,7 +40,7 @@ The **ITAM Common- Asset attestation** daily job runs daily to check through all
 
     -   **Provide attestation details**
     -   **Select users**
-    -   **Select [[model-hierarchy|model categories]]**
+    -   **Select model categories**
     -   **Attestation completed**
 4.  Select whether you want to create an asset attestation or an attestation schedule, and then fill in the necessary details in the **Provide attestation details** activity.
 
@@ -145,7 +145,7 @@ Action
 ## Result
 
 -   If you selected **One-time** in the Mode field, the following changes happen:
-    -   An email notification is sent to the employees who are required to confirm assets. Employees can confirm assets through the [[now-mobile-asset|Now Mobile app]] or on the Employee Center portal.
+    -   An email notification is sent to the employees who are required to confirm assets. Employees can confirm assets through the Now Mobile app or on the Employee Center portal.
     -   An asset attestation is created in the In progress state and the following tabs are displayed:
         -   The Assets tab shows the list of assets to be confirmed by the employees.
         -   The Users tab shows the list of employees who are required to confirm the assets assigned to them.
@@ -171,9 +171,3 @@ View the asset attestation or the attestation schedule that's created.
 
 **Parent Topic:**[Playbook for asset attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/playbook-asset-attestation-ham.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[model-hierarchy|Model categories]]
-- [[now-mobile-asset|Now Mobile app]]

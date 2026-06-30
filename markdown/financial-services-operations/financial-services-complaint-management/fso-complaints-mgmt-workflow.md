@@ -14,7 +14,7 @@ breadcrumb: [Use, Complaint Management, Common applications, Financial Services 
 
 # Financial Services Complaint Management workflow example
 
-The [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] application installs an automated workflow for complaint servicing. This workflow enables intake of complaints and routing of cases and tasks to different departments, including the complaint, quality control, and business unit specific agents. The workflow applies to both business and personal complaint service requests.
+The Financial Services Complaint Management application installs an automated workflow for complaint servicing. This workflow enables intake of complaints and routing of cases and tasks to different departments, including the complaint, quality control, and business unit specific agents. The workflow applies to both business and personal complaint service requests.
 
 The following diagram shows how the application helps bank agents resolve a complaint request.
 
@@ -57,6 +57,3 @@ The following workflow routes the case and tasks for a complaint request to agen
 
 The state of the case is set to Closed Complete. The customer can also view the status of the case from the Customer or Consumer Service Portal or another self-service portal.
 
-## Related
-
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

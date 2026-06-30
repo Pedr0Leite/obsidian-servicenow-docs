@@ -14,7 +14,7 @@ breadcrumb: [Procurement, IT Asset Management]
 
 # Procurement workflows
 
-[[c_Procurement|Procurement]] uses the following workflows. You can edit the existing flows or create a flow in the graphical Workflow Studio to meet your organization's asset procurement process.
+Procurement uses the following workflows. You can edit the existing flows or create a flow in the graphical Workflow Studio to meet your organization's asset procurement process.
 
 -   In the Service Catalog Request workflow, items ordered from the service catalog that cost over one thousand dollars require approval.
 
@@ -54,6 +54,3 @@ breadcrumb: [Procurement, IT Asset Management]
 
 [Procurement purchase order management for assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_UseProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

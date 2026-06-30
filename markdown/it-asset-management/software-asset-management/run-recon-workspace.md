@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Run software reconciliation in the workspace
 
-Reconciliation is run as a scheduled job \(default is weekly\), but you can also run reconciliation manually to reconcile software products in the [[sam-workspace|Software Asset Workspace]] environment on-demand.
+Reconciliation is run as a scheduled job \(default is weekly\), but you can also run reconciliation manually to reconcile software products in the Software Asset Workspace environment on-demand.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sam\_user or sam\_admin
 
 1.  Navigate to the Run Reconciliation dialog box from either of the two ways:
 
-    -   **Software Asset Workspace** &gt; **[[sam-workspace-landing|Software asset overview]]** &gt; **Run Reconciliation**
+    -   **Software Asset Workspace** &gt; **Software asset overview** &gt; **Run Reconciliation**
     -   **Software Asset Workspace** &gt; **License usage** &gt; **Run Reconciliation**
     \[Omitted image "run-recon-workspace.png"\] Alt text: Run reconciliation process \[Omitted image ""\] Alt text:
 
@@ -141,7 +141,3 @@ The date and time when the particular reconciliation process was completed.
 </table>
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]

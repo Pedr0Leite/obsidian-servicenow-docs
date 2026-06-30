@@ -20,11 +20,11 @@ Role required: Admin
 
 ## About this task
 
-CPQ text [[fields|fields]] support Markdown, a widely used, lightweight markup language for formatting text using plain-text syntax.
+CPQ text fields support Markdown, a widely used, lightweight markup language for formatting text using plain-text syntax.
 
 ## Procedure
 
-1.  In the [[layout_editor|layout editor]], click the gear icon.
+1.  In the layout editor, click the gear icon.
 
 2.  Enter the following JSON text as the raw value for the field properties:
 
@@ -44,10 +44,5 @@ CPQ text [[fields|fields]] support Markdown, a widely used, lightweight markup l
 
 [Markdown syntax](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[layout_readonlytext_markdown_options|Markdown options for read-only text]]
+[Markdown options for read-only text](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_readonlytext_markdown_options.md)
 
-## Related
-
-- [[layout_readonlytext_markdown_options|Markdown options for read-only text]]
-- [[fields|Fields]]
-- [[layout_editor|Layout editor]]

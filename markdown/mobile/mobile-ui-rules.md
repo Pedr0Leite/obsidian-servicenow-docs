@@ -20,14 +20,14 @@ To modify the appearance of your mobile views and input form screens UI, you mus
 
 -   **Mobile UI rules**
 
-    A mobile UI rule applies to a single mobile view and [[parameter-input-screen|input form screen]]. When you create a rule, you select a record to apply the rule to, as well as conditions that define when your rule applies.
+    A mobile UI rule applies to a single mobile view and input form screen. When you create a rule, you select a record to apply the rule to, as well as conditions that define when your rule applies.
 
 -   **Mobile UI rule actions**
 
     Each mobile UI rule uses mobile UI rule actions. These actions define the changes made to your target record. When you create an action, you select an operation, which defines the kind of change you want to make. You then define a value, which gives the rule more detail on the specifics of the change you're making.
 
 
-For more detail on the kinds of changes you can make with mobile UI rules, see the next section. For detailed steps on creating mobile UI rules and actions, see [[create-mobile-ui-rule|Create a mobile UI rule]].
+For more detail on the kinds of changes you can make with mobile UI rules, see the next section. For detailed steps on creating mobile UI rules and actions, see [Create a mobile UI rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule.md).
 
 ## Available mobile UI rule operations
 
@@ -35,7 +35,7 @@ For more detail on the kinds of changes you can make with mobile UI rules, see t
 
 <table id="table_qc2_xls_lnb"><tbody><tr><td>
 
-Use calculations to quickly and accurately fill in field values based on calculations you define. These calculations can include values from other fields. These rules can save time and reduce complexity on your [[mobile-screens-landing|mobile screens]].**Note:** Calculations can only be applied to input form screens.
+Use calculations to quickly and accurately fill in field values based on calculations you define. These calculations can include values from other fields. These rules can save time and reduce complexity on your mobile screens.**Note:** Calculations can only be applied to input form screens.
 
 </td><td>
 
@@ -87,9 +87,3 @@ Make your inputs read-only or mandatory to control which inputs are required and
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-mobile-ui-rule|Create a mobile UI rule]]
-- [[parameter-input-screen|Input form screen]]
-- [[mobile-screens-landing|Mobile screens]]

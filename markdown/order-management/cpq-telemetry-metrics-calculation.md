@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # CPQ usage calculation
 
-CPQ usage metrics track how users interact with [[explore-servicenowcpq|CPQ Configurator]] and [[order-mgt-overview|Sales Customer Relationship Management]] \(Sales CRM\) features. These metrics support accurate usage measurement.
+CPQ usage metrics track how users interact with CPQ Configurator and Sales Customer Relationship Management \(Sales CRM\) features. These metrics support accurate usage measurement.
 
 ## Usage metrics
 
@@ -47,7 +47,7 @@ The user count and configuration count metrics are complementary: Fulfillers are
 
 **Note:** Inactive users are excluded from the count.
 
-CPQ Users table: The CPQ Users table is a remote table that queries both CPQ microservices and the Sales CRM instance to populate user data. The table includes the following [[fields|fields]]:
+CPQ Users table: The CPQ Users table is a remote table that queries both CPQ microservices and the Sales CRM instance to populate user data. The table includes the following fields:
 
 -   **CPQ user**: the username from CPQ microservices.
 -   **User**: the corresponding record in the Sales CRM `sys_user` table, populated when a matching user is found.
@@ -67,8 +67,3 @@ The CPQ Users table uses a built-in cache to avoid repeated queries to CPQ micro
 
 This cache behavior is part of the remote table configuration and is not controlled by a system property.
 
-## Related
-
-- [[explore-servicenowcpq|CPQ Configurator]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]

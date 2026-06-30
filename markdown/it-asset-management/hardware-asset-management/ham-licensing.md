@@ -15,11 +15,11 @@ breadcrumb: [Hardware Asset Management subscription, Explore, Hardware Asset Man
 
 # Hardware Asset Management licensing
 
-[[ham-landing-page|Hardware Asset Management]] \(HAM\) licensing enables you to choose the Hardware Asset Management resource categories that you want to use. You can save money by paying only for those categories that you use, and not for categories that you don't use.
+Hardware Asset Management \(HAM\) licensing enables you to choose the Hardware Asset Management resource categories that you want to use. You can save money by paying only for those categories that you use, and not for categories that you don't use.
 
 Only the resource categories that are opted in are counted toward the Subscription Units.
 
-**Note:** By default for a particular resource category, the normalization functions for its associated [[c_Models|models]] and the asset actions for its associated assets don't work. If you want to use the normalization functions and asset actions, you have to opt in that resource category.
+**Note:** By default for a particular resource category, the normalization functions for its associated models and the asset actions for its associated assets don't work. If you want to use the normalization functions and asset actions, you have to opt in that resource category.
 
 For more information about opting in or out of the HAM license resource categories, see [Opt-in or opt-out of HAM license resource categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/optin-optout-ham-license-resource-categories.md).
 
@@ -34,7 +34,7 @@ Assignment to a user is not required — an unassigned asset that meets these cr
 
 HAM licensing has no dependency on CMDB CI classes or CI records.
 
-Based on the usage of [[model-hierarchy|model categories]], the ServiceNow HAM license is divided into resource categories. There are different types of resource categories. Different assets fall under different categories as well. Make sure you opt in the correct and required categories. An asset represented in the Asset \[alm\_asset\] table and which meets the criteria for each managed IT resource type such as Server, End User Computers, Network Gear, and Mobile Device, is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
+Based on the usage of model categories, the ServiceNow HAM license is divided into resource categories. There are different types of resource categories. Different assets fall under different categories as well. Make sure you opt in the correct and required categories. An asset represented in the Asset \[alm\_asset\] table and which meets the criteria for each managed IT resource type such as Server, End User Computers, Network Gear, and Mobile Device, is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
 
 **Note:** Resource categories in HAM are associated with certain entitlements. For example, the Computer resource category is shown only if the computer entitlement is available in the HAM license. On an on-premise ServiceNow instance, the entitlements aren’t downloaded. However, you can store your HAM entitlement details by using the **sn\_ham\_active\_entitlements** system property. You can update this system property with a comma separated list of entitlements for which you have access.
 
@@ -229,11 +229,5 @@ Assets with the following model categories are excluded from accessing Hardware 
 
 [Licensing framework for Hardware Asset Management solutions]()
 
-[Hardware [[am-landing-page|Asset Management]] license exclusion]()
+[Hardware Asset Management license exclusion]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]
-- [[am-landing-page|Asset Management]]

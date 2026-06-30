@@ -36,11 +36,11 @@ When you approve a scenario:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
-3.  From the Create scenario menu, select **[[compare-scenarios-in-portfolio-planning|Compare scenarios]]**.
+3.  From the Create scenario menu, select **Compare scenarios**.
 
     The **Approve scenario** button is also available on the Scenario page. As soon as you have created a scenario, you can directly approve a scenario without comparing it with the other scenarios.
 
@@ -55,7 +55,4 @@ When you approve a scenario:
     -   Enter a reason for approving the scenario in the Notes field.
 5.  Select **Approve**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

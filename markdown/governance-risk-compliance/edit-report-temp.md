@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Word templates**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Word templates**.
 
 2.  To create a Microsoft Word template, select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[word-template-form|Word template form]].
+    For more information on the fields, see [Word template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/word-template-form.md).
 
     Microsoft Word templates provided with an instance have two categories: BCM and BIA Smart Assessment.
 
@@ -60,7 +60,7 @@ Role required: sn\_bcm.admin
 
     6.  Select **Update** in Microsoft Word template record.
 
-        Microsoft Word template record is updated and the updated template is displayed in the [[list-view-uib-ws|list view]].
+        Microsoft Word template record is updated and the updated template is displayed in the list view.
 
     The process to update a pre-defined template is shown in the example.
 
@@ -70,8 +70,4 @@ Role required: sn\_bcm.admin
 
 8.  To publish the template, select **Publish** in the record.
 
-## Related
 
-- [[word-template-form|Word template form]]
-- [[Administration|Administration]]
-- [[list-view-uib-ws|List view]]

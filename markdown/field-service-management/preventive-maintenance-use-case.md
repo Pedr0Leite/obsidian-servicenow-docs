@@ -14,7 +14,7 @@ breadcrumb: [Example workflows, Explore, Field Service Management]
 
 This Field Service preventive maintenance workflow example provides an example of an aircraft maintenance manager setting up a maintenance plan to trigger a diagnostic alert after every 25 hours of flight time.
 
-An aircraft maintenance manager, Lisa, sets up a maintenance plan to trigger a diagnostic alert after every 25 flight hours. Lisa found their paper-based planning processes inefficient and lacking real-time visibility. This led to grounded aircraft and financial losses. Implementing ServiceNow [[fsm-application-landing-page|Field Service Management]] with Asset Management made a significant difference.
+An aircraft maintenance manager, Lisa, sets up a maintenance plan to trigger a diagnostic alert after every 25 flight hours. Lisa found their paper-based planning processes inefficient and lacking real-time visibility. This led to grounded aircraft and financial losses. Implementing ServiceNow Field Service Management with Asset Management made a significant difference.
 
 Now, Lisa automates maintenance plans for each aircraft, triggering alerts and generating work orders for diagnostic tasks after every 25 and 600 hours of flight time. The system assigns tasks to avionics field agents based on location, skills, and availability, ensuring the best-qualified and closest field agent is sent to avoid delays.
 
@@ -40,9 +40,5 @@ The following table provides the steps for the Field Service preventive maintena
 |6. Provide audit trail|All completed tasks and data are tracked in the maintenance plan records for future reference, so administrators can easily pull data needed for trend analysis, reports, and audits to satisfy compliance requirements.|
 |7. Report and analyze|Track tasks and data in a maintenance plan to support future analysis, reporting, audits, and compliance activity.|
 
-**Parent Topic:**[[fsm-use-cases|Field Service Management workflow examples]]
+**Parent Topic:**[Field Service Management workflow examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-use-cases.md)
 
-## Related
-
-- [[fsm-use-cases|Field Service Management workflow examples]]
-- [[fsm-application-landing-page|Field Service Management]]

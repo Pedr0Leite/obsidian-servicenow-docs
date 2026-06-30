@@ -18,7 +18,7 @@ With this dashboard, security managers can track and view the volume, performanc
 
 ## Before you begin
 
-In the current release, the following list of reports is not supported in the [[sir-landing-page|Security Incident Response]] Premium KPIs dashboard:
+In the current release, the following list of reports is not supported in the Security Incident Response Premium KPIs dashboard:
 
 -   Process by state - Workbench is not available
 -   Process by Age - Workbench is not available
@@ -42,6 +42,4 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
     For detailed information on Security Incident Response Premium KPIs dashboard, see [Security Incident Management Premium dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-mgmt-premium-dashboard.md)
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

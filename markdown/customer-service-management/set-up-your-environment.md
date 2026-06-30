@@ -12,11 +12,11 @@ breadcrumb: [Configure, Customer Service Management]
 
 # Set up your environment
 
-Begin your customer journey by preparing your [[c_CustomerServiceManagement|Customer Service Management]] environment with data models, customer data, product data, user management, and [[case-management|case management]] tools to go live.
+Begin your customer journey by preparing your Customer Service Management environment with data models, customer data, product data, user management, and case management tools to go live.
 
 <table id="table_n2m_gg1_l1c" class="nav-card"><tbody><tr><td>
 
-[Getting started\[Omitted image "bus-database.svg"\] Alt text:[[t_ActivateCustomerService|Activate Customer Service Management]], and import your foundation data.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-management.md)
+[Getting started\[Omitted image "bus-database.svg"\] Alt text:Activate Customer Service Management, and import your foundation data.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-management.md)
 
 </td><td>
 
@@ -28,7 +28,7 @@ Begin your customer journey by preparing your [[c_CustomerServiceManagement|Cust
 
 </td></tr><tr><td>
 
-[Product data\[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text:[[configure-csm-products|Configure product data]] including [[product-models|product models]], [[sold-product|sold products]], [[install-base-item|install base items]], and [[installed-products|installed products]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-data.md)
+[Product data\[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text:Configure product data including product models, sold products, install base items, and installed products.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-data.md)
 
 </td><td>
 
@@ -41,38 +41,24 @@ Begin your customer journey by preparing your [[c_CustomerServiceManagement|Cust
 </td></tr></tbody>
 </table>\[Omitted image "workflow-set-up-environment.png"\] Alt text: Overview of topics relating to setting up your environment and how they relate to each other
 
--   **[[data-management|Getting started]]**
+-   **[Getting started](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-management.md)**
 
     Start by activating the Customer Service Management plugin and importing your foundation data to establish a solid framework. This approach helps you to plan and install any additional plugins you need, securing a well-integrated and effective system for optimal performance. Activate the CSM plugin and foundation data to establish a robust framework. It facilitates efficient plugin planning and installation, confirming a well-integrated system.
 
--   **[[customer-data|Customer data]]**
+-   **[Customer data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-data.md)**
 
     Configure customer data in Customer Service Management, including details about accounts, contacts, and consumers to confirm comprehensive information capture. This setup confirms that all the relevant customer and account information is captured.
 
--   **[[user-management|User management]]**
+-   **[User management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/user-management.md)**
 
     Create and manage user data for internal users such as managers, agents, and support groups, as well as external users. Configure their access to features, capabilities, and case data in Customer Service Management features and case data. This setup helps establish relationships that streamline case management and enhance support roles for accounts, leading to better efficiency and effectiveness in handling customer interactions.
 
--   **[[product-data|Product data]]**
+-   **[Product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-data.md)**
 
     Configure product data to streamline Customer Service Management including product models, sold products, install base items, and installed products. This setup helps you quickly access relevant details, resolve issues more effectively, and improve overall service by providing a clear view of product status and history.
 
--   **[[data-models|Data models]]**
+-   **[Data models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-models.md)**
 
     Create and manage structured and flexible data models in Customer Service Management to meet industry needs, with organized data, accurate interactions, and seamless adaptability.
 
-## Related
 
-- [[data-management|Getting started with Customer Service Management]]
-- [[customer-data|Customer data]]
-- [[user-management|User management]]
-- [[product-data|Product data]]
-- [[data-models|Data models]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-management|Case management]]
-- [[t_ActivateCustomerService|Activate Customer Service Management]]
-- [[configure-csm-products|Configure product data]]
-- [[product-models|Product models]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Planning item form
 
-Learn about the fields in the [[form-field-information-for-dw|forms]] of the different planning item types available in [[alignment-planner-workspace-landing-page|Strategic Planning]]. Use these forms to add new planning items or update details of existing items.
+Learn about the fields in the forms of the different planning item types available in Strategic Planning. Use these forms to add new planning items or update details of existing items.
 
 All planning item types in Strategic Planning including any custom item type that your admin may have created, are an extension of the Planning Item \[sn\_align\_core\_planning\_item\] table. The planning item form fields that you see in the workspace are based on the item types configured for your portfolio plan.
 
@@ -33,7 +33,3 @@ The following are the different planning item types available by default. Use th
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

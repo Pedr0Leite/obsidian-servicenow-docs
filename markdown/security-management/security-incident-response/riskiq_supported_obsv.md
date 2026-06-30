@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Supported observables for RISKIQ and RISKIQ WHOISIQ
 
-The RISKIQ API supports automatic SSL certificate lookups on IP address, file hash, Certificate Serial Number, domain, and URL [[c_Observables|observables]]. URL and domain observables are enriched automatically with the WHOISIQ API. For [[tisc-observable-enrichment|observable enrichment]] on other types of observables with the WHOISIQ API, create observables and run lookups manually from the Observables table.
+The RISKIQ API supports automatic SSL certificate lookups on IP address, file hash, Certificate Serial Number, domain, and URL observables. URL and domain observables are enriched automatically with the WHOISIQ API. For observable enrichment on other types of observables with the WHOISIQ API, create observables and run lookups manually from the Observables table.
 
 ## Supported observables
 
@@ -86,7 +86,3 @@ Manual lookup is run from the Observables table.Results are displayed on the **O
 
 **Next topic:**[Install and configure RISKIQ and WHOISIQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-config-riskiq.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

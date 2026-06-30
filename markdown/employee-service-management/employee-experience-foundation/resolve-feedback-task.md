@@ -14,7 +14,7 @@ breadcrumb: [Use the integrated experience and service feedback, Using Employee 
 
 # Resolve a feedback task
 
-Resolve a task created from a feedback submitted through the [[ex-fdback-ovrvw|integrated experience and service feedback]].
+Resolve a task created from a feedback submitted through the integrated experience and service feedback.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: esc\_admin
 
 ## Procedure
 
-1.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My Tasks**.
+1.  Navigate to **Self-Service** &gt; **Employee Center** &gt; **My Tasks**.
 
 2.  In the My tasks page, select **Feedback tasks** from the Filter by: options.
 
@@ -80,7 +80,4 @@ Comment box to provide a resolution.
 
     **Note:** A feedback notification is sent to the feedback provider when it's resolved. For more information, see [Feedback task notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-task-notification.md).
 
-## Related
 
-- [[ex-fdback-ovrvw|Integrated experience and service feedback]]
-- [[employee-center-landing-page|Employee Center]]

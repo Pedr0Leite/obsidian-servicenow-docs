@@ -14,7 +14,7 @@ breadcrumb: [PAFormulaUtils API, Get analytics methods in formulas, Formula indi
 
 # getCurrentBreakdownID\(\)
 
-Returns the level 1 breakdown identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] changes.
+Returns the level 1 breakdown identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the Analytics Hub changes.
 
 Use this method to obtain the sys\_id of the level 1 breakdown when altering the formula for a specific breakdown.
 
@@ -77,6 +77,3 @@ res;
 
 [PAFormulaUtils API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFormulaUtils.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

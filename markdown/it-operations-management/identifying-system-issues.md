@@ -16,13 +16,13 @@ Tests run by synthetic monitors enable service owners and operators to view serv
 
 ## Overview of using synthetic monitoring
 
-As a service owner, you can use [[synthetic-monitoring-landing-page|synthetic monitoring]] to monitor your service's endpoints, verifying that they're available and performing as expected. You can be notified when synthetic tests fail, enabling you to mitigate issues quickly. You can see trends in HTTP API success rates and response times.
+As a service owner, you can use synthetic monitoring to monitor your service's endpoints, verifying that they're available and performing as expected. You can be notified when synthetic tests fail, enabling you to mitigate issues quickly. You can see trends in HTTP API success rates and response times.
 
 As an operator, you can use synthetic monitoring as part of triaging issues. When you learn a service is reported to have issues, you can view test results for that service's endpoints. If tests are failing or response times are slow, that might be something to investigate.
 
 ## View aggregate information about the monitors
 
-The [[ref-synthetic-monitoring-landing-page|synthetic monitoring landing page]] shows an overview of all created monitors, including inactive monitors.
+The synthetic monitoring landing page shows an overview of all created monitors, including inactive monitors.
 
 From here, you can see the status for all your monitors. Selecting a card at the top filters the list of monitors. For example, you can view only the monitors that have failed or that are in an unknown state.
 
@@ -52,7 +52,3 @@ When you see a failure or high latency, select a test to view details, including
 
 \[Omitted image "sys-mon-failed\_monitor.png"\] Alt text: A modal displays information about the test including a response body that states that the request was to a bad gateway.
 
-## Related
-
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[ref-synthetic-monitoring-landing-page|Synthetic monitoring Landing Page]]

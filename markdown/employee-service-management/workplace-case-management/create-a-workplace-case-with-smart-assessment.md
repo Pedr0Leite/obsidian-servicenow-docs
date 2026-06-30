@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Cases**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Cases**.
 
 2.  Select **All** to view all the workplace cases.
 
@@ -48,6 +48,3 @@ Role required: sn\_wsd\_case.manager
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

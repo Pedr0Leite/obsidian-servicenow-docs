@@ -16,7 +16,7 @@ breadcrumb: [Azure AD activity pack, Orchestration activity packs, Classic Orche
 
 The Add User to Group activity adds a user to an existing security group in Azure Active Directory.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
 
 **Important:** The REST message used for this activity must be configured to use [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_OAuthApplications.md).
 
@@ -40,11 +40,7 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 |Condition|Description|
 |---------|-----------|
 |Success|Activity successfully added the object ID to the security group.|
-|Failure|Activity failed to update the group's membership, or the activity failed to [[c_Connect|connect]] to Azure AD.|
+|Failure|Activity failed to update the group's membership, or the activity failed to connect to Azure AD.|
 
 **Parent Topic:**[Azure AD activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_AzureADActivityPack.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_Connect|Connect]]

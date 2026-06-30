@@ -22,9 +22,9 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  From the [[td-lh-landing|Leader Hub]] drop-down list, select **Org skills**.
+2.  From the Leader Hub drop-down list, select **Org skills**.
 
     The Org skills page appears.By default, skills are listed from lowest to highest skill score. Use the **Search** bar, and the **View** and **Sort by** filters to sort skills based on the criteria you choose from. Hover over the tool tip for a description of the column.
 
@@ -55,7 +55,3 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]

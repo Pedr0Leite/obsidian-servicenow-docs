@@ -16,7 +16,7 @@ The Certificates page lets you access data regarding your certificates, Sensor c
 
 On the Certificate page, you can do the following.
 
--   [[generate-new-certificate-discovery-for-ot|Generate a Certificate]] Authority.
+-   Generate a Certificate Authority.
 -   Download the Certificate Bundle \(.zip\).
 -   Generate a Sensor Bundle using a generated or user-submitted password.
 -   Generate a Collector Bundle using a generated or user-submitted password. This bundle is generated using the specified bundle format.
@@ -47,6 +47,3 @@ When ready, select **Generate Bundle**.
 
 **Note:** The certificate for the Discovery Console for OT and the Discovery Sensor for OT automatically renews when it is within 30 days of its expiration date.
 
-## Related
-
-- [[generate-new-certificate-discovery-for-ot|Generate a certificate]]

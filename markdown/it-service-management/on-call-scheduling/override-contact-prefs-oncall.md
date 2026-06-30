@@ -24,7 +24,7 @@ Role required: rota\_admin, rota\_manager
 
 1.  Use one of the following methods to open the Edit Escalation and Contact Preferences page:
 
-    -   1.  Navigate to **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Schedules**. The On-Call Schedules page opens to the All On-Call Schedules tab.
+    -   1.  Navigate to **On-Call Scheduling** &gt; **On-Call Schedules**. The On-Call Schedules page opens to the All On-Call Schedules tab.
 2.  Click a schedule card.
 3.  On the **Shifts** tab, click the Actions icon \(\[Omitted image "icon-actions.png"\] Alt text: Actions icon\) for the shift and select **Edit Escalation and Contact Preferences**.
     -   1.  Navigate to **On-Call Scheduling** &gt; **My Group Schedules**.
@@ -51,6 +51,3 @@ Role required: rota\_admin, rota\_manager
 
 **Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/manage-schedules-and-shifts.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

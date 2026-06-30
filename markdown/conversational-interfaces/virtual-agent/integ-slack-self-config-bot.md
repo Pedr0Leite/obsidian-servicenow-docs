@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin or admin and Slack workspace admin
 
 This installation requires a ServiceNow instance other than the one integrated with the production bot to integrate one bot \(of the multiple bots\) with a single Slack workspace.
 
-**Note:** The ServiceNow instance that you will use to integrate the self-configured bot with a single Slack workspace must not be an instance that you have used for integrating the ServiceNow [[virtual-agent-landing-page|Virtual Agent]].
+**Note:** The ServiceNow instance that you will use to integrate the self-configured bot with a single Slack workspace must not be an instance that you have used for integrating the ServiceNow Virtual Agent.
 
 Ensure that you created a bot on the Slack workspace and fetched the bot details to complete the integration. For more information, see [Create a bot in Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-self-config-bot-slack.md).
 
@@ -35,7 +35,7 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
 
     **Note:** The virtual\_agent\_admin can install bots with multiple instances or bots apart from the production bot in the ServiceNow instance and avail all the features of Virtual Agent and also have the flexibility to integrate one of the multiple ServiceNow instances with a bot on a single Slack workspace.
 
-    1.  Log in to your ServiceNow instance and navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+    1.  Log in to your ServiceNow instance and navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
     2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -45,7 +45,7 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
 
         \[Omitted image "add-slack-self-integ.png"\] Alt text: Slack Add integration dropdown. The Integrate with Self-configured bot option is highlighted.
 
-        **Note:** The **Add Integrations** button is available only after installing the [[mssg-slack|Conversational Integration with Slack]] plugin \(sn\_va\_slack\) on your ServiceNow instance. For more information about getting the plugin installed, see [Install the Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-slack-from-store.md).
+        **Note:** The **Add Integrations** button is available only after installing the Conversational Integration with Slack plugin \(sn\_va\_slack\) on your ServiceNow instance. For more information about getting the plugin installed, see [Install the Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-slack-from-store.md).
 
     4.  In the Integrate Slack with self-configured bot page, provide the following details that you made a note while creating the Slack bot and select **Submit**.
 
@@ -68,8 +68,3 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
 
 **Parent Topic:**[Integrating a self-configured bot with Slack workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-single-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[mssg-slack|Conversational Integration with Slack]]

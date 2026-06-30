@@ -19,7 +19,7 @@ Learn more about configuring facets from the following video tutorial.
 ## Before you begin
 
 -   Role required: admin
--   Ensure that the application scope is set to [[customer-central|Customer Central]].
+-   Ensure that the application scope is set to Customer Central.
 
 ## About this task
 
@@ -128,6 +128,4 @@ If you selected facet type Dynamic, select the fields to display for each record
 </td></tr></tbody>
 </table>7.  Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

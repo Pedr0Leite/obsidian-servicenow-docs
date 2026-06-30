@@ -12,11 +12,11 @@ breadcrumb: [Using the Business Location Service Portal, Customer communication,
 
 # Track opportunities on the Business Location Service Portal
 
-Enable your location staff to track opportunities for their business locations [[using-blsp-portal|using the Business Location Service Portal]] \(BLSP\). The portal enables them to view opportunities and any activity performed on them.
+Enable your location staff to track opportunities for their business locations using the Business Location Service Portal \(BLSP\). The portal enables them to view opportunities and any activity performed on them.
 
 ## Before you begin
 
-Role required: For details on roles, see [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]].
+Role required: For details on roles, see [Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration-oppMgmt.md).
 
 ## Procedure
 
@@ -30,7 +30,4 @@ Role required: For details on roles, see [[personas-roles-and-tables-post-integr
 
     You can access opportunities specific to a business location by navigating to **Home** &gt; **Your Information** &gt; **Business Locations** and then selecting **Opportunities**.
 
-## Related
 
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
-- [[using-blsp-portal|Using the Business Location Service Portal]]

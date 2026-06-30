@@ -38,7 +38,7 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
 5.  In the **Section** field, select the appropriate section.
 
-    This can be **Security Incident** or **[[sir-landing-page|Security Incident Response]] Task**.
+    This can be **Security Incident** or **Security Incident Response Task**.
 
 6.  Select the fields and the order in which you want them to appear in the Incident banner in the new UI.
 
@@ -70,6 +70,3 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
 The security incident and response task banners are updated in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui.md)\).
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

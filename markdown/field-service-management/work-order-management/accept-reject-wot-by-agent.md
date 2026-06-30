@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # Accept or reject assigned external work order tasks
 
-As a manager or field service agent of a contractor company, you can accept tasks assigned to you through the Field Service [[field-service-contractor-portal|Contractor Portal]].
+As a manager or field service agent of a contractor company, you can accept tasks assigned to you through the Field Service Contractor Portal.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 After accepting the task, you can start working on it. For more information about executing tasks, see [Execute and track external work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/execute-wot.md).
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

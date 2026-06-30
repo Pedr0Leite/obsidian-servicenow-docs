@@ -30,8 +30,8 @@ For the full range of Now Mobile app documentation, see [Now Mobile app](https:/
     -   View and complete tasks
     -   Upload images and attachments to ServiceNow records
     -   Request help from Agent Chat and Virtual Agent
-    -   Use pre-configured [[siri-shortcuts|Siri shortcuts]] unique to the Now Mobile app to complete common actions.
-    **Note:** For more information, see [[base-system-functionality|Base system functionality for ServiceNow mobile]].
+    -   Use pre-configured Siri shortcuts unique to the Now Mobile app to complete common actions.
+    **Note:** For more information, see [Base system functionality for ServiceNow mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/base-system-functionality.md).
 
 -   **Download the app**
 
@@ -83,25 +83,25 @@ Use the **Settings** to set preferences and review information about the app. Th
         -   Use the **Analytics** section to enabled or disable analytics from the app. Enabling this option allows analytics tracking of your user journey. For more details, see [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/user-exp-analytics-landing.md).
     -   Use the **Legal** section review ServiceNow's privacy policy, open-source disclosure, and end user license agreement.
     -   Use the Give feedback option to provide feedback on your ServiceNow mobile app experience.
-For more details on setting in your mobile apps, see [[manager-user-settings|Mobile app settings]].
+For more details on setting in your mobile apps, see [Mobile app settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/manager-user-settings.md).
 
 
 </td></tr></tbody>
 </table>In addition to this functionality, many other ServiceNow applications add additional functionality to the Now Mobile app.
 
-To learn more about interacting with the Now Mobile app as a user, see [[use-mobile-platform-landing|Using the mobile apps]].
+To learn more about interacting with the Now Mobile app as a user, see [Using the mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/use-mobile-platform-landing.md).
 
 ## Customize the Now Mobile app
 
 Use customization tools like Mobile App Builder to change or build on the existing functionality of the Now Mobile app.
 
-The Now Mobile app uses configurable screen components to display record information and [[sg-studio-mobile-button-types|mobile functions]] to give users the ability to perform tasks. Before making customizations, learn how these and other components work together to deliver information and functionality to your users, see [[mobile-hierarchy|Mobile hierarchy]].
+The Now Mobile app uses configurable screen components to display record information and mobile functions to give users the ability to perform tasks. Before making customizations, learn how these and other components work together to deliver information and functionality to your users, see [Mobile hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md).
 
 ServiceNow has tools which you can use to configure the Now Mobile app.
 
 -   **Mobile App Builder**
 
-    Mobile App Builder \(MAB\) is a configuration tool to build and manage screens and records that make up workflows within ServiceNow mobile apps. The organizational layout and navigation options in the Mobile App Builder facilitate a faster and more intuitive creation of ServiceNow mobile applications. For more information, see [[mab-concept|Mobile App Builder]].
+    Mobile App Builder \(MAB\) is a configuration tool to build and manage screens and records that make up workflows within ServiceNow mobile apps. The organizational layout and navigation options in the Mobile App Builder facilitate a faster and more intuitive creation of ServiceNow mobile applications. For more information, see [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md).
 
 -   **Portal configuration**
 
@@ -112,32 +112,17 @@ ServiceNow has tools which you can use to configure the Now Mobile app.
     Some elements of mobile configuration must take place in the classic environment. In these cases, you can update records directly to change the behavior of mobile components. Unless directed to specifically by documentation, use configuration tools such as the Mobile App Builder to reduce the risk of misconfiguration.
 
 
-For more information about how to customize your mobile experience for the Now Mobile app, see [[config-mobile-platform-landing|Configuring the Mobile Platform]].
+For more information about how to customize your mobile experience for the Now Mobile app, see [Configuring the Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-platform-landing.md).
 
 ## Change theme and color in the Now Mobile app
 
-Use Next Experience theming to give the Now Mobile app a color scheme consistent with your instance web experience. Next Experience takes advantage of color variables, which replace hard-coded colors. Use these variables to create consistent looking components. Learn more about these options in [[explore-ne-theming|Next Experience theming for mobile]].
+Use Next Experience theming to give the Now Mobile app a color scheme consistent with your instance web experience. Next Experience takes advantage of color variables, which replace hard-coded colors. Use these variables to create consistent looking components. Learn more about these options in [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
 ## Publish your own branded Now Mobile app
 
-Use Mobile Publishing to create and distribute a branded version of Now Mobile app. Tailor the app with your unique company identity using a custom name, splash screen, icon, Mobile Device Management \(MDM\) vendor. Learn more about the process of publishing mobile apps at [[mobile-publishing|Publish mobile apps with custom branding]].
+Use Mobile Publishing to create and distribute a branded version of Now Mobile app. Tailor the app with your unique company identity using a custom name, splash screen, icon, Mobile Device Management \(MDM\) vendor. Learn more about the process of publishing mobile apps at [Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md).
 
 ## Authentication with Now Mobile app
 
-The Now Mobile app relies on the secure ServiceNow platform and its APIs to provide a seamless mobile experience to its users. For a complete overview of the security features of the ServiceNow [[mobile-config-navigation|mobile platform]], see [[mobile-security-landing|Mobile security]]. You can also learn more about how to secure your apps with roles and permissions at [[sg-roles-permissions|User role permissions in mobile apps]].
+The Now Mobile app relies on the secure ServiceNow platform and its APIs to provide a seamless mobile experience to its users. For a complete overview of the security features of the ServiceNow mobile platform, see [Mobile security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-security-landing.md). You can also learn more about how to secure your apps with roles and permissions at [User role permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-roles-permissions.md).
 
-## Related
-
-- [[base-system-functionality|Base system functionality for ServiceNow mobile]]
-- [[manager-user-settings|Mobile app settings]]
-- [[use-mobile-platform-landing|Using the mobile apps]]
-- [[mobile-hierarchy|Mobile hierarchy]]
-- [[mab-concept|Mobile App Builder]]
-- [[config-mobile-platform-landing|Configuring the Mobile Platform]]
-- [[explore-ne-theming|Next Experience theming for mobile]]
-- [[mobile-publishing|Publish mobile apps with custom branding]]
-- [[mobile-security-landing|Mobile security]]
-- [[sg-roles-permissions|User role permissions in mobile apps]]
-- [[siri-shortcuts|Siri shortcuts]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[mobile-config-navigation|Mobile Platform]]

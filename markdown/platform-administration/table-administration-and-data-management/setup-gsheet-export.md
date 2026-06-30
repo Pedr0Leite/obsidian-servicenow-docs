@@ -31,7 +31,7 @@ Then, you configure the connection and credential aliases to authenticate the in
 The connection and credentials record contains the information that the Google Sheets API needs to authenticate the requests from your ServiceNow instance. It includes the user credentials and connection type, which are required for your instance to communicate with Google Cloud.
 
 -   **[Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-up-oauth-app-gsheets-api.md)**  
-[[set-up-oauth-app-gsheets-api|Set up the OAuth application on the Google Sheets API]] so that you can authenticate requests from your ServiceNow instance to access Google Sheets.
+Set up the OAuth application on the Google Sheets API so that you can authenticate requests from your ServiceNow instance to access Google Sheets.
 -   **[Create an application registry for Google Sheets on a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/configure-app-registry-gsheets.md)**  
 Register the Google Drive application in your ServiceNow instance to enable OAuth authorization for exporting table records directly to Google Sheets.
 -   **[Configure ServiceNow connection and credential aliases for Google sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/config-connect-credentials-aliases-for-gsheets.md)**  
@@ -56,6 +56,3 @@ Configure connection and credential aliases to authenticate an integration betwe
 
 [Data export reference]()
 
-## Related
-
-- [[set-up-oauth-app-gsheets-api|Set up the OAuth application on the Google Sheets API]]

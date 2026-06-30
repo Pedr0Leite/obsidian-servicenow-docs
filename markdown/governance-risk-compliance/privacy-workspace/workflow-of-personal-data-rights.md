@@ -14,7 +14,7 @@ breadcrumb: [Explore, Personal Data Rights \(PDR\), Privacy Management, Governan
 
 # Workflow of Personal Data Rights
 
-A [[personal-data-rights|personal data rights]] request is initiated by a requester and directed to the Personal data rights \(PDR\) agent. The agent then processes the request, assigns it to the appropriate task owners, the task owners work on their tasks, and then request is closed.
+A personal data rights request is initiated by a requester and directed to the Personal data rights \(PDR\) agent. The agent then processes the request, assigns it to the appropriate task owners, the task owners work on their tasks, and then request is closed.
 
 The detailed workflow is explained as follows:
 
@@ -32,6 +32,3 @@ The detailed workflow is explained as follows:
 
 [Using Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-personal-data-right.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

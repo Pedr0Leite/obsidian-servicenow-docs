@@ -18,30 +18,20 @@ Learn about the Public Sector Digital Services application by viewing data model
 
 The flexibility of the Public Sector Digital Services platform provides you with data models that you can extend and leverage to fit your needs.
 
--   **[[psds-data-model-core|Public Sector Digital Services Core Data Model]]**  
+-   **[Public Sector Digital Services Core Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-core.md)**  
 Public Sector Digital Services Core application provides a framework to enable institutions to organize and manage their data effectively to meet their business needs. This section introduces Public Sector Digital Services Core and explains its purpose and key data design components.
--   **[[psds-data-model-sr-playbook|Public Sector Digital Services Service Request Playbook Data Model]]**  
+-   **[Public Sector Digital Services Service Request Playbook Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-sr-playbook.md)**  
 This section outlines the Service Request Playbook data model and the tables installed with the Service Request application.
--   **[[psds-data-model-ir-playbook|Public Sector Digital Services Information Request Playbook Data Model]]**  
+-   **[Public Sector Digital Services Information Request Playbook Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-ir-playbook.md)**  
 This section outlines the Information Request data model and the tables installed with the Information Request application.
--   **[[psds-data-model-lp-playbook|Public Sector Digital Services License and Permit Playbook Data Model]]**  
+-   **[Public Sector Digital Services License and Permit Playbook Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-lp-playbook.md)**  
 This section outlines the License and Permit data model and the tables installed with the License and Permit application.
--   **[[psds-data-model-sb-playbook|Public Sector Digital Services Social Benefits Data Model]]**  
+-   **[Public Sector Digital Services Social Benefits Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-sb-playbook.md)**  
 This section outlines the Social Benefits data model and the tables installed with the Social Benefits application.
--   **[[psds-data-model-gm|Public Sector Digital Services Grants Management Data Model]]**  
+-   **[Public Sector Digital Services Grants Management Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-gm.md)**  
 This section outlines the Grants Management data model and the tables installed with the Grants Management application.
--   **[[psds-data-model-icm|Investigative Case Management Data Model]]**  
+-   **[Investigative Case Management Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-icm.md)**  
 This section outlines the Investigative Case Management data model and the tables installed with the Investigative Case Management application.
--   **[[psds-data-model-service-applicant|Service Applicant Data Model]]**  
+-   **[Service Applicant Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-service-applicant.md)**  
 This section outlines the Service Applicant data model and the Service Applicant Information and Service Applicant Program Management tables that are installed.
 
-## Related
-
-- [[psds-data-model-core|Public Sector Digital Services Core Data Model]]
-- [[psds-data-model-sr-playbook|Public Sector Digital Services Service Request Playbook Data Model]]
-- [[psds-data-model-ir-playbook|Public Sector Digital Services Information Request Playbook Data Model]]
-- [[psds-data-model-lp-playbook|Public Sector Digital Services License and Permit Playbook Data Model]]
-- [[psds-data-model-sb-playbook|Public Sector Digital Services Social Benefits Data Model]]
-- [[psds-data-model-gm|Public Sector Digital Services Grants Management Data Model]]
-- [[psds-data-model-icm|Investigative Case Management Data Model]]
-- [[psds-data-model-service-applicant|Service Applicant Data Model]]

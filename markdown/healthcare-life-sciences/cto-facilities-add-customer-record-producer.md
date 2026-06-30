@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Add custom record producers to the service catalog in Care Team Operations for Facilities
 
-Add custom record producers that you've configured into service catalogs in [[cto-facilities-landing|Care Team Operations for Facilities]].
+Add custom record producers that you've configured into service catalogs in Care Team Operations for Facilities.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin
 
 You have created a custom record producer for use with Care Team Operations for Facilities.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

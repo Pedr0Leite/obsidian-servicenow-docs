@@ -14,7 +14,7 @@ breadcrumb: [Enabling ACC data collection, ACC deployment - shared between serve
 
 # Pause Agent Client Collector data collection
 
-If CPU consumption on your server is getting too high, you can manually turn off the [[acc-landing-page|Agent Client Collector]] data collection to pause all checks performed by the agent, except for the agent's keep alive messages.
+If CPU consumption on your server is getting too high, you can manually turn off the Agent Client Collector data collection to pause all checks performed by the agent, except for the agent's keep alive messages.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Enabling Agent Client Collector data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collection-enabling.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

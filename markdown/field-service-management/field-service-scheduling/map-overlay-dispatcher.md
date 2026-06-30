@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Show map overlays in Dispatcher Workspace
 
-View real‑time traffic and other map overlays in [[dispatcher-activities|Dispatcher Workspace]] to assess conditions that may affect technician travel.
+View real‑time traffic and other map overlays in Dispatcher Workspace to assess conditions that may affect technician travel.
 
 ## Before you begin
 
@@ -68,12 +68,9 @@ Displays task locations on the map.
 
 </td><td>
 
-Displays event locations on the map.**Note:** Event markers are only available if [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is enabled.
+Displays event locations on the map.**Note:** Event markers are only available if Workforce Optimization for Field Service is enabled.
 
 </td></tr></tbody>
 </table>    \[Omitted image "map-overlay.png"\] Alt text: map overlay options
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

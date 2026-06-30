@@ -16,7 +16,7 @@ Organizing your domains is a crucial part of the domain separation process. If y
 
 When you set the default domain, its records are not visible to any user other than an admin.
 
-**Note:** The defaults access can be changed by granting [[users|users]] visibility to the default domain or the parent domain.
+**Note:** The defaults access can be changed by granting users visibility to the default domain or the parent domain.
 
 You should always set one default domain for the domain records on your instance. The default domain is where the system automatically assigns task and user records that are not already assigned to a domain.
 
@@ -24,7 +24,7 @@ When you create a default domain from the Domain Administration screen, add the 
 
 Maintain regularly the records that you create in the default domain and move them to the correct domains. If records show up often in the default domain, you may need to investigate why. Ideally, you should make sure that all records are created in their appropriate domains \(not global or default domains\).
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -63,7 +63,7 @@ Maintain regularly the records that you create in the default domain and move th
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Contains queries and domain access]()
 
@@ -79,8 +79,3 @@ Maintain regularly the records that you create in the default domain and move th
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[logs|Logs]]

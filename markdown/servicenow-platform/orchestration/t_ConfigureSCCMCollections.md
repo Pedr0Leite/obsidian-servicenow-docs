@@ -24,9 +24,9 @@ Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
 ## About this task
 
-The SCCM configuration process associates software with SCCM collections. To deploy software from an SCCM server, the user or device must be a member of an SCCM collection associated with an **install** deployment. [[c_ClientSoftwareDistribution|Client Software Distribution]] \(CSD\) allows you to [revoke unentitled software](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMSoftwareRevocation.md) using an SCCM server when that software can be removed using an **uninstall** collection. Users requesting revokable software from the [[service-catalog|Service Catalog]] also have the ability to define lease start and stop dates and request lease extensions.
+The SCCM configuration process associates software with SCCM collections. To deploy software from an SCCM server, the user or device must be a member of an SCCM collection associated with an **install** deployment. Client Software Distribution \(CSD\) allows you to [revoke unentitled software](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMSoftwareRevocation.md) using an SCCM server when that software can be removed using an **uninstall** collection. Users requesting revokable software from the Service Catalog also have the ability to define lease start and stop dates and request lease extensions.
 
-\[Omitted image "SCCMTableRelationshipsDiagram.png"\] Alt text: SCCM table [[reference-document-management|references]]
+\[Omitted image "SCCMTableRelationshipsDiagram.png"\] Alt text: SCCM table references
 
 ## Procedure
 
@@ -95,8 +95,3 @@ Discovery model that links the unentitled software installation with the SCCM co
 </table>
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]
-- [[reference-document-management|References]]

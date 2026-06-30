@@ -18,9 +18,9 @@ Describes the conditions when an SLA might not trigger as expected.
 
 Using Task SLA -1 \(highlighted in the screenshot\) as an example, an SLA Manager may have expected this SLA to trigger earlier.
 
-\[Omitted image "why-sla-did-not-trigger-1.png"\] Alt text: [[c_SLATimeline|SLA Timeline]]
+\[Omitted image "why-sla-did-not-trigger-1.png"\] Alt text: SLA Timeline
 
-To troubleshoot this inconcistency, the SLA Manager can enable **Show all task updates** from the [[settings-mobile|settings]] menu in the upper right of the SLA Timeline. The SLA timeline displays task updates that do not cause an SLA stage change as a white triangle.
+To troubleshoot this inconcistency, the SLA Manager can enable **Show all task updates** from the settings menu in the upper right of the SLA Timeline. The SLA timeline displays task updates that do not cause an SLA stage change as a white triangle.
 
 \[Omitted image "why-sla-did-not-trigger-2.png"\] Alt text: Show all task updates toggle button
 
@@ -32,12 +32,7 @@ On inspecting the details for the task update that triggered the SLA start condi
 
 **Show all task updates** is a powerful tool to help SLA Managers understand why an SLA may not have behaved as expected.
 
-\[Omitted image "why-sla-did-not-trigger-4.png"\] Alt text: [[c_SLAConditions|SLA conditions]] that caused stage change
+\[Omitted image "why-sla-did-not-trigger-4.png"\] Alt text: SLA conditions that caused stage change
 
 **Parent Topic:**[SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLATimeline.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]
-- [[settings-mobile|Settings]]
-- [[c_SLAConditions|SLA conditions]]

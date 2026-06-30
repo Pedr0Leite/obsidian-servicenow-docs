@@ -31,7 +31,7 @@ To use IBM Netcool\_V2 connector, configure a connector instance for the MID Ser
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Click **New** and create a connector instance with the following details:
 
@@ -97,6 +97,3 @@ Required parameters
 
 [Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

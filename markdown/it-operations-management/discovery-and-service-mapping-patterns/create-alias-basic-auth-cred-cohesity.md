@@ -20,7 +20,7 @@ Create an alias and add it to a basic authentication credential to discover Cohe
 
 Verify you have a basic authentication account configured with proper permissions. For more information, see the [Verify API permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cohesity-storage-system-discovery.md) section in [Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cohesity-storage-system-discovery.md).
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -53,14 +53,10 @@ Role required: [[r-discovery|discovery]]\_admin
 
 ## What to do next
 
-Create a [[serverless-discovery|serverless discovery]] schedule. For more information, see [Create a serverless schedule for Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-cohesity.md).
+Create a serverless discovery schedule. For more information, see [Create a serverless schedule for Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-cohesity.md).
 
 **Related topics**  
 
 
 [Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cohesity-storage-system-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[serverless-discovery|Serverless Discovery]]

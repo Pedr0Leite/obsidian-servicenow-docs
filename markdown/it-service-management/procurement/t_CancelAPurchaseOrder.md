@@ -18,7 +18,7 @@ You can cancel purchase orders with a status of **Requested**, **Ordered**, or *
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -37,6 +37,3 @@ Purchase order line items can also be canceled from a purchase order.
 
 **Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

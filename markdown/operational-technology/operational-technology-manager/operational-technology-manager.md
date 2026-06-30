@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology Manager
 
-The Operational Technology Manager application creates the foundational data and relationships that enable your organization to use the ServiceNow® [[operational-technology-overview|Operational Technology]] solution. Operational Technology Manager supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
+The Operational Technology Manager application creates the foundational data and relationships that enable your organization to use the ServiceNow® Operational Technology solution. Operational Technology Manager supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
 
 Watch an overview about Operational Technology and the ServiceNow Operational Technology Management solution.\[Omitted video\] Description: Operational Technology Management solution overview that explains Operational Technology and ServiceNow's solution
 
@@ -36,7 +36,7 @@ Watch an overview about Operational Technology and the ServiceNow Operational Te
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
 </td><td>
 
@@ -44,8 +44,3 @@ Watch an overview about Operational Technology and the ServiceNow Operational Te
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

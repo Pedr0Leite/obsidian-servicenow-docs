@@ -15,7 +15,7 @@ breadcrumb: [Reference, Card Data Security, Dispute Management, Banking applicat
 
 # Domain separation and Card Data Security
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for [[card-data-security|Card Data Security]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Card Data Security. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Card Data Security
 
-All [[fso-overview|Financial Services Operations \(FSO\)]] applications are built on top of and use many CSM tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
+All [Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-overview.md) applications are built on top of and use many CSM tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
 
 **Parent Topic:**[Card Data Security Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security-reference.md)
 
@@ -40,8 +40,3 @@ All [[fso-overview|Financial Services Operations \(FSO\)]] applications are buil
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[card-data-security|Card Data Security]]

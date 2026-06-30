@@ -26,7 +26,7 @@ You can select to work either in a compact view of Connect that overlays the sta
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Click the required alert.
 
@@ -45,6 +45,3 @@ You can select to work either in a compact view of Connect that overlays the sta
 
 **Parent Topic:**[View alert information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

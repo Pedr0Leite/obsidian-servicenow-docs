@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-To configure the List Menu, you can follow this procedure or use [[configure-psds-foundation-data|guided setup]] for the Public Sector Digital Services Core application.
+To configure the List Menu, you can follow this procedure or use [guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md) for the Public Sector Digital Services Core application.
 
 ## Procedure
 
@@ -64,12 +64,7 @@ To configure the List Menu, you can follow this procedure or use [[configure-psd
 
 ## What to do next
 
-[[public-sector-configure-landing-page|Configure the Public Sector landing page using UI Builder.]]
+[Configure the Public Sector landing page using UI Builder.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-configure-landing-page.md)
 
-**Parent Topic:**[[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md)
 
-## Related
-
-- [[configure-psds-foundation-data|Configure Public Sector Digital Services foundational data and workflows]]
-- [[public-sector-configure-landing-page|Configure the Public Sector landing page with UI Builder]]
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]

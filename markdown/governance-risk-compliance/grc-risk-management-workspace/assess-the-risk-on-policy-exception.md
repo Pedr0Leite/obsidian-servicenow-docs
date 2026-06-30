@@ -32,7 +32,7 @@ For more information, see [Manage policy exceptions and extensions](https://raw.
 
 3.  Review the form details, as necessary.
 
-4.  Click the [[bia-uib|Business Impact Analysis]] tab and update the following fields:
+4.  Click the Business Impact Analysis tab and update the following fields:
 
 <table id="table_epy_qrq_f5"><thead><tr><th>
 
@@ -127,7 +127,7 @@ Click the Mitigating Controls tab.
 
 Click the Risks tab.
 
- **Note:** This option is available when [[r_WhatIsGRC|Governance, Risk, and Compliance]] is also activated.
+ **Note:** This option is available when Governance, Risk, and Compliance is also activated.
 
 </td></tr><tr><td id="d208157e305">
 
@@ -151,7 +151,3 @@ Click the Task SLAs tab.
 
 **Parent Topic:**[Assess risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-risk-old-way.md)
 
-## Related
-
-- [[bia-uib|Business impact analysis]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

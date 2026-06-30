@@ -22,7 +22,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 ## About this task
 
-Configure **Additional group by** and **Stack by** choices that users can select when viewing the chart. Additional group bys can be added to any report that supports group bys \(such as bar or pie\) and to [[list-reports|list reports]] as columns. When you configure an additional group by to a bar or horizontal bar, it is also added as an additional stack by. You can add variables and variable groups as additional group bys.
+Configure **Additional group by** and **Stack by** choices that users can select when viewing the chart. Additional group bys can be added to any report that supports group bys \(such as bar or pie\) and to list reports as columns. When you configure an additional group by to a bar or horizontal bar, it is also added as an additional stack by. You can add variables and variable groups as additional group bys.
 
 **Note:**
 
@@ -48,7 +48,7 @@ Configure **Additional group by** and **Stack by** choices that users can select
 
     Users viewing the report can select one of these fields to group or stack the report data. The report **Group by** and **Stack by** field values are the default choices.
 
-    **Note:** Only bar and horizontal bar reports use stacked data. Other [[report-types-creation-details-rd|report types]] allow only grouping.
+    **Note:** Only bar and horizontal bar reports use stacked data. Other report types allow only grouping.
 
 6.  Arrange the fields in the **Selected** column in the order you want them to appear to users.\[Omitted image "additional-group-by-stack-by-order.png"\] Alt text: Additional group by - ordering example
 
@@ -59,7 +59,3 @@ Configure **Additional group by** and **Stack by** choices that users can select
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[list-reports|List reports]]
-- [[report-types-creation-details-rd|Report types]]

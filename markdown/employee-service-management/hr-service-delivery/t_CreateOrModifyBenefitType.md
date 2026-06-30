@@ -20,11 +20,11 @@ Benefit types are benefits offered by your company and the associated table.
 
 Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 
-You can add or modify a benefit type using the [[c_ManagedLists|Managed Lists]] module.
+You can add or modify a benefit type using the Managed Lists module.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Managed Lists** &gt; **Benefit Types**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Benefit Types**.
 
     The HR Benefit Types list opens.
 
@@ -106,7 +106,3 @@ Check to indicate that this benefit type requires beneficiaries to be entered wh
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_ManagedLists|Managed lists]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

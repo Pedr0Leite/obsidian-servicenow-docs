@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Filter the name field to locate and open **Migrate budget for active demands and projects**.
 
-3.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+3.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-pws.md)
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

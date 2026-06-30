@@ -14,7 +14,7 @@ breadcrumb: [Collect data for Platform Analytics Solutions, Platform Analytics s
 
 # Run historical data collection for a Platform Analytics Solution
 
-After you activate an [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution, run a historical data collection job. This job gives you immediate insight from your existing data.
+After you activate an Platform Analytics Solution, run a historical data collection job. This job gives you immediate insight from your existing data.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Role required: pa\_admin, admin
 
 ## Collecting historical data for newly installed Platform Analytics Solution
 
-You have just installed a set of [[content-packs-in-form-analytics-published|Platform Analytics Solutions]]. You want to run the initial historical data collection job on them, so you navigate to **Performance Analytics** &gt; **Data Collector** &gt; **Jobs**. To find the historic jobs for Platform Analytics Solutions, you filter the list on \[\[Name\]\[contains\]\[Historic\]\].
+You have just installed a set of Platform Analytics Solutions. You want to run the initial historical data collection job on them, so you navigate to **Performance Analytics** &gt; **Data Collector** &gt; **Jobs**. To find the historic jobs for Platform Analytics Solutions, you filter the list on \[\[Name\]\[contains\]\[Historic\]\].
 
 **Tip:** When you start to create your own historical data collector jobs, include the word 'Historic' in their names.
 
@@ -87,7 +87,3 @@ You are satisfied with the settings for the historical job, so you click **Execu
 
 [Collect historical data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_RunHistoricalDataCollection.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]

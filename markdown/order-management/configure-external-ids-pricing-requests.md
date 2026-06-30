@@ -51,7 +51,7 @@ For information on the pricing API, see [Sales CRM Pricing API](https://raw.gith
 
     2.  In the **Label** field, enter the name of the context variable to be displayed in the user interface.
 
-        The **Column name** and **Code** [[fields|fields]] are automatically generated based on the **Label name** entered. The default value for the **Type of mapping** field is set to Field mapping.
+        The **Column name** and **Code** fields are automatically generated based on the **Label name** entered. The default value for the **Type of mapping** field is set to Field mapping.
 
         **Note:** You can enter your own **Code** value to replace the system-generated code. If the context variable is used in a published pricing or product eligibility matrix, the **Code** value for the context variable can't be changed.
 
@@ -67,6 +67,4 @@ For information on the pricing API, see [Sales CRM Pricing API](https://raw.gith
 
     The external ID defined by the context variable can be used in pricing requests.
 
-## Related
 
-- [[fields|Fields]]

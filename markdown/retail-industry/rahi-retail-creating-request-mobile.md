@@ -20,7 +20,7 @@ Role required: Store associate or Store manager
 
 ## Procedure
 
-1.  In the [[rahi-retail-retail-mobile|Retail mobile application]], select **Browse Catalog** &gt; **Store policy inquiry**.
+1.  In the Retail mobile application, select **Browse Catalog** &gt; **Store policy inquiry**.
 
 2.  Fill in the information about the request, such as which store the request is for, the priority of the request, purpose of the inquiry, and other details.
 
@@ -32,9 +32,5 @@ Role required: Store associate or Store manager
     |**Detailed description of the inquiry including any specific questions**|Details about this request.|
 
 
-**Parent Topic:**[[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 
-## Related
-
-- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
-- [[rahi-retail-retail-mobile|Retail mobile application]]

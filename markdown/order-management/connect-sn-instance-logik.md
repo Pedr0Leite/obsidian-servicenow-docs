@@ -42,13 +42,13 @@ Role required: admin
 
     3.  Select **Update**.
 
-4.  Validate that the connection to the CPQ site is valid by navigating to **All** &gt; **CPQ Administration** and open the CPQ site \(listing no [[blueprints|blueprints]] by default\).
+4.  Validate that the connection to the CPQ site is valid by navigating to **All** &gt; **CPQ Administration** and open the CPQ site \(listing no blueprints by default\).
 
     If this fails to open, check the previous steps for typos and trailing slashes.
 
 5.  Generate the admin API key in CPQ.
 
-    1.  In CPQ, login as admin user and navigate to **Select [[cpq-utilities|Utilities]]** &gt; **Admin API Keys**.
+    1.  In CPQ, login as admin user and navigate to **Select Utilities** &gt; **Admin API Keys**.
 
     2.  Specify a name and user ID \(with the same name: by default, "admin"\).
 
@@ -84,10 +84,5 @@ Role required: admin
 **Related topics**  
 
 
-[[set-up-logik-instance|Provision a Logik.ai instance]]
+[Provision a Logik.ai instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/set-up-logik-instance.md)
 
-## Related
-
-- [[set-up-logik-instance|Provision a Logik.ai instance]]
-- [[blueprints|Blueprints]]
-- [[cpq-utilities|Utilities]]

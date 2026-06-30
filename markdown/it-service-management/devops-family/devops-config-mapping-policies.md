@@ -14,7 +14,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 # Mapping policies in DevOps Config
 
-Mapping a policy to a deployable enables you to validate updates on it. These policies in [[devops-config-landing-page|DevOps Config]] are powered by Policy as Code Engine \(PaCE\).
+Mapping a policy to a deployable enables you to validate updates on it. These policies in DevOps Config are powered by Policy as Code Engine \(PaCE\).
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -26,7 +26,7 @@ After you create a policy, you can map it to a deployable to invoke the policy w
 
 -   **Dynamic mapping**
 
-    In dynamic mapping, a policy is mapped to deployables dynamically based on pre-defined conditions. This mapping type helps you to apply policies to a larger set of deployables across multiple [[dex-workspace-application-tab|applications]] that all meet the same conditions. Validation is triggered on dynamically mapped policies at run time for a deployable.
+    In dynamic mapping, a policy is mapped to deployables dynamically based on pre-defined conditions. This mapping type helps you to apply policies to a larger set of deployables across multiple applications that all meet the same conditions. Validation is triggered on dynamically mapped policies at run time for a deployable.
 
 
 You can view all policies mapped to deployables of an application by selecting the **View mapped policies** option on the **Policies** tab on the Application form. Select a deployable from the list to view policies mapped to it using both static mapping or dynamic mapping.
@@ -34,12 +34,7 @@ You can view all policies mapped to deployables of an application by selecting t
 \[Omitted image "cdm-app-policies-tab.png"\] Alt text: Policies tab on the Application form to view all mappings and manage static mappings.
 
 -   **[Map policies to a deployable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-deployable-map-policy-to.md)**  
-[[cdm-deployable-map-policy-to|Map policies to a deployable]] to define the validation processes that the config data must pass.You can map policies to a deployable using static mapping or dynamic mapping.
+Map policies to a deployable to define the validation processes that the config data must pass.You can map policies to a deployable using static mapping or dynamic mapping.
 
 **Parent Topic:**[Configuring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/setting-up-devops-config-validation.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]
-- [[cdm-deployable-map-policy-to|Map policies to a deployable]]

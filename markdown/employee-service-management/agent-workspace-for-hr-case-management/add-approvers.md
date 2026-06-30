@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Add adhoc approvers to an HR case in the Agent Workspace for HR Case Management
 
-Provide your agents with the flexibility to [[add-approvers-cm|add adhoc approvers to a case]] that is part of an HR service.
+Provide your agents with the flexibility to add adhoc approvers to a case that is part of an HR service.
 
 ## Before you begin
 
@@ -90,6 +90,4 @@ Any other information that you want to share with the approvers.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[add-approvers-cm|Add adhoc approvers to a case]]

@@ -136,7 +136,7 @@ Internet management point FQDN
 
 </td><td>
 
-Cloud-based server endpoint \(fully qualified domain name\) for internet-managed [[dex-workspace-devices-tab|devices]].
+Cloud-based server endpoint \(fully qualified domain name\) for internet-managed devices.
 
 </td></tr><tr><td>
 
@@ -241,6 +241,3 @@ Validates client health and auto-fixes known issues.
 </td></tr></tbody>
 </table>**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

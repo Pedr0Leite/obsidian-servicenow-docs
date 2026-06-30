@@ -18,11 +18,11 @@ You can install Health and Safety Testing if you have the admin role.
 
 ## Before you begin
 
-[[health-safety-testing|Health and Safety Testing]] requires the ServiceNow® [[employee-readiness-core|Employee Readiness Core]] application.
+Health and Safety Testing requires the ServiceNow® Employee Readiness Core application.
 
-The ServiceNow® [[contact-tracing|Contact Tracing]] application can optionally be installed to send an email notification to employees who are potentially exposed individuals in a contact tracing case. The notification informs the employee of the potential exposure and provides them with a link to request testing.
+The ServiceNow® Contact Tracing application can optionally be installed to send an email notification to employees who are potentially exposed individuals in a contact tracing case. The notification informs the employee of the potential exposure and provides them with a link to request testing.
 
-The ServiceNow® [[emergency-response-management|Emergency Response Management]] for Now Mobile application can optionally be installed to add a **Health** tab to the [[mobile-employee-experience|Now Mobile app]] where employees can request testing or report a test result.
+The ServiceNow® Emergency Response Management for Now Mobile application can optionally be installed to add a **Health** tab to the Now Mobile app where employees can request testing or report a test result.
 
 Role required: admin
 
@@ -48,7 +48,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the Emergency Response Management and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -71,19 +71,19 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </td></tr></tbody>
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
 -   Contact Tracing \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
 -   Health and Safety Testing \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
@@ -191,21 +191,3 @@ Types of testing offered by providers. The options are **At a facility** and **S
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[vaccination-status|Vaccination Status]]

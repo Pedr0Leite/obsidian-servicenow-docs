@@ -36,7 +36,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Pending User Registrations** and open the request.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Pending User Registrations** and open the request.
 
 2.  Use the **Create User** and **Reject** related links on the registration request form to approve or deny the request.
 
@@ -55,21 +55,16 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **System**.
+1.  Navigate to **System Properties** &gt; **System**.
 
 2.  Select **Enable auto processing of user registration request**
 
 3.  Select **save**
 
-    If enabled, registration requests do not require approval. Instead, the business rule **Auto-Process User Registration** creates [[user|the user record]] from the information provided.
+    If enabled, registration requests do not require approval. Instead, the business rule **Auto-Process User Registration** creates the user record from the information provided.
 
 
 ### What to do next
 
 Request activation of the [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md) \(`com.glide.explicit_roles`\) plugin. The Explicit Roles plugin creates two roles to differentiate between internal and external users.
 
-## Related
-
-- [[c_UserAdministration|User administration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[user|The User record]]

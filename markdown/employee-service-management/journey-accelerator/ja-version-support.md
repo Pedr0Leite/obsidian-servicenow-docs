@@ -14,7 +14,7 @@ breadcrumb: [Explore, Journey Accelerator, Employee Journey Management, HR Servi
 
 # Journey Accelerator versions and release compatibility
 
-Available features depend on the [[journey-accelerator-1|Journey Accelerator]] version, family release, and application-specific features.
+Available features depend on the Journey Accelerator version, family release, and application-specific features.
 
 Not all Journey Accelerator features are available in all supported family releases. Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view the latest information and requirements for features and releases.
 
@@ -26,7 +26,7 @@ Different versions of Journey Accelerator are supported only in certain family r
 
 Supported family releases: Tokyo.
 
-**Note:** Journey Accelerator Version 5.0.0 cannot be installed as a standalone application. Journey Accelerator version 5 functionality is installed as a dependency with [[jny-dsgnr-landing-page-1|Journey designer]] version 1. This information is for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] only.
+**Note:** Journey Accelerator Version 5.0.0 cannot be installed as a standalone application. Journey Accelerator version 5 functionality is installed as a dependency with Journey designer version 1. This information is for reference only.
 
 Other requirements: To schedule Outlook meetings from Journey Accelerator tasked-based to-dos, the following spoke should be installed:
 
@@ -45,8 +45,8 @@ Supported family releases:
 
 System requirements:
 
--   [[hr-service-delivery|HR Service Delivery]] Enterprise package
--   [[employee-center-landing-page|Employee Center]] \[sn\_ex\_sp\]
+-   HR Service Delivery Enterprise package
+-   Employee Center \[sn\_ex\_sp\]
 -   Content Publishing \[sn\_cd\]
 -   The following update sets must be loaded after installing Journey Accelerator. Links to the update sets are in the Supporting Links and Documentation section of the ServiceNow Store:
     -   JA\_ESC\_header\_menu\_item-Journey Accelerator\_Plans.xml
@@ -59,7 +59,7 @@ Other requirements:
     -   Microsoft Exchange Online Spoke v3.2.0 \[sn\_ex\_online\_spke\]
     -   Retry Handler Framework v1.0.1 \[sn\_retry\_handler\]
 -   To use the Listening Posts \[sn\_lp\] application, you must install Listening Posts v4.0.2 from the ServiceNow Store \(and all Listening Posts requirements\)
--   To use the [[exploring-learning-exp|Learning]] Posts \[sn\_lnp\] application, you must install Learning Posts v4.0.2 from the ServiceNow Store \(and all Learning Posts requirements\) as well as the following update set: JA\_HR\_Learning\_Core.xml
+-   To use the Learning Posts \[sn\_lnp\] application, you must install Learning Posts v4.0.2 from the ServiceNow Store \(and all Learning Posts requirements\) as well as the following update set: JA\_HR\_Learning\_Core.xml
 
 [Key features and requirements summary for the latest version of Journey Accelerator in ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/81a78882532210108ccbddeeff7b128d)
 
@@ -166,11 +166,3 @@ System Requirements:
 
 [Key features and requirements summary for Journey Accelerator Version 1.0.2 in ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/81a78882532210108ccbddeeff7b128d/1.0.2)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

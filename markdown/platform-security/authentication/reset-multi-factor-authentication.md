@@ -14,7 +14,7 @@ breadcrumb: [Configuring MFA, Multi-factor authentication, Authentication, Acces
 
 # Reset Multi-factor Authentication \(MFA\) for users
 
-Administrators can reset MFA for [[users|users]] who deleted the app, lost access to the device, or have no alternative MFA associated with their device.
+Administrators can reset MFA for users who deleted the app, lost access to the device, or have no alternative MFA associated with their device.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ The following procedure describes how a ServiceNow® administrator can reset the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **User Multi-factor Setup**.
+1.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Multi-factor Setup**.
 
 2.  Search for the user that you want to unblock.
 
 3.  Set the Validate to **false**.
 
-4.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **[[mfa-web-auth|Web Authentication]]** &gt; **User Public Credentials \(sys\_user\_public\_credential**.
+4.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **Web Authentication** &gt; **User Public Credentials \(sys\_user\_public\_credential**.
 
 5.  Search for the user that you want to unblock.
 
@@ -45,11 +45,5 @@ The following procedure describes how a ServiceNow® administrator can reset the
 
 ## Result
 
-When the unblocked user enters the credentials and [[logs|logs]] in, the **Enable multi-factor authentication \(MFA\)** page is displayed. The user can follow the steps on the page to re-register MFA.
+When the unblocked user enters the credentials and logs in, the **Enable multi-factor authentication \(MFA\)** page is displayed. The user can follow the steps on the page to re-register MFA.
 
-## Related
-
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[mfa-web-auth|Web Authentication]]
-- [[logs|Logs]]

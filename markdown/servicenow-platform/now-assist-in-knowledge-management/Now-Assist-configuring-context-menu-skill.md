@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist in Knowledge Management, Now Assist in Knowled
 
 # Configure skill for Now Assist context menu
 
-Configure the knowledge content recommendation skill so that the agents can use the Now Assist context menu to expand or shorten a knowledge article in TinyMCE. With the new content editor available in the [[knowledge-center|Knowledge Center]], agents can create and edit knowledge articles using custom instructions.
+Configure the knowledge content recommendation skill so that the agents can use the Now Assist context menu to expand or shorten a knowledge article in TinyMCE. With the new content editor available in the Knowledge Center, agents can create and edit knowledge articles using custom instructions.
 
 ## Before you begin
 
@@ -44,9 +44,5 @@ Role required: admin
 
 [Edit an article using the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-using-context-menu.md)
 
-[[kc-article-editor|Generate and edit articles using Now Assist in the Knowledge Center article editor]]
+[Generate and edit articles using Now Assist in the Knowledge Center article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-article-editor.md)
 
-## Related
-
-- [[kc-article-editor|Generate and edit articles using Now Assist in the Knowledge Center article editor]]
-- [[knowledge-center|Knowledge Center]]

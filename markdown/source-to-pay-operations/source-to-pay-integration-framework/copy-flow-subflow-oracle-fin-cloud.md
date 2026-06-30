@@ -40,9 +40,9 @@ Role required: sn\_fcms\_intg.integration\_user
     -   Activate the copied flow after making the required changes.
 6.  Use the **Trigger Condition** for the flow or subflow.
 
-    This flow or subflow is triggered and associated with the [[purchase-order-table|purchase order]] when the following conditions are met:
+    This flow or subflow is triggered and associated with the purchase order when the following conditions are met:
 
-    -   **[[legal-entity|Legal entity]] . [[erp-source|ERP source]] . Active** is **true**.
+    -   **Legal entity . ERP source . Active** is **true**.
     -   **Legal entity . ERP source . ERP Source** is **not empty**.
     -   **Status** is **Pending Submission**
     **Note:** Do not modify the trigger condition.
@@ -51,8 +51,4 @@ Role required: sn\_fcms\_intg.integration\_user
 
     You have successfully copied and executed the flow.
 
-## Related
 
-- [[purchase-order-table|Purchase order]]
-- [[legal-entity|Legal entity]]
-- [[erp-source|ERP source]]

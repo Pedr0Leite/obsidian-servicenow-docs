@@ -14,7 +14,7 @@ breadcrumb: [Configure the Tanium environment, Tanium Endpoints, Service Graph C
 
 # Create an API token
 
-Create an API token to be used by the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]].
+Create an API token to be used by the Service Graph Connector for Tanium Endpoints.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ For more information, see [Creating API tokens for ServiceNow](https://help.tani
 
     -   **Notes**: Enter the integration name and the ServiceNow instance.
     -   **Expiration**: Set the value to more than `7 days` \(recommended\). ServiceNow rotates tokens automatically every seven days.
-    -   **Trusted IP Addresses**: Enter the IP addresses of the ServiceNow [[mid-server-landing|MID Server]] or instance.
+    -   **Trusted IP Addresses**: Enter the IP addresses of the ServiceNow MID Server or instance.
 5.  Select **Create**.
 
 6.  Copy the token and store the token information securely.
@@ -44,7 +44,3 @@ For more information, see [Creating API tokens for ServiceNow](https://help.tani
 
 Provide the API token to the ServiceNow administrator who configures the data source for the Service Graph Connector for Tanium Endpoints.
 
-## Related
-
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[mid-server-landing|MID Server]]

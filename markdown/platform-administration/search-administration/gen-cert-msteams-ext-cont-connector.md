@@ -15,7 +15,7 @@ breadcrumb: [Microsoft Teams external content connector, Configure, External Con
 
 # Create a public/private key pair for the Microsoft Teams external content connector
 
-Generate a public/private key pair for the [[microsoft-teams-external-content-connector|Microsoft Teams external content connector]]. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra [[admin-center-intro|admin center]].
+Generate a public/private key pair for the Microsoft Teams external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
 
 ## Before you begin
 
@@ -89,7 +89,7 @@ To configure public/private key pair authentication for the connector, you need 
 
 ## What to do next
 
-Provide both of the files you generated to the admins who configure your Microsoft Teams instance and [[ia-ai-search|AI Search]] on your ServiceNow AI Platform® instance, as follows:
+Provide both of the files you generated to the admins who configure your Microsoft Teams instance and AI Search on your ServiceNow AI Platform® instance, as follows:
 
 <table id="table_rr3_wd3_xdc"><thead><tr><th>
 
@@ -118,8 +118,3 @@ Provide this Java KeyStore file and its password to your ServiceNow AI Platform 
 </td></tr></tbody>
 </table>**Parent Topic:**[Microsoft Teams external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-teams-external-content-connector.md)
 
-## Related
-
-- [[microsoft-teams-external-content-connector|Microsoft Teams external content connector]]
-- [[admin-center-intro|Admin Center]]
-- [[ia-ai-search|AI Search]]

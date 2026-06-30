@@ -15,7 +15,7 @@ breadcrumb: [AI assets, AI Control Tower dashboard, Explore, AI Control Tower, E
 
 # AI asset inventory
 
-AI asset inventory includes all the [[ai-assets|AI assets]] such as [[ai-models|AI models]], [[ai-system|AI systems]], [[ai-prompts|prompts]], [[ai-datasets|datasets]], and MCP servers that an organization can use.
+AI asset inventory includes all the AI assets such as AI models, AI systems, prompts, datasets, and MCP servers that an organization can use.
 
 ## AI asset inventory view
 
@@ -44,15 +44,7 @@ AI assets are presented in a list format and organized by display name, provider
 
 For information on AI asset record details, see [View AI asset details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-asset-details.md)
 
-For information on [[creating-ai-assets|creating AI assets]], see [Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
+For information on creating AI assets, see [Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
 For information on process flow of the MCP servers, see [Process flow of MCP servers Via AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/process-flow-of-mcp-servers-via-ai-gateway.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-models|AI models]]
-- [[ai-system|AI systems]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]
-- [[creating-ai-assets|Creating AI assets]]

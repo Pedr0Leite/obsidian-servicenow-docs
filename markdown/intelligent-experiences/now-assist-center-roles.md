@@ -13,14 +13,14 @@ breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
 
 # Now Assist Center roles
 
-[[now-assist-center-landing-page|Now Assist Center]] is installed with these roles.
+Now Assist Center is installed with these roles.
 
-**Parent Topic:**[[now-assist-center-reference|Now Assist Center reference]]
+**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] Center]()
+[Components installed with Now Assist Center]()
 
 [Domain separation and Now Assist Center]()
 
@@ -28,7 +28,7 @@ breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
 
 ## Now Assist Center admin \[sn\_na\_center.nac\_admin\]
 
-Use the [[now-assist-center-workspace|Now Assist Center workspace]] to access and set up Now Assist solutions, perform administrative tasks, and monitor performance. This role has full access to the Now Assist Center application, and can access Now Assist Center tables.
+Use the Now Assist Center workspace to access and set up Now Assist solutions, perform administrative tasks, and monitor performance. This role has full access to the Now Assist Center application, and can access Now Assist Center tables.
 
 ### Contains Roles
 
@@ -68,9 +68,3 @@ None.
 
 None.
 
-## Related
-
-- [[now-assist-center-reference|Now Assist Center reference]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]

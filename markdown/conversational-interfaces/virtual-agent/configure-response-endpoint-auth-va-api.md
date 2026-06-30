@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent API, Build and deploy, Virtual Agent, Conv
 
 # Configure output response REST endpoint and outbound authentication for the Virtual Agent API \(v4.1 or above\)
 
-Specify the outbound endpoint URL to which the [[virtual-agent-landing-page|Virtual Agent]] responses are posted. Configure outbound authentication.
+Specify the outbound endpoint URL to which the Virtual Agent responses are posted. Configure outbound authentication.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

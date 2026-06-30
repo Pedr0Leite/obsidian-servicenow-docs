@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow access control, Access Management]
 
 # Configure ServiceNow access control
 
-Configure an [[sc-access-control|access control]] record to specify one or more Customer Service and Support employees who have permission to log in your instance.
+Configure an access control record to specify one or more Customer Service and Support employees who have permission to log in your instance.
 
 ## Before you begin
 
@@ -90,7 +90,3 @@ Controls whether this permission record is active. The default is Active.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-access-control|Access control]]

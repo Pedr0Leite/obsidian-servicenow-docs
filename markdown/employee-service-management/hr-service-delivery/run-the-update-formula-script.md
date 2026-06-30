@@ -14,7 +14,7 @@ breadcrumb: [Configure HR Success Dashboard indicators, HR Success Dashboard ind
 
 # Run Update formula script for HR Success Dashboard indicators
 
-Run the update formula script to recalculate all the formulas in the [[success-dashboard-landing|HR Success Dashboard indicators]], if you see outdated data in the dashboard.
+Run the update formula script to recalculate all the formulas in the HR Success Dashboard indicators, if you see outdated data in the dashboard.
 
 ## Before you begin
 
@@ -28,6 +28,4 @@ Role required: admin
 
 3.  Select **Execute Now**.
 
-## Related
 
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

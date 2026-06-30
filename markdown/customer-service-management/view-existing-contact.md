@@ -12,7 +12,7 @@ breadcrumb: [Use Microsoft Outlook with CSM, Schedules and sites, Use, Customer 
 
 # View Microsoft Outlook customer contact details in your instance
 
-Once you have integrated [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) with Microsoft Outlook, you can view customer details in an Outlook add-in panel to make communication easier.
+Once you have integrated Customer Service Management \(CSM\) with Microsoft Outlook, you can view customer details in an Outlook add-in panel to make communication easier.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_customerservice.contact\_manager, sn\_customerservice.proxy\_
 
 3.  If you want to perform other contact tasks, access the contact information in the CSM portal page by clicking the Pop-out icon \(\[Omitted image "pop-out-icon.png"\] Alt text: Pop-out icon\).
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -26,7 +26,7 @@ The Export Hierarchy feature downloads a selected inventory model or template wi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(☰\) and select a model or inventory template category.
 
@@ -52,6 +52,3 @@ The JSON file containing the selected model or template and all its related reco
 
 [Export hierarchy of models and templates as JSON](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-templates-as-json.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

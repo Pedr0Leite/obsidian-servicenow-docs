@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Accounts Payable Operations, Outbound s
 
 # Organization tax details outbound staging table
 
-The [[organization-tax-details|Organization tax details]] outbound \[sn\_spend\_intg\_outbound\_tax\_detail\] staging table stores important data about an organization's tax information so that an ERP integrator can export this data to a third-party ERP system.
+The Organization tax details outbound \[sn\_spend\_intg\_outbound\_tax\_detail\] staging table stores important data about an organization's tax information so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Organization tax details outbound staging table
 
@@ -42,7 +42,7 @@ String
 
 </td><td>
 
-Tax registration status of the organization or [[supplier|supplier]].
+Tax registration status of the organization or supplier.
 
 </td></tr><tr><td>
 
@@ -118,8 +118,3 @@ Tax ID of the organization.This is a mandatory field.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[organization-tax-details|Organization tax details]]
-- [[supplier|Supplier]]

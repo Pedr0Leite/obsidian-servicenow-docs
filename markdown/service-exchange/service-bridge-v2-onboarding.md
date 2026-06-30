@@ -14,12 +14,12 @@ breadcrumb: [Use for providers, Service Exchange for Providers, Service Exchange
 
 # Register a Service Exchange consumer
 
-Registering a new consumer in [[tmt-service-bridge-both-landing-page|Service Exchange]] establishes an instance-to-instance integration between a provider and a consumer.
+Registering a new consumer in Service Exchange establishes an instance-to-instance integration between a provider and a consumer.
 
 ## Before you begin
 
 -   Role required: admin
--   A provider record must have been created. See [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]].
+-   A provider record must have been created. See [Set up a Service Exchange provider record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-new-provider.md).
 -   A company or account must exist for the consumer in the provider’s instance, and a user or contact with the sn\_sb\_pro.consumer role must be associated with the company. If this is a production instance, the user must have a valid email address to receive the registration email.
 
 ## About this task
@@ -46,7 +46,7 @@ Register a new consumer by creating a registration task for the company and inst
 
     The validation state changes to either Open or Validation Failed.
 
-    -   If all validation checks pass, the state changes to **Open**. An email is generated and sent to the consumer contact specified during registration if email sending is enabled. If email sending is not enabled, the admin must copy the link from the work notes and manually send it to the consumer admin. The consumer contact must follow the steps listed in the [[service-bridge-v2-register|Connect to a provider]] to complete the registration process on the consumer instance.
+    -   If all validation checks pass, the state changes to **Open**. An email is generated and sent to the consumer contact specified during registration if email sending is enabled. If email sending is not enabled, the admin must copy the link from the work notes and manually send it to the consumer admin. The consumer contact must follow the steps listed in the [Connect to a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-register.md) to complete the registration process on the consumer instance.
     -   If any validation checks fail, the state changes to **Validation Failed**. The registration record displays a validation failed banner indicating that one or more Pre-Onboarding suite checks did not pass with a link to the Health Dashboard. The consumer registration link is not generated until all issues are resolved.
 
 If the state is **Validation Failed**, you must resolve all issues identified during the pre-onboarding checks.
@@ -57,26 +57,17 @@ If the state is **Validation Failed**, you must resolve all issues identified du
     After all issues are resolved, the state automatically changes to Open and the registration process resumes.
 
 
--   **[[service-bridge-v2-offboard-consumer|Off-board a Service Exchange consumer]]**  
+-   **[Off-board a Service Exchange consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-offboard-consumer.md)**  
 Off-board an onboarded consumer and remove all related records.
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 **Related topics**  
 
 
-[[se-se-center|Service Exchange Center]]
+[Service Exchange Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-se-center.md)
 
-[[service-bridge-v2-scan-checks|Instance scan checks]]
+[Instance scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scan-checks.md)
 
 [Connect to a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-register.md)
 
-## Related
-
-- [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]]
-- [[service-bridge-v2-register|Connect to a provider]]
-- [[service-bridge-v2-offboard-consumer|Off-board a Service Exchange consumer]]
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[se-se-center|Service Exchange Center]]
-- [[service-bridge-v2-scan-checks|Instance scan checks]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

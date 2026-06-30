@@ -54,8 +54,5 @@ The ability to store archive data in object storage is available with the instal
 
     -   Live Archive\(com.glide.db.columnar.archive\): Enables you to archive data in object storage and set up scheduled jobs to migrate archive tables.
 
-**Parent Topic:**[[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]]
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-admin-rn-landing.md)
 
-## Related
-
-- [[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]]

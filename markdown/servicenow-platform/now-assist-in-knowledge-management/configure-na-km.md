@@ -38,11 +38,7 @@ Role required: admin
 **Related topics**  
 
 
-[[kc-home-page|Knowledge Center Home Page]]
+[Knowledge Center Home Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-home-page.md)
 
-[[address-knowledge-gaps|Manage potential knowledge gaps]]
+[Manage potential knowledge gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/address-knowledge-gaps.md)
 
-## Related
-
-- [[kc-home-page|Knowledge Center Home Page]]
-- [[address-knowledge-gaps|Manage potential knowledge gaps]]

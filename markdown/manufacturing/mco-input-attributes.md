@@ -12,7 +12,7 @@ breadcrumb: [Create promotion questionnaire, Set up sales promotion, Configure, 
 
 # Create an MCO input attribute
 
-Create the MCO input attributes for [[mco-sales-promotion|sales promotion]] campaign.
+Create the MCO input attributes for sales promotion campaign.
 
 ## Before you begin
 
@@ -24,11 +24,8 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 2.  Select **New**.
 
-3.  Fill in the fields on the [[mco-input-atrributes_form|MCO input attributes form]]form, as appropriate.
+3.  Fill in the fields on the [MCO input attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-input-atrributes_form.md)form, as appropriate.
 
 4.  Select **Save**.
 
-## Related
 
-- [[mco-input-atrributes_form|MCO input attributes form]]
-- [[mco-sales-promotion|Sales promotion]]

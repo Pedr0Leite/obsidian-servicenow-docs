@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[sites-page|Sites page]].
+1.  Navigate to the Sites page.
 
 2.  Select the **Actions** button.
 
@@ -32,6 +32,4 @@ Role required: admin
 
     \[Omitted image "import-sites.png"\] Alt text: Import Sites
 
-## Related
 
-- [[sites-page|Sites page]]

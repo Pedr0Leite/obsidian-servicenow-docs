@@ -18,7 +18,7 @@ This Accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Multi-lingual Virtual Agent Accelerator provides [[impact-landing-page|Impact]] customers with a demonstration of the possibilities and capabilities of Dynamic Translation. A demonstration of how Dynamic Translation works using Virtual Agent conversations, within AI Search via a temporary cloned instance, and hand-offs to Live Agent are included. Leading practices to get started are also incorporated.
+Jumpstart Your Multi-lingual Virtual Agent Accelerator provides Impact customers with a demonstration of the possibilities and capabilities of Dynamic Translation. A demonstration of how Dynamic Translation works using Virtual Agent conversations, within AI Search via a temporary cloned instance, and hand-offs to Live Agent are included. Leading practices to get started are also incorporated.
 
 See [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) for additional information on Virtual Agent.
 
@@ -67,6 +67,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing \[Product\] recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

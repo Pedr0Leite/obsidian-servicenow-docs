@@ -16,7 +16,7 @@ breadcrumb: [Continual Improvement Management, IT Service Management]
 
 Identify improvement opportunities in your organization and determine your improvement goal.
 
-You can identify improvement opportunities based on feedback from cross-functional groups and from within integrated [[dex-workspace-application-tab|applications]] and determine the goal or expected result to be achieved from the improvement. Improvement opportunities need not be limited to the applications you use, your area of expertise, or your specific group. Examples of improvement opportunities include KPI performance, customer satisfaction, resources, processes, and training.
+You can identify improvement opportunities based on feedback from cross-functional groups and from within integrated applications and determine the goal or expected result to be achieved from the improvement. Improvement opportunities need not be limited to the applications you use, your area of expertise, or your specific group. Examples of improvement opportunities include KPI performance, customer satisfaction, resources, processes, and training.
 
 -   Identify improvement opportunists based on feedback from cross-functional groups.
     -   Process manager or process owner: Reach out to the process manager or process owner to identify improvement suggestions for a process that is not working well.
@@ -27,18 +27,12 @@ You can identify improvement opportunities based on feedback from cross-function
     |-----------|-----------|
     |Surveys|Review customer feedback and complaints and send additional assessments soliciting customers for improvement opportunity suggestions.|
     |Performance Analytics|Monitor process KPIs and internal process assessments in Performance Analytics reports to identify improvement opportunities.|
-    |Benchmarks|Compare KPI performance with [[benchmarks-landing|Benchmarks]] baseline reports, and identify improvement opportunities in Benchmarks recommendations.|
+    |Benchmarks|Compare KPI performance with Benchmarks baseline reports, and identify improvement opportunities in Benchmarks recommendations.|
     |Service|Review undesirable trends in reports to identify improvement opportunities.|
-    |Problem Management and Change Management|Review [[c_ProblemManagement|Problem Management]] and [[c_ITILChangeManagement|Change Management]] trend reports to identify improvement opportunities.|
+    |Problem Management and Change Management|Review Problem Management and Change Management trend reports to identify improvement opportunities.|
     |Risk and GRC Audits|Review Risk registers and GRC Audit test failures to discover improvement opportunities.|
     |IT Service Management|Review ITSM regularly to identify improvement opportunities for what is not working well.|
 
 
 **Parent Topic:**[Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[benchmarks-landing|Benchmarks]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ITILChangeManagement|Change Management]]

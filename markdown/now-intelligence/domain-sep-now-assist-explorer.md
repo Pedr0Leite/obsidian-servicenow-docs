@@ -19,7 +19,7 @@ Domain separation is supported for AI Data Explorer. Domain separation enables y
 
 
 -   Business logic: Ensure that data goes into the proper domain for the application’s service provider use cases.
--   The application supports domain separation at run time. The domain separation includes separation from the user interface, cache keys, [[reporting-landing-page|reporting]], rollups, and aggregations.
+-   The application supports domain separation at run time. The domain separation includes separation from the user interface, cache keys, reporting, rollups, and aggregations.
 -   The owner of the instance must set up the application to function across multiple tenants.
 
 Sample use case: When a service provider \(SP\) uses chat to respond to a tenant-customer’s message, the customer must be able to see the SP's response.
@@ -36,14 +36,10 @@ When a user in an exploration asks a question of the AI, the answer is limited t
 
 All AI Data Explorer tables have domain fields to associate explorations to domains and restrict access accordingly.
 
-**Parent Topic:**[[now-assist-explorer-reference|AI Data Explorer reference]]
+**Parent Topic:**[AI Data Explorer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[now-assist-explorer-reference|AI Data Explorer reference]]
-- [[reporting-landing-page|Reporting]]

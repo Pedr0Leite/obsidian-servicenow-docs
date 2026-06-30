@@ -12,7 +12,7 @@ breadcrumb: [Predictive Intelligence for case management, Machine learning solut
 
 # Use Predictive Intelligence for case management
 
-Agents can use Predictive [[intelligence-csm|Intelligence]] to predict values for configured fields when creating a customer service case.
+Agents can use Predictive Intelligence to predict values for configured fields when creating a customer service case.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ When you create a case, the Predictive Intelligence feature predicts values for 
 
     The system doesn't overwrite user-entered values for the predicted fields.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]

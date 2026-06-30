@@ -26,7 +26,7 @@ If an assigned reserve or created payment amount by an adjuster is higher than t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the task one of the following ways.
 
@@ -40,7 +40,7 @@ Select the task from the My pending tasks list.
 
 </td></tr><tr><td id="d104462e85">
 
-**From the [[personal-lines-claims-landing-page|Personal lines claims]] approvals list**
+**From the Personal lines claims approvals list**
 
 </td><td>
 
@@ -69,7 +69,3 @@ Select the task from the My pending tasks list.
 -   If the claims manager rejects the reserve or payment amount, the manager provides another recommendation. A notification of the rejected status triggers to the adjuster.
 -   System-generated entries for reserve or payment amount approval or rejection add to the Activity stream. These automated entries support auditing and tracking.
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]

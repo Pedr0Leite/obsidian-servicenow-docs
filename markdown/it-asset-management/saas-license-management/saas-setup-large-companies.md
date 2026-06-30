@@ -14,7 +14,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 # SaaS License Management setup for large companies
 
-Set up [[sam-subscription-management|SaaS License Management]] for large companies to confirm that you can view all SaaS usage data in your ServiceNow instance.
+Set up SaaS License Management for large companies to confirm that you can view all SaaS usage data in your ServiceNow instance.
 
 Some large companies must update the **com.snc.pa.dc.max\_row\_count\_indicator\_source** system property before creating integration profiles. If either of the following conditions is true for your company, an admin must update this property.
 
@@ -64,6 +64,3 @@ Update the **com.snc.pa.dc.max\_row\_count\_indicator\_source** system property 
 
 [Subscription exclusions for SaaS and SSO applications]()
 
-## Related
-
-- [[sam-subscription-management|SaaS License Management]]

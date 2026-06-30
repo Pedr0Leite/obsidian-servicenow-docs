@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery case assignment, HR Administration, Configure, 
 
 # Advanced Work Assignment \(AWA\) for HR Service Delivery
 
-Use the ServiceNow Advanced Work Assignment for [[hr-service-delivery|HR Service Delivery]] feature to automatically assign HR cases to agents based on availability, capacity, and skills.
+Use the ServiceNow Advanced Work Assignment for HR Service Delivery feature to automatically assign HR cases to agents based on availability, capacity, and skills.
 
 AWA for HR Service Delivery pushes cases and tasks to qualified agents using work item queues, routing conditions, and assignment criteria that you define.
 
@@ -24,6 +24,3 @@ AWA is also available for HR Service Delivery Agent Workspace. For more informat
 
 **Parent Topic:**[HR Service Delivery case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-assignment.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

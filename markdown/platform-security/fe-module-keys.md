@@ -12,7 +12,7 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Module keys for Field Encryption
 
-The Module Keys tab shows you summary level information about your [[field-encryption|Field Encryption]] Data [[encryption-landing|Encryption]] Key\(s\). You can view the Key alias, Key type, Algorithm, Key lifecycle state, and Key version.
+The Module Keys tab shows you summary level information about your Field Encryption Data Encryption Key\(s\). You can view the Key alias, Key type, Algorithm, Key lifecycle state, and Key version.
 
 ## Accessing module key information
 
@@ -22,9 +22,9 @@ The information available depends on which version of Field Encryption you have 
 
 -   **Field Encryption Starter**
 
-    [[using-column-level-encryption|Using Field Encryption]] Starter, you can view key usage audit data.
+    Using Field Encryption Starter, you can view key usage audit data.
 
--   **[[now-platform-encryption|Field Encryption Enterprise]]**
+-   **Field Encryption Enterprise**
 
     You to perform manual key operations such as Renew, Revoke, Rotate, or Suspend, in addition to viewing key usage audit data.
 
@@ -47,12 +47,5 @@ Information on your module keys is displayed on the module key record in the fie
 |Future destruction date|When the Module Key will be destroyed.|
 |Key lifecycle state|Current the state of the Module Key.|
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

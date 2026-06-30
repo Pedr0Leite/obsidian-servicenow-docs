@@ -14,7 +14,7 @@ breadcrumb: [Cloud API \(CAPI\), Cloud Provisioning and Governance, ITOM Cloud A
 
 # Add a product to an existing provider in CAPI
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] [[cloud-management-api|Cloud API \(CAPI\)]] offers many providers, such as AWS and Azure, and products, such as EC2 instances. However, you can add products to existing providers for new types of cloud resources.
+The Cloud Provisioning and Governance Cloud API \(CAPI\) offers many providers, such as AWS and Azure, and products, such as EC2 instances. However, you can add products to existing providers for new types of cloud resources.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This topic provides general instructions for extending an existing cloud provide
 
 ## Procedure
 
-1.  In your instance \(not in the [[cloud-admin-portal|Cloud Admin Portal]]\), enter the following text into the application filter:
+1.  In your instance \(not in the Cloud Admin Portal\), enter the following text into the application filter:
 
     `sn_capi_product.list`
 
@@ -110,7 +110,7 @@ Dependency Sequence
 
 </td><td>
 
-The order in which resource type is provisioned or discovered. Specify the order based on inter-dependencies of resources. For example, if you have a network and a subnet that you want to discover or create, specify a higher order for network than subnet, so that [[r-discovery|discovery]] or creation of resources is performed logically and sequentially.
+The order in which resource type is provisioned or discovered. Specify the order based on inter-dependencies of resources. For example, if you have a network and a subnet that you want to discover or create, specify a higher order for network than subnet, so that discovery or creation of resources is performed logically and sequentially.
 
 </td></tr></tbody>
 </table>    \[Omitted image "capi-resource-type.png"\] Alt text: A new resource type
@@ -124,9 +124,3 @@ The order in which resource type is provisioned or discovered. Specify the order
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-management-api|Cloud API \(CAPI\)]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]

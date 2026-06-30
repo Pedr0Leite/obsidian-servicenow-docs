@@ -25,11 +25,11 @@ Role required: agent\_client\_collector\_admin
 The Refresh Host Data for Agents scheduled job collects host data and runs every hour on the following:
 
 -   Hosts which have not been discovered in the past 12 hours.
--   Host for which [[r-discovery|Discovery]] failed.
+-   Host for which Discovery failed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
     In the **Host data collection** column, view the status of data collection on the agent's host. The possible statuses are:
 
@@ -45,7 +45,3 @@ The Refresh Host Data for Agents scheduled job collects host data and runs every
 
 **Parent Topic:**[Enabling Agent Client Collector data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collection-enabling.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]

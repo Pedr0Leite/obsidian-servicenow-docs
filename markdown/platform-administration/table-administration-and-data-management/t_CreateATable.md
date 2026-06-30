@@ -14,17 +14,17 @@ breadcrumb: [Managing tables and indexes, Table admin, Tables and data, Configur
 
 # Create a table
 
-Administrators and application developers can create [[custom-tables|custom tables]] to store application data. After you create a table, you can also modify field types and field labels.
+Administrators and application developers can create custom tables to store application data. After you create a table, you can also modify field types and field labels.
 
 ## Before you begin
 
 Role required: admin
 
-Check your custom table entitlements before creating custom tables. See [[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]].
+Check your custom table entitlements before creating custom tables. See [Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md).
 
 ## About this task
 
-ServiceNow AI Platform application subscriptions include custom table entitlements. You can create custom tables for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]].
+ServiceNow AI Platform application subscriptions include custom table entitlements. You can create custom tables for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md).
 
 **Note:** It is best to create tables when building applications with tools. To learn more, see [Building applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md). To minimize the existence of unneeded and extraneous tables in an instance, don't overdo table creation. Create only those tables you need to minimize administration tasks and shorten upgrade times. Do not extend the \[sys\_choice\] table. Extending the \[sys\_choice\] table is not supported.
 
@@ -142,15 +142,15 @@ Type
 
 </td><td>
 
-\[Mandatory\] Define the field type for the column. See [[c_IntroductionToFields|Field administration]] and [[r_FieldTypes|Field types]]. To preserve existing data, only change fields between the same basic type \(for example, **Choice** and **String**\). A warning appears if a change to a custom field [[hs-results|results]] in data loss. You cannot change a base system field, that results in data loss.
+\[Mandatory\] Define the field type for the column. See [Field administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md) and [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md). To preserve existing data, only change fields between the same basic type \(for example, **Choice** and **String**\). A warning appears if a change to a custom field results in data loss. You cannot change a base system field, that results in data loss.
 
 </td></tr><tr><td>
 
-[[reference-email-admin|Reference]]
+Reference
 
 </td><td>
 
-Make the field into a [[c_ReferenceField|Reference field type]] by entering the referenced table name.
+Make the field into a [Reference field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md) by entering the referenced table name.
 
  **Note:** Dynamic reference creation is enabled for this field. So, if you enter a table name that does not match an existing table, a new table is created when you save changes to the current table record. If the current table has a module in the application navigator, then a module for the newly created table is automatically created in the same application menu.
 
@@ -183,7 +183,7 @@ Display
 
 </td><td>
 
-Indicate whether this field is the [[c_DisplayValues|Display values]] \(appears on records that reference this table\).
+Indicate whether this field is the [Display values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) \(appears on records that reference this table\).
 
  **Note:** This option does not control whether this field is displayed on lists or forms.
 
@@ -300,14 +300,3 @@ When you create a new custom table, several fields appear in the **Table Columns
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]]
-- [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
-- [[c_IntroductionToFields|Exploring field administration]]
-- [[r_FieldTypes|Field types reference]]
-- [[c_ReferenceField|Reference field type]]
-- [[c_DisplayValues|Display values]]
-- [[custom-tables|Custom tables]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

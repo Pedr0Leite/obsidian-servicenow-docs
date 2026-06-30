@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Generate HR Profiles
 
-For new customers using [[hr-service-delivery|HR Service Delivery]], you can create an [[c_HRProfileRecords|HR profile]] for multiple employees using conditions and criteria.
+For new customers using HR Service Delivery, you can create an HR profile for multiple employees using conditions and criteria.
 
 ## Before you begin
 
@@ -46,7 +46,3 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.manager
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

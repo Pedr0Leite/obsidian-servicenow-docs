@@ -29,7 +29,7 @@ You can create post case review documents for customer service product cases tha
 
 You can create one post case review document per case. If this document has already been created, the **Create Post Case Review** menu option is not available. You can view and edit the post case review document from the Related Records form section.
 
-If a case is closed while the post case review is in progress, you can still update the **Additional comments** field on the [[r_CustomerServiceCaseForm|Case form]] with the Post Case Review document link. When the case is closed, the system displays a message about the case closure on the Post Case Review form.
+If a case is closed while the post case review is in progress, you can still update the **Additional comments** field on the Case form with the Post Case Review document link. When the case is closed, the system displays a message about the case closure on the Post Case Review form.
 
 ## Procedure
 
@@ -206,6 +206,4 @@ Records all activity associated with this record.
 
     The document is included as a link in the **Additional comments** field on the Case form. If the document is available to customers, the link is visible from the Customer and Consumer Service Portals.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

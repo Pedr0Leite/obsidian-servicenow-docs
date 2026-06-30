@@ -14,7 +14,7 @@ breadcrumb: [Using Instance Scan, Instance Scan, Maintain and monitor, Administe
 
 # Parallel scans
 
-Parallel scan is a functionality in [[hs-landing-page|Instance Scan]] that allows multiple scans to run in parallel instead of sequential execution. This improves efficiency and reduces wait times when several scans are executed concurrently.
+Parallel scan is a functionality in Instance Scan that allows multiple scans to run in parallel instead of sequential execution. This improves efficiency and reduces wait times when several scans are executed concurrently.
 
 Use parallel scan to reduce wait times and improve throughput when multiple scans are triggered at the same time. Parallel execution is especially useful in environments with large development teams or frequent scans, where running scans sequentially can delay feedback and slow development and validation workflows. By enabling concurrent execution, parallel scan reduces delays caused by sequential processing and helps teams receive faster feedback when multiple scans are triggered across scripts, tables, update sets, or large code and configuration changes.
 
@@ -60,6 +60,3 @@ See [Instance Scan properties](https://raw.githubusercontent.com/ServiceNow/Serv
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]

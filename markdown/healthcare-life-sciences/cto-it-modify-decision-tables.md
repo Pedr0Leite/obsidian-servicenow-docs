@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Modify state decision tables in Care Team Operations for Healthcare IT
 
-Use Decision Builder to change the state mappings for cases and incidents in [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+Use Decision Builder to change the state mappings for cases and incidents in Care Team Operations for Healthcare IT.
 
 \[Omitted image "cto-it-state-sync-1.png"\] Alt text: HCIT state sync map
 
@@ -51,6 +51,3 @@ These values can be found in the Dictionary Entry for the State field.
 |Closed|7|7|
 |Canceled|8|8|
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

@@ -14,9 +14,9 @@ breadcrumb: [Workplace dashboards, Workplace Core, Safe Workplace, Health and Sa
 
 # Workplace dashboard in Workplace Service Portal
 
-Use the Workplace Dashboard from [[workplace-services-portal-hr|Workplace Service Portal]] to visually analyze the available workspace capacity, space request and reservation trends, and monitor the maintenance tasks of your workplace. You can also reserve a space for an employee or create a workplace maintenance task directly from this Workplace Service Portal page.
+Use the Workplace Dashboard from Workplace Service Portal to visually analyze the available workspace capacity, space request and reservation trends, and monitor the maintenance tasks of your workplace. You can also reserve a space for an employee or create a workplace maintenance task directly from this Workplace Service Portal page.
 
-To open the Workplace dashboard on the Workplace Service Portal, navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Dashboard**.
+To open the Workplace dashboard on the Workplace Service Portal, navigate to **Workplace Core** &gt; **Dashboard**.
 
 Selecting a region and site in the filter at the top displays reports for available campuses in separate tabs.
 
@@ -83,7 +83,3 @@ The data displayed in visualizations corresponds to the selected campus.
 
 [Create an ad hoc workplace task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-adhoc-workplace-task.md)
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

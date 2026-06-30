@@ -14,7 +14,7 @@ breadcrumb: [Customizing Lists in Portfolio Planning Workspace, Configure, Portf
 
 # Customize Lists in Portfolio Planning Workspace
 
-Add custom tables to the Lists menu in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace.
+Add custom tables to the Lists menu in Portfolio Planning Workspace.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ For more information of configuring lists in a workspace, see [Lists](https://ra
 
     Repeat this procedure until you've created all the custom categories and lists.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

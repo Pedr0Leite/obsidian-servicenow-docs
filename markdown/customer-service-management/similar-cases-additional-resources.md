@@ -12,9 +12,9 @@ breadcrumb: [Similar case recommendations, Machine learning solutions, Implement
 
 # Additional search resources
 
-The [[similar-case-recommendation|similar case recommendation]] feature uses additional search resources, which are configured using the [[osp-contextual-search|Contextual Search]] application.
+The similar case recommendation feature uses additional search resources, which are configured using the Contextual Search application.
 
-Navigate to **Contextual Search** &gt; **Additional Resources** to view the Search Resources \(Additional Resources view\) list. Two types of additional search resources are available: Table and Predictive [[intelligence-csm|Intelligence]] Similarity.
+Navigate to **Contextual Search** &gt; **Additional Resources** to view the Search Resources \(Additional Resources view\) list. Two types of additional search resources are available: Table and Predictive Intelligence Similarity.
 
 ## Table resources
 
@@ -159,7 +159,7 @@ Case
 Returns a list of all similar cases created in the last six months.Associated with the All Similar Cases similarity solution definition.
 
 </td></tr></tbody>
-</table>## Major case [[migration-agent-assist|agent assist]] recommendations
+</table>## Major case agent assist recommendations
 
 The Major Case agent assist recommendations is used for recommending major cases.
 
@@ -189,9 +189,3 @@ The Major Case agent assist recommendations:
     -   Finding the number of distinct accounts that cases must belong to for a major issue recommendation. The default value is 3.
     -   The number of similar cases that must be returned by the solution definition for a major issue recommendation using a script. The default value is 10.
 
-## Related
-
-- [[similar-case-recommendation|Similar case recommendation]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]
-- [[migration-agent-assist|Agent assist]]

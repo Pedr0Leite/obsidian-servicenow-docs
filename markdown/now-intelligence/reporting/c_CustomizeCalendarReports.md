@@ -23,12 +23,9 @@ To configure how calendar entries appear for a table, add calendar\_elements att
 -   **[Modifying and adding calendar report system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/modify-add-calendar-sys-props.md)**  
 Specify system property values to override Task table highlighting in calendar events, limit the number of events in a calendar cell, or change the day the calendar week starts.
 -   **[Change highlighting of calendar report events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_HighlightACalendarEntry.md)**  
-Field styles control the highlighting of events in [[c_CalendarReport|calendar reports]]. Manage field styles to change how highlighting works.
+Field styles control the highlighting of events in calendar reports. Manage field styles to change how highlighting works.
 -   **[Customize start and end dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CustomizeAStartAndEndDate.md)**  
 You can configure calendar reports to support the spanning of multi-day events across calendar cells.
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[c_CalendarReport|Calendar reports]]

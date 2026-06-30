@@ -14,7 +14,7 @@ ServiceNow® Catalog Conversational Coverage provides a dashboard to view a high
 
 You can view this information in the Conversational catalog overview dashboard. The dashboard displays a graphical representation of various reports, such as the number of conversational and non-conversational catalog items, reasons that make the items non-conversational, and popular request channels. It also shows a list of the catalog items, their conversational status, and other details.
 
-**Note:** You can access the conversational catalog dashboard only if you’ve installed the [[now-assist-in-conversational-catalog-request|Now Assist in Conversational Catalog Request]] app. Conversational catalog dashboard can’t be installed separately as it's bundled with Now Assist in Conversational Catalog Request.
+**Note:** You can access the conversational catalog dashboard only if you’ve installed the Now Assist in Conversational Catalog Request app. Conversational catalog dashboard can’t be installed separately as it's bundled with Now Assist in Conversational Catalog Request.
 
 Drilling down the catalog items, you can view the details, for example, whether they’re conversational or non-conversational and why the items are non-conversational. Explore the potential suggestions for non-conversational items that might help you make items conversational.
 
@@ -177,7 +177,7 @@ You can view this page only if you have any of the following roles:
 -   Catalog administrator \[catalog\_admin\]
 -   Catalog manager \[catalog\_manager\]
 -   Catalog editor \[catalog\_editor\]
--   [[catalog-builder|Catalog builder]] editor \[catalog\_builder\_editor\]
+-   Catalog builder editor \[catalog\_builder\_editor\]
 
 **Note:** The catalog manager, catalog editor, and catalog builder editor can view the details page only if they have edit access to the catalog item.
 
@@ -202,7 +202,7 @@ After going over the recommendations to make the item conversational, select **E
 -   Only the catalog admin, catalog manager, and catalog editor can view the **Edit in advanced view** button.
 -   If you're viewing a catalog item that's in the checked out state, you view its data that corresponds to the published version of the item. Any changes to the draft of the catalog item won’t be reflected here until it’s published.
 
-By default, all catalog items are conversational. To make the catalog item non-conversational, select the **Make the item non-conversational in VA** [[check-box|check box]] in ServiceNow AI Platform®.
+By default, all catalog items are conversational. To make the catalog item non-conversational, select the **Make the item non-conversational in VA** check box in ServiceNow AI Platform®.
 
 **Important:** Select the **Turn off Now Assist \(LLM\)** check box if you don't want the data of the catalog item \(and user responses\) to be sent to the LLM for security reasons, in case the catalog item contains sensitive data. Selecting this option ensures that this item will invoke the NLU topic block if it’s compatible, otherwise, it will show up either as a pop-up or as a link depending on the item's configuration. Restrictions on the NLU topic block are stricter than the LLM topic block and therefore a conversational item in the LLM topic block \(as shown in the Conversational Catalog Overview dashboard\) may not be conversational in the NLU topic block.
 
@@ -231,7 +231,7 @@ Role required: catalog\_admin, catalog\_manager, and catalog\_editor
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definitions** &gt; **Maintain Items**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**.
 
 2.  On the Catalog Items list page, select **Conversational Overview**.
 
@@ -270,9 +270,3 @@ Role required: catalog\_admin
 
 [Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
-## Related
-
-- [[now-assist-in-conversational-catalog-request|Now Assist in Conversational Catalog Request]]
-- [[catalog-builder|Catalog Builder]]
-- [[check-box|Check box]]
-- [[service-catalog|Service Catalog]]

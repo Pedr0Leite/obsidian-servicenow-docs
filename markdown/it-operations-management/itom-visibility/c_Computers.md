@@ -14,7 +14,7 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Operating systems discovery
 
-[[r-discovery|Discovery]] identifies the following computers, clusters, and virtual machines.
+Discovery identifies the following computers, clusters, and virtual machines.
 
 -   **[AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md)**  
 Discovery identifies and classifies information about AIX servers.
@@ -27,7 +27,7 @@ The ServiceNow Discovery application finds Microsoft Hyper-V hypervisors in your
 -   **[Red Hat JBoss server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DataCollDiscoJBossServers.md)**  
 Discovery can detect JBoss application servers running on Linux and Windows systems.
 -   **[Linux discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoLinuxComputers.md)**  
-Discovery and [[c_ServiceMappingOverview|Service Mapping]] applications use probes and patterns to discover and map information about Linux computers and servers. The information is populated in the CMDB. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping applications use probes and patterns to discover and map information about Linux computers and servers. The information is populated in the CMDB. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Netware discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNetware.md)**  
 Discovery identifies and classifies information about Netware.
 -   **[Mac \(OS/X\) discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoMacOSXComputers.md)**  
@@ -45,7 +45,3 @@ Discovery and Service Mapping Patterns finds computers running the z/OS operatin
 
 **Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

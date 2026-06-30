@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
 You can work on part requirements associated with a work order task in the Mobile Agent application but you can't create a part requirement.
 
-You can only initiate the sourcing workflow using the Mobile Agent application. The sourcing flow can be completed only in the [[using-eam-workspace|Enterprise Asset Workspace]].
+You can only initiate the sourcing workflow using the Mobile Agent application. The sourcing flow can be completed only in the Enterprise Asset Workspace.
 
 ## Procedure
 
@@ -100,6 +100,3 @@ You must complete the sourcing of the requested parts in the Enterprise Asset Wo
 
 [Move enterprise assets to maintenance state using the Mobile Agent application]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

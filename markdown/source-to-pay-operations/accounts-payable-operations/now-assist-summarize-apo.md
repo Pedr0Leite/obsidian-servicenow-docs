@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist for Accounts Payable Operations \(APO\), Now Assis
 
 # Summarize a record by using Now Assist for Accounts Payable Operations \(APO\)
 
-Summarize invoice and inquiry cases using the record summarization skill in [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] to quickly understand status, progress, and pending actions.
+Summarize invoice and inquiry cases using the record summarization skill in Now Assist for Accounts Payable Operations \(APO\) to quickly understand status, progress, and pending actions.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_cm.agent
 
 ## About this task
 
-You can use these record summarization skills in either Core UI or [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can use these record summarization skills in either Core UI or Source-to-Pay Workspace.
 
 -   In Core UI, the summary appears in a banner in the record.
 -   In Source-to-Pay Workspace, the summary is generated on the **Details** tab.
@@ -50,7 +50,7 @@ Procedure
 
 </td><td>
 
-1.  Navigate to **Lists** &gt; **** &gt; **[[invoices|Invoices]]** &gt; **All invoices**.
+1.  Navigate to **Lists** &gt; **** &gt; **Invoices** &gt; **All invoices**.
 2.  Select any invoice and the link to the record under the Number column.
 3.  Open an invoice record and select **Cases**.
 
@@ -139,9 +139,3 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]

@@ -38,7 +38,7 @@ Installed Certificate \[sn\_disco\_certmgmt\_cmdb\_installed\_certificate\]
 
 </td><td>
 
-[[r-discovery|Discovery]] populates this table with all discovered certificates and shows all locations where certificates are installed. It does not have a reference to the server CI and does not go through IRE. Relationships with the managed certificate are stored in the CI Relationship \[cmdb\_rel\_ci\] table. The relationships can be for servers, applications, or business services.
+Discovery populates this table with all discovered certificates and shows all locations where certificates are installed. It does not have a reference to the server CI and does not go through IRE. Relationships with the managed certificate are stored in the CI Relationship \[cmdb\_rel\_ci\] table. The relationships can be for servers, applications, or business services.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Contains URLs targeted for certificate discovery.
 
 Certificate Management Credential\[sn\_disco\_certmgmt\_certificate\_management\_credential\]
 
-\(Version 1.1.7 [[cert-inventory-mgmt|Certificate Inventory and Management]]\)
+\(Version 1.1.7 Certificate Inventory and Management\)
 
 </td><td>
 
@@ -193,7 +193,3 @@ Stores the Microsoft Teams channel notification settings for certificate events.
 </td></tr></tbody>
 </table>**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

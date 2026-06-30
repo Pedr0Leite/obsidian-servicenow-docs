@@ -14,7 +14,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Configure a delivery channel for Virtual Agent notification
 
-Configure a delivery channel for [[virtual-agent-landing-page|Virtual Agent]] notifications by specifying the messaging channel information to send notifications to users.
+Configure a delivery channel for Virtual Agent notifications by specifying the messaging channel information to send notifications to users.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin
 
 ## About this task
 
-Use the delivery channel to support multiple channels for the same notification content. The procedure to configure delivery channels depends on the channel type. There are two notification channel types: Messaging channels and chat channels. For more information about channels, see [[ci-channels-overview|Channels in Conversational Interfaces]].
+Use the delivery channel to support multiple channels for the same notification content. The procedure to configure delivery channels depends on the channel type. There are two notification channel types: Messaging channels and chat channels. For more information about channels, see [Channels in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-channels-overview.md).
 
 Delivery channels are also part of multiple active conversations in Virtual Agent. See [Route Virtual Agent NLU notifications through multiple portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/t_route-va-notifications-multiple-portals.md) for more information.
 
@@ -45,7 +45,7 @@ Delivery channels are also part of multiple active conversations in Virtual Agen
 
         Use the arrows to add or remove specific delivery channels from your Selected Delivery Channels list. When you've defined all applicable delivery channels, select **Save**.
 
-        **Note:** The mweb channel is for the web client and the NASS channel is for [[nava-enhanced-chat|enhanced chat]]. If no specific chat channel is defined, notifications are triggered to all available chat channels by default. Virtual Agent admins can modify the chat channels associated with a notification at any time.
+        **Note:** The mweb channel is for the web client and the NASS channel is for enhanced chat. If no specific chat channel is defined, notifications are triggered to all available chat channels by default. Virtual Agent admins can modify the chat channels associated with a notification at any time.
 
 5.  On the form, fill in the fields.
 
@@ -63,8 +63,3 @@ Delivery channels are also part of multiple active conversations in Virtual Agen
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[ci-channels-overview|ci channels overview]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]

@@ -14,11 +14,11 @@ breadcrumb: [Customizing and configuring Visual Task Boards, Using Visual Task B
 
 # Configure Visual Task Boards labels
 
-Labels help categorize tasks and visually distinguish them on the task board. You can disable or rename labels using the labels tab of the [[activity-stream-configurable-workspace|activity stream]].
+Labels help categorize tasks and visually distinguish them on the task board. You can disable or rename labels using the labels tab of the activity stream.
 
 ## Before you begin
 
-Role required: [[c_Tags|tags]]\_admin and global\_tags\_creator
+Role required: tags\_admin and global\_tags\_creator
 
 ## About this task
 
@@ -61,7 +61,3 @@ Board members can edit the labels on a board. All the labels are visible on the 
 
 **Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/configuring-vis-task-boards.md)
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[c_Tags|Tags]]

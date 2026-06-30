@@ -14,13 +14,13 @@ breadcrumb: [Setting up Granular Delegation, Granular Delegation, Employee Servi
 
 # Activate Granular Delegation
 
-You can activate the [[granular-delegation|Granular Delegation]] plugin \(com.glide.granular\_service\_delegation\) for the ServiceNow AI Platform if you have the admin role.
+You can activate the Granular Delegation plugin \(com.glide.granular\_service\_delegation\) for the ServiceNow AI Platform if you have the admin role.
 
 ## Before you begin
 
 Role required: admin
 
-If the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, the [[employee-center-landing-page|Employee Center]] is also included. On-demand delegations can be performed with the Employee Center or the ServiceNow® mobile.
+If the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, the Employee Center is also included. On-demand delegations can be performed with the Employee Center or the ServiceNow® mobile.
 
 ## Procedure
 
@@ -36,7 +36,4 @@ If the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[granular-delegation|Granular Delegation]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Update banking details form
 
-Use the Update banking details form to update the banking details of the [[supplier|supplier]].
+Use the Update banking details form to update the banking details of the supplier.
 
 <table id="table_vgg_jk4_psb"><thead><tr><th>
 
@@ -152,6 +152,3 @@ Option to upload the bank account proof document. Select **Required - Upload** t
 
 [Update banking details using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-banking-info.md)
 
-## Related
-
-- [[supplier|Supplier]]

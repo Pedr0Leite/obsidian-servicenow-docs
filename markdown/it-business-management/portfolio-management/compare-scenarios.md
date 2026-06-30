@@ -24,7 +24,7 @@ Role required: it\_portfolio\_manager
 
 ## Procedure
 
-1.  Navigate to [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d282913e69">
 
@@ -56,7 +56,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>2.  In the **Plan** tab of the Portfolio Planning Workbench, click **[[compare-scenarios-in-portfolio-planning|Compare Scenarios]]**.
+</table>2.  In the **Plan** tab of the Portfolio Planning Workbench, click **Compare Scenarios**.
 
     The Compare Scenarios page displays all the planning scenarios.
 
@@ -73,7 +73,3 @@ Confirm a scenario that best aligns with your organizational objectives, optimal
 
 **Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

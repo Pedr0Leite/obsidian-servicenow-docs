@@ -12,7 +12,7 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 # Fetch end points in Now Assist Conversational Help skills
 
-The [[conversational-help-skills|Now Assist Conversational Help]] skills architecture solves latency by fetching answers hosted at the nearest location, which is best suited to the user.
+The Now Assist Conversational Help skills architecture solves latency by fetching answers hosted at the nearest location, which is best suited to the user.
 
 ## Fetching solutions hosted on multiple geographical location
 
@@ -24,9 +24,5 @@ The DISH service communicates with the Mimir lookup table to determine the end p
 
 **Note:** The Now Assist Conversational Help skill version is stored in sn\_ads\_now\_help.com.snc\_now\_help\_skill.version, ensuring backward compatibility within the conversational shared services.
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
-## Related
-
-- [[now-assist-reference-landing|Now Assist reference]]
-- [[conversational-help-skills|Now Assist Conversational Help]]

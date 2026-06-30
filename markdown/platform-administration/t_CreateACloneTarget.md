@@ -18,11 +18,11 @@ A clone target record specifies the instance URL and credentials used for clonin
 
 Role required: clone\_admin
 
-If an error occurs while registering a target instance see [[register-target-instance-troubleshooting|Troubleshooting for registering target instance]].
+If an error occurs while registering a target instance see [Troubleshooting for registering target instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-troubleshooting.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-clone-landing|Instance Clone]]** &gt; **Clone Targets**.
+1.  Navigate to **All** &gt; **Instance Clone** &gt; **Clone Targets**.
 
 2.  Select **New**.
 
@@ -40,7 +40,4 @@ If an error occurs while registering a target instance see [[register-target-ins
 
     The system checks connectivity and validates the user credentials against the target instance.
 
-## Related
 
-- [[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]
-- [[system-clone-landing|Instance Clone]]

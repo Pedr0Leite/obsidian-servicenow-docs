@@ -12,9 +12,9 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 
 # Utilities
 
-Access utilities including deployments, [[please_share_your_feedback_on_admin_assist_responses|user access]], and admin API keys to manage and customize CPQ.
+Access utilities including deployments, user access, and admin API keys to manage and customize CPQ.
 
-CPQ has many features and settings outside the standard Admin pages of [[fields|Fields]], [[blueprints|Blueprints]], [[rules_101|Rules]], etc.
+CPQ has many features and settings outside the standard Admin pages of Fields, Blueprints, Rules, etc.
 
 Any features that are not necessarily in common use when creating and editing a configuration can be found in the “Utilities” menu.
 
@@ -22,24 +22,11 @@ Any features that are not necessarily in common use when creating and editing a 
 
 More information about the items in the menu can be found in the following topics:
 
--   [[deployments_page|Viewing blueprint deployments]]
--   [[cpq-using-uam|Using CPQ user access management]]
--   [[cpq-set-up-a-runtime-client|Set up a runtime client]]
--   [[cpq-admin-api-keys|Intro to admin API keys]]
--   [[configurable_products|Setting up configurable products]]
--   [[logik_admin_user_access_control|CPQ: User Access Control]]
--   [[cpq-webhooks|Webhooks]]
+-   [Viewing blueprint deployments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deployments_page.md)
+-   [Using CPQ user access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-uam.md)
+-   [Set up a runtime client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-runtime-client.md)
+-   [Intro to admin API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md)
+-   [Setting up configurable products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configurable_products.md)
+-   [CPQ: User Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_admin_user_access_control.md)
+-   [Webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md)
 
-## Related
-
-- [[deployments_page|Viewing blueprint deployments]]
-- [[cpq-using-uam|Using CPQ user access management]]
-- [[cpq-set-up-a-runtime-client|Set up a runtime client]]
-- [[cpq-admin-api-keys|Intro to admin API keys]]
-- [[configurable_products|Setting up configurable products]]
-- [[logik_admin_user_access_control|logik_admin_user_access_control]]
-- [[cpq-webhooks|Webhooks]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[fields|Fields]]
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]

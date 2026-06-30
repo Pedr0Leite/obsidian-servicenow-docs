@@ -14,7 +14,7 @@ breadcrumb: [Key Management Framework, Encryption]
 
 # Infrastructure Security
 
-Use Infrastructure security tools to create, upload, and manage [[c_Certificates|certificates]] your instance uses to encrypt traffic from client to server.
+Use Infrastructure security tools to create, upload, and manage certificates your instance uses to encrypt traffic from client to server.
 
 The Infrastructure Security plugin provides the tools that you can use to manage the Transport Layer Security \(TLS\) ciphers and certificates. Your instance uses TLS to encrypt traffic from the client to your server.
 
@@ -40,12 +40,7 @@ After installing the plugin, enable Sign Your Own Security \(SYOC\) functionalit
 **Note:** If the **sn\_infra\_sec.syoc.enabled** property isn't available on your instance, you must create it. For details on this process see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 -   **[Generate a Certificate Signing Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/inf-sec-generate-csr.md)**  
-Use the Generate Certificate Signing \(CSR\) page to create a certificate signing [[c_requestAPI|request]] to support customer-signed certificates for your instance load balancer.
+Use the Generate Certificate Signing \(CSR\) page to create a certificate signing request to support customer-signed certificates for your instance load balancer.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[c_Certificates|Certificates]]
-- [[c_requestAPI|request]]

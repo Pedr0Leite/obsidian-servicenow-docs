@@ -16,15 +16,15 @@ breadcrumb: [HR AI voice agents, Use agentic workflows, Now Assist for HR Servic
 
 The Navigation Assistant AI voice agent provides employees with verbal, step-by-step guidance for HR self-service tasks.
 
-The Navigation Assistant is an AI-powered voice agent designed to provide real-time, verbal guidance to employees to help them navigate HR self-service tasks within the [[employee-center-landing-page|Employee Center]]. The agent delivers step-by-step instructions for processes, such as requesting employment verification for a loan application.
+The Navigation Assistant is an AI-powered voice agent designed to provide real-time, verbal guidance to employees to help them navigate HR self-service tasks within the Employee Center. The agent delivers step-by-step instructions for processes, such as requesting employment verification for a loan application.
 
 The agent is highly responsive to user input. Employees can request the agent to repeat a step, to start the process over entirely, or to seek clarification if they are unable to perform a specific step.
 
 Interaction features:
 
 -   **Live Agent Transfer:** In alignment with all AI Voice agents, the employee can request to be transferred to a live agent at any point during the interaction for additional support.
--   **Automated Email Follow-up:** The Navigation Assistant automatically sends the Knowledge Base instructions via email to the employee for offline [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
--   **Session Management:** To optimize system resources, each call is subject to an automatic timeout and will end after ten minutes of [[activity-lxp|activity]].
+-   **Automated Email Follow-up:** The Navigation Assistant automatically sends the Knowledge Base instructions via email to the employee for offline reference.
+-   **Session Management:** To optimize system resources, each call is subject to an automatic timeout and will end after ten minutes of activity.
 
 ## Knowledge sourcing
 
@@ -39,8 +39,3 @@ For the Navigation Assistant to perform at an optimal level, content creators sh
 -   **Plain Text:** Articles must avoid the use of special characters, including currency symbols \(e.g., use "USD" or "dollars" instead of "$"\). Special characters can lead to unpredictable verbalization by the AI voice engine.
 -   **Verbatim Verbalization:** The agent provides a direct verbal read-out of the text. It will not perform summarization. Content creators must ensure that articles are concise and free of redundant or repetitive information, as the agent will verbalize every word as written.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

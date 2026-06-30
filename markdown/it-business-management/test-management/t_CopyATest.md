@@ -14,7 +14,7 @@ breadcrumb: [Tests, Setting up the manual testing process, Test Management 1.0, 
 
 # Create a copy of an existing test
 
-[[t_CreateATest|Create a test]] with the details of an existing test.
+Create a test with the details of an existing test.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ breadcrumb: [Tests, Setting up the manual testing process, Test Management 1.0, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestCases|Test Cases]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Cases**.
 
 2.  Open the test case which has the test that you want to duplicate.
 
-3.  From the **[[c_Tests|Tests]]** related list, open the test that you want to duplicate.
+3.  From the **Tests** related list, open the test that you want to duplicate.
 
 4.  Click the **Create Duplicate** related link.
 
@@ -40,8 +40,3 @@ breadcrumb: [Tests, Setting up the manual testing process, Test Management 1.0, 
 
 **Parent Topic:**[Tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tests.md)
 
-## Related
-
-- [[t_CreateATest|Create a test]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

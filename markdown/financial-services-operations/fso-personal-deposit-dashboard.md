@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Personal Deposit Operations dashboard
 
-With the [[fso-overview|Financial Services]] Personal Deposit Operations dashboard, you can get an insight into how your team and business are performing for the deposit service requests received for your financial services. You can monitor the status of the deposit service cases, see trends, and drill down into the details from a single view.
+With the Financial Services Personal Deposit Operations dashboard, you can get an insight into how your team and business are performing for the deposit service requests received for your financial services. You can monitor the status of the deposit service cases, see trends, and drill down into the details from a single view.
 
 **Important:** The Financial Services Personal Deposit Operations dashboard has been modernized to give you a better user experience.
 
@@ -189,6 +189,3 @@ Needs to be able to customize views.
 -   Age
 -   Service
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Process Mining, Platform Analytics]
 
 # Create new process start/end condition
 
-Crop your process by setting the new process start condition and new process end condition. This configuration defines which part of the process should be included in the [[process-mining|Process Mining]] project and made available for analysis. The Create new process start and end condition forms have the same fields.
+Crop your process by setting the new process start condition and new process end condition. This configuration defines which part of the process should be included in the Process Mining project and made available for analysis. The Create new process start and end condition forms have the same fields.
 
 <table id="table_sxw_r4h_hvb"><thead><tr><th>
 
@@ -117,6 +117,3 @@ Additional condition that must be true when the current condition is triggered. 
 </td></tr></tbody>
 </table>**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-reference.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

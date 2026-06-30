@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Dispose consumable assets in Enterprise Asset Workspace
 
-Dispose of those [[c_ReceiveAConsumableAsset|consumable assets]] that are no longer required in your [[c_Stockrooms|stockrooms]].
+Dispose of those consumable assets that are no longer required in your stockrooms.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Know that the Planned for disposal column in the Consumable \[alm\_consumable\] 
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Consumable assets**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Consumable assets**.
 
 2.  Open a consumable asset record and select **Mark for disposal**.
 
@@ -41,8 +41,3 @@ Know that the Planned for disposal column in the Consumable \[alm\_consumable\] 
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

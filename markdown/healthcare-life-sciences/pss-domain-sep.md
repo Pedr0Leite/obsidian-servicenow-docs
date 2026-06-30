@@ -12,7 +12,7 @@ breadcrumb: [Reference, Patient Support Services, Healthcare and Life Sciences S
 
 # Domain separation and Patient Support Services
 
-Domain separation is supported for [[pss-app|Patient Support Services]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Patient Support Services. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Important:**
 
@@ -44,9 +44,5 @@ For customers using the Patient Support Services application to raise enrollment
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-**Parent Topic:**[[pss-reference|Patient Support Services reference]]
+**Parent Topic:**[Patient Support Services reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Patient Support Services reference]]
-- [[pss-app|Patient Support Services]]

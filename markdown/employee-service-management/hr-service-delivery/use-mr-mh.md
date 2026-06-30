@@ -22,7 +22,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -37,7 +37,7 @@ Role required: sn\_mh.manager\_hub\_user
     -   Focus on what the team is doing across multiple activities such as journeys, and growth and development \(if Talent Development is installed\).
     -   Use the **Sort by** filter to filter data by employee name, type, location, or attention needed. If Talent Development is installed, filters can be applied on the outcome type of growth plans and on the learnings that the team members are currently pursuing.
     -   Search for a specific employee by entering at least two characters in the **Search** field.
-    -   Select the Card view icon \(\[Omitted image "card-view-mh.png"\] Alt text: Card view icon\) to [[employee-modal-mh|view employee details]] in a card view.
+    -   Select the Card view icon \(\[Omitted image "card-view-mh.png"\] Alt text: Card view icon\) to view employee details in a card view.
     -   Select the List view icon \(\[Omitted image "list-view-mh.png"\] Alt text: List view icon\) to view employee details in a list view.
 6.  Provide assistance to your skip level reporting employees when the direct reporting manager is unavailable, for example, on leave.
 
@@ -51,14 +51,10 @@ Role required: sn\_mh.manager\_hub\_user
 
     For more information, see [View employee details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-modal-mh.md).
 
-9.  Select the View menu icon \(\[Omitted image "viewmenu.png"\] Alt text: View menu icon\) on an employee card or employee modal, to schedule conversations, assign [[exploring-learning-exp|learning]], and so on.
+9.  Select the View menu icon \(\[Omitted image "viewmenu.png"\] Alt text: View menu icon\) on an employee card or employee modal, to schedule conversations, assign learning, and so on.
 
     For more information, see [Use the View menu icon in Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-menu.md).
 
     **Note:** The actions on the employee card are configurable. For more information, refer to [Action Framework in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/action-group-framework.md)
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-modal-mh|View employee details]]
-- [[exploring-learning-exp|Learning]]

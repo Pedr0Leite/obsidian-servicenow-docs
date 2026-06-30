@@ -15,7 +15,7 @@ breadcrumb: [Hardware Asset Management, IT Asset Management]
 
 # Hardware Asset Management integrations
 
-The [[ham-landing-page|Hardware Asset Management]] \(HAM\) application integrates with external systems and ServiceNow platform capabilities to extend asset data quality, lifecycle visibility, and device management across your organization.
+The Hardware Asset Management \(HAM\) application integrates with external systems and ServiceNow platform capabilities to extend asset data quality, lifecycle visibility, and device management across your organization.
 
 -   **Integration with Zero Touch Mobility**
 
@@ -25,9 +25,5 @@ The [[ham-landing-page|Hardware Asset Management]] \(HAM\) application integrate
 -   **[Hardware Asset Management integration with Zero Touch Mobility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-for-ztm.md)**  
 ServiceNow® Hardware Asset Management is integrated with Samsung SDS Zero Touch Mobility to manage the complete life-cycle of mobile devices.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Supported URLs, Universal linking, Mobile URLs, Configuring the Mob
 
 # Mapping specific mobile screens for universal linking
 
-Configure universal links for screen mapping so a user is redirected to a previously styled [[form-screen|record screen]] or [[list-screen|list screen]]. Use this option to provide a customized experience for the user.
+Configure universal links for screen mapping so a user is redirected to a previously styled record screen or list screen. Use this option to provide a customized experience for the user.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-When creating universal links, you define the screen type and the data the user sees after they tap the mobile banner. See, [[universal-linking-web-banner|Create path segment records and supported URL records for universal linking]]. Also there is an option to [[sg-studio-configure-applet-screens|create a screen]] mapping for universal links. Users click these links to see a preconfigured screen based on a defined table.
+When creating universal links, you define the screen type and the data the user sees after they tap the mobile banner. See, [Create path segment records and supported URL records for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-web-banner.md). Also there is an option to create a screen mapping for universal links. Users click these links to see a preconfigured screen based on a defined table.
 
 **Note:** Universal linking mapping does not apply to browser screens, as there are no options for styling and configuring a web page.
 
@@ -84,12 +84,5 @@ Use the reference lookup icon to select a preconfigured record screen that is as
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[universal-linking-support-urls|Mobile universal linking for supported URLs]]
+**Parent Topic:**[Mobile universal linking for supported URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-support-urls.md)
 
-## Related
-
-- [[universal-linking-web-banner|Create path segment records and supported URL records for universal linking]]
-- [[universal-linking-support-urls|Mobile universal linking for supported URLs]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

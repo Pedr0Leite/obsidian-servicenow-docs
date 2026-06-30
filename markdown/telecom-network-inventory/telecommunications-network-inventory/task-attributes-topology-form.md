@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task attributes in Topology form
 
-The Task attributes in Topology form enables you to [[telecommunications-circuit-design-resource-assignment|design and assign]] a topology record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Topology form enables you to design and assign a topology record in the Telecommunications Network Inventory application.
 
 <table id="table_fwy_4xr_jzb"><thead><tr><th>
 
@@ -99,7 +99,3 @@ Connections that are associated with the topology. You can select multiple conne
 
 [Create a network topology record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-network-topology-design-assign.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

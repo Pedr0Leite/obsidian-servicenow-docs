@@ -14,9 +14,9 @@ breadcrumb: [Discovery setup, Configuring Discovery, Discovery, ITOM Visibility,
 
 # Discovery Quick Start
 
-Discovery Quick Start is a wizard that helps you get up and running with [[r-discovery|Discovery]] quickly. Use Discovery Quick Start tasks to discover IP ranges, or subnets, in your environment and then to identify the configuration items \(CI\) in those subnets.
+Discovery Quick Start is a wizard that helps you get up and running with Discovery quickly. Use Discovery Quick Start tasks to discover IP ranges, or subnets, in your environment and then to identify the configuration items \(CI\) in those subnets.
 
-Before [[using-discovery|using Discovery]] Quick Start, install and validate MID Servers. See [MID Server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-installation.md) for details.
+Before using Discovery Quick Start, install and validate MID Servers. See [MID Server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-installation.md) for details.
 
 ## Configure and schedule subnet discovery
 
@@ -213,7 +213,3 @@ Review the requirements for the CI types you intend to discover. See [Data colle
         -   **Finish and Run** saves the schedule and runs a discovery immediately.
         -   **Finish** saves the schedule. Discovery runs at the interval you specified in the schedule.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]

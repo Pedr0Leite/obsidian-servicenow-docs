@@ -20,7 +20,7 @@ Role required: sn\_crm\_escalation\_admin, sn\_crm\_foundation\_admin, or sn\_cs
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **My Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases** &gt; **My Cases**.
 
 2.  Click **Escalate Case** related link.
 
@@ -37,6 +37,4 @@ Role required: sn\_crm\_escalation\_admin, sn\_crm\_foundation\_admin, or sn\_cs
 
 4.  Click **Submit**.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

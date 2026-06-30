@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables for Supplier Lifecycle Operations, Inbound s
 
 # Supplier Legal Entity mapping inbound staging table
 
-The [[supplier-legal-entity-mapping|Supplier legal entity mapping]] inbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_inbound\] staging table temporarily stores important data about the legal entities of a [[supplier|supplier]] before this data is sent to the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) primary table.
+The Supplier legal entity mapping inbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_inbound\] staging table temporarily stores important data about the legal entities of a supplier before this data is sent to the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) primary table.
 
 ## Supplier legal entity mapping inbound staging table
 
@@ -22,7 +22,7 @@ The following table lists the mandatory fields for the Supplier legal entity map
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Legal entity|String|Name of the [[legal-entity|legal entity]] of the supplier.|
+|Legal entity|String|Name of the legal entity of the supplier.|
 |Supplier|String|Name of the supplier.|
 
 **Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-inbound-staging-tables.md)
@@ -38,8 +38,3 @@ The following table lists the mandatory fields for the Supplier legal entity map
 
 [Supplier Payment inbound staging table]()
 
-## Related
-
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]

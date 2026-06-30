@@ -19,19 +19,19 @@ Now Assist products provide generative AI skills that are tailored to meet the n
 
 The following sections describe the available Now Assist skills.
 
-By default, all skills exist in the global domain. When you use Now Assist in a domain-separated environment, users are only able to access data in their domain. For example, if a user uses the summarization skill, Now Assist only uses material that exists in the user's domain when generating that summary. Additionally, there is no co-mingling of data for domain-separated instances when using generative AI skills. The data resides only on the instance, and the shared services used for generative AI do not persist any requests \([[ai-prompts|prompts]]\) and responses. For more information, see [[domain-separation-in-the-now-assist-admin-console|Domain separation in the Now Assist Admin console]]. \(Note that global domain is not the same as global scope. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).\)
+By default, all skills exist in the global domain. When you use Now Assist in a domain-separated environment, users are only able to access data in their domain. For example, if a user uses the summarization skill, Now Assist only uses material that exists in the user's domain when generating that summary. Additionally, there is no co-mingling of data for domain-separated instances when using generative AI skills. The data resides only on the instance, and the shared services used for generative AI do not persist any requests \(prompts\) and responses. For more information, see [Domain separation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/domain-separation-in-the-now-assist-admin-console.md). \(Note that global domain is not the same as global scope. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).\)
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
 **Note:** Some workflow skills support Now Assist functionality. Deactivating these skills may negatively impact some features.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Now Assist skills overview
 
 Now Assist skills are discrete, reusable generative AI capabilities that perform a specific type of work within a workflow. A skill focuses on a single, well‑defined task, such as summarizing content, generating text, analyzing records, or providing recommendations, and returns an output that can be reviewed, used, or acted on by a user or workflow.
 
-Skills are the foundational AI building blocks used across [[now-assist-experiences|Now Assist experiences]], workflows, and products. They enable AI‑powered assistance without requiring custom model development.
+Skills are the foundational AI building blocks used across Now Assist experiences, workflows, and products. They enable AI‑powered assistance without requiring custom model development.
 
 ## What a skill does
 
@@ -47,7 +47,7 @@ Skills are designed to:
 
 -   Use generative AI safely and securely
 
-    Skills run on the ServiceNow AI Platform and respect data boundaries, access [[controls|controls]], and domain separation.
+    Skills run on the ServiceNow AI Platform and respect data boundaries, access controls, and domain separation.
 
 -   Return usable output
 
@@ -62,7 +62,7 @@ Depending on the product and configuration, users can interact with skills in di
 -   Using a skill as part of a workflow driven experience.
 -   Receiving output generated automatically by a workflow or agentic process.
 
-In all [[cases|cases]], skills are designed to assist, not replace, user decision making by reducing manual effort.
+In all cases, skills are designed to assist, not replace, user decision making by reducing manual effort.
 
 **Note:** Some skills are turned on by default, depending on the product and release. Other skills require explicit enablement or configuration in the Now Assist admin experience. Deactivating certain skills may impact dependent features or workflows.
 
@@ -526,7 +526,7 @@ Employee
 
 </td><td>
 
--   Requested item summarization for [[approvals|approvals]]
+-   Requested item summarization for approvals
 -   Request summarization for approvals
 -   Case summarization for approvals
 
@@ -652,7 +652,7 @@ Platform
 
 </td><td>
 
-[[platform-now-assist-landing|Now Assist Platform]]
+[Now Assist Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
 
 </td><td>
 
@@ -662,7 +662,7 @@ Platform
 -   [Document summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/generate-document-summary-now-assist.md)
 -   [Dynamic Guidance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/dynamic-guidance.md)
 -   [Extract information from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-extract-information-from-documents.md)
--   [[configure-gaf|GAF skills]]
+-   [GAF skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md)
 -   [Knowledge content recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-platform-knowledge.md)
 -   [Multimodal chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-exploring-now-assist.md)
 -   [Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-global-navigation.md)
@@ -809,15 +809,3 @@ Other
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[domain-separation-in-the-now-assist-admin-console|Domain separation in the Now Assist Admin console]]
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[configure-gaf|Configure Group Action Framework]]
-- [[ai-prompts|Prompts]]
-- [[now-assist-experiences|Now Assist Experiences]]
-- [[controls|Controls]]
-- [[cases|Cases]]
-- [[approvals|Approvals]]

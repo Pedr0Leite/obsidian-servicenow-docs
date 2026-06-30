@@ -24,11 +24,11 @@ Role required: sn\_eam.enterprise\_asset\_technician, sn\_eam.enterprise\_asset\
 
 ## About this task
 
-You can view and add shipments for your transfer orders, purchase orders, move orders, [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) orders, disposal orders, resale orders, recall orders, reclamation requests, Advanced Shipment Notifications \(ASNs\), and lease [[c_Contracts|contracts]].
+You can view and add shipments for your transfer orders, purchase orders, move orders, Return Merchandise Authorization \(RMA\) orders, disposal orders, resale orders, recall orders, reclamation requests, Advanced Shipment Notifications \(ASNs\), and lease contracts.
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  From the left navigation menu of the Asset operations view, navigate to **Shipment** &gt; **Shipments**.
 
@@ -59,9 +59,3 @@ You can view and add shipments for your transfer orders, purchase orders, move o
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[c_Contracts|Contracts]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

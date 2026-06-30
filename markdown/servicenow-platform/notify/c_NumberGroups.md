@@ -14,7 +14,7 @@ breadcrumb: [Notify reference, Notify, Manage service capabilities, Extend Servi
 
 # Numbers and number groups
 
-Number groups allow you to group [[notify-landing-page|Notify]] phone numbers and share workflows across grouped numbers.
+Number groups allow you to group Notify phone numbers and share workflows across grouped numbers.
 
 Each phone number within Notify has an associated number group. Numbers within a group use the same workflows for handling incoming and outgoing calls and SMS messages.
 
@@ -29,6 +29,3 @@ Associate a Notify number to a number group to use inbound and outbound workflow
 
 **Parent Topic:**[Notify reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-reference-section.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

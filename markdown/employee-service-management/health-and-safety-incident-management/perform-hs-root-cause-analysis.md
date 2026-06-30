@@ -26,7 +26,7 @@ The application includes the Five whys technique of root cause analysis. You can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Open a safety incident assigned to you to add the root cause to.
 
@@ -34,7 +34,7 @@ The application includes the Five whys technique of root cause analysis. You can
 
     The incident playbook opens.
 
-4.  In the **Add root cause analysis** [[activity-lxp|activity]], fill in the fields in the Add root cause analysis section.
+4.  In the **Add root cause analysis** activity, fill in the fields in the Add root cause analysis section.
 
 5.  In the **Problem** field, enter the problem statement.
 
@@ -57,8 +57,3 @@ Add a corrective or preventive action based on your root cause analysis.
 
 **Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

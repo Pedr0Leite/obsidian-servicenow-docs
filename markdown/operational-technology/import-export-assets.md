@@ -26,7 +26,7 @@ Role required: admin
 
 2.  You can import/export all listed assets or you can filter the list using the Filter panel, selecting the Filter tab.
 
-    See [[assets-page-console|Assets page]] for more information about the Filter panel.
+    See [Assets page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/assets-page-console.md) for more information about the Filter panel.
 
 3.  Once you have the list of Assets you want, select the **Actions** button.
 
@@ -52,6 +52,3 @@ Role required: admin
     -   Export Assets \(JSON\)
     -   Export Assets \(CSV\)
 
-## Related
-
-- [[assets-page-console|Assets page]]

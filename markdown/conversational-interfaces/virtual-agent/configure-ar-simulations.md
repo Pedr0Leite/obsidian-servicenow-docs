@@ -171,7 +171,7 @@ Percentage of cases that the simulation has predicted that match active intents 
     |Field|Description|
     |-----|-----------|
     |Resolution potential|Percentage of incidents that have active intents and are mapped to active topics.|
-    |Inactive topics|Virtual Agent topics currently mapped to intents that aren’t active and not visible to users. Select an active topic by using the intent to topic map table in the IAR configuration, or go to [[assistant-designer|Assistant Designer]] to activate the topic.|
+    |Inactive topics|Virtual Agent topics currently mapped to intents that aren’t active and not visible to users. Select an active topic by using the intent to topic map table in the IAR configuration, or go to Assistant Designer to activate the topic.|
     |Mapped intents: Active|Intent that was successfully predicted from the case description and is active in your intent to topic map table.|
     |Mapped intents: Inactive|Predicted intents that are available but not active in your intent to topic map table.|
     |No intents found|Description in the records didn’t match any of the intents available.|
@@ -180,6 +180,3 @@ Percentage of cases that the simulation has predicted that match active intents 
 
 **Parent Topic:**[Using Issue Auto Resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]

@@ -14,13 +14,10 @@ breadcrumb: [Set log levels, Schedule Optimization, Setting up a Field Service s
 
 # Example- Schedule Optimization validation messages
 
-An example of [[schedule-optimization|Schedule Optimization]] validation messages.
+An example of Schedule Optimization validation messages.
 
 -   Example of an Error message type: Agent Missing Work Schedule – If a technician doesn’t have a defined work schedule, they’re excluded from the Optimization run.\[Omitted image "so-error-message.png"\] Alt text: Schedule Optimization error message
 -   Example of a Warning message type: Agent Missing Location – If a technician doesn’t have a home location assigned, they’re excluded from the Optimization run and aren't considered for task assignments.\[Omitted image "so-warning-message.png"\] Alt text: Schedule Optimization warning message
 
 **Parent Topic:**[Configuring log levels for detailed optimization analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configuring-log-levels-for-detailed-optimization-analysis.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

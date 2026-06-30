@@ -12,7 +12,7 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Baseline email notifications
 
-The baseline system provides several email [[notifications|notifications]].
+The baseline system provides several email notifications.
 
 Some events listed in this table do not appear in a business rule and are fired by other conditions in the platform. Some events are hardcoded and are not user configurable.
 
@@ -1101,9 +1101,5 @@ cmdb.unscheduled.change
 </td></tr></tbody>
 </table>**Note:**
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]

@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
-The **[[security-operations-landing-page|Security Operations]] Integration - Isolate Host or Endpoint** flow can be triggered from the related list on a security incident.
+The **Security Operations Integration - Isolate Host or Endpoint** flow can be triggered from the related list on a security incident.
 
 ## Procedure
 
@@ -41,9 +41,5 @@ The **[[security-operations-landing-page|Security Operations]] Integration - Iso
     The flow execution audit is displayed in the work notes section.
 
 
-**Parent Topic:**[[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
 
-## Related
-
-- [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-- [[security-operations-landing-page|Security Operations]]

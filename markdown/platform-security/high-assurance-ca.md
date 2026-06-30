@@ -12,22 +12,22 @@ breadcrumb: [Continuous Authentication \(CA\), Zero Trust Access, Access Managem
 
 # High Assurance session with Continuous Authentication
 
-Establish high assurance session for with ServiceNow's continuous [[c_Authentication|authentication]].
+Establish high assurance session for with ServiceNow's continuous authentication.
 
-A high assurance session is a security measure to establish a secure and trusted connection with the identities \([[users|users]]\) who access data and are verified with a high degree of confidence.
+A high assurance session is a security measure to establish a secure and trusted connection with the identities \(users\) who access data and are verified with a high degree of confidence.
 
-ServiceNow's High assurance is achieved through robust authentication methods which enforces re-authentication using methods such as [[mfa-landing|Multi-factor Authentication]] \(MFA\) and Single Sign On \(SSO\) while the users try to access data that are sensitive.
+ServiceNow's High assurance is achieved through robust authentication methods which enforces re-authentication using methods such as Multi-factor Authentication \(MFA\) and Single Sign On \(SSO\) while the users try to access data that are sensitive.
 
-When the user re-authenticates or perform step-up authentication \(MFA\), there's a high assurance session that is established, which provides the ability for the users to access the data protected by the CA administrator based on the CA policy [[sc-configuration|configuration]].
+When the user re-authenticates or perform step-up authentication \(MFA\), there's a high assurance session that is established, which provides the ability for the users to access the data protected by the CA administrator based on the CA policy configuration.
 
 Following are the re-authentication methods used to establish High-assurance based on the type of login:
 
--   [[high-assurance-sso-logins|High Assurance for SSO login]]
--   [[high-assurance-non-sso-logins|High Assurance for non-SSO login]]
+-   [High Assurance for SSO login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-sso-logins.md)
+-   [High Assurance for non-SSO login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-non-sso-logins.md)
 
 High assurance session created by the user is valid based on the High Assurance session length \(**glide.zta.high\_assurance.session.timeout**\) determined by the CA administrator.
 
-The high assurance session can be customized based on your requirement by setting the **High Assurance** [[ca-system-properties|system properties]]:
+The high assurance session can be customized based on your requirement by setting the **High Assurance** system properties:
 
 <table id="table_tfb_2l2_ddc"><thead><tr><th>
 
@@ -74,29 +74,16 @@ Set the maximum failed authentication attempts before the users are logged out.*
 
 Users who work with high privilege data such as financial transactions, government information, PII, can establish high assurance session as a preemptive measure to avoid frequent authentication notification during their logged in session.
 
-High assurance session can be created by the themselves. To create a high assurance session, select **User Profile** &gt; **Profile**. In the **Related Links** section, select **Create High-Assurance Session**. Verify your [[identity-landing|identity]] to create a high assurance session.
+High assurance session can be created by the themselves. To create a high assurance session, select **User Profile** &gt; **Profile**. In the **Related Links** section, select **Create High-Assurance Session**. Verify your identity to create a high assurance session.
 
 \[Omitted image "ca-high-assurance-profile.png"\] Alt text: High-Assurance Session from the user profile
 
 **Related topics**  
 
 
-[[explore-continuous-auth|Exploring Continuous Authentication]]
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 
-[[pre-work-ca|Pre-work for Continuous Authentication]]
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[[configure-ca|Configuring Continuous Authentication]]
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-ca.md)
 
-## Related
-
-- [[high-assurance-sso-logins|High Assurance for SSO login]]
-- [[high-assurance-non-sso-logins|High Assurance session for non-SSO login]]
-- [[explore-continuous-auth|Exploring Continuous Authentication]]
-- [[pre-work-ca|Pre-work for Continuous Authentication]]
-- [[configure-ca|Configuring Continuous Authentication]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[identity-landing|Identity]]

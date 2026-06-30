@@ -14,7 +14,7 @@ breadcrumb: [ADFS integration with SAML 2.0, Integrating SAML 2.0 with other fea
 
 # Test the ADFS configuration
 
-Test your ADFS [[sc-configuration|configuration]] to verify that it is properly functioning as an [[identity-landing|identity]] provider.
+Test your ADFS configuration to verify that it is properly functioning as an identity provider.
 
 ## Before you begin
 
@@ -32,13 +32,8 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 4.  Click **Continue to Sign In**.
 
-    If you have configured the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 external [[c_Authentication|authentication]] properly, you should be automatically logged into the instance.
+    If you have configured the SAML 2.0 external authentication properly, you should be automatically logged into the instance.
 
 5.  Test a direct login URL by navigating to `https://samportal.example.com/adfs/ls/idpinitiatedsignon.aspx?logintoRP=https://company.service-now.com`.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]

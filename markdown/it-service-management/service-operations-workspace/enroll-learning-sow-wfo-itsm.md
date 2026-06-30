@@ -24,7 +24,7 @@ Role required: sn\_wfo\_cfg\_itsm.employee
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Learning icon \[Omitted image "[[cf-coaching-landing|coaching]]-icon-uib.png"\] Alt text: Learning icon.
+2.  Select the Learning icon \[Omitted image "coaching-icon-uib.png"\] Alt text: Learning icon.
 
 3.  Select the **Discover** tab.
 
@@ -67,6 +67,3 @@ Select **Browse recommended learning**. The content is grouped into different ca
 
 **Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/discovering-learning-sow-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

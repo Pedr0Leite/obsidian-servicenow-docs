@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Prevent Unauthenticated Access to Virtual Agent Embedded Web Client
 
-Learn how to configure the **sn\_va\_web\_client\_app\_embed** table to block unauthenticated [[users|users]] from accessing embedded web clients.
+Learn how to configure the **sn\_va\_web\_client\_app\_embed** table to block unauthenticated users from accessing embedded web clients.
 
 The UI page **sn\_va\_web\_client\_app\_embed**, which is an embedded web client for Virtual Agent, contains the ACL marked 'true' in the sys\_public table Out of Box. It has been confirmed that there are use cases where public accessibility is needed however this is not a security best practice to set it to default publicly accessible.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -99,7 +99,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

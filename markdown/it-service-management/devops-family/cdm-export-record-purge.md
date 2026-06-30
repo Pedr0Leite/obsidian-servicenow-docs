@@ -18,7 +18,7 @@ Change the default deletion period. By default, records of exporter executions a
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
@@ -36,6 +36,3 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
     -   2 years = 63 072 000
     -   3 years = 94 608 000
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

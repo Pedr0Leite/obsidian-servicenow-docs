@@ -83,8 +83,5 @@ Install Setup Hub by requesting it from the ServiceNow Store. Visit the [Service
     -   app-ia-config
     -   admin-center
 
-**Parent Topic:**[[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]]
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-admin-rn-landing.md)
 
-## Related
-
-- [[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]]

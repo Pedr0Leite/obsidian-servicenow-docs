@@ -22,7 +22,7 @@ These two separate procedures \(importing the wrapping key pair and importing th
 
 **Note:** This example uses OpenSSL for key and certificate generation and the Postman API test tool to show REST API use. Substitute other comparable tools based on your company requirements.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
 ## Import the wrapping / unwrapping key pair
 
@@ -46,7 +46,7 @@ This example uses OpenSSL for key and certificate generation. Substitute other c
 
 2.  In your local environment, use the terminal to create a keystore containing public cert \(with the wrapping key\), and private unwrapping key.
 
-    For example:`openssl pkcs12 -[[export|export]] -in wrapping_public.crt -inkey wrapping_private.key -name "wrapping_key_alias" -out wrapping_keystore.p12`
+    For example:`openssl pkcs12 -export -in wrapping_public.crt -inkey wrapping_private.key -name "wrapping_key_alias" -out wrapping_keystore.p12`
 
 3.  On your instance, navigate to **All** &gt; **Key Management** &gt; **Import Settings** &gt; **Key Import Settings**.
 
@@ -79,13 +79,13 @@ Upload your wrapped key into a cryptographic module using the import key from we
 
 ### Before you begin
 
-Role required: sn\_kmf.cryptographic\_manager \(module [[sc-configuration|configuration]]\), sn\_kmf.cryptographic\_operator \(REST operation [[basic-authentication|basic authentication]]\)
+Role required: sn\_kmf.cryptographic\_manager \(module configuration\), sn\_kmf.cryptographic\_operator \(REST operation basic authentication\)
 
 ### About this task
 
 KMF Import key endpoint access is required to complete the key import process.
 
-This example uses OpenSSL to generate keys and [[c_Certificates|certificates]]. You may substitute other comparable tools based on your requirements.
+This example uses OpenSSL to generate keys and certificates. You may substitute other comparable tools based on your requirements.
 
 ### Procedure
 
@@ -95,7 +95,7 @@ This example uses OpenSSL to generate keys and [[c_Certificates|certificates]]. 
 
     This example creates a wrapped key file named `wrapped_symmetric_key.txt`.
 
-2.  [[create-cryptographic-module|Create a cryptographic module]] to be tied to the API.
+2.  Create a cryptographic module to be tied to the API.
 
     See or for additional information.
 
@@ -106,7 +106,7 @@ This example uses OpenSSL to generate keys and [[c_Certificates|certificates]]. 
 
         See or for more information.
 
-4.  Execute an `HTTP POST [[c_requestAPI|request]]` to the import from a web service REST endpoint.
+4.  Execute an `HTTP POST request` to the import from a web service REST endpoint.
 
 <table id="choicetable_wgh_zgb_fqb"><thead><tr><th align="left" id="d98824e407">
 
@@ -163,12 +163,4 @@ Uses basic authentication of `<username/password>`.**Note:** Ensure that the des
 
 5.  Verify that the key successfully imported to the targeted cryptographic module.\[Omitted image "keyimportedfromwebservices.png"\] Alt text: Crypto specification module keys tab with successful key import.
 
-## Related
 
-- [[encryption|Key Management Framework]]
-- [[export|Export]]
-- [[sc-configuration|Configuration]]
-- [[basic-authentication|Basic authentication]]
-- [[c_Certificates|Certificates]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[c_requestAPI|request]]

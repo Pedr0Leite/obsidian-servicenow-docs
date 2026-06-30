@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
     A list of all the checks on the instance shows up.
 
@@ -38,9 +38,9 @@ Role required: admin
 
     Select View queued requests link to see all the queued requests on the Scan Queue Operations page.
 
-    **Note:** This modal shows up only when the number of [[hs-parallel-scan|parallel scans]] exceeds the set value for concurrent scans.
+    **Note:** This modal shows up only when the number of parallel scans exceeds the set value for concurrent scans.
 
-3.  Review the [[hs-results|results]] and other information about the scan execution on the Scan Queue Operations page.
+3.  Review the results and other information about the scan execution on the Scan Queue Operations page.
 
     **Note:** This step is applicable only when you are executing multiple full scans in parallel.
 
@@ -68,8 +68,3 @@ A scan of the whole instance is executed.
 
 [Execute a reactive scan]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-parallel-scan|Parallel scans]]
-- [[hs-results|Results]]

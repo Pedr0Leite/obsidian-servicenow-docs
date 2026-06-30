@@ -14,7 +14,7 @@ breadcrumb: [Use, Individual Life Claims, Exploring insurance claims application
 
 # Associate a discussion with a claim record
 
-Associate a discussion with an [[individual-life-claims-landing-page|Individual Life Claims]] record so that other users have access to the claim record.
+Associate a discussion with an Individual Life Claims record so that other users have access to the claim record.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create or view an ongoing sidebar discussion for cases.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -46,7 +46,4 @@ Create or view an ongoing sidebar discussion for cases.
 
 9.  View a discussion by selecting **Discuss**, and then selecting **Open record**.
 
-## Related
 
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-overview|Financial Services]]

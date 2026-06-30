@@ -38,19 +38,19 @@ Steps
 
 </td><td>
 
-Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d740393e92">
 
-**From [[employee-center-landing-page|Employee Center]] Portal**
+**From Employee Center Portal**
 
 </td><td>
 
 -   Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
--   On the Employee Center portal, select **[[workplace-services|Workplace Services]]** &gt; **Browse Workplace Services**.
+-   On the Employee Center portal, select **Workplace Services** &gt; **Browse Workplace Services**.
 -   Select the **New general reservation** card.
 
-[[reservation-portal|Make a reservation]] portal page opens for you to make workplace reservations.
+Make a reservation portal page opens for you to make workplace reservations.
 
 -   Another way to make reservation is to use chat icon. On the home page, select the chat icon \(\[Omitted image "chat-icon.png"\] Alt text: Chat icon.\). To make a reservation, enter your question or select **Show Me Everything** to select from the list of available options.
 
@@ -160,9 +160,3 @@ Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Manag
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[reservation-portal|Make a reservation]]

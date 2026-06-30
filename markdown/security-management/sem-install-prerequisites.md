@@ -12,18 +12,18 @@ breadcrumb: [Installing Security Exposure Management Workspace applications, Imp
 
 # Migration upgrade prerequisites
 
-Before you install the required applications for [[sem-workspace-user-interface|Security Exposure Management Workspace]], review the following information and setup tasks.
+Before you install the required applications for Security Exposure Management Workspace, review the following information and setup tasks.
 
 ## Unified Security Exposure Management overview
 
-[[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]] introduces a unified foundation across all [[vuln-landing-page|Vulnerability Response]] and Security Exposure Management applications. The new architecture consolidates data models, streamlines feature sets, and enhances performance and scalability. However, migrating to USEM is a significant upgrade that requires careful planning, validation, and change management.
+Unified Security Exposure Management \(USEM\) introduces a unified foundation across all Vulnerability Response and Security Exposure Management applications. The new architecture consolidates data models, streamlines feature sets, and enhances performance and scalability. However, migrating to USEM is a significant upgrade that requires careful planning, validation, and change management.
 
 Security Exposure Management supports the following applications:
 
--   Vulnerability Response \([[threat-intelligence-infrastructure|infrastructure]]\)
--   [[avr-landing|Application Vulnerability Response]]
--   [[cvr-landing|Container Vulnerability Response]]
--   [[vr-config-compliance-landing|Configuration Compliance]]
+-   Vulnerability Response \(infrastructure\)
+-   Application Vulnerability Response
+-   Container Vulnerability Response
+-   Configuration Compliance
 
 ## Prerequisites and notes for upgrade
 
@@ -38,7 +38,7 @@ Security Exposure Management supports the following applications:
     2.  Open an integration record.
     3.  Locate the integration instances related list and open a record.
     4.  Clear the Active flag and save \(Update\) the record.
--   You must deactivate the scheduled jobs and scheduled jobs within integration-specific scopes for the Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, and Configuration Compliance applications. For a list of scheduled jobs you must deactivate, see [[sem-migration-prereq-reference-data|Migration upgrade reference information]].
+-   You must deactivate the scheduled jobs and scheduled jobs within integration-specific scopes for the Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, and Configuration Compliance applications. For a list of scheduled jobs you must deactivate, see [Migration upgrade reference information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-migration-prereq-reference-data.md).
 
     To deactivate scheduled jobs:
 
@@ -46,21 +46,10 @@ Security Exposure Management supports the following applications:
     2.  Open a record.
     3.  Clear the Active flag and save \(Update\) the record.
 
-After you have completed the deactivation of scheduled jobs and third-party integrations, upgrade plugins in sequential order to migrate to USEM. See [[sem-install-required-applications|Download and activate applications]] for more information.
+After you have completed the deactivation of scheduled jobs and third-party integrations, upgrade plugins in sequential order to migrate to USEM. See [Download and activate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-install-required-applications.md) for more information.
 
 1.  Vulnerability Response \(This will upgrade all the dependent plugins shown in the flow chart\)
 2.  Configuration Compliance
 3.  Container Vulnerability Response
 4.  Upgrade each of the third-party integrations you're using, one at a time.
 
-## Related
-
-- [[sem-migration-prereq-reference-data|Migration upgrade reference information]]
-- [[sem-install-required-applications|Download and activate applications]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

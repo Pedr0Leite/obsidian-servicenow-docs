@@ -14,7 +14,7 @@ breadcrumb: [Application services in Event Management, Configuring Event Managem
 
 # Activate and configure Service Mapping for top-down discovery
 
-A top-down [[r-discovery|discovery]] provides a list of CIs and their interrelationships. This information is useful for managing software services and hardware issues that are associated with alerts.
+A top-down discovery provides a list of CIs and their interrelationships. This information is useful for managing software services and hardware issues that are associated with alerts.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-In [[c_EM|Event Management]], [[c_ServiceMappingOverview|Service Mapping]] relationships appear on alerts. You can view the related CI and other information in the Event Management dashboard. The mapping relationships appear in a service map with the generated alert, any CIs that are bound to the alert, and all related CIs.
+In Event Management, Service Mapping relationships appear on alerts. You can view the related CI and other information in the Event Management dashboard. The mapping relationships appear in a service map with the generated alert, any CIs that are bound to the alert, and all related CIs.
 
 ## Procedure
 
@@ -40,8 +40,3 @@ In [[c_EM|Event Management]], [[c_ServiceMappingOverview|Service Mapping]] relat
 
 [Request Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ActivateServiceMappingPlugin.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[c_ServiceMappingOverview|Service Mapping]]

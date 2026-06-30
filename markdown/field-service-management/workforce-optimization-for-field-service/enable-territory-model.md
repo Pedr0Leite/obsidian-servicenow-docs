@@ -22,7 +22,7 @@ Role required: sn\_fsm\_tp.territory\_admin
 
 ## About this task
 
-Activate the [[territory-planning-fsm|Field Service Territory Planning]] plugin \(com.snc.fsm\_territory\_planning\). For more information, see [Activate Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/Activate-fsm-territory-planning.md).
+Activate the Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\). For more information, see [Activate Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/Activate-fsm-territory-planning.md).
 
 ## Procedure
 
@@ -39,13 +39,7 @@ Activate the [[territory-planning-fsm|Field Service Territory Planning]] plugin 
 
 After activating the Field Service territory model successfully, the **Territory** field is added to the work order task form. It allows you to assign tasks to agents or crews to specific territories.
 
-The agent's calendar filters based on territories in the [[dispatcher-activities|Dispatcher Workspace]], and the **Qualifier type for [[schedule-optimization|Schedule Optimization]]** system property is automatically set to **Territory**. For more information, see [[schedule-optimization-properties|Schedule Optimization properties]].
+The agent's calendar filters based on territories in the Dispatcher Workspace, and the **Qualifier type for Schedule Optimization** system property is automatically set to **Territory**. For more information, see [Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md).
 
 Moreover, with **sn\_fsm.use\_query\_rules** query rule being active, agents, dispatchers, and qualifiers can view the work order tasks if they are created in their territories, ensuring data security.
 
-## Related
-
-- [[schedule-optimization-properties|Schedule Optimization properties]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[schedule-optimization|Schedule Optimization]]

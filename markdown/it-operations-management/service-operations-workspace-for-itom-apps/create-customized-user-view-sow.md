@@ -14,11 +14,11 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # Create a user view in Service Operations Workspace
 
-Create and customize a user view in the [[workspace-dashboard-use|Service Operations Workspace]] to enable viewing information in the format you want.
+Create and customize a user view in the Service Operations Workspace to enable viewing information in the format you want.
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 Role required: evt\_mgmt\_admin
 
@@ -54,7 +54,7 @@ Role required: evt\_mgmt\_admin
 
     Views are grouped in the following categories:
 
-    -   **Global views**: Visible to all users. Only an [[c_EM|Event Management]] administrator can create a global view.
+    -   **Global views**: Visible to all users. Only an Event Management administrator can create a global view.
     -   **Private views**: Visible only to the logged-in user.
     **Note:** You can switch between different views by selecting a view from the list next to the **Save** button.
 
@@ -63,8 +63,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[c_EM|Event Management]]

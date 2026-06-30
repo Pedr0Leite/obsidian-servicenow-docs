@@ -14,7 +14,7 @@ breadcrumb: [Check Point Anti-bot - Email Parser integration, Security Incident 
 
 # Configure the Check Point Anti-bot - Email Parser integration
 
-The [[checkpt-antibot-integration|Check Point Anti-bot - Email Parser integration]] uses [[tisc-email-notifications|email notifications]] to drive enrichment, and response workflows.
+The Check Point Anti-bot - Email Parser integration uses email notifications to drive enrichment, and response workflows.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
     The available security integrations appear as a series of cards.
 
@@ -36,7 +36,7 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
 4.  Select the **Check Point Anti-bot** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create an email parser, see [[parsing-emails|Create email parsers in Security Operations]].
+    At a minimum, fill in the `Email is from` field. To create an email parser, see [Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md).
 
 5.  Check the **Active** box.
 
@@ -44,9 +44,4 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
     The email parser is active. You do not need to return to **Integration Configurations**.
 
-## Related
 
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[checkpt-antibot-integration|Check Point Anti-bot - Email Parser integration]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[security-operations-landing-page|Security Operations]]

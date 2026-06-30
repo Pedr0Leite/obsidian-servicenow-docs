@@ -14,7 +14,7 @@ breadcrumb: [Reset a password or unlock a user account with service desk assista
 
 # View user requests for password reset
 
-The **Reset Requests** module displays the status of each [[password-reset-landing-page|password reset]] request from the Password Reset Request table \[pwd\_reset\_request\].
+The **Reset Requests** module displays the status of each password reset request from the Password Reset Request table \[pwd\_reset\_request\].
 
 ## Before you begin
 
@@ -116,6 +116,3 @@ Total number of times the user has attempted to complete a password reset reques
 
 [Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_MonitorPasswordResetActivity.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

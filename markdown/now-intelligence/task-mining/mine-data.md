@@ -23,7 +23,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Navigate to the project you want to group tasks for.
 
@@ -71,7 +71,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 9.  Select **Capture screenshots to create desktop actions** to collect desktop actions automation properties.
 
-    Capture both steps and desktop actions automation properties in a single recording session, instead of recording the same process twice. When a [[task-mining|Task Mining]] analyst submits the automation request, the recording is delivered to the automation team with all UI properties needed to build desktop actions.
+    Capture both steps and desktop actions automation properties in a single recording session, instead of recording the same process twice. When a Task Mining analyst submits the automation request, the recording is delivered to the automation team with all UI properties needed to build desktop actions.
 
 10. Repeat the task scope creation flow \(steps 5–8\) for every task you want to add to this project.
 
@@ -95,7 +95,3 @@ To configure a task to track the status of P1 incidents from creation to closing
 
 Select workstation users you want to collect activity data from and create data requests. For more information, see [Add workstation users to a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/add-users-to-task-mining-project.md).
 
-## Related
-
-- [[task-mining-workspace|Task Mining Workspace]]
-- [[task-mining|Task Mining]]

@@ -14,28 +14,28 @@ breadcrumb: [Configure, Case and Knowledge Management, HR Service Delivery, Empl
 
 # HR Administration
 
-Administer the [[case-knowledge-management-landing-page|Case and Knowledge Management]] application to improve HR efficiency and make it easier for employees to get the services they need.
+Administer the Case and Knowledge Management application to improve HR efficiency and make it easier for employees to get the services they need.
 
-**Note:** To use guided setup to help configure [[hr-service-delivery|HR Service Delivery]] on your instance, navigate to **HR Administration** &gt; **Guided Setup**. For further information on how to use the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
+**Note:** To use guided setup to help configure HR Service Delivery on your instance, navigate to **HR Administration** &gt; **Guided Setup**. For further information on how to use the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 -   **[HR properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_HRProperties.md)**  
-[[t_HRProperties|HR properties]] control the behavior of HR Service Delivery.
+HR properties control the behavior of HR Service Delivery.
 -   **[Configure how HR cases are created](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModCaseCreationConfig.md)**  
 Modify how search results for an employee appear and configure the default HR case creation form.
 -   **[Application view of HR catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_AppView.md)**  
 The **Application View** provides an aerial view of your HR catalog. The **Application View** allows you to view your catalog with all categories and items and ensure that it is set up correctly.
 -   **[HR notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRNotifications.md)**  
-Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **[[hr-service-administration|HR Services]]**.
+Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **HR Services**.
 -   **[Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md)**  
-[[employee-form-configuration|Collect employee input]] without creating additional case records or adding new fields to existing tables with employee forms.
+Collect employee input without creating additional case records or adding new fields to existing tables with employee forms.
 -   **[HR criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-criteria.md)**  
-[[hr-criteria|HR criteria]] defines the audience for HR content, services, or cases. You can make information available to or [[search-hr-case|create an HR case]] for specific groups, individuals, or to all employees using HR criteria.
+HR criteria defines the audience for HR content, services, or cases. You can make information available to or create an HR case for specific groups, individuals, or to all employees using HR criteria.
 -   **[HR surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSurveysIst.md)**  
-[[c_HRSurveysIst|HR Surveys]] let users rate their satisfaction with HR case resolution, and provide management with feedback to improve HR processes.
+HR Surveys let users rate their satisfaction with HR case resolution, and provide management with feedback to improve HR processes.
 -   **[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)**  
-You can use the **[[c_ManagedLists|Managed Lists]]** module to view and manage administrative areas like departments, locations, positions, and details about HR services.
+You can use the **Managed Lists** module to view and manage administrative areas like departments, locations, positions, and details about HR services.
 -   **[HR Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-knowledge-management.md)**  
-[[hr-knowledge-management|HR knowledge management]] allows the enterprise HR department to provide employees with a searchable knowledge base of HR policies, procedures, and other articles. By sharing information with employees, HR can reduce the time spent answering routine questions and enable employees to find answers that are relevant to them.
+HR knowledge management allows the enterprise HR department to provide employees with a searchable knowledge base of HR policies, procedures, and other articles. By sharing information with employees, HR can reduce the time spent answering routine questions and enable employees to find answers that are relevant to them.
 -   **[HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md)**  
 HR services are the requests and assistance an HR organization provides its employees, such as benefits enrollment, direct deposit setup, and requests for relocation assistance.
 -   **[Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md)**  
@@ -43,7 +43,7 @@ Roles control access to features and capabilities in modules in the HR applicati
 -   **[HR Service Delivery case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-assignment.md)**  
 HR cases can be automatically assigned to your agents via an HR case template, assignment and matching rules, or advanced work assignment \(AWA\).
 -   **[Labor unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions.md)**  
-Use [[labor-unions|Labor Unions]] to define the details about unions within your company.
+Use Labor Unions to define the details about unions within your company.
 -   **[Configure an HR badge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModHRBadges.md)**  
 Use **Badges** to create or modify visual indicators that provide quick insights into important attributes of employees, cases, or assigned users, such as organization, role, status, or special conditions on the **HR Ticket** page.
 -   **[Response templates for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md)**  
@@ -59,9 +59,9 @@ Capture multiple job records for a user with the new Jobs \(sn\_hr\_core\_job\) 
 -   **[Standard Ticket Page view for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ur-hr-standard-ticket-page.md)**  
 Configure your HR services to use the Standard Ticket page to provide a consistent user experience for your employees.
 -   **[Translations for HR cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/translation-of-hr-cases-and-tasks.md)**  
-Enable translations on HR [[wsd-templates|case and task templates]] so that employees can view the short descriptions and descriptions of their HR cases and tasks in their preferred language.
+Enable translations on HR case and task templates so that employees can view the short descriptions and descriptions of their HR cases and tasks in their preferred language.
 -   **[Employee Profile table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-profile.md)**  
-The [[emp-slate-employee-profile|Employee Profile]] \(sn\_employee\) plugin provides an Employee Profile \(sn\_employee\_profile\) table that makes the employment start date and employment end date fields available outside of HR Service Delivery. For example, the table can be used with Strategic Portfolio Management to update the resource capacity of users.
+The Employee Profile \(sn\_employee\) plugin provides an Employee Profile \(sn\_employee\_profile\) table that makes the employment start date and employment end date fields available outside of HR Service Delivery. For example, the table can be used with Strategic Portfolio Management to update the resource capacity of users.
 -   **[Link generator for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRLinkGenerator.md)**  
 Use the Link Generator to create a link on an HR case form that accesses information outside of the application to help fulfill the case.
 -   **[HR flows and triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-flows-and-triggers.md)**  
@@ -71,18 +71,3 @@ Enable employee's data export, which can be used by any other agency or departme
 
 **Parent Topic:**[Configuring Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configuring-ckm.md)
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[t_HRProperties|HR properties]]
-- [[hr-service-administration|HR services]]
-- [[employee-form-configuration|Collect employee input]]
-- [[hr-criteria|HR criteria]]
-- [[search-hr-case|Create an HR case]]
-- [[c_HRSurveysIst|HR surveys]]
-- [[c_ManagedLists|Managed lists]]
-- [[hr-knowledge-management|HR Knowledge Management]]
-- [[labor-unions|Labor unions]]
-- [[wsd-templates|Case and Task Templates]]
-- [[emp-slate-employee-profile|Employee profile]]

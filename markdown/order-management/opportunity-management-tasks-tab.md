@@ -26,9 +26,9 @@ Role required: sales\_manager
 
 3.  Select **New** to start a new opportunity task or select an existing opportunity task to make changes.
 
-4.  On the Opportunity Task form, fill in the [[fields|fields]].
+4.  On the Opportunity Task form, fill in the fields.
 
-    For more information, see [[create-opportunity-task-form|Create new opportunity task form]].
+    For more information, see [Create new opportunity task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-opportunity-task-form.md).
 
 5.  Select **Save**.
 
@@ -37,22 +37,15 @@ Role required: sales\_manager
 
 ## What to do next
 
-You can create appointments in your opportunity tasks. To learn more, see [[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]].
+You can create appointments in your opportunity tasks. To learn more, see [Create an appointment from Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md).
 
 -   **[Create an appointment from Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md)**  
 Create appointments with the required stakeholders to move the business discussion forward for your opportunity.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
+[Create a related task from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-related-tasks.md)
 
-## Related
-
-- [[create-opportunity-task-form|Create new opportunity task form]]
-- [[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
-- [[fields|Fields]]

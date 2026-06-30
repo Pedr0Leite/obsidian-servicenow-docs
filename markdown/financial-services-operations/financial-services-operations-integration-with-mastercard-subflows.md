@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Mastercard, Integrate, Financial S
 
 # Financial Services Operations Integration with Mastercard subflows
 
-You can use the following [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]] application subflows to handle the Mastercard [[dispute-management|dispute management]] process.
+You can use the following Financial Services Operations Integration with Mastercard application subflows to handle the Mastercard dispute management process.
 
 ## Financial Services Operations Integration with Mastercard subflows
 
@@ -101,7 +101,7 @@ The agent adds more transactions to a dispute case that the cardholder or the co
 
 -   **Investigate** stage:
 
-The agent works on a **[[report-fraud-visa|Report fraud]] for card network** task that displays only the claim ID without other claim details.
+The agent works on a **Report fraud for card network** task that displays only the claim ID without other claim details.
 
 
 </td></tr><tr><td>
@@ -259,7 +259,7 @@ The agent submits a fraud report by selecting the **Submit fraud** button in the
 
 -   **Chargeback** stage:
 
-The agent submits a chargeback request by selecting the **[[initiate-chargeback-mastercard|Initiate chargeback]]** button in the **[[initiate-chargeback-and-recover-funds-from-merchant|Initiate chargeback and recover funds from merchant]]** task.
+The agent submits a chargeback request by selecting the **Initiate chargeback** button in the **Initiate chargeback and recover funds from merchant** task.
 
 
 </td></tr><tr><td>
@@ -349,7 +349,7 @@ PUT /v6/claims/\{claim-id\}/chargebacks/\{chargeback-id\}
 
 </td><td>
 
-**Chargeback** stage:The agent receives an error message when uploading supporting documents in any of these tasks: **Initiate chargeback and recover funds from merchant**, **[[review-respond-collaboration|Review and respond to collaboration]]**, or **[[review-and-decide-prearbitration|Review chargeback response and decide on pre-arbitration or arbitration]]**.
+**Chargeback** stage:The agent receives an error message when uploading supporting documents in any of these tasks: **Initiate chargeback and recover funds from merchant**, **Review and respond to collaboration**, or **Review chargeback response and decide on pre-arbitration or arbitration**.
 
 </td></tr><tr><td>
 
@@ -547,9 +547,9 @@ PUT /v6/cases/\{case-id\}
 
 </td><td>
 
-**Chargeback** stage:-   The agent escalates the pre-arbitration request to arbitration by selecting the **Escalate to arbitration** button in the **[[review-prearbitration-response-escalate-arbitration|Review pre-arbitration response and escalate to arbitration]]** task.
+**Chargeback** stage:-   The agent escalates the pre-arbitration request to arbitration by selecting the **Escalate to arbitration** button in the **Review pre-arbitration response and escalate to arbitration** task.
 -   The agent withdraws a pre-arbitration or arbitration case by selecting the **Withdraw case** button in either the **Review chargeback response and decide on pre-arbitration or arbitration** task or the **Review pre-arbitration response and escalate to arbitration** task.
--   The agent reuploads the supporting documents for a dispute case by selecting the **Upload document** button in either the **Review pre-arbitration response and escalate to arbitration** task or the **[[review-arbitration-response-mc|Review arbitration response]]** task.
+-   The agent reuploads the supporting documents for a dispute case by selecting the **Upload document** button in either the **Review pre-arbitration response and escalate to arbitration** task or the **Review arbitration response** task.
 
 </td></tr><tr><td>
 
@@ -643,14 +643,3 @@ Mastercom queues help gather related dispute events all in one place, based on t
 |Closed|Contains all closed claims.|
 |Claims List|Contains all open claims.|
 
-## Related
-
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]
-- [[dispute-management|Dispute Management]]
-- [[report-fraud-visa|Report fraud]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]
-- [[initiate-chargeback-and-recover-funds-from-merchant|Initiate chargeback and recover funds from merchant]]
-- [[review-respond-collaboration|Review and respond to collaboration]]
-- [[review-and-decide-prearbitration|Review chargeback response and decide on pre-arbitration or arbitration]]
-- [[review-prearbitration-response-escalate-arbitration|Review pre-arbitration response and escalate to arbitration]]
-- [[review-arbitration-response-mc|Review arbitration response]]

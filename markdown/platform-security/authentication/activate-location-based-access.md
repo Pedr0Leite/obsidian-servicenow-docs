@@ -14,7 +14,7 @@ breadcrumb: [Location Filter, Filter criteria, Adaptive authentication, Authenti
 
 # Activate Location Based Access
 
-Activate the **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\) to allow admins to configure [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]] based on the location of the user.
+Activate the **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\) to allow admins to configure adaptive authentication policies based on the location of the user.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -38,9 +38,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

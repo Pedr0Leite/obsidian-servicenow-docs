@@ -41,8 +41,5 @@ Role required: sn\_sb.admin or admin
 
 ## What to do next
 
-[[activate-entitlements-sb-consumer|Activate the entitlements for the remote record producer.]]
+[Activate the entitlements for the remote record producer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-entitlements-sb-consumer.md)
 
-## Related
-
-- [[activate-entitlements-sb-consumer|Activate the remote record producer]]

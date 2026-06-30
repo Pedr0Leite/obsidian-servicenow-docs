@@ -33,13 +33,10 @@ Collaborate in real time and add versions, store, copy, delete, restore, and upl
 
 ## What to explore next
 
-To learn more about configuring and [[use-mp-document-services-framework|using Multi Provider Document Services Framework]], see:
+To learn more about configuring and using Multi Provider Document Services Framework, see:
 
 -   [Activate Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-multi-provider-doc-framework.md)
 -   [Integrate with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integrate-with-document-services-mp.md)
 -   [Using Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/use-mp-document-services-framework.md)
 -   [Reference Multi Provider Document Services framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-mp-doc-framework.md)
 
-## Related
-
-- [[use-mp-document-services-framework|Using Multi Provider Document Services Framework]]

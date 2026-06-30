@@ -14,9 +14,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # Transport Layer Security \(TLS\) extension classes
 
-The [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates a class for TLS certificates.
+The CMDB CI Class Models app adds or updates a class for TLS certificates.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -115,7 +115,7 @@ Issuer
 
 </td><td>
 
-Entity that has signed and issued the certificate.[[reference|Reference]]: Unique Certificate \[cmdb\_ci\_certificate\]
+Entity that has signed and issued the certificate.Reference: Unique Certificate \[cmdb\_ci\_certificate\]
 
 </td></tr><tr><td>
 
@@ -231,7 +231,7 @@ Identifying information of the subject.
 
 </td></tr><tr><td>
 
-Subject [[email|email]]
+Subject email
 
 </td><td>
 
@@ -305,9 +305,3 @@ CMDB CI Class Models: Release 1.3.0 adds no columns.
 
 [CMDB schema model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_IdentificationRules|Identification rules]]
-- [[reference|Reference]]
-- [[email|Email]]

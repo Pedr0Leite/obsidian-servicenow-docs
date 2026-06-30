@@ -12,7 +12,7 @@ breadcrumb: [Configuring the fulfiller experience in Simplified IT Service Manag
 
 # Configuring Simplified Change Management
 
-Configure [[c_ITILChangeManagement|Change Management]] through a guided experience that walks you through the core setup areas required to make Change Management operational.
+Configure Change Management through a guided experience that walks you through the core setup areas required to make Change Management operational.
 
 The setup provides an opinionated, wizard-driven experience with defaults pre-applied in some steps. Rather than building your configuration from scratch, you can configure by exception, accepting defaults where they apply and customizing only where your organization's needs differ.
 
@@ -22,9 +22,9 @@ Simplified Change Management offers the core functionality of the full Change Ma
 
 Compared to the standard Change Management application, the simplified experience reduces scope in three key ways:
 
--   **Fewer [[change-types|change types]] to configure**
+-   **Fewer change types to configure**
 
-    The standard change application supports a wide range of change types with individually configurable workflows, risk [[c_Models|models]], and approval chains. Simplified change focuses on the most common change patterns—Standard, Normal, and Emergency with prebuilt workflows that work with the base system, so you aren't required to design approval logic before you can go live.
+    The standard change application supports a wide range of change types with individually configurable workflows, risk models, and approval chains. Simplified change focuses on the most common change patterns—Standard, Normal, and Emergency with prebuilt workflows that work with the base system, so you aren't required to design approval logic before you can go live.
 
 -   **Opinionated defaults instead of open-ended configuration**
 
@@ -35,7 +35,7 @@ Compared to the standard Change Management application, the simplified experienc
     The standard change application is configured through multiple administration modules spread across the platform. Simplified change consolidates all required setup into a single, step-by-step guided setup experience within the Configuration Console, so you know what to configure next and can track your progress in one place.
 
 
-Simplified Change Management is intended for organizations that are new to ServiceNow change governance, are transitioning from spreadsheet or email-based change tracking, or need to reach an operational state quickly without a dedicated implementation team. If your organization requires advanced workflow customization, complex multi-stage CAB structures, or integration with enterprise [[c_ITILReleaseManagement|release management]] tools, the full Change Management application may be a better fit.
+Simplified Change Management is intended for organizations that are new to ServiceNow change governance, are transitioning from spreadsheet or email-based change tracking, or need to reach an operational state quickly without a dedicated implementation team. If your organization requires advanced workflow customization, complex multi-stage CAB structures, or integration with enterprise release management tools, the full Change Management application may be a better fit.
 
 ## Configuration areas
 
@@ -43,27 +43,27 @@ Navigate the setup across the core configuration areas within the Configuration 
 
 -   **Team roles**
 
-    Defines who can approve, build, or review a change by mapping individuals and groups to their respective roles in the change process. For more information, see [[configure-team-roles-for-change-management|Configure team roles for Simplified Change Management]].
+    Defines who can approve, build, or review a change by mapping individuals and groups to their respective roles in the change process. For more information, see [Configure team roles for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-team-roles-for-change-management.md).
 
 -   **Risk configuration**
 
-    Establishes how risk is assessed for change requests. Pre-configured [[c_RskAsmtCalc|risk assessment]] questions, responses, and score ranges are provided as defaults, allowing organizations to start with a working risk model and refine it over time as their change governance matures. For more information, see [[configure-risk-change-mgmt|Configure risk for Simplified Change Management]].
+    Establishes how risk is assessed for change requests. Pre-configured risk assessment questions, responses, and score ranges are provided as defaults, allowing organizations to start with a working risk model and refine it over time as their change governance matures. For more information, see [Configure risk for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-risk-change-mgmt.md).
 
 -   **Change Advisory Board \(CAB\)**
 
-    Configures the CAB structure that governs change approvals. Admins define CAB membership, meeting schedules, and the types of changes that require CAB review. Default CAB role mappings are pre-applied to reduce initial setup effort. For more information, see [[configure-cab-change-management|Configure Change Advisory Board for Simplified Change Management]].
+    Configures the CAB structure that governs change approvals. Admins define CAB membership, meeting schedules, and the types of changes that require CAB review. Default CAB role mappings are pre-applied to reduce initial setup effort. For more information, see [Configure Change Advisory Board for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-cab-change-management.md).
 
 -   **Change models**
 
-    Specifies the templates and workflows used for each type of change—Standard, Normal, and Emergency. Base system change models are included as defaults. Admins can modify existing models or create new ones to reflect their organization's change types and workflows. For more information, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+    Specifies the templates and workflows used for each type of change—Standard, Normal, and Emergency. Base system change models are included as defaults. Admins can modify existing models or create new ones to reflect their organization's change types and workflows. For more information, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
--   **[[change-schedule|Change schedules]]**
+-   **Change schedules**
 
-    Defines the maintenance windows and blackout periods that control when changes can be implemented. Default schedules are provided as a starting point and can be customized to align with the organization's operational calendar and service availability requirements. For more information, see [[configure-schedules-for-simplified-change-management|Configure schedules for Simplified Change Management]].
+    Defines the maintenance windows and blackout periods that control when changes can be implemented. Default schedules are provided as a starting point and can be customized to align with the organization's operational calendar and service availability requirements. For more information, see [Configure schedules for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-schedules-for-simplified-change-management.md).
 
 -   **Notifications**
 
-    Configures when and how stakeholders are notified about change activity, approvals, and completions. Default notification rules cover the most common communication touchpoints in the change lifecycle and can be extended or suppressed based on organizational preferences. For more information, see [[configure-notifications-for-simplified-change-management|Configure notifications for Simplified Change Management]].
+    Configures when and how stakeholders are notified about change activity, approvals, and completions. Default notification rules cover the most common communication touchpoints in the change lifecycle and can be extended or suppressed based on organizational preferences. For more information, see [Configure notifications for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-notifications-for-simplified-change-management.md).
 
 
 ## Roles required
@@ -94,20 +94,5 @@ Create and manage blackout and maintenance schedules for Change Management to co
 -   **[Configure notifications for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-notifications-for-simplified-change-management.md)**  
 Add and manage notifications for Change Management to keep users informed about approvals, status updates, and task assignments at key steps in the change process.
 
-**Parent Topic:**[[configuring-fulfiller-experience-ai-native-itsm|Configuring the fulfiller experience in Simplified IT Service Management]]
+**Parent Topic:**[Configuring the fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-fulfiller-experience-ai-native-itsm.md)
 
-## Related
-
-- [[configure-team-roles-for-change-management|Configure team roles for Simplified Change Management]]
-- [[configure-risk-change-mgmt|Configure risk for Simplified Change Management]]
-- [[configure-cab-change-management|Configure Change Advisory Board for Simplified Change Management]]
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[configure-schedules-for-simplified-change-management|Configure schedules for Simplified Change Management]]
-- [[configure-notifications-for-simplified-change-management|Configure notifications for Simplified Change Management]]
-- [[configuring-fulfiller-experience-ai-native-itsm|Configuring the fulfiller experience in Simplified IT Service Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-types|Change types]]
-- [[c_Models|Models]]
-- [[c_ITILReleaseManagement|Release Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[change-schedule|Change schedules]]

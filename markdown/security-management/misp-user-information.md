@@ -12,7 +12,7 @@ breadcrumb: [MISP administration, MISP integration for Security Operations, Thre
 
 # MISP user information
 
-You can use the MISP user information page to view all the associated users for the ServiceNow AI Platform [[misp-integration-for-security-operations|MISP integration for Security Operations]].
+You can use the MISP user information page to view all the associated users for the ServiceNow AI Platform MISP integration for Security Operations.
 
 <table id="table_vh2_dsk_mqb"><thead><tr><th>
 
@@ -98,7 +98,7 @@ Tagger Permission
 Permission that enables a user to do tagging.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[misp-administration|MISP administration]]
+</table>**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -121,7 +121,3 @@ Permission that enables a user to do tagging.
 
 [Troubleshooting MISP integration]()
 
-## Related
-
-- [[misp-administration|MISP administration]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]

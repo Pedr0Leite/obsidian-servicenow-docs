@@ -15,7 +15,7 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Track your AI Search activity
 
-View key analytics for [[ia-ai-search|AI Search]] usage, or follow a link to the full [[ai-search-dashboard|AI Search dashboard]].
+View key analytics for AI Search usage, or follow a link to the full AI Search dashboard.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: ais\_admin
 
 ## About this task
 
-The **Track AI Search activity pane** pane displays reports summarizing your AI Search [[clone-configurations-tab|configurations]] and trends.
+The **Track AI Search activity pane** pane displays reports summarizing your AI Search configurations and trends.
 
 ## Procedure
 
@@ -41,8 +41,3 @@ Reports summarize your AI Search configurations and trends.
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ai-search-dashboard|AI Search dashboard]]
-- [[clone-configurations-tab|Configurations]]

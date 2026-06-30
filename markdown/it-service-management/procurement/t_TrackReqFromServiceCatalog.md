@@ -14,7 +14,7 @@ breadcrumb: [Procurement purchase order management for assets, Procurement, Asse
 
 # Track a request from the service catalog
 
-The [[c_Procurement|Procurement]] application lets you track a request that was ordered from the service catalog.
+The Procurement application lets you track a request that was ordered from the service catalog.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Request REQ0000001: 4 items
 
 [Create an asset and reserve it for the requester]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

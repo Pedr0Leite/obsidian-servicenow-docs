@@ -16,7 +16,7 @@ breadcrumb: [Applying CSDM guidelines to Problem Management, Configuring Problem
 
 The Problem Management use case is described in this section.
 
-[[c_ProblemManagement|Problem Management]] is used to prevent problems and the occurrence of resulting incidents. It also aims at eliminating recurring incidents and minimizing the impact of incidents that cannot be prevented. With Problem Management, you can capture information on affected configuration items \(CIs\), with type as asset, in a problem to keep a record of the updated, repaired, swapped, or retired configuration items. By keeping track of the assets, you can identify the location of the assets, their usage and when the assets were changed. Using Problem Management, you to monitor and manage the assets in your company using a systematic approach.
+Problem Management is used to prevent problems and the occurrence of resulting incidents. It also aims at eliminating recurring incidents and minimizing the impact of incidents that cannot be prevented. With Problem Management, you can capture information on affected configuration items \(CIs\), with type as asset, in a problem to keep a record of the updated, repaired, swapped, or retired configuration items. By keeping track of the assets, you can identify the location of the assets, their usage and when the assets were changed. Using Problem Management, you to monitor and manage the assets in your company using a systematic approach.
 
 If a configuration item \(CI\) has resulted in a problem, use the dependency view to identify other configuration items \(CIs\) affected by the CI that caused the problem. You can then associate affected configuration items \(CIs\) with a problem record to find out how the problem affects other CIs with dependent relationships.
 
@@ -51,13 +51,9 @@ The CSDM framework provides Problem Management context for problems on what CIs 
 
 To determine the impact and root cause, compete the following steps:
 
-1.  Populate the **Configuration Item** attribute on the [[problem-form|Problem form]], configuration\_item, with the CI item or service affected.
+1.  Populate the **Configuration Item** attribute on the Problem form, configuration\_item, with the CI item or service affected.
 2.  \(Optional\) Use the Service and Service Offering attributes on the Problem form to help narrow down the list of configuration items to choose from. This feature is not available with the base system and needs additional configuration.
 3.  \(Optional\) Use the Affected CI related list to identify the CIs that may have caused the problem.
 
 **Parent Topic:**[Applying CSDM guidelines to Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-product-view.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

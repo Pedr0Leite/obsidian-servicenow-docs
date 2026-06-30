@@ -16,7 +16,7 @@ breadcrumb: [ITOM Visibility and CSDM reference, ITOM Visibility reference, ITOM
 
 Consider these points while implementing the CSDM framework.
 
-You can use [[c_ServiceMappingOverview|Service Mapping]] to define application services.
+You can use Service Mapping to define application services.
 
 Here are alternative methods for defining application services:
 
@@ -28,6 +28,3 @@ For more information about creating application services, see [Create an applica
 
 **Parent Topic:**[ITOM Visibility and CSDM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-use-case-product-view.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

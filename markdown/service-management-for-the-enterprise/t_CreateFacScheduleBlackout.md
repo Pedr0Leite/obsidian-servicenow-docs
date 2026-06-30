@@ -20,7 +20,7 @@ Role required: Facilities\_admin \(create\), Facilities\_staff \(view\)
 
 ## Procedure
 
-1.  Navigate to the list of spaces, levels, buildings, campuses, or zones within the **[[r_SpaceManagement|Space Management]]** application. For example, **All** &gt; **Space Management** &gt; **Floor**
+1.  Navigate to the list of spaces, levels, buildings, campuses, or zones within the **Space Management** application. For example, **All** &gt; **Space Management** &gt; **Floor**
 
 2.  Select a record for the space you want to add the blackout period.
 
@@ -40,9 +40,5 @@ Role required: Facilities\_admin \(create\), Facilities\_staff \(view\)
 5.  Click **Add**.
 
 
-**Parent Topic:**[[c_ScheduleBlackout|Schedule blackout periods]]
+**Parent Topic:**[Schedule blackout periods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ScheduleBlackout.md)
 
-## Related
-
-- [[c_ScheduleBlackout|Schedule blackout periods]]
-- [[r_SpaceManagement|Space management]]

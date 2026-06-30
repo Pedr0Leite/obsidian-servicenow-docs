@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Portfolio Management, IT Service Management]
 
 # Digital Portfolio Management life-cycle management
 
-The [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace enables you to work in the plan-build-run life-cycle model. You can manage solutions that you own and view solutions that may have an impact on services or products that you care about.
+The Digital Portfolio Management \(DPM\) Workspace enables you to work in the plan-build-run life-cycle model. You can manage solutions that you own and view solutions that may have an impact on services or products that you care about.
 
 The DPM plan-build-run life cycle surfaces data from other ServiceNow® products in a central location. To view data and take basic actions in the DPM experience, you must install the plugins and roles. For more information, see [Digital Portfolio Management related applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-related-products.md).
 
@@ -36,7 +36,7 @@ Run
 
 </th></tr></thead><tbody><tr><td>
 
-Plan within the context of your solutions \(services, [[dex-workspace-application-tab|applications]], or products\).
+Plan within the context of your solutions \(services, applications, or products\).
 
 </td><td>
 
@@ -88,7 +88,7 @@ Monitor critical key performance indicator \(KPI\) results and operational perfo
     -   View child offering breakdowns.
 -   Receive alerts to current and ongoing impacts.
 -   View business application deployments:
-    -   Assess hardware and [[c_CreatingSoftwareModels|software models]] and technology risk using data from ServiceNow® Governance, Risk, and Compliance.
+    -   Assess hardware and software models and technology risk using data from ServiceNow® Governance, Risk, and Compliance.
     -   Confirm risk conformance and act on risk remediation tasks.
     -   View accelerate metrics from the DevOps Change Workspace to manage scrum and waterfall development and to gain visibility into your software development life cycle.
 
@@ -105,8 +105,3 @@ Monitor critical key performance indicator \(KPI\) results and operational perfo
 
 [View service instance details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-app-service-details.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_CreatingSoftwareModels|Software models]]

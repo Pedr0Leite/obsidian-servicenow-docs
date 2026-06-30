@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Custom control utility
 
-Use the Custom Control utility in a [[virtual-agent-landing-page|Virtual Agent]] topic or topic block to reference a custom input control or a custom response control. Custom controls complement the controls provided in [[assistant-designer|Assistant Designer]].
+Use the Custom Control utility in a Virtual Agent topic or topic block to reference a custom input control or a custom response control. Custom controls complement the controls provided in Assistant Designer.
 
 ## Custom control utility properties
 
@@ -93,7 +93,3 @@ A no-code condition statement or low-code script that specifies a condition for 
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

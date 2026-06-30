@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select **Lease Administration**.
 
@@ -46,6 +46,3 @@ An email message is sent to the selected approver and the contract substate chan
 
 [Approve or reject workplace contract in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

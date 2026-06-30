@@ -14,7 +14,7 @@ breadcrumb: [LangGraph, Service Graph Connectors for AI Control Tower, AI connec
 
 # APIs used for LangGraph
 
-Explore the APIs used in [[langgraph|AI Service Graph Connector for LangGraph]].
+Explore the APIs used in AI Service Graph Connector for LangGraph.
 
 The following table lists all the LangSmith API endpoints used by the connector.
 
@@ -119,7 +119,3 @@ Lists all threads for each deployment
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[langgraph|AI Service Graph connector for LangGraph]]

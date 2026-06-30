@@ -38,7 +38,7 @@ To use this feature, install the following plugins:
 
 See [List of plugins \(Rome\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md) for a complete list of ServiceNow plugins.
 
-After installation, you can use the base system subflows or customize them.​ [[configure-onboarding-modals|Configure]] the subflows in the Document actions table.​ Once configured, they can be invoked as UI actions from List views or can be invoked through Script Include APIs.​
+After installation, you can use the base system subflows or customize them.​ Configure the subflows in the Document actions table.​ Once configured, they can be invoked as UI actions from List views or can be invoked through Script Include APIs.​
 
 -   **Microsoft OneDrive integration plugin**
 
@@ -125,14 +125,10 @@ After installation, you can use the base system subflows or customize them.​ [
 -   Provider\_detail​
 -   user
 
-**Parent Topic:**[[Documentviewer|Document Viewer]]
+**Parent Topic:**[Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 
 **Related topics**  
 
 
 [Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]
-- [[configure-onboarding-modals|Configure]]
